@@ -117,16 +117,16 @@
 | 109 | 2876 | John Rodriguez |
 | 110 | 2870 | Eckoman518 |
 | 111 | 2851 | Erica Williams |
-| 112 | 2851 | Freya |
-| 113 | 2830 | F-X |
-| 114 | 2823 | Angela Lynn |
-| 115 | 2823 | Dawn Geist-Weasner |
-| 116 | 2765 | Shameika Trail |
-| 117 | 2755 | Crystalin Heath Lewis |
-| 118 | 2754 | Nickole Andrews |
-| 119 | 2750 | William Meussner |
-| 120 | 2747 | Isabela Shaw |
-| 121 | 2741 | Brandy M. Schaefer |
+| 112 | 2830 | F-X |
+| 113 | 2823 | Angela Lynn |
+| 114 | 2823 | Dawn Geist-Weasner |
+| 115 | 2765 | Shameika Trail |
+| 116 | 2755 | Crystalin Heath Lewis |
+| 117 | 2754 | Nickole Andrews |
+| 118 | 2750 | William Meussner |
+| 119 | 2747 | Isabela Shaw |
+| 120 | 2741 | Brandy M. Schaefer |
+| 121 | 2740 | Freya |
 | 122 | 2700 | Zappy Cascade |
 | 123 | 2699 | Jennifer Malloy - Cardy |
 | 124 | 2687 | Kelsey Kyle Rhodes |
@@ -224,8 +224,8 @@
 | 216 | 1807 | Osun Anuket Esu |
 | 217 | 1787 | Teddi Notyalc |
 | 218 | 1784 | Matthew Joseph Acevedo |
-| 219 | 1775 | Sommer Shope |
-| 220 | 1775 | Eboni Banks |
+| 219 | 1775 | Eboni Banks |
+| 220 | 1775 | Sommer Shope |
 | 221 | 1774 | Nerdy Pattern |
 | 222 | 1761 | Rosa Franklin |
 | 223 | 1751 | Melissa Penelope Ann Dodge |
@@ -573,8 +573,8 @@
 | 565 | 905 | Cathleena Giusto |
 | 566 | 903 | Stephanie Lumanlan |
 | 567 | 902 | Stephanie Sul |
-| 568 | 899 | Patrick Bartlett |
-| 569 | 899 | Caitlyn Blackwell |
+| 568 | 899 | Caitlyn Blackwell |
+| 569 | 899 | Patrick Bartlett |
 | 570 | 895 | Donna Colby |
 | 571 | 893 | Shantel Kelley |
 | 572 | 890 | Traci Johnson |
@@ -594,8 +594,8 @@
 | 586 | 866 | Mishka Upchurch |
 | 587 | 866 | Tammie Siegfried |
 | 588 | 865 | Lilia Gomez |
-| 589 | 861 | Shavonna Haynes |
-| 590 | 861 | Beth |
+| 589 | 861 | Beth |
+| 590 | 861 | Shavonna Haynes |
 | 591 | 861 | Anthony |
 | 592 | 858 | Joshua Self |
 | 593 | 857 | Marella Petilo |
@@ -627,8 +627,8 @@
 | 619 | 835 | Diane P. Richardson |
 | 620 | 835 | TJ Nash |
 | 621 | 834 | Montez Mancil |
-| 622 | 834 | NanDa Cruzan VI |
-| 623 | 834 | Tracy Cowley |
+| 622 | 834 | Tracy Cowley |
+| 623 | 834 | NanDa Cruzan VI |
 | 624 | 831 | Victoria Regina Girolami |
 | 625 | 830 | Chelle Vintson |
 | 626 | 826 | Demitri Smith |

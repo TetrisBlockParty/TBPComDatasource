@@ -127,8 +127,8 @@
 | 119 | 1152 | Julian Murphy |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Loopy Fallmatch |
-| 123 | 1114 | Groovy Catcher |
+| 122 | 1114 | Groovy Catcher |
+| 123 | 1114 | Loopy Fallmatch |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1101 | Valerie Gendron |
 | 126 | 1093 | Angela M. Fletcher |
@@ -160,8 +160,8 @@
 | 152 | 963 | Crystal Frey |
 | 153 | 961 | Danielle Allison |
 | 154 | 951 | Betty Rosas |
-| 155 | 950 | MissTaylor |
-| 156 | 950 | Giddy Drop |
+| 155 | 950 | Giddy Drop |
+| 156 | 950 | MissTaylor |
 | 157 | 947 | Kellie Montgomery |
 | 158 | 940 | Stephanie Allmon |
 | 159 | 936 | Dolores Falco |
@@ -179,16 +179,16 @@
 | 171 | 875 | Chasity |
 | 172 | 874 | Jessica Pineda-Lopez |
 | 173 | 871 | Rochelle Hazelett |
-| 174 | 868 | Cranky Gridder |
-| 175 | 868 | Nicole Flippo |
+| 174 | 868 | Nicole Flippo |
+| 175 | 868 | Cranky Gridder |
 | 176 | 866 | Domo Washington |
 | 177 | 864 | Sunny Rotater |
 | 178 | 862 | Santeria Trece Candles |
 | 179 | 857 | Dana Fox |
 | 180 | 856 | Dana Winters |
 | 181 | 854 | Speedy Bridger |
-| 182 | 847 | Daring Brickzone |
-| 183 | 847 | Daira Largen |
+| 182 | 847 | Daira Largen |
+| 183 | 847 | Daring Brickzone |
 | 184 | 846 | Nicole Myers |
 | 185 | 842 | Alexmac |
 | 186 | 829 | Patricia White |
@@ -299,8 +299,8 @@
 | 291 | 569 | Gray Hicks |
 | 292 | 569 | Silly Twist |
 | 293 | 567 | Stephanie Burtin |
-| 294 | 566 | Eileen Brady Thurber |
-| 295 | 566 | Tyler Shoff |
+| 294 | 566 | Tyler Shoff |
+| 295 | 566 | Eileen Brady Thurber |
 | 296 | 562 | Dave Herzog |
 | 297 | 561 | Chauntee Alfrey-Cardinale |
 | 298 | 556 | Shiny Zonebuilder |
@@ -397,8 +397,8 @@
 | 389 | 432 | Hoppy Patternline |
 | 390 | 431 | Goofy Fall |
 | 391 | 431 | Donna Esbensen-Alpini |
-| 392 | 430 | Quackers |
-| 393 | 430 | AlsoJess |
+| 392 | 430 | AlsoJess |
+| 393 | 430 | Quackers |
 | 394 | 428 | Samantha Lynn |
 | 395 | 428 | Skinny Baldez |
 | 396 | 428 | keni |
@@ -427,8 +427,8 @@
 | 419 | 404 | Giggy Balanceblock |
 | 420 | 404 | Alice |
 | 421 | 403 | Scott Lindsay |
-| 422 | 401 | Velma Mull |
-| 423 | 401 | block chick |
+| 422 | 401 | block chick |
+| 423 | 401 | Velma Mull |
 | 424 | 400 | Joy Petroski |
 | 425 | 399 | Ann Hammac |
 | 426 | 398 | Breezy Roll |
@@ -452,8 +452,8 @@
 | 444 | 382 | Katheline Lazo Luizaga |
 | 445 | 381 | Romeo |
 | 446 | 381 | Mary Giorgenti |
-| 447 | 380 | neci |
-| 448 | 380 | Foltz Lee Kelli |
+| 447 | 380 | Foltz Lee Kelli |
+| 448 | 380 | neci |
 | 449 | 378 | Nikki Pags |
 | 450 | 378 | Samantha Worley |
 | 451 | 377 | Paula Little |

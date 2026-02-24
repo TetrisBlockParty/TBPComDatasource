@@ -108,8 +108,8 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | quicksand420 |
-| 104 | 834 | Brittney Orengo |
+| 103 | 834 | Brittney Orengo |
+| 104 | 834 | quicksand420 |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
 | 107 | 813 | Klo |
@@ -134,8 +134,8 @@
 | 126 | 729 | Jamie Mann-Deichmann |
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
-| 129 | 719 | Leslie Nicole |
-| 130 | 719 | George Nutt |
+| 129 | 719 | George Nutt |
+| 130 | 719 | Leslie Nicole |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
 | 133 | 704 | Austin Owens |
@@ -165,9 +165,9 @@
 | 157 | 622 | Ernest Maxwell |
 | 158 | 621 | Angelito |
 | 159 | 617 | Erin Thomas |
-| 160 | 616 | Carlos Ramirez |
+| 160 | 616 | Chastity Mitchell |
 | 161 | 616 | Cursed Hag |
-| 162 | 616 | Chastity Mitchell |
+| 162 | 616 | Carlos Ramirez |
 | 163 | 613 | Shiny Fit |
 | 164 | 602 | Cristy Duerksen |
 | 165 | 595 | TRCuse |
@@ -220,8 +220,8 @@
 | 212 | 502 | Christina Black |
 | 213 | 502 | Ericca Eldridge |
 | 214 | 501 | Sharyn Lemire |
-| 215 | 499 | DonMega |
-| 216 | 499 | Kesha Brady |
+| 215 | 499 | Kesha Brady |
+| 216 | 499 | DonMega |
 | 217 | 497 | Damn Libra |
 | 218 | 496 | Jessica Bohlken |
 | 219 | 495 | Joeliecea Cobb |
@@ -237,13 +237,13 @@
 | 229 | 473 | Jolly Dashfit |
 | 230 | 472 | Plucky Patternblock |
 | 231 | 465 | Leslie Thomas |
-| 232 | 464 | Calvin Cannon |
-| 233 | 464 | Zakia Monae |
+| 232 | 464 | Zakia Monae |
+| 233 | 464 | Calvin Cannon |
 | 234 | 463 | shark tato |
 | 235 | 462 | Crystal Nicolette Moore |
 | 236 | 460 | Kathy Brookins |
-| 237 | 458 | Kristina Black |
-| 238 | 458 | Luis Martinez |
+| 237 | 458 | Luis Martinez |
+| 238 | 458 | Kristina Black |
 | 239 | 457 | J-Rizzle |
 | 240 | 457 | Kristin Manee |
 | 241 | 455 | Michele Plunkett |
@@ -299,8 +299,8 @@
 | 291 | 390 | Ari Droff |
 | 292 | 387 | Sandra Safford |
 | 293 | 386 | Vic |
-| 294 | 382 | Matt Dell'Olio |
-| 295 | 382 | Sue Joyce Staats |
+| 294 | 382 | Sue Joyce Staats |
+| 295 | 382 | Matt Dell'Olio |
 | 296 | 381 | Cool Gridzone |
 | 297 | 380 | Jen Caldwell |
 | 298 | 380 | Holly Jolly |
@@ -310,8 +310,8 @@
 | 302 | 376 | Nig |
 | 303 | 375 | George Tzouganos |
 | 304 | 373 | Russ Attitude |
-| 305 | 370 | Twisty Risebuilder |
-| 306 | 370 | Kris Bartlett |
+| 305 | 370 | Kris Bartlett |
+| 306 | 370 | Twisty Risebuilder |
 | 307 | 368 | Dan Wold |
 | 308 | 367 | Meg |
 | 309 | 366 | Ak Jones |
@@ -323,8 +323,8 @@
 | 315 | 354 | @ |
 | 316 | 354 | Perky Piecegrid |
 | 317 | 352 | Kate |
-| 318 | 351 | Dana Scott |
-| 319 | 351 | Jackie Clark |
+| 318 | 351 | Jackie Clark |
+| 319 | 351 | Dana Scott |
 | 320 | 350 | Dizzy Matchzone |
 | 321 | 349 | jim |
 | 322 | 349 | Richard-April Kice |

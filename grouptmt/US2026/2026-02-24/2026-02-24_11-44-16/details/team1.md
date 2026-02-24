@@ -150,9 +150,9 @@
 | 142 | 628 | femmefatale |
 | 143 | 626 | Damon J. Martin |
 | 144 | 620 | Ty Brown |
-| 145 | 617 | Tipsy Riseclear |
-| 146 | 611 | Evan Richmond |
-| 147 | 609 | Basment Living |
+| 145 | 611 | Evan Richmond |
+| 146 | 609 | Basment Living |
+| 147 | 608 | Tipsy Riseclear |
 | 148 | 604 | Tiger Lily |
 | 149 | 603 | Maria C. Hernandez |
 | 150 | 598 | Jessi Sauer |
@@ -275,8 +275,8 @@
 | 267 | 398 | MommaKFC |
 | 268 | 398 | Cece Ibarra |
 | 269 | 396 | Sarahdactyl |
-| 270 | 394 | Nick R Montague |
-| 271 | 394 | Lynn Adams |
+| 270 | 394 | Lynn Adams |
+| 271 | 394 | Nick R Montague |
 | 272 | 393 | Wisa |
 | 273 | 392 | Renee Tucker |
 | 274 | 392 | Poppy Riserpiece |
