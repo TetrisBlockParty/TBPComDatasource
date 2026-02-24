@@ -198,8 +198,8 @@
 | 190 | 1872 | Janel Turley-Garner |
 | 191 | 1855 | Missie Lawson Gebhardt |
 | 192 | 1851 | Kristopher Miller |
-| 193 | 1845 | Jessie McDougald |
-| 194 | 1845 | Katrina Weston |
+| 193 | 1845 | Katrina Weston |
+| 194 | 1845 | Jessie McDougald |
 | 195 | 1840 | blarg |
 | 196 | 1829 | Mr. Street Stack |
 | 197 | 1823 | Lauren Fitzgerald Thomas |
@@ -652,9 +652,9 @@
 | 644 | 758 | Stephanie Neuburger |
 | 645 | 757 | Frisky Clearpiece |
 | 646 | 756 | Aleksandr Gershman |
-| 647 | 755 | Marcia Jones |
-| 648 | 755 | Antonio Mckoy Sr. |
-| 649 | 755 | Bonita Kee |
+| 647 | 755 | Antonio Mckoy Sr. |
+| 648 | 755 | Bonita Kee |
+| 649 | 755 | Marcia Jones |
 | 650 | 754 | Draizen Montrell Thomas |
 | 651 | 753 | John Jubes |
 | 652 | 751 | Swanky Strikerpiece |

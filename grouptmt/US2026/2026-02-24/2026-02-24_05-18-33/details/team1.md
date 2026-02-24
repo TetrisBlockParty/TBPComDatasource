@@ -115,8 +115,8 @@
 | 107 | 751 | Kellie |
 | 108 | 748 | Lori Sanders- Davis |
 | 109 | 737 | Karin Gillen |
-| 110 | 725 | Debbie Kane |
-| 111 | 725 | Phu ckalldems |
+| 110 | 725 | Phu ckalldems |
+| 111 | 725 | Debbie Kane |
 | 112 | 719 | Bindi |
 | 113 | 716 | Kristi Johnson |
 | 114 | 706 | Denice Dee |
@@ -250,8 +250,8 @@
 | 242 | 399 | Lakeisha Chapman |
 | 243 | 398 | MommaKFC |
 | 244 | 397 | Alenoush Karimian |
-| 245 | 396 | Sam Williams |
-| 246 | 396 | Monica Donato |
+| 245 | 396 | Monica Donato |
+| 246 | 396 | Sam Williams |
 | 247 | 395 | Tami Luce Martin |
 | 248 | 394 | Angela Spann |
 | 249 | 393 | Wisa |

@@ -206,8 +206,8 @@
 | 198 | 763 | Tasha Gillespie |
 | 199 | 760 | Kiki |
 | 200 | 757 | Fancy Cascader |
-| 201 | 755 | Laura Booth Wosko |
-| 202 | 755 | Alexmac |
+| 201 | 755 | Alexmac |
+| 202 | 755 | Laura Booth Wosko |
 | 203 | 753 | Morgan Martinez |
 | 204 | 750 | Michael Nowogorski |
 | 205 | 749 | Mykal Burton |
@@ -257,8 +257,8 @@
 | 249 | 605 | Sarah Cowan Burgos |
 | 250 | 604 | Bmo |
 | 251 | 601 | Betty Rosas |
-| 252 | 600 | Natasha Jones |
-| 253 | 600 | Connie Mohler-Fair |
+| 252 | 600 | Connie Mohler-Fair |
+| 253 | 600 | Natasha Jones |
 | 254 | 599 | Noyb Adam |
 | 255 | 599 | Wendy Dearden |
 | 256 | 599 | Sherry Ogden |
@@ -358,16 +358,16 @@
 | 350 | 449 | Mcathen |
 | 351 | 449 | Lively Caster |
 | 352 | 447 | Num1hater |
-| 353 | 446 | Carrie Huskey |
-| 354 | 446 | Jennifer Alvey |
+| 353 | 446 | Jennifer Alvey |
+| 354 | 446 | Carrie Huskey |
 | 355 | 445 | Loopy Clusterer |
 | 356 | 444 | Heather De Vries Cobb |
 | 357 | 443 | Christian Werndl |
 | 358 | 442 | Loopy Fallzone |
 | 359 | 438 | Dannie Litchard |
 | 360 | 436 | AC Yeater |
-| 361 | 435 | Julie Fratrik |
-| 362 | 435 | Sabrina Hardrick |
+| 361 | 435 | Sabrina Hardrick |
+| 362 | 435 | Julie Fratrik |
 | 363 | 432 | Jojo M |
 | 364 | 431 | Donna Esbensen-Alpini |
 | 365 | 430 | Quackers |
