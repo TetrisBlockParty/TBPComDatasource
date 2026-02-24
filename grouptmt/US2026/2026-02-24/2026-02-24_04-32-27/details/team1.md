@@ -45,8 +45,8 @@
 | 37 | 1515 | Felicia Lewis |
 | 38 | 1405 | Chipper Gridlock |
 | 39 | 1391 | Aaron Garnett |
-| 40 | 1334 | june october |
-| 41 | 1334 | Tyler Alcock |
+| 40 | 1334 | Tyler Alcock |
+| 41 | 1334 | june october |
 | 42 | 1321 | Drew Magnus |
 | 43 | 1291 | Marianne Louise West |
 | 44 | 1268 | Hasbro Bros |
@@ -193,8 +193,8 @@
 | 185 | 492 | Happy Snapbuild |
 | 186 | 490 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 187 | 489 | Speedy Liney |
-| 188 | 488 | Ly Phethmany |
-| 189 | 488 | Hyper |
+| 188 | 488 | Hyper |
+| 189 | 488 | Ly Phethmany |
 | 190 | 487 | Eric DeSimone |
 | 191 | 479 | canbrick |
 | 192 | 478 | Jumpy Dropper |

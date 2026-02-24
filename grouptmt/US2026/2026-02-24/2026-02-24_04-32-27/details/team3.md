@@ -127,8 +127,8 @@
 | 119 | 1084 | Santana Lantana |
 | 120 | 1082 | Valerie Gendron |
 | 121 | 1067 | DaBigGuy |
-| 122 | 1066 | Demetrious Shaw Sr. |
-| 123 | 1066 | Jennifer |
+| 122 | 1066 | Jennifer |
+| 123 | 1066 | Demetrious Shaw Sr. |
 | 124 | 1065 | Rachel |
 | 125 | 1055 | Christine Trester |
 | 126 | 1050 | Sherika C. McDaniels |
@@ -148,8 +148,8 @@
 | 140 | 963 | Crystal Frey |
 | 141 | 959 | Sashay Tapae Simpson |
 | 142 | 957 | mzcatzy |
-| 143 | 950 | Giddy Drop |
-| 144 | 950 | MissTaylor |
+| 143 | 950 | MissTaylor |
+| 144 | 950 | Giddy Drop |
 | 145 | 943 | Katrina Schroeder |
 | 146 | 940 | Patty Allen |
 | 147 | 940 | Stephanie Allmon |
