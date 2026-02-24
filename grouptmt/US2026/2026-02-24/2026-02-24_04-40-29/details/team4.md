@@ -136,8 +136,8 @@
 | 128 | 690 | Denia Deni |
 | 129 | 682 | Raegan Lane-Ross |
 | 130 | 669 | Leslie Nicole |
-| 131 | 667 | Matt Gooder |
-| 132 | 667 | Lindsey Gonzalez |
+| 131 | 667 | Lindsey Gonzalez |
+| 132 | 667 | Matt Gooder |
 | 133 | 662 | George Nutt |
 | 134 | 660 | Desi Desporte |
 | 135 | 651 | Adawna Swires |
@@ -159,8 +159,8 @@
 | 151 | 599 | Adam Stephanie Parker |
 | 152 | 595 | Rodney McMath Jr. |
 | 153 | 587 | YoMomma |
-| 154 | 586 | Latisha Davis |
-| 155 | 586 | Cursed Hag |
+| 154 | 586 | Cursed Hag |
+| 155 | 586 | Latisha Davis |
 | 156 | 584 | Carlton Unfiltered |
 | 157 | 582 | Angela Srubar-Norman |
 | 158 | 578 | Livvy |
@@ -433,8 +433,8 @@
 | 425 | 257 | ThriftySpice |
 | 426 | 256 | bloat princess |
 | 427 | 256 | Candice Carasiti |
-| 428 | 255 | Jenny Wells-Oakley |
-| 429 | 255 | Red |
+| 428 | 255 | Red |
+| 429 | 255 | Jenny Wells-Oakley |
 | 430 | 253 | Autum Leigh |
 | 431 | 251 | Kathy Allen |
 | 432 | 251 | Carol Ricks Raymond |

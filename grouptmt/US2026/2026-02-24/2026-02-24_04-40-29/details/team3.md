@@ -455,8 +455,8 @@
 | 447 | 358 | Beejangles |
 | 448 | 358 | Taylor Culver |
 | 449 | 356 | Trice Sodames |
-| 450 | 355 | Kevin Russell |
-| 451 | 355 | Block Baddie |
+| 450 | 355 | Block Baddie |
+| 451 | 355 | Kevin Russell |
 | 452 | 354 | angieelyn |
 | 453 | 353 | Cheeky Snapper |
 | 454 | 353 | Nikkie Bucciano |

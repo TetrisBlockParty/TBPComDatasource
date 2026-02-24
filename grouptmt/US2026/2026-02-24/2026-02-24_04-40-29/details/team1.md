@@ -165,8 +165,8 @@
 | 157 | 548 | Luciano Moreira |
 | 158 | 547 | Sharon Reynolds |
 | 159 | 546 | Loony Fitzone |
-| 160 | 543 | Nicole Roseberry Weber |
-| 161 | 543 | Adrian Esteban |
+| 160 | 543 | Adrian Esteban |
+| 161 | 543 | Nicole Roseberry Weber |
 | 162 | 540 | Tonya Beasley |
 | 163 | 537 | BadG52 |
 | 164 | 537 | Stephanie Zahn |
@@ -253,8 +253,8 @@
 | 245 | 396 | Monica Donato |
 | 246 | 395 | Tami Luce Martin |
 | 247 | 393 | Wisa |
-| 248 | 391 | Bob |
-| 249 | 391 | Happy Basegrid |
+| 248 | 391 | Happy Basegrid |
+| 249 | 391 | Bob |
 | 250 | 390 | David Lutcher |
 | 251 | 387 | Jen Nystrom |
 | 252 | 386 | Melissa Bires Hussar |
@@ -313,10 +313,10 @@
 | 305 | 342 | Marianita Garcia |
 | 306 | 342 | Matt Iaccheo |
 | 307 | 341 | Nick R Montague |
-| 308 | 340 | Danielle Little-Daugherty |
-| 309 | 340 | Robert |
-| 310 | 338 | Layzietyme |
-| 311 | 338 | Tipsy Builder |
+| 308 | 340 | Robert |
+| 309 | 340 | Danielle Little-Daugherty |
+| 310 | 338 | Tipsy Builder |
+| 311 | 338 | Layzietyme |
 | 312 | 336 | Sarah Roberts |
 | 313 | 335 | Dreamy Drop |
 | 314 | 334 | Nate Price |
@@ -378,7 +378,7 @@
 | 370 | 294 | Наталья Солоид |
 | 371 | 294 | Mary Love |
 | 372 | 293 | Sunny Pivotfall |
-| 373 | 292 | Renee Tucker |
+| 373 | 292 | Mark Smith |
 | 374 | 292 | Clever Cascadepiece |
 | 375 | 292 | Renee Tucker |
 | 376 | 291 | Sir-Franchise Drake |
