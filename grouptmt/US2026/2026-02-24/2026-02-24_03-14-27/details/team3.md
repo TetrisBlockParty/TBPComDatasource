@@ -125,8 +125,8 @@
 | 117 | 1093 | Suzieq |
 | 118 | 1082 | Valerie Gendron |
 | 119 | 1067 | DaBigGuy |
-| 120 | 1066 | Jennifer |
-| 121 | 1066 | Demetrious Shaw Sr. |
+| 120 | 1066 | Demetrious Shaw Sr. |
+| 121 | 1066 | Jennifer |
 | 122 | 1065 | Rachel |
 | 123 | 1056 | Santana Lantana |
 | 124 | 1055 | Christine Trester |
@@ -146,8 +146,8 @@
 | 138 | 969 | yoyo |
 | 139 | 963 | Crystal Frey |
 | 140 | 957 | mzcatzy |
-| 141 | 950 | MissTaylor |
-| 142 | 950 | Giddy Drop |
+| 141 | 950 | Giddy Drop |
+| 142 | 950 | MissTaylor |
 | 143 | 943 | Katrina Schroeder |
 | 144 | 940 | Stephanie Allmon |
 | 145 | 939 | Jamie Lang |
