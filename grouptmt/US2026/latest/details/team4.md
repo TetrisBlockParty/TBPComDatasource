@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 20:40:43 UTC
+# Standings for team4 as of 2026-02-24 20:41:21 UTC
 
 **Total Participants:** 2082
 
@@ -727,82 +727,82 @@
 | 719 | 186 | Empress Oasis |
 | 720 | 186 | Jennifer Dineen |
 | 721 | 186 | Miranda Wigginton |
-| 722 | 185 | Emily Regan Wills |
-| 723 | 185 | Marcela Johnson |
+| 722 | 185 | Joe Lonnemann |
+| 723 | 185 | Deanna Mc |
 | 724 | 185 | Nikisha Reed |
-| 725 | 185 | Deanna Mc |
+| 725 | 185 | Marcela Johnson |
 | 726 | 185 | Jennifer Marsella |
-| 727 | 185 | Joe Lonnemann |
-| 728 | 184 | KanVus |
-| 729 | 184 | Flavoredsausage |
-| 730 | 184 | Pampam |
-| 731 | 183 | Lorinda Wixom |
-| 732 | 183 | FallenStar |
-| 733 | 183 | Kristin MacDonald |
-| 734 | 183 | LunaMoon |
-| 735 | 183 | Dapper Caster |
+| 727 | 185 | Emily Regan Wills |
+| 728 | 184 | Larry Agan |
+| 729 | 184 | KanVus |
+| 730 | 184 | Flavoredsausage |
+| 731 | 184 | Pampam |
+| 732 | 183 | Lorinda Wixom |
+| 733 | 183 | FallenStar |
+| 734 | 183 | Dapper Caster |
+| 735 | 183 | LunaMoon |
 | 736 | 183 | Jessi Godsey |
-| 737 | 182 | Snippy Clearer |
+| 737 | 183 | Kristin MacDonald |
 | 738 | 182 | Stephanie Mico |
-| 739 | 182 | Glen Altomare II |
-| 740 | 182 | Hoppy Clearer |
-| 741 | 182 | Cheery Towerzone |
-| 742 | 182 | Maria Larsen |
-| 743 | 182 | Cheery Lift |
-| 744 | 182 | Tamika Starkey |
-| 745 | 181 | Christian Torres |
-| 746 | 181 | Diamond Johnson |
-| 747 | 181 | Caitlyn Brown |
-| 748 | 180 | Matthew Rodriguez |
-| 749 | 180 | Timothy Allen |
+| 739 | 182 | Snippy Clearer |
+| 740 | 182 | Glen Altomare II |
+| 741 | 182 | Hoppy Clearer |
+| 742 | 182 | Cheery Towerzone |
+| 743 | 182 | Maria Larsen |
+| 744 | 182 | Cheery Lift |
+| 745 | 182 | Tamika Starkey |
+| 746 | 181 | Christian Torres |
+| 747 | 181 | Diamond Johnson |
+| 748 | 181 | Caitlyn Brown |
+| 749 | 180 | Matthew Rodriguez |
 | 750 | 180 | Manuel Groleau |
-| 751 | 179 | Zany Mover |
-| 752 | 179 | Joseph Gray |
-| 753 | 179 | Zesty Linkgrid |
-| 754 | 179 | Janis Brown |
-| 755 | 179 | heatheryblue |
-| 756 | 179 | Zappy Bridgepiece |
-| 757 | 178 | Somnium Era |
-| 758 | 178 | Nerdy Linebuilder |
-| 759 | 177 | Quirky Clearfit |
-| 760 | 177 | Morgan Patrick |
-| 761 | 177 | Tina Williams |
-| 762 | 177 | Megan Boyce |
-| 763 | 177 | Heather Layne Smith |
-| 764 | 176 | Tunia Torres |
+| 751 | 180 | Timothy Allen |
+| 752 | 179 | Zany Mover |
+| 753 | 179 | Joseph Gray |
+| 754 | 179 | Zesty Linkgrid |
+| 755 | 179 | Janis Brown |
+| 756 | 179 | heatheryblue |
+| 757 | 179 | Zappy Bridgepiece |
+| 758 | 178 | Somnium Era |
+| 759 | 178 | Nerdy Linebuilder |
+| 760 | 177 | Quirky Clearfit |
+| 761 | 177 | Morgan Patrick |
+| 762 | 177 | Tina Williams |
+| 763 | 177 | Megan Boyce |
+| 764 | 177 | Heather Layne Smith |
 | 765 | 176 | Tina Connick |
-| 766 | 176 | Jay28 |
-| 767 | 175 | Griffen |
-| 768 | 175 | Kristin Rose Nutter |
-| 769 | 175 | Glitzy Crasher |
-| 770 | 175 | Lori Goudy |
-| 771 | 175 | Melissa Tipton Crawford |
-| 772 | 174 | Giggly Balancefit |
-| 773 | 174 | Christina Hyde |
-| 774 | 173 | Too Low Lou |
-| 775 | 173 | Marvetta Williams |
-| 776 | 173 | FreckledFlamingo |
-| 777 | 173 | Groovy Brickmatch |
-| 778 | 173 | Mark Willman |
-| 779 | 173 | April Jo Roder |
-| 780 | 172 | Roy Simmons |
-| 781 | 172 | Sassy Gridzone |
-| 782 | 172 | Gio Santiago |
+| 766 | 176 | Tunia Torres |
+| 767 | 176 | Jay28 |
+| 768 | 175 | Griffen |
+| 769 | 175 | Kristin Rose Nutter |
+| 770 | 175 | Glitzy Crasher |
+| 771 | 175 | Lori Goudy |
+| 772 | 175 | Melissa Tipton Crawford |
+| 773 | 174 | Giggly Balancefit |
+| 774 | 174 | Christina Hyde |
+| 775 | 173 | Groovy Brickmatch |
+| 776 | 173 | Marvetta Williams |
+| 777 | 173 | Too Low Lou |
+| 778 | 173 | FreckledFlamingo |
+| 779 | 173 | Mark Willman |
+| 780 | 173 | April Jo Roder |
+| 781 | 172 | Roy Simmons |
+| 782 | 172 | Sassy Gridzone |
 | 783 | 172 | Linda Alexander Downing |
-| 784 | 172 | Tabitha Calvin |
-| 785 | 171 | Terrance Fung |
-| 786 | 170 | Courtney Angel |
-| 787 | 170 | Larry Agan |
-| 788 | 170 | Josie Peña |
-| 789 | 170 | Yvonne MAguilar |
-| 790 | 169 | Angela Gould |
-| 791 | 169 | Bad company |
-| 792 | 168 | Mike Nelson |
-| 793 | 168 | Holly Tracey-Grimes |
-| 794 | 168 | Krista Buffaloe |
-| 795 | 168 | Heather Stratos |
-| 796 | 168 | George Castillo |
-| 797 | 168 | Heather Mamabear Pezze |
+| 784 | 172 | Gio Santiago |
+| 785 | 172 | Tabitha Calvin |
+| 786 | 171 | Terrance Fung |
+| 787 | 170 | Courtney Angel |
+| 788 | 170 | Yvonne MAguilar |
+| 789 | 170 | Josie Peña |
+| 790 | 169 | Bad company |
+| 791 | 169 | Angela Gould |
+| 792 | 168 | Heather Stratos |
+| 793 | 168 | Krista Buffaloe |
+| 794 | 168 | George Castillo |
+| 795 | 168 | Heather Mamabear Pezze |
+| 796 | 168 | Holly Tracey-Grimes |
+| 797 | 168 | Mike Nelson |
 | 798 | 167 | Dottie Falco |
 | 799 | 166 | Goofy Fitblock |
 | 800 | 165 | Zappy Buildgrid |
@@ -1079,19 +1079,19 @@
 | 1071 | 104 | Jessi Mayfield |
 | 1072 | 103 | Paul Abono |
 | 1073 | 103 | Og Knockout |
-| 1074 | 102 | Austin |
-| 1075 | 102 | Bryan Johnson |
-| 1076 | 102 | Blaze Butler |
-| 1077 | 102 | Christina Nycol |
-| 1078 | 102 | Katy Schuster |
-| 1079 | 101 | Joe Beardslee |
-| 1080 | 101 | Neal Allen II |
-| 1081 | 101 | Saulc1991 |
-| 1082 | 101 | Speedy Clearer |
-| 1083 | 101 | Chirpy Rollbuilder |
-| 1084 | 101 | Aleasha Haukenfrers |
-| 1085 | 101 | Alfredo Aguilar |
-| 1086 | 101 | Peyton Mclaughlin |
+| 1074 | 102 | Peyton Mclaughlin |
+| 1075 | 102 | Austin |
+| 1076 | 102 | Bryan Johnson |
+| 1077 | 102 | Blaze Butler |
+| 1078 | 102 | Christina Nycol |
+| 1079 | 102 | Katy Schuster |
+| 1080 | 101 | Joe Beardslee |
+| 1081 | 101 | Neal Allen II |
+| 1082 | 101 | Saulc1991 |
+| 1083 | 101 | Speedy Clearer |
+| 1084 | 101 | Chirpy Rollbuilder |
+| 1085 | 101 | Aleasha Haukenfrers |
+| 1086 | 101 | Alfredo Aguilar |
 | 1087 | 101 | evil wonton |
 | 1088 | 101 | 420friend |
 | 1089 | 101 | Farrell Williams Jr. |
