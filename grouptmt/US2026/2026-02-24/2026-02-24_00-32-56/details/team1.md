@@ -105,8 +105,8 @@
 | 97 | 744 | Greg Hart |
 | 98 | 737 | Karin Gillen |
 | 99 | 722 | Kellie |
-| 100 | 706 | Denice Dee |
-| 101 | 706 | Plucky Fallzone |
+| 100 | 706 | Plucky Fallzone |
+| 101 | 706 | Denice Dee |
 | 102 | 703 | Angel Fowler |
 | 103 | 691 | Rachael |
 | 104 | 690 | Melissa Lemmon |
@@ -214,8 +214,8 @@
 | 206 | 419 | John J. Cronin |
 | 207 | 417 | Jessie Lynn |
 | 208 | 416 | Jessica Sheehan |
-| 209 | 412 | Witty Builderfit |
-| 210 | 412 | Connie |
+| 209 | 412 | Connie |
+| 210 | 412 | Witty Builderfit |
 | 211 | 408 | Lindsay Glover |
 | 212 | 407 | Ananda Mendez |
 | 213 | 404 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
@@ -458,8 +458,8 @@
 | 450 | 233 | Amie Fields |
 | 451 | 232 | Jennifer Olewnik Soborowski |
 | 452 | 231 | Krie |
-| 453 | 230 | Peppy Columnbuilder |
-| 454 | 230 | Lachelle Dillon |
+| 453 | 230 | Panda Thagreat |
+| 454 | 230 | Peppy Columnbuilder |
 | 455 | 230 | Tipsy Tiltpiece |
 | 456 | 230 | Lachelle Dillon |
 | 457 | 228 | Nate Funk |

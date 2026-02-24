@@ -779,7 +779,7 @@
 | 771 | 210 | Maia |
 | 772 | 210 | Kate Farok |
 | 773 | 210 | Shiny Twisterfit |
-| 774 | 209 | Benny Tyrrell |
+| 774 | 209 | Amber Groover Taylor |
 | 775 | 209 | Latoya Oneluv White |
 | 776 | 209 | Ruchi Smit |
 | 777 | 209 | Mrs. Jones |

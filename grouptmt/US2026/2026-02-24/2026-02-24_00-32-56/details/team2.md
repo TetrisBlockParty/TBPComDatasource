@@ -227,8 +227,8 @@
 | 219 | 1558 | Tim Dyer |
 | 220 | 1557 | Poppy Snap |
 | 221 | 1556 | Tonya Morgan |
-| 222 | 1554 | Osun Anuket Esu |
-| 223 | 1554 | Howard Forest |
+| 222 | 1554 | Howard Forest |
+| 223 | 1554 | Osun Anuket Esu |
 | 224 | 1553 | Wendy Unsain |
 | 225 | 1552 | Cheeky Balancepiece |
 | 226 | 1543 | Alyssa Nadine Medelez |
@@ -335,8 +335,8 @@
 | 327 | 1171 | Loretta Brewer-Gage |
 | 328 | 1170 | Shelley Thornburgh Wright |
 | 329 | 1167 | Min |
-| 330 | 1164 | Kori Beth Babb |
-| 331 | 1164 | F-X |
+| 330 | 1164 | F-X |
+| 331 | 1164 | Kori Beth Babb |
 | 332 | 1158 | Brittany Clark |
 | 333 | 1156 | Arkei Luster |
 | 334 | 1156 | Alezandra Smith |

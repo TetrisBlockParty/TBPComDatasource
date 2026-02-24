@@ -219,8 +219,8 @@
 | 211 | 441 | Lush Linkfall |
 | 212 | 439 | Jen Mattei |
 | 213 | 438 | Melvin Baird |
-| 214 | 438 | TRCuse |
-| 215 | 434 | Ramel Rhodes |
+| 214 | 434 | Ramel Rhodes |
+| 215 | 433 | Damn Libra |
 | 216 | 433 | Circuit8 |
 | 217 | 431 | Zesty Twistbuilder |
 | 218 | 427 | Chao Ma |
@@ -342,8 +342,8 @@
 | 334 | 290 | Neirrah B Olailjeel |
 | 335 | 290 | Jared Gutwein |
 | 336 | 289 | Juls |
-| 337 | 289 | Deb Rubeck |
-| 338 | 289 | Lazy Glidepiece |
+| 337 | 289 | Lazy Glidepiece |
+| 338 | 289 | Deb Rubeck |
 | 339 | 288 | Jumpy Zonepiece |
 | 340 | 288 | Amy Jean |
 | 341 | 286 | Brittany Little |
@@ -413,7 +413,7 @@
 | 405 | 251 | Kathy Allen |
 | 406 | 249 | SHL |
 | 407 | 248 | tipsy tiger |
-| 408 | 248 | Chirpy Basepiece |
+| 408 | 248 | Jose Dejesus |
 | 409 | 248 | Speedy Cascadeclear |
 | 410 | 248 | Chirpy Basepiece |
 | 411 | 246 | Shanon Klair |
