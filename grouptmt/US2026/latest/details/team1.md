@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 23:04:22 UTC
+# Standings for team1 as of 2026-02-24 23:04:48 UTC
 
 **Total Participants:** 2340
 
@@ -372,14 +372,14 @@
 | 364 | 360 | dhardy |
 | 365 | 359 | Rodney Schmerfeld |
 | 366 | 359 | LaFontaine Leslie |
-| 367 | 359 | Kipoi |
-| 368 | 359 | Madbull |
-| 369 | 357 | Sonia Marquis |
-| 370 | 357 | Jasmine Riley |
-| 371 | 356 | Patty Lavigne Craddock |
-| 372 | 356 | Lyn Sibayan |
-| 373 | 356 | Glitzy Grid |
-| 374 | 355 | san |
+| 367 | 359 | san |
+| 368 | 359 | Kipoi |
+| 369 | 359 | Madbull |
+| 370 | 357 | Sonia Marquis |
+| 371 | 357 | Jasmine Riley |
+| 372 | 356 | Patty Lavigne Craddock |
+| 373 | 356 | Lyn Sibayan |
+| 374 | 356 | Glitzy Grid |
 | 375 | 354 | Garrett Burket |
 | 376 | 353 | Chummy Rollblock |
 | 377 | 353 | Josh Riemer |
