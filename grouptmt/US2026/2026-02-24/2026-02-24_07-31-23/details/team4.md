@@ -99,8 +99,8 @@
 | 91 | 878 | Lucille Truesdale |
 | 92 | 873 | Courtney Cicoria |
 | 93 | 869 | Judy Cox |
-| 94 | 864 | Samantha Peterson |
-| 95 | 864 | Guy Incognito |
+| 94 | 864 | Guy Incognito |
+| 95 | 864 | Samantha Peterson |
 | 96 | 854 | Shauna Havard |
 | 97 | 851 | Jason Hart |
 | 98 | 846 | Christine Marie |
@@ -112,8 +112,8 @@
 | 104 | 813 | Klo |
 | 105 | 811 | Sassy Pattern |
 | 106 | 806 | Lori Walker |
-| 107 | 802 | Crystal Carroll |
-| 108 | 802 | Denise Carlson |
+| 107 | 802 | Denise Carlson |
+| 108 | 802 | Crystal Carroll |
 | 109 | 801 | D3TROITB0RN74 |
 | 110 | 798 | Jewell Urban |
 | 111 | 781 | Brittney Griggs |
@@ -133,11 +133,11 @@
 | 125 | 726 | Amy Suckarieh |
 | 126 | 726 | Jamie Gustafson |
 | 127 | 725 | Brandon Crabbs |
-| 128 | 712 | Leslie Nicole |
-| 129 | 712 | H.R. Block |
+| 128 | 712 | H.R. Block |
+| 129 | 712 | Leslie Nicole |
 | 130 | 708 | Jacqueline Helm |
-| 131 | 704 | Chilly Crasher |
-| 132 | 704 | Austin Owens |
+| 131 | 704 | Austin Owens |
+| 132 | 704 | Chilly Crasher |
 | 133 | 682 | Raegan Lane-Ross |
 | 134 | 668 | Desi Desporte |
 | 135 | 667 | Lindsey Gonzalez |
@@ -225,8 +225,8 @@
 | 217 | 482 | Laura |
 | 218 | 481 | Joanna |
 | 219 | 475 | Silly Zonebuilder |
-| 220 | 473 | Jolly Dashfit |
-| 221 | 473 | Cranky Rollpiece |
+| 220 | 473 | Cranky Rollpiece |
+| 221 | 473 | Jolly Dashfit |
 | 222 | 468 | June Hoffman |
 | 223 | 465 | Leslie Thomas |
 | 224 | 464 | Zakia Monae |
@@ -234,15 +234,15 @@
 | 226 | 462 | Crystal Nicolette Moore |
 | 227 | 460 | Calvin Cannon |
 | 228 | 460 | Kathy Brookins |
-| 229 | 458 | Luis Martinez |
-| 230 | 458 | Kristina Black |
+| 229 | 458 | Kristina Black |
+| 230 | 458 | Luis Martinez |
 | 231 | 457 | Kristin Manee |
 | 232 | 457 | J-Rizzle |
 | 233 | 455 | Michele Plunkett |
 | 234 | 454 | Keshia Lyons |
 | 235 | 449 | Danielle Kollias |
-| 236 | 448 | Mike Solo |
-| 237 | 448 | Mr. Party |
+| 236 | 448 | Mr. Party |
+| 237 | 448 | Mike Solo |
 | 238 | 447 | Jen Mattei |
 | 239 | 444 | Selena Shaw |
 | 240 | 442 | John Brunetti |
@@ -264,8 +264,8 @@
 | 256 | 421 | JIGsaw ~(•¿°)~ |
 | 257 | 419 | Hyper Matchclear |
 | 258 | 413 | Rio Rocha |
-| 259 | 411 | TinyLegoRose |
-| 260 | 411 | Autumn Kumzi |
+| 259 | 411 | Autumn Kumzi |
+| 260 | 411 | TinyLegoRose |
 | 261 | 410 | Lindsay Ball |
 | 262 | 409 | Bio Nelly |
 | 263 | 409 | Joseph Guthrie |
@@ -275,8 +275,8 @@
 | 267 | 407 | Hyper Builder |
 | 268 | 407 | Rafael Valentin |
 | 269 | 402 | Nita Wells |
-| 270 | 399 | Twisty Cascadezone |
-| 271 | 399 | 030Synner |
+| 270 | 399 | 030Synner |
+| 271 | 399 | Twisty Cascadezone |
 | 272 | 398 | Tyler Terrific |
 | 273 | 397 | Genne Scott |
 | 274 | 397 | blockstar |

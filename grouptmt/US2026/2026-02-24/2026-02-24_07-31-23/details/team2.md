@@ -216,8 +216,8 @@
 | 208 | 1815 | Chirpy Staggerpiece |
 | 209 | 1813 | Catina Hutchison |
 | 210 | 1807 | Osun Anuket Esu |
-| 211 | 1775 | Sommer Shope |
-| 212 | 1775 | Eboni Banks |
+| 211 | 1775 | Eboni Banks |
+| 212 | 1775 | Sommer Shope |
 | 213 | 1763 | Nerdy Pattern |
 | 214 | 1761 | Rosa Franklin |
 | 215 | 1751 | Dustin Rains |
@@ -313,12 +313,12 @@
 | 305 | 1351 | Denisha Dawkins |
 | 306 | 1345 | Shiny Twistfit |
 | 307 | 1343 | Sarah Berger |
-| 308 | 1342 | Kelly A Green-Leach |
-| 309 | 1342 | Groovy Puzzle |
+| 308 | 1342 | Groovy Puzzle |
+| 309 | 1342 | Kelly A Green-Leach |
 | 310 | 1341 | Cassie Mercer |
 | 311 | 1340 | Tralonda Weeks |
-| 312 | 1338 | Meghan M |
-| 313 | 1338 | Diallo Sparkman |
+| 312 | 1338 | Diallo Sparkman |
+| 313 | 1338 | Meghan M |
 | 314 | 1336 | Frothy Rumbler |
 | 315 | 1334 | Christina Walker |
 | 316 | 1334 | Jamie Otero |
@@ -373,8 +373,8 @@
 | 365 | 1222 | Kristin Gower |
 | 366 | 1218 | LaKisha Anderson |
 | 367 | 1217 | Brooks Brooks |
-| 368 | 1215 | Toni Roberson |
-| 369 | 1215 | Hyper Cluster |
+| 368 | 1215 | Hyper Cluster |
+| 369 | 1215 | Toni Roberson |
 | 370 | 1214 | David Cudicio-Hayden |
 | 371 | 1211 | Cynthia Ward |
 | 372 | 1210 | Amber Gray |
@@ -414,8 +414,8 @@
 | 406 | 1116 | Wakanda Forever |
 | 407 | 1116 | Em Chen |
 | 408 | 1110 | Nadia Batista Garcia |
-| 409 | 1109 | Melissa McCall |
-| 410 | 1109 | BYM4L |
+| 409 | 1109 | BYM4L |
+| 410 | 1109 | Melissa McCall |
 | 411 | 1105 | Nerdy Clearfit |
 | 412 | 1104 | Kimberly Hope Howell |
 | 413 | 1101 | Kathryn Townsley |
@@ -477,8 +477,8 @@
 | 469 | 1000 | Emmmz |
 | 470 | 1000 | Ashley Guernsey-Martin |
 | 471 | 1000 | Victoria Moore-Smith |
-| 472 | 999 | Tansaria Couch-Butler |
-| 473 | 999 | Lola Contreras |
+| 472 | 999 | Lola Contreras |
+| 473 | 999 | Tansaria Couch-Butler |
 | 474 | 998 | Dedra Steward |
 | 475 | 997 | Ellie Jonas |
 | 476 | 995 | Gauri Shrotriya |
@@ -810,15 +810,15 @@
 | 802 | 677 | Blacc Blac |
 | 803 | 677 | Kayleigh Wisse |
 | 804 | 676 | Fancy Shiftsnap |
-| 805 | 675 | Ryan Chan |
-| 806 | 675 | Katelynn Hollen |
+| 805 | 675 | Katelynn Hollen |
+| 806 | 675 | Ryan Chan |
 | 807 | 675 | Fi Ne |
 | 808 | 672 | Christina Jarvis-Swarbrick |
 | 809 | 672 | Abimbola Bimbo |
 | 810 | 672 | Lathasa Newkirk |
 | 811 | 671 | Ryan Parson |
-| 812 | 670 | Santana Miyagi |
-| 813 | 670 | Anita Ortiz |
+| 812 | 670 | Anita Ortiz |
+| 813 | 670 | Santana Miyagi |
 | 814 | 670 | Harrison Littrell |
 | 815 | 670 | Amanda Chamberlain |
 | 816 | 669 | Armonie Smith |
@@ -987,8 +987,8 @@
 | 979 | 583 | Jenn Morin |
 | 980 | 583 | RaeVan Worthington |
 | 981 | 581 | Wungun Shun |
-| 982 | 580 | Ethan Stienbarger |
-| 983 | 580 | Gael |
+| 982 | 580 | Gael |
+| 983 | 580 | Ethan Stienbarger |
 | 984 | 580 | Cheery Matchzone |
 | 985 | 579 | Leah LaShomb |
 | 986 | 579 | Roy Salyer |
@@ -996,16 +996,16 @@
 | 988 | 579 | Ashley Taylor |
 | 989 | 579 | Funky Caster |
 | 990 | 579 | Stacey Tranchida |
-| 991 | 578 | Jack Rippe |
-| 992 | 578 | Jamie Dayton |
+| 991 | 578 | Jamie Dayton |
+| 992 | 578 | Jack Rippe |
 | 993 | 578 | Clever Edge |
 | 994 | 578 | Sierra Edwards Lachmanek |
 | 995 | 578 | Brett Addison Jr. |
 | 996 | 577 | GinRox88 |
 | 997 | 575 | Cini |
 | 998 | 575 | Joel Rosado |
-| 999 | 575 | Vung Nguyen |
-| 1000 | 575 | Kira Krause |
+| 999 | 575 | Kira Krause |
+| 1000 | 575 | Vung Nguyen |
 | 1001 | 574 | Chris Emanuel |
 | 1002 | 574 | Shyenn Gadsby |
 | 1003 | 574 | Steve Lane |
