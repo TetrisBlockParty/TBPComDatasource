@@ -51,8 +51,8 @@
 | 43 | 1504 | LS |
 | 44 | 1497 | Juggalo |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Shane Kalamata Platoon |
-| 47 | 1461 | Yoset Mejia |
+| 46 | 1461 | Yoset Mejia |
+| 47 | 1461 | Shane Kalamata Platoon |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1436 | Jen Allison |
 | 50 | 1430 | Landon Keith Graffeo |
@@ -122,8 +122,8 @@
 | 114 | 802 | Crystal Carroll |
 | 115 | 801 | D3TROITB0RN74 |
 | 116 | 784 | TheNeesh50 |
-| 117 | 781 | Brittney Griggs |
-| 118 | 781 | Savannah Overdorf |
+| 117 | 781 | Savannah Overdorf |
+| 118 | 781 | Brittney Griggs |
 | 119 | 779 | Nope Young |
 | 120 | 777 | Chris Alexinas |
 | 121 | 768 | Trista Leah |
@@ -176,8 +176,8 @@
 | 168 | 590 | Crystal Lynn |
 | 169 | 586 | Rebecca Morris |
 | 170 | 586 | Latisha Davis |
-| 171 | 585 | Tracey Lehmann |
-| 172 | 585 | Lori |
+| 171 | 585 | Lori |
+| 172 | 585 | Tracey Lehmann |
 | 173 | 584 | Carlton Unfiltered |
 | 174 | 576 | Ren Mc |
 | 175 | 576 | Jade Rian |
@@ -256,8 +256,8 @@
 | 248 | 454 | David Lay |
 | 249 | 450 | Genne Scott |
 | 250 | 449 | Danielle Kollias |
-| 251 | 448 | Mr. Party |
-| 252 | 448 | Mike Solo |
+| 251 | 448 | Mike Solo |
+| 252 | 448 | Mr. Party |
 | 253 | 447 | Chris Bernstein |
 | 254 | 444 | Selena Shaw |
 | 255 | 444 | 23 |
@@ -269,9 +269,9 @@
 | 261 | 432 | Jason Gibbs |
 | 262 | 430 | 030Synner |
 | 263 | 428 | Gdiguy |
-| 264 | 427 | Cheery Risebuilder |
-| 265 | 427 | Jeff Brian Gates |
-| 266 | 427 | Chao Ma |
+| 264 | 427 | Chao Ma |
+| 265 | 427 | Cheery Risebuilder |
+| 266 | 427 | Jeff Brian Gates |
 | 267 | 425 | mike |
 | 268 | 425 | Lee Silpe |
 | 269 | 424 | Andrew Dang |

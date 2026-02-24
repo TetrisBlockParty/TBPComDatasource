@@ -121,8 +121,8 @@
 | 113 | 2876 | John Rodriguez |
 | 114 | 2851 | Erica Williams |
 | 115 | 2840 | F-X |
-| 116 | 2823 | Angela Lynn |
-| 117 | 2823 | Dawn Geist-Weasner |
+| 116 | 2823 | Dawn Geist-Weasner |
+| 117 | 2823 | Angela Lynn |
 | 118 | 2777 | Zappy Cascade |
 | 119 | 2765 | Shameika Trail |
 | 120 | 2758 | Nickole Andrews |
@@ -326,9 +326,9 @@
 | 318 | 1357 | Tanya Parsons |
 | 319 | 1353 | Deborah Miller |
 | 320 | 1353 | Heather Hoffman Disharoon |
-| 321 | 1351 | Denisha Dawkins |
-| 322 | 1351 | Lucky Ladybug |
-| 323 | 1351 | Ashie Ann |
+| 321 | 1351 | Lucky Ladybug |
+| 322 | 1351 | Ashie Ann |
+| 323 | 1351 | Denisha Dawkins |
 | 324 | 1350 | Tinishia Amie |
 | 325 | 1349 | Diallo Sparkman |
 | 326 | 1348 | Keri Womack |
@@ -479,10 +479,10 @@
 | 471 | 1036 | trabuco |
 | 472 | 1034 | Jackie Burnett |
 | 473 | 1033 | Andrea Maher |
-| 474 | 1032 | Bold Splitter |
-| 475 | 1032 | Alyssa Hileman |
-| 476 | 1031 | Darla Silva |
-| 477 | 1031 | William Bresee |
+| 474 | 1032 | Alyssa Hileman |
+| 475 | 1032 | Bold Splitter |
+| 476 | 1031 | William Bresee |
+| 477 | 1031 | Darla Silva |
 | 478 | 1027 | Lexie Burke |
 | 479 | 1026 | Kiana Boschh |
 | 480 | 1025 | Ann Matzkanin |
@@ -698,9 +698,9 @@
 | 690 | 780 | April Dawn Royal |
 | 691 | 779 | Trinity Oak |
 | 692 | 779 | Shanae Dillahunty |
-| 693 | 777 | Tesha Oldaker |
+| 693 | 777 | Ashley Lopez |
 | 694 | 777 | James Smith |
-| 695 | 777 | Ashley Lopez |
+| 695 | 777 | Tesha Oldaker |
 | 696 | 776 | Aleksandr Gershman |
 | 697 | 774 | Ryan Gunther |
 | 698 | 774 | Jazzy Clusterline |
@@ -911,8 +911,8 @@
 | 903 | 644 | Kevin Luu |
 | 904 | 643 | Rae Rae |
 | 905 | 642 | Lewis Sturgeon |
-| 906 | 641 | Happy Tile |
-| 907 | 641 | Snappy Faller |
+| 906 | 641 | Snappy Faller |
+| 907 | 641 | Happy Tile |
 | 908 | 640 | Taylor Flowers |
 | 909 | 639 | Shindee |
 | 910 | 639 | Libby Hicks |
