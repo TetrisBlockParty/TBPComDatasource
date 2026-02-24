@@ -122,8 +122,8 @@
 | 114 | 802 | Crystal Carroll |
 | 115 | 801 | D3TROITB0RN74 |
 | 116 | 784 | TheNeesh50 |
-| 117 | 781 | Brittney Griggs |
-| 118 | 781 | Savannah Overdorf |
+| 117 | 781 | Savannah Overdorf |
+| 118 | 781 | Brittney Griggs |
 | 119 | 779 | Nope Young |
 | 120 | 777 | Chris Alexinas |
 | 121 | 768 | Trista Leah |
@@ -241,8 +241,8 @@
 | 233 | 468 | scott |
 | 234 | 467 | Michele Plunkett |
 | 235 | 465 | Leslie Thomas |
-| 236 | 464 | Calvin Cannon |
-| 237 | 464 | Zakia Monae |
+| 236 | 464 | Zakia Monae |
+| 237 | 464 | Calvin Cannon |
 | 238 | 463 | shark tato |
 | 239 | 462 | Crystal Nicolette Moore |
 | 240 | 461 | Jen Mattei |
@@ -270,8 +270,8 @@
 | 262 | 430 | 030Synner |
 | 263 | 428 | Gdiguy |
 | 264 | 427 | Jeff Brian Gates |
-| 265 | 427 | Cheery Risebuilder |
-| 266 | 427 | Chao Ma |
+| 265 | 427 | Chao Ma |
+| 266 | 427 | Cheery Risebuilder |
 | 267 | 425 | mike |
 | 268 | 425 | Lee Silpe |
 | 269 | 424 | Brittany Little |

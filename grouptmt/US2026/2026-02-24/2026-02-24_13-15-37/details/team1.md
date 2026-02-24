@@ -230,9 +230,9 @@
 | 222 | 467 | Brian Spotts |
 | 223 | 466 | Lori Bales |
 | 224 | 458 | Goose egg |
-| 225 | 453 | Chantelle Ceno |
-| 226 | 453 | Angela Spann |
-| 227 | 453 | Kimmie Kimms |
+| 225 | 453 | Angela Spann |
+| 226 | 453 | Kimmie Kimms |
+| 227 | 453 | Chantelle Ceno |
 | 228 | 449 | Tawnya Peltonen |
 | 229 | 448 | Yvonne Marie |
 | 230 | 448 | John J. Cronin |
@@ -374,8 +374,8 @@
 | 366 | 330 | Katie Martin |
 | 367 | 329 | Mary Love |
 | 368 | 329 | Sarah Marie |
-| 369 | 327 | Christina Norman |
-| 370 | 327 | Amber Dee |
+| 369 | 327 | Amber Dee |
+| 370 | 327 | Christina Norman |
 | 371 | 326 | Chummy Rollblock |
 | 372 | 325 | Sunny Shift |
 | 373 | 325 | Mitchel White |

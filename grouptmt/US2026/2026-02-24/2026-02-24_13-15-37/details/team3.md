@@ -111,8 +111,8 @@
 | 103 | 1311 | JerseyJess |
 | 104 | 1309 | yoyo |
 | 105 | 1297 | Shelby Michelle |
-| 106 | 1282 | Amanda L Baker |
-| 107 | 1282 | Peppy Shifter |
+| 106 | 1282 | Peppy Shifter |
+| 107 | 1282 | Amanda L Baker |
 | 108 | 1280 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1251 | Suzieq |
@@ -190,8 +190,8 @@
 | 182 | 858 | Nicole Myers |
 | 183 | 856 | Dana Winters |
 | 184 | 854 | Speedy Bridger |
-| 185 | 847 | Daring Brickzone |
-| 186 | 847 | Daira Largen |
+| 185 | 847 | Daira Largen |
+| 186 | 847 | Daring Brickzone |
 | 187 | 842 | Alexmac |
 | 188 | 834 | Trisha Balmer |
 | 189 | 829 | Patricia White |
@@ -238,23 +238,23 @@
 | 230 | 715 | Betty Bóò |
 | 231 | 714 | Jenny Hrndz |
 | 232 | 713 | Stephanie Blkpep Davidson |
-| 233 | 709 | Cynthia Castros-Hampton |
-| 234 | 709 | Christine Niles |
+| 233 | 709 | Christine Niles |
+| 234 | 709 | Cynthia Castros-Hampton |
 | 235 | 708 | Stephanie Bradley |
 | 236 | 707 | Snappy Balancer |
 | 237 | 705 | Jackie Miller |
 | 238 | 704 | Lively Caster |
 | 239 | 703 | Rachael McClain Owens |
 | 240 | 702 | Chris Bell |
-| 241 | 693 | lashanda |
-| 242 | 693 | Tamara Deherrera |
+| 241 | 693 | Tamara Deherrera |
+| 242 | 693 | lashanda |
 | 243 | 691 | Tia |
 | 244 | 687 | joz |
 | 245 | 680 | Terry Jo Jones |
 | 246 | 676 | LaShey Thompson |
 | 247 | 667 | Makelini Mausia |
-| 248 | 655 | Keis |
-| 249 | 655 | Kaycee Kay |
+| 248 | 655 | Kaycee Kay |
+| 249 | 655 | Keis |
 | 250 | 654 | Fallorina Susana |
 | 251 | 651 | PrncssPJ |
 | 252 | 650 | Cesar Barraza |
@@ -268,8 +268,8 @@
 | 260 | 639 | Marci Mize Fandrich |
 | 261 | 639 | Nichol Graham |
 | 262 | 637 | Giddy Twistbuilder |
-| 263 | 636 | Salena Whitlock |
-| 264 | 636 | Bmo |
+| 263 | 636 | Bmo |
+| 264 | 636 | Salena Whitlock |
 | 265 | 635 | Amber Hughes |
 | 266 | 633 | Rebecca Funderburk Kirby |
 | 267 | 633 | Jillian Symons |
@@ -282,8 +282,8 @@
 | 274 | 624 | Hyper Matchzone |
 | 275 | 623 | Giggy Glidepiece |
 | 276 | 619 | Swanky Snapclear |
-| 277 | 618 | Connie Mohler-Fair |
-| 278 | 618 | Kaitie Oliver |
+| 277 | 618 | Kaitie Oliver |
+| 278 | 618 | Connie Mohler-Fair |
 | 279 | 610 | Crystal Hine |
 | 280 | 608 | Noyb Adam |
 | 281 | 604 | Sherry Ogden |
@@ -305,8 +305,8 @@
 | 297 | 569 | Roary Danner |
 | 298 | 568 | KayB |
 | 299 | 567 | Stephanie Burtin |
-| 300 | 566 | Aerian Preston |
-| 301 | 566 | Tyler Shoff |
+| 300 | 566 | Tyler Shoff |
+| 301 | 566 | Aerian Preston |
 | 302 | 562 | Dave Herzog |
 | 303 | 561 | Chauntee Alfrey-Cardinale |
 | 304 | 556 | Rebel124 |
@@ -338,8 +338,8 @@
 | 330 | 499 | Megan Rathmanner |
 | 331 | 499 | Gumbo |
 | 332 | 496 | Brenda Schmid Wood |
-| 333 | 494 | MCV |
-| 334 | 494 | fraulila |
+| 333 | 494 | fraulila |
+| 334 | 494 | MCV |
 | 335 | 492 | Tasha Wesson-Torrence |
 | 336 | 490 | TotoCherue |
 | 337 | 490 | Cassandra Bryant |
@@ -358,8 +358,8 @@
 | 350 | 476 | Stefanie LaPointe |
 | 351 | 476 | Shunta Jacobs |
 | 352 | 475 | AC Yeater |
-| 353 | 474 | Randy Clevenger |
-| 354 | 474 | Troy |
+| 353 | 474 | Troy |
+| 354 | 474 | Randy Clevenger |
 | 355 | 473 | Christian Werndl |
 | 356 | 472 | Briana Wellman |
 | 357 | 471 | Mendoza Lee Christy |
