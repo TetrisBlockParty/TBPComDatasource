@@ -124,8 +124,8 @@
 | 116 | 682 | Raegan Lane-Ross |
 | 117 | 675 | Chris Alexinas |
 | 118 | 673 | Jacqueline Helm |
-| 119 | 667 | Lindsey Gonzalez |
-| 120 | 667 | Amy Suckarieh |
+| 119 | 667 | Amy Suckarieh |
+| 120 | 667 | Lindsey Gonzalez |
 | 121 | 664 | Leslie Nicole |
 | 122 | 659 | Matt Gooder |
 | 123 | 659 | Jamie Gustafson |
