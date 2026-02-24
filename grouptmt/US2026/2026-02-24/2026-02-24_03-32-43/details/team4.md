@@ -68,8 +68,8 @@
 | 60 | 1110 | Ashley Ingram |
 | 61 | 1098 | BertMofo |
 | 62 | 1089 | Alyssa Papen |
-| 63 | 1082 | Dion Crommarty |
-| 64 | 1082 | Avy Absol |
+| 63 | 1082 | Avy Absol |
+| 64 | 1082 | Dion Crommarty |
 | 65 | 1075 | Dustee Craddock-Harrison |
 | 66 | 1064 | Heather Tushner |
 | 67 | 1047 | Julian Garcia |
@@ -189,8 +189,8 @@
 | 181 | 516 | Twisty Clicky |
 | 182 | 516 | Nick Gray |
 | 183 | 513 | Erin Thomas |
-| 184 | 512 | Casey Jeffcoat |
-| 185 | 512 | Ellen Durfee |
+| 184 | 512 | Ellen Durfee |
+| 185 | 512 | Casey Jeffcoat |
 | 186 | 512 | ThaEviLJeNiuZ |
 | 187 | 509 | Mimi |
 | 188 | 507 | Andria Lynn |
@@ -235,8 +235,8 @@
 | 227 | 438 | Melvin Baird |
 | 228 | 436 | Selena Shaw |
 | 229 | 434 | Ramel Rhodes |
-| 230 | 433 | Damn Libra |
-| 231 | 433 | Circuit8 |
+| 230 | 433 | Circuit8 |
+| 231 | 433 | Damn Libra |
 | 232 | 431 | Manny1 |
 | 233 | 430 | Plucky Patternblock |
 | 234 | 429 | Cranky Rollpiece |

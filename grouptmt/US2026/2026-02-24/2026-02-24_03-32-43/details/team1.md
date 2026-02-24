@@ -152,8 +152,8 @@
 | 144 | 570 | Cody Slav |
 | 145 | 569 | Christy Jones |
 | 146 | 568 | Jason Savage |
-| 147 | 556 | Brandi Huntington |
-| 148 | 556 | Susan Ward |
+| 147 | 556 | Susan Ward |
+| 148 | 556 | Brandi Huntington |
 | 149 | 555 | Sarah Lombardo |
 | 150 | 553 | Flashy Rotator |
 | 151 | 552 | Dee Perry |
