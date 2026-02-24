@@ -162,8 +162,8 @@
 | 154 | 582 | Hellsin |
 | 155 | 581 | Jennifer Hardman |
 | 156 | 574 | Bouncy Grid |
-| 157 | 570 | Cody Slav |
-| 158 | 570 | Dee Perry |
+| 157 | 570 | Dee Perry |
+| 158 | 570 | Cody Slav |
 | 159 | 568 | Jason Savage |
 | 160 | 564 | Νεφ Όνυξ |
 | 161 | 562 | Timothy Danaher |

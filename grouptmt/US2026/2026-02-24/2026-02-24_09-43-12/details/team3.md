@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Marcie Bressler |
-| 79 | 1566 | Nerdy Riseclear |
+| 78 | 1566 | Nerdy Riseclear |
+| 79 | 1566 | Marcie Bressler |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -156,11 +156,11 @@
 | 148 | 971 | Tasha Schriewer |
 | 149 | 963 | Crystal Frey |
 | 150 | 961 | Danielle Allison |
-| 151 | 950 | Giddy Drop |
-| 152 | 950 | MissTaylor |
+| 151 | 950 | MissTaylor |
+| 152 | 950 | Giddy Drop |
 | 153 | 947 | Kellie Montgomery |
-| 154 | 940 | Patty Allen |
-| 155 | 940 | Stephanie Allmon |
+| 154 | 940 | Stephanie Allmon |
+| 155 | 940 | Patty Allen |
 | 156 | 936 | Dolores Falco |
 | 157 | 928 | Edwin Calvillo Jr. |
 | 158 | 925 | Cherry Parker |
@@ -190,14 +190,14 @@
 | 182 | 842 | Alexmac |
 | 183 | 829 | Patricia White |
 | 184 | 825 | Lizabeth Fox |
-| 185 | 821 | Angella Lyons |
-| 186 | 821 | Kammy Hill |
+| 185 | 821 | Kammy Hill |
+| 186 | 821 | Angella Lyons |
 | 187 | 817 | Niki Dalrymple |
 | 188 | 815 | Justin Ritter |
 | 189 | 813 | JessDrown |
 | 190 | 808 | Raya |
-| 191 | 804 | Gideon Walker |
-| 192 | 804 | Alaina Lee |
+| 191 | 804 | Alaina Lee |
+| 192 | 804 | Gideon Walker |
 | 193 | 800 | Lauren Girouard |
 | 194 | 799 | Trisha Balmer |
 | 195 | 792 | Rachel Grant |
@@ -217,8 +217,8 @@
 | 209 | 760 | Kiki |
 | 210 | 759 | Mykal Burton |
 | 211 | 757 | Fancy Cascader |
-| 212 | 755 | Colton |
-| 213 | 755 | Laura Booth Wosko |
+| 212 | 755 | Laura Booth Wosko |
+| 213 | 755 | Colton |
 | 214 | 754 | CeceGeGe |
 | 215 | 753 | Morgan Martinez |
 | 216 | 752 | Joye Sims Binion |
@@ -246,8 +246,8 @@
 | 238 | 662 | Jim Mathews |
 | 239 | 661 | LaShey Thompson |
 | 240 | 655 | Keis |
-| 241 | 651 | PrncssPJ |
-| 242 | 651 | Makelini Mausia |
+| 241 | 651 | Makelini Mausia |
+| 242 | 651 | PrncssPJ |
 | 243 | 650 | Cesar Barraza |
 | 244 | 647 | Wendy Dearden |
 | 245 | 646 | Duane Bright |
@@ -290,8 +290,8 @@
 | 282 | 582 | FuzzyNavel |
 | 283 | 581 | Crystal Hine |
 | 284 | 578 | James Mitchell |
-| 285 | 574 | Rachael McClain Owens |
-| 286 | 574 | Danielle Balcom |
+| 285 | 574 | Danielle Balcom |
+| 286 | 574 | Rachael McClain Owens |
 | 287 | 572 | Tessina Dewey-Mancino |
 | 288 | 570 | thekey |
 | 289 | 569 | Gray Hicks |
@@ -310,8 +310,8 @@
 | 302 | 547 | Aerian Preston |
 | 303 | 542 | France Vézina |
 | 304 | 541 | Mcathen |
-| 305 | 540 | Tanya Kittrell |
-| 306 | 540 | rosy |
+| 305 | 540 | rosy |
+| 306 | 540 | Tanya Kittrell |
 | 307 | 539 | Fancy Curver |
 | 308 | 539 | Kate M. Murdock |
 | 309 | 538 | Chummy Caster |
@@ -329,8 +329,8 @@
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
-| 324 | 499 | Gumbo |
-| 325 | 499 | Megan Rathmanner |
+| 324 | 499 | Megan Rathmanner |
+| 325 | 499 | Gumbo |
 | 326 | 496 | Brenda Schmid Wood |
 | 327 | 494 | fraulila |
 | 328 | 494 | MCV |
@@ -642,8 +642,8 @@
 | 634 | 289 | Andy Jacobson |
 | 635 | 289 | Peachy Tower |
 | 636 | 287 | Timea Popladek |
-| 637 | 286 | Morgan Cudo |
-| 638 | 286 | Frilly Stackzone |
+| 637 | 286 | Frilly Stackzone |
+| 638 | 286 | Morgan Cudo |
 | 639 | 285 | Jumpy Wrecker |
 | 640 | 285 | Kate Farok |
 | 641 | 284 | Billie Jean Cooper |
@@ -1528,7 +1528,7 @@
 | 1520 | 119 | d Dee |
 | 1521 | 119 | Barb |
 | 1522 | 119 | Pamela Swist |
-| 1523 | 119 | Lanette Mayfield |
+| 1523 | 119 | Snappy Tiltbuilder |
 | 1524 | 119 | Kodi Smith |
 | 1525 | 119 | Lanette Mayfield |
 | 1526 | 118 | Tipsy Rumbler |

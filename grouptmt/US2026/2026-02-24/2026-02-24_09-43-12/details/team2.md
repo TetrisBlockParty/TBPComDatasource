@@ -221,8 +221,8 @@
 | 213 | 1813 | Catina Hutchison |
 | 214 | 1807 | Osun Anuket Esu |
 | 215 | 1784 | Matthew Joseph Acevedo |
-| 216 | 1775 | Eboni Banks |
-| 217 | 1775 | Sommer Shope |
+| 216 | 1775 | Sommer Shope |
+| 217 | 1775 | Eboni Banks |
 | 218 | 1770 | Nerdy Pattern |
 | 219 | 1761 | Rosa Franklin |
 | 220 | 1751 | Melissa Penelope Ann Dodge |
@@ -269,8 +269,8 @@
 | 261 | 1558 | Tim Dyer |
 | 262 | 1557 | Poppy Snap |
 | 263 | 1556 | Julay |
-| 264 | 1553 | Sarah Freitas |
-| 265 | 1553 | Wendy Unsain |
+| 264 | 1553 | Wendy Unsain |
+| 265 | 1553 | Sarah Freitas |
 | 266 | 1553 | Boldy Cascadepiece |
 | 267 | 1539 | Nadia Batista Garcia |
 | 268 | 1528 | Stacy Stickle |
@@ -343,8 +343,8 @@
 | 335 | 1304 | Sarah Ridenour |
 | 336 | 1303 | Michele Morgan |
 | 337 | 1301 | Mandy Cekine |
-| 338 | 1300 | Snappy Matchbuilder |
-| 339 | 1300 | Shinel Richardson |
+| 338 | 1300 | Shinel Richardson |
+| 339 | 1300 | Snappy Matchbuilder |
 | 340 | 1300 | Tacara Cummings |
 | 341 | 1295 | Jess Morrison |
 | 342 | 1292 | Joshua Mandel |
@@ -471,9 +471,9 @@
 | 463 | 1032 | Alyssa Hileman |
 | 464 | 1031 | William Bresee |
 | 465 | 1025 | Ann Matzkanin |
-| 466 | 1024 | Susan Perraut Jones |
-| 467 | 1024 | KrisCynthia Lynette |
-| 468 | 1024 | Tiara Elizabeth Baker |
+| 466 | 1024 | Tiara Elizabeth Baker |
+| 467 | 1024 | Susan Perraut Jones |
+| 468 | 1024 | KrisCynthia Lynette |
 | 469 | 1022 | Jackie Burnett |
 | 470 | 1020 | Darla Silva |
 | 471 | 1019 | Glitzy Rollblock |
@@ -880,8 +880,8 @@
 | 872 | 652 | Court |
 | 873 | 652 | Dane Reing |
 | 874 | 652 | Kimmie Zimmerman-Rocha |
-| 875 | 651 | Lazy Builderfit |
-| 876 | 651 | Unica Rector |
+| 875 | 651 | Unica Rector |
+| 876 | 651 | Lazy Builderfit |
 | 877 | 650 | Pfc Monei Rivera |
 | 878 | 650 | Brittany Chapman |
 | 879 | 650 | Peppy Snapfall |
