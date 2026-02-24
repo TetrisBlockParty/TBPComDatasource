@@ -76,8 +76,8 @@
 | 68 | 993 | Amber Stoker |
 | 69 | 987 | TSwag |
 | 70 | 980 | Veronica Eve |
-| 71 | 966 | Francesca Gee |
-| 72 | 966 | Shalene Frederick Autrey |
+| 71 | 966 | Shalene Frederick Autrey |
+| 72 | 966 | Francesca Gee |
 | 73 | 961 | Jacqueline Williams |
 | 74 | 957 | Zippy Align |
 | 75 | 934 | Erin Hodges Plumb |
@@ -327,8 +327,8 @@
 | 319 | 317 | Bloknboy |
 | 320 | 316 | Giggly Builderline |
 | 321 | 314 | Amh |
-| 322 | 312 | Diane Byrd |
-| 323 | 312 | Glitzy Curvebuilder |
+| 322 | 312 | Glitzy Curvebuilder |
+| 323 | 312 | Diane Byrd |
 | 324 | 311 | Nathan Sealander |
 | 325 | 310 | Chase Collinsworth |
 | 326 | 308 | Jessie Welch |
@@ -343,8 +343,8 @@
 | 335 | 301 | Chad Atchley |
 | 336 | 301 | Susie Loo |
 | 337 | 300 | Logan McFarland |
-| 338 | 299 | Chummy Rollblock |
-| 339 | 299 | Nathan William |
+| 338 | 299 | Nathan William |
+| 339 | 299 | Chummy Rollblock |
 | 340 | 298 | Sweetts |
 | 341 | 297 | Speedy Snapfall |
 | 342 | 295 | Richard Corrado |
@@ -358,9 +358,9 @@
 | 350 | 291 | Toph |
 | 351 | 290 | Shanae Grant |
 | 352 | 289 | Mary Love |
-| 353 | 288 | Test |
-| 354 | 288 | Glitzy Buildsnap |
-| 355 | 288 | Tanya Banks |
+| 353 | 288 | Glitzy Buildsnap |
+| 354 | 288 | Tanya Banks |
+| 355 | 288 | Test |
 | 356 | 287 | Itspaigebro |
 | 357 | 286 | Marci Sanders |
 | 358 | 286 | Sarahdactyl |
@@ -413,8 +413,8 @@
 | 405 | 263 | Ed Franz Jr |
 | 406 | 262 | Ramona Shaver |
 | 407 | 261 | Angela Fairbank |
-| 408 | 260 | ESC |
-| 409 | 260 | Lacy Wolfe |
+| 408 | 260 | Lacy Wolfe |
+| 409 | 260 | ESC |
 | 410 | 260 | Dreamy Drop |
 | 411 | 259 | Camelia Trevillion |
 | 412 | 259 | Tiffany Smith |

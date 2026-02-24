@@ -143,8 +143,8 @@
 | 135 | 625 | Jewell Urban |
 | 136 | 620 | Porkobello |
 | 137 | 616 | Samantha Peterson |
-| 138 | 615 | Kim Hunt |
-| 139 | 615 | Ernest Maxwell |
+| 138 | 615 | Ernest Maxwell |
+| 139 | 615 | Kim Hunt |
 | 140 | 611 | Chris Baggett |
 | 141 | 602 | Cristy Duerksen |
 | 142 | 600 | Carrie Brian |
@@ -260,8 +260,8 @@
 | 252 | 383 | JPW |
 | 253 | 382 | Sue Joyce Staats |
 | 254 | 381 | Rafael Valentin |
-| 255 | 380 | Rio Rocha |
-| 256 | 380 | shark tato |
+| 255 | 380 | shark tato |
+| 256 | 380 | Rio Rocha |
 | 257 | 379 | Backoff Recupe |
 | 258 | 378 | Holly Jolly |
 | 259 | 378 | Googenheim |
@@ -280,8 +280,8 @@
 | 272 | 362 | Gdiguy |
 | 273 | 360 | James Hurley Jr. |
 | 274 | 359 | KimoKoala |
-| 275 | 358 | David Lay |
-| 276 | 358 | Twisty Cascadezone |
+| 275 | 358 | Twisty Cascadezone |
+| 276 | 358 | David Lay |
 | 277 | 353 | Jen Caldwell |
 | 278 | 352 | scott |
 | 279 | 352 | Montiette Mcglown |

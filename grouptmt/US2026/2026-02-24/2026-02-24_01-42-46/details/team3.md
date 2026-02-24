@@ -260,8 +260,8 @@
 | 252 | 568 | Rachael McClain Owens |
 | 253 | 562 | Dave Herzog |
 | 254 | 562 | Eileen Brady Thurber |
-| 255 | 561 | Chauntee Alfrey-Cardinale |
-| 256 | 561 | Danielle Balcom |
+| 255 | 561 | Danielle Balcom |
+| 256 | 561 | Chauntee Alfrey-Cardinale |
 | 257 | 558 | Betty Bóò |
 | 258 | 556 | Noyb Adam |
 | 259 | 551 | Micayah Stevens |
