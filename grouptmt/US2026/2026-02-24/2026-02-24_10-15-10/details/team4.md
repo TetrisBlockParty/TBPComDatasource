@@ -138,8 +138,8 @@
 | 130 | 712 | Leslie Nicole |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Austin Owens |
-| 134 | 704 | Chilly Crasher |
+| 133 | 704 | Chilly Crasher |
+| 134 | 704 | Austin Owens |
 | 135 | 687 | Carmethia Clemons Haslerig |
 | 136 | 682 | Raegan Lane-Ross |
 | 137 | 668 | Desi Desporte |
@@ -177,8 +177,8 @@
 | 169 | 576 | Jade Rian |
 | 170 | 575 | Jenna Ingersoll |
 | 171 | 573 | Rico |
-| 172 | 571 | Rebecca Morris |
-| 173 | 571 | Andy Cabral |
+| 172 | 571 | Andy Cabral |
+| 173 | 571 | Rebecca Morris |
 | 174 | 568 | Cindy Looper |
 | 175 | 565 | Ren Mc |
 | 176 | 561 | Steph Marie |
@@ -214,8 +214,8 @@
 | 206 | 509 | Mimi |
 | 207 | 507 | Andria Lynn |
 | 208 | 504 | Deanna Deckard |
-| 209 | 502 | Ericca Eldridge |
-| 210 | 502 | Christina Black |
+| 209 | 502 | Christina Black |
+| 210 | 502 | Ericca Eldridge |
 | 211 | 501 | Sharyn Lemire |
 | 212 | 499 | DonMega |
 | 213 | 499 | Kesha Brady |
@@ -244,8 +244,8 @@
 | 236 | 457 | J-Rizzle |
 | 237 | 457 | Kristin Manee |
 | 238 | 455 | Michele Plunkett |
-| 239 | 454 | David Lay |
-| 240 | 454 | Keshia Lyons |
+| 239 | 454 | Keshia Lyons |
+| 240 | 454 | David Lay |
 | 241 | 450 | Genne Scott |
 | 242 | 449 | Danielle Kollias |
 | 243 | 448 | Mr. Party |
@@ -332,8 +332,8 @@
 | 324 | 346 | James Philpot Ross |
 | 325 | 346 | Metsfan |
 | 326 | 344 | Amanda Maciel Clarke |
-| 327 | 343 | HastyGrabber |
-| 328 | 343 | Blessedmama |
+| 327 | 343 | Blessedmama |
+| 328 | 343 | HastyGrabber |
 | 329 | 343 | Jay You |
 | 330 | 342 | Ruby Khalisadar |
 | 331 | 342 | Lauren Lamb |
@@ -454,8 +454,8 @@
 | 446 | 265 | Sticherella |
 | 447 | 265 | Christine Therrien |
 | 448 | 264 | Chantilly Laace |
-| 449 | 264 | Brandi Durig |
-| 450 | 264 | Shh |
+| 449 | 264 | Shh |
+| 450 | 264 | Brandi Durig |
 | 451 | 263 | Laurmarcar |
 | 452 | 262 | Lilya Troutman |
 | 453 | 262 | Ruben Wheeler |
@@ -539,8 +539,8 @@
 | 531 | 229 | GTxIrishman |
 | 532 | 229 | Jessica Wells |
 | 533 | 229 | Marco |
-| 534 | 228 | Bethany Ison |
-| 535 | 228 | Ashley Danielle |
+| 534 | 228 | Ashley Danielle |
+| 535 | 228 | Bethany Ison |
 | 536 | 227 | Jeff Roberts |
 | 537 | 227 | Rhys Morgan |
 | 538 | 227 | Asher |

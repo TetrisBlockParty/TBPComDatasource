@@ -261,8 +261,8 @@
 | 253 | 639 | Nichol Graham |
 | 254 | 637 | Giddy Twistbuilder |
 | 255 | 635 | Amber Hughes |
-| 256 | 633 | Jillian Symons |
-| 257 | 633 | Rebecca Funderburk Kirby |
+| 256 | 633 | Rebecca Funderburk Kirby |
+| 257 | 633 | Jillian Symons |
 | 258 | 632 | Rebecca Bailey |
 | 259 | 630 | Jackie Miller |
 | 260 | 629 | rnr junky |
@@ -324,8 +324,8 @@
 | 316 | 523 | Ktfreeee |
 | 317 | 518 | Marquita Sheard |
 | 318 | 514 | Nikki White |
-| 319 | 506 | Tiffanie Alley |
-| 320 | 506 | Ammmmmmy |
+| 319 | 506 | Ammmmmmy |
+| 320 | 506 | Tiffanie Alley |
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
@@ -335,8 +335,8 @@
 | 327 | 494 | fraulila |
 | 328 | 494 | MCV |
 | 329 | 492 | Tasha Wesson-Torrence |
-| 330 | 490 | TotoCherue |
-| 331 | 490 | Cassandra Bryant |
+| 330 | 490 | Cassandra Bryant |
+| 331 | 490 | TotoCherue |
 | 332 | 489 | Isabel Ocasio |
 | 333 | 487 | MsBee |
 | 334 | 486 | Sleepy |
@@ -747,7 +747,7 @@
 | 739 | 257 | Kristy Brown |
 | 740 | 257 | Kristy Manley |
 | 741 | 257 | Justin Ernst |
-| 742 | 257 | Kristy Manley |
+| 742 | 257 | Trissy Collins |
 | 743 | 256 | Amy Cunningham Mitchell |
 | 744 | 256 | Moniecia Harrison |
 | 745 | 255 | Tony Tran |
@@ -771,8 +771,8 @@
 | 763 | 251 | Adrian Massey |
 | 764 | 251 | Colleen Phelps |
 | 765 | 250 | Steph Arcari |
-| 766 | 250 | Jonathn Poindexter |
-| 767 | 250 | Crystal Johnson |
+| 766 | 250 | Crystal Johnson |
+| 767 | 250 | Jonathn Poindexter |
 | 768 | 250 | Marcus Payton |
 | 769 | 250 | mia |
 | 770 | 249 | Ryze |
@@ -787,7 +787,7 @@
 | 779 | 247 | Barbara Bennett |
 | 780 | 247 | Glitzy Rotate |
 | 781 | 247 | Taylor |
-| 782 | 246 | MomOnBreak |
+| 782 | 246 | Quteeonduty |
 | 783 | 246 | Erica Anderson |
 | 784 | 246 | MomOnBreak |
 | 785 | 245 | Mike Honcho |
@@ -1329,7 +1329,7 @@
 | 1321 | 145 | Frisky Fitblock |
 | 1322 | 145 | Chill Risegrid |
 | 1323 | 145 | Dandy Dropmatch |
-| 1324 | 145 | Chill Risegrid |
+| 1324 | 145 | Jes Lynn |
 | 1325 | 144 | Ja'Maine Future-Leader Jackson |
 | 1326 | 144 | Mt Shirley |
 | 1327 | 144 | Audrey Scruton |
@@ -1522,7 +1522,7 @@
 | 1514 | 120 | Jasmine Nicole |
 | 1515 | 120 | Dalonda Joyner Jeralds |
 | 1516 | 119 | Snappy Tiltbuilder |
-| 1517 | 119 | Kodi Smith |
+| 1517 | 119 | Pamela Swist |
 | 1518 | 119 | Lanette Mayfield |
 | 1519 | 119 | Kodi Smith |
 | 1520 | 119 | Tristen DuCross |
