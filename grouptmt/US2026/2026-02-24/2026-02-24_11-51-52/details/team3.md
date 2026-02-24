@@ -127,8 +127,8 @@
 | 119 | 1152 | Julian Murphy |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Groovy Catcher |
-| 123 | 1114 | Loopy Fallmatch |
+| 122 | 1114 | Loopy Fallmatch |
+| 123 | 1114 | Groovy Catcher |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1101 | Valerie Gendron |
 | 126 | 1093 | Angela M. Fletcher |
@@ -168,8 +168,8 @@
 | 160 | 928 | Edwin Calvillo Jr. |
 | 161 | 925 | Cherry Parker |
 | 162 | 914 | BadManSheLove |
-| 163 | 910 | Staci George Fitzsimmons |
-| 164 | 910 | opf |
+| 163 | 910 | opf |
+| 164 | 910 | Staci George Fitzsimmons |
 | 165 | 906 | Patti Skiles |
 | 166 | 899 | Jaime Monhaut-Reed |
 | 167 | 894 | Denita Mungro |
@@ -179,16 +179,16 @@
 | 171 | 875 | Chasity |
 | 172 | 874 | Jessica Pineda-Lopez |
 | 173 | 871 | Rochelle Hazelett |
-| 174 | 868 | Cranky Gridder |
-| 175 | 868 | Nicole Flippo |
+| 174 | 868 | Nicole Flippo |
+| 175 | 868 | Cranky Gridder |
 | 176 | 866 | Domo Washington |
 | 177 | 864 | Sunny Rotater |
 | 178 | 862 | Santeria Trece Candles |
 | 179 | 857 | Dana Fox |
 | 180 | 856 | Dana Winters |
 | 181 | 854 | Speedy Bridger |
-| 182 | 847 | Daira Largen |
-| 183 | 847 | Daring Brickzone |
+| 182 | 847 | Daring Brickzone |
+| 183 | 847 | Daira Largen |
 | 184 | 846 | Nicole Myers |
 | 185 | 842 | Alexmac |
 | 186 | 829 | Patricia White |
@@ -261,8 +261,8 @@
 | 253 | 642 | Rania Zaqout |
 | 254 | 641 | Tom Nault |
 | 255 | 640 | Dee Pratt |
-| 256 | 639 | Nichol Graham |
-| 257 | 639 | Marci Mize Fandrich |
+| 256 | 639 | Marci Mize Fandrich |
+| 257 | 639 | Nichol Graham |
 | 258 | 637 | Giddy Twistbuilder |
 | 259 | 635 | Salena Whitlock |
 | 260 | 635 | Amber Hughes |
@@ -282,13 +282,13 @@
 | 274 | 618 | Kaitie Oliver |
 | 275 | 609 | Connie Mohler-Fair |
 | 276 | 608 | Noyb Adam |
-| 277 | 604 | Sherry Ogden |
-| 278 | 604 | Bmo |
+| 277 | 604 | Bmo |
+| 278 | 604 | Sherry Ogden |
 | 279 | 600 | Natasha Jones |
 | 280 | 594 | Cozy Snaplink |
 | 281 | 591 | Crystal Hine |
-| 282 | 586 | Brian Battjes |
-| 283 | 586 | Donna |
+| 282 | 586 | Donna |
+| 283 | 586 | Brian Battjes |
 | 284 | 584 | Michael Johnson |
 | 285 | 583 | Michael Lucado |
 | 286 | 582 | FuzzyNavel |
@@ -306,8 +306,8 @@
 | 298 | 556 | Shiny Zonebuilder |
 | 299 | 555 | Danielle Weikel |
 | 300 | 552 | Scott Carleton |
-| 301 | 548 | Shannon Matthew Byers |
-| 302 | 548 | Chris Bell |
+| 301 | 548 | Chris Bell |
+| 302 | 548 | Shannon Matthew Byers |
 | 303 | 547 | Aerian Preston |
 | 304 | 545 | Stephanie Simpson |
 | 305 | 542 | France Vézina |
@@ -350,8 +350,8 @@
 | 342 | 482 | Travis W |
 | 343 | 480 | TLM |
 | 344 | 480 | Dee Franklin |
-| 345 | 476 | Stefanie LaPointe |
-| 346 | 476 | Shunta Jacobs |
+| 345 | 476 | Shunta Jacobs |
+| 346 | 476 | Stefanie LaPointe |
 | 347 | 475 | AC Yeater |
 | 348 | 474 | Troy |
 | 349 | 473 | Christian Werndl |
@@ -413,8 +413,8 @@
 | 405 | 418 | Rainbow77375 |
 | 406 | 417 | Krish Shah |
 | 407 | 416 | Tay |
-| 408 | 414 | Arden White Kirsch |
-| 409 | 414 | Michelle Allers |
+| 408 | 414 | Michelle Allers |
+| 409 | 414 | Arden White Kirsch |
 | 410 | 413 | Rick Poppen |
 | 411 | 411 | Beaudie Stroebel |
 | 412 | 409 | Rich LeBlanc |
@@ -597,8 +597,8 @@
 | 589 | 313 | Cibf Ecihm |
 | 590 | 313 | Joseph Vargas |
 | 591 | 313 | Dakota Graham |
-| 592 | 312 | Trice Thomas |
-| 593 | 312 | Elizabeth Renee |
+| 592 | 312 | Elizabeth Renee |
+| 593 | 312 | Trice Thomas |
 | 594 | 311 | Irene Arreguin |
 | 595 | 309 | Daisy Rocha |
 | 596 | 309 | Jumpy Curvebuilder |
@@ -2193,8 +2193,8 @@
 | 2185 | 61 | Maria Drummonds Lmt |
 | 2186 | 61 | Ronda Alexander |
 | 2187 | 61 | Deva Marie Barber |
-| 2188 | 61 | Rainbow Marie |
-| 2189 | 61 | Lori Rules |
+| 2188 | 61 | Lori Rules |
+| 2189 | 61 | Rainbow Marie |
 | 2190 | 60 | Hyper Slammer |
 | 2191 | 60 | Spunky Mover |
 | 2192 | 60 | Kob Piccaso |

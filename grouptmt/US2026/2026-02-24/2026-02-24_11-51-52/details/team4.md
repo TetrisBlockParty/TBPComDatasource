@@ -146,8 +146,8 @@
 | 138 | 682 | Raegan Lane-Ross |
 | 139 | 668 | Desi Desporte |
 | 140 | 667 | Matt Gooder |
-| 141 | 667 | Swanky Fitline |
-| 142 | 667 | Lindsey Gonzalez |
+| 141 | 667 | Lindsey Gonzalez |
+| 142 | 667 | Swanky Fitline |
 | 143 | 662 | Nerdy Twisterfit |
 | 144 | 661 | shar |
 | 145 | 661 | Rodney McMath Jr. |
@@ -208,8 +208,8 @@
 | 200 | 520 | Zippy Block |
 | 201 | 520 | Oscar Alberto Perez |
 | 202 | 518 | Twisty Clicky |
-| 203 | 516 | Trish |
-| 204 | 516 | Nick Gray |
+| 203 | 516 | Nick Gray |
+| 204 | 516 | Trish |
 | 205 | 513 | Zesty Twistbuilder |
 | 206 | 513 | Milan Markeisha |
 | 207 | 512 | Casey Jeffcoat |
@@ -292,8 +292,8 @@
 | 284 | 402 | Nita Wells |
 | 285 | 398 | Tyler Terrific |
 | 286 | 397 | blockstar |
-| 287 | 395 | BigSammy420 |
-| 288 | 395 | Denise B |
+| 287 | 395 | Denise B |
+| 288 | 395 | BigSammy420 |
 | 289 | 394 | Nikki Rae Gordon |
 | 290 | 393 | Montiette Mcglown |
 | 291 | 390 | Ari Droff |
@@ -387,8 +387,8 @@
 | 379 | 314 | Kenna Gunderland |
 | 380 | 313 | Lazy Glidepiece |
 | 381 | 312 | Tawna Curry |
-| 382 | 311 | Reds Bella |
-| 383 | 311 | KayM |
+| 382 | 311 | KayM |
+| 383 | 311 | Reds Bella |
 | 384 | 308 | Angela Geist Jusinski |
 | 385 | 307 | Eri Kka |
 | 386 | 307 | Susan Williams |

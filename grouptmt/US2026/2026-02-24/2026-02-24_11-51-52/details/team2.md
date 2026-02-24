@@ -276,8 +276,8 @@
 | 268 | 1539 | Nadia Batista Garcia |
 | 269 | 1537 | Prado |
 | 270 | 1528 | Stacy Stickle |
-| 271 | 1509 | Whitney Nicole Waterman |
-| 272 | 1509 | Stacey Clement |
+| 271 | 1509 | Stacey Clement |
+| 272 | 1509 | Whitney Nicole Waterman |
 | 273 | 1506 | Shiny Twistfit |
 | 274 | 1501 | Ashle Scranton |
 | 275 | 1498 | Ericka Marie Smith |
@@ -323,16 +323,16 @@
 | 315 | 1357 | Tanya Parsons |
 | 316 | 1353 | Deborah Miller |
 | 317 | 1353 | Heather Hoffman Disharoon |
-| 318 | 1351 | Lucky Ladybug |
-| 319 | 1351 | Ashie Ann |
-| 320 | 1351 | Denisha Dawkins |
-| 321 | 1351 | Johnny Yeates |
+| 318 | 1351 | Denisha Dawkins |
+| 319 | 1351 | Johnny Yeates |
+| 320 | 1351 | Lucky Ladybug |
+| 321 | 1351 | Ashie Ann |
 | 322 | 1348 | Keri Womack |
 | 323 | 1342 | Groovy Puzzle |
 | 324 | 1342 | Kelly A Green-Leach |
 | 325 | 1341 | Cassie Mercer |
-| 326 | 1338 | Meghan M |
-| 327 | 1338 | Diallo Sparkman |
+| 326 | 1338 | Diallo Sparkman |
+| 327 | 1338 | Meghan M |
 | 328 | 1336 | Frothy Rumbler |
 | 329 | 1334 | Jamie Otero |
 | 330 | 1333 | nikki |
