@@ -51,8 +51,8 @@
 | 43 | 1501 | Sammy Noguera |
 | 44 | 1497 | Juggalo |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Shane Kalamata Platoon |
-| 47 | 1461 | Yoset Mejia |
+| 46 | 1461 | Yoset Mejia |
+| 47 | 1461 | Shane Kalamata Platoon |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1436 | Jen Allison |
 | 50 | 1430 | Landon Keith Graffeo |
@@ -174,10 +174,10 @@
 | 166 | 597 | Berklie Apedaile |
 | 167 | 595 | TRCuse |
 | 168 | 590 | Crystal Lynn |
-| 169 | 586 | Rebecca Morris |
-| 170 | 586 | Latisha Davis |
-| 171 | 585 | Tracey Lehmann |
-| 172 | 585 | Lori |
+| 169 | 586 | Latisha Davis |
+| 170 | 586 | Rebecca Morris |
+| 171 | 585 | Lori |
+| 172 | 585 | Tracey Lehmann |
 | 173 | 584 | Carlton Unfiltered |
 | 174 | 576 | Ren Mc |
 | 175 | 576 | Jade Rian |

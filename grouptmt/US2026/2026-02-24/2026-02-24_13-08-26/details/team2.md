@@ -121,8 +121,8 @@
 | 113 | 2876 | John Rodriguez |
 | 114 | 2851 | Erica Williams |
 | 115 | 2840 | F-X |
-| 116 | 2823 | Dawn Geist-Weasner |
-| 117 | 2823 | Angela Lynn |
+| 116 | 2823 | Angela Lynn |
+| 117 | 2823 | Dawn Geist-Weasner |
 | 118 | 2777 | Zappy Cascade |
 | 119 | 2765 | Shameika Trail |
 | 120 | 2758 | Nickole Andrews |
@@ -303,8 +303,8 @@
 | 295 | 1446 | Alex Dungo Hoang |
 | 296 | 1446 | Tyler C. Jung |
 | 297 | 1444 | Kristin Ruest |
-| 298 | 1443 | Christina Walker |
-| 299 | 1443 | Maria Escobar |
+| 298 | 1443 | Maria Escobar |
+| 299 | 1443 | Christina Walker |
 | 300 | 1441 | Cassie Mercer |
 | 301 | 1429 | Arlene Joy Belicina |
 | 302 | 1422 | Rebecca Garland |
@@ -367,8 +367,8 @@
 | 359 | 1257 | Megan Ferguson Leone |
 | 360 | 1257 | Megan Garrick |
 | 361 | 1257 | Jackie Lucas |
-| 362 | 1256 | Phil J. Grombliniak |
-| 363 | 1256 | Belle |
+| 362 | 1256 | Belle |
+| 363 | 1256 | Phil J. Grombliniak |
 | 364 | 1255 | Ambyre Patterson |
 | 365 | 1254 | Erika Densmore |
 | 366 | 1252 | AgileDragon |
@@ -408,8 +408,8 @@
 | 400 | 1172 | Lakeysha Dortch |
 | 401 | 1171 | Loretta Brewer-Gage |
 | 402 | 1170 | Shelley Thornburgh Wright |
-| 403 | 1163 | Sarah DeHart |
-| 404 | 1163 | Caitlin Schmid |
+| 403 | 1163 | Caitlin Schmid |
+| 404 | 1163 | Sarah DeHart |
 | 405 | 1160 | Ashley Guernsey-Martin |
 | 406 | 1158 | Brittany Clark |
 | 407 | 1153 | Spunkysmom |
@@ -479,10 +479,10 @@
 | 471 | 1036 | trabuco |
 | 472 | 1034 | Jackie Burnett |
 | 473 | 1033 | Andrea Maher |
-| 474 | 1032 | Bold Splitter |
-| 475 | 1032 | Alyssa Hileman |
-| 476 | 1031 | Darla Silva |
-| 477 | 1031 | William Bresee |
+| 474 | 1032 | Alyssa Hileman |
+| 475 | 1032 | Bold Splitter |
+| 476 | 1031 | William Bresee |
+| 477 | 1031 | Darla Silva |
 | 478 | 1027 | Lexie Burke |
 | 479 | 1026 | Kiana Boschh |
 | 480 | 1025 | Ann Matzkanin |
@@ -862,7 +862,7 @@
 | 854 | 670 | Anita Ortiz |
 | 855 | 669 | Armonie Smith |
 | 856 | 668 | Chilly Linebuilder |
-| 857 | 668 | Brownie Sheena |
+| 857 | 668 | Nerdy Blockpiece |
 | 858 | 668 | Alice Ball |
 | 859 | 668 | Brownie Sheena |
 | 860 | 667 | Snazzy Risegrid |

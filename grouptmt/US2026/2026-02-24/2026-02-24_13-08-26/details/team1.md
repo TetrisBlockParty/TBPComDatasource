@@ -166,8 +166,8 @@
 | 158 | 587 | Deanna L Hermanson |
 | 159 | 586 | Christy Jones |
 | 160 | 582 | Hellsin |
-| 161 | 576 | Tonya Beasley |
-| 162 | 576 | Brandi Huntington |
+| 161 | 576 | Brandi Huntington |
+| 162 | 576 | Tonya Beasley |
 | 163 | 574 | Bouncy Grid |
 | 164 | 570 | Dee Perry |
 | 165 | 570 | Cody Slav |

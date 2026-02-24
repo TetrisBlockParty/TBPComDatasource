@@ -111,8 +111,8 @@
 | 103 | 1311 | JerseyJess |
 | 104 | 1309 | yoyo |
 | 105 | 1297 | Shelby Michelle |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1280 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1251 | Suzieq |
@@ -126,8 +126,8 @@
 | 118 | 1154 | Carrie Jarvis Mohler |
 | 119 | 1152 | Julian Murphy |
 | 120 | 1124 | Stephanie Rice |
-| 121 | 1121 | Corie A. Brinson |
-| 122 | 1121 | Loopy Fallmatch |
+| 121 | 1121 | Loopy Fallmatch |
+| 122 | 1121 | Corie A. Brinson |
 | 123 | 1114 | Groovy Catcher |
 | 124 | 1108 | Rachel |
 | 125 | 1105 | Adrian Marcel Pate |
@@ -219,8 +219,8 @@
 | 211 | 772 | Cyd061769 |
 | 212 | 767 | Heather Davis |
 | 213 | 766 | Mykal Burton |
-| 214 | 763 | Jim Mathews |
-| 215 | 763 | Khaleada McGill Banks |
+| 214 | 763 | Khaleada McGill Banks |
+| 215 | 763 | Jim Mathews |
 | 216 | 762 | Naur |
 | 217 | 758 | Shawn Miller |
 | 218 | 755 | Colton |
@@ -265,8 +265,8 @@
 | 257 | 642 | Rania Zaqout |
 | 258 | 641 | Tom Nault |
 | 259 | 640 | Dee Pratt |
-| 260 | 639 | Marci Mize Fandrich |
-| 261 | 639 | Nichol Graham |
+| 260 | 639 | Nichol Graham |
+| 261 | 639 | Marci Mize Fandrich |
 | 262 | 637 | Giddy Twistbuilder |
 | 263 | 636 | Salena Whitlock |
 | 264 | 636 | Bmo |
