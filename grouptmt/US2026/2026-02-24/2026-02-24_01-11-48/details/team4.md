@@ -64,8 +64,8 @@
 | 56 | 1106 | Ashley Ingram |
 | 57 | 1092 | Rachel Anne |
 | 58 | 1088 | BertMofo |
-| 59 | 1082 | Avy Absol |
-| 60 | 1082 | Dion Crommarty |
+| 59 | 1082 | Dion Crommarty |
+| 60 | 1082 | Avy Absol |
 | 61 | 1075 | Dustee Craddock-Harrison |
 | 62 | 1059 | Alyssa Papen |
 | 63 | 1049 | Heather Tushner |
@@ -1180,8 +1180,8 @@
 | 1172 | 65 | Barcelos |
 | 1173 | 65 | Victoria Calvario |
 | 1174 | 65 | Katy Schuster |
-| 1175 | 65 | Kris Zulch |
-| 1176 | 65 | Jamie Mclean |
+| 1175 | 65 | Jamie Mclean |
+| 1176 | 65 | Kris Zulch |
 | 1177 | 65 | Brain Joy |
 | 1178 | 65 | Shelly Matthews |
 | 1179 | 65 | Deb Lilja |

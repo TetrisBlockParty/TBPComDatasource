@@ -162,8 +162,8 @@
 | 154 | 2023 | Tonya Brooks-Johnson |
 | 155 | 2005 | Cody Nishimura |
 | 156 | 1989 | Cozy Filler |
-| 157 | 1983 | Porsche' Nicole |
-| 158 | 1983 | Heather Westrum |
+| 157 | 1983 | Heather Westrum |
+| 158 | 1983 | Porsche' Nicole |
 | 159 | 1977 | Aimee Campbell |
 | 160 | 1962 | Nancy Reid |
 | 161 | 1960 | Michelle Lee |
@@ -307,8 +307,8 @@
 | 299 | 1264 | Missie Lawson Gebhardt |
 | 300 | 1260 | Roman Lavochnik |
 | 301 | 1259 | Foxxo |
-| 302 | 1257 | Megan Ferguson Leone |
-| 303 | 1257 | Megan Garrick |
+| 302 | 1257 | Megan Garrick |
+| 303 | 1257 | Megan Ferguson Leone |
 | 304 | 1254 | Erika Densmore |
 | 305 | 1245 | Angel Hunnewell |
 | 306 | 1241 | Jackie Lucas |

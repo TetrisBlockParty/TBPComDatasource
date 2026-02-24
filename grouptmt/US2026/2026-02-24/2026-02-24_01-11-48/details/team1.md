@@ -106,8 +106,8 @@
 | 98 | 744 | Greg Hart |
 | 99 | 737 | Karin Gillen |
 | 100 | 727 | Kellie |
-| 101 | 706 | Plucky Fallzone |
-| 102 | 706 | Denice Dee |
+| 101 | 706 | Denice Dee |
+| 102 | 706 | Plucky Fallzone |
 | 103 | 703 | Angel Fowler |
 | 104 | 691 | Krista Young |
 | 105 | 691 | Rachael |
@@ -298,8 +298,8 @@
 | 290 | 340 | Robert |
 | 291 | 338 | Layzietyme |
 | 292 | 337 | Larissa Marie Nelson |
-| 293 | 336 | Adele Rahman |
-| 294 | 336 | Sarah Roberts |
+| 293 | 336 | Sarah Roberts |
+| 294 | 336 | Adele Rahman |
 | 295 | 334 | Tipsy Builder |
 | 296 | 333 | Wayne Saunders |
 | 297 | 333 | Irv |
@@ -352,9 +352,9 @@
 | 344 | 291 | Toph |
 | 345 | 291 | Michael Espinosa Ulibarri Jr. |
 | 346 | 290 | Shanae Grant |
-| 347 | 289 | Speedy Snapfall |
-| 348 | 289 | Michael |
-| 349 | 289 | Nate Price |
+| 347 | 289 | Nate Price |
+| 348 | 289 | Speedy Snapfall |
+| 349 | 289 | Michael |
 | 350 | 288 | Tanya Banks |
 | 351 | 287 | Itspaigebro |
 | 352 | 286 | Marci Sanders |
