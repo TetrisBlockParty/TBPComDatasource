@@ -113,8 +113,8 @@
 | 105 | 813 | Klo |
 | 106 | 811 | Sassy Pattern |
 | 107 | 806 | Lori Walker |
-| 108 | 802 | Crystal Carroll |
-| 109 | 802 | Denise Carlson |
+| 108 | 802 | Denise Carlson |
+| 109 | 802 | Crystal Carroll |
 | 110 | 801 | D3TROITB0RN74 |
 | 111 | 798 | Jewell Urban |
 | 112 | 781 | Brittney Griggs |
@@ -134,8 +134,8 @@
 | 126 | 726 | Jamie Gustafson |
 | 127 | 726 | Amy Suckarieh |
 | 128 | 725 | Brandon Crabbs |
-| 129 | 712 | H.R. Block |
-| 130 | 712 | Leslie Nicole |
+| 129 | 712 | Leslie Nicole |
+| 130 | 712 | H.R. Block |
 | 131 | 708 | Jacqueline Helm |
 | 132 | 704 | Austin Owens |
 | 133 | 704 | Chilly Crasher |
@@ -165,11 +165,11 @@
 | 157 | 602 | Cristy Duerksen |
 | 158 | 595 | TRCuse |
 | 159 | 591 | Cursed Hag |
-| 160 | 590 | Angela Srubar-Norman |
-| 161 | 590 | Carmethia Clemons Haslerig |
+| 160 | 590 | Carmethia Clemons Haslerig |
+| 161 | 590 | Angela Srubar-Norman |
 | 162 | 587 | YoMomma |
-| 163 | 586 | Carlos Ramirez |
-| 164 | 586 | Latisha Davis |
+| 163 | 586 | Latisha Davis |
+| 164 | 586 | Carlos Ramirez |
 | 165 | 585 | Tracey Lehmann |
 | 166 | 584 | Carlton Unfiltered |
 | 167 | 576 | Jade Rian |
@@ -193,10 +193,10 @@
 | 185 | 536 | JPW |
 | 186 | 535 | Berklie Apedaile |
 | 187 | 534 | Lucas J Sutton |
-| 188 | 532 | Alan George LaRage |
-| 189 | 532 | Matt Summer |
-| 190 | 528 | Erin Sabol |
-| 191 | 528 | Carly Alexis |
+| 188 | 532 | Matt Summer |
+| 189 | 532 | Alan George LaRage |
+| 190 | 528 | Carly Alexis |
+| 191 | 528 | Erin Sabol |
 | 192 | 525 | 🥔🥔 Spudz |
 | 193 | 521 | Andy Cabral |
 | 194 | 520 | Oscar Alberto Perez |
@@ -289,13 +289,13 @@
 | 281 | 391 | mike |
 | 282 | 390 | Ari Droff |
 | 283 | 382 | Sue Joyce Staats |
-| 284 | 380 | Jen Caldwell |
+| 284 | 380 | Holly Jolly |
 | 285 | 380 | Chaz |
-| 286 | 380 | Holly Jolly |
+| 286 | 380 | Jen Caldwell |
 | 287 | 379 | Backoff Recupe |
-| 288 | 378 | Googenheim |
+| 288 | 378 | Mary Ann Pabukis |
 | 289 | 378 | Jason Gibbs |
-| 290 | 378 | Mary Ann Pabukis |
+| 290 | 378 | Googenheim |
 | 291 | 377 | Matt Dell'Olio |
 | 292 | 376 | Nig |
 | 293 | 375 | George Tzouganos |
@@ -359,8 +359,8 @@
 | 351 | 320 | Alan Zukowski |
 | 352 | 319 | Michelle Morris |
 | 353 | 319 | Jessica Fredericks |
-| 354 | 317 | Paito |
-| 355 | 317 | Kim Klutz Olson |
+| 354 | 317 | Kim Klutz Olson |
+| 355 | 317 | Paito |
 | 356 | 317 | Madison Sweere |
 | 357 | 316 | Shukee Lo |
 | 358 | 315 | Ultramarine |

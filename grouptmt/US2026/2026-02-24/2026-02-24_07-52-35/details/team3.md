@@ -104,13 +104,13 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Tiff Vs Tiffany |
-| 100 | 1318 | Diana Ibarra |
+| 99 | 1318 | Diana Ibarra |
+| 100 | 1318 | Tiff Vs Tiffany |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
-| 104 | 1282 | Peppy Shifter |
-| 105 | 1282 | Amanda L Baker |
+| 104 | 1282 | Amanda L Baker |
+| 105 | 1282 | Peppy Shifter |
 | 106 | 1276 | Jessica Bechler |
 | 107 | 1274 | Sarah Fehring |
 | 108 | 1248 | Lori Barnaby |
@@ -180,8 +180,8 @@
 | 172 | 857 | Dana Fox |
 | 173 | 856 | Dana Winters |
 | 174 | 854 | Speedy Bridger |
-| 175 | 847 | Daira Largen |
-| 176 | 847 | Daring Brickzone |
+| 175 | 847 | Daring Brickzone |
+| 176 | 847 | Daira Largen |
 | 177 | 846 | Nicole Myers |
 | 178 | 845 | Edwin Calvillo Jr. |
 | 179 | 842 | Tye Stovall |
@@ -368,15 +368,15 @@
 | 360 | 447 | Carrie Huskey |
 | 361 | 447 | Num1hater |
 | 362 | 446 | Swanky Frame |
-| 363 | 446 | Shiny Zonebuilder |
-| 364 | 446 | Jennifer Alvey |
+| 363 | 446 | Jennifer Alvey |
+| 364 | 446 | Shiny Zonebuilder |
 | 365 | 445 | Loopy Clusterer |
 | 366 | 444 | Heather De Vries Cobb |
 | 367 | 443 | Christian Werndl |
 | 368 | 442 | Loopy Fallzone |
 | 369 | 438 | Dannie Litchard |
-| 370 | 436 | AC Yeater |
-| 371 | 436 | Julie Fratrik |
+| 370 | 436 | Julie Fratrik |
+| 371 | 436 | AC Yeater |
 | 372 | 435 | Sabrina Hardrick |
 | 373 | 434 | Criss |
 | 374 | 432 | Justice 4 P |
@@ -401,8 +401,8 @@
 | 393 | 414 | Arden White Kirsch |
 | 394 | 413 | Rick Poppen |
 | 395 | 411 | Beaudie Stroebel |
-| 396 | 409 | Rich LeBlanc |
-| 397 | 409 | Roary Danner |
+| 396 | 409 | Roary Danner |
+| 397 | 409 | Rich LeBlanc |
 | 398 | 409 | Goofy Fall |
 | 399 | 408 | Tiffany Ford |
 | 400 | 408 | Ashley Muncey |
@@ -423,8 +423,8 @@
 | 415 | 391 | Rebel124 |
 | 416 | 391 | gremicx |
 | 417 | 390 | ROODBOY |
-| 418 | 389 | Amanda J. Mcneil-Anderson |
-| 419 | 389 | Kirhonda Autmon |
+| 418 | 389 | Kirhonda Autmon |
+| 419 | 389 | Amanda J. Mcneil-Anderson |
 | 420 | 387 | Brittany K Ward |
 | 421 | 386 | Geoffrey Nash |
 | 422 | 384 | Tiffany Davie |

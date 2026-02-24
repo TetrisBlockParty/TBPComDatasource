@@ -480,11 +480,11 @@
 | 472 | 258 | Tedashi |
 | 473 | 258 | Vivienne Carter |
 | 474 | 258 | Marc Abney |
-| 475 | 257 | Funky Piecebuilder |
-| 476 | 257 | Frisky Risebuilder |
-| 477 | 257 | Andrew Backes |
-| 478 | 256 | Mary Crisp |
-| 479 | 256 | Mary Sheets |
+| 475 | 257 | Frisky Risebuilder |
+| 476 | 257 | Andrew Backes |
+| 477 | 257 | Funky Piecebuilder |
+| 478 | 256 | Mary Sheets |
+| 479 | 256 | Mary Crisp |
 | 480 | 255 | Goobette |
 | 481 | 255 | Adan Reyes |
 | 482 | 255 | SavageBooty98 |
@@ -613,8 +613,8 @@
 | 605 | 205 | Davery Spencer Adair |
 | 606 | 205 | Alphonza Keyes Jr. |
 | 607 | 204 | Jill King Oldham |
-| 608 | 203 | MelSavage |
-| 609 | 203 | Ashley Rodriguez |
+| 608 | 203 | Ashley Rodriguez |
+| 609 | 203 | MelSavage |
 | 610 | 202 | grizzly |
 | 611 | 201 | Hector Cruz |
 | 612 | 200 | Tina Sinclair |
