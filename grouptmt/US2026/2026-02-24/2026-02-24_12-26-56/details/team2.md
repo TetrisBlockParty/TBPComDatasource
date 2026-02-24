@@ -333,8 +333,8 @@
 | 325 | 1342 | Groovy Puzzle |
 | 326 | 1342 | Kelly A Green-Leach |
 | 327 | 1341 | Cassie Mercer |
-| 328 | 1338 | Diallo Sparkman |
-| 329 | 1338 | Meghan M |
+| 328 | 1338 | Meghan M |
+| 329 | 1338 | Diallo Sparkman |
 | 330 | 1336 | Frothy Rumbler |
 | 331 | 1334 | Jamie Otero |
 | 332 | 1333 | nikki |
@@ -364,8 +364,8 @@
 | 356 | 1262 | Toni Roberson |
 | 357 | 1261 | Becca Coronado |
 | 358 | 1259 | AkaLefty |
-| 359 | 1257 | Megan Ferguson Leone |
-| 360 | 1257 | Megan Garrick |
+| 359 | 1257 | Megan Garrick |
+| 360 | 1257 | Megan Ferguson Leone |
 | 361 | 1257 | Jackie Lucas |
 | 362 | 1256 | Phil J. Grombliniak |
 | 363 | 1256 | Belle |
@@ -521,7 +521,7 @@
 | 513 | 973 | Taryece Gause |
 | 514 | 972 | Angela Yantz |
 | 515 | 970 | Smashanator |
-| 516 | 969 | Connie Jimenez |
+| 516 | 969 | Andrew Willis |
 | 517 | 969 | Shuany Arias |
 | 518 | 969 | Connie Jimenez |
 | 519 | 968 | John Bednarik |
@@ -728,13 +728,13 @@
 | 720 | 750 | Danielle Ayoub |
 | 721 | 750 | Samie Dayle |
 | 722 | 750 | Prette Qui |
-| 723 | 749 | Epic Fitzone |
-| 724 | 749 | ToxicTrash |
-| 725 | 749 | Trisha J Schmidt |
+| 723 | 749 | Trisha J Schmidt |
+| 724 | 749 | Epic Fitzone |
+| 725 | 749 | ToxicTrash |
 | 726 | 748 | Sassy Linkroll |
 | 727 | 746 | Emily Lyric Converse |
-| 728 | 743 | Véronique Lévesque Sabourin |
-| 729 | 743 | Gloria Ininahazwe |
+| 728 | 743 | Gloria Ininahazwe |
+| 729 | 743 | Véronique Lévesque Sabourin |
 | 730 | 743 | Clever Dashgrid |
 | 731 | 742 | Rhonda Petro |
 | 732 | 741 | Leah Keesling |
@@ -883,17 +883,17 @@
 | 875 | 660 | Jenna Nance |
 | 876 | 660 | Shelva Richard |
 | 877 | 659 | Rain |
-| 878 | 656 | Synn |
-| 879 | 656 | Emilie Desma |
+| 878 | 656 | Emilie Desma |
+| 879 | 656 | Synn |
 | 880 | 655 | Lively Piecebuilder |
 | 881 | 655 | dionia |
 | 882 | 654 | David Duncan |
 | 883 | 653 | Kimmie Zimmerman-Rocha |
-| 884 | 652 | Court |
-| 885 | 652 | Lively Edgepiece |
+| 884 | 652 | Lively Edgepiece |
+| 885 | 652 | Court |
 | 886 | 652 | Irna |
-| 887 | 651 | Unica Rector |
-| 888 | 651 | Lazy Builderfit |
+| 887 | 651 | Lazy Builderfit |
+| 888 | 651 | Unica Rector |
 | 889 | 650 | Pfc Monei Rivera |
 | 890 | 650 | Peppy Snapfall |
 | 891 | 650 | Brittany Chapman |

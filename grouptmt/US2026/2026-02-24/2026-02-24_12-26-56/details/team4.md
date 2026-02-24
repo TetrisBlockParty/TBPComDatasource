@@ -81,8 +81,8 @@
 | 73 | 1080 | Chilly Line |
 | 74 | 1069 | Heather Tushner |
 | 75 | 1056 | Keith Kelley |
-| 76 | 1046 | Anthony Bryan Riva |
-| 77 | 1046 | Johnathan Martinez |
+| 76 | 1046 | Johnathan Martinez |
+| 77 | 1046 | Anthony Bryan Riva |
 | 78 | 1028 | TeeJ |
 | 79 | 1024 | Valerie Roberts |
 | 80 | 1017 | Jeremy Steines |
@@ -117,8 +117,8 @@
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Crystal Carroll |
-| 113 | 802 | Denise Carlson |
+| 112 | 802 | Denise Carlson |
+| 113 | 802 | Crystal Carroll |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -166,8 +166,8 @@
 | 158 | 621 | Angelito |
 | 159 | 617 | Erin Thomas |
 | 160 | 616 | Cursed Hag |
-| 161 | 616 | Carlos Ramirez |
-| 162 | 616 | Chastity Mitchell |
+| 161 | 616 | Chastity Mitchell |
+| 162 | 616 | Carlos Ramirez |
 | 163 | 613 | Shiny Fit |
 | 164 | 611 | YoMomma |
 | 165 | 602 | Cristy Duerksen |
@@ -233,8 +233,8 @@
 | 225 | 482 | Laura |
 | 226 | 481 | Joanna |
 | 227 | 475 | Silly Zonebuilder |
-| 228 | 473 | Cranky Rollpiece |
-| 229 | 473 | Jolly Dashfit |
+| 228 | 473 | Jolly Dashfit |
+| 229 | 473 | Cranky Rollpiece |
 | 230 | 472 | Plucky Patternblock |
 | 231 | 466 | scott |
 | 232 | 465 | Leslie Thomas |
@@ -246,8 +246,8 @@
 | 238 | 460 | Kathy Brookins |
 | 239 | 458 | Luis Martinez |
 | 240 | 458 | Kristina Black |
-| 241 | 457 | J-Rizzle |
-| 242 | 457 | Kristin Manee |
+| 241 | 457 | Kristin Manee |
+| 242 | 457 | J-Rizzle |
 | 243 | 455 | Michele Plunkett |
 | 244 | 454 | David Lay |
 | 245 | 454 | Keshia Lyons |
@@ -257,8 +257,8 @@
 | 249 | 448 | Mike Solo |
 | 250 | 448 | Mr. Party |
 | 251 | 447 | Chris Bernstein |
-| 252 | 444 | Selena Shaw |
-| 253 | 444 | Twisty Cascadezone |
+| 252 | 444 | Twisty Cascadezone |
+| 253 | 444 | Selena Shaw |
 | 254 | 442 | John Brunetti |
 | 255 | 441 | Lush Linkfall |
 | 256 | 440 | Brickh4us |
@@ -300,8 +300,8 @@
 | 292 | 390 | Ari Droff |
 | 293 | 387 | Sandra Safford |
 | 294 | 386 | Vic |
-| 295 | 382 | Matt Dell'Olio |
-| 296 | 382 | Sue Joyce Staats |
+| 295 | 382 | Sue Joyce Staats |
+| 296 | 382 | Matt Dell'Olio |
 | 297 | 381 | Cool Gridzone |
 | 298 | 380 | Jen Caldwell |
 | 299 | 380 | Holly Jolly |

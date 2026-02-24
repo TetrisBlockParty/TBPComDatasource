@@ -116,8 +116,8 @@
 | 108 | 791 | Greg Hart |
 | 109 | 782 | Karin Gillen |
 | 110 | 781 | Ash Galvan |
-| 111 | 773 | Cartier |
-| 112 | 773 | Susanna Guerry |
+| 111 | 773 | Susanna Guerry |
+| 112 | 773 | Cartier |
 | 113 | 772 | Kathy Langham |
 | 114 | 770 | Zappy Curvetile |
 | 115 | 768 | Jazzy Framezone |
@@ -337,9 +337,9 @@
 | 329 | 351 | Garrett Burket |
 | 330 | 350 | Dreamy Drop |
 | 331 | 350 | Bouncy Line |
-| 332 | 347 | Michael Espinosa Ulibarri Jr. |
+| 332 | 347 | ParisandCory Champagne |
 | 333 | 347 | Sonia Marquis |
-| 334 | 347 | ParisandCory Champagne |
+| 334 | 347 | Michael Espinosa Ulibarri Jr. |
 | 335 | 346 | Gary Gobin |
 | 336 | 345 | Nathan Sealander |
 | 337 | 344 | dhardy |
@@ -510,9 +510,9 @@
 | 502 | 255 | SavageBooty98 |
 | 503 | 254 | Kipoi |
 | 504 | 252 | Angela Dawn Torres-Tarrants |
-| 505 | 251 | Larry Jackson |
-| 506 | 251 | Randy Broadwater |
-| 507 | 251 | MRdot Rooski |
+| 505 | 251 | Randy Broadwater |
+| 506 | 251 | MRdot Rooski |
+| 507 | 251 | Larry Jackson |
 | 508 | 250 | Emmarieta Mendez |
 | 509 | 249 | Toni Sagenbrecht |
 | 510 | 249 | Sassy Towerer |

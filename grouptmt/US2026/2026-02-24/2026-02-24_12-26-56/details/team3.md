@@ -111,8 +111,8 @@
 | 103 | 1311 | JerseyJess |
 | 104 | 1309 | yoyo |
 | 105 | 1297 | Shelby Michelle |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1280 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -220,8 +220,8 @@
 | 212 | 763 | Khaleada McGill Banks |
 | 213 | 762 | Naur |
 | 214 | 758 | Shawn Miller |
-| 215 | 755 | Laura Booth Wosko |
-| 216 | 755 | Colton |
+| 215 | 755 | Colton |
+| 216 | 755 | Laura Booth Wosko |
 | 217 | 754 | CeceGeGe |
 | 218 | 753 | Morgan Martinez |
 | 219 | 752 | Joye Sims Binion |
@@ -332,8 +332,8 @@
 | 324 | 506 | Tiffanie Alley |
 | 325 | 504 | Daring Builder |
 | 326 | 500 | Ashley Tookes |
-| 327 | 499 | Gumbo |
-| 328 | 499 | Megan Rathmanner |
+| 327 | 499 | Megan Rathmanner |
+| 328 | 499 | Gumbo |
 | 329 | 497 | Chummy Rumbler |
 | 330 | 496 | Brenda Schmid Wood |
 | 331 | 494 | fraulila |
@@ -488,8 +488,8 @@
 | 480 | 363 | Giggly Brickroll |
 | 481 | 360 | Cathy Leger |
 | 482 | 359 | Kathleen Taylor |
-| 483 | 358 | Taylor Culver |
-| 484 | 358 | Beejangles |
+| 483 | 358 | Beejangles |
+| 484 | 358 | Taylor Culver |
 | 485 | 358 | Hyper Twisterfit |
 | 486 | 356 | Nikkie Bucciano |
 | 487 | 356 | Trice Sodames |
@@ -599,8 +599,8 @@
 | 591 | 314 | Rachel Napper |
 | 592 | 313 | Muk |
 | 593 | 313 | Joseph Vargas |
-| 594 | 313 | Cibf Ecihm |
-| 595 | 313 | Emberblaze |
+| 594 | 313 | Emberblaze |
+| 595 | 313 | Cibf Ecihm |
 | 596 | 313 | Dakota Graham |
 | 597 | 312 | Trice Thomas |
 | 598 | 312 | Courtney Price |
@@ -711,7 +711,7 @@
 | 703 | 272 | James Lykes |
 | 704 | 272 | Casey McDowell |
 | 705 | 271 | Cameron Lovell |
-| 706 | 271 | Chris Wallace |
+| 706 | 271 | Beth Ingham |
 | 707 | 271 | Maia |
 | 708 | 271 | Chris Wallace |
 | 709 | 270 | Samantha Long |
