@@ -135,17 +135,17 @@
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
-| 130 | 712 | H.R. Block |
-| 131 | 712 | Leslie Nicole |
+| 130 | 712 | Leslie Nicole |
+| 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
 | 133 | 704 | Chilly Crasher |
 | 134 | 704 | Austin Owens |
 | 135 | 687 | Carmethia Clemons Haslerig |
 | 136 | 682 | Raegan Lane-Ross |
 | 137 | 668 | Desi Desporte |
-| 138 | 667 | Matt Gooder |
-| 139 | 667 | Lindsey Gonzalez |
-| 140 | 667 | Swanky Fitline |
+| 138 | 667 | Swanky Fitline |
+| 139 | 667 | Matt Gooder |
+| 140 | 667 | Lindsey Gonzalez |
 | 141 | 662 | Nerdy Twisterfit |
 | 142 | 661 | shar |
 | 143 | 661 | Rodney McMath Jr. |
@@ -229,8 +229,8 @@
 | 221 | 481 | Joanna |
 | 222 | 479 | June Hoffman |
 | 223 | 475 | Silly Zonebuilder |
-| 224 | 473 | Jolly Dashfit |
-| 225 | 473 | Cranky Rollpiece |
+| 224 | 473 | Cranky Rollpiece |
+| 225 | 473 | Jolly Dashfit |
 | 226 | 472 | Plucky Patternblock |
 | 227 | 465 | Leslie Thomas |
 | 228 | 464 | Calvin Cannon |
@@ -243,8 +243,8 @@
 | 235 | 457 | J-Rizzle |
 | 236 | 457 | Kristin Manee |
 | 237 | 455 | Michele Plunkett |
-| 238 | 454 | David Lay |
-| 239 | 454 | Keshia Lyons |
+| 238 | 454 | Keshia Lyons |
+| 239 | 454 | David Lay |
 | 240 | 450 | Genne Scott |
 | 241 | 449 | Danielle Kollias |
 | 242 | 448 | Mr. Party |
@@ -290,8 +290,8 @@
 | 282 | 392 | Neirrah B Olailjeel |
 | 283 | 391 | mike |
 | 284 | 390 | Ari Droff |
-| 285 | 387 | Backoff Recupe |
-| 286 | 387 | Sandra Safford |
+| 285 | 387 | Sandra Safford |
+| 286 | 387 | Backoff Recupe |
 | 287 | 386 | Vic |
 | 288 | 382 | Sue Joyce Staats |
 | 289 | 380 | Chaz |
@@ -794,7 +794,7 @@
 | 786 | 148 | Mary Therese Benden Cole |
 | 787 | 148 | McKayla Breanne |
 | 788 | 148 | Flashy Blockpiece |
-| 789 | 147 | Tisha Cammack |
+| 789 | 147 | David Emmanuel George |
 | 790 | 147 | Blue |
 | 791 | 147 | Lazy Column |
 | 792 | 147 | Mike |

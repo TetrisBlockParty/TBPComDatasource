@@ -269,8 +269,8 @@
 | 261 | 1558 | Tim Dyer |
 | 262 | 1557 | Poppy Snap |
 | 263 | 1556 | Julay |
-| 264 | 1553 | Wendy Unsain |
-| 265 | 1553 | Sarah Freitas |
+| 264 | 1553 | Sarah Freitas |
+| 265 | 1553 | Wendy Unsain |
 | 266 | 1553 | Boldy Cascadepiece |
 | 267 | 1539 | Nadia Batista Garcia |
 | 268 | 1528 | Stacy Stickle |
@@ -448,8 +448,8 @@
 | 440 | 1075 | SaraMarie Eveland |
 | 441 | 1074 | Diana Ayers |
 | 442 | 1073 | Jodi Blake |
-| 443 | 1071 | Kim Dean |
-| 444 | 1071 | Nashu |
+| 443 | 1071 | Nashu |
+| 444 | 1071 | Kim Dean |
 | 445 | 1068 | Tiffany Branham |
 | 446 | 1067 | Taylor Phillips |
 | 447 | 1067 | Lourisha |
@@ -471,7 +471,7 @@
 | 463 | 1032 | Alyssa Hileman |
 | 464 | 1031 | William Bresee |
 | 465 | 1025 | Ann Matzkanin |
-| 466 | 1024 | Susan Perraut Jones |
+| 466 | 1024 | Tiara Elizabeth Baker |
 | 467 | 1024 | KrisCynthia Lynette |
 | 468 | 1024 | Susan Perraut Jones |
 | 469 | 1023 | Lisa Reynolds |
@@ -519,8 +519,8 @@
 | 511 | 962 | Kathleen Driskell |
 | 512 | 962 | Antionette Sewell |
 | 513 | 960 | Smashanator |
-| 514 | 958 | Lisa Ongtowasruk |
-| 515 | 958 | Jc Gilk |
+| 514 | 958 | Jc Gilk |
+| 515 | 958 | Lisa Ongtowasruk |
 | 516 | 957 | Maria Louise |
 | 517 | 956 | Kiana Boschh |
 | 518 | 951 | Silly Pivotfall |
@@ -599,8 +599,8 @@
 | 591 | 854 | Dawn L Washington-Feuquay |
 | 592 | 854 | Gold Rose |
 | 593 | 852 | Polly Pritchard Chesler |
-| 594 | 852 | Alexandra Lynn |
-| 595 | 852 | Catherine Marsh Gruda |
+| 594 | 852 | Catherine Marsh Gruda |
+| 595 | 852 | Alexandra Lynn |
 | 596 | 851 | Melissa Schulz |
 | 597 | 851 | James Louie |
 | 598 | 850 | Sabrina Burton |
@@ -722,8 +722,8 @@
 | 714 | 741 | Ashley Munn |
 | 715 | 740 | Jerry Tempelmeyer |
 | 716 | 740 | Lylymom |
-| 717 | 740 | Lee Harper |
-| 718 | 740 | Joice Hansen |
+| 717 | 740 | Joice Hansen |
+| 718 | 740 | Lee Harper |
 | 719 | 739 | Johanna Massaro |
 | 720 | 738 | Jessica S Flecha |
 | 721 | 737 | Ginger |
@@ -892,8 +892,8 @@
 | 884 | 647 | Bob Vu |
 | 885 | 647 | Tori Bowers |
 | 886 | 645 | Kacee Conrad Bock |
-| 887 | 645 | NanDa Cruzan VI |
-| 888 | 645 | Veronics |
+| 887 | 645 | Veronics |
+| 888 | 645 | NanDa Cruzan VI |
 | 889 | 644 | Kevin Luu |
 | 890 | 643 | Rae Rae |
 | 891 | 642 | Lewis Sturgeon |
@@ -953,9 +953,9 @@
 | 945 | 611 | Josh N Corrine |
 | 946 | 611 | Tom Steffen |
 | 947 | 610 | Shiny Snapmatch |
-| 948 | 607 | Dizzy Zone |
-| 949 | 607 | Slip |
-| 950 | 607 | Shindee |
+| 948 | 607 | Shindee |
+| 949 | 607 | Dizzy Zone |
+| 950 | 607 | Slip |
 | 951 | 607 | Tipsy Filler |
 | 952 | 606 | Stanislav Petkov |
 | 953 | 606 | AsnPryBoy83 |
@@ -1050,8 +1050,8 @@
 | 1042 | 563 | Dione |
 | 1043 | 563 | Heather M Purcell |
 | 1044 | 563 | David Rehse |
-| 1045 | 562 | Gabbrielle Sutton |
-| 1046 | 562 | Klee |
+| 1045 | 562 | Klee |
+| 1046 | 562 | Gabbrielle Sutton |
 | 1047 | 562 | Smiley Strike |
 | 1048 | 562 | Angie Winch |
 | 1049 | 562 | Dan Kulhanek |

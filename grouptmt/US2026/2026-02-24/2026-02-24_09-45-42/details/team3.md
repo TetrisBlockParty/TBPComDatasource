@@ -106,8 +106,8 @@
 | 98 | 1361 | Patricia Gadsden |
 | 99 | 1343 | Joey Banks |
 | 100 | 1320 | Kristie |
-| 101 | 1318 | Diana Ibarra |
-| 102 | 1318 | Tiff Vs Tiffany |
+| 101 | 1318 | Tiff Vs Tiffany |
+| 102 | 1318 | Diana Ibarra |
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
@@ -156,8 +156,8 @@
 | 148 | 971 | Tasha Schriewer |
 | 149 | 963 | Crystal Frey |
 | 150 | 961 | Danielle Allison |
-| 151 | 950 | Giddy Drop |
-| 152 | 950 | MissTaylor |
+| 151 | 950 | MissTaylor |
+| 152 | 950 | Giddy Drop |
 | 153 | 947 | Kellie Montgomery |
 | 154 | 940 | Stephanie Allmon |
 | 155 | 940 | Patty Allen |
@@ -207,8 +207,8 @@
 | 199 | 784 | Jone |
 | 200 | 783 | Julian Murphy |
 | 201 | 777 | Daryn Elliott |
-| 202 | 774 | Twisty Brick LT |
-| 203 | 774 | ren |
+| 202 | 774 | ren |
+| 203 | 774 | Twisty Brick LT |
 | 204 | 772 | Hasty Cascadefit |
 | 205 | 768 | Cyd061769 |
 | 206 | 766 | Tasha Gillespie |
@@ -231,8 +231,8 @@
 | 223 | 715 | Karon Griffin |
 | 224 | 714 | Jenny Hrndz |
 | 225 | 713 | Stephanie Blkpep Davidson |
-| 226 | 709 | Cynthia Castros-Hampton |
-| 227 | 709 | Christine Niles |
+| 226 | 709 | Christine Niles |
+| 227 | 709 | Cynthia Castros-Hampton |
 | 228 | 708 | Stephanie Bradley |
 | 229 | 704 | Betty Bóò |
 | 230 | 703 | Shawn Miller |
@@ -332,8 +332,8 @@
 | 324 | 499 | Gumbo |
 | 325 | 499 | Megan Rathmanner |
 | 326 | 496 | Brenda Schmid Wood |
-| 327 | 494 | fraulila |
-| 328 | 494 | MCV |
+| 327 | 494 | MCV |
+| 328 | 494 | fraulila |
 | 329 | 492 | Tasha Wesson-Torrence |
 | 330 | 490 | Cassandra Bryant |
 | 331 | 490 | TotoCherue |
@@ -442,8 +442,8 @@
 | 434 | 382 | Katheline Lazo Luizaga |
 | 435 | 382 | Amanda Martinez |
 | 436 | 381 | Mary Giorgenti |
-| 437 | 380 | Foltz Lee Kelli |
-| 438 | 380 | neci |
+| 437 | 380 | neci |
+| 438 | 380 | Foltz Lee Kelli |
 | 439 | 379 | Krish Shah |
 | 440 | 378 | Samantha Worley |
 | 441 | 378 | Ashley Lynn Marchese |
