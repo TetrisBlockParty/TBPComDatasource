@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 16:30:43 UTC
+# Standings for team1 as of 2026-02-24 16:31:22 UTC
 
 **Total Participants:** 2275
 
@@ -1066,12 +1066,12 @@
 | 1058 | 111 | squareMel |
 | 1059 | 111 | Michael Butler |
 | 1060 | 111 | Rory Eviltwin Bayer |
-| 1061 | 111 | Carol Rogers |
-| 1062 | 110 | Tasha McCormack |
-| 1063 | 110 | Sassy Riseclear |
-| 1064 | 110 | Thia Gibson |
-| 1065 | 110 | SMSMris |
-| 1066 | 110 | Cleo Snider |
+| 1061 | 111 | Cleo Snider |
+| 1062 | 111 | Carol Rogers |
+| 1063 | 110 | Tasha McCormack |
+| 1064 | 110 | Sassy Riseclear |
+| 1065 | 110 | Thia Gibson |
+| 1066 | 110 | SMSMris |
 | 1067 | 110 | Robert Benitez |
 | 1068 | 110 | Brahim Amara |
 | 1069 | 109 | Latonya McLeroy Smith |
@@ -1943,18 +1943,18 @@
 | 1935 | 22 | nic |
 | 1936 | 22 | SpeakerBox nt |
 | 1937 | 22 | Richard Johansen |
-| 1938 | 21 | Wildeye |
-| 1939 | 21 | Spicy Patternblock |
-| 1940 | 21 | Joseph Freeman |
-| 1941 | 21 | Tasmin Woodmansee |
-| 1942 | 21 | Bluey |
-| 1943 | 21 | Brandi Webb |
-| 1944 | 21 | Funky Zonepiece |
-| 1945 | 21 | Morganna |
-| 1946 | 21 | Chota |
-| 1947 | 21 | JesusIsGod |
-| 1948 | 21 | Peppy Buildout |
-| 1949 | 21 | Michael Bakko |
+| 1938 | 22 | Michael Bakko |
+| 1939 | 21 | Wildeye |
+| 1940 | 21 | Spicy Patternblock |
+| 1941 | 21 | Joseph Freeman |
+| 1942 | 21 | Tasmin Woodmansee |
+| 1943 | 21 | Bluey |
+| 1944 | 21 | Brandi Webb |
+| 1945 | 21 | Funky Zonepiece |
+| 1946 | 21 | Morganna |
+| 1947 | 21 | Chota |
+| 1948 | 21 | JesusIsGod |
+| 1949 | 21 | Peppy Buildout |
 | 1950 | 21 | Loopy Framezone |
 | 1951 | 21 | Alejandra Tomasa Garcia-ramirez |
 | 1952 | 21 | Nick Osentoski |
