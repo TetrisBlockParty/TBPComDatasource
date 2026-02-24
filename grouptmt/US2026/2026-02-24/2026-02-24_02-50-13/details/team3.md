@@ -146,8 +146,8 @@
 | 138 | 969 | yoyo |
 | 139 | 963 | Crystal Frey |
 | 140 | 957 | mzcatzy |
-| 141 | 950 | MissTaylor |
-| 142 | 950 | Giddy Drop |
+| 141 | 950 | Giddy Drop |
+| 142 | 950 | MissTaylor |
 | 143 | 943 | Katrina Schroeder |
 | 144 | 940 | Stephanie Allmon |
 | 145 | 939 | Jamie Lang |
@@ -439,8 +439,8 @@
 | 431 | 353 | AlsoJess |
 | 432 | 352 | LadyTorad |
 | 433 | 352 | Sarah Muradyan |
-| 434 | 351 | Eon Harris |
-| 435 | 351 | Hoppy Buildout |
+| 434 | 351 | Hoppy Buildout |
+| 435 | 351 | Eon Harris |
 | 436 | 348 | Ashley Raines |
 | 437 | 348 | Jimmie Clemons |
 | 438 | 346 | Maggie |

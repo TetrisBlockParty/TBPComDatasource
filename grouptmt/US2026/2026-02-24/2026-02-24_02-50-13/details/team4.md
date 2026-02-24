@@ -77,8 +77,8 @@
 | 69 | 1030 | Anthony Bryan Riva |
 | 70 | 999 | Jeremy Steines |
 | 71 | 987 | Julian Garcia |
-| 72 | 985 | Shelly Chandler |
-| 73 | 985 | Shannon Ferrari |
+| 72 | 985 | Shannon Ferrari |
+| 73 | 985 | Shelly Chandler |
 | 74 | 956 | loulou |
 | 75 | 947 | TeeJ |
 | 76 | 939 | Edward White |
@@ -124,8 +124,8 @@
 | 116 | 716 | Savannah Overdorf |
 | 117 | 712 | H.R. Block |
 | 118 | 710 | SAP |
-| 119 | 708 | Zippy Gridlock |
-| 120 | 708 | Jacqueline Helm |
+| 119 | 708 | Jacqueline Helm |
+| 120 | 708 | Zippy Gridlock |
 | 121 | 704 | Austin Owens |
 | 122 | 702 | Amy Suckarieh |
 | 123 | 698 | Chilly Crasher |
@@ -223,8 +223,8 @@
 | 215 | 448 | Mike Solo |
 | 216 | 447 | J-Rizzle |
 | 217 | 446 | Mr. Party |
-| 218 | 444 | Shiny Fit |
-| 219 | 444 | Calvin Cannon |
+| 218 | 444 | Calvin Cannon |
+| 219 | 444 | Shiny Fit |
 | 220 | 443 | Kristina Black |
 | 221 | 442 | 🥔🥔 Spudz |
 | 222 | 441 | Jen Mattei |
@@ -239,8 +239,8 @@
 | 231 | 430 | Plucky Patternblock |
 | 232 | 427 | Chao Ma |
 | 233 | 426 | John Brunetti |
-| 234 | 424 | Keshia Lyons |
-| 235 | 424 | Chris Bernstein |
+| 234 | 424 | Chris Bernstein |
+| 235 | 424 | Keshia Lyons |
 | 236 | 422 | Zakia Monae |
 | 237 | 421 | JIGsaw ~(•¿°)~ |
 | 238 | 419 | Silly Zonebuilder |
@@ -299,7 +299,7 @@
 | 291 | 343 | HastyGrabber |
 | 292 | 342 | Lauren Lamb |
 | 293 | 340 | Cranky Rollpiece |
-| 294 | 339 | Jason Gibbs |
+| 294 | 339 | Blessedmama |
 | 295 | 339 | Chance Strickland |
 | 296 | 339 | Jason Gibbs |
 | 297 | 336 | ZeeZee |
@@ -397,8 +397,8 @@
 | 389 | 272 | Paito |
 | 390 | 270 | Stephme310 |
 | 391 | 270 | 07VHVW |
-| 392 | 268 | Riverdale |
-| 393 | 268 | Sallie Sanborn |
+| 392 | 268 | Sallie Sanborn |
+| 393 | 268 | Riverdale |
 | 394 | 267 | Marcus TheeyoungWoe Gilmore |
 | 395 | 266 | ĥuf |
 | 396 | 266 | Happy Combo |

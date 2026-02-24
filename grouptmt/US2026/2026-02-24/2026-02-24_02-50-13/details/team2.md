@@ -498,8 +498,8 @@
 | 490 | 914 | Lola Contreras |
 | 491 | 914 | Felicia Lynn |
 | 492 | 909 | Valerie Brooke Lusk Armstrong |
-| 493 | 907 | Kiely Tomaskovich |
-| 494 | 907 | Gene Mills |
+| 493 | 907 | Gene Mills |
+| 494 | 907 | Kiely Tomaskovich |
 | 495 | 905 | Brenda Utphall |
 | 496 | 905 | Adam Simmons |
 | 497 | 903 | Dylan Thomason |
