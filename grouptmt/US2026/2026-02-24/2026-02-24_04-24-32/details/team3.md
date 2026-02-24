@@ -80,8 +80,8 @@
 | 72 | 1646 | Gracie |
 | 73 | 1633 | cowboy25469 |
 | 74 | 1617 | Queen Kam |
-| 75 | 1566 | Nerdy Riseclear |
-| 76 | 1566 | Marcie Bressler |
+| 75 | 1566 | Marcie Bressler |
+| 76 | 1566 | Nerdy Riseclear |
 | 77 | 1560 | Logan Naccarato |
 | 78 | 1555 | Snappy Glidepiece |
 | 79 | 1552 | joclisa |
@@ -212,8 +212,8 @@
 | 204 | 742 | Jennifer Lynn Fahrenholtz-Summers |
 | 205 | 738 | Naur |
 | 206 | 736 | Elissa S-k |
-| 207 | 733 | Annie Marie |
-| 208 | 733 | Annie Déè |
+| 207 | 733 | Annie Déè |
+| 208 | 733 | Annie Marie |
 | 209 | 731 | Samantha Greco |
 | 210 | 729 | CeceGeGe |
 | 211 | 722 | Angela Scott |
@@ -223,8 +223,8 @@
 | 215 | 709 | Christine Niles |
 | 216 | 708 | Stephanie Bradley |
 | 217 | 703 | Shawn Miller |
-| 218 | 691 | Snappy Balancer |
-| 219 | 691 | Tia |
+| 218 | 691 | Tia |
+| 219 | 691 | Snappy Balancer |
 | 220 | 684 | Patti Skiles |
 | 221 | 677 | Mykal Burton |
 | 222 | 675 | LaTanya GeminiondaRise Johnson |
@@ -280,10 +280,10 @@
 | 272 | 561 | Chauntee Alfrey-Cardinale |
 | 273 | 551 | Micayah Stevens |
 | 274 | 547 | Aerian Preston |
-| 275 | 546 | lashanda |
-| 276 | 546 | Cynthia Castros-Hampton |
-| 277 | 544 | Tamara Deherrera |
-| 278 | 544 | Angella Lyons |
+| 275 | 546 | Cynthia Castros-Hampton |
+| 276 | 546 | lashanda |
+| 277 | 544 | Angella Lyons |
+| 278 | 544 | Tamara Deherrera |
 | 279 | 542 | France Vézina |
 | 280 | 541 | Gray Hicks |
 | 281 | 540 | Tanya Kittrell |
@@ -325,10 +325,10 @@
 | 317 | 481 | Tiffanie Alley |
 | 318 | 480 | Dee Franklin |
 | 319 | 480 | TLM |
-| 320 | 476 | Scott Carleton |
-| 321 | 476 | Shunta Jacobs |
-| 322 | 471 | Sarah Moyer |
-| 323 | 471 | Mendoza Lee Christy |
+| 320 | 476 | Shunta Jacobs |
+| 321 | 476 | Scott Carleton |
+| 322 | 471 | Mendoza Lee Christy |
+| 323 | 471 | Sarah Moyer |
 | 324 | 467 | Danielle Rhoades |
 | 325 | 465 | Blocked |
 | 326 | 465 | Noettín Kan Zasnemoore |
@@ -336,8 +336,8 @@
 | 328 | 463 | Charles Perrone |
 | 329 | 462 | Jul |
 | 330 | 462 | Tegan Chapman |
-| 331 | 461 | Hyper Bridger |
-| 332 | 461 | Briana Wellman |
+| 331 | 461 | Briana Wellman |
+| 332 | 461 | Hyper Bridger |
 | 333 | 460 | Antonia Russell |
 | 334 | 459 | Snazzy Filler |
 | 335 | 459 | Randy Clevenger |

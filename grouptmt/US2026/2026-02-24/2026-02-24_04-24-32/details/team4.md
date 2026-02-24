@@ -69,8 +69,8 @@
 | 61 | 1116 | Ashley Ingram |
 | 62 | 1098 | BertMofo |
 | 63 | 1089 | Alyssa Papen |
-| 64 | 1082 | Dion Crommarty |
-| 65 | 1082 | Avy Absol |
+| 64 | 1082 | Avy Absol |
+| 65 | 1082 | Dion Crommarty |
 | 66 | 1075 | Dustee Craddock-Harrison |
 | 67 | 1069 | Heather Tushner |
 | 68 | 1047 | Julian Garcia |
@@ -193,8 +193,8 @@
 | 185 | 516 | Twisty Clicky |
 | 186 | 513 | Erin Thomas |
 | 187 | 512 | Ellen Durfee |
-| 188 | 512 | Casey Jeffcoat |
-| 189 | 512 | ThaEviLJeNiuZ |
+| 188 | 512 | ThaEviLJeNiuZ |
+| 189 | 512 | Casey Jeffcoat |
 | 190 | 509 | Mimi |
 | 191 | 508 | Zesty Twistbuilder |
 | 192 | 508 | Milan Markeisha |
@@ -267,8 +267,8 @@
 | 259 | 392 | Neirrah B Olailjeel |
 | 260 | 391 | mike |
 | 261 | 390 | Ari Droff |
-| 262 | 387 | JPW |
-| 263 | 387 | Rafael Valentin |
+| 262 | 387 | Rafael Valentin |
+| 263 | 387 | JPW |
 | 264 | 386 | Denise B |
 | 265 | 385 | 23 |
 | 266 | 384 | Bio Nelly |

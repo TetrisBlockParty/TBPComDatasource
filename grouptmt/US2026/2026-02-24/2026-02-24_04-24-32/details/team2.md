@@ -166,8 +166,8 @@
 | 158 | 2093 | Michele Gabriel |
 | 159 | 2068 | PsychKIRAtrist |
 | 160 | 2060 | Shameika Trail |
-| 161 | 2056 | Tonya Brooks-Johnson |
-| 162 | 2056 | Alisa Lamb |
+| 161 | 2056 | Alisa Lamb |
+| 162 | 2056 | Tonya Brooks-Johnson |
 | 163 | 2048 | Jose Mendoza |
 | 164 | 2007 | Hannah Erskine |
 | 165 | 2005 | Cody Nishimura |
@@ -392,8 +392,8 @@
 | 384 | 1116 | Em Chen |
 | 385 | 1116 | Wakanda Forever |
 | 386 | 1110 | Nadia Batista Garcia |
-| 387 | 1109 | Melissa McCall |
-| 388 | 1109 | BYM4L |
+| 387 | 1109 | BYM4L |
+| 388 | 1109 | Melissa McCall |
 | 389 | 1105 | Nerdy Clearfit |
 | 390 | 1104 | Giggy Blocker |
 | 391 | 1104 | Kimberly Hope Howell |
@@ -416,8 +416,8 @@
 | 408 | 1075 | SaraMarie Eveland |
 | 409 | 1074 | Diana Ayers |
 | 410 | 1073 | Jodi Blake |
-| 411 | 1071 | Kim Dean |
-| 412 | 1071 | Nashu |
+| 411 | 1071 | Nashu |
+| 412 | 1071 | Kim Dean |
 | 413 | 1068 | Tiffany Branham |
 | 414 | 1067 | Caitlin Schmid |
 | 415 | 1067 | Taylor Phillips |
@@ -622,8 +622,8 @@
 | 614 | 780 | Megan Kitchner |
 | 615 | 780 | Amy Reynolds |
 | 616 | 779 | Trinity Oak |
-| 617 | 777 | Ashley Lopez |
-| 618 | 777 | Tesha Oldaker |
+| 617 | 777 | Tesha Oldaker |
+| 618 | 777 | Ashley Lopez |
 | 619 | 776 | Jerilyn Andrina |
 | 620 | 775 | Maya June |
 | 621 | 774 | Ryan Gunther |
@@ -705,8 +705,8 @@
 | 697 | 710 | Alexis Richardson |
 | 698 | 708 | Michelle Sager |
 | 699 | 707 | Trevor Jordan |
-| 700 | 706 | Josh Webster |
-| 701 | 706 | Roseanna Peloso |
+| 700 | 706 | Roseanna Peloso |
+| 701 | 706 | Josh Webster |
 | 702 | 705 | Chelsea Gutierrez |
 | 703 | 704 | Quiksilver |
 | 704 | 704 | Terry Paulson |
