@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 18:24:43 UTC
+# Standings for team4 as of 2026-02-24 18:25:22 UTC
 
 **Total Participants:** 2060
 
@@ -25,7 +25,7 @@
 | 17 | 2805 | Ancient Intuition |
 | 18 | 2621 | Clarence Patawaran |
 | 19 | 2408 | Misty Hollibaugh |
-| 20 | 2382 | Michelle Pearman |
+| 20 | 2386 | Michelle Pearman |
 | 21 | 2180 | Christina LR |
 | 22 | 2035 | Robin Getchel |
 | 23 | 2011 | GreenJeepGirl |
@@ -185,8 +185,8 @@
 | 177 | 591 | Nita Wells |
 | 178 | 590 | Carlton Unfiltered |
 | 179 | 590 | Crystal Lynn |
-| 180 | 586 | Latisha Davis |
-| 181 | 585 | JPW |
+| 180 | 589 | JPW |
+| 181 | 586 | Latisha Davis |
 | 182 | 585 | Tracey Lehmann |
 | 183 | 583 | Christina Black |
 | 184 | 580 | Erin Sabol |
@@ -393,9 +393,9 @@
 | 385 | 331 | Stephme310 |
 | 386 | 330 | Duck |
 | 387 | 329 | Meagan Nicole |
-| 388 | 329 | Jenna McGeorge |
-| 389 | 328 | Leah Kutz Zirbel |
-| 390 | 327 | Paito |
+| 388 | 329 | Paito |
+| 389 | 329 | Jenna McGeorge |
+| 390 | 328 | Leah Kutz Zirbel |
 | 391 | 326 | Lazy Glidepiece |
 | 392 | 325 | Zany Shatterer |
 | 393 | 325 | Dustin York |
@@ -672,19 +672,19 @@
 | 664 | 201 | Eric Wren |
 | 665 | 201 | Nijmeh Hinchsliff |
 | 666 | 201 | Carla Harris |
-| 667 | 201 | Danya Castillo Rios |
-| 668 | 200 | Veronica Garza |
-| 669 | 199 | Ben Nome |
-| 670 | 199 | Jonathan Mahfood |
-| 671 | 199 | Amy C Brown |
-| 672 | 199 | Allen Johnson |
-| 673 | 199 | Daniel Gazcon |
-| 674 | 198 | Bubbly Setter |
-| 675 | 198 | Shiny Twistpiece |
-| 676 | 198 | Ahleek Mitchell |
-| 677 | 198 | Christina O'Dell-Ishau |
-| 678 | 198 | Zocko Ellet |
-| 679 | 198 | Earnest Thompson |
+| 667 | 201 | Daniel Gazcon |
+| 668 | 201 | Danya Castillo Rios |
+| 669 | 200 | Veronica Garza |
+| 670 | 199 | Ben Nome |
+| 671 | 199 | Jonathan Mahfood |
+| 672 | 199 | Amy C Brown |
+| 673 | 199 | Allen Johnson |
+| 674 | 198 | Shiny Twistpiece |
+| 675 | 198 | Ahleek Mitchell |
+| 676 | 198 | Christina O'Dell-Ishau |
+| 677 | 198 | Zocko Ellet |
+| 678 | 198 | Earnest Thompson |
+| 679 | 198 | Bubbly Setter |
 | 680 | 197 | Lynn Marie |
 | 681 | 197 | Josh Chapell |
 | 682 | 197 | Colton Stamper |
@@ -933,8 +933,8 @@
 | 925 | 127 | LucasEveryday |
 | 926 | 127 | Maverick |
 | 927 | 127 | JD |
-| 928 | 127 | Kari Rose Haché |
-| 929 | 127 | Lynella |
+| 928 | 127 | Lynella |
+| 929 | 127 | Kari Rose Haché |
 | 930 | 127 | Riley Chelsie |
 | 931 | 126 | PAPatty |
 | 932 | 126 | Bob N Alisha Hinojosa |
@@ -942,60 +942,60 @@
 | 934 | 126 | Spicy Cascadezone |
 | 935 | 126 | Ian Starnes |
 | 936 | 125 | Liliveth |
-| 937 | 125 | Brittany Price |
-| 938 | 124 | Raeann Gibson |
-| 939 | 123 | Shiny Wipefit |
-| 940 | 123 | Loony Slide |
-| 941 | 123 | Bruce Gal |
-| 942 | 123 | Gage |
-| 943 | 123 | Leah Landry |
-| 944 | 123 | RobinC |
-| 945 | 123 | Gregory Mock |
-| 946 | 122 | Tiffany Tran |
-| 947 | 122 | Mike Burlingame |
-| 948 | 122 | Brandy Gray |
-| 949 | 121 | BlockBabe |
-| 950 | 121 | Michelle Sanchez |
-| 951 | 121 | Frothy Patterner |
+| 937 | 125 | Kanci McKnight |
+| 938 | 125 | Brittany Price |
+| 939 | 124 | Raeann Gibson |
+| 940 | 123 | Shiny Wipefit |
+| 941 | 123 | Leah Landry |
+| 942 | 123 | Gregory Mock |
+| 943 | 123 | RobinC |
+| 944 | 123 | Gage |
+| 945 | 123 | Bruce Gal |
+| 946 | 123 | Loony Slide |
+| 947 | 122 | Tiffany Tran |
+| 948 | 122 | Mike Burlingame |
+| 949 | 122 | Brandy Gray |
+| 950 | 121 | Jamie Hirtle |
+| 951 | 121 | Cranky Pivoty |
 | 952 | 121 | Mitchell Everhart |
-| 953 | 121 | Cranky Pivoty |
-| 954 | 121 | Jamie Hirtle |
-| 955 | 121 | Sadie Rae Ryan |
-| 956 | 121 | Wacky Blockclear |
-| 957 | 121 | amy |
-| 958 | 121 | Cozy Balanceblock |
-| 959 | 120 | Kris Johnson |
-| 960 | 120 | mistresscoundrl1 |
-| 961 | 120 | Jesse Jamez Crater |
-| 962 | 120 | Serena Butter |
-| 963 | 120 | Alee Marie |
-| 964 | 120 | Zappy Snaplink |
-| 965 | 119 | Calen Torez |
-| 966 | 119 | Danelle Sulentic |
-| 967 | 119 | Clever Breaker |
+| 953 | 121 | Frothy Patterner |
+| 954 | 121 | Michelle Sanchez |
+| 955 | 121 | BlockBabe |
+| 956 | 121 | amy |
+| 957 | 121 | Wacky Blockclear |
+| 958 | 121 | Sadie Rae Ryan |
+| 959 | 121 | Cozy Balanceblock |
+| 960 | 120 | Alee Marie |
+| 961 | 120 | Serena Butter |
+| 962 | 120 | Zappy Snaplink |
+| 963 | 120 | Jesse Jamez Crater |
+| 964 | 120 | mistresscoundrl1 |
+| 965 | 120 | Kris Johnson |
+| 966 | 119 | Calen Torez |
+| 967 | 119 | Danelle Sulentic |
 | 968 | 119 | Michelle Parker |
-| 969 | 118 | Kristen Rittall |
-| 970 | 118 | Kanci McKnight |
-| 971 | 118 | MoP11 |
-| 972 | 118 | Frisky Column |
+| 969 | 119 | Clever Breaker |
+| 970 | 118 | Kristen Rittall |
+| 971 | 118 | Frisky Column |
+| 972 | 118 | MoP11 |
 | 973 | 118 | Tracy Dawn |
 | 974 | 118 | Cashmere |
 | 975 | 118 | Erebus |
 | 976 | 117 | MzChocolate |
 | 977 | 117 | Ninaforever |
-| 978 | 117 | Denatrious Perry |
-| 979 | 117 | Snappy Bouncer |
-| 980 | 117 | Matt Narcisse |
-| 981 | 117 | Tracey Oger |
-| 982 | 116 | Shadonna Brandes |
+| 978 | 117 | Tracey Oger |
+| 979 | 117 | Matt Narcisse |
+| 980 | 117 | Snappy Bouncer |
+| 981 | 117 | Denatrious Perry |
+| 982 | 116 | Lindsey Bergkvist |
 | 983 | 116 | Natalie;) |
-| 984 | 116 | Cozy Framezone |
-| 985 | 116 | Vanita M Hemphill |
-| 986 | 116 | Lindsey Bergkvist |
+| 984 | 116 | Shadonna Brandes |
+| 985 | 116 | Cozy Framezone |
+| 986 | 116 | Vanita M Hemphill |
 | 987 | 115 | mitch |
-| 988 | 115 | Jayk |
+| 988 | 115 | Snappy Combofall |
 | 989 | 115 | Brenda Bird |
-| 990 | 115 | Snappy Combofall |
+| 990 | 115 | Jayk |
 | 991 | 115 | ScootyLadoo |
 | 992 | 115 | Zzz |
 | 993 | 115 | Mona Touchine |
