@@ -68,8 +68,8 @@
 | 60 | 1106 | Ashley Ingram |
 | 61 | 1098 | BertMofo |
 | 62 | 1089 | Alyssa Papen |
-| 63 | 1082 | Avy Absol |
-| 64 | 1082 | Dion Crommarty |
+| 63 | 1082 | Dion Crommarty |
+| 64 | 1082 | Avy Absol |
 | 65 | 1075 | Dustee Craddock-Harrison |
 | 66 | 1064 | Heather Tushner |
 | 67 | 1047 | Julian Garcia |
@@ -95,8 +95,8 @@
 | 87 | 851 | Jason Hart |
 | 88 | 850 | Lucille Truesdale |
 | 89 | 846 | Christine Marie |
-| 90 | 841 | Shauna Havard |
-| 91 | 841 | Judy Cox |
+| 90 | 841 | Judy Cox |
+| 91 | 841 | Shauna Havard |
 | 92 | 840 | Chaz Duncan |
 | 93 | 834 | quicksand420 |
 | 94 | 826 | Rica Mitchell |
@@ -223,8 +223,8 @@
 | 215 | 452 | Aden Moss |
 | 216 | 449 | Danielle Kollias |
 | 217 | 448 | Mike Solo |
-| 218 | 447 | J-Rizzle |
-| 219 | 447 | Jen Mattei |
+| 218 | 447 | Jen Mattei |
+| 219 | 447 | J-Rizzle |
 | 220 | 446 | Mr. Party |
 | 221 | 444 | Shiny Fit |
 | 222 | 444 | Calvin Cannon |
@@ -338,8 +338,8 @@
 | 330 | 314 | Paige Kittles |
 | 331 | 313 | DonMega |
 | 332 | 312 | Tawna Curry |
-| 333 | 311 | Laura |
-| 334 | 311 | Ak Jones |
+| 333 | 311 | Ak Jones |
+| 334 | 311 | Laura |
 | 335 | 308 | Angela Geist Jusinski |
 | 336 | 307 | Shukee Lo |
 | 337 | 307 | Kim Klutz Olson |
@@ -353,8 +353,8 @@
 | 345 | 300 | Carter Jones |
 | 346 | 300 | Jason Frehner |
 | 347 | 298 | Bradley Reeves |
-| 348 | 297 | Brittany Marsh |
-| 349 | 297 | Jackie Clark |
+| 348 | 297 | Jackie Clark |
+| 349 | 297 | Brittany Marsh |
 | 350 | 296 | Zethra Prenisha Rahming |
 | 351 | 295 | Deb Rubeck |
 | 352 | 295 | Cool Gridzone |
@@ -463,11 +463,11 @@
 | 455 | 240 | Orchislactea |
 | 456 | 240 | Zany Shatterer |
 | 457 | 239 | Kevin Bush |
-| 458 | 238 | Cheery Fitline |
-| 459 | 238 | 中山成巳 |
-| 460 | 236 | Frisky Matchgrid |
-| 461 | 236 | Michelle Morris |
-| 462 | 236 | Melissa VanBourgondien |
+| 458 | 238 | 中山成巳 |
+| 459 | 238 | Cheery Fitline |
+| 460 | 236 | Michelle Morris |
+| 461 | 236 | Melissa VanBourgondien |
+| 462 | 236 | Frisky Matchgrid |
 | 463 | 236 | The Murphy |
 | 464 | 235 | Jessica Petersen |
 | 465 | 235 | LaDonna LovinmesomeMe Lambert |
@@ -557,8 +557,8 @@
 | 549 | 201 | Carla Harris |
 | 550 | 200 | Frances Hui |
 | 551 | 199 | Eri Kka |
-| 552 | 197 | Loony Rotater |
-| 553 | 197 | Brian Owens |
+| 552 | 197 | Brian Owens |
+| 553 | 197 | Loony Rotater |
 | 554 | 196 | Julie McAfoos Swanson |
 | 555 | 195 | Christine Simmons |
 | 556 | 195 | Tabi Williams |

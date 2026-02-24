@@ -306,8 +306,8 @@
 | 298 | 500 | Ashley Tookes |
 | 299 | 499 | Gumbo |
 | 300 | 497 | Rebecca Bailey |
-| 301 | 494 | Megan Rathmanner |
-| 302 | 494 | MCV |
+| 301 | 494 | MCV |
+| 302 | 494 | Megan Rathmanner |
 | 303 | 492 | Tasha Wesson-Torrence |
 | 304 | 489 | Isabel Ocasio |
 | 305 | 488 | Brenda Schmid Wood |
