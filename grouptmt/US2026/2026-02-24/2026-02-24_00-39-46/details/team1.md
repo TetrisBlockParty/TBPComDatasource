@@ -124,8 +124,8 @@
 | 116 | 612 | femmefatale |
 | 117 | 606 | Ty Brown |
 | 118 | 604 | Ryan Lunnin |
-| 119 | 601 | Evan Richmond |
-| 120 | 601 | Phu ckalldems |
+| 119 | 601 | Phu ckalldems |
+| 120 | 601 | Evan Richmond |
 | 121 | 598 | Jessi Sauer |
 | 122 | 594 | Basment Living |
 | 123 | 591 | Giddy Cascade |
@@ -142,8 +142,8 @@
 | 134 | 556 | Susan Ward |
 | 135 | 555 | Sarah Lombardo |
 | 136 | 553 | Flashy Rotator |
-| 137 | 552 | Tanya Carpenter-Reynolds |
-| 138 | 552 | Hellsin |
+| 137 | 552 | Hellsin |
+| 138 | 552 | Tanya Carpenter-Reynolds |
 | 139 | 550 | Timothy Danaher |
 | 140 | 548 | Luciano Moreira |
 | 141 | 546 | Loony Fitzone |
@@ -211,11 +211,11 @@
 | 203 | 422 | Chelsea Dahlquist |
 | 204 | 419 | Jennifer Noe Chandler |
 | 205 | 419 | Daring Fitclear |
-| 206 | 419 | Jennifer Noe Chandler |
+| 206 | 419 | John J. Cronin |
 | 207 | 417 | Jessie Lynn |
 | 208 | 416 | Jessica Sheehan |
-| 209 | 412 | Connie |
-| 210 | 412 | Witty Builderfit |
+| 209 | 412 | Witty Builderfit |
+| 210 | 412 | Connie |
 | 211 | 408 | Lindsay Glover |
 | 212 | 407 | Ananda Mendez |
 | 213 | 404 | Tawnya Peltonen |
@@ -245,8 +245,8 @@
 | 237 | 380 | Snippy Wipebuilder |
 | 238 | 380 | Bindi |
 | 239 | 379 | Austin James |
-| 240 | 376 | Sassy Builderline |
-| 241 | 376 | Brian Richardsson |
+| 240 | 376 | Brian Richardsson |
+| 241 | 376 | Sassy Builderline |
 | 242 | 375 | DaRascal |
 | 243 | 373 | Frothy Pattern |
 | 244 | 372 | Dizzy Party |
@@ -290,8 +290,8 @@
 | 282 | 340 | Robert |
 | 283 | 340 | Danielle Little-Daugherty |
 | 284 | 338 | Layzietyme |
-| 285 | 337 | Larissa Marie Nelson |
-| 286 | 337 | Happy Basegrid |
+| 285 | 337 | Happy Basegrid |
+| 286 | 337 | Larissa Marie Nelson |
 | 287 | 336 | Adele Rahman |
 | 288 | 336 | Sarah Roberts |
 | 289 | 334 | Tipsy Builder |

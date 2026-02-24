@@ -379,8 +379,8 @@
 | 371 | 377 | Hoppy Patternline |
 | 372 | 377 | Dee Franklin |
 | 373 | 376 | Kristen Weese |
-| 374 | 375 | Troy |
-| 375 | 375 | neci |
+| 374 | 375 | neci |
+| 375 | 375 | Troy |
 | 376 | 374 | Dawn Williams |
 | 377 | 374 | Foltz Lee Kelli |
 | 378 | 373 | KayB |
@@ -794,8 +794,8 @@
 | 786 | 207 | Jennifer Evans |
 | 787 | 206 | Nicole Eastman |
 | 788 | 206 | Frisky Linkbuilder |
-| 789 | 206 | Anabela Ruiz |
-| 790 | 206 | Wancharlene Hercules |
+| 789 | 206 | Wancharlene Hercules |
+| 790 | 206 | Anabela Ruiz |
 | 791 | 205 | Brooke Bauer |
 | 792 | 205 | AngieMuffin Wap |
 | 793 | 205 | Hoài Quắt |

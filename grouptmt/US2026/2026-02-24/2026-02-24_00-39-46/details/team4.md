@@ -86,8 +86,8 @@
 | 78 | 901 | TeeJ |
 | 79 | 865 | Carolyn Wallace |
 | 80 | 861 | Peachy Fall |
-| 81 | 850 | Lucille Truesdale |
-| 82 | 850 | Lisa Davis |
+| 81 | 850 | Lisa Davis |
+| 82 | 850 | Lucille Truesdale |
 | 83 | 847 | Chilly Line |
 | 84 | 846 | Christine Marie |
 | 85 | 841 | Shauna Havard |
@@ -204,8 +204,8 @@
 | 196 | 463 | SAP |
 | 197 | 462 | Leslie Thomas |
 | 198 | 459 | Mimi |
-| 199 | 457 | Kristin Manee |
-| 200 | 457 | June Hoffman |
+| 199 | 457 | June Hoffman |
+| 200 | 457 | Kristin Manee |
 | 201 | 455 | Michele Plunkett |
 | 202 | 452 | TRCuse |
 | 203 | 452 | Crystal Nicolette Moore |
@@ -236,8 +236,8 @@
 | 228 | 409 | Antony Dwayne Beasley |
 | 229 | 403 | TinyLegoRose |
 | 230 | 400 | Brickh4us |
-| 231 | 399 | Lindsay Ball |
-| 232 | 399 | Jeff Brian Gates |
+| 231 | 399 | Jeff Brian Gates |
+| 232 | 399 | Lindsay Ball |
 | 233 | 398 | Tyler Terrific |
 | 234 | 395 | 030Synner |
 | 235 | 394 | Nita Wells |
