@@ -256,8 +256,8 @@
 | 248 | 1442 | Stacy Stickle |
 | 249 | 1422 | Rebecca Garland |
 | 250 | 1418 | L3sli3 |
-| 251 | 1415 | Jennifer Casey-Kay |
-| 252 | 1415 | Kristin Ruest |
+| 251 | 1415 | Kristin Ruest |
+| 252 | 1415 | Jennifer Casey-Kay |
 | 253 | 1414 | Brittany Radaszewski |
 | 254 | 1413 | Matthew Joseph Acevedo |
 | 255 | 1409 | Nicole L Morelli |

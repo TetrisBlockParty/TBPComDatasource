@@ -108,8 +108,8 @@
 | 100 | 779 | Nope Young |
 | 101 | 778 | TheNeesh50 |
 | 102 | 775 | Klo |
-| 103 | 768 | Judy Cox |
-| 104 | 768 | Trista Leah |
+| 103 | 768 | Trista Leah |
+| 104 | 768 | Judy Cox |
 | 105 | 766 | Robin Watters |
 | 106 | 764 | Valerie Roberts |
 | 107 | 735 | Nugget |
@@ -343,8 +343,8 @@
 | 335 | 298 | ZeeZee |
 | 336 | 297 | Brittany Marsh |
 | 337 | 296 | Zethra Prenisha Rahming |
-| 338 | 295 | Deb Rubeck |
-| 339 | 295 | Cool Gridzone |
+| 338 | 295 | Cool Gridzone |
+| 339 | 295 | Deb Rubeck |
 | 340 | 294 | BootsMcGee |
 | 341 | 292 | Tracey Lehmann |
 | 342 | 292 | Epic Curvetile |

@@ -184,8 +184,8 @@
 | 176 | 489 | Speedy Liney |
 | 177 | 488 | Hyper |
 | 178 | 482 | Ly Phethmany |
-| 179 | 479 | canbrick |
-| 180 | 479 | Snappy Matcher |
+| 179 | 479 | Snappy Matcher |
+| 180 | 479 | canbrick |
 | 181 | 478 | Jumpy Dropper |
 | 182 | 475 | Steve Schneider |
 | 183 | 474 | Jerry Danowski |
@@ -313,10 +313,10 @@
 | 305 | 329 | Larry Tilton |
 | 306 | 329 | Marianita Garcia |
 | 307 | 325 | Sarah Marie |
-| 308 | 325 | Mitchel White |
-| 309 | 325 | GringaLinga |
-| 310 | 324 | Brave Wrecker |
-| 311 | 324 | Sylvia Vasquez |
+| 308 | 325 | GringaLinga |
+| 309 | 325 | Mitchel White |
+| 310 | 324 | Sylvia Vasquez |
+| 311 | 324 | Brave Wrecker |
 | 312 | 323 | Barrbaric |
 | 313 | 323 | Cody Gates |
 | 314 | 322 | Chris65 |
@@ -327,8 +327,8 @@
 | 319 | 317 | Bloknboy |
 | 320 | 316 | Giggly Builderline |
 | 321 | 314 | Amh |
-| 322 | 312 | Glitzy Curvebuilder |
-| 323 | 312 | Diane Byrd |
+| 322 | 312 | Diane Byrd |
+| 323 | 312 | Glitzy Curvebuilder |
 | 324 | 311 | Nathan Sealander |
 | 325 | 310 | Chase Collinsworth |
 | 326 | 308 | Jessie Welch |
@@ -343,8 +343,8 @@
 | 335 | 301 | Susie Loo |
 | 336 | 301 | Chad Atchley |
 | 337 | 300 | Logan McFarland |
-| 338 | 299 | Chummy Rollblock |
-| 339 | 299 | Nathan William |
+| 338 | 299 | Nathan William |
+| 339 | 299 | Chummy Rollblock |
 | 340 | 298 | Sweetts |
 | 341 | 297 | Speedy Snapfall |
 | 342 | 295 | Richard Corrado |
@@ -358,9 +358,9 @@
 | 350 | 291 | Toph |
 | 351 | 290 | Shanae Grant |
 | 352 | 289 | Mary Love |
-| 353 | 288 | Glitzy Buildsnap |
-| 354 | 288 | Test |
-| 355 | 288 | Tanya Banks |
+| 353 | 288 | Tanya Banks |
+| 354 | 288 | Glitzy Buildsnap |
+| 355 | 288 | Test |
 | 356 | 287 | Itspaigebro |
 | 357 | 286 | Marci Sanders |
 | 358 | 286 | Sarahdactyl |
