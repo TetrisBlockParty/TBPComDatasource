@@ -118,8 +118,8 @@
 | 110 | 725 | Diana Houts |
 | 111 | 724 | Destiney Carter |
 | 112 | 723 | Chris Alexinas |
-| 113 | 719 | Jamie Mann-Deichmann |
-| 114 | 719 | Sam Bishop |
+| 113 | 719 | Sam Bishop |
+| 114 | 719 | Jamie Mann-Deichmann |
 | 115 | 716 | Savannah Overdorf |
 | 116 | 702 | Amy Suckarieh |
 | 117 | 701 | SAP |

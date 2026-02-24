@@ -296,8 +296,8 @@
 | 288 | 507 | Snappy Balancer |
 | 289 | 506 | Ammmmmmy |
 | 290 | 505 | Stephanie Simpson |
-| 291 | 502 | Giddy Twistbuilder |
-| 292 | 502 | Jeni Dow |
+| 291 | 502 | Jeni Dow |
+| 292 | 502 | Giddy Twistbuilder |
 | 293 | 501 | Rebecca Funderburk Kirby |
 | 294 | 500 | Ashley Tookes |
 | 295 | 499 | Gumbo |
@@ -314,14 +314,14 @@
 | 306 | 481 | Tiffanie Alley |
 | 307 | 476 | Shunta Jacobs |
 | 308 | 475 | Tasha Wesson-Torrence |
-| 309 | 471 | Mendoza Lee Christy |
-| 310 | 471 | Skippy |
+| 309 | 471 | Skippy |
+| 310 | 471 | Mendoza Lee Christy |
 | 311 | 468 | Sarah Moyer |
 | 312 | 467 | Danielle Rhoades |
 | 313 | 466 | Sleepy |
 | 314 | 464 | Danielle Weikel |
-| 315 | 462 | Noettín Kan Zasnemoore |
-| 316 | 462 | Tegan Chapman |
+| 315 | 462 | Tegan Chapman |
+| 316 | 462 | Noettín Kan Zasnemoore |
 | 317 | 461 | Tom Nault |
 | 318 | 456 | Cynthia Herrmann Egland |
 | 319 | 451 | Charles Perrone |
@@ -733,7 +733,7 @@
 | 725 | 230 | Rashad Green |
 | 726 | 230 | Paul Larsen |
 | 727 | 230 | Sarah Whalen |
-| 728 | 230 | Rashad Green |
+| 728 | 230 | Tiffany's TwinsRus Thrifty |
 | 729 | 230 | Tricia Margaret |
 | 730 | 229 | Slick Sally |
 | 731 | 229 | Everret Maxine |
