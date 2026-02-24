@@ -146,7 +146,7 @@
 | 138 | 2507 | Poppy Snapper |
 | 139 | 2503 | Brandy Andre |
 | 140 | 2501 | Debra Williams |
-| 141 | 2485 | Robin Kerby |
+| 141 | 2482 | Robin Kerby |
 | 142 | 2482 | Alisha Peoples |
 | 143 | 2449 | Tj Ball |
 | 144 | 2440 | Roger Grabbit |
@@ -270,8 +270,8 @@
 | 262 | 1561 | Howard Forest |
 | 263 | 1557 | Poppy Snap |
 | 264 | 1556 | Julay |
-| 265 | 1553 | Wendy Unsain |
-| 266 | 1553 | Sarah Freitas |
+| 265 | 1553 | Sarah Freitas |
+| 266 | 1553 | Wendy Unsain |
 | 267 | 1553 | Boldy Cascadepiece |
 | 268 | 1539 | Nadia Batista Garcia |
 | 269 | 1533 | Prado |
@@ -384,8 +384,8 @@
 | 376 | 1225 | RAEPR05 |
 | 377 | 1224 | Kennedy Sandifer |
 | 378 | 1222 | Nuke Morris |
-| 379 | 1218 | LaKisha Anderson |
-| 380 | 1218 | Hyper Cluster |
+| 379 | 1218 | Hyper Cluster |
+| 380 | 1218 | LaKisha Anderson |
 | 381 | 1217 | Brooks Brooks |
 | 382 | 1214 | David Cudicio-Hayden |
 | 383 | 1211 | Cynthia Ward |
@@ -721,12 +721,12 @@
 | 713 | 752 | Adrian Benitez |
 | 714 | 751 | Swanky Strikerpiece |
 | 715 | 751 | Tom Riefer |
-| 716 | 750 | Prette Qui |
-| 717 | 750 | Samie Dayle |
+| 716 | 750 | Samie Dayle |
+| 717 | 750 | Prette Qui |
 | 718 | 749 | ToxicTrash |
 | 719 | 749 | Trisha J Schmidt |
-| 720 | 748 | Danielle Ayoub |
-| 721 | 746 | Emily Lyric Converse |
+| 720 | 746 | Emily Lyric Converse |
+| 721 | 743 | Gloria Ininahazwe |
 | 722 | 743 | Véronique Lévesque Sabourin |
 | 723 | 743 | Clever Dashgrid |
 | 724 | 743 | Danielle Ayoub |

@@ -19,7 +19,7 @@
 | 11 | 5945 | Kathryn Keenan-Taggart |
 | 12 | 5130 | Tetris Master |
 | 13 | 5035 | Ant Ant |
-| 14 | 4946 | Travis Copfer |
+| 14 | 4936 | Travis Copfer |
 | 15 | 4721 | Cheeky Match |
 | 16 | 4659 | Laura Melton |
 | 17 | 4225 | mjl574 |
@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Marcie Bressler |
-| 79 | 1566 | Nerdy Riseclear |
+| 78 | 1566 | Nerdy Riseclear |
+| 79 | 1566 | Marcie Bressler |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1555 | Elaine Webb Graves |
@@ -127,16 +127,16 @@
 | 119 | 1152 | Julian Murphy |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Loopy Fallmatch |
-| 123 | 1114 | Groovy Catcher |
+| 122 | 1114 | Groovy Catcher |
+| 123 | 1114 | Loopy Fallmatch |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1101 | Valerie Gendron |
 | 126 | 1093 | Angela M. Fletcher |
 | 127 | 1091 | Jennifer |
 | 128 | 1084 | Santana Lantana |
-| 129 | 1077 | Rachel |
-| 130 | 1067 | DaBigGuy |
-| 131 | 1066 | Demetrious Shaw Sr. |
+| 129 | 1067 | DaBigGuy |
+| 130 | 1066 | Demetrious Shaw Sr. |
+| 131 | 1065 | Rachel |
 | 132 | 1058 | Katrina Schroeder |
 | 133 | 1055 | Christine Trester |
 | 134 | 1048 | Jesse Olive |
@@ -179,8 +179,8 @@
 | 171 | 875 | Chasity |
 | 172 | 874 | Jessica Pineda-Lopez |
 | 173 | 871 | Rochelle Hazelett |
-| 174 | 868 | Nicole Flippo |
-| 175 | 868 | Cranky Gridder |
+| 174 | 868 | Cranky Gridder |
+| 175 | 868 | Nicole Flippo |
 | 176 | 866 | Domo Washington |
 | 177 | 864 | Sunny Rotater |
 | 178 | 862 | Santeria Trece Candles |
@@ -199,8 +199,8 @@
 | 191 | 815 | Justin Ritter |
 | 192 | 813 | JessDrown |
 | 193 | 808 | Raya |
-| 194 | 804 | Alaina Lee |
-| 195 | 804 | Gideon Walker |
+| 194 | 804 | Gideon Walker |
+| 195 | 804 | Alaina Lee |
 | 196 | 800 | Lauren Girouard |
 | 197 | 799 | Trisha Balmer |
 | 198 | 792 | Rachel Grant |
@@ -219,8 +219,8 @@
 | 211 | 759 | Mykal Burton |
 | 212 | 758 | Shawn Miller |
 | 213 | 757 | Fancy Cascader |
-| 214 | 755 | Laura Booth Wosko |
-| 215 | 755 | Colton |
+| 214 | 755 | Colton |
+| 215 | 755 | Laura Booth Wosko |
 | 216 | 754 | CeceGeGe |
 | 217 | 753 | Morgan Martinez |
 | 218 | 752 | Joye Sims Binion |
@@ -323,11 +323,11 @@
 | 315 | 530 | KayB |
 | 316 | 529 | Roary Danner |
 | 317 | 527 | Dapper Snap |
-| 318 | 520 | Stephanie Simpson |
-| 319 | 518 | Marquita Sheard |
-| 320 | 514 | Nikki White |
-| 321 | 506 | Tiffanie Alley |
-| 322 | 506 | Ammmmmmy |
+| 318 | 518 | Marquita Sheard |
+| 319 | 514 | Nikki White |
+| 320 | 506 | Tiffanie Alley |
+| 321 | 506 | Ammmmmmy |
+| 322 | 505 | Stephanie Simpson |
 | 323 | 504 | Daring Builder |
 | 324 | 504 | Skippy |
 | 325 | 500 | Ashley Tookes |
@@ -359,8 +359,8 @@
 | 351 | 471 | Mendoza Lee Christy |
 | 352 | 468 | Bigmack |
 | 353 | 467 | Danielle Rhoades |
-| 354 | 465 | Noettín Kan Zasnemoore |
-| 355 | 465 | Blocked |
+| 354 | 465 | Blocked |
+| 355 | 465 | Noettín Kan Zasnemoore |
 | 356 | 464 | Snazzy Filler |
 | 357 | 464 | Snippy Wipeout |
 | 358 | 463 | Hoài Quắt |
@@ -487,9 +487,9 @@
 | 479 | 358 | Beejangles |
 | 480 | 358 | Taylor Culver |
 | 481 | 358 | Hyper Twisterfit |
-| 482 | 357 | Danetta McCadden |
-| 483 | 356 | Trice Sodames |
-| 484 | 355 | Eboni Starr |
+| 482 | 356 | Trice Sodames |
+| 483 | 355 | Eboni Starr |
+| 484 | 354 | Norma JulieMay |
 | 485 | 354 | Jana Polk |
 | 486 | 353 | Erika Apodaca |
 | 487 | 353 | Cheeky Snapper |
