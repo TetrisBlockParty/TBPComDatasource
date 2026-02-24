@@ -269,8 +269,8 @@
 | 261 | 1558 | Tim Dyer |
 | 262 | 1557 | Poppy Snap |
 | 263 | 1556 | Julay |
-| 264 | 1553 | Sarah Freitas |
-| 265 | 1553 | Wendy Unsain |
+| 264 | 1553 | Wendy Unsain |
+| 265 | 1553 | Sarah Freitas |
 | 266 | 1553 | Boldy Cascadepiece |
 | 267 | 1539 | Nadia Batista Garcia |
 | 268 | 1528 | Stacy Stickle |
@@ -321,15 +321,15 @@
 | 313 | 1357 | Tanya Parsons |
 | 314 | 1353 | Deborah Miller |
 | 315 | 1353 | Heather Hoffman Disharoon |
-| 316 | 1351 | Lucky Ladybug |
-| 317 | 1351 | Ashie Ann |
+| 316 | 1351 | Ashie Ann |
+| 317 | 1351 | Lucky Ladybug |
 | 318 | 1351 | Denisha Dawkins |
 | 319 | 1351 | Johnny Yeates |
 | 320 | 1342 | Groovy Puzzle |
 | 321 | 1342 | Kelly A Green-Leach |
 | 322 | 1341 | Cassie Mercer |
-| 323 | 1338 | Diallo Sparkman |
-| 324 | 1338 | Meghan M |
+| 323 | 1338 | Meghan M |
+| 324 | 1338 | Diallo Sparkman |
 | 325 | 1336 | Frothy Rumbler |
 | 326 | 1334 | Jamie Otero |
 | 327 | 1333 | nikki |
@@ -503,8 +503,8 @@
 | 495 | 978 | Barry Britt |
 | 496 | 976 | Sam Joe |
 | 497 | 975 | Amanda Woodruff |
-| 498 | 975 | Jamie Willis |
-| 499 | 975 | Kelly Trent |
+| 498 | 975 | Kelly Trent |
+| 499 | 975 | Jamie Willis |
 | 500 | 974 | Jeremy Parodi |
 | 501 | 973 | Taryece Gause |
 | 502 | 972 | Angela Yantz |
@@ -655,17 +655,17 @@
 | 647 | 802 | Trisha Gallagher |
 | 648 | 798 | Daniell Martinez |
 | 649 | 797 | Moist_B-hole |
-| 650 | 796 | Brianna Cerney |
-| 651 | 796 | Trevor Jordan |
+| 650 | 796 | Trevor Jordan |
+| 651 | 796 | Brianna Cerney |
 | 652 | 795 | Alexandra Weir |
 | 653 | 795 | Aletha Williams |
-| 654 | 793 | Heather Anspaugh |
-| 655 | 793 | Joseph Musick |
+| 654 | 793 | Joseph Musick |
+| 655 | 793 | Heather Anspaugh |
 | 656 | 792 | Beatboxxer |
 | 657 | 790 | Cassie Maynard |
 | 658 | 789 | Johanna Massaro |
-| 659 | 789 | De'Jah Charncey |
-| 660 | 789 | Bonita Kee |
+| 659 | 789 | Bonita Kee |
+| 660 | 789 | De'Jah Charncey |
 | 661 | 787 | Maya June |
 | 662 | 786 | Charvi' Carter |
 | 663 | 786 | tejas25 |
@@ -961,8 +961,8 @@
 | 953 | 607 | Slip |
 | 954 | 607 | Dizzy Zone |
 | 955 | 607 | Tipsy Filler |
-| 956 | 606 | Stanislav Petkov |
-| 957 | 606 | Ebony Deloach Bryant |
+| 956 | 606 | Ebony Deloach Bryant |
+| 957 | 606 | Stanislav Petkov |
 | 958 | 606 | cel505♡ |
 | 959 | 605 | Saucy Fitzone |
 | 960 | 605 | Mandi Marie Smith |
@@ -991,8 +991,8 @@
 | 983 | 593 | Esther Hsu |
 | 984 | 592 | Elizabeth Nieto |
 | 985 | 591 | Ahtavia Watkins |
-| 986 | 591 | Mrs. New |
-| 987 | 591 | Quinn |
+| 986 | 591 | Quinn |
+| 987 | 591 | Mrs. New |
 | 988 | 590 | NickyBrooks |
 | 989 | 589 | Kelly Templeton |
 | 990 | 589 | Sharon Madeiros |
@@ -1041,8 +1041,8 @@
 | 1033 | 570 | MauroPRM |
 | 1034 | 570 | Erika Deer Kauffman |
 | 1035 | 570 | Sonya Back |
-| 1036 | 569 | Anita Rose Green |
-| 1037 | 569 | Sparkles |
+| 1036 | 569 | Sparkles |
+| 1037 | 569 | Anita Rose Green |
 | 1038 | 569 | bosswoman |
 | 1039 | 568 | coleksquad |
 | 1040 | 567 | Lucero Ramirez |
@@ -1052,15 +1052,15 @@
 | 1044 | 563 | Dione |
 | 1045 | 563 | Heather M Purcell |
 | 1046 | 563 | David Rehse |
-| 1047 | 562 | Klee |
-| 1048 | 562 | Gabbrielle Sutton |
+| 1047 | 562 | Gabbrielle Sutton |
+| 1048 | 562 | Klee |
 | 1049 | 562 | Smiley Strike |
 | 1050 | 562 | Dan Kulhanek |
 | 1051 | 562 | Angie Winch |
 | 1052 | 561 | Jenelle Case |
 | 1053 | 560 | De Hawkins |
-| 1054 | 559 | Britney M. |
-| 1055 | 559 | Kaylee McCafferty |
+| 1054 | 559 | Kaylee McCafferty |
+| 1055 | 559 | Britney M. |
 | 1056 | 558 | Treshell Boyd |
 | 1057 | 558 | Byung Bae Park |
 | 1058 | 558 | David Scott |
@@ -1077,8 +1077,8 @@
 | 1069 | 554 | Asha Nichols-Collins |
 | 1070 | 554 | Dusti Rose Bingham |
 | 1071 | 553 | Sar Mo |
-| 1072 | 553 | Jason Kelly |
-| 1073 | 553 | ruth |
+| 1072 | 553 | ruth |
+| 1073 | 553 | Jason Kelly |
 | 1074 | 552 | Boozi |
 | 1075 | 552 | Savannah Alexander |
 | 1076 | 552 | Heather Johnson |
@@ -1354,7 +1354,7 @@
 | 1346 | 457 | Kray Kray Katelynn |
 | 1347 | 457 | LML |
 | 1348 | 456 | Kimberly Ann Malagon |
-| 1349 | 456 | Dad |
+| 1349 | 456 | Harley Williams |
 | 1350 | 456 | KingdomKeeper |
 | 1351 | 456 | Dad |
 | 1352 | 455 | Elyse Rivera |
