@@ -151,9 +151,9 @@
 | 143 | 2155 | Qiana Sanders |
 | 144 | 2148 | Roger Grabbit |
 | 145 | 2141 | Laura Wyatt |
-| 146 | 2113 | Jamie Main |
-| 147 | 2108 | Vo'Landa Reels |
-| 148 | 2106 | Cool Rollpiece |
+| 146 | 2108 | Vo'Landa Reels |
+| 147 | 2106 | Cool Rollpiece |
+| 148 | 2096 | Jamie Main |
 | 149 | 2093 | Michele Gabriel |
 | 150 | 2090 | Jordan Petro |
 | 151 | 2059 | Shameika Trail |

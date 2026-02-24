@@ -44,8 +44,8 @@
 | 36 | 1413 | Trippy Redd |
 | 37 | 1405 | Chipper Gridlock |
 | 38 | 1391 | Aaron Garnett |
-| 39 | 1334 | june october |
-| 40 | 1334 | Tyler Alcock |
+| 39 | 1334 | Tyler Alcock |
+| 40 | 1334 | june october |
 | 41 | 1277 | Marianne Louise West |
 | 42 | 1250 | Stef Hu |
 | 43 | 1239 | Brenda Stewart |
@@ -112,8 +112,8 @@
 | 104 | 691 | Rachael |
 | 105 | 691 | Krista Young |
 | 106 | 690 | Melissa Lemmon |
-| 107 | 672 | Tdub |
-| 108 | 671 | Chirpy Smasher |
+| 107 | 671 | Chirpy Smasher |
+| 108 | 669 | Tdub |
 | 109 | 663 | Kristi Johnson |
 | 110 | 657 | Tee Sheree |
 | 111 | 648 | Evie Khalil |
@@ -144,14 +144,14 @@
 | 136 | 555 | Sarah Lombardo |
 | 137 | 553 | Flashy Rotator |
 | 138 | 552 | Hellsin |
-| 139 | 552 | Dee Perry |
-| 140 | 552 | Tanya Carpenter-Reynolds |
-| 141 | 550 | Timothy Danaher |
-| 142 | 548 | Luciano Moreira |
-| 143 | 546 | Loony Fitzone |
-| 144 | 545 | Oscar Zamora |
-| 145 | 543 | Tipsy Riseclear |
-| 146 | 543 | Sharon Reynolds |
+| 139 | 552 | Tanya Carpenter-Reynolds |
+| 140 | 550 | Timothy Danaher |
+| 141 | 548 | Luciano Moreira |
+| 142 | 546 | Loony Fitzone |
+| 143 | 545 | Oscar Zamora |
+| 144 | 543 | Tipsy Riseclear |
+| 145 | 543 | Sharon Reynolds |
+| 146 | 543 | Dee Perry |
 | 147 | 543 | Death |
 | 148 | 540 | Tonya Beasley |
 | 149 | 537 | Stephanie Zahn |
@@ -314,8 +314,8 @@
 | 306 | 325 | GringaLinga |
 | 307 | 324 | Brave Wrecker |
 | 308 | 324 | Sylvia Vasquez |
-| 309 | 323 | Barrbaric |
-| 310 | 323 | Cody Gates |
+| 309 | 323 | Cody Gates |
+| 310 | 323 | Barrbaric |
 | 311 | 322 | Chris65 |
 | 312 | 322 | Christina Norman |
 | 313 | 322 | Cheeky Pop |
@@ -458,9 +458,9 @@
 | 450 | 236 | Marie White |
 | 451 | 236 | Tipsy Tiltpiece |
 | 452 | 236 | Snappy Bridgepiece |
-| 453 | 235 | Theeranart Mahawan |
-| 454 | 235 | Nutty Glide |
-| 455 | 235 | Jumpy Rotate |
+| 453 | 235 | Nutty Glide |
+| 454 | 235 | Jumpy Rotate |
+| 455 | 235 | Theeranart Mahawan |
 | 456 | 234 | Amber Dee |
 | 457 | 233 | Amie Fields |
 | 458 | 232 | Jennifer Olewnik Soborowski |
@@ -1056,7 +1056,7 @@
 | 1048 | 87 | Jason Chabot |
 | 1049 | 87 | Kayla |
 | 1050 | 87 | Pie-3.14 |
-| 1051 | 87 | Kayla |
+| 1051 | 87 | Sari Jones |
 | 1052 | 87 | Christi Ames |
 | 1053 | 87 | Dizzy Spinbuilder |
 | 1054 | 87 | Moo |
