@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 20:28:41 UTC
+# Standings for team1 as of 2026-02-24 20:29:22 UTC
 
 **Total Participants:** 2312
 
@@ -626,9 +626,9 @@
 | 618 | 227 | Archie Ware |
 | 619 | 227 | MomOf2Angels |
 | 620 | 227 | Mindy Gloska |
-| 621 | 225 | Owicked1 |
-| 622 | 225 | grizzly |
-| 623 | 225 | Spicy Rollfit |
+| 621 | 225 | grizzly |
+| 622 | 225 | Spicy Rollfit |
+| 623 | 225 | Owicked1 |
 | 624 | 225 | Neely Janelle Stewart |
 | 625 | 224 | Giggly Rollfit |
 | 626 | 223 | Erez Yosef |
@@ -636,8 +636,8 @@
 | 628 | 223 | Joke Sofunny |
 | 629 | 223 | Natasha Hollowell Causey |
 | 630 | 223 | DENOTS42OSPOT |
-| 631 | 223 | Jonathan Joshua |
-| 632 | 223 | Sarah Henniker |
+| 631 | 223 | Sarah Henniker |
+| 632 | 223 | Jonathan Joshua |
 | 633 | 223 | Lauren Baxter |
 | 634 | 222 | Lil H |
 | 635 | 222 | Henry Lanier |
@@ -650,54 +650,54 @@
 | 642 | 219 | Negan Mallory Knoxx Spence |
 | 643 | 219 | Gina Fontana Meier |
 | 644 | 219 | Ruby Sandberg |
-| 645 | 218 | Brian Taylor |
-| 646 | 218 | Hyper Tilemaker |
-| 647 | 217 | Justin Canape |
+| 645 | 219 | Matt Cinelli |
+| 646 | 218 | Brian Taylor |
+| 647 | 218 | Hyper Tilemaker |
 | 648 | 217 | monstermutt |
 | 649 | 217 | Bruce Cruz |
 | 650 | 217 | Jamie Catlett |
-| 651 | 217 | Sarah Bersano |
-| 652 | 216 | Nicolette Ivory Chastain |
-| 653 | 216 | Shauntina Burke |
-| 654 | 216 | BettyAnn Savo |
-| 655 | 215 | Jeffrey Scott Younkins |
+| 651 | 217 | Justin Canape |
+| 652 | 217 | Sarah Bersano |
+| 653 | 216 | Nicolette Ivory Chastain |
+| 654 | 216 | Shauntina Burke |
+| 655 | 216 | BettyAnn Savo |
 | 656 | 215 | Missy Broz McNees |
-| 657 | 215 | Swanky Patternfit |
-| 658 | 215 | Jenny Hughes |
-| 659 | 215 | Gauge Slusher |
-| 660 | 215 | Britney Marie Burton Cole |
-| 661 | 214 | Peachy Wipebuilder |
-| 662 | 214 | Sheri Read |
-| 663 | 214 | Alex Gauthier |
-| 664 | 212 | Terika Rodriguez |
+| 657 | 215 | Jeffrey Scott Younkins |
+| 658 | 215 | Swanky Patternfit |
+| 659 | 215 | Jenny Hughes |
+| 660 | 215 | Gauge Slusher |
+| 661 | 215 | Britney Marie Burton Cole |
+| 662 | 214 | Alex Gauthier |
+| 663 | 214 | Sheri Read |
+| 664 | 214 | Peachy Wipebuilder |
 | 665 | 212 | Craig Mcgonigle |
-| 666 | 210 | KoDaK |
-| 667 | 210 | Mortious |
+| 666 | 212 | Terika Rodriguez |
+| 667 | 210 | KoDaK |
 | 668 | 210 | Danny Brady |
-| 669 | 210 | Christina Torres |
-| 670 | 209 | Lively Wipeout |
-| 671 | 208 | Sarah Cassese |
-| 672 | 208 | Jason Landon Sexton |
-| 673 | 208 | Donna Addison Williams |
-| 674 | 207 | Shawn Robert |
-| 675 | 207 | Emily Wray |
-| 676 | 206 | Almïghty Stoner |
+| 669 | 210 | Mortious |
+| 670 | 210 | Christina Torres |
+| 671 | 209 | Lively Wipeout |
+| 672 | 208 | Donna Addison Williams |
+| 673 | 208 | Sarah Cassese |
+| 674 | 208 | Jason Landon Sexton |
+| 675 | 207 | Shawn Robert |
+| 676 | 207 | Emily Wray |
 | 677 | 206 | Abusive |
 | 678 | 206 | Pace |
-| 679 | 206 | Matt Cinelli |
-| 680 | 205 | Riley Lee |
+| 679 | 206 | Almïghty Stoner |
+| 680 | 205 | Mechelle Bailum |
 | 681 | 205 | yoyoluv |
-| 682 | 205 | Sam Rosado |
-| 683 | 205 | Bean |
-| 684 | 205 | davis13 |
+| 682 | 205 | Riley Lee |
+| 683 | 205 | davis13 |
+| 684 | 205 | Bean |
 | 685 | 205 | Dustin Johnston |
-| 686 | 205 | Mechelle Bailum |
+| 686 | 205 | Sam Rosado |
 | 687 | 204 | Mary M Brion |
 | 688 | 204 | Jill King Oldham |
-| 689 | 203 | Ramona Mittelstadt |
-| 690 | 203 | Fat fred |
-| 691 | 202 | TristansDad |
-| 692 | 202 | Piffy |
+| 689 | 203 | Fat fred |
+| 690 | 203 | Ramona Mittelstadt |
+| 691 | 202 | Piffy |
+| 692 | 202 | TristansDad |
 | 693 | 202 | Pie-3.14 |
 | 694 | 201 | Joyce Harrell-chavis |
 | 695 | 200 | Tina Sinclair |
