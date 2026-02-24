@@ -86,8 +86,8 @@
 | 78 | 901 | TeeJ |
 | 79 | 865 | Carolyn Wallace |
 | 80 | 861 | Peachy Fall |
-| 81 | 850 | Lucille Truesdale |
-| 82 | 850 | Lisa Davis |
+| 81 | 850 | Lisa Davis |
+| 82 | 850 | Lucille Truesdale |
 | 83 | 847 | Chilly Line |
 | 84 | 846 | Christine Marie |
 | 85 | 841 | Shauna Havard |
@@ -236,8 +236,8 @@
 | 228 | 409 | Antony Dwayne Beasley |
 | 229 | 403 | TinyLegoRose |
 | 230 | 400 | Brickh4us |
-| 231 | 399 | Lindsay Ball |
-| 232 | 399 | Jeff Brian Gates |
+| 231 | 399 | Jeff Brian Gates |
+| 232 | 399 | Lindsay Ball |
 | 233 | 398 | Tyler Terrific |
 | 234 | 395 | 030Synner |
 | 235 | 394 | Nita Wells |
@@ -394,8 +394,8 @@
 | 386 | 262 | Ruben Wheeler |
 | 387 | 260 | Carter Jones |
 | 388 | 259 | Allen Lloyd |
-| 389 | 258 | Lilya Troutman |
-| 390 | 258 | PennyCandee |
+| 389 | 258 | PennyCandee |
+| 390 | 258 | Lilya Troutman |
 | 391 | 258 | Stephme310 |
 | 392 | 257 | Dustin York |
 | 393 | 257 | ĥuf |

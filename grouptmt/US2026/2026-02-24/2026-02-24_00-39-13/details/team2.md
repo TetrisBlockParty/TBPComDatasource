@@ -597,8 +597,8 @@
 | 589 | 751 | Tom Riefer |
 | 590 | 750 | Michael Buckner |
 | 591 | 749 | Trisha J Schmidt |
-| 592 | 749 | Hoppy Brickmatch |
-| 593 | 749 | Arwa Fatimah |
+| 592 | 749 | Arwa Fatimah |
+| 593 | 749 | Hoppy Brickmatch |
 | 594 | 742 | Cassie Maynard |
 | 595 | 741 | Davetta Sanford |
 | 596 | 740 | Lylymom |
@@ -720,8 +720,8 @@
 | 712 | 646 | Stephanie Fortune |
 | 713 | 645 | NanDa Cruzan VI |
 | 714 | 645 | James Smith |
-| 715 | 644 | Brittany Chapman |
-| 716 | 644 | Harrison Littrell |
+| 715 | 644 | Harrison Littrell |
+| 716 | 644 | Brittany Chapman |
 | 717 | 643 | Rae Rae |
 | 718 | 642 | Jennifer Coe |
 | 719 | 642 | Christy Long |
@@ -1214,9 +1214,9 @@
 | 1206 | 430 | Kim Yoder |
 | 1207 | 430 | Kim McGrath |
 | 1208 | 429 | Erin Garlanger |
-| 1209 | 429 | Mishka Upchurch |
-| 1210 | 429 | Ricky Fortune |
-| 1211 | 429 | Wungun Shun |
+| 1209 | 429 | Ricky Fortune |
+| 1210 | 429 | Wungun Shun |
+| 1211 | 429 | Mishka Upchurch |
 | 1212 | 427 | Matthew Bryant |
 | 1213 | 427 | Zippy |
 | 1214 | 427 | Loopy Shatterfit |
