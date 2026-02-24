@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -197,8 +197,8 @@
 | 189 | 815 | Justin Ritter |
 | 190 | 813 | JessDrown |
 | 191 | 808 | Raya |
-| 192 | 804 | Alaina Lee |
-| 193 | 804 | Gideon Walker |
+| 192 | 804 | Gideon Walker |
+| 193 | 804 | Alaina Lee |
 | 194 | 800 | Lauren Girouard |
 | 195 | 799 | Betty Rosas |
 | 196 | 799 | Trisha Balmer |
@@ -240,8 +240,8 @@
 | 232 | 703 | Shawn Miller |
 | 233 | 693 | lashanda |
 | 234 | 693 | Heather Davis |
-| 235 | 691 | Tia |
-| 236 | 691 | Snappy Balancer |
+| 235 | 691 | Snappy Balancer |
+| 236 | 691 | Tia |
 | 237 | 687 | joz |
 | 238 | 680 | Terry Jo Jones |
 | 239 | 662 | Jim Mathews |
@@ -297,8 +297,8 @@
 | 289 | 569 | Silly Twist |
 | 290 | 569 | Gray Hicks |
 | 291 | 569 | Michael Johnson |
-| 292 | 566 | Tyler Shoff |
-| 293 | 566 | Eileen Brady Thurber |
+| 292 | 566 | Eileen Brady Thurber |
+| 293 | 566 | Tyler Shoff |
 | 294 | 565 | Michael Lucado |
 | 295 | 562 | Dave Herzog |
 | 296 | 561 | Chauntee Alfrey-Cardinale |
@@ -310,8 +310,8 @@
 | 302 | 547 | Aerian Preston |
 | 303 | 542 | France Vézina |
 | 304 | 541 | Mcathen |
-| 305 | 540 | rosy |
-| 306 | 540 | Tanya Kittrell |
+| 305 | 540 | Tanya Kittrell |
+| 306 | 540 | rosy |
 | 307 | 539 | Fancy Curver |
 | 308 | 539 | Kate M. Murdock |
 | 309 | 538 | Chummy Caster |
@@ -332,8 +332,8 @@
 | 324 | 499 | Megan Rathmanner |
 | 325 | 499 | Gumbo |
 | 326 | 496 | Brenda Schmid Wood |
-| 327 | 494 | MCV |
-| 328 | 494 | fraulila |
+| 327 | 494 | fraulila |
+| 328 | 494 | MCV |
 | 329 | 492 | Tasha Wesson-Torrence |
 | 330 | 490 | TotoCherue |
 | 331 | 490 | Cassandra Bryant |
@@ -383,8 +383,8 @@
 | 375 | 443 | Christian Werndl |
 | 376 | 442 | Loopy Fallzone |
 | 377 | 438 | Dannie Litchard |
-| 378 | 436 | Julie Fratrik |
-| 379 | 436 | AC Yeater |
+| 378 | 436 | AC Yeater |
+| 379 | 436 | Julie Fratrik |
 | 380 | 435 | Sabrina Hardrick |
 | 381 | 434 | Ginger Gray |
 | 382 | 434 | Criss |
@@ -798,8 +798,8 @@
 | 790 | 245 | Danette Marie |
 | 791 | 245 | MK Slay |
 | 792 | 244 | Amanda Fulton |
-| 793 | 244 | LaJeanna Lee Lee |
-| 794 | 244 | MizzMonick Smith |
+| 793 | 244 | MizzMonick Smith |
+| 794 | 244 | LaJeanna Lee Lee |
 | 795 | 242 | Tanesha BigBabby Darling |
 | 796 | 241 | Jill Stickney |
 | 797 | 241 | David Bardo |
@@ -1269,8 +1269,8 @@
 | 1261 | 154 | Riley Hall |
 | 1262 | 154 | Kristen Reeves |
 | 1263 | 154 | Joanne Ramsay Long |
-| 1264 | 153 | Marketa McClaster |
-| 1265 | 153 | Tipsy Dashgrid |
+| 1264 | 153 | Tipsy Dashgrid |
+| 1265 | 153 | Marketa McClaster |
 | 1266 | 153 | Cheeky Blockline |
 | 1267 | 152 | Louise Parker |
 | 1268 | 152 | Amanda Mooney |

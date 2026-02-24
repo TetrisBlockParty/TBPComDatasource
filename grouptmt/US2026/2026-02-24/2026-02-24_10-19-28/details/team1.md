@@ -177,8 +177,8 @@
 | 169 | 548 | Stephanie Zahn |
 | 170 | 547 | Sharon Reynolds |
 | 171 | 545 | .running. |
-| 172 | 543 | Nicole Roseberry Weber |
-| 173 | 543 | Adrian Esteban |
+| 172 | 543 | Adrian Esteban |
+| 173 | 543 | Nicole Roseberry Weber |
 | 174 | 542 | BadG52 |
 | 175 | 540 | Tonya Beasley |
 | 176 | 535 | Plucky Ziggy |
@@ -211,8 +211,8 @@
 | 203 | 488 | Ly Phethmany |
 | 204 | 482 | Adele Rahman |
 | 205 | 479 | canbrick |
-| 206 | 478 | Hasty Cascader |
-| 207 | 478 | Jumpy Dropper |
+| 206 | 478 | Jumpy Dropper |
+| 207 | 478 | Hasty Cascader |
 | 208 | 477 | Dizzy Slider |
 | 209 | 475 | Snippy Wipebuilder |
 | 210 | 475 | Reesey Enyart |

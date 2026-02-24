@@ -177,8 +177,8 @@
 | 169 | 576 | Jade Rian |
 | 170 | 575 | Jenna Ingersoll |
 | 171 | 573 | Rico |
-| 172 | 571 | Andy Cabral |
-| 173 | 571 | Rebecca Morris |
+| 172 | 571 | Rebecca Morris |
+| 173 | 571 | Andy Cabral |
 | 174 | 568 | Cindy Looper |
 | 175 | 565 | Ren Mc |
 | 176 | 561 | Steph Marie |
@@ -277,8 +277,8 @@
 | 269 | 409 | Joseph Guthrie |
 | 270 | 408 | Lauren Scott |
 | 271 | 408 | Dihcheese444 |
-| 272 | 407 | Rafael Valentin |
-| 273 | 407 | Hyper Builder |
+| 272 | 407 | Hyper Builder |
+| 273 | 407 | Rafael Valentin |
 | 274 | 404 | Crystal Lynn |
 | 275 | 402 | Nita Wells |
 | 276 | 399 | Brittany Little |
@@ -297,7 +297,7 @@
 | 289 | 387 | Sandra Safford |
 | 290 | 386 | Vic |
 | 291 | 382 | Sue Joyce Staats |
-| 292 | 380 | Holly Jolly |
+| 292 | 380 | Jen Caldwell |
 | 293 | 380 | Chaz |
 | 294 | 380 | Holly Jolly |
 | 295 | 378 | Jason Gibbs |
@@ -384,8 +384,8 @@
 | 376 | 314 | KoolMom9907 |
 | 377 | 314 | Paige Kittles |
 | 378 | 312 | Tawna Curry |
-| 379 | 311 | Reds Bella |
-| 380 | 311 | KayM |
+| 379 | 311 | KayM |
+| 380 | 311 | Reds Bella |
 | 381 | 308 | Angela Geist Jusinski |
 | 382 | 307 | Eri Kka |
 | 383 | 306 | PeaceOs |
@@ -398,8 +398,8 @@
 | 390 | 300 | Jason Frehner |
 | 391 | 299 | Michael Snow |
 | 392 | 298 | Val Erie |
-| 393 | 297 | Brittany Marsh |
-| 394 | 297 | Allison Rose |
+| 393 | 297 | Allison Rose |
+| 394 | 297 | Brittany Marsh |
 | 395 | 295 | Deb Rubeck |
 | 396 | 294 | BootsMcGee |
 | 397 | 293 | Groovy Shiftspin |
@@ -479,8 +479,8 @@
 | 471 | 251 | Jackson Karen |
 | 472 | 250 | Moonsterix |
 | 473 | 249 | SHL |
-| 474 | 249 | Joseph Pace |
-| 475 | 249 | Stacy Jones |
+| 474 | 249 | Stacy Jones |
+| 475 | 249 | Joseph Pace |
 | 476 | 249 | Silly Clearfit |
 | 477 | 248 | Gilles Lanctot |
 | 478 | 248 | Victoria Faniel |
@@ -557,7 +557,7 @@
 | 549 | 223 | Perky Riser |
 | 550 | 223 | Shane Vick |
 | 551 | 222 | Squeezy Pearsall |
-| 552 | 221 | Cozy Balancer |
+| 552 | 221 | Peppy Drop |
 | 553 | 221 | Rheanda Weaskus |
 | 554 | 221 | Cozy Balancer |
 | 555 | 220 | Mighty Edgepiece |
@@ -894,7 +894,7 @@
 | 886 | 126 | Ian Starnes |
 | 887 | 125 | Saucy Stackbuilder |
 | 888 | 125 | Brittany Price |
-| 889 | 124 | Dot Flanagan |
+| 889 | 124 | Raeann Gibson |
 | 890 | 124 | Shelly Goad |
 | 891 | 124 | Dot Flanagan |
 | 892 | 124 | Hyper Shatterbuilder |
