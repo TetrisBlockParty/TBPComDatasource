@@ -124,8 +124,8 @@
 | 116 | 716 | Savannah Overdorf |
 | 117 | 712 | H.R. Block |
 | 118 | 710 | SAP |
-| 119 | 708 | Jacqueline Helm |
-| 120 | 708 | Zippy Gridlock |
+| 119 | 708 | Zippy Gridlock |
+| 120 | 708 | Jacqueline Helm |
 | 121 | 704 | Austin Owens |
 | 122 | 702 | Amy Suckarieh |
 | 123 | 698 | Chilly Crasher |
@@ -227,8 +227,8 @@
 | 219 | 444 | Calvin Cannon |
 | 220 | 443 | Kristina Black |
 | 221 | 442 | 🥔🥔 Spudz |
-| 222 | 441 | Jen Mattei |
-| 223 | 441 | Lush Linkfall |
+| 222 | 441 | Lush Linkfall |
+| 223 | 441 | Jen Mattei |
 | 224 | 438 | Melvin Baird |
 | 225 | 436 | Selena Shaw |
 | 226 | 434 | Ramel Rhodes |
@@ -310,8 +310,8 @@
 | 302 | 333 | Brittney Orengo |
 | 303 | 332 | Holly |
 | 304 | 331 | Kate |
-| 305 | 330 | Sandra Safford |
-| 306 | 330 | Duck |
+| 305 | 330 | Duck |
+| 306 | 330 | Sandra Safford |
 | 307 | 329 | Meagan Nicole |
 | 308 | 328 | Angie Schmidt |
 | 309 | 328 | Leah Kutz Zirbel |
