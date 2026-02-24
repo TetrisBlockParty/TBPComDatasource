@@ -241,12 +241,12 @@
 | 233 | 429 | Tana |
 | 234 | 427 | Jessie Lynn |
 | 235 | 427 | Ananda Mendez |
-| 236 | 426 | Betsy |
-| 237 | 426 | Brenda Alexander |
+| 236 | 426 | Brenda Alexander |
+| 237 | 426 | Betsy |
 | 238 | 425 | Tyler Werts |
-| 239 | 424 | Emily Adelaide Wheatley |
+| 239 | 424 | Lindsay Glover |
 | 240 | 424 | Plucky Stacky |
-| 241 | 424 | Lindsay Glover |
+| 241 | 424 | Emily Adelaide Wheatley |
 | 242 | 424 | Serina Marie |
 | 243 | 422 | Jamise Brown |
 | 244 | 421 | Letson Melissa |
@@ -360,8 +360,8 @@
 | 352 | 328 | Richard Corrado |
 | 353 | 327 | Amber Dee |
 | 354 | 327 | Christina Norman |
-| 355 | 325 | Mitchel White |
-| 356 | 325 | GringaLinga |
+| 355 | 325 | GringaLinga |
+| 356 | 325 | Mitchel White |
 | 357 | 324 | Brave Wrecker |
 | 358 | 323 | Nadine Velardo |
 | 359 | 322 | Hasty Columnbuilder |
@@ -443,8 +443,8 @@
 | 435 | 282 | Willy Michael |
 | 436 | 282 | Timothy Dew |
 | 437 | 281 | Sunshine |
-| 438 | 281 | Shiny Snapline |
-| 439 | 281 | Jessie |
+| 438 | 281 | Jessie |
+| 439 | 281 | Shiny Snapline |
 | 440 | 280 | Kayla Marie Stevenson |
 | 441 | 280 | Llewej Rekab |
 | 442 | 279 | Herm Junior |
@@ -2020,8 +2020,8 @@
 | 2012 | 15 | Ashland Raynor |
 | 2013 | 15 | Michael Doyle |
 | 2014 | 15 | only1eMm |
-| 2015 | 15 | Snippy Rumbler |
-| 2016 | 15 | Goose Gosselin |
+| 2015 | 15 | Goose Gosselin |
+| 2016 | 15 | Snippy Rumbler |
 | 2017 | 15 | KeKe Wharton |
 | 2018 | 15 | Debbie Scott Smith |
 | 2019 | 15 | Jc Tom |
@@ -2082,26 +2082,26 @@
 | 2074 | 12 | Katie Griffitds |
 | 2075 | 12 | Alicia Brown |
 | 2076 | 12 | Beth Gibbs |
-| 2077 | 12 | Randy MacDonald |
-| 2078 | 12 | Christine Robin Hamilton |
+| 2077 | 12 | Christine Robin Hamilton |
+| 2078 | 12 | Randy MacDonald |
 | 2079 | 12 | Gazelda Godsgotmyback Ansah |
 | 2080 | 12 | Goobie SevynCarter Smith |
 | 2081 | 12 | Nerdy Rotator |
 | 2082 | 12 | Chirpy Racker |
 | 2083 | 12 | Brandis Elder |
-| 2084 | 11 | Lori LeClaire Andersen |
+| 2084 | 11 | Raymond Kingman |
 | 2085 | 11 | Seapea |
 | 2086 | 11 | Ron L Thompson |
 | 2087 | 11 | Kirsten Haddock |
 | 2088 | 11 | Tiny |
 | 2089 | 11 | Sandra Lieder Perez |
 | 2090 | 11 | Chewy |
-| 2091 | 11 | Richardwertz |
+| 2091 | 11 | Lori LeClaire Andersen |
 | 2092 | 11 | Princess7313 |
 | 2093 | 11 | Plucky Brickbuilder |
 | 2094 | 11 | Dreamy Linkblock |
 | 2095 | 11 | Lazy Stacky |
-| 2096 | 11 | Raymond Kingman |
+| 2096 | 11 | Richardwertz |
 | 2097 | 10 | Renee Simpson |
 | 2098 | 10 | Dreamy Drop |
 | 2099 | 10 | Michael Bakko |
@@ -2110,8 +2110,8 @@
 | 2102 | 10 | Jordan McVicker |
 | 2103 | 10 | Danuel Baird |
 | 2104 | 10 | Loopy Dropmatch |
-| 2105 | 10 | Lex |
-| 2106 | 10 | Nikki Bemis |
+| 2105 | 10 | Nikki Bemis |
+| 2106 | 10 | Lex |
 | 2107 | 10 | Giggly Linebuilder |
 | 2108 | 10 | Samantha Olds |
 | 2109 | 10 | Karissa McDannel |

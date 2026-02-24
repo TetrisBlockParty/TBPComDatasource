@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Nate Burnside |
-| 64 | 1824 | Jessica Ann |
+| 63 | 1824 | Jessica Ann |
+| 64 | 1824 | Nate Burnside |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -79,12 +79,12 @@
 | 71 | 1691 | Cass Mendoza |
 | 72 | 1681 | Gracie |
 | 73 | 1663 | Mahman |
-| 74 | 1663 | Angeline Joseph |
+| 74 | 1658 | Angeline Joseph |
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -156,8 +156,8 @@
 | 148 | 971 | Tasha Schriewer |
 | 149 | 963 | Crystal Frey |
 | 150 | 961 | Danielle Allison |
-| 151 | 950 | MissTaylor |
-| 152 | 950 | Giddy Drop |
+| 151 | 950 | Giddy Drop |
+| 152 | 950 | MissTaylor |
 | 153 | 947 | Kellie Montgomery |
 | 154 | 940 | Stephanie Allmon |
 | 155 | 940 | Patty Allen |
@@ -217,8 +217,8 @@
 | 209 | 760 | Kiki |
 | 210 | 759 | Mykal Burton |
 | 211 | 757 | Fancy Cascader |
-| 212 | 755 | Laura Booth Wosko |
-| 213 | 755 | Colton |
+| 212 | 755 | Colton |
+| 213 | 755 | Laura Booth Wosko |
 | 214 | 754 | CeceGeGe |
 | 215 | 753 | Morgan Martinez |
 | 216 | 752 | Joye Sims Binion |
@@ -260,8 +260,8 @@
 | 252 | 639 | Nichol Graham |
 | 253 | 637 | Giddy Twistbuilder |
 | 254 | 635 | Amber Hughes |
-| 255 | 633 | Rebecca Funderburk Kirby |
-| 256 | 633 | Jillian Symons |
+| 255 | 633 | Jillian Symons |
+| 256 | 633 | Rebecca Funderburk Kirby |
 | 257 | 632 | Rebecca Bailey |
 | 258 | 630 | Jackie Miller |
 | 259 | 629 | rnr junky |
@@ -290,11 +290,11 @@
 | 282 | 582 | FuzzyNavel |
 | 283 | 581 | Crystal Hine |
 | 284 | 578 | James Mitchell |
-| 285 | 574 | Danielle Balcom |
-| 286 | 574 | Rachael McClain Owens |
+| 285 | 574 | Rachael McClain Owens |
+| 286 | 574 | Danielle Balcom |
 | 287 | 572 | Tessina Dewey-Mancino |
 | 288 | 570 | thekey |
-| 289 | 569 | Michael Johnson |
+| 289 | 569 | Silly Twist |
 | 290 | 569 | Gray Hicks |
 | 291 | 569 | Michael Johnson |
 | 292 | 566 | Eileen Brady Thurber |
@@ -310,8 +310,8 @@
 | 302 | 547 | Aerian Preston |
 | 303 | 542 | France Vézina |
 | 304 | 541 | Mcathen |
-| 305 | 540 | rosy |
-| 306 | 540 | Tanya Kittrell |
+| 305 | 540 | Tanya Kittrell |
+| 306 | 540 | rosy |
 | 307 | 539 | Fancy Curver |
 | 308 | 539 | Kate M. Murdock |
 | 309 | 538 | Chummy Caster |
@@ -324,8 +324,8 @@
 | 316 | 523 | Ktfreeee |
 | 317 | 518 | Marquita Sheard |
 | 318 | 514 | Nikki White |
-| 319 | 506 | Ammmmmmy |
-| 320 | 506 | Tiffanie Alley |
+| 319 | 506 | Tiffanie Alley |
+| 320 | 506 | Ammmmmmy |
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
@@ -335,12 +335,12 @@
 | 327 | 494 | MCV |
 | 328 | 494 | fraulila |
 | 329 | 492 | Tasha Wesson-Torrence |
-| 330 | 490 | TotoCherue |
-| 331 | 490 | Cassandra Bryant |
+| 330 | 490 | Cassandra Bryant |
+| 331 | 490 | TotoCherue |
 | 332 | 489 | Isabel Ocasio |
 | 333 | 487 | MsBee |
-| 334 | 486 | Skippy |
-| 335 | 486 | Sleepy |
+| 334 | 486 | Sleepy |
+| 335 | 486 | Skippy |
 | 336 | 483 | Tegan Chapman |
 | 337 | 482 | Chummy Rumbler |
 | 338 | 480 | TLM |
@@ -410,8 +410,8 @@
 | 402 | 413 | Rick Poppen |
 | 403 | 411 | Beaudie Stroebel |
 | 404 | 409 | Rich LeBlanc |
-| 405 | 408 | Ashley Muncey |
-| 406 | 408 | Tiffany Ford |
+| 405 | 408 | Tiffany Ford |
+| 406 | 408 | Ashley Muncey |
 | 407 | 407 | Christina Spa |
 | 408 | 406 | Kristen Weese |
 | 409 | 405 | Andrew Thorson |
@@ -428,8 +428,8 @@
 | 420 | 394 | Jalissa Monique |
 | 421 | 392 | Linda Draper |
 | 422 | 392 | Michelle Allers |
-| 423 | 391 | gremicx |
-| 424 | 391 | Rebel124 |
+| 423 | 391 | Rebel124 |
+| 424 | 391 | gremicx |
 | 425 | 390 | ROODBOY |
 | 426 | 389 | Amanda J. Mcneil-Anderson |
 | 427 | 389 | Kirhonda Autmon |
@@ -531,8 +531,8 @@
 | 523 | 333 | Heather Ferrara |
 | 524 | 333 | Hyper Wipeout |
 | 525 | 332 | Clever Edgepiece |
-| 526 | 331 | Amanda Declue |
-| 527 | 331 | Wettnippz |
+| 526 | 331 | Wettnippz |
+| 527 | 331 | Amanda Declue |
 | 528 | 330 | Emma |
 | 529 | 330 | Willow |
 | 530 | 329 | Krystal Gerstberger |
@@ -1810,7 +1810,7 @@
 | 1802 | 90 | Helen |
 | 1803 | 90 | Trina M Lindsey |
 | 1804 | 89 | Jaclyn Correa |
-| 1805 | 89 | Kerina Salzwedel |
+| 1805 | 89 | Lisa Foster |
 | 1806 | 89 | Dandy Crasher |
 | 1807 | 89 | Kerina Salzwedel |
 | 1808 | 89 | Melinda Lund |

@@ -45,8 +45,8 @@
 | 37 | 1535 | Rebecca Moulton Pinciaro |
 | 38 | 1518 | Cherrish Duren |
 | 39 | 1507 | A5! |
-| 40 | 1506 | Eric Mcgaughy |
-| 41 | 1504 | LS |
+| 40 | 1504 | LS |
+| 41 | 1501 | Eric Mcgaughy |
 | 42 | 1494 | Juggalo |
 | 43 | 1478 | Sammy Noguera |
 | 44 | 1469 | Kimberly Love |
@@ -138,8 +138,8 @@
 | 130 | 712 | Leslie Nicole |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Austin Owens |
-| 134 | 704 | Chilly Crasher |
+| 133 | 704 | Chilly Crasher |
+| 134 | 704 | Austin Owens |
 | 135 | 687 | Carmethia Clemons Haslerig |
 | 136 | 682 | Raegan Lane-Ross |
 | 137 | 668 | Desi Desporte |
@@ -169,8 +169,8 @@
 | 161 | 602 | Cristy Duerksen |
 | 162 | 595 | TRCuse |
 | 163 | 587 | YoMomma |
-| 164 | 586 | Latisha Davis |
-| 165 | 586 | Carlos Ramirez |
+| 164 | 586 | Carlos Ramirez |
+| 165 | 586 | Latisha Davis |
 | 166 | 585 | Tracey Lehmann |
 | 167 | 584 | Carlton Unfiltered |
 | 168 | 582 | Shiny Fit |
@@ -216,8 +216,8 @@
 | 208 | 502 | Ericca Eldridge |
 | 209 | 502 | Christina Black |
 | 210 | 501 | Sharyn Lemire |
-| 211 | 499 | Kesha Brady |
-| 212 | 499 | DonMega |
+| 211 | 499 | DonMega |
+| 212 | 499 | Kesha Brady |
 | 213 | 496 | Jessica Bohlken |
 | 214 | 496 | Lori |
 | 215 | 495 | Joeliecea Cobb |
@@ -233,15 +233,15 @@
 | 225 | 473 | Cranky Rollpiece |
 | 226 | 472 | Plucky Patternblock |
 | 227 | 465 | Leslie Thomas |
-| 228 | 464 | Zakia Monae |
-| 229 | 464 | Calvin Cannon |
+| 228 | 464 | Calvin Cannon |
+| 229 | 464 | Zakia Monae |
 | 230 | 463 | shark tato |
 | 231 | 462 | Crystal Nicolette Moore |
 | 232 | 460 | Kathy Brookins |
-| 233 | 458 | Luis Martinez |
-| 234 | 458 | Kristina Black |
-| 235 | 457 | Kristin Manee |
-| 236 | 457 | J-Rizzle |
+| 233 | 458 | Kristina Black |
+| 234 | 458 | Luis Martinez |
+| 235 | 457 | J-Rizzle |
+| 236 | 457 | Kristin Manee |
 | 237 | 455 | Michele Plunkett |
 | 238 | 454 | Keshia Lyons |
 | 239 | 454 | David Lay |
@@ -250,14 +250,14 @@
 | 242 | 448 | Mike Solo |
 | 243 | 448 | Mr. Party |
 | 244 | 447 | Jen Mattei |
-| 245 | 446 | Damn Libra |
-| 246 | 444 | Selena Shaw |
-| 247 | 442 | John Brunetti |
-| 248 | 441 | Lush Linkfall |
+| 245 | 444 | Selena Shaw |
+| 246 | 442 | John Brunetti |
+| 247 | 441 | Lush Linkfall |
+| 248 | 438 | Melvin Baird |
 | 249 | 438 | 23 |
-| 250 | 438 | Melvin Baird |
-| 251 | 435 | Chris Bernstein |
-| 252 | 434 | Ramel Rhodes |
+| 250 | 435 | Chris Bernstein |
+| 251 | 434 | Ramel Rhodes |
+| 252 | 433 | Damn Libra |
 | 253 | 432 | scott |
 | 254 | 431 | Brickh4us |
 | 255 | 430 | 030Synner |
@@ -290,8 +290,8 @@
 | 282 | 392 | Neirrah B Olailjeel |
 | 283 | 391 | mike |
 | 284 | 390 | Ari Droff |
-| 285 | 387 | Sandra Safford |
-| 286 | 387 | Backoff Recupe |
+| 285 | 387 | Backoff Recupe |
+| 286 | 387 | Sandra Safford |
 | 287 | 386 | Vic |
 | 288 | 382 | Sue Joyce Staats |
 | 289 | 380 | Chaz |
@@ -327,8 +327,8 @@
 | 319 | 349 | jim |
 | 320 | 347 | Megan Cutshaw |
 | 321 | 347 | Daria Rycewicz |
-| 322 | 347 | Zołza 😈 |
-| 323 | 347 | Megan Cutshaw |
+| 322 | 347 | Perky Patternblock |
+| 323 | 347 | Zołza 😈 |
 | 324 | 346 | James Philpot Ross |
 | 325 | 346 | Metsfan |
 | 326 | 344 | Amanda Maciel Clarke |
@@ -503,8 +503,8 @@
 | 495 | 242 | Badatvs |
 | 496 | 242 | PurpleMoonMa |
 | 497 | 241 | Katherine Crane |
-| 498 | 240 | Orchislactea |
-| 499 | 240 | Zany Shatterer |
+| 498 | 240 | Zany Shatterer |
+| 499 | 240 | Orchislactea |
 | 500 | 239 | Krash |
 | 501 | 239 | Christina Nabrizny |
 | 502 | 238 | Mary Miller |
