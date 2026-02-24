@@ -162,8 +162,8 @@
 | 154 | 578 | Livvy |
 | 155 | 577 | Brandon Crabbs |
 | 156 | 575 | Jenna Ingersoll |
-| 157 | 574 | Carlos Ramirez |
-| 158 | 574 | Carmethia Clemons Haslerig |
+| 157 | 574 | Carmethia Clemons Haslerig |
+| 158 | 574 | Carlos Ramirez |
 | 159 | 567 | Rico |
 | 160 | 565 | Ren Mc |
 | 161 | 560 | Chastity Mitchell |
@@ -418,9 +418,9 @@
 | 410 | 260 | Bussy Bay |
 | 411 | 259 | Ultramarine |
 | 412 | 259 | Allen Lloyd |
-| 413 | 258 | PennyCandee |
-| 414 | 258 | April Spoelma |
-| 415 | 258 | Val Erie |
+| 413 | 258 | Val Erie |
+| 414 | 258 | PennyCandee |
+| 415 | 258 | April Spoelma |
 | 416 | 257 | Dustin York |
 | 417 | 256 | Gracie Ann Taylor |
 | 418 | 255 | Jenny Wells-Oakley |

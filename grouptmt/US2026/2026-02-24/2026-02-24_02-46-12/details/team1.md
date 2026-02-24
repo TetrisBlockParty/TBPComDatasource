@@ -107,8 +107,8 @@
 | 99 | 758 | Ash Galvan |
 | 100 | 756 | Cartier |
 | 101 | 748 | Lori Sanders- Davis |
-| 102 | 737 | Karin Gillen |
-| 103 | 737 | Kellie |
+| 102 | 737 | Kellie |
+| 103 | 737 | Karin Gillen |
 | 104 | 712 | Kristi Johnson |
 | 105 | 706 | Denice Dee |
 | 106 | 706 | Plucky Fallzone |
@@ -224,8 +224,8 @@
 | 216 | 423 | Chelsea Dahlquist |
 | 217 | 422 | Jamise Brown |
 | 218 | 420 | Jennifer Noe Chandler |
-| 219 | 419 | John J. Cronin |
-| 220 | 419 | Daring Fitclear |
+| 219 | 419 | Daring Fitclear |
+| 220 | 419 | John J. Cronin |
 | 221 | 417 | Jessie Lynn |
 | 222 | 416 | Jessica Sheehan |
 | 223 | 413 | Ananda Mendez |

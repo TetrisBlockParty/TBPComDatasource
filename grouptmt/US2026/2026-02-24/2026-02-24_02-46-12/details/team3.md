@@ -194,12 +194,12 @@
 | 186 | 770 | Raya |
 | 187 | 768 | Hasty Cascadefit |
 | 188 | 764 | Cyd061769 |
-| 189 | 763 | Patricia White |
-| 190 | 763 | Tasha Gillespie |
+| 189 | 763 | Tasha Gillespie |
+| 190 | 763 | Patricia White |
 | 191 | 760 | Kiki |
 | 192 | 757 | Fancy Cascader |
-| 193 | 755 | Alexmac |
-| 194 | 755 | Laura Booth Wosko |
+| 193 | 755 | Laura Booth Wosko |
+| 194 | 755 | Alexmac |
 | 195 | 750 | Michael Nowogorski |
 | 196 | 742 | Jennifer Lynn Fahrenholtz-Summers |
 | 197 | 738 | Naur |
@@ -287,15 +287,15 @@
 | 279 | 529 | Michael Lucado |
 | 280 | 528 | Lizabeth Fox |
 | 281 | 527 | Dapper Snap |
-| 282 | 521 | Cozy Snaplink |
-| 283 | 521 | Ktfreeee |
+| 282 | 521 | Ktfreeee |
+| 283 | 521 | Cozy Snaplink |
 | 284 | 519 | Nichol Graham |
 | 285 | 518 | Marquita Sheard |
 | 286 | 517 | PrncssPJ |
 | 287 | 516 | Rebecca Funderburk Kirby |
 | 288 | 511 | Marci Mize Fandrich |
-| 289 | 508 | joz |
-| 290 | 508 | Colton |
+| 289 | 508 | Colton |
+| 290 | 508 | joz |
 | 291 | 507 | Snappy Balancer |
 | 292 | 506 | Ammmmmmy |
 | 293 | 505 | Stephanie Simpson |
@@ -458,8 +458,8 @@
 | 450 | 340 | Erika Thornton |
 | 451 | 340 | Funky Jumper |
 | 452 | 338 | Michael Leblanc |
-| 453 | 336 | luluraine |
-| 454 | 336 | Kathleen Taylor |
+| 453 | 336 | Kathleen Taylor |
+| 454 | 336 | luluraine |
 | 455 | 336 | Saucy Buildout |
 | 456 | 335 | Mindy Phelps |
 | 457 | 335 | Sassy Brickmatch |
