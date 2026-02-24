@@ -112,13 +112,13 @@
 | 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
-| 107 | 813 | Amy Suckarieh |
-| 108 | 813 | Klo |
+| 107 | 813 | Klo |
+| 108 | 813 | Amy Suckarieh |
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Denise Carlson |
-| 113 | 802 | Crystal Carroll |
+| 112 | 802 | Crystal Carroll |
+| 113 | 802 | Denise Carlson |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -134,8 +134,8 @@
 | 126 | 729 | Jamie Mann-Deichmann |
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
-| 129 | 719 | George Nutt |
-| 130 | 719 | Leslie Nicole |
+| 129 | 719 | Leslie Nicole |
+| 130 | 719 | George Nutt |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
 | 133 | 704 | Chilly Crasher |
@@ -235,8 +235,8 @@
 | 227 | 473 | Jolly Dashfit |
 | 228 | 472 | Plucky Patternblock |
 | 229 | 465 | Leslie Thomas |
-| 230 | 464 | Calvin Cannon |
-| 231 | 464 | Zakia Monae |
+| 230 | 464 | Zakia Monae |
+| 231 | 464 | Calvin Cannon |
 | 232 | 463 | shark tato |
 | 233 | 462 | Crystal Nicolette Moore |
 | 234 | 460 | Kathy Brookins |
@@ -389,8 +389,8 @@
 | 381 | 311 | KayM |
 | 382 | 311 | Reds Bella |
 | 383 | 308 | Angela Geist Jusinski |
-| 384 | 307 | Susan Williams |
-| 385 | 307 | Eri Kka |
+| 384 | 307 | Eri Kka |
+| 385 | 307 | Susan Williams |
 | 386 | 306 | PeaceOs |
 | 387 | 305 | Groovy Shiftspin |
 | 388 | 305 | Frances Hui |
@@ -403,13 +403,13 @@
 | 395 | 300 | Carter Jones |
 | 396 | 299 | Michael Snow |
 | 397 | 298 | Val Erie |
-| 398 | 297 | Allison Rose |
-| 399 | 297 | Brittany Marsh |
+| 398 | 297 | Brittany Marsh |
+| 399 | 297 | Allison Rose |
 | 400 | 296 | Deb Rubeck |
 | 401 | 294 | BootsMcGee |
 | 402 | 292 | Epic Curvetile |
 | 403 | 292 | Jumpy Zonepiece |
-| 404 | 291 | Ronald Brown Jr. |
+| 404 | 291 | DQ Martin |
 | 405 | 291 | Malakai Darien Fox |
 | 406 | 291 | Ronald Brown Jr. |
 | 407 | 290 | Amy Sanford |
@@ -627,8 +627,8 @@
 | 619 | 197 | Colton Stamper |
 | 620 | 197 | Satinleader |
 | 621 | 196 | Julie McAfoos Swanson |
-| 622 | 195 | Adrian Pawlusinski |
-| 623 | 195 | Shant |
+| 622 | 195 | Shant |
+| 623 | 195 | Adrian Pawlusinski |
 | 624 | 195 | Tabi Williams |
 | 625 | 194 | Zany Twisterfit |
 | 626 | 194 | Katie Alexander |
@@ -645,12 +645,12 @@
 | 637 | 191 | RamboBanana |
 | 638 | 191 | Jobadia Steelerton |
 | 639 | 190 | Robert Rangel |
-| 640 | 190 | wombat |
-| 641 | 190 | Joni Marie Flanary |
-| 642 | 189 | Amy C Brown |
-| 643 | 189 | Daniel Gazcon |
-| 644 | 188 | Dickie Rice |
-| 645 | 188 | Daring Pivot |
+| 640 | 190 | Joni Marie Flanary |
+| 641 | 190 | wombat |
+| 642 | 189 | Daniel Gazcon |
+| 643 | 189 | Amy C Brown |
+| 644 | 188 | Daring Pivot |
+| 645 | 188 | Dickie Rice |
 | 646 | 188 | Cooldamalley |
 | 647 | 187 | Jason Punch |
 | 648 | 187 | Lynn Marie |
@@ -823,7 +823,7 @@
 | 815 | 144 | Jessica Johnston |
 | 816 | 144 | Zach Kerbs |
 | 817 | 143 | Jenna Keen |
-| 818 | 143 | Kelly Duncan |
+| 818 | 143 | sgt baby |
 | 819 | 143 | Sherri |
 | 820 | 143 | Kelly Duncan |
 | 821 | 142 | Perky Shatterer |
