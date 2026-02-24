@@ -270,8 +270,8 @@
 | 262 | 1561 | Howard Forest |
 | 263 | 1557 | Poppy Snap |
 | 264 | 1556 | Julay |
-| 265 | 1553 | Sarah Freitas |
-| 266 | 1553 | Wendy Unsain |
+| 265 | 1553 | Wendy Unsain |
+| 266 | 1553 | Sarah Freitas |
 | 267 | 1553 | Boldy Cascadepiece |
 | 268 | 1539 | Nadia Batista Garcia |
 | 269 | 1528 | Stacy Stickle |
@@ -330,8 +330,8 @@
 | 322 | 1342 | Groovy Puzzle |
 | 323 | 1342 | Kelly A Green-Leach |
 | 324 | 1341 | Cassie Mercer |
-| 325 | 1338 | Meghan M |
-| 326 | 1338 | Diallo Sparkman |
+| 325 | 1338 | Diallo Sparkman |
+| 326 | 1338 | Meghan M |
 | 327 | 1336 | Frothy Rumbler |
 | 328 | 1334 | Jamie Otero |
 | 329 | 1333 | nikki |
@@ -363,8 +363,8 @@
 | 355 | 1257 | Megan Garrick |
 | 356 | 1257 | Megan Ferguson Leone |
 | 357 | 1257 | Jackie Lucas |
-| 358 | 1256 | Belle |
-| 359 | 1256 | Phil J. Grombliniak |
+| 358 | 1256 | Phil J. Grombliniak |
+| 359 | 1256 | Belle |
 | 360 | 1254 | Erika Densmore |
 | 361 | 1252 | AgileDragon |
 | 362 | 1252 | Brainy Smurf |
@@ -3597,7 +3597,7 @@
 | 3589 | 206 | Craig William |
 | 3590 | 206 | Stretch girl |
 | 3591 | 206 | Bob-omb Myers |
-| 3592 | 205 | Nishadha Perera |
+| 3592 | 205 | Julie Love |
 | 3593 | 205 | Cool Balancer |
 | 3594 | 205 | Nishadha Perera |
 | 3595 | 205 | Saucy Slide |
