@@ -70,8 +70,8 @@
 | 62 | 1106 | BertMofo |
 | 63 | 1094 | Shelly Chandler |
 | 64 | 1089 | Alyssa Papen |
-| 65 | 1082 | Avy Absol |
-| 66 | 1082 | Dion Crommarty |
+| 65 | 1082 | Dion Crommarty |
+| 66 | 1082 | Avy Absol |
 | 67 | 1081 | Dustee Craddock-Harrison |
 | 68 | 1069 | Heather Tushner |
 | 69 | 1056 | Keith Kelley |
@@ -304,8 +304,8 @@
 | 296 | 364 | Lora |
 | 297 | 360 | Lee Silpe |
 | 298 | 359 | Allen Lloyd |
-| 299 | 359 | KimoKoala |
-| 300 | 359 | Holly |
+| 299 | 359 | Holly |
+| 300 | 359 | KimoKoala |
 | 301 | 354 | @ |
 | 302 | 351 | Jessi Cinotto |
 | 303 | 351 | Dana Scott |

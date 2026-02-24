@@ -123,8 +123,8 @@
 | 115 | 1134 | Melissa Orth Hunter |
 | 116 | 1124 | Stephanie Rice |
 | 117 | 1121 | Corie A. Brinson |
-| 118 | 1114 | Groovy Catcher |
-| 119 | 1114 | Loopy Fallmatch |
+| 118 | 1114 | Loopy Fallmatch |
+| 119 | 1114 | Groovy Catcher |
 | 120 | 1105 | Adrian Marcel Pate |
 | 121 | 1093 | Angela M. Fletcher |
 | 122 | 1091 | Jennifer |
@@ -157,8 +157,8 @@
 | 149 | 961 | Danielle Allison |
 | 150 | 950 | Giddy Drop |
 | 151 | 950 | MissTaylor |
-| 152 | 940 | Patty Allen |
-| 153 | 940 | Stephanie Allmon |
+| 152 | 940 | Stephanie Allmon |
+| 153 | 940 | Patty Allen |
 | 154 | 936 | Dolores Falco |
 | 155 | 925 | Cherry Parker |
 | 156 | 914 | BadManSheLove |
@@ -192,14 +192,14 @@
 | 184 | 804 | Alaina Lee |
 | 185 | 800 | Lauren Girouard |
 | 186 | 799 | Trisha Balmer |
-| 187 | 794 | Alexmac |
-| 188 | 794 | Raya |
+| 187 | 794 | Raya |
+| 188 | 794 | Alexmac |
 | 189 | 792 | Rachel Grant |
 | 190 | 784 | Jone |
 | 191 | 783 | Julian Murphy |
 | 192 | 777 | Daryn Elliott |
-| 193 | 774 | ren |
-| 194 | 774 | Twisty Brick LT |
+| 193 | 774 | Twisty Brick LT |
+| 194 | 774 | ren |
 | 195 | 772 | Tye Stovall |
 | 196 | 769 | Hasty Cascadefit |
 | 197 | 768 | Cyd061769 |
@@ -471,8 +471,8 @@
 | 463 | 353 | Eboni G. |
 | 464 | 353 | Cheeky Snapper |
 | 465 | 352 | LadyTorad |
-| 466 | 351 | Eon Harris |
-| 467 | 351 | Nelma |
+| 466 | 351 | Nelma |
+| 467 | 351 | Eon Harris |
 | 468 | 350 | Norma JulieMay |
 | 469 | 348 | Jimmie Clemons |
 | 470 | 348 | Ashley Raines |
@@ -685,8 +685,8 @@
 | 677 | 270 | Crafty Tilemaker |
 | 678 | 269 | Bigmack |
 | 679 | 268 | DanceLuvLaugh |
-| 680 | 268 | Julia Nicole |
-| 681 | 268 | Wacky Crasher |
+| 680 | 268 | Wacky Crasher |
+| 681 | 268 | Julia Nicole |
 | 682 | 267 | April Matthew Kibble |
 | 683 | 266 | paranoid |
 | 684 | 266 | Reina Roth |

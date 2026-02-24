@@ -368,8 +368,8 @@
 | 360 | 1222 | Kristin Gower |
 | 361 | 1218 | LaKisha Anderson |
 | 362 | 1217 | Brooks Brooks |
-| 363 | 1215 | Toni Roberson |
-| 364 | 1215 | Hyper Cluster |
+| 363 | 1215 | Hyper Cluster |
+| 364 | 1215 | Toni Roberson |
 | 365 | 1214 | David Cudicio-Hayden |
 | 366 | 1211 | Cynthia Ward |
 | 367 | 1210 | Amber Gray |
@@ -388,8 +388,8 @@
 | 380 | 1170 | Shelley Thornburgh Wright |
 | 381 | 1167 | Min |
 | 382 | 1164 | DefaultUser |
-| 383 | 1163 | Caitlin Schmid |
-| 384 | 1163 | Sarah DeHart |
+| 383 | 1163 | Sarah DeHart |
+| 384 | 1163 | Caitlin Schmid |
 | 385 | 1158 | Brittany Clark |
 | 386 | 1150 | Sheniya Spurgeon |
 | 387 | 1149 | Hoppy Brickmatch |
@@ -1500,8 +1500,8 @@
 | 1492 | 405 | Caroline Roy |
 | 1493 | 405 | Debbie Gerlib-Molinari Leigh |
 | 1494 | 405 | Monica Wilson |
-| 1495 | 404 | Daring Matchfit |
-| 1496 | 404 | Mike Schwob |
+| 1495 | 404 | Mike Schwob |
+| 1496 | 404 | Daring Matchfit |
 | 1497 | 404 | Jean FU Jagielski |
 | 1498 | 404 | Regina Unruh |
 | 1499 | 403 | Janessa Pafford |
