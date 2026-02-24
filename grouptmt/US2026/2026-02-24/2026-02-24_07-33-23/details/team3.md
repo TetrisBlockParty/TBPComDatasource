@@ -82,8 +82,8 @@
 | 74 | 1633 | cowboy25469 |
 | 75 | 1625 | Queen Kam |
 | 76 | 1615 | joclisa |
-| 77 | 1566 | Marcie Bressler |
-| 78 | 1566 | Nerdy Riseclear |
+| 77 | 1566 | Nerdy Riseclear |
+| 78 | 1566 | Marcie Bressler |
 | 79 | 1560 | Logan Naccarato |
 | 80 | 1555 | Snappy Glidepiece |
 | 81 | 1518 | Christine Filson |
@@ -124,8 +124,8 @@
 | 116 | 1134 | Melissa Orth Hunter |
 | 117 | 1124 | Stephanie Rice |
 | 118 | 1121 | Corie A. Brinson |
-| 119 | 1114 | Groovy Catcher |
-| 120 | 1114 | Loopy Fallmatch |
+| 119 | 1114 | Loopy Fallmatch |
+| 120 | 1114 | Groovy Catcher |
 | 121 | 1105 | Adrian Marcel Pate |
 | 122 | 1093 | Angela M. Fletcher |
 | 123 | 1091 | Jennifer |
@@ -172,8 +172,8 @@
 | 164 | 875 | Chasity |
 | 165 | 874 | Jessica Pineda-Lopez |
 | 166 | 871 | Rochelle Hazelett |
-| 167 | 868 | Nicole Flippo |
-| 168 | 868 | Cranky Gridder |
+| 167 | 868 | Cranky Gridder |
+| 168 | 868 | Nicole Flippo |
 | 169 | 866 | Domo Washington |
 | 170 | 864 | Sunny Rotater |
 | 171 | 862 | Santeria Trece Candles |
@@ -227,8 +227,8 @@
 | 219 | 715 | Karon Griffin |
 | 220 | 714 | Jenny Hrndz |
 | 221 | 713 | Stephanie Blkpep Davidson |
-| 222 | 709 | Cynthia Castros-Hampton |
-| 223 | 709 | Christine Niles |
+| 222 | 709 | Christine Niles |
+| 223 | 709 | Cynthia Castros-Hampton |
 | 224 | 708 | Stephanie Bradley |
 | 225 | 703 | Shawn Miller |
 | 226 | 691 | Snappy Balancer |
@@ -252,8 +252,8 @@
 | 244 | 633 | Jillian Symons |
 | 245 | 630 | Jackie Miller |
 | 246 | 629 | rnr junky |
-| 247 | 627 | Juliana Dottore |
-| 248 | 627 | Louise Stacy Sisson |
+| 247 | 627 | Louise Stacy Sisson |
+| 248 | 627 | Juliana Dottore |
 | 249 | 626 | Cheryl Hinch Tenbrook |
 | 250 | 625 | Jacqueline Rodriguez |
 | 251 | 624 | Hyper Matchzone |
@@ -334,12 +334,12 @@
 | 326 | 490 | Cassandra Bryant |
 | 327 | 489 | Isabel Ocasio |
 | 328 | 487 | MsBee |
-| 329 | 486 | Sleepy |
-| 330 | 486 | Skippy |
+| 329 | 486 | Skippy |
+| 330 | 486 | Sleepy |
 | 331 | 482 | Chummy Rumbler |
 | 332 | 481 | Tiffanie Alley |
-| 333 | 480 | TLM |
-| 334 | 480 | Dee Franklin |
+| 333 | 480 | Dee Franklin |
+| 334 | 480 | TLM |
 | 335 | 479 | Charles Perrone |
 | 336 | 476 | Shunta Jacobs |
 | 337 | 474 | Troy |
@@ -350,8 +350,8 @@
 | 342 | 465 | Blocked |
 | 343 | 465 | Noettín Kan Zasnemoore |
 | 344 | 464 | Snazzy Filler |
-| 345 | 462 | Tegan Chapman |
-| 346 | 462 | Brandon Givens |
+| 345 | 462 | Brandon Givens |
+| 346 | 462 | Tegan Chapman |
 | 347 | 461 | Hyper Bridger |
 | 348 | 461 | Briana Wellman |
 | 349 | 460 | Antonia Russell |
@@ -379,9 +379,9 @@
 | 371 | 436 | Julie Fratrik |
 | 372 | 435 | Sabrina Hardrick |
 | 373 | 434 | Criss |
-| 374 | 432 | Justice 4 P |
+| 374 | 432 | Hoppy Patternline |
 | 375 | 432 | Sabrina Mansfield |
-| 376 | 432 | Hoppy Patternline |
+| 376 | 432 | Justice 4 P |
 | 377 | 431 | Donna Esbensen-Alpini |
 | 378 | 430 | AlsoJess |
 | 379 | 430 | Quackers |
@@ -391,8 +391,8 @@
 | 383 | 426 | Christina Rotz Shows |
 | 384 | 425 | Ava Petito |
 | 385 | 423 | Dapper Liney |
-| 386 | 419 | Philip Rock |
-| 387 | 419 | Desiree Gold |
+| 386 | 419 | Desiree Gold |
+| 387 | 419 | Philip Rock |
 | 388 | 419 | Maggie |
 | 389 | 418 | Rainbow77375 |
 | 390 | 416 | Tay |

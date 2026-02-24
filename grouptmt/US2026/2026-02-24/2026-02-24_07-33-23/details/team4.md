@@ -168,8 +168,8 @@
 | 160 | 590 | Carmethia Clemons Haslerig |
 | 161 | 590 | Angela Srubar-Norman |
 | 162 | 587 | YoMomma |
-| 163 | 586 | Carlos Ramirez |
-| 164 | 586 | Latisha Davis |
+| 163 | 586 | Latisha Davis |
+| 164 | 586 | Carlos Ramirez |
 | 165 | 585 | Tracey Lehmann |
 | 166 | 584 | Carlton Unfiltered |
 | 167 | 576 | Jade Rian |
@@ -212,12 +212,12 @@
 | 204 | 509 | Mimi |
 | 205 | 507 | Andria Lynn |
 | 206 | 504 | Deanna Deckard |
-| 207 | 502 | Christina Black |
-| 208 | 502 | Ericca Eldridge |
+| 207 | 502 | Ericca Eldridge |
+| 208 | 502 | Christina Black |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
-| 211 | 496 | Jessica Bohlken |
-| 212 | 496 | Lori |
+| 211 | 496 | Lori |
+| 212 | 496 | Jessica Bohlken |
 | 213 | 495 | Joeliecea Cobb |
 | 214 | 493 | Amanda Pauldo-Ivy |
 | 215 | 491 | Manny1 |

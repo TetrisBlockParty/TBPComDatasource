@@ -313,8 +313,8 @@
 | 305 | 1351 | Denisha Dawkins |
 | 306 | 1345 | Shiny Twistfit |
 | 307 | 1343 | Sarah Berger |
-| 308 | 1342 | Kelly A Green-Leach |
-| 309 | 1342 | Groovy Puzzle |
+| 308 | 1342 | Groovy Puzzle |
+| 309 | 1342 | Kelly A Green-Leach |
 | 310 | 1341 | Cassie Mercer |
 | 311 | 1340 | Tralonda Weeks |
 | 312 | 1338 | Meghan M |
@@ -766,8 +766,8 @@
 | 758 | 701 | Joseph Musick |
 | 759 | 701 | Aishah Brice |
 | 760 | 700 | Beverly Owens |
-| 761 | 700 | Sassy Linkroll |
-| 762 | 700 | Vincent Petrella |
+| 761 | 700 | Vincent Petrella |
+| 762 | 700 | Sassy Linkroll |
 | 763 | 699 | Daveeda Ansourian Joplin |
 | 764 | 697 | DA Wight |
 | 765 | 696 | EMH |
@@ -781,8 +781,8 @@
 | 773 | 692 | Bubbly Snapbuild |
 | 774 | 692 | SwampRebel |
 | 775 | 691 | Melissa Kay Gibson |
-| 776 | 689 | Martina Gabrielle LaPolla |
-| 777 | 689 | SpaceCase085 |
+| 776 | 689 | SpaceCase085 |
+| 777 | 689 | Martina Gabrielle LaPolla |
 | 778 | 688 | Tracy Wise |
 | 779 | 688 | BIG BABY |
 | 780 | 687 | Candy Pitts |
@@ -810,11 +810,11 @@
 | 802 | 677 | Blacc Blac |
 | 803 | 677 | Kayleigh Wisse |
 | 804 | 676 | Fancy Shiftsnap |
-| 805 | 675 | Ryan Chan |
-| 806 | 675 | Katelynn Hollen |
+| 805 | 675 | Katelynn Hollen |
+| 806 | 675 | Ryan Chan |
 | 807 | 675 | Fi Ne |
-| 808 | 672 | Christina Jarvis-Swarbrick |
-| 809 | 672 | Lathasa Newkirk |
+| 808 | 672 | Lathasa Newkirk |
+| 809 | 672 | Christina Jarvis-Swarbrick |
 | 810 | 672 | Abimbola Bimbo |
 | 811 | 671 | Ryan Parson |
 | 812 | 670 | Santana Miyagi |
@@ -829,8 +829,8 @@
 | 821 | 668 | Alice Ball |
 | 822 | 668 | Chilly Linebuilder |
 | 823 | 667 | Demeka Dangerous-kisses Johnson |
-| 824 | 667 | Asante Alexander |
-| 825 | 667 | Snazzy Risegrid |
+| 824 | 667 | Snazzy Risegrid |
+| 825 | 667 | Asante Alexander |
 | 826 | 666 | Laura Mclean |
 | 827 | 665 | Frank Castle |
 | 828 | 665 | Zak Dunn |
@@ -977,8 +977,8 @@
 | 969 | 589 | Sharon Madeiros |
 | 970 | 588 | Wayne Fields |
 | 971 | 587 | Alexx Anaya |
-| 972 | 586 | Tracy Wise Moon |
-| 973 | 586 | Cat Thompson |
+| 972 | 586 | Cat Thompson |
+| 973 | 586 | Tracy Wise Moon |
 | 974 | 586 | Tra Barnum |
 | 975 | 585 | Danielle DeLozier Plesec |
 | 976 | 585 | Laquetta Royston |
@@ -998,8 +998,8 @@
 | 990 | 579 | Ashley Taylor |
 | 991 | 578 | Jack Rippe |
 | 992 | 578 | Jamie Dayton |
-| 993 | 578 | Clever Edge |
-| 994 | 578 | Sierra Edwards Lachmanek |
+| 993 | 578 | Sierra Edwards Lachmanek |
+| 994 | 578 | Clever Edge |
 | 995 | 578 | Brett Addison Jr. |
 | 996 | 577 | Steve Lane |
 | 997 | 577 | GinRox88 |
@@ -1029,8 +1029,8 @@
 | 1021 | 563 | Dione |
 | 1022 | 563 | Heather M Purcell |
 | 1023 | 563 | David Rehse |
-| 1024 | 562 | Klee |
-| 1025 | 562 | Gabbrielle Sutton |
+| 1024 | 562 | Gabbrielle Sutton |
+| 1025 | 562 | Klee |
 | 1026 | 562 | Smiley Strike |
 | 1027 | 562 | Dan Kulhanek |
 | 1028 | 562 | Angie Winch |
@@ -1053,8 +1053,8 @@
 | 1045 | 554 | Cheery Puzzler |
 | 1046 | 554 | Hoppy Glidebuilder |
 | 1047 | 554 | Dusti Rose Bingham |
-| 1048 | 553 | ruth |
-| 1049 | 553 | Tum |
+| 1048 | 553 | Tum |
+| 1049 | 553 | ruth |
 | 1050 | 553 | Sar Mo |
 | 1051 | 553 | Jason Kelly |
 | 1052 | 552 | Demitri Smith |
@@ -1066,8 +1066,8 @@
 | 1058 | 550 | Tristan Snowden |
 | 1059 | 549 | Ashley Collins |
 | 1060 | 549 | DLOCC1056 |
-| 1061 | 548 | Shiny Snapmatch |
-| 1062 | 548 | Synn |
+| 1061 | 548 | Synn |
+| 1062 | 548 | Shiny Snapmatch |
 | 1063 | 546 | Drew Berkelbach |
 | 1064 | 545 | Street Sweeper |
 | 1065 | 544 | A Rainbolt |
@@ -1094,12 +1094,12 @@
 | 1086 | 539 | stacey |
 | 1087 | 539 | Dizzy Clicker |
 | 1088 | 537 | Epic Spinfit |
-| 1089 | 537 | Austin Wilson |
-| 1090 | 537 | Robin |
+| 1089 | 537 | Robin |
+| 1090 | 537 | Austin Wilson |
 | 1091 | 536 | Paul Hinkle |
 | 1092 | 536 | Enha |
-| 1093 | 535 | Frisky Patternline |
-| 1094 | 535 | Katrina Willmon |
+| 1093 | 535 | Katrina Willmon |
+| 1094 | 535 | Frisky Patternline |
 | 1095 | 534 | JAG$*V¡LL£•FL•DuuuVaL |
 | 1096 | 534 | Kara Jennifer |
 | 1097 | 533 | Amanda West |
@@ -1118,8 +1118,8 @@
 | 1110 | 528 | Brooklynn Huckaby |
 | 1111 | 527 | Jes Norris |
 | 1112 | 526 | Lively Catcher |
-| 1113 | 526 | Marcus Ken Wilcox |
-| 1114 | 526 | Heidi Kent |
+| 1113 | 526 | Heidi Kent |
+| 1114 | 526 | Marcus Ken Wilcox |
 | 1115 | 525 | Micky |
 | 1116 | 525 | Elena Vap |
 | 1117 | 525 | Sam |
@@ -1505,13 +1505,13 @@
 | 1497 | 408 | Darlene Tucker |
 | 1498 | 408 | Goofy Blockfall |
 | 1499 | 408 | Peachy Blockmatch |
-| 1500 | 408 | Shilo Anderson |
-| 1501 | 408 | Ahisha West-allen |
+| 1500 | 408 | Ahisha West-allen |
+| 1501 | 408 | Shilo Anderson |
 | 1502 | 407 | Witty Patternblock |
 | 1503 | 407 | Brandy Boykin |
-| 1504 | 406 | Quirky Brickline |
+| 1504 | 406 | Charlotte Phelps |
 | 1505 | 406 | Bethany Anne Voss |
-| 1506 | 406 | Charlotte Phelps |
+| 1506 | 406 | Quirky Brickline |
 | 1507 | 406 | Kim Levan |
 | 1508 | 406 | Queen |
 | 1509 | 405 | Caroline Roy |
