@@ -227,8 +227,8 @@
 | 219 | 444 | Calvin Cannon |
 | 220 | 443 | Kristina Black |
 | 221 | 442 | 🥔🥔 Spudz |
-| 222 | 441 | Jen Mattei |
-| 223 | 441 | Lush Linkfall |
+| 222 | 441 | Lush Linkfall |
+| 223 | 441 | Jen Mattei |
 | 224 | 438 | Melvin Baird |
 | 225 | 436 | Selena Shaw |
 | 226 | 434 | Ramel Rhodes |
@@ -336,8 +336,8 @@
 | 328 | 311 | Laura |
 | 329 | 311 | Ak Jones |
 | 330 | 308 | Angela Geist Jusinski |
-| 331 | 307 | Kim Klutz Olson |
-| 332 | 307 | Shukee Lo |
+| 331 | 307 | Shukee Lo |
+| 332 | 307 | Kim Klutz Olson |
 | 333 | 306 | PeaceOs |
 | 334 | 306 | ZeeZee |
 | 335 | 303 | Jason Bosco |

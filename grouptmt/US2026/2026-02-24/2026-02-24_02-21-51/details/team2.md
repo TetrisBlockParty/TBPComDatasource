@@ -330,8 +330,8 @@
 | 322 | 1222 | Nuke Morris |
 | 323 | 1220 | Ricardo Burton |
 | 324 | 1218 | LaKisha Anderson |
-| 325 | 1217 | Christina Lewis-Vickers |
-| 326 | 1217 | Brooks Brooks |
+| 325 | 1217 | Brooks Brooks |
+| 326 | 1217 | Christina Lewis-Vickers |
 | 327 | 1216 | Pacynthia Williams |
 | 328 | 1214 | David Cudicio-Hayden |
 | 329 | 1212 | Kristin Gower |
@@ -534,8 +534,8 @@
 | 526 | 843 | Lilia Gomez |
 | 527 | 843 | Quirky Twistline |
 | 528 | 841 | Leslie Jorgenson |
-| 529 | 840 | Traci Johnson |
-| 530 | 840 | Kiana Boschh |
+| 529 | 840 | Kiana Boschh |
+| 530 | 840 | Traci Johnson |
 | 531 | 839 | Gary Stash |
 | 532 | 836 | James Simms III |
 | 533 | 836 | Iris Angelica Perez Cantos |

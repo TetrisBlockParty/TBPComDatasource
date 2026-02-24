@@ -362,8 +362,8 @@
 | 354 | 292 | Mark Smith |
 | 355 | 292 | Clever Cascadepiece |
 | 356 | 291 | Michael Espinosa Ulibarri Jr. |
-| 357 | 291 | Toph |
-| 358 | 291 | Sir-Franchise Drake |
+| 357 | 291 | Sir-Franchise Drake |
+| 358 | 291 | Toph |
 | 359 | 290 | Shanae Grant |
 | 360 | 289 | Mary Love |
 | 361 | 289 | Snappy Bridgepiece |
