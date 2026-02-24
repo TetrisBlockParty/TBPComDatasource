@@ -212,12 +212,12 @@
 | 204 | 509 | Mimi |
 | 205 | 507 | Andria Lynn |
 | 206 | 504 | Deanna Deckard |
-| 207 | 502 | Ericca Eldridge |
-| 208 | 502 | Christina Black |
+| 207 | 502 | Christina Black |
+| 208 | 502 | Ericca Eldridge |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
-| 211 | 496 | Lori |
-| 212 | 496 | Jessica Bohlken |
+| 211 | 496 | Jessica Bohlken |
+| 212 | 496 | Lori |
 | 213 | 495 | Joeliecea Cobb |
 | 214 | 494 | Bio Nelly |
 | 215 | 493 | Amanda Pauldo-Ivy |

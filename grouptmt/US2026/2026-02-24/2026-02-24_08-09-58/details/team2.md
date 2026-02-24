@@ -223,8 +223,8 @@
 | 215 | 1775 | Eboni Banks |
 | 216 | 1763 | Nerdy Pattern |
 | 217 | 1761 | Rosa Franklin |
-| 218 | 1751 | Melissa Penelope Ann Dodge |
-| 219 | 1751 | Dustin Rains |
+| 218 | 1751 | Dustin Rains |
+| 219 | 1751 | Melissa Penelope Ann Dodge |
 | 220 | 1727 | Teddi Notyalc |
 | 221 | 1724 | Tony Lea |
 | 222 | 1723 | Nett |
@@ -358,8 +358,8 @@
 | 350 | 1264 | Mama T |
 | 351 | 1261 | Becca Coronado |
 | 352 | 1257 | Jackie Lucas |
-| 353 | 1257 | Megan Garrick |
-| 354 | 1257 | Megan Ferguson Leone |
+| 353 | 1257 | Megan Ferguson Leone |
+| 354 | 1257 | Megan Garrick |
 | 355 | 1256 | Belle |
 | 356 | 1254 | Erika Densmore |
 | 357 | 1252 | AgileDragon |
@@ -432,8 +432,8 @@
 | 424 | 1087 | Cindy Sechler Taninecz |
 | 425 | 1085 | Barbra Miller |
 | 426 | 1085 | Bee |
-| 427 | 1084 | William Hunt |
-| 428 | 1084 | Emilee Burke |
+| 427 | 1084 | Emilee Burke |
+| 428 | 1084 | William Hunt |
 | 429 | 1080 | Jennifer Monroe Kelly |
 | 430 | 1079 | Angela Bonquiqui Dinish |
 | 431 | 1079 | AndrewandShela Gornik |
@@ -566,8 +566,8 @@
 | 558 | 885 | Giggy Mover |
 | 559 | 885 | Miranda Morris |
 | 560 | 883 | Hong Tang |
-| 561 | 882 | Thomas Hedrick |
-| 562 | 882 | Sarah Massey |
+| 561 | 882 | Sarah Massey |
+| 562 | 882 | Thomas Hedrick |
 | 563 | 881 | Layla LS |
 | 564 | 876 | Jelly |
 | 565 | 876 | Jessicah Myers |
@@ -587,13 +587,13 @@
 | 579 | 854 | Dawn L Washington-Feuquay |
 | 580 | 854 | Gold Rose |
 | 581 | 852 | Polly Pritchard Chesler |
-| 582 | 852 | Alexandra Lynn |
-| 583 | 852 | Catherine Marsh Gruda |
+| 582 | 852 | Catherine Marsh Gruda |
+| 583 | 852 | Alexandra Lynn |
 | 584 | 851 | Melissa Schulz |
 | 585 | 851 | James Louie |
 | 586 | 850 | Sabrina Burton |
-| 587 | 848 | Happy Wipeblock |
-| 588 | 848 | Jasmine Kenney |
+| 587 | 848 | Jasmine Kenney |
+| 588 | 848 | Happy Wipeblock |
 | 589 | 847 | Megan Kitchner |
 | 590 | 844 | Terri McKelvey McKinley |
 | 591 | 843 | Quirky Twistline |
@@ -690,8 +690,8 @@
 | 682 | 758 | John Jubes |
 | 683 | 758 | Stephanie Neuburger |
 | 684 | 757 | Frisky Clearpiece |
-| 685 | 755 | Marcia Jones |
-| 686 | 755 | Antonio Mckoy Sr. |
+| 685 | 755 | Antonio Mckoy Sr. |
+| 686 | 755 | Marcia Jones |
 | 687 | 751 | Tom Riefer |
 | 688 | 751 | Swanky Strikerpiece |
 | 689 | 750 | Prette Qui |
@@ -1177,8 +1177,8 @@
 | 1169 | 507 | Jay Levy |
 | 1170 | 507 | Lina Sanders |
 | 1171 | 506 | Zesty Pivot |
-| 1172 | 505 | Sammie |
-| 1173 | 505 | Umm E Rubab |
+| 1172 | 505 | Umm E Rubab |
+| 1173 | 505 | Sammie |
 | 1174 | 504 | Veronica Stevenson |
 | 1175 | 504 | Mary Boss |
 | 1176 | 504 | Richard Hunt |
@@ -1193,8 +1193,8 @@
 | 1185 | 498 | Linda Miltenburg |
 | 1186 | 498 | Drwatson187 |
 | 1187 | 497 | Stephanie Pitts |
-| 1188 | 497 | Mary Marie |
-| 1189 | 497 | June E Hanson |
+| 1188 | 497 | June E Hanson |
+| 1189 | 497 | Mary Marie |
 | 1190 | 497 | Bdubb |
 | 1191 | 496 | BlaqSupaMan |
 | 1192 | 496 | Ashlee Cruz |
@@ -1221,9 +1221,9 @@
 | 1213 | 491 | Mike Oxmall |
 | 1214 | 490 | Andrew Fisher |
 | 1215 | 489 | Chenchun Ma |
-| 1216 | 489 | Reese Hayes |
-| 1217 | 489 | Kelsey Sullivan |
-| 1218 | 489 | Jennifer Mahon |
+| 1216 | 489 | Jennifer Mahon |
+| 1217 | 489 | Reese Hayes |
+| 1218 | 489 | Kelsey Sullivan |
 | 1219 | 488 | Murray Marie |
 | 1220 | 488 | Lauren Forlenza |
 | 1221 | 487 | Morgan Easter |

@@ -47,8 +47,8 @@
 | 39 | 1411 | Snappy Swiper |
 | 40 | 1405 | Chipper Gridlock |
 | 41 | 1391 | Aaron Garnett |
-| 42 | 1334 | june october |
-| 43 | 1334 | Tyler Alcock |
+| 42 | 1334 | Tyler Alcock |
+| 43 | 1334 | june october |
 | 44 | 1325 | Drew Magnus |
 | 45 | 1305 | Michelle Nicole |
 | 46 | 1292 | Marianne Louise West |
@@ -172,8 +172,8 @@
 | 164 | 547 | Sharon Reynolds |
 | 165 | 546 | Loony Fitzone |
 | 166 | 545 | .running. |
-| 167 | 543 | Nicole Roseberry Weber |
-| 168 | 543 | Adrian Esteban |
+| 167 | 543 | Adrian Esteban |
+| 168 | 543 | Nicole Roseberry Weber |
 | 169 | 542 | BadG52 |
 | 170 | 540 | Tonya Beasley |
 | 171 | 537 | Stephanie Zahn |
@@ -185,8 +185,8 @@
 | 177 | 522 | Constance Risner |
 | 178 | 521 | Teri Oehlke |
 | 179 | 519 | Cool Shiftsnap |
-| 180 | 519 | Anaid Sanchez |
-| 181 | 519 | phrmblk24 |
+| 180 | 519 | phrmblk24 |
+| 181 | 519 | Anaid Sanchez |
 | 182 | 517 | Eric DeSimone |
 | 183 | 514 | Chase Collinsworth |
 | 184 | 513 | Rebekah LeiAnn Bonsell |
@@ -282,8 +282,8 @@
 | 274 | 380 | Snippy Wipebuilder |
 | 275 | 379 | Austin James |
 | 276 | 378 | Eddie Dillon |
-| 277 | 377 | DoodleBug |
-| 278 | 377 | Rayline M Bradshaw |
+| 277 | 377 | Rayline M Bradshaw |
+| 278 | 377 | DoodleBug |
 | 279 | 377 | GATOR |
 | 280 | 376 | Sassy Builderline |
 | 281 | 376 | Brian Richardsson |
@@ -338,9 +338,9 @@
 | 330 | 338 | Tipsy Builder |
 | 331 | 337 | Chaste Minor |
 | 332 | 336 | Sarah Roberts |
-| 333 | 335 | Glitzy Curvebuilder |
-| 334 | 335 | Dreamy Drop |
-| 335 | 335 | Rachel Nilles |
+| 333 | 335 | Dreamy Drop |
+| 334 | 335 | Rachel Nilles |
+| 335 | 335 | Glitzy Curvebuilder |
 | 336 | 334 | Nate Price |
 | 337 | 331 | Lisa Miller |
 | 338 | 330 | Jeremy Maubert |
@@ -358,8 +358,8 @@
 | 350 | 325 | Mitchel White |
 | 351 | 324 | Brave Wrecker |
 | 352 | 323 | Nadine Velardo |
-| 353 | 322 | Chris65 |
-| 354 | 322 | Hasty Columnbuilder |
+| 353 | 322 | Hasty Columnbuilder |
+| 354 | 322 | Chris65 |
 | 355 | 321 | LD1 |
 | 356 | 320 | Zany Tiler |
 | 357 | 319 | Fresno Beotoni |
@@ -378,8 +378,8 @@
 | 370 | 310 | Marci Sanders |
 | 371 | 310 | Chris Sigurdson |
 | 372 | 309 | Isaiah |
-| 373 | 308 | Agustin Duarte Orozco |
-| 374 | 308 | Katie Martin |
+| 373 | 308 | Katie Martin |
+| 374 | 308 | Agustin Duarte Orozco |
 | 375 | 306 | Sunny Shift |
 | 376 | 305 | Damian Salem |
 | 377 | 305 | Tavia |
@@ -408,8 +408,8 @@
 | 400 | 292 | Clever Cascadepiece |
 | 401 | 292 | Mark Smith |
 | 402 | 291 | Danielle Mae |
-| 403 | 291 | Sir-Franchise Drake |
-| 404 | 291 | Toph |
+| 403 | 291 | Toph |
+| 404 | 291 | Sir-Franchise Drake |
 | 405 | 290 | Nate Funk |
 | 406 | 290 | Blake Mckay |
 | 407 | 290 | Brave Slice |
@@ -453,7 +453,7 @@
 | 445 | 273 | Carlos Floyd |
 | 446 | 273 | Frisky Base |
 | 447 | 272 | Rachel Copas |
-| 448 | 271 | Patty Lavigne Craddock |
+| 448 | 271 | Elizabeth Kubli |
 | 449 | 271 | Al Smith Jr |
 | 450 | 271 | Patty Lavigne Craddock |
 | 451 | 270 | Krie |
@@ -491,8 +491,8 @@
 | 483 | 255 | Zesty Brickzone |
 | 484 | 254 | Kipoi |
 | 485 | 252 | Angela Dawn Torres-Tarrants |
-| 486 | 251 | MRdot Rooski |
-| 487 | 251 | Randy Broadwater |
+| 486 | 251 | Randy Broadwater |
+| 487 | 251 | MRdot Rooski |
 | 488 | 250 | Emmarieta Mendez |
 | 489 | 249 | Sassy Towerer |
 | 490 | 249 | GentleKitten7 |
@@ -870,8 +870,8 @@
 | 862 | 137 | Cozy Cascader |
 | 863 | 137 | Rockin Red |
 | 864 | 136 | NicaOrlice |
-| 865 | 136 | Dreamy Basepiece |
-| 866 | 136 | Jennifer Chilton-Metlock |
+| 865 | 136 | Jennifer Chilton-Metlock |
+| 866 | 136 | Dreamy Basepiece |
 | 867 | 135 | Bye Love |
 | 868 | 135 | Denise Belanger |
 | 869 | 134 | elijahbih |
