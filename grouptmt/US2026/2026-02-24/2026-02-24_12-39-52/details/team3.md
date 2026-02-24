@@ -111,8 +111,8 @@
 | 103 | 1311 | JerseyJess |
 | 104 | 1309 | yoyo |
 | 105 | 1297 | Shelby Michelle |
-| 106 | 1282 | Amanda L Baker |
-| 107 | 1282 | Peppy Shifter |
+| 106 | 1282 | Peppy Shifter |
+| 107 | 1282 | Amanda L Baker |
 | 108 | 1280 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -328,8 +328,8 @@
 | 320 | 518 | Marquita Sheard |
 | 321 | 516 | Skippy |
 | 322 | 514 | Nikki White |
-| 323 | 506 | Ammmmmmy |
-| 324 | 506 | Tiffanie Alley |
+| 323 | 506 | Tiffanie Alley |
+| 324 | 506 | Ammmmmmy |
 | 325 | 504 | Daring Builder |
 | 326 | 500 | Ashley Tookes |
 | 327 | 500 | Noettín Kan Zasnemoore |
@@ -383,8 +383,8 @@
 | 375 | 447 | Carrie Huskey |
 | 376 | 447 | Num1hater |
 | 377 | 446 | Jennifer Alvey |
-| 378 | 445 | Christina Rotz Shows |
-| 379 | 445 | Loopy Clusterer |
+| 378 | 445 | Loopy Clusterer |
+| 379 | 445 | Christina Rotz Shows |
 | 380 | 444 | Heather De Vries Cobb |
 | 381 | 443 | Tay |
 | 382 | 442 | Loopy Fallzone |
@@ -453,8 +453,8 @@
 | 445 | 383 | Amber Glover |
 | 446 | 383 | Jessica Christian |
 | 447 | 382 | Katheline Lazo Luizaga |
-| 448 | 382 | Amanda Martinez |
-| 449 | 382 | Theresa Opell Gartner |
+| 448 | 382 | Theresa Opell Gartner |
+| 449 | 382 | Amanda Martinez |
 | 450 | 381 | Romeo |
 | 451 | 381 | Mary Giorgenti |
 | 452 | 380 | neci |
@@ -480,8 +480,8 @@
 | 472 | 367 | Danetta McCadden |
 | 473 | 366 | Erykah |
 | 474 | 365 | Frothy Glider |
-| 475 | 364 | 4girls |
-| 476 | 364 | xsiv |
+| 475 | 364 | xsiv |
+| 476 | 364 | 4girls |
 | 477 | 363 | angieelyn |
 | 478 | 363 | Katrina Turner |
 | 479 | 363 | Nena Somerville Kelly |
@@ -624,7 +624,7 @@
 | 616 | 305 | Six |
 | 617 | 305 | Frisky Stacker |
 | 618 | 304 | Julie Peters Fancher |
-| 619 | 304 | _melisa223_ |
+| 619 | 304 | Kita A Jackson |
 | 620 | 304 | Tammy Rosenberry |
 | 621 | 304 | _melisa223_ |
 | 622 | 303 | Tosha Griffey |
@@ -1447,8 +1447,8 @@
 | 1439 | 131 | Terry Perez |
 | 1440 | 131 | Lynnie |
 | 1441 | 131 | Christina |
-| 1442 | 130 | Frisky Balancefit |
-| 1443 | 130 | birdy |
+| 1442 | 130 | birdy |
+| 1443 | 130 | Frisky Balancefit |
 | 1444 | 130 | Athena |
 | 1445 | 130 | Mol Findor |
 | 1446 | 130 | Twisty Twistfit |
@@ -1546,8 +1546,8 @@
 | 1538 | 120 | Dreamy Riserfit |
 | 1539 | 120 | jlamp21 |
 | 1540 | 120 | Dalonda Joyner Jeralds |
-| 1541 | 119 | Kodi Smith |
-| 1542 | 119 | Lanette Mayfield |
+| 1541 | 119 | Snappy Tiltbuilder |
+| 1542 | 119 | Kodi Smith |
 | 1543 | 119 | Pamela Swist |
 | 1544 | 119 | Lanette Mayfield |
 | 1545 | 119 | Angel |

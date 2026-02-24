@@ -116,8 +116,8 @@
 | 108 | 791 | Greg Hart |
 | 109 | 782 | Karin Gillen |
 | 110 | 781 | Ash Galvan |
-| 111 | 773 | Susanna Guerry |
-| 112 | 773 | Cartier |
+| 111 | 773 | Cartier |
+| 112 | 773 | Susanna Guerry |
 | 113 | 772 | Kathy Langham |
 | 114 | 770 | Zappy Curvetile |
 | 115 | 768 | Jazzy Framezone |
@@ -295,8 +295,8 @@
 | 287 | 387 | Sarah Roberts |
 | 288 | 386 | Melissa Bires Hussar |
 | 289 | 384 | Colleen Pinette |
-| 290 | 384 | Cody Gates |
-| 291 | 384 | Al Smith Jr |
+| 290 | 384 | Al Smith Jr |
+| 291 | 384 | Cody Gates |
 | 292 | 383 | Frothy Pattern |
 | 293 | 383 | Margo Wagner |
 | 294 | 382 | Jamie Jury |
@@ -313,8 +313,8 @@
 | 305 | 371 | Danielle S Kester |
 | 306 | 370 | Gracie |
 | 307 | 368 | Avelyn Calamba |
-| 308 | 367 | April Jones |
-| 309 | 367 | Cheeky Pop |
+| 308 | 367 | Cheeky Pop |
+| 309 | 367 | April Jones |
 | 310 | 366 | J.F. Fields |
 | 311 | 366 | Brave Linkmatch |
 | 312 | 365 | Shannon Marie Pitts |
@@ -383,8 +383,8 @@
 | 375 | 319 | Crystal Cheresnowsky |
 | 376 | 319 | Fresno Beotoni |
 | 377 | 317 | Itspaigebro |
-| 378 | 317 | Amh |
-| 379 | 317 | Bloknboy |
+| 378 | 317 | Bloknboy |
+| 379 | 317 | Amh |
 | 380 | 316 | Giggly Builderline |
 | 381 | 315 | san |
 | 382 | 315 | Joe Coon |
@@ -416,8 +416,8 @@
 | 408 | 301 | Chad Atchley |
 | 409 | 301 | Beazel75 |
 | 410 | 300 | Logan McFarland |
-| 411 | 299 | Nathan William |
-| 412 | 299 | Rachel Rogers |
+| 411 | 299 | Rachel Rogers |
+| 412 | 299 | Nathan William |
 | 413 | 297 | Billie Dawn Sparks |
 | 414 | 296 | Lisa Reynolds Adair |
 | 415 | 296 | Shaykmia |
@@ -715,9 +715,9 @@
 | 707 | 181 | Shano Rae |
 | 708 | 180 | William Cry |
 | 709 | 180 | Jennifer Crawford |
-| 710 | 180 | William Cry |
-| 711 | 179 | Ward Leandrea |
-| 712 | 179 | Ryan White |
+| 710 | 180 | Traci Schmeer |
+| 711 | 179 | Ryan White |
+| 712 | 179 | Ward Leandrea |
 | 713 | 178 | Gabrielle Louise Malloch |
 | 714 | 178 | Archie Ware |
 | 715 | 178 | Robin Burress |

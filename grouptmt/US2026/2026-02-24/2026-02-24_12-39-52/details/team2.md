@@ -325,16 +325,16 @@
 | 317 | 1357 | Tanya Parsons |
 | 318 | 1353 | Deborah Miller |
 | 319 | 1353 | Heather Hoffman Disharoon |
-| 320 | 1351 | Denisha Dawkins |
-| 321 | 1351 | Ashie Ann |
-| 322 | 1351 | Lucky Ladybug |
+| 320 | 1351 | Ashie Ann |
+| 321 | 1351 | Lucky Ladybug |
+| 322 | 1351 | Denisha Dawkins |
 | 323 | 1350 | Tinishia Amie |
 | 324 | 1348 | Keri Womack |
 | 325 | 1342 | Groovy Puzzle |
 | 326 | 1342 | Kelly A Green-Leach |
 | 327 | 1341 | Cassie Mercer |
-| 328 | 1338 | Diallo Sparkman |
-| 329 | 1338 | Meghan M |
+| 328 | 1338 | Meghan M |
+| 329 | 1338 | Diallo Sparkman |
 | 330 | 1336 | Frothy Rumbler |
 | 331 | 1334 | Jamie Otero |
 | 332 | 1333 | nikki |
@@ -375,8 +375,8 @@
 | 367 | 1252 | Brainy Smurf |
 | 368 | 1249 | Tristan Szolek |
 | 369 | 1247 | LaKisha Anderson |
-| 370 | 1245 | DefaultUser |
-| 371 | 1245 | Angel Hunnewell |
+| 370 | 1245 | Angel Hunnewell |
+| 371 | 1245 | DefaultUser |
 | 372 | 1237 | Christine Coughlin |
 | 373 | 1237 | Cheech Dta |
 | 374 | 1233 | Shannon Joslin |
@@ -446,8 +446,8 @@
 | 438 | 1088 | Angelina Marie |
 | 439 | 1088 | BK Queen |
 | 440 | 1087 | Angela Bonquiqui Dinish |
-| 441 | 1085 | Barbra Miller |
-| 442 | 1085 | Bee |
+| 441 | 1085 | Bee |
+| 442 | 1085 | Barbra Miller |
 | 443 | 1084 | Emilee Burke |
 | 444 | 1084 | William Hunt |
 | 445 | 1082 | Thomas Hedrick |
@@ -478,10 +478,10 @@
 | 470 | 1037 | Steve Man |
 | 471 | 1036 | trabuco |
 | 472 | 1033 | Andrea Maher |
-| 473 | 1032 | Alyssa Hileman |
-| 474 | 1032 | Bold Splitter |
-| 475 | 1031 | William Bresee |
-| 476 | 1031 | Darla Silva |
+| 473 | 1032 | Bold Splitter |
+| 474 | 1032 | Alyssa Hileman |
+| 475 | 1031 | Darla Silva |
+| 476 | 1031 | William Bresee |
 | 477 | 1027 | Lexie Burke |
 | 478 | 1026 | Jackie Burnett |
 | 479 | 1026 | Kiana Boschh |
@@ -495,7 +495,7 @@
 | 487 | 1010 | Sabrena Yeisley |
 | 488 | 1008 | Barry Britt |
 | 489 | 1003 | Amanda Deitrick |
-| 490 | 1000 | Tonya Lee |
+| 490 | 1000 | Emmmz |
 | 491 | 1000 | Victoria Moore-Smith |
 | 492 | 1000 | Tonya Lee |
 | 493 | 999 | Tansaria Couch-Butler |
@@ -522,8 +522,8 @@
 | 514 | 972 | Angela Yantz |
 | 515 | 970 | Smashanator |
 | 516 | 969 | Andrew Willis |
-| 517 | 969 | Shuany Arias |
-| 518 | 969 | Connie Jimenez |
+| 517 | 969 | Connie Jimenez |
+| 518 | 969 | Shuany Arias |
 | 519 | 968 | John Bednarik |
 | 520 | 966 | Kayla |
 | 521 | 965 | Lonne Emade |
@@ -629,9 +629,9 @@
 | 621 | 837 | Deyawn Smith |
 | 622 | 837 | Julio A Laracuente |
 | 623 | 836 | James Simms III |
-| 624 | 835 | Jo Nicole |
+| 624 | 835 | TJ Nash |
 | 625 | 835 | Diane P. Richardson |
-| 626 | 835 | TJ Nash |
+| 626 | 835 | Jo Nicole |
 | 627 | 834 | Montez Mancil |
 | 628 | 834 | NanDa Cruzan VI |
 | 629 | 834 | Tracy Cowley |

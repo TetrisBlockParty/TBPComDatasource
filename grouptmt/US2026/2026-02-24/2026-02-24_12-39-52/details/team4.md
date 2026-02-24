@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Shane Kalamata Platoon |
-| 47 | 1461 | Yoset Mejia |
+| 46 | 1461 | Yoset Mejia |
+| 47 | 1461 | Shane Kalamata Platoon |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -122,8 +122,8 @@
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
-| 117 | 781 | Savannah Overdorf |
-| 118 | 781 | Brittney Griggs |
+| 117 | 781 | Brittney Griggs |
+| 118 | 781 | Savannah Overdorf |
 | 119 | 779 | Nope Young |
 | 120 | 768 | Trista Leah |
 | 121 | 766 | Robin Watters |
@@ -145,8 +145,8 @@
 | 137 | 687 | Carmethia Clemons Haslerig |
 | 138 | 682 | Raegan Lane-Ross |
 | 139 | 668 | Desi Desporte |
-| 140 | 667 | Lindsey Gonzalez |
-| 141 | 667 | Swanky Fitline |
+| 140 | 667 | Swanky Fitline |
+| 141 | 667 | Lindsey Gonzalez |
 | 142 | 667 | Matt Gooder |
 | 143 | 662 | Nerdy Twisterfit |
 | 144 | 661 | shar |
@@ -188,8 +188,8 @@
 | 180 | 561 | Steph Marie |
 | 181 | 558 | Marie-Pier Desjardins |
 | 182 | 556 | Circuit8 |
-| 183 | 552 | Joseph Guthrie |
-| 184 | 552 | Angel Raya |
+| 183 | 552 | Angel Raya |
+| 184 | 552 | Joseph Guthrie |
 | 185 | 550 | James Hurley Jr. |
 | 186 | 549 | Cool Towerbuilder |
 | 187 | 547 | Mimi |
@@ -199,9 +199,9 @@
 | 191 | 537 | Scott Jameson |
 | 192 | 536 | JPW |
 | 193 | 534 | Lucas J Sutton |
-| 194 | 532 | Matt Summer |
+| 194 | 532 | Carly Alexis |
 | 195 | 532 | Alan George LaRage |
-| 196 | 532 | Carly Alexis |
+| 196 | 532 | Matt Summer |
 | 197 | 531 | Twisty Clicky |
 | 198 | 528 | Ellen Durfee |
 | 199 | 528 | Erin Sabol |
@@ -211,8 +211,8 @@
 | 203 | 520 | Zippy Block |
 | 204 | 517 | DonMega |
 | 205 | 516 | Nick Gray |
-| 206 | 516 | Trish |
-| 207 | 516 | Ericca Eldridge |
+| 206 | 516 | Ericca Eldridge |
+| 207 | 516 | Trish |
 | 208 | 513 | Zesty Twistbuilder |
 | 209 | 513 | Milan Markeisha |
 | 210 | 512 | Casey Jeffcoat |
@@ -293,8 +293,8 @@
 | 285 | 402 | Nita Wells |
 | 286 | 398 | Tyler Terrific |
 | 287 | 397 | blockstar |
-| 288 | 395 | BigSammy420 |
-| 289 | 395 | Denise B |
+| 288 | 395 | Denise B |
+| 289 | 395 | BigSammy420 |
 | 290 | 394 | Nikki Rae Gordon |
 | 291 | 393 | Montiette Mcglown |
 | 292 | 390 | Ari Droff |
@@ -389,8 +389,8 @@
 | 381 | 314 | KoolMom9907 |
 | 382 | 313 | Lazy Glidepiece |
 | 383 | 312 | Tawna Curry |
-| 384 | 311 | KayM |
-| 385 | 311 | Reds Bella |
+| 384 | 311 | Reds Bella |
+| 385 | 311 | KayM |
 | 386 | 309 | Groovy Shiftspin |
 | 387 | 308 | Angela Geist Jusinski |
 | 388 | 307 | Eri Kka |
@@ -760,7 +760,7 @@
 | 752 | 163 | kaeliwyn |
 | 753 | 162 | Smiley Tiltbuilder |
 | 754 | 162 | Beenbreto |
-| 755 | 162 | Smiley Tiltbuilder |
+| 755 | 162 | Cheery Gridlock |
 | 756 | 161 | Pampam |
 | 757 | 161 | Clinton Jacob |
 | 758 | 161 | IDK |
