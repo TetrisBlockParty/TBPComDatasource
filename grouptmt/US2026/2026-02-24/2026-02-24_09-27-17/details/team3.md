@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -106,8 +106,8 @@
 | 98 | 1361 | Patricia Gadsden |
 | 99 | 1343 | Joey Banks |
 | 100 | 1320 | Kristie |
-| 101 | 1318 | Tiff Vs Tiffany |
-| 102 | 1318 | Diana Ibarra |
+| 101 | 1318 | Diana Ibarra |
+| 102 | 1318 | Tiff Vs Tiffany |
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
@@ -184,8 +184,8 @@
 | 176 | 857 | Dana Fox |
 | 177 | 856 | Dana Winters |
 | 178 | 854 | Speedy Bridger |
-| 179 | 847 | Daira Largen |
-| 180 | 847 | Daring Brickzone |
+| 179 | 847 | Daring Brickzone |
+| 180 | 847 | Daira Largen |
 | 181 | 846 | Nicole Myers |
 | 182 | 842 | Alexmac |
 | 183 | 829 | Patricia White |
@@ -196,8 +196,8 @@
 | 188 | 815 | Justin Ritter |
 | 189 | 813 | JessDrown |
 | 190 | 808 | Raya |
-| 191 | 804 | Alaina Lee |
-| 192 | 804 | Gideon Walker |
+| 191 | 804 | Gideon Walker |
+| 192 | 804 | Alaina Lee |
 | 193 | 800 | Lauren Girouard |
 | 194 | 799 | Trisha Balmer |
 | 195 | 792 | Rachel Grant |
@@ -285,8 +285,8 @@
 | 277 | 594 | Cozy Snaplink |
 | 278 | 593 | Marci Mize Fandrich |
 | 279 | 588 | Salena Whitlock |
-| 280 | 586 | Donna |
-| 281 | 586 | Brian Battjes |
+| 280 | 586 | Brian Battjes |
+| 281 | 586 | Donna |
 | 282 | 582 | FuzzyNavel |
 | 283 | 581 | Crystal Hine |
 | 284 | 578 | James Mitchell |
@@ -379,17 +379,17 @@
 | 371 | 443 | Christian Werndl |
 | 372 | 442 | Loopy Fallzone |
 | 373 | 438 | Dannie Litchard |
-| 374 | 436 | AC Yeater |
-| 375 | 436 | Julie Fratrik |
+| 374 | 436 | Julie Fratrik |
+| 375 | 436 | AC Yeater |
 | 376 | 435 | Sabrina Hardrick |
 | 377 | 434 | Criss |
-| 378 | 432 | Justice 4 P |
-| 379 | 432 | Sabrina Mansfield |
-| 380 | 432 | Hoppy Patternline |
+| 378 | 432 | Hoppy Patternline |
+| 379 | 432 | Justice 4 P |
+| 380 | 432 | Sabrina Mansfield |
 | 381 | 431 | Goofy Fall |
 | 382 | 431 | Donna Esbensen-Alpini |
-| 383 | 430 | AlsoJess |
-| 384 | 430 | Quackers |
+| 383 | 430 | Quackers |
+| 384 | 430 | AlsoJess |
 | 385 | 428 | Samantha Lynn |
 | 386 | 428 | Skinny Baldez |
 | 387 | 427 | Darlene McMillan |
@@ -542,9 +542,9 @@
 | 534 | 328 | Cesar Mendez |
 | 535 | 327 | Taylor Hood |
 | 536 | 327 | Jess Bissett |
-| 537 | 326 | Beppy |
+| 537 | 326 | Eric Caccavale |
 | 538 | 326 | Natalie Augustus |
-| 539 | 326 | Eric Caccavale |
+| 539 | 326 | Beppy |
 | 540 | 324 | Paul Daniel Quertermous |
 | 541 | 323 | sofaking |
 | 542 | 323 | Carla Hoffman |
@@ -732,8 +732,8 @@
 | 724 | 260 | Josh Borquez |
 | 725 | 260 | Kristen McAlpine |
 | 726 | 260 | Plucky Frame |
-| 727 | 259 | Shania Vaine |
-| 728 | 259 | Tammy |
+| 727 | 259 | Tammy |
+| 728 | 259 | Shania Vaine |
 | 729 | 258 | Dawn Nicole |
 | 730 | 258 | Spicy Buildout |
 | 731 | 257 | Justin Ernst |

@@ -147,8 +147,8 @@
 | 139 | 628 | Trina Gee |
 | 140 | 626 | Damon J. Martin |
 | 141 | 620 | Ty Brown |
-| 142 | 618 | Ryan Lunnin |
-| 143 | 618 | femmefatale |
+| 142 | 618 | femmefatale |
+| 143 | 618 | Ryan Lunnin |
 | 144 | 611 | Evan Richmond |
 | 145 | 609 | Basment Living |
 | 146 | 608 | Tipsy Riseclear |
@@ -297,8 +297,8 @@
 | 289 | 373 | Frothy Pattern |
 | 290 | 372 | Wayne Saunders |
 | 291 | 372 | Dizzy Party |
-| 292 | 371 | Danielle S Kester |
-| 293 | 371 | Jaimie Lynn |
+| 292 | 371 | Jaimie Lynn |
+| 293 | 371 | Danielle S Kester |
 | 294 | 370 | Gracie |
 | 295 | 369 | Keith Mathis |
 | 296 | 367 | Cheeky Pop |
@@ -706,7 +706,7 @@
 | 698 | 179 | Ward Leandrea |
 | 699 | 179 | Ryan White |
 | 700 | 178 | Robin Burress |
-| 701 | 178 | Kendra Powell |
+| 701 | 178 | Archie Ware |
 | 702 | 178 | Gabrielle Louise Malloch |
 | 703 | 178 | Camio30 |
 | 704 | 178 | Kendra Powell |
