@@ -109,8 +109,8 @@
 | 101 | 706 | Denice Dee |
 | 102 | 706 | Plucky Fallzone |
 | 103 | 703 | Angel Fowler |
-| 104 | 691 | Krista Young |
-| 105 | 691 | Rachael |
+| 104 | 691 | Rachael |
+| 105 | 691 | Krista Young |
 | 106 | 690 | Melissa Lemmon |
 | 107 | 672 | Tdub |
 | 108 | 671 | Chirpy Smasher |
@@ -234,8 +234,8 @@
 | 226 | 398 | MommaKFC |
 | 227 | 396 | Sam Williams |
 | 228 | 395 | Monica Donato |
-| 229 | 393 | Lehrin Maria |
-| 230 | 393 | Wisa |
+| 229 | 393 | Wisa |
+| 230 | 393 | Lehrin Maria |
 | 231 | 389 | Howdi Duty |
 | 232 | 386 | Brian Spotts |
 | 233 | 384 | Tami Luce Martin |
@@ -283,8 +283,8 @@
 | 275 | 352 | Jamie Jury |
 | 276 | 349 | Rodney Schmerfeld |
 | 277 | 349 | Cool Shiftsnap |
-| 278 | 348 | John Kim |
-| 279 | 348 | DoodleBug |
+| 278 | 348 | DoodleBug |
+| 279 | 348 | John Kim |
 | 280 | 347 | ParisandCory Champagne |
 | 281 | 346 | build master |
 | 282 | 344 | Letson Melissa |
@@ -294,8 +294,8 @@
 | 286 | 341 | Colleen Pinette |
 | 287 | 341 | Standia Civil |
 | 288 | 341 | Nick R Montague |
-| 289 | 340 | Robert |
-| 290 | 340 | Danielle Little-Daugherty |
+| 289 | 340 | Danielle Little-Daugherty |
+| 290 | 340 | Robert |
 | 291 | 338 | Layzietyme |
 | 292 | 337 | Tipsy Builder |
 | 293 | 337 | Larissa Marie Nelson |

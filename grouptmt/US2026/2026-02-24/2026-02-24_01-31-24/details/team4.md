@@ -26,8 +26,8 @@
 | 18 | 2365 | Elizabeth Sallas |
 | 19 | 2002 | Misty Hollibaugh |
 | 20 | 1962 | Cool Buildout |
-| 21 | 1775 | Dustin Robert |
-| 22 | 1775 | Ash |
+| 21 | 1775 | Ash |
+| 22 | 1775 | Dustin Robert |
 | 23 | 1764 | Jason Allen |
 | 24 | 1742 | Ancient Intuition |
 | 25 | 1706 | Ayanna Soto |
@@ -397,8 +397,8 @@
 | 389 | 264 | AyeKay |
 | 390 | 264 | Shh |
 | 391 | 263 | Laurmarcar |
-| 392 | 262 | Brave Spinbuilder |
-| 393 | 262 | Ruben Wheeler |
+| 392 | 262 | Ruben Wheeler |
+| 393 | 262 | Brave Spinbuilder |
 | 394 | 262 | Lilya Troutman |
 | 395 | 261 | Laura McPheeters |
 | 396 | 261 | L Bear Champion |

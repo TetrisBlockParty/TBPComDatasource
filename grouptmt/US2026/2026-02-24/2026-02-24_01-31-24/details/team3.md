@@ -62,8 +62,8 @@
 | 54 | 1765 | Leah Barnett |
 | 55 | 1754 | Nate Burnside |
 | 56 | 1739 | Tina Kay |
-| 57 | 1734 | Fancy Slam |
-| 58 | 1734 | Aaron Pitkin |
+| 57 | 1734 | Aaron Pitkin |
+| 58 | 1734 | Fancy Slam |
 | 59 | 1732 | Jessica Ann |
 | 60 | 1709 | Jd Morris |
 | 61 | 1691 | Cass Mendoza |
@@ -406,8 +406,8 @@
 | 398 | 366 | Rick Poppen |
 | 399 | 365 | Romeo |
 | 400 | 363 | Denise Marie |
-| 401 | 362 | Brandon Givens |
-| 402 | 362 | Geoffrey Nash |
+| 401 | 362 | Geoffrey Nash |
+| 402 | 362 | Brandon Givens |
 | 403 | 360 | Ashley Rufus Bythcez |
 | 404 | 360 | xsiv |
 | 405 | 360 | Alexi Pryor |
@@ -498,8 +498,8 @@
 | 490 | 312 | Carol Cain Thurman |
 | 491 | 311 | Aponk |
 | 492 | 311 | Irene Arreguin |
-| 493 | 310 | Trice Sodames |
-| 494 | 310 | Kristi Taylor |
+| 493 | 310 | Kristi Taylor |
+| 494 | 310 | Trice Sodames |
 | 495 | 309 | Nikkie Bucciano |
 | 496 | 308 | Grams |
 | 497 | 308 | Bryan Byrd |
@@ -591,8 +591,8 @@
 | 583 | 275 | Mariah Williams |
 | 584 | 275 | Bnoom |
 | 585 | 274 | Gina Marie |
-| 586 | 273 | Kevin Fountain |
-| 587 | 273 | Jason |
+| 586 | 273 | Jason |
+| 587 | 273 | Kevin Fountain |
 | 588 | 273 | Michael Latasha Gray |
 | 589 | 272 | James Lykes |
 | 590 | 272 | Brysten Green |
