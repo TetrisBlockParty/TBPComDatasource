@@ -128,8 +128,8 @@
 | 120 | 1084 | Santana Lantana |
 | 121 | 1082 | Valerie Gendron |
 | 122 | 1067 | DaBigGuy |
-| 123 | 1066 | Demetrious Shaw Sr. |
-| 124 | 1066 | Jennifer |
+| 123 | 1066 | Jennifer |
+| 124 | 1066 | Demetrious Shaw Sr. |
 | 125 | 1065 | Rachel |
 | 126 | 1058 | Katrina Schroeder |
 | 127 | 1055 | Christine Trester |
@@ -417,8 +417,8 @@
 | 409 | 387 | Brittany K Ward |
 | 410 | 386 | Swanky Frame |
 | 411 | 384 | Tiffany Davie |
-| 412 | 383 | Jessica Christian |
-| 413 | 383 | Kirhonda Autmon |
+| 412 | 383 | Kirhonda Autmon |
+| 413 | 383 | Jessica Christian |
 | 414 | 381 | Sabrina Mansfield |
 | 415 | 381 | Mary Giorgenti |
 | 416 | 380 | neci |

@@ -125,8 +125,8 @@
 | 117 | 735 | Nugget |
 | 118 | 731 | KJ Pool |
 | 119 | 729 | Jamie Mann-Deichmann |
-| 120 | 726 | Amy Suckarieh |
-| 121 | 726 | Jamie Gustafson |
+| 120 | 726 | Jamie Gustafson |
+| 121 | 726 | Amy Suckarieh |
 | 122 | 725 | Brandon Crabbs |
 | 123 | 718 | Zippy Gridlock |
 | 124 | 712 | H.R. Block |
@@ -225,8 +225,8 @@
 | 217 | 462 | Leslie Thomas |
 | 218 | 460 | Kathy Brookins |
 | 219 | 458 | Kristina Black |
-| 220 | 457 | J-Rizzle |
-| 221 | 457 | Kristin Manee |
+| 220 | 457 | Kristin Manee |
+| 221 | 457 | J-Rizzle |
 | 222 | 456 | shark tato |
 | 223 | 455 | Michele Plunkett |
 | 224 | 454 | Keshia Lyons |
