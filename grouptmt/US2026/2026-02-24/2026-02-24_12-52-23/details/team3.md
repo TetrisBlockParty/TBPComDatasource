@@ -32,8 +32,8 @@
 | 24 | 3221 | Ashley Jones |
 | 25 | 3118 | Jamie Lang |
 | 26 | 3042 | Nerdy Spinblock |
-| 27 | 2933 | Dan Rob |
-| 28 | 2933 | Grego Daniel |
+| 27 | 2933 | Grego Daniel |
+| 28 | 2933 | Dan Rob |
 | 29 | 2874 | Zippy Strikesnap |
 | 30 | 2873 | Chummy Shatterer |
 | 31 | 2816 | Fancy Slam |
@@ -169,8 +169,8 @@
 | 161 | 928 | Edwin Calvillo Jr. |
 | 162 | 927 | Rochelle Hazelett |
 | 163 | 925 | Cherry Parker |
-| 164 | 914 | Staci George Fitzsimmons |
-| 165 | 914 | BadManSheLove |
+| 164 | 914 | BadManSheLove |
+| 165 | 914 | Staci George Fitzsimmons |
 | 166 | 910 | opf |
 | 167 | 906 | Patti Skiles |
 | 168 | 899 | Jaime Monhaut-Reed |
@@ -182,8 +182,8 @@
 | 174 | 876 | Kiki |
 | 175 | 875 | Chasity |
 | 176 | 874 | Jessica Pineda-Lopez |
-| 177 | 868 | Nicole Flippo |
-| 178 | 868 | Cranky Gridder |
+| 177 | 868 | Cranky Gridder |
+| 178 | 868 | Nicole Flippo |
 | 179 | 866 | Domo Washington |
 | 180 | 862 | Santeria Trece Candles |
 | 181 | 858 | Nicole Myers |
@@ -238,8 +238,8 @@
 | 230 | 715 | Betty Bóò |
 | 231 | 714 | Jenny Hrndz |
 | 232 | 713 | Stephanie Blkpep Davidson |
-| 233 | 709 | Cynthia Castros-Hampton |
-| 234 | 709 | Christine Niles |
+| 233 | 709 | Christine Niles |
+| 234 | 709 | Cynthia Castros-Hampton |
 | 235 | 708 | Stephanie Bradley |
 | 236 | 707 | Snappy Balancer |
 | 237 | 705 | Jackie Miller |
@@ -270,8 +270,8 @@
 | 262 | 637 | Giddy Twistbuilder |
 | 263 | 636 | Salena Whitlock |
 | 264 | 635 | Amber Hughes |
-| 265 | 633 | Rebecca Funderburk Kirby |
-| 266 | 633 | Jillian Symons |
+| 265 | 633 | Jillian Symons |
+| 266 | 633 | Rebecca Funderburk Kirby |
 | 267 | 632 | Rebecca Bailey |
 | 268 | 629 | rnr junky |
 | 269 | 627 | Juliana Dottore |
@@ -611,8 +611,8 @@
 | 603 | 311 | Irene Arreguin |
 | 604 | 309 | Jumpy Curvebuilder |
 | 605 | 309 | Daisy Rocha |
-| 606 | 308 | Katie Leigh Blankenship |
-| 607 | 308 | Stephanie Hill |
+| 606 | 308 | Quirky Dropzone |
+| 607 | 308 | Katie Leigh Blankenship |
 | 608 | 308 | Bryan Byrd |
 | 609 | 308 | Stephanie Hill |
 | 610 | 307 | Quirky Snapfit |
@@ -968,7 +968,7 @@
 | 960 | 206 | IamPJ |
 | 961 | 206 | MiniLinni |
 | 962 | 206 | Sassy Column |
-| 963 | 206 | MiniLinni |
+| 963 | 206 | Wancharlene Hercules |
 | 964 | 206 | Shelly Marie Lloyd |
 | 965 | 205 | MDJM |
 | 966 | 205 | Polopypy |

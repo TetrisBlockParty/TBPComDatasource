@@ -81,8 +81,8 @@
 | 73 | 1080 | Chilly Line |
 | 74 | 1069 | Heather Tushner |
 | 75 | 1056 | Keith Kelley |
-| 76 | 1046 | Anthony Bryan Riva |
-| 77 | 1046 | Johnathan Martinez |
+| 76 | 1046 | Johnathan Martinez |
+| 77 | 1046 | Anthony Bryan Riva |
 | 78 | 1028 | TeeJ |
 | 79 | 1024 | Valerie Roberts |
 | 80 | 1017 | Jeremy Steines |
@@ -110,8 +110,8 @@
 | 102 | 840 | SAP |
 | 103 | 838 | Amy Suckarieh |
 | 104 | 837 | Rica Mitchell |
-| 105 | 834 | quicksand420 |
-| 106 | 834 | Brittney Orengo |
+| 105 | 834 | Brittney Orengo |
+| 106 | 834 | quicksand420 |
 | 107 | 818 | Lori Walker |
 | 108 | 813 | Klo |
 | 109 | 811 | Sassy Pattern |
@@ -239,8 +239,8 @@
 | 231 | 472 | Plucky Patternblock |
 | 232 | 468 | scott |
 | 233 | 465 | Leslie Thomas |
-| 234 | 464 | Zakia Monae |
-| 235 | 464 | Calvin Cannon |
+| 234 | 464 | Calvin Cannon |
+| 235 | 464 | Zakia Monae |
 | 236 | 463 | shark tato |
 | 237 | 462 | Crystal Nicolette Moore |
 | 238 | 461 | Michele Plunkett |
@@ -286,8 +286,8 @@
 | 278 | 410 | KimoKoala |
 | 279 | 410 | Lindsay Ball |
 | 280 | 409 | Antony Dwayne Beasley |
-| 281 | 408 | Dihcheese444 |
-| 282 | 408 | Neirrah B Olailjeel |
+| 281 | 408 | Neirrah B Olailjeel |
+| 282 | 408 | Dihcheese444 |
 | 283 | 407 | Hyper Builder |
 | 284 | 402 | Nita Wells |
 | 285 | 402 | Maria Hammie |

@@ -215,8 +215,8 @@
 | 207 | 1853 | Kristopher Miller |
 | 208 | 1845 | Katrina Weston |
 | 209 | 1840 | blarg |
-| 210 | 1838 | Joyce Johnson Vaughn |
-| 211 | 1838 | Matthew Joseph Acevedo |
+| 210 | 1838 | Matthew Joseph Acevedo |
+| 211 | 1838 | Joyce Johnson Vaughn |
 | 212 | 1826 | Dee |
 | 213 | 1825 | Marie Boyd Faulk |
 | 214 | 1823 | Lauren Fitzgerald Thomas |
@@ -226,8 +226,8 @@
 | 218 | 1807 | Osun Anuket Esu |
 | 219 | 1787 | Teddi Notyalc |
 | 220 | 1786 | Eric Carlson |
-| 221 | 1775 | Sommer Shope |
-| 222 | 1775 | Eboni Banks |
+| 221 | 1775 | Eboni Banks |
+| 222 | 1775 | Sommer Shope |
 | 223 | 1774 | Nerdy Pattern |
 | 224 | 1772 | Moose Griffith |
 | 225 | 1769 | Ryan Stadel |
@@ -364,8 +364,8 @@
 | 356 | 1262 | Toni Roberson |
 | 357 | 1261 | Becca Coronado |
 | 358 | 1259 | AkaLefty |
-| 359 | 1257 | Megan Ferguson Leone |
-| 360 | 1257 | Megan Garrick |
+| 359 | 1257 | Megan Garrick |
+| 360 | 1257 | Megan Ferguson Leone |
 | 361 | 1257 | Jackie Lucas |
 | 362 | 1256 | Belle |
 | 363 | 1256 | Phil J. Grombliniak |
@@ -408,8 +408,8 @@
 | 400 | 1172 | Min |
 | 401 | 1171 | Loretta Brewer-Gage |
 | 402 | 1170 | Shelley Thornburgh Wright |
-| 403 | 1163 | Caitlin Schmid |
-| 404 | 1163 | Sarah DeHart |
+| 403 | 1163 | Sarah DeHart |
+| 404 | 1163 | Caitlin Schmid |
 | 405 | 1160 | Ashley Guernsey-Martin |
 | 406 | 1158 | Brittany Clark |
 | 407 | 1153 | Spunkysmom |
@@ -553,8 +553,8 @@
 | 545 | 938 | Hershey Eastman |
 | 546 | 936 | Angie Bolton Workman |
 | 547 | 931 | Felicia Lynn |
-| 548 | 928 | Venita Ray |
-| 549 | 928 | Moni Foxe |
+| 548 | 928 | Moni Foxe |
+| 549 | 928 | Venita Ray |
 | 550 | 927 | Anthony Huebel |
 | 551 | 925 | blume |
 | 552 | 925 | Cris cris |
@@ -801,7 +801,7 @@
 | 793 | 703 | cornball |
 | 794 | 703 | Funky Drop |
 | 795 | 702 | Brittney Jean |
-| 796 | 701 | Frank Castle |
+| 796 | 701 | Atara James |
 | 797 | 701 | Aishah Brice |
 | 798 | 701 | Frank Castle |
 | 799 | 700 | Vincent Petrella |
@@ -879,13 +879,13 @@
 | 871 | 662 | Greenshades00 |
 | 872 | 662 | Casaundra Little-Abeling |
 | 873 | 662 | Belle Mari |
-| 874 | 661 | Chab |
-| 875 | 661 | Kristina Marie Hanna |
+| 874 | 661 | Kristina Marie Hanna |
+| 875 | 661 | Chab |
 | 876 | 660 | Jenna Nance |
 | 877 | 660 | Shelva Richard |
 | 878 | 659 | Rain |
-| 879 | 656 | Synn |
-| 880 | 656 | Emilie Desma |
+| 879 | 656 | Emilie Desma |
+| 880 | 656 | Synn |
 | 881 | 655 | Lively Piecebuilder |
 | 882 | 655 | dionia |
 | 883 | 654 | David Duncan |
@@ -911,8 +911,8 @@
 | 903 | 644 | Kevin Luu |
 | 904 | 643 | Rae Rae |
 | 905 | 642 | Lewis Sturgeon |
-| 906 | 641 | Happy Tile |
-| 907 | 641 | Snappy Faller |
+| 906 | 641 | Snappy Faller |
+| 907 | 641 | Happy Tile |
 | 908 | 640 | Taylor Flowers |
 | 909 | 639 | Connie Lepore-Mann |
 | 910 | 639 | Libby Hicks |
