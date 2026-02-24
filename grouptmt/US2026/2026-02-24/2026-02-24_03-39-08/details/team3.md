@@ -127,8 +127,8 @@
 | 119 | 1084 | Santana Lantana |
 | 120 | 1082 | Valerie Gendron |
 | 121 | 1067 | DaBigGuy |
-| 122 | 1066 | Demetrious Shaw Sr. |
-| 123 | 1066 | Jennifer |
+| 122 | 1066 | Jennifer |
+| 123 | 1066 | Demetrious Shaw Sr. |
 | 124 | 1065 | Rachel |
 | 125 | 1055 | Christine Trester |
 | 126 | 1050 | Sherika C. McDaniels |
@@ -192,8 +192,8 @@
 | 184 | 777 | Daryn Elliott |
 | 185 | 774 | ren |
 | 186 | 773 | Daira Largen |
-| 187 | 772 | Twisty Brick LT |
-| 188 | 772 | Tye Stovall |
+| 187 | 772 | Tye Stovall |
+| 188 | 772 | Twisty Brick LT |
 | 189 | 769 | Hasty Cascadefit |
 | 190 | 764 | Cyd061769 |
 | 191 | 763 | Tasha Gillespie |

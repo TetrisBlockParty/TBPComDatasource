@@ -45,8 +45,8 @@
 | 37 | 1408 | Amanda Summey Schoemer |
 | 38 | 1405 | Chipper Gridlock |
 | 39 | 1391 | Aaron Garnett |
-| 40 | 1334 | Tyler Alcock |
-| 41 | 1334 | june october |
+| 40 | 1334 | june october |
+| 41 | 1334 | Tyler Alcock |
 | 42 | 1321 | Drew Magnus |
 | 43 | 1284 | Marianne Louise West |
 | 44 | 1261 | Hasbro Bros |
@@ -315,8 +315,8 @@
 | 307 | 336 | Sarah Roberts |
 | 308 | 335 | Dreamy Drop |
 | 309 | 334 | Nate Price |
-| 310 | 333 | Irv |
-| 311 | 333 | Wayne Saunders |
+| 310 | 333 | Wayne Saunders |
+| 311 | 333 | Irv |
 | 312 | 331 | Lisa Miller |
 | 313 | 330 | LaFontaine Leslie |
 | 314 | 330 | Mandyy Rae |
