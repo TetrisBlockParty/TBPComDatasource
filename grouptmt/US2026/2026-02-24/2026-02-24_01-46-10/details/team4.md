@@ -95,8 +95,8 @@
 | 87 | 847 | Chilly Line |
 | 88 | 846 | Christine Marie |
 | 89 | 841 | Shauna Havard |
-| 90 | 840 | Chaz Duncan |
-| 91 | 834 | quicksand420 |
+| 90 | 834 | quicksand420 |
+| 91 | 828 | Chaz Duncan |
 | 92 | 826 | Rica Mitchell |
 | 93 | 811 | Sassy Pattern |
 | 94 | 806 | Lori Walker |
@@ -219,8 +219,8 @@
 | 211 | 450 | Amanda Pauldo-Ivy |
 | 212 | 449 | Danielle Kollias |
 | 213 | 446 | Mr. Party |
-| 214 | 444 | J-Rizzle |
-| 215 | 444 | Calvin Cannon |
+| 214 | 444 | Calvin Cannon |
+| 215 | 444 | J-Rizzle |
 | 216 | 443 | Kristina Black |
 | 217 | 442 | 🥔🥔 Spudz |
 | 218 | 441 | Lush Linkfall |
@@ -228,8 +228,8 @@
 | 220 | 439 | Jen Mattei |
 | 221 | 438 | Melvin Baird |
 | 222 | 434 | Ramel Rhodes |
-| 223 | 433 | Circuit8 |
-| 224 | 433 | Damn Libra |
+| 223 | 433 | Damn Libra |
+| 224 | 433 | Circuit8 |
 | 225 | 430 | Plucky Patternblock |
 | 226 | 427 | Chao Ma |
 | 227 | 426 | John Brunetti |
@@ -260,12 +260,12 @@
 | 252 | 383 | JPW |
 | 253 | 382 | Sue Joyce Staats |
 | 254 | 381 | Rafael Valentin |
-| 255 | 380 | Rio Rocha |
-| 256 | 380 | shark tato |
+| 255 | 380 | shark tato |
+| 256 | 380 | Rio Rocha |
 | 257 | 379 | Backoff Recupe |
-| 258 | 378 | Mary Ann Pabukis |
-| 259 | 378 | Googenheim |
-| 260 | 378 | Holly Jolly |
+| 258 | 378 | Googenheim |
+| 259 | 378 | Holly Jolly |
+| 260 | 378 | Mary Ann Pabukis |
 | 261 | 376 | Nig |
 | 262 | 372 | Aden Moss |
 | 263 | 371 | Joeliecea Cobb |
