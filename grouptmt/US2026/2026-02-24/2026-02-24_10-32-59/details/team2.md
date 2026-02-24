@@ -303,8 +303,8 @@
 | 295 | 1415 | Maria Escobar |
 | 296 | 1408 | Doowop40 |
 | 297 | 1407 | Lola C Davis |
-| 298 | 1397 | Tralonda Weeks |
-| 299 | 1397 | Christina Walker |
+| 298 | 1397 | Christina Walker |
+| 299 | 1397 | Tralonda Weeks |
 | 300 | 1392 | Karen Snyder Schrage |
 | 301 | 1391 | Kimberly Hauck-Rausch |
 | 302 | 1391 | Ronnie Nelson |
@@ -328,8 +328,8 @@
 | 320 | 1342 | Groovy Puzzle |
 | 321 | 1342 | Kelly A Green-Leach |
 | 322 | 1341 | Cassie Mercer |
-| 323 | 1338 | Diallo Sparkman |
-| 324 | 1338 | Meghan M |
+| 323 | 1338 | Meghan M |
+| 324 | 1338 | Diallo Sparkman |
 | 325 | 1336 | Frothy Rumbler |
 | 326 | 1334 | Jamie Otero |
 | 327 | 1333 | nikki |
@@ -436,8 +436,8 @@
 | 428 | 1088 | BK Queen |
 | 429 | 1087 | Cindy Sechler Taninecz |
 | 430 | 1087 | Jenn Marie |
-| 431 | 1085 | Bee |
-| 432 | 1085 | Barbra Miller |
+| 431 | 1085 | Barbra Miller |
+| 432 | 1085 | Bee |
 | 433 | 1084 | William Hunt |
 | 434 | 1084 | Emilee Burke |
 | 435 | 1082 | Thomas Hedrick |
@@ -474,9 +474,9 @@
 | 466 | 1031 | Darla Silva |
 | 467 | 1031 | William Bresee |
 | 468 | 1025 | Ann Matzkanin |
-| 469 | 1024 | KrisCynthia Lynette |
-| 470 | 1024 | Susan Perraut Jones |
-| 471 | 1024 | Tiara Elizabeth Baker |
+| 469 | 1024 | Tiara Elizabeth Baker |
+| 470 | 1024 | KrisCynthia Lynette |
+| 471 | 1024 | Susan Perraut Jones |
 | 472 | 1022 | Jackie Burnett |
 | 473 | 1019 | Glitzy Rollblock |
 | 474 | 1018 | Donna M Carter |
@@ -998,8 +998,8 @@
 | 990 | 589 | Sharon Madeiros |
 | 991 | 588 | Wayne Fields |
 | 992 | 587 | Alexx Anaya |
-| 993 | 586 | Tracy Wise Moon |
-| 994 | 586 | Cat Thompson |
+| 993 | 586 | Cat Thompson |
+| 994 | 586 | Tracy Wise Moon |
 | 995 | 586 | Tra Barnum |
 | 996 | 585 | Danielle DeLozier Plesec |
 | 997 | 585 | Laquetta Royston |
@@ -1041,8 +1041,8 @@
 | 1033 | 570 | MauroPRM |
 | 1034 | 570 | Erika Deer Kauffman |
 | 1035 | 570 | Sonya Back |
-| 1036 | 569 | Anita Rose Green |
-| 1037 | 569 | Sparkles |
+| 1036 | 569 | Sparkles |
+| 1037 | 569 | Anita Rose Green |
 | 1038 | 569 | bosswoman |
 | 1039 | 568 | coleksquad |
 | 1040 | 567 | Lucero Ramirez |
@@ -1077,8 +1077,8 @@
 | 1069 | 554 | Asha Nichols-Collins |
 | 1070 | 554 | Dusti Rose Bingham |
 | 1071 | 553 | Sar Mo |
-| 1072 | 553 | Jason Kelly |
-| 1073 | 553 | ruth |
+| 1072 | 553 | ruth |
+| 1073 | 553 | Jason Kelly |
 | 1074 | 552 | Boozi |
 | 1075 | 552 | Savannah Alexander |
 | 1076 | 552 | Heather Johnson |
@@ -1309,8 +1309,8 @@
 | 1301 | 470 | Arlet Alba |
 | 1302 | 470 | Deana |
 | 1303 | 469 | Ubu |
-| 1304 | 469 | Bigg Meezy |
-| 1305 | 469 | William Newcomb |
+| 1304 | 469 | William Newcomb |
+| 1305 | 469 | Bigg Meezy |
 | 1306 | 467 | Tanisha Virgo |
 | 1307 | 467 | Donald Nowland |
 | 1308 | 466 | Jeannine Fennell |
