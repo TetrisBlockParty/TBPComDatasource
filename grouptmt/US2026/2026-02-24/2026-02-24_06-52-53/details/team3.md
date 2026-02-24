@@ -171,16 +171,16 @@
 | 163 | 875 | Chasity |
 | 164 | 874 | Jessica Pineda-Lopez |
 | 165 | 871 | Rochelle Hazelett |
-| 166 | 868 | Nicole Flippo |
-| 167 | 868 | Cranky Gridder |
+| 166 | 868 | Cranky Gridder |
+| 167 | 868 | Nicole Flippo |
 | 168 | 866 | Domo Washington |
 | 169 | 864 | Sunny Rotater |
 | 170 | 862 | Santeria Trece Candles |
 | 171 | 857 | Dana Fox |
 | 172 | 856 | Dana Winters |
 | 173 | 854 | Speedy Bridger |
-| 174 | 847 | Daira Largen |
-| 175 | 847 | Daring Brickzone |
+| 174 | 847 | Daring Brickzone |
+| 175 | 847 | Daira Largen |
 | 176 | 846 | Nicole Myers |
 | 177 | 845 | Edwin Calvillo Jr. |
 | 178 | 821 | Kammy Hill |
@@ -298,8 +298,8 @@
 | 290 | 547 | Aerian Preston |
 | 291 | 546 | lashanda |
 | 292 | 542 | France Vézina |
-| 293 | 541 | Gray Hicks |
-| 294 | 541 | Mcathen |
+| 293 | 541 | Mcathen |
+| 294 | 541 | Gray Hicks |
 | 295 | 540 | rosy |
 | 296 | 540 | Tanya Kittrell |
 | 297 | 539 | Fancy Curver |
@@ -390,8 +390,8 @@
 | 382 | 426 | Christina Rotz Shows |
 | 383 | 425 | Ava Petito |
 | 384 | 423 | Dapper Liney |
-| 385 | 419 | Desiree Gold |
-| 386 | 419 | Philip Rock |
+| 385 | 419 | Philip Rock |
+| 386 | 419 | Desiree Gold |
 | 387 | 419 | Maggie |
 | 388 | 418 | Rainbow77375 |
 | 389 | 416 | Tay |
@@ -426,11 +426,11 @@
 | 418 | 383 | Jessica Christian |
 | 419 | 383 | Kirhonda Autmon |
 | 420 | 381 | Mary Giorgenti |
-| 421 | 380 | neci |
+| 421 | 380 | Geoffrey Nash |
 | 422 | 380 | Foltz Lee Kelli |
-| 423 | 380 | Geoffrey Nash |
-| 424 | 378 | Ashley Lynn Marchese |
-| 425 | 378 | Samantha Worley |
+| 423 | 380 | neci |
+| 424 | 378 | Samantha Worley |
+| 425 | 378 | Ashley Lynn Marchese |
 | 426 | 377 | Paula Little |
 | 427 | 376 | Romeo |
 | 428 | 376 | Brittany |
@@ -628,8 +628,8 @@
 | 620 | 286 | Frilly Stackzone |
 | 621 | 285 | Jumpy Wrecker |
 | 622 | 285 | Kate Farok |
-| 623 | 284 | Maria Ramos |
-| 624 | 284 | Hanna Kim |
+| 623 | 284 | Hanna Kim |
+| 624 | 284 | Maria Ramos |
 | 625 | 282 | Karla Phillips |
 | 626 | 282 | Lisa Ann |
 | 627 | 282 | Cheeky Twisterfit |
@@ -1103,7 +1103,7 @@
 | 1095 | 174 | get et |
 | 1096 | 173 | Clever Wobbler |
 | 1097 | 172 | Jennifer Blake |
-| 1098 | 172 | Anna McGee |
+| 1098 | 172 | Dawn Jacobs |
 | 1099 | 172 | Nicole Summers-Nelson |
 | 1100 | 172 | Anna McGee |
 | 1101 | 172 | Tenisha Semidey |
