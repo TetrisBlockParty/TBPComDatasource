@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 13:25:25 UTC
+# Standings for team1 as of 2026-02-24 13:26:25 UTC
 
 **Total Participants:** 2251
 
@@ -67,8 +67,8 @@
 | 59 | 1214 | Amy Griffith |
 | 60 | 1191 | Nerdy Linkblock |
 | 61 | 1187 | Carrie Beck Geartz |
-| 62 | 1180 | Shalene Frederick Autrey |
-| 63 | 1178 | TSwag |
+| 62 | 1182 | TSwag |
+| 63 | 1180 | Shalene Frederick Autrey |
 | 64 | 1178 | Adam Byrd |
 | 65 | 1177 | Tipsy Column |
 | 66 | 1174 | And |
@@ -352,17 +352,17 @@
 | 344 | 345 | Nathan Sealander |
 | 345 | 344 | dhardy |
 | 346 | 344 | Buttons Stemm |
-| 347 | 343 | ESC |
-| 348 | 342 | Marianita Garcia |
+| 347 | 343 | LaFontaine Leslie |
+| 348 | 343 | ESC |
 | 349 | 342 | Matt Iaccheo |
 | 350 | 342 | Michael |
-| 351 | 340 | san |
-| 352 | 340 | Nutty Spinblock |
-| 353 | 340 | LaFontaine Leslie |
+| 351 | 342 | Marianita Garcia |
+| 352 | 340 | san |
+| 353 | 340 | Nutty Spinblock |
 | 354 | 339 | Tipsy Builder |
 | 355 | 338 | Layzietyme |
-| 356 | 337 | Jeremy Maubert |
-| 357 | 337 | Chaste Minor |
+| 356 | 337 | Chaste Minor |
+| 357 | 337 | Jeremy Maubert |
 | 358 | 336 | Mrs.Patrica |
 | 359 | 335 | Glitzy Curvebuilder |
 | 360 | 334 | Nate Price |
