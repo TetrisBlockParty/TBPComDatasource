@@ -69,8 +69,8 @@
 | 61 | 1116 | Ashley Ingram |
 | 62 | 1098 | BertMofo |
 | 63 | 1089 | Alyssa Papen |
-| 64 | 1082 | Avy Absol |
-| 65 | 1082 | Dion Crommarty |
+| 64 | 1082 | Dion Crommarty |
+| 65 | 1082 | Avy Absol |
 | 66 | 1075 | Dustee Craddock-Harrison |
 | 67 | 1069 | Heather Tushner |
 | 68 | 1047 | Julian Garcia |
@@ -165,8 +165,8 @@
 | 157 | 578 | Livvy |
 | 158 | 576 | Jade Rian |
 | 159 | 575 | Jenna Ingersoll |
-| 160 | 574 | Carlos Ramirez |
-| 161 | 574 | Carmethia Clemons Haslerig |
+| 160 | 574 | Carmethia Clemons Haslerig |
+| 161 | 574 | Carlos Ramirez |
 | 162 | 568 | Cindy Looper |
 | 163 | 567 | Rico |
 | 164 | 565 | Ren Mc |
@@ -215,8 +215,8 @@
 | 207 | 473 | Jolly Dashfit |
 | 208 | 473 | Cranky Rollpiece |
 | 209 | 465 | June Hoffman |
-| 210 | 462 | Leslie Thomas |
-| 211 | 462 | Crystal Nicolette Moore |
+| 210 | 462 | Crystal Nicolette Moore |
+| 211 | 462 | Leslie Thomas |
 | 212 | 461 | TRCuse |
 | 213 | 460 | Kathy Brookins |
 | 214 | 457 | Kristin Manee |
@@ -273,8 +273,8 @@
 | 265 | 382 | Sue Joyce Staats |
 | 266 | 381 | Dihcheese444 |
 | 267 | 381 | shark tato |
-| 268 | 380 | Jen Caldwell |
-| 269 | 380 | Holly Jolly |
+| 268 | 380 | Holly Jolly |
+| 269 | 380 | Jen Caldwell |
 | 270 | 380 | Rio Rocha |
 | 271 | 379 | Backoff Recupe |
 | 272 | 378 | Googenheim |
@@ -417,8 +417,8 @@
 | 409 | 264 | Shh |
 | 410 | 264 | AyeKay |
 | 411 | 263 | Laurmarcar |
-| 412 | 262 | Walter Beltran |
-| 413 | 262 | Lilya Troutman |
+| 412 | 262 | Lilya Troutman |
+| 413 | 262 | Walter Beltran |
 | 414 | 262 | Ruben Wheeler |
 | 415 | 261 | Laura McPheeters |
 | 416 | 261 | Jen Hallin |
@@ -643,7 +643,7 @@
 | 635 | 172 | Jennifer Marsella |
 | 636 | 172 | Paul-Eunice Mathewson |
 | 637 | 171 | Ali Ian |
-| 638 | 171 | Lonnie Brown |
+| 638 | 171 | Ben Nome |
 | 639 | 171 | Terrance Fung |
 | 640 | 171 | Lonnie Brown |
 | 641 | 170 | Bumpy Morris |

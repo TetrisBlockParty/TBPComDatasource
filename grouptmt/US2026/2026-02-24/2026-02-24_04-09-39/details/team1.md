@@ -45,8 +45,8 @@
 | 37 | 1515 | Felicia Lewis |
 | 38 | 1405 | Chipper Gridlock |
 | 39 | 1391 | Aaron Garnett |
-| 40 | 1334 | june october |
-| 41 | 1334 | Tyler Alcock |
+| 40 | 1334 | Tyler Alcock |
+| 41 | 1334 | june october |
 | 42 | 1321 | Drew Magnus |
 | 43 | 1291 | Marianne Louise West |
 | 44 | 1268 | Hasbro Bros |
@@ -167,8 +167,8 @@
 | 159 | 543 | Adrian Esteban |
 | 160 | 543 | Nicole Roseberry Weber |
 | 161 | 540 | Tonya Beasley |
-| 162 | 537 | BadG52 |
-| 163 | 537 | Stephanie Zahn |
+| 162 | 537 | Stephanie Zahn |
+| 163 | 537 | BadG52 |
 | 164 | 535 | Plucky Ziggy |
 | 165 | 533 | .running. |
 | 166 | 528 | ALFD |
@@ -213,8 +213,8 @@
 | 205 | 446 | Spencer Lent |
 | 206 | 442 | Reesey Enyart |
 | 207 | 441 | Kimberly Garcia |
-| 208 | 439 | David Miller |
-| 209 | 439 | Witty Builderfit |
+| 208 | 439 | Witty Builderfit |
+| 209 | 439 | David Miller |
 | 210 | 434 | Mike Ames |
 | 211 | 432 | Brian Spotts |
 | 212 | 431 | Shiny Snapfit |
@@ -312,8 +312,8 @@
 | 304 | 341 | Nick R Montague |
 | 305 | 340 | Danielle Little-Daugherty |
 | 306 | 340 | Robert |
-| 307 | 338 | Layzietyme |
-| 308 | 338 | Tipsy Builder |
+| 307 | 338 | Tipsy Builder |
+| 308 | 338 | Layzietyme |
 | 309 | 336 | Sarah Roberts |
 | 310 | 335 | Dreamy Drop |
 | 311 | 334 | Nate Price |
@@ -350,8 +350,8 @@
 | 342 | 311 | Nathan Sealander |
 | 343 | 310 | Steph |
 | 344 | 310 | Marci Sanders |
-| 345 | 308 | Agustin Duarte Orozco |
-| 346 | 308 | Katie Martin |
+| 345 | 308 | Katie Martin |
+| 346 | 308 | Agustin Duarte Orozco |
 | 347 | 306 | Sunny Shift |
 | 348 | 305 | Damian Salem |
 | 349 | 305 | Tavia |
