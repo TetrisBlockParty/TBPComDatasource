@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Yoset Mejia |
-| 47 | 1461 | Shane Kalamata Platoon |
+| 46 | 1461 | Shane Kalamata Platoon |
+| 47 | 1461 | Yoset Mejia |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -108,8 +108,8 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | quicksand420 |
-| 104 | 834 | Brittney Orengo |
+| 103 | 834 | Brittney Orengo |
+| 104 | 834 | quicksand420 |
 | 105 | 828 | Amy Suckarieh |
 | 106 | 818 | Lori Walker |
 | 107 | 815 | Diana Houts |
@@ -117,8 +117,8 @@
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Crystal Carroll |
-| 113 | 802 | Denise Carlson |
+| 112 | 802 | Denise Carlson |
+| 113 | 802 | Crystal Carroll |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -284,8 +284,8 @@
 | 276 | 411 | Backoff Recupe |
 | 277 | 410 | Lindsay Ball |
 | 278 | 409 | Antony Dwayne Beasley |
-| 279 | 408 | Neirrah B Olailjeel |
-| 280 | 408 | Dihcheese444 |
+| 279 | 408 | Dihcheese444 |
+| 280 | 408 | Neirrah B Olailjeel |
 | 281 | 408 | Lauren Scott |
 | 282 | 407 | Hyper Builder |
 | 283 | 406 | KimoKoala |
@@ -383,8 +383,8 @@
 | 375 | 317 | Kim Klutz Olson |
 | 376 | 316 | Shukee Lo |
 | 377 | 315 | Ultramarine |
-| 378 | 314 | Kenna Gunderland |
-| 379 | 314 | KoolMom9907 |
+| 378 | 314 | KoolMom9907 |
+| 379 | 314 | Kenna Gunderland |
 | 380 | 313 | Lazy Glidepiece |
 | 381 | 312 | Tawna Curry |
 | 382 | 311 | Reds Bella |
@@ -434,13 +434,13 @@
 | 426 | 281 | Tony Pavelka |
 | 427 | 280 | Chummy Towerzone |
 | 428 | 279 | Ziggy |
-| 429 | 278 | Shainne Brewer |
-| 430 | 278 | L Bear Champion |
+| 429 | 278 | L Bear Champion |
+| 430 | 278 | Shainne Brewer |
 | 431 | 277 | Silly SeaWeed |
 | 432 | 276 | Dennis Bradley |
 | 433 | 275 | Jarred Falls |
-| 434 | 274 | Cheery Fitline |
-| 435 | 274 | Kourtney Barnes |
+| 434 | 274 | Kourtney Barnes |
+| 435 | 274 | Cheery Fitline |
 | 436 | 273 | Lane Wasson |
 | 437 | 272 | ChuckBuck Copeland |
 | 438 | 271 | ĥuf |
@@ -497,9 +497,9 @@
 | 489 | 248 | Ron |
 | 490 | 247 | RIFATSIKDER |
 | 491 | 247 | Sam Middleton |
-| 492 | 246 | GBR |
+| 492 | 246 | Shanon Klair |
 | 493 | 246 | giantslover514 |
-| 494 | 246 | Shanon Klair |
+| 494 | 246 | GBR |
 | 495 | 245 | Brooke Kaune |
 | 496 | 244 | Steve Sperino |
 | 497 | 244 | Amanda Christine |

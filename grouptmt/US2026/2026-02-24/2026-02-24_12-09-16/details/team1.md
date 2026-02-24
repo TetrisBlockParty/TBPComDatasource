@@ -177,8 +177,8 @@
 | 169 | 552 | Constance Risner |
 | 170 | 551 | Loony Fitzone |
 | 171 | 549 | Jerry Danowski |
-| 172 | 548 | Stephanie Zahn |
-| 173 | 548 | Luciano Moreira |
+| 172 | 548 | Luciano Moreira |
+| 173 | 548 | Stephanie Zahn |
 | 174 | 547 | Sharon Reynolds |
 | 175 | 545 | .running. |
 | 176 | 543 | Nicole Roseberry Weber |
@@ -446,8 +446,8 @@
 | 438 | 285 | Ric Hard Hernandez |
 | 439 | 285 | Debbie Davis |
 | 440 | 283 | Franswa |
-| 441 | 282 | Rachel Nichole Henry |
-| 442 | 282 | Willy Michael |
+| 441 | 282 | Willy Michael |
+| 442 | 282 | Rachel Nichole Henry |
 | 443 | 282 | Timothy Dew |
 | 444 | 281 | Shiny Snapline |
 | 445 | 281 | Jessie |

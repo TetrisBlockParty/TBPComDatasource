@@ -70,8 +70,8 @@
 | 62 | 1858 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
 | 64 | 1825 | Nora Rogers |
-| 65 | 1824 | Jessica Ann |
-| 66 | 1824 | Nate Burnside |
+| 65 | 1824 | Nate Burnside |
+| 66 | 1824 | Jessica Ann |
 | 67 | 1791 | Leah Barnett |
 | 68 | 1776 | Whitney Manuel |
 | 69 | 1774 | Liv Whetson |
@@ -179,8 +179,8 @@
 | 171 | 875 | Chasity |
 | 172 | 874 | Jessica Pineda-Lopez |
 | 173 | 871 | Rochelle Hazelett |
-| 174 | 868 | Cranky Gridder |
-| 175 | 868 | Nicole Flippo |
+| 174 | 868 | Nicole Flippo |
+| 175 | 868 | Cranky Gridder |
 | 176 | 866 | Domo Washington |
 | 177 | 864 | Sunny Rotater |
 | 178 | 862 | Santeria Trece Candles |
@@ -338,8 +338,8 @@
 | 330 | 494 | fraulila |
 | 331 | 494 | MCV |
 | 332 | 492 | Tasha Wesson-Torrence |
-| 333 | 490 | Cassandra Bryant |
-| 334 | 490 | TotoCherue |
+| 333 | 490 | TotoCherue |
+| 334 | 490 | Cassandra Bryant |
 | 335 | 489 | Isabel Ocasio |
 | 336 | 487 | MsBee |
 | 337 | 486 | Sleepy |
@@ -378,8 +378,8 @@
 | 370 | 455 | Kelly Wolf |
 | 371 | 451 | Swanky Frame |
 | 372 | 450 | Luciana Braganca Vieira |
-| 373 | 449 | Jojo M |
-| 374 | 449 | Sissy Lowery Davis |
+| 373 | 449 | Sissy Lowery Davis |
+| 374 | 449 | Jojo M |
 | 375 | 447 | Carrie Huskey |
 | 376 | 447 | Num1hater |
 | 377 | 446 | Jennifer Alvey |
@@ -403,8 +403,8 @@
 | 395 | 428 | Skinny Baldez |
 | 396 | 428 | keni |
 | 397 | 427 | Darlene McMillan |
-| 398 | 426 | Heather Bateman |
-| 399 | 426 | Christina Rotz Shows |
+| 398 | 426 | Christina Rotz Shows |
+| 399 | 426 | Heather Bateman |
 | 400 | 425 | Angel Miller |
 | 401 | 425 | Ava Petito |
 | 402 | 419 | Desiree Gold |
@@ -418,17 +418,17 @@
 | 410 | 413 | Rick Poppen |
 | 411 | 411 | Beaudie Stroebel |
 | 412 | 409 | Rich LeBlanc |
-| 413 | 408 | Tiffany Ford |
-| 414 | 408 | Ashley Muncey |
+| 413 | 408 | Ashley Muncey |
+| 414 | 408 | Tiffany Ford |
 | 415 | 407 | Christina Spa |
 | 416 | 406 | Kristen Weese |
 | 417 | 405 | Andrew Thorson |
-| 418 | 404 | Alice |
-| 419 | 404 | Karent524 |
-| 420 | 404 | Giggy Balanceblock |
+| 418 | 404 | Giggy Balanceblock |
+| 419 | 404 | Alice |
+| 420 | 404 | Karent524 |
 | 421 | 403 | Scott Lindsay |
-| 422 | 401 | Velma Mull |
-| 423 | 401 | block chick |
+| 422 | 401 | block chick |
+| 423 | 401 | Velma Mull |
 | 424 | 400 | Joy Petroski |
 | 425 | 399 | Ann Hammac |
 | 426 | 398 | Breezy Roll |
@@ -440,8 +440,8 @@
 | 432 | 391 | gremicx |
 | 433 | 391 | Ashley Lynn Marchese |
 | 434 | 390 | ROODBOY |
-| 435 | 389 | Amanda J. Mcneil-Anderson |
-| 436 | 389 | Kirhonda Autmon |
+| 435 | 389 | Kirhonda Autmon |
+| 436 | 389 | Amanda J. Mcneil-Anderson |
 | 437 | 387 | Brittany K Ward |
 | 438 | 386 | Geoffrey Nash |
 | 439 | 384 | Tiffany Davie |
@@ -487,8 +487,8 @@
 | 479 | 360 | Alexi Pryor |
 | 480 | 360 | Cathy Leger |
 | 481 | 359 | Kathleen Taylor |
-| 482 | 358 | Beejangles |
-| 483 | 358 | Taylor Culver |
+| 482 | 358 | Taylor Culver |
+| 483 | 358 | Beejangles |
 | 484 | 358 | Hyper Twisterfit |
 | 485 | 356 | Jimmie Clemons |
 | 486 | 356 | Nikkie Bucciano |
