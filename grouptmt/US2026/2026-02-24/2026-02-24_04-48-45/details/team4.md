@@ -69,8 +69,8 @@
 | 61 | 1116 | Ashley Ingram |
 | 62 | 1101 | BertMofo |
 | 63 | 1089 | Alyssa Papen |
-| 64 | 1082 | Dion Crommarty |
-| 65 | 1082 | Avy Absol |
+| 64 | 1082 | Avy Absol |
+| 65 | 1082 | Dion Crommarty |
 | 66 | 1075 | Dustee Craddock-Harrison |
 | 67 | 1069 | Heather Tushner |
 | 68 | 1055 | Julian Garcia |
@@ -125,14 +125,14 @@
 | 117 | 733 | D3TROITB0RN74 |
 | 118 | 731 | KJ Pool |
 | 119 | 729 | Jamie Mann-Deichmann |
-| 120 | 726 | Jamie Gustafson |
-| 121 | 726 | Amy Suckarieh |
+| 120 | 726 | Amy Suckarieh |
+| 121 | 726 | Jamie Gustafson |
 | 122 | 725 | Brandon Crabbs |
 | 123 | 718 | Zippy Gridlock |
 | 124 | 712 | H.R. Block |
 | 125 | 708 | Jacqueline Helm |
-| 126 | 704 | Austin Owens |
-| 127 | 704 | Chilly Crasher |
+| 126 | 704 | Chilly Crasher |
+| 127 | 704 | Austin Owens |
 | 128 | 690 | Denia Deni |
 | 129 | 682 | Raegan Lane-Ross |
 | 130 | 669 | Leslie Nicole |
@@ -321,8 +321,8 @@
 | 313 | 335 | Snippy Puzzle |
 | 314 | 332 | Jason Bosco |
 | 315 | 331 | Kate |
-| 316 | 330 | Sandra Safford |
-| 317 | 330 | Duck |
+| 316 | 330 | Duck |
+| 317 | 330 | Sandra Safford |
 | 318 | 330 | Brittany Little |
 | 319 | 329 | Meagan Nicole |
 | 320 | 328 | Heather Bruce |
@@ -401,8 +401,8 @@
 | 393 | 278 | L Bear Champion |
 | 394 | 278 | Shainne Brewer |
 | 395 | 277 | Silly SeaWeed |
-| 396 | 276 | Dennis Bradley |
-| 397 | 276 | Cynthia Boudreau |
+| 396 | 276 | Cynthia Boudreau |
+| 397 | 276 | Dennis Bradley |
 | 398 | 275 | Jarred Falls |
 | 399 | 272 | Paito |
 | 400 | 271 | ImJustMe |

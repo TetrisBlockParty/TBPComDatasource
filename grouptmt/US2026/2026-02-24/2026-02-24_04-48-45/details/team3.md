@@ -18,7 +18,7 @@
 | 10 | 5945 | Kathryn Keenan-Taggart |
 | 11 | 5035 | Ant Ant |
 | 12 | 4936 | Travis Copfer |
-| 13 | 4827 | Lauren d |
+| 13 | 4579 | Lauren d |
 | 14 | 4481 | Cheeky Match |
 | 15 | 4328 | Laura Melton |
 | 16 | 4132 | Lush Buildout |
@@ -80,8 +80,8 @@
 | 72 | 1646 | Gracie |
 | 73 | 1633 | cowboy25469 |
 | 74 | 1620 | Queen Kam |
-| 75 | 1566 | Marcie Bressler |
-| 76 | 1566 | Nerdy Riseclear |
+| 75 | 1566 | Nerdy Riseclear |
+| 76 | 1566 | Marcie Bressler |
 | 77 | 1560 | Logan Naccarato |
 | 78 | 1555 | Snappy Glidepiece |
 | 79 | 1552 | joclisa |
@@ -102,8 +102,8 @@
 | 94 | 1361 | Patricia Gadsden |
 | 95 | 1343 | Joey Banks |
 | 96 | 1320 | Kristie |
-| 97 | 1318 | Diana Ibarra |
-| 98 | 1318 | Tiff Vs Tiffany |
+| 97 | 1318 | Tiff Vs Tiffany |
+| 98 | 1318 | Diana Ibarra |
 | 99 | 1309 | yoyo |
 | 100 | 1297 | Shelby Michelle |
 | 101 | 1290 | JerseyJess |
@@ -235,8 +235,8 @@
 | 227 | 661 | LaShey Thompson |
 | 228 | 655 | Keis |
 | 229 | 654 | Terry Jo Jones |
-| 230 | 648 | Makelini Mausia |
-| 231 | 648 | Cesar Barraza |
+| 230 | 648 | Cesar Barraza |
+| 231 | 648 | Makelini Mausia |
 | 232 | 646 | Duane Bright |
 | 233 | 642 | Rania Zaqout |
 | 234 | 641 | Kristal C Lee |
@@ -263,8 +263,8 @@
 | 255 | 598 | Kaycee Kay |
 | 256 | 595 | Betty Rosas |
 | 257 | 588 | Salena Whitlock |
-| 258 | 586 | Brian Battjes |
-| 259 | 586 | Donna |
+| 258 | 586 | Donna |
+| 259 | 586 | Brian Battjes |
 | 260 | 582 | FuzzyNavel |
 | 261 | 578 | James Mitchell |
 | 262 | 574 | Rachael McClain Owens |
@@ -418,8 +418,8 @@
 | 410 | 383 | Kirhonda Autmon |
 | 411 | 383 | Swanky Frame |
 | 412 | 382 | Rynne Ellis |
-| 413 | 381 | Mary Giorgenti |
-| 414 | 381 | Sabrina Mansfield |
+| 413 | 381 | Sabrina Mansfield |
+| 414 | 381 | Mary Giorgenti |
 | 415 | 380 | neci |
 | 416 | 378 | Ashley Lynn Marchese |
 | 417 | 378 | Samantha Worley |

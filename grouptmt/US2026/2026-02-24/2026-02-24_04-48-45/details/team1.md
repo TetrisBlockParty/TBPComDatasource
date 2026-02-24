@@ -165,8 +165,8 @@
 | 157 | 548 | Luciano Moreira |
 | 158 | 547 | Sharon Reynolds |
 | 159 | 546 | Loony Fitzone |
-| 160 | 543 | Adrian Esteban |
-| 161 | 543 | Nicole Roseberry Weber |
+| 160 | 543 | Nicole Roseberry Weber |
+| 161 | 543 | Adrian Esteban |
 | 162 | 540 | Tonya Beasley |
 | 163 | 537 | Stephanie Zahn |
 | 164 | 537 | BadG52 |
@@ -210,8 +210,8 @@
 | 202 | 457 | Lori Bales |
 | 203 | 453 | Kimmie Kimms |
 | 204 | 448 | Yvonne Marie |
-| 205 | 446 | SkipTheSadSauce |
-| 206 | 446 | Spencer Lent |
+| 205 | 446 | Spencer Lent |
+| 206 | 446 | SkipTheSadSauce |
 | 207 | 442 | Reesey Enyart |
 | 208 | 441 | Kimberly Garcia |
 | 209 | 439 | Witty Builderfit |
@@ -230,8 +230,8 @@
 | 222 | 423 | Chelsea Dahlquist |
 | 223 | 423 | Howdi Duty |
 | 224 | 422 | Jamise Brown |
-| 225 | 421 | Plucky Stacky |
-| 226 | 421 | Letson Melissa |
+| 225 | 421 | Letson Melissa |
+| 226 | 421 | Plucky Stacky |
 | 227 | 420 | Jennifer Noe Chandler |
 | 228 | 419 | Daring Fitclear |
 | 229 | 419 | John J. Cronin |
@@ -249,8 +249,8 @@
 | 241 | 399 | Lakeisha Chapman |
 | 242 | 398 | MommaKFC |
 | 243 | 397 | Alenoush Karimian |
-| 244 | 396 | Monica Donato |
-| 245 | 396 | Sam Williams |
+| 244 | 396 | Sam Williams |
+| 245 | 396 | Monica Donato |
 | 246 | 395 | Tami Luce Martin |
 | 247 | 394 | Bob |
 | 248 | 393 | Wisa |
@@ -310,7 +310,7 @@
 | 302 | 344 | Cody Gates |
 | 303 | 344 | dhardy |
 | 304 | 344 | Buttons Stemm |
-| 305 | 344 | dhardy |
+| 305 | 342 | Matt Iaccheo |
 | 306 | 342 | Marianita Garcia |
 | 307 | 341 | Nick R Montague |
 | 308 | 340 | Danielle Little-Daugherty |

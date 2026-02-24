@@ -27,9 +27,9 @@
 | 19 | 8504 | Sam Smith |
 | 20 | 8179 | Nar |
 | 21 | 7425 | PandaMama |
-| 22 | 7411 | Kyle Saunders |
-| 23 | 7301 | Trisha Gill |
-| 24 | 7203 | Tiaira Patrice' |
+| 22 | 7301 | Trisha Gill |
+| 23 | 7203 | Tiaira Patrice' |
+| 24 | 7198 | Kyle Saunders |
 | 25 | 7112 | Claire Noland |
 | 26 | 7018 | Kevin Wooddell |
 | 27 | 6963 | Melissa Rebbe-Lehman |
@@ -493,9 +493,9 @@
 | 485 | 950 | Katie Marie |
 | 486 | 946 | Nicky Jackson |
 | 487 | 946 | Crystal Greene |
-| 488 | 942 | Toni Lynn |
-| 489 | 942 | Fancy Twister |
-| 490 | 942 | Lisa Ongtowasruk |
+| 488 | 942 | Lisa Ongtowasruk |
+| 489 | 942 | Toni Lynn |
+| 490 | 942 | Fancy Twister |
 | 491 | 941 | Cool Clearer |
 | 492 | 940 | Jennifer Leigh |
 | 493 | 938 | Connie Jimenez |
@@ -504,8 +504,8 @@
 | 496 | 933 | Hershey Eastman |
 | 497 | 927 | Anthony Huebel |
 | 498 | 927 | Wes Acton |
-| 499 | 925 | blume |
-| 500 | 923 | Chevy |
+| 499 | 923 | Chevy |
+| 500 | 923 | blume |
 | 501 | 922 | Butta |
 | 502 | 921 | Elisheva Mizrachi |
 | 503 | 921 | Dannette Goldberg-Richards |
@@ -591,7 +591,7 @@
 | 583 | 815 | Shea Edison |
 | 584 | 813 | Krys |
 | 585 | 813 | Ganieda |
-| 586 | 813 | Krys |
+| 586 | 812 | bbv |
 | 587 | 812 | Samantha Jo |
 | 588 | 811 | Kimberly Randesi |
 | 589 | 811 | Samuel Macon |
@@ -1230,8 +1230,8 @@
 | 1222 | 465 | Epic Stackzone |
 | 1223 | 464 | Natasha Edmonds |
 | 1224 | 464 | Ladii_Elmo |
-| 1225 | 464 | Joseph Greenlee |
-| 1226 | 464 | Maddie |
+| 1225 | 464 | Maddie |
+| 1226 | 464 | Joseph Greenlee |
 | 1227 | 463 | Bigg Meezy |
 | 1228 | 463 | Ys Muhammed |
 | 1229 | 463 | Jaye EL Hunter |
