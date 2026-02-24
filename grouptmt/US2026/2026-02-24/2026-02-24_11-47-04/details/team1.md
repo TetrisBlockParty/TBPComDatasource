@@ -170,8 +170,8 @@
 | 162 | 568 | Jason Savage |
 | 163 | 562 | Timothy Danaher |
 | 164 | 556 | Chase Collinsworth |
-| 165 | 555 | Adrian Esteban |
-| 166 | 555 | Sarah Lombardo |
+| 165 | 555 | Sarah Lombardo |
+| 166 | 555 | Adrian Esteban |
 | 167 | 553 | Flashy Rotator |
 | 168 | 551 | Loony Fitzone |
 | 169 | 549 | Jerry Danowski |
@@ -244,8 +244,8 @@
 | 236 | 431 | Tipsy Strikerpiece |
 | 237 | 431 | Shiny Snapfit |
 | 238 | 430 | Jennifer Noe Chandler |
-| 239 | 429 | pjbeta |
-| 240 | 429 | Tana |
+| 239 | 429 | Tana |
+| 240 | 429 | pjbeta |
 | 241 | 427 | Ananda Mendez |
 | 242 | 426 | Brenda Alexander |
 | 243 | 426 | Betsy |
@@ -275,8 +275,8 @@
 | 267 | 398 | MommaKFC |
 | 268 | 398 | Cece Ibarra |
 | 269 | 396 | Sarahdactyl |
-| 270 | 394 | Nick R Montague |
-| 271 | 394 | Lynn Adams |
+| 270 | 394 | Lynn Adams |
+| 271 | 394 | Nick R Montague |
 | 272 | 393 | Wisa |
 | 273 | 392 | Poppy Riserpiece |
 | 274 | 392 | Renee Tucker |
@@ -324,10 +324,10 @@
 | 316 | 360 | Mandyy Rae |
 | 317 | 359 | Rodney Schmerfeld |
 | 318 | 357 | Jasmine Riley |
-| 319 | 356 | build master |
-| 320 | 356 | Brave Linkmatch |
-| 321 | 355 | Toya Lynn |
-| 322 | 355 | Shanae Grant |
+| 319 | 356 | Brave Linkmatch |
+| 320 | 356 | build master |
+| 321 | 355 | Shanae Grant |
+| 322 | 355 | Toya Lynn |
 | 323 | 354 | Kimberly Davis |
 | 324 | 353 | Josh Riemer |
 | 325 | 352 | Lachelle Dillon |
@@ -337,8 +337,8 @@
 | 329 | 347 | Michael Espinosa Ulibarri Jr. |
 | 330 | 346 | Gary Gobin |
 | 331 | 345 | Nathan Sealander |
-| 332 | 344 | dhardy |
-| 333 | 344 | Buttons Stemm |
+| 332 | 344 | Buttons Stemm |
+| 333 | 344 | dhardy |
 | 334 | 344 | Standia Civil |
 | 335 | 342 | Matt Iaccheo |
 | 336 | 342 | Michael |
@@ -370,8 +370,8 @@
 | 362 | 324 | Brave Wrecker |
 | 363 | 324 | Quirky Pusher |
 | 364 | 323 | Nadine Velardo |
-| 365 | 322 | Chris65 |
-| 366 | 322 | Hasty Columnbuilder |
+| 365 | 322 | Hasty Columnbuilder |
+| 366 | 322 | Chris65 |
 | 367 | 321 | LD1 |
 | 368 | 320 | ESC |
 | 369 | 320 | Chris Sigurdson |

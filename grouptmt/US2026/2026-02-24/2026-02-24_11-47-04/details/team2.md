@@ -594,8 +594,8 @@
 | 586 | 866 | Tammie Siegfried |
 | 587 | 866 | Mishka Upchurch |
 | 588 | 865 | Lilia Gomez |
-| 589 | 861 | Shavonna Haynes |
-| 590 | 861 | Beth |
+| 589 | 861 | Beth |
+| 590 | 861 | Shavonna Haynes |
 | 591 | 861 | Anthony |
 | 592 | 858 | Joshua Self |
 | 593 | 857 | Marella Petilo |

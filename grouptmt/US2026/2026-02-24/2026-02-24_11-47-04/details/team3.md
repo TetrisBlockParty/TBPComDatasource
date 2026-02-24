@@ -179,8 +179,8 @@
 | 171 | 875 | Chasity |
 | 172 | 874 | Jessica Pineda-Lopez |
 | 173 | 871 | Rochelle Hazelett |
-| 174 | 868 | Cranky Gridder |
-| 175 | 868 | Nicole Flippo |
+| 174 | 868 | Nicole Flippo |
+| 175 | 868 | Cranky Gridder |
 | 176 | 866 | Domo Washington |
 | 177 | 864 | Sunny Rotater |
 | 178 | 862 | Santeria Trece Candles |
@@ -219,8 +219,8 @@
 | 211 | 759 | Mykal Burton |
 | 212 | 758 | Shawn Miller |
 | 213 | 757 | Fancy Cascader |
-| 214 | 755 | Laura Booth Wosko |
-| 215 | 755 | Colton |
+| 214 | 755 | Colton |
+| 215 | 755 | Laura Booth Wosko |
 | 216 | 754 | CeceGeGe |
 | 217 | 753 | Morgan Martinez |
 | 218 | 752 | Joye Sims Binion |
@@ -296,8 +296,8 @@
 | 288 | 578 | James Mitchell |
 | 289 | 572 | Tessina Dewey-Mancino |
 | 290 | 570 | thekey |
-| 291 | 569 | Silly Twist |
-| 292 | 569 | Gray Hicks |
+| 291 | 569 | Gray Hicks |
+| 292 | 569 | Silly Twist |
 | 293 | 567 | Stephanie Burtin |
 | 294 | 566 | Eileen Brady Thurber |
 | 295 | 566 | Tyler Shoff |
@@ -306,8 +306,8 @@
 | 298 | 556 | Shiny Zonebuilder |
 | 299 | 555 | Danielle Weikel |
 | 300 | 552 | Scott Carleton |
-| 301 | 548 | Shannon Matthew Byers |
-| 302 | 548 | Chris Bell |
+| 301 | 548 | Chris Bell |
+| 302 | 548 | Shannon Matthew Byers |
 | 303 | 547 | Aerian Preston |
 | 304 | 545 | Stephanie Simpson |
 | 305 | 542 | France Vézina |
@@ -334,8 +334,8 @@
 | 326 | 499 | Gumbo |
 | 327 | 499 | Megan Rathmanner |
 | 328 | 496 | Brenda Schmid Wood |
-| 329 | 494 | MCV |
-| 330 | 494 | fraulila |
+| 329 | 494 | fraulila |
+| 330 | 494 | MCV |
 | 331 | 492 | Tasha Wesson-Torrence |
 | 332 | 490 | Cassandra Bryant |
 | 333 | 490 | TotoCherue |
@@ -392,9 +392,9 @@
 | 384 | 435 | Sabrina Hardrick |
 | 385 | 434 | Criss |
 | 386 | 433 | Dapper Liney |
-| 387 | 432 | Hoppy Patternline |
-| 388 | 432 | Justice 4 P |
-| 389 | 432 | Sabrina Mansfield |
+| 387 | 432 | Sabrina Mansfield |
+| 388 | 432 | Hoppy Patternline |
+| 389 | 432 | Justice 4 P |
 | 390 | 431 | Goofy Fall |
 | 391 | 431 | Donna Esbensen-Alpini |
 | 392 | 430 | Quackers |
@@ -423,12 +423,12 @@
 | 415 | 407 | Christina Spa |
 | 416 | 406 | Kristen Weese |
 | 417 | 405 | Andrew Thorson |
-| 418 | 404 | Karent524 |
-| 419 | 404 | Alice |
-| 420 | 404 | Giggy Balanceblock |
+| 418 | 404 | Alice |
+| 419 | 404 | Giggy Balanceblock |
+| 420 | 404 | Karent524 |
 | 421 | 403 | Scott Lindsay |
-| 422 | 401 | Velma Mull |
-| 423 | 401 | block chick |
+| 422 | 401 | block chick |
+| 423 | 401 | Velma Mull |
 | 424 | 400 | Joy Petroski |
 | 425 | 399 | Ann Hammac |
 | 426 | 398 | Breezy Roll |
@@ -510,7 +510,7 @@
 | 502 | 345 | Misha Sanders |
 | 503 | 343 | Christina Marie Swisher |
 | 504 | 343 | Michael Leblanc |
-| 505 | 342 | Tipsy Zonebuilder |
+| 505 | 342 | Sunny Lift |
 | 506 | 342 | Boldy Corner |
 | 507 | 342 | Saucy Buildout |
 | 508 | 342 | Tipsy Zonebuilder |
@@ -532,8 +532,8 @@
 | 524 | 335 | Sassy Brickmatch |
 | 525 | 335 | Johnathan Dowe |
 | 526 | 334 | Stella |
-| 527 | 334 | Sharisse Baltimore |
-| 528 | 334 | Carol Cain Thurman |
+| 527 | 334 | Carol Cain Thurman |
+| 528 | 334 | Sharisse Baltimore |
 | 529 | 333 | Heather Ferrara |
 | 530 | 333 | Hyper Wipeout |
 | 531 | 332 | Clever Edgepiece |
@@ -597,8 +597,8 @@
 | 589 | 313 | Joseph Vargas |
 | 590 | 313 | Emberblaze |
 | 591 | 313 | Dakota Graham |
-| 592 | 312 | Trice Thomas |
-| 593 | 312 | Elizabeth Renee |
+| 592 | 312 | Elizabeth Renee |
+| 593 | 312 | Trice Thomas |
 | 594 | 311 | Irene Arreguin |
 | 595 | 309 | Jumpy Curvebuilder |
 | 596 | 309 | Daisy Rocha |
@@ -1226,8 +1226,8 @@
 | 1218 | 162 | Glitzy Dash |
 | 1219 | 162 | gravelgrinder |
 | 1220 | 161 | Gwendolyn Sanders |
-| 1221 | 161 | Becky Fritz-Schweitzer |
-| 1222 | 161 | Lauretta Archer Norman |
+| 1221 | 161 | Lauretta Archer Norman |
+| 1222 | 161 | Becky Fritz-Schweitzer |
 | 1223 | 161 | Bobby Keith |
 | 1224 | 161 | ChellsieBabes |
 | 1225 | 161 | Lively Stacky |
