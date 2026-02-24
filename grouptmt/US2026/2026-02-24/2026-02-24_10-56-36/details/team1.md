@@ -219,8 +219,8 @@
 | 211 | 475 | Reesey Enyart |
 | 212 | 473 | Tamara Brown |
 | 213 | 470 | Candy Jones |
-| 214 | 467 | Howdi Duty |
-| 215 | 467 | Witty Builderfit |
+| 214 | 467 | Witty Builderfit |
+| 215 | 467 | Howdi Duty |
 | 216 | 466 | Lori Bales |
 | 217 | 460 | Sam Williams |
 | 218 | 458 | Goose egg |
@@ -341,8 +341,8 @@
 | 333 | 342 | Marianita Garcia |
 | 334 | 342 | Matt Iaccheo |
 | 335 | 340 | Danielle Little-Daugherty |
-| 336 | 340 | Robert |
-| 337 | 340 | Nutty Spinblock |
+| 336 | 340 | Nutty Spinblock |
+| 337 | 340 | Robert |
 | 338 | 339 | Avelyn Calamba |
 | 339 | 338 | Layzietyme |
 | 340 | 338 | Tipsy Builder |
@@ -377,11 +377,11 @@
 | 369 | 317 | Bloknboy |
 | 370 | 317 | Amh |
 | 371 | 316 | Giggly Builderline |
-| 372 | 315 | san |
-| 373 | 315 | Joe Coon |
+| 372 | 315 | Joe Coon |
+| 373 | 315 | san |
 | 374 | 314 | Наталья Солоид |
-| 375 | 313 | Delvison Rosario |
-| 376 | 313 | Steph |
+| 375 | 313 | Steph |
+| 376 | 313 | Delvison Rosario |
 | 377 | 312 | Diane Byrd |
 | 378 | 312 | Nicole Meredith Flynn |
 | 379 | 311 | John Ramirez |
@@ -627,7 +627,7 @@
 | 619 | 205 | Lauren Baxter |
 | 620 | 205 | Sam Rosado |
 | 621 | 205 | Alphonza Keyes Jr. |
-| 622 | 205 | Sam Rosado |
+| 622 | 205 | Davery Spencer Adair |
 | 623 | 204 | Jill King Oldham |
 | 624 | 203 | Ashley Rodriguez |
 | 625 | 202 | grizzly |

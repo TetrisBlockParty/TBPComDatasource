@@ -74,8 +74,8 @@
 | 66 | 1119 | Amelpss |
 | 67 | 1109 | BertMofo |
 | 68 | 1089 | Alyssa Papen |
-| 69 | 1082 | Avy Absol |
-| 70 | 1082 | Dion Crommarty |
+| 69 | 1082 | Dion Crommarty |
+| 70 | 1082 | Avy Absol |
 | 71 | 1081 | Dustee Craddock-Harrison |
 | 72 | 1080 | Chilly Line |
 | 73 | 1069 | Heather Tushner |
@@ -112,8 +112,8 @@
 | 104 | 834 | quicksand420 |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
-| 107 | 813 | Klo |
-| 108 | 813 | Amy Suckarieh |
+| 107 | 813 | Amy Suckarieh |
+| 108 | 813 | Klo |
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
@@ -148,8 +148,8 @@
 | 140 | 667 | Matt Gooder |
 | 141 | 667 | Lindsey Gonzalez |
 | 142 | 662 | Nerdy Twisterfit |
-| 143 | 661 | Rodney McMath Jr. |
-| 144 | 661 | shar |
+| 143 | 661 | shar |
+| 144 | 661 | Rodney McMath Jr. |
 | 145 | 651 | Adawna Swires |
 | 146 | 650 | Chris Hartig |
 | 147 | 647 | KM8 |
@@ -157,8 +157,8 @@
 | 149 | 638 | Porkobello |
 | 150 | 635 | Kim Hunt |
 | 151 | 634 | Carrie Brian |
-| 152 | 633 | Adam Stephanie Parker |
-| 153 | 633 | Jessica Lynn Cutlip |
+| 152 | 633 | Jessica Lynn Cutlip |
+| 153 | 633 | Adam Stephanie Parker |
 | 154 | 629 | Chris Baggett |
 | 155 | 623 | ku5hkween |
 | 156 | 622 | Ernest Maxwell |
@@ -209,8 +209,8 @@
 | 201 | 516 | Twisty Clicky |
 | 202 | 513 | Milan Markeisha |
 | 203 | 513 | Zesty Twistbuilder |
-| 204 | 512 | Casey Jeffcoat |
-| 205 | 512 | Ellen Durfee |
+| 204 | 512 | Ellen Durfee |
+| 205 | 512 | Casey Jeffcoat |
 | 206 | 512 | ThaEviLJeNiuZ |
 | 207 | 509 | Mimi |
 | 208 | 507 | Andria Lynn |
@@ -235,8 +235,8 @@
 | 227 | 473 | Cranky Rollpiece |
 | 228 | 472 | Plucky Patternblock |
 | 229 | 465 | Leslie Thomas |
-| 230 | 464 | Zakia Monae |
-| 231 | 464 | Calvin Cannon |
+| 230 | 464 | Calvin Cannon |
+| 231 | 464 | Zakia Monae |
 | 232 | 463 | shark tato |
 | 233 | 462 | Crystal Nicolette Moore |
 | 234 | 460 | Kathy Brookins |
@@ -255,8 +255,8 @@
 | 247 | 444 | Selena Shaw |
 | 248 | 442 | John Brunetti |
 | 249 | 441 | Lush Linkfall |
-| 250 | 438 | 23 |
-| 251 | 438 | Melvin Baird |
+| 250 | 438 | Melvin Baird |
+| 251 | 438 | 23 |
 | 252 | 436 | Chris Bernstein |
 | 253 | 434 | Ramel Rhodes |
 | 254 | 432 | scott |
@@ -432,9 +432,9 @@
 | 424 | 279 | Ziggy |
 | 425 | 278 | Shainne Brewer |
 | 426 | 278 | L Bear Champion |
-| 427 | 277 | Jess Reyes |
-| 428 | 277 | Silly SeaWeed |
-| 429 | 277 | Maria Hammie |
+| 427 | 277 | Silly SeaWeed |
+| 428 | 277 | Maria Hammie |
+| 429 | 277 | Jess Reyes |
 | 430 | 276 | Dennis Bradley |
 | 431 | 275 | Jarred Falls |
 | 432 | 274 | Cheery Fitline |
@@ -863,7 +863,7 @@
 | 855 | 134 | Steven Roe |
 | 856 | 134 | Tabitha Henson |
 | 857 | 133 | Hog Crankin |
-| 858 | 133 | Raymond Roberts |
+| 858 | 133 | April Jo Roder |
 | 859 | 133 | Jenjen |
 | 860 | 133 | Raymond Roberts |
 | 861 | 132 | JEan Price |
