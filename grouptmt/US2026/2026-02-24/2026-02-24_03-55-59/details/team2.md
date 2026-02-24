@@ -119,8 +119,8 @@
 | 111 | 2687 | Kelsey Kyle Rhodes |
 | 112 | 2670 | Rosemadder |
 | 113 | 2666 | ShinyRose |
-| 114 | 2651 | Desiree Harris Rosch |
-| 115 | 2651 | Rebecca Doughman |
+| 114 | 2651 | Rebecca Doughman |
+| 115 | 2651 | Desiree Harris Rosch |
 | 116 | 2641 | Freya |
 | 117 | 2631 | bonsai |
 | 118 | 2613 | Jen Tramack |
@@ -220,8 +220,8 @@
 | 212 | 1678 | Jane Fong |
 | 213 | 1677 | Teddi Notyalc |
 | 214 | 1669 | Mischelle Clay |
-| 215 | 1661 | Scott Treadway |
-| 216 | 1661 | Danielle Johnson-Chandler |
+| 215 | 1661 | Danielle Johnson-Chandler |
+| 216 | 1661 | Scott Treadway |
 | 217 | 1656 | Binyah-Binyah |
 | 218 | 1655 | Glitzy Stackzone |
 | 219 | 1651 | Luna |
@@ -405,8 +405,8 @@
 | 397 | 1084 | Emilee Burke |
 | 398 | 1081 | Barbra Miller |
 | 399 | 1080 | BK Queen |
-| 400 | 1079 | Jennifer Kistner |
-| 401 | 1079 | Angela Bonquiqui Dinish |
+| 400 | 1079 | Angela Bonquiqui Dinish |
+| 401 | 1079 | Jennifer Kistner |
 | 402 | 1075 | SaraMarie Eveland |
 | 403 | 1074 | Diana Ayers |
 | 404 | 1074 | Jennifer Monroe Kelly |

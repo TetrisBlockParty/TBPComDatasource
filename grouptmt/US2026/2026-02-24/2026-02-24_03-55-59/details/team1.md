@@ -143,8 +143,8 @@
 | 135 | 604 | Ryan Lunnin |
 | 136 | 601 | Evan Richmond |
 | 137 | 598 | Jessi Sauer |
-| 138 | 593 | Maria C. Hernandez |
-| 139 | 593 | Giddy Cascade |
+| 138 | 593 | Giddy Cascade |
+| 139 | 593 | Maria C. Hernandez |
 | 140 | 589 | Virginia Gray Floyd |
 | 141 | 589 | April Carroll |
 | 142 | 587 | Deanna L Hermanson |
@@ -167,24 +167,24 @@
 | 159 | 543 | Tipsy Riseclear |
 | 160 | 543 | Nicole Roseberry Weber |
 | 161 | 540 | Tonya Beasley |
-| 162 | 537 | Stephanie Zahn |
-| 163 | 537 | BadG52 |
+| 162 | 537 | BadG52 |
+| 163 | 537 | Stephanie Zahn |
 | 164 | 535 | Plucky Ziggy |
 | 165 | 533 | .running. |
 | 166 | 528 | ALFD |
 | 167 | 527 | Nery Martinez |
 | 168 | 522 | Constance Risner |
 | 169 | 521 | Teri Oehlke |
-| 170 | 519 | Arianna O'Brien |
-| 171 | 519 | Anaid Sanchez |
+| 170 | 519 | Anaid Sanchez |
+| 171 | 519 | Arianna O'Brien |
 | 172 | 513 | Colena Davenport |
 | 173 | 513 | phrmblk24 |
 | 174 | 511 | MomMom |
 | 175 | 510 | Rat666 |
 | 176 | 497 | Steve Schneider |
 | 177 | 497 | MIKOZ |
-| 178 | 496 | Michelle Beres |
-| 179 | 496 | Sarah Somers Gray |
+| 178 | 496 | Sarah Somers Gray |
+| 179 | 496 | Michelle Beres |
 | 180 | 494 | Sean Stallings |
 | 181 | 492 | Jennifer Hardman |
 | 182 | 492 | Rebekah LeiAnn Bonsell |
@@ -246,8 +246,8 @@
 | 238 | 399 | Lakeisha Chapman |
 | 239 | 398 | MommaKFC |
 | 240 | 397 | Alenoush Karimian |
-| 241 | 396 | Monica Donato |
-| 242 | 396 | Sam Williams |
+| 241 | 396 | Sam Williams |
+| 242 | 396 | Monica Donato |
 | 243 | 395 | Tami Luce Martin |
 | 244 | 393 | Wisa |
 | 245 | 391 | Happy Basegrid |
@@ -263,11 +263,11 @@
 | 255 | 380 | Snippy Wipebuilder |
 | 256 | 379 | Austin James |
 | 257 | 378 | Eddie Dillon |
-| 258 | 377 | GATOR |
-| 259 | 377 | DoodleBug |
-| 260 | 376 | Billie Ann Eason |
+| 258 | 377 | DoodleBug |
+| 259 | 377 | GATOR |
+| 260 | 376 | Brian Richardsson |
 | 261 | 376 | Sassy Builderline |
-| 262 | 376 | Brian Richardsson |
+| 262 | 376 | Billie Ann Eason |
 | 263 | 375 | Colleen Pinette |
 | 264 | 375 | DaRascal |
 | 265 | 374 | Snappy Brickbuilder |
@@ -336,8 +336,8 @@
 | 328 | 322 | Chris65 |
 | 329 | 321 | LD1 |
 | 330 | 320 | Zany Tiler |
-| 331 | 319 | Crystal Cheresnowsky |
-| 332 | 319 | Fresno Beotoni |
+| 331 | 319 | Fresno Beotoni |
+| 332 | 319 | Crystal Cheresnowsky |
 | 333 | 317 | Bloknboy |
 | 334 | 317 | Shanae Grant |
 | 335 | 317 | Angela Spann |

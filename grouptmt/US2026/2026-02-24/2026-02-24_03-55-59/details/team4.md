@@ -215,8 +215,8 @@
 | 207 | 473 | Cranky Rollpiece |
 | 208 | 473 | Jolly Dashfit |
 | 209 | 465 | June Hoffman |
-| 210 | 462 | Crystal Nicolette Moore |
-| 211 | 462 | Leslie Thomas |
+| 210 | 462 | Leslie Thomas |
+| 211 | 462 | Crystal Nicolette Moore |
 | 212 | 461 | TRCuse |
 | 213 | 460 | Kathy Brookins |
 | 214 | 457 | Kristin Manee |
@@ -292,8 +292,8 @@
 | 284 | 359 | KimoKoala |
 | 285 | 359 | Holly |
 | 286 | 358 | Lora |
-| 287 | 358 | Twisty Cascadezone |
-| 288 | 358 | David Lay |
+| 287 | 358 | David Lay |
+| 288 | 358 | Twisty Cascadezone |
 | 289 | 352 | Brittney Orengo |
 | 290 | 350 | Dizzy Matchzone |
 | 291 | 349 | Richard-April Kice |
