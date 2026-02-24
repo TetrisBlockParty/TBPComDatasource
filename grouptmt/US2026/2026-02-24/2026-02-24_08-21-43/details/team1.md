@@ -155,8 +155,8 @@
 | 147 | 598 | Jessi Sauer |
 | 148 | 593 | Giddy Cascade |
 | 149 | 587 | Deanna L Hermanson |
-| 150 | 586 | Christy Jones |
-| 151 | 586 | Tiger Lily |
+| 150 | 586 | Tiger Lily |
+| 151 | 586 | Christy Jones |
 | 152 | 582 | Hellsin |
 | 153 | 581 | Jennifer Hardman |
 | 154 | 574 | Bouncy Grid |
@@ -245,13 +245,13 @@
 | 237 | 424 | Serina Marie |
 | 238 | 423 | Howdi Duty |
 | 239 | 422 | Jamise Brown |
-| 240 | 421 | Letson Melissa |
-| 241 | 421 | Plucky Stacky |
+| 240 | 421 | Plucky Stacky |
+| 241 | 421 | Letson Melissa |
 | 242 | 420 | Jennifer Noe Chandler |
 | 243 | 419 | John J. Cronin |
 | 244 | 419 | Daring Fitclear |
-| 245 | 416 | Larissa Marie Nelson |
-| 246 | 416 | Jessica Sheehan |
+| 245 | 416 | Jessica Sheehan |
+| 246 | 416 | Larissa Marie Nelson |
 | 247 | 414 | Bird Person |
 | 248 | 412 | Sleepysloath5745 |
 | 249 | 410 | Paula Martin |
@@ -286,8 +286,8 @@
 | 278 | 377 | DoodleBug |
 | 279 | 377 | Rayline M Bradshaw |
 | 280 | 376 | Sassy Builderline |
-| 281 | 376 | Chantelle Ceno |
-| 282 | 376 | Brian Richardsson |
+| 281 | 376 | Brian Richardsson |
+| 282 | 376 | Chantelle Ceno |
 | 283 | 376 | Billie Ann Eason |
 | 284 | 375 | DaRascal |
 | 285 | 374 | Snappy Brickbuilder |
@@ -312,11 +312,11 @@
 | 304 | 362 | Brooke Elizabeth Antill |
 | 305 | 360 | Tyler Hertzog |
 | 306 | 359 | Rodney Schmerfeld |
-| 307 | 356 | Brave Linkmatch |
-| 308 | 356 | Dawn Michelle Scheible |
+| 307 | 356 | Dawn Michelle Scheible |
+| 308 | 356 | Brave Linkmatch |
 | 309 | 356 | build master |
-| 310 | 355 | Shanae Grant |
-| 311 | 355 | Toya Lynn |
+| 310 | 355 | Toya Lynn |
+| 311 | 355 | Shanae Grant |
 | 312 | 354 | Kimberly Davis |
 | 313 | 354 | Sarahdactyl |
 | 314 | 353 | Josh Riemer |
@@ -457,12 +457,12 @@
 | 449 | 271 | Elizabeth Kubli |
 | 450 | 271 | Patty Lavigne Craddock |
 | 451 | 270 | Krie |
-| 452 | 270 | John Barron |
-| 453 | 270 | Ariel Whittington |
+| 452 | 270 | Ariel Whittington |
+| 453 | 270 | John Barron |
 | 454 | 269 | Ramona Shaver |
 | 455 | 268 | Ashley Adams |
-| 456 | 267 | Barry Mac'Ockner |
-| 457 | 267 | Dena Kayy |
+| 456 | 267 | Dena Kayy |
+| 457 | 267 | Barry Mac'Ockner |
 | 458 | 266 | Angela Jones |
 | 459 | 265 | Cranky Pattern |
 | 460 | 265 | Yahowah |

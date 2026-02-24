@@ -300,8 +300,8 @@
 | 292 | 1407 | Lola C Davis |
 | 293 | 1392 | Mikayala Szaz |
 | 294 | 1392 | Karen Snyder Schrage |
-| 295 | 1391 | Ronnie Nelson |
-| 296 | 1391 | Kimberly Hauck-Rausch |
+| 295 | 1391 | Kimberly Hauck-Rausch |
+| 296 | 1391 | Ronnie Nelson |
 | 297 | 1387 | Samantha Scibelli |
 | 298 | 1386 | Kimmy Newman |
 | 299 | 1383 | Ladyrainbootz |
@@ -1740,8 +1740,8 @@
 | 1732 | 365 | Abi Anderson |
 | 1733 | 365 | Nicole RareGarnet Sykes-Hill |
 | 1734 | 365 | Benjamin J Mendenhall |
-| 1735 | 364 | Ashley Anderson |
-| 1736 | 364 | Janis Resendiz |
+| 1735 | 364 | Janis Resendiz |
+| 1736 | 364 | Ashley Anderson |
 | 1737 | 364 | Jason Block |
 | 1738 | 364 | Paro |
 | 1739 | 364 | Claire |

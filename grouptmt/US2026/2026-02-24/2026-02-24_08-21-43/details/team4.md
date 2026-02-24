@@ -100,15 +100,15 @@
 | 92 | 878 | Lucille Truesdale |
 | 93 | 873 | Courtney Cicoria |
 | 94 | 869 | Judy Cox |
-| 95 | 864 | Samantha Peterson |
-| 96 | 864 | Guy Incognito |
+| 95 | 864 | Guy Incognito |
+| 96 | 864 | Samantha Peterson |
 | 97 | 854 | Shauna Havard |
 | 98 | 851 | Jason Hart |
 | 99 | 846 | Christine Marie |
 | 100 | 840 | SAP |
 | 101 | 837 | Rica Mitchell |
-| 102 | 834 | Brittney Orengo |
-| 103 | 834 | quicksand420 |
+| 102 | 834 | quicksand420 |
+| 103 | 834 | Brittney Orengo |
 | 104 | 815 | Diana Houts |
 | 105 | 813 | Klo |
 | 106 | 811 | Sassy Pattern |
@@ -137,7 +137,7 @@
 | 129 | 712 | H.R. Block |
 | 130 | 712 | Leslie Nicole |
 | 131 | 708 | Jacqueline Helm |
-| 132 | 704 | George Nutt |
+| 132 | 704 | Austin Owens |
 | 133 | 704 | Chilly Crasher |
 | 134 | 704 | George Nutt |
 | 135 | 682 | Raegan Lane-Ross |
@@ -169,8 +169,8 @@
 | 161 | 595 | TRCuse |
 | 162 | 591 | Cursed Hag |
 | 163 | 587 | YoMomma |
-| 164 | 586 | Carlos Ramirez |
-| 165 | 586 | Latisha Davis |
+| 164 | 586 | Latisha Davis |
+| 165 | 586 | Carlos Ramirez |
 | 166 | 585 | Tracey Lehmann |
 | 167 | 584 | Carlton Unfiltered |
 | 168 | 576 | Jade Rian |
@@ -212,12 +212,12 @@
 | 204 | 509 | Mimi |
 | 205 | 507 | Andria Lynn |
 | 206 | 504 | Deanna Deckard |
-| 207 | 502 | Christina Black |
-| 208 | 502 | Ericca Eldridge |
+| 207 | 502 | Ericca Eldridge |
+| 208 | 502 | Christina Black |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
-| 211 | 496 | Jessica Bohlken |
-| 212 | 496 | Lori |
+| 211 | 496 | Lori |
+| 212 | 496 | Jessica Bohlken |
 | 213 | 495 | Joeliecea Cobb |
 | 214 | 494 | Bio Nelly |
 | 215 | 493 | Amanda Pauldo-Ivy |
@@ -281,8 +281,8 @@
 | 273 | 399 | 030Synner |
 | 274 | 398 | Tyler Terrific |
 | 275 | 397 | blockstar |
-| 276 | 395 | Denise B |
-| 277 | 395 | BigSammy420 |
+| 276 | 395 | BigSammy420 |
+| 277 | 395 | Denise B |
 | 278 | 394 | Nikki Rae Gordon |
 | 279 | 393 | Montiette Mcglown |
 | 280 | 392 | Neirrah B Olailjeel |
@@ -302,8 +302,8 @@
 | 294 | 375 | George Tzouganos |
 | 295 | 373 | Russ Attitude |
 | 296 | 371 | Jessi Cinotto |
-| 297 | 370 | Kris Bartlett |
-| 298 | 370 | Twisty Risebuilder |
+| 297 | 370 | Twisty Risebuilder |
+| 298 | 370 | Kris Bartlett |
 | 299 | 368 | Dan Wold |
 | 300 | 367 | Meg |
 | 301 | 365 | David Lay |
@@ -327,8 +327,8 @@
 | 319 | 347 | Perky Patternblock |
 | 320 | 346 | Metsfan |
 | 321 | 344 | Amanda Maciel Clarke |
-| 322 | 343 | HastyGrabber |
-| 323 | 343 | Blessedmama |
+| 322 | 343 | Blessedmama |
+| 323 | 343 | HastyGrabber |
 | 324 | 342 | Lauren Lamb |
 | 325 | 341 | Jason Bosco |
 | 326 | 340 | Juls |
