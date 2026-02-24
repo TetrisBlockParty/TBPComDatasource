@@ -232,8 +232,8 @@
 | 224 | 1693 | Ashley Dow |
 | 225 | 1679 | Mischelle Clay |
 | 226 | 1663 | Alex Stone LaRue |
-| 227 | 1661 | Danielle Johnson-Chandler |
-| 228 | 1661 | Scott Treadway |
+| 227 | 1661 | Scott Treadway |
+| 228 | 1661 | Danielle Johnson-Chandler |
 | 229 | 1656 | Binyah-Binyah |
 | 230 | 1655 | Glitzy Stackzone |
 | 231 | 1651 | Luna |
@@ -425,16 +425,16 @@
 | 417 | 1085 | Bee |
 | 418 | 1085 | Barbra Miller |
 | 419 | 1085 | Lupita Flores |
-| 420 | 1084 | Emilee Burke |
-| 421 | 1084 | William Hunt |
+| 420 | 1084 | William Hunt |
+| 421 | 1084 | Emilee Burke |
 | 422 | 1080 | Jennifer Monroe Kelly |
 | 423 | 1079 | Angela Bonquiqui Dinish |
 | 424 | 1079 | AndrewandShela Gornik |
 | 425 | 1075 | SaraMarie Eveland |
 | 426 | 1074 | Diana Ayers |
 | 427 | 1073 | Jodi Blake |
-| 428 | 1071 | Kim Dean |
-| 429 | 1071 | Nashu |
+| 428 | 1071 | Nashu |
+| 429 | 1071 | Kim Dean |
 | 430 | 1068 | Tiffany Branham |
 | 431 | 1067 | Lourisha |
 | 432 | 1067 | Taylor Phillips |
@@ -625,8 +625,8 @@
 | 617 | 802 | Trisha Gallagher |
 | 618 | 795 | Carrie Mitchell |
 | 619 | 795 | William Bresee |
-| 620 | 795 | Aletha Williams |
-| 621 | 795 | Alexandra Weir |
+| 620 | 795 | Alexandra Weir |
+| 621 | 795 | Aletha Williams |
 | 622 | 794 | Cathleena Giusto |
 | 623 | 793 | Heather Anspaugh |
 | 624 | 792 | Beatboxxer |
@@ -1496,13 +1496,13 @@
 | 1488 | 406 | Erin StFrancis |
 | 1489 | 405 | Debbie Gerlib-Molinari Leigh |
 | 1490 | 405 | Cool Slam |
-| 1491 | 405 | Layna Lyons |
-| 1492 | 405 | Cheeky Twistfit |
+| 1491 | 405 | Cheeky Twistfit |
+| 1492 | 405 | Layna Lyons |
 | 1493 | 405 | Caroline Roy |
 | 1494 | 405 | Monica Wilson |
 | 1495 | 404 | Jean FU Jagielski |
-| 1496 | 404 | Daring Matchfit |
-| 1497 | 404 | Mike Schwob |
+| 1496 | 404 | Mike Schwob |
+| 1497 | 404 | Daring Matchfit |
 | 1498 | 404 | Regina Unruh |
 | 1499 | 403 | Selph SpazDevil-Selph |
 | 1500 | 403 | Janessa Pafford |

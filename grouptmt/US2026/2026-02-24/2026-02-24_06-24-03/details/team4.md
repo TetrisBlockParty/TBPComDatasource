@@ -70,8 +70,8 @@
 | 62 | 1106 | BertMofo |
 | 63 | 1094 | Shelly Chandler |
 | 64 | 1089 | Alyssa Papen |
-| 65 | 1082 | Avy Absol |
-| 66 | 1082 | Dion Crommarty |
+| 65 | 1082 | Dion Crommarty |
+| 66 | 1082 | Avy Absol |
 | 67 | 1081 | Dustee Craddock-Harrison |
 | 68 | 1069 | Heather Tushner |
 | 69 | 1056 | Keith Kelley |
@@ -197,8 +197,8 @@
 | 189 | 516 | Nick Gray |
 | 190 | 516 | Trish |
 | 191 | 516 | Twisty Clicky |
-| 192 | 513 | Erin Thomas |
-| 193 | 513 | Zesty Twistbuilder |
+| 192 | 513 | Zesty Twistbuilder |
+| 193 | 513 | Erin Thomas |
 | 194 | 512 | ThaEviLJeNiuZ |
 | 195 | 512 | Ellen Durfee |
 | 196 | 512 | Casey Jeffcoat |
@@ -297,8 +297,8 @@
 | 289 | 376 | Nig |
 | 290 | 375 | George Tzouganos |
 | 291 | 373 | Russ Attitude |
-| 292 | 370 | Twisty Risebuilder |
-| 293 | 370 | Kris Bartlett |
+| 292 | 370 | Kris Bartlett |
+| 293 | 370 | Twisty Risebuilder |
 | 294 | 367 | Meg |
 | 295 | 365 | David Lay |
 | 296 | 364 | Lora |

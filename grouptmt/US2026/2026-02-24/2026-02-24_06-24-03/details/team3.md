@@ -104,8 +104,8 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Diana Ibarra |
-| 100 | 1318 | Tiff Vs Tiffany |
+| 99 | 1318 | Tiff Vs Tiffany |
+| 100 | 1318 | Diana Ibarra |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
@@ -198,13 +198,13 @@
 | 190 | 784 | Jone |
 | 191 | 783 | Julian Murphy |
 | 192 | 777 | Daryn Elliott |
-| 193 | 774 | ren |
-| 194 | 774 | Twisty Brick LT |
+| 193 | 774 | Twisty Brick LT |
+| 194 | 774 | ren |
 | 195 | 772 | Tye Stovall |
 | 196 | 769 | Hasty Cascadefit |
 | 197 | 768 | Cyd061769 |
-| 198 | 763 | Tasha Gillespie |
-| 199 | 763 | Khaleada McGill Banks |
+| 198 | 763 | Khaleada McGill Banks |
+| 199 | 763 | Tasha Gillespie |
 | 200 | 760 | Kiki |
 | 201 | 759 | Mykal Burton |
 | 202 | 757 | Fancy Cascader |
@@ -251,8 +251,8 @@
 | 243 | 633 | Jillian Symons |
 | 244 | 630 | Jackie Miller |
 | 245 | 629 | rnr junky |
-| 246 | 627 | Louise Stacy Sisson |
-| 247 | 627 | Juliana Dottore |
+| 246 | 627 | Juliana Dottore |
+| 247 | 627 | Louise Stacy Sisson |
 | 248 | 625 | Jacqueline Rodriguez |
 | 249 | 624 | Hyper Matchzone |
 | 250 | 623 | Giggy Glidepiece |
@@ -261,8 +261,8 @@
 | 253 | 618 | Betty Bóò |
 | 254 | 613 | Rebecca Funderburk Kirby |
 | 255 | 605 | Sarah Cowan Burgos |
-| 256 | 604 | Sherry Ogden |
-| 257 | 604 | Bmo |
+| 256 | 604 | Bmo |
+| 257 | 604 | Sherry Ogden |
 | 258 | 601 | Betty Rosas |
 | 259 | 600 | Natasha Jones |
 | 260 | 600 | Connie Mohler-Fair |
@@ -386,8 +386,8 @@
 | 378 | 426 | Christina Rotz Shows |
 | 379 | 424 | Ava Petito |
 | 380 | 423 | Dapper Liney |
-| 381 | 419 | Philip Rock |
-| 382 | 419 | Desiree Gold |
+| 381 | 419 | Desiree Gold |
+| 382 | 419 | Philip Rock |
 | 383 | 419 | Maggie |
 | 384 | 418 | Rainbow77375 |
 | 385 | 416 | Tay |
