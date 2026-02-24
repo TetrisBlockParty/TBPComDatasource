@@ -44,8 +44,8 @@
 | 36 | 1413 | Trippy Redd |
 | 37 | 1405 | Chipper Gridlock |
 | 38 | 1391 | Aaron Garnett |
-| 39 | 1334 | Tyler Alcock |
-| 40 | 1334 | june october |
+| 39 | 1334 | june october |
+| 40 | 1334 | Tyler Alcock |
 | 41 | 1277 | Marianne Louise West |
 | 42 | 1250 | Stef Hu |
 | 43 | 1239 | Brenda Stewart |
@@ -277,9 +277,9 @@
 | 269 | 357 | Paula Martin |
 | 270 | 356 | Tyler Hertzog |
 | 271 | 354 | Kimberly Davis |
-| 272 | 353 | Jessica Russell |
-| 273 | 353 | Josh Riemer |
-| 274 | 353 | Keith Mathis |
+| 272 | 353 | Josh Riemer |
+| 273 | 353 | Keith Mathis |
+| 274 | 353 | Jessica Russell |
 | 275 | 352 | Jamie Jury |
 | 276 | 349 | Cool Shiftsnap |
 | 277 | 349 | Rodney Schmerfeld |

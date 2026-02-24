@@ -26,8 +26,8 @@
 | 18 | 2365 | Elizabeth Sallas |
 | 19 | 2002 | Misty Hollibaugh |
 | 20 | 1962 | Cool Buildout |
-| 21 | 1775 | Dustin Robert |
-| 22 | 1775 | Ash |
+| 21 | 1775 | Ash |
+| 22 | 1775 | Dustin Robert |
 | 23 | 1764 | Jason Allen |
 | 24 | 1742 | Ancient Intuition |
 | 25 | 1706 | Ayanna Soto |
@@ -471,8 +471,8 @@
 | 463 | 228 | Bethany Ison |
 | 464 | 227 | Asher |
 | 465 | 225 | Jennifer Renee |
-| 466 | 224 | Ultramarine |
-| 467 | 224 | Vanessa Smart |
+| 466 | 224 | Vanessa Smart |
+| 467 | 224 | Ultramarine |
 | 468 | 223 | Jessica Atkinson |
 | 469 | 223 | Funky Risepiece |
 | 470 | 223 | Bryan Hodgins |
