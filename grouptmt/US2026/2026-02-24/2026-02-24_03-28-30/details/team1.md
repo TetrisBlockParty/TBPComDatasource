@@ -416,8 +416,8 @@
 | 408 | 271 | Amanda Wharton |
 | 409 | 271 | Patty Lavigne Craddock |
 | 410 | 271 | Al Smith Jr |
-| 411 | 270 | Ariel Whittington |
-| 412 | 270 | Brenda Alexander |
+| 411 | 270 | Brenda Alexander |
+| 412 | 270 | Ariel Whittington |
 | 413 | 269 | Ramona Shaver |
 | 414 | 268 | Debbie Davis |
 | 415 | 265 | Cranky Pattern |

@@ -353,8 +353,8 @@
 | 345 | 300 | Sarah Neathery |
 | 346 | 300 | Carter Jones |
 | 347 | 298 | Bradley Reeves |
-| 348 | 297 | Brittany Marsh |
-| 349 | 297 | Jackie Clark |
+| 348 | 297 | Jackie Clark |
+| 349 | 297 | Brittany Marsh |
 | 350 | 296 | Zethra Prenisha Rahming |
 | 351 | 295 | Deb Rubeck |
 | 352 | 295 | Twisty Risebuilder |

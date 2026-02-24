@@ -119,8 +119,8 @@
 | 111 | 2687 | Kelsey Kyle Rhodes |
 | 112 | 2670 | Rosemadder |
 | 113 | 2666 | ShinyRose |
-| 114 | 2651 | Desiree Harris Rosch |
-| 115 | 2651 | Rebecca Doughman |
+| 114 | 2651 | Rebecca Doughman |
+| 115 | 2651 | Desiree Harris Rosch |
 | 116 | 2641 | Freya |
 | 117 | 2613 | Jen Tramack |
 | 118 | 2596 | Mema |
@@ -336,8 +336,8 @@
 | 328 | 1229 | Brenda Messer |
 | 329 | 1227 | Rebecca Miller |
 | 330 | 1225 | RAEPR05 |
-| 331 | 1222 | Nuke Morris |
-| 332 | 1222 | Ashle Scranton |
+| 331 | 1222 | Ashle Scranton |
+| 332 | 1222 | Nuke Morris |
 | 333 | 1222 | Kristin Gower |
 | 334 | 1218 | LaKisha Anderson |
 | 335 | 1217 | Brooks Brooks |
@@ -401,13 +401,13 @@
 | 393 | 1084 | Emilee Burke |
 | 394 | 1081 | Barbra Miller |
 | 395 | 1080 | BK Queen |
-| 396 | 1079 | Jennifer Kistner |
-| 397 | 1079 | Angela Bonquiqui Dinish |
+| 396 | 1079 | Angela Bonquiqui Dinish |
+| 397 | 1079 | Jennifer Kistner |
 | 398 | 1075 | SaraMarie Eveland |
 | 399 | 1074 | Diana Ayers |
 | 400 | 1073 | Jodi Blake |
-| 401 | 1071 | Kim Dean |
-| 402 | 1071 | Nashu |
+| 401 | 1071 | Nashu |
+| 402 | 1071 | Kim Dean |
 | 403 | 1068 | Tiffany Branham |
 | 404 | 1067 | Taylor Phillips |
 | 405 | 1067 | Lourisha |
@@ -420,9 +420,9 @@
 | 412 | 1044 | Hunter Connors |
 | 413 | 1043 | Brave Dropmatch |
 | 414 | 1042 | Kia Humphery |
-| 415 | 1042 | Matthew Barry |
+| 415 | 1042 | Spunkysmom |
 | 416 | 1042 | Mcintosh Brian Shalonda |
-| 417 | 1042 | Spunkysmom |
+| 417 | 1042 | Matthew Barry |
 | 418 | 1041 | Crystal Hoffman |
 | 419 | 1038 | Giggly Snap |
 | 420 | 1036 | Allison Lockyer |
