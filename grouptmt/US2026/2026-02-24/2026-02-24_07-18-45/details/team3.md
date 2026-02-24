@@ -180,8 +180,8 @@
 | 172 | 857 | Dana Fox |
 | 173 | 856 | Dana Winters |
 | 174 | 854 | Speedy Bridger |
-| 175 | 847 | Daring Brickzone |
-| 176 | 847 | Daira Largen |
+| 175 | 847 | Daira Largen |
+| 176 | 847 | Daring Brickzone |
 | 177 | 846 | Nicole Myers |
 | 178 | 845 | Edwin Calvillo Jr. |
 | 179 | 821 | Angella Lyons |
@@ -244,8 +244,8 @@
 | 236 | 646 | Duane Bright |
 | 237 | 644 | Dawn Williams |
 | 238 | 642 | Rania Zaqout |
-| 239 | 641 | Tom Nault |
-| 240 | 641 | Kristal C Lee |
+| 239 | 641 | Kristal C Lee |
+| 240 | 641 | Tom Nault |
 | 241 | 640 | Dee Pratt |
 | 242 | 639 | Nichol Graham |
 | 243 | 635 | Amber Hughes |
@@ -280,13 +280,13 @@
 | 272 | 581 | Crystal Hine |
 | 273 | 578 | James Mitchell |
 | 274 | 576 | Rynne Ellis |
-| 275 | 574 | Rachael McClain Owens |
-| 276 | 574 | Danielle Balcom |
-| 277 | 574 | Fallorina Susana |
+| 275 | 574 | Danielle Balcom |
+| 276 | 574 | Fallorina Susana |
+| 277 | 574 | Rachael McClain Owens |
 | 278 | 572 | Tessina Dewey-Mancino |
 | 279 | 570 | thekey |
-| 280 | 569 | Michael Johnson |
-| 281 | 569 | Silly Twist |
+| 280 | 569 | Silly Twist |
+| 281 | 569 | Michael Johnson |
 | 282 | 566 | Eileen Brady Thurber |
 | 283 | 565 | Michael Lucado |
 | 284 | 564 | Micayah Stevens |
@@ -306,8 +306,8 @@
 | 298 | 540 | Tanya Kittrell |
 | 299 | 539 | Fancy Curver |
 | 300 | 539 | Kate M. Murdock |
-| 301 | 536 | Shannon Matthew Byers |
-| 302 | 536 | Giddy Twistbuilder |
+| 301 | 536 | Giddy Twistbuilder |
+| 302 | 536 | Shannon Matthew Byers |
 | 303 | 535 | kacihall |
 | 304 | 533 | BugMansMom |
 | 305 | 532 | Sarah Muradyan |
@@ -334,8 +334,8 @@
 | 326 | 490 | Cassandra Bryant |
 | 327 | 489 | Isabel Ocasio |
 | 328 | 487 | MsBee |
-| 329 | 486 | Skippy |
-| 330 | 486 | Sleepy |
+| 329 | 486 | Sleepy |
+| 330 | 486 | Skippy |
 | 331 | 482 | Chummy Rumbler |
 | 332 | 481 | Tiffanie Alley |
 | 333 | 480 | TLM |
@@ -347,8 +347,8 @@
 | 339 | 471 | Sarah Moyer |
 | 340 | 467 | Jul |
 | 341 | 467 | Danielle Rhoades |
-| 342 | 465 | Blocked |
-| 343 | 465 | Noettín Kan Zasnemoore |
+| 342 | 465 | Noettín Kan Zasnemoore |
+| 343 | 465 | Blocked |
 | 344 | 464 | Snazzy Filler |
 | 345 | 462 | Tegan Chapman |
 | 346 | 462 | Brandon Givens |
@@ -506,7 +506,7 @@
 | 498 | 336 | luluraine |
 | 499 | 335 | Johnathan Dowe |
 | 500 | 335 | Sassy Brickmatch |
-| 501 | 334 | Jalissa Monique |
+| 501 | 334 | Carol Cain Thurman |
 | 502 | 334 | Spencer Nikki |
 | 503 | 334 | Jalissa Monique |
 | 504 | 334 | Stella |

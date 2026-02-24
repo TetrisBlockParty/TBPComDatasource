@@ -1004,8 +1004,8 @@
 | 996 | 577 | GinRox88 |
 | 997 | 575 | Cini |
 | 998 | 575 | Joel Rosado |
-| 999 | 575 | Vung Nguyen |
-| 1000 | 575 | Kira Krause |
+| 999 | 575 | Kira Krause |
+| 1000 | 575 | Vung Nguyen |
 | 1001 | 574 | Chris Emanuel |
 | 1002 | 574 | Shyenn Gadsby |
 | 1003 | 574 | Shannon Gerbis |
@@ -1047,11 +1047,11 @@
 | 1039 | 557 | Jason Garnatz |
 | 1040 | 557 | Marina Linda |
 | 1041 | 556 | Kamilya Rembert |
-| 1042 | 555 | Glitzy Rollblock |
-| 1043 | 555 | Noel Tarmy |
+| 1042 | 555 | Noel Tarmy |
+| 1043 | 555 | Glitzy Rollblock |
 | 1044 | 555 | Amy Roche |
-| 1045 | 554 | Hoppy Glidebuilder |
-| 1046 | 554 | Cheery Puzzler |
+| 1045 | 554 | Cheery Puzzler |
+| 1046 | 554 | Hoppy Glidebuilder |
 | 1047 | 554 | Dusti Rose Bingham |
 | 1048 | 553 | ruth |
 | 1049 | 553 | Tum |

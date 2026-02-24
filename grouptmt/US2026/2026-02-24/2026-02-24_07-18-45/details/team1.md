@@ -133,13 +133,13 @@
 | 125 | 652 | Evie Khalil |
 | 126 | 651 | Dandy Basegrid |
 | 127 | 650 | Bob |
-| 128 | 647 | Theo Pinnow |
-| 129 | 647 | April Carroll |
+| 128 | 647 | April Carroll |
+| 129 | 647 | Theo Pinnow |
 | 130 | 643 | Erin Rosberg |
 | 131 | 642 | Mario Cab |
 | 132 | 638 | Carrie Smith |
-| 133 | 629 | Death |
-| 134 | 629 | Tanya Carpenter-Reynolds |
+| 133 | 629 | Tanya Carpenter-Reynolds |
+| 134 | 629 | Death |
 | 135 | 628 | Trina Gee |
 | 136 | 626 | Damon J. Martin |
 | 137 | 622 | Chris K |
