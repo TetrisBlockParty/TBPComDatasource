@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 21:26:43 UTC
+# Standings for team1 as of 2026-02-24 21:27:22 UTC
 
 **Total Participants:** 2326
 
@@ -163,7 +163,7 @@
 | 155 | 652 | Erin Rosberg |
 | 156 | 647 | Theo Pinnow |
 | 157 | 632 | Snippy Wipebuilder |
-| 158 | 627 | Jennifer Hardman |
+| 158 | 628 | Jennifer Hardman |
 | 159 | 626 | Damon J. Martin |
 | 160 | 624 | Evan Richmond |
 | 161 | 623 | Jessie Welch |
@@ -493,10 +493,10 @@
 | 485 | 287 | Rikki Jo Creech |
 | 486 | 287 | Barry Mac'Ockner |
 | 487 | 287 | Abbey Crespo |
-| 488 | 286 | Cool Balancer |
-| 489 | 285 | Amie Fields |
-| 490 | 284 | Mary Cerciello |
-| 491 | 283 | Christy LaSure |
+| 488 | 286 | Christy LaSure |
+| 489 | 286 | Cool Balancer |
+| 490 | 285 | Amie Fields |
+| 491 | 284 | Mary Cerciello |
 | 492 | 283 | Matthew Foley |
 | 493 | 283 | Franswa |
 | 494 | 282 | Pauline Cortez |
@@ -2031,98 +2031,98 @@
 | 2023 | 19 | Koli |
 | 2024 | 19 | Chipper Corner |
 | 2025 | 19 | Adam Charles |
-| 2026 | 19 | Angie B. |
-| 2027 | 19 | vmoney |
-| 2028 | 19 | Loopy Wipeout |
-| 2029 | 18 | Edyie McGann |
-| 2030 | 18 | Yaya Dean |
-| 2031 | 18 | p |
-| 2032 | 18 | Melanie Lorraine |
-| 2033 | 18 | Davis Joshua |
-| 2034 | 18 | DEL77 |
-| 2035 | 18 | Jose Garcia |
-| 2036 | 18 | Shele Renee Stahl |
-| 2037 | 18 | Amy Singer |
-| 2038 | 18 | Pete |
-| 2039 | 18 | Jessica Collier |
-| 2040 | 18 | Greg Bonner |
-| 2041 | 18 | Jeri Edwards |
-| 2042 | 18 | Daniel Ortiz |
-| 2043 | 18 | Leann Nolley |
-| 2044 | 18 | Jumpy Zonegrid |
-| 2045 | 18 | Shady Perks82 |
-| 2046 | 18 | Princess Pea |
+| 2026 | 19 | vmoney |
+| 2027 | 19 | Loopy Wipeout |
+| 2028 | 19 | Angie B. |
+| 2029 | 18 | Yaya Dean |
+| 2030 | 18 | Greg Bonner |
+| 2031 | 18 | Edyie McGann |
+| 2032 | 18 | Amy Singer |
+| 2033 | 18 | Shele Renee Stahl |
+| 2034 | 18 | Jose Garcia |
+| 2035 | 18 | Melanie Lorraine |
+| 2036 | 18 | p |
+| 2037 | 18 | Shabba22 |
+| 2038 | 18 | Davis Joshua |
+| 2039 | 18 | DEL77 |
+| 2040 | 18 | Pete |
+| 2041 | 18 | Jessica Collier |
+| 2042 | 18 | Samantha Vidaurri |
+| 2043 | 18 | Jeri Edwards |
+| 2044 | 18 | Daniel Ortiz |
+| 2045 | 18 | Pm Ca |
+| 2046 | 18 | yaha |
 | 2047 | 18 | Arthur James Watson |
-| 2048 | 18 | Samantha Vidaurri |
+| 2048 | 18 | Princess Pea |
 | 2049 | 18 | Teem |
-| 2050 | 18 | yaha |
-| 2051 | 18 | Kelsey Baumer |
-| 2052 | 18 | Shellzb Roberts |
-| 2053 | 18 | Pm Ca |
-| 2054 | 17 | Jeremy Davidson |
-| 2055 | 17 | Cranky Dash |
-| 2056 | 17 | White Mike |
-| 2057 | 17 | king gorky |
-| 2058 | 17 | Jessica Kelsey |
-| 2059 | 17 | Daring Buildgrid |
-| 2060 | 17 | Lori Magnuson Harju |
-| 2061 | 17 | Brittnie Duty |
-| 2062 | 17 | Snazzy Snapgrid |
-| 2063 | 17 | Karen McDannell |
-| 2064 | 17 | Deanna Revell |
-| 2065 | 17 | Axel poopie pants |
-| 2066 | 17 | Larry |
-| 2067 | 17 | Sancho Sancho Clos |
+| 2050 | 18 | Kelsey Baumer |
+| 2051 | 18 | Shady Perks82 |
+| 2052 | 18 | Jumpy Zonegrid |
+| 2053 | 18 | Shellzb Roberts |
+| 2054 | 18 | Leann Nolley |
+| 2055 | 17 | Karen McDannell |
+| 2056 | 17 | Axel poopie pants |
+| 2057 | 17 | White Mike |
+| 2058 | 17 | king gorky |
+| 2059 | 17 | Jessica Kelsey |
+| 2060 | 17 | Cranky Dash |
+| 2061 | 17 | Daring Buildgrid |
+| 2062 | 17 | Lori Magnuson Harju |
+| 2063 | 17 | Larry |
+| 2064 | 17 | Brittnie Duty |
+| 2065 | 17 | Jeremy Davidson |
+| 2066 | 17 | Snazzy Snapgrid |
+| 2067 | 17 | Deanna Revell |
 | 2068 | 17 | Samuel Wright |
-| 2069 | 16 | Nicole Voorhees |
-| 2070 | 16 | 4CNM4 |
-| 2071 | 16 | Michael Delancy |
-| 2072 | 16 | Inventor AAG3csff |
-| 2073 | 16 | Gaberiel Torres |
-| 2074 | 16 | Swanky Tilt |
-| 2075 | 16 | Natasha White |
-| 2076 | 16 | Danielle Richards |
-| 2077 | 16 | Fancy Towerfit |
-| 2078 | 16 | Spunky Stagger |
-| 2079 | 16 | Dirtyduck |
-| 2080 | 15 | Plucky Gridzone |
-| 2081 | 15 | Ashley Sheen |
-| 2082 | 15 | MJBB |
-| 2083 | 15 | Jessica Lynn Young |
-| 2084 | 15 | Lush Dasher |
-| 2085 | 15 | Debbie Scott Smith |
-| 2086 | 15 | Smiley Fallzone |
-| 2087 | 15 | Tina Marie |
-| 2088 | 15 | Goose Gosselin |
-| 2089 | 15 | Bella |
-| 2090 | 15 | Ashland Raynor |
-| 2091 | 15 | Snippy Rumbler |
-| 2092 | 15 | Betty |
-| 2093 | 15 | Gazelda Godsgotmyback Ansah |
+| 2069 | 17 | Sancho Sancho Clos |
+| 2070 | 16 | Dirtyduck |
+| 2071 | 16 | Spunky Stagger |
+| 2072 | 16 | Fancy Towerfit |
+| 2073 | 16 | 4CNM4 |
+| 2074 | 16 | Nicole Voorhees |
+| 2075 | 16 | Michael Delancy |
+| 2076 | 16 | Gaberiel Torres |
+| 2077 | 16 | Swanky Tilt |
+| 2078 | 16 | Inventor AAG3csff |
+| 2079 | 16 | Natasha White |
+| 2080 | 16 | Danielle Richards |
+| 2081 | 15 | Plucky Gridzone |
+| 2082 | 15 | Smiley Fallzone |
+| 2083 | 15 | Ashley Sheen |
+| 2084 | 15 | Tina Marie |
+| 2085 | 15 | MJBB |
+| 2086 | 15 | Jessica Lynn Young |
+| 2087 | 15 | Lush Dasher |
+| 2088 | 15 | Debbie Scott Smith |
+| 2089 | 15 | Jana Sebring-Stevens |
+| 2090 | 15 | Snippy Rumbler |
+| 2091 | 15 | Bella |
+| 2092 | 15 | Ashland Raynor |
+| 2093 | 15 | Betty |
 | 2094 | 15 | KeKe Wharton |
-| 2095 | 15 | npc1vis |
-| 2096 | 15 | John Austin |
-| 2097 | 15 | Jana Sebring-Stevens |
-| 2098 | 15 | Swanky Gridzone |
-| 2099 | 15 | only1eMm |
-| 2100 | 15 | ColombianNuttz |
-| 2101 | 15 | Marcus Bee |
-| 2102 | 15 | Jc Tom |
-| 2103 | 15 | Michael Doyle |
-| 2104 | 14 | fefe |
+| 2095 | 15 | Gazelda Godsgotmyback Ansah |
+| 2096 | 15 | npc1vis |
+| 2097 | 15 | John Austin |
+| 2098 | 15 | Goose Gosselin |
+| 2099 | 15 | Swanky Gridzone |
+| 2100 | 15 | only1eMm |
+| 2101 | 15 | ColombianNuttz |
+| 2102 | 15 | Marcus Bee |
+| 2103 | 15 | Jc Tom |
+| 2104 | 15 | Michael Doyle |
 | 2105 | 14 | Mike Broughton |
 | 2106 | 14 | Hope |
-| 2107 | 14 | Ishmail Huett |
-| 2108 | 14 | Travis Haynes |
-| 2109 | 14 | Tasha Nicole |
-| 2110 | 14 | Dixie Bradshaw-Basile |
-| 2111 | 14 | PJMouse |
-| 2112 | 14 | Nikki Bemis |
-| 2113 | 14 | Jumpy Piececlear |
-| 2114 | 14 | Cathy Jones |
-| 2115 | 14 | Joan Baczek |
-| 2116 | 14 | Joe Andrew Jackson |
-| 2117 | 14 | Shabba22 |
+| 2107 | 14 | fefe |
+| 2108 | 14 | Ishmail Huett |
+| 2109 | 14 | Travis Haynes |
+| 2110 | 14 | Tasha Nicole |
+| 2111 | 14 | Dixie Bradshaw-Basile |
+| 2112 | 14 | PJMouse |
+| 2113 | 14 | Nikki Bemis |
+| 2114 | 14 | Jumpy Piececlear |
+| 2115 | 14 | Cathy Jones |
+| 2116 | 14 | Joan Baczek |
+| 2117 | 14 | Joe Andrew Jackson |
 | 2118 | 14 | Jazzy Frame |
 | 2119 | 14 | Veronica Carter |
 | 2120 | 14 | Dandy Crawler |
