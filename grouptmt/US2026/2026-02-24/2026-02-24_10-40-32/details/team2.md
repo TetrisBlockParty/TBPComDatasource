@@ -244,8 +244,8 @@
 | 236 | 1673 | Alyssa Nadine Medelez |
 | 237 | 1668 | Cambrie Schultz |
 | 238 | 1663 | Alex Stone LaRue |
-| 239 | 1661 | Danielle Johnson-Chandler |
-| 240 | 1661 | Scott Treadway |
+| 239 | 1661 | Scott Treadway |
+| 240 | 1661 | Danielle Johnson-Chandler |
 | 241 | 1656 | Binyah-Binyah |
 | 242 | 1656 | Lemonaide |
 | 243 | 1655 | Glitzy Stackzone |
@@ -269,8 +269,8 @@
 | 261 | 1558 | Tim Dyer |
 | 262 | 1557 | Poppy Snap |
 | 263 | 1556 | Julay |
-| 264 | 1553 | Wendy Unsain |
-| 265 | 1553 | Sarah Freitas |
+| 264 | 1553 | Sarah Freitas |
+| 265 | 1553 | Wendy Unsain |
 | 266 | 1553 | Boldy Cascadepiece |
 | 267 | 1539 | Nadia Batista Garcia |
 | 268 | 1528 | Stacy Stickle |
@@ -306,8 +306,8 @@
 | 298 | 1397 | Tralonda Weeks |
 | 299 | 1397 | Christina Walker |
 | 300 | 1392 | Karen Snyder Schrage |
-| 301 | 1391 | Kimberly Hauck-Rausch |
-| 302 | 1391 | Ronnie Nelson |
+| 301 | 1391 | Ronnie Nelson |
+| 302 | 1391 | Kimberly Hauck-Rausch |
 | 303 | 1387 | Samantha Scibelli |
 | 304 | 1386 | Kimmy Newman |
 | 305 | 1383 | Ladyrainbootz |
@@ -591,8 +591,8 @@
 | 583 | 866 | Mishka Upchurch |
 | 584 | 866 | Tammie Siegfried |
 | 585 | 865 | Lilia Gomez |
-| 586 | 861 | Beth |
-| 587 | 861 | Shavonna Haynes |
+| 586 | 861 | Shavonna Haynes |
+| 587 | 861 | Beth |
 | 588 | 861 | Anthony |
 | 589 | 858 | Joshua Self |
 | 590 | 857 | Marella Petilo |
@@ -1055,8 +1055,8 @@
 | 1047 | 562 | Gabbrielle Sutton |
 | 1048 | 562 | Klee |
 | 1049 | 562 | Smiley Strike |
-| 1050 | 562 | Angie Winch |
-| 1051 | 562 | Dan Kulhanek |
+| 1050 | 562 | Dan Kulhanek |
+| 1051 | 562 | Angie Winch |
 | 1052 | 561 | Jenelle Case |
 | 1053 | 560 | De Hawkins |
 | 1054 | 559 | Bing |
@@ -1164,8 +1164,8 @@
 | 1156 | 520 | kcakes |
 | 1157 | 519 | Rob Brown |
 | 1158 | 519 | Ashley Robbins |
-| 1159 | 519 | Abby Jensen |
-| 1160 | 519 | gNiK |
+| 1159 | 519 | gNiK |
+| 1160 | 519 | Abby Jensen |
 | 1161 | 518 | Darlene Bowman |
 | 1162 | 517 | Rebecca Edmund |
 | 1163 | 517 | Meganator42 |

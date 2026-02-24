@@ -78,8 +78,8 @@
 | 70 | 1695 | Nora Rogers |
 | 71 | 1691 | Cass Mendoza |
 | 72 | 1681 | Gracie |
-| 73 | 1663 | Mahman |
-| 74 | 1663 | Angeline Joseph |
+| 73 | 1663 | Angeline Joseph |
+| 74 | 1663 | Mahman |
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
@@ -167,8 +167,8 @@
 | 159 | 928 | Edwin Calvillo Jr. |
 | 160 | 925 | Cherry Parker |
 | 161 | 914 | BadManSheLove |
-| 162 | 910 | opf |
-| 163 | 910 | Staci George Fitzsimmons |
+| 162 | 910 | Staci George Fitzsimmons |
+| 163 | 910 | opf |
 | 164 | 906 | Patti Skiles |
 | 165 | 899 | Jaime Monhaut-Reed |
 | 166 | 894 | Denita Mungro |
@@ -210,16 +210,16 @@
 | 202 | 784 | Jone |
 | 203 | 777 | Daryn Elliott |
 | 204 | 774 | ren |
-| 205 | 772 | Hasty Cascadefit |
-| 206 | 772 | Cyd061769 |
+| 205 | 772 | Cyd061769 |
+| 206 | 772 | Hasty Cascadefit |
 | 207 | 766 | Tasha Gillespie |
 | 208 | 763 | Khaleada McGill Banks |
 | 209 | 762 | Naur |
 | 210 | 760 | Kiki |
 | 211 | 759 | Mykal Burton |
 | 212 | 757 | Fancy Cascader |
-| 213 | 755 | Colton |
-| 214 | 755 | Laura Booth Wosko |
+| 213 | 755 | Laura Booth Wosko |
+| 214 | 755 | Colton |
 | 215 | 754 | CeceGeGe |
 | 216 | 753 | Morgan Martinez |
 | 217 | 752 | Joye Sims Binion |
@@ -233,8 +233,8 @@
 | 225 | 714 | Jenny Hrndz |
 | 226 | 713 | Stephanie Blkpep Davidson |
 | 227 | 712 | Brandon Givens |
-| 228 | 709 | Cynthia Castros-Hampton |
-| 229 | 709 | Christine Niles |
+| 228 | 709 | Christine Niles |
+| 229 | 709 | Cynthia Castros-Hampton |
 | 230 | 708 | Stephanie Bradley |
 | 231 | 704 | Betty Bóò |
 | 232 | 703 | Shawn Miller |
@@ -261,8 +261,8 @@
 | 253 | 639 | Nichol Graham |
 | 254 | 637 | Giddy Twistbuilder |
 | 255 | 635 | Amber Hughes |
-| 256 | 633 | Jillian Symons |
-| 257 | 633 | Rebecca Funderburk Kirby |
+| 256 | 633 | Rebecca Funderburk Kirby |
+| 257 | 633 | Jillian Symons |
 | 258 | 632 | Rebecca Bailey |
 | 259 | 630 | Jackie Miller |
 | 260 | 629 | rnr junky |
@@ -310,8 +310,8 @@
 | 302 | 547 | Aerian Preston |
 | 303 | 542 | France Vézina |
 | 304 | 541 | Mcathen |
-| 305 | 540 | rosy |
-| 306 | 540 | Tanya Kittrell |
+| 305 | 540 | Tanya Kittrell |
+| 306 | 540 | rosy |
 | 307 | 539 | Fancy Curver |
 | 308 | 539 | Kate M. Murdock |
 | 309 | 538 | Chummy Caster |
@@ -332,11 +332,11 @@
 | 324 | 499 | Megan Rathmanner |
 | 325 | 499 | Gumbo |
 | 326 | 496 | Brenda Schmid Wood |
-| 327 | 494 | MCV |
-| 328 | 494 | fraulila |
+| 327 | 494 | fraulila |
+| 328 | 494 | MCV |
 | 329 | 492 | Tasha Wesson-Torrence |
-| 330 | 490 | TotoCherue |
-| 331 | 490 | Cassandra Bryant |
+| 330 | 490 | Cassandra Bryant |
+| 331 | 490 | TotoCherue |
 | 332 | 489 | Isabel Ocasio |
 | 333 | 487 | MsBee |
 | 334 | 486 | Sleepy |
@@ -383,7 +383,7 @@
 | 375 | 444 | Heather De Vries Cobb |
 | 376 | 442 | Loopy Fallzone |
 | 377 | 438 | Dannie Litchard |
-| 378 | 436 | Jazzy Spinfit |
+| 378 | 436 | AC Yeater |
 | 379 | 436 | Julie Fratrik |
 | 380 | 436 | Jazzy Spinfit |
 | 381 | 435 | Sabrina Hardrick |
@@ -508,9 +508,9 @@
 | 500 | 344 | Lys |
 | 501 | 343 | Michael Leblanc |
 | 502 | 343 | Christina Marie Swisher |
-| 503 | 342 | Saucy Buildout |
+| 503 | 342 | Boldy Corner |
 | 504 | 342 | Tipsy Zonebuilder |
-| 505 | 342 | Boldy Corner |
+| 505 | 342 | Saucy Buildout |
 | 506 | 341 | Funky Jumper |
 | 507 | 340 | Erika Thornton |
 | 508 | 340 | Beezwax |
@@ -528,8 +528,8 @@
 | 520 | 335 | Johnathan Dowe |
 | 521 | 335 | Sassy Brickmatch |
 | 522 | 334 | Sharisse Baltimore |
-| 523 | 334 | Carol Cain Thurman |
-| 524 | 334 | Stella |
+| 523 | 334 | Stella |
+| 524 | 334 | Carol Cain Thurman |
 | 525 | 333 | Heather Ferrara |
 | 526 | 333 | Hyper Wipeout |
 | 527 | 332 | Clever Edgepiece |
@@ -548,7 +548,7 @@
 | 540 | 327 | Taylor Hood |
 | 541 | 326 | Eric Caccavale |
 | 542 | 326 | Beppy |
-| 543 | 326 | Eric Caccavale |
+| 543 | 326 | Natalie Augustus |
 | 544 | 324 | Paul Daniel Quertermous |
 | 545 | 323 | Jolly Brick |
 | 546 | 323 | Moimyzean |
@@ -1014,7 +1014,7 @@
 | 1006 | 195 | Nicha Hooker |
 | 1007 | 195 | Eunhye Lee |
 | 1008 | 195 | Polopypy |
-| 1009 | 194 | Shicken Nuggit |
+| 1009 | 194 | Amber Eby |
 | 1010 | 194 | Josh Vietz |
 | 1011 | 194 | Shicken Nuggit |
 | 1012 | 193 | G |
