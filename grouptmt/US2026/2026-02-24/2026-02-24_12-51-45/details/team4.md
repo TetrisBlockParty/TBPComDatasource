@@ -122,8 +122,8 @@
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
-| 117 | 781 | Brittney Griggs |
-| 118 | 781 | Savannah Overdorf |
+| 117 | 781 | Savannah Overdorf |
+| 118 | 781 | Brittney Griggs |
 | 119 | 779 | Nope Young |
 | 120 | 777 | Chris Alexinas |
 | 121 | 768 | Trista Leah |
@@ -293,8 +293,8 @@
 | 285 | 402 | Maria Hammie |
 | 286 | 398 | Tyler Terrific |
 | 287 | 397 | blockstar |
-| 288 | 395 | Denise B |
-| 289 | 395 | BigSammy420 |
+| 288 | 395 | BigSammy420 |
+| 289 | 395 | Denise B |
 | 290 | 394 | Nikki Rae Gordon |
 | 291 | 393 | Montiette Mcglown |
 | 292 | 390 | Ari Droff |

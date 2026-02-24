@@ -408,8 +408,8 @@
 | 400 | 1172 | Min |
 | 401 | 1171 | Loretta Brewer-Gage |
 | 402 | 1170 | Shelley Thornburgh Wright |
-| 403 | 1163 | Caitlin Schmid |
-| 404 | 1163 | Sarah DeHart |
+| 403 | 1163 | Sarah DeHart |
+| 404 | 1163 | Caitlin Schmid |
 | 405 | 1160 | Ashley Guernsey-Martin |
 | 406 | 1158 | Brittany Clark |
 | 407 | 1153 | Spunkysmom |
@@ -801,7 +801,7 @@
 | 793 | 703 | cornball |
 | 794 | 703 | Funky Drop |
 | 795 | 702 | Brittney Jean |
-| 796 | 701 | Frank Castle |
+| 796 | 701 | Atara James |
 | 797 | 701 | Aishah Brice |
 | 798 | 701 | Frank Castle |
 | 799 | 700 | Vincent Petrella |
@@ -892,10 +892,10 @@
 | 884 | 653 | Samuel Labruno |
 | 885 | 653 | Kimmie Zimmerman-Rocha |
 | 886 | 652 | Irna |
-| 887 | 652 | Court |
-| 888 | 652 | Lively Edgepiece |
-| 889 | 651 | Lazy Builderfit |
-| 890 | 651 | Unica Rector |
+| 887 | 652 | Lively Edgepiece |
+| 888 | 652 | Court |
+| 889 | 651 | Unica Rector |
+| 890 | 651 | Lazy Builderfit |
 | 891 | 650 | Pfc Monei Rivera |
 | 892 | 650 | Peppy Snapfall |
 | 893 | 650 | Brittany Chapman |

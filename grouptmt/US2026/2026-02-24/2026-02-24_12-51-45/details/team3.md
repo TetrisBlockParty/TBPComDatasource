@@ -126,8 +126,8 @@
 | 118 | 1154 | Carrie Jarvis Mohler |
 | 119 | 1152 | Julian Murphy |
 | 120 | 1124 | Stephanie Rice |
-| 121 | 1121 | Loopy Fallmatch |
-| 122 | 1121 | Corie A. Brinson |
+| 121 | 1121 | Corie A. Brinson |
+| 122 | 1121 | Loopy Fallmatch |
 | 123 | 1114 | Groovy Catcher |
 | 124 | 1108 | Rachel |
 | 125 | 1105 | Adrian Marcel Pate |
@@ -182,15 +182,15 @@
 | 174 | 876 | Kiki |
 | 175 | 875 | Chasity |
 | 176 | 874 | Jessica Pineda-Lopez |
-| 177 | 868 | Nicole Flippo |
-| 178 | 868 | Cranky Gridder |
+| 177 | 868 | Cranky Gridder |
+| 178 | 868 | Nicole Flippo |
 | 179 | 866 | Domo Washington |
 | 180 | 862 | Santeria Trece Candles |
 | 181 | 858 | Nicole Myers |
 | 182 | 856 | Dana Winters |
 | 183 | 854 | Speedy Bridger |
-| 184 | 847 | Daring Brickzone |
-| 185 | 847 | Daira Largen |
+| 184 | 847 | Daira Largen |
+| 185 | 847 | Daring Brickzone |
 | 186 | 842 | Alexmac |
 | 187 | 829 | Patricia White |
 | 188 | 825 | Lizabeth Fox |
@@ -238,8 +238,8 @@
 | 230 | 715 | Betty Bóò |
 | 231 | 714 | Jenny Hrndz |
 | 232 | 713 | Stephanie Blkpep Davidson |
-| 233 | 709 | Cynthia Castros-Hampton |
-| 234 | 709 | Christine Niles |
+| 233 | 709 | Christine Niles |
+| 234 | 709 | Cynthia Castros-Hampton |
 | 235 | 708 | Stephanie Bradley |
 | 236 | 707 | Snappy Balancer |
 | 237 | 705 | Jackie Miller |
@@ -270,8 +270,8 @@
 | 262 | 637 | Giddy Twistbuilder |
 | 263 | 636 | Salena Whitlock |
 | 264 | 635 | Amber Hughes |
-| 265 | 633 | Rebecca Funderburk Kirby |
-| 266 | 633 | Jillian Symons |
+| 265 | 633 | Jillian Symons |
+| 266 | 633 | Rebecca Funderburk Kirby |
 | 267 | 632 | Rebecca Bailey |
 | 268 | 629 | rnr junky |
 | 269 | 627 | Juliana Dottore |
@@ -290,8 +290,8 @@
 | 282 | 603 | Eileen Brady Thurber |
 | 283 | 600 | Natasha Jones |
 | 284 | 594 | Cozy Snaplink |
-| 285 | 586 | Brian Battjes |
-| 286 | 586 | France Vézina |
+| 285 | 586 | France Vézina |
+| 286 | 586 | Brian Battjes |
 | 287 | 586 | Donna |
 | 288 | 584 | Michael Johnson |
 | 289 | 583 | Michael Lucado |
@@ -345,8 +345,8 @@
 | 337 | 489 | Isabel Ocasio |
 | 338 | 487 | MsBee |
 | 339 | 486 | Sleepy |
-| 340 | 485 | Steffi Chris Dacones |
-| 341 | 485 | Charles Perrone |
+| 340 | 485 | Charles Perrone |
+| 341 | 485 | Steffi Chris Dacones |
 | 342 | 483 | Jul |
 | 343 | 483 | Tegan Chapman |
 | 344 | 482 | Travis W |
@@ -429,11 +429,11 @@
 | 421 | 404 | Karent524 |
 | 422 | 404 | Alice |
 | 423 | 404 | Giggy Balanceblock |
-| 424 | 403 | Samantha Worley |
-| 425 | 403 | Scott Lindsay |
+| 424 | 403 | Scott Lindsay |
+| 425 | 403 | Samantha Worley |
 | 426 | 402 | Alexi Pryor |
-| 427 | 401 | Velma Mull |
-| 428 | 401 | block chick |
+| 427 | 401 | block chick |
+| 428 | 401 | Velma Mull |
 | 429 | 400 | Joy Petroski |
 | 430 | 399 | Ann Hammac |
 | 431 | 398 | Breezy Roll |

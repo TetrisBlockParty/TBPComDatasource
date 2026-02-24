@@ -181,8 +181,8 @@
 | 173 | 552 | Constance Risner |
 | 174 | 551 | Loony Fitzone |
 | 175 | 549 | Jerry Danowski |
-| 176 | 548 | Stephanie Zahn |
-| 177 | 548 | Luciano Moreira |
+| 176 | 548 | Luciano Moreira |
+| 177 | 548 | Stephanie Zahn |
 | 178 | 547 | Sharon Reynolds |
 | 179 | 545 | .running. |
 | 180 | 544 | Sean Stallings |
@@ -303,8 +303,8 @@
 | 295 | 379 | Austin James |
 | 296 | 378 | Eddie Dillon |
 | 297 | 377 | GATOR |
-| 298 | 376 | Sassy Builderline |
-| 299 | 376 | Brian Richardsson |
+| 298 | 376 | Brian Richardsson |
+| 299 | 376 | Sassy Builderline |
 | 300 | 374 | Snappy Brickbuilder |
 | 301 | 372 | Dizzy Party |
 | 302 | 372 | Strig |
