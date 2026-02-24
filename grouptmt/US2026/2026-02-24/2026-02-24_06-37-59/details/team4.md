@@ -130,8 +130,8 @@
 | 122 | 731 | KJ Pool |
 | 123 | 729 | Jamie Mann-Deichmann |
 | 124 | 728 | Zippy Gridlock |
-| 125 | 726 | Amy Suckarieh |
-| 126 | 726 | Jamie Gustafson |
+| 125 | 726 | Jamie Gustafson |
+| 126 | 726 | Amy Suckarieh |
 | 127 | 725 | Brandon Crabbs |
 | 128 | 712 | H.R. Block |
 | 129 | 712 | Leslie Nicole |

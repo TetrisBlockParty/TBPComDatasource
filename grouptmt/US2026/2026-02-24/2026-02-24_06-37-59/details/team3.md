@@ -123,8 +123,8 @@
 | 115 | 1134 | Melissa Orth Hunter |
 | 116 | 1124 | Stephanie Rice |
 | 117 | 1121 | Corie A. Brinson |
-| 118 | 1114 | Groovy Catcher |
-| 119 | 1114 | Loopy Fallmatch |
+| 118 | 1114 | Loopy Fallmatch |
+| 119 | 1114 | Groovy Catcher |
 | 120 | 1105 | Adrian Marcel Pate |
 | 121 | 1093 | Angela M. Fletcher |
 | 122 | 1091 | Jennifer |
@@ -188,8 +188,8 @@
 | 180 | 817 | Niki Dalrymple |
 | 181 | 815 | Justin Ritter |
 | 182 | 813 | JessDrown |
-| 183 | 804 | Gideon Walker |
-| 184 | 804 | Alaina Lee |
+| 183 | 804 | Alaina Lee |
+| 184 | 804 | Gideon Walker |
 | 185 | 800 | Lauren Girouard |
 | 186 | 799 | Trisha Balmer |
 | 187 | 794 | Raya |
@@ -426,7 +426,7 @@
 | 418 | 383 | Jessica Christian |
 | 419 | 383 | Kirhonda Autmon |
 | 420 | 381 | Mary Giorgenti |
-| 421 | 380 | Geoffrey Nash |
+| 421 | 380 | neci |
 | 422 | 380 | Foltz Lee Kelli |
 | 423 | 380 | Geoffrey Nash |
 | 424 | 378 | Samantha Worley |
@@ -585,7 +585,7 @@
 | 577 | 306 | Valerie Tarkington |
 | 578 | 306 | BigE |
 | 579 | 306 | Dapper Chiseler |
-| 580 | 306 | Valerie Tarkington |
+| 580 | 306 | Alexis Ford |
 | 581 | 305 | Frisky Stacker |
 | 582 | 304 | Julie Peters Fancher |
 | 583 | 304 | Carrie Resler |
@@ -601,11 +601,11 @@
 | 593 | 299 | Six |
 | 594 | 299 | Quirky Snapfit |
 | 595 | 299 | Angie Harper |
-| 596 | 297 | Cameo Tweed |
-| 597 | 297 | Zac Hudak |
-| 598 | 296 | JoshAllenfan17 |
-| 599 | 296 | Angel Miller |
-| 600 | 296 | Tracy Martin |
+| 596 | 297 | Zac Hudak |
+| 597 | 297 | Cameo Tweed |
+| 598 | 296 | Tracy Martin |
+| 599 | 296 | JoshAllenfan17 |
+| 600 | 296 | Angel Miller |
 | 601 | 295 | Omega |
 | 602 | 294 | Jazzy Spinfit |
 | 603 | 293 | Rufus Lincoln |
@@ -613,7 +613,7 @@
 | 605 | 293 | Tommy Proctor |
 | 606 | 292 | Beezwax |
 | 607 | 292 | Scouty |
-| 608 | 291 | Jessica Lynn French |
+| 608 | 291 | Autumn Phillimore |
 | 609 | 291 | Jess Dearborn |
 | 610 | 291 | Jessica Lynn French |
 | 611 | 290 | Zesty Rotater |
@@ -684,9 +684,9 @@
 | 676 | 270 | p brewster |
 | 677 | 270 | Crafty Tilemaker |
 | 678 | 269 | Bigmack |
-| 679 | 268 | Wacky Crasher |
+| 679 | 268 | DanceLuvLaugh |
 | 680 | 268 | Julia Nicole |
-| 681 | 268 | DanceLuvLaugh |
+| 681 | 268 | Wacky Crasher |
 | 682 | 267 | April Matthew Kibble |
 | 683 | 266 | paranoid |
 | 684 | 266 | Beck Nicole |
@@ -867,7 +867,7 @@
 | 859 | 219 | Christina Stimson |
 | 860 | 219 | Viking |
 | 861 | 219 | Uluvfai |
-| 862 | 218 | Carri |
+| 862 | 218 | Amy Fuller Heaton |
 | 863 | 218 | Crystal Johnson |
 | 864 | 218 | Carri |
 | 865 | 218 | Megan Stanley |

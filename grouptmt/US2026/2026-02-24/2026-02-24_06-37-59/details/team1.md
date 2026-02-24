@@ -106,8 +106,8 @@
 | 98 | 800 | Desiree Deschaine Havee |
 | 99 | 791 | Greg Hart |
 | 100 | 781 | Ash Galvan |
-| 101 | 773 | Cartier |
-| 102 | 773 | Susanna Guerry |
+| 101 | 773 | Susanna Guerry |
+| 102 | 773 | Cartier |
 | 103 | 772 | Kathy Langham |
 | 104 | 770 | Zappy Curvetile |
 | 105 | 769 | Angel Fowler |
@@ -119,8 +119,8 @@
 | 111 | 725 | Phu ckalldems |
 | 112 | 719 | Bindi |
 | 113 | 716 | Kristi Johnson |
-| 114 | 706 | Plucky Fallzone |
-| 115 | 706 | Denice Dee |
+| 114 | 706 | Denice Dee |
+| 115 | 706 | Plucky Fallzone |
 | 116 | 702 | lil mickey |
 | 117 | 699 | cc |
 | 118 | 692 | Melissa Lemmon |
@@ -137,8 +137,8 @@
 | 129 | 642 | Mario Cab |
 | 130 | 639 | Theo Pinnow |
 | 131 | 634 | Carrie Smith |
-| 132 | 629 | Death |
-| 133 | 629 | Tanya Carpenter-Reynolds |
+| 132 | 629 | Tanya Carpenter-Reynolds |
+| 133 | 629 | Death |
 | 134 | 628 | Trina Gee |
 | 135 | 626 | Damon J. Martin |
 | 136 | 622 | Chris K |
@@ -230,8 +230,8 @@
 | 222 | 429 | pjbeta |
 | 223 | 429 | Tana |
 | 224 | 427 | Jessie Lynn |
-| 225 | 426 | Betsy |
-| 226 | 426 | Brenda Alexander |
+| 225 | 426 | Brenda Alexander |
+| 226 | 426 | Betsy |
 | 227 | 425 | Tyler Werts |
 | 228 | 424 | Lindsay Glover |
 | 229 | 424 | Emily Adelaide Wheatley |
@@ -239,11 +239,11 @@
 | 231 | 424 | Serina Marie |
 | 232 | 423 | Howdi Duty |
 | 233 | 422 | Jamise Brown |
-| 234 | 421 | Letson Melissa |
-| 235 | 421 | Plucky Stacky |
+| 234 | 421 | Plucky Stacky |
+| 235 | 421 | Letson Melissa |
 | 236 | 420 | Jennifer Noe Chandler |
-| 237 | 419 | Daring Fitclear |
-| 238 | 419 | John J. Cronin |
+| 237 | 419 | John J. Cronin |
+| 238 | 419 | Daring Fitclear |
 | 239 | 416 | Jessica Sheehan |
 | 240 | 414 | Bird Person |
 | 241 | 413 | Ananda Mendez |

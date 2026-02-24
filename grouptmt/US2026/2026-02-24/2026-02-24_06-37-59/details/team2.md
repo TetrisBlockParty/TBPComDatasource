@@ -388,8 +388,8 @@
 | 380 | 1170 | Shelley Thornburgh Wright |
 | 381 | 1167 | Min |
 | 382 | 1164 | DefaultUser |
-| 383 | 1163 | Caitlin Schmid |
-| 384 | 1163 | Sarah DeHart |
+| 383 | 1163 | Sarah DeHart |
+| 384 | 1163 | Caitlin Schmid |
 | 385 | 1158 | Brittany Clark |
 | 386 | 1150 | Sheniya Spurgeon |
 | 387 | 1149 | Hoppy Brickmatch |
