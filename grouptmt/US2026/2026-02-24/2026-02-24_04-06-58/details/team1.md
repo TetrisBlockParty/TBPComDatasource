@@ -213,8 +213,8 @@
 | 205 | 446 | Spencer Lent |
 | 206 | 442 | Reesey Enyart |
 | 207 | 441 | Kimberly Garcia |
-| 208 | 439 | David Miller |
-| 209 | 439 | Witty Builderfit |
+| 208 | 439 | Witty Builderfit |
+| 209 | 439 | David Miller |
 | 210 | 434 | Mike Ames |
 | 211 | 432 | Brian Spotts |
 | 212 | 431 | Shiny Snapfit |
@@ -255,8 +255,8 @@
 | 247 | 390 | David Lutcher |
 | 248 | 387 | Jen Nystrom |
 | 249 | 386 | Melissa Bires Hussar |
-| 250 | 385 | Cool Shiftsnap |
-| 251 | 385 | Bob |
+| 250 | 385 | Bob |
+| 251 | 385 | Cool Shiftsnap |
 | 252 | 383 | Margo Wagner |
 | 253 | 383 | pjbeta |
 | 254 | 382 | Angela Renea Lester |

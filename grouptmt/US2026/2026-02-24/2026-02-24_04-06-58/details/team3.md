@@ -150,8 +150,8 @@
 | 142 | 950 | MissTaylor |
 | 143 | 950 | Giddy Drop |
 | 144 | 943 | Katrina Schroeder |
-| 145 | 940 | Stephanie Allmon |
-| 146 | 940 | Patty Allen |
+| 145 | 940 | Patty Allen |
+| 146 | 940 | Stephanie Allmon |
 | 147 | 939 | Jamie Lang |
 | 148 | 936 | Dolores Falco |
 | 149 | 925 | Cherry Parker |
@@ -281,8 +281,8 @@
 | 273 | 547 | Aerian Preston |
 | 274 | 546 | Cynthia Castros-Hampton |
 | 275 | 546 | lashanda |
-| 276 | 544 | Tamara Deherrera |
-| 277 | 544 | Angella Lyons |
+| 276 | 544 | Angella Lyons |
+| 277 | 544 | Tamara Deherrera |
 | 278 | 542 | France Vézina |
 | 279 | 541 | Gray Hicks |
 | 280 | 537 | Lizabeth Fox |
@@ -340,13 +340,13 @@
 | 332 | 461 | Briana Wellman |
 | 333 | 460 | Antonia Russell |
 | 334 | 459 | Randy Clevenger |
-| 335 | 456 | Kelly |
-| 336 | 456 | Cynthia Herrmann Egland |
+| 335 | 456 | Cynthia Herrmann Egland |
+| 336 | 456 | Kelly |
 | 337 | 455 | Kelly Wolf |
 | 338 | 452 | Tyler Shoff |
 | 339 | 452 | Snippy Wipeout |
-| 340 | 450 | Stefanie LaPointe |
-| 341 | 450 | Luciana Braganca Vieira |
+| 340 | 450 | Luciana Braganca Vieira |
+| 341 | 450 | Stefanie LaPointe |
 | 342 | 449 | Mcathen |
 | 343 | 447 | Snazzy Filler |
 | 344 | 447 | Num1hater |
@@ -407,8 +407,8 @@
 | 399 | 389 | Kristen Weese |
 | 400 | 387 | Brittany K Ward |
 | 401 | 384 | Tiffany Davie |
-| 402 | 383 | Jessica Christian |
-| 403 | 383 | Kirhonda Autmon |
+| 402 | 383 | Kirhonda Autmon |
+| 403 | 383 | Jessica Christian |
 | 404 | 382 | Rynne Ellis |
 | 405 | 381 | Sabrina Mansfield |
 | 406 | 381 | Mary Giorgenti |

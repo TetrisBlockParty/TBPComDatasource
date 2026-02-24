@@ -349,8 +349,8 @@
 | 341 | 1217 | Brooks Brooks |
 | 342 | 1217 | Christina Lewis-Vickers |
 | 343 | 1216 | Pacynthia Williams |
-| 344 | 1215 | Toni Roberson |
-| 345 | 1215 | Hyper Cluster |
+| 344 | 1215 | Hyper Cluster |
+| 345 | 1215 | Toni Roberson |
 | 346 | 1214 | David Cudicio-Hayden |
 | 347 | 1211 | Cynthia Ward |
 | 348 | 1210 | Amber Gray |
@@ -533,8 +533,8 @@
 | 525 | 886 | Cherrica Newman |
 | 526 | 885 | Giggy Mover |
 | 527 | 883 | Hong Tang |
-| 528 | 882 | Sarah Massey |
-| 529 | 882 | Thomas Hedrick |
+| 528 | 882 | Thomas Hedrick |
+| 529 | 882 | Sarah Massey |
 | 530 | 881 | Layla LS |
 | 531 | 880 | Traci Johnson |
 | 532 | 877 | Anthony Huebel |

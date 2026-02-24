@@ -148,8 +148,8 @@
 | 140 | 619 | April Rondinone |
 | 141 | 618 | Ernest Maxwell |
 | 142 | 616 | Samantha Peterson |
-| 143 | 615 | Angelito |
-| 144 | 615 | Kim Hunt |
+| 143 | 615 | Kim Hunt |
+| 144 | 615 | Angelito |
 | 145 | 611 | Chris Baggett |
 | 146 | 608 | Swanky Fitline |
 | 147 | 602 | Cristy Duerksen |
@@ -179,8 +179,8 @@
 | 171 | 538 | Steph Marie |
 | 172 | 537 | Scott Jameson |
 | 173 | 535 | Berklie Apedaile |
-| 174 | 532 | Matt Summer |
-| 175 | 532 | Alan George LaRage |
+| 174 | 532 | Alan George LaRage |
+| 175 | 532 | Matt Summer |
 | 176 | 528 | Erin Sabol |
 | 177 | 525 | Lucas J Sutton |
 | 178 | 522 | Carly Alexis |
