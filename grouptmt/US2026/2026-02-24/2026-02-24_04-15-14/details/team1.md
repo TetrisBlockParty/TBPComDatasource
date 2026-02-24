@@ -45,8 +45,8 @@
 | 37 | 1515 | Felicia Lewis |
 | 38 | 1405 | Chipper Gridlock |
 | 39 | 1391 | Aaron Garnett |
-| 40 | 1334 | june october |
-| 41 | 1334 | Tyler Alcock |
+| 40 | 1334 | Tyler Alcock |
+| 41 | 1334 | june october |
 | 42 | 1321 | Drew Magnus |
 | 43 | 1291 | Marianne Louise West |
 | 44 | 1268 | Hasbro Bros |
@@ -58,8 +58,8 @@
 | 50 | 1191 | Nerdy Linkblock |
 | 51 | 1181 | Carrie Beck Geartz |
 | 52 | 1153 | Tipsy Column |
-| 53 | 1137 | Jen Sartain |
-| 54 | 1137 | TSwag |
+| 53 | 1137 | TSwag |
+| 54 | 1137 | Jen Sartain |
 | 55 | 1127 | Andrea Dañielle Ortiz |
 | 56 | 1126 | Tater |
 | 57 | 1122 | Kristen Gideon |
@@ -143,10 +143,10 @@
 | 135 | 604 | Ryan Lunnin |
 | 136 | 604 | Evan Richmond |
 | 137 | 598 | Jessi Sauer |
-| 138 | 593 | Giddy Cascade |
-| 139 | 593 | Maria C. Hernandez |
-| 140 | 589 | Virginia Gray Floyd |
-| 141 | 589 | April Carroll |
+| 138 | 593 | Maria C. Hernandez |
+| 139 | 593 | Giddy Cascade |
+| 140 | 589 | April Carroll |
+| 141 | 589 | Virginia Gray Floyd |
 | 142 | 587 | Deanna L Hermanson |
 | 143 | 584 | Susan Ward |
 | 144 | 582 | Hellsin |
@@ -192,8 +192,8 @@
 | 184 | 492 | Happy Snapbuild |
 | 185 | 490 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 186 | 489 | Speedy Liney |
-| 187 | 488 | Hyper |
-| 188 | 488 | Ly Phethmany |
+| 187 | 488 | Ly Phethmany |
+| 188 | 488 | Hyper |
 | 189 | 487 | Eric DeSimone |
 | 190 | 484 | Νεφ Όνυξ |
 | 191 | 479 | canbrick |

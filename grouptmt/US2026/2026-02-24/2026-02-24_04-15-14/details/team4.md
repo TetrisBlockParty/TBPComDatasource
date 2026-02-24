@@ -69,8 +69,8 @@
 | 61 | 1116 | Ashley Ingram |
 | 62 | 1098 | BertMofo |
 | 63 | 1089 | Alyssa Papen |
-| 64 | 1082 | Avy Absol |
-| 65 | 1082 | Dion Crommarty |
+| 64 | 1082 | Dion Crommarty |
+| 65 | 1082 | Avy Absol |
 | 66 | 1075 | Dustee Craddock-Harrison |
 | 67 | 1069 | Heather Tushner |
 | 68 | 1047 | Julian Garcia |
@@ -106,8 +106,8 @@
 | 98 | 811 | Sassy Pattern |
 | 99 | 806 | Lori Walker |
 | 100 | 802 | Crystal Carroll |
-| 101 | 798 | Jewell Urban |
-| 102 | 798 | Klo |
+| 101 | 798 | Klo |
+| 102 | 798 | Jewell Urban |
 | 103 | 796 | Denise Carlson |
 | 104 | 785 | SAP |
 | 105 | 781 | Brittney Griggs |
@@ -129,8 +129,8 @@
 | 121 | 718 | Zippy Gridlock |
 | 122 | 712 | H.R. Block |
 | 123 | 708 | Jacqueline Helm |
-| 124 | 704 | Austin Owens |
-| 125 | 704 | Chilly Crasher |
+| 124 | 704 | Chilly Crasher |
+| 125 | 704 | Austin Owens |
 | 126 | 690 | Denia Deni |
 | 127 | 686 | Jamie Gustafson |
 | 128 | 682 | Raegan Lane-Ross |
@@ -148,8 +148,8 @@
 | 140 | 619 | April Rondinone |
 | 141 | 618 | Ernest Maxwell |
 | 142 | 616 | Samantha Peterson |
-| 143 | 615 | Kim Hunt |
-| 144 | 615 | Angelito |
+| 143 | 615 | Angelito |
+| 144 | 615 | Kim Hunt |
 | 145 | 611 | Chris Baggett |
 | 146 | 608 | Swanky Fitline |
 | 147 | 602 | Cristy Duerksen |
@@ -406,14 +406,14 @@
 | 398 | 272 | Paito |
 | 399 | 270 | Stephme310 |
 | 400 | 270 | 07VHVW |
-| 401 | 268 | Sallie Sanborn |
-| 402 | 268 | Riverdale |
+| 401 | 268 | Riverdale |
+| 402 | 268 | Sallie Sanborn |
 | 403 | 266 | Happy Combo |
 | 404 | 266 | ĥuf |
 | 405 | 265 | Lorena Guerrero-Barron |
 | 406 | 265 | tipsy tiger |
-| 407 | 265 | Christine Therrien |
-| 408 | 265 | Degenerate |
+| 407 | 265 | Degenerate |
+| 408 | 265 | Christine Therrien |
 | 409 | 264 | Shh |
 | 410 | 264 | AyeKay |
 | 411 | 263 | Laurmarcar |
@@ -438,9 +438,9 @@
 | 430 | 251 | Kathy Allen |
 | 431 | 251 | Jackson Karen |
 | 432 | 251 | Carol Ricks Raymond |
-| 433 | 250 | Ruby Khalisadar |
-| 434 | 250 | Moonsterix |
-| 435 | 249 | Silly Clearfit |
+| 433 | 250 | Moonsterix |
+| 434 | 250 | Ruby Khalisadar |
+| 435 | 249 | Chantilly Laace |
 | 436 | 249 | SHL |
 | 437 | 249 | Stacy Jones |
 | 438 | 249 | Silly Clearfit |

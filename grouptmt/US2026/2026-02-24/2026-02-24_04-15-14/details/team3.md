@@ -127,8 +127,8 @@
 | 119 | 1084 | Santana Lantana |
 | 120 | 1082 | Valerie Gendron |
 | 121 | 1067 | DaBigGuy |
-| 122 | 1066 | Jennifer |
-| 123 | 1066 | Demetrious Shaw Sr. |
+| 122 | 1066 | Demetrious Shaw Sr. |
+| 123 | 1066 | Jennifer |
 | 124 | 1065 | Rachel |
 | 125 | 1055 | Christine Trester |
 | 126 | 1050 | Sherika C. McDaniels |
@@ -336,8 +336,8 @@
 | 328 | 463 | Charles Perrone |
 | 329 | 462 | Jul |
 | 330 | 462 | Tegan Chapman |
-| 331 | 461 | Briana Wellman |
-| 332 | 461 | Hyper Bridger |
+| 331 | 461 | Hyper Bridger |
+| 332 | 461 | Briana Wellman |
 | 333 | 460 | Antonia Russell |
 | 334 | 459 | Randy Clevenger |
 | 335 | 456 | Cynthia Herrmann Egland |
