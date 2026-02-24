@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 13:54:41 UTC
+# Standings for team1 as of 2026-02-24 13:55:22 UTC
 
 **Total Participants:** 2255
 
@@ -53,8 +53,8 @@
 | 45 | 1387 | june october |
 | 46 | 1334 | Tyler Alcock |
 | 47 | 1325 | Drew Magnus |
-| 48 | 1305 | Michelle Nicole |
-| 49 | 1297 | Carrie Beck Geartz |
+| 48 | 1307 | Carrie Beck Geartz |
+| 49 | 1305 | Michelle Nicole |
 | 50 | 1290 | Spunky Piecebuilder |
 | 51 | 1281 | Lori Sanders- Davis |
 | 52 | 1272 | Hasbro Bros |
@@ -652,72 +652,72 @@
 | 644 | 202 | grizzly |
 | 645 | 201 | KoDaK |
 | 646 | 201 | Emily Wray |
-| 647 | 200 | Buggs |
-| 648 | 200 | Riley Lee |
-| 649 | 200 | Gina Fontana Meier |
-| 650 | 200 | Tina Sinclair |
-| 651 | 199 | Rayshawn Beamer |
+| 647 | 201 | Joyce Harrell-chavis |
+| 648 | 200 | Buggs |
+| 649 | 200 | Riley Lee |
+| 650 | 200 | Gina Fontana Meier |
+| 651 | 200 | Tina Sinclair |
 | 652 | 199 | Tina Englert |
-| 653 | 199 | Krazykat💋❤️💋 |
-| 654 | 198 | Larry Oaks |
-| 655 | 198 | Sarah Barrow |
+| 653 | 199 | Rayshawn Beamer |
+| 654 | 199 | Krazykat💋❤️💋 |
+| 655 | 198 | Larry Oaks |
 | 656 | 198 | Kayla Deaton |
-| 657 | 197 | Tiffany Daboss Seymour |
-| 658 | 197 | Dione Winter Heilich |
+| 657 | 198 | Sarah Barrow |
+| 658 | 197 | Tiffany Daboss Seymour |
 | 659 | 197 | Cool Towerzone |
-| 660 | 197 | Nikki Fridley |
-| 661 | 197 | Kirk Torrey |
-| 662 | 197 | Amanda Stevens |
+| 660 | 197 | Dione Winter Heilich |
+| 661 | 197 | Nikki Fridley |
+| 662 | 197 | Kirk Torrey |
 | 663 | 197 | Brian Taylor |
-| 664 | 197 | Cozy Shatterer |
-| 665 | 196 | Mechelle Bailum |
-| 666 | 195 | Sarah Cassese |
-| 667 | 195 | Melissa Ann Macko |
-| 668 | 195 | Slinky Rotater |
+| 664 | 197 | Amanda Stevens |
+| 665 | 197 | Cozy Shatterer |
+| 666 | 196 | Mechelle Bailum |
+| 667 | 195 | Sarah Cassese |
+| 668 | 195 | Melissa Ann Macko |
 | 669 | 195 | Oliver Hollins |
-| 670 | 194 | Peachy Wipebuilder |
-| 671 | 194 | Discovery Point |
-| 672 | 194 | Swanky Patternfit |
-| 673 | 193 | DENOTS42OSPOT |
-| 674 | 193 | Chyna Mae |
-| 675 | 193 | Wacky Strikesnap |
-| 676 | 193 | Philip Hutson |
-| 677 | 192 | Jessica Imboden |
-| 678 | 192 | Zany Gridclear |
+| 670 | 195 | Slinky Rotater |
+| 671 | 194 | Peachy Wipebuilder |
+| 672 | 194 | Discovery Point |
+| 673 | 194 | Swanky Patternfit |
+| 674 | 193 | DENOTS42OSPOT |
+| 675 | 193 | Chyna Mae |
+| 676 | 193 | Wacky Strikesnap |
+| 677 | 193 | Philip Hutson |
+| 678 | 192 | Jessica Imboden |
 | 679 | 192 | Pace |
-| 680 | 191 | Kanesha Jackson |
-| 681 | 191 | Garcia Bailey |
-| 682 | 191 | John Garza |
-| 683 | 190 | Anastasia Lozada |
+| 680 | 192 | Zany Gridclear |
+| 681 | 191 | John Garza |
+| 682 | 191 | Kanesha Jackson |
+| 683 | 191 | Garcia Bailey |
 | 684 | 190 | Johnnette Kruse |
-| 685 | 190 | yoyoluv |
-| 686 | 190 | Amber Dollak-Smith |
-| 687 | 189 | Britney Marie Burton Cole |
-| 688 | 189 | Playtray |
-| 689 | 189 | Vivian Bush |
-| 690 | 188 | V VIN |
-| 691 | 188 | Joyce Harrell-chavis |
-| 692 | 187 | Paul Gates |
+| 685 | 190 | Anastasia Lozada |
+| 686 | 190 | yoyoluv |
+| 687 | 190 | Amber Dollak-Smith |
+| 688 | 189 | Britney Marie Burton Cole |
+| 689 | 189 | Playtray |
+| 690 | 189 | Vivian Bush |
+| 691 | 188 | V VIN |
+| 692 | 187 | Jessica Weed |
 | 693 | 187 | Shawn Robert |
-| 694 | 187 | Jessica Weed |
-| 695 | 187 | davis13 |
-| 696 | 187 | Katie Bell |
+| 694 | 187 | davis13 |
+| 695 | 187 | Katie Bell |
+| 696 | 187 | Paul Gates |
 | 697 | 186 | Donna Taliger Brigante |
-| 698 | 185 | William Touzin |
-| 699 | 185 | Tim Russell |
+| 698 | 185 | Tim Russell |
+| 699 | 185 | William Touzin |
 | 700 | 185 | Kkl |
-| 701 | 184 | Missy Broz McNees |
-| 702 | 184 | Marie Fox |
-| 703 | 183 | Olivia Witmer |
-| 704 | 183 | David DeSantis |
+| 701 | 184 | Marie Fox |
+| 702 | 184 | Missy Broz McNees |
+| 703 | 183 | David DeSantis |
+| 704 | 183 | Olivia Witmer |
 | 705 | 182 | Amador López Martínez |
 | 706 | 182 | Jacqueline Unique |
 | 707 | 182 | Brandy Ann |
 | 708 | 182 | Cj X Mal |
 | 709 | 182 | Alfredo Vasquez |
 | 710 | 181 | Shano Rae |
-| 711 | 181 | Chummy Risebuilder |
-| 712 | 181 | Collette Frank |
+| 711 | 181 | Collette Frank |
+| 712 | 181 | Chummy Risebuilder |
 | 713 | 181 | Almïghty Stoner |
 | 714 | 181 | Bean |
 | 715 | 180 | Jennifer Crawford |
