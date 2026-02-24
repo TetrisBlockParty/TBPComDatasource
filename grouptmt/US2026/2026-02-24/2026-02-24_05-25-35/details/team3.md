@@ -170,8 +170,8 @@
 | 162 | 874 | Jessica Pineda-Lopez |
 | 163 | 873 | BadManSheLove |
 | 164 | 871 | Rochelle Hazelett |
-| 165 | 868 | Cranky Gridder |
-| 166 | 868 | Nicole Flippo |
+| 165 | 868 | Nicole Flippo |
+| 166 | 868 | Cranky Gridder |
 | 167 | 864 | Sunny Rotater |
 | 168 | 862 | Santeria Trece Candles |
 | 169 | 859 | Domo Washington |
@@ -196,8 +196,8 @@
 | 188 | 783 | Julian Murphy |
 | 189 | 780 | Raya |
 | 190 | 777 | Daryn Elliott |
-| 191 | 774 | ren |
-| 192 | 774 | Twisty Brick LT |
+| 191 | 774 | Twisty Brick LT |
+| 192 | 774 | ren |
 | 193 | 772 | Tye Stovall |
 | 194 | 769 | Hasty Cascadefit |
 | 195 | 768 | Cyd061769 |
@@ -227,8 +227,8 @@
 | 219 | 709 | Christine Niles |
 | 220 | 708 | Stephanie Bradley |
 | 221 | 703 | Shawn Miller |
-| 222 | 691 | Snappy Balancer |
-| 223 | 691 | Tia |
+| 222 | 691 | Tia |
+| 223 | 691 | Snappy Balancer |
 | 224 | 689 | Patti Skiles |
 | 225 | 671 | Terry Jo Jones |
 | 226 | 668 | Daring Brickzone |

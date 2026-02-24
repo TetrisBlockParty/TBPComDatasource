@@ -349,8 +349,8 @@
 | 341 | 1252 | Brainy Smurf |
 | 342 | 1249 | Tristan Szolek |
 | 343 | 1245 | Angel Hunnewell |
-| 344 | 1237 | Cheech Dta |
-| 345 | 1237 | Christine Coughlin |
+| 344 | 1237 | Christine Coughlin |
+| 345 | 1237 | Cheech Dta |
 | 346 | 1235 | Bri Lynn |
 | 347 | 1233 | Shannon Joslin |
 | 348 | 1232 | Ambyre Patterson |
@@ -1079,8 +1079,8 @@
 | 1071 | 532 | Happy Tile |
 | 1072 | 532 | Snappy Faller |
 | 1073 | 528 | CupCake |
-| 1074 | 528 | Kyle LeRoy Harris |
-| 1075 | 528 | John Quiring |
+| 1074 | 528 | Snippy Block |
+| 1075 | 528 | Kyle LeRoy Harris |
 | 1076 | 528 | Besma Ao |
 | 1077 | 528 | John Quiring |
 | 1078 | 528 | Brooklynn Huckaby |

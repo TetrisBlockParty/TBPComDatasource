@@ -155,15 +155,15 @@
 | 147 | 615 | Kim Hunt |
 | 148 | 608 | Swanky Fitline |
 | 149 | 602 | Cristy Duerksen |
-| 150 | 599 | shar |
-| 151 | 599 | Adam Stephanie Parker |
-| 152 | 595 | Rodney McMath Jr. |
-| 153 | 595 | TRCuse |
+| 150 | 599 | Adam Stephanie Parker |
+| 151 | 599 | shar |
+| 152 | 595 | TRCuse |
+| 153 | 595 | Rodney McMath Jr. |
 | 154 | 590 | Angela Srubar-Norman |
 | 155 | 587 | YoMomma |
 | 156 | 586 | Carlos Ramirez |
-| 157 | 586 | Latisha Davis |
-| 158 | 586 | Cursed Hag |
+| 157 | 586 | Cursed Hag |
+| 158 | 586 | Latisha Davis |
 | 159 | 584 | Carlton Unfiltered |
 | 160 | 580 | Livvy |
 | 161 | 576 | Jade Rian |
@@ -221,8 +221,8 @@
 | 213 | 473 | Cranky Rollpiece |
 | 214 | 465 | June Hoffman |
 | 215 | 464 | Zakia Monae |
-| 216 | 462 | Leslie Thomas |
-| 217 | 462 | Crystal Nicolette Moore |
+| 216 | 462 | Crystal Nicolette Moore |
+| 217 | 462 | Leslie Thomas |
 | 218 | 460 | Kathy Brookins |
 | 219 | 458 | Kristina Black |
 | 220 | 457 | J-Rizzle |
@@ -250,8 +250,8 @@
 | 242 | 431 | Manny1 |
 | 243 | 428 | Chris Bernstein |
 | 244 | 427 | Chao Ma |
-| 245 | 421 | Andrew Dang |
-| 246 | 421 | JIGsaw ~(•¿°)~ |
+| 245 | 421 | JIGsaw ~(•¿°)~ |
+| 246 | 421 | Andrew Dang |
 | 247 | 419 | Gdiguy |
 | 248 | 413 | Jeff Brian Gates |
 | 249 | 411 | Autumn Kumzi |
@@ -352,8 +352,8 @@
 | 344 | 314 | Paige Kittles |
 | 345 | 313 | DonMega |
 | 346 | 312 | Tawna Curry |
-| 347 | 311 | Ak Jones |
-| 348 | 311 | KayM |
+| 347 | 311 | KayM |
+| 348 | 311 | Ak Jones |
 | 349 | 310 | Glitzy Corner |
 | 350 | 308 | Angela Geist Jusinski |
 | 351 | 308 | Bradley Reeves |
