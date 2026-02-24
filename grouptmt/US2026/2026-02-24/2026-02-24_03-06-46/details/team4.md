@@ -68,8 +68,8 @@
 | 60 | 1106 | Ashley Ingram |
 | 61 | 1098 | BertMofo |
 | 62 | 1089 | Alyssa Papen |
-| 63 | 1082 | Avy Absol |
-| 64 | 1082 | Dion Crommarty |
+| 63 | 1082 | Dion Crommarty |
+| 64 | 1082 | Avy Absol |
 | 65 | 1075 | Dustee Craddock-Harrison |
 | 66 | 1064 | Heather Tushner |
 | 67 | 1047 | Julian Garcia |
@@ -94,8 +94,8 @@
 | 86 | 861 | Peachy Fall |
 | 87 | 850 | Lucille Truesdale |
 | 88 | 846 | Christine Marie |
-| 89 | 841 | Judy Cox |
-| 90 | 841 | Shauna Havard |
+| 89 | 841 | Shauna Havard |
+| 90 | 841 | Judy Cox |
 | 91 | 840 | Chaz Duncan |
 | 92 | 834 | quicksand420 |
 | 93 | 826 | Rica Mitchell |
@@ -107,8 +107,8 @@
 | 99 | 792 | Denise Carlson |
 | 100 | 787 | Jason Hart |
 | 101 | 781 | Brittney Griggs |
-| 102 | 780 | TheNeesh50 |
-| 103 | 780 | Keith Kelley |
+| 102 | 780 | Keith Kelley |
+| 103 | 780 | TheNeesh50 |
 | 104 | 779 | Nope Young |
 | 105 | 775 | Klo |
 | 106 | 768 | Trista Leah |
@@ -282,8 +282,8 @@
 | 274 | 370 | Kris Bartlett |
 | 275 | 369 | Matt Dell'Olio |
 | 276 | 367 | Meg |
-| 277 | 366 | Andrew Dang |
-| 278 | 366 | Hyper Builder |
+| 277 | 366 | Hyper Builder |
+| 278 | 366 | Andrew Dang |
 | 279 | 360 | James Hurley Jr. |
 | 280 | 359 | KimoKoala |
 | 281 | 358 | Lora |
@@ -386,8 +386,8 @@
 | 378 | 279 | Ziggy |
 | 379 | 278 | L Bear Champion |
 | 380 | 277 | Silly SeaWeed |
-| 381 | 276 | Dennis Bradley |
-| 382 | 276 | Lee Silpe |
+| 381 | 276 | Lee Silpe |
+| 382 | 276 | Dennis Bradley |
 | 383 | 276 | Cynthia Boudreau |
 | 384 | 276 | Tyler Bechtel |
 | 385 | 275 | Jarred Falls |

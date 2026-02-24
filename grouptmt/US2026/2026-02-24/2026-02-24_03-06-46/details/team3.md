@@ -320,8 +320,8 @@
 | 312 | 476 | Shunta Jacobs |
 | 313 | 476 | Scott Carleton |
 | 314 | 473 | Tom Nault |
-| 315 | 471 | Sarah Moyer |
-| 316 | 471 | Mendoza Lee Christy |
+| 315 | 471 | Mendoza Lee Christy |
+| 316 | 471 | Sarah Moyer |
 | 317 | 467 | Danielle Rhoades |
 | 318 | 465 | Blocked |
 | 319 | 464 | Danielle Weikel |
@@ -369,15 +369,15 @@
 | 361 | 411 | Steffi Chris Dacones |
 | 362 | 411 | Chris Bell |
 | 363 | 409 | Rich LeBlanc |
-| 364 | 408 | Ashley Muncey |
-| 365 | 408 | Tiffany Ford |
+| 364 | 408 | Tiffany Ford |
+| 365 | 408 | Ashley Muncey |
 | 366 | 407 | Christina Spa |
 | 367 | 405 | Skinny Baldez |
 | 368 | 405 | fraulila |
 | 369 | 405 | Andrew Thorson |
 | 370 | 404 | Giggy Balanceblock |
-| 371 | 403 | Scott Lindsay |
-| 372 | 403 | Stephanie Burtin |
+| 371 | 403 | Stephanie Burtin |
+| 372 | 403 | Scott Lindsay |
 | 373 | 401 | block chick |
 | 374 | 400 | Beaudie Stroebel |
 | 375 | 400 | Joy Petroski |

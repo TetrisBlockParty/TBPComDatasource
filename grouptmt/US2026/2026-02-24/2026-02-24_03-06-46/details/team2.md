@@ -291,8 +291,8 @@
 | 283 | 1342 | Kelly A Green-Leach |
 | 284 | 1341 | Moose Griffith |
 | 285 | 1341 | Cassie Mercer |
-| 286 | 1338 | Diallo Sparkman |
-| 287 | 1338 | Ann Knutson Anderson |
+| 286 | 1338 | Ann Knutson Anderson |
+| 287 | 1338 | Diallo Sparkman |
 | 288 | 1337 | Lucky Ladybug |
 | 289 | 1333 | Tralonda Weeks |
 | 290 | 1331 | Christina Walker |
@@ -333,8 +333,8 @@
 | 325 | 1228 | Mama T |
 | 326 | 1227 | Rebecca Miller |
 | 327 | 1225 | RAEPR05 |
-| 328 | 1222 | Ashle Scranton |
-| 329 | 1222 | Nuke Morris |
+| 328 | 1222 | Nuke Morris |
+| 329 | 1222 | Ashle Scranton |
 | 330 | 1222 | Kristin Gower |
 | 331 | 1218 | LaKisha Anderson |
 | 332 | 1217 | Brooks Brooks |
