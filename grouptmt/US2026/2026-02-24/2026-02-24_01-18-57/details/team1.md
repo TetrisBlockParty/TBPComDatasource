@@ -44,8 +44,8 @@
 | 36 | 1413 | Trippy Redd |
 | 37 | 1405 | Chipper Gridlock |
 | 38 | 1391 | Aaron Garnett |
-| 39 | 1334 | june october |
-| 40 | 1334 | Tyler Alcock |
+| 39 | 1334 | Tyler Alcock |
+| 40 | 1334 | june october |
 | 41 | 1277 | Marianne Louise West |
 | 42 | 1250 | Stef Hu |
 | 43 | 1239 | Brenda Stewart |
@@ -112,8 +112,8 @@
 | 104 | 691 | Rachael |
 | 105 | 691 | Krista Young |
 | 106 | 690 | Melissa Lemmon |
-| 107 | 672 | Tdub |
-| 108 | 671 | Chirpy Smasher |
+| 107 | 671 | Chirpy Smasher |
+| 108 | 669 | Tdub |
 | 109 | 663 | Kristi Johnson |
 | 110 | 657 | Tee Sheree |
 | 111 | 648 | Evie Khalil |
@@ -287,9 +287,9 @@
 | 279 | 348 | DoodleBug |
 | 280 | 347 | ParisandCory Champagne |
 | 281 | 346 | build master |
-| 282 | 344 | dhardy |
-| 283 | 344 | Buttons Stemm |
-| 284 | 344 | Letson Melissa |
+| 282 | 344 | Buttons Stemm |
+| 283 | 344 | Letson Melissa |
+| 284 | 344 | dhardy |
 | 285 | 342 | Matt Iaccheo |
 | 286 | 341 | Colleen Pinette |
 | 287 | 341 | Nick R Montague |
@@ -298,8 +298,8 @@
 | 290 | 340 | Danielle Little-Daugherty |
 | 291 | 338 | Layzietyme |
 | 292 | 337 | Larissa Marie Nelson |
-| 293 | 336 | Adele Rahman |
-| 294 | 336 | Sarah Roberts |
+| 293 | 336 | Sarah Roberts |
+| 294 | 336 | Adele Rahman |
 | 295 | 334 | Tipsy Builder |
 | 296 | 333 | Wayne Saunders |
 | 297 | 333 | Irv |
@@ -1056,7 +1056,7 @@
 | 1048 | 87 | Jason Chabot |
 | 1049 | 87 | Kayla |
 | 1050 | 87 | Pie-3.14 |
-| 1051 | 87 | Kayla |
+| 1051 | 87 | Sari Jones |
 | 1052 | 87 | Christi Ames |
 | 1053 | 87 | Dizzy Spinbuilder |
 | 1054 | 87 | Moo |
