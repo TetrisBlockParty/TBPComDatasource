@@ -104,8 +104,8 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Diana Ibarra |
-| 100 | 1318 | Tiff Vs Tiffany |
+| 99 | 1318 | Tiff Vs Tiffany |
+| 100 | 1318 | Diana Ibarra |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
@@ -220,8 +220,8 @@
 | 212 | 733 | Annie Déè |
 | 213 | 732 | Angela Scott |
 | 214 | 731 | Samantha Greco |
-| 215 | 729 | Lizabeth Fox |
-| 216 | 729 | CeceGeGe |
+| 215 | 729 | CeceGeGe |
+| 216 | 729 | Lizabeth Fox |
 | 217 | 715 | Karon Griffin |
 | 218 | 714 | Jenny Hrndz |
 | 219 | 713 | Stephanie Blkpep Davidson |
@@ -360,10 +360,10 @@
 | 352 | 450 | Luciana Braganca Vieira |
 | 353 | 450 | Stefanie LaPointe |
 | 354 | 449 | Lively Caster |
-| 355 | 447 | Num1hater |
-| 356 | 447 | Carrie Huskey |
-| 357 | 446 | Jennifer Alvey |
-| 358 | 446 | Shiny Zonebuilder |
+| 355 | 447 | Carrie Huskey |
+| 356 | 447 | Num1hater |
+| 357 | 446 | Shiny Zonebuilder |
+| 358 | 446 | Jennifer Alvey |
 | 359 | 445 | Loopy Clusterer |
 | 360 | 444 | Heather De Vries Cobb |
 | 361 | 443 | Christian Werndl |
@@ -395,9 +395,9 @@
 | 387 | 413 | Stephanie Burtin |
 | 388 | 411 | Chris Bell |
 | 389 | 409 | Rich LeBlanc |
-| 390 | 408 | Tiffany Ford |
-| 391 | 408 | Beaudie Stroebel |
-| 392 | 408 | Ashley Muncey |
+| 390 | 408 | Ashley Muncey |
+| 391 | 408 | Tiffany Ford |
+| 392 | 408 | Beaudie Stroebel |
 | 393 | 407 | Christina Spa |
 | 394 | 405 | Skinny Baldez |
 | 395 | 405 | fraulila |
@@ -1067,7 +1067,7 @@
 | 1059 | 178 | Peachy Westbrook |
 | 1060 | 177 | Carla Gleaves |
 | 1061 | 177 | Pam Green |
-| 1062 | 177 | Lisa Sullivan |
+| 1062 | 177 | Snazzy Brickzone |
 | 1063 | 177 | Shiny Dashy |
 | 1064 | 177 | Lisa Sullivan |
 | 1065 | 176 | Armi |

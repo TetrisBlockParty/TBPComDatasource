@@ -70,8 +70,8 @@
 | 62 | 1106 | BertMofo |
 | 63 | 1094 | Shelly Chandler |
 | 64 | 1089 | Alyssa Papen |
-| 65 | 1082 | Avy Absol |
-| 66 | 1082 | Dion Crommarty |
+| 65 | 1082 | Dion Crommarty |
+| 66 | 1082 | Avy Absol |
 | 67 | 1081 | Dustee Craddock-Harrison |
 | 68 | 1069 | Heather Tushner |
 | 69 | 1056 | Keith Kelley |
@@ -130,16 +130,16 @@
 | 122 | 726 | Amy Suckarieh |
 | 123 | 725 | Brandon Crabbs |
 | 124 | 718 | Zippy Gridlock |
-| 125 | 712 | H.R. Block |
-| 126 | 712 | Leslie Nicole |
+| 125 | 712 | Leslie Nicole |
+| 126 | 712 | H.R. Block |
 | 127 | 708 | Jacqueline Helm |
-| 128 | 704 | Chilly Crasher |
-| 129 | 704 | Austin Owens |
+| 128 | 704 | Austin Owens |
+| 129 | 704 | Chilly Crasher |
 | 130 | 690 | Denia Deni |
 | 131 | 682 | Raegan Lane-Ross |
 | 132 | 668 | Desi Desporte |
-| 133 | 667 | Lindsey Gonzalez |
-| 134 | 667 | Matt Gooder |
+| 133 | 667 | Matt Gooder |
+| 134 | 667 | Lindsey Gonzalez |
 | 135 | 662 | George Nutt |
 | 136 | 661 | Rodney McMath Jr. |
 | 137 | 654 | Samantha Peterson |
@@ -270,8 +270,8 @@
 | 262 | 407 | Hyper Builder |
 | 263 | 402 | Nita Wells |
 | 264 | 399 | Twisty Cascadezone |
-| 265 | 398 | Tyler Terrific |
-| 266 | 398 | Nerdy Twisterfit |
+| 265 | 398 | Nerdy Twisterfit |
+| 266 | 398 | Tyler Terrific |
 | 267 | 397 | blockstar |
 | 268 | 395 | 030Synner |
 | 269 | 395 | Laura |

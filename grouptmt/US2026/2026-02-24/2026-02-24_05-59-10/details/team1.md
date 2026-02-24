@@ -45,8 +45,8 @@
 | 37 | 1515 | Felicia Lewis |
 | 38 | 1405 | Chipper Gridlock |
 | 39 | 1391 | Aaron Garnett |
-| 40 | 1334 | Tyler Alcock |
-| 41 | 1334 | june october |
+| 40 | 1334 | june october |
+| 41 | 1334 | Tyler Alcock |
 | 42 | 1321 | Drew Magnus |
 | 43 | 1311 | Snappy Swiper |
 | 44 | 1305 | Michelle Nicole |
@@ -83,8 +83,8 @@
 | 75 | 973 | Francesca Gee |
 | 76 | 966 | Shalene Frederick Autrey |
 | 77 | 961 | Jacqueline Williams |
-| 78 | 957 | Erin Hodges Plumb |
-| 79 | 957 | Zippy Align |
+| 78 | 957 | Zippy Align |
+| 79 | 957 | Erin Hodges Plumb |
 | 80 | 944 | Sweet Baker |
 | 81 | 922 | Jason Cox |
 | 82 | 920 | Tee Sheree |
@@ -136,8 +136,8 @@
 | 128 | 642 | Mario Cab |
 | 129 | 639 | Theo Pinnow |
 | 130 | 634 | Carrie Smith |
-| 131 | 629 | Death |
-| 132 | 629 | Tanya Carpenter-Reynolds |
+| 131 | 629 | Tanya Carpenter-Reynolds |
+| 132 | 629 | Death |
 | 133 | 628 | Trina Gee |
 | 134 | 626 | Damon J. Martin |
 | 135 | 622 | Chris K |
@@ -202,8 +202,8 @@
 | 194 | 488 | Connie |
 | 195 | 487 | Eric DeSimone |
 | 196 | 479 | canbrick |
-| 197 | 478 | Jumpy Dropper |
-| 198 | 478 | Hasty Cascader |
+| 197 | 478 | Hasty Cascader |
+| 198 | 478 | Jumpy Dropper |
 | 199 | 475 | Reesey Enyart |
 | 200 | 473 | Chuck Gannon |
 | 201 | 470 | Candy Jones |
@@ -267,8 +267,8 @@
 | 259 | 384 | Irv |
 | 260 | 383 | Margo Wagner |
 | 261 | 382 | Jamie Jury |
-| 262 | 380 | Snippy Wipebuilder |
-| 263 | 380 | Renee Tucker |
+| 262 | 380 | Renee Tucker |
+| 263 | 380 | Snippy Wipebuilder |
 | 264 | 379 | Austin James |
 | 265 | 379 | Bouncy Grid |
 | 266 | 378 | Colleen Pinette |

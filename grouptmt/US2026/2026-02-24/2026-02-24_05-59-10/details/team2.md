@@ -569,8 +569,8 @@
 | 561 | 854 | Dawn L Washington-Feuquay |
 | 562 | 854 | Gold Rose |
 | 563 | 852 | Polly Pritchard Chesler |
-| 564 | 852 | Catherine Marsh Gruda |
-| 565 | 852 | Alexandra Lynn |
+| 564 | 852 | Alexandra Lynn |
+| 565 | 852 | Catherine Marsh Gruda |
 | 566 | 851 | Melissa Schulz |
 | 567 | 850 | Sabrina Burton |
 | 568 | 848 | Jasmine Kenney |
