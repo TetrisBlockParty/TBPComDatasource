@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 13:32:42 UTC
+# Standings for team4 as of 2026-02-24 13:33:22 UTC
 
 **Total Participants:** 2035
 
@@ -63,7 +63,7 @@
 | 55 | 1324 | Lisa Davis |
 | 56 | 1288 | Pee |
 | 57 | 1267 | Isabel Aguilar |
-| 58 | 1250 | Rachel Anne |
+| 58 | 1260 | Rachel Anne |
 | 59 | 1241 | Justin Hannigan |
 | 60 | 1235 | Mona Sharma |
 | 61 | 1202 | Ashley Ingram |
@@ -395,30 +395,30 @@
 | 387 | 313 | Lazy Glidepiece |
 | 388 | 312 | Tawna Curry |
 | 389 | 311 | Reds Bella |
-| 390 | 311 | KayM |
-| 391 | 311 | Candice Carasiti |
-| 392 | 309 | Groovy Shiftspin |
-| 393 | 308 | Angela Geist Jusinski |
-| 394 | 307 | Eri Kka |
-| 395 | 307 | Susan Williams |
-| 396 | 306 | Bethany Ison |
-| 397 | 306 | PeaceOs |
-| 398 | 305 | Frances Hui |
-| 399 | 304 | Sarah Neathery |
+| 390 | 311 | Candice Carasiti |
+| 391 | 311 | KayM |
+| 392 | 310 | Lilya Troutman |
+| 393 | 309 | Groovy Shiftspin |
+| 394 | 308 | Angela Geist Jusinski |
+| 395 | 307 | Eri Kka |
+| 396 | 307 | Susan Williams |
+| 397 | 306 | Bethany Ison |
+| 398 | 306 | PeaceOs |
+| 399 | 305 | Frances Hui |
 | 400 | 304 | Kevin Blevins |
-| 401 | 302 | Koral Hanke |
+| 401 | 304 | Sarah Neathery |
 | 402 | 302 | Jenna McGeorge |
-| 403 | 300 | Jason Frehner |
-| 404 | 300 | Dapper Frame |
-| 405 | 300 | Carter Jones |
-| 406 | 300 | Jess Reyes |
-| 407 | 299 | Michael Snow |
-| 408 | 299 | Deb Rubeck |
-| 409 | 298 | Jenny Wells-Oakley |
-| 410 | 298 | Val Erie |
-| 411 | 297 | Allison Rose |
-| 412 | 297 | Brittany Marsh |
-| 413 | 295 | Lilya Troutman |
+| 403 | 302 | Koral Hanke |
+| 404 | 300 | Carter Jones |
+| 405 | 300 | Dapper Frame |
+| 406 | 300 | Jason Frehner |
+| 407 | 300 | Jess Reyes |
+| 408 | 299 | Michael Snow |
+| 409 | 299 | Deb Rubeck |
+| 410 | 298 | Jenny Wells-Oakley |
+| 411 | 298 | Val Erie |
+| 412 | 297 | Allison Rose |
+| 413 | 297 | Brittany Marsh |
 | 414 | 294 | BootsMcGee |
 | 415 | 293 | Shiny Pivoty |
 | 416 | 292 | Jumpy Zonepiece |
@@ -434,11 +434,11 @@
 | 426 | 288 | Eminem |
 | 427 | 288 | Amy Jean |
 | 428 | 288 | Michael Orris |
-| 429 | 285 | Jennifer Brown |
-| 430 | 284 | Johnny R |
-| 431 | 284 | Hector Duran |
-| 432 | 284 | Alexandra Karavias |
-| 433 | 283 | Tyler Bechtel |
+| 429 | 287 | Tyler Bechtel |
+| 430 | 285 | Jennifer Brown |
+| 431 | 284 | Johnny R |
+| 432 | 284 | Hector Duran |
+| 433 | 284 | Alexandra Karavias |
 | 434 | 281 | Tony Pavelka |
 | 435 | 281 | Morti |
 | 436 | 281 | Mackenzie Forrester |

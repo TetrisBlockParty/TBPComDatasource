@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 13:32:42 UTC
+# Standings for team1 as of 2026-02-24 13:33:22 UTC
 
 **Total Participants:** 2253
 
@@ -67,7 +67,7 @@
 | 59 | 1214 | Amy Griffith |
 | 60 | 1212 | Carrie Beck Geartz |
 | 61 | 1191 | Nerdy Linkblock |
-| 62 | 1186 | TSwag |
+| 62 | 1188 | TSwag |
 | 63 | 1180 | Shalene Frederick Autrey |
 | 64 | 1178 | Adam Byrd |
 | 65 | 1177 | Tipsy Column |
@@ -155,8 +155,8 @@
 | 147 | 628 | femmefatale |
 | 148 | 628 | Trina Gee |
 | 149 | 626 | Damon J. Martin |
-| 150 | 620 | Ty Brown |
-| 151 | 618 | Giddy Cascade |
+| 150 | 620 | Giddy Cascade |
+| 151 | 620 | Ty Brown |
 | 152 | 617 | Kimberly Garcia |
 | 153 | 611 | Evan Richmond |
 | 154 | 609 | Tiger Lily |
@@ -1347,18 +1347,18 @@
 | 1339 | 69 | tee |
 | 1340 | 68 | Grandmeemers22 |
 | 1341 | 68 | Loony Stacky |
-| 1342 | 68 | Ana Estevez |
-| 1343 | 68 | Neena AkaJaneen TheQueen |
-| 1344 | 68 | Cheery Zonegrid |
+| 1342 | 68 | savior |
+| 1343 | 68 | Ana Estevez |
+| 1344 | 68 | Neena AkaJaneen TheQueen |
 | 1345 | 68 | Natassia Miller |
-| 1346 | 68 | Pamela Elliott |
-| 1347 | 67 | Rusty Herrin |
-| 1348 | 67 | Jerome Mosby |
-| 1349 | 67 | Rayln Pedersen |
-| 1350 | 67 | Joshua Allen Garey |
-| 1351 | 67 | Mandy Russell |
-| 1352 | 67 | Nerdy Gridlock |
-| 1353 | 67 | savior |
+| 1346 | 68 | Cheery Zonegrid |
+| 1347 | 68 | Pamela Elliott |
+| 1348 | 67 | Rusty Herrin |
+| 1349 | 67 | Jerome Mosby |
+| 1350 | 67 | Rayln Pedersen |
+| 1351 | 67 | Joshua Allen Garey |
+| 1352 | 67 | Mandy Russell |
+| 1353 | 67 | Nerdy Gridlock |
 | 1354 | 67 | Soo Fly |
 | 1355 | 67 | Theresa Crawford |
 | 1356 | 66 | Stormz420 |
