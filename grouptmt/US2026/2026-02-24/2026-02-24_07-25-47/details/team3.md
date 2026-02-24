@@ -124,8 +124,8 @@
 | 116 | 1134 | Melissa Orth Hunter |
 | 117 | 1124 | Stephanie Rice |
 | 118 | 1121 | Corie A. Brinson |
-| 119 | 1114 | Loopy Fallmatch |
-| 120 | 1114 | Groovy Catcher |
+| 119 | 1114 | Groovy Catcher |
+| 120 | 1114 | Loopy Fallmatch |
 | 121 | 1105 | Adrian Marcel Pate |
 | 122 | 1093 | Angela M. Fletcher |
 | 123 | 1091 | Jennifer |
@@ -155,8 +155,8 @@
 | 147 | 966 | Sashay Tapae Simpson |
 | 148 | 963 | Crystal Frey |
 | 149 | 961 | Danielle Allison |
-| 150 | 950 | MissTaylor |
-| 151 | 950 | Giddy Drop |
+| 150 | 950 | Giddy Drop |
+| 151 | 950 | MissTaylor |
 | 152 | 940 | Stephanie Allmon |
 | 153 | 940 | Patty Allen |
 | 154 | 936 | Dolores Falco |
@@ -231,8 +231,8 @@
 | 223 | 709 | Cynthia Castros-Hampton |
 | 224 | 708 | Stephanie Bradley |
 | 225 | 703 | Shawn Miller |
-| 226 | 691 | Tia |
-| 227 | 691 | Snappy Balancer |
+| 226 | 691 | Snappy Balancer |
+| 227 | 691 | Tia |
 | 228 | 687 | joz |
 | 229 | 675 | Terry Jo Jones |
 | 230 | 662 | Jim Mathews |
@@ -252,8 +252,8 @@
 | 244 | 633 | Jillian Symons |
 | 245 | 630 | Jackie Miller |
 | 246 | 629 | rnr junky |
-| 247 | 627 | Louise Stacy Sisson |
-| 248 | 627 | Juliana Dottore |
+| 247 | 627 | Juliana Dottore |
+| 248 | 627 | Louise Stacy Sisson |
 | 249 | 626 | Cheryl Hinch Tenbrook |
 | 250 | 625 | Jacqueline Rodriguez |
 | 251 | 624 | Hyper Matchzone |
@@ -265,8 +265,8 @@
 | 257 | 618 | Betty Bóò |
 | 258 | 606 | Connie Mohler-Fair |
 | 259 | 605 | Sarah Cowan Burgos |
-| 260 | 604 | Bmo |
-| 261 | 604 | Sherry Ogden |
+| 260 | 604 | Sherry Ogden |
+| 261 | 604 | Bmo |
 | 262 | 601 | Betty Rosas |
 | 263 | 600 | Natasha Jones |
 | 264 | 599 | Noyb Adam |
@@ -280,9 +280,9 @@
 | 272 | 581 | Crystal Hine |
 | 273 | 578 | James Mitchell |
 | 274 | 576 | Rynne Ellis |
-| 275 | 574 | Fallorina Susana |
+| 275 | 574 | Danielle Balcom |
 | 276 | 574 | Rachael McClain Owens |
-| 277 | 574 | Danielle Balcom |
+| 277 | 574 | Fallorina Susana |
 | 278 | 572 | Tessina Dewey-Mancino |
 | 279 | 570 | thekey |
 | 280 | 569 | Gray Hicks |
@@ -302,12 +302,12 @@
 | 294 | 544 | Chris Bell |
 | 295 | 542 | France Vézina |
 | 296 | 541 | Mcathen |
-| 297 | 540 | Tanya Kittrell |
-| 298 | 540 | rosy |
+| 297 | 540 | rosy |
+| 298 | 540 | Tanya Kittrell |
 | 299 | 539 | Fancy Curver |
 | 300 | 539 | Kate M. Murdock |
-| 301 | 536 | Shannon Matthew Byers |
-| 302 | 536 | Giddy Twistbuilder |
+| 301 | 536 | Giddy Twistbuilder |
+| 302 | 536 | Shannon Matthew Byers |
 | 303 | 535 | kacihall |
 | 304 | 533 | BugMansMom |
 | 305 | 532 | Sarah Muradyan |
@@ -328,18 +328,18 @@
 | 320 | 499 | Rebecca Bailey |
 | 321 | 496 | Brenda Schmid Wood |
 | 322 | 495 | Daring Builder |
-| 323 | 494 | MCV |
-| 324 | 494 | fraulila |
+| 323 | 494 | fraulila |
+| 324 | 494 | MCV |
 | 325 | 492 | Tasha Wesson-Torrence |
 | 326 | 490 | Cassandra Bryant |
 | 327 | 489 | Isabel Ocasio |
 | 328 | 487 | MsBee |
-| 329 | 486 | Skippy |
-| 330 | 486 | Sleepy |
+| 329 | 486 | Sleepy |
+| 330 | 486 | Skippy |
 | 331 | 482 | Chummy Rumbler |
 | 332 | 481 | Tiffanie Alley |
-| 333 | 480 | Dee Franklin |
-| 334 | 480 | TLM |
+| 333 | 480 | TLM |
+| 334 | 480 | Dee Franklin |
 | 335 | 479 | Charles Perrone |
 | 336 | 476 | Shunta Jacobs |
 | 337 | 474 | Troy |
@@ -350,8 +350,8 @@
 | 342 | 465 | Blocked |
 | 343 | 465 | Noettín Kan Zasnemoore |
 | 344 | 464 | Snazzy Filler |
-| 345 | 462 | Brandon Givens |
-| 346 | 462 | Tegan Chapman |
+| 345 | 462 | Tegan Chapman |
+| 346 | 462 | Brandon Givens |
 | 347 | 461 | Hyper Bridger |
 | 348 | 461 | Briana Wellman |
 | 349 | 460 | Antonia Russell |
@@ -375,8 +375,8 @@
 | 367 | 443 | Christian Werndl |
 | 368 | 442 | Loopy Fallzone |
 | 369 | 438 | Dannie Litchard |
-| 370 | 436 | AC Yeater |
-| 371 | 436 | Julie Fratrik |
+| 370 | 436 | Julie Fratrik |
+| 371 | 436 | AC Yeater |
 | 372 | 435 | Sabrina Hardrick |
 | 373 | 434 | Criss |
 | 374 | 432 | Justice 4 P |

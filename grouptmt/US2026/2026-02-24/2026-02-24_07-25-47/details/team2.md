@@ -235,8 +235,8 @@
 | 227 | 1693 | Ashley Dow |
 | 228 | 1679 | Mischelle Clay |
 | 229 | 1663 | Alex Stone LaRue |
-| 230 | 1661 | Danielle Johnson-Chandler |
-| 231 | 1661 | Scott Treadway |
+| 230 | 1661 | Scott Treadway |
+| 231 | 1661 | Danielle Johnson-Chandler |
 | 232 | 1656 | Binyah-Binyah |
 | 233 | 1655 | Glitzy Stackzone |
 | 234 | 1654 | Cambrie Schultz |
@@ -251,8 +251,8 @@
 | 243 | 1613 | blackq |
 | 244 | 1610 | Ray Ray Prado |
 | 245 | 1609 | Ryan Stadel |
-| 246 | 1600 | Mo Shine On |
-| 247 | 1600 | Jojo Momma |
+| 246 | 1600 | Jojo Momma |
+| 247 | 1600 | Mo Shine On |
 | 248 | 1596 | Christine Egidio Morocco |
 | 249 | 1592 | Dolores Russworn |
 | 250 | 1581 | Tommy Tha Boss Gunz |
@@ -268,8 +268,8 @@
 | 260 | 1552 | Mcintosh Brian Shalonda |
 | 261 | 1546 | Alyssa Nadine Medelez |
 | 262 | 1528 | Stacy Stickle |
-| 263 | 1509 | Stacey Clement |
-| 264 | 1509 | Whitney Nicole Waterman |
+| 263 | 1509 | Whitney Nicole Waterman |
+| 264 | 1509 | Stacey Clement |
 | 265 | 1501 | Ashle Scranton |
 | 266 | 1498 | Ericka Marie Smith |
 | 267 | 1493 | David Jones |
@@ -977,8 +977,8 @@
 | 969 | 589 | Sharon Madeiros |
 | 970 | 588 | Wayne Fields |
 | 971 | 587 | Alexx Anaya |
-| 972 | 586 | Cat Thompson |
-| 973 | 586 | Tracy Wise Moon |
+| 972 | 586 | Tracy Wise Moon |
+| 973 | 586 | Cat Thompson |
 | 974 | 586 | Tra Barnum |
 | 975 | 585 | Danielle DeLozier Plesec |
 | 976 | 585 | Laquetta Royston |
@@ -1037,8 +1037,8 @@
 | 1029 | 561 | Jenelle Case |
 | 1030 | 560 | Elizabeth Nieto |
 | 1031 | 560 | De Hawkins |
-| 1032 | 559 | Kaylee McCafferty |
-| 1033 | 559 | Britney M. |
+| 1032 | 559 | Britney M. |
+| 1033 | 559 | Kaylee McCafferty |
 | 1034 | 559 | Lucero Ramirez |
 | 1035 | 558 | David Scott |
 | 1036 | 558 | Treshell Boyd |
@@ -1142,9 +1142,9 @@
 | 1134 | 519 | Abby Jensen |
 | 1135 | 517 | Meganator42 |
 | 1136 | 516 | Nikki Arlene |
-| 1137 | 515 | Madysen Holt |
-| 1138 | 515 | Lesley Leanne Houston |
-| 1139 | 515 | Poppy |
+| 1137 | 515 | Poppy |
+| 1138 | 515 | Madysen Holt |
+| 1139 | 515 | Lesley Leanne Houston |
 | 1140 | 515 | Miracle |
 | 1141 | 515 | Erin Reid |
 | 1142 | 515 | Chill Strike |
