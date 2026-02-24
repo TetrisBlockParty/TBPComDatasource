@@ -44,8 +44,8 @@
 | 36 | 1413 | Trippy Redd |
 | 37 | 1405 | Chipper Gridlock |
 | 38 | 1391 | Aaron Garnett |
-| 39 | 1334 | june october |
-| 40 | 1334 | Tyler Alcock |
+| 39 | 1334 | Tyler Alcock |
+| 40 | 1334 | june october |
 | 41 | 1277 | Marianne Louise West |
 | 42 | 1250 | Stef Hu |
 | 43 | 1239 | Brenda Stewart |
@@ -298,8 +298,8 @@
 | 290 | 340 | Danielle Little-Daugherty |
 | 291 | 338 | Layzietyme |
 | 292 | 337 | Larissa Marie Nelson |
-| 293 | 336 | Adele Rahman |
-| 294 | 336 | Sarah Roberts |
+| 293 | 336 | Sarah Roberts |
+| 294 | 336 | Adele Rahman |
 | 295 | 334 | Tipsy Builder |
 | 296 | 333 | Wayne Saunders |
 | 297 | 333 | Irv |

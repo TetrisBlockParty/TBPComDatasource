@@ -105,8 +105,8 @@
 | 97 | 787 | Jason Hart |
 | 98 | 781 | Brittney Griggs |
 | 99 | 779 | Nope Young |
-| 100 | 775 | TheNeesh50 |
-| 101 | 775 | Klo |
+| 100 | 775 | Klo |
+| 101 | 775 | TheNeesh50 |
 | 102 | 768 | Trista Leah |
 | 103 | 768 | Judy Cox |
 | 104 | 766 | Robin Watters |
