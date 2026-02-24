@@ -105,8 +105,8 @@
 | 97 | 811 | Sassy Pattern |
 | 98 | 806 | Lori Walker |
 | 99 | 802 | Crystal Carroll |
-| 100 | 798 | Jewell Urban |
-| 101 | 798 | Klo |
+| 100 | 798 | Klo |
+| 101 | 798 | Jewell Urban |
 | 102 | 792 | Denise Carlson |
 | 103 | 789 | Keith Kelley |
 | 104 | 781 | Brittney Griggs |
@@ -165,8 +165,8 @@
 | 157 | 578 | Livvy |
 | 158 | 576 | Jade Rian |
 | 159 | 575 | Jenna Ingersoll |
-| 160 | 574 | Carmethia Clemons Haslerig |
-| 161 | 574 | Carlos Ramirez |
+| 160 | 574 | Carlos Ramirez |
+| 161 | 574 | Carmethia Clemons Haslerig |
 | 162 | 567 | Rico |
 | 163 | 565 | Ren Mc |
 | 164 | 560 | Chastity Mitchell |
@@ -228,8 +228,8 @@
 | 220 | 448 | Mike Solo |
 | 221 | 447 | Jen Mattei |
 | 222 | 446 | Mr. Party |
-| 223 | 444 | Shiny Fit |
-| 224 | 444 | Calvin Cannon |
+| 223 | 444 | Calvin Cannon |
+| 224 | 444 | Shiny Fit |
 | 225 | 443 | Kristina Black |
 | 226 | 442 | 🥔🥔 Spudz |
 | 227 | 441 | Lush Linkfall |
@@ -259,8 +259,8 @@
 | 251 | 398 | Tyler Terrific |
 | 252 | 397 | blasterB |
 | 253 | 397 | blockstar |
-| 254 | 395 | 030Synner |
-| 255 | 395 | BigSammy420 |
+| 254 | 395 | BigSammy420 |
+| 255 | 395 | 030Synner |
 | 256 | 394 | Nita Wells |
 | 257 | 392 | Neirrah B Olailjeel |
 | 258 | 391 | mike |

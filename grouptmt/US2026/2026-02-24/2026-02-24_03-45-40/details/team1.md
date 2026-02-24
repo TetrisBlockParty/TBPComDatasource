@@ -194,8 +194,8 @@
 | 186 | 488 | Ly Phethmany |
 | 187 | 488 | Hyper |
 | 188 | 487 | Eric DeSimone |
-| 189 | 479 | canbrick |
-| 190 | 479 | Snappy Matcher |
+| 189 | 479 | Snappy Matcher |
+| 190 | 479 | canbrick |
 | 191 | 478 | Jumpy Dropper |
 | 192 | 473 | Chuck Gannon |
 | 193 | 470 | Candy Jones |
@@ -207,8 +207,8 @@
 | 199 | 458 | Dizzy Slider |
 | 200 | 453 | Kimmie Kimms |
 | 201 | 448 | Yvonne Marie |
-| 202 | 446 | SkipTheSadSauce |
-| 203 | 446 | Spencer Lent |
+| 202 | 446 | Spencer Lent |
+| 203 | 446 | SkipTheSadSauce |
 | 204 | 442 | Reesey Enyart |
 | 205 | 441 | Kimberly Garcia |
 | 206 | 439 | David Miller |
@@ -336,8 +336,8 @@
 | 328 | 322 | Chris65 |
 | 329 | 321 | LD1 |
 | 330 | 320 | Zany Tiler |
-| 331 | 319 | Fresno Beotoni |
-| 332 | 319 | Crystal Cheresnowsky |
+| 331 | 319 | Crystal Cheresnowsky |
+| 332 | 319 | Fresno Beotoni |
 | 333 | 317 | Bloknboy |
 | 334 | 316 | Giggly Builderline |
 | 335 | 315 | san |
@@ -357,8 +357,8 @@
 | 349 | 305 | Damian Salem |
 | 350 | 304 | Chummy Rollblock |
 | 351 | 302 | Richard Corrado |
-| 352 | 301 | Chad Atchley |
-| 353 | 301 | Susie Loo |
+| 352 | 301 | Susie Loo |
+| 353 | 301 | Chad Atchley |
 | 354 | 300 | Logan McFarland |
 | 355 | 299 | Rachel Rogers |
 | 356 | 299 | Nathan William |
@@ -399,8 +399,8 @@
 | 391 | 279 | Chris Dawson |
 | 392 | 279 | Herm Junior |
 | 393 | 278 | Thorne Shumate |
-| 394 | 278 | Michelle |
-| 395 | 278 | Hasty Columnbuilder |
+| 394 | 278 | Hasty Columnbuilder |
+| 395 | 278 | Michelle |
 | 396 | 277 | Nutty Spinblock |
 | 397 | 275 | Mighty Shatterfit |
 | 398 | 274 | Allena Craft |
@@ -555,7 +555,7 @@
 | 547 | 209 | Beau Galvan |
 | 548 | 208 | Jason Landon Sexton |
 | 549 | 208 | Gerald Richard Franke |
-| 550 | 208 | Jason Landon Sexton |
+| 550 | 208 | Donna Addison Williams |
 | 551 | 207 | Leslie Bush Yarbrough |
 | 552 | 206 | Matt Cinelli |
 | 553 | 206 | Mindy Gloska |
