@@ -137,8 +137,8 @@
 | 129 | 945 | Shonna Roberts |
 | 130 | 940 | Stephanie Allmon |
 | 131 | 939 | Jamie Lang |
-| 132 | 936 | Dolores Falco |
-| 133 | 936 | Giddy Drop |
+| 132 | 936 | Giddy Drop |
+| 133 | 936 | Dolores Falco |
 | 134 | 932 | Katrina Schroeder |
 | 135 | 931 | Michelle |
 | 136 | 930 | Bea Miles |
@@ -364,12 +364,12 @@
 | 356 | 386 | Kelly Wolf |
 | 357 | 383 | Kirhonda Autmon |
 | 358 | 383 | Nikki White |
-| 359 | 382 | Tiffany Davie |
-| 360 | 382 | Amanda J. Mcneil-Anderson |
+| 359 | 382 | Amanda J. Mcneil-Anderson |
+| 360 | 382 | Tiffany Davie |
 | 361 | 381 | Christina Spa |
 | 362 | 381 | gremicx |
-| 363 | 379 | Kelly |
-| 364 | 379 | Kaitie Oliver |
+| 363 | 379 | Kaitie Oliver |
+| 364 | 379 | Kelly |
 | 365 | 378 | MsBee |
 | 366 | 377 | Hoppy Patternline |
 | 367 | 377 | Dee Franklin |

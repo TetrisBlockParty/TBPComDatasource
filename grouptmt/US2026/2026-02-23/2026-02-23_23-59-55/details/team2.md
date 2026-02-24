@@ -1211,8 +1211,8 @@
 | 1203 | 426 | Mandi |
 | 1204 | 426 | Juan Killyoselfifudontlikeme Ronaldo |
 | 1205 | 425 | Shay Moore |
-| 1206 | 425 | Anthony McAlister |
-| 1207 | 425 | Christina Jarvis-Swarbrick |
+| 1206 | 425 | Christina Jarvis-Swarbrick |
+| 1207 | 425 | Anthony McAlister |
 | 1208 | 424 | ToxicTrash |
 | 1209 | 424 | STLBatman |
 | 1210 | 423 | Sar Mo |

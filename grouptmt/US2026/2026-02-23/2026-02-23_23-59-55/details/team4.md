@@ -178,8 +178,8 @@
 | 170 | 507 | Nick Gray |
 | 171 | 504 | Deanna Deckard |
 | 172 | 501 | Ericca Eldridge |
-| 173 | 499 | Berklie Apedaile |
-| 174 | 499 | Andria Lynn |
+| 173 | 499 | Andria Lynn |
+| 174 | 499 | Berklie Apedaile |
 | 175 | 497 | Brandon Crabbs |
 | 176 | 496 | Cindy Looper |
 | 177 | 495 | Carrie Brian |
@@ -264,8 +264,8 @@
 | 256 | 369 | Matt Dell'Olio |
 | 257 | 368 | Kris Bartlett |
 | 258 | 367 | Meg |
-| 259 | 366 | Cheery Risebuilder |
-| 260 | 366 | Andrew Dang |
+| 259 | 366 | Andrew Dang |
+| 260 | 366 | Cheery Risebuilder |
 | 261 | 365 | Hyper Builder |
 | 262 | 364 | Joeliecea Cobb |
 | 263 | 361 | Danielle Kollias |
@@ -321,8 +321,8 @@
 | 313 | 306 | PeaceOs |
 | 314 | 305 | Megan Cutshaw |
 | 315 | 305 | Kenna Gunderland |
-| 316 | 300 | Dana Scott |
-| 317 | 300 | Koral Hanke |
+| 316 | 300 | Koral Hanke |
+| 317 | 300 | Dana Scott |
 | 318 | 299 | Jenna McGeorge |
 | 319 | 298 | ZeeZee |
 | 320 | 296 | Sarah Hoffman |
@@ -452,8 +452,8 @@
 | 444 | 230 | Martha Lucinda Bishop |
 | 445 | 230 | Chantilly Laace |
 | 446 | 228 | Bethany Ison |
-| 447 | 227 | Asher |
-| 448 | 227 | Maria Hammie |
+| 447 | 227 | Maria Hammie |
+| 448 | 227 | Asher |
 | 449 | 225 | Jennifer Renee |
 | 450 | 224 | Vanessa Smart |
 | 451 | 224 | Ultramarine |
@@ -497,9 +497,9 @@
 | 489 | 207 | Jessica Wells |
 | 490 | 207 | Sam Middleton |
 | 491 | 207 | SammieJo Guy |
-| 492 | 206 | James Philpot Ross |
+| 492 | 206 | Globofish |
 | 493 | 206 | Grann8 |
-| 494 | 206 | Globofish |
+| 494 | 206 | James Philpot Ross |
 | 495 | 205 | ChasingZen |
 | 496 | 204 | Cozy Balancer |
 | 497 | 204 | Gwendolyn Pitcairn |

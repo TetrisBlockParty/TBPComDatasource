@@ -299,9 +299,9 @@
 | 291 | 330 | Jeremy Maubert |
 | 292 | 329 | Marianita Garcia |
 | 293 | 328 | Buttons Stemm |
-| 294 | 325 | GringaLinga |
+| 294 | 325 | Mitchel White |
 | 295 | 325 | Snappy Brickbuilder |
-| 296 | 325 | Mitchel White |
+| 296 | 325 | GringaLinga |
 | 297 | 324 | Sylvia Vasquez |
 | 298 | 324 | Mandyy Rae |
 | 299 | 322 | Billie Ann Eason |
@@ -539,9 +539,9 @@
 | 531 | 196 | Kirk Torrey |
 | 532 | 196 | Mary Cerciello |
 | 533 | 195 | Camelia Trevillion |
-| 534 | 194 | Jennifer Corrado |
-| 535 | 194 | Discovery Point |
-| 536 | 194 | Sarah Henniker |
+| 534 | 194 | Discovery Point |
+| 535 | 194 | Sarah Henniker |
+| 536 | 194 | Jennifer Corrado |
 | 537 | 194 | Nicole Meredith Flynn |
 | 538 | 193 | Giggly Rollfit |
 | 539 | 193 | Rayshawn Beamer |
