@@ -102,8 +102,8 @@
 | 94 | 1361 | Patricia Gadsden |
 | 95 | 1343 | Joey Banks |
 | 96 | 1320 | Kristie |
-| 97 | 1318 | Tiff Vs Tiffany |
-| 98 | 1318 | Diana Ibarra |
+| 97 | 1318 | Diana Ibarra |
+| 98 | 1318 | Tiff Vs Tiffany |
 | 99 | 1309 | yoyo |
 | 100 | 1297 | Shelby Michelle |
 | 101 | 1290 | JerseyJess |

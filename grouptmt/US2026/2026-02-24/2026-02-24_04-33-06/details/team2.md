@@ -618,8 +618,8 @@
 | 610 | 786 | Ashe Corso |
 | 611 | 785 | Daniel Amos |
 | 612 | 781 | Amanda Ferrell |
-| 613 | 780 | Megan Kitchner |
-| 614 | 780 | Breezy Filler |
+| 613 | 780 | Breezy Filler |
+| 614 | 780 | Megan Kitchner |
 | 615 | 780 | Amy Reynolds |
 | 616 | 779 | Trinity Oak |
 | 617 | 777 | Tesha Oldaker |
@@ -1390,7 +1390,7 @@
 | 1382 | 418 | Pumpkin24 |
 | 1383 | 417 | Joshua Switzer |
 | 1384 | 417 | Sherilyn Huie |
-| 1385 | 417 | Joshua Switzer |
+| 1385 | 417 | Val Pal |
 | 1386 | 416 | Poy Huang |
 | 1387 | 415 | Jacqueline Muellerleile |
 | 1388 | 414 | Perk Diggler |

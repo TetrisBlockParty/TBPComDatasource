@@ -69,8 +69,8 @@
 | 61 | 1116 | Ashley Ingram |
 | 62 | 1098 | BertMofo |
 | 63 | 1089 | Alyssa Papen |
-| 64 | 1082 | Avy Absol |
-| 65 | 1082 | Dion Crommarty |
+| 64 | 1082 | Dion Crommarty |
+| 65 | 1082 | Avy Absol |
 | 66 | 1075 | Dustee Craddock-Harrison |
 | 67 | 1069 | Heather Tushner |
 | 68 | 1055 | Julian Garcia |
@@ -180,8 +180,8 @@
 | 172 | 538 | Steph Marie |
 | 173 | 537 | Scott Jameson |
 | 174 | 535 | Berklie Apedaile |
-| 175 | 532 | Matt Summer |
-| 176 | 532 | Alan George LaRage |
+| 175 | 532 | Alan George LaRage |
+| 176 | 532 | Matt Summer |
 | 177 | 528 | Erin Sabol |
 | 178 | 525 | Lucas J Sutton |
 | 179 | 522 | Carly Alexis |
@@ -227,8 +227,8 @@
 | 219 | 454 | Keshia Lyons |
 | 220 | 451 | J-Rizzle |
 | 221 | 449 | Danielle Kollias |
-| 222 | 448 | Zakia Monae |
-| 223 | 448 | Mike Solo |
+| 222 | 448 | Mike Solo |
+| 223 | 448 | Zakia Monae |
 | 224 | 447 | Jen Mattei |
 | 225 | 446 | Mr. Party |
 | 226 | 444 | Calvin Cannon |
@@ -280,16 +280,16 @@
 | 272 | 380 | Holly Jolly |
 | 273 | 380 | Jen Caldwell |
 | 274 | 379 | Backoff Recupe |
-| 275 | 378 | Jason Gibbs |
-| 276 | 378 | Mary Ann Pabukis |
-| 277 | 378 | Googenheim |
+| 275 | 378 | Mary Ann Pabukis |
+| 276 | 378 | Googenheim |
+| 277 | 378 | Jason Gibbs |
 | 278 | 377 | Matt Dell'Olio |
-| 279 | 376 | Nig |
-| 280 | 376 | Montiette Mcglown |
+| 279 | 376 | Montiette Mcglown |
+| 280 | 376 | Nig |
 | 281 | 373 | Russ Attitude |
-| 282 | 370 | Twisty Risebuilder |
-| 283 | 370 | Kris Bartlett |
-| 284 | 370 | Cheery Risebuilder |
+| 282 | 370 | Cheery Risebuilder |
+| 283 | 370 | Twisty Risebuilder |
+| 284 | 370 | Kris Bartlett |
 | 285 | 367 | Meg |
 | 286 | 366 | Hyper Builder |
 | 287 | 365 | Twisty Cascadezone |
@@ -320,9 +320,9 @@
 | 312 | 335 | Snippy Puzzle |
 | 313 | 332 | Jason Bosco |
 | 314 | 331 | Kate |
-| 315 | 330 | Brittany Little |
-| 316 | 330 | Sandra Safford |
-| 317 | 330 | Duck |
+| 315 | 330 | Duck |
+| 316 | 330 | Brittany Little |
+| 317 | 330 | Sandra Safford |
 | 318 | 329 | Meagan Nicole |
 | 319 | 328 | Angie Schmidt |
 | 320 | 328 | Leah Kutz Zirbel |
