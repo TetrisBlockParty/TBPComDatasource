@@ -70,8 +70,8 @@
 | 62 | 1059 | Alyssa Papen |
 | 63 | 1049 | Heather Tushner |
 | 64 | 1046 | Johnathan Martinez |
-| 65 | 1030 | LisaJo Picken Buchanan |
-| 66 | 1030 | Anthony Bryan Riva |
+| 65 | 1030 | Anthony Bryan Riva |
+| 66 | 1030 | LisaJo Picken Buchanan |
 | 67 | 998 | Jeremy Steines |
 | 68 | 985 | Shelly Chandler |
 | 69 | 977 | Amelpss |
@@ -172,10 +172,10 @@
 | 164 | 524 | Erin Sabol |
 | 165 | 522 | Carly Alexis |
 | 166 | 521 | Andy Cabral |
-| 167 | 520 | Oscar Alberto Perez |
-| 168 | 520 | Zippy Block |
-| 169 | 516 | Twisty Clicky |
-| 170 | 516 | Trish |
+| 167 | 520 | Zippy Block |
+| 168 | 520 | Oscar Alberto Perez |
+| 169 | 516 | Trish |
+| 170 | 516 | Twisty Clicky |
 | 171 | 514 | Scott Jameson |
 | 172 | 513 | Erin Thomas |
 | 173 | 512 | ThaEviLJeNiuZ |
@@ -221,8 +221,8 @@
 | 213 | 439 | Jen Mattei |
 | 214 | 438 | Melvin Baird |
 | 215 | 434 | Ramel Rhodes |
-| 216 | 433 | Damn Libra |
-| 217 | 433 | Circuit8 |
+| 216 | 433 | Circuit8 |
+| 217 | 433 | Damn Libra |
 | 218 | 431 | Zesty Twistbuilder |
 | 219 | 427 | Chao Ma |
 | 220 | 426 | John Brunetti |
@@ -362,8 +362,8 @@
 | 354 | 283 | Jackie Clark |
 | 355 | 283 | Angela Geist Jusinski |
 | 356 | 282 | Susan Williams |
-| 357 | 281 | Morti |
-| 358 | 281 | Paige Kittles |
+| 357 | 281 | Paige Kittles |
+| 358 | 281 | Morti |
 | 359 | 279 | Jim Hart |
 | 360 | 278 | Sarah Brown |
 | 361 | 276 | Lee Silpe |
@@ -539,17 +539,17 @@
 | 531 | 197 | Sholom Fried |
 | 532 | 196 | Julie McAfoos Swanson |
 | 533 | 195 | Christine Simmons |
-| 534 | 194 | Zany Twisterfit |
+| 534 | 194 | Carlos Hernandez |
 | 535 | 194 | Cranky Glidebuilder |
-| 536 | 194 | Carlos Hernandez |
+| 536 | 194 | Zany Twisterfit |
 | 537 | 192 | Jacob Campbell |
 | 538 | 192 | Rebecca A Rit |
 | 539 | 192 | Twisty Risebuilder |
 | 540 | 191 | Jobadia Steelerton |
 | 541 | 191 | Norman Klick |
 | 542 | 191 | Earnest Thompson |
-| 543 | 190 | Robert Rangel |
-| 544 | 190 | wombat |
+| 543 | 190 | wombat |
+| 544 | 190 | Robert Rangel |
 | 545 | 189 | Brandon Link |
 | 546 | 188 | Frilly Blocky |
 | 547 | 188 | Daring Pivot |
