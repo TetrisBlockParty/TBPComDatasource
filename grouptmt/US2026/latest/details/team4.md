@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 18:46:44 UTC
+# Standings for team4 as of 2026-02-24 18:47:22 UTC
 
 **Total Participants:** 2061
 
@@ -19,7 +19,7 @@
 | 11 | 3767 | Tina Martinez |
 | 12 | 3756 | Roger Coulter |
 | 13 | 3428 | Melissa Adams |
-| 14 | 3103 | Leah Gorsuch |
+| 14 | 3183 | Leah Gorsuch |
 | 15 | 3040 | Denny Shives |
 | 16 | 3029 | Elizabeth Sallas |
 | 17 | 2805 | Ancient Intuition |
@@ -42,14 +42,14 @@
 | 34 | 1704 | LS |
 | 35 | 1677 | Tammi Crnza |
 | 36 | 1673 | Cassie Michaux |
-| 37 | 1633 | Cherrish Duren |
-| 38 | 1631 | Goatimus Lombardi |
-| 39 | 1627 | Rachel Anne |
+| 37 | 1657 | Rachel Anne |
+| 38 | 1633 | Cherrish Duren |
+| 39 | 1631 | Goatimus Lombardi |
 | 40 | 1616 | Dee Kay |
 | 41 | 1612 | Dawn Alexander |
-| 42 | 1584 | Rebecca Moulton Pinciaro |
-| 43 | 1580 | Eric Mcgaughy |
-| 44 | 1572 | Shane Kalamata Platoon |
+| 42 | 1594 | Shane Kalamata Platoon |
+| 43 | 1584 | Rebecca Moulton Pinciaro |
+| 44 | 1580 | Eric Mcgaughy |
 | 45 | 1571 | Koshin Abdirahman |
 | 46 | 1518 | Kimberly Love |
 | 47 | 1514 | Sammy Noguera |
@@ -137,8 +137,8 @@
 | 129 | 753 | Nugget |
 | 130 | 753 | Brandon Crabbs |
 | 131 | 745 | Adawna Swires |
-| 132 | 734 | Matt Gooder |
-| 133 | 732 | Jamie Mann-Deichmann |
+| 132 | 737 | Jamie Mann-Deichmann |
+| 133 | 734 | Matt Gooder |
 | 134 | 731 | KJ Pool |
 | 135 | 728 | Jessica Lynn Cutlip |
 | 136 | 726 | Jamie Gustafson |
@@ -389,9 +389,9 @@
 | 381 | 340 | Juls |
 | 382 | 339 | River Shady Sr. |
 | 383 | 339 | Susan Williams |
-| 384 | 336 | Stella |
-| 385 | 335 | Jumpy Zonepiece |
-| 386 | 335 | Tyler Bechtel |
+| 384 | 336 | Tyler Bechtel |
+| 385 | 336 | Stella |
+| 386 | 335 | Jumpy Zonepiece |
 | 387 | 334 | rebel4lyfe |
 | 388 | 333 | Kim Klutz Olson |
 | 389 | 333 | Rodney Wheeler |
@@ -630,14 +630,14 @@
 | 622 | 218 | Rebecca A Rit |
 | 623 | 218 | Vamp |
 | 624 | 218 | wombat |
-| 625 | 217 | Globofish |
-| 626 | 217 | Andrea Gallagher |
-| 627 | 217 | Mcg |
-| 628 | 217 | Melissa Priest Sellers |
-| 629 | 217 | sgt baby |
-| 630 | 217 | Michelle McCutcheon |
-| 631 | 216 | Julie McAfoos Swanson |
-| 632 | 215 | Richard |
+| 625 | 218 | Richard |
+| 626 | 217 | Globofish |
+| 627 | 217 | Andrea Gallagher |
+| 628 | 217 | Mcg |
+| 629 | 217 | Melissa Priest Sellers |
+| 630 | 217 | sgt baby |
+| 631 | 217 | Michelle McCutcheon |
+| 632 | 216 | Julie McAfoos Swanson |
 | 633 | 215 | Elie Pean |
 | 634 | 215 | Steve |
 | 635 | 215 | Tetrina |
