@@ -89,8 +89,8 @@
 | 81 | 994 | Lori Sanders- Davis |
 | 82 | 973 | Francesca Gee |
 | 83 | 961 | Jacqueline Williams |
-| 84 | 957 | Zippy Align |
-| 85 | 957 | Erin Hodges Plumb |
+| 84 | 957 | Erin Hodges Plumb |
+| 85 | 957 | Zippy Align |
 | 86 | 944 | Sweet Baker |
 | 87 | 920 | Tee Sheree |
 | 88 | 916 | Chirpy Smasher |
@@ -173,12 +173,12 @@
 | 165 | 553 | Flashy Rotator |
 | 166 | 551 | Loony Fitzone |
 | 167 | 549 | Jerry Danowski |
-| 168 | 548 | Stephanie Zahn |
-| 169 | 548 | Luciano Moreira |
+| 168 | 548 | Luciano Moreira |
+| 169 | 548 | Stephanie Zahn |
 | 170 | 547 | Sharon Reynolds |
 | 171 | 545 | .running. |
-| 172 | 543 | Nicole Roseberry Weber |
-| 173 | 543 | Adrian Esteban |
+| 172 | 543 | Adrian Esteban |
+| 173 | 543 | Nicole Roseberry Weber |
 | 174 | 542 | BadG52 |
 | 175 | 540 | Tonya Beasley |
 | 176 | 535 | Plucky Ziggy |
@@ -211,8 +211,8 @@
 | 203 | 488 | Ly Phethmany |
 | 204 | 482 | Adele Rahman |
 | 205 | 479 | canbrick |
-| 206 | 478 | Hasty Cascader |
-| 207 | 478 | Jumpy Dropper |
+| 206 | 478 | Jumpy Dropper |
+| 207 | 478 | Hasty Cascader |
 | 208 | 477 | Dizzy Slider |
 | 209 | 475 | Snippy Wipebuilder |
 | 210 | 475 | Reesey Enyart |

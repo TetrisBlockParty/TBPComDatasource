@@ -78,13 +78,13 @@
 | 70 | 1695 | Nora Rogers |
 | 71 | 1691 | Cass Mendoza |
 | 72 | 1681 | Gracie |
-| 73 | 1663 | Mahman |
-| 74 | 1663 | Angeline Joseph |
+| 73 | 1663 | Angeline Joseph |
+| 74 | 1663 | Mahman |
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -167,8 +167,8 @@
 | 159 | 928 | Edwin Calvillo Jr. |
 | 160 | 925 | Cherry Parker |
 | 161 | 914 | BadManSheLove |
-| 162 | 910 | Staci George Fitzsimmons |
-| 163 | 910 | opf |
+| 162 | 910 | opf |
+| 163 | 910 | Staci George Fitzsimmons |
 | 164 | 906 | Patti Skiles |
 | 165 | 899 | Jaime Monhaut-Reed |
 | 166 | 894 | Denita Mungro |
@@ -285,8 +285,8 @@
 | 277 | 599 | Noyb Adam |
 | 278 | 594 | Cozy Snaplink |
 | 279 | 588 | Salena Whitlock |
-| 280 | 586 | Donna |
-| 281 | 586 | Brian Battjes |
+| 280 | 586 | Brian Battjes |
+| 281 | 586 | Donna |
 | 282 | 582 | FuzzyNavel |
 | 283 | 581 | Crystal Hine |
 | 284 | 578 | James Mitchell |
@@ -310,8 +310,8 @@
 | 302 | 547 | Aerian Preston |
 | 303 | 542 | France Vézina |
 | 304 | 541 | Mcathen |
-| 305 | 540 | rosy |
-| 306 | 540 | Tanya Kittrell |
+| 305 | 540 | Tanya Kittrell |
+| 306 | 540 | rosy |
 | 307 | 539 | Fancy Curver |
 | 308 | 539 | Kate M. Murdock |
 | 309 | 538 | Chummy Caster |
@@ -324,8 +324,8 @@
 | 316 | 523 | Ktfreeee |
 | 317 | 518 | Marquita Sheard |
 | 318 | 514 | Nikki White |
-| 319 | 506 | Tiffanie Alley |
-| 320 | 506 | Ammmmmmy |
+| 319 | 506 | Ammmmmmy |
+| 320 | 506 | Tiffanie Alley |
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
@@ -383,8 +383,8 @@
 | 375 | 443 | Christian Werndl |
 | 376 | 442 | Loopy Fallzone |
 | 377 | 438 | Dannie Litchard |
-| 378 | 436 | Julie Fratrik |
-| 379 | 436 | AC Yeater |
+| 378 | 436 | AC Yeater |
+| 379 | 436 | Julie Fratrik |
 | 380 | 435 | Sabrina Hardrick |
 | 381 | 434 | Criss |
 | 382 | 434 | Ginger Gray |
@@ -2194,7 +2194,7 @@
 | 2186 | 60 | Spunky Mover |
 | 2187 | 60 | Samantha Washington |
 | 2188 | 60 | Giggly Zonebuilder |
-| 2189 | 60 | Kob Piccaso |
+| 2189 | 60 | Celeste Roof |
 | 2190 | 60 | Destiny Ellsworth |
 | 2191 | 59 | Cindy Marie |
 | 2192 | 59 | Sunny Linkpiece |

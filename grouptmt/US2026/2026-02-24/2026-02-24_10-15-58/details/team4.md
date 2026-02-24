@@ -65,7 +65,7 @@
 | 57 | 1227 | Mona Sharma |
 | 58 | 1217 | Justin Hannigan |
 | 59 | 1197 | Rachel Anne |
-| 60 | 1192 | Ashley Ingram |
+| 60 | 1188 | Ashley Ingram |
 | 61 | 1150 | Kimyatta Cavin |
 | 62 | 1142 | Aden Moss |
 | 63 | 1129 | Livvy |
@@ -138,8 +138,8 @@
 | 130 | 712 | Leslie Nicole |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Austin Owens |
-| 134 | 704 | Chilly Crasher |
+| 133 | 704 | Chilly Crasher |
+| 134 | 704 | Austin Owens |
 | 135 | 687 | Carmethia Clemons Haslerig |
 | 136 | 682 | Raegan Lane-Ross |
 | 137 | 668 | Desi Desporte |
@@ -147,8 +147,8 @@
 | 139 | 667 | Lindsey Gonzalez |
 | 140 | 667 | Swanky Fitline |
 | 141 | 662 | Nerdy Twisterfit |
-| 142 | 661 | Rodney McMath Jr. |
-| 143 | 661 | shar |
+| 142 | 661 | shar |
+| 143 | 661 | Rodney McMath Jr. |
 | 144 | 651 | Adawna Swires |
 | 145 | 650 | Chris Hartig |
 | 146 | 649 | Angela Srubar-Norman |
@@ -184,8 +184,8 @@
 | 176 | 561 | Steph Marie |
 | 177 | 560 | Chastity Mitchell |
 | 178 | 558 | Marie-Pier Desjardins |
-| 179 | 552 | Circuit8 |
-| 180 | 552 | Angel Raya |
+| 179 | 552 | Angel Raya |
+| 180 | 552 | Circuit8 |
 | 181 | 550 | James Hurley Jr. |
 | 182 | 549 | Cool Towerbuilder |
 | 183 | 546 | Dizzy Tiley |
@@ -217,8 +217,8 @@
 | 209 | 502 | Christina Black |
 | 210 | 502 | Ericca Eldridge |
 | 211 | 501 | Sharyn Lemire |
-| 212 | 499 | DonMega |
-| 213 | 499 | Kesha Brady |
+| 212 | 499 | Kesha Brady |
+| 213 | 499 | DonMega |
 | 214 | 496 | Jessica Bohlken |
 | 215 | 495 | Joeliecea Cobb |
 | 216 | 494 | Bio Nelly |
@@ -530,8 +530,8 @@
 | 522 | 233 | conceptCollector |
 | 523 | 233 | Joseph Edmonson |
 | 524 | 232 | Becky Shimko |
-| 525 | 232 | Dandy Cascadefit |
-| 526 | 232 | Lou Ie |
+| 525 | 232 | Lou Ie |
+| 526 | 232 | Dandy Cascadefit |
 | 527 | 231 | Loony Rotater |
 | 528 | 230 | Joey Riley |
 | 529 | 230 | Martha Lucinda Bishop |
