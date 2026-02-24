@@ -115,8 +115,8 @@
 | 107 | 768 | Jazzy Framezone |
 | 108 | 761 | Karin Gillen |
 | 109 | 751 | Kellie |
-| 110 | 725 | Debbie Kane |
-| 111 | 725 | Phu ckalldems |
+| 110 | 725 | Phu ckalldems |
+| 111 | 725 | Debbie Kane |
 | 112 | 719 | Bindi |
 | 113 | 716 | Kristi Johnson |
 | 114 | 706 | Plucky Fallzone |
@@ -167,8 +167,8 @@
 | 159 | 548 | Luciano Moreira |
 | 160 | 547 | Sharon Reynolds |
 | 161 | 546 | Loony Fitzone |
-| 162 | 543 | Adrian Esteban |
-| 163 | 543 | Nicole Roseberry Weber |
+| 162 | 543 | Nicole Roseberry Weber |
+| 163 | 543 | Adrian Esteban |
 | 164 | 540 | Tonya Beasley |
 | 165 | 538 | .running. |
 | 166 | 537 | BadG52 |
@@ -176,8 +176,8 @@
 | 168 | 535 | Plucky Ziggy |
 | 169 | 532 | Νεφ Όνυξ |
 | 170 | 528 | ALFD |
-| 171 | 527 | Nery Martinez |
-| 172 | 527 | Hyper |
+| 171 | 527 | Hyper |
+| 172 | 527 | Nery Martinez |
 | 173 | 522 | Constance Risner |
 | 174 | 521 | Teri Oehlke |
 | 175 | 519 | phrmblk24 |
@@ -227,8 +227,8 @@
 | 219 | 432 | Brian Spotts |
 | 220 | 431 | Shiny Snapfit |
 | 221 | 431 | Tipsy Strikerpiece |
-| 222 | 429 | pjbeta |
-| 223 | 429 | Tana |
+| 222 | 429 | Tana |
+| 223 | 429 | pjbeta |
 | 224 | 427 | Jessie Lynn |
 | 225 | 426 | Brenda Alexander |
 | 226 | 426 | Betsy |
@@ -261,14 +261,14 @@
 | 253 | 396 | Monica Donato |
 | 254 | 394 | Nick R Montague |
 | 255 | 393 | Wisa |
-| 256 | 392 | Renee Tucker |
-| 257 | 392 | Poppy Riserpiece |
+| 256 | 392 | Poppy Riserpiece |
+| 257 | 392 | Renee Tucker |
 | 258 | 391 | Happy Basegrid |
 | 259 | 390 | David Lutcher |
-| 260 | 386 | Melissa Bires Hussar |
-| 261 | 386 | Angela Renea Lester |
-| 262 | 384 | Colleen Pinette |
-| 263 | 384 | Irv |
+| 260 | 386 | Angela Renea Lester |
+| 261 | 386 | Melissa Bires Hussar |
+| 262 | 384 | Irv |
+| 263 | 384 | Colleen Pinette |
 | 264 | 383 | Margo Wagner |
 | 265 | 382 | Jamie Jury |
 | 266 | 380 | Snippy Wipebuilder |

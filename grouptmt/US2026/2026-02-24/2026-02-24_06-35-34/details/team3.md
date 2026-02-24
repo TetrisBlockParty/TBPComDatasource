@@ -171,8 +171,8 @@
 | 163 | 875 | Chasity |
 | 164 | 874 | Jessica Pineda-Lopez |
 | 165 | 871 | Rochelle Hazelett |
-| 166 | 868 | Cranky Gridder |
-| 167 | 868 | Nicole Flippo |
+| 166 | 868 | Nicole Flippo |
+| 167 | 868 | Cranky Gridder |
 | 168 | 866 | Domo Washington |
 | 169 | 864 | Sunny Rotater |
 | 170 | 862 | Santeria Trece Candles |
@@ -188,12 +188,12 @@
 | 180 | 817 | Niki Dalrymple |
 | 181 | 815 | Justin Ritter |
 | 182 | 813 | JessDrown |
-| 183 | 804 | Gideon Walker |
-| 184 | 804 | Alaina Lee |
+| 183 | 804 | Alaina Lee |
+| 184 | 804 | Gideon Walker |
 | 185 | 800 | Lauren Girouard |
 | 186 | 799 | Trisha Balmer |
-| 187 | 794 | Raya |
-| 188 | 794 | Alexmac |
+| 187 | 794 | Alexmac |
+| 188 | 794 | Raya |
 | 189 | 792 | Rachel Grant |
 | 190 | 784 | Jone |
 | 191 | 783 | Julian Murphy |
@@ -243,8 +243,8 @@
 | 235 | 646 | Duane Bright |
 | 236 | 644 | Dawn Williams |
 | 237 | 642 | Rania Zaqout |
-| 238 | 641 | Tom Nault |
-| 239 | 641 | Kristal C Lee |
+| 238 | 641 | Kristal C Lee |
+| 239 | 641 | Tom Nault |
 | 240 | 640 | Dee Pratt |
 | 241 | 639 | Nichol Graham |
 | 242 | 635 | Amber Hughes |
@@ -423,8 +423,8 @@
 | 415 | 387 | Brittany K Ward |
 | 416 | 387 | Goofy Fall |
 | 417 | 384 | Tiffany Davie |
-| 418 | 383 | Kirhonda Autmon |
-| 419 | 383 | Jessica Christian |
+| 418 | 383 | Jessica Christian |
+| 419 | 383 | Kirhonda Autmon |
 | 420 | 381 | Mary Giorgenti |
 | 421 | 380 | neci |
 | 422 | 380 | Geoffrey Nash |
@@ -467,12 +467,12 @@
 | 459 | 356 | Trice Sodames |
 | 460 | 355 | Kevin Russell |
 | 461 | 354 | Jana Polk |
-| 462 | 353 | Cheeky Snapper |
+| 462 | 353 | Eboni G. |
 | 463 | 353 | Nikkie Bucciano |
-| 464 | 353 | Eboni G. |
+| 464 | 353 | Cheeky Snapper |
 | 465 | 352 | LadyTorad |
-| 466 | 351 | Eon Harris |
-| 467 | 351 | Nelma |
+| 466 | 351 | Nelma |
+| 467 | 351 | Eon Harris |
 | 468 | 350 | Norma JulieMay |
 | 469 | 348 | Jimmie Clemons |
 | 470 | 348 | Ashley Raines |
@@ -737,8 +737,8 @@
 | 729 | 252 | El Chapa |
 | 730 | 252 | Lenora Price |
 | 731 | 251 | Sassy Align |
-| 732 | 251 | Doddie Marie |
-| 733 | 251 | Adrian Massey |
+| 732 | 251 | Adrian Massey |
+| 733 | 251 | Doddie Marie |
 | 734 | 251 | Colleen Phelps |
 | 735 | 250 | Steph Arcari |
 | 736 | 250 | mia |

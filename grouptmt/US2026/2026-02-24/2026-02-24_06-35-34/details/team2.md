@@ -311,8 +311,8 @@
 | 303 | 1342 | Kelly A Green-Leach |
 | 304 | 1341 | Cassie Mercer |
 | 305 | 1340 | Tralonda Weeks |
-| 306 | 1338 | Diallo Sparkman |
-| 307 | 1338 | Meghan M |
+| 306 | 1338 | Meghan M |
+| 307 | 1338 | Diallo Sparkman |
 | 308 | 1336 | Frothy Rumbler |
 | 309 | 1334 | Christina Walker |
 | 310 | 1334 | Jamie Otero |
@@ -368,8 +368,8 @@
 | 360 | 1222 | Kristin Gower |
 | 361 | 1218 | LaKisha Anderson |
 | 362 | 1217 | Brooks Brooks |
-| 363 | 1215 | Toni Roberson |
-| 364 | 1215 | Hyper Cluster |
+| 363 | 1215 | Hyper Cluster |
+| 364 | 1215 | Toni Roberson |
 | 365 | 1214 | David Cudicio-Hayden |
 | 366 | 1211 | Cynthia Ward |
 | 367 | 1210 | Amber Gray |

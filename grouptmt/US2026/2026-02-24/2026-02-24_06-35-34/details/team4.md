@@ -399,9 +399,9 @@
 | 391 | 289 | Jenny Wells-Oakley |
 | 392 | 289 | Lazy Glidepiece |
 | 393 | 289 | Brave Spinbuilder |
-| 394 | 288 | Susan Williams |
-| 395 | 288 | Amy Jean |
-| 396 | 288 | Eminem |
+| 394 | 288 | Amy Jean |
+| 395 | 288 | Eminem |
+| 396 | 288 | Susan Williams |
 | 397 | 286 | meowmew |
 | 398 | 284 | Groovy Shiftspin |
 | 399 | 284 | Alexandra Karavias |
@@ -433,7 +433,7 @@
 | 425 | 265 | Degenerate |
 | 426 | 264 | Shh |
 | 427 | 263 | Laurmarcar |
-| 428 | 262 | Ruben Wheeler |
+| 428 | 262 | Walter Beltran |
 | 429 | 262 | Lilya Troutman |
 | 430 | 262 | Ruben Wheeler |
 | 431 | 261 | Jen Hallin |
