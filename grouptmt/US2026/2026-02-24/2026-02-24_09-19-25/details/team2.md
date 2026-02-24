@@ -282,8 +282,8 @@
 | 274 | 1480 | Dimitra Zazara |
 | 275 | 1479 | Pacynthia Williams |
 | 276 | 1478 | Misty Walker |
-| 277 | 1477 | Hillary Crawford |
-| 278 | 1477 | Prado |
+| 277 | 1477 | Prado |
+| 278 | 1477 | Hillary Crawford |
 | 279 | 1469 | Carrie Trigg |
 | 280 | 1463 | Yvonne Wharton |
 | 281 | 1459 | Shiny Rollzone |
@@ -358,9 +358,9 @@
 | 350 | 1268 | Keri Womack |
 | 351 | 1264 | Mama T |
 | 352 | 1261 | Becca Coronado |
-| 353 | 1257 | Megan Ferguson Leone |
-| 354 | 1257 | Megan Garrick |
-| 355 | 1257 | Jackie Lucas |
+| 353 | 1257 | Jackie Lucas |
+| 354 | 1257 | Megan Ferguson Leone |
+| 355 | 1257 | Megan Garrick |
 | 356 | 1256 | Belle |
 | 357 | 1254 | Erika Densmore |
 | 358 | 1252 | AgileDragon |
@@ -447,8 +447,8 @@
 | 439 | 1075 | SaraMarie Eveland |
 | 440 | 1074 | Diana Ayers |
 | 441 | 1073 | Jodi Blake |
-| 442 | 1071 | Kim Dean |
-| 443 | 1071 | Nashu |
+| 442 | 1071 | Nashu |
+| 443 | 1071 | Kim Dean |
 | 444 | 1068 | Tiffany Branham |
 | 445 | 1067 | Taylor Phillips |
 | 446 | 1067 | Lourisha |
@@ -515,8 +515,8 @@
 | 507 | 965 | Lonne Emade |
 | 508 | 964 | John Bednarik |
 | 509 | 963 | Casper The Chonk |
-| 510 | 962 | Antionette Sewell |
-| 511 | 962 | Kathleen Driskell |
+| 510 | 962 | Kathleen Driskell |
+| 511 | 962 | Antionette Sewell |
 | 512 | 960 | Smashanator |
 | 513 | 958 | Jc Gilk |
 | 514 | 957 | Maria Louise |
@@ -540,11 +540,11 @@
 | 532 | 927 | Wes Acton |
 | 533 | 925 | blume |
 | 534 | 925 | Cris cris |
-| 535 | 923 | Danielle Simmons |
-| 536 | 923 | Chevy |
+| 535 | 923 | Chevy |
+| 536 | 923 | Danielle Simmons |
 | 537 | 922 | Butta |
-| 538 | 921 | Elisheva Mizrachi |
-| 539 | 921 | Dannette Goldberg-Richards |
+| 538 | 921 | Dannette Goldberg-Richards |
+| 539 | 921 | Elisheva Mizrachi |
 | 540 | 920 | Arwa Fatimah |
 | 541 | 919 | Koa N Sharon Chen |
 | 542 | 919 | Isaac Trappiel IV |
@@ -597,8 +597,8 @@
 | 589 | 854 | Dawn L Washington-Feuquay |
 | 590 | 854 | Gold Rose |
 | 591 | 852 | Polly Pritchard Chesler |
-| 592 | 852 | Catherine Marsh Gruda |
-| 593 | 852 | Alexandra Lynn |
+| 592 | 852 | Alexandra Lynn |
+| 593 | 852 | Catherine Marsh Gruda |
 | 594 | 851 | Melissa Schulz |
 | 595 | 851 | James Louie |
 | 596 | 850 | Sabrina Burton |
