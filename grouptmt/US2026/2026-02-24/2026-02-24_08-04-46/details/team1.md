@@ -134,8 +134,8 @@
 | 126 | 666 | Virginia Gray Floyd |
 | 127 | 652 | Evie Khalil |
 | 128 | 651 | Dandy Basegrid |
-| 129 | 650 | April Carroll |
-| 130 | 650 | Bob |
+| 129 | 650 | Bob |
+| 130 | 650 | April Carroll |
 | 131 | 647 | Theo Pinnow |
 | 132 | 647 | Chris K |
 | 133 | 643 | Erin Rosberg |
@@ -358,8 +358,8 @@
 | 350 | 325 | GringaLinga |
 | 351 | 324 | Brave Wrecker |
 | 352 | 323 | Nadine Velardo |
-| 353 | 322 | Hasty Columnbuilder |
-| 354 | 322 | Chris65 |
+| 353 | 322 | Chris65 |
+| 354 | 322 | Hasty Columnbuilder |
 | 355 | 321 | LD1 |
 | 356 | 320 | Zany Tiler |
 | 357 | 319 | Crystal Cheresnowsky |
@@ -378,8 +378,8 @@
 | 370 | 310 | Marci Sanders |
 | 371 | 310 | Chris Sigurdson |
 | 372 | 309 | Isaiah |
-| 373 | 308 | Katie Martin |
-| 374 | 308 | Agustin Duarte Orozco |
+| 373 | 308 | Agustin Duarte Orozco |
+| 374 | 308 | Katie Martin |
 | 375 | 306 | Sunny Shift |
 | 376 | 305 | Speedy Snapfall |
 | 377 | 305 | Damian Salem |
@@ -458,7 +458,7 @@
 | 450 | 271 | Patty Lavigne Craddock |
 | 451 | 270 | Ariel Whittington |
 | 452 | 270 | John Barron |
-| 453 | 270 | Ariel Whittington |
+| 453 | 270 | Krie |
 | 454 | 269 | Ramona Shaver |
 | 455 | 268 | Ashley Adams |
 | 456 | 267 | Dena Kayy |
@@ -491,8 +491,8 @@
 | 483 | 255 | Goobette |
 | 484 | 254 | Kipoi |
 | 485 | 252 | Angela Dawn Torres-Tarrants |
-| 486 | 251 | MRdot Rooski |
-| 487 | 251 | Randy Broadwater |
+| 486 | 251 | Randy Broadwater |
+| 487 | 251 | MRdot Rooski |
 | 488 | 250 | Emmarieta Mendez |
 | 489 | 249 | Mary Cerciello |
 | 490 | 249 | GentleKitten7 |

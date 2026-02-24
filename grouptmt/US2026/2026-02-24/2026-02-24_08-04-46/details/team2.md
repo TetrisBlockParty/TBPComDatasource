@@ -219,8 +219,8 @@
 | 211 | 1816 | Woodys Glass |
 | 212 | 1813 | Catina Hutchison |
 | 213 | 1807 | Osun Anuket Esu |
-| 214 | 1775 | Eboni Banks |
-| 215 | 1775 | Sommer Shope |
+| 214 | 1775 | Sommer Shope |
+| 215 | 1775 | Eboni Banks |
 | 216 | 1763 | Nerdy Pattern |
 | 217 | 1761 | Rosa Franklin |
 | 218 | 1751 | Dustin Rains |
@@ -430,10 +430,10 @@
 | 422 | 1088 | BK Queen |
 | 423 | 1087 | Jenn Marie |
 | 424 | 1087 | Cindy Sechler Taninecz |
-| 425 | 1085 | Bee |
-| 426 | 1085 | Barbra Miller |
-| 427 | 1084 | Emilee Burke |
-| 428 | 1084 | William Hunt |
+| 425 | 1085 | Barbra Miller |
+| 426 | 1085 | Bee |
+| 427 | 1084 | William Hunt |
+| 428 | 1084 | Emilee Burke |
 | 429 | 1080 | Jennifer Monroe Kelly |
 | 430 | 1079 | Angela Bonquiqui Dinish |
 | 431 | 1079 | AndrewandShela Gornik |
@@ -445,8 +445,8 @@
 | 437 | 1071 | Nashu |
 | 438 | 1071 | Kim Dean |
 | 439 | 1068 | Tiffany Branham |
-| 440 | 1067 | Lourisha |
-| 441 | 1067 | Taylor Phillips |
+| 440 | 1067 | Taylor Phillips |
+| 441 | 1067 | Lourisha |
 | 442 | 1063 | Allan Wayne Lamia |
 | 443 | 1059 | Chris Gonzales Bulante |
 | 444 | 1058 | Jessica Wayne Cornwall |
@@ -798,14 +798,14 @@
 | 790 | 684 | Jazzy Clusterline |
 | 791 | 683 | Nicole Sanqui |
 | 792 | 683 | Audrey Jones |
-| 793 | 682 | Jacob Tri |
-| 794 | 682 | ນາງ ບີ ລາດຊະຈັກ |
+| 793 | 682 | ນາງ ບີ ລາດຊະຈັກ |
+| 794 | 682 | Jacob Tri |
 | 795 | 681 | Latasha Love |
 | 796 | 680 | Danielle Ayoub |
 | 797 | 680 | mshir |
 | 798 | 680 | Nutty Cascade |
-| 799 | 680 | Stephanie Lafalce |
-| 800 | 680 | Paul Combs |
+| 799 | 680 | Paul Combs |
+| 800 | 680 | Stephanie Lafalce |
 | 801 | 679 | Cynthia Louann Rose |
 | 802 | 679 | Regina Knight |
 | 803 | 679 | Kassandra Hunt |
@@ -813,8 +813,8 @@
 | 805 | 677 | Blacc Blac |
 | 806 | 677 | Kayleigh Wisse |
 | 807 | 676 | Fancy Shiftsnap |
-| 808 | 675 | Ryan Chan |
-| 809 | 675 | Katelynn Hollen |
+| 808 | 675 | Katelynn Hollen |
+| 809 | 675 | Ryan Chan |
 | 810 | 675 | Fi Ne |
 | 811 | 674 | Chipper Towerfit |
 | 812 | 672 | Christina Jarvis-Swarbrick |
@@ -922,9 +922,9 @@
 | 914 | 619 | Lisa Moone |
 | 915 | 619 | Dawn Woosley Bowes |
 | 916 | 618 | Jordan Kaiser |
-| 917 | 617 | Biggest thing |
-| 918 | 617 | Annette Ross Clay |
-| 919 | 617 | Jason H Baker |
+| 917 | 617 | Annette Ross Clay |
+| 918 | 617 | Jason H Baker |
+| 919 | 617 | Biggest thing |
 | 920 | 616 | Carol Hurley |
 | 921 | 615 | King Shamell Young |
 | 922 | 614 | Dandy Combo |
@@ -1193,13 +1193,13 @@
 | 1185 | 498 | Linda Miltenburg |
 | 1186 | 498 | Drwatson187 |
 | 1187 | 497 | Stephanie Pitts |
-| 1188 | 497 | Mary Marie |
-| 1189 | 497 | June E Hanson |
+| 1188 | 497 | June E Hanson |
+| 1189 | 497 | Mary Marie |
 | 1190 | 497 | Bdubb |
 | 1191 | 496 | BlaqSupaMan |
 | 1192 | 496 | Ashlee Cruz |
-| 1193 | 495 | Dean Glenn |
-| 1194 | 495 | Cranky Tower |
+| 1193 | 495 | Cranky Tower |
+| 1194 | 495 | Dean Glenn |
 | 1195 | 495 | Ania |
 | 1196 | 495 | Brandon Jones |
 | 1197 | 493 | SugaMama |
@@ -4021,7 +4021,7 @@
 | 4013 | 178 | Les Clarke |
 | 4014 | 178 | heckie |
 | 4015 | 178 | Kristin Dennison |
-| 4016 | 178 | Les Clarke |
+| 4016 | 178 | Alicia Conn |
 | 4017 | 178 | Jean Peterson |
 | 4018 | 178 | Lori Schmidt Welborn |
 | 4019 | 178 | Lisa Cooper |

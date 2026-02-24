@@ -109,8 +109,8 @@
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
-| 104 | 1282 | Amanda L Baker |
-| 105 | 1282 | Peppy Shifter |
+| 104 | 1282 | Peppy Shifter |
+| 105 | 1282 | Amanda L Baker |
 | 106 | 1276 | Jessica Bechler |
 | 107 | 1274 | Sarah Fehring |
 | 108 | 1248 | Lori Barnaby |
@@ -125,8 +125,8 @@
 | 117 | 1134 | Melissa Orth Hunter |
 | 118 | 1124 | Stephanie Rice |
 | 119 | 1121 | Corie A. Brinson |
-| 120 | 1114 | Groovy Catcher |
-| 121 | 1114 | Loopy Fallmatch |
+| 120 | 1114 | Loopy Fallmatch |
+| 121 | 1114 | Groovy Catcher |
 | 122 | 1105 | Adrian Marcel Pate |
 | 123 | 1093 | Angela M. Fletcher |
 | 124 | 1091 | Jennifer |
@@ -188,8 +188,8 @@
 | 180 | 832 | Alexmac |
 | 181 | 829 | Patricia White |
 | 182 | 825 | Lizabeth Fox |
-| 183 | 821 | Angella Lyons |
-| 184 | 821 | Kammy Hill |
+| 183 | 821 | Kammy Hill |
+| 184 | 821 | Angella Lyons |
 | 185 | 817 | Niki Dalrymple |
 | 186 | 815 | Justin Ritter |
 | 187 | 813 | JessDrown |
@@ -213,8 +213,8 @@
 | 205 | 760 | Kiki |
 | 206 | 759 | Mykal Burton |
 | 207 | 757 | Fancy Cascader |
-| 208 | 755 | Laura Booth Wosko |
-| 209 | 755 | Colton |
+| 208 | 755 | Colton |
+| 209 | 755 | Laura Booth Wosko |
 | 210 | 753 | Morgan Martinez |
 | 211 | 752 | Joye Sims Binion |
 | 212 | 750 | Michael Nowogorski |
@@ -368,8 +368,8 @@
 | 360 | 447 | Carrie Huskey |
 | 361 | 447 | Num1hater |
 | 362 | 446 | Swanky Frame |
-| 363 | 446 | Shiny Zonebuilder |
-| 364 | 446 | Jennifer Alvey |
+| 363 | 446 | Jennifer Alvey |
+| 364 | 446 | Shiny Zonebuilder |
 | 365 | 445 | Loopy Clusterer |
 | 366 | 444 | Heather De Vries Cobb |
 | 367 | 443 | Christian Werndl |
@@ -384,8 +384,8 @@
 | 376 | 432 | Hoppy Patternline |
 | 377 | 431 | Goofy Fall |
 | 378 | 431 | Donna Esbensen-Alpini |
-| 379 | 430 | AlsoJess |
-| 380 | 430 | Quackers |
+| 379 | 430 | Quackers |
+| 380 | 430 | AlsoJess |
 | 381 | 428 | Skinny Baldez |
 | 382 | 428 | Samantha Lynn |
 | 383 | 427 | Darlene McMillan |
@@ -412,8 +412,8 @@
 | 404 | 404 | Alice |
 | 405 | 404 | Giggy Balanceblock |
 | 406 | 403 | Scott Lindsay |
-| 407 | 401 | block chick |
-| 408 | 401 | Velma Mull |
+| 407 | 401 | Velma Mull |
+| 408 | 401 | block chick |
 | 409 | 400 | Joy Petroski |
 | 410 | 398 | Breezy Roll |
 | 411 | 397 | Hasty Gridpiece |
@@ -557,7 +557,7 @@
 | 549 | 319 | Tracey Cox |
 | 550 | 319 | Matty Ray |
 | 551 | 319 | Jayme |
-| 552 | 318 | Trey Ward |
+| 552 | 318 | Tina Smith Roy |
 | 553 | 318 | Earlanda Holland |
 | 554 | 318 | Trey Ward |
 | 555 | 317 | Sassy Tiler |
