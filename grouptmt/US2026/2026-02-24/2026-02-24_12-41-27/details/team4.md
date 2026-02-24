@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Shane Kalamata Platoon |
-| 47 | 1461 | Yoset Mejia |
+| 46 | 1461 | Yoset Mejia |
+| 47 | 1461 | Shane Kalamata Platoon |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -122,8 +122,8 @@
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
-| 117 | 781 | Savannah Overdorf |
-| 118 | 781 | Brittney Griggs |
+| 117 | 781 | Brittney Griggs |
+| 118 | 781 | Savannah Overdorf |
 | 119 | 779 | Nope Young |
 | 120 | 777 | Chris Alexinas |
 | 121 | 768 | Trista Leah |
@@ -149,8 +149,8 @@
 | 141 | 667 | Matt Gooder |
 | 142 | 667 | Swanky Fitline |
 | 143 | 662 | Nerdy Twisterfit |
-| 144 | 661 | shar |
-| 145 | 661 | Rodney McMath Jr. |
+| 144 | 661 | Rodney McMath Jr. |
+| 145 | 661 | shar |
 | 146 | 651 | Adawna Swires |
 | 147 | 650 | Chris Hartig |
 | 148 | 650 | April Rondinone |
@@ -293,15 +293,15 @@
 | 285 | 402 | Maria Hammie |
 | 286 | 398 | Tyler Terrific |
 | 287 | 397 | blockstar |
-| 288 | 395 | BigSammy420 |
-| 289 | 395 | Denise B |
+| 288 | 395 | Denise B |
+| 289 | 395 | BigSammy420 |
 | 290 | 394 | Nikki Rae Gordon |
 | 291 | 393 | Montiette Mcglown |
 | 292 | 390 | Ari Droff |
 | 293 | 387 | Sandra Safford |
 | 294 | 386 | Vic |
-| 295 | 382 | Sue Joyce Staats |
-| 296 | 382 | Matt Dell'Olio |
+| 295 | 382 | Matt Dell'Olio |
+| 296 | 382 | Sue Joyce Staats |
 | 297 | 381 | Cool Gridzone |
 | 298 | 380 | Chaz |
 | 299 | 380 | Holly Jolly |
@@ -940,9 +940,9 @@
 | 932 | 118 | Frisky Column |
 | 933 | 118 | Cashmere |
 | 934 | 117 | Denatrious Perry |
-| 935 | 117 | Snappy Bouncer |
+| 935 | 117 | Shane Hicks |
 | 936 | 117 | MzChocolate |
-| 937 | 117 | Shane Hicks |
+| 937 | 117 | Snappy Bouncer |
 | 938 | 117 | LucasEveryday |
 | 939 | 116 | Shadonna Brandes |
 | 940 | 116 | Cozy Framezone |

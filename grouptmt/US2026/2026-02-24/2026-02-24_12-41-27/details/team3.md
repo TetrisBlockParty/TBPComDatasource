@@ -32,8 +32,8 @@
 | 24 | 3221 | Ashley Jones |
 | 25 | 3118 | Jamie Lang |
 | 26 | 3042 | Nerdy Spinblock |
-| 27 | 2933 | Grego Daniel |
-| 28 | 2933 | Dan Rob |
+| 27 | 2933 | Dan Rob |
+| 28 | 2933 | Grego Daniel |
 | 29 | 2874 | Zippy Strikesnap |
 | 30 | 2873 | Chummy Shatterer |
 | 31 | 2816 | Fancy Slam |
@@ -70,8 +70,8 @@
 | 62 | 1868 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
 | 64 | 1825 | Nora Rogers |
-| 65 | 1824 | Nate Burnside |
-| 66 | 1824 | Jessica Ann |
+| 65 | 1824 | Jessica Ann |
+| 66 | 1824 | Nate Burnside |
 | 67 | 1791 | Leah Barnett |
 | 68 | 1776 | Whitney Manuel |
 | 69 | 1774 | Liv Whetson |
@@ -328,8 +328,8 @@
 | 320 | 518 | Marquita Sheard |
 | 321 | 516 | Skippy |
 | 322 | 514 | Nikki White |
-| 323 | 506 | Ammmmmmy |
-| 324 | 506 | Tiffanie Alley |
+| 323 | 506 | Tiffanie Alley |
+| 324 | 506 | Ammmmmmy |
 | 325 | 504 | Daring Builder |
 | 326 | 500 | Ashley Tookes |
 | 327 | 500 | Noettín Kan Zasnemoore |
@@ -358,8 +358,8 @@
 | 350 | 474 | Randy Clevenger |
 | 351 | 474 | Troy |
 | 352 | 473 | Christian Werndl |
-| 353 | 471 | Sarah Moyer |
-| 354 | 471 | Mendoza Lee Christy |
+| 353 | 471 | Mendoza Lee Christy |
+| 354 | 471 | Sarah Moyer |
 | 355 | 470 | Jazzy Spinfit |
 | 356 | 468 | Bigmack |
 | 357 | 467 | Danielle Rhoades |
@@ -401,8 +401,8 @@
 | 393 | 431 | Goofy Fall |
 | 394 | 431 | Donna Esbensen-Alpini |
 | 395 | 430 | AlsoJess |
-| 396 | 428 | Samantha Lynn |
-| 397 | 428 | Skinny Baldez |
+| 396 | 428 | Skinny Baldez |
+| 397 | 428 | Samantha Lynn |
 | 398 | 428 | keni |
 | 399 | 427 | Angel Miller |
 | 400 | 427 | Darlene McMillan |
@@ -445,8 +445,8 @@
 | 437 | 392 | Linda Draper |
 | 438 | 391 | Ashley Lynn Marchese |
 | 439 | 390 | ROODBOY |
-| 440 | 389 | Kirhonda Autmon |
-| 441 | 389 | Amanda J. Mcneil-Anderson |
+| 440 | 389 | Amanda J. Mcneil-Anderson |
+| 441 | 389 | Kirhonda Autmon |
 | 442 | 387 | Brittany K Ward |
 | 443 | 386 | Geoffrey Nash |
 | 444 | 384 | Tiffany Davie |

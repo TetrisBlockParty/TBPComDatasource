@@ -226,8 +226,8 @@
 | 218 | 1807 | Osun Anuket Esu |
 | 219 | 1787 | Teddi Notyalc |
 | 220 | 1786 | Eric Carlson |
-| 221 | 1775 | Eboni Banks |
-| 222 | 1775 | Sommer Shope |
+| 221 | 1775 | Sommer Shope |
+| 222 | 1775 | Eboni Banks |
 | 223 | 1774 | Nerdy Pattern |
 | 224 | 1772 | Moose Griffith |
 | 225 | 1761 | Rosa Franklin |
@@ -333,8 +333,8 @@
 | 325 | 1342 | Groovy Puzzle |
 | 326 | 1342 | Kelly A Green-Leach |
 | 327 | 1341 | Cassie Mercer |
-| 328 | 1338 | Diallo Sparkman |
-| 329 | 1338 | Meghan M |
+| 328 | 1338 | Meghan M |
+| 329 | 1338 | Diallo Sparkman |
 | 330 | 1336 | Frothy Rumbler |
 | 331 | 1334 | Jamie Otero |
 | 332 | 1333 | nikki |
@@ -415,8 +415,8 @@
 | 407 | 1150 | Sheniya Spurgeon |
 | 408 | 1149 | Hoppy Brickmatch |
 | 409 | 1149 | Kenny Alvarado |
-| 410 | 1147 | Jennifer Kistner |
-| 411 | 1147 | Jánine Riggs |
+| 410 | 1147 | Jánine Riggs |
+| 411 | 1147 | Jennifer Kistner |
 | 412 | 1145 | Jackie Avila |
 | 413 | 1145 | Jodi Mitnick |
 | 414 | 1145 | Miranda Morris |
@@ -522,8 +522,8 @@
 | 514 | 972 | Angela Yantz |
 | 515 | 970 | Smashanator |
 | 516 | 969 | Andrew Willis |
-| 517 | 969 | Shuany Arias |
-| 518 | 969 | Connie Jimenez |
+| 517 | 969 | Connie Jimenez |
+| 518 | 969 | Shuany Arias |
 | 519 | 968 | John Bednarik |
 | 520 | 966 | Kayla |
 | 521 | 965 | Lonne Emade |
@@ -629,9 +629,9 @@
 | 621 | 837 | Deyawn Smith |
 | 622 | 837 | Julio A Laracuente |
 | 623 | 836 | James Simms III |
-| 624 | 835 | Jo Nicole |
+| 624 | 835 | TJ Nash |
 | 625 | 835 | Diane P. Richardson |
-| 626 | 835 | TJ Nash |
+| 626 | 835 | Jo Nicole |
 | 627 | 834 | Montez Mancil |
 | 628 | 834 | NanDa Cruzan VI |
 | 629 | 834 | Tracy Cowley |
