@@ -198,8 +198,8 @@
 | 190 | 1872 | Janel Turley-Garner |
 | 191 | 1855 | Missie Lawson Gebhardt |
 | 192 | 1851 | Kristopher Miller |
-| 193 | 1845 | Katrina Weston |
-| 194 | 1845 | Jessie McDougald |
+| 193 | 1845 | Jessie McDougald |
+| 194 | 1845 | Katrina Weston |
 | 195 | 1840 | blarg |
 | 196 | 1829 | Mr. Street Stack |
 | 197 | 1826 | Dee |
@@ -357,8 +357,8 @@
 | 349 | 1229 | Brenda Messer |
 | 350 | 1227 | Rebecca Miller |
 | 351 | 1225 | RAEPR05 |
-| 352 | 1222 | Ashle Scranton |
-| 353 | 1222 | Nuke Morris |
+| 352 | 1222 | Nuke Morris |
+| 353 | 1222 | Ashle Scranton |
 | 354 | 1222 | Kristin Gower |
 | 355 | 1218 | LaKisha Anderson |
 | 356 | 1217 | Brooks Brooks |

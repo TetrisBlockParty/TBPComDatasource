@@ -500,8 +500,8 @@
 | 492 | 334 | Spencer Nikki |
 | 493 | 334 | Carol Cain Thurman |
 | 494 | 333 | Heather Ferrara |
-| 495 | 332 | Clever Edgepiece |
-| 496 | 332 | Bleu Sun Beams |
+| 495 | 332 | Bleu Sun Beams |
+| 496 | 332 | Clever Edgepiece |
 | 497 | 331 | Wettnippz |
 | 498 | 330 | Emma |
 | 499 | 330 | Willow |
@@ -515,10 +515,10 @@
 | 507 | 326 | Beppy |
 | 508 | 326 | Sissy Lowery Davis |
 | 509 | 324 | Paul Daniel Quertermous |
-| 510 | 323 | Tipsy Zonebuilder |
-| 511 | 323 | Carla Hoffman |
-| 512 | 323 | Jolly Brick |
-| 513 | 323 | Moimyzean |
+| 510 | 323 | Carla Hoffman |
+| 511 | 323 | Moimyzean |
+| 512 | 323 | Tipsy Zonebuilder |
+| 513 | 323 | Jolly Brick |
 | 514 | 322 | Chenoa Urban Sophicated Redy |
 | 515 | 322 | Amanda Declue |
 | 516 | 322 | Beth Smith |
@@ -543,8 +543,8 @@
 | 535 | 317 | Sassy Tiler |
 | 536 | 317 | Shiny Snapfit |
 | 537 | 316 | Aponk |
-| 538 | 316 | Funky Brickster |
-| 539 | 316 | Travis W |
+| 538 | 316 | Travis W |
+| 539 | 316 | Funky Brickster |
 | 540 | 315 | Amy Montz |
 | 541 | 314 | Rachel Napper |
 | 542 | 314 | toony |

@@ -108,8 +108,8 @@
 | 100 | 773 | Susanna Guerry |
 | 101 | 772 | Kathy Langham |
 | 102 | 770 | Zappy Curvetile |
-| 103 | 769 | Robert Benito |
-| 104 | 769 | Angel Fowler |
+| 103 | 769 | Angel Fowler |
+| 104 | 769 | Robert Benito |
 | 105 | 768 | Jazzy Framezone |
 | 106 | 756 | Cartier |
 | 107 | 751 | Kellie |
@@ -136,8 +136,8 @@
 | 128 | 642 | Mario Cab |
 | 129 | 639 | Theo Pinnow |
 | 130 | 634 | Carrie Smith |
-| 131 | 629 | Tanya Carpenter-Reynolds |
-| 132 | 629 | Death |
+| 131 | 629 | Death |
+| 132 | 629 | Tanya Carpenter-Reynolds |
 | 133 | 628 | Trina Gee |
 | 134 | 626 | Damon J. Martin |
 | 135 | 622 | Chris K |
