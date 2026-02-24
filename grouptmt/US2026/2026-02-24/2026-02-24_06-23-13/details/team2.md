@@ -232,8 +232,8 @@
 | 224 | 1693 | Ashley Dow |
 | 225 | 1679 | Mischelle Clay |
 | 226 | 1663 | Alex Stone LaRue |
-| 227 | 1661 | Danielle Johnson-Chandler |
-| 228 | 1661 | Scott Treadway |
+| 227 | 1661 | Scott Treadway |
+| 228 | 1661 | Danielle Johnson-Chandler |
 | 229 | 1656 | Binyah-Binyah |
 | 230 | 1655 | Glitzy Stackzone |
 | 231 | 1651 | Luna |
@@ -423,10 +423,10 @@
 | 415 | 1087 | Jenn Marie |
 | 416 | 1087 | Cindy Sechler Taninecz |
 | 417 | 1085 | Bee |
-| 418 | 1085 | Barbra Miller |
-| 419 | 1085 | Lupita Flores |
-| 420 | 1084 | Emilee Burke |
-| 421 | 1084 | William Hunt |
+| 418 | 1085 | Lupita Flores |
+| 419 | 1085 | Barbra Miller |
+| 420 | 1084 | William Hunt |
+| 421 | 1084 | Emilee Burke |
 | 422 | 1080 | Jennifer Monroe Kelly |
 | 423 | 1079 | Angela Bonquiqui Dinish |
 | 424 | 1079 | AndrewandShela Gornik |
@@ -602,8 +602,8 @@
 | 594 | 823 | Rhonda Milstead |
 | 595 | 822 | KayLynn Ogden McClelland |
 | 596 | 821 | Anthony Mignacca |
-| 597 | 820 | Brenda Pierpoint |
-| 598 | 820 | Mighty Spinbuilder |
+| 597 | 820 | Mighty Spinbuilder |
+| 598 | 820 | Brenda Pierpoint |
 | 599 | 820 | Laura McCarthey |
 | 600 | 819 | BeQuo |
 | 601 | 816 | Melissa Cole |

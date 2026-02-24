@@ -104,8 +104,8 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Diana Ibarra |
-| 100 | 1318 | Tiff Vs Tiffany |
+| 99 | 1318 | Tiff Vs Tiffany |
+| 100 | 1318 | Diana Ibarra |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
@@ -157,8 +157,8 @@
 | 149 | 961 | Danielle Allison |
 | 150 | 950 | Giddy Drop |
 | 151 | 950 | MissTaylor |
-| 152 | 940 | Stephanie Allmon |
-| 153 | 940 | Patty Allen |
+| 152 | 940 | Patty Allen |
+| 153 | 940 | Stephanie Allmon |
 | 154 | 936 | Dolores Falco |
 | 155 | 925 | Cherry Parker |
 | 156 | 914 | Sarajane Lokan |
@@ -261,8 +261,8 @@
 | 253 | 618 | Betty Bóò |
 | 254 | 613 | Rebecca Funderburk Kirby |
 | 255 | 605 | Sarah Cowan Burgos |
-| 256 | 604 | Sherry Ogden |
-| 257 | 604 | Bmo |
+| 256 | 604 | Bmo |
+| 257 | 604 | Sherry Ogden |
 | 258 | 601 | Betty Rosas |
 | 259 | 600 | Natasha Jones |
 | 260 | 600 | Connie Mohler-Fair |
@@ -713,8 +713,8 @@
 | 705 | 259 | Tammy |
 | 706 | 259 | Shania Vaine |
 | 707 | 259 | Krish Shah |
-| 708 | 258 | Spicy Buildout |
-| 709 | 258 | MistyDawn |
+| 708 | 258 | MistyDawn |
+| 709 | 258 | Spicy Buildout |
 | 710 | 258 | Kimberly Walker |
 | 711 | 257 | crystal |
 | 712 | 257 | Kristy Manley |
@@ -775,8 +775,8 @@
 | 767 | 240 | Tony Tran |
 | 768 | 239 | Vernell Sturdivant |
 | 769 | 239 | Alicia |
-| 770 | 239 | Vernell Sturdivant |
-| 771 | 239 | lydynred |
+| 770 | 239 | lydynred |
+| 771 | 239 | Jada Cox |
 | 772 | 238 | Serena Jarrell |
 | 773 | 237 | Smiley Clearpiece |
 | 774 | 237 | Spicy Cascadepiece |

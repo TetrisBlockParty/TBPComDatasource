@@ -62,8 +62,8 @@
 | 54 | 1181 | Carrie Beck Geartz |
 | 55 | 1177 | Tipsy Column |
 | 56 | 1170 | Tater |
-| 57 | 1137 | Jen Sartain |
-| 58 | 1137 | TSwag |
+| 57 | 1137 | TSwag |
+| 58 | 1137 | Jen Sartain |
 | 59 | 1128 | Cynthia Bradley |
 | 60 | 1127 | Andrea Dañielle Ortiz |
 | 61 | 1123 | Adam Byrd |
@@ -265,8 +265,8 @@
 | 257 | 392 | Renee Tucker |
 | 258 | 391 | Happy Basegrid |
 | 259 | 390 | David Lutcher |
-| 260 | 386 | Melissa Bires Hussar |
-| 261 | 386 | Angela Renea Lester |
+| 260 | 386 | Angela Renea Lester |
+| 261 | 386 | Melissa Bires Hussar |
 | 262 | 384 | Colleen Pinette |
 | 263 | 384 | Irv |
 | 264 | 383 | Margo Wagner |
@@ -488,7 +488,7 @@
 | 480 | 249 | Toni Sagenbrecht |
 | 481 | 249 | GentleKitten7 |
 | 482 | 248 | Sunflower |
-| 483 | 248 | LC |
+| 483 | 248 | Jasmine Riley |
 | 484 | 248 | Teresa |
 | 485 | 248 | LC |
 | 486 | 247 | Nate Carter |

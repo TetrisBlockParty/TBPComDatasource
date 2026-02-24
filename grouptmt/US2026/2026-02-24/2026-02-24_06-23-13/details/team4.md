@@ -140,8 +140,8 @@
 | 132 | 690 | Denia Deni |
 | 133 | 682 | Raegan Lane-Ross |
 | 134 | 668 | Desi Desporte |
-| 135 | 667 | Matt Gooder |
-| 136 | 667 | Lindsey Gonzalez |
+| 135 | 667 | Lindsey Gonzalez |
+| 136 | 667 | Matt Gooder |
 | 137 | 662 | George Nutt |
 | 138 | 661 | Rodney McMath Jr. |
 | 139 | 651 | Adawna Swires |
@@ -303,9 +303,9 @@
 | 295 | 365 | David Lay |
 | 296 | 364 | Lora |
 | 297 | 360 | Lee Silpe |
-| 298 | 359 | Allen Lloyd |
-| 299 | 359 | Holly |
-| 300 | 359 | KimoKoala |
+| 298 | 359 | Holly |
+| 299 | 359 | KimoKoala |
+| 300 | 359 | Allen Lloyd |
 | 301 | 354 | @ |
 | 302 | 351 | Dana Scott |
 | 303 | 350 | Dizzy Matchzone |
@@ -438,8 +438,8 @@
 | 430 | 261 | Laura McPheeters |
 | 431 | 261 | Jen Hallin |
 | 432 | 260 | Dustin York |
-| 433 | 260 | Bussy Bay |
-| 434 | 260 | Dustin York |
+| 433 | 260 | PennyCandee |
+| 434 | 260 | Bussy Bay |
 | 435 | 258 | April Spoelma |
 | 436 | 257 | ThriftySpice |
 | 437 | 256 | bloat princess |
