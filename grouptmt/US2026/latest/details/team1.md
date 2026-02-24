@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 22:26:43 UTC
+# Standings for team1 as of 2026-02-24 22:27:22 UTC
 
 **Total Participants:** 2332
 
@@ -9,8 +9,8 @@
 | 1 | 10669 | TAZ-MF-NIZIL |
 | 2 | 8424 | Felicia Haynes |
 | 3 | 7881 | Zerin Graham |
-| 4 | 7160 | Izzie Ramirez-Ford |
-| 5 | 7126 | 'Gilberto Martinez' |
+| 4 | 7206 | 'Gilberto Martinez' |
+| 5 | 7160 | Izzie Ramirez-Ford |
 | 6 | 6100 | Matt |
 | 7 | 5555 | Jessica Rabon |
 | 8 | 5296 | Fancy Shuffler |
@@ -23,7 +23,7 @@
 | 15 | 3558 | Perky Shiftsnap |
 | 16 | 2880 | Lisa Marie |
 | 17 | 2871 | LaQuetta Faith Hines |
-| 18 | 2739 | Katie Daniels |
+| 18 | 2744 | Katie Daniels |
 | 19 | 2441 | Felicia Lewis |
 | 20 | 2430 | Josie Kirt |
 | 21 | 2420 | Mara Hilker |
@@ -342,44 +342,44 @@
 | 334 | 378 | Layzietyme |
 | 335 | 376 | Sassy Builderline |
 | 336 | 375 | Zany Tiler |
-| 337 | 374 | Nadine Velardo |
-| 338 | 374 | Michael Espinosa Ulibarri Jr. |
+| 337 | 374 | Jaimie Lynn |
+| 338 | 374 | Nadine Velardo |
 | 339 | 374 | Snappy Brickbuilder |
-| 340 | 374 | Jaimie Lynn |
-| 341 | 371 | Gary Gobin |
-| 342 | 371 | Delvison Rosario |
-| 343 | 371 | Teddy Alexander |
-| 344 | 370 | Mrs.Patrica |
-| 345 | 368 | Brave Linkmatch |
-| 346 | 366 | Danielle Little-Daugherty |
+| 340 | 374 | Michael Espinosa Ulibarri Jr. |
+| 341 | 372 | Gina Bettikofer |
+| 342 | 371 | Teddy Alexander |
+| 343 | 371 | Delvison Rosario |
+| 344 | 371 | Gary Gobin |
+| 345 | 370 | Mrs.Patrica |
+| 346 | 368 | Brave Linkmatch |
 | 347 | 366 | J.F. Fields |
-| 348 | 365 | Dreamy Drop |
+| 348 | 366 | Danielle Little-Daugherty |
 | 349 | 365 | Shannon Marie Pitts |
-| 350 | 364 | Dawn Michelle Scheible |
+| 350 | 365 | Dreamy Drop |
 | 351 | 364 | Shauna Loe |
-| 352 | 363 | Rachel Nilles |
-| 353 | 363 | Larry Tilton |
-| 354 | 362 | Christina Backer |
-| 355 | 362 | Lilkimmie |
-| 356 | 362 | Diane Byrd |
-| 357 | 362 | Brooke Elizabeth Antill |
-| 358 | 361 | Elizabeth Kubli |
-| 359 | 361 | Michael |
+| 352 | 364 | Dawn Michelle Scheible |
+| 353 | 364 | Elizabeth Kubli |
+| 354 | 363 | Larry Tilton |
+| 355 | 363 | Rachel Nilles |
+| 356 | 362 | Brooke Elizabeth Antill |
+| 357 | 362 | Lilkimmie |
+| 358 | 362 | Christina Backer |
+| 359 | 362 | Diane Byrd |
 | 360 | 361 | Nate Price |
-| 361 | 360 | dhardy |
-| 362 | 360 | Tipsy Builder |
-| 363 | 360 | Jumpy Rotate |
-| 364 | 359 | Madbull |
-| 365 | 359 | Rodney Schmerfeld |
-| 366 | 359 | LaFontaine Leslie |
-| 367 | 357 | Jasmine Riley |
-| 368 | 357 | Sonia Marquis |
-| 369 | 356 | Patty Lavigne Craddock |
-| 370 | 356 | Lyn Sibayan |
-| 371 | 356 | Glitzy Grid |
-| 372 | 354 | Garrett Burket |
-| 373 | 354 | Gina Bettikofer |
-| 374 | 354 | Kipoi |
+| 361 | 361 | Michael |
+| 362 | 360 | Jumpy Rotate |
+| 363 | 360 | dhardy |
+| 364 | 360 | Tipsy Builder |
+| 365 | 359 | Madbull |
+| 366 | 359 | Rodney Schmerfeld |
+| 367 | 359 | LaFontaine Leslie |
+| 368 | 357 | Jasmine Riley |
+| 369 | 357 | Sonia Marquis |
+| 370 | 356 | Patty Lavigne Craddock |
+| 371 | 356 | Lyn Sibayan |
+| 372 | 356 | Glitzy Grid |
+| 373 | 354 | Kipoi |
+| 374 | 354 | Garrett Burket |
 | 375 | 353 | Josh Riemer |
 | 376 | 353 | Chummy Rollblock |
 | 377 | 352 | Mitchel White |
@@ -1046,49 +1046,49 @@
 | 1038 | 125 | Shanna Outen |
 | 1039 | 125 | Dawn Henderson |
 | 1040 | 125 | Phredda Compton |
-| 1041 | 124 | Giddy Balancepiece |
-| 1042 | 124 | Jason Brown |
-| 1043 | 124 | Anthony Coombs |
-| 1044 | 124 | Heather Wilson |
-| 1045 | 124 | Riley Chance |
-| 1046 | 124 | Bank |
+| 1041 | 124 | Jason Brown |
+| 1042 | 124 | Anthony Coombs |
+| 1043 | 124 | Giddy Balancepiece |
+| 1044 | 124 | Riley Chance |
+| 1045 | 124 | Bank |
+| 1046 | 124 | Heather Wilson |
 | 1047 | 124 | Frilly Fitblock |
-| 1048 | 123 | Megan Meyers |
-| 1049 | 123 | Angela Martin Hardy |
+| 1048 | 123 | Tawnya Marciniak |
+| 1049 | 123 | Chirpy Liner |
 | 1050 | 123 | CaityNicole |
-| 1051 | 123 | Chirpy Liner |
-| 1052 | 123 | Tawnya Marciniak |
-| 1053 | 123 | Spunky Line |
-| 1054 | 123 | Boog |
-| 1055 | 123 | Christy Allen |
-| 1056 | 122 | Daniel R Morgan |
-| 1057 | 122 | Kiersten Frasier |
+| 1051 | 123 | Boog |
+| 1052 | 123 | Angela Martin Hardy |
+| 1053 | 123 | Christy Allen |
+| 1054 | 123 | Spunky Line |
+| 1055 | 123 | Megan Meyers |
+| 1056 | 122 | Kiersten Frasier |
+| 1057 | 122 | Daniel R Morgan |
 | 1058 | 122 | Chummy Spinzone |
-| 1059 | 122 | Stacy |
-| 1060 | 122 | Plucky Tetrisline |
-| 1061 | 121 | Crystal Cardenas |
+| 1059 | 122 | Plucky Tetrisline |
+| 1060 | 122 | Stacy |
+| 1061 | 121 | JEREMIA MOORE |
 | 1062 | 121 | Turtle Boser |
 | 1063 | 121 | Geralene Murphree |
-| 1064 | 121 | Smacked |
-| 1065 | 121 | Giggy Stacky |
-| 1066 | 121 | Lashá Calloway |
-| 1067 | 121 | JEREMIA MOORE |
-| 1068 | 120 | Amber Rochelle |
-| 1069 | 120 | Nutty Clusterline |
-| 1070 | 120 | Coke cane |
-| 1071 | 120 | Lynn Anderson |
-| 1072 | 120 | Zach Marihugh |
-| 1073 | 120 | Amanda Alt Caplinger |
-| 1074 | 120 | Zappy Cluster |
+| 1064 | 121 | Crystal Cardenas |
+| 1065 | 121 | Lashá Calloway |
+| 1066 | 121 | Smacked |
+| 1067 | 121 | Giggy Stacky |
+| 1068 | 120 | Dawn Mynhier |
+| 1069 | 120 | Coke cane |
+| 1070 | 120 | Lynn Anderson |
+| 1071 | 120 | Amber Rochelle |
+| 1072 | 120 | Nutty Clusterline |
+| 1073 | 120 | Zach Marihugh |
+| 1074 | 120 | Amanda Alt Caplinger |
 | 1075 | 120 | Jonathan Vaval |
-| 1076 | 119 | Devon Rae |
-| 1077 | 119 | Fizzy McNutts |
-| 1078 | 119 | Dawn Mynhier |
+| 1076 | 120 | Zappy Cluster |
+| 1077 | 119 | Devon Rae |
+| 1078 | 119 | Fizzy McNutts |
 | 1079 | 119 | RW! |
-| 1080 | 118 | Perky Lifter |
+| 1080 | 118 | Denny Castle |
 | 1081 | 118 | Joyful Daze |
 | 1082 | 118 | Tim Mccrary |
-| 1083 | 118 | Denny Castle |
+| 1083 | 118 | Perky Lifter |
 | 1084 | 117 | Omar Hudson |
 | 1085 | 117 | Lis |
 | 1086 | 116 | Amber Johnson-Grantham |
