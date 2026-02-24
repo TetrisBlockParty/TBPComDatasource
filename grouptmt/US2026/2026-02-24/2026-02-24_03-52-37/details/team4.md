@@ -79,8 +79,8 @@
 | 71 | 1030 | Anthony Bryan Riva |
 | 72 | 999 | Jeremy Steines |
 | 73 | 986 | TeeJ |
-| 74 | 985 | Shelly Chandler |
-| 75 | 985 | Shannon Ferrari |
+| 74 | 985 | Shannon Ferrari |
+| 75 | 985 | Shelly Chandler |
 | 76 | 956 | loulou |
 | 77 | 949 | Patron Anderson |
 | 78 | 943 | Destiney Carter |
@@ -458,11 +458,11 @@
 | 450 | 244 | Amanda Christine |
 | 451 | 243 | Laura Hosford |
 | 452 | 243 | Jackie Marie |
-| 453 | 242 | PurpleMoonMa |
-| 454 | 242 | Badatvs |
-| 455 | 242 | RIFATSIKDER |
-| 456 | 241 | Katherine Crane |
-| 457 | 241 | Laurel Coppess |
+| 453 | 242 | Badatvs |
+| 454 | 242 | RIFATSIKDER |
+| 455 | 242 | PurpleMoonMa |
+| 456 | 241 | Laurel Coppess |
+| 457 | 241 | Katherine Crane |
 | 458 | 240 | Zany Shatterer |
 | 459 | 240 | Orchislactea |
 | 460 | 239 | Kevin Bush |

@@ -186,8 +186,8 @@
 | 178 | 496 | Michelle Beres |
 | 179 | 496 | Sarah Somers Gray |
 | 180 | 494 | Sean Stallings |
-| 181 | 492 | Jennifer Hardman |
-| 182 | 492 | Happy Snapbuild |
+| 181 | 492 | Happy Snapbuild |
+| 182 | 492 | Jennifer Hardman |
 | 183 | 492 | Rebekah LeiAnn Bonsell |
 | 184 | 490 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 185 | 489 | Speedy Liney |
@@ -246,8 +246,8 @@
 | 238 | 399 | Lakeisha Chapman |
 | 239 | 398 | MommaKFC |
 | 240 | 397 | Alenoush Karimian |
-| 241 | 396 | Monica Donato |
-| 242 | 396 | Sam Williams |
+| 241 | 396 | Sam Williams |
+| 242 | 396 | Monica Donato |
 | 243 | 395 | Tami Luce Martin |
 | 244 | 393 | Wisa |
 | 245 | 391 | Happy Basegrid |
@@ -332,12 +332,12 @@
 | 324 | 324 | Brave Wrecker |
 | 325 | 324 | Sylvia Vasquez |
 | 326 | 323 | Barrbaric |
-| 327 | 322 | Christina Norman |
-| 328 | 322 | Chris65 |
+| 327 | 322 | Chris65 |
+| 328 | 322 | Christina Norman |
 | 329 | 321 | LD1 |
 | 330 | 320 | Zany Tiler |
-| 331 | 319 | Fresno Beotoni |
-| 332 | 319 | Crystal Cheresnowsky |
+| 331 | 319 | Crystal Cheresnowsky |
+| 332 | 319 | Fresno Beotoni |
 | 333 | 317 | Bloknboy |
 | 334 | 316 | Giggly Builderline |
 | 335 | 315 | san |
@@ -440,7 +440,7 @@
 | 432 | 260 | Lacy Wolfe |
 | 433 | 259 | Tiffany Smith |
 | 434 | 258 | Tedashi |
-| 435 | 257 | Funky Piecebuilder |
+| 435 | 257 | Andrew Backes |
 | 436 | 257 | Marc Abney |
 | 437 | 257 | Funky Piecebuilder |
 | 438 | 257 | Rico Rico |
@@ -519,8 +519,8 @@
 | 511 | 222 | Divaaa |
 | 512 | 222 | Laurie Sanderson |
 | 513 | 221 | Amy Hess |
-| 514 | 221 | Stephanie Leday |
-| 515 | 221 | Spunky Builderpiece |
+| 514 | 221 | Spunky Builderpiece |
+| 515 | 221 | Stephanie Leday |
 | 516 | 220 | Corrie Grant Smithson |
 | 517 | 219 | Negan Mallory Knoxx Spence |
 | 518 | 219 | Breanna Luna |

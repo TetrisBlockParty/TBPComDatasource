@@ -165,8 +165,8 @@
 | 157 | 874 | Jessica Pineda-Lopez |
 | 158 | 873 | BadManSheLove |
 | 159 | 871 | Rochelle Hazelett |
-| 160 | 868 | Nicole Flippo |
-| 161 | 868 | Cranky Gridder |
+| 160 | 868 | Cranky Gridder |
+| 161 | 868 | Nicole Flippo |
 | 162 | 864 | Sunny Rotater |
 | 163 | 862 | Santeria Trece Candles |
 | 164 | 860 | Sashay Tapae Simpson |
@@ -181,8 +181,8 @@
 | 173 | 820 | Brenda Lee Vander Molen |
 | 174 | 817 | Niki Dalrymple |
 | 175 | 815 | Justin Ritter |
-| 176 | 804 | Alaina Lee |
-| 177 | 804 | Gideon Walker |
+| 176 | 804 | Gideon Walker |
+| 177 | 804 | Alaina Lee |
 | 178 | 800 | Lauren Girouard |
 | 179 | 792 | Rachel Grant |
 | 180 | 790 | JessDrown |
