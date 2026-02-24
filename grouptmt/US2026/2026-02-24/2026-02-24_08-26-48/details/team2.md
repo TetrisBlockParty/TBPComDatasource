@@ -300,8 +300,8 @@
 | 292 | 1407 | Lola C Davis |
 | 293 | 1392 | Mikayala Szaz |
 | 294 | 1392 | Karen Snyder Schrage |
-| 295 | 1391 | Ronnie Nelson |
-| 296 | 1391 | Kimberly Hauck-Rausch |
+| 295 | 1391 | Kimberly Hauck-Rausch |
+| 296 | 1391 | Ronnie Nelson |
 | 297 | 1387 | Samantha Scibelli |
 | 298 | 1386 | Kimmy Newman |
 | 299 | 1383 | Ladyrainbootz |
@@ -523,8 +523,8 @@
 | 515 | 946 | Nicky Jackson |
 | 516 | 946 | Crystal Greene |
 | 517 | 943 | Nat |
-| 518 | 942 | Toni Lynn |
-| 519 | 942 | Fancy Twister |
+| 518 | 942 | Fancy Twister |
+| 519 | 942 | Toni Lynn |
 | 520 | 941 | Cool Clearer |
 | 521 | 938 | Hershey Eastman |
 | 522 | 937 | Heather Schelkopf |
@@ -732,11 +732,11 @@
 | 724 | 725 | AISlop |
 | 725 | 725 | Jennifer Coe |
 | 726 | 725 | Vonceial Boone |
-| 727 | 725 | Shylee Tilman |
-| 728 | 725 | Cheyenne Donovan |
+| 727 | 725 | Cheyenne Donovan |
+| 728 | 725 | Shylee Tilman |
 | 729 | 724 | Brenna Ann |
-| 730 | 724 | teo1 |
-| 731 | 724 | Epic Fitzone |
+| 730 | 724 | Epic Fitzone |
+| 731 | 724 | teo1 |
 | 732 | 723 | Jannan Haimour |
 | 733 | 722 | Sassy Racker |
 | 734 | 720 | Crystal EatableCupcake Stepney |
@@ -815,8 +815,8 @@
 | 807 | 678 | Monique Foster |
 | 808 | 677 | Kayleigh Wisse |
 | 809 | 676 | Fancy Shiftsnap |
-| 810 | 675 | Ryan Chan |
-| 811 | 675 | Katelynn Hollen |
+| 810 | 675 | Katelynn Hollen |
+| 811 | 675 | Ryan Chan |
 | 812 | 675 | Fi Ne |
 | 813 | 672 | Christina Jarvis-Swarbrick |
 | 814 | 672 | Lathasa Newkirk |
@@ -1119,8 +1119,8 @@
 | 1111 | 532 | Jenny DelVescovo |
 | 1112 | 532 | Tara Lynn Janes |
 | 1113 | 532 | Maribel Anaya Sarabia |
-| 1114 | 532 | Christy Krissie |
-| 1115 | 532 | Happy Tile |
+| 1114 | 532 | Happy Tile |
+| 1115 | 532 | Christy Krissie |
 | 1116 | 530 | Nikki Arlene |
 | 1117 | 529 | Boldy Brickfit |
 | 1118 | 528 | Justin Hines |
@@ -1194,8 +1194,8 @@
 | 1186 | 499 | Mike73 |
 | 1187 | 498 | Drwatson187 |
 | 1188 | 497 | Stephanie Pitts |
-| 1189 | 497 | June E Hanson |
-| 1190 | 497 | Mary Marie |
+| 1189 | 497 | Mary Marie |
+| 1190 | 497 | June E Hanson |
 | 1191 | 497 | Bdubb |
 | 1192 | 496 | BlaqSupaMan |
 | 1193 | 496 | Ashlee Cruz |
@@ -1230,8 +1230,8 @@
 | 1222 | 487 | Morgan Easter |
 | 1223 | 487 | Jas |
 | 1224 | 487 | Juan Killyoselfifudontlikeme Ronaldo |
-| 1225 | 486 | Hannah Johnson |
-| 1226 | 486 | Rolie Garcia |
+| 1225 | 486 | Rolie Garcia |
+| 1226 | 486 | Hannah Johnson |
 | 1227 | 486 | Kandy McDaniel |
 | 1228 | 485 | Lush Linker |
 | 1229 | 484 | Juan Castillo |
@@ -1332,8 +1332,8 @@
 | 1324 | 458 | Chill Rotater |
 | 1325 | 457 | Kray Kray Katelynn |
 | 1326 | 457 | LML |
-| 1327 | 457 | Zeleana Perry |
-| 1328 | 457 | shrimppimp |
+| 1327 | 457 | shrimppimp |
+| 1328 | 457 | Zeleana Perry |
 | 1329 | 456 | Kimberly Ann Malagon |
 | 1330 | 456 | KingdomKeeper |
 | 1331 | 456 | Dad |
@@ -1350,8 +1350,8 @@
 | 1342 | 451 | Gursharan Sandhu |
 | 1343 | 450 | Brandi Fuller Cason |
 | 1344 | 449 | N00D3S |
-| 1345 | 448 | Rob Strobbe |
-| 1346 | 448 | Sabana Sanders |
+| 1345 | 448 | Sabana Sanders |
+| 1346 | 448 | Rob Strobbe |
 | 1347 | 448 | Bathymaas |
 | 1348 | 448 | Anastacio Hernandez |
 | 1349 | 448 | Snazzy Cascade |
@@ -1375,8 +1375,8 @@
 | 1367 | 442 | Denisha Williams |
 | 1368 | 442 | Quels Whidbee |
 | 1369 | 442 | Erin Garlanger |
-| 1370 | 442 | Ashley Criner |
-| 1371 | 442 | Persipnei Cuesta |
+| 1370 | 442 | Persipnei Cuesta |
+| 1371 | 442 | Ashley Criner |
 | 1372 | 441 | Swanky Stacker |
 | 1373 | 441 | Goofy Dasher |
 | 1374 | 441 | Nikki Eaton |

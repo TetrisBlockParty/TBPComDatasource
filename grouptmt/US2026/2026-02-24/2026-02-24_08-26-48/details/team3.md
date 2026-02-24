@@ -110,8 +110,8 @@
 | 102 | 1309 | yoyo |
 | 103 | 1297 | Shelby Michelle |
 | 104 | 1290 | JerseyJess |
-| 105 | 1282 | Amanda L Baker |
-| 106 | 1282 | Peppy Shifter |
+| 105 | 1282 | Peppy Shifter |
+| 106 | 1282 | Amanda L Baker |
 | 107 | 1276 | Jessica Bechler |
 | 108 | 1274 | Sarah Fehring |
 | 109 | 1248 | Lori Barnaby |

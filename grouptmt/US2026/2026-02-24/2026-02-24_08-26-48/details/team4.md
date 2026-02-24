@@ -100,8 +100,8 @@
 | 92 | 878 | Lucille Truesdale |
 | 93 | 873 | Courtney Cicoria |
 | 94 | 869 | Judy Cox |
-| 95 | 864 | Guy Incognito |
-| 96 | 864 | Samantha Peterson |
+| 95 | 864 | Samantha Peterson |
+| 96 | 864 | Guy Incognito |
 | 97 | 854 | Shauna Havard |
 | 98 | 851 | Jason Hart |
 | 99 | 846 | Christine Marie |
@@ -131,8 +131,8 @@
 | 123 | 735 | Nugget |
 | 124 | 731 | KJ Pool |
 | 125 | 729 | Jamie Mann-Deichmann |
-| 126 | 726 | Amy Suckarieh |
-| 127 | 726 | Jamie Gustafson |
+| 126 | 726 | Jamie Gustafson |
+| 127 | 726 | Amy Suckarieh |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
 | 130 | 712 | H.R. Block |
@@ -169,8 +169,8 @@
 | 161 | 595 | TRCuse |
 | 162 | 591 | Cursed Hag |
 | 163 | 587 | YoMomma |
-| 164 | 586 | Carlos Ramirez |
-| 165 | 586 | Latisha Davis |
+| 164 | 586 | Latisha Davis |
+| 165 | 586 | Carlos Ramirez |
 | 166 | 585 | Tracey Lehmann |
 | 167 | 584 | Carlton Unfiltered |
 | 168 | 576 | Jade Rian |
@@ -327,8 +327,8 @@
 | 319 | 347 | Daria Rycewicz |
 | 320 | 346 | Metsfan |
 | 321 | 344 | Amanda Maciel Clarke |
-| 322 | 343 | HastyGrabber |
-| 323 | 343 | Blessedmama |
+| 322 | 343 | Blessedmama |
+| 323 | 343 | HastyGrabber |
 | 324 | 342 | Lauren Lamb |
 | 325 | 341 | Jason Bosco |
 | 326 | 340 | Juls |
@@ -374,9 +374,9 @@
 | 366 | 314 | KoolMom9907 |
 | 367 | 313 | DonMega |
 | 368 | 312 | Tawna Curry |
-| 369 | 311 | Reds Bella |
+| 369 | 311 | KayM |
 | 370 | 311 | Ak Jones |
-| 371 | 311 | KayM |
+| 371 | 311 | Reds Bella |
 | 372 | 308 | Angela Geist Jusinski |
 | 373 | 307 | Eri Kka |
 | 374 | 307 | tipsy tiger |
@@ -1401,7 +1401,7 @@
 | 1393 | 52 | aned |
 | 1394 | 52 | Francis Fleurant |
 | 1395 | 52 | Jen |
-| 1396 | 52 | Csquared812 |
+| 1396 | 52 | Clever Fitzone |
 | 1397 | 52 | Cranky Edge |
 | 1398 | 52 | Daniel Bonham |
 | 1399 | 52 | Csquared812 |

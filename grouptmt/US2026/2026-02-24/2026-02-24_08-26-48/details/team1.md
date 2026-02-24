@@ -87,8 +87,8 @@
 | 79 | 994 | Lori Sanders- Davis |
 | 80 | 973 | Francesca Gee |
 | 81 | 961 | Jacqueline Williams |
-| 82 | 957 | Zippy Align |
-| 83 | 957 | Erin Hodges Plumb |
+| 82 | 957 | Erin Hodges Plumb |
+| 83 | 957 | Zippy Align |
 | 84 | 944 | Sweet Baker |
 | 85 | 920 | Tee Sheree |
 | 86 | 916 | Chirpy Smasher |
@@ -245,8 +245,8 @@
 | 237 | 424 | Serina Marie |
 | 238 | 423 | Howdi Duty |
 | 239 | 422 | Jamise Brown |
-| 240 | 421 | Letson Melissa |
-| 241 | 421 | Plucky Stacky |
+| 240 | 421 | Plucky Stacky |
+| 241 | 421 | Letson Melissa |
 | 242 | 420 | Jennifer Noe Chandler |
 | 243 | 419 | Daring Fitclear |
 | 244 | 419 | John J. Cronin |
@@ -259,17 +259,17 @@
 | 251 | 409 | Lehrin Maria |
 | 252 | 407 | Barrbaric |
 | 253 | 405 | Tyler L Hunt |
-| 254 | 403 | Tami Luce Martin |
-| 255 | 403 | Jen Nystrom |
-| 256 | 403 | Alenoush Karimian |
+| 254 | 403 | Alenoush Karimian |
+| 255 | 403 | Tami Luce Martin |
+| 256 | 403 | Jen Nystrom |
 | 257 | 399 | Lakeisha Chapman |
 | 258 | 398 | MommaKFC |
 | 259 | 398 | Cece Ibarra |
 | 260 | 396 | Sam Williams |
 | 261 | 394 | Nick R Montague |
 | 262 | 393 | Wisa |
-| 263 | 392 | Renee Tucker |
-| 264 | 392 | Poppy Riserpiece |
+| 263 | 392 | Poppy Riserpiece |
+| 264 | 392 | Renee Tucker |
 | 265 | 391 | Happy Basegrid |
 | 266 | 390 | David Lutcher |
 | 267 | 388 | Test |
@@ -396,8 +396,8 @@
 | 388 | 300 | Logan McFarland |
 | 389 | 299 | Rachel Rogers |
 | 390 | 299 | Nathan William |
-| 391 | 298 | Glitzy Buildsnap |
-| 392 | 298 | Sonia Marquis |
+| 391 | 298 | Sonia Marquis |
+| 392 | 298 | Glitzy Buildsnap |
 | 393 | 297 | Billie Dawn Sparks |
 | 394 | 296 | Jeanna Dunn |
 | 395 | 295 | ESC |
@@ -464,8 +464,8 @@
 | 456 | 267 | Barry Mac'Ockner |
 | 457 | 267 | Dena Kayy |
 | 458 | 266 | Angela Jones |
-| 459 | 265 | Brenda L. Bunce |
-| 460 | 265 | Yahowah |
+| 459 | 265 | Yahowah |
+| 460 | 265 | Brenda L. Bunce |
 | 461 | 265 | Cranky Pattern |
 | 462 | 264 | Kayla |
 | 463 | 263 | BigWeenie69 |
