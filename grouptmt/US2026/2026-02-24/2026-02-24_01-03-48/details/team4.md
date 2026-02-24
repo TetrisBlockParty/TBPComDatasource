@@ -142,8 +142,8 @@
 | 134 | 616 | Samantha Peterson |
 | 135 | 615 | Kim Hunt |
 | 136 | 613 | Porkobello |
-| 137 | 611 | Ernest Maxwell |
-| 138 | 611 | Chris Baggett |
+| 137 | 611 | Chris Baggett |
+| 138 | 611 | Ernest Maxwell |
 | 139 | 602 | Cristy Duerksen |
 | 140 | 596 | Jewell Urban |
 | 141 | 595 | Rodney McMath Jr. |
@@ -389,7 +389,7 @@
 | 381 | 266 | Happy Combo |
 | 382 | 265 | Degenerate |
 | 383 | 265 | Christine Therrien |
-| 384 | 265 | Degenerate |
+| 384 | 265 | Lorena Guerrero-Barron |
 | 385 | 265 | Sarah Neathery |
 | 386 | 264 | Groovy Shiftspin |
 | 387 | 264 | Shh |

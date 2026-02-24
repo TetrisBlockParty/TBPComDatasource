@@ -191,8 +191,8 @@
 | 183 | 463 | Brandi Huntington |
 | 184 | 463 | Nicole Roseberry Weber |
 | 185 | 462 | Hasty Cascader |
-| 186 | 458 | Goose egg |
-| 187 | 458 | Dizzy Slider |
+| 186 | 458 | Dizzy Slider |
+| 187 | 458 | Goose egg |
 | 188 | 446 | Cheeky Crusher |
 | 189 | 446 | SkipTheSadSauce |
 | 190 | 442 | Kimmie Kimms |
@@ -244,8 +244,8 @@
 | 236 | 382 | Angela Renea Lester |
 | 237 | 382 | David Lutcher |
 | 238 | 381 | Alenoush Karimian |
-| 239 | 380 | Snippy Wipebuilder |
-| 240 | 380 | Bindi |
+| 239 | 380 | Bindi |
+| 240 | 380 | Snippy Wipebuilder |
 | 241 | 379 | Austin James |
 | 242 | 377 | Teri Oehlke |
 | 243 | 377 | Eric DeSimone |
@@ -459,7 +459,7 @@
 | 451 | 236 | Snappy Bridgepiece |
 | 452 | 235 | Theeranart Mahawan |
 | 453 | 235 | Jumpy Rotate |
-| 454 | 235 | Theeranart Mahawan |
+| 454 | 235 | Nutty Glide |
 | 455 | 234 | Amber Dee |
 | 456 | 233 | Amie Fields |
 | 457 | 232 | Jennifer Olewnik Soborowski |

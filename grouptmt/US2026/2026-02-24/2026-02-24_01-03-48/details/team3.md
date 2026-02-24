@@ -189,8 +189,8 @@
 | 181 | 755 | Tye Stovall |
 | 182 | 744 | Twisty Brick LT |
 | 183 | 742 | Jennifer Lynn Fahrenholtz-Summers |
-| 184 | 740 | Kiki |
-| 185 | 740 | Staci George Fitzsimmons |
+| 184 | 740 | Staci George Fitzsimmons |
+| 185 | 740 | Kiki |
 | 186 | 738 | Naur |
 | 187 | 736 | Rachel |
 | 188 | 731 | Samantha Greco |
@@ -764,7 +764,7 @@
 | 756 | 216 | Zaza Lewis |
 | 757 | 216 | Jenna Baker |
 | 758 | 216 | Andrew Linge |
-| 759 | 216 | Zaza Lewis |
+| 759 | 216 | Heyska |
 | 760 | 215 | Michell Hendershott Jackson |
 | 761 | 215 | Tricia Margaret |
 | 762 | 214 | krazibtch |
@@ -797,13 +797,13 @@
 | 789 | 208 | Spzy |
 | 790 | 208 | Barb Wensink Johnson |
 | 791 | 207 | demon14 |
-| 792 | 207 | Cathy Reeves |
-| 793 | 207 | Jennifer Evans |
-| 794 | 207 | Groovy Blockclear |
-| 795 | 206 | Frisky Linkbuilder |
-| 796 | 206 | Nicole Eastman |
-| 797 | 206 | Wancharlene Hercules |
-| 798 | 206 | Anabela Ruiz |
+| 792 | 207 | Groovy Blockclear |
+| 793 | 207 | Cathy Reeves |
+| 794 | 207 | Jennifer Evans |
+| 795 | 206 | Nicole Eastman |
+| 796 | 206 | Frisky Linkbuilder |
+| 797 | 206 | Anabela Ruiz |
+| 798 | 206 | Wancharlene Hercules |
 | 799 | 205 | AngieMuffin Wap |
 | 800 | 205 | Brooke Bauer |
 | 801 | 205 | Bouncy Blockbuilder |
