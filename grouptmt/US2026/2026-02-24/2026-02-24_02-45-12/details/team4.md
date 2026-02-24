@@ -68,8 +68,8 @@
 | 60 | 1097 | BertMofo |
 | 61 | 1092 | Rachel Anne |
 | 62 | 1089 | Alyssa Papen |
-| 63 | 1082 | Avy Absol |
-| 64 | 1082 | Dion Crommarty |
+| 63 | 1082 | Dion Crommarty |
+| 64 | 1082 | Avy Absol |
 | 65 | 1075 | Dustee Craddock-Harrison |
 | 66 | 1064 | Heather Tushner |
 | 67 | 1046 | Johnathan Martinez |
@@ -94,8 +94,8 @@
 | 86 | 855 | Chilly Line |
 | 87 | 850 | Lucille Truesdale |
 | 88 | 846 | Christine Marie |
-| 89 | 841 | Judy Cox |
-| 90 | 841 | Shauna Havard |
+| 89 | 841 | Shauna Havard |
+| 90 | 841 | Judy Cox |
 | 91 | 840 | Chaz Duncan |
 | 92 | 834 | quicksand420 |
 | 93 | 826 | Rica Mitchell |
@@ -227,8 +227,8 @@
 | 219 | 444 | Shiny Fit |
 | 220 | 443 | Kristina Black |
 | 221 | 442 | 🥔🥔 Spudz |
-| 222 | 441 | Lush Linkfall |
-| 223 | 441 | Jen Mattei |
+| 222 | 441 | Jen Mattei |
+| 223 | 441 | Lush Linkfall |
 | 224 | 438 | Melvin Baird |
 | 225 | 436 | Selena Shaw |
 | 226 | 434 | Ramel Rhodes |
@@ -248,13 +248,13 @@
 | 240 | 411 | Gdiguy |
 | 241 | 411 | Autumn Kumzi |
 | 242 | 410 | Lindsay Ball |
-| 243 | 409 | Joseph Guthrie |
-| 244 | 409 | Antony Dwayne Beasley |
-| 245 | 408 | Lauren Scott |
-| 246 | 403 | TinyLegoRose |
-| 247 | 400 | Brickh4us |
-| 248 | 398 | Nerdy Twisterfit |
-| 249 | 398 | Tyler Terrific |
+| 243 | 409 | Antony Dwayne Beasley |
+| 244 | 408 | Lauren Scott |
+| 245 | 403 | TinyLegoRose |
+| 246 | 400 | Brickh4us |
+| 247 | 399 | Joseph Guthrie |
+| 248 | 398 | Tyler Terrific |
+| 249 | 398 | Nerdy Twisterfit |
 | 250 | 397 | blockstar |
 | 251 | 397 | blasterB |
 | 252 | 395 | 030Synner |
@@ -280,8 +280,8 @@
 | 272 | 370 | Kris Bartlett |
 | 273 | 369 | Matt Dell'Olio |
 | 274 | 367 | Meg |
-| 275 | 366 | Andrew Dang |
-| 276 | 366 | Hyper Builder |
+| 275 | 366 | Hyper Builder |
+| 276 | 366 | Andrew Dang |
 | 277 | 360 | James Hurley Jr. |
 | 278 | 359 | Montiette Mcglown |
 | 279 | 359 | KimoKoala |
@@ -423,8 +423,8 @@
 | 415 | 258 | Val Erie |
 | 416 | 257 | Dustin York |
 | 417 | 256 | Gracie Ann Taylor |
-| 418 | 255 | Jenny Wells-Oakley |
-| 419 | 255 | Red |
+| 418 | 255 | Red |
+| 419 | 255 | Jenny Wells-Oakley |
 | 420 | 253 | Autum Leigh |
 | 421 | 252 | Maureen Flanigan |
 | 422 | 251 | Kathy Allen |
@@ -494,9 +494,9 @@
 | 486 | 222 | Brandi Durig |
 | 487 | 222 | Rhys Morgan |
 | 488 | 221 | Rheanda Weaskus |
-| 489 | 220 | Helen Chao |
+| 489 | 220 | ThriftySpice |
 | 490 | 220 | Mighty Edgepiece |
-| 491 | 220 | ThriftySpice |
+| 491 | 220 | Helen Chao |
 | 492 | 219 | Brandon Link |
 | 493 | 218 | Dorian |
 | 494 | 218 | Janita Parrish |

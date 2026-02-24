@@ -112,7 +112,7 @@
 | 104 | 1230 | Danielle Mogg |
 | 105 | 1189 | Christian A. Pollard |
 | 106 | 1179 | Angeline Joseph |
-| 107 | 1171 | Ivan Del Toro |
+| 107 | 1166 | Ivan Del Toro |
 | 108 | 1159 | Marcie Bressler |
 | 109 | 1154 | Carrie Jarvis Mohler |
 | 110 | 1138 | Keith J Oshman Jr. |
