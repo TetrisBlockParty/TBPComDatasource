@@ -160,8 +160,8 @@
 | 152 | 936 | Dolores Falco |
 | 153 | 925 | Cherry Parker |
 | 154 | 914 | Sarajane Lokan |
-| 155 | 910 | Staci George Fitzsimmons |
-| 156 | 910 | opf |
+| 155 | 910 | opf |
+| 156 | 910 | Staci George Fitzsimmons |
 | 157 | 905 | Groovy Catcher |
 | 158 | 899 | Jaime Monhaut-Reed |
 | 159 | 894 | Denita Mungro |
@@ -201,8 +201,8 @@
 | 193 | 772 | Tye Stovall |
 | 194 | 769 | Hasty Cascadefit |
 | 195 | 768 | Cyd061769 |
-| 196 | 763 | Tasha Gillespie |
-| 197 | 763 | Khaleada McGill Banks |
+| 196 | 763 | Khaleada McGill Banks |
+| 197 | 763 | Tasha Gillespie |
 | 198 | 763 | Patricia White |
 | 199 | 760 | Kiki |
 | 200 | 759 | Mykal Burton |
@@ -215,12 +215,12 @@
 | 207 | 742 | Jennifer Lynn Fahrenholtz-Summers |
 | 208 | 738 | Naur |
 | 209 | 736 | Elissa S-k |
-| 210 | 733 | Annie Déè |
-| 211 | 733 | Annie Marie |
+| 210 | 733 | Annie Marie |
+| 211 | 733 | Annie Déè |
 | 212 | 732 | Angela Scott |
 | 213 | 731 | Samantha Greco |
-| 214 | 729 | Lizabeth Fox |
-| 215 | 729 | CeceGeGe |
+| 214 | 729 | CeceGeGe |
+| 215 | 729 | Lizabeth Fox |
 | 216 | 715 | Karon Griffin |
 | 217 | 714 | Jenny Hrndz |
 | 218 | 713 | Stephanie Blkpep Davidson |
@@ -480,8 +480,8 @@
 | 472 | 343 | Eboni Starr |
 | 473 | 343 | Christina Marie Swisher |
 | 474 | 342 | Saucy Buildout |
-| 475 | 342 | Criss |
-| 476 | 342 | Boldy Corner |
+| 475 | 342 | Boldy Corner |
+| 476 | 342 | Criss |
 | 477 | 341 | Funky Jumper |
 | 478 | 340 | Becca Engle |
 | 479 | 340 | Kerry Nowickshere |
@@ -1982,7 +1982,7 @@
 | 1974 | 70 | toast |
 | 1975 | 70 | Mandie Alexandra Adones |
 | 1976 | 70 | Jellyroll |
-| 1977 | 70 | Robin Garrison |
+| 1977 | 70 | Christine M. Foran |
 | 1978 | 70 | Sims Simmons |
 | 1979 | 70 | noirakita428 |
 | 1980 | 69 | Kendra Renee |

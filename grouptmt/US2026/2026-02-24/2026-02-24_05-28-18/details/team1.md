@@ -60,8 +60,8 @@
 | 52 | 1181 | Carrie Beck Geartz |
 | 53 | 1177 | Tipsy Column |
 | 54 | 1170 | Tater |
-| 55 | 1137 | Jen Sartain |
-| 56 | 1137 | TSwag |
+| 55 | 1137 | TSwag |
+| 56 | 1137 | Jen Sartain |
 | 57 | 1128 | Cynthia Bradley |
 | 58 | 1127 | Andrea Dañielle Ortiz |
 | 59 | 1122 | Kristen Gideon |
@@ -83,8 +83,8 @@
 | 75 | 973 | Francesca Gee |
 | 76 | 966 | Shalene Frederick Autrey |
 | 77 | 961 | Jacqueline Williams |
-| 78 | 957 | Zippy Align |
-| 79 | 957 | Erin Hodges Plumb |
+| 78 | 957 | Erin Hodges Plumb |
+| 79 | 957 | Zippy Align |
 | 80 | 944 | Sweet Baker |
 | 81 | 922 | Jason Cox |
 | 82 | 920 | Tee Sheree |
@@ -136,8 +136,8 @@
 | 128 | 642 | Mario Cab |
 | 129 | 639 | Theo Pinnow |
 | 130 | 634 | Carrie Smith |
-| 131 | 629 | Tanya Carpenter-Reynolds |
-| 132 | 629 | Death |
+| 131 | 629 | Death |
+| 132 | 629 | Tanya Carpenter-Reynolds |
 | 133 | 628 | Trina Gee |
 | 134 | 626 | Damon J. Martin |
 | 135 | 622 | Chris K |

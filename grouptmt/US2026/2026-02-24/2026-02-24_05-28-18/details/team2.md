@@ -244,8 +244,8 @@
 | 236 | 1613 | blackq |
 | 237 | 1610 | Ray Ray Prado |
 | 238 | 1609 | Ryan Stadel |
-| 239 | 1600 | Mo Shine On |
-| 240 | 1600 | Jojo Momma |
+| 239 | 1600 | Jojo Momma |
+| 240 | 1600 | Mo Shine On |
 | 241 | 1596 | Christine Egidio Morocco |
 | 242 | 1595 | Joyce Johnson Vaughn |
 | 243 | 1592 | Dolores Russworn |
@@ -343,8 +343,8 @@
 | 335 | 1261 | Becca Coronado |
 | 336 | 1258 | Mama T |
 | 337 | 1257 | Jackie Lucas |
-| 338 | 1257 | Megan Garrick |
-| 339 | 1257 | Megan Ferguson Leone |
+| 338 | 1257 | Megan Ferguson Leone |
+| 339 | 1257 | Megan Garrick |
 | 340 | 1254 | Erika Densmore |
 | 341 | 1252 | Brainy Smurf |
 | 342 | 1249 | Tristan Szolek |
@@ -1069,8 +1069,8 @@
 | 1061 | 535 | Frisky Patternline |
 | 1062 | 535 | Zachary Boyarski |
 | 1063 | 534 | Daphne Jordan |
-| 1064 | 534 | JAG$*V¡LL£•FL•DuuuVaL |
-| 1065 | 534 | Kara Jennifer |
+| 1064 | 534 | Kara Jennifer |
+| 1065 | 534 | JAG$*V¡LL£•FL•DuuuVaL |
 | 1066 | 533 | Amanda West |
 | 1067 | 532 | Jenny DelVescovo |
 | 1068 | 532 | Tara Lynn Janes |

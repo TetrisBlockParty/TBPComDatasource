@@ -243,8 +243,8 @@
 | 235 | 438 | Melvin Baird |
 | 236 | 438 | 23 |
 | 237 | 434 | Ramel Rhodes |
-| 238 | 433 | Damn Libra |
-| 239 | 433 | Circuit8 |
+| 238 | 433 | Circuit8 |
+| 239 | 433 | Damn Libra |
 | 240 | 432 | Plucky Patternblock |
 | 241 | 432 | scott |
 | 242 | 431 | Manny1 |
