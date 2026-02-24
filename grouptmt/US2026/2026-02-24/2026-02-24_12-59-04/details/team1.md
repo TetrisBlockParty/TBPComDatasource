@@ -181,14 +181,14 @@
 | 173 | 553 | Flashy Rotator |
 | 174 | 552 | Constance Risner |
 | 175 | 549 | Jerry Danowski |
-| 176 | 548 | Stephanie Zahn |
-| 177 | 548 | Luciano Moreira |
+| 176 | 548 | Luciano Moreira |
+| 177 | 548 | Stephanie Zahn |
 | 178 | 547 | Sharon Reynolds |
 | 179 | 545 | .running. |
 | 180 | 544 | Sean Stallings |
 | 181 | 543 | Nicole Roseberry Weber |
-| 182 | 542 | BadG52 |
-| 183 | 542 | Ly Phethmany |
+| 182 | 542 | Ly Phethmany |
+| 183 | 542 | BadG52 |
 | 184 | 541 | Snippy Wipebuilder |
 | 185 | 539 | Tana |
 | 186 | 535 | Plucky Ziggy |
@@ -230,9 +230,9 @@
 | 222 | 466 | Lori Bales |
 | 223 | 460 | Sam Williams |
 | 224 | 458 | Goose egg |
-| 225 | 453 | Angela Spann |
+| 225 | 453 | Chantelle Ceno |
 | 226 | 453 | Kimmie Kimms |
-| 227 | 453 | Chantelle Ceno |
+| 227 | 453 | Angela Spann |
 | 228 | 449 | Tawnya Peltonen |
 | 229 | 448 | Yvonne Marie |
 | 230 | 447 | Monica Donato |
@@ -241,8 +241,8 @@
 | 233 | 444 | Angela Renea Lester |
 | 234 | 441 | Billie Ann Eason |
 | 235 | 439 | David Miller |
-| 236 | 438 | Rayline M Bradshaw |
-| 237 | 438 | Chelsea Dahlquist |
+| 236 | 438 | Chelsea Dahlquist |
+| 237 | 438 | Rayline M Bradshaw |
 | 238 | 436 | Sylvia Vasquez |
 | 239 | 435 | DaRascal |
 | 240 | 434 | Wayne Saunders |
@@ -308,9 +308,9 @@
 | 300 | 374 | Snappy Brickbuilder |
 | 301 | 372 | Strig |
 | 302 | 372 | Dizzy Party |
-| 303 | 371 | Danielle S Kester |
-| 304 | 371 | Jaimie Lynn |
-| 305 | 371 | Keith Mathis |
+| 303 | 371 | Jaimie Lynn |
+| 304 | 371 | Keith Mathis |
+| 305 | 371 | Danielle S Kester |
 | 306 | 370 | Gracie |
 | 307 | 368 | Avelyn Calamba |
 | 308 | 367 | April Jones |

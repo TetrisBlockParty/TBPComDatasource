@@ -81,8 +81,8 @@
 | 73 | 1080 | Chilly Line |
 | 74 | 1069 | Heather Tushner |
 | 75 | 1056 | Keith Kelley |
-| 76 | 1046 | Anthony Bryan Riva |
-| 77 | 1046 | Johnathan Martinez |
+| 76 | 1046 | Johnathan Martinez |
+| 77 | 1046 | Anthony Bryan Riva |
 | 78 | 1028 | TeeJ |
 | 79 | 1024 | Valerie Roberts |
 | 80 | 1017 | Jeremy Steines |
@@ -110,8 +110,8 @@
 | 102 | 840 | SAP |
 | 103 | 838 | Amy Suckarieh |
 | 104 | 837 | Rica Mitchell |
-| 105 | 834 | quicksand420 |
-| 106 | 834 | Brittney Orengo |
+| 105 | 834 | Brittney Orengo |
+| 106 | 834 | quicksand420 |
 | 107 | 818 | Lori Walker |
 | 108 | 813 | Klo |
 | 109 | 811 | Sassy Pattern |
@@ -122,8 +122,8 @@
 | 114 | 802 | Crystal Carroll |
 | 115 | 801 | D3TROITB0RN74 |
 | 116 | 784 | TheNeesh50 |
-| 117 | 781 | Savannah Overdorf |
-| 118 | 781 | Brittney Griggs |
+| 117 | 781 | Brittney Griggs |
+| 118 | 781 | Savannah Overdorf |
 | 119 | 779 | Nope Young |
 | 120 | 777 | Chris Alexinas |
 | 121 | 768 | Trista Leah |
@@ -210,8 +210,8 @@
 | 202 | 520 | Zippy Block |
 | 203 | 520 | Oscar Alberto Perez |
 | 204 | 517 | DonMega |
-| 205 | 516 | Nick Gray |
-| 206 | 516 | Ericca Eldridge |
+| 205 | 516 | Ericca Eldridge |
+| 206 | 516 | Nick Gray |
 | 207 | 516 | Trish |
 | 208 | 515 | Joanna |
 | 209 | 513 | Milan Markeisha |
@@ -286,15 +286,15 @@
 | 278 | 410 | Lindsay Ball |
 | 279 | 410 | KimoKoala |
 | 280 | 409 | Antony Dwayne Beasley |
-| 281 | 408 | Neirrah B Olailjeel |
-| 282 | 408 | Dihcheese444 |
+| 281 | 408 | Dihcheese444 |
+| 282 | 408 | Neirrah B Olailjeel |
 | 283 | 407 | Hyper Builder |
 | 284 | 402 | Maria Hammie |
 | 285 | 402 | Nita Wells |
 | 286 | 398 | Tyler Terrific |
 | 287 | 397 | blockstar |
-| 288 | 395 | Denise B |
-| 289 | 395 | BigSammy420 |
+| 288 | 395 | BigSammy420 |
+| 289 | 395 | Denise B |
 | 290 | 394 | Nikki Rae Gordon |
 | 291 | 393 | Montiette Mcglown |
 | 292 | 390 | Ari Droff |
@@ -309,8 +309,8 @@
 | 301 | 378 | Googenheim |
 | 302 | 378 | Mary Ann Pabukis |
 | 303 | 377 | Lauren Lamb |
-| 304 | 376 | Stacey Stano |
-| 305 | 376 | Nig |
+| 304 | 376 | Nig |
+| 305 | 376 | Stacey Stano |
 | 306 | 375 | Dan Wold |
 | 307 | 375 | George Tzouganos |
 | 308 | 373 | Russ Attitude |
