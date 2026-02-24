@@ -177,8 +177,8 @@
 | 169 | 552 | Constance Risner |
 | 170 | 551 | Loony Fitzone |
 | 171 | 549 | Jerry Danowski |
-| 172 | 548 | Stephanie Zahn |
-| 173 | 548 | Luciano Moreira |
+| 172 | 548 | Luciano Moreira |
+| 173 | 548 | Stephanie Zahn |
 | 174 | 547 | Sharon Reynolds |
 | 175 | 545 | .running. |
 | 176 | 543 | Nicole Roseberry Weber |
@@ -411,7 +411,7 @@
 | 403 | 302 | Jenny Gingrich Fuentes |
 | 404 | 301 | Glitzy Grid |
 | 405 | 301 | Beazel75 |
-| 406 | 301 | Glitzy Grid |
+| 406 | 301 | Chad Atchley |
 | 407 | 301 | Susie Loo |
 | 408 | 301 | Christina Backer |
 | 409 | 300 | Logan McFarland |
