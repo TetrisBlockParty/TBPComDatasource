@@ -78,13 +78,13 @@
 | 70 | 1695 | Nora Rogers |
 | 71 | 1691 | Cass Mendoza |
 | 72 | 1681 | Gracie |
-| 73 | 1663 | Angeline Joseph |
-| 74 | 1663 | Mahman |
+| 73 | 1663 | Mahman |
+| 74 | 1663 | Angeline Joseph |
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1527 | Elaine Webb Graves |
@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -187,8 +187,8 @@
 | 179 | 857 | Dana Fox |
 | 180 | 856 | Dana Winters |
 | 181 | 854 | Speedy Bridger |
-| 182 | 847 | Daira Largen |
-| 183 | 847 | Daring Brickzone |
+| 182 | 847 | Daring Brickzone |
+| 183 | 847 | Daira Largen |
 | 184 | 846 | Nicole Myers |
 | 185 | 842 | Alexmac |
 | 186 | 829 | Patricia White |
@@ -199,8 +199,8 @@
 | 191 | 815 | Justin Ritter |
 | 192 | 813 | JessDrown |
 | 193 | 808 | Raya |
-| 194 | 804 | Gideon Walker |
-| 195 | 804 | Alaina Lee |
+| 194 | 804 | Alaina Lee |
+| 195 | 804 | Gideon Walker |
 | 196 | 800 | Lauren Girouard |
 | 197 | 799 | Trisha Balmer |
 | 198 | 792 | Rachel Grant |
@@ -210,8 +210,8 @@
 | 202 | 784 | Jone |
 | 203 | 777 | Daryn Elliott |
 | 204 | 774 | ren |
-| 205 | 772 | Hasty Cascadefit |
-| 206 | 772 | Cyd061769 |
+| 205 | 772 | Cyd061769 |
+| 206 | 772 | Hasty Cascadefit |
 | 207 | 766 | Tasha Gillespie |
 | 208 | 763 | Khaleada McGill Banks |
 | 209 | 762 | Naur |
@@ -258,12 +258,12 @@
 | 250 | 642 | Rania Zaqout |
 | 251 | 641 | Tom Nault |
 | 252 | 640 | Dee Pratt |
-| 253 | 639 | Nichol Graham |
-| 254 | 639 | Marci Mize Fandrich |
+| 253 | 639 | Marci Mize Fandrich |
+| 254 | 639 | Nichol Graham |
 | 255 | 637 | Giddy Twistbuilder |
 | 256 | 635 | Amber Hughes |
-| 257 | 633 | Rebecca Funderburk Kirby |
-| 258 | 633 | Jillian Symons |
+| 257 | 633 | Jillian Symons |
+| 258 | 633 | Rebecca Funderburk Kirby |
 | 259 | 632 | Rebecca Bailey |
 | 260 | 630 | Jackie Miller |
 | 261 | 629 | rnr junky |
@@ -416,8 +416,8 @@
 | 408 | 413 | Rick Poppen |
 | 409 | 411 | Beaudie Stroebel |
 | 410 | 409 | Rich LeBlanc |
-| 411 | 408 | Ashley Muncey |
-| 412 | 408 | Tiffany Ford |
+| 411 | 408 | Tiffany Ford |
+| 412 | 408 | Ashley Muncey |
 | 413 | 407 | Christina Spa |
 | 414 | 406 | Kristen Weese |
 | 415 | 405 | Andrew Thorson |
@@ -526,8 +526,8 @@
 | 518 | 336 | Funky Brickster |
 | 519 | 336 | Kristi Taylor |
 | 520 | 336 | luluraine |
-| 521 | 335 | Sassy Brickmatch |
-| 522 | 335 | Johnathan Dowe |
+| 521 | 335 | Johnathan Dowe |
+| 522 | 335 | Sassy Brickmatch |
 | 523 | 334 | Sharisse Baltimore |
 | 524 | 334 | Stella |
 | 525 | 334 | Carol Cain Thurman |
@@ -651,8 +651,8 @@
 | 643 | 289 | DidIdothat |
 | 644 | 289 | Peachy Tower |
 | 645 | 287 | Timea Popladek |
-| 646 | 286 | Frilly Stackzone |
-| 647 | 286 | Morgan Cudo |
+| 646 | 286 | Morgan Cudo |
+| 647 | 286 | Frilly Stackzone |
 | 648 | 285 | Kate Farok |
 | 649 | 285 | Jumpy Wrecker |
 | 650 | 284 | Nikita Ainsworth |
@@ -665,7 +665,7 @@
 | 657 | 282 | Karla Phillips |
 | 658 | 281 | Nerdy Lifter |
 | 659 | 281 | Jenna Baker |
-| 660 | 281 | Nerdy Lifter |
+| 660 | 281 | Boldy Blocker |
 | 661 | 280 | Myoshia Norwood |
 | 662 | 279 | Mikey Lewis |
 | 663 | 279 | Ryan Williams |
@@ -795,8 +795,8 @@
 | 787 | 247 | Jennifer Evans |
 | 788 | 247 | Melanie Sherwood |
 | 789 | 247 | Taylor |
-| 790 | 246 | Erica Anderson |
-| 791 | 246 | MomOnBreak |
+| 790 | 246 | MomOnBreak |
+| 791 | 246 | Quteeonduty |
 | 792 | 246 | Erica Anderson |
 | 793 | 245 | Carie Ferchaud |
 | 794 | 245 | Bhreagh Gentile |

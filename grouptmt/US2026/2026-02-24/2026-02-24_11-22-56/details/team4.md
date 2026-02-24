@@ -74,8 +74,8 @@
 | 66 | 1119 | Amelpss |
 | 67 | 1109 | BertMofo |
 | 68 | 1089 | Alyssa Papen |
-| 69 | 1082 | Avy Absol |
-| 70 | 1082 | Dion Crommarty |
+| 69 | 1082 | Dion Crommarty |
+| 70 | 1082 | Avy Absol |
 | 71 | 1081 | Dustee Craddock-Harrison |
 | 72 | 1080 | Chilly Line |
 | 73 | 1071 | LisaJo Picken Buchanan |
@@ -108,8 +108,8 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | Brittney Orengo |
-| 104 | 834 | quicksand420 |
+| 103 | 834 | quicksand420 |
+| 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
 | 107 | 813 | Klo |
@@ -148,8 +148,8 @@
 | 140 | 667 | Swanky Fitline |
 | 141 | 667 | Matt Gooder |
 | 142 | 662 | Nerdy Twisterfit |
-| 143 | 661 | Rodney McMath Jr. |
-| 144 | 661 | shar |
+| 143 | 661 | shar |
+| 144 | 661 | Rodney McMath Jr. |
 | 145 | 651 | Adawna Swires |
 | 146 | 650 | Chris Hartig |
 | 147 | 647 | KM8 |
@@ -217,8 +217,8 @@
 | 209 | 508 | June Hoffman |
 | 210 | 507 | Andria Lynn |
 | 211 | 504 | Deanna Deckard |
-| 212 | 502 | Christina Black |
-| 213 | 502 | Ericca Eldridge |
+| 212 | 502 | Ericca Eldridge |
+| 213 | 502 | Christina Black |
 | 214 | 501 | Sharyn Lemire |
 | 215 | 499 | Kesha Brady |
 | 216 | 499 | DonMega |
@@ -251,8 +251,8 @@
 | 243 | 454 | Keshia Lyons |
 | 244 | 450 | Genne Scott |
 | 245 | 449 | Danielle Kollias |
-| 246 | 448 | Mike Solo |
-| 247 | 448 | Mr. Party |
+| 246 | 448 | Mr. Party |
+| 247 | 448 | Mike Solo |
 | 248 | 447 | Jen Mattei |
 | 249 | 444 | Twisty Cascadezone |
 | 250 | 444 | Selena Shaw |
@@ -363,8 +363,8 @@
 | 355 | 327 | Jim Hart |
 | 356 | 327 | Jessica Petersen |
 | 357 | 325 | Dustin York |
-| 358 | 324 | Sarah Hoffman |
-| 359 | 324 | tipsy tiger |
+| 358 | 324 | tipsy tiger |
+| 359 | 324 | Sarah Hoffman |
 | 360 | 322 | Bryan Hodgins |
 | 361 | 321 | Paige Kittles |
 | 362 | 321 | Stacey Stano |
@@ -389,8 +389,8 @@
 | 381 | 311 | Reds Bella |
 | 382 | 311 | KayM |
 | 383 | 308 | Angela Geist Jusinski |
-| 384 | 307 | Eri Kka |
-| 385 | 307 | Susan Williams |
+| 384 | 307 | Susan Williams |
+| 385 | 307 | Eri Kka |
 | 386 | 306 | PeaceOs |
 | 387 | 305 | Frances Hui |
 | 388 | 305 | Groovy Shiftspin |
@@ -431,10 +431,10 @@
 | 423 | 281 | Morti |
 | 424 | 280 | Chummy Towerzone |
 | 425 | 279 | Ziggy |
-| 426 | 278 | L Bear Champion |
-| 427 | 278 | Shainne Brewer |
-| 428 | 277 | Maria Hammie |
-| 429 | 277 | Silly SeaWeed |
+| 426 | 278 | Shainne Brewer |
+| 427 | 278 | L Bear Champion |
+| 428 | 277 | Silly SeaWeed |
+| 429 | 277 | Maria Hammie |
 | 430 | 276 | Dennis Bradley |
 | 431 | 275 | Jarred Falls |
 | 432 | 274 | Hector Duran |
