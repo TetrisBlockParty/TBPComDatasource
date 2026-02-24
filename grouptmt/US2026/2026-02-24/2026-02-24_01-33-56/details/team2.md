@@ -256,8 +256,8 @@
 | 248 | 1442 | Stacy Stickle |
 | 249 | 1422 | Rebecca Garland |
 | 250 | 1418 | L3sli3 |
-| 251 | 1415 | Jennifer Casey-Kay |
-| 252 | 1415 | Kristin Ruest |
+| 251 | 1415 | Kristin Ruest |
+| 252 | 1415 | Jennifer Casey-Kay |
 | 253 | 1414 | Brittany Radaszewski |
 | 254 | 1413 | Matthew Joseph Acevedo |
 | 255 | 1405 | Joyce Johnson Vaughn |
@@ -309,8 +309,8 @@
 | 301 | 1267 | Missie Lawson Gebhardt |
 | 302 | 1263 | Roman Lavochnik |
 | 303 | 1259 | Foxxo |
-| 304 | 1257 | Megan Garrick |
-| 305 | 1257 | Megan Ferguson Leone |
+| 304 | 1257 | Megan Ferguson Leone |
+| 305 | 1257 | Megan Garrick |
 | 306 | 1255 | Jane Fong |
 | 307 | 1254 | Erika Densmore |
 | 308 | 1251 | Kevin Walp |
@@ -563,8 +563,8 @@
 | 555 | 797 | Mighty Spinbuilder |
 | 556 | 796 | AndrewandShela Gornik |
 | 557 | 795 | Aletha Williams |
-| 558 | 795 | Alexandra Weir |
-| 559 | 795 | Melissa Holsinger |
+| 558 | 795 | Melissa Holsinger |
+| 559 | 795 | Alexandra Weir |
 | 560 | 789 | Leslie Jorgenson |
 | 561 | 788 | Samuel Macon |
 | 562 | 787 | Jasmine Kenney |

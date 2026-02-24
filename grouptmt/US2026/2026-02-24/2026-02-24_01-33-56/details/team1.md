@@ -220,8 +220,8 @@
 | 212 | 417 | Jessie Lynn |
 | 213 | 416 | Jessica Sheehan |
 | 214 | 413 | Ananda Mendez |
-| 215 | 412 | Witty Builderfit |
-| 216 | 412 | Connie |
+| 215 | 412 | Connie |
+| 216 | 412 | Witty Builderfit |
 | 217 | 405 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 218 | 404 | Tawnya Peltonen |
 | 219 | 404 | Erin Rosberg |
