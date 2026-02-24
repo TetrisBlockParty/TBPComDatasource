@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Yoset Mejia |
-| 47 | 1461 | Shane Kalamata Platoon |
+| 46 | 1461 | Shane Kalamata Platoon |
+| 47 | 1461 | Yoset Mejia |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -81,8 +81,8 @@
 | 73 | 1071 | LisaJo Picken Buchanan |
 | 74 | 1069 | Heather Tushner |
 | 75 | 1056 | Keith Kelley |
-| 76 | 1046 | Anthony Bryan Riva |
-| 77 | 1046 | Johnathan Martinez |
+| 76 | 1046 | Johnathan Martinez |
+| 77 | 1046 | Anthony Bryan Riva |
 | 78 | 1028 | TeeJ |
 | 79 | 1024 | Valerie Roberts |
 | 80 | 1017 | Jeremy Steines |
@@ -108,8 +108,8 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | quicksand420 |
-| 104 | 834 | Brittney Orengo |
+| 103 | 834 | Brittney Orengo |
+| 104 | 834 | quicksand420 |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
 | 107 | 813 | Amy Suckarieh |
@@ -138,8 +138,8 @@
 | 130 | 719 | George Nutt |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Chilly Crasher |
-| 134 | 704 | Austin Owens |
+| 133 | 704 | Austin Owens |
+| 134 | 704 | Chilly Crasher |
 | 135 | 701 | Angela Srubar-Norman |
 | 136 | 687 | Carmethia Clemons Haslerig |
 | 137 | 682 | Raegan Lane-Ross |
@@ -217,11 +217,11 @@
 | 209 | 508 | June Hoffman |
 | 210 | 507 | Andria Lynn |
 | 211 | 504 | Deanna Deckard |
-| 212 | 502 | Christina Black |
-| 213 | 502 | Ericca Eldridge |
+| 212 | 502 | Ericca Eldridge |
+| 213 | 502 | Christina Black |
 | 214 | 501 | Sharyn Lemire |
-| 215 | 499 | Kesha Brady |
-| 216 | 499 | DonMega |
+| 215 | 499 | DonMega |
+| 216 | 499 | Kesha Brady |
 | 217 | 497 | Damn Libra |
 | 218 | 496 | Jessica Bohlken |
 | 219 | 495 | Joeliecea Cobb |
@@ -292,15 +292,15 @@
 | 284 | 402 | Nita Wells |
 | 285 | 398 | Tyler Terrific |
 | 286 | 397 | blockstar |
-| 287 | 395 | Denise B |
-| 288 | 395 | BigSammy420 |
+| 287 | 395 | BigSammy420 |
+| 288 | 395 | Denise B |
 | 289 | 394 | Nikki Rae Gordon |
 | 290 | 393 | Montiette Mcglown |
 | 291 | 390 | Ari Droff |
 | 292 | 387 | Sandra Safford |
 | 293 | 386 | Vic |
-| 294 | 382 | Matt Dell'Olio |
-| 295 | 382 | Sue Joyce Staats |
+| 294 | 382 | Sue Joyce Staats |
+| 295 | 382 | Matt Dell'Olio |
 | 296 | 381 | Cool Gridzone |
 | 297 | 380 | Chaz |
 | 298 | 380 | Holly Jolly |
@@ -317,14 +317,14 @@
 | 309 | 366 | Ak Jones |
 | 310 | 364 | Lora |
 | 311 | 362 | Nubian1 |
-| 312 | 359 | Allen Lloyd |
-| 313 | 359 | Sho Nuff |
-| 314 | 359 | Holly |
-| 315 | 354 | @ |
-| 316 | 354 | Perky Piecegrid |
+| 312 | 359 | Sho Nuff |
+| 313 | 359 | Holly |
+| 314 | 359 | Allen Lloyd |
+| 315 | 354 | Perky Piecegrid |
+| 316 | 354 | @ |
 | 317 | 352 | Kate |
-| 318 | 351 | Dana Scott |
-| 319 | 351 | Jackie Clark |
+| 318 | 351 | Jackie Clark |
+| 319 | 351 | Dana Scott |
 | 320 | 350 | Dizzy Matchzone |
 | 321 | 349 | Richard-April Kice |
 | 322 | 349 | jim |
@@ -510,8 +510,8 @@
 | 502 | 242 | Badatvs |
 | 503 | 242 | PurpleMoonMa |
 | 504 | 241 | Katherine Crane |
-| 505 | 240 | Zany Shatterer |
-| 506 | 240 | Orchislactea |
+| 505 | 240 | Orchislactea |
+| 506 | 240 | Zany Shatterer |
 | 507 | 239 | Christina Nabrizny |
 | 508 | 239 | Krash |
 | 509 | 238 | 中山成巳 |
@@ -553,7 +553,7 @@
 | 545 | 227 | 2slo |
 | 546 | 224 | Shirl |
 | 547 | 224 | Christine Simmons |
-| 548 | 224 | Vanessa Smart |
+| 548 | 224 | Quirky Dash |
 | 549 | 224 | Neil Ingham |
 | 550 | 224 | Vanessa Smart |
 | 551 | 223 | Funky Risepiece |
@@ -590,8 +590,8 @@
 | 582 | 214 | Susan R. Wilson |
 | 583 | 213 | Derick |
 | 584 | 213 | Frank Joseph Epson |
-| 585 | 212 | Undeniable Williams |
-| 586 | 212 | Karen Lambert |
+| 585 | 212 | Karen Lambert |
+| 586 | 212 | Undeniable Williams |
 | 587 | 211 | Sunny Filler |
 | 588 | 210 | Wacky Blockclear |
 | 589 | 209 | Bumpy Morris |

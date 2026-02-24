@@ -139,13 +139,13 @@
 | 131 | 666 | Virginia Gray Floyd |
 | 132 | 652 | Evie Khalil |
 | 133 | 651 | Dandy Basegrid |
-| 134 | 650 | Bob |
-| 135 | 650 | April Carroll |
+| 134 | 650 | April Carroll |
+| 135 | 650 | Bob |
 | 136 | 647 | Theo Pinnow |
 | 137 | 643 | Erin Rosberg |
 | 138 | 642 | Mario Cab |
-| 139 | 629 | Death |
-| 140 | 629 | Tanya Carpenter-Reynolds |
+| 139 | 629 | Tanya Carpenter-Reynolds |
+| 140 | 629 | Death |
 | 141 | 628 | Trina Gee |
 | 142 | 628 | femmefatale |
 | 143 | 626 | Damon J. Martin |
@@ -199,9 +199,9 @@
 | 191 | 511 | MomMom |
 | 192 | 510 | Rat666 |
 | 193 | 501 | Jessica Russell |
-| 194 | 497 | MIKOZ |
-| 195 | 497 | Daring Fitclear |
-| 196 | 497 | Steve Schneider |
+| 194 | 497 | Daring Fitclear |
+| 195 | 497 | Steve Schneider |
+| 196 | 497 | MIKOZ |
 | 197 | 496 | Sarah Somers Gray |
 | 198 | 495 | Connie |
 | 199 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
@@ -220,8 +220,8 @@
 | 212 | 475 | Reesey Enyart |
 | 213 | 470 | Candy Jones |
 | 214 | 467 | Howdi Duty |
-| 215 | 467 | Witty Builderfit |
-| 216 | 467 | Brian Spotts |
+| 215 | 467 | Brian Spotts |
+| 216 | 467 | Witty Builderfit |
 | 217 | 466 | Lori Bales |
 | 218 | 460 | Sam Williams |
 | 219 | 458 | Goose egg |
@@ -272,8 +272,8 @@
 | 264 | 403 | Jen Nystrom |
 | 265 | 403 | Alenoush Karimian |
 | 266 | 399 | Lakeisha Chapman |
-| 267 | 398 | MommaKFC |
-| 268 | 398 | Cece Ibarra |
+| 267 | 398 | Cece Ibarra |
+| 268 | 398 | MommaKFC |
 | 269 | 396 | Sarahdactyl |
 | 270 | 394 | Lynn Adams |
 | 271 | 394 | Nick R Montague |
@@ -529,8 +529,8 @@
 | 521 | 246 | ken |
 | 522 | 246 | Frothy Blockbuilder |
 | 523 | 245 | Theeranart Mahawan |
-| 524 | 244 | Kristen Meehan Wangerien |
-| 525 | 244 | Mrsbigdawg |
+| 524 | 244 | Mrsbigdawg |
+| 525 | 244 | Kristen Meehan Wangerien |
 | 526 | 243 | Gerald Richard Franke |
 | 527 | 242 | Pauline Cortez |
 | 528 | 242 | Joshua Weeder |
@@ -539,8 +539,8 @@
 | 531 | 241 | Abbey Crespo |
 | 532 | 240 | Brendan Sullivan |
 | 533 | 240 | Jumpy Rotate |
-| 534 | 239 | Tipsy Tiltpiece |
-| 535 | 239 | Jennifer Corrado |
+| 534 | 239 | Jennifer Corrado |
+| 535 | 239 | Tipsy Tiltpiece |
 | 536 | 238 | Lush Zoney |
 | 537 | 238 | ash |
 | 538 | 237 | Brad MG |

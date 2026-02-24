@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Amanda L Baker |
-| 107 | 1282 | Peppy Shifter |
+| 106 | 1282 | Peppy Shifter |
+| 107 | 1282 | Amanda L Baker |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -168,8 +168,8 @@
 | 160 | 928 | Edwin Calvillo Jr. |
 | 161 | 925 | Cherry Parker |
 | 162 | 914 | BadManSheLove |
-| 163 | 910 | opf |
-| 164 | 910 | Staci George Fitzsimmons |
+| 163 | 910 | Staci George Fitzsimmons |
+| 164 | 910 | opf |
 | 165 | 906 | Patti Skiles |
 | 166 | 899 | Jaime Monhaut-Reed |
 | 167 | 894 | Denita Mungro |
@@ -234,8 +234,8 @@
 | 226 | 719 | Brandon Givens |
 | 227 | 714 | Jenny Hrndz |
 | 228 | 713 | Stephanie Blkpep Davidson |
-| 229 | 709 | Christine Niles |
-| 230 | 709 | Cynthia Castros-Hampton |
+| 229 | 709 | Cynthia Castros-Hampton |
+| 230 | 709 | Christine Niles |
 | 231 | 708 | Stephanie Bradley |
 | 232 | 707 | Snappy Balancer |
 | 233 | 704 | Betty Bóò |
@@ -296,23 +296,23 @@
 | 288 | 578 | James Mitchell |
 | 289 | 572 | Tessina Dewey-Mancino |
 | 290 | 570 | thekey |
-| 291 | 569 | Gray Hicks |
-| 292 | 569 | Silly Twist |
+| 291 | 569 | Silly Twist |
+| 292 | 569 | Gray Hicks |
 | 293 | 567 | Stephanie Burtin |
-| 294 | 566 | Eileen Brady Thurber |
-| 295 | 566 | Tyler Shoff |
+| 294 | 566 | Tyler Shoff |
+| 295 | 566 | Eileen Brady Thurber |
 | 296 | 562 | Dave Herzog |
 | 297 | 561 | Chauntee Alfrey-Cardinale |
 | 298 | 556 | Shiny Zonebuilder |
 | 299 | 555 | Danielle Weikel |
 | 300 | 552 | Scott Carleton |
-| 301 | 548 | Chris Bell |
-| 302 | 548 | Shannon Matthew Byers |
+| 301 | 548 | Shannon Matthew Byers |
+| 302 | 548 | Chris Bell |
 | 303 | 547 | Aerian Preston |
 | 304 | 542 | France Vézina |
 | 305 | 541 | Mcathen |
-| 306 | 540 | Tanya Kittrell |
-| 307 | 540 | rosy |
+| 306 | 540 | rosy |
+| 307 | 540 | Tanya Kittrell |
 | 308 | 539 | Fancy Curver |
 | 309 | 539 | Kate M. Murdock |
 | 310 | 538 | Chummy Caster |
@@ -359,16 +359,16 @@
 | 351 | 471 | Mendoza Lee Christy |
 | 352 | 468 | Bigmack |
 | 353 | 467 | Danielle Rhoades |
-| 354 | 465 | Noettín Kan Zasnemoore |
-| 355 | 465 | Blocked |
+| 354 | 465 | Blocked |
+| 355 | 465 | Noettín Kan Zasnemoore |
 | 356 | 464 | Snazzy Filler |
 | 357 | 464 | Snippy Wipeout |
 | 358 | 463 | Hoài Quắt |
-| 359 | 461 | Breanna Marsden |
-| 360 | 461 | Hyper Bridger |
+| 359 | 461 | Hyper Bridger |
+| 360 | 461 | Breanna Marsden |
 | 361 | 461 | Briana Wellman |
-| 362 | 460 | Hasty Gridpiece |
-| 363 | 460 | Antonia Russell |
+| 362 | 460 | Antonia Russell |
+| 363 | 460 | Hasty Gridpiece |
 | 364 | 459 | Randy Clevenger |
 | 365 | 456 | RickyG |
 | 366 | 456 | Kelly |
@@ -484,8 +484,8 @@
 | 476 | 360 | Alexi Pryor |
 | 477 | 360 | Cathy Leger |
 | 478 | 359 | Kathleen Taylor |
-| 479 | 358 | Beejangles |
-| 480 | 358 | Taylor Culver |
+| 479 | 358 | Taylor Culver |
+| 480 | 358 | Beejangles |
 | 481 | 358 | Hyper Twisterfit |
 | 482 | 357 | Danetta McCadden |
 | 483 | 356 | Trice Sodames |
@@ -629,8 +629,8 @@
 | 621 | 302 | Jessica |
 | 622 | 302 | Nicholas Roddy |
 | 623 | 300 | Bdhdj |
-| 624 | 299 | Angie Harper |
-| 625 | 299 | Six |
+| 624 | 299 | Six |
+| 625 | 299 | Angie Harper |
 | 626 | 297 | Kevin Fountain |
 | 627 | 297 | Peachy Tower |
 | 628 | 297 | Cameo Tweed |
@@ -793,7 +793,7 @@
 | 785 | 248 | Amie Hendrickson |
 | 786 | 247 | Melanie Sherwood |
 | 787 | 247 | Barbara Bennett |
-| 788 | 247 | Melanie Sherwood |
+| 788 | 247 | Jennifer Evans |
 | 789 | 247 | Taylor |
 | 790 | 246 | Erica Anderson |
 | 791 | 246 | Quteeonduty |
