@@ -267,8 +267,8 @@
 | 259 | 598 | Kaycee Kay |
 | 260 | 594 | Cozy Snaplink |
 | 261 | 588 | Salena Whitlock |
-| 262 | 586 | Donna |
-| 263 | 586 | Brian Battjes |
+| 262 | 586 | Brian Battjes |
+| 263 | 586 | Donna |
 | 264 | 582 | FuzzyNavel |
 | 265 | 578 | James Mitchell |
 | 266 | 574 | Danielle Balcom |
@@ -303,10 +303,10 @@
 | 295 | 535 | kacihall |
 | 296 | 533 | BugMansMom |
 | 297 | 532 | Sarah Muradyan |
-| 298 | 530 | KayB |
-| 299 | 530 | Rynne Ellis |
-| 300 | 527 | Heather Davis |
-| 301 | 527 | Dapper Snap |
+| 298 | 530 | Rynne Ellis |
+| 299 | 530 | KayB |
+| 300 | 527 | Dapper Snap |
+| 301 | 527 | Heather Davis |
 | 302 | 527 | Chummy Caster |
 | 303 | 523 | Ktfreeee |
 | 304 | 518 | Marquita Sheard |
@@ -360,10 +360,10 @@
 | 352 | 450 | Luciana Braganca Vieira |
 | 353 | 450 | Stefanie LaPointe |
 | 354 | 449 | Lively Caster |
-| 355 | 447 | Carrie Huskey |
-| 356 | 447 | Num1hater |
-| 357 | 446 | Shiny Zonebuilder |
-| 358 | 446 | Jennifer Alvey |
+| 355 | 447 | Num1hater |
+| 356 | 447 | Carrie Huskey |
+| 357 | 446 | Jennifer Alvey |
+| 358 | 446 | Shiny Zonebuilder |
 | 359 | 445 | Loopy Clusterer |
 | 360 | 444 | Heather De Vries Cobb |
 | 361 | 443 | Christian Werndl |

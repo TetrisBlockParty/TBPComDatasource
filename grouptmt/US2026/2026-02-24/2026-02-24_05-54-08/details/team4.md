@@ -340,8 +340,8 @@
 | 332 | 324 | Vic |
 | 333 | 324 | Sarah Hoffman |
 | 334 | 322 | Bryan Hodgins |
-| 335 | 321 | Sarah Brown |
-| 336 | 321 | Stacey Stano |
+| 335 | 321 | Stacey Stano |
+| 336 | 321 | Sarah Brown |
 | 337 | 320 | O block |
 | 338 | 319 | Michelle Morris |
 | 339 | 318 | Hyper Matchclear |

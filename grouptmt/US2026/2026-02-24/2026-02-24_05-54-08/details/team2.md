@@ -404,8 +404,8 @@
 | 396 | 1116 | Wakanda Forever |
 | 397 | 1116 | Belle |
 | 398 | 1110 | Nadia Batista Garcia |
-| 399 | 1109 | Melissa McCall |
-| 400 | 1109 | BYM4L |
+| 399 | 1109 | BYM4L |
+| 400 | 1109 | Melissa McCall |
 | 401 | 1105 | Nerdy Clearfit |
 | 402 | 1104 | Kimberly Hope Howell |
 | 403 | 1099 | Loony Snapper |
@@ -625,8 +625,8 @@
 | 617 | 793 | Heather Anspaugh |
 | 618 | 792 | Beatboxxer |
 | 619 | 789 | De'Jah Charncey |
-| 620 | 786 | Charvi' Carter |
-| 621 | 786 | tejas25 |
+| 620 | 786 | tejas25 |
+| 621 | 786 | Charvi' Carter |
 | 622 | 786 | Ashe Corso |
 | 623 | 785 | Daniel Amos |
 | 624 | 783 | Shiny Twistfit |
