@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 16:24:45 UTC
+# Standings for team1 as of 2026-02-24 16:25:22 UTC
 
 **Total Participants:** 2274
 
@@ -37,7 +37,7 @@
 | 29 | 1814 | Roger Aschbrenner |
 | 30 | 1803 | Hyp James NObettadanluvarat |
 | 31 | 1754 | Christina Graham |
-| 32 | 1729 | Amanda Summey Schoemer |
+| 32 | 1732 | Amanda Summey Schoemer |
 | 33 | 1705 | Jennifer Cates |
 | 34 | 1703 | Bhelle Sumile |
 | 35 | 1631 | Rahna Underwood |
@@ -545,17 +545,17 @@
 | 537 | 250 | Brian Ash |
 | 538 | 249 | Sassy Towerer |
 | 539 | 248 | Liliana Pena |
-| 540 | 248 | Divaaa |
-| 541 | 248 | Carl Claunch |
+| 540 | 248 | Pauline Cortez |
+| 541 | 248 | Divaaa |
 | 542 | 248 | Shiny Rotate |
-| 543 | 247 | Chilly Riserpiece |
-| 544 | 247 | Colleen Wise |
-| 545 | 247 | Nate Carter |
-| 546 | 246 | ken |
-| 547 | 246 | Frothy Blockbuilder |
-| 548 | 246 | Pauline Cortez |
-| 549 | 244 | Kristen Meehan Wangerien |
-| 550 | 244 | Jennifer Corrado |
+| 543 | 248 | Carl Claunch |
+| 544 | 247 | Chilly Riserpiece |
+| 545 | 247 | Colleen Wise |
+| 546 | 247 | Nate Carter |
+| 547 | 246 | ken |
+| 548 | 246 | Frothy Blockbuilder |
+| 549 | 244 | Jennifer Corrado |
+| 550 | 244 | Kristen Meehan Wangerien |
 | 551 | 244 | Mrsbigdawg |
 | 552 | 243 | Gerald Richard Franke |
 | 553 | 242 | Stephanie Leday |
@@ -980,39 +980,39 @@
 | 972 | 126 | Chenea Frazier |
 | 973 | 126 | Linda Williams |
 | 974 | 126 | Peachy Cascader |
-| 975 | 125 | Amyinahs |
-| 976 | 125 | Penelope |
-| 977 | 125 | Bold Glide |
-| 978 | 125 | David Hernandez |
-| 979 | 125 | Dawn Henderson |
+| 975 | 125 | Dawn Henderson |
+| 976 | 125 | Lively Buildout |
+| 977 | 125 | Shanna Outen |
+| 978 | 125 | Phredda Compton |
+| 979 | 125 | Anthony T. Fults |
 | 980 | 125 | Carol Zimmer Smith |
-| 981 | 125 | Anthony T. Fults |
-| 982 | 125 | Phredda Compton |
-| 983 | 125 | Lively Buildout |
-| 984 | 125 | Shanna Outen |
-| 985 | 124 | Giddy Balancepiece |
-| 986 | 124 | Anthony Coombs |
-| 987 | 124 | Riley Chance |
-| 988 | 124 | Bank |
+| 981 | 125 | Bold Glide |
+| 982 | 125 | David Hernandez |
+| 983 | 125 | Loony Bridgepiece |
+| 984 | 125 | Penelope |
+| 985 | 125 | Amyinahs |
+| 986 | 124 | Giddy Balancepiece |
+| 987 | 124 | Bank |
+| 988 | 124 | Riley Chance |
 | 989 | 124 | Frilly Fitblock |
-| 990 | 124 | Kelly Sutton |
-| 991 | 124 | Heather Wilson |
-| 992 | 123 | Dayna Arthurs |
+| 990 | 124 | Anthony Coombs |
+| 991 | 124 | Kelly Sutton |
+| 992 | 124 | Heather Wilson |
 | 993 | 123 | Christy Allen |
 | 994 | 123 | Spunky Line |
-| 995 | 123 | Crystal Raffaele |
+| 995 | 123 | Rita Sunshyne |
 | 996 | 123 | Megan Meyers |
-| 997 | 123 | Rita Sunshyne |
+| 997 | 123 | Chirpy Liner |
 | 998 | 123 | Tawnya Marciniak |
-| 999 | 123 | Chirpy Liner |
-| 1000 | 122 | Plucky Tetrisline |
-| 1001 | 122 | Theresa Nicole |
+| 999 | 123 | Crystal Raffaele |
+| 1000 | 123 | Dayna Arthurs |
+| 1001 | 122 | Daniel R Morgan |
 | 1002 | 122 | Kiersten Frasier |
-| 1003 | 122 | Daniel R Morgan |
-| 1004 | 121 | Ja Ce |
+| 1003 | 122 | Plucky Tetrisline |
+| 1004 | 122 | Theresa Nicole |
 | 1005 | 121 | Malaka |
-| 1006 | 121 | Loony Bridgepiece |
-| 1007 | 121 | Crystal Cardenas |
+| 1006 | 121 | Crystal Cardenas |
+| 1007 | 121 | Ja Ce |
 | 1008 | 121 | Amber Nixon |
 | 1009 | 121 | Lashá Calloway |
 | 1010 | 121 | Smacked |
