@@ -116,8 +116,8 @@
 | 108 | 791 | Greg Hart |
 | 109 | 782 | Karin Gillen |
 | 110 | 781 | Ash Galvan |
-| 111 | 773 | Susanna Guerry |
-| 112 | 773 | Cartier |
+| 111 | 773 | Cartier |
+| 112 | 773 | Susanna Guerry |
 | 113 | 772 | Kathy Langham |
 | 114 | 770 | Zappy Curvetile |
 | 115 | 768 | Jazzy Framezone |
@@ -422,7 +422,7 @@
 | 414 | 296 | GentleKitten7 |
 | 415 | 296 | Lisa Reynolds Adair |
 | 416 | 296 | Shaykmia |
-| 417 | 296 | Lisa Reynolds Adair |
+| 417 | 296 | Jeanna Dunn |
 | 418 | 293 | Sunny Pivotfall |
 | 419 | 292 | Clever Cascadepiece |
 | 420 | 292 | Mark Smith |
@@ -432,8 +432,8 @@
 | 424 | 291 | Danielle Mae |
 | 425 | 290 | Brave Slice |
 | 426 | 290 | Nate Funk |
-| 427 | 289 | Snappy Bridgepiece |
-| 428 | 289 | Camelia Trevillion |
+| 427 | 289 | Camelia Trevillion |
+| 428 | 289 | Snappy Bridgepiece |
 | 429 | 288 | Anita Jack |
 | 430 | 287 | Madbull |
 | 431 | 287 | Blaire Bruckoff |

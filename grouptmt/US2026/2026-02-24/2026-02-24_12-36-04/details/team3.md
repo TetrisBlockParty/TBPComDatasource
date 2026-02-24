@@ -111,8 +111,8 @@
 | 103 | 1311 | JerseyJess |
 | 104 | 1309 | yoyo |
 | 105 | 1297 | Shelby Michelle |
-| 106 | 1282 | Amanda L Baker |
-| 107 | 1282 | Peppy Shifter |
+| 106 | 1282 | Peppy Shifter |
+| 107 | 1282 | Amanda L Baker |
 | 108 | 1280 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -127,8 +127,8 @@
 | 119 | 1152 | Julian Murphy |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Groovy Catcher |
-| 123 | 1114 | Loopy Fallmatch |
+| 122 | 1114 | Loopy Fallmatch |
+| 123 | 1114 | Groovy Catcher |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1101 | Valerie Gendron |
 | 126 | 1101 | Rachel |
@@ -244,8 +244,8 @@
 | 236 | 707 | Snappy Balancer |
 | 237 | 705 | Jackie Miller |
 | 238 | 703 | Rachael McClain Owens |
-| 239 | 693 | lashanda |
-| 240 | 693 | Tamara Deherrera |
+| 239 | 693 | Tamara Deherrera |
+| 240 | 693 | lashanda |
 | 241 | 691 | Tia |
 | 242 | 687 | joz |
 | 243 | 680 | Terry Jo Jones |
@@ -438,12 +438,12 @@
 | 430 | 398 | Breezy Roll |
 | 431 | 397 | Kevin Russell |
 | 432 | 396 | gremicx |
-| 433 | 396 | Rebel124 |
-| 434 | 396 | Steven Fulater |
-| 435 | 395 | Carrie Resler |
-| 436 | 394 | Jalissa Monique |
-| 437 | 392 | Linda Draper |
-| 438 | 391 | Ashley Lynn Marchese |
+| 433 | 396 | Steven Fulater |
+| 434 | 395 | Carrie Resler |
+| 435 | 394 | Jalissa Monique |
+| 436 | 392 | Linda Draper |
+| 437 | 391 | Ashley Lynn Marchese |
+| 438 | 391 | Rebel124 |
 | 439 | 390 | ROODBOY |
 | 440 | 389 | Amanda J. Mcneil-Anderson |
 | 441 | 389 | Kirhonda Autmon |
@@ -495,8 +495,8 @@
 | 487 | 356 | Nikkie Bucciano |
 | 488 | 356 | Jimmie Clemons |
 | 489 | 354 | Norma JulieMay |
-| 490 | 353 | Cheeky Snapper |
-| 491 | 353 | Erika Apodaca |
+| 490 | 353 | Erika Apodaca |
+| 491 | 353 | Cheeky Snapper |
 | 492 | 353 | Eboni G. |
 | 493 | 352 | LadyTorad |
 | 494 | 352 | Scott Doss |
