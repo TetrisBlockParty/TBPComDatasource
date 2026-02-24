@@ -133,8 +133,8 @@
 | 125 | 726 | Amy Suckarieh |
 | 126 | 726 | Jamie Gustafson |
 | 127 | 725 | Brandon Crabbs |
-| 128 | 712 | H.R. Block |
-| 129 | 712 | Leslie Nicole |
+| 128 | 712 | Leslie Nicole |
+| 129 | 712 | H.R. Block |
 | 130 | 708 | Jacqueline Helm |
 | 131 | 704 | Chilly Crasher |
 | 132 | 704 | Austin Owens |
@@ -247,27 +247,27 @@
 | 239 | 444 | Selena Shaw |
 | 240 | 442 | John Brunetti |
 | 241 | 441 | Lush Linkfall |
-| 242 | 438 | 23 |
-| 243 | 438 | Melvin Baird |
+| 242 | 438 | Melvin Baird |
+| 243 | 438 | 23 |
 | 244 | 434 | Ramel Rhodes |
-| 245 | 433 | Damn Libra |
-| 246 | 433 | Circuit8 |
-| 247 | 432 | Plucky Patternblock |
-| 248 | 432 | scott |
+| 245 | 433 | Circuit8 |
+| 246 | 433 | Damn Libra |
+| 247 | 432 | scott |
+| 248 | 432 | Plucky Patternblock |
 | 249 | 430 | Chris Bernstein |
-| 250 | 427 | Cheery Risebuilder |
-| 251 | 427 | Chao Ma |
+| 250 | 427 | Chao Ma |
+| 251 | 427 | Cheery Risebuilder |
 | 252 | 424 | Andrew Dang |
-| 253 | 421 | JIGsaw ~(•¿°)~ |
-| 254 | 421 | Brickh4us |
+| 253 | 421 | Brickh4us |
+| 254 | 421 | JIGsaw ~(•¿°)~ |
 | 255 | 420 | Jeff Brian Gates |
 | 256 | 419 | Gdiguy |
 | 257 | 413 | Rio Rocha |
-| 258 | 411 | TinyLegoRose |
-| 259 | 411 | Autumn Kumzi |
+| 258 | 411 | Autumn Kumzi |
+| 259 | 411 | TinyLegoRose |
 | 260 | 410 | Lindsay Ball |
-| 261 | 409 | Bio Nelly |
-| 262 | 409 | Antony Dwayne Beasley |
+| 261 | 409 | Antony Dwayne Beasley |
+| 262 | 409 | Bio Nelly |
 | 263 | 409 | Joseph Guthrie |
 | 264 | 408 | Lauren Scott |
 | 265 | 408 | Dihcheese444 |
@@ -286,8 +286,8 @@
 | 278 | 390 | Ari Droff |
 | 279 | 384 | Nikki Rae Gordon |
 | 280 | 382 | Sue Joyce Staats |
-| 281 | 380 | Jen Caldwell |
-| 282 | 380 | Holly Jolly |
+| 281 | 380 | Holly Jolly |
+| 282 | 380 | Jen Caldwell |
 | 283 | 380 | Chaz |
 | 284 | 379 | Backoff Recupe |
 | 285 | 378 | Mary Ann Pabukis |
@@ -304,8 +304,8 @@
 | 296 | 365 | David Lay |
 | 297 | 364 | Lora |
 | 298 | 360 | Lee Silpe |
-| 299 | 359 | Holly |
-| 300 | 359 | Allen Lloyd |
+| 299 | 359 | Allen Lloyd |
+| 300 | 359 | Holly |
 | 301 | 359 | KimoKoala |
 | 302 | 356 | Hyper Matchclear |
 | 303 | 354 | @ |
@@ -392,8 +392,8 @@
 | 384 | 294 | Kevin Bush |
 | 385 | 292 | Jumpy Zonepiece |
 | 386 | 292 | Epic Curvetile |
-| 387 | 291 | DQ Martin |
-| 388 | 291 | Ronald Brown Jr. |
+| 387 | 291 | Ronald Brown Jr. |
+| 388 | 291 | DQ Martin |
 | 389 | 290 | Amy Sanford |
 | 390 | 290 | Jared Gutwein |
 | 391 | 289 | Brave Spinbuilder |
