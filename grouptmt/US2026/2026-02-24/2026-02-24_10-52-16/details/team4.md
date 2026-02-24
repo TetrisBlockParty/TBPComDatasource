@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Shane Kalamata Platoon |
-| 47 | 1461 | Yoset Mejia |
+| 46 | 1461 | Yoset Mejia |
+| 47 | 1461 | Shane Kalamata Platoon |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -80,8 +80,8 @@
 | 72 | 1080 | Chilly Line |
 | 73 | 1069 | Heather Tushner |
 | 74 | 1056 | Keith Kelley |
-| 75 | 1046 | Johnathan Martinez |
-| 76 | 1046 | Anthony Bryan Riva |
+| 75 | 1046 | Anthony Bryan Riva |
+| 76 | 1046 | Johnathan Martinez |
 | 77 | 1031 | LisaJo Picken Buchanan |
 | 78 | 1028 | TeeJ |
 | 79 | 1024 | Valerie Roberts |
@@ -112,13 +112,13 @@
 | 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
-| 107 | 813 | Klo |
-| 108 | 813 | Amy Suckarieh |
+| 107 | 813 | Amy Suckarieh |
+| 108 | 813 | Klo |
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Crystal Carroll |
-| 113 | 802 | Denise Carlson |
+| 112 | 802 | Denise Carlson |
+| 113 | 802 | Crystal Carroll |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -157,8 +157,8 @@
 | 149 | 638 | Porkobello |
 | 150 | 635 | Kim Hunt |
 | 151 | 634 | Carrie Brian |
-| 152 | 633 | Adam Stephanie Parker |
-| 153 | 633 | Jessica Lynn Cutlip |
+| 152 | 633 | Jessica Lynn Cutlip |
+| 153 | 633 | Adam Stephanie Parker |
 | 154 | 629 | Chris Baggett |
 | 155 | 623 | ku5hkween |
 | 156 | 622 | Ernest Maxwell |
@@ -185,8 +185,8 @@
 | 177 | 561 | Steph Marie |
 | 178 | 558 | Marie-Pier Desjardins |
 | 179 | 555 | Lori |
-| 180 | 552 | Circuit8 |
-| 181 | 552 | Angel Raya |
+| 180 | 552 | Angel Raya |
+| 181 | 552 | Circuit8 |
 | 182 | 550 | James Hurley Jr. |
 | 183 | 549 | Cool Towerbuilder |
 | 184 | 546 | Dizzy Tiley |
@@ -196,8 +196,8 @@
 | 188 | 536 | JPW |
 | 189 | 535 | Berklie Apedaile |
 | 190 | 534 | Lucas J Sutton |
-| 191 | 532 | Matt Summer |
-| 192 | 532 | Carly Alexis |
+| 191 | 532 | Carly Alexis |
+| 192 | 532 | Matt Summer |
 | 193 | 532 | Alan George LaRage |
 | 194 | 528 | Erin Sabol |
 | 195 | 525 | Crystal Lynn |
@@ -218,8 +218,8 @@
 | 210 | 502 | Ericca Eldridge |
 | 211 | 502 | Christina Black |
 | 212 | 501 | Sharyn Lemire |
-| 213 | 499 | Kesha Brady |
-| 214 | 499 | DonMega |
+| 213 | 499 | DonMega |
+| 214 | 499 | Kesha Brady |
 | 215 | 497 | Damn Libra |
 | 216 | 496 | Jessica Bohlken |
 | 217 | 495 | Joeliecea Cobb |
@@ -242,11 +242,11 @@
 | 234 | 460 | Kathy Brookins |
 | 235 | 458 | Kristina Black |
 | 236 | 458 | Luis Martinez |
-| 237 | 457 | J-Rizzle |
-| 238 | 457 | Kristin Manee |
+| 237 | 457 | Kristin Manee |
+| 238 | 457 | J-Rizzle |
 | 239 | 455 | Michele Plunkett |
-| 240 | 454 | Keshia Lyons |
-| 241 | 454 | David Lay |
+| 240 | 454 | David Lay |
+| 241 | 454 | Keshia Lyons |
 | 242 | 450 | Genne Scott |
 | 243 | 449 | Danielle Kollias |
 | 244 | 448 | Mr. Party |
@@ -287,14 +287,14 @@
 | 279 | 399 | Brittany Little |
 | 280 | 398 | Tyler Terrific |
 | 281 | 397 | blockstar |
-| 282 | 395 | Denise B |
-| 283 | 395 | BigSammy420 |
+| 282 | 395 | BigSammy420 |
+| 283 | 395 | Denise B |
 | 284 | 394 | Nikki Rae Gordon |
 | 285 | 393 | Montiette Mcglown |
 | 286 | 392 | Neirrah B Olailjeel |
 | 287 | 390 | Ari Droff |
-| 288 | 387 | Backoff Recupe |
-| 289 | 387 | Sandra Safford |
+| 288 | 387 | Sandra Safford |
+| 289 | 387 | Backoff Recupe |
 | 290 | 386 | Vic |
 | 291 | 382 | Sue Joyce Staats |
 | 292 | 380 | Holly Jolly |
@@ -318,8 +318,8 @@
 | 310 | 362 | Nubian1 |
 | 311 | 359 | Allen Lloyd |
 | 312 | 359 | Holly |
-| 313 | 354 | Perky Piecegrid |
-| 314 | 354 | @ |
+| 313 | 354 | @ |
+| 314 | 354 | Perky Piecegrid |
 | 315 | 352 | Kate |
 | 316 | 351 | Dana Scott |
 | 317 | 351 | Jackie Clark |
@@ -352,8 +352,8 @@
 | 344 | 331 | rebel4lyfe |
 | 345 | 331 | Angie Schmidt |
 | 346 | 330 | Duck |
-| 347 | 329 | Meagan Nicole |
-| 348 | 329 | AyeKay |
+| 347 | 329 | AyeKay |
+| 348 | 329 | Meagan Nicole |
 | 349 | 328 | Heather Bruce |
 | 350 | 328 | Leah Kutz Zirbel |
 | 351 | 327 | Jessica Petersen |
@@ -432,9 +432,9 @@
 | 424 | 279 | Ziggy |
 | 425 | 278 | Shainne Brewer |
 | 426 | 278 | L Bear Champion |
-| 427 | 277 | Jess Reyes |
+| 427 | 277 | Silly SeaWeed |
 | 428 | 277 | Maria Hammie |
-| 429 | 277 | Silly SeaWeed |
+| 429 | 277 | Jess Reyes |
 | 430 | 276 | Dennis Bradley |
 | 431 | 275 | Jarred Falls |
 | 432 | 274 | Cheery Fitline |

@@ -69,8 +69,8 @@
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
-| 64 | 1824 | Jessica Ann |
-| 65 | 1824 | Nate Burnside |
+| 64 | 1824 | Nate Burnside |
+| 65 | 1824 | Jessica Ann |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
 | 68 | 1774 | Liv Whetson |
@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Marcie Bressler |
-| 79 | 1566 | Nerdy Riseclear |
+| 78 | 1566 | Nerdy Riseclear |
+| 79 | 1566 | Marcie Bressler |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Amanda L Baker |
-| 107 | 1282 | Peppy Shifter |
+| 106 | 1282 | Peppy Shifter |
+| 107 | 1282 | Amanda L Baker |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -199,8 +199,8 @@
 | 191 | 815 | Justin Ritter |
 | 192 | 813 | JessDrown |
 | 193 | 808 | Raya |
-| 194 | 804 | Alaina Lee |
-| 195 | 804 | Gideon Walker |
+| 194 | 804 | Gideon Walker |
+| 195 | 804 | Alaina Lee |
 | 196 | 800 | Lauren Girouard |
 | 197 | 799 | Trisha Balmer |
 | 198 | 792 | Rachel Grant |
@@ -280,8 +280,8 @@
 | 272 | 609 | Connie Mohler-Fair |
 | 273 | 608 | Noyb Adam |
 | 274 | 605 | Sarah Cowan Burgos |
-| 275 | 604 | Sherry Ogden |
-| 276 | 604 | Bmo |
+| 275 | 604 | Bmo |
+| 276 | 604 | Sherry Ogden |
 | 277 | 600 | Natasha Jones |
 | 278 | 594 | Cozy Snaplink |
 | 279 | 592 | Rachael McClain Owens |
@@ -324,8 +324,8 @@
 | 316 | 523 | Ktfreeee |
 | 317 | 518 | Marquita Sheard |
 | 318 | 514 | Nikki White |
-| 319 | 506 | Ammmmmmy |
-| 320 | 506 | Tiffanie Alley |
+| 319 | 506 | Tiffanie Alley |
+| 320 | 506 | Ammmmmmy |
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
@@ -343,10 +343,10 @@
 | 335 | 486 | Sleepy |
 | 336 | 485 | Charles Perrone |
 | 337 | 483 | Tegan Chapman |
-| 338 | 482 | Travis W |
-| 339 | 482 | Chummy Rumbler |
-| 340 | 480 | TLM |
-| 341 | 480 | Dee Franklin |
+| 338 | 482 | Chummy Rumbler |
+| 339 | 482 | Travis W |
+| 340 | 480 | Dee Franklin |
+| 341 | 480 | TLM |
 | 342 | 476 | Shunta Jacobs |
 | 343 | 476 | Stefanie LaPointe |
 | 344 | 474 | Troy |
@@ -434,8 +434,8 @@
 | 426 | 391 | gremicx |
 | 427 | 391 | Rebel124 |
 | 428 | 390 | ROODBOY |
-| 429 | 389 | Amanda J. Mcneil-Anderson |
-| 430 | 389 | Kirhonda Autmon |
+| 429 | 389 | Kirhonda Autmon |
+| 430 | 389 | Amanda J. Mcneil-Anderson |
 | 431 | 387 | Brittany K Ward |
 | 432 | 386 | Geoffrey Nash |
 | 433 | 385 | Breanna Marsden |
@@ -548,7 +548,7 @@
 | 540 | 327 | Jess Bissett |
 | 541 | 326 | Natalie Augustus |
 | 542 | 326 | Beppy |
-| 543 | 326 | Natalie Augustus |
+| 543 | 326 | Eric Caccavale |
 | 544 | 324 | Paul Daniel Quertermous |
 | 545 | 323 | Carla Hoffman |
 | 546 | 323 | Jolly Brick |
@@ -557,7 +557,7 @@
 | 549 | 323 | Moimyzean |
 | 550 | 322 | Chenoa Urban Sophicated Redy |
 | 551 | 322 | Beth Smith |
-| 552 | 321 | Kristian Thurman |
+| 552 | 321 | Stephanie Sanchez |
 | 553 | 321 | Amber Groover Taylor |
 | 554 | 321 | Mikki Torres |
 | 555 | 321 | Dapper Chiseler |
