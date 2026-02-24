@@ -559,8 +559,8 @@
 | 551 | 925 | blume |
 | 552 | 925 | Cris cris |
 | 553 | 923 | Danielle Simmons |
-| 554 | 923 | Giggy Mover |
-| 555 | 923 | Chevy |
+| 554 | 923 | Chevy |
+| 555 | 923 | Giggy Mover |
 | 556 | 922 | Butta |
 | 557 | 921 | Dannette Goldberg-Richards |
 | 558 | 920 | Arwa Fatimah |
@@ -879,8 +879,8 @@
 | 871 | 662 | Casaundra Little-Abeling |
 | 872 | 662 | Niceday |
 | 873 | 662 | Belle Mari |
-| 874 | 661 | Chab |
-| 875 | 661 | Kristina Marie Hanna |
+| 874 | 661 | Kristina Marie Hanna |
+| 875 | 661 | Chab |
 | 876 | 660 | Jenna Nance |
 | 877 | 660 | Shelva Richard |
 | 878 | 659 | Rain |

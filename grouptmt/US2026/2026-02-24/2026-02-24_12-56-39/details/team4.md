@@ -110,8 +110,8 @@
 | 102 | 840 | SAP |
 | 103 | 838 | Amy Suckarieh |
 | 104 | 837 | Rica Mitchell |
-| 105 | 834 | quicksand420 |
-| 106 | 834 | Brittney Orengo |
+| 105 | 834 | Brittney Orengo |
+| 106 | 834 | quicksand420 |
 | 107 | 818 | Lori Walker |
 | 108 | 813 | Klo |
 | 109 | 811 | Sassy Pattern |
@@ -188,8 +188,8 @@
 | 180 | 561 | Steph Marie |
 | 181 | 558 | Marie-Pier Desjardins |
 | 182 | 556 | Circuit8 |
-| 183 | 552 | Joseph Guthrie |
-| 184 | 552 | Angel Raya |
+| 183 | 552 | Angel Raya |
+| 184 | 552 | Joseph Guthrie |
 | 185 | 550 | James Hurley Jr. |
 | 186 | 549 | Cool Towerbuilder |
 | 187 | 547 | Mimi |
@@ -200,8 +200,8 @@
 | 192 | 536 | JPW |
 | 193 | 534 | Lucas J Sutton |
 | 194 | 532 | Alan George LaRage |
-| 195 | 532 | Matt Summer |
-| 196 | 532 | Carly Alexis |
+| 195 | 532 | Carly Alexis |
+| 196 | 532 | Matt Summer |
 | 197 | 531 | Twisty Clicky |
 | 198 | 528 | Erin Sabol |
 | 199 | 528 | Ellen Durfee |
@@ -300,8 +300,8 @@
 | 292 | 390 | Ari Droff |
 | 293 | 387 | Sandra Safford |
 | 294 | 386 | Vic |
-| 295 | 382 | Matt Dell'Olio |
-| 296 | 382 | Sue Joyce Staats |
+| 295 | 382 | Sue Joyce Staats |
+| 296 | 382 | Matt Dell'Olio |
 | 297 | 381 | Cool Gridzone |
 | 298 | 380 | Chaz |
 | 299 | 380 | Jen Caldwell |

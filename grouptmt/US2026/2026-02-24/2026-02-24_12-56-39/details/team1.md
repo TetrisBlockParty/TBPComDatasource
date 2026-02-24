@@ -144,8 +144,8 @@
 | 136 | 652 | Jessica Sheehan |
 | 137 | 651 | Dandy Basegrid |
 | 138 | 651 | Death |
-| 139 | 650 | Bob |
-| 140 | 650 | April Carroll |
+| 139 | 650 | April Carroll |
+| 140 | 650 | Bob |
 | 141 | 648 | Tipsy Riseclear |
 | 142 | 647 | Theo Pinnow |
 | 143 | 636 | Chuck Gannon |
@@ -181,8 +181,8 @@
 | 173 | 552 | Constance Risner |
 | 174 | 551 | Loony Fitzone |
 | 175 | 549 | Jerry Danowski |
-| 176 | 548 | Stephanie Zahn |
-| 177 | 548 | Luciano Moreira |
+| 176 | 548 | Luciano Moreira |
+| 177 | 548 | Stephanie Zahn |
 | 178 | 547 | Sharon Reynolds |
 | 179 | 545 | .running. |
 | 180 | 544 | Sean Stallings |
@@ -370,8 +370,8 @@
 | 362 | 331 | Teddy Alexander |
 | 363 | 330 | Rebecca Apley Mielke |
 | 364 | 329 | Sarah Marie |
-| 365 | 327 | Christina Norman |
-| 366 | 327 | Amber Dee |
+| 365 | 327 | Amber Dee |
+| 366 | 327 | Christina Norman |
 | 367 | 326 | Chummy Rollblock |
 | 368 | 325 | GringaLinga |
 | 369 | 325 | Mitchel White |

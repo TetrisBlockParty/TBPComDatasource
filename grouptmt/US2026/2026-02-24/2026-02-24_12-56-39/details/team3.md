@@ -32,8 +32,8 @@
 | 24 | 3221 | Ashley Jones |
 | 25 | 3118 | Jamie Lang |
 | 26 | 3042 | Nerdy Spinblock |
-| 27 | 2933 | Dan Rob |
-| 28 | 2933 | Grego Daniel |
+| 27 | 2933 | Grego Daniel |
+| 28 | 2933 | Dan Rob |
 | 29 | 2874 | Zippy Strikesnap |
 | 30 | 2873 | Chummy Shatterer |
 | 31 | 2816 | Fancy Slam |
@@ -111,8 +111,8 @@
 | 103 | 1311 | JerseyJess |
 | 104 | 1309 | yoyo |
 | 105 | 1297 | Shelby Michelle |
-| 106 | 1282 | Amanda L Baker |
-| 107 | 1282 | Peppy Shifter |
+| 106 | 1282 | Peppy Shifter |
+| 107 | 1282 | Amanda L Baker |
 | 108 | 1280 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1251 | Suzieq |
@@ -340,8 +340,8 @@
 | 332 | 494 | fraulila |
 | 333 | 494 | MCV |
 | 334 | 492 | Tasha Wesson-Torrence |
-| 335 | 490 | Cassandra Bryant |
-| 336 | 490 | TotoCherue |
+| 335 | 490 | TotoCherue |
+| 336 | 490 | Cassandra Bryant |
 | 337 | 489 | Isabel Ocasio |
 | 338 | 488 | Jul |
 | 339 | 487 | MsBee |
@@ -421,8 +421,8 @@
 | 413 | 411 | Beaudie Stroebel |
 | 414 | 411 | Eboni Starr |
 | 415 | 409 | Rich LeBlanc |
-| 416 | 408 | Ashley Muncey |
-| 417 | 408 | Tiffany Ford |
+| 416 | 408 | Tiffany Ford |
+| 417 | 408 | Ashley Muncey |
 | 418 | 407 | Christina Spa |
 | 419 | 406 | Kristen Weese |
 | 420 | 405 | Andrew Thorson |
@@ -445,8 +445,8 @@
 | 437 | 392 | Linda Draper |
 | 438 | 391 | Ashley Lynn Marchese |
 | 439 | 390 | ROODBOY |
-| 440 | 389 | Amanda J. Mcneil-Anderson |
-| 441 | 389 | Kirhonda Autmon |
+| 440 | 389 | Kirhonda Autmon |
+| 441 | 389 | Amanda J. Mcneil-Anderson |
 | 442 | 387 | Brittany K Ward |
 | 443 | 386 | Geoffrey Nash |
 | 444 | 384 | Tiffany Davie |
