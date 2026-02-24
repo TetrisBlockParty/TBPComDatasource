@@ -131,8 +131,8 @@
 | 123 | 642 | Mario Cab |
 | 124 | 635 | Theo Pinnow |
 | 125 | 631 | Carrie Smith |
-| 126 | 629 | Tanya Carpenter-Reynolds |
-| 127 | 629 | Death |
+| 126 | 629 | Death |
+| 127 | 629 | Tanya Carpenter-Reynolds |
 | 128 | 628 | Trina Gee |
 | 129 | 626 | Damon J. Martin |
 | 130 | 623 | Phu ckalldems |
@@ -167,8 +167,8 @@
 | 159 | 543 | Adrian Esteban |
 | 160 | 543 | Tipsy Riseclear |
 | 161 | 540 | Tonya Beasley |
-| 162 | 537 | Stephanie Zahn |
-| 163 | 537 | BadG52 |
+| 162 | 537 | BadG52 |
+| 163 | 537 | Stephanie Zahn |
 | 164 | 535 | Plucky Ziggy |
 | 165 | 533 | .running. |
 | 166 | 528 | ALFD |
@@ -177,8 +177,8 @@
 | 169 | 521 | Teri Oehlke |
 | 170 | 519 | Anaid Sanchez |
 | 171 | 519 | Arianna O'Brien |
-| 172 | 513 | phrmblk24 |
-| 173 | 513 | Colena Davenport |
+| 172 | 513 | Colena Davenport |
+| 173 | 513 | phrmblk24 |
 | 174 | 511 | MomMom |
 | 175 | 510 | Rat666 |
 | 176 | 497 | Steve Schneider |
@@ -191,8 +191,8 @@
 | 183 | 492 | Jennifer Hardman |
 | 184 | 490 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 185 | 489 | Speedy Liney |
-| 186 | 488 | Hyper |
-| 187 | 488 | Ly Phethmany |
+| 186 | 488 | Ly Phethmany |
+| 187 | 488 | Hyper |
 | 188 | 487 | Eric DeSimone |
 | 189 | 485 | Snappy Matcher |
 | 190 | 479 | canbrick |
@@ -246,8 +246,8 @@
 | 238 | 399 | Lakeisha Chapman |
 | 239 | 398 | MommaKFC |
 | 240 | 397 | Alenoush Karimian |
-| 241 | 396 | Monica Donato |
-| 242 | 396 | Sam Williams |
+| 241 | 396 | Sam Williams |
+| 242 | 396 | Monica Donato |
 | 243 | 395 | Tami Luce Martin |
 | 244 | 393 | Wisa |
 | 245 | 391 | Happy Basegrid |
