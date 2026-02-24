@@ -163,10 +163,10 @@
 | 155 | 940 | Patty Allen |
 | 156 | 936 | Dolores Falco |
 | 157 | 925 | Cherry Parker |
-| 158 | 914 | Sarajane Lokan |
-| 159 | 914 | BadManSheLove |
-| 160 | 910 | Staci George Fitzsimmons |
-| 161 | 910 | opf |
+| 158 | 914 | BadManSheLove |
+| 159 | 914 | Sarajane Lokan |
+| 160 | 910 | opf |
+| 161 | 910 | Staci George Fitzsimmons |
 | 162 | 906 | Patti Skiles |
 | 163 | 900 | Edwin Calvillo Jr. |
 | 164 | 899 | Jaime Monhaut-Reed |
@@ -196,8 +196,8 @@
 | 188 | 815 | Justin Ritter |
 | 189 | 813 | JessDrown |
 | 190 | 808 | Raya |
-| 191 | 804 | Alaina Lee |
-| 192 | 804 | Gideon Walker |
+| 191 | 804 | Gideon Walker |
+| 192 | 804 | Alaina Lee |
 | 193 | 800 | Lauren Girouard |
 | 194 | 799 | Trisha Balmer |
 | 195 | 792 | Rachel Grant |
@@ -337,18 +337,18 @@
 | 329 | 490 | Cassandra Bryant |
 | 330 | 489 | Isabel Ocasio |
 | 331 | 487 | MsBee |
-| 332 | 486 | Skippy |
-| 333 | 486 | Sleepy |
+| 332 | 486 | Sleepy |
+| 333 | 486 | Skippy |
 | 334 | 483 | Tegan Chapman |
 | 335 | 482 | Chummy Rumbler |
 | 336 | 481 | Tiffanie Alley |
-| 337 | 480 | TLM |
-| 338 | 480 | Dee Franklin |
+| 337 | 480 | Dee Franklin |
+| 338 | 480 | TLM |
 | 339 | 479 | Charles Perrone |
 | 340 | 476 | Shunta Jacobs |
 | 341 | 474 | Troy |
-| 342 | 471 | Sarah Moyer |
-| 343 | 471 | Mendoza Lee Christy |
+| 342 | 471 | Mendoza Lee Christy |
+| 343 | 471 | Sarah Moyer |
 | 344 | 467 | Jul |
 | 345 | 467 | Danielle Rhoades |
 | 346 | 465 | Noettín Kan Zasnemoore |
@@ -357,8 +357,8 @@
 | 349 | 461 | Hyper Bridger |
 | 350 | 461 | Briana Wellman |
 | 351 | 460 | Antonia Russell |
-| 352 | 459 | Randy Clevenger |
-| 353 | 459 | TotoCherue |
+| 352 | 459 | TotoCherue |
+| 353 | 459 | Randy Clevenger |
 | 354 | 457 | Snippy Wipeout |
 | 355 | 456 | Cynthia Herrmann Egland |
 | 356 | 456 | Kelly |
@@ -2068,7 +2068,7 @@
 | 2060 | 68 | Nerdy Dashy |
 | 2061 | 68 | Jessica Saxe |
 | 2062 | 68 | Kristy |
-| 2063 | 68 | Melony Holubek-Lemke |
+| 2063 | 68 | MrsDoublette |
 | 2064 | 68 | Babyboy |
 | 2065 | 68 | Melony Holubek-Lemke |
 | 2066 | 68 | EmBlock |

@@ -273,8 +273,8 @@
 | 265 | 1552 | Mcintosh Brian Shalonda |
 | 266 | 1539 | Nadia Batista Garcia |
 | 267 | 1528 | Stacy Stickle |
-| 268 | 1509 | Stacey Clement |
-| 269 | 1509 | Whitney Nicole Waterman |
+| 268 | 1509 | Whitney Nicole Waterman |
+| 269 | 1509 | Stacey Clement |
 | 270 | 1501 | Ashle Scranton |
 | 271 | 1498 | Ericka Marie Smith |
 | 272 | 1485 | Carl Bradshaw |
