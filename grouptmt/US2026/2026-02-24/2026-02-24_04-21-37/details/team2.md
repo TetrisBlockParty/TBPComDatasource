@@ -10,7 +10,7 @@
 | 2 | 20419 | Melissa Lanteigne |
 | 3 | 19294 | Cassie Donica |
 | 4 | 17487 | Kyle Swanson |
-| 5 | 16220 | Sean Dugar |
+| 5 | 16191 | Sean Dugar |
 | 6 | 13459 | Cool Snapclear |
 | 7 | 11764 | Ariel |
 | 8 | 11592 | Elizabeth Hinkens |
@@ -52,8 +52,8 @@
 | 44 | 5569 | Maegan Beaule |
 | 45 | 5543 | Chris Wanner |
 | 46 | 5370 | Kimberly Schall |
-| 47 | 5316 | jayjay |
-| 48 | 5270 | Ramone Armstrong |
+| 47 | 5270 | Ramone Armstrong |
+| 48 | 5222 | jayjay |
 | 49 | 4886 | Kelly Crook |
 | 50 | 4829 | Rich Sullivan |
 | 51 | 4782 | Jai Jackson |
@@ -456,8 +456,8 @@
 | 448 | 993 | Davetta Sanford |
 | 449 | 992 | Mighty Shatterfit |
 | 450 | 991 | Della Hole |
-| 451 | 990 | Ann Matzkanin |
-| 452 | 990 | Crystie Hicks |
+| 451 | 990 | Crystie Hicks |
+| 452 | 990 | Ann Matzkanin |
 | 453 | 986 | Sabrena Yeisley |
 | 454 | 986 | Mandi Douglas Hilt |
 | 455 | 982 | Jackie Burnett |
@@ -626,8 +626,8 @@
 | 618 | 777 | Ashley Lopez |
 | 619 | 776 | Jerilyn Andrina |
 | 620 | 775 | Maya June |
-| 621 | 774 | Shanae Dillahunty |
-| 622 | 774 | Ryan Gunther |
+| 621 | 774 | Ryan Gunther |
+| 622 | 774 | Shanae Dillahunty |
 | 623 | 773 | Chummy Blockbuilder |
 | 624 | 770 | Frilly Fallzone |
 | 625 | 770 | Ronald Higgins |
@@ -639,8 +639,8 @@
 | 631 | 763 | Chelle |
 | 632 | 763 | Heather Causey |
 | 633 | 761 | Cecilia A Jenkins |
-| 634 | 759 | Jessica Lamb |
-| 635 | 759 | Briana Alexander |
+| 634 | 759 | Briana Alexander |
+| 635 | 759 | Jessica Lamb |
 | 636 | 758 | Stephanie Neuburger |
 | 637 | 757 | Frisky Clearpiece |
 | 638 | 756 | Aleksandr Gershman |

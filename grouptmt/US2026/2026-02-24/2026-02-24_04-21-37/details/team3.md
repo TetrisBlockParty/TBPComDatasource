@@ -282,8 +282,8 @@
 | 274 | 547 | Aerian Preston |
 | 275 | 546 | lashanda |
 | 276 | 546 | Cynthia Castros-Hampton |
-| 277 | 544 | Angella Lyons |
-| 278 | 544 | Tamara Deherrera |
+| 277 | 544 | Tamara Deherrera |
+| 278 | 544 | Angella Lyons |
 | 279 | 542 | France Vézina |
 | 280 | 541 | Gray Hicks |
 | 281 | 540 | Tanya Kittrell |
@@ -296,8 +296,8 @@
 | 288 | 533 | Rebecca Funderburk Kirby |
 | 289 | 533 | Cheryl Hinch Tenbrook |
 | 290 | 529 | Michael Lucado |
-| 291 | 527 | Chummy Caster |
-| 292 | 527 | Dapper Snap |
+| 291 | 527 | Dapper Snap |
+| 292 | 527 | Chummy Caster |
 | 293 | 523 | Ktfreeee |
 | 294 | 521 | Cozy Snaplink |
 | 295 | 521 | Wendy Dearden |
@@ -359,8 +359,8 @@
 | 351 | 442 | Loopy Fallzone |
 | 352 | 438 | Dannie Litchard |
 | 353 | 436 | AC Yeater |
-| 354 | 435 | Sabrina Hardrick |
-| 355 | 435 | Julie Fratrik |
+| 354 | 435 | Julie Fratrik |
+| 355 | 435 | Sabrina Hardrick |
 | 356 | 432 | Jojo M |
 | 357 | 431 | Donna Esbensen-Alpini |
 | 358 | 430 | Quackers |
@@ -602,8 +602,8 @@
 | 594 | 287 | Shiny Snapfit |
 | 595 | 286 | Frilly Stackzone |
 | 596 | 285 | Jumpy Wrecker |
-| 597 | 284 | Hanna Kim |
-| 598 | 284 | Maria Ramos |
+| 597 | 284 | Maria Ramos |
+| 598 | 284 | Hanna Kim |
 | 599 | 282 | Karla Phillips |
 | 600 | 282 | Cheeky Twisterfit |
 | 601 | 281 | Kassie Dominique Rathbone |

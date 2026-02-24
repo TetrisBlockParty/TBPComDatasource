@@ -135,8 +135,8 @@
 | 127 | 690 | Denia Deni |
 | 128 | 682 | Raegan Lane-Ross |
 | 129 | 669 | Leslie Nicole |
-| 130 | 667 | Matt Gooder |
-| 131 | 667 | Lindsey Gonzalez |
+| 130 | 667 | Lindsey Gonzalez |
+| 131 | 667 | Matt Gooder |
 | 132 | 662 | George Nutt |
 | 133 | 660 | Desi Desporte |
 | 134 | 651 | Adawna Swires |
@@ -321,8 +321,8 @@
 | 313 | 332 | Jason Bosco |
 | 314 | 331 | Kate |
 | 315 | 330 | Duck |
-| 316 | 330 | Brittany Little |
-| 317 | 330 | Sandra Safford |
+| 316 | 330 | Sandra Safford |
+| 317 | 330 | Brittany Little |
 | 318 | 329 | Meagan Nicole |
 | 319 | 328 | Leah Kutz Zirbel |
 | 320 | 328 | Angie Schmidt |
@@ -543,11 +543,11 @@
 | 535 | 209 | Chilly Matcher |
 | 536 | 209 | KyngKliff |
 | 537 | 208 | Sholom Fried |
-| 538 | 207 | Rebecca Blake |
-| 539 | 207 | Chariss Newsom |
+| 538 | 207 | Chariss Newsom |
+| 539 | 207 | Rebecca Blake |
 | 540 | 206 | Cozy Balancer |
-| 541 | 206 | Matt Morrow |
-| 542 | 206 | James Philpot Ross |
+| 541 | 206 | James Philpot Ross |
+| 542 | 206 | Matt Morrow |
 | 543 | 205 | ChasingZen |
 | 544 | 204 | Jeff Roberts |
 | 545 | 204 | icequeenx |
