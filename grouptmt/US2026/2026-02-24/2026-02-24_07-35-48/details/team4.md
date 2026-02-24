@@ -130,18 +130,18 @@
 | 122 | 735 | Nugget |
 | 123 | 731 | KJ Pool |
 | 124 | 729 | Jamie Mann-Deichmann |
-| 125 | 726 | Jamie Gustafson |
-| 126 | 726 | Amy Suckarieh |
+| 125 | 726 | Amy Suckarieh |
+| 126 | 726 | Jamie Gustafson |
 | 127 | 725 | Brandon Crabbs |
 | 128 | 712 | Leslie Nicole |
 | 129 | 712 | H.R. Block |
 | 130 | 708 | Jacqueline Helm |
-| 131 | 704 | Chilly Crasher |
-| 132 | 704 | Austin Owens |
+| 131 | 704 | Austin Owens |
+| 132 | 704 | Chilly Crasher |
 | 133 | 682 | Raegan Lane-Ross |
 | 134 | 668 | Desi Desporte |
-| 135 | 667 | Swanky Fitline |
-| 136 | 667 | Lindsey Gonzalez |
+| 135 | 667 | Lindsey Gonzalez |
+| 136 | 667 | Swanky Fitline |
 | 137 | 667 | Matt Gooder |
 | 138 | 662 | Nerdy Twisterfit |
 | 139 | 662 | George Nutt |
@@ -216,8 +216,8 @@
 | 208 | 502 | Ericca Eldridge |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
-| 211 | 496 | Jessica Bohlken |
-| 212 | 496 | Lori |
+| 211 | 496 | Lori |
+| 212 | 496 | Jessica Bohlken |
 | 213 | 495 | Joeliecea Cobb |
 | 214 | 493 | Amanda Pauldo-Ivy |
 | 215 | 491 | Manny1 |
@@ -225,8 +225,8 @@
 | 217 | 482 | Laura |
 | 218 | 481 | Joanna |
 | 219 | 475 | Silly Zonebuilder |
-| 220 | 473 | Cranky Rollpiece |
-| 221 | 473 | Jolly Dashfit |
+| 220 | 473 | Jolly Dashfit |
+| 221 | 473 | Cranky Rollpiece |
 | 222 | 468 | June Hoffman |
 | 223 | 465 | Leslie Thomas |
 | 224 | 464 | Zakia Monae |
@@ -241,8 +241,8 @@
 | 233 | 455 | Michele Plunkett |
 | 234 | 454 | Keshia Lyons |
 | 235 | 449 | Danielle Kollias |
-| 236 | 448 | Mr. Party |
-| 237 | 448 | Mike Solo |
+| 236 | 448 | Mike Solo |
+| 237 | 448 | Mr. Party |
 | 238 | 447 | Jen Mattei |
 | 239 | 447 | Plucky Patternblock |
 | 240 | 444 | Selena Shaw |
@@ -264,11 +264,11 @@
 | 256 | 421 | JIGsaw ~(•¿°)~ |
 | 257 | 419 | Hyper Matchclear |
 | 258 | 413 | Rio Rocha |
-| 259 | 411 | Autumn Kumzi |
-| 260 | 411 | TinyLegoRose |
+| 259 | 411 | TinyLegoRose |
+| 260 | 411 | Autumn Kumzi |
 | 261 | 410 | Lindsay Ball |
-| 262 | 409 | Antony Dwayne Beasley |
-| 263 | 409 | Bio Nelly |
+| 262 | 409 | Bio Nelly |
+| 263 | 409 | Antony Dwayne Beasley |
 | 264 | 409 | Joseph Guthrie |
 | 265 | 408 | Lauren Scott |
 | 266 | 408 | Dihcheese444 |

@@ -810,11 +810,11 @@
 | 802 | 677 | Blacc Blac |
 | 803 | 677 | Kayleigh Wisse |
 | 804 | 676 | Fancy Shiftsnap |
-| 805 | 675 | Ryan Chan |
-| 806 | 675 | Katelynn Hollen |
+| 805 | 675 | Katelynn Hollen |
+| 806 | 675 | Ryan Chan |
 | 807 | 675 | Fi Ne |
-| 808 | 672 | Christina Jarvis-Swarbrick |
-| 809 | 672 | Lathasa Newkirk |
+| 808 | 672 | Lathasa Newkirk |
+| 809 | 672 | Christina Jarvis-Swarbrick |
 | 810 | 672 | Abimbola Bimbo |
 | 811 | 671 | Ryan Parson |
 | 812 | 670 | Santana Miyagi |
@@ -987,8 +987,8 @@
 | 979 | 583 | RaeVan Worthington |
 | 980 | 583 | Jenn Morin |
 | 981 | 581 | Wungun Shun |
-| 982 | 580 | Gael |
-| 983 | 580 | Ethan Stienbarger |
+| 982 | 580 | Ethan Stienbarger |
+| 983 | 580 | Gael |
 | 984 | 580 | Cheery Matchzone |
 | 985 | 579 | Roy Salyer |
 | 986 | 579 | Leah LaShomb |
@@ -1014,8 +1014,8 @@
 | 1006 | 573 | Christina Burns |
 | 1007 | 572 | Mercedez Hubbard |
 | 1008 | 572 | Rachael Senard |
-| 1009 | 571 | Zachary Boyarski |
-| 1010 | 571 | Matt Johnson |
+| 1009 | 571 | Matt Johnson |
+| 1010 | 571 | Zachary Boyarski |
 | 1011 | 570 | Erika Deer Kauffman |
 | 1012 | 570 | MauroPRM |
 | 1013 | 570 | Sonya Back |
@@ -1029,8 +1029,8 @@
 | 1021 | 563 | Dione |
 | 1022 | 563 | Heather M Purcell |
 | 1023 | 563 | David Rehse |
-| 1024 | 562 | Klee |
-| 1025 | 562 | Gabbrielle Sutton |
+| 1024 | 562 | Gabbrielle Sutton |
+| 1025 | 562 | Klee |
 | 1026 | 562 | Smiley Strike |
 | 1027 | 562 | Dan Kulhanek |
 | 1028 | 562 | Angie Winch |
@@ -1053,8 +1053,8 @@
 | 1045 | 554 | Cheery Puzzler |
 | 1046 | 554 | Hoppy Glidebuilder |
 | 1047 | 554 | Dusti Rose Bingham |
-| 1048 | 553 | ruth |
-| 1049 | 553 | Tum |
+| 1048 | 553 | Tum |
+| 1049 | 553 | ruth |
 | 1050 | 553 | Sar Mo |
 | 1051 | 553 | Jason Kelly |
 | 1052 | 552 | Demitri Smith |
@@ -1066,8 +1066,8 @@
 | 1058 | 550 | Tristan Snowden |
 | 1059 | 549 | Ashley Collins |
 | 1060 | 549 | DLOCC1056 |
-| 1061 | 548 | Shiny Snapmatch |
-| 1062 | 548 | Synn |
+| 1061 | 548 | Synn |
+| 1062 | 548 | Shiny Snapmatch |
 | 1063 | 546 | Drew Berkelbach |
 | 1064 | 545 | Street Sweeper |
 | 1065 | 544 | A Rainbolt |
@@ -1094,8 +1094,8 @@
 | 1086 | 539 | stacey |
 | 1087 | 539 | Dizzy Clicker |
 | 1088 | 537 | Epic Spinfit |
-| 1089 | 537 | Austin Wilson |
-| 1090 | 537 | Robin |
+| 1089 | 537 | Robin |
+| 1090 | 537 | Austin Wilson |
 | 1091 | 536 | Paul Hinkle |
 | 1092 | 536 | Enha |
 | 1093 | 535 | Katrina Willmon |
