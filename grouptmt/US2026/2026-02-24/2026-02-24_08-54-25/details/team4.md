@@ -32,7 +32,7 @@
 | 24 | 1830 | Robin Getchel |
 | 25 | 1805 | Ash |
 | 26 | 1799 | Jason Allen |
-| 27 | 1784 | Dustin Robert |
+| 27 | 1775 | Dustin Robert |
 | 28 | 1753 | GreenJeepGirl |
 | 29 | 1712 | Jae Job |
 | 30 | 1669 | Johnny Yang Cotter |
@@ -169,8 +169,8 @@
 | 161 | 595 | TRCuse |
 | 162 | 591 | Cursed Hag |
 | 163 | 587 | YoMomma |
-| 164 | 586 | Carlos Ramirez |
-| 165 | 586 | Latisha Davis |
+| 164 | 586 | Latisha Davis |
+| 165 | 586 | Carlos Ramirez |
 | 166 | 585 | Tracey Lehmann |
 | 167 | 584 | Carlton Unfiltered |
 | 168 | 576 | Jade Rian |
@@ -183,8 +183,8 @@
 | 175 | 561 | Steph Marie |
 | 176 | 560 | Chastity Mitchell |
 | 177 | 558 | Marie-Pier Desjardins |
-| 178 | 552 | Angel Raya |
-| 179 | 552 | Circuit8 |
+| 178 | 552 | Circuit8 |
+| 179 | 552 | Angel Raya |
 | 180 | 550 | James Hurley Jr. |
 | 181 | 549 | Cool Towerbuilder |
 | 182 | 546 | Dizzy Tiley |
@@ -227,8 +227,8 @@
 | 219 | 482 | Laura |
 | 220 | 481 | Joanna |
 | 221 | 475 | Silly Zonebuilder |
-| 222 | 473 | Jolly Dashfit |
-| 223 | 473 | Cranky Rollpiece |
+| 222 | 473 | Cranky Rollpiece |
+| 223 | 473 | Jolly Dashfit |
 | 224 | 472 | Plucky Patternblock |
 | 225 | 468 | June Hoffman |
 | 226 | 465 | Leslie Thomas |
@@ -245,8 +245,8 @@
 | 237 | 454 | Keshia Lyons |
 | 238 | 450 | Genne Scott |
 | 239 | 449 | Danielle Kollias |
-| 240 | 448 | Mike Solo |
-| 241 | 448 | Mr. Party |
+| 240 | 448 | Mr. Party |
+| 241 | 448 | Mike Solo |
 | 242 | 447 | Jen Mattei |
 | 243 | 444 | Selena Shaw |
 | 244 | 442 | John Brunetti |
@@ -303,8 +303,8 @@
 | 295 | 375 | George Tzouganos |
 | 296 | 373 | Russ Attitude |
 | 297 | 371 | Jessi Cinotto |
-| 298 | 370 | Kris Bartlett |
-| 299 | 370 | Twisty Risebuilder |
+| 298 | 370 | Twisty Risebuilder |
+| 299 | 370 | Kris Bartlett |
 | 300 | 368 | Dan Wold |
 | 301 | 367 | Meg |
 | 302 | 364 | Lora |
@@ -813,7 +813,7 @@
 | 805 | 144 | Adam Randall |
 | 806 | 144 | Zach Kerbs |
 | 807 | 143 | Kelly Duncan |
-| 808 | 143 | Sherri |
+| 808 | 143 | Jenna Keen |
 | 809 | 143 | sgt baby |
 | 810 | 143 | Sherri |
 | 811 | 142 | Frank Cook |

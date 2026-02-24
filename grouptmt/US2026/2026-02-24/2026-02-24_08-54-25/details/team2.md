@@ -86,7 +86,7 @@
 | 78 | 3636 | Trista Dumais |
 | 79 | 3603 | Sam McKenzie |
 | 80 | 3553 | Murrae Lynn Rebarchek |
-| 81 | 3517 | Auntie B |
+| 81 | 3510 | Auntie B |
 | 82 | 3501 | Laura Wyatt |
 | 83 | 3460 | Poppy Snap |
 | 84 | 3436 | Jose Vega |
@@ -94,13 +94,13 @@
 | 86 | 3373 | Karen Martini-Stapleton |
 | 87 | 3361 | Angel |
 | 88 | 3353 | Crystal Elam |
-| 89 | 3343 | David Jones |
-| 90 | 3300 | Charie Holland |
-| 91 | 3295 | Ricardo Burton |
-| 92 | 3291 | RdRydnHd |
-| 93 | 3270 | E_Money04 |
-| 94 | 3248 | Suki Kaur |
-| 95 | 3246 | Heather Piotrowski |
+| 89 | 3300 | Charie Holland |
+| 90 | 3295 | Ricardo Burton |
+| 91 | 3291 | RdRydnHd |
+| 92 | 3270 | E_Money04 |
+| 93 | 3248 | Suki Kaur |
+| 94 | 3246 | Heather Piotrowski |
+| 95 | 3243 | David Jones |
 | 96 | 3236 | Elizabeth Wilbanks |
 | 97 | 3234 | Bob |
 | 98 | 3234 | Ashley House |
@@ -220,8 +220,8 @@
 | 212 | 1813 | Catina Hutchison |
 | 213 | 1807 | Osun Anuket Esu |
 | 214 | 1784 | Matthew Joseph Acevedo |
-| 215 | 1775 | Eboni Banks |
-| 216 | 1775 | Sommer Shope |
+| 215 | 1775 | Sommer Shope |
+| 216 | 1775 | Eboni Banks |
 | 217 | 1770 | Nerdy Pattern |
 | 218 | 1761 | Rosa Franklin |
 | 219 | 1751 | Melissa Penelope Ann Dodge |
@@ -281,8 +281,8 @@
 | 273 | 1480 | Dimitra Zazara |
 | 274 | 1479 | Pacynthia Williams |
 | 275 | 1478 | Misty Walker |
-| 276 | 1477 | Hillary Crawford |
-| 277 | 1477 | Prado |
+| 276 | 1477 | Prado |
+| 277 | 1477 | Hillary Crawford |
 | 278 | 1469 | Carrie Trigg |
 | 279 | 1463 | Yvonne Wharton |
 | 280 | 1459 | Shiny Rollzone |
@@ -415,8 +415,8 @@
 | 407 | 1119 | Bubbly Snapfit |
 | 408 | 1116 | Wakanda Forever |
 | 409 | 1116 | Em Chen |
-| 410 | 1109 | BYM4L |
-| 411 | 1109 | Melissa McCall |
+| 410 | 1109 | Melissa McCall |
+| 411 | 1109 | BYM4L |
 | 412 | 1105 | Jackie Avila |
 | 413 | 1105 | Nerdy Clearfit |
 | 414 | 1104 | Kimberly Hope Howell |
