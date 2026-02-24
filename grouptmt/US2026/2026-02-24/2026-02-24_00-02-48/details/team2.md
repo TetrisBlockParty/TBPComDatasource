@@ -368,12 +368,12 @@
 | 360 | 1073 | Jodi Blake |
 | 361 | 1071 | Bri Lynn |
 | 362 | 1071 | Barbra Miller |
-| 363 | 1071 | Kim Dean |
-| 364 | 1071 | Nashu |
+| 363 | 1071 | Nashu |
+| 364 | 1071 | Kim Dean |
 | 365 | 1067 | Caitlin Schmid |
 | 366 | 1067 | Taylor Phillips |
-| 367 | 1067 | Johnny Yeates |
-| 368 | 1067 | Bee |
+| 367 | 1067 | Bee |
+| 368 | 1067 | Johnny Yeates |
 | 369 | 1065 | SaraMarie Eveland |
 | 370 | 1065 | Dany Murillo |
 | 371 | 1058 | Tiffany Branham |
@@ -1198,16 +1198,16 @@
 | 1190 | 430 | Kim Yoder |
 | 1191 | 430 | Meeeeee |
 | 1192 | 429 | Erin Garlanger |
-| 1193 | 429 | Ricky Fortune |
-| 1194 | 429 | Wungun Shun |
+| 1193 | 429 | Wungun Shun |
+| 1194 | 429 | Ricky Fortune |
 | 1195 | 429 | Mishka Upchurch |
 | 1196 | 427 | Zippy |
 | 1197 | 427 | Matthew Bryant |
 | 1198 | 427 | Loopy Shatterfit |
 | 1199 | 427 | Steve Lane |
 | 1200 | 427 | Destiny Cozier |
-| 1201 | 426 | Kim McGrath |
-| 1202 | 426 | Kimberly Ann |
+| 1201 | 426 | Kimberly Ann |
+| 1202 | 426 | Kim McGrath |
 | 1203 | 426 | Mandi |
 | 1204 | 426 | Juan Killyoselfifudontlikeme Ronaldo |
 | 1205 | 425 | Shay Moore |

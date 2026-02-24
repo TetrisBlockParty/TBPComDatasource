@@ -178,8 +178,8 @@
 | 170 | 507 | Nick Gray |
 | 171 | 504 | Deanna Deckard |
 | 172 | 501 | Ericca Eldridge |
-| 173 | 499 | Berklie Apedaile |
-| 174 | 499 | Andria Lynn |
+| 173 | 499 | Andria Lynn |
+| 174 | 499 | Berklie Apedaile |
 | 175 | 497 | Brandon Crabbs |
 | 176 | 496 | Cindy Looper |
 | 177 | 495 | Carrie Brian |
@@ -452,8 +452,8 @@
 | 444 | 230 | Chantilly Laace |
 | 445 | 230 | Martha Lucinda Bishop |
 | 446 | 228 | Bethany Ison |
-| 447 | 227 | Asher |
-| 448 | 227 | Maria Hammie |
+| 447 | 227 | Maria Hammie |
+| 448 | 227 | Asher |
 | 449 | 225 | Jennifer Renee |
 | 450 | 224 | Ultramarine |
 | 451 | 224 | Vanessa Smart |

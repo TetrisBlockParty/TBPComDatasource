@@ -221,9 +221,9 @@
 | 213 | 397 | Erin Rosberg |
 | 214 | 396 | Sam Williams |
 | 215 | 395 | Monica Donato |
-| 216 | 393 | Happy Snapbuild |
+| 216 | 393 | Lehrin Maria |
 | 217 | 393 | Wisa |
-| 218 | 393 | Lehrin Maria |
+| 218 | 393 | Happy Snapbuild |
 | 219 | 392 | Kathy Langham |
 | 220 | 387 | Carrie Smith |
 | 221 | 386 | Brian Spotts |
@@ -529,7 +529,7 @@
 | 521 | 198 | Larry Oaks |
 | 522 | 197 | Mindy Gloska |
 | 523 | 197 | Nikki Fridley |
-| 524 | 197 | Mindy Gloska |
+| 524 | 197 | Tiffany Daboss Seymour |
 | 525 | 197 | Cool Towerzone |
 | 526 | 197 | Toni Sagenbrecht |
 | 527 | 197 | MelSavage |
@@ -539,7 +539,7 @@
 | 531 | 196 | Shiny Rotate |
 | 532 | 196 | Anita Jack |
 | 533 | 195 | Camelia Trevillion |
-| 534 | 194 | Jennifer Corrado |
+| 534 | 194 | Sarah Henniker |
 | 535 | 194 | Discovery Point |
 | 536 | 194 | Jennifer Corrado |
 | 537 | 194 | Nicole Meredith Flynn |

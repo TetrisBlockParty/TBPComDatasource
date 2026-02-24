@@ -364,8 +364,8 @@
 | 356 | 386 | Kelly Wolf |
 | 357 | 383 | Kirhonda Autmon |
 | 358 | 383 | Nikki White |
-| 359 | 382 | Tiffany Davie |
-| 360 | 382 | Amanda J. Mcneil-Anderson |
+| 359 | 382 | Amanda J. Mcneil-Anderson |
+| 360 | 382 | Tiffany Davie |
 | 361 | 381 | Christina Spa |
 | 362 | 381 | gremicx |
 | 363 | 379 | Kelly |
@@ -379,8 +379,8 @@
 | 371 | 373 | KayB |
 | 372 | 372 | Breanna Marsden |
 | 373 | 370 | Roary Danner |
-| 374 | 370 | Ashley Lynn Marchese |
-| 375 | 370 | TotoCherue |
+| 374 | 370 | TotoCherue |
+| 375 | 370 | Ashley Lynn Marchese |
 | 376 | 369 | Amber Glover |
 | 377 | 368 | Sheila M Frazier |
 | 378 | 368 | Stephanie Woods |
