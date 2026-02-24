@@ -179,8 +179,8 @@
 | 171 | 538 | Steph Marie |
 | 172 | 537 | Scott Jameson |
 | 173 | 535 | Berklie Apedaile |
-| 174 | 532 | Matt Summer |
-| 175 | 532 | Alan George LaRage |
+| 174 | 532 | Alan George LaRage |
+| 175 | 532 | Matt Summer |
 | 176 | 528 | Erin Sabol |
 | 177 | 525 | Lucas J Sutton |
 | 178 | 522 | Carly Alexis |
@@ -212,11 +212,11 @@
 | 204 | 478 | Casey Grabner |
 | 205 | 476 | Mylo Lipscomb |
 | 206 | 475 | Silly Zonebuilder |
-| 207 | 473 | Jolly Dashfit |
-| 208 | 473 | Cranky Rollpiece |
+| 207 | 473 | Cranky Rollpiece |
+| 208 | 473 | Jolly Dashfit |
 | 209 | 465 | June Hoffman |
-| 210 | 462 | Crystal Nicolette Moore |
-| 211 | 462 | Leslie Thomas |
+| 210 | 462 | Leslie Thomas |
+| 211 | 462 | Crystal Nicolette Moore |
 | 212 | 461 | TRCuse |
 | 213 | 460 | Kathy Brookins |
 | 214 | 457 | Kristin Manee |
@@ -228,16 +228,16 @@
 | 220 | 448 | Mike Solo |
 | 221 | 447 | Jen Mattei |
 | 222 | 446 | Mr. Party |
-| 223 | 444 | Calvin Cannon |
-| 224 | 444 | Shiny Fit |
+| 223 | 444 | Shiny Fit |
+| 224 | 444 | Calvin Cannon |
 | 225 | 443 | Kristina Black |
 | 226 | 442 | 🥔🥔 Spudz |
 | 227 | 441 | Lush Linkfall |
 | 228 | 438 | Melvin Baird |
 | 229 | 436 | Selena Shaw |
 | 230 | 434 | Ramel Rhodes |
-| 231 | 433 | Circuit8 |
-| 232 | 433 | Damn Libra |
+| 231 | 433 | Damn Libra |
+| 232 | 433 | Circuit8 |
 | 233 | 432 | scott |
 | 234 | 431 | Manny1 |
 | 235 | 430 | Plucky Patternblock |
@@ -287,8 +287,8 @@
 | 279 | 370 | Cheery Risebuilder |
 | 280 | 370 | Kris Bartlett |
 | 281 | 367 | Meg |
-| 282 | 366 | Hyper Builder |
-| 283 | 366 | Andrew Dang |
+| 282 | 366 | Andrew Dang |
+| 283 | 366 | Hyper Builder |
 | 284 | 359 | Holly |
 | 285 | 359 | KimoKoala |
 | 286 | 358 | Lora |
@@ -652,7 +652,7 @@
 | 644 | 169 | Jazzy Slamdrop |
 | 645 | 169 | Joseph Pace |
 | 646 | 168 | Krista Buffaloe |
-| 647 | 168 | Kristin MacDonald |
+| 647 | 168 | LunaMoon |
 | 648 | 168 | Holly Tracey-Grimes |
 | 649 | 168 | Kristin MacDonald |
 | 650 | 167 | Steve |

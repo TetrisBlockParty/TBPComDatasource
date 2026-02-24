@@ -131,8 +131,8 @@
 | 123 | 642 | Mario Cab |
 | 124 | 635 | Theo Pinnow |
 | 125 | 631 | Carrie Smith |
-| 126 | 629 | Tanya Carpenter-Reynolds |
-| 127 | 629 | Death |
+| 126 | 629 | Death |
+| 127 | 629 | Tanya Carpenter-Reynolds |
 | 128 | 628 | Trina Gee |
 | 129 | 626 | Damon J. Martin |
 | 130 | 623 | Phu ckalldems |
@@ -358,8 +358,8 @@
 | 350 | 305 | Damian Salem |
 | 351 | 304 | Chummy Rollblock |
 | 352 | 302 | Richard Corrado |
-| 353 | 301 | Chad Atchley |
-| 354 | 301 | Susie Loo |
+| 353 | 301 | Susie Loo |
+| 354 | 301 | Chad Atchley |
 | 355 | 300 | Logan McFarland |
 | 356 | 299 | Rachel Rogers |
 | 357 | 299 | Nathan William |

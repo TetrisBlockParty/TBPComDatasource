@@ -1363,7 +1363,7 @@
 | 1355 | 421 | Crystal Herndon |
 | 1356 | 421 | Theresa Ring |
 | 1357 | 421 | KT Macadocious |
-| 1358 | 421 | SwifftFox |
+| 1358 | 421 | Anthony Foresman |
 | 1359 | 421 | Nerdy Rollzone |
 | 1360 | 421 | Gabby Devant |
 | 1361 | 421 | SwifftFox |

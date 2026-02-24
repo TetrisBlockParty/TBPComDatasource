@@ -147,8 +147,8 @@
 | 139 | 987 | Happy Tetriblast |
 | 140 | 963 | Crystal Frey |
 | 141 | 957 | mzcatzy |
-| 142 | 950 | Giddy Drop |
-| 143 | 950 | MissTaylor |
+| 142 | 950 | MissTaylor |
+| 143 | 950 | Giddy Drop |
 | 144 | 943 | Katrina Schroeder |
 | 145 | 940 | Stephanie Allmon |
 | 146 | 940 | Patty Allen |
@@ -250,8 +250,8 @@
 | 242 | 615 | Juliana Dottore |
 | 243 | 610 | Swanky Snapclear |
 | 244 | 605 | Sarah Cowan Burgos |
-| 245 | 604 | Bmo |
-| 246 | 604 | Keis |
+| 245 | 604 | Keis |
+| 246 | 604 | Bmo |
 | 247 | 602 | Dee Pratt |
 | 248 | 600 | Natasha Jones |
 | 249 | 600 | Connie Mohler-Fair |
@@ -281,8 +281,8 @@
 | 273 | 547 | Aerian Preston |
 | 274 | 546 | Cynthia Castros-Hampton |
 | 275 | 546 | lashanda |
-| 276 | 544 | Tamara Deherrera |
-| 277 | 544 | Angella Lyons |
+| 276 | 544 | Angella Lyons |
+| 277 | 544 | Tamara Deherrera |
 | 278 | 542 | France Vézina |
 | 279 | 541 | Gray Hicks |
 | 280 | 537 | Lizabeth Fox |
