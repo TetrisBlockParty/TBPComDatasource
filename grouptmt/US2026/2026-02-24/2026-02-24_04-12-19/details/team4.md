@@ -80,8 +80,8 @@
 | 72 | 1003 | Destiney Carter |
 | 73 | 999 | Jeremy Steines |
 | 74 | 986 | TeeJ |
-| 75 | 985 | Shannon Ferrari |
-| 76 | 985 | Shelly Chandler |
+| 75 | 985 | Shelly Chandler |
+| 76 | 985 | Shannon Ferrari |
 | 77 | 956 | loulou |
 | 78 | 949 | Patron Anderson |
 | 79 | 939 | Edward White |
@@ -165,8 +165,8 @@
 | 157 | 578 | Livvy |
 | 158 | 576 | Jade Rian |
 | 159 | 575 | Jenna Ingersoll |
-| 160 | 574 | Carmethia Clemons Haslerig |
-| 161 | 574 | Carlos Ramirez |
+| 160 | 574 | Carlos Ramirez |
+| 161 | 574 | Carmethia Clemons Haslerig |
 | 162 | 568 | Cindy Looper |
 | 163 | 567 | Rico |
 | 164 | 565 | Ren Mc |
@@ -198,13 +198,13 @@
 | 190 | 508 | Zesty Twistbuilder |
 | 191 | 507 | Andria Lynn |
 | 192 | 504 | Deanna Deckard |
-| 193 | 502 | Ericca Eldridge |
-| 194 | 502 | Christina Black |
+| 193 | 502 | Christina Black |
+| 194 | 502 | Ericca Eldridge |
 | 195 | 500 | Milan Markeisha |
 | 196 | 499 | Sharyn Lemire |
 | 197 | 499 | Kesha Brady |
-| 198 | 496 | Jessica Bohlken |
-| 199 | 496 | Lori |
+| 198 | 496 | Lori |
+| 199 | 496 | Jessica Bohlken |
 | 200 | 495 | Joeliecea Cobb |
 | 201 | 493 | Amanda Pauldo-Ivy |
 | 202 | 481 | Joanna |
@@ -399,8 +399,8 @@
 | 391 | 278 | Shainne Brewer |
 | 392 | 278 | L Bear Champion |
 | 393 | 277 | Silly SeaWeed |
-| 394 | 276 | Dennis Bradley |
-| 395 | 276 | Cynthia Boudreau |
+| 394 | 276 | Cynthia Boudreau |
+| 395 | 276 | Dennis Bradley |
 | 396 | 275 | Jarred Falls |
 | 397 | 272 | Maureen Flanigan |
 | 398 | 272 | Paito |

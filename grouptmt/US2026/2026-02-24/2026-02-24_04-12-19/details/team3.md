@@ -127,8 +127,8 @@
 | 119 | 1084 | Santana Lantana |
 | 120 | 1082 | Valerie Gendron |
 | 121 | 1067 | DaBigGuy |
-| 122 | 1066 | Jennifer |
-| 123 | 1066 | Demetrious Shaw Sr. |
+| 122 | 1066 | Demetrious Shaw Sr. |
+| 123 | 1066 | Jennifer |
 | 124 | 1065 | Rachel |
 | 125 | 1055 | Christine Trester |
 | 126 | 1050 | Sherika C. McDaniels |
@@ -147,8 +147,8 @@
 | 139 | 987 | Happy Tetriblast |
 | 140 | 963 | Crystal Frey |
 | 141 | 957 | mzcatzy |
-| 142 | 950 | MissTaylor |
-| 143 | 950 | Giddy Drop |
+| 142 | 950 | Giddy Drop |
+| 143 | 950 | MissTaylor |
 | 144 | 943 | Katrina Schroeder |
 | 145 | 940 | Patty Allen |
 | 146 | 940 | Stephanie Allmon |
@@ -353,8 +353,8 @@
 | 345 | 446 | Jennifer Alvey |
 | 346 | 445 | Loopy Clusterer |
 | 347 | 444 | Heather De Vries Cobb |
-| 348 | 443 | Christian Werndl |
-| 349 | 443 | Carrie Huskey |
+| 348 | 443 | Carrie Huskey |
+| 349 | 443 | Christian Werndl |
 | 350 | 442 | Loopy Fallzone |
 | 351 | 439 | Lively Caster |
 | 352 | 438 | Dannie Litchard |
