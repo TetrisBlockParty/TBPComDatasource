@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Yoset Mejia |
-| 47 | 1461 | Shane Kalamata Platoon |
+| 46 | 1461 | Shane Kalamata Platoon |
+| 47 | 1461 | Yoset Mejia |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -149,8 +149,8 @@
 | 141 | 667 | Swanky Fitline |
 | 142 | 667 | Matt Gooder |
 | 143 | 662 | Nerdy Twisterfit |
-| 144 | 661 | Rodney McMath Jr. |
-| 145 | 661 | shar |
+| 144 | 661 | shar |
+| 145 | 661 | Rodney McMath Jr. |
 | 146 | 651 | Adawna Swires |
 | 147 | 650 | April Rondinone |
 | 148 | 650 | Chris Hartig |
@@ -233,8 +233,8 @@
 | 225 | 485 | meowmew |
 | 226 | 482 | Laura |
 | 227 | 475 | Silly Zonebuilder |
-| 228 | 473 | Jolly Dashfit |
-| 229 | 473 | Cranky Rollpiece |
+| 228 | 473 | Cranky Rollpiece |
+| 229 | 473 | Jolly Dashfit |
 | 230 | 472 | Plucky Patternblock |
 | 231 | 468 | scott |
 | 232 | 465 | Leslie Thomas |
@@ -257,13 +257,13 @@
 | 249 | 448 | Mr. Party |
 | 250 | 448 | Mike Solo |
 | 251 | 447 | Chris Bernstein |
-| 252 | 444 | Twisty Cascadezone |
-| 253 | 444 | Selena Shaw |
+| 252 | 444 | Selena Shaw |
+| 253 | 444 | Twisty Cascadezone |
 | 254 | 442 | John Brunetti |
 | 255 | 441 | Lush Linkfall |
 | 256 | 440 | Brickh4us |
-| 257 | 438 | Melvin Baird |
-| 258 | 438 | 23 |
+| 257 | 438 | 23 |
+| 258 | 438 | Melvin Baird |
 | 259 | 434 | Ramel Rhodes |
 | 260 | 432 | Jason Gibbs |
 | 261 | 430 | 030Synner |
@@ -438,8 +438,8 @@
 | 430 | 279 | Ziggy |
 | 431 | 278 | L Bear Champion |
 | 432 | 278 | Shainne Brewer |
-| 433 | 277 | Silly SeaWeed |
-| 434 | 277 | ĥuf |
+| 433 | 277 | ĥuf |
+| 434 | 277 | Silly SeaWeed |
 | 435 | 276 | Dennis Bradley |
 | 436 | 275 | Jarred Falls |
 | 437 | 274 | Cheery Fitline |
@@ -462,11 +462,11 @@
 | 454 | 264 | Chantilly Laace |
 | 455 | 264 | Bussy Bay |
 | 456 | 263 | Laurmarcar |
-| 457 | 262 | Walter Beltran |
+| 457 | 262 | Ruben Wheeler |
 | 458 | 262 | Lilya Troutman |
-| 459 | 262 | Ruben Wheeler |
-| 460 | 261 | Jen Hallin |
-| 461 | 261 | Laura McPheeters |
+| 459 | 262 | Walter Beltran |
+| 460 | 261 | Laura McPheeters |
+| 461 | 261 | Jen Hallin |
 | 462 | 260 | PennyCandee |
 | 463 | 258 | April Spoelma |
 | 464 | 258 | Ashlee Carnes |

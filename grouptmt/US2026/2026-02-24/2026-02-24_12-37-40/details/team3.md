@@ -328,8 +328,8 @@
 | 320 | 518 | Marquita Sheard |
 | 321 | 516 | Skippy |
 | 322 | 514 | Nikki White |
-| 323 | 506 | Tiffanie Alley |
-| 324 | 506 | Ammmmmmy |
+| 323 | 506 | Ammmmmmy |
+| 324 | 506 | Tiffanie Alley |
 | 325 | 504 | Daring Builder |
 | 326 | 500 | Ashley Tookes |
 | 327 | 499 | Megan Rathmanner |
@@ -425,11 +425,11 @@
 | 417 | 407 | Christina Spa |
 | 418 | 406 | Kristen Weese |
 | 419 | 405 | Andrew Thorson |
-| 420 | 404 | Giggy Balanceblock |
+| 420 | 404 | Karent524 |
 | 421 | 404 | Alice |
-| 422 | 404 | Karent524 |
-| 423 | 403 | Scott Lindsay |
-| 424 | 403 | Samantha Worley |
+| 422 | 404 | Giggy Balanceblock |
+| 423 | 403 | Samantha Worley |
+| 424 | 403 | Scott Lindsay |
 | 425 | 402 | Alexi Pryor |
 | 426 | 401 | Velma Mull |
 | 427 | 401 | block chick |
@@ -482,7 +482,7 @@
 | 474 | 365 | Frothy Glider |
 | 475 | 364 | 4girls |
 | 476 | 364 | xsiv |
-| 477 | 363 | Nena Somerville Kelly |
+| 477 | 363 | angieelyn |
 | 478 | 363 | Katrina Turner |
 | 479 | 363 | Giggly Brickroll |
 | 480 | 363 | Nena Somerville Kelly |
@@ -627,9 +627,9 @@
 | 619 | 304 | _melisa223_ |
 | 620 | 304 | Tammy Rosenberry |
 | 621 | 304 | Kita A Jackson |
-| 622 | 303 | Aeh |
+| 622 | 303 | Sameerah Smith |
 | 623 | 303 | Kevin Fountain |
-| 624 | 303 | Sameerah Smith |
+| 624 | 303 | Aeh |
 | 625 | 303 | Tosha Griffey |
 | 626 | 302 | Lickity Split |
 | 627 | 302 | Nicholas Roddy |
@@ -980,7 +980,7 @@
 | 972 | 205 | Brave Brickster |
 | 973 | 204 | Rena Wells |
 | 974 | 204 | Jayce Johnson |
-| 975 | 204 | Mary Cantu |
+| 975 | 204 | Elyse Grabowsky |
 | 976 | 204 | Meleray Wheeler |
 | 977 | 204 | Mary Cantu |
 | 978 | 204 | Karen Picaboo |

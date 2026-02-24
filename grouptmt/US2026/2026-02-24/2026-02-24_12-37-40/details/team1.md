@@ -116,8 +116,8 @@
 | 108 | 791 | Greg Hart |
 | 109 | 782 | Karin Gillen |
 | 110 | 781 | Ash Galvan |
-| 111 | 773 | Susanna Guerry |
-| 112 | 773 | Cartier |
+| 111 | 773 | Cartier |
+| 112 | 773 | Susanna Guerry |
 | 113 | 772 | Kathy Langham |
 | 114 | 770 | Zappy Curvetile |
 | 115 | 768 | Jazzy Framezone |
