@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 14:24:43 UTC
+# Standings for team4 as of 2026-02-24 14:25:21 UTC
 
 **Total Participants:** 2038
 
@@ -629,13 +629,13 @@
 | 621 | 207 | Chariss Newsom |
 | 622 | 207 | ChasingZen |
 | 623 | 206 | Rosemary Foster |
-| 624 | 205 | Flashy Blockpiece |
-| 625 | 204 | Smiley Shifter |
-| 626 | 204 | Gwendolyn Pitcairn |
-| 627 | 204 | Kujuanna Hammon |
-| 628 | 204 | Susan Purnell |
-| 629 | 204 | icequeenx |
-| 630 | 203 | Hediyuda |
+| 624 | 205 | Hediyuda |
+| 625 | 205 | Flashy Blockpiece |
+| 626 | 204 | Smiley Shifter |
+| 627 | 204 | Gwendolyn Pitcairn |
+| 628 | 204 | Kujuanna Hammon |
+| 629 | 204 | Susan Purnell |
+| 630 | 204 | icequeenx |
 | 631 | 203 | Myra LaTrice |
 | 632 | 202 | Jasmine S Caldwell |
 | 633 | 201 | Carla Harris |
@@ -1201,8 +1201,8 @@
 | 1193 | 79 | Jason M Cadreau |
 | 1194 | 79 | AnitaMann |
 | 1195 | 79 | Bubbly Edge |
-| 1196 | 78 | Terra McGee |
-| 1197 | 78 | Bold Matcher |
+| 1196 | 78 | Bold Matcher |
+| 1197 | 78 | Terra McGee |
 | 1198 | 78 | Breezy Grid |
 | 1199 | 78 | Bromine |
 | 1200 | 77 | Adam Hughes |
@@ -1217,24 +1217,24 @@
 | 1209 | 76 | Beth Ann |
 | 1210 | 76 | Meli  Jackson |
 | 1211 | 76 | Jeannie Lee |
-| 1212 | 75 | unrewound |
-| 1213 | 75 | Nee |
-| 1214 | 75 | Twisty Towerpiece |
-| 1215 | 75 | Dmpster Fire |
+| 1212 | 75 | Dmpster Fire |
+| 1213 | 75 | unrewound |
+| 1214 | 75 | Nee |
+| 1215 | 75 | Twisty Towerpiece |
 | 1216 | 75 | Dena Shoop |
 | 1217 | 75 | Jason Goldstein |
 | 1218 | 75 | Dizzy Tetrisline |
 | 1219 | 74 | Boldy Linkfall |
 | 1220 | 74 | Mark Morgan |
-| 1221 | 74 | Demeitra McCaune |
-| 1222 | 74 | Amanda Lanctot |
-| 1223 | 74 | Kevin L Cafleux |
-| 1224 | 73 | April Washington |
-| 1225 | 73 | KnCson |
-| 1226 | 73 | Gary Say |
-| 1227 | 73 | Gerald Anderson |
-| 1228 | 73 | canglem |
-| 1229 | 73 | Eric Quan |
+| 1221 | 74 | Eric Quan |
+| 1222 | 74 | Demeitra McCaune |
+| 1223 | 74 | Amanda Lanctot |
+| 1224 | 74 | Kevin L Cafleux |
+| 1225 | 73 | April Washington |
+| 1226 | 73 | KnCson |
+| 1227 | 73 | Gary Say |
+| 1228 | 73 | Gerald Anderson |
+| 1229 | 73 | canglem |
 | 1230 | 73 | Rachel Nicole |
 | 1231 | 73 | Serene Martell |
 | 1232 | 73 | Aleshia Harrity |
@@ -1249,19 +1249,19 @@
 | 1241 | 72 | Melitta Boisvert |
 | 1242 | 72 | Giddy Swiper |
 | 1243 | 72 | London Murphy |
-| 1244 | 71 | Jmier |
-| 1245 | 71 | Amy La Violette |
-| 1246 | 71 | T |
-| 1247 | 71 | Sara Saxton Moon |
-| 1248 | 71 | Valerie J. Potero |
-| 1249 | 71 | Jessica Graham |
-| 1250 | 71 | Dapper Climber |
+| 1244 | 71 | Dapper Climber |
+| 1245 | 71 | Jmier |
+| 1246 | 71 | Amy La Violette |
+| 1247 | 71 | T |
+| 1248 | 71 | Sara Saxton Moon |
+| 1249 | 71 | Valerie J. Potero |
+| 1250 | 71 | Jessica Graham |
 | 1251 | 71 | deebop |
 | 1252 | 70 | Epic Tilt |
 | 1253 | 70 | Jumpy Shatterline |
-| 1254 | 70 | PlatinumRose |
+| 1254 | 70 | Matthew Doyle |
 | 1255 | 70 | Ayanna James |
-| 1256 | 70 | Matthew Doyle |
+| 1256 | 70 | PlatinumRose |
 | 1257 | 70 | Krystol Fantabulously Gorgeously Dennis |
 | 1258 | 70 | Donnie Istillwill Straub |
 | 1259 | 70 | Br23klyn |
@@ -1635,34 +1635,34 @@
 | 1627 | 34 | kn1fehandz |
 | 1628 | 34 | ChromaticZero |
 | 1629 | 33 | John Robert Roe |
-| 1630 | 33 | 1 |
-| 1631 | 33 | Dreamy Jumper |
-| 1632 | 33 | Jolene Marie Caetano |
-| 1633 | 33 | Emily Finhill |
-| 1634 | 33 | DaReal007EJW |
-| 1635 | 33 | Zesty Shatterline |
-| 1636 | 33 | Jodi Warner Sommerer |
-| 1637 | 33 | Cranky Matchpiece |
-| 1638 | 33 | IceQueenKiller |
-| 1639 | 33 | Robert Sloan |
-| 1640 | 33 | Tammie Jewel DeSimon |
-| 1641 | 33 | Allison Moody |
-| 1642 | 33 | Reshau Clay |
-| 1643 | 33 | Will Smith |
-| 1644 | 33 | Getem gone |
-| 1645 | 33 | StarChild |
-| 1646 | 33 | Jordan Marie Mantels |
-| 1647 | 32 | Flashy Snapbuild |
-| 1648 | 32 | CheBrandNew |
-| 1649 | 32 | Scott Burkett |
-| 1650 | 32 | Mary Ellen Kettleman |
-| 1651 | 32 | Block Buster |
-| 1652 | 32 | Tisha McManus |
-| 1653 | 32 | Jinx |
-| 1654 | 32 | LaTrice Malone-Hubert |
-| 1655 | 32 | Dani Roberts |
-| 1656 | 32 | Lil Miss |
-| 1657 | 32 | Chris Lee |
+| 1630 | 33 | Chris Lee |
+| 1631 | 33 | 1 |
+| 1632 | 33 | Dreamy Jumper |
+| 1633 | 33 | Jolene Marie Caetano |
+| 1634 | 33 | Emily Finhill |
+| 1635 | 33 | DaReal007EJW |
+| 1636 | 33 | Zesty Shatterline |
+| 1637 | 33 | Jodi Warner Sommerer |
+| 1638 | 33 | Cranky Matchpiece |
+| 1639 | 33 | IceQueenKiller |
+| 1640 | 33 | Robert Sloan |
+| 1641 | 33 | Tammie Jewel DeSimon |
+| 1642 | 33 | Allison Moody |
+| 1643 | 33 | Reshau Clay |
+| 1644 | 33 | Will Smith |
+| 1645 | 33 | Getem gone |
+| 1646 | 33 | StarChild |
+| 1647 | 33 | Jordan Marie Mantels |
+| 1648 | 32 | Flashy Snapbuild |
+| 1649 | 32 | CheBrandNew |
+| 1650 | 32 | Scott Burkett |
+| 1651 | 32 | Mary Ellen Kettleman |
+| 1652 | 32 | Block Buster |
+| 1653 | 32 | Tisha McManus |
+| 1654 | 32 | Jinx |
+| 1655 | 32 | LaTrice Malone-Hubert |
+| 1656 | 32 | Dani Roberts |
+| 1657 | 32 | Lil Miss |
 | 1658 | 31 | Dandy Liner |
 | 1659 | 31 | Tamiko Kirby |
 | 1660 | 31 | Bunny A Finley |
