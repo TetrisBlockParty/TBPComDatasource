@@ -173,8 +173,8 @@
 | 165 | 548 | Luciano Moreira |
 | 166 | 547 | Sharon Reynolds |
 | 167 | 545 | .running. |
-| 168 | 543 | Nicole Roseberry Weber |
-| 169 | 543 | Adrian Esteban |
+| 168 | 543 | Adrian Esteban |
+| 169 | 543 | Nicole Roseberry Weber |
 | 170 | 542 | BadG52 |
 | 171 | 540 | Tonya Beasley |
 | 172 | 537 | Stephanie Zahn |
@@ -186,12 +186,12 @@
 | 178 | 522 | Constance Risner |
 | 179 | 521 | Teri Oehlke |
 | 180 | 519 | Anaid Sanchez |
-| 181 | 519 | Cool Shiftsnap |
-| 182 | 519 | phrmblk24 |
+| 181 | 519 | phrmblk24 |
+| 182 | 519 | Cool Shiftsnap |
 | 183 | 517 | Eric DeSimone |
 | 184 | 514 | Chase Collinsworth |
-| 185 | 513 | Colena Davenport |
-| 186 | 513 | Rebekah LeiAnn Bonsell |
+| 185 | 513 | Rebekah LeiAnn Bonsell |
+| 186 | 513 | Colena Davenport |
 | 187 | 511 | MomMom |
 | 188 | 510 | Rat666 |
 | 189 | 501 | Jessica Russell |
@@ -220,8 +220,8 @@
 | 212 | 466 | Lori Bales |
 | 213 | 458 | Goose egg |
 | 214 | 457 | Kimberly Garcia |
-| 215 | 453 | Angela Spann |
-| 216 | 453 | Kimmie Kimms |
+| 215 | 453 | Kimmie Kimms |
+| 216 | 453 | Angela Spann |
 | 217 | 449 | Tawnya Peltonen |
 | 218 | 448 | Yvonne Marie |
 | 219 | 446 | Spencer Lent |
@@ -306,8 +306,8 @@
 | 298 | 365 | Amanda Holibaugh |
 | 299 | 365 | Shannon Marie Pitts |
 | 300 | 364 | Shauna Loe |
-| 301 | 364 | Jo Kerley |
-| 302 | 364 | Dino |
+| 301 | 364 | Dino |
+| 302 | 364 | Jo Kerley |
 | 303 | 364 | John Kim |
 | 304 | 363 | Shiny Gridmatch |
 | 305 | 362 | Brooke Elizabeth Antill |
