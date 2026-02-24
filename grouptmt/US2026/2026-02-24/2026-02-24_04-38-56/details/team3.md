@@ -127,8 +127,8 @@
 | 119 | 1084 | Santana Lantana |
 | 120 | 1082 | Valerie Gendron |
 | 121 | 1067 | DaBigGuy |
-| 122 | 1066 | Jennifer |
-| 123 | 1066 | Demetrious Shaw Sr. |
+| 122 | 1066 | Demetrious Shaw Sr. |
+| 123 | 1066 | Jennifer |
 | 124 | 1065 | Rachel |
 | 125 | 1055 | Christine Trester |
 | 126 | 1050 | Sherika C. McDaniels |
@@ -540,9 +540,9 @@
 | 532 | 316 | Travis W |
 | 533 | 316 | Funky Brickster |
 | 534 | 315 | Clever Edgepiece |
-| 535 | 314 | Rachel Napper |
-| 536 | 314 | toony |
-| 537 | 314 | Cranky Corner |
+| 535 | 314 | Cranky Corner |
+| 536 | 314 | Rachel Napper |
+| 537 | 314 | toony |
 | 538 | 313 | Dakota Graham |
 | 539 | 313 | Fredd Thomas |
 | 540 | 313 | Joseph Vargas |

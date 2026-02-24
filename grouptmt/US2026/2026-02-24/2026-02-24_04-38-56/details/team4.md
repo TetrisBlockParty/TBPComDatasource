@@ -180,8 +180,8 @@
 | 172 | 538 | Steph Marie |
 | 173 | 537 | Scott Jameson |
 | 174 | 535 | Berklie Apedaile |
-| 175 | 532 | Matt Summer |
-| 176 | 532 | Alan George LaRage |
+| 175 | 532 | Alan George LaRage |
+| 176 | 532 | Matt Summer |
 | 177 | 528 | Erin Sabol |
 | 178 | 525 | Lucas J Sutton |
 | 179 | 522 | Carly Alexis |
@@ -433,8 +433,8 @@
 | 425 | 257 | ThriftySpice |
 | 426 | 256 | bloat princess |
 | 427 | 256 | Candice Carasiti |
-| 428 | 255 | Jenny Wells-Oakley |
-| 429 | 255 | Red |
+| 428 | 255 | Red |
+| 429 | 255 | Jenny Wells-Oakley |
 | 430 | 253 | Autum Leigh |
 | 431 | 251 | Jackson Karen |
 | 432 | 251 | Kathy Allen |
