@@ -121,8 +121,8 @@
 | 113 | 2876 | John Rodriguez |
 | 114 | 2851 | Erica Williams |
 | 115 | 2840 | F-X |
-| 116 | 2823 | Dawn Geist-Weasner |
-| 117 | 2823 | Angela Lynn |
+| 116 | 2823 | Angela Lynn |
+| 117 | 2823 | Dawn Geist-Weasner |
 | 118 | 2777 | Zappy Cascade |
 | 119 | 2765 | Shameika Trail |
 | 120 | 2758 | Nickole Andrews |
@@ -281,8 +281,8 @@
 | 273 | 1526 | Ronnie Nelson |
 | 274 | 1509 | Stacey Clement |
 | 275 | 1509 | Whitney Nicole Waterman |
-| 276 | 1506 | Shiny Twistfit |
-| 277 | 1506 | Hillary Crawford |
+| 276 | 1506 | Hillary Crawford |
+| 277 | 1506 | Shiny Twistfit |
 | 278 | 1501 | Ashle Scranton |
 | 279 | 1498 | Ericka Marie Smith |
 | 280 | 1498 | Amber Gray |
@@ -303,8 +303,8 @@
 | 295 | 1446 | Tyler C. Jung |
 | 296 | 1445 | Samantha Scibelli |
 | 297 | 1444 | Kristin Ruest |
-| 298 | 1443 | Christina Walker |
-| 299 | 1443 | Maria Escobar |
+| 298 | 1443 | Maria Escobar |
+| 299 | 1443 | Christina Walker |
 | 300 | 1441 | Cassie Mercer |
 | 301 | 1429 | Arlene Joy Belicina |
 | 302 | 1422 | Rebecca Garland |
@@ -326,14 +326,14 @@
 | 318 | 1357 | Tanya Parsons |
 | 319 | 1353 | Deborah Miller |
 | 320 | 1353 | Heather Hoffman Disharoon |
-| 321 | 1351 | Lucky Ladybug |
-| 322 | 1351 | Ashie Ann |
+| 321 | 1351 | Ashie Ann |
+| 322 | 1351 | Lucky Ladybug |
 | 323 | 1351 | Denisha Dawkins |
 | 324 | 1350 | Tinishia Amie |
 | 325 | 1349 | Diallo Sparkman |
 | 326 | 1348 | Keri Womack |
-| 327 | 1342 | Kelly A Green-Leach |
-| 328 | 1342 | Groovy Puzzle |
+| 327 | 1342 | Groovy Puzzle |
+| 328 | 1342 | Kelly A Green-Leach |
 | 329 | 1338 | Meghan M |
 | 330 | 1336 | Frothy Rumbler |
 | 331 | 1335 | Jess Morrison |
@@ -364,19 +364,19 @@
 | 356 | 1262 | Toni Roberson |
 | 357 | 1261 | Becca Coronado |
 | 358 | 1259 | AkaLefty |
-| 359 | 1257 | Megan Ferguson Leone |
-| 360 | 1257 | Megan Garrick |
+| 359 | 1257 | Megan Garrick |
+| 360 | 1257 | Megan Ferguson Leone |
 | 361 | 1257 | Jackie Lucas |
-| 362 | 1256 | Phil J. Grombliniak |
-| 363 | 1256 | Belle |
+| 362 | 1256 | Belle |
+| 363 | 1256 | Phil J. Grombliniak |
 | 364 | 1255 | Ambyre Patterson |
 | 365 | 1254 | Erika Densmore |
 | 366 | 1252 | AgileDragon |
 | 367 | 1252 | Brainy Smurf |
 | 368 | 1249 | Tristan Szolek |
 | 369 | 1247 | LaKisha Anderson |
-| 370 | 1245 | DefaultUser |
-| 371 | 1245 | Angel Hunnewell |
+| 370 | 1245 | Angel Hunnewell |
+| 371 | 1245 | DefaultUser |
 | 372 | 1237 | Christine Coughlin |
 | 373 | 1237 | Cheech Dta |
 | 374 | 1233 | Shannon Joslin |
@@ -386,8 +386,8 @@
 | 378 | 1224 | Kennedy Sandifer |
 | 379 | 1222 | Nuke Morris |
 | 380 | 1218 | Hyper Cluster |
-| 381 | 1217 | Shalena Marie Humphrey |
-| 382 | 1217 | Brooks Brooks |
+| 381 | 1217 | Brooks Brooks |
+| 382 | 1217 | Shalena Marie Humphrey |
 | 383 | 1214 | David Cudicio-Hayden |
 | 384 | 1211 | Cynthia Ward |
 | 385 | 1209 | McLeod Shana |
@@ -404,8 +404,8 @@
 | 396 | 1176 | Misti Markijohn |
 | 397 | 1173 | Giggy Blocker |
 | 398 | 1173 | Cindy Sechler Taninecz |
-| 399 | 1172 | Min |
-| 400 | 1172 | Lakeysha Dortch |
+| 399 | 1172 | Lakeysha Dortch |
+| 400 | 1172 | Min |
 | 401 | 1171 | Loretta Brewer-Gage |
 | 402 | 1170 | Shelley Thornburgh Wright |
 | 403 | 1163 | Sarah DeHart |
@@ -416,8 +416,8 @@
 | 408 | 1150 | Sheniya Spurgeon |
 | 409 | 1149 | Hoppy Brickmatch |
 | 410 | 1149 | Kenny Alvarado |
-| 411 | 1147 | Jánine Riggs |
-| 412 | 1147 | Jennifer Kistner |
+| 411 | 1147 | Jennifer Kistner |
+| 412 | 1147 | Jánine Riggs |
 | 413 | 1145 | Jackie Avila |
 | 414 | 1145 | Miranda Morris |
 | 415 | 1145 | Jodi Mitnick |
@@ -479,10 +479,10 @@
 | 471 | 1036 | trabuco |
 | 472 | 1034 | Jackie Burnett |
 | 473 | 1033 | Andrea Maher |
-| 474 | 1032 | Bold Splitter |
-| 475 | 1032 | Alyssa Hileman |
-| 476 | 1031 | Darla Silva |
-| 477 | 1031 | William Bresee |
+| 474 | 1032 | Alyssa Hileman |
+| 475 | 1032 | Bold Splitter |
+| 476 | 1031 | William Bresee |
+| 477 | 1031 | Darla Silva |
 | 478 | 1027 | Lexie Burke |
 | 479 | 1026 | Kiana Boschh |
 | 480 | 1025 | Ann Matzkanin |
@@ -764,8 +764,8 @@
 | 756 | 732 | Leticia Martinez Kelley |
 | 757 | 731 | Timothy Robert |
 | 758 | 729 | Poldo Ilano |
-| 759 | 728 | Del Davis |
-| 760 | 728 | Snippy Rumbler |
+| 759 | 728 | Snippy Rumbler |
+| 760 | 728 | Del Davis |
 | 761 | 727 | Cc |
 | 762 | 725 | Jennifer Coe |
 | 763 | 725 | Shylee Tilman |
@@ -911,12 +911,12 @@
 | 903 | 644 | Kevin Luu |
 | 904 | 643 | Rae Rae |
 | 905 | 642 | Lewis Sturgeon |
-| 906 | 641 | Snappy Faller |
-| 907 | 641 | Happy Tile |
+| 906 | 641 | Happy Tile |
+| 907 | 641 | Snappy Faller |
 | 908 | 640 | Taylor Flowers |
-| 909 | 639 | Tina Marie |
+| 909 | 639 | Connie Lepore-Mann |
 | 910 | 639 | Libby Hicks |
-| 911 | 639 | Connie Lepore-Mann |
+| 911 | 639 | Tina Marie |
 | 912 | 639 | Shindee |
 | 913 | 639 | Tash Bell |
 | 914 | 638 | Kelly |
@@ -1187,9 +1187,9 @@
 | 1179 | 521 | Karra Lindsey |
 | 1180 | 520 | Matt Hughes |
 | 1181 | 519 | Ashley Robbins |
-| 1182 | 519 | Rob Brown |
-| 1183 | 519 | Abby Jensen |
-| 1184 | 519 | gNiK |
+| 1182 | 519 | Abby Jensen |
+| 1183 | 519 | gNiK |
+| 1184 | 519 | Rob Brown |
 | 1185 | 517 | FloJo |
 | 1186 | 517 | Rebecca Edmund |
 | 1187 | 516 | Umm E Rubab |
