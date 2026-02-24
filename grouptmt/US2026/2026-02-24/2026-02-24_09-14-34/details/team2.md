@@ -58,7 +58,7 @@
 | 50 | 5212 | Nika Bee |
 | 51 | 4886 | Kelly Crook |
 | 52 | 4829 | Rich Sullivan |
-| 53 | 4808 | Jill Stroehlein |
+| 53 | 4798 | Jill Stroehlein |
 | 54 | 4776 | Nickie Baby |
 | 55 | 4773 | YiFei |
 | 56 | 4629 | CoolKat |
@@ -374,14 +374,14 @@
 | 366 | 1229 | Brenda Messer |
 | 367 | 1227 | Rebecca Miller |
 | 368 | 1225 | RAEPR05 |
-| 369 | 1224 | Kennedy Sandifer |
+| 369 | 1222 | Nuke Morris |
 | 370 | 1222 | Kristin Gower |
-| 371 | 1222 | Nuke Morris |
-| 372 | 1218 | LaKisha Anderson |
-| 373 | 1218 | Hyper Cluster |
-| 374 | 1217 | Brooks Brooks |
-| 375 | 1215 | Toni Roberson |
-| 376 | 1214 | David Cudicio-Hayden |
+| 371 | 1218 | LaKisha Anderson |
+| 372 | 1218 | Hyper Cluster |
+| 373 | 1217 | Brooks Brooks |
+| 374 | 1215 | Toni Roberson |
+| 375 | 1214 | David Cudicio-Hayden |
+| 376 | 1211 | Kennedy Sandifer |
 | 377 | 1211 | Cynthia Ward |
 | 378 | 1210 | Amber Gray |
 | 379 | 1207 | Mamachelle Eisweirth |
@@ -399,8 +399,8 @@
 | 391 | 1170 | Shelley Thornburgh Wright |
 | 392 | 1167 | Min |
 | 393 | 1164 | DefaultUser |
-| 394 | 1163 | Sarah DeHart |
-| 395 | 1163 | Caitlin Schmid |
+| 394 | 1163 | Caitlin Schmid |
+| 395 | 1163 | Sarah DeHart |
 | 396 | 1160 | Maricia Layolla Cason |
 | 397 | 1158 | Brittany Clark |
 | 398 | 1150 | Sheniya Spurgeon |
@@ -447,8 +447,8 @@
 | 439 | 1075 | SaraMarie Eveland |
 | 440 | 1074 | Diana Ayers |
 | 441 | 1073 | Jodi Blake |
-| 442 | 1071 | Kim Dean |
-| 443 | 1071 | Nashu |
+| 442 | 1071 | Nashu |
+| 443 | 1071 | Kim Dean |
 | 444 | 1068 | Tiffany Branham |
 | 445 | 1067 | Taylor Phillips |
 | 446 | 1067 | Lourisha |
@@ -1148,9 +1148,9 @@
 | 1140 | 523 | Suzy Moody |
 | 1141 | 523 | Sue Leard |
 | 1142 | 523 | Leslie Porter |
-| 1143 | 521 | Karra Lindsey |
-| 1144 | 521 | Cozy Drop |
-| 1145 | 521 | Boozi |
+| 1143 | 521 | Cozy Drop |
+| 1144 | 521 | Boozi |
+| 1145 | 521 | Karra Lindsey |
 | 1146 | 520 | Matt Hughes |
 | 1147 | 520 | kcakes |
 | 1148 | 519 | Rob Brown |

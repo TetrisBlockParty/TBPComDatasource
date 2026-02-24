@@ -67,8 +67,8 @@
 | 59 | 1173 | Adam Byrd |
 | 60 | 1170 | Tater |
 | 61 | 1150 | Cynthia Bradley |
-| 62 | 1137 | TSwag |
-| 63 | 1137 | Jen Sartain |
+| 62 | 1137 | Jen Sartain |
+| 63 | 1137 | TSwag |
 | 64 | 1127 | Andrea Dañielle Ortiz |
 | 65 | 1122 | Kristen Gideon |
 | 66 | 1114 | Jayme Sellers |
@@ -195,8 +195,8 @@
 | 187 | 511 | MomMom |
 | 188 | 510 | Rat666 |
 | 189 | 501 | Jessica Russell |
-| 190 | 497 | MIKOZ |
-| 191 | 497 | Steve Schneider |
+| 190 | 497 | Steve Schneider |
+| 191 | 497 | MIKOZ |
 | 192 | 496 | Michelle Beres |
 | 193 | 496 | Sarah Somers Gray |
 | 194 | 495 | Connie |
@@ -205,8 +205,8 @@
 | 197 | 493 | Speedy Liney |
 | 198 | 493 | Chuck Gannon |
 | 199 | 492 | Happy Snapbuild |
-| 200 | 488 | Jessie Welch |
-| 201 | 488 | Ly Phethmany |
+| 200 | 488 | Ly Phethmany |
+| 201 | 488 | Jessie Welch |
 | 202 | 486 | Mike Ames |
 | 203 | 482 | Adele Rahman |
 | 204 | 479 | canbrick |

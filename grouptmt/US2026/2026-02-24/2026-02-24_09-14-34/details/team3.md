@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Jessica Ann |
-| 64 | 1824 | Nate Burnside |
+| 63 | 1824 | Nate Burnside |
+| 64 | 1824 | Jessica Ann |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Amanda L Baker |
-| 107 | 1282 | Peppy Shifter |
+| 106 | 1282 | Peppy Shifter |
+| 107 | 1282 | Amanda L Baker |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -126,8 +126,8 @@
 | 118 | 1134 | Melissa Orth Hunter |
 | 119 | 1124 | Stephanie Rice |
 | 120 | 1121 | Corie A. Brinson |
-| 121 | 1114 | Loopy Fallmatch |
-| 122 | 1114 | Groovy Catcher |
+| 121 | 1114 | Groovy Catcher |
+| 122 | 1114 | Loopy Fallmatch |
 | 123 | 1105 | Adrian Marcel Pate |
 | 124 | 1093 | Angela M. Fletcher |
 | 125 | 1091 | Jennifer |
@@ -156,8 +156,8 @@
 | 148 | 971 | Tasha Schriewer |
 | 149 | 963 | Crystal Frey |
 | 150 | 961 | Danielle Allison |
-| 151 | 950 | MissTaylor |
-| 152 | 950 | Giddy Drop |
+| 151 | 950 | Giddy Drop |
+| 152 | 950 | MissTaylor |
 | 153 | 947 | Kellie Montgomery |
 | 154 | 940 | Patty Allen |
 | 155 | 940 | Stephanie Allmon |
@@ -165,8 +165,8 @@
 | 157 | 925 | Cherry Parker |
 | 158 | 914 | Sarajane Lokan |
 | 159 | 914 | BadManSheLove |
-| 160 | 910 | opf |
-| 161 | 910 | Staci George Fitzsimmons |
+| 160 | 910 | Staci George Fitzsimmons |
+| 161 | 910 | opf |
 | 162 | 906 | Patti Skiles |
 | 163 | 900 | Edwin Calvillo Jr. |
 | 164 | 899 | Jaime Monhaut-Reed |
@@ -190,8 +190,8 @@
 | 182 | 832 | Alexmac |
 | 183 | 829 | Patricia White |
 | 184 | 825 | Lizabeth Fox |
-| 185 | 821 | Angella Lyons |
-| 186 | 821 | Kammy Hill |
+| 185 | 821 | Kammy Hill |
+| 186 | 821 | Angella Lyons |
 | 187 | 817 | Niki Dalrymple |
 | 188 | 815 | Justin Ritter |
 | 189 | 813 | JessDrown |
@@ -207,8 +207,8 @@
 | 199 | 784 | Jone |
 | 200 | 783 | Julian Murphy |
 | 201 | 777 | Daryn Elliott |
-| 202 | 774 | ren |
-| 203 | 774 | Twisty Brick LT |
+| 202 | 774 | Twisty Brick LT |
+| 203 | 774 | ren |
 | 204 | 772 | Hasty Cascadefit |
 | 205 | 768 | Cyd061769 |
 | 206 | 766 | Tasha Gillespie |
@@ -295,10 +295,10 @@
 | 287 | 572 | Tessina Dewey-Mancino |
 | 288 | 570 | thekey |
 | 289 | 569 | Gray Hicks |
-| 290 | 569 | Silly Twist |
-| 291 | 569 | Michael Johnson |
-| 292 | 566 | Tyler Shoff |
-| 293 | 566 | Eileen Brady Thurber |
+| 290 | 569 | Michael Johnson |
+| 291 | 569 | Silly Twist |
+| 292 | 566 | Eileen Brady Thurber |
+| 293 | 566 | Tyler Shoff |
 | 294 | 565 | Michael Lucado |
 | 295 | 562 | Dave Herzog |
 | 296 | 561 | Chauntee Alfrey-Cardinale |
@@ -342,8 +342,8 @@
 | 334 | 483 | Tegan Chapman |
 | 335 | 482 | Chummy Rumbler |
 | 336 | 481 | Tiffanie Alley |
-| 337 | 480 | Dee Franklin |
-| 338 | 480 | TLM |
+| 337 | 480 | TLM |
+| 338 | 480 | Dee Franklin |
 | 339 | 479 | Charles Perrone |
 | 340 | 476 | Shunta Jacobs |
 | 341 | 474 | Troy |
@@ -357,8 +357,8 @@
 | 349 | 461 | Hyper Bridger |
 | 350 | 461 | Briana Wellman |
 | 351 | 460 | Antonia Russell |
-| 352 | 459 | TotoCherue |
-| 353 | 459 | Randy Clevenger |
+| 352 | 459 | Randy Clevenger |
+| 353 | 459 | TotoCherue |
 | 354 | 457 | Snippy Wipeout |
 | 355 | 456 | Kelly |
 | 356 | 456 | Cynthia Herrmann Egland |
@@ -407,8 +407,8 @@
 | 399 | 413 | Rick Poppen |
 | 400 | 411 | Beaudie Stroebel |
 | 401 | 409 | Rich LeBlanc |
-| 402 | 408 | Ashley Muncey |
-| 403 | 408 | Tiffany Ford |
+| 402 | 408 | Tiffany Ford |
+| 403 | 408 | Ashley Muncey |
 | 404 | 407 | Christina Spa |
 | 405 | 406 | Kristen Weese |
 | 406 | 405 | Andrew Thorson |
@@ -424,10 +424,10 @@
 | 416 | 397 | Kevin Russell |
 | 417 | 397 | Hasty Gridpiece |
 | 418 | 394 | Jalissa Monique |
-| 419 | 392 | Michelle Allers |
-| 420 | 392 | Linda Draper |
-| 421 | 391 | gremicx |
-| 422 | 391 | Rebel124 |
+| 419 | 392 | Linda Draper |
+| 420 | 392 | Michelle Allers |
+| 421 | 391 | Rebel124 |
+| 422 | 391 | gremicx |
 | 423 | 390 | ROODBOY |
 | 424 | 389 | Kirhonda Autmon |
 | 425 | 389 | Amanda J. Mcneil-Anderson |
@@ -1979,7 +1979,7 @@
 | 1971 | 75 | Mighty Gridroll |
 | 1972 | 75 | mrstlh |
 | 1973 | 75 | CBJ |
-| 1974 | 75 | Spunky Tiley |
+| 1974 | 74 | Ann Smith |
 | 1975 | 74 | wendell |
 | 1976 | 74 | Cindi Figurelli |
 | 1977 | 74 | Dsay Yates |

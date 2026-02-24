@@ -135,11 +135,11 @@
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
-| 130 | 712 | H.R. Block |
-| 131 | 712 | Leslie Nicole |
+| 130 | 712 | Leslie Nicole |
+| 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Chilly Crasher |
-| 134 | 704 | Austin Owens |
+| 133 | 704 | Austin Owens |
+| 134 | 704 | Chilly Crasher |
 | 135 | 682 | Raegan Lane-Ross |
 | 136 | 668 | Desi Desporte |
 | 137 | 667 | Matt Gooder |
@@ -169,8 +169,8 @@
 | 161 | 600 | Cursed Hag |
 | 162 | 595 | TRCuse |
 | 163 | 587 | YoMomma |
-| 164 | 586 | Carlos Ramirez |
-| 165 | 586 | Latisha Davis |
+| 164 | 586 | Latisha Davis |
+| 165 | 586 | Carlos Ramirez |
 | 166 | 585 | Tracey Lehmann |
 | 167 | 584 | Carlton Unfiltered |
 | 168 | 576 | Jade Rian |
@@ -318,8 +318,8 @@
 | 310 | 354 | @ |
 | 311 | 354 | Perky Piecegrid |
 | 312 | 352 | Kate |
-| 313 | 351 | Jackie Clark |
-| 314 | 351 | Dana Scott |
+| 313 | 351 | Dana Scott |
+| 314 | 351 | Jackie Clark |
 | 315 | 350 | Dizzy Matchzone |
 | 316 | 349 | Richard-April Kice |
 | 317 | 349 | jim |
@@ -347,8 +347,8 @@
 | 339 | 331 | rebel4lyfe |
 | 340 | 331 | Angie Schmidt |
 | 341 | 330 | Duck |
-| 342 | 329 | Meagan Nicole |
-| 343 | 329 | AyeKay |
+| 342 | 329 | AyeKay |
+| 343 | 329 | Meagan Nicole |
 | 344 | 328 | Heather Bruce |
 | 345 | 328 | Leah Kutz Zirbel |
 | 346 | 327 | Jessica Petersen |
@@ -425,8 +425,8 @@
 | 417 | 281 | Morti |
 | 418 | 280 | Chummy Towerzone |
 | 419 | 279 | Ziggy |
-| 420 | 278 | L Bear Champion |
-| 421 | 278 | Shainne Brewer |
+| 420 | 278 | Shainne Brewer |
+| 421 | 278 | L Bear Champion |
 | 422 | 277 | Maria Hammie |
 | 423 | 277 | Silly SeaWeed |
 | 424 | 276 | Dennis Bradley |
@@ -573,8 +573,8 @@
 | 565 | 214 | Susan R. Wilson |
 | 566 | 214 | Flashy Jumper |
 | 567 | 214 | Kelly Adams Carnahan |
-| 568 | 213 | Derick |
-| 569 | 213 | Frank Joseph Epson |
+| 568 | 213 | Frank Joseph Epson |
+| 569 | 213 | Derick |
 | 570 | 212 | Karen Lambert |
 | 571 | 212 | Undeniable Williams |
 | 572 | 211 | Sunny Filler |
