@@ -45,8 +45,8 @@
 | 37 | 1515 | Felicia Lewis |
 | 38 | 1405 | Chipper Gridlock |
 | 39 | 1391 | Aaron Garnett |
-| 40 | 1334 | Tyler Alcock |
-| 41 | 1334 | june october |
+| 40 | 1334 | june october |
+| 41 | 1334 | Tyler Alcock |
 | 42 | 1321 | Drew Magnus |
 | 43 | 1291 | Marianne Louise West |
 | 44 | 1268 | Hasbro Bros |
@@ -213,8 +213,8 @@
 | 205 | 446 | SkipTheSadSauce |
 | 206 | 442 | Reesey Enyart |
 | 207 | 441 | Kimberly Garcia |
-| 208 | 439 | Witty Builderfit |
-| 209 | 439 | David Miller |
+| 208 | 439 | David Miller |
+| 209 | 439 | Witty Builderfit |
 | 210 | 434 | Mike Ames |
 | 211 | 432 | Brian Spotts |
 | 212 | 431 | Shiny Snapfit |

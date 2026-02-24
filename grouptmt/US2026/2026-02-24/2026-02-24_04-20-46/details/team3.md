@@ -80,8 +80,8 @@
 | 72 | 1646 | Gracie |
 | 73 | 1633 | cowboy25469 |
 | 74 | 1617 | Queen Kam |
-| 75 | 1566 | Marcie Bressler |
-| 76 | 1566 | Nerdy Riseclear |
+| 75 | 1566 | Nerdy Riseclear |
+| 76 | 1566 | Marcie Bressler |
 | 77 | 1560 | Logan Naccarato |
 | 78 | 1555 | Snappy Glidepiece |
 | 79 | 1552 | joclisa |
@@ -310,8 +310,8 @@
 | 302 | 506 | Ammmmmmy |
 | 303 | 505 | Stephanie Simpson |
 | 304 | 500 | Ashley Tookes |
-| 305 | 499 | Rebecca Bailey |
-| 306 | 499 | Gumbo |
+| 305 | 499 | Gumbo |
+| 306 | 499 | Rebecca Bailey |
 | 307 | 494 | MCV |
 | 308 | 494 | Megan Rathmanner |
 | 309 | 492 | Tasha Wesson-Torrence |
@@ -319,8 +319,8 @@
 | 311 | 490 | Cassandra Bryant |
 | 312 | 489 | Isabel Ocasio |
 | 313 | 489 | Daring Builder |
-| 314 | 486 | Skippy |
-| 315 | 486 | Sleepy |
+| 314 | 486 | Sleepy |
+| 315 | 486 | Skippy |
 | 316 | 482 | Chummy Rumbler |
 | 317 | 481 | Tiffanie Alley |
 | 318 | 480 | TLM |

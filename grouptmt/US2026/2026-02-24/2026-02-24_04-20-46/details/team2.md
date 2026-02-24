@@ -618,12 +618,12 @@
 | 610 | 786 | Ashe Corso |
 | 611 | 785 | Daniel Amos |
 | 612 | 781 | Amanda Ferrell |
-| 613 | 780 | Breezy Filler |
-| 614 | 780 | Megan Kitchner |
+| 613 | 780 | Megan Kitchner |
+| 614 | 780 | Breezy Filler |
 | 615 | 780 | Amy Reynolds |
 | 616 | 779 | Trinity Oak |
-| 617 | 777 | Tesha Oldaker |
-| 618 | 777 | Ashley Lopez |
+| 617 | 777 | Ashley Lopez |
+| 618 | 777 | Tesha Oldaker |
 | 619 | 776 | Jerilyn Andrina |
 | 620 | 775 | Maya June |
 | 621 | 774 | Shanae Dillahunty |
@@ -639,8 +639,8 @@
 | 631 | 763 | Chelle |
 | 632 | 763 | Heather Causey |
 | 633 | 761 | Cecilia A Jenkins |
-| 634 | 759 | Jessica Lamb |
-| 635 | 759 | Briana Alexander |
+| 634 | 759 | Briana Alexander |
+| 635 | 759 | Jessica Lamb |
 | 636 | 758 | Stephanie Neuburger |
 | 637 | 757 | Frisky Clearpiece |
 | 638 | 756 | Aleksandr Gershman |
