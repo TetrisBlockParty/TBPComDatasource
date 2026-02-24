@@ -98,12 +98,12 @@
 | 90 | 791 | Guy Incognito |
 | 91 | 787 | Jason Hart |
 | 92 | 781 | Brittney Griggs |
-| 93 | 775 | TheNeesh50 |
-| 94 | 775 | Klo |
+| 93 | 775 | Klo |
+| 94 | 775 | TheNeesh50 |
 | 95 | 769 | Yoset Mejia |
 | 96 | 768 | Judy Cox |
-| 97 | 768 | Trista Leah |
-| 98 | 768 | Lori Walker |
+| 97 | 768 | Lori Walker |
+| 98 | 768 | Trista Leah |
 | 99 | 767 | Shannon Ferrari |
 | 100 | 766 | Robin Watters |
 | 101 | 765 | Nope Young |
@@ -124,8 +124,8 @@
 | 116 | 682 | Raegan Lane-Ross |
 | 117 | 675 | Chris Alexinas |
 | 118 | 673 | Jacqueline Helm |
-| 119 | 667 | Lindsey Gonzalez |
-| 120 | 667 | Amy Suckarieh |
+| 119 | 667 | Amy Suckarieh |
+| 120 | 667 | Lindsey Gonzalez |
 | 121 | 664 | Leslie Nicole |
 | 122 | 659 | Jamie Gustafson |
 | 123 | 658 | Zippy Gridlock |
