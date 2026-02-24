@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Yoset Mejia |
-| 47 | 1461 | Shane Kalamata Platoon |
+| 46 | 1461 | Shane Kalamata Platoon |
+| 47 | 1461 | Yoset Mejia |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -112,13 +112,13 @@
 | 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
-| 107 | 813 | Klo |
-| 108 | 813 | Amy Suckarieh |
+| 107 | 813 | Amy Suckarieh |
+| 108 | 813 | Klo |
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Crystal Carroll |
-| 113 | 802 | Denise Carlson |
+| 112 | 802 | Denise Carlson |
+| 113 | 802 | Crystal Carroll |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -138,8 +138,8 @@
 | 130 | 719 | George Nutt |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Austin Owens |
-| 134 | 704 | Chilly Crasher |
+| 133 | 704 | Chilly Crasher |
+| 134 | 704 | Austin Owens |
 | 135 | 701 | Angela Srubar-Norman |
 | 136 | 687 | Carmethia Clemons Haslerig |
 | 137 | 682 | Raegan Lane-Ross |
@@ -292,8 +292,8 @@
 | 284 | 402 | Nita Wells |
 | 285 | 398 | Tyler Terrific |
 | 286 | 397 | blockstar |
-| 287 | 395 | Denise B |
-| 288 | 395 | BigSammy420 |
+| 287 | 395 | BigSammy420 |
+| 288 | 395 | Denise B |
 | 289 | 394 | Nikki Rae Gordon |
 | 290 | 393 | Montiette Mcglown |
 | 291 | 390 | Ari Droff |
@@ -323,8 +323,8 @@
 | 315 | 354 | Perky Piecegrid |
 | 316 | 354 | @ |
 | 317 | 352 | Kate |
-| 318 | 351 | Dana Scott |
-| 319 | 351 | Jackie Clark |
+| 318 | 351 | Jackie Clark |
+| 319 | 351 | Dana Scott |
 | 320 | 350 | Dizzy Matchzone |
 | 321 | 349 | jim |
 | 322 | 349 | Richard-April Kice |
@@ -433,8 +433,8 @@
 | 425 | 281 | Morti |
 | 426 | 280 | Chummy Towerzone |
 | 427 | 279 | Ziggy |
-| 428 | 278 | Shainne Brewer |
-| 429 | 278 | L Bear Champion |
+| 428 | 278 | L Bear Champion |
+| 429 | 278 | Shainne Brewer |
 | 430 | 277 | Silly SeaWeed |
 | 431 | 276 | Dennis Bradley |
 | 432 | 275 | Jarred Falls |
@@ -507,8 +507,8 @@
 | 499 | 244 | Jesse Saville |
 | 500 | 244 | Penny Dean |
 | 501 | 243 | Jackie Marie |
-| 502 | 242 | Badatvs |
-| 503 | 242 | PurpleMoonMa |
+| 502 | 242 | PurpleMoonMa |
+| 503 | 242 | Badatvs |
 | 504 | 241 | Katherine Crane |
 | 505 | 240 | Orchislactea |
 | 506 | 240 | Zany Shatterer |

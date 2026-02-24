@@ -32,8 +32,8 @@
 | 24 | 3221 | Ashley Jones |
 | 25 | 3118 | Jamie Lang |
 | 26 | 3042 | Nerdy Spinblock |
-| 27 | 2933 | Dan Rob |
-| 28 | 2933 | Grego Daniel |
+| 27 | 2933 | Grego Daniel |
+| 28 | 2933 | Dan Rob |
 | 29 | 2874 | Zippy Strikesnap |
 | 30 | 2873 | Chummy Shatterer |
 | 31 | 2816 | Fancy Slam |
@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Elaine Webb Graves |
 | 82 | 1555 | Snappy Glidepiece |
@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -127,8 +127,8 @@
 | 119 | 1152 | Julian Murphy |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Loopy Fallmatch |
-| 123 | 1114 | Groovy Catcher |
+| 122 | 1114 | Groovy Catcher |
+| 123 | 1114 | Loopy Fallmatch |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1101 | Valerie Gendron |
 | 126 | 1093 | Angela M. Fletcher |
@@ -199,8 +199,8 @@
 | 191 | 815 | Justin Ritter |
 | 192 | 813 | JessDrown |
 | 193 | 808 | Raya |
-| 194 | 804 | Gideon Walker |
-| 195 | 804 | Alaina Lee |
+| 194 | 804 | Alaina Lee |
+| 195 | 804 | Gideon Walker |
 | 196 | 800 | Lauren Girouard |
 | 197 | 799 | Trisha Balmer |
 | 198 | 792 | Rachel Grant |
@@ -210,8 +210,8 @@
 | 202 | 784 | Jone |
 | 203 | 777 | Daryn Elliott |
 | 204 | 774 | ren |
-| 205 | 772 | Hasty Cascadefit |
-| 206 | 772 | Cyd061769 |
+| 205 | 772 | Cyd061769 |
+| 206 | 772 | Hasty Cascadefit |
 | 207 | 766 | Tasha Gillespie |
 | 208 | 763 | Khaleada McGill Banks |
 | 209 | 762 | Naur |
@@ -299,20 +299,20 @@
 | 291 | 569 | Gray Hicks |
 | 292 | 569 | Silly Twist |
 | 293 | 567 | Stephanie Burtin |
-| 294 | 566 | Eileen Brady Thurber |
-| 295 | 566 | Tyler Shoff |
+| 294 | 566 | Tyler Shoff |
+| 295 | 566 | Eileen Brady Thurber |
 | 296 | 562 | Dave Herzog |
 | 297 | 561 | Chauntee Alfrey-Cardinale |
 | 298 | 556 | Shiny Zonebuilder |
 | 299 | 555 | Danielle Weikel |
 | 300 | 552 | Scott Carleton |
-| 301 | 548 | Shannon Matthew Byers |
-| 302 | 548 | Chris Bell |
+| 301 | 548 | Chris Bell |
+| 302 | 548 | Shannon Matthew Byers |
 | 303 | 547 | Aerian Preston |
 | 304 | 542 | France Vézina |
 | 305 | 541 | Mcathen |
-| 306 | 540 | rosy |
-| 307 | 540 | Tanya Kittrell |
+| 306 | 540 | Tanya Kittrell |
+| 307 | 540 | rosy |
 | 308 | 539 | Fancy Curver |
 | 309 | 539 | Kate M. Murdock |
 | 310 | 538 | Chummy Caster |
@@ -397,10 +397,10 @@
 | 389 | 432 | Sabrina Mansfield |
 | 390 | 431 | Goofy Fall |
 | 391 | 431 | Donna Esbensen-Alpini |
-| 392 | 430 | Quackers |
-| 393 | 430 | AlsoJess |
-| 394 | 428 | Skinny Baldez |
-| 395 | 428 | Samantha Lynn |
+| 392 | 430 | AlsoJess |
+| 393 | 430 | Quackers |
+| 394 | 428 | Samantha Lynn |
+| 395 | 428 | Skinny Baldez |
 | 396 | 428 | keni |
 | 397 | 427 | Darlene McMillan |
 | 398 | 426 | Heather Bateman |
@@ -468,7 +468,7 @@
 | 460 | 372 | Raijinell King |
 | 461 | 371 | Lys |
 | 462 | 369 | Hoppy Buildout |
-| 463 | 368 | Sheila M Frazier |
+| 463 | 368 | Block Baddie |
 | 464 | 368 | Stephanie Woods |
 | 465 | 368 | Sheila M Frazier |
 | 466 | 368 | Tony Waters |
@@ -484,8 +484,8 @@
 | 476 | 360 | Alexi Pryor |
 | 477 | 360 | Cathy Leger |
 | 478 | 359 | Kathleen Taylor |
-| 479 | 358 | Taylor Culver |
-| 480 | 358 | Beejangles |
+| 479 | 358 | Beejangles |
+| 480 | 358 | Taylor Culver |
 | 481 | 358 | Hyper Twisterfit |
 | 482 | 357 | Danetta McCadden |
 | 483 | 356 | Nikkie Bucciano |
@@ -597,8 +597,8 @@
 | 589 | 313 | Emberblaze |
 | 590 | 313 | Muk |
 | 591 | 313 | Dakota Graham |
-| 592 | 312 | Trice Thomas |
-| 593 | 312 | Elizabeth Renee |
+| 592 | 312 | Elizabeth Renee |
+| 593 | 312 | Trice Thomas |
 | 594 | 311 | Irene Arreguin |
 | 595 | 309 | Jumpy Curvebuilder |
 | 596 | 309 | Daisy Rocha |
@@ -2194,7 +2194,7 @@
 | 2186 | 61 | Maria Drummonds Lmt |
 | 2187 | 61 | Rainbow Marie |
 | 2188 | 61 | Lori Rules |
-| 2189 | 61 | Rainbow Marie |
+| 2189 | 61 | Deva Marie Barber |
 | 2190 | 60 | Hyper Slammer |
 | 2191 | 60 | Destiny Ellsworth |
 | 2192 | 60 | Kob Piccaso |
