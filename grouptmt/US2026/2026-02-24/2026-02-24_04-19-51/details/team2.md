@@ -430,8 +430,8 @@
 | 422 | 1049 | Ashlen Dorrell |
 | 423 | 1048 | Sheronda Jackson |
 | 424 | 1043 | Brave Dropmatch |
-| 425 | 1042 | Mcintosh Brian Shalonda |
-| 426 | 1042 | Matthew Barry |
+| 425 | 1042 | Matthew Barry |
+| 426 | 1042 | Mcintosh Brian Shalonda |
 | 427 | 1042 | Spunkysmom |
 | 428 | 1041 | Crystal Hoffman |
 | 429 | 1037 | Allan Wayne Lamia |
@@ -456,15 +456,15 @@
 | 448 | 993 | Davetta Sanford |
 | 449 | 992 | Mighty Shatterfit |
 | 450 | 991 | Della Hole |
-| 451 | 990 | Ann Matzkanin |
-| 452 | 990 | Crystie Hicks |
+| 451 | 990 | Crystie Hicks |
+| 452 | 990 | Ann Matzkanin |
 | 453 | 986 | Sabrena Yeisley |
 | 454 | 986 | Mandi Douglas Hilt |
 | 455 | 982 | Jackie Burnett |
 | 456 | 981 | Block Master |
 | 457 | 979 | Fae-Bulous |
-| 458 | 978 | Barry Britt |
-| 459 | 978 | Kennedy Sandifer |
+| 458 | 978 | Kennedy Sandifer |
+| 459 | 978 | Barry Britt |
 | 460 | 976 | Sam Joe |
 | 461 | 975 | AgileDragon |
 | 462 | 975 | Amanda Woodruff |
@@ -1349,8 +1349,8 @@
 | 1341 | 426 | Lexa Craft Davidson |
 | 1342 | 426 | Juan Killyoselfifudontlikeme Ronaldo |
 | 1343 | 425 | Shay Moore |
-| 1344 | 425 | Christina Jarvis-Swarbrick |
-| 1345 | 425 | Dessire Miranda |
+| 1344 | 425 | Dessire Miranda |
+| 1345 | 425 | Christina Jarvis-Swarbrick |
 | 1346 | 424 | Leslie |
 | 1347 | 424 | Kiorah Blaze |
 | 1348 | 424 | Vermeka Searcey |

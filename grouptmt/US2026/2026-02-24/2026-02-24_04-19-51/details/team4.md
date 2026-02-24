@@ -69,8 +69,8 @@
 | 61 | 1116 | Ashley Ingram |
 | 62 | 1098 | BertMofo |
 | 63 | 1089 | Alyssa Papen |
-| 64 | 1082 | Dion Crommarty |
-| 65 | 1082 | Avy Absol |
+| 64 | 1082 | Avy Absol |
+| 65 | 1082 | Dion Crommarty |
 | 66 | 1075 | Dustee Craddock-Harrison |
 | 67 | 1069 | Heather Tushner |
 | 68 | 1047 | Julian Garcia |
@@ -106,8 +106,8 @@
 | 98 | 811 | Sassy Pattern |
 | 99 | 806 | Lori Walker |
 | 100 | 802 | Crystal Carroll |
-| 101 | 798 | Jewell Urban |
-| 102 | 798 | Klo |
+| 101 | 798 | Klo |
+| 102 | 798 | Jewell Urban |
 | 103 | 796 | Denise Carlson |
 | 104 | 795 | SAP |
 | 105 | 781 | Brittney Griggs |
@@ -135,8 +135,8 @@
 | 127 | 690 | Denia Deni |
 | 128 | 682 | Raegan Lane-Ross |
 | 129 | 669 | Leslie Nicole |
-| 130 | 667 | Matt Gooder |
-| 131 | 667 | Lindsey Gonzalez |
+| 130 | 667 | Lindsey Gonzalez |
+| 131 | 667 | Matt Gooder |
 | 132 | 662 | George Nutt |
 | 133 | 660 | Desi Desporte |
 | 134 | 651 | Adawna Swires |
@@ -562,8 +562,8 @@
 | 554 | 201 | Michael Orris |
 | 555 | 201 | Jake Roberts |
 | 556 | 200 | Loony Rotater |
-| 557 | 199 | Allen Johnson |
-| 558 | 199 | Eri Kka |
+| 557 | 199 | Eri Kka |
+| 558 | 199 | Allen Johnson |
 | 559 | 197 | Brian Owens |
 | 560 | 196 | Julie McAfoos Swanson |
 | 561 | 195 | Christine Simmons |
