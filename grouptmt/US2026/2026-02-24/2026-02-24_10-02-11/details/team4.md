@@ -11,9 +11,9 @@
 | 3 | 8001 | Devinlee Brown |
 | 4 | 5656 | Kat |
 | 5 | 5310 | Breannah Grafe |
-| 6 | 4560 | East Mamba |
-| 7 | 4533 | Kristy Wintermantel |
-| 8 | 4294 | Alyssa Cox |
+| 6 | 4533 | Kristy Wintermantel |
+| 7 | 4294 | Alyssa Cox |
+| 8 | 4261 | East Mamba |
 | 9 | 4210 | Alicia Bass |
 | 10 | 3963 | Anthony Magaraci |
 | 11 | 3721 | Tina Martinez |
@@ -108,12 +108,12 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | quicksand420 |
-| 104 | 834 | Brittney Orengo |
+| 103 | 834 | Brittney Orengo |
+| 104 | 834 | quicksand420 |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
-| 107 | 813 | Klo |
-| 108 | 813 | Amy Suckarieh |
+| 107 | 813 | Amy Suckarieh |
+| 108 | 813 | Klo |
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 802 | Crystal Carroll |
@@ -135,26 +135,26 @@
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
-| 130 | 712 | H.R. Block |
-| 131 | 712 | Leslie Nicole |
+| 130 | 712 | Leslie Nicole |
+| 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
 | 133 | 704 | Chilly Crasher |
 | 134 | 704 | Austin Owens |
 | 135 | 687 | Carmethia Clemons Haslerig |
 | 136 | 682 | Raegan Lane-Ross |
 | 137 | 668 | Desi Desporte |
-| 138 | 667 | Lindsey Gonzalez |
+| 138 | 667 | Swanky Fitline |
 | 139 | 667 | Matt Gooder |
-| 140 | 667 | Swanky Fitline |
+| 140 | 667 | Lindsey Gonzalez |
 | 141 | 662 | Nerdy Twisterfit |
-| 142 | 661 | shar |
-| 143 | 661 | Rodney McMath Jr. |
+| 142 | 661 | Rodney McMath Jr. |
+| 143 | 661 | shar |
 | 144 | 651 | Adawna Swires |
 | 145 | 650 | Chris Hartig |
 | 146 | 647 | KM8 |
-| 147 | 640 | Angela Srubar-Norman |
-| 148 | 639 | Serena Goodridge |
-| 149 | 638 | Porkobello |
+| 147 | 639 | Serena Goodridge |
+| 148 | 638 | Porkobello |
+| 149 | 638 | Angela Srubar-Norman |
 | 150 | 635 | Kim Hunt |
 | 151 | 634 | Carrie Brian |
 | 152 | 633 | Jessica Lynn Cutlip |
@@ -243,8 +243,8 @@
 | 235 | 457 | Kristin Manee |
 | 236 | 457 | J-Rizzle |
 | 237 | 455 | Michele Plunkett |
-| 238 | 454 | David Lay |
-| 239 | 454 | Keshia Lyons |
+| 238 | 454 | Keshia Lyons |
+| 239 | 454 | David Lay |
 | 240 | 450 | Genne Scott |
 | 241 | 449 | Danielle Kollias |
 | 242 | 448 | Mr. Party |
@@ -279,8 +279,8 @@
 | 271 | 407 | Hyper Builder |
 | 272 | 407 | Rafael Valentin |
 | 273 | 402 | Nita Wells |
-| 274 | 399 | Twisty Cascadezone |
-| 275 | 399 | Brittany Little |
+| 274 | 399 | Brittany Little |
+| 275 | 399 | Twisty Cascadezone |
 | 276 | 398 | Tyler Terrific |
 | 277 | 397 | blockstar |
 | 278 | 395 | Denise B |
@@ -348,13 +348,13 @@
 | 340 | 336 | Gracie Ann Taylor |
 | 341 | 335 | Snippy Puzzle |
 | 342 | 334 | Zethra Prenisha Rahming |
-| 343 | 331 | Angie Schmidt |
-| 344 | 331 | rebel4lyfe |
+| 343 | 331 | rebel4lyfe |
+| 344 | 331 | Angie Schmidt |
 | 345 | 330 | Duck |
 | 346 | 329 | AyeKay |
 | 347 | 329 | Meagan Nicole |
-| 348 | 328 | Heather Bruce |
-| 349 | 328 | Leah Kutz Zirbel |
+| 348 | 328 | Leah Kutz Zirbel |
+| 349 | 328 | Heather Bruce |
 | 350 | 327 | Jessica Petersen |
 | 351 | 327 | Jim Hart |
 | 352 | 325 | Cool Gridzone |
@@ -413,9 +413,9 @@
 | 405 | 289 | Brave Spinbuilder |
 | 406 | 289 | Jenny Wells-Oakley |
 | 407 | 289 | Lazy Glidepiece |
-| 408 | 288 | Amy Jean |
-| 409 | 288 | Eminem |
-| 410 | 288 | Susan Williams |
+| 408 | 288 | Susan Williams |
+| 409 | 288 | Amy Jean |
+| 410 | 288 | Eminem |
 | 411 | 288 | Michael Orris |
 | 412 | 286 | Stephme310 |
 | 413 | 284 | Shiny Pivoty |

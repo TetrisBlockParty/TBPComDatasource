@@ -126,37 +126,37 @@
 | 118 | 1134 | Melissa Orth Hunter |
 | 119 | 1124 | Stephanie Rice |
 | 120 | 1121 | Corie A. Brinson |
-| 121 | 1114 | Groovy Catcher |
-| 122 | 1114 | Loopy Fallmatch |
+| 121 | 1114 | Loopy Fallmatch |
+| 122 | 1114 | Groovy Catcher |
 | 123 | 1105 | Adrian Marcel Pate |
 | 124 | 1093 | Angela M. Fletcher |
 | 125 | 1091 | Jennifer |
 | 126 | 1084 | Santana Lantana |
 | 127 | 1082 | Valerie Gendron |
-| 128 | 1077 | Julian Murphy |
-| 129 | 1067 | DaBigGuy |
-| 130 | 1066 | Demetrious Shaw Sr. |
-| 131 | 1065 | Rachel |
-| 132 | 1058 | Katrina Schroeder |
-| 133 | 1055 | Christine Trester |
-| 134 | 1048 | Jesse Olive |
-| 135 | 1046 | Felicia Rocha |
-| 136 | 1039 | LaTanya GeminiondaRise Johnson |
-| 137 | 1038 | Mandy Smith Oldham |
-| 138 | 1028 | Bea Miles |
-| 139 | 1023 | Chelsea Hall |
-| 140 | 1021 | Poppy Splitter |
-| 141 | 1014 | Shavette |
-| 142 | 1012 | Danielle Becker |
-| 143 | 1000 | Sashay Tapae Simpson |
-| 144 | 998 | Rosalie Call Kehlenbeck |
-| 145 | 995 | mzcatzy |
-| 146 | 991 | Heather Green |
-| 147 | 990 | Brenda Lee Vander Molen |
-| 148 | 987 | Happy Tetriblast |
-| 149 | 971 | Tasha Schriewer |
-| 150 | 963 | Crystal Frey |
-| 151 | 961 | Danielle Allison |
+| 128 | 1067 | DaBigGuy |
+| 129 | 1066 | Demetrious Shaw Sr. |
+| 130 | 1065 | Rachel |
+| 131 | 1058 | Katrina Schroeder |
+| 132 | 1055 | Christine Trester |
+| 133 | 1048 | Jesse Olive |
+| 134 | 1046 | Felicia Rocha |
+| 135 | 1039 | LaTanya GeminiondaRise Johnson |
+| 136 | 1038 | Mandy Smith Oldham |
+| 137 | 1028 | Bea Miles |
+| 138 | 1023 | Chelsea Hall |
+| 139 | 1021 | Poppy Splitter |
+| 140 | 1014 | Shavette |
+| 141 | 1012 | Danielle Becker |
+| 142 | 1000 | Sashay Tapae Simpson |
+| 143 | 998 | Rosalie Call Kehlenbeck |
+| 144 | 995 | mzcatzy |
+| 145 | 991 | Heather Green |
+| 146 | 990 | Brenda Lee Vander Molen |
+| 147 | 987 | Happy Tetriblast |
+| 148 | 971 | Tasha Schriewer |
+| 149 | 963 | Crystal Frey |
+| 150 | 961 | Danielle Allison |
+| 151 | 950 | Giddy Drop |
 | 152 | 950 | MissTaylor |
 | 153 | 947 | Kellie Montgomery |
 | 154 | 940 | Patty Allen |
@@ -210,7 +210,7 @@
 | 202 | 774 | Twisty Brick LT |
 | 203 | 774 | ren |
 | 204 | 772 | Hasty Cascadefit |
-| 205 | 770 | Cyd061769 |
+| 205 | 768 | Cyd061769 |
 | 206 | 766 | Tasha Gillespie |
 | 207 | 763 | Khaleada McGill Banks |
 | 208 | 762 | Naur |
@@ -236,10 +236,10 @@
 | 228 | 708 | Stephanie Bradley |
 | 229 | 704 | Betty Bóò |
 | 230 | 703 | Shawn Miller |
-| 231 | 693 | lashanda |
-| 232 | 693 | Heather Davis |
-| 233 | 691 | Snappy Balancer |
-| 234 | 691 | Tia |
+| 231 | 693 | Heather Davis |
+| 232 | 693 | lashanda |
+| 233 | 691 | Tia |
+| 234 | 691 | Snappy Balancer |
 | 235 | 687 | joz |
 | 236 | 685 | Brandon Givens |
 | 237 | 680 | Terry Jo Jones |
@@ -290,8 +290,8 @@
 | 282 | 582 | FuzzyNavel |
 | 283 | 581 | Crystal Hine |
 | 284 | 578 | James Mitchell |
-| 285 | 574 | Rachael McClain Owens |
-| 286 | 574 | Danielle Balcom |
+| 285 | 574 | Danielle Balcom |
+| 286 | 574 | Rachael McClain Owens |
 | 287 | 572 | Tessina Dewey-Mancino |
 | 288 | 570 | thekey |
 | 289 | 569 | Gray Hicks |
@@ -324,13 +324,13 @@
 | 316 | 523 | Ktfreeee |
 | 317 | 518 | Marquita Sheard |
 | 318 | 514 | Nikki White |
-| 319 | 506 | Ammmmmmy |
-| 320 | 506 | Tiffanie Alley |
+| 319 | 506 | Tiffanie Alley |
+| 320 | 506 | Ammmmmmy |
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
-| 324 | 499 | Megan Rathmanner |
-| 325 | 499 | Gumbo |
+| 324 | 499 | Gumbo |
+| 325 | 499 | Megan Rathmanner |
 | 326 | 496 | Brenda Schmid Wood |
 | 327 | 494 | MCV |
 | 328 | 494 | fraulila |
@@ -416,8 +416,8 @@
 | 408 | 406 | Kristen Weese |
 | 409 | 405 | Andrew Thorson |
 | 410 | 404 | Alice |
-| 411 | 404 | Karent524 |
-| 412 | 404 | Giggy Balanceblock |
+| 411 | 404 | Giggy Balanceblock |
+| 412 | 404 | Karent524 |
 | 413 | 403 | Scott Lindsay |
 | 414 | 403 | keni |
 | 415 | 401 | Velma Mull |
@@ -431,8 +431,8 @@
 | 423 | 391 | Rebel124 |
 | 424 | 391 | gremicx |
 | 425 | 390 | ROODBOY |
-| 426 | 389 | Kirhonda Autmon |
-| 427 | 389 | Amanda J. Mcneil-Anderson |
+| 426 | 389 | Amanda J. Mcneil-Anderson |
+| 427 | 389 | Kirhonda Autmon |
 | 428 | 387 | Brittany K Ward |
 | 429 | 386 | Geoffrey Nash |
 | 430 | 384 | Tiffany Davie |
@@ -506,9 +506,9 @@
 | 498 | 344 | Lys |
 | 499 | 343 | Michael Leblanc |
 | 500 | 343 | Christina Marie Swisher |
-| 501 | 342 | Tipsy Zonebuilder |
+| 501 | 342 | Saucy Buildout |
 | 502 | 342 | Boldy Corner |
-| 503 | 342 | Saucy Buildout |
+| 503 | 342 | Tipsy Zonebuilder |
 | 504 | 341 | Funky Jumper |
 | 505 | 340 | Becca Engle |
 | 506 | 340 | Loony Slider |
@@ -526,8 +526,8 @@
 | 518 | 335 | Sassy Brickmatch |
 | 519 | 335 | Johnathan Dowe |
 | 520 | 334 | Stella |
-| 521 | 334 | Sharisse Baltimore |
-| 522 | 334 | Carol Cain Thurman |
+| 521 | 334 | Carol Cain Thurman |
+| 522 | 334 | Sharisse Baltimore |
 | 523 | 333 | Heather Ferrara |
 | 524 | 333 | Hyper Wipeout |
 | 525 | 332 | Clever Edgepiece |
@@ -1452,8 +1452,8 @@
 | 1444 | 128 | Kalisha Wilbourn |
 | 1445 | 128 | Sheila Segura |
 | 1446 | 128 | Twister mcnugget |
-| 1447 | 128 | LaMonsherrie Maddox |
-| 1448 | 128 | MsSassy Williams |
+| 1447 | 128 | MsSassy Williams |
+| 1448 | 128 | LaMonsherrie Maddox |
 | 1449 | 127 | MattieT |
 | 1450 | 127 | Alexsandran Valdivia |
 | 1451 | 127 | Kristina Marie |

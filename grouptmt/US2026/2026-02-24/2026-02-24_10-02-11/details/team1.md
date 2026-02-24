@@ -278,8 +278,8 @@
 | 270 | 390 | David Lutcher |
 | 271 | 388 | Test |
 | 272 | 387 | Sarah Roberts |
-| 273 | 386 | Melissa Bires Hussar |
-| 274 | 386 | Angela Renea Lester |
+| 273 | 386 | Angela Renea Lester |
+| 274 | 386 | Melissa Bires Hussar |
 | 275 | 384 | Irv |
 | 276 | 384 | Cody Gates |
 | 277 | 384 | Colleen Pinette |
@@ -289,8 +289,8 @@
 | 281 | 381 | Sarahdactyl |
 | 282 | 379 | Austin James |
 | 283 | 378 | Eddie Dillon |
-| 284 | 377 | Rayline M Bradshaw |
-| 285 | 377 | GATOR |
+| 284 | 377 | GATOR |
+| 285 | 377 | Rayline M Bradshaw |
 | 286 | 377 | DoodleBug |
 | 287 | 376 | Brian Richardsson |
 | 288 | 376 | Sassy Builderline |
@@ -375,8 +375,8 @@
 | 367 | 317 | Amh |
 | 368 | 316 | Giggly Builderline |
 | 369 | 315 | san |
-| 370 | 313 | Steph |
-| 371 | 313 | Delvison Rosario |
+| 370 | 313 | Delvison Rosario |
+| 371 | 313 | Steph |
 | 372 | 312 | Diane Byrd |
 | 373 | 312 | Nicole Meredith Flynn |
 | 374 | 311 | Nathan Sealander |
@@ -876,9 +876,9 @@
 | 868 | 138 | VaSharon Crenshaw |
 | 869 | 138 | SophieG |
 | 870 | 138 | kels |
-| 871 | 138 | SophieG |
-| 872 | 137 | Kalesha Tteirrah |
-| 873 | 137 | Lin |
+| 871 | 138 | Abusive |
+| 872 | 137 | Lin |
+| 873 | 137 | Kalesha Tteirrah |
 | 874 | 137 | Rockin Red |
 | 875 | 136 | Jennifer Chilton-Metlock |
 | 876 | 136 | NicaOrlice |

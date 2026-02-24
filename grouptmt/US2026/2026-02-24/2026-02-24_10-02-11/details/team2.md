@@ -110,8 +110,8 @@
 | 102 | 3100 | Adam Erikson |
 | 103 | 3055 | Cherica Taylor |
 | 104 | 3011 | Thomas Hughes |
-| 105 | 2933 | Deanna Morton |
-| 106 | 2929 | Jordan Petro |
+| 105 | 2929 | Jordan Petro |
+| 106 | 2926 | Deanna Morton |
 | 107 | 2918 | Angi Harrison |
 | 108 | 2896 | Mighty Liner |
 | 109 | 2876 | John Rodriguez |
@@ -282,8 +282,8 @@
 | 274 | 1480 | Dimitra Zazara |
 | 275 | 1479 | Pacynthia Williams |
 | 276 | 1478 | Misty Walker |
-| 277 | 1477 | Hillary Crawford |
-| 278 | 1477 | Prado |
+| 277 | 1477 | Prado |
+| 278 | 1477 | Hillary Crawford |
 | 279 | 1469 | Carrie Trigg |
 | 280 | 1463 | Yvonne Wharton |
 | 281 | 1459 | Shiny Rollzone |
@@ -359,9 +359,9 @@
 | 351 | 1268 | Keri Womack |
 | 352 | 1264 | Mama T |
 | 353 | 1261 | Becca Coronado |
-| 354 | 1257 | Megan Garrick |
-| 355 | 1257 | Megan Ferguson Leone |
-| 356 | 1257 | Jackie Lucas |
+| 354 | 1257 | Jackie Lucas |
+| 355 | 1257 | Megan Garrick |
+| 356 | 1257 | Megan Ferguson Leone |
 | 357 | 1256 | Phil J. Grombliniak |
 | 358 | 1256 | Belle |
 | 359 | 1254 | Erika Densmore |
@@ -606,8 +606,8 @@
 | 598 | 850 | Sabrina Burton |
 | 599 | 849 | Jasmine Kenney |
 | 600 | 848 | Happy Wipeblock |
-| 601 | 847 | Rhonda Milstead |
-| 602 | 847 | Megan Kitchner |
+| 601 | 847 | Megan Kitchner |
+| 602 | 847 | Rhonda Milstead |
 | 603 | 844 | Diana Fitzwater |
 | 604 | 844 | Terri McKelvey McKinley |
 | 605 | 843 | Quirky Twistline |
@@ -672,8 +672,8 @@
 | 664 | 783 | Regina Young |
 | 665 | 781 | g |
 | 666 | 780 | Amy Reynolds |
-| 667 | 780 | April Dawn Royal |
-| 668 | 780 | Breezy Filler |
+| 667 | 780 | Breezy Filler |
+| 668 | 779 | Trinity Oak |
 | 669 | 779 | Shanae Dillahunty |
 | 670 | 777 | Ashley Lopez |
 | 671 | 777 | Tesha Oldaker |
@@ -777,9 +777,9 @@
 | 769 | 711 | Narutofreak13 |
 | 770 | 710 | Alexis Richardson |
 | 771 | 707 | Giggy Grabber |
-| 772 | 706 | Roseanna Peloso |
-| 773 | 706 | Josh Webster |
-| 774 | 706 | Karen Posadas Centeno |
+| 772 | 706 | Karen Posadas Centeno |
+| 773 | 706 | Roseanna Peloso |
+| 774 | 706 | Josh Webster |
 | 775 | 705 | Chelsea Gutierrez |
 | 776 | 703 | cornball |
 | 777 | 703 | Funky Drop |
@@ -852,8 +852,8 @@
 | 844 | 667 | Demeka Dangerous-kisses Johnson |
 | 845 | 666 | Laura Mclean |
 | 846 | 665 | Frank Castle |
-| 847 | 665 | NanDa Cruzan VI |
-| 848 | 665 | Zak Dunn |
+| 847 | 665 | Zak Dunn |
+| 848 | 664 | Jarboe |
 | 849 | 664 | Julie Hamilton |
 | 850 | 664 | Trista Carter |
 | 851 | 663 | snkylnk |
@@ -926,8 +926,8 @@
 | 918 | 628 | Macy Jarrett |
 | 919 | 627 | Kristie Wilcox |
 | 920 | 624 | Elizabeth Perterson |
-| 921 | 622 | Michael Artis |
-| 922 | 622 | Ryan Meilleur |
+| 921 | 622 | Ryan Meilleur |
+| 922 | 622 | Michael Artis |
 | 923 | 622 | Ben Barkley |
 | 924 | 621 | Moua Ying |
 | 925 | 621 | Kitybox |
@@ -1161,14 +1161,14 @@
 | 1153 | 520 | kcakes |
 | 1154 | 519 | Rob Brown |
 | 1155 | 519 | Ashley Robbins |
-| 1156 | 519 | Abby Jensen |
-| 1157 | 519 | gNiK |
+| 1156 | 519 | gNiK |
+| 1157 | 519 | Abby Jensen |
 | 1158 | 519 | Bing |
 | 1159 | 518 | Darlene Bowman |
-| 1160 | 517 | Meganator42 |
-| 1161 | 517 | Rebecca Edmund |
-| 1162 | 515 | Brave Gridpiece |
-| 1163 | 515 | Chill Strike |
+| 1160 | 517 | Rebecca Edmund |
+| 1161 | 517 | Meganator42 |
+| 1162 | 515 | Chill Strike |
+| 1163 | 515 | Brave Gridpiece |
 | 1164 | 515 | Ashlyn Berner |
 | 1165 | 515 | Madysen Holt |
 | 1166 | 515 | Poppy |
@@ -1209,8 +1209,8 @@
 | 1201 | 498 | Epic Stackzone |
 | 1202 | 498 | Rolie Garcia |
 | 1203 | 498 | Drwatson187 |
-| 1204 | 497 | Mary Marie |
-| 1205 | 497 | June E Hanson |
+| 1204 | 497 | June E Hanson |
+| 1205 | 497 | Mary Marie |
 | 1206 | 497 | Stephanie Pitts |
 | 1207 | 497 | Bdubb |
 | 1208 | 496 | BlaqSupaMan |
