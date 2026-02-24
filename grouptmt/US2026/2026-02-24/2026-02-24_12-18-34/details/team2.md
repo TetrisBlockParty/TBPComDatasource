@@ -226,8 +226,8 @@
 | 218 | 1800 | Tony Lea |
 | 219 | 1787 | Teddi Notyalc |
 | 220 | 1786 | Eric Carlson |
-| 221 | 1775 | Sommer Shope |
-| 222 | 1775 | Eboni Banks |
+| 221 | 1775 | Eboni Banks |
+| 222 | 1775 | Sommer Shope |
 | 223 | 1774 | Nerdy Pattern |
 | 224 | 1761 | Rosa Franklin |
 | 225 | 1751 | Melissa Penelope Ann Dodge |
@@ -317,8 +317,8 @@
 | 309 | 1381 | Christie |
 | 310 | 1381 | Dapper Dasher |
 | 311 | 1380 | Jerilyn Andrina |
-| 312 | 1376 | Megan Brianna |
-| 313 | 1376 | Kevin Sees |
+| 312 | 1376 | Kevin Sees |
+| 313 | 1376 | Megan Brianna |
 | 314 | 1374 | Sarah Berger |
 | 315 | 1362 | Angie Marie |
 | 316 | 1357 | Tanya Parsons |
@@ -333,8 +333,8 @@
 | 325 | 1342 | Groovy Puzzle |
 | 326 | 1342 | Kelly A Green-Leach |
 | 327 | 1341 | Cassie Mercer |
-| 328 | 1338 | Meghan M |
-| 329 | 1338 | Diallo Sparkman |
+| 328 | 1338 | Diallo Sparkman |
+| 329 | 1338 | Meghan M |
 | 330 | 1336 | Frothy Rumbler |
 | 331 | 1334 | Jamie Otero |
 | 332 | 1333 | nikki |
@@ -344,8 +344,8 @@
 | 336 | 1319 | Joshua Sommerville |
 | 337 | 1315 | Desiree Anderson |
 | 338 | 1313 | Jermaine Harris |
-| 339 | 1308 | Snappy Matchbuilder |
-| 340 | 1308 | Laura Morrison |
+| 339 | 1308 | Laura Morrison |
+| 340 | 1308 | Snappy Matchbuilder |
 | 341 | 1308 | Christina Lewis-Vickers |
 | 342 | 1305 | Roman Lavochnik |
 | 343 | 1304 | Sarah Ridenour |
@@ -413,8 +413,8 @@
 | 405 | 1149 | Hoppy Brickmatch |
 | 406 | 1149 | Kenny Alvarado |
 | 407 | 1147 | Jánine Riggs |
-| 408 | 1147 | Shalena Marie Humphrey |
-| 409 | 1147 | Jennifer Kistner |
+| 408 | 1147 | Jennifer Kistner |
+| 409 | 1147 | Shalena Marie Humphrey |
 | 410 | 1145 | Miranda Morris |
 | 411 | 1145 | Jodi Mitnick |
 | 412 | 1145 | Jackie Avila |
@@ -561,8 +561,8 @@
 | 553 | 923 | Danielle Simmons |
 | 554 | 922 | Butta |
 | 555 | 921 | Dannette Goldberg-Richards |
-| 556 | 920 | Arwa Fatimah |
-| 557 | 920 | Miranda Jackson |
+| 556 | 920 | Miranda Jackson |
+| 557 | 920 | Arwa Fatimah |
 | 558 | 919 | Isaac Trappiel IV |
 | 559 | 918 | Draizen Montrell Thomas |
 | 560 | 917 | William David Swallow |
@@ -889,11 +889,11 @@
 | 881 | 655 | dionia |
 | 882 | 654 | David Duncan |
 | 883 | 653 | Kimmie Zimmerman-Rocha |
-| 884 | 652 | Lively Edgepiece |
-| 885 | 652 | Court |
+| 884 | 652 | Court |
+| 885 | 652 | Lively Edgepiece |
 | 886 | 652 | Irna |
-| 887 | 651 | Lazy Builderfit |
-| 888 | 651 | Unica Rector |
+| 887 | 651 | Unica Rector |
+| 888 | 651 | Lazy Builderfit |
 | 889 | 650 | Pfc Monei Rivera |
 | 890 | 650 | Brittany Chapman |
 | 891 | 650 | Peppy Snapfall |

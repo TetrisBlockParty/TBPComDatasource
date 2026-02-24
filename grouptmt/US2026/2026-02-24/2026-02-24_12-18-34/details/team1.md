@@ -50,8 +50,8 @@
 | 42 | 1405 | Chipper Gridlock |
 | 43 | 1391 | Aaron Garnett |
 | 44 | 1388 | Jen Sartain |
-| 45 | 1334 | june october |
-| 46 | 1334 | Tyler Alcock |
+| 45 | 1334 | Tyler Alcock |
+| 46 | 1334 | june october |
 | 47 | 1325 | Drew Magnus |
 | 48 | 1305 | Michelle Nicole |
 | 49 | 1290 | Spunky Piecebuilder |
@@ -98,8 +98,8 @@
 | 90 | 916 | Chirpy Smasher |
 | 91 | 912 | comrade fish |
 | 92 | 904 | Fmp |
-| 93 | 898 | Cheeky Crusher |
-| 94 | 898 | Dawn Sheppard |
+| 93 | 898 | Dawn Sheppard |
+| 94 | 898 | Cheeky Crusher |
 | 95 | 892 | Seth Wesson |
 | 96 | 889 | Amanda Johnson Huffman |
 | 97 | 884 | Sevens4L |
@@ -223,8 +223,8 @@
 | 215 | 475 | Reesey Enyart |
 | 216 | 470 | Candy Jones |
 | 217 | 468 | Jessie Lynn |
-| 218 | 467 | Witty Builderfit |
-| 219 | 467 | Brian Spotts |
+| 218 | 467 | Brian Spotts |
+| 219 | 467 | Witty Builderfit |
 | 220 | 466 | Lori Bales |
 | 221 | 460 | Sam Williams |
 | 222 | 458 | Goose egg |
@@ -355,8 +355,8 @@
 | 347 | 337 | Jeremy Maubert |
 | 348 | 337 | Chaste Minor |
 | 349 | 336 | Mrs.Patrica |
-| 350 | 335 | Glitzy Curvebuilder |
-| 351 | 335 | Rachel Nilles |
+| 350 | 335 | Rachel Nilles |
+| 351 | 335 | Glitzy Curvebuilder |
 | 352 | 334 | Nate Price |
 | 353 | 332 | Gina Bettikofer |
 | 354 | 332 | Larry Tilton |
@@ -530,8 +530,8 @@
 | 522 | 246 | Frothy Blockbuilder |
 | 523 | 246 | ken |
 | 524 | 245 | Theeranart Mahawan |
-| 525 | 244 | Mrsbigdawg |
-| 526 | 244 | Kristen Meehan Wangerien |
+| 525 | 244 | Kristen Meehan Wangerien |
+| 526 | 244 | Mrsbigdawg |
 | 527 | 243 | Gerald Richard Franke |
 | 528 | 242 | Pauline Cortez |
 | 529 | 242 | Joshua Weeder |
@@ -1009,7 +1009,7 @@
 | 1001 | 115 | PeppyPenguin |
 | 1002 | 114 | Amy Marques |
 | 1003 | 114 | Jason Chabot |
-| 1004 | 114 | Amy Marques |
+| 1004 | 114 | Nekina Wright |
 | 1005 | 113 | Chilly Matchbuilder |
 | 1006 | 113 | Susan Good |
 | 1007 | 112 | CMG |

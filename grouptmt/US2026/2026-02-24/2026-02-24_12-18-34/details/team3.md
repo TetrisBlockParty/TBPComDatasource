@@ -32,8 +32,8 @@
 | 24 | 3221 | Ashley Jones |
 | 25 | 3118 | Jamie Lang |
 | 26 | 3042 | Nerdy Spinblock |
-| 27 | 2933 | Dan Rob |
-| 28 | 2933 | Grego Daniel |
+| 27 | 2933 | Grego Daniel |
+| 28 | 2933 | Dan Rob |
 | 29 | 2874 | Zippy Strikesnap |
 | 30 | 2873 | Chummy Shatterer |
 | 31 | 2816 | Fancy Slam |
@@ -111,8 +111,8 @@
 | 103 | 1311 | JerseyJess |
 | 104 | 1309 | yoyo |
 | 105 | 1297 | Shelby Michelle |
-| 106 | 1282 | Amanda L Baker |
-| 107 | 1282 | Peppy Shifter |
+| 106 | 1282 | Peppy Shifter |
+| 107 | 1282 | Amanda L Baker |
 | 108 | 1280 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -160,15 +160,15 @@
 | 152 | 963 | Crystal Frey |
 | 153 | 961 | Danielle Allison |
 | 154 | 951 | Betty Rosas |
-| 155 | 950 | Giddy Drop |
-| 156 | 950 | MissTaylor |
+| 155 | 950 | MissTaylor |
+| 156 | 950 | Giddy Drop |
 | 157 | 947 | Kellie Montgomery |
 | 158 | 940 | Stephanie Allmon |
 | 159 | 936 | Dolores Falco |
 | 160 | 928 | Edwin Calvillo Jr. |
 | 161 | 925 | Cherry Parker |
-| 162 | 914 | Staci George Fitzsimmons |
-| 163 | 914 | BadManSheLove |
+| 162 | 914 | BadManSheLove |
+| 163 | 914 | Staci George Fitzsimmons |
 | 164 | 910 | opf |
 | 165 | 906 | Patti Skiles |
 | 166 | 899 | Jaime Monhaut-Reed |
@@ -188,8 +188,8 @@
 | 180 | 857 | Dana Fox |
 | 181 | 856 | Dana Winters |
 | 182 | 854 | Speedy Bridger |
-| 183 | 847 | Daring Brickzone |
-| 184 | 847 | Daira Largen |
+| 183 | 847 | Daira Largen |
+| 184 | 847 | Daring Brickzone |
 | 185 | 842 | Alexmac |
 | 186 | 829 | Patricia White |
 | 187 | 825 | Lizabeth Fox |
@@ -235,8 +235,8 @@
 | 227 | 721 | Karon Griffin |
 | 228 | 714 | Jenny Hrndz |
 | 229 | 713 | Stephanie Blkpep Davidson |
-| 230 | 709 | Cynthia Castros-Hampton |
-| 231 | 709 | Christine Niles |
+| 230 | 709 | Christine Niles |
+| 231 | 709 | Cynthia Castros-Hampton |
 | 232 | 708 | Stephanie Bradley |
 | 233 | 708 | Jim Mathews |
 | 234 | 707 | Snappy Balancer |
@@ -362,13 +362,13 @@
 | 354 | 470 | Jazzy Spinfit |
 | 355 | 468 | Bigmack |
 | 356 | 467 | Danielle Rhoades |
-| 357 | 465 | Noettín Kan Zasnemoore |
-| 358 | 465 | Blocked |
+| 357 | 465 | Blocked |
+| 358 | 465 | Noettín Kan Zasnemoore |
 | 359 | 464 | Snazzy Filler |
 | 360 | 464 | Snippy Wipeout |
 | 361 | 463 | Hoài Quắt |
-| 362 | 461 | Breanna Marsden |
-| 363 | 461 | Hyper Bridger |
+| 362 | 461 | Hyper Bridger |
+| 363 | 461 | Breanna Marsden |
 | 364 | 461 | Briana Wellman |
 | 365 | 460 | Hasty Gridpiece |
 | 366 | 460 | Antonia Russell |
@@ -413,8 +413,8 @@
 | 405 | 418 | Rainbow77375 |
 | 406 | 417 | Krish Shah |
 | 407 | 416 | Tay |
-| 408 | 414 | Arden White Kirsch |
-| 409 | 414 | Michelle Allers |
+| 408 | 414 | Michelle Allers |
+| 409 | 414 | Arden White Kirsch |
 | 410 | 413 | Rick Poppen |
 | 411 | 411 | Beaudie Stroebel |
 | 412 | 409 | Rich LeBlanc |
@@ -541,8 +541,8 @@
 | 533 | 333 | Moneyvybz |
 | 534 | 333 | Heather Ferrara |
 | 535 | 332 | Clever Edgepiece |
-| 536 | 331 | Amanda Declue |
-| 537 | 331 | Wettnippz |
+| 536 | 331 | Wettnippz |
+| 537 | 331 | Amanda Declue |
 | 538 | 330 | Emma |
 | 539 | 330 | Willow |
 | 540 | 329 | Fredd Thomas |

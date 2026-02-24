@@ -152,8 +152,8 @@
 | 144 | 661 | Rodney McMath Jr. |
 | 145 | 661 | shar |
 | 146 | 651 | Adawna Swires |
-| 147 | 650 | April Rondinone |
-| 148 | 650 | Chris Hartig |
+| 147 | 650 | Chris Hartig |
+| 148 | 650 | April Rondinone |
 | 149 | 647 | KM8 |
 | 150 | 646 | Kim Hunt |
 | 151 | 639 | Serena Goodridge |
@@ -233,12 +233,12 @@
 | 225 | 482 | Laura |
 | 226 | 481 | Joanna |
 | 227 | 475 | Silly Zonebuilder |
-| 228 | 473 | Jolly Dashfit |
-| 229 | 473 | Cranky Rollpiece |
+| 228 | 473 | Cranky Rollpiece |
+| 229 | 473 | Jolly Dashfit |
 | 230 | 472 | Plucky Patternblock |
 | 231 | 465 | Leslie Thomas |
-| 232 | 464 | Zakia Monae |
-| 233 | 464 | Calvin Cannon |
+| 232 | 464 | Calvin Cannon |
+| 233 | 464 | Zakia Monae |
 | 234 | 463 | shark tato |
 | 235 | 462 | scott |
 | 236 | 462 | Crystal Nicolette Moore |
@@ -246,8 +246,8 @@
 | 238 | 460 | Kathy Brookins |
 | 239 | 458 | Luis Martinez |
 | 240 | 458 | Kristina Black |
-| 241 | 457 | Kristin Manee |
-| 242 | 457 | J-Rizzle |
+| 241 | 457 | J-Rizzle |
+| 242 | 457 | Kristin Manee |
 | 243 | 455 | Michele Plunkett |
 | 244 | 454 | Jessi Cinotto |
 | 245 | 454 | Keshia Lyons |
@@ -628,8 +628,8 @@
 | 620 | 198 | Ahleek Mitchell |
 | 621 | 198 | Bubbly Setter |
 | 622 | 197 | Satinleader |
-| 623 | 197 | Colton Stamper |
-| 624 | 197 | Mcg |
+| 623 | 197 | Mcg |
+| 624 | 197 | Colton Stamper |
 | 625 | 196 | Speedy Swipe |
 | 626 | 195 | Jobadia Steelerton |
 | 627 | 195 | Tianna Frey |
@@ -639,7 +639,7 @@
 | 631 | 194 | Carlos Hernandez |
 | 632 | 194 | Joshua Cuellar |
 | 633 | 194 | Katie Alexander |
-| 634 | 194 | Carlos Hernandez |
+| 634 | 194 | Zany Twisterfit |
 | 635 | 193 | Stormy Tomplait |
 | 636 | 192 | Shon Woodland |
 | 637 | 192 | Jacob Campbell |
