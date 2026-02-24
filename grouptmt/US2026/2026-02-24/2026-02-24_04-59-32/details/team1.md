@@ -45,8 +45,8 @@
 | 37 | 1515 | Felicia Lewis |
 | 38 | 1405 | Chipper Gridlock |
 | 39 | 1391 | Aaron Garnett |
-| 40 | 1334 | Tyler Alcock |
-| 41 | 1334 | june october |
+| 40 | 1334 | june october |
+| 41 | 1334 | Tyler Alcock |
 | 42 | 1321 | Drew Magnus |
 | 43 | 1291 | Marianne Louise West |
 | 44 | 1268 | Hasbro Bros |
@@ -119,8 +119,8 @@
 | 111 | 719 | Bindi |
 | 112 | 716 | Kristi Johnson |
 | 113 | 711 | Debbie Kane |
-| 114 | 706 | Plucky Fallzone |
-| 115 | 706 | Denice Dee |
+| 114 | 706 | Denice Dee |
+| 115 | 706 | Plucky Fallzone |
 | 116 | 702 | lil mickey |
 | 117 | 699 | cc |
 | 118 | 692 | Melissa Lemmon |
@@ -168,8 +168,8 @@
 | 160 | 543 | Nicole Roseberry Weber |
 | 161 | 543 | Adrian Esteban |
 | 162 | 540 | Tonya Beasley |
-| 163 | 537 | BadG52 |
-| 164 | 537 | Stephanie Zahn |
+| 163 | 537 | Stephanie Zahn |
+| 164 | 537 | BadG52 |
 | 165 | 535 | Plucky Ziggy |
 | 166 | 533 | .running. |
 | 167 | 529 | Νεφ Όνυξ |
@@ -358,9 +358,9 @@
 | 350 | 308 | Katie Martin |
 | 351 | 308 | Rico Rico |
 | 352 | 306 | Sunny Shift |
-| 353 | 305 | Damian Salem |
-| 354 | 305 | Tavia |
-| 355 | 305 | Speedy Snapfall |
+| 353 | 305 | Tavia |
+| 354 | 305 | Speedy Snapfall |
+| 355 | 305 | Damian Salem |
 | 356 | 304 | Chummy Rollblock |
 | 357 | 302 | Jenny Gingrich Fuentes |
 | 358 | 301 | Christina Backer |

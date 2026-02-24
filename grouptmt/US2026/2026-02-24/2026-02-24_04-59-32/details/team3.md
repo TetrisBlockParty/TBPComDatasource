@@ -80,8 +80,8 @@
 | 72 | 1646 | Gracie |
 | 73 | 1633 | cowboy25469 |
 | 74 | 1620 | Queen Kam |
-| 75 | 1566 | Nerdy Riseclear |
-| 76 | 1566 | Marcie Bressler |
+| 75 | 1566 | Marcie Bressler |
+| 76 | 1566 | Nerdy Riseclear |
 | 77 | 1560 | Logan Naccarato |
 | 78 | 1555 | Snappy Glidepiece |
 | 79 | 1552 | joclisa |
@@ -102,8 +102,8 @@
 | 94 | 1361 | Patricia Gadsden |
 | 95 | 1343 | Joey Banks |
 | 96 | 1320 | Kristie |
-| 97 | 1318 | Tiff Vs Tiffany |
-| 98 | 1318 | Diana Ibarra |
+| 97 | 1318 | Diana Ibarra |
+| 98 | 1318 | Tiff Vs Tiffany |
 | 99 | 1309 | yoyo |
 | 100 | 1297 | Shelby Michelle |
 | 101 | 1290 | JerseyJess |
@@ -128,8 +128,8 @@
 | 120 | 1084 | Santana Lantana |
 | 121 | 1082 | Valerie Gendron |
 | 122 | 1067 | DaBigGuy |
-| 123 | 1066 | Demetrious Shaw Sr. |
-| 124 | 1066 | Jennifer |
+| 123 | 1066 | Jennifer |
+| 124 | 1066 | Demetrious Shaw Sr. |
 | 125 | 1065 | Rachel |
 | 126 | 1055 | Christine Trester |
 | 127 | 1048 | Jesse Olive |
@@ -202,8 +202,8 @@
 | 194 | 769 | Hasty Cascadefit |
 | 195 | 768 | Cyd061769 |
 | 196 | 763 | Tasha Gillespie |
-| 197 | 763 | Khaleada McGill Banks |
-| 198 | 763 | Patricia White |
+| 197 | 763 | Patricia White |
+| 198 | 763 | Khaleada McGill Banks |
 | 199 | 760 | Kiki |
 | 200 | 757 | Fancy Cascader |
 | 201 | 755 | Laura Booth Wosko |
@@ -272,8 +272,8 @@
 | 264 | 572 | Tessina Dewey-Mancino |
 | 265 | 570 | Fallorina Susana |
 | 266 | 570 | thekey |
-| 267 | 569 | Michael Johnson |
-| 268 | 569 | Silly Twist |
+| 267 | 569 | Silly Twist |
+| 268 | 569 | Michael Johnson |
 | 269 | 568 | Danielle Balcom |
 | 270 | 566 | Wendy Dearden |
 | 271 | 566 | Eileen Brady Thurber |
@@ -768,8 +768,8 @@
 | 760 | 237 | Spicy Cascadepiece |
 | 761 | 237 | Michelle Barton |
 | 762 | 237 | Taylor |
-| 763 | 236 | Alexis Ford |
-| 764 | 236 | Weerae |
+| 763 | 236 | Weerae |
+| 764 | 236 | Alexis Ford |
 | 765 | 236 | BingoStarr |
 | 766 | 235 | MizzMonick Smith |
 | 767 | 235 | Monnie Parra |

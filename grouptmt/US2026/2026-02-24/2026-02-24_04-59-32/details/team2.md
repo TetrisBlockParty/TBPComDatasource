@@ -434,8 +434,8 @@
 | 426 | 1049 | Ashlen Dorrell |
 | 427 | 1048 | Sheronda Jackson |
 | 428 | 1043 | Brave Dropmatch |
-| 429 | 1042 | Spunkysmom |
-| 430 | 1042 | Matthew Barry |
+| 429 | 1042 | Matthew Barry |
+| 430 | 1042 | Spunkysmom |
 | 431 | 1041 | Crystal Hoffman |
 | 432 | 1037 | Allan Wayne Lamia |
 | 433 | 1036 | trabuco |
@@ -466,8 +466,8 @@
 | 458 | 982 | Jackie Burnett |
 | 459 | 981 | Block Master |
 | 460 | 979 | Fae-Bulous |
-| 461 | 978 | Barry Britt |
-| 462 | 978 | Kennedy Sandifer |
+| 461 | 978 | Kennedy Sandifer |
+| 462 | 978 | Barry Britt |
 | 463 | 976 | Sam Joe |
 | 464 | 975 | Amanda Woodruff |
 | 465 | 975 | Kelly Trent |
@@ -620,8 +620,8 @@
 | 612 | 786 | Ashe Corso |
 | 613 | 785 | Daniel Amos |
 | 614 | 781 | Amanda Ferrell |
-| 615 | 780 | Breezy Filler |
-| 616 | 780 | Megan Kitchner |
+| 615 | 780 | Megan Kitchner |
+| 616 | 780 | Breezy Filler |
 | 617 | 780 | Amy Reynolds |
 | 618 | 779 | Trinity Oak |
 | 619 | 777 | Tesha Oldaker |
@@ -655,13 +655,13 @@
 | 647 | 753 | John Jubes |
 | 648 | 751 | Swanky Strikerpiece |
 | 649 | 751 | Tom Riefer |
-| 650 | 750 | Prette Qui |
-| 651 | 750 | Samie Dayle |
+| 650 | 750 | Samie Dayle |
+| 651 | 750 | Prette Qui |
 | 652 | 750 | Lisa Reynolds |
 | 653 | 749 | ToxicTrash |
 | 654 | 749 | Trisha J Schmidt |
-| 655 | 743 | Véronique Lévesque Sabourin |
-| 656 | 743 | Gloria Ininahazwe |
+| 655 | 743 | Gloria Ininahazwe |
+| 656 | 743 | Véronique Lévesque Sabourin |
 | 657 | 742 | Rhonda Petro |
 | 658 | 742 | Cassie Maynard |
 | 659 | 741 | Leah Keesling |
