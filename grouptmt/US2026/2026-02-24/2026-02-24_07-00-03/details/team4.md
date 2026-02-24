@@ -106,8 +106,8 @@
 | 98 | 846 | Christine Marie |
 | 99 | 840 | SAP |
 | 100 | 837 | Rica Mitchell |
-| 101 | 834 | Brittney Orengo |
-| 102 | 834 | quicksand420 |
+| 101 | 834 | quicksand420 |
+| 102 | 834 | Brittney Orengo |
 | 103 | 815 | Diana Houts |
 | 104 | 813 | Klo |
 | 105 | 811 | Sassy Pattern |
@@ -247,16 +247,16 @@
 | 239 | 444 | Selena Shaw |
 | 240 | 442 | John Brunetti |
 | 241 | 441 | Lush Linkfall |
-| 242 | 438 | Melvin Baird |
-| 243 | 438 | 23 |
+| 242 | 438 | 23 |
+| 243 | 438 | Melvin Baird |
 | 244 | 434 | Ramel Rhodes |
 | 245 | 433 | Damn Libra |
 | 246 | 433 | Circuit8 |
 | 247 | 432 | Plucky Patternblock |
 | 248 | 432 | scott |
 | 249 | 430 | Chris Bernstein |
-| 250 | 427 | Chao Ma |
-| 251 | 427 | Cheery Risebuilder |
+| 250 | 427 | Cheery Risebuilder |
+| 251 | 427 | Chao Ma |
 | 252 | 424 | Andrew Dang |
 | 253 | 423 | Gdiguy |
 | 254 | 421 | Brickh4us |
@@ -271,8 +271,8 @@
 | 263 | 409 | Joseph Guthrie |
 | 264 | 408 | Dihcheese444 |
 | 265 | 408 | Lauren Scott |
-| 266 | 407 | Hyper Builder |
-| 267 | 407 | Rafael Valentin |
+| 266 | 407 | Rafael Valentin |
+| 267 | 407 | Hyper Builder |
 | 268 | 402 | Nita Wells |
 | 269 | 399 | Twisty Cascadezone |
 | 270 | 399 | 030Synner |
@@ -423,10 +423,10 @@
 | 415 | 276 | Cynthia Boudreau |
 | 416 | 275 | Jarred Falls |
 | 417 | 271 | ImJustMe |
-| 418 | 270 | Stephme310 |
-| 419 | 270 | 07VHVW |
-| 420 | 268 | Riverdale |
-| 421 | 268 | Sallie Sanborn |
+| 418 | 270 | 07VHVW |
+| 419 | 270 | Stephme310 |
+| 420 | 268 | Sallie Sanborn |
+| 421 | 268 | Riverdale |
 | 422 | 266 | ĥuf |
 | 423 | 266 | Happy Combo |
 | 424 | 265 | Christine Therrien |
@@ -599,7 +599,7 @@
 | 591 | 197 | Bryan James Marino |
 | 592 | 196 | Julie McAfoos Swanson |
 | 593 | 195 | Tabi Williams |
-| 594 | 194 | Carlos Hernandez |
+| 594 | 194 | Zany Twisterfit |
 | 595 | 194 | Katie Alexander |
 | 596 | 194 | Carlos Hernandez |
 | 597 | 193 | Mcg |

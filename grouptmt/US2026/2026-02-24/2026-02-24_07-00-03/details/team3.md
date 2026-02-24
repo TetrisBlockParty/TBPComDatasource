@@ -202,8 +202,8 @@
 | 194 | 783 | Julian Murphy |
 | 195 | 777 | Daryn Elliott |
 | 196 | 775 | Lizabeth Fox |
-| 197 | 774 | Twisty Brick LT |
-| 198 | 774 | ren |
+| 197 | 774 | ren |
+| 198 | 774 | Twisty Brick LT |
 | 199 | 772 | Tye Stovall |
 | 200 | 769 | Hasty Cascadefit |
 | 201 | 768 | Cyd061769 |
@@ -347,8 +347,8 @@
 | 339 | 471 | Sarah Moyer |
 | 340 | 467 | Jul |
 | 341 | 467 | Danielle Rhoades |
-| 342 | 465 | Blocked |
-| 343 | 465 | Noettín Kan Zasnemoore |
+| 342 | 465 | Noettín Kan Zasnemoore |
+| 343 | 465 | Blocked |
 | 344 | 464 | Snazzy Filler |
 | 345 | 462 | Brandon Givens |
 | 346 | 462 | Tegan Chapman |
