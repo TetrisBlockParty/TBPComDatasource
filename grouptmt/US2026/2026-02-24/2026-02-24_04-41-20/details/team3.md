@@ -127,8 +127,8 @@
 | 119 | 1084 | Santana Lantana |
 | 120 | 1082 | Valerie Gendron |
 | 121 | 1067 | DaBigGuy |
-| 122 | 1066 | Jennifer |
-| 123 | 1066 | Demetrious Shaw Sr. |
+| 122 | 1066 | Demetrious Shaw Sr. |
+| 123 | 1066 | Jennifer |
 | 124 | 1065 | Rachel |
 | 125 | 1055 | Christine Trester |
 | 126 | 1050 | Sherika C. McDaniels |
@@ -167,8 +167,8 @@
 | 159 | 874 | Jessica Pineda-Lopez |
 | 160 | 873 | BadManSheLove |
 | 161 | 871 | Rochelle Hazelett |
-| 162 | 868 | Cranky Gridder |
-| 163 | 868 | Nicole Flippo |
+| 162 | 868 | Nicole Flippo |
+| 163 | 868 | Cranky Gridder |
 | 164 | 864 | Sunny Rotater |
 | 165 | 862 | Santeria Trece Candles |
 | 166 | 859 | Domo Washington |
@@ -183,7 +183,7 @@
 | 175 | 820 | Brenda Lee Vander Molen |
 | 176 | 817 | Niki Dalrymple |
 | 177 | 815 | Justin Ritter |
-| 178 | 804 | LaTanya GeminiondaRise Johnson |
+| 178 | 804 | Gideon Walker |
 | 179 | 804 | Alaina Lee |
 | 180 | 804 | LaTanya GeminiondaRise Johnson |
 | 181 | 800 | Lauren Girouard |
@@ -317,11 +317,11 @@
 | 309 | 494 | Megan Rathmanner |
 | 310 | 494 | MCV |
 | 311 | 492 | Tasha Wesson-Torrence |
-| 312 | 490 | Brenda Schmid Wood |
-| 313 | 490 | Cassandra Bryant |
+| 312 | 490 | Cassandra Bryant |
+| 313 | 490 | Brenda Schmid Wood |
 | 314 | 489 | Isabel Ocasio |
-| 315 | 486 | Skippy |
-| 316 | 486 | Sleepy |
+| 315 | 486 | Sleepy |
+| 316 | 486 | Skippy |
 | 317 | 482 | Chummy Rumbler |
 | 318 | 481 | Tiffanie Alley |
 | 319 | 480 | TLM |

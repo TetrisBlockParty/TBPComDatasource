@@ -375,8 +375,8 @@
 | 367 | 297 | Billie Dawn Sparks |
 | 368 | 296 | Jeanna Dunn |
 | 369 | 295 | ESC |
-| 370 | 294 | Наталья Солоид |
-| 371 | 294 | Mary Love |
+| 370 | 294 | Mary Love |
+| 371 | 294 | Наталья Солоид |
 | 372 | 293 | Sunny Pivotfall |
 | 373 | 292 | Renee Tucker |
 | 374 | 292 | Clever Cascadepiece |
@@ -490,8 +490,8 @@
 | 482 | 240 | Liliana Pena |
 | 483 | 240 | Melanie Kelley |
 | 484 | 239 | Krie |
-| 485 | 238 | Jumpy Rotate |
-| 486 | 238 | Shaykmia |
+| 485 | 238 | Shaykmia |
+| 486 | 238 | Jumpy Rotate |
 | 487 | 238 | ash |
 | 488 | 237 | Brad MG |
 | 489 | 237 | Toya Lynn |

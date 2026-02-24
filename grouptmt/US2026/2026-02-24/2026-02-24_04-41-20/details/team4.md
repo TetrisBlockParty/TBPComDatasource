@@ -159,8 +159,8 @@
 | 151 | 599 | Adam Stephanie Parker |
 | 152 | 595 | Rodney McMath Jr. |
 | 153 | 587 | YoMomma |
-| 154 | 586 | Latisha Davis |
-| 155 | 586 | Cursed Hag |
+| 154 | 586 | Cursed Hag |
+| 155 | 586 | Latisha Davis |
 | 156 | 584 | Carlton Unfiltered |
 | 157 | 582 | Angela Srubar-Norman |
 | 158 | 578 | Livvy |
@@ -431,10 +431,10 @@
 | 423 | 259 | Ultramarine |
 | 424 | 258 | April Spoelma |
 | 425 | 257 | ThriftySpice |
-| 426 | 256 | bloat princess |
-| 427 | 256 | Candice Carasiti |
-| 428 | 255 | Jenny Wells-Oakley |
-| 429 | 255 | Red |
+| 426 | 256 | Candice Carasiti |
+| 427 | 256 | bloat princess |
+| 428 | 255 | Red |
+| 429 | 255 | Jenny Wells-Oakley |
 | 430 | 253 | Autum Leigh |
 | 431 | 251 | Carol Ricks Raymond |
 | 432 | 251 | Kathy Allen |
