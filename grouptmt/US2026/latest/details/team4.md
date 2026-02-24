@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 15:34:45 UTC
+# Standings for team4 as of 2026-02-24 15:35:22 UTC
 
 **Total Participants:** 2046
 
@@ -284,14 +284,14 @@
 | 276 | 418 | Jessica Fredericks |
 | 277 | 417 | Rafael Valentin |
 | 278 | 415 | Tina Lopez |
-| 279 | 413 | KimoKoala |
-| 280 | 413 | Rio Rocha |
-| 281 | 411 | Autumn Kumzi |
-| 282 | 410 | Lindsay Ball |
-| 283 | 409 | Antony Dwayne Beasley |
-| 284 | 408 | Dihcheese444 |
-| 285 | 408 | Neirrah B Olailjeel |
-| 286 | 408 | Denise B |
+| 279 | 413 | Denise B |
+| 280 | 413 | KimoKoala |
+| 281 | 413 | Rio Rocha |
+| 282 | 411 | Autumn Kumzi |
+| 283 | 410 | Lindsay Ball |
+| 284 | 409 | Antony Dwayne Beasley |
+| 285 | 408 | Dihcheese444 |
+| 286 | 408 | Neirrah B Olailjeel |
 | 287 | 407 | Hyper Builder |
 | 288 | 407 | blockstar |
 | 289 | 404 | Tawna Curry |
@@ -906,16 +906,16 @@
 | 898 | 132 | Jessica Cagle |
 | 899 | 131 | Roseanna Anderson |
 | 900 | 131 | Albert Walker III |
-| 901 | 129 | Juan Barron |
-| 902 | 129 | Alo |
-| 903 | 129 | Shelly Goad |
+| 901 | 130 | Bentley Welsh |
+| 902 | 129 | Juan Barron |
+| 903 | 129 | Alo |
 | 904 | 129 | Michele Badgwell |
 | 905 | 129 | Verna Neal |
 | 906 | 129 | Dreamy Snapgrid |
-| 907 | 128 | Renee |
-| 908 | 128 | Shiny Matchfit |
-| 909 | 128 | k |
-| 910 | 128 | Bentley Welsh |
+| 907 | 129 | Shelly Goad |
+| 908 | 128 | Renee |
+| 909 | 128 | Shiny Matchfit |
+| 910 | 128 | k |
 | 911 | 128 | Bigg Guy |
 | 912 | 127 | Kari Rose Haché |
 | 913 | 127 | JD |
@@ -1373,8 +1373,8 @@
 | 1365 | 59 | ThemightyDATCH |
 | 1366 | 59 | MazieMae |
 | 1367 | 59 | Cheeky Dashpiece |
-| 1368 | 59 | Hyper Cascade |
-| 1369 | 59 | Kb Ludiweci |
+| 1368 | 59 | Kb Ludiweci |
+| 1369 | 59 | Hyper Cascade |
 | 1370 | 59 | Charles Chuckie |
 | 1371 | 59 | Wacky Patternbuilder |
 | 1372 | 59 | Mileydy Almora Diaz |
@@ -1388,15 +1388,15 @@
 | 1380 | 58 | Tre Boss |
 | 1381 | 58 | Jennifer Harrison |
 | 1382 | 57 | Cheery Chiseler |
-| 1383 | 57 | Kathie Morris-Buck |
-| 1384 | 57 | Smiley Linkgrid |
-| 1385 | 57 | Joey Goodrum |
-| 1386 | 57 | Fred Lilreadii Smith Jr |
-| 1387 | 57 | Courtney Cassidy |
-| 1388 | 56 | Jay Cubes25 |
-| 1389 | 56 | xSABRiNAx |
-| 1390 | 56 | Wacky Wendy |
-| 1391 | 56 | Jinx |
+| 1383 | 57 | Jinx |
+| 1384 | 57 | Kathie Morris-Buck |
+| 1385 | 57 | Smiley Linkgrid |
+| 1386 | 57 | Joey Goodrum |
+| 1387 | 57 | Fred Lilreadii Smith Jr |
+| 1388 | 57 | Courtney Cassidy |
+| 1389 | 56 | Jay Cubes25 |
+| 1390 | 56 | xSABRiNAx |
+| 1391 | 56 | Wacky Wendy |
 | 1392 | 56 | Miranda Ozaeta |
 | 1393 | 56 | Amanda Slusser |
 | 1394 | 56 | Nutty Gridclear |
@@ -1405,23 +1405,23 @@
 | 1397 | 55 | Fritzi Phillips |
 | 1398 | 55 | Christa Marie |
 | 1399 | 55 | BenLane |
-| 1400 | 55 | No name |
-| 1401 | 55 | Poppy Brickmatch |
-| 1402 | 55 | Dorene Brooks |
-| 1403 | 55 | Katrina Bradley |
-| 1404 | 55 | Michelle Shimel |
-| 1405 | 55 | Peachy Pop |
+| 1400 | 55 | Peachy Pop |
+| 1401 | 55 | No name |
+| 1402 | 55 | Poppy Brickmatch |
+| 1403 | 55 | Dorene Brooks |
+| 1404 | 55 | Katrina Bradley |
+| 1405 | 55 | Michelle Shimel |
 | 1406 | 55 | Nicholas Felton |
 | 1407 | 54 | Andrew Easley |
 | 1408 | 54 | Tipsy Blockline |
 | 1409 | 54 | Joseph Bodon |
-| 1410 | 54 | Timarie Vasquez |
-| 1411 | 54 | Lisha Billups |
-| 1412 | 54 | Dan Kraly |
+| 1410 | 54 | Lisha Billups |
+| 1411 | 54 | Dan Kraly |
+| 1412 | 54 | Plucky Twistbuilder |
 | 1413 | 54 | Zaltosk |
-| 1414 | 54 | Plucky Twistbuilder |
-| 1415 | 54 | AuDra Renee Dupre |
-| 1416 | 54 | Daring Spinzone |
+| 1414 | 54 | AuDra Renee Dupre |
+| 1415 | 54 | Daring Spinzone |
+| 1416 | 54 | Timarie Vasquez |
 | 1417 | 54 | Saucy Brickroll |
 | 1418 | 54 | Pamela Traum |
 | 1419 | 54 | Jodi Messere |
@@ -1430,9 +1430,9 @@
 | 1422 | 53 | DingusBingus17 |
 | 1423 | 53 | Gabriel Raymond |
 | 1424 | 53 | Holly Baxley |
-| 1425 | 53 | Dizzy Rollbuilder |
-| 1426 | 53 | Minot4444 |
-| 1427 | 53 | Daring Zonepiece |
+| 1425 | 53 | Minot4444 |
+| 1426 | 53 | Daring Zonepiece |
+| 1427 | 53 | Dizzy Rollbuilder |
 | 1428 | 53 | Brandi Marks |
 | 1429 | 52 | Lily Cannon |
 | 1430 | 52 | Francis Fleurant |
