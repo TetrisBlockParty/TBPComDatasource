@@ -177,8 +177,8 @@
 | 169 | 527 | Nery Martinez |
 | 170 | 522 | Constance Risner |
 | 171 | 521 | Teri Oehlke |
-| 172 | 519 | Anaid Sanchez |
-| 173 | 519 | Arianna O'Brien |
+| 172 | 519 | Arianna O'Brien |
+| 173 | 519 | Anaid Sanchez |
 | 174 | 513 | phrmblk24 |
 | 175 | 513 | Colena Davenport |
 | 176 | 511 | MomMom |
@@ -315,8 +315,8 @@
 | 307 | 341 | Nick R Montague |
 | 308 | 340 | Robert |
 | 309 | 340 | Danielle Little-Daugherty |
-| 310 | 338 | Tipsy Builder |
-| 311 | 338 | Layzietyme |
+| 310 | 338 | Layzietyme |
+| 311 | 338 | Tipsy Builder |
 | 312 | 336 | Sarah Roberts |
 | 313 | 335 | Dreamy Drop |
 | 314 | 334 | Nate Price |
@@ -353,8 +353,8 @@
 | 345 | 311 | Nathan Sealander |
 | 346 | 310 | Marci Sanders |
 | 347 | 309 | Isaiah |
-| 348 | 308 | Rico Rico |
-| 349 | 308 | Katie Martin |
+| 348 | 308 | Katie Martin |
+| 349 | 308 | Rico Rico |
 | 350 | 308 | Agustin Duarte Orozco |
 | 351 | 306 | Sunny Shift |
 | 352 | 305 | Damian Salem |
@@ -390,8 +390,8 @@
 | 382 | 289 | Snappy Bridgepiece |
 | 383 | 288 | Test |
 | 384 | 288 | Tanya Banks |
-| 385 | 287 | Blaire Bruckoff |
-| 386 | 287 | Madbull |
+| 385 | 287 | Madbull |
+| 386 | 287 | Blaire Bruckoff |
 | 387 | 287 | Itspaigebro |
 | 388 | 285 | Debbie Davis |
 | 389 | 284 | Bouncy Grid |
@@ -445,11 +445,11 @@
 | 437 | 260 | Lacy Wolfe |
 | 438 | 260 | Mathew Harris |
 | 439 | 259 | Tiffany Smith |
-| 440 | 258 | Vivienne Carter |
-| 441 | 258 | Tedashi |
-| 442 | 257 | Andrew Backes |
+| 440 | 258 | Tedashi |
+| 441 | 258 | Vivienne Carter |
+| 442 | 257 | Funky Piecebuilder |
 | 443 | 257 | Marc Abney |
-| 444 | 257 | Funky Piecebuilder |
+| 444 | 257 | Andrew Backes |
 | 445 | 256 | Mary Crisp |
 | 446 | 256 | Mary Sheets |
 | 447 | 256 | Joe Coon |

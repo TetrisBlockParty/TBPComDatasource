@@ -513,8 +513,8 @@
 | 505 | 917 | William David Swallow |
 | 506 | 916 | Misti Markijohn |
 | 507 | 915 | Moni Foxe |
-| 508 | 914 | Lola Contreras |
-| 509 | 914 | Angelina Marie |
+| 508 | 914 | Angelina Marie |
+| 509 | 914 | Lola Contreras |
 | 510 | 914 | Felicia Lynn |
 | 511 | 910 | Miranda Jackson |
 | 512 | 909 | Valerie Brooke Lusk Armstrong |

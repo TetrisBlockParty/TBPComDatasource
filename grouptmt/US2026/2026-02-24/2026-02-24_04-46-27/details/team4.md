@@ -69,8 +69,8 @@
 | 61 | 1116 | Ashley Ingram |
 | 62 | 1101 | BertMofo |
 | 63 | 1089 | Alyssa Papen |
-| 64 | 1082 | Dion Crommarty |
-| 65 | 1082 | Avy Absol |
+| 64 | 1082 | Avy Absol |
+| 65 | 1082 | Dion Crommarty |
 | 66 | 1075 | Dustee Craddock-Harrison |
 | 67 | 1069 | Heather Tushner |
 | 68 | 1055 | Julian Garcia |
@@ -287,9 +287,9 @@
 | 279 | 376 | Montiette Mcglown |
 | 280 | 376 | Nig |
 | 281 | 373 | Russ Attitude |
-| 282 | 370 | Kris Bartlett |
+| 282 | 370 | Twisty Risebuilder |
 | 283 | 370 | Cheery Risebuilder |
-| 284 | 370 | Twisty Risebuilder |
+| 284 | 370 | Kris Bartlett |
 | 285 | 367 | Meg |
 | 286 | 366 | Hyper Builder |
 | 287 | 365 | Twisty Cascadezone |
@@ -398,11 +398,11 @@
 | 390 | 281 | Tony Pavelka |
 | 391 | 280 | Chummy Towerzone |
 | 392 | 279 | Ziggy |
-| 393 | 278 | L Bear Champion |
-| 394 | 278 | Shainne Brewer |
+| 393 | 278 | Shainne Brewer |
+| 394 | 278 | L Bear Champion |
 | 395 | 277 | Silly SeaWeed |
-| 396 | 276 | Dennis Bradley |
-| 397 | 276 | Cynthia Boudreau |
+| 396 | 276 | Cynthia Boudreau |
+| 397 | 276 | Dennis Bradley |
 | 398 | 275 | Jarred Falls |
 | 399 | 272 | Paito |
 | 400 | 271 | ImJustMe |
