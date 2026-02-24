@@ -111,8 +111,8 @@
 | 103 | 1311 | JerseyJess |
 | 104 | 1309 | yoyo |
 | 105 | 1297 | Shelby Michelle |
-| 106 | 1282 | Amanda L Baker |
-| 107 | 1282 | Peppy Shifter |
+| 106 | 1282 | Peppy Shifter |
+| 107 | 1282 | Amanda L Baker |
 | 108 | 1280 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1251 | Suzieq |
@@ -169,8 +169,8 @@
 | 161 | 928 | Edwin Calvillo Jr. |
 | 162 | 927 | Rochelle Hazelett |
 | 163 | 925 | Cherry Parker |
-| 164 | 914 | BadManSheLove |
-| 165 | 914 | Staci George Fitzsimmons |
+| 164 | 914 | Staci George Fitzsimmons |
+| 165 | 914 | BadManSheLove |
 | 166 | 910 | opf |
 | 167 | 906 | Patti Skiles |
 | 168 | 899 | Jaime Monhaut-Reed |
@@ -182,8 +182,8 @@
 | 174 | 876 | Kiki |
 | 175 | 875 | Chasity |
 | 176 | 874 | Jessica Pineda-Lopez |
-| 177 | 868 | Cranky Gridder |
-| 178 | 868 | Nicole Flippo |
+| 177 | 868 | Nicole Flippo |
+| 178 | 868 | Cranky Gridder |
 | 179 | 866 | Domo Washington |
 | 180 | 862 | Santeria Trece Candles |
 | 181 | 858 | Nicole Myers |
@@ -219,8 +219,8 @@
 | 211 | 772 | Hasty Cascadefit |
 | 212 | 767 | Heather Davis |
 | 213 | 766 | Mykal Burton |
-| 214 | 763 | Jim Mathews |
-| 215 | 763 | Khaleada McGill Banks |
+| 214 | 763 | Khaleada McGill Banks |
+| 215 | 763 | Jim Mathews |
 | 216 | 762 | Naur |
 | 217 | 758 | Shawn Miller |
 | 218 | 755 | Colton |
@@ -238,8 +238,8 @@
 | 230 | 715 | Betty Bóò |
 | 231 | 714 | Jenny Hrndz |
 | 232 | 713 | Stephanie Blkpep Davidson |
-| 233 | 709 | Christine Niles |
-| 234 | 709 | Cynthia Castros-Hampton |
+| 233 | 709 | Cynthia Castros-Hampton |
+| 234 | 709 | Christine Niles |
 | 235 | 708 | Stephanie Bradley |
 | 236 | 707 | Snappy Balancer |
 | 237 | 705 | Jackie Miller |
@@ -274,8 +274,8 @@
 | 266 | 633 | Rebecca Funderburk Kirby |
 | 267 | 632 | Rebecca Bailey |
 | 268 | 629 | rnr junky |
-| 269 | 627 | Louise Stacy Sisson |
-| 270 | 627 | Juliana Dottore |
+| 269 | 627 | Juliana Dottore |
+| 270 | 627 | Louise Stacy Sisson |
 | 271 | 626 | Cheryl Hinch Tenbrook |
 | 272 | 625 | Jacqueline Rodriguez |
 | 273 | 624 | Hyper Matchzone |
@@ -304,8 +304,8 @@
 | 296 | 569 | Gray Hicks |
 | 297 | 569 | Roary Danner |
 | 298 | 567 | Stephanie Burtin |
-| 299 | 566 | Tyler Shoff |
-| 300 | 566 | Aerian Preston |
+| 299 | 566 | Aerian Preston |
+| 300 | 566 | Tyler Shoff |
 | 301 | 562 | Dave Herzog |
 | 302 | 561 | Chauntee Alfrey-Cardinale |
 | 303 | 556 | Shiny Zonebuilder |
@@ -809,8 +809,8 @@
 | 801 | 247 | Christopher Mastropietro |
 | 802 | 247 | Barbara Bennett |
 | 803 | 247 | Taylor |
-| 804 | 246 | MomOnBreak |
-| 805 | 246 | Erica Anderson |
+| 804 | 246 | Erica Anderson |
+| 805 | 246 | MomOnBreak |
 | 806 | 246 | Quteeonduty |
 | 807 | 245 | Latoya Mayne |
 | 808 | 245 | Mike Honcho |
