@@ -268,9 +268,9 @@
 | 260 | 408 | Dino |
 | 261 | 408 | Sweetts |
 | 262 | 405 | Tyler L Hunt |
-| 263 | 403 | Jen Nystrom |
-| 264 | 403 | Alenoush Karimian |
-| 265 | 403 | Tami Luce Martin |
+| 263 | 403 | Tami Luce Martin |
+| 264 | 403 | Jen Nystrom |
+| 265 | 403 | Alenoush Karimian |
 | 266 | 399 | Lakeisha Chapman |
 | 267 | 398 | Cece Ibarra |
 | 268 | 398 | MommaKFC |
@@ -278,8 +278,8 @@
 | 270 | 394 | Lynn Adams |
 | 271 | 394 | Nick R Montague |
 | 272 | 393 | Wisa |
-| 273 | 392 | Renee Tucker |
-| 274 | 392 | Poppy Riserpiece |
+| 273 | 392 | Poppy Riserpiece |
+| 274 | 392 | Renee Tucker |
 | 275 | 391 | Happy Basegrid |
 | 276 | 390 | David Lutcher |
 | 277 | 388 | Test |

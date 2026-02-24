@@ -74,8 +74,8 @@
 | 66 | 1119 | Amelpss |
 | 67 | 1109 | BertMofo |
 | 68 | 1089 | Alyssa Papen |
-| 69 | 1082 | Avy Absol |
-| 70 | 1082 | Dion Crommarty |
+| 69 | 1082 | Dion Crommarty |
+| 70 | 1082 | Avy Absol |
 | 71 | 1081 | Dustee Craddock-Harrison |
 | 72 | 1080 | Chilly Line |
 | 73 | 1071 | LisaJo Picken Buchanan |
@@ -108,8 +108,8 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | Brittney Orengo |
-| 104 | 834 | quicksand420 |
+| 103 | 834 | quicksand420 |
+| 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
 | 107 | 813 | Amy Suckarieh |
@@ -117,8 +117,8 @@
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Denise Carlson |
-| 113 | 802 | Crystal Carroll |
+| 112 | 802 | Crystal Carroll |
+| 113 | 802 | Denise Carlson |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -232,12 +232,12 @@
 | 224 | 482 | Laura |
 | 225 | 481 | Joanna |
 | 226 | 475 | Silly Zonebuilder |
-| 227 | 473 | Cranky Rollpiece |
-| 228 | 473 | Jolly Dashfit |
+| 227 | 473 | Jolly Dashfit |
+| 228 | 473 | Cranky Rollpiece |
 | 229 | 472 | Plucky Patternblock |
 | 230 | 465 | Leslie Thomas |
-| 231 | 464 | Calvin Cannon |
-| 232 | 464 | Zakia Monae |
+| 231 | 464 | Zakia Monae |
+| 232 | 464 | Calvin Cannon |
 | 233 | 463 | shark tato |
 | 234 | 462 | meowmew |
 | 235 | 462 | Crystal Nicolette Moore |
@@ -251,8 +251,8 @@
 | 243 | 454 | Keshia Lyons |
 | 244 | 450 | Genne Scott |
 | 245 | 449 | Danielle Kollias |
-| 246 | 448 | Mr. Party |
-| 247 | 448 | Mike Solo |
+| 246 | 448 | Mike Solo |
+| 247 | 448 | Mr. Party |
 | 248 | 447 | Jen Mattei |
 | 249 | 444 | Selena Shaw |
 | 250 | 444 | Twisty Cascadezone |
@@ -389,8 +389,8 @@
 | 381 | 311 | Reds Bella |
 | 382 | 311 | KayM |
 | 383 | 308 | Angela Geist Jusinski |
-| 384 | 307 | Susan Williams |
-| 385 | 307 | Eri Kka |
+| 384 | 307 | Eri Kka |
+| 385 | 307 | Susan Williams |
 | 386 | 306 | PeaceOs |
 | 387 | 305 | Frances Hui |
 | 388 | 305 | Groovy Shiftspin |
@@ -507,8 +507,8 @@
 | 499 | 244 | Amanda Christine |
 | 500 | 244 | Steve Sperino |
 | 501 | 243 | Jackie Marie |
-| 502 | 242 | PurpleMoonMa |
-| 503 | 242 | Badatvs |
+| 502 | 242 | Badatvs |
+| 503 | 242 | PurpleMoonMa |
 | 504 | 241 | Katherine Crane |
 | 505 | 240 | Orchislactea |
 | 506 | 240 | Zany Shatterer |
@@ -841,7 +841,7 @@
 | 833 | 140 | George Castillo |
 | 834 | 140 | SloFut Mataryal BrownBwoy |
 | 835 | 139 | Stephanie Griego |
-| 836 | 138 | Willa Anne Nold Kay |
+| 836 | 138 | Rampai |
 | 837 | 138 | Clever Tilefall |
 | 838 | 138 | Willa Anne Nold Kay |
 | 839 | 137 | Samantha Gamble |

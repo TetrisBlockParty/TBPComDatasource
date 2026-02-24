@@ -32,8 +32,8 @@
 | 24 | 3221 | Ashley Jones |
 | 25 | 3118 | Jamie Lang |
 | 26 | 3042 | Nerdy Spinblock |
-| 27 | 2933 | Grego Daniel |
-| 28 | 2933 | Dan Rob |
+| 27 | 2933 | Dan Rob |
+| 28 | 2933 | Grego Daniel |
 | 29 | 2874 | Zippy Strikesnap |
 | 30 | 2873 | Chummy Shatterer |
 | 31 | 2816 | Fancy Slam |
@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1539 | Elaine Webb Graves |
@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -160,8 +160,8 @@
 | 152 | 963 | Crystal Frey |
 | 153 | 961 | Danielle Allison |
 | 154 | 951 | Betty Rosas |
-| 155 | 950 | Giddy Drop |
-| 156 | 950 | MissTaylor |
+| 155 | 950 | MissTaylor |
+| 156 | 950 | Giddy Drop |
 | 157 | 947 | Kellie Montgomery |
 | 158 | 940 | Stephanie Allmon |
 | 159 | 936 | Dolores Falco |
@@ -179,16 +179,16 @@
 | 171 | 875 | Chasity |
 | 172 | 874 | Jessica Pineda-Lopez |
 | 173 | 871 | Rochelle Hazelett |
-| 174 | 868 | Cranky Gridder |
-| 175 | 868 | Nicole Flippo |
+| 174 | 868 | Nicole Flippo |
+| 175 | 868 | Cranky Gridder |
 | 176 | 866 | Domo Washington |
 | 177 | 864 | Sunny Rotater |
 | 178 | 862 | Santeria Trece Candles |
 | 179 | 857 | Dana Fox |
 | 180 | 856 | Dana Winters |
 | 181 | 854 | Speedy Bridger |
-| 182 | 847 | Daira Largen |
-| 183 | 847 | Daring Brickzone |
+| 182 | 847 | Daring Brickzone |
+| 183 | 847 | Daira Largen |
 | 184 | 846 | Nicole Myers |
 | 185 | 842 | Alexmac |
 | 186 | 829 | Patricia White |
@@ -199,8 +199,8 @@
 | 191 | 815 | Justin Ritter |
 | 192 | 813 | JessDrown |
 | 193 | 808 | Raya |
-| 194 | 804 | Gideon Walker |
-| 195 | 804 | Alaina Lee |
+| 194 | 804 | Alaina Lee |
+| 195 | 804 | Gideon Walker |
 | 196 | 800 | Lauren Girouard |
 | 197 | 799 | Trisha Balmer |
 | 198 | 792 | Rachel Grant |
@@ -210,8 +210,8 @@
 | 202 | 784 | Jone |
 | 203 | 777 | Daryn Elliott |
 | 204 | 774 | ren |
-| 205 | 772 | Hasty Cascadefit |
-| 206 | 772 | Cyd061769 |
+| 205 | 772 | Cyd061769 |
+| 206 | 772 | Hasty Cascadefit |
 | 207 | 766 | Tasha Gillespie |
 | 208 | 763 | Khaleada McGill Banks |
 | 209 | 762 | Naur |
@@ -234,8 +234,8 @@
 | 226 | 719 | Brandon Givens |
 | 227 | 714 | Jenny Hrndz |
 | 228 | 713 | Stephanie Blkpep Davidson |
-| 229 | 709 | Cynthia Castros-Hampton |
-| 230 | 709 | Christine Niles |
+| 229 | 709 | Christine Niles |
+| 230 | 709 | Cynthia Castros-Hampton |
 | 231 | 708 | Stephanie Bradley |
 | 232 | 707 | Snappy Balancer |
 | 233 | 704 | Betty Bóò |
@@ -299,8 +299,8 @@
 | 291 | 569 | Silly Twist |
 | 292 | 569 | Gray Hicks |
 | 293 | 567 | Stephanie Burtin |
-| 294 | 566 | Tyler Shoff |
-| 295 | 566 | Eileen Brady Thurber |
+| 294 | 566 | Eileen Brady Thurber |
+| 295 | 566 | Tyler Shoff |
 | 296 | 562 | Dave Herzog |
 | 297 | 561 | Chauntee Alfrey-Cardinale |
 | 298 | 556 | Shiny Zonebuilder |
@@ -637,15 +637,15 @@
 | 629 | 296 | JoshAllenfan17 |
 | 630 | 295 | Omega |
 | 631 | 294 | Kita A Jackson |
-| 632 | 293 | Rufus Lincoln |
-| 633 | 293 | Tommy Proctor |
+| 632 | 293 | Tommy Proctor |
+| 633 | 293 | Rufus Lincoln |
 | 634 | 292 | Scouty |
 | 635 | 291 | Autumn Phillimore |
 | 636 | 291 | Jessica Lynn French |
 | 637 | 291 | Jess Dearborn |
 | 638 | 290 | Zesty Rotater |
 | 639 | 290 | Justin Parker |
-| 640 | 290 | Zesty Rotater |
+| 640 | 290 | Rayzer |
 | 641 | 289 | Andy Jacobson |
 | 642 | 289 | DidIdothat |
 | 643 | 289 | Peachy Tower |
@@ -743,8 +743,8 @@
 | 735 | 261 | BŘŰŤİÇŨŚ |
 | 736 | 261 | Jillian Ann |
 | 737 | 261 | Tabitha Cornelious |
-| 738 | 260 | Kristen McAlpine |
-| 739 | 260 | Josh Borquez |
+| 738 | 260 | Josh Borquez |
+| 739 | 260 | Kristen McAlpine |
 | 740 | 260 | Plucky Frame |
 | 741 | 259 | Tammy |
 | 742 | 259 | Shania Vaine |
