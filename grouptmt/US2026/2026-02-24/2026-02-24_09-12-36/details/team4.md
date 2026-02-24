@@ -624,8 +624,8 @@
 | 616 | 194 | Joshua Cuellar |
 | 617 | 194 | Marco |
 | 618 | 193 | Stormy Tomplait |
-| 619 | 192 | Tanner Lund |
-| 620 | 192 | Rebecca A Rit |
+| 619 | 192 | Rebecca A Rit |
+| 620 | 192 | Tanner Lund |
 | 621 | 192 | Jacob Campbell |
 | 622 | 191 | Earnest Thompson |
 | 623 | 191 | Jobadia Steelerton |

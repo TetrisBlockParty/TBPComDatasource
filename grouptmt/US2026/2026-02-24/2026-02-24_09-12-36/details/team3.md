@@ -156,17 +156,17 @@
 | 148 | 971 | Tasha Schriewer |
 | 149 | 963 | Crystal Frey |
 | 150 | 961 | Danielle Allison |
-| 151 | 950 | MissTaylor |
-| 152 | 950 | Giddy Drop |
+| 151 | 950 | Giddy Drop |
+| 152 | 950 | MissTaylor |
 | 153 | 947 | Kellie Montgomery |
 | 154 | 940 | Patty Allen |
 | 155 | 940 | Stephanie Allmon |
 | 156 | 936 | Dolores Falco |
 | 157 | 925 | Cherry Parker |
-| 158 | 914 | BadManSheLove |
-| 159 | 914 | Sarajane Lokan |
-| 160 | 910 | opf |
-| 161 | 910 | Staci George Fitzsimmons |
+| 158 | 914 | Sarajane Lokan |
+| 159 | 914 | BadManSheLove |
+| 160 | 910 | Staci George Fitzsimmons |
+| 161 | 910 | opf |
 | 162 | 906 | Patti Skiles |
 | 163 | 900 | Edwin Calvillo Jr. |
 | 164 | 899 | Jaime Monhaut-Reed |
@@ -207,8 +207,8 @@
 | 199 | 784 | Jone |
 | 200 | 783 | Julian Murphy |
 | 201 | 777 | Daryn Elliott |
-| 202 | 774 | ren |
-| 203 | 774 | Twisty Brick LT |
+| 202 | 774 | Twisty Brick LT |
+| 203 | 774 | ren |
 | 204 | 772 | Hasty Cascadefit |
 | 205 | 768 | Cyd061769 |
 | 206 | 766 | Tasha Gillespie |
@@ -238,8 +238,8 @@
 | 230 | 703 | Shawn Miller |
 | 231 | 693 | lashanda |
 | 232 | 693 | Heather Davis |
-| 233 | 691 | Snappy Balancer |
-| 234 | 691 | Tia |
+| 233 | 691 | Tia |
+| 234 | 691 | Snappy Balancer |
 | 235 | 687 | joz |
 | 236 | 680 | Terry Jo Jones |
 | 237 | 662 | Jim Mathews |
@@ -294,11 +294,11 @@
 | 286 | 574 | Danielle Balcom |
 | 287 | 572 | Tessina Dewey-Mancino |
 | 288 | 570 | thekey |
-| 289 | 569 | Michael Johnson |
-| 290 | 569 | Silly Twist |
-| 291 | 569 | Gray Hicks |
-| 292 | 566 | Tyler Shoff |
-| 293 | 566 | Eileen Brady Thurber |
+| 289 | 569 | Gray Hicks |
+| 290 | 569 | Michael Johnson |
+| 291 | 569 | Silly Twist |
+| 292 | 566 | Eileen Brady Thurber |
+| 293 | 566 | Tyler Shoff |
 | 294 | 565 | Michael Lucado |
 | 295 | 562 | Dave Herzog |
 | 296 | 561 | Chauntee Alfrey-Cardinale |
@@ -405,10 +405,10 @@
 | 397 | 414 | Arden White Kirsch |
 | 398 | 413 | Rick Poppen |
 | 399 | 411 | Beaudie Stroebel |
-| 400 | 409 | Rich LeBlanc |
-| 401 | 409 | Roary Danner |
-| 402 | 408 | Ashley Muncey |
-| 403 | 408 | Tiffany Ford |
+| 400 | 409 | Roary Danner |
+| 401 | 409 | Rich LeBlanc |
+| 402 | 408 | Tiffany Ford |
+| 403 | 408 | Ashley Muncey |
 | 404 | 407 | Christina Spa |
 | 405 | 406 | Kristen Weese |
 | 406 | 405 | Andrew Thorson |
@@ -424,8 +424,8 @@
 | 416 | 397 | Kevin Russell |
 | 417 | 397 | Hasty Gridpiece |
 | 418 | 394 | Jalissa Monique |
-| 419 | 392 | Michelle Allers |
-| 420 | 392 | Linda Draper |
+| 419 | 392 | Linda Draper |
+| 420 | 392 | Michelle Allers |
 | 421 | 391 | Rebel124 |
 | 422 | 391 | gremicx |
 | 423 | 390 | ROODBOY |
