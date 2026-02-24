@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Nate Burnside |
-| 64 | 1824 | Jessica Ann |
+| 63 | 1824 | Jessica Ann |
+| 64 | 1824 | Nate Burnside |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -105,8 +105,8 @@
 | 97 | 1361 | Patricia Gadsden |
 | 98 | 1343 | Joey Banks |
 | 99 | 1320 | Kristie |
-| 100 | 1318 | Tiff Vs Tiffany |
-| 101 | 1318 | Diana Ibarra |
+| 100 | 1318 | Diana Ibarra |
+| 101 | 1318 | Tiff Vs Tiffany |
 | 102 | 1309 | yoyo |
 | 103 | 1297 | Shelby Michelle |
 | 104 | 1290 | JerseyJess |
@@ -388,8 +388,8 @@
 | 380 | 430 | Quackers |
 | 381 | 430 | AlsoJess |
 | 382 | 428 | Hoài Quắt |
-| 383 | 428 | Samantha Lynn |
-| 384 | 428 | Skinny Baldez |
+| 383 | 428 | Skinny Baldez |
+| 384 | 428 | Samantha Lynn |
 | 385 | 427 | Darlene McMillan |
 | 386 | 426 | Christina Rotz Shows |
 | 387 | 425 | Ava Petito |
@@ -729,8 +729,8 @@
 | 721 | 260 | Kristen McAlpine |
 | 722 | 260 | Plucky Frame |
 | 723 | 259 | James Fuller |
-| 724 | 259 | Shania Vaine |
-| 725 | 259 | Tammy |
+| 724 | 259 | Tammy |
+| 725 | 259 | Shania Vaine |
 | 726 | 258 | Spicy Buildout |
 | 727 | 257 | Trissy Collins |
 | 728 | 257 | Justin Ernst |

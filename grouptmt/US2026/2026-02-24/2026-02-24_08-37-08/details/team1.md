@@ -204,8 +204,8 @@
 | 196 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 197 | 493 | Speedy Liney |
 | 198 | 492 | Happy Snapbuild |
-| 199 | 488 | Ly Phethmany |
-| 200 | 488 | Jessie Welch |
+| 199 | 488 | Jessie Welch |
+| 200 | 488 | Ly Phethmany |
 | 201 | 485 | Mike Ames |
 | 202 | 484 | Chuck Gannon |
 | 203 | 482 | Adele Rahman |
@@ -224,9 +224,9 @@
 | 216 | 452 | Tamara Brown |
 | 217 | 449 | Tawnya Peltonen |
 | 218 | 448 | Yvonne Marie |
-| 219 | 446 | Monica Donato |
-| 220 | 446 | SkipTheSadSauce |
-| 221 | 446 | Spencer Lent |
+| 219 | 446 | Spencer Lent |
+| 220 | 446 | Monica Donato |
+| 221 | 446 | SkipTheSadSauce |
 | 222 | 439 | David Miller |
 | 223 | 436 | Sylvia Vasquez |
 | 224 | 432 | Brian Spotts |
@@ -268,8 +268,8 @@
 | 260 | 396 | Sam Williams |
 | 261 | 394 | Nick R Montague |
 | 262 | 393 | Wisa |
-| 263 | 392 | Poppy Riserpiece |
-| 264 | 392 | Renee Tucker |
+| 263 | 392 | Renee Tucker |
+| 264 | 392 | Poppy Riserpiece |
 | 265 | 391 | Happy Basegrid |
 | 266 | 390 | David Lutcher |
 | 267 | 388 | Test |
@@ -380,8 +380,8 @@
 | 372 | 310 | Chris Sigurdson |
 | 373 | 310 | Marci Sanders |
 | 374 | 309 | Isaiah |
-| 375 | 308 | Agustin Duarte Orozco |
-| 376 | 308 | Katie Martin |
+| 375 | 308 | Katie Martin |
+| 376 | 308 | Agustin Duarte Orozco |
 | 377 | 306 | Sunny Shift |
 | 378 | 305 | Speedy Snapfall |
 | 379 | 305 | Chummy Rollblock |

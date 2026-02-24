@@ -341,8 +341,8 @@
 | 333 | 1304 | Sarah Ridenour |
 | 334 | 1303 | Michele Morgan |
 | 335 | 1301 | Mandy Cekine |
-| 336 | 1300 | Snappy Matchbuilder |
-| 337 | 1300 | Shinel Richardson |
+| 336 | 1300 | Shinel Richardson |
+| 337 | 1300 | Snappy Matchbuilder |
 | 338 | 1300 | Tacara Cummings |
 | 339 | 1295 | Jess Morrison |
 | 340 | 1292 | Joshua Mandel |
@@ -358,8 +358,8 @@
 | 350 | 1264 | Mama T |
 | 351 | 1261 | Becca Coronado |
 | 352 | 1257 | Jackie Lucas |
-| 353 | 1257 | Megan Ferguson Leone |
-| 354 | 1257 | Megan Garrick |
+| 353 | 1257 | Megan Garrick |
+| 354 | 1257 | Megan Ferguson Leone |
 | 355 | 1256 | Belle |
 | 356 | 1254 | Erika Densmore |
 | 357 | 1252 | AgileDragon |
@@ -645,8 +645,8 @@
 | 637 | 798 | Daniell Martinez |
 | 638 | 797 | Moist_B-hole |
 | 639 | 796 | Brianna Cerney |
-| 640 | 795 | Alexandra Weir |
-| 641 | 795 | Aletha Williams |
+| 640 | 795 | Aletha Williams |
+| 641 | 795 | Alexandra Weir |
 | 642 | 793 | Heather Anspaugh |
 | 643 | 792 | Beatboxxer |
 | 644 | 789 | De'Jah Charncey |
@@ -692,8 +692,8 @@
 | 684 | 758 | John Jubes |
 | 685 | 758 | Stephanie Neuburger |
 | 686 | 757 | Frisky Clearpiece |
-| 687 | 755 | Antonio Mckoy Sr. |
-| 688 | 755 | Marcia Jones |
+| 687 | 755 | Marcia Jones |
+| 688 | 755 | Antonio Mckoy Sr. |
 | 689 | 751 | Tom Riefer |
 | 690 | 751 | Swanky Strikerpiece |
 | 691 | 750 | Samie Dayle |
@@ -708,8 +708,8 @@
 | 700 | 742 | Rhonda Petro |
 | 701 | 741 | Leah Keesling |
 | 702 | 741 | Ashley Munn |
-| 703 | 740 | Jerry Tempelmeyer |
-| 704 | 740 | Lylymom |
+| 703 | 740 | Lylymom |
+| 704 | 740 | Jerry Tempelmeyer |
 | 705 | 740 | Joice Hansen |
 | 706 | 740 | Lee Harper |
 | 707 | 739 | Johanna Massaro |
@@ -717,8 +717,8 @@
 | 709 | 737 | Ginger |
 | 710 | 737 | Breezy Clusterer |
 | 711 | 736 | Kenan Catovic |
-| 712 | 734 | Michelle Sager |
-| 713 | 734 | Emily Lyric Converse |
+| 712 | 734 | Emily Lyric Converse |
+| 713 | 734 | Michelle Sager |
 | 714 | 733 | Joce Lynn |
 | 715 | 733 | Christine Bollig |
 | 716 | 732 | Leticia Martinez Kelley |
@@ -731,12 +731,12 @@
 | 723 | 727 | Cc |
 | 724 | 725 | AISlop |
 | 725 | 725 | Jennifer Coe |
-| 726 | 725 | Cheyenne Donovan |
-| 727 | 725 | Vonceial Boone |
-| 728 | 725 | Shylee Tilman |
+| 726 | 725 | Vonceial Boone |
+| 727 | 725 | Shylee Tilman |
+| 728 | 725 | Cheyenne Donovan |
 | 729 | 724 | Brenna Ann |
-| 730 | 724 | Epic Fitzone |
-| 731 | 724 | teo1 |
+| 730 | 724 | teo1 |
+| 731 | 724 | Epic Fitzone |
 | 732 | 723 | Jannan Haimour |
 | 733 | 722 | Sassy Racker |
 | 734 | 720 | Poldo Ilano |
@@ -789,8 +789,8 @@
 | 781 | 691 | cornball |
 | 782 | 691 | Melissa Kay Gibson |
 | 783 | 690 | Lawanda Forbes |
-| 784 | 689 | SpaceCase085 |
-| 785 | 689 | Martina Gabrielle LaPolla |
+| 784 | 689 | Martina Gabrielle LaPolla |
+| 785 | 689 | SpaceCase085 |
 | 786 | 688 | Tracy Wise |
 | 787 | 687 | Candy Pitts |
 | 788 | 686 | Timothy Robert |
@@ -801,8 +801,8 @@
 | 793 | 684 | Jazzy Clusterline |
 | 794 | 683 | Nicole Sanqui |
 | 795 | 683 | Audrey Jones |
-| 796 | 682 | ນາງ ບີ ລາດຊະຈັກ |
-| 797 | 682 | Jacob Tri |
+| 796 | 682 | Jacob Tri |
+| 797 | 682 | ນາງ ບີ ລາດຊະຈັກ |
 | 798 | 682 | Danielle Ayoub |
 | 799 | 681 | Latasha Love |
 | 800 | 680 | mshir |
@@ -810,17 +810,17 @@
 | 802 | 680 | Stephanie Lafalce |
 | 803 | 680 | Paul Combs |
 | 804 | 679 | Cynthia Louann Rose |
-| 805 | 679 | Regina Knight |
-| 806 | 679 | Kassandra Hunt |
+| 805 | 679 | Kassandra Hunt |
+| 806 | 679 | Regina Knight |
 | 807 | 678 | Monique Foster |
 | 808 | 677 | Kayleigh Wisse |
 | 809 | 676 | Fancy Shiftsnap |
 | 810 | 675 | Katelynn Hollen |
 | 811 | 675 | Ryan Chan |
 | 812 | 675 | Fi Ne |
-| 813 | 672 | Christina Jarvis-Swarbrick |
-| 814 | 672 | Abimbola Bimbo |
-| 815 | 672 | Lathasa Newkirk |
+| 813 | 672 | Lathasa Newkirk |
+| 814 | 672 | Christina Jarvis-Swarbrick |
+| 815 | 672 | Abimbola Bimbo |
 | 816 | 671 | Ryan Parson |
 | 817 | 670 | Anita Ortiz |
 | 818 | 670 | Santana Miyagi |
@@ -839,8 +839,8 @@
 | 831 | 666 | Laura Mclean |
 | 832 | 665 | Frank Castle |
 | 833 | 665 | Zak Dunn |
-| 834 | 664 | Julie Hamilton |
-| 835 | 664 | Trista Carter |
+| 834 | 664 | Trista Carter |
+| 835 | 664 | Julie Hamilton |
 | 836 | 664 | Jarboe |
 | 837 | 663 | Christy Long |
 | 838 | 663 | snkylnk |
@@ -850,8 +850,8 @@
 | 842 | 662 | Casaundra Little-Abeling |
 | 843 | 662 | Belle Mari |
 | 844 | 662 | Magic steve |
-| 845 | 661 | Kristina Marie Hanna |
-| 846 | 661 | Monica Galli |
+| 845 | 661 | Monica Galli |
+| 846 | 661 | Kristina Marie Hanna |
 | 847 | 661 | Chab |
 | 848 | 660 | Jenna Nance |
 | 849 | 660 | Shelva Richard |
@@ -919,8 +919,8 @@
 | 911 | 622 | Michael Artis |
 | 912 | 622 | Ryan Meilleur |
 | 913 | 621 | Kitybox |
-| 914 | 621 | Erica Dale |
-| 915 | 621 | Moua Ying |
+| 914 | 621 | Moua Ying |
+| 915 | 621 | Erica Dale |
 | 916 | 620 | Beth Decker |
 | 917 | 619 | Allie Leedom |
 | 918 | 619 | Lisa Moone |
@@ -950,8 +950,8 @@
 | 942 | 606 | cel505♡ |
 | 943 | 605 | Mandi Marie Smith |
 | 944 | 605 | Klaudia Figaszewska |
-| 945 | 605 | Tipsy Filler |
-| 946 | 605 | Saucy Fitzone |
+| 945 | 605 | Saucy Fitzone |
+| 946 | 605 | Tipsy Filler |
 | 947 | 604 | Jessica Hughes |
 | 948 | 603 | Trisha Miller |
 | 949 | 602 | Christina Loftus |
@@ -964,8 +964,8 @@
 | 956 | 599 | Crystal Heller Gonzalez |
 | 957 | 599 | Plucky Matchclear |
 | 958 | 599 | Groovy Tilefall |
-| 959 | 598 | Lucy Marshall |
-| 960 | 598 | Veronica Martin Trinkle |
+| 959 | 598 | Veronica Martin Trinkle |
+| 960 | 598 | Lucy Marshall |
 | 961 | 598 | Tiki |
 | 962 | 598 | Cosmo |
 | 963 | 597 | Gael |
@@ -1143,8 +1143,8 @@
 | 1135 | 523 | Leslie Porter |
 | 1136 | 523 | Suzy Moody |
 | 1137 | 522 | Rosa Marie Matias |
-| 1138 | 521 | Cozy Drop |
-| 1139 | 521 | Karra Lindsey |
+| 1138 | 521 | Karra Lindsey |
+| 1139 | 521 | Cozy Drop |
 | 1140 | 520 | Matt Hughes |
 | 1141 | 520 | kcakes |
 | 1142 | 519 | Rob Brown |
@@ -1324,8 +1324,8 @@
 | 1316 | 460 | LaWanda Powell |
 | 1317 | 460 | Crafty Blockmatch |
 | 1318 | 459 | Boozi |
-| 1319 | 459 | Happy Cluster |
-| 1320 | 459 | Diona Burns |
+| 1319 | 459 | Diona Burns |
+| 1320 | 459 | Happy Cluster |
 | 1321 | 458 | Ghassan Seba |
 | 1322 | 458 | Tanyla Strickland |
 | 1323 | 458 | STLBatman |
@@ -1333,8 +1333,8 @@
 | 1325 | 458 | Chill Rotater |
 | 1326 | 457 | Kray Kray Katelynn |
 | 1327 | 457 | LML |
-| 1328 | 457 | shrimppimp |
-| 1329 | 457 | Zeleana Perry |
+| 1328 | 457 | Zeleana Perry |
+| 1329 | 457 | shrimppimp |
 | 1330 | 456 | Kimberly Ann Malagon |
 | 1331 | 456 | Dad |
 | 1332 | 456 | KingdomKeeper |
@@ -2968,7 +2968,7 @@
 | 2960 | 245 | Vanessa Waln |
 | 2961 | 244 | RudyBridgette Valdez |
 | 2962 | 244 | Cody Kelsey |
-| 2963 | 244 | Latrenya Paynes |
+| 2963 | 244 | Giddy Fallzone |
 | 2964 | 244 | Joe |
 | 2965 | 244 | Latrenya Paynes |
 | 2966 | 244 | Jolly Tilt |

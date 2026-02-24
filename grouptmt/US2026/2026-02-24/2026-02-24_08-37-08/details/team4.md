@@ -107,8 +107,8 @@
 | 99 | 846 | Christine Marie |
 | 100 | 840 | SAP |
 | 101 | 837 | Rica Mitchell |
-| 102 | 834 | quicksand420 |
-| 103 | 834 | Brittney Orengo |
+| 102 | 834 | Brittney Orengo |
+| 103 | 834 | quicksand420 |
 | 104 | 815 | Diana Houts |
 | 105 | 813 | Klo |
 | 106 | 811 | Sassy Pattern |
@@ -131,15 +131,15 @@
 | 123 | 735 | Nugget |
 | 124 | 731 | KJ Pool |
 | 125 | 729 | Jamie Mann-Deichmann |
-| 126 | 726 | Jamie Gustafson |
-| 127 | 726 | Amy Suckarieh |
+| 126 | 726 | Amy Suckarieh |
+| 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
 | 130 | 712 | Leslie Nicole |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Chilly Crasher |
-| 134 | 704 | Austin Owens |
+| 133 | 704 | Austin Owens |
+| 134 | 704 | Chilly Crasher |
 | 135 | 682 | Raegan Lane-Ross |
 | 136 | 668 | Desi Desporte |
 | 137 | 667 | Lindsey Gonzalez |
@@ -169,8 +169,8 @@
 | 161 | 595 | TRCuse |
 | 162 | 591 | Cursed Hag |
 | 163 | 587 | YoMomma |
-| 164 | 586 | Latisha Davis |
-| 165 | 586 | Carlos Ramirez |
+| 164 | 586 | Carlos Ramirez |
+| 165 | 586 | Latisha Davis |
 | 166 | 585 | Tracey Lehmann |
 | 167 | 584 | Carlton Unfiltered |
 | 168 | 576 | Jade Rian |
@@ -310,14 +310,14 @@
 | 302 | 364 | Lora |
 | 303 | 362 | Nubian1 |
 | 304 | 360 | Lee Silpe |
-| 305 | 359 | KimoKoala |
-| 306 | 359 | Holly |
+| 305 | 359 | Holly |
+| 306 | 359 | KimoKoala |
 | 307 | 359 | Allen Lloyd |
 | 308 | 354 | @ |
 | 309 | 354 | Perky Piecegrid |
 | 310 | 352 | Kate |
-| 311 | 351 | Jackie Clark |
-| 312 | 351 | Dana Scott |
+| 311 | 351 | Dana Scott |
+| 312 | 351 | Jackie Clark |
 | 313 | 350 | Dizzy Matchzone |
 | 314 | 349 | jim |
 | 315 | 349 | Richard-April Kice |
@@ -348,8 +348,8 @@
 | 340 | 329 | AyeKay |
 | 341 | 328 | Heather Bruce |
 | 342 | 328 | Leah Kutz Zirbel |
-| 343 | 327 | Jessica Petersen |
-| 344 | 327 | Jim Hart |
+| 343 | 327 | Jim Hart |
+| 344 | 327 | Jessica Petersen |
 | 345 | 325 | Cool Gridzone |
 | 346 | 324 | Sarah Hoffman |
 | 347 | 322 | Bryan Hodgins |
@@ -384,8 +384,8 @@
 | 376 | 304 | Sarah Neathery |
 | 377 | 302 | Jenna McGeorge |
 | 378 | 302 | Koral Hanke |
-| 379 | 300 | Carter Jones |
-| 380 | 300 | Jason Frehner |
+| 379 | 300 | Jason Frehner |
+| 380 | 300 | Carter Jones |
 | 381 | 299 | Michael Snow |
 | 382 | 298 | Val Erie |
 | 383 | 297 | Allison Rose |
@@ -1010,7 +1010,7 @@
 | 1002 | 104 | Bruce Gal |
 | 1003 | 104 | Elizabeth Lansou |
 | 1004 | 103 | Snappy Combofall |
-| 1005 | 102 | Blaze Butler |
+| 1005 | 102 | Bryan Johnson |
 | 1006 | 102 | Kristina Renea Day |
 | 1007 | 102 | Amber bamber |
 | 1008 | 102 | Blaze Butler |
