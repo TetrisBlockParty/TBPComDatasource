@@ -243,8 +243,8 @@
 | 235 | 1668 | Cambrie Schultz |
 | 236 | 1665 | Carl Bradshaw |
 | 237 | 1663 | Alex Stone LaRue |
-| 238 | 1661 | Danielle Johnson-Chandler |
-| 239 | 1661 | Scott Treadway |
+| 238 | 1661 | Scott Treadway |
+| 239 | 1661 | Danielle Johnson-Chandler |
 | 240 | 1659 | Peppy Zone |
 | 241 | 1656 | Binyah-Binyah |
 | 242 | 1656 | Lemonaide |
@@ -321,8 +321,8 @@
 | 313 | 1357 | Tanya Parsons |
 | 314 | 1353 | Deborah Miller |
 | 315 | 1353 | Heather Hoffman Disharoon |
-| 316 | 1351 | Ashie Ann |
-| 317 | 1351 | Lucky Ladybug |
+| 316 | 1351 | Lucky Ladybug |
+| 317 | 1351 | Ashie Ann |
 | 318 | 1351 | Denisha Dawkins |
 | 319 | 1351 | Johnny Yeates |
 | 320 | 1342 | Groovy Puzzle |
@@ -370,8 +370,8 @@
 | 362 | 1249 | Tristan Szolek |
 | 363 | 1245 | Angel Hunnewell |
 | 364 | 1242 | Ambyre Patterson |
-| 365 | 1237 | Christine Coughlin |
-| 366 | 1237 | Cheech Dta |
+| 365 | 1237 | Cheech Dta |
+| 366 | 1237 | Christine Coughlin |
 | 367 | 1233 | Shannon Joslin |
 | 368 | 1229 | Brenda Messer |
 | 369 | 1227 | Rebecca Miller |
@@ -401,8 +401,8 @@
 | 393 | 1171 | Loretta Brewer-Gage |
 | 394 | 1170 | Shelley Thornburgh Wright |
 | 395 | 1164 | DefaultUser |
-| 396 | 1163 | Sarah DeHart |
-| 397 | 1163 | Caitlin Schmid |
+| 396 | 1163 | Caitlin Schmid |
+| 397 | 1163 | Sarah DeHart |
 | 398 | 1160 | Maricia Layolla Cason |
 | 399 | 1158 | Brittany Clark |
 | 400 | 1150 | Sheniya Spurgeon |
@@ -546,12 +546,12 @@
 | 538 | 925 | blume |
 | 539 | 925 | Cris cris |
 | 540 | 924 | Felicia Lynn |
-| 541 | 923 | Chevy |
-| 542 | 923 | Danielle Simmons |
+| 541 | 923 | Danielle Simmons |
+| 542 | 923 | Chevy |
 | 543 | 922 | Butta |
 | 544 | 921 | Dannette Goldberg-Richards |
-| 545 | 920 | Brenda Utphall |
-| 546 | 920 | Arwa Fatimah |
+| 545 | 920 | Arwa Fatimah |
+| 546 | 920 | Brenda Utphall |
 | 547 | 919 | Isaac Trappiel IV |
 | 548 | 918 | Draizen Montrell Thomas |
 | 549 | 917 | William David Swallow |
@@ -575,8 +575,8 @@
 | 567 | 888 | Leslie Ann Carter |
 | 568 | 886 | Bold Splitter |
 | 569 | 886 | Cherrica Newman |
-| 570 | 885 | Giggy Mover |
-| 571 | 885 | Miranda Morris |
+| 570 | 885 | Miranda Morris |
+| 571 | 885 | Giggy Mover |
 | 572 | 883 | Hong Tang |
 | 573 | 882 | Sarah Massey |
 | 574 | 881 | Layla LS |
@@ -779,8 +779,8 @@
 | 771 | 710 | Alexis Richardson |
 | 772 | 707 | Giggy Grabber |
 | 773 | 706 | Karen Posadas Centeno |
-| 774 | 706 | Roseanna Peloso |
-| 775 | 706 | Josh Webster |
+| 774 | 706 | Josh Webster |
+| 775 | 706 | Roseanna Peloso |
 | 776 | 705 | Chelsea Gutierrez |
 | 777 | 704 | ນາງ ບີ ລາດຊະຈັກ |
 | 778 | 703 | Funky Drop |
@@ -1072,8 +1072,8 @@
 | 1064 | 556 | Kamilya Rembert |
 | 1065 | 555 | Noel Tarmy |
 | 1066 | 555 | Amy Roche |
-| 1067 | 554 | Hoppy Glidebuilder |
-| 1068 | 554 | Cheery Puzzler |
+| 1067 | 554 | Cheery Puzzler |
+| 1068 | 554 | Hoppy Glidebuilder |
 | 1069 | 554 | Asha Nichols-Collins |
 | 1070 | 554 | Dusti Rose Bingham |
 | 1071 | 553 | Sar Mo |
@@ -1108,10 +1108,10 @@
 | 1100 | 541 | Samantha Rojo |
 | 1101 | 541 | Misty |
 | 1102 | 540 | Melisa Marvin |
-| 1103 | 540 | Boldy Block |
-| 1104 | 540 | Pam Doughty |
-| 1105 | 539 | Loopy Brickmatch |
-| 1106 | 539 | Nutty Slice |
+| 1103 | 540 | Pam Doughty |
+| 1104 | 540 | Boldy Block |
+| 1105 | 539 | Nutty Slice |
+| 1106 | 539 | Loopy Brickmatch |
 | 1107 | 539 | stacey |
 | 1108 | 539 | Dizzy Clicker |
 | 1109 | 539 | Speedy Fill |

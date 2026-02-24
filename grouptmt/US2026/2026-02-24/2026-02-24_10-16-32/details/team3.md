@@ -285,8 +285,8 @@
 | 277 | 599 | Noyb Adam |
 | 278 | 594 | Cozy Snaplink |
 | 279 | 588 | Salena Whitlock |
-| 280 | 586 | Donna |
-| 281 | 586 | Brian Battjes |
+| 280 | 586 | Brian Battjes |
+| 281 | 586 | Donna |
 | 282 | 582 | FuzzyNavel |
 | 283 | 581 | Crystal Hine |
 | 284 | 578 | James Mitchell |
@@ -310,8 +310,8 @@
 | 302 | 547 | Aerian Preston |
 | 303 | 542 | France Vézina |
 | 304 | 541 | Mcathen |
-| 305 | 540 | rosy |
-| 306 | 540 | Tanya Kittrell |
+| 305 | 540 | Tanya Kittrell |
+| 306 | 540 | rosy |
 | 307 | 539 | Fancy Curver |
 | 308 | 539 | Kate M. Murdock |
 | 309 | 538 | Chummy Caster |
@@ -335,8 +335,8 @@
 | 327 | 494 | MCV |
 | 328 | 494 | fraulila |
 | 329 | 492 | Tasha Wesson-Torrence |
-| 330 | 490 | TotoCherue |
-| 331 | 490 | Cassandra Bryant |
+| 330 | 490 | Cassandra Bryant |
+| 331 | 490 | TotoCherue |
 | 332 | 489 | Isabel Ocasio |
 | 333 | 487 | MsBee |
 | 334 | 486 | Sleepy |
@@ -824,7 +824,7 @@
 | 816 | 235 | Cary M. Fong |
 | 817 | 234 | Sarah Morris |
 | 818 | 234 | Maple |
-| 819 | 234 | Sarah Morris |
+| 819 | 234 | Rashad Green |
 | 820 | 234 | Kendra Peterson |
 | 821 | 234 | Brave Stackbuilder |
 | 822 | 233 | Brian Quigley |
@@ -980,8 +980,8 @@
 | 972 | 201 | Erin McGinnis Reinhart |
 | 973 | 201 | Cozy Slice |
 | 974 | 200 | MariahG |
-| 975 | 200 | Donna S. Greene-Brathwaite |
-| 976 | 200 | Kacy Ramsey |
+| 975 | 200 | Kacy Ramsey |
+| 976 | 200 | Donna S. Greene-Brathwaite |
 | 977 | 200 | glichmod |
 | 978 | 199 | Chipper Piecefit |
 | 979 | 199 | Angie King |
