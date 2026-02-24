@@ -700,7 +700,7 @@
 | 692 | 779 | Trinity Oak |
 | 693 | 777 | Ashley Lopez |
 | 694 | 777 | James Smith |
-| 695 | 777 | Ashley Lopez |
+| 695 | 777 | Tesha Oldaker |
 | 696 | 776 | Aleksandr Gershman |
 | 697 | 774 | Jazzy Clusterline |
 | 698 | 774 | Ryan Gunther |
@@ -716,18 +716,18 @@
 | 708 | 766 | Angela Cagle Silmon |
 | 709 | 765 | Leah Keesling |
 | 710 | 763 | Chelle |
-| 711 | 763 | Cecilia A Jenkins |
-| 712 | 763 | Heather Causey |
-| 713 | 762 | Slinky Racker |
-| 714 | 762 | Anthony McAlister |
+| 711 | 763 | Heather Causey |
+| 712 | 763 | Cecilia A Jenkins |
+| 713 | 762 | Anthony McAlister |
+| 714 | 762 | Slinky Racker |
 | 715 | 760 | Shorty |
 | 716 | 759 | Jessica Lamb |
 | 717 | 759 | Briana Alexander |
 | 718 | 759 | teo1 |
 | 719 | 758 | Stephanie Neuburger |
 | 720 | 757 | Vonceial Boone |
-| 721 | 755 | Marcia Jones |
-| 722 | 755 | Antonio Mckoy Sr. |
+| 721 | 755 | Antonio Mckoy Sr. |
+| 722 | 755 | Marcia Jones |
 | 723 | 754 | Andre Love |
 | 724 | 753 | calcap |
 | 725 | 752 | Bob Vu |
@@ -911,8 +911,8 @@
 | 903 | 644 | Kevin Luu |
 | 904 | 643 | Rae Rae |
 | 905 | 642 | Lewis Sturgeon |
-| 906 | 641 | Happy Tile |
-| 907 | 641 | Snappy Faller |
+| 906 | 641 | Snappy Faller |
+| 907 | 641 | Happy Tile |
 | 908 | 640 | Taylor Flowers |
 | 909 | 639 | Shindee |
 | 910 | 639 | Libby Hicks |

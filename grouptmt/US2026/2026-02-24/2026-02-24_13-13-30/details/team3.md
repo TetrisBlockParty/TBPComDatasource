@@ -169,8 +169,8 @@
 | 161 | 928 | Edwin Calvillo Jr. |
 | 162 | 927 | Rochelle Hazelett |
 | 163 | 925 | Cherry Parker |
-| 164 | 914 | Staci George Fitzsimmons |
-| 165 | 914 | BadManSheLove |
+| 164 | 914 | BadManSheLove |
+| 165 | 914 | Staci George Fitzsimmons |
 | 166 | 910 | opf |
 | 167 | 906 | Patti Skiles |
 | 168 | 899 | Jaime Monhaut-Reed |
@@ -219,8 +219,8 @@
 | 211 | 772 | Hasty Cascadefit |
 | 212 | 767 | Heather Davis |
 | 213 | 766 | Mykal Burton |
-| 214 | 763 | Khaleada McGill Banks |
-| 215 | 763 | Jim Mathews |
+| 214 | 763 | Jim Mathews |
+| 215 | 763 | Khaleada McGill Banks |
 | 216 | 762 | Naur |
 | 217 | 758 | Shawn Miller |
 | 218 | 755 | Colton |
@@ -404,8 +404,8 @@
 | 396 | 431 | Goofy Fall |
 | 397 | 431 | Donna Esbensen-Alpini |
 | 398 | 428 | keni |
-| 399 | 428 | Skinny Baldez |
-| 400 | 428 | Samantha Lynn |
+| 399 | 428 | Samantha Lynn |
+| 400 | 428 | Skinny Baldez |
 | 401 | 427 | Darlene McMillan |
 | 402 | 426 | Heather Bateman |
 | 403 | 425 | Ava Petito |
@@ -535,8 +535,8 @@
 | 527 | 340 | Kerry Nowickshere |
 | 528 | 339 | Evelyn Ortega |
 | 529 | 337 | Blair Erin Waite |
-| 530 | 336 | Kristi Taylor |
-| 531 | 336 | luluraine |
+| 530 | 336 | luluraine |
+| 531 | 336 | Kristi Taylor |
 | 532 | 336 | Funky Brickster |
 | 533 | 335 | Sassy Brickmatch |
 | 534 | 335 | Johnathan Dowe |

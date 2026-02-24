@@ -81,8 +81,8 @@
 | 73 | 1080 | Chilly Line |
 | 74 | 1069 | Heather Tushner |
 | 75 | 1056 | Keith Kelley |
-| 76 | 1046 | Anthony Bryan Riva |
-| 77 | 1046 | Johnathan Martinez |
+| 76 | 1046 | Johnathan Martinez |
+| 77 | 1046 | Anthony Bryan Riva |
 | 78 | 1028 | TeeJ |
 | 79 | 1024 | Valerie Roberts |
 | 80 | 1017 | Jeremy Steines |
@@ -214,8 +214,8 @@
 | 206 | 516 | Trish |
 | 207 | 516 | Ericca Eldridge |
 | 208 | 515 | Joanna |
-| 209 | 513 | Zesty Twistbuilder |
-| 210 | 513 | Milan Markeisha |
+| 209 | 513 | Milan Markeisha |
+| 210 | 513 | Zesty Twistbuilder |
 | 211 | 512 | Melvin Baird |
 | 212 | 512 | Casey Jeffcoat |
 | 213 | 512 | ThaEviLJeNiuZ |
@@ -256,8 +256,8 @@
 | 248 | 454 | Lauren Scott |
 | 249 | 450 | Genne Scott |
 | 250 | 449 | Danielle Kollias |
-| 251 | 448 | Mr. Party |
-| 252 | 448 | Mike Solo |
+| 251 | 448 | Mike Solo |
+| 252 | 448 | Mr. Party |
 | 253 | 447 | Chris Bernstein |
 | 254 | 444 | Selena Shaw |
 | 255 | 444 | 23 |
@@ -310,13 +310,13 @@
 | 302 | 378 | Mary Ann Pabukis |
 | 303 | 378 | Googenheim |
 | 304 | 377 | Lauren Lamb |
-| 305 | 376 | Nig |
-| 306 | 376 | Stacey Stano |
+| 305 | 376 | Stacey Stano |
+| 306 | 376 | Nig |
 | 307 | 375 | Dan Wold |
 | 308 | 375 | George Tzouganos |
 | 309 | 373 | Russ Attitude |
-| 310 | 370 | Kris Bartlett |
-| 311 | 370 | Twisty Risebuilder |
+| 310 | 370 | Twisty Risebuilder |
+| 311 | 370 | Kris Bartlett |
 | 312 | 368 | Dizzy Matchzone |
 | 313 | 367 | Meg |
 | 314 | 366 | Ak Jones |
@@ -417,11 +417,11 @@
 | 409 | 297 | Brittany Marsh |
 | 410 | 294 | BootsMcGee |
 | 411 | 293 | Shiny Pivoty |
-| 412 | 292 | Jumpy Zonepiece |
-| 413 | 292 | Epic Curvetile |
-| 414 | 291 | DQ Martin |
+| 412 | 292 | Epic Curvetile |
+| 413 | 292 | Jumpy Zonepiece |
+| 414 | 291 | Ronald Brown Jr. |
 | 415 | 291 | Malakai Darien Fox |
-| 416 | 291 | Ronald Brown Jr. |
+| 416 | 291 | DQ Martin |
 | 417 | 291 | Jess Reyes |
 | 418 | 290 | Jessica Wells |
 | 419 | 290 | Jared Gutwein |
@@ -755,9 +755,9 @@
 | 747 | 168 | Krista Buffaloe |
 | 748 | 168 | Zappy Bridgepiece |
 | 749 | 166 | Goofy Fitblock |
-| 750 | 165 | Zappy Buildgrid |
+| 750 | 165 | Nikisha Reed |
 | 751 | 165 | Wacky Twister |
-| 752 | 165 | Nikisha Reed |
+| 752 | 165 | Zappy Buildgrid |
 | 753 | 164 | Marvetta Williams |
 | 754 | 164 | Willa Anne Nold Kay |
 | 755 | 164 | Stephanie Jones |
@@ -1835,7 +1835,7 @@
 | 1827 | 16 | StayC |
 | 1828 | 16 | Mery wey |
 | 1829 | 16 | SilentB |
-| 1830 | 16 | Mery wey |
+| 1830 | 16 | Orin Whitbeck |
 | 1831 | 15 | Teresa Trich |
 | 1832 | 15 | Mason Junior |
 | 1833 | 15 | Sharon Berner |
