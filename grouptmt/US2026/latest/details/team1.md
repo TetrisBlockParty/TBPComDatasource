@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 13:48:42 UTC
+# Standings for team1 as of 2026-02-24 13:49:21 UTC
 
 **Total Participants:** 2255
 
@@ -54,9 +54,9 @@
 | 46 | 1334 | Tyler Alcock |
 | 47 | 1325 | Drew Magnus |
 | 48 | 1305 | Michelle Nicole |
-| 49 | 1290 | Spunky Piecebuilder |
-| 50 | 1281 | Lori Sanders- Davis |
-| 51 | 1277 | Carrie Beck Geartz |
+| 49 | 1292 | Carrie Beck Geartz |
+| 50 | 1290 | Spunky Piecebuilder |
+| 51 | 1281 | Lori Sanders- Davis |
 | 52 | 1272 | Hasbro Bros |
 | 53 | 1267 | Stef Hu |
 | 54 | 1265 | Rachael |
@@ -79,7 +79,7 @@
 | 71 | 1114 | Jayme Sellers |
 | 72 | 1106 | Amber Stoker |
 | 73 | 1104 | Seante Bullock |
-| 74 | 1086 | Kristen Roles Robben |
+| 74 | 1101 | Kristen Roles Robben |
 | 75 | 1086 | Jason Cox |
 | 76 | 1081 | Jacqueline Williams |
 | 77 | 1076 | Redlicious 1 |
@@ -164,25 +164,25 @@
 | 156 | 603 | Maria C. Hernandez |
 | 157 | 601 | Jennifer Hardman |
 | 158 | 598 | Jessi Sauer |
-| 159 | 587 | Deanna L Hermanson |
-| 160 | 586 | Christy Jones |
-| 161 | 582 | Hellsin |
-| 162 | 581 | Snippy Wipebuilder |
-| 163 | 576 | Brandi Huntington |
-| 164 | 576 | Tonya Beasley |
-| 165 | 574 | Bouncy Grid |
-| 166 | 570 | Cody Slav |
-| 167 | 570 | Dee Perry |
-| 168 | 569 | Michelle Beres |
-| 169 | 569 | Νεφ Όνυξ |
-| 170 | 568 | Jason Savage |
-| 171 | 567 | Chase Collinsworth |
-| 172 | 561 | Jerry Danowski |
-| 173 | 560 | Speedy Liney |
-| 174 | 555 | Sarah Lombardo |
-| 175 | 555 | Loony Fitzone |
-| 176 | 554 | Rat666 |
-| 177 | 553 | Flashy Rotator |
+| 159 | 593 | Flashy Rotator |
+| 160 | 587 | Deanna L Hermanson |
+| 161 | 586 | Christy Jones |
+| 162 | 582 | Hellsin |
+| 163 | 581 | Snippy Wipebuilder |
+| 164 | 576 | Brandi Huntington |
+| 165 | 576 | Tonya Beasley |
+| 166 | 574 | Rat666 |
+| 167 | 574 | Bouncy Grid |
+| 168 | 570 | Cody Slav |
+| 169 | 570 | Dee Perry |
+| 170 | 569 | Michelle Beres |
+| 171 | 569 | Νεφ Όνυξ |
+| 172 | 568 | Jason Savage |
+| 173 | 567 | Chase Collinsworth |
+| 174 | 561 | Jerry Danowski |
+| 175 | 560 | Speedy Liney |
+| 176 | 555 | Sarah Lombardo |
+| 177 | 555 | Loony Fitzone |
 | 178 | 552 | Constance Risner |
 | 179 | 548 | Stephanie Zahn |
 | 180 | 548 | Luciano Moreira |
@@ -348,7 +348,7 @@
 | 340 | 347 | Sonia Marquis |
 | 341 | 347 | ParisandCory Champagne |
 | 342 | 347 | Michael Espinosa Ulibarri Jr. |
-| 343 | 346 | Glitzy Grid |
+| 343 | 347 | Glitzy Grid |
 | 344 | 346 | Gary Gobin |
 | 345 | 346 | Tanya Banks |
 | 346 | 345 | Nathan Sealander |
@@ -695,41 +695,41 @@
 | 687 | 189 | Playtray |
 | 688 | 189 | Vivian Bush |
 | 689 | 189 | Britney Marie Burton Cole |
-| 690 | 188 | V VIN |
-| 691 | 187 | Katie Bell |
-| 692 | 187 | Shawn Robert |
-| 693 | 187 | davis13 |
-| 694 | 187 | Jessica Weed |
-| 695 | 187 | Paul Gates |
-| 696 | 186 | Donna Taliger Brigante |
-| 697 | 185 | William Touzin |
-| 698 | 185 | Kkl |
+| 690 | 188 | Joyce Harrell-chavis |
+| 691 | 188 | V VIN |
+| 692 | 187 | Katie Bell |
+| 693 | 187 | Shawn Robert |
+| 694 | 187 | davis13 |
+| 695 | 187 | Jessica Weed |
+| 696 | 187 | Paul Gates |
+| 697 | 186 | Donna Taliger Brigante |
+| 698 | 185 | William Touzin |
 | 699 | 185 | Tim Russell |
-| 700 | 184 | Marie Fox |
-| 701 | 184 | Missy Broz McNees |
-| 702 | 183 | Olivia Witmer |
-| 703 | 183 | David DeSantis |
-| 704 | 182 | Jacqueline Unique |
-| 705 | 182 | Brandy Ann |
-| 706 | 182 | Cj X Mal |
-| 707 | 182 | Alfredo Vasquez |
-| 708 | 182 | Amador López Martínez |
-| 709 | 181 | Chummy Risebuilder |
+| 700 | 185 | Kkl |
+| 701 | 184 | Marie Fox |
+| 702 | 184 | Missy Broz McNees |
+| 703 | 183 | Olivia Witmer |
+| 704 | 183 | David DeSantis |
+| 705 | 182 | Jacqueline Unique |
+| 706 | 182 | Brandy Ann |
+| 707 | 182 | Cj X Mal |
+| 708 | 182 | Alfredo Vasquez |
+| 709 | 182 | Amador López Martínez |
 | 710 | 181 | Bean |
 | 711 | 181 | Collette Frank |
 | 712 | 181 | Shano Rae |
-| 713 | 181 | Almïghty Stoner |
-| 714 | 180 | Jennifer Crawford |
-| 715 | 180 | Traci Schmeer |
+| 713 | 181 | Chummy Risebuilder |
+| 714 | 181 | Almïghty Stoner |
+| 715 | 180 | Jennifer Crawford |
 | 716 | 180 | William Cry |
-| 717 | 179 | Ward Leandrea |
-| 718 | 179 | Joyce Harrell-chavis |
+| 717 | 180 | Traci Schmeer |
+| 718 | 179 | Ward Leandrea |
 | 719 | 179 | Jordan Brooks |
 | 720 | 179 | Ryan White |
-| 721 | 178 | Robin Burress |
+| 721 | 178 | Kendra Powell |
 | 722 | 178 | Archie Ware |
-| 723 | 178 | Kendra Powell |
-| 724 | 178 | Gabrielle Louise Malloch |
+| 723 | 178 | Gabrielle Louise Malloch |
+| 724 | 178 | Robin Burress |
 | 725 | 178 | Camio30 |
 | 726 | 177 | Sharon Francis |
 | 727 | 177 | Irual Hctrab |
@@ -741,25 +741,25 @@
 | 733 | 174 | Grady Lynch |
 | 734 | 174 | Margie Olivas |
 | 735 | 173 | Edgar Algiere |
-| 736 | 172 | Francine-frankie Ritzio-Rizzo |
-| 737 | 172 | Misty Hall Zaranti |
-| 738 | 172 | Jaymee Eva Shannon |
-| 739 | 171 | MayMay Echevarria |
+| 736 | 172 | Jaymee Eva Shannon |
+| 737 | 172 | Francine-frankie Ritzio-Rizzo |
+| 738 | 172 | Misty Hall Zaranti |
+| 739 | 171 | Giggly Brickbuilder |
 | 740 | 171 | Armand Drayton |
-| 741 | 171 | Katie Toothman |
-| 742 | 171 | Patience D. Williams |
-| 743 | 171 | Greg Premoe |
-| 744 | 171 | Hyper Tilemaker |
-| 745 | 171 | Giggly Brickbuilder |
+| 741 | 171 | MayMay Echevarria |
+| 742 | 171 | Greg Premoe |
+| 743 | 171 | Hyper Tilemaker |
+| 744 | 171 | Patience D. Williams |
+| 745 | 171 | Katie Toothman |
 | 746 | 170 | Alyssa Ingram |
 | 747 | 170 | Michael Meyer |
-| 748 | 169 | Spicy Spinblock |
-| 749 | 169 | Tina Midkiff |
-| 750 | 169 | Ruby Sandberg |
-| 751 | 169 | Nicole Little |
-| 752 | 169 | Sarah Hope |
-| 753 | 168 | Terika Rodriguez |
-| 754 | 168 | Crystal Joslin |
+| 748 | 169 | Sarah Hope |
+| 749 | 169 | Ruby Sandberg |
+| 750 | 169 | Nicole Little |
+| 751 | 169 | Spicy Spinblock |
+| 752 | 169 | Tina Midkiff |
+| 753 | 168 | Crystal Joslin |
+| 754 | 168 | Terika Rodriguez |
 | 755 | 168 | Shannon Hawkins |
 | 756 | 168 | Heather Martin |
 | 757 | 168 | Chipper Piecefit |
@@ -2109,12 +2109,12 @@
 | 2101 | 12 | Nerdy Rotator |
 | 2102 | 12 | AyloStar1900 |
 | 2103 | 12 | Anthony Torres |
-| 2104 | 12 | Christine Robin Hamilton |
-| 2105 | 12 | Dandy Slide |
-| 2106 | 11 | Plucky Brickbuilder |
-| 2107 | 11 | Princess7313 |
-| 2108 | 11 | Seapea |
-| 2109 | 11 | Wayne Davison |
+| 2104 | 12 | Wayne Davison |
+| 2105 | 12 | Christine Robin Hamilton |
+| 2106 | 12 | Dandy Slide |
+| 2107 | 11 | Plucky Brickbuilder |
+| 2108 | 11 | Princess7313 |
+| 2109 | 11 | Seapea |
 | 2110 | 11 | Lazy Stacky |
 | 2111 | 11 | Chewy |
 | 2112 | 11 | Tiny |
