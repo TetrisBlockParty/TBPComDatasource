@@ -76,8 +76,8 @@
 | 68 | 978 | Amber Stoker |
 | 69 | 975 | TSwag |
 | 70 | 974 | Veronica Eve |
-| 71 | 966 | Francesca Gee |
-| 72 | 966 | Shalene Frederick Autrey |
+| 71 | 966 | Shalene Frederick Autrey |
+| 72 | 966 | Francesca Gee |
 | 73 | 961 | Jacqueline Williams |
 | 74 | 957 | Zippy Align |
 | 75 | 929 | Erin Hodges Plumb |
@@ -142,8 +142,8 @@
 | 134 | 556 | Susan Ward |
 | 135 | 555 | Sarah Lombardo |
 | 136 | 553 | Flashy Rotator |
-| 137 | 552 | Tanya Carpenter-Reynolds |
-| 138 | 552 | Hellsin |
+| 137 | 552 | Hellsin |
+| 138 | 552 | Tanya Carpenter-Reynolds |
 | 139 | 550 | Timothy Danaher |
 | 140 | 548 | Luciano Moreira |
 | 141 | 546 | Loony Fitzone |

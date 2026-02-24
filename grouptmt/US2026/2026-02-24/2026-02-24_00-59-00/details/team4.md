@@ -64,8 +64,8 @@
 | 56 | 1106 | Ashley Ingram |
 | 57 | 1092 | Rachel Anne |
 | 58 | 1088 | BertMofo |
-| 59 | 1082 | Dion Crommarty |
-| 60 | 1082 | Avy Absol |
+| 59 | 1082 | Avy Absol |
+| 60 | 1082 | Dion Crommarty |
 | 61 | 1075 | Dustee Craddock-Harrison |
 | 62 | 1059 | Alyssa Papen |
 | 63 | 1049 | Heather Tushner |
@@ -74,7 +74,7 @@
 | 66 | 1030 | Anthony Bryan Riva |
 | 67 | 999 | Jeremy Steines |
 | 68 | 985 | Shelly Chandler |
-| 69 | 979 | Amelpss |
+| 69 | 977 | Amelpss |
 | 70 | 970 | Robin Getchel |
 | 71 | 967 | Shannon Ferrari |
 | 72 | 954 | loulou |
@@ -441,8 +441,8 @@
 | 433 | 239 | Denise B |
 | 434 | 239 | Kevin Bush |
 | 435 | 239 | Ruby Khalisadar |
-| 436 | 238 | 中山成巳 |
-| 437 | 238 | GBR |
+| 436 | 238 | GBR |
+| 437 | 238 | 中山成巳 |
 | 438 | 237 | Alan Zukowski |
 | 439 | 236 | Melissa VanBourgondien |
 | 440 | 236 | The Murphy |
@@ -460,7 +460,7 @@
 | 452 | 232 | Becky Shimko |
 | 453 | 230 | Chantilly Laace |
 | 454 | 230 | Martha Lucinda Bishop |
-| 455 | 230 | Chantilly Laace |
+| 455 | 230 | Joey Riley |
 | 456 | 229 | bloat princess |
 | 457 | 229 | L Bear Champion |
 | 458 | 228 | Bethany Ison |
