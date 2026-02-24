@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 17:24:43 UTC
+# Standings for team1 as of 2026-02-24 17:25:21 UTC
 
 **Total Participants:** 2281
 
@@ -49,9 +49,9 @@
 | 41 | 1505 | Nancy Green |
 | 42 | 1478 | Snappy Swiper |
 | 43 | 1433 | Aaron Garnett |
-| 44 | 1411 | Tyler Alcock |
-| 45 | 1405 | Chipper Gridlock |
-| 46 | 1405 | Spunky Piecebuilder |
+| 44 | 1420 | Spunky Piecebuilder |
+| 45 | 1411 | Tyler Alcock |
+| 46 | 1405 | Chipper Gridlock |
 | 47 | 1388 | Jen Sartain |
 | 48 | 1387 | june october |
 | 49 | 1332 | Michelle Nicole |
@@ -273,18 +273,18 @@
 | 265 | 427 | Ananda Mendez |
 | 266 | 426 | Betsy |
 | 267 | 426 | Brenda Alexander |
-| 268 | 424 | Emily Adelaide Wheatley |
-| 269 | 424 | Plucky Stacky |
-| 270 | 424 | Serina Marie |
-| 271 | 423 | Alenoush Karimian |
-| 272 | 422 | Jamise Brown |
-| 273 | 421 | Renee Tucker |
-| 274 | 420 | Sarahdactyl |
+| 268 | 426 | Poppy Riserpiece |
+| 269 | 424 | Emily Adelaide Wheatley |
+| 270 | 424 | Plucky Stacky |
+| 271 | 424 | Serina Marie |
+| 272 | 423 | Alenoush Karimian |
+| 273 | 422 | Jamise Brown |
+| 274 | 421 | Renee Tucker |
 | 275 | 420 | DoodleBug |
-| 276 | 419 | Barrbaric |
-| 277 | 417 | Dino |
-| 278 | 416 | Larissa Marie Nelson |
-| 279 | 416 | Poppy Riserpiece |
+| 276 | 420 | Sarahdactyl |
+| 277 | 419 | Barrbaric |
+| 278 | 417 | Dino |
+| 279 | 416 | Larissa Marie Nelson |
 | 280 | 416 | Amanda Holibaugh |
 | 281 | 414 | Bird Person |
 | 282 | 412 | Kimberly Davis |
@@ -365,12 +365,12 @@
 | 357 | 350 | Bouncy Line |
 | 358 | 350 | Larry Tilton |
 | 359 | 349 | Mitchel White |
-| 360 | 347 | Sonia Marquis |
-| 361 | 347 | Mark Smith |
-| 362 | 347 | Glitzy Grid |
-| 363 | 346 | Gary Gobin |
-| 364 | 346 | Tanya Banks |
-| 365 | 345 | Elizabeth Kubli |
+| 360 | 348 | Elizabeth Kubli |
+| 361 | 347 | Sonia Marquis |
+| 362 | 347 | Mark Smith |
+| 363 | 347 | Glitzy Grid |
+| 364 | 346 | Gary Gobin |
+| 365 | 346 | Tanya Banks |
 | 366 | 345 | Nathan Sealander |
 | 367 | 345 | Bloknboy |
 | 368 | 344 | Buttons Stemm |
@@ -983,12 +983,12 @@
 | 975 | 127 | Kevin Prothro |
 | 976 | 127 | Staci Walker |
 | 977 | 127 | Billie Garrett |
-| 978 | 126 | Dreamy Brickclear |
-| 979 | 126 | Natasha |
-| 980 | 126 | Wanda Rodriguez |
-| 981 | 126 | Mizzledagod |
-| 982 | 126 | Linda Williams |
-| 983 | 126 | Jeff Newinski |
+| 978 | 127 | Jeff Newinski |
+| 979 | 126 | Dreamy Brickclear |
+| 980 | 126 | Natasha |
+| 981 | 126 | Wanda Rodriguez |
+| 982 | 126 | Mizzledagod |
+| 983 | 126 | Linda Williams |
 | 984 | 126 | Chenea Frazier |
 | 985 | 126 | Andrea AJ Johnson |
 | 986 | 125 | Phredda Compton |
@@ -1353,23 +1353,23 @@
 | 1345 | 71 | Andee Bo Bandee |
 | 1346 | 71 | Dylan BW |
 | 1347 | 71 | Spicy Brickline |
-| 1348 | 71 | Amy Lynn |
-| 1349 | 70 | BoneDaddy |
-| 1350 | 70 | Sassy Rotator |
-| 1351 | 70 | Nicole Plummer |
-| 1352 | 70 | Pete Davis |
-| 1353 | 70 | Dennis Eitler |
-| 1354 | 70 | Sarah Stanonik |
+| 1348 | 71 | Chewy |
+| 1349 | 71 | Amy Lynn |
+| 1350 | 70 | Sarah Stanonik |
+| 1351 | 70 | Sassy Rotator |
+| 1352 | 70 | Nicole Plummer |
+| 1353 | 70 | Pete Davis |
+| 1354 | 70 | Dennis Eitler |
 | 1355 | 70 | SuzyQ |
 | 1356 | 70 | Gerriann Jordan |
 | 1357 | 70 | Scott Cutter |
 | 1358 | 70 | Rachael Marie |
-| 1359 | 69 | QUEENIE K |
-| 1360 | 69 | Jesse Meehan |
-| 1361 | 69 | stormie |
-| 1362 | 69 | Serene_713 |
-| 1363 | 69 | Zany Snapline |
-| 1364 | 69 | Chewy |
+| 1359 | 70 | BoneDaddy |
+| 1360 | 69 | stormie |
+| 1361 | 69 | QUEENIE K |
+| 1362 | 69 | Jesse Meehan |
+| 1363 | 69 | Serene_713 |
+| 1364 | 69 | Zany Snapline |
 | 1365 | 69 | tee |
 | 1366 | 69 | Pamela Jones |
 | 1367 | 68 | Twisty Patternline |
@@ -1392,9 +1392,9 @@
 | 1384 | 66 | Ashley Moore |
 | 1385 | 66 | Kaitlyn Mambro |
 | 1386 | 66 | Stormz420 |
-| 1387 | 66 | Laura Small |
-| 1388 | 66 | Skyelandor |
-| 1389 | 66 | Stephanie Randall |
+| 1387 | 66 | Stephanie Randall |
+| 1388 | 66 | Laura Small |
+| 1389 | 66 | Skyelandor |
 | 1390 | 66 | Lucy Moore |
 | 1391 | 66 | Sean Behjani |
 | 1392 | 66 | Crystal Mock |
