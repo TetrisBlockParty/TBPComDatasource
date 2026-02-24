@@ -594,8 +594,8 @@
 | 586 | 866 | Tammie Siegfried |
 | 587 | 866 | Mishka Upchurch |
 | 588 | 865 | Lilia Gomez |
-| 589 | 861 | Shavonna Haynes |
-| 590 | 861 | Beth |
+| 589 | 861 | Beth |
+| 590 | 861 | Shavonna Haynes |
 | 591 | 861 | Anthony |
 | 592 | 858 | Joshua Self |
 | 593 | 857 | Marella Petilo |
@@ -697,8 +697,8 @@
 | 689 | 772 | Party d |
 | 690 | 771 | Tim Galle |
 | 691 | 770 | Frilly Fallzone |
-| 692 | 770 | Nakiiya Dreamcatcher Gore |
-| 693 | 770 | Michael Buckner |
+| 692 | 770 | Michael Buckner |
+| 693 | 770 | Nakiiya Dreamcatcher Gore |
 | 694 | 768 | Mia Muse Best |
 | 695 | 766 | Frisky Riserbuilder |
 | 696 | 766 | Diamond Scott |

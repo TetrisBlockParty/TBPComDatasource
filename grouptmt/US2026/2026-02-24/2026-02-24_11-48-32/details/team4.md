@@ -361,8 +361,8 @@
 | 353 | 329 | Meagan Nicole |
 | 354 | 328 | Heather Bruce |
 | 355 | 328 | Leah Kutz Zirbel |
-| 356 | 327 | Jessica Petersen |
-| 357 | 327 | Jim Hart |
+| 356 | 327 | Jim Hart |
+| 357 | 327 | Jessica Petersen |
 | 358 | 325 | Dustin York |
 | 359 | 324 | tipsy tiger |
 | 360 | 324 | Sarah Hoffman |
@@ -544,7 +544,7 @@
 | 536 | 230 | Joey Riley |
 | 537 | 229 | Brad Campbell |
 | 538 | 229 | Stacy |
-| 539 | 229 | Brad Campbell |
+| 539 | 229 | Marco |
 | 540 | 229 | Jessica Wells |
 | 541 | 228 | Ashley Danielle |
 | 542 | 227 | Asher |

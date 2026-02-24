@@ -78,16 +78,16 @@
 | 70 | 1769 | Aaron Pitkin |
 | 71 | 1691 | Cass Mendoza |
 | 72 | 1681 | Gracie |
-| 73 | 1663 | Mahman |
-| 74 | 1663 | Angeline Joseph |
+| 73 | 1663 | Angeline Joseph |
+| 74 | 1663 | Mahman |
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
-| 81 | 1555 | Elaine Webb Graves |
-| 82 | 1555 | Snappy Glidepiece |
+| 81 | 1555 | Snappy Glidepiece |
+| 82 | 1555 | Elaine Webb Graves |
 | 83 | 1518 | Christine Filson |
 | 84 | 1495 | Katie Knaus |
 | 85 | 1488 | Jay Horn |
@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -179,16 +179,16 @@
 | 171 | 875 | Chasity |
 | 172 | 874 | Jessica Pineda-Lopez |
 | 173 | 871 | Rochelle Hazelett |
-| 174 | 868 | Cranky Gridder |
-| 175 | 868 | Nicole Flippo |
+| 174 | 868 | Nicole Flippo |
+| 175 | 868 | Cranky Gridder |
 | 176 | 866 | Domo Washington |
 | 177 | 864 | Sunny Rotater |
 | 178 | 862 | Santeria Trece Candles |
 | 179 | 857 | Dana Fox |
 | 180 | 856 | Dana Winters |
 | 181 | 854 | Speedy Bridger |
-| 182 | 847 | Daring Brickzone |
-| 183 | 847 | Daira Largen |
+| 182 | 847 | Daira Largen |
+| 183 | 847 | Daring Brickzone |
 | 184 | 846 | Nicole Myers |
 | 185 | 842 | Alexmac |
 | 186 | 829 | Patricia White |
@@ -219,8 +219,8 @@
 | 211 | 759 | Mykal Burton |
 | 212 | 758 | Shawn Miller |
 | 213 | 757 | Fancy Cascader |
-| 214 | 755 | Laura Booth Wosko |
-| 215 | 755 | Colton |
+| 214 | 755 | Colton |
+| 215 | 755 | Laura Booth Wosko |
 | 216 | 754 | CeceGeGe |
 | 217 | 753 | Morgan Martinez |
 | 218 | 752 | Joye Sims Binion |
@@ -306,8 +306,8 @@
 | 298 | 556 | Shiny Zonebuilder |
 | 299 | 555 | Danielle Weikel |
 | 300 | 552 | Scott Carleton |
-| 301 | 548 | Shannon Matthew Byers |
-| 302 | 548 | Chris Bell |
+| 301 | 548 | Chris Bell |
+| 302 | 548 | Shannon Matthew Byers |
 | 303 | 547 | Aerian Preston |
 | 304 | 542 | France Vézina |
 | 305 | 541 | Mcathen |
@@ -334,8 +334,8 @@
 | 326 | 499 | Gumbo |
 | 327 | 499 | Megan Rathmanner |
 | 328 | 496 | Brenda Schmid Wood |
-| 329 | 494 | MCV |
-| 330 | 494 | fraulila |
+| 329 | 494 | fraulila |
+| 330 | 494 | MCV |
 | 331 | 492 | Tasha Wesson-Torrence |
 | 332 | 490 | TotoCherue |
 | 333 | 490 | Cassandra Bryant |
@@ -418,8 +418,8 @@
 | 410 | 413 | Rick Poppen |
 | 411 | 411 | Beaudie Stroebel |
 | 412 | 409 | Rich LeBlanc |
-| 413 | 408 | Tiffany Ford |
-| 414 | 408 | Ashley Muncey |
+| 413 | 408 | Ashley Muncey |
+| 414 | 408 | Tiffany Ford |
 | 415 | 407 | Christina Spa |
 | 416 | 406 | Kristen Weese |
 | 417 | 405 | Andrew Thorson |
@@ -452,10 +452,10 @@
 | 444 | 382 | Theresa Opell Gartner |
 | 445 | 381 | Romeo |
 | 446 | 381 | Mary Giorgenti |
-| 447 | 380 | neci |
-| 448 | 380 | Foltz Lee Kelli |
-| 449 | 378 | Samantha Worley |
-| 450 | 378 | Nikki Pags |
+| 447 | 380 | Foltz Lee Kelli |
+| 448 | 380 | neci |
+| 449 | 378 | Nikki Pags |
+| 450 | 378 | Samantha Worley |
 | 451 | 377 | Paula Little |
 | 452 | 376 | Brittany |
 | 453 | 376 | Tracy Martin |
@@ -592,13 +592,13 @@
 | 584 | 315 | Amy Montz |
 | 585 | 314 | toony |
 | 586 | 314 | Rachel Napper |
-| 587 | 313 | Muk |
-| 588 | 313 | Cibf Ecihm |
-| 589 | 313 | Joseph Vargas |
-| 590 | 313 | Emberblaze |
+| 587 | 313 | Cibf Ecihm |
+| 588 | 313 | Muk |
+| 589 | 313 | Emberblaze |
+| 590 | 313 | Joseph Vargas |
 | 591 | 313 | Dakota Graham |
-| 592 | 312 | Trice Thomas |
-| 593 | 312 | Elizabeth Renee |
+| 592 | 312 | Elizabeth Renee |
+| 593 | 312 | Trice Thomas |
 | 594 | 311 | Irene Arreguin |
 | 595 | 309 | Daisy Rocha |
 | 596 | 309 | Jumpy Curvebuilder |
@@ -666,7 +666,7 @@
 | 658 | 282 | Lisa Ann |
 | 659 | 281 | Nerdy Lifter |
 | 660 | 281 | Boldy Blocker |
-| 661 | 281 | Nerdy Lifter |
+| 661 | 281 | Jenna Baker |
 | 662 | 280 | Myoshia Norwood |
 | 663 | 279 | Mikey Lewis |
 | 664 | 279 | Ryan Williams |
