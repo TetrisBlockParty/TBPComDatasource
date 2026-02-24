@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -126,8 +126,8 @@
 | 118 | 1134 | Melissa Orth Hunter |
 | 119 | 1124 | Stephanie Rice |
 | 120 | 1121 | Corie A. Brinson |
-| 121 | 1114 | Groovy Catcher |
-| 122 | 1114 | Loopy Fallmatch |
+| 121 | 1114 | Loopy Fallmatch |
+| 122 | 1114 | Groovy Catcher |
 | 123 | 1105 | Adrian Marcel Pate |
 | 124 | 1093 | Angela M. Fletcher |
 | 125 | 1091 | Jennifer |
@@ -156,11 +156,11 @@
 | 148 | 971 | Tasha Schriewer |
 | 149 | 963 | Crystal Frey |
 | 150 | 961 | Danielle Allison |
-| 151 | 950 | Giddy Drop |
-| 152 | 950 | MissTaylor |
+| 151 | 950 | MissTaylor |
+| 152 | 950 | Giddy Drop |
 | 153 | 947 | Kellie Montgomery |
-| 154 | 940 | Stephanie Allmon |
-| 155 | 940 | Patty Allen |
+| 154 | 940 | Patty Allen |
+| 155 | 940 | Stephanie Allmon |
 | 156 | 936 | Dolores Falco |
 | 157 | 928 | Edwin Calvillo Jr. |
 | 158 | 925 | Cherry Parker |
@@ -176,8 +176,8 @@
 | 168 | 875 | Chasity |
 | 169 | 874 | Jessica Pineda-Lopez |
 | 170 | 871 | Rochelle Hazelett |
-| 171 | 868 | Cranky Gridder |
-| 172 | 868 | Nicole Flippo |
+| 171 | 868 | Nicole Flippo |
+| 172 | 868 | Cranky Gridder |
 | 173 | 866 | Domo Washington |
 | 174 | 864 | Sunny Rotater |
 | 175 | 862 | Santeria Trece Candles |
@@ -196,8 +196,8 @@
 | 188 | 815 | Justin Ritter |
 | 189 | 813 | JessDrown |
 | 190 | 808 | Raya |
-| 191 | 804 | Alaina Lee |
-| 192 | 804 | Gideon Walker |
+| 191 | 804 | Gideon Walker |
+| 192 | 804 | Alaina Lee |
 | 193 | 800 | Lauren Girouard |
 | 194 | 799 | Trisha Balmer |
 | 195 | 792 | Rachel Grant |
@@ -231,8 +231,8 @@
 | 223 | 715 | Karon Griffin |
 | 224 | 714 | Jenny Hrndz |
 | 225 | 713 | Stephanie Blkpep Davidson |
-| 226 | 709 | Cynthia Castros-Hampton |
-| 227 | 709 | Christine Niles |
+| 226 | 709 | Christine Niles |
+| 227 | 709 | Cynthia Castros-Hampton |
 | 228 | 708 | Stephanie Bradley |
 | 229 | 704 | Betty Bóò |
 | 230 | 703 | Shawn Miller |
@@ -278,8 +278,8 @@
 | 270 | 604 | Bmo |
 | 271 | 604 | Sherry Ogden |
 | 272 | 601 | Betty Rosas |
-| 273 | 600 | Natasha Jones |
-| 274 | 600 | Rynne Ellis |
+| 273 | 600 | Rynne Ellis |
+| 274 | 600 | Natasha Jones |
 | 275 | 599 | Noyb Adam |
 | 276 | 598 | Kaycee Kay |
 | 277 | 594 | Cozy Snaplink |
@@ -328,8 +328,8 @@
 | 320 | 505 | Stephanie Simpson |
 | 321 | 504 | Daring Builder |
 | 322 | 500 | Ashley Tookes |
-| 323 | 499 | Gumbo |
-| 324 | 499 | Megan Rathmanner |
+| 323 | 499 | Megan Rathmanner |
+| 324 | 499 | Gumbo |
 | 325 | 496 | Brenda Schmid Wood |
 | 326 | 494 | MCV |
 | 327 | 494 | fraulila |
@@ -407,13 +407,13 @@
 | 399 | 413 | Rick Poppen |
 | 400 | 411 | Beaudie Stroebel |
 | 401 | 409 | Rich LeBlanc |
-| 402 | 408 | Tiffany Ford |
-| 403 | 408 | Ashley Muncey |
+| 402 | 408 | Ashley Muncey |
+| 403 | 408 | Tiffany Ford |
 | 404 | 407 | Christina Spa |
 | 405 | 406 | Kristen Weese |
 | 406 | 405 | Andrew Thorson |
-| 407 | 404 | Karent524 |
-| 408 | 404 | Giggy Balanceblock |
+| 407 | 404 | Giggy Balanceblock |
+| 408 | 404 | Karent524 |
 | 409 | 404 | Alice |
 | 410 | 403 | Scott Lindsay |
 | 411 | 403 | keni |
@@ -421,16 +421,16 @@
 | 413 | 401 | Velma Mull |
 | 414 | 400 | Joy Petroski |
 | 415 | 398 | Breezy Roll |
-| 416 | 397 | Hasty Gridpiece |
-| 417 | 397 | Kevin Russell |
+| 416 | 397 | Kevin Russell |
+| 417 | 397 | Hasty Gridpiece |
 | 418 | 394 | Jalissa Monique |
-| 419 | 392 | Linda Draper |
-| 420 | 392 | Michelle Allers |
+| 419 | 392 | Michelle Allers |
+| 420 | 392 | Linda Draper |
 | 421 | 391 | gremicx |
 | 422 | 391 | Rebel124 |
 | 423 | 390 | ROODBOY |
-| 424 | 389 | Amanda J. Mcneil-Anderson |
-| 425 | 389 | Kirhonda Autmon |
+| 424 | 389 | Kirhonda Autmon |
+| 425 | 389 | Amanda J. Mcneil-Anderson |
 | 426 | 387 | Brittany K Ward |
 | 427 | 386 | Geoffrey Nash |
 | 428 | 384 | Tiffany Davie |
@@ -439,8 +439,8 @@
 | 431 | 382 | Theresa Opell Gartner |
 | 432 | 382 | Katheline Lazo Luizaga |
 | 433 | 381 | Mary Giorgenti |
-| 434 | 380 | Foltz Lee Kelli |
-| 435 | 380 | neci |
+| 434 | 380 | neci |
+| 435 | 380 | Foltz Lee Kelli |
 | 436 | 379 | Krish Shah |
 | 437 | 378 | Samantha Worley |
 | 438 | 378 | Ashley Lynn Marchese |
@@ -790,8 +790,8 @@
 | 782 | 245 | Martin Bernier |
 | 783 | 245 | Danette Marie |
 | 784 | 244 | MizzMonick Smith |
-| 785 | 244 | Amanda Fulton |
-| 786 | 244 | LaJeanna Lee Lee |
+| 785 | 244 | LaJeanna Lee Lee |
+| 786 | 244 | Amanda Fulton |
 | 787 | 242 | Tanesha BigBabby Darling |
 | 788 | 241 | Jill Stickney |
 | 789 | 241 | David Bardo |
@@ -801,8 +801,8 @@
 | 793 | 240 | Christopher Mastropietro |
 | 794 | 239 | Jada Cox |
 | 795 | 239 | lydynred |
-| 796 | 239 | Jada Cox |
-| 797 | 239 | Alicia |
+| 796 | 239 | Alicia |
+| 797 | 239 | Snarky McFace |
 | 798 | 239 | Vernell Sturdivant |
 | 799 | 238 | Matty Pope |
 | 800 | 237 | Michelle Barton |
@@ -984,7 +984,7 @@
 | 976 | 198 | SummerRae Broussard |
 | 977 | 198 | LIL BIT |
 | 978 | 198 | Rachell Barnett |
-| 979 | 198 | SummerRae Broussard |
+| 979 | 198 | Paula Urlacher |
 | 980 | 198 | Shelly Marie Lloyd |
 | 981 | 197 | Giddy Basepiece |
 | 982 | 197 | Johnny Berlin |

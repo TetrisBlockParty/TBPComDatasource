@@ -73,8 +73,8 @@
 | 65 | 1119 | Amelpss |
 | 66 | 1109 | BertMofo |
 | 67 | 1089 | Alyssa Papen |
-| 68 | 1082 | Dion Crommarty |
-| 69 | 1082 | Avy Absol |
+| 68 | 1082 | Avy Absol |
+| 69 | 1082 | Dion Crommarty |
 | 70 | 1081 | Dustee Craddock-Harrison |
 | 71 | 1080 | Chilly Line |
 | 72 | 1069 | Heather Tushner |
@@ -243,18 +243,18 @@
 | 235 | 457 | J-Rizzle |
 | 236 | 457 | Kristin Manee |
 | 237 | 455 | Michele Plunkett |
-| 238 | 454 | David Lay |
-| 239 | 454 | Keshia Lyons |
+| 238 | 454 | Keshia Lyons |
+| 239 | 454 | David Lay |
 | 240 | 450 | Genne Scott |
 | 241 | 449 | Danielle Kollias |
-| 242 | 448 | Mr. Party |
-| 243 | 448 | Mike Solo |
+| 242 | 448 | Mike Solo |
+| 243 | 448 | Mr. Party |
 | 244 | 447 | Jen Mattei |
 | 245 | 444 | Selena Shaw |
 | 246 | 442 | John Brunetti |
 | 247 | 441 | Lush Linkfall |
-| 248 | 438 | Melvin Baird |
-| 249 | 438 | 23 |
+| 248 | 438 | 23 |
+| 249 | 438 | Melvin Baird |
 | 250 | 435 | Chris Bernstein |
 | 251 | 434 | Ramel Rhodes |
 | 252 | 433 | Damn Libra |
@@ -446,10 +446,10 @@
 | 438 | 266 | ĥuf |
 | 439 | 266 | Happy Combo |
 | 440 | 265 | Degenerate |
-| 441 | 265 | Sticherella |
-| 442 | 265 | Lorena Guerrero-Barron |
+| 441 | 265 | Lorena Guerrero-Barron |
+| 442 | 265 | Sticherella |
 | 443 | 265 | Christine Therrien |
-| 444 | 264 | Brandi Durig |
+| 444 | 264 | Shh |
 | 445 | 264 | Chantilly Laace |
 | 446 | 264 | Brandi Durig |
 | 447 | 263 | Laurmarcar |
@@ -464,9 +464,9 @@
 | 456 | 258 | April Spoelma |
 | 457 | 257 | Laurel Coppess |
 | 458 | 257 | ThriftySpice |
-| 459 | 256 | Candice Carasiti |
-| 460 | 256 | Tipsy Cascader |
-| 461 | 256 | bloat princess |
+| 459 | 256 | bloat princess |
+| 460 | 256 | Candice Carasiti |
+| 461 | 256 | Tipsy Cascader |
 | 462 | 255 | Red |
 | 463 | 254 | Jess Reyes |
 | 464 | 254 | Crystal Lynn |

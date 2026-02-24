@@ -282,8 +282,8 @@
 | 274 | 1480 | Dimitra Zazara |
 | 275 | 1479 | Pacynthia Williams |
 | 276 | 1478 | Misty Walker |
-| 277 | 1477 | Hillary Crawford |
-| 278 | 1477 | Prado |
+| 277 | 1477 | Prado |
+| 278 | 1477 | Hillary Crawford |
 | 279 | 1469 | Carrie Trigg |
 | 280 | 1463 | Yvonne Wharton |
 | 281 | 1459 | Shiny Rollzone |
@@ -910,8 +910,8 @@
 | 902 | 638 | DLOCC1056 |
 | 903 | 637 | Darcy Mae |
 | 904 | 636 | Tash Bell |
-| 905 | 635 | Pamela Babisky |
-| 906 | 635 | John Carlin |
+| 905 | 635 | John Carlin |
+| 906 | 635 | Pamela Babisky |
 | 907 | 634 | Jessica Galick |
 | 908 | 632 | Lea Stewart |
 | 909 | 631 | Autumn Schaeffer |
@@ -928,8 +928,8 @@
 | 920 | 622 | Ryan Meilleur |
 | 921 | 622 | Ben Barkley |
 | 922 | 621 | Moua Ying |
-| 923 | 621 | Erica Dale |
-| 924 | 621 | Kitybox |
+| 923 | 621 | Kitybox |
+| 924 | 621 | Erica Dale |
 | 925 | 620 | Gael |
 | 926 | 620 | Beth Decker |
 | 927 | 619 | Allie Leedom |
