@@ -296,8 +296,8 @@
 | 288 | 1408 | Doowop40 |
 | 289 | 1407 | Lola C Davis |
 | 290 | 1392 | Karen Snyder Schrage |
-| 291 | 1391 | Ronnie Nelson |
-| 292 | 1391 | Kimberly Hauck-Rausch |
+| 291 | 1391 | Kimberly Hauck-Rausch |
+| 292 | 1391 | Ronnie Nelson |
 | 293 | 1387 | Samantha Scibelli |
 | 294 | 1383 | Ladyrainbootz |
 | 295 | 1381 | Christie |
@@ -740,8 +740,8 @@
 | 732 | 718 | Andre Love |
 | 733 | 717 | Shinette Dobson |
 | 734 | 717 | Yoan Boulanger |
-| 735 | 716 | Leah |
-| 736 | 716 | Irene Jones |
+| 735 | 716 | Irene Jones |
+| 736 | 716 | Leah |
 | 737 | 715 | Daniell Martinez |
 | 738 | 715 | Nutty Splitter |
 | 739 | 715 | Julio A Laracuente |
@@ -813,8 +813,8 @@
 | 805 | 675 | Katelynn Hollen |
 | 806 | 675 | Ryan Chan |
 | 807 | 675 | Fi Ne |
-| 808 | 672 | Christina Jarvis-Swarbrick |
-| 809 | 672 | Lathasa Newkirk |
+| 808 | 672 | Lathasa Newkirk |
+| 809 | 672 | Christina Jarvis-Swarbrick |
 | 810 | 672 | Abimbola Bimbo |
 | 811 | 671 | Ryan Parson |
 | 812 | 670 | Santana Miyagi |
@@ -900,8 +900,8 @@
 | 892 | 632 | Lea Stewart |
 | 893 | 631 | Autumn Schaeffer |
 | 894 | 629 | Snappy Shatterfit |
-| 895 | 629 | Luke Califf |
-| 896 | 629 | Kat Mfm Kaul |
+| 895 | 629 | Kat Mfm Kaul |
+| 896 | 629 | Luke Califf |
 | 897 | 629 | Ownlane Rico |
 | 898 | 628 | Misty Mitchell |
 | 899 | 628 | Macy Jarrett |
@@ -987,8 +987,8 @@
 | 979 | 583 | RaeVan Worthington |
 | 980 | 583 | Jenn Morin |
 | 981 | 581 | Wungun Shun |
-| 982 | 580 | Gael |
-| 983 | 580 | Ethan Stienbarger |
+| 982 | 580 | Ethan Stienbarger |
+| 983 | 580 | Gael |
 | 984 | 580 | Cheery Matchzone |
 | 985 | 579 | Roy Salyer |
 | 986 | 579 | Leah LaShomb |
@@ -1029,8 +1029,8 @@
 | 1021 | 563 | Dione |
 | 1022 | 563 | Heather M Purcell |
 | 1023 | 563 | David Rehse |
-| 1024 | 562 | Klee |
-| 1025 | 562 | Gabbrielle Sutton |
+| 1024 | 562 | Gabbrielle Sutton |
+| 1025 | 562 | Klee |
 | 1026 | 562 | Smiley Strike |
 | 1027 | 562 | Dan Kulhanek |
 | 1028 | 562 | Angie Winch |
@@ -1053,8 +1053,8 @@
 | 1045 | 554 | Cheery Puzzler |
 | 1046 | 554 | Hoppy Glidebuilder |
 | 1047 | 554 | Dusti Rose Bingham |
-| 1048 | 553 | ruth |
-| 1049 | 553 | Tum |
+| 1048 | 553 | Tum |
+| 1049 | 553 | ruth |
 | 1050 | 553 | Sar Mo |
 | 1051 | 553 | Jason Kelly |
 | 1052 | 552 | Demitri Smith |
@@ -1066,8 +1066,8 @@
 | 1058 | 550 | Tristan Snowden |
 | 1059 | 549 | Ashley Collins |
 | 1060 | 549 | DLOCC1056 |
-| 1061 | 548 | Shiny Snapmatch |
-| 1062 | 548 | Synn |
+| 1061 | 548 | Synn |
+| 1062 | 548 | Shiny Snapmatch |
 | 1063 | 546 | Drew Berkelbach |
 | 1064 | 545 | Street Sweeper |
 | 1065 | 544 | A Rainbolt |
@@ -1094,8 +1094,8 @@
 | 1086 | 539 | stacey |
 | 1087 | 539 | Dizzy Clicker |
 | 1088 | 537 | Epic Spinfit |
-| 1089 | 537 | Austin Wilson |
-| 1090 | 537 | Robin |
+| 1089 | 537 | Robin |
+| 1090 | 537 | Austin Wilson |
 | 1091 | 536 | Paul Hinkle |
 | 1092 | 536 | Enha |
 | 1093 | 535 | Katrina Willmon |

@@ -104,13 +104,13 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Diana Ibarra |
-| 100 | 1318 | Tiff Vs Tiffany |
+| 99 | 1318 | Tiff Vs Tiffany |
+| 100 | 1318 | Diana Ibarra |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
-| 104 | 1282 | Amanda L Baker |
-| 105 | 1282 | Peppy Shifter |
+| 104 | 1282 | Peppy Shifter |
+| 105 | 1282 | Amanda L Baker |
 | 106 | 1276 | Jessica Bechler |
 | 107 | 1274 | Sarah Fehring |
 | 108 | 1248 | Lori Barnaby |
@@ -124,8 +124,8 @@
 | 116 | 1134 | Melissa Orth Hunter |
 | 117 | 1124 | Stephanie Rice |
 | 118 | 1121 | Corie A. Brinson |
-| 119 | 1114 | Groovy Catcher |
-| 120 | 1114 | Loopy Fallmatch |
+| 119 | 1114 | Loopy Fallmatch |
+| 120 | 1114 | Groovy Catcher |
 | 121 | 1105 | Adrian Marcel Pate |
 | 122 | 1093 | Angela M. Fletcher |
 | 123 | 1091 | Jennifer |
@@ -323,13 +323,13 @@
 | 315 | 506 | Ammmmmmy |
 | 316 | 505 | Stephanie Simpson |
 | 317 | 500 | Ashley Tookes |
-| 318 | 499 | Gumbo |
+| 318 | 499 | Rebecca Bailey |
 | 319 | 499 | Megan Rathmanner |
-| 320 | 499 | Rebecca Bailey |
+| 320 | 499 | Gumbo |
 | 321 | 496 | Brenda Schmid Wood |
 | 322 | 495 | Daring Builder |
-| 323 | 494 | fraulila |
-| 324 | 494 | MCV |
+| 323 | 494 | MCV |
+| 324 | 494 | fraulila |
 | 325 | 492 | Tasha Wesson-Torrence |
 | 326 | 490 | Cassandra Bryant |
 | 327 | 489 | Isabel Ocasio |
@@ -343,12 +343,12 @@
 | 335 | 479 | Charles Perrone |
 | 336 | 476 | Shunta Jacobs |
 | 337 | 474 | Troy |
-| 338 | 471 | Mendoza Lee Christy |
-| 339 | 471 | Sarah Moyer |
+| 338 | 471 | Sarah Moyer |
+| 339 | 471 | Mendoza Lee Christy |
 | 340 | 467 | Danielle Rhoades |
 | 341 | 467 | Jul |
-| 342 | 465 | Noettín Kan Zasnemoore |
-| 343 | 465 | Blocked |
+| 342 | 465 | Blocked |
+| 343 | 465 | Noettín Kan Zasnemoore |
 | 344 | 464 | Snazzy Filler |
 | 345 | 462 | Tegan Chapman |
 | 346 | 462 | Brandon Givens |
@@ -422,8 +422,8 @@
 | 414 | 391 | gremicx |
 | 415 | 391 | Rebel124 |
 | 416 | 390 | ROODBOY |
-| 417 | 389 | Kirhonda Autmon |
-| 418 | 389 | Amanda J. Mcneil-Anderson |
+| 417 | 389 | Amanda J. Mcneil-Anderson |
+| 418 | 389 | Kirhonda Autmon |
 | 419 | 387 | Brittany K Ward |
 | 420 | 386 | Geoffrey Nash |
 | 421 | 384 | Tiffany Davie |

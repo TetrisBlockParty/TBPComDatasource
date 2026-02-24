@@ -212,8 +212,8 @@
 | 204 | 509 | Mimi |
 | 205 | 507 | Andria Lynn |
 | 206 | 504 | Deanna Deckard |
-| 207 | 502 | Christina Black |
-| 208 | 502 | Ericca Eldridge |
+| 207 | 502 | Ericca Eldridge |
+| 208 | 502 | Christina Black |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
 | 211 | 496 | Jessica Bohlken |
@@ -264,8 +264,8 @@
 | 256 | 421 | JIGsaw ~(•¿°)~ |
 | 257 | 419 | Hyper Matchclear |
 | 258 | 413 | Rio Rocha |
-| 259 | 411 | Autumn Kumzi |
-| 260 | 411 | TinyLegoRose |
+| 259 | 411 | TinyLegoRose |
+| 260 | 411 | Autumn Kumzi |
 | 261 | 410 | Lindsay Ball |
 | 262 | 409 | Bio Nelly |
 | 263 | 409 | Joseph Guthrie |
