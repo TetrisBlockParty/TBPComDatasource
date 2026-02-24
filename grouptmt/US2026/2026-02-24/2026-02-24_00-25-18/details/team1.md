@@ -595,7 +595,7 @@
 | 587 | 182 | KoDaK |
 | 588 | 181 | Brenda L. Bunce |
 | 589 | 181 | Bean |
-| 590 | 181 | Brenda L. Bunce |
+| 590 | 181 | Almïghty Stoner |
 | 591 | 181 | Katie Bell |
 | 592 | 181 | Sassy Towerer |
 | 593 | 180 | Jennifer Crawford |
