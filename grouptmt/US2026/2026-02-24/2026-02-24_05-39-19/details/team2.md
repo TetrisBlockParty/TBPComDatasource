@@ -303,8 +303,8 @@
 | 295 | 1351 | Ashie Ann |
 | 296 | 1351 | Johnny Yeates |
 | 297 | 1351 | Denisha Dawkins |
-| 298 | 1342 | Groovy Puzzle |
-| 299 | 1342 | Kelly A Green-Leach |
+| 298 | 1342 | Kelly A Green-Leach |
+| 299 | 1342 | Groovy Puzzle |
 | 300 | 1341 | Cassie Mercer |
 | 301 | 1338 | Diallo Sparkman |
 | 302 | 1337 | Lucky Ladybug |
@@ -324,9 +324,9 @@
 | 316 | 1304 | Sarah Ridenour |
 | 317 | 1303 | Michele Morgan |
 | 318 | 1301 | Mandy Cekine |
-| 319 | 1300 | Tacara Cummings |
-| 320 | 1300 | Snappy Matchbuilder |
-| 321 | 1300 | Shinel Richardson |
+| 319 | 1300 | Snappy Matchbuilder |
+| 320 | 1300 | Shinel Richardson |
+| 321 | 1300 | Tacara Cummings |
 | 322 | 1299 | Dimitra Zazara |
 | 323 | 1295 | Jess Morrison |
 | 324 | 1291 | Tyler C. Jung |
@@ -349,8 +349,8 @@
 | 341 | 1252 | Brainy Smurf |
 | 342 | 1249 | Tristan Szolek |
 | 343 | 1245 | Angel Hunnewell |
-| 344 | 1237 | Christine Coughlin |
-| 345 | 1237 | Cheech Dta |
+| 344 | 1237 | Cheech Dta |
+| 345 | 1237 | Christine Coughlin |
 | 346 | 1235 | Bri Lynn |
 | 347 | 1233 | Shannon Joslin |
 | 348 | 1232 | Ambyre Patterson |
@@ -527,8 +527,8 @@
 | 519 | 913 | Jessica Redmond |
 | 520 | 910 | Miranda Jackson |
 | 521 | 909 | Valerie Brooke Lusk Armstrong |
-| 522 | 907 | Kiely Tomaskovich |
-| 523 | 907 | Gene Mills |
+| 522 | 907 | Gene Mills |
+| 523 | 907 | Kiely Tomaskovich |
 | 524 | 905 | Brenda Utphall |
 | 525 | 905 | Adam Simmons |
 | 526 | 903 | Dylan Thomason |

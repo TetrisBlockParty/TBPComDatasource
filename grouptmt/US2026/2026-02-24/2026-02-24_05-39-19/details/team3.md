@@ -196,8 +196,8 @@
 | 188 | 783 | Julian Murphy |
 | 189 | 780 | Raya |
 | 190 | 777 | Daryn Elliott |
-| 191 | 774 | Twisty Brick LT |
-| 192 | 774 | ren |
+| 191 | 774 | ren |
+| 192 | 774 | Twisty Brick LT |
 | 193 | 772 | Tye Stovall |
 | 194 | 769 | Patricia White |
 | 195 | 769 | Hasty Cascadefit |
@@ -219,8 +219,8 @@
 | 211 | 733 | Annie Déè |
 | 212 | 732 | Angela Scott |
 | 213 | 731 | Samantha Greco |
-| 214 | 729 | CeceGeGe |
-| 215 | 729 | Lizabeth Fox |
+| 214 | 729 | Lizabeth Fox |
+| 215 | 729 | CeceGeGe |
 | 216 | 715 | Karon Griffin |
 | 217 | 714 | Jenny Hrndz |
 | 218 | 713 | Stephanie Blkpep Davidson |
@@ -326,8 +326,8 @@
 | 318 | 490 | Cassandra Bryant |
 | 319 | 490 | Brenda Schmid Wood |
 | 320 | 489 | Isabel Ocasio |
-| 321 | 486 | Sleepy |
-| 322 | 486 | Skippy |
+| 321 | 486 | Skippy |
+| 322 | 486 | Sleepy |
 | 323 | 482 | Chummy Rumbler |
 | 324 | 481 | Tiffanie Alley |
 | 325 | 480 | TLM |
@@ -429,11 +429,11 @@
 | 421 | 378 | Samantha Worley |
 | 422 | 377 | Paula Little |
 | 423 | 377 | Hoppy Patternline |
-| 424 | 376 | Breanna Marsden |
+| 424 | 376 | Romeo |
 | 425 | 376 | Brittany |
-| 426 | 376 | Romeo |
-| 427 | 375 | Denise Marie |
-| 428 | 375 | TotoCherue |
+| 426 | 376 | Breanna Marsden |
+| 427 | 375 | TotoCherue |
+| 428 | 375 | Denise Marie |
 | 429 | 370 | Roary Danner |
 | 430 | 369 | Goofy Fall |
 | 431 | 369 | Amber Glover |
@@ -736,8 +736,8 @@
 | 728 | 250 | mia |
 | 729 | 250 | Steph Arcari |
 | 730 | 250 | Marcus Payton |
-| 731 | 249 | Sarah Tschee |
-| 732 | 249 | Loony Crawler |
+| 731 | 249 | Loony Crawler |
+| 732 | 249 | Sarah Tschee |
 | 733 | 248 | Samantha Lohmeyer |
 | 734 | 248 | Amie Hendrickson |
 | 735 | 247 | Glitzy Rotate |
@@ -751,8 +751,8 @@
 | 743 | 245 | Latoya Mayne |
 | 744 | 245 | Tammy Rosenberry |
 | 745 | 245 | Danette Marie |
-| 746 | 244 | Andy Jacobson |
-| 747 | 244 | Amanda Fulton |
+| 746 | 244 | Amanda Fulton |
+| 747 | 244 | Andy Jacobson |
 | 748 | 244 | LaJeanna Lee Lee |
 | 749 | 243 | Kimberly Walker |
 | 750 | 243 | paranoid |
@@ -869,8 +869,8 @@
 | 861 | 216 | Heyska |
 | 862 | 216 | Zaza Lewis |
 | 863 | 216 | Tabbi Wilson |
-| 864 | 215 | Michell Hendershott Jackson |
-| 865 | 215 | Anabela Ruiz |
+| 864 | 215 | Anabela Ruiz |
+| 865 | 215 | Michell Hendershott Jackson |
 | 866 | 214 | Snarky McFace |
 | 867 | 214 | krazibtch |
 | 868 | 213 | Laaken Draper |
@@ -914,7 +914,7 @@
 | 906 | 204 | Elyse Grabowsky |
 | 907 | 204 | Vicki Feathers-Bell |
 | 908 | 203 | Russell Hankinson |
-| 909 | 203 | Glitzy Slide |
+| 909 | 203 | Rickeia Lanae Wright |
 | 910 | 203 | Tish Taylor |
 | 911 | 203 | Jana Fagg |
 | 912 | 203 | Glitzy Slide |
@@ -2400,8 +2400,8 @@
 | 2392 | 43 | Plucky Stagger |
 | 2393 | 43 | Flashy Tilt |
 | 2394 | 43 | Mandi Mossburg |
-| 2395 | 42 | Nicole Jones |
-| 2396 | 42 | Roksana Natalia |
+| 2395 | 42 | Roksana Natalia |
+| 2396 | 42 | Nicole Jones |
 | 2397 | 42 | Melinda McElyea |
 | 2398 | 42 | Kimberlee Harmouzi |
 | 2399 | 42 | Seth Jawitz |
