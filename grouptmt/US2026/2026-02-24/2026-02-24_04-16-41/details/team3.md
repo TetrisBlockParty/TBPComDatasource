@@ -232,8 +232,8 @@
 | 224 | 661 | Trisha Balmer |
 | 225 | 661 | LaShey Thompson |
 | 226 | 654 | Terry Jo Jones |
-| 227 | 648 | Cesar Barraza |
-| 228 | 648 | Makelini Mausia |
+| 227 | 648 | Makelini Mausia |
+| 228 | 648 | Cesar Barraza |
 | 229 | 646 | Duane Bright |
 | 230 | 642 | Rania Zaqout |
 | 231 | 641 | Kristal C Lee |
@@ -340,8 +340,8 @@
 | 332 | 461 | Hyper Bridger |
 | 333 | 460 | Antonia Russell |
 | 334 | 459 | Randy Clevenger |
-| 335 | 456 | Cynthia Herrmann Egland |
-| 336 | 456 | Kelly |
+| 335 | 456 | Kelly |
+| 336 | 456 | Cynthia Herrmann Egland |
 | 337 | 455 | Kelly Wolf |
 | 338 | 452 | Snazzy Filler |
 | 339 | 452 | Tyler Shoff |
@@ -391,8 +391,8 @@
 | 383 | 405 | Andrew Thorson |
 | 384 | 405 | Skinny Baldez |
 | 385 | 404 | Giggy Balanceblock |
-| 386 | 403 | Scott Lindsay |
-| 387 | 403 | Stephanie Burtin |
+| 386 | 403 | Stephanie Burtin |
+| 387 | 403 | Scott Lindsay |
 | 388 | 401 | block chick |
 | 389 | 400 | Joy Petroski |
 | 390 | 399 | Velma Mull |

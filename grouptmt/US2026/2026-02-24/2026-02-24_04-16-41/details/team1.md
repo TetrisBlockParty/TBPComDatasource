@@ -58,8 +58,8 @@
 | 50 | 1191 | Nerdy Linkblock |
 | 51 | 1181 | Carrie Beck Geartz |
 | 52 | 1153 | Tipsy Column |
-| 53 | 1137 | Jen Sartain |
-| 54 | 1137 | TSwag |
+| 53 | 1137 | TSwag |
+| 54 | 1137 | Jen Sartain |
 | 55 | 1127 | Andrea Dañielle Ortiz |
 | 56 | 1126 | Tater |
 | 57 | 1122 | Kristen Gideon |

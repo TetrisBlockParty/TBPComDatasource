@@ -649,8 +649,8 @@
 | 641 | 755 | Bonita Kee |
 | 642 | 754 | Draizen Montrell Thomas |
 | 643 | 753 | John Jubes |
-| 644 | 751 | Tom Riefer |
-| 645 | 751 | Swanky Strikerpiece |
+| 644 | 751 | Swanky Strikerpiece |
+| 645 | 751 | Tom Riefer |
 | 646 | 750 | Samie Dayle |
 | 647 | 749 | ToxicTrash |
 | 648 | 749 | Trisha J Schmidt |

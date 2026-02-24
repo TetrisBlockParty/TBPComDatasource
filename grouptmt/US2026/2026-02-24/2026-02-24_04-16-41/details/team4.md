@@ -106,8 +106,8 @@
 | 98 | 811 | Sassy Pattern |
 | 99 | 806 | Lori Walker |
 | 100 | 802 | Crystal Carroll |
-| 101 | 798 | Jewell Urban |
-| 102 | 798 | Klo |
+| 101 | 798 | Klo |
+| 102 | 798 | Jewell Urban |
 | 103 | 796 | Denise Carlson |
 | 104 | 785 | SAP |
 | 105 | 781 | Brittney Griggs |
@@ -135,8 +135,8 @@
 | 127 | 686 | Jamie Gustafson |
 | 128 | 682 | Raegan Lane-Ross |
 | 129 | 669 | Leslie Nicole |
-| 130 | 667 | Matt Gooder |
-| 131 | 667 | Lindsey Gonzalez |
+| 130 | 667 | Lindsey Gonzalez |
+| 131 | 667 | Matt Gooder |
 | 132 | 662 | George Nutt |
 | 133 | 660 | Desi Desporte |
 | 134 | 651 | Adawna Swires |
@@ -148,8 +148,8 @@
 | 140 | 619 | April Rondinone |
 | 141 | 618 | Ernest Maxwell |
 | 142 | 616 | Samantha Peterson |
-| 143 | 615 | Kim Hunt |
-| 144 | 615 | Angelito |
+| 143 | 615 | Angelito |
+| 144 | 615 | Kim Hunt |
 | 145 | 611 | Chris Baggett |
 | 146 | 608 | Swanky Fitline |
 | 147 | 602 | Cristy Duerksen |
@@ -404,8 +404,8 @@
 | 396 | 276 | Dennis Bradley |
 | 397 | 275 | Jarred Falls |
 | 398 | 272 | Paito |
-| 399 | 270 | Stephme310 |
-| 400 | 270 | 07VHVW |
+| 399 | 270 | 07VHVW |
+| 400 | 270 | Stephme310 |
 | 401 | 268 | Sallie Sanborn |
 | 402 | 268 | Riverdale |
 | 403 | 266 | ĥuf |
@@ -546,8 +546,8 @@
 | 538 | 207 | Rebecca Blake |
 | 539 | 207 | Chariss Newsom |
 | 540 | 206 | Cozy Balancer |
-| 541 | 206 | Matt Morrow |
-| 542 | 206 | James Philpot Ross |
+| 541 | 206 | James Philpot Ross |
+| 542 | 206 | Matt Morrow |
 | 543 | 205 | ChasingZen |
 | 544 | 204 | Jeff Roberts |
 | 545 | 204 | Kujuanna Hammon |
@@ -559,8 +559,8 @@
 | 551 | 203 | Courtney Halleck |
 | 552 | 202 | Jennifer Brown |
 | 553 | 201 | Carla Harris |
-| 554 | 201 | Jake Roberts |
-| 555 | 201 | Michael Orris |
+| 554 | 201 | Michael Orris |
+| 555 | 201 | Jake Roberts |
 | 556 | 200 | Loony Rotater |
 | 557 | 199 | Allen Johnson |
 | 558 | 199 | Eri Kka |
