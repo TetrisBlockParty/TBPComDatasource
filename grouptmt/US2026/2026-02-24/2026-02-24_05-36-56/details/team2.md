@@ -159,8 +159,8 @@
 | 151 | 2255 | Thalia Watkins |
 | 152 | 2254 | Alicia Parrish |
 | 153 | 2237 | niecy |
-| 154 | 2219 | Porsche' Nicole |
-| 155 | 2219 | Denise Rickman |
+| 154 | 2219 | Denise Rickman |
+| 155 | 2219 | Porsche' Nicole |
 | 156 | 2217 | Christopher Sanders |
 | 157 | 2173 | Steph Bug Peterson |
 | 158 | 2170 | Steve Grotto |
@@ -178,8 +178,8 @@
 | 170 | 2056 | Tonya Brooks-Johnson |
 | 171 | 2048 | Jose Mendoza |
 | 172 | 2007 | Hannah Erskine |
-| 173 | 2005 | Cody Smith-Candelaria |
-| 174 | 2005 | Cody Nishimura |
+| 173 | 2005 | Cody Nishimura |
+| 174 | 2005 | Cody Smith-Candelaria |
 | 175 | 1989 | Cozy Filler |
 | 176 | 1984 | Jane Fong |
 | 177 | 1983 | Tonya Morgan |
@@ -349,8 +349,8 @@
 | 341 | 1252 | Brainy Smurf |
 | 342 | 1249 | Tristan Szolek |
 | 343 | 1245 | Angel Hunnewell |
-| 344 | 1237 | Christine Coughlin |
-| 345 | 1237 | Cheech Dta |
+| 344 | 1237 | Cheech Dta |
+| 345 | 1237 | Christine Coughlin |
 | 346 | 1235 | Bri Lynn |
 | 347 | 1233 | Shannon Joslin |
 | 348 | 1232 | Ambyre Patterson |
@@ -363,8 +363,8 @@
 | 355 | 1218 | LaKisha Anderson |
 | 356 | 1217 | Brooks Brooks |
 | 357 | 1216 | Pacynthia Williams |
-| 358 | 1215 | Hyper Cluster |
-| 359 | 1215 | Toni Roberson |
+| 358 | 1215 | Toni Roberson |
+| 359 | 1215 | Hyper Cluster |
 | 360 | 1214 | David Cudicio-Hayden |
 | 361 | 1211 | Cynthia Ward |
 | 362 | 1210 | Amber Gray |

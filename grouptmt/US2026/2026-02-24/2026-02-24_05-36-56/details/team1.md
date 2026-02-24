@@ -108,8 +108,8 @@
 | 100 | 773 | Susanna Guerry |
 | 101 | 772 | Kathy Langham |
 | 102 | 770 | Zappy Curvetile |
-| 103 | 769 | Robert Benito |
-| 104 | 769 | Angel Fowler |
+| 103 | 769 | Angel Fowler |
+| 104 | 769 | Robert Benito |
 | 105 | 768 | Jazzy Framezone |
 | 106 | 756 | Cartier |
 | 107 | 751 | Kellie |
@@ -212,8 +212,8 @@
 | 204 | 458 | Dizzy Slider |
 | 205 | 453 | Kimmie Kimms |
 | 206 | 448 | Yvonne Marie |
-| 207 | 446 | SkipTheSadSauce |
-| 208 | 446 | Spencer Lent |
+| 207 | 446 | Spencer Lent |
+| 208 | 446 | SkipTheSadSauce |
 | 209 | 442 | Reesey Enyart |
 | 210 | 441 | Kimberly Garcia |
 | 211 | 439 | David Miller |

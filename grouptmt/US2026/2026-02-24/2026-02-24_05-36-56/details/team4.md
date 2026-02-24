@@ -217,16 +217,16 @@
 | 209 | 481 | Rebecca Morris |
 | 210 | 478 | Casey Grabner |
 | 211 | 475 | Silly Zonebuilder |
-| 212 | 473 | Cranky Rollpiece |
-| 213 | 473 | Jolly Dashfit |
+| 212 | 473 | Jolly Dashfit |
+| 213 | 473 | Cranky Rollpiece |
 | 214 | 465 | June Hoffman |
 | 215 | 464 | Zakia Monae |
-| 216 | 462 | Crystal Nicolette Moore |
-| 217 | 462 | Leslie Thomas |
+| 216 | 462 | Leslie Thomas |
+| 217 | 462 | Crystal Nicolette Moore |
 | 218 | 460 | Kathy Brookins |
 | 219 | 458 | Kristina Black |
-| 220 | 457 | Kristin Manee |
-| 221 | 457 | J-Rizzle |
+| 220 | 457 | J-Rizzle |
+| 221 | 457 | Kristin Manee |
 | 222 | 456 | shark tato |
 | 223 | 455 | Michele Plunkett |
 | 224 | 454 | Keshia Lyons |
@@ -240,8 +240,8 @@
 | 232 | 444 | Selena Shaw |
 | 233 | 442 | John Brunetti |
 | 234 | 441 | Lush Linkfall |
-| 235 | 438 | Melvin Baird |
-| 236 | 438 | 23 |
+| 235 | 438 | 23 |
+| 236 | 438 | Melvin Baird |
 | 237 | 434 | Ramel Rhodes |
 | 238 | 433 | Circuit8 |
 | 239 | 433 | Damn Libra |
@@ -284,9 +284,9 @@
 | 276 | 380 | Chaz |
 | 277 | 380 | Jen Caldwell |
 | 278 | 379 | Backoff Recupe |
-| 279 | 378 | Googenheim |
-| 280 | 378 | Mary Ann Pabukis |
-| 281 | 378 | Jason Gibbs |
+| 279 | 378 | Mary Ann Pabukis |
+| 280 | 378 | Jason Gibbs |
+| 281 | 378 | Googenheim |
 | 282 | 377 | Matt Dell'Olio |
 | 283 | 377 | Laura |
 | 284 | 376 | Nig |

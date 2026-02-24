@@ -80,8 +80,8 @@
 | 72 | 1646 | Gracie |
 | 73 | 1633 | cowboy25469 |
 | 74 | 1620 | Queen Kam |
-| 75 | 1566 | Nerdy Riseclear |
-| 76 | 1566 | Marcie Bressler |
+| 75 | 1566 | Marcie Bressler |
+| 76 | 1566 | Nerdy Riseclear |
 | 77 | 1560 | Logan Naccarato |
 | 78 | 1555 | Snappy Glidepiece |
 | 79 | 1552 | joclisa |
@@ -196,8 +196,8 @@
 | 188 | 783 | Julian Murphy |
 | 189 | 780 | Raya |
 | 190 | 777 | Daryn Elliott |
-| 191 | 774 | Twisty Brick LT |
-| 192 | 774 | ren |
+| 191 | 774 | ren |
+| 192 | 774 | Twisty Brick LT |
 | 193 | 772 | Tye Stovall |
 | 194 | 769 | Hasty Cascadefit |
 | 195 | 769 | Patricia White |
@@ -219,8 +219,8 @@
 | 211 | 733 | Annie Déè |
 | 212 | 732 | Angela Scott |
 | 213 | 731 | Samantha Greco |
-| 214 | 729 | CeceGeGe |
-| 215 | 729 | Lizabeth Fox |
+| 214 | 729 | Lizabeth Fox |
+| 215 | 729 | CeceGeGe |
 | 216 | 715 | Karon Griffin |
 | 217 | 714 | Jenny Hrndz |
 | 218 | 713 | Stephanie Blkpep Davidson |
@@ -435,7 +435,7 @@
 | 427 | 375 | Denise Marie |
 | 428 | 375 | TotoCherue |
 | 429 | 370 | Roary Danner |
-| 430 | 369 | Bekah Dietrich |
+| 430 | 369 | Goofy Fall |
 | 431 | 369 | Amber Glover |
 | 432 | 369 | Bekah Dietrich |
 | 433 | 368 | Ashley Rufus Bythcez |
@@ -512,8 +512,8 @@
 | 504 | 328 | Cesar Mendez |
 | 505 | 327 | Jess Bissett |
 | 506 | 326 | Beppy |
-| 507 | 326 | Sissy Lowery Davis |
-| 508 | 326 | Eric Caccavale |
+| 507 | 326 | Eric Caccavale |
+| 508 | 326 | Sissy Lowery Davis |
 | 509 | 324 | Paul Daniel Quertermous |
 | 510 | 323 | Carla Hoffman |
 | 511 | 323 | Tipsy Zonebuilder |
