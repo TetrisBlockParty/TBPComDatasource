@@ -212,8 +212,8 @@
 | 204 | 509 | Mimi |
 | 205 | 507 | Andria Lynn |
 | 206 | 504 | Deanna Deckard |
-| 207 | 502 | Ericca Eldridge |
-| 208 | 502 | Christina Black |
+| 207 | 502 | Christina Black |
+| 208 | 502 | Ericca Eldridge |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
 | 211 | 496 | Jessica Bohlken |
@@ -315,8 +315,8 @@
 | 307 | 354 | Perky Piecegrid |
 | 308 | 354 | @ |
 | 309 | 352 | Kate |
-| 310 | 351 | Dana Scott |
-| 311 | 351 | Jackie Clark |
+| 310 | 351 | Jackie Clark |
+| 311 | 351 | Dana Scott |
 | 312 | 350 | Dizzy Matchzone |
 | 313 | 349 | Richard-April Kice |
 | 314 | 349 | jim |
@@ -537,9 +537,9 @@
 | 529 | 223 | Jessica Atkinson |
 | 530 | 222 | Tipsy Cascader |
 | 531 | 222 | Brandi Durig |
-| 532 | 222 | Tipsy Cascader |
-| 533 | 221 | Rheanda Weaskus |
-| 534 | 221 | Peppy Drop |
+| 532 | 222 | Squeezy Pearsall |
+| 533 | 221 | Peppy Drop |
+| 534 | 221 | Rheanda Weaskus |
 | 535 | 220 | Helen Chao |
 | 536 | 220 | Mighty Edgepiece |
 | 537 | 219 | Dapper Balancer |

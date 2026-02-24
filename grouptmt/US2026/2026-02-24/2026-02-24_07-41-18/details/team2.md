@@ -430,8 +430,8 @@
 | 422 | 1088 | BK Queen |
 | 423 | 1087 | Jenn Marie |
 | 424 | 1087 | Cindy Sechler Taninecz |
-| 425 | 1085 | Bee |
-| 426 | 1085 | Barbra Miller |
+| 425 | 1085 | Barbra Miller |
+| 426 | 1085 | Bee |
 | 427 | 1084 | William Hunt |
 | 428 | 1084 | Emilee Burke |
 | 429 | 1080 | Jennifer Monroe Kelly |
@@ -468,15 +468,15 @@
 | 460 | 1024 | Tiara Elizabeth Baker |
 | 461 | 1024 | Susan Perraut Jones |
 | 462 | 1024 | KrisCynthia Lynette |
-| 463 | 1018 | Donna M Carter |
-| 464 | 1018 | Darla Silva |
+| 463 | 1018 | Darla Silva |
+| 464 | 1018 | Donna M Carter |
 | 465 | 1018 | Eric Castaneda |
 | 466 | 1016 | Jennie Lee Huntley |
 | 467 | 1003 | Amanda Deitrick |
 | 468 | 1002 | Lexie Burke |
 | 469 | 1000 | Emmmz |
-| 470 | 1000 | Victoria Moore-Smith |
-| 471 | 1000 | Ashley Guernsey-Martin |
+| 470 | 1000 | Ashley Guernsey-Martin |
+| 471 | 1000 | Victoria Moore-Smith |
 | 472 | 999 | Tansaria Couch-Butler |
 | 473 | 999 | Lola Contreras |
 | 474 | 998 | Dedra Steward |
@@ -500,8 +500,8 @@
 | 492 | 972 | Angela Yantz |
 | 493 | 970 | Iris Angelica Perez Cantos |
 | 494 | 969 | Andrew Willis |
-| 495 | 969 | Desire Rice |
-| 496 | 969 | Connie Jimenez |
+| 495 | 969 | Connie Jimenez |
+| 496 | 969 | Desire Rice |
 | 497 | 969 | Shuany Arias |
 | 498 | 966 | Kayla |
 | 499 | 965 | Lonne Emade |
@@ -740,8 +740,8 @@
 | 732 | 718 | Andre Love |
 | 733 | 717 | Shinette Dobson |
 | 734 | 717 | Yoan Boulanger |
-| 735 | 716 | Irene Jones |
-| 736 | 716 | Leah |
+| 735 | 716 | Leah |
+| 736 | 716 | Irene Jones |
 | 737 | 715 | Daniell Martinez |
 | 738 | 715 | Nutty Splitter |
 | 739 | 715 | Anne Elizabeth |
@@ -774,8 +774,8 @@
 | 766 | 696 | Bree Mackie |
 | 767 | 695 | Giggy Grabber |
 | 768 | 694 | Lyndi Robinson Wakefield |
-| 769 | 694 | Courtney Burcham |
-| 770 | 694 | Rackemwillie34 |
+| 769 | 694 | Rackemwillie34 |
+| 770 | 694 | Courtney Burcham |
 | 771 | 693 | Nessie Zamora |
 | 772 | 692 | LuckyChopstix |
 | 773 | 692 | SwampRebel |
@@ -905,8 +905,8 @@
 | 897 | 629 | Ownlane Rico |
 | 898 | 628 | Misty Mitchell |
 | 899 | 628 | Macy Jarrett |
-| 900 | 627 | Nicole Cox |
-| 901 | 627 | Kristie Wilcox |
+| 900 | 627 | Kristie Wilcox |
+| 901 | 627 | Nicole Cox |
 | 902 | 626 | Tash Bell |
 | 903 | 624 | Elizabeth Perterson |
 | 904 | 623 | Victor Obiakarije |
@@ -953,13 +953,13 @@
 | 945 | 602 | Jedi |
 | 946 | 601 | Shindee |
 | 947 | 600 | Juanita Lyons |
-| 948 | 599 | Abby Klaski |
-| 949 | 599 | Samuel Labruno |
+| 948 | 599 | Samuel Labruno |
+| 949 | 599 | Abby Klaski |
 | 950 | 599 | Groovy Tilefall |
 | 951 | 599 | Plucky Matchclear |
 | 952 | 599 | Crystal Heller Gonzalez |
-| 953 | 598 | Lucy Marshall |
-| 954 | 598 | Veronica Martin Trinkle |
+| 953 | 598 | Veronica Martin Trinkle |
+| 954 | 598 | Lucy Marshall |
 | 955 | 598 | Tiki |
 | 956 | 598 | Cosmo |
 | 957 | 595 | Crystal Hodge Love |
@@ -977,8 +977,8 @@
 | 969 | 589 | Kelly Templeton |
 | 970 | 588 | Wayne Fields |
 | 971 | 587 | Alexx Anaya |
-| 972 | 586 | Tracy Wise Moon |
-| 973 | 586 | Cat Thompson |
+| 972 | 586 | Cat Thompson |
+| 973 | 586 | Tracy Wise Moon |
 | 974 | 586 | Tra Barnum |
 | 975 | 585 | Danielle DeLozier Plesec |
 | 976 | 585 | Laquetta Royston |
@@ -1037,8 +1037,8 @@
 | 1029 | 561 | Jenelle Case |
 | 1030 | 560 | Elizabeth Nieto |
 | 1031 | 560 | De Hawkins |
-| 1032 | 559 | Kaylee McCafferty |
-| 1033 | 559 | Britney M. |
+| 1032 | 559 | Britney M. |
+| 1033 | 559 | Kaylee McCafferty |
 | 1034 | 559 | Lucero Ramirez |
 | 1035 | 558 | David Scott |
 | 1036 | 558 | Treshell Boyd |
@@ -1047,8 +1047,8 @@
 | 1039 | 557 | Bridgette Sargent |
 | 1040 | 557 | Marina Linda |
 | 1041 | 556 | Kamilya Rembert |
-| 1042 | 555 | Noel Tarmy |
-| 1043 | 555 | Glitzy Rollblock |
+| 1042 | 555 | Glitzy Rollblock |
+| 1043 | 555 | Noel Tarmy |
 | 1044 | 555 | Amy Roche |
 | 1045 | 554 | Hoppy Glidebuilder |
 | 1046 | 554 | Cheery Puzzler |

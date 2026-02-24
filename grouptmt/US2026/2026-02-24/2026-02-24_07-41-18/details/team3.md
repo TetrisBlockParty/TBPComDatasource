@@ -82,8 +82,8 @@
 | 74 | 1633 | cowboy25469 |
 | 75 | 1625 | Queen Kam |
 | 76 | 1615 | joclisa |
-| 77 | 1566 | Nerdy Riseclear |
-| 78 | 1566 | Marcie Bressler |
+| 77 | 1566 | Marcie Bressler |
+| 78 | 1566 | Nerdy Riseclear |
 | 79 | 1560 | Logan Naccarato |
 | 80 | 1555 | Snappy Glidepiece |
 | 81 | 1518 | Christine Filson |
@@ -109,8 +109,8 @@
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
-| 104 | 1282 | Amanda L Baker |
-| 105 | 1282 | Peppy Shifter |
+| 104 | 1282 | Peppy Shifter |
+| 105 | 1282 | Amanda L Baker |
 | 106 | 1276 | Jessica Bechler |
 | 107 | 1274 | Sarah Fehring |
 | 108 | 1248 | Lori Barnaby |
@@ -172,8 +172,8 @@
 | 164 | 875 | Chasity |
 | 165 | 874 | Jessica Pineda-Lopez |
 | 166 | 871 | Rochelle Hazelett |
-| 167 | 868 | Cranky Gridder |
-| 168 | 868 | Nicole Flippo |
+| 167 | 868 | Nicole Flippo |
+| 168 | 868 | Cranky Gridder |
 | 169 | 866 | Domo Washington |
 | 170 | 864 | Sunny Rotater |
 | 171 | 862 | Santeria Trece Candles |
@@ -323,9 +323,9 @@
 | 315 | 506 | Ammmmmmy |
 | 316 | 505 | Stephanie Simpson |
 | 317 | 500 | Ashley Tookes |
-| 318 | 499 | Megan Rathmanner |
-| 319 | 499 | Gumbo |
-| 320 | 499 | Rebecca Bailey |
+| 318 | 499 | Rebecca Bailey |
+| 319 | 499 | Megan Rathmanner |
+| 320 | 499 | Gumbo |
 | 321 | 496 | Brenda Schmid Wood |
 | 322 | 495 | Daring Builder |
 | 323 | 494 | MCV |
@@ -375,16 +375,16 @@
 | 367 | 443 | Christian Werndl |
 | 368 | 442 | Loopy Fallzone |
 | 369 | 438 | Dannie Litchard |
-| 370 | 436 | Julie Fratrik |
-| 371 | 436 | AC Yeater |
+| 370 | 436 | AC Yeater |
+| 371 | 436 | Julie Fratrik |
 | 372 | 435 | Sabrina Hardrick |
 | 373 | 434 | Criss |
 | 374 | 432 | Sabrina Mansfield |
-| 375 | 432 | Hoppy Patternline |
-| 376 | 432 | Justice 4 P |
+| 375 | 432 | Justice 4 P |
+| 376 | 432 | Hoppy Patternline |
 | 377 | 431 | Donna Esbensen-Alpini |
-| 378 | 430 | AlsoJess |
-| 379 | 430 | Quackers |
+| 378 | 430 | Quackers |
+| 379 | 430 | AlsoJess |
 | 380 | 428 | Samantha Lynn |
 | 381 | 428 | Skinny Baldez |
 | 382 | 427 | Darlene McMillan |
@@ -776,12 +776,12 @@
 | 768 | 245 | Bhreagh Gentile |
 | 769 | 245 | Danette Marie |
 | 770 | 244 | LaJeanna Lee Lee |
-| 771 | 244 | MizzMonick Smith |
-| 772 | 244 | Amanda Fulton |
+| 771 | 244 | Amanda Fulton |
+| 772 | 244 | MizzMonick Smith |
 | 773 | 243 | Casey McDowell |
 | 774 | 242 | Tanesha BigBabby Darling |
-| 775 | 241 | David Bardo |
-| 776 | 241 | Jill Stickney |
+| 775 | 241 | Jill Stickney |
+| 776 | 241 | David Bardo |
 | 777 | 241 | Myoshia Norwood |
 | 778 | 240 | Christopher Mastropietro |
 | 779 | 240 | Tony Tran |
