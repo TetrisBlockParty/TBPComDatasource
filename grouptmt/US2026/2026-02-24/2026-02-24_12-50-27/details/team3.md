@@ -87,8 +87,8 @@
 | 79 | 1615 | joclisa |
 | 80 | 1590 | Logan Naccarato |
 | 81 | 1569 | Ebony West-Cundiff |
-| 82 | 1566 | Nerdy Riseclear |
-| 83 | 1566 | Marcie Bressler |
+| 82 | 1566 | Marcie Bressler |
+| 83 | 1566 | Nerdy Riseclear |
 | 84 | 1555 | Snappy Glidepiece |
 | 85 | 1520 | Jay Horn |
 | 86 | 1518 | Christine Filson |
@@ -126,8 +126,8 @@
 | 118 | 1154 | Carrie Jarvis Mohler |
 | 119 | 1152 | Julian Murphy |
 | 120 | 1124 | Stephanie Rice |
-| 121 | 1121 | Loopy Fallmatch |
-| 122 | 1121 | Corie A. Brinson |
+| 121 | 1121 | Corie A. Brinson |
+| 122 | 1121 | Loopy Fallmatch |
 | 123 | 1114 | Groovy Catcher |
 | 124 | 1108 | Rachel |
 | 125 | 1105 | Adrian Marcel Pate |
@@ -169,8 +169,8 @@
 | 161 | 928 | Edwin Calvillo Jr. |
 | 162 | 927 | Rochelle Hazelett |
 | 163 | 925 | Cherry Parker |
-| 164 | 914 | Staci George Fitzsimmons |
-| 165 | 914 | BadManSheLove |
+| 164 | 914 | BadManSheLove |
+| 165 | 914 | Staci George Fitzsimmons |
 | 166 | 910 | opf |
 | 167 | 906 | Patti Skiles |
 | 168 | 899 | Jaime Monhaut-Reed |
@@ -202,8 +202,8 @@
 | 194 | 815 | Justin Ritter |
 | 195 | 813 | JessDrown |
 | 196 | 808 | Raya |
-| 197 | 804 | Gideon Walker |
-| 198 | 804 | Alaina Lee |
+| 197 | 804 | Alaina Lee |
+| 198 | 804 | Gideon Walker |
 | 199 | 800 | Lauren Girouard |
 | 200 | 792 | Rachel Grant |
 | 201 | 789 | Samantha Greco |
@@ -238,8 +238,8 @@
 | 230 | 715 | Betty Bóò |
 | 231 | 714 | Jenny Hrndz |
 | 232 | 713 | Stephanie Blkpep Davidson |
-| 233 | 709 | Cynthia Castros-Hampton |
-| 234 | 709 | Christine Niles |
+| 233 | 709 | Christine Niles |
+| 234 | 709 | Cynthia Castros-Hampton |
 | 235 | 708 | Stephanie Bradley |
 | 236 | 707 | Snappy Balancer |
 | 237 | 705 | Jackie Miller |
@@ -265,13 +265,13 @@
 | 257 | 642 | Rania Zaqout |
 | 258 | 641 | Tom Nault |
 | 259 | 640 | Dee Pratt |
-| 260 | 639 | Marci Mize Fandrich |
-| 261 | 639 | Nichol Graham |
+| 260 | 639 | Nichol Graham |
+| 261 | 639 | Marci Mize Fandrich |
 | 262 | 637 | Giddy Twistbuilder |
 | 263 | 636 | Salena Whitlock |
 | 264 | 635 | Amber Hughes |
-| 265 | 633 | Rebecca Funderburk Kirby |
-| 266 | 633 | Jillian Symons |
+| 265 | 633 | Jillian Symons |
+| 266 | 633 | Rebecca Funderburk Kirby |
 | 267 | 632 | Rebecca Bailey |
 | 268 | 629 | rnr junky |
 | 269 | 627 | Juliana Dottore |
@@ -285,8 +285,8 @@
 | 277 | 612 | Connie Mohler-Fair |
 | 278 | 610 | Crystal Hine |
 | 279 | 608 | Noyb Adam |
-| 280 | 604 | Sherry Ogden |
-| 281 | 604 | Bmo |
+| 280 | 604 | Bmo |
+| 281 | 604 | Sherry Ogden |
 | 282 | 603 | Eileen Brady Thurber |
 | 283 | 600 | Natasha Jones |
 | 284 | 594 | Cozy Snaplink |
@@ -345,8 +345,8 @@
 | 337 | 489 | Isabel Ocasio |
 | 338 | 487 | MsBee |
 | 339 | 486 | Sleepy |
-| 340 | 485 | Steffi Chris Dacones |
-| 341 | 485 | Charles Perrone |
+| 340 | 485 | Charles Perrone |
+| 341 | 485 | Steffi Chris Dacones |
 | 342 | 483 | Jul |
 | 343 | 483 | Tegan Chapman |
 | 344 | 482 | Travis W |
@@ -429,8 +429,8 @@
 | 421 | 404 | Karent524 |
 | 422 | 404 | Alice |
 | 423 | 404 | Giggy Balanceblock |
-| 424 | 403 | Samantha Worley |
-| 425 | 403 | Scott Lindsay |
+| 424 | 403 | Scott Lindsay |
+| 425 | 403 | Samantha Worley |
 | 426 | 402 | Alexi Pryor |
 | 427 | 401 | block chick |
 | 428 | 401 | Velma Mull |

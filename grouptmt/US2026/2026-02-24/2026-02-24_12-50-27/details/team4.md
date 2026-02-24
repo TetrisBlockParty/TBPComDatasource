@@ -122,8 +122,8 @@
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
-| 117 | 781 | Brittney Griggs |
-| 118 | 781 | Savannah Overdorf |
+| 117 | 781 | Savannah Overdorf |
+| 118 | 781 | Brittney Griggs |
 | 119 | 779 | Nope Young |
 | 120 | 777 | Chris Alexinas |
 | 121 | 768 | Trista Leah |
@@ -286,8 +286,8 @@
 | 278 | 410 | Lindsay Ball |
 | 279 | 410 | KimoKoala |
 | 280 | 409 | Antony Dwayne Beasley |
-| 281 | 408 | Dihcheese444 |
-| 282 | 408 | Neirrah B Olailjeel |
+| 281 | 408 | Neirrah B Olailjeel |
+| 282 | 408 | Dihcheese444 |
 | 283 | 407 | Hyper Builder |
 | 284 | 402 | Nita Wells |
 | 285 | 402 | Maria Hammie |
@@ -383,7 +383,7 @@
 | 375 | 319 | Bradley Reeves |
 | 376 | 317 | Kim Klutz Olson |
 | 377 | 317 | Paito |
-| 378 | 317 | Kim Klutz Olson |
+| 378 | 317 | Madison Sweere |
 | 379 | 316 | Shukee Lo |
 | 380 | 315 | Ultramarine |
 | 381 | 314 | Kenna Gunderland |

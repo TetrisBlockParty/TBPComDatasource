@@ -264,8 +264,8 @@
 | 256 | 421 | Letson Melissa |
 | 257 | 419 | John J. Cronin |
 | 258 | 419 | Barrbaric |
-| 259 | 416 | Amanda Holibaugh |
-| 260 | 416 | Larissa Marie Nelson |
+| 259 | 416 | Larissa Marie Nelson |
+| 260 | 416 | Amanda Holibaugh |
 | 261 | 414 | Bird Person |
 | 262 | 412 | Sleepysloath5745 |
 | 263 | 410 | Paula Martin |
@@ -303,8 +303,8 @@
 | 295 | 379 | Austin James |
 | 296 | 378 | Eddie Dillon |
 | 297 | 377 | GATOR |
-| 298 | 376 | Sassy Builderline |
-| 299 | 376 | Brian Richardsson |
+| 298 | 376 | Brian Richardsson |
+| 299 | 376 | Sassy Builderline |
 | 300 | 374 | Snappy Brickbuilder |
 | 301 | 372 | Dizzy Party |
 | 302 | 372 | Strig |
@@ -620,9 +620,9 @@
 | 612 | 214 | Amanda Marie Sutton |
 | 613 | 214 | Alex Gauthier |
 | 614 | 213 | Henry Lanier |
-| 615 | 212 | Craig Mcgonigle |
+| 615 | 212 | Bruce Cruz |
 | 616 | 212 | Matthew Foley |
-| 617 | 212 | Bruce Cruz |
+| 617 | 212 | Craig Mcgonigle |
 | 618 | 211 | Bucketsmasher |
 | 619 | 210 | Danny Brady |
 | 620 | 210 | Lil H |
