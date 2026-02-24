@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 19:52:45 UTC
+# Standings for team1 as of 2026-02-24 19:53:23 UTC
 
 **Total Participants:** 2310
 
@@ -68,7 +68,7 @@
 | 60 | 1267 | Stef Hu |
 | 61 | 1267 | Patrick Luckenbill |
 | 62 | 1261 | Adam Byrd |
-| 63 | 1244 | Adrian Esteban |
+| 63 | 1254 | Adrian Esteban |
 | 64 | 1241 | Tyler Whitley |
 | 65 | 1232 | TSwag |
 | 66 | 1225 | Kristen Roles Robben |
@@ -88,8 +88,8 @@
 | 80 | 1107 | Amber Stoker |
 | 81 | 1104 | Seante Bullock |
 | 82 | 1086 | Jason Cox |
-| 83 | 1078 | Jason Jones |
-| 84 | 1074 | Kristi Johnson |
+| 83 | 1081 | Kristi Johnson |
+| 84 | 1078 | Jason Jones |
 | 85 | 1066 | Dawn Sheppard |
 | 86 | 1060 | Cheeky Crusher |
 | 87 | 1035 | Phu ckalldems |
@@ -420,10 +420,10 @@
 | 412 | 318 | MelSavage |
 | 413 | 318 | Ric Hard Hernandez |
 | 414 | 318 | Terri Rodela |
-| 415 | 317 | Marci Sanders |
-| 416 | 317 | Debbie Davis |
-| 417 | 317 | Itspaigebro |
-| 418 | 317 | Shan Rock |
+| 415 | 318 | Shan Rock |
+| 416 | 317 | Marci Sanders |
+| 417 | 317 | Debbie Davis |
+| 418 | 317 | Itspaigebro |
 | 419 | 316 | Anielle Reagan |
 | 420 | 316 | Tiffany Daboss Seymour |
 | 421 | 315 | Blaire Bruckoff |
@@ -598,89 +598,89 @@
 | 590 | 237 | Lark |
 | 591 | 237 | Amber Dollak-Smith |
 | 592 | 237 | Gilbert Ortiz Jr. |
-| 593 | 236 | Dizzy Rackham |
-| 594 | 236 | Marie White |
-| 595 | 235 | Nutty Glide |
-| 596 | 235 | Kellie Tunstall |
+| 593 | 236 | Marie White |
+| 594 | 236 | Dizzy Rackham |
+| 595 | 235 | Kellie Tunstall |
+| 596 | 235 | Nutty Glide |
 | 597 | 235 | Sabrina Coleman |
 | 598 | 235 | Miguel Teixeira |
-| 599 | 234 | Aaron Green |
-| 600 | 234 | Burnnetter Sisk |
-| 601 | 234 | Jessica Imboden |
-| 602 | 233 | Corrie Grant Smithson |
-| 603 | 233 | Ruf Lowman |
+| 599 | 234 | Jessica Imboden |
+| 600 | 234 | Aaron Green |
+| 601 | 234 | Burnnetter Sisk |
+| 602 | 233 | Ruf Lowman |
+| 603 | 233 | Sherri E Woods Hess |
 | 604 | 233 | Jonah Dunn |
-| 605 | 233 | Sherri E Woods Hess |
+| 605 | 233 | Corrie Grant Smithson |
 | 606 | 232 | Kirk Torrey |
 | 607 | 232 | Corkey Steinmark |
-| 608 | 231 | Dandy Towerbuilder |
-| 609 | 231 | Alex Nicol |
-| 610 | 231 | Hector Cruz |
+| 608 | 231 | Hector Cruz |
+| 609 | 231 | Dandy Towerbuilder |
+| 610 | 231 | Alex Nicol |
 | 611 | 230 | William Blackwell |
 | 612 | 230 | Jennifer Crawford |
 | 613 | 229 | Jeff Jack II |
 | 614 | 228 | Slinky Tile |
-| 615 | 227 | Bucketsmasher |
-| 616 | 227 | Daniel Lorquet |
-| 617 | 227 | MomOf2Angels |
-| 618 | 227 | Michelle Deans |
-| 619 | 227 | Mindy Gloska |
+| 615 | 227 | Mindy Gloska |
+| 616 | 227 | Bucketsmasher |
+| 617 | 227 | Daniel Lorquet |
+| 618 | 227 | MomOf2Angels |
+| 619 | 227 | Michelle Deans |
 | 620 | 227 | Archie Ware |
-| 621 | 225 | Neely Janelle Stewart |
+| 621 | 225 | grizzly |
 | 622 | 225 | Spicy Rollfit |
-| 623 | 225 | Owicked1 |
-| 624 | 225 | grizzly |
+| 623 | 225 | Neely Janelle Stewart |
+| 624 | 225 | Owicked1 |
 | 625 | 224 | Giggly Rollfit |
 | 626 | 223 | Sarah Henniker |
-| 627 | 223 | Erez Yosef |
-| 628 | 223 | Lauren Baxter |
-| 629 | 223 | DENOTS42OSPOT |
-| 630 | 223 | Joke Sofunny |
+| 627 | 223 | DENOTS42OSPOT |
+| 628 | 223 | Joke Sofunny |
+| 629 | 223 | Lauren Baxter |
+| 630 | 223 | Erez Yosef |
 | 631 | 223 | Renata Mabie |
-| 632 | 223 | Jonathan Joshua |
-| 633 | 223 | Natasha Hollowell Causey |
-| 634 | 222 | Lil H |
-| 635 | 222 | Kkl |
-| 636 | 222 | Henry Lanier |
-| 637 | 221 | Spunky Builderpiece |
-| 638 | 221 | Amy Hess |
-| 639 | 221 | Davery Spencer Adair |
+| 632 | 223 | Natasha Hollowell Causey |
+| 633 | 223 | Jonathan Joshua |
+| 634 | 222 | Kkl |
+| 635 | 222 | Henry Lanier |
+| 636 | 222 | Lil H |
+| 637 | 221 | Davery Spencer Adair |
+| 638 | 221 | Spunky Builderpiece |
+| 639 | 221 | Amy Hess |
 | 640 | 220 | Jana Hutcheson |
 | 641 | 219 | Negan Mallory Knoxx Spence |
 | 642 | 219 | Ruby Sandberg |
 | 643 | 218 | Hyper Tilemaker |
-| 644 | 217 | monstermutt |
+| 644 | 217 | Sarah Bersano |
 | 645 | 217 | Jamie Catlett |
-| 646 | 217 | Sarah Bersano |
+| 646 | 217 | monstermutt |
 | 647 | 216 | BettyAnn Savo |
-| 648 | 216 | Nicolette Ivory Chastain |
-| 649 | 216 | Shauntina Burke |
-| 650 | 215 | Britney Marie Burton Cole |
-| 651 | 215 | Gauge Slusher |
-| 652 | 215 | Jeffrey Scott Younkins |
-| 653 | 215 | Jenny Hughes |
-| 654 | 214 | Alex Gauthier |
-| 655 | 214 | Peachy Wipebuilder |
-| 656 | 213 | Brian Taylor |
-| 657 | 212 | Bruce Cruz |
-| 658 | 212 | Terika Rodriguez |
+| 648 | 216 | Shauntina Burke |
+| 649 | 216 | Nicolette Ivory Chastain |
+| 650 | 215 | Swanky Patternfit |
+| 651 | 215 | Britney Marie Burton Cole |
+| 652 | 215 | Gauge Slusher |
+| 653 | 215 | Jeffrey Scott Younkins |
+| 654 | 215 | Jenny Hughes |
+| 655 | 214 | Alex Gauthier |
+| 656 | 214 | Peachy Wipebuilder |
+| 657 | 213 | Brian Taylor |
+| 658 | 212 | Bruce Cruz |
 | 659 | 212 | Craig Mcgonigle |
-| 660 | 211 | Swanky Patternfit |
-| 661 | 210 | Christina Torres |
-| 662 | 210 | Danny Brady |
-| 663 | 210 | Mortious |
-| 664 | 210 | KoDaK |
+| 660 | 212 | Terika Rodriguez |
+| 661 | 210 | KoDaK |
+| 662 | 210 | Mortious |
+| 663 | 210 | Christina Torres |
+| 664 | 210 | Danny Brady |
 | 665 | 209 | Lively Wipeout |
-| 666 | 208 | Jason Landon Sexton |
-| 667 | 208 | Donna Addison Williams |
-| 668 | 208 | Sarah Cassese |
-| 669 | 207 | Shawn Robert |
-| 670 | 207 | Emily Wray |
-| 671 | 206 | Almïghty Stoner |
-| 672 | 206 | Matt Cinelli |
-| 673 | 206 | Abusive |
+| 666 | 208 | Donna Addison Williams |
+| 667 | 208 | Sarah Cassese |
+| 668 | 208 | Jason Landon Sexton |
+| 669 | 207 | Emily Wray |
+| 670 | 207 | Shawn Robert |
+| 671 | 206 | Pace |
+| 672 | 206 | Almïghty Stoner |
+| 673 | 206 | Matt Cinelli |
 | 674 | 206 | Gina Fontana Meier |
-| 675 | 206 | Pace |
+| 675 | 206 | Abusive |
 | 676 | 205 | Bean |
 | 677 | 205 | Riley Lee |
 | 678 | 205 | Mechelle Bailum |
