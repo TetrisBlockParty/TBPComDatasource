@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 23:30:44 UTC
+# Standings for team4 as of 2026-02-24 23:31:23 UTC
 
 **Total Participants:** 2104
 
@@ -238,9 +238,9 @@
 | 230 | 513 | Milan Markeisha |
 | 231 | 512 | Casey Jeffcoat |
 | 232 | 510 | scott |
-| 233 | 508 | June Hoffman |
-| 234 | 508 | Silly Zonebuilder |
-| 235 | 507 | Michele Plunkett |
+| 233 | 509 | Michele Plunkett |
+| 234 | 508 | June Hoffman |
+| 235 | 508 | Silly Zonebuilder |
 | 236 | 506 | Ari Droff |
 | 237 | 504 | Deanna Deckard |
 | 238 | 504 | Keshia Lyons |
@@ -791,8 +791,8 @@
 | 783 | 175 | Lori Goudy |
 | 784 | 175 | Kristin Rose Nutter |
 | 785 | 175 | Melissa Tipton Crawford |
-| 786 | 174 | Giggly Balancefit |
-| 787 | 174 | Sassy Gridzone |
+| 786 | 174 | Sassy Gridzone |
+| 787 | 174 | Giggly Balancefit |
 | 788 | 174 | Beenbreto |
 | 789 | 174 | Christina Hyde |
 | 790 | 174 | Courtney Angel |
@@ -801,8 +801,8 @@
 | 793 | 173 | Groovy Brickmatch |
 | 794 | 173 | Too Low Lou |
 | 795 | 173 | TwistyMcTwist |
-| 796 | 173 | FreckledFlamingo |
-| 797 | 173 | Mark Willman |
+| 796 | 173 | Mark Willman |
+| 797 | 173 | FreckledFlamingo |
 | 798 | 172 | Roy Simmons |
 | 799 | 172 | Linda Alexander Downing |
 | 800 | 172 | Gio Santiago |
@@ -837,45 +837,45 @@
 | 829 | 162 | mini |
 | 830 | 162 | Smiley Tiltbuilder |
 | 831 | 162 | Blue |
-| 832 | 161 | Bigmamatetrisqueen |
-| 833 | 161 | Sha Ta Nay Mitchell |
+| 832 | 161 | Sha Ta Nay Mitchell |
+| 833 | 161 | Bigmamatetrisqueen |
 | 834 | 161 | Buttlicker |
 | 835 | 161 | Nicole McMurray |
 | 836 | 161 | Clinton Jacob |
 | 837 | 161 | IDK |
-| 838 | 159 | Niome Encinias |
-| 839 | 159 | Aloradexplora |
-| 840 | 159 | Jennifer Perkins |
-| 841 | 158 | Loopy Rollbuilder |
-| 842 | 158 | Jenn Tyler |
-| 843 | 157 | Alfredo Aguilar |
-| 844 | 157 | Frisky Twistslam |
-| 845 | 157 | k |
-| 846 | 157 | Matt Rawls |
-| 847 | 157 | April |
-| 848 | 156 | Kara Kaminski Rhinehart |
-| 849 | 156 | Jaime Ore Norcross |
-| 850 | 156 | Libby |
-| 851 | 156 | Witty Link |
-| 852 | 155 | Faja |
-| 853 | 155 | Haruko Bullock-Brown |
-| 854 | 154 | Jelly |
-| 855 | 154 | Alicia Lux Arnst |
-| 856 | 154 | Katie Walton |
-| 857 | 153 | Milly Johnson |
-| 858 | 153 | Peace |
-| 859 | 153 | Shane Hicks |
-| 860 | 153 | Saucy Stackbuilder |
-| 861 | 153 | Jamie Mclean |
-| 862 | 153 | Mike |
-| 863 | 152 | Jessica Johnston |
-| 864 | 152 | Jenjen |
-| 865 | 152 | April Chalfant |
-| 866 | 152 | Sarah Tenenbaum |
-| 867 | 151 | poopoo |
-| 868 | 151 | Harvey Mejia |
-| 869 | 151 | GMoney Rbt |
-| 870 | 151 | Brianna Walker |
+| 838 | 160 | Katie Walton |
+| 839 | 159 | Niome Encinias |
+| 840 | 159 | Aloradexplora |
+| 841 | 159 | Jennifer Perkins |
+| 842 | 158 | Loopy Rollbuilder |
+| 843 | 158 | Jenn Tyler |
+| 844 | 157 | Alfredo Aguilar |
+| 845 | 157 | Frisky Twistslam |
+| 846 | 157 | k |
+| 847 | 157 | Matt Rawls |
+| 848 | 157 | April |
+| 849 | 156 | Kara Kaminski Rhinehart |
+| 850 | 156 | Jaime Ore Norcross |
+| 851 | 156 | Libby |
+| 852 | 156 | Witty Link |
+| 853 | 155 | Faja |
+| 854 | 155 | Haruko Bullock-Brown |
+| 855 | 154 | Jelly |
+| 856 | 154 | Alicia Lux Arnst |
+| 857 | 153 | Shane Hicks |
+| 858 | 153 | Saucy Stackbuilder |
+| 859 | 153 | Jamie Mclean |
+| 860 | 153 | Mike |
+| 861 | 153 | Milly Johnson |
+| 862 | 153 | Peace |
+| 863 | 152 | April Chalfant |
+| 864 | 152 | Sarah Tenenbaum |
+| 865 | 152 | Jessica Johnston |
+| 866 | 152 | Jenjen |
+| 867 | 151 | Brianna Walker |
+| 868 | 151 | poopoo |
+| 869 | 151 | Harvey Mejia |
+| 870 | 151 | GMoney Rbt |
 | 871 | 150 | Bruce Harris |
 | 872 | 149 | Stephanie Griego |
 | 873 | 149 | Adam Randall |
