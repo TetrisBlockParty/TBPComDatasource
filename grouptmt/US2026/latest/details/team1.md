@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 13:19:11 UTC
+# Standings for team1 as of 2026-02-24 13:19:24 UTC
 
 **Total Participants:** 2251
 
@@ -1445,111 +1445,111 @@
 | 1437 | 57 | Margaret Rose |
 | 1438 | 57 | Chipper Wipegrid |
 | 1439 | 57 | Ariella Knopp Warner |
-| 1440 | 57 | McMeow |
-| 1441 | 57 | tiffanyfree |
-| 1442 | 57 | Justin Alberry |
-| 1443 | 56 | Julia Wilson |
-| 1444 | 56 | Bouncy Chiseler |
-| 1445 | 56 | Terry Aldridge |
-| 1446 | 56 | Eduk8ted Rednek |
-| 1447 | 56 | GG Water |
-| 1448 | 56 | Tinamarie Ann Brown |
-| 1449 | 56 | Hasty Dropmatch |
-| 1450 | 56 | Dreamy Patternfit |
-| 1451 | 56 | Blythe |
-| 1452 | 56 | Eric Perry |
-| 1453 | 56 | Jess Ortiz |
+| 1440 | 57 | Justin Alberry |
+| 1441 | 57 | McMeow |
+| 1442 | 57 | tiffanyfree |
+| 1443 | 56 | Eduk8ted Rednek |
+| 1444 | 56 | GG Water |
+| 1445 | 56 | Hasty Dropmatch |
+| 1446 | 56 | Dreamy Patternfit |
+| 1447 | 56 | Blythe |
+| 1448 | 56 | Eric Perry |
+| 1449 | 56 | Terry Aldridge |
+| 1450 | 56 | Bouncy Chiseler |
+| 1451 | 56 | Jess Ortiz |
+| 1452 | 56 | Julia Wilson |
+| 1453 | 56 | Tinamarie Ann Brown |
 | 1454 | 55 | Zac Brubaker |
-| 1455 | 55 | Brave Linker |
+| 1455 | 55 | KISSARMY80 |
 | 1456 | 55 | Smiley Towerzone |
 | 1457 | 55 | Amber Johnson-Grantham |
-| 1458 | 55 | Scott Shumpert |
+| 1458 | 55 | Brave Linker |
 | 1459 | 55 | Marcellus Royal |
-| 1460 | 55 | KISSARMY80 |
-| 1461 | 55 | Spunky Linkpiece |
-| 1462 | 55 | Star Gaze |
-| 1463 | 55 | Jason Whitehead |
-| 1464 | 55 | James Brittingham |
+| 1460 | 55 | Star Gaze |
+| 1461 | 55 | Scott Shumpert |
+| 1462 | 55 | Jason Whitehead |
+| 1463 | 55 | Walter Turner |
+| 1464 | 55 | Potato |
 | 1465 | 55 | Shea Hall |
-| 1466 | 55 | Potato |
-| 1467 | 55 | Walter Turner |
-| 1468 | 54 | Harry N Baker |
-| 1469 | 54 | Jolly Riserbuilder |
-| 1470 | 54 | Home Plate |
-| 1471 | 54 | Brittnay Livigne |
-| 1472 | 54 | Dustin Whited |
-| 1473 | 54 | Carlitos Faith Faith |
-| 1474 | 54 | Darcy Doe |
-| 1475 | 54 | Beverly S. Robinson |
-| 1476 | 53 | Stone Morton |
-| 1477 | 53 | Jacob Dozar |
+| 1466 | 55 | James Brittingham |
+| 1467 | 55 | Spunky Linkpiece |
+| 1468 | 54 | Dustin Whited |
+| 1469 | 54 | Carlitos Faith Faith |
+| 1470 | 54 | Ja Ce |
+| 1471 | 54 | Harry N Baker |
+| 1472 | 54 | Darcy Doe |
+| 1473 | 54 | Jolly Riserbuilder |
+| 1474 | 54 | Beverly S. Robinson |
+| 1475 | 54 | Brittnay Livigne |
+| 1476 | 54 | Home Plate |
+| 1477 | 53 | Jason Andrews |
 | 1478 | 53 | Chris Nix |
 | 1479 | 53 | Chipper Bridgepiece |
-| 1480 | 53 | Luis Quintero |
-| 1481 | 53 | Equasia Lane |
-| 1482 | 53 | Fancy Zone |
-| 1483 | 53 | Frisky Liney |
-| 1484 | 53 | Solita Krauss |
-| 1485 | 53 | Jason Andrews |
-| 1486 | 53 | Michael Floyd Beavers |
-| 1487 | 52 | John M. Bennett |
+| 1480 | 53 | Jacob Dozar |
+| 1481 | 53 | Luis Quintero |
+| 1482 | 53 | Stone Morton |
+| 1483 | 53 | Equasia Lane |
+| 1484 | 53 | Frisky Liney |
+| 1485 | 53 | Fancy Zone |
+| 1486 | 53 | Solita Krauss |
+| 1487 | 53 | Michael Floyd Beavers |
 | 1488 | 52 | Henry James Bechtold |
-| 1489 | 52 | COWBOY |
-| 1490 | 52 | Ashley Freeman |
-| 1491 | 52 | Beth |
-| 1492 | 52 | Chez |
-| 1493 | 52 | Ryan James Kelly |
-| 1494 | 52 | Ghost |
-| 1495 | 52 | cori |
-| 1496 | 52 | Pineapple 🍍 |
-| 1497 | 52 | Nerdy Balancefit |
-| 1498 | 52 | DebraSue Bunting |
-| 1499 | 52 | e |
-| 1500 | 52 | Amy Mancini |
+| 1489 | 52 | Pineapple 🍍 |
+| 1490 | 52 | John M. Bennett |
+| 1491 | 52 | Ashley Freeman |
+| 1492 | 52 | Beth |
+| 1493 | 52 | COWBOY |
+| 1494 | 52 | Chez |
+| 1495 | 52 | Ghost |
+| 1496 | 52 | Ryan James Kelly |
+| 1497 | 52 | cori |
+| 1498 | 52 | Nerdy Balancefit |
+| 1499 | 52 | DebraSue Bunting |
+| 1500 | 52 | BadBoyJeff |
 | 1501 | 52 | Jessica |
-| 1502 | 52 | BadBoyJeff |
-| 1503 | 51 | Betsi Pittman Wade |
-| 1504 | 51 | Shanetta Jacob Hannagan Johnson |
-| 1505 | 51 | shh |
-| 1506 | 51 | Jumpy Clearfit |
-| 1507 | 51 | lambo88 |
-| 1508 | 51 | Brenda Schultz |
+| 1502 | 52 | Amy Mancini |
+| 1503 | 52 | e |
+| 1504 | 51 | Betsi Pittman Wade |
+| 1505 | 51 | Silas Dragoo |
+| 1506 | 51 | Dizzy Cascadefit |
+| 1507 | 51 | Clever Pivotfall |
+| 1508 | 51 | TJ |
 | 1509 | 51 | Jack Shafer |
-| 1510 | 51 | Silas Dragoo |
-| 1511 | 51 | Dizzy Cascadefit |
-| 1512 | 51 | Ja Ce |
-| 1513 | 51 | Clever Pivotfall |
-| 1514 | 51 | TJ |
-| 1515 | 50 | Kalyn Lani |
-| 1516 | 50 | Meranda Varney |
-| 1517 | 50 | Cheeky Spinzone |
-| 1518 | 50 | Katherine Marie Spittle |
-| 1519 | 50 | Lacey Wilson |
-| 1520 | 50 | Chirpy Twistline |
-| 1521 | 50 | Harmony Damoore |
-| 1522 | 50 | Sarah Lyle |
-| 1523 | 50 | Kat Bowman |
-| 1524 | 50 | Ivan Reynolds |
-| 1525 | 50 | Dandy Line |
-| 1526 | 50 | Eric Michael Floyd |
-| 1527 | 50 | Dustin Eagleton |
-| 1528 | 50 | Mama Zelda |
-| 1529 | 50 | Vanilla gorilla |
-| 1530 | 50 | Clarenique Williams |
-| 1531 | 50 | Chummy Tiltpiece |
-| 1532 | 50 | Lush Snapclear |
+| 1510 | 51 | shh |
+| 1511 | 51 | Jumpy Clearfit |
+| 1512 | 51 | lambo88 |
+| 1513 | 51 | Shanetta Jacob Hannagan Johnson |
+| 1514 | 51 | Brenda Schultz |
+| 1515 | 50 | Chirpy Twistline |
+| 1516 | 50 | Kalyn Lani |
+| 1517 | 50 | Lacey Wilson |
+| 1518 | 50 | Eric Michael Floyd |
+| 1519 | 50 | Dustin Eagleton |
+| 1520 | 50 | Mama Zelda |
+| 1521 | 50 | Cheeky Spinzone |
+| 1522 | 50 | Kat Bowman |
+| 1523 | 50 | Clarenique Williams |
+| 1524 | 50 | Lush Snapclear |
+| 1525 | 50 | Chummy Tiltpiece |
+| 1526 | 50 | Vanilla gorilla |
+| 1527 | 50 | Dandy Line |
+| 1528 | 50 | Ivan Reynolds |
+| 1529 | 50 | Harmony Damoore |
+| 1530 | 50 | Meranda Varney |
+| 1531 | 50 | Sarah Lyle |
+| 1532 | 50 | Katherine Marie Spittle |
 | 1533 | 49 | Sandoval Tinka |
-| 1534 | 49 | Vanessa G Keill |
-| 1535 | 49 | Boldy Tumbler |
-| 1536 | 49 | Tommy |
-| 1537 | 49 | Randi Voight |
+| 1534 | 49 | Boldy Tumbler |
+| 1535 | 49 | Vanessa G Keill |
+| 1536 | 49 | Randi Voight |
+| 1537 | 49 | Edward McParlin |
 | 1538 | 49 | DeeTy |
 | 1539 | 49 | Elania Marie Degrez |
-| 1540 | 49 | Edward McParlin |
+| 1540 | 49 | Tommy |
 | 1541 | 49 | Stephanie Thompson |
-| 1542 | 49 | Dwight Wade Stambaugh Jr. |
+| 1542 | 49 | Quirky Rumbler |
 | 1543 | 49 | Summer Osborne |
-| 1544 | 49 | Quirky Rumbler |
+| 1544 | 49 | Dwight Wade Stambaugh Jr. |
 | 1545 | 48 | Pete Davis |
 | 1546 | 48 | Misty |
 | 1547 | 48 | Sassy Dashy |

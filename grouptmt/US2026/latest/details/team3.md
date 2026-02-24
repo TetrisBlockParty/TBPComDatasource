@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-24 13:19:11 UTC
+# Standings for team3 as of 2026-02-24 13:19:24 UTC
 
 **Total Participants:** 3423
 
@@ -470,29 +470,29 @@
 | 462 | 375 | Christy Quick |
 | 463 | 373 | Bekah Dietrich |
 | 464 | 373 | Yvonne Felicia Garcia |
-| 465 | 372 | Big T |
-| 466 | 372 | Block Baddie |
+| 465 | 372 | Block Baddie |
+| 466 | 372 | Big T |
 | 467 | 372 | Raijinell King |
 | 468 | 371 | Kathleen Taylor |
 | 469 | 371 | Lys |
 | 470 | 370 | Eric Caccavale |
 | 471 | 369 | Hoppy Buildout |
-| 472 | 368 | Stephanie Woods |
+| 472 | 368 | Jimmie Clemons |
 | 473 | 368 | Sheila M Frazier |
 | 474 | 368 | Tony Waters |
 | 475 | 368 | Ashley Rufus Bythcez |
-| 476 | 367 | Funky Jumper |
-| 477 | 367 | Danetta McCadden |
-| 478 | 366 | Erykah |
-| 479 | 365 | Frothy Glider |
-| 480 | 365 | Emma |
-| 481 | 364 | 4girls |
-| 482 | 364 | xsiv |
-| 483 | 363 | Nena Somerville Kelly |
-| 484 | 363 | Giggly Brickroll |
-| 485 | 363 | angieelyn |
-| 486 | 363 | Katrina Turner |
-| 487 | 362 | Jimmie Clemons |
+| 476 | 368 | Stephanie Woods |
+| 477 | 367 | Funky Jumper |
+| 478 | 367 | Danetta McCadden |
+| 479 | 366 | Erykah |
+| 480 | 365 | Frothy Glider |
+| 481 | 365 | Emma |
+| 482 | 364 | 4girls |
+| 483 | 364 | xsiv |
+| 484 | 363 | Nena Somerville Kelly |
+| 485 | 363 | Giggly Brickroll |
+| 486 | 363 | angieelyn |
+| 487 | 363 | Katrina Turner |
 | 488 | 361 | Fredd Thomas |
 | 489 | 360 | Cathy Leger |
 | 490 | 359 | Cranky Corner |
@@ -531,34 +531,34 @@
 | 523 | 340 | Beezwax |
 | 524 | 340 | Bleu Sun Beams |
 | 525 | 340 | Misstery |
-| 526 | 340 | Loony Slider |
-| 527 | 340 | Erika Thornton |
-| 528 | 340 | Kerry Nowickshere |
-| 529 | 339 | Evelyn Ortega |
-| 530 | 339 | Heather Ferrara |
-| 531 | 337 | Blair Erin Waite |
-| 532 | 336 | luluraine |
+| 526 | 340 | Aeh |
+| 527 | 340 | Loony Slider |
+| 528 | 340 | Erika Thornton |
+| 529 | 340 | Kerry Nowickshere |
+| 530 | 339 | Evelyn Ortega |
+| 531 | 339 | Heather Ferrara |
+| 532 | 337 | Blair Erin Waite |
 | 533 | 336 | Funky Brickster |
 | 534 | 336 | Kristi Taylor |
-| 535 | 335 | Johnathan Dowe |
-| 536 | 335 | Aponk |
-| 537 | 335 | Megan Stanley |
-| 538 | 335 | Sassy Brickmatch |
-| 539 | 334 | Sharisse Baltimore |
-| 540 | 334 | Stella |
-| 541 | 334 | Megan Riggins |
-| 542 | 334 | Kassie Dominique Rathbone |
-| 543 | 333 | Hyper Wipeout |
-| 544 | 333 | Moneyvybz |
-| 545 | 331 | Amanda Declue |
-| 546 | 331 | Wettnippz |
-| 547 | 331 | Shiny Snapfit |
-| 548 | 330 | Willow |
-| 549 | 330 | Amy Cunningham Mitchell |
-| 550 | 329 | Bree Sexton |
-| 551 | 329 | Krystal Gerstberger |
-| 552 | 328 | Cesar Mendez |
-| 553 | 328 | Aeh |
+| 535 | 336 | luluraine |
+| 536 | 335 | Johnathan Dowe |
+| 537 | 335 | Aponk |
+| 538 | 335 | Megan Stanley |
+| 539 | 335 | Sassy Brickmatch |
+| 540 | 334 | Sharisse Baltimore |
+| 541 | 334 | Stella |
+| 542 | 334 | Megan Riggins |
+| 543 | 334 | Kassie Dominique Rathbone |
+| 544 | 333 | Hyper Wipeout |
+| 545 | 333 | Moneyvybz |
+| 546 | 331 | Amanda Declue |
+| 547 | 331 | Wettnippz |
+| 548 | 331 | Shiny Snapfit |
+| 549 | 330 | Willow |
+| 550 | 330 | Amy Cunningham Mitchell |
+| 551 | 329 | Bree Sexton |
+| 552 | 329 | Krystal Gerstberger |
+| 553 | 328 | Cesar Mendez |
 | 554 | 328 | Sdot |
 | 555 | 328 | Desiree Soto |
 | 556 | 327 | Taylor Hood |
