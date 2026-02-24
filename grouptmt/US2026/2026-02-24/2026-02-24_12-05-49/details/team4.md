@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Yoset Mejia |
-| 47 | 1461 | Shane Kalamata Platoon |
+| 46 | 1461 | Shane Kalamata Platoon |
+| 47 | 1461 | Yoset Mejia |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -237,8 +237,8 @@
 | 229 | 473 | Jolly Dashfit |
 | 230 | 472 | Plucky Patternblock |
 | 231 | 465 | Leslie Thomas |
-| 232 | 464 | Calvin Cannon |
-| 233 | 464 | Zakia Monae |
+| 232 | 464 | Zakia Monae |
+| 233 | 464 | Calvin Cannon |
 | 234 | 463 | shark tato |
 | 235 | 462 | Crystal Nicolette Moore |
 | 236 | 462 | scott |
@@ -261,8 +261,8 @@
 | 253 | 444 | Twisty Cascadezone |
 | 254 | 442 | John Brunetti |
 | 255 | 441 | Lush Linkfall |
-| 256 | 438 | 23 |
-| 257 | 438 | Melvin Baird |
+| 256 | 438 | Melvin Baird |
+| 257 | 438 | 23 |
 | 258 | 434 | Ramel Rhodes |
 | 259 | 432 | Jason Gibbs |
 | 260 | 431 | Brickh4us |
@@ -434,8 +434,8 @@
 | 426 | 281 | Morti |
 | 427 | 280 | Chummy Towerzone |
 | 428 | 279 | Ziggy |
-| 429 | 278 | Shainne Brewer |
-| 430 | 278 | L Bear Champion |
+| 429 | 278 | L Bear Champion |
+| 430 | 278 | Shainne Brewer |
 | 431 | 277 | Silly SeaWeed |
 | 432 | 276 | Dennis Bradley |
 | 433 | 275 | Jarred Falls |
@@ -497,14 +497,14 @@
 | 489 | 248 | Chirpy Basepiece |
 | 490 | 247 | RIFATSIKDER |
 | 491 | 247 | Sam Middleton |
-| 492 | 246 | giantslover514 |
+| 492 | 246 | Shanon Klair |
 | 493 | 246 | GBR |
-| 494 | 246 | Shanon Klair |
+| 494 | 246 | giantslover514 |
 | 495 | 245 | Brooke Kaune |
 | 496 | 244 | Jesse Saville |
 | 497 | 244 | Penny Dean |
 | 498 | 244 | Elizabeth Tinoco |
-| 499 | 244 | Penny Dean |
+| 499 | 244 | Amanda Christine |
 | 500 | 244 | Steve Sperino |
 | 501 | 243 | Jackie Marie |
 | 502 | 242 | Badatvs |
@@ -563,8 +563,8 @@
 | 555 | 223 | Perky Riser |
 | 556 | 222 | Cozy Balancer |
 | 557 | 222 | Squeezy Pearsall |
-| 558 | 221 | Rheanda Weaskus |
-| 559 | 221 | Peppy Drop |
+| 558 | 221 | Peppy Drop |
+| 559 | 221 | Rheanda Weaskus |
 | 560 | 220 | Mighty Edgepiece |
 | 561 | 219 | Dapper Balancer |
 | 562 | 219 | Brandon Link |
@@ -652,8 +652,8 @@
 | 644 | 190 | wombat |
 | 645 | 190 | Joni Marie Flanary |
 | 646 | 190 | Robert Rangel |
-| 647 | 189 | Lisa Allen Frisk |
-| 648 | 189 | Amy C Brown |
+| 647 | 189 | Amy C Brown |
+| 648 | 189 | Lisa Allen Frisk |
 | 649 | 188 | Daring Pivot |
 | 650 | 188 | Cooldamalley |
 | 651 | 188 | Dickie Rice |

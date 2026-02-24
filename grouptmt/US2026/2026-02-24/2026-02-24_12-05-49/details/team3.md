@@ -111,8 +111,8 @@
 | 103 | 1311 | JerseyJess |
 | 104 | 1309 | yoyo |
 | 105 | 1297 | Shelby Michelle |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1280 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -127,8 +127,8 @@
 | 119 | 1152 | Julian Murphy |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Loopy Fallmatch |
-| 123 | 1114 | Groovy Catcher |
+| 122 | 1114 | Groovy Catcher |
+| 123 | 1114 | Loopy Fallmatch |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1101 | Valerie Gendron |
 | 126 | 1093 | Angela M. Fletcher |
@@ -167,8 +167,8 @@
 | 159 | 936 | Dolores Falco |
 | 160 | 928 | Edwin Calvillo Jr. |
 | 161 | 925 | Cherry Parker |
-| 162 | 914 | BadManSheLove |
-| 163 | 914 | Staci George Fitzsimmons |
+| 162 | 914 | Staci George Fitzsimmons |
+| 163 | 914 | BadManSheLove |
 | 164 | 910 | opf |
 | 165 | 906 | Patti Skiles |
 | 166 | 899 | Jaime Monhaut-Reed |
@@ -282,8 +282,8 @@
 | 274 | 618 | Kaitie Oliver |
 | 275 | 609 | Connie Mohler-Fair |
 | 276 | 608 | Noyb Adam |
-| 277 | 604 | Bmo |
-| 278 | 604 | Sherry Ogden |
+| 277 | 604 | Sherry Ogden |
+| 278 | 604 | Bmo |
 | 279 | 600 | Natasha Jones |
 | 280 | 594 | Cozy Snaplink |
 | 281 | 591 | Crystal Hine |

@@ -521,21 +521,21 @@
 | 513 | 973 | Taryece Gause |
 | 514 | 972 | Angela Yantz |
 | 515 | 970 | Smashanator |
-| 516 | 969 | Andrew Willis |
-| 517 | 969 | Connie Jimenez |
-| 518 | 969 | Shuany Arias |
+| 516 | 969 | Connie Jimenez |
+| 517 | 969 | Shuany Arias |
+| 518 | 969 | Andrew Willis |
 | 519 | 966 | Kayla |
 | 520 | 965 | Lonne Emade |
 | 521 | 964 | John Bednarik |
 | 522 | 963 | Casper The Chonk |
-| 523 | 962 | Antionette Sewell |
-| 524 | 962 | Kathleen Driskell |
+| 523 | 962 | Kathleen Driskell |
+| 524 | 962 | Antionette Sewell |
 | 525 | 958 | Jc Gilk |
 | 526 | 958 | Lisa Ongtowasruk |
 | 527 | 957 | Maria Louise |
 | 528 | 956 | Blacc Blac |
-| 529 | 951 | Silly Pivotfall |
-| 530 | 951 | Vermeka Searcey |
+| 529 | 951 | Vermeka Searcey |
+| 530 | 951 | Silly Pivotfall |
 | 531 | 950 | Katie Marie |
 | 532 | 947 | Jennifer Leigh |
 | 533 | 947 | Adam Simmons |
@@ -556,9 +556,9 @@
 | 548 | 927 | Wes Acton |
 | 549 | 925 | blume |
 | 550 | 925 | Cris cris |
-| 551 | 923 | Danielle Simmons |
+| 551 | 923 | Chevy |
 | 552 | 923 | Giggy Mover |
-| 553 | 923 | Chevy |
+| 553 | 923 | Danielle Simmons |
 | 554 | 922 | Butta |
 | 555 | 921 | Dannette Goldberg-Richards |
 | 556 | 920 | Miranda Jackson |
@@ -664,8 +664,8 @@
 | 656 | 806 | Eunique Griffin |
 | 657 | 798 | Daniell Martinez |
 | 658 | 797 | Moist_B-hole |
-| 659 | 796 | Brianna Cerney |
-| 660 | 796 | Trevor Jordan |
+| 659 | 796 | Trevor Jordan |
+| 660 | 796 | Brianna Cerney |
 | 661 | 795 | Alexandra Weir |
 | 662 | 793 | Heather Anspaugh |
 | 663 | 793 | Joseph Musick |
@@ -1153,8 +1153,8 @@
 | 1145 | 528 | Besma Ao |
 | 1146 | 528 | Kyle LeRoy Harris |
 | 1147 | 528 | Justin Hines |
-| 1148 | 528 | Megan Balderas |
-| 1149 | 528 | CupCake |
+| 1148 | 528 | CupCake |
+| 1149 | 528 | Megan Balderas |
 | 1150 | 527 | Jes Norris |
 | 1151 | 526 | Marcus Ken Wilcox |
 | 1152 | 526 | Heidi Kent |
@@ -1258,8 +1258,8 @@
 | 1250 | 491 | Bryan Werleman |
 | 1251 | 490 | Andrew Fisher |
 | 1252 | 490 | Lianne Giandalone LaBounty |
-| 1253 | 489 | Reese Hayes |
-| 1254 | 489 | Kelsey Sullivan |
+| 1253 | 489 | Kelsey Sullivan |
+| 1254 | 489 | Reese Hayes |
 | 1255 | 489 | Jennifer Mahon |
 | 1256 | 489 | Michael David Hollis |
 | 1257 | 489 | Chenchun Ma |

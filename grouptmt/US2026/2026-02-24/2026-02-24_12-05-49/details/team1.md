@@ -98,8 +98,8 @@
 | 90 | 916 | Chirpy Smasher |
 | 91 | 912 | comrade fish |
 | 92 | 904 | Fmp |
-| 93 | 898 | Dawn Sheppard |
-| 94 | 898 | Cheeky Crusher |
+| 93 | 898 | Cheeky Crusher |
+| 94 | 898 | Dawn Sheppard |
 | 95 | 892 | Seth Wesson |
 | 96 | 889 | Amanda Johnson Huffman |
 | 97 | 884 | Sevens4L |
@@ -116,8 +116,8 @@
 | 108 | 791 | Greg Hart |
 | 109 | 782 | Karin Gillen |
 | 110 | 781 | Ash Galvan |
-| 111 | 773 | Cartier |
-| 112 | 773 | Susanna Guerry |
+| 111 | 773 | Susanna Guerry |
+| 112 | 773 | Cartier |
 | 113 | 772 | Kathy Langham |
 | 114 | 770 | Zappy Curvetile |
 | 115 | 768 | Jazzy Framezone |
@@ -530,8 +530,8 @@
 | 522 | 246 | ken |
 | 523 | 246 | Frothy Blockbuilder |
 | 524 | 245 | Theeranart Mahawan |
-| 525 | 244 | Kristen Meehan Wangerien |
-| 526 | 244 | Mrsbigdawg |
+| 525 | 244 | Mrsbigdawg |
+| 526 | 244 | Kristen Meehan Wangerien |
 | 527 | 243 | Gerald Richard Franke |
 | 528 | 242 | Joshua Weeder |
 | 529 | 242 | Stephanie Leday |
