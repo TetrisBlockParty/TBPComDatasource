@@ -45,8 +45,8 @@
 | 37 | 1515 | Felicia Lewis |
 | 38 | 1405 | Chipper Gridlock |
 | 39 | 1391 | Aaron Garnett |
-| 40 | 1334 | Tyler Alcock |
-| 41 | 1334 | june october |
+| 40 | 1334 | june october |
+| 41 | 1334 | Tyler Alcock |
 | 42 | 1321 | Drew Magnus |
 | 43 | 1291 | Marianne Louise West |
 | 44 | 1290 | Spunky Piecebuilder |
@@ -238,8 +238,8 @@
 | 230 | 421 | Letson Melissa |
 | 231 | 421 | Plucky Stacky |
 | 232 | 420 | Jennifer Noe Chandler |
-| 233 | 419 | John J. Cronin |
-| 234 | 419 | Daring Fitclear |
+| 233 | 419 | Daring Fitclear |
+| 234 | 419 | John J. Cronin |
 | 235 | 416 | Jessica Sheehan |
 | 236 | 414 | Bird Person |
 | 237 | 414 | Tawnya Peltonen |
@@ -521,8 +521,8 @@
 | 513 | 233 | Jonah Dunn |
 | 514 | 232 | Nerdy Curvebuilder |
 | 515 | 231 | Alex Nicol |
-| 516 | 230 | Peppy Columnbuilder |
-| 517 | 230 | Panda Thagreat |
+| 516 | 230 | Panda Thagreat |
+| 517 | 230 | Peppy Columnbuilder |
 | 518 | 230 | Lachelle Dillon |
 | 519 | 229 | Jeff Jack II |
 | 520 | 229 | Epic Jumper |

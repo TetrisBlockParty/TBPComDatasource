@@ -104,8 +104,8 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Diana Ibarra |
-| 100 | 1318 | Tiff Vs Tiffany |
+| 99 | 1318 | Tiff Vs Tiffany |
+| 100 | 1318 | Diana Ibarra |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
@@ -172,8 +172,8 @@
 | 164 | 875 | Chasity |
 | 165 | 874 | Jessica Pineda-Lopez |
 | 166 | 871 | Rochelle Hazelett |
-| 167 | 868 | Nicole Flippo |
-| 168 | 868 | Cranky Gridder |
+| 167 | 868 | Cranky Gridder |
+| 168 | 868 | Nicole Flippo |
 | 169 | 864 | Sunny Rotater |
 | 170 | 862 | Santeria Trece Candles |
 | 171 | 859 | Domo Washington |
@@ -362,8 +362,8 @@
 | 354 | 449 | Lively Caster |
 | 355 | 447 | Num1hater |
 | 356 | 447 | Carrie Huskey |
-| 357 | 446 | Jennifer Alvey |
-| 358 | 446 | Shiny Zonebuilder |
+| 357 | 446 | Shiny Zonebuilder |
+| 358 | 446 | Jennifer Alvey |
 | 359 | 445 | Loopy Clusterer |
 | 360 | 444 | Heather De Vries Cobb |
 | 361 | 443 | Christian Werndl |
@@ -464,7 +464,7 @@
 | 456 | 357 | Hoài Quắt |
 | 457 | 356 | Trice Sodames |
 | 458 | 355 | Kevin Russell |
-| 459 | 353 | Eboni G. |
+| 459 | 353 | Nikkie Bucciano |
 | 460 | 353 | Cheeky Snapper |
 | 461 | 353 | Eboni G. |
 | 462 | 352 | LadyTorad |

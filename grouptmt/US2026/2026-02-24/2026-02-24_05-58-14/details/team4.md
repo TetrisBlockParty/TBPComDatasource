@@ -210,15 +210,15 @@
 | 202 | 502 | Ericca Eldridge |
 | 203 | 501 | Sharyn Lemire |
 | 204 | 499 | Kesha Brady |
-| 205 | 496 | Jessica Bohlken |
-| 206 | 496 | Lori |
+| 205 | 496 | Lori |
+| 206 | 496 | Jessica Bohlken |
 | 207 | 495 | Joeliecea Cobb |
 | 208 | 493 | Amanda Pauldo-Ivy |
 | 209 | 481 | Joanna |
 | 210 | 478 | Casey Grabner |
 | 211 | 475 | Silly Zonebuilder |
-| 212 | 473 | Jolly Dashfit |
-| 213 | 473 | Cranky Rollpiece |
+| 212 | 473 | Cranky Rollpiece |
+| 213 | 473 | Jolly Dashfit |
 | 214 | 467 | 🥔🥔 Spudz |
 | 215 | 465 | June Hoffman |
 | 216 | 464 | Zakia Monae |
@@ -236,8 +236,8 @@
 | 228 | 448 | Mike Solo |
 | 229 | 448 | Mr. Party |
 | 230 | 447 | Jen Mattei |
-| 231 | 444 | Selena Shaw |
-| 232 | 444 | Calvin Cannon |
+| 231 | 444 | Calvin Cannon |
+| 232 | 444 | Selena Shaw |
 | 233 | 442 | John Brunetti |
 | 234 | 441 | Lush Linkfall |
 | 235 | 438 | 23 |
@@ -270,8 +270,8 @@
 | 262 | 407 | Rafael Valentin |
 | 263 | 402 | Nita Wells |
 | 264 | 399 | Twisty Cascadezone |
-| 265 | 398 | Tyler Terrific |
-| 266 | 398 | Nerdy Twisterfit |
+| 265 | 398 | Nerdy Twisterfit |
+| 266 | 398 | Tyler Terrific |
 | 267 | 397 | blockstar |
 | 268 | 395 | Laura |
 | 269 | 395 | BigSammy420 |
@@ -283,8 +283,8 @@
 | 275 | 390 | Ari Droff |
 | 276 | 382 | Sue Joyce Staats |
 | 277 | 380 | Chaz |
-| 278 | 380 | Holly Jolly |
-| 279 | 380 | Jen Caldwell |
+| 278 | 380 | Jen Caldwell |
+| 279 | 380 | Holly Jolly |
 | 280 | 379 | Backoff Recupe |
 | 281 | 378 | Googenheim |
 | 282 | 378 | Mary Ann Pabukis |
