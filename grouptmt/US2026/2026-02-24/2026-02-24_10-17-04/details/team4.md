@@ -112,8 +112,8 @@
 | 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
-| 107 | 813 | Amy Suckarieh |
-| 108 | 813 | Klo |
+| 107 | 813 | Klo |
+| 108 | 813 | Amy Suckarieh |
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
@@ -135,8 +135,8 @@
 | 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 719 | George Nutt |
-| 130 | 712 | Leslie Nicole |
-| 131 | 712 | H.R. Block |
+| 130 | 712 | H.R. Block |
+| 131 | 712 | Leslie Nicole |
 | 132 | 708 | Jacqueline Helm |
 | 133 | 704 | Austin Owens |
 | 134 | 704 | Chilly Crasher |
@@ -157,8 +157,8 @@
 | 149 | 638 | Porkobello |
 | 150 | 635 | Kim Hunt |
 | 151 | 634 | Carrie Brian |
-| 152 | 633 | Jessica Lynn Cutlip |
-| 153 | 633 | Adam Stephanie Parker |
+| 152 | 633 | Adam Stephanie Parker |
+| 153 | 633 | Jessica Lynn Cutlip |
 | 154 | 629 | Chris Baggett |
 | 155 | 623 | ku5hkween |
 | 156 | 622 | Ernest Maxwell |
@@ -195,10 +195,10 @@
 | 187 | 536 | JPW |
 | 188 | 535 | Berklie Apedaile |
 | 189 | 534 | Lucas J Sutton |
-| 190 | 532 | Matt Summer |
+| 190 | 532 | Carly Alexis |
 | 191 | 532 | Alan George LaRage |
 | 192 | 532 | Lori |
-| 193 | 532 | Carly Alexis |
+| 193 | 532 | Matt Summer |
 | 194 | 528 | Erin Sabol |
 | 195 | 525 | 🥔🥔 Spudz |
 | 196 | 520 | Zippy Block |
@@ -244,8 +244,8 @@
 | 236 | 457 | J-Rizzle |
 | 237 | 457 | Kristin Manee |
 | 238 | 455 | Michele Plunkett |
-| 239 | 454 | David Lay |
-| 240 | 454 | Keshia Lyons |
+| 239 | 454 | Keshia Lyons |
+| 240 | 454 | David Lay |
 | 241 | 450 | Genne Scott |
 | 242 | 449 | Danielle Kollias |
 | 243 | 448 | Mike Solo |
@@ -254,8 +254,8 @@
 | 246 | 444 | Selena Shaw |
 | 247 | 442 | John Brunetti |
 | 248 | 441 | Lush Linkfall |
-| 249 | 438 | 23 |
-| 250 | 438 | Melvin Baird |
+| 249 | 438 | Melvin Baird |
+| 250 | 438 | 23 |
 | 251 | 435 | Chris Bernstein |
 | 252 | 434 | Ramel Rhodes |
 | 253 | 432 | scott |
@@ -277,12 +277,12 @@
 | 269 | 409 | Joseph Guthrie |
 | 270 | 408 | Lauren Scott |
 | 271 | 408 | Dihcheese444 |
-| 272 | 407 | Rafael Valentin |
-| 273 | 407 | Hyper Builder |
+| 272 | 407 | Hyper Builder |
+| 273 | 407 | Rafael Valentin |
 | 274 | 404 | Crystal Lynn |
 | 275 | 402 | Nita Wells |
-| 276 | 399 | Brittany Little |
-| 277 | 399 | Twisty Cascadezone |
+| 276 | 399 | Twisty Cascadezone |
+| 277 | 399 | Brittany Little |
 | 278 | 398 | Tyler Terrific |
 | 279 | 397 | blockstar |
 | 280 | 395 | Denise B |
@@ -376,8 +376,8 @@
 | 368 | 317 | Paito |
 | 369 | 317 | Madison Sweere |
 | 370 | 316 | Shukee Lo |
-| 371 | 315 | Ultramarine |
-| 372 | 315 | Maureen Flanigan |
+| 371 | 315 | Maureen Flanigan |
+| 372 | 315 | Ultramarine |
 | 373 | 315 | Glitzy Corner |
 | 374 | 314 | KoolMom9907 |
 | 375 | 314 | Marcus TheeyoungWoe Gilmore |
@@ -430,15 +430,15 @@
 | 422 | 280 | Frances Hui |
 | 423 | 280 | Chummy Towerzone |
 | 424 | 279 | Ziggy |
-| 425 | 278 | L Bear Champion |
-| 426 | 278 | Shainne Brewer |
-| 427 | 277 | Maria Hammie |
+| 425 | 278 | Shainne Brewer |
+| 426 | 278 | L Bear Champion |
+| 427 | 277 | Silly SeaWeed |
 | 428 | 277 | Jess Reyes |
-| 429 | 277 | Silly SeaWeed |
+| 429 | 277 | Maria Hammie |
 | 430 | 276 | Dennis Bradley |
 | 431 | 275 | Jarred Falls |
-| 432 | 274 | Cheery Fitline |
-| 433 | 274 | Hector Duran |
+| 432 | 274 | Hector Duran |
+| 433 | 274 | Cheery Fitline |
 | 434 | 274 | Kourtney Barnes |
 | 435 | 273 | Lane Wasson |
 | 436 | 272 | ChuckBuck Copeland |
