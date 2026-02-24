@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 15:13:23 UTC
+# Standings for team4 as of 2026-02-24 15:14:42 UTC
 
 **Total Participants:** 2043
 
@@ -17,7 +17,7 @@
 | 9 | 4270 | Alicia Bass |
 | 10 | 4007 | Anthony Magaraci |
 | 11 | 3721 | Tina Martinez |
-| 12 | 3671 | Roger Coulter |
+| 12 | 3676 | Roger Coulter |
 | 13 | 3428 | Melissa Adams |
 | 14 | 3103 | Leah Gorsuch |
 | 15 | 3040 | Denny Shives |
@@ -53,8 +53,8 @@
 | 45 | 1505 | Sammy Noguera |
 | 46 | 1504 | LS |
 | 47 | 1497 | Juggalo |
-| 48 | 1461 | Yoset Mejia |
-| 49 | 1461 | Shane Kalamata Platoon |
+| 48 | 1461 | Shane Kalamata Platoon |
+| 49 | 1461 | Yoset Mejia |
 | 50 | 1456 | Michelle Marie |
 | 51 | 1436 | Jen Allison |
 | 52 | 1410 | Rachel Anne |
@@ -70,9 +70,9 @@
 | 62 | 1177 | Julian Garcia |
 | 63 | 1175 | Kimyatta Cavin |
 | 64 | 1145 | Avy Absol |
-| 65 | 1129 | Livvy |
-| 66 | 1127 | Denia Deni |
-| 67 | 1125 | Chilly Line |
+| 65 | 1134 | Chilly Line |
+| 66 | 1129 | Livvy |
+| 67 | 1127 | Denia Deni |
 | 68 | 1124 | Keith Kelley |
 | 69 | 1119 | Amelpss |
 | 70 | 1118 | BertMofo |
@@ -133,7 +133,7 @@
 | 125 | 753 | Brandon Crabbs |
 | 126 | 748 | Leslie Nicole |
 | 127 | 745 | Adawna Swires |
-| 128 | 742 | Sam Bishop |
+| 128 | 745 | Sam Bishop |
 | 129 | 740 | Nerdy Twisterfit |
 | 130 | 735 | Nugget |
 | 131 | 734 | Matt Gooder |
@@ -292,9 +292,9 @@
 | 284 | 408 | Neirrah B Olailjeel |
 | 285 | 408 | Dihcheese444 |
 | 286 | 407 | blockstar |
-| 287 | 407 | Hyper Builder |
-| 288 | 404 | Tawna Curry |
-| 289 | 404 | Denise B |
+| 287 | 407 | Denise B |
+| 288 | 407 | Hyper Builder |
+| 289 | 404 | Tawna Curry |
 | 290 | 403 | Twisty Risebuilder |
 | 291 | 402 | Maria Hammie |
 | 292 | 400 | Jen Caldwell |
@@ -381,8 +381,8 @@
 | 373 | 330 | Stephme310 |
 | 374 | 329 | Meagan Nicole |
 | 375 | 328 | Leah Kutz Zirbel |
-| 376 | 326 | Lazy Glidepiece |
-| 377 | 326 | Jess Reyes |
+| 376 | 328 | Jess Reyes |
+| 377 | 326 | Lazy Glidepiece |
 | 378 | 325 | Dustin York |
 | 379 | 324 | Groovy Shiftspin |
 | 380 | 324 | tipsy tiger |
@@ -1183,58 +1183,58 @@
 | 1175 | 82 | Loony Puzzler |
 | 1176 | 82 | Wacky Fitzone |
 | 1177 | 82 | Marjorie Sims Rentz |
-| 1178 | 82 | Kimberly Paxton |
-| 1179 | 82 | Breezy Grid |
+| 1178 | 82 | Breezy Grid |
+| 1179 | 82 | Kimberly Paxton |
 | 1180 | 82 | Zippy Linkmatch |
-| 1181 | 81 | Tiffany Root |
-| 1182 | 81 | Natasha Lee |
-| 1183 | 81 | Dreamy Tiler |
-| 1184 | 81 | Garrett G-luv Kyser |
-| 1185 | 81 | Colleen Brown |
-| 1186 | 81 | Ace317 |
-| 1187 | 81 | Jess |
-| 1188 | 81 | Joan Du |
-| 1189 | 81 | Jay-Remy Stringseer |
-| 1190 | 81 | Rob Chebetar |
+| 1181 | 81 | Natasha Lee |
+| 1182 | 81 | Tiffany Root |
+| 1183 | 81 | Rob Chebetar |
+| 1184 | 81 | Jay-Remy Stringseer |
+| 1185 | 81 | Joan Du |
+| 1186 | 81 | Jess |
+| 1187 | 81 | Ace317 |
+| 1188 | 81 | Colleen Brown |
+| 1189 | 81 | Garrett G-luv Kyser |
+| 1190 | 81 | Dreamy Tiler |
 | 1191 | 80 | Erin DeArman |
-| 1192 | 80 | Arthur Reeves Jr. |
-| 1193 | 80 | jay |
-| 1194 | 80 | Joshua A Bea |
-| 1195 | 80 | Boldy Linkfall |
-| 1196 | 80 | Jr McQue |
+| 1192 | 80 | Joshua A Bea |
+| 1193 | 80 | Arthur Reeves Jr. |
+| 1194 | 80 | jay |
+| 1195 | 80 | Jr McQue |
+| 1196 | 80 | Boldy Linkfall |
 | 1197 | 80 | Tonya |
 | 1198 | 80 | Og Knockout |
-| 1199 | 79 | Jessalyn Jordan Davis |
-| 1200 | 79 | Brian O'Neill |
-| 1201 | 79 | Joleeoleeooo |
-| 1202 | 79 | Jason M Cadreau |
-| 1203 | 79 | Kimberly Goncalves |
-| 1204 | 79 | Bubbly Edge |
-| 1205 | 79 | AnitaMann |
-| 1206 | 78 | Terra McGee |
-| 1207 | 78 | Bold Matcher |
-| 1208 | 78 | Bromine |
-| 1209 | 77 | Kris Zulch |
-| 1210 | 77 | Poppy Twistslam |
-| 1211 | 77 | Kris Brisco |
-| 1212 | 77 | Adam Hughes |
-| 1213 | 77 | Camille |
-| 1214 | 76 | Beth Ann |
-| 1215 | 76 | George Thomson Jr. |
+| 1199 | 80 | Leslie Parker |
+| 1200 | 79 | Jessalyn Jordan Davis |
+| 1201 | 79 | Brian O'Neill |
+| 1202 | 79 | Joleeoleeooo |
+| 1203 | 79 | Jason M Cadreau |
+| 1204 | 79 | Kimberly Goncalves |
+| 1205 | 79 | Bubbly Edge |
+| 1206 | 79 | AnitaMann |
+| 1207 | 78 | Terra McGee |
+| 1208 | 78 | Bold Matcher |
+| 1209 | 78 | Bromine |
+| 1210 | 77 | Kris Zulch |
+| 1211 | 77 | Poppy Twistslam |
+| 1212 | 77 | Kris Brisco |
+| 1213 | 77 | Adam Hughes |
+| 1214 | 77 | Camille |
+| 1215 | 76 | Beth Ann |
 | 1216 | 76 | Gage |
 | 1217 | 76 | Saucy Brickfit |
 | 1218 | 76 | Heather Hilferty |
-| 1219 | 76 | Jeannie Lee |
-| 1220 | 76 | Meli  Jackson |
-| 1221 | 75 | unrewound |
-| 1222 | 75 | Dmpster Fire |
-| 1223 | 75 | Nee |
-| 1224 | 75 | Dena Shoop |
-| 1225 | 75 | Twisty Towerpiece |
-| 1226 | 75 | Tina Connick |
-| 1227 | 75 | Jason Goldstein |
-| 1228 | 75 | Dizzy Tetrisline |
-| 1229 | 75 | Leslie Parker |
+| 1219 | 76 | Tina Connick |
+| 1220 | 76 | Jeannie Lee |
+| 1221 | 76 | Meli  Jackson |
+| 1222 | 76 | George Thomson Jr. |
+| 1223 | 75 | unrewound |
+| 1224 | 75 | Dmpster Fire |
+| 1225 | 75 | Nee |
+| 1226 | 75 | Dena Shoop |
+| 1227 | 75 | Twisty Towerpiece |
+| 1228 | 75 | Jason Goldstein |
+| 1229 | 75 | Dizzy Tetrisline |
 | 1230 | 74 | Amanda Lanctot |
 | 1231 | 74 | Demeitra McCaune |
 | 1232 | 74 | Eric Quan |
