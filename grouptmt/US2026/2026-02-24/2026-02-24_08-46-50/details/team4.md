@@ -146,8 +146,8 @@
 | 138 | 667 | Swanky Fitline |
 | 139 | 667 | Lindsey Gonzalez |
 | 140 | 662 | Nerdy Twisterfit |
-| 141 | 661 | shar |
-| 142 | 661 | Rodney McMath Jr. |
+| 141 | 661 | Rodney McMath Jr. |
+| 142 | 661 | shar |
 | 143 | 653 | Carmethia Clemons Haslerig |
 | 144 | 651 | Adawna Swires |
 | 145 | 650 | Chris Hartig |
@@ -207,14 +207,14 @@
 | 199 | 516 | Nick Gray |
 | 200 | 513 | Milan Markeisha |
 | 201 | 513 | Zesty Twistbuilder |
-| 202 | 512 | ThaEviLJeNiuZ |
-| 203 | 512 | Casey Jeffcoat |
-| 204 | 512 | Ellen Durfee |
+| 202 | 512 | Ellen Durfee |
+| 203 | 512 | ThaEviLJeNiuZ |
+| 204 | 512 | Casey Jeffcoat |
 | 205 | 509 | Mimi |
 | 206 | 507 | Andria Lynn |
 | 207 | 504 | Deanna Deckard |
-| 208 | 502 | Ericca Eldridge |
-| 209 | 502 | Christina Black |
+| 208 | 502 | Christina Black |
+| 209 | 502 | Ericca Eldridge |
 | 210 | 501 | Sharyn Lemire |
 | 211 | 499 | Kesha Brady |
 | 212 | 496 | Lori |
@@ -261,8 +261,8 @@
 | 253 | 430 | 030Synner |
 | 254 | 428 | Gdiguy |
 | 255 | 427 | Cheery Risebuilder |
-| 256 | 427 | Chao Ma |
-| 257 | 427 | Jeff Brian Gates |
+| 256 | 427 | Jeff Brian Gates |
+| 257 | 427 | Chao Ma |
 | 258 | 424 | Andrew Dang |
 | 259 | 421 | JIGsaw ~(•¿°)~ |
 | 260 | 419 | Hyper Matchclear |
@@ -281,8 +281,8 @@
 | 273 | 399 | Brittany Little |
 | 274 | 398 | Tyler Terrific |
 | 275 | 397 | blockstar |
-| 276 | 395 | Denise B |
-| 277 | 395 | BigSammy420 |
+| 276 | 395 | BigSammy420 |
+| 277 | 395 | Denise B |
 | 278 | 394 | Nikki Rae Gordon |
 | 279 | 393 | Montiette Mcglown |
 | 280 | 392 | Neirrah B Olailjeel |

@@ -195,8 +195,8 @@
 | 187 | 511 | MomMom |
 | 188 | 510 | Rat666 |
 | 189 | 501 | Jessica Russell |
-| 190 | 497 | Steve Schneider |
-| 191 | 497 | MIKOZ |
+| 190 | 497 | MIKOZ |
+| 191 | 497 | Steve Schneider |
 | 192 | 496 | Michelle Beres |
 | 193 | 496 | Sarah Somers Gray |
 | 194 | 495 | Connie |
@@ -236,8 +236,8 @@
 | 228 | 429 | Tana |
 | 229 | 427 | Ananda Mendez |
 | 230 | 427 | Jessie Lynn |
-| 231 | 426 | Betsy |
-| 232 | 426 | Brenda Alexander |
+| 231 | 426 | Brenda Alexander |
+| 232 | 426 | Betsy |
 | 233 | 425 | Tyler Werts |
 | 234 | 424 | Serina Marie |
 | 235 | 424 | Chelsea Dahlquist |
@@ -245,8 +245,8 @@
 | 237 | 424 | Lindsay Glover |
 | 238 | 423 | Howdi Duty |
 | 239 | 422 | Jamise Brown |
-| 240 | 421 | Letson Melissa |
-| 241 | 421 | Plucky Stacky |
+| 240 | 421 | Plucky Stacky |
+| 241 | 421 | Letson Melissa |
 | 242 | 420 | Jennifer Noe Chandler |
 | 243 | 419 | John J. Cronin |
 | 244 | 419 | Barrbaric |
@@ -324,9 +324,9 @@
 | 316 | 350 | Bouncy Line |
 | 317 | 347 | ParisandCory Champagne |
 | 318 | 346 | Gary Gobin |
-| 319 | 344 | dhardy |
-| 320 | 344 | Standia Civil |
-| 321 | 344 | Buttons Stemm |
+| 319 | 344 | Buttons Stemm |
+| 320 | 344 | dhardy |
+| 321 | 344 | Standia Civil |
 | 322 | 343 | Sweetts |
 | 323 | 342 | Marianita Garcia |
 | 324 | 342 | Matt Iaccheo |
@@ -360,8 +360,8 @@
 | 352 | 325 | Mitchel White |
 | 353 | 324 | Brave Wrecker |
 | 354 | 323 | Nadine Velardo |
-| 355 | 322 | Chris65 |
-| 356 | 322 | Hasty Columnbuilder |
+| 355 | 322 | Hasty Columnbuilder |
+| 356 | 322 | Chris65 |
 | 357 | 321 | LD1 |
 | 358 | 320 | Zany Tiler |
 | 359 | 319 | Crystal Cheresnowsky |

@@ -540,8 +540,8 @@
 | 532 | 925 | Cris cris |
 | 533 | 923 | Chevy |
 | 534 | 922 | Butta |
-| 535 | 921 | Elisheva Mizrachi |
-| 536 | 921 | Dannette Goldberg-Richards |
+| 535 | 921 | Dannette Goldberg-Richards |
+| 536 | 921 | Elisheva Mizrachi |
 | 537 | 920 | Arwa Fatimah |
 | 538 | 919 | Isaac Trappiel IV |
 | 539 | 918 | Draizen Montrell Thomas |
@@ -645,8 +645,8 @@
 | 637 | 798 | Daniell Martinez |
 | 638 | 797 | Moist_B-hole |
 | 639 | 796 | Brianna Cerney |
-| 640 | 795 | Aletha Williams |
-| 641 | 795 | Alexandra Weir |
+| 640 | 795 | Alexandra Weir |
+| 641 | 795 | Aletha Williams |
 | 642 | 793 | Heather Anspaugh |
 | 643 | 792 | Beatboxxer |
 | 644 | 789 | De'Jah Charncey |
@@ -708,10 +708,10 @@
 | 700 | 742 | Rhonda Petro |
 | 701 | 741 | Leah Keesling |
 | 702 | 741 | Ashley Munn |
-| 703 | 740 | Lylymom |
-| 704 | 740 | Jerry Tempelmeyer |
-| 705 | 740 | Lee Harper |
-| 706 | 740 | Joice Hansen |
+| 703 | 740 | Jerry Tempelmeyer |
+| 704 | 740 | Lylymom |
+| 705 | 740 | Joice Hansen |
+| 706 | 740 | Lee Harper |
 | 707 | 739 | Johanna Massaro |
 | 708 | 738 | Jessica S Flecha |
 | 709 | 737 | Ginger |

@@ -283,8 +283,8 @@
 | 275 | 590 | Marci Mize Fandrich |
 | 276 | 590 | PrncssPJ |
 | 277 | 588 | Salena Whitlock |
-| 278 | 586 | Donna |
-| 279 | 586 | Brian Battjes |
+| 278 | 586 | Brian Battjes |
+| 279 | 586 | Donna |
 | 280 | 582 | FuzzyNavel |
 | 281 | 581 | Crystal Hine |
 | 282 | 578 | James Mitchell |
@@ -314,8 +314,8 @@
 | 306 | 539 | Fancy Curver |
 | 307 | 539 | Kate M. Murdock |
 | 308 | 538 | Chummy Caster |
-| 309 | 536 | Giddy Twistbuilder |
-| 310 | 536 | Shannon Matthew Byers |
+| 309 | 536 | Shannon Matthew Byers |
+| 310 | 536 | Giddy Twistbuilder |
 | 311 | 535 | kacihall |
 | 312 | 533 | BugMansMom |
 | 313 | 532 | Sarah Muradyan |
@@ -328,8 +328,8 @@
 | 320 | 505 | Stephanie Simpson |
 | 321 | 504 | Daring Builder |
 | 322 | 500 | Ashley Tookes |
-| 323 | 499 | Megan Rathmanner |
-| 324 | 499 | Gumbo |
+| 323 | 499 | Gumbo |
+| 324 | 499 | Megan Rathmanner |
 | 325 | 496 | Brenda Schmid Wood |
 | 326 | 494 | fraulila |
 | 327 | 494 | MCV |
@@ -435,8 +435,8 @@
 | 427 | 384 | Tiffany Davie |
 | 428 | 383 | Amber Glover |
 | 429 | 383 | Jessica Christian |
-| 430 | 382 | Theresa Opell Gartner |
-| 431 | 382 | Katheline Lazo Luizaga |
+| 430 | 382 | Katheline Lazo Luizaga |
+| 431 | 382 | Theresa Opell Gartner |
 | 432 | 381 | Mary Giorgenti |
 | 433 | 380 | Foltz Lee Kelli |
 | 434 | 380 | neci |
@@ -1116,8 +1116,8 @@
 | 1108 | 176 | Armi |
 | 1109 | 175 | Hanul |
 | 1110 | 175 | Happy Winder |
-| 1111 | 175 | Alisha Osborne |
-| 1112 | 175 | Hanul |
+| 1111 | 175 | Crystal Byram |
+| 1112 | 175 | Alisha Osborne |
 | 1113 | 175 | taylove |
 | 1114 | 174 | Courtney Donovan |
 | 1115 | 174 | Nitty Gritty |
