@@ -167,8 +167,8 @@
 | 159 | 543 | Adrian Esteban |
 | 160 | 543 | Tipsy Riseclear |
 | 161 | 540 | Tonya Beasley |
-| 162 | 537 | BadG52 |
-| 163 | 537 | Stephanie Zahn |
+| 162 | 537 | Stephanie Zahn |
+| 163 | 537 | BadG52 |
 | 164 | 535 | Plucky Ziggy |
 | 165 | 533 | .running. |
 | 166 | 528 | ALFD |
@@ -207,8 +207,8 @@
 | 199 | 458 | Dizzy Slider |
 | 200 | 453 | Kimmie Kimms |
 | 201 | 448 | Yvonne Marie |
-| 202 | 446 | SkipTheSadSauce |
-| 203 | 446 | Spencer Lent |
+| 202 | 446 | Spencer Lent |
+| 203 | 446 | SkipTheSadSauce |
 | 204 | 442 | Reesey Enyart |
 | 205 | 441 | Kimberly Garcia |
 | 206 | 439 | Witty Builderfit |
@@ -263,10 +263,10 @@
 | 255 | 380 | Snippy Wipebuilder |
 | 256 | 379 | Austin James |
 | 257 | 378 | Eddie Dillon |
-| 258 | 377 | GATOR |
-| 259 | 377 | DoodleBug |
-| 260 | 376 | Billie Ann Eason |
-| 261 | 376 | Brian Richardsson |
+| 258 | 377 | DoodleBug |
+| 259 | 377 | GATOR |
+| 260 | 376 | Brian Richardsson |
+| 261 | 376 | Billie Ann Eason |
 | 262 | 376 | Sassy Builderline |
 | 263 | 375 | Colleen Pinette |
 | 264 | 375 | DaRascal |
@@ -332,12 +332,12 @@
 | 324 | 324 | Sylvia Vasquez |
 | 325 | 324 | Brave Wrecker |
 | 326 | 323 | Barrbaric |
-| 327 | 322 | Christina Norman |
-| 328 | 322 | Chris65 |
+| 327 | 322 | Chris65 |
+| 328 | 322 | Christina Norman |
 | 329 | 321 | LD1 |
 | 330 | 320 | Zany Tiler |
-| 331 | 319 | Fresno Beotoni |
-| 332 | 319 | Crystal Cheresnowsky |
+| 331 | 319 | Crystal Cheresnowsky |
+| 332 | 319 | Fresno Beotoni |
 | 333 | 317 | Bloknboy |
 | 334 | 316 | Giggly Builderline |
 | 335 | 315 | san |
@@ -347,10 +347,10 @@
 | 339 | 312 | Michael |
 | 340 | 312 | Diane Byrd |
 | 341 | 311 | Nathan Sealander |
-| 342 | 310 | Steph |
-| 343 | 310 | Marci Sanders |
-| 344 | 308 | Katie Martin |
-| 345 | 308 | Agustin Duarte Orozco |
+| 342 | 310 | Marci Sanders |
+| 343 | 310 | Steph |
+| 344 | 308 | Agustin Duarte Orozco |
+| 345 | 308 | Katie Martin |
 | 346 | 306 | Sunny Shift |
 | 347 | 305 | Damian Salem |
 | 348 | 305 | Tavia |
@@ -393,7 +393,7 @@
 | 385 | 282 | Chris Sigurdson |
 | 386 | 281 | Jessie |
 | 387 | 281 | Shiny Snapline |
-| 388 | 280 | Llewej Rekab |
+| 388 | 280 | Quirky Pusher |
 | 389 | 280 | Gina Bettikofer |
 | 390 | 280 | Llewej Rekab |
 | 391 | 280 | Bouncy Grid |
@@ -546,8 +546,8 @@
 | 538 | 214 | Kayla Marie Stevenson |
 | 539 | 214 | Nerdy Curvebuilder |
 | 540 | 213 | Shan Rock |
-| 541 | 212 | Matthew Foley |
-| 542 | 212 | Craig Mcgonigle |
+| 541 | 212 | Craig Mcgonigle |
+| 542 | 212 | Matthew Foley |
 | 543 | 211 | Bucketsmasher |
 | 544 | 211 | Starseed |
 | 545 | 210 | Madbull |

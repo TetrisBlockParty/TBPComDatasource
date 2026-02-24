@@ -220,8 +220,8 @@
 | 212 | 1678 | Jane Fong |
 | 213 | 1677 | Teddi Notyalc |
 | 214 | 1669 | Mischelle Clay |
-| 215 | 1661 | Danielle Johnson-Chandler |
-| 216 | 1661 | Scott Treadway |
+| 215 | 1661 | Scott Treadway |
+| 216 | 1661 | Danielle Johnson-Chandler |
 | 217 | 1656 | Binyah-Binyah |
 | 218 | 1655 | Glitzy Stackzone |
 | 219 | 1651 | Luna |
@@ -292,8 +292,8 @@
 | 284 | 1348 | Ann Knutson Anderson |
 | 285 | 1342 | Groovy Puzzle |
 | 286 | 1342 | Kelly A Green-Leach |
-| 287 | 1341 | Cassie Mercer |
-| 288 | 1341 | Moose Griffith |
+| 287 | 1341 | Moose Griffith |
+| 288 | 1341 | Cassie Mercer |
 | 289 | 1338 | Diallo Sparkman |
 | 290 | 1337 | Lucky Ladybug |
 | 291 | 1336 | Frothy Rumbler |
