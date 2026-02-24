@@ -99,8 +99,8 @@
 | 91 | 878 | Lucille Truesdale |
 | 92 | 873 | Courtney Cicoria |
 | 93 | 869 | Judy Cox |
-| 94 | 864 | Guy Incognito |
-| 95 | 864 | Samantha Peterson |
+| 94 | 864 | Samantha Peterson |
+| 95 | 864 | Guy Incognito |
 | 96 | 854 | Shauna Havard |
 | 97 | 851 | Jason Hart |
 | 98 | 846 | Christine Marie |
@@ -112,8 +112,8 @@
 | 104 | 813 | Klo |
 | 105 | 811 | Sassy Pattern |
 | 106 | 806 | Lori Walker |
-| 107 | 802 | Crystal Carroll |
-| 108 | 802 | Denise Carlson |
+| 107 | 802 | Denise Carlson |
+| 108 | 802 | Crystal Carroll |
 | 109 | 801 | D3TROITB0RN74 |
 | 110 | 798 | Jewell Urban |
 | 111 | 781 | Brittney Griggs |
@@ -130,11 +130,11 @@
 | 122 | 735 | Nugget |
 | 123 | 731 | KJ Pool |
 | 124 | 729 | Jamie Mann-Deichmann |
-| 125 | 726 | Jamie Gustafson |
-| 126 | 726 | Amy Suckarieh |
+| 125 | 726 | Amy Suckarieh |
+| 126 | 726 | Jamie Gustafson |
 | 127 | 725 | Brandon Crabbs |
-| 128 | 712 | Leslie Nicole |
-| 129 | 712 | H.R. Block |
+| 128 | 712 | H.R. Block |
+| 129 | 712 | Leslie Nicole |
 | 130 | 708 | Jacqueline Helm |
 | 131 | 704 | Chilly Crasher |
 | 132 | 704 | Austin Owens |
@@ -232,8 +232,8 @@
 | 224 | 464 | Zakia Monae |
 | 225 | 463 | shark tato |
 | 226 | 462 | Crystal Nicolette Moore |
-| 227 | 460 | Calvin Cannon |
-| 228 | 460 | Kathy Brookins |
+| 227 | 460 | Kathy Brookins |
+| 228 | 460 | Calvin Cannon |
 | 229 | 458 | Luis Martinez |
 | 230 | 458 | Kristina Black |
 | 231 | 457 | J-Rizzle |
@@ -241,8 +241,8 @@
 | 233 | 455 | Michele Plunkett |
 | 234 | 454 | Keshia Lyons |
 | 235 | 449 | Danielle Kollias |
-| 236 | 448 | Mr. Party |
-| 237 | 448 | Mike Solo |
+| 236 | 448 | Mike Solo |
+| 237 | 448 | Mr. Party |
 | 238 | 447 | Jen Mattei |
 | 239 | 447 | Plucky Patternblock |
 | 240 | 444 | Selena Shaw |

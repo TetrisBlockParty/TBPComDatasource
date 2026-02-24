@@ -47,8 +47,8 @@
 | 39 | 1411 | Snappy Swiper |
 | 40 | 1405 | Chipper Gridlock |
 | 41 | 1391 | Aaron Garnett |
-| 42 | 1334 | Tyler Alcock |
-| 43 | 1334 | june october |
+| 42 | 1334 | june october |
+| 43 | 1334 | Tyler Alcock |
 | 44 | 1325 | Drew Magnus |
 | 45 | 1305 | Michelle Nicole |
 | 46 | 1291 | Marianne Louise West |
@@ -358,8 +358,8 @@
 | 350 | 325 | GringaLinga |
 | 351 | 324 | Brave Wrecker |
 | 352 | 323 | Nadine Velardo |
-| 353 | 322 | Chris65 |
-| 354 | 322 | Hasty Columnbuilder |
+| 353 | 322 | Hasty Columnbuilder |
+| 354 | 322 | Chris65 |
 | 355 | 321 | LD1 |
 | 356 | 320 | Zany Tiler |
 | 357 | 319 | Fresno Beotoni |

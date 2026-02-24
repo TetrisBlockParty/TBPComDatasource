@@ -82,8 +82,8 @@
 | 74 | 1633 | cowboy25469 |
 | 75 | 1625 | Queen Kam |
 | 76 | 1615 | joclisa |
-| 77 | 1566 | Marcie Bressler |
-| 78 | 1566 | Nerdy Riseclear |
+| 77 | 1566 | Nerdy Riseclear |
+| 78 | 1566 | Marcie Bressler |
 | 79 | 1560 | Logan Naccarato |
 | 80 | 1555 | Snappy Glidepiece |
 | 81 | 1518 | Christine Filson |
@@ -172,8 +172,8 @@
 | 164 | 875 | Chasity |
 | 165 | 874 | Jessica Pineda-Lopez |
 | 166 | 871 | Rochelle Hazelett |
-| 167 | 868 | Nicole Flippo |
-| 168 | 868 | Cranky Gridder |
+| 167 | 868 | Cranky Gridder |
+| 168 | 868 | Nicole Flippo |
 | 169 | 866 | Domo Washington |
 | 170 | 864 | Sunny Rotater |
 | 171 | 862 | Santeria Trece Candles |
@@ -231,8 +231,8 @@
 | 223 | 709 | Christine Niles |
 | 224 | 708 | Stephanie Bradley |
 | 225 | 703 | Shawn Miller |
-| 226 | 691 | Snappy Balancer |
-| 227 | 691 | Tia |
+| 226 | 691 | Tia |
+| 227 | 691 | Snappy Balancer |
 | 228 | 687 | joz |
 | 229 | 675 | Terry Jo Jones |
 | 230 | 662 | Jim Mathews |
@@ -252,8 +252,8 @@
 | 244 | 633 | Jillian Symons |
 | 245 | 630 | Jackie Miller |
 | 246 | 629 | rnr junky |
-| 247 | 627 | Juliana Dottore |
-| 248 | 627 | Louise Stacy Sisson |
+| 247 | 627 | Louise Stacy Sisson |
+| 248 | 627 | Juliana Dottore |
 | 249 | 626 | Cheryl Hinch Tenbrook |
 | 250 | 625 | Jacqueline Rodriguez |
 | 251 | 624 | Hyper Matchzone |
@@ -261,8 +261,8 @@
 | 253 | 623 | Giggy Glidepiece |
 | 254 | 620 | Tamara Deherrera |
 | 255 | 619 | Swanky Snapclear |
-| 256 | 618 | Betty Bóò |
-| 257 | 618 | Kaitie Oliver |
+| 256 | 618 | Kaitie Oliver |
+| 257 | 618 | Betty Bóò |
 | 258 | 606 | Connie Mohler-Fair |
 | 259 | 605 | Sarah Cowan Burgos |
 | 260 | 604 | Sherry Ogden |
@@ -274,8 +274,8 @@
 | 266 | 594 | Cozy Snaplink |
 | 267 | 590 | Marci Mize Fandrich |
 | 268 | 588 | Salena Whitlock |
-| 269 | 586 | Brian Battjes |
-| 270 | 586 | Donna |
+| 269 | 586 | Donna |
+| 270 | 586 | Brian Battjes |
 | 271 | 582 | FuzzyNavel |
 | 272 | 581 | Crystal Hine |
 | 273 | 578 | James Mitchell |
@@ -334,8 +334,8 @@
 | 326 | 490 | Cassandra Bryant |
 | 327 | 489 | Isabel Ocasio |
 | 328 | 487 | MsBee |
-| 329 | 486 | Sleepy |
-| 330 | 486 | Skippy |
+| 329 | 486 | Skippy |
+| 330 | 486 | Sleepy |
 | 331 | 482 | Chummy Rumbler |
 | 332 | 481 | Tiffanie Alley |
 | 333 | 480 | TLM |
@@ -358,11 +358,11 @@
 | 350 | 459 | Randy Clevenger |
 | 351 | 459 | TotoCherue |
 | 352 | 457 | Snippy Wipeout |
-| 353 | 456 | Kelly |
-| 354 | 456 | Cynthia Herrmann Egland |
+| 353 | 456 | Cynthia Herrmann Egland |
+| 354 | 456 | Kelly |
 | 355 | 455 | Kelly Wolf |
-| 356 | 450 | Luciana Braganca Vieira |
-| 357 | 450 | Stefanie LaPointe |
+| 356 | 450 | Stefanie LaPointe |
+| 357 | 450 | Luciana Braganca Vieira |
 | 358 | 449 | Lively Caster |
 | 359 | 447 | Carrie Huskey |
 | 360 | 447 | Num1hater |
@@ -401,9 +401,9 @@
 | 393 | 414 | RickyG |
 | 394 | 413 | Rick Poppen |
 | 395 | 411 | Beaudie Stroebel |
-| 396 | 409 | Goofy Fall |
+| 396 | 409 | Roary Danner |
 | 397 | 409 | Rich LeBlanc |
-| 398 | 409 | Roary Danner |
+| 398 | 409 | Goofy Fall |
 | 399 | 408 | Tiffany Ford |
 | 400 | 408 | Ashley Muncey |
 | 401 | 407 | Christina Spa |
@@ -417,13 +417,13 @@
 | 409 | 398 | Breezy Roll |
 | 410 | 397 | Hasty Gridpiece |
 | 411 | 393 | keni |
-| 412 | 392 | Michelle Allers |
-| 413 | 392 | Linda Draper |
-| 414 | 391 | gremicx |
-| 415 | 391 | Rebel124 |
+| 412 | 392 | Linda Draper |
+| 413 | 392 | Michelle Allers |
+| 414 | 391 | Rebel124 |
+| 415 | 391 | gremicx |
 | 416 | 390 | ROODBOY |
-| 417 | 389 | Kirhonda Autmon |
-| 418 | 389 | Amanda J. Mcneil-Anderson |
+| 417 | 389 | Amanda J. Mcneil-Anderson |
+| 418 | 389 | Kirhonda Autmon |
 | 419 | 387 | Brittany K Ward |
 | 420 | 386 | Geoffrey Nash |
 | 421 | 384 | Tiffany Davie |
@@ -959,7 +959,7 @@
 | 951 | 201 | Erin McGinnis Reinhart |
 | 952 | 201 | Cozy Slice |
 | 953 | 200 | Donna S. Greene-Brathwaite |
-| 954 | 200 | MariahG |
+| 954 | 200 | glichmod |
 | 955 | 200 | Kacy Ramsey |
 | 956 | 200 | MariahG |
 | 957 | 199 | Chipper Piecefit |
