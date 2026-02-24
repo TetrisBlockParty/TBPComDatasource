@@ -367,8 +367,8 @@
 | 359 | 1252 | Brainy Smurf |
 | 360 | 1249 | Tristan Szolek |
 | 361 | 1245 | Angel Hunnewell |
-| 362 | 1237 | Cheech Dta |
-| 363 | 1237 | Christine Coughlin |
+| 362 | 1237 | Christine Coughlin |
+| 363 | 1237 | Cheech Dta |
 | 364 | 1233 | Shannon Joslin |
 | 365 | 1232 | Ambyre Patterson |
 | 366 | 1230 | Amber Gray |
@@ -471,9 +471,9 @@
 | 463 | 1032 | Alyssa Hileman |
 | 464 | 1031 | William Bresee |
 | 465 | 1025 | Ann Matzkanin |
-| 466 | 1024 | Susan Perraut Jones |
-| 467 | 1024 | KrisCynthia Lynette |
-| 468 | 1024 | Tiara Elizabeth Baker |
+| 466 | 1024 | Tiara Elizabeth Baker |
+| 467 | 1024 | Susan Perraut Jones |
+| 468 | 1024 | KrisCynthia Lynette |
 | 469 | 1022 | Jackie Burnett |
 | 470 | 1020 | Darla Silva |
 | 471 | 1019 | Glitzy Rollblock |
@@ -516,8 +516,8 @@
 | 508 | 965 | Lonne Emade |
 | 509 | 964 | John Bednarik |
 | 510 | 963 | Casper The Chonk |
-| 511 | 962 | Kathleen Driskell |
-| 512 | 962 | Antionette Sewell |
+| 511 | 962 | Antionette Sewell |
+| 512 | 962 | Kathleen Driskell |
 | 513 | 960 | Smashanator |
 | 514 | 958 | Jc Gilk |
 | 515 | 958 | Lisa Ongtowasruk |
@@ -1070,8 +1070,8 @@
 | 1062 | 556 | Kamilya Rembert |
 | 1063 | 555 | Noel Tarmy |
 | 1064 | 555 | Amy Roche |
-| 1065 | 554 | Hoppy Glidebuilder |
-| 1066 | 554 | Cheery Puzzler |
+| 1065 | 554 | Cheery Puzzler |
+| 1066 | 554 | Hoppy Glidebuilder |
 | 1067 | 554 | Asha Nichols-Collins |
 | 1068 | 554 | Dusti Rose Bingham |
 | 1069 | 553 | Sar Mo |

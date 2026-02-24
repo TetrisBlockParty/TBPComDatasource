@@ -68,8 +68,8 @@
 | 60 | 1931 | Denise Nardoni |
 | 61 | 1920 | Trezure Gonzalez |
 | 62 | 1858 | Kristie McFarland |
-| 63 | 1824 | Jessica Ann |
-| 64 | 1824 | Nate Burnside |
+| 63 | 1824 | Nate Burnside |
+| 64 | 1824 | Jessica Ann |
 | 65 | 1804 | Tina Kay |
 | 66 | 1791 | Leah Barnett |
 | 67 | 1776 | Whitney Manuel |
@@ -126,8 +126,8 @@
 | 118 | 1134 | Melissa Orth Hunter |
 | 119 | 1124 | Stephanie Rice |
 | 120 | 1121 | Corie A. Brinson |
-| 121 | 1114 | Loopy Fallmatch |
-| 122 | 1114 | Groovy Catcher |
+| 121 | 1114 | Groovy Catcher |
+| 122 | 1114 | Loopy Fallmatch |
 | 123 | 1105 | Adrian Marcel Pate |
 | 124 | 1093 | Angela M. Fletcher |
 | 125 | 1091 | Jennifer |
@@ -159,8 +159,8 @@
 | 151 | 950 | MissTaylor |
 | 152 | 950 | Giddy Drop |
 | 153 | 947 | Kellie Montgomery |
-| 154 | 940 | Patty Allen |
-| 155 | 940 | Stephanie Allmon |
+| 154 | 940 | Stephanie Allmon |
+| 155 | 940 | Patty Allen |
 | 156 | 936 | Dolores Falco |
 | 157 | 928 | Edwin Calvillo Jr. |
 | 158 | 925 | Cherry Parker |
@@ -176,16 +176,16 @@
 | 168 | 875 | Chasity |
 | 169 | 874 | Jessica Pineda-Lopez |
 | 170 | 871 | Rochelle Hazelett |
-| 171 | 868 | Nicole Flippo |
-| 172 | 868 | Cranky Gridder |
+| 171 | 868 | Cranky Gridder |
+| 172 | 868 | Nicole Flippo |
 | 173 | 866 | Domo Washington |
 | 174 | 864 | Sunny Rotater |
 | 175 | 862 | Santeria Trece Candles |
 | 176 | 857 | Dana Fox |
 | 177 | 856 | Dana Winters |
 | 178 | 854 | Speedy Bridger |
-| 179 | 847 | Daring Brickzone |
-| 180 | 847 | Daira Largen |
+| 179 | 847 | Daira Largen |
+| 180 | 847 | Daring Brickzone |
 | 181 | 846 | Nicole Myers |
 | 182 | 842 | Alexmac |
 | 183 | 829 | Patricia White |
@@ -207,8 +207,8 @@
 | 199 | 784 | Jone |
 | 200 | 783 | Julian Murphy |
 | 201 | 777 | Daryn Elliott |
-| 202 | 774 | Twisty Brick LT |
-| 203 | 774 | ren |
+| 202 | 774 | ren |
+| 203 | 774 | Twisty Brick LT |
 | 204 | 772 | Hasty Cascadefit |
 | 205 | 768 | Cyd061769 |
 | 206 | 766 | Tasha Gillespie |
@@ -275,18 +275,18 @@
 | 267 | 618 | Kaitie Oliver |
 | 268 | 606 | Connie Mohler-Fair |
 | 269 | 605 | Sarah Cowan Burgos |
-| 270 | 604 | Bmo |
-| 271 | 604 | Sherry Ogden |
+| 270 | 604 | Sherry Ogden |
+| 271 | 604 | Bmo |
 | 272 | 601 | Betty Rosas |
 | 273 | 600 | Natasha Jones |
 | 274 | 600 | Rynne Ellis |
 | 275 | 599 | Noyb Adam |
 | 276 | 598 | Kaycee Kay |
-| 277 | 594 | Cozy Snaplink |
-| 278 | 594 | Marci Mize Fandrich |
+| 277 | 594 | Marci Mize Fandrich |
+| 278 | 594 | Cozy Snaplink |
 | 279 | 588 | Salena Whitlock |
-| 280 | 586 | Brian Battjes |
-| 281 | 586 | Donna |
+| 280 | 586 | Donna |
+| 281 | 586 | Brian Battjes |
 | 282 | 582 | FuzzyNavel |
 | 283 | 581 | Crystal Hine |
 | 284 | 578 | James Mitchell |
@@ -601,9 +601,9 @@
 | 593 | 308 | Christine Foley |
 | 594 | 308 | Danetta McCadden |
 | 595 | 307 | Kristina Gardner |
-| 596 | 306 | BigE |
+| 596 | 306 | Alexis Ford |
 | 597 | 306 | Valerie Tarkington |
-| 598 | 306 | Alexis Ford |
+| 598 | 306 | BigE |
 | 599 | 305 | Frisky Stacker |
 | 600 | 304 | Tammy Rosenberry |
 | 601 | 304 | Carrie Resler |
@@ -1904,8 +1904,8 @@
 | 1896 | 81 | Bouncy Twistslam |
 | 1897 | 81 | Jessica Montoya |
 | 1898 | 81 | Breanna Zayas |
-| 1899 | 81 | Vhhh |
-| 1900 | 81 | Fevo |
+| 1899 | 81 | Fevo |
+| 1900 | 81 | Vhhh |
 | 1901 | 80 | Saint Thomas Jacques |
 | 1902 | 80 | Kydd |
 | 1903 | 80 | Tawanna Johnson |

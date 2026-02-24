@@ -73,8 +73,8 @@
 | 65 | 1119 | Amelpss |
 | 66 | 1109 | BertMofo |
 | 67 | 1089 | Alyssa Papen |
-| 68 | 1082 | Dion Crommarty |
-| 69 | 1082 | Avy Absol |
+| 68 | 1082 | Avy Absol |
+| 69 | 1082 | Dion Crommarty |
 | 70 | 1081 | Dustee Craddock-Harrison |
 | 71 | 1080 | Chilly Line |
 | 72 | 1069 | Heather Tushner |
@@ -116,8 +116,8 @@
 | 108 | 811 | Sassy Pattern |
 | 109 | 806 | Lori Walker |
 | 110 | 806 | Zippy Gridlock |
-| 111 | 802 | Crystal Carroll |
-| 112 | 802 | Denise Carlson |
+| 111 | 802 | Denise Carlson |
+| 112 | 802 | Crystal Carroll |
 | 113 | 801 | D3TROITB0RN74 |
 | 114 | 800 | Mylo Lipscomb |
 | 115 | 798 | Jewell Urban |
@@ -156,8 +156,8 @@
 | 148 | 638 | Porkobello |
 | 149 | 635 | Kim Hunt |
 | 150 | 634 | Carrie Brian |
-| 151 | 633 | Jessica Lynn Cutlip |
-| 152 | 633 | Adam Stephanie Parker |
+| 151 | 633 | Adam Stephanie Parker |
+| 152 | 633 | Jessica Lynn Cutlip |
 | 153 | 629 | Chris Baggett |
 | 154 | 623 | Angela Srubar-Norman |
 | 155 | 623 | ku5hkween |
@@ -213,8 +213,8 @@
 | 205 | 509 | Mimi |
 | 206 | 507 | Andria Lynn |
 | 207 | 504 | Deanna Deckard |
-| 208 | 502 | Ericca Eldridge |
-| 209 | 502 | Christina Black |
+| 208 | 502 | Christina Black |
+| 209 | 502 | Ericca Eldridge |
 | 210 | 501 | Sharyn Lemire |
 | 211 | 499 | DonMega |
 | 212 | 499 | Kesha Brady |
@@ -243,8 +243,8 @@
 | 235 | 457 | J-Rizzle |
 | 236 | 457 | Kristin Manee |
 | 237 | 455 | Michele Plunkett |
-| 238 | 454 | David Lay |
-| 239 | 454 | Keshia Lyons |
+| 238 | 454 | Keshia Lyons |
+| 239 | 454 | David Lay |
 | 240 | 450 | Genne Scott |
 | 241 | 449 | Danielle Kollias |
 | 242 | 448 | Mr. Party |
@@ -253,8 +253,8 @@
 | 245 | 444 | Selena Shaw |
 | 246 | 442 | John Brunetti |
 | 247 | 441 | Lush Linkfall |
-| 248 | 438 | Melvin Baird |
-| 249 | 438 | 23 |
+| 248 | 438 | 23 |
+| 249 | 438 | Melvin Baird |
 | 250 | 435 | Chris Bernstein |
 | 251 | 434 | Ramel Rhodes |
 | 252 | 433 | Damn Libra |
@@ -279,8 +279,8 @@
 | 271 | 407 | Hyper Builder |
 | 272 | 407 | Rafael Valentin |
 | 273 | 402 | Nita Wells |
-| 274 | 399 | Brittany Little |
-| 275 | 399 | Twisty Cascadezone |
+| 274 | 399 | Twisty Cascadezone |
+| 275 | 399 | Brittany Little |
 | 276 | 398 | Tyler Terrific |
 | 277 | 397 | blockstar |
 | 278 | 395 | Denise B |
@@ -290,8 +290,8 @@
 | 282 | 392 | Neirrah B Olailjeel |
 | 283 | 391 | mike |
 | 284 | 390 | Ari Droff |
-| 285 | 387 | Backoff Recupe |
-| 286 | 387 | Sandra Safford |
+| 285 | 387 | Sandra Safford |
+| 286 | 387 | Backoff Recupe |
 | 287 | 386 | Vic |
 | 288 | 382 | Sue Joyce Staats |
 | 289 | 380 | Jen Caldwell |
@@ -346,8 +346,8 @@
 | 338 | 336 | ZeeZee |
 | 339 | 335 | Snippy Puzzle |
 | 340 | 334 | Zethra Prenisha Rahming |
-| 341 | 331 | rebel4lyfe |
-| 342 | 331 | Angie Schmidt |
+| 341 | 331 | Angie Schmidt |
+| 342 | 331 | rebel4lyfe |
 | 343 | 330 | Duck |
 | 344 | 330 | Groovy Gridlock |
 | 345 | 329 | AyeKay |
@@ -418,8 +418,8 @@
 | 410 | 288 | Amy Jean |
 | 411 | 286 | Stephme310 |
 | 412 | 284 | Alexandra Karavias |
-| 413 | 284 | Shiny Pivoty |
-| 414 | 284 | Johnny R |
+| 413 | 284 | Johnny R |
+| 414 | 284 | Shiny Pivoty |
 | 415 | 282 | Sho Nuff |
 | 416 | 281 | Mackenzie Forrester |
 | 417 | 281 | Morti |
