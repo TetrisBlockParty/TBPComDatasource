@@ -485,8 +485,8 @@
 | 477 | 962 | Antionette Sewell |
 | 478 | 960 | Smashanator |
 | 479 | 960 | KhaosLord |
-| 480 | 957 | Jennie Lee Huntley |
-| 481 | 957 | Lonne Emade |
+| 480 | 957 | Lonne Emade |
+| 481 | 957 | Jennie Lee Huntley |
 | 482 | 956 | Jenn Marie |
 | 483 | 951 | Victoria Moore-Smith |
 | 484 | 950 | ToShi |
@@ -494,8 +494,8 @@
 | 486 | 946 | Nicky Jackson |
 | 487 | 946 | Crystal Greene |
 | 488 | 942 | Toni Lynn |
-| 489 | 942 | Fancy Twister |
-| 490 | 942 | Lisa Ongtowasruk |
+| 489 | 942 | Lisa Ongtowasruk |
+| 490 | 942 | Fancy Twister |
 | 491 | 941 | Cool Clearer |
 | 492 | 940 | Jennifer Leigh |
 | 493 | 938 | Connie Jimenez |

@@ -108,8 +108,8 @@
 | 100 | 773 | Susanna Guerry |
 | 101 | 772 | Kathy Langham |
 | 102 | 770 | Zappy Curvetile |
-| 103 | 769 | Angel Fowler |
-| 104 | 769 | Robert Benito |
+| 103 | 769 | Robert Benito |
+| 104 | 769 | Angel Fowler |
 | 105 | 768 | Jazzy Framezone |
 | 106 | 756 | Cartier |
 | 107 | 751 | Kellie |
@@ -204,8 +204,8 @@
 | 196 | 463 | Erin Rosberg |
 | 197 | 462 | Hasty Cascader |
 | 198 | 461 | Jessie Welch |
-| 199 | 458 | Elaine Elaine |
-| 200 | 458 | Dizzy Slider |
+| 199 | 458 | Dizzy Slider |
+| 200 | 458 | Elaine Elaine |
 | 201 | 458 | Goose egg |
 | 202 | 457 | Lori Bales |
 | 203 | 453 | Kimmie Kimms |

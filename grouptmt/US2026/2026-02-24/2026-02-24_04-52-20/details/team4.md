@@ -219,8 +219,8 @@
 | 211 | 473 | Cranky Rollpiece |
 | 212 | 465 | June Hoffman |
 | 213 | 464 | Zakia Monae |
-| 214 | 462 | Crystal Nicolette Moore |
-| 215 | 462 | Leslie Thomas |
+| 214 | 462 | Leslie Thomas |
+| 215 | 462 | Crystal Nicolette Moore |
 | 216 | 460 | Kathy Brookins |
 | 217 | 458 | Kristina Black |
 | 218 | 457 | J-Rizzle |
@@ -255,7 +255,7 @@
 | 247 | 413 | Jeff Brian Gates |
 | 248 | 411 | Autumn Kumzi |
 | 249 | 410 | Lindsay Ball |
-| 250 | 409 | Antony Dwayne Beasley |
+| 250 | 409 | Joseph Guthrie |
 | 251 | 409 | TinyLegoRose |
 | 252 | 409 | Antony Dwayne Beasley |
 | 253 | 408 | Lauren Scott |
@@ -420,8 +420,8 @@
 | 412 | 264 | AyeKay |
 | 413 | 264 | Allen Lloyd |
 | 414 | 263 | Laurmarcar |
-| 415 | 262 | Ruben Wheeler |
-| 416 | 262 | Lilya Troutman |
+| 415 | 262 | Lilya Troutman |
+| 416 | 262 | Ruben Wheeler |
 | 417 | 262 | Walter Beltran |
 | 418 | 261 | Laura McPheeters |
 | 419 | 261 | Jen Hallin |

@@ -152,8 +152,8 @@
 | 144 | 950 | Giddy Drop |
 | 145 | 950 | MissTaylor |
 | 146 | 943 | Katrina Schroeder |
-| 147 | 940 | Patty Allen |
-| 148 | 940 | Stephanie Allmon |
+| 147 | 940 | Stephanie Allmon |
+| 148 | 940 | Patty Allen |
 | 149 | 939 | Jamie Lang |
 | 150 | 936 | Dolores Falco |
 | 151 | 925 | Cherry Parker |
@@ -195,8 +195,8 @@
 | 187 | 783 | Julian Murphy |
 | 188 | 780 | Raya |
 | 189 | 777 | Daryn Elliott |
-| 190 | 774 | Twisty Brick LT |
-| 191 | 774 | ren |
+| 190 | 774 | ren |
+| 191 | 774 | Twisty Brick LT |
 | 192 | 773 | Daira Largen |
 | 193 | 772 | Tye Stovall |
 | 194 | 769 | Hasty Cascadefit |
@@ -206,8 +206,8 @@
 | 198 | 763 | Patricia White |
 | 199 | 760 | Kiki |
 | 200 | 757 | Fancy Cascader |
-| 201 | 755 | Laura Booth Wosko |
-| 202 | 755 | Alexmac |
+| 201 | 755 | Alexmac |
+| 202 | 755 | Laura Booth Wosko |
 | 203 | 753 | Morgan Martinez |
 | 204 | 750 | Michael Nowogorski |
 | 205 | 746 | Joye Sims Binion |
@@ -263,8 +263,8 @@
 | 255 | 598 | Kaycee Kay |
 | 256 | 595 | Betty Rosas |
 | 257 | 588 | Salena Whitlock |
-| 258 | 586 | Brian Battjes |
-| 259 | 586 | Donna |
+| 258 | 586 | Donna |
+| 259 | 586 | Brian Battjes |
 | 260 | 582 | FuzzyNavel |
 | 261 | 578 | James Mitchell |
 | 262 | 574 | Rachael McClain Owens |
