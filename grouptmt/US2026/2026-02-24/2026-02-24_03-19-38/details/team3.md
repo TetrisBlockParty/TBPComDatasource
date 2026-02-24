@@ -323,8 +323,8 @@
 | 315 | 471 | Mendoza Lee Christy |
 | 316 | 471 | Sarah Moyer |
 | 317 | 467 | Danielle Rhoades |
-| 318 | 465 | Noettín Kan Zasnemoore |
-| 319 | 465 | Blocked |
+| 318 | 465 | Blocked |
+| 319 | 465 | Noettín Kan Zasnemoore |
 | 320 | 464 | Danielle Weikel |
 | 321 | 463 | Charles Perrone |
 | 322 | 462 | Tegan Chapman |

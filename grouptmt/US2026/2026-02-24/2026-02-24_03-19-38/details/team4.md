@@ -249,13 +249,13 @@
 | 241 | 413 | Jeff Brian Gates |
 | 242 | 411 | Autumn Kumzi |
 | 243 | 410 | Lindsay Ball |
-| 244 | 409 | Joseph Guthrie |
-| 245 | 409 | Antony Dwayne Beasley |
+| 244 | 409 | Antony Dwayne Beasley |
+| 245 | 409 | Joseph Guthrie |
 | 246 | 408 | Lauren Scott |
 | 247 | 406 | TinyLegoRose |
 | 248 | 400 | Brickh4us |
-| 249 | 398 | Tyler Terrific |
-| 250 | 398 | Nerdy Twisterfit |
+| 249 | 398 | Nerdy Twisterfit |
+| 250 | 398 | Tyler Terrific |
 | 251 | 397 | blockstar |
 | 252 | 397 | blasterB |
 | 253 | 395 | 030Synner |
@@ -282,8 +282,8 @@
 | 274 | 370 | Kris Bartlett |
 | 275 | 369 | Matt Dell'Olio |
 | 276 | 367 | Meg |
-| 277 | 366 | Hyper Builder |
-| 278 | 366 | Andrew Dang |
+| 277 | 366 | Andrew Dang |
+| 278 | 366 | Hyper Builder |
 | 279 | 360 | James Hurley Jr. |
 | 280 | 359 | KimoKoala |
 | 281 | 358 | David Lay |

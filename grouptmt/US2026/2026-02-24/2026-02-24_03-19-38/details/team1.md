@@ -230,8 +230,8 @@
 | 222 | 419 | John J. Cronin |
 | 223 | 419 | Daring Fitclear |
 | 224 | 416 | Jessica Sheehan |
-| 225 | 414 | Tipsy Strikerpiece |
-| 226 | 414 | Bird Person |
+| 225 | 414 | Bird Person |
+| 226 | 414 | Tipsy Strikerpiece |
 | 227 | 413 | Ananda Mendez |
 | 228 | 412 | Connie |
 | 229 | 410 | Paula Martin |
@@ -269,8 +269,8 @@
 | 261 | 374 | Snappy Brickbuilder |
 | 262 | 373 | Frothy Pattern |
 | 263 | 372 | Dizzy Party |
-| 264 | 371 | Jaimie Lynn |
-| 265 | 371 | Eddie Dillon |
+| 264 | 371 | Eddie Dillon |
+| 265 | 371 | Jaimie Lynn |
 | 266 | 370 | Gracie |
 | 267 | 370 | Chantelle Ceno |
 | 268 | 368 | Letson Melissa |
