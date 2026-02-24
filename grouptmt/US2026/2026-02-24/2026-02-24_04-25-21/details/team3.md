@@ -255,8 +255,8 @@
 | 247 | 605 | Sarah Cowan Burgos |
 | 248 | 604 | Bmo |
 | 249 | 602 | Dee Pratt |
-| 250 | 600 | Connie Mohler-Fair |
-| 251 | 600 | Natasha Jones |
+| 250 | 600 | Natasha Jones |
+| 251 | 600 | Connie Mohler-Fair |
 | 252 | 599 | Sherry Ogden |
 | 253 | 599 | Noyb Adam |
 | 254 | 598 | Kaycee Kay |
@@ -288,8 +288,8 @@
 | 280 | 541 | Gray Hicks |
 | 281 | 540 | Tanya Kittrell |
 | 282 | 539 | Fancy Curver |
-| 283 | 536 | Shannon Matthew Byers |
-| 284 | 536 | Giddy Twistbuilder |
+| 283 | 536 | Giddy Twistbuilder |
+| 284 | 536 | Shannon Matthew Byers |
 | 285 | 535 | kacihall |
 | 286 | 534 | rosy |
 | 287 | 533 | Cheryl Hinch Tenbrook |
@@ -305,8 +305,8 @@
 | 297 | 517 | PrncssPJ |
 | 298 | 514 | Nikki White |
 | 299 | 511 | Marci Mize Fandrich |
-| 300 | 508 | Colton |
-| 301 | 508 | joz |
+| 300 | 508 | joz |
+| 301 | 508 | Colton |
 | 302 | 506 | Ammmmmmy |
 | 303 | 505 | Stephanie Simpson |
 | 304 | 500 | Ashley Tookes |
@@ -315,8 +315,8 @@
 | 307 | 494 | Megan Rathmanner |
 | 308 | 494 | MCV |
 | 309 | 492 | Tasha Wesson-Torrence |
-| 310 | 490 | Brenda Schmid Wood |
-| 311 | 490 | Cassandra Bryant |
+| 310 | 490 | Cassandra Bryant |
+| 311 | 490 | Brenda Schmid Wood |
 | 312 | 489 | Daring Builder |
 | 313 | 489 | Isabel Ocasio |
 | 314 | 486 | Skippy |

@@ -69,8 +69,8 @@
 | 61 | 1116 | Ashley Ingram |
 | 62 | 1098 | BertMofo |
 | 63 | 1089 | Alyssa Papen |
-| 64 | 1082 | Dion Crommarty |
-| 65 | 1082 | Avy Absol |
+| 64 | 1082 | Avy Absol |
+| 65 | 1082 | Dion Crommarty |
 | 66 | 1075 | Dustee Craddock-Harrison |
 | 67 | 1069 | Heather Tushner |
 | 68 | 1055 | Julian Garcia |
@@ -80,8 +80,8 @@
 | 72 | 1003 | Destiney Carter |
 | 73 | 999 | Jeremy Steines |
 | 74 | 986 | TeeJ |
-| 75 | 985 | Shelly Chandler |
-| 76 | 985 | Shannon Ferrari |
+| 75 | 985 | Shannon Ferrari |
+| 76 | 985 | Shelly Chandler |
 | 77 | 956 | loulou |
 | 78 | 949 | Patron Anderson |
 | 79 | 941 | Chilly Line |
@@ -180,8 +180,8 @@
 | 172 | 538 | Steph Marie |
 | 173 | 537 | Scott Jameson |
 | 174 | 535 | Berklie Apedaile |
-| 175 | 532 | Alan George LaRage |
-| 176 | 532 | Matt Summer |
+| 175 | 532 | Matt Summer |
+| 176 | 532 | Alan George LaRage |
 | 177 | 528 | Erin Sabol |
 | 178 | 525 | Lucas J Sutton |
 | 179 | 522 | Carly Alexis |
@@ -267,8 +267,8 @@
 | 259 | 392 | Neirrah B Olailjeel |
 | 260 | 391 | mike |
 | 261 | 390 | Ari Droff |
-| 262 | 387 | JPW |
-| 263 | 387 | Rafael Valentin |
+| 262 | 387 | Rafael Valentin |
+| 263 | 387 | JPW |
 | 264 | 386 | Denise B |
 | 265 | 385 | 23 |
 | 266 | 384 | Bio Nelly |
@@ -397,8 +397,8 @@
 | 389 | 281 | Morti |
 | 390 | 280 | Chummy Towerzone |
 | 391 | 279 | Ziggy |
-| 392 | 278 | L Bear Champion |
-| 393 | 278 | Shainne Brewer |
+| 392 | 278 | Shainne Brewer |
+| 393 | 278 | L Bear Champion |
 | 394 | 277 | Silly SeaWeed |
 | 395 | 276 | Cynthia Boudreau |
 | 396 | 276 | Dennis Bradley |
@@ -487,8 +487,8 @@
 | 479 | 234 | Nicole Serio |
 | 480 | 233 | conceptCollector |
 | 481 | 233 | Joseph Edmonson |
-| 482 | 232 | Sticherella |
-| 483 | 232 | Becky Shimko |
+| 482 | 232 | Becky Shimko |
+| 483 | 232 | Sticherella |
 | 484 | 230 | Joey Riley |
 | 485 | 230 | Martha Lucinda Bishop |
 | 486 | 229 | Jessica Wells |
