@@ -224,8 +224,8 @@
 | 216 | 1807 | Osun Anuket Esu |
 | 217 | 1787 | Teddi Notyalc |
 | 218 | 1784 | Matthew Joseph Acevedo |
-| 219 | 1775 | Sommer Shope |
-| 220 | 1775 | Eboni Banks |
+| 219 | 1775 | Eboni Banks |
+| 220 | 1775 | Sommer Shope |
 | 221 | 1774 | Nerdy Pattern |
 | 222 | 1761 | Rosa Franklin |
 | 223 | 1751 | Melissa Penelope Ann Dodge |
@@ -573,8 +573,8 @@
 | 565 | 905 | Cathleena Giusto |
 | 566 | 903 | Stephanie Lumanlan |
 | 567 | 902 | Stephanie Sul |
-| 568 | 899 | Patrick Bartlett |
-| 569 | 899 | Caitlyn Blackwell |
+| 568 | 899 | Caitlyn Blackwell |
+| 569 | 899 | Patrick Bartlett |
 | 570 | 895 | Donna Colby |
 | 571 | 893 | Shantel Kelley |
 | 572 | 890 | Traci Johnson |
@@ -594,8 +594,8 @@
 | 586 | 866 | Mishka Upchurch |
 | 587 | 866 | Tammie Siegfried |
 | 588 | 865 | Lilia Gomez |
-| 589 | 861 | Shavonna Haynes |
-| 590 | 861 | Beth |
+| 589 | 861 | Beth |
+| 590 | 861 | Shavonna Haynes |
 | 591 | 861 | Anthony |
 | 592 | 858 | Joshua Self |
 | 593 | 857 | Marella Petilo |
@@ -622,13 +622,13 @@
 | 614 | 837 | Deyawn Smith |
 | 615 | 837 | Julio A Laracuente |
 | 616 | 836 | James Simms III |
-| 617 | 835 | Jo Nicole |
-| 618 | 835 | Trisha Gallagher |
+| 617 | 835 | Trisha Gallagher |
+| 618 | 835 | Jo Nicole |
 | 619 | 835 | Diane P. Richardson |
 | 620 | 835 | TJ Nash |
 | 621 | 834 | Montez Mancil |
-| 622 | 834 | NanDa Cruzan VI |
-| 623 | 834 | Tracy Cowley |
+| 622 | 834 | Tracy Cowley |
+| 623 | 834 | NanDa Cruzan VI |
 | 624 | 831 | Victoria Regina Girolami |
 | 625 | 830 | Chelle Vintson |
 | 626 | 826 | Demitri Smith |

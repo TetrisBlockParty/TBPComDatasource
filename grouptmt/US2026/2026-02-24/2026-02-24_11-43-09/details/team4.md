@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Yoset Mejia |
-| 47 | 1461 | Shane Kalamata Platoon |
+| 46 | 1461 | Shane Kalamata Platoon |
+| 47 | 1461 | Yoset Mejia |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -112,8 +112,8 @@
 | 104 | 834 | Brittney Orengo |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
-| 107 | 813 | Klo |
-| 108 | 813 | Amy Suckarieh |
+| 107 | 813 | Amy Suckarieh |
+| 108 | 813 | Klo |
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
@@ -138,8 +138,8 @@
 | 130 | 719 | George Nutt |
 | 131 | 712 | H.R. Block |
 | 132 | 708 | Jacqueline Helm |
-| 133 | 704 | Austin Owens |
-| 134 | 704 | Chilly Crasher |
+| 133 | 704 | Chilly Crasher |
+| 134 | 704 | Austin Owens |
 | 135 | 701 | Angela Srubar-Norman |
 | 136 | 687 | Carmethia Clemons Haslerig |
 | 137 | 682 | Raegan Lane-Ross |
@@ -292,15 +292,15 @@
 | 284 | 402 | Nita Wells |
 | 285 | 398 | Tyler Terrific |
 | 286 | 397 | blockstar |
-| 287 | 395 | Denise B |
-| 288 | 395 | BigSammy420 |
+| 287 | 395 | BigSammy420 |
+| 288 | 395 | Denise B |
 | 289 | 394 | Nikki Rae Gordon |
 | 290 | 393 | Montiette Mcglown |
 | 291 | 390 | Ari Droff |
 | 292 | 387 | Sandra Safford |
 | 293 | 386 | Vic |
-| 294 | 382 | Matt Dell'Olio |
-| 295 | 382 | Sue Joyce Staats |
+| 294 | 382 | Sue Joyce Staats |
+| 295 | 382 | Matt Dell'Olio |
 | 296 | 381 | Cool Gridzone |
 | 297 | 380 | Chaz |
 | 298 | 380 | Holly Jolly |
@@ -323,8 +323,8 @@
 | 315 | 354 | @ |
 | 316 | 354 | Perky Piecegrid |
 | 317 | 352 | Kate |
-| 318 | 351 | Dana Scott |
-| 319 | 351 | Jackie Clark |
+| 318 | 351 | Jackie Clark |
+| 319 | 351 | Dana Scott |
 | 320 | 350 | Dizzy Matchzone |
 | 321 | 349 | jim |
 | 322 | 349 | Richard-April Kice |
@@ -501,14 +501,14 @@
 | 493 | 246 | GBR |
 | 494 | 246 | Shanon Klair |
 | 495 | 245 | Brooke Kaune |
-| 496 | 244 | Jesse Saville |
+| 496 | 244 | Elizabeth Tinoco |
 | 497 | 244 | Penny Dean |
 | 498 | 244 | Jesse Saville |
 | 499 | 244 | Amanda Christine |
 | 500 | 244 | Steve Sperino |
 | 501 | 243 | Jackie Marie |
-| 502 | 242 | Badatvs |
-| 503 | 242 | PurpleMoonMa |
+| 502 | 242 | PurpleMoonMa |
+| 503 | 242 | Badatvs |
 | 504 | 241 | Katherine Crane |
 | 505 | 240 | Orchislactea |
 | 506 | 240 | Zany Shatterer |
