@@ -317,8 +317,8 @@
 | 309 | 1381 | Christie |
 | 310 | 1381 | Dapper Dasher |
 | 311 | 1380 | Jerilyn Andrina |
-| 312 | 1376 | Kevin Sees |
-| 313 | 1376 | Megan Brianna |
+| 312 | 1376 | Megan Brianna |
+| 313 | 1376 | Kevin Sees |
 | 314 | 1374 | Sarah Berger |
 | 315 | 1362 | Angie Marie |
 | 316 | 1357 | Tanya Parsons |
@@ -333,8 +333,8 @@
 | 325 | 1342 | Groovy Puzzle |
 | 326 | 1342 | Kelly A Green-Leach |
 | 327 | 1341 | Cassie Mercer |
-| 328 | 1338 | Diallo Sparkman |
-| 329 | 1338 | Meghan M |
+| 328 | 1338 | Meghan M |
+| 329 | 1338 | Diallo Sparkman |
 | 330 | 1336 | Frothy Rumbler |
 | 331 | 1334 | Jamie Otero |
 | 332 | 1333 | nikki |
@@ -364,8 +364,8 @@
 | 356 | 1262 | Toni Roberson |
 | 357 | 1261 | Becca Coronado |
 | 358 | 1259 | AkaLefty |
-| 359 | 1257 | Megan Ferguson Leone |
-| 360 | 1257 | Megan Garrick |
+| 359 | 1257 | Megan Garrick |
+| 360 | 1257 | Megan Ferguson Leone |
 | 361 | 1257 | Jackie Lucas |
 | 362 | 1256 | Phil J. Grombliniak |
 | 363 | 1256 | Belle |
@@ -521,7 +521,7 @@
 | 513 | 973 | Taryece Gause |
 | 514 | 972 | Angela Yantz |
 | 515 | 970 | Smashanator |
-| 516 | 969 | Connie Jimenez |
+| 516 | 969 | Andrew Willis |
 | 517 | 969 | Shuany Arias |
 | 518 | 969 | Connie Jimenez |
 | 519 | 968 | John Bednarik |

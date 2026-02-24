@@ -149,8 +149,8 @@
 | 141 | 667 | Swanky Fitline |
 | 142 | 667 | Lindsey Gonzalez |
 | 143 | 662 | Nerdy Twisterfit |
-| 144 | 661 | shar |
-| 145 | 661 | Rodney McMath Jr. |
+| 144 | 661 | Rodney McMath Jr. |
+| 145 | 661 | shar |
 | 146 | 651 | Adawna Swires |
 | 147 | 650 | Chris Hartig |
 | 148 | 650 | April Rondinone |
@@ -233,8 +233,8 @@
 | 225 | 482 | Laura |
 | 226 | 481 | Joanna |
 | 227 | 475 | Silly Zonebuilder |
-| 228 | 473 | Cranky Rollpiece |
-| 229 | 473 | Jolly Dashfit |
+| 228 | 473 | Jolly Dashfit |
+| 229 | 473 | Cranky Rollpiece |
 | 230 | 472 | Plucky Patternblock |
 | 231 | 466 | scott |
 | 232 | 465 | Leslie Thomas |
@@ -309,8 +309,8 @@
 | 301 | 378 | Mary Ann Pabukis |
 | 302 | 378 | Googenheim |
 | 303 | 376 | Nig |
-| 304 | 375 | George Tzouganos |
-| 305 | 375 | Dan Wold |
+| 304 | 375 | Dan Wold |
+| 305 | 375 | George Tzouganos |
 | 306 | 373 | Russ Attitude |
 | 307 | 370 | Twisty Risebuilder |
 | 308 | 370 | Kris Bartlett |
@@ -643,7 +643,7 @@
 | 635 | 194 | Zany Twisterfit |
 | 636 | 193 | Stormy Tomplait |
 | 637 | 192 | Jacob Campbell |
-| 638 | 192 | Shon Woodland |
+| 638 | 192 | Tanner Lund |
 | 639 | 192 | Rebecca A Rit |
 | 640 | 192 | Shon Woodland |
 | 641 | 191 | RamboBanana |

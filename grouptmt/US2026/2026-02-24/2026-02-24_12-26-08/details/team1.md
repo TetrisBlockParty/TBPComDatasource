@@ -223,8 +223,8 @@
 | 215 | 475 | Reesey Enyart |
 | 216 | 470 | Candy Jones |
 | 217 | 468 | Jessie Lynn |
-| 218 | 467 | Brian Spotts |
-| 219 | 467 | Witty Builderfit |
+| 218 | 467 | Witty Builderfit |
+| 219 | 467 | Brian Spotts |
 | 220 | 466 | Lori Bales |
 | 221 | 460 | Sam Williams |
 | 222 | 458 | Goose egg |
@@ -727,10 +727,10 @@
 | 719 | 177 | Twisty Wobbler |
 | 720 | 177 | Sharon Francis |
 | 721 | 176 | Doris Hall |
-| 722 | 175 | Donna Horoszewski-Dilgen |
-| 723 | 175 | Johnson Aryonda |
-| 724 | 175 | Erres Jones |
-| 725 | 175 | Kellie Tunstall |
+| 722 | 175 | Johnson Aryonda |
+| 723 | 175 | Kellie Tunstall |
+| 724 | 175 | Donna Horoszewski-Dilgen |
+| 725 | 175 | Erres Jones |
 | 726 | 174 | Margie Olivas |
 | 727 | 174 | Grady Lynch |
 | 728 | 173 | Rivkah |

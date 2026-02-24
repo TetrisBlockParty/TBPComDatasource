@@ -32,8 +32,8 @@
 | 24 | 3221 | Ashley Jones |
 | 25 | 3118 | Jamie Lang |
 | 26 | 3042 | Nerdy Spinblock |
-| 27 | 2933 | Grego Daniel |
-| 28 | 2933 | Dan Rob |
+| 27 | 2933 | Dan Rob |
+| 28 | 2933 | Grego Daniel |
 | 29 | 2874 | Zippy Strikesnap |
 | 30 | 2873 | Chummy Shatterer |
 | 31 | 2816 | Fancy Slam |
@@ -127,8 +127,8 @@
 | 119 | 1152 | Julian Murphy |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Loopy Fallmatch |
-| 123 | 1114 | Groovy Catcher |
+| 122 | 1114 | Groovy Catcher |
+| 123 | 1114 | Loopy Fallmatch |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1101 | Valerie Gendron |
 | 126 | 1093 | Angela M. Fletcher |
@@ -160,8 +160,8 @@
 | 152 | 963 | Crystal Frey |
 | 153 | 961 | Danielle Allison |
 | 154 | 951 | Betty Rosas |
-| 155 | 950 | MissTaylor |
-| 156 | 950 | Giddy Drop |
+| 155 | 950 | Giddy Drop |
+| 156 | 950 | MissTaylor |
 | 157 | 947 | Kellie Montgomery |
 | 158 | 940 | Stephanie Allmon |
 | 159 | 936 | Dolores Falco |
@@ -263,8 +263,8 @@
 | 255 | 642 | Rania Zaqout |
 | 256 | 641 | Tom Nault |
 | 257 | 640 | Dee Pratt |
-| 258 | 639 | Nichol Graham |
-| 259 | 639 | Marci Mize Fandrich |
+| 258 | 639 | Marci Mize Fandrich |
+| 259 | 639 | Nichol Graham |
 | 260 | 637 | Giddy Twistbuilder |
 | 261 | 635 | Salena Whitlock |
 | 262 | 635 | Amber Hughes |
@@ -272,8 +272,8 @@
 | 264 | 633 | Rebecca Funderburk Kirby |
 | 265 | 632 | Rebecca Bailey |
 | 266 | 629 | rnr junky |
-| 267 | 627 | Louise Stacy Sisson |
-| 268 | 627 | Juliana Dottore |
+| 267 | 627 | Juliana Dottore |
+| 268 | 627 | Louise Stacy Sisson |
 | 269 | 626 | Cheryl Hinch Tenbrook |
 | 270 | 625 | Jacqueline Rodriguez |
 | 271 | 624 | Hyper Matchzone |
@@ -328,8 +328,8 @@
 | 320 | 518 | Marquita Sheard |
 | 321 | 516 | Skippy |
 | 322 | 514 | Nikki White |
-| 323 | 506 | Ammmmmmy |
-| 324 | 506 | Tiffanie Alley |
+| 323 | 506 | Tiffanie Alley |
+| 324 | 506 | Ammmmmmy |
 | 325 | 504 | Daring Builder |
 | 326 | 500 | Ashley Tookes |
 | 327 | 499 | Gumbo |
@@ -488,15 +488,15 @@
 | 480 | 363 | Katrina Turner |
 | 481 | 360 | Cathy Leger |
 | 482 | 359 | Kathleen Taylor |
-| 483 | 358 | Taylor Culver |
-| 484 | 358 | Beejangles |
+| 483 | 358 | Beejangles |
+| 484 | 358 | Taylor Culver |
 | 485 | 358 | Hyper Twisterfit |
 | 486 | 356 | Nikkie Bucciano |
 | 487 | 356 | Jimmie Clemons |
 | 488 | 356 | Trice Sodames |
 | 489 | 354 | Norma JulieMay |
-| 490 | 353 | Erika Apodaca |
-| 491 | 353 | Cheeky Snapper |
+| 490 | 353 | Cheeky Snapper |
+| 491 | 353 | Erika Apodaca |
 | 492 | 353 | Eboni G. |
 | 493 | 352 | LadyTorad |
 | 494 | 352 | Scott Doss |
