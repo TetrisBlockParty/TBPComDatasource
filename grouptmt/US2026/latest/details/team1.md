@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 17:38:44 UTC
+# Standings for team1 as of 2026-02-24 17:39:23 UTC
 
 **Total Participants:** 2283
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 10229 | TAZ-MF-NIZIL |
+| 1 | 10233 | TAZ-MF-NIZIL |
 | 2 | 8424 | Felicia Haynes |
 | 3 | 7650 | Zerin Graham |
 | 4 | 7160 | Izzie Ramirez-Ford |
@@ -89,8 +89,8 @@
 | 81 | 1066 | Dawn Sheppard |
 | 82 | 1054 | Robert Beck |
 | 83 | 1032 | Kathi Snustad |
-| 84 | 1028 | Cheeky Crusher |
-| 85 | 1023 | Phu ckalldems |
+| 84 | 1031 | Phu ckalldems |
+| 85 | 1028 | Cheeky Crusher |
 | 86 | 1021 | Veronica Eve |
 | 87 | 1011 | Francesca Gee |
 | 88 | 1007 | Zippy Align |
@@ -304,26 +304,26 @@
 | 296 | 399 | Sarah Marie |
 | 297 | 398 | Happy Basegrid |
 | 298 | 396 | Jo Kerley |
-| 299 | 394 | Nick R Montague |
-| 300 | 394 | Lynn Adams |
-| 301 | 393 | Wisa |
-| 302 | 392 | Shanae Grant |
-| 303 | 392 | build master |
-| 304 | 390 | Brian Richardsson |
+| 299 | 395 | Brian Richardsson |
+| 300 | 394 | Nick R Montague |
+| 301 | 394 | Lynn Adams |
+| 302 | 393 | Wisa |
+| 303 | 392 | Shanae Grant |
+| 304 | 392 | build master |
 | 305 | 388 | Glitzy Curvebuilder |
 | 306 | 388 | John Kim |
 | 307 | 388 | Test |
 | 308 | 388 | Keith Mathis |
 | 309 | 387 | Tyler Hertzog |
-| 310 | 384 | Al Smith Jr |
+| 310 | 384 | Cody Gates |
 | 311 | 384 | Mandyy Rae |
-| 312 | 384 | Cody Gates |
-| 313 | 383 | Frothy Pattern |
-| 314 | 383 | Margo Wagner |
+| 312 | 384 | Al Smith Jr |
+| 313 | 383 | Margo Wagner |
+| 314 | 383 | Frothy Pattern |
 | 315 | 382 | Chris65 |
 | 316 | 381 | Strig |
-| 317 | 379 | Austin James |
-| 318 | 379 | LD1 |
+| 317 | 379 | LD1 |
+| 318 | 379 | Austin James |
 | 319 | 378 | Layzietyme |
 | 320 | 378 | Eddie Dillon |
 | 321 | 376 | Sassy Builderline |
@@ -652,12 +652,12 @@
 | 644 | 211 | Swanky Patternfit |
 | 645 | 210 | Danny Brady |
 | 646 | 210 | Mortious |
-| 647 | 210 | KoDaK |
-| 648 | 210 | Khatia Sikharulidze |
+| 647 | 210 | Khatia Sikharulidze |
+| 648 | 210 | KoDaK |
 | 649 | 209 | Lively Wipeout |
 | 650 | 209 | Beau Galvan |
-| 651 | 208 | Jason Landon Sexton |
-| 652 | 208 | Donna Addison Williams |
+| 651 | 208 | Donna Addison Williams |
+| 652 | 208 | Jason Landon Sexton |
 | 653 | 207 | Hector Cruz |
 | 654 | 206 | Matt Cinelli |
 | 655 | 206 | Abusive |
@@ -670,10 +670,10 @@
 | 662 | 204 | Jill King Oldham |
 | 663 | 204 | Mary M Brion |
 | 664 | 203 | Ramona Mittelstadt |
-| 665 | 202 | Pie-3.14 |
-| 666 | 202 | Piffy |
-| 667 | 202 | grizzly |
-| 668 | 202 | Robin Burress |
+| 665 | 203 | Robin Burress |
+| 666 | 202 | Pie-3.14 |
+| 667 | 202 | Piffy |
+| 668 | 202 | grizzly |
 | 669 | 201 | Emily Wray |
 | 670 | 201 | Joyce Harrell-chavis |
 | 671 | 201 | Bean |
@@ -905,12 +905,12 @@
 | 897 | 143 | Chilly Linebuilder |
 | 898 | 143 | Crystal Raffaele |
 | 899 | 143 | Tierney Birdsell |
-| 900 | 143 | Unicorn |
-| 901 | 142 | Dennis McNeal |
-| 902 | 142 | Sandy Jones |
-| 903 | 142 | Charlie Ryno |
-| 904 | 142 | Marie Bremner |
-| 905 | 142 | Jean Graziano |
+| 900 | 143 | Jean Graziano |
+| 901 | 143 | Unicorn |
+| 902 | 142 | Dennis McNeal |
+| 903 | 142 | Sandy Jones |
+| 904 | 142 | Charlie Ryno |
+| 905 | 142 | Marie Bremner |
 | 906 | 142 | narutyler649 |
 | 907 | 142 | Sharon Thomas |
 | 908 | 142 | Nick |
@@ -2232,17 +2232,17 @@
 | 2224 | 7 | Brian Stacy |
 | 2225 | 7 | Steven Ekstein |
 | 2226 | 7 | Bro_BRIAN |
-| 2227 | 7 | Murda Calhoun |
-| 2228 | 7 | Willow |
-| 2229 | 7 | Michelle Silva |
+| 2227 | 7 | Hasty Slide |
+| 2228 | 7 | Tiffany Thompson |
+| 2229 | 7 | Willow |
 | 2230 | 7 | Gabriel Providenti |
 | 2231 | 7 | Lazy Pop |
-| 2232 | 7 | Tiffany Thompson |
-| 2233 | 7 | Rene Heifner |
+| 2232 | 7 | Rene Heifner |
+| 2233 | 7 | Murda Calhoun |
 | 2234 | 7 | Lynnita West Wright |
-| 2235 | 7 | CelestiaIris |
+| 2235 | 7 | Michelle Silva |
 | 2236 | 7 | Yellow Fox |
-| 2237 | 7 | Hasty Slide |
+| 2237 | 7 | CelestiaIris |
 | 2238 | 7 | Funky Blockclear |
 | 2239 | 7 | Swanky Chiseler |
 | 2240 | 7 | Shabba22 |
@@ -2255,40 +2255,40 @@
 | 2247 | 7 | Happy |
 | 2248 | 6 | Cory Ford |
 | 2249 | 6 | Mike Ramsey |
-| 2250 | 6 | ~Tintta~ |
-| 2251 | 6 | Ryan Douglas Mitchell |
+| 2250 | 6 | Ryan Douglas Mitchell |
+| 2251 | 6 | ~Tintta~ |
 | 2252 | 6 | Daddmac |
 | 2253 | 6 | Dee Westfall |
 | 2254 | 6 | Jason Perez |
 | 2255 | 6 | Kendra Sue Ellen Johnson |
 | 2256 | 6 | Amber Jones |
-| 2257 | 6 | Linda Nys |
-| 2258 | 6 | Kyle Schwarcz |
+| 2257 | 6 | Kyle Schwarcz |
+| 2258 | 6 | Linda Nys |
 | 2259 | 6 | Lee Corum |
 | 2260 | 6 | Jaime Sunshine |
-| 2261 | 6 | Justin Cressotti |
-| 2262 | 6 | Manifold |
-| 2263 | 5 | DonDotta |
-| 2264 | 5 | Lansaw J Jay |
-| 2265 | 5 | Semaj Johnson |
-| 2266 | 5 | Clever Towerfit |
-| 2267 | 5 | Fareti |
-| 2268 | 5 | Lawana Sobilo |
-| 2269 | 5 | Maria Ramos |
+| 2261 | 6 | Nanab |
+| 2262 | 6 | Justin Cressotti |
+| 2263 | 6 | Manifold |
+| 2264 | 5 | Semaj Johnson |
+| 2265 | 5 | DonDotta |
+| 2266 | 5 | Lansaw J Jay |
+| 2267 | 5 | Clever Towerfit |
+| 2268 | 5 | Fareti |
+| 2269 | 5 | Lawana Sobilo |
 | 2270 | 5 | Giggy Striker |
 | 2271 | 5 | Tony |
 | 2272 | 5 | Kimberly Ranae Lanus-Saice |
-| 2273 | 5 | Nanab |
-| 2274 | 5 | Kimberly Meijers |
-| 2275 | 5 | Jeremy Thomson |
-| 2276 | 5 | Sharon Elizabeth Holmes |
-| 2277 | 5 | FFincher88 |
-| 2278 | 5 | Daring Patternbuilder |
-| 2279 | 5 | Hasty Rollblock |
-| 2280 | 5 | Kimberly Berry |
-| 2281 | 5 | Star Hood |
-| 2282 | 5 | BlockKnocker |
-| 2283 | 5 | Chele Gibble |
+| 2273 | 5 | Kimberly Meijers |
+| 2274 | 5 | Jeremy Thomson |
+| 2275 | 5 | Sharon Elizabeth Holmes |
+| 2276 | 5 | FFincher88 |
+| 2277 | 5 | Daring Patternbuilder |
+| 2278 | 5 | Hasty Rollblock |
+| 2279 | 5 | Kimberly Berry |
+| 2280 | 5 | Star Hood |
+| 2281 | 5 | BlockKnocker |
+| 2282 | 5 | Chele Gibble |
+| 2283 | 5 | Maria Ramos |
 
 ---
 *Standings created by tournaments datasource generation tool*
