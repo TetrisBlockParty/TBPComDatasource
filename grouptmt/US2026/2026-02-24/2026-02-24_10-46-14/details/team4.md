@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Yoset Mejia |
-| 47 | 1461 | Shane Kalamata Platoon |
+| 46 | 1461 | Shane Kalamata Platoon |
+| 47 | 1461 | Yoset Mejia |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -74,8 +74,8 @@
 | 66 | 1109 | BertMofo |
 | 67 | 1100 | Julian Garcia |
 | 68 | 1089 | Alyssa Papen |
-| 69 | 1082 | Dion Crommarty |
-| 70 | 1082 | Avy Absol |
+| 69 | 1082 | Avy Absol |
+| 70 | 1082 | Dion Crommarty |
 | 71 | 1081 | Dustee Craddock-Harrison |
 | 72 | 1080 | Chilly Line |
 | 73 | 1069 | Heather Tushner |
@@ -112,13 +112,13 @@
 | 104 | 834 | quicksand420 |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
-| 107 | 813 | Amy Suckarieh |
-| 108 | 813 | Klo |
+| 107 | 813 | Klo |
+| 108 | 813 | Amy Suckarieh |
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Denise Carlson |
-| 113 | 802 | Crystal Carroll |
+| 112 | 802 | Crystal Carroll |
+| 113 | 802 | Denise Carlson |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -148,8 +148,8 @@
 | 140 | 667 | Angela Srubar-Norman |
 | 141 | 667 | Lindsey Gonzalez |
 | 142 | 662 | Nerdy Twisterfit |
-| 143 | 661 | shar |
-| 144 | 661 | Rodney McMath Jr. |
+| 143 | 661 | Rodney McMath Jr. |
+| 144 | 661 | shar |
 | 145 | 651 | Adawna Swires |
 | 146 | 650 | Chris Hartig |
 | 147 | 647 | KM8 |
@@ -215,8 +215,8 @@
 | 207 | 509 | Mimi |
 | 208 | 507 | Andria Lynn |
 | 209 | 504 | Deanna Deckard |
-| 210 | 502 | Ericca Eldridge |
-| 211 | 502 | Christina Black |
+| 210 | 502 | Christina Black |
+| 211 | 502 | Ericca Eldridge |
 | 212 | 501 | Sharyn Lemire |
 | 213 | 499 | Kesha Brady |
 | 214 | 499 | DonMega |
@@ -242,15 +242,15 @@
 | 234 | 460 | Kathy Brookins |
 | 235 | 458 | Kristina Black |
 | 236 | 458 | Luis Martinez |
-| 237 | 457 | J-Rizzle |
-| 238 | 457 | Kristin Manee |
+| 237 | 457 | Kristin Manee |
+| 238 | 457 | J-Rizzle |
 | 239 | 455 | Michele Plunkett |
 | 240 | 454 | David Lay |
 | 241 | 454 | Keshia Lyons |
 | 242 | 450 | Genne Scott |
 | 243 | 449 | Danielle Kollias |
-| 244 | 448 | Mr. Party |
-| 245 | 448 | Mike Solo |
+| 244 | 448 | Mike Solo |
+| 245 | 448 | Mr. Party |
 | 246 | 447 | Jen Mattei |
 | 247 | 444 | Selena Shaw |
 | 248 | 442 | John Brunetti |
@@ -283,18 +283,18 @@
 | 275 | 407 | Hyper Builder |
 | 276 | 407 | Rafael Valentin |
 | 277 | 402 | Nita Wells |
-| 278 | 399 | Twisty Cascadezone |
-| 279 | 399 | Brittany Little |
+| 278 | 399 | Brittany Little |
+| 279 | 399 | Twisty Cascadezone |
 | 280 | 398 | Tyler Terrific |
 | 281 | 397 | blockstar |
-| 282 | 395 | BigSammy420 |
-| 283 | 395 | Denise B |
+| 282 | 395 | Denise B |
+| 283 | 395 | BigSammy420 |
 | 284 | 394 | Nikki Rae Gordon |
 | 285 | 393 | Montiette Mcglown |
 | 286 | 392 | Neirrah B Olailjeel |
 | 287 | 390 | Ari Droff |
-| 288 | 387 | Backoff Recupe |
-| 289 | 387 | Sandra Safford |
+| 288 | 387 | Sandra Safford |
+| 289 | 387 | Backoff Recupe |
 | 290 | 386 | Vic |
 | 291 | 382 | Sue Joyce Staats |
 | 292 | 380 | Jen Caldwell |
@@ -321,8 +321,8 @@
 | 313 | 354 | @ |
 | 314 | 354 | Perky Piecegrid |
 | 315 | 352 | Kate |
-| 316 | 351 | Dana Scott |
-| 317 | 351 | Jackie Clark |
+| 316 | 351 | Jackie Clark |
+| 317 | 351 | Dana Scott |
 | 318 | 350 | Dizzy Matchzone |
 | 319 | 349 | Richard-April Kice |
 | 320 | 349 | jim |
@@ -375,7 +375,7 @@
 | 367 | 319 | Jessica Fredericks |
 | 368 | 317 | Madison Sweere |
 | 369 | 317 | Paito |
-| 370 | 317 | Madison Sweere |
+| 370 | 317 | Kim Klutz Olson |
 | 371 | 316 | Shukee Lo |
 | 372 | 315 | Glitzy Corner |
 | 373 | 315 | Maureen Flanigan |
