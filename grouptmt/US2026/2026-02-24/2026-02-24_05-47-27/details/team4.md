@@ -240,8 +240,8 @@
 | 232 | 444 | Selena Shaw |
 | 233 | 442 | John Brunetti |
 | 234 | 441 | Lush Linkfall |
-| 235 | 438 | 23 |
-| 236 | 438 | Melvin Baird |
+| 235 | 438 | Melvin Baird |
+| 236 | 438 | 23 |
 | 237 | 434 | Ramel Rhodes |
 | 238 | 433 | Damn Libra |
 | 239 | 433 | Circuit8 |

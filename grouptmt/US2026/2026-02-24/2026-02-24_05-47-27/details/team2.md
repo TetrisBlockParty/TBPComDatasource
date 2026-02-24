@@ -230,8 +230,8 @@
 | 222 | 1693 | Ashley Dow |
 | 223 | 1679 | Mischelle Clay |
 | 224 | 1663 | Alex Stone LaRue |
-| 225 | 1661 | Danielle Johnson-Chandler |
-| 226 | 1661 | Scott Treadway |
+| 225 | 1661 | Scott Treadway |
+| 226 | 1661 | Danielle Johnson-Chandler |
 | 227 | 1656 | Binyah-Binyah |
 | 228 | 1655 | Glitzy Stackzone |
 | 229 | 1651 | Luna |
@@ -301,8 +301,8 @@
 | 293 | 1358 | Arlene Joy Belicina |
 | 294 | 1353 | Deborah Miller |
 | 295 | 1351 | Ashie Ann |
-| 296 | 1351 | Denisha Dawkins |
-| 297 | 1351 | Johnny Yeates |
+| 296 | 1351 | Johnny Yeates |
+| 297 | 1351 | Denisha Dawkins |
 | 298 | 1342 | Groovy Puzzle |
 | 299 | 1342 | Kelly A Green-Leach |
 | 300 | 1341 | Cassie Mercer |

@@ -186,8 +186,8 @@
 | 178 | 821 | Kammy Hill |
 | 179 | 817 | Niki Dalrymple |
 | 180 | 815 | Justin Ritter |
-| 181 | 804 | Alaina Lee |
-| 182 | 804 | Gideon Walker |
+| 181 | 804 | Gideon Walker |
+| 182 | 804 | Alaina Lee |
 | 183 | 800 | Lauren Girouard |
 | 184 | 799 | Trisha Balmer |
 | 185 | 792 | Rachel Grant |
@@ -231,8 +231,8 @@
 | 223 | 691 | Tia |
 | 224 | 691 | Snappy Balancer |
 | 225 | 689 | Patti Skiles |
-| 226 | 675 | Terry Jo Jones |
-| 227 | 675 | Jeni Dow |
+| 226 | 675 | Jeni Dow |
+| 227 | 675 | Terry Jo Jones |
 | 228 | 662 | Jim Mathews |
 | 229 | 661 | LaShey Thompson |
 | 230 | 655 | Keis |
@@ -312,8 +312,8 @@
 | 304 | 518 | Marquita Sheard |
 | 305 | 517 | PrncssPJ |
 | 306 | 514 | Nikki White |
-| 307 | 508 | joz |
-| 308 | 508 | Colton |
+| 307 | 508 | Colton |
+| 308 | 508 | joz |
 | 309 | 506 | Ammmmmmy |
 | 310 | 505 | Stephanie Simpson |
 | 311 | 500 | Ashley Tookes |
@@ -369,8 +369,8 @@
 | 361 | 443 | Christian Werndl |
 | 362 | 442 | Loopy Fallzone |
 | 363 | 438 | Dannie Litchard |
-| 364 | 436 | AC Yeater |
-| 365 | 436 | Julie Fratrik |
+| 364 | 436 | Julie Fratrik |
+| 365 | 436 | AC Yeater |
 | 366 | 435 | Sabrina Hardrick |
 | 367 | 435 | Swanky Frame |
 | 368 | 432 | Jojo M |
@@ -483,10 +483,10 @@
 | 475 | 342 | Boldy Corner |
 | 476 | 342 | Criss |
 | 477 | 341 | Funky Jumper |
-| 478 | 340 | Erika Thornton |
-| 479 | 340 | Loony Slider |
-| 480 | 340 | Becca Engle |
-| 481 | 340 | Kerry Nowickshere |
+| 478 | 340 | Becca Engle |
+| 479 | 340 | Kerry Nowickshere |
+| 480 | 340 | Loony Slider |
+| 481 | 340 | Erika Thornton |
 | 482 | 339 | Evelyn Ortega |
 | 483 | 338 | Alice |
 | 484 | 338 | Michael Leblanc |
@@ -500,10 +500,10 @@
 | 492 | 334 | Spencer Nikki |
 | 493 | 334 | Jalissa Monique |
 | 494 | 333 | Heather Ferrara |
-| 495 | 332 | Bleu Sun Beams |
-| 496 | 332 | Clever Edgepiece |
+| 495 | 332 | Clever Edgepiece |
+| 496 | 332 | Bleu Sun Beams |
 | 497 | 331 | Wettnippz |
-| 498 | 330 | Christy Quick |
+| 498 | 330 | Willow |
 | 499 | 330 | Emma |
 | 500 | 330 | Christy Quick |
 | 501 | 329 | Krystal Gerstberger |
