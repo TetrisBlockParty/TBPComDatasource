@@ -261,8 +261,8 @@
 | 253 | 574 | Noyb Adam |
 | 254 | 573 | Donna |
 | 255 | 572 | Tessina Dewey-Mancino |
-| 256 | 570 | thekey |
-| 257 | 570 | LaTanya GeminiondaRise Johnson |
+| 256 | 570 | LaTanya GeminiondaRise Johnson |
+| 257 | 570 | thekey |
 | 258 | 569 | Michael Johnson |
 | 259 | 569 | Fallorina Susana |
 | 260 | 569 | Silly Twist |
@@ -274,10 +274,10 @@
 | 266 | 551 | Micayah Stevens |
 | 267 | 548 | Brian Battjes |
 | 268 | 547 | Aerian Preston |
-| 269 | 546 | Cynthia Castros-Hampton |
-| 270 | 546 | lashanda |
-| 271 | 544 | Angella Lyons |
-| 272 | 544 | Tamara Deherrera |
+| 269 | 546 | lashanda |
+| 270 | 546 | Cynthia Castros-Hampton |
+| 271 | 544 | Tamara Deherrera |
+| 272 | 544 | Angella Lyons |
 | 273 | 542 | France Vézina |
 | 274 | 541 | Gray Hicks |
 | 275 | 540 | Danielle Allison |
@@ -335,12 +335,12 @@
 | 327 | 456 | Kelly |
 | 328 | 455 | Kelly Wolf |
 | 329 | 452 | Tyler Shoff |
-| 330 | 450 | Luciana Braganca Vieira |
-| 331 | 450 | Jul |
-| 332 | 450 | Stefanie LaPointe |
+| 330 | 450 | Stefanie LaPointe |
+| 331 | 450 | Luciana Braganca Vieira |
+| 332 | 450 | Jul |
 | 333 | 449 | Mcathen |
-| 334 | 447 | Randy Clevenger |
-| 335 | 447 | Num1hater |
+| 334 | 447 | Num1hater |
+| 335 | 447 | Randy Clevenger |
 | 336 | 445 | Loopy Clusterer |
 | 337 | 444 | Heather De Vries Cobb |
 | 338 | 444 | Snazzy Filler |
@@ -363,14 +363,14 @@
 | 355 | 418 | Heather Davis |
 | 356 | 416 | Tay |
 | 357 | 416 | Ava Petito |
-| 358 | 414 | RickyG |
+| 358 | 414 | Arden White Kirsch |
 | 359 | 414 | Kaitie Oliver |
-| 360 | 414 | Arden White Kirsch |
+| 360 | 414 | RickyG |
 | 361 | 411 | Steffi Chris Dacones |
 | 362 | 411 | Chris Bell |
 | 363 | 409 | Rich LeBlanc |
-| 364 | 408 | Ashley Muncey |
-| 365 | 408 | Tiffany Ford |
+| 364 | 408 | Tiffany Ford |
+| 365 | 408 | Ashley Muncey |
 | 366 | 407 | Christina Spa |
 | 367 | 405 | Andrew Thorson |
 | 368 | 405 | Skinny Baldez |
@@ -392,9 +392,9 @@
 | 384 | 386 | Philip Rock |
 | 385 | 386 | Dee Franklin |
 | 386 | 384 | Tiffany Davie |
-| 387 | 383 | Kirhonda Autmon |
-| 388 | 383 | Nikki White |
-| 389 | 383 | Jessica Christian |
+| 387 | 383 | Nikki White |
+| 388 | 383 | Jessica Christian |
+| 389 | 383 | Kirhonda Autmon |
 | 390 | 382 | Rynne Ellis |
 | 391 | 381 | AlsoJess |
 | 392 | 380 | neci |
@@ -515,8 +515,8 @@
 | 507 | 316 | Funky Brickster |
 | 508 | 316 | Travis W |
 | 509 | 315 | Clever Edgepiece |
-| 510 | 314 | toony |
-| 511 | 314 | Rachel Napper |
+| 510 | 314 | Rachel Napper |
+| 511 | 314 | toony |
 | 512 | 314 | Bleu Sun Beams |
 | 513 | 313 | Joseph Vargas |
 | 514 | 313 | Dakota Graham |

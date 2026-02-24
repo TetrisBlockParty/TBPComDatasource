@@ -183,8 +183,8 @@
 | 175 | 496 | Michelle Beres |
 | 176 | 496 | Sarah Somers Gray |
 | 177 | 494 | Sean Stallings |
-| 178 | 492 | Rebekah LeiAnn Bonsell |
-| 179 | 492 | Happy Snapbuild |
+| 178 | 492 | Happy Snapbuild |
+| 179 | 492 | Rebekah LeiAnn Bonsell |
 | 180 | 490 | Jennifer Hardman |
 | 181 | 489 | Speedy Liney |
 | 182 | 488 | Hyper |
