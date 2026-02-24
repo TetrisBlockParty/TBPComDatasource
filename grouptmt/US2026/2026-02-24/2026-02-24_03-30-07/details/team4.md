@@ -146,9 +146,9 @@
 | 138 | 633 | Jessica Lynn Cutlip |
 | 139 | 622 | Porkobello |
 | 140 | 616 | Samantha Peterson |
-| 141 | 615 | Ernest Maxwell |
+| 141 | 615 | Angelito |
 | 142 | 615 | Kim Hunt |
-| 143 | 615 | Angelito |
+| 143 | 615 | Ernest Maxwell |
 | 144 | 611 | Chris Baggett |
 | 145 | 608 | Swanky Fitline |
 | 146 | 602 | Cristy Duerksen |
@@ -189,8 +189,8 @@
 | 181 | 516 | Nick Gray |
 | 182 | 516 | Twisty Clicky |
 | 183 | 513 | Erin Thomas |
-| 184 | 512 | ThaEviLJeNiuZ |
-| 185 | 512 | Casey Jeffcoat |
+| 184 | 512 | Casey Jeffcoat |
+| 185 | 512 | ThaEviLJeNiuZ |
 | 186 | 512 | Ellen Durfee |
 | 187 | 509 | Mimi |
 | 188 | 507 | Andria Lynn |
@@ -215,8 +215,8 @@
 | 207 | 462 | Crystal Nicolette Moore |
 | 208 | 462 | Leslie Thomas |
 | 209 | 461 | TRCuse |
-| 210 | 457 | June Hoffman |
-| 211 | 457 | Kristin Manee |
+| 210 | 457 | Kristin Manee |
+| 211 | 457 | June Hoffman |
 | 212 | 457 | Zesty Twistbuilder |
 | 213 | 455 | Michele Plunkett |
 | 214 | 455 | Kathy Brookins |
@@ -249,8 +249,8 @@
 | 241 | 413 | Jeff Brian Gates |
 | 242 | 411 | Autumn Kumzi |
 | 243 | 410 | Lindsay Ball |
-| 244 | 409 | Antony Dwayne Beasley |
-| 245 | 409 | Joseph Guthrie |
+| 244 | 409 | Joseph Guthrie |
+| 245 | 409 | Antony Dwayne Beasley |
 | 246 | 408 | Lauren Scott |
 | 247 | 406 | TinyLegoRose |
 | 248 | 400 | Brickh4us |
@@ -353,8 +353,8 @@
 | 345 | 300 | Dana Scott |
 | 346 | 300 | Sarah Neathery |
 | 347 | 298 | Bradley Reeves |
-| 348 | 297 | Brittany Marsh |
-| 349 | 297 | Jackie Clark |
+| 348 | 297 | Jackie Clark |
+| 349 | 297 | Brittany Marsh |
 | 350 | 296 | Zethra Prenisha Rahming |
 | 351 | 295 | Deb Rubeck |
 | 352 | 295 | Twisty Risebuilder |

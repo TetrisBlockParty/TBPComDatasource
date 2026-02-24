@@ -343,8 +343,8 @@
 | 335 | 1217 | Brooks Brooks |
 | 336 | 1217 | Christina Lewis-Vickers |
 | 337 | 1216 | Pacynthia Williams |
-| 338 | 1215 | Hyper Cluster |
-| 339 | 1215 | Toni Roberson |
+| 338 | 1215 | Toni Roberson |
+| 339 | 1215 | Hyper Cluster |
 | 340 | 1214 | David Cudicio-Hayden |
 | 341 | 1211 | Cynthia Ward |
 | 342 | 1210 | Amber Gray |
@@ -381,9 +381,9 @@
 | 373 | 1119 | Teresa Gillmore |
 | 374 | 1119 | Bubbly Snapfit |
 | 375 | 1118 | Ibiza Carolina LaRose |
-| 376 | 1116 | Em Chen |
+| 376 | 1116 | Belle |
 | 377 | 1116 | Wakanda Forever |
-| 378 | 1116 | Belle |
+| 378 | 1116 | Em Chen |
 | 379 | 1110 | Nadia Batista Garcia |
 | 380 | 1109 | Melissa McCall |
 | 381 | 1109 | BYM4L |
@@ -401,8 +401,8 @@
 | 393 | 1084 | Emilee Burke |
 | 394 | 1081 | Barbra Miller |
 | 395 | 1080 | BK Queen |
-| 396 | 1079 | Jennifer Kistner |
-| 397 | 1079 | Angela Bonquiqui Dinish |
+| 396 | 1079 | Angela Bonquiqui Dinish |
+| 397 | 1079 | Jennifer Kistner |
 | 398 | 1075 | SaraMarie Eveland |
 | 399 | 1074 | Diana Ayers |
 | 400 | 1073 | Jodi Blake |
