@@ -85,8 +85,8 @@
 | 77 | 920 | Jonathan Kimbrough |
 | 78 | 911 | TeeJ |
 | 79 | 895 | Girl |
-| 80 | 885 | Yoset Mejia |
-| 81 | 873 | Courtney Cicoria |
+| 80 | 873 | Courtney Cicoria |
+| 81 | 868 | Yoset Mejia |
 | 82 | 865 | Carolyn Wallace |
 | 83 | 864 | Guy Incognito |
 | 84 | 861 | Peachy Fall |
@@ -406,7 +406,7 @@
 | 398 | 259 | Allen Lloyd |
 | 399 | 258 | PennyCandee |
 | 400 | 258 | April Spoelma |
-| 401 | 257 | Alexandra Karavias |
+| 401 | 257 | ĥuf |
 | 402 | 257 | Dustin York |
 | 403 | 257 | Michael Snow |
 | 404 | 257 | Alexandra Karavias |

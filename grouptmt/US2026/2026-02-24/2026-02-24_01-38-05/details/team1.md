@@ -44,8 +44,8 @@
 | 36 | 1454 | Derek MF Blakey |
 | 37 | 1405 | Chipper Gridlock |
 | 38 | 1391 | Aaron Garnett |
-| 39 | 1334 | june october |
-| 40 | 1334 | Tyler Alcock |
+| 39 | 1334 | Tyler Alcock |
+| 40 | 1334 | june october |
 | 41 | 1277 | Marianne Louise West |
 | 42 | 1250 | Stef Hu |
 | 43 | 1239 | Brenda Stewart |
@@ -109,8 +109,8 @@
 | 101 | 706 | Plucky Fallzone |
 | 102 | 706 | Denice Dee |
 | 103 | 703 | Angel Fowler |
-| 104 | 691 | Krista Young |
-| 105 | 691 | Rachael |
+| 104 | 691 | Rachael |
+| 105 | 691 | Krista Young |
 | 106 | 690 | Melissa Lemmon |
 | 107 | 672 | Tdub |
 | 108 | 671 | Chirpy Smasher |
