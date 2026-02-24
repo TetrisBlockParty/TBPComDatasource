@@ -217,12 +217,12 @@
 | 209 | 481 | Joanna |
 | 210 | 478 | Casey Grabner |
 | 211 | 475 | Silly Zonebuilder |
-| 212 | 473 | Cranky Rollpiece |
-| 213 | 473 | Jolly Dashfit |
+| 212 | 473 | Jolly Dashfit |
+| 213 | 473 | Cranky Rollpiece |
 | 214 | 465 | June Hoffman |
 | 215 | 464 | Zakia Monae |
-| 216 | 462 | Crystal Nicolette Moore |
-| 217 | 462 | Leslie Thomas |
+| 216 | 462 | Leslie Thomas |
+| 217 | 462 | Crystal Nicolette Moore |
 | 218 | 460 | Kathy Brookins |
 | 219 | 458 | Kristina Black |
 | 220 | 457 | Kristin Manee |
@@ -240,13 +240,13 @@
 | 232 | 442 | John Brunetti |
 | 233 | 442 | 🥔🥔 Spudz |
 | 234 | 441 | Lush Linkfall |
-| 235 | 438 | Melvin Baird |
-| 236 | 438 | 23 |
+| 235 | 438 | 23 |
+| 236 | 438 | Melvin Baird |
 | 237 | 434 | Ramel Rhodes |
 | 238 | 433 | Damn Libra |
 | 239 | 433 | Circuit8 |
-| 240 | 432 | Plucky Patternblock |
-| 241 | 432 | scott |
+| 240 | 432 | scott |
+| 241 | 432 | Plucky Patternblock |
 | 242 | 431 | Manny1 |
 | 243 | 428 | Chris Bernstein |
 | 244 | 427 | Chao Ma |

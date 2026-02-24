@@ -178,8 +178,8 @@
 | 170 | 2056 | Tonya Brooks-Johnson |
 | 171 | 2048 | Jose Mendoza |
 | 172 | 2007 | Hannah Erskine |
-| 173 | 2005 | Cody Smith-Candelaria |
-| 174 | 2005 | Cody Nishimura |
+| 173 | 2005 | Cody Nishimura |
+| 174 | 2005 | Cody Smith-Candelaria |
 | 175 | 1989 | Cozy Filler |
 | 176 | 1984 | Jane Fong |
 | 177 | 1983 | Tonya Morgan |
@@ -303,8 +303,8 @@
 | 295 | 1351 | Ashie Ann |
 | 296 | 1351 | Johnny Yeates |
 | 297 | 1351 | Denisha Dawkins |
-| 298 | 1342 | Kelly A Green-Leach |
-| 299 | 1342 | Groovy Puzzle |
+| 298 | 1342 | Groovy Puzzle |
+| 299 | 1342 | Kelly A Green-Leach |
 | 300 | 1341 | Cassie Mercer |
 | 301 | 1338 | Diallo Sparkman |
 | 302 | 1337 | Lucky Ladybug |
@@ -324,8 +324,8 @@
 | 316 | 1304 | Sarah Ridenour |
 | 317 | 1303 | Michele Morgan |
 | 318 | 1301 | Mandy Cekine |
-| 319 | 1300 | Snappy Matchbuilder |
-| 320 | 1300 | Shinel Richardson |
+| 319 | 1300 | Shinel Richardson |
+| 320 | 1300 | Snappy Matchbuilder |
 | 321 | 1300 | Tacara Cummings |
 | 322 | 1299 | Dimitra Zazara |
 | 323 | 1295 | Jess Morrison |
@@ -343,8 +343,8 @@
 | 335 | 1261 | Becca Coronado |
 | 336 | 1258 | Mama T |
 | 337 | 1257 | Jackie Lucas |
-| 338 | 1257 | Megan Garrick |
-| 339 | 1257 | Megan Ferguson Leone |
+| 338 | 1257 | Megan Ferguson Leone |
+| 339 | 1257 | Megan Garrick |
 | 340 | 1254 | Erika Densmore |
 | 341 | 1252 | Brainy Smurf |
 | 342 | 1249 | Tristan Szolek |

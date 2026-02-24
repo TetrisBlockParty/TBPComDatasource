@@ -80,8 +80,8 @@
 | 72 | 1646 | Gracie |
 | 73 | 1633 | cowboy25469 |
 | 74 | 1620 | Queen Kam |
-| 75 | 1566 | Nerdy Riseclear |
-| 76 | 1566 | Marcie Bressler |
+| 75 | 1566 | Marcie Bressler |
+| 76 | 1566 | Nerdy Riseclear |
 | 77 | 1560 | Logan Naccarato |
 | 78 | 1555 | Snappy Glidepiece |
 | 79 | 1552 | joclisa |
@@ -475,10 +475,10 @@
 | 467 | 345 | Big T |
 | 468 | 345 | victory |
 | 469 | 345 | Misha Sanders |
-| 470 | 344 | Karent524 |
-| 471 | 344 | Lys |
-| 472 | 343 | Eboni Starr |
-| 473 | 343 | Christina Marie Swisher |
+| 470 | 344 | Lys |
+| 471 | 344 | Karent524 |
+| 472 | 343 | Christina Marie Swisher |
+| 473 | 343 | Eboni Starr |
 | 474 | 342 | Criss |
 | 475 | 342 | Saucy Buildout |
 | 476 | 342 | Boldy Corner |
@@ -500,8 +500,8 @@
 | 492 | 334 | Jalissa Monique |
 | 493 | 334 | Stella |
 | 494 | 333 | Heather Ferrara |
-| 495 | 332 | Clever Edgepiece |
-| 496 | 332 | Bleu Sun Beams |
+| 495 | 332 | Bleu Sun Beams |
+| 496 | 332 | Clever Edgepiece |
 | 497 | 331 | Wettnippz |
 | 498 | 330 | Willow |
 | 499 | 330 | Emma |
@@ -516,10 +516,10 @@
 | 508 | 326 | Eric Caccavale |
 | 509 | 324 | Paul Daniel Quertermous |
 | 510 | 323 | Tipsy Zonebuilder |
-| 511 | 323 | Carla Hoffman |
-| 512 | 323 | Jolly Brick |
-| 513 | 323 | Moimyzean |
-| 514 | 322 | Chenoa Urban Sophicated Redy |
+| 511 | 323 | Jolly Brick |
+| 512 | 323 | Moimyzean |
+| 513 | 323 | Carla Hoffman |
+| 514 | 322 | Beth Smith |
 | 515 | 322 | Amanda Declue |
 | 516 | 322 | Chenoa Urban Sophicated Redy |
 | 517 | 321 | Sdot |
