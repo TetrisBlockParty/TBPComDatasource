@@ -242,8 +242,8 @@
 | 234 | 574 | Trisha Balmer |
 | 235 | 572 | Tessina Dewey-Mancino |
 | 236 | 572 | Duane Bright |
-| 237 | 569 | Silly Twist |
-| 238 | 569 | Michael Johnson |
+| 237 | 569 | Michael Johnson |
+| 238 | 569 | Silly Twist |
 | 239 | 568 | Rachael McClain Owens |
 | 240 | 566 | LaTanya GeminiondaRise Johnson |
 | 241 | 564 | Poppy Splitter |
@@ -767,7 +767,7 @@
 | 759 | 214 | Amy Fuller Heaton |
 | 760 | 213 | Laaken Draper |
 | 761 | 213 | Kortnie Kincaid |
-| 762 | 212 | Beth Ingham |
+| 762 | 212 | Carri |
 | 763 | 212 | Bernice Smiley |
 | 764 | 212 | Beth Ingham |
 | 765 | 211 | Brittany Lawson Tolson |

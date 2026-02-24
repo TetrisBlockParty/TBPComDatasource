@@ -191,8 +191,8 @@
 | 183 | 1759 | Nerdy Pattern |
 | 184 | 1756 | Hannah Erskine |
 | 185 | 1755 | Denise Rickman |
-| 186 | 1751 | Melissa Penelope Ann Dodge |
-| 187 | 1751 | Bob |
+| 186 | 1751 | Bob |
+| 187 | 1751 | Melissa Penelope Ann Dodge |
 | 188 | 1746 | Dee |
 | 189 | 1740 | Dustin Rains |
 | 190 | 1724 | Tony Lea |
@@ -597,8 +597,8 @@
 | 589 | 751 | Tom Riefer |
 | 590 | 750 | Michael Buckner |
 | 591 | 749 | Trisha J Schmidt |
-| 592 | 749 | Hoppy Brickmatch |
-| 593 | 749 | Arwa Fatimah |
+| 592 | 749 | Arwa Fatimah |
+| 593 | 749 | Hoppy Brickmatch |
 | 594 | 742 | Cassie Maynard |
 | 595 | 741 | Davetta Sanford |
 | 596 | 740 | Lylymom |
@@ -720,8 +720,8 @@
 | 712 | 646 | Stephanie Fortune |
 | 713 | 645 | NanDa Cruzan VI |
 | 714 | 645 | James Smith |
-| 715 | 644 | Brittany Chapman |
-| 716 | 644 | Harrison Littrell |
+| 715 | 644 | Harrison Littrell |
+| 716 | 644 | Brittany Chapman |
 | 717 | 643 | Rae Rae |
 | 718 | 642 | Jennifer Coe |
 | 719 | 642 | Christy Long |
@@ -1017,8 +1017,8 @@
 | 1009 | 500 | Jack Rippe |
 | 1010 | 499 | Mike73 |
 | 1011 | 499 | Meganator42 |
-| 1012 | 499 | Shalena Marie Humphrey |
-| 1013 | 499 | Mike73 |
+| 1012 | 499 | Besma Ao |
+| 1013 | 499 | Shalena Marie Humphrey |
 | 1014 | 498 | Chummy Blockbuilder |
 | 1015 | 498 | Drwatson187 |
 | 1016 | 497 | Suzy Moody |

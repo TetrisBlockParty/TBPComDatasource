@@ -44,8 +44,8 @@
 | 36 | 1405 | Chipper Gridlock |
 | 37 | 1396 | Derek MF Blakey |
 | 38 | 1391 | Aaron Garnett |
-| 39 | 1334 | june october |
-| 40 | 1334 | Tyler Alcock |
+| 39 | 1334 | Tyler Alcock |
+| 40 | 1334 | june october |
 | 41 | 1277 | Marianne Louise West |
 | 42 | 1250 | Stef Hu |
 | 43 | 1239 | Brenda Stewart |
@@ -124,8 +124,8 @@
 | 116 | 612 | femmefatale |
 | 117 | 606 | Ty Brown |
 | 118 | 604 | Ryan Lunnin |
-| 119 | 601 | Evan Richmond |
-| 120 | 601 | Phu ckalldems |
+| 119 | 601 | Phu ckalldems |
+| 120 | 601 | Evan Richmond |
 | 121 | 598 | Jessi Sauer |
 | 122 | 594 | Basment Living |
 | 123 | 591 | Giddy Cascade |
@@ -193,8 +193,8 @@
 | 185 | 462 | Hasty Cascader |
 | 186 | 458 | Dizzy Slider |
 | 187 | 458 | Goose egg |
-| 188 | 446 | Cheeky Crusher |
-| 189 | 446 | SkipTheSadSauce |
+| 188 | 446 | SkipTheSadSauce |
+| 189 | 446 | Cheeky Crusher |
 | 190 | 442 | Kimmie Kimms |
 | 191 | 434 | Yvonne Marie |
 | 192 | 433 | Kimberly Garcia |
@@ -245,8 +245,8 @@
 | 237 | 380 | Bindi |
 | 238 | 380 | Snippy Wipebuilder |
 | 239 | 379 | Austin James |
-| 240 | 376 | Sassy Builderline |
-| 241 | 376 | Brian Richardsson |
+| 240 | 376 | Brian Richardsson |
+| 241 | 376 | Sassy Builderline |
 | 242 | 375 | DaRascal |
 | 243 | 373 | Frothy Pattern |
 | 244 | 372 | Dizzy Party |
@@ -303,8 +303,8 @@
 | 295 | 330 | Rebecca Apley Mielke |
 | 296 | 329 | Marianita Garcia |
 | 297 | 328 | Buttons Stemm |
-| 298 | 325 | GringaLinga |
-| 299 | 325 | Mitchel White |
+| 298 | 325 | Mitchel White |
+| 299 | 325 | GringaLinga |
 | 300 | 324 | Sylvia Vasquez |
 | 301 | 323 | Barrbaric |
 | 302 | 323 | Cody Gates |

@@ -401,8 +401,8 @@
 | 393 | 257 | ĥuf |
 | 394 | 257 | Dustin York |
 | 395 | 257 | Alexandra Karavias |
-| 396 | 256 | Gracie Ann Taylor |
-| 397 | 256 | Mackenzie Forrester |
+| 396 | 256 | Mackenzie Forrester |
+| 397 | 256 | Gracie Ann Taylor |
 | 398 | 254 | Shainne Brewer |
 | 399 | 253 | Autum Leigh |
 | 400 | 252 | Maureen Flanigan |
