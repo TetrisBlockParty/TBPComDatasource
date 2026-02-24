@@ -104,8 +104,8 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Tiff Vs Tiffany |
-| 100 | 1318 | Diana Ibarra |
+| 99 | 1318 | Diana Ibarra |
+| 100 | 1318 | Tiff Vs Tiffany |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
@@ -155,10 +155,10 @@
 | 147 | 966 | Tasha Schriewer |
 | 148 | 963 | Crystal Frey |
 | 149 | 961 | Danielle Allison |
-| 150 | 950 | MissTaylor |
-| 151 | 950 | Giddy Drop |
-| 152 | 940 | Stephanie Allmon |
-| 153 | 940 | Patty Allen |
+| 150 | 950 | Giddy Drop |
+| 151 | 950 | MissTaylor |
+| 152 | 940 | Patty Allen |
+| 153 | 940 | Stephanie Allmon |
 | 154 | 936 | Dolores Falco |
 | 155 | 925 | Cherry Parker |
 | 156 | 914 | Sarajane Lokan |
@@ -582,7 +582,7 @@
 | 574 | 308 | Grams |
 | 575 | 308 | Danetta McCadden |
 | 576 | 307 | Kristina Gardner |
-| 577 | 306 | Valerie Tarkington |
+| 577 | 306 | Dapper Chiseler |
 | 578 | 306 | BigE |
 | 579 | 306 | Valerie Tarkington |
 | 580 | 306 | Alexis Ford |
@@ -603,9 +603,9 @@
 | 595 | 299 | Six |
 | 596 | 297 | Cameo Tweed |
 | 597 | 297 | Zac Hudak |
-| 598 | 296 | JoshAllenfan17 |
-| 599 | 296 | Angel Miller |
-| 600 | 296 | Tracy Martin |
+| 598 | 296 | Tracy Martin |
+| 599 | 296 | JoshAllenfan17 |
+| 600 | 296 | Angel Miller |
 | 601 | 295 | Omega |
 | 602 | 294 | Jazzy Spinfit |
 | 603 | 293 | Anna Moeller |
@@ -867,10 +867,10 @@
 | 859 | 219 | Viking |
 | 860 | 219 | Christina Stimson |
 | 861 | 219 | Uluvfai |
-| 862 | 218 | Carri |
+| 862 | 218 | Megan Stanley |
 | 863 | 218 | Crystal Johnson |
-| 864 | 218 | Carri |
-| 865 | 218 | Megan Stanley |
+| 864 | 218 | Amy Fuller Heaton |
+| 865 | 218 | Carri |
 | 866 | 217 | Kim Forehand |
 | 867 | 217 | Jessica Quinn |
 | 868 | 217 | Roger Taylor |

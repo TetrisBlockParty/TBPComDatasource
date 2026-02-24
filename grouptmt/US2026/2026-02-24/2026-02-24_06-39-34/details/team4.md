@@ -70,8 +70,8 @@
 | 62 | 1106 | BertMofo |
 | 63 | 1094 | Shelly Chandler |
 | 64 | 1089 | Alyssa Papen |
-| 65 | 1082 | Dion Crommarty |
-| 66 | 1082 | Avy Absol |
+| 65 | 1082 | Avy Absol |
+| 66 | 1082 | Dion Crommarty |
 | 67 | 1081 | Dustee Craddock-Harrison |
 | 68 | 1069 | Heather Tushner |
 | 69 | 1056 | Keith Kelley |

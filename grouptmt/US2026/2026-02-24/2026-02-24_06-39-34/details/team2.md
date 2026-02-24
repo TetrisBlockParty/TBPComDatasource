@@ -781,8 +781,8 @@
 | 773 | 686 | Christina Ashley |
 | 774 | 686 | Timothy Robert |
 | 775 | 685 | Rose Fx |
-| 776 | 684 | Atara James |
-| 777 | 684 | Sleepypanda67 |
+| 776 | 684 | Sleepypanda67 |
+| 777 | 684 | Atara James |
 | 778 | 684 | Jazzy Clusterline |
 | 779 | 683 | Nicole Sanqui |
 | 780 | 683 | Audrey Jones |
