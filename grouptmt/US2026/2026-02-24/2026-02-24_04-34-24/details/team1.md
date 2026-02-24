@@ -45,8 +45,8 @@
 | 37 | 1515 | Felicia Lewis |
 | 38 | 1405 | Chipper Gridlock |
 | 39 | 1391 | Aaron Garnett |
-| 40 | 1334 | june october |
-| 41 | 1334 | Tyler Alcock |
+| 40 | 1334 | Tyler Alcock |
+| 41 | 1334 | june october |
 | 42 | 1321 | Drew Magnus |
 | 43 | 1291 | Marianne Louise West |
 | 44 | 1268 | Hasbro Bros |
@@ -108,8 +108,8 @@
 | 100 | 773 | Susanna Guerry |
 | 101 | 772 | Kathy Langham |
 | 102 | 770 | Zappy Curvetile |
-| 103 | 769 | Angel Fowler |
-| 104 | 769 | Robert Benito |
+| 103 | 769 | Robert Benito |
+| 104 | 769 | Angel Fowler |
 | 105 | 768 | Jazzy Framezone |
 | 106 | 756 | Cartier |
 | 107 | 751 | Kellie |
@@ -168,8 +168,8 @@
 | 160 | 543 | Nicole Roseberry Weber |
 | 161 | 543 | Adrian Esteban |
 | 162 | 540 | Tonya Beasley |
-| 163 | 537 | Stephanie Zahn |
-| 164 | 537 | BadG52 |
+| 163 | 537 | BadG52 |
+| 164 | 537 | Stephanie Zahn |
 | 165 | 535 | Plucky Ziggy |
 | 166 | 533 | .running. |
 | 167 | 528 | ALFD |
@@ -185,8 +185,8 @@
 | 177 | 510 | Rat666 |
 | 178 | 497 | Steve Schneider |
 | 179 | 497 | MIKOZ |
-| 180 | 496 | Michelle Beres |
-| 181 | 496 | Sarah Somers Gray |
+| 180 | 496 | Sarah Somers Gray |
+| 181 | 496 | Michelle Beres |
 | 182 | 494 | Sean Stallings |
 | 183 | 493 | Jennifer Hardman |
 | 184 | 492 | Rebekah LeiAnn Bonsell |
@@ -230,8 +230,8 @@
 | 222 | 423 | Howdi Duty |
 | 223 | 423 | Tipsy Strikerpiece |
 | 224 | 422 | Jamise Brown |
-| 225 | 421 | Plucky Stacky |
-| 226 | 421 | Letson Melissa |
+| 225 | 421 | Letson Melissa |
+| 226 | 421 | Plucky Stacky |
 | 227 | 420 | Jennifer Noe Chandler |
 | 228 | 419 | Daring Fitclear |
 | 229 | 419 | John J. Cronin |
@@ -249,8 +249,8 @@
 | 241 | 399 | Lakeisha Chapman |
 | 242 | 398 | MommaKFC |
 | 243 | 397 | Alenoush Karimian |
-| 244 | 396 | Monica Donato |
-| 245 | 396 | Sam Williams |
+| 244 | 396 | Sam Williams |
+| 245 | 396 | Monica Donato |
 | 246 | 395 | Tami Luce Martin |
 | 247 | 393 | Wisa |
 | 248 | 391 | Bob |
@@ -375,8 +375,8 @@
 | 367 | 297 | Billie Dawn Sparks |
 | 368 | 296 | Jeanna Dunn |
 | 369 | 295 | ESC |
-| 370 | 294 | Mary Love |
-| 371 | 294 | Наталья Солоид |
+| 370 | 294 | Наталья Солоид |
+| 371 | 294 | Mary Love |
 | 372 | 293 | Sunny Pivotfall |
 | 373 | 292 | Clever Cascadepiece |
 | 374 | 292 | Mark Smith |

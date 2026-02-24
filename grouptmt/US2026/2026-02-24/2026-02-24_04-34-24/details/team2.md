@@ -534,8 +534,8 @@
 | 526 | 887 | Kimmy Newman |
 | 527 | 886 | Bold Splitter |
 | 528 | 886 | Cherrica Newman |
-| 529 | 885 | Giggy Mover |
-| 530 | 885 | Miranda Morris |
+| 529 | 885 | Miranda Morris |
+| 530 | 885 | Giggy Mover |
 | 531 | 883 | Hong Tang |
 | 532 | 882 | Thomas Hedrick |
 | 533 | 882 | Sarah Massey |
@@ -557,8 +557,8 @@
 | 549 | 850 | Sabrina Burton |
 | 550 | 848 | Happy Wipeblock |
 | 551 | 845 | Stephanie Lumanlan |
-| 552 | 845 | Melissa Schulz |
-| 553 | 845 | Jasmine Kenney |
+| 552 | 845 | Jasmine Kenney |
+| 553 | 845 | Melissa Schulz |
 | 554 | 844 | KrisCynthia Lynette |
 | 555 | 844 | Terri McKelvey McKinley |
 | 556 | 843 | David Jones |
@@ -566,10 +566,10 @@
 | 558 | 841 | Leslie Jorgenson |
 | 559 | 839 | Gary Stash |
 | 560 | 836 | James Simms III |
-| 561 | 835 | Cris cris |
-| 562 | 835 | Jo Nicole |
-| 563 | 835 | Diane P. Richardson |
-| 564 | 835 | Alexandra Lynn |
+| 561 | 835 | Alexandra Lynn |
+| 562 | 835 | Diane P. Richardson |
+| 563 | 835 | Jo Nicole |
+| 564 | 835 | Cris cris |
 | 565 | 834 | Montez Mancil |
 | 566 | 833 | Ha Ab |
 | 567 | 831 | Victoria Regina Girolami |
@@ -618,8 +618,8 @@
 | 610 | 786 | Ashe Corso |
 | 611 | 785 | Daniel Amos |
 | 612 | 781 | Amanda Ferrell |
-| 613 | 780 | Megan Kitchner |
-| 614 | 780 | Breezy Filler |
+| 613 | 780 | Breezy Filler |
+| 614 | 780 | Megan Kitchner |
 | 615 | 780 | Amy Reynolds |
 | 616 | 779 | Trinity Oak |
 | 617 | 777 | Tesha Oldaker |
