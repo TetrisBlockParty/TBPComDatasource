@@ -32,8 +32,8 @@
 | 24 | 3221 | Ashley Jones |
 | 25 | 3118 | Jamie Lang |
 | 26 | 3042 | Nerdy Spinblock |
-| 27 | 2933 | Dan Rob |
-| 28 | 2933 | Grego Daniel |
+| 27 | 2933 | Grego Daniel |
+| 28 | 2933 | Dan Rob |
 | 29 | 2874 | Zippy Strikesnap |
 | 30 | 2873 | Chummy Shatterer |
 | 31 | 2816 | Fancy Slam |
@@ -78,13 +78,13 @@
 | 70 | 1769 | Aaron Pitkin |
 | 71 | 1691 | Cass Mendoza |
 | 72 | 1681 | Gracie |
-| 73 | 1663 | Mahman |
-| 74 | 1663 | Angeline Joseph |
+| 73 | 1663 | Angeline Joseph |
+| 74 | 1663 | Mahman |
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Nerdy Riseclear |
-| 79 | 1566 | Marcie Bressler |
+| 78 | 1566 | Marcie Bressler |
+| 79 | 1566 | Nerdy Riseclear |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1555 | Elaine Webb Graves |
@@ -111,8 +111,8 @@
 | 103 | 1309 | yoyo |
 | 104 | 1297 | Shelby Michelle |
 | 105 | 1290 | JerseyJess |
-| 106 | 1282 | Peppy Shifter |
-| 107 | 1282 | Amanda L Baker |
+| 106 | 1282 | Amanda L Baker |
+| 107 | 1282 | Peppy Shifter |
 | 108 | 1276 | Jessica Bechler |
 | 109 | 1274 | Sarah Fehring |
 | 110 | 1248 | Lori Barnaby |
@@ -160,16 +160,16 @@
 | 152 | 963 | Crystal Frey |
 | 153 | 961 | Danielle Allison |
 | 154 | 951 | Betty Rosas |
-| 155 | 950 | MissTaylor |
-| 156 | 950 | Giddy Drop |
+| 155 | 950 | Giddy Drop |
+| 156 | 950 | MissTaylor |
 | 157 | 947 | Kellie Montgomery |
 | 158 | 940 | Stephanie Allmon |
 | 159 | 936 | Dolores Falco |
 | 160 | 928 | Edwin Calvillo Jr. |
 | 161 | 925 | Cherry Parker |
 | 162 | 914 | BadManSheLove |
-| 163 | 910 | opf |
-| 164 | 910 | Staci George Fitzsimmons |
+| 163 | 910 | Staci George Fitzsimmons |
+| 164 | 910 | opf |
 | 165 | 906 | Patti Skiles |
 | 166 | 899 | Jaime Monhaut-Reed |
 | 167 | 894 | Denita Mungro |
@@ -179,16 +179,16 @@
 | 171 | 875 | Chasity |
 | 172 | 874 | Jessica Pineda-Lopez |
 | 173 | 871 | Rochelle Hazelett |
-| 174 | 868 | Cranky Gridder |
-| 175 | 868 | Nicole Flippo |
+| 174 | 868 | Nicole Flippo |
+| 175 | 868 | Cranky Gridder |
 | 176 | 866 | Domo Washington |
 | 177 | 864 | Sunny Rotater |
 | 178 | 862 | Santeria Trece Candles |
 | 179 | 857 | Dana Fox |
 | 180 | 856 | Dana Winters |
 | 181 | 854 | Speedy Bridger |
-| 182 | 847 | Daring Brickzone |
-| 183 | 847 | Daira Largen |
+| 182 | 847 | Daira Largen |
+| 183 | 847 | Daring Brickzone |
 | 184 | 846 | Nicole Myers |
 | 185 | 842 | Alexmac |
 | 186 | 829 | Patricia White |
@@ -219,8 +219,8 @@
 | 211 | 759 | Mykal Burton |
 | 212 | 758 | Shawn Miller |
 | 213 | 757 | Fancy Cascader |
-| 214 | 755 | Laura Booth Wosko |
-| 215 | 755 | Colton |
+| 214 | 755 | Colton |
+| 215 | 755 | Laura Booth Wosko |
 | 216 | 754 | CeceGeGe |
 | 217 | 753 | Morgan Martinez |
 | 218 | 752 | Joye Sims Binion |
@@ -306,13 +306,13 @@
 | 298 | 556 | Shiny Zonebuilder |
 | 299 | 555 | Danielle Weikel |
 | 300 | 552 | Scott Carleton |
-| 301 | 548 | Shannon Matthew Byers |
-| 302 | 548 | Chris Bell |
+| 301 | 548 | Chris Bell |
+| 302 | 548 | Shannon Matthew Byers |
 | 303 | 547 | Aerian Preston |
 | 304 | 542 | France Vézina |
 | 305 | 541 | Mcathen |
-| 306 | 540 | rosy |
-| 307 | 540 | Tanya Kittrell |
+| 306 | 540 | Tanya Kittrell |
+| 307 | 540 | rosy |
 | 308 | 539 | Fancy Curver |
 | 309 | 539 | Kate M. Murdock |
 | 310 | 538 | Chummy Caster |
@@ -334,8 +334,8 @@
 | 326 | 499 | Megan Rathmanner |
 | 327 | 499 | Gumbo |
 | 328 | 496 | Brenda Schmid Wood |
-| 329 | 494 | MCV |
-| 330 | 494 | fraulila |
+| 329 | 494 | fraulila |
+| 330 | 494 | MCV |
 | 331 | 492 | Tasha Wesson-Torrence |
 | 332 | 490 | Cassandra Bryant |
 | 333 | 490 | TotoCherue |
@@ -392,9 +392,9 @@
 | 384 | 435 | Sabrina Hardrick |
 | 385 | 434 | Criss |
 | 386 | 433 | Dapper Liney |
-| 387 | 432 | Hoppy Patternline |
-| 388 | 432 | Justice 4 P |
-| 389 | 432 | Sabrina Mansfield |
+| 387 | 432 | Justice 4 P |
+| 388 | 432 | Sabrina Mansfield |
+| 389 | 432 | Hoppy Patternline |
 | 390 | 431 | Goofy Fall |
 | 391 | 431 | Donna Esbensen-Alpini |
 | 392 | 430 | Quackers |
@@ -484,8 +484,8 @@
 | 476 | 360 | Alexi Pryor |
 | 477 | 360 | Cathy Leger |
 | 478 | 359 | Kathleen Taylor |
-| 479 | 358 | Taylor Culver |
-| 480 | 358 | Beejangles |
+| 479 | 358 | Beejangles |
+| 480 | 358 | Taylor Culver |
 | 481 | 358 | Hyper Twisterfit |
 | 482 | 357 | Danetta McCadden |
 | 483 | 356 | Trice Sodames |
@@ -626,8 +626,8 @@
 | 618 | 303 | Tosha Griffey |
 | 619 | 303 | Sameerah Smith |
 | 620 | 302 | Nicholas Roddy |
-| 621 | 302 | Jessica |
-| 622 | 302 | Lickity Split |
+| 621 | 302 | Lickity Split |
+| 622 | 302 | Jessica |
 | 623 | 300 | Bdhdj |
 | 624 | 299 | Six |
 | 625 | 299 | Angie Harper |
