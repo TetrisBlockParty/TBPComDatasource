@@ -269,8 +269,8 @@
 | 261 | 1558 | Tim Dyer |
 | 262 | 1557 | Poppy Snap |
 | 263 | 1556 | Julay |
-| 264 | 1553 | Sarah Freitas |
-| 265 | 1553 | Wendy Unsain |
+| 264 | 1553 | Wendy Unsain |
+| 265 | 1553 | Sarah Freitas |
 | 266 | 1553 | Boldy Cascadepiece |
 | 267 | 1539 | Nadia Batista Garcia |
 | 268 | 1528 | Stacy Stickle |
@@ -328,8 +328,8 @@
 | 320 | 1342 | Groovy Puzzle |
 | 321 | 1342 | Kelly A Green-Leach |
 | 322 | 1341 | Cassie Mercer |
-| 323 | 1338 | Diallo Sparkman |
-| 324 | 1338 | Meghan M |
+| 323 | 1338 | Meghan M |
+| 324 | 1338 | Diallo Sparkman |
 | 325 | 1336 | Frothy Rumbler |
 | 326 | 1334 | Jamie Otero |
 | 327 | 1333 | nikki |
@@ -961,8 +961,8 @@
 | 953 | 607 | Slip |
 | 954 | 607 | Dizzy Zone |
 | 955 | 607 | Tipsy Filler |
-| 956 | 606 | Stanislav Petkov |
-| 957 | 606 | Ebony Deloach Bryant |
+| 956 | 606 | Ebony Deloach Bryant |
+| 957 | 606 | Stanislav Petkov |
 | 958 | 606 | cel505♡ |
 | 959 | 605 | Saucy Fitzone |
 | 960 | 605 | Mandi Marie Smith |
@@ -991,15 +991,15 @@
 | 983 | 593 | Esther Hsu |
 | 984 | 592 | Elizabeth Nieto |
 | 985 | 591 | Ahtavia Watkins |
-| 986 | 591 | Mrs. New |
-| 987 | 591 | Quinn |
+| 986 | 591 | Quinn |
+| 987 | 591 | Mrs. New |
 | 988 | 590 | NickyBrooks |
 | 989 | 589 | Kelly Templeton |
 | 990 | 589 | Sharon Madeiros |
 | 991 | 588 | Wayne Fields |
 | 992 | 587 | Alexx Anaya |
-| 993 | 586 | Tracy Wise Moon |
-| 994 | 586 | Cat Thompson |
+| 993 | 586 | Cat Thompson |
+| 994 | 586 | Tracy Wise Moon |
 | 995 | 586 | Tra Barnum |
 | 996 | 585 | Danielle DeLozier Plesec |
 | 997 | 585 | Laquetta Royston |
@@ -1041,8 +1041,8 @@
 | 1033 | 570 | Erika Deer Kauffman |
 | 1034 | 570 | MauroPRM |
 | 1035 | 570 | Sonya Back |
-| 1036 | 569 | Anita Rose Green |
-| 1037 | 569 | Sparkles |
+| 1036 | 569 | Sparkles |
+| 1037 | 569 | Anita Rose Green |
 | 1038 | 569 | bosswoman |
 | 1039 | 568 | coleksquad |
 | 1040 | 567 | Lucero Ramirez |
@@ -1052,8 +1052,8 @@
 | 1044 | 563 | Dione |
 | 1045 | 563 | Heather M Purcell |
 | 1046 | 563 | David Rehse |
-| 1047 | 562 | Klee |
-| 1048 | 562 | Gabbrielle Sutton |
+| 1047 | 562 | Gabbrielle Sutton |
+| 1048 | 562 | Klee |
 | 1049 | 562 | Smiley Strike |
 | 1050 | 562 | Dan Kulhanek |
 | 1051 | 562 | Angie Winch |
@@ -1062,8 +1062,8 @@
 | 1054 | 559 | Britney M. |
 | 1055 | 559 | Kaylee McCafferty |
 | 1056 | 558 | Treshell Boyd |
-| 1057 | 558 | Byung Bae Park |
-| 1058 | 558 | Linda Miltenburg |
+| 1057 | 558 | Linda Miltenburg |
+| 1058 | 558 | Byung Bae Park |
 | 1059 | 558 | David Scott |
 | 1060 | 557 | Marina Linda |
 | 1061 | 557 | Vivian De Souza |
@@ -1083,8 +1083,8 @@
 | 1075 | 552 | Savannah Alexander |
 | 1076 | 552 | Heather Johnson |
 | 1077 | 551 | Edralin Custodio |
-| 1078 | 551 | Gina Justbeingme Chillis |
-| 1079 | 551 | B |
+| 1078 | 551 | B |
+| 1079 | 551 | Gina Justbeingme Chillis |
 | 1080 | 551 | Maxwell Escalera |
 | 1081 | 550 | Daring Matchfit |
 | 1082 | 549 | Ashley Collins |
@@ -1325,7 +1325,7 @@
 | 1317 | 464 | Joseph Greenlee |
 | 1318 | 463 | Jaye EL Hunter |
 | 1319 | 463 | Ys Muhammed |
-| 1320 | 462 | Nerdy Rollzone |
+| 1320 | 462 | Karen Schweyer |
 | 1321 | 462 | Bryan Werleman |
 | 1322 | 462 | Nerdy Rollzone |
 | 1323 | 462 | YAE |
