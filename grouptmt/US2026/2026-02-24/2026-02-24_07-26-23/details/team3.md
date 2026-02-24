@@ -104,8 +104,8 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Tiff Vs Tiffany |
-| 100 | 1318 | Diana Ibarra |
+| 99 | 1318 | Diana Ibarra |
+| 100 | 1318 | Tiff Vs Tiffany |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
@@ -227,12 +227,12 @@
 | 219 | 715 | Karon Griffin |
 | 220 | 714 | Jenny Hrndz |
 | 221 | 713 | Stephanie Blkpep Davidson |
-| 222 | 709 | Christine Niles |
-| 223 | 709 | Cynthia Castros-Hampton |
+| 222 | 709 | Cynthia Castros-Hampton |
+| 223 | 709 | Christine Niles |
 | 224 | 708 | Stephanie Bradley |
 | 225 | 703 | Shawn Miller |
-| 226 | 691 | Tia |
-| 227 | 691 | Snappy Balancer |
+| 226 | 691 | Snappy Balancer |
+| 227 | 691 | Tia |
 | 228 | 687 | joz |
 | 229 | 675 | Terry Jo Jones |
 | 230 | 662 | Jim Mathews |
@@ -244,8 +244,8 @@
 | 236 | 646 | Duane Bright |
 | 237 | 644 | Dawn Williams |
 | 238 | 642 | Rania Zaqout |
-| 239 | 641 | Kristal C Lee |
-| 240 | 641 | Tom Nault |
+| 239 | 641 | Tom Nault |
+| 240 | 641 | Kristal C Lee |
 | 241 | 640 | Dee Pratt |
 | 242 | 639 | Nichol Graham |
 | 243 | 635 | Amber Hughes |
@@ -257,16 +257,16 @@
 | 249 | 626 | Cheryl Hinch Tenbrook |
 | 250 | 625 | Jacqueline Rodriguez |
 | 251 | 624 | Hyper Matchzone |
-| 252 | 623 | Giggy Glidepiece |
-| 253 | 623 | Rebecca Funderburk Kirby |
+| 252 | 623 | Rebecca Funderburk Kirby |
+| 253 | 623 | Giggy Glidepiece |
 | 254 | 620 | Tamara Deherrera |
 | 255 | 619 | Swanky Snapclear |
 | 256 | 618 | Kaitie Oliver |
 | 257 | 618 | Betty Bóò |
 | 258 | 606 | Connie Mohler-Fair |
 | 259 | 605 | Sarah Cowan Burgos |
-| 260 | 604 | Bmo |
-| 261 | 604 | Sherry Ogden |
+| 260 | 604 | Sherry Ogden |
+| 261 | 604 | Bmo |
 | 262 | 601 | Betty Rosas |
 | 263 | 600 | Natasha Jones |
 | 264 | 599 | Noyb Adam |
@@ -274,8 +274,8 @@
 | 266 | 594 | Cozy Snaplink |
 | 267 | 590 | Marci Mize Fandrich |
 | 268 | 588 | Salena Whitlock |
-| 269 | 586 | Donna |
-| 270 | 586 | Brian Battjes |
+| 269 | 586 | Brian Battjes |
+| 270 | 586 | Donna |
 | 271 | 582 | FuzzyNavel |
 | 272 | 581 | Crystal Hine |
 | 273 | 578 | James Mitchell |
@@ -328,18 +328,18 @@
 | 320 | 499 | Gumbo |
 | 321 | 496 | Brenda Schmid Wood |
 | 322 | 495 | Daring Builder |
-| 323 | 494 | MCV |
-| 324 | 494 | fraulila |
+| 323 | 494 | fraulila |
+| 324 | 494 | MCV |
 | 325 | 492 | Tasha Wesson-Torrence |
 | 326 | 490 | Cassandra Bryant |
 | 327 | 489 | Isabel Ocasio |
 | 328 | 487 | MsBee |
-| 329 | 486 | Skippy |
-| 330 | 486 | Sleepy |
+| 329 | 486 | Sleepy |
+| 330 | 486 | Skippy |
 | 331 | 482 | Chummy Rumbler |
 | 332 | 481 | Tiffanie Alley |
-| 333 | 480 | Dee Franklin |
-| 334 | 480 | TLM |
+| 333 | 480 | TLM |
+| 334 | 480 | Dee Franklin |
 | 335 | 479 | Charles Perrone |
 | 336 | 476 | Shunta Jacobs |
 | 337 | 474 | Troy |
@@ -347,11 +347,11 @@
 | 339 | 471 | Mendoza Lee Christy |
 | 340 | 467 | Danielle Rhoades |
 | 341 | 467 | Jul |
-| 342 | 465 | Blocked |
-| 343 | 465 | Noettín Kan Zasnemoore |
+| 342 | 465 | Noettín Kan Zasnemoore |
+| 343 | 465 | Blocked |
 | 344 | 464 | Snazzy Filler |
-| 345 | 462 | Brandon Givens |
-| 346 | 462 | Tegan Chapman |
+| 345 | 462 | Tegan Chapman |
+| 346 | 462 | Brandon Givens |
 | 347 | 461 | Hyper Bridger |
 | 348 | 461 | Briana Wellman |
 | 349 | 460 | Antonia Russell |
@@ -361,8 +361,8 @@
 | 353 | 456 | Kelly |
 | 354 | 456 | Cynthia Herrmann Egland |
 | 355 | 455 | Kelly Wolf |
-| 356 | 450 | Stefanie LaPointe |
-| 357 | 450 | Luciana Braganca Vieira |
+| 356 | 450 | Luciana Braganca Vieira |
+| 357 | 450 | Stefanie LaPointe |
 | 358 | 449 | Lively Caster |
 | 359 | 447 | Carrie Huskey |
 | 360 | 447 | Num1hater |
@@ -2649,7 +2649,7 @@
 | 2641 | 33 | Aspen |
 | 2642 | 33 | Giggly Slide |
 | 2643 | 32 | Mandie Trumbo |
-| 2644 | 32 | Latasha Tasha |
+| 2644 | 32 | Crushed Nutz |
 | 2645 | 32 | William Dixon |
 | 2646 | 32 | Latasha Tasha |
 | 2647 | 32 | Stacy Lynn Beane |
