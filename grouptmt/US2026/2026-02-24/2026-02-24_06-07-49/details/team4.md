@@ -133,8 +133,8 @@
 | 125 | 712 | Leslie Nicole |
 | 126 | 712 | H.R. Block |
 | 127 | 708 | Jacqueline Helm |
-| 128 | 704 | Chilly Crasher |
-| 129 | 704 | Austin Owens |
+| 128 | 704 | Austin Owens |
+| 129 | 704 | Chilly Crasher |
 | 130 | 690 | Denia Deni |
 | 131 | 682 | Raegan Lane-Ross |
 | 132 | 668 | Desi Desporte |
@@ -222,8 +222,8 @@
 | 214 | 473 | Cranky Rollpiece |
 | 215 | 465 | June Hoffman |
 | 216 | 464 | Zakia Monae |
-| 217 | 462 | Crystal Nicolette Moore |
-| 218 | 462 | Leslie Thomas |
+| 217 | 462 | Leslie Thomas |
+| 218 | 462 | Crystal Nicolette Moore |
 | 219 | 460 | Kathy Brookins |
 | 220 | 458 | Kristina Black |
 | 221 | 458 | Luis Martinez |

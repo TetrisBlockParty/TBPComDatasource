@@ -163,7 +163,7 @@
 | 155 | 925 | Cherry Parker |
 | 156 | 914 | BadManSheLove |
 | 157 | 914 | Sarajane Lokan |
-| 158 | 914 | BadManSheLove |
+| 158 | 910 | Staci George Fitzsimmons |
 | 159 | 910 | opf |
 | 160 | 899 | Jaime Monhaut-Reed |
 | 161 | 894 | Denita Mungro |
@@ -301,10 +301,10 @@
 | 293 | 539 | Fancy Curver |
 | 294 | 536 | Shannon Matthew Byers |
 | 295 | 536 | Giddy Twistbuilder |
-| 296 | 536 | Shannon Matthew Byers |
-| 297 | 535 | kacihall |
-| 298 | 533 | BugMansMom |
-| 299 | 532 | Sarah Muradyan |
+| 296 | 535 | kacihall |
+| 297 | 533 | BugMansMom |
+| 298 | 532 | Sarah Muradyan |
+| 299 | 530 | KayB |
 | 300 | 530 | Rynne Ellis |
 | 301 | 527 | Heather Davis |
 | 302 | 527 | Chummy Caster |
@@ -475,8 +475,8 @@
 | 467 | 348 | Ashley Raines |
 | 468 | 345 | Big T |
 | 469 | 345 | victory |
-| 470 | 345 | Big T |
-| 471 | 345 | Misha Sanders |
+| 470 | 345 | Misha Sanders |
+| 471 | 344 | Lys |
 | 472 | 344 | Karent524 |
 | 473 | 343 | Christina Marie Swisher |
 | 474 | 343 | Eboni Starr |

@@ -119,8 +119,8 @@
 | 111 | 725 | Phu ckalldems |
 | 112 | 719 | Bindi |
 | 113 | 716 | Kristi Johnson |
-| 114 | 706 | Plucky Fallzone |
-| 115 | 706 | Denice Dee |
+| 114 | 706 | Denice Dee |
+| 115 | 706 | Plucky Fallzone |
 | 116 | 702 | lil mickey |
 | 117 | 699 | cc |
 | 118 | 692 | Melissa Lemmon |
@@ -167,8 +167,8 @@
 | 159 | 548 | Luciano Moreira |
 | 160 | 547 | Sharon Reynolds |
 | 161 | 546 | Loony Fitzone |
-| 162 | 543 | Adrian Esteban |
-| 163 | 543 | Nicole Roseberry Weber |
+| 162 | 543 | Nicole Roseberry Weber |
+| 163 | 543 | Adrian Esteban |
 | 164 | 540 | Tonya Beasley |
 | 165 | 538 | .running. |
 | 166 | 537 | Stephanie Zahn |
@@ -226,8 +226,8 @@
 | 218 | 431 | Tipsy Strikerpiece |
 | 219 | 429 | Tana |
 | 220 | 427 | Jessie Lynn |
-| 221 | 426 | Betsy |
-| 222 | 426 | Brenda Alexander |
+| 221 | 426 | Brenda Alexander |
+| 222 | 426 | Betsy |
 | 223 | 425 | Tyler Werts |
 | 224 | 424 | Serina Marie |
 | 225 | 424 | Lindsay Glover |
