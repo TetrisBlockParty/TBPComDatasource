@@ -122,8 +122,8 @@
 | 114 | 742 | Chris K |
 | 115 | 725 | Debbie Kane |
 | 116 | 716 | Kristi Johnson |
-| 117 | 706 | Denice Dee |
-| 118 | 706 | Plucky Fallzone |
+| 117 | 706 | Plucky Fallzone |
+| 118 | 706 | Denice Dee |
 | 119 | 702 | lil mickey |
 | 120 | 699 | cc |
 | 121 | 696 | Carrie Smith |
@@ -137,8 +137,8 @@
 | 129 | 666 | Virginia Gray Floyd |
 | 130 | 652 | Evie Khalil |
 | 131 | 651 | Dandy Basegrid |
-| 132 | 650 | April Carroll |
-| 133 | 650 | Bob |
+| 132 | 650 | Bob |
+| 133 | 650 | April Carroll |
 | 134 | 647 | Theo Pinnow |
 | 135 | 643 | Erin Rosberg |
 | 136 | 642 | Mario Cab |
@@ -200,18 +200,18 @@
 | 192 | 496 | Michelle Beres |
 | 193 | 496 | Sarah Somers Gray |
 | 194 | 495 | Connie |
-| 195 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 196 | 494 | Sean Stallings |
+| 195 | 494 | Sean Stallings |
+| 196 | 494 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 197 | 493 | Speedy Liney |
 | 198 | 493 | Chuck Gannon |
 | 199 | 492 | Happy Snapbuild |
-| 200 | 488 | Jessie Welch |
-| 201 | 488 | Ly Phethmany |
+| 200 | 488 | Ly Phethmany |
+| 201 | 488 | Jessie Welch |
 | 202 | 486 | Mike Ames |
 | 203 | 482 | Adele Rahman |
 | 204 | 479 | canbrick |
-| 205 | 478 | Jumpy Dropper |
-| 206 | 478 | Hasty Cascader |
+| 205 | 478 | Hasty Cascader |
+| 206 | 478 | Jumpy Dropper |
 | 207 | 477 | Dizzy Slider |
 | 208 | 475 | Reesey Enyart |
 | 209 | 475 | Amy Griffith |
@@ -365,8 +365,8 @@
 | 357 | 322 | Hasty Columnbuilder |
 | 358 | 321 | LD1 |
 | 359 | 320 | Zany Tiler |
-| 360 | 319 | Crystal Cheresnowsky |
-| 361 | 319 | Fresno Beotoni |
+| 360 | 319 | Fresno Beotoni |
+| 361 | 319 | Crystal Cheresnowsky |
 | 362 | 317 | Amh |
 | 363 | 317 | Bloknboy |
 | 364 | 316 | Giggly Builderline |
