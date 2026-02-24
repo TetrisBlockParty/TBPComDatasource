@@ -159,8 +159,8 @@
 | 151 | 598 | shar |
 | 152 | 595 | Rodney McMath Jr. |
 | 153 | 587 | YoMomma |
-| 154 | 586 | Latisha Davis |
-| 155 | 586 | Cursed Hag |
+| 154 | 586 | Cursed Hag |
+| 155 | 586 | Latisha Davis |
 | 156 | 584 | Carlton Unfiltered |
 | 157 | 582 | Angela Srubar-Norman |
 | 158 | 578 | Livvy |
@@ -320,9 +320,9 @@
 | 312 | 335 | Snippy Puzzle |
 | 313 | 332 | Jason Bosco |
 | 314 | 331 | Kate |
-| 315 | 330 | Brittany Little |
-| 316 | 330 | Sandra Safford |
-| 317 | 330 | Duck |
+| 315 | 330 | Duck |
+| 316 | 330 | Brittany Little |
+| 317 | 330 | Sandra Safford |
 | 318 | 329 | Meagan Nicole |
 | 319 | 328 | Leah Kutz Zirbel |
 | 320 | 328 | Angie Schmidt |
@@ -400,8 +400,8 @@
 | 392 | 278 | Shainne Brewer |
 | 393 | 278 | L Bear Champion |
 | 394 | 277 | Silly SeaWeed |
-| 395 | 276 | Dennis Bradley |
-| 396 | 276 | Cynthia Boudreau |
+| 395 | 276 | Cynthia Boudreau |
+| 396 | 276 | Dennis Bradley |
 | 397 | 275 | Jarred Falls |
 | 398 | 272 | Paito |
 | 399 | 270 | Stephme310 |

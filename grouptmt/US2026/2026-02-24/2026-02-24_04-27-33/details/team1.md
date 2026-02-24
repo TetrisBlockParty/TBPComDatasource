@@ -119,8 +119,8 @@
 | 111 | 719 | Bindi |
 | 112 | 716 | Kristi Johnson |
 | 113 | 711 | Debbie Kane |
-| 114 | 706 | Plucky Fallzone |
-| 115 | 706 | Denice Dee |
+| 114 | 706 | Denice Dee |
+| 115 | 706 | Plucky Fallzone |
 | 116 | 702 | lil mickey |
 | 117 | 699 | cc |
 | 118 | 692 | Melissa Lemmon |
@@ -274,8 +274,8 @@
 | 266 | 375 | DaRascal |
 | 267 | 374 | Snappy Brickbuilder |
 | 268 | 373 | Frothy Pattern |
-| 269 | 372 | Wayne Saunders |
-| 270 | 372 | Dizzy Party |
+| 269 | 372 | Dizzy Party |
+| 270 | 372 | Wayne Saunders |
 | 271 | 371 | Jaimie Lynn |
 | 272 | 370 | Gracie |
 | 273 | 370 | Chantelle Ceno |

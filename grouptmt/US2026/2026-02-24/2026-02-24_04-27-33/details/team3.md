@@ -305,8 +305,8 @@
 | 297 | 517 | PrncssPJ |
 | 298 | 514 | Nikki White |
 | 299 | 511 | Marci Mize Fandrich |
-| 300 | 508 | joz |
-| 301 | 508 | Colton |
+| 300 | 508 | Colton |
+| 301 | 508 | joz |
 | 302 | 506 | Ammmmmmy |
 | 303 | 505 | Stephanie Simpson |
 | 304 | 500 | Ashley Tookes |
@@ -315,12 +315,12 @@
 | 307 | 494 | Megan Rathmanner |
 | 308 | 494 | MCV |
 | 309 | 492 | Tasha Wesson-Torrence |
-| 310 | 490 | Cassandra Bryant |
-| 311 | 490 | Brenda Schmid Wood |
+| 310 | 490 | Brenda Schmid Wood |
+| 311 | 490 | Cassandra Bryant |
 | 312 | 489 | Daring Builder |
 | 313 | 489 | Isabel Ocasio |
-| 314 | 486 | Sleepy |
-| 315 | 486 | Skippy |
+| 314 | 486 | Skippy |
+| 315 | 486 | Sleepy |
 | 316 | 482 | Chummy Rumbler |
 | 317 | 481 | Tiffanie Alley |
 | 318 | 480 | Dee Franklin |
@@ -330,8 +330,8 @@
 | 322 | 471 | Mendoza Lee Christy |
 | 323 | 471 | Sarah Moyer |
 | 324 | 467 | Danielle Rhoades |
-| 325 | 465 | Noettín Kan Zasnemoore |
-| 326 | 465 | Blocked |
+| 325 | 465 | Blocked |
+| 326 | 465 | Noettín Kan Zasnemoore |
 | 327 | 464 | Danielle Weikel |
 | 328 | 463 | Charles Perrone |
 | 329 | 462 | Jul |

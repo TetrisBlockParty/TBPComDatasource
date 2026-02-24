@@ -166,8 +166,8 @@
 | 158 | 2093 | Michele Gabriel |
 | 159 | 2068 | PsychKIRAtrist |
 | 160 | 2060 | Shameika Trail |
-| 161 | 2056 | Tonya Brooks-Johnson |
-| 162 | 2056 | Alisa Lamb |
+| 161 | 2056 | Alisa Lamb |
+| 162 | 2056 | Tonya Brooks-Johnson |
 | 163 | 2048 | Jose Mendoza |
 | 164 | 2007 | Hannah Erskine |
 | 165 | 2005 | Cody Nishimura |
@@ -639,8 +639,8 @@
 | 631 | 763 | Chelle |
 | 632 | 763 | Heather Causey |
 | 633 | 761 | Cecilia A Jenkins |
-| 634 | 759 | Jessica Lamb |
-| 635 | 759 | Briana Alexander |
+| 634 | 759 | Briana Alexander |
+| 635 | 759 | Jessica Lamb |
 | 636 | 758 | Stephanie Neuburger |
 | 637 | 757 | Frisky Clearpiece |
 | 638 | 756 | Shiny Twistfit |
@@ -649,11 +649,11 @@
 | 641 | 755 | Antonio Mckoy Sr. |
 | 642 | 754 | Draizen Montrell Thomas |
 | 643 | 753 | John Jubes |
-| 644 | 751 | Swanky Strikerpiece |
-| 645 | 751 | Tom Riefer |
+| 644 | 751 | Tom Riefer |
+| 645 | 751 | Swanky Strikerpiece |
 | 646 | 750 | Samie Dayle |
-| 647 | 749 | Trisha J Schmidt |
-| 648 | 749 | ToxicTrash |
+| 647 | 749 | ToxicTrash |
+| 648 | 749 | Trisha J Schmidt |
 | 649 | 743 | Véronique Lévesque Sabourin |
 | 650 | 743 | Gloria Ininahazwe |
 | 651 | 742 | Rhonda Petro |
