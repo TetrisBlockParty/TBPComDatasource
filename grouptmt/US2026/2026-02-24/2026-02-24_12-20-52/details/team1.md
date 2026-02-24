@@ -50,8 +50,8 @@
 | 42 | 1405 | Chipper Gridlock |
 | 43 | 1391 | Aaron Garnett |
 | 44 | 1388 | Jen Sartain |
-| 45 | 1334 | june october |
-| 46 | 1334 | Tyler Alcock |
+| 45 | 1334 | Tyler Alcock |
+| 46 | 1334 | june october |
 | 47 | 1325 | Drew Magnus |
 | 48 | 1305 | Michelle Nicole |
 | 49 | 1290 | Spunky Piecebuilder |
@@ -374,8 +374,8 @@
 | 366 | 324 | Brave Wrecker |
 | 367 | 323 | Nadine Velardo |
 | 368 | 322 | Chris65 |
-| 369 | 322 | Tanya Banks |
-| 370 | 322 | Hasty Columnbuilder |
+| 369 | 322 | Hasty Columnbuilder |
+| 370 | 322 | Tanya Banks |
 | 371 | 321 | LD1 |
 | 372 | 320 | Zany Tiler |
 | 373 | 320 | ESC |
@@ -768,7 +768,7 @@
 | 760 | 166 | docjp |
 | 761 | 166 | Christa Ybarra |
 | 762 | 166 | Tina Midkiff |
-| 763 | 166 | Spicy Spinblock |
+| 763 | 166 | Spunky Tilt |
 | 764 | 166 | Dafna Kaplan-Garrahy |
 | 765 | 166 | Tina Kocher Zimmerman |
 | 766 | 164 | Paul Osborne |

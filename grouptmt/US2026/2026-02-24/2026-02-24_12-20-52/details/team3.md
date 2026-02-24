@@ -32,8 +32,8 @@
 | 24 | 3221 | Ashley Jones |
 | 25 | 3118 | Jamie Lang |
 | 26 | 3042 | Nerdy Spinblock |
-| 27 | 2933 | Grego Daniel |
-| 28 | 2933 | Dan Rob |
+| 27 | 2933 | Dan Rob |
+| 28 | 2933 | Grego Daniel |
 | 29 | 2874 | Zippy Strikesnap |
 | 30 | 2873 | Chummy Shatterer |
 | 31 | 2816 | Fancy Slam |
@@ -70,8 +70,8 @@
 | 62 | 1868 | Kristie McFarland |
 | 63 | 1836 | Tina Kay |
 | 64 | 1825 | Nora Rogers |
-| 65 | 1824 | Nate Burnside |
-| 66 | 1824 | Jessica Ann |
+| 65 | 1824 | Jessica Ann |
+| 66 | 1824 | Nate Burnside |
 | 67 | 1791 | Leah Barnett |
 | 68 | 1776 | Whitney Manuel |
 | 69 | 1774 | Liv Whetson |
@@ -328,12 +328,12 @@
 | 320 | 518 | Marquita Sheard |
 | 321 | 516 | Skippy |
 | 322 | 514 | Nikki White |
-| 323 | 506 | Ammmmmmy |
-| 324 | 506 | Tiffanie Alley |
+| 323 | 506 | Tiffanie Alley |
+| 324 | 506 | Ammmmmmy |
 | 325 | 504 | Daring Builder |
 | 326 | 500 | Ashley Tookes |
-| 327 | 499 | Gumbo |
-| 328 | 499 | Megan Rathmanner |
+| 327 | 499 | Megan Rathmanner |
+| 328 | 499 | Gumbo |
 | 329 | 497 | Chummy Rumbler |
 | 330 | 496 | Brenda Schmid Wood |
 | 331 | 494 | fraulila |
@@ -344,10 +344,10 @@
 | 336 | 489 | Isabel Ocasio |
 | 337 | 487 | MsBee |
 | 338 | 486 | Sleepy |
-| 339 | 485 | Steffi Chris Dacones |
-| 340 | 485 | Charles Perrone |
-| 341 | 483 | Tegan Chapman |
-| 342 | 483 | Jul |
+| 339 | 485 | Charles Perrone |
+| 340 | 485 | Steffi Chris Dacones |
+| 341 | 483 | Jul |
+| 342 | 483 | Tegan Chapman |
 | 343 | 482 | Travis W |
 | 344 | 480 | Dee Franklin |
 | 345 | 480 | TLM |
@@ -357,8 +357,8 @@
 | 349 | 474 | Randy Clevenger |
 | 350 | 474 | Troy |
 | 351 | 473 | Christian Werndl |
-| 352 | 471 | Mendoza Lee Christy |
-| 353 | 471 | Sarah Moyer |
+| 352 | 471 | Sarah Moyer |
+| 353 | 471 | Mendoza Lee Christy |
 | 354 | 470 | Jazzy Spinfit |
 | 355 | 468 | Bigmack |
 | 356 | 467 | Danielle Rhoades |
@@ -367,8 +367,8 @@
 | 359 | 464 | Snazzy Filler |
 | 360 | 464 | Snippy Wipeout |
 | 361 | 463 | Hoài Quắt |
-| 362 | 461 | Breanna Marsden |
-| 363 | 461 | Hyper Bridger |
+| 362 | 461 | Hyper Bridger |
+| 363 | 461 | Breanna Marsden |
 | 364 | 461 | Briana Wellman |
 | 365 | 460 | Hasty Gridpiece |
 | 366 | 460 | Antonia Russell |
@@ -488,8 +488,8 @@
 | 480 | 360 | Cathy Leger |
 | 481 | 360 | Alexi Pryor |
 | 482 | 359 | Kathleen Taylor |
-| 483 | 358 | Taylor Culver |
-| 484 | 358 | Beejangles |
+| 483 | 358 | Beejangles |
+| 484 | 358 | Taylor Culver |
 | 485 | 358 | Hyper Twisterfit |
 | 486 | 356 | Nikkie Bucciano |
 | 487 | 356 | Jimmie Clemons |
@@ -691,8 +691,8 @@
 | 683 | 276 | Mana |
 | 684 | 276 | Brysten Green |
 | 685 | 275 | Doddie Marie |
-| 686 | 275 | Richard Saunders |
-| 687 | 275 | Bnoom |
+| 686 | 275 | Bnoom |
+| 687 | 275 | Richard Saunders |
 | 688 | 275 | Mariah Williams |
 | 689 | 274 | Gina Marie |
 | 690 | 274 | crystal |

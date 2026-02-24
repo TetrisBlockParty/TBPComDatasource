@@ -246,12 +246,12 @@
 | 238 | 460 | Kathy Brookins |
 | 239 | 458 | Kristina Black |
 | 240 | 458 | Luis Martinez |
-| 241 | 457 | J-Rizzle |
-| 242 | 457 | Kristin Manee |
+| 241 | 457 | Kristin Manee |
+| 242 | 457 | J-Rizzle |
 | 243 | 455 | Michele Plunkett |
-| 244 | 454 | Keshia Lyons |
-| 245 | 454 | Jessi Cinotto |
-| 246 | 454 | David Lay |
+| 244 | 454 | David Lay |
+| 245 | 454 | Keshia Lyons |
+| 246 | 454 | Jessi Cinotto |
 | 247 | 450 | Genne Scott |
 | 248 | 449 | Danielle Kollias |
 | 249 | 448 | Mike Solo |
@@ -289,8 +289,8 @@
 | 281 | 408 | Lauren Scott |
 | 282 | 407 | Hyper Builder |
 | 283 | 406 | KimoKoala |
-| 284 | 402 | Maria Hammie |
-| 285 | 402 | Nita Wells |
+| 284 | 402 | Nita Wells |
+| 285 | 402 | Maria Hammie |
 | 286 | 398 | Tyler Terrific |
 | 287 | 397 | blockstar |
 | 288 | 395 | Denise B |
@@ -309,8 +309,8 @@
 | 301 | 378 | Googenheim |
 | 302 | 378 | Mary Ann Pabukis |
 | 303 | 376 | Nig |
-| 304 | 375 | George Tzouganos |
-| 305 | 375 | Dan Wold |
+| 304 | 375 | Dan Wold |
+| 305 | 375 | George Tzouganos |
 | 306 | 373 | Russ Attitude |
 | 307 | 370 | Kris Bartlett |
 | 308 | 370 | Twisty Risebuilder |
@@ -318,7 +318,7 @@
 | 310 | 366 | Ak Jones |
 | 311 | 364 | Lora |
 | 312 | 362 | Nubian1 |
-| 313 | 359 | Sho Nuff |
+| 313 | 359 | Allen Lloyd |
 | 314 | 359 | Holly |
 | 315 | 359 | Sho Nuff |
 | 316 | 354 | Perky Piecegrid |
