@@ -403,8 +403,8 @@
 | 395 | 1137 | Kenny Alvarado |
 | 396 | 1136 | Ashlen Dorrell |
 | 397 | 1123 | Jodi Mitnick |
-| 398 | 1119 | Bubbly Snapfit |
-| 399 | 1119 | Teresa Gillmore |
+| 398 | 1119 | Teresa Gillmore |
+| 399 | 1119 | Bubbly Snapfit |
 | 400 | 1118 | Ibiza Carolina LaRose |
 | 401 | 1118 | Kimmy Newman |
 | 402 | 1116 | Em Chen |

@@ -202,8 +202,8 @@
 | 194 | 783 | Julian Murphy |
 | 195 | 777 | Daryn Elliott |
 | 196 | 775 | Lizabeth Fox |
-| 197 | 774 | Twisty Brick LT |
-| 198 | 774 | ren |
+| 197 | 774 | ren |
+| 198 | 774 | Twisty Brick LT |
 | 199 | 772 | Tye Stovall |
 | 200 | 769 | Hasty Cascadefit |
 | 201 | 768 | Cyd061769 |
@@ -304,8 +304,8 @@
 | 296 | 540 | Tanya Kittrell |
 | 297 | 539 | Fancy Curver |
 | 298 | 539 | Kate M. Murdock |
-| 299 | 536 | Giddy Twistbuilder |
-| 300 | 536 | Shannon Matthew Byers |
+| 299 | 536 | Shannon Matthew Byers |
+| 300 | 536 | Giddy Twistbuilder |
 | 301 | 535 | kacihall |
 | 302 | 533 | BugMansMom |
 | 303 | 532 | Sarah Muradyan |
@@ -347,8 +347,8 @@
 | 339 | 471 | Sarah Moyer |
 | 340 | 467 | Jul |
 | 341 | 467 | Danielle Rhoades |
-| 342 | 465 | Blocked |
-| 343 | 465 | Noettín Kan Zasnemoore |
+| 342 | 465 | Noettín Kan Zasnemoore |
+| 343 | 465 | Blocked |
 | 344 | 464 | Snazzy Filler |
 | 345 | 462 | Brandon Givens |
 | 346 | 462 | Tegan Chapman |
@@ -383,10 +383,10 @@
 | 375 | 432 | Justice 4 P |
 | 376 | 431 | Donna Esbensen-Alpini |
 | 377 | 430 | Quackers |
-| 378 | 428 | Samantha Lynn |
-| 379 | 428 | Skinny Baldez |
-| 380 | 427 | Darlene McMillan |
-| 381 | 427 | AlsoJess |
+| 378 | 428 | Skinny Baldez |
+| 379 | 428 | Samantha Lynn |
+| 380 | 427 | AlsoJess |
+| 381 | 427 | Darlene McMillan |
 | 382 | 426 | Christina Rotz Shows |
 | 383 | 425 | Ava Petito |
 | 384 | 423 | Dapper Liney |
@@ -396,8 +396,8 @@
 | 388 | 418 | Rainbow77375 |
 | 389 | 416 | Tay |
 | 390 | 415 | Steffi Chris Dacones |
-| 391 | 414 | Arden White Kirsch |
-| 392 | 414 | RickyG |
+| 391 | 414 | RickyG |
+| 392 | 414 | Arden White Kirsch |
 | 393 | 413 | Rick Poppen |
 | 394 | 411 | Beaudie Stroebel |
 | 395 | 409 | Rich LeBlanc |

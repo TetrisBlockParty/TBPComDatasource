@@ -192,7 +192,7 @@
 | 184 | 535 | Berklie Apedaile |
 | 185 | 532 | Matt Summer |
 | 186 | 532 | Alan George LaRage |
-| 187 | 528 | Shiny Fit |
+| 187 | 528 | Carly Alexis |
 | 188 | 528 | Erin Sabol |
 | 189 | 528 | Shiny Fit |
 | 190 | 525 | Lucas J Sutton |
@@ -250,17 +250,17 @@
 | 242 | 438 | Melvin Baird |
 | 243 | 438 | 23 |
 | 244 | 434 | Ramel Rhodes |
-| 245 | 433 | Circuit8 |
-| 246 | 433 | Damn Libra |
-| 247 | 432 | scott |
-| 248 | 432 | Plucky Patternblock |
+| 245 | 433 | Damn Libra |
+| 246 | 433 | Circuit8 |
+| 247 | 432 | Plucky Patternblock |
+| 248 | 432 | scott |
 | 249 | 430 | Chris Bernstein |
 | 250 | 427 | Chao Ma |
 | 251 | 427 | Cheery Risebuilder |
 | 252 | 424 | Andrew Dang |
 | 253 | 423 | Gdiguy |
-| 254 | 421 | Brickh4us |
-| 255 | 421 | JIGsaw ~(•¿°)~ |
+| 254 | 421 | JIGsaw ~(•¿°)~ |
+| 255 | 421 | Brickh4us |
 | 256 | 420 | Jeff Brian Gates |
 | 257 | 413 | Rio Rocha |
 | 258 | 411 | Autumn Kumzi |
@@ -322,8 +322,8 @@
 | 314 | 347 | Perky Patternblock |
 | 315 | 346 | Metsfan |
 | 316 | 344 | Amanda Maciel Clarke |
-| 317 | 343 | HastyGrabber |
-| 318 | 343 | Blessedmama |
+| 317 | 343 | Blessedmama |
+| 318 | 343 | HastyGrabber |
 | 319 | 342 | Lauren Lamb |
 | 320 | 340 | Juls |
 | 321 | 339 | Chance Strickland |
@@ -342,8 +342,8 @@
 | 334 | 330 | Duck |
 | 335 | 329 | AyeKay |
 | 336 | 329 | Meagan Nicole |
-| 337 | 328 | Heather Bruce |
-| 338 | 328 | Leah Kutz Zirbel |
+| 337 | 328 | Leah Kutz Zirbel |
+| 338 | 328 | Heather Bruce |
 | 339 | 327 | Jim Hart |
 | 340 | 325 | Cool Gridzone |
 | 341 | 324 | Sarah Hoffman |
