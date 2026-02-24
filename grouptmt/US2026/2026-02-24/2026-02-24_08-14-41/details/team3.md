@@ -104,13 +104,13 @@
 | 96 | 1361 | Patricia Gadsden |
 | 97 | 1343 | Joey Banks |
 | 98 | 1320 | Kristie |
-| 99 | 1318 | Tiff Vs Tiffany |
-| 100 | 1318 | Diana Ibarra |
+| 99 | 1318 | Diana Ibarra |
+| 100 | 1318 | Tiff Vs Tiffany |
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
-| 104 | 1282 | Peppy Shifter |
-| 105 | 1282 | Amanda L Baker |
+| 104 | 1282 | Amanda L Baker |
+| 105 | 1282 | Peppy Shifter |
 | 106 | 1276 | Jessica Bechler |
 | 107 | 1274 | Sarah Fehring |
 | 108 | 1268 | Angeline Joseph |
@@ -234,8 +234,8 @@
 | 226 | 708 | Stephanie Bradley |
 | 227 | 704 | Betty Bóò |
 | 228 | 703 | Shawn Miller |
-| 229 | 691 | Snappy Balancer |
-| 230 | 691 | Tia |
+| 229 | 691 | Tia |
+| 230 | 691 | Snappy Balancer |
 | 231 | 687 | joz |
 | 232 | 675 | Terry Jo Jones |
 | 233 | 662 | Jim Mathews |
@@ -251,8 +251,8 @@
 | 243 | 640 | Dee Pratt |
 | 244 | 639 | Nichol Graham |
 | 245 | 635 | Amber Hughes |
-| 246 | 633 | Rebecca Funderburk Kirby |
-| 247 | 633 | Jillian Symons |
+| 246 | 633 | Jillian Symons |
+| 247 | 633 | Rebecca Funderburk Kirby |
 | 248 | 630 | Jackie Miller |
 | 249 | 629 | rnr junky |
 | 250 | 627 | Juliana Dottore |
@@ -328,8 +328,8 @@
 | 320 | 499 | Megan Rathmanner |
 | 321 | 496 | Brenda Schmid Wood |
 | 322 | 495 | Daring Builder |
-| 323 | 494 | MCV |
-| 324 | 494 | fraulila |
+| 323 | 494 | fraulila |
+| 324 | 494 | MCV |
 | 325 | 492 | Tasha Wesson-Torrence |
 | 326 | 490 | Cassandra Bryant |
 | 327 | 489 | Isabel Ocasio |
@@ -339,17 +339,17 @@
 | 331 | 483 | Tegan Chapman |
 | 332 | 482 | Chummy Rumbler |
 | 333 | 481 | Tiffanie Alley |
-| 334 | 480 | TLM |
-| 335 | 480 | Dee Franklin |
+| 334 | 480 | Dee Franklin |
+| 335 | 480 | TLM |
 | 336 | 479 | Charles Perrone |
 | 337 | 476 | Shunta Jacobs |
 | 338 | 474 | Troy |
-| 339 | 471 | Sarah Moyer |
-| 340 | 471 | Mendoza Lee Christy |
-| 341 | 467 | Jul |
-| 342 | 467 | Danielle Rhoades |
-| 343 | 465 | Blocked |
-| 344 | 465 | Noettín Kan Zasnemoore |
+| 339 | 471 | Mendoza Lee Christy |
+| 340 | 471 | Sarah Moyer |
+| 341 | 467 | Danielle Rhoades |
+| 342 | 467 | Jul |
+| 343 | 465 | Noettín Kan Zasnemoore |
+| 344 | 465 | Blocked |
 | 345 | 464 | Snazzy Filler |
 | 346 | 462 | Brandon Givens |
 | 347 | 461 | Hyper Bridger |
@@ -392,8 +392,8 @@
 | 384 | 426 | Christina Rotz Shows |
 | 385 | 425 | Ava Petito |
 | 386 | 423 | Dapper Liney |
-| 387 | 419 | Desiree Gold |
-| 388 | 419 | Philip Rock |
+| 387 | 419 | Philip Rock |
+| 388 | 419 | Desiree Gold |
 | 389 | 419 | Maggie |
 | 390 | 418 | Rainbow77375 |
 | 391 | 416 | Tay |
@@ -402,10 +402,10 @@
 | 394 | 414 | RickyG |
 | 395 | 413 | Rick Poppen |
 | 396 | 411 | Beaudie Stroebel |
-| 397 | 409 | Roary Danner |
-| 398 | 409 | Rich LeBlanc |
-| 399 | 408 | Tiffany Ford |
-| 400 | 408 | Ashley Muncey |
+| 397 | 409 | Rich LeBlanc |
+| 398 | 409 | Roary Danner |
+| 399 | 408 | Ashley Muncey |
+| 400 | 408 | Tiffany Ford |
 | 401 | 407 | Christina Spa |
 | 402 | 406 | Kristen Weese |
 | 403 | 405 | Andrew Thorson |
@@ -605,8 +605,8 @@
 | 597 | 303 | Hasty Pop |
 | 598 | 303 | Tosha Griffey |
 | 599 | 302 | Lickity Split |
-| 600 | 302 | Jessica |
-| 601 | 302 | Nicholas Roddy |
+| 600 | 302 | Nicholas Roddy |
+| 601 | 302 | Jessica |
 | 602 | 302 | Megan Riggins |
 | 603 | 299 | Six |
 | 604 | 299 | Angie Harper |

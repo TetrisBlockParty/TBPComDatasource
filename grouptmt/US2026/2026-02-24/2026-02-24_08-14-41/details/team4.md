@@ -107,14 +107,14 @@
 | 99 | 846 | Christine Marie |
 | 100 | 840 | SAP |
 | 101 | 837 | Rica Mitchell |
-| 102 | 834 | quicksand420 |
-| 103 | 834 | Brittney Orengo |
+| 102 | 834 | Brittney Orengo |
+| 103 | 834 | quicksand420 |
 | 104 | 815 | Diana Houts |
 | 105 | 813 | Klo |
 | 106 | 811 | Sassy Pattern |
 | 107 | 806 | Lori Walker |
-| 108 | 802 | Denise Carlson |
-| 109 | 802 | Crystal Carroll |
+| 108 | 802 | Crystal Carroll |
+| 109 | 802 | Denise Carlson |
 | 110 | 801 | D3TROITB0RN74 |
 | 111 | 798 | Jewell Urban |
 | 112 | 796 | Zippy Gridlock |
@@ -131,18 +131,18 @@
 | 123 | 735 | Nugget |
 | 124 | 731 | KJ Pool |
 | 125 | 729 | Jamie Mann-Deichmann |
-| 126 | 726 | Jamie Gustafson |
-| 127 | 726 | Amy Suckarieh |
+| 126 | 726 | Amy Suckarieh |
+| 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 712 | Leslie Nicole |
 | 130 | 712 | H.R. Block |
 | 131 | 708 | Jacqueline Helm |
-| 132 | 704 | Chilly Crasher |
-| 133 | 704 | Austin Owens |
+| 132 | 704 | Austin Owens |
+| 133 | 704 | Chilly Crasher |
 | 134 | 682 | Raegan Lane-Ross |
 | 135 | 668 | Desi Desporte |
-| 136 | 667 | Swanky Fitline |
-| 137 | 667 | Lindsey Gonzalez |
+| 136 | 667 | Lindsey Gonzalez |
+| 137 | 667 | Swanky Fitline |
 | 138 | 667 | Matt Gooder |
 | 139 | 662 | Nerdy Twisterfit |
 | 140 | 662 | George Nutt |
@@ -195,8 +195,8 @@
 | 187 | 534 | Lucas J Sutton |
 | 188 | 532 | Matt Summer |
 | 189 | 532 | Alan George LaRage |
-| 190 | 528 | Carly Alexis |
-| 191 | 528 | Erin Sabol |
+| 190 | 528 | Erin Sabol |
+| 191 | 528 | Carly Alexis |
 | 192 | 525 | 🥔🥔 Spudz |
 | 193 | 521 | Andy Cabral |
 | 194 | 520 | Oscar Alberto Perez |
@@ -212,8 +212,8 @@
 | 204 | 509 | Mimi |
 | 205 | 507 | Andria Lynn |
 | 206 | 504 | Deanna Deckard |
-| 207 | 502 | Christina Black |
-| 208 | 502 | Ericca Eldridge |
+| 207 | 502 | Ericca Eldridge |
+| 208 | 502 | Christina Black |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
 | 211 | 496 | Jessica Bohlken |
@@ -269,20 +269,20 @@
 | 261 | 411 | TinyLegoRose |
 | 262 | 411 | Autumn Kumzi |
 | 263 | 410 | Lindsay Ball |
-| 264 | 409 | Joseph Guthrie |
-| 265 | 409 | Antony Dwayne Beasley |
+| 264 | 409 | Antony Dwayne Beasley |
+| 265 | 409 | Joseph Guthrie |
 | 266 | 408 | Dihcheese444 |
 | 267 | 408 | Lauren Scott |
-| 268 | 407 | Hyper Builder |
-| 269 | 407 | Rafael Valentin |
+| 268 | 407 | Rafael Valentin |
+| 269 | 407 | Hyper Builder |
 | 270 | 402 | Nita Wells |
 | 271 | 399 | 030Synner |
 | 272 | 399 | Brittany Little |
 | 273 | 399 | Twisty Cascadezone |
 | 274 | 398 | Tyler Terrific |
 | 275 | 397 | blockstar |
-| 276 | 395 | BigSammy420 |
-| 277 | 395 | Denise B |
+| 276 | 395 | Denise B |
+| 277 | 395 | BigSammy420 |
 | 278 | 394 | Nikki Rae Gordon |
 | 279 | 393 | Montiette Mcglown |
 | 280 | 392 | Neirrah B Olailjeel |
