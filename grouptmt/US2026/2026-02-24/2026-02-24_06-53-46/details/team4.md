@@ -241,22 +241,22 @@
 | 233 | 455 | Michele Plunkett |
 | 234 | 454 | Keshia Lyons |
 | 235 | 449 | Danielle Kollias |
-| 236 | 448 | Mr. Party |
-| 237 | 448 | Mike Solo |
+| 236 | 448 | Mike Solo |
+| 237 | 448 | Mr. Party |
 | 238 | 447 | Jen Mattei |
 | 239 | 444 | Selena Shaw |
 | 240 | 442 | John Brunetti |
 | 241 | 441 | Lush Linkfall |
-| 242 | 438 | Melvin Baird |
-| 243 | 438 | 23 |
+| 242 | 438 | 23 |
+| 243 | 438 | Melvin Baird |
 | 244 | 434 | Ramel Rhodes |
 | 245 | 433 | Circuit8 |
 | 246 | 433 | Damn Libra |
 | 247 | 432 | Plucky Patternblock |
 | 248 | 432 | scott |
 | 249 | 430 | Chris Bernstein |
-| 250 | 427 | Chao Ma |
-| 251 | 427 | Cheery Risebuilder |
+| 250 | 427 | Cheery Risebuilder |
+| 251 | 427 | Chao Ma |
 | 252 | 424 | Andrew Dang |
 | 253 | 423 | Gdiguy |
 | 254 | 421 | Brickh4us |
@@ -878,7 +878,7 @@
 | 870 | 125 | Brittany Price |
 | 871 | 125 | Saucy Stackbuilder |
 | 872 | 125 | Megan Boyce |
-| 873 | 124 | Atia Scott |
+| 873 | 124 | Dot Flanagan |
 | 874 | 124 | Shelly Goad |
 | 875 | 124 | Atia Scott |
 | 876 | 124 | Demont Darius |
