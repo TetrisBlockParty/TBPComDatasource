@@ -340,8 +340,8 @@
 | 332 | 461 | Hyper Bridger |
 | 333 | 460 | Antonia Russell |
 | 334 | 459 | Randy Clevenger |
-| 335 | 456 | Cynthia Herrmann Egland |
-| 336 | 456 | Kelly |
+| 335 | 456 | Kelly |
+| 336 | 456 | Cynthia Herrmann Egland |
 | 337 | 455 | Kelly Wolf |
 | 338 | 452 | Tyler Shoff |
 | 339 | 452 | Snippy Wipeout |
@@ -770,8 +770,8 @@
 | 762 | 233 | Jaimie Thomas |
 | 763 | 233 | Sarah Whalen |
 | 764 | 233 | Brian Quigley |
-| 765 | 232 | Stephanie Hill |
-| 766 | 232 | Emi |
+| 765 | 232 | Emi |
+| 766 | 232 | Stephanie Hill |
 | 767 | 232 | Sunny Tiltgrid |
 | 768 | 231 | Katie Morton |
 | 769 | 231 | Janay Darkstallion Robinson |

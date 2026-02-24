@@ -118,8 +118,8 @@
 | 110 | 719 | Bindi |
 | 111 | 716 | Kristi Johnson |
 | 112 | 711 | Debbie Kane |
-| 113 | 706 | Plucky Fallzone |
-| 114 | 706 | Denice Dee |
+| 113 | 706 | Denice Dee |
+| 114 | 706 | Plucky Fallzone |
 | 115 | 702 | lil mickey |
 | 116 | 699 | cc |
 | 117 | 692 | Melissa Lemmon |
@@ -145,8 +145,8 @@
 | 137 | 598 | Jessi Sauer |
 | 138 | 593 | Maria C. Hernandez |
 | 139 | 593 | Giddy Cascade |
-| 140 | 589 | Virginia Gray Floyd |
-| 141 | 589 | April Carroll |
+| 140 | 589 | April Carroll |
+| 141 | 589 | Virginia Gray Floyd |
 | 142 | 587 | Deanna L Hermanson |
 | 143 | 584 | Susan Ward |
 | 144 | 582 | Hellsin |
@@ -167,18 +167,18 @@
 | 159 | 543 | Nicole Roseberry Weber |
 | 160 | 543 | Tipsy Riseclear |
 | 161 | 540 | Tonya Beasley |
-| 162 | 537 | BadG52 |
-| 163 | 537 | Stephanie Zahn |
+| 162 | 537 | Stephanie Zahn |
+| 163 | 537 | BadG52 |
 | 164 | 535 | Plucky Ziggy |
 | 165 | 533 | .running. |
 | 166 | 528 | ALFD |
 | 167 | 527 | Nery Martinez |
 | 168 | 522 | Constance Risner |
 | 169 | 521 | Teri Oehlke |
-| 170 | 519 | Anaid Sanchez |
-| 171 | 519 | Arianna O'Brien |
-| 172 | 513 | Colena Davenport |
-| 173 | 513 | phrmblk24 |
+| 170 | 519 | Arianna O'Brien |
+| 171 | 519 | Anaid Sanchez |
+| 172 | 513 | phrmblk24 |
+| 173 | 513 | Colena Davenport |
 | 174 | 511 | MomMom |
 | 175 | 510 | Rat666 |
 | 176 | 507 | Snappy Matcher |
@@ -192,8 +192,8 @@
 | 184 | 492 | Happy Snapbuild |
 | 185 | 490 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 186 | 489 | Speedy Liney |
-| 187 | 488 | Hyper |
-| 188 | 488 | Ly Phethmany |
+| 187 | 488 | Ly Phethmany |
+| 188 | 488 | Hyper |
 | 189 | 487 | Eric DeSimone |
 | 190 | 484 | Νεφ Όνυξ |
 | 191 | 479 | canbrick |
@@ -209,8 +209,8 @@
 | 201 | 457 | Lori Bales |
 | 202 | 453 | Kimmie Kimms |
 | 203 | 448 | Yvonne Marie |
-| 204 | 446 | SkipTheSadSauce |
-| 205 | 446 | Spencer Lent |
+| 204 | 446 | Spencer Lent |
+| 205 | 446 | SkipTheSadSauce |
 | 206 | 442 | Reesey Enyart |
 | 207 | 441 | Kimberly Garcia |
 | 208 | 439 | David Miller |
@@ -273,8 +273,8 @@
 | 265 | 375 | DaRascal |
 | 266 | 374 | Snappy Brickbuilder |
 | 267 | 373 | Frothy Pattern |
-| 268 | 372 | Dizzy Party |
-| 269 | 372 | Wayne Saunders |
+| 268 | 372 | Wayne Saunders |
+| 269 | 372 | Dizzy Party |
 | 270 | 371 | Jaimie Lynn |
 | 271 | 370 | Chantelle Ceno |
 | 272 | 370 | Gracie |
@@ -310,10 +310,10 @@
 | 302 | 342 | Marianita Garcia |
 | 303 | 342 | Matt Iaccheo |
 | 304 | 341 | Nick R Montague |
-| 305 | 340 | Danielle Little-Daugherty |
-| 306 | 340 | Robert |
-| 307 | 338 | Layzietyme |
-| 308 | 338 | Tipsy Builder |
+| 305 | 340 | Robert |
+| 306 | 340 | Danielle Little-Daugherty |
+| 307 | 338 | Tipsy Builder |
+| 308 | 338 | Layzietyme |
 | 309 | 336 | Sarah Roberts |
 | 310 | 335 | Dreamy Drop |
 | 311 | 334 | Nate Price |
@@ -353,9 +353,9 @@
 | 345 | 308 | Agustin Duarte Orozco |
 | 346 | 308 | Katie Martin |
 | 347 | 306 | Sunny Shift |
-| 348 | 305 | Damian Salem |
+| 348 | 305 | Speedy Snapfall |
 | 349 | 305 | Tavia |
-| 350 | 305 | Speedy Snapfall |
+| 350 | 305 | Damian Salem |
 | 351 | 304 | Chummy Rollblock |
 | 352 | 302 | Richard Corrado |
 | 353 | 301 | Isaiah |

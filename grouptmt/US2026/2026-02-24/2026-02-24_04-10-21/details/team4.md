@@ -69,8 +69,8 @@
 | 61 | 1116 | Ashley Ingram |
 | 62 | 1098 | BertMofo |
 | 63 | 1089 | Alyssa Papen |
-| 64 | 1082 | Avy Absol |
-| 65 | 1082 | Dion Crommarty |
+| 64 | 1082 | Dion Crommarty |
+| 65 | 1082 | Avy Absol |
 | 66 | 1075 | Dustee Craddock-Harrison |
 | 67 | 1069 | Heather Tushner |
 | 68 | 1047 | Julian Garcia |
@@ -106,8 +106,8 @@
 | 98 | 811 | Sassy Pattern |
 | 99 | 806 | Lori Walker |
 | 100 | 802 | Crystal Carroll |
-| 101 | 798 | Klo |
-| 102 | 798 | Jewell Urban |
+| 101 | 798 | Jewell Urban |
+| 102 | 798 | Klo |
 | 103 | 796 | Denise Carlson |
 | 104 | 785 | SAP |
 | 105 | 781 | Brittney Griggs |
@@ -215,8 +215,8 @@
 | 207 | 473 | Jolly Dashfit |
 | 208 | 473 | Cranky Rollpiece |
 | 209 | 465 | June Hoffman |
-| 210 | 462 | Leslie Thomas |
-| 211 | 462 | Crystal Nicolette Moore |
+| 210 | 462 | Crystal Nicolette Moore |
+| 211 | 462 | Leslie Thomas |
 | 212 | 461 | TRCuse |
 | 213 | 460 | Kathy Brookins |
 | 214 | 457 | Kristin Manee |

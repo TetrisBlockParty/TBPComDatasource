@@ -687,8 +687,8 @@
 | 679 | 720 | Crystal EatableCupcake Stepney |
 | 680 | 719 | Isabelle Bonneau |
 | 681 | 719 | Maddy Petersen |
-| 682 | 717 | Rhonda Milstead |
-| 683 | 717 | Shinette Dobson |
+| 682 | 717 | Shinette Dobson |
+| 683 | 717 | Rhonda Milstead |
 | 684 | 717 | Yoan Boulanger |
 | 685 | 715 | Julio A Laracuente |
 | 686 | 715 | Nutty Splitter |
