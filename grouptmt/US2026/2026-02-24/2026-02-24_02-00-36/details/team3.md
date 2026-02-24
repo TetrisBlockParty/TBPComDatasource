@@ -296,8 +296,8 @@
 | 288 | 507 | Snappy Balancer |
 | 289 | 506 | Ammmmmmy |
 | 290 | 505 | Stephanie Simpson |
-| 291 | 502 | Giddy Twistbuilder |
-| 292 | 502 | Jeni Dow |
+| 291 | 502 | Jeni Dow |
+| 292 | 502 | Giddy Twistbuilder |
 | 293 | 501 | Rebecca Funderburk Kirby |
 | 294 | 500 | Ashley Tookes |
 | 295 | 499 | Gumbo |
@@ -325,9 +325,9 @@
 | 317 | 461 | Tom Nault |
 | 318 | 456 | Cynthia Herrmann Egland |
 | 319 | 451 | Charles Perrone |
-| 320 | 450 | Antonia Russell |
-| 321 | 450 | Luciana Braganca Vieira |
-| 322 | 450 | Stefanie LaPointe |
+| 320 | 450 | Stefanie LaPointe |
+| 321 | 450 | Antonia Russell |
+| 322 | 450 | Luciana Braganca Vieira |
 | 323 | 449 | Mcathen |
 | 324 | 448 | Scott Carleton |
 | 325 | 447 | Randy Clevenger |
@@ -379,8 +379,8 @@
 | 371 | 389 | Kristen Weese |
 | 372 | 389 | ROODBOY |
 | 373 | 388 | Michelle Allers |
-| 374 | 386 | Philip Rock |
-| 375 | 386 | Kelly Wolf |
+| 374 | 386 | Kelly Wolf |
+| 375 | 386 | Philip Rock |
 | 376 | 384 | Tiffany Davie |
 | 377 | 383 | Jessica Christian |
 | 378 | 383 | Nikki White |
@@ -438,7 +438,7 @@
 | 430 | 348 | Ashley Raines |
 | 431 | 346 | Maggie |
 | 432 | 346 | AlsoJess |
-| 433 | 345 | Misha Sanders |
+| 433 | 345 | victory |
 | 434 | 345 | Big T |
 | 435 | 345 | Misha Sanders |
 | 436 | 344 | Lys |
@@ -494,8 +494,8 @@
 | 486 | 320 | Taylor Hood |
 | 487 | 320 | Willow |
 | 488 | 319 | Boldy Corner |
-| 489 | 318 | Trey Ward |
-| 490 | 318 | Christy Quick |
+| 489 | 318 | Christy Quick |
+| 490 | 318 | Trey Ward |
 | 491 | 317 | Ginger Gray |
 | 492 | 317 | Jack Bo |
 | 493 | 316 | Travis W |
@@ -506,8 +506,8 @@
 | 498 | 313 | Tracey Cox |
 | 499 | 313 | Dakota Graham |
 | 500 | 312 | Carol Cain Thurman |
-| 501 | 311 | Irene Arreguin |
-| 502 | 311 | Aponk |
+| 501 | 311 | Aponk |
+| 502 | 311 | Irene Arreguin |
 | 503 | 310 | Kristi Taylor |
 | 504 | 309 | Cranky Corner |
 | 505 | 309 | Nikkie Bucciano |

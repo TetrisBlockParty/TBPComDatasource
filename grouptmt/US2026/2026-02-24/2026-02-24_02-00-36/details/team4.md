@@ -546,7 +546,7 @@
 | 538 | 198 | Rebecca Blake |
 | 539 | 197 | Brian Owens |
 | 540 | 197 | Sholom Fried |
-| 541 | 197 | Brian Owens |
+| 541 | 197 | Zippy Tilt |
 | 542 | 196 | Julie McAfoos Swanson |
 | 543 | 195 | Christine Simmons |
 | 544 | 194 | Zany Twisterfit |

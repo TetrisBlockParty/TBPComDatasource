@@ -163,14 +163,14 @@
 | 155 | 531 | Plucky Ziggy |
 | 156 | 529 | BadG52 |
 | 157 | 528 | ALFD |
-| 158 | 527 | Nery Martinez |
-| 159 | 527 | April Carroll |
+| 158 | 527 | April Carroll |
+| 159 | 527 | Nery Martinez |
 | 160 | 524 | .running. |
 | 161 | 522 | Constance Risner |
 | 162 | 519 | Anaid Sanchez |
 | 163 | 513 | Colena Davenport |
-| 164 | 511 | phrmblk24 |
-| 165 | 511 | MomMom |
+| 164 | 511 | MomMom |
+| 165 | 511 | phrmblk24 |
 | 166 | 510 | Rat666 |
 | 167 | 509 | Dandy Basegrid |
 | 168 | 508 | Arianna O'Brien |
@@ -250,8 +250,8 @@
 | 242 | 382 | Angela Renea Lester |
 | 243 | 381 | Alenoush Karimian |
 | 244 | 381 | Happy Basegrid |
-| 245 | 380 | Snippy Wipebuilder |
-| 246 | 380 | Bindi |
+| 245 | 380 | Bindi |
+| 246 | 380 | Snippy Wipebuilder |
 | 247 | 379 | Austin James |
 | 248 | 377 | GATOR |
 | 249 | 376 | Billie Ann Eason |
@@ -261,8 +261,8 @@
 | 253 | 374 | Snappy Brickbuilder |
 | 254 | 373 | Frothy Pattern |
 | 255 | 372 | Dizzy Party |
-| 256 | 371 | Jaimie Lynn |
-| 257 | 371 | Bob |
+| 256 | 371 | Bob |
+| 257 | 371 | Jaimie Lynn |
 | 258 | 371 | Eddie Dillon |
 | 259 | 370 | Chantelle Ceno |
 | 260 | 370 | Gracie |
