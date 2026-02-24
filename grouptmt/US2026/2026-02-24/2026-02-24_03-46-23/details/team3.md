@@ -201,8 +201,8 @@
 | 193 | 763 | Khaleada McGill Banks |
 | 194 | 760 | Kiki |
 | 195 | 757 | Fancy Cascader |
-| 196 | 755 | Laura Booth Wosko |
-| 197 | 755 | Alexmac |
+| 196 | 755 | Alexmac |
+| 197 | 755 | Laura Booth Wosko |
 | 198 | 750 | Michael Nowogorski |
 | 199 | 744 | Domo Washington |
 | 200 | 742 | Jennifer Lynn Fahrenholtz-Summers |

@@ -68,8 +68,8 @@
 | 60 | 1116 | Ashley Ingram |
 | 61 | 1098 | BertMofo |
 | 62 | 1089 | Alyssa Papen |
-| 63 | 1082 | Avy Absol |
-| 64 | 1082 | Dion Crommarty |
+| 63 | 1082 | Dion Crommarty |
+| 64 | 1082 | Avy Absol |
 | 65 | 1075 | Dustee Craddock-Harrison |
 | 66 | 1064 | Heather Tushner |
 | 67 | 1057 | Lisa Davis |
@@ -79,8 +79,8 @@
 | 71 | 1030 | Anthony Bryan Riva |
 | 72 | 999 | Jeremy Steines |
 | 73 | 986 | TeeJ |
-| 74 | 985 | Shelly Chandler |
-| 75 | 985 | Shannon Ferrari |
+| 74 | 985 | Shannon Ferrari |
+| 75 | 985 | Shelly Chandler |
 | 76 | 956 | loulou |
 | 77 | 939 | Edward White |
 | 78 | 932 | Marvin Lou Martin |
@@ -128,8 +128,8 @@
 | 120 | 716 | Savannah Overdorf |
 | 121 | 712 | H.R. Block |
 | 122 | 708 | Jacqueline Helm |
-| 123 | 704 | Chilly Crasher |
-| 124 | 704 | Austin Owens |
+| 123 | 704 | Austin Owens |
+| 124 | 704 | Chilly Crasher |
 | 125 | 702 | Amy Suckarieh |
 | 126 | 690 | Denia Deni |
 | 127 | 682 | Jamie Gustafson |
@@ -199,7 +199,7 @@
 | 191 | 504 | Deanna Deckard |
 | 192 | 502 | Ericca Eldridge |
 | 193 | 500 | Milan Markeisha |
-| 194 | 499 | Kesha Brady |
+| 194 | 499 | Sharyn Lemire |
 | 195 | 499 | Christina Black |
 | 196 | 499 | Kesha Brady |
 | 197 | 498 | Zesty Twistbuilder |
@@ -236,8 +236,8 @@
 | 228 | 438 | Melvin Baird |
 | 229 | 436 | Selena Shaw |
 | 230 | 434 | Ramel Rhodes |
-| 231 | 433 | Circuit8 |
-| 232 | 433 | Damn Libra |
+| 231 | 433 | Damn Libra |
+| 232 | 433 | Circuit8 |
 | 233 | 432 | scott |
 | 234 | 431 | Manny1 |
 | 235 | 430 | Plucky Patternblock |
