@@ -69,8 +69,8 @@
 | 61 | 1116 | Ashley Ingram |
 | 62 | 1101 | BertMofo |
 | 63 | 1089 | Alyssa Papen |
-| 64 | 1082 | Dion Crommarty |
-| 65 | 1082 | Avy Absol |
+| 64 | 1082 | Avy Absol |
+| 65 | 1082 | Dion Crommarty |
 | 66 | 1075 | Dustee Craddock-Harrison |
 | 67 | 1069 | Heather Tushner |
 | 68 | 1055 | Julian Garcia |
@@ -155,8 +155,8 @@
 | 147 | 615 | Angelito |
 | 148 | 608 | Swanky Fitline |
 | 149 | 602 | Cristy Duerksen |
-| 150 | 599 | shar |
-| 151 | 599 | Adam Stephanie Parker |
+| 150 | 599 | Adam Stephanie Parker |
+| 151 | 599 | shar |
 | 152 | 595 | Rodney McMath Jr. |
 | 153 | 587 | YoMomma |
 | 154 | 586 | Cursed Hag |
@@ -255,9 +255,9 @@
 | 247 | 413 | Jeff Brian Gates |
 | 248 | 411 | Autumn Kumzi |
 | 249 | 410 | Lindsay Ball |
-| 250 | 409 | TinyLegoRose |
-| 251 | 409 | Antony Dwayne Beasley |
-| 252 | 409 | Joseph Guthrie |
+| 250 | 409 | Joseph Guthrie |
+| 251 | 409 | TinyLegoRose |
+| 252 | 409 | Antony Dwayne Beasley |
 | 253 | 408 | Lauren Scott |
 | 254 | 405 | Dihcheese444 |
 | 255 | 400 | Brickh4us |
@@ -325,11 +325,11 @@
 | 317 | 330 | Duck |
 | 318 | 330 | Brittany Little |
 | 319 | 329 | Meagan Nicole |
-| 320 | 328 | Leah Kutz Zirbel |
+| 320 | 328 | Angie Schmidt |
 | 321 | 328 | Heather Bruce |
-| 322 | 328 | Angie Schmidt |
-| 323 | 324 | Nubian1 |
-| 324 | 324 | Vic |
+| 322 | 328 | Leah Kutz Zirbel |
+| 323 | 324 | Vic |
+| 324 | 324 | Nubian1 |
 | 325 | 322 | Bryan Hodgins |
 | 326 | 321 | Sarah Brown |
 | 327 | 321 | Nikki Rae Gordon |
@@ -401,8 +401,8 @@
 | 393 | 278 | L Bear Champion |
 | 394 | 278 | Shainne Brewer |
 | 395 | 277 | Silly SeaWeed |
-| 396 | 276 | Dennis Bradley |
-| 397 | 276 | Cynthia Boudreau |
+| 396 | 276 | Cynthia Boudreau |
+| 397 | 276 | Dennis Bradley |
 | 398 | 275 | Jarred Falls |
 | 399 | 272 | Paito |
 | 400 | 271 | ImJustMe |

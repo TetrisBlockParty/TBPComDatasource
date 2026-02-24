@@ -80,8 +80,8 @@
 | 72 | 1646 | Gracie |
 | 73 | 1633 | cowboy25469 |
 | 74 | 1620 | Queen Kam |
-| 75 | 1566 | Marcie Bressler |
-| 76 | 1566 | Nerdy Riseclear |
+| 75 | 1566 | Nerdy Riseclear |
+| 76 | 1566 | Marcie Bressler |
 | 77 | 1560 | Logan Naccarato |
 | 78 | 1555 | Snappy Glidepiece |
 | 79 | 1552 | joclisa |
@@ -214,8 +214,8 @@
 | 206 | 742 | Jennifer Lynn Fahrenholtz-Summers |
 | 207 | 738 | Naur |
 | 208 | 736 | Elissa S-k |
-| 209 | 733 | Annie Marie |
-| 210 | 733 | Annie Déè |
+| 209 | 733 | Annie Déè |
+| 210 | 733 | Annie Marie |
 | 211 | 731 | Samantha Greco |
 | 212 | 729 | CeceGeGe |
 | 213 | 729 | Lizabeth Fox |
@@ -226,8 +226,8 @@
 | 218 | 709 | Christine Niles |
 | 219 | 708 | Stephanie Bradley |
 | 220 | 703 | Shawn Miller |
-| 221 | 691 | Snappy Balancer |
-| 222 | 691 | Tia |
+| 221 | 691 | Tia |
+| 222 | 691 | Snappy Balancer |
 | 223 | 689 | Patti Skiles |
 | 224 | 677 | Mykal Burton |
 | 225 | 668 | Daring Brickzone |
@@ -235,8 +235,8 @@
 | 227 | 661 | LaShey Thompson |
 | 228 | 655 | Keis |
 | 229 | 654 | Terry Jo Jones |
-| 230 | 648 | Makelini Mausia |
-| 231 | 648 | Cesar Barraza |
+| 230 | 648 | Cesar Barraza |
+| 231 | 648 | Makelini Mausia |
 | 232 | 646 | Duane Bright |
 | 233 | 642 | Rania Zaqout |
 | 234 | 641 | Kristal C Lee |
@@ -263,8 +263,8 @@
 | 255 | 598 | Kaycee Kay |
 | 256 | 595 | Betty Rosas |
 | 257 | 588 | Salena Whitlock |
-| 258 | 586 | Brian Battjes |
-| 259 | 586 | Donna |
+| 258 | 586 | Donna |
+| 259 | 586 | Brian Battjes |
 | 260 | 582 | FuzzyNavel |
 | 261 | 578 | James Mitchell |
 | 262 | 574 | Rachael McClain Owens |
@@ -442,7 +442,7 @@
 | 434 | 368 | Tony Waters |
 | 435 | 368 | Sheila M Frazier |
 | 436 | 365 | Frothy Glider |
-| 437 | 363 | Nena Somerville Kelly |
+| 437 | 363 | 4girls |
 | 438 | 363 | Giggly Brickroll |
 | 439 | 363 | Nena Somerville Kelly |
 | 440 | 360 | xsiv |

@@ -591,8 +591,8 @@
 | 583 | 815 | Shea Edison |
 | 584 | 813 | Krys |
 | 585 | 813 | Ganieda |
-| 586 | 812 | Samantha Jo |
-| 587 | 812 | bbv |
+| 586 | 812 | bbv |
+| 587 | 812 | Samantha Jo |
 | 588 | 811 | Kimberly Randesi |
 | 589 | 811 | Samuel Macon |
 | 590 | 811 | Dreamy Blast |

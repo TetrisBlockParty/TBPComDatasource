@@ -165,8 +165,8 @@
 | 157 | 548 | Luciano Moreira |
 | 158 | 547 | Sharon Reynolds |
 | 159 | 546 | Loony Fitzone |
-| 160 | 543 | Adrian Esteban |
-| 161 | 543 | Nicole Roseberry Weber |
+| 160 | 543 | Nicole Roseberry Weber |
+| 161 | 543 | Adrian Esteban |
 | 162 | 540 | Tonya Beasley |
 | 163 | 537 | BadG52 |
 | 164 | 537 | Stephanie Zahn |
@@ -210,8 +210,8 @@
 | 202 | 457 | Lori Bales |
 | 203 | 453 | Kimmie Kimms |
 | 204 | 448 | Yvonne Marie |
-| 205 | 446 | SkipTheSadSauce |
-| 206 | 446 | Spencer Lent |
+| 205 | 446 | Spencer Lent |
+| 206 | 446 | SkipTheSadSauce |
 | 207 | 442 | Reesey Enyart |
 | 208 | 441 | Kimberly Garcia |
 | 209 | 439 | Witty Builderfit |
@@ -293,8 +293,8 @@
 | 285 | 363 | Shiny Gridmatch |
 | 286 | 362 | Brooke Elizabeth Antill |
 | 287 | 359 | Rodney Schmerfeld |
-| 288 | 358 | Jessica Russell |
-| 289 | 358 | Tyler Hertzog |
+| 288 | 358 | Tyler Hertzog |
+| 289 | 358 | Jessica Russell |
 | 290 | 356 | build master |
 | 291 | 356 | Dawn Michelle Scheible |
 | 292 | 355 | Keith Mathis |
