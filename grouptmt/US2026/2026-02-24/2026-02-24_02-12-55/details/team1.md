@@ -202,8 +202,8 @@
 | 194 | 454 | Teri Oehlke |
 | 195 | 450 | Elaine Elaine |
 | 196 | 448 | Yvonne Marie |
-| 197 | 446 | Spencer Lent |
-| 198 | 446 | SkipTheSadSauce |
+| 197 | 446 | SkipTheSadSauce |
+| 198 | 446 | Spencer Lent |
 | 199 | 442 | Kimmie Kimms |
 | 200 | 441 | Kimberly Garcia |
 | 201 | 437 | David Miller |
@@ -218,8 +218,8 @@
 | 210 | 424 | Lindsay Glover |
 | 211 | 424 | Serina Marie |
 | 212 | 423 | Chelsea Dahlquist |
-| 213 | 422 | Jamise Brown |
-| 214 | 422 | Reesey Enyart |
+| 213 | 422 | Reesey Enyart |
+| 214 | 422 | Jamise Brown |
 | 215 | 420 | Jennifer Noe Chandler |
 | 216 | 419 | Daring Fitclear |
 | 217 | 419 | John J. Cronin |

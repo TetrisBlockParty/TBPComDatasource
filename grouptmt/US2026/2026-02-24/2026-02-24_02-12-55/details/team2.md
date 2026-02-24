@@ -330,8 +330,8 @@
 | 322 | 1222 | Nuke Morris |
 | 323 | 1220 | Ricardo Burton |
 | 324 | 1218 | LaKisha Anderson |
-| 325 | 1217 | Brooks Brooks |
-| 326 | 1217 | Christina Lewis-Vickers |
+| 325 | 1217 | Christina Lewis-Vickers |
+| 326 | 1217 | Brooks Brooks |
 | 327 | 1216 | Pacynthia Williams |
 | 328 | 1214 | David Cudicio-Hayden |
 | 329 | 1211 | Cynthia Ward |
@@ -354,8 +354,8 @@
 | 346 | 1164 | Kori Beth Babb |
 | 347 | 1159 | Michelle Pike |
 | 348 | 1158 | Brittany Clark |
-| 349 | 1156 | Carl Bradshaw |
-| 350 | 1156 | Alezandra Smith |
+| 349 | 1156 | Alezandra Smith |
+| 350 | 1156 | Carl Bradshaw |
 | 351 | 1156 | Arkei Luster |
 | 352 | 1154 | Sarah DeHart |
 | 353 | 1150 | Sheniya Spurgeon |
@@ -399,8 +399,8 @@
 | 391 | 1067 | Taylor Phillips |
 | 392 | 1065 | Dany Murillo |
 | 393 | 1058 | Tiffany Branham |
-| 394 | 1055 | Keri Womack |
-| 395 | 1055 | Jessica Wayne Cornwall |
+| 394 | 1055 | Jessica Wayne Cornwall |
+| 395 | 1055 | Keri Womack |
 | 396 | 1050 | Jennifer Aiken |
 | 397 | 1049 | Ashlen Dorrell |
 | 398 | 1048 | Sheronda Jackson |
@@ -413,8 +413,8 @@
 | 405 | 1042 | Spunkysmom |
 | 406 | 1041 | Crystal Hoffman |
 | 407 | 1038 | Giggly Snap |
-| 408 | 1036 | Amber Shoemaker |
-| 409 | 1036 | Allison Lockyer |
+| 408 | 1036 | Allison Lockyer |
+| 409 | 1036 | Amber Shoemaker |
 | 410 | 1033 | Andrea Maher |
 | 411 | 1031 | Allan Wayne Lamia |
 | 412 | 1031 | Lupita Flores |

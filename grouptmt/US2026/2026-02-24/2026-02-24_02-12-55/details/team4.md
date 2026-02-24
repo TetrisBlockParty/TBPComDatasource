@@ -91,8 +91,8 @@
 | 83 | 864 | Guy Incognito |
 | 84 | 861 | Peachy Fall |
 | 85 | 855 | Chilly Line |
-| 86 | 850 | Lisa Davis |
-| 87 | 850 | Lucille Truesdale |
+| 86 | 850 | Lucille Truesdale |
+| 87 | 850 | Lisa Davis |
 | 88 | 846 | Christine Marie |
 | 89 | 841 | Judy Cox |
 | 90 | 841 | Shauna Havard |
@@ -134,10 +134,10 @@
 | 126 | 663 | Patron Anderson |
 | 127 | 662 | George Nutt |
 | 128 | 659 | Matt Gooder |
-| 129 | 658 | Jewell Urban |
-| 130 | 658 | Zippy Gridlock |
-| 131 | 647 | KM8 |
-| 132 | 647 | Chris Hartig |
+| 129 | 658 | Zippy Gridlock |
+| 130 | 658 | Jewell Urban |
+| 131 | 647 | Chris Hartig |
+| 132 | 647 | KM8 |
 | 133 | 646 | Adawna Swires |
 | 134 | 642 | Desi Desporte |
 | 135 | 639 | Serena Goodridge |
@@ -671,7 +671,7 @@
 | 663 | 159 | Mcg |
 | 664 | 157 | Jazzy Slamdrop |
 | 665 | 157 | Matt Rawls |
-| 666 | 157 | Jazzy Slamdrop |
+| 666 | 157 | Hanh Pham |
 | 667 | 156 | MOCHA |
 | 668 | 155 | Patrick Cookson |
 | 669 | 155 | Faja |
