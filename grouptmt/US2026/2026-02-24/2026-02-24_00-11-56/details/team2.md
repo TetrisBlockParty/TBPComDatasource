@@ -189,8 +189,8 @@
 | 181 | 1763 | Juliana Marques Do Nascimento Gordy |
 | 182 | 1759 | Nerdy Pattern |
 | 183 | 1756 | Hannah Erskine |
-| 184 | 1751 | Melissa Penelope Ann Dodge |
-| 185 | 1751 | Bob |
+| 184 | 1751 | Bob |
+| 185 | 1751 | Melissa Penelope Ann Dodge |
 | 186 | 1749 | Denise Rickman |
 | 187 | 1746 | Dee |
 | 188 | 1740 | Dustin Rains |
@@ -272,8 +272,8 @@
 | 264 | 1351 | Denisha Dawkins |
 | 265 | 1348 | Sarah Freitas |
 | 266 | 1342 | Kelly A Green-Leach |
-| 267 | 1341 | Moose Griffith |
-| 268 | 1341 | Cassie Mercer |
+| 267 | 1341 | Cassie Mercer |
+| 268 | 1341 | Moose Griffith |
 | 269 | 1338 | Diallo Sparkman |
 | 270 | 1337 | Carrie Trigg |
 | 271 | 1337 | Lola C Davis |
@@ -719,8 +719,8 @@
 | 711 | 643 | Rae Rae |
 | 712 | 642 | Christy Long |
 | 713 | 642 | Jennifer Coe |
-| 714 | 640 | Shelva Richard |
-| 715 | 640 | Slinky Racker |
+| 714 | 640 | Slinky Racker |
+| 715 | 640 | Shelva Richard |
 | 716 | 639 | Sveta Lana |
 | 717 | 639 | Fi Ne |
 | 718 | 639 | Toni Roberson |

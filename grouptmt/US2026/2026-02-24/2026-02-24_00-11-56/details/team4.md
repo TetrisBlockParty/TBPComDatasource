@@ -98,8 +98,8 @@
 | 90 | 791 | Guy Incognito |
 | 91 | 787 | Jason Hart |
 | 92 | 781 | Brittney Griggs |
-| 93 | 775 | TheNeesh50 |
-| 94 | 775 | Klo |
+| 93 | 775 | Klo |
+| 94 | 775 | TheNeesh50 |
 | 95 | 769 | Yoset Mejia |
 | 96 | 768 | Lori Walker |
 | 97 | 768 | Judy Cox |
@@ -426,17 +426,17 @@
 | 418 | 242 | Zołza 😈 |
 | 419 | 242 | PurpleMoonMa |
 | 420 | 242 | Badatvs |
-| 421 | 241 | Amanda Christine |
-| 422 | 241 | Laurel Coppess |
-| 423 | 240 | KayM |
-| 424 | 240 | Orchislactea |
+| 421 | 241 | Laurel Coppess |
+| 422 | 241 | Amanda Christine |
+| 423 | 240 | Orchislactea |
+| 424 | 240 | KayM |
 | 425 | 240 | Zany Shatterer |
-| 426 | 239 | Kevin Bush |
-| 427 | 239 | Denise B |
+| 426 | 239 | Denise B |
+| 427 | 239 | Kevin Bush |
 | 428 | 238 | 中山成巳 |
 | 429 | 238 | GBR |
 | 430 | 237 | Alan Zukowski |
-| 431 | 236 | Melissa VanBourgondien |
+| 431 | 236 | Michelle Morris |
 | 432 | 236 | The Murphy |
 | 433 | 236 | Melissa VanBourgondien |
 | 434 | 235 | LaDonna LovinmesomeMe Lambert |

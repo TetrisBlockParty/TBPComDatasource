@@ -505,8 +505,8 @@
 | 497 | 301 | Clever Edgepiece |
 | 498 | 300 | Tracey Cox |
 | 499 | 299 | Hasty Gridpiece |
-| 500 | 299 | Samantha Worley |
-| 501 | 299 | Angie Harper |
+| 500 | 299 | Angie Harper |
+| 501 | 299 | Samantha Worley |
 | 502 | 298 | Grams |
 | 503 | 297 | Zac Hudak |
 | 504 | 297 | Quirky Snapfit |
@@ -640,17 +640,17 @@
 | 632 | 248 | Frothy Glider |
 | 633 | 248 | Stormy Anguish |
 | 634 | 248 | Smiley Zone |
-| 635 | 247 | Melanie Sherwood |
-| 636 | 247 | Cameron Lovell |
+| 635 | 247 | Cameron Lovell |
+| 636 | 247 | Melanie Sherwood |
 | 637 | 246 | Jonathn Poindexter |
 | 638 | 245 | Martin Bernier |
 | 639 | 245 | Jazzy Spinfit |
-| 640 | 245 | Tammy |
-| 641 | 245 | Latoya Mayne |
-| 642 | 244 | LaJeanna Lee Lee |
-| 643 | 244 | Amanda Fulton |
-| 644 | 244 | Gina Marie |
-| 645 | 244 | Beezwax |
+| 640 | 245 | Latoya Mayne |
+| 641 | 245 | Tammy |
+| 642 | 244 | Beezwax |
+| 643 | 244 | Gina Marie |
+| 644 | 244 | LaJeanna Lee Lee |
+| 645 | 244 | Amanda Fulton |
 | 646 | 244 | Rebel124 |
 | 647 | 243 | paranoid |
 | 648 | 243 | Lazy Matchfit |
