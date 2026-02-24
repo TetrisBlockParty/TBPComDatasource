@@ -83,8 +83,8 @@
 | 75 | 1633 | cowboy25469 |
 | 76 | 1625 | Queen Kam |
 | 77 | 1615 | joclisa |
-| 78 | 1566 | Marcie Bressler |
-| 79 | 1566 | Nerdy Riseclear |
+| 78 | 1566 | Nerdy Riseclear |
+| 79 | 1566 | Marcie Bressler |
 | 80 | 1560 | Logan Naccarato |
 | 81 | 1555 | Snappy Glidepiece |
 | 82 | 1518 | Christine Filson |
@@ -127,8 +127,8 @@
 | 119 | 1134 | Melissa Orth Hunter |
 | 120 | 1124 | Stephanie Rice |
 | 121 | 1121 | Corie A. Brinson |
-| 122 | 1114 | Loopy Fallmatch |
-| 123 | 1114 | Groovy Catcher |
+| 122 | 1114 | Groovy Catcher |
+| 123 | 1114 | Loopy Fallmatch |
 | 124 | 1105 | Adrian Marcel Pate |
 | 125 | 1093 | Angela M. Fletcher |
 | 126 | 1091 | Jennifer |
@@ -159,16 +159,16 @@
 | 151 | 971 | Tasha Schriewer |
 | 152 | 963 | Crystal Frey |
 | 153 | 961 | Danielle Allison |
-| 154 | 950 | MissTaylor |
-| 155 | 950 | Giddy Drop |
+| 154 | 950 | Giddy Drop |
+| 155 | 950 | MissTaylor |
 | 156 | 947 | Kellie Montgomery |
 | 157 | 940 | Stephanie Allmon |
 | 158 | 936 | Dolores Falco |
 | 159 | 928 | Edwin Calvillo Jr. |
 | 160 | 925 | Cherry Parker |
 | 161 | 914 | BadManSheLove |
-| 162 | 910 | Staci George Fitzsimmons |
-| 163 | 910 | opf |
+| 162 | 910 | opf |
+| 163 | 910 | Staci George Fitzsimmons |
 | 164 | 906 | Patti Skiles |
 | 165 | 899 | Jaime Monhaut-Reed |
 | 166 | 894 | Denita Mungro |
@@ -339,8 +339,8 @@
 | 331 | 490 | TotoCherue |
 | 332 | 489 | Isabel Ocasio |
 | 333 | 487 | MsBee |
-| 334 | 486 | Skippy |
-| 335 | 486 | Sleepy |
+| 334 | 486 | Sleepy |
+| 335 | 486 | Skippy |
 | 336 | 485 | Charles Perrone |
 | 337 | 484 | Steffi Chris Dacones |
 | 338 | 483 | Tegan Chapman |
@@ -2308,7 +2308,7 @@
 | 2300 | 53 | Linda Rochelle Huff |
 | 2301 | 53 | Nicole Shepard |
 | 2302 | 53 | Ewc Tokey Davis |
-| 2303 | 53 | Dapper Linkroll |
+| 2303 | 53 | shez |
 | 2304 | 53 | Saucy Wrecker |
 | 2305 | 53 | Dapper Linkroll |
 | 2306 | 52 | Swanky Twistbuilder |

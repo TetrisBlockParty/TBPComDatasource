@@ -315,8 +315,8 @@
 | 307 | 1381 | Dapper Dasher |
 | 308 | 1380 | Jerilyn Andrina |
 | 309 | 1376 | Megan Brianna |
-| 310 | 1374 | Sarah Berger |
-| 311 | 1374 | Kori Beth Babb |
+| 310 | 1374 | Kori Beth Babb |
+| 311 | 1374 | Sarah Berger |
 | 312 | 1362 | Angie Marie |
 | 313 | 1362 | Kevin Sees |
 | 314 | 1358 | Arlene Joy Belicina |
@@ -360,11 +360,11 @@
 | 352 | 1270 | Angela KaplaSchwahn |
 | 353 | 1264 | Mama T |
 | 354 | 1261 | Becca Coronado |
-| 355 | 1257 | Megan Ferguson Leone |
-| 356 | 1257 | Megan Garrick |
-| 357 | 1257 | Jackie Lucas |
-| 358 | 1256 | Phil J. Grombliniak |
-| 359 | 1256 | Belle |
+| 355 | 1257 | Jackie Lucas |
+| 356 | 1257 | Megan Ferguson Leone |
+| 357 | 1257 | Megan Garrick |
+| 358 | 1256 | Belle |
+| 359 | 1256 | Phil J. Grombliniak |
 | 360 | 1254 | Erika Densmore |
 | 361 | 1252 | AgileDragon |
 | 362 | 1252 | Brainy Smurf |
@@ -798,8 +798,8 @@
 | 790 | 697 | DA Wight |
 | 791 | 696 | EMH |
 | 792 | 694 | Lyndi Robinson Wakefield |
-| 793 | 694 | Courtney Burcham |
-| 794 | 694 | Rackemwillie34 |
+| 793 | 694 | Rackemwillie34 |
+| 794 | 694 | Courtney Burcham |
 | 795 | 693 | Nessie Zamora |
 | 796 | 692 | LuckyChopstix |
 | 797 | 692 | Bubbly Snapbuild |
@@ -859,7 +859,7 @@
 | 851 | 664 | Julie Hamilton |
 | 852 | 664 | Trista Carter |
 | 853 | 664 | Jarboe |
-| 854 | 663 | Christy Long |
+| 854 | 663 | Mike Aprilliano |
 | 855 | 663 | snkylnk |
 | 856 | 663 | Christy Long |
 | 857 | 662 | Casaundra Little-Abeling |
@@ -897,8 +897,8 @@
 | 889 | 647 | Tori Bowers |
 | 890 | 647 | Bob Vu |
 | 891 | 645 | Kacee Conrad Bock |
-| 892 | 645 | Tanya Duran |
-| 893 | 645 | Veronics |
+| 892 | 645 | Veronics |
+| 893 | 645 | Tanya Duran |
 | 894 | 644 | Kevin Luu |
 | 895 | 643 | Rae Rae |
 | 896 | 642 | Lewis Sturgeon |
@@ -1059,9 +1059,9 @@
 | 1051 | 562 | Dan Kulhanek |
 | 1052 | 561 | Jenelle Case |
 | 1053 | 560 | De Hawkins |
-| 1054 | 559 | Britney M. |
-| 1055 | 559 | Bing |
-| 1056 | 559 | Kaylee McCafferty |
+| 1054 | 559 | Kaylee McCafferty |
+| 1055 | 559 | Britney M. |
+| 1056 | 559 | Bing |
 | 1057 | 558 | Treshell Boyd |
 | 1058 | 558 | Byung Bae Park |
 | 1059 | 558 | Linda Miltenburg |
@@ -1247,9 +1247,9 @@
 | 1239 | 491 | Mike Oxmall |
 | 1240 | 490 | Andrew Fisher |
 | 1241 | 490 | Lianne Giandalone LaBounty |
-| 1242 | 489 | Jennifer Mahon |
+| 1242 | 489 | Reese Hayes |
 | 1243 | 489 | Kelsey Sullivan |
-| 1244 | 489 | Reese Hayes |
+| 1244 | 489 | Jennifer Mahon |
 | 1245 | 489 | Chenchun Ma |
 | 1246 | 488 | Lou Mar |
 | 1247 | 488 | Gina Gina |
