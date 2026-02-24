@@ -114,8 +114,8 @@
 | 106 | 800 | Desiree Deschaine Havee |
 | 107 | 791 | Greg Hart |
 | 108 | 781 | Ash Galvan |
-| 109 | 773 | Cartier |
-| 110 | 773 | Susanna Guerry |
+| 109 | 773 | Susanna Guerry |
+| 110 | 773 | Cartier |
 | 111 | 772 | Kathy Langham |
 | 112 | 770 | Zappy Curvetile |
 | 113 | 768 | Jazzy Framezone |
@@ -167,8 +167,8 @@
 | 159 | 568 | Jason Savage |
 | 160 | 564 | Νεφ Όνυξ |
 | 161 | 562 | Timothy Danaher |
-| 162 | 556 | Brandi Huntington |
-| 163 | 556 | Chase Collinsworth |
+| 162 | 556 | Chase Collinsworth |
+| 163 | 556 | Brandi Huntington |
 | 164 | 555 | Sarah Lombardo |
 | 165 | 553 | Flashy Rotator |
 | 166 | 551 | Loony Fitzone |
@@ -177,8 +177,8 @@
 | 169 | 548 | Luciano Moreira |
 | 170 | 547 | Sharon Reynolds |
 | 171 | 545 | .running. |
-| 172 | 543 | Adrian Esteban |
-| 173 | 543 | Nicole Roseberry Weber |
+| 172 | 543 | Nicole Roseberry Weber |
+| 173 | 543 | Adrian Esteban |
 | 174 | 542 | BadG52 |
 | 175 | 540 | Tonya Beasley |
 | 176 | 535 | Plucky Ziggy |
@@ -624,8 +624,8 @@
 | 616 | 205 | Sam Rosado |
 | 617 | 205 | Davery Spencer Adair |
 | 618 | 204 | Jill King Oldham |
-| 619 | 203 | MelSavage |
-| 620 | 203 | Ashley Rodriguez |
+| 619 | 203 | Ashley Rodriguez |
+| 620 | 203 | MelSavage |
 | 621 | 202 | grizzly |
 | 622 | 201 | Hector Cruz |
 | 623 | 201 | Emily Wray |

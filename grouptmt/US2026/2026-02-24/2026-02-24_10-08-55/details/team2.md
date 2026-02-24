@@ -222,8 +222,8 @@
 | 214 | 1813 | Catina Hutchison |
 | 215 | 1807 | Osun Anuket Esu |
 | 216 | 1784 | Matthew Joseph Acevedo |
-| 217 | 1775 | Sommer Shope |
-| 218 | 1775 | Eboni Banks |
+| 217 | 1775 | Eboni Banks |
+| 218 | 1775 | Sommer Shope |
 | 219 | 1770 | Nerdy Pattern |
 | 220 | 1761 | Rosa Franklin |
 | 221 | 1759 | Jojo Momma |
@@ -269,8 +269,8 @@
 | 261 | 1558 | Tim Dyer |
 | 262 | 1557 | Poppy Snap |
 | 263 | 1556 | Julay |
-| 264 | 1553 | Sarah Freitas |
-| 265 | 1553 | Wendy Unsain |
+| 264 | 1553 | Wendy Unsain |
+| 265 | 1553 | Sarah Freitas |
 | 266 | 1553 | Boldy Cascadepiece |
 | 267 | 1539 | Nadia Batista Garcia |
 | 268 | 1528 | Stacy Stickle |
@@ -339,8 +339,8 @@
 | 331 | 1315 | Desiree Anderson |
 | 332 | 1313 | Jermaine Harris |
 | 333 | 1312 | Tinishia Amie |
-| 334 | 1308 | Snappy Matchbuilder |
-| 335 | 1308 | Laura Morrison |
+| 334 | 1308 | Laura Morrison |
+| 335 | 1308 | Snappy Matchbuilder |
 | 336 | 1308 | Christina Lewis-Vickers |
 | 337 | 1305 | Roman Lavochnik |
 | 338 | 1304 | Sarah Ridenour |
@@ -401,8 +401,8 @@
 | 393 | 1171 | Loretta Brewer-Gage |
 | 394 | 1170 | Shelley Thornburgh Wright |
 | 395 | 1164 | DefaultUser |
-| 396 | 1163 | Caitlin Schmid |
-| 397 | 1163 | Sarah DeHart |
+| 396 | 1163 | Sarah DeHart |
+| 397 | 1163 | Caitlin Schmid |
 | 398 | 1160 | Maricia Layolla Cason |
 | 399 | 1158 | Brittany Clark |
 | 400 | 1150 | Sheniya Spurgeon |
@@ -448,8 +448,8 @@
 | 440 | 1075 | SaraMarie Eveland |
 | 441 | 1074 | Diana Ayers |
 | 442 | 1073 | Jodi Blake |
-| 443 | 1071 | Kim Dean |
-| 444 | 1071 | Nashu |
+| 443 | 1071 | Nashu |
+| 444 | 1071 | Kim Dean |
 | 445 | 1068 | Tiffany Branham |
 | 446 | 1067 | Taylor Phillips |
 | 447 | 1067 | Lourisha |
@@ -575,8 +575,8 @@
 | 567 | 888 | Leslie Ann Carter |
 | 568 | 886 | Bold Splitter |
 | 569 | 886 | Cherrica Newman |
-| 570 | 885 | Miranda Morris |
-| 571 | 885 | Giggy Mover |
+| 570 | 885 | Giggy Mover |
+| 571 | 885 | Miranda Morris |
 | 572 | 883 | Hong Tang |
 | 573 | 882 | Sarah Massey |
 | 574 | 881 | BIG BABY |
@@ -654,8 +654,8 @@
 | 646 | 798 | Daniell Martinez |
 | 647 | 797 | Vermeka Searcey |
 | 648 | 797 | Moist_B-hole |
-| 649 | 796 | Trevor Jordan |
-| 650 | 796 | Brianna Cerney |
+| 649 | 796 | Brianna Cerney |
+| 650 | 796 | Trevor Jordan |
 | 651 | 795 | Alexandra Weir |
 | 652 | 795 | Aletha Williams |
 | 653 | 793 | Joseph Musick |
@@ -938,8 +938,8 @@
 | 930 | 619 | Dawn Woosley Bowes |
 | 931 | 618 | Jordan Kaiser |
 | 932 | 617 | Annette Ross Clay |
-| 933 | 617 | Jason H Baker |
-| 934 | 617 | Biggest thing |
+| 933 | 617 | Biggest thing |
+| 934 | 617 | Jason H Baker |
 | 935 | 616 | Carol Hurley |
 | 936 | 615 | King Shamell Young |
 | 937 | 614 | Dandy Combo |
@@ -955,8 +955,8 @@
 | 947 | 611 | Josh N Corrine |
 | 948 | 610 | Shiny Snapmatch |
 | 949 | 609 | AsnPryBoy83 |
-| 950 | 607 | Dizzy Zone |
-| 951 | 607 | Slip |
+| 950 | 607 | Slip |
+| 951 | 607 | Dizzy Zone |
 | 952 | 607 | Shindee |
 | 953 | 607 | Tipsy Filler |
 | 954 | 606 | Stanislav Petkov |
@@ -1059,15 +1059,15 @@
 | 1051 | 562 | Angie Winch |
 | 1052 | 561 | Jenelle Case |
 | 1053 | 560 | De Hawkins |
-| 1054 | 559 | Britney M. |
-| 1055 | 559 | Kaylee McCafferty |
+| 1054 | 559 | Kaylee McCafferty |
+| 1055 | 559 | Britney M. |
 | 1056 | 558 | Treshell Boyd |
 | 1057 | 558 | David Scott |
 | 1058 | 558 | Linda Miltenburg |
 | 1059 | 558 | Byung Bae Park |
 | 1060 | 557 | Marina Linda |
-| 1061 | 557 | Vivian De Souza |
-| 1062 | 557 | Bridgette Sargent |
+| 1061 | 557 | Bridgette Sargent |
+| 1062 | 557 | Vivian De Souza |
 | 1063 | 557 | Jason Garnatz |
 | 1064 | 556 | Kamilya Rembert |
 | 1065 | 555 | Noel Tarmy |
@@ -1083,8 +1083,8 @@
 | 1075 | 552 | Savannah Alexander |
 | 1076 | 552 | Heather Johnson |
 | 1077 | 551 | Edralin Custodio |
-| 1078 | 551 | Gina Justbeingme Chillis |
-| 1079 | 551 | B |
+| 1078 | 551 | B |
+| 1079 | 551 | Gina Justbeingme Chillis |
 | 1080 | 551 | Maxwell Escalera |
 | 1081 | 550 | Daring Matchfit |
 | 1082 | 549 | Ashley Collins |
@@ -1155,8 +1155,8 @@
 | 1147 | 523 | Suzy Moody |
 | 1148 | 523 | Sue Leard |
 | 1149 | 523 | Leslie Porter |
-| 1150 | 521 | Karra Lindsey |
-| 1151 | 521 | Cozy Drop |
+| 1150 | 521 | Cozy Drop |
+| 1151 | 521 | Karra Lindsey |
 | 1152 | 520 | Matt Hughes |
 | 1153 | 520 | kcakes |
 | 1154 | 519 | Rob Brown |
