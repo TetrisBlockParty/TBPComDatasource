@@ -127,8 +127,8 @@
 | 119 | 1084 | Santana Lantana |
 | 120 | 1082 | Valerie Gendron |
 | 121 | 1067 | DaBigGuy |
-| 122 | 1066 | Jennifer |
-| 123 | 1066 | Demetrious Shaw Sr. |
+| 122 | 1066 | Demetrious Shaw Sr. |
+| 123 | 1066 | Jennifer |
 | 124 | 1065 | Rachel |
 | 125 | 1055 | Christine Trester |
 | 126 | 1050 | Sherika C. McDaniels |
@@ -183,8 +183,8 @@
 | 175 | 820 | Brenda Lee Vander Molen |
 | 176 | 817 | Niki Dalrymple |
 | 177 | 815 | Justin Ritter |
-| 178 | 804 | Alaina Lee |
-| 179 | 804 | Gideon Walker |
+| 178 | 804 | Gideon Walker |
+| 179 | 804 | Alaina Lee |
 | 180 | 800 | Lauren Girouard |
 | 181 | 792 | Rachel Grant |
 | 182 | 790 | JessDrown |
