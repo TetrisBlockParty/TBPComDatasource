@@ -376,8 +376,8 @@
 | 368 | 405 | Skinny Baldez |
 | 369 | 405 | fraulila |
 | 370 | 404 | Giggy Balanceblock |
-| 371 | 403 | Stephanie Burtin |
-| 372 | 403 | Scott Lindsay |
+| 371 | 403 | Scott Lindsay |
+| 372 | 403 | Stephanie Burtin |
 | 373 | 401 | block chick |
 | 374 | 400 | Beaudie Stroebel |
 | 375 | 399 | Velma Mull |
@@ -439,8 +439,8 @@
 | 431 | 353 | Beejangles |
 | 432 | 352 | LadyTorad |
 | 433 | 352 | Sarah Muradyan |
-| 434 | 351 | Hoppy Buildout |
-| 435 | 351 | Eon Harris |
+| 434 | 351 | Eon Harris |
+| 435 | 351 | Hoppy Buildout |
 | 436 | 348 | Ashley Raines |
 | 437 | 348 | Jimmie Clemons |
 | 438 | 346 | Maggie |

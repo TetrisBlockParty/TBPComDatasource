@@ -125,8 +125,8 @@
 | 117 | 642 | Mario Cab |
 | 118 | 631 | Carrie Smith |
 | 119 | 630 | Debbie Kane |
-| 120 | 629 | Tanya Carpenter-Reynolds |
-| 121 | 629 | Death |
+| 120 | 629 | Death |
+| 121 | 629 | Tanya Carpenter-Reynolds |
 | 122 | 626 | Damon J. Martin |
 | 123 | 622 | Chris K |
 | 124 | 612 | femmefatale |
@@ -328,13 +328,13 @@
 | 320 | 324 | Sylvia Vasquez |
 | 321 | 324 | Brave Wrecker |
 | 322 | 323 | Barrbaric |
-| 323 | 322 | Chris65 |
-| 324 | 322 | Christina Norman |
+| 323 | 322 | Christina Norman |
+| 324 | 322 | Chris65 |
 | 325 | 321 | LD1 |
 | 326 | 319 | Fresno Beotoni |
 | 327 | 319 | Crystal Cheresnowsky |
-| 328 | 317 | Bloknboy |
-| 329 | 317 | Zany Tiler |
+| 328 | 317 | Zany Tiler |
+| 329 | 317 | Bloknboy |
 | 330 | 316 | Giggly Builderline |
 | 331 | 314 | Amh |
 | 332 | 312 | Michael |
@@ -447,8 +447,8 @@
 | 439 | 255 | SavageBooty98 |
 | 440 | 254 | Kipoi |
 | 441 | 253 | Mary Crisp |
-| 442 | 252 | Dena Kayy |
-| 443 | 252 | Angela Dawn Torres-Tarrants |
+| 442 | 252 | Angela Dawn Torres-Tarrants |
+| 443 | 252 | Dena Kayy |
 | 444 | 251 | Randy Broadwater |
 | 445 | 251 | MRdot Rooski |
 | 446 | 249 | Mary Cerciello |

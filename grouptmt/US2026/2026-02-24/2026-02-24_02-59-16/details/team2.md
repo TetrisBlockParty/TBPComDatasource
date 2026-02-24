@@ -337,8 +337,8 @@
 | 329 | 1222 | Nuke Morris |
 | 330 | 1222 | Kristin Gower |
 | 331 | 1218 | LaKisha Anderson |
-| 332 | 1217 | Christina Lewis-Vickers |
-| 333 | 1217 | Brooks Brooks |
+| 332 | 1217 | Brooks Brooks |
+| 333 | 1217 | Christina Lewis-Vickers |
 | 334 | 1216 | Pacynthia Williams |
 | 335 | 1215 | Hyper Cluster |
 | 336 | 1214 | David Cudicio-Hayden |
@@ -459,8 +459,8 @@
 | 451 | 970 | AgileDragon |
 | 452 | 970 | Ann Matzkanin |
 | 453 | 969 | Steve Man |
-| 454 | 969 | Gauri Shrotriya |
-| 455 | 969 | Andrew Willis |
+| 454 | 969 | Andrew Willis |
+| 455 | 969 | Gauri Shrotriya |
 | 456 | 969 | Shuany Arias |
 | 457 | 964 | John Bednarik |
 | 458 | 962 | Kathleen Driskell |

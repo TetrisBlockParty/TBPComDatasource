@@ -107,8 +107,8 @@
 | 99 | 792 | Denise Carlson |
 | 100 | 787 | Jason Hart |
 | 101 | 781 | Brittney Griggs |
-| 102 | 780 | Keith Kelley |
-| 103 | 780 | TheNeesh50 |
+| 102 | 780 | TheNeesh50 |
+| 103 | 780 | Keith Kelley |
 | 104 | 779 | Nope Young |
 | 105 | 775 | Klo |
 | 106 | 768 | Trista Leah |
@@ -239,8 +239,8 @@
 | 231 | 430 | Plucky Patternblock |
 | 232 | 427 | Chao Ma |
 | 233 | 426 | John Brunetti |
-| 234 | 424 | Chris Bernstein |
-| 235 | 424 | Keshia Lyons |
+| 234 | 424 | Keshia Lyons |
+| 235 | 424 | Chris Bernstein |
 | 236 | 422 | Zakia Monae |
 | 237 | 421 | JIGsaw ~(•¿°)~ |
 | 238 | 419 | Silly Zonebuilder |
