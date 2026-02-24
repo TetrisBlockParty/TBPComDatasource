@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 14:28:42 UTC
+# Standings for team1 as of 2026-02-24 14:29:21 UTC
 
 **Total Participants:** 2257
 
@@ -492,10 +492,10 @@
 | 484 | 268 | Randy Broadwater |
 | 485 | 267 | Mary Cerciello |
 | 486 | 266 | Angela Jones |
-| 487 | 266 | Jade |
-| 488 | 265 | Cranky Pattern |
-| 489 | 265 | Laurie Sanderson |
-| 490 | 265 | Epic Jumper |
+| 487 | 266 | Epic Jumper |
+| 488 | 266 | Jade |
+| 489 | 265 | Cranky Pattern |
+| 490 | 265 | Laurie Sanderson |
 | 491 | 265 | Brenda L. Bunce |
 | 492 | 264 | Panda Thagreat |
 | 493 | 264 | Toni Sagenbrecht |
@@ -1516,64 +1516,64 @@
 | 1508 | 52 | Nerdy Balancefit |
 | 1509 | 52 | cori |
 | 1510 | 52 | Ghost |
-| 1511 | 51 | Silas Dragoo |
-| 1512 | 51 | shh |
-| 1513 | 51 | Jumpy Clearfit |
-| 1514 | 51 | Jack Shafer |
-| 1515 | 51 | Betsi Pittman Wade |
-| 1516 | 51 | Clever Pivotfall |
+| 1511 | 51 | lambo88 |
+| 1512 | 51 | Amy Lynn |
+| 1513 | 51 | Silas Dragoo |
+| 1514 | 51 | TJ |
+| 1515 | 51 | Dizzy Cascadefit |
+| 1516 | 51 | Brenda Schultz |
 | 1517 | 51 | Shanetta Jacob Hannagan Johnson |
-| 1518 | 51 | lambo88 |
-| 1519 | 51 | Brenda Schultz |
-| 1520 | 51 | TJ |
-| 1521 | 51 | Dizzy Cascadefit |
-| 1522 | 50 | Dandy Line |
+| 1518 | 51 | Clever Pivotfall |
+| 1519 | 51 | Jumpy Clearfit |
+| 1520 | 51 | Jack Shafer |
+| 1521 | 51 | Betsi Pittman Wade |
+| 1522 | 51 | shh |
 | 1523 | 50 | Lacey Wilson |
 | 1524 | 50 | Cheeky Spinzone |
 | 1525 | 50 | Clarenique Williams |
-| 1526 | 50 | Chummy Tiltpiece |
-| 1527 | 50 | Ivan Reynolds |
-| 1528 | 50 | Kalyn Lani |
-| 1529 | 50 | Harmony Damoore |
-| 1530 | 50 | Vanilla gorilla |
-| 1531 | 50 | Mama Zelda |
-| 1532 | 50 | Chirpy Twistline |
-| 1533 | 50 | Katherine Marie Spittle |
-| 1534 | 50 | Kat Bowman |
-| 1535 | 50 | Sarah Lyle |
-| 1536 | 50 | Lush Snapclear |
-| 1537 | 50 | Meranda Varney |
+| 1526 | 50 | Dandy Line |
+| 1527 | 50 | Chummy Tiltpiece |
+| 1528 | 50 | Ivan Reynolds |
+| 1529 | 50 | Kalyn Lani |
+| 1530 | 50 | Harmony Damoore |
+| 1531 | 50 | Vanilla gorilla |
+| 1532 | 50 | Mama Zelda |
+| 1533 | 50 | Chirpy Twistline |
+| 1534 | 50 | Katherine Marie Spittle |
+| 1535 | 50 | Lush Snapclear |
+| 1536 | 50 | Sarah Lyle |
+| 1537 | 50 | Kat Bowman |
 | 1538 | 50 | Dustin Eagleton |
 | 1539 | 50 | Eric Michael Floyd |
-| 1540 | 49 | Stephanie Thompson |
-| 1541 | 49 | Boldy Tumbler |
-| 1542 | 49 | DeeTy |
-| 1543 | 49 | Elania Marie Degrez |
-| 1544 | 49 | Dwight Wade Stambaugh Jr. |
-| 1545 | 49 | Vanessa G Keill |
+| 1540 | 50 | Meranda Varney |
+| 1541 | 49 | DeeTy |
+| 1542 | 49 | Elania Marie Degrez |
+| 1543 | 49 | Dwight Wade Stambaugh Jr. |
+| 1544 | 49 | Vanessa G Keill |
+| 1545 | 49 | Boldy Tumbler |
 | 1546 | 49 | Summer Osborne |
 | 1547 | 49 | Randi Voight |
 | 1548 | 49 | Sandoval Tinka |
 | 1549 | 49 | Edward McParlin |
-| 1550 | 48 | Todd Barry |
-| 1551 | 48 | Todd Bolding |
+| 1550 | 49 | Stephanie Thompson |
+| 1551 | 48 | Todd Barry |
 | 1552 | 48 | Hunt Joe |
-| 1553 | 48 | Bree Smith |
-| 1554 | 48 | Boldy Spinbuilder |
-| 1555 | 48 | Marla Erin Salas |
-| 1556 | 48 | Sassy Dashy |
+| 1553 | 48 | Todd Bolding |
+| 1554 | 48 | Bree Smith |
+| 1555 | 48 | Boldy Spinbuilder |
+| 1556 | 48 | Marla Erin Salas |
 | 1557 | 48 | Misty |
-| 1558 | 47 | Shy Lu |
-| 1559 | 47 | Tina |
+| 1558 | 48 | Sassy Dashy |
+| 1559 | 47 | Tyler Dillon |
 | 1560 | 47 | funneemonee |
-| 1561 | 47 | Tyler Dillon |
-| 1562 | 47 | Loopy Towerpiece |
-| 1563 | 47 | Brian |
-| 1564 | 47 | chabbu |
-| 1565 | 47 | Unbound72 |
-| 1566 | 47 | Marie Ribisi |
-| 1567 | 47 | Astroboy81 |
-| 1568 | 47 | Amy Lynn |
+| 1561 | 47 | Tina |
+| 1562 | 47 | Shy Lu |
+| 1563 | 47 | Loopy Towerpiece |
+| 1564 | 47 | Marie Ribisi |
+| 1565 | 47 | Astroboy81 |
+| 1566 | 47 | Unbound72 |
+| 1567 | 47 | chabbu |
+| 1568 | 47 | Brian |
 | 1569 | 47 | Dawn Brown |
 | 1570 | 47 | Kimchi |
 | 1571 | 47 | Brianna Andrews |
