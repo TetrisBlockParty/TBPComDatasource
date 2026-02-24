@@ -185,8 +185,8 @@
 | 177 | 538 | Steph Marie |
 | 178 | 537 | Scott Jameson |
 | 179 | 535 | Berklie Apedaile |
-| 180 | 532 | Alan George LaRage |
-| 181 | 532 | Matt Summer |
+| 180 | 532 | Matt Summer |
+| 181 | 532 | Alan George LaRage |
 | 182 | 528 | Erin Sabol |
 | 183 | 525 | Lucas J Sutton |
 | 184 | 522 | Carly Alexis |
@@ -240,8 +240,8 @@
 | 232 | 444 | Selena Shaw |
 | 233 | 442 | John Brunetti |
 | 234 | 441 | Lush Linkfall |
-| 235 | 438 | Melvin Baird |
-| 236 | 438 | 23 |
+| 235 | 438 | 23 |
+| 236 | 438 | Melvin Baird |
 | 237 | 434 | Ramel Rhodes |
 | 238 | 433 | Damn Libra |
 | 239 | 433 | Circuit8 |
@@ -317,7 +317,7 @@
 | 309 | 344 | Amanda Maciel Clarke |
 | 310 | 343 | HastyGrabber |
 | 311 | 343 | Perky Piecegrid |
-| 312 | 343 | HastyGrabber |
+| 312 | 343 | Blessedmama |
 | 313 | 342 | Lauren Lamb |
 | 314 | 339 | Chance Strickland |
 | 315 | 336 | Tina Lopez |

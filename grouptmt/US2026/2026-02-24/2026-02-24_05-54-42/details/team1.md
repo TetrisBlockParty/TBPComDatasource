@@ -45,8 +45,8 @@
 | 37 | 1515 | Felicia Lewis |
 | 38 | 1405 | Chipper Gridlock |
 | 39 | 1391 | Aaron Garnett |
-| 40 | 1334 | Tyler Alcock |
-| 41 | 1334 | june october |
+| 40 | 1334 | june october |
+| 41 | 1334 | Tyler Alcock |
 | 42 | 1321 | Drew Magnus |
 | 43 | 1291 | Marianne Louise West |
 | 44 | 1290 | Spunky Piecebuilder |
@@ -62,8 +62,8 @@
 | 54 | 1177 | Tipsy Column |
 | 55 | 1170 | Tater |
 | 56 | 1160 | Amanda Jarnagin |
-| 57 | 1137 | TSwag |
-| 58 | 1137 | Jen Sartain |
+| 57 | 1137 | Jen Sartain |
+| 58 | 1137 | TSwag |
 | 59 | 1128 | Cynthia Bradley |
 | 60 | 1127 | Andrea Dañielle Ortiz |
 | 61 | 1122 | Kristen Gideon |
@@ -136,8 +136,8 @@
 | 128 | 642 | Mario Cab |
 | 129 | 639 | Theo Pinnow |
 | 130 | 634 | Carrie Smith |
-| 131 | 629 | Tanya Carpenter-Reynolds |
-| 132 | 629 | Death |
+| 131 | 629 | Death |
+| 132 | 629 | Tanya Carpenter-Reynolds |
 | 133 | 628 | Trina Gee |
 | 134 | 626 | Damon J. Martin |
 | 135 | 622 | Chris K |
@@ -171,8 +171,8 @@
 | 163 | 543 | Adrian Esteban |
 | 164 | 540 | Tonya Beasley |
 | 165 | 538 | .running. |
-| 166 | 537 | BadG52 |
-| 167 | 537 | Stephanie Zahn |
+| 166 | 537 | Stephanie Zahn |
+| 167 | 537 | BadG52 |
 | 168 | 535 | Plucky Ziggy |
 | 169 | 532 | Νεφ Όνυξ |
 | 170 | 528 | ALFD |
@@ -202,8 +202,8 @@
 | 194 | 488 | Connie |
 | 195 | 487 | Eric DeSimone |
 | 196 | 479 | canbrick |
-| 197 | 478 | Hasty Cascader |
-| 198 | 478 | Jumpy Dropper |
+| 197 | 478 | Jumpy Dropper |
+| 198 | 478 | Hasty Cascader |
 | 199 | 475 | Reesey Enyart |
 | 200 | 473 | Chuck Gannon |
 | 201 | 470 | Candy Jones |
@@ -261,14 +261,14 @@
 | 253 | 392 | Poppy Riserpiece |
 | 254 | 391 | Happy Basegrid |
 | 255 | 390 | David Lutcher |
-| 256 | 386 | Angela Renea Lester |
-| 257 | 386 | Melissa Bires Hussar |
+| 256 | 386 | Melissa Bires Hussar |
+| 257 | 386 | Angela Renea Lester |
 | 258 | 384 | Irv |
-| 259 | 383 | Margo Wagner |
-| 260 | 383 | pjbeta |
+| 259 | 383 | pjbeta |
+| 260 | 383 | Margo Wagner |
 | 261 | 382 | Jamie Jury |
-| 262 | 380 | Renee Tucker |
-| 263 | 380 | Snippy Wipebuilder |
+| 262 | 380 | Snippy Wipebuilder |
+| 263 | 380 | Renee Tucker |
 | 264 | 379 | Austin James |
 | 265 | 378 | Colleen Pinette |
 | 266 | 378 | Eddie Dillon |
@@ -551,8 +551,8 @@
 | 543 | 220 | Corrie Grant Smithson |
 | 544 | 220 | Jana Hutcheson |
 | 545 | 219 | Breanna Luna |
-| 546 | 219 | MamaB24 |
-| 547 | 219 | Negan Mallory Knoxx Spence |
+| 546 | 219 | Negan Mallory Knoxx Spence |
+| 547 | 219 | MamaB24 |
 | 548 | 218 | Mel Fab |
 | 549 | 218 | Aaron Green |
 | 550 | 217 | Rikki Jo Creech |
