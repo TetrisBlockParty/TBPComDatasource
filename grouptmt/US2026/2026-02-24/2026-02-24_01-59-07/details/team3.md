@@ -336,8 +336,8 @@
 | 328 | 444 | Snazzy Filler |
 | 329 | 443 | Jul |
 | 330 | 442 | Jennifer Alvey |
-| 331 | 436 | AC Yeater |
-| 332 | 436 | Heather De Vries Cobb |
+| 331 | 436 | Heather De Vries Cobb |
+| 332 | 436 | AC Yeater |
 | 333 | 435 | Sabrina Hardrick |
 | 334 | 432 | Jojo M |
 | 335 | 432 | Snippy Wipeout |
@@ -385,8 +385,8 @@
 | 377 | 383 | Jessica Christian |
 | 378 | 383 | Nikki White |
 | 379 | 383 | Kirhonda Autmon |
-| 380 | 382 | Rynne Ellis |
-| 381 | 382 | Amanda J. Mcneil-Anderson |
+| 380 | 382 | Amanda J. Mcneil-Anderson |
+| 381 | 382 | Rynne Ellis |
 | 382 | 378 | MsBee |
 | 383 | 377 | Hoppy Patternline |
 | 384 | 377 | Dee Franklin |
