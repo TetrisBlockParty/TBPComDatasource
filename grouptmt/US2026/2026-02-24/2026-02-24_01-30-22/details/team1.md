@@ -109,8 +109,8 @@
 | 101 | 706 | Denice Dee |
 | 102 | 706 | Plucky Fallzone |
 | 103 | 703 | Angel Fowler |
-| 104 | 691 | Krista Young |
-| 105 | 691 | Rachael |
+| 104 | 691 | Rachael |
+| 105 | 691 | Krista Young |
 | 106 | 690 | Melissa Lemmon |
 | 107 | 672 | Tdub |
 | 108 | 671 | Chirpy Smasher |
@@ -234,8 +234,8 @@
 | 226 | 397 | Erin Rosberg |
 | 227 | 396 | Sam Williams |
 | 228 | 395 | Monica Donato |
-| 229 | 393 | Lehrin Maria |
-| 230 | 393 | Wisa |
+| 229 | 393 | Wisa |
+| 230 | 393 | Lehrin Maria |
 | 231 | 389 | Howdi Duty |
 | 232 | 386 | Brian Spotts |
 | 233 | 384 | Tami Luce Martin |
@@ -294,8 +294,8 @@
 | 286 | 341 | Standia Civil |
 | 287 | 341 | Colleen Pinette |
 | 288 | 341 | Nick R Montague |
-| 289 | 340 | Robert |
-| 290 | 340 | Danielle Little-Daugherty |
+| 289 | 340 | Danielle Little-Daugherty |
+| 290 | 340 | Robert |
 | 291 | 338 | Layzietyme |
 | 292 | 337 | Tipsy Builder |
 | 293 | 337 | Larissa Marie Nelson |
@@ -320,8 +320,8 @@
 | 312 | 322 | Christina Norman |
 | 313 | 322 | Chris65 |
 | 314 | 319 | Fresno Beotoni |
-| 315 | 317 | Zany Tiler |
-| 316 | 317 | Bloknboy |
+| 315 | 317 | Bloknboy |
+| 316 | 317 | Zany Tiler |
 | 317 | 316 | Giggly Builderline |
 | 318 | 314 | Amh |
 | 319 | 312 | Diane Byrd |
