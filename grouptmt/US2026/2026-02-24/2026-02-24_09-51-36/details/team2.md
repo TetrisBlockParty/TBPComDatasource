@@ -282,8 +282,8 @@
 | 274 | 1480 | Dimitra Zazara |
 | 275 | 1479 | Pacynthia Williams |
 | 276 | 1478 | Misty Walker |
-| 277 | 1477 | Prado |
-| 278 | 1477 | Hillary Crawford |
+| 277 | 1477 | Hillary Crawford |
+| 278 | 1477 | Prado |
 | 279 | 1469 | Carrie Trigg |
 | 280 | 1463 | Yvonne Wharton |
 | 281 | 1459 | Shiny Rollzone |
@@ -400,8 +400,8 @@
 | 392 | 1170 | Shelley Thornburgh Wright |
 | 393 | 1167 | Min |
 | 394 | 1164 | DefaultUser |
-| 395 | 1163 | Sarah DeHart |
-| 396 | 1163 | Caitlin Schmid |
+| 395 | 1163 | Caitlin Schmid |
+| 396 | 1163 | Sarah DeHart |
 | 397 | 1160 | Maricia Layolla Cason |
 | 398 | 1158 | Brittany Clark |
 | 399 | 1150 | Sheniya Spurgeon |
@@ -698,8 +698,8 @@
 | 690 | 763 | Chelle |
 | 691 | 762 | Slinky Racker |
 | 692 | 760 | Shorty |
-| 693 | 759 | Briana Alexander |
-| 694 | 759 | Jessica Lamb |
+| 693 | 759 | Jessica Lamb |
+| 694 | 759 | Briana Alexander |
 | 695 | 759 | Anthony McAlister |
 | 696 | 758 | John Jubes |
 | 697 | 758 | Stephanie Neuburger |
@@ -872,8 +872,8 @@
 | 864 | 659 | Rain |
 | 865 | 656 | Toni Whipple |
 | 866 | 656 | Emilie Desma |
-| 867 | 655 | Lively Piecebuilder |
-| 868 | 655 | Greenshades00 |
+| 867 | 655 | Greenshades00 |
+| 868 | 655 | Lively Piecebuilder |
 | 869 | 655 | dionia |
 | 870 | 654 | DLOCC1056 |
 | 871 | 654 | David Duncan |
@@ -1025,8 +1025,8 @@
 | 1017 | 577 | GinRox88 |
 | 1018 | 575 | Cini |
 | 1019 | 575 | Joel Rosado |
-| 1020 | 575 | Kira Krause |
-| 1021 | 575 | Vung Nguyen |
+| 1020 | 575 | Vung Nguyen |
+| 1021 | 575 | Kira Krause |
 | 1022 | 574 | Chris Emanuel |
 | 1023 | 574 | Shyenn Gadsby |
 | 1024 | 574 | Shannon Gerbis |
