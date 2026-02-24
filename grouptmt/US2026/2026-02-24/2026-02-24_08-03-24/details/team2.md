@@ -219,8 +219,8 @@
 | 211 | 1816 | Woodys Glass |
 | 212 | 1813 | Catina Hutchison |
 | 213 | 1807 | Osun Anuket Esu |
-| 214 | 1775 | Eboni Banks |
-| 215 | 1775 | Sommer Shope |
+| 214 | 1775 | Sommer Shope |
+| 215 | 1775 | Eboni Banks |
 | 216 | 1763 | Nerdy Pattern |
 | 217 | 1761 | Rosa Franklin |
 | 218 | 1751 | Dustin Rains |
@@ -445,8 +445,8 @@
 | 437 | 1071 | Kim Dean |
 | 438 | 1071 | Nashu |
 | 439 | 1068 | Tiffany Branham |
-| 440 | 1067 | Lourisha |
-| 441 | 1067 | Taylor Phillips |
+| 440 | 1067 | Taylor Phillips |
+| 441 | 1067 | Lourisha |
 | 442 | 1063 | Allan Wayne Lamia |
 | 443 | 1059 | Chris Gonzales Bulante |
 | 444 | 1058 | Jessica Wayne Cornwall |
@@ -466,8 +466,8 @@
 | 458 | 1026 | Jermaine Harris |
 | 459 | 1025 | Ann Matzkanin |
 | 460 | 1024 | Tiara Elizabeth Baker |
-| 461 | 1024 | Susan Perraut Jones |
-| 462 | 1024 | KrisCynthia Lynette |
+| 461 | 1024 | KrisCynthia Lynette |
+| 462 | 1024 | Susan Perraut Jones |
 | 463 | 1018 | Eric Castaneda |
 | 464 | 1018 | Donna M Carter |
 | 465 | 1018 | Darla Silva |
@@ -813,8 +813,8 @@
 | 805 | 677 | Blacc Blac |
 | 806 | 677 | Kayleigh Wisse |
 | 807 | 676 | Fancy Shiftsnap |
-| 808 | 675 | Ryan Chan |
-| 809 | 675 | Katelynn Hollen |
+| 808 | 675 | Katelynn Hollen |
+| 809 | 675 | Ryan Chan |
 | 810 | 675 | Fi Ne |
 | 811 | 672 | Lathasa Newkirk |
 | 812 | 672 | Abimbola Bimbo |
@@ -890,10 +890,10 @@
 | 882 | 639 | Tina Marie |
 | 883 | 639 | Libby Hicks |
 | 884 | 638 | Taren Cowan |
-| 885 | 638 | Nate |
-| 886 | 638 | Greenshades00 |
-| 887 | 638 | Kelly |
-| 888 | 638 | Daring Caster |
+| 885 | 638 | Greenshades00 |
+| 886 | 638 | Nate |
+| 887 | 638 | Daring Caster |
+| 888 | 638 | Kelly |
 | 889 | 637 | Darcy Mae |
 | 890 | 637 | Boldy Wiper |
 | 891 | 635 | Pamela Babisky |
@@ -1246,27 +1246,27 @@
 | 1238 | 480 | Dar |
 | 1239 | 480 | Amanda Canterbury |
 | 1240 | 479 | Courtney Clark |
-| 1241 | 479 | Monica Oliver |
-| 1242 | 479 | Jennifer Rose |
+| 1241 | 479 | Jennifer Rose |
+| 1242 | 479 | Monica Oliver |
 | 1243 | 479 | Mike Cobbs |
-| 1244 | 478 | Nikki Nikki |
-| 1245 | 478 | Lynda Toland |
+| 1244 | 478 | Lynda Toland |
+| 1245 | 478 | Nikki Nikki |
 | 1246 | 478 | Pumpkin24 |
 | 1247 | 478 | Voltz Dave |
-| 1248 | 477 | Alison Emmons |
-| 1249 | 477 | Sunny Pusher |
+| 1248 | 477 | Sunny Pusher |
+| 1249 | 477 | Alison Emmons |
 | 1250 | 476 | Heather Sawtelle-Mckenzie |
 | 1251 | 476 | Sliph007 |
 | 1252 | 476 | Anthony D Gritz Jr |
 | 1253 | 475 | Aretta Ariel-Boggs |
 | 1254 | 475 | Trey Petty |
 | 1255 | 475 | Oscar Bernie |
-| 1256 | 474 | James Zaragoza |
-| 1257 | 474 | Calandra Shaya Robinson |
+| 1256 | 474 | Calandra Shaya Robinson |
+| 1257 | 474 | James Zaragoza |
 | 1258 | 474 | Lisa Bare |
 | 1259 | 474 | Lisa Falcon |
 | 1260 | 473 | PlazTTV |
-| 1261 | 472 | Stelleana Cook |
+| 1261 | 472 | Kim McGrath |
 | 1262 | 472 | Bold Clusterfit |
 | 1263 | 472 | Stelleana Cook |
 | 1264 | 472 | Kena T. Tanner |
@@ -1290,8 +1290,8 @@
 | 1282 | 466 | Jeannine Fennell |
 | 1283 | 465 | Caryn McDaniel Broomby |
 | 1284 | 465 | Josh Dill |
-| 1285 | 465 | Epic Stackzone |
-| 1286 | 465 | Paden Mullenax |
+| 1285 | 465 | Paden Mullenax |
+| 1286 | 465 | Epic Stackzone |
 | 1287 | 465 | Loopy Mover |
 | 1288 | 464 | Maddie |
 | 1289 | 464 | Pammie Miller |

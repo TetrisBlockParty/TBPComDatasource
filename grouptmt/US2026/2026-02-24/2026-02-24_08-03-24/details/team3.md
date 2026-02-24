@@ -109,8 +109,8 @@
 | 101 | 1309 | yoyo |
 | 102 | 1297 | Shelby Michelle |
 | 103 | 1290 | JerseyJess |
-| 104 | 1282 | Amanda L Baker |
-| 105 | 1282 | Peppy Shifter |
+| 104 | 1282 | Peppy Shifter |
+| 105 | 1282 | Amanda L Baker |
 | 106 | 1276 | Jessica Bechler |
 | 107 | 1274 | Sarah Fehring |
 | 108 | 1248 | Lori Barnaby |
@@ -125,8 +125,8 @@
 | 117 | 1134 | Melissa Orth Hunter |
 | 118 | 1124 | Stephanie Rice |
 | 119 | 1121 | Corie A. Brinson |
-| 120 | 1114 | Groovy Catcher |
-| 121 | 1114 | Loopy Fallmatch |
+| 120 | 1114 | Loopy Fallmatch |
+| 121 | 1114 | Groovy Catcher |
 | 122 | 1105 | Adrian Marcel Pate |
 | 123 | 1093 | Angela M. Fletcher |
 | 124 | 1091 | Jennifer |
@@ -213,8 +213,8 @@
 | 205 | 760 | Kiki |
 | 206 | 759 | Mykal Burton |
 | 207 | 757 | Fancy Cascader |
-| 208 | 755 | Laura Booth Wosko |
-| 209 | 755 | Colton |
+| 208 | 755 | Colton |
+| 209 | 755 | Laura Booth Wosko |
 | 210 | 753 | Morgan Martinez |
 | 211 | 752 | Joye Sims Binion |
 | 212 | 750 | Michael Nowogorski |
@@ -303,8 +303,8 @@
 | 295 | 546 | lashanda |
 | 296 | 542 | France Vézina |
 | 297 | 541 | Mcathen |
-| 298 | 540 | rosy |
-| 299 | 540 | Tanya Kittrell |
+| 298 | 540 | Tanya Kittrell |
+| 299 | 540 | rosy |
 | 300 | 539 | Fancy Curver |
 | 301 | 539 | Kate M. Murdock |
 | 302 | 536 | Shannon Matthew Byers |
@@ -392,14 +392,14 @@
 | 384 | 426 | Christina Rotz Shows |
 | 385 | 425 | Ava Petito |
 | 386 | 423 | Dapper Liney |
-| 387 | 419 | Philip Rock |
-| 388 | 419 | Desiree Gold |
+| 387 | 419 | Desiree Gold |
+| 388 | 419 | Philip Rock |
 | 389 | 419 | Maggie |
 | 390 | 418 | Rainbow77375 |
 | 391 | 416 | Tay |
 | 392 | 415 | Steffi Chris Dacones |
-| 393 | 414 | RickyG |
-| 394 | 414 | Arden White Kirsch |
+| 393 | 414 | Arden White Kirsch |
+| 394 | 414 | RickyG |
 | 395 | 413 | Rick Poppen |
 | 396 | 411 | Beaudie Stroebel |
 | 397 | 409 | Rich LeBlanc |
