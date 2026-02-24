@@ -276,8 +276,8 @@
 | 268 | 1539 | Nadia Batista Garcia |
 | 269 | 1537 | Prado |
 | 270 | 1528 | Stacy Stickle |
-| 271 | 1509 | Whitney Nicole Waterman |
-| 272 | 1509 | Stacey Clement |
+| 271 | 1509 | Stacey Clement |
+| 272 | 1509 | Whitney Nicole Waterman |
 | 273 | 1506 | Shiny Twistfit |
 | 274 | 1501 | Ashle Scranton |
 | 275 | 1498 | Ericka Marie Smith |
@@ -504,8 +504,8 @@
 | 496 | 993 | Davetta Sanford |
 | 497 | 992 | Mighty Shatterfit |
 | 498 | 991 | Della Hole |
-| 499 | 990 | Sabrena Yeisley |
-| 500 | 990 | Crystie Hicks |
+| 499 | 990 | Crystie Hicks |
+| 500 | 986 | Sabrena Yeisley |
 | 501 | 981 | Block Master |
 | 502 | 979 | Fae-Bulous |
 | 503 | 978 | Barry Britt |
