@@ -485,8 +485,8 @@
 | 477 | 962 | Antionette Sewell |
 | 478 | 960 | Smashanator |
 | 479 | 960 | KhaosLord |
-| 480 | 957 | Jennie Lee Huntley |
-| 481 | 957 | Lonne Emade |
+| 480 | 957 | Lonne Emade |
+| 481 | 957 | Jennie Lee Huntley |
 | 482 | 956 | Jenn Marie |
 | 483 | 951 | Victoria Moore-Smith |
 | 484 | 950 | ToShi |
@@ -1209,9 +1209,9 @@
 | 1201 | 473 | Trey Petty |
 | 1202 | 472 | Bold Clusterfit |
 | 1203 | 472 | Stelleana Cook |
-| 1204 | 472 | Kena T. Tanner |
+| 1204 | 472 | Muhammad |
 | 1205 | 472 | Sarah Dean |
-| 1206 | 472 | Muhammad |
+| 1206 | 472 | Kena T. Tanner |
 | 1207 | 471 | Joshua Vargeson |
 | 1208 | 471 | Keyloni Duvall |
 | 1209 | 471 | Emoniee Sa'niaya |

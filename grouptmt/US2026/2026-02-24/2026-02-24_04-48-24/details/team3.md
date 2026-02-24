@@ -80,8 +80,8 @@
 | 72 | 1646 | Gracie |
 | 73 | 1633 | cowboy25469 |
 | 74 | 1620 | Queen Kam |
-| 75 | 1566 | Marcie Bressler |
-| 76 | 1566 | Nerdy Riseclear |
+| 75 | 1566 | Nerdy Riseclear |
+| 76 | 1566 | Marcie Bressler |
 | 77 | 1560 | Logan Naccarato |
 | 78 | 1555 | Snappy Glidepiece |
 | 79 | 1552 | joclisa |
@@ -102,8 +102,8 @@
 | 94 | 1361 | Patricia Gadsden |
 | 95 | 1343 | Joey Banks |
 | 96 | 1320 | Kristie |
-| 97 | 1318 | Diana Ibarra |
-| 98 | 1318 | Tiff Vs Tiffany |
+| 97 | 1318 | Tiff Vs Tiffany |
+| 98 | 1318 | Diana Ibarra |
 | 99 | 1309 | yoyo |
 | 100 | 1297 | Shelby Michelle |
 | 101 | 1290 | JerseyJess |
@@ -206,8 +206,8 @@
 | 198 | 763 | Patricia White |
 | 199 | 760 | Kiki |
 | 200 | 757 | Fancy Cascader |
-| 201 | 755 | Laura Booth Wosko |
-| 202 | 755 | Alexmac |
+| 201 | 755 | Alexmac |
+| 202 | 755 | Laura Booth Wosko |
 | 203 | 753 | Morgan Martinez |
 | 204 | 750 | Michael Nowogorski |
 | 205 | 746 | Joye Sims Binion |
@@ -268,8 +268,8 @@
 | 260 | 582 | FuzzyNavel |
 | 261 | 578 | James Mitchell |
 | 262 | 574 | Rachael McClain Owens |
-| 263 | 572 | Hyper Matchzone |
-| 264 | 572 | Tessina Dewey-Mancino |
+| 263 | 572 | Tessina Dewey-Mancino |
+| 264 | 572 | Hyper Matchzone |
 | 265 | 570 | thekey |
 | 266 | 570 | Fallorina Susana |
 | 267 | 569 | Silly Twist |
@@ -451,7 +451,7 @@
 | 443 | 360 | Cathy Leger |
 | 444 | 359 | Ann Hammac |
 | 445 | 359 | Steven Fulater |
-| 446 | 359 | Ann Hammac |
+| 446 | 359 | Kathleen Taylor |
 | 447 | 358 | Taylor Culver |
 | 448 | 358 | Block Baddie |
 | 449 | 358 | Beejangles |

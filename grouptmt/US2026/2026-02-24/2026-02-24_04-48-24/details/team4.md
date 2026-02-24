@@ -69,8 +69,8 @@
 | 61 | 1116 | Ashley Ingram |
 | 62 | 1101 | BertMofo |
 | 63 | 1089 | Alyssa Papen |
-| 64 | 1082 | Dion Crommarty |
-| 65 | 1082 | Avy Absol |
+| 64 | 1082 | Avy Absol |
+| 65 | 1082 | Dion Crommarty |
 | 66 | 1075 | Dustee Craddock-Harrison |
 | 67 | 1069 | Heather Tushner |
 | 68 | 1055 | Julian Garcia |
@@ -149,8 +149,8 @@
 | 141 | 622 | Porkobello |
 | 142 | 619 | April Rondinone |
 | 143 | 618 | Ernest Maxwell |
-| 144 | 616 | Samantha Peterson |
-| 145 | 616 | Carrie Brian |
+| 144 | 616 | Carrie Brian |
+| 145 | 616 | Samantha Peterson |
 | 146 | 615 | Kim Hunt |
 | 147 | 615 | Angelito |
 | 148 | 608 | Swanky Fitline |
@@ -166,8 +166,8 @@
 | 158 | 578 | Livvy |
 | 159 | 576 | Jade Rian |
 | 160 | 575 | Jenna Ingersoll |
-| 161 | 574 | Carlos Ramirez |
-| 162 | 574 | Carmethia Clemons Haslerig |
+| 161 | 574 | Carmethia Clemons Haslerig |
+| 162 | 574 | Carlos Ramirez |
 | 163 | 568 | Cindy Looper |
 | 164 | 567 | Rico |
 | 165 | 565 | Ren Mc |
@@ -219,8 +219,8 @@
 | 211 | 473 | Cranky Rollpiece |
 | 212 | 465 | June Hoffman |
 | 213 | 464 | Zakia Monae |
-| 214 | 462 | Crystal Nicolette Moore |
-| 215 | 462 | Leslie Thomas |
+| 214 | 462 | Leslie Thomas |
+| 215 | 462 | Crystal Nicolette Moore |
 | 216 | 460 | Kathy Brookins |
 | 217 | 458 | Kristina Black |
 | 218 | 457 | J-Rizzle |
@@ -287,9 +287,9 @@
 | 279 | 376 | Nig |
 | 280 | 376 | Montiette Mcglown |
 | 281 | 373 | Russ Attitude |
-| 282 | 370 | Twisty Risebuilder |
-| 283 | 370 | Kris Bartlett |
-| 284 | 370 | Cheery Risebuilder |
+| 282 | 370 | Cheery Risebuilder |
+| 283 | 370 | Twisty Risebuilder |
+| 284 | 370 | Kris Bartlett |
 | 285 | 367 | Meg |
 | 286 | 366 | Hyper Builder |
 | 287 | 365 | Twisty Cascadezone |
@@ -322,8 +322,8 @@
 | 314 | 332 | Jason Bosco |
 | 315 | 331 | Kate |
 | 316 | 330 | Sandra Safford |
-| 317 | 330 | Duck |
-| 318 | 330 | Brittany Little |
+| 317 | 330 | Brittany Little |
+| 318 | 330 | Duck |
 | 319 | 329 | Meagan Nicole |
 | 320 | 328 | Angie Schmidt |
 | 321 | 328 | Heather Bruce |
@@ -401,8 +401,8 @@
 | 393 | 278 | L Bear Champion |
 | 394 | 278 | Shainne Brewer |
 | 395 | 277 | Silly SeaWeed |
-| 396 | 276 | Dennis Bradley |
-| 397 | 276 | Cynthia Boudreau |
+| 396 | 276 | Cynthia Boudreau |
+| 397 | 276 | Dennis Bradley |
 | 398 | 275 | Jarred Falls |
 | 399 | 272 | Paito |
 | 400 | 271 | ImJustMe |
@@ -431,8 +431,8 @@
 | 423 | 259 | Ultramarine |
 | 424 | 258 | April Spoelma |
 | 425 | 257 | ThriftySpice |
-| 426 | 256 | Candice Carasiti |
-| 427 | 256 | bloat princess |
+| 426 | 256 | bloat princess |
+| 427 | 256 | Candice Carasiti |
 | 428 | 255 | Jenny Wells-Oakley |
 | 429 | 255 | Red |
 | 430 | 253 | Autum Leigh |
