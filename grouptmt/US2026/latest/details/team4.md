@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-24 19:22:42 UTC
+# Standings for team4 as of 2026-02-24 19:23:23 UTC
 
 **Total Participants:** 2071
 
@@ -339,51 +339,51 @@
 | 331 | 381 | Cool Gridzone |
 | 332 | 380 | Chaz |
 | 333 | 380 | Holly Jolly |
-| 334 | 377 | Lauren Lamb |
+| 334 | 380 | James Philpot Ross |
 | 335 | 377 | Perky Piecegrid |
-| 336 | 376 | Nig |
-| 337 | 376 | Kenna Gunderland |
-| 338 | 376 | Stacey Stano |
-| 339 | 375 | George Tzouganos |
-| 340 | 370 | Kris Bartlett |
-| 341 | 370 | Amy Sanford |
-| 342 | 370 | Kristi Trafton |
-| 343 | 369 | Jackie Clark |
-| 344 | 368 | Sarah Hoffman |
-| 345 | 367 | Meg |
-| 346 | 366 | Jessica Petersen |
-| 347 | 366 | Ak Jones |
-| 348 | 364 | Tony Pavelka |
-| 349 | 362 | Jason Bosco |
-| 350 | 361 | Marcus TheeyoungWoe Gilmore |
-| 351 | 359 | Sho Nuff |
-| 352 | 359 | Raymond Roberts |
+| 336 | 377 | Lauren Lamb |
+| 337 | 376 | Nig |
+| 338 | 376 | Kenna Gunderland |
+| 339 | 376 | Stacey Stano |
+| 340 | 375 | George Tzouganos |
+| 341 | 374 | Amy Sanford |
+| 342 | 370 | Kris Bartlett |
+| 343 | 370 | Kristi Trafton |
+| 344 | 369 | Jackie Clark |
+| 345 | 368 | Sarah Hoffman |
+| 346 | 367 | Meg |
+| 347 | 366 | Jessica Petersen |
+| 348 | 366 | Ak Jones |
+| 349 | 364 | Tony Pavelka |
+| 350 | 362 | Jason Bosco |
+| 351 | 361 | Marcus TheeyoungWoe Gilmore |
+| 352 | 359 | AyeKay |
 | 353 | 359 | Michael Snow |
-| 354 | 359 | AyeKay |
-| 355 | 359 | Allen Lloyd |
-| 356 | 358 | Lilya Troutman |
-| 357 | 356 | Heather Bruce |
-| 358 | 354 | @ |
-| 359 | 353 | Maureen Flanigan |
-| 360 | 352 | Kate |
-| 361 | 351 | Metsfan |
+| 354 | 359 | Sho Nuff |
+| 355 | 359 | Raymond Roberts |
+| 356 | 359 | Allen Lloyd |
+| 357 | 358 | Lilya Troutman |
+| 358 | 356 | Heather Bruce |
+| 359 | 354 | @ |
+| 360 | 353 | Maureen Flanigan |
+| 361 | 352 | Kate |
 | 362 | 351 | Korcoran Smith |
-| 363 | 351 | Paito |
-| 364 | 351 | Dana Scott |
-| 365 | 350 | KayM |
+| 363 | 351 | Metsfan |
+| 364 | 351 | Paito |
+| 365 | 351 | Dana Scott |
 | 366 | 350 | Amanda Maciel Clarke |
-| 367 | 349 | Richard-April Kice |
-| 368 | 349 | jim |
-| 369 | 349 | Groovy Gridlock |
-| 370 | 347 | Ruby Khalisadar |
-| 371 | 347 | Jay You |
-| 372 | 347 | Candice Carasiti |
-| 373 | 347 | Megan Cutshaw |
-| 374 | 347 | Tyler Bechtel |
-| 375 | 347 | Eminem |
-| 376 | 346 | Gracie Ann Taylor |
+| 367 | 350 | KayM |
+| 368 | 349 | Groovy Gridlock |
+| 369 | 349 | Richard-April Kice |
+| 370 | 349 | jim |
+| 371 | 347 | Tyler Bechtel |
+| 372 | 347 | Eminem |
+| 373 | 347 | Ruby Khalisadar |
+| 374 | 347 | Jay You |
+| 375 | 347 | Candice Carasiti |
+| 376 | 347 | Megan Cutshaw |
 | 377 | 346 | Kevin Bush |
-| 378 | 346 | James Philpot Ross |
+| 378 | 346 | Gracie Ann Taylor |
 | 379 | 344 | Chair |
 | 380 | 344 | Glitzy Corner |
 | 381 | 343 | ImJustMe |
@@ -679,22 +679,22 @@
 | 671 | 200 | Veronica Garza |
 | 672 | 199 | Amy C Brown |
 | 673 | 199 | Ben Nome |
-| 674 | 199 | Allen Johnson |
-| 675 | 199 | Courtney Lacerte |
-| 676 | 198 | Shiny Twistpiece |
-| 677 | 198 | Bubbly Setter |
-| 678 | 198 | Zocko Ellet |
-| 679 | 198 | Christina O'Dell-Ishau |
-| 680 | 198 | Earnest Thompson |
+| 674 | 199 | Patrick Cookson |
+| 675 | 199 | Allen Johnson |
+| 676 | 199 | Courtney Lacerte |
+| 677 | 198 | Shiny Twistpiece |
+| 678 | 198 | Bubbly Setter |
+| 679 | 198 | Zocko Ellet |
+| 680 | 198 | Christina O'Dell-Ishau |
 | 681 | 198 | Ahleek Mitchell |
-| 682 | 197 | Lynn Marie |
-| 683 | 197 | Josh Chapell |
-| 684 | 197 | Colton Stamper |
-| 685 | 196 | Speedy Swipe |
-| 686 | 196 | Patrick Cookson |
+| 682 | 198 | Earnest Thompson |
+| 683 | 197 | Lynn Marie |
+| 684 | 197 | Josh Chapell |
+| 685 | 197 | Colton Stamper |
+| 686 | 196 | Speedy Swipe |
 | 687 | 196 | Hanh Pham |
-| 688 | 195 | Tianna Frey |
-| 689 | 195 | Tabi Williams |
+| 688 | 195 | Tabi Williams |
+| 689 | 195 | Tianna Frey |
 | 690 | 195 | Jobadia Steelerton |
 | 691 | 195 | Shant |
 | 692 | 194 | Zany Twisterfit |
