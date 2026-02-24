@@ -647,8 +647,8 @@
 | 639 | 716 | Cc |
 | 640 | 715 | Julio A Laracuente |
 | 641 | 715 | Brenna Ann |
-| 642 | 715 | Nutty Splitter |
-| 643 | 715 | Daniell Martinez |
+| 642 | 715 | Daniell Martinez |
+| 643 | 715 | Nutty Splitter |
 | 644 | 714 | Irene Jones |
 | 645 | 714 | Snazzy Basepiece |
 | 646 | 714 | Frilly Fallzone |

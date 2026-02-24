@@ -76,8 +76,8 @@
 | 68 | 1001 | Amber Stoker |
 | 69 | 987 | TSwag |
 | 70 | 980 | Veronica Eve |
-| 71 | 966 | Shalene Frederick Autrey |
-| 72 | 966 | Francesca Gee |
+| 71 | 966 | Francesca Gee |
+| 72 | 966 | Shalene Frederick Autrey |
 | 73 | 961 | Jacqueline Williams |
 | 74 | 957 | Zippy Align |
 | 75 | 948 | Hasbro Bros |
@@ -155,9 +155,9 @@
 | 147 | 546 | Loony Fitzone |
 | 148 | 545 | Oscar Zamora |
 | 149 | 544 | Trina Gee |
-| 150 | 543 | Death |
-| 151 | 543 | Adrian Esteban |
-| 152 | 543 | Tipsy Riseclear |
+| 150 | 543 | Adrian Esteban |
+| 151 | 543 | Tipsy Riseclear |
+| 152 | 543 | Death |
 | 153 | 540 | Tonya Beasley |
 | 154 | 537 | Stephanie Zahn |
 | 155 | 531 | Plucky Ziggy |
@@ -169,8 +169,8 @@
 | 161 | 522 | Constance Risner |
 | 162 | 519 | Anaid Sanchez |
 | 163 | 513 | Colena Davenport |
-| 164 | 511 | MomMom |
-| 165 | 511 | phrmblk24 |
+| 164 | 511 | phrmblk24 |
+| 165 | 511 | MomMom |
 | 166 | 510 | Rat666 |
 | 167 | 509 | Dandy Basegrid |
 | 168 | 508 | Arianna O'Brien |
@@ -327,8 +327,8 @@
 | 319 | 317 | Bloknboy |
 | 320 | 316 | Giggly Builderline |
 | 321 | 314 | Amh |
-| 322 | 312 | Glitzy Curvebuilder |
-| 323 | 312 | Diane Byrd |
+| 322 | 312 | Diane Byrd |
+| 323 | 312 | Glitzy Curvebuilder |
 | 324 | 311 | Nathan Sealander |
 | 325 | 310 | Chase Collinsworth |
 | 326 | 308 | LD1 |

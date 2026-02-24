@@ -157,8 +157,8 @@
 | 149 | 875 | Chasity |
 | 150 | 874 | Jessica Pineda-Lopez |
 | 151 | 873 | BadManSheLove |
-| 152 | 868 | Felicia Rocha |
-| 153 | 868 | Cranky Gridder |
+| 152 | 868 | Cranky Gridder |
+| 153 | 868 | Felicia Rocha |
 | 154 | 868 | Nicole Flippo |
 | 155 | 864 | Sunny Rotater |
 | 156 | 862 | Santeria Trece Candles |
@@ -503,8 +503,8 @@
 | 495 | 315 | Clever Edgepiece |
 | 496 | 314 | Bleu Sun Beams |
 | 497 | 313 | Joseph Vargas |
-| 498 | 313 | Dakota Graham |
-| 499 | 313 | Tracey Cox |
+| 498 | 313 | Tracey Cox |
+| 499 | 313 | Dakota Graham |
 | 500 | 312 | Carol Cain Thurman |
 | 501 | 311 | Aponk |
 | 502 | 311 | Irene Arreguin |

@@ -118,8 +118,8 @@
 | 110 | 725 | Diana Houts |
 | 111 | 724 | Destiney Carter |
 | 112 | 723 | Chris Alexinas |
-| 113 | 719 | Sam Bishop |
-| 114 | 719 | Jamie Mann-Deichmann |
+| 113 | 719 | Jamie Mann-Deichmann |
+| 114 | 719 | Sam Bishop |
 | 115 | 716 | Savannah Overdorf |
 | 116 | 702 | Amy Suckarieh |
 | 117 | 701 | SAP |
@@ -263,9 +263,9 @@
 | 255 | 380 | shark tato |
 | 256 | 380 | Rio Rocha |
 | 257 | 379 | Backoff Recupe |
-| 258 | 378 | Holly Jolly |
-| 259 | 378 | Mary Ann Pabukis |
-| 260 | 378 | Googenheim |
+| 258 | 378 | Mary Ann Pabukis |
+| 259 | 378 | Googenheim |
+| 260 | 378 | Holly Jolly |
 | 261 | 376 | Nig |
 | 262 | 372 | Aden Moss |
 | 263 | 371 | Joeliecea Cobb |
