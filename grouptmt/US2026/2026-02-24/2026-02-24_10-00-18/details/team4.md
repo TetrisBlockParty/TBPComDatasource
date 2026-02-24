@@ -108,8 +108,8 @@
 | 100 | 846 | Christine Marie |
 | 101 | 840 | SAP |
 | 102 | 837 | Rica Mitchell |
-| 103 | 834 | quicksand420 |
-| 104 | 834 | Brittney Orengo |
+| 103 | 834 | Brittney Orengo |
+| 104 | 834 | quicksand420 |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
 | 107 | 813 | Klo |
@@ -143,8 +143,8 @@
 | 135 | 687 | Carmethia Clemons Haslerig |
 | 136 | 682 | Raegan Lane-Ross |
 | 137 | 668 | Desi Desporte |
-| 138 | 667 | Swanky Fitline |
-| 139 | 667 | Lindsey Gonzalez |
+| 138 | 667 | Lindsey Gonzalez |
+| 139 | 667 | Swanky Fitline |
 | 140 | 667 | Matt Gooder |
 | 141 | 662 | Nerdy Twisterfit |
 | 142 | 661 | shar |
@@ -157,8 +157,8 @@
 | 149 | 638 | Porkobello |
 | 150 | 635 | Kim Hunt |
 | 151 | 634 | Carrie Brian |
-| 152 | 633 | Jessica Lynn Cutlip |
-| 153 | 633 | Adam Stephanie Parker |
+| 152 | 633 | Adam Stephanie Parker |
+| 153 | 633 | Jessica Lynn Cutlip |
 | 154 | 629 | Chris Baggett |
 | 155 | 623 | ku5hkween |
 | 156 | 622 | Ernest Maxwell |
@@ -184,8 +184,8 @@
 | 176 | 561 | Steph Marie |
 | 177 | 560 | Chastity Mitchell |
 | 178 | 558 | Marie-Pier Desjardins |
-| 179 | 552 | Angel Raya |
-| 180 | 552 | Circuit8 |
+| 179 | 552 | Circuit8 |
+| 180 | 552 | Angel Raya |
 | 181 | 550 | James Hurley Jr. |
 | 182 | 549 | Cool Towerbuilder |
 | 183 | 546 | Dizzy Tiley |
@@ -247,8 +247,8 @@
 | 239 | 454 | David Lay |
 | 240 | 450 | Genne Scott |
 | 241 | 449 | Danielle Kollias |
-| 242 | 448 | Mr. Party |
-| 243 | 448 | Mike Solo |
+| 242 | 448 | Mike Solo |
+| 243 | 448 | Mr. Party |
 | 244 | 447 | Jen Mattei |
 | 245 | 446 | Damn Libra |
 | 246 | 444 | Selena Shaw |
@@ -279,8 +279,8 @@
 | 271 | 407 | Rafael Valentin |
 | 272 | 407 | Hyper Builder |
 | 273 | 402 | Nita Wells |
-| 274 | 399 | Twisty Cascadezone |
-| 275 | 399 | Brittany Little |
+| 274 | 399 | Brittany Little |
+| 275 | 399 | Twisty Cascadezone |
 | 276 | 398 | Tyler Terrific |
 | 277 | 397 | blockstar |
 | 278 | 395 | Lee Silpe |

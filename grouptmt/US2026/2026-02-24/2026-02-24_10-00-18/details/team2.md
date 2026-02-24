@@ -282,8 +282,8 @@
 | 274 | 1480 | Dimitra Zazara |
 | 275 | 1479 | Pacynthia Williams |
 | 276 | 1478 | Misty Walker |
-| 277 | 1477 | Hillary Crawford |
-| 278 | 1477 | Prado |
+| 277 | 1477 | Prado |
+| 278 | 1477 | Hillary Crawford |
 | 279 | 1469 | Carrie Trigg |
 | 280 | 1463 | Yvonne Wharton |
 | 281 | 1459 | Shiny Rollzone |
@@ -448,8 +448,8 @@
 | 440 | 1075 | SaraMarie Eveland |
 | 441 | 1074 | Diana Ayers |
 | 442 | 1073 | Jodi Blake |
-| 443 | 1071 | Nashu |
-| 444 | 1071 | Kim Dean |
+| 443 | 1071 | Kim Dean |
+| 444 | 1071 | Nashu |
 | 445 | 1068 | Tiffany Branham |
 | 446 | 1067 | Taylor Phillips |
 | 447 | 1067 | Lourisha |
@@ -548,8 +548,8 @@
 | 540 | 923 | Danielle Simmons |
 | 541 | 923 | Chevy |
 | 542 | 922 | Butta |
-| 543 | 921 | Elisheva Mizrachi |
-| 544 | 921 | Dannette Goldberg-Richards |
+| 543 | 921 | Dannette Goldberg-Richards |
+| 544 | 921 | Elisheva Mizrachi |
 | 545 | 920 | Arwa Fatimah |
 | 546 | 920 | Brenda Utphall |
 | 547 | 919 | Isaac Trappiel IV |
@@ -606,8 +606,8 @@
 | 598 | 850 | Sabrina Burton |
 | 599 | 849 | Jasmine Kenney |
 | 600 | 848 | Happy Wipeblock |
-| 601 | 847 | Rhonda Milstead |
-| 602 | 847 | Megan Kitchner |
+| 601 | 847 | Megan Kitchner |
+| 602 | 847 | Rhonda Milstead |
 | 603 | 844 | Diana Fitzwater |
 | 604 | 844 | Terri McKelvey McKinley |
 | 605 | 843 | Quirky Twistline |
@@ -819,8 +819,8 @@
 | 811 | 681 | Latasha Love |
 | 812 | 680 | mshir |
 | 813 | 680 | Nutty Cascade |
-| 814 | 680 | Paul Combs |
-| 815 | 680 | Stephanie Lafalce |
+| 814 | 680 | Stephanie Lafalce |
+| 815 | 680 | Paul Combs |
 | 816 | 679 | Cynthia Louann Rose |
 | 817 | 679 | Regina Knight |
 | 818 | 679 | Kassandra Hunt |
@@ -938,8 +938,8 @@
 | 930 | 619 | Dawn Woosley Bowes |
 | 931 | 618 | Jordan Kaiser |
 | 932 | 617 | Annette Ross Clay |
-| 933 | 617 | Biggest thing |
-| 934 | 617 | Jason H Baker |
+| 933 | 617 | Jason H Baker |
+| 934 | 617 | Biggest thing |
 | 935 | 616 | Carol Hurley |
 | 936 | 615 | King Shamell Young |
 | 937 | 614 | Dandy Combo |
@@ -981,8 +981,8 @@
 | 973 | 598 | Cosmo |
 | 974 | 597 | Mercedez Hubbard |
 | 975 | 595 | Crystal Hodge Love |
-| 976 | 595 | ElizabethAnn Dickinson |
-| 977 | 595 | Jessica Sutter |
+| 976 | 595 | Jessica Sutter |
+| 977 | 595 | ElizabethAnn Dickinson |
 | 978 | 595 | Sara Pennington |
 | 979 | 593 | Esther Hsu |
 | 980 | 593 | Keila Adames |
@@ -1067,8 +1067,8 @@
 | 1059 | 558 | Byung Bae Park |
 | 1060 | 557 | Marina Linda |
 | 1061 | 557 | Bridgette Sargent |
-| 1062 | 557 | Vivian De Souza |
-| 1063 | 557 | Jason Garnatz |
+| 1062 | 557 | Jason Garnatz |
+| 1063 | 557 | Vivian De Souza |
 | 1064 | 556 | Kamilya Rembert |
 | 1065 | 555 | Noel Tarmy |
 | 1066 | 555 | Amy Roche |
@@ -1161,19 +1161,19 @@
 | 1153 | 520 | kcakes |
 | 1154 | 519 | Rob Brown |
 | 1155 | 519 | Ashley Robbins |
-| 1156 | 519 | Abby Jensen |
-| 1157 | 519 | gNiK |
+| 1156 | 519 | gNiK |
+| 1157 | 519 | Abby Jensen |
 | 1158 | 519 | Bing |
 | 1159 | 518 | Darlene Bowman |
-| 1160 | 517 | Meganator42 |
-| 1161 | 517 | Rebecca Edmund |
-| 1162 | 515 | Brave Gridpiece |
-| 1163 | 515 | Chill Strike |
+| 1160 | 517 | Rebecca Edmund |
+| 1161 | 517 | Meganator42 |
+| 1162 | 515 | Chill Strike |
+| 1163 | 515 | Brave Gridpiece |
 | 1164 | 515 | Ashlyn Berner |
 | 1165 | 515 | Madysen Holt |
-| 1166 | 515 | Erin Reid |
-| 1167 | 515 | Miracle |
-| 1168 | 515 | Poppy |
+| 1166 | 515 | Poppy |
+| 1167 | 515 | Erin Reid |
+| 1168 | 515 | Miracle |
 | 1169 | 514 | Melanie Csikortos |
 | 1170 | 513 | MrsCandyfine As Wine Truss |
 | 1171 | 513 | Stefanie Zonzini-Gagliardi |
@@ -1209,13 +1209,13 @@
 | 1201 | 498 | Epic Stackzone |
 | 1202 | 498 | Rolie Garcia |
 | 1203 | 498 | Drwatson187 |
-| 1204 | 497 | Mary Marie |
-| 1205 | 497 | June E Hanson |
+| 1204 | 497 | June E Hanson |
+| 1205 | 497 | Mary Marie |
 | 1206 | 497 | Stephanie Pitts |
 | 1207 | 497 | Bdubb |
 | 1208 | 496 | BlaqSupaMan |
-| 1209 | 496 | Lynda Toland |
-| 1210 | 496 | Ashlee Cruz |
+| 1209 | 496 | Ashlee Cruz |
+| 1210 | 496 | Lynda Toland |
 | 1211 | 495 | Dean Glenn |
 | 1212 | 495 | Cranky Tower |
 | 1213 | 495 | Ania |

@@ -191,8 +191,8 @@
 | 183 | 842 | Alexmac |
 | 184 | 829 | Patricia White |
 | 185 | 825 | Lizabeth Fox |
-| 186 | 821 | Kammy Hill |
-| 187 | 821 | Angella Lyons |
+| 186 | 821 | Angella Lyons |
+| 187 | 821 | Kammy Hill |
 | 188 | 817 | Niki Dalrymple |
 | 189 | 815 | Justin Ritter |
 | 190 | 813 | JessDrown |
@@ -324,8 +324,8 @@
 | 316 | 523 | Ktfreeee |
 | 317 | 518 | Marquita Sheard |
 | 318 | 514 | Nikki White |
-| 319 | 506 | Ammmmmmy |
-| 320 | 506 | Tiffanie Alley |
+| 319 | 506 | Tiffanie Alley |
+| 320 | 506 | Ammmmmmy |
 | 321 | 505 | Stephanie Simpson |
 | 322 | 504 | Daring Builder |
 | 323 | 500 | Ashley Tookes |
@@ -339,8 +339,8 @@
 | 331 | 490 | TotoCherue |
 | 332 | 489 | Isabel Ocasio |
 | 333 | 487 | MsBee |
-| 334 | 486 | Skippy |
-| 335 | 486 | Sleepy |
+| 334 | 486 | Sleepy |
+| 335 | 486 | Skippy |
 | 336 | 483 | Tegan Chapman |
 | 337 | 482 | Chummy Rumbler |
 | 338 | 480 | Dee Franklin |
@@ -442,8 +442,8 @@
 | 434 | 382 | Amanda Martinez |
 | 435 | 382 | Theresa Opell Gartner |
 | 436 | 381 | Mary Giorgenti |
-| 437 | 380 | neci |
-| 438 | 380 | Foltz Lee Kelli |
+| 437 | 380 | Foltz Lee Kelli |
+| 438 | 380 | neci |
 | 439 | 379 | Krish Shah |
 | 440 | 378 | Ashley Lynn Marchese |
 | 441 | 378 | Samantha Worley |
@@ -576,8 +576,8 @@
 | 568 | 317 | David Sims |
 | 569 | 317 | Jack Bo |
 | 570 | 317 | Sassy Tiler |
-| 571 | 316 | Tia Moore |
-| 572 | 316 | Aponk |
+| 571 | 316 | Aponk |
+| 572 | 316 | Tia Moore |
 | 573 | 315 | Amy Montz |
 | 574 | 314 | Rachel Napper |
 | 575 | 314 | Cranky Corner |
