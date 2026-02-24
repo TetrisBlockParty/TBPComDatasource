@@ -159,8 +159,8 @@
 | 151 | 950 | Giddy Drop |
 | 152 | 950 | MissTaylor |
 | 153 | 947 | Kellie Montgomery |
-| 154 | 940 | Patty Allen |
-| 155 | 940 | Stephanie Allmon |
+| 154 | 940 | Stephanie Allmon |
+| 155 | 940 | Patty Allen |
 | 156 | 936 | Dolores Falco |
 | 157 | 925 | Cherry Parker |
 | 158 | 914 | BadManSheLove |
@@ -183,21 +183,21 @@
 | 175 | 857 | Dana Fox |
 | 176 | 856 | Dana Winters |
 | 177 | 854 | Speedy Bridger |
-| 178 | 847 | Daring Brickzone |
-| 179 | 847 | Daira Largen |
+| 178 | 847 | Daira Largen |
+| 179 | 847 | Daring Brickzone |
 | 180 | 846 | Nicole Myers |
 | 181 | 845 | Edwin Calvillo Jr. |
 | 182 | 832 | Alexmac |
 | 183 | 829 | Patricia White |
 | 184 | 825 | Lizabeth Fox |
-| 185 | 821 | Angella Lyons |
-| 186 | 821 | Kammy Hill |
+| 185 | 821 | Kammy Hill |
+| 186 | 821 | Angella Lyons |
 | 187 | 817 | Niki Dalrymple |
 | 188 | 815 | Justin Ritter |
 | 189 | 813 | JessDrown |
 | 190 | 808 | Raya |
-| 191 | 804 | Gideon Walker |
-| 192 | 804 | Alaina Lee |
+| 191 | 804 | Alaina Lee |
+| 192 | 804 | Gideon Walker |
 | 193 | 800 | Lauren Girouard |
 | 194 | 799 | Trisha Balmer |
 | 195 | 792 | Rachel Grant |
@@ -380,9 +380,9 @@
 | 372 | 436 | AC Yeater |
 | 373 | 435 | Sabrina Hardrick |
 | 374 | 434 | Criss |
-| 375 | 432 | Hoppy Patternline |
+| 375 | 432 | Sabrina Mansfield |
 | 376 | 432 | Justice 4 P |
-| 377 | 432 | Sabrina Mansfield |
+| 377 | 432 | Hoppy Patternline |
 | 378 | 431 | Goofy Fall |
 | 379 | 431 | Donna Esbensen-Alpini |
 | 380 | 430 | Quackers |

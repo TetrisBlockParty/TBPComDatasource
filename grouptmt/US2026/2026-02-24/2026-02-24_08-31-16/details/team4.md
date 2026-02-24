@@ -100,8 +100,8 @@
 | 92 | 878 | Lucille Truesdale |
 | 93 | 873 | Courtney Cicoria |
 | 94 | 869 | Judy Cox |
-| 95 | 864 | Guy Incognito |
-| 96 | 864 | Samantha Peterson |
+| 95 | 864 | Samantha Peterson |
+| 96 | 864 | Guy Incognito |
 | 97 | 854 | Shauna Havard |
 | 98 | 851 | Jason Hart |
 | 99 | 846 | Christine Marie |
@@ -316,8 +316,8 @@
 | 308 | 354 | @ |
 | 309 | 354 | Perky Piecegrid |
 | 310 | 352 | Kate |
-| 311 | 351 | Dana Scott |
-| 312 | 351 | Jackie Clark |
+| 311 | 351 | Jackie Clark |
+| 312 | 351 | Dana Scott |
 | 313 | 350 | Dizzy Matchzone |
 | 314 | 349 | jim |
 | 315 | 349 | Richard-April Kice |
@@ -388,8 +388,8 @@
 | 380 | 300 | Carter Jones |
 | 381 | 299 | Michael Snow |
 | 382 | 298 | Val Erie |
-| 383 | 297 | Brittany Marsh |
-| 384 | 297 | Allison Rose |
+| 383 | 297 | Allison Rose |
+| 384 | 297 | Brittany Marsh |
 | 385 | 296 | Dapper Frame |
 | 386 | 295 | Deb Rubeck |
 | 387 | 294 | Kevin Bush |

@@ -66,8 +66,8 @@
 | 58 | 1173 | Adam Byrd |
 | 59 | 1170 | Tater |
 | 60 | 1150 | Cynthia Bradley |
-| 61 | 1137 | Jen Sartain |
-| 62 | 1137 | TSwag |
+| 61 | 1137 | TSwag |
+| 62 | 1137 | Jen Sartain |
 | 63 | 1127 | Andrea Dañielle Ortiz |
 | 64 | 1122 | Kristen Gideon |
 | 65 | 1114 | Jayme Sellers |
@@ -87,8 +87,8 @@
 | 79 | 994 | Lori Sanders- Davis |
 | 80 | 973 | Francesca Gee |
 | 81 | 961 | Jacqueline Williams |
-| 82 | 957 | Zippy Align |
-| 83 | 957 | Erin Hodges Plumb |
+| 82 | 957 | Erin Hodges Plumb |
+| 83 | 957 | Zippy Align |
 | 84 | 944 | Sweet Baker |
 | 85 | 925 | Phu ckalldems |
 | 86 | 920 | Tee Sheree |
@@ -121,8 +121,8 @@
 | 113 | 725 | Debbie Kane |
 | 114 | 719 | Bindi |
 | 115 | 716 | Kristi Johnson |
-| 116 | 706 | Plucky Fallzone |
-| 117 | 706 | Denice Dee |
+| 116 | 706 | Denice Dee |
+| 117 | 706 | Plucky Fallzone |
 | 118 | 702 | lil mickey |
 | 119 | 699 | cc |
 | 120 | 696 | Carrie Smith |
@@ -248,8 +248,8 @@
 | 240 | 421 | Plucky Stacky |
 | 241 | 421 | Letson Melissa |
 | 242 | 420 | Jennifer Noe Chandler |
-| 243 | 419 | Daring Fitclear |
-| 244 | 419 | John J. Cronin |
+| 243 | 419 | John J. Cronin |
+| 244 | 419 | Daring Fitclear |
 | 245 | 416 | Larissa Marie Nelson |
 | 246 | 416 | Jessica Sheehan |
 | 247 | 414 | Bird Person |
@@ -268,8 +268,8 @@
 | 260 | 396 | Sam Williams |
 | 261 | 394 | Nick R Montague |
 | 262 | 393 | Wisa |
-| 263 | 392 | Poppy Riserpiece |
-| 264 | 392 | Renee Tucker |
+| 263 | 392 | Renee Tucker |
+| 264 | 392 | Poppy Riserpiece |
 | 265 | 391 | Happy Basegrid |
 | 266 | 390 | David Lutcher |
 | 267 | 388 | Test |
@@ -286,9 +286,9 @@
 | 278 | 377 | Rayline M Bradshaw |
 | 279 | 377 | DoodleBug |
 | 280 | 376 | Sassy Builderline |
-| 281 | 376 | Brian Richardsson |
-| 282 | 376 | Billie Ann Eason |
-| 283 | 376 | Chantelle Ceno |
+| 281 | 376 | Chantelle Ceno |
+| 282 | 376 | Brian Richardsson |
+| 283 | 376 | Billie Ann Eason |
 | 284 | 375 | DaRascal |
 | 285 | 374 | Snappy Brickbuilder |
 | 286 | 373 | Frothy Pattern |
