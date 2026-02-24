@@ -51,8 +51,8 @@
 | 43 | 1497 | Juggalo |
 | 44 | 1478 | Sammy Noguera |
 | 45 | 1469 | Kimberly Love |
-| 46 | 1461 | Yoset Mejia |
-| 47 | 1461 | Shane Kalamata Platoon |
+| 46 | 1461 | Shane Kalamata Platoon |
+| 47 | 1461 | Yoset Mejia |
 | 48 | 1456 | Michelle Marie |
 | 49 | 1430 | Landon Keith Graffeo |
 | 50 | 1386 | Jen Allison |
@@ -74,8 +74,8 @@
 | 66 | 1109 | BertMofo |
 | 67 | 1100 | Julian Garcia |
 | 68 | 1089 | Alyssa Papen |
-| 69 | 1082 | Dion Crommarty |
-| 70 | 1082 | Avy Absol |
+| 69 | 1082 | Avy Absol |
+| 70 | 1082 | Dion Crommarty |
 | 71 | 1081 | Dustee Craddock-Harrison |
 | 72 | 1080 | Chilly Line |
 | 73 | 1069 | Heather Tushner |
@@ -112,13 +112,13 @@
 | 104 | 834 | quicksand420 |
 | 105 | 818 | Lori Walker |
 | 106 | 815 | Diana Houts |
-| 107 | 813 | Amy Suckarieh |
-| 108 | 813 | Klo |
+| 107 | 813 | Klo |
+| 108 | 813 | Amy Suckarieh |
 | 109 | 811 | Sassy Pattern |
 | 110 | 806 | Zippy Gridlock |
 | 111 | 805 | Mylo Lipscomb |
-| 112 | 802 | Denise Carlson |
-| 113 | 802 | Crystal Carroll |
+| 112 | 802 | Crystal Carroll |
+| 113 | 802 | Denise Carlson |
 | 114 | 801 | D3TROITB0RN74 |
 | 115 | 798 | Jewell Urban |
 | 116 | 784 | TheNeesh50 |
@@ -148,8 +148,8 @@
 | 140 | 667 | Lindsey Gonzalez |
 | 141 | 667 | Matt Gooder |
 | 142 | 662 | Nerdy Twisterfit |
-| 143 | 661 | shar |
-| 144 | 661 | Rodney McMath Jr. |
+| 143 | 661 | Rodney McMath Jr. |
+| 144 | 661 | shar |
 | 145 | 651 | Adawna Swires |
 | 146 | 650 | Chris Hartig |
 | 147 | 647 | KM8 |
@@ -157,8 +157,8 @@
 | 149 | 638 | Porkobello |
 | 150 | 635 | Kim Hunt |
 | 151 | 634 | Carrie Brian |
-| 152 | 633 | Jessica Lynn Cutlip |
-| 153 | 633 | Adam Stephanie Parker |
+| 152 | 633 | Adam Stephanie Parker |
+| 153 | 633 | Jessica Lynn Cutlip |
 | 154 | 629 | Chris Baggett |
 | 155 | 623 | ku5hkween |
 | 156 | 622 | Ernest Maxwell |
@@ -197,8 +197,8 @@
 | 189 | 535 | Berklie Apedaile |
 | 190 | 534 | Lucas J Sutton |
 | 191 | 532 | Carly Alexis |
-| 192 | 532 | Matt Summer |
-| 193 | 532 | Alan George LaRage |
+| 192 | 532 | Alan George LaRage |
+| 193 | 532 | Matt Summer |
 | 194 | 528 | Erin Sabol |
 | 195 | 525 | Crystal Lynn |
 | 196 | 525 | 🥔🥔 Spudz |
@@ -249,8 +249,8 @@
 | 241 | 454 | Keshia Lyons |
 | 242 | 450 | Genne Scott |
 | 243 | 449 | Danielle Kollias |
-| 244 | 448 | Mr. Party |
-| 245 | 448 | Mike Solo |
+| 244 | 448 | Mike Solo |
+| 245 | 448 | Mr. Party |
 | 246 | 447 | Jen Mattei |
 | 247 | 444 | Selena Shaw |
 | 248 | 442 | John Brunetti |
@@ -287,8 +287,8 @@
 | 279 | 399 | Brittany Little |
 | 280 | 398 | Tyler Terrific |
 | 281 | 397 | blockstar |
-| 282 | 395 | BigSammy420 |
-| 283 | 395 | Denise B |
+| 282 | 395 | Denise B |
+| 283 | 395 | BigSammy420 |
 | 284 | 394 | Nikki Rae Gordon |
 | 285 | 393 | Montiette Mcglown |
 | 286 | 392 | Neirrah B Olailjeel |
@@ -384,13 +384,13 @@
 | 376 | 314 | KoolMom9907 |
 | 377 | 314 | Kenna Gunderland |
 | 378 | 312 | Tawna Curry |
-| 379 | 311 | Reds Bella |
-| 380 | 311 | KayM |
+| 379 | 311 | KayM |
+| 380 | 311 | Reds Bella |
 | 381 | 308 | Angela Geist Jusinski |
 | 382 | 307 | Eri Kka |
 | 383 | 306 | PeaceOs |
-| 384 | 304 | Sarah Neathery |
-| 385 | 304 | Kevin Blevins |
+| 384 | 304 | Kevin Blevins |
+| 385 | 304 | Sarah Neathery |
 | 386 | 302 | Koral Hanke |
 | 387 | 302 | Jenna McGeorge |
 | 388 | 300 | Carter Jones |
