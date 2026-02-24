@@ -242,8 +242,8 @@
 | 234 | 574 | Trisha Balmer |
 | 235 | 572 | Tessina Dewey-Mancino |
 | 236 | 572 | Duane Bright |
-| 237 | 569 | Silly Twist |
-| 238 | 569 | Michael Johnson |
+| 237 | 569 | Michael Johnson |
+| 238 | 569 | Silly Twist |
 | 239 | 568 | Rachael McClain Owens |
 | 240 | 566 | LaTanya GeminiondaRise Johnson |
 | 241 | 564 | Poppy Splitter |
@@ -633,9 +633,9 @@
 | 625 | 252 | Crafty Tilemaker |
 | 626 | 252 | Josh Borquez |
 | 627 | 251 | Jennifer Neiman Gaal |
-| 628 | 251 | Doddie Marie |
-| 629 | 251 | Dizzy Risepiece |
-| 630 | 251 | Colleen Phelps |
+| 628 | 251 | Colleen Phelps |
+| 629 | 251 | Doddie Marie |
+| 630 | 251 | Dizzy Risepiece |
 | 631 | 250 | Marcus Payton |
 | 632 | 250 | Ashley Parham |
 | 633 | 249 | Emberblaze |

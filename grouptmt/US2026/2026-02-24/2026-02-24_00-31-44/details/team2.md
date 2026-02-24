@@ -235,8 +235,8 @@
 | 227 | 1534 | Rosa Franklin |
 | 228 | 1530 | Mischelle Clay |
 | 229 | 1525 | Catina Hutchison |
-| 230 | 1509 | Whitney Nicole Waterman |
-| 231 | 1509 | Stacey Clement |
+| 230 | 1509 | Stacey Clement |
+| 231 | 1509 | Whitney Nicole Waterman |
 | 232 | 1507 | Kiok |
 | 233 | 1502 | Sinistah42o |
 | 234 | 1498 | Isabela Shaw |

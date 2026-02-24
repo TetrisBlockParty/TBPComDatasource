@@ -124,8 +124,8 @@
 | 116 | 687 | Chris Alexinas |
 | 117 | 682 | Raegan Lane-Ross |
 | 118 | 673 | Jacqueline Helm |
-| 119 | 667 | Lindsey Gonzalez |
-| 120 | 667 | Amy Suckarieh |
+| 119 | 667 | Amy Suckarieh |
+| 120 | 667 | Lindsey Gonzalez |
 | 121 | 664 | Leslie Nicole |
 | 122 | 659 | Matt Gooder |
 | 123 | 659 | Jamie Gustafson |
@@ -333,11 +333,11 @@
 | 325 | 295 | Cool Gridzone |
 | 326 | 294 | BootsMcGee |
 | 327 | 293 | BigSammy420 |
-| 328 | 292 | Epic Curvetile |
-| 329 | 292 | Tracey Lehmann |
-| 330 | 292 | Angel Raya |
-| 331 | 291 | Hyper Matchclear |
-| 332 | 291 | Brittany Marsh |
+| 328 | 292 | Angel Raya |
+| 329 | 292 | Epic Curvetile |
+| 330 | 292 | Tracey Lehmann |
+| 331 | 291 | Brittany Marsh |
+| 332 | 291 | Hyper Matchclear |
 | 333 | 291 | Brittney Orengo |
 | 334 | 290 | Neirrah B Olailjeel |
 | 335 | 290 | Jared Gutwein |
