@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-24 19:38:44 UTC
+# Standings for team1 as of 2026-02-24 19:39:20 UTC
 
 **Total Participants:** 2307
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 10497 | TAZ-MF-NIZIL |
 | 2 | 8424 | Felicia Haynes |
-| 3 | 7708 | Zerin Graham |
+| 3 | 7713 | Zerin Graham |
 | 4 | 7160 | Izzie Ramirez-Ford |
 | 5 | 6404 | 'Gilberto Martinez' |
 | 6 | 6100 | Matt |
@@ -72,8 +72,8 @@
 | 64 | 1232 | TSwag |
 | 65 | 1225 | Kristen Roles Robben |
 | 66 | 1214 | Amy Griffith |
-| 67 | 1198 | Tipsy Column |
-| 68 | 1193 | Adrian Esteban |
+| 67 | 1208 | Adrian Esteban |
+| 68 | 1198 | Tipsy Column |
 | 69 | 1191 | Nerdy Linkblock |
 | 70 | 1180 | Shalene Frederick Autrey |
 | 71 | 1174 | And |
@@ -223,8 +223,8 @@
 | 215 | 511 | Daring Fitclear |
 | 216 | 502 | Reesey Enyart |
 | 217 | 497 | Chaste Minor |
-| 218 | 496 | Tamara Brown |
-| 219 | 496 | Candy Jones |
+| 218 | 496 | Candy Jones |
+| 219 | 496 | Tamara Brown |
 | 220 | 495 | Connie |
 | 221 | 492 | Happy Snapbuild |
 | 222 | 490 | Hasty Cascader |
@@ -250,32 +250,32 @@
 | 242 | 459 | Jennifer Noe Chandler |
 | 243 | 458 | Angela Renea Lester |
 | 244 | 458 | Goose egg |
-| 245 | 453 | Kimmie Kimms |
-| 246 | 453 | Chantelle Ceno |
-| 247 | 453 | Richard Corrado |
+| 245 | 453 | Chantelle Ceno |
+| 246 | 453 | Richard Corrado |
+| 247 | 453 | Kimmie Kimms |
 | 248 | 453 | Billie Ann Eason |
 | 249 | 452 | Avelyn Calamba |
 | 250 | 450 | Monica Donato |
 | 251 | 448 | Jamie Jury |
-| 252 | 446 | Spencer Lent |
-| 253 | 446 | Letson Melissa |
+| 252 | 446 | Letson Melissa |
+| 253 | 446 | Spencer Lent |
 | 254 | 444 | Lakeisha Chapman |
 | 255 | 441 | Shiny Snapfit |
 | 256 | 441 | Chris Sigurdson |
 | 257 | 439 | Cece Ibarra |
 | 258 | 438 | Wayne Saunders |
-| 259 | 438 | GATOR |
-| 260 | 438 | Rayline M Bradshaw |
-| 261 | 436 | Sylvia Vasquez |
-| 262 | 436 | build master |
+| 259 | 438 | Rayline M Bradshaw |
+| 260 | 438 | GATOR |
+| 261 | 436 | build master |
+| 262 | 436 | Sylvia Vasquez |
 | 263 | 435 | Irv |
 | 264 | 432 | Emily Adelaide Wheatley |
-| 265 | 431 | MommaKFC |
+| 265 | 431 | Jen Nystrom |
 | 266 | 431 | Tipsy Strikerpiece |
-| 267 | 430 | Alenoush Karimian |
-| 268 | 429 | Standia Civil |
+| 267 | 431 | MommaKFC |
+| 268 | 430 | Alenoush Karimian |
 | 269 | 429 | Ananda Mendez |
-| 270 | 429 | Jen Nystrom |
+| 270 | 429 | Standia Civil |
 | 271 | 429 | Sarah Roberts |
 | 272 | 429 | pjbeta |
 | 273 | 428 | Tami Luce Martin |
@@ -436,8 +436,8 @@
 | 428 | 312 | Randy Broadwater |
 | 429 | 312 | Nicole Meredith Flynn |
 | 430 | 311 | Allena Craft |
-| 431 | 311 | John Ramirez |
-| 432 | 310 | Shan Rock |
+| 431 | 311 | Shan Rock |
+| 432 | 311 | John Ramirez |
 | 433 | 309 | Nate Funk |
 | 434 | 309 | Isaiah |
 | 435 | 309 | Norma Paredez |
