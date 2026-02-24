@@ -94,8 +94,8 @@
 | 86 | 850 | Lisa Davis |
 | 87 | 850 | Lucille Truesdale |
 | 88 | 846 | Christine Marie |
-| 89 | 841 | Judy Cox |
-| 90 | 841 | Shauna Havard |
+| 89 | 841 | Shauna Havard |
+| 90 | 841 | Judy Cox |
 | 91 | 840 | Chaz Duncan |
 | 92 | 834 | quicksand420 |
 | 93 | 826 | Rica Mitchell |
@@ -144,8 +144,8 @@
 | 136 | 633 | Jessica Lynn Cutlip |
 | 137 | 620 | Porkobello |
 | 138 | 616 | Samantha Peterson |
-| 139 | 615 | Kim Hunt |
-| 140 | 615 | Ernest Maxwell |
+| 139 | 615 | Ernest Maxwell |
+| 140 | 615 | Kim Hunt |
 | 141 | 611 | Chris Baggett |
 | 142 | 602 | Cristy Duerksen |
 | 143 | 600 | Carrie Brian |
@@ -177,10 +177,10 @@
 | 169 | 525 | Lucas J Sutton |
 | 170 | 522 | Carly Alexis |
 | 171 | 521 | Andy Cabral |
-| 172 | 520 | Oscar Alberto Perez |
-| 173 | 520 | Zippy Block |
-| 174 | 516 | Trish |
-| 175 | 516 | Twisty Clicky |
+| 172 | 520 | Zippy Block |
+| 173 | 520 | Oscar Alberto Perez |
+| 174 | 516 | Twisty Clicky |
+| 175 | 516 | Trish |
 | 176 | 514 | Scott Jameson |
 | 177 | 513 | Erin Thomas |
 | 178 | 512 | Nick Gray |
@@ -671,7 +671,7 @@
 | 663 | 159 | Mcg |
 | 664 | 157 | Jazzy Slamdrop |
 | 665 | 157 | Matt Rawls |
-| 666 | 157 | Jazzy Slamdrop |
+| 666 | 157 | Hanh Pham |
 | 667 | 156 | MOCHA |
 | 668 | 155 | Patrick Cookson |
 | 669 | 155 | Marcus Cooper |

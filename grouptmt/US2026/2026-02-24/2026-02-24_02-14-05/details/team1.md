@@ -77,8 +77,8 @@
 | 69 | 1003 | Amber Stoker |
 | 70 | 987 | TSwag |
 | 71 | 980 | Veronica Eve |
-| 72 | 966 | Shalene Frederick Autrey |
-| 73 | 966 | Francesca Gee |
+| 72 | 966 | Francesca Gee |
+| 73 | 966 | Shalene Frederick Autrey |
 | 74 | 961 | Jacqueline Williams |
 | 75 | 957 | Zippy Align |
 | 76 | 934 | Erin Hodges Plumb |
@@ -202,8 +202,8 @@
 | 194 | 454 | Teri Oehlke |
 | 195 | 450 | Elaine Elaine |
 | 196 | 448 | Yvonne Marie |
-| 197 | 446 | Spencer Lent |
-| 198 | 446 | SkipTheSadSauce |
+| 197 | 446 | SkipTheSadSauce |
+| 198 | 446 | Spencer Lent |
 | 199 | 442 | Kimmie Kimms |
 | 200 | 441 | Kimberly Garcia |
 | 201 | 437 | David Miller |
@@ -218,8 +218,8 @@
 | 210 | 424 | Lindsay Glover |
 | 211 | 424 | Serina Marie |
 | 212 | 423 | Chelsea Dahlquist |
-| 213 | 422 | Jamise Brown |
-| 214 | 422 | Reesey Enyart |
+| 213 | 422 | Reesey Enyart |
+| 214 | 422 | Jamise Brown |
 | 215 | 420 | Jennifer Noe Chandler |
 | 216 | 419 | Daring Fitclear |
 | 217 | 419 | John J. Cronin |
@@ -238,8 +238,8 @@
 | 230 | 398 | Tyler L Hunt |
 | 231 | 396 | Sam Williams |
 | 232 | 395 | Monica Donato |
-| 233 | 393 | Wisa |
-| 234 | 393 | Lehrin Maria |
+| 233 | 393 | Lehrin Maria |
+| 234 | 393 | Wisa |
 | 235 | 391 | Happy Basegrid |
 | 236 | 389 | Howdi Duty |
 | 237 | 386 | Brian Spotts |
@@ -283,8 +283,8 @@
 | 275 | 356 | Dawn Michelle Scheible |
 | 276 | 355 | Keith Mathis |
 | 277 | 354 | Kimberly Davis |
-| 278 | 353 | Josh Riemer |
-| 279 | 353 | Jessica Russell |
+| 278 | 353 | Jessica Russell |
+| 279 | 353 | Josh Riemer |
 | 280 | 351 | Adele Rahman |
 | 281 | 349 | Cool Shiftsnap |
 | 282 | 348 | DoodleBug |
@@ -430,7 +430,7 @@
 | 422 | 258 | Silly Align |
 | 423 | 257 | Marc Abney |
 | 424 | 257 | Funky Piecebuilder |
-| 425 | 257 | Marc Abney |
+| 425 | 257 | Andrew Backes |
 | 426 | 256 | Joe Coon |
 | 427 | 256 | Mary Sheets |
 | 428 | 255 | Beazel75 |

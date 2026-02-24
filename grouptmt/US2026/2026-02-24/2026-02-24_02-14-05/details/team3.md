@@ -192,8 +192,8 @@
 | 184 | 772 | Tye Stovall |
 | 185 | 770 | Raya |
 | 186 | 768 | Hasty Cascadefit |
-| 187 | 763 | Tasha Gillespie |
-| 188 | 763 | Patricia White |
+| 187 | 763 | Patricia White |
+| 188 | 763 | Tasha Gillespie |
 | 189 | 760 | Kiki |
 | 190 | 757 | Fancy Cascader |
 | 191 | 755 | Laura Booth Wosko |
@@ -360,16 +360,16 @@
 | 352 | 414 | RickyG |
 | 353 | 411 | Steffi Chris Dacones |
 | 354 | 409 | Rich LeBlanc |
-| 355 | 408 | Ashley Muncey |
-| 356 | 408 | Tiffany Ford |
+| 355 | 408 | Tiffany Ford |
+| 356 | 408 | Ashley Muncey |
 | 357 | 407 | Christina Spa |
 | 358 | 405 | fraulila |
 | 359 | 405 | Andrew Thorson |
 | 360 | 405 | Chris Bell |
 | 361 | 405 | Skinny Baldez |
 | 362 | 404 | Giggy Balanceblock |
-| 363 | 403 | Stephanie Burtin |
-| 364 | 403 | Scott Lindsay |
+| 363 | 403 | Scott Lindsay |
+| 364 | 403 | Stephanie Burtin |
 | 365 | 401 | block chick |
 | 366 | 399 | Velma Mull |
 | 367 | 399 | Christina Rotz Shows |
