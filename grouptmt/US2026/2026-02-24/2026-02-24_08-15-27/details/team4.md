@@ -107,8 +107,8 @@
 | 99 | 846 | Christine Marie |
 | 100 | 840 | SAP |
 | 101 | 837 | Rica Mitchell |
-| 102 | 834 | quicksand420 |
-| 103 | 834 | Brittney Orengo |
+| 102 | 834 | Brittney Orengo |
+| 103 | 834 | quicksand420 |
 | 104 | 815 | Diana Houts |
 | 105 | 813 | Klo |
 | 106 | 811 | Sassy Pattern |
@@ -131,18 +131,18 @@
 | 123 | 735 | Nugget |
 | 124 | 731 | KJ Pool |
 | 125 | 729 | Jamie Mann-Deichmann |
-| 126 | 726 | Jamie Gustafson |
-| 127 | 726 | Amy Suckarieh |
+| 126 | 726 | Amy Suckarieh |
+| 127 | 726 | Jamie Gustafson |
 | 128 | 725 | Brandon Crabbs |
 | 129 | 712 | Leslie Nicole |
 | 130 | 712 | H.R. Block |
 | 131 | 708 | Jacqueline Helm |
-| 132 | 704 | Chilly Crasher |
-| 133 | 704 | Austin Owens |
+| 132 | 704 | Austin Owens |
+| 133 | 704 | Chilly Crasher |
 | 134 | 682 | Raegan Lane-Ross |
 | 135 | 668 | Desi Desporte |
-| 136 | 667 | Swanky Fitline |
-| 137 | 667 | Lindsey Gonzalez |
+| 136 | 667 | Lindsey Gonzalez |
+| 137 | 667 | Swanky Fitline |
 | 138 | 667 | Matt Gooder |
 | 139 | 662 | Nerdy Twisterfit |
 | 140 | 662 | George Nutt |
@@ -193,10 +193,10 @@
 | 185 | 536 | JPW |
 | 186 | 535 | Berklie Apedaile |
 | 187 | 534 | Lucas J Sutton |
-| 188 | 532 | Matt Summer |
-| 189 | 532 | Alan George LaRage |
-| 190 | 528 | Carly Alexis |
-| 191 | 528 | Erin Sabol |
+| 188 | 532 | Alan George LaRage |
+| 189 | 532 | Matt Summer |
+| 190 | 528 | Erin Sabol |
+| 191 | 528 | Carly Alexis |
 | 192 | 525 | 🥔🥔 Spudz |
 | 193 | 521 | Andy Cabral |
 | 194 | 520 | Oscar Alberto Perez |
@@ -216,8 +216,8 @@
 | 208 | 502 | Ericca Eldridge |
 | 209 | 501 | Sharyn Lemire |
 | 210 | 499 | Kesha Brady |
-| 211 | 496 | Jessica Bohlken |
-| 212 | 496 | Lori |
+| 211 | 496 | Lori |
+| 212 | 496 | Jessica Bohlken |
 | 213 | 495 | Joeliecea Cobb |
 | 214 | 494 | Bio Nelly |
 | 215 | 493 | Amanda Pauldo-Ivy |
@@ -269,16 +269,16 @@
 | 261 | 411 | TinyLegoRose |
 | 262 | 411 | Autumn Kumzi |
 | 263 | 410 | Lindsay Ball |
-| 264 | 409 | Joseph Guthrie |
-| 265 | 409 | Antony Dwayne Beasley |
+| 264 | 409 | Antony Dwayne Beasley |
+| 265 | 409 | Joseph Guthrie |
 | 266 | 408 | Dihcheese444 |
 | 267 | 408 | Lauren Scott |
 | 268 | 407 | Hyper Builder |
 | 269 | 407 | Rafael Valentin |
 | 270 | 402 | Nita Wells |
-| 271 | 399 | 030Synner |
-| 272 | 399 | Brittany Little |
-| 273 | 399 | Twisty Cascadezone |
+| 271 | 399 | Twisty Cascadezone |
+| 272 | 399 | 030Synner |
+| 273 | 399 | Brittany Little |
 | 274 | 398 | Tyler Terrific |
 | 275 | 397 | blockstar |
 | 276 | 395 | Denise B |
@@ -348,8 +348,8 @@
 | 340 | 329 | AyeKay |
 | 341 | 328 | Leah Kutz Zirbel |
 | 342 | 328 | Heather Bruce |
-| 343 | 327 | Jim Hart |
-| 344 | 327 | Jessica Petersen |
+| 343 | 327 | Jessica Petersen |
+| 344 | 327 | Jim Hart |
 | 345 | 325 | Cool Gridzone |
 | 346 | 324 | Sarah Hoffman |
 | 347 | 322 | Bryan Hodgins |
@@ -359,8 +359,8 @@
 | 351 | 320 | Alan Zukowski |
 | 352 | 320 | O block |
 | 353 | 319 | Michelle Morris |
-| 354 | 319 | Jessica Fredericks |
-| 355 | 319 | Bradley Reeves |
+| 354 | 319 | Bradley Reeves |
+| 355 | 319 | Jessica Fredericks |
 | 356 | 317 | Paito |
 | 357 | 317 | Kim Klutz Olson |
 | 358 | 317 | Madison Sweere |

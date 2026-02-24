@@ -234,8 +234,8 @@
 | 226 | 708 | Stephanie Bradley |
 | 227 | 704 | Betty Bóò |
 | 228 | 703 | Shawn Miller |
-| 229 | 691 | Snappy Balancer |
-| 230 | 691 | Tia |
+| 229 | 691 | Tia |
+| 230 | 691 | Snappy Balancer |
 | 231 | 687 | joz |
 | 232 | 675 | Terry Jo Jones |
 | 233 | 662 | Jim Mathews |
@@ -324,8 +324,8 @@
 | 316 | 506 | Ammmmmmy |
 | 317 | 505 | Stephanie Simpson |
 | 318 | 500 | Ashley Tookes |
-| 319 | 499 | Gumbo |
-| 320 | 499 | Megan Rathmanner |
+| 319 | 499 | Megan Rathmanner |
+| 320 | 499 | Gumbo |
 | 321 | 496 | Brenda Schmid Wood |
 | 322 | 495 | Daring Builder |
 | 323 | 494 | fraulila |
@@ -334,13 +334,13 @@
 | 326 | 490 | Cassandra Bryant |
 | 327 | 489 | Isabel Ocasio |
 | 328 | 487 | MsBee |
-| 329 | 486 | Skippy |
-| 330 | 486 | Sleepy |
+| 329 | 486 | Sleepy |
+| 330 | 486 | Skippy |
 | 331 | 483 | Tegan Chapman |
 | 332 | 482 | Chummy Rumbler |
 | 333 | 481 | Tiffanie Alley |
-| 334 | 480 | TLM |
-| 335 | 480 | Dee Franklin |
+| 334 | 480 | Dee Franklin |
+| 335 | 480 | TLM |
 | 336 | 479 | Charles Perrone |
 | 337 | 476 | Shunta Jacobs |
 | 338 | 474 | Troy |
@@ -355,8 +355,8 @@
 | 347 | 461 | Hyper Bridger |
 | 348 | 461 | Briana Wellman |
 | 349 | 460 | Antonia Russell |
-| 350 | 459 | Randy Clevenger |
-| 351 | 459 | TotoCherue |
+| 350 | 459 | TotoCherue |
+| 351 | 459 | Randy Clevenger |
 | 352 | 457 | Snippy Wipeout |
 | 353 | 456 | Kelly |
 | 354 | 456 | Cynthia Herrmann Egland |
@@ -368,8 +368,8 @@
 | 360 | 447 | Carrie Huskey |
 | 361 | 447 | Num1hater |
 | 362 | 446 | Swanky Frame |
-| 363 | 446 | Jennifer Alvey |
-| 364 | 446 | Shiny Zonebuilder |
+| 363 | 446 | Shiny Zonebuilder |
+| 364 | 446 | Jennifer Alvey |
 | 365 | 445 | Loopy Clusterer |
 | 366 | 444 | Heather De Vries Cobb |
 | 367 | 443 | Christian Werndl |
@@ -392,8 +392,8 @@
 | 384 | 426 | Christina Rotz Shows |
 | 385 | 425 | Ava Petito |
 | 386 | 423 | Dapper Liney |
-| 387 | 419 | Desiree Gold |
-| 388 | 419 | Philip Rock |
+| 387 | 419 | Philip Rock |
+| 388 | 419 | Desiree Gold |
 | 389 | 419 | Maggie |
 | 390 | 418 | Rainbow77375 |
 | 391 | 416 | Tay |
@@ -409,11 +409,11 @@
 | 401 | 407 | Christina Spa |
 | 402 | 406 | Kristen Weese |
 | 403 | 405 | Andrew Thorson |
-| 404 | 404 | Giggy Balanceblock |
-| 405 | 404 | Alice |
+| 404 | 404 | Alice |
+| 405 | 404 | Giggy Balanceblock |
 | 406 | 403 | Scott Lindsay |
-| 407 | 401 | Velma Mull |
-| 408 | 401 | block chick |
+| 407 | 401 | block chick |
+| 408 | 401 | Velma Mull |
 | 409 | 400 | Joy Petroski |
 | 410 | 398 | Breezy Roll |
 | 411 | 397 | Kevin Russell |

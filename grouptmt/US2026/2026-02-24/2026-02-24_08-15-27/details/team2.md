@@ -341,8 +341,8 @@
 | 333 | 1304 | Sarah Ridenour |
 | 334 | 1303 | Michele Morgan |
 | 335 | 1301 | Mandy Cekine |
-| 336 | 1300 | Shinel Richardson |
-| 337 | 1300 | Snappy Matchbuilder |
+| 336 | 1300 | Snappy Matchbuilder |
+| 337 | 1300 | Shinel Richardson |
 | 338 | 1300 | Tacara Cummings |
 | 339 | 1295 | Jess Morrison |
 | 340 | 1292 | Joshua Mandel |
@@ -566,8 +566,8 @@
 | 558 | 885 | Giggy Mover |
 | 559 | 885 | Miranda Morris |
 | 560 | 883 | Hong Tang |
-| 561 | 882 | Sarah Massey |
-| 562 | 882 | Thomas Hedrick |
+| 561 | 882 | Thomas Hedrick |
+| 562 | 882 | Sarah Massey |
 | 563 | 881 | Layla LS |
 | 564 | 876 | Jelly |
 | 565 | 876 | Jessicah Myers |
@@ -580,8 +580,8 @@
 | 572 | 865 | Lilia Gomez |
 | 573 | 864 | Perky Rollfit |
 | 574 | 861 | Anthony |
-| 575 | 861 | Shavonna Haynes |
-| 576 | 861 | Beth |
+| 575 | 861 | Beth |
+| 576 | 861 | Shavonna Haynes |
 | 577 | 858 | Joshua Self |
 | 578 | 857 | Marella Petilo |
 | 579 | 854 | Dawn L Washington-Feuquay |
@@ -616,8 +616,8 @@
 | 608 | 823 | Diana Fitzwater |
 | 609 | 822 | KayLynn Ogden McClelland |
 | 610 | 821 | Anthony Mignacca |
-| 611 | 820 | Brenda Pierpoint |
-| 612 | 820 | Mighty Spinbuilder |
+| 611 | 820 | Mighty Spinbuilder |
+| 612 | 820 | Brenda Pierpoint |
 | 613 | 820 | Laura McCarthey |
 | 614 | 819 | BeQuo |
 | 615 | 817 | Maria Louise |
