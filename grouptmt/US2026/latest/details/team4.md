@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 06:42:47 UTC
+# Standings for team4 as of 2026-02-25 06:43:24 UTC
 
 **Total Participants:** 2175
 
@@ -875,25 +875,25 @@
 | 867 | 168 | Heather Mamabear Pezze |
 | 868 | 168 | Nicole McMurray |
 | 869 | 168 | Blue |
-| 870 | 167 | Sarah Tenenbaum |
-| 871 | 167 | Brad Caldwell |
-| 872 | 167 | IDK |
-| 873 | 167 | Skyler Patzer |
-| 874 | 167 | Dottie Falco |
-| 875 | 166 | Snippy |
-| 876 | 165 | McKayla Breanne |
-| 877 | 165 | Zappy Buildgrid |
-| 878 | 165 | Sarah Grundisch |
-| 879 | 164 | Kametsunoyaiba |
-| 880 | 164 | Saucy Stackbuilder |
-| 881 | 164 | Dania Cochrane |
-| 882 | 163 | LunarCat |
-| 883 | 163 | Cozy Strikerbuilder |
-| 884 | 163 | Krystal McPherson |
-| 885 | 163 | Mike Burlingame |
-| 886 | 162 | Adam Randall |
-| 887 | 162 | Michelle Sanchez |
-| 888 | 162 | Aloradexplora |
+| 870 | 168 | Dania Cochrane |
+| 871 | 167 | Sarah Tenenbaum |
+| 872 | 167 | Brad Caldwell |
+| 873 | 167 | IDK |
+| 874 | 167 | Skyler Patzer |
+| 875 | 167 | Dottie Falco |
+| 876 | 166 | Snippy |
+| 877 | 165 | McKayla Breanne |
+| 878 | 165 | Zappy Buildgrid |
+| 879 | 165 | Sarah Grundisch |
+| 880 | 164 | Kametsunoyaiba |
+| 881 | 164 | Saucy Stackbuilder |
+| 882 | 163 | Mike Burlingame |
+| 883 | 163 | LunarCat |
+| 884 | 163 | Cozy Strikerbuilder |
+| 885 | 163 | Krystal McPherson |
+| 886 | 162 | Aloradexplora |
+| 887 | 162 | Adam Randall |
+| 888 | 162 | Michelle Sanchez |
 | 889 | 161 | Sha Ta Nay Mitchell |
 | 890 | 161 | Buttlicker |
 | 891 | 160 | Molly Ananda Rickerson |
@@ -1057,8 +1057,8 @@
 | 1049 | 119 | Samantha Kimes |
 | 1050 | 119 | Calen Torez |
 | 1051 | 119 | Paco Gonzalez |
-| 1052 | 119 | Clever Breaker |
-| 1053 | 119 | Becky Irby |
+| 1052 | 119 | Becky Irby |
+| 1053 | 119 | Clever Breaker |
 | 1054 | 118 | MoP11 |
 | 1055 | 118 | Frisky Column |
 | 1056 | 117 | Speedy Wipeblock |
@@ -1070,28 +1070,28 @@
 | 1062 | 117 | Denatrious Perry |
 | 1063 | 117 | Tracey Oger |
 | 1064 | 117 | MzChocolate |
-| 1065 | 117 | Christina Nycol |
-| 1066 | 117 | Tipsy Zoney |
+| 1065 | 117 | Tipsy Zoney |
+| 1066 | 117 | Christina Nycol |
 | 1067 | 116 | Lindsey Bergkvist |
-| 1068 | 116 | April Swinney |
-| 1069 | 116 | Rebecca Rister |
-| 1070 | 116 | BJ Snyder |
-| 1071 | 116 | Shadonna Brandes |
-| 1072 | 116 | Natalie;) |
-| 1073 | 115 | Mathew Dissinger |
-| 1074 | 115 | Brenda Bird |
+| 1068 | 116 | Tasha |
+| 1069 | 116 | April Swinney |
+| 1070 | 116 | Rebecca Rister |
+| 1071 | 116 | BJ Snyder |
+| 1072 | 116 | Shadonna Brandes |
+| 1073 | 116 | Natalie;) |
+| 1074 | 115 | Mathew Dissinger |
 | 1075 | 115 | Mona Touchine |
-| 1076 | 115 | Jennifer Matson |
-| 1077 | 115 | Roberta Arnold |
-| 1078 | 115 | Jayk |
-| 1079 | 115 | Robin Visintainer |
-| 1080 | 115 | ScootyLadoo |
-| 1081 | 115 | Baleria Ruedas Pantoja |
-| 1082 | 115 | Chipper Buildout |
-| 1083 | 114 | Beezie |
-| 1084 | 114 | KAP |
-| 1085 | 114 | Nutty Lifter |
-| 1086 | 114 | Tasha |
+| 1076 | 115 | Chipper Buildout |
+| 1077 | 115 | Brenda Bird |
+| 1078 | 115 | Jennifer Matson |
+| 1079 | 115 | Jayk |
+| 1080 | 115 | Roberta Arnold |
+| 1081 | 115 | ScootyLadoo |
+| 1082 | 115 | Robin Visintainer |
+| 1083 | 115 | Baleria Ruedas Pantoja |
+| 1084 | 114 | Beezie |
+| 1085 | 114 | KAP |
+| 1086 | 114 | Nutty Lifter |
 | 1087 | 114 | Katy Schuster |
 | 1088 | 113 | Abigail Murphy |
 | 1089 | 113 | DaRuler |
