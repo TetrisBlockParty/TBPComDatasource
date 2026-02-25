@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 09:52:45 UTC
+# Standings for team4 as of 2026-02-25 09:53:22 UTC
 
 **Total Participants:** 2193
 
@@ -193,7 +193,7 @@
 | 185 | 633 | YoMomma |
 | 186 | 632 | Melvin Baird |
 | 187 | 628 | Circuit8 |
-| 188 | 626 | Andy Cabral |
+| 188 | 627 | Andy Cabral |
 | 189 | 624 | Matt Summer |
 | 190 | 623 | ku5hkween |
 | 191 | 619 | Adrian Pawlusinski |
@@ -1394,108 +1394,108 @@
 | 1386 | 70 | Boldy Twistline |
 | 1387 | 70 | Kayd |
 | 1388 | 70 | ShadowWanderrr |
-| 1389 | 70 | Br23klyn |
-| 1390 | 70 | Blockin88 |
-| 1391 | 70 | Aaron Wilkins |
-| 1392 | 70 | PlatinumRose |
-| 1393 | 70 | Anthony Caldwell |
-| 1394 | 70 | Wacky Brickmatch |
-| 1395 | 70 | StarChild |
-| 1396 | 70 | Donnie Istillwill Straub |
-| 1397 | 70 | Ruben Perez |
-| 1398 | 69 | Brittanny Simpson |
-| 1399 | 69 | Gia Mims |
+| 1389 | 70 | Donnie Istillwill Straub |
+| 1390 | 70 | StarChild |
+| 1391 | 70 | Ruben Perez |
+| 1392 | 70 | Wacky Brickmatch |
+| 1393 | 70 | Blockin88 |
+| 1394 | 70 | Br23klyn |
+| 1395 | 70 | Aaron Wilkins |
+| 1396 | 70 | PlatinumRose |
+| 1397 | 70 | Anthony Caldwell |
+| 1398 | 69 | Dragon De Fuego |
+| 1399 | 69 | Jeremy Jaubert |
 | 1400 | 69 | ZZZZZZZ |
-| 1401 | 69 | Jeremy Jaubert |
-| 1402 | 69 | Dragon De Fuego |
-| 1403 | 68 | Jose Gonzalez |
-| 1404 | 68 | Anne-Marie Reyes |
-| 1405 | 68 | Crissygirl |
-| 1406 | 68 | Camyra Dunnigan |
-| 1407 | 68 | Derwin Dewayne Mosby |
+| 1401 | 69 | Gia Mims |
+| 1402 | 69 | Brittanny Simpson |
+| 1403 | 68 | Anne-Marie Reyes |
+| 1404 | 68 | Kb Ludiweci |
+| 1405 | 68 | combatmac |
+| 1406 | 68 | James Antill |
+| 1407 | 68 | Nicki nikki87 |
 | 1408 | 68 | OneBuke FollowMe |
-| 1409 | 68 | Nicki nikki87 |
-| 1410 | 68 | James Antill |
-| 1411 | 68 | combatmac |
-| 1412 | 68 | zelda Morgan |
-| 1413 | 67 | Nancy Banning |
-| 1414 | 67 | Minot4444 |
+| 1409 | 68 | Jose Gonzalez |
+| 1410 | 68 | Derwin Dewayne Mosby |
+| 1411 | 68 | Camyra Dunnigan |
+| 1412 | 68 | Crissygirl |
+| 1413 | 68 | zelda Morgan |
+| 1414 | 67 | Nancy Banning |
 | 1415 | 67 | Jazzy Cascadezone |
-| 1416 | 67 | TrillVille |
-| 1417 | 67 | Kb Ludiweci |
-| 1418 | 67 | Daring Matchfit |
-| 1419 | 67 | Lanee Morgan |
-| 1420 | 67 | Anita Kramer |
-| 1421 | 67 | Pipiska |
-| 1422 | 67 | Tj Colman |
-| 1423 | 67 | Amanda Loren |
+| 1416 | 67 | Minot4444 |
+| 1417 | 67 | TrillVille |
+| 1418 | 67 | Lanee Morgan |
+| 1419 | 67 | Pipiska |
+| 1420 | 67 | Daring Matchfit |
+| 1421 | 67 | Tj Colman |
+| 1422 | 67 | Anita Kramer |
+| 1423 | 67 | Hasty Matchgrid |
 | 1424 | 67 | MazieMae |
-| 1425 | 67 | Fritzi Phillips |
-| 1426 | 67 | Hasty Matchgrid |
+| 1425 | 67 | Amanda Loren |
+| 1426 | 67 | Fritzi Phillips |
 | 1427 | 66 | Giggly Caster |
-| 1428 | 66 | Theodore Vincent |
-| 1429 | 66 | Phanie D |
+| 1428 | 66 | Phanie D |
+| 1429 | 66 | Theodore Vincent |
 | 1430 | 66 | Coflowers |
 | 1431 | 65 | Daws |
-| 1432 | 65 | Deb Lilja |
-| 1433 | 65 | Shelly Matthews |
-| 1434 | 65 | Barcelos |
-| 1435 | 65 | Ashley Gilland |
-| 1436 | 65 | Dean Masters |
+| 1432 | 65 | Shelly Matthews |
+| 1433 | 65 | Dean Masters |
+| 1434 | 65 | Ashley Gilland |
+| 1435 | 65 | Barcelos |
+| 1436 | 65 | Deb Lilja |
 | 1437 | 65 | ThemightyDATCH |
-| 1438 | 64 | Phyllis Wilson |
-| 1439 | 64 | Jennifer Hunt |
-| 1440 | 64 | Kemal Topko |
-| 1441 | 64 | Amy Anderson-Franks |
-| 1442 | 64 | Jacqueline Brosius |
+| 1438 | 64 | Jennifer Hunt |
+| 1439 | 64 | Kemal Topko |
+| 1440 | 64 | Amy Anderson-Franks |
+| 1441 | 64 | Jacqueline Brosius |
+| 1442 | 64 | Phyllis Wilson |
 | 1443 | 64 | Kenny Hutchens |
 | 1444 | 63 | Cherry cola pepper |
-| 1445 | 63 | Tammie Jewel DeSimon |
-| 1446 | 63 | Frothy Twisterfit |
-| 1447 | 63 | Colleen Keller |
-| 1448 | 63 | Wormtown girl |
-| 1449 | 63 | Michelle Cox |
-| 1450 | 63 | Wet Noodle |
-| 1451 | 63 | Pamela Hagedorn |
-| 1452 | 63 | Zesty Snapmatch |
-| 1453 | 63 | Ray Binkley |
-| 1454 | 63 | peekaboo |
-| 1455 | 62 | Chris Lee |
-| 1456 | 62 | Pretty 💕 |
-| 1457 | 62 | Cehak Saray |
+| 1445 | 63 | Colleen Keller |
+| 1446 | 63 | Ray Binkley |
+| 1447 | 63 | Zesty Snapmatch |
+| 1448 | 63 | Wet Noodle |
+| 1449 | 63 | Frothy Twisterfit |
+| 1450 | 63 | Tammie Jewel DeSimon |
+| 1451 | 63 | peekaboo |
+| 1452 | 63 | Michelle Cox |
+| 1453 | 63 | Wormtown girl |
+| 1454 | 63 | Pamela Hagedorn |
+| 1455 | 62 | Kat |
+| 1456 | 62 | Jaycool |
+| 1457 | 62 | yuh |
 | 1458 | 62 | Dreamy Jumper |
-| 1459 | 62 | Jaycool |
-| 1460 | 62 | Kat |
-| 1461 | 62 | yuh |
-| 1462 | 62 | Clever Caster |
-| 1463 | 62 | Bouncy Rotator |
-| 1464 | 62 | DingusBingus17 |
-| 1465 | 61 | Keith Allen |
-| 1466 | 61 | Nicholas Jordan |
-| 1467 | 61 | niksteve70 |
-| 1468 | 61 | Synamatic |
-| 1469 | 61 | John Robert Roe |
-| 1470 | 61 | FanODisney |
-| 1471 | 61 | Rollinsmokes |
-| 1472 | 61 | Daoxed |
-| 1473 | 61 | Jeni Johnson |
-| 1474 | 61 | Connie Mitchell-Smith |
-| 1475 | 61 | Binji |
+| 1459 | 62 | Cehak Saray |
+| 1460 | 62 | Pretty 💕 |
+| 1461 | 62 | Clever Caster |
+| 1462 | 62 | DingusBingus17 |
+| 1463 | 62 | Chris Lee |
+| 1464 | 62 | Bouncy Rotator |
+| 1465 | 61 | Nicholas Jordan |
+| 1466 | 61 | Synamatic |
+| 1467 | 61 | John Robert Roe |
+| 1468 | 61 | niksteve70 |
+| 1469 | 61 | Keith Allen |
+| 1470 | 61 | Rollinsmokes |
+| 1471 | 61 | Daoxed |
+| 1472 | 61 | FanODisney |
+| 1473 | 61 | Connie Mitchell-Smith |
+| 1474 | 61 | Binji |
+| 1475 | 61 | Jeni Johnson |
 | 1476 | 61 | Cool Stackbuilder |
 | 1477 | 61 | Matt Tackett |
 | 1478 | 60 | Hasty Matchline |
-| 1479 | 60 | Smiley Wipebuilder |
-| 1480 | 60 | Melanie Klump |
-| 1481 | 60 | Dustin Dodson |
-| 1482 | 60 | KHernan104 |
-| 1483 | 60 | Dalek’sMercy |
-| 1484 | 60 | Plucky Twistbuilder |
-| 1485 | 60 | Alyssa Gomez |
-| 1486 | 60 | Angel Hollins |
-| 1487 | 60 | xSABRiNAx |
-| 1488 | 60 | Ayla B Quesada |
-| 1489 | 60 | Susan Gillet |
-| 1490 | 60 | Saucy Brickroll |
+| 1479 | 60 | Saucy Brickroll |
+| 1480 | 60 | Susan Gillet |
+| 1481 | 60 | Angel Hollins |
+| 1482 | 60 | Dalek’sMercy |
+| 1483 | 60 | xSABRiNAx |
+| 1484 | 60 | Alyssa Gomez |
+| 1485 | 60 | Ayla B Quesada |
+| 1486 | 60 | Plucky Twistbuilder |
+| 1487 | 60 | KHernan104 |
+| 1488 | 60 | Smiley Wipebuilder |
+| 1489 | 60 | Melanie Klump |
+| 1490 | 60 | Dustin Dodson |
 | 1491 | 59 | Rocky Lotz |
 | 1492 | 59 | Cheeky Dashpiece |
 | 1493 | 59 | Faith Dawn Hershey |
