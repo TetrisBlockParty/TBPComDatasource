@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 18:46:46 UTC
+# Standings for team1 as of 2026-02-25 18:47:22 UTC
 
 **Total Participants:** 2513
 
@@ -125,9 +125,9 @@
 | 117 | 943 | Susan Ward |
 | 118 | 941 | Greg Hart |
 | 119 | 939 | Robert Benito |
-| 120 | 931 | Tawnya Peltonen |
-| 121 | 916 | Chirpy Smasher |
-| 122 | 914 | Sevens4L |
+| 120 | 934 | Sevens4L |
+| 121 | 931 | Tawnya Peltonen |
+| 122 | 916 | Chirpy Smasher |
 | 123 | 912 | Denice Dee |
 | 124 | 910 | Tinah Montanna |
 | 125 | 908 | Jazzy Framezone |
@@ -172,8 +172,8 @@
 | 164 | 710 | Jerry Danowski |
 | 165 | 709 | Howdi Duty |
 | 166 | 708 | ParisandCory Champagne |
-| 167 | 704 | Serina Marie |
-| 168 | 702 | Νεφ Όνυξ |
+| 167 | 705 | Νεφ Όνυξ |
+| 168 | 704 | Serina Marie |
 | 169 | 702 | Jennifer Noe Chandler |
 | 170 | 698 | femmefatale |
 | 171 | 697 | Chase Collinsworth |
@@ -435,14 +435,14 @@
 | 427 | 369 | Nathan William |
 | 428 | 369 | Quirky Pusher |
 | 429 | 369 | I Am |
-| 430 | 368 | Shannon Marie Pitts |
-| 431 | 368 | Katie Martin |
-| 432 | 368 | Dawon Ksk Capers |
-| 433 | 367 | Jessie |
-| 434 | 366 | Mighty Shatterfit |
-| 435 | 366 | J.F. Fields |
-| 436 | 366 | Cranky Pattern |
-| 437 | 365 | Rick Pickup Raymur |
+| 430 | 368 | Rick Pickup Raymur |
+| 431 | 368 | Shannon Marie Pitts |
+| 432 | 368 | Katie Martin |
+| 433 | 368 | Dawon Ksk Capers |
+| 434 | 367 | Jessie |
+| 435 | 366 | Mighty Shatterfit |
+| 436 | 366 | J.F. Fields |
+| 437 | 366 | Cranky Pattern |
 | 438 | 364 | dhardy |
 | 439 | 364 | Shauna Loe |
 | 440 | 362 | Perky Lifter |
@@ -790,14 +790,14 @@
 | 782 | 210 | Danny Brady |
 | 783 | 210 | Christian Corral |
 | 784 | 209 | Lively Wipeout |
-| 785 | 208 | Paul Gates |
-| 786 | 208 | TristansDad |
-| 787 | 208 | Geo Jam |
-| 788 | 208 | Jason Landon Sexton |
-| 789 | 208 | Donna Addison Williams |
-| 790 | 207 | Shawn Robert |
-| 791 | 207 | Rob Burns |
-| 792 | 207 | William Cry |
+| 785 | 209 | William Cry |
+| 786 | 208 | Paul Gates |
+| 787 | 208 | TristansDad |
+| 788 | 208 | Geo Jam |
+| 789 | 208 | Jason Landon Sexton |
+| 790 | 208 | Donna Addison Williams |
+| 791 | 207 | Shawn Robert |
+| 792 | 207 | Rob Burns |
 | 793 | 206 | Lisa Marie |
 | 794 | 206 | Doris Hall |
 | 795 | 206 | Lili Pad |
@@ -1882,21 +1882,21 @@
 | 1874 | 40 | Keva |
 | 1875 | 39 | Rodriguez Leslie |
 | 1876 | 39 | Carla Tavares |
-| 1877 | 39 | James Rob |
-| 1878 | 39 | Yonkas |
-| 1879 | 39 | Chipper Stacky |
-| 1880 | 39 | Merder |
-| 1881 | 39 | Matthew Matoushek |
-| 1882 | 39 | Crafty Blockzone |
-| 1883 | 39 | jb |
-| 1884 | 39 | Julia Linares |
-| 1885 | 39 | Keith Hiller |
-| 1886 | 39 | RLA |
-| 1887 | 39 | Anna Mae |
-| 1888 | 38 | Edgar Vazquez |
+| 1877 | 39 | Gazelda Godsgotmyback Ansah |
+| 1878 | 39 | James Rob |
+| 1879 | 39 | Yonkas |
+| 1880 | 39 | Chipper Stacky |
+| 1881 | 39 | Merder |
+| 1882 | 39 | Matthew Matoushek |
+| 1883 | 39 | Crafty Blockzone |
+| 1884 | 39 | jb |
+| 1885 | 39 | Julia Linares |
+| 1886 | 39 | Keith Hiller |
+| 1887 | 39 | RLA |
+| 1888 | 39 | Anna Mae |
 | 1889 | 38 | Jumpy Zonegrid |
-| 1890 | 38 | Jking |
-| 1891 | 38 | Gazelda Godsgotmyback Ansah |
+| 1890 | 38 | Edgar Vazquez |
+| 1891 | 38 | Jking |
 | 1892 | 38 | William Thomas |
 | 1893 | 38 | Mighty Patternline |
 | 1894 | 38 | Akgretel |
