@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 13:18:43 UTC
+# Standings for team1 as of 2026-02-25 13:19:22 UTC
 
 **Total Participants:** 2467
 
@@ -71,7 +71,7 @@
 | 63 | 1423 | Tipsy Column |
 | 64 | 1401 | Adam Byrd |
 | 65 | 1390 | Hasbro Bros |
-| 66 | 1360 | TSwag |
+| 66 | 1361 | TSwag |
 | 67 | 1332 | Kristen Gideon |
 | 68 | 1328 | Karin Gillen |
 | 69 | 1324 | Lawrence Belanger |
@@ -1364,27 +1364,27 @@
 | 1356 | 89 | Chibuike Stephen Ndubunka |
 | 1357 | 89 | Ghost |
 | 1358 | 89 | Lacey Breanna Smith |
-| 1359 | 89 | FableGray |
-| 1360 | 88 | Kandie Marie |
-| 1361 | 88 | Amy Lynn |
-| 1362 | 88 | Jason Aleshire |
-| 1363 | 88 | Andee Bo Bandee |
-| 1364 | 88 | Allison |
-| 1365 | 88 | Tom Sackett |
-| 1366 | 88 | Gewb |
-| 1367 | 87 | Larry Brazil |
-| 1368 | 87 | Patricia Mills |
-| 1369 | 87 | Sanita Latham |
-| 1370 | 87 | Heaven White |
-| 1371 | 86 | Stephanie Mounts |
-| 1372 | 86 | Daynj |
-| 1373 | 86 | Leann Nolley |
-| 1374 | 86 | Hoppy Snapgrid |
-| 1375 | 86 | Silly Patternblock |
-| 1376 | 86 | Stephanie |
-| 1377 | 86 | Barbara Benjamin |
-| 1378 | 86 | Laura Small |
-| 1379 | 86 | Charles Holland |
+| 1359 | 89 | Laura Small |
+| 1360 | 89 | FableGray |
+| 1361 | 88 | Kandie Marie |
+| 1362 | 88 | Amy Lynn |
+| 1363 | 88 | Jason Aleshire |
+| 1364 | 88 | Andee Bo Bandee |
+| 1365 | 88 | Allison |
+| 1366 | 88 | Tom Sackett |
+| 1367 | 88 | Gewb |
+| 1368 | 87 | Larry Brazil |
+| 1369 | 87 | Patricia Mills |
+| 1370 | 87 | Sanita Latham |
+| 1371 | 87 | Heaven White |
+| 1372 | 86 | Stephanie |
+| 1373 | 86 | Charles Holland |
+| 1374 | 86 | Barbara Benjamin |
+| 1375 | 86 | Stephanie Mounts |
+| 1376 | 86 | Silly Patternblock |
+| 1377 | 86 | Hoppy Snapgrid |
+| 1378 | 86 | Leann Nolley |
+| 1379 | 86 | Daynj |
 | 1380 | 85 | Skuba Cece |
 | 1381 | 85 | Bob Thorp |
 | 1382 | 85 | weezy |
