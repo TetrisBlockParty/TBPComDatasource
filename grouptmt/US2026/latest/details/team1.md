@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 13:34:45 UTC
+# Standings for team1 as of 2026-02-25 13:35:23 UTC
 
 **Total Participants:** 2467
 
@@ -50,7 +50,7 @@
 | 42 | 1700 | Jen Sartain |
 | 43 | 1686 | Jessica Sheehan |
 | 44 | 1658 | Andrea Dañielle Ortiz |
-| 45 | 1652 | Lexuriuos Lifestlye |
+| 45 | 1657 | Lexuriuos Lifestlye |
 | 46 | 1643 | Trippy Redd |
 | 47 | 1641 | Veronica Eve |
 | 48 | 1634 | Carrie Beck Geartz |
@@ -225,9 +225,9 @@
 | 217 | 561 | Daring Fitclear |
 | 218 | 557 | MomMom |
 | 219 | 554 | Mike Ames |
-| 220 | 551 | Stephanie Zahn |
-| 221 | 550 | Nery Martinez |
-| 222 | 550 | Sam Williams |
+| 220 | 553 | Sam Williams |
+| 221 | 551 | Stephanie Zahn |
+| 222 | 550 | Nery Martinez |
 | 223 | 548 | Teri Oehlke |
 | 224 | 547 | Sharon Reynolds |
 | 225 | 544 | Adele Rahman |
@@ -412,12 +412,12 @@
 | 404 | 374 | Jaimie Lynn |
 | 405 | 373 | Mitchel White |
 | 406 | 372 | Silly Align |
-| 407 | 370 | san |
-| 408 | 370 | Steph |
-| 409 | 370 | Jeremy Maubert |
-| 410 | 369 | Nate Price |
-| 411 | 369 | Quirky Pusher |
-| 412 | 369 | Larry Tilton |
+| 407 | 371 | Larry Tilton |
+| 408 | 370 | san |
+| 409 | 370 | Steph |
+| 410 | 370 | Jeremy Maubert |
+| 411 | 369 | Nate Price |
+| 412 | 369 | Quirky Pusher |
 | 413 | 369 | Nathan William |
 | 414 | 369 | I Am |
 | 415 | 368 | Shannon Marie Pitts |
@@ -779,56 +779,56 @@
 | 771 | 206 | Almïghty Stoner |
 | 772 | 205 | William Cry |
 | 773 | 205 | Johnnette Kruse |
-| 774 | 205 | davis13 |
-| 775 | 204 | Walter Brown |
-| 776 | 204 | Dave |
-| 777 | 204 | Brandy Ann |
-| 778 | 204 | Casey Hintenach |
-| 779 | 203 | Discovery Point |
-| 780 | 203 | Kristen Rhoads |
-| 781 | 202 | Giddy Clearbuilder |
-| 782 | 202 | Chilly Linebuilder |
-| 783 | 202 | Pie-3.14 |
-| 784 | 202 | Marie Fox |
-| 785 | 202 | Elyse YL |
-| 786 | 202 | Kendra Powell |
-| 787 | 202 | Michael Meyer |
+| 774 | 205 | Elyse YL |
+| 775 | 205 | davis13 |
+| 776 | 204 | Walter Brown |
+| 777 | 204 | Dave |
+| 778 | 204 | Brandy Ann |
+| 779 | 204 | Casey Hintenach |
+| 780 | 203 | Discovery Point |
+| 781 | 203 | Kristen Rhoads |
+| 782 | 202 | Giddy Clearbuilder |
+| 783 | 202 | Marie Fox |
+| 784 | 202 | Pie-3.14 |
+| 785 | 202 | Michael Meyer |
+| 786 | 202 | Chilly Linebuilder |
+| 787 | 202 | Kendra Powell |
 | 788 | 201 | Donna Taliger Brigante |
 | 789 | 201 | Katie Bell |
-| 790 | 201 | Donna Horoszewski-Dilgen |
-| 791 | 201 | Zany Gridclear |
-| 792 | 200 | Christopher Childress |
+| 790 | 201 | Zany Gridclear |
+| 791 | 201 | Donna Horoszewski-Dilgen |
+| 792 | 200 | Brave Stacky |
 | 793 | 200 | Grady Lynch |
-| 794 | 200 | Brave Stacky |
-| 795 | 199 | Anastasia Lozada |
-| 796 | 199 | Rayshawn Beamer |
-| 797 | 199 | docjp |
-| 798 | 199 | Sarah Hope |
-| 799 | 199 | Johnson Aryonda |
-| 800 | 199 | Ward Leandrea |
+| 794 | 200 | Christopher Childress |
+| 795 | 199 | Johnson Aryonda |
+| 796 | 199 | Sarah Hope |
+| 797 | 199 | Ward Leandrea |
+| 798 | 199 | docjp |
+| 799 | 199 | Rayshawn Beamer |
+| 800 | 199 | Anastasia Lozada |
 | 801 | 198 | Kayla Deaton |
-| 802 | 197 | Lisa Marie |
+| 802 | 197 | Philip Hutson |
 | 803 | 197 | David DeSantis |
-| 804 | 197 | Philip Hutson |
-| 805 | 197 | Cool Towerzone |
-| 806 | 197 | Isodor |
-| 807 | 196 | Dafna Kaplan-Garrahy |
+| 804 | 197 | Cool Towerzone |
+| 805 | 197 | Isodor |
+| 806 | 197 | Lisa Marie |
+| 807 | 196 | Katie Toothman |
 | 808 | 196 | Garcia Bailey |
-| 809 | 196 | Katie Toothman |
-| 810 | 196 | Nicole Little |
-| 811 | 195 | Wendy Welch |
+| 809 | 196 | Nicole Little |
+| 810 | 196 | Dafna Kaplan-Garrahy |
+| 811 | 195 | William Touzin |
 | 812 | 195 | Costa del Sol |
 | 813 | 195 | Poppy Drop |
-| 814 | 195 | William Touzin |
-| 815 | 195 | Slinky Rotater |
-| 816 | 194 | Giggly Brickbuilder |
-| 817 | 194 | Chummy Risebuilder |
-| 818 | 194 | Amanda Grace Agee |
+| 814 | 195 | Slinky Rotater |
+| 815 | 195 | Wendy Welch |
+| 816 | 194 | Chummy Risebuilder |
+| 817 | 194 | Amanda Grace Agee |
+| 818 | 194 | Giggly Brickbuilder |
 | 819 | 194 | Natiera Catrece |
-| 820 | 193 | Amador López Martínez |
-| 821 | 193 | Alyssa Ingram |
+| 820 | 193 | Alyssa Ingram |
+| 821 | 193 | Honey |
 | 822 | 193 | Patience D. Williams |
-| 823 | 193 | Honey |
+| 823 | 193 | Amador López Martínez |
 | 824 | 192 | Latonya McLeroy Smith |
 | 825 | 192 | MayMay Echevarria |
 | 826 | 192 | Frizliz17 |
@@ -1654,32 +1654,32 @@
 | 1646 | 56 | Eric Perry |
 | 1647 | 56 | Terry Aldridge |
 | 1648 | 56 | Duane Ficara |
-| 1649 | 56 | Tinamarie Ann Brown |
-| 1650 | 56 | Spicy Glide |
+| 1649 | 56 | Joy |
+| 1650 | 56 | Tinamarie Ann Brown |
 | 1651 | 56 | Brenda Nurre |
-| 1652 | 56 | GG Water |
-| 1653 | 56 | Eduk8ted Rednek |
-| 1654 | 56 | Hasty Dropmatch |
-| 1655 | 55 | James Brittingham |
-| 1656 | 55 | Brave Linker |
-| 1657 | 55 | Lively Snap |
-| 1658 | 55 | Delia Cheatwood |
-| 1659 | 55 | John Gardner |
-| 1660 | 55 | Brian Crenshaw |
-| 1661 | 55 | Shokron |
-| 1662 | 55 | Spunky Linkpiece |
-| 1663 | 55 | Meranda Varney |
-| 1664 | 55 | KISSARMY80 |
+| 1652 | 56 | Spicy Glide |
+| 1653 | 56 | GG Water |
+| 1654 | 56 | Eduk8ted Rednek |
+| 1655 | 56 | Hasty Dropmatch |
+| 1656 | 55 | KISSARMY80 |
+| 1657 | 55 | Brave Linker |
+| 1658 | 55 | Lively Snap |
+| 1659 | 55 | Delia Cheatwood |
+| 1660 | 55 | John Gardner |
+| 1661 | 55 | Brian Crenshaw |
+| 1662 | 55 | Shokron |
+| 1663 | 55 | Spunky Linkpiece |
+| 1664 | 55 | Meranda Varney |
 | 1665 | 55 | Jolly Riserbuilder |
 | 1666 | 55 | Christopher Johnson |
 | 1667 | 55 | Emma Hughes |
-| 1668 | 54 | Fdjhdjnb |
-| 1669 | 54 | Lacey Wilson |
-| 1670 | 54 | Sandara Miley |
-| 1671 | 54 | Janell Gentry |
-| 1672 | 54 | Brittnay Livigne |
-| 1673 | 54 | Fancy Blockfall |
-| 1674 | 54 | Joy |
+| 1668 | 55 | James Brittingham |
+| 1669 | 54 | Fancy Blockfall |
+| 1670 | 54 | Fdjhdjnb |
+| 1671 | 54 | Lacey Wilson |
+| 1672 | 54 | Sandara Miley |
+| 1673 | 54 | Janell Gentry |
+| 1674 | 54 | Brittnay Livigne |
 | 1675 | 54 | Ta'tiayna Saunders |
 | 1676 | 53 | Jason Andrews |
 | 1677 | 53 | Fancy Zone |
