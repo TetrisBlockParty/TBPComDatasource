@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 10:43:22 UTC
+# Standings for team1 as of 2026-02-25 10:44:21 UTC
 
 **Total Participants:** 2454
 
@@ -16,7 +16,7 @@
 | 8 | 5555 | Jessica Rabon |
 | 9 | 5425 | Christina Costantino |
 | 10 | 5323 | Fancy Shuffler |
-| 11 | 5256 | Heidi Feurer |
+| 11 | 5276 | Heidi Feurer |
 | 12 | 5067 | Todd Welch |
 | 13 | 4982 | Wei Ching Fang |
 | 14 | 4878 | COOL as Icer |
@@ -42,8 +42,8 @@
 | 34 | 1814 | Roger Aschbrenner |
 | 35 | 1808 | Rahna Underwood |
 | 36 | 1804 | Christina Graham |
-| 37 | 1784 | Brenda Stewart |
-| 38 | 1782 | Adrian Esteban |
+| 37 | 1785 | Adrian Esteban |
+| 38 | 1784 | Brenda Stewart |
 | 39 | 1776 | Lola Adkhambekovna |
 | 40 | 1707 | Marianne Louise West |
 | 41 | 1701 | Tyler Whitley |
@@ -56,9 +56,9 @@
 | 48 | 1587 | june october |
 | 49 | 1573 | Michelle Nicole |
 | 50 | 1568 | Chipper Gridlock |
-| 51 | 1527 | Ashley Elizabeth |
-| 52 | 1524 | Cynthia Bradley |
-| 53 | 1508 | And |
+| 51 | 1533 | And |
+| 52 | 1527 | Ashley Elizabeth |
+| 53 | 1524 | Cynthia Bradley |
 | 54 | 1506 | Tyler Alcock |
 | 55 | 1503 | Kristi Johnson |
 | 56 | 1492 | Spunky Piecebuilder |
@@ -318,7 +318,7 @@
 | 310 | 432 | Keith Mathis |
 | 311 | 431 | Tipsy Strikerpiece |
 | 312 | 431 | Kimberly Davis |
-| 313 | 426 | Shan Rock |
+| 313 | 427 | Shan Rock |
 | 314 | 424 | Speedy Snapfall |
 | 315 | 424 | Plucky Stacky |
 | 316 | 423 | whocares |
@@ -963,13 +963,13 @@
 | 955 | 159 | Cozy Cascader |
 | 956 | 159 | Vicky Shull |
 | 957 | 159 | Sunny Column |
-| 958 | 158 | Hungsolo9 |
-| 959 | 158 | Roxy Cohen-Skalli |
-| 960 | 158 | Cree |
-| 961 | 158 | Margaret Rose |
-| 962 | 158 | Rockin Red |
-| 963 | 157 | Crystal Raffaele |
-| 964 | 157 | Garry Myers |
+| 958 | 159 | Garry Myers |
+| 959 | 158 | Hungsolo9 |
+| 960 | 158 | Roxy Cohen-Skalli |
+| 961 | 158 | Cree |
+| 962 | 158 | Margaret Rose |
+| 963 | 158 | Rockin Red |
+| 964 | 157 | Crystal Raffaele |
 | 965 | 157 | Brynn Elizabeth |
 | 966 | 156 | Tammy Autry |
 | 967 | 156 | Trisha Stiglet |
