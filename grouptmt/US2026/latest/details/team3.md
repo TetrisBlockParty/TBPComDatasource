@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-25 08:54:43 UTC
+# Standings for team3 as of 2026-02-25 08:55:23 UTC
 
 **Total Participants:** 3667
 
@@ -12,7 +12,7 @@
 | 4 | 14437 | Amy Dial Brown |
 | 5 | 10131 | Jackie's Soblessed |
 | 6 | 9159 | Ange Ptaszynski |
-| 7 | 8631 | Beverly Young |
+| 7 | 8641 | Beverly Young |
 | 8 | 8429 | Laurie Allen |
 | 9 | 7658 | Poppy Dashfit |
 | 10 | 6679 | Lauren d |
@@ -1068,21 +1068,21 @@
 | 1060 | 233 | Crystal Weaver |
 | 1061 | 233 | Groovy Stackzone |
 | 1062 | 233 | Happy Clear |
-| 1063 | 233 | Amanda Faye |
-| 1064 | 232 | Milly Rivera |
-| 1065 | 232 | Sunny Tiltgrid |
-| 1066 | 231 | Heyska |
-| 1067 | 231 | Jessica Rose-Morgan |
-| 1068 | 231 | Josh Ellsworth |
-| 1069 | 231 | Rachelle-Marshall Foreman |
-| 1070 | 231 | Felipe Suzanne Diaz |
-| 1071 | 230 | Melissa Sisk |
-| 1072 | 230 | Tamara Hagen |
-| 1073 | 230 | Jana Fagg |
-| 1074 | 230 | Kodi Smith |
-| 1075 | 230 | Ricky Arcanos |
-| 1076 | 230 | Laura Rose Provenzano |
-| 1077 | 230 | Marketa McClaster |
+| 1063 | 233 | Marketa McClaster |
+| 1064 | 233 | Amanda Faye |
+| 1065 | 232 | Milly Rivera |
+| 1066 | 232 | Sunny Tiltgrid |
+| 1067 | 231 | Heyska |
+| 1068 | 231 | Jessica Rose-Morgan |
+| 1069 | 231 | Josh Ellsworth |
+| 1070 | 231 | Rachelle-Marshall Foreman |
+| 1071 | 231 | Felipe Suzanne Diaz |
+| 1072 | 230 | Melissa Sisk |
+| 1073 | 230 | Tamara Hagen |
+| 1074 | 230 | Jana Fagg |
+| 1075 | 230 | Kodi Smith |
+| 1076 | 230 | Ricky Arcanos |
+| 1077 | 230 | Laura Rose Provenzano |
 | 1078 | 229 | TazB |
 | 1079 | 229 | Slick Sally |
 | 1080 | 229 | Traci Hagerman |

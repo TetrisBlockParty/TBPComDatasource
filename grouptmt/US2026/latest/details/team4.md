@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 08:54:43 UTC
+# Standings for team4 as of 2026-02-25 08:55:23 UTC
 
 **Total Participants:** 2185
 
@@ -192,17 +192,17 @@
 | 184 | 634 | JPW |
 | 185 | 633 | YoMomma |
 | 186 | 632 | Melvin Baird |
-| 187 | 624 | Matt Summer |
-| 188 | 624 | Circuit8 |
+| 187 | 624 | Circuit8 |
+| 188 | 624 | Matt Summer |
 | 189 | 623 | ku5hkween |
 | 190 | 619 | Adrian Pawlusinski |
 | 191 | 618 | Rico |
 | 192 | 618 | Ren Mc |
 | 193 | 612 | Autumn Kumzi |
-| 194 | 610 | blasterB |
-| 195 | 610 | Christina Black |
-| 196 | 609 | Jade Rian |
-| 197 | 609 | Andy Cabral |
+| 194 | 610 | Andy Cabral |
+| 195 | 610 | blasterB |
+| 196 | 610 | Christina Black |
+| 197 | 609 | Jade Rian |
 | 198 | 608 | Alan George LaRage |
 | 199 | 607 | Genne Scott |
 | 200 | 607 | Cool Towerbuilder |
@@ -211,8 +211,8 @@
 | 203 | 598 | Mimi |
 | 204 | 596 | Carly Alexis |
 | 205 | 595 | Andria Lynn |
-| 206 | 592 | meowmew |
-| 207 | 592 | Kristin Manee |
+| 206 | 592 | Kristin Manee |
+| 207 | 592 | meowmew |
 | 208 | 590 | Carlton Unfiltered |
 | 209 | 589 | Jessica Bohlken |
 | 210 | 586 | Manny1 |
@@ -1199,8 +1199,8 @@
 | 1191 | 97 | Jessalyn Jordan Davis |
 | 1192 | 97 | Chilly Matchpiece |
 | 1193 | 97 | Bubbly Crawler |
-| 1194 | 97 | Giggy Bridgepiece |
-| 1195 | 96 | Chirpy Balancer |
+| 1194 | 97 | Chirpy Balancer |
+| 1195 | 97 | Giggy Bridgepiece |
 | 1196 | 96 | Joshua A Bea |
 | 1197 | 96 | Mark Morgan |
 | 1198 | 96 | Rita Loucks |
