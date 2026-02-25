@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-25 17:20:22 UTC
+# Standings for team3 as of 2026-02-25 17:21:25 UTC
 
 **Total Participants:** 3732
 
@@ -180,9 +180,9 @@
 | 172 | 1063 | Giddy Drop |
 | 173 | 1056 | Edwin Calvillo Jr. |
 | 174 | 1053 | Dana Winters |
-| 175 | 1039 | MissTaylor |
-| 176 | 1038 | Mandy Smith Oldham |
-| 177 | 1032 | Sherryl McNay |
+| 175 | 1043 | Sherryl McNay |
+| 176 | 1039 | MissTaylor |
+| 177 | 1038 | Mandy Smith Oldham |
 | 178 | 1030 | Sarajane Lokan |
 | 179 | 1029 | Angella Lyons |
 | 180 | 1023 | Brenda Lee Vander Molen |
@@ -280,20 +280,20 @@
 | 272 | 743 | lashanda |
 | 273 | 742 | Jennifer Lynn Fahrenholtz-Summers |
 | 274 | 740 | Briana Wellman |
-| 275 | 732 | Brian Battjes |
-| 276 | 728 | Justin Parker |
-| 277 | 727 | Michael Johnson |
-| 278 | 727 | Cheryl Hinch Tenbrook |
+| 275 | 737 | Cheryl Hinch Tenbrook |
+| 276 | 732 | Brian Battjes |
+| 277 | 728 | Justin Parker |
+| 278 | 727 | Michael Johnson |
 | 279 | 726 | Chris Bell |
 | 280 | 722 | Bmo |
 | 281 | 720 | Donna |
 | 282 | 720 | FuzzyNavel |
 | 283 | 717 | Christine Niles |
-| 284 | 711 | Marci Mize Fandrich |
-| 285 | 711 | France Vézina |
-| 286 | 707 | TLM |
-| 287 | 704 | Makelini Mausia |
-| 288 | 703 | Noyb Adam |
+| 284 | 712 | Noyb Adam |
+| 285 | 711 | Marci Mize Fandrich |
+| 286 | 711 | France Vézina |
+| 287 | 707 | TLM |
+| 288 | 704 | Makelini Mausia |
 | 289 | 703 | Rachael McClain Owens |
 | 290 | 700 | Sherry Ogden |
 | 291 | 699 | Giggy Glidepiece |
@@ -372,8 +372,8 @@
 | 364 | 583 | Jul |
 | 365 | 582 | Sabrina Hardrick |
 | 366 | 579 | Steffi Chris Dacones |
-| 367 | 573 | NeeCee |
-| 368 | 569 | kacihall |
+| 367 | 577 | kacihall |
+| 368 | 573 | NeeCee |
 | 369 | 569 | BugMansMom |
 | 370 | 568 | Carrie Resler |
 | 371 | 568 | Angel Miller |
@@ -405,10 +405,10 @@
 | 397 | 533 | Paul Larsen |
 | 398 | 533 | Antonia Russell |
 | 399 | 532 | Taylor |
-| 400 | 530 | Eboni Starr |
-| 401 | 530 | Blocked |
-| 402 | 528 | Jojo M |
-| 403 | 528 | Breanna Marsden |
+| 400 | 531 | Breanna Marsden |
+| 401 | 530 | Eboni Starr |
+| 402 | 530 | Blocked |
+| 403 | 528 | Jojo M |
 | 404 | 526 | LaNette Morgan |
 | 405 | 523 | Christina Rotz Shows |
 | 406 | 521 | Isabel Ocasio |
@@ -1012,19 +1012,19 @@
 | 1004 | 262 | Anthony Jackson |
 | 1005 | 262 | David Kozen |
 | 1006 | 262 | Tiki |
-| 1007 | 261 | monied |
-| 1008 | 261 | Rebecca Daniels |
-| 1009 | 261 | Kristi Ragle |
-| 1010 | 261 | Anastacia Rendek |
+| 1007 | 262 | Anastacia Rendek |
+| 1008 | 261 | monied |
+| 1009 | 261 | Rebecca Daniels |
+| 1010 | 261 | Kristi Ragle |
 | 1011 | 261 | Snazzy Strikerbuilder |
 | 1012 | 261 | Rebecca Lynn |
-| 1013 | 260 | Brii Skii |
-| 1014 | 260 | Mandy |
-| 1015 | 260 | Twisty Pivoty |
-| 1016 | 259 | Krystal Kampagnola |
-| 1017 | 259 | Snappy Snapgrid |
-| 1018 | 259 | Jae Grisham |
-| 1019 | 259 | MK Slay |
+| 1013 | 260 | Twisty Pivoty |
+| 1014 | 260 | Brii Skii |
+| 1015 | 260 | Mandy |
+| 1016 | 259 | Snappy Snapgrid |
+| 1017 | 259 | MK Slay |
+| 1018 | 259 | Krystal Kampagnola |
+| 1019 | 259 | Jae Grisham |
 | 1020 | 259 | BingoStarr |
 | 1021 | 258 | MDJM |
 | 1022 | 258 | Amber Reeves-Buchanan |
@@ -1034,18 +1034,18 @@
 | 1026 | 257 | Bethany Baughman |
 | 1027 | 256 | Spunky Racker |
 | 1028 | 256 | Jared Craddox |
-| 1029 | 256 | Kelly Koenig |
-| 1030 | 256 | Melanie Sherwood |
+| 1029 | 256 | Melanie Sherwood |
+| 1030 | 256 | Kelly Koenig |
 | 1031 | 256 | get et |
-| 1032 | 254 | Anthony Lewis |
-| 1033 | 254 | Amber Eby |
-| 1034 | 254 | Rachelle-Marshall Foreman |
+| 1032 | 254 | Amber Eby |
+| 1033 | 254 | Anthony Lewis |
+| 1034 | 254 | Giddy Basepiece |
 | 1035 | 254 | Landycandii |
-| 1036 | 254 | Giddy Basepiece |
-| 1037 | 254 | Tammy Sue Drake |
+| 1036 | 254 | Tammy Sue Drake |
+| 1037 | 254 | Rachelle-Marshall Foreman |
 | 1038 | 253 | Ruchi Smit |
-| 1039 | 253 | Ashley Lindeland |
-| 1040 | 253 | Coleena Kent Nicholson |
+| 1039 | 253 | Coleena Kent Nicholson |
+| 1040 | 253 | Ashley Lindeland |
 | 1041 | 253 | Lindsay Stipancic |
 | 1042 | 253 | Schmoo Cat |
 | 1043 | 253 | Angie King |
@@ -1053,10 +1053,10 @@
 | 1045 | 252 | Sara McDaniel |
 | 1046 | 252 | Meleray Wheeler |
 | 1047 | 251 | Donna S. Greene-Brathwaite |
-| 1048 | 250 | Heather Hymes |
-| 1049 | 250 | Amber Baker |
-| 1050 | 250 | Marcus Payton |
-| 1051 | 250 | Randi Snyder |
+| 1048 | 250 | Amber Baker |
+| 1049 | 250 | Randi Snyder |
+| 1050 | 250 | Heather Hymes |
+| 1051 | 250 | Marcus Payton |
 | 1052 | 250 | Frothy Gridzone |
 | 1053 | 249 | Hanul |
 | 1054 | 249 | Coolata |
@@ -1662,27 +1662,27 @@
 | 1654 | 146 | tee |
 | 1655 | 146 | sapphomet |
 | 1656 | 146 | Oliver Neal II |
-| 1657 | 145 | Jennifer Kahler |
-| 1658 | 145 | Nanedo |
-| 1659 | 145 | Fancy Stackzone |
-| 1660 | 145 | Daltin Matthews |
-| 1661 | 145 | Liss630 |
-| 1662 | 145 | Susan Ray Lewis |
-| 1663 | 145 | Lanette Mayfield |
-| 1664 | 145 | Brittney Crenshaw |
-| 1665 | 144 | Taylor Elizabeth |
-| 1666 | 144 | HippieMomma |
-| 1667 | 144 | Silly Cascadezone |
-| 1668 | 144 | Cheeky Dashy |
-| 1669 | 144 | Hyper Shatterbuilder |
-| 1670 | 144 | GammerNerd |
-| 1671 | 144 | jlamp21 |
-| 1672 | 144 | Dave Watras |
-| 1673 | 144 | Rlou Archer |
-| 1674 | 144 | Karla Koicuba |
-| 1675 | 144 | Kayla Rae Lane |
-| 1676 | 144 | Marie Thomas |
-| 1677 | 143 | Tabatha Eskridge |
+| 1657 | 145 | Tabatha Eskridge |
+| 1658 | 145 | Jennifer Kahler |
+| 1659 | 145 | Nanedo |
+| 1660 | 145 | Fancy Stackzone |
+| 1661 | 145 | Daltin Matthews |
+| 1662 | 145 | Liss630 |
+| 1663 | 145 | Susan Ray Lewis |
+| 1664 | 145 | Lanette Mayfield |
+| 1665 | 145 | Brittney Crenshaw |
+| 1666 | 144 | Taylor Elizabeth |
+| 1667 | 144 | HippieMomma |
+| 1668 | 144 | Silly Cascadezone |
+| 1669 | 144 | Cheeky Dashy |
+| 1670 | 144 | Hyper Shatterbuilder |
+| 1671 | 144 | GammerNerd |
+| 1672 | 144 | jlamp21 |
+| 1673 | 144 | Dave Watras |
+| 1674 | 144 | Rlou Archer |
+| 1675 | 144 | Karla Koicuba |
+| 1676 | 144 | Kayla Rae Lane |
+| 1677 | 144 | Marie Thomas |
 | 1678 | 143 | Linda Rochelle Huff |
 | 1679 | 143 | Cynthia Alanis |
 | 1680 | 143 | Sassy Riserfit |
@@ -1870,33 +1870,33 @@
 | 1862 | 118 | Nutty Blast |
 | 1863 | 118 | Damian Reid |
 | 1864 | 118 | Sarah Katelyn Dembeck |
-| 1865 | 118 | Speedy Linefit |
-| 1866 | 118 | Dreamy Tiltpiece |
+| 1865 | 118 | Wacky Caster |
+| 1866 | 118 | Speedy Linefit |
 | 1867 | 118 | Amanda Smith |
-| 1868 | 118 | PerkyCascade |
-| 1869 | 117 | madtime |
+| 1868 | 118 | Dreamy Tiltpiece |
+| 1869 | 118 | PerkyCascade |
 | 1870 | 117 | Yiye Cao |
-| 1871 | 117 | mrstlh |
-| 1872 | 117 | Joe Napier |
-| 1873 | 117 | Morgan Cox |
+| 1871 | 117 | madtime |
+| 1872 | 117 | mrstlh |
+| 1873 | 117 | Joe Napier |
 | 1874 | 117 | Shatori Tori Bailey |
 | 1875 | 117 | Keil D. Rumble |
-| 1876 | 116 | Rabecca Rangel |
+| 1876 | 117 | Morgan Cox |
 | 1877 | 116 | shez |
-| 1878 | 116 | WhyYaFEETstank? |
-| 1879 | 116 | Dapper Towerfit |
-| 1880 | 116 | Shanae Taylor |
-| 1881 | 116 | skeeterbat |
-| 1882 | 115 | Amy Daugherty |
-| 1883 | 115 | Jolly Wipegrid |
-| 1884 | 115 | Josh Zenger |
-| 1885 | 115 | Beanrr |
-| 1886 | 115 | Jessica Mosman |
-| 1887 | 115 | JennAgain |
-| 1888 | 115 | Flashy Fallzone |
-| 1889 | 115 | iplay2much |
-| 1890 | 115 | Ashley Clark |
-| 1891 | 115 | Wacky Caster |
+| 1878 | 116 | Rabecca Rangel |
+| 1879 | 116 | WhyYaFEETstank? |
+| 1880 | 116 | Dapper Towerfit |
+| 1881 | 116 | Shanae Taylor |
+| 1882 | 116 | skeeterbat |
+| 1883 | 115 | Amy Daugherty |
+| 1884 | 115 | Jolly Wipegrid |
+| 1885 | 115 | Josh Zenger |
+| 1886 | 115 | Beanrr |
+| 1887 | 115 | Jessica Mosman |
+| 1888 | 115 | JennAgain |
+| 1889 | 115 | Flashy Fallzone |
+| 1890 | 115 | iplay2much |
+| 1891 | 115 | Ashley Clark |
 | 1892 | 115 | Tyeshia Scott-Cardona |
 | 1893 | 114 | Cindy McCale |
 | 1894 | 114 | AriesRam415 |
@@ -2062,9 +2062,9 @@
 | 2054 | 96 | Dana Hicks |
 | 2055 | 96 | Michelle Kelly |
 | 2056 | 96 | Carrie Brister |
-| 2057 | 96 | Lush Brickfit |
-| 2058 | 96 | Lisa Bolar |
-| 2059 | 95 | Casey Gates |
+| 2057 | 96 | Casey Gates |
+| 2058 | 96 | Lush Brickfit |
+| 2059 | 96 | Lisa Bolar |
 | 2060 | 95 | Peachy Curvetile |
 | 2061 | 95 | Gene Garrett |
 | 2062 | 95 | Isabelle Hall-Burns |
