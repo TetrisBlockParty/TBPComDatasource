@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 09:02:43 UTC
+# Standings for team4 as of 2026-02-25 09:03:22 UTC
 
 **Total Participants:** 2186
 
@@ -199,8 +199,8 @@
 | 191 | 618 | Rico |
 | 192 | 618 | Ren Mc |
 | 193 | 612 | Autumn Kumzi |
-| 194 | 610 | blasterB |
-| 195 | 610 | Andy Cabral |
+| 194 | 611 | Andy Cabral |
+| 195 | 610 | blasterB |
 | 196 | 610 | Christina Black |
 | 197 | 609 | Jade Rian |
 | 198 | 608 | Alan George LaRage |
@@ -510,23 +510,23 @@
 | 502 | 295 | Yanais Fernandez |
 | 503 | 295 | Stacy Jones |
 | 504 | 294 | BootsMcGee |
-| 505 | 294 | Jeff Roberts |
-| 506 | 294 | Ryry |
-| 507 | 293 | Hector Duran |
-| 508 | 293 | Robert Bolden |
-| 509 | 292 | Epic Curvetile |
-| 510 | 289 | GBR |
-| 511 | 288 | Sticherella |
-| 512 | 287 | Kelly Adams Carnahan |
-| 513 | 287 | Ziggy |
-| 514 | 286 | Sam Middleton |
-| 515 | 286 | Daring Pivot |
-| 516 | 286 | Brandi Durig |
-| 517 | 285 | Thomas Hettenhaus |
-| 518 | 285 | Lisa Bush |
-| 519 | 285 | Elizabeth Tinoco |
-| 520 | 284 | Speedy Swipe |
-| 521 | 284 | Oleg Zakharskiy |
+| 505 | 294 | Oleg Zakharskiy |
+| 506 | 294 | Jeff Roberts |
+| 507 | 294 | Ryry |
+| 508 | 293 | Hector Duran |
+| 509 | 293 | Robert Bolden |
+| 510 | 292 | Epic Curvetile |
+| 511 | 289 | GBR |
+| 512 | 288 | Sticherella |
+| 513 | 287 | Kelly Adams Carnahan |
+| 514 | 287 | Ziggy |
+| 515 | 286 | Sam Middleton |
+| 516 | 286 | Daring Pivot |
+| 517 | 286 | Brandi Durig |
+| 518 | 285 | Thomas Hettenhaus |
+| 519 | 285 | Lisa Bush |
+| 520 | 285 | Elizabeth Tinoco |
+| 521 | 284 | Speedy Swipe |
 | 522 | 284 | Jose Dejesus |
 | 523 | 283 | GTxIrishman |
 | 524 | 283 | Chilly Matcher |
