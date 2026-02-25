@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 11:46:22 UTC
+# Standings for team1 as of 2026-02-25 11:47:22 UTC
 
 **Total Participants:** 2461
 
@@ -31,7 +31,7 @@
 | 23 | 2441 | Felicia Lewis |
 | 24 | 2439 | Amanda Summey Schoemer |
 | 25 | 2364 | Derek MF Blakey |
-| 26 | 2229 | Amanda Jarnagin |
+| 26 | 2231 | Amanda Jarnagin |
 | 27 | 2209 | Carolyn Smith |
 | 28 | 2096 | Jorge Andrade |
 | 29 | 2045 | Jennifer Cates |
@@ -96,7 +96,7 @@
 | 88 | 1114 | Jayme Sellers |
 | 89 | 1105 | Cheeky Crusher |
 | 90 | 1103 | Erin Hodges Plumb |
-| 91 | 1090 | Dee Perry |
+| 91 | 1095 | Dee Perry |
 | 92 | 1071 | Phu ckalldems |
 | 93 | 1066 | Dawn Sheppard |
 | 94 | 1042 | Zippy Align |
@@ -1037,11 +1037,11 @@
 | 1029 | 143 | Kristi Kinard |
 | 1030 | 143 | Jacob Shaddock |
 | 1031 | 143 | Sheay |
-| 1032 | 143 | Unicorn |
-| 1033 | 143 | Mike Hobby |
-| 1034 | 142 | Spicy Brickline |
+| 1032 | 143 | Mike Hobby |
+| 1033 | 143 | Unicorn |
+| 1034 | 142 | Nick |
 | 1035 | 142 | Riley Chance |
-| 1036 | 142 | Nick |
+| 1036 | 142 | Spicy Brickline |
 | 1037 | 141 | Vahid Khaleghi |
 | 1038 | 141 | Christy Allen |
 | 1039 | 141 | Larry Fritzinger |
@@ -1054,44 +1054,44 @@
 | 1046 | 139 | Connie Balentine |
 | 1047 | 139 | Tom Jaramillo |
 | 1048 | 139 | Giggy Stacky |
-| 1049 | 139 | Frisky Framezone |
+| 1049 | 139 | Chummy Spinzone |
 | 1050 | 139 | Nykia Smith |
-| 1051 | 139 | Chummy Spinzone |
-| 1052 | 138 | Shanna Outen |
-| 1053 | 138 | Mauricio Reyes |
-| 1054 | 138 | Dchielle |
-| 1055 | 138 | SophieG |
-| 1056 | 138 | Mar |
-| 1057 | 137 | Roselyn Gomez |
+| 1051 | 139 | Frisky Framezone |
+| 1052 | 138 | Dchielle |
+| 1053 | 138 | SophieG |
+| 1054 | 138 | Mauricio Reyes |
+| 1055 | 138 | Mar |
+| 1056 | 138 | Shanna Outen |
+| 1057 | 137 | David Bourne |
 | 1058 | 137 | Boog |
-| 1059 | 137 | David Bourne |
-| 1060 | 137 | Nellie Cummings |
+| 1059 | 137 | Matthew Vd |
+| 1060 | 137 | Zappy Cluster |
 | 1061 | 137 | Kalesha Tteirrah |
-| 1062 | 137 | Zappy Cluster |
-| 1063 | 137 | Matthew Vd |
-| 1064 | 136 | Susan Walser Osborne |
-| 1065 | 136 | Jennifer Chilton-Metlock |
-| 1066 | 136 | Swanky Crasher |
-| 1067 | 136 | Adam Charles |
-| 1068 | 136 | Dreamy Basepiece |
-| 1069 | 135 | Bye Love |
+| 1062 | 137 | Nellie Cummings |
+| 1063 | 137 | Roselyn Gomez |
+| 1064 | 136 | Jennifer Chilton-Metlock |
+| 1065 | 136 | Swanky Crasher |
+| 1066 | 136 | Susan Walser Osborne |
+| 1067 | 136 | Dreamy Basepiece |
+| 1068 | 136 | Adam Charles |
+| 1069 | 136 | Lashá Calloway |
 | 1070 | 135 | Sean McErlane |
-| 1071 | 135 | Thia Gibson |
-| 1072 | 134 | Brahim Amara |
-| 1073 | 134 | Chilly Matchbuilder |
-| 1074 | 134 | Mighty Basegrid |
-| 1075 | 134 | Angela Rena Brooks |
-| 1076 | 134 | MagaMan |
-| 1077 | 134 | Lashá Calloway |
-| 1078 | 134 | Charlie Charlie |
-| 1079 | 133 | Josh Gould |
-| 1080 | 133 | Rita Sunshyne |
-| 1081 | 133 | Heather Duncan Peer |
-| 1082 | 133 | Daring Wiper |
-| 1083 | 133 | Jason Chabot |
-| 1084 | 132 | Duanew |
-| 1085 | 132 | Amber Rochelle |
-| 1086 | 132 | Michael Butler |
+| 1071 | 135 | Bye Love |
+| 1072 | 135 | Thia Gibson |
+| 1073 | 134 | Michael Butler |
+| 1074 | 134 | Charlie Charlie |
+| 1075 | 134 | MagaMan |
+| 1076 | 134 | Angela Rena Brooks |
+| 1077 | 134 | Brahim Amara |
+| 1078 | 134 | Chilly Matchbuilder |
+| 1079 | 134 | Mighty Basegrid |
+| 1080 | 133 | Josh Gould |
+| 1081 | 133 | Rita Sunshyne |
+| 1082 | 133 | Heather Duncan Peer |
+| 1083 | 133 | Daring Wiper |
+| 1084 | 133 | Jason Chabot |
+| 1085 | 132 | Duanew |
+| 1086 | 132 | Amber Rochelle |
 | 1087 | 132 | Jessica Hopkins |
 | 1088 | 132 | Tofy |
 | 1089 | 132 | Kevin Cook |

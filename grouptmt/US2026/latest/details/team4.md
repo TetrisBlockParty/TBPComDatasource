@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 11:46:22 UTC
+# Standings for team4 as of 2026-02-25 11:47:22 UTC
 
 **Total Participants:** 2201
 
@@ -83,10 +83,10 @@
 | 75 | 1190 | Marvin Lou Martin |
 | 76 | 1179 | Avy Absol |
 | 77 | 1175 | Kimyatta Cavin |
-| 78 | 1160 | SAP |
-| 79 | 1154 | TeeJ |
-| 80 | 1148 | Carolyn Wallace |
-| 81 | 1143 | Jewell Urban |
+| 78 | 1173 | Jewell Urban |
+| 79 | 1160 | SAP |
+| 80 | 1154 | TeeJ |
+| 81 | 1148 | Carolyn Wallace |
 | 82 | 1140 | Guy Incognito |
 | 83 | 1128 | Patron Anderson |
 | 84 | 1121 | BertMofo |
@@ -267,8 +267,8 @@
 | 259 | 512 | Michele Plunkett |
 | 260 | 512 | Casey Jeffcoat |
 | 261 | 508 | Chao Ma |
-| 262 | 505 | Brickh4us |
-| 263 | 505 | Jason Gibbs |
+| 262 | 507 | Jason Gibbs |
+| 263 | 505 | Brickh4us |
 | 264 | 505 | Jen Mattei |
 | 265 | 504 | Deanna Deckard |
 | 266 | 503 | Zethra Prenisha Rahming |
@@ -323,8 +323,8 @@
 | 315 | 436 | Perky Piecegrid |
 | 316 | 436 | Nig |
 | 317 | 435 | Cool Gridzone |
-| 318 | 434 | Ramel Rhodes |
-| 319 | 434 | Tina Lopez |
+| 318 | 434 | Tina Lopez |
+| 319 | 434 | Ramel Rhodes |
 | 320 | 434 | Maria Hammie |
 | 321 | 433 | Kate |
 | 322 | 432 | KayM |
@@ -336,8 +336,8 @@
 | 328 | 425 | Christine Simmons |
 | 329 | 425 | Googenheim |
 | 330 | 424 | Metsfan |
-| 331 | 422 | Jess Reyes |
-| 332 | 422 | Ultramarine |
+| 331 | 422 | Ultramarine |
+| 332 | 422 | Jess Reyes |
 | 333 | 421 | JIGsaw ~(•¿°)~ |
 | 334 | 421 | Jason Bosco |
 | 335 | 419 | Nubian1 |
@@ -351,29 +351,29 @@
 | 343 | 414 | Michelle Morris |
 | 344 | 413 | Daria Rycewicz |
 | 345 | 411 | Snippy Puzzle |
-| 346 | 411 | Stella |
-| 347 | 411 | Sue Joyce Staats |
+| 346 | 411 | Sue Joyce Staats |
+| 347 | 411 | Stella |
 | 348 | 410 | Frances Hui |
 | 349 | 409 | Dustin York |
-| 350 | 408 | Kris Bartlett |
-| 351 | 408 | BigSammy420 |
+| 350 | 408 | BigSammy420 |
+| 351 | 408 | Kris Bartlett |
 | 352 | 407 | Eri Kka |
 | 353 | 407 | Madison Sweere |
 | 354 | 405 | ZeeZee |
 | 355 | 402 | Richard-April Kice |
 | 356 | 401 | AyeKay |
 | 357 | 400 | Heather Bruce |
-| 358 | 400 | Juls |
-| 359 | 400 | @ |
+| 358 | 400 | @ |
+| 359 | 400 | Juls |
 | 360 | 399 | Shukee Lo |
 | 361 | 397 | James Philpot Ross |
 | 362 | 394 | Perky Patternblock |
 | 363 | 393 | Amy Sanford |
 | 364 | 393 | Bryan Hodgins |
-| 365 | 392 | tipsy tiger |
-| 366 | 392 | Angie Schmidt |
-| 367 | 392 | Sarah Hoffman |
-| 368 | 392 | Mary Ann Pabukis |
+| 365 | 392 | Sarah Hoffman |
+| 366 | 392 | Mary Ann Pabukis |
+| 367 | 392 | tipsy tiger |
+| 368 | 392 | Angie Schmidt |
 | 369 | 391 | Amanda Maciel Clarke |
 | 370 | 391 | Jenna McGeorge |
 | 371 | 391 | Matt Dell'Olio |
@@ -386,12 +386,12 @@
 | 378 | 383 | Glitzy Corner |
 | 379 | 383 | Duck |
 | 380 | 381 | Kevin Bush |
-| 381 | 381 | Paito |
-| 382 | 381 | Alexandra Karavias |
+| 381 | 381 | Alexandra Karavias |
+| 382 | 381 | Paito |
 | 383 | 381 | Marcus TheeyoungWoe Gilmore |
 | 384 | 380 | Amy Jean |
-| 385 | 379 | Kristi Trafton |
-| 386 | 379 | Jackie Clark |
+| 385 | 379 | Jackie Clark |
+| 386 | 379 | Kristi Trafton |
 | 387 | 378 | Sho Nuff |
 | 388 | 378 | Groovy Shiftspin |
 | 389 | 378 | Jay You |
@@ -403,41 +403,41 @@
 | 395 | 370 | HastyGrabber |
 | 396 | 369 | Jake Roberts |
 | 397 | 368 | Sarah Brown |
-| 398 | 367 | Tony Pavelka |
-| 399 | 367 | Meg |
+| 398 | 367 | Meg |
+| 399 | 367 | Tony Pavelka |
 | 400 | 366 | SHL |
-| 401 | 365 | Susan Williams |
-| 402 | 365 | Groovy Gridlock |
+| 401 | 366 | Neil Ingham |
+| 402 | 365 | Susan Williams |
 | 403 | 365 | Tyler Bechtel |
-| 404 | 364 | Shh |
-| 405 | 361 | ImJustMe |
-| 406 | 361 | Eminem |
-| 407 | 361 | Chummy Towerzone |
-| 408 | 359 | Jumpy Zonepiece |
-| 409 | 359 | Allen Lloyd |
-| 410 | 359 | ThriftySpice |
-| 411 | 359 | Raymond Roberts |
-| 412 | 356 | Val Erie |
-| 413 | 356 | Lane Wasson |
+| 404 | 365 | Groovy Gridlock |
+| 405 | 364 | Shh |
+| 406 | 361 | ImJustMe |
+| 407 | 361 | Eminem |
+| 408 | 361 | Chummy Towerzone |
+| 409 | 359 | Jumpy Zonepiece |
+| 410 | 359 | Allen Lloyd |
+| 411 | 359 | ThriftySpice |
+| 412 | 359 | Raymond Roberts |
+| 413 | 356 | Val Erie |
 | 414 | 356 | Paige Kittles |
-| 415 | 352 | Jared Gutwein |
-| 416 | 349 | Candice Carasiti |
-| 417 | 349 | jim |
-| 418 | 346 | Tabitha Calvin |
-| 419 | 346 | Laurel Coppess |
-| 420 | 345 | Zippy Tilt |
-| 421 | 344 | Chance Strickland |
-| 422 | 342 | Kim Klutz Olson |
-| 423 | 341 | KoolMom9907 |
-| 424 | 341 | Walter Beltran |
-| 425 | 340 | Carter Jones |
+| 415 | 356 | Lane Wasson |
+| 416 | 352 | Jared Gutwein |
+| 417 | 349 | Candice Carasiti |
+| 418 | 349 | jim |
+| 419 | 346 | Tabitha Calvin |
+| 420 | 346 | Laurel Coppess |
+| 421 | 345 | Zippy Tilt |
+| 422 | 344 | Chance Strickland |
+| 423 | 342 | Kim Klutz Olson |
+| 424 | 341 | KoolMom9907 |
+| 425 | 341 | Walter Beltran |
 | 426 | 340 | Shiny Pivoty |
-| 427 | 339 | River Shady Sr. |
-| 428 | 338 | Jenny Wells-Oakley |
-| 429 | 337 | Neil Ingham |
-| 430 | 336 | Michael Orris |
-| 431 | 336 | Laura McPheeters |
-| 432 | 336 | Penny Dean |
+| 427 | 340 | Carter Jones |
+| 428 | 339 | River Shady Sr. |
+| 429 | 338 | Jenny Wells-Oakley |
+| 430 | 336 | Laura McPheeters |
+| 431 | 336 | Penny Dean |
+| 432 | 336 | Michael Orris |
 | 433 | 335 | Meagan Nicole |
 | 434 | 335 | Bussy Bay |
 | 435 | 334 | Sarah Neathery |
@@ -552,15 +552,15 @@
 | 544 | 276 | Tianna Frey |
 | 545 | 276 | Shirl |
 | 546 | 275 | Diosa Ebalobo Magsael |
-| 547 | 274 | Brooke Kaune |
-| 548 | 274 | Cranky Glidebuilder |
-| 549 | 272 | Amanda Christine |
-| 550 | 272 | Globofish |
-| 551 | 272 | Quirky Dash |
-| 552 | 272 | Noel Christa |
-| 553 | 271 | Rebecca Blake |
-| 554 | 271 | Melissa Priest Sellers |
-| 555 | 271 | Perky Riser |
+| 547 | 275 | Perky Riser |
+| 548 | 274 | Brooke Kaune |
+| 549 | 274 | Cranky Glidebuilder |
+| 550 | 272 | Amanda Christine |
+| 551 | 272 | Globofish |
+| 552 | 272 | Quirky Dash |
+| 553 | 272 | Noel Christa |
+| 554 | 271 | Rebecca Blake |
+| 555 | 271 | Melissa Priest Sellers |
 | 556 | 270 | Degenerate |
 | 557 | 270 | Smiley Shifter |
 | 558 | 270 | Jen Hallin |
