@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 15:31:23 UTC
+# Standings for team1 as of 2026-02-25 15:32:44 UTC
 
 **Total Participants:** 2484
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 11041 | TAZ-MF-NIZIL |
+| 1 | 11044 | TAZ-MF-NIZIL |
 | 2 | 8463 | Felicia Haynes |
 | 3 | 7881 | Zerin Graham |
 | 4 | 7382 | 'Gilberto Martinez' |
@@ -42,7 +42,7 @@
 | 34 | 1959 | Andrea Dañielle Ortiz |
 | 35 | 1860 | Tyler Whitley |
 | 36 | 1856 | Nancy Green |
-| 37 | 1841 | Bhelle Sumile |
+| 37 | 1844 | Bhelle Sumile |
 | 38 | 1808 | Rahna Underwood |
 | 39 | 1804 | Christina Graham |
 | 40 | 1784 | Brenda Stewart |
@@ -92,7 +92,7 @@
 | 84 | 1156 | Redlicious 1 |
 | 85 | 1153 | Robert Beck |
 | 86 | 1140 | Erin Hodges Plumb |
-| 87 | 1137 | Amber Stoker |
+| 87 | 1140 | Amber Stoker |
 | 88 | 1126 | Seante Bullock |
 | 89 | 1123 | Francesca Gee |
 | 90 | 1120 | Dee Perry |
@@ -101,8 +101,8 @@
 | 93 | 1079 | Tee Sheree |
 | 94 | 1075 | Ash Galvan |
 | 95 | 1071 | Phu ckalldems |
-| 96 | 1066 | Dawn Sheppard |
-| 97 | 1049 | MIKOZ |
+| 96 | 1069 | MIKOZ |
+| 97 | 1066 | Dawn Sheppard |
 | 98 | 1049 | Sweet Baker |
 | 99 | 1047 | Zippy Align |
 | 100 | 1032 | Kathi Snustad |
@@ -150,8 +150,8 @@
 | 142 | 802 | Sean Stallings |
 | 143 | 798 | Virginia Gray Floyd |
 | 144 | 788 | cc |
-| 145 | 786 | Tiger Lily |
-| 146 | 786 | Christy Jones |
+| 145 | 787 | Christy Jones |
+| 146 | 786 | Tiger Lily |
 | 147 | 778 | Erin Rosberg |
 | 148 | 770 | Zappy Curvetile |
 | 149 | 767 | Basment Living |
@@ -182,8 +182,8 @@
 | 174 | 671 | Theo Pinnow |
 | 175 | 669 | Ly Phethmany |
 | 176 | 668 | Tyler Werts |
-| 177 | 664 | Maria C. Hernandez |
-| 178 | 662 | Ty Brown |
+| 177 | 667 | Ty Brown |
+| 178 | 664 | Maria C. Hernandez |
 | 179 | 662 | Evie Khalil |
 | 180 | 655 | Timothy Danaher |
 | 181 | 654 | Νεφ Όνυξ |
@@ -213,10 +213,10 @@
 | 205 | 593 | Richard Butler |
 | 206 | 592 | Steve Schneider |
 | 207 | 589 | John J. Cronin |
-| 208 | 589 | Rat666 |
-| 209 | 587 | Luciano Moreira |
-| 210 | 587 | Jessica Russell |
-| 211 | 583 | Teddy Alexander |
+| 208 | 589 | Teddy Alexander |
+| 209 | 589 | Rat666 |
+| 210 | 587 | Luciano Moreira |
+| 211 | 587 | Jessica Russell |
 | 212 | 581 | Rebekah LeiAnn Bonsell |
 | 213 | 574 | Speedy Liney |
 | 214 | 573 | Jamie Jury |
@@ -1603,12 +1603,12 @@
 | 1595 | 63 | Arthur James Watson |
 | 1596 | 63 | Max R Eble |
 | 1597 | 63 | Jessica |
-| 1598 | 63 | Glitzy Curvetile |
-| 1599 | 62 | Moneybags |
-| 1600 | 62 | Shanetta Jacob Hannagan Johnson |
-| 1601 | 62 | Kishi |
-| 1602 | 62 | Hilda Silvers |
-| 1603 | 62 | Julia Wilson |
+| 1598 | 63 | Julia Wilson |
+| 1599 | 63 | Glitzy Curvetile |
+| 1600 | 62 | Moneybags |
+| 1601 | 62 | Shanetta Jacob Hannagan Johnson |
+| 1602 | 62 | Kishi |
+| 1603 | 62 | Hilda Silvers |
 | 1604 | 62 | Michael Akins |
 | 1605 | 62 | Katie Mccallaham |
 | 1606 | 62 | Chummy Tiltpiece |
@@ -1815,90 +1815,90 @@
 | 1807 | 44 | Danielle Martin |
 | 1808 | 44 | Lu Mann |
 | 1809 | 44 | Aforce Tobereckoned |
-| 1810 | 44 | Daring Clusterline |
-| 1811 | 44 | Berni Franz |
+| 1810 | 44 | Berni Franz |
+| 1811 | 44 | Daring Clusterline |
 | 1812 | 44 | Penny Hanover |
-| 1813 | 43 | Brosecki |
-| 1814 | 43 | Lush Patternzone |
-| 1815 | 43 | callsignbdog |
+| 1813 | 43 | Dawn Mateo De Acosta |
+| 1814 | 43 | Zesty Brickclear |
+| 1815 | 43 | Charlie Vanblarcom |
 | 1816 | 43 | Daring Brickroll |
-| 1817 | 43 | Dorothy Vernon |
-| 1818 | 43 | Charlie Vanblarcom |
-| 1819 | 43 | ballzdeep |
-| 1820 | 43 | Dreamy Twister |
-| 1821 | 43 | Cryder Monique |
-| 1822 | 43 | Astelee |
-| 1823 | 43 | Johnny Angel |
-| 1824 | 43 | Dawn Mateo De Acosta |
-| 1825 | 43 | Cranky Tiltbuilder |
-| 1826 | 43 | Zesty Brickclear |
-| 1827 | 42 | Kik |
-| 1828 | 42 | Michael McCarron |
-| 1829 | 42 | Dwayne Bogue |
-| 1830 | 42 | HyperBrickFit |
-| 1831 | 42 | Oliver Reeder |
-| 1832 | 42 | Jessie Kronthal |
-| 1833 | 41 | Hollyjo Balistreri |
-| 1834 | 41 | Chad Massaro |
-| 1835 | 41 | Plucky Column |
-| 1836 | 41 | Jeremy Hurt |
-| 1837 | 41 | Liz Oubre |
-| 1838 | 41 | lisa |
-| 1839 | 41 | Jas Ali |
-| 1840 | 41 | Big d |
-| 1841 | 41 | TheBandit |
-| 1842 | 41 | Curtis |
-| 1843 | 41 | rae |
-| 1844 | 41 | Duhoh |
-| 1845 | 41 | ya boi |
-| 1846 | 41 | Nat Gnzlz |
-| 1847 | 40 | Chelly |
-| 1848 | 40 | Keva |
-| 1849 | 40 | Georgia J Krawczyk |
-| 1850 | 40 | Clever Blocker |
-| 1851 | 40 | Dawn Mansfield |
-| 1852 | 40 | Terri Ruffin Arnett |
-| 1853 | 40 | Natalyia |
-| 1854 | 39 | Yonkas |
-| 1855 | 39 | Keith Hiller |
-| 1856 | 39 | Carla Tavares |
-| 1857 | 39 | Chipper Stacky |
-| 1858 | 39 | Rodriguez Leslie |
+| 1817 | 43 | Johnny Angel |
+| 1818 | 43 | Lush Patternzone |
+| 1819 | 43 | Dorothy Vernon |
+| 1820 | 43 | ballzdeep |
+| 1821 | 43 | Dreamy Twister |
+| 1822 | 43 | callsignbdog |
+| 1823 | 43 | Cryder Monique |
+| 1824 | 43 | Astelee |
+| 1825 | 43 | Brosecki |
+| 1826 | 43 | Cranky Tiltbuilder |
+| 1827 | 42 | Jessie Kronthal |
+| 1828 | 42 | HyperBrickFit |
+| 1829 | 42 | Oliver Reeder |
+| 1830 | 42 | Dwayne Bogue |
+| 1831 | 42 | Michael McCarron |
+| 1832 | 42 | Kik |
+| 1833 | 41 | Clever Blocker |
+| 1834 | 41 | Nat Gnzlz |
+| 1835 | 41 | Jas Ali |
+| 1836 | 41 | lisa |
+| 1837 | 41 | Chad Massaro |
+| 1838 | 41 | Plucky Column |
+| 1839 | 41 | TheBandit |
+| 1840 | 41 | Curtis |
+| 1841 | 41 | rae |
+| 1842 | 41 | Big d |
+| 1843 | 41 | Duhoh |
+| 1844 | 41 | Liz Oubre |
+| 1845 | 41 | Hollyjo Balistreri |
+| 1846 | 41 | ya boi |
+| 1847 | 41 | Jeremy Hurt |
+| 1848 | 40 | Georgia J Krawczyk |
+| 1849 | 40 | Dawn Mansfield |
+| 1850 | 40 | Terri Ruffin Arnett |
+| 1851 | 40 | Chelly |
+| 1852 | 40 | Natalyia |
+| 1853 | 40 | Keva |
+| 1854 | 39 | Rodriguez Leslie |
+| 1855 | 39 | Yonkas |
+| 1856 | 39 | Crafty Blockzone |
+| 1857 | 39 | Keith Hiller |
+| 1858 | 39 | Chipper Stacky |
 | 1859 | 39 | Julia Linares |
-| 1860 | 39 | Merder |
+| 1860 | 39 | Carla Tavares |
 | 1861 | 39 | Anna Mae |
 | 1862 | 39 | RLA |
-| 1863 | 39 | Crafty Blockzone |
-| 1864 | 38 | Akgretel |
-| 1865 | 38 | Dora Greer |
-| 1866 | 38 | William Thomas |
+| 1863 | 39 | Merder |
+| 1864 | 38 | Edgar Vazquez |
+| 1865 | 38 | William Thomas |
+| 1866 | 38 | Jking |
 | 1867 | 38 | Mary Kaniuha |
-| 1868 | 38 | Mighty Patternline |
-| 1869 | 38 | Brad King |
-| 1870 | 38 | Jking |
-| 1871 | 38 | Jumpy Zonegrid |
-| 1872 | 38 | Edgar Vazquez |
-| 1873 | 37 | brownie brown |
-| 1874 | 37 | Poppy Tower |
+| 1868 | 38 | Jumpy Zonegrid |
+| 1869 | 38 | Akgretel |
+| 1870 | 38 | Dora Greer |
+| 1871 | 38 | Mighty Patternline |
+| 1872 | 38 | Brad King |
+| 1873 | 37 | JoJo |
+| 1874 | 37 | brownie brown |
 | 1875 | 37 | Loony Zoney |
-| 1876 | 37 | JoJo |
-| 1877 | 37 | Charles Wilson |
-| 1878 | 37 | Zany Tiler |
-| 1879 | 37 | Chirpy Racker |
-| 1880 | 37 | Happy Tower |
-| 1881 | 37 | Chastity Thompson |
+| 1876 | 37 | Charles Wilson |
+| 1877 | 37 | Chastity Thompson |
+| 1878 | 37 | Poppy Tower |
+| 1879 | 37 | Happy Tower |
+| 1880 | 37 | Zany Tiler |
+| 1881 | 37 | Chirpy Racker |
 | 1882 | 37 | Mrk |
-| 1883 | 36 | A |
-| 1884 | 36 | Ballew Nisha Ballew |
-| 1885 | 36 | Breezy Patternblock |
-| 1886 | 36 | Wendy Brock |
-| 1887 | 36 | Paul Mayo |
-| 1888 | 36 | Yaya Dean |
-| 1889 | 36 | Mighty Line |
-| 1890 | 36 | Glitzy Linkpiece |
-| 1891 | 36 | Brian Link |
-| 1892 | 36 | EarlineDoubtfir |
-| 1893 | 36 | Jennifer Lynn Holshouser |
+| 1883 | 36 | Breezy Patternblock |
+| 1884 | 36 | Paul Mayo |
+| 1885 | 36 | A |
+| 1886 | 36 | Yaya Dean |
+| 1887 | 36 | Mighty Line |
+| 1888 | 36 | Brian Link |
+| 1889 | 36 | Jennifer Lynn Holshouser |
+| 1890 | 36 | EarlineDoubtfir |
+| 1891 | 36 | Glitzy Linkpiece |
+| 1892 | 36 | Wendy Brock |
+| 1893 | 36 | Ballew Nisha Ballew |
 | 1894 | 36 | Zippy Patternzone |
 | 1895 | 36 | Deweyy Devan Hill |
 | 1896 | 36 | Missfortune |
