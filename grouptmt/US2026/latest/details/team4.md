@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 15:00:45 UTC
+# Standings for team4 as of 2026-02-25 15:01:22 UTC
 
 **Total Participants:** 2217
 
@@ -36,7 +36,7 @@
 | 28 | 2156 | Cassie Michaux |
 | 29 | 2139 | Robin Getchel |
 | 30 | 2106 | Aden Moss |
-| 31 | 2082 | Rachel Anne |
+| 31 | 2088 | Rachel Anne |
 | 32 | 1997 | Johnny Yang Cotter |
 | 33 | 1967 | Dustin Robert |
 | 34 | 1966 | Rebecca Moulton Pinciaro |
@@ -1136,13 +1136,13 @@
 | 1128 | 112 | Harold M. |
 | 1129 | 112 | Natasha Crossley |
 | 1130 | 112 | Fred Lilreadii Smith Jr |
-| 1131 | 112 | Bold Towerpiece |
-| 1132 | 112 | Sarah Rene Fauller |
-| 1133 | 112 | Travis Poe |
-| 1134 | 112 | Kristina Renea Day |
-| 1135 | 112 | Lush Cluster |
-| 1136 | 112 | Evan DeWeese |
-| 1137 | 111 | Sunny Brickroll |
+| 1131 | 112 | Sunny Brickroll |
+| 1132 | 112 | Bold Towerpiece |
+| 1133 | 112 | Sarah Rene Fauller |
+| 1134 | 112 | Travis Poe |
+| 1135 | 112 | Kristina Renea Day |
+| 1136 | 112 | Lush Cluster |
+| 1137 | 112 | Evan DeWeese |
 | 1138 | 111 | Jessica Miller |
 | 1139 | 111 | evil wonton |
 | 1140 | 111 | Chassidy Martin |
