@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 23:52:46 UTC
+# Standings for team1 as of 2026-02-25 23:53:23 UTC
 
 **Total Participants:** 2556
 
@@ -136,7 +136,7 @@
 | 128 | 908 | Jazzy Framezone |
 | 129 | 907 | Oscar Zamora |
 | 130 | 904 | Fmp |
-| 131 | 900 | Snappy Matcher |
+| 131 | 903 | Snappy Matcher |
 | 132 | 896 | Carrie Smith |
 | 133 | 888 | Melissa Lemmon |
 | 134 | 886 | Virginia Gray Floyd |
@@ -387,16 +387,16 @@
 | 379 | 403 | Mandyy Rae |
 | 380 | 400 | Jasmine Riley |
 | 381 | 400 | Sonia Marquis |
-| 382 | 398 | Angela Jones |
-| 383 | 397 | Dawn Michelle Scheible |
-| 384 | 397 | Tipsy Builder |
-| 385 | 397 | Gary Gobin |
-| 386 | 397 | Jumpy Rotate |
-| 387 | 396 | Lilkimmie |
-| 388 | 396 | Mighty Shatterfit |
-| 389 | 396 | Nadine Velardo |
-| 390 | 396 | Corkey Steinmark |
-| 391 | 396 | Glitzy Grid |
+| 382 | 398 | Glitzy Grid |
+| 383 | 398 | Angela Jones |
+| 384 | 397 | Dawn Michelle Scheible |
+| 385 | 397 | Tipsy Builder |
+| 386 | 397 | Gary Gobin |
+| 387 | 397 | Jumpy Rotate |
+| 388 | 396 | Lilkimmie |
+| 389 | 396 | Mighty Shatterfit |
+| 390 | 396 | Nadine Velardo |
+| 391 | 396 | Corkey Steinmark |
 | 392 | 395 | Goobette |
 | 393 | 395 | Brooke Elizabeth Antill |
 | 394 | 395 | Fresno Beotoni |
@@ -951,12 +951,12 @@
 | 943 | 177 | Twisty Wobbler |
 | 944 | 177 | Dreamy Brickclear |
 | 945 | 177 | Luis Quintero |
-| 946 | 177 | Jessica Venable |
-| 947 | 176 | Aimee Horton |
-| 948 | 176 | Shante Jenkins |
-| 949 | 176 | kels |
-| 950 | 176 | Mark Zeitlin |
-| 951 | 176 | Cynthia Pool |
+| 946 | 177 | Cynthia Pool |
+| 947 | 177 | Jessica Venable |
+| 948 | 176 | Aimee Horton |
+| 949 | 176 | Shante Jenkins |
+| 950 | 176 | kels |
+| 951 | 176 | Mark Zeitlin |
 | 952 | 175 | Sharon Thomas |
 | 953 | 175 | Ali Ward |
 | 954 | 175 | Whatz |
@@ -1955,62 +1955,62 @@
 | 1947 | 36 | Spicy Ziggy |
 | 1948 | 36 | vmoney |
 | 1949 | 36 | Kris Freed |
-| 1950 | 36 | Scott Reynolds |
+| 1950 | 36 | Megan Craig |
 | 1951 | 36 | Mustafa kelani |
-| 1952 | 36 | Paul Mayo |
-| 1953 | 36 | EarlineDoubtfir |
-| 1954 | 36 | Zippy Patternzone |
-| 1955 | 36 | Missfortune |
-| 1956 | 36 | Deweyy Devan Hill |
-| 1957 | 36 | Chilly Rotater |
-| 1958 | 36 | Breezy Patternblock |
+| 1952 | 36 | Chilly Rotater |
+| 1953 | 36 | Deweyy Devan Hill |
+| 1954 | 36 | Paul Mayo |
+| 1955 | 36 | Scott Reynolds |
+| 1956 | 36 | EarlineDoubtfir |
+| 1957 | 36 | Zippy Patternzone |
+| 1958 | 36 | Missfortune |
 | 1959 | 36 | Jimmijones420 |
-| 1960 | 36 | Megan Craig |
-| 1961 | 35 | Sheila Lantzy |
-| 1962 | 35 | Zach Wright |
-| 1963 | 35 | Ashleylynn Black |
-| 1964 | 35 | Tonzalee Smith |
-| 1965 | 35 | Tammy Griffee |
-| 1966 | 35 | Saucy Gridlock |
-| 1967 | 35 | Junito Davis |
-| 1968 | 35 | Shawn Payton |
+| 1960 | 36 | Breezy Patternblock |
+| 1961 | 35 | Saucy Gridlock |
+| 1962 | 35 | Shawn Payton |
+| 1963 | 35 | Tonzalee Smith |
+| 1964 | 35 | Ashleylynn Black |
+| 1965 | 35 | Zach Wright |
+| 1966 | 35 | Sheila Lantzy |
+| 1967 | 35 | Tammy Griffee |
+| 1968 | 35 | Junito Davis |
 | 1969 | 35 | Jason Dickinson |
-| 1970 | 35 | HUH_CAT |
-| 1971 | 35 | LarryG |
-| 1972 | 35 | pickles |
-| 1973 | 34 | Robert Jones |
-| 1974 | 34 | Wacky Snapbuilder |
-| 1975 | 34 | Giggy Zonepiece |
-| 1976 | 34 | Rhonda Pledger |
-| 1977 | 34 | Joseph Freeman |
-| 1978 | 34 | Shaun Kellerman |
-| 1979 | 34 | Melissa Ann |
-| 1980 | 34 | CIRAD |
-| 1981 | 34 | Meagan Lopez |
-| 1982 | 34 | Dixie Bradshaw-Basile |
+| 1970 | 35 | LarryG |
+| 1971 | 35 | pickles |
+| 1972 | 35 | HUH_CAT |
+| 1973 | 34 | Melissa Ann |
+| 1974 | 34 | Robert Jones |
+| 1975 | 34 | Wacky Snapbuilder |
+| 1976 | 34 | Shaun Kellerman |
+| 1977 | 34 | MagaJibbly h( |
+| 1978 | 34 | Joseph Freeman |
+| 1979 | 34 | Meagan Lopez |
+| 1980 | 34 | Giggy Zonepiece |
+| 1981 | 34 | Rhonda Pledger |
+| 1982 | 34 | CIRAD |
 | 1983 | 34 | Bravo |
-| 1984 | 33 | Rachael F Trudel |
-| 1985 | 33 | Siconia Mccants Bsw |
-| 1986 | 33 | Kizzie Thomas-Jones |
-| 1987 | 33 | Jessi Goodwin |
-| 1988 | 33 | Lesssslyh |
-| 1989 | 33 | Roberta |
-| 1990 | 33 | lexluger |
-| 1991 | 33 | Ashley Sheen |
-| 1992 | 33 | Leshay Brooks |
-| 1993 | 33 | Daring Block |
-| 1994 | 33 | Frothy Grid |
-| 1995 | 33 | Rosie |
-| 1996 | 33 | Linda Nys |
-| 1997 | 33 | Zany Gridclear |
-| 1998 | 33 | Fatty Davis |
-| 1999 | 33 | Samantha Rachelle Branham |
-| 2000 | 32 | Giggy Clearbuilder |
-| 2001 | 32 | Jenea Lewis |
-| 2002 | 32 | Gerardo Perez |
-| 2003 | 32 | Dandy Crawler |
-| 2004 | 32 | Lush Dasher |
-| 2005 | 32 | MagaJibbly h( |
+| 1984 | 34 | Dixie Bradshaw-Basile |
+| 1985 | 33 | Rachael F Trudel |
+| 1986 | 33 | Siconia Mccants Bsw |
+| 1987 | 33 | Lesssslyh |
+| 1988 | 33 | Jessi Goodwin |
+| 1989 | 33 | Kizzie Thomas-Jones |
+| 1990 | 33 | Roberta |
+| 1991 | 33 | lexluger |
+| 1992 | 33 | Ashley Sheen |
+| 1993 | 33 | Leshay Brooks |
+| 1994 | 33 | Daring Block |
+| 1995 | 33 | Frothy Grid |
+| 1996 | 33 | Rosie |
+| 1997 | 33 | Linda Nys |
+| 1998 | 33 | Zany Gridclear |
+| 1999 | 33 | Fatty Davis |
+| 2000 | 33 | Samantha Rachelle Branham |
+| 2001 | 32 | Giggy Clearbuilder |
+| 2002 | 32 | Jenea Lewis |
+| 2003 | 32 | Gerardo Perez |
+| 2004 | 32 | Dandy Crawler |
+| 2005 | 32 | Lush Dasher |
 | 2006 | 32 | Eric Robinson |
 | 2007 | 32 | mudpuppy |
 | 2008 | 32 | Tony Lawton |
