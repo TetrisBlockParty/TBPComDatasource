@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 09:56:45 UTC
+# Standings for team1 as of 2026-02-25 09:57:23 UTC
 
 **Total Participants:** 2449
 
@@ -266,8 +266,8 @@
 | 258 | 480 | Alenoush Karimian |
 | 259 | 477 | LtMooch |
 | 260 | 477 | Ananda Mendez |
-| 261 | 475 | Paula Martin |
-| 262 | 474 | Billie Ann Eason |
+| 261 | 476 | Billie Ann Eason |
+| 262 | 475 | Paula Martin |
 | 263 | 471 | Chris Sigurdson |
 | 264 | 470 | Chantelle Ceno |
 | 265 | 469 | build master |
