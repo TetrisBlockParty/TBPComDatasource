@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-25 08:30:44 UTC
+# Standings for team3 as of 2026-02-25 08:31:23 UTC
 
 **Total Participants:** 3663
 
@@ -105,8 +105,8 @@
 | 97 | 1604 | Christine Filson |
 | 98 | 1591 | Jay Horn |
 | 99 | 1590 | Ivan Del Toro |
-| 100 | 1568 | Jessica Bechler |
-| 101 | 1558 | ren |
+| 100 | 1578 | ren |
+| 101 | 1568 | Jessica Bechler |
 | 102 | 1541 | Christine Trester |
 | 103 | 1536 | Amber Jones |
 | 104 | 1534 | JerseyJess |
@@ -125,14 +125,14 @@
 | 117 | 1351 | Tia |
 | 118 | 1332 | Joye Sims Binion |
 | 119 | 1328 | Demetrious Shaw Sr. |
-| 120 | 1323 | Keith J Oshman Jr. |
-| 121 | 1319 | Sarah Fehring |
-| 122 | 1318 | Loopy Fallmatch |
-| 123 | 1314 | joz |
-| 124 | 1309 | DaBigGuy |
-| 125 | 1300 | Danielle Mogg |
-| 126 | 1297 | Shelby Michelle |
-| 127 | 1296 | Christian A. Pollard |
+| 120 | 1326 | Christian A. Pollard |
+| 121 | 1323 | Keith J Oshman Jr. |
+| 122 | 1319 | Sarah Fehring |
+| 123 | 1318 | Loopy Fallmatch |
+| 124 | 1314 | joz |
+| 125 | 1309 | DaBigGuy |
+| 126 | 1300 | Danielle Mogg |
+| 127 | 1297 | Shelby Michelle |
 | 128 | 1292 | Amanda L Baker |
 | 129 | 1284 | Betty Rosas |
 | 130 | 1261 | Lori Barnaby |
@@ -185,10 +185,10 @@
 | 177 | 994 | Staci George Fitzsimmons |
 | 178 | 994 | opf |
 | 179 | 991 | Chasity |
-| 180 | 989 | Tye Stovall |
-| 181 | 983 | Patty Allen |
-| 182 | 982 | Cyd061769 |
-| 183 | 971 | Snippy Wipeout |
+| 180 | 991 | Snippy Wipeout |
+| 181 | 989 | Tye Stovall |
+| 182 | 983 | Patty Allen |
+| 183 | 982 | Cyd061769 |
 | 184 | 969 | Patti Skiles |
 | 185 | 967 | Rochelle Hazelett |
 | 186 | 967 | BadManSheLove |
@@ -364,13 +364,13 @@
 | 356 | 561 | NeeCee |
 | 357 | 560 | Stephanie Simpson |
 | 358 | 558 | Misha Sanders |
-| 359 | 556 | Angel Miller |
+| 359 | 557 | Angel Miller |
 | 360 | 555 | Dee Franklin |
-| 361 | 553 | MsBee |
-| 362 | 552 | Jalissa Monique |
-| 363 | 550 | Dapper Snap |
-| 364 | 549 | Fancy Curver |
-| 365 | 549 | Ginger Gray |
+| 361 | 555 | Ginger Gray |
+| 362 | 553 | MsBee |
+| 363 | 552 | Jalissa Monique |
+| 364 | 550 | Dapper Snap |
+| 365 | 549 | Fancy Curver |
 | 366 | 548 | Sleepy |
 | 367 | 548 | Ashley Tookes |
 | 368 | 545 | Ktfreeee |
@@ -2207,20 +2207,20 @@
 | 2199 | 79 | Dreamy Gridroll |
 | 2200 | 79 | Sulema Flores Perez |
 | 2201 | 78 | Gabby M. |
-| 2202 | 78 | Peter Lucoe |
-| 2203 | 78 | Nutty Risegrid |
-| 2204 | 78 | Gaazhag |
-| 2205 | 78 | Jennifer Parrish |
-| 2206 | 78 | Joshua Foster |
-| 2207 | 78 | Nerdy Dashy |
-| 2208 | 77 | Chilly Lift |
-| 2209 | 77 | Monica Reneau |
-| 2210 | 77 | Amanda Smith |
-| 2211 | 77 | Monica Miller |
-| 2212 | 77 | Sammie |
-| 2213 | 77 | Sheldon Charles |
-| 2214 | 77 | Glodean Beaty |
-| 2215 | 77 | Patricias Sober |
+| 2202 | 78 | Patricias Sober |
+| 2203 | 78 | Peter Lucoe |
+| 2204 | 78 | Nutty Risegrid |
+| 2205 | 78 | Gaazhag |
+| 2206 | 78 | Jennifer Parrish |
+| 2207 | 78 | Joshua Foster |
+| 2208 | 78 | Nerdy Dashy |
+| 2209 | 77 | Chilly Lift |
+| 2210 | 77 | Monica Reneau |
+| 2211 | 77 | Amanda Smith |
+| 2212 | 77 | Monica Miller |
+| 2213 | 77 | Sammie |
+| 2214 | 77 | Sheldon Charles |
+| 2215 | 77 | Glodean Beaty |
 | 2216 | 77 | Reesiecup93 |
 | 2217 | 77 | Misty Henry |
 | 2218 | 76 | Nikki EightySixed |
