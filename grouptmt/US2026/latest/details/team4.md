@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 10:46:45 UTC
+# Standings for team4 as of 2026-02-25 10:47:22 UTC
 
 **Total Participants:** 2198
 
@@ -269,11 +269,11 @@
 | 261 | 508 | Chao Ma |
 | 262 | 505 | Jason Gibbs |
 | 263 | 505 | Brickh4us |
-| 264 | 504 | Deanna Deckard |
-| 265 | 503 | Zethra Prenisha Rahming |
-| 266 | 503 | Gdiguy |
-| 267 | 502 | Sandra Safford |
-| 268 | 500 | Jen Mattei |
+| 264 | 505 | Jen Mattei |
+| 265 | 504 | Deanna Deckard |
+| 266 | 503 | Zethra Prenisha Rahming |
+| 267 | 503 | Gdiguy |
+| 268 | 502 | Sandra Safford |
 | 269 | 500 | Crystal Nicolette Moore |
 | 270 | 499 | John Brunetti |
 | 271 | 499 | Kesha Brady |
@@ -1369,75 +1369,75 @@
 | 1361 | 73 | Sunny68 |
 | 1362 | 73 | Brain Joy |
 | 1363 | 73 | Gerald Anderson |
-| 1364 | 72 | Tara Karen |
-| 1365 | 72 | Perky Towerpiece |
-| 1366 | 72 | London Murphy |
-| 1367 | 72 | Reggie |
-| 1368 | 72 | Veronica Chan |
+| 1364 | 72 | April Murphy |
+| 1365 | 72 | Veronica Chan |
+| 1366 | 72 | Christopher Cand |
+| 1367 | 72 | Giddy Swiper |
+| 1368 | 72 | Perky Towerpiece |
 | 1369 | 72 | Daring Spinzone |
-| 1370 | 72 | Melitta Boisvert |
+| 1370 | 72 | Tara Karen |
 | 1371 | 72 | Tarius Jackson |
-| 1372 | 72 | April Murphy |
-| 1373 | 72 | Giddy Swiper |
-| 1374 | 72 | Christopher Cand |
-| 1375 | 71 | Dapper Climber |
-| 1376 | 71 | Kenya Lewis |
-| 1377 | 71 | Ashley Cooke |
-| 1378 | 71 | Peachy Pusher |
-| 1379 | 71 | Jazzy Climber |
-| 1380 | 71 | Kb Ludiweci |
+| 1372 | 72 | London Murphy |
+| 1373 | 72 | Reggie |
+| 1374 | 72 | Melitta Boisvert |
+| 1375 | 71 | Ashley Cooke |
+| 1376 | 71 | Peachy Pusher |
+| 1377 | 71 | Kb Ludiweci |
+| 1378 | 71 | Dapper Climber |
+| 1379 | 71 | Christa Marie |
+| 1380 | 71 | Jazzy Climber |
 | 1381 | 71 | Mileydy Almora Diaz |
-| 1382 | 71 | Christa Marie |
-| 1383 | 71 | Amy La Violette |
+| 1382 | 71 | Amy La Violette |
+| 1383 | 71 | Kenya Lewis |
 | 1384 | 71 | Alison Welsh |
 | 1385 | 70 | Randy |
-| 1386 | 70 | Donnie Istillwill Straub |
-| 1387 | 70 | ShadowWanderrr |
-| 1388 | 70 | PlatinumRose |
+| 1386 | 70 | ShadowWanderrr |
+| 1387 | 70 | PlatinumRose |
+| 1388 | 70 | Anthony Caldwell |
 | 1389 | 70 | Blockin88 |
-| 1390 | 70 | StarChild |
-| 1391 | 70 | Kayd |
-| 1392 | 70 | Tammi Harne |
-| 1393 | 70 | Br23klyn |
-| 1394 | 70 | Boldy Twistline |
-| 1395 | 70 | Anthony Caldwell |
+| 1390 | 70 | Br23klyn |
+| 1391 | 70 | Tammi Harne |
+| 1392 | 70 | Aaron Wilkins |
+| 1393 | 70 | Donnie Istillwill Straub |
+| 1394 | 70 | Ayanna James |
+| 1395 | 70 | Boldy Twistline |
 | 1396 | 70 | Ruben Perez |
-| 1397 | 70 | Wacky Brickmatch |
-| 1398 | 70 | Aaron Wilkins |
-| 1399 | 70 | Ayanna James |
-| 1400 | 69 | ZZZZZZZ |
-| 1401 | 69 | Brittanny Simpson |
+| 1397 | 70 | Kayd |
+| 1398 | 70 | StarChild |
+| 1399 | 70 | Wacky Brickmatch |
+| 1400 | 69 | Gia Mims |
+| 1401 | 69 | ZZZZZZZ |
 | 1402 | 69 | Jeremy Jaubert |
-| 1403 | 69 | Dragon De Fuego |
-| 1404 | 69 | Gia Mims |
-| 1405 | 68 | OneBuke FollowMe |
-| 1406 | 68 | Crissygirl |
-| 1407 | 68 | James Antill |
-| 1408 | 68 | Jose Gonzalez |
-| 1409 | 68 | Anne-Marie Reyes |
-| 1410 | 68 | Derwin Dewayne Mosby |
-| 1411 | 68 | combatmac |
-| 1412 | 68 | Camyra Dunnigan |
-| 1413 | 68 | Nicki nikki87 |
-| 1414 | 68 | zelda Morgan |
-| 1415 | 67 | Nancy Banning |
-| 1416 | 67 | Hasty Matchgrid |
+| 1403 | 69 | Brittanny Simpson |
+| 1404 | 69 | Dragon De Fuego |
+| 1405 | 68 | combatmac |
+| 1406 | 68 | Jose Gonzalez |
+| 1407 | 68 | Camyra Dunnigan |
+| 1408 | 68 | OneBuke FollowMe |
+| 1409 | 68 | Nicki nikki87 |
+| 1410 | 68 | Saucy Brickroll |
+| 1411 | 68 | Anne-Marie Reyes |
+| 1412 | 68 | Crissygirl |
+| 1413 | 68 | James Antill |
+| 1414 | 68 | Derwin Dewayne Mosby |
+| 1415 | 68 | zelda Morgan |
+| 1416 | 67 | Nancy Banning |
 | 1417 | 67 | Tj Colman |
-| 1418 | 67 | MazieMae |
+| 1418 | 67 | Hasty Matchgrid |
 | 1419 | 67 | Anita Kramer |
-| 1420 | 67 | Pipiska |
-| 1421 | 67 | Daring Matchfit |
-| 1422 | 67 | Lanee Morgan |
-| 1423 | 67 | Fritzi Phillips |
-| 1424 | 67 | TrillVille |
-| 1425 | 67 | Jazzy Cascadezone |
-| 1426 | 67 | Amanda Loren |
-| 1427 | 67 | Minot4444 |
-| 1428 | 66 | Coflowers |
-| 1429 | 66 | Phanie D |
-| 1430 | 66 | Giggly Caster |
-| 1431 | 66 | Theodore Vincent |
-| 1432 | 66 | Saucy Brickroll |
+| 1420 | 67 | MazieMae |
+| 1421 | 67 | Pipiska |
+| 1422 | 67 | Daring Matchfit |
+| 1423 | 67 | Lanee Morgan |
+| 1424 | 67 | Fritzi Phillips |
+| 1425 | 67 | TrillVille |
+| 1426 | 67 | Jazzy Cascadezone |
+| 1427 | 67 | Amanda Loren |
+| 1428 | 67 | Minot4444 |
+| 1429 | 66 | Coflowers |
+| 1430 | 66 | Phanie D |
+| 1431 | 66 | Giggly Caster |
+| 1432 | 66 | Theodore Vincent |
 | 1433 | 66 | Mighty T-spin |
 | 1434 | 65 | ThemightyDATCH |
 | 1435 | 65 | Ashley Gilland |

@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-25 10:46:45 UTC
+# Standings for team3 as of 2026-02-25 10:47:22 UTC
 
 **Total Participants:** 3680
 
@@ -507,11 +507,11 @@
 | 499 | 424 | Mindy Phelps |
 | 500 | 422 | Sdot |
 | 501 | 421 | victory |
-| 502 | 419 | Hoppy Buildout |
+| 502 | 420 | Cibf Ecihm |
 | 503 | 419 | Kerry Nowickshere |
-| 504 | 418 | Jooii Kim |
-| 505 | 418 | Cibf Ecihm |
-| 506 | 418 | Mel Murr |
+| 504 | 419 | Hoppy Buildout |
+| 505 | 418 | Mel Murr |
+| 506 | 418 | Jooii Kim |
 | 507 | 416 | atomictrin |
 | 508 | 416 | Chenoa Urban Sophicated Redy |
 | 509 | 415 | Tiffany Davie |
@@ -745,25 +745,25 @@
 | 737 | 323 | Kristian Thurman |
 | 738 | 323 | Julie Peters Fancher |
 | 739 | 323 | James Lykes |
-| 740 | 321 | Christopher Mastropietro |
-| 741 | 321 | Scouty |
-| 742 | 321 | Jonathn Poindexter |
-| 743 | 320 | David Bardo |
-| 744 | 320 | Jessica Lynn French |
-| 745 | 320 | Victoria Lexis Dyer |
-| 746 | 320 | Sarah Tschee |
-| 747 | 320 | Richard |
-| 748 | 320 | Earlanda Holland |
-| 749 | 318 | Hasty Shatterclear |
-| 750 | 318 | Sharon Coughenour Bolling Selvey |
-| 751 | 318 | Erin Ervin |
-| 752 | 317 | Six |
-| 753 | 317 | Serena Jarrell |
-| 754 | 316 | Melissa Snyder |
-| 755 | 315 | Katelyn Dorman |
-| 756 | 315 | John Barb Padron |
-| 757 | 314 | Bdhdj |
-| 758 | 314 | Jillian Ann |
+| 740 | 323 | Jillian Ann |
+| 741 | 321 | Christopher Mastropietro |
+| 742 | 321 | Scouty |
+| 743 | 321 | Jonathn Poindexter |
+| 744 | 320 | David Bardo |
+| 745 | 320 | Jessica Lynn French |
+| 746 | 320 | Victoria Lexis Dyer |
+| 747 | 320 | Sarah Tschee |
+| 748 | 320 | Richard |
+| 749 | 320 | Earlanda Holland |
+| 750 | 318 | Hasty Shatterclear |
+| 751 | 318 | Sharon Coughenour Bolling Selvey |
+| 752 | 318 | Erin Ervin |
+| 753 | 317 | Six |
+| 754 | 317 | Serena Jarrell |
+| 755 | 316 | Melissa Snyder |
+| 756 | 315 | Katelyn Dorman |
+| 757 | 315 | John Barb Padron |
+| 758 | 314 | Bdhdj |
 | 759 | 313 | Stephanie Hill |
 | 760 | 313 | Karen Picaboo |
 | 761 | 312 | Casey McDowell |
@@ -1324,9 +1324,9 @@
 | 1316 | 190 | Janette Schilling |
 | 1317 | 190 | Trina Lowder |
 | 1318 | 190 | Rank Stranger |
-| 1319 | 189 | Taji Miller |
-| 1320 | 189 | Cranky Slam |
-| 1321 | 189 | Sue Markel |
+| 1319 | 190 | Sue Markel |
+| 1320 | 189 | Taji Miller |
+| 1321 | 189 | Cranky Slam |
 | 1322 | 189 | Amy Vallieres |
 | 1323 | 189 | KS |
 | 1324 | 189 | Laurie Raynor |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 10:46:45 UTC
+# Standings for team1 as of 2026-02-25 10:47:22 UTC
 
 **Total Participants:** 2454
 
@@ -953,11 +953,11 @@
 | 945 | 161 | Trisha Matthews |
 | 946 | 161 | Costa del Sol |
 | 947 | 160 | Dorny |
-| 948 | 160 | Lively Buildout |
-| 949 | 160 | Purple |
-| 950 | 160 | John Dixon |
-| 951 | 159 | Cool Combo |
-| 952 | 159 | Garry Myers |
+| 948 | 160 | Garry Myers |
+| 949 | 160 | Lively Buildout |
+| 950 | 160 | Purple |
+| 951 | 160 | John Dixon |
+| 952 | 159 | Cool Combo |
 | 953 | 159 | Christina Gutierrez |
 | 954 | 159 | Kurtis Manlow |
 | 955 | 159 | Cozy Cascader |
