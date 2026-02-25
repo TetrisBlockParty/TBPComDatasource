@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 07:13:22 UTC
+# Standings for team1 as of 2026-02-25 07:14:23 UTC
 
 **Total Participants:** 2432
 
@@ -384,10 +384,10 @@
 | 376 | 374 | Loony Bridgepiece |
 | 377 | 374 | Nadine Velardo |
 | 378 | 371 | Herm Junior |
-| 379 | 371 | Tanya Banks |
-| 380 | 370 | san |
-| 381 | 370 | Mrs.Patrica |
-| 382 | 370 | Angela Dawn Torres-Tarrants |
+| 379 | 371 | Angela Dawn Torres-Tarrants |
+| 380 | 371 | Tanya Banks |
+| 381 | 370 | san |
+| 382 | 370 | Mrs.Patrica |
 | 383 | 370 | Silly Align |
 | 384 | 369 | Tiffany Smith |
 | 385 | 369 | Christina Backer |
@@ -706,41 +706,41 @@
 | 698 | 223 | Natasha Hollowell Causey |
 | 699 | 223 | Erez Yosef |
 | 700 | 223 | Britney Marie Burton Cole |
-| 701 | 223 | Piffy |
-| 702 | 222 | Emily Wray |
-| 703 | 222 | yoyoluv |
+| 701 | 223 | yoyoluv |
+| 702 | 223 | Piffy |
+| 703 | 222 | Emily Wray |
 | 704 | 222 | Henry Lanier |
 | 705 | 222 | Melissa Ann Macko |
 | 706 | 221 | Amy Hess |
 | 707 | 220 | Chadocho |
 | 708 | 219 | BrenaBae |
-| 709 | 218 | Witty Curve |
-| 710 | 218 | Brian Taylor |
-| 711 | 217 | Chipper Piecefit |
-| 712 | 217 | Bean |
-| 713 | 217 | Bruce Cruz |
-| 714 | 217 | Sarah Bersano |
-| 715 | 216 | Nicolette Ivory Chastain |
+| 709 | 219 | Paul Osborne |
+| 710 | 218 | Witty Curve |
+| 711 | 218 | Brian Taylor |
+| 712 | 217 | Chipper Piecefit |
+| 713 | 217 | Bean |
+| 714 | 217 | Bruce Cruz |
+| 715 | 217 | Sarah Bersano |
 | 716 | 216 | Shauntina Burke |
-| 717 | 215 | Jaymee Eva Shannon |
-| 718 | 215 | Spunky Tilt |
-| 719 | 215 | Elizabeth Shaw |
-| 720 | 215 | Oliver Hollins |
-| 721 | 215 | Gauge Slusher |
-| 722 | 214 | Alex Gauthier |
-| 723 | 214 | V VIN |
+| 717 | 216 | Nicolette Ivory Chastain |
+| 718 | 215 | Gauge Slusher |
+| 719 | 215 | Oliver Hollins |
+| 720 | 215 | Spunky Tilt |
+| 721 | 215 | Jaymee Eva Shannon |
+| 722 | 215 | Elizabeth Shaw |
+| 723 | 214 | Joyce Harrell-chavis |
 | 724 | 214 | Jazzmin Queen |
 | 725 | 214 | Peachy Wipebuilder |
-| 726 | 214 | Joyce Harrell-chavis |
-| 727 | 212 | Sherrick Edwards |
+| 726 | 214 | V VIN |
+| 727 | 214 | Alex Gauthier |
 | 728 | 212 | Becky Coker |
 | 729 | 212 | Denise Belanger |
-| 730 | 211 | Jeff Newinski |
+| 730 | 212 | Sherrick Edwards |
 | 731 | 211 | Riley Lee |
-| 732 | 210 | Kathryn Chiles Anderson |
-| 733 | 210 | KoDaK |
+| 732 | 211 | Jeff Newinski |
+| 733 | 210 | Kathryn Chiles Anderson |
 | 734 | 210 | Fat fred |
-| 735 | 210 | Paul Osborne |
+| 735 | 210 | KoDaK |
 | 736 | 210 | Danny Brady |
 | 737 | 209 | Vivian Bush |
 | 738 | 209 | Lively Wipeout |
@@ -859,12 +859,12 @@
 | 851 | 180 | squareMel |
 | 852 | 180 | Theresa Nicole |
 | 853 | 180 | Christian Corral |
-| 854 | 179 | Jason Helwig |
-| 855 | 179 | Ryan White |
-| 856 | 179 | Christa Ybarra |
-| 857 | 179 | Kelly Sutton |
-| 858 | 178 | Camio30 |
-| 859 | 178 | PSD |
+| 854 | 179 | PSD |
+| 855 | 179 | Jason Helwig |
+| 856 | 179 | Ryan White |
+| 857 | 179 | Christa Ybarra |
+| 858 | 179 | Kelly Sutton |
+| 859 | 178 | Camio30 |
 | 860 | 178 | Gabrielle Louise Malloch |
 | 861 | 177 | Crystal Joslin |
 | 862 | 177 | Jessica Venable |
