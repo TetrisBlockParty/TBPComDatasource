@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 11:40:45 UTC
+# Standings for team1 as of 2026-02-25 11:41:22 UTC
 
 **Total Participants:** 2460
 
@@ -505,16 +505,16 @@
 | 497 | 315 | Tedashi |
 | 498 | 314 | Emmarieta Mendez |
 | 499 | 314 | Chad Atchley |
-| 500 | 313 | Jade |
-| 501 | 313 | Manley Smith |
-| 502 | 313 | Michelle |
-| 503 | 312 | Nicole Meredith Flynn |
-| 504 | 312 | Carlos Floyd |
-| 505 | 311 | Spunky Winder |
-| 506 | 311 | Brave Slice |
-| 507 | 311 | Shiny Snapline |
-| 508 | 310 | Adan Reyes |
-| 509 | 310 | Panda Thagreat |
+| 500 | 314 | Panda Thagreat |
+| 501 | 313 | Jade |
+| 502 | 313 | Manley Smith |
+| 503 | 313 | Michelle |
+| 504 | 312 | Nicole Meredith Flynn |
+| 505 | 312 | Carlos Floyd |
+| 506 | 311 | Spunky Winder |
+| 507 | 311 | Brave Slice |
+| 508 | 311 | Shiny Snapline |
+| 509 | 310 | Adan Reyes |
 | 510 | 310 | Kayla Marie Stevenson |
 | 511 | 309 | Lisa Reynolds Adair |
 | 512 | 309 | Isaiah |
@@ -964,40 +964,40 @@
 | 956 | 159 | Cool Combo |
 | 957 | 159 | Christina Gutierrez |
 | 958 | 159 | Shannon Elizabeth |
-| 959 | 159 | Tara |
-| 960 | 159 | Sunny Column |
-| 961 | 159 | Vicky Shull |
+| 959 | 159 | Sunny Column |
+| 960 | 159 | Vicky Shull |
+| 961 | 159 | Tara |
 | 962 | 159 | Cozy Cascader |
-| 963 | 159 | Kurtis Manlow |
-| 964 | 159 | Josh Watters |
-| 965 | 158 | Roxy Cohen-Skalli |
-| 966 | 158 | Hungsolo9 |
-| 967 | 158 | Cree |
-| 968 | 158 | Margaret Rose |
-| 969 | 157 | Crystal Raffaele |
-| 970 | 157 | Brynn Elizabeth |
-| 971 | 156 | Trisha Stiglet |
+| 963 | 159 | Josh Watters |
+| 964 | 159 | Kurtis Manlow |
+| 965 | 158 | Jean Graziano |
+| 966 | 158 | Roxy Cohen-Skalli |
+| 967 | 158 | Hungsolo9 |
+| 968 | 158 | Cree |
+| 969 | 158 | Margaret Rose |
+| 970 | 157 | Crystal Raffaele |
+| 971 | 157 | Brynn Elizabeth |
 | 972 | 156 | Nicole Michele Barfield |
-| 973 | 156 | Christine Smith |
-| 974 | 156 | Tammy Autry |
-| 975 | 155 | 804RVAME |
-| 976 | 155 | Chilly Glidezone |
+| 973 | 156 | Trisha Stiglet |
+| 974 | 156 | Tiffany N Danny Martinez |
+| 975 | 156 | Christine Smith |
+| 976 | 156 | Tammy Autry |
 | 977 | 155 | Sonya Gail Goodman |
-| 978 | 155 | Tierney Birdsell |
-| 979 | 155 | QUEENIE K |
-| 980 | 154 | John Kiser |
-| 981 | 154 | Tiffany N Danny Martinez |
-| 982 | 154 | Kelly Marie Hennig |
-| 983 | 154 | Shawn Thisismyoldaccount Gilmore |
-| 984 | 154 | David Hernandez |
-| 985 | 153 | SweetSunshower |
-| 986 | 153 | Tate Blondin |
-| 987 | 153 | Chenea Frazier |
-| 988 | 153 | Amber Nixon |
-| 989 | 153 | Jean Graziano |
-| 990 | 152 | 윤이나 |
-| 991 | 152 | Scott Tracie Kiser |
-| 992 | 152 | Dandy Piecebuilder |
+| 978 | 155 | 804RVAME |
+| 979 | 155 | Chilly Glidezone |
+| 980 | 155 | Tierney Birdsell |
+| 981 | 155 | QUEENIE K |
+| 982 | 154 | John Kiser |
+| 983 | 154 | Kelly Marie Hennig |
+| 984 | 154 | Shawn Thisismyoldaccount Gilmore |
+| 985 | 154 | David Hernandez |
+| 986 | 153 | SweetSunshower |
+| 987 | 153 | Tate Blondin |
+| 988 | 153 | Chenea Frazier |
+| 989 | 153 | Amber Nixon |
+| 990 | 152 | Dandy Piecebuilder |
+| 991 | 152 | 윤이나 |
+| 992 | 152 | Scott Tracie Kiser |
 | 993 | 152 | Brandi Egbert |
 | 994 | 152 | Scott Baum |
 | 995 | 152 | Javyjavz |
@@ -1058,47 +1058,47 @@
 | 1050 | 139 | Frisky Framezone |
 | 1051 | 138 | Shanna Outen |
 | 1052 | 138 | SophieG |
-| 1053 | 138 | Mauricio Reyes |
-| 1054 | 138 | Mar |
-| 1055 | 137 | Roselyn Gomez |
-| 1056 | 137 | David Bourne |
-| 1057 | 137 | Nellie Cummings |
-| 1058 | 137 | Boog |
-| 1059 | 137 | Matthew Vd |
+| 1053 | 138 | Dchielle |
+| 1054 | 138 | Mauricio Reyes |
+| 1055 | 138 | Mar |
+| 1056 | 137 | Roselyn Gomez |
+| 1057 | 137 | David Bourne |
+| 1058 | 137 | Nellie Cummings |
+| 1059 | 137 | Boog |
 | 1060 | 137 | Zappy Cluster |
-| 1061 | 137 | Kalesha Tteirrah |
-| 1062 | 136 | Dreamy Basepiece |
-| 1063 | 136 | Susan Walser Osborne |
-| 1064 | 136 | Nykia Smith |
-| 1065 | 136 | Dchielle |
-| 1066 | 136 | Jennifer Chilton-Metlock |
+| 1061 | 137 | Matthew Vd |
+| 1062 | 137 | Kalesha Tteirrah |
+| 1063 | 136 | Dreamy Basepiece |
+| 1064 | 136 | Susan Walser Osborne |
+| 1065 | 136 | Adam Charles |
+| 1066 | 136 | Nykia Smith |
 | 1067 | 136 | Swanky Crasher |
-| 1068 | 135 | Bye Love |
+| 1068 | 136 | Jennifer Chilton-Metlock |
 | 1069 | 135 | Sean McErlane |
-| 1070 | 135 | Adam Charles |
+| 1070 | 135 | Bye Love |
 | 1071 | 135 | Thia Gibson |
-| 1072 | 134 | Brahim Amara |
-| 1073 | 134 | Chilly Matchbuilder |
-| 1074 | 134 | Mighty Basegrid |
-| 1075 | 134 | MagaMan |
-| 1076 | 134 | Charlie Charlie |
-| 1077 | 134 | Angela Rena Brooks |
+| 1072 | 134 | Charlie Charlie |
+| 1073 | 134 | Angela Rena Brooks |
+| 1074 | 134 | Brahim Amara |
+| 1075 | 134 | Chilly Matchbuilder |
+| 1076 | 134 | Mighty Basegrid |
+| 1077 | 134 | MagaMan |
 | 1078 | 133 | Heather Duncan Peer |
-| 1079 | 133 | Daring Wiper |
-| 1080 | 133 | Rita Sunshyne |
-| 1081 | 133 | Jason Chabot |
-| 1082 | 133 | Josh Gould |
-| 1083 | 132 | Kevin Cook |
-| 1084 | 132 | Michael Butler |
-| 1085 | 132 | Amber Rochelle |
-| 1086 | 132 | Jessica Hopkins |
-| 1087 | 132 | Tofy |
-| 1088 | 132 | Duanew |
+| 1079 | 133 | Rita Sunshyne |
+| 1080 | 133 | Jason Chabot |
+| 1081 | 133 | Josh Gould |
+| 1082 | 133 | Daring Wiper |
+| 1083 | 132 | Amber Rochelle |
+| 1084 | 132 | Jessica Hopkins |
+| 1085 | 132 | Duanew |
+| 1086 | 132 | Tofy |
+| 1087 | 132 | Kevin Cook |
+| 1088 | 132 | Michael Butler |
 | 1089 | 132 | Lashá Calloway |
-| 1090 | 131 | Zach Marihugh |
-| 1091 | 131 | Matt Bremner |
-| 1092 | 131 | Krystal Jones |
-| 1093 | 131 | J.D3D.D |
+| 1090 | 131 | J.D3D.D |
+| 1091 | 131 | Krystal Jones |
+| 1092 | 131 | Matt Bremner |
+| 1093 | 131 | Zach Marihugh |
 | 1094 | 131 | Rick Clark |
 | 1095 | 131 | Crystal Cardenas |
 | 1096 | 131 | Lynn Anderson |

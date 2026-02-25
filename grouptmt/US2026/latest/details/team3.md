@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-25 11:40:45 UTC
+# Standings for team3 as of 2026-02-25 11:41:22 UTC
 
 **Total Participants:** 3687
 
@@ -17,7 +17,7 @@
 | 9 | 7658 | Poppy Dashfit |
 | 10 | 6679 | Lauren d |
 | 11 | 5953 | Kathryn Keenan-Taggart |
-| 12 | 5611 | Cheeky Match |
+| 12 | 5614 | Cheeky Match |
 | 13 | 5391 | Tetris Master |
 | 14 | 5301 | Briarblack |
 | 15 | 5035 | Ant Ant |
@@ -254,8 +254,8 @@
 | 246 | 777 | Rynne Ellis |
 | 247 | 772 | Fancy Cascader |
 | 248 | 765 | Shawn Miller |
-| 249 | 762 | Desiree Gold |
-| 250 | 758 | Jackie Miller |
+| 249 | 764 | Jackie Miller |
+| 250 | 762 | Desiree Gold |
 | 251 | 752 | Karon Griffin |
 | 252 | 752 | Tom Nault |
 | 253 | 751 | Cynthia Castros-Hampton |
@@ -480,12 +480,12 @@
 | 472 | 449 | Tracy Martin |
 | 473 | 449 | Michelle Abrams |
 | 474 | 449 | Kevin Russell |
-| 475 | 447 | Joy Petroski |
-| 476 | 446 | Arden White Kirsch |
-| 477 | 445 | block chick |
-| 478 | 445 | Justin Parker |
-| 479 | 445 | neci |
-| 480 | 444 | Aeh |
+| 475 | 448 | Aeh |
+| 476 | 447 | Joy Petroski |
+| 477 | 446 | Arden White Kirsch |
+| 478 | 445 | block chick |
+| 479 | 445 | Justin Parker |
+| 480 | 445 | neci |
 | 481 | 442 | Christina Spa |
 | 482 | 441 | Darlene McMillan |
 | 483 | 441 | Jessica Christian |
@@ -2622,25 +2622,25 @@
 | 2614 | 51 | Britney E Savoy |
 | 2615 | 51 | Hannah Jay |
 | 2616 | 51 | Cheeky Risegrid |
-| 2617 | 51 | Cranky Linebuilder |
+| 2617 | 51 | David Gross |
 | 2618 | 51 | mayo |
-| 2619 | 51 | Clever Clusterline |
-| 2620 | 51 | QueenBG |
-| 2621 | 51 | Heather Warren |
+| 2619 | 51 | Cranky Linebuilder |
+| 2620 | 51 | Clever Clusterline |
+| 2621 | 51 | QueenBG |
 | 2622 | 51 | Snippy Tilebuilder |
-| 2623 | 50 | Mary Ann Pratt |
-| 2624 | 50 | Cheryl Thode |
-| 2625 | 50 | Hubarb Ismeal |
-| 2626 | 50 | Jeff Roark |
-| 2627 | 50 | Jerzy |
-| 2628 | 50 | Mimi |
-| 2629 | 50 | 8pmb96 |
-| 2630 | 50 | GameName |
-| 2631 | 50 | Silly Snaplink |
-| 2632 | 50 | Tracy M Deak |
-| 2633 | 50 | Heather Babin Caron |
-| 2634 | 50 | Marc Rusan |
-| 2635 | 50 | David Gross |
+| 2623 | 51 | Heather Warren |
+| 2624 | 50 | Mary Ann Pratt |
+| 2625 | 50 | Cheryl Thode |
+| 2626 | 50 | Hubarb Ismeal |
+| 2627 | 50 | Jeff Roark |
+| 2628 | 50 | Jerzy |
+| 2629 | 50 | Mimi |
+| 2630 | 50 | 8pmb96 |
+| 2631 | 50 | GameName |
+| 2632 | 50 | Silly Snaplink |
+| 2633 | 50 | Tracy M Deak |
+| 2634 | 50 | Heather Babin Caron |
+| 2635 | 50 | Marc Rusan |
 | 2636 | 50 | Brittany Hays |
 | 2637 | 50 | Stacy Miskell |
 | 2638 | 50 | Mallory LeGrand |
