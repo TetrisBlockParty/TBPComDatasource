@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 11:38:23 UTC
+# Standings for team4 as of 2026-02-25 11:39:23 UTC
 
 **Total Participants:** 2200
 
@@ -26,7 +26,7 @@
 | 18 | 2805 | Ancient Intuition |
 | 19 | 2642 | GreenJeepGirl |
 | 20 | 2537 | Jason Allen |
-| 21 | 2510 | Misty Hollibaugh |
+| 21 | 2529 | Misty Hollibaugh |
 | 22 | 2427 | Ayanna Soto |
 | 23 | 2408 | Michelle Pearman |
 | 24 | 2344 | Jayna Anoc |
@@ -36,10 +36,10 @@
 | 28 | 2106 | Aden Moss |
 | 29 | 2082 | Rachel Anne |
 | 30 | 2077 | Landon Keith Graffeo |
-| 31 | 2050 | Cassie Michaux |
+| 31 | 2051 | Cassie Michaux |
 | 32 | 1987 | Johnny Yang Cotter |
-| 33 | 1962 | Cool Buildout |
-| 34 | 1956 | Rebecca Moulton Pinciaro |
+| 33 | 1966 | Rebecca Moulton Pinciaro |
+| 34 | 1962 | Cool Buildout |
 | 35 | 1945 | Dustin Robert |
 | 36 | 1937 | Jae Job |
 | 37 | 1805 | Ash |
@@ -790,23 +790,23 @@
 | 782 | 191 | Cece |
 | 783 | 190 | Joni Marie Flanary |
 | 784 | 190 | Griffen |
-| 785 | 190 | Kristin MacDonald |
-| 786 | 189 | Glitzy Crasher |
-| 787 | 189 | Bad company |
-| 788 | 189 | Krista Buffaloe |
-| 789 | 189 | Matthew Doyle |
-| 790 | 188 | Milly Johnson |
-| 791 | 188 | Tina |
-| 792 | 188 | Jamie Mclean |
-| 793 | 188 | Jelly |
-| 794 | 188 | Quirky Puzzler |
+| 785 | 190 | Quirky Puzzler |
+| 786 | 190 | Kristin MacDonald |
+| 787 | 189 | Glitzy Crasher |
+| 788 | 189 | Bad company |
+| 789 | 189 | Krista Buffaloe |
+| 790 | 189 | Matthew Doyle |
+| 791 | 188 | Milly Johnson |
+| 792 | 188 | Tina |
+| 793 | 188 | Jamie Mclean |
+| 794 | 188 | Jelly |
 | 795 | 187 | mini |
 | 796 | 187 | Tina Williams |
 | 797 | 187 | Jason Punch |
 | 798 | 186 | Kanci McKnight |
 | 799 | 186 | Empress Oasis |
-| 800 | 186 | Morgan Patrick |
-| 801 | 186 | Jessica Johnston |
+| 800 | 186 | Jessica Johnston |
+| 801 | 186 | Morgan Patrick |
 | 802 | 185 | Joe Lonnemann |
 | 803 | 185 | Marcela Johnson |
 | 804 | 185 | Nikisha Reed |
@@ -829,8 +829,8 @@
 | 821 | 182 | Tamika Starkey |
 | 822 | 182 | Alo |
 | 823 | 182 | Hoppy Clearer |
-| 824 | 181 | Christian Torres |
-| 825 | 181 | Caitlyn Brown |
+| 824 | 181 | Caitlyn Brown |
+| 825 | 181 | Christian Torres |
 | 826 | 181 | Diamond Johnson |
 | 827 | 181 | Mark Willman |
 | 828 | 181 | Sassy Gridzone |
