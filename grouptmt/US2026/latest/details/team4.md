@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 17:28:44 UTC
+# Standings for team4 as of 2026-02-25 17:29:24 UTC
 
 **Total Participants:** 2236
 
@@ -525,35 +525,35 @@
 | 517 | 305 | Sholom Fried |
 | 518 | 305 | Bubbly Twistpiece |
 | 519 | 304 | Ashley Danielle |
-| 520 | 301 | Ashlee Carnes |
-| 521 | 301 | Brooke Kaune |
-| 522 | 301 | Squeezy Pearsall |
-| 523 | 301 | Thomas Hettenhaus |
-| 524 | 300 | Bigeddie |
-| 525 | 299 | Jennifer Renee |
-| 526 | 299 | Robert Rangel |
-| 527 | 298 | Jackie Marie |
-| 528 | 297 | Lorena Guerrero-Barron |
-| 529 | 296 | Jesse Saville |
-| 530 | 296 | Sam Middleton |
-| 531 | 295 | Yanais Fernandez |
-| 532 | 295 | Lisa Bush |
-| 533 | 295 | moneybagz |
-| 534 | 294 | Leila |
+| 520 | 303 | Brian Owens |
+| 521 | 301 | Ashlee Carnes |
+| 522 | 301 | Brooke Kaune |
+| 523 | 301 | Squeezy Pearsall |
+| 524 | 301 | Thomas Hettenhaus |
+| 525 | 300 | Bigeddie |
+| 526 | 299 | Jennifer Renee |
+| 527 | 299 | Robert Rangel |
+| 528 | 298 | Jackie Marie |
+| 529 | 297 | Lorena Guerrero-Barron |
+| 530 | 296 | Jesse Saville |
+| 531 | 296 | Sam Middleton |
+| 532 | 295 | moneybagz |
+| 533 | 295 | Lisa Bush |
+| 534 | 295 | Yanais Fernandez |
 | 535 | 294 | Jeff Roberts |
 | 536 | 294 | BootsMcGee |
-| 537 | 292 | Smiley Shifter |
-| 538 | 292 | Epic Curvetile |
-| 539 | 290 | Cheery Fitline |
-| 540 | 288 | Brian Owens |
+| 537 | 294 | Leila |
+| 538 | 292 | Smiley Shifter |
+| 539 | 292 | Epic Curvetile |
+| 540 | 290 | Cheery Fitline |
 | 541 | 288 | Speedy Swipe |
-| 542 | 287 | Globofish |
-| 543 | 287 | Kelly Adams Carnahan |
-| 544 | 287 | Ziggy |
-| 545 | 287 | Hyper Shatterbuilder |
+| 542 | 287 | Hyper Shatterbuilder |
+| 543 | 287 | Ziggy |
+| 544 | 287 | Globofish |
+| 545 | 287 | Kelly Adams Carnahan |
 | 546 | 286 | Daring Pivot |
-| 547 | 286 | JoJo |
-| 548 | 286 | Brandi Durig |
+| 547 | 286 | Brandi Durig |
+| 548 | 286 | JoJo |
 | 549 | 285 | Elizabeth Tinoco |
 | 550 | 285 | Rhys Morgan |
 | 551 | 284 | Mike Kremen |
@@ -816,9 +816,9 @@
 | 808 | 191 | Gina Sexton Powell |
 | 809 | 191 | Cece |
 | 810 | 190 | Joni Marie Flanary |
-| 811 | 190 | Matt Rawls |
-| 812 | 190 | Joe Lonnemann |
-| 813 | 189 | Krista Buffaloe |
+| 811 | 190 | Krista Buffaloe |
+| 812 | 190 | Matt Rawls |
+| 813 | 190 | Joe Lonnemann |
 | 814 | 189 | FreckledFlamingo |
 | 815 | 189 | Glitzy Crasher |
 | 816 | 189 | Dustin Dodson |
