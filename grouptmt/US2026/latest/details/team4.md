@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 14:54:44 UTC
+# Standings for team4 as of 2026-02-25 14:55:22 UTC
 
 **Total Participants:** 2217
 
@@ -145,8 +145,8 @@
 | 137 | 812 | TheNeesh50 |
 | 138 | 802 | Crystal Carroll |
 | 139 | 796 | Austin Owens |
-| 140 | 788 | Lucas J Sutton |
-| 141 | 786 | Adawna Swires |
+| 140 | 796 | Adawna Swires |
+| 141 | 788 | Lucas J Sutton |
 | 142 | 784 | Jamie Mann-Deichmann |
 | 143 | 781 | Savannah Overdorf |
 | 144 | 780 | Serena Goodridge |
@@ -156,14 +156,14 @@
 | 148 | 760 | Porkobello |
 | 149 | 758 | H.R. Block |
 | 150 | 752 | Jessica Lynn Cutlip |
-| 151 | 744 | shar |
-| 152 | 743 | 🥔🥔 Spudz |
-| 153 | 741 | Jacqueline Helm |
-| 154 | 740 | Rebecca Morris |
-| 155 | 739 | Berklie Apedaile |
-| 156 | 739 | George Nutt |
-| 157 | 739 | Rodney McMath Jr. |
-| 158 | 739 | Raegan Lane-Ross |
+| 151 | 745 | Rebecca Morris |
+| 152 | 744 | shar |
+| 153 | 743 | 🥔🥔 Spudz |
+| 154 | 741 | Jacqueline Helm |
+| 155 | 739 | Rodney McMath Jr. |
+| 156 | 739 | Raegan Lane-Ross |
+| 157 | 739 | Berklie Apedaile |
+| 158 | 739 | George Nutt |
 | 159 | 735 | Chilly Crasher |
 | 160 | 735 | Lori |
 | 161 | 733 | Cursed Hag |
@@ -180,19 +180,19 @@
 | 172 | 695 | Latisha Davis |
 | 173 | 694 | Dana Scott |
 | 174 | 686 | Ernest Maxwell |
-| 175 | 680 | Melvin Baird |
-| 176 | 678 | April Rondinone |
-| 177 | 675 | YoMomma |
-| 178 | 671 | Cristy Duerksen |
-| 179 | 671 | Angelito |
-| 180 | 665 | Shiny Fit |
-| 181 | 664 | Kim Hunt |
-| 182 | 660 | Amanda Pauldo-Ivy |
-| 183 | 659 | JPW |
-| 184 | 657 | Cranky Rollpiece |
-| 185 | 657 | Erin Thomas |
-| 186 | 655 | Steph Marie |
-| 187 | 651 | Erin Sabol |
+| 175 | 681 | Erin Sabol |
+| 176 | 680 | Melvin Baird |
+| 177 | 678 | April Rondinone |
+| 178 | 675 | YoMomma |
+| 179 | 671 | Cristy Duerksen |
+| 180 | 671 | Angelito |
+| 181 | 665 | Shiny Fit |
+| 182 | 664 | Kim Hunt |
+| 183 | 660 | Amanda Pauldo-Ivy |
+| 184 | 659 | JPW |
+| 185 | 657 | Cranky Rollpiece |
+| 186 | 657 | Erin Thomas |
+| 187 | 655 | Steph Marie |
 | 188 | 648 | Jenna Ingersoll |
 | 189 | 647 | KM8 |
 | 190 | 646 | Damn Libra |
@@ -1472,18 +1472,18 @@
 | 1464 | 63 | SpyderByt3 |
 | 1465 | 63 | Colleen Keller |
 | 1466 | 63 | Michelle Cox |
-| 1467 | 63 | Pamela Hagedorn |
+| 1467 | 63 | Shaterika Tunie King |
 | 1468 | 63 | peekaboo |
 | 1469 | 63 | Tammie Jewel DeSimon |
 | 1470 | 63 | FanODisney |
 | 1471 | 63 | Wormtown girl |
 | 1472 | 63 | Wet Noodle |
 | 1473 | 63 | John Robert Roe |
-| 1474 | 63 | Cherry cola pepper |
-| 1475 | 62 | Shaterika Tunie King |
-| 1476 | 62 | Jaycool |
-| 1477 | 62 | Dreamy Jumper |
-| 1478 | 62 | Pretty 💕 |
+| 1474 | 63 | Pamela Hagedorn |
+| 1475 | 63 | Cherry cola pepper |
+| 1476 | 62 | Pretty 💕 |
+| 1477 | 62 | Jaycool |
+| 1478 | 62 | Dreamy Jumper |
 | 1479 | 62 | yuh |
 | 1480 | 62 | Clever Caster |
 | 1481 | 62 | Bouncy Rotator |
