@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 21:28:45 UTC
+# Standings for team1 as of 2026-02-25 21:29:22 UTC
 
 **Total Participants:** 2532
 
@@ -502,9 +502,9 @@
 | 494 | 340 | Zesty Brickzone |
 | 495 | 340 | Toph |
 | 496 | 339 | Joe Coon |
-| 497 | 338 | Henry Lanier |
-| 498 | 338 | Justin Canape |
-| 499 | 337 | Brave Slice |
+| 497 | 339 | Brave Slice |
+| 498 | 338 | Henry Lanier |
+| 499 | 338 | Justin Canape |
 | 500 | 336 | Steven Collins |
 | 501 | 336 | Mavria Comeaux Hinton |
 | 502 | 336 | Michelle |
@@ -1001,30 +1001,30 @@
 | 993 | 164 | Meechie |
 | 994 | 164 | Shawn Rodgers |
 | 995 | 164 | Nellie Cummings |
-| 996 | 164 | Boog |
-| 997 | 164 | Brahim Amara |
-| 998 | 164 | Billie Garrett |
-| 999 | 164 | Rockin Red |
-| 1000 | 164 | Toespixe |
-| 1001 | 163 | Snippy Piecefit |
-| 1002 | 163 | Perla Silva |
-| 1003 | 163 | Misha Harris |
-| 1004 | 163 | Trisha Matthews |
-| 1005 | 162 | Tara |
-| 1006 | 162 | Deanna Scott |
-| 1007 | 162 | Sari Jones |
-| 1008 | 162 | Loony Patternbuilder |
-| 1009 | 162 | Steve Robinson |
-| 1010 | 161 | Christy Allen |
+| 996 | 164 | Chelsea Simpson |
+| 997 | 164 | Boog |
+| 998 | 164 | Brahim Amara |
+| 999 | 164 | Billie Garrett |
+| 1000 | 164 | Rockin Red |
+| 1001 | 164 | Toespixe |
+| 1002 | 163 | Trisha Matthews |
+| 1003 | 163 | Snippy Piecefit |
+| 1004 | 163 | Perla Silva |
+| 1005 | 163 | Misha Harris |
+| 1006 | 162 | Tara |
+| 1007 | 162 | Loony Patternbuilder |
+| 1008 | 162 | Deanna Scott |
+| 1009 | 162 | Sari Jones |
+| 1010 | 162 | Steve Robinson |
 | 1011 | 161 | Christine Smith |
-| 1012 | 161 | Sheay |
+| 1012 | 161 | Christy Allen |
 | 1013 | 161 | Christina Gutierrez |
-| 1014 | 160 | Chelsea Simpson |
+| 1014 | 161 | Sheay |
 | 1015 | 160 | Lively Buildout |
-| 1016 | 159 | Josh Watters |
+| 1016 | 159 | Shannon Elizabeth |
 | 1017 | 159 | Glitzy Balance |
-| 1018 | 159 | Chilly Glidezone |
-| 1019 | 159 | Shannon Elizabeth |
+| 1018 | 159 | Josh Watters |
+| 1019 | 159 | Chilly Glidezone |
 | 1020 | 158 | Frilly Fitblock |
 | 1021 | 158 | Hungsolo9 |
 | 1022 | 158 | Josh Yazvac |
