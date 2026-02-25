@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 13:14:44 UTC
+# Standings for team1 as of 2026-02-25 13:15:22 UTC
 
 **Total Participants:** 2467
 
@@ -72,12 +72,12 @@
 | 64 | 1401 | Adam Byrd |
 | 65 | 1390 | Hasbro Bros |
 | 66 | 1356 | TSwag |
-| 67 | 1328 | Karin Gillen |
-| 68 | 1324 | Lawrence Belanger |
-| 69 | 1320 | Kathy Langham |
-| 70 | 1315 | Cheeky Twistslam |
-| 71 | 1293 | Lori Sanders- Davis |
-| 72 | 1292 | Kristen Gideon |
+| 67 | 1332 | Kristen Gideon |
+| 68 | 1328 | Karin Gillen |
+| 69 | 1324 | Lawrence Belanger |
+| 70 | 1320 | Kathy Langham |
+| 71 | 1315 | Cheeky Twistslam |
+| 72 | 1293 | Lori Sanders- Davis |
 | 73 | 1289 | Kristen Roles Robben |
 | 74 | 1282 | Patrick Luckenbill |
 | 75 | 1282 | Stef Hu |
@@ -247,12 +247,12 @@
 | 239 | 526 | Teddy Alexander |
 | 240 | 525 | Dizzy Slider |
 | 241 | 525 | Tamara Brown |
-| 242 | 522 | Happy Snapbuild |
-| 243 | 520 | Chelsea Dahlquist |
-| 244 | 520 | Lindsay Glover |
-| 245 | 520 | Reesey Enyart |
-| 246 | 520 | Dreamy Drop |
-| 247 | 520 | David Miller |
+| 242 | 525 | David Miller |
+| 243 | 522 | Happy Snapbuild |
+| 244 | 520 | Chelsea Dahlquist |
+| 245 | 520 | Lindsay Glover |
+| 246 | 520 | Reesey Enyart |
+| 247 | 520 | Dreamy Drop |
 | 248 | 518 | Connie |
 | 249 | 516 | Amanda Holibaugh |
 | 250 | 516 | LD1 |
@@ -463,14 +463,14 @@
 | 455 | 342 | Toni Sagenbrecht |
 | 456 | 342 | Marianita Garcia |
 | 457 | 340 | Dawon Ksk Capers |
-| 458 | 340 | Toph |
-| 459 | 339 | LC |
-| 460 | 339 | Zesty Brickzone |
-| 461 | 339 | Joe Coon |
-| 462 | 338 | cheeseman |
-| 463 | 336 | Steven Collins |
-| 464 | 336 | Christy LaSure |
-| 465 | 336 | Frisky Base |
+| 458 | 340 | Frisky Base |
+| 459 | 340 | Toph |
+| 460 | 339 | LC |
+| 461 | 339 | Zesty Brickzone |
+| 462 | 339 | Joe Coon |
+| 463 | 338 | cheeseman |
+| 464 | 336 | Steven Collins |
+| 465 | 336 | Christy LaSure |
 | 466 | 335 | GentleKitten7 |
 | 467 | 335 | John Barron |
 | 468 | 334 | Leslie Bush Yarbrough |
@@ -910,15 +910,15 @@
 | 902 | 174 | Margie Olivas |
 | 903 | 174 | Lalo Enriquez |
 | 904 | 173 | Mizzledagod |
-| 905 | 172 | Charla Pross-Fugleberg |
-| 906 | 172 | Steven Schultheis |
-| 907 | 172 | Nykia Smith |
-| 908 | 172 | Francine-frankie Ritzio-Rizzo |
-| 909 | 172 | EverPi |
-| 910 | 172 | Althaea Frost Ambrose |
-| 911 | 171 | Kerry Lee Powell |
-| 912 | 171 | George Dalton |
-| 913 | 171 | Jean Graziano |
+| 905 | 173 | Jean Graziano |
+| 906 | 172 | Charla Pross-Fugleberg |
+| 907 | 172 | Steven Schultheis |
+| 908 | 172 | Nykia Smith |
+| 909 | 172 | Francine-frankie Ritzio-Rizzo |
+| 910 | 172 | EverPi |
+| 911 | 172 | Althaea Frost Ambrose |
+| 912 | 171 | Kerry Lee Powell |
+| 913 | 171 | George Dalton |
 | 914 | 171 | Greg Premoe |
 | 915 | 171 | Brian |
 | 916 | 170 | Cheeky Curvetile |
@@ -1375,7 +1375,7 @@
 | 1367 | 87 | Larry Brazil |
 | 1368 | 87 | Patricia Mills |
 | 1369 | 87 | Sanita Latham |
-| 1370 | 86 | Hoppy Snapgrid |
+| 1370 | 86 | Laura Small |
 | 1371 | 86 | Barbara Benjamin |
 | 1372 | 86 | Stephanie |
 | 1373 | 86 | Charles Holland |
@@ -1383,13 +1383,13 @@
 | 1375 | 86 | Stephanie Mounts |
 | 1376 | 86 | Daynj |
 | 1377 | 86 | Leann Nolley |
-| 1378 | 85 | Bwebb Bryan |
-| 1379 | 85 | Skuba Cece |
-| 1380 | 85 | weezy |
-| 1381 | 85 | Bob Thorp |
-| 1382 | 84 | Purp |
-| 1383 | 84 | Chirpy Tiler |
-| 1384 | 84 | Laura Small |
+| 1378 | 86 | Hoppy Snapgrid |
+| 1379 | 85 | Bwebb Bryan |
+| 1380 | 85 | Skuba Cece |
+| 1381 | 85 | weezy |
+| 1382 | 85 | Bob Thorp |
+| 1383 | 84 | Purp |
+| 1384 | 84 | Chirpy Tiler |
 | 1385 | 83 | Jessicer |
 | 1386 | 83 | Goofy Liney |
 | 1387 | 83 | Theresa Crawford |
