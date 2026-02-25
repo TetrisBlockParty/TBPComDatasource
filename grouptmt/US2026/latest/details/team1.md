@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 19:20:44 UTC
+# Standings for team1 as of 2026-02-25 19:21:23 UTC
 
 **Total Participants:** 2515
 
@@ -86,7 +86,7 @@
 | 78 | 1242 | Amy Griffith |
 | 79 | 1224 | Jason Cox |
 | 80 | 1201 | Jason Jones |
-| 81 | 1193 | Jacqueline Williams |
+| 81 | 1198 | Jacqueline Williams |
 | 82 | 1180 | Shalene Frederick Autrey |
 | 83 | 1179 | Angel Fowler |
 | 84 | 1168 | Dee Perry |
@@ -182,7 +182,7 @@
 | 174 | 697 | Snippy Wipebuilder |
 | 175 | 695 | Evan Richmond |
 | 176 | 686 | Ty Brown |
-| 177 | 682 | Jessie Welch |
+| 177 | 683 | Jessie Welch |
 | 178 | 678 | Ryan Lunnin |
 | 179 | 677 | Logan McFarland |
 | 180 | 672 | Evie Khalil |
@@ -517,8 +517,8 @@
 | 509 | 327 | Snappy Bridgepiece |
 | 510 | 327 | Agustin Duarte Orozco |
 | 511 | 327 | Neely Janelle Stewart |
-| 512 | 323 | JaPria Rodgers |
-| 513 | 322 | Melanie Kelley |
+| 512 | 326 | Melanie Kelley |
+| 513 | 323 | JaPria Rodgers |
 | 514 | 322 | Camelia Trevillion |
 | 515 | 322 | Ed Franz Jr |
 | 516 | 322 | Sunshine |
@@ -1506,50 +1506,50 @@
 | 1498 | 75 | Eric Inniss |
 | 1499 | 74 | Shawn Reeser Morgan |
 | 1500 | 74 | Amy Hoats |
-| 1501 | 74 | Darlene Nani Pack Viernes |
-| 1502 | 74 | Kayyjayy |
+| 1501 | 74 | Kayyjayy |
+| 1502 | 74 | Edward Woodall |
 | 1503 | 74 | Smelly |
-| 1504 | 74 | Edward Woodall |
-| 1505 | 74 | Scott Cutter |
-| 1506 | 73 | Loneell Hyland |
-| 1507 | 73 | Zappy Pivoty |
-| 1508 | 73 | Bouncy Link |
-| 1509 | 73 | Grandmeemers22 |
-| 1510 | 73 | Wynn Cook |
+| 1504 | 74 | Scott Cutter |
+| 1505 | 74 | Darlene Nani Pack Viernes |
+| 1506 | 73 | Grandmeemers22 |
+| 1507 | 73 | Bouncy Link |
+| 1508 | 73 | Brian Crenshaw |
+| 1509 | 73 | Zappy Pivoty |
+| 1510 | 73 | Loneell Hyland |
 | 1511 | 73 | Stephanie Twoallbeefpattiez Johnson |
-| 1512 | 73 | Channis |
-| 1513 | 72 | Samantha Schmidt |
-| 1514 | 72 | Potato |
-| 1515 | 72 | Beverly S. Robinson |
-| 1516 | 72 | Hoppy Clearbuilder |
-| 1517 | 72 | Will Iams Chole |
-| 1518 | 72 | Randi Voight |
-| 1519 | 72 | COBETRYCE |
-| 1520 | 72 | GDerro |
-| 1521 | 71 | Kimchi |
-| 1522 | 71 | Bridgette |
-| 1523 | 71 | Katie Mccallaham |
-| 1524 | 71 | Vanessa G Keill |
-| 1525 | 71 | Julia Wilson |
-| 1526 | 71 | Witty Frame |
-| 1527 | 71 | Frisky Setter |
-| 1528 | 71 | Lexicon5 |
-| 1529 | 71 | Nerdy Rotator |
-| 1530 | 71 | Tiffany Laura |
-| 1531 | 71 | Quirky Catcher |
-| 1532 | 70 | SuzyQ |
+| 1512 | 73 | Wynn Cook |
+| 1513 | 73 | Channis |
+| 1514 | 72 | Hoppy Clearbuilder |
+| 1515 | 72 | COBETRYCE |
+| 1516 | 72 | Will Iams Chole |
+| 1517 | 72 | GDerro |
+| 1518 | 72 | Potato |
+| 1519 | 72 | Randi Voight |
+| 1520 | 72 | Beverly S. Robinson |
+| 1521 | 72 | Samantha Schmidt |
+| 1522 | 71 | Witty Frame |
+| 1523 | 71 | Quirky Catcher |
+| 1524 | 71 | Kimchi |
+| 1525 | 71 | Bridgette |
+| 1526 | 71 | Julia Wilson |
+| 1527 | 71 | Tiffany Laura |
+| 1528 | 71 | Nerdy Rotator |
+| 1529 | 71 | Vanessa G Keill |
+| 1530 | 71 | Lexicon5 |
+| 1531 | 71 | Frisky Setter |
+| 1532 | 71 | Katie Mccallaham |
 | 1533 | 70 | Dennis Eitler |
-| 1534 | 70 | Shaun Houglin |
-| 1535 | 70 | Dana C. Howell |
-| 1536 | 70 | Happy Step |
-| 1537 | 70 | Jack Shafer |
-| 1538 | 70 | BadBoyJeff |
-| 1539 | 70 | pat |
-| 1540 | 70 | Rachael Marie |
-| 1541 | 69 | stormie |
-| 1542 | 69 | Pamela Jones |
-| 1543 | 69 | Zany Snapline |
-| 1544 | 69 | Brian Crenshaw |
+| 1534 | 70 | SuzyQ |
+| 1535 | 70 | Shaun Houglin |
+| 1536 | 70 | Dana C. Howell |
+| 1537 | 70 | Happy Step |
+| 1538 | 70 | Jack Shafer |
+| 1539 | 70 | BadBoyJeff |
+| 1540 | 70 | pat |
+| 1541 | 70 | Rachael Marie |
+| 1542 | 69 | stormie |
+| 1543 | 69 | Pamela Jones |
+| 1544 | 69 | Zany Snapline |
 | 1545 | 69 | Jesse Meehan |
 | 1546 | 69 | Katherine Marie Spittle |
 | 1547 | 69 | Jess Ortiz |
