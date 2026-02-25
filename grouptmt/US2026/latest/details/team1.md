@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 07:50:45 UTC
+# Standings for team1 as of 2026-02-25 07:51:23 UTC
 
 **Total Participants:** 2434
 
@@ -111,8 +111,8 @@
 | 103 | 958 | Mario Cab |
 | 104 | 951 | Hellsin |
 | 105 | 949 | Madison Wicks |
-| 106 | 947 | Amanda Johnson Huffman |
-| 107 | 947 | Desiree Deschaine Havee |
+| 106 | 947 | Desiree Deschaine Havee |
+| 107 | 947 | Amanda Johnson Huffman |
 | 108 | 941 | Hyper |
 | 109 | 938 | Kellie |
 | 110 | 922 | Tawnya Peltonen |
@@ -131,24 +131,24 @@
 | 123 | 872 | phrmblk24 |
 | 124 | 859 | Elaine Elaine |
 | 125 | 855 | Giddy Cascade |
-| 126 | 854 | Robert Benito |
-| 127 | 842 | Carrie Smith |
-| 128 | 839 | Happy Basegrid |
-| 129 | 833 | Bob |
-| 130 | 825 | Denice Dee |
-| 131 | 824 | Debbie Kane |
-| 132 | 823 | Melissa Lemmon |
-| 133 | 823 | Dandy Basegrid |
-| 134 | 822 | Susanna Guerry |
-| 135 | 815 | Cartier |
-| 136 | 814 | MIKOZ |
-| 137 | 804 | Snappy Matcher |
-| 138 | 802 | Tdub |
-| 139 | 798 | Virginia Gray Floyd |
-| 140 | 780 | Christy Jones |
-| 141 | 779 | Tanya Carpenter-Reynolds |
-| 142 | 778 | Erin Rosberg |
-| 143 | 775 | Susan Ward |
+| 126 | 855 | Susan Ward |
+| 127 | 854 | Robert Benito |
+| 128 | 842 | Carrie Smith |
+| 129 | 839 | Happy Basegrid |
+| 130 | 833 | Bob |
+| 131 | 825 | Denice Dee |
+| 132 | 824 | MIKOZ |
+| 133 | 824 | Debbie Kane |
+| 134 | 823 | Dandy Basegrid |
+| 135 | 823 | Melissa Lemmon |
+| 136 | 822 | Susanna Guerry |
+| 137 | 815 | Cartier |
+| 138 | 804 | Snappy Matcher |
+| 139 | 802 | Tdub |
+| 140 | 798 | Virginia Gray Floyd |
+| 141 | 780 | Christy Jones |
+| 142 | 779 | Tanya Carpenter-Reynolds |
+| 143 | 778 | Erin Rosberg |
 | 144 | 770 | Zappy Curvetile |
 | 145 | 767 | Basment Living |
 | 146 | 761 | lil mickey |
@@ -177,8 +177,8 @@
 | 169 | 647 | Damon J. Martin |
 | 170 | 644 | Flashy Rotator |
 | 171 | 642 | SkipTheSadSauce |
-| 172 | 637 | Jennifer Hardman |
-| 173 | 637 | Standia Civil |
+| 172 | 637 | Standia Civil |
+| 173 | 637 | Jennifer Hardman |
 | 174 | 636 | Eric DeSimone |
 | 175 | 633 | ALFD |
 | 176 | 629 | Chase Collinsworth |
@@ -199,8 +199,8 @@
 | 191 | 589 | Rat666 |
 | 192 | 587 | Luciano Moreira |
 | 193 | 585 | John J. Cronin |
-| 194 | 581 | Jessica Russell |
-| 195 | 581 | Rebekah LeiAnn Bonsell |
+| 194 | 581 | Rebekah LeiAnn Bonsell |
+| 195 | 581 | Jessica Russell |
 | 196 | 579 | Michelle Beres |
 | 197 | 578 | Hasty Cascader |
 | 198 | 577 | Constance Risner |
@@ -600,13 +600,13 @@
 | 592 | 261 | Corrie Grant Smithson |
 | 593 | 261 | Nerdy Curvebuilder |
 | 594 | 261 | Alex Nicol |
-| 595 | 260 | Mathew Harris |
-| 596 | 260 | Colleen Wise |
-| 597 | 260 | Divaaa |
-| 598 | 260 | Lacy Wolfe |
-| 599 | 260 | Sunflower |
-| 600 | 259 | DENOTS42OSPOT |
-| 601 | 258 | Mariah Cornell |
+| 595 | 261 | Mariah Cornell |
+| 596 | 260 | Mathew Harris |
+| 597 | 260 | Colleen Wise |
+| 598 | 260 | Divaaa |
+| 599 | 260 | Lacy Wolfe |
+| 600 | 260 | Sunflower |
+| 601 | 259 | DENOTS42OSPOT |
 | 602 | 257 | UffleFluff |
 | 603 | 257 | Angel Marie |
 | 604 | 257 | Tipsy Tiltpiece |
@@ -630,8 +630,8 @@
 | 622 | 253 | Shiny Rotate |
 | 623 | 252 | Jordan Brooks |
 | 624 | 252 | grizzly |
-| 625 | 252 | William Blackwell |
-| 626 | 251 | Ruf Lowman |
+| 625 | 252 | Ruf Lowman |
+| 626 | 252 | William Blackwell |
 | 627 | 250 | Dandy Towerbuilder |
 | 628 | 250 | Andrew Boone |
 | 629 | 249 | Lauren Baxter |
@@ -1568,47 +1568,47 @@
 | 1560 | 62 | Chummy Tiltpiece |
 | 1561 | 62 | Rooster |
 | 1562 | 62 | Moneybags |
-| 1563 | 62 | Joshua Brymer |
-| 1564 | 62 | Shanetta Jacob Hannagan Johnson |
-| 1565 | 62 | Kishi |
-| 1566 | 61 | Rose Clark |
-| 1567 | 61 | Robin Blume |
-| 1568 | 61 | Zappy Brickzone |
-| 1569 | 61 | Perky Patternfall |
-| 1570 | 61 | Chirpy Zoney |
-| 1571 | 61 | Jimmie |
-| 1572 | 61 | Kyle Barnes |
-| 1573 | 61 | Brianna Andrews |
-| 1574 | 61 | MasterMook |
-| 1575 | 61 | Todd Barry |
-| 1576 | 61 | Karen Guy |
-| 1577 | 60 | Bambi Cervidae |
-| 1578 | 60 | Patty Sersich |
-| 1579 | 60 | Marcellus Royal |
-| 1580 | 60 | Eric Inniss |
-| 1581 | 60 | Scott Hevenor |
-| 1582 | 60 | Ron |
-| 1583 | 60 | Tracy Farrar |
-| 1584 | 60 | Apex892 |
+| 1563 | 62 | Eric Inniss |
+| 1564 | 62 | Joshua Brymer |
+| 1565 | 62 | Shanetta Jacob Hannagan Johnson |
+| 1566 | 62 | Kishi |
+| 1567 | 61 | Rose Clark |
+| 1568 | 61 | Robin Blume |
+| 1569 | 61 | Zappy Brickzone |
+| 1570 | 61 | Perky Patternfall |
+| 1571 | 61 | Chirpy Zoney |
+| 1572 | 61 | Jimmie |
+| 1573 | 61 | Kyle Barnes |
+| 1574 | 61 | Brianna Andrews |
+| 1575 | 61 | MasterMook |
+| 1576 | 61 | Todd Barry |
+| 1577 | 61 | Karen Guy |
+| 1578 | 60 | Michael Akins |
+| 1579 | 60 | Patty Sersich |
+| 1580 | 60 | Marcellus Royal |
+| 1581 | 60 | Ron |
+| 1582 | 60 | Scott Hevenor |
+| 1583 | 60 | Apex892 |
+| 1584 | 60 | Tracy Farrar |
 | 1585 | 60 | Nikki McGhee |
-| 1586 | 60 | Michael Akins |
-| 1587 | 60 | Dana C. Howell |
-| 1588 | 60 | Samantha Netherly-Ratliff |
-| 1589 | 60 | Vanilla gorilla |
+| 1586 | 60 | Vanilla gorilla |
+| 1587 | 60 | Samantha Netherly-Ratliff |
+| 1588 | 60 | Dana C. Howell |
+| 1589 | 60 | Bambi Cervidae |
 | 1590 | 59 | COWBOY |
-| 1591 | 59 | Kaitlyn Sheldon |
-| 1592 | 59 | Loopy Shiftsnap |
-| 1593 | 59 | Prudence Muzondo |
-| 1594 | 59 | Jr Kelley |
-| 1595 | 59 | Mia Ballard |
-| 1596 | 59 | Cynthia Dalton |
-| 1597 | 59 | Frothy Snapzone |
-| 1598 | 59 | Cielo Rodriguez |
-| 1599 | 58 | Tommy |
-| 1600 | 58 | Ry |
+| 1591 | 59 | Cielo Rodriguez |
+| 1592 | 59 | Frothy Snapzone |
+| 1593 | 59 | Mia Ballard |
+| 1594 | 59 | Cynthia Dalton |
+| 1595 | 59 | Jr Kelley |
+| 1596 | 59 | Kaitlyn Sheldon |
+| 1597 | 59 | Prudence Muzondo |
+| 1598 | 59 | Loopy Shiftsnap |
+| 1599 | 58 | Star Gaze |
+| 1600 | 58 | Tommy |
 | 1601 | 58 | Snazzy Buildsnap |
-| 1602 | 58 | Star Gaze |
-| 1603 | 58 | Tasha Nicole |
+| 1602 | 58 | Tasha Nicole |
+| 1603 | 58 | Ry |
 | 1604 | 58 | Cheryl Harker |
 | 1605 | 58 | Lavon Usher |
 | 1606 | 58 | Jessica Collier |

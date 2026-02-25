@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-25 07:50:45 UTC
+# Standings for team3 as of 2026-02-25 07:51:23 UTC
 
 **Total Participants:** 3660
 
@@ -634,14 +634,14 @@
 | 626 | 361 | Patty White |
 | 627 | 361 | Tammy |
 | 628 | 361 | Zesty Rotater |
-| 629 | 360 | Shiny Snapfit |
-| 630 | 360 | Anna Moeller |
-| 631 | 358 | Bree Sexton |
-| 632 | 357 | Kevin Fountain |
-| 633 | 357 | Allie Kershner |
-| 634 | 355 | Jm |
-| 635 | 355 | Tia Moore |
-| 636 | 355 | Bryan Byrd |
+| 629 | 361 | Bryan Byrd |
+| 630 | 360 | Shiny Snapfit |
+| 631 | 360 | Anna Moeller |
+| 632 | 358 | Bree Sexton |
+| 633 | 357 | Kevin Fountain |
+| 634 | 357 | Allie Kershner |
+| 635 | 355 | Jm |
+| 636 | 355 | Tia Moore |
 | 637 | 354 | Felicia Doxey |
 | 638 | 353 | LaNette Morgan |
 | 639 | 353 | Krystal Gerstberger |
@@ -1192,54 +1192,54 @@
 | 1184 | 208 | YVA🌸🌸 |
 | 1185 | 208 | Karen Butler-Moore |
 | 1186 | 208 | Erin Granger |
-| 1187 | 208 | Andrew Roy |
-| 1188 | 208 | get et |
+| 1187 | 208 | get et |
+| 1188 | 208 | Andrew Roy |
 | 1189 | 207 | Randall Johnstone |
-| 1190 | 207 | Bob Krebs |
-| 1191 | 207 | Lisa Mankin |
-| 1192 | 207 | Mike Spritzer |
-| 1193 | 207 | Jennifer Blake |
-| 1194 | 207 | Dani Robertson |
-| 1195 | 207 | Marketa McClaster |
-| 1196 | 206 | Heather Watson |
-| 1197 | 206 | Tahira Patrice |
-| 1198 | 206 | Slinky Blocker |
-| 1199 | 206 | Gina Bunch |
-| 1200 | 206 | Lively Stacky |
-| 1201 | 205 | MariahG |
-| 1202 | 205 | Nannie Hoopz |
-| 1203 | 205 | AngieMuffin Wap |
-| 1204 | 205 | Bouncy Blockbuilder |
-| 1205 | 205 | Eliza Rivera |
-| 1206 | 204 | Nitty Gritty |
-| 1207 | 204 | Kobe Artis |
-| 1208 | 204 | Rosey Posey |
-| 1209 | 204 | Paula Urlacher |
-| 1210 | 203 | Jasmine Nicole |
-| 1211 | 203 | Brave Builderline |
-| 1212 | 203 | Frothy Gridzone |
-| 1213 | 203 | Frisky Gridmatch |
-| 1214 | 203 | Justplain Killacam Phillips |
-| 1215 | 203 | Dustin Curtis |
-| 1216 | 203 | Zippy bang |
-| 1217 | 203 | Robert Sibigtroth |
-| 1218 | 203 | Octavia Parker Ford |
-| 1219 | 202 | Kari Gibson Simmons |
-| 1220 | 202 | Quirky Builderfit |
-| 1221 | 202 | Convicted |
-| 1222 | 202 | Quirky Stackzone |
-| 1223 | 201 | Shanon R Jackson |
-| 1224 | 201 | Gimmegimmebeer |
-| 1225 | 201 | Amanda Neal |
-| 1226 | 201 | Geronimo |
-| 1227 | 200 | Paizanogrl |
-| 1228 | 200 | Mango |
-| 1229 | 200 | Amanda Jean Stafford |
-| 1230 | 199 | Johnny Hill |
-| 1231 | 199 | Autumn Lenhart |
-| 1232 | 199 | Amy Bast |
-| 1233 | 198 | Schmoo Cat |
-| 1234 | 198 | GeriBlocks |
+| 1190 | 207 | GeriBlocks |
+| 1191 | 207 | Bob Krebs |
+| 1192 | 207 | Lisa Mankin |
+| 1193 | 207 | Mike Spritzer |
+| 1194 | 207 | Jennifer Blake |
+| 1195 | 207 | Dani Robertson |
+| 1196 | 207 | Marketa McClaster |
+| 1197 | 206 | Heather Watson |
+| 1198 | 206 | Tahira Patrice |
+| 1199 | 206 | Slinky Blocker |
+| 1200 | 206 | Gina Bunch |
+| 1201 | 206 | Lively Stacky |
+| 1202 | 205 | MariahG |
+| 1203 | 205 | Nannie Hoopz |
+| 1204 | 205 | AngieMuffin Wap |
+| 1205 | 205 | Bouncy Blockbuilder |
+| 1206 | 205 | Eliza Rivera |
+| 1207 | 204 | Nitty Gritty |
+| 1208 | 204 | Kobe Artis |
+| 1209 | 204 | Rosey Posey |
+| 1210 | 204 | Paula Urlacher |
+| 1211 | 203 | Jasmine Nicole |
+| 1212 | 203 | Brave Builderline |
+| 1213 | 203 | Frothy Gridzone |
+| 1214 | 203 | Frisky Gridmatch |
+| 1215 | 203 | Justplain Killacam Phillips |
+| 1216 | 203 | Dustin Curtis |
+| 1217 | 203 | Zippy bang |
+| 1218 | 203 | Robert Sibigtroth |
+| 1219 | 203 | Octavia Parker Ford |
+| 1220 | 202 | Kari Gibson Simmons |
+| 1221 | 202 | Quirky Builderfit |
+| 1222 | 202 | Convicted |
+| 1223 | 202 | Quirky Stackzone |
+| 1224 | 201 | Shanon R Jackson |
+| 1225 | 201 | Gimmegimmebeer |
+| 1226 | 201 | Amanda Neal |
+| 1227 | 201 | Geronimo |
+| 1228 | 200 | Paizanogrl |
+| 1229 | 200 | Mango |
+| 1230 | 200 | Amanda Jean Stafford |
+| 1231 | 199 | Johnny Hill |
+| 1232 | 199 | Autumn Lenhart |
+| 1233 | 199 | Amy Bast |
+| 1234 | 198 | Schmoo Cat |
 | 1235 | 198 | Brad Dimitroff |
 | 1236 | 198 | Happy Winder |
 | 1237 | 198 | Bec |
