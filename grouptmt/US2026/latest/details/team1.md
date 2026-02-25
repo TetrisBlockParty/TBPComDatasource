@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 17:32:43 UTC
+# Standings for team1 as of 2026-02-25 17:33:23 UTC
 
 **Total Participants:** 2505
 
@@ -581,8 +581,8 @@
 | 573 | 288 | Sassy Towerer |
 | 574 | 287 | Colleen Wise |
 | 575 | 286 | David |
-| 576 | 286 | Teresa |
-| 577 | 285 | Pauline Cortez |
+| 576 | 286 | Pauline Cortez |
+| 577 | 286 | Teresa |
 | 578 | 285 | Joke Sofunny |
 | 579 | 285 | Amber Dollak-Smith |
 | 580 | 284 | Melissa Ann Macko |
@@ -756,14 +756,14 @@
 | 748 | 219 | BrenaBae |
 | 749 | 219 | Paul Osborne |
 | 750 | 218 | Brian Taylor |
-| 751 | 218 | Witty Curve |
-| 752 | 217 | V VIN |
-| 753 | 217 | Bean |
-| 754 | 217 | Sarah Bersano |
-| 755 | 216 | Nicolette Ivory Chastain |
-| 756 | 216 | Shauntina Burke |
-| 757 | 216 | John Garza |
-| 758 | 216 | Tina Kocher Zimmerman |
+| 751 | 218 | Tina Kocher Zimmerman |
+| 752 | 218 | Witty Curve |
+| 753 | 217 | V VIN |
+| 754 | 217 | Bean |
+| 755 | 217 | Sarah Bersano |
+| 756 | 216 | Nicolette Ivory Chastain |
+| 757 | 216 | Shauntina Burke |
+| 758 | 216 | John Garza |
 | 759 | 216 | Elizabeth Shaw |
 | 760 | 215 | KoDaK |
 | 761 | 215 | Oliver Hollins |
@@ -902,40 +902,40 @@
 | 894 | 180 | Theresa Nicole |
 | 895 | 180 | PeppyPenguin |
 | 896 | 180 | Nicole Bryant |
-| 897 | 179 | Ryan White |
-| 898 | 179 | Kathy Murphy |
-| 899 | 179 | Christa Ybarra |
-| 900 | 179 | Jason Helwig |
-| 901 | 179 | Giddy Balancepiece |
-| 902 | 178 | Laurie LeCroy |
-| 903 | 178 | Camio30 |
-| 904 | 178 | Margie Olivas |
-| 905 | 178 | Gayle Costa-Matz |
-| 906 | 178 | Sunny Column |
-| 907 | 178 | Angel Albright |
-| 908 | 177 | Jessica Venable |
-| 909 | 177 | Sara Buuck |
-| 910 | 177 | Steven Schultheis |
-| 911 | 177 | Twisty Wobbler |
-| 912 | 177 | Sharon Francis |
-| 913 | 176 | Aimee Horton |
-| 914 | 176 | kels |
-| 915 | 176 | Spicy Zoner |
-| 916 | 176 | VaSharon Crenshaw |
-| 917 | 175 | Michaela Wakefield |
-| 918 | 175 | Whatz |
-| 919 | 175 | Lisa Miller Trump |
-| 920 | 175 | Sharon Thomas |
-| 921 | 175 | Suzanne |
+| 897 | 180 | Spicy Zoner |
+| 898 | 179 | Ryan White |
+| 899 | 179 | Kathy Murphy |
+| 900 | 179 | Christa Ybarra |
+| 901 | 179 | Jason Helwig |
+| 902 | 179 | Giddy Balancepiece |
+| 903 | 178 | Laurie LeCroy |
+| 904 | 178 | Camio30 |
+| 905 | 178 | Margie Olivas |
+| 906 | 178 | Gayle Costa-Matz |
+| 907 | 178 | Sunny Column |
+| 908 | 178 | Angel Albright |
+| 909 | 177 | Jessica Venable |
+| 910 | 177 | Sara Buuck |
+| 911 | 177 | Steven Schultheis |
+| 912 | 177 | Twisty Wobbler |
+| 913 | 177 | Sharon Francis |
+| 914 | 176 | Aimee Horton |
+| 915 | 176 | VaSharon Crenshaw |
+| 916 | 176 | kels |
+| 917 | 175 | Whatz |
+| 918 | 175 | Michaela Wakefield |
+| 919 | 175 | Suzanne |
+| 920 | 175 | Lisa Miller Trump |
+| 921 | 175 | Sharon Thomas |
 | 922 | 174 | Nicholes Stanley |
 | 923 | 173 | Mizzledagod |
-| 924 | 172 | Althaea Frost Ambrose |
-| 925 | 172 | Nykia Smith |
-| 926 | 172 | EverPi |
+| 924 | 172 | EverPi |
+| 925 | 172 | Althaea Frost Ambrose |
+| 926 | 172 | Nykia Smith |
 | 927 | 172 | Francine-frankie Ritzio-Rizzo |
 | 928 | 171 | Shante Jenkins |
-| 929 | 171 | Kerry Lee Powell |
-| 930 | 171 | George Dalton |
+| 929 | 171 | George Dalton |
+| 930 | 171 | Kerry Lee Powell |
 | 931 | 171 | Brian |
 | 932 | 171 | Greg Premoe |
 | 933 | 170 | Lin |
