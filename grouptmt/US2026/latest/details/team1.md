@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 03:10:46 UTC
+# Standings for team1 as of 2026-02-25 03:11:22 UTC
 
 **Total Participants:** 2382
 
@@ -116,8 +116,8 @@
 | 108 | 913 | Dee Perry |
 | 109 | 910 | Tinah Montanna |
 | 110 | 909 | Ash Galvan |
-| 111 | 904 | Fmp |
-| 112 | 902 | Kellie |
+| 111 | 905 | Kellie |
+| 112 | 904 | Fmp |
 | 113 | 901 | Oscar Zamora |
 | 114 | 884 | Sevens4L |
 | 115 | 883 | Chuck Gannon |
@@ -127,12 +127,12 @@
 | 119 | 855 | Angel Fowler |
 | 120 | 851 | Chris K |
 | 121 | 839 | Happy Basegrid |
-| 122 | 827 | Robert Benito |
-| 123 | 825 | Denice Dee |
+| 122 | 829 | Carrie Smith |
+| 123 | 827 | Robert Benito |
 | 124 | 825 | Bob |
-| 125 | 824 | Debbie Kane |
-| 126 | 823 | Melissa Lemmon |
-| 127 | 823 | Carrie Smith |
+| 125 | 825 | Denice Dee |
+| 126 | 824 | Debbie Kane |
+| 127 | 823 | Melissa Lemmon |
 | 128 | 823 | Dandy Basegrid |
 | 129 | 822 | Susanna Guerry |
 | 130 | 803 | Elaine Elaine |
@@ -577,40 +577,40 @@
 | 569 | 262 | Amanda Marie Sutton |
 | 570 | 262 | Joke Sofunny |
 | 571 | 261 | Corrie Grant Smithson |
-| 572 | 261 | Alex Nicol |
-| 573 | 261 | Nerdy Curvebuilder |
+| 572 | 261 | Nerdy Curvebuilder |
+| 573 | 261 | Alex Nicol |
 | 574 | 260 | Lacy Wolfe |
-| 575 | 260 | Mathew Harris |
-| 576 | 260 | Divaaa |
-| 577 | 260 | Sunflower |
-| 578 | 260 | Colleen Wise |
-| 579 | 257 | Angel Marie |
-| 580 | 257 | Brian Ash |
+| 575 | 260 | Colleen Wise |
+| 576 | 260 | Sunflower |
+| 577 | 260 | Divaaa |
+| 578 | 260 | Mathew Harris |
+| 579 | 257 | Tipsy Tiltpiece |
+| 580 | 257 | Angel Marie |
 | 581 | 257 | Andrew Backes |
-| 582 | 256 | Emmarieta Mendez |
-| 583 | 256 | Amber Dollak-Smith |
-| 584 | 256 | Blake Cobb |
-| 585 | 256 | Loony Bridgepiece |
-| 586 | 255 | Malaka |
-| 587 | 255 | Marqs Mel |
-| 588 | 255 | Tipsy Tiltpiece |
-| 589 | 255 | Goobette |
-| 590 | 255 | Starseed |
-| 591 | 255 | Miguel Teixeira |
-| 592 | 254 | Lil H |
-| 593 | 254 | MRdot Rooski |
-| 594 | 254 | Dawon Ksk Capers |
-| 595 | 253 | Shiny Rotate |
-| 596 | 253 | Bay Marie |
-| 597 | 253 | Flashy Crawler |
+| 582 | 257 | Brian Ash |
+| 583 | 256 | Blake Cobb |
+| 584 | 256 | Loony Bridgepiece |
+| 585 | 256 | Amber Dollak-Smith |
+| 586 | 256 | Emmarieta Mendez |
+| 587 | 255 | Miguel Teixeira |
+| 588 | 255 | Goobette |
+| 589 | 255 | Malaka |
+| 590 | 255 | Marqs Mel |
+| 591 | 255 | Starseed |
+| 592 | 254 | MRdot Rooski |
+| 593 | 254 | Dawon Ksk Capers |
+| 594 | 254 | Lil H |
+| 595 | 253 | Flashy Crawler |
+| 596 | 253 | Shiny Rotate |
+| 597 | 253 | Bay Marie |
 | 598 | 252 | Jordan Brooks |
 | 599 | 251 | Sheri Read |
-| 600 | 251 | Larry Jackson |
-| 601 | 251 | Nevaeh Mattox |
+| 600 | 251 | Nevaeh Mattox |
+| 601 | 251 | Larry Jackson |
 | 602 | 250 | Jenny Hughes |
 | 603 | 250 | Dandy Towerbuilder |
-| 604 | 249 | Cozy Shatterer |
-| 605 | 249 | Lauren Baxter |
+| 604 | 249 | Lauren Baxter |
+| 605 | 249 | Cozy Shatterer |
 | 606 | 249 | Josh Smith |
 | 607 | 248 | Andrew Boone |
 | 608 | 248 | Liliana Pena |
@@ -713,14 +713,14 @@
 | 705 | 212 | Denise Belanger |
 | 706 | 212 | Terika Rodriguez |
 | 707 | 212 | Piffy |
-| 708 | 211 | Riley Lee |
-| 709 | 210 | Christina Torres |
-| 710 | 210 | KoDaK |
-| 711 | 210 | Danny Brady |
-| 712 | 210 | Mortious |
-| 713 | 209 | Oliver Hollins |
-| 714 | 209 | Witty Curve |
-| 715 | 209 | Vivian Bush |
+| 708 | 212 | Witty Curve |
+| 709 | 211 | Riley Lee |
+| 710 | 210 | Christina Torres |
+| 711 | 210 | Mortious |
+| 712 | 210 | Danny Brady |
+| 713 | 210 | KoDaK |
+| 714 | 209 | Vivian Bush |
+| 715 | 209 | Oliver Hollins |
 | 716 | 209 | Lively Wipeout |
 | 717 | 208 | Donna Addison Williams |
 | 718 | 208 | Sarah Cassese |
@@ -1151,32 +1151,32 @@
 | 1143 | 112 | Tea Julien |
 | 1144 | 112 | Mary Logan |
 | 1145 | 112 | Antonio Feliciano |
-| 1146 | 112 | Todd Echterling |
-| 1147 | 112 | Misha Harris |
-| 1148 | 111 | Shante Jenkins |
-| 1149 | 111 | Funky Zonebuilder |
-| 1150 | 111 | Calli Lynn Hairr |
-| 1151 | 111 | Carol Rogers |
-| 1152 | 111 | Chewy |
-| 1153 | 110 | Karly Alexandrea |
-| 1154 | 110 | SMSMris |
-| 1155 | 110 | Robert Benitez |
-| 1156 | 110 | Tasha McCormack |
-| 1157 | 110 | Sassy Riseclear |
-| 1158 | 109 | Badace1 |
-| 1159 | 109 | Serena |
-| 1160 | 109 | Bharrelson66 |
-| 1161 | 108 | Mia Sams |
-| 1162 | 108 | Jeremy McLean |
-| 1163 | 108 | Alex Manieri |
-| 1164 | 108 | William Miles |
-| 1165 | 108 | Merissa Paulsen |
-| 1166 | 108 | Terry Leon Osborne Jr. |
-| 1167 | 108 | Stoney Smith |
-| 1168 | 108 | Nico |
+| 1146 | 112 | Serena |
+| 1147 | 112 | Todd Echterling |
+| 1148 | 112 | Misha Harris |
+| 1149 | 111 | Shante Jenkins |
+| 1150 | 111 | Funky Zonebuilder |
+| 1151 | 111 | Calli Lynn Hairr |
+| 1152 | 111 | Carol Rogers |
+| 1153 | 111 | Chewy |
+| 1154 | 110 | Karly Alexandrea |
+| 1155 | 110 | SMSMris |
+| 1156 | 110 | Sassy Riseclear |
+| 1157 | 110 | Tasha McCormack |
+| 1158 | 110 | Robert Benitez |
+| 1159 | 109 | Bharrelson66 |
+| 1160 | 109 | Badace1 |
+| 1161 | 108 | Merissa Paulsen |
+| 1162 | 108 | Nico |
+| 1163 | 108 | Stoney Smith |
+| 1164 | 108 | Terry Leon Osborne Jr. |
+| 1165 | 108 | William Miles |
+| 1166 | 108 | Alex Manieri |
+| 1167 | 108 | Jeremy McLean |
+| 1168 | 108 | Mia Sams |
 | 1169 | 108 | Wendy Walker-Hill |
-| 1170 | 107 | Larry Fritzinger |
-| 1171 | 107 | Shelly Palmer |
+| 1170 | 107 | Shelly Palmer |
+| 1171 | 107 | Larry Fritzinger |
 | 1172 | 107 | Dede |
 | 1173 | 107 | sent2bless34 |
 | 1174 | 107 | William Maix |
@@ -1348,29 +1348,29 @@
 | 1340 | 82 | Tetrisqn |
 | 1341 | 82 | Hunt Joe |
 | 1342 | 82 | Bluebird |
-| 1343 | 82 | Justin Mccarley |
-| 1344 | 82 | Tina Tiger |
-| 1345 | 82 | Jerome Mosby |
+| 1343 | 82 | Tina Tiger |
+| 1344 | 82 | Jerome Mosby |
+| 1345 | 82 | Justin Mccarley |
 | 1346 | 82 | Patricia Mills |
-| 1347 | 82 | Scott Shumpert |
-| 1348 | 81 | Olivia Ornella Rubinski |
-| 1349 | 81 | Bobby |
-| 1350 | 81 | Giddy Glider |
-| 1351 | 81 | Ajayy Carlson |
-| 1352 | 81 | Adam Newton |
-| 1353 | 81 | Robert |
-| 1354 | 80 | Roxann Boykin |
-| 1355 | 80 | Stephanie |
-| 1356 | 80 | Breezy Twister |
-| 1357 | 80 | Christa Payton |
-| 1358 | 80 | Laura Small |
-| 1359 | 80 | Giggy Towerfit |
-| 1360 | 80 | Jason Whitehead |
-| 1361 | 80 | William Foust |
-| 1362 | 80 | Ghale DeShazo |
-| 1363 | 80 | Nicole Plummer |
-| 1364 | 80 | Matt Weierke |
-| 1365 | 80 | Eagle's Champs |
+| 1347 | 82 | Eagle's Champs |
+| 1348 | 82 | Scott Shumpert |
+| 1349 | 81 | Olivia Ornella Rubinski |
+| 1350 | 81 | Bobby |
+| 1351 | 81 | Giddy Glider |
+| 1352 | 81 | Ajayy Carlson |
+| 1353 | 81 | Adam Newton |
+| 1354 | 81 | Robert |
+| 1355 | 80 | Roxann Boykin |
+| 1356 | 80 | Stephanie |
+| 1357 | 80 | Breezy Twister |
+| 1358 | 80 | Christa Payton |
+| 1359 | 80 | Laura Small |
+| 1360 | 80 | Giggy Towerfit |
+| 1361 | 80 | Jason Whitehead |
+| 1362 | 80 | William Foust |
+| 1363 | 80 | Ghale DeShazo |
+| 1364 | 80 | Nicole Plummer |
+| 1365 | 80 | Matt Weierke |
 | 1366 | 80 | Blusie |
 | 1367 | 80 | Sid Castro |
 | 1368 | 80 | Silly Patternblock |
