@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 12:00:43 UTC
+# Standings for team1 as of 2026-02-25 12:01:23 UTC
 
 **Total Participants:** 2461
 
@@ -367,11 +367,11 @@
 | 359 | 390 | Michael |
 | 360 | 390 | Margo Wagner |
 | 361 | 388 | Dawn Michelle Scheible |
-| 362 | 388 | Delvison Rosario |
-| 363 | 388 | Brave Linkmatch |
-| 364 | 388 | Chris65 |
-| 365 | 388 | Eddie Dillon |
-| 366 | 388 | Shaykmia |
+| 362 | 388 | Eddie Dillon |
+| 363 | 388 | Shaykmia |
+| 364 | 388 | Brave Linkmatch |
+| 365 | 388 | Chris65 |
+| 366 | 388 | Delvison Rosario |
 | 367 | 387 | Gary Gobin |
 | 368 | 387 | Diane Byrd |
 | 369 | 386 | Bloknboy |
@@ -379,8 +379,8 @@
 | 371 | 384 | Alphonza Keyes Jr. |
 | 372 | 383 | Buttons Stemm |
 | 373 | 383 | Christina Backer |
-| 374 | 382 | Nutty Spinblock |
-| 375 | 382 | Gina Bettikofer |
+| 374 | 382 | Gina Bettikofer |
+| 375 | 382 | Nutty Spinblock |
 | 376 | 380 | Rachel Nichole Henry |
 | 377 | 380 | Amber Dee |
 | 378 | 379 | Billie Dawn Sparks |
@@ -391,33 +391,33 @@
 | 383 | 378 | Fresno Beotoni |
 | 384 | 377 | Kipoi |
 | 385 | 376 | LaFontaine Leslie |
-| 386 | 375 | Mrs.Patrica |
-| 387 | 375 | Matt Iaccheo |
-| 388 | 374 | Loony Bridgepiece |
+| 386 | 376 | Breanna Luna |
+| 387 | 375 | Mrs.Patrica |
+| 388 | 375 | Matt Iaccheo |
 | 389 | 374 | John Ramirez |
 | 390 | 374 | Nadine Velardo |
-| 391 | 374 | Jaimie Lynn |
-| 392 | 373 | Mitchel White |
-| 393 | 372 | Silly Align |
-| 394 | 371 | Herm Junior |
-| 395 | 370 | san |
-| 396 | 369 | Tiffany Smith |
-| 397 | 369 | Nate Price |
-| 398 | 369 | Nathan William |
-| 399 | 369 | Quirky Pusher |
-| 400 | 368 | Terri Rodela |
+| 391 | 374 | Loony Bridgepiece |
+| 392 | 374 | Jaimie Lynn |
+| 393 | 373 | Mitchel White |
+| 394 | 372 | Silly Align |
+| 395 | 371 | Herm Junior |
+| 396 | 370 | san |
+| 397 | 369 | Quirky Pusher |
+| 398 | 369 | Tiffany Smith |
+| 399 | 369 | Nathan William |
+| 400 | 369 | Nate Price |
 | 401 | 368 | Larry Tilton |
-| 402 | 368 | Shannon Marie Pitts |
-| 403 | 367 | Crystal Cheresnowsky |
-| 404 | 367 | Jessie |
-| 405 | 366 | Glitzy Grid |
-| 406 | 366 | J.F. Fields |
-| 407 | 365 | Breanna Luna |
+| 402 | 368 | Terri Rodela |
+| 403 | 368 | Shannon Marie Pitts |
+| 404 | 367 | Crystal Cheresnowsky |
+| 405 | 367 | Jessie |
+| 406 | 366 | Glitzy Grid |
+| 407 | 366 | J.F. Fields |
 | 408 | 365 | Steph |
 | 409 | 365 | Hasty Columnbuilder |
-| 410 | 364 | dhardy |
+| 410 | 364 | Mary Love |
 | 411 | 364 | Shauna Loe |
-| 412 | 364 | Mary Love |
+| 412 | 364 | dhardy |
 | 413 | 363 | Lyn Sibayan |
 | 414 | 363 | Наталья Солоид |
 | 415 | 362 | Jennifer Olewnik Soborowski |
@@ -1358,51 +1358,51 @@
 | 1350 | 89 | Kenton Billings |
 | 1351 | 89 | Victoria Montenegro Martinez |
 | 1352 | 89 | uberdork124 |
-| 1353 | 88 | Jason Aleshire |
-| 1354 | 88 | Kandie Marie |
-| 1355 | 88 | Tom Sackett |
-| 1356 | 88 | Andee Bo Bandee |
+| 1353 | 88 | Kandie Marie |
+| 1354 | 88 | Jason Aleshire |
+| 1355 | 88 | Andee Bo Bandee |
+| 1356 | 88 | Gewb |
 | 1357 | 88 | Allison |
-| 1358 | 88 | Gewb |
+| 1358 | 88 | Tom Sackett |
 | 1359 | 87 | Heaven White |
 | 1360 | 87 | Patricia Mills |
 | 1361 | 87 | Larry Brazil |
 | 1362 | 87 | Sanita Latham |
-| 1363 | 86 | Daynj |
+| 1363 | 86 | Leann Nolley |
 | 1364 | 86 | Stephanie Mounts |
-| 1365 | 86 | Leann Nolley |
-| 1366 | 86 | Hoppy Snapgrid |
-| 1367 | 86 | Silly Patternblock |
+| 1365 | 86 | Daynj |
+| 1366 | 86 | Silly Patternblock |
+| 1367 | 86 | Hoppy Snapgrid |
 | 1368 | 86 | Charles Holland |
 | 1369 | 86 | Barbara Benjamin |
-| 1370 | 85 | weezy |
-| 1371 | 85 | Wayne Davison |
-| 1372 | 85 | Bwebb Bryan |
-| 1373 | 85 | Bob Thorp |
-| 1374 | 85 | Skuba Cece |
-| 1375 | 84 | Laura Small |
+| 1370 | 85 | Bob Thorp |
+| 1371 | 85 | Skuba Cece |
+| 1372 | 85 | weezy |
+| 1373 | 85 | Wayne Davison |
+| 1374 | 85 | Bwebb Bryan |
+| 1375 | 84 | Chirpy Tiler |
 | 1376 | 84 | Purp |
-| 1377 | 84 | Chirpy Tiler |
+| 1377 | 84 | Laura Small |
 | 1378 | 83 | Zac Brubaker |
 | 1379 | 83 | Jennifer Love Lee |
-| 1380 | 83 | Goofy Liney |
-| 1381 | 83 | Theresa Crawford |
+| 1380 | 83 | Theresa Crawford |
+| 1381 | 83 | Goofy Liney |
 | 1382 | 83 | Amy Lynn |
 | 1383 | 83 | Jessicer |
-| 1384 | 82 | Scott Shumpert |
-| 1385 | 82 | Tina Tiger |
-| 1386 | 82 | AuntieSocial |
-| 1387 | 82 | Justin Mccarley |
-| 1388 | 82 | Pete Garrett |
-| 1389 | 82 | Hunt Joe |
-| 1390 | 82 | Jerome Mosby |
-| 1391 | 82 | Bo Sherman |
-| 1392 | 82 | Jessie May |
-| 1393 | 81 | Bobby |
+| 1384 | 82 | Hunt Joe |
+| 1385 | 82 | Scott Shumpert |
+| 1386 | 82 | Pete Garrett |
+| 1387 | 82 | Jerome Mosby |
+| 1388 | 82 | Justin Mccarley |
+| 1389 | 82 | Mary Kopacki |
+| 1390 | 82 | Bo Sherman |
+| 1391 | 82 | AuntieSocial |
+| 1392 | 82 | Tina Tiger |
+| 1393 | 82 | Jessie May |
 | 1394 | 81 | June Myklebust Degarmo |
 | 1395 | 81 | Giddy Glider |
 | 1396 | 81 | Ajayy Carlson |
-| 1397 | 81 | Mary Kopacki |
+| 1397 | 81 | Bobby |
 | 1398 | 81 | Brenda Schultz |
 | 1399 | 81 | Ghale DeShazo |
 | 1400 | 81 | Dart King |
