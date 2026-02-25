@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 23:58:43 UTC
+# Standings for team4 as of 2026-02-25 23:59:22 UTC
 
 **Total Participants:** 2280
 
@@ -86,7 +86,7 @@
 | 78 | 1225 | Kimyatta Cavin |
 | 79 | 1220 | Ashley Ingram |
 | 80 | 1220 | Marvin Lou Martin |
-| 81 | 1216 | Carolyn Wallace |
+| 81 | 1218 | Carolyn Wallace |
 | 82 | 1213 | Peachy Fall |
 | 83 | 1204 | Shannon Ferrari |
 | 84 | 1189 | Patron Anderson |
@@ -186,8 +186,8 @@
 | 178 | 714 | Erin Sabol |
 | 179 | 711 | Brickh4us |
 | 180 | 710 | Kathy Brookins |
-| 181 | 705 | Cristy Duerksen |
-| 182 | 703 | Jim Hart |
+| 181 | 708 | Jim Hart |
+| 182 | 705 | Cristy Duerksen |
 | 183 | 702 | YoMomma |
 | 184 | 695 | Latisha Davis |
 | 185 | 695 | Angelito |
@@ -364,8 +364,8 @@
 | 356 | 432 | Chair |
 | 357 | 431 | LADY J |
 | 358 | 430 | Holly |
-| 359 | 428 | Metsfan |
-| 360 | 426 | Sarah Brown |
+| 359 | 429 | Sarah Brown |
+| 360 | 429 | Metsfan |
 | 361 | 423 | Daria Rycewicz |
 | 362 | 423 | Jason Frehner |
 | 363 | 422 | Jess Reyes |
@@ -402,9 +402,9 @@
 | 394 | 395 | Alexandra Karavias |
 | 395 | 395 | Marcus TheeyoungWoe Gilmore |
 | 396 | 395 | Zany Shatterer |
-| 397 | 395 | Chummy Towerzone |
-| 398 | 394 | Jonathan Mahfood |
-| 399 | 394 | Tyler Bechtel |
+| 397 | 395 | Tyler Bechtel |
+| 398 | 395 | Chummy Towerzone |
+| 399 | 394 | Jonathan Mahfood |
 | 400 | 394 | Perky Patternblock |
 | 401 | 394 | Raymond Roberts |
 | 402 | 393 | Lorena Guerrero-Barron |
@@ -782,115 +782,115 @@
 | 774 | 209 | Matthew Rodriguez |
 | 775 | 209 | Cheery Gridlock |
 | 776 | 209 | Kametsunoyaiba |
-| 777 | 209 | Calvin Dennis |
-| 778 | 209 | Ahleek Mitchell |
-| 779 | 208 | Cooldamalley |
-| 780 | 208 | Deanna Mc |
+| 777 | 209 | Ahleek Mitchell |
+| 778 | 209 | Calvin Dennis |
+| 779 | 208 | Deanna Mc |
+| 780 | 208 | Cooldamalley |
 | 781 | 207 | Blue |
 | 782 | 207 | Nikki Wilson |
 | 783 | 207 | Gwendolyn Pitcairn |
 | 784 | 206 | Jim Gray |
 | 785 | 206 | Katie Walton |
-| 786 | 206 | Angela Gould |
-| 787 | 205 | Quirky Puzzler |
-| 788 | 205 | Tory Miller |
-| 789 | 204 | Susan Purnell |
-| 790 | 203 | Brad Caldwell |
-| 791 | 203 | Snippy |
-| 792 | 203 | Tabita Gonzalez |
+| 786 | 206 | Kanci McKnight |
+| 787 | 206 | Angela Gould |
+| 788 | 205 | Quirky Puzzler |
+| 789 | 205 | Tory Miller |
+| 790 | 204 | Susan Purnell |
+| 791 | 203 | Brad Caldwell |
+| 792 | 203 | Snippy |
 | 793 | 203 | Timothy Allen |
-| 794 | 202 | Bigmamatetrisqueen |
-| 795 | 202 | Megan Boyce |
-| 796 | 202 | Kanci McKnight |
+| 794 | 203 | Tabita Gonzalez |
+| 795 | 202 | Courtney Angel |
+| 796 | 202 | Megan Boyce |
 | 797 | 202 | Blaze Butler |
-| 798 | 202 | Courtney Angel |
+| 798 | 202 | Bigmamatetrisqueen |
 | 799 | 201 | Carla Harris |
-| 800 | 201 | Harvey Mejia |
-| 801 | 201 | Hasty Fitzone |
+| 800 | 201 | Hasty Fitzone |
+| 801 | 201 | LunarCat |
 | 802 | 201 | Kristin MacDonald |
 | 803 | 201 | Somnium Era |
-| 804 | 201 | LunarCat |
+| 804 | 201 | Harvey Mejia |
 | 805 | 200 | Bryan Davidson |
-| 806 | 200 | Josie Peña |
-| 807 | 200 | Kai Huang |
+| 806 | 200 | Kai Huang |
+| 807 | 200 | Josie Peña |
 | 808 | 200 | Sarah Tenenbaum |
 | 809 | 200 | Denatrious Perry |
 | 810 | 199 | Mrsjcraw18 |
-| 811 | 198 | Smiley Tiltbuilder |
-| 812 | 198 | Krista Buffaloe |
-| 813 | 198 | Sunny Piececlear |
-| 814 | 198 | k |
-| 815 | 198 | Tina Williams |
-| 816 | 197 | David V. Bowers |
+| 811 | 198 | Tina Williams |
+| 812 | 198 | Sunny Piececlear |
+| 813 | 198 | k |
+| 814 | 198 | Smiley Tiltbuilder |
+| 815 | 198 | Krista Buffaloe |
+| 816 | 197 | Carlos G Reyes |
 | 817 | 197 | Snippy Clearer |
-| 818 | 197 | Tara |
+| 818 | 197 | David V. Bowers |
 | 819 | 197 | Sarah Grundisch |
-| 820 | 197 | Justin Davis |
-| 821 | 197 | Carlos G Reyes |
+| 820 | 197 | Tara |
+| 821 | 197 | Justin Davis |
 | 822 | 196 | UJ Mate |
-| 823 | 196 | Austin |
-| 824 | 196 | canglem |
+| 823 | 196 | canglem |
+| 824 | 196 | Austin |
 | 825 | 196 | Alicia Lux Arnst |
-| 826 | 195 | Saucy Stackbuilder |
-| 827 | 195 | Jessi Godsey |
+| 826 | 195 | Christian Torres |
+| 827 | 195 | KanVus |
 | 828 | 195 | Griffen |
-| 829 | 195 | No Strings Attached Ra |
-| 830 | 195 | Christian Torres |
-| 831 | 195 | KanVus |
-| 832 | 194 | Zany Twisterfit |
+| 829 | 195 | Jessi Godsey |
+| 830 | 195 | No Strings Attached Ra |
+| 831 | 195 | Saucy Stackbuilder |
+| 832 | 194 | Chipper Buildout |
 | 833 | 194 | Bruce Gal |
-| 834 | 194 | FallenStar |
-| 835 | 194 | Chipper Buildout |
+| 834 | 194 | Zany Twisterfit |
+| 835 | 194 | FallenStar |
 | 836 | 193 | Lakesha Johnson |
 | 837 | 192 | Ashlee Johnson |
 | 838 | 192 | Jared M D Campbell |
 | 839 | 192 | Chilly Filler |
-| 840 | 191 | Cece |
-| 841 | 191 | Glen Altomare II |
-| 842 | 191 | Fred Lilreadii Smith Jr |
-| 843 | 191 | Gina Sexton Powell |
-| 844 | 190 | Hoppy Clearer |
-| 845 | 190 | Joe Lonnemann |
-| 846 | 190 | IDK |
-| 847 | 190 | Rampai |
-| 848 | 190 | Joni Marie Flanary |
-| 849 | 190 | Caitlyn Brown |
-| 850 | 190 | Goofy Fitblock |
+| 840 | 191 | Glen Altomare II |
+| 841 | 191 | Fred Lilreadii Smith Jr |
+| 842 | 191 | Gina Sexton Powell |
+| 843 | 191 | Cece |
+| 844 | 190 | Caitlyn Brown |
+| 845 | 190 | Joni Marie Flanary |
+| 846 | 190 | Hoppy Clearer |
+| 847 | 190 | Goofy Fitblock |
+| 848 | 190 | IDK |
+| 849 | 190 | Joe Lonnemann |
+| 850 | 190 | Rampai |
 | 851 | 189 | FreckledFlamingo |
-| 852 | 189 | Matthew Doyle |
-| 853 | 189 | Linda Alexander Downing |
-| 854 | 188 | Witty Link |
-| 855 | 188 | deebop |
-| 856 | 188 | Cashmere |
-| 857 | 188 | Milly Johnson |
-| 858 | 188 | Peyton Mclaughlin |
-| 859 | 188 | Jelly |
-| 860 | 188 | Tina |
-| 861 | 188 | Jamie Mclean |
+| 852 | 189 | Linda Alexander Downing |
+| 853 | 189 | Matthew Doyle |
+| 854 | 188 | Jamie Mclean |
+| 855 | 188 | Cashmere |
+| 856 | 188 | deebop |
+| 857 | 188 | Witty Link |
+| 858 | 188 | Jelly |
+| 859 | 188 | Peyton Mclaughlin |
+| 860 | 188 | Milly Johnson |
+| 861 | 188 | Tina |
 | 862 | 187 | mini |
 | 863 | 187 | Jason Punch |
-| 864 | 186 | Morgan Patrick |
-| 865 | 186 | Empress Oasis |
+| 864 | 186 | Empress Oasis |
+| 865 | 186 | Tipsy Zoney |
 | 866 | 186 | Jessica Johnston |
-| 867 | 186 | Tipsy Zoney |
+| 867 | 186 | Morgan Patrick |
 | 868 | 185 | Nikisha Reed |
 | 869 | 185 | Lori Goudy |
 | 870 | 184 | 420friend |
-| 871 | 184 | Joe Beardslee |
-| 872 | 184 | Flavoredsausage |
-| 873 | 183 | Dapper Caster |
-| 874 | 182 | Crystal Eaden |
-| 875 | 182 | Tamika Starkey |
-| 876 | 182 | Alo |
-| 877 | 182 | Laura Chase-Amara |
-| 878 | 182 | Cheery Towerzone |
-| 879 | 182 | Stephanie Mico |
-| 880 | 181 | Clinton Jacob |
-| 881 | 181 | George Castillo |
-| 882 | 181 | Diamond Johnson |
-| 883 | 180 | Jay28 |
-| 884 | 180 | Quirky Clearfit |
-| 885 | 180 | Jennifer Perkins |
+| 871 | 184 | Flavoredsausage |
+| 872 | 184 | Joe Beardslee |
+| 873 | 184 | Jennifer Perkins |
+| 874 | 183 | Dapper Caster |
+| 875 | 182 | Cheery Towerzone |
+| 876 | 182 | Laura Chase-Amara |
+| 877 | 182 | Stephanie Mico |
+| 878 | 182 | Alo |
+| 879 | 182 | Crystal Eaden |
+| 880 | 182 | Tamika Starkey |
+| 881 | 181 | Clinton Jacob |
+| 882 | 181 | George Castillo |
+| 883 | 181 | Diamond Johnson |
+| 884 | 180 | Jay28 |
+| 885 | 180 | Quirky Clearfit |
 | 886 | 180 | Verna Neal |
 | 887 | 180 | Tabitha Henson |
 | 888 | 179 | Marlisa Clark |
