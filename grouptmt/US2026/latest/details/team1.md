@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 09:30:44 UTC
+# Standings for team1 as of 2026-02-25 09:31:23 UTC
 
 **Total Participants:** 2449
 
@@ -263,11 +263,11 @@
 | 255 | 483 | Tyler Werts |
 | 256 | 482 | Monica Donato |
 | 257 | 481 | Betsy |
-| 258 | 477 | Ananda Mendez |
-| 259 | 477 | LtMooch |
-| 260 | 475 | Paula Martin |
-| 261 | 474 | Billie Ann Eason |
-| 262 | 472 | Alenoush Karimian |
+| 258 | 480 | Alenoush Karimian |
+| 259 | 477 | Ananda Mendez |
+| 260 | 477 | LtMooch |
+| 261 | 475 | Paula Martin |
+| 262 | 474 | Billie Ann Eason |
 | 263 | 471 | Chris Sigurdson |
 | 264 | 470 | Chantelle Ceno |
 | 265 | 469 | build master |
@@ -455,12 +455,12 @@
 | 447 | 339 | Joe Coon |
 | 448 | 338 | cheeseman |
 | 449 | 336 | Christy LaSure |
-| 450 | 336 | Steven Collins |
-| 451 | 335 | John Barron |
-| 452 | 334 | Leslie Bush Yarbrough |
-| 453 | 333 | Vivienne Carter |
-| 454 | 332 | Ric Hard Hernandez |
-| 455 | 332 | Frisky Base |
+| 450 | 336 | Frisky Base |
+| 451 | 336 | Steven Collins |
+| 452 | 335 | John Barron |
+| 453 | 334 | Leslie Bush Yarbrough |
+| 454 | 333 | Vivienne Carter |
+| 455 | 332 | Ric Hard Hernandez |
 | 456 | 332 | Krie |
 | 457 | 332 | Rock it |
 | 458 | 332 | Susie Loo |
@@ -1541,55 +1541,55 @@
 | 1533 | 66 | Cheeky Rollfit |
 | 1534 | 66 | Block attack |
 | 1535 | 66 | Crystal Mock |
-| 1536 | 65 | Heidi Hile |
-| 1537 | 65 | Prudence Muzondo |
-| 1538 | 65 | Misses Haggard |
-| 1539 | 65 | Jessica Kelsey |
+| 1536 | 65 | Prudence Muzondo |
+| 1537 | 65 | Misses Haggard |
+| 1538 | 65 | Jessica Kelsey |
+| 1539 | 65 | Heidi Hile |
 | 1540 | 65 | Kayla |
-| 1541 | 65 | Jessica Lang |
-| 1542 | 65 | Brian Mc Auley |
-| 1543 | 65 | Missy Anderson |
-| 1544 | 65 | Colton Samantha Lester |
-| 1545 | 65 | Karen Berkenstock |
-| 1546 | 64 | John Fronczek |
-| 1547 | 64 | Hank |
-| 1548 | 64 | Twisty Rollbuilder |
-| 1549 | 64 | Cool Balancer |
-| 1550 | 64 | Darlene Nani Pack Viernes |
-| 1551 | 64 | Kenneth Ray Steiner |
-| 1552 | 64 | Jerred Hunter |
-| 1553 | 64 | Brave Tiley |
-| 1554 | 64 | BlackberryCobbler |
+| 1541 | 65 | Karen Berkenstock |
+| 1542 | 65 | Jessica Lang |
+| 1543 | 65 | Brian Mc Auley |
+| 1544 | 65 | Missy Anderson |
+| 1545 | 65 | Colton Samantha Lester |
+| 1546 | 64 | BlackberryCobbler |
+| 1547 | 64 | Kenneth Ray Steiner |
+| 1548 | 64 | Darlene Nani Pack Viernes |
+| 1549 | 64 | Twisty Rollbuilder |
+| 1550 | 64 | Hank |
+| 1551 | 64 | Cool Balancer |
+| 1552 | 64 | John Fronczek |
+| 1553 | 64 | Jerred Hunter |
+| 1554 | 64 | Brave Tiley |
 | 1555 | 64 | Kyle Schwarcz |
 | 1556 | 63 | Mike Kimes |
-| 1557 | 63 | Shelley Dose |
+| 1557 | 63 | Darrell Mcdonnell |
 | 1558 | 63 | Lincon |
-| 1559 | 63 | Shea Hall |
-| 1560 | 63 | Darrell Mcdonnell |
-| 1561 | 63 | Max R Eble |
+| 1559 | 63 | Max R Eble |
+| 1560 | 63 | Shelley Dose |
+| 1561 | 63 | Shea Hall |
 | 1562 | 63 | Jessica |
-| 1563 | 63 | Witty Frame |
-| 1564 | 63 | Goofy Blockroll |
-| 1565 | 63 | Henry James Bechtold |
-| 1566 | 63 | Arthur James Watson |
-| 1567 | 63 | Cheeky Link |
-| 1568 | 62 | Grant Halverson |
-| 1569 | 62 | Hilda Silvers |
+| 1563 | 63 | Jr Kelley |
+| 1564 | 63 | Witty Frame |
+| 1565 | 63 | Goofy Blockroll |
+| 1566 | 63 | Henry James Bechtold |
+| 1567 | 63 | Arthur James Watson |
+| 1568 | 63 | Cheeky Link |
+| 1569 | 62 | Grant Halverson |
 | 1570 | 62 | Eric Inniss |
-| 1571 | 62 | Shanetta Jacob Hannagan Johnson |
-| 1572 | 62 | Joshua Brymer |
-| 1573 | 62 | Moneybags |
-| 1574 | 62 | Julia Wilson |
-| 1575 | 62 | Kishi |
-| 1576 | 62 | Michael Akins |
+| 1571 | 62 | Hilda Silvers |
+| 1572 | 62 | Shanetta Jacob Hannagan Johnson |
+| 1573 | 62 | Joshua Brymer |
+| 1574 | 62 | Moneybags |
+| 1575 | 62 | Julia Wilson |
+| 1576 | 62 | Kishi |
 | 1577 | 62 | Chummy Tiltpiece |
-| 1578 | 62 | Michael Campbell |
-| 1579 | 62 | Rooster |
-| 1580 | 61 | Jimmie |
-| 1581 | 61 | Robin Blume |
+| 1578 | 62 | Rooster |
+| 1579 | 62 | Michael Akins |
+| 1580 | 62 | Michael Campbell |
+| 1581 | 61 | Jimmie |
 | 1582 | 61 | Chirpy Zoney |
-| 1583 | 61 | Jr Kelley |
-| 1584 | 61 | Rose Clark |
+| 1583 | 61 | Rose Clark |
+| 1584 | 61 | Robin Blume |
 | 1585 | 61 | Todd Barry |
 | 1586 | 61 | Zappy Brickzone |
 | 1587 | 61 | MasterMook |
@@ -1598,12 +1598,12 @@
 | 1590 | 61 | Kyle Barnes |
 | 1591 | 61 | Brianna Andrews |
 | 1592 | 60 | Orvswf |
-| 1593 | 60 | Nikki McGhee |
+| 1593 | 60 | Marcellus Royal |
 | 1594 | 60 | Alex Hernandez |
 | 1595 | 60 | Scott Hevenor |
 | 1596 | 60 | Vanilla gorilla |
 | 1597 | 60 | Samantha Netherly-Ratliff |
-| 1598 | 60 | Marcellus Royal |
+| 1598 | 60 | Nikki McGhee |
 | 1599 | 60 | Bambi Cervidae |
 | 1600 | 60 | Tracy Farrar |
 | 1601 | 60 | Apex892 |
@@ -1612,35 +1612,35 @@
 | 1604 | 59 | Loopy Shiftsnap |
 | 1605 | 59 | Mia Ballard |
 | 1606 | 59 | Cynthia Dalton |
-| 1607 | 59 | Frothy Snapzone |
+| 1607 | 59 | Cielo Rodriguez |
 | 1608 | 59 | COWBOY |
-| 1609 | 59 | Cielo Rodriguez |
+| 1609 | 59 | Frothy Snapzone |
 | 1610 | 58 | Tommy |
 | 1611 | 58 | Cheryl Harker |
-| 1612 | 58 | Ry |
-| 1613 | 58 | Lavon Usher |
-| 1614 | 58 | Tasha Nicole |
-| 1615 | 58 | Snazzy Buildsnap |
-| 1616 | 57 | McMeow |
+| 1612 | 58 | Lavon Usher |
+| 1613 | 58 | Tasha Nicole |
+| 1614 | 58 | Snazzy Buildsnap |
+| 1615 | 58 | Ry |
+| 1616 | 57 | Syrano Casa |
 | 1617 | 57 | Mandy Dodson |
 | 1618 | 57 | Ashley Freeman |
 | 1619 | 57 | Chez |
-| 1620 | 57 | Chipper Wipegrid |
-| 1621 | 57 | Justin Alberry |
-| 1622 | 57 | Syrano Casa |
-| 1623 | 57 | Laura |
-| 1624 | 57 | Breezy Fitblock |
+| 1620 | 57 | Justin Alberry |
+| 1621 | 57 | McMeow |
+| 1622 | 57 | Kristye |
+| 1623 | 57 | Breezy Fitblock |
+| 1624 | 57 | Anime girl |
 | 1625 | 57 | Marie Wilson |
-| 1626 | 57 | Frothy Wipebuilder |
-| 1627 | 57 | Anime girl |
-| 1628 | 57 | Erin Divine |
-| 1629 | 57 | Kristye |
+| 1626 | 57 | Erin Divine |
+| 1627 | 57 | Chipper Wipegrid |
+| 1628 | 57 | Laura |
+| 1629 | 57 | Frothy Wipebuilder |
 | 1630 | 56 | Tinamarie Ann Brown |
 | 1631 | 56 | Spicy Glide |
 | 1632 | 56 | Terry Aldridge |
 | 1633 | 56 | Brenda Nurre |
-| 1634 | 56 | Hasty Dropmatch |
-| 1635 | 56 | Duane Ficara |
+| 1634 | 56 | Duane Ficara |
+| 1635 | 56 | Hasty Dropmatch |
 | 1636 | 56 | Eric Perry |
 | 1637 | 56 | GG Water |
 | 1638 | 56 | Eduk8ted Rednek |
