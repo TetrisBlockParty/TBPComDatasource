@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 20:10:45 UTC
+# Standings for team4 as of 2026-02-25 20:11:22 UTC
 
 **Total Participants:** 2258
 
@@ -629,10 +629,10 @@
 | 621 | 260 | Frank Joseph Epson |
 | 622 | 259 | Brandon Link |
 | 623 | 258 | Marcela Johnson |
-| 624 | 258 | Michelle McCutcheon |
-| 625 | 258 | Dante Korleon |
-| 626 | 257 | Shon Woodland |
-| 627 | 257 | 2slo |
+| 624 | 258 | Dante Korleon |
+| 625 | 258 | Michelle McCutcheon |
+| 626 | 257 | 2slo |
+| 627 | 257 | Shon Woodland |
 | 628 | 257 | Red |
 | 629 | 257 | Jennifer Marsella |
 | 630 | 256 | Lonnie Brown |
@@ -645,13 +645,13 @@
 | 637 | 253 | Autum Leigh |
 | 638 | 253 | Zach Kerbs |
 | 639 | 252 | Manuel Groleau |
-| 640 | 252 | Seraphim |
-| 641 | 252 | Zesty Linkgrid |
+| 640 | 252 | Zesty Linkgrid |
+| 641 | 252 | Seraphim |
 | 642 | 251 | Carol Ricks Raymond |
 | 643 | 251 | Gilles Lanctot |
 | 644 | 251 | Marco |
-| 645 | 251 | Peppy Drop |
-| 646 | 251 | Katie McCabe |
+| 645 | 251 | Katie McCabe |
+| 646 | 251 | Peppy Drop |
 | 647 | 250 | Ann G. Carrillo |
 | 648 | 250 | Girldadtpa |
 | 649 | 249 | KyngKliff |
@@ -660,16 +660,16 @@
 | 652 | 247 | Rebecca A Rit |
 | 653 | 247 | Karen Lambert |
 | 654 | 246 | Ali Ian |
-| 655 | 246 | Colton Stamper |
-| 656 | 245 | Lisa Allen Frisk |
-| 657 | 245 | Derick |
-| 658 | 245 | Zocko Ellet |
-| 659 | 244 | Darrin Rubalcava |
-| 660 | 244 | Flashy Jumper |
-| 661 | 244 | Marvetta Williams |
-| 662 | 242 | Steven Roe |
-| 663 | 242 | PurpleMoonMa |
-| 664 | 242 | Norman Klick |
+| 655 | 246 | Norman Klick |
+| 656 | 246 | Colton Stamper |
+| 657 | 245 | Lisa Allen Frisk |
+| 658 | 245 | Derick |
+| 659 | 245 | Zocko Ellet |
+| 660 | 244 | Darrin Rubalcava |
+| 661 | 244 | Flashy Jumper |
+| 662 | 244 | Marvetta Williams |
+| 663 | 242 | Steven Roe |
+| 664 | 242 | PurpleMoonMa |
 | 665 | 241 | Katherine Crane |
 | 666 | 241 | Carlos Hernandez |
 | 667 | 241 | Neal Allen II |
@@ -1774,106 +1774,106 @@
 | 1766 | 38 | Ginger Snappy |
 | 1767 | 38 | LaTrice Malone-Hubert |
 | 1768 | 38 | Ashley Jaques |
-| 1769 | 37 | Slinky Lifter |
-| 1770 | 37 | Grant Everett Heaslip |
-| 1771 | 37 | Aylissa Norris |
-| 1772 | 37 | BearGirl |
-| 1773 | 37 | Clint Lafave |
-| 1774 | 37 | J |
-| 1775 | 37 | Juanita Elizebeth |
-| 1776 | 37 | Sarah Elizabeth Baker |
-| 1777 | 37 | Leslie Ann Galvan |
-| 1778 | 37 | Bouncy Ziggy |
-| 1779 | 37 | ihunty |
-| 1780 | 37 | Tipsy Zonepiece |
-| 1781 | 36 | InfinitLee |
-| 1782 | 36 | Bryson Peebles |
-| 1783 | 36 | Cool Ziggy |
-| 1784 | 36 | Will Smith |
-| 1785 | 36 | Zesty Blocky |
-| 1786 | 36 | Albert Mariano |
-| 1787 | 36 | Iajrbda Wjaudbrkq |
-| 1788 | 36 | Shiny Zonepiece |
+| 1769 | 37 | Bouncy Ziggy |
+| 1770 | 37 | J |
+| 1771 | 37 | BearGirl |
+| 1772 | 37 | Juanita Elizebeth |
+| 1773 | 37 | Sarah Elizabeth Baker |
+| 1774 | 37 | Clint Lafave |
+| 1775 | 37 | Grant Everett Heaslip |
+| 1776 | 37 | Slinky Lifter |
+| 1777 | 37 | ihunty |
+| 1778 | 37 | Leslie Ann Galvan |
+| 1779 | 37 | Tipsy Zonepiece |
+| 1780 | 37 | Aylissa Norris |
+| 1781 | 36 | Albert Mariano |
+| 1782 | 36 | Will Smith |
+| 1783 | 36 | Bryson Peebles |
+| 1784 | 36 | Iajrbda Wjaudbrkq |
+| 1785 | 36 | InfinitLee |
+| 1786 | 36 | Shiny Zonepiece |
+| 1787 | 36 | Cool Ziggy |
+| 1788 | 36 | Ka He |
 | 1789 | 36 | Tanya M Hogue |
-| 1790 | 36 | Bubbly Shatterline |
-| 1791 | 36 | Ka He |
-| 1792 | 36 | Mia |
-| 1793 | 35 | netzwrk |
-| 1794 | 35 | Tim Taylor |
-| 1795 | 35 | Shanna Poet |
-| 1796 | 35 | Monica Elizondo Maldonado |
-| 1797 | 35 | Epic Blockbuilder |
-| 1798 | 35 | Cj Austin |
-| 1799 | 35 | IntheSunshine559 |
-| 1800 | 35 | Mimi |
+| 1790 | 36 | Mia |
+| 1791 | 36 | Zesty Blocky |
+| 1792 | 36 | Bubbly Shatterline |
+| 1793 | 35 | Mimi |
+| 1794 | 35 | Epic Blockbuilder |
+| 1795 | 35 | IntheSunshine559 |
+| 1796 | 35 | Cj Austin |
+| 1797 | 35 | Karlina Brown |
+| 1798 | 35 | Monica Elizondo Maldonado |
+| 1799 | 35 | Tim Taylor |
+| 1800 | 35 | netzwrk |
 | 1801 | 35 | Karissa Hull |
 | 1802 | 35 | Crafty Snapline |
-| 1803 | 34 | Brandy Birkett |
-| 1804 | 34 | Los |
-| 1805 | 34 | Nyiesha Aikens |
-| 1806 | 34 | kn1fehandz |
-| 1807 | 34 | Jonathan Colon |
-| 1808 | 34 | ChromaticZero |
-| 1809 | 34 | Goofy Racker |
-| 1810 | 34 | Amber Curry |
-| 1811 | 34 | Preston Miller |
-| 1812 | 34 | Christi Gumber |
-| 1813 | 34 | John Anderson |
-| 1814 | 34 | Krista Wilder |
-| 1815 | 33 | Danielle Dunn |
-| 1816 | 33 | Kiaria Kiaria |
-| 1817 | 33 | 1 |
-| 1818 | 33 | IceQueenKiller |
-| 1819 | 33 | Jodi Warner Sommerer |
+| 1803 | 35 | Shanna Poet |
+| 1804 | 34 | Nyiesha Aikens |
+| 1805 | 34 | John Anderson |
+| 1806 | 34 | Jonathan Colon |
+| 1807 | 34 | Los |
+| 1808 | 34 | Brandy Birkett |
+| 1809 | 34 | kn1fehandz |
+| 1810 | 34 | Goofy Racker |
+| 1811 | 34 | Krista Wilder |
+| 1812 | 34 | Preston Miller |
+| 1813 | 34 | ChromaticZero |
+| 1814 | 34 | Christi Gumber |
+| 1815 | 34 | Amber Curry |
+| 1816 | 33 | Jodi Warner Sommerer |
+| 1817 | 33 | You know who |
+| 1818 | 33 | Cranky Matchpiece |
+| 1819 | 33 | Breezy Tilemaker |
 | 1820 | 33 | Emily Finhill |
-| 1821 | 33 | Shakeyj |
-| 1822 | 33 | Cranky Matchpiece |
-| 1823 | 33 | Reshau Clay |
-| 1824 | 33 | Robert Sloan |
-| 1825 | 33 | StarChild |
-| 1826 | 33 | You know who |
-| 1827 | 33 | Monique Taurus Bugett |
-| 1828 | 33 | Jolene Marie Caetano |
-| 1829 | 33 | Getem gone |
-| 1830 | 33 | Breezy Tilemaker |
-| 1831 | 32 | Block Buster |
-| 1832 | 32 | Terri Tatem |
-| 1833 | 32 | Karlina Brown |
-| 1834 | 32 | Tracy Bohen |
-| 1835 | 32 | Aaron Brown |
-| 1836 | 32 | Scott Burkett |
-| 1837 | 32 | Kyrstyn Viers |
-| 1838 | 32 | Zesty Dashgrid |
-| 1839 | 32 | Lauri Robare Russell |
-| 1840 | 32 | Verzell Wade Banner |
-| 1841 | 32 | Tisha McManus |
-| 1842 | 32 | Stephon Void |
+| 1821 | 33 | 1 |
+| 1822 | 33 | IceQueenKiller |
+| 1823 | 33 | Getem gone |
+| 1824 | 33 | Danielle Dunn |
+| 1825 | 33 | Robert Sloan |
+| 1826 | 33 | Reshau Clay |
+| 1827 | 33 | Shakeyj |
+| 1828 | 33 | StarChild |
+| 1829 | 33 | Kiaria Kiaria |
+| 1830 | 33 | Monique Taurus Bugett |
+| 1831 | 33 | Jolene Marie Caetano |
+| 1832 | 32 | Kyrstyn Viers |
+| 1833 | 32 | Michelle White |
+| 1834 | 32 | Scott Burkett |
+| 1835 | 32 | Zesty Dashgrid |
+| 1836 | 32 | Block Buster |
+| 1837 | 32 | Lauri Robare Russell |
+| 1838 | 32 | Verzell Wade Banner |
+| 1839 | 32 | Tracy Bohen |
+| 1840 | 32 | Aaron Brown |
+| 1841 | 32 | Stephon Void |
+| 1842 | 32 | Terri Tatem |
 | 1843 | 32 | CheBrandNew |
-| 1844 | 32 | Michelle White |
-| 1845 | 31 | Plucky Patternbuilder |
+| 1844 | 32 | Tisha McManus |
+| 1845 | 31 | Hoppy Brickzone |
 | 1846 | 31 | Raido |
-| 1847 | 31 | Dandy Liner |
-| 1848 | 31 | Sab |
-| 1849 | 31 | Nooooope |
-| 1850 | 31 | Hoppy Brickzone |
-| 1851 | 30 | Thomasena Eady Reid |
-| 1852 | 30 | Becky |
-| 1853 | 30 | Poppy |
-| 1854 | 30 | ElleneRobert KylePaisley Coward |
-| 1855 | 30 | Khrystyna Lukaniuk |
-| 1856 | 30 | Lynn Anne |
-| 1857 | 30 | fuzzbutt1 |
-| 1858 | 30 | MrMaestro001 |
+| 1847 | 31 | Nooooope |
+| 1848 | 31 | Dandy Liner |
+| 1849 | 31 | Sab |
+| 1850 | 31 | Plucky Patternbuilder |
+| 1851 | 30 | Jakorah Musto |
+| 1852 | 30 | Robbie Davison |
+| 1853 | 30 | Dapper Racker |
+| 1854 | 30 | Poppy |
+| 1855 | 30 | Becky |
+| 1856 | 30 | fuzzbutt1 |
+| 1857 | 30 | Derald Miller |
+| 1858 | 30 | ElleneRobert KylePaisley Coward |
 | 1859 | 30 | Kris Wolfe |
-| 1860 | 30 | Mason Junior |
-| 1861 | 30 | Alberto Rosel |
+| 1860 | 30 | Thomasena Eady Reid |
+| 1861 | 30 | MrMaestro001 |
 | 1862 | 30 | Bricky McBrickface |
-| 1863 | 30 | Robbie Davison |
-| 1864 | 30 | Apryl Lia |
-| 1865 | 30 | Derald Miller |
-| 1866 | 30 | Dapper Racker |
-| 1867 | 30 | Jakorah Musto |
-| 1868 | 30 | Jameel HumanTornado Brown |
+| 1863 | 30 | Lynn Anne |
+| 1864 | 30 | Mason Junior |
+| 1865 | 30 | Alberto Rosel |
+| 1866 | 30 | Khrystyna Lukaniuk |
+| 1867 | 30 | Jameel HumanTornado Brown |
+| 1868 | 30 | Apryl Lia |
 | 1869 | 30 | Clara Avilez |
 | 1870 | 30 | Alex Alex |
 | 1871 | 29 | Interesting |
