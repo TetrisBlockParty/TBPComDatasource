@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 10:04:44 UTC
+# Standings for team4 as of 2026-02-25 10:05:22 UTC
 
 **Total Participants:** 2194
 
@@ -64,7 +64,7 @@
 | 56 | 1497 | Juggalo |
 | 57 | 1435 | Denia Deni |
 | 58 | 1390 | Toots |
-| 59 | 1363 | Mona Sharma |
+| 59 | 1373 | Mona Sharma |
 | 60 | 1354 | Isabel Aguilar |
 | 61 | 1353 | Amelpss |
 | 62 | 1324 | Anthony Bryan Riva |
@@ -384,15 +384,15 @@
 | 376 | 383 | Duck |
 | 377 | 382 | Matt Dell'Olio |
 | 378 | 381 | Alexandra Karavias |
-| 379 | 381 | Marcus TheeyoungWoe Gilmore |
-| 380 | 381 | Kevin Bush |
-| 381 | 381 | Paito |
+| 379 | 381 | Paito |
+| 380 | 381 | Marcus TheeyoungWoe Gilmore |
+| 381 | 381 | Kevin Bush |
 | 382 | 380 | Amy Jean |
 | 383 | 379 | Kristi Trafton |
 | 384 | 379 | Jackie Clark |
 | 385 | 378 | Jay You |
-| 386 | 378 | Sho Nuff |
-| 387 | 378 | Groovy Shiftspin |
+| 386 | 378 | Groovy Shiftspin |
+| 387 | 378 | Sho Nuff |
 | 388 | 377 | Lauren Lamb |
 | 389 | 372 | Chummy Link |
 | 390 | 371 | Dustin York |
@@ -408,21 +408,21 @@
 | 400 | 361 | Chummy Towerzone |
 | 401 | 361 | Eminem |
 | 402 | 359 | Jumpy Zonepiece |
-| 403 | 359 | Raymond Roberts |
-| 404 | 359 | ThriftySpice |
-| 405 | 359 | Allen Lloyd |
+| 403 | 359 | Allen Lloyd |
+| 404 | 359 | Raymond Roberts |
+| 405 | 359 | ThriftySpice |
 | 406 | 358 | Susan Williams |
-| 407 | 356 | Paige Kittles |
+| 407 | 356 | Lane Wasson |
 | 408 | 356 | Val Erie |
-| 409 | 356 | Lane Wasson |
+| 409 | 356 | Paige Kittles |
 | 410 | 354 | SHL |
 | 411 | 353 | ImJustMe |
 | 412 | 352 | Jared Gutwein |
-| 413 | 349 | jim |
-| 414 | 349 | Christine Simmons |
+| 413 | 351 | Christine Simmons |
+| 414 | 349 | jim |
 | 415 | 349 | Candice Carasiti |
-| 416 | 346 | Tabitha Calvin |
-| 417 | 346 | Laurel Coppess |
+| 416 | 346 | Laurel Coppess |
+| 417 | 346 | Tabitha Calvin |
 | 418 | 345 | Zippy Tilt |
 | 419 | 344 | Chance Strickland |
 | 420 | 342 | Kim Klutz Olson |
@@ -435,10 +435,10 @@
 | 427 | 337 | Neil Ingham |
 | 428 | 336 | Laura McPheeters |
 | 429 | 336 | Michael Orris |
-| 430 | 335 | Bussy Bay |
-| 431 | 335 | Meagan Nicole |
-| 432 | 334 | Jasmine S Caldwell |
-| 433 | 334 | Koral Hanke |
+| 430 | 335 | Meagan Nicole |
+| 431 | 335 | Bussy Bay |
+| 432 | 334 | Koral Hanke |
+| 433 | 334 | Jasmine S Caldwell |
 | 434 | 334 | Sarah Neathery |
 | 435 | 333 | Tipsy Cascader |
 | 436 | 333 | Shainne Brewer |
@@ -617,12 +617,12 @@
 | 609 | 246 | Brandon Link |
 | 610 | 246 | Colton Stamper |
 | 611 | 246 | Ali Ian |
-| 612 | 245 | Zocko Ellet |
-| 613 | 245 | Shon Woodland |
-| 614 | 245 | Mighty Edgepiece |
-| 615 | 245 | Derick |
-| 616 | 244 | Steve Sperino |
-| 617 | 244 | Hyper Shatterbuilder |
+| 612 | 246 | Hyper Shatterbuilder |
+| 613 | 245 | Zocko Ellet |
+| 614 | 245 | Shon Woodland |
+| 615 | 245 | Mighty Edgepiece |
+| 616 | 245 | Derick |
+| 617 | 244 | Steve Sperino |
 | 618 | 244 | Robert Rodriguez |
 | 619 | 244 | Darrin Rubalcava |
 | 620 | 243 | Heidi Jo Hill |
@@ -1790,45 +1790,45 @@
 | 1782 | 32 | Block Buster |
 | 1783 | 32 | Karlina Brown |
 | 1784 | 32 | Tracy Bohen |
-| 1785 | 32 | CheBrandNew |
-| 1786 | 32 | Tisha McManus |
-| 1787 | 32 | Michelle White |
+| 1785 | 32 | Michelle White |
+| 1786 | 32 | CheBrandNew |
+| 1787 | 32 | Tisha McManus |
 | 1788 | 32 | Scott Burkett |
 | 1789 | 32 | Stephon Void |
 | 1790 | 32 | Lauri Robare Russell |
 | 1791 | 31 | Garrick Wilfork |
 | 1792 | 31 | Hoppy Brickzone |
-| 1793 | 31 | Nooooope |
-| 1794 | 31 | Plucky Patternbuilder |
+| 1793 | 31 | Plucky Patternbuilder |
+| 1794 | 31 | Nooooope |
 | 1795 | 31 | Bunny A Finley |
 | 1796 | 31 | Raido |
 | 1797 | 31 | Sab |
 | 1798 | 31 | Dandy Liner |
 | 1799 | 30 | Mason Junior |
-| 1800 | 30 | Chtid |
-| 1801 | 30 | Alberto Rosel |
-| 1802 | 30 | Clara Avilez |
-| 1803 | 30 | Thomasena Eady Reid |
+| 1800 | 30 | Clara Avilez |
+| 1801 | 30 | Chtid |
+| 1802 | 30 | Thomasena Eady Reid |
+| 1803 | 30 | Monica Goldhorn |
 | 1804 | 30 | Derald Miller |
-| 1805 | 30 | Cool Ziggy |
-| 1806 | 30 | Apryl Lia |
-| 1807 | 30 | Jameel HumanTornado Brown |
-| 1808 | 30 | Juanita Elizebeth |
-| 1809 | 30 | JJB |
-| 1810 | 30 | Becky |
-| 1811 | 30 | Kris Wolfe |
-| 1812 | 30 | Ladi A |
-| 1813 | 30 | Khrystyna Lukaniuk |
-| 1814 | 29 | EMSquire |
-| 1815 | 29 | Joshua Smith |
-| 1816 | 29 | Jessica Lynn |
-| 1817 | 29 | Interesting |
-| 1818 | 29 | Melissa Gail Sanders |
-| 1819 | 29 | Bouncy Ziggy |
-| 1820 | 29 | Amanda Gann |
-| 1821 | 29 | Kathy Garcia |
-| 1822 | 29 | Chill Riserpiece |
-| 1823 | 28 | Monica Goldhorn |
+| 1805 | 30 | Alberto Rosel |
+| 1806 | 30 | Cool Ziggy |
+| 1807 | 30 | Apryl Lia |
+| 1808 | 30 | Jameel HumanTornado Brown |
+| 1809 | 30 | Juanita Elizebeth |
+| 1810 | 30 | JJB |
+| 1811 | 30 | Becky |
+| 1812 | 30 | Kris Wolfe |
+| 1813 | 30 | Ladi A |
+| 1814 | 30 | Khrystyna Lukaniuk |
+| 1815 | 29 | EMSquire |
+| 1816 | 29 | Joshua Smith |
+| 1817 | 29 | Jessica Lynn |
+| 1818 | 29 | Interesting |
+| 1819 | 29 | Melissa Gail Sanders |
+| 1820 | 29 | Bouncy Ziggy |
+| 1821 | 29 | Amanda Gann |
+| 1822 | 29 | Kathy Garcia |
+| 1823 | 29 | Chill Riserpiece |
 | 1824 | 28 | Charles D Rexrode Jr |
 | 1825 | 28 | Slinky Matcher |
 | 1826 | 28 | Dovakin |
