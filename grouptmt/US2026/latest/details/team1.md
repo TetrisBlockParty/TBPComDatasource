@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 07:28:45 UTC
+# Standings for team1 as of 2026-02-25 07:29:23 UTC
 
 **Total Participants:** 2432
 
@@ -114,19 +114,19 @@
 | 106 | 947 | Desiree Deschaine Havee |
 | 107 | 941 | Hyper |
 | 108 | 938 | Kellie |
-| 109 | 922 | Tawnya Peltonen |
-| 110 | 916 | Chirpy Smasher |
-| 111 | 913 | Dee Perry |
-| 112 | 912 | Angel Fowler |
+| 109 | 930 | Angel Fowler |
+| 110 | 922 | Tawnya Peltonen |
+| 111 | 916 | Chirpy Smasher |
+| 112 | 913 | Dee Perry |
 | 113 | 910 | Tinah Montanna |
 | 114 | 909 | Ash Galvan |
 | 115 | 908 | Jazzy Framezone |
 | 116 | 907 | Oscar Zamora |
 | 117 | 904 | Fmp |
-| 118 | 893 | Greg Hart |
-| 119 | 884 | Sevens4L |
-| 120 | 883 | Chuck Gannon |
-| 121 | 881 | Chris K |
+| 118 | 901 | Chris K |
+| 119 | 893 | Greg Hart |
+| 120 | 884 | Sevens4L |
+| 121 | 883 | Chuck Gannon |
 | 122 | 873 | Kimberly Garcia |
 | 123 | 859 | Elaine Elaine |
 | 124 | 855 | Giddy Cascade |
@@ -137,8 +137,8 @@
 | 129 | 832 | phrmblk24 |
 | 130 | 825 | Denice Dee |
 | 131 | 824 | Debbie Kane |
-| 132 | 823 | Dandy Basegrid |
-| 133 | 823 | Melissa Lemmon |
+| 132 | 823 | Melissa Lemmon |
+| 133 | 823 | Dandy Basegrid |
 | 134 | 822 | Susanna Guerry |
 | 135 | 815 | Cartier |
 | 136 | 814 | MIKOZ |
@@ -1000,27 +1000,27 @@
 | 992 | 149 | Woohoo |
 | 993 | 149 | PeppyPenguin |
 | 994 | 148 | Sharon Warren |
-| 995 | 148 | Kissit😘 |
-| 996 | 148 | Wanda Rodriguez |
-| 997 | 148 | Katie Wood |
-| 998 | 148 | Luis Quintero |
-| 999 | 148 | Jazzy Clicker |
+| 995 | 148 | Wanda Rodriguez |
+| 996 | 148 | Kissit😘 |
+| 997 | 148 | Jazzy Clicker |
+| 998 | 148 | Katie Wood |
+| 999 | 148 | Luis Quintero |
 | 1000 | 147 | Javyjavz |
-| 1001 | 146 | Lively Slammer |
+| 1001 | 146 | Staci Walker |
 | 1002 | 146 | Robert Young |
-| 1003 | 146 | Staci Walker |
-| 1004 | 145 | Cheery Zonegrid |
+| 1003 | 146 | Lively Slammer |
+| 1004 | 145 | Frisky Twistslam |
 | 1005 | 145 | Tim Giacobone |
-| 1006 | 145 | Frisky Twistslam |
+| 1006 | 145 | Cheery Zonegrid |
 | 1007 | 144 | Tara |
 | 1008 | 144 | Deanna Scott |
-| 1009 | 143 | Dreamy Brickclear |
-| 1010 | 143 | Kristi Kinard |
-| 1011 | 143 | Jacob Shaddock |
-| 1012 | 143 | Mike Hobby |
-| 1013 | 143 | Unicorn |
-| 1014 | 143 | Sheay |
-| 1015 | 142 | Daysha Johnson |
+| 1009 | 144 | Daysha Johnson |
+| 1010 | 143 | Dreamy Brickclear |
+| 1011 | 143 | Kristi Kinard |
+| 1012 | 143 | Jacob Shaddock |
+| 1013 | 143 | Mike Hobby |
+| 1014 | 143 | Unicorn |
+| 1015 | 143 | Sheay |
 | 1016 | 142 | Spicy Brickline |
 | 1017 | 142 | Nick |
 | 1018 | 142 | Riley Chance |
@@ -1149,33 +1149,33 @@
 | 1141 | 120 | Dchielle |
 | 1142 | 120 | April Jones |
 | 1143 | 120 | Thia Gibson |
-| 1144 | 120 | cola |
-| 1145 | 120 | Amanda Alt Caplinger |
-| 1146 | 119 | Mary Logan |
-| 1147 | 119 | Devon Rae |
-| 1148 | 119 | Kellie |
-| 1149 | 119 | Wendy Walker-Hill |
-| 1150 | 118 | Travis Hughes |
-| 1151 | 118 | Tim Mccrary |
-| 1152 | 118 | Jazzy Clearbuilder |
-| 1153 | 118 | Willian Tarajano |
-| 1154 | 118 | Unelanuhi Belladonna Mystikal Bomar |
+| 1144 | 120 | Claude Villeneuve |
+| 1145 | 120 | cola |
+| 1146 | 120 | Amanda Alt Caplinger |
+| 1147 | 119 | Mary Logan |
+| 1148 | 119 | Devon Rae |
+| 1149 | 119 | Kellie |
+| 1150 | 119 | Wendy Walker-Hill |
+| 1151 | 118 | Travis Hughes |
+| 1152 | 118 | Tim Mccrary |
+| 1153 | 118 | Jazzy Clearbuilder |
+| 1154 | 118 | Willian Tarajano |
 | 1155 | 118 | Denny Castle |
 | 1156 | 118 | RetroRina |
-| 1157 | 117 | Vanessa Zuniga Elvira |
-| 1158 | 117 | rigerson |
-| 1159 | 117 | Raven |
-| 1160 | 117 | Omar Hudson |
-| 1161 | 116 | Lakesha Jackson- Anderson |
-| 1162 | 116 | Badace1 |
-| 1163 | 116 | Claude Villeneuve |
-| 1164 | 116 | Cleo Snider |
-| 1165 | 116 | Lilly Denny |
-| 1166 | 115 | Chilly Piececlear |
-| 1167 | 115 | Anthony Ray |
-| 1168 | 115 | Helen Arbuckle |
+| 1157 | 118 | Unelanuhi Belladonna Mystikal Bomar |
+| 1158 | 117 | Vanessa Zuniga Elvira |
+| 1159 | 117 | rigerson |
+| 1160 | 117 | Raven |
+| 1161 | 117 | Omar Hudson |
+| 1162 | 116 | Lakesha Jackson- Anderson |
+| 1163 | 116 | Badace1 |
+| 1164 | 116 | Lilly Denny |
+| 1165 | 116 | Cleo Snider |
+| 1166 | 115 | ghxsty |
+| 1167 | 115 | Helen Arbuckle |
+| 1168 | 115 | Chilly Piececlear |
 | 1169 | 115 | 804RVAME |
-| 1170 | 115 | ghxsty |
+| 1170 | 115 | Anthony Ray |
 | 1171 | 114 | Slinky Fitblock |
 | 1172 | 114 | Dimitri Alexopoulos |
 | 1173 | 114 | Eduardo Santos |
