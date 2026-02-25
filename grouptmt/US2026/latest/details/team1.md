@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 11:00:44 UTC
+# Standings for team1 as of 2026-02-25 11:01:22 UTC
 
 **Total Participants:** 2456
 
@@ -260,7 +260,7 @@
 | 252 | 498 | Richard Corrado |
 | 253 | 492 | Jessie Lynn |
 | 254 | 491 | Yvonne Marie |
-| 255 | 486 | Ananda Mendez |
+| 255 | 490 | Ananda Mendez |
 | 256 | 486 | Brenda Alexander |
 | 257 | 485 | Alenoush Karimian |
 | 258 | 485 | Jen Nystrom |
