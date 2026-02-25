@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 07:43:17 UTC
+# Standings for team4 as of 2026-02-25 07:44:22 UTC
 
 **Total Participants:** 2179
 
@@ -9,7 +9,7 @@
 | 1 | 9050 | Devinlee Brown |
 | 2 | 8765 | sierrabeth |
 | 3 | 8598 | Bubbly Puzzler |
-| 4 | 6839 | Kat |
+| 4 | 6870 | Kat |
 | 5 | 5576 | Breannah Grafe |
 | 6 | 5542 | East Mamba |
 | 7 | 5031 | Alyssa Cox |
@@ -234,31 +234,31 @@
 | 226 | 550 | James Hurley Jr. |
 | 227 | 550 | J-Rizzle |
 | 228 | 542 | Kimberlee Jan Beckstead |
-| 229 | 539 | scott |
-| 230 | 538 | Trish |
-| 231 | 537 | Scott Jameson |
-| 232 | 537 | Joanna |
-| 233 | 537 | DonMega |
-| 234 | 537 | ThaEviLJeNiuZ |
-| 235 | 536 | Ericca Eldridge |
-| 236 | 532 | Sharyn Lemire |
-| 237 | 531 | Mr. Party |
-| 238 | 530 | Rodney Wheeler |
-| 239 | 527 | Jolly Dashfit |
-| 240 | 522 | Luis Martinez |
-| 241 | 522 | Marcus Todd |
-| 242 | 520 | Antony Dwayne Beasley |
-| 243 | 520 | Jessi Cinotto |
+| 229 | 540 | Jessi Cinotto |
+| 230 | 539 | scott |
+| 231 | 538 | Trish |
+| 232 | 537 | Scott Jameson |
+| 233 | 537 | Joanna |
+| 234 | 537 | DonMega |
+| 235 | 537 | ThaEviLJeNiuZ |
+| 236 | 536 | Ericca Eldridge |
+| 237 | 532 | Sharyn Lemire |
+| 238 | 531 | Mr. Party |
+| 239 | 530 | Rodney Wheeler |
+| 240 | 527 | Jolly Dashfit |
+| 241 | 522 | Luis Martinez |
+| 242 | 522 | Marcus Todd |
+| 243 | 520 | Antony Dwayne Beasley |
 | 244 | 518 | Leah Kutz Zirbel |
 | 245 | 518 | shark tato |
 | 246 | 517 | Casey Grabner |
 | 247 | 516 | Nick Gray |
-| 248 | 515 | Bradley Reeves |
-| 249 | 514 | Cheery Risebuilder |
+| 248 | 515 | Brittany Little |
+| 249 | 515 | Bradley Reeves |
 | 250 | 514 | Keshia Lyons |
-| 251 | 513 | Milan Markeisha |
-| 252 | 513 | Ari Droff |
-| 253 | 513 | Brittany Little |
+| 251 | 514 | Cheery Risebuilder |
+| 252 | 513 | Milan Markeisha |
+| 253 | 513 | Ari Droff |
 | 254 | 513 | Silly Zonebuilder |
 | 255 | 512 | Casey Jeffcoat |
 | 256 | 512 | Michele Plunkett |
@@ -675,9 +675,9 @@
 | 667 | 226 | Myra LaTrice |
 | 668 | 226 | Lazy Column |
 | 669 | 226 | Cozy Balancer |
-| 670 | 225 | Jobadia Steelerton |
-| 671 | 224 | Tabi Williams |
-| 672 | 224 | Michelle McCutcheon |
+| 670 | 225 | Michelle McCutcheon |
+| 671 | 225 | Jobadia Steelerton |
+| 672 | 224 | Tabi Williams |
 | 673 | 224 | Jacob Campbell |
 | 674 | 224 | Miranda Wigginton |
 | 675 | 223 | KyngKliff |
@@ -1516,54 +1516,54 @@
 | 1508 | 56 | Amanda Slusser |
 | 1509 | 56 | Miranda Ozaeta |
 | 1510 | 56 | Wacky Wendy |
-| 1511 | 55 | RiahRose |
-| 1512 | 55 | Michelle Shimel |
-| 1513 | 55 | No name |
-| 1514 | 55 | Bymerica |
-| 1515 | 55 | Poppy Brickmatch |
-| 1516 | 55 | Amanda Ashley |
-| 1517 | 55 | Les |
-| 1518 | 55 | Dorene Brooks |
-| 1519 | 55 | Gabriel Raymond |
-| 1520 | 55 | BenLane |
-| 1521 | 55 | Slappy Blackhead |
-| 1522 | 55 | Katrina Bradley |
-| 1523 | 55 | Ms Netta |
-| 1524 | 55 | Samantha Ponzillo |
-| 1525 | 54 | AuDra Renee Dupre |
-| 1526 | 54 | Brandon Biff Schleman |
-| 1527 | 54 | Jared Nadler |
-| 1528 | 54 | kash |
-| 1529 | 54 | Pamela Traum |
-| 1530 | 54 | Timarie Vasquez |
-| 1531 | 54 | Jodi Messere |
-| 1532 | 54 | Sabby |
-| 1533 | 54 | Zaltosk |
-| 1534 | 54 | Hasty Piecefit |
-| 1535 | 54 | Tipsy Blockline |
-| 1536 | 54 | Andrew Easley |
-| 1537 | 54 | Joseph Bodon |
-| 1538 | 54 | Lucky2Guns |
-| 1539 | 54 | Lisha Billups |
-| 1540 | 54 | Nayyirah Hariyyan |
-| 1541 | 54 | Dan Kraly |
-| 1542 | 53 | Digg715 |
-| 1543 | 53 | Tyler Coutts |
-| 1544 | 53 | Dizzy Rollbuilder |
-| 1545 | 53 | Chipper Towerfit |
-| 1546 | 53 | Daring Zonepiece |
-| 1547 | 53 | Haley Jean |
-| 1548 | 53 | AZ |
-| 1549 | 53 | Holly Baxley |
-| 1550 | 52 | Lily Cannon |
-| 1551 | 52 | Clever Fitzone |
-| 1552 | 52 | Flashy Cascadepiece |
-| 1553 | 52 | Eli Guevara |
-| 1554 | 52 | Daniel Bonham |
-| 1555 | 52 | Hoodylu |
-| 1556 | 52 | Francis Fleurant |
-| 1557 | 52 | Csquared812 |
-| 1558 | 52 | Chirpy Balancer |
+| 1511 | 56 | Chirpy Balancer |
+| 1512 | 55 | RiahRose |
+| 1513 | 55 | Michelle Shimel |
+| 1514 | 55 | No name |
+| 1515 | 55 | Bymerica |
+| 1516 | 55 | Poppy Brickmatch |
+| 1517 | 55 | Amanda Ashley |
+| 1518 | 55 | Les |
+| 1519 | 55 | Dorene Brooks |
+| 1520 | 55 | Gabriel Raymond |
+| 1521 | 55 | BenLane |
+| 1522 | 55 | Slappy Blackhead |
+| 1523 | 55 | Katrina Bradley |
+| 1524 | 55 | Ms Netta |
+| 1525 | 55 | Samantha Ponzillo |
+| 1526 | 54 | AuDra Renee Dupre |
+| 1527 | 54 | Brandon Biff Schleman |
+| 1528 | 54 | Jared Nadler |
+| 1529 | 54 | kash |
+| 1530 | 54 | Pamela Traum |
+| 1531 | 54 | Timarie Vasquez |
+| 1532 | 54 | Jodi Messere |
+| 1533 | 54 | Sabby |
+| 1534 | 54 | Zaltosk |
+| 1535 | 54 | Hasty Piecefit |
+| 1536 | 54 | Tipsy Blockline |
+| 1537 | 54 | Andrew Easley |
+| 1538 | 54 | Joseph Bodon |
+| 1539 | 54 | Lucky2Guns |
+| 1540 | 54 | Lisha Billups |
+| 1541 | 54 | Nayyirah Hariyyan |
+| 1542 | 54 | Dan Kraly |
+| 1543 | 53 | Digg715 |
+| 1544 | 53 | Tyler Coutts |
+| 1545 | 53 | Dizzy Rollbuilder |
+| 1546 | 53 | Chipper Towerfit |
+| 1547 | 53 | Daring Zonepiece |
+| 1548 | 53 | Haley Jean |
+| 1549 | 53 | AZ |
+| 1550 | 53 | Holly Baxley |
+| 1551 | 52 | Lily Cannon |
+| 1552 | 52 | Clever Fitzone |
+| 1553 | 52 | Flashy Cascadepiece |
+| 1554 | 52 | Eli Guevara |
+| 1555 | 52 | Daniel Bonham |
+| 1556 | 52 | Hoodylu |
+| 1557 | 52 | Francis Fleurant |
+| 1558 | 52 | Csquared812 |
 | 1559 | 52 | Alexis Kelly |
 | 1560 | 52 | emd |
 | 1561 | 51 | Jamie Smalling |
