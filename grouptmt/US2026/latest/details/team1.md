@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 10:58:44 UTC
+# Standings for team1 as of 2026-02-25 10:59:23 UTC
 
 **Total Participants:** 2455
 
@@ -47,7 +47,7 @@
 | 39 | 1776 | Lola Adkhambekovna |
 | 40 | 1707 | Marianne Louise West |
 | 41 | 1701 | Tyler Whitley |
-| 42 | 1699 | Jen Sartain |
+| 42 | 1700 | Jen Sartain |
 | 43 | 1686 | Jessica Sheehan |
 | 44 | 1658 | Andrea Dañielle Ortiz |
 | 45 | 1643 | Trippy Redd |
@@ -102,8 +102,8 @@
 | 94 | 1032 | Kathi Snustad |
 | 95 | 1011 | Francesca Gee |
 | 96 | 1010 | Tee Sheree |
-| 97 | 1004 | Bindi |
-| 98 | 1000 | Dee Perry |
+| 97 | 1005 | Dee Perry |
+| 98 | 1004 | Bindi |
 | 99 | 999 | comrade fish |
 | 100 | 986 | Jennifer ManWarren |
 | 101 | 975 | Giddy Cascade |
@@ -139,8 +139,8 @@
 | 131 | 833 | Bob |
 | 132 | 825 | Denice Dee |
 | 133 | 824 | Debbie Kane |
-| 134 | 823 | Dandy Basegrid |
-| 135 | 823 | Melissa Lemmon |
+| 134 | 823 | Melissa Lemmon |
+| 135 | 823 | Dandy Basegrid |
 | 136 | 822 | Susanna Guerry |
 | 137 | 815 | Cartier |
 | 138 | 804 | Snappy Matcher |
@@ -930,44 +930,44 @@
 | 922 | 167 | Kevin Prothro |
 | 923 | 167 | Peachy Zoney |
 | 924 | 167 | Melissa Marckini |
-| 925 | 165 | Garry Myers |
-| 926 | 165 | Dante Jennings |
-| 927 | 165 | sassy |
+| 925 | 165 | Dante Jennings |
+| 926 | 165 | sassy |
+| 927 | 165 | Garry Myers |
 | 928 | 165 | Tazz |
 | 929 | 165 | Amber Johnson-Grantham |
-| 930 | 165 | Mizzledagod |
-| 931 | 165 | Daring Tilerpiece |
-| 932 | 164 | CMG |
-| 933 | 164 | Billie Garrett |
-| 934 | 164 | Shawn Rodgers |
-| 935 | 164 | Shante Jenkins |
-| 936 | 164 | Toespixe |
-| 937 | 164 | Travis Taylor |
-| 938 | 164 | Charlie Ryno |
-| 939 | 163 | Snippy Piecefit |
-| 940 | 163 | Lourdes Marrero |
-| 941 | 163 | Perla Silva |
-| 942 | 163 | Susan Good |
-| 943 | 163 | Ali Ward |
-| 944 | 162 | Sari Jones |
-| 945 | 162 | Loony Patternbuilder |
-| 946 | 162 | Steve Robinson |
-| 947 | 162 | Rockin Red |
-| 948 | 162 | Mark Zeitlin |
-| 949 | 161 | Costa del Sol |
+| 930 | 165 | Daring Tilerpiece |
+| 931 | 165 | Mizzledagod |
+| 932 | 164 | Billie Garrett |
+| 933 | 164 | Shawn Rodgers |
+| 934 | 164 | Shante Jenkins |
+| 935 | 164 | Toespixe |
+| 936 | 164 | Travis Taylor |
+| 937 | 164 | Charlie Ryno |
+| 938 | 164 | CMG |
+| 939 | 163 | Rockin Red |
+| 940 | 163 | Snippy Piecefit |
+| 941 | 163 | Lourdes Marrero |
+| 942 | 163 | Perla Silva |
+| 943 | 163 | Susan Good |
+| 944 | 163 | Ali Ward |
+| 945 | 162 | Mark Zeitlin |
+| 946 | 162 | Sari Jones |
+| 947 | 162 | Steve Robinson |
+| 948 | 162 | Loony Patternbuilder |
+| 949 | 161 | Sara Buuck |
 | 950 | 161 | Trisha Matthews |
-| 951 | 161 | Sara Buuck |
-| 952 | 160 | Dorny |
-| 953 | 160 | Purple |
+| 951 | 161 | Costa del Sol |
+| 952 | 160 | Purple |
+| 953 | 160 | Dorny |
 | 954 | 160 | Lively Buildout |
 | 955 | 159 | Cozy Cascader |
 | 956 | 159 | Cool Combo |
-| 957 | 159 | Vicky Shull |
+| 957 | 159 | Sunny Column |
 | 958 | 159 | Josh Watters |
 | 959 | 159 | Shannon Elizabeth |
 | 960 | 159 | Christina Gutierrez |
 | 961 | 159 | Kurtis Manlow |
-| 962 | 159 | Sunny Column |
+| 962 | 159 | Vicky Shull |
 | 963 | 158 | Cree |
 | 964 | 158 | Hungsolo9 |
 | 965 | 158 | Margaret Rose |
@@ -1542,89 +1542,89 @@
 | 1534 | 66 | Pearlz |
 | 1535 | 66 | Crystal Mock |
 | 1536 | 66 | Vanessa G Keill |
-| 1537 | 66 | Stormz420 |
-| 1538 | 66 | Destinee VanPatten |
-| 1539 | 65 | Heidi Hile |
-| 1540 | 65 | Jessica Lang |
-| 1541 | 65 | Missy Anderson |
-| 1542 | 65 | Jessica Kelsey |
-| 1543 | 65 | Kayla |
-| 1544 | 65 | Colton Samantha Lester |
-| 1545 | 65 | Misses Haggard |
+| 1537 | 66 | Destinee VanPatten |
+| 1538 | 66 | Stormz420 |
+| 1539 | 65 | Misses Haggard |
+| 1540 | 65 | Heidi Hile |
+| 1541 | 65 | Sarah Denise Baca |
+| 1542 | 65 | Karen Berkenstock |
+| 1543 | 65 | Chibuike Stephen Ndubunka |
+| 1544 | 65 | Prudence Muzondo |
+| 1545 | 65 | Brian Mc Auley |
 | 1546 | 65 | Joshua Brymer |
-| 1547 | 65 | Brian Mc Auley |
-| 1548 | 65 | Prudence Muzondo |
-| 1549 | 65 | Karen Berkenstock |
-| 1550 | 65 | Sarah Denise Baca |
-| 1551 | 64 | BlackberryCobbler |
+| 1547 | 65 | Colton Samantha Lester |
+| 1548 | 65 | Kayla |
+| 1549 | 65 | Jessica Kelsey |
+| 1550 | 65 | Missy Anderson |
+| 1551 | 65 | Jessica Lang |
 | 1552 | 64 | Brave Tiley |
-| 1553 | 64 | Darlene Nani Pack Viernes |
-| 1554 | 64 | Cool Balancer |
-| 1555 | 64 | Kyle Schwarcz |
-| 1556 | 64 | Jerred Hunter |
-| 1557 | 64 | Twisty Rollbuilder |
-| 1558 | 64 | John Fronczek |
+| 1553 | 64 | BlackberryCobbler |
+| 1554 | 64 | Darlene Nani Pack Viernes |
+| 1555 | 64 | Cool Balancer |
+| 1556 | 64 | Kyle Schwarcz |
+| 1557 | 64 | Jerred Hunter |
+| 1558 | 64 | Hank |
 | 1559 | 64 | Kenneth Ray Steiner |
-| 1560 | 64 | Hank |
-| 1561 | 63 | Jr Kelley |
-| 1562 | 63 | Arthur James Watson |
-| 1563 | 63 | Shelley Dose |
-| 1564 | 63 | Max R Eble |
-| 1565 | 63 | Witty Frame |
-| 1566 | 63 | Henry James Bechtold |
-| 1567 | 63 | Lincon |
-| 1568 | 63 | Cheeky Link |
-| 1569 | 63 | Mike Kimes |
+| 1560 | 64 | John Fronczek |
+| 1561 | 64 | Twisty Rollbuilder |
+| 1562 | 63 | Jessica |
+| 1563 | 63 | Henry James Bechtold |
+| 1564 | 63 | Cheeky Link |
+| 1565 | 63 | Darrell Mcdonnell |
+| 1566 | 63 | Max R Eble |
+| 1567 | 63 | Shelley Dose |
+| 1568 | 63 | Arthur James Watson |
+| 1569 | 63 | Witty Frame |
 | 1570 | 63 | Shea Hall |
-| 1571 | 63 | Darrell Mcdonnell |
-| 1572 | 63 | Jessica |
-| 1573 | 62 | Michael Akins |
-| 1574 | 62 | Eric Inniss |
-| 1575 | 62 | Grant Halverson |
-| 1576 | 62 | Chummy Tiltpiece |
-| 1577 | 62 | Julia Wilson |
-| 1578 | 62 | Rooster |
+| 1571 | 63 | Mike Kimes |
+| 1572 | 63 | Lincon |
+| 1573 | 63 | Jr Kelley |
+| 1574 | 62 | Hilda Silvers |
+| 1575 | 62 | Shanetta Jacob Hannagan Johnson |
+| 1576 | 62 | Julia Wilson |
+| 1577 | 62 | Chummy Tiltpiece |
+| 1578 | 62 | Eric Inniss |
 | 1579 | 62 | Kishi |
-| 1580 | 62 | Shanetta Jacob Hannagan Johnson |
-| 1581 | 62 | Hilda Silvers |
-| 1582 | 62 | Moneybags |
+| 1580 | 62 | Moneybags |
+| 1581 | 62 | Michael Akins |
+| 1582 | 62 | Rooster |
 | 1583 | 62 | Michael Campbell |
-| 1584 | 61 | Perky Patternfall |
-| 1585 | 61 | Brianna Andrews |
-| 1586 | 61 | Todd Barry |
-| 1587 | 61 | Rose Clark |
-| 1588 | 61 | Chibuike Stephen Ndubunka |
-| 1589 | 61 | Chirpy Zoney |
-| 1590 | 61 | Zappy Brickzone |
-| 1591 | 61 | Robin Blume |
-| 1592 | 61 | Karen Guy |
-| 1593 | 61 | Kyle Barnes |
-| 1594 | 61 | MasterMook |
+| 1584 | 62 | Grant Halverson |
+| 1585 | 61 | Karen Guy |
+| 1586 | 61 | Zappy Brickzone |
+| 1587 | 61 | Robin Blume |
+| 1588 | 61 | MasterMook |
+| 1589 | 61 | Perky Patternfall |
+| 1590 | 61 | Kyle Barnes |
+| 1591 | 61 | Todd Barry |
+| 1592 | 61 | Brianna Andrews |
+| 1593 | 61 | Chirpy Zoney |
+| 1594 | 61 | Rose Clark |
 | 1595 | 61 | Jimmie |
-| 1596 | 60 | Apex892 |
-| 1597 | 60 | Marcellus Royal |
-| 1598 | 60 | Nikki McGhee |
-| 1599 | 60 | Vanilla gorilla |
-| 1600 | 60 | Ron |
-| 1601 | 60 | Tracy Farrar |
-| 1602 | 60 | Samantha Netherly-Ratliff |
-| 1603 | 60 | Orvswf |
-| 1604 | 60 | Bambi Cervidae |
-| 1605 | 60 | Scott Hevenor |
-| 1606 | 60 | Alex Hernandez |
+| 1596 | 60 | Tracy Farrar |
+| 1597 | 60 | Bambi Cervidae |
+| 1598 | 60 | Apex892 |
+| 1599 | 60 | Scott Hevenor |
+| 1600 | 60 | Nikki McGhee |
+| 1601 | 60 | Orvswf |
+| 1602 | 60 | Ron |
+| 1603 | 60 | Alex Hernandez |
+| 1604 | 60 | Marcellus Royal |
+| 1605 | 60 | Samantha Netherly-Ratliff |
+| 1606 | 60 | Vanilla gorilla |
 | 1607 | 59 | Kaitlyn Sheldon |
-| 1608 | 59 | Frothy Snapzone |
-| 1609 | 59 | COWBOY |
-| 1610 | 59 | Loopy Shiftsnap |
-| 1611 | 59 | Cielo Rodriguez |
-| 1612 | 59 | Cynthia Dalton |
-| 1613 | 59 | Mia Ballard |
-| 1614 | 58 | Tasha Nicole |
-| 1615 | 58 | Tommy |
-| 1616 | 58 | Snazzy Buildsnap |
-| 1617 | 58 | Ry |
-| 1618 | 58 | Cheryl Harker |
-| 1619 | 58 | Lavon Usher |
+| 1608 | 59 | COWBOY |
+| 1609 | 59 | Loopy Shiftsnap |
+| 1610 | 59 | Frothy Snapzone |
+| 1611 | 59 | Mia Ballard |
+| 1612 | 59 | Cielo Rodriguez |
+| 1613 | 59 | Cynthia Dalton |
+| 1614 | 58 | Cheryl Harker |
+| 1615 | 58 | Lavon Usher |
+| 1616 | 58 | Tasha Nicole |
+| 1617 | 58 | Tommy |
+| 1618 | 58 | Snazzy Buildsnap |
+| 1619 | 58 | Ry |
 | 1620 | 57 | Justin Alberry |
 | 1621 | 57 | Anime girl |
 | 1622 | 57 | Frothy Wipebuilder |
