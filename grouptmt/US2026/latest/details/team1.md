@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 12:30:23 UTC
+# Standings for team1 as of 2026-02-25 12:31:23 UTC
 
 **Total Participants:** 2462
 
@@ -71,7 +71,7 @@
 | 63 | 1423 | Tipsy Column |
 | 64 | 1390 | Hasbro Bros |
 | 65 | 1340 | Adam Byrd |
-| 66 | 1330 | TSwag |
+| 66 | 1331 | TSwag |
 | 67 | 1328 | Karin Gillen |
 | 68 | 1324 | Lawrence Belanger |
 | 69 | 1320 | Kathy Langham |
@@ -136,8 +136,8 @@
 | 128 | 865 | Elaine Elaine |
 | 129 | 854 | Robert Benito |
 | 130 | 839 | Happy Basegrid |
-| 131 | 833 | Bob |
-| 132 | 826 | Tdub |
+| 131 | 835 | Tdub |
+| 132 | 833 | Bob |
 | 133 | 825 | Denice Dee |
 | 134 | 824 | Debbie Kane |
 | 135 | 824 | Melissa Lemmon |
@@ -236,19 +236,19 @@
 | 228 | 541 | Tami Luce Martin |
 | 229 | 541 | Sweetts |
 | 230 | 540 | Jenny Gingrich Fuentes |
-| 231 | 539 | Cool Shiftsnap |
-| 232 | 538 | Angela Spann |
-| 233 | 537 | canbrick |
-| 234 | 535 | DaRascal |
-| 235 | 530 | Avelyn Calamba |
-| 236 | 529 | Witty Builderfit |
-| 237 | 526 | Teddy Alexander |
-| 238 | 525 | Tamara Brown |
-| 239 | 525 | Dizzy Slider |
-| 240 | 522 | Happy Snapbuild |
-| 241 | 520 | Dreamy Drop |
+| 231 | 539 | Wayne Saunders |
+| 232 | 539 | Cool Shiftsnap |
+| 233 | 538 | Angela Spann |
+| 234 | 537 | canbrick |
+| 235 | 535 | DaRascal |
+| 236 | 530 | Avelyn Calamba |
+| 237 | 529 | Witty Builderfit |
+| 238 | 526 | Teddy Alexander |
+| 239 | 525 | Tamara Brown |
+| 240 | 525 | Dizzy Slider |
+| 241 | 522 | Happy Snapbuild |
 | 242 | 520 | Lindsay Glover |
-| 243 | 520 | Wayne Saunders |
+| 243 | 520 | Dreamy Drop |
 | 244 | 520 | Chelsea Dahlquist |
 | 245 | 520 | Reesey Enyart |
 | 246 | 518 | Connie |
@@ -758,16 +758,16 @@
 | 750 | 209 | Lively Wipeout |
 | 751 | 208 | Paul Gates |
 | 752 | 208 | Donna Addison Williams |
-| 753 | 208 | TristansDad |
-| 754 | 208 | Jason Landon Sexton |
-| 755 | 207 | Tina Kocher Zimmerman |
-| 756 | 207 | Wacky Strikesnap |
+| 753 | 208 | Wacky Strikesnap |
+| 754 | 208 | TristansDad |
+| 755 | 208 | Jason Landon Sexton |
+| 756 | 207 | Tina Kocher Zimmerman |
 | 757 | 207 | Shawn Robert |
 | 758 | 206 | Almïghty Stoner |
 | 759 | 206 | Doris Hall |
 | 760 | 206 | Abusive |
-| 761 | 206 | Gremb |
-| 762 | 206 | Amanda Stevens |
+| 761 | 206 | Amanda Stevens |
+| 762 | 206 | Gremb |
 | 763 | 206 | Pace |
 | 764 | 205 | William Cry |
 | 765 | 205 | Dustin Johnston |
@@ -1431,33 +1431,33 @@
 | 1423 | 78 | Tma |
 | 1424 | 78 | Dake Axton Shields |
 | 1425 | 78 | Pauline Rentch |
-| 1426 | 78 | Ricardo Terrazas |
-| 1427 | 78 | Jessica Collier |
-| 1428 | 78 | Kimi Kay Anderson |
+| 1426 | 78 | Kimi Kay Anderson |
+| 1427 | 78 | Ricardo Terrazas |
+| 1428 | 78 | Jessica Collier |
 | 1429 | 78 | Consuelo Lopez |
 | 1430 | 77 | J.W. Norris |
 | 1431 | 77 | Home Plate |
 | 1432 | 77 | Frank |
-| 1433 | 77 | Joshua Allen Garey |
-| 1434 | 77 | Monica Rivas |
-| 1435 | 77 | Dwight Wade Stambaugh Jr. |
-| 1436 | 76 | e |
-| 1437 | 76 | Don Reno |
-| 1438 | 76 | Slinky Towerpiece |
+| 1433 | 77 | Plucky Clearpiece |
+| 1434 | 77 | Joshua Allen Garey |
+| 1435 | 77 | Monica Rivas |
+| 1436 | 77 | Dwight Wade Stambaugh Jr. |
+| 1437 | 76 | e |
+| 1438 | 76 | Don Reno |
 | 1439 | 76 | Dreamy Patternfit |
-| 1440 | 76 | fuse |
-| 1441 | 76 | Harry N Baker |
-| 1442 | 76 | Lydia Rodriguez |
-| 1443 | 76 | Cari Brown Cady |
-| 1444 | 76 | Chirpy Twistline |
-| 1445 | 76 | Pete Davis |
-| 1446 | 75 | Christian Schirmer |
+| 1440 | 76 | Slinky Towerpiece |
+| 1441 | 76 | fuse |
+| 1442 | 76 | Harry N Baker |
+| 1443 | 76 | Lydia Rodriguez |
+| 1444 | 76 | Cari Brown Cady |
+| 1445 | 76 | Chirpy Twistline |
+| 1446 | 76 | Pete Davis |
 | 1447 | 75 | Mama Zelda |
-| 1448 | 75 | Diana |
-| 1449 | 75 | Terri Williams |
-| 1450 | 75 | Sarah Stanonik |
-| 1451 | 75 | Anthony Torres |
-| 1452 | 75 | Plucky Clearpiece |
+| 1448 | 75 | Christian Schirmer |
+| 1449 | 75 | Diana |
+| 1450 | 75 | Terri Williams |
+| 1451 | 75 | Sarah Stanonik |
+| 1452 | 75 | Anthony Torres |
 | 1453 | 75 | Quirky Rumbler |
 | 1454 | 75 | Chill Brickclear |
 | 1455 | 74 | Ariella Knopp Warner |
