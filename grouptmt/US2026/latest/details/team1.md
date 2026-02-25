@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 10:55:24 UTC
+# Standings for team1 as of 2026-02-25 10:56:47 UTC
 
 **Total Participants:** 2455
 
@@ -47,7 +47,7 @@
 | 39 | 1776 | Lola Adkhambekovna |
 | 40 | 1707 | Marianne Louise West |
 | 41 | 1701 | Tyler Whitley |
-| 42 | 1697 | Jen Sartain |
+| 42 | 1699 | Jen Sartain |
 | 43 | 1686 | Jessica Sheehan |
 | 44 | 1658 | Andrea Dañielle Ortiz |
 | 45 | 1643 | Trippy Redd |
@@ -283,19 +283,19 @@
 | 275 | 457 | Spencer Lent |
 | 276 | 455 | Sunny Shift |
 | 277 | 455 | pjbeta |
-| 278 | 455 | Kimmie Kimms |
-| 279 | 454 | Cassie Smith |
-| 280 | 452 | Tyler Hertzog |
-| 281 | 452 | Jo Kerley |
+| 278 | 455 | Jo Kerley |
+| 279 | 455 | Kimmie Kimms |
+| 280 | 454 | Cassie Smith |
+| 281 | 452 | Tyler Hertzog |
 | 282 | 452 | DoodleBug |
 | 283 | 450 | Shiny Snapfit |
 | 284 | 449 | Cece Ibarra |
 | 285 | 447 | Lynn Adams |
 | 286 | 447 | Letson Melissa |
-| 287 | 446 | Irv |
-| 288 | 446 | Richard Butler |
-| 289 | 446 | Dino |
-| 290 | 446 | Lakeisha Chapman |
+| 287 | 447 | Lakeisha Chapman |
+| 288 | 446 | Irv |
+| 289 | 446 | Richard Butler |
+| 290 | 446 | Dino |
 | 291 | 445 | Tetrisqn |
 | 292 | 445 | Emily Adelaide Wheatley |
 | 293 | 445 | Sylvia Vasquez |
@@ -311,9 +311,9 @@
 | 303 | 437 | LD1 |
 | 304 | 436 | Sarahdactyl |
 | 305 | 436 | David Lutcher |
-| 306 | 434 | Poppy Riserpiece |
-| 307 | 432 | Test |
-| 308 | 432 | Shan Rock |
+| 306 | 435 | Shan Rock |
+| 307 | 434 | Poppy Riserpiece |
+| 308 | 432 | Test |
 | 309 | 432 | Shiny Gridmatch |
 | 310 | 432 | Keith Mathis |
 | 311 | 432 | SavageBooty98 |
@@ -949,28 +949,28 @@
 | 941 | 163 | Snippy Piecefit |
 | 942 | 163 | Susan Good |
 | 943 | 163 | Perla Silva |
-| 944 | 162 | Mark Zeitlin |
+| 944 | 162 | Rockin Red |
 | 945 | 162 | Loony Patternbuilder |
-| 946 | 162 | Sari Jones |
-| 947 | 162 | Steve Robinson |
-| 948 | 161 | Sara Buuck |
-| 949 | 161 | Costa del Sol |
-| 950 | 161 | Trisha Matthews |
-| 951 | 160 | Dorny |
-| 952 | 160 | Lively Buildout |
+| 946 | 162 | Mark Zeitlin |
+| 947 | 162 | Sari Jones |
+| 948 | 162 | Steve Robinson |
+| 949 | 161 | Sara Buuck |
+| 950 | 161 | Costa del Sol |
+| 951 | 161 | Trisha Matthews |
+| 952 | 160 | Dorny |
 | 953 | 160 | Purple |
-| 954 | 159 | Sunny Column |
-| 955 | 159 | Christina Gutierrez |
-| 956 | 159 | Kurtis Manlow |
-| 957 | 159 | Cozy Cascader |
-| 958 | 159 | Josh Watters |
+| 954 | 160 | Lively Buildout |
+| 955 | 159 | Josh Watters |
+| 956 | 159 | Christina Gutierrez |
+| 957 | 159 | Kurtis Manlow |
+| 958 | 159 | Cozy Cascader |
 | 959 | 159 | Shannon Elizabeth |
 | 960 | 159 | Cool Combo |
 | 961 | 159 | Vicky Shull |
-| 962 | 158 | Roxy Cohen-Skalli |
-| 963 | 158 | Margaret Rose |
-| 964 | 158 | Cree |
-| 965 | 158 | Rockin Red |
+| 962 | 159 | Sunny Column |
+| 963 | 158 | Cree |
+| 964 | 158 | Roxy Cohen-Skalli |
+| 965 | 158 | Margaret Rose |
 | 966 | 158 | Hungsolo9 |
 | 967 | 157 | Brynn Elizabeth |
 | 968 | 157 | Crystal Raffaele |
@@ -1796,55 +1796,55 @@
 | 1788 | 44 | Jayne Zitek |
 | 1789 | 44 | Rick |
 | 1790 | 44 | Goofy Builderline |
-| 1791 | 44 | Leanna Dawn Slone |
+| 1791 | 44 | Wacky Builderline |
 | 1792 | 44 | Danielle Martin |
-| 1793 | 44 | Wacky Builderline |
+| 1793 | 44 | Leanna Dawn Slone |
 | 1794 | 43 | DaDawg |
 | 1795 | 43 | Cranky Tiltbuilder |
 | 1796 | 43 | Brosecki |
 | 1797 | 43 | Daring Brickroll |
-| 1798 | 43 | Kippopotamus |
-| 1799 | 43 | Dawn Mateo De Acosta |
-| 1800 | 43 | callsignbdog |
-| 1801 | 43 | Zesty Brickclear |
-| 1802 | 43 | Charlie Vanblarcom |
-| 1803 | 43 | ballzdeep |
-| 1804 | 43 | Dorothy Vernon |
-| 1805 | 43 | Cryder Monique |
-| 1806 | 43 | Astelee |
-| 1807 | 43 | Dreamy Twister |
-| 1808 | 42 | Jose Velasquez |
+| 1798 | 43 | Plucky Gridzone |
+| 1799 | 43 | Kippopotamus |
+| 1800 | 43 | Dawn Mateo De Acosta |
+| 1801 | 43 | callsignbdog |
+| 1802 | 43 | Zesty Brickclear |
+| 1803 | 43 | Charlie Vanblarcom |
+| 1804 | 43 | ballzdeep |
+| 1805 | 43 | Dorothy Vernon |
+| 1806 | 43 | Cryder Monique |
+| 1807 | 43 | Astelee |
+| 1808 | 43 | Dreamy Twister |
 | 1809 | 42 | Aaron Henry |
-| 1810 | 42 | James Best |
-| 1811 | 42 | HyperBrickFit |
-| 1812 | 42 | Oliver Reeder |
-| 1813 | 42 | Michael McCarron |
-| 1814 | 42 | Dwayne Bogue |
-| 1815 | 41 | Jeremy Hurt |
-| 1816 | 41 | TheBandit |
-| 1817 | 41 | Plucky Column |
-| 1818 | 41 | rae |
-| 1819 | 41 | Nat Gnzlz |
-| 1820 | 41 | Chad Massaro |
-| 1821 | 41 | Curtis |
+| 1810 | 42 | Jose Velasquez |
+| 1811 | 42 | James Best |
+| 1812 | 42 | HyperBrickFit |
+| 1813 | 42 | Dwayne Bogue |
+| 1814 | 42 | Michael McCarron |
+| 1815 | 42 | Oliver Reeder |
+| 1816 | 41 | Jeremy Hurt |
+| 1817 | 41 | TheBandit |
+| 1818 | 41 | Plucky Column |
+| 1819 | 41 | rae |
+| 1820 | 41 | Nat Gnzlz |
+| 1821 | 41 | Chad Massaro |
 | 1822 | 41 | lisa |
 | 1823 | 41 | ya boi |
-| 1824 | 41 | Duhoh |
+| 1824 | 41 | Curtis |
 | 1825 | 41 | Hollyjo Balistreri |
-| 1826 | 41 | Jas Ali |
-| 1827 | 41 | Plucky Gridzone |
+| 1826 | 41 | Duhoh |
+| 1827 | 41 | Jas Ali |
 | 1828 | 41 | Liz Oubre |
 | 1829 | 40 | Georgia J Krawczyk |
 | 1830 | 40 | Terri Ruffin Arnett |
 | 1831 | 40 | Chelly |
-| 1832 | 40 | Richardwertz |
-| 1833 | 40 | Natalyia |
-| 1834 | 40 | Elizabeth A. Lisa Short |
+| 1832 | 40 | Natalyia |
+| 1833 | 40 | Elizabeth A. Lisa Short |
+| 1834 | 40 | Richardwertz |
 | 1835 | 39 | Anna Mae |
-| 1836 | 39 | Clever Blocker |
-| 1837 | 39 | Merder |
-| 1838 | 39 | Julia Linares |
-| 1839 | 39 | Keith Hiller |
+| 1836 | 39 | Keith Hiller |
+| 1837 | 39 | Clever Blocker |
+| 1838 | 39 | Merder |
+| 1839 | 39 | Julia Linares |
 | 1840 | 39 | Carla Tavares |
 | 1841 | 39 | Crafty Blockzone |
 | 1842 | 39 | Chipper Stacky |
