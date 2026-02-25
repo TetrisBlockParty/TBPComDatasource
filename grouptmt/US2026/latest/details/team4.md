@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 09:46:45 UTC
+# Standings for team4 as of 2026-02-25 09:47:23 UTC
 
 **Total Participants:** 2192
 
@@ -70,8 +70,8 @@
 | 62 | 1315 | Denia Deni |
 | 63 | 1307 | LisaJo Picken Buchanan |
 | 64 | 1292 | Keith Kelley |
-| 65 | 1288 | Julian Garcia |
-| 66 | 1275 | Livvy |
+| 65 | 1289 | Livvy |
+| 66 | 1288 | Julian Garcia |
 | 67 | 1272 | Justin Hannigan |
 | 68 | 1267 | Chilly Line |
 | 69 | 1245 | Dustee Craddock-Harrison |
@@ -287,8 +287,8 @@
 | 279 | 479 | Selena Shaw |
 | 280 | 477 | Lauren Scott |
 | 281 | 473 | TinyLegoRose |
-| 282 | 472 | Michael Snow |
-| 283 | 471 | Jessica Fredericks |
+| 282 | 473 | Jessica Fredericks |
+| 283 | 472 | Michael Snow |
 | 284 | 468 | Montiette Mcglown |
 | 285 | 467 | Lush Linkfall |
 | 286 | 465 | 030Synner |
@@ -296,8 +296,8 @@
 | 288 | 461 | Lindsay Ball |
 | 289 | 459 | Rafael Valentin |
 | 290 | 458 | Alan Zukowski |
-| 291 | 453 | Rio Rocha |
-| 292 | 453 | Mike Solo |
+| 291 | 453 | Mike Solo |
+| 292 | 453 | Rio Rocha |
 | 293 | 450 | Lora |
 | 294 | 450 | Andrew Dang |
 | 295 | 449 | KimoKoala |
@@ -319,8 +319,8 @@
 | 311 | 437 | Backoff Recupe |
 | 312 | 436 | Jessica Petersen |
 | 313 | 436 | Nig |
-| 314 | 436 | Denise B |
-| 315 | 436 | Perky Piecegrid |
+| 314 | 436 | Perky Piecegrid |
+| 315 | 436 | Denise B |
 | 316 | 435 | Cool Gridzone |
 | 317 | 434 | Ramel Rhodes |
 | 318 | 434 | Maria Hammie |
@@ -339,8 +339,8 @@
 | 331 | 421 | JIGsaw ~(•¿°)~ |
 | 332 | 420 | KayM |
 | 333 | 419 | Nubian1 |
-| 334 | 417 | Jason Bosco |
-| 335 | 417 | Jason Frehner |
+| 334 | 417 | Jason Frehner |
+| 335 | 417 | Jason Bosco |
 | 336 | 416 | Allison Rose |
 | 337 | 416 | David Boggs |
 | 338 | 416 | Stacey Stano |
@@ -374,8 +374,8 @@
 | 366 | 391 | Amanda Maciel Clarke |
 | 367 | 391 | Jenna McGeorge |
 | 368 | 388 | Megan Cutshaw |
-| 369 | 387 | George Tzouganos |
-| 370 | 387 | Ak Jones |
+| 369 | 387 | Ak Jones |
+| 370 | 387 | George Tzouganos |
 | 371 | 385 | Stephme310 |
 | 372 | 385 | Bryan James Marino |
 | 373 | 384 | Gracie Ann Taylor |
@@ -426,8 +426,8 @@
 | 418 | 342 | Kim Klutz Olson |
 | 419 | 341 | Walter Beltran |
 | 420 | 341 | KoolMom9907 |
-| 421 | 340 | Carter Jones |
-| 422 | 340 | Shiny Pivoty |
+| 421 | 340 | Shiny Pivoty |
+| 422 | 340 | Carter Jones |
 | 423 | 339 | River Shady Sr. |
 | 424 | 338 | Jenny Wells-Oakley |
 | 425 | 337 | Neil Ingham |
@@ -450,8 +450,8 @@
 | 442 | 329 | Kourtney Barnes |
 | 443 | 328 | Kathy Allen |
 | 444 | 328 | Ronald Brown Jr. |
-| 445 | 328 | ChasingZen |
-| 446 | 328 | Badatvs |
+| 445 | 328 | Badatvs |
+| 446 | 328 | ChasingZen |
 | 447 | 327 | Silly SeaWeed |
 | 448 | 327 | April Spoelma |
 | 449 | 327 | Penny Dean |
@@ -465,8 +465,8 @@
 | 457 | 321 | RIFATSIKDER |
 | 458 | 321 | ĥuf |
 | 459 | 321 | PennyCandee |
-| 460 | 320 | Deb Rubeck |
-| 461 | 320 | Helen Chao |
+| 460 | 320 | Helen Chao |
+| 461 | 320 | Deb Rubeck |
 | 462 | 320 | O block |
 | 463 | 320 | Oleg Zakharskiy |
 | 464 | 318 | Dapper Frame |
@@ -509,8 +509,8 @@
 | 501 | 296 | Jesse Saville |
 | 502 | 296 | Ruben Wheeler |
 | 503 | 295 | moneybagz |
-| 504 | 295 | Stacy Jones |
-| 505 | 295 | Yanais Fernandez |
+| 504 | 295 | Yanais Fernandez |
+| 505 | 295 | Stacy Jones |
 | 506 | 294 | BootsMcGee |
 | 507 | 294 | Ryry |
 | 508 | 294 | Jeff Roberts |
@@ -521,9 +521,9 @@
 | 513 | 288 | Sticherella |
 | 514 | 287 | Kelly Adams Carnahan |
 | 515 | 287 | Ziggy |
-| 516 | 286 | Brandi Durig |
-| 517 | 286 | Daring Pivot |
-| 518 | 286 | Sam Middleton |
+| 516 | 286 | Daring Pivot |
+| 517 | 286 | Sam Middleton |
+| 518 | 286 | Brandi Durig |
 | 519 | 285 | Thomas Hettenhaus |
 | 520 | 285 | Lisa Bush |
 | 521 | 285 | Elizabeth Tinoco |
@@ -647,9 +647,9 @@
 | 639 | 238 | Kelly Williams |
 | 640 | 237 | Vamp |
 | 641 | 237 | Courtney Halleck |
-| 642 | 236 | JoJo |
-| 643 | 236 | Wacky Blockclear |
-| 644 | 236 | Carlos Hernandez |
+| 642 | 236 | Wacky Blockclear |
+| 643 | 236 | Carlos Hernandez |
+| 644 | 236 | JoJo |
 | 645 | 236 | Shane Vick |
 | 646 | 236 | Nicole Serio |
 | 647 | 235 | Richard |
@@ -737,10 +737,10 @@
 | 729 | 206 | Heather Layne Smith |
 | 730 | 206 | Cool Clusterfit |
 | 731 | 204 | Susan Purnell |
-| 732 | 204 | JD |
-| 733 | 204 | Gwendolyn Pitcairn |
-| 734 | 203 | MOCHA |
-| 735 | 203 | Timothy Allen |
+| 732 | 204 | Gwendolyn Pitcairn |
+| 733 | 204 | JD |
+| 734 | 203 | Timothy Allen |
+| 735 | 203 | MOCHA |
 | 736 | 203 | Cooldamalley |
 | 737 | 202 | Jazzy Slamdrop |
 | 738 | 202 | Blaze Butler |
@@ -878,14 +878,14 @@
 | 870 | 169 | Frothy Curve |
 | 871 | 169 | IDK |
 | 872 | 169 | Libby |
-| 873 | 169 | Dania Cochrane |
-| 874 | 168 | Heather Mamabear Pezze |
-| 875 | 168 | Nicole McMurray |
-| 876 | 168 | Blue |
-| 877 | 168 | Emily Babic |
-| 878 | 168 | Holly Tracey-Grimes |
-| 879 | 168 | Frisky Twistslam |
-| 880 | 167 | Austin |
+| 873 | 169 | Austin |
+| 874 | 169 | Dania Cochrane |
+| 875 | 168 | Heather Mamabear Pezze |
+| 876 | 168 | Nicole McMurray |
+| 877 | 168 | Blue |
+| 878 | 168 | Emily Babic |
+| 879 | 168 | Holly Tracey-Grimes |
+| 880 | 168 | Frisky Twistslam |
 | 881 | 167 | Skyler Patzer |
 | 882 | 167 | Brad Caldwell |
 | 883 | 167 | Sarah Tenenbaum |
