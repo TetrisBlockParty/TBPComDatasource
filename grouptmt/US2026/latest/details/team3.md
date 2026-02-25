@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-25 17:14:43 UTC
+# Standings for team3 as of 2026-02-25 17:15:22 UTC
 
 **Total Participants:** 3732
 
@@ -339,13 +339,13 @@
 | 331 | 630 | Christen Cannon Layhew |
 | 332 | 629 | rnr junky |
 | 333 | 629 | Gray Hicks |
-| 334 | 627 | Louise Stacy Sisson |
-| 335 | 627 | Scott Carleton |
-| 336 | 623 | Theresa Opell Gartner |
-| 337 | 621 | Marquita Sheard |
-| 338 | 618 | Sarah Moyer |
-| 339 | 618 | Kaitie Oliver |
-| 340 | 618 | Misha Sanders |
+| 334 | 628 | Misha Sanders |
+| 335 | 627 | Louise Stacy Sisson |
+| 336 | 627 | Scott Carleton |
+| 337 | 623 | Theresa Opell Gartner |
+| 338 | 621 | Marquita Sheard |
+| 339 | 618 | Sarah Moyer |
+| 340 | 618 | Kaitie Oliver |
 | 341 | 615 | Aerian Preston |
 | 342 | 613 | Shunta Jacobs |
 | 343 | 613 | Christian Werndl |
@@ -444,8 +444,8 @@
 | 436 | 496 | Ava Petito |
 | 437 | 494 | Saucy Buildout |
 | 438 | 494 | Swanky Frame |
-| 439 | 493 | Alexis Ford |
-| 440 | 493 | Melissa Ponder |
+| 439 | 493 | Melissa Ponder |
+| 440 | 493 | Alexis Ford |
 | 441 | 491 | Criss |
 | 442 | 491 | Travis W |
 | 443 | 488 | Trice Sodames |
@@ -493,20 +493,20 @@
 | 485 | 457 | Danette Marie |
 | 486 | 455 | PrincessSquare |
 | 487 | 455 | Willow |
-| 488 | 454 | Beezwax |
-| 489 | 453 | Alexi Pryor |
-| 490 | 453 | Scott Doss |
-| 491 | 451 | Jana Polk |
-| 492 | 451 | Rich LeBlanc |
-| 493 | 451 | Tiffany S. Cermak |
-| 494 | 451 | Hyper Twisterfit |
-| 495 | 451 | Moniecia Harrison |
-| 496 | 451 | Dakota Graham |
-| 497 | 450 | Sissy Lowery Davis |
-| 498 | 449 | Michelle Abrams |
-| 499 | 449 | Mel Murr |
-| 500 | 449 | Tracy Martin |
-| 501 | 449 | Kevin Russell |
+| 488 | 454 | Kevin Russell |
+| 489 | 454 | Beezwax |
+| 490 | 453 | Alexi Pryor |
+| 491 | 453 | Scott Doss |
+| 492 | 451 | Jana Polk |
+| 493 | 451 | Rich LeBlanc |
+| 494 | 451 | Tiffany S. Cermak |
+| 495 | 451 | Hyper Twisterfit |
+| 496 | 451 | Moniecia Harrison |
+| 497 | 451 | Dakota Graham |
+| 498 | 450 | Sissy Lowery Davis |
+| 499 | 449 | Michelle Abrams |
+| 500 | 449 | Mel Murr |
+| 501 | 449 | Tracy Martin |
 | 502 | 446 | Block Baddie |
 | 503 | 445 | neci |
 | 504 | 445 | Steven Fulater |
@@ -578,16 +578,16 @@
 | 570 | 405 | Jimmie Clemons |
 | 571 | 405 | Andrew Thorson |
 | 572 | 403 | Kristi Taylor |
-| 573 | 403 | Moneyvybz |
-| 574 | 403 | Dizzy Risepiece |
-| 575 | 403 | Norma JulieMay |
-| 576 | 401 | Nikkie Bucciano |
-| 577 | 401 | Sheila M Frazier |
-| 578 | 401 | Dapper Chiseler |
-| 579 | 401 | J.E. Taylor |
-| 580 | 401 | DeAnna Knopp |
-| 581 | 400 | Clever Edgepiece |
-| 582 | 400 | Jayme |
+| 573 | 403 | Jayme |
+| 574 | 403 | Moneyvybz |
+| 575 | 403 | Dizzy Risepiece |
+| 576 | 403 | Norma JulieMay |
+| 577 | 401 | Nikkie Bucciano |
+| 578 | 401 | Sheila M Frazier |
+| 579 | 401 | Dapper Chiseler |
+| 580 | 401 | J.E. Taylor |
+| 581 | 401 | DeAnna Knopp |
+| 582 | 400 | Clever Edgepiece |
 | 583 | 400 | Aponk |
 | 584 | 400 | Andrew Linge |
 | 585 | 399 | Zesty Rotater |
@@ -1534,38 +1534,38 @@
 | 1526 | 165 | Jazzy Rollblock |
 | 1527 | 164 | Zippy Matchline |
 | 1528 | 164 | Ramona Powell |
-| 1529 | 164 | Ashley Sandrock |
-| 1530 | 164 | Wacky Combofall |
-| 1531 | 164 | Mathhew Tompkins |
+| 1529 | 164 | Wacky Combofall |
+| 1530 | 164 | Mathhew Tompkins |
+| 1531 | 164 | Ashley Sandrock |
 | 1532 | 164 | Peachy Patternblock |
 | 1533 | 163 | GiGGles |
-| 1534 | 163 | Kenny Smith |
-| 1535 | 163 | KA IO |
-| 1536 | 163 | Lindsay Kilby |
-| 1537 | 162 | Slinky Stackbuilder |
-| 1538 | 162 | Kevin Kv Hogan |
+| 1534 | 163 | Kevin Kv Hogan |
+| 1535 | 163 | Lindsay Kilby |
+| 1536 | 163 | Kenny Smith |
+| 1537 | 163 | KA IO |
+| 1538 | 162 | Slinky Stackbuilder |
 | 1539 | 162 | Jes Lynn |
 | 1540 | 162 | gravelgrinder |
 | 1541 | 162 | Sherry DeLong |
 | 1542 | 162 | Jean Koontz |
 | 1543 | 162 | Loopy Clearpiece |
 | 1544 | 161 | Venna Cooper |
-| 1545 | 161 | Dreamy Riserfit |
-| 1546 | 161 | Allison Piccolomini |
-| 1547 | 160 | Sean Lochner |
-| 1548 | 160 | Cassie Lathem |
-| 1549 | 160 | Lolisea LovedbyMe Wade |
-| 1550 | 160 | laally |
+| 1545 | 161 | Allison Piccolomini |
+| 1546 | 161 | Dreamy Riserfit |
+| 1547 | 160 | laally |
+| 1548 | 160 | Lolisea LovedbyMe Wade |
+| 1549 | 160 | Cassie Lathem |
+| 1550 | 160 | Sean Lochner |
 | 1551 | 160 | Katie Esquivel |
 | 1552 | 159 | Bree Simonton |
 | 1553 | 159 | Hasty Wipebuilder |
 | 1554 | 159 | Alexsandran Valdivia |
 | 1555 | 159 | LaShawyn Wood |
-| 1556 | 159 | Savanah LaClair |
-| 1557 | 159 | Proshone Clark |
+| 1556 | 159 | Proshone Clark |
+| 1557 | 159 | Savanah LaClair |
 | 1558 | 159 | Dapper Stackbuilder |
-| 1559 | 158 | Clever Fitblock |
-| 1560 | 158 | Snazzy Curve |
+| 1559 | 158 | Snazzy Curve |
+| 1560 | 158 | Clever Fitblock |
 | 1561 | 158 | Djp Pearson |
 | 1562 | 158 | Cat Isabelle |
 | 1563 | 157 | Dreamy Tumbler |

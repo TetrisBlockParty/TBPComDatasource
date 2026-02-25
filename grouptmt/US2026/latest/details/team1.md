@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 17:14:43 UTC
+# Standings for team1 as of 2026-02-25 17:15:22 UTC
 
 **Total Participants:** 2500
 
@@ -137,8 +137,8 @@
 | 129 | 875 | phrmblk24 |
 | 130 | 874 | Carrie Smith |
 | 131 | 869 | Elaine Elaine |
-| 132 | 846 | Happy Basegrid |
-| 133 | 838 | Denice Dee |
+| 132 | 864 | Denice Dee |
+| 133 | 846 | Happy Basegrid |
 | 134 | 827 | Dandy Basegrid |
 | 135 | 824 | Melissa Lemmon |
 | 136 | 824 | Debbie Kane |
@@ -178,11 +178,11 @@
 | 170 | 686 | Ty Brown |
 | 171 | 684 | Chase Collinsworth |
 | 172 | 682 | .running. |
-| 173 | 678 | Ryan Lunnin |
-| 174 | 672 | Eric DeSimone |
-| 175 | 671 | Theo Pinnow |
-| 176 | 671 | Ly Phethmany |
-| 177 | 670 | Νεφ Όνυξ |
+| 173 | 679 | Νεφ Όνυξ |
+| 174 | 678 | Ryan Lunnin |
+| 175 | 672 | Eric DeSimone |
+| 176 | 671 | Theo Pinnow |
+| 177 | 671 | Ly Phethmany |
 | 178 | 668 | Tyler Werts |
 | 179 | 664 | Maria C. Hernandez |
 | 180 | 662 | Evie Khalil |
@@ -285,15 +285,15 @@
 | 277 | 482 | DoodleBug |
 | 278 | 482 | Monica Donato |
 | 279 | 481 | Betsy |
-| 280 | 480 | Shan Rock |
-| 281 | 479 | David Lutcher |
-| 282 | 478 | Billie Ann Eason |
-| 283 | 477 | LtMooch |
-| 284 | 475 | Paula Martin |
-| 285 | 472 | Cece Ibarra |
-| 286 | 471 | Chris Sigurdson |
-| 287 | 471 | Chantelle Ceno |
-| 288 | 470 | Rayline M Bradshaw |
+| 280 | 480 | Rayline M Bradshaw |
+| 281 | 480 | Shan Rock |
+| 282 | 479 | David Lutcher |
+| 283 | 478 | Billie Ann Eason |
+| 284 | 477 | LtMooch |
+| 285 | 475 | Paula Martin |
+| 286 | 472 | Cece Ibarra |
+| 287 | 471 | Chris Sigurdson |
+| 288 | 471 | Chantelle Ceno |
 | 289 | 469 | build master |
 | 290 | 468 | Dizzy Party |
 | 291 | 464 | Cassie Smith |
@@ -987,38 +987,38 @@
 | 979 | 163 | Trisha Matthews |
 | 980 | 163 | Snippy Piecefit |
 | 981 | 162 | Sari Jones |
-| 982 | 162 | Steve Robinson |
-| 983 | 162 | Loony Patternbuilder |
+| 982 | 162 | Loony Patternbuilder |
+| 983 | 162 | Steve Robinson |
 | 984 | 162 | Tara |
 | 985 | 161 | Sheay |
 | 986 | 161 | Christine Smith |
 | 987 | 160 | Lively Buildout |
-| 988 | 159 | Cozy Cascader |
+| 988 | 159 | Larry Fritzinger |
 | 989 | 159 | Josh Watters |
-| 990 | 159 | Christina Gutierrez |
+| 990 | 159 | Cozy Cascader |
 | 991 | 159 | Shannon Elizabeth |
-| 992 | 158 | Frilly Fitblock |
-| 993 | 158 | Cree |
-| 994 | 158 | SophieG |
-| 995 | 158 | Hungsolo9 |
-| 996 | 157 | Crystal Raffaele |
-| 997 | 157 | Beeboe17 |
-| 998 | 157 | Linda Williams |
-| 999 | 157 | Raven |
-| 1000 | 157 | Brynn Elizabeth |
-| 1001 | 156 | David Hernandez |
-| 1002 | 156 | Nicole Michele Barfield |
-| 1003 | 156 | Trisha Stiglet |
-| 1004 | 156 | Tammy Autry |
-| 1005 | 156 | Lashá Calloway |
-| 1006 | 155 | Peachy Cascader |
-| 1007 | 155 | Tierney Birdsell |
-| 1008 | 155 | Sonya Gail Goodman |
-| 1009 | 155 | Larry Fritzinger |
-| 1010 | 155 | QUEENIE K |
-| 1011 | 155 | Chilly Glidezone |
-| 1012 | 154 | Shanna Outen |
-| 1013 | 154 | John Kiser |
+| 992 | 159 | Christina Gutierrez |
+| 993 | 158 | Frilly Fitblock |
+| 994 | 158 | Cree |
+| 995 | 158 | SophieG |
+| 996 | 158 | Hungsolo9 |
+| 997 | 157 | Crystal Raffaele |
+| 998 | 157 | Beeboe17 |
+| 999 | 157 | Brynn Elizabeth |
+| 1000 | 157 | Raven |
+| 1001 | 157 | Linda Williams |
+| 1002 | 156 | David Hernandez |
+| 1003 | 156 | Lashá Calloway |
+| 1004 | 156 | Nicole Michele Barfield |
+| 1005 | 156 | Trisha Stiglet |
+| 1006 | 156 | Tammy Autry |
+| 1007 | 155 | QUEENIE K |
+| 1008 | 155 | Chilly Glidezone |
+| 1009 | 155 | Sonya Gail Goodman |
+| 1010 | 155 | Tierney Birdsell |
+| 1011 | 155 | Peachy Cascader |
+| 1012 | 154 | John Kiser |
+| 1013 | 154 | Shanna Outen |
 | 1014 | 154 | CaityNicole |
 | 1015 | 154 | Bob Sitts |
 | 1016 | 154 | Kelly Marie Hennig |
@@ -1072,36 +1072,36 @@
 | 1064 | 144 | Lynn Anderson |
 | 1065 | 143 | Adam Charles |
 | 1066 | 143 | Roselyn Gomez |
-| 1067 | 143 | Unicorn |
-| 1068 | 143 | Jacob Shaddock |
+| 1067 | 143 | Jacob Shaddock |
+| 1068 | 143 | Unicorn |
 | 1069 | 143 | Kristi Kinard |
 | 1070 | 142 | Riley Chance |
-| 1071 | 142 | Swanky Crasher |
+| 1071 | 142 | Nick |
 | 1072 | 142 | Daring Wiper |
 | 1073 | 142 | Spicy Tilefall |
-| 1074 | 142 | Brian |
-| 1075 | 142 | Shele Renee Stahl |
-| 1076 | 142 | Nick |
-| 1077 | 141 | Vahid Khaleghi |
+| 1074 | 142 | Shele Renee Stahl |
+| 1075 | 142 | Brian |
+| 1076 | 142 | Jennifer Chilton-Metlock |
+| 1077 | 142 | Swanky Crasher |
 | 1078 | 141 | Chilly Matchbuilder |
-| 1079 | 141 | Chris Baker |
-| 1080 | 141 | Twisty Wipeout |
-| 1081 | 140 | Tipsy Gridmatch |
-| 1082 | 139 | Connie Balentine |
-| 1083 | 139 | Giggy Stacky |
-| 1084 | 139 | Frisky Framezone |
-| 1085 | 139 | Chummy Spinzone |
-| 1086 | 139 | Tom Jaramillo |
-| 1087 | 139 | Nutty Clusterline |
-| 1088 | 138 | Bank |
+| 1079 | 141 | Vahid Khaleghi |
+| 1080 | 141 | Chris Baker |
+| 1081 | 141 | Twisty Wipeout |
+| 1082 | 140 | Tipsy Gridmatch |
+| 1083 | 139 | Chummy Spinzone |
+| 1084 | 139 | Tom Jaramillo |
+| 1085 | 139 | Giggy Stacky |
+| 1086 | 139 | Connie Balentine |
+| 1087 | 139 | Frisky Framezone |
+| 1088 | 139 | Nutty Clusterline |
 | 1089 | 138 | Michael Butler |
-| 1090 | 138 | Jazzy Clearbuilder |
-| 1091 | 138 | Mauricio Reyes |
-| 1092 | 138 | Jennifer Chilton-Metlock |
+| 1090 | 138 | Bank |
+| 1091 | 138 | Jazzy Clearbuilder |
+| 1092 | 138 | Mauricio Reyes |
 | 1093 | 138 | Mar |
 | 1094 | 137 | Matthew Vd |
-| 1095 | 137 | Kalesha Tteirrah |
-| 1096 | 137 | David Bourne |
+| 1095 | 137 | David Bourne |
+| 1096 | 137 | Kalesha Tteirrah |
 | 1097 | 137 | Swanky Blockzone |
 | 1098 | 137 | Boog |
 | 1099 | 137 | Ebony Hill |
@@ -1242,14 +1242,14 @@
 | 1234 | 112 | Misha Harris |
 | 1235 | 112 | Tea Julien |
 | 1236 | 112 | Soo Fly |
-| 1237 | 111 | Carol Rogers |
-| 1238 | 111 | Moo |
-| 1239 | 111 | Funky Zonebuilder |
-| 1240 | 111 | Felicia Jones |
-| 1241 | 111 | Chewy |
-| 1242 | 110 | Tasha McCormack |
-| 1243 | 110 | Hoppy Snaplink |
-| 1244 | 110 | Chirpy Matchline |
+| 1237 | 112 | Chirpy Matchline |
+| 1238 | 111 | Carol Rogers |
+| 1239 | 111 | Moo |
+| 1240 | 111 | Funky Zonebuilder |
+| 1241 | 111 | Felicia Jones |
+| 1242 | 111 | Chewy |
+| 1243 | 110 | Tasha McCormack |
+| 1244 | 110 | Hoppy Snaplink |
 | 1245 | 110 | Spicy Glide |
 | 1246 | 110 | SMSMris |
 | 1247 | 110 | Stoney Smith |
