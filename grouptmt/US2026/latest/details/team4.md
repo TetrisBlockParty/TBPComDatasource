@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 07:37:23 UTC
+# Standings for team4 as of 2026-02-25 07:38:18 UTC
 
 **Total Participants:** 2179
 
@@ -9,7 +9,7 @@
 | 1 | 9050 | Devinlee Brown |
 | 2 | 8765 | sierrabeth |
 | 3 | 8598 | Bubbly Puzzler |
-| 4 | 6779 | Kat |
+| 4 | 6819 | Kat |
 | 5 | 5576 | Breannah Grafe |
 | 6 | 5542 | East Mamba |
 | 7 | 5031 | Alyssa Cox |
@@ -168,10 +168,10 @@
 | 160 | 702 | Nita Wells |
 | 161 | 699 | Rodney McMath Jr. |
 | 162 | 696 | Desi Desporte |
-| 163 | 686 | Ernest Maxwell |
-| 164 | 678 | Adam Stephanie Parker |
-| 165 | 678 | April Rondinone |
-| 166 | 677 | Nikki Rae Gordon |
+| 163 | 692 | Nikki Rae Gordon |
+| 164 | 686 | Ernest Maxwell |
+| 165 | 678 | Adam Stephanie Parker |
+| 166 | 678 | April Rondinone |
 | 167 | 676 | Cindy Looper |
 | 168 | 671 | Chastity Mitchell |
 | 169 | 671 | Lori |
@@ -237,8 +237,8 @@
 | 229 | 539 | scott |
 | 230 | 538 | Trish |
 | 231 | 537 | ThaEviLJeNiuZ |
-| 232 | 537 | Scott Jameson |
-| 233 | 537 | Joanna |
+| 232 | 537 | Joanna |
+| 233 | 537 | Scott Jameson |
 | 234 | 537 | DonMega |
 | 235 | 536 | Ericca Eldridge |
 | 236 | 532 | Sharyn Lemire |
@@ -247,25 +247,25 @@
 | 239 | 527 | Jolly Dashfit |
 | 240 | 522 | Luis Martinez |
 | 241 | 522 | Marcus Todd |
-| 242 | 520 | Antony Dwayne Beasley |
-| 243 | 518 | Leah Kutz Zirbel |
-| 244 | 518 | shark tato |
-| 245 | 517 | Casey Grabner |
-| 246 | 516 | Nick Gray |
-| 247 | 515 | Bradley Reeves |
-| 248 | 514 | Cheery Risebuilder |
+| 242 | 520 | Jessi Cinotto |
+| 243 | 520 | Antony Dwayne Beasley |
+| 244 | 518 | Leah Kutz Zirbel |
+| 245 | 518 | shark tato |
+| 246 | 517 | Casey Grabner |
+| 247 | 516 | Nick Gray |
+| 248 | 515 | Bradley Reeves |
 | 249 | 514 | Keshia Lyons |
-| 250 | 513 | Milan Markeisha |
-| 251 | 513 | Ari Droff |
-| 252 | 513 | Brittany Little |
-| 253 | 513 | Silly Zonebuilder |
-| 254 | 512 | Casey Jeffcoat |
-| 255 | 512 | Michele Plunkett |
-| 256 | 510 | Jim Hart |
-| 257 | 508 | June Hoffman |
-| 258 | 505 | Jason Gibbs |
-| 259 | 504 | Deanna Deckard |
-| 260 | 504 | Jessi Cinotto |
+| 250 | 514 | Cheery Risebuilder |
+| 251 | 513 | Milan Markeisha |
+| 252 | 513 | Ari Droff |
+| 253 | 513 | Brittany Little |
+| 254 | 513 | Silly Zonebuilder |
+| 255 | 512 | Casey Jeffcoat |
+| 256 | 512 | Michele Plunkett |
+| 257 | 510 | Jim Hart |
+| 258 | 508 | June Hoffman |
+| 259 | 505 | Jason Gibbs |
+| 260 | 504 | Deanna Deckard |
 | 261 | 503 | Chao Ma |
 | 262 | 501 | Brickh4us |
 | 263 | 500 | Zethra Prenisha Rahming |
@@ -1565,8 +1565,8 @@
 | 1557 | 52 | Francis Fleurant |
 | 1558 | 52 | emd |
 | 1559 | 52 | Alexis Kelly |
-| 1560 | 51 | Jamie Smalling |
-| 1561 | 51 | Chirpy Balancer |
+| 1560 | 52 | Chirpy Balancer |
+| 1561 | 51 | Jamie Smalling |
 | 1562 | 51 | Jean Camacho |
 | 1563 | 51 | Isa |
 | 1564 | 51 | Laura Davis |
