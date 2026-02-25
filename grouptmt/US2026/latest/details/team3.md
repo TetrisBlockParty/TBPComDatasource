@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-25 10:06:44 UTC
+# Standings for team3 as of 2026-02-25 10:07:23 UTC
 
 **Total Participants:** 3676
 
@@ -45,19 +45,19 @@
 | 37 | 2795 | Ray Lader |
 | 38 | 2761 | Brandon Green |
 | 39 | 2721 | Khristen AC |
-| 40 | 2705 | Gracie |
-| 41 | 2705 | Leah Barnett |
-| 42 | 2697 | River |
-| 43 | 2673 | Jennifer Petrie |
-| 44 | 2642 | Fran Lin |
-| 45 | 2600 | Peggi Charon |
-| 46 | 2575 | Bjorn Neyt |
-| 47 | 2543 | ren |
+| 40 | 2707 | ren |
+| 41 | 2705 | Gracie |
+| 42 | 2705 | Leah Barnett |
+| 43 | 2697 | River |
+| 44 | 2673 | Jennifer Petrie |
+| 45 | 2642 | Fran Lin |
+| 46 | 2600 | Peggi Charon |
+| 47 | 2575 | Bjorn Neyt |
 | 48 | 2490 | Jamie Furr |
 | 49 | 2449 | Mary Pellegrino |
 | 50 | 2413 | Susan Valentino |
-| 51 | 2388 | Jennie Beranek |
-| 52 | 2388 | Delilah belle |
+| 51 | 2388 | Delilah belle |
+| 52 | 2388 | Jennie Beranek |
 | 53 | 2362 | Raven Dudley |
 | 54 | 2337 | Beelow Bently |
 | 55 | 2329 | Kay |
@@ -363,9 +363,9 @@
 | 355 | 563 | Megan Rathmanner |
 | 356 | 562 | Chummy Rumbler |
 | 357 | 562 | Daring Builder |
-| 358 | 561 | NeeCee |
-| 359 | 560 | Stephanie Simpson |
-| 360 | 560 | Angel Miller |
+| 358 | 561 | Angel Miller |
+| 359 | 561 | NeeCee |
+| 360 | 560 | Stephanie Simpson |
 | 361 | 558 | Misha Sanders |
 | 362 | 555 | Quackers |
 | 363 | 555 | Dee Franklin |
@@ -651,8 +651,8 @@
 | 643 | 354 | Felicia Doxey |
 | 644 | 353 | LaNette Morgan |
 | 645 | 353 | Krystal Gerstberger |
-| 646 | 353 | Funky Matchzone |
-| 647 | 353 | Lisa Foster |
+| 646 | 353 | Lisa Foster |
+| 647 | 353 | Funky Matchzone |
 | 648 | 352 | LadyTorad |
 | 649 | 352 | Grams |
 | 650 | 352 | Natalie Augustus |
@@ -675,8 +675,8 @@
 | 667 | 346 | Tracey Cox |
 | 668 | 346 | Brysten Green |
 | 669 | 346 | JoshAllenfan17 |
-| 670 | 345 | Jolly Brick |
-| 671 | 345 | Quirky Snapfit |
+| 670 | 345 | Quirky Snapfit |
+| 671 | 345 | Jolly Brick |
 | 672 | 345 | Danette Marie |
 | 673 | 345 | Peachy Tower |
 | 674 | 345 | Martin Bernier |
@@ -700,8 +700,8 @@
 | 692 | 339 | Jessica Collins |
 | 693 | 339 | Wettnippz |
 | 694 | 338 | Nikita Ainsworth |
-| 695 | 338 | Kristina Gardner |
-| 696 | 338 | Morgan Cudo |
+| 695 | 338 | Morgan Cudo |
+| 696 | 338 | Kristina Gardner |
 | 697 | 337 | Tomoe |
 | 698 | 337 | Amy Perry |
 | 699 | 337 | Ashley Parham |
@@ -709,16 +709,16 @@
 | 701 | 335 | BigE |
 | 702 | 334 | Ryan Williams |
 | 703 | 333 | Joshua David Huie |
-| 704 | 333 | Michael Kimbro |
-| 705 | 332 | Beck Nicole |
-| 706 | 332 | PartyPantsDa |
-| 707 | 332 | Roger Taylor |
-| 708 | 332 | Chyrl Gerke |
-| 709 | 332 | Courtney Price |
-| 710 | 331 | Flashy Rumbler |
-| 711 | 331 | Elizabeth Renee |
-| 712 | 331 | Myoshia Norwood |
-| 713 | 330 | Dawn Nicole |
+| 704 | 333 | Dawn Nicole |
+| 705 | 333 | Michael Kimbro |
+| 706 | 332 | Beck Nicole |
+| 707 | 332 | PartyPantsDa |
+| 708 | 332 | Roger Taylor |
+| 709 | 332 | Chyrl Gerke |
+| 710 | 332 | Courtney Price |
+| 711 | 331 | Flashy Rumbler |
+| 712 | 331 | Elizabeth Renee |
+| 713 | 331 | Myoshia Norwood |
 | 714 | 329 | TI Na |
 | 715 | 328 | Desiree Soto |
 | 716 | 328 | Jack Bo |
@@ -1780,14 +1780,14 @@
 | 1772 | 123 | Crystal Brouner-Langlois |
 | 1773 | 123 | Heidi Strickland |
 | 1774 | 123 | Brave Stagger |
-| 1775 | 123 | Cheeky Fitline |
-| 1776 | 123 | Gingersnap |
-| 1777 | 122 | Rose Valdez |
-| 1778 | 122 | Jazzy Tilt |
-| 1779 | 122 | Jill Wilson Hernandez |
-| 1780 | 122 | Anna |
-| 1781 | 122 | Amanda Miller |
-| 1782 | 122 | Glitter |
+| 1775 | 123 | Glitter |
+| 1776 | 123 | Cheeky Fitline |
+| 1777 | 123 | Gingersnap |
+| 1778 | 122 | Rose Valdez |
+| 1779 | 122 | Jazzy Tilt |
+| 1780 | 122 | Jill Wilson Hernandez |
+| 1781 | 122 | Anna |
+| 1782 | 122 | Amanda Miller |
 | 1783 | 122 | Spunky Tiley |
 | 1784 | 122 | LaMorsa |
 | 1785 | 122 | Sara Holmes |
@@ -2557,8 +2557,8 @@
 | 2549 | 55 | Robin Louise Sutton |
 | 2550 | 55 | Michelle Crocker Sax |
 | 2551 | 55 | Zappy Glide |
-| 2552 | 54 | Emily Alexander |
-| 2553 | 54 | PotatoSkin |
+| 2552 | 55 | PotatoSkin |
+| 2553 | 54 | Emily Alexander |
 | 2554 | 54 | Valerie Mortinson |
 | 2555 | 54 | smasher |
 | 2556 | 54 | Heather Hathaway Ng |

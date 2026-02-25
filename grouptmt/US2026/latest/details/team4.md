@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 10:06:44 UTC
+# Standings for team4 as of 2026-02-25 10:07:23 UTC
 
 **Total Participants:** 2195
 
@@ -106,8 +106,8 @@
 | 98 | 980 | Jason Hart |
 | 99 | 957 | Nope Young |
 | 100 | 954 | Judy Cox |
-| 101 | 948 | quicksand420 |
-| 102 | 942 | Amy Suckarieh |
+| 101 | 952 | Amy Suckarieh |
+| 102 | 948 | quicksand420 |
 | 103 | 928 | Chris Alexinas |
 | 104 | 925 | Samantha Peterson |
 | 105 | 922 | Trista Leah |
@@ -605,16 +605,16 @@
 | 597 | 251 | Marco |
 | 598 | 251 | Carol Ricks Raymond |
 | 599 | 251 | Gilles Lanctot |
-| 600 | 250 | Girldadtpa |
-| 601 | 250 | Loony Rotater |
-| 602 | 250 | Ann G. Carrillo |
-| 603 | 249 | Daniel Gazcon |
-| 604 | 248 | Vanessa Smart |
-| 605 | 248 | Chirpy Basepiece |
-| 606 | 248 | Victoria Faniel |
-| 607 | 246 | Dapper Balancer |
-| 608 | 246 | Colton Stamper |
-| 609 | 246 | Hyper Shatterbuilder |
+| 600 | 250 | Hyper Shatterbuilder |
+| 601 | 250 | Girldadtpa |
+| 602 | 250 | Loony Rotater |
+| 603 | 250 | Ann G. Carrillo |
+| 604 | 249 | Daniel Gazcon |
+| 605 | 248 | Vanessa Smart |
+| 606 | 248 | Chirpy Basepiece |
+| 607 | 248 | Victoria Faniel |
+| 608 | 246 | Dapper Balancer |
+| 609 | 246 | Colton Stamper |
 | 610 | 246 | Ali Ian |
 | 611 | 246 | Brandon Link |
 | 612 | 246 | Mike Kremen |
