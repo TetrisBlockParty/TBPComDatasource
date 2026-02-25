@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 06:57:22 UTC
+# Standings for team4 as of 2026-02-25 06:58:22 UTC
 
 **Total Participants:** 2175
 
@@ -98,9 +98,9 @@
 | 90 | 1047 | Edward White |
 | 91 | 1037 | loulou |
 | 92 | 1035 | Patron Anderson |
-| 93 | 1030 | Jonathan Kimbrough |
-| 94 | 1029 | Courtney Cicoria |
-| 95 | 1024 | Valerie Roberts |
+| 93 | 1031 | Valerie Roberts |
+| 94 | 1030 | Jonathan Kimbrough |
+| 95 | 1029 | Courtney Cicoria |
 | 96 | 981 | Monica Daley |
 | 97 | 957 | Nope Young |
 | 98 | 954 | Judy Cox |
@@ -218,8 +218,8 @@
 | 210 | 579 | Oscar Alberto Perez |
 | 211 | 573 | Kristina Black |
 | 212 | 571 | Andy Cabral |
-| 213 | 570 | Twisty Clicky |
-| 214 | 570 | meowmew |
+| 213 | 571 | meowmew |
+| 214 | 570 | Twisty Clicky |
 | 215 | 569 | Zesty Twistbuilder |
 | 216 | 568 | Zippy Block |
 | 217 | 563 | Ellen Durfee |
@@ -1184,12 +1184,12 @@
 | 1176 | 99 | Wacky Shatterline |
 | 1177 | 99 | Dorothy Horton |
 | 1178 | 99 | SUPREME |
-| 1179 | 99 | Garrett G-luv Kyser |
-| 1180 | 98 | Rob Chebetar |
-| 1181 | 98 | Maurice Daniels |
-| 1182 | 98 | James May |
-| 1183 | 97 | Jessalyn Jordan Davis |
-| 1184 | 97 | Grimus |
+| 1179 | 99 | Grimus |
+| 1180 | 99 | Garrett G-luv Kyser |
+| 1181 | 98 | Rob Chebetar |
+| 1182 | 98 | Maurice Daniels |
+| 1183 | 98 | James May |
+| 1184 | 97 | Jessalyn Jordan Davis |
 | 1185 | 97 | Chilly Matchpiece |
 | 1186 | 97 | Bubbly Crawler |
 | 1187 | 97 | Giggy Bridgepiece |
