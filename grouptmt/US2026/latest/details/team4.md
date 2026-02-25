@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 18:34:46 UTC
+# Standings for team4 as of 2026-02-25 18:35:23 UTC
 
 **Total Participants:** 2244
 
@@ -127,7 +127,7 @@
 | 119 | 864 | Brandon Crabbs |
 | 120 | 855 | Brittney Griggs |
 | 121 | 852 | Carmethia Clemons Haslerig |
-| 122 | 851 | Lindsey Gonzalez |
+| 122 | 852 | Lindsey Gonzalez |
 | 123 | 850 | Mylo Lipscomb |
 | 124 | 849 | Nerdy Twisterfit |
 | 125 | 846 | Christine Marie |
@@ -331,14 +331,14 @@
 | 323 | 444 | ChasingZen |
 | 324 | 444 | Candice Carasiti |
 | 325 | 441 | Denise B |
-| 326 | 441 | Nig |
-| 327 | 440 | KayM |
-| 328 | 440 | Russ Attitude |
-| 329 | 440 | Cool Gridzone |
-| 330 | 439 | Frances Hui |
-| 331 | 439 | Snippy Puzzle |
-| 332 | 439 | Tyler Terrific |
-| 333 | 438 | Perky Piecegrid |
+| 326 | 441 | Perky Piecegrid |
+| 327 | 441 | Nig |
+| 328 | 440 | KayM |
+| 329 | 440 | Russ Attitude |
+| 330 | 440 | Cool Gridzone |
+| 331 | 439 | Frances Hui |
+| 332 | 439 | Snippy Puzzle |
+| 333 | 439 | Tyler Terrific |
 | 334 | 438 | Amy Sanford |
 | 335 | 438 | Zołza 😈 |
 | 336 | 437 | Kate |
@@ -448,14 +448,14 @@
 | 440 | 349 | Zany Shatterer |
 | 441 | 349 | Kim Klutz Olson |
 | 442 | 348 | Jasmine S Caldwell |
-| 443 | 348 | Christine Therrien |
-| 444 | 346 | Tabitha Calvin |
-| 445 | 346 | Peachy Brickster |
-| 446 | 346 | Sallie Sanborn |
+| 443 | 348 | Loony Rotater |
+| 444 | 348 | Christine Therrien |
+| 445 | 346 | Tabitha Calvin |
+| 446 | 346 | Peachy Brickster |
 | 447 | 346 | Ronald Brown Jr. |
-| 448 | 344 | Chilly Matcher |
-| 449 | 344 | Chance Strickland |
-| 450 | 343 | Loony Rotater |
+| 448 | 346 | Sallie Sanborn |
+| 449 | 344 | Chilly Matcher |
+| 450 | 344 | Chance Strickland |
 | 451 | 342 | Richard |
 | 452 | 341 | Walter Beltran |
 | 453 | 341 | KoolMom9907 |
@@ -1832,98 +1832,98 @@
 | 1824 | 32 | Michelle White |
 | 1825 | 32 | Aaron Brown |
 | 1826 | 32 | Tisha McManus |
-| 1827 | 32 | Scott Burkett |
+| 1827 | 32 | Karlina Brown |
 | 1828 | 32 | CheBrandNew |
-| 1829 | 32 | Karlina Brown |
-| 1830 | 31 | Raido |
-| 1831 | 31 | Plucky Patternbuilder |
+| 1829 | 32 | Scott Burkett |
+| 1830 | 31 | Plucky Patternbuilder |
+| 1831 | 31 | Bunny A Finley |
 | 1832 | 31 | Hoppy Brickzone |
 | 1833 | 31 | Nooooope |
-| 1834 | 31 | Bunny A Finley |
-| 1835 | 31 | Sab |
-| 1836 | 31 | Dandy Liner |
-| 1837 | 30 | Clara Avilez |
-| 1838 | 30 | Khrystyna Lukaniuk |
-| 1839 | 30 | Lynn Anne |
-| 1840 | 30 | Jameel HumanTornado Brown |
-| 1841 | 30 | Chtid |
-| 1842 | 30 | Robbie Davison |
-| 1843 | 30 | Kris Wolfe |
-| 1844 | 30 | Derald Miller |
-| 1845 | 30 | Mason Junior |
-| 1846 | 30 | Dapper Racker |
+| 1834 | 31 | Raido |
+| 1835 | 31 | Dandy Liner |
+| 1836 | 31 | Sab |
+| 1837 | 30 | Mason Junior |
+| 1838 | 30 | Robbie Davison |
+| 1839 | 30 | Jameel HumanTornado Brown |
+| 1840 | 30 | Dapper Racker |
+| 1841 | 30 | Derald Miller |
+| 1842 | 30 | Clara Avilez |
+| 1843 | 30 | Khrystyna Lukaniuk |
+| 1844 | 30 | Lynn Anne |
+| 1845 | 30 | Chtid |
+| 1846 | 30 | Kris Wolfe |
 | 1847 | 30 | Bricky McBrickface |
-| 1848 | 30 | Apryl Lia |
-| 1849 | 30 | Alberto Rosel |
+| 1848 | 30 | Becky |
+| 1849 | 30 | Apryl Lia |
 | 1850 | 30 | Thomasena Eady Reid |
-| 1851 | 30 | Becky |
-| 1852 | 29 | Interesting |
-| 1853 | 29 | EMSquire |
-| 1854 | 29 | Kathy Garcia |
-| 1855 | 29 | Jessica Lynn |
+| 1851 | 30 | Alberto Rosel |
+| 1852 | 29 | Kathy Garcia |
+| 1853 | 29 | Joshua Smith |
+| 1854 | 29 | Jessica Lynn |
+| 1855 | 29 | EMSquire |
 | 1856 | 29 | Amanda Gann |
-| 1857 | 29 | Melissa Gail Sanders |
-| 1858 | 29 | Joshua Smith |
-| 1859 | 29 | Chill Riserpiece |
-| 1860 | 28 | Shiny Brickline |
-| 1861 | 28 | Lazy Stacker |
-| 1862 | 28 | Heath Klingler |
-| 1863 | 28 | Dovakin |
-| 1864 | 28 | Slinky Matcher |
-| 1865 | 28 | Sunny babes |
-| 1866 | 28 | Charles D Rexrode Jr |
-| 1867 | 28 | Anthony D Holmes |
-| 1868 | 28 | Jessi Gooch |
-| 1869 | 27 | Julie Foulks Porter |
-| 1870 | 27 | Rashelle L Saeger |
+| 1857 | 29 | Chill Riserpiece |
+| 1858 | 29 | Melissa Gail Sanders |
+| 1859 | 29 | Interesting |
+| 1860 | 28 | Anthony D Holmes |
+| 1861 | 28 | Lashay Lipscomb |
+| 1862 | 28 | Charles D Rexrode Jr |
+| 1863 | 28 | Slinky Matcher |
+| 1864 | 28 | Dovakin |
+| 1865 | 28 | Jessi Gooch |
+| 1866 | 28 | Lazy Stacker |
+| 1867 | 28 | Sunny babes |
+| 1868 | 28 | Shiny Brickline |
+| 1869 | 28 | Heath Klingler |
+| 1870 | 27 | Bold Builderpiece |
 | 1871 | 27 | Karolina Koolin |
 | 1872 | 27 | Breezy Linkfall |
-| 1873 | 27 | Jennifer Pfeiffer Johnson |
-| 1874 | 27 | Nutty Grabber |
-| 1875 | 27 | Bold Builderpiece |
-| 1876 | 27 | Bouncy Hitter |
-| 1877 | 27 | Antronita Kemp |
-| 1878 | 27 | Perach Alima Shoa |
-| 1879 | 27 | Edward Krohn |
-| 1880 | 27 | Michelle Sweeney |
-| 1881 | 27 | Terri Tatem |
-| 1882 | 27 | drc81 |
-| 1883 | 26 | Vader67 |
-| 1884 | 26 | Kassie Wakefield |
-| 1885 | 26 | Cool Cascadefit |
-| 1886 | 26 | Naomi Olson Hartman |
-| 1887 | 26 | Yoyoyo |
-| 1888 | 26 | OreoBlu |
-| 1889 | 26 | Felicia Daniels |
-| 1890 | 26 | Julio León |
-| 1891 | 26 | Courtney Lynn Hagaman |
-| 1892 | 26 | Korn Starch |
-| 1893 | 26 | Carolyn Figueroa |
-| 1894 | 26 | TaZz |
-| 1895 | 26 | Alex Alex |
-| 1896 | 25 | AimlessPeach |
-| 1897 | 25 | Sarah Lee |
-| 1898 | 25 | BlueCupCakes |
+| 1873 | 27 | Nutty Grabber |
+| 1874 | 27 | Julie Foulks Porter |
+| 1875 | 27 | Jennifer Pfeiffer Johnson |
+| 1876 | 27 | Rashelle L Saeger |
+| 1877 | 27 | Perach Alima Shoa |
+| 1878 | 27 | Edward Krohn |
+| 1879 | 27 | Michelle Sweeney |
+| 1880 | 27 | drc81 |
+| 1881 | 27 | Antronita Kemp |
+| 1882 | 27 | Terri Tatem |
+| 1883 | 27 | Bouncy Hitter |
+| 1884 | 26 | Felicia Daniels |
+| 1885 | 26 | Kassie Wakefield |
+| 1886 | 26 | Cool Cascadefit |
+| 1887 | 26 | Courtney Lynn Hagaman |
+| 1888 | 26 | Julio León |
+| 1889 | 26 | Alex Alex |
+| 1890 | 26 | Yoyoyo |
+| 1891 | 26 | Korn Starch |
+| 1892 | 26 | OreoBlu |
+| 1893 | 26 | Vader67 |
+| 1894 | 26 | Naomi Olson Hartman |
+| 1895 | 26 | Carolyn Figueroa |
+| 1896 | 26 | TaZz |
+| 1897 | 25 | BlueCupCakes |
+| 1898 | 25 | Sarah Lee |
 | 1899 | 25 | ElleneRobert KylePaisley Coward |
-| 1900 | 25 | Alainmino |
-| 1901 | 25 | Hyper Snapper |
-| 1902 | 25 | Michelle LaRose |
-| 1903 | 25 | Scoots Mcgee |
-| 1904 | 25 | Melissa Vecchio-Clautti |
-| 1905 | 25 | Gracey Lou |
-| 1906 | 25 | Agápē Seb |
-| 1907 | 25 | Pierre Kelly |
-| 1908 | 25 | Neke Lyles |
-| 1909 | 25 | Yaitza Cotto |
-| 1910 | 25 | Nutty Tile |
-| 1911 | 24 | Bold Zigzag |
-| 1912 | 24 | realCalius |
-| 1913 | 24 | Tzez |
-| 1914 | 24 | Jason Hutchens |
-| 1915 | 24 | Poppy |
+| 1900 | 25 | Agápē Seb |
+| 1901 | 25 | Michelle LaRose |
+| 1902 | 25 | Scoots Mcgee |
+| 1903 | 25 | Melissa Vecchio-Clautti |
+| 1904 | 25 | Gracey Lou |
+| 1905 | 25 | Pierre Kelly |
+| 1906 | 25 | Neke Lyles |
+| 1907 | 25 | Yaitza Cotto |
+| 1908 | 25 | Alainmino |
+| 1909 | 25 | Nutty Tile |
+| 1910 | 25 | Hyper Snapper |
+| 1911 | 25 | AimlessPeach |
+| 1912 | 24 | Bold Zigzag |
+| 1913 | 24 | Jason Hutchens |
+| 1914 | 24 | Poppy |
+| 1915 | 24 | Tee Widmer |
 | 1916 | 24 | Cindy Hernandez |
-| 1917 | 24 | Lashay Lipscomb |
-| 1918 | 24 | Tee Widmer |
+| 1917 | 24 | Tzez |
+| 1918 | 24 | realCalius |
 | 1919 | 24 | Mandee |
 | 1920 | 24 | Loony Clusterer |
 | 1921 | 24 | Judith Isaac |
