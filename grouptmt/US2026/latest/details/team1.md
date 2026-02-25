@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 21:46:45 UTC
+# Standings for team1 as of 2026-02-25 21:47:23 UTC
 
 **Total Participants:** 2535
 
@@ -144,10 +144,10 @@
 | 136 | 853 | GATOR |
 | 137 | 846 | Happy Basegrid |
 | 138 | 844 | Dandy Basegrid |
-| 139 | 824 | Melissa Lemmon |
-| 140 | 824 | Debbie Kane |
-| 141 | 822 | Susanna Guerry |
-| 142 | 822 | Christy Jones |
+| 139 | 828 | Christy Jones |
+| 140 | 824 | Melissa Lemmon |
+| 141 | 824 | Debbie Kane |
+| 142 | 822 | Susanna Guerry |
 | 143 | 814 | Tanya Carpenter-Reynolds |
 | 144 | 803 | Tonya Beasley |
 | 145 | 802 | Sean Stallings |
@@ -158,12 +158,12 @@
 | 150 | 789 | Death |
 | 151 | 788 | cc |
 | 152 | 783 | Jennifer Noe Chandler |
-| 153 | 778 | Erin Rosberg |
-| 154 | 774 | Basment Living |
-| 155 | 773 | Stephanie Leday |
-| 156 | 770 | lil mickey |
-| 157 | 770 | Tipsy Riseclear |
-| 158 | 770 | Zappy Curvetile |
+| 153 | 779 | Stephanie Leday |
+| 154 | 778 | Erin Rosberg |
+| 155 | 774 | Basment Living |
+| 156 | 770 | Tipsy Riseclear |
+| 157 | 770 | Zappy Curvetile |
+| 158 | 770 | lil mickey |
 | 159 | 757 | Krista Young |
 | 160 | 744 | Michael Espinosa Ulibarri Jr. |
 | 161 | 742 | Bouncy Grid |
@@ -176,8 +176,8 @@
 | 168 | 712 | April Carroll |
 | 169 | 710 | Jerry Danowski |
 | 170 | 709 | Howdi Duty |
-| 171 | 708 | ParisandCory Champagne |
-| 172 | 708 | Νεφ Όνυξ |
+| 171 | 708 | Νεφ Όνυξ |
+| 172 | 708 | ParisandCory Champagne |
 | 173 | 706 | Eric DeSimone |
 | 174 | 704 | Serina Marie |
 | 175 | 702 | Theo Pinnow |
@@ -362,13 +362,13 @@
 | 354 | 417 | Kipoi |
 | 355 | 417 | Brave Linkmatch |
 | 356 | 415 | Strig |
-| 357 | 415 | Anielle Reagan |
-| 358 | 415 | Brian Richardsson |
-| 359 | 413 | LaFontaine Leslie |
-| 360 | 413 | Nate Price |
-| 361 | 412 | Alphonza Keyes Jr. |
-| 362 | 411 | Gracie |
-| 363 | 409 | Amber Dee |
+| 357 | 415 | Brian Richardsson |
+| 358 | 415 | Anielle Reagan |
+| 359 | 414 | Amber Dee |
+| 360 | 413 | LaFontaine Leslie |
+| 361 | 413 | Nate Price |
+| 362 | 412 | Alphonza Keyes Jr. |
+| 363 | 411 | Gracie |
 | 364 | 409 | Danielle Little-Daugherty |
 | 365 | 407 | Lisa Miller |
 | 366 | 407 | Christy LaSure |
@@ -472,26 +472,26 @@
 | 464 | 352 | Brandie Gallegos |
 | 465 | 351 | Tavia |
 | 466 | 351 | Jeanna Dunn |
-| 467 | 350 | Pauline Cortez |
-| 468 | 350 | Allena Craft |
-| 469 | 349 | Frisky Base |
-| 470 | 349 | Beazel75 |
-| 471 | 349 | Yahowah |
-| 472 | 348 | Debbie Davis |
-| 473 | 348 | Ramona Shaver |
-| 474 | 348 | Vivienne Carter |
-| 475 | 347 | Missy Broz McNees |
-| 476 | 347 | Liliana Pena |
-| 477 | 346 | Emmarieta Mendez |
-| 478 | 345 | Ric Hard Hernandez |
+| 467 | 350 | Leslie Bush Yarbrough |
+| 468 | 350 | Pauline Cortez |
+| 469 | 350 | Allena Craft |
+| 470 | 349 | Frisky Base |
+| 471 | 349 | Beazel75 |
+| 472 | 349 | Yahowah |
+| 473 | 348 | Debbie Davis |
+| 474 | 348 | Ramona Shaver |
+| 475 | 348 | Vivienne Carter |
+| 476 | 347 | Missy Broz McNees |
+| 477 | 347 | Liliana Pena |
+| 478 | 346 | Emmarieta Mendez |
 | 479 | 345 | Sabrina Coleman |
-| 480 | 345 | Brave Slice |
-| 481 | 345 | Krie |
-| 482 | 345 | Rachel Rogers |
-| 483 | 344 | Brenda L. Bunce |
-| 484 | 344 | Leslie Bush Yarbrough |
-| 485 | 343 | LC |
-| 486 | 343 | Brian K Young II |
+| 480 | 345 | Ric Hard Hernandez |
+| 481 | 345 | Brave Slice |
+| 482 | 345 | Krie |
+| 483 | 345 | Rachel Rogers |
+| 484 | 344 | Brenda L. Bunce |
+| 485 | 343 | Brian K Young II |
+| 486 | 343 | LC |
 | 487 | 343 | Susie Loo |
 | 488 | 343 | Chilly Riserpiece |
 | 489 | 343 | Nate Funk |
@@ -1253,31 +1253,31 @@
 | 1245 | 114 | BlazinGames |
 | 1246 | 114 | Amy Marques |
 | 1247 | 114 | Karly Alexandrea |
-| 1248 | 113 | Ris |
-| 1249 | 113 | Tim |
-| 1250 | 113 | Nerdy Gridlock |
-| 1251 | 113 | Olivia Ornella Rubinski |
-| 1252 | 113 | Plucky Tiltpiece |
-| 1253 | 113 | Chirpy Twistslam |
-| 1254 | 113 | Gerriann Jordan |
-| 1255 | 113 | Stephanie Thompson |
-| 1256 | 112 | Tea Julien |
-| 1257 | 112 | Antonio Feliciano |
-| 1258 | 112 | Soo Fly |
+| 1248 | 113 | Tim |
+| 1249 | 113 | Salih Atasoy |
+| 1250 | 113 | Stephanie Thompson |
+| 1251 | 113 | Gerriann Jordan |
+| 1252 | 113 | Chirpy Twistslam |
+| 1253 | 113 | Ris |
+| 1254 | 113 | Olivia Ornella Rubinski |
+| 1255 | 113 | Nerdy Gridlock |
+| 1256 | 113 | Plucky Tiltpiece |
+| 1257 | 112 | Todd Echterling |
+| 1258 | 112 | Antonio Feliciano |
 | 1259 | 112 | Jasmine Del Real Est |
-| 1260 | 112 | Todd Echterling |
-| 1261 | 111 | Funky Zonebuilder |
-| 1262 | 111 | Johanna Burke |
-| 1263 | 111 | Moo |
-| 1264 | 111 | Chewy |
+| 1260 | 112 | Tea Julien |
+| 1261 | 112 | Soo Fly |
+| 1262 | 111 | Moo |
+| 1263 | 111 | Chewy |
+| 1264 | 111 | Johanna Burke |
 | 1265 | 111 | Felicia Jones |
-| 1266 | 110 | Robert Benitez |
-| 1267 | 110 | Stoney Smith |
-| 1268 | 110 | SMSMris |
-| 1269 | 110 | Bouncy Fitzone |
-| 1270 | 110 | Spicy Glide |
-| 1271 | 110 | Tasha McCormack |
-| 1272 | 110 | Salih Atasoy |
+| 1266 | 111 | Funky Zonebuilder |
+| 1267 | 110 | Robert Benitez |
+| 1268 | 110 | Stoney Smith |
+| 1269 | 110 | SMSMris |
+| 1270 | 110 | Bouncy Fitzone |
+| 1271 | 110 | Spicy Glide |
+| 1272 | 110 | Tasha McCormack |
 | 1273 | 109 | Smiley Dashy |
 | 1274 | 109 | Marla Erin Salas |
 | 1275 | 109 | Amy Lynn |
