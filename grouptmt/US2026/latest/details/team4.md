@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 07:12:45 UTC
+# Standings for team4 as of 2026-02-25 07:13:22 UTC
 
 **Total Participants:** 2177
 
@@ -94,9 +94,9 @@
 | 86 | 1082 | Dion Crommarty |
 | 87 | 1075 | Guy Incognito |
 | 88 | 1073 | Chaz Duncan |
-| 89 | 1049 | Jeremy Steines |
-| 90 | 1047 | Edward White |
-| 91 | 1041 | Valerie Roberts |
+| 89 | 1051 | Valerie Roberts |
+| 90 | 1049 | Jeremy Steines |
+| 91 | 1047 | Edward White |
 | 92 | 1037 | loulou |
 | 93 | 1035 | Patron Anderson |
 | 94 | 1030 | Jonathan Kimbrough |
@@ -106,8 +106,8 @@
 | 98 | 954 | Judy Cox |
 | 99 | 948 | quicksand420 |
 | 100 | 930 | Jason Hart |
-| 101 | 925 | Samantha Peterson |
-| 102 | 922 | Amy Suckarieh |
+| 101 | 929 | Amy Suckarieh |
+| 102 | 925 | Samantha Peterson |
 | 103 | 922 | Trista Leah |
 | 104 | 917 | Diana Houts |
 | 105 | 916 | Chris Alexinas |
@@ -382,14 +382,14 @@
 | 374 | 381 | Kevin Bush |
 | 375 | 381 | Paito |
 | 376 | 381 | Marcus TheeyoungWoe Gilmore |
-| 377 | 381 | Alexandra Karavias |
-| 378 | 380 | Amy Jean |
-| 379 | 379 | Jackie Clark |
-| 380 | 379 | Kristi Trafton |
-| 381 | 378 | Sho Nuff |
-| 382 | 378 | Jay You |
-| 383 | 377 | Lauren Lamb |
-| 384 | 374 | Bryan James Marino |
+| 377 | 381 | Bryan James Marino |
+| 378 | 381 | Alexandra Karavias |
+| 379 | 380 | Amy Jean |
+| 380 | 379 | Jackie Clark |
+| 381 | 379 | Kristi Trafton |
+| 382 | 378 | Sho Nuff |
+| 383 | 378 | Jay You |
+| 384 | 377 | Lauren Lamb |
 | 385 | 372 | Chummy Link |
 | 386 | 371 | Maureen Flanigan |
 | 387 | 370 | HastyGrabber |
