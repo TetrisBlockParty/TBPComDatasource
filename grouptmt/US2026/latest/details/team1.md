@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 17:58:44 UTC
+# Standings for team1 as of 2026-02-25 17:59:23 UTC
 
 **Total Participants:** 2506
 
@@ -42,13 +42,13 @@
 | 34 | 1959 | Andrea Dañielle Ortiz |
 | 35 | 1906 | Bhelle Sumile |
 | 36 | 1866 | Tyler Whitley |
-| 37 | 1856 | Nancy Green |
-| 38 | 1822 | Cynthia Bradley |
+| 37 | 1860 | Cynthia Bradley |
+| 38 | 1856 | Nancy Green |
 | 39 | 1814 | Brenda Stewart |
 | 40 | 1808 | Rahna Underwood |
 | 41 | 1804 | Christina Graham |
 | 42 | 1794 | Lola Adkhambekovna |
-| 43 | 1773 | Carrie Beck Geartz |
+| 43 | 1783 | Carrie Beck Geartz |
 | 44 | 1772 | Jen Sartain |
 | 45 | 1742 | Lexuriuos Lifestlye |
 | 46 | 1737 | Marianne Louise West |
@@ -219,9 +219,9 @@
 | 211 | 589 | Rat666 |
 | 212 | 587 | Luciano Moreira |
 | 213 | 587 | Jessica Russell |
-| 214 | 574 | Speedy Liney |
-| 215 | 573 | Sarah Somers Gray |
-| 216 | 573 | Jamie Jury |
+| 214 | 576 | Jamie Jury |
+| 215 | 574 | Speedy Liney |
+| 216 | 573 | Sarah Somers Gray |
 | 217 | 570 | Cody Slav |
 | 218 | 569 | Daring Fitclear |
 | 219 | 568 | Jason Savage |
@@ -941,31 +941,31 @@
 | 933 | 171 | Kerry Lee Powell |
 | 934 | 171 | Greg Premoe |
 | 935 | 171 | Brian |
-| 936 | 170 | Aleea Six |
-| 937 | 170 | Jen |
-| 938 | 170 | Bold Glide |
-| 939 | 170 | Zhang EN |
-| 940 | 170 | Garry Myers |
+| 936 | 170 | Garry Myers |
+| 937 | 170 | Frisky Fall |
+| 938 | 170 | Jen |
+| 939 | 170 | Bold Glide |
+| 940 | 170 | Zhang EN |
 | 941 | 170 | Lin |
 | 942 | 170 | Melissa Thomas |
-| 943 | 170 | Cheeky Curvetile |
-| 944 | 169 | Charlie Ryno |
-| 945 | 169 | Larry Fritzinger |
-| 946 | 169 | Spicy Spinblock |
-| 947 | 169 | NicaOrlice |
-| 948 | 169 | Mark Zeitlin |
-| 949 | 169 | BeeDub |
-| 950 | 169 | Connie Butler |
-| 951 | 169 | Alex Ipad |
-| 952 | 169 | 804RVAME |
-| 953 | 168 | Shannon Jones |
-| 954 | 168 | Frisky Fall |
-| 955 | 168 | Sabrina Cortez Mendoza |
-| 956 | 168 | Guest |
-| 957 | 168 | Smacked |
-| 958 | 167 | Kurtis Manlow |
-| 959 | 167 | Andrea AJ Johnson |
-| 960 | 167 | Melissa Marckini |
+| 943 | 170 | Aleea Six |
+| 944 | 170 | Cheeky Curvetile |
+| 945 | 169 | BeeDub |
+| 946 | 169 | Connie Butler |
+| 947 | 169 | Alex Ipad |
+| 948 | 169 | 804RVAME |
+| 949 | 169 | Mark Zeitlin |
+| 950 | 169 | Spicy Spinblock |
+| 951 | 169 | NicaOrlice |
+| 952 | 169 | Larry Fritzinger |
+| 953 | 169 | Charlie Ryno |
+| 954 | 168 | Smacked |
+| 955 | 168 | Guest |
+| 956 | 168 | Shannon Jones |
+| 957 | 168 | Sabrina Cortez Mendoza |
+| 958 | 167 | Andrea AJ Johnson |
+| 959 | 167 | Melissa Marckini |
+| 960 | 167 | Kurtis Manlow |
 | 961 | 167 | Peachy Zoney |
 | 962 | 167 | Kevin Prothro |
 | 963 | 166 | Frisky Twistslam |
@@ -1487,65 +1487,65 @@
 | 1479 | 76 | Don Reno |
 | 1480 | 76 | Pete Davis |
 | 1481 | 75 | Mama Zelda |
-| 1482 | 75 | Chill Brickclear |
-| 1483 | 75 | Cheeky Link |
-| 1484 | 75 | Sarah Stanonik |
-| 1485 | 75 | Anthony Torres |
+| 1482 | 75 | Sarah Stanonik |
+| 1483 | 75 | Diana |
+| 1484 | 75 | Anthony Torres |
+| 1485 | 75 | Terri Williams |
 | 1486 | 75 | Christian Schirmer |
-| 1487 | 75 | Diana |
-| 1488 | 75 | Eric Inniss |
-| 1489 | 75 | Terri Williams |
-| 1490 | 74 | Ghost |
-| 1491 | 74 | Kayyjayy |
-| 1492 | 74 | Edward Woodall |
-| 1493 | 74 | Darlene Nani Pack Viernes |
-| 1494 | 74 | Amy Hoats |
-| 1495 | 74 | Scott Cutter |
-| 1496 | 74 | Smelly |
-| 1497 | 74 | Shawn Reeser Morgan |
-| 1498 | 73 | Catherine Gi |
-| 1499 | 73 | Wynn Cook |
-| 1500 | 73 | Loneell Hyland |
-| 1501 | 73 | Grandmeemers22 |
-| 1502 | 73 | Zappy Pivoty |
+| 1487 | 75 | Eric Inniss |
+| 1488 | 75 | Chill Brickclear |
+| 1489 | 75 | Cheeky Link |
+| 1490 | 74 | Scott Cutter |
+| 1491 | 74 | Ghost |
+| 1492 | 74 | Kayyjayy |
+| 1493 | 74 | Edward Woodall |
+| 1494 | 74 | Shawn Reeser Morgan |
+| 1495 | 74 | Darlene Nani Pack Viernes |
+| 1496 | 74 | Amy Hoats |
+| 1497 | 74 | Smelly |
+| 1498 | 73 | Wynn Cook |
+| 1499 | 73 | Zappy Pivoty |
+| 1500 | 73 | Catherine Gi |
+| 1501 | 73 | Loneell Hyland |
+| 1502 | 73 | Grandmeemers22 |
 | 1503 | 73 | Channis |
 | 1504 | 73 | Bouncy Link |
 | 1505 | 72 | Beverly S. Robinson |
-| 1506 | 72 | Samantha Schmidt |
-| 1507 | 72 | GDerro |
-| 1508 | 72 | COBETRYCE |
-| 1509 | 72 | Randi Voight |
-| 1510 | 72 | Will Iams Chole |
-| 1511 | 72 | Hoppy Clearbuilder |
-| 1512 | 71 | Kimchi |
-| 1513 | 71 | Frisky Setter |
-| 1514 | 71 | Michael Willett |
-| 1515 | 71 | Quirky Catcher |
+| 1506 | 72 | Will Iams Chole |
+| 1507 | 72 | Samantha Schmidt |
+| 1508 | 72 | GDerro |
+| 1509 | 72 | COBETRYCE |
+| 1510 | 72 | Hoppy Clearbuilder |
+| 1511 | 72 | Randi Voight |
+| 1512 | 71 | Frisky Setter |
+| 1513 | 71 | Michael Willett |
+| 1514 | 71 | Quirky Catcher |
+| 1515 | 71 | Bridgette |
 | 1516 | 71 | Tiffany Laura |
-| 1517 | 71 | Bridgette |
-| 1518 | 70 | Dennis Eitler |
-| 1519 | 70 | SuzyQ |
-| 1520 | 70 | Shaun Houglin |
+| 1517 | 71 | Kimchi |
+| 1518 | 70 | pat |
+| 1519 | 70 | Happy Step |
+| 1520 | 70 | Stephanie Thompson |
 | 1521 | 70 | BadBoyJeff |
-| 1522 | 70 | pat |
-| 1523 | 70 | Rachael Marie |
-| 1524 | 70 | Happy Step |
-| 1525 | 70 | Dana C. Howell |
-| 1526 | 69 | Frothy Bridgepiece |
+| 1522 | 70 | Shaun Houglin |
+| 1523 | 70 | Dennis Eitler |
+| 1524 | 70 | SuzyQ |
+| 1525 | 70 | Rachael Marie |
+| 1526 | 70 | Dana C. Howell |
 | 1527 | 69 | tiffanyfree |
 | 1528 | 69 | Stephanie Twoallbeefpattiez Johnson |
-| 1529 | 69 | Katherine Marie Spittle |
-| 1530 | 69 | tee |
-| 1531 | 69 | Pamela Jones |
-| 1532 | 69 | Jesse Meehan |
-| 1533 | 69 | Serene_713 |
-| 1534 | 69 | DaDawg |
-| 1535 | 69 | stormie |
-| 1536 | 69 | Zany Snapline |
-| 1537 | 69 | Patty Sersich |
-| 1538 | 68 | Anna Bennett |
-| 1539 | 68 | Brian Crenshaw |
-| 1540 | 68 | Stephanie Thompson |
+| 1529 | 69 | Frothy Bridgepiece |
+| 1530 | 69 | Katherine Marie Spittle |
+| 1531 | 69 | tee |
+| 1532 | 69 | Pamela Jones |
+| 1533 | 69 | Jesse Meehan |
+| 1534 | 69 | Serene_713 |
+| 1535 | 69 | DaDawg |
+| 1536 | 69 | stormie |
+| 1537 | 69 | Zany Snapline |
+| 1538 | 69 | Patty Sersich |
+| 1539 | 68 | Anna Bennett |
+| 1540 | 68 | Brian Crenshaw |
 | 1541 | 68 | Fayalobie |
 | 1542 | 68 | Gary Richtmeyer |
 | 1543 | 68 | Loony Stacky |
