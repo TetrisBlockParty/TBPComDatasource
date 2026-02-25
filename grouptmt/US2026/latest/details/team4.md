@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 20:04:43 UTC
+# Standings for team4 as of 2026-02-25 20:05:23 UTC
 
 **Total Participants:** 2258
 
@@ -1895,34 +1895,34 @@
 | 1887 | 27 | Edward Krohn |
 | 1888 | 27 | Jennifer Pfeiffer Johnson |
 | 1889 | 27 | Julie Foulks Porter |
-| 1890 | 27 | Breezy Linkfall |
-| 1891 | 27 | drc81 |
-| 1892 | 27 | BlueCupCakes |
-| 1893 | 27 | Nutty Grabber |
-| 1894 | 27 | Antronita Kemp |
-| 1895 | 27 | Michelle Sweeney |
-| 1896 | 27 | LaLa Short |
-| 1897 | 27 | Bold Builderpiece |
-| 1898 | 27 | ASUNelson |
-| 1899 | 27 | Perach Alima Shoa |
-| 1900 | 27 | Jakorah Musto |
-| 1901 | 27 | Bouncy Hitter |
-| 1902 | 26 | Felicia Daniels |
-| 1903 | 26 | Carolyn Figueroa |
-| 1904 | 26 | Cool Cascadefit |
-| 1905 | 26 | TaZz |
-| 1906 | 26 | ElleneRobert KylePaisley Coward |
-| 1907 | 26 | Kassie Wakefield |
-| 1908 | 26 | Courtney Lynn Hagaman |
-| 1909 | 26 | Yoyoyo |
-| 1910 | 26 | Vader67 |
-| 1911 | 26 | Naomi Olson Hartman |
-| 1912 | 26 | Korn Starch |
-| 1913 | 26 | OreoBlu |
-| 1914 | 26 | Julio León |
-| 1915 | 25 | Scoots Mcgee |
+| 1890 | 27 | ElleneRobert KylePaisley Coward |
+| 1891 | 27 | Perach Alima Shoa |
+| 1892 | 27 | LaLa Short |
+| 1893 | 27 | Antronita Kemp |
+| 1894 | 27 | Nutty Grabber |
+| 1895 | 27 | Breezy Linkfall |
+| 1896 | 27 | drc81 |
+| 1897 | 27 | BlueCupCakes |
+| 1898 | 27 | Bouncy Hitter |
+| 1899 | 27 | Jakorah Musto |
+| 1900 | 27 | Michelle Sweeney |
+| 1901 | 27 | ASUNelson |
+| 1902 | 27 | Bold Builderpiece |
+| 1903 | 26 | TaZz |
+| 1904 | 26 | Felicia Daniels |
+| 1905 | 26 | Julio León |
+| 1906 | 26 | Carolyn Figueroa |
+| 1907 | 26 | Cool Cascadefit |
+| 1908 | 26 | OreoBlu |
+| 1909 | 26 | Kassie Wakefield |
+| 1910 | 26 | Courtney Lynn Hagaman |
+| 1911 | 26 | Yoyoyo |
+| 1912 | 26 | Vader67 |
+| 1913 | 26 | Naomi Olson Hartman |
+| 1914 | 26 | Korn Starch |
+| 1915 | 25 | Yaitza Cotto |
 | 1916 | 25 | Agápē Seb |
-| 1917 | 25 | Yaitza Cotto |
+| 1917 | 25 | Scoots Mcgee |
 | 1918 | 25 | Sarah Lee |
 | 1919 | 25 | Melissa Vecchio-Clautti |
 | 1920 | 25 | Pierre Kelly |
