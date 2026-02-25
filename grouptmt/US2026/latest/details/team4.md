@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 13:44:43 UTC
+# Standings for team4 as of 2026-02-25 13:45:22 UTC
 
 **Total Participants:** 2211
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 9991 | Devinlee Brown |
+| 1 | 10011 | Devinlee Brown |
 | 2 | 9192 | sierrabeth |
 | 3 | 8598 | Bubbly Puzzler |
 | 4 | 6870 | Kat |
@@ -134,13 +134,13 @@
 | 126 | 834 | Nikki Rae Gordon |
 | 127 | 832 | Leslie Nicole |
 | 128 | 830 | Mylo Lipscomb |
-| 129 | 827 | Matt Gooder |
-| 130 | 820 | Swanky Fitline |
-| 131 | 815 | Jamie Gustafson |
-| 132 | 815 | Nugget |
-| 133 | 814 | Zippy Gridlock |
-| 134 | 812 | TheNeesh50 |
-| 135 | 805 | Carlos Ramirez |
+| 129 | 830 | Carlos Ramirez |
+| 130 | 827 | Matt Gooder |
+| 131 | 820 | Swanky Fitline |
+| 132 | 815 | Jamie Gustafson |
+| 133 | 815 | Nugget |
+| 134 | 814 | Zippy Gridlock |
+| 135 | 812 | TheNeesh50 |
 | 136 | 802 | Crystal Carroll |
 | 137 | 796 | Austin Owens |
 | 138 | 796 | Lindsey Gonzalez |
@@ -169,8 +169,8 @@
 | 161 | 722 | Korcoran Smith |
 | 162 | 721 | Chris Baggett |
 | 163 | 720 | TRCuse |
-| 164 | 713 | Adam Stephanie Parker |
-| 165 | 712 | blasterB |
+| 164 | 714 | blasterB |
+| 165 | 713 | Adam Stephanie Parker |
 | 166 | 709 | Rebecca Morris |
 | 167 | 702 | Nita Wells |
 | 168 | 699 | Rodney McMath Jr. |
@@ -372,7 +372,7 @@
 | 364 | 399 | Shukee Lo |
 | 365 | 397 | James Philpot Ross |
 | 366 | 397 | Jenna McGeorge |
-| 367 | 394 | Stephme310 |
+| 367 | 395 | Stephme310 |
 | 368 | 394 | Perky Patternblock |
 | 369 | 393 | Amy Sanford |
 | 370 | 392 | Sarah Hoffman |
@@ -914,8 +914,8 @@
 | 906 | 165 | Sarah Grundisch |
 | 907 | 165 | Zappy Buildgrid |
 | 908 | 164 | Saucy Stackbuilder |
-| 909 | 163 | Nicole Silvers |
-| 910 | 163 | Mike Burlingame |
+| 909 | 163 | Mike Burlingame |
+| 910 | 163 | Nicole Silvers |
 | 911 | 163 | Cozy Strikerbuilder |
 | 912 | 163 | Kimberly Paxton |
 | 913 | 163 | Swanky Blockline |
@@ -989,23 +989,23 @@
 | 981 | 143 | Tyler Brown |
 | 982 | 143 | Perky Shatterer |
 | 983 | 142 | Juan Barron |
-| 984 | 142 | Frank Cook |
-| 985 | 141 | Lynella |
-| 986 | 141 | Robert Sch |
-| 987 | 141 | Loony Slide |
-| 988 | 141 | Shelly Goad |
-| 989 | 140 | RonRico Thomas |
-| 990 | 140 | SloFut Mataryal BrownBwoy |
-| 991 | 140 | Megan Crane |
-| 992 | 140 | Shiny Wipefit |
-| 993 | 139 | Kellie Tacuban |
-| 994 | 139 | ScootyLadoo |
-| 995 | 138 | Clever Tilefall |
-| 996 | 138 | Samantha Gamble |
-| 997 | 138 | Jamie Hirtle |
-| 998 | 138 | Takeshia Knowles |
-| 999 | 138 | JEan Price |
-| 1000 | 138 | Kris Johnson |
+| 984 | 142 | Kris Johnson |
+| 985 | 142 | Frank Cook |
+| 986 | 141 | Lynella |
+| 987 | 141 | Robert Sch |
+| 988 | 141 | Loony Slide |
+| 989 | 141 | Shelly Goad |
+| 990 | 140 | RonRico Thomas |
+| 991 | 140 | SloFut Mataryal BrownBwoy |
+| 992 | 140 | Megan Crane |
+| 993 | 140 | Shiny Wipefit |
+| 994 | 139 | Kellie Tacuban |
+| 995 | 139 | ScootyLadoo |
+| 996 | 138 | Clever Tilefall |
+| 997 | 138 | Samantha Gamble |
+| 998 | 138 | Jamie Hirtle |
+| 999 | 138 | Takeshia Knowles |
+| 1000 | 138 | JEan Price |
 | 1001 | 137 | Lazy Blocker |
 | 1002 | 137 | Cj Lewis-haut |
 | 1003 | 137 | Renee |
