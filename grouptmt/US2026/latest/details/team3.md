@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-25 10:30:43 UTC
+# Standings for team3 as of 2026-02-25 10:31:23 UTC
 
 **Total Participants:** 3679
 
@@ -258,12 +258,12 @@
 | 250 | 752 | Tom Nault |
 | 251 | 752 | Karon Griffin |
 | 252 | 751 | Cynthia Castros-Hampton |
-| 253 | 750 | James Mitchell |
-| 254 | 749 | Rebecca Funderburk Kirby |
-| 255 | 749 | Cesar Barraza |
-| 256 | 749 | Donna Esbensen-Alpini |
-| 257 | 748 | Stephanie Blkpep Davidson |
-| 258 | 748 | Mendoza Lee Christy |
+| 253 | 750 | Mendoza Lee Christy |
+| 254 | 750 | James Mitchell |
+| 255 | 749 | Rebecca Funderburk Kirby |
+| 256 | 749 | Cesar Barraza |
+| 257 | 749 | Donna Esbensen-Alpini |
+| 258 | 748 | Stephanie Blkpep Davidson |
 | 259 | 748 | Connie Mohler-Fair |
 | 260 | 745 | Snappy Balancer |
 | 261 | 744 | Sarah Muradyan |
@@ -445,10 +445,10 @@
 | 437 | 473 | Ava Petito |
 | 438 | 473 | Carrie Huskey |
 | 439 | 472 | Princess Chyna Nelson |
-| 440 | 467 | Philip Rock |
-| 441 | 467 | Alice |
-| 442 | 466 | gremicx |
-| 443 | 466 | Jolly Dashpiece |
+| 440 | 467 | Alice |
+| 441 | 467 | Philip Rock |
+| 442 | 466 | Jolly Dashpiece |
+| 443 | 466 | gremicx |
 | 444 | 465 | Cesar Mendez |
 | 445 | 464 | James Fuller |
 | 446 | 464 | Plucky Frame |
@@ -459,23 +459,23 @@
 | 451 | 462 | Justin Ernst |
 | 452 | 459 | Heather Bateman |
 | 453 | 457 | Kathleen Taylor |
-| 454 | 455 | Willow |
-| 455 | 455 | PrincessSquare |
-| 456 | 454 | Beezwax |
-| 457 | 454 | Nikki Pags |
-| 458 | 453 | Samantha Worley |
-| 459 | 451 | Rich LeBlanc |
+| 454 | 455 | Snippy Brickster |
+| 455 | 455 | Willow |
+| 456 | 455 | PrincessSquare |
+| 457 | 454 | Beezwax |
+| 458 | 454 | Nikki Pags |
+| 459 | 453 | Samantha Worley |
 | 460 | 451 | Denise Marie |
-| 461 | 451 | Jana Polk |
-| 462 | 451 | Dakota Graham |
-| 463 | 450 | Cheeky Snapper |
-| 464 | 450 | Sissy Lowery Davis |
-| 465 | 449 | Spencer Nikki |
-| 466 | 449 | Michelle Abrams |
-| 467 | 449 | Kevin Russell |
-| 468 | 449 | Tracy Martin |
-| 469 | 447 | Joy Petroski |
-| 470 | 446 | Snippy Brickster |
+| 461 | 451 | Rich LeBlanc |
+| 462 | 451 | Jana Polk |
+| 463 | 451 | Dakota Graham |
+| 464 | 450 | Cheeky Snapper |
+| 465 | 450 | Sissy Lowery Davis |
+| 466 | 449 | Spencer Nikki |
+| 467 | 449 | Michelle Abrams |
+| 468 | 449 | Kevin Russell |
+| 469 | 449 | Tracy Martin |
+| 470 | 447 | Joy Petroski |
 | 471 | 446 | Arden White Kirsch |
 | 472 | 445 | Justin Parker |
 | 473 | 445 | block chick |
@@ -490,10 +490,10 @@
 | 482 | 436 | Aeh |
 | 483 | 436 | Kellie Montgomery |
 | 484 | 434 | Sassy Brickmatch |
-| 485 | 433 | Amanda Declue |
+| 485 | 433 | Kirhonda Autmon |
 | 486 | 433 | Nelma |
-| 487 | 433 | Michelle Allers |
-| 488 | 433 | Kirhonda Autmon |
+| 487 | 433 | Amanda Declue |
+| 488 | 433 | Michelle Allers |
 | 489 | 433 | Hyper Twisterfit |
 | 490 | 433 | Scott Lindsay |
 | 491 | 430 | Beth Smith |
@@ -1956,18 +1956,18 @@
 | 1948 | 101 | Lisa Anna |
 | 1949 | 101 | Groovy Stack |
 | 1950 | 101 | Krys Brown |
-| 1951 | 101 | Bartleby Tickletits |
-| 1952 | 101 | Angel Tsang |
-| 1953 | 101 | Vicky Callahan |
-| 1954 | 101 | Breezy Builderfit |
-| 1955 | 101 | Blkfroggy |
-| 1956 | 101 | bug |
-| 1957 | 101 | Sassy Zonebuilder |
-| 1958 | 101 | Dreamy Dropper |
-| 1959 | 101 | Sabrina Ruth Archuletta-Gauna |
-| 1960 | 100 | Haylee |
-| 1961 | 100 | Shiny Shift |
-| 1962 | 100 | Derek Ten Bears |
+| 1951 | 101 | Derek Ten Bears |
+| 1952 | 101 | Bartleby Tickletits |
+| 1953 | 101 | Angel Tsang |
+| 1954 | 101 | Vicky Callahan |
+| 1955 | 101 | Breezy Builderfit |
+| 1956 | 101 | Blkfroggy |
+| 1957 | 101 | bug |
+| 1958 | 101 | Sassy Zonebuilder |
+| 1959 | 101 | Dreamy Dropper |
+| 1960 | 101 | Sabrina Ruth Archuletta-Gauna |
+| 1961 | 100 | Haylee |
+| 1962 | 100 | Shiny Shift |
 | 1963 | 100 | Melyssa Mayrand |
 | 1964 | 100 | Twonza Halbert |
 | 1965 | 100 | Cody Soukup |
