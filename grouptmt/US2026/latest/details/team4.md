@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 20:28:43 UTC
+# Standings for team4 as of 2026-02-25 20:29:22 UTC
 
 **Total Participants:** 2260
 
@@ -273,17 +273,17 @@
 | 265 | 522 | Michele Plunkett |
 | 266 | 521 | Keshia Lyons |
 | 267 | 520 | Michael Snow |
-| 268 | 518 | Ari Droff |
-| 269 | 518 | Leah Kutz Zirbel |
-| 270 | 517 | Jason Gibbs |
-| 271 | 516 | Nick Gray |
-| 272 | 515 | John Brunetti |
-| 273 | 514 | Cheery Risebuilder |
-| 274 | 513 | Milan Markeisha |
-| 275 | 512 | Casey Jeffcoat |
-| 276 | 510 | David Lay |
-| 277 | 510 | Jenna Keen |
-| 278 | 509 | Michelle Morris |
+| 268 | 519 | Michelle Morris |
+| 269 | 518 | Ari Droff |
+| 270 | 518 | Leah Kutz Zirbel |
+| 271 | 517 | Jason Gibbs |
+| 272 | 516 | Nick Gray |
+| 273 | 515 | John Brunetti |
+| 274 | 514 | Cheery Risebuilder |
+| 275 | 513 | Milan Markeisha |
+| 276 | 512 | Casey Jeffcoat |
+| 277 | 510 | David Lay |
+| 278 | 510 | Jenna Keen |
 | 279 | 508 | Vic |
 | 280 | 507 | Crystal Nicolette Moore |
 | 281 | 505 | Jen Mattei |
@@ -315,29 +315,29 @@
 | 307 | 471 | ChasingZen |
 | 308 | 470 | Lee Silpe |
 | 309 | 469 | Nig |
-| 310 | 467 | Twisty Risebuilder |
+| 310 | 468 | Twisty Risebuilder |
 | 311 | 467 | Lush Linkfall |
 | 312 | 465 | 030Synner |
-| 313 | 464 | Kenna Gunderland |
-| 314 | 464 | KimoKoala |
+| 313 | 464 | KimoKoala |
+| 314 | 464 | Kenna Gunderland |
 | 315 | 461 | Twisty Cascadezone |
-| 316 | 461 | Sue Joyce Staats |
-| 317 | 461 | Dizzy Matchzone |
-| 318 | 461 | Blessedmama |
+| 316 | 461 | Dizzy Matchzone |
+| 317 | 461 | Blessedmama |
+| 318 | 461 | Sue Joyce Staats |
 | 319 | 458 | Alan Zukowski |
 | 320 | 456 | Andrew Dang |
-| 321 | 454 | Stephme310 |
+| 321 | 454 | Chaz |
 | 322 | 454 | Ruby Khalisadar |
-| 323 | 454 | Chaz |
-| 324 | 453 | Duck |
-| 325 | 453 | Mike Solo |
+| 323 | 454 | Stephme310 |
+| 324 | 453 | Mike Solo |
+| 325 | 453 | Duck |
 | 326 | 453 | Lilya Troutman |
 | 327 | 452 | Perky Piecegrid |
-| 328 | 449 | Danielle Kollias |
-| 329 | 449 | Tawna Curry |
+| 328 | 449 | Tawna Curry |
+| 329 | 449 | Danielle Kollias |
 | 330 | 447 | Russ Attitude |
-| 331 | 447 | Nubian1 |
-| 332 | 447 | Zany Swipe |
+| 331 | 447 | Zany Swipe |
+| 332 | 447 | Nubian1 |
 | 333 | 444 | Candice Carasiti |
 | 334 | 443 | Tyler Terrific |
 | 335 | 442 | Amy Sanford |
@@ -936,52 +936,52 @@
 | 928 | 167 | Sweet Pea |
 | 929 | 167 | Brad Caldwell |
 | 930 | 166 | Mike Burlingame |
-| 931 | 165 | Chummy Riserpiece |
-| 932 | 165 | Rampai |
-| 933 | 165 | Roberta Arnold |
-| 934 | 165 | Miranda Diulio |
-| 935 | 165 | Zappy Buildgrid |
-| 936 | 165 | Jenjen |
+| 931 | 165 | Miranda Diulio |
+| 932 | 165 | Jenjen |
+| 933 | 165 | Rampai |
+| 934 | 165 | Zappy Buildgrid |
+| 935 | 165 | Roberta Arnold |
+| 936 | 165 | Chummy Riserpiece |
 | 937 | 164 | Tracy Dawn |
 | 938 | 163 | Matt Narcisse |
-| 939 | 163 | Nicole Silvers |
+| 939 | 163 | Cozy Strikerbuilder |
 | 940 | 163 | Kimberly Paxton |
-| 941 | 163 | Cozy Strikerbuilder |
+| 941 | 163 | Nicole Silvers |
 | 942 | 162 | Adam Randall |
 | 943 | 162 | Aloradexplora |
 | 944 | 161 | Samantha Gamble |
 | 945 | 161 | Shiny Wipefit |
 | 946 | 161 | Buttlicker |
-| 947 | 161 | DinoNuggie |
-| 948 | 161 | Hog Crankin |
-| 949 | 161 | Tipsy Zoney |
+| 947 | 161 | Hog Crankin |
+| 948 | 161 | Tipsy Zoney |
+| 949 | 161 | DinoNuggie |
 | 950 | 161 | Dot Flanagan |
-| 951 | 160 | Shiny Matchfit |
-| 952 | 160 | Brandi Marks |
+| 951 | 160 | Brandi Marks |
+| 952 | 160 | Shiny Matchfit |
 | 953 | 160 | Molly Ananda Rickerson |
-| 954 | 160 | Tiffany Root |
-| 955 | 160 | Gage |
+| 954 | 160 | Gage |
+| 955 | 160 | Tiffany Root |
 | 956 | 159 | Niome Encinias |
 | 957 | 158 | Albert Walker III |
 | 958 | 157 | Kari Rose Haché |
-| 959 | 156 | Jess |
+| 959 | 156 | Teddy Marshall |
 | 960 | 156 | Chirpy Balancer |
-| 961 | 156 | Lauren R. Walls |
-| 962 | 156 | Lorry Wofford Jr. |
-| 963 | 156 | Teddy Marshall |
-| 964 | 156 | Brianna Walker |
-| 965 | 156 | Kara Kaminski Rhinehart |
-| 966 | 156 | Shanon James |
+| 961 | 156 | Shanon James |
+| 962 | 156 | Kara Kaminski Rhinehart |
+| 963 | 156 | Brianna Walker |
+| 964 | 156 | Jess |
+| 965 | 156 | Lauren R. Walls |
+| 966 | 156 | Lorry Wofford Jr. |
 | 967 | 155 | Wendy De Kam |
 | 968 | 155 | ThemightyDATCH |
 | 969 | 155 | Shane Hicks |
-| 970 | 154 | Kellie Tacuban |
-| 971 | 154 | Spunky Tower |
-| 972 | 154 | Saundra Miller |
+| 970 | 154 | Spunky Tower |
+| 971 | 154 | Saundra Miller |
+| 972 | 154 | Kellie Tacuban |
 | 973 | 154 | Mitchell Everhart |
-| 974 | 153 | Peace |
-| 975 | 153 | Sara Saxton Moon |
-| 976 | 152 | Kirsten Britt O'Donnell |
+| 974 | 153 | Kirsten Britt O'Donnell |
+| 975 | 153 | Peace |
+| 976 | 153 | Sara Saxton Moon |
 | 977 | 152 | April Chalfant |
 | 978 | 152 | mitch |
 | 979 | 152 | ScootyLadoo |
