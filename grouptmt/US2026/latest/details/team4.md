@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 12:02:22 UTC
+# Standings for team4 as of 2026-02-25 12:03:22 UTC
 
 **Total Participants:** 2201
 
@@ -32,7 +32,7 @@
 | 24 | 2344 | Jayna Anoc |
 | 25 | 2340 | Christina LR |
 | 26 | 2290 | Goatimus Lombardi |
-| 27 | 2141 | Cassie Michaux |
+| 27 | 2146 | Cassie Michaux |
 | 28 | 2122 | Robin Getchel |
 | 29 | 2106 | Aden Moss |
 | 30 | 2082 | Rachel Anne |
@@ -232,11 +232,11 @@
 | 224 | 568 | Zippy Block |
 | 225 | 568 | Plucky Patternblock |
 | 226 | 557 | scott |
-| 227 | 552 | Jeff Brian Gates |
-| 228 | 552 | Joseph Guthrie |
-| 229 | 551 | Bio Nelly |
-| 230 | 550 | James Hurley Jr. |
-| 231 | 550 | Jim Hart |
+| 227 | 552 | Jim Hart |
+| 228 | 552 | Jeff Brian Gates |
+| 229 | 552 | Joseph Guthrie |
+| 230 | 551 | Bio Nelly |
+| 231 | 550 | James Hurley Jr. |
 | 232 | 550 | J-Rizzle |
 | 233 | 547 | DonMega |
 | 234 | 546 | Ericca Eldridge |
@@ -300,29 +300,29 @@
 | 292 | 459 | Rafael Valentin |
 | 293 | 458 | Alan Zukowski |
 | 294 | 456 | Dizzy Matchzone |
-| 295 | 454 | KimoKoala |
-| 296 | 453 | Rio Rocha |
+| 295 | 456 | Rio Rocha |
+| 296 | 454 | KimoKoala |
 | 297 | 453 | Mike Solo |
 | 298 | 450 | Kenna Gunderland |
 | 299 | 450 | Andrew Dang |
 | 300 | 449 | Danielle Kollias |
 | 301 | 448 | Lee Silpe |
-| 302 | 447 | Twisty Cascadezone |
-| 303 | 447 | Zany Swipe |
+| 302 | 447 | Zany Swipe |
+| 303 | 447 | Twisty Cascadezone |
 | 304 | 446 | Ruby Khalisadar |
 | 305 | 445 | Blessedmama |
 | 306 | 445 | Chaz |
 | 307 | 443 | Twisty Risebuilder |
-| 308 | 440 | Russ Attitude |
-| 309 | 439 | Hyper Builder |
-| 310 | 439 | Tyler Terrific |
-| 311 | 438 | Hyper Matchclear |
-| 312 | 437 | Backoff Recupe |
-| 313 | 436 | Jessica Petersen |
-| 314 | 436 | Perky Piecegrid |
-| 315 | 436 | Nig |
-| 316 | 436 | Denise B |
-| 317 | 435 | Cool Gridzone |
+| 308 | 440 | Cool Gridzone |
+| 309 | 440 | Russ Attitude |
+| 310 | 439 | Hyper Builder |
+| 311 | 439 | Tyler Terrific |
+| 312 | 438 | Hyper Matchclear |
+| 313 | 437 | Backoff Recupe |
+| 314 | 436 | Jessica Petersen |
+| 315 | 436 | Perky Piecegrid |
+| 316 | 436 | Nig |
+| 317 | 436 | Denise B |
 | 318 | 434 | Maria Hammie |
 | 319 | 434 | Tina Lopez |
 | 320 | 434 | Ramel Rhodes |
@@ -1183,50 +1183,50 @@
 | 1175 | 102 | Bryan Johnson |
 | 1176 | 102 | Meli  Jackson |
 | 1177 | 101 | Saulc1991 |
-| 1178 | 101 | Sunny Holder |
-| 1179 | 101 | Aleasha Haukenfrers |
-| 1180 | 101 | Giggly Slammer |
-| 1181 | 101 | Speedy Clearer |
-| 1182 | 101 | MistyBayou |
-| 1183 | 101 | Farrell Williams Jr. |
-| 1184 | 100 | Geetara |
-| 1185 | 100 | Barbara Rietzke |
-| 1186 | 100 | Katrina Looney |
-| 1187 | 100 | Aly Eggers |
-| 1188 | 99 | Dorothy Horton |
-| 1189 | 99 | Wacky Shatterline |
-| 1190 | 99 | Denver |
-| 1191 | 99 | SUPREME |
-| 1192 | 98 | James May |
-| 1193 | 98 | Rob Chebetar |
-| 1194 | 98 | Lozuna |
-| 1195 | 98 | Maurice Daniels |
-| 1196 | 97 | Chilly Matchpiece |
-| 1197 | 97 | Jessalyn Jordan Davis |
-| 1198 | 97 | Bubbly Crawler |
-| 1199 | 97 | Giggy Bridgepiece |
-| 1200 | 96 | Miguel Rodriguez |
-| 1201 | 96 | Joshua A Bea |
-| 1202 | 96 | Lowkey24 |
-| 1203 | 96 | Christy |
-| 1204 | 96 | Deborah Hewitt |
-| 1205 | 96 | Rita Loucks |
+| 1178 | 101 | Farrell Williams Jr. |
+| 1179 | 101 | MistyBayou |
+| 1180 | 101 | Speedy Clearer |
+| 1181 | 101 | Giggly Slammer |
+| 1182 | 101 | Teddy Marshall |
+| 1183 | 101 | Aleasha Haukenfrers |
+| 1184 | 101 | Sunny Holder |
+| 1185 | 100 | Katrina Looney |
+| 1186 | 100 | Barbara Rietzke |
+| 1187 | 100 | Geetara |
+| 1188 | 100 | Aly Eggers |
+| 1189 | 99 | Dorothy Horton |
+| 1190 | 99 | Wacky Shatterline |
+| 1191 | 99 | Denver |
+| 1192 | 99 | SUPREME |
+| 1193 | 98 | Maurice Daniels |
+| 1194 | 98 | James May |
+| 1195 | 98 | Rob Chebetar |
+| 1196 | 98 | Lozuna |
+| 1197 | 97 | Chilly Matchpiece |
+| 1198 | 97 | Jessalyn Jordan Davis |
+| 1199 | 97 | Bubbly Crawler |
+| 1200 | 97 | Giggy Bridgepiece |
+| 1201 | 96 | Miguel Rodriguez |
+| 1202 | 96 | Joshua A Bea |
+| 1203 | 96 | Lowkey24 |
+| 1204 | 96 | Christy |
+| 1205 | 96 | Deborah Hewitt |
 | 1206 | 96 | Mark Morgan |
 | 1207 | 96 | Dana |
-| 1208 | 96 | Michele Lauer |
-| 1209 | 96 | Danielle Love |
-| 1210 | 95 | Chirpy Slammer |
-| 1211 | 95 | RedBoots82 |
-| 1212 | 95 | Kat |
-| 1213 | 95 | Cheery Shatterclear |
-| 1214 | 95 | Spicy Rollpiece |
-| 1215 | 95 | Leslie Parker |
-| 1216 | 95 | Joleeoleeooo |
-| 1217 | 95 | Victoria Calvario |
-| 1218 | 95 | Allison Judith |
-| 1219 | 95 | Alicia Falk |
-| 1220 | 94 | Jennifer West Campos |
-| 1221 | 94 | Teddy Marshall |
+| 1208 | 96 | Danielle Love |
+| 1209 | 96 | Michele Lauer |
+| 1210 | 96 | Rita Loucks |
+| 1211 | 95 | Chirpy Slammer |
+| 1212 | 95 | Victoria Calvario |
+| 1213 | 95 | Joleeoleeooo |
+| 1214 | 95 | Leslie Parker |
+| 1215 | 95 | Spicy Rollpiece |
+| 1216 | 95 | Cheery Shatterclear |
+| 1217 | 95 | Kat |
+| 1218 | 95 | RedBoots82 |
+| 1219 | 95 | Allison Judith |
+| 1220 | 95 | Alicia Falk |
+| 1221 | 94 | Jennifer West Campos |
 | 1222 | 94 | Terra McGee |
 | 1223 | 94 | Nee |
 | 1224 | 94 | Kathy Eschenbach |
