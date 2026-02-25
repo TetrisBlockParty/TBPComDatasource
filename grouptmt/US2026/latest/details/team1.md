@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 19:11:23 UTC
+# Standings for team1 as of 2026-02-25 19:12:44 UTC
 
 **Total Participants:** 2515
 
@@ -34,7 +34,7 @@
 | 26 | 2364 | Derek MF Blakey |
 | 27 | 2231 | Amanda Jarnagin |
 | 28 | 2209 | Carolyn Smith |
-| 29 | 2145 | Jennifer Cates |
+| 29 | 2160 | Jennifer Cates |
 | 30 | 2103 | Andrea Dañielle Ortiz |
 | 31 | 2096 | Jorge Andrade |
 | 32 | 2019 | Roger Aschbrenner |
@@ -73,7 +73,7 @@
 | 65 | 1435 | TSwag |
 | 66 | 1421 | Adam Byrd |
 | 67 | 1390 | Hasbro Bros |
-| 68 | 1366 | Kristen Roles Robben |
+| 68 | 1371 | Kristen Roles Robben |
 | 69 | 1332 | Kristen Gideon |
 | 70 | 1328 | Karin Gillen |
 | 71 | 1328 | Lawrence Belanger |
@@ -86,7 +86,7 @@
 | 78 | 1242 | Amy Griffith |
 | 79 | 1224 | Jason Cox |
 | 80 | 1201 | Jason Jones |
-| 81 | 1184 | Jacqueline Williams |
+| 81 | 1188 | Jacqueline Williams |
 | 82 | 1180 | Shalene Frederick Autrey |
 | 83 | 1179 | Angel Fowler |
 | 84 | 1168 | Dee Perry |
@@ -122,8 +122,8 @@
 | 114 | 972 | Seth Wesson |
 | 115 | 962 | Kellie |
 | 116 | 956 | Hyper |
-| 117 | 943 | Susan Ward |
-| 118 | 941 | Greg Hart |
+| 117 | 948 | Greg Hart |
+| 118 | 943 | Susan Ward |
 | 119 | 939 | Robert Benito |
 | 120 | 934 | Sevens4L |
 | 121 | 931 | Tawnya Peltonen |
@@ -342,11 +342,11 @@
 | 334 | 431 | Epic Jumper |
 | 335 | 430 | Dione Winter Heilich |
 | 336 | 430 | Danielle S Kester |
-| 337 | 430 | Plucky Stacky |
-| 338 | 429 | Frothy Pattern |
-| 339 | 428 | Speedy Snapfall |
-| 340 | 423 | Marie Bremner |
-| 341 | 422 | Sassy Builderline |
+| 337 | 430 | Sassy Builderline |
+| 338 | 430 | Plucky Stacky |
+| 339 | 429 | Frothy Pattern |
+| 340 | 428 | Speedy Snapfall |
+| 341 | 423 | Marie Bremner |
 | 342 | 419 | Robert |
 | 343 | 419 | Toya Lynn |
 | 344 | 419 | Bouncy Line |
@@ -515,11 +515,11 @@
 | 507 | 327 | Snappy Bridgepiece |
 | 508 | 327 | Barry Mac'Ockner |
 | 509 | 327 | Agustin Duarte Orozco |
-| 510 | 323 | JaPria Rodgers |
-| 511 | 322 | Sunshine |
-| 512 | 322 | Ed Franz Jr |
-| 513 | 322 | Camelia Trevillion |
-| 514 | 321 | Neely Janelle Stewart |
+| 510 | 325 | Neely Janelle Stewart |
+| 511 | 323 | JaPria Rodgers |
+| 512 | 322 | Sunshine |
+| 513 | 322 | Ed Franz Jr |
+| 514 | 322 | Camelia Trevillion |
 | 515 | 320 | Beffy |
 | 516 | 320 | Glitzy Buildsnap |
 | 517 | 320 | Megan Kradzinski Ferguson |
@@ -651,8 +651,8 @@
 | 643 | 260 | Lacy Wolfe |
 | 644 | 260 | Divaaa |
 | 645 | 260 | Lil H |
-| 646 | 259 | DENOTS42OSPOT |
-| 647 | 259 | Corkey Steinmark |
+| 646 | 260 | Corkey Steinmark |
+| 647 | 259 | DENOTS42OSPOT |
 | 648 | 259 | Miguel Teixeira |
 | 649 | 257 | Brian Ash |
 | 650 | 257 | Bucketsmasher |
@@ -767,23 +767,23 @@
 | 759 | 219 | Sean McErlane |
 | 760 | 218 | Witty Curve |
 | 761 | 218 | Brian Taylor |
-| 762 | 217 | Sarah Bersano |
-| 763 | 217 | V VIN |
-| 764 | 216 | Matt Leroux |
-| 765 | 216 | Nicolette Ivory Chastain |
-| 766 | 216 | John Garza |
-| 767 | 216 | Elizabeth Shaw |
-| 768 | 216 | Shauntina Burke |
-| 769 | 215 | Shano Rae |
-| 770 | 215 | KoDaK |
-| 771 | 214 | Wacky Strikesnap |
-| 772 | 214 | Alex Gauthier |
-| 773 | 214 | davis13 |
-| 774 | 214 | Jazzmin Queen |
-| 775 | 214 | Pie-3.14 |
+| 762 | 217 | Pie-3.14 |
+| 763 | 217 | Sarah Bersano |
+| 764 | 217 | V VIN |
+| 765 | 216 | Matt Leroux |
+| 766 | 216 | Nicolette Ivory Chastain |
+| 767 | 216 | John Garza |
+| 768 | 216 | Elizabeth Shaw |
+| 769 | 216 | Shauntina Burke |
+| 770 | 215 | Shano Rae |
+| 771 | 215 | KoDaK |
+| 772 | 214 | Wacky Strikesnap |
+| 773 | 214 | Alex Gauthier |
+| 774 | 214 | davis13 |
+| 775 | 214 | Jazzmin Queen |
 | 776 | 213 | Charlesa Burns |
-| 777 | 213 | Vivian Bush |
-| 778 | 213 | Tesia Solano |
+| 777 | 213 | Tesia Solano |
+| 778 | 213 | Vivian Bush |
 | 779 | 212 | Sherrick Edwards |
 | 780 | 212 | Garcia Bailey |
 | 781 | 212 | Katie Toothman |
