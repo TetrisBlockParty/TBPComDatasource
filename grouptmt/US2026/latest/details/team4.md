@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 09:58:42 UTC
+# Standings for team4 as of 2026-02-25 09:59:22 UTC
 
 **Total Participants:** 2193
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 9191 | Devinlee Brown |
+| 1 | 9211 | Devinlee Brown |
 | 2 | 8765 | sierrabeth |
 | 3 | 8598 | Bubbly Puzzler |
 | 4 | 6870 | Kat |
@@ -62,8 +62,8 @@
 | 54 | 1527 | Sammy Noguera |
 | 55 | 1498 | Pee |
 | 56 | 1497 | Juggalo |
-| 57 | 1390 | Toots |
-| 58 | 1375 | Denia Deni |
+| 57 | 1395 | Denia Deni |
+| 58 | 1390 | Toots |
 | 59 | 1363 | Mona Sharma |
 | 60 | 1354 | Isabel Aguilar |
 | 61 | 1353 | Amelpss |
@@ -79,8 +79,8 @@
 | 71 | 1215 | Heather Tushner |
 | 72 | 1204 | Shannon Ferrari |
 | 73 | 1196 | Alyssa Papen |
-| 74 | 1190 | Johnathan Martinez |
-| 75 | 1190 | Marvin Lou Martin |
+| 74 | 1190 | Marvin Lou Martin |
+| 75 | 1190 | Johnathan Martinez |
 | 76 | 1179 | Avy Absol |
 | 77 | 1175 | Kimyatta Cavin |
 | 78 | 1160 | SAP |
@@ -107,7 +107,7 @@
 | 99 | 957 | Nope Young |
 | 100 | 954 | Judy Cox |
 | 101 | 948 | quicksand420 |
-| 102 | 932 | Amy Suckarieh |
+| 102 | 938 | Amy Suckarieh |
 | 103 | 928 | Chris Alexinas |
 | 104 | 925 | Samantha Peterson |
 | 105 | 922 | Trista Leah |
@@ -1046,8 +1046,8 @@
 | 1038 | 123 | Alee Marie |
 | 1039 | 123 | Ashley Lynn Shannon |
 | 1040 | 123 | Gregory Mock |
-| 1041 | 123 | canglem |
-| 1042 | 122 | Chirpy Balancer |
+| 1041 | 123 | Chirpy Balancer |
+| 1042 | 123 | canglem |
 | 1043 | 122 | 805 |
 | 1044 | 122 | Michelle Abrams |
 | 1045 | 121 | Daring Strike |

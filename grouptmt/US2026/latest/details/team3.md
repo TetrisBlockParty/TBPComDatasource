@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-25 09:58:42 UTC
+# Standings for team3 as of 2026-02-25 09:59:22 UTC
 
 **Total Participants:** 3675
 
@@ -608,45 +608,45 @@
 | 600 | 375 | Erika Apodaca |
 | 601 | 375 | Aponk |
 | 602 | 375 | Lickity Split |
-| 603 | 374 | Trice Thomas |
-| 604 | 373 | Alecia McDermott |
-| 605 | 373 | Mariah Williams |
-| 606 | 372 | Rayzer |
-| 607 | 372 | Chad Wilson |
-| 608 | 372 | Raijinell King |
-| 609 | 372 | Kassie Dominique Rathbone |
-| 610 | 372 | Kristi Cargill |
-| 611 | 371 | Cameron Lovell |
-| 612 | 370 | Emberblaze |
-| 613 | 369 | Sarah Mayson |
-| 614 | 369 | Paul Daniel Quertermous |
-| 615 | 368 | Stormy Anguish |
-| 616 | 368 | Ashley Rufus Bythcez |
-| 617 | 368 | Allan Jimenez |
-| 618 | 367 | Jumpy Wrecker |
-| 619 | 367 | Brittany Lawson Tolson |
-| 620 | 367 | Kimberly Walker |
-| 621 | 366 | Jess Bissett |
-| 622 | 366 | Heather Ferrara |
-| 623 | 365 | Frilly Stackzone |
-| 624 | 365 | Hasty Pop |
-| 625 | 365 | Andy Jacobson |
-| 626 | 365 | Silly Curvetile |
-| 627 | 364 | Norma JulieMay |
-| 628 | 364 | Mikki Torres |
-| 629 | 363 | Nena Somerville Kelly |
-| 630 | 363 | Moniecia Harrison |
-| 631 | 363 | Christina Marie Swisher |
-| 632 | 361 | Patty White |
-| 633 | 361 | Tammy |
-| 634 | 361 | Bryan Byrd |
-| 635 | 361 | Zesty Rotater |
-| 636 | 360 | Shiny Snapfit |
-| 637 | 360 | Anna Moeller |
-| 638 | 358 | Bree Sexton |
-| 639 | 357 | Amber Groover Taylor |
-| 640 | 357 | Allie Kershner |
-| 641 | 355 | Jm |
+| 603 | 375 | Jm |
+| 604 | 374 | Trice Thomas |
+| 605 | 373 | Alecia McDermott |
+| 606 | 373 | Mariah Williams |
+| 607 | 372 | Rayzer |
+| 608 | 372 | Chad Wilson |
+| 609 | 372 | Raijinell King |
+| 610 | 372 | Kassie Dominique Rathbone |
+| 611 | 372 | Kristi Cargill |
+| 612 | 371 | Cameron Lovell |
+| 613 | 370 | Emberblaze |
+| 614 | 369 | Sarah Mayson |
+| 615 | 369 | Paul Daniel Quertermous |
+| 616 | 368 | Stormy Anguish |
+| 617 | 368 | Ashley Rufus Bythcez |
+| 618 | 368 | Allan Jimenez |
+| 619 | 367 | Jumpy Wrecker |
+| 620 | 367 | Brittany Lawson Tolson |
+| 621 | 367 | Kimberly Walker |
+| 622 | 366 | Jess Bissett |
+| 623 | 366 | Heather Ferrara |
+| 624 | 365 | Frilly Stackzone |
+| 625 | 365 | Hasty Pop |
+| 626 | 365 | Andy Jacobson |
+| 627 | 365 | Silly Curvetile |
+| 628 | 364 | Norma JulieMay |
+| 629 | 364 | Mikki Torres |
+| 630 | 363 | Nena Somerville Kelly |
+| 631 | 363 | Moniecia Harrison |
+| 632 | 363 | Christina Marie Swisher |
+| 633 | 361 | Patty White |
+| 634 | 361 | Tammy |
+| 635 | 361 | Bryan Byrd |
+| 636 | 361 | Zesty Rotater |
+| 637 | 360 | Shiny Snapfit |
+| 638 | 360 | Anna Moeller |
+| 639 | 358 | Bree Sexton |
+| 640 | 357 | Amber Groover Taylor |
+| 641 | 357 | Allie Kershner |
 | 642 | 355 | Tia Moore |
 | 643 | 354 | Felicia Doxey |
 | 644 | 353 | LaNette Morgan |
