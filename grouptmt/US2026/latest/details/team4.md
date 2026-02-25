@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 18:30:45 UTC
+# Standings for team4 as of 2026-02-25 18:31:23 UTC
 
 **Total Participants:** 2244
 
@@ -177,7 +177,7 @@
 | 169 | 719 | Ernest Maxwell |
 | 170 | 716 | Adam Stephanie Parker |
 | 171 | 714 | Erin Sabol |
-| 172 | 708 | Krystal McPherson |
+| 172 | 710 | Krystal McPherson |
 | 173 | 705 | Kathy Brookins |
 | 174 | 702 | Nita Wells |
 | 175 | 698 | Brickh4us |
@@ -368,40 +368,40 @@
 | 360 | 416 | Allison Rose |
 | 361 | 416 | Bryan Hodgins |
 | 362 | 415 | AyeKay |
-| 363 | 411 | Stella |
-| 364 | 411 | Mary Ann Pabukis |
+| 363 | 411 | Mary Ann Pabukis |
+| 364 | 411 | Stella |
 | 365 | 409 | Dustin York |
 | 366 | 408 | BigSammy420 |
 | 367 | 408 | @ |
 | 368 | 407 | Madison Sweere |
 | 369 | 407 | Sarah Hoffman |
 | 370 | 405 | Jake Roberts |
-| 371 | 405 | ZeeZee |
+| 371 | 405 | Jenna McGeorge |
 | 372 | 405 | Shukee Lo |
-| 373 | 405 | Jenna McGeorge |
+| 373 | 405 | ZeeZee |
 | 374 | 402 | Richard-April Kice |
 | 375 | 400 | Juls |
 | 376 | 398 | Paito |
-| 377 | 397 | James Philpot Ross |
-| 378 | 397 | Glitzy Corner |
+| 377 | 397 | Glitzy Corner |
+| 378 | 397 | James Philpot Ross |
 | 379 | 396 | Bonnie Hurlbrink |
 | 380 | 394 | Perky Patternblock |
 | 381 | 393 | George Tzouganos |
-| 382 | 392 | Jay You |
-| 383 | 392 | tipsy tiger |
-| 384 | 392 | Angie Schmidt |
-| 385 | 391 | Matt Dell'Olio |
-| 386 | 391 | Amanda Maciel Clarke |
+| 382 | 392 | tipsy tiger |
+| 383 | 392 | Angie Schmidt |
+| 384 | 392 | Jay You |
+| 385 | 391 | Amanda Maciel Clarke |
+| 386 | 391 | Matt Dell'Olio |
 | 387 | 391 | Chummy Towerzone |
 | 388 | 390 | Groovy Shiftspin |
-| 389 | 390 | Maureen Flanigan |
-| 390 | 389 | Marcus TheeyoungWoe Gilmore |
-| 391 | 388 | Megan Cutshaw |
-| 392 | 388 | Bryan James Marino |
-| 393 | 387 | Ak Jones |
-| 394 | 386 | Neil Ingham |
-| 395 | 384 | Jackie Clark |
-| 396 | 384 | Lilya Troutman |
+| 389 | 390 | Lilya Troutman |
+| 390 | 390 | Maureen Flanigan |
+| 391 | 389 | Marcus TheeyoungWoe Gilmore |
+| 392 | 388 | Megan Cutshaw |
+| 393 | 388 | Bryan James Marino |
+| 394 | 387 | Ak Jones |
+| 395 | 386 | Neil Ingham |
+| 396 | 384 | Jackie Clark |
 | 397 | 384 | Tyler Bechtel |
 | 398 | 384 | Gracie Ann Taylor |
 | 399 | 381 | Alexandra Karavias |
@@ -1474,34 +1474,34 @@
 | 1466 | 66 | Nadine Simone Jackwin |
 | 1467 | 66 | Giggly Caster |
 | 1468 | 66 | Flashy Snapbuild |
-| 1469 | 66 | Theodore Vincent |
+| 1469 | 66 | John Robert Roe |
 | 1470 | 66 | Mighty T-spin |
-| 1471 | 65 | Barcelos |
-| 1472 | 65 | Dean Masters |
-| 1473 | 65 | Shelly Matthews |
-| 1474 | 65 | Daws |
-| 1475 | 65 | Lisha Billups |
-| 1476 | 65 | Deb Lilja |
-| 1477 | 64 | Kemal Topko |
-| 1478 | 64 | Pretty 💕 |
-| 1479 | 64 | Phyllis Wilson |
-| 1480 | 64 | Jennifer Hunt |
-| 1481 | 64 | McKayla Snell |
-| 1482 | 64 | Jacqueline Brosius |
-| 1483 | 64 | Lush Basegrid |
-| 1484 | 64 | Amy Anderson-Franks |
-| 1485 | 64 | Kenny Hutchens |
-| 1486 | 64 | Audrey Hammock |
-| 1487 | 63 | peekaboo |
-| 1488 | 63 | Zesty Snapmatch |
-| 1489 | 63 | Wormtown girl |
-| 1490 | 63 | Wet Noodle |
-| 1491 | 63 | Kelly Newsom |
-| 1492 | 63 | Pamela Hagedorn |
-| 1493 | 63 | Colleen Keller |
-| 1494 | 63 | Tammie Jewel DeSimon |
-| 1495 | 63 | Petri |
-| 1496 | 63 | John Robert Roe |
+| 1471 | 66 | Theodore Vincent |
+| 1472 | 65 | Barcelos |
+| 1473 | 65 | Dean Masters |
+| 1474 | 65 | Shelly Matthews |
+| 1475 | 65 | Daws |
+| 1476 | 65 | Lisha Billups |
+| 1477 | 65 | Deb Lilja |
+| 1478 | 64 | Kemal Topko |
+| 1479 | 64 | Pretty 💕 |
+| 1480 | 64 | Phyllis Wilson |
+| 1481 | 64 | Jennifer Hunt |
+| 1482 | 64 | McKayla Snell |
+| 1483 | 64 | Jacqueline Brosius |
+| 1484 | 64 | Lush Basegrid |
+| 1485 | 64 | Amy Anderson-Franks |
+| 1486 | 64 | Kenny Hutchens |
+| 1487 | 64 | Audrey Hammock |
+| 1488 | 63 | peekaboo |
+| 1489 | 63 | Zesty Snapmatch |
+| 1490 | 63 | Wormtown girl |
+| 1491 | 63 | Wet Noodle |
+| 1492 | 63 | Kelly Newsom |
+| 1493 | 63 | Pamela Hagedorn |
+| 1494 | 63 | Colleen Keller |
+| 1495 | 63 | Tammie Jewel DeSimon |
+| 1496 | 63 | Petri |
 | 1497 | 63 | SpyderByt3 |
 | 1498 | 62 | Cehak Saray |
 | 1499 | 62 | Clever Caster |
