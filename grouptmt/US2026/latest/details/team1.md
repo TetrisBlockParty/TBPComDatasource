@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 10:56:47 UTC
+# Standings for team1 as of 2026-02-25 10:57:23 UTC
 
 **Total Participants:** 2455
 
@@ -247,12 +247,12 @@
 | 239 | 520 | Chelsea Dahlquist |
 | 240 | 520 | Reesey Enyart |
 | 241 | 518 | Connie |
-| 242 | 516 | Witty Builderfit |
-| 243 | 514 | Dizzy Slider |
-| 244 | 513 | Colena Davenport |
-| 245 | 511 | Daring Fitclear |
-| 246 | 509 | Lehrin Maria |
-| 247 | 506 | Amanda Holibaugh |
+| 242 | 516 | Amanda Holibaugh |
+| 243 | 516 | Witty Builderfit |
+| 244 | 514 | Dizzy Slider |
+| 245 | 513 | Colena Davenport |
+| 246 | 511 | Daring Fitclear |
+| 247 | 509 | Lehrin Maria |
 | 248 | 505 | David Miller |
 | 249 | 503 | Bird Person |
 | 250 | 501 | Candy Jones |
@@ -713,60 +713,60 @@
 | 705 | 223 | Erez Yosef |
 | 706 | 223 | Natasha Hollowell Causey |
 | 707 | 223 | Britney Marie Burton Cole |
-| 708 | 223 | Swanky Patternfit |
-| 709 | 223 | Piffy |
-| 710 | 222 | Henry Lanier |
-| 711 | 222 | Melissa Ann Macko |
+| 708 | 223 | Piffy |
+| 709 | 223 | Swanky Patternfit |
+| 710 | 222 | Melissa Ann Macko |
+| 711 | 222 | Henry Lanier |
 | 712 | 221 | Spunky Winder |
 | 713 | 221 | Amy Hess |
 | 714 | 221 | Edgar Algiere |
 | 715 | 220 | Chadocho |
-| 716 | 219 | BrenaBae |
-| 717 | 219 | Paul Osborne |
+| 716 | 219 | Paul Osborne |
+| 717 | 219 | BrenaBae |
 | 718 | 218 | Brian Taylor |
 | 719 | 218 | Witty Curve |
-| 720 | 217 | Sarah Bersano |
-| 721 | 217 | Chipper Piecefit |
+| 720 | 217 | Bruce Cruz |
+| 721 | 217 | Sarah Bersano |
 | 722 | 217 | Bean |
-| 723 | 217 | Bruce Cruz |
+| 723 | 217 | Chipper Piecefit |
 | 724 | 216 | Nicolette Ivory Chastain |
 | 725 | 216 | Shauntina Burke |
-| 726 | 215 | Jaymee Eva Shannon |
-| 727 | 215 | Elizabeth Shaw |
-| 728 | 215 | Spunky Tilt |
-| 729 | 215 | Oliver Hollins |
+| 726 | 215 | Elizabeth Shaw |
+| 727 | 215 | Spunky Tilt |
+| 728 | 215 | Oliver Hollins |
+| 729 | 215 | Jaymee Eva Shannon |
 | 730 | 214 | Alex Gauthier |
-| 731 | 214 | Joyce Harrell-chavis |
+| 731 | 214 | Jazzmin Queen |
 | 732 | 214 | V VIN |
-| 733 | 214 | Jazzmin Queen |
-| 734 | 212 | Sherrick Edwards |
-| 735 | 212 | Becky Coker |
-| 736 | 212 | Denise Belanger |
-| 737 | 211 | Riley Lee |
-| 738 | 211 | Jeff Newinski |
-| 739 | 210 | Fat fred |
-| 740 | 210 | Kathryn Chiles Anderson |
-| 741 | 210 | KoDaK |
-| 742 | 210 | Danny Brady |
-| 743 | 209 | Vivian Bush |
-| 744 | 209 | Lively Wipeout |
-| 745 | 208 | Jason Landon Sexton |
+| 733 | 214 | Joyce Harrell-chavis |
+| 734 | 212 | Denise Belanger |
+| 735 | 212 | Sherrick Edwards |
+| 736 | 212 | Becky Coker |
+| 737 | 211 | Jeff Newinski |
+| 738 | 211 | Riley Lee |
+| 739 | 210 | Danny Brady |
+| 740 | 210 | KoDaK |
+| 741 | 210 | Shano Rae |
+| 742 | 210 | Kathryn Chiles Anderson |
+| 743 | 210 | Fat fred |
+| 744 | 209 | Vivian Bush |
+| 745 | 209 | Lively Wipeout |
 | 746 | 208 | TristansDad |
-| 747 | 208 | Donna Addison Williams |
-| 748 | 208 | Paul Gates |
-| 749 | 207 | Tina Kocher Zimmerman |
+| 747 | 208 | Jason Landon Sexton |
+| 748 | 208 | Donna Addison Williams |
+| 749 | 208 | Paul Gates |
 | 750 | 207 | Shawn Robert |
-| 751 | 206 | Almïghty Stoner |
+| 751 | 207 | Tina Kocher Zimmerman |
 | 752 | 206 | Doris Hall |
-| 753 | 206 | Abusive |
-| 754 | 206 | Amanda Stevens |
-| 755 | 206 | Pace |
-| 756 | 206 | Gremb |
-| 757 | 205 | Mechelle Bailum |
-| 758 | 205 | William Cry |
-| 759 | 205 | davis13 |
-| 760 | 205 | Dustin Johnston |
-| 761 | 205 | Shano Rae |
+| 753 | 206 | Almïghty Stoner |
+| 754 | 206 | Abusive |
+| 755 | 206 | Amanda Stevens |
+| 756 | 206 | Pace |
+| 757 | 206 | Gremb |
+| 758 | 205 | Mechelle Bailum |
+| 759 | 205 | William Cry |
+| 760 | 205 | davis13 |
+| 761 | 205 | Dustin Johnston |
 | 762 | 205 | Johnnette Kruse |
 | 763 | 204 | Casey Hintenach |
 | 764 | 204 | Brandy Ann |
