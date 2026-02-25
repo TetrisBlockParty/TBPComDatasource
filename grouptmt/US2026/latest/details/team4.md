@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 14:56:44 UTC
+# Standings for team4 as of 2026-02-25 14:57:22 UTC
 
 **Total Participants:** 2217
 
@@ -255,13 +255,13 @@
 | 247 | 530 | Brittany Little |
 | 248 | 527 | Jolly Dashfit |
 | 249 | 525 | Casey Grabner |
-| 250 | 522 | Marcus Todd |
-| 251 | 522 | Michele Plunkett |
-| 252 | 522 | Luis Martinez |
-| 253 | 518 | shark tato |
-| 254 | 518 | Leah Kutz Zirbel |
-| 255 | 518 | Ari Droff |
-| 256 | 517 | Brickh4us |
+| 250 | 525 | Brickh4us |
+| 251 | 522 | Marcus Todd |
+| 252 | 522 | Michele Plunkett |
+| 253 | 522 | Luis Martinez |
+| 254 | 518 | shark tato |
+| 255 | 518 | Leah Kutz Zirbel |
+| 256 | 518 | Ari Droff |
 | 257 | 516 | Nick Gray |
 | 258 | 516 | Jessica Petersen |
 | 259 | 515 | Bradley Reeves |
@@ -352,14 +352,14 @@
 | 344 | 421 | Jason Bosco |
 | 345 | 421 | JIGsaw ~(•¿°)~ |
 | 346 | 421 | Nubian1 |
-| 347 | 419 | Lauren Lamb |
-| 348 | 417 | Jason Frehner |
-| 349 | 417 | Kris Bartlett |
-| 350 | 416 | Allison Rose |
-| 351 | 416 | Bryan Hodgins |
-| 352 | 416 | David Boggs |
-| 353 | 415 | Zołza 😈 |
-| 354 | 413 | Krystal McPherson |
+| 347 | 421 | Krystal McPherson |
+| 348 | 419 | Lauren Lamb |
+| 349 | 417 | Jason Frehner |
+| 350 | 417 | Kris Bartlett |
+| 351 | 416 | Allison Rose |
+| 352 | 416 | Bryan Hodgins |
+| 353 | 416 | David Boggs |
+| 354 | 415 | Zołza 😈 |
 | 355 | 411 | Snippy Puzzle |
 | 356 | 411 | Sue Joyce Staats |
 | 357 | 411 | Stella |
@@ -1082,13 +1082,13 @@
 | 1074 | 122 | Robin Visintainer |
 | 1075 | 121 | Serena Butter |
 | 1076 | 121 | Daring Strike |
-| 1077 | 121 | Dyrtie1 |
-| 1078 | 121 | Frothy Patterner |
-| 1079 | 121 | Epic Tilt |
-| 1080 | 120 | Zappy Snaplink |
-| 1081 | 120 | Zany Tilebuilder |
-| 1082 | 120 | I'm sorry |
-| 1083 | 120 | Brenda Bird |
+| 1077 | 121 | Brenda Bird |
+| 1078 | 121 | Dyrtie1 |
+| 1079 | 121 | Frothy Patterner |
+| 1080 | 121 | Epic Tilt |
+| 1081 | 120 | Zappy Snaplink |
+| 1082 | 120 | Zany Tilebuilder |
+| 1083 | 120 | I'm sorry |
 | 1084 | 120 | Joyce Fees |
 | 1085 | 120 | Zippy Stack |
 | 1086 | 120 | Tammy Johndro |
@@ -1371,52 +1371,52 @@
 | 1363 | 74 | ShadowWanderrr |
 | 1364 | 74 | Jocelyn L. Williams |
 | 1365 | 74 | Charles Chuckie |
-| 1366 | 73 | Zhulma Velasco |
-| 1367 | 73 | De'Chon Millender-Rogers |
-| 1368 | 73 | Adam Gruttner |
-| 1369 | 73 | Cool Shatterclear |
-| 1370 | 73 | Serene Martell |
+| 1366 | 73 | De'Chon Millender-Rogers |
+| 1367 | 73 | Adam Gruttner |
+| 1368 | 73 | Cool Shatterclear |
+| 1369 | 73 | Serene Martell |
+| 1370 | 73 | Zhulma Velasco |
 | 1371 | 73 | MazieMae |
 | 1372 | 73 | KnCson |
 | 1373 | 73 | Ohmatae |
 | 1374 | 73 | Angelina Rous |
 | 1375 | 73 | Gerald Anderson |
 | 1376 | 73 | Brain Joy |
-| 1377 | 72 | Melitta Boisvert |
+| 1377 | 72 | Giddy Swiper |
 | 1378 | 72 | Tarius Jackson |
 | 1379 | 72 | Perky Towerpiece |
-| 1380 | 72 | Giddy Swiper |
+| 1380 | 72 | Christopher Cand |
 | 1381 | 72 | Tara Karen |
-| 1382 | 72 | Christopher Cand |
-| 1383 | 72 | Ray Binkley |
-| 1384 | 72 | Daring Spinzone |
-| 1385 | 72 | Reggie |
-| 1386 | 72 | April Murphy |
+| 1382 | 72 | Ray Binkley |
+| 1383 | 72 | Melitta Boisvert |
+| 1384 | 72 | Reggie |
+| 1385 | 72 | Wacky Brickmatch |
+| 1386 | 72 | Daring Spinzone |
 | 1387 | 72 | London Murphy |
-| 1388 | 72 | Veronica Chan |
-| 1389 | 71 | Peachy Pusher |
-| 1390 | 71 | Ashley Cooke |
-| 1391 | 71 | Jazzy Climber |
-| 1392 | 71 | Kenya Lewis |
-| 1393 | 71 | Kb Ludiweci |
-| 1394 | 71 | Amy La Violette |
-| 1395 | 71 | Frothy Twisterfit |
-| 1396 | 71 | Saucy Brickroll |
-| 1397 | 71 | Christa Marie |
-| 1398 | 71 | Dapper Climber |
-| 1399 | 71 | Alison Welsh |
-| 1400 | 70 | Randy |
-| 1401 | 70 | Tammi Harne |
-| 1402 | 70 | Br23klyn |
-| 1403 | 70 | Autumn Leslie |
-| 1404 | 70 | Kayd |
-| 1405 | 70 | StarChild |
-| 1406 | 70 | Blockin88 |
-| 1407 | 70 | Boldy Twistline |
-| 1408 | 70 | Aaron Wilkins |
-| 1409 | 70 | Ruben Perez |
-| 1410 | 70 | PlatinumRose |
-| 1411 | 70 | Wacky Brickmatch |
+| 1388 | 72 | April Murphy |
+| 1389 | 72 | Veronica Chan |
+| 1390 | 71 | Amy La Violette |
+| 1391 | 71 | Peachy Pusher |
+| 1392 | 71 | Ashley Cooke |
+| 1393 | 71 | Jazzy Climber |
+| 1394 | 71 | Kenya Lewis |
+| 1395 | 71 | Kb Ludiweci |
+| 1396 | 71 | Frothy Twisterfit |
+| 1397 | 71 | Saucy Brickroll |
+| 1398 | 71 | Christa Marie |
+| 1399 | 71 | Dapper Climber |
+| 1400 | 71 | Alison Welsh |
+| 1401 | 70 | Randy |
+| 1402 | 70 | StarChild |
+| 1403 | 70 | Br23klyn |
+| 1404 | 70 | Tammi Harne |
+| 1405 | 70 | Autumn Leslie |
+| 1406 | 70 | Kayd |
+| 1407 | 70 | Blockin88 |
+| 1408 | 70 | Boldy Twistline |
+| 1409 | 70 | Aaron Wilkins |
+| 1410 | 70 | Ruben Perez |
+| 1411 | 70 | PlatinumRose |
 | 1412 | 70 | Donnie Istillwill Straub |
 | 1413 | 70 | Anthony Caldwell |
 | 1414 | 70 | Ayanna James |
