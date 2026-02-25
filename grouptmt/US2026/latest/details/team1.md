@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 20:46:45 UTC
+# Standings for team1 as of 2026-02-25 20:47:23 UTC
 
 **Total Participants:** 2526
 
@@ -120,7 +120,7 @@
 | 112 | 972 | Seth Wesson |
 | 113 | 972 | Plucky Fallzone |
 | 114 | 972 | Hellsin |
-| 115 | 962 | Kellie |
+| 115 | 964 | Kellie |
 | 116 | 956 | Hyper |
 | 117 | 956 | Greg Hart |
 | 118 | 943 | Susan Ward |
@@ -359,10 +359,10 @@
 | 351 | 415 | Anielle Reagan |
 | 352 | 415 | Brian Richardsson |
 | 353 | 415 | Strig |
-| 354 | 412 | Alphonza Keyes Jr. |
-| 355 | 412 | Kipoi |
-| 356 | 411 | Gracie |
-| 357 | 410 | LaFontaine Leslie |
+| 354 | 413 | LaFontaine Leslie |
+| 355 | 412 | Alphonza Keyes Jr. |
+| 356 | 412 | Kipoi |
+| 357 | 411 | Gracie |
 | 358 | 407 | Lisa Miller |
 | 359 | 406 | Snappy Brickbuilder |
 | 360 | 406 | Bloknboy |
@@ -413,33 +413,33 @@
 | 405 | 384 | Casey Hintenach |
 | 406 | 384 | Larry Tilton |
 | 407 | 384 | Sonia Marquis |
-| 408 | 383 | Buttons Stemm |
-| 409 | 383 | Mighty Shatterfit |
+| 408 | 383 | Mighty Shatterfit |
+| 409 | 383 | Buttons Stemm |
 | 410 | 383 | ESC |
-| 411 | 382 | Rico Rico |
-| 412 | 382 | Kristen Meehan Wangerien |
+| 411 | 382 | Kristen Meehan Wangerien |
+| 412 | 382 | Nutty Spinblock |
 | 413 | 382 | Gina Bettikofer |
-| 414 | 382 | Nutty Spinblock |
+| 414 | 382 | Rico Rico |
 | 415 | 381 | Dizzy Riseclear |
 | 416 | 380 | Mary Love |
-| 417 | 379 | Austin James |
-| 418 | 379 | Billie Dawn Sparks |
+| 417 | 379 | Billie Dawn Sparks |
+| 418 | 379 | Austin James |
 | 419 | 378 | Fresno Beotoni |
 | 420 | 376 | Herm Junior |
-| 421 | 376 | Наталья Солоид |
-| 422 | 376 | Breanna Luna |
-| 423 | 374 | Nathan William |
-| 424 | 374 | Loony Bridgepiece |
+| 421 | 376 | Breanna Luna |
+| 422 | 376 | Наталья Солоид |
+| 423 | 374 | Loony Bridgepiece |
+| 424 | 374 | Nathan William |
 | 425 | 373 | Mitchel White |
-| 426 | 371 | MomOf2Angels |
-| 427 | 371 | Rick Pickup Raymur |
-| 428 | 371 | Crystal Cheresnowsky |
-| 429 | 370 | Dawon Ksk Capers |
-| 430 | 370 | Steph |
-| 431 | 370 | Amanda Wharton |
-| 432 | 370 | san |
-| 433 | 370 | Jeremy Maubert |
-| 434 | 370 | Corkey Steinmark |
+| 426 | 371 | Rick Pickup Raymur |
+| 427 | 371 | Corkey Steinmark |
+| 428 | 371 | MomOf2Angels |
+| 429 | 371 | Crystal Cheresnowsky |
+| 430 | 370 | Dawon Ksk Capers |
+| 431 | 370 | Steph |
+| 432 | 370 | Amanda Wharton |
+| 433 | 370 | san |
+| 434 | 370 | Jeremy Maubert |
 | 435 | 369 | Quirky Pusher |
 | 436 | 369 | I Am |
 | 437 | 369 | Brave Wrecker |
@@ -660,19 +660,19 @@
 | 652 | 260 | Starseed |
 | 653 | 259 | DENOTS42OSPOT |
 | 654 | 259 | Miguel Teixeira |
-| 655 | 257 | UffleFluff |
-| 656 | 257 | Brian Ash |
-| 657 | 257 | Bucketsmasher |
-| 658 | 256 | Renata Mabie |
-| 659 | 255 | Jaymee Eva Shannon |
-| 660 | 255 | Sandy Jones |
-| 661 | 255 | Dawn Rannelli |
-| 662 | 255 | Dennis McNeal |
-| 663 | 254 | Gauge Slusher |
-| 664 | 254 | Jenny Hughes |
-| 665 | 254 | Jennifer Crawford |
-| 666 | 254 | MRdot Rooski |
-| 667 | 254 | monstermutt |
+| 655 | 258 | monstermutt |
+| 656 | 257 | UffleFluff |
+| 657 | 257 | Brian Ash |
+| 658 | 257 | Bucketsmasher |
+| 659 | 256 | Renata Mabie |
+| 660 | 255 | Jaymee Eva Shannon |
+| 661 | 255 | Sandy Jones |
+| 662 | 255 | Dawn Rannelli |
+| 663 | 255 | Dennis McNeal |
+| 664 | 254 | Gauge Slusher |
+| 665 | 254 | Jenny Hughes |
+| 666 | 254 | Jennifer Crawford |
+| 667 | 254 | MRdot Rooski |
 | 668 | 254 | William Blackwell |
 | 669 | 254 | Jeff Jack II |
 | 670 | 254 | Sarah Bersano |
@@ -680,26 +680,26 @@
 | 672 | 253 | Jonah Dunn |
 | 673 | 252 | Ruf Lowman |
 | 674 | 252 | Craig Mcgonigle |
-| 675 | 251 | Collette Frank |
-| 676 | 251 | Jonathan Joshua |
-| 677 | 250 | Natasha Hollowell Causey |
-| 678 | 250 | Chipper Piecefit |
+| 675 | 251 | Jonathan Joshua |
+| 676 | 251 | Collette Frank |
+| 677 | 250 | Chipper Piecefit |
+| 678 | 250 | Natasha Hollowell Causey |
 | 679 | 249 | Peachy Wipebuilder |
 | 680 | 249 | Brave Stacky |
 | 681 | 247 | Nate Carter |
-| 682 | 247 | Nikki Fridley |
-| 683 | 246 | Frothy Blockbuilder |
-| 684 | 246 | Lucinda Thacker |
-| 685 | 246 | Boldy Snapfit |
-| 686 | 246 | Jeff Newinski |
-| 687 | 246 | ken |
-| 688 | 246 | Slinky Tile |
-| 689 | 246 | Kirk Torrey |
-| 690 | 246 | Nicole Nikki |
-| 691 | 246 | Kkl |
-| 692 | 246 | Chadocho |
-| 693 | 246 | Owicked1 |
-| 694 | 246 | Denise Belanger |
+| 682 | 247 | Denise Belanger |
+| 683 | 247 | Nikki Fridley |
+| 684 | 246 | Boldy Snapfit |
+| 685 | 246 | Lucinda Thacker |
+| 686 | 246 | Frothy Blockbuilder |
+| 687 | 246 | Jeff Newinski |
+| 688 | 246 | ken |
+| 689 | 246 | Slinky Tile |
+| 690 | 246 | Kirk Torrey |
+| 691 | 246 | Nicole Nikki |
+| 692 | 246 | Kkl |
+| 693 | 246 | Chadocho |
+| 694 | 246 | Owicked1 |
 | 695 | 245 | Dustin Johnston |
 | 696 | 245 | Nutty Glide |
 | 697 | 245 | Dawn Henderson |

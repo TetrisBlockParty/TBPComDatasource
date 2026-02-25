@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 20:46:45 UTC
+# Standings for team4 as of 2026-02-25 20:47:23 UTC
 
 **Total Participants:** 2261
 
@@ -23,7 +23,7 @@
 | 15 | 3844 | Melissa Adams |
 | 16 | 3784 | GreenJeepGirl |
 | 17 | 3716 | Ancient Intuition |
-| 18 | 3319 | Clarence Patawaran |
+| 18 | 3334 | Clarence Patawaran |
 | 19 | 3040 | Denny Shives |
 | 20 | 2732 | Jason Allen |
 | 21 | 2529 | Misty Hollibaugh |
@@ -97,8 +97,8 @@
 | 89 | 1089 | Monica Daley |
 | 90 | 1087 | Jeremy Steines |
 | 91 | 1082 | Dion Crommarty |
-| 92 | 1071 | loulou |
-| 93 | 1063 | Jonathan Kimbrough |
+| 92 | 1073 | Jonathan Kimbrough |
+| 93 | 1071 | loulou |
 | 94 | 1060 | Edward White |
 | 95 | 1056 | Valerie Roberts |
 | 96 | 1047 | Nope Young |
@@ -662,10 +662,10 @@
 | 654 | 249 | KyngKliff |
 | 655 | 248 | Chirpy Basepiece |
 | 656 | 248 | Jacob Campbell |
-| 657 | 247 | Rebecca A Rit |
-| 658 | 247 | Karen Lambert |
-| 659 | 246 | Colton Stamper |
-| 660 | 246 | Brad Campbell |
+| 657 | 248 | Brad Campbell |
+| 658 | 247 | Rebecca A Rit |
+| 659 | 247 | Karen Lambert |
+| 660 | 246 | Colton Stamper |
 | 661 | 246 | Ali Ian |
 | 662 | 246 | Norman Klick |
 | 663 | 245 | Derick |
@@ -1029,15 +1029,15 @@
 | 1021 | 142 | Frank Cook |
 | 1022 | 142 | Aly Eggers |
 | 1023 | 142 | Juan Barron |
-| 1024 | 141 | Calen Torez |
-| 1025 | 141 | Shelly Goad |
-| 1026 | 141 | Loony Slide |
-| 1027 | 140 | SloFut Mataryal BrownBwoy |
-| 1028 | 140 | Megan Crane |
-| 1029 | 140 | RonRico Thomas |
-| 1030 | 140 | Wacky Blockclear |
-| 1031 | 139 | Camille |
-| 1032 | 139 | Raeann Gibson |
+| 1024 | 142 | Raeann Gibson |
+| 1025 | 141 | Calen Torez |
+| 1026 | 141 | Shelly Goad |
+| 1027 | 141 | Loony Slide |
+| 1028 | 140 | SloFut Mataryal BrownBwoy |
+| 1029 | 140 | Megan Crane |
+| 1030 | 140 | RonRico Thomas |
+| 1031 | 140 | Wacky Blockclear |
+| 1032 | 139 | Camille |
 | 1033 | 138 | Clever Tilefall |
 | 1034 | 138 | JEan Price |
 | 1035 | 138 | Takeshia Knowles |
@@ -1394,39 +1394,39 @@
 | 1386 | 76 | Dalek’sMercy |
 | 1387 | 76 | Jazzy Climber |
 | 1388 | 76 | Chrystal Eppard |
-| 1389 | 75 | Sunny68 |
-| 1390 | 75 | Dena Shoop |
-| 1391 | 75 | Miriam Ruiz |
-| 1392 | 74 | Charles Chuckie |
-| 1393 | 74 | pharoah |
-| 1394 | 74 | Kathie Morris-Buck |
-| 1395 | 74 | Kevin L Cafleux |
+| 1389 | 76 | Tarius Jackson |
+| 1390 | 75 | Sunny68 |
+| 1391 | 75 | Dena Shoop |
+| 1392 | 75 | Miriam Ruiz |
+| 1393 | 74 | Charles Chuckie |
+| 1394 | 74 | pharoah |
+| 1395 | 74 | Kathie Morris-Buck |
 | 1396 | 74 | Jocelyn L. Williams |
-| 1397 | 74 | ShadowWanderrr |
-| 1398 | 74 | Stef Verisotosky |
-| 1399 | 73 | Gerald Anderson |
+| 1397 | 74 | Kevin L Cafleux |
+| 1398 | 74 | ShadowWanderrr |
+| 1399 | 74 | Stef Verisotosky |
 | 1400 | 73 | Cool Shatterclear |
-| 1401 | 73 | Ohmatae |
-| 1402 | 73 | KnCson |
-| 1403 | 73 | Adam Gruttner |
-| 1404 | 73 | Brain Joy |
-| 1405 | 73 | Angelina Rous |
-| 1406 | 73 | Tarius Jackson |
-| 1407 | 73 | De'Chon Millender-Rogers |
-| 1408 | 73 | Serene Martell |
-| 1409 | 72 | Veronica Chan |
-| 1410 | 72 | Daring Spinzone |
-| 1411 | 72 | Melitta Boisvert |
-| 1412 | 72 | London Murphy |
-| 1413 | 72 | Reggie |
-| 1414 | 72 | Giddy Swiper |
-| 1415 | 72 | April Murphy |
-| 1416 | 72 | Wacky Brickmatch |
-| 1417 | 72 | Chauncy Ramone Martin |
+| 1401 | 73 | Serene Martell |
+| 1402 | 73 | Ohmatae |
+| 1403 | 73 | Gerald Anderson |
+| 1404 | 73 | De'Chon Millender-Rogers |
+| 1405 | 73 | KnCson |
+| 1406 | 73 | Angelina Rous |
+| 1407 | 73 | Brain Joy |
+| 1408 | 73 | Adam Gruttner |
+| 1409 | 72 | Daring Spinzone |
+| 1410 | 72 | Melitta Boisvert |
+| 1411 | 72 | Reggie |
+| 1412 | 72 | Veronica Chan |
+| 1413 | 72 | Wacky Brickmatch |
+| 1414 | 72 | Tara Karen |
+| 1415 | 72 | Christopher Cand |
+| 1416 | 72 | Perky Towerpiece |
+| 1417 | 72 | April Murphy |
 | 1418 | 72 | Ray Binkley |
-| 1419 | 72 | Tara Karen |
-| 1420 | 72 | Christopher Cand |
-| 1421 | 72 | Perky Towerpiece |
+| 1419 | 72 | Chauncy Ramone Martin |
+| 1420 | 72 | Giddy Swiper |
+| 1421 | 72 | London Murphy |
 | 1422 | 71 | Frothy Twisterfit |
 | 1423 | 71 | Chris Lee |
 | 1424 | 71 | Ashley Cooke |
