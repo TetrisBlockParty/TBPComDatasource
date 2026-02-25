@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 00:12:44 UTC
+# Standings for team4 as of 2026-02-25 00:13:22 UTC
 
 **Total Participants:** 2108
 
@@ -105,7 +105,7 @@
 | 97 | 950 | Nope Young |
 | 98 | 936 | Judy Cox |
 | 99 | 930 | Jason Hart |
-| 100 | 905 | Shauna Havard |
+| 100 | 910 | Shauna Havard |
 | 101 | 903 | Diana Houts |
 | 102 | 899 | Lucille Truesdale |
 | 103 | 887 | Amy Suckarieh |
@@ -169,7 +169,7 @@
 | 161 | 657 | April Rondinone |
 | 162 | 657 | Erin Thomas |
 | 163 | 655 | Steph Marie |
-| 164 | 650 | 🥔🥔 Spudz |
+| 164 | 654 | 🥔🥔 Spudz |
 | 165 | 648 | Berklie Apedaile |
 | 166 | 648 | Jenna Ingersoll |
 | 167 | 647 | KM8 |
@@ -250,8 +250,8 @@
 | 242 | 504 | Keshia Lyons |
 | 243 | 503 | Leslie Thomas |
 | 244 | 501 | Brickh4us |
-| 245 | 499 | Kesha Brady |
-| 246 | 496 | meowmew |
+| 245 | 500 | meowmew |
+| 246 | 499 | Kesha Brady |
 | 247 | 495 | Joeliecea Cobb |
 | 248 | 495 | Jim Hart |
 | 249 | 489 | Jessi Cinotto |
@@ -394,14 +394,14 @@
 | 386 | 351 | Dana Scott |
 | 387 | 351 | Metsfan |
 | 388 | 351 | Korcoran Smith |
-| 389 | 350 | KayM |
-| 390 | 350 | Gracie Ann Taylor |
-| 391 | 349 | jim |
-| 392 | 349 | Groovy Gridlock |
-| 393 | 347 | Jay You |
-| 394 | 347 | Candice Carasiti |
-| 395 | 347 | Ruby Khalisadar |
-| 396 | 345 | Jared Gutwein |
+| 389 | 350 | Jared Gutwein |
+| 390 | 350 | KayM |
+| 391 | 350 | Gracie Ann Taylor |
+| 392 | 349 | jim |
+| 393 | 349 | Groovy Gridlock |
+| 394 | 347 | Jay You |
+| 395 | 347 | Candice Carasiti |
+| 396 | 347 | Ruby Khalisadar |
 | 397 | 344 | Glitzy Corner |
 | 398 | 343 | ImJustMe |
 | 399 | 343 | HastyGrabber |
@@ -451,17 +451,17 @@
 | 443 | 309 | Kevin Blevins |
 | 444 | 308 | Angela Geist Jusinski |
 | 445 | 308 | Deb Rubeck |
-| 446 | 308 | Shainne Brewer |
-| 447 | 308 | Eri Kka |
-| 448 | 306 | L Bear Champion |
-| 449 | 306 | Bethany Ison |
-| 450 | 306 | PeaceOs |
-| 451 | 305 | Kathy Allen |
-| 452 | 305 | 07VHVW |
-| 453 | 304 | Sarah Neathery |
-| 454 | 304 | ĥuf |
-| 455 | 303 | Jennifer Brown |
-| 456 | 303 | Laurel Coppess |
+| 446 | 308 | Laurel Coppess |
+| 447 | 308 | Shainne Brewer |
+| 448 | 308 | Eri Kka |
+| 449 | 306 | L Bear Champion |
+| 450 | 306 | Bethany Ison |
+| 451 | 306 | PeaceOs |
+| 452 | 305 | Kathy Allen |
+| 453 | 305 | 07VHVW |
+| 454 | 304 | Sarah Neathery |
+| 455 | 304 | ĥuf |
+| 456 | 303 | Jennifer Brown |
 | 457 | 303 | bloat princess |
 | 458 | 302 | Kourtney Barnes |
 | 459 | 302 | Ronald Brown Jr. |
@@ -890,18 +890,18 @@
 | 882 | 149 | Kelly Duncan |
 | 883 | 149 | Adam Randall |
 | 884 | 149 | Renee Marshall |
-| 885 | 149 | Verna Neal |
-| 886 | 149 | Shy |
-| 887 | 149 | Tiny Raine |
-| 888 | 148 | Mary Therese Benden Cole |
-| 889 | 148 | Chilly Filler |
-| 890 | 148 | Emily Babic |
-| 891 | 147 | Tracy Dawn |
-| 892 | 146 | Molly Ananda Rickerson |
-| 893 | 146 | Cassandra Stewart |
-| 894 | 146 | JD |
-| 895 | 146 | Kari Rose Haché |
-| 896 | 146 | Lakesha Johnson |
+| 885 | 149 | Lakesha Johnson |
+| 886 | 149 | Verna Neal |
+| 887 | 149 | Shy |
+| 888 | 149 | Tiny Raine |
+| 889 | 148 | Mary Therese Benden Cole |
+| 890 | 148 | Chilly Filler |
+| 891 | 148 | Emily Babic |
+| 892 | 147 | Tracy Dawn |
+| 893 | 146 | Molly Ananda Rickerson |
+| 894 | 146 | Cassandra Stewart |
+| 895 | 146 | JD |
+| 896 | 146 | Kari Rose Haché |
 | 897 | 146 | Rampai |
 | 898 | 145 | Austin Trent Weaver |
 | 899 | 145 | Hoppy Combo |
@@ -1119,17 +1119,17 @@
 | 1111 | 101 | Wendy De Kam |
 | 1112 | 101 | Jessica N Cristina Grindstaff |
 | 1113 | 101 | Speedy Clearer |
-| 1114 | 101 | Farrell Williams Jr. |
-| 1115 | 101 | Saulc1991 |
-| 1116 | 101 | Joe Beardslee |
-| 1117 | 101 | Aleasha Haukenfrers |
-| 1118 | 101 | Chirpy Rollbuilder |
-| 1119 | 100 | Aly Eggers |
-| 1120 | 100 | Geetara |
-| 1121 | 100 | Chipper Strikerbuilder |
-| 1122 | 100 | Travis Poe |
-| 1123 | 100 | Brave Tilebuilder |
-| 1124 | 100 | Michelle Abrams |
+| 1114 | 101 | Michelle Abrams |
+| 1115 | 101 | Farrell Williams Jr. |
+| 1116 | 101 | Saulc1991 |
+| 1117 | 101 | Joe Beardslee |
+| 1118 | 101 | Aleasha Haukenfrers |
+| 1119 | 101 | Chirpy Rollbuilder |
+| 1120 | 100 | Aly Eggers |
+| 1121 | 100 | Geetara |
+| 1122 | 100 | Chipper Strikerbuilder |
+| 1123 | 100 | Travis Poe |
+| 1124 | 100 | Brave Tilebuilder |
 | 1125 | 100 | BJ Snyder |
 | 1126 | 100 | Peppy Tilebuilder |
 | 1127 | 99 | Camille |
