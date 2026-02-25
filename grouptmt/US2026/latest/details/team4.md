@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 07:16:46 UTC
+# Standings for team4 as of 2026-02-25 07:17:23 UTC
 
 **Total Participants:** 2177
 
@@ -164,11 +164,11 @@
 | 156 | 719 | Raegan Lane-Ross |
 | 157 | 710 | Korcoran Smith |
 | 158 | 709 | Rebecca Morris |
-| 159 | 702 | Nita Wells |
-| 160 | 699 | Rodney McMath Jr. |
-| 161 | 696 | Desi Desporte |
-| 162 | 686 | Ernest Maxwell |
-| 163 | 682 | Cursed Hag |
+| 159 | 704 | Cursed Hag |
+| 160 | 702 | Nita Wells |
+| 161 | 699 | Rodney McMath Jr. |
+| 162 | 696 | Desi Desporte |
+| 163 | 686 | Ernest Maxwell |
 | 164 | 678 | April Rondinone |
 | 165 | 678 | Adam Stephanie Parker |
 | 166 | 676 | Cindy Looper |
@@ -955,9 +955,9 @@
 | 947 | 146 | Marjorie Sims Rentz |
 | 948 | 145 | Austin Trent Weaver |
 | 949 | 145 | Hoppy Combo |
-| 950 | 145 | Aj |
-| 951 | 144 | Eli Sanchez |
-| 952 | 144 | Dot Flanagan |
+| 950 | 145 | Dot Flanagan |
+| 951 | 145 | Aj |
+| 952 | 144 | Eli Sanchez |
 | 953 | 143 | Perky Shatterer |
 | 954 | 143 | Spunky Tower |
 | 955 | 143 | RobinC |
