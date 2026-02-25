@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 10:22:43 UTC
+# Standings for team1 as of 2026-02-25 10:23:22 UTC
 
 **Total Participants:** 2450
 
@@ -16,8 +16,8 @@
 | 8 | 5555 | Jessica Rabon |
 | 9 | 5425 | Christina Costantino |
 | 10 | 5319 | Fancy Shuffler |
-| 11 | 5067 | Todd Welch |
-| 12 | 5056 | Heidi Feurer |
+| 11 | 5076 | Heidi Feurer |
+| 12 | 5067 | Todd Welch |
 | 13 | 4982 | Wei Ching Fang |
 | 14 | 4878 | COOL as Icer |
 | 15 | 3592 | Perky Shiftsnap |
@@ -597,22 +597,22 @@
 | 589 | 266 | Terika Rodriguez |
 | 590 | 265 | Khatia Sikharulidze |
 | 591 | 265 | Josh Smith |
-| 592 | 264 | Frisky Risebuilder |
-| 593 | 264 | Beau Galvan |
-| 594 | 263 | Ja Ce |
-| 595 | 263 | Equinn |
-| 596 | 262 | Amanda Marie Sutton |
-| 597 | 262 | Dee Doris Ewald Flynn |
-| 598 | 261 | Corrie Grant Smithson |
-| 599 | 261 | Nerdy Curvebuilder |
-| 600 | 261 | Alex Nicol |
-| 601 | 261 | Playtray |
-| 602 | 260 | Mathew Harris |
-| 603 | 260 | Sunflower |
-| 604 | 260 | Divaaa |
-| 605 | 260 | Lacy Wolfe |
-| 606 | 260 | Colleen Wise |
-| 607 | 259 | Rick Pickup Raymur |
+| 592 | 265 | Rick Pickup Raymur |
+| 593 | 264 | Frisky Risebuilder |
+| 594 | 264 | Beau Galvan |
+| 595 | 263 | Ja Ce |
+| 596 | 263 | Equinn |
+| 597 | 262 | Amanda Marie Sutton |
+| 598 | 262 | Dee Doris Ewald Flynn |
+| 599 | 261 | Corrie Grant Smithson |
+| 600 | 261 | Nerdy Curvebuilder |
+| 601 | 261 | Alex Nicol |
+| 602 | 261 | Playtray |
+| 603 | 260 | Mathew Harris |
+| 604 | 260 | Sunflower |
+| 605 | 260 | Divaaa |
+| 606 | 260 | Lacy Wolfe |
+| 607 | 260 | Colleen Wise |
 | 608 | 259 | DENOTS42OSPOT |
 | 609 | 257 | UffleFluff |
 | 610 | 257 | Tipsy Tiltpiece |
