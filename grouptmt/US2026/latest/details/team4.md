@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 01:54:43 UTC
+# Standings for team4 as of 2026-02-25 01:55:22 UTC
 
 **Total Participants:** 2130
 
@@ -43,11 +43,11 @@
 | 35 | 1730 | LS |
 | 36 | 1719 | Isabella Blanco |
 | 37 | 1695 | Shane Kalamata Platoon |
-| 38 | 1677 | Tammi Crnza |
-| 39 | 1666 | Koshin Abdirahman |
-| 40 | 1659 | Cherrish Duren |
-| 41 | 1654 | Michelle Marie |
-| 42 | 1651 | Rebecca Moulton Pinciaro |
+| 38 | 1682 | Rebecca Moulton Pinciaro |
+| 39 | 1677 | Tammi Crnza |
+| 40 | 1666 | Koshin Abdirahman |
+| 41 | 1659 | Cherrish Duren |
+| 42 | 1654 | Michelle Marie |
 | 43 | 1644 | Jen Allison |
 | 44 | 1631 | Goatimus Lombardi |
 | 45 | 1616 | Dee Kay |
@@ -430,8 +430,8 @@
 | 422 | 332 | Christine Simmons |
 | 423 | 331 | DQ Martin |
 | 424 | 330 | Bussy Bay |
-| 425 | 329 | Meagan Nicole |
-| 426 | 329 | Tipsy Cascader |
+| 425 | 330 | Tipsy Cascader |
+| 426 | 329 | Meagan Nicole |
 | 427 | 328 | Badatvs |
 | 428 | 327 | Penny Dean |
 | 429 | 327 | April Spoelma |
@@ -611,29 +611,29 @@
 | 603 | 237 | Colton Stamper |
 | 604 | 236 | Shane Vick |
 | 605 | 236 | JoJo |
-| 606 | 235 | Peppy Drop |
-| 607 | 235 | Shirl |
-| 608 | 235 | LaDonna LovinmesomeMe Lambert |
-| 609 | 234 | Nicole Serio |
-| 610 | 234 | B Renee Desjardin |
-| 611 | 234 | Smiley Shifter |
-| 612 | 234 | Terrance Fung |
-| 613 | 234 | Darrin Rubalcava |
-| 614 | 234 | Wacky Blockclear |
-| 615 | 233 | Stacy |
-| 616 | 233 | Katie Alexander |
-| 617 | 233 | Robert Rodriguez |
-| 618 | 232 | Flashy Jumper |
-| 619 | 232 | Eric Wren |
+| 606 | 236 | Eric Wren |
+| 607 | 235 | Peppy Drop |
+| 608 | 235 | Shirl |
+| 609 | 235 | LaDonna LovinmesomeMe Lambert |
+| 610 | 234 | Nicole Serio |
+| 611 | 234 | B Renee Desjardin |
+| 612 | 234 | Smiley Shifter |
+| 613 | 234 | Terrance Fung |
+| 614 | 234 | Darrin Rubalcava |
+| 615 | 234 | Wacky Blockclear |
+| 616 | 233 | Stacy |
+| 617 | 233 | Katie Alexander |
+| 618 | 233 | Robert Rodriguez |
+| 619 | 232 | Flashy Jumper |
 | 620 | 232 | Dandy Cascadefit |
 | 621 | 231 | Sunny Filler |
-| 622 | 229 | Steve |
-| 623 | 229 | Rebecca Blake |
-| 624 | 229 | Dante Korleon |
-| 625 | 229 | Marco |
+| 622 | 229 | Rebecca Blake |
+| 623 | 229 | Marco |
+| 624 | 229 | Steve |
+| 625 | 229 | Dante Korleon |
 | 626 | 229 | Denise Jones |
-| 627 | 228 | Jesus Garcia |
-| 628 | 228 | Funky Risepiece |
+| 627 | 228 | Funky Risepiece |
+| 628 | 228 | Jesus Garcia |
 | 629 | 227 | Asher |
 | 630 | 227 | Steven Roe |
 | 631 | 227 | 2slo |
@@ -655,9 +655,9 @@
 | 647 | 220 | LADY J |
 | 648 | 220 | Karen Lambert |
 | 649 | 220 | SammieJo Guy |
-| 650 | 219 | Niki Bush |
-| 651 | 219 | Tanner Lund |
-| 652 | 219 | Undeniable Williams |
+| 650 | 219 | Tanner Lund |
+| 651 | 219 | Undeniable Williams |
+| 652 | 219 | Niki Bush |
 | 653 | 219 | Tisha Cammack |
 | 654 | 219 | Courtney Lacerte |
 | 655 | 219 | Shiny Twistpiece |
@@ -687,25 +687,25 @@
 | 679 | 211 | Daresha Fair |
 | 680 | 211 | Flashy Blockpiece |
 | 681 | 211 | Josh Chapell |
-| 682 | 210 | Hediyuda |
-| 683 | 210 | Lisa Allen Frisk |
+| 682 | 210 | Lisa Allen Frisk |
+| 683 | 210 | Hediyuda |
 | 684 | 210 | Emily Regan Wills |
 | 685 | 210 | Bubbly Setter |
 | 686 | 210 | Hyper Shatterbuilder |
-| 687 | 209 | Cheery Gridlock |
-| 688 | 209 | Bumpy Morris |
-| 689 | 209 | Matthew Pate |
-| 690 | 209 | Girldadtpa |
-| 691 | 209 | Elle Joe |
-| 692 | 209 | Stephanie Jones |
+| 687 | 210 | Hanh Pham |
+| 688 | 209 | Cheery Gridlock |
+| 689 | 209 | Bumpy Morris |
+| 690 | 209 | Matthew Pate |
+| 691 | 209 | Girldadtpa |
+| 692 | 209 | Elle Joe |
 | 693 | 209 | Kujuanna Hammon |
-| 694 | 209 | Calvin Dennis |
-| 695 | 208 | JoAnna Zalkovsky |
-| 696 | 208 | Hanh Pham |
+| 694 | 209 | Stephanie Jones |
+| 695 | 209 | Calvin Dennis |
+| 696 | 208 | JoAnna Zalkovsky |
 | 697 | 208 | Walid Elsabee |
 | 698 | 207 | Nikki Wilson |
-| 699 | 206 | Nijmeh Hinchsliff |
-| 700 | 206 | Rosemary Foster |
+| 699 | 206 | Rosemary Foster |
+| 700 | 206 | Nijmeh Hinchsliff |
 | 701 | 206 | Cool Clusterfit |
 | 702 | 206 | Tianna Frey |
 | 703 | 205 | kaeliwyn |
