@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 02:42:44 UTC
+# Standings for team1 as of 2026-02-25 02:43:22 UTC
 
 **Total Participants:** 2376
 
@@ -35,7 +35,7 @@
 | 27 | 2040 | Jennifer Cates |
 | 28 | 1962 | Joe Smith |
 | 29 | 1884 | Amanda Jarnagin |
-| 30 | 1851 | Amanda Summey Schoemer |
+| 30 | 1863 | Amanda Summey Schoemer |
 | 31 | 1829 | Hyp James NObettadanluvarat |
 | 32 | 1814 | Roger Aschbrenner |
 | 33 | 1784 | Brenda Stewart |
@@ -968,62 +968,62 @@
 | 960 | 148 | Katie Wood |
 | 961 | 148 | Angel Albright |
 | 962 | 148 | Jazzy Clicker |
-| 963 | 147 | Anthony T. Fults |
-| 964 | 147 | Javyjavz |
-| 965 | 146 | Robert Young |
-| 966 | 146 | Lively Slammer |
-| 967 | 146 | Cheeky Curvetile |
-| 968 | 146 | Staci Walker |
-| 969 | 145 | Smacked |
-| 970 | 145 | Frisky Twistslam |
-| 971 | 145 | bgiu |
-| 972 | 145 | Tim Giacobone |
-| 973 | 144 | Austin Jones |
-| 974 | 144 | Kerry Lee Powell |
-| 975 | 144 | Tara |
-| 976 | 144 | David Hernandez |
-| 977 | 143 | Kristi Kinard |
+| 963 | 147 | David Hernandez |
+| 964 | 147 | Anthony T. Fults |
+| 965 | 147 | Javyjavz |
+| 966 | 146 | Robert Young |
+| 967 | 146 | Lively Slammer |
+| 968 | 146 | Cheeky Curvetile |
+| 969 | 146 | Staci Walker |
+| 970 | 145 | Smacked |
+| 971 | 145 | Frisky Twistslam |
+| 972 | 145 | bgiu |
+| 973 | 145 | Tim Giacobone |
+| 974 | 144 | Austin Jones |
+| 975 | 144 | Kerry Lee Powell |
+| 976 | 144 | Tara |
+| 977 | 143 | Mike Hobby |
 | 978 | 143 | Unicorn |
-| 979 | 143 | Mike Hobby |
-| 980 | 143 | Cheery Zonegrid |
-| 981 | 143 | Jacob Shaddock |
-| 982 | 143 | Chilly Linebuilder |
-| 983 | 143 | Dreamy Brickclear |
+| 979 | 143 | Jacob Shaddock |
+| 980 | 143 | Dreamy Brickclear |
+| 981 | 143 | Chilly Linebuilder |
+| 982 | 143 | Cheery Zonegrid |
+| 983 | 143 | Kristi Kinard |
 | 984 | 142 | Frizliz17 |
-| 985 | 142 | Cynthia Pool |
-| 986 | 142 | Nick |
-| 987 | 140 | Kyle Baker |
-| 988 | 140 | Shawn Thisismyoldaccount Gilmore |
+| 985 | 142 | Nick |
+| 986 | 142 | Cynthia Pool |
+| 987 | 140 | Shawn Thisismyoldaccount Gilmore |
+| 988 | 140 | Kyle Baker |
 | 989 | 140 | CMG |
 | 990 | 139 | Mighty Fallzone |
-| 991 | 139 | Nutty Clusterline |
-| 992 | 139 | Connie Balentine |
+| 991 | 139 | Connie Balentine |
+| 992 | 139 | Nutty Clusterline |
 | 993 | 139 | Frisky Framezone |
-| 994 | 138 | Mar |
+| 994 | 138 | SophieG |
 | 995 | 138 | Gayle Costa-Matz |
-| 996 | 138 | SophieG |
+| 996 | 138 | Mar |
 | 997 | 138 | Vahid Khaleghi |
-| 998 | 137 | Amber Johnson-Grantham |
-| 999 | 137 | Nellie Cummings |
+| 998 | 137 | Nellie Cummings |
+| 999 | 137 | Roselyn Gomez |
 | 1000 | 137 | Wanda Rodriguez |
 | 1001 | 137 | Matthew Vd |
-| 1002 | 137 | Sonya Gail Goodman |
-| 1003 | 137 | Kalesha Tteirrah |
+| 1002 | 137 | Kalesha Tteirrah |
+| 1003 | 137 | Amber Johnson-Grantham |
 | 1004 | 137 | David Bourne |
-| 1005 | 137 | Roselyn Gomez |
-| 1006 | 136 | Dreamy Basepiece |
-| 1007 | 136 | QUEENIE K |
-| 1008 | 136 | Daniel R Morgan |
-| 1009 | 136 | Susan Walser Osborne |
-| 1010 | 136 | Swanky Crasher |
-| 1011 | 136 | Chris Baker |
-| 1012 | 136 | Jennifer Chilton-Metlock |
+| 1005 | 137 | Sonya Gail Goodman |
+| 1006 | 136 | Swanky Crasher |
+| 1007 | 136 | Dreamy Basepiece |
+| 1008 | 136 | Susan Walser Osborne |
+| 1009 | 136 | Daniel R Morgan |
+| 1010 | 136 | QUEENIE K |
+| 1011 | 136 | Jennifer Chilton-Metlock |
+| 1012 | 136 | Chris Baker |
 | 1013 | 136 | George Dalton |
-| 1014 | 135 | Sean McErlane |
-| 1015 | 135 | Bye Love |
+| 1014 | 135 | Bye Love |
+| 1015 | 135 | Sean McErlane |
 | 1016 | 135 | Spicy Zoner |
-| 1017 | 134 | Nykia Smith |
-| 1018 | 134 | MagaMan |
+| 1017 | 134 | MagaMan |
+| 1018 | 134 | Nykia Smith |
 | 1019 | 134 | Mighty Basegrid |
 | 1020 | 134 | Brahim Amara |
 | 1021 | 134 | Chilly Matchbuilder |
@@ -1182,83 +1182,83 @@
 | 1174 | 106 | Honey |
 | 1175 | 106 | Slinky Fitblock |
 | 1176 | 105 | Adam Charles |
-| 1177 | 105 | Ebony Hill |
-| 1178 | 105 | Nerdy Gridlock |
-| 1179 | 105 | Jolly Climber |
+| 1177 | 105 | Nerdy Gridlock |
+| 1178 | 105 | Jolly Climber |
+| 1179 | 105 | Ebony Hill |
 | 1180 | 105 | Felicia Jones |
-| 1181 | 104 | Cecilia Thompson |
-| 1182 | 104 | Fancy Risebuilder |
-| 1183 | 104 | Flashy Gridroll |
-| 1184 | 104 | Giggy Combofall |
+| 1181 | 104 | Fancy Risebuilder |
+| 1182 | 104 | Cecilia Thompson |
+| 1183 | 104 | Giggy Combofall |
+| 1184 | 104 | Flashy Gridroll |
 | 1185 | 104 | OneCrazyGator |
 | 1186 | 104 | Zippy Buildsnap |
 | 1187 | 104 | Johanna Burke |
 | 1188 | 104 | Nichole Antonishak |
 | 1189 | 104 | Ellen Newman |
-| 1190 | 103 | Dreamy Fitzone |
-| 1191 | 103 | Margaret Rose |
+| 1190 | 103 | Margaret Rose |
+| 1191 | 103 | Dreamy Fitzone |
 | 1192 | 103 | Meri Mass |
 | 1193 | 103 | Josh Yazvac |
-| 1194 | 103 | Jazzy Clearbuilder |
-| 1195 | 103 | Adriansoky |
-| 1196 | 103 | Michael Hughes |
-| 1197 | 102 | osodabear |
+| 1194 | 103 | cola |
+| 1195 | 103 | Jazzy Clearbuilder |
+| 1196 | 103 | Adriansoky |
+| 1197 | 103 | Michael Hughes |
 | 1198 | 102 | Stephanie Randall |
 | 1199 | 102 | Alice Johnson |
-| 1200 | 102 | Jamie Vander Velden |
-| 1201 | 102 | Erik Hesner |
-| 1202 | 101 | Funky Rollfit |
-| 1203 | 101 | Ash Whitley |
+| 1200 | 102 | Erik Hesner |
+| 1201 | 102 | osodabear |
+| 1202 | 102 | Jamie Vander Velden |
+| 1203 | 101 | Laura Lee Christiansen |
 | 1204 | 101 | Kia Jenae |
-| 1205 | 101 | Laura Lee Christiansen |
-| 1206 | 101 | Alexx |
-| 1207 | 101 | Kristal Kay |
-| 1208 | 101 | Michele Baucom |
-| 1209 | 101 | Ana Estevez |
-| 1210 | 100 | Plucky Tiltpiece |
-| 1211 | 100 | Kellie |
-| 1212 | 100 | Serena |
-| 1213 | 100 | Jason Philp |
-| 1214 | 100 | Tipsy Gridmatch |
-| 1215 | 100 | Spicy Tilefall |
-| 1216 | 100 | Ike Williams |
-| 1217 | 99 | Unelanuhi Belladonna Mystikal Bomar |
-| 1218 | 99 | Salih Atasoy |
+| 1205 | 101 | Michele Baucom |
+| 1206 | 101 | Kristal Kay |
+| 1207 | 101 | Ana Estevez |
+| 1208 | 101 | Alexx |
+| 1209 | 101 | Ash Whitley |
+| 1210 | 101 | Funky Rollfit |
+| 1211 | 100 | Tipsy Gridmatch |
+| 1212 | 100 | Ike Williams |
+| 1213 | 100 | Spicy Tilefall |
+| 1214 | 100 | Plucky Tiltpiece |
+| 1215 | 100 | Kellie |
+| 1216 | 100 | Serena |
+| 1217 | 100 | Jason Philp |
+| 1218 | 99 | Michael Vanwinkle |
 | 1219 | 99 | Elizabeth Shaw |
-| 1220 | 99 | Tabetha Craddock |
-| 1221 | 99 | Michael Vanwinkle |
-| 1222 | 99 | Dropitliktithot |
-| 1223 | 99 | 804RVAME |
-| 1224 | 98 | Chelsea Simpson |
-| 1225 | 98 | Ghost187 |
-| 1226 | 98 | Jasmine Del Real Est |
+| 1220 | 99 | 804RVAME |
+| 1221 | 99 | Dropitliktithot |
+| 1222 | 99 | Salih Atasoy |
+| 1223 | 99 | Unelanuhi Belladonna Mystikal Bomar |
+| 1224 | 99 | Tabetha Craddock |
+| 1225 | 98 | Jasmine Del Real Est |
+| 1226 | 98 | Ghost187 |
 | 1227 | 98 | Anthony Ray |
-| 1228 | 98 | Jeremy Beckler |
-| 1229 | 98 | Brandon Reyes |
-| 1230 | 98 | Neena AkaJaneen TheQueen |
+| 1228 | 98 | Neena AkaJaneen TheQueen |
+| 1229 | 98 | Jeremy Beckler |
+| 1230 | 98 | Moo |
 | 1231 | 98 | Tracy Berry |
-| 1232 | 98 | Moo |
-| 1233 | 98 | Nicole Rivera-Huger |
-| 1234 | 97 | Mister Reid |
-| 1235 | 97 | Ris |
-| 1236 | 97 | cola |
-| 1237 | 97 | Churmo |
-| 1238 | 97 | Daysha Johnson |
-| 1239 | 97 | Steve Bomkamp |
+| 1232 | 98 | Nicole Rivera-Huger |
+| 1233 | 98 | Chelsea Simpson |
+| 1234 | 98 | Brandon Reyes |
+| 1235 | 97 | Churmo |
+| 1236 | 97 | Daysha Johnson |
+| 1237 | 97 | Steve Bomkamp |
+| 1238 | 97 | Mister Reid |
+| 1239 | 97 | Ris |
 | 1240 | 96 | Kathy Murphy |
-| 1241 | 96 | jellikit42 |
-| 1242 | 96 | Mighty Fitzone |
-| 1243 | 95 | Danielle Sperry |
-| 1244 | 95 | Kayla Farley |
-| 1245 | 95 | PSD |
-| 1246 | 95 | RifterRoute |
-| 1247 | 95 | Shelby Smith |
-| 1248 | 95 | Goofy Linkblock |
-| 1249 | 95 | Vanessa Zuniga Elvira |
-| 1250 | 95 | Irina Varona |
+| 1241 | 96 | Mighty Fitzone |
+| 1242 | 96 | jellikit42 |
+| 1243 | 95 | Irina Varona |
+| 1244 | 95 | Danielle Sperry |
+| 1245 | 95 | Kayla Farley |
+| 1246 | 95 | PSD |
+| 1247 | 95 | RifterRoute |
+| 1248 | 95 | Shelby Smith |
+| 1249 | 95 | Goofy Linkblock |
+| 1250 | 95 | Vanessa Zuniga Elvira |
 | 1251 | 95 | MyKai Ting |
-| 1252 | 94 | Christi Ames |
-| 1253 | 94 | Jeffrey Penkowski |
+| 1252 | 94 | Jeffrey Penkowski |
+| 1253 | 94 | Christi Ames |
 | 1254 | 93 | Peppy Cascade |
 | 1255 | 93 | Lesley Alexandra |
 | 1256 | 93 | Shayna Rivera |
