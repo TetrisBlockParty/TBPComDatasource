@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 22:58:44 UTC
+# Standings for team4 as of 2026-02-25 22:59:23 UTC
 
 **Total Participants:** 2276
 
@@ -13,8 +13,8 @@
 | 5 | 5809 | Breannah Grafe |
 | 6 | 5542 | East Mamba |
 | 7 | 5049 | Alyssa Cox |
-| 8 | 5010 | Kristy Wintermantel |
-| 9 | 5010 | Alicia Bass |
+| 8 | 5010 | Alicia Bass |
+| 9 | 5010 | Kristy Wintermantel |
 | 10 | 4928 | Elizabeth Sallas |
 | 11 | 4651 | Roger Coulter |
 | 12 | 4443 | Tina Martinez |
@@ -201,11 +201,11 @@
 | 193 | 665 | Shiny Fit |
 | 194 | 664 | Cranky Rollpiece |
 | 195 | 660 | Amanda Pauldo-Ivy |
-| 196 | 657 | Erin Thomas |
-| 197 | 656 | Chris Bernstein |
+| 196 | 659 | Chris Bernstein |
+| 197 | 657 | Erin Thomas |
 | 198 | 652 | Kesha Brady |
-| 199 | 648 | Andy Cabral |
-| 200 | 648 | Jenna Ingersoll |
+| 199 | 648 | Jenna Ingersoll |
+| 200 | 648 | Andy Cabral |
 | 201 | 647 | KM8 |
 | 202 | 646 | Damn Libra |
 | 203 | 643 | Cool Towerbuilder |
@@ -216,9 +216,9 @@
 | 208 | 628 | Manny1 |
 | 209 | 626 | Adrian Pawlusinski |
 | 210 | 624 | Matt Summer |
-| 211 | 623 | ku5hkween |
-| 212 | 623 | Rico |
-| 213 | 623 | June Hoffman |
+| 211 | 623 | Rico |
+| 212 | 623 | June Hoffman |
+| 213 | 623 | ku5hkween |
 | 214 | 622 | J-Rizzle |
 | 215 | 620 | Marie-Pier Desjardins |
 | 216 | 619 | Bradley Reeves |
@@ -229,19 +229,19 @@
 | 221 | 612 | Autumn Kumzi |
 | 222 | 611 | Jeff Brian Gates |
 | 223 | 611 | Carly Alexis |
-| 224 | 600 | Antony Dwayne Beasley |
+| 224 | 600 | Trish |
 | 225 | 600 | rebel4lyfe |
-| 226 | 600 | Trish |
-| 227 | 596 | Jessica Bohlken |
-| 228 | 595 | Andria Lynn |
-| 229 | 595 | Deanna Deckard |
-| 230 | 594 | David Boggs |
-| 231 | 592 | Kristin Manee |
+| 226 | 600 | Antony Dwayne Beasley |
+| 227 | 598 | Dan Wold |
+| 228 | 596 | Jessica Bohlken |
+| 229 | 595 | Andria Lynn |
+| 230 | 595 | Deanna Deckard |
+| 231 | 594 | David Boggs |
 | 232 | 592 | meowmew |
-| 233 | 589 | Dan Wold |
+| 233 | 592 | Kristin Manee |
 | 234 | 588 | Chao Ma |
-| 235 | 586 | Kristina Black |
-| 236 | 586 | Angel Raya |
+| 235 | 586 | Angel Raya |
+| 236 | 586 | Kristina Black |
 | 237 | 585 | Joanna |
 | 238 | 581 | Leslie Thomas |
 | 239 | 579 | Oscar Alberto Perez |
@@ -252,8 +252,8 @@
 | 244 | 568 | Zippy Block |
 | 245 | 562 | Michele Plunkett |
 | 246 | 559 | Ericca Eldridge |
-| 247 | 557 | Rheanda Weaskus |
-| 248 | 557 | Sharyn Lemire |
+| 247 | 557 | Sharyn Lemire |
+| 248 | 557 | Rheanda Weaskus |
 | 249 | 556 | Bio Nelly |
 | 250 | 556 | Zethra Prenisha Rahming |
 | 251 | 556 | Rio Rocha |
@@ -321,8 +321,8 @@
 | 313 | 469 | Nig |
 | 314 | 467 | Lush Linkfall |
 | 315 | 467 | KimoKoala |
-| 316 | 465 | 030Synner |
-| 317 | 464 | Zany Swipe |
+| 316 | 465 | Zany Swipe |
+| 317 | 465 | 030Synner |
 | 318 | 464 | Kenna Gunderland |
 | 319 | 463 | Googenheim |
 | 320 | 463 | Tyler Terrific |
@@ -371,37 +371,37 @@
 | 363 | 420 | James Philpot Ross |
 | 364 | 419 | Jay You |
 | 365 | 419 | Lauren Lamb |
-| 366 | 418 | Kristi Trafton |
-| 367 | 417 | Val Erie |
+| 366 | 418 | Sarah Brown |
+| 367 | 418 | Kristi Trafton |
 | 368 | 417 | Kris Bartlett |
-| 369 | 416 | Allison Rose |
-| 370 | 416 | Bryan Hodgins |
-| 371 | 415 | AyeKay |
-| 372 | 414 | Amanda Maciel Clarke |
-| 373 | 414 | Megan Cutshaw |
-| 374 | 411 | Stella |
-| 375 | 411 | Mary Ann Pabukis |
-| 376 | 409 | Dustin York |
-| 377 | 408 | BigSammy420 |
-| 378 | 407 | Madison Sweere |
-| 379 | 407 | Sarah Hoffman |
-| 380 | 407 | Jenna McGeorge |
-| 381 | 405 | Shukee Lo |
-| 382 | 405 | ZeeZee |
-| 383 | 402 | Richard-April Kice |
-| 384 | 401 | RamboBanana |
-| 385 | 400 | Juls |
-| 386 | 399 | Paito |
-| 387 | 398 | Sarah Brown |
+| 369 | 417 | Val Erie |
+| 370 | 416 | Allison Rose |
+| 371 | 416 | Bryan Hodgins |
+| 372 | 415 | AyeKay |
+| 373 | 414 | Amanda Maciel Clarke |
+| 374 | 414 | Megan Cutshaw |
+| 375 | 411 | Stella |
+| 376 | 411 | Mary Ann Pabukis |
+| 377 | 409 | Dustin York |
+| 378 | 408 | BigSammy420 |
+| 379 | 407 | Madison Sweere |
+| 380 | 407 | Sarah Hoffman |
+| 381 | 407 | Jenna McGeorge |
+| 382 | 405 | Shukee Lo |
+| 383 | 405 | ZeeZee |
+| 384 | 402 | Richard-April Kice |
+| 385 | 401 | RamboBanana |
+| 386 | 400 | Juls |
+| 387 | 399 | Paito |
 | 388 | 397 | Glitzy Corner |
 | 389 | 397 | Laurel Coppess |
 | 390 | 396 | Bonnie Hurlbrink |
-| 391 | 395 | Chummy Towerzone |
-| 392 | 395 | Alexandra Karavias |
+| 391 | 395 | Alexandra Karavias |
+| 392 | 395 | Chummy Towerzone |
 | 393 | 395 | Marcus TheeyoungWoe Gilmore |
 | 394 | 394 | Jonathan Mahfood |
-| 395 | 394 | Perky Patternblock |
-| 396 | 394 | Jessica Atkinson |
+| 395 | 394 | Jessica Atkinson |
+| 396 | 394 | Perky Patternblock |
 | 397 | 394 | Raymond Roberts |
 | 398 | 393 | Lorena Guerrero-Barron |
 | 399 | 393 | George Tzouganos |
@@ -975,23 +975,23 @@
 | 967 | 156 | Shanon James |
 | 968 | 156 | Chirpy Balancer |
 | 969 | 156 | Teddy Marshall |
-| 970 | 156 | Kara Kaminski Rhinehart |
-| 971 | 156 | Brianna Walker |
-| 972 | 156 | Lorry Wofford Jr. |
-| 973 | 156 | Kirsten Britt O'Donnell |
-| 974 | 156 | Jess |
+| 970 | 156 | 420friend |
+| 971 | 156 | Kara Kaminski Rhinehart |
+| 972 | 156 | Brianna Walker |
+| 973 | 156 | Lorry Wofford Jr. |
+| 974 | 156 | Kirsten Britt O'Donnell |
 | 975 | 156 | Lauren R. Walls |
-| 976 | 155 | Wendy De Kam |
-| 977 | 155 | Shane Hicks |
-| 978 | 155 | ThemightyDATCH |
-| 979 | 155 | Harold M. |
-| 980 | 154 | Saundra Miller |
+| 976 | 156 | Jess |
+| 977 | 155 | Wendy De Kam |
+| 978 | 155 | Shane Hicks |
+| 979 | 155 | ThemightyDATCH |
+| 980 | 155 | Harold M. |
 | 981 | 154 | Mitchell Everhart |
-| 982 | 154 | Kellie Tacuban |
-| 983 | 154 | Spunky Tower |
-| 984 | 153 | Sara Saxton Moon |
-| 985 | 153 | Peace |
-| 986 | 153 | 420friend |
+| 982 | 154 | Saundra Miller |
+| 983 | 154 | Kellie Tacuban |
+| 984 | 154 | Spunky Tower |
+| 985 | 153 | Sara Saxton Moon |
+| 986 | 153 | Peace |
 | 987 | 152 | ScootyLadoo |
 | 988 | 152 | April Chalfant |
 | 989 | 152 | Fred Lilreadii Smith Jr |
@@ -1411,11 +1411,11 @@
 | 1403 | 75 | Dena Shoop |
 | 1404 | 75 | Sunny68 |
 | 1405 | 75 | Tanya M Hogue |
-| 1406 | 74 | Peachy Pusher |
-| 1407 | 74 | pharoah |
-| 1408 | 74 | Kathie Morris-Buck |
-| 1409 | 74 | Jocelyn L. Williams |
-| 1410 | 74 | Derwin Dewayne Mosby |
+| 1406 | 75 | Derwin Dewayne Mosby |
+| 1407 | 74 | Peachy Pusher |
+| 1408 | 74 | pharoah |
+| 1409 | 74 | Kathie Morris-Buck |
+| 1410 | 74 | Jocelyn L. Williams |
 | 1411 | 74 | Stef Verisotosky |
 | 1412 | 74 | Charles Chuckie |
 | 1413 | 74 | Kevin L Cafleux |
@@ -1571,33 +1571,33 @@
 | 1563 | 57 | Jinx |
 | 1564 | 57 | Joey Goodrum |
 | 1565 | 57 | Cranky Edge |
-| 1566 | 57 | Allison Moody |
-| 1567 | 57 | Smiley Linkgrid |
-| 1568 | 57 | Demarvel Mondezie |
-| 1569 | 57 | Slappy Blackhead |
-| 1570 | 56 | Amanda Slusser |
-| 1571 | 56 | MsEMoney |
-| 1572 | 56 | Tiny Bubbles |
+| 1566 | 57 | Mickey L Curtis |
+| 1567 | 57 | Allison Moody |
+| 1568 | 57 | Smiley Linkgrid |
+| 1569 | 57 | Demarvel Mondezie |
+| 1570 | 57 | Slappy Blackhead |
+| 1571 | 56 | Tyler Coutts |
+| 1572 | 56 | MsEMoney |
 | 1573 | 56 | Wacky Wendy |
-| 1574 | 56 | Tyler Coutts |
-| 1575 | 56 | Jay Cubes25 |
-| 1576 | 55 | Ms Netta |
-| 1577 | 55 | Samantha Ponzillo |
-| 1578 | 55 | Amanda Ashley |
-| 1579 | 55 | RiahRose |
-| 1580 | 55 | Les |
-| 1581 | 55 | Chipper Towerfit |
-| 1582 | 55 | Michelle Shimel |
-| 1583 | 55 | baysic |
-| 1584 | 55 | Zachary Frazier |
-| 1585 | 55 | Poppy Brickmatch |
-| 1586 | 55 | Katrina Bradley |
-| 1587 | 55 | Gabriel Raymond |
-| 1588 | 55 | BenLane |
-| 1589 | 55 | No name |
-| 1590 | 55 | Dorene Brooks |
-| 1591 | 55 | Elizabeth Foster |
-| 1592 | 55 | Mickey L Curtis |
+| 1574 | 56 | Jay Cubes25 |
+| 1575 | 56 | Amanda Slusser |
+| 1576 | 56 | Tiny Bubbles |
+| 1577 | 55 | Les |
+| 1578 | 55 | Ms Netta |
+| 1579 | 55 | Elizabeth Foster |
+| 1580 | 55 | Dorene Brooks |
+| 1581 | 55 | No name |
+| 1582 | 55 | Amanda Ashley |
+| 1583 | 55 | RiahRose |
+| 1584 | 55 | Katrina Bradley |
+| 1585 | 55 | Chipper Towerfit |
+| 1586 | 55 | BenLane |
+| 1587 | 55 | Michelle Shimel |
+| 1588 | 55 | Samantha Ponzillo |
+| 1589 | 55 | baysic |
+| 1590 | 55 | Zachary Frazier |
+| 1591 | 55 | Gabriel Raymond |
+| 1592 | 55 | Poppy Brickmatch |
 | 1593 | 54 | Blair Shriver |
 | 1594 | 54 | AuDra Renee Dupre |
 | 1595 | 54 | Tipsy Blockline |
