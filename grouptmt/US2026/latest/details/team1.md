@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 19:54:46 UTC
+# Standings for team1 as of 2026-02-25 19:55:22 UTC
 
 **Total Participants:** 2519
 
@@ -51,7 +51,7 @@
 | 43 | 1794 | Lola Adkhambekovna |
 | 44 | 1789 | Lexuriuos Lifestlye |
 | 45 | 1772 | Jen Sartain |
-| 46 | 1745 | Marianne Louise West |
+| 46 | 1751 | Marianne Louise West |
 | 47 | 1739 | Veronica Eve |
 | 48 | 1686 | Jessica Sheehan |
 | 49 | 1664 | Tyler Alcock |
@@ -199,9 +199,9 @@
 | 191 | 644 | DaRascal |
 | 192 | 642 | SkipTheSadSauce |
 | 193 | 638 | Brandi Huntington |
-| 194 | 637 | Jennifer Hardman |
-| 195 | 637 | Sarah Lombardo |
-| 196 | 636 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 194 | 638 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 195 | 637 | Jennifer Hardman |
+| 196 | 637 | Sarah Lombardo |
 | 197 | 633 | ALFD |
 | 198 | 631 | Sleepysloath5745 |
 | 199 | 627 | Teddy Alexander |
@@ -504,9 +504,9 @@
 | 496 | 334 | Leslie Bush Yarbrough |
 | 497 | 334 | Chad Atchley |
 | 498 | 334 | Panda Thagreat |
-| 499 | 332 | Rock it |
-| 500 | 332 | Norma Paredez |
-| 501 | 332 | Michelle |
+| 499 | 333 | Michelle |
+| 500 | 332 | Rock it |
+| 501 | 332 | Norma Paredez |
 | 502 | 332 | Damian Salem |
 | 503 | 332 | Charlie Walker |
 | 504 | 332 | Danielle Mae |
@@ -689,46 +689,46 @@
 | 681 | 246 | Frothy Blockbuilder |
 | 682 | 246 | Kirk Torrey |
 | 683 | 246 | Nicole Nikki |
-| 684 | 246 | Chadocho |
-| 685 | 246 | Slinky Tile |
-| 686 | 246 | Boldy Snapfit |
-| 687 | 246 | ken |
-| 688 | 245 | Sarah Barrow |
-| 689 | 245 | Nutty Glide |
-| 690 | 245 | Dustin Johnston |
-| 691 | 245 | Kkl |
-| 692 | 245 | Dawn Henderson |
-| 693 | 243 | Lark |
-| 694 | 242 | Denise Belanger |
-| 695 | 241 | Kellie Tunstall |
-| 696 | 241 | Misty Hall Zaranti |
-| 697 | 241 | Lush Zoney |
-| 698 | 240 | Dawn Cox |
-| 699 | 240 | Jessica Imboden |
-| 700 | 239 | Irual Hctrab |
+| 684 | 246 | Jeff Newinski |
+| 685 | 246 | Chadocho |
+| 686 | 246 | Slinky Tile |
+| 687 | 246 | Boldy Snapfit |
+| 688 | 246 | ken |
+| 689 | 245 | Sarah Barrow |
+| 690 | 245 | Nutty Glide |
+| 691 | 245 | Dustin Johnston |
+| 692 | 245 | Kkl |
+| 693 | 245 | Dawn Henderson |
+| 694 | 243 | Lark |
+| 695 | 242 | Denise Belanger |
+| 696 | 241 | Kellie Tunstall |
+| 697 | 241 | Misty Hall Zaranti |
+| 698 | 241 | Lush Zoney |
+| 699 | 240 | Dawn Cox |
+| 700 | 240 | Jessica Imboden |
 | 701 | 239 | Matt Cinelli |
 | 702 | 239 | Dizzy Rackham |
-| 703 | 239 | Mindy Gloska |
-| 704 | 239 | Erez Yosef |
-| 705 | 239 | BettyAnn Savo |
-| 706 | 238 | Kanesha Jackson |
-| 707 | 237 | Sarah Cassese |
-| 708 | 236 | Mortious |
-| 709 | 236 | Christina |
-| 710 | 235 | Owicked1 |
-| 711 | 235 | Mechelle Bailum |
-| 712 | 235 | Jana Hutcheson |
-| 713 | 235 | Mary M Brion |
-| 714 | 234 | Christina Torres |
-| 715 | 234 | Krazykat💋❤️💋 |
-| 716 | 234 | Chipper Piecefit |
-| 717 | 233 | Tina Englert |
-| 718 | 233 | Sherri E Woods Hess |
-| 719 | 233 | Hyper Tilemaker |
-| 720 | 232 | yoyoluv |
-| 721 | 232 | Tina Sinclair |
-| 722 | 232 | Jessica Weed |
-| 723 | 232 | Jeff Newinski |
+| 703 | 239 | Irual Hctrab |
+| 704 | 239 | Mindy Gloska |
+| 705 | 239 | Erez Yosef |
+| 706 | 239 | BettyAnn Savo |
+| 707 | 238 | Kanesha Jackson |
+| 708 | 237 | Sarah Cassese |
+| 709 | 236 | Mortious |
+| 710 | 236 | Christina |
+| 711 | 235 | Owicked1 |
+| 712 | 235 | Mechelle Bailum |
+| 713 | 235 | Jana Hutcheson |
+| 714 | 235 | Mary M Brion |
+| 715 | 234 | Christina Torres |
+| 716 | 234 | Krazykat💋❤️💋 |
+| 717 | 234 | Chipper Piecefit |
+| 718 | 233 | Tina Englert |
+| 719 | 233 | Sherri E Woods Hess |
+| 720 | 233 | Hyper Tilemaker |
+| 721 | 232 | yoyoluv |
+| 722 | 232 | Tina Sinclair |
+| 723 | 232 | Jessica Weed |
 | 724 | 232 | Sarah Hope |
 | 725 | 231 | narutyler649 |
 | 726 | 231 | Hector Cruz |
