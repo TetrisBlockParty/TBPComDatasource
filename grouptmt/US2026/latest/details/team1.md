@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 09:44:44 UTC
+# Standings for team1 as of 2026-02-25 09:45:23 UTC
 
 **Total Participants:** 2449
 
@@ -647,34 +647,34 @@
 | 639 | 246 | Frothy Blockbuilder |
 | 640 | 246 | ken |
 | 641 | 246 | Nicole Nikki |
-| 642 | 245 | Nutty Glide |
+| 642 | 245 | Mel Hogan |
 | 643 | 245 | Sarah Barrow |
-| 644 | 244 | Chyna Mae |
-| 645 | 244 | Rick Pickup Raymur |
-| 646 | 244 | Robin Burress |
-| 647 | 244 | Mel Hogan |
-| 648 | 243 | Lark |
-| 649 | 243 | Shay J Duval |
+| 644 | 245 | Nutty Glide |
+| 645 | 244 | Chyna Mae |
+| 646 | 244 | Rick Pickup Raymur |
+| 647 | 244 | Robin Burress |
+| 648 | 243 | Shay J Duval |
+| 649 | 243 | Lark |
 | 650 | 242 | Renata Mabie |
 | 651 | 242 | Kirk Torrey |
 | 652 | 242 | Dawn Rannelli |
-| 653 | 241 | Hdhshsn |
-| 654 | 241 | Lush Zoney |
-| 655 | 241 | Mavria Comeaux Hinton |
-| 656 | 241 | Misty Hall Zaranti |
-| 657 | 241 | Kellie Tunstall |
+| 653 | 241 | Lush Zoney |
+| 654 | 241 | Kellie Tunstall |
+| 655 | 241 | Misty Hall Zaranti |
+| 656 | 241 | Hdhshsn |
+| 657 | 241 | Mavria Comeaux Hinton |
 | 658 | 240 | Jessica Imboden |
 | 659 | 239 | Matt Cinelli |
 | 660 | 239 | Dizzy Rackham |
 | 661 | 239 | Bucketsmasher |
 | 662 | 238 | Lucinda Thacker |
 | 663 | 238 | Kanesha Jackson |
-| 664 | 237 | Jonathan Joshua |
-| 665 | 237 | Gina Fontana Meier |
-| 666 | 237 | Sarah Cassese |
-| 667 | 236 | Mortious |
-| 668 | 236 | Slinky Tile |
-| 669 | 236 | Boldy Snapfit |
+| 664 | 237 | Sarah Cassese |
+| 665 | 237 | Jonathan Joshua |
+| 666 | 237 | Gina Fontana Meier |
+| 667 | 236 | Slinky Tile |
+| 668 | 236 | Boldy Snapfit |
+| 669 | 236 | Mortious |
 | 670 | 235 | Mindy Gloska |
 | 671 | 235 | Owicked1 |
 | 672 | 235 | Sarah Henniker |
@@ -705,35 +705,35 @@
 | 697 | 224 | BettyAnn Savo |
 | 698 | 224 | Giggly Rollfit |
 | 699 | 223 | Dawn Cox |
-| 700 | 223 | Britney Marie Burton Cole |
-| 701 | 223 | Swanky Patternfit |
+| 700 | 223 | Swanky Patternfit |
+| 701 | 223 | Britney Marie Burton Cole |
 | 702 | 223 | Natasha Hollowell Causey |
-| 703 | 223 | Erez Yosef |
-| 704 | 223 | Piffy |
+| 703 | 223 | Piffy |
+| 704 | 223 | Erez Yosef |
 | 705 | 222 | Melissa Ann Macko |
 | 706 | 222 | Henry Lanier |
 | 707 | 221 | Amy Hess |
 | 708 | 220 | Chadocho |
-| 709 | 219 | BrenaBae |
+| 709 | 219 | Peachy Wipebuilder |
 | 710 | 219 | Paul Osborne |
-| 711 | 218 | Witty Curve |
-| 712 | 218 | Brian Taylor |
-| 713 | 217 | Chipper Piecefit |
-| 714 | 217 | Bean |
+| 711 | 219 | BrenaBae |
+| 712 | 218 | Witty Curve |
+| 713 | 218 | Brian Taylor |
+| 714 | 217 | Bruce Cruz |
 | 715 | 217 | Sarah Bersano |
-| 716 | 217 | Bruce Cruz |
-| 717 | 216 | Nicolette Ivory Chastain |
-| 718 | 216 | Shauntina Burke |
-| 719 | 215 | Oliver Hollins |
+| 716 | 217 | Chipper Piecefit |
+| 717 | 217 | Bean |
+| 718 | 216 | Nicolette Ivory Chastain |
+| 719 | 216 | Shauntina Burke |
 | 720 | 215 | Elizabeth Shaw |
 | 721 | 215 | Spunky Tilt |
 | 722 | 215 | Gauge Slusher |
-| 723 | 215 | Jaymee Eva Shannon |
-| 724 | 214 | Alex Gauthier |
-| 725 | 214 | Jazzmin Queen |
+| 723 | 215 | Oliver Hollins |
+| 724 | 215 | Jaymee Eva Shannon |
+| 725 | 214 | Alex Gauthier |
 | 726 | 214 | V VIN |
 | 727 | 214 | Joyce Harrell-chavis |
-| 728 | 214 | Peachy Wipebuilder |
+| 728 | 214 | Jazzmin Queen |
 | 729 | 212 | Becky Coker |
 | 730 | 212 | Sherrick Edwards |
 | 731 | 212 | Denise Belanger |
