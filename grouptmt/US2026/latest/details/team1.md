@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 22:20:45 UTC
+# Standings for team1 as of 2026-02-25 22:21:23 UTC
 
 **Total Participants:** 2541
 
@@ -74,11 +74,11 @@
 | 66 | 1438 | TSwag |
 | 67 | 1426 | Hasbro Bros |
 | 68 | 1401 | Kristen Roles Robben |
-| 69 | 1347 | Lawrence Belanger |
-| 70 | 1332 | Kristen Gideon |
-| 71 | 1328 | Karin Gillen |
-| 72 | 1320 | Kathy Langham |
-| 73 | 1316 | Redlicious 1 |
+| 69 | 1396 | Redlicious 1 |
+| 70 | 1347 | Lawrence Belanger |
+| 71 | 1332 | Kristen Gideon |
+| 72 | 1328 | Karin Gillen |
+| 73 | 1320 | Kathy Langham |
 | 74 | 1315 | Cheeky Twistslam |
 | 75 | 1310 | Patrick Luckenbill |
 | 76 | 1302 | Lori Sanders- Davis |
@@ -106,9 +106,9 @@
 | 98 | 1066 | Dawn Sheppard |
 | 99 | 1047 | Zippy Align |
 | 100 | 1044 | Amanda Johnson Huffman |
-| 101 | 1032 | Kathi Snustad |
-| 102 | 1029 | Bindi |
-| 103 | 1019 | Tawnya Peltonen |
+| 101 | 1034 | Tawnya Peltonen |
+| 102 | 1032 | Kathi Snustad |
+| 103 | 1029 | Bindi |
 | 104 | 1005 | Jennifer ManWarren |
 | 105 | 1004 | Desiree Deschaine Havee |
 | 106 | 1004 | Chris K |
@@ -140,8 +140,8 @@
 | 132 | 882 | Snappy Matcher |
 | 133 | 880 | Carrie Smith |
 | 134 | 879 | phrmblk24 |
-| 135 | 858 | Christy Jones |
-| 136 | 857 | Stephanie Leday |
+| 135 | 872 | Stephanie Leday |
+| 136 | 858 | Christy Jones |
 | 137 | 856 | Cartier |
 | 138 | 853 | GATOR |
 | 139 | 846 | Happy Basegrid |
@@ -412,11 +412,11 @@
 | 404 | 387 | Diane Byrd |
 | 405 | 386 | Nadine Velardo |
 | 406 | 386 | Наталья Солоид |
-| 407 | 386 | Tiffany Smith |
-| 408 | 385 | Steph |
-| 409 | 385 | Amh |
-| 410 | 385 | Lyn Sibayan |
-| 411 | 385 | Dizzy Riseclear |
+| 407 | 386 | Dizzy Riseclear |
+| 408 | 386 | Tiffany Smith |
+| 409 | 385 | Steph |
+| 410 | 385 | Amh |
+| 411 | 385 | Lyn Sibayan |
 | 412 | 385 | Mighty Shatterfit |
 | 413 | 384 | Patty Lavigne Craddock |
 | 414 | 384 | Larry Tilton |
