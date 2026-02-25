@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 07:31:23 UTC
+# Standings for team4 as of 2026-02-25 07:32:24 UTC
 
 **Total Participants:** 2178
 
@@ -625,24 +625,24 @@
 | 617 | 242 | Norman Klick |
 | 618 | 242 | Brandon Link |
 | 619 | 242 | Hanh Pham |
-| 620 | 241 | Neal Allen II |
-| 621 | 241 | Katherine Crane |
-| 622 | 241 | Janis Brown |
-| 623 | 240 | Faja |
-| 624 | 240 | Katie McCabe |
-| 625 | 240 | Brad Campbell |
-| 626 | 240 | Jenna Keen |
-| 627 | 240 | Bigeddie |
-| 628 | 240 | Zach Kerbs |
-| 629 | 239 | Rebecca A Rit |
-| 630 | 238 | Kelly Williams |
-| 631 | 238 | Cheaneen Livingston |
-| 632 | 238 | Jennifer Dineen |
-| 633 | 238 | Robert Rodriguez |
-| 634 | 238 | sgt baby |
-| 635 | 238 | Will Chamberlain |
-| 636 | 237 | Courtney Halleck |
-| 637 | 237 | Kaung San |
+| 620 | 242 | Kaung San |
+| 621 | 241 | Janis Brown |
+| 622 | 241 | Neal Allen II |
+| 623 | 241 | Katherine Crane |
+| 624 | 240 | Brad Campbell |
+| 625 | 240 | Jenna Keen |
+| 626 | 240 | Bigeddie |
+| 627 | 240 | Zach Kerbs |
+| 628 | 240 | Faja |
+| 629 | 240 | Katie McCabe |
+| 630 | 239 | Rebecca A Rit |
+| 631 | 238 | Kelly Williams |
+| 632 | 238 | Cheaneen Livingston |
+| 633 | 238 | Jennifer Dineen |
+| 634 | 238 | Robert Rodriguez |
+| 635 | 238 | sgt baby |
+| 636 | 238 | Will Chamberlain |
+| 637 | 237 | Courtney Halleck |
 | 638 | 236 | Wacky Blockclear |
 | 639 | 236 | Carlos Hernandez |
 | 640 | 236 | JoJo |
@@ -833,92 +833,92 @@
 | 825 | 177 | Verna Neal |
 | 826 | 177 | Richard Bradley |
 | 827 | 177 | Cashmere |
-| 828 | 177 | Clinton Jacob |
-| 829 | 177 | Tina Williams |
-| 830 | 176 | Josie Peña |
-| 831 | 176 | Tina Connick |
-| 832 | 176 | Tunia Torres |
-| 833 | 176 | Katie Walton |
+| 828 | 177 | Tina Williams |
+| 829 | 177 | Clinton Jacob |
+| 830 | 176 | Katie Walton |
+| 831 | 176 | Tunia Torres |
+| 832 | 176 | Josie Peña |
+| 833 | 176 | Tina Connick |
 | 834 | 176 | Jay28 |
 | 835 | 176 | mini |
 | 836 | 175 | Nikki Ann |
-| 837 | 175 | Kristin Rose Nutter |
-| 838 | 175 | Tory Miller |
-| 839 | 175 | Rick SJ |
-| 840 | 175 | Marcus Cooper |
-| 841 | 175 | Stephanie Griego |
-| 842 | 174 | Christina Hyde |
+| 837 | 175 | Tory Miller |
+| 838 | 175 | Stephanie Griego |
+| 839 | 175 | Marcus Cooper |
+| 840 | 175 | Kristin Rose Nutter |
+| 841 | 175 | Rick SJ |
+| 842 | 174 | Angel Johnson |
 | 843 | 174 | Laura Chase-Amara |
 | 844 | 174 | Giggly Balancefit |
-| 845 | 174 | Angel Johnson |
+| 845 | 174 | Christina Hyde |
 | 846 | 173 | TwistyMcTwist |
-| 847 | 173 | Spunky Framezone |
-| 848 | 173 | Erebus |
+| 847 | 173 | Erebus |
+| 848 | 173 | Spunky Framezone |
 | 849 | 173 | Willa Anne Nold Kay |
 | 850 | 173 | Jasmine Castro |
 | 851 | 173 | Marvetta Williams |
 | 852 | 173 | Kelly Duncan |
 | 853 | 173 | Too Low Lou |
 | 854 | 172 | Loopy Rollbuilder |
-| 855 | 172 | Linda Alexander Downing |
-| 856 | 172 | Roy Simmons |
-| 857 | 171 | Michele Badgwell |
-| 858 | 171 | George Castillo |
+| 855 | 172 | Roy Simmons |
+| 856 | 172 | Linda Alexander Downing |
+| 857 | 171 | George Castillo |
+| 858 | 171 | Michele Badgwell |
 | 859 | 171 | Tara |
 | 860 | 170 | tossan |
 | 861 | 170 | Yvonne MAguilar |
 | 862 | 170 | Matt Rawls |
 | 863 | 169 | Libby |
-| 864 | 169 | Atia Scott |
-| 865 | 169 | Frothy Curve |
-| 866 | 168 | Dania Cochrane |
+| 864 | 169 | Frothy Curve |
+| 865 | 169 | Atia Scott |
+| 866 | 168 | Holly Tracey-Grimes |
 | 867 | 168 | Emily Babic |
-| 868 | 168 | Nicole McMurray |
-| 869 | 168 | Heather Mamabear Pezze |
-| 870 | 168 | Bryan Davidson |
-| 871 | 168 | Holly Tracey-Grimes |
-| 872 | 168 | Blue |
-| 873 | 167 | Skyler Patzer |
-| 874 | 167 | Brad Caldwell |
-| 875 | 167 | Austin |
-| 876 | 167 | Sarah Tenenbaum |
-| 877 | 167 | IDK |
+| 868 | 168 | Dania Cochrane |
+| 869 | 168 | Nicole McMurray |
+| 870 | 168 | Heather Mamabear Pezze |
+| 871 | 168 | Blue |
+| 872 | 168 | Bryan Davidson |
+| 873 | 167 | Brad Caldwell |
+| 874 | 167 | Sarah Tenenbaum |
+| 875 | 167 | IDK |
+| 876 | 167 | Austin |
+| 877 | 167 | Skyler Patzer |
 | 878 | 167 | Dottie Falco |
 | 879 | 166 | Snippy |
-| 880 | 165 | Zappy Buildgrid |
-| 881 | 165 | McKayla Breanne |
+| 880 | 165 | McKayla Breanne |
+| 881 | 165 | Zappy Buildgrid |
 | 882 | 165 | Sarah Grundisch |
 | 883 | 164 | Saucy Stackbuilder |
 | 884 | 163 | Mike Burlingame |
 | 885 | 163 | Quirky Puzzler |
 | 886 | 163 | JD |
-| 887 | 163 | LunarCat |
-| 888 | 163 | Cozy Strikerbuilder |
-| 889 | 163 | Krystal McPherson |
+| 887 | 163 | Cozy Strikerbuilder |
+| 888 | 163 | Krystal McPherson |
+| 889 | 163 | LunarCat |
 | 890 | 162 | Aloradexplora |
 | 891 | 162 | Adam Randall |
 | 892 | 162 | Michelle Sanchez |
 | 893 | 161 | Sha Ta Nay Mitchell |
 | 894 | 161 | Buttlicker |
 | 895 | 160 | Molly Ananda Rickerson |
-| 896 | 159 | Niome Encinias |
-| 897 | 158 | Witty Link |
-| 898 | 158 | Harvey Mejia |
-| 899 | 158 | Albert Walker III |
-| 900 | 157 | k |
+| 896 | 159 | Peyton Mclaughlin |
+| 897 | 159 | Niome Encinias |
+| 898 | 158 | Witty Link |
+| 899 | 158 | Harvey Mejia |
+| 900 | 158 | Albert Walker III |
 | 901 | 157 | Frisky Twistslam |
-| 902 | 156 | Kara Kaminski Rhinehart |
+| 902 | 157 | k |
 | 903 | 156 | Jaime Ore Norcross |
-| 904 | 156 | Shanon James |
-| 905 | 156 | Lauren R. Walls |
-| 906 | 156 | Peyton Mclaughlin |
+| 904 | 156 | Kara Kaminski Rhinehart |
+| 905 | 156 | Shanon James |
+| 906 | 156 | Lauren R. Walls |
 | 907 | 156 | Brianna Walker |
 | 908 | 155 | Tabita Gonzalez |
 | 909 | 155 | Swanky Blockline |
 | 910 | 155 | AjJess |
-| 911 | 154 | Saundra Miller |
-| 912 | 154 | Dot Flanagan |
-| 913 | 154 | Kari Rose Haché |
+| 911 | 154 | Kari Rose Haché |
+| 912 | 154 | Saundra Miller |
+| 913 | 154 | Dot Flanagan |
 | 914 | 154 | Sadie Rae Ryan |
 | 915 | 153 | Peace |
 | 916 | 153 | Sara Saxton Moon |
