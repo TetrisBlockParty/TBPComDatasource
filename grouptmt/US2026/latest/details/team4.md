@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 15:48:45 UTC
+# Standings for team4 as of 2026-02-25 15:49:22 UTC
 
 **Total Participants:** 2223
 
@@ -96,7 +96,7 @@
 | 88 | 1121 | BertMofo |
 | 89 | 1082 | Dion Crommarty |
 | 90 | 1082 | Monica Daley |
-| 91 | 1074 | Jeremy Steines |
+| 91 | 1079 | Jeremy Steines |
 | 92 | 1056 | Valerie Roberts |
 | 93 | 1047 | Nope Young |
 | 94 | 1047 | Edward White |
@@ -380,85 +380,85 @@
 | 372 | 397 | Jenna McGeorge |
 | 373 | 397 | James Philpot Ross |
 | 374 | 394 | Perky Patternblock |
-| 375 | 393 | Glitzy Corner |
-| 376 | 393 | Bonnie Hurlbrink |
-| 377 | 392 | Angie Schmidt |
-| 378 | 392 | Jay You |
-| 379 | 392 | tipsy tiger |
-| 380 | 392 | Mary Ann Pabukis |
+| 375 | 393 | Bonnie Hurlbrink |
+| 376 | 393 | Glitzy Corner |
+| 377 | 392 | tipsy tiger |
+| 378 | 392 | Mary Ann Pabukis |
+| 379 | 392 | Jay You |
+| 380 | 392 | Angie Schmidt |
 | 381 | 391 | Amanda Maciel Clarke |
 | 382 | 391 | Matt Dell'Olio |
-| 383 | 390 | Maureen Flanigan |
-| 384 | 390 | Groovy Shiftspin |
+| 383 | 390 | Groovy Shiftspin |
+| 384 | 390 | Maureen Flanigan |
 | 385 | 388 | Paito |
 | 386 | 388 | Megan Cutshaw |
 | 387 | 388 | Bryan James Marino |
-| 388 | 387 | Ak Jones |
-| 389 | 387 | George Tzouganos |
+| 388 | 387 | George Tzouganos |
+| 389 | 387 | Ak Jones |
 | 390 | 386 | Neil Ingham |
 | 391 | 384 | Lilya Troutman |
-| 392 | 384 | Jackie Clark |
-| 393 | 384 | Gracie Ann Taylor |
+| 392 | 384 | Gracie Ann Taylor |
+| 393 | 384 | Jackie Clark |
 | 394 | 384 | Chummy Towerzone |
-| 395 | 381 | Kevin Bush |
+| 395 | 381 | Alexandra Karavias |
 | 396 | 381 | Marcus TheeyoungWoe Gilmore |
-| 397 | 381 | Alexandra Karavias |
+| 397 | 381 | Kevin Bush |
 | 398 | 380 | Amy Jean |
 | 399 | 378 | Sho Nuff |
 | 400 | 378 | Laurel Coppess |
-| 401 | 377 | Groovy Gridlock |
-| 402 | 377 | Chummy Link |
-| 403 | 377 | SHL |
+| 401 | 377 | SHL |
+| 402 | 377 | Groovy Gridlock |
+| 403 | 377 | Chummy Link |
 | 404 | 375 | RamboBanana |
 | 405 | 375 | Raymond Roberts |
-| 406 | 374 | Tyler Bechtel |
-| 407 | 374 | Koral Hanke |
+| 406 | 374 | Koral Hanke |
+| 407 | 374 | Tyler Bechtel |
 | 408 | 371 | PennyCandee |
 | 409 | 370 | HastyGrabber |
 | 410 | 369 | Jake Roberts |
 | 411 | 368 | Michael Orris |
 | 412 | 368 | Sarah Brown |
-| 413 | 367 | Tony Pavelka |
-| 414 | 367 | Meg |
+| 413 | 367 | Meg |
+| 414 | 367 | Tony Pavelka |
 | 415 | 365 | Susan Williams |
 | 416 | 365 | Shiny Pivoty |
 | 417 | 364 | Grann8 |
 | 418 | 362 | Speedy Cascadeclear |
 | 419 | 361 | ThriftySpice |
-| 420 | 361 | Eminem |
-| 421 | 361 | ImJustMe |
+| 420 | 361 | ImJustMe |
+| 421 | 361 | Eminem |
 | 422 | 359 | Happy Combo |
 | 423 | 359 | Jumpy Zonepiece |
 | 424 | 359 | Lazy Glidepiece |
 | 425 | 359 | Allen Lloyd |
-| 426 | 356 | Paige Kittles |
-| 427 | 356 | Val Erie |
-| 428 | 356 | Lane Wasson |
+| 426 | 356 | Val Erie |
+| 427 | 356 | Lane Wasson |
+| 428 | 356 | Paige Kittles |
 | 429 | 354 | Candice Carasiti |
-| 430 | 353 | wombat |
-| 431 | 352 | B Renee Desjardin |
-| 432 | 352 | Jared Gutwein |
-| 433 | 349 | jim |
-| 434 | 348 | Christine Therrien |
-| 435 | 346 | Tabitha Calvin |
+| 430 | 353 | Penny Dean |
+| 431 | 353 | wombat |
+| 432 | 352 | B Renee Desjardin |
+| 433 | 352 | Jared Gutwein |
+| 434 | 349 | jim |
+| 435 | 348 | Christine Therrien |
 | 436 | 346 | Kim Klutz Olson |
 | 437 | 346 | Ronald Brown Jr. |
 | 438 | 346 | Zany Shatterer |
-| 439 | 345 | Zippy Tilt |
-| 440 | 345 | Shainne Brewer |
-| 441 | 344 | Chance Strickland |
+| 439 | 346 | Tabitha Calvin |
+| 440 | 345 | Zippy Tilt |
+| 441 | 345 | Shainne Brewer |
 | 442 | 344 | Peachy Brickster |
-| 443 | 344 | Chilly Matcher |
-| 444 | 342 | Richard |
-| 445 | 341 | Walter Beltran |
-| 446 | 341 | KoolMom9907 |
-| 447 | 340 | Carter Jones |
-| 448 | 339 | River Shady Sr. |
-| 449 | 338 | Jenny Wells-Oakley |
-| 450 | 337 | Ron |
-| 451 | 337 | DQ Martin |
-| 452 | 337 | Badatvs |
-| 453 | 336 | Penny Dean |
+| 443 | 344 | Chance Strickland |
+| 444 | 344 | Chilly Matcher |
+| 445 | 342 | Richard |
+| 446 | 341 | Walter Beltran |
+| 447 | 341 | KoolMom9907 |
+| 448 | 340 | Carter Jones |
+| 449 | 339 | River Shady Sr. |
+| 450 | 338 | Jenny Wells-Oakley |
+| 451 | 337 | Ron |
+| 452 | 337 | DQ Martin |
+| 453 | 337 | Badatvs |
 | 454 | 336 | Sallie Sanborn |
 | 455 | 336 | Laura McPheeters |
 | 456 | 335 | Frisky Matchgrid |
@@ -594,17 +594,17 @@
 | 586 | 266 | Mary Miller |
 | 587 | 266 | JoJo |
 | 588 | 266 | Petty |
-| 589 | 266 | Hanh Pham |
-| 590 | 266 | Stacy |
+| 589 | 266 | Stacy |
+| 590 | 266 | Hanh Pham |
 | 591 | 265 | Hyper Shatterbuilder |
 | 592 | 265 | Becky Shimko |
 | 593 | 265 | Bumpy Morris |
-| 594 | 265 | Laura Hosford |
-| 595 | 264 | Vamp |
-| 596 | 264 | Shant |
-| 597 | 263 | Laurmarcar |
-| 598 | 263 | Shanon Klair |
-| 599 | 262 | Dorian |
+| 594 | 265 | Dorian |
+| 595 | 265 | Laura Hosford |
+| 596 | 264 | Vamp |
+| 597 | 264 | Shant |
+| 598 | 263 | Laurmarcar |
+| 599 | 263 | Shanon Klair |
 | 600 | 262 | Christina Nabrizny |
 | 601 | 261 | conceptCollector |
 | 602 | 261 | Eric Wren |
