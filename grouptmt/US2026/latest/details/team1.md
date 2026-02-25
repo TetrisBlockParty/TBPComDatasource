@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 07:51:23 UTC
+# Standings for team1 as of 2026-02-25 07:52:44 UTC
 
 **Total Participants:** 2434
 
@@ -35,7 +35,7 @@
 | 27 | 2112 | Amanda Jarnagin |
 | 28 | 2087 | Jorge Andrade |
 | 29 | 2040 | Jennifer Cates |
-| 30 | 1982 | Hyp James NObettadanluvarat |
+| 30 | 1985 | Hyp James NObettadanluvarat |
 | 31 | 1969 | Joe Smith |
 | 32 | 1836 | Nancy Green |
 | 33 | 1826 | Bhelle Sumile |
@@ -67,9 +67,9 @@
 | 59 | 1445 | Rachael |
 | 60 | 1438 | Aaron Garnett |
 | 61 | 1423 | Tipsy Column |
-| 62 | 1415 | Lexuriuos Lifestlye |
-| 63 | 1390 | Hasbro Bros |
-| 64 | 1371 | Drew Magnus |
+| 62 | 1421 | Drew Magnus |
+| 63 | 1415 | Lexuriuos Lifestlye |
+| 64 | 1390 | Hasbro Bros |
 | 65 | 1340 | Adam Byrd |
 | 66 | 1330 | TSwag |
 | 67 | 1328 | Karin Gillen |
@@ -345,9 +345,9 @@
 | 337 | 399 | Sarah Marie |
 | 338 | 399 | Layzietyme |
 | 339 | 398 | Angela Jones |
-| 340 | 396 | Danielle S Kester |
-| 341 | 395 | Brooke Elizabeth Antill |
-| 342 | 395 | Elizabeth Kubli |
+| 340 | 398 | Elizabeth Kubli |
+| 341 | 396 | Danielle S Kester |
+| 342 | 395 | Brooke Elizabeth Antill |
 | 343 | 394 | Nick R Montague |
 | 344 | 394 | Angela Dawn Torres-Tarrants |
 | 345 | 393 | Frothy Pattern |
