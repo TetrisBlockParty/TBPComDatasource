@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 11:15:24 UTC
+# Standings for team4 as of 2026-02-25 11:16:22 UTC
 
 **Total Participants:** 2199
 
@@ -340,7 +340,7 @@
 | 332 | 421 | Jason Bosco |
 | 333 | 420 | KayM |
 | 334 | 419 | Nubian1 |
-| 335 | 417 | Christine Simmons |
+| 335 | 419 | Christine Simmons |
 | 336 | 417 | Jason Frehner |
 | 337 | 416 | Allison Rose |
 | 338 | 416 | David Boggs |
@@ -557,57 +557,57 @@
 | 549 | 272 | Quirky Dash |
 | 550 | 272 | Globofish |
 | 551 | 272 | Noel Christa |
-| 552 | 271 | Melissa Priest Sellers |
-| 553 | 271 | Rebecca Blake |
-| 554 | 270 | Jen Hallin |
+| 552 | 271 | Tianna Frey |
+| 553 | 271 | Melissa Priest Sellers |
+| 554 | 271 | Rebecca Blake |
 | 555 | 270 | Smiley Shifter |
-| 556 | 270 | Robert Rangel |
-| 557 | 270 | Degenerate |
-| 558 | 269 | Stormy Tomplait |
-| 559 | 269 | Melissa VanBourgondien |
-| 560 | 268 | The Murphy |
-| 561 | 268 | Riverdale |
-| 562 | 268 | Dandy Cascadefit |
-| 563 | 267 | Brian Owens |
-| 564 | 266 | Stacy |
-| 565 | 266 | Petty |
-| 566 | 266 | Frilly Blocky |
-| 567 | 266 | Mary Miller |
-| 568 | 265 | Matt Morrow |
-| 569 | 265 | Christine Therrien |
-| 570 | 265 | Becky Shimko |
-| 571 | 265 | Laura Hosford |
-| 572 | 263 | Shanon Klair |
-| 573 | 263 | Laurmarcar |
-| 574 | 262 | Christina Nabrizny |
+| 556 | 270 | Jen Hallin |
+| 557 | 270 | Robert Rangel |
+| 558 | 270 | Degenerate |
+| 559 | 269 | Stormy Tomplait |
+| 560 | 269 | Melissa VanBourgondien |
+| 561 | 268 | The Murphy |
+| 562 | 268 | Riverdale |
+| 563 | 268 | Dandy Cascadefit |
+| 564 | 267 | Brian Owens |
+| 565 | 266 | Stacy |
+| 566 | 266 | Petty |
+| 567 | 266 | Frilly Blocky |
+| 568 | 266 | Mary Miller |
+| 569 | 265 | Matt Morrow |
+| 570 | 265 | Christine Therrien |
+| 571 | 265 | Becky Shimko |
+| 572 | 265 | Laura Hosford |
+| 573 | 263 | Shanon Klair |
+| 574 | 263 | Laurmarcar |
 | 575 | 262 | Hyper Shatterbuilder |
 | 576 | 262 | Dorian |
-| 577 | 261 | Eric Wren |
-| 578 | 261 | conceptCollector |
-| 579 | 260 | Frank Joseph Epson |
-| 580 | 259 | Perky Riser |
-| 581 | 258 | Dante Korleon |
-| 582 | 258 | Michelle McCutcheon |
-| 583 | 258 | wombat |
+| 577 | 262 | Christina Nabrizny |
+| 578 | 261 | Eric Wren |
+| 579 | 261 | conceptCollector |
+| 580 | 260 | Frank Joseph Epson |
+| 581 | 259 | Perky Riser |
+| 582 | 258 | Dante Korleon |
+| 583 | 258 | Michelle McCutcheon |
 | 584 | 258 | Denise Jones |
-| 585 | 257 | Red |
+| 585 | 258 | wombat |
 | 586 | 257 | 2slo |
 | 587 | 257 | Joseph Edmonson |
-| 588 | 256 | Lonnie Brown |
-| 589 | 256 | Tianna Frey |
+| 588 | 257 | Red |
+| 589 | 256 | Lonnie Brown |
 | 590 | 256 | Rhys Morgan |
 | 591 | 255 | Martha Lucinda Bishop |
 | 592 | 255 | Bumpy Morris |
 | 593 | 255 | Jesus Garcia |
-| 594 | 254 | Shant |
-| 595 | 254 | Joey Riley |
+| 594 | 254 | Groovy Brickmatch |
+| 595 | 254 | Shant |
 | 596 | 254 | Boldy Linkpiece |
-| 597 | 254 | Groovy Brickmatch |
+| 597 | 254 | Joey Riley |
 | 598 | 253 | Autum Leigh |
 | 599 | 252 | Seraphim |
-| 600 | 251 | Carol Ricks Raymond |
+| 600 | 251 | Gilles Lanctot |
 | 601 | 251 | Marco |
-| 602 | 251 | Gilles Lanctot |
+| 602 | 251 | Carol Ricks Raymond |
 | 603 | 250 | Loony Rotater |
 | 604 | 250 | Ann G. Carrillo |
 | 605 | 250 | Girldadtpa |
@@ -616,15 +616,15 @@
 | 608 | 248 | Chirpy Basepiece |
 | 609 | 248 | Victoria Faniel |
 | 610 | 248 | Vanessa Smart |
-| 611 | 246 | Mike Kremen |
-| 612 | 246 | Colton Stamper |
+| 611 | 246 | Colton Stamper |
+| 612 | 246 | Mike Kremen |
 | 613 | 246 | Dapper Balancer |
 | 614 | 246 | Brandon Link |
 | 615 | 246 | Ali Ian |
-| 616 | 245 | Zocko Ellet |
+| 616 | 245 | Shon Woodland |
 | 617 | 245 | Derick |
-| 618 | 245 | Mighty Edgepiece |
-| 619 | 245 | Shon Woodland |
+| 618 | 245 | Zocko Ellet |
+| 619 | 245 | Mighty Edgepiece |
 | 620 | 244 | Robert Rodriguez |
 | 621 | 244 | Steve Sperino |
 | 622 | 244 | Darrin Rubalcava |
