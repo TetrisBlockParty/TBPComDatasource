@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 03:50:45 UTC
+# Standings for team1 as of 2026-02-25 03:51:22 UTC
 
 **Total Participants:** 2391
 
@@ -69,7 +69,7 @@
 | 61 | 1330 | TSwag |
 | 62 | 1328 | Karin Gillen |
 | 63 | 1320 | Kathy Langham |
-| 64 | 1312 | Lawrence Belanger |
+| 64 | 1318 | Lawrence Belanger |
 | 65 | 1311 | Cheeky Twistslam |
 | 66 | 1310 | Veronica Eve |
 | 67 | 1305 | Adam Byrd |
@@ -330,19 +330,19 @@
 | 322 | 405 | Marie Bremner |
 | 323 | 404 | Sunny Pivotfall |
 | 324 | 403 | Robert |
-| 325 | 403 | Nathan Sealander |
-| 326 | 403 | Stephanie Leday |
+| 325 | 403 | Stephanie Leday |
+| 326 | 403 | Nathan Sealander |
 | 327 | 402 | Glitzy Curvebuilder |
-| 328 | 400 | Toya Lynn |
-| 329 | 399 | Layzietyme |
+| 328 | 400 | whocares |
+| 329 | 400 | Toya Lynn |
 | 330 | 399 | Sarah Marie |
-| 331 | 398 | Angela Jones |
-| 332 | 395 | Brooke Elizabeth Antill |
-| 333 | 394 | whocares |
+| 331 | 399 | Layzietyme |
+| 332 | 398 | Angela Jones |
+| 333 | 395 | Brooke Elizabeth Antill |
 | 334 | 394 | Nick R Montague |
 | 335 | 393 | Wisa |
-| 336 | 393 | Strig |
-| 337 | 393 | Frothy Pattern |
+| 336 | 393 | Frothy Pattern |
+| 337 | 393 | Strig |
 | 338 | 392 | Shiny Gridmatch |
 | 339 | 390 | Danielle S Kester |
 | 340 | 390 | Zany Tiler |
@@ -1532,136 +1532,136 @@
 | 1524 | 63 | Witty Frame |
 | 1525 | 63 | Shea Hall |
 | 1526 | 62 | Shanetta Jacob Hannagan Johnson |
-| 1527 | 62 | Hilda Silvers |
-| 1528 | 62 | Julia Wilson |
-| 1529 | 62 | Rooster |
-| 1530 | 62 | Grant Halverson |
-| 1531 | 62 | Louie Ornelas |
-| 1532 | 62 | Kishi |
-| 1533 | 62 | Michael Campbell |
-| 1534 | 62 | Joshua Brymer |
-| 1535 | 61 | Brianna Andrews |
-| 1536 | 61 | Jimmie |
-| 1537 | 61 | Karen Guy |
-| 1538 | 61 | Robin Blume |
-| 1539 | 61 | tiffanyfree |
-| 1540 | 61 | Perky Patternfall |
-| 1541 | 61 | Baddiebby |
-| 1542 | 61 | Chirpy Zoney |
-| 1543 | 61 | Brian |
-| 1544 | 61 | Rose Clark |
-| 1545 | 60 | Bambi Cervidae |
+| 1527 | 62 | Rooster |
+| 1528 | 62 | Grant Halverson |
+| 1529 | 62 | Louie Ornelas |
+| 1530 | 62 | Julia Wilson |
+| 1531 | 62 | Kishi |
+| 1532 | 62 | Joshua Brymer |
+| 1533 | 62 | Hilda Silvers |
+| 1534 | 62 | Michael Campbell |
+| 1535 | 61 | Brian |
+| 1536 | 61 | Rose Clark |
+| 1537 | 61 | Perky Patternfall |
+| 1538 | 61 | Chirpy Zoney |
+| 1539 | 61 | Brianna Andrews |
+| 1540 | 61 | Baddiebby |
+| 1541 | 61 | tiffanyfree |
+| 1542 | 61 | Robin Blume |
+| 1543 | 61 | Karen Guy |
+| 1544 | 61 | Jimmie |
+| 1545 | 60 | Vanilla gorilla |
 | 1546 | 60 | Marcellus Royal |
-| 1547 | 60 | Vanilla gorilla |
+| 1547 | 60 | Samantha Netherly-Ratliff |
 | 1548 | 60 | Michael Akins |
-| 1549 | 60 | Samantha Netherly-Ratliff |
-| 1550 | 60 | Patty Sersich |
-| 1551 | 60 | Tracy Farrar |
-| 1552 | 60 | Quirky Catcher |
-| 1553 | 60 | Ron |
-| 1554 | 60 | Scott Hevenor |
-| 1555 | 60 | Apex892 |
-| 1556 | 59 | Cielo Rodriguez |
-| 1557 | 59 | Dana C. Howell |
-| 1558 | 59 | Frothy Snapzone |
+| 1549 | 60 | Tracy Farrar |
+| 1550 | 60 | Quirky Catcher |
+| 1551 | 60 | Ron |
+| 1552 | 60 | Apex892 |
+| 1553 | 60 | Scott Hevenor |
+| 1554 | 60 | Bambi Cervidae |
+| 1555 | 60 | Patty Sersich |
+| 1556 | 59 | Dana C. Howell |
+| 1557 | 59 | Cielo Rodriguez |
+| 1558 | 59 | Prudence Muzondo |
 | 1559 | 59 | Chummy Tiltpiece |
 | 1560 | 59 | Cynthia Dalton |
 | 1561 | 59 | Kaitlyn Sheldon |
 | 1562 | 59 | Eric Inniss |
 | 1563 | 59 | Mia Ballard |
-| 1564 | 59 | Prudence Muzondo |
+| 1564 | 59 | Frothy Snapzone |
 | 1565 | 59 | Loopy Shiftsnap |
 | 1566 | 59 | Happy Step |
-| 1567 | 58 | Tasha Nicole |
+| 1567 | 58 | Tommy |
 | 1568 | 58 | Snazzy Buildsnap |
 | 1569 | 58 | Ry |
 | 1570 | 58 | Star Gaze |
-| 1571 | 58 | Tommy |
-| 1572 | 58 | Lavon Usher |
-| 1573 | 57 | Marie Wilson |
-| 1574 | 57 | Ashley Freeman |
-| 1575 | 57 | McMeow |
-| 1576 | 57 | Frothy Wipebuilder |
-| 1577 | 57 | Erin Divine |
+| 1571 | 58 | Lavon Usher |
+| 1572 | 58 | Tasha Nicole |
+| 1573 | 57 | Frothy Wipebuilder |
+| 1574 | 57 | Erin Divine |
+| 1575 | 57 | Ashley Freeman |
+| 1576 | 57 | Marie Wilson |
+| 1577 | 57 | McMeow |
 | 1578 | 57 | Chez |
 | 1579 | 57 | Syrano Casa |
 | 1580 | 57 | Laura |
 | 1581 | 57 | Mandy Dodson |
-| 1582 | 57 | Henry James Bechtold |
+| 1582 | 57 | Chipper Wipegrid |
 | 1583 | 57 | Justin Alberry |
-| 1584 | 57 | Chipper Wipegrid |
+| 1584 | 57 | Henry James Bechtold |
 | 1585 | 57 | Kristye |
 | 1586 | 56 | Tinamarie Ann Brown |
 | 1587 | 56 | Jessica Collier |
 | 1588 | 56 | Terry Aldridge |
 | 1589 | 56 | Eduk8ted Rednek |
-| 1590 | 56 | GG Water |
-| 1591 | 56 | Jess Ortiz |
-| 1592 | 56 | Cheryl Harker |
-| 1593 | 56 | Hasty Dropmatch |
-| 1594 | 56 | Eric Perry |
-| 1595 | 55 | Meranda Varney |
-| 1596 | 55 | Jolly Riserbuilder |
+| 1590 | 56 | Moneybags |
+| 1591 | 56 | GG Water |
+| 1592 | 56 | Jess Ortiz |
+| 1593 | 56 | Cheryl Harker |
+| 1594 | 56 | Hasty Dropmatch |
+| 1595 | 56 | Eric Perry |
+| 1596 | 55 | Meranda Varney |
 | 1597 | 55 | Brave Linker |
 | 1598 | 55 | James Brittingham |
-| 1599 | 55 | Brian Crenshaw |
-| 1600 | 55 | Emma Hughes |
-| 1601 | 55 | Delia Cheatwood |
-| 1602 | 55 | KISSARMY80 |
+| 1599 | 55 | Jolly Riserbuilder |
+| 1600 | 55 | Brian Crenshaw |
+| 1601 | 55 | Emma Hughes |
+| 1602 | 55 | Delia Cheatwood |
 | 1603 | 55 | Walter Turner |
 | 1604 | 55 | Spunky Linkpiece |
-| 1605 | 55 | John Gardner |
-| 1606 | 54 | Ta'tiayna Saunders |
-| 1607 | 54 | Lacey Wilson |
-| 1608 | 54 | Janell Gentry |
-| 1609 | 54 | Fdjhdjnb |
-| 1610 | 54 | Darcy Doe |
-| 1611 | 54 | June Myklebust Degarmo |
-| 1612 | 54 | Brittnay Livigne |
-| 1613 | 54 | Fancy Blockfall |
+| 1605 | 55 | KISSARMY80 |
+| 1606 | 55 | John Gardner |
+| 1607 | 54 | Ta'tiayna Saunders |
+| 1608 | 54 | Lacey Wilson |
+| 1609 | 54 | Janell Gentry |
+| 1610 | 54 | Fdjhdjnb |
+| 1611 | 54 | Darcy Doe |
+| 1612 | 54 | Harry N Baker |
+| 1613 | 54 | Brittnay Livigne |
 | 1614 | 54 | Sandara Miley |
-| 1615 | 54 | Harry N Baker |
-| 1616 | 53 | Equasia Lane |
-| 1617 | 53 | Stone Morton |
-| 1618 | 53 | Fancy Zone |
-| 1619 | 53 | Jacob Dozar |
-| 1620 | 53 | Jason Andrews |
-| 1621 | 53 | Chris Nix |
-| 1622 | 53 | Solita Krauss |
+| 1615 | 54 | Fancy Blockfall |
+| 1616 | 54 | June Myklebust Degarmo |
+| 1617 | 53 | Jacob Dozar |
+| 1618 | 53 | Chris Nix |
+| 1619 | 53 | Jason Andrews |
+| 1620 | 53 | Equasia Lane |
+| 1621 | 53 | Solita Krauss |
+| 1622 | 53 | Fancy Zone |
 | 1623 | 53 | Denise Schulz |
-| 1624 | 52 | DebraSue Bunting |
+| 1624 | 53 | Stone Morton |
 | 1625 | 52 | Ryan James Kelly |
-| 1626 | 52 | Cassandra Lee |
-| 1627 | 52 | Jennifer Love Lee |
-| 1628 | 52 | Melissa Kingston |
-| 1629 | 52 | Jessica |
-| 1630 | 52 | Sandoval Tinka |
-| 1631 | 52 | Beth |
-| 1632 | 52 | Hoppy Snaplink |
-| 1633 | 52 | Pineapple 🍍 |
-| 1634 | 52 | Fancy Tiley |
-| 1635 | 52 | John M. Bennett |
-| 1636 | 52 | Maxime Samson |
-| 1637 | 52 | cori |
-| 1638 | 52 | COWBOY |
-| 1639 | 51 | TJ |
-| 1640 | 51 | RetroRina |
-| 1641 | 51 | Clever Pivotfall |
-| 1642 | 51 | Moneybags |
-| 1643 | 51 | Silas Dragoo |
-| 1644 | 51 | Jack Shafer |
-| 1645 | 51 | Jumpy Clearfit |
-| 1646 | 51 | shh |
-| 1647 | 51 | Betsi Pittman Wade |
-| 1648 | 51 | lambo88 |
-| 1649 | 51 | Dizzy Cascadefit |
+| 1626 | 52 | Jennifer Love Lee |
+| 1627 | 52 | Sandoval Tinka |
+| 1628 | 52 | Cassandra Lee |
+| 1629 | 52 | Melissa Kingston |
+| 1630 | 52 | John M. Bennett |
+| 1631 | 52 | Maxime Samson |
+| 1632 | 52 | cori |
+| 1633 | 52 | COWBOY |
+| 1634 | 52 | Jessica |
+| 1635 | 52 | Fancy Tiley |
+| 1636 | 52 | Hoppy Snaplink |
+| 1637 | 52 | Pineapple 🍍 |
+| 1638 | 52 | Beth |
+| 1639 | 52 | DebraSue Bunting |
+| 1640 | 51 | Jack Shafer |
+| 1641 | 51 | Jumpy Clearfit |
+| 1642 | 51 | TJ |
+| 1643 | 51 | shh |
+| 1644 | 51 | Betsi Pittman Wade |
+| 1645 | 51 | lambo88 |
+| 1646 | 51 | Dizzy Cascadefit |
+| 1647 | 51 | Silas Dragoo |
+| 1648 | 51 | Clever Pivotfall |
+| 1649 | 51 | RetroRina |
 | 1650 | 50 | npc1vis |
-| 1651 | 50 | Lush Snapclear |
-| 1652 | 50 | LongBarLust |
-| 1653 | 50 | Tracy Obenauer |
-| 1654 | 50 | Katherine Marie Spittle |
-| 1655 | 50 | Randi Howell |
-| 1656 | 50 | Sarah Lyle |
+| 1651 | 50 | Tracy Obenauer |
+| 1652 | 50 | Lush Snapclear |
+| 1653 | 50 | Randi Howell |
+| 1654 | 50 | Sarah Lyle |
+| 1655 | 50 | LongBarLust |
+| 1656 | 50 | Katherine Marie Spittle |
 | 1657 | 50 | Dandy Line |
 | 1658 | 50 | Kat Bowman |
 | 1659 | 50 | Cheeky Spinzone |
