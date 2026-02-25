@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 20:56:44 UTC
+# Standings for team1 as of 2026-02-25 20:57:23 UTC
 
 **Total Participants:** 2527
 
@@ -152,7 +152,7 @@
 | 144 | 802 | Sean Stallings |
 | 145 | 799 | Flashy Rotator |
 | 146 | 798 | Virginia Gray Floyd |
-| 147 | 796 | Christy Jones |
+| 147 | 798 | Christy Jones |
 | 148 | 791 | Tiger Lily |
 | 149 | 789 | Standia Civil |
 | 150 | 789 | Death |
