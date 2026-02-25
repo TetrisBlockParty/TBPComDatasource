@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 16:48:46 UTC
+# Standings for team4 as of 2026-02-25 16:49:23 UTC
 
 **Total Participants:** 2230
 
@@ -63,10 +63,10 @@
 | 55 | 1508 | Juggalo |
 | 56 | 1498 | Pee |
 | 57 | 1435 | Denia Deni |
-| 58 | 1426 | Mona Sharma |
-| 59 | 1391 | LisaJo Picken Buchanan |
-| 60 | 1390 | Toots |
-| 61 | 1376 | Johnathan Martinez |
+| 58 | 1430 | Johnathan Martinez |
+| 59 | 1426 | Mona Sharma |
+| 60 | 1391 | LisaJo Picken Buchanan |
+| 61 | 1390 | Toots |
 | 62 | 1374 | Isabel Aguilar |
 | 63 | 1364 | Julian Garcia |
 | 64 | 1353 | Amelpss |
@@ -182,8 +182,8 @@
 | 174 | 694 | Dana Scott |
 | 175 | 689 | Erin Sabol |
 | 176 | 686 | Ernest Maxwell |
-| 177 | 680 | Melvin Baird |
-| 178 | 680 | Kathy Brookins |
+| 177 | 685 | Kathy Brookins |
+| 178 | 680 | Melvin Baird |
 | 179 | 679 | YoMomma |
 | 180 | 671 | Cristy Duerksen |
 | 181 | 671 | Angelito |
@@ -1453,13 +1453,13 @@
 | 1445 | 67 | Jazzy Cascadezone |
 | 1446 | 67 | Minot4444 |
 | 1447 | 67 | Daring Matchfit |
-| 1448 | 67 | TrillVille |
-| 1449 | 67 | Tj Colman |
+| 1448 | 67 | Fritzi Phillips |
+| 1449 | 67 | TrillVille |
 | 1450 | 67 | Anita Kramer |
-| 1451 | 67 | Fritzi Phillips |
+| 1451 | 67 | Tj Colman |
 | 1452 | 67 | Cherry cola pepper |
-| 1453 | 66 | Jerry Ruff |
-| 1454 | 66 | Mighty T-spin |
+| 1453 | 66 | Mighty T-spin |
+| 1454 | 66 | Jerry Ruff |
 | 1455 | 66 | Daoxed |
 | 1456 | 66 | Flashy Snapbuild |
 | 1457 | 66 | Coflowers |
@@ -1468,45 +1468,45 @@
 | 1460 | 66 | Nadine Simone Jackwin |
 | 1461 | 65 | Daws |
 | 1462 | 65 | Shelly Matthews |
-| 1463 | 65 | Dean Masters |
-| 1464 | 65 | Deb Lilja |
-| 1465 | 65 | Ashley Gilland |
-| 1466 | 65 | Barcelos |
-| 1467 | 64 | McKayla Snell |
+| 1463 | 65 | Ashley Gilland |
+| 1464 | 65 | Dean Masters |
+| 1465 | 65 | Deb Lilja |
+| 1466 | 65 | Wacky Shift |
+| 1467 | 65 | Barcelos |
 | 1468 | 64 | Amy Anderson-Franks |
-| 1469 | 64 | Jacqueline Brosius |
-| 1470 | 64 | Jennifer Hunt |
-| 1471 | 64 | Phyllis Wilson |
-| 1472 | 64 | Kenny Hutchens |
+| 1469 | 64 | McKayla Snell |
+| 1470 | 64 | Jacqueline Brosius |
+| 1471 | 64 | Lush Basegrid |
+| 1472 | 64 | Audrey Hammock |
 | 1473 | 64 | Kemal Topko |
-| 1474 | 64 | Audrey Hammock |
-| 1475 | 64 | Lush Basegrid |
-| 1476 | 63 | John Robert Roe |
+| 1474 | 64 | Jennifer Hunt |
+| 1475 | 64 | Kenny Hutchens |
+| 1476 | 64 | Phyllis Wilson |
 | 1477 | 63 | Petri |
-| 1478 | 63 | peekaboo |
-| 1479 | 63 | Wet Noodle |
-| 1480 | 63 | Wormtown girl |
-| 1481 | 63 | Wacky Shift |
-| 1482 | 63 | Pamela Hagedorn |
-| 1483 | 63 | Tammie Jewel DeSimon |
-| 1484 | 63 | Colleen Keller |
-| 1485 | 63 | Kelly Newsom |
+| 1478 | 63 | Kelly Newsom |
+| 1479 | 63 | Tammie Jewel DeSimon |
+| 1480 | 63 | Pamela Hagedorn |
+| 1481 | 63 | peekaboo |
+| 1482 | 63 | Wet Noodle |
+| 1483 | 63 | Wormtown girl |
+| 1484 | 63 | John Robert Roe |
+| 1485 | 63 | Colleen Keller |
 | 1486 | 63 | Zesty Snapmatch |
 | 1487 | 63 | SpyderByt3 |
-| 1488 | 62 | Monica Goldhorn |
-| 1489 | 62 | Dreamy Jumper |
-| 1490 | 62 | Clever Caster |
+| 1488 | 62 | Clever Caster |
+| 1489 | 62 | Jaycool |
+| 1490 | 62 | Kat |
 | 1491 | 62 | yuh |
-| 1492 | 62 | Kat |
-| 1493 | 62 | Jaycool |
-| 1494 | 62 | Bouncy Rotator |
-| 1495 | 62 | Pretty 💕 |
+| 1492 | 62 | Pretty 💕 |
+| 1493 | 62 | Bouncy Rotator |
+| 1494 | 62 | Dreamy Jumper |
+| 1495 | 62 | Monica Goldhorn |
 | 1496 | 62 | DingusBingus17 |
 | 1497 | 62 | Cehak Saray |
-| 1498 | 61 | Binji |
-| 1499 | 61 | Matt Tackett |
-| 1500 | 61 | Nicholas Jordan |
-| 1501 | 61 | Synamatic |
+| 1498 | 61 | Nicholas Jordan |
+| 1499 | 61 | Synamatic |
+| 1500 | 61 | Binji |
+| 1501 | 61 | Matt Tackett |
 | 1502 | 61 | Rollinsmokes |
 | 1503 | 61 | niksteve70 |
 | 1504 | 61 | Keith Allen |
