@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 07:08:44 UTC
+# Standings for team1 as of 2026-02-25 07:09:25 UTC
 
 **Total Participants:** 2432
 
@@ -642,103 +642,103 @@
 | 634 | 246 | ken |
 | 635 | 246 | Frothy Blockbuilder |
 | 636 | 246 | Nicole Nikki |
-| 637 | 245 | Sarah Barrow |
-| 638 | 245 | Nutty Glide |
+| 637 | 245 | Nutty Glide |
+| 638 | 245 | Sarah Barrow |
 | 639 | 245 | Corkey Steinmark |
 | 640 | 244 | Robin Burress |
 | 641 | 243 | Shay J Duval |
 | 642 | 242 | Kirk Torrey |
-| 643 | 242 | Dawn Rannelli |
-| 644 | 242 | Jen Justus |
+| 643 | 242 | Jen Justus |
+| 644 | 242 | Dawn Rannelli |
 | 645 | 241 | Lush Zoney |
-| 646 | 241 | Mavria Comeaux Hinton |
-| 647 | 241 | Misty Hall Zaranti |
-| 648 | 241 | Kellie Tunstall |
-| 649 | 241 | Hdhshsn |
-| 650 | 240 | Jessica Imboden |
-| 651 | 239 | Dizzy Rackham |
-| 652 | 239 | Mel Hogan |
-| 653 | 239 | Bucketsmasher |
-| 654 | 238 | Kanesha Jackson |
-| 655 | 238 | Ashley Rodriguez |
-| 656 | 238 | Lucinda Thacker |
-| 657 | 237 | Renata Mabie |
-| 658 | 237 | Lark |
-| 659 | 237 | Gina Fontana Meier |
-| 660 | 237 | Jonathan Joshua |
-| 661 | 236 | Mortious |
-| 662 | 236 | Boldy Snapfit |
-| 663 | 236 | Slinky Tile |
-| 664 | 235 | Sarah Henniker |
-| 665 | 235 | UffleFluff |
+| 646 | 241 | Misty Hall Zaranti |
+| 647 | 241 | Kellie Tunstall |
+| 648 | 241 | Hdhshsn |
+| 649 | 241 | Mavria Comeaux Hinton |
+| 650 | 240 | Renata Mabie |
+| 651 | 240 | Jessica Imboden |
+| 652 | 239 | Dizzy Rackham |
+| 653 | 239 | Matt Cinelli |
+| 654 | 239 | Mel Hogan |
+| 655 | 239 | Bucketsmasher |
+| 656 | 238 | Ashley Rodriguez |
+| 657 | 238 | Lucinda Thacker |
+| 658 | 238 | Kanesha Jackson |
+| 659 | 237 | Jonathan Joshua |
+| 660 | 237 | Lark |
+| 661 | 237 | Gina Fontana Meier |
+| 662 | 236 | Slinky Tile |
+| 663 | 236 | Mortious |
+| 664 | 236 | Boldy Snapfit |
+| 665 | 235 | Sarah Henniker |
 | 666 | 235 | Jana Hutcheson |
 | 667 | 235 | Owicked1 |
-| 668 | 234 | Christina Torres |
-| 669 | 234 | Krazykat💋❤️💋 |
-| 670 | 234 | Aaron Green |
-| 671 | 234 | Ruby Sandberg |
-| 672 | 233 | Sherri E Woods Hess |
-| 673 | 233 | Tina Englert |
-| 674 | 233 | Hyper Tilemaker |
-| 675 | 232 | Tina Sinclair |
-| 676 | 231 | Sarah Cassese |
+| 668 | 235 | UffleFluff |
+| 669 | 234 | Christina Torres |
+| 670 | 234 | Krazykat💋❤️💋 |
+| 671 | 234 | Aaron Green |
+| 672 | 234 | Ruby Sandberg |
+| 673 | 233 | Hyper Tilemaker |
+| 674 | 233 | Tina Englert |
+| 675 | 233 | Sherri E Woods Hess |
+| 676 | 232 | Tina Sinclair |
 | 677 | 231 | Dawn Henderson |
-| 678 | 231 | Hector Cruz |
-| 679 | 230 | Jennifer Crawford |
-| 680 | 229 | Mindy Gloska |
-| 681 | 228 | Jai Pahpasay |
-| 682 | 228 | Negan Mallory Knoxx Spence |
-| 683 | 227 | Daniel Lorquet |
+| 678 | 231 | Sarah Cassese |
+| 679 | 231 | Hector Cruz |
+| 680 | 230 | Jennifer Crawford |
+| 681 | 229 | Mindy Gloska |
+| 682 | 228 | Jai Pahpasay |
+| 683 | 228 | Negan Mallory Knoxx Spence |
 | 684 | 227 | Craig Mcgonigle |
 | 685 | 227 | Spunky Builderpiece |
-| 686 | 227 | Mary M Brion |
-| 687 | 225 | Rick Pickup Raymur |
-| 688 | 225 | Ramona Mittelstadt |
-| 689 | 224 | BettyAnn Savo |
-| 690 | 224 | Speedy Balancepiece |
-| 691 | 224 | Davery Spencer Adair |
-| 692 | 224 | Kkl |
-| 693 | 224 | Giggly Rollfit |
-| 694 | 223 | Erez Yosef |
-| 695 | 223 | Chyna Mae |
-| 696 | 223 | Piffy |
-| 697 | 223 | Britney Marie Burton Cole |
-| 698 | 223 | Natasha Hollowell Causey |
-| 699 | 223 | Swanky Patternfit |
-| 700 | 223 | Dawn Cox |
-| 701 | 222 | Emily Wray |
+| 686 | 227 | Daniel Lorquet |
+| 687 | 227 | Mary M Brion |
+| 688 | 225 | Rick Pickup Raymur |
+| 689 | 225 | Ramona Mittelstadt |
+| 690 | 224 | Giggly Rollfit |
+| 691 | 224 | Speedy Balancepiece |
+| 692 | 224 | BettyAnn Savo |
+| 693 | 224 | Kkl |
+| 694 | 224 | Davery Spencer Adair |
+| 695 | 223 | Dawn Cox |
+| 696 | 223 | Erez Yosef |
+| 697 | 223 | Natasha Hollowell Causey |
+| 698 | 223 | Britney Marie Burton Cole |
+| 699 | 223 | Chyna Mae |
+| 700 | 223 | Swanky Patternfit |
+| 701 | 223 | Piffy |
 | 702 | 222 | yoyoluv |
 | 703 | 222 | Melissa Ann Macko |
-| 704 | 222 | Henry Lanier |
-| 705 | 221 | Amy Hess |
-| 706 | 220 | Chadocho |
-| 707 | 219 | Matt Cinelli |
+| 704 | 222 | Emily Wray |
+| 705 | 222 | Henry Lanier |
+| 706 | 221 | Amy Hess |
+| 707 | 220 | Chadocho |
 | 708 | 219 | BrenaBae |
-| 709 | 218 | Brian Taylor |
-| 710 | 218 | Witty Curve |
+| 709 | 218 | Witty Curve |
+| 710 | 218 | Brian Taylor |
 | 711 | 217 | Chipper Piecefit |
-| 712 | 217 | Bean |
-| 713 | 217 | Bruce Cruz |
-| 714 | 217 | Sarah Bersano |
-| 715 | 216 | Shauntina Burke |
-| 716 | 216 | Nicolette Ivory Chastain |
-| 717 | 215 | Jaymee Eva Shannon |
-| 718 | 215 | Elizabeth Shaw |
-| 719 | 215 | Gauge Slusher |
-| 720 | 215 | Oliver Hollins |
-| 721 | 215 | Spunky Tilt |
-| 722 | 214 | Jazzmin Queen |
-| 723 | 214 | Alex Gauthier |
-| 724 | 214 | V VIN |
+| 712 | 217 | Bruce Cruz |
+| 713 | 217 | Sarah Bersano |
+| 714 | 217 | Bean |
+| 715 | 216 | Nicolette Ivory Chastain |
+| 716 | 216 | Shauntina Burke |
+| 717 | 215 | Spunky Tilt |
+| 718 | 215 | Jaymee Eva Shannon |
+| 719 | 215 | Oliver Hollins |
+| 720 | 215 | Gauge Slusher |
+| 721 | 215 | Elizabeth Shaw |
+| 722 | 214 | V VIN |
+| 723 | 214 | Jazzmin Queen |
+| 724 | 214 | Alex Gauthier |
 | 725 | 214 | Peachy Wipebuilder |
 | 726 | 214 | Joyce Harrell-chavis |
-| 727 | 212 | Sherrick Edwards |
-| 728 | 212 | Denise Belanger |
-| 729 | 212 | Becky Coker |
+| 727 | 212 | Becky Coker |
+| 728 | 212 | Sherrick Edwards |
+| 729 | 212 | Denise Belanger |
 | 730 | 211 | Jeff Newinski |
 | 731 | 211 | Riley Lee |
-| 732 | 210 | Danny Brady |
-| 733 | 210 | KoDaK |
+| 732 | 210 | KoDaK |
+| 733 | 210 | Danny Brady |
 | 734 | 210 | Fat fred |
 | 735 | 210 | Kathryn Chiles Anderson |
 | 736 | 209 | Lively Wipeout |
