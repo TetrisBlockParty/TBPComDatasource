@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 21:44:44 UTC
+# Standings for team4 as of 2026-02-25 21:45:24 UTC
 
 **Total Participants:** 2266
 
@@ -23,7 +23,7 @@
 | 15 | 3863 | Leah Gorsuch |
 | 16 | 3784 | GreenJeepGirl |
 | 17 | 3716 | Ancient Intuition |
-| 18 | 3334 | Clarence Patawaran |
+| 18 | 3349 | Clarence Patawaran |
 | 19 | 3040 | Denny Shives |
 | 20 | 2732 | Jason Allen |
 | 21 | 2529 | Misty Hollibaugh |
@@ -162,11 +162,11 @@
 | 154 | 766 | Berklie Apedaile |
 | 155 | 766 | Robin Watters |
 | 156 | 765 | Raegan Lane-Ross |
-| 157 | 758 | H.R. Block |
-| 158 | 752 | Jessica Lynn Cutlip |
-| 159 | 749 | shar |
-| 160 | 749 | 🥔🥔 Spudz |
-| 161 | 748 | Rebecca Morris |
+| 157 | 763 | Rebecca Morris |
+| 158 | 758 | H.R. Block |
+| 159 | 752 | Jessica Lynn Cutlip |
+| 160 | 749 | shar |
+| 161 | 749 | 🥔🥔 Spudz |
 | 162 | 741 | Jacqueline Helm |
 | 163 | 739 | Rodney McMath Jr. |
 | 164 | 739 | George Nutt |
@@ -748,37 +748,37 @@
 | 740 | 216 | Zappy Bridgepiece |
 | 741 | 215 | Tetrina |
 | 742 | 215 | Patrick Cookson |
-| 743 | 215 | JoAnna Zalkovsky |
-| 744 | 215 | Mike Nelson |
-| 745 | 215 | Glitzy Crasher |
-| 746 | 215 | icequeenx |
-| 747 | 214 | Susan R. Wilson |
+| 743 | 215 | Cool Clusterfit |
+| 744 | 215 | JoAnna Zalkovsky |
+| 745 | 215 | Mike Nelson |
+| 746 | 215 | Glitzy Crasher |
+| 747 | 215 | icequeenx |
 | 748 | 214 | Sassy Gridzone |
-| 749 | 214 | JD |
-| 750 | 214 | Gio Santiago |
-| 751 | 213 | Ryan Knives Vanderpool |
-| 752 | 213 | Earnest Thompson |
-| 753 | 212 | Nerdy Linebuilder |
-| 754 | 211 | Heather Layne Smith |
-| 755 | 211 | MOCHA |
+| 749 | 214 | Susan R. Wilson |
+| 750 | 214 | JD |
+| 751 | 214 | Gio Santiago |
+| 752 | 213 | Ryan Knives Vanderpool |
+| 753 | 213 | Earnest Thompson |
+| 754 | 212 | Nerdy Linebuilder |
+| 755 | 211 | Heather Layne Smith |
 | 756 | 211 | Flashy Blockpiece |
-| 757 | 210 | Wacky Twister |
-| 758 | 210 | Bubbly Setter |
-| 759 | 210 | Heather Stratos |
-| 760 | 209 | Kametsunoyaiba |
-| 761 | 209 | Ahleek Mitchell |
-| 762 | 209 | Cheery Gridlock |
-| 763 | 209 | Calvin Dennis |
-| 764 | 209 | Matthew Rodriguez |
-| 765 | 207 | Bad company |
-| 766 | 207 | Veronica Garza |
+| 757 | 211 | MOCHA |
+| 758 | 210 | Wacky Twister |
+| 759 | 210 | Bubbly Setter |
+| 760 | 210 | Heather Stratos |
+| 761 | 209 | Matthew Rodriguez |
+| 762 | 209 | Kametsunoyaiba |
+| 763 | 209 | Ahleek Mitchell |
+| 764 | 209 | Cheery Gridlock |
+| 765 | 209 | Calvin Dennis |
+| 766 | 207 | Bad company |
 | 767 | 207 | Blue |
-| 768 | 207 | Nikki Wilson |
-| 769 | 207 | Gwendolyn Pitcairn |
-| 770 | 206 | Jim Gray |
-| 771 | 206 | Angela Gould |
-| 772 | 206 | Loopy Rollbuilder |
-| 773 | 206 | Cool Clusterfit |
+| 768 | 207 | Veronica Garza |
+| 769 | 207 | Nikki Wilson |
+| 770 | 207 | Gwendolyn Pitcairn |
+| 771 | 206 | Jim Gray |
+| 772 | 206 | Angela Gould |
+| 773 | 206 | Loopy Rollbuilder |
 | 774 | 205 | Quirky Puzzler |
 | 775 | 205 | Tory Miller |
 | 776 | 205 | LunaMoon |
@@ -1304,18 +1304,18 @@
 | 1296 | 93 | Peachy Pop |
 | 1297 | 92 | Tarius Jackson |
 | 1298 | 92 | Kristen Raper |
-| 1299 | 92 | Khu Muas |
-| 1300 | 92 | Wacky Shift |
-| 1301 | 92 | Denye |
+| 1299 | 92 | Wacky Shift |
+| 1300 | 92 | Denye |
+| 1301 | 92 | Khu Muas |
 | 1302 | 91 | Hasty Balancer |
 | 1303 | 91 | Phyllis Mitchell |
-| 1304 | 91 | Poppy Twistslam |
-| 1305 | 91 | Angela Roper-Melvin |
-| 1306 | 90 | Terrie Rader |
+| 1304 | 91 | T |
+| 1305 | 91 | Poppy Twistslam |
+| 1306 | 91 | Angela Roper-Melvin |
 | 1307 | 90 | Kelli Steinmetz |
 | 1308 | 90 | Quan Wen |
-| 1309 | 90 | Johnboom317 |
-| 1310 | 90 | T |
+| 1309 | 90 | Terrie Rader |
+| 1310 | 90 | Johnboom317 |
 | 1311 | 90 | Fastnines |
 | 1312 | 89 | Kayley Kara Gaudin |
 | 1313 | 89 | Rachel Nicole |
@@ -1579,26 +1579,26 @@
 | 1571 | 55 | Michelle Shimel |
 | 1572 | 55 | Les |
 | 1573 | 55 | Elizabeth Foster |
-| 1574 | 55 | Dorene Brooks |
-| 1575 | 55 | Slappy Blackhead |
-| 1576 | 55 | Ms Netta |
-| 1577 | 55 | No name |
-| 1578 | 55 | Chipper Towerfit |
-| 1579 | 55 | Gabriel Raymond |
-| 1580 | 55 | Samantha Ponzillo |
-| 1581 | 55 | Amanda Ashley |
-| 1582 | 55 | baysic |
-| 1583 | 55 | RiahRose |
-| 1584 | 55 | Poppy Brickmatch |
-| 1585 | 54 | Nayyirah Hariyyan |
-| 1586 | 54 | AuDra Renee Dupre |
-| 1587 | 54 | Blair Shriver |
-| 1588 | 54 | Zaltosk |
-| 1589 | 54 | Lucky2Guns |
-| 1590 | 54 | Andrew Easley |
-| 1591 | 54 | kash |
-| 1592 | 54 | Brandon Biff Schleman |
-| 1593 | 54 | Zachary Frazier |
+| 1574 | 55 | Zachary Frazier |
+| 1575 | 55 | Dorene Brooks |
+| 1576 | 55 | Slappy Blackhead |
+| 1577 | 55 | Ms Netta |
+| 1578 | 55 | No name |
+| 1579 | 55 | Chipper Towerfit |
+| 1580 | 55 | Gabriel Raymond |
+| 1581 | 55 | Samantha Ponzillo |
+| 1582 | 55 | Amanda Ashley |
+| 1583 | 55 | baysic |
+| 1584 | 55 | RiahRose |
+| 1585 | 55 | Poppy Brickmatch |
+| 1586 | 54 | Nayyirah Hariyyan |
+| 1587 | 54 | AuDra Renee Dupre |
+| 1588 | 54 | Blair Shriver |
+| 1589 | 54 | Zaltosk |
+| 1590 | 54 | Lucky2Guns |
+| 1591 | 54 | Andrew Easley |
+| 1592 | 54 | kash |
+| 1593 | 54 | Brandon Biff Schleman |
 | 1594 | 54 | Tipsy Blockline |
 | 1595 | 54 | Joseph Bodon |
 | 1596 | 54 | Judith Isaac |
@@ -1731,12 +1731,12 @@
 | 1723 | 42 | Tet |
 | 1724 | 42 | AimlessPeach |
 | 1725 | 42 | Poppy Piecebuilder |
-| 1726 | 42 | Akrasia |
-| 1727 | 41 | Davonna Parks |
-| 1728 | 41 | Juicee |
-| 1729 | 41 | Paul Brown |
-| 1730 | 41 | Korky Smith |
-| 1731 | 41 | Poppy |
+| 1726 | 42 | Poppy |
+| 1727 | 42 | Akrasia |
+| 1728 | 41 | Davonna Parks |
+| 1729 | 41 | Juicee |
+| 1730 | 41 | Paul Brown |
+| 1731 | 41 | Korky Smith |
 | 1732 | 41 | Rebecca Maino |
 | 1733 | 41 | Garrick Wilfork |
 | 1734 | 41 | Savannah Saphyre Allen |
