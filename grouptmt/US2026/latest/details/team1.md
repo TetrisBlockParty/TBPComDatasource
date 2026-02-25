@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 10:32:43 UTC
+# Standings for team1 as of 2026-02-25 10:33:22 UTC
 
 **Total Participants:** 2451
 
@@ -267,61 +267,61 @@
 | 259 | 478 | Billie Ann Eason |
 | 260 | 477 | Ananda Mendez |
 | 261 | 477 | LtMooch |
-| 262 | 475 | Paula Martin |
-| 263 | 471 | Chris Sigurdson |
-| 264 | 471 | Chantelle Ceno |
-| 265 | 469 | build master |
-| 266 | 468 | Wayne Saunders |
-| 267 | 467 | Brian Spotts |
-| 268 | 464 | Rayline M Bradshaw |
-| 269 | 463 | Tami Luce Martin |
-| 270 | 462 | Angela Renea Lester |
-| 271 | 460 | Dizzy Party |
-| 272 | 459 | Jamie Jury |
-| 273 | 458 | Goose egg |
-| 274 | 457 | Spencer Lent |
-| 275 | 455 | pjbeta |
-| 276 | 455 | Sunny Shift |
-| 277 | 454 | Cassie Smith |
-| 278 | 453 | Kimmie Kimms |
-| 279 | 452 | Jo Kerley |
-| 280 | 452 | DoodleBug |
-| 281 | 452 | Tyler Hertzog |
-| 282 | 450 | Shiny Snapfit |
-| 283 | 449 | Cece Ibarra |
-| 284 | 447 | Lynn Adams |
-| 285 | 447 | Letson Melissa |
-| 286 | 446 | Dino |
-| 287 | 446 | Irv |
-| 288 | 446 | Richard Butler |
-| 289 | 445 | Emily Adelaide Wheatley |
+| 262 | 476 | Amanda Holibaugh |
+| 263 | 475 | Paula Martin |
+| 264 | 471 | Chris Sigurdson |
+| 265 | 471 | Chantelle Ceno |
+| 266 | 469 | build master |
+| 267 | 468 | Wayne Saunders |
+| 268 | 467 | Brian Spotts |
+| 269 | 464 | Rayline M Bradshaw |
+| 270 | 463 | Tami Luce Martin |
+| 271 | 462 | Angela Renea Lester |
+| 272 | 460 | Dizzy Party |
+| 273 | 459 | Jamie Jury |
+| 274 | 458 | Goose egg |
+| 275 | 457 | Spencer Lent |
+| 276 | 455 | pjbeta |
+| 277 | 455 | Sunny Shift |
+| 278 | 454 | Cassie Smith |
+| 279 | 453 | Kimmie Kimms |
+| 280 | 452 | Jo Kerley |
+| 281 | 452 | DoodleBug |
+| 282 | 452 | Tyler Hertzog |
+| 283 | 450 | Shiny Snapfit |
+| 284 | 449 | Cece Ibarra |
+| 285 | 447 | Lynn Adams |
+| 286 | 447 | Letson Melissa |
+| 287 | 446 | Dino |
+| 288 | 446 | Irv |
+| 289 | 446 | Richard Butler |
 | 290 | 445 | Sylvia Vasquez |
 | 291 | 445 | Tetrisqn |
-| 292 | 444 | Lakeisha Chapman |
-| 293 | 443 | Colleen Pinette |
+| 292 | 445 | Emily Adelaide Wheatley |
+| 293 | 444 | Lakeisha Chapman |
 | 294 | 443 | MommaKFC |
-| 295 | 442 | GringaLinga |
-| 296 | 441 | Barrbaric |
-| 297 | 440 | Sarah Roberts |
-| 298 | 439 | Angela Fairbank |
+| 295 | 443 | Colleen Pinette |
+| 296 | 442 | GringaLinga |
+| 297 | 441 | Barrbaric |
+| 298 | 440 | Sarah Roberts |
 | 299 | 439 | Renee Tucker |
 | 300 | 439 | John Kim |
-| 301 | 438 | Melissa Bires Hussar |
-| 302 | 437 | LD1 |
-| 303 | 436 | Sarahdactyl |
+| 301 | 439 | Angela Fairbank |
+| 302 | 438 | Melissa Bires Hussar |
+| 303 | 437 | LD1 |
 | 304 | 436 | David Lutcher |
-| 305 | 436 | Amanda Holibaugh |
+| 305 | 436 | Sarahdactyl |
 | 306 | 434 | Poppy Riserpiece |
-| 307 | 432 | Keith Mathis |
-| 308 | 432 | SavageBooty98 |
-| 309 | 432 | Shiny Gridmatch |
-| 310 | 432 | Test |
-| 311 | 431 | Kimberly Davis |
-| 312 | 431 | Tipsy Strikerpiece |
+| 307 | 432 | SavageBooty98 |
+| 308 | 432 | Shiny Gridmatch |
+| 309 | 432 | Test |
+| 310 | 432 | Keith Mathis |
+| 311 | 431 | Tipsy Strikerpiece |
+| 312 | 431 | Kimberly Davis |
 | 313 | 424 | Plucky Stacky |
 | 314 | 424 | Speedy Snapfall |
-| 315 | 423 | whocares |
-| 316 | 423 | Shanae Grant |
+| 315 | 423 | Shanae Grant |
+| 316 | 423 | whocares |
 | 317 | 422 | Shan Rock |
 | 318 | 421 | poopypants |
 | 319 | 420 | Al Smith Jr |
@@ -489,13 +489,13 @@
 | 481 | 319 | Bustin’ Blocks |
 | 482 | 319 | Ed Franz Jr |
 | 483 | 319 | Blaire Bruckoff |
-| 484 | 318 | Danielle Mae |
-| 485 | 318 | Lucile Lynn |
-| 486 | 318 | BigWeenie69 |
-| 487 | 317 | Blake Mckay |
+| 484 | 318 | Glitzy Buildsnap |
+| 485 | 318 | Danielle Mae |
+| 486 | 318 | Lucile Lynn |
+| 487 | 318 | BigWeenie69 |
 | 488 | 317 | Damian Salem |
-| 489 | 317 | Rikki Jo Creech |
-| 490 | 317 | Glitzy Buildsnap |
+| 489 | 317 | Blake Mckay |
+| 490 | 317 | Rikki Jo Creech |
 | 491 | 316 | Chilly Riserpiece |
 | 492 | 316 | Tiffany Daboss Seymour |
 | 493 | 315 | Randy Broadwater |
