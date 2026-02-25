@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 10:53:25 UTC
+# Standings for team4 as of 2026-02-25 10:54:42 UTC
 
 **Total Participants:** 2199
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 9411 | Devinlee Brown |
+| 1 | 9431 | Devinlee Brown |
 | 2 | 8765 | sierrabeth |
 | 3 | 8598 | Bubbly Puzzler |
 | 4 | 6870 | Kat |
@@ -911,44 +911,44 @@
 | 903 | 160 | Molly Ananda Rickerson |
 | 904 | 159 | Niome Encinias |
 | 905 | 158 | Witty Link |
-| 906 | 158 | Harvey Mejia |
-| 907 | 158 | Dot Flanagan |
-| 908 | 158 | Albert Walker III |
+| 906 | 158 | Albert Walker III |
+| 907 | 158 | Harvey Mejia |
+| 908 | 158 | Dot Flanagan |
 | 909 | 157 | k |
 | 910 | 156 | Shanon James |
 | 911 | 156 | Lauren R. Walls |
 | 912 | 156 | Kara Kaminski Rhinehart |
 | 913 | 156 | Brianna Walker |
-| 914 | 155 | Tabita Gonzalez |
-| 915 | 155 | AjJess |
+| 914 | 155 | AjJess |
+| 915 | 155 | Tipsy Zoney |
 | 916 | 155 | Swanky Blockline |
-| 917 | 155 | Tipsy Zoney |
+| 917 | 155 | Tabita Gonzalez |
 | 918 | 154 | Saundra Miller |
 | 919 | 154 | Kari Rose Haché |
-| 920 | 153 | Gage |
-| 921 | 153 | Shane Hicks |
-| 922 | 153 | Milly Johnson |
-| 923 | 153 | Mike |
+| 920 | 153 | Shane Hicks |
+| 921 | 153 | Milly Johnson |
+| 922 | 153 | Gage |
+| 923 | 153 | Chirpy Balancer |
 | 924 | 153 | Matt Narcisse |
-| 925 | 153 | Peace |
-| 926 | 153 | Sara Saxton Moon |
-| 927 | 153 | Jenjen |
-| 928 | 152 | mitch |
-| 929 | 152 | Chirpy Balancer |
+| 925 | 153 | Mike |
+| 926 | 153 | Peace |
+| 927 | 153 | Sara Saxton Moon |
+| 928 | 153 | Jenjen |
+| 929 | 152 | mitch |
 | 930 | 152 | April Chalfant |
-| 931 | 151 | poopoo |
+| 931 | 151 | GMoney Rbt |
 | 932 | 151 | Hog Crankin |
-| 933 | 151 | Brittany Price |
-| 934 | 151 | GMoney Rbt |
-| 935 | 150 | Cari Underwood |
-| 936 | 150 | Tiffany Root |
-| 937 | 150 | Bruce Harris |
+| 933 | 151 | poopoo |
+| 934 | 151 | Brittany Price |
+| 935 | 150 | Bruce Harris |
+| 936 | 150 | Cari Underwood |
+| 937 | 150 | Tiffany Root |
 | 938 | 150 | Smiley Staggerpiece |
-| 939 | 149 | Shy |
-| 940 | 149 | Bentley Welsh |
+| 939 | 149 | Bentley Welsh |
+| 940 | 149 | David Emmanuel George |
 | 941 | 149 | Renee Marshall |
-| 942 | 149 | Tracy Dawn |
-| 943 | 149 | David Emmanuel George |
+| 942 | 149 | Shy |
+| 943 | 149 | Tracy Dawn |
 | 944 | 148 | Mary Therese Benden Cole |
 | 945 | 148 | Tiffany Tran |
 | 946 | 148 | Spunky Tower |
