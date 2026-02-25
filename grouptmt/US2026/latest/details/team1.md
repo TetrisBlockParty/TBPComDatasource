@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 12:58:44 UTC
+# Standings for team1 as of 2026-02-25 12:59:23 UTC
 
 **Total Participants:** 2467
 
@@ -71,7 +71,7 @@
 | 63 | 1423 | Tipsy Column |
 | 64 | 1391 | Adam Byrd |
 | 65 | 1390 | Hasbro Bros |
-| 66 | 1345 | TSwag |
+| 66 | 1348 | TSwag |
 | 67 | 1328 | Karin Gillen |
 | 68 | 1324 | Lawrence Belanger |
 | 69 | 1320 | Kathy Langham |
@@ -186,9 +186,9 @@
 | 178 | 647 | Damon J. Martin |
 | 179 | 642 | SkipTheSadSauce |
 | 180 | 640 | Νεφ Όνυξ |
-| 181 | 637 | Standia Civil |
-| 182 | 637 | Jennifer Hardman |
-| 183 | 634 | Chase Collinsworth |
+| 181 | 637 | Chase Collinsworth |
+| 182 | 637 | Standia Civil |
+| 183 | 637 | Jennifer Hardman |
 | 184 | 633 | ALFD |
 | 185 | 632 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 186 | 626 | Loony Fitzone |
@@ -705,9 +705,9 @@
 | 697 | 231 | Dawn Henderson |
 | 698 | 231 | narutyler649 |
 | 699 | 230 | Jennifer Crawford |
-| 700 | 228 | Jai Pahpasay |
-| 701 | 228 | Negan Mallory Knoxx Spence |
-| 702 | 228 | Sandy Jones |
+| 700 | 229 | Sandy Jones |
+| 701 | 228 | Jai Pahpasay |
+| 702 | 228 | Negan Mallory Knoxx Spence |
 | 703 | 228 | Davery Spencer Adair |
 | 704 | 227 | Mary M Brion |
 | 705 | 227 | Spunky Builderpiece |
@@ -1182,59 +1182,59 @@
 | 1174 | 118 | Travis Hughes |
 | 1175 | 118 | Denny Castle |
 | 1176 | 118 | RetroRina |
-| 1177 | 118 | Unelanuhi Belladonna Mystikal Bomar |
-| 1178 | 118 | Willian Tarajano |
-| 1179 | 117 | Joshua Murphy |
-| 1180 | 117 | Vanessa Zuniga Elvira |
-| 1181 | 117 | rigerson |
-| 1182 | 117 | Omar Hudson |
-| 1183 | 116 | Cleo Snider |
-| 1184 | 116 | Badace1 |
-| 1185 | 116 | Lakesha Jackson- Anderson |
-| 1186 | 116 | Lilly Denny |
+| 1177 | 118 | Willian Tarajano |
+| 1178 | 118 | Unelanuhi Belladonna Mystikal Bomar |
+| 1179 | 117 | rigerson |
+| 1180 | 117 | Omar Hudson |
+| 1181 | 117 | Vanessa Zuniga Elvira |
+| 1182 | 117 | Joshua Murphy |
+| 1183 | 116 | Lakesha Jackson- Anderson |
+| 1184 | 116 | Lilly Denny |
+| 1185 | 116 | Badace1 |
+| 1186 | 116 | Cleo Snider |
 | 1187 | 115 | Slinky Fitblock |
 | 1188 | 115 | ghxsty |
 | 1189 | 115 | Helen Arbuckle |
 | 1190 | 115 | Anthony Ray |
 | 1191 | 115 | Chilly Piececlear |
 | 1192 | 115 | Jeremy McLean |
-| 1193 | 114 | Karly Alexandrea |
-| 1194 | 114 | Amy Marques |
-| 1195 | 114 | Peg |
-| 1196 | 114 | Krista Roberts |
-| 1197 | 114 | Dimitri Alexopoulos |
-| 1198 | 114 | madd |
-| 1199 | 114 | BlazinGames |
-| 1200 | 113 | Nerdy Gridlock |
-| 1201 | 113 | Plucky Tiltpiece |
+| 1193 | 114 | madd |
+| 1194 | 114 | Karly Alexandrea |
+| 1195 | 114 | Quirky Holder |
+| 1196 | 114 | BlazinGames |
+| 1197 | 114 | Amy Marques |
+| 1198 | 114 | Dimitri Alexopoulos |
+| 1199 | 114 | Krista Roberts |
+| 1200 | 114 | Peg |
+| 1201 | 113 | Nerdy Gridlock |
 | 1202 | 113 | Ris |
-| 1203 | 113 | Chirpy Twistslam |
-| 1204 | 112 | Jasmine Del Real Est |
-| 1205 | 112 | Tea Julien |
+| 1203 | 113 | Plucky Tiltpiece |
+| 1204 | 113 | Chirpy Twistslam |
+| 1205 | 112 | Antonio Feliciano |
 | 1206 | 112 | Misha Harris |
-| 1207 | 112 | Todd Echterling |
-| 1208 | 112 | Sherri Drews |
-| 1209 | 112 | Antonio Feliciano |
-| 1210 | 111 | Erin Divine |
+| 1207 | 112 | Tea Julien |
+| 1208 | 112 | Jasmine Del Real Est |
+| 1209 | 112 | Todd Echterling |
+| 1210 | 112 | Sherri Drews |
 | 1211 | 111 | Adam Newton |
-| 1212 | 111 | Funky Zonebuilder |
-| 1213 | 111 | Quirky Holder |
-| 1214 | 111 | Chewy |
-| 1215 | 111 | Carol Rogers |
-| 1216 | 111 | Felicia Jones |
-| 1217 | 110 | SMSMris |
+| 1212 | 111 | Felicia Jones |
+| 1213 | 111 | Carol Rogers |
+| 1214 | 111 | Erin Divine |
+| 1215 | 111 | Funky Zonebuilder |
+| 1216 | 111 | Chewy |
+| 1217 | 110 | Chirpy Matchline |
 | 1218 | 110 | Ty Meach |
-| 1219 | 110 | Robert Benitez |
-| 1220 | 110 | Sassy Riseclear |
-| 1221 | 110 | Chirpy Matchline |
-| 1222 | 110 | Tasha McCormack |
-| 1223 | 109 | Smiley Dashy |
-| 1224 | 109 | Bharrelson66 |
-| 1225 | 108 | William Miles |
+| 1219 | 110 | Tasha McCormack |
+| 1220 | 110 | SMSMris |
+| 1221 | 110 | Robert Benitez |
+| 1222 | 110 | Sassy Riseclear |
+| 1223 | 109 | Bharrelson66 |
+| 1224 | 109 | Smiley Dashy |
+| 1225 | 108 | Merissa Paulsen |
 | 1226 | 108 | Stoney Smith |
 | 1227 | 108 | Harmony Damoore |
-| 1228 | 108 | Merissa Paulsen |
-| 1229 | 108 | Jeremy Beckler |
+| 1228 | 108 | Jeremy Beckler |
+| 1229 | 108 | William Miles |
 | 1230 | 108 | Terry Leon Osborne Jr. |
 | 1231 | 108 | Nico |
 | 1232 | 108 | Alex Manieri |
@@ -1427,58 +1427,58 @@
 | 1419 | 79 | Denise |
 | 1420 | 79 | John D. Bosha |
 | 1421 | 79 | Betsy Miller Solida |
-| 1422 | 79 | Amanda Moore |
+| 1422 | 79 | Amy N Clint Atchley |
 | 1423 | 79 | Gerriann Jordan |
 | 1424 | 79 | Louie Ornelas |
 | 1425 | 79 | Rusty Herrin |
-| 1426 | 78 | Consuelo Lopez |
-| 1427 | 78 | Tma |
-| 1428 | 78 | Kimi Kay Anderson |
-| 1429 | 78 | Jessica Collier |
-| 1430 | 78 | Ricardo Terrazas |
-| 1431 | 78 | Dake Axton Shields |
+| 1426 | 79 | Amanda Moore |
+| 1427 | 78 | Consuelo Lopez |
+| 1428 | 78 | Tma |
+| 1429 | 78 | Kimi Kay Anderson |
+| 1430 | 78 | Jessica Collier |
+| 1431 | 78 | Ricardo Terrazas |
 | 1432 | 78 | Pauline Rentch |
-| 1433 | 77 | Dwight Wade Stambaugh Jr. |
-| 1434 | 77 | J.W. Norris |
-| 1435 | 77 | Joshua Allen Garey |
-| 1436 | 77 | Monica Rivas |
-| 1437 | 77 | Home Plate |
-| 1438 | 77 | Frank |
-| 1439 | 76 | Don Reno |
-| 1440 | 76 | e |
-| 1441 | 76 | Dreamy Patternfit |
-| 1442 | 76 | Pete Davis |
-| 1443 | 76 | Lydia Rodriguez |
-| 1444 | 76 | Harry N Baker |
-| 1445 | 76 | fuse |
-| 1446 | 76 | Chirpy Twistline |
-| 1447 | 76 | Slinky Towerpiece |
-| 1448 | 76 | Cari Brown Cady |
-| 1449 | 75 | Twisty Rollbuilder |
-| 1450 | 75 | Diana |
-| 1451 | 75 | Anthony Torres |
-| 1452 | 75 | Christian Schirmer |
-| 1453 | 75 | Mama Zelda |
-| 1454 | 75 | Sarah Stanonik |
-| 1455 | 75 | Quirky Rumbler |
-| 1456 | 75 | Amy N Clint Atchley |
-| 1457 | 75 | Chill Brickclear |
-| 1458 | 75 | Terri Williams |
-| 1459 | 74 | Scott Cutter |
-| 1460 | 74 | savior |
-| 1461 | 74 | Ghost |
-| 1462 | 74 | Giddy Blockbuilder |
-| 1463 | 74 | Smelly |
-| 1464 | 74 | Ariella Knopp Warner |
-| 1465 | 74 | Kayyjayy |
+| 1433 | 78 | Dake Axton Shields |
+| 1434 | 77 | Monica Rivas |
+| 1435 | 77 | J.W. Norris |
+| 1436 | 77 | Dwight Wade Stambaugh Jr. |
+| 1437 | 77 | Frank |
+| 1438 | 77 | Home Plate |
+| 1439 | 77 | Joshua Allen Garey |
+| 1440 | 76 | Slinky Towerpiece |
+| 1441 | 76 | Cari Brown Cady |
+| 1442 | 76 | Chirpy Twistline |
+| 1443 | 76 | Pete Davis |
+| 1444 | 76 | Dreamy Patternfit |
+| 1445 | 76 | e |
+| 1446 | 76 | Don Reno |
+| 1447 | 76 | fuse |
+| 1448 | 76 | Harry N Baker |
+| 1449 | 76 | Lydia Rodriguez |
+| 1450 | 75 | Sarah Stanonik |
+| 1451 | 75 | Terri Williams |
+| 1452 | 75 | Anthony Torres |
+| 1453 | 75 | Diana |
+| 1454 | 75 | Mama Zelda |
+| 1455 | 75 | Twisty Rollbuilder |
+| 1456 | 75 | Chill Brickclear |
+| 1457 | 75 | Quirky Rumbler |
+| 1458 | 75 | Christian Schirmer |
+| 1459 | 74 | savior |
+| 1460 | 74 | Ghost |
+| 1461 | 74 | Smelly |
+| 1462 | 74 | Connie Matheney |
+| 1463 | 74 | Ariella Knopp Warner |
+| 1464 | 74 | Edward Woodall |
+| 1465 | 74 | Scott Cutter |
 | 1466 | 74 | Shawn Reeser Morgan |
-| 1467 | 74 | Edward Woodall |
-| 1468 | 74 | Connie Matheney |
-| 1469 | 73 | Loneell Hyland |
-| 1470 | 73 | Channis |
-| 1471 | 73 | Bouncy Link |
-| 1472 | 73 | Grandmeemers22 |
-| 1473 | 73 | Wynn Cook |
+| 1467 | 74 | Kayyjayy |
+| 1468 | 74 | Giddy Blockbuilder |
+| 1469 | 73 | Bouncy Link |
+| 1470 | 73 | Loneell Hyland |
+| 1471 | 73 | Grandmeemers22 |
+| 1472 | 73 | Wynn Cook |
+| 1473 | 73 | Channis |
 | 1474 | 73 | Elania Marie Degrez |
 | 1475 | 73 | Zappy Pivoty |
 | 1476 | 73 | Hoppy Party |
