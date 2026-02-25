@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 18:12:45 UTC
+# Standings for team1 as of 2026-02-25 18:13:23 UTC
 
 **Total Participants:** 2507
 
@@ -96,7 +96,7 @@
 | 88 | 1140 | Erin Hodges Plumb |
 | 89 | 1127 | Seante Bullock |
 | 90 | 1123 | Francesca Gee |
-| 91 | 1115 | Cheeky Crusher |
+| 91 | 1120 | Cheeky Crusher |
 | 92 | 1114 | Jayme Sellers |
 | 93 | 1082 | Phu ckalldems |
 | 94 | 1079 | Tee Sheree |
@@ -327,19 +327,19 @@
 | 319 | 442 | Al Smith Jr |
 | 320 | 442 | GringaLinga |
 | 321 | 441 | Barrbaric |
-| 322 | 439 | Silly Align |
-| 323 | 439 | Angela Fairbank |
+| 322 | 439 | Angela Fairbank |
+| 323 | 439 | Silly Align |
 | 324 | 438 | Its me |
 | 325 | 438 | Melissa Bires Hussar |
 | 326 | 436 | Sarahdactyl |
 | 327 | 434 | whocares |
 | 328 | 433 | Rachel Nilles |
 | 329 | 433 | Layzietyme |
-| 330 | 432 | Shanae Grant |
-| 331 | 432 | SavageBooty98 |
+| 330 | 432 | SavageBooty98 |
+| 331 | 432 | Shanae Grant |
 | 332 | 431 | Tipsy Strikerpiece |
-| 333 | 430 | Dione Winter Heilich |
-| 334 | 430 | Plucky Stacky |
+| 333 | 430 | Plucky Stacky |
+| 334 | 430 | Dione Winter Heilich |
 | 335 | 429 | Frothy Pattern |
 | 336 | 424 | Speedy Snapfall |
 | 337 | 423 | Marie Bremner |
@@ -353,8 +353,8 @@
 | 345 | 415 | Anielle Reagan |
 | 346 | 415 | Brian Richardsson |
 | 347 | 413 | Strig |
-| 348 | 412 | Alphonza Keyes Jr. |
-| 349 | 412 | Nathan Sealander |
+| 348 | 412 | Nathan Sealander |
+| 349 | 412 | Alphonza Keyes Jr. |
 | 350 | 411 | Gracie |
 | 351 | 408 | Poppy Drop |
 | 352 | 408 | Kipoi |
@@ -366,8 +366,8 @@
 | 358 | 403 | Stephanie Leday |
 | 359 | 403 | Nate Price |
 | 360 | 401 | Danielle Little-Daugherty |
-| 361 | 400 | Epic Jumper |
-| 362 | 400 | Jasmine Riley |
+| 361 | 400 | Jasmine Riley |
+| 362 | 400 | Epic Jumper |
 | 363 | 399 | Elizabeth Kubli |
 | 364 | 399 | Rodney Schmerfeld |
 | 365 | 398 | Angela Jones |
@@ -377,58 +377,58 @@
 | 369 | 397 | Gary Gobin |
 | 370 | 396 | Lilkimmie |
 | 371 | 395 | Brooke Elizabeth Antill |
-| 372 | 394 | Angela Dawn Torres-Tarrants |
-| 373 | 394 | Nick R Montague |
-| 374 | 393 | Wisa |
-| 375 | 391 | Tipsy Builder |
-| 376 | 390 | Mandyy Rae |
+| 372 | 394 | Nick R Montague |
+| 373 | 394 | Angela Dawn Torres-Tarrants |
+| 374 | 394 | Mrs.Patrica |
+| 375 | 393 | Wisa |
+| 376 | 391 | Tipsy Builder |
 | 377 | 390 | Carl Claunch |
-| 378 | 390 | Margo Wagner |
-| 379 | 389 | Giggly Builderline |
-| 380 | 389 | Tanya Banks |
-| 381 | 389 | Christina Backer |
-| 382 | 388 | Delvison Rosario |
-| 383 | 388 | Eddie Dillon |
+| 378 | 390 | Mandyy Rae |
+| 379 | 390 | Margo Wagner |
+| 380 | 389 | Giggly Builderline |
+| 381 | 389 | Tanya Banks |
+| 382 | 389 | Christina Backer |
+| 383 | 388 | Delvison Rosario |
 | 384 | 388 | Chris65 |
 | 385 | 388 | Shaykmia |
-| 386 | 387 | Diane Byrd |
-| 387 | 387 | Glitzy Grid |
-| 388 | 386 | Nadine Velardo |
+| 386 | 388 | Eddie Dillon |
+| 387 | 387 | Diane Byrd |
+| 388 | 387 | Glitzy Grid |
 | 389 | 386 | Tiffany Smith |
-| 390 | 385 | Lyn Sibayan |
-| 391 | 384 | Patty Lavigne Craddock |
-| 392 | 384 | Sonia Marquis |
-| 393 | 384 | Larry Tilton |
-| 394 | 384 | Casey Hintenach |
-| 395 | 383 | Buttons Stemm |
+| 390 | 386 | Nadine Velardo |
+| 391 | 385 | Lyn Sibayan |
+| 392 | 384 | Patty Lavigne Craddock |
+| 393 | 384 | Sonia Marquis |
+| 394 | 384 | Larry Tilton |
+| 395 | 384 | Casey Hintenach |
 | 396 | 383 | ESC |
 | 397 | 383 | LaFontaine Leslie |
-| 398 | 382 | Kristen Meehan Wangerien |
+| 398 | 383 | Buttons Stemm |
 | 399 | 382 | Nutty Spinblock |
 | 400 | 382 | Gina Bettikofer |
-| 401 | 380 | Amber Dee |
-| 402 | 380 | Rachel Nichole Henry |
-| 403 | 379 | Dizzy Riseclear |
-| 404 | 379 | Austin James |
-| 405 | 379 | Billie Dawn Sparks |
-| 406 | 379 | Amh |
+| 401 | 382 | Kristen Meehan Wangerien |
+| 402 | 380 | Amber Dee |
+| 403 | 380 | Rachel Nichole Henry |
+| 404 | 379 | Dizzy Riseclear |
+| 405 | 379 | Christy LaSure |
+| 406 | 379 | Austin James |
 | 407 | 379 | Terri Rodela |
-| 408 | 379 | Christy LaSure |
-| 409 | 378 | Fresno Beotoni |
-| 410 | 377 | Mary Love |
-| 411 | 376 | Наталья Солоид |
-| 412 | 376 | Herm Junior |
-| 413 | 376 | Breanna Luna |
-| 414 | 375 | Matt Iaccheo |
-| 415 | 375 | Mrs.Patrica |
-| 416 | 374 | Loony Bridgepiece |
-| 417 | 374 | John Ramirez |
-| 418 | 374 | Jaimie Lynn |
+| 408 | 379 | Amh |
+| 409 | 379 | Billie Dawn Sparks |
+| 410 | 378 | Fresno Beotoni |
+| 411 | 377 | Mary Love |
+| 412 | 376 | Breanna Luna |
+| 413 | 376 | Herm Junior |
+| 414 | 376 | Наталья Солоид |
+| 415 | 375 | Matt Iaccheo |
+| 416 | 374 | Jaimie Lynn |
+| 417 | 374 | Loony Bridgepiece |
+| 418 | 374 | John Ramirez |
 | 419 | 373 | Mitchel White |
 | 420 | 371 | Crystal Cheresnowsky |
-| 421 | 370 | Jeremy Maubert |
-| 422 | 370 | Steph |
-| 423 | 370 | san |
+| 421 | 370 | Steph |
+| 422 | 370 | san |
+| 423 | 370 | Jeremy Maubert |
 | 424 | 369 | I Am |
 | 425 | 369 | Quirky Pusher |
 | 426 | 369 | Nathan William |
