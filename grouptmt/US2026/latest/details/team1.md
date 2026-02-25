@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 18:08:42 UTC
+# Standings for team1 as of 2026-02-25 18:09:23 UTC
 
 **Total Participants:** 2506
 
@@ -357,33 +357,33 @@
 | 349 | 412 | Nathan Sealander |
 | 350 | 411 | Gracie |
 | 351 | 408 | Poppy Drop |
-| 352 | 407 | Lisa Miller |
-| 353 | 406 | Bloknboy |
-| 354 | 406 | Snappy Brickbuilder |
-| 355 | 405 | Spunky Tilt |
-| 356 | 404 | Sunny Pivotfall |
-| 357 | 403 | Stephanie Leday |
-| 358 | 403 | Nate Price |
-| 359 | 401 | Danielle Little-Daugherty |
-| 360 | 400 | Jasmine Riley |
-| 361 | 400 | Epic Jumper |
-| 362 | 399 | Elizabeth Kubli |
-| 363 | 399 | Rodney Schmerfeld |
-| 364 | 398 | Angela Jones |
-| 365 | 397 | Gary Gobin |
-| 366 | 397 | Jumpy Rotate |
-| 367 | 397 | Dawn Michelle Scheible |
-| 368 | 397 | Michael |
-| 369 | 396 | Lilkimmie |
-| 370 | 395 | Kipoi |
+| 352 | 408 | Kipoi |
+| 353 | 407 | Lisa Miller |
+| 354 | 406 | Bloknboy |
+| 355 | 406 | Snappy Brickbuilder |
+| 356 | 405 | Spunky Tilt |
+| 357 | 404 | Sunny Pivotfall |
+| 358 | 403 | Stephanie Leday |
+| 359 | 403 | Nate Price |
+| 360 | 401 | Danielle Little-Daugherty |
+| 361 | 400 | Jasmine Riley |
+| 362 | 400 | Epic Jumper |
+| 363 | 399 | Elizabeth Kubli |
+| 364 | 399 | Rodney Schmerfeld |
+| 365 | 398 | Angela Jones |
+| 366 | 397 | Gary Gobin |
+| 367 | 397 | Jumpy Rotate |
+| 368 | 397 | Dawn Michelle Scheible |
+| 369 | 397 | Michael |
+| 370 | 396 | Lilkimmie |
 | 371 | 395 | Brooke Elizabeth Antill |
 | 372 | 394 | Angela Dawn Torres-Tarrants |
 | 373 | 394 | Nick R Montague |
 | 374 | 393 | Wisa |
 | 375 | 391 | Tipsy Builder |
-| 376 | 390 | Margo Wagner |
-| 377 | 390 | Mandyy Rae |
-| 378 | 390 | Carl Claunch |
+| 376 | 390 | Mandyy Rae |
+| 377 | 390 | Carl Claunch |
+| 378 | 390 | Margo Wagner |
 | 379 | 389 | Tanya Banks |
 | 380 | 389 | Christina Backer |
 | 381 | 389 | Giggly Builderline |
@@ -2500,18 +2500,18 @@
 | 2492 | 5 | Maria Ramos |
 | 2493 | 5 | Lissa Armstrong |
 | 2494 | 5 | Hasty Rollblock |
-| 2495 | 5 | Jeremy Thomson |
-| 2496 | 5 | Wambo |
-| 2497 | 5 | Kimberly Meijers |
-| 2498 | 5 | Ricky Batista |
-| 2499 | 5 | Giggy Striker |
+| 2495 | 5 | Chele Gibble |
+| 2496 | 5 | Heidi Fuller |
+| 2497 | 5 | Star Hood |
+| 2498 | 5 | Sharon Elizabeth Holmes |
+| 2499 | 5 | BlockKnocker |
 | 2500 | 5 | Glenda Thompson |
-| 2501 | 5 | Sharon Elizabeth Holmes |
-| 2502 | 5 | Star Hood |
-| 2503 | 5 | Heidi Fuller |
-| 2504 | 5 | Chele Gibble |
-| 2505 | 5 | Fareti |
-| 2506 | 5 | BlockKnocker |
+| 2501 | 5 | Giggy Striker |
+| 2502 | 5 | Ricky Batista |
+| 2503 | 5 | Kimberly Meijers |
+| 2504 | 5 | Wambo |
+| 2505 | 5 | Jeremy Thomson |
+| 2506 | 5 | Fareti |
 
 ---
 *Standings created by tournaments datasource generation tool*
