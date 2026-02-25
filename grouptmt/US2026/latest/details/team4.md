@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 07:52:44 UTC
+# Standings for team4 as of 2026-02-25 07:53:24 UTC
 
 **Total Participants:** 2179
 
@@ -194,8 +194,8 @@
 | 186 | 624 | Matt Summer |
 | 187 | 623 | ku5hkween |
 | 188 | 619 | Adrian Pawlusinski |
-| 189 | 618 | Ren Mc |
-| 190 | 618 | Rico |
+| 189 | 618 | Rico |
+| 190 | 618 | Ren Mc |
 | 191 | 612 | Autumn Kumzi |
 | 192 | 610 | blasterB |
 | 193 | 610 | Christina Black |
@@ -214,8 +214,8 @@
 | 206 | 589 | Jessica Bohlken |
 | 207 | 587 | Andy Cabral |
 | 208 | 586 | Angel Raya |
-| 209 | 586 | Manny1 |
-| 210 | 586 | Latisha Davis |
+| 209 | 586 | Latisha Davis |
+| 210 | 586 | Manny1 |
 | 211 | 585 | rebel4lyfe |
 | 212 | 583 | Erin Sabol |
 | 213 | 579 | Oscar Alberto Perez |
@@ -249,9 +249,9 @@
 | 241 | 522 | Luis Martinez |
 | 242 | 522 | Marcus Todd |
 | 243 | 520 | Antony Dwayne Beasley |
-| 244 | 518 | Leah Kutz Zirbel |
+| 244 | 518 | Brittany Little |
 | 245 | 518 | shark tato |
-| 246 | 517 | Brittany Little |
+| 246 | 518 | Leah Kutz Zirbel |
 | 247 | 517 | Casey Grabner |
 | 248 | 516 | Nick Gray |
 | 249 | 515 | Bradley Reeves |
@@ -270,8 +270,8 @@
 | 262 | 501 | Brickh4us |
 | 263 | 500 | Zethra Prenisha Rahming |
 | 264 | 500 | Crystal Nicolette Moore |
-| 265 | 499 | John Brunetti |
-| 266 | 499 | Kesha Brady |
+| 265 | 499 | Kesha Brady |
+| 266 | 499 | John Brunetti |
 | 267 | 495 | Joeliecea Cobb |
 | 268 | 494 | Gdiguy |
 | 269 | 494 | Zakia Monae |
@@ -293,8 +293,8 @@
 | 285 | 461 | Lindsay Ball |
 | 286 | 459 | Rafael Valentin |
 | 287 | 458 | Alan Zukowski |
-| 288 | 453 | Rio Rocha |
-| 289 | 453 | Mike Solo |
+| 288 | 453 | Mike Solo |
+| 289 | 453 | Rio Rocha |
 | 290 | 450 | Lora |
 | 291 | 450 | Andrew Dang |
 | 292 | 449 | Danielle Kollias |
@@ -845,18 +845,18 @@
 | 837 | 175 | Nikki Ann |
 | 838 | 175 | Kristin Rose Nutter |
 | 839 | 175 | Stephanie Griego |
-| 840 | 175 | Tory Miller |
-| 841 | 175 | Marcus Cooper |
-| 842 | 175 | Rick SJ |
-| 843 | 174 | Christina Hyde |
-| 844 | 174 | Laura Chase-Amara |
-| 845 | 174 | Angel Johnson |
-| 846 | 174 | Giggly Balancefit |
-| 847 | 173 | Jasmine Castro |
-| 848 | 173 | Willa Anne Nold Kay |
-| 849 | 173 | TwistyMcTwist |
-| 850 | 173 | Erebus |
-| 851 | 173 | Spunky Framezone |
+| 840 | 175 | Marcus Cooper |
+| 841 | 175 | Rick SJ |
+| 842 | 175 | Tory Miller |
+| 843 | 174 | Laura Chase-Amara |
+| 844 | 174 | Christina Hyde |
+| 845 | 174 | Giggly Balancefit |
+| 846 | 174 | Angel Johnson |
+| 847 | 173 | Erebus |
+| 848 | 173 | TwistyMcTwist |
+| 849 | 173 | Willa Anne Nold Kay |
+| 850 | 173 | Spunky Framezone |
+| 851 | 173 | Jasmine Castro |
 | 852 | 173 | Too Low Lou |
 | 853 | 173 | Marvetta Williams |
 | 854 | 173 | Kelly Duncan |
@@ -867,23 +867,23 @@
 | 859 | 171 | Michele Badgwell |
 | 860 | 171 | Tara |
 | 861 | 170 | tossan |
-| 862 | 170 | Matt Rawls |
+| 862 | 170 | Peyton Mclaughlin |
 | 863 | 170 | Yvonne MAguilar |
-| 864 | 169 | Libby |
+| 864 | 170 | Matt Rawls |
 | 865 | 169 | Frothy Curve |
-| 866 | 169 | Atia Scott |
-| 867 | 168 | Heather Mamabear Pezze |
-| 868 | 168 | Holly Tracey-Grimes |
-| 869 | 168 | Nicole McMurray |
-| 870 | 168 | Dania Cochrane |
-| 871 | 168 | Blue |
-| 872 | 168 | Emily Babic |
-| 873 | 168 | Bryan Davidson |
-| 874 | 167 | Brad Caldwell |
-| 875 | 167 | Skyler Patzer |
-| 876 | 167 | IDK |
-| 877 | 167 | Sarah Tenenbaum |
-| 878 | 167 | Peyton Mclaughlin |
+| 866 | 169 | Libby |
+| 867 | 169 | Atia Scott |
+| 868 | 168 | Dania Cochrane |
+| 869 | 168 | Heather Mamabear Pezze |
+| 870 | 168 | Nicole McMurray |
+| 871 | 168 | Holly Tracey-Grimes |
+| 872 | 168 | Blue |
+| 873 | 168 | Emily Babic |
+| 874 | 168 | Bryan Davidson |
+| 875 | 167 | Brad Caldwell |
+| 876 | 167 | Skyler Patzer |
+| 877 | 167 | IDK |
+| 878 | 167 | Sarah Tenenbaum |
 | 879 | 167 | Austin |
 | 880 | 167 | Dottie Falco |
 | 881 | 166 | Snippy |
