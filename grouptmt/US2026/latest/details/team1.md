@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 18:40:43 UTC
+# Standings for team1 as of 2026-02-25 18:41:23 UTC
 
 **Total Participants:** 2512
 
@@ -82,7 +82,7 @@
 | 74 | 1293 | Lori Sanders- Davis |
 | 75 | 1282 | Stef Hu |
 | 76 | 1268 | Nerdy Linkblock |
-| 77 | 1249 | Kandae |
+| 77 | 1254 | Kandae |
 | 78 | 1242 | Amy Griffith |
 | 79 | 1224 | Jason Cox |
 | 80 | 1185 | Jason Jones |
@@ -174,8 +174,8 @@
 | 166 | 708 | ParisandCory Champagne |
 | 167 | 704 | Serina Marie |
 | 168 | 702 | Νεφ Όνυξ |
-| 169 | 698 | femmefatale |
-| 170 | 698 | Jennifer Noe Chandler |
+| 169 | 701 | Jennifer Noe Chandler |
+| 170 | 698 | femmefatale |
 | 171 | 697 | Chase Collinsworth |
 | 172 | 696 | Snippy Wipebuilder |
 | 173 | 695 | Evan Richmond |
@@ -185,10 +185,10 @@
 | 177 | 677 | Logan McFarland |
 | 178 | 672 | Evie Khalil |
 | 179 | 672 | Eric DeSimone |
-| 180 | 671 | Theo Pinnow |
-| 181 | 671 | Ly Phethmany |
-| 182 | 668 | Tyler Werts |
-| 183 | 668 | Maria C. Hernandez |
+| 180 | 671 | Ly Phethmany |
+| 181 | 671 | Theo Pinnow |
+| 182 | 668 | Maria C. Hernandez |
+| 183 | 668 | Tyler Werts |
 | 184 | 661 | Hasty Cascader |
 | 185 | 655 | Timothy Danaher |
 | 186 | 647 | Damon J. Martin |
@@ -208,8 +208,8 @@
 | 200 | 623 | Jessi Sauer |
 | 201 | 621 | BadG52 |
 | 202 | 620 | Deanna L Hermanson |
-| 203 | 606 | Buggs |
-| 204 | 606 | Arianna O'Brien |
+| 203 | 606 | Arianna O'Brien |
+| 204 | 606 | Buggs |
 | 205 | 604 | Michelle Beres |
 | 206 | 603 | John J. Cronin |
 | 207 | 598 | Speedy Liney |
@@ -218,8 +218,8 @@
 | 210 | 592 | Steve Schneider |
 | 211 | 591 | Rebekah LeiAnn Bonsell |
 | 212 | 589 | Rat666 |
-| 213 | 587 | Jessica Russell |
-| 214 | 587 | Luciano Moreira |
+| 213 | 587 | Luciano Moreira |
+| 214 | 587 | Jessica Russell |
 | 215 | 579 | Jamie Jury |
 | 216 | 573 | Sarah Somers Gray |
 | 217 | 570 | Cody Slav |
@@ -274,12 +274,12 @@
 | 266 | 500 | Jamise Brown |
 | 267 | 499 | Hasty Columnbuilder |
 | 268 | 498 | Kimmie Kimms |
-| 269 | 497 | Sylvia Vasquez |
-| 270 | 496 | Emily Adelaide Wheatley |
-| 271 | 495 | Ananda Mendez |
-| 272 | 495 | Rayline M Bradshaw |
-| 273 | 493 | Brendan Sullivan |
-| 274 | 492 | Chantelle Ceno |
+| 269 | 498 | Chantelle Ceno |
+| 270 | 497 | Sylvia Vasquez |
+| 271 | 496 | Emily Adelaide Wheatley |
+| 272 | 495 | Ananda Mendez |
+| 273 | 495 | Rayline M Bradshaw |
+| 274 | 493 | Brendan Sullivan |
 | 275 | 491 | Yvonne Marie |
 | 276 | 491 | David Lutcher |
 | 277 | 488 | Tyler Hertzog |
@@ -323,14 +323,14 @@
 | 315 | 447 | Glitzy Curvebuilder |
 | 316 | 447 | Sarah Roberts |
 | 317 | 446 | Dino |
-| 318 | 445 | Tetrisqn |
-| 319 | 444 | Its me |
-| 320 | 444 | poopypants |
-| 321 | 442 | GringaLinga |
-| 322 | 442 | Al Smith Jr |
-| 323 | 441 | Barrbaric |
-| 324 | 439 | Angela Fairbank |
-| 325 | 439 | Silly Align |
+| 318 | 445 | Silly Align |
+| 319 | 445 | Tetrisqn |
+| 320 | 444 | Its me |
+| 321 | 444 | poopypants |
+| 322 | 442 | GringaLinga |
+| 323 | 442 | Al Smith Jr |
+| 324 | 441 | Barrbaric |
+| 325 | 439 | Angela Fairbank |
 | 326 | 438 | Melissa Bires Hussar |
 | 327 | 436 | whocares |
 | 328 | 436 | Sarahdactyl |
@@ -339,14 +339,14 @@
 | 331 | 432 | SavageBooty98 |
 | 332 | 432 | Shanae Grant |
 | 333 | 431 | Tipsy Strikerpiece |
-| 334 | 430 | Dione Winter Heilich |
-| 335 | 430 | Plucky Stacky |
+| 334 | 430 | Plucky Stacky |
+| 335 | 430 | Dione Winter Heilich |
 | 336 | 429 | Frothy Pattern |
 | 337 | 428 | Speedy Snapfall |
 | 338 | 423 | Marie Bremner |
-| 339 | 419 | Robert |
-| 340 | 419 | Bouncy Line |
-| 341 | 419 | Toya Lynn |
+| 339 | 419 | Toya Lynn |
+| 340 | 419 | Robert |
+| 341 | 419 | Bouncy Line |
 | 342 | 417 | Danielle S Kester |
 | 343 | 417 | Sarah Marie |
 | 344 | 417 | Brave Linkmatch |
@@ -1431,33 +1431,33 @@
 | 1423 | 83 | Jolly Buildsnap |
 | 1424 | 83 | Anime girl |
 | 1425 | 83 | James Best |
-| 1426 | 83 | Goofy Liney |
-| 1427 | 82 | Tina Tiger |
-| 1428 | 82 | Justin Mccarley |
-| 1429 | 82 | Scott Shumpert |
-| 1430 | 82 | Pete Garrett |
-| 1431 | 82 | Jessie May |
-| 1432 | 82 | J.W. Norris |
-| 1433 | 82 | Jerome Mosby |
+| 1426 | 83 | Catherine Gi |
+| 1427 | 83 | Goofy Liney |
+| 1428 | 82 | Tina Tiger |
+| 1429 | 82 | Justin Mccarley |
+| 1430 | 82 | Scott Shumpert |
+| 1431 | 82 | Pete Garrett |
+| 1432 | 82 | Jessie May |
+| 1433 | 82 | J.W. Norris |
 | 1434 | 82 | savior |
-| 1435 | 82 | Consuelo Lopez |
-| 1436 | 82 | Hoppy Party |
-| 1437 | 81 | Giddy Glider |
-| 1438 | 81 | Brenda Schultz |
+| 1435 | 82 | Jerome Mosby |
+| 1436 | 82 | Consuelo Lopez |
+| 1437 | 82 | Hoppy Party |
+| 1438 | 81 | Ghale DeShazo |
 | 1439 | 81 | Robert |
 | 1440 | 81 | Elania Marie Degrez |
 | 1441 | 81 | June Myklebust Degarmo |
-| 1442 | 81 | Twisty Rollbuilder |
-| 1443 | 81 | Amy N Clint Atchley |
-| 1444 | 81 | Catherine Gi |
+| 1442 | 81 | Brenda Schultz |
+| 1443 | 81 | Twisty Rollbuilder |
+| 1444 | 81 | Amy N Clint Atchley |
 | 1445 | 81 | Ajayy Carlson |
-| 1446 | 81 | Ghale DeShazo |
-| 1447 | 81 | Dart King |
-| 1448 | 81 | Bobby |
-| 1449 | 80 | Sid Castro |
-| 1450 | 80 | Cassandra Lee |
-| 1451 | 80 | Blusie |
-| 1452 | 80 | Giggy Towerfit |
+| 1446 | 81 | Dart King |
+| 1447 | 81 | Bobby |
+| 1448 | 81 | Giddy Glider |
+| 1449 | 80 | Giggy Towerfit |
+| 1450 | 80 | Sid Castro |
+| 1451 | 80 | Cassandra Lee |
+| 1452 | 80 | Blusie |
 | 1453 | 80 | William Foust |
 | 1454 | 80 | Carlitos Faith Faith |
 | 1455 | 80 | Breezy Twister |
