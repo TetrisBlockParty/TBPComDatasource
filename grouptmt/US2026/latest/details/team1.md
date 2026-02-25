@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 21:52:46 UTC
+# Standings for team1 as of 2026-02-25 21:53:22 UTC
 
 **Total Participants:** 2535
 
@@ -144,7 +144,7 @@
 | 136 | 853 | GATOR |
 | 137 | 846 | Happy Basegrid |
 | 138 | 844 | Dandy Basegrid |
-| 139 | 834 | Christy Jones |
+| 139 | 836 | Christy Jones |
 | 140 | 824 | Melissa Lemmon |
 | 141 | 824 | Debbie Kane |
 | 142 | 822 | Susanna Guerry |
@@ -346,32 +346,32 @@
 | 338 | 432 | SavageBooty98 |
 | 339 | 431 | Tipsy Strikerpiece |
 | 340 | 430 | Danielle S Kester |
-| 341 | 430 | Plucky Stacky |
-| 342 | 430 | Speedy Snapfall |
+| 341 | 430 | Speedy Snapfall |
+| 342 | 430 | Plucky Stacky |
 | 343 | 429 | Frothy Pattern |
-| 344 | 423 | Terri Rodela |
-| 345 | 423 | Marie Bremner |
-| 346 | 422 | Nathan Sealander |
-| 347 | 419 | Mrs.Patrica |
-| 348 | 419 | Bouncy Line |
-| 349 | 419 | Toya Lynn |
-| 350 | 419 | Robert |
-| 351 | 418 | Snappy Brickbuilder |
-| 352 | 417 | Brave Linkmatch |
-| 353 | 417 | Sarah Marie |
-| 354 | 417 | John Ramirez |
-| 355 | 417 | Kipoi |
-| 356 | 415 | Strig |
-| 357 | 415 | Anielle Reagan |
-| 358 | 415 | Brian Richardsson |
-| 359 | 414 | Amber Dee |
-| 360 | 413 | LaFontaine Leslie |
-| 361 | 413 | Nate Price |
+| 344 | 428 | Nate Price |
+| 345 | 424 | John Ramirez |
+| 346 | 423 | Marie Bremner |
+| 347 | 423 | Terri Rodela |
+| 348 | 422 | Nathan Sealander |
+| 349 | 419 | Mrs.Patrica |
+| 350 | 419 | Toya Lynn |
+| 351 | 419 | Bouncy Line |
+| 352 | 419 | Robert |
+| 353 | 418 | Snappy Brickbuilder |
+| 354 | 417 | Kipoi |
+| 355 | 417 | Brave Linkmatch |
+| 356 | 417 | Sarah Marie |
+| 357 | 415 | Strig |
+| 358 | 415 | Anielle Reagan |
+| 359 | 415 | Brian Richardsson |
+| 360 | 414 | Amber Dee |
+| 361 | 413 | LaFontaine Leslie |
 | 362 | 412 | Alphonza Keyes Jr. |
 | 363 | 411 | Gracie |
 | 364 | 409 | Danielle Little-Daugherty |
-| 365 | 407 | Christy LaSure |
-| 366 | 407 | Lisa Miller |
+| 365 | 407 | Lisa Miller |
+| 366 | 407 | Christy LaSure |
 | 367 | 406 | Bloknboy |
 | 368 | 405 | Spunky Tilt |
 | 369 | 404 | Sunny Pivotfall |
@@ -801,31 +801,31 @@
 | 793 | 211 | Roxy Cohen-Skalli |
 | 794 | 210 | Christian Corral |
 | 795 | 210 | Fat fred |
-| 796 | 209 | Lively Wipeout |
-| 797 | 208 | TristansDad |
-| 798 | 208 | Jason Landon Sexton |
-| 799 | 208 | Geo Jam |
-| 800 | 208 | Paul Gates |
-| 801 | 208 | Donna Addison Williams |
-| 802 | 207 | Shawn Robert |
-| 803 | 206 | Lisa Marie |
-| 804 | 206 | Almïghty Stoner |
-| 805 | 206 | Amanda Stevens |
-| 806 | 206 | Abusive |
+| 796 | 209 | Natiera Catrece |
+| 797 | 209 | Lively Wipeout |
+| 798 | 208 | TristansDad |
+| 799 | 208 | Jason Landon Sexton |
+| 800 | 208 | Geo Jam |
+| 801 | 208 | Paul Gates |
+| 802 | 208 | Donna Addison Williams |
+| 803 | 207 | Shawn Robert |
+| 804 | 206 | Lisa Marie |
+| 805 | 206 | Almïghty Stoner |
+| 806 | 206 | Amanda Stevens |
 | 807 | 206 | Gremb |
-| 808 | 206 | docjp |
+| 808 | 206 | Abusive |
 | 809 | 206 | Lili Pad |
-| 810 | 205 | Christopher Childress |
-| 811 | 204 | Anastasia Lozada |
-| 812 | 204 | Dave |
-| 813 | 204 | Brandy Ann |
-| 814 | 204 | Walter Brown |
-| 815 | 204 | Natiera Catrece |
+| 810 | 206 | docjp |
+| 811 | 205 | Christopher Childress |
+| 812 | 204 | Anastasia Lozada |
+| 813 | 204 | Dave |
+| 814 | 204 | Brandy Ann |
+| 815 | 204 | Walter Brown |
 | 816 | 204 | Nekina Wright |
 | 817 | 203 | Donna Horoszewski-Dilgen |
 | 818 | 203 | Discovery Point |
-| 819 | 203 | Kristen Rhoads |
-| 820 | 203 | Kerry Lee Powell |
+| 819 | 203 | Kerry Lee Powell |
+| 820 | 203 | Kristen Rhoads |
 | 821 | 203 | Philip Hutson |
 | 822 | 202 | Chilly Linebuilder |
 | 823 | 202 | Latonya McLeroy Smith |
@@ -1098,13 +1098,13 @@
 | 1090 | 144 | Penelope |
 | 1091 | 144 | Mar |
 | 1092 | 144 | Plucky Clearpiece |
-| 1093 | 143 | Unicorn |
-| 1094 | 143 | Jessica Hopkins |
-| 1095 | 143 | Kristi Kinard |
-| 1096 | 143 | Jacob Shaddock |
-| 1097 | 142 | Daring Wiper |
-| 1098 | 142 | Riley Chance |
-| 1099 | 142 | Hoppy Snaplink |
+| 1093 | 144 | Hoppy Snaplink |
+| 1094 | 143 | Unicorn |
+| 1095 | 143 | Jessica Hopkins |
+| 1096 | 143 | Kristi Kinard |
+| 1097 | 143 | Jacob Shaddock |
+| 1098 | 142 | Daring Wiper |
+| 1099 | 142 | Riley Chance |
 | 1100 | 142 | Swanky Crasher |
 | 1101 | 142 | Spicy Tilefall |
 | 1102 | 142 | Nick |
@@ -1212,56 +1212,56 @@
 | 1204 | 120 | Cheeky Gridder |
 | 1205 | 120 | Coke cane |
 | 1206 | 120 | Jonathan Vaval |
-| 1207 | 120 | April Jones |
-| 1208 | 120 | Lakesha Jackson- Anderson |
-| 1209 | 120 | cola |
-| 1210 | 120 | madd |
-| 1211 | 120 | Quirky Holder |
-| 1212 | 119 | Joshua Murphy |
-| 1213 | 119 | Kellie |
-| 1214 | 119 | William Miles |
-| 1215 | 119 | Ana Estevez |
-| 1216 | 119 | Betsy Miller Solida |
-| 1217 | 119 | Wendy Walker-Hill |
-| 1218 | 118 | Laura Small |
-| 1219 | 118 | Denny Castle |
-| 1220 | 118 | Unelanuhi Belladonna Mystikal Bomar |
-| 1221 | 118 | Tim Mccrary |
+| 1207 | 120 | Lakesha Jackson- Anderson |
+| 1208 | 120 | Quirky Holder |
+| 1209 | 120 | madd |
+| 1210 | 120 | cola |
+| 1211 | 120 | April Jones |
+| 1212 | 119 | Ana Estevez |
+| 1213 | 119 | William Miles |
+| 1214 | 119 | Joshua Murphy |
+| 1215 | 119 | Betsy Miller Solida |
+| 1216 | 119 | Wendy Walker-Hill |
+| 1217 | 119 | Kellie |
+| 1218 | 118 | Unelanuhi Belladonna Mystikal Bomar |
+| 1219 | 118 | Salih Atasoy |
+| 1220 | 118 | Tim Mccrary |
+| 1221 | 118 | Denny Castle |
 | 1222 | 118 | Michael Hughes |
-| 1223 | 117 | Heaven White |
-| 1224 | 117 | rigerson |
-| 1225 | 117 | Jessicer |
-| 1226 | 117 | Dylan BW |
+| 1223 | 118 | Laura Small |
+| 1224 | 117 | Vanessa Zuniga Elvira |
+| 1225 | 117 | Dylan BW |
+| 1226 | 117 | Jessicer |
 | 1227 | 117 | Omar Hudson |
-| 1228 | 117 | Roxann Boykin |
-| 1229 | 117 | Vanessa Zuniga Elvira |
-| 1230 | 116 | Sassy Riseclear |
-| 1231 | 116 | Lacey Breanna Smith |
+| 1228 | 117 | rigerson |
+| 1229 | 117 | Roxann Boykin |
+| 1230 | 117 | Heaven White |
+| 1231 | 116 | Sassy Riseclear |
 | 1232 | 116 | Cleo Snider |
 | 1233 | 116 | Badace1 |
-| 1234 | 116 | Lilly Denny |
-| 1235 | 115 | Happy Tower |
-| 1236 | 115 | Beatrice Taylor |
-| 1237 | 115 | Anthony Ray |
-| 1238 | 115 | Connie Matheney |
-| 1239 | 115 | Vicky Clemont |
+| 1234 | 116 | Lacey Breanna Smith |
+| 1235 | 116 | Lilly Denny |
+| 1236 | 115 | Happy Tower |
+| 1237 | 115 | Jeremy McLean |
+| 1238 | 115 | Helen Arbuckle |
+| 1239 | 115 | Beatrice Taylor |
 | 1240 | 115 | Tracy Berry |
-| 1241 | 115 | Salih Atasoy |
-| 1242 | 115 | Jeremy McLean |
-| 1243 | 115 | Helen Arbuckle |
-| 1244 | 114 | BlazinGames |
-| 1245 | 114 | Amy Marques |
-| 1246 | 114 | Dimitri Alexopoulos |
-| 1247 | 114 | Karly Alexandrea |
-| 1248 | 114 | Peg |
-| 1249 | 113 | Plucky Tiltpiece |
-| 1250 | 113 | Ris |
-| 1251 | 113 | Olivia Ornella Rubinski |
-| 1252 | 113 | Tim |
-| 1253 | 113 | Nerdy Gridlock |
-| 1254 | 113 | Gerriann Jordan |
-| 1255 | 113 | Stephanie Thompson |
-| 1256 | 113 | Chirpy Twistslam |
+| 1241 | 115 | Anthony Ray |
+| 1242 | 115 | Vicky Clemont |
+| 1243 | 115 | Connie Matheney |
+| 1244 | 114 | Amy Marques |
+| 1245 | 114 | Peg |
+| 1246 | 114 | Karly Alexandrea |
+| 1247 | 114 | BlazinGames |
+| 1248 | 114 | Dimitri Alexopoulos |
+| 1249 | 113 | Nerdy Gridlock |
+| 1250 | 113 | Tim |
+| 1251 | 113 | Stephanie Thompson |
+| 1252 | 113 | Gerriann Jordan |
+| 1253 | 113 | Chirpy Twistslam |
+| 1254 | 113 | Plucky Tiltpiece |
+| 1255 | 113 | Ris |
+| 1256 | 113 | Olivia Ornella Rubinski |
 | 1257 | 112 | Jasmine Del Real Est |
 | 1258 | 112 | Soo Fly |
 | 1259 | 112 | Antonio Feliciano |
