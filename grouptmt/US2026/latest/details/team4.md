@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 15:28:43 UTC
+# Standings for team4 as of 2026-02-25 15:29:22 UTC
 
 **Total Participants:** 2221
 
@@ -188,21 +188,21 @@
 | 180 | 671 | Angelito |
 | 181 | 665 | Shiny Fit |
 | 182 | 664 | Kim Hunt |
-| 183 | 660 | Amanda Pauldo-Ivy |
-| 184 | 659 | JPW |
-| 185 | 657 | Cranky Rollpiece |
-| 186 | 657 | Erin Thomas |
-| 187 | 655 | Steph Marie |
-| 188 | 648 | Jenna Ingersoll |
-| 189 | 647 | KM8 |
-| 190 | 646 | Damn Libra |
-| 191 | 643 | Dizzy Tiley |
-| 192 | 642 | Andy Cabral |
-| 193 | 642 | Circuit8 |
-| 194 | 634 | Kathy Brookins |
-| 195 | 634 | Christina Black |
-| 196 | 633 | Jade Rian |
-| 197 | 633 | Mimi |
+| 183 | 660 | Mimi |
+| 184 | 660 | Amanda Pauldo-Ivy |
+| 185 | 659 | JPW |
+| 186 | 657 | Cranky Rollpiece |
+| 187 | 657 | Erin Thomas |
+| 188 | 655 | Steph Marie |
+| 189 | 648 | Jenna Ingersoll |
+| 190 | 647 | KM8 |
+| 191 | 646 | Damn Libra |
+| 192 | 643 | Dizzy Tiley |
+| 193 | 642 | Andy Cabral |
+| 194 | 642 | Circuit8 |
+| 195 | 634 | Kathy Brookins |
+| 196 | 634 | Christina Black |
+| 197 | 633 | Jade Rian |
 | 198 | 632 | Chris Bernstein |
 | 199 | 627 | Genne Scott |
 | 200 | 624 | Matt Summer |
@@ -912,12 +912,12 @@
 | 904 | 167 | Crystal Eaden |
 | 905 | 167 | Brad Caldwell |
 | 906 | 167 | Sweet Pea |
-| 907 | 167 | Dottie Falco |
-| 908 | 167 | Sadie Rae Ryan |
-| 909 | 165 | McKayla Breanne |
-| 910 | 165 | Zappy Buildgrid |
-| 911 | 165 | Maverick |
-| 912 | 164 | Saucy Stackbuilder |
+| 907 | 167 | Saucy Stackbuilder |
+| 908 | 167 | Dottie Falco |
+| 909 | 167 | Sadie Rae Ryan |
+| 910 | 165 | McKayla Breanne |
+| 911 | 165 | Zappy Buildgrid |
+| 912 | 165 | Maverick |
 | 913 | 163 | Kimberly Paxton |
 | 914 | 163 | Swanky Blockline |
 | 915 | 163 | Matt Narcisse |
