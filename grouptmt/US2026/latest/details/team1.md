@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 13:30:45 UTC
+# Standings for team1 as of 2026-02-25 13:31:23 UTC
 
 **Total Participants:** 2467
 
@@ -71,7 +71,7 @@
 | 63 | 1423 | Tipsy Column |
 | 64 | 1401 | Adam Byrd |
 | 65 | 1390 | Hasbro Bros |
-| 66 | 1369 | TSwag |
+| 66 | 1370 | TSwag |
 | 67 | 1332 | Kristen Gideon |
 | 68 | 1328 | Karin Gillen |
 | 69 | 1324 | Lawrence Belanger |
@@ -341,17 +341,17 @@
 | 333 | 413 | Madbull |
 | 334 | 413 | Brendan Sullivan |
 | 335 | 412 | Brian Richardsson |
-| 336 | 412 | Sarah Marie |
-| 337 | 411 | Marie Bremner |
-| 338 | 411 | Gracie |
-| 339 | 409 | Bouncy Line |
-| 340 | 408 | Alphonza Keyes Jr. |
-| 341 | 407 | Mark Smith |
-| 342 | 406 | Snappy Brickbuilder |
-| 343 | 405 | Strig |
-| 344 | 405 | Spunky Tilt |
-| 345 | 404 | Sunny Pivotfall |
-| 346 | 403 | Nathan Sealander |
+| 336 | 412 | Nathan Sealander |
+| 337 | 412 | Sarah Marie |
+| 338 | 411 | Marie Bremner |
+| 339 | 411 | Gracie |
+| 340 | 409 | Bouncy Line |
+| 341 | 408 | Alphonza Keyes Jr. |
+| 342 | 407 | Mark Smith |
+| 343 | 406 | Snappy Brickbuilder |
+| 344 | 405 | Strig |
+| 345 | 405 | Spunky Tilt |
+| 346 | 404 | Sunny Pivotfall |
 | 347 | 403 | Stephanie Leday |
 | 348 | 401 | Danielle Little-Daugherty |
 | 349 | 400 | Jasmine Riley |
@@ -715,11 +715,11 @@
 | 707 | 227 | Spunky Builderpiece |
 | 708 | 227 | squareMel |
 | 709 | 227 | Mary M Brion |
-| 710 | 227 | Daniel Lorquet |
-| 711 | 226 | Elizabeth Coover |
-| 712 | 226 | Kathryn Chiles Anderson |
-| 713 | 225 | Ramona Mittelstadt |
-| 714 | 225 | Mechelle Bailum |
+| 710 | 227 | Mechelle Bailum |
+| 711 | 227 | Daniel Lorquet |
+| 712 | 226 | Elizabeth Coover |
+| 713 | 226 | Kathryn Chiles Anderson |
+| 714 | 225 | Ramona Mittelstadt |
 | 715 | 224 | Kkl |
 | 716 | 224 | Giggly Rollfit |
 | 717 | 223 | Natasha Hollowell Causey |
