@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 16:12:43 UTC
+# Standings for team1 as of 2026-02-25 16:13:23 UTC
 
 **Total Participants:** 2489
 
@@ -196,10 +196,10 @@
 | 188 | 636 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 189 | 633 | ALFD |
 | 190 | 631 | Sleepysloath5745 |
-| 191 | 626 | Loony Fitzone |
-| 192 | 623 | Jessi Sauer |
-| 193 | 623 | Jessie Welch |
-| 194 | 622 | Teddy Alexander |
+| 191 | 627 | Teddy Alexander |
+| 192 | 626 | Loony Fitzone |
+| 193 | 623 | Jessi Sauer |
+| 194 | 623 | Jessie Welch |
 | 195 | 621 | BadG52 |
 | 196 | 620 | Deanna L Hermanson |
 | 197 | 611 | Jumpy Dropper |
@@ -426,14 +426,14 @@
 | 418 | 368 | Katie Martin |
 | 419 | 368 | Shannon Marie Pitts |
 | 420 | 368 | Terri Rodela |
-| 421 | 367 | Crystal Cheresnowsky |
+| 421 | 367 | Christy LaSure |
 | 422 | 367 | Jessie |
-| 423 | 366 | Mighty Shatterfit |
-| 424 | 366 | J.F. Fields |
-| 425 | 365 | Brave Wrecker |
-| 426 | 364 | Shauna Loe |
-| 427 | 364 | dhardy |
-| 428 | 364 | Christy LaSure |
+| 423 | 367 | Crystal Cheresnowsky |
+| 424 | 366 | Mighty Shatterfit |
+| 425 | 366 | J.F. Fields |
+| 426 | 365 | Brave Wrecker |
+| 427 | 364 | Shauna Loe |
+| 428 | 364 | dhardy |
 | 429 | 363 | Наталья Солоид |
 | 430 | 363 | Lyn Sibayan |
 | 431 | 362 | Jennifer Olewnik Soborowski |
@@ -464,21 +464,21 @@
 | 456 | 344 | Cranky Pattern |
 | 457 | 344 | Randy Broadwater |
 | 458 | 343 | Mariah Cornell |
-| 459 | 343 | Missy Broz McNees |
-| 460 | 343 | Allena Craft |
-| 461 | 343 | Nate Funk |
-| 462 | 342 | Marianita Garcia |
-| 463 | 342 | Christina Norman |
-| 464 | 342 | Toni Sagenbrecht |
-| 465 | 341 | Frisky Base |
-| 466 | 340 | Zesty Brickzone |
-| 467 | 340 | Toph |
-| 468 | 340 | Dawon Ksk Capers |
-| 469 | 339 | Joe Coon |
+| 459 | 343 | Susie Loo |
+| 460 | 343 | Nate Funk |
+| 461 | 343 | Allena Craft |
+| 462 | 343 | Missy Broz McNees |
+| 463 | 342 | Toni Sagenbrecht |
+| 464 | 342 | Christina Norman |
+| 465 | 342 | Marianita Garcia |
+| 466 | 341 | Frisky Base |
+| 467 | 340 | Zesty Brickzone |
+| 468 | 340 | Toph |
+| 469 | 340 | Dawon Ksk Capers |
 | 470 | 339 | LC |
-| 471 | 339 | Susie Loo |
-| 472 | 338 | Justin Canape |
-| 473 | 338 | cheeseman |
+| 471 | 339 | Joe Coon |
+| 472 | 338 | cheeseman |
+| 473 | 338 | Justin Canape |
 | 474 | 336 | Steven Collins |
 | 475 | 336 | Purple |
 | 476 | 336 | Mavria Comeaux Hinton |
@@ -562,41 +562,41 @@
 | 554 | 297 | Jake Mcnabb |
 | 555 | 296 | Mel Hogan |
 | 556 | 296 | grizzly |
-| 557 | 296 | Dena Kayy |
-| 558 | 295 | Clever Cascadepiece |
-| 559 | 294 | Burnnetter Sisk |
-| 560 | 293 | Funky Piecebuilder |
-| 561 | 292 | Corrie Grant Smithson |
-| 562 | 290 | Rachel Copas |
+| 557 | 296 | Cozy Shatterer |
+| 558 | 296 | Dena Kayy |
+| 559 | 295 | Clever Cascadepiece |
+| 560 | 294 | Burnnetter Sisk |
+| 561 | 293 | Funky Piecebuilder |
+| 562 | 292 | Corrie Grant Smithson |
 | 563 | 290 | Ariel Whittington |
-| 564 | 289 | Theeranart Mahawan |
-| 565 | 289 | Tiffany Trinh |
-| 566 | 288 | Sassy Towerer |
-| 567 | 287 | Colleen Wise |
-| 568 | 286 | Teresa |
+| 564 | 290 | Rachel Copas |
+| 565 | 289 | Theeranart Mahawan |
+| 566 | 289 | Tiffany Trinh |
+| 567 | 288 | Sassy Towerer |
+| 568 | 287 | Colleen Wise |
 | 569 | 286 | David |
-| 570 | 285 | Joke Sofunny |
+| 570 | 286 | Teresa |
 | 571 | 285 | Costa del Sol |
-| 572 | 284 | Melissa Ann Macko |
-| 573 | 283 | Robin Burress |
-| 574 | 283 | Matthew Foley |
-| 575 | 283 | Franswa |
-| 576 | 282 | Cozy Shatterer |
-| 577 | 282 | Timothy Dew |
-| 578 | 282 | Marc Abney |
-| 579 | 282 | Gilbert Ortiz Jr. |
-| 580 | 282 | Pauline Cortez |
-| 581 | 281 | Ashley Adams |
-| 582 | 281 | Olivia Witmer |
+| 572 | 285 | Joke Sofunny |
+| 573 | 284 | Melissa Ann Macko |
+| 574 | 283 | Robin Burress |
+| 575 | 283 | Matthew Foley |
+| 576 | 283 | Franswa |
+| 577 | 282 | Pauline Cortez |
+| 578 | 282 | Gilbert Ortiz Jr. |
+| 579 | 282 | Marc Abney |
+| 580 | 282 | Timothy Dew |
+| 581 | 281 | Olivia Witmer |
+| 582 | 281 | Ashley Adams |
 | 583 | 280 | Mary Sheets |
 | 584 | 280 | Peppy Columnbuilder |
-| 585 | 279 | Chris Dawson |
-| 586 | 279 | Sabrina Coleman |
-| 587 | 279 | Jordan Brooks |
-| 588 | 278 | Nevaeh Mattox |
-| 589 | 278 | Thorne Shumate |
-| 590 | 278 | Austin Jones |
-| 591 | 278 | Rivkah |
+| 585 | 279 | Jordan Brooks |
+| 586 | 279 | Chris Dawson |
+| 587 | 279 | Sabrina Coleman |
+| 588 | 278 | Thorne Shumate |
+| 589 | 278 | Austin Jones |
+| 590 | 278 | Rivkah |
+| 591 | 278 | Nevaeh Mattox |
 | 592 | 277 | Jen Justus |
 | 593 | 276 | Larry Jackson |
 | 594 | 275 | Marqs Mel |
@@ -877,10 +877,10 @@
 | 869 | 185 | Matt Leroux |
 | 870 | 185 | Crystal Joslin |
 | 871 | 185 | Tim Russell |
-| 872 | 184 | Heather Martin |
-| 873 | 184 | Erres Jones |
-| 874 | 184 | Dorny |
-| 875 | 183 | SweetSunshower |
+| 872 | 184 | SweetSunshower |
+| 873 | 184 | Heather Martin |
+| 874 | 184 | Erres Jones |
+| 875 | 184 | Dorny |
 | 876 | 183 | Jodee Woods |
 | 877 | 183 | Jean Graziano |
 | 878 | 183 | Mike Hobby |
@@ -1851,34 +1851,34 @@
 | 1843 | 41 | Liz Oubre |
 | 1844 | 41 | Chad Massaro |
 | 1845 | 41 | Hollyjo Balistreri |
-| 1846 | 41 | ya boi |
-| 1847 | 41 | lisa |
-| 1848 | 41 | Duhoh |
-| 1849 | 41 | TheBandit |
-| 1850 | 40 | Chelly |
-| 1851 | 40 | Natalyia |
-| 1852 | 40 | Dawn Mansfield |
-| 1853 | 40 | Keva |
-| 1854 | 40 | Amanda Sheppard |
-| 1855 | 40 | Terri Ruffin Arnett |
-| 1856 | 40 | Georgia J Krawczyk |
-| 1857 | 39 | Carla Tavares |
-| 1858 | 39 | Crafty Blockzone |
-| 1859 | 39 | Julia Linares |
-| 1860 | 39 | Yonkas |
-| 1861 | 39 | Rodriguez Leslie |
-| 1862 | 39 | Chipper Stacky |
-| 1863 | 39 | Keith Hiller |
-| 1864 | 39 | Merder |
-| 1865 | 39 | Anna Mae |
-| 1866 | 39 | RLA |
-| 1867 | 38 | Edgar Vazquez |
-| 1868 | 38 | Akgretel |
-| 1869 | 38 | Brad King |
+| 1846 | 41 | Duhoh |
+| 1847 | 41 | TheBandit |
+| 1848 | 41 | lisa |
+| 1849 | 41 | ya boi |
+| 1850 | 40 | Dawn Mansfield |
+| 1851 | 40 | Georgia J Krawczyk |
+| 1852 | 40 | Natalyia |
+| 1853 | 40 | brownie brown |
+| 1854 | 40 | Terri Ruffin Arnett |
+| 1855 | 40 | Keva |
+| 1856 | 40 | Chelly |
+| 1857 | 40 | Amanda Sheppard |
+| 1858 | 39 | Julia Linares |
+| 1859 | 39 | Carla Tavares |
+| 1860 | 39 | Crafty Blockzone |
+| 1861 | 39 | Yonkas |
+| 1862 | 39 | Rodriguez Leslie |
+| 1863 | 39 | Chipper Stacky |
+| 1864 | 39 | Keith Hiller |
+| 1865 | 39 | Merder |
+| 1866 | 39 | Anna Mae |
+| 1867 | 39 | RLA |
+| 1868 | 38 | Edgar Vazquez |
+| 1869 | 38 | Akgretel |
 | 1870 | 38 | Dora Greer |
 | 1871 | 38 | William Thomas |
-| 1872 | 38 | Jumpy Zonegrid |
-| 1873 | 38 | brownie brown |
+| 1872 | 38 | Brad King |
+| 1873 | 38 | Jumpy Zonegrid |
 | 1874 | 38 | Mighty Patternline |
 | 1875 | 38 | Mary Kaniuha |
 | 1876 | 38 | Jking |
