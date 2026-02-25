@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 14:34:42 UTC
+# Standings for team4 as of 2026-02-25 14:35:22 UTC
 
 **Total Participants:** 2213
 
@@ -14,7 +14,7 @@
 | 6 | 5542 | East Mamba |
 | 7 | 5031 | Alyssa Cox |
 | 8 | 4763 | Kristy Wintermantel |
-| 9 | 4570 | Alicia Bass |
+| 9 | 4650 | Alicia Bass |
 | 10 | 4528 | Elizabeth Sallas |
 | 11 | 4434 | Tina Martinez |
 | 12 | 4408 | Roger Coulter |
@@ -123,8 +123,8 @@
 | 115 | 874 | Rica Mitchell |
 | 116 | 872 | Sassy Pattern |
 | 117 | 867 | Sam Bishop |
-| 118 | 860 | Alan George LaRage |
-| 119 | 855 | Brandon Crabbs |
+| 118 | 864 | Brandon Crabbs |
+| 119 | 860 | Alan George LaRage |
 | 120 | 855 | Brittney Griggs |
 | 121 | 849 | Nerdy Twisterfit |
 | 122 | 849 | Carmethia Clemons Haslerig |
@@ -584,15 +584,15 @@
 | 576 | 268 | The Murphy |
 | 577 | 268 | Dandy Cascadefit |
 | 578 | 267 | Paul-Eunice Mathewson |
-| 579 | 267 | Brian Owens |
-| 580 | 266 | Hanh Pham |
-| 581 | 266 | Frilly Blocky |
-| 582 | 266 | Stacy |
-| 583 | 266 | Petty |
-| 584 | 266 | Mary Miller |
-| 585 | 265 | Laura Hosford |
-| 586 | 265 | Becky Shimko |
-| 587 | 263 | Spunky Framezone |
+| 579 | 267 | Spunky Framezone |
+| 580 | 267 | Brian Owens |
+| 581 | 266 | Hanh Pham |
+| 582 | 266 | Frilly Blocky |
+| 583 | 266 | Stacy |
+| 584 | 266 | Petty |
+| 585 | 266 | Mary Miller |
+| 586 | 265 | Laura Hosford |
+| 587 | 265 | Becky Shimko |
 | 588 | 263 | Laurmarcar |
 | 589 | 263 | Shanon Klair |
 | 590 | 262 | Hyper Shatterbuilder |
@@ -854,98 +854,98 @@
 | 846 | 180 | Courtney Angel |
 | 847 | 179 | Joseph Gray |
 | 848 | 179 | Marlisa Clark |
-| 849 | 178 | Frothy Curve |
-| 850 | 178 | Melissa Tipton Crawford |
-| 851 | 178 | Lori Goudy |
+| 849 | 178 | Melissa Tipton Crawford |
+| 850 | 178 | Lori Goudy |
+| 851 | 178 | Frothy Curve |
 | 852 | 178 | Tabitha Henson |
-| 853 | 177 | Erin Kushner |
-| 854 | 177 | David Emmanuel George |
-| 855 | 177 | Clinton Jacob |
-| 856 | 177 | Verna Neal |
-| 857 | 177 | Cashmere |
-| 858 | 177 | Richard Bradley |
+| 853 | 177 | David Emmanuel George |
+| 854 | 177 | Richard Bradley |
+| 855 | 177 | Verna Neal |
+| 856 | 177 | Clinton Jacob |
+| 857 | 177 | Erin Kushner |
+| 858 | 177 | Cashmere |
 | 859 | 177 | Marjorie Sims Rentz |
 | 860 | 176 | Tunia Torres |
-| 861 | 176 | Tina Connick |
-| 862 | 176 | Katie Walton |
-| 863 | 175 | Demeitra McCaune |
-| 864 | 175 | k |
-| 865 | 175 | Marcus Cooper |
-| 866 | 175 | Kristin Rose Nutter |
-| 867 | 175 | Rick SJ |
+| 861 | 176 | Katie Walton |
+| 862 | 176 | Tina Connick |
+| 863 | 175 | k |
+| 864 | 175 | Kristin Rose Nutter |
+| 865 | 175 | Demeitra McCaune |
+| 866 | 175 | AjJess |
+| 867 | 175 | Marcus Cooper |
 | 868 | 175 | Nikki Ann |
-| 869 | 175 | deebop |
-| 870 | 175 | Stephanie Griego |
-| 871 | 174 | Laura Chase-Amara |
+| 869 | 175 | Rick SJ |
+| 870 | 175 | deebop |
+| 871 | 175 | Stephanie Griego |
 | 872 | 174 | Angel Johnson |
-| 873 | 174 | Riley Chelsie |
-| 874 | 174 | Giggly Balancefit |
-| 875 | 174 | Linda Alexander Downing |
-| 876 | 173 | Willa Anne Nold Kay |
+| 873 | 174 | Laura Chase-Amara |
+| 874 | 174 | Riley Chelsie |
+| 875 | 174 | Giggly Balancefit |
+| 876 | 174 | Linda Alexander Downing |
 | 877 | 173 | TwistyMcTwist |
 | 878 | 173 | Jasmine Castro |
-| 879 | 173 | Kelly Duncan |
-| 880 | 172 | Jaime Ore Norcross |
+| 879 | 173 | Willa Anne Nold Kay |
+| 880 | 173 | Kelly Duncan |
 | 881 | 172 | IDK |
-| 882 | 172 | Roy Simmons |
-| 883 | 171 | Austin |
+| 882 | 172 | Jaime Ore Norcross |
+| 883 | 172 | Roy Simmons |
 | 884 | 171 | Michele Badgwell |
 | 885 | 171 | George Castillo |
-| 886 | 171 | Tara |
-| 887 | 170 | tossan |
-| 888 | 170 | Matt Rawls |
-| 889 | 170 | Yvonne MAguilar |
-| 890 | 169 | Atia Scott |
-| 891 | 169 | Dania Cochrane |
-| 892 | 169 | Libby |
-| 893 | 168 | Frisky Twistslam |
+| 886 | 171 | Austin |
+| 887 | 171 | Tara |
+| 888 | 170 | tossan |
+| 889 | 170 | Matt Rawls |
+| 890 | 170 | Yvonne MAguilar |
+| 891 | 169 | Libby |
+| 892 | 169 | Atia Scott |
+| 893 | 169 | Dania Cochrane |
 | 894 | 168 | Nicole McMurray |
 | 895 | 168 | Holly Tracey-Grimes |
 | 896 | 168 | Heather Mamabear Pezze |
-| 897 | 168 | Emily Babic |
-| 898 | 168 | Michelle Sanchez |
-| 899 | 167 | Sarah Tenenbaum |
-| 900 | 167 | Sweet Pea |
-| 901 | 167 | Skyler Patzer |
-| 902 | 167 | Sadie Rae Ryan |
-| 903 | 167 | Dottie Falco |
+| 897 | 168 | Frisky Twistslam |
+| 898 | 168 | Emily Babic |
+| 899 | 168 | Michelle Sanchez |
+| 900 | 167 | Skyler Patzer |
+| 901 | 167 | Dottie Falco |
+| 902 | 167 | Sarah Tenenbaum |
+| 903 | 167 | Sweet Pea |
 | 904 | 167 | Brad Caldwell |
-| 905 | 166 | AjJess |
+| 905 | 167 | Sadie Rae Ryan |
 | 906 | 166 | Snippy |
 | 907 | 165 | Zappy Buildgrid |
 | 908 | 165 | McKayla Breanne |
 | 909 | 164 | Saucy Stackbuilder |
-| 910 | 163 | Cozy Strikerbuilder |
-| 911 | 163 | Kimberly Paxton |
-| 912 | 163 | Nicole Silvers |
-| 913 | 163 | Swanky Blockline |
-| 914 | 163 | Matt Narcisse |
+| 910 | 163 | Swanky Blockline |
+| 911 | 163 | Cozy Strikerbuilder |
+| 912 | 163 | Matt Narcisse |
+| 913 | 163 | Nicole Silvers |
+| 914 | 163 | Kimberly Paxton |
 | 915 | 163 | Mike Burlingame |
 | 916 | 162 | Adam Randall |
-| 917 | 162 | Aloradexplora |
-| 918 | 162 | LucasEveryday |
-| 919 | 162 | Witty Link |
+| 917 | 162 | Witty Link |
+| 918 | 162 | Aloradexplora |
+| 919 | 162 | LucasEveryday |
 | 920 | 161 | Crystal Eaden |
-| 921 | 161 | Buttlicker |
-| 922 | 161 | Sha Ta Nay Mitchell |
-| 923 | 160 | Molly Ananda Rickerson |
-| 924 | 160 | Rampai |
-| 925 | 160 | Shiny Matchfit |
-| 926 | 159 | Niome Encinias |
-| 927 | 159 | Chummy Riserpiece |
+| 921 | 161 | Sha Ta Nay Mitchell |
+| 922 | 161 | Buttlicker |
+| 923 | 160 | Rampai |
+| 924 | 160 | Shiny Matchfit |
+| 925 | 160 | Molly Ananda Rickerson |
+| 926 | 159 | Chummy Riserpiece |
+| 927 | 159 | Niome Encinias |
 | 928 | 158 | Dot Flanagan |
 | 929 | 158 | Albert Walker III |
-| 930 | 156 | Chirpy Balancer |
-| 931 | 156 | Lauren R. Walls |
-| 932 | 156 | Shanon James |
-| 933 | 156 | Lorry Wofford Jr. |
-| 934 | 156 | Kara Kaminski Rhinehart |
+| 930 | 156 | Kara Kaminski Rhinehart |
+| 931 | 156 | Shanon James |
+| 932 | 156 | Chirpy Balancer |
+| 933 | 156 | Lauren R. Walls |
+| 934 | 156 | Lorry Wofford Jr. |
 | 935 | 156 | Brianna Walker |
-| 936 | 155 | Tabita Gonzalez |
-| 937 | 155 | Shane Hicks |
+| 936 | 155 | Shane Hicks |
+| 937 | 155 | Tabita Gonzalez |
 | 938 | 155 | Tipsy Zoney |
-| 939 | 154 | Kellie Tacuban |
-| 940 | 154 | Saundra Miller |
+| 939 | 154 | Saundra Miller |
+| 940 | 154 | Kellie Tacuban |
 | 941 | 154 | Kari Rose Haché |
 | 942 | 154 | Spunky Tower |
 | 943 | 153 | Miranda Diulio |
