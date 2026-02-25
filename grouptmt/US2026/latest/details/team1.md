@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 08:48:45 UTC
+# Standings for team1 as of 2026-02-25 08:49:22 UTC
 
 **Total Participants:** 2443
 
@@ -103,7 +103,7 @@
 | 95 | 1011 | Francesca Gee |
 | 96 | 1010 | Tee Sheree |
 | 97 | 1004 | Bindi |
-| 98 | 990 | comrade fish |
+| 98 | 992 | comrade fish |
 | 99 | 986 | Jennifer ManWarren |
 | 100 | 974 | Sweet Baker |
 | 101 | 972 | Seth Wesson |
