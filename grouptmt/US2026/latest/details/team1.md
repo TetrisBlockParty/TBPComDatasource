@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 14:10:22 UTC
+# Standings for team1 as of 2026-02-25 14:10:50 UTC
 
 **Total Participants:** 2473
 
@@ -89,7 +89,7 @@
 | 81 | 1179 | Angel Fowler |
 | 82 | 1162 | Jacqueline Williams |
 | 83 | 1156 | Redlicious 1 |
-| 84 | 1153 | Jason Jones |
+| 84 | 1156 | Jason Jones |
 | 85 | 1146 | Robert Beck |
 | 86 | 1126 | Seante Bullock |
 | 87 | 1122 | Amber Stoker |
