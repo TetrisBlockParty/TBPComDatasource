@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 05:30:43 UTC
+# Standings for team4 as of 2026-02-25 05:31:22 UTC
 
 **Total Participants:** 2166
 
@@ -30,7 +30,7 @@
 | 22 | 2425 | Misty Hollibaugh |
 | 23 | 2395 | Michelle Pearman |
 | 24 | 2302 | Christina LR |
-| 25 | 2161 | Jayna Anoc |
+| 25 | 2261 | Jayna Anoc |
 | 26 | 2122 | Robin Getchel |
 | 27 | 2077 | Landon Keith Graffeo |
 | 28 | 2069 | Rachel Anne |
@@ -57,7 +57,7 @@
 | 49 | 1614 | A5! |
 | 50 | 1587 | Shelly Chandler |
 | 51 | 1548 | Lisa Davis |
-| 52 | 1544 | Yoset Mejia |
+| 52 | 1546 | Yoset Mejia |
 | 53 | 1535 | Kimberly Love |
 | 54 | 1523 | Sammy Noguera |
 | 55 | 1498 | Pee |
@@ -1129,8 +1129,8 @@
 | 1121 | 107 | Izrahiah Yzaiah Israel |
 | 1122 | 107 | Savannah Roughton Jones |
 | 1123 | 107 | Chirpy Tetriblast |
-| 1124 | 106 | Jess |
-| 1125 | 106 | Harold M. |
+| 1124 | 106 | Harold M. |
+| 1125 | 106 | Jess |
 | 1126 | 106 | juggernaut |
 | 1127 | 106 | Bamm Grundie |
 | 1128 | 106 | Nick Horn |
@@ -1140,9 +1140,9 @@
 | 1132 | 105 | Shelly Short |
 | 1133 | 105 | Peppy Tilebuilder |
 | 1134 | 105 | Zerkiiboy |
-| 1135 | 105 | Quirky Puzzler |
-| 1136 | 105 | Chirpy Rollbuilder |
-| 1137 | 105 | Krystol Fantabulously Gorgeously Dennis |
+| 1135 | 105 | Chirpy Rollbuilder |
+| 1136 | 105 | Krystol Fantabulously Gorgeously Dennis |
+| 1137 | 105 | Quirky Puzzler |
 | 1138 | 104 | Elizabeth Lansou |
 | 1139 | 104 | Cozy Rollzone |
 | 1140 | 104 | 420friend |
@@ -1166,8 +1166,8 @@
 | 1158 | 101 | Aleasha Haukenfrers |
 | 1159 | 101 | Saulc1991 |
 | 1160 | 101 | Speedy Clearer |
-| 1161 | 101 | MistyBayou |
-| 1162 | 101 | Giggly Slammer |
+| 1161 | 101 | Giggly Slammer |
+| 1162 | 101 | MistyBayou |
 | 1163 | 100 | Aly Eggers |
 | 1164 | 100 | Geetara |
 | 1165 | 100 | Brave Tilebuilder |
@@ -1183,8 +1183,8 @@
 | 1175 | 98 | James May |
 | 1176 | 97 | Hyper Cascade |
 | 1177 | 97 | Jessalyn Jordan Davis |
-| 1178 | 97 | Giggy Bridgepiece |
-| 1179 | 97 | Bubbly Crawler |
+| 1178 | 97 | Bubbly Crawler |
+| 1179 | 97 | Giggy Bridgepiece |
 | 1180 | 96 | Dana |
 | 1181 | 96 | Danielle Love |
 | 1182 | 96 | Christy |
@@ -1200,14 +1200,14 @@
 | 1192 | 95 | Leslie Parker |
 | 1193 | 95 | Kat |
 | 1194 | 95 | Chirpy Slammer |
-| 1195 | 95 | Allison Judith |
-| 1196 | 95 | Alicia Falk |
-| 1197 | 94 | Teddy Marshall |
-| 1198 | 94 | Michele Lauer |
-| 1199 | 94 | Terra McGee |
-| 1200 | 94 | Jennifer West Campos |
-| 1201 | 93 | Dmpster Fire |
-| 1202 | 93 | Chilly Matchpiece |
+| 1195 | 95 | Alicia Falk |
+| 1196 | 95 | Allison Judith |
+| 1197 | 94 | Chilly Matchpiece |
+| 1198 | 94 | Teddy Marshall |
+| 1199 | 94 | Michele Lauer |
+| 1200 | 94 | Terra McGee |
+| 1201 | 94 | Jennifer West Campos |
+| 1202 | 93 | Dmpster Fire |
 | 1203 | 93 | Lowkey24 |
 | 1204 | 93 | Mousey406 |
 | 1205 | 93 | Tamiko Kirby |
@@ -1221,53 +1221,53 @@
 | 1213 | 92 | Kristen Raper |
 | 1214 | 91 | Angela Roper-Melvin |
 | 1215 | 91 | Marcheta Cervantez |
-| 1216 | 91 | Mbeth Moore |
-| 1217 | 91 | Poppy Twistslam |
-| 1218 | 90 | Twisty Risegrid |
-| 1219 | 90 | Kelli Steinmetz |
-| 1220 | 90 | Breezy Grid |
-| 1221 | 90 | Giggy Glide |
-| 1222 | 89 | Pikake Medeiros |
-| 1223 | 89 | Peachy Pop |
-| 1224 | 89 | Mary Haynes |
-| 1225 | 89 | Zippy Snapgrid |
-| 1226 | 89 | Rachel Nicole |
-| 1227 | 89 | Kayley Kara Gaudin |
-| 1228 | 89 | Phyllis Mitchell |
-| 1229 | 88 | Hasty Balancer |
-| 1230 | 88 | KrakaLackin |
-| 1231 | 88 | Crushahhhhhh |
-| 1232 | 88 | Ann Poulson |
-| 1233 | 88 | Lozuna |
-| 1234 | 88 | Metrice |
-| 1235 | 88 | Colleen Brown |
-| 1236 | 88 | Brian O'Neill |
-| 1237 | 88 | Missy Conley Sayne |
-| 1238 | 87 | Chad Moore |
-| 1239 | 87 | Kimberly Goncalves |
-| 1240 | 87 | Laura Smith |
-| 1241 | 87 | Cheery Chiseler |
-| 1242 | 87 | Tangelo |
-| 1243 | 87 | Derek Pendarvis |
-| 1244 | 87 | Jason Goldstein |
-| 1245 | 87 | Thomas R. Phillips |
-| 1246 | 86 | Giddy Dropmatch |
-| 1247 | 86 | Krista Bartlett |
-| 1248 | 86 | Linda Wilbur Scott |
-| 1249 | 86 | Angela |
-| 1250 | 86 | Barbara Rietzke |
-| 1251 | 85 | Tim Knight-ten |
-| 1252 | 85 | Dylan Schultz |
-| 1253 | 85 | Oba Yozo |
-| 1254 | 85 | Johnboom317 |
-| 1255 | 85 | Gerald Tvelia |
-| 1256 | 85 | T |
+| 1216 | 91 | Poppy Twistslam |
+| 1217 | 91 | Mbeth Moore |
+| 1218 | 90 | Courtney Cassidy |
+| 1219 | 90 | Twisty Risegrid |
+| 1220 | 90 | Kelli Steinmetz |
+| 1221 | 90 | Breezy Grid |
+| 1222 | 90 | Giggy Glide |
+| 1223 | 89 | Pikake Medeiros |
+| 1224 | 89 | Peachy Pop |
+| 1225 | 89 | Mary Haynes |
+| 1226 | 89 | Zippy Snapgrid |
+| 1227 | 89 | Rachel Nicole |
+| 1228 | 89 | Kayley Kara Gaudin |
+| 1229 | 89 | Phyllis Mitchell |
+| 1230 | 88 | Hasty Balancer |
+| 1231 | 88 | KrakaLackin |
+| 1232 | 88 | Crushahhhhhh |
+| 1233 | 88 | Ann Poulson |
+| 1234 | 88 | Lozuna |
+| 1235 | 88 | Metrice |
+| 1236 | 88 | Colleen Brown |
+| 1237 | 88 | Brian O'Neill |
+| 1238 | 88 | Missy Conley Sayne |
+| 1239 | 87 | Chad Moore |
+| 1240 | 87 | Kimberly Goncalves |
+| 1241 | 87 | Laura Smith |
+| 1242 | 87 | Cheery Chiseler |
+| 1243 | 87 | Tangelo |
+| 1244 | 87 | Derek Pendarvis |
+| 1245 | 87 | Jason Goldstein |
+| 1246 | 87 | Thomas R. Phillips |
+| 1247 | 86 | Giddy Dropmatch |
+| 1248 | 86 | Krista Bartlett |
+| 1249 | 86 | Linda Wilbur Scott |
+| 1250 | 86 | Angela |
+| 1251 | 86 | Barbara Rietzke |
+| 1252 | 85 | Tim Knight-ten |
+| 1253 | 85 | Dylan Schultz |
+| 1254 | 85 | Oba Yozo |
+| 1255 | 85 | Johnboom317 |
+| 1256 | 85 | Gerald Tvelia |
 | 1257 | 85 | Cozy Tiley |
-| 1258 | 85 | Staci Robinson Jones |
-| 1259 | 84 | Gary Say |
-| 1260 | 84 | Mark Morgan |
-| 1261 | 84 | Marta Savchuk |
-| 1262 | 84 | Courtney Cassidy |
+| 1258 | 85 | T |
+| 1259 | 85 | Staci Robinson Jones |
+| 1260 | 84 | Marta Savchuk |
+| 1261 | 84 | Gary Say |
+| 1262 | 84 | Mark Morgan |
 | 1263 | 84 | Guillermo Perara |
 | 1264 | 84 | Grimus |
 | 1265 | 84 | Amanda Lanctot |
@@ -1351,25 +1351,25 @@
 | 1343 | 73 | Angelina Rous |
 | 1344 | 73 | Adam Gruttner |
 | 1345 | 73 | Serene Martell |
-| 1346 | 73 | Ohmatae |
-| 1347 | 73 | KnCson |
+| 1346 | 73 | KnCson |
+| 1347 | 73 | Ohmatae |
 | 1348 | 73 | Brain Joy |
 | 1349 | 73 | Gerald Anderson |
 | 1350 | 72 | Tara Karen |
 | 1351 | 72 | Giddy Swiper |
-| 1352 | 72 | Kellie Tacuban |
-| 1353 | 72 | Veronica Chan |
-| 1354 | 72 | London Murphy |
-| 1355 | 72 | Perky Towerpiece |
-| 1356 | 72 | Christopher Cand |
-| 1357 | 72 | Melitta Boisvert |
-| 1358 | 72 | Reggie |
-| 1359 | 72 | Daring Spinzone |
-| 1360 | 71 | Peachy Pusher |
+| 1352 | 72 | Tarius Jackson |
+| 1353 | 72 | Kellie Tacuban |
+| 1354 | 72 | Veronica Chan |
+| 1355 | 72 | London Murphy |
+| 1356 | 72 | Perky Towerpiece |
+| 1357 | 72 | Christopher Cand |
+| 1358 | 72 | Melitta Boisvert |
+| 1359 | 72 | Reggie |
+| 1360 | 72 | Daring Spinzone |
 | 1361 | 71 | Mileydy Almora Diaz |
 | 1362 | 71 | Kenya Lewis |
-| 1363 | 71 | Johnny Jenks |
-| 1364 | 71 | Tarius Jackson |
+| 1363 | 71 | Peachy Pusher |
+| 1364 | 71 | Johnny Jenks |
 | 1365 | 71 | Ashley Cooke |
 | 1366 | 71 | Christa Marie |
 | 1367 | 71 | Amy La Violette |
