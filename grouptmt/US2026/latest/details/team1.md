@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 23:56:44 UTC
+# Standings for team1 as of 2026-02-25 23:57:23 UTC
 
 **Total Participants:** 2556
 
@@ -44,9 +44,9 @@
 | 36 | 1952 | Carrie Beck Geartz |
 | 37 | 1922 | Cynthia Bradley |
 | 38 | 1915 | Bhelle Sumile |
-| 39 | 1892 | Marianne Louise West |
-| 40 | 1877 | Nancy Green |
-| 41 | 1877 | Lexuriuos Lifestlye |
+| 39 | 1900 | Lexuriuos Lifestlye |
+| 40 | 1892 | Marianne Louise West |
+| 41 | 1877 | Nancy Green |
 | 42 | 1868 | Tyler Whitley |
 | 43 | 1847 | Rahna Underwood |
 | 44 | 1822 | Christina Graham |
@@ -129,9 +129,9 @@
 | 121 | 953 | Sevens4L |
 | 122 | 951 | Robert Benito |
 | 123 | 946 | Susan Ward |
-| 124 | 929 | Denice Dee |
-| 125 | 925 | Bob |
-| 126 | 922 | Tinah Montanna |
+| 124 | 934 | Tinah Montanna |
+| 125 | 929 | Denice Dee |
+| 126 | 925 | Bob |
 | 127 | 916 | Chirpy Smasher |
 | 128 | 908 | Jazzy Framezone |
 | 129 | 907 | Oscar Zamora |
@@ -285,15 +285,15 @@
 | 277 | 503 | Chantelle Ceno |
 | 278 | 503 | Paula Martin |
 | 279 | 503 | Rayline M Bradshaw |
-| 280 | 500 | Jamise Brown |
+| 280 | 502 | Jamise Brown |
 | 281 | 498 | Kimmie Kimms |
 | 282 | 497 | Sylvia Vasquez |
 | 283 | 493 | Brendan Sullivan |
 | 284 | 491 | David Lutcher |
 | 285 | 490 | build master |
 | 286 | 490 | Shan Rock |
-| 287 | 486 | Brenda Alexander |
-| 288 | 486 | Billie Ann Eason |
+| 287 | 489 | Billie Ann Eason |
+| 288 | 486 | Brenda Alexander |
 | 289 | 485 | MommaKFC |
 | 290 | 485 | Jaimie Lynn |
 | 291 | 484 | DoodleBug |
@@ -668,9 +668,9 @@
 | 660 | 262 | Tipsy Tiltpiece |
 | 661 | 261 | Riley Lee |
 | 662 | 261 | BettyAnn Savo |
-| 663 | 260 | Jaymee Eva Shannon |
-| 664 | 260 | Mathew Harris |
-| 665 | 260 | Lil H |
+| 663 | 261 | Lil H |
+| 664 | 260 | Jaymee Eva Shannon |
+| 665 | 260 | Mathew Harris |
 | 666 | 260 | Starseed |
 | 667 | 260 | Sarah Bersano |
 | 668 | 260 | Lacy Wolfe |
@@ -1013,14 +1013,14 @@
 | 1005 | 166 | Kissit😘 |
 | 1006 | 166 | Frisky Twistslam |
 | 1007 | 166 | Erin Divine |
-| 1008 | 165 | Purple |
-| 1009 | 165 | Daring Tilerpiece |
-| 1010 | 165 | ghxsty |
-| 1011 | 165 | Tazz |
-| 1012 | 165 | Susan Good |
-| 1013 | 164 | Shawn Rodgers |
-| 1014 | 164 | Brahim Amara |
-| 1015 | 164 | Wayne Davison |
+| 1008 | 165 | Wayne Davison |
+| 1009 | 165 | Purple |
+| 1010 | 165 | Daring Tilerpiece |
+| 1011 | 165 | ghxsty |
+| 1012 | 165 | Tazz |
+| 1013 | 165 | Susan Good |
+| 1014 | 164 | Shawn Rodgers |
+| 1015 | 164 | Brahim Amara |
 | 1016 | 164 | Boog |
 | 1017 | 164 | Billie Garrett |
 | 1018 | 164 | Meechie |
