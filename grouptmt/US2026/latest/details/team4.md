@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 11:30:23 UTC
+# Standings for team4 as of 2026-02-25 11:31:22 UTC
 
 **Total Participants:** 2199
 
@@ -191,8 +191,8 @@
 | 183 | 643 | Dizzy Tiley |
 | 184 | 642 | Andy Cabral |
 | 185 | 634 | Kathy Brookins |
-| 186 | 634 | JPW |
-| 187 | 633 | YoMomma |
+| 186 | 634 | YoMomma |
+| 187 | 634 | JPW |
 | 188 | 632 | Melvin Baird |
 | 189 | 632 | Chris Bernstein |
 | 190 | 628 | Circuit8 |
@@ -343,37 +343,37 @@
 | 335 | 419 | Nubian1 |
 | 336 | 417 | Jason Frehner |
 | 337 | 416 | Allison Rose |
-| 338 | 416 | David Boggs |
-| 339 | 416 | Stacey Stano |
+| 338 | 416 | Stacey Stano |
+| 339 | 416 | David Boggs |
 | 340 | 415 | Zołza 😈 |
 | 341 | 415 | Tawna Curry |
 | 342 | 414 | Michelle Morris |
 | 343 | 414 | blockstar |
 | 344 | 413 | Daria Rycewicz |
-| 345 | 411 | Sue Joyce Staats |
+| 345 | 411 | Snippy Puzzle |
 | 346 | 411 | Stella |
-| 347 | 411 | Snippy Puzzle |
+| 347 | 411 | Sue Joyce Staats |
 | 348 | 410 | Frances Hui |
-| 349 | 408 | Kris Bartlett |
+| 349 | 409 | Dustin York |
 | 350 | 408 | BigSammy420 |
-| 351 | 407 | Madison Sweere |
+| 351 | 408 | Kris Bartlett |
 | 352 | 407 | Eri Kka |
-| 353 | 405 | ZeeZee |
-| 354 | 402 | Richard-April Kice |
-| 355 | 401 | AyeKay |
-| 356 | 400 | Heather Bruce |
-| 357 | 400 | @ |
-| 358 | 400 | Juls |
-| 359 | 399 | Shukee Lo |
-| 360 | 397 | James Philpot Ross |
-| 361 | 395 | Dustin York |
+| 353 | 407 | Madison Sweere |
+| 354 | 405 | ZeeZee |
+| 355 | 402 | Richard-April Kice |
+| 356 | 401 | AyeKay |
+| 357 | 400 | Heather Bruce |
+| 358 | 400 | @ |
+| 359 | 400 | Juls |
+| 360 | 399 | Shukee Lo |
+| 361 | 397 | James Philpot Ross |
 | 362 | 394 | Perky Patternblock |
 | 363 | 393 | Amy Sanford |
 | 364 | 393 | Bryan Hodgins |
-| 365 | 392 | Mary Ann Pabukis |
-| 366 | 392 | Angie Schmidt |
-| 367 | 392 | Sarah Hoffman |
-| 368 | 392 | tipsy tiger |
+| 365 | 392 | tipsy tiger |
+| 366 | 392 | Mary Ann Pabukis |
+| 367 | 392 | Angie Schmidt |
+| 368 | 392 | Sarah Hoffman |
 | 369 | 391 | Amanda Maciel Clarke |
 | 370 | 391 | Matt Dell'Olio |
 | 371 | 391 | Jenna McGeorge |
@@ -387,13 +387,13 @@
 | 379 | 383 | Duck |
 | 380 | 381 | Paito |
 | 381 | 381 | Alexandra Karavias |
-| 382 | 381 | Marcus TheeyoungWoe Gilmore |
-| 383 | 381 | Kevin Bush |
+| 382 | 381 | Kevin Bush |
+| 383 | 381 | Marcus TheeyoungWoe Gilmore |
 | 384 | 380 | Amy Jean |
 | 385 | 379 | Jackie Clark |
 | 386 | 379 | Kristi Trafton |
-| 387 | 378 | Groovy Shiftspin |
-| 388 | 378 | Sho Nuff |
+| 387 | 378 | Sho Nuff |
+| 388 | 378 | Groovy Shiftspin |
 | 389 | 378 | Jay You |
 | 390 | 377 | Lauren Lamb |
 | 391 | 375 | Bonnie Hurlbrink |
@@ -406,8 +406,8 @@
 | 398 | 367 | Meg |
 | 399 | 367 | Tony Pavelka |
 | 400 | 366 | SHL |
-| 401 | 365 | Susan Williams |
-| 402 | 365 | Tyler Bechtel |
+| 401 | 365 | Tyler Bechtel |
+| 402 | 365 | Susan Williams |
 | 403 | 365 | Groovy Gridlock |
 | 404 | 361 | ImJustMe |
 | 405 | 361 | Eminem |
