@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 02:48:44 UTC
+# Standings for team4 as of 2026-02-25 02:49:23 UTC
 
 **Total Participants:** 2137
 
@@ -54,7 +54,7 @@
 | 46 | 1616 | Dee Kay |
 | 47 | 1615 | Dawn Alexander |
 | 48 | 1583 | Aden Moss |
-| 49 | 1570 | A5! |
+| 49 | 1580 | A5! |
 | 50 | 1535 | Kimberly Love |
 | 51 | 1523 | Sammy Noguera |
 | 52 | 1512 | Yoset Mejia |
@@ -95,7 +95,7 @@
 | 87 | 1049 | Jeremy Steines |
 | 88 | 1029 | Courtney Cicoria |
 | 89 | 1024 | Valerie Roberts |
-| 90 | 1022 | Patron Anderson |
+| 90 | 1024 | Patron Anderson |
 | 91 | 1017 | loulou |
 | 92 | 999 | Jonathan Kimbrough |
 | 93 | 998 | Edward White |
@@ -306,10 +306,10 @@
 | 298 | 436 | Jessica Petersen |
 | 299 | 434 | Ramel Rhodes |
 | 300 | 434 | Kenna Gunderland |
-| 301 | 433 | Backoff Recupe |
-| 302 | 431 | Morti |
-| 303 | 430 | Holly |
-| 304 | 430 | Lora |
+| 301 | 433 | Lora |
+| 302 | 433 | Backoff Recupe |
+| 303 | 431 | Morti |
+| 304 | 430 | Holly |
 | 305 | 430 | Holly Jolly |
 | 306 | 430 | Hyper Matchclear |
 | 307 | 429 | Nig |
@@ -905,22 +905,22 @@
 | 897 | 151 | poopoo |
 | 898 | 151 | GMoney Rbt |
 | 899 | 151 | Hog Crankin |
-| 900 | 150 | Bruce Harris |
-| 901 | 149 | Adam Randall |
-| 902 | 149 | Bentley Welsh |
-| 903 | 149 | David Emmanuel George |
-| 904 | 149 | Renee Marshall |
-| 905 | 149 | Verna Neal |
-| 906 | 149 | Frothy Curve |
-| 907 | 149 | Sadie Rae Ryan |
-| 908 | 149 | Shy |
-| 909 | 148 | Molly Ananda Rickerson |
+| 900 | 150 | Molly Ananda Rickerson |
+| 901 | 150 | Bruce Harris |
+| 902 | 149 | Adam Randall |
+| 903 | 149 | Bentley Welsh |
+| 904 | 149 | David Emmanuel George |
+| 905 | 149 | Renee Marshall |
+| 906 | 149 | Verna Neal |
+| 907 | 149 | Frothy Curve |
+| 908 | 149 | Sadie Rae Ryan |
+| 909 | 149 | Shy |
 | 910 | 148 | Mary Therese Benden Cole |
 | 911 | 148 | Chilly Filler |
 | 912 | 148 | Sara Saxton Moon |
 | 913 | 148 | Tiffany Tran |
-| 914 | 147 | Tracy Dawn |
-| 915 | 147 | Cranky Pivoty |
+| 914 | 147 | Cranky Pivoty |
+| 915 | 147 | Tracy Dawn |
 | 916 | 146 | Katie Linneman-Rowland |
 | 917 | 146 | Cassandra Stewart |
 | 918 | 146 | Rampai |
@@ -939,15 +939,15 @@
 | 931 | 142 | Frank Cook |
 | 932 | 142 | Gina Sexton Powell |
 | 933 | 142 | Skyler Patzer |
-| 934 | 141 | Shelly Goad |
-| 935 | 141 | Robert Sch |
-| 936 | 141 | Loony Slide |
-| 937 | 141 | Smiley Staggerpiece |
-| 938 | 140 | RobinC |
-| 939 | 140 | Tiffany Root |
-| 940 | 140 | Dot Flanagan |
-| 941 | 140 | SloFut Mataryal BrownBwoy |
-| 942 | 139 | Albert Walker III |
+| 934 | 141 | Albert Walker III |
+| 935 | 141 | Shelly Goad |
+| 936 | 141 | Robert Sch |
+| 937 | 141 | Loony Slide |
+| 938 | 141 | Smiley Staggerpiece |
+| 939 | 140 | RobinC |
+| 940 | 140 | Tiffany Root |
+| 941 | 140 | Dot Flanagan |
+| 942 | 140 | SloFut Mataryal BrownBwoy |
 | 943 | 138 | Clever Tilefall |
 | 944 | 138 | Samantha Gamble |
 | 945 | 138 | JEan Price |
@@ -1461,30 +1461,30 @@
 | 1453 | 58 | Chris Lee |
 | 1454 | 58 | Richard Campbell II |
 | 1455 | 58 | Tre Boss |
-| 1456 | 58 | Jennifer Harrison |
-| 1457 | 58 | Mighty T-spin |
-| 1458 | 58 | Sunny68 |
-| 1459 | 57 | Jinx |
-| 1460 | 57 | Smiley Linkgrid |
-| 1461 | 57 | Courtney Cassidy |
-| 1462 | 57 | Jeff Barney |
-| 1463 | 57 | Kathie Morris-Buck |
+| 1456 | 58 | Stef Verisotosky |
+| 1457 | 58 | Jennifer Harrison |
+| 1458 | 58 | Mighty T-spin |
+| 1459 | 58 | Sunny68 |
+| 1460 | 57 | Jinx |
+| 1461 | 57 | Smiley Linkgrid |
+| 1462 | 57 | Courtney Cassidy |
+| 1463 | 57 | Jeff Barney |
 | 1464 | 57 | Sunny Piececlear |
 | 1465 | 57 | Nola Tubbs |
 | 1466 | 57 | Joey Goodrum |
-| 1467 | 56 | xSABRiNAx |
-| 1468 | 56 | Miranda Ozaeta |
-| 1469 | 56 | Zippy Snapgrid |
-| 1470 | 56 | Jay Cubes25 |
-| 1471 | 56 | Wacky Wendy |
-| 1472 | 56 | Amanda Slusser |
-| 1473 | 55 | Raw Jean |
-| 1474 | 55 | RiahRose |
-| 1475 | 55 | No name |
-| 1476 | 55 | Bymerica |
-| 1477 | 55 | Dorene Brooks |
+| 1467 | 57 | Kathie Morris-Buck |
+| 1468 | 56 | xSABRiNAx |
+| 1469 | 56 | Miranda Ozaeta |
+| 1470 | 56 | Zippy Snapgrid |
+| 1471 | 56 | Jay Cubes25 |
+| 1472 | 56 | Wacky Wendy |
+| 1473 | 56 | Amanda Slusser |
+| 1474 | 55 | Raw Jean |
+| 1475 | 55 | RiahRose |
+| 1476 | 55 | No name |
+| 1477 | 55 | Bymerica |
 | 1478 | 55 | Les |
-| 1479 | 55 | Stef Verisotosky |
+| 1479 | 55 | Dorene Brooks |
 | 1480 | 55 | Christa Marie |
 | 1481 | 55 | Samantha Ponzillo |
 | 1482 | 55 | Poppy Brickmatch |
