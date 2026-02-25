@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 15:14:43 UTC
+# Standings for team1 as of 2026-02-25 15:15:23 UTC
 
 **Total Participants:** 2483
 
@@ -74,10 +74,10 @@
 | 66 | 1390 | Hasbro Bros |
 | 67 | 1332 | Kristen Gideon |
 | 68 | 1328 | Karin Gillen |
-| 69 | 1324 | Lawrence Belanger |
-| 70 | 1320 | Kathy Langham |
-| 71 | 1315 | Cheeky Twistslam |
-| 72 | 1308 | Kristen Roles Robben |
+| 69 | 1328 | Kristen Roles Robben |
+| 70 | 1324 | Lawrence Belanger |
+| 71 | 1320 | Kathy Langham |
+| 72 | 1315 | Cheeky Twistslam |
 | 73 | 1293 | Lori Sanders- Davis |
 | 74 | 1282 | Patrick Luckenbill |
 | 75 | 1282 | Stef Hu |
@@ -541,9 +541,9 @@
 | 533 | 310 | Liliana Pena |
 | 534 | 309 | Isaiah |
 | 535 | 309 | Lisa Reynolds Adair |
-| 536 | 308 | Shannon Guilloty |
-| 537 | 308 | Ramona Shaver |
-| 538 | 308 | Laurie Sanderson |
+| 536 | 308 | Ramona Shaver |
+| 537 | 308 | Laurie Sanderson |
+| 538 | 308 | Shannon Guilloty |
 | 539 | 308 | Mel Fab |
 | 540 | 308 | Melanie Kelley |
 | 541 | 306 | Ellen Newman |
@@ -555,11 +555,11 @@
 | 547 | 301 | MomOf2Angels |
 | 548 | 300 | Andrew Backes |
 | 549 | 300 | Amie Fields |
-| 550 | 297 | Willy Michael |
-| 551 | 297 | Jake Mcnabb |
-| 552 | 296 | Dena Kayy |
+| 550 | 297 | Jake Mcnabb |
+| 551 | 297 | Willy Michael |
+| 552 | 296 | grizzly |
 | 553 | 296 | Mel Hogan |
-| 554 | 296 | grizzly |
+| 554 | 296 | Dena Kayy |
 | 555 | 295 | Clever Cascadepiece |
 | 556 | 294 | Burnnetter Sisk |
 | 557 | 293 | Funky Piecebuilder |
@@ -572,48 +572,48 @@
 | 564 | 283 | Robin Burress |
 | 565 | 283 | Franswa |
 | 566 | 283 | Matthew Foley |
-| 567 | 282 | Pauline Cortez |
+| 567 | 282 | David |
 | 568 | 282 | Marc Abney |
-| 569 | 282 | David |
+| 569 | 282 | Gilbert Ortiz Jr. |
 | 570 | 282 | Timothy Dew |
-| 571 | 282 | Gilbert Ortiz Jr. |
-| 572 | 281 | Ashley Adams |
+| 571 | 282 | Pauline Cortez |
+| 572 | 281 | Olivia Witmer |
 | 573 | 281 | Tiffany Trinh |
-| 574 | 281 | Olivia Witmer |
+| 574 | 281 | Ashley Adams |
 | 575 | 280 | Mary Sheets |
-| 576 | 279 | Chris Dawson |
-| 577 | 279 | Corrie Grant Smithson |
+| 576 | 279 | Sabrina Coleman |
+| 577 | 279 | Chris Dawson |
 | 578 | 279 | Jordan Brooks |
-| 579 | 279 | Sabrina Coleman |
-| 580 | 278 | Rivkah |
-| 581 | 278 | Austin Jones |
-| 582 | 278 | Nevaeh Mattox |
-| 583 | 278 | Thorne Shumate |
+| 579 | 279 | Corrie Grant Smithson |
+| 580 | 278 | Thorne Shumate |
+| 581 | 278 | Nevaeh Mattox |
+| 582 | 278 | Austin Jones |
+| 583 | 278 | Rivkah |
 | 584 | 277 | Jen Justus |
-| 585 | 276 | Cozy Shatterer |
+| 585 | 276 | Melissa Ann Macko |
 | 586 | 276 | Larry Jackson |
-| 587 | 275 | Marie White |
+| 587 | 276 | Cozy Shatterer |
 | 588 | 275 | Marqs Mel |
-| 589 | 274 | Mary Crisp |
-| 590 | 273 | Brad MG |
-| 591 | 273 | Peppy Columnbuilder |
-| 592 | 272 | Jeffrey Scott Younkins |
+| 589 | 275 | Marie White |
+| 590 | 274 | Mary Crisp |
+| 591 | 273 | Brad MG |
+| 592 | 273 | Peppy Columnbuilder |
 | 593 | 272 | Angela Ellyson |
 | 594 | 272 | Andrew Boone |
-| 595 | 271 | Jennifer Corrado |
-| 596 | 270 | Giggly Rollfit |
-| 597 | 270 | Nerdy Curvebuilder |
-| 598 | 270 | Sam Rosado |
-| 599 | 270 | Malaka |
-| 600 | 270 | Teresa |
-| 601 | 269 | Joyce Harrell-chavis |
-| 602 | 268 | Brian K Young II |
-| 603 | 268 | Terika Rodriguez |
-| 604 | 268 | Kayla |
-| 605 | 267 | Gina Fontana Meier |
-| 606 | 267 | Chyna Mae |
-| 607 | 267 | Melissa Ann Macko |
-| 608 | 267 | Michelle Deans |
+| 595 | 272 | Jeffrey Scott Younkins |
+| 596 | 271 | Jennifer Corrado |
+| 597 | 270 | Teresa |
+| 598 | 270 | Giggly Rollfit |
+| 599 | 270 | Nerdy Curvebuilder |
+| 600 | 270 | Sam Rosado |
+| 601 | 270 | Malaka |
+| 602 | 269 | Joyce Harrell-chavis |
+| 603 | 268 | Brian K Young II |
+| 604 | 268 | Terika Rodriguez |
+| 605 | 268 | Kayla |
+| 606 | 267 | Michelle Deans |
+| 607 | 267 | Chyna Mae |
+| 608 | 267 | Gina Fontana Meier |
 | 609 | 265 | Khatia Sikharulidze |
 | 610 | 265 | Josh Smith |
 | 611 | 264 | Angel Marie |
@@ -1249,21 +1249,21 @@
 | 1241 | 108 | Mia Sams |
 | 1242 | 108 | Nico |
 | 1243 | 108 | Terry Leon Osborne Jr. |
-| 1244 | 108 | Merissa Paulsen |
-| 1245 | 108 | Harmony Damoore |
-| 1246 | 108 | Jeremy Beckler |
-| 1247 | 107 | lambo88 |
-| 1248 | 107 | Shelly Palmer |
-| 1249 | 107 | William Maix |
+| 1244 | 108 | Vicky Clemont |
+| 1245 | 108 | Merissa Paulsen |
+| 1246 | 108 | Harmony Damoore |
+| 1247 | 108 | Jeremy Beckler |
+| 1248 | 107 | lambo88 |
+| 1249 | 107 | Shelly Palmer |
 | 1250 | 107 | sent2bless34 |
 | 1251 | 107 | Salih Atasoy |
 | 1252 | 107 | Dede |
-| 1253 | 107 | Vicky Clemont |
+| 1253 | 107 | William Maix |
 | 1254 | 106 | Kelly Holland |
 | 1255 | 106 | Hoppy Snaplink |
 | 1256 | 106 | Becky Lynn Cramer-Ingram |
-| 1257 | 106 | Chelsea Simpson |
-| 1258 | 106 | Jeffrey Hughes |
+| 1257 | 106 | Jeffrey Hughes |
+| 1258 | 106 | Chelsea Simpson |
 | 1259 | 105 | Ike Williams |
 | 1260 | 105 | Jmo |
 | 1261 | 105 | Jolly Climber |
@@ -1392,10 +1392,10 @@
 | 1384 | 87 | Larry Brazil |
 | 1385 | 87 | Sanita Latham |
 | 1386 | 87 | Heaven White |
-| 1387 | 86 | Hoppy Snapgrid |
-| 1388 | 86 | Silly Patternblock |
-| 1389 | 86 | Barbara Benjamin |
-| 1390 | 86 | Nicole Plummer |
+| 1387 | 87 | Nicole Plummer |
+| 1388 | 86 | Hoppy Snapgrid |
+| 1389 | 86 | Silly Patternblock |
+| 1390 | 86 | Barbara Benjamin |
 | 1391 | 86 | Leann Nolley |
 | 1392 | 86 | Stephanie Mounts |
 | 1393 | 86 | Charles Holland |
