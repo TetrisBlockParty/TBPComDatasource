@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 09:54:44 UTC
+# Standings for team4 as of 2026-02-25 09:55:23 UTC
 
 **Total Participants:** 2193
 
@@ -170,9 +170,9 @@
 | 162 | 702 | Nita Wells |
 | 163 | 699 | Rodney McMath Jr. |
 | 164 | 698 | Chastity Mitchell |
-| 165 | 696 | Desi Desporte |
-| 166 | 694 | Dana Scott |
-| 167 | 693 | Adam Stephanie Parker |
+| 165 | 698 | Adam Stephanie Parker |
+| 166 | 696 | Desi Desporte |
+| 167 | 694 | Dana Scott |
 | 168 | 686 | Ernest Maxwell |
 | 169 | 678 | April Rondinone |
 | 170 | 676 | Cindy Looper |
@@ -635,67 +635,67 @@
 | 627 | 241 | Katherine Crane |
 | 628 | 241 | Janis Brown |
 | 629 | 240 | Faja |
-| 630 | 240 | Brad Campbell |
-| 631 | 240 | Zach Kerbs |
-| 632 | 240 | Katie McCabe |
-| 633 | 240 | Bigeddie |
+| 630 | 240 | Bigeddie |
+| 631 | 240 | Katie McCabe |
+| 632 | 240 | Zach Kerbs |
+| 633 | 240 | Brad Campbell |
 | 634 | 239 | Rebecca A Rit |
 | 635 | 238 | Will Chamberlain |
 | 636 | 238 | Cheaneen Livingston |
 | 637 | 238 | sgt baby |
 | 638 | 238 | Jennifer Dineen |
 | 639 | 238 | Kelly Williams |
-| 640 | 237 | Vamp |
-| 641 | 237 | Courtney Halleck |
-| 642 | 236 | Wacky Blockclear |
-| 643 | 236 | JoJo |
-| 644 | 236 | Carlos Hernandez |
-| 645 | 236 | Nicole Serio |
+| 640 | 238 | Hyper Shatterbuilder |
+| 641 | 237 | Vamp |
+| 642 | 237 | Courtney Halleck |
+| 643 | 236 | Wacky Blockclear |
+| 644 | 236 | JoJo |
+| 645 | 236 | Carlos Hernandez |
 | 646 | 236 | Shane Vick |
-| 647 | 235 | Lynn Marie |
-| 648 | 235 | LaDonna LovinmesomeMe Lambert |
-| 649 | 235 | Richard |
-| 650 | 234 | B Renee Desjardin |
-| 651 | 234 | Terrance Fung |
-| 652 | 233 | Katie Alexander |
-| 653 | 233 | Satinleader |
-| 654 | 232 | Kujuanna Hammon |
-| 655 | 232 | Paul-Eunice Mathewson |
-| 656 | 232 | Hyper Shatterbuilder |
-| 657 | 232 | Flashy Jumper |
-| 658 | 231 | Josh Chapell |
-| 659 | 231 | SammieJo Guy |
+| 647 | 236 | Nicole Serio |
+| 648 | 235 | Richard |
+| 649 | 235 | Lynn Marie |
+| 650 | 235 | LaDonna LovinmesomeMe Lambert |
+| 651 | 234 | B Renee Desjardin |
+| 652 | 234 | Terrance Fung |
+| 653 | 233 | Katie Alexander |
+| 654 | 233 | Satinleader |
+| 655 | 232 | Flashy Jumper |
+| 656 | 232 | Paul-Eunice Mathewson |
+| 657 | 232 | Kujuanna Hammon |
+| 658 | 231 | SammieJo Guy |
+| 659 | 231 | Josh Chapell |
 | 660 | 231 | Sunny Filler |
 | 661 | 229 | Dante Korleon |
-| 662 | 229 | Steve |
-| 663 | 229 | Tisha Cammack |
-| 664 | 229 | Matthew Pate |
-| 665 | 229 | Demont Darius |
+| 662 | 229 | Matthew Pate |
+| 663 | 229 | Steve |
+| 664 | 229 | Demont Darius |
+| 665 | 229 | Tisha Cammack |
 | 666 | 228 | Steven Roe |
 | 667 | 228 | Funky Risepiece |
 | 668 | 228 | Cozy Framezone |
-| 669 | 227 | Walid Elsabee |
-| 670 | 227 | Karen Lambert |
-| 671 | 227 | Asher |
+| 669 | 227 | Asher |
+| 670 | 227 | Walid Elsabee |
+| 671 | 227 | Karen Lambert |
 | 672 | 226 | Larry Agan |
 | 673 | 226 | Cozy Balancer |
-| 674 | 226 | Lazy Column |
-| 675 | 226 | Myra LaTrice |
+| 674 | 226 | Myra LaTrice |
+| 675 | 226 | Lazy Column |
 | 676 | 225 | Jobadia Steelerton |
 | 677 | 224 | Tabi Williams |
-| 678 | 224 | Christina Hyde |
-| 679 | 224 | Miranda Wigginton |
-| 680 | 224 | Jacob Campbell |
+| 678 | 224 | Miranda Wigginton |
+| 679 | 224 | Jacob Campbell |
+| 680 | 224 | Christina Hyde |
 | 681 | 223 | KyngKliff |
 | 682 | 223 | April |
 | 683 | 223 | Ben Nome |
-| 684 | 222 | Brandy Gray |
-| 685 | 222 | Alfredo Aguilar |
+| 684 | 222 | Alfredo Aguilar |
+| 685 | 222 | Brandy Gray |
 | 686 | 221 | Mcg |
-| 687 | 221 | Cheery Lift |
-| 688 | 221 | Jacob Richard |
-| 689 | 221 | Pampam |
-| 690 | 221 | Rheanda Weaskus |
+| 687 | 221 | Jacob Richard |
+| 688 | 221 | Pampam |
+| 689 | 221 | Rheanda Weaskus |
+| 690 | 221 | Cheery Lift |
 | 691 | 221 | Elie Pean |
 | 692 | 220 | Joshua Cuellar |
 | 693 | 219 | Undeniable Williams |
@@ -1047,31 +1047,31 @@
 | 1039 | 123 | Ashley Lynn Shannon |
 | 1040 | 123 | Cozy Balanceblock |
 | 1041 | 123 | canglem |
-| 1042 | 122 | Michelle Abrams |
-| 1043 | 122 | 805 |
-| 1044 | 121 | Frothy Patterner |
-| 1045 | 121 | Dyrtie1 |
-| 1046 | 121 | Mitchell Everhart |
-| 1047 | 121 | Daring Strike |
-| 1048 | 121 | Chirpy Balancer |
-| 1049 | 120 | Kris Johnson |
-| 1050 | 120 | Serena Butter |
-| 1051 | 120 | Tammy Johndro |
-| 1052 | 120 | mistresscoundrl1 |
-| 1053 | 120 | Shelly Short |
-| 1054 | 120 | Zappy Snaplink |
-| 1055 | 120 | I'm sorry |
-| 1056 | 120 | Bryon Grenfell |
-| 1057 | 120 | Zippy Stack |
-| 1058 | 120 | Joyce Fees |
-| 1059 | 120 | Zany Tilebuilder |
-| 1060 | 119 | Calen Torez |
-| 1061 | 119 | Becky Irby |
-| 1062 | 119 | Andrea Murdoch |
-| 1063 | 119 | Paco Gonzalez |
-| 1064 | 119 | Clever Breaker |
-| 1065 | 119 | Samantha Kimes |
-| 1066 | 119 | Michelle Parker |
+| 1042 | 122 | Chirpy Balancer |
+| 1043 | 122 | Michelle Abrams |
+| 1044 | 122 | 805 |
+| 1045 | 121 | Frothy Patterner |
+| 1046 | 121 | Dyrtie1 |
+| 1047 | 121 | Mitchell Everhart |
+| 1048 | 121 | Daring Strike |
+| 1049 | 120 | Serena Butter |
+| 1050 | 120 | Tammy Johndro |
+| 1051 | 120 | mistresscoundrl1 |
+| 1052 | 120 | Shelly Short |
+| 1053 | 120 | Zappy Snaplink |
+| 1054 | 120 | I'm sorry |
+| 1055 | 120 | Bryon Grenfell |
+| 1056 | 120 | Zippy Stack |
+| 1057 | 120 | Joyce Fees |
+| 1058 | 120 | Zany Tilebuilder |
+| 1059 | 120 | Kris Johnson |
+| 1060 | 119 | Samantha Kimes |
+| 1061 | 119 | Michelle Parker |
+| 1062 | 119 | Calen Torez |
+| 1063 | 119 | Becky Irby |
+| 1064 | 119 | Andrea Murdoch |
+| 1065 | 119 | Paco Gonzalez |
+| 1066 | 119 | Clever Breaker |
 | 1067 | 118 | MoP11 |
 | 1068 | 118 | Frisky Column |
 | 1069 | 117 | Speedy Wipeblock |
