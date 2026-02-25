@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-25 08:36:44 UTC
+# Standings for team3 as of 2026-02-25 08:37:22 UTC
 
 **Total Participants:** 3666
 
@@ -364,7 +364,7 @@
 | 356 | 562 | Daring Builder |
 | 357 | 561 | NeeCee |
 | 358 | 560 | Stephanie Simpson |
-| 359 | 559 | Angel Miller |
+| 359 | 560 | Angel Miller |
 | 360 | 558 | Misha Sanders |
 | 361 | 555 | Dee Franklin |
 | 362 | 553 | MsBee |
@@ -743,16 +743,16 @@
 | 735 | 321 | Scouty |
 | 736 | 320 | David Bardo |
 | 737 | 320 | Jessica Lynn French |
-| 738 | 320 | Sarah Tschee |
-| 739 | 320 | Earlanda Holland |
-| 740 | 320 | Dawn Nicole |
-| 741 | 320 | Richard |
-| 742 | 320 | Victoria Lexis Dyer |
-| 743 | 318 | Hasty Shatterclear |
-| 744 | 318 | Erin Ervin |
-| 745 | 318 | Sharon Coughenour Bolling Selvey |
-| 746 | 317 | Six |
-| 747 | 317 | Danette Marie |
+| 738 | 320 | Danette Marie |
+| 739 | 320 | Sarah Tschee |
+| 740 | 320 | Earlanda Holland |
+| 741 | 320 | Dawn Nicole |
+| 742 | 320 | Richard |
+| 743 | 320 | Victoria Lexis Dyer |
+| 744 | 318 | Hasty Shatterclear |
+| 745 | 318 | Erin Ervin |
+| 746 | 318 | Sharon Coughenour Bolling Selvey |
+| 747 | 317 | Six |
 | 748 | 317 | Serena Jarrell |
 | 749 | 316 | Melissa Snyder |
 | 750 | 315 | John Barb Padron |
@@ -769,8 +769,8 @@
 | 761 | 309 | Jonathn Poindexter |
 | 762 | 309 | Mary Cantu |
 | 763 | 308 | Chad |
-| 764 | 308 | ellie |
-| 765 | 308 | Jillian Ann |
+| 764 | 308 | Jillian Ann |
+| 765 | 308 | ellie |
 | 766 | 308 | Wancharlene Hercules |
 | 767 | 307 | Smiley Zone |
 | 768 | 307 | BabyTonj Evans |
@@ -790,8 +790,8 @@
 | 782 | 304 | Josh Borquez |
 | 783 | 303 | Tosha Griffey |
 | 784 | 303 | Nutty Snapbuild |
-| 785 | 303 | Sara Beth Nelson |
-| 786 | 303 | Roger Taylor |
+| 785 | 303 | Roger Taylor |
+| 786 | 303 | Sara Beth Nelson |
 | 787 | 302 | Jessica |
 | 788 | 301 | Nicole Eastman |
 | 789 | 301 | Anna McGee |
@@ -2050,36 +2050,36 @@
 | 2042 | 91 | Tigress |
 | 2043 | 91 | Jaclyn Nikolaus |
 | 2044 | 91 | Emily Jane |
-| 2045 | 91 | Kimber Smith |
-| 2046 | 91 | gillotine03 |
-| 2047 | 91 | Connie Greene |
-| 2048 | 91 | Corrine Campbell |
-| 2049 | 91 | Zany Blockfall |
-| 2050 | 91 | rainbowcakes |
-| 2051 | 91 | Cutie patootie |
-| 2052 | 91 | AnaMay |
-| 2053 | 91 | Keisha Brooks |
-| 2054 | 91 | Cheeky Fitline |
-| 2055 | 91 | Thordogg |
-| 2056 | 91 | Cranky Jumper |
-| 2057 | 91 | TocandoTetas |
-| 2058 | 90 | Tash McKen |
-| 2059 | 90 | Tiffany Kaupang |
-| 2060 | 90 | Tyrhonda Thompson |
-| 2061 | 90 | Wendy Zerucha Sargent |
-| 2062 | 90 | bingooo |
-| 2063 | 90 | Helen |
-| 2064 | 90 | Samantha Smead |
-| 2065 | 90 | Kandi Kayla |
-| 2066 | 90 | CATFISH |
-| 2067 | 90 | Crafty Snapfall |
-| 2068 | 90 | Happy Builderline |
-| 2069 | 90 | Nikki Nichole Nikole |
-| 2070 | 90 | KA IO |
-| 2071 | 90 | Erica Smith |
-| 2072 | 89 | Jammin Jolene |
+| 2045 | 91 | Derek Ten Bears |
+| 2046 | 91 | Kimber Smith |
+| 2047 | 91 | gillotine03 |
+| 2048 | 91 | Connie Greene |
+| 2049 | 91 | Corrine Campbell |
+| 2050 | 91 | Zany Blockfall |
+| 2051 | 91 | rainbowcakes |
+| 2052 | 91 | Cutie patootie |
+| 2053 | 91 | AnaMay |
+| 2054 | 91 | Keisha Brooks |
+| 2055 | 91 | Cheeky Fitline |
+| 2056 | 91 | Thordogg |
+| 2057 | 91 | Cranky Jumper |
+| 2058 | 91 | TocandoTetas |
+| 2059 | 90 | Tash McKen |
+| 2060 | 90 | Tiffany Kaupang |
+| 2061 | 90 | Tyrhonda Thompson |
+| 2062 | 90 | Wendy Zerucha Sargent |
+| 2063 | 90 | Kandi Kayla |
+| 2064 | 90 | Helen |
+| 2065 | 90 | CATFISH |
+| 2066 | 90 | Samantha Smead |
+| 2067 | 90 | bingooo |
+| 2068 | 90 | Crafty Snapfall |
+| 2069 | 90 | Happy Builderline |
+| 2070 | 90 | Nikki Nichole Nikole |
+| 2071 | 90 | KA IO |
+| 2072 | 90 | Erica Smith |
 | 2073 | 89 | Zachery Taylor Kivett |
-| 2074 | 89 | Derek Ten Bears |
+| 2074 | 89 | Jammin Jolene |
 | 2075 | 89 | Fcc Duff |
 | 2076 | 89 | virus |
 | 2077 | 89 | Alexandria Kilby Paterson |
@@ -2091,8 +2091,8 @@
 | 2083 | 88 | Bethany Rose Kelley |
 | 2084 | 88 | Zappy Glidebuilder |
 | 2085 | 88 | Rachel English |
-| 2086 | 88 | Damaris Perez |
-| 2087 | 88 | Elaina Epperson |
+| 2086 | 88 | Elaina Epperson |
+| 2087 | 88 | Damaris Perez |
 | 2088 | 88 | Veronica Gooding |
 | 2089 | 88 | HeatherMay220 |
 | 2090 | 88 | Giggy Twistpiece |
