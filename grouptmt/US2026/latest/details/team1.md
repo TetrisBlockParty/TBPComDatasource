@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 11:10:44 UTC
+# Standings for team1 as of 2026-02-25 11:11:22 UTC
 
 **Total Participants:** 2456
 
@@ -495,20 +495,20 @@
 | 487 | 318 | Lucile Lynn |
 | 488 | 318 | Danielle Mae |
 | 489 | 318 | Glitzy Buildsnap |
-| 490 | 317 | Damian Salem |
-| 491 | 317 | Rikki Jo Creech |
-| 492 | 317 | Blake Mckay |
-| 493 | 316 | Chilly Riserpiece |
-| 494 | 316 | Tiffany Daboss Seymour |
-| 495 | 315 | Randy Broadwater |
+| 490 | 318 | Buggs |
+| 491 | 317 | Damian Salem |
+| 492 | 317 | Rikki Jo Creech |
+| 493 | 317 | Blake Mckay |
+| 494 | 316 | Chilly Riserpiece |
+| 495 | 316 | Tiffany Daboss Seymour |
 | 496 | 315 | Tedashi |
-| 497 | 314 | Emmarieta Mendez |
-| 498 | 314 | Chad Atchley |
-| 499 | 313 | Jade |
-| 500 | 313 | Manley Smith |
+| 497 | 315 | Randy Broadwater |
+| 498 | 314 | Emmarieta Mendez |
+| 499 | 314 | Chad Atchley |
+| 500 | 313 | Jade |
 | 501 | 313 | Michelle |
-| 502 | 312 | Carlos Floyd |
-| 503 | 312 | Buggs |
+| 502 | 313 | Manley Smith |
+| 503 | 312 | Carlos Floyd |
 | 504 | 312 | Nicole Meredith Flynn |
 | 505 | 311 | Brave Slice |
 | 506 | 311 | Shiny Snapline |
