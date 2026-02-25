@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-25 05:16:44 UTC
+# Standings for team3 as of 2026-02-25 05:17:22 UTC
 
 **Total Participants:** 3634
 
@@ -47,8 +47,8 @@
 | 39 | 2674 | Josiah Fam |
 | 40 | 2663 | Brandon Green |
 | 41 | 2645 | Gracie |
-| 42 | 2642 | Fran Lin |
-| 43 | 2613 | Jennifer Petrie |
+| 42 | 2643 | Jennifer Petrie |
+| 43 | 2642 | Fran Lin |
 | 44 | 2600 | Peggi Charon |
 | 45 | 2524 | Bjorn Neyt |
 | 46 | 2490 | Jamie Furr |
@@ -239,15 +239,15 @@
 | 231 | 801 | Hasty Cascadefit |
 | 232 | 800 | Lauren Girouard |
 | 233 | 799 | Sarah Cowan Burgos |
-| 234 | 798 | Heather Davis |
-| 235 | 795 | Annie Marie |
-| 236 | 789 | Angela Scott |
-| 237 | 788 | Jim Mathews |
-| 238 | 788 | LaShey Thompson |
-| 239 | 786 | Betty Bóò |
-| 240 | 785 | Dee Pratt |
-| 241 | 772 | Fancy Cascader |
-| 242 | 772 | Rynne Ellis |
+| 234 | 798 | Dee Pratt |
+| 235 | 798 | Heather Davis |
+| 236 | 795 | Annie Marie |
+| 237 | 789 | Angela Scott |
+| 238 | 788 | Jim Mathews |
+| 239 | 788 | LaShey Thompson |
+| 240 | 786 | Betty Bóò |
+| 241 | 777 | Rynne Ellis |
+| 242 | 772 | Fancy Cascader |
 | 243 | 765 | Shawn Miller |
 | 244 | 762 | Snippy Wipeout |
 | 245 | 762 | Desiree Gold |
@@ -738,14 +738,14 @@
 | 730 | 315 | John Barb Padron |
 | 731 | 313 | Karen Picaboo |
 | 732 | 313 | Chyrl Gerke |
-| 733 | 313 | Stephanie Hill |
-| 734 | 312 | Doddie Marie |
-| 735 | 312 | Crystal Johnson |
-| 736 | 312 | Samantha Lohmeyer |
-| 737 | 311 | Valerie Tarkington |
-| 738 | 311 | Gina Marie |
-| 739 | 310 | Nicholas Roddy |
-| 740 | 310 | Dirtgirl27 |
+| 733 | 313 | Dirtgirl27 |
+| 734 | 313 | Stephanie Hill |
+| 735 | 312 | Doddie Marie |
+| 736 | 312 | Crystal Johnson |
+| 737 | 312 | Samantha Lohmeyer |
+| 738 | 311 | Valerie Tarkington |
+| 739 | 311 | Gina Marie |
+| 740 | 310 | Nicholas Roddy |
 | 741 | 309 | James Lykes |
 | 742 | 308 | Jillian Ann |
 | 743 | 308 | ellie |
@@ -1377,8 +1377,8 @@
 | 1369 | 174 | Lilly Rather |
 | 1370 | 174 | Karen Butler-Moore |
 | 1371 | 174 | Victoria Winter Butler |
-| 1372 | 174 | FATTY |
-| 1373 | 174 | Preston |
+| 1372 | 174 | Preston |
+| 1373 | 174 | FATTY |
 | 1374 | 174 | Xoxotaay |
 | 1375 | 173 | Clever Wobbler |
 | 1376 | 173 | Countess Mo |
@@ -1404,37 +1404,37 @@
 | 1396 | 169 | Twister mcnugget |
 | 1397 | 169 | Frothy Clearpiece |
 | 1398 | 169 | Victoria Neiderman |
-| 1399 | 169 | GoddessCandy |
-| 1400 | 168 | Emily Dahl |
-| 1401 | 168 | Amanda Mooney |
-| 1402 | 168 | Isaac Meighan |
-| 1403 | 168 | Slappy |
-| 1404 | 168 | Beeshbo |
-| 1405 | 168 | Cozy Matchfit |
-| 1406 | 168 | Untamed |
-| 1407 | 168 | Carmelqeen |
-| 1408 | 168 | Jeffery Shirley |
-| 1409 | 168 | Kelli Pazour |
-| 1410 | 168 | Giggly Cascadefit |
-| 1411 | 168 | Loopy Glide |
-| 1412 | 167 | Rerrie |
-| 1413 | 167 | Melissa Landsperger |
-| 1414 | 167 | Ja'Maine Future-Leader Jackson |
-| 1415 | 167 | Snappy Tiltbuilder |
-| 1416 | 167 | Savannah Moore |
-| 1417 | 167 | Dizzy Towerfit |
-| 1418 | 167 | JC99 |
-| 1419 | 167 | Lush Balance |
-| 1420 | 167 | Farrah Curran |
-| 1421 | 166 | Janelle Goetz |
-| 1422 | 166 | Crystal Martin |
+| 1399 | 169 | Duane Miller |
+| 1400 | 169 | GoddessCandy |
+| 1401 | 168 | Emily Dahl |
+| 1402 | 168 | Beeshbo |
+| 1403 | 168 | Isaac Meighan |
+| 1404 | 168 | Amanda Mooney |
+| 1405 | 168 | Slappy |
+| 1406 | 168 | Cozy Matchfit |
+| 1407 | 168 | Untamed |
+| 1408 | 168 | Carmelqeen |
+| 1409 | 168 | Jeffery Shirley |
+| 1410 | 168 | Kelli Pazour |
+| 1411 | 168 | Giggly Cascadefit |
+| 1412 | 168 | Loopy Glide |
+| 1413 | 167 | Rerrie |
+| 1414 | 167 | Melissa Landsperger |
+| 1415 | 167 | Ja'Maine Future-Leader Jackson |
+| 1416 | 167 | Snappy Tiltbuilder |
+| 1417 | 167 | Savannah Moore |
+| 1418 | 167 | Dizzy Towerfit |
+| 1419 | 167 | JC99 |
+| 1420 | 167 | Lush Balance |
+| 1421 | 167 | Farrah Curran |
+| 1422 | 166 | Janelle Goetz |
 | 1423 | 166 | Chilly Shifter |
 | 1424 | 166 | Loony Dashgrid |
-| 1425 | 166 | Draw |
-| 1426 | 165 | Tammy Hubbard |
-| 1427 | 165 | Jazzy Rollblock |
+| 1425 | 166 | Crystal Martin |
+| 1426 | 166 | Draw |
+| 1427 | 165 | Tammy Hubbard |
 | 1428 | 165 | Kayley Hoxworth |
-| 1429 | 165 | Duane Miller |
+| 1429 | 165 | Jazzy Rollblock |
 | 1430 | 165 | mookie |
 | 1431 | 165 | donniesdoom |
 | 1432 | 165 | Sarah Collins |
@@ -1444,13 +1444,13 @@
 | 1436 | 164 | Speedy Rollblock |
 | 1437 | 164 | Ray Venzon Misa |
 | 1438 | 164 | Angie Kirkendall |
-| 1439 | 164 | Mathhew Tompkins |
+| 1439 | 164 | Peachy Patternblock |
 | 1440 | 164 | toast |
-| 1441 | 164 | Peachy Patternblock |
+| 1441 | 164 | Mathhew Tompkins |
 | 1442 | 163 | GiGGles |
-| 1443 | 163 | Debbie Schmitt-Jennings |
-| 1444 | 163 | Jloboxaroni |
-| 1445 | 163 | Shiny Tiltgrid |
+| 1443 | 163 | Shiny Tiltgrid |
+| 1444 | 163 | Debbie Schmitt-Jennings |
+| 1445 | 163 | Jloboxaroni |
 | 1446 | 163 | Apants16 |
 | 1447 | 163 | Perky Clusterbuilder |
 | 1448 | 163 | Lindsay Kilby |
@@ -1458,8 +1458,8 @@
 | 1450 | 162 | Lush Shatterclear |
 | 1451 | 162 | Jes Lynn |
 | 1452 | 162 | Sarah Elizabeth |
-| 1453 | 162 | Loopy Clearpiece |
-| 1454 | 162 | Sherry DeLong |
+| 1453 | 162 | Sherry DeLong |
+| 1454 | 162 | Loopy Clearpiece |
 | 1455 | 162 | Jean Koontz |
 | 1456 | 162 | gravelgrinder |
 | 1457 | 161 | Shea Ladynick Henderson |
@@ -1475,8 +1475,8 @@
 | 1467 | 160 | Sean Lochner |
 | 1468 | 160 | Mt Shirley |
 | 1469 | 159 | Hasty Wipebuilder |
-| 1470 | 159 | LaShawyn Wood |
-| 1471 | 159 | Alexsandran Valdivia |
+| 1470 | 159 | Alexsandran Valdivia |
+| 1471 | 159 | LaShawyn Wood |
 | 1472 | 159 | Proshone Clark |
 | 1473 | 159 | Dandy Dropmatch |
 | 1474 | 159 | Slinky Stackbuilder |
@@ -1485,9 +1485,9 @@
 | 1477 | 158 | Cat Isabelle |
 | 1478 | 158 | Bobbie Bayliss |
 | 1479 | 158 | Kat Heinzel |
-| 1480 | 158 | Snazzy Curve |
+| 1480 | 158 | Cheryl Kirk |
 | 1481 | 158 | Suzanne |
-| 1482 | 158 | Cheryl Kirk |
+| 1482 | 158 | Snazzy Curve |
 | 1483 | 157 | Katie Esquivel |
 | 1484 | 157 | Marylyn Dolan |
 | 1485 | 157 | biggstan |
@@ -1497,16 +1497,16 @@
 | 1489 | 156 | MsSassy Williams |
 | 1490 | 156 | Chill Linkmatch |
 | 1491 | 156 | Sassy Patternbuilder |
-| 1492 | 156 | Jackie Ewert |
-| 1493 | 156 | Courtney Conboy |
-| 1494 | 156 | Big No |
-| 1495 | 156 | Alonzo Kirkland |
-| 1496 | 156 | Angelica Strelak |
-| 1497 | 156 | Jeffery Brown |
-| 1498 | 155 | Jennifer Carpenter |
+| 1492 | 156 | Alonzo Kirkland |
+| 1493 | 156 | Jeffery Brown |
+| 1494 | 156 | Angelica Strelak |
+| 1495 | 156 | Big No |
+| 1496 | 156 | Jackie Ewert |
+| 1497 | 156 | Courtney Conboy |
+| 1498 | 155 | TEDDY |
 | 1499 | 155 | Kari Thompson Rock |
-| 1500 | 155 | Ky |
-| 1501 | 155 | TEDDY |
+| 1500 | 155 | Jennifer Carpenter |
+| 1501 | 155 | Ky |
 | 1502 | 154 | Plucky Dasher |
 | 1503 | 154 | Kristen Reeves |
 | 1504 | 154 | Denisha Thompson |
@@ -1517,10 +1517,10 @@
 | 1509 | 153 | Jon Thomas |
 | 1510 | 153 | Trina M Lindsey |
 | 1511 | 153 | Taji Miller |
-| 1512 | 153 | Tipsy Dashgrid |
-| 1513 | 153 | Epic Fitzone |
-| 1514 | 153 | BigDuece |
-| 1515 | 153 | Regina Skelton Boyd |
+| 1512 | 153 | Regina Skelton Boyd |
+| 1513 | 153 | Tipsy Dashgrid |
+| 1514 | 153 | Epic Fitzone |
+| 1515 | 153 | BigDuece |
 | 1516 | 152 | Twisty Twistfit |
 | 1517 | 152 | punky monkey buttky |
 | 1518 | 152 | Mol Findor |

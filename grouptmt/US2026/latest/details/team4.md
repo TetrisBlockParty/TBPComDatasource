@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 05:16:44 UTC
+# Standings for team4 as of 2026-02-25 05:17:22 UTC
 
 **Total Participants:** 2165
 
@@ -149,9 +149,9 @@
 | 141 | 753 | H.R. Block |
 | 142 | 753 | Nugget |
 | 143 | 752 | Jessica Lynn Cutlip |
-| 144 | 741 | Jacqueline Helm |
-| 145 | 739 | George Nutt |
-| 146 | 738 | Porkobello |
+| 144 | 750 | Porkobello |
+| 145 | 741 | Jacqueline Helm |
+| 146 | 739 | George Nutt |
 | 147 | 735 | Chilly Crasher |
 | 148 | 731 | KJ Pool |
 | 149 | 721 | shar |
@@ -187,7 +187,7 @@
 | 179 | 630 | Chastity Mitchell |
 | 180 | 624 | Matt Summer |
 | 181 | 623 | ku5hkween |
-| 182 | 621 | JPW |
+| 182 | 623 | JPW |
 | 183 | 619 | Adrian Pawlusinski |
 | 184 | 618 | Rico |
 | 185 | 618 | Ren Mc |
@@ -396,17 +396,17 @@
 | 388 | 364 | Jay You |
 | 389 | 361 | Eminem |
 | 390 | 361 | Chummy Towerzone |
-| 391 | 359 | Allen Lloyd |
-| 392 | 359 | Jumpy Zonepiece |
-| 393 | 359 | Tyler Bechtel |
-| 394 | 359 | Groovy Shiftspin |
-| 395 | 359 | Raymond Roberts |
-| 396 | 359 | ThriftySpice |
-| 397 | 358 | Susan Williams |
-| 398 | 357 | Chummy Link |
-| 399 | 357 | Ruby Khalisadar |
-| 400 | 356 | Val Erie |
-| 401 | 356 | Stephme310 |
+| 391 | 360 | Stephme310 |
+| 392 | 359 | Allen Lloyd |
+| 393 | 359 | Jumpy Zonepiece |
+| 394 | 359 | Tyler Bechtel |
+| 395 | 359 | Groovy Shiftspin |
+| 396 | 359 | Raymond Roberts |
+| 397 | 359 | ThriftySpice |
+| 398 | 358 | Susan Williams |
+| 399 | 357 | Chummy Link |
+| 400 | 357 | Ruby Khalisadar |
+| 401 | 356 | Val Erie |
 | 402 | 353 | Glitzy Corner |
 | 403 | 353 | ImJustMe |
 | 404 | 352 | Jared Gutwein |
@@ -475,29 +475,29 @@
 | 467 | 306 | PeaceOs |
 | 468 | 306 | Chantilly Laace |
 | 469 | 306 | L Bear Champion |
-| 470 | 305 | 07VHVW |
-| 471 | 305 | Sholom Fried |
-| 472 | 304 | RamboBanana |
-| 473 | 304 | Balsam Joe |
-| 474 | 304 | PennyCandee |
-| 475 | 304 | ĥuf |
-| 476 | 302 | Krash |
-| 477 | 301 | Ashlee Carnes |
-| 478 | 301 | Malakai Darien Fox |
-| 479 | 300 | Bubbly Twistpiece |
-| 480 | 300 | Dapper Frame |
-| 481 | 300 | Joshua Guess |
-| 482 | 299 | Frisky Matchgrid |
-| 483 | 298 | ChuckBuck Copeland |
-| 484 | 298 | Jackie Marie |
-| 485 | 297 | Brittany Marsh |
-| 486 | 297 | Sallie Sanborn |
-| 487 | 297 | Lorena Guerrero-Barron |
-| 488 | 296 | Ruben Wheeler |
-| 489 | 296 | Moonsterix |
-| 490 | 295 | Stacy Jones |
-| 491 | 295 | Yanais Fernandez |
-| 492 | 295 | Silly Clearfit |
+| 470 | 306 | Silly Clearfit |
+| 471 | 305 | 07VHVW |
+| 472 | 305 | Sholom Fried |
+| 473 | 304 | RamboBanana |
+| 474 | 304 | Balsam Joe |
+| 475 | 304 | PennyCandee |
+| 476 | 304 | ĥuf |
+| 477 | 302 | Krash |
+| 478 | 301 | Ashlee Carnes |
+| 479 | 301 | Malakai Darien Fox |
+| 480 | 300 | Bubbly Twistpiece |
+| 481 | 300 | Dapper Frame |
+| 482 | 300 | Joshua Guess |
+| 483 | 299 | Frisky Matchgrid |
+| 484 | 298 | ChuckBuck Copeland |
+| 485 | 298 | Jackie Marie |
+| 486 | 297 | Brittany Marsh |
+| 487 | 297 | Sallie Sanborn |
+| 488 | 297 | Lorena Guerrero-Barron |
+| 489 | 296 | Ruben Wheeler |
+| 490 | 296 | Moonsterix |
+| 491 | 295 | Stacy Jones |
+| 492 | 295 | Yanais Fernandez |
 | 493 | 294 | BootsMcGee |
 | 494 | 294 | Ryry |
 | 495 | 293 | Robert Bolden |
@@ -515,8 +515,8 @@
 | 507 | 286 | Daring Pivot |
 | 508 | 286 | Brandi Durig |
 | 509 | 286 | Peachy Brickster |
-| 510 | 285 | Lisa Bush |
-| 511 | 285 | Thomas Hettenhaus |
+| 510 | 285 | Thomas Hettenhaus |
+| 511 | 285 | Lisa Bush |
 | 512 | 285 | RIFATSIKDER |
 | 513 | 285 | Elizabeth Tinoco |
 | 514 | 284 | Jose Dejesus |
@@ -619,16 +619,16 @@
 | 611 | 242 | Norman Klick |
 | 612 | 242 | Hanh Pham |
 | 613 | 241 | Katherine Crane |
-| 614 | 241 | Janis Brown |
-| 615 | 240 | Faja |
-| 616 | 240 | Katie McCabe |
-| 617 | 240 | Darrin Rubalcava |
-| 618 | 240 | Jenna Keen |
-| 619 | 240 | Bigeddie |
-| 620 | 240 | Brad Campbell |
-| 621 | 240 | Zach Kerbs |
-| 622 | 239 | Rebecca A Rit |
-| 623 | 239 | Dandy Cascadefit |
+| 614 | 241 | Dandy Cascadefit |
+| 615 | 241 | Janis Brown |
+| 616 | 240 | Faja |
+| 617 | 240 | Katie McCabe |
+| 618 | 240 | Darrin Rubalcava |
+| 619 | 240 | Jenna Keen |
+| 620 | 240 | Bigeddie |
+| 621 | 240 | Brad Campbell |
+| 622 | 240 | Zach Kerbs |
+| 623 | 239 | Rebecca A Rit |
 | 624 | 238 | sgt baby |
 | 625 | 238 | Robert Rodriguez |
 | 626 | 238 | Jennifer Dineen |
