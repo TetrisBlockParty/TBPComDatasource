@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 08:11:23 UTC
+# Standings for team1 as of 2026-02-25 08:12:25 UTC
 
 **Total Participants:** 2439
 
@@ -448,13 +448,13 @@
 | 440 | 342 | Marianita Garcia |
 | 441 | 342 | Christina Norman |
 | 442 | 339 | Joe Coon |
-| 443 | 338 | Ma stoken |
-| 444 | 338 | cheeseman |
-| 445 | 337 | Nathan William |
-| 446 | 336 | Steven Collins |
-| 447 | 336 | Christy LaSure |
-| 448 | 335 | John Barron |
-| 449 | 334 | Brandie Gallegos |
+| 443 | 339 | Brandie Gallegos |
+| 444 | 338 | Ma stoken |
+| 445 | 338 | cheeseman |
+| 446 | 337 | Nathan William |
+| 447 | 336 | Steven Collins |
+| 448 | 336 | Christy LaSure |
+| 449 | 335 | John Barron |
 | 450 | 334 | Leslie Bush Yarbrough |
 | 451 | 333 | Vivienne Carter |
 | 452 | 333 | Shaykmia |
@@ -667,14 +667,14 @@
 | 659 | 238 | Kanesha Jackson |
 | 660 | 238 | Lucinda Thacker |
 | 661 | 237 | Jonathan Joshua |
-| 662 | 237 | Gina Fontana Meier |
-| 663 | 237 | Lark |
-| 664 | 236 | Mortious |
-| 665 | 236 | Slinky Tile |
-| 666 | 236 | Boldy Snapfit |
-| 667 | 235 | Owicked1 |
-| 668 | 235 | Jana Hutcheson |
-| 669 | 235 | Sarah Cassese |
+| 662 | 237 | Sarah Cassese |
+| 663 | 237 | Gina Fontana Meier |
+| 664 | 237 | Lark |
+| 665 | 236 | Mortious |
+| 666 | 236 | Slinky Tile |
+| 667 | 236 | Boldy Snapfit |
+| 668 | 235 | Owicked1 |
+| 669 | 235 | Jana Hutcheson |
 | 670 | 235 | Sarah Henniker |
 | 671 | 234 | Ruby Sandberg |
 | 672 | 234 | Krazykat💋❤️💋 |
@@ -1922,8 +1922,8 @@
 | 1914 | 32 | Djdubz |
 | 1915 | 32 | Lulumagoo |
 | 1916 | 32 | mudpuppy |
-| 1917 | 32 | Giggy Clearbuilder |
-| 1918 | 32 | Rangel Arch |
+| 1917 | 32 | Rangel Arch |
+| 1918 | 32 | Giggy Clearbuilder |
 | 1919 | 32 | Tony Lawton |
 | 1920 | 32 | Annoying46 |
 | 1921 | 32 | Linda Alvarez |
@@ -1939,100 +1939,100 @@
 | 1931 | 31 | Justin Wolf |
 | 1932 | 31 | Shawne Smith |
 | 1933 | 31 | Tiny Bear |
-| 1934 | 31 | Lynnita West Wright |
-| 1935 | 31 | Rebecca Rognerud |
-| 1936 | 31 | Cassandra Cooper |
-| 1937 | 30 | Melissa Erwin |
+| 1934 | 31 | Rebecca Rognerud |
+| 1935 | 31 | Cassandra Cooper |
+| 1936 | 31 | Lynnita West Wright |
+| 1937 | 30 | Jennifer M. Faircloth |
 | 1938 | 30 | BIGOONS |
 | 1939 | 30 | Giggy Zonepiece |
 | 1940 | 30 | Meh |
 | 1941 | 30 | Jessie Kronthal |
-| 1942 | 30 | Jennifer M. Faircloth |
+| 1942 | 30 | Melissa Erwin |
 | 1943 | 30 | Shawn Ricketts-Nelson |
 | 1944 | 30 | Melissa Nicole Hanscom |
-| 1945 | 30 | Twisty Lift |
-| 1946 | 30 | Ashley Glover |
-| 1947 | 30 | Tiffany Hairston |
-| 1948 | 30 | William Thomas |
-| 1949 | 30 | KERI |
-| 1950 | 29 | Amy Thale Gooding |
-| 1951 | 29 | Michelle Arteaga-Avila |
-| 1952 | 29 | Boldy Dropzone |
-| 1953 | 29 | Soany Barrera |
-| 1954 | 29 | Diane Wilson |
-| 1955 | 29 | Renee Clark Thaxton |
-| 1956 | 29 | John Vining |
-| 1957 | 29 | Renee Miles Merrick |
-| 1958 | 29 | Andrew Heath Hicks |
-| 1959 | 29 | Jim Larsen |
-| 1960 | 29 | Geneva Mixon |
-| 1961 | 29 | Mustafa kelani |
-| 1962 | 29 | GiGi Maisonave |
+| 1945 | 30 | Akgretel |
+| 1946 | 30 | Twisty Lift |
+| 1947 | 30 | Ashley Glover |
+| 1948 | 30 | Tiffany Hairston |
+| 1949 | 30 | William Thomas |
+| 1950 | 30 | KERI |
+| 1951 | 29 | GiGi Maisonave |
+| 1952 | 29 | Mustafa kelani |
+| 1953 | 29 | Renee Miles Merrick |
+| 1954 | 29 | John Vining |
+| 1955 | 29 | Soany Barrera |
+| 1956 | 29 | Geneva Mixon |
+| 1957 | 29 | Boldy Dropzone |
+| 1958 | 29 | Amy Thale Gooding |
+| 1959 | 29 | Michelle Arteaga-Avila |
+| 1960 | 29 | SCROPION |
+| 1961 | 29 | Ashleigh Bradt |
+| 1962 | 29 | Andrew Heath Hicks |
 | 1963 | 29 | Giggly Dashfit |
-| 1964 | 29 | SCROPION |
-| 1965 | 29 | Lush Risebuilder |
-| 1966 | 29 | Bryran |
-| 1967 | 29 | Ashleigh Bradt |
-| 1968 | 29 | Wendy Lee |
-| 1969 | 28 | Jacob Kelly-O'Brien |
-| 1970 | 28 | Scott Reynolds |
-| 1971 | 28 | Giddy Shatterfit |
+| 1964 | 29 | Wendy Lee |
+| 1965 | 29 | Diane Wilson |
+| 1966 | 29 | Lush Risebuilder |
+| 1967 | 29 | Jim Larsen |
+| 1968 | 29 | Bryran |
+| 1969 | 29 | Renee Clark Thaxton |
+| 1970 | 28 | Giddy Shatterfit |
+| 1971 | 28 | Scott Reynolds |
 | 1972 | 28 | Dreamy Drop |
-| 1973 | 28 | Godofwar |
-| 1974 | 28 | Huou Rum |
-| 1975 | 28 | Lyndy Kelley |
-| 1976 | 28 | Blanca Perez |
-| 1977 | 28 | Lydia Kepner |
-| 1978 | 28 | Giddy Combofall |
-| 1979 | 28 | Joy Riley |
-| 1980 | 28 | Michael Bakko |
-| 1981 | 28 | Tina Chow |
-| 1982 | 28 | Lively Corner |
-| 1983 | 27 | Lively Linker |
-| 1984 | 27 | FredDumplings |
-| 1985 | 27 | Gaberiel Torres |
-| 1986 | 27 | Akgretel |
-| 1987 | 27 | Robert Molly Mathes |
-| 1988 | 27 | Twisty Grabber |
+| 1973 | 28 | Lydia Kepner |
+| 1974 | 28 | Godofwar |
+| 1975 | 28 | Jacob Kelly-O'Brien |
+| 1976 | 28 | Huou Rum |
+| 1977 | 28 | Lively Corner |
+| 1978 | 28 | Joy Riley |
+| 1979 | 28 | Lyndy Kelley |
+| 1980 | 28 | Tina Chow |
+| 1981 | 28 | Blanca Perez |
+| 1982 | 28 | Michael Bakko |
+| 1983 | 28 | Giddy Combofall |
+| 1984 | 27 | Cool Bridgepiece |
+| 1985 | 27 | FredDumplings |
+| 1986 | 27 | Twisty Grabber |
+| 1987 | 27 | Gaberiel Torres |
+| 1988 | 27 | Robert Molly Mathes |
 | 1989 | 27 | Douglas Anderson |
-| 1990 | 27 | Hoppy Blockline |
-| 1991 | 27 | Plucky Tiler |
-| 1992 | 27 | Babs |
-| 1993 | 27 | Cozy Clear |
-| 1994 | 27 | Cool Bridgepiece |
-| 1995 | 27 | Laurie Rocha |
-| 1996 | 26 | Charles Corey |
-| 1997 | 26 | pickles |
-| 1998 | 26 | Chilly Blocker |
-| 1999 | 26 | Frisky Cascadezone |
-| 2000 | 26 | Mighty Tiley |
-| 2001 | 26 | Janice Clugston Mcbride |
-| 2002 | 26 | SkyRockt |
-| 2003 | 26 | Joseph Andresen |
-| 2004 | 26 | Joy |
-| 2005 | 26 | Princess Pea |
-| 2006 | 26 | Mighty Builder |
-| 2007 | 26 | Frederick Swann |
-| 2008 | 26 | Tammy |
-| 2009 | 26 | Hopey Manuel |
-| 2010 | 26 | LarryG |
-| 2011 | 26 | Clever Snapzone |
-| 2012 | 26 | Kayla K Evans |
-| 2013 | 26 | Roberto Sicairos Jr. |
-| 2014 | 26 | Dixie Bradshaw-Basile |
-| 2015 | 26 | CAP |
-| 2016 | 26 | Lishamarie Blakley Ingles |
-| 2017 | 26 | Krista Joyce |
-| 2018 | 25 | MDM |
-| 2019 | 25 | Chibuike Stephen Ndubunka |
-| 2020 | 25 | yaha |
-| 2021 | 25 | Grumpy09990 |
-| 2022 | 25 | Clinton Castle |
-| 2023 | 25 | Zappy Builderpiece |
-| 2024 | 25 | Kirsten |
+| 1990 | 27 | Babs |
+| 1991 | 27 | Laurie Rocha |
+| 1992 | 27 | Lively Linker |
+| 1993 | 27 | Hoppy Blockline |
+| 1994 | 27 | Plucky Tiler |
+| 1995 | 27 | Cozy Clear |
+| 1996 | 26 | SkyRockt |
+| 1997 | 26 | Janice Clugston Mcbride |
+| 1998 | 26 | Frisky Cascadezone |
+| 1999 | 26 | Joseph Andresen |
+| 2000 | 26 | Joy |
+| 2001 | 26 | Charles Corey |
+| 2002 | 26 | Chilly Blocker |
+| 2003 | 26 | Princess Pea |
+| 2004 | 26 | pickles |
+| 2005 | 26 | Mighty Tiley |
+| 2006 | 26 | Kayla K Evans |
+| 2007 | 26 | Krista Joyce |
+| 2008 | 26 | Mighty Builder |
+| 2009 | 26 | Lishamarie Blakley Ingles |
+| 2010 | 26 | CAP |
+| 2011 | 26 | Dixie Bradshaw-Basile |
+| 2012 | 26 | Roberto Sicairos Jr. |
+| 2013 | 26 | Clever Snapzone |
+| 2014 | 26 | LarryG |
+| 2015 | 26 | Hopey Manuel |
+| 2016 | 26 | Frederick Swann |
+| 2017 | 26 | Tammy |
+| 2018 | 25 | Chibuike Stephen Ndubunka |
+| 2019 | 25 | Grumpy09990 |
+| 2020 | 25 | Clinton Castle |
+| 2021 | 25 | Kirsten |
+| 2022 | 25 | yaha |
+| 2023 | 25 | MDM |
+| 2024 | 25 | Zappy Builderpiece |
 | 2025 | 25 | Tony Poat |
-| 2026 | 25 | Billy Furrer |
-| 2027 | 25 | vmoney |
+| 2026 | 25 | vmoney |
+| 2027 | 25 | Billy Furrer |
 | 2028 | 25 | Hasty Wipebuilder |
 | 2029 | 25 | Newt Heckin Newton |
 | 2030 | 25 | Jumpy Curvebuilder |
@@ -2042,8 +2042,8 @@
 | 2034 | 24 | Zippy Patternzone |
 | 2035 | 24 | Cindy Cooper |
 | 2036 | 24 | Daniel Rico |
-| 2037 | 24 | Joie M Foland |
-| 2038 | 24 | Larry |
+| 2037 | 24 | Larry |
+| 2038 | 24 | Joie M Foland |
 | 2039 | 24 | Rosie |
 | 2040 | 24 | Timmy Goats |
 | 2041 | 24 | Lafonda |
@@ -2058,8 +2058,8 @@
 | 2050 | 23 | Goofy Dropzone |
 | 2051 | 23 | John Kalney |
 | 2052 | 23 | Shellzb Roberts |
-| 2053 | 23 | Jason Banta |
-| 2054 | 23 | Miguel Lara |
+| 2053 | 23 | Miguel Lara |
+| 2054 | 23 | Jason Banta |
 | 2055 | 23 | Chris Nitz |
 | 2056 | 23 | Cassandra Ryan |
 | 2057 | 23 | Devlynndeeskyz |
