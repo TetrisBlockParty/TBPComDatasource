@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 08:08:43 UTC
+# Standings for team4 as of 2026-02-25 08:09:24 UTC
 
 **Total Participants:** 2181
 
@@ -209,7 +209,7 @@
 | 201 | 598 | Mimi |
 | 202 | 596 | Carly Alexis |
 | 203 | 595 | Andria Lynn |
-| 204 | 593 | Andy Cabral |
+| 204 | 594 | Andy Cabral |
 | 205 | 592 | Kristin Manee |
 | 206 | 592 | meowmew |
 | 207 | 590 | Carlton Unfiltered |
@@ -464,13 +464,13 @@
 | 456 | 315 | Johnny R |
 | 457 | 314 | RIFATSIKDER |
 | 458 | 314 | Jonathan Mahfood |
-| 459 | 312 | ChuckBuck Copeland |
-| 460 | 312 | Jackson Karen |
-| 461 | 311 | Silly Clearfit |
-| 462 | 311 | Kathy Allen |
-| 463 | 311 | Brave Spinbuilder |
-| 464 | 311 | Reds Bella |
-| 465 | 310 | Chantilly Laace |
+| 459 | 313 | Chantilly Laace |
+| 460 | 312 | ChuckBuck Copeland |
+| 461 | 312 | Jackson Karen |
+| 462 | 311 | Silly Clearfit |
+| 463 | 311 | Kathy Allen |
+| 464 | 311 | Brave Spinbuilder |
+| 465 | 311 | Reds Bella |
 | 466 | 310 | 中山成巳 |
 | 467 | 309 | Speedy Cascadeclear |
 | 468 | 309 | Kevin Blevins |
@@ -481,13 +481,13 @@
 | 473 | 308 | Jennifer Brown |
 | 474 | 307 | kaeliwyn |
 | 475 | 306 | L Bear Champion |
-| 476 | 306 | Peachy Brickster |
-| 477 | 306 | PeaceOs |
+| 476 | 306 | PeaceOs |
+| 477 | 306 | Peachy Brickster |
 | 478 | 306 | Brittany Marsh |
 | 479 | 305 | ĥuf |
-| 480 | 305 | 07VHVW |
-| 481 | 305 | Sholom Fried |
-| 482 | 305 | Bubbly Twistpiece |
+| 480 | 305 | Sholom Fried |
+| 481 | 305 | Bubbly Twistpiece |
+| 482 | 305 | 07VHVW |
 | 483 | 304 | Balsam Joe |
 | 484 | 302 | Krash |
 | 485 | 301 | Ashlee Carnes |
@@ -1825,39 +1825,39 @@
 | 1817 | 28 | Shiny Brickline |
 | 1818 | 28 | Dovakin |
 | 1819 | 28 | sunshine719 |
-| 1820 | 28 | Ladi A |
-| 1821 | 28 | Jessi Gooch |
-| 1822 | 27 | Bold Builderpiece |
-| 1823 | 27 | Lynn Anne |
-| 1824 | 27 | Breezy Linkfall |
-| 1825 | 27 | Karolina Koolin |
-| 1826 | 27 | Jennifer Pfeiffer Johnson |
-| 1827 | 27 | Charles D Rexrode Jr |
+| 1820 | 28 | Charles D Rexrode Jr |
+| 1821 | 28 | Ladi A |
+| 1822 | 28 | Jessi Gooch |
+| 1823 | 27 | Bold Builderpiece |
+| 1824 | 27 | Lynn Anne |
+| 1825 | 27 | Breezy Linkfall |
+| 1826 | 27 | Karolina Koolin |
+| 1827 | 27 | Jennifer Pfeiffer Johnson |
 | 1828 | 27 | Edward Krohn |
-| 1829 | 27 | Melissa Gail Sanders |
-| 1830 | 27 | Antronita Kemp |
-| 1831 | 27 | Rashelle L Saeger |
-| 1832 | 27 | Snappy Stagger |
-| 1833 | 27 | Nutty Grabber |
-| 1834 | 27 | Perach Alima Shoa |
-| 1835 | 27 | Julie Foulks Porter |
-| 1836 | 26 | Korky Smith |
-| 1837 | 26 | Julio León |
-| 1838 | 26 | Yoyoyo |
-| 1839 | 26 | Naomi Olson Hartman |
+| 1829 | 27 | Julie Foulks Porter |
+| 1830 | 27 | Melissa Gail Sanders |
+| 1831 | 27 | Perach Alima Shoa |
+| 1832 | 27 | Antronita Kemp |
+| 1833 | 27 | Rashelle L Saeger |
+| 1834 | 27 | Nutty Grabber |
+| 1835 | 27 | Snappy Stagger |
+| 1836 | 26 | Korn Starch |
+| 1837 | 26 | Vader67 |
+| 1838 | 26 | OreoBlu |
+| 1839 | 26 | Kyrstyn Viers |
 | 1840 | 26 | Alex Alex |
-| 1841 | 26 | Carolyn Figueroa |
-| 1842 | 26 | Kyrstyn Viers |
-| 1843 | 26 | Felicia Daniels |
-| 1844 | 26 | OreoBlu |
-| 1845 | 26 | Courtney Lynn Hagaman |
-| 1846 | 26 | TaZz |
-| 1847 | 26 | Korn Starch |
-| 1848 | 26 | Vader67 |
+| 1841 | 26 | Naomi Olson Hartman |
+| 1842 | 26 | Yoyoyo |
+| 1843 | 26 | Julio León |
+| 1844 | 26 | Korky Smith |
+| 1845 | 26 | Felicia Daniels |
+| 1846 | 26 | Carolyn Figueroa |
+| 1847 | 26 | TaZz |
+| 1848 | 26 | Courtney Lynn Hagaman |
 | 1849 | 26 | Cool Cascadefit |
-| 1850 | 25 | Dapper Racker |
+| 1850 | 25 | Neke Lyles |
 | 1851 | 25 | Pierre Kelly |
-| 1852 | 25 | Neke Lyles |
+| 1852 | 25 | Dapper Racker |
 | 1853 | 25 | Michelle LaRose |
 | 1854 | 25 | BlueCupCakes |
 | 1855 | 25 | Nutty Tile |
