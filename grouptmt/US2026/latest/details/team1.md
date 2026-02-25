@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 22:32:43 UTC
+# Standings for team1 as of 2026-02-25 22:33:23 UTC
 
 **Total Participants:** 2543
 
@@ -375,65 +375,65 @@
 | 367 | 407 | Christy LaSure |
 | 368 | 407 | Lisa Miller |
 | 369 | 406 | Angela Dawn Torres-Tarrants |
-| 370 | 406 | Bloknboy |
-| 371 | 405 | Spunky Tilt |
-| 372 | 404 | Sunny Pivotfall |
-| 373 | 403 | Mandyy Rae |
-| 374 | 401 | Michael |
-| 375 | 400 | Sonia Marquis |
-| 376 | 400 | Jasmine Riley |
-| 377 | 399 | Rodney Schmerfeld |
-| 378 | 399 | Elizabeth Kubli |
-| 379 | 398 | Angela Jones |
-| 380 | 398 | Joshua Weeder |
+| 370 | 406 | Joshua Weeder |
+| 371 | 406 | Bloknboy |
+| 372 | 405 | Spunky Tilt |
+| 373 | 404 | Sunny Pivotfall |
+| 374 | 403 | Mandyy Rae |
+| 375 | 401 | Michael |
+| 376 | 400 | Sonia Marquis |
+| 377 | 400 | Jasmine Riley |
+| 378 | 399 | Rodney Schmerfeld |
+| 379 | 399 | Elizabeth Kubli |
+| 380 | 398 | Angela Jones |
 | 381 | 397 | Dawn Michelle Scheible |
-| 382 | 397 | Tipsy Builder |
+| 382 | 397 | Jumpy Rotate |
 | 383 | 397 | Gary Gobin |
-| 384 | 397 | Jumpy Rotate |
+| 384 | 397 | Tipsy Builder |
 | 385 | 396 | Lilkimmie |
-| 386 | 395 | Brooke Elizabeth Antill |
+| 386 | 395 | Matt Iaccheo |
 | 387 | 395 | Goobette |
-| 388 | 395 | Matt Iaccheo |
-| 389 | 394 | Randy Broadwater |
-| 390 | 394 | Nick R Montague |
+| 388 | 395 | Brooke Elizabeth Antill |
+| 389 | 394 | Nick R Montague |
+| 390 | 394 | Randy Broadwater |
 | 391 | 393 | Wisa |
 | 392 | 392 | ESC |
 | 393 | 391 | Leslie Bush Yarbrough |
-| 394 | 390 | Mel Fab |
-| 395 | 390 | Rachel Nichole Henry |
-| 396 | 390 | Carl Claunch |
-| 397 | 389 | Giggly Builderline |
+| 394 | 390 | Rachel Nichole Henry |
+| 395 | 390 | Carl Claunch |
+| 396 | 390 | Mel Fab |
+| 397 | 389 | Christina Backer |
 | 398 | 389 | Tanya Banks |
-| 399 | 389 | Christina Backer |
-| 400 | 388 | Shaykmia |
+| 399 | 389 | Giggly Builderline |
+| 400 | 388 | Chris65 |
 | 401 | 388 | Eddie Dillon |
 | 402 | 388 | Delvison Rosario |
-| 403 | 388 | Chris65 |
+| 403 | 388 | Shaykmia |
 | 404 | 387 | Diane Byrd |
 | 405 | 387 | Glitzy Grid |
 | 406 | 386 | Tiffany Smith |
-| 407 | 386 | Nadine Velardo |
-| 408 | 386 | Dizzy Riseclear |
-| 409 | 385 | Steph |
-| 410 | 385 | Mighty Shatterfit |
-| 411 | 385 | Amh |
-| 412 | 385 | Lyn Sibayan |
-| 413 | 384 | Patty Lavigne Craddock |
-| 414 | 384 | Casey Hintenach |
-| 415 | 384 | Larry Tilton |
-| 416 | 382 | Gina Bettikofer |
-| 417 | 382 | Kristen Meehan Wangerien |
-| 418 | 382 | Rico Rico |
-| 419 | 382 | Nutty Spinblock |
-| 420 | 380 | Mary Love |
-| 421 | 379 | Billie Dawn Sparks |
-| 422 | 379 | Austin James |
-| 423 | 378 | Fresno Beotoni |
-| 424 | 377 | Dawon Ksk Capers |
+| 407 | 386 | Dizzy Riseclear |
+| 408 | 386 | Nadine Velardo |
+| 409 | 385 | Dawon Ksk Capers |
+| 410 | 385 | Steph |
+| 411 | 385 | Mighty Shatterfit |
+| 412 | 385 | Amh |
+| 413 | 385 | Lyn Sibayan |
+| 414 | 384 | Larry Tilton |
+| 415 | 384 | Casey Hintenach |
+| 416 | 384 | Patty Lavigne Craddock |
+| 417 | 382 | Nutty Spinblock |
+| 418 | 382 | Gina Bettikofer |
+| 419 | 382 | Kristen Meehan Wangerien |
+| 420 | 382 | Rico Rico |
+| 421 | 380 | Mary Love |
+| 422 | 379 | Billie Dawn Sparks |
+| 423 | 379 | Austin James |
+| 424 | 378 | Fresno Beotoni |
 | 425 | 376 | Herm Junior |
 | 426 | 376 | Breanna Luna |
-| 427 | 375 | Archie Ware |
-| 428 | 375 | Rick Pickup Raymur |
+| 427 | 375 | Rick Pickup Raymur |
+| 428 | 375 | Archie Ware |
 | 429 | 374 | Corkey Steinmark |
 | 430 | 374 | Nathan William |
 | 431 | 374 | Loony Bridgepiece |
@@ -1066,16 +1066,16 @@
 | 1058 | 152 | Brandi Egbert |
 | 1059 | 152 | Scott Baum |
 | 1060 | 152 | Dandy Piecebuilder |
-| 1061 | 152 | Javyjavz |
-| 1062 | 151 | ghxsty |
-| 1063 | 151 | Cynthia Pool |
-| 1064 | 150 | Kristy Lynn Michaud |
-| 1065 | 150 | Catherine Gi |
-| 1066 | 150 | Plucky Tetrisline |
-| 1067 | 150 | Lush Drop |
-| 1068 | 150 | bgiu |
-| 1069 | 150 | Richard Harmes |
-| 1070 | 150 | Lynn Anderson |
+| 1061 | 152 | Lynn Anderson |
+| 1062 | 152 | Javyjavz |
+| 1063 | 151 | ghxsty |
+| 1064 | 151 | Cynthia Pool |
+| 1065 | 150 | Kristy Lynn Michaud |
+| 1066 | 150 | Catherine Gi |
+| 1067 | 150 | Plucky Tetrisline |
+| 1068 | 150 | Lush Drop |
+| 1069 | 150 | bgiu |
+| 1070 | 150 | Richard Harmes |
 | 1071 | 150 | Dapper Shiftspin |
 | 1072 | 149 | HIM |
 | 1073 | 149 | Dchielle |
@@ -2270,16 +2270,16 @@
 | 2262 | 17 | king gorky |
 | 2263 | 17 | Karen McDannell |
 | 2264 | 17 | Deanna Revell |
-| 2265 | 17 | Alicia Brown |
-| 2266 | 17 | Bubba |
-| 2267 | 17 | Michel E Santos |
-| 2268 | 17 | Brittnie Duty |
-| 2269 | 17 | Dreamy Framezone |
-| 2270 | 17 | Mine |
-| 2271 | 16 | Inventor AAG3csff |
-| 2272 | 16 | Slinky Glidepiece |
-| 2273 | 16 | Cassie Harrison |
-| 2274 | 16 | Daring Block |
+| 2265 | 17 | Daring Block |
+| 2266 | 17 | Alicia Brown |
+| 2267 | 17 | Bubba |
+| 2268 | 17 | Michel E Santos |
+| 2269 | 17 | Brittnie Duty |
+| 2270 | 17 | Dreamy Framezone |
+| 2271 | 17 | Mine |
+| 2272 | 16 | Inventor AAG3csff |
+| 2273 | 16 | Slinky Glidepiece |
+| 2274 | 16 | Cassie Harrison |
 | 2275 | 16 | Lush Shatterfit |
 | 2276 | 16 | Natasha White |
 | 2277 | 16 | Nicole Voorhees |
