@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 21:42:43 UTC
+# Standings for team4 as of 2026-02-25 21:43:23 UTC
 
 **Total Participants:** 2266
 
@@ -706,49 +706,49 @@
 | 698 | 234 | Daresha Fair |
 | 699 | 234 | Mcg |
 | 700 | 234 | Christina Hyde |
-| 701 | 234 | Amy C Brown |
-| 702 | 234 | b |
+| 701 | 234 | b |
+| 702 | 234 | Amy C Brown |
 | 703 | 233 | Satinleader |
 | 704 | 233 | Andrea Gallagher |
 | 705 | 233 | Katie Alexander |
 | 706 | 232 | Douglass |
 | 707 | 231 | Zany Mover |
-| 708 | 231 | Tisha Cammack |
-| 709 | 230 | Tammy Lewis |
-| 710 | 230 | Shiny Twistpiece |
-| 711 | 230 | Emily Regan Wills |
-| 712 | 230 | Alfredo Aguilar |
-| 713 | 229 | Demont Darius |
-| 714 | 229 | Larry Agan |
-| 715 | 229 | Steve |
-| 716 | 228 | Cozy Framezone |
-| 717 | 227 | Asher |
-| 718 | 226 | Lazy Column |
-| 719 | 226 | Myra LaTrice |
-| 720 | 226 | Cozy Balancer |
-| 721 | 225 | Nijmeh Hinchsliff |
+| 708 | 231 | Tabi Williams |
+| 709 | 231 | Tisha Cammack |
+| 710 | 230 | Tammy Lewis |
+| 711 | 230 | Shiny Twistpiece |
+| 712 | 230 | Emily Regan Wills |
+| 713 | 230 | Alfredo Aguilar |
+| 714 | 229 | Demont Darius |
+| 715 | 229 | Larry Agan |
+| 716 | 229 | Steve |
+| 717 | 228 | Cozy Framezone |
+| 718 | 227 | Asher |
+| 719 | 226 | Lazy Column |
+| 720 | 226 | Myra LaTrice |
+| 721 | 226 | Cozy Balancer |
 | 722 | 225 | Jobadia Steelerton |
-| 723 | 224 | Tabi Williams |
-| 724 | 223 | April Jo Roder |
-| 725 | 223 | April |
-| 726 | 222 | Robert Sch |
-| 727 | 222 | Brandy Gray |
-| 728 | 221 | Pampam |
-| 729 | 221 | Cheery Lift |
+| 723 | 225 | Nijmeh Hinchsliff |
+| 724 | 223 | April |
+| 725 | 223 | April Jo Roder |
+| 726 | 222 | Brandy Gray |
+| 727 | 222 | Robert Sch |
+| 728 | 221 | Cheery Lift |
+| 729 | 221 | Pampam |
 | 730 | 220 | Joshua Cuellar |
 | 731 | 220 | Cheryl Johnson |
-| 732 | 219 | Undeniable Williams |
-| 733 | 219 | Niki Bush |
-| 734 | 219 | Stephanie Jones |
-| 735 | 219 | Christina O'Dell-Ishau |
-| 736 | 218 | Hog Crankin |
-| 737 | 218 | Janita Parrish |
-| 738 | 216 | Elle Joe |
-| 739 | 216 | Zappy Bridgepiece |
+| 732 | 219 | Christina O'Dell-Ishau |
+| 733 | 219 | Stephanie Jones |
+| 734 | 219 | Niki Bush |
+| 735 | 219 | Undeniable Williams |
+| 736 | 218 | Janita Parrish |
+| 737 | 218 | Hog Crankin |
+| 738 | 216 | Zappy Bridgepiece |
+| 739 | 216 | Elle Joe |
 | 740 | 216 | Julie McAfoos Swanson |
-| 741 | 215 | Glitzy Crasher |
+| 741 | 215 | JoAnna Zalkovsky |
 | 742 | 215 | Patrick Cookson |
-| 743 | 215 | JoAnna Zalkovsky |
+| 743 | 215 | Glitzy Crasher |
 | 744 | 215 | Tetrina |
 | 745 | 215 | Mike Nelson |
 | 746 | 215 | icequeenx |
