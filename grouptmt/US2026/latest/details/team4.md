@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 23:04:43 UTC
+# Standings for team4 as of 2026-02-25 23:05:23 UTC
 
 **Total Participants:** 2276
 
@@ -951,12 +951,12 @@
 | 943 | 164 | Tracy Dawn |
 | 944 | 163 | Nicole Silvers |
 | 945 | 163 | Kimberly Paxton |
-| 946 | 163 | Matt Narcisse |
-| 947 | 163 | Brandi Marks |
-| 948 | 163 | Cozy Strikerbuilder |
-| 949 | 162 | Aloradexplora |
-| 950 | 162 | Adam Randall |
-| 951 | 162 | Tipsy Zoney |
+| 946 | 163 | Tipsy Zoney |
+| 947 | 163 | Matt Narcisse |
+| 948 | 163 | Brandi Marks |
+| 949 | 163 | Cozy Strikerbuilder |
+| 950 | 162 | Aloradexplora |
+| 951 | 162 | Adam Randall |
 | 952 | 161 | Dot Flanagan |
 | 953 | 161 | Samantha Gamble |
 | 954 | 161 | Shiny Wipefit |

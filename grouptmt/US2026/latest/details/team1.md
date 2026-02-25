@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 23:04:43 UTC
+# Standings for team1 as of 2026-02-25 23:05:23 UTC
 
 **Total Participants:** 2549
 
@@ -56,9 +56,9 @@
 | 48 | 1757 | Veronica Eve |
 | 49 | 1719 | Trippy Redd |
 | 50 | 1686 | Jessica Sheehan |
-| 51 | 1664 | Tyler Alcock |
-| 52 | 1655 | Michelle Nicole |
-| 53 | 1653 | Kristi Johnson |
+| 51 | 1667 | Kristi Johnson |
+| 52 | 1664 | Tyler Alcock |
+| 53 | 1655 | Michelle Nicole |
 | 54 | 1648 | Adam Byrd |
 | 55 | 1626 | Tipsy Column |
 | 56 | 1595 | june october |
@@ -579,16 +579,16 @@
 | 571 | 303 | Aaron Green |
 | 572 | 300 | Andrew Backes |
 | 573 | 299 | Mel Hogan |
-| 574 | 298 | Larry Jackson |
-| 575 | 297 | Tiffany Trinh |
-| 576 | 297 | Frisky Risebuilder |
-| 577 | 297 | Jake Mcnabb |
-| 578 | 296 | Cozy Shatterer |
-| 579 | 296 | Dena Kayy |
-| 580 | 295 | Clever Cascadepiece |
-| 581 | 294 | Jill King Oldham |
-| 582 | 294 | Burnnetter Sisk |
-| 583 | 293 | Funky Piecebuilder |
+| 574 | 299 | Funky Piecebuilder |
+| 575 | 298 | Larry Jackson |
+| 576 | 297 | Tiffany Trinh |
+| 577 | 297 | Frisky Risebuilder |
+| 578 | 297 | Jake Mcnabb |
+| 579 | 296 | Cozy Shatterer |
+| 580 | 296 | Dena Kayy |
+| 581 | 295 | Clever Cascadepiece |
+| 582 | 294 | Jill King Oldham |
+| 583 | 294 | Burnnetter Sisk |
 | 584 | 292 | Corrie Grant Smithson |
 | 585 | 292 | Colleen Wise |
 | 586 | 292 | monstermutt |
@@ -1089,13 +1089,13 @@
 | 1081 | 149 | HIM |
 | 1082 | 148 | Wanda Rodriguez |
 | 1083 | 148 | Jazzy Clicker |
-| 1084 | 148 | Katie Wood |
-| 1085 | 148 | Heather Duncan Peer |
-| 1086 | 147 | Adam Newton |
-| 1087 | 147 | uberdork124 |
-| 1088 | 147 | Dake Axton Shields |
-| 1089 | 147 | Twisty Wipeout |
-| 1090 | 147 | Wayne Davison |
+| 1084 | 148 | Wayne Davison |
+| 1085 | 148 | Katie Wood |
+| 1086 | 148 | Heather Duncan Peer |
+| 1087 | 147 | Adam Newton |
+| 1088 | 147 | uberdork124 |
+| 1089 | 147 | Dake Axton Shields |
+| 1090 | 147 | Twisty Wipeout |
 | 1091 | 146 | Jessica Hopkins |
 | 1092 | 146 | Lively Slammer |
 | 1093 | 146 | Kyle Baker |
