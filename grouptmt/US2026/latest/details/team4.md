@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 04:38:42 UTC
+# Standings for team4 as of 2026-02-25 04:39:22 UTC
 
 **Total Participants:** 2162
 
@@ -58,10 +58,10 @@
 | 50 | 1548 | Lisa Davis |
 | 51 | 1535 | Kimberly Love |
 | 52 | 1523 | Sammy Noguera |
-| 53 | 1512 | Yoset Mejia |
-| 54 | 1497 | Juggalo |
-| 55 | 1478 | Pee |
-| 56 | 1456 | Shelly Chandler |
+| 53 | 1514 | Shelly Chandler |
+| 54 | 1512 | Yoset Mejia |
+| 55 | 1497 | Juggalo |
+| 56 | 1478 | Pee |
 | 57 | 1390 | Toots |
 | 58 | 1354 | Mona Sharma |
 | 59 | 1354 | Isabel Aguilar |
@@ -283,12 +283,12 @@
 | 275 | 475 | Brittany Little |
 | 276 | 474 | Chao Ma |
 | 277 | 472 | Michael Snow |
-| 278 | 468 | TinyLegoRose |
-| 279 | 467 | Lush Linkfall |
-| 280 | 465 | 030Synner |
-| 281 | 461 | Lindsay Ball |
-| 282 | 461 | Dihcheese444 |
-| 283 | 460 | Antony Dwayne Beasley |
+| 278 | 470 | Antony Dwayne Beasley |
+| 279 | 468 | TinyLegoRose |
+| 280 | 467 | Lush Linkfall |
+| 281 | 465 | 030Synner |
+| 282 | 461 | Lindsay Ball |
+| 283 | 461 | Dihcheese444 |
 | 284 | 459 | Rafael Valentin |
 | 285 | 458 | Alan Zukowski |
 | 286 | 453 | Rio Rocha |
@@ -297,8 +297,8 @@
 | 289 | 449 | KimoKoala |
 | 290 | 449 | Danielle Kollias |
 | 291 | 448 | Lee Silpe |
-| 292 | 447 | Twisty Cascadezone |
-| 293 | 447 | Zany Swipe |
+| 292 | 447 | Zany Swipe |
+| 293 | 447 | Twisty Cascadezone |
 | 294 | 445 | Blessedmama |
 | 295 | 445 | Chaz |
 | 296 | 444 | Jen Caldwell |
@@ -315,8 +315,8 @@
 | 307 | 437 | Backoff Recupe |
 | 308 | 436 | Jessica Petersen |
 | 309 | 435 | Cool Gridzone |
-| 310 | 434 | Tina Lopez |
-| 311 | 434 | Ramel Rhodes |
+| 310 | 434 | Ramel Rhodes |
+| 311 | 434 | Tina Lopez |
 | 312 | 431 | Morti |
 | 313 | 430 | Holly Jolly |
 | 314 | 430 | Holly |
@@ -328,8 +328,8 @@
 | 320 | 425 | Googenheim |
 | 321 | 424 | Metsfan |
 | 322 | 423 | Zethra Prenisha Rahming |
-| 323 | 422 | Ultramarine |
-| 324 | 422 | Jess Reyes |
+| 323 | 422 | Jess Reyes |
+| 324 | 422 | Ultramarine |
 | 325 | 421 | JIGsaw ~(•¿°)~ |
 | 326 | 419 | Nubian1 |
 | 327 | 418 | Kate |
@@ -936,8 +936,8 @@
 | 928 | 146 | Justin Davis |
 | 929 | 146 | Kari Rose Haché |
 | 930 | 145 | Aj |
-| 931 | 145 | Austin Trent Weaver |
-| 932 | 145 | Hoppy Combo |
+| 931 | 145 | Hoppy Combo |
+| 932 | 145 | Austin Trent Weaver |
 | 933 | 144 | Swanky Blockline |
 | 934 | 144 | Eli Sanchez |
 | 935 | 143 | Tyler Brown |
@@ -946,18 +946,18 @@
 | 938 | 143 | Sherri |
 | 939 | 142 | Gina Sexton Powell |
 | 940 | 142 | Frank Cook |
-| 941 | 142 | Skyler Patzer |
-| 942 | 141 | Shelly Goad |
-| 943 | 141 | Robert Sch |
-| 944 | 141 | Loony Slide |
-| 945 | 141 | Dot Flanagan |
-| 946 | 140 | Shiny Matchfit |
-| 947 | 140 | RobinC |
-| 948 | 140 | Tiffany Root |
-| 949 | 140 | SloFut Mataryal BrownBwoy |
-| 950 | 140 | RonRico Thomas |
-| 951 | 140 | Megan Crane |
-| 952 | 140 | Austin |
+| 941 | 142 | Austin |
+| 942 | 142 | Skyler Patzer |
+| 943 | 141 | Shelly Goad |
+| 944 | 141 | Robert Sch |
+| 945 | 141 | Loony Slide |
+| 946 | 141 | Dot Flanagan |
+| 947 | 140 | Shiny Matchfit |
+| 948 | 140 | RobinC |
+| 949 | 140 | Tiffany Root |
+| 950 | 140 | SloFut Mataryal BrownBwoy |
+| 951 | 140 | RonRico Thomas |
+| 952 | 140 | Megan Crane |
 | 953 | 138 | Samantha Gamble |
 | 954 | 138 | Clever Tilefall |
 | 955 | 138 | JEan Price |
@@ -2023,48 +2023,48 @@
 | 2015 | 12 | Kristie Lynn |
 | 2016 | 12 | Ramona Dumas |
 | 2017 | 12 | Brianna O |
-| 2018 | 12 | Slappy Blackhead |
-| 2019 | 12 | Kiara Johnson |
-| 2020 | 12 | Loopy Striker |
-| 2021 | 12 | Penny |
+| 2018 | 12 | Loopy Striker |
+| 2019 | 12 | Dez |
+| 2020 | 12 | Urby Ofazeroth |
+| 2021 | 12 | ytho |
 | 2022 | 12 | Darrius Williams |
-| 2023 | 12 | ytho |
-| 2024 | 12 | Dez |
-| 2025 | 12 | Urby Ofazeroth |
-| 2026 | 11 | Amber Renee |
-| 2027 | 11 | Brave Shatterer |
-| 2028 | 11 | Cool Strikerpiece |
-| 2029 | 11 | Breezy Mover |
-| 2030 | 11 | Preston Miller |
-| 2031 | 11 | Tony Crowell |
-| 2032 | 11 | Nathan Wayne Hall |
-| 2033 | 11 | Adarsh Shrivastava |
-| 2034 | 11 | Robert Grant Worthen |
-| 2035 | 11 | Gretchen Smith |
-| 2036 | 11 | Duke E. Finley Jr. |
-| 2037 | 11 | Crystal Austin |
-| 2038 | 11 | Slinky Cascader |
-| 2039 | 11 | Perky Liner |
-| 2040 | 11 | Jumpy Blockline |
-| 2041 | 11 | Dominic Dixon |
-| 2042 | 11 | Rick Larrecou |
-| 2043 | 11 | Jud Retzlaff |
-| 2044 | 11 | Rashel |
-| 2045 | 10 | Tamela Harvey |
-| 2046 | 10 | Vicky Vallejo |
-| 2047 | 10 | p3ttyboop |
-| 2048 | 10 | Fawn Gibbs |
-| 2049 | 10 | Groovy Stacker |
-| 2050 | 10 | LDillyDaSilly |
-| 2051 | 10 | Joyful Narajo |
-| 2052 | 10 | Vilsen Zamarripa |
-| 2053 | 10 | Suerena Melton |
-| 2054 | 10 | Loopy Basepiece |
-| 2055 | 10 | Kathy Lott |
-| 2056 | 10 | Beverly Tackett |
-| 2057 | 10 | Bubblez |
-| 2058 | 10 | Lazy Brickbuilder |
-| 2059 | 10 | Jakorah Musto |
+| 2023 | 12 | Penny |
+| 2024 | 12 | Jakorah Musto |
+| 2025 | 12 | Kiara Johnson |
+| 2026 | 12 | Slappy Blackhead |
+| 2027 | 11 | Cool Strikerpiece |
+| 2028 | 11 | Breezy Mover |
+| 2029 | 11 | Amber Renee |
+| 2030 | 11 | Brave Shatterer |
+| 2031 | 11 | Preston Miller |
+| 2032 | 11 | Adarsh Shrivastava |
+| 2033 | 11 | Tony Crowell |
+| 2034 | 11 | Nathan Wayne Hall |
+| 2035 | 11 | Robert Grant Worthen |
+| 2036 | 11 | Gretchen Smith |
+| 2037 | 11 | Duke E. Finley Jr. |
+| 2038 | 11 | Crystal Austin |
+| 2039 | 11 | Slinky Cascader |
+| 2040 | 11 | Perky Liner |
+| 2041 | 11 | Jumpy Blockline |
+| 2042 | 11 | Dominic Dixon |
+| 2043 | 11 | Rick Larrecou |
+| 2044 | 11 | Jud Retzlaff |
+| 2045 | 11 | Rashel |
+| 2046 | 10 | Tamela Harvey |
+| 2047 | 10 | Vicky Vallejo |
+| 2048 | 10 | p3ttyboop |
+| 2049 | 10 | Fawn Gibbs |
+| 2050 | 10 | Groovy Stacker |
+| 2051 | 10 | LDillyDaSilly |
+| 2052 | 10 | Joyful Narajo |
+| 2053 | 10 | Vilsen Zamarripa |
+| 2054 | 10 | Suerena Melton |
+| 2055 | 10 | Loopy Basepiece |
+| 2056 | 10 | Kathy Lott |
+| 2057 | 10 | Beverly Tackett |
+| 2058 | 10 | Bubblez |
+| 2059 | 10 | Lazy Brickbuilder |
 | 2060 | 10 | Bryan Sprong |
 | 2061 | 10 | Shmaka |
 | 2062 | 10 | Zoey |
