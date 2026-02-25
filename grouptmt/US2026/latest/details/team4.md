@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 20:38:44 UTC
+# Standings for team4 as of 2026-02-25 20:39:23 UTC
 
 **Total Participants:** 2260
 
@@ -310,9 +310,9 @@
 | 302 | 480 | Lindsay Ball |
 | 303 | 479 | Selena Shaw |
 | 304 | 477 | Jen Caldwell |
-| 305 | 473 | TinyLegoRose |
-| 306 | 471 | ChasingZen |
-| 307 | 471 | Twisty Risebuilder |
+| 305 | 473 | Twisty Risebuilder |
+| 306 | 473 | TinyLegoRose |
+| 307 | 471 | ChasingZen |
 | 308 | 471 | Montiette Mcglown |
 | 309 | 470 | Lee Silpe |
 | 310 | 469 | Nig |
@@ -631,33 +631,33 @@
 | 623 | 260 | Daniel Gazcon |
 | 624 | 259 | Brandon Link |
 | 625 | 258 | Michelle McCutcheon |
-| 626 | 258 | Marcela Johnson |
-| 627 | 258 | Dante Korleon |
-| 628 | 257 | Red |
-| 629 | 257 | 2slo |
-| 630 | 257 | Shon Woodland |
-| 631 | 257 | Maria Larsen |
-| 632 | 257 | Jennifer Marsella |
-| 633 | 256 | Josh Chapell |
-| 634 | 256 | Lonnie Brown |
-| 635 | 256 | Katherine Crane |
+| 626 | 258 | Katherine Crane |
+| 627 | 258 | Marcela Johnson |
+| 628 | 258 | Dante Korleon |
+| 629 | 257 | Red |
+| 630 | 257 | Jennifer Marsella |
+| 631 | 257 | 2slo |
+| 632 | 257 | Shon Woodland |
+| 633 | 257 | Maria Larsen |
+| 634 | 256 | Josh Chapell |
+| 635 | 256 | Lonnie Brown |
 | 636 | 255 | Martha Lucinda Bishop |
-| 637 | 254 | Joey Riley |
+| 637 | 254 | Boldy Linkpiece |
 | 638 | 254 | Groovy Brickmatch |
-| 639 | 254 | Boldy Linkpiece |
-| 640 | 253 | Autum Leigh |
-| 641 | 253 | Lou Ie |
+| 639 | 254 | Joey Riley |
+| 640 | 253 | Lou Ie |
+| 641 | 253 | Autum Leigh |
 | 642 | 253 | Zach Kerbs |
 | 643 | 252 | Manuel Groleau |
 | 644 | 252 | Zesty Linkgrid |
 | 645 | 252 | Seraphim |
-| 646 | 251 | Peppy Drop |
-| 647 | 251 | Gilles Lanctot |
-| 648 | 251 | Katie McCabe |
-| 649 | 251 | Marco |
-| 650 | 251 | Carol Ricks Raymond |
-| 651 | 250 | Girldadtpa |
-| 652 | 250 | Ann G. Carrillo |
+| 646 | 251 | Marco |
+| 647 | 251 | Katie McCabe |
+| 648 | 251 | Carol Ricks Raymond |
+| 649 | 251 | Peppy Drop |
+| 650 | 251 | Gilles Lanctot |
+| 651 | 250 | Ann G. Carrillo |
+| 652 | 250 | Girldadtpa |
 | 653 | 249 | KyngKliff |
 | 654 | 248 | Chirpy Basepiece |
 | 655 | 248 | Jacob Campbell |
@@ -1966,85 +1966,85 @@
 | 1958 | 22 | Lofty Lue |
 | 1959 | 22 | Shy Ryan |
 | 1960 | 22 | jacob |
-| 1961 | 22 | Robert R Herrera |
-| 1962 | 22 | Christina Harrell |
-| 1963 | 22 | Mary Ann Denmark |
-| 1964 | 22 | Michael Byers |
+| 1961 | 22 | Michael Byers |
+| 1962 | 22 | Robert R Herrera |
+| 1963 | 22 | Christina Harrell |
+| 1964 | 22 | Mary Ann Denmark |
 | 1965 | 22 | Robert Kicklighter Jr. |
 | 1966 | 22 | Dreamy Twister |
-| 1967 | 22 | Francesca Teixeira |
-| 1968 | 22 | Shonda Hall-Broussard |
-| 1969 | 22 | Amy Rosen |
-| 1970 | 21 | Mat Ecker |
-| 1971 | 21 | Rochelle Lowden |
-| 1972 | 21 | Zappy Brick |
-| 1973 | 21 | Witty Snapper |
-| 1974 | 21 | Sweetblast |
-| 1975 | 21 | Nicolette Mercado |
+| 1967 | 22 | Shonda Hall-Broussard |
+| 1968 | 22 | Mr. B |
+| 1969 | 22 | Francesca Teixeira |
+| 1970 | 22 | Amy Rosen |
+| 1971 | 21 | Witty Snapper |
+| 1972 | 21 | Rochelle Lowden |
+| 1973 | 21 | Zappy Brick |
+| 1974 | 21 | Nicolette Mercado |
+| 1975 | 21 | Sweetblast |
 | 1976 | 21 | Chill Gridmatch |
 | 1977 | 21 | Chasinglight |
 | 1978 | 21 | Brandon Fowler |
-| 1979 | 21 | Khalil |
-| 1980 | 20 | Annette Warnke |
-| 1981 | 20 | Samantha Hamilton |
-| 1982 | 20 | Blandy Salerno |
-| 1983 | 20 | Dale Lindsey |
-| 1984 | 20 | Liz Turner |
-| 1985 | 20 | Sally Orvis |
-| 1986 | 20 | Leigh Kenyon |
-| 1987 | 20 | Brian Madden |
-| 1988 | 20 | Ctrl |
-| 1989 | 20 | Lush Cascadeclear |
-| 1990 | 20 | Dre Dre |
-| 1991 | 20 | Fyh |
-| 1992 | 20 | Reba Gray |
-| 1993 | 20 | Malisa Brookins |
+| 1979 | 21 | Mat Ecker |
+| 1980 | 21 | Khalil |
+| 1981 | 20 | Dale Lindsey |
+| 1982 | 20 | Annette Warnke |
+| 1983 | 20 | Reba Gray |
+| 1984 | 20 | Samantha Hamilton |
+| 1985 | 20 | Blandy Salerno |
+| 1986 | 20 | Liz Turner |
+| 1987 | 20 | Sally Orvis |
+| 1988 | 20 | Leigh Kenyon |
+| 1989 | 20 | Brian Madden |
+| 1990 | 20 | Lush Cascadeclear |
+| 1991 | 20 | Dre Dre |
+| 1992 | 20 | Ctrl |
+| 1993 | 20 | Fyh |
 | 1994 | 20 | Jen Clemmer |
 | 1995 | 20 | KID |
 | 1996 | 20 | Charli Vinson |
-| 1997 | 20 | Demitrius Davis |
-| 1998 | 19 | Mr. B |
-| 1999 | 19 | Chirpy Twistpiece |
-| 2000 | 19 | Weather Garcia |
-| 2001 | 19 | T-Spinna |
-| 2002 | 19 | Bawse Dealz |
-| 2003 | 19 | Victoria Teasley |
-| 2004 | 19 | Pooh |
-| 2005 | 19 | ADORABLE Ryan |
-| 2006 | 19 | Justin Petty |
-| 2007 | 19 | Frilly Rollfit |
-| 2008 | 19 | Justin Decker |
-| 2009 | 19 | Finn |
-| 2010 | 19 | Jim Joplin |
-| 2011 | 19 | Bienlis Paulino |
-| 2012 | 19 | Dreamy Shuffler |
-| 2013 | 18 | Minion radish |
-| 2014 | 18 | Vilma N Puruco Rodriguez |
-| 2015 | 18 | RadioAct |
-| 2016 | 18 | yinkaan |
-| 2017 | 18 | Jadiel Bermudez |
-| 2018 | 18 | Tonya Beverly |
-| 2019 | 18 | Michaele Wagner |
-| 2020 | 18 | Roslyn Fitzgerald |
-| 2021 | 18 | Sylvia Fox |
-| 2022 | 18 | Aianna Buist |
-| 2023 | 18 | Jessy Ford |
-| 2024 | 18 | shaylyn |
-| 2025 | 18 | Sammie Manuel |
-| 2026 | 18 | Degenerate |
-| 2027 | 17 | Nutty Grid |
-| 2028 | 17 | Stephanie Nash |
+| 1997 | 20 | Malisa Brookins |
+| 1998 | 20 | Demitrius Davis |
+| 1999 | 19 | Justin Decker |
+| 2000 | 19 | Frilly Rollfit |
+| 2001 | 19 | Weather Garcia |
+| 2002 | 19 | T-Spinna |
+| 2003 | 19 | ADORABLE Ryan |
+| 2004 | 19 | Dreamy Shuffler |
+| 2005 | 19 | Chirpy Twistpiece |
+| 2006 | 19 | Pooh |
+| 2007 | 19 | Finn |
+| 2008 | 19 | Jim Joplin |
+| 2009 | 19 | Victoria Teasley |
+| 2010 | 19 | Bienlis Paulino |
+| 2011 | 19 | Bawse Dealz |
+| 2012 | 19 | Justin Petty |
+| 2013 | 18 | Aianna Buist |
+| 2014 | 18 | Jadiel Bermudez |
+| 2015 | 18 | Michaele Wagner |
+| 2016 | 18 | Vilma N Puruco Rodriguez |
+| 2017 | 18 | Sammie Manuel |
+| 2018 | 18 | shaylyn |
+| 2019 | 18 | Degenerate |
+| 2020 | 18 | RadioAct |
+| 2021 | 18 | Roslyn Fitzgerald |
+| 2022 | 18 | Tonya Beverly |
+| 2023 | 18 | Sylvia Fox |
+| 2024 | 18 | yinkaan |
+| 2025 | 18 | Minion radish |
+| 2026 | 18 | Jessy Ford |
+| 2027 | 17 | Stephanie Nash |
+| 2028 | 17 | Nutty Grid |
 | 2029 | 17 | Jae Son |
-| 2030 | 17 | Wacky Strikerpiece |
-| 2031 | 17 | Conni Brown |
-| 2032 | 17 | Dandre |
-| 2033 | 17 | Breezy Balance |
-| 2034 | 17 | Chummy Twistpiece |
-| 2035 | 17 | Kyawt Sandi Thwe |
-| 2036 | 16 | Mery wey |
-| 2037 | 16 | Eyevie Dclxvi |
-| 2038 | 16 | Leann Proctor |
-| 2039 | 16 | Ross Shaquan |
+| 2030 | 17 | Conni Brown |
+| 2031 | 17 | Breezy Balance |
+| 2032 | 17 | Chummy Twistpiece |
+| 2033 | 17 | Kyawt Sandi Thwe |
+| 2034 | 17 | Dandre |
+| 2035 | 17 | Wacky Strikerpiece |
+| 2036 | 16 | Leann Proctor |
+| 2037 | 16 | Mery wey |
+| 2038 | 16 | Ross Shaquan |
+| 2039 | 16 | Eyevie Dclxvi |
 | 2040 | 16 | The Contender |
 | 2041 | 16 | Orin Whitbeck |
 | 2042 | 16 | Amanda Sansoucie |
