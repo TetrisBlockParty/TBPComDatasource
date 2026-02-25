@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 15:02:44 UTC
+# Standings for team4 as of 2026-02-25 15:03:23 UTC
 
 **Total Participants:** 2217
 
@@ -81,17 +81,17 @@
 | 73 | 1220 | Ashley Ingram |
 | 74 | 1218 | Jewell Urban |
 | 75 | 1217 | Alyssa Papen |
-| 76 | 1213 | Avy Absol |
-| 77 | 1213 | Peachy Fall |
+| 76 | 1213 | Peachy Fall |
+| 77 | 1213 | Avy Absol |
 | 78 | 1211 | TeeJ |
 | 79 | 1204 | Shannon Ferrari |
 | 80 | 1186 | Patron Anderson |
 | 81 | 1178 | SAP |
 | 82 | 1175 | Kimyatta Cavin |
 | 83 | 1171 | Carolyn Wallace |
-| 84 | 1140 | Guy Incognito |
-| 85 | 1128 | Destiney Carter |
-| 86 | 1126 | Girl |
+| 84 | 1163 | Girl |
+| 85 | 1140 | Guy Incognito |
+| 86 | 1128 | Destiney Carter |
 | 87 | 1121 | BertMofo |
 | 88 | 1115 | Chaz Duncan |
 | 89 | 1082 | Dion Crommarty |
@@ -162,10 +162,10 @@
 | 154 | 741 | Jacqueline Helm |
 | 155 | 739 | Raegan Lane-Ross |
 | 156 | 739 | Rodney McMath Jr. |
-| 157 | 739 | Berklie Apedaile |
-| 158 | 739 | George Nutt |
-| 159 | 735 | Lori |
-| 160 | 735 | Chilly Crasher |
+| 157 | 739 | George Nutt |
+| 158 | 739 | Berklie Apedaile |
+| 159 | 735 | Chilly Crasher |
+| 160 | 735 | Lori |
 | 161 | 733 | Cursed Hag |
 | 162 | 732 | Jessi Cinotto |
 | 163 | 731 | KJ Pool |
@@ -214,13 +214,13 @@
 | 206 | 612 | Autumn Kumzi |
 | 207 | 607 | Twisty Clicky |
 | 208 | 607 | Cool Towerbuilder |
-| 209 | 600 | Antony Dwayne Beasley |
-| 210 | 600 | Trish |
-| 211 | 596 | Carly Alexis |
-| 212 | 596 | Jessica Bohlken |
-| 213 | 595 | Andria Lynn |
-| 214 | 593 | Jeff Brian Gates |
-| 215 | 592 | Kesha Brady |
+| 209 | 600 | Trish |
+| 210 | 600 | Antony Dwayne Beasley |
+| 211 | 598 | Kesha Brady |
+| 212 | 596 | Carly Alexis |
+| 213 | 596 | Jessica Bohlken |
+| 214 | 595 | Andria Lynn |
+| 215 | 593 | Jeff Brian Gates |
 | 216 | 592 | meowmew |
 | 217 | 592 | Kristin Manee |
 | 218 | 590 | Carlton Unfiltered |
@@ -508,9 +508,9 @@
 | 500 | 310 | 中山成巳 |
 | 501 | 309 | Kevin Blevins |
 | 502 | 308 | GBR |
-| 503 | 308 | Robert Bolden |
-| 504 | 308 | Bethany Ison |
-| 505 | 308 | Angela Geist Jusinski |
+| 503 | 308 | Bethany Ison |
+| 504 | 308 | Angela Geist Jusinski |
+| 505 | 308 | Robert Bolden |
 | 506 | 307 | kaeliwyn |
 | 507 | 306 | PeaceOs |
 | 508 | 305 | Stacy Jones |
@@ -1058,28 +1058,28 @@
 | 1050 | 127 | Mighty Blockzone |
 | 1051 | 127 | Danelle Sulentic |
 | 1052 | 127 | Clever Breaker |
-| 1053 | 126 | PAPatty |
-| 1054 | 126 | Ian Starnes |
-| 1055 | 126 | Tasha |
-| 1056 | 126 | Bob N Alisha Hinojosa |
-| 1057 | 126 | Spicy Cascadezone |
-| 1058 | 126 | amy |
-| 1059 | 125 | Liliveth |
-| 1060 | 125 | Rob Chebetar |
-| 1061 | 125 | Crystal Canfield |
-| 1062 | 125 | Carlos G Reyes |
-| 1063 | 124 | Brenda Bird |
-| 1064 | 124 | Brandi Marks |
+| 1053 | 126 | Ian Starnes |
+| 1054 | 126 | PAPatty |
+| 1055 | 126 | Spicy Cascadezone |
+| 1056 | 126 | Brenda Bird |
+| 1057 | 126 | Bob N Alisha Hinojosa |
+| 1058 | 126 | Tasha |
+| 1059 | 126 | amy |
+| 1060 | 125 | Liliveth |
+| 1061 | 125 | Carlos G Reyes |
+| 1062 | 125 | Crystal Canfield |
+| 1063 | 125 | Rob Chebetar |
+| 1064 | 124 | UJ Mate |
 | 1065 | 124 | Loopy Bouncer |
-| 1066 | 124 | UJ Mate |
-| 1067 | 124 | Bamm Grundie |
+| 1066 | 124 | Bamm Grundie |
+| 1067 | 124 | Brandi Marks |
 | 1068 | 123 | Alee Marie |
 | 1069 | 123 | Ashley Lynn Shannon |
 | 1070 | 123 | April Washington |
 | 1071 | 123 | Leah Landry |
 | 1072 | 123 | canglem |
-| 1073 | 122 | Michelle Abrams |
-| 1074 | 122 | Tracey Oger |
+| 1073 | 122 | Tracey Oger |
+| 1074 | 122 | Michelle Abrams |
 | 1075 | 122 | 805 |
 | 1076 | 122 | Robin Visintainer |
 | 1077 | 121 | Frothy Patterner |
@@ -1410,64 +1410,64 @@
 | 1402 | 70 | Anthony Caldwell |
 | 1403 | 70 | PlatinumRose |
 | 1404 | 70 | Autumn Leslie |
-| 1405 | 70 | Tammi Harne |
-| 1406 | 70 | Kayd |
+| 1405 | 70 | Kayd |
+| 1406 | 70 | Tammi Harne |
 | 1407 | 70 | Ayanna James |
 | 1408 | 70 | Ruben Perez |
 | 1409 | 70 | Blockin88 |
 | 1410 | 70 | StarChild |
-| 1411 | 70 | Boldy Twistline |
+| 1411 | 70 | Aaron Wilkins |
 | 1412 | 70 | Br23klyn |
-| 1413 | 70 | Aaron Wilkins |
+| 1413 | 70 | Boldy Twistline |
 | 1414 | 70 | Donnie Istillwill Straub |
 | 1415 | 69 | Gia Mims |
 | 1416 | 69 | Jeremy Jaubert |
-| 1417 | 69 | Brittanny Simpson |
-| 1418 | 69 | Dragon De Fuego |
+| 1417 | 69 | Dragon De Fuego |
+| 1418 | 69 | James Prickett |
 | 1419 | 69 | ZZZZZZZ |
-| 1420 | 69 | James Prickett |
+| 1420 | 69 | Brittanny Simpson |
 | 1421 | 68 | Nicki nikki87 |
-| 1422 | 68 | zelda Morgan |
+| 1422 | 68 | James Antill |
 | 1423 | 68 | Anne-Marie Reyes |
-| 1424 | 68 | James Antill |
-| 1425 | 68 | combatmac |
-| 1426 | 68 | Chauncy Ramone Martin |
+| 1424 | 68 | Chauncy Ramone Martin |
+| 1425 | 68 | zelda Morgan |
+| 1426 | 68 | combatmac |
 | 1427 | 68 | OneBuke FollowMe |
-| 1428 | 68 | Camyra Dunnigan |
-| 1429 | 68 | Derwin Dewayne Mosby |
-| 1430 | 68 | Chris Lee |
-| 1431 | 67 | Daring Matchfit |
-| 1432 | 67 | Minot4444 |
-| 1433 | 67 | TrillVille |
+| 1428 | 68 | Shaterika Tunie King |
+| 1429 | 68 | Camyra Dunnigan |
+| 1430 | 68 | Derwin Dewayne Mosby |
+| 1431 | 68 | Chris Lee |
+| 1432 | 67 | Hasty Matchgrid |
+| 1433 | 67 | Minot4444 |
 | 1434 | 67 | Fritzi Phillips |
-| 1435 | 67 | Lanee Morgan |
-| 1436 | 67 | Hasty Matchgrid |
+| 1435 | 67 | TrillVille |
+| 1436 | 67 | Lanee Morgan |
 | 1437 | 67 | Jazzy Cascadezone |
-| 1438 | 67 | Tj Colman |
-| 1439 | 67 | Amanda Loren |
+| 1438 | 67 | Daring Matchfit |
+| 1439 | 67 | Tj Colman |
 | 1440 | 67 | Anita Kramer |
-| 1441 | 67 | Nancy Banning |
-| 1442 | 67 | Pipiska |
-| 1443 | 66 | Theodore Vincent |
-| 1444 | 66 | Coflowers |
-| 1445 | 66 | Nadine Simone Jackwin |
-| 1446 | 66 | Jerry Ruff |
-| 1447 | 66 | Giggly Caster |
-| 1448 | 66 | Mighty T-spin |
-| 1449 | 65 | Deb Lilja |
-| 1450 | 65 | Ashley Gilland |
-| 1451 | 65 | Shelly Matthews |
-| 1452 | 65 | Barcelos |
-| 1453 | 65 | Dean Masters |
-| 1454 | 65 | Lazy Shatterfit |
-| 1455 | 65 | Daws |
-| 1456 | 64 | Jacqueline Brosius |
-| 1457 | 64 | Lush Basegrid |
-| 1458 | 64 | Kemal Topko |
-| 1459 | 64 | Phyllis Wilson |
+| 1441 | 67 | Amanda Loren |
+| 1442 | 67 | Nancy Banning |
+| 1443 | 67 | Pipiska |
+| 1444 | 66 | Theodore Vincent |
+| 1445 | 66 | Coflowers |
+| 1446 | 66 | Nadine Simone Jackwin |
+| 1447 | 66 | Jerry Ruff |
+| 1448 | 66 | Giggly Caster |
+| 1449 | 66 | Mighty T-spin |
+| 1450 | 65 | Deb Lilja |
+| 1451 | 65 | Ashley Gilland |
+| 1452 | 65 | Shelly Matthews |
+| 1453 | 65 | Barcelos |
+| 1454 | 65 | Dean Masters |
+| 1455 | 65 | Lazy Shatterfit |
+| 1456 | 65 | Daws |
+| 1457 | 64 | Jacqueline Brosius |
+| 1458 | 64 | Lush Basegrid |
+| 1459 | 64 | Kemal Topko |
 | 1460 | 64 | Audrey Hammock |
-| 1461 | 64 | Amy Anderson-Franks |
-| 1462 | 64 | Shaterika Tunie King |
+| 1461 | 64 | Phyllis Wilson |
+| 1462 | 64 | Amy Anderson-Franks |
 | 1463 | 64 | Jennifer Hunt |
 | 1464 | 64 | Kenny Hutchens |
 | 1465 | 63 | peekaboo |

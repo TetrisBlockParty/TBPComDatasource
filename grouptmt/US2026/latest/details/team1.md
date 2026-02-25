@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 15:02:44 UTC
+# Standings for team1 as of 2026-02-25 15:03:23 UTC
 
 **Total Participants:** 2482
 
@@ -880,31 +880,31 @@
 | 872 | 182 | Alfredo Vasquez |
 | 873 | 181 | Shannon Hawkins |
 | 874 | 181 | Daring Roll |
-| 875 | 181 | Carmen Estrada |
-| 876 | 181 | Julie Marie Hernandez |
-| 877 | 181 | Gabriel Morales |
-| 878 | 181 | Heather Coleman |
-| 879 | 180 | Nicole Bryant |
-| 880 | 180 | forevernght |
-| 881 | 180 | Traci Schmeer |
+| 875 | 181 | Heather Coleman |
+| 876 | 181 | Gabriel Morales |
+| 877 | 181 | Julie Marie Hernandez |
+| 878 | 181 | Carmen Estrada |
+| 879 | 180 | PeppyPenguin |
+| 880 | 180 | Nicole Bryant |
+| 881 | 180 | Theresa Nicole |
 | 882 | 180 | Irual Hctrab |
-| 883 | 180 | Tiffany N Danny Martinez |
-| 884 | 180 | Theresa Nicole |
-| 885 | 179 | Kathy Murphy |
+| 883 | 180 | forevernght |
+| 884 | 180 | Traci Schmeer |
+| 885 | 180 | Tiffany N Danny Martinez |
 | 886 | 179 | Jason Helwig |
-| 887 | 179 | Ryan White |
-| 888 | 179 | Giddy Balancepiece |
-| 889 | 179 | Christa Ybarra |
-| 890 | 178 | Sunny Column |
-| 891 | 178 | Gayle Costa-Matz |
-| 892 | 178 | Angel Albright |
-| 893 | 178 | PeppyPenguin |
-| 894 | 178 | Camio30 |
-| 895 | 178 | Laurie LeCroy |
-| 896 | 177 | Twisty Wobbler |
-| 897 | 177 | Sharon Francis |
-| 898 | 177 | Steven Schultheis |
-| 899 | 177 | Jessica Venable |
+| 887 | 179 | Christa Ybarra |
+| 888 | 179 | Kathy Murphy |
+| 889 | 179 | Ryan White |
+| 890 | 179 | Giddy Balancepiece |
+| 891 | 178 | Laurie LeCroy |
+| 892 | 178 | Sunny Column |
+| 893 | 178 | Camio30 |
+| 894 | 178 | Angel Albright |
+| 895 | 178 | Gayle Costa-Matz |
+| 896 | 177 | Steven Schultheis |
+| 897 | 177 | Jessica Venable |
+| 898 | 177 | Sharon Francis |
+| 899 | 177 | Twisty Wobbler |
 | 900 | 177 | Sara Buuck |
 | 901 | 176 | kels |
 | 902 | 176 | Aimee Horton |
