@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 09:14:46 UTC
+# Standings for team1 as of 2026-02-25 09:15:21 UTC
 
 **Total Participants:** 2448
 
@@ -187,15 +187,15 @@
 | 179 | 629 | Chase Collinsworth |
 | 180 | 623 | Jessie Welch |
 | 181 | 623 | Jessi Sauer |
-| 182 | 620 | Νεφ Όνυξ |
+| 182 | 622 | Νεφ Όνυξ |
 | 183 | 616 | Sleepysloath5745 |
-| 184 | 615 | BadG52 |
-| 185 | 615 | Timothy Danaher |
-| 186 | 609 | Deanna L Hermanson |
-| 187 | 606 | Brandi Huntington |
-| 188 | 604 | Sarah Lombardo |
-| 189 | 600 | Arianna O'Brien |
-| 190 | 599 | Loony Fitzone |
+| 184 | 615 | Timothy Danaher |
+| 185 | 615 | BadG52 |
+| 186 | 612 | Loony Fitzone |
+| 187 | 609 | Deanna L Hermanson |
+| 188 | 606 | Brandi Huntington |
+| 189 | 604 | Sarah Lombardo |
+| 190 | 600 | Arianna O'Brien |
 | 191 | 597 | Jumpy Dropper |
 | 192 | 596 | Nicole Roseberry Weber |
 | 193 | 593 | GATOR |
@@ -296,11 +296,11 @@
 | 288 | 445 | Sylvia Vasquez |
 | 289 | 445 | Emily Adelaide Wheatley |
 | 290 | 445 | Tetrisqn |
-| 291 | 444 | Lakeisha Chapman |
-| 292 | 443 | Colleen Pinette |
-| 293 | 443 | MommaKFC |
-| 294 | 442 | GringaLinga |
-| 295 | 441 | Lynn Adams |
+| 291 | 444 | Lynn Adams |
+| 292 | 444 | Lakeisha Chapman |
+| 293 | 443 | Colleen Pinette |
+| 294 | 443 | MommaKFC |
+| 295 | 442 | GringaLinga |
 | 296 | 441 | Barrbaric |
 | 297 | 440 | Sarah Roberts |
 | 298 | 439 | Renee Tucker |
