@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 16:02:45 UTC
+# Standings for team1 as of 2026-02-25 16:03:24 UTC
 
 **Total Participants:** 2487
 
@@ -173,7 +173,7 @@
 | 165 | 698 | Jennifer Noe Chandler |
 | 166 | 698 | femmefatale |
 | 167 | 696 | Snippy Wipebuilder |
-| 168 | 691 | Evan Richmond |
+| 168 | 692 | Evan Richmond |
 | 169 | 686 | Jerry Danowski |
 | 170 | 684 | Chase Collinsworth |
 | 171 | 682 | .running. |
@@ -326,9 +326,9 @@
 | 318 | 439 | Angela Fairbank |
 | 319 | 438 | Melissa Bires Hussar |
 | 320 | 436 | Sarahdactyl |
-| 321 | 433 | Rachel Nilles |
-| 322 | 433 | Layzietyme |
-| 323 | 433 | whocares |
+| 321 | 434 | whocares |
+| 322 | 433 | Rachel Nilles |
+| 323 | 433 | Layzietyme |
 | 324 | 432 | Shiny Gridmatch |
 | 325 | 432 | SavageBooty98 |
 | 326 | 432 | Shanae Grant |
@@ -439,9 +439,9 @@
 | 431 | 362 | Jennifer Olewnik Soborowski |
 | 432 | 361 | Marci Sanders |
 | 433 | 361 | Rico Rico |
-| 434 | 360 | Rick Pickup Raymur |
-| 435 | 359 | Itspaigebro |
-| 436 | 359 | Christy LaSure |
+| 434 | 360 | Christy LaSure |
+| 435 | 360 | Rick Pickup Raymur |
+| 436 | 359 | Itspaigebro |
 | 437 | 358 | BigWeenie69 |
 | 438 | 357 | Amh |
 | 439 | 355 | Chummy Rollblock |
@@ -481,51 +481,51 @@
 | 473 | 336 | Mavria Comeaux Hinton |
 | 474 | 336 | Steven Collins |
 | 475 | 335 | Brenda L. Bunce |
-| 476 | 335 | John Barron |
-| 477 | 335 | GentleKitten7 |
-| 478 | 335 | Archie Ware |
+| 476 | 335 | GentleKitten7 |
+| 477 | 335 | Archie Ware |
+| 478 | 335 | John Barron |
 | 479 | 334 | Susie Loo |
-| 480 | 334 | Leslie Bush Yarbrough |
-| 481 | 334 | Chad Atchley |
+| 480 | 334 | Chad Atchley |
+| 481 | 334 | Leslie Bush Yarbrough |
 | 482 | 334 | Purple |
-| 483 | 333 | Vivienne Carter |
-| 484 | 332 | Danielle Mae |
+| 483 | 334 | Chilly Riserpiece |
+| 484 | 333 | Vivienne Carter |
 | 485 | 332 | Krie |
 | 486 | 332 | Scott Betson |
 | 487 | 332 | Charlie Walker |
-| 488 | 332 | Rock it |
-| 489 | 332 | Norma Paredez |
-| 490 | 330 | Joshua Weeder |
-| 491 | 330 | Rebecca Apley Mielke |
-| 492 | 329 | Michelle |
-| 493 | 329 | Mrsbigdawg |
-| 494 | 328 | Gerald Richard Franke |
-| 495 | 327 | Snappy Bridgepiece |
-| 496 | 327 | Agustin Duarte Orozco |
-| 497 | 327 | Barry Mac'Ockner |
-| 498 | 326 | Jason Benitez |
-| 499 | 323 | JaPria Rodgers |
-| 500 | 322 | Camelia Trevillion |
-| 501 | 322 | Ed Franz Jr |
-| 502 | 322 | Sunshine |
-| 503 | 322 | Chilly Riserpiece |
+| 488 | 332 | Norma Paredez |
+| 489 | 332 | Rock it |
+| 490 | 332 | Danielle Mae |
+| 491 | 330 | Joshua Weeder |
+| 492 | 330 | Rebecca Apley Mielke |
+| 493 | 329 | Michelle |
+| 494 | 329 | Mrsbigdawg |
+| 495 | 328 | Gerald Richard Franke |
+| 496 | 327 | Snappy Bridgepiece |
+| 497 | 327 | Agustin Duarte Orozco |
+| 498 | 327 | Barry Mac'Ockner |
+| 499 | 326 | Jason Benitez |
+| 500 | 323 | JaPria Rodgers |
+| 501 | 322 | Camelia Trevillion |
+| 502 | 322 | Ed Franz Jr |
+| 503 | 322 | Sunshine |
 | 504 | 321 | Neely Janelle Stewart |
 | 505 | 320 | Megan Kradzinski Ferguson |
 | 506 | 320 | Beffy |
 | 507 | 320 | Glitzy Buildsnap |
-| 508 | 319 | Bustin’ Blocks |
-| 509 | 319 | Panda Thagreat |
-| 510 | 319 | Blaire Bruckoff |
-| 511 | 319 | Larry Oaks |
+| 508 | 319 | Larry Oaks |
+| 509 | 319 | Bustin’ Blocks |
+| 510 | 319 | Panda Thagreat |
+| 511 | 319 | Blaire Bruckoff |
 | 512 | 318 | Lucile Lynn |
 | 513 | 317 | Blake Mckay |
 | 514 | 317 | Abbey Crespo |
-| 515 | 317 | Damian Salem |
-| 516 | 317 | Rikki Jo Creech |
+| 515 | 317 | Rikki Jo Creech |
+| 516 | 317 | Damian Salem |
 | 517 | 317 | Henry Lanier |
 | 518 | 317 | Melanie Kelley |
-| 519 | 316 | Tiffany Daboss Seymour |
-| 520 | 316 | Cool Balancer |
+| 519 | 316 | Cool Balancer |
+| 520 | 316 | Tiffany Daboss Seymour |
 | 521 | 315 | Tedashi |
 | 522 | 314 | Emmarieta Mendez |
 | 523 | 313 | Jade |
@@ -622,11 +622,11 @@
 | 614 | 265 | Khatia Sikharulidze |
 | 615 | 265 | Lauren Baxter |
 | 616 | 265 | Josh Smith |
-| 617 | 264 | Beau Galvan |
-| 618 | 264 | Angel Marie |
-| 619 | 264 | Frisky Risebuilder |
-| 620 | 263 | Blake Cobb |
-| 621 | 263 | Dandy Towerbuilder |
+| 617 | 265 | Dandy Towerbuilder |
+| 618 | 264 | Beau Galvan |
+| 619 | 264 | Angel Marie |
+| 620 | 264 | Frisky Risebuilder |
+| 621 | 263 | Blake Cobb |
 | 622 | 263 | Ja Ce |
 | 623 | 263 | Equinn |
 | 624 | 262 | Dee Doris Ewald Flynn |
@@ -960,10 +960,10 @@
 | 952 | 167 | Melissa Marckini |
 | 953 | 166 | Vicky Shull |
 | 954 | 166 | Alex Manieri |
-| 955 | 166 | Frisky Twistslam |
-| 956 | 165 | sassy |
-| 957 | 165 | Purple |
-| 958 | 165 | Amber Johnson-Grantham |
+| 955 | 166 | Amber Johnson-Grantham |
+| 956 | 166 | Frisky Twistslam |
+| 957 | 165 | sassy |
+| 958 | 165 | Purple |
 | 959 | 165 | Daring Tilerpiece |
 | 960 | 165 | Tazz |
 | 961 | 165 | Dante Jennings |
@@ -1052,11 +1052,11 @@
 | 1044 | 147 | uberdork124 |
 | 1045 | 147 | Daniel R Morgan |
 | 1046 | 146 | Dchielle |
-| 1047 | 146 | Kyle Baker |
-| 1048 | 146 | Robert Young |
-| 1049 | 146 | Lively Slammer |
-| 1050 | 145 | Cheery Zonegrid |
-| 1051 | 145 | Dreamy Brickclear |
+| 1047 | 146 | Dreamy Brickclear |
+| 1048 | 146 | Kyle Baker |
+| 1049 | 146 | Robert Young |
+| 1050 | 146 | Lively Slammer |
+| 1051 | 145 | Cheery Zonegrid |
 | 1052 | 145 | Tim Giacobone |
 | 1053 | 144 | Plucky Clearpiece |
 | 1054 | 144 | Penelope |
