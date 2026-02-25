@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 12:54:44 UTC
+# Standings for team1 as of 2026-02-25 12:55:22 UTC
 
 **Total Participants:** 2466
 
@@ -413,17 +413,17 @@
 | 405 | 369 | Quirky Pusher |
 | 406 | 369 | I Am |
 | 407 | 369 | Tiffany Smith |
-| 408 | 369 | Nathan William |
-| 409 | 368 | Katie Martin |
-| 410 | 368 | Shannon Marie Pitts |
-| 411 | 368 | Terri Rodela |
-| 412 | 368 | Larry Tilton |
-| 413 | 367 | Buggs |
-| 414 | 367 | Jessie |
-| 415 | 367 | Crystal Cheresnowsky |
-| 416 | 366 | J.F. Fields |
-| 417 | 365 | Hasty Columnbuilder |
-| 418 | 365 | Tipsy Builder |
+| 408 | 369 | Tipsy Builder |
+| 409 | 369 | Nathan William |
+| 410 | 368 | Katie Martin |
+| 411 | 368 | Shannon Marie Pitts |
+| 412 | 368 | Terri Rodela |
+| 413 | 368 | Larry Tilton |
+| 414 | 367 | Buggs |
+| 415 | 367 | Jessie |
+| 416 | 367 | Crystal Cheresnowsky |
+| 417 | 366 | J.F. Fields |
+| 418 | 365 | Hasty Columnbuilder |
 | 419 | 364 | Mary Love |
 | 420 | 364 | Shauna Loe |
 | 421 | 364 | dhardy |
