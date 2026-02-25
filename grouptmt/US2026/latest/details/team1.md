@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 02:18:43 UTC
+# Standings for team1 as of 2026-02-25 02:19:24 UTC
 
 **Total Participants:** 2369
 
@@ -368,11 +368,11 @@
 | 360 | 371 | Elizabeth Kubli |
 | 361 | 371 | Tanya Banks |
 | 362 | 371 | Brave Linkmatch |
-| 363 | 370 | Mrs.Patrica |
-| 364 | 369 | Christina Backer |
-| 365 | 367 | Crystal Cheresnowsky |
-| 366 | 366 | J.F. Fields |
-| 367 | 366 | san |
+| 363 | 370 | san |
+| 364 | 370 | Mrs.Patrica |
+| 365 | 369 | Christina Backer |
+| 366 | 367 | Crystal Cheresnowsky |
+| 367 | 366 | J.F. Fields |
 | 368 | 366 | Danielle Little-Daugherty |
 | 369 | 365 | Larry Tilton |
 | 370 | 365 | Shannon Marie Pitts |
@@ -429,9 +429,9 @@
 | 421 | 338 | Herm Junior |
 | 422 | 338 | Carl Claunch |
 | 423 | 337 | Nathan William |
-| 424 | 334 | Leslie Bush Yarbrough |
-| 425 | 334 | Quirky Pusher |
-| 426 | 333 | John Barron |
+| 424 | 335 | John Barron |
+| 425 | 334 | Leslie Bush Yarbrough |
+| 426 | 334 | Quirky Pusher |
 | 427 | 332 | Billie Dawn Sparks |
 | 428 | 332 | Nate Funk |
 | 429 | 332 | Susie Loo |
@@ -791,80 +791,80 @@
 | 783 | 189 | Kendra Powell |
 | 784 | 189 | Vivian Bush |
 | 785 | 189 | Sunny Catcher |
-| 786 | 189 | Trenna L Szczepaniak |
-| 787 | 189 | Alyssa Ingram |
+| 786 | 189 | Alyssa Ingram |
+| 787 | 189 | Trenna L Szczepaniak |
 | 788 | 188 | Giddy Clearbuilder |
 | 789 | 188 | Jay Tressler |
 | 790 | 187 | ply |
 | 791 | 187 | Dafna Kaplan-Garrahy |
 | 792 | 187 | Jessica Weed |
 | 793 | 187 | Michael Meyer |
-| 794 | 186 | Hdhshsn |
-| 795 | 186 | Donna Taliger Brigante |
+| 794 | 186 | Donna Taliger Brigante |
+| 795 | 186 | Hdhshsn |
 | 796 | 186 | Paul Osborne |
 | 797 | 186 | Chummy Risebuilder |
 | 798 | 185 | Uhog SF |
-| 799 | 185 | Matt Leroux |
-| 800 | 185 | Tim Russell |
-| 801 | 185 | Charlesa Burns |
-| 802 | 184 | Boldy Snapfit |
-| 803 | 184 | Erres Jones |
+| 799 | 185 | Charlesa Burns |
+| 800 | 185 | Matt Leroux |
+| 801 | 185 | Tim Russell |
+| 802 | 184 | Erres Jones |
+| 803 | 184 | Boldy Snapfit |
 | 804 | 183 | Gremb |
-| 805 | 182 | Jen Justus |
-| 806 | 182 | Amador López Martínez |
-| 807 | 182 | Mary Pelley |
-| 808 | 182 | Nekina Wright |
-| 809 | 182 | Alfredo Vasquez |
-| 810 | 182 | Wendy Welch |
-| 811 | 181 | Collette Frank |
-| 812 | 181 | Julie Marie Hernandez |
-| 813 | 181 | Shannon Hawkins |
-| 814 | 181 | Daring Roll |
-| 815 | 181 | Carmen Estrada |
-| 816 | 180 | squareMel |
-| 817 | 180 | Theresa Nicole |
-| 818 | 180 | Poppy Drop |
-| 819 | 180 | William Cry |
+| 805 | 182 | Mary Pelley |
+| 806 | 182 | Nekina Wright |
+| 807 | 182 | Alfredo Vasquez |
+| 808 | 182 | Wendy Welch |
+| 809 | 182 | Amador López Martínez |
+| 810 | 182 | Jen Justus |
+| 811 | 181 | Giggly Brickbuilder |
+| 812 | 181 | Shannon Hawkins |
+| 813 | 181 | Collette Frank |
+| 814 | 181 | Carmen Estrada |
+| 815 | 181 | Daring Roll |
+| 816 | 181 | Julie Marie Hernandez |
+| 817 | 180 | William Cry |
+| 818 | 180 | Tesia Solano |
+| 819 | 180 | Nicole Bryant |
 | 820 | 180 | Irual Hctrab |
 | 821 | 180 | Traci Schmeer |
-| 822 | 180 | Tesia Solano |
-| 823 | 180 | Nicole Bryant |
-| 824 | 179 | Kelly Sutton |
+| 822 | 180 | Theresa Nicole |
+| 823 | 180 | squareMel |
+| 824 | 180 | Poppy Drop |
 | 825 | 179 | Ward Leandrea |
-| 826 | 179 | Ryan White |
-| 827 | 179 | Christa Ybarra |
-| 828 | 179 | Jason Helwig |
-| 829 | 178 | Jodee Woods |
+| 826 | 179 | Jason Helwig |
+| 827 | 179 | Ryan White |
+| 828 | 179 | Kelly Sutton |
+| 829 | 179 | Christa Ybarra |
 | 830 | 178 | Gabrielle Louise Malloch |
 | 831 | 178 | Camio30 |
-| 832 | 177 | elijahbih |
-| 833 | 177 | Jamie Farrar |
-| 834 | 177 | Sharon Francis |
-| 835 | 177 | Crystal Joslin |
-| 836 | 177 | Twisty Wobbler |
+| 832 | 178 | Jodee Woods |
+| 833 | 177 | elijahbih |
+| 834 | 177 | Jamie Farrar |
+| 835 | 177 | Sharon Francis |
+| 836 | 177 | Crystal Joslin |
 | 837 | 177 | Jessica Venable |
-| 838 | 176 | Giggly Brickbuilder |
+| 838 | 177 | Twisty Wobbler |
 | 839 | 176 | Aimee Horton |
-| 840 | 176 | Armand Drayton |
+| 840 | 176 | Jai Pahpasay |
 | 841 | 176 | Heather Martin |
 | 842 | 176 | VaSharon Crenshaw |
 | 843 | 176 | kels |
-| 844 | 176 | Jai Pahpasay |
-| 845 | 175 | Michaela Wakefield |
-| 846 | 175 | Suzanne |
-| 847 | 175 | Walter Brown |
-| 848 | 175 | Whatz |
+| 844 | 176 | Armand Drayton |
+| 845 | 175 | Suzanne |
+| 846 | 175 | Whatz |
+| 847 | 175 | Michaela Wakefield |
+| 848 | 175 | Walter Brown |
 | 849 | 174 | Margie Olivas |
-| 850 | 174 | Grady Lynch |
-| 851 | 174 | Nicholes Stanley |
+| 850 | 174 | Nicholes Stanley |
+| 851 | 174 | Grady Lynch |
 | 852 | 173 | Patience D. Williams |
-| 853 | 172 | forevernght |
-| 854 | 172 | Francine-frankie Ritzio-Rizzo |
-| 855 | 172 | Melinda Perry Frazier |
-| 856 | 172 | Charla Pross-Fugleberg |
-| 857 | 171 | thtgood |
-| 858 | 171 | Greg Premoe |
-| 859 | 171 | Brian |
+| 853 | 172 | Melinda Perry Frazier |
+| 854 | 172 | Charla Pross-Fugleberg |
+| 855 | 172 | forevernght |
+| 856 | 172 | Francine-frankie Ritzio-Rizzo |
+| 857 | 171 | Brian |
+| 858 | 171 | thtgood |
+| 859 | 171 | Greg Premoe |
 | 860 | 170 | Mariah Cornell |
 | 861 | 170 | Bold Glide |
 | 862 | 170 | Aleea Six |
@@ -1490,33 +1490,33 @@
 | 1482 | 65 | Colton Samantha Lester |
 | 1483 | 65 | Kayla |
 | 1484 | 65 | Stephanie Twoallbeefpattiez Johnson |
-| 1485 | 65 | Missy Anderson |
-| 1486 | 65 | Jessica Kelsey |
-| 1487 | 65 | Jessica Lang |
-| 1488 | 64 | Brave Tiley |
-| 1489 | 64 | Kimi Kay Anderson |
-| 1490 | 64 | Home Plate |
-| 1491 | 64 | Jerred Hunter |
-| 1492 | 64 | BlackberryCobbler |
-| 1493 | 64 | Jason Aleshire |
-| 1494 | 64 | Hank |
+| 1485 | 65 | Amy Mancini |
+| 1486 | 65 | Missy Anderson |
+| 1487 | 65 | Jessica Kelsey |
+| 1488 | 65 | Jessica Lang |
+| 1489 | 64 | Hank |
+| 1490 | 64 | Kimi Kay Anderson |
+| 1491 | 64 | Home Plate |
+| 1492 | 64 | Jerred Hunter |
+| 1493 | 64 | BlackberryCobbler |
+| 1494 | 64 | Jason Aleshire |
 | 1495 | 64 | Cool Balancer |
 | 1496 | 64 | Kenneth Ray Steiner |
 | 1497 | 64 | Giggy Crusher |
 | 1498 | 64 | Twisty Rollbuilder |
-| 1499 | 63 | Darrell Mcdonnell |
-| 1500 | 63 | Lincon |
-| 1501 | 63 | Mike Kimes |
-| 1502 | 63 | Amy Hoats |
-| 1503 | 63 | Shea Hall |
-| 1504 | 63 | Goofy Blockroll |
-| 1505 | 63 | Shelley Dose |
-| 1506 | 63 | Cari Brown Cady |
-| 1507 | 63 | Witty Frame |
-| 1508 | 63 | Arthur James Watson |
-| 1509 | 63 | Max R Eble |
-| 1510 | 63 | Elania Marie Degrez |
-| 1511 | 62 | Amy Mancini |
+| 1499 | 64 | Brave Tiley |
+| 1500 | 63 | Shea Hall |
+| 1501 | 63 | Darrell Mcdonnell |
+| 1502 | 63 | Lincon |
+| 1503 | 63 | Mike Kimes |
+| 1504 | 63 | Amy Hoats |
+| 1505 | 63 | Goofy Blockroll |
+| 1506 | 63 | Shelley Dose |
+| 1507 | 63 | Cari Brown Cady |
+| 1508 | 63 | Witty Frame |
+| 1509 | 63 | Arthur James Watson |
+| 1510 | 63 | Max R Eble |
+| 1511 | 63 | Elania Marie Degrez |
 | 1512 | 62 | Rooster |
 | 1513 | 62 | Kishi |
 | 1514 | 62 | Michael Campbell |
