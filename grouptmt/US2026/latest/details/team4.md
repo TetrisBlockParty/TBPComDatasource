@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 13:32:45 UTC
+# Standings for team4 as of 2026-02-25 13:33:22 UTC
 
 **Total Participants:** 2210
 
@@ -38,9 +38,9 @@
 | 30 | 2082 | Rachel Anne |
 | 31 | 2077 | Landon Keith Graffeo |
 | 32 | 1997 | Johnny Yang Cotter |
-| 33 | 1966 | Rebecca Moulton Pinciaro |
-| 34 | 1962 | Cool Buildout |
-| 35 | 1949 | Dustin Robert |
+| 33 | 1967 | Dustin Robert |
+| 34 | 1966 | Rebecca Moulton Pinciaro |
+| 35 | 1962 | Cool Buildout |
 | 36 | 1942 | Jae Job |
 | 37 | 1805 | Ash |
 | 38 | 1758 | Shane Kalamata Platoon |
@@ -684,39 +684,39 @@
 | 676 | 229 | Steve |
 | 677 | 229 | Tisha Cammack |
 | 678 | 229 | Demont Darius |
-| 679 | 228 | Funky Risepiece |
-| 680 | 228 | Cozy Framezone |
-| 681 | 227 | Asher |
-| 682 | 227 | Walid Elsabee |
-| 683 | 226 | Myra LaTrice |
-| 684 | 226 | Lazy Column |
-| 685 | 226 | Alfredo Aguilar |
-| 686 | 226 | Cozy Balancer |
-| 687 | 226 | Larry Agan |
+| 679 | 229 | Larry Agan |
+| 680 | 228 | Funky Risepiece |
+| 681 | 228 | Cozy Framezone |
+| 682 | 227 | Asher |
+| 683 | 227 | Walid Elsabee |
+| 684 | 226 | Myra LaTrice |
+| 685 | 226 | Cozy Balancer |
+| 686 | 226 | Alfredo Aguilar |
+| 687 | 226 | Lazy Column |
 | 688 | 225 | Amy C Brown |
 | 689 | 225 | Jobadia Steelerton |
-| 690 | 224 | Miranda Wigginton |
-| 691 | 224 | Tabi Williams |
-| 692 | 224 | Christina Hyde |
-| 693 | 224 | Maria Larsen |
-| 694 | 224 | Jennifer Marsella |
-| 695 | 223 | Ben Nome |
-| 696 | 223 | KyngKliff |
-| 697 | 223 | April |
-| 698 | 222 | Lisa Allen Frisk |
-| 699 | 222 | Brandy Gray |
-| 700 | 221 | Mcg |
-| 701 | 221 | Rheanda Weaskus |
-| 702 | 221 | Cheery Lift |
-| 703 | 221 | Jacob Richard |
-| 704 | 221 | Pampam |
-| 705 | 221 | b |
+| 690 | 224 | Tabi Williams |
+| 691 | 224 | Miranda Wigginton |
+| 692 | 224 | Jennifer Marsella |
+| 693 | 224 | Christina Hyde |
+| 694 | 224 | Maria Larsen |
+| 695 | 223 | KyngKliff |
+| 696 | 223 | April |
+| 697 | 223 | Ben Nome |
+| 698 | 222 | Brandy Gray |
+| 699 | 222 | Lisa Allen Frisk |
+| 700 | 221 | b |
+| 701 | 221 | Pampam |
+| 702 | 221 | Jacob Richard |
+| 703 | 221 | Rheanda Weaskus |
+| 704 | 221 | Mcg |
+| 705 | 221 | Cheery Lift |
 | 706 | 220 | Cheryl Johnson |
 | 707 | 220 | Joshua Cuellar |
 | 708 | 219 | Niki Bush |
 | 709 | 219 | Undeniable Williams |
-| 710 | 218 | Jlmendillo |
-| 711 | 218 | Janita Parrish |
+| 710 | 218 | Janita Parrish |
+| 711 | 218 | Jlmendillo |
 | 712 | 218 | Joshua W. Benton |
 | 713 | 217 | Andrea Gallagher |
 | 714 | 216 | Julie McAfoos Swanson |
@@ -855,29 +855,29 @@
 | 847 | 178 | Melissa Tipton Crawford |
 | 848 | 178 | Tabitha Henson |
 | 849 | 177 | Cashmere |
-| 850 | 177 | Erin Kushner |
-| 851 | 177 | Clinton Jacob |
+| 850 | 177 | Clinton Jacob |
+| 851 | 177 | Erin Kushner |
 | 852 | 177 | Richard Bradley |
 | 853 | 177 | Verna Neal |
 | 854 | 177 | Marjorie Sims Rentz |
-| 855 | 176 | Katie Walton |
-| 856 | 176 | Tina Connick |
+| 855 | 176 | Tina Connick |
+| 856 | 176 | Katie Walton |
 | 857 | 176 | Tunia Torres |
 | 858 | 175 | Rick SJ |
 | 859 | 175 | Demeitra McCaune |
 | 860 | 175 | Stephanie Griego |
 | 861 | 175 | k |
-| 862 | 175 | Marcus Cooper |
-| 863 | 175 | Kristin Rose Nutter |
-| 864 | 175 | deebop |
-| 865 | 175 | Nikki Ann |
-| 866 | 174 | Riley Chelsie |
-| 867 | 174 | Linda Alexander Downing |
-| 868 | 174 | Giggly Balancefit |
-| 869 | 174 | Angel Johnson |
-| 870 | 174 | Laura Chase-Amara |
-| 871 | 173 | Jasmine Castro |
-| 872 | 173 | Gina Sexton Powell |
+| 862 | 175 | Gina Sexton Powell |
+| 863 | 175 | Marcus Cooper |
+| 864 | 175 | Kristin Rose Nutter |
+| 865 | 175 | deebop |
+| 866 | 175 | Nikki Ann |
+| 867 | 174 | Riley Chelsie |
+| 868 | 174 | Linda Alexander Downing |
+| 869 | 174 | Giggly Balancefit |
+| 870 | 174 | Angel Johnson |
+| 871 | 174 | Laura Chase-Amara |
+| 872 | 173 | Jasmine Castro |
 | 873 | 173 | TwistyMcTwist |
 | 874 | 173 | Willa Anne Nold Kay |
 | 875 | 173 | Kelly Duncan |
@@ -1134,8 +1134,8 @@
 | 1126 | 112 | Evan DeWeese |
 | 1127 | 112 | Kristina Renea Day |
 | 1128 | 112 | Harold M. |
-| 1129 | 112 | Natasha Crossley |
-| 1130 | 112 | Sarah Rene Fauller |
+| 1129 | 112 | Sarah Rene Fauller |
+| 1130 | 112 | Natasha Crossley |
 | 1131 | 111 | Chipper Rotate |
 | 1132 | 111 | Chassidy Martin |
 | 1133 | 111 | Jessica Miller |
@@ -1204,39 +1204,39 @@
 | 1196 | 100 | Katrina Looney |
 | 1197 | 100 | Barbara Rietzke |
 | 1198 | 100 | Aly Eggers |
-| 1199 | 99 | Wacky Shatterline |
+| 1199 | 100 | Courtney Cassidy |
 | 1200 | 99 | Dorothy Horton |
-| 1201 | 99 | SUPREME |
-| 1202 | 99 | Denver |
-| 1203 | 98 | James May |
-| 1204 | 98 | Lozuna |
-| 1205 | 98 | Maurice Daniels |
-| 1206 | 97 | Jessalyn Jordan Davis |
-| 1207 | 97 | Chilly Matchpiece |
-| 1208 | 97 | Giggy Bridgepiece |
-| 1209 | 97 | Bubbly Crawler |
-| 1210 | 96 | Danielle Love |
-| 1211 | 96 | Miguel Rodriguez |
-| 1212 | 96 | Christy |
-| 1213 | 96 | Mark Morgan |
-| 1214 | 96 | Deborah Hewitt |
-| 1215 | 96 | Rita Loucks |
-| 1216 | 96 | Joshua A Bea |
-| 1217 | 96 | Michele Lauer |
-| 1218 | 96 | Dana |
-| 1219 | 96 | Lowkey24 |
-| 1220 | 95 | Joleeoleeooo |
-| 1221 | 95 | Leslie Parker |
-| 1222 | 95 | Kat |
-| 1223 | 95 | Cheery Shatterclear |
-| 1224 | 95 | Chirpy Slammer |
-| 1225 | 95 | RedBoots82 |
-| 1226 | 95 | Victoria Calvario |
-| 1227 | 95 | Spicy Rollpiece |
-| 1228 | 95 | Dreamy Tiler |
-| 1229 | 95 | Allison Judith |
-| 1230 | 95 | Alicia Falk |
-| 1231 | 94 | Courtney Cassidy |
+| 1201 | 99 | Wacky Shatterline |
+| 1202 | 99 | SUPREME |
+| 1203 | 99 | Denver |
+| 1204 | 98 | James May |
+| 1205 | 98 | Lozuna |
+| 1206 | 98 | Maurice Daniels |
+| 1207 | 97 | Jessalyn Jordan Davis |
+| 1208 | 97 | Chilly Matchpiece |
+| 1209 | 97 | Giggy Bridgepiece |
+| 1210 | 97 | Bubbly Crawler |
+| 1211 | 96 | Danielle Love |
+| 1212 | 96 | Miguel Rodriguez |
+| 1213 | 96 | Christy |
+| 1214 | 96 | Mark Morgan |
+| 1215 | 96 | Deborah Hewitt |
+| 1216 | 96 | Rita Loucks |
+| 1217 | 96 | Joshua A Bea |
+| 1218 | 96 | Michele Lauer |
+| 1219 | 96 | Dana |
+| 1220 | 96 | Lowkey24 |
+| 1221 | 95 | Joleeoleeooo |
+| 1222 | 95 | Leslie Parker |
+| 1223 | 95 | Kat |
+| 1224 | 95 | Cheery Shatterclear |
+| 1225 | 95 | Chirpy Slammer |
+| 1226 | 95 | RedBoots82 |
+| 1227 | 95 | Victoria Calvario |
+| 1228 | 95 | Spicy Rollpiece |
+| 1229 | 95 | Dreamy Tiler |
+| 1230 | 95 | Allison Judith |
+| 1231 | 95 | Alicia Falk |
 | 1232 | 94 | Jennifer West Campos |
 | 1233 | 94 | Nee |
 | 1234 | 94 | Terra McGee |
@@ -1327,8 +1327,8 @@
 | 1319 | 80 | Jennifer Harrison |
 | 1320 | 80 | Frothy Shatter |
 | 1321 | 80 | jay |
-| 1322 | 80 | Jr McQue |
-| 1323 | 80 | Boldy Linkfall |
+| 1322 | 80 | Boldy Linkfall |
+| 1323 | 80 | Jr McQue |
 | 1324 | 79 | AnitaMann |
 | 1325 | 79 | Dmu |
 | 1326 | 79 | Swanky Linefit |
