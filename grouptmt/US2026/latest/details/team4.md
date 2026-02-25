@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 17:00:44 UTC
+# Standings for team4 as of 2026-02-25 17:01:22 UTC
 
 **Total Participants:** 2232
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 10471 | Devinlee Brown |
+| 1 | 10489 | Devinlee Brown |
 | 2 | 9192 | sierrabeth |
 | 3 | 8598 | Bubbly Puzzler |
 | 4 | 6896 | Kat |
@@ -28,7 +28,7 @@
 | 20 | 2714 | Jason Allen |
 | 21 | 2529 | Misty Hollibaugh |
 | 22 | 2427 | Ayanna Soto |
-| 23 | 2411 | Michelle Pearman |
+| 23 | 2421 | Michelle Pearman |
 | 24 | 2344 | Jayna Anoc |
 | 25 | 2340 | Christina LR |
 | 26 | 2339 | Robin Getchel |
@@ -65,7 +65,7 @@
 | 57 | 1435 | Denia Deni |
 | 58 | 1430 | Johnathan Martinez |
 | 59 | 1426 | Mona Sharma |
-| 60 | 1391 | LisaJo Picken Buchanan |
+| 60 | 1417 | LisaJo Picken Buchanan |
 | 61 | 1390 | Toots |
 | 62 | 1374 | Isabel Aguilar |
 | 63 | 1364 | Julian Garcia |
@@ -360,12 +360,12 @@
 | 352 | 421 | JIGsaw ~(•¿°)~ |
 | 353 | 419 | Lauren Lamb |
 | 354 | 418 | Kristi Trafton |
-| 355 | 417 | Jason Frehner |
-| 356 | 417 | Kris Bartlett |
-| 357 | 416 | Bryan Hodgins |
-| 358 | 416 | Allison Rose |
-| 359 | 415 | Zołza 😈 |
-| 360 | 412 | Stephme310 |
+| 355 | 418 | Stephme310 |
+| 356 | 417 | Jason Frehner |
+| 357 | 417 | Kris Bartlett |
+| 358 | 416 | Bryan Hodgins |
+| 359 | 416 | Allison Rose |
+| 360 | 415 | Zołza 😈 |
 | 361 | 411 | Stella |
 | 362 | 411 | Mary Ann Pabukis |
 | 363 | 410 | AyeKay |
@@ -1179,22 +1179,22 @@
 | 1171 | 108 | Adam Hughes |
 | 1172 | 108 | Brandi Arwood |
 | 1173 | 108 | Bob Moores |
-| 1174 | 108 | Patrick Watkins |
-| 1175 | 107 | Priscilla Lewandowski |
-| 1176 | 107 | Izrahiah Yzaiah Israel |
-| 1177 | 107 | Chirpy Tetriblast |
-| 1178 | 107 | Meow Meow |
-| 1179 | 107 | Garrett G-luv Kyser |
-| 1180 | 106 | Brave Tilebuilder |
-| 1181 | 106 | Zappy Piecefit |
-| 1182 | 106 | Suzie Boyd |
-| 1183 | 106 | Johnny Jenks |
-| 1184 | 106 | juggernaut |
-| 1185 | 106 | Jmier |
-| 1186 | 106 | Nick Horn |
-| 1187 | 105 | Zerkiiboy |
+| 1174 | 108 | Chirpy Rollbuilder |
+| 1175 | 108 | Patrick Watkins |
+| 1176 | 107 | Priscilla Lewandowski |
+| 1177 | 107 | Izrahiah Yzaiah Israel |
+| 1178 | 107 | Chirpy Tetriblast |
+| 1179 | 107 | Meow Meow |
+| 1180 | 107 | Garrett G-luv Kyser |
+| 1181 | 106 | Brave Tilebuilder |
+| 1182 | 106 | Zappy Piecefit |
+| 1183 | 106 | Suzie Boyd |
+| 1184 | 106 | Johnny Jenks |
+| 1185 | 106 | juggernaut |
+| 1186 | 106 | Jmier |
+| 1187 | 106 | Nick Horn |
 | 1188 | 105 | LondynsDad Mal O KingKreole |
-| 1189 | 105 | Chirpy Rollbuilder |
+| 1189 | 105 | Zerkiiboy |
 | 1190 | 105 | Zippy Linkmatch |
 | 1191 | 105 | Oba Yozo |
 | 1192 | 105 | Krystol Fantabulously Gorgeously Dennis |
@@ -1832,60 +1832,60 @@
 | 1824 | 31 | Dandy Liner |
 | 1825 | 31 | Hoppy Brickzone |
 | 1826 | 31 | Plucky Patternbuilder |
-| 1827 | 31 | Nooooope |
-| 1828 | 31 | Raido |
+| 1827 | 31 | Raido |
+| 1828 | 31 | Nooooope |
 | 1829 | 30 | Clara Avilez |
 | 1830 | 30 | Dapper Racker |
-| 1831 | 30 | Mason Junior |
-| 1832 | 30 | Cool Ziggy |
-| 1833 | 30 | Derald Miller |
-| 1834 | 30 | Chtid |
-| 1835 | 30 | Alberto Rosel |
-| 1836 | 30 | Becky |
-| 1837 | 30 | Lynn Anne |
-| 1838 | 30 | Khrystyna Lukaniuk |
-| 1839 | 30 | Jameel HumanTornado Brown |
-| 1840 | 30 | Apryl Lia |
-| 1841 | 30 | Thomasena Eady Reid |
-| 1842 | 30 | Kris Wolfe |
-| 1843 | 29 | Kathy Garcia |
+| 1831 | 30 | Bricky McBrickface |
+| 1832 | 30 | Derald Miller |
+| 1833 | 30 | Cool Ziggy |
+| 1834 | 30 | Mason Junior |
+| 1835 | 30 | Chtid |
+| 1836 | 30 | Alberto Rosel |
+| 1837 | 30 | Becky |
+| 1838 | 30 | Lynn Anne |
+| 1839 | 30 | Khrystyna Lukaniuk |
+| 1840 | 30 | Jameel HumanTornado Brown |
+| 1841 | 30 | Apryl Lia |
+| 1842 | 30 | Thomasena Eady Reid |
+| 1843 | 30 | Kris Wolfe |
 | 1844 | 29 | Jessica Lynn |
-| 1845 | 29 | EMSquire |
-| 1846 | 29 | Joshua Smith |
+| 1845 | 29 | Kathy Garcia |
+| 1846 | 29 | EMSquire |
 | 1847 | 29 | Amanda Gann |
-| 1848 | 29 | Melissa Gail Sanders |
+| 1848 | 29 | Joshua Smith |
 | 1849 | 29 | Chill Riserpiece |
 | 1850 | 29 | Interesting |
-| 1851 | 28 | Lazy Stacker |
-| 1852 | 28 | Charles D Rexrode Jr |
-| 1853 | 28 | Sunny babes |
-| 1854 | 28 | Dovakin |
-| 1855 | 28 | Slinky Matcher |
-| 1856 | 28 | Anthony D Holmes |
-| 1857 | 28 | Jessi Gooch |
-| 1858 | 28 | Shiny Brickline |
-| 1859 | 27 | Michelle Sweeney |
+| 1851 | 29 | Melissa Gail Sanders |
+| 1852 | 28 | Lazy Stacker |
+| 1853 | 28 | Charles D Rexrode Jr |
+| 1854 | 28 | Sunny babes |
+| 1855 | 28 | Dovakin |
+| 1856 | 28 | Slinky Matcher |
+| 1857 | 28 | Anthony D Holmes |
+| 1858 | 28 | Jessi Gooch |
+| 1859 | 28 | Shiny Brickline |
 | 1860 | 27 | Perach Alima Shoa |
-| 1861 | 27 | Edward Krohn |
-| 1862 | 27 | Rashelle L Saeger |
-| 1863 | 27 | Bold Builderpiece |
-| 1864 | 27 | Nutty Grabber |
-| 1865 | 27 | Antronita Kemp |
-| 1866 | 27 | Preston Miller |
-| 1867 | 27 | drc81 |
-| 1868 | 27 | Julie Foulks Porter |
-| 1869 | 27 | Bouncy Hitter |
-| 1870 | 27 | Terri Tatem |
-| 1871 | 27 | Karolina Koolin |
-| 1872 | 27 | Breezy Linkfall |
-| 1873 | 27 | Jennifer Pfeiffer Johnson |
-| 1874 | 26 | Felicia Daniels |
+| 1861 | 27 | Michelle Sweeney |
+| 1862 | 27 | Edward Krohn |
+| 1863 | 27 | Rashelle L Saeger |
+| 1864 | 27 | Bold Builderpiece |
+| 1865 | 27 | Nutty Grabber |
+| 1866 | 27 | Antronita Kemp |
+| 1867 | 27 | Julie Foulks Porter |
+| 1868 | 27 | Bouncy Hitter |
+| 1869 | 27 | Karolina Koolin |
+| 1870 | 27 | Breezy Linkfall |
+| 1871 | 27 | Jennifer Pfeiffer Johnson |
+| 1872 | 27 | Terri Tatem |
+| 1873 | 27 | drc81 |
+| 1874 | 27 | Preston Miller |
 | 1875 | 26 | Carolyn Figueroa |
-| 1876 | 26 | Julio León |
-| 1877 | 26 | Korn Starch |
-| 1878 | 26 | TaZz |
-| 1879 | 26 | Yoyoyo |
-| 1880 | 26 | Bricky McBrickface |
+| 1876 | 26 | Yoyoyo |
+| 1877 | 26 | TaZz |
+| 1878 | 26 | Korn Starch |
+| 1879 | 26 | Julio León |
+| 1880 | 26 | Felicia Daniels |
 | 1881 | 26 | Courtney Lynn Hagaman |
 | 1882 | 26 | Alex Alex |
 | 1883 | 26 | Vader67 |
