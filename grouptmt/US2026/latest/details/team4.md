@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 13:08:43 UTC
+# Standings for team4 as of 2026-02-25 13:09:22 UTC
 
 **Total Participants:** 2206
 
@@ -13,7 +13,7 @@
 | 5 | 5576 | Breannah Grafe |
 | 6 | 5542 | East Mamba |
 | 7 | 5031 | Alyssa Cox |
-| 8 | 4533 | Kristy Wintermantel |
+| 8 | 4583 | Kristy Wintermantel |
 | 9 | 4528 | Elizabeth Sallas |
 | 10 | 4434 | Tina Martinez |
 | 11 | 4376 | Roger Coulter |
@@ -241,21 +241,21 @@
 | 233 | 547 | DonMega |
 | 234 | 547 | Sharyn Lemire |
 | 235 | 546 | Ericca Eldridge |
-| 236 | 545 | June Hoffman |
-| 237 | 544 | Kimberlee Jan Beckstead |
-| 238 | 537 | Scott Jameson |
-| 239 | 537 | ThaEviLJeNiuZ |
-| 240 | 537 | Joanna |
-| 241 | 533 | Cynthia Boudreau |
-| 242 | 531 | Chao Ma |
+| 236 | 546 | Chao Ma |
+| 237 | 545 | June Hoffman |
+| 238 | 544 | Kimberlee Jan Beckstead |
+| 239 | 537 | Scott Jameson |
+| 240 | 537 | ThaEviLJeNiuZ |
+| 241 | 537 | Joanna |
+| 242 | 533 | Cynthia Boudreau |
 | 243 | 531 | Mr. Party |
-| 244 | 530 | Brittany Little |
-| 245 | 530 | Rodney Wheeler |
+| 244 | 530 | Rodney Wheeler |
+| 245 | 530 | Brittany Little |
 | 246 | 527 | Jolly Dashfit |
 | 247 | 525 | Casey Grabner |
-| 248 | 522 | Marcus Todd |
-| 249 | 522 | Michele Plunkett |
-| 250 | 522 | Luis Martinez |
+| 248 | 522 | Michele Plunkett |
+| 249 | 522 | Luis Martinez |
+| 250 | 522 | Marcus Todd |
 | 251 | 520 | Antony Dwayne Beasley |
 | 252 | 518 | shark tato |
 | 253 | 518 | Ari Droff |
@@ -263,13 +263,13 @@
 | 255 | 516 | Nick Gray |
 | 256 | 515 | Bradley Reeves |
 | 257 | 514 | Keshia Lyons |
-| 258 | 514 | Cheery Risebuilder |
-| 259 | 513 | Milan Markeisha |
+| 258 | 514 | Brickh4us |
+| 259 | 514 | Cheery Risebuilder |
 | 260 | 513 | Silly Zonebuilder |
-| 261 | 512 | Casey Jeffcoat |
-| 262 | 507 | Jason Gibbs |
-| 263 | 505 | Jen Mattei |
-| 264 | 505 | Brickh4us |
+| 261 | 513 | Milan Markeisha |
+| 262 | 512 | Casey Jeffcoat |
+| 263 | 507 | Jason Gibbs |
+| 264 | 505 | Jen Mattei |
 | 265 | 504 | Deanna Deckard |
 | 266 | 503 | Gdiguy |
 | 267 | 503 | Zethra Prenisha Rahming |
@@ -1261,50 +1261,50 @@
 | 1253 | 89 | Phyllis Mitchell |
 | 1254 | 89 | Mary Haynes |
 | 1255 | 89 | Rachel Nicole |
-| 1256 | 89 | Kayley Kara Gaudin |
-| 1257 | 89 | Pikake Medeiros |
-| 1258 | 89 | Peachy Pop |
-| 1259 | 89 | Zippy Snapgrid |
-| 1260 | 88 | Colleen Brown |
-| 1261 | 88 | Brian O'Neill |
-| 1262 | 88 | Missy Conley Sayne |
+| 1256 | 89 | Zippy Snapgrid |
+| 1257 | 89 | Peachy Pop |
+| 1258 | 89 | Kayley Kara Gaudin |
+| 1259 | 89 | Pikake Medeiros |
+| 1260 | 88 | Brian O'Neill |
+| 1261 | 88 | Ann Poulson |
+| 1262 | 88 | Crushahhhhhh |
 | 1263 | 88 | Taco Taco |
-| 1264 | 88 | Crushahhhhhh |
-| 1265 | 88 | Ann Poulson |
+| 1264 | 88 | Missy Conley Sayne |
+| 1265 | 88 | Colleen Brown |
 | 1266 | 88 | Metrice |
 | 1267 | 88 | Hasty Balancer |
-| 1268 | 87 | Jason Goldstein |
-| 1269 | 87 | Cheery Chiseler |
-| 1270 | 87 | Chad Moore |
-| 1271 | 87 | Laura Smith |
-| 1272 | 87 | Derek Pendarvis |
-| 1273 | 87 | Amanda Lanctot |
-| 1274 | 87 | Kimberly Goncalves |
-| 1275 | 87 | Thomas R. Phillips |
-| 1276 | 86 | Angela |
-| 1277 | 86 | Mohamad Idham |
-| 1278 | 86 | Krista Bartlett |
-| 1279 | 86 | Linda Wilbur Scott |
+| 1268 | 87 | Laura Smith |
+| 1269 | 87 | Jason Goldstein |
+| 1270 | 87 | Mohamad Idham |
+| 1271 | 87 | Cheery Chiseler |
+| 1272 | 87 | Chad Moore |
+| 1273 | 87 | Kimberly Goncalves |
+| 1274 | 87 | Derek Pendarvis |
+| 1275 | 87 | Amanda Lanctot |
+| 1276 | 87 | Thomas R. Phillips |
+| 1277 | 86 | Krista Bartlett |
+| 1278 | 86 | Linda Wilbur Scott |
+| 1279 | 86 | Angela |
 | 1280 | 86 | Giddy Dropmatch |
 | 1281 | 85 | Cozy Tiley |
-| 1282 | 85 | Oba Yozo |
-| 1283 | 85 | Valerie J. Potero |
-| 1284 | 85 | Tim Knight-ten |
-| 1285 | 85 | T |
-| 1286 | 85 | Johnboom317 |
-| 1287 | 85 | Staci Robinson Jones |
-| 1288 | 85 | Dylan Schultz |
+| 1282 | 85 | Staci Robinson Jones |
+| 1283 | 85 | T |
+| 1284 | 85 | Oba Yozo |
+| 1285 | 85 | Valerie J. Potero |
+| 1286 | 85 | Dylan Schultz |
+| 1287 | 85 | Tim Knight-ten |
+| 1288 | 85 | Johnboom317 |
 | 1289 | 84 | Erin DeArman |
 | 1290 | 84 | Guillermo Perara |
 | 1291 | 84 | Juanita Tia Beckler |
 | 1292 | 84 | Marta Savchuk |
 | 1293 | 83 | Leeann Donovan |
 | 1294 | 83 | Jared Nadler |
-| 1295 | 83 | Khu Muas |
-| 1296 | 83 | Ens21417 |
-| 1297 | 83 | Tonya |
-| 1298 | 83 | Tori Lynn Nunez-Bayhi |
-| 1299 | 83 | Johnny Jenks |
+| 1295 | 83 | Ens21417 |
+| 1296 | 83 | Tori Lynn Nunez-Bayhi |
+| 1297 | 83 | Johnny Jenks |
+| 1298 | 83 | Tonya |
+| 1299 | 83 | Khu Muas |
 | 1300 | 82 | Loony Puzzler |
 | 1301 | 82 | Jorge Hamoui |
 | 1302 | 82 | Ashley Kerr |
