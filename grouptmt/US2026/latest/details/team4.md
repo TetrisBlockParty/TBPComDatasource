@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 16:40:44 UTC
+# Standings for team4 as of 2026-02-25 16:41:22 UTC
 
 **Total Participants:** 2228
 
@@ -213,7 +213,7 @@
 | 205 | 619 | Adrian Pawlusinski |
 | 206 | 618 | Ren Mc |
 | 207 | 616 | Marie-Pier Desjardins |
-| 208 | 613 | scott |
+| 208 | 616 | scott |
 | 209 | 612 | Autumn Kumzi |
 | 210 | 607 | Twisty Clicky |
 | 211 | 606 | Bradley Reeves |
@@ -240,8 +240,8 @@
 | 232 | 568 | Zippy Block |
 | 233 | 568 | Plucky Patternblock |
 | 234 | 562 | J-Rizzle |
-| 235 | 561 | Mr. Party |
-| 236 | 560 | Jim Hart |
+| 235 | 561 | Jim Hart |
+| 236 | 561 | Mr. Party |
 | 237 | 556 | Rio Rocha |
 | 238 | 552 | Joseph Guthrie |
 | 239 | 551 | Bio Nelly |
@@ -739,15 +739,15 @@
 | 731 | 214 | Zany Mover |
 | 732 | 214 | JD |
 | 733 | 213 | Earnest Thompson |
-| 734 | 212 | Nerdy Linebuilder |
-| 735 | 211 | Heather Layne Smith |
-| 736 | 211 | Flashy Blockpiece |
-| 737 | 210 | Heather Stratos |
-| 738 | 210 | Bubbly Setter |
-| 739 | 209 | Calvin Dennis |
-| 740 | 209 | Stephanie Jones |
-| 741 | 209 | Cheery Gridlock |
-| 742 | 208 | Robert Sch |
+| 734 | 213 | Robert Sch |
+| 735 | 212 | Nerdy Linebuilder |
+| 736 | 211 | Heather Layne Smith |
+| 737 | 211 | Flashy Blockpiece |
+| 738 | 210 | Heather Stratos |
+| 739 | 210 | Bubbly Setter |
+| 740 | 209 | Calvin Dennis |
+| 741 | 209 | Stephanie Jones |
+| 742 | 209 | Cheery Gridlock |
 | 743 | 208 | Ahleek Mitchell |
 | 744 | 207 | Nikki Wilson |
 | 745 | 207 | Kametsunoyaiba |
