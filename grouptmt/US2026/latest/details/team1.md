@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 19:16:45 UTC
+# Standings for team1 as of 2026-02-25 19:17:22 UTC
 
 **Total Participants:** 2515
 
@@ -581,31 +581,31 @@
 | 573 | 289 | Theeranart Mahawan |
 | 574 | 289 | Tiffany Trinh |
 | 575 | 288 | Sassy Towerer |
-| 576 | 287 | Colleen Wise |
-| 577 | 286 | Teresa |
-| 578 | 286 | David |
-| 579 | 285 | Joke Sofunny |
-| 580 | 285 | Amber Dollak-Smith |
-| 581 | 285 | Robin Burress |
-| 582 | 284 | Melissa Ann Macko |
-| 583 | 283 | Matthew Foley |
-| 584 | 283 | Franswa |
-| 585 | 283 | Brad MG |
-| 586 | 282 | Gilbert Ortiz Jr. |
-| 587 | 282 | Marc Abney |
-| 588 | 282 | Timothy Dew |
-| 589 | 282 | Shay J Duval |
+| 576 | 287 | Shay J Duval |
+| 577 | 287 | Colleen Wise |
+| 578 | 286 | Teresa |
+| 579 | 286 | David |
+| 580 | 285 | Joke Sofunny |
+| 581 | 285 | Amber Dollak-Smith |
+| 582 | 285 | Robin Burress |
+| 583 | 284 | Melissa Ann Macko |
+| 584 | 283 | Matthew Foley |
+| 585 | 283 | Franswa |
+| 586 | 283 | Brad MG |
+| 587 | 282 | Gilbert Ortiz Jr. |
+| 588 | 282 | Marc Abney |
+| 589 | 282 | Timothy Dew |
 | 590 | 281 | Olivia Witmer |
 | 591 | 281 | Ashley Adams |
-| 592 | 281 | Ja Ce |
-| 593 | 281 | Sunflower |
+| 592 | 281 | Sunflower |
+| 593 | 281 | Ja Ce |
 | 594 | 280 | Mary Sheets |
-| 595 | 280 | Marie White |
-| 596 | 280 | Peppy Columnbuilder |
+| 595 | 280 | Peppy Columnbuilder |
+| 596 | 280 | Marie White |
 | 597 | 279 | Beau Galvan |
 | 598 | 279 | Chris Dawson |
-| 599 | 279 | Playtray |
-| 600 | 279 | Jordan Brooks |
+| 599 | 279 | Jordan Brooks |
+| 600 | 279 | Playtray |
 | 601 | 278 | Thorne Shumate |
 | 602 | 278 | Rivkah |
 | 603 | 278 | Austin Jones |
@@ -1605,10 +1605,10 @@
 | 1597 | 65 | Jessica Lang |
 | 1598 | 65 | Sarah Denise Baca |
 | 1599 | 65 | Colton Samantha Lester |
-| 1600 | 65 | Kayla |
-| 1601 | 64 | Brave Tiley |
-| 1602 | 64 | BlackberryCobbler |
-| 1603 | 64 | Tommy |
+| 1600 | 65 | Tommy |
+| 1601 | 65 | Kayla |
+| 1602 | 64 | Brave Tiley |
+| 1603 | 64 | BlackberryCobbler |
 | 1604 | 64 | Walter Turner |
 | 1605 | 64 | Cool Balancer |
 | 1606 | 64 | Kenneth Ray Steiner |
