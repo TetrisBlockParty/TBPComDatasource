@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 09:31:23 UTC
+# Standings for team4 as of 2026-02-25 09:32:44 UTC
 
 **Total Participants:** 2190
 
@@ -295,13 +295,13 @@
 | 287 | 461 | Lindsay Ball |
 | 288 | 459 | Rafael Valentin |
 | 289 | 458 | Alan Zukowski |
-| 290 | 453 | Mike Solo |
-| 291 | 453 | Rio Rocha |
-| 292 | 450 | Lora |
-| 293 | 450 | Andrew Dang |
-| 294 | 449 | Danielle Kollias |
-| 295 | 449 | KimoKoala |
-| 296 | 449 | Jessica Fredericks |
+| 290 | 457 | Jessica Fredericks |
+| 291 | 453 | Mike Solo |
+| 292 | 453 | Rio Rocha |
+| 293 | 450 | Lora |
+| 294 | 450 | Andrew Dang |
+| 295 | 449 | Danielle Kollias |
+| 296 | 449 | KimoKoala |
 | 297 | 448 | Lee Silpe |
 | 298 | 447 | Zany Swipe |
 | 299 | 447 | Twisty Cascadezone |
@@ -1538,8 +1538,8 @@
 | 1530 | 54 | Sabby |
 | 1531 | 54 | Lucky2Guns |
 | 1532 | 54 | Jodi Messere |
-| 1533 | 54 | Hasty Piecefit |
-| 1534 | 54 | AuDra Renee Dupre |
+| 1533 | 54 | AuDra Renee Dupre |
+| 1534 | 54 | Hasty Piecefit |
 | 1535 | 54 | Pamela Traum |
 | 1536 | 54 | Tipsy Blockline |
 | 1537 | 54 | Zaltosk |
@@ -1552,12 +1552,12 @@
 | 1544 | 54 | Dan Kraly |
 | 1545 | 53 | Digg715 |
 | 1546 | 53 | Holly Baxley |
-| 1547 | 53 | Dizzy Rollbuilder |
+| 1547 | 53 | Tyler Coutts |
 | 1548 | 53 | Daring Zonepiece |
-| 1549 | 53 | sunshine719 |
-| 1550 | 53 | Haley Jean |
-| 1551 | 53 | Tyler Coutts |
-| 1552 | 53 | Chipper Towerfit |
+| 1549 | 53 | Dizzy Rollbuilder |
+| 1550 | 53 | Chipper Towerfit |
+| 1551 | 53 | Haley Jean |
+| 1552 | 53 | sunshine719 |
 | 1553 | 53 | AZ |
 | 1554 | 52 | Hoodylu |
 | 1555 | 52 | Clever Fitzone |
@@ -1570,87 +1570,87 @@
 | 1562 | 52 | Alexis Kelly |
 | 1563 | 52 | emd |
 | 1564 | 51 | Jamie Smalling |
-| 1565 | 51 | GrapeJetFuel |
-| 1566 | 51 | Sarah Whitson |
-| 1567 | 51 | Stacey M Hawkins |
-| 1568 | 51 | Jeremiah Burton |
+| 1565 | 51 | Valerie Eileen |
+| 1566 | 51 | Jean Camacho |
+| 1567 | 51 | Laura Davis |
+| 1568 | 51 | Peppy Twistslam |
 | 1569 | 51 | Isa |
-| 1570 | 51 | Peppy Twistslam |
-| 1571 | 51 | Valerie Eileen |
-| 1572 | 51 | Jean Camacho |
-| 1573 | 51 | Laura Davis |
-| 1574 | 50 | Darren Shanholtz |
-| 1575 | 50 | Devin Crawford |
-| 1576 | 50 | George Clemis |
+| 1570 | 51 | Jeremiah Burton |
+| 1571 | 51 | Stacey M Hawkins |
+| 1572 | 51 | Sarah Whitson |
+| 1573 | 51 | GrapeJetFuel |
+| 1574 | 50 | Devin Crawford |
+| 1575 | 50 | George Clemis |
+| 1576 | 50 | Peachy Roll |
 | 1577 | 50 | Jeremy S Williams |
-| 1578 | 50 | Peachy Roll |
-| 1579 | 49 | Lacey J Vaughn |
-| 1580 | 49 | Christopher Laney |
-| 1581 | 49 | Maria N Manuel Mendoza |
-| 1582 | 49 | Boldy Basegrid |
-| 1583 | 49 | Hyper Risebuilder |
-| 1584 | 49 | Lush Basegrid |
-| 1585 | 49 | weegoosey |
-| 1586 | 49 | Mikkela Rice |
-| 1587 | 49 | MsEMoney |
-| 1588 | 49 | SpyderByt3 |
-| 1589 | 48 | Simiara Robotham |
-| 1590 | 48 | Spud |
-| 1591 | 48 | om |
-| 1592 | 48 | James Prickett |
+| 1578 | 50 | Darren Shanholtz |
+| 1579 | 49 | Maria N Manuel Mendoza |
+| 1580 | 49 | Chauncy Ramone Martin |
+| 1581 | 49 | Mikkela Rice |
+| 1582 | 49 | weegoosey |
+| 1583 | 49 | SpyderByt3 |
+| 1584 | 49 | Lacey J Vaughn |
+| 1585 | 49 | MsEMoney |
+| 1586 | 49 | Hyper Risebuilder |
+| 1587 | 49 | Christopher Laney |
+| 1588 | 49 | Boldy Basegrid |
+| 1589 | 49 | Lush Basegrid |
+| 1590 | 48 | Simiara Robotham |
+| 1591 | 48 | Jerry Ruff |
+| 1592 | 48 | Dandy Dasher |
 | 1593 | 48 | Taiserbmx |
-| 1594 | 48 | Arqunita Nene Marbury |
-| 1595 | 48 | Amanda Hein |
-| 1596 | 48 | Dandy Dasher |
-| 1597 | 48 | Jerry Ruff |
-| 1598 | 48 | Headrick Chelly Greeneyes |
-| 1599 | 47 | Cozy Clearfit |
-| 1600 | 47 | Volodymyr Teslyuk |
-| 1601 | 47 | Sarah Barton Alicea |
-| 1602 | 47 | Francesco Bradshaw |
-| 1603 | 47 | Rita Laws |
+| 1594 | 48 | Amanda Hein |
+| 1595 | 48 | Arqunita Nene Marbury |
+| 1596 | 48 | James Prickett |
+| 1597 | 48 | Spud |
+| 1598 | 48 | om |
+| 1599 | 48 | Headrick Chelly Greeneyes |
+| 1600 | 47 | Cozy Clearfit |
+| 1601 | 47 | Volodymyr Teslyuk |
+| 1602 | 47 | Sarah Barton Alicea |
+| 1603 | 47 | Francesco Bradshaw |
 | 1604 | 47 | Slinky Brickroll |
-| 1605 | 47 | Raider Victor Brown |
-| 1606 | 47 | Jordon Arkyn |
-| 1607 | 47 | Josh Brock |
-| 1608 | 47 | Kelly Newsom |
-| 1609 | 47 | Zer0h |
-| 1610 | 47 | Twisty Wipegrid |
-| 1611 | 46 | :) |
-| 1612 | 46 | SweetHoneyComb |
-| 1613 | 46 | Jayne Derocher |
+| 1605 | 47 | Rita Laws |
+| 1606 | 47 | Raider Victor Brown |
+| 1607 | 47 | Jordon Arkyn |
+| 1608 | 47 | Josh Brock |
+| 1609 | 47 | Kelly Newsom |
+| 1610 | 47 | Zer0h |
+| 1611 | 47 | Twisty Wipegrid |
+| 1612 | 46 | :) |
+| 1613 | 46 | SweetHoneyComb |
 | 1614 | 46 | Elizabeth Foster |
-| 1615 | 46 | Mary Ellen Kettleman |
-| 1616 | 46 | ocean |
-| 1617 | 46 | Chris Williams |
-| 1618 | 45 | Snippy Snapzone |
-| 1619 | 45 | Derek Bartley |
-| 1620 | 45 | Spicy T-spin |
-| 1621 | 45 | Zesty Shatterline |
-| 1622 | 45 | Cheeky Zone |
-| 1623 | 45 | Jumpy Spinfit |
-| 1624 | 45 | John Robert Roe |
-| 1625 | 45 | Flashy Snapbuild |
-| 1626 | 45 | rod |
-| 1627 | 44 | Valencia |
-| 1628 | 44 | CandiedBacon |
-| 1629 | 44 | Blair Shriver |
-| 1630 | 44 | Charlie Edson |
-| 1631 | 44 | Betty Brush |
-| 1632 | 44 | Melton Jmcm |
-| 1633 | 44 | Nacarius |
-| 1634 | 44 | Monica Denise Webb |
-| 1635 | 44 | Alicia Bryant |
-| 1636 | 44 | Cheery Blockmatch |
-| 1637 | 44 | smiley400 |
-| 1638 | 44 | Preston Reid |
-| 1639 | 44 | Chauncy Ramone Martin |
+| 1615 | 46 | Jayne Derocher |
+| 1616 | 46 | Mary Ellen Kettleman |
+| 1617 | 46 | ocean |
+| 1618 | 46 | Chris Williams |
+| 1619 | 45 | Snippy Snapzone |
+| 1620 | 45 | Derek Bartley |
+| 1621 | 45 | Spicy T-spin |
+| 1622 | 45 | Zesty Shatterline |
+| 1623 | 45 | Cheeky Zone |
+| 1624 | 45 | Jumpy Spinfit |
+| 1625 | 45 | John Robert Roe |
+| 1626 | 45 | Flashy Snapbuild |
+| 1627 | 45 | rod |
+| 1628 | 44 | Cheery Blockmatch |
+| 1629 | 44 | CandiedBacon |
+| 1630 | 44 | Blair Shriver |
+| 1631 | 44 | Charlie Edson |
+| 1632 | 44 | Betty Brush |
+| 1633 | 44 | Melton Jmcm |
+| 1634 | 44 | Nacarius |
+| 1635 | 44 | Monica Denise Webb |
+| 1636 | 44 | Alicia Bryant |
+| 1637 | 44 | Valencia |
+| 1638 | 44 | smiley400 |
+| 1639 | 44 | Preston Reid |
 | 1640 | 44 | Dawn Plumb |
-| 1641 | 43 | Greg Steinert |
+| 1641 | 43 | Jordan Marie Mantels |
 | 1642 | 43 | Frisky Striker |
 | 1643 | 43 | Andre Rivera |
 | 1644 | 43 | Keith Watson |
-| 1645 | 43 | Jordan Marie Mantels |
+| 1645 | 43 | Greg Steinert |
 | 1646 | 43 | Pablito Pablito |
 | 1647 | 43 | Charlotte Garczynski |
 | 1648 | 43 | James Yulich |
