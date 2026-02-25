@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 02:34:44 UTC
+# Standings for team1 as of 2026-02-25 02:35:22 UTC
 
 **Total Participants:** 2374
 
@@ -66,9 +66,9 @@
 | 58 | 1354 | Drew Magnus |
 | 59 | 1330 | TSwag |
 | 60 | 1328 | Karin Gillen |
-| 61 | 1324 | Rachael |
-| 62 | 1311 | Cheeky Twistslam |
-| 63 | 1310 | Lexuriuos Lifestlye |
+| 61 | 1325 | Lexuriuos Lifestlye |
+| 62 | 1324 | Rachael |
+| 63 | 1311 | Cheeky Twistslam |
 | 64 | 1292 | Tipsy Column |
 | 65 | 1292 | Lawrence Belanger |
 | 66 | 1284 | Veronica Eve |
@@ -1190,70 +1190,70 @@
 | 1182 | 104 | Ellen Newman |
 | 1183 | 104 | OneCrazyGator |
 | 1184 | 104 | Flashy Gridroll |
-| 1185 | 104 | Zippy Buildsnap |
-| 1186 | 104 | Johanna Burke |
-| 1187 | 104 | Nichole Antonishak |
-| 1188 | 104 | Cecilia Thompson |
-| 1189 | 103 | Jazzy Clearbuilder |
-| 1190 | 103 | Adriansoky |
-| 1191 | 103 | Josh Yazvac |
-| 1192 | 103 | Michael Hughes |
-| 1193 | 103 | Meri Mass |
-| 1194 | 103 | Dreamy Fitzone |
-| 1195 | 103 | Margaret Rose |
-| 1196 | 102 | osodabear |
-| 1197 | 102 | Jamie Vander Velden |
-| 1198 | 102 | Alice Johnson |
-| 1199 | 102 | Erik Hesner |
-| 1200 | 102 | Stephanie Randall |
-| 1201 | 101 | Ash Whitley |
-| 1202 | 101 | Funky Rollfit |
-| 1203 | 101 | Ana Estevez |
-| 1204 | 101 | Kristal Kay |
-| 1205 | 101 | Laura Lee Christiansen |
-| 1206 | 101 | Alexx |
-| 1207 | 101 | Michele Baucom |
-| 1208 | 101 | Kia Jenae |
-| 1209 | 100 | Tipsy Gridmatch |
-| 1210 | 100 | Kellie |
-| 1211 | 100 | Plucky Tiltpiece |
-| 1212 | 100 | Jason Philp |
-| 1213 | 100 | Ike Williams |
-| 1214 | 100 | Serena |
-| 1215 | 100 | Spicy Tilefall |
-| 1216 | 99 | Tabetha Craddock |
+| 1185 | 104 | Cecilia Thompson |
+| 1186 | 104 | Nichole Antonishak |
+| 1187 | 104 | Johanna Burke |
+| 1188 | 104 | Zippy Buildsnap |
+| 1189 | 103 | Dreamy Fitzone |
+| 1190 | 103 | Meri Mass |
+| 1191 | 103 | Jazzy Clearbuilder |
+| 1192 | 103 | Margaret Rose |
+| 1193 | 103 | Michael Hughes |
+| 1194 | 103 | Josh Yazvac |
+| 1195 | 103 | Adriansoky |
+| 1196 | 102 | Erik Hesner |
+| 1197 | 102 | Alice Johnson |
+| 1198 | 102 | Stephanie Randall |
+| 1199 | 102 | Jamie Vander Velden |
+| 1200 | 102 | osodabear |
+| 1201 | 101 | Kristal Kay |
+| 1202 | 101 | Laura Lee Christiansen |
+| 1203 | 101 | Ash Whitley |
+| 1204 | 101 | Funky Rollfit |
+| 1205 | 101 | Bharrelson66 |
+| 1206 | 101 | Ana Estevez |
+| 1207 | 101 | Alexx |
+| 1208 | 101 | Michele Baucom |
+| 1209 | 101 | Kia Jenae |
+| 1210 | 100 | Tipsy Gridmatch |
+| 1211 | 100 | Kellie |
+| 1212 | 100 | Plucky Tiltpiece |
+| 1213 | 100 | Jason Philp |
+| 1214 | 100 | Ike Williams |
+| 1215 | 100 | Serena |
+| 1216 | 100 | Spicy Tilefall |
 | 1217 | 99 | 804RVAME |
-| 1218 | 99 | Salih Atasoy |
-| 1219 | 99 | Elizabeth Shaw |
-| 1220 | 99 | Unelanuhi Belladonna Mystikal Bomar |
+| 1218 | 99 | Dropitliktithot |
+| 1219 | 99 | Salih Atasoy |
+| 1220 | 99 | Elizabeth Shaw |
 | 1221 | 99 | Michael Vanwinkle |
-| 1222 | 99 | Dropitliktithot |
-| 1223 | 98 | Neena AkaJaneen TheQueen |
+| 1222 | 99 | Unelanuhi Belladonna Mystikal Bomar |
+| 1223 | 99 | Tabetha Craddock |
 | 1224 | 98 | Tracy Berry |
 | 1225 | 98 | Nicole Rivera-Huger |
 | 1226 | 98 | Anthony Ray |
-| 1227 | 98 | Jeremy Beckler |
-| 1228 | 98 | Ghost187 |
-| 1229 | 98 | Moo |
-| 1230 | 98 | Brandon Reyes |
-| 1231 | 98 | Chelsea Simpson |
-| 1232 | 97 | Bharrelson66 |
-| 1233 | 97 | cola |
-| 1234 | 97 | Steve Bomkamp |
-| 1235 | 97 | Churmo |
-| 1236 | 97 | Mister Reid |
-| 1237 | 97 | Ris |
-| 1238 | 96 | jellikit42 |
-| 1239 | 96 | Mighty Fitzone |
-| 1240 | 96 | Kathy Murphy |
-| 1241 | 95 | Vanessa Zuniga Elvira |
-| 1242 | 95 | PSD |
-| 1243 | 95 | Danielle Sperry |
-| 1244 | 95 | Shelby Smith |
-| 1245 | 95 | Kayla Farley |
-| 1246 | 95 | MyKai Ting |
+| 1227 | 98 | Ghost187 |
+| 1228 | 98 | Moo |
+| 1229 | 98 | Brandon Reyes |
+| 1230 | 98 | Jeremy Beckler |
+| 1231 | 98 | Neena AkaJaneen TheQueen |
+| 1232 | 98 | Chelsea Simpson |
+| 1233 | 97 | Mister Reid |
+| 1234 | 97 | cola |
+| 1235 | 97 | Steve Bomkamp |
+| 1236 | 97 | Ris |
+| 1237 | 97 | Churmo |
+| 1238 | 96 | Mighty Fitzone |
+| 1239 | 96 | Kathy Murphy |
+| 1240 | 96 | jellikit42 |
+| 1241 | 95 | PSD |
+| 1242 | 95 | Danielle Sperry |
+| 1243 | 95 | Shelby Smith |
+| 1244 | 95 | Goofy Linkblock |
+| 1245 | 95 | MyKai Ting |
+| 1246 | 95 | Vanessa Zuniga Elvira |
 | 1247 | 95 | RifterRoute |
-| 1248 | 95 | Goofy Linkblock |
+| 1248 | 95 | Kayla Farley |
 | 1249 | 94 | Jeffrey Penkowski |
 | 1250 | 94 | Christi Ames |
 | 1251 | 94 | Daysha Johnson |
