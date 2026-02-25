@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 09:08:45 UTC
+# Standings for team1 as of 2026-02-25 09:09:22 UTC
 
 **Total Participants:** 2447
 
@@ -103,7 +103,7 @@
 | 95 | 1011 | Francesca Gee |
 | 96 | 1010 | Tee Sheree |
 | 97 | 1004 | Bindi |
-| 98 | 995 | comrade fish |
+| 98 | 996 | comrade fish |
 | 99 | 986 | Jennifer ManWarren |
 | 100 | 974 | Sweet Baker |
 | 101 | 972 | Seth Wesson |
@@ -265,8 +265,8 @@
 | 257 | 477 | LtMooch |
 | 258 | 475 | Paula Martin |
 | 259 | 474 | Billie Ann Eason |
-| 260 | 472 | Alenoush Karimian |
-| 261 | 470 | Chelsea Dahlquist |
+| 260 | 473 | Chelsea Dahlquist |
+| 261 | 472 | Alenoush Karimian |
 | 262 | 470 | Chantelle Ceno |
 | 263 | 469 | build master |
 | 264 | 468 | Wayne Saunders |
@@ -472,25 +472,25 @@
 | 464 | 327 | Agustin Duarte Orozco |
 | 465 | 327 | Snappy Bridgepiece |
 | 466 | 327 | Norma Paredez |
-| 467 | 326 | Jason Benitez |
-| 468 | 325 | Joshua Weeder |
-| 469 | 323 | JaPria Rodgers |
+| 467 | 326 | GentleKitten7 |
+| 468 | 326 | Jason Benitez |
+| 469 | 325 | Joshua Weeder |
 | 470 | 323 | Cranky Pattern |
-| 471 | 322 | Itspaigebro |
-| 472 | 322 | Sunshine |
-| 473 | 322 | Camelia Trevillion |
-| 474 | 320 | Beffy |
-| 475 | 320 | Toph |
-| 476 | 319 | Blaire Bruckoff |
-| 477 | 319 | Ed Franz Jr |
-| 478 | 319 | Bustin’ Blocks |
-| 479 | 319 | Neely Janelle Stewart |
-| 480 | 318 | BigWeenie69 |
-| 481 | 318 | Danielle Mae |
-| 482 | 317 | Blake Mckay |
-| 483 | 317 | Damian Salem |
-| 484 | 317 | Rikki Jo Creech |
-| 485 | 317 | GentleKitten7 |
+| 471 | 323 | JaPria Rodgers |
+| 472 | 322 | Itspaigebro |
+| 473 | 322 | Sunshine |
+| 474 | 322 | Camelia Trevillion |
+| 475 | 320 | Beffy |
+| 476 | 320 | Toph |
+| 477 | 319 | Blaire Bruckoff |
+| 478 | 319 | Ed Franz Jr |
+| 479 | 319 | Bustin’ Blocks |
+| 480 | 319 | Neely Janelle Stewart |
+| 481 | 318 | BigWeenie69 |
+| 482 | 318 | Danielle Mae |
+| 483 | 317 | Blake Mckay |
+| 484 | 317 | Damian Salem |
+| 485 | 317 | Rikki Jo Creech |
 | 486 | 316 | Chilly Riserpiece |
 | 487 | 316 | Tiffany Daboss Seymour |
 | 488 | 315 | Tedashi |
