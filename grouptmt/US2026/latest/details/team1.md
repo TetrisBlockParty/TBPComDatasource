@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 09:40:43 UTC
+# Standings for team1 as of 2026-02-25 09:41:22 UTC
 
 **Total Participants:** 2449
 
@@ -444,13 +444,13 @@
 | 436 | 344 | Tavia |
 | 437 | 344 | Beazel75 |
 | 438 | 343 | Missy Broz McNees |
-| 439 | 343 | Nate Funk |
-| 440 | 342 | Mary Love |
-| 441 | 342 | Marianita Garcia |
-| 442 | 342 | Christina Norman |
-| 443 | 342 | Toni Sagenbrecht |
-| 444 | 342 | ash |
-| 445 | 342 | Shaykmia |
+| 439 | 343 | Shaykmia |
+| 440 | 343 | Nate Funk |
+| 441 | 342 | Mary Love |
+| 442 | 342 | Marianita Garcia |
+| 443 | 342 | Christina Norman |
+| 444 | 342 | Toni Sagenbrecht |
+| 445 | 342 | ash |
 | 446 | 340 | Dawon Ksk Capers |
 | 447 | 339 | Joe Coon |
 | 448 | 338 | cheeseman |
@@ -459,23 +459,23 @@
 | 451 | 336 | Frisky Base |
 | 452 | 335 | John Barron |
 | 453 | 334 | Leslie Bush Yarbrough |
-| 454 | 333 | Vivienne Carter |
-| 455 | 332 | Krie |
-| 456 | 332 | Susie Loo |
+| 454 | 333 | Breanna Luna |
+| 455 | 333 | Vivienne Carter |
+| 456 | 332 | Krie |
 | 457 | 332 | Rock it |
-| 458 | 332 | Ric Hard Hernandez |
-| 459 | 331 | Lisa Miller |
-| 460 | 330 | Rachel Rogers |
+| 458 | 332 | Susie Loo |
+| 459 | 332 | Ric Hard Hernandez |
+| 460 | 331 | Lisa Miller |
 | 461 | 330 | Rebecca Apley Mielke |
-| 462 | 330 | MelSavage |
-| 463 | 328 | Allena Craft |
-| 464 | 327 | Agustin Duarte Orozco |
+| 462 | 330 | Rachel Rogers |
+| 463 | 330 | MelSavage |
+| 464 | 328 | Allena Craft |
 | 465 | 327 | Norma Paredez |
-| 466 | 327 | Snappy Bridgepiece |
-| 467 | 326 | Jason Benitez |
-| 468 | 326 | GentleKitten7 |
-| 469 | 325 | Joshua Weeder |
-| 470 | 324 | Breanna Luna |
+| 466 | 327 | Agustin Duarte Orozco |
+| 467 | 327 | Snappy Bridgepiece |
+| 468 | 326 | Jason Benitez |
+| 469 | 326 | GentleKitten7 |
+| 470 | 325 | Joshua Weeder |
 | 471 | 323 | Cranky Pattern |
 | 472 | 323 | JaPria Rodgers |
 | 473 | 322 | Camelia Trevillion |
@@ -483,10 +483,10 @@
 | 475 | 322 | Itspaigebro |
 | 476 | 320 | Beffy |
 | 477 | 320 | Toph |
-| 478 | 319 | Bustin’ Blocks |
+| 478 | 319 | Neely Janelle Stewart |
 | 479 | 319 | Ed Franz Jr |
 | 480 | 319 | Blaire Bruckoff |
-| 481 | 319 | Neely Janelle Stewart |
+| 481 | 319 | Bustin’ Blocks |
 | 482 | 318 | Lucile Lynn |
 | 483 | 318 | Danielle Mae |
 | 484 | 318 | BigWeenie69 |
@@ -1314,108 +1314,108 @@
 | 1306 | 92 | Amanda Belock Edmundson |
 | 1307 | 92 | BoneDaddy |
 | 1308 | 92 | Ivan Reynolds |
-| 1309 | 92 | Melissa Capps |
-| 1310 | 92 | BearMan01 |
-| 1311 | 92 | Serenity Farson |
-| 1312 | 92 | Baddiebby |
-| 1313 | 92 | Natassia Miller |
-| 1314 | 91 | Frisky Liney |
-| 1315 | 91 | Funky Matchbuilder |
-| 1316 | 91 | Nicole Marie |
-| 1317 | 91 | Peachy Balanceblock |
-| 1318 | 91 | Matthew Krupansky |
-| 1319 | 91 | Eagle's Champs |
+| 1309 | 92 | Baddiebby |
+| 1310 | 92 | Melissa Capps |
+| 1311 | 92 | Natassia Miller |
+| 1312 | 92 | Serenity Farson |
+| 1313 | 92 | BearMan01 |
+| 1314 | 91 | Nicole Marie |
+| 1315 | 91 | Peachy Balanceblock |
+| 1316 | 91 | Funky Matchbuilder |
+| 1317 | 91 | Matthew Krupansky |
+| 1318 | 91 | Rayln Pedersen |
+| 1319 | 91 | Frisky Liney |
 | 1320 | 91 | Marla Erin Salas |
 | 1321 | 91 | Skyelandor |
-| 1322 | 91 | Rayln Pedersen |
-| 1323 | 91 | Jason Whitehead |
+| 1322 | 91 | Jason Whitehead |
+| 1323 | 91 | Eagle's Champs |
 | 1324 | 90 | DeeDee |
-| 1325 | 90 | Jesse Stephenson |
-| 1326 | 90 | Jam |
-| 1327 | 90 | Maria Maloney |
-| 1328 | 90 | Grace Gieroski |
+| 1325 | 90 | Jam |
+| 1326 | 90 | Grace Gieroski |
+| 1327 | 90 | Jesse Stephenson |
+| 1328 | 90 | Maria Maloney |
 | 1329 | 90 | Jeremy Horrach |
-| 1330 | 90 | Harry Matthew |
-| 1331 | 90 | McGee |
-| 1332 | 90 | Chastity Speight |
-| 1333 | 89 | Fra Nk Lin |
-| 1334 | 89 | Ghost |
-| 1335 | 89 | 杜庭維 |
-| 1336 | 89 | uberdork124 |
-| 1337 | 89 | FableGray |
-| 1338 | 89 | Victoria Montenegro Martinez |
-| 1339 | 89 | Kenton Billings |
-| 1340 | 89 | Lacey Breanna Smith |
-| 1341 | 88 | Kandie Marie |
-| 1342 | 88 | Gewb |
-| 1343 | 88 | Jason Aleshire |
-| 1344 | 88 | Tom Sackett |
-| 1345 | 88 | Charlie Charlie |
-| 1346 | 88 | Allison |
-| 1347 | 87 | Heaven White |
-| 1348 | 87 | Shele Casey |
-| 1349 | 87 | Larry Brazil |
-| 1350 | 87 | Sanita Latham |
+| 1330 | 90 | William Campbell |
+| 1331 | 90 | Harry Matthew |
+| 1332 | 90 | McGee |
+| 1333 | 90 | Chastity Speight |
+| 1334 | 89 | Fra Nk Lin |
+| 1335 | 89 | Ghost |
+| 1336 | 89 | 杜庭維 |
+| 1337 | 89 | uberdork124 |
+| 1338 | 89 | FableGray |
+| 1339 | 89 | Victoria Montenegro Martinez |
+| 1340 | 89 | Kenton Billings |
+| 1341 | 89 | Lacey Breanna Smith |
+| 1342 | 88 | Allison |
+| 1343 | 88 | Charlie Charlie |
+| 1344 | 88 | Jason Aleshire |
+| 1345 | 88 | Tom Sackett |
+| 1346 | 88 | Kandie Marie |
+| 1347 | 88 | Gewb |
+| 1348 | 87 | Heaven White |
+| 1349 | 87 | Shele Casey |
+| 1350 | 87 | Larry Brazil |
 | 1351 | 87 | Patricia Mills |
-| 1352 | 86 | Hoppy Snapgrid |
-| 1353 | 86 | Leann Nolley |
-| 1354 | 86 | Spunky Winder |
-| 1355 | 86 | Sherri Drews |
+| 1352 | 87 | Sanita Latham |
+| 1353 | 86 | Barbara Benjamin |
+| 1354 | 86 | Sherri Drews |
+| 1355 | 86 | Spunky Winder |
 | 1356 | 86 | Silly Patternblock |
-| 1357 | 86 | Charles Holland |
-| 1358 | 86 | Barbara Benjamin |
+| 1357 | 86 | Leann Nolley |
+| 1358 | 86 | Hoppy Snapgrid |
 | 1359 | 86 | Stephanie Mounts |
-| 1360 | 86 | Daynj |
-| 1361 | 85 | Bob Thorp |
-| 1362 | 85 | Wayne Davison |
-| 1363 | 85 | Bluebird |
-| 1364 | 85 | Skuba Cece |
+| 1360 | 86 | Charles Holland |
+| 1361 | 86 | Daynj |
+| 1362 | 85 | Bluebird |
+| 1363 | 85 | Skuba Cece |
+| 1364 | 85 | Bob Thorp |
 | 1365 | 85 | weezy |
 | 1366 | 85 | Bwebb Bryan |
-| 1367 | 84 | William Campbell |
-| 1368 | 84 | Laura Small |
+| 1367 | 85 | Wayne Davison |
+| 1368 | 84 | Chirpy Tiler |
 | 1369 | 84 | Shele Renee Stahl |
-| 1370 | 84 | Purp |
-| 1371 | 84 | Chirpy Tiler |
+| 1370 | 84 | Laura Small |
+| 1371 | 84 | Purp |
 | 1372 | 83 | Jessicer |
-| 1373 | 83 | Amy Lynn |
-| 1374 | 83 | Zac Brubaker |
-| 1375 | 83 | Theresa Crawford |
+| 1373 | 83 | Theresa Crawford |
+| 1374 | 83 | Amy Lynn |
+| 1375 | 83 | Zac Brubaker |
 | 1376 | 83 | Jennifer Love Lee |
 | 1377 | 83 | Goofy Liney |
-| 1378 | 82 | Jerome Mosby |
-| 1379 | 82 | AuntieSocial |
-| 1380 | 82 | Scott Shumpert |
-| 1381 | 82 | Tina Tiger |
+| 1378 | 82 | AuntieSocial |
+| 1379 | 82 | Scott Shumpert |
+| 1380 | 82 | Tina Tiger |
+| 1381 | 82 | Justin Mccarley |
 | 1382 | 82 | Jessie May |
-| 1383 | 82 | Justin Mccarley |
-| 1384 | 82 | Hunt Joe |
-| 1385 | 82 | Pete Garrett |
-| 1386 | 81 | Dart King |
-| 1387 | 81 | June Myklebust Degarmo |
-| 1388 | 81 | Bobby |
-| 1389 | 81 | Ajayy Carlson |
-| 1390 | 81 | Brenda Schultz |
+| 1383 | 82 | Jerome Mosby |
+| 1384 | 82 | Pete Garrett |
+| 1385 | 82 | Hunt Joe |
+| 1386 | 81 | Brenda Schultz |
+| 1387 | 81 | Bobby |
+| 1388 | 81 | June Myklebust Degarmo |
+| 1389 | 81 | Robert |
+| 1390 | 81 | Ajayy Carlson |
 | 1391 | 81 | Giddy Glider |
 | 1392 | 81 | Ghale DeShazo |
-| 1393 | 81 | Robert |
-| 1394 | 80 | Blusie |
-| 1395 | 80 | Nicole Plummer |
-| 1396 | 80 | Brian |
-| 1397 | 80 | Giggy Towerfit |
-| 1398 | 80 | Cranky Dash |
-| 1399 | 80 | Sid Castro |
-| 1400 | 80 | Breezy Twister |
-| 1401 | 80 | Roxann Boykin |
-| 1402 | 80 | Matt Weierke |
-| 1403 | 80 | William Foust |
-| 1404 | 80 | Christa Payton |
-| 1405 | 80 | Stephanie |
-| 1406 | 79 | Betsy Miller Solida |
-| 1407 | 79 | John D. Bosha |
-| 1408 | 79 | Amanda Moore |
-| 1409 | 79 | Rusty Herrin |
-| 1410 | 79 | Denise |
+| 1393 | 81 | Dart King |
+| 1394 | 80 | Roxann Boykin |
+| 1395 | 80 | Giggy Towerfit |
+| 1396 | 80 | William Foust |
+| 1397 | 80 | Stephanie |
+| 1398 | 80 | Matt Weierke |
+| 1399 | 80 | Christa Payton |
+| 1400 | 80 | Brian |
+| 1401 | 80 | Breezy Twister |
+| 1402 | 80 | Cranky Dash |
+| 1403 | 80 | Blusie |
+| 1404 | 80 | Nicole Plummer |
+| 1405 | 80 | Sid Castro |
+| 1406 | 79 | Rusty Herrin |
+| 1407 | 79 | Denise |
+| 1408 | 79 | John D. Bosha |
+| 1409 | 79 | Amanda Moore |
+| 1410 | 79 | Betsy Miller Solida |
 | 1411 | 79 | Louie Ornelas |
 | 1412 | 78 | Consuelo Lopez |
 | 1413 | 78 | Mary Kopacki |
