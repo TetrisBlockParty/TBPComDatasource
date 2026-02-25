@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 06:04:44 UTC
+# Standings for team1 as of 2026-02-25 06:05:23 UTC
 
 **Total Participants:** 2423
 
@@ -34,7 +34,7 @@
 | 26 | 2209 | Carolyn Smith |
 | 27 | 2087 | Jorge Andrade |
 | 28 | 2040 | Jennifer Cates |
-| 29 | 2018 | Amanda Jarnagin |
+| 29 | 2019 | Amanda Jarnagin |
 | 30 | 1969 | Joe Smith |
 | 31 | 1900 | Hyp James NObettadanluvarat |
 | 32 | 1836 | Nancy Green |
@@ -111,7 +111,7 @@
 | 103 | 949 | Madison Wicks |
 | 104 | 947 | Amanda Johnson Huffman |
 | 105 | 947 | Desiree Deschaine Havee |
-| 106 | 941 | comrade fish |
+| 106 | 942 | comrade fish |
 | 107 | 941 | Hyper |
 | 108 | 938 | Kellie |
 | 109 | 916 | Chirpy Smasher |
@@ -159,7 +159,7 @@
 | 151 | 704 | Serina Marie |
 | 152 | 703 | Tipsy Riseclear |
 | 153 | 702 | ParisandCory Champagne |
-| 154 | 687 | Bouncy Grid |
+| 154 | 701 | Bouncy Grid |
 | 155 | 686 | Jerry Danowski |
 | 156 | 685 | April Carroll |
 | 157 | 676 | .running. |
@@ -250,7 +250,7 @@
 | 242 | 492 | Jessie Lynn |
 | 243 | 491 | Yvonne Marie |
 | 244 | 491 | Witty Builderfit |
-| 245 | 486 | Dizzy Slider |
+| 245 | 490 | Dizzy Slider |
 | 246 | 486 | Michael Espinosa Ulibarri Jr. |
 | 247 | 486 | Brenda Alexander |
 | 248 | 485 | Tyler L Hunt |
@@ -525,14 +525,14 @@
 | 517 | 297 | Amie Fields |
 | 518 | 297 | Ruthie Mahoney Saunders-Browne |
 | 519 | 297 | Willy Michael |
-| 520 | 296 | Barry Mac'Ockner |
-| 521 | 296 | Dena Kayy |
-| 522 | 295 | Archie Ware |
-| 523 | 295 | Clever Cascadepiece |
-| 524 | 294 | I Am |
-| 525 | 293 | Panda Thagreat |
-| 526 | 293 | cheeseman |
-| 527 | 292 | Larry Oaks |
+| 520 | 297 | Larry Oaks |
+| 521 | 296 | Barry Mac'Ockner |
+| 522 | 296 | Dena Kayy |
+| 523 | 295 | Archie Ware |
+| 524 | 295 | Clever Cascadepiece |
+| 525 | 294 | I Am |
+| 526 | 293 | Panda Thagreat |
+| 527 | 293 | cheeseman |
 | 528 | 291 | Sir-Franchise Drake |
 | 529 | 290 | Ariel Whittington |
 | 530 | 290 | Rachel Copas |
@@ -570,10 +570,10 @@
 | 562 | 272 | Jeffrey Scott Younkins |
 | 563 | 271 | Jennifer Corrado |
 | 564 | 270 | Sam Rosado |
-| 565 | 270 | Teresa |
-| 566 | 270 | Breanna Luna |
-| 567 | 270 | Andrew Backes |
-| 568 | 269 | Neely Janelle Stewart |
+| 565 | 270 | Neely Janelle Stewart |
+| 566 | 270 | Teresa |
+| 567 | 270 | Breanna Luna |
+| 568 | 270 | Andrew Backes |
 | 569 | 268 | Brian K Young II |
 | 570 | 268 | Kayla |
 | 571 | 268 | Ashley Adams |
