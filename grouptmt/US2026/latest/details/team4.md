@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 18:22:46 UTC
+# Standings for team4 as of 2026-02-25 18:23:23 UTC
 
 **Total Participants:** 2243
 
@@ -9,7 +9,7 @@
 | 1 | 10493 | Devinlee Brown |
 | 2 | 9192 | sierrabeth |
 | 3 | 8598 | Bubbly Puzzler |
-| 4 | 6986 | Kat |
+| 4 | 6991 | Kat |
 | 5 | 5809 | Breannah Grafe |
 | 6 | 5542 | East Mamba |
 | 7 | 5049 | Alyssa Cox |
@@ -89,7 +89,7 @@
 | 81 | 1204 | Shannon Ferrari |
 | 82 | 1186 | Patron Anderson |
 | 83 | 1181 | SAP |
-| 84 | 1171 | Carolyn Wallace |
+| 84 | 1174 | Carolyn Wallace |
 | 85 | 1163 | Girl |
 | 86 | 1159 | Guy Incognito |
 | 87 | 1128 | Destiney Carter |
