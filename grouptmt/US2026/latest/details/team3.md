@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-25 08:50:43 UTC
+# Standings for team3 as of 2026-02-25 08:51:23 UTC
 
 **Total Participants:** 3667
 
@@ -722,12 +722,12 @@
 | 714 | 327 | Peachy Rollfit |
 | 715 | 327 | Adrian Massey |
 | 716 | 327 | Richard Saunders |
-| 717 | 327 | Vikkye Vizaniaris |
-| 718 | 327 | Taylor Hood |
-| 719 | 327 | Lisa Ann |
-| 720 | 326 | Bambi Jones |
-| 721 | 326 | Cameron Lovell |
-| 722 | 326 | Danette Marie |
+| 717 | 327 | Danette Marie |
+| 718 | 327 | Vikkye Vizaniaris |
+| 719 | 327 | Taylor Hood |
+| 720 | 327 | Lisa Ann |
+| 721 | 326 | Bambi Jones |
+| 722 | 326 | Cameron Lovell |
 | 723 | 326 | Rachel Napper |
 | 724 | 326 | Beppy |
 | 725 | 325 | Nerdy Lifter |
@@ -1398,40 +1398,40 @@
 | 1390 | 175 | Valerie Strong |
 | 1391 | 175 | Peachy Crawler |
 | 1392 | 175 | Beanz |
-| 1393 | 174 | Destiny |
-| 1394 | 174 | Lilly Rather |
+| 1393 | 174 | Lilly Rather |
+| 1394 | 174 | Destiny |
 | 1395 | 174 | FATTY |
 | 1396 | 174 | Savannah Moore |
 | 1397 | 174 | Preston |
 | 1398 | 173 | Clever Wobbler |
 | 1399 | 173 | Jackie Ewert |
 | 1400 | 173 | Countess Mo |
-| 1401 | 173 | Eboni-Jade Wooten |
-| 1402 | 173 | SugaMama |
-| 1403 | 172 | Nicole Summers-Nelson |
-| 1404 | 172 | Tenisha Semidey |
+| 1401 | 173 | SugaMama |
+| 1402 | 173 | Eboni-Jade Wooten |
+| 1403 | 172 | donniesdoom |
+| 1404 | 172 | Nicole Summers-Nelson |
 | 1405 | 172 | Brave Bruno |
 | 1406 | 172 | Esther Allstar Jackson |
-| 1407 | 172 | Kayla Marie |
-| 1408 | 172 | Kerri M. Timinski |
-| 1409 | 171 | toast |
-| 1410 | 171 | Gavin Carr |
+| 1407 | 172 | Tenisha Semidey |
+| 1408 | 172 | Kayla Marie |
+| 1409 | 172 | Kerri M. Timinski |
+| 1410 | 171 | toast |
 | 1411 | 171 | Gary R Anderson |
-| 1412 | 171 | Dapper Zone |
-| 1413 | 171 | Emily Dahl |
-| 1414 | 170 | ChellsieBabes |
-| 1415 | 170 | Tiara T Debrah |
-| 1416 | 170 | donniesdoom |
-| 1417 | 170 | Troy Coleman |
-| 1418 | 170 | Sydney Weller |
-| 1419 | 170 | Snazzy Shatterclear |
-| 1420 | 170 | Christina |
-| 1421 | 170 | Jennifer MacCharles |
+| 1412 | 171 | Emily Dahl |
+| 1413 | 171 | Gavin Carr |
+| 1414 | 171 | Dapper Zone |
+| 1415 | 170 | Snazzy Shatterclear |
+| 1416 | 170 | Christina |
+| 1417 | 170 | Jennifer MacCharles |
+| 1418 | 170 | Tiara T Debrah |
+| 1419 | 170 | Sydney Weller |
+| 1420 | 170 | Troy Coleman |
+| 1421 | 170 | ChellsieBabes |
 | 1422 | 170 | Ashley Hobbs |
-| 1423 | 169 | Twisty Linebuilder |
+| 1423 | 169 | Twister mcnugget |
 | 1424 | 169 | GoddessCandy |
-| 1425 | 169 | Twister mcnugget |
-| 1426 | 169 | Mendy Frost |
+| 1425 | 169 | Mendy Frost |
+| 1426 | 169 | Twisty Linebuilder |
 | 1427 | 169 | Frothy Clearpiece |
 | 1428 | 169 | Jessica Ritchie |
 | 1429 | 169 | Duane Miller |
@@ -1440,14 +1440,14 @@
 | 1432 | 168 | Amanda Mooney |
 | 1433 | 168 | Cozy Matchfit |
 | 1434 | 168 | Beeshbo |
-| 1435 | 168 | Loopy Glide |
-| 1436 | 168 | Isaac Meighan |
-| 1437 | 168 | Jeffery Shirley |
-| 1438 | 168 | Ma Dolores Estrada A |
-| 1439 | 168 | Speedy Rollblock |
-| 1440 | 168 | Untamed |
+| 1435 | 168 | Jeffery Shirley |
+| 1436 | 168 | Ma Dolores Estrada A |
+| 1437 | 168 | Speedy Rollblock |
+| 1438 | 168 | Loopy Glide |
+| 1439 | 168 | Untamed |
+| 1440 | 168 | Perky Clusterbuilder |
 | 1441 | 168 | Giggly Cascadefit |
-| 1442 | 168 | Perky Clusterbuilder |
+| 1442 | 168 | Isaac Meighan |
 | 1443 | 167 | Kristen Reeves |
 | 1444 | 167 | Melissa Landsperger |
 | 1445 | 167 | Sarah Elizabeth |
