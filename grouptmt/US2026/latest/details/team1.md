@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 09:38:43 UTC
+# Standings for team1 as of 2026-02-25 09:39:22 UTC
 
 **Total Participants:** 2449
 
@@ -223,10 +223,10 @@
 | 215 | 551 | Stephanie Zahn |
 | 216 | 550 | Nery Martinez |
 | 217 | 550 | Sam Williams |
-| 218 | 548 | Teri Oehlke |
-| 219 | 547 | Sharon Reynolds |
-| 220 | 544 | Adele Rahman |
-| 221 | 544 | Sarah Somers Gray |
+| 218 | 549 | Sarah Somers Gray |
+| 219 | 548 | Teri Oehlke |
+| 220 | 547 | Sharon Reynolds |
+| 221 | 544 | Adele Rahman |
 | 222 | 544 | Chaste Minor |
 | 223 | 544 | Anaid Sanchez |
 | 224 | 544 | Sean Stallings |
@@ -662,19 +662,19 @@
 | 654 | 241 | Lush Zoney |
 | 655 | 241 | Kellie Tunstall |
 | 656 | 241 | Mavria Comeaux Hinton |
-| 657 | 240 | Jessica Imboden |
-| 658 | 239 | Dizzy Rackham |
-| 659 | 239 | Bucketsmasher |
-| 660 | 239 | Matt Cinelli |
-| 661 | 238 | Lucinda Thacker |
-| 662 | 238 | Kanesha Jackson |
-| 663 | 237 | Sarah Cassese |
-| 664 | 237 | Gina Fontana Meier |
-| 665 | 237 | Jonathan Joshua |
-| 666 | 236 | Slinky Tile |
-| 667 | 236 | Mortious |
-| 668 | 236 | Boldy Snapfit |
-| 669 | 235 | Rick Pickup Raymur |
+| 657 | 241 | Rick Pickup Raymur |
+| 658 | 240 | Jessica Imboden |
+| 659 | 239 | Dizzy Rackham |
+| 660 | 239 | Bucketsmasher |
+| 661 | 239 | Matt Cinelli |
+| 662 | 238 | Lucinda Thacker |
+| 663 | 238 | Kanesha Jackson |
+| 664 | 237 | Sarah Cassese |
+| 665 | 237 | Gina Fontana Meier |
+| 666 | 237 | Jonathan Joshua |
+| 667 | 236 | Slinky Tile |
+| 668 | 236 | Mortious |
+| 669 | 236 | Boldy Snapfit |
 | 670 | 235 | Jana Hutcheson |
 | 671 | 235 | Owicked1 |
 | 672 | 235 | Sarah Henniker |
@@ -1419,20 +1419,20 @@
 | 1411 | 79 | Louie Ornelas |
 | 1412 | 78 | Consuelo Lopez |
 | 1413 | 78 | Mary Kopacki |
-| 1414 | 78 | Pauline Rentch |
-| 1415 | 78 | Jessica Collier |
-| 1416 | 78 | Dake Axton Shields |
-| 1417 | 78 | Dustin Whited |
-| 1418 | 78 | Tma |
+| 1414 | 78 | Andee Bo Bandee |
+| 1415 | 78 | Pauline Rentch |
+| 1416 | 78 | Jessica Collier |
+| 1417 | 78 | Dake Axton Shields |
+| 1418 | 78 | Dustin Whited |
 | 1419 | 78 | Ricardo Terrazas |
-| 1420 | 77 | Monica Rivas |
-| 1421 | 77 | Joshua Allen Garey |
-| 1422 | 77 | Home Plate |
-| 1423 | 77 | J.W. Norris |
-| 1424 | 77 | Frank |
-| 1425 | 77 | Dwight Wade Stambaugh Jr. |
-| 1426 | 76 | fuse |
-| 1427 | 76 | Andee Bo Bandee |
+| 1420 | 78 | Tma |
+| 1421 | 77 | Monica Rivas |
+| 1422 | 77 | Joshua Allen Garey |
+| 1423 | 77 | Home Plate |
+| 1424 | 77 | J.W. Norris |
+| 1425 | 77 | Frank |
+| 1426 | 77 | Dwight Wade Stambaugh Jr. |
+| 1427 | 76 | fuse |
 | 1428 | 76 | Lydia Rodriguez |
 | 1429 | 76 | Pete Davis |
 | 1430 | 76 | Chirpy Twistline |
