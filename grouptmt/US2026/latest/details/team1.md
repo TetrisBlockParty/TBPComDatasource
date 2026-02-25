@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 08:34:44 UTC
+# Standings for team1 as of 2026-02-25 08:35:23 UTC
 
 **Total Participants:** 2442
 
@@ -32,7 +32,7 @@
 | 24 | 2402 | Adryane Schnase |
 | 25 | 2358 | Derek MF Blakey |
 | 26 | 2209 | Carolyn Smith |
-| 27 | 2137 | Amanda Jarnagin |
+| 27 | 2177 | Amanda Jarnagin |
 | 28 | 2087 | Jorge Andrade |
 | 29 | 2040 | Jennifer Cates |
 | 30 | 2004 | Hyp James NObettadanluvarat |
@@ -253,7 +253,7 @@
 | 245 | 501 | Candy Jones |
 | 246 | 500 | Jamise Brown |
 | 247 | 498 | Richard Corrado |
-| 248 | 495 | Dizzy Slider |
+| 248 | 497 | Dizzy Slider |
 | 249 | 492 | Jessie Lynn |
 | 250 | 491 | Yvonne Marie |
 | 251 | 486 | Brenda Alexander |
@@ -409,11 +409,11 @@
 | 401 | 364 | Shauna Loe |
 | 402 | 364 | dhardy |
 | 403 | 363 | Lyn Sibayan |
-| 404 | 362 | Perky Lifter |
-| 405 | 362 | Jennifer Olewnik Soborowski |
-| 406 | 362 | Glitzy Grid |
-| 407 | 362 | Diane Byrd |
-| 408 | 362 | Lilkimmie |
+| 404 | 363 | Lilkimmie |
+| 405 | 362 | Perky Lifter |
+| 406 | 362 | Jennifer Olewnik Soborowski |
+| 407 | 362 | Glitzy Grid |
+| 408 | 362 | Diane Byrd |
 | 409 | 361 | Rico Rico |
 | 410 | 361 | Jeremy Maubert |
 | 411 | 361 | Marci Sanders |
@@ -1419,67 +1419,67 @@
 | 1411 | 78 | Tma |
 | 1412 | 78 | Dake Axton Shields |
 | 1413 | 78 | Pauline Rentch |
-| 1414 | 77 | Joshua Allen Garey |
-| 1415 | 77 | Monica Rivas |
+| 1414 | 77 | Monica Rivas |
+| 1415 | 77 | J.W. Norris |
 | 1416 | 77 | Frank |
 | 1417 | 77 | Dwight Wade Stambaugh Jr. |
-| 1418 | 77 | J.W. Norris |
-| 1419 | 76 | Chirpy Twistline |
-| 1420 | 76 | Cari Brown Cady |
-| 1421 | 76 | Slinky Towerpiece |
-| 1422 | 76 | Lydia Rodriguez |
-| 1423 | 76 | Harry N Baker |
-| 1424 | 76 | Pete Davis |
-| 1425 | 76 | fuse |
-| 1426 | 76 | Dreamy Patternfit |
-| 1427 | 75 | Jmo |
-| 1428 | 75 | Quirky Rumbler |
-| 1429 | 75 | Christian Schirmer |
-| 1430 | 75 | Kimi Kay Anderson |
-| 1431 | 75 | Mama Zelda |
-| 1432 | 75 | William Campbell |
-| 1433 | 75 | Chill Brickclear |
-| 1434 | 75 | Sarah Stanonik |
+| 1418 | 77 | Joshua Allen Garey |
+| 1419 | 76 | Harry N Baker |
+| 1420 | 76 | Dreamy Patternfit |
+| 1421 | 76 | fuse |
+| 1422 | 76 | Slinky Towerpiece |
+| 1423 | 76 | Pete Davis |
+| 1424 | 76 | Lydia Rodriguez |
+| 1425 | 76 | Chirpy Twistline |
+| 1426 | 76 | Cari Brown Cady |
+| 1427 | 75 | Christian Schirmer |
+| 1428 | 75 | Jmo |
+| 1429 | 75 | Quirky Rumbler |
+| 1430 | 75 | William Campbell |
+| 1431 | 75 | Kimi Kay Anderson |
+| 1432 | 75 | Anthony Torres |
+| 1433 | 75 | Terri Williams |
+| 1434 | 75 | Chill Brickclear |
 | 1435 | 75 | Diana |
-| 1436 | 75 | Anthony Torres |
-| 1437 | 75 | Terri Williams |
-| 1438 | 74 | Connie Matheney |
-| 1439 | 74 | Giddy Blockbuilder |
+| 1436 | 75 | Sarah Stanonik |
+| 1437 | 75 | Mama Zelda |
+| 1438 | 74 | savior |
+| 1439 | 74 | Jessica Collier |
 | 1440 | 74 | Ghost |
-| 1441 | 74 | Kayyjayy |
-| 1442 | 74 | Ariella Knopp Warner |
-| 1443 | 74 | Edward Woodall |
-| 1444 | 74 | savior |
-| 1445 | 73 | Elania Marie Degrez |
-| 1446 | 73 | Loneell Hyland |
-| 1447 | 73 | Melissa Capps |
-| 1448 | 73 | Bouncy Link |
-| 1449 | 73 | Hoppy Party |
-| 1450 | 73 | Channis |
-| 1451 | 73 | Grandmeemers22 |
-| 1452 | 73 | Jessica Collier |
-| 1453 | 73 | Wynn Cook |
+| 1441 | 74 | Connie Matheney |
+| 1442 | 74 | Edward Woodall |
+| 1443 | 74 | Giddy Blockbuilder |
+| 1444 | 74 | Ariella Knopp Warner |
+| 1445 | 74 | Kayyjayy |
+| 1446 | 73 | Channis |
+| 1447 | 73 | Hoppy Party |
+| 1448 | 73 | Melissa Capps |
+| 1449 | 73 | Wynn Cook |
+| 1450 | 73 | Elania Marie Degrez |
+| 1451 | 73 | Bouncy Link |
+| 1452 | 73 | Loneell Hyland |
+| 1453 | 73 | Grandmeemers22 |
 | 1454 | 73 | Zappy Pivoty |
-| 1455 | 72 | GDerro |
-| 1456 | 72 | e |
-| 1457 | 72 | Beverly S. Robinson |
-| 1458 | 72 | Randi Voight |
-| 1459 | 72 | Samantha Schmidt |
-| 1460 | 72 | Hoppy Clearbuilder |
-| 1461 | 72 | COBETRYCE |
-| 1462 | 71 | Andee Bo Bandee |
-| 1463 | 71 | Michael Willett |
-| 1464 | 71 | Quirky Catcher |
-| 1465 | 71 | Amy Hoats |
-| 1466 | 71 | Carlitos Faith Faith |
-| 1467 | 71 | Tiffany Laura |
-| 1468 | 71 | Dylan BW |
-| 1469 | 71 | Frisky Setter |
-| 1470 | 71 | Bridgette |
-| 1471 | 71 | Kimchi |
-| 1472 | 70 | Shaun Houglin |
-| 1473 | 70 | Gerriann Jordan |
-| 1474 | 70 | BadBoyJeff |
+| 1455 | 72 | Randi Voight |
+| 1456 | 72 | Samantha Schmidt |
+| 1457 | 72 | GDerro |
+| 1458 | 72 | e |
+| 1459 | 72 | Beverly S. Robinson |
+| 1460 | 72 | COBETRYCE |
+| 1461 | 72 | Hoppy Clearbuilder |
+| 1462 | 71 | Michael Willett |
+| 1463 | 71 | Quirky Catcher |
+| 1464 | 71 | Tiffany Laura |
+| 1465 | 71 | Dylan BW |
+| 1466 | 71 | Bridgette |
+| 1467 | 71 | Frisky Setter |
+| 1468 | 71 | Amy Hoats |
+| 1469 | 71 | Carlitos Faith Faith |
+| 1470 | 71 | Kimchi |
+| 1471 | 71 | Andee Bo Bandee |
+| 1472 | 70 | Gerriann Jordan |
+| 1473 | 70 | BadBoyJeff |
+| 1474 | 70 | Shaun Houglin |
 | 1475 | 70 | Blythe |
 | 1476 | 70 | SuzyQ |
 | 1477 | 70 | Dennis Eitler |
