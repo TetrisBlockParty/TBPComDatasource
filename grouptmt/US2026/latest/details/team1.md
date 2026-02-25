@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 09:33:22 UTC
+# Standings for team1 as of 2026-02-25 09:34:45 UTC
 
 **Total Participants:** 2449
 
@@ -186,15 +186,15 @@
 | 178 | 633 | ALFD |
 | 179 | 629 | Chase Collinsworth |
 | 180 | 628 | Νεφ Όνυξ |
-| 181 | 623 | Jessie Welch |
-| 182 | 623 | Jessi Sauer |
+| 181 | 623 | Jessi Sauer |
+| 182 | 623 | Jessie Welch |
 | 183 | 616 | Sleepysloath5745 |
 | 184 | 615 | Timothy Danaher |
 | 185 | 615 | BadG52 |
 | 186 | 612 | Loony Fitzone |
-| 187 | 609 | Deanna L Hermanson |
-| 188 | 606 | Brandi Huntington |
-| 189 | 604 | Howdi Duty |
+| 187 | 609 | Howdi Duty |
+| 188 | 609 | Deanna L Hermanson |
+| 189 | 606 | Brandi Huntington |
 | 190 | 604 | Sarah Lombardo |
 | 191 | 600 | Arianna O'Brien |
 | 192 | 597 | Jumpy Dropper |
@@ -203,9 +203,9 @@
 | 195 | 589 | Rat666 |
 | 196 | 587 | Luciano Moreira |
 | 197 | 585 | John J. Cronin |
-| 198 | 581 | Jessica Russell |
-| 199 | 581 | Rebekah LeiAnn Bonsell |
-| 200 | 580 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 198 | 584 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 199 | 581 | Jessica Russell |
+| 200 | 581 | Rebekah LeiAnn Bonsell |
 | 201 | 579 | Michelle Beres |
 | 202 | 578 | Hasty Cascader |
 | 203 | 577 | Constance Risner |
@@ -450,7 +450,7 @@
 | 442 | 342 | Toni Sagenbrecht |
 | 443 | 342 | Christina Norman |
 | 444 | 342 | ash |
-| 445 | 341 | Shaykmia |
+| 445 | 342 | Shaykmia |
 | 446 | 340 | Dawon Ksk Capers |
 | 447 | 339 | Joe Coon |
 | 448 | 338 | cheeseman |
@@ -622,9 +622,9 @@
 | 614 | 255 | Miguel Teixeira |
 | 615 | 255 | Goobette |
 | 616 | 254 | Lil H |
-| 617 | 254 | Sheri Read |
+| 617 | 254 | Jenny Hughes |
 | 618 | 254 | MRdot Rooski |
-| 619 | 254 | Jenny Hughes |
+| 619 | 254 | Sheri Read |
 | 620 | 254 | monstermutt |
 | 621 | 254 | Jeff Jack II |
 | 622 | 253 | Bay Marie |
@@ -635,70 +635,70 @@
 | 627 | 252 | grizzly |
 | 628 | 252 | Jordan Brooks |
 | 629 | 252 | Ruf Lowman |
-| 630 | 250 | Jill King Oldham |
-| 631 | 250 | Dandy Towerbuilder |
+| 630 | 250 | Dandy Towerbuilder |
+| 631 | 250 | Jill King Oldham |
 | 632 | 249 | Lauren Baxter |
 | 633 | 248 | Liliana Pena |
-| 634 | 247 | Nikki Fridley |
-| 635 | 247 | Michelle Deans |
-| 636 | 247 | Corkey Steinmark |
-| 637 | 247 | Dandy Glider |
-| 638 | 247 | Nate Carter |
+| 634 | 248 | Corkey Steinmark |
+| 635 | 247 | Nate Carter |
+| 636 | 247 | Dandy Glider |
+| 637 | 247 | Michelle Deans |
+| 638 | 247 | Nikki Fridley |
 | 639 | 246 | Frothy Blockbuilder |
-| 640 | 246 | Nicole Nikki |
-| 641 | 246 | ken |
-| 642 | 245 | Sarah Barrow |
-| 643 | 245 | Nutty Glide |
-| 644 | 244 | Chyna Mae |
-| 645 | 244 | Robin Burress |
-| 646 | 243 | Shay J Duval |
-| 647 | 243 | Lark |
-| 648 | 242 | Kirk Torrey |
+| 640 | 246 | ken |
+| 641 | 246 | Nicole Nikki |
+| 642 | 245 | Nutty Glide |
+| 643 | 245 | Sarah Barrow |
+| 644 | 244 | Robin Burress |
+| 645 | 244 | Chyna Mae |
+| 646 | 243 | Lark |
+| 647 | 243 | Shay J Duval |
+| 648 | 242 | Dawn Rannelli |
 | 649 | 242 | Renata Mabie |
 | 650 | 242 | Mel Hogan |
-| 651 | 242 | Dawn Rannelli |
-| 652 | 241 | Misty Hall Zaranti |
-| 653 | 241 | Lush Zoney |
-| 654 | 241 | Kellie Tunstall |
-| 655 | 241 | Mavria Comeaux Hinton |
-| 656 | 241 | Hdhshsn |
+| 651 | 242 | Kirk Torrey |
+| 652 | 241 | Hdhshsn |
+| 653 | 241 | Misty Hall Zaranti |
+| 654 | 241 | Lush Zoney |
+| 655 | 241 | Kellie Tunstall |
+| 656 | 241 | Mavria Comeaux Hinton |
 | 657 | 240 | Jessica Imboden |
 | 658 | 239 | Bucketsmasher |
-| 659 | 239 | Matt Cinelli |
-| 660 | 239 | Dizzy Rackham |
+| 659 | 239 | Dizzy Rackham |
+| 660 | 239 | Matt Cinelli |
 | 661 | 238 | Lucinda Thacker |
 | 662 | 238 | Kanesha Jackson |
 | 663 | 237 | Sarah Cassese |
 | 664 | 237 | Gina Fontana Meier |
 | 665 | 237 | Jonathan Joshua |
-| 666 | 236 | Mortious |
-| 667 | 236 | Slinky Tile |
+| 666 | 236 | Slinky Tile |
+| 667 | 236 | Mortious |
 | 668 | 236 | Boldy Snapfit |
-| 669 | 235 | Sarah Henniker |
-| 670 | 235 | Jana Hutcheson |
+| 669 | 235 | Rick Pickup Raymur |
+| 670 | 235 | Sarah Henniker |
 | 671 | 235 | Owicked1 |
-| 672 | 234 | Krazykat💋❤️💋 |
-| 673 | 234 | Christina Torres |
-| 674 | 234 | Ruby Sandberg |
-| 675 | 234 | Aaron Green |
-| 676 | 233 | Hyper Tilemaker |
-| 677 | 233 | Tina Englert |
-| 678 | 233 | Sherri E Woods Hess |
-| 679 | 232 | yoyoluv |
-| 680 | 232 | Tina Sinclair |
-| 681 | 231 | Hector Cruz |
-| 682 | 231 | Emily Wray |
-| 683 | 231 | Dawn Henderson |
-| 684 | 231 | Mindy Gloska |
-| 685 | 230 | Jennifer Crawford |
-| 686 | 228 | Negan Mallory Knoxx Spence |
-| 687 | 228 | Jai Pahpasay |
-| 688 | 228 | Davery Spencer Adair |
-| 689 | 227 | Spunky Builderpiece |
-| 690 | 227 | Craig Mcgonigle |
-| 691 | 227 | Daniel Lorquet |
+| 672 | 235 | Jana Hutcheson |
+| 673 | 234 | Krazykat💋❤️💋 |
+| 674 | 234 | Christina Torres |
+| 675 | 234 | Ruby Sandberg |
+| 676 | 234 | Aaron Green |
+| 677 | 233 | Hyper Tilemaker |
+| 678 | 233 | Tina Englert |
+| 679 | 233 | Sherri E Woods Hess |
+| 680 | 232 | yoyoluv |
+| 681 | 232 | Tina Sinclair |
+| 682 | 231 | Hector Cruz |
+| 683 | 231 | Emily Wray |
+| 684 | 231 | Dawn Henderson |
+| 685 | 231 | Mindy Gloska |
+| 686 | 230 | Jennifer Crawford |
+| 687 | 228 | Negan Mallory Knoxx Spence |
+| 688 | 228 | Jai Pahpasay |
+| 689 | 228 | Davery Spencer Adair |
+| 690 | 227 | Spunky Builderpiece |
+| 691 | 227 | Craig Mcgonigle |
 | 692 | 227 | Mary M Brion |
-| 693 | 226 | Rick Pickup Raymur |
+| 693 | 227 | Daniel Lorquet |
 | 694 | 225 | Ramona Mittelstadt |
 | 695 | 224 | Kkl |
 | 696 | 224 | Speedy Balancepiece |
@@ -1788,73 +1788,73 @@
 | 1780 | 44 | Plucky Mover |
 | 1781 | 44 | Aforce Tobereckoned |
 | 1782 | 44 | Danielle Martin |
-| 1783 | 44 | Vicky Meanor |
-| 1784 | 44 | Samantha Nowaski |
-| 1785 | 44 | Daring Clusterline |
-| 1786 | 44 | Rick |
-| 1787 | 44 | Hasty Towerfit |
-| 1788 | 44 | Toya Thomas |
-| 1789 | 44 | Jayne Zitek |
-| 1790 | 43 | Zesty Brickclear |
-| 1791 | 43 | Daring Brickroll |
-| 1792 | 43 | callsignbdog |
-| 1793 | 43 | Cryder Monique |
-| 1794 | 43 | ballzdeep |
-| 1795 | 43 | Kippopotamus |
-| 1796 | 43 | Dreamy Twister |
-| 1797 | 43 | Dawn Mateo De Acosta |
+| 1783 | 44 | Toya Thomas |
+| 1784 | 44 | Vicky Meanor |
+| 1785 | 44 | Samantha Nowaski |
+| 1786 | 44 | Hasty Towerfit |
+| 1787 | 44 | Jayne Zitek |
+| 1788 | 44 | Rick |
+| 1789 | 44 | Daring Clusterline |
+| 1790 | 43 | Dreamy Twister |
+| 1791 | 43 | Kippopotamus |
+| 1792 | 43 | Zesty Brickclear |
+| 1793 | 43 | ballzdeep |
+| 1794 | 43 | Cryder Monique |
+| 1795 | 43 | Dawn Mateo De Acosta |
+| 1796 | 43 | callsignbdog |
+| 1797 | 43 | Jennifer M. Faircloth |
 | 1798 | 43 | Cranky Tiltbuilder |
-| 1799 | 43 | Charlie Vanblarcom |
-| 1800 | 43 | Astelee |
+| 1799 | 43 | Daring Brickroll |
+| 1800 | 43 | Charlie Vanblarcom |
 | 1801 | 43 | Dorothy Vernon |
-| 1802 | 43 | Brosecki |
-| 1803 | 43 | DaDawg |
-| 1804 | 42 | Jose Velasquez |
-| 1805 | 42 | Michael McCarron |
+| 1802 | 43 | Astelee |
+| 1803 | 43 | Brosecki |
+| 1804 | 43 | DaDawg |
+| 1805 | 42 | Jose Velasquez |
 | 1806 | 42 | Poppy Clearer |
-| 1807 | 42 | Dwayne Bogue |
-| 1808 | 42 | Aaron Henry |
-| 1809 | 42 | Oliver Reeder |
-| 1810 | 42 | HyperBrickFit |
+| 1807 | 42 | Oliver Reeder |
+| 1808 | 42 | Michael McCarron |
+| 1809 | 42 | Dwayne Bogue |
+| 1810 | 42 | Aaron Henry |
 | 1811 | 42 | James Best |
-| 1812 | 41 | Jas Ali |
-| 1813 | 41 | Curtis |
-| 1814 | 41 | Duhoh |
-| 1815 | 41 | Plucky Column |
-| 1816 | 41 | rae |
-| 1817 | 41 | lisa |
-| 1818 | 41 | Jennifer M. Faircloth |
-| 1819 | 41 | Hollyjo Balistreri |
-| 1820 | 41 | Liz Oubre |
-| 1821 | 41 | Chad Massaro |
-| 1822 | 41 | Nat Gnzlz |
-| 1823 | 41 | TheBandit |
-| 1824 | 41 | Plucky Gridzone |
-| 1825 | 41 | Jeremy Hurt |
-| 1826 | 41 | ya boi |
-| 1827 | 40 | Terri Ruffin Arnett |
+| 1812 | 42 | HyperBrickFit |
+| 1813 | 41 | Jas Ali |
+| 1814 | 41 | Curtis |
+| 1815 | 41 | Duhoh |
+| 1816 | 41 | Chad Massaro |
+| 1817 | 41 | rae |
+| 1818 | 41 | Liz Oubre |
+| 1819 | 41 | lisa |
+| 1820 | 41 | Hollyjo Balistreri |
+| 1821 | 41 | Jeremy Hurt |
+| 1822 | 41 | Plucky Column |
+| 1823 | 41 | Nat Gnzlz |
+| 1824 | 41 | ya boi |
+| 1825 | 41 | TheBandit |
+| 1826 | 41 | Plucky Gridzone |
+| 1827 | 40 | Natalyia |
 | 1828 | 40 | Richardwertz |
-| 1829 | 40 | Natalyia |
-| 1830 | 40 | Chelly |
-| 1831 | 40 | Georgia J Krawczyk |
+| 1829 | 40 | Georgia J Krawczyk |
+| 1830 | 40 | Terri Ruffin Arnett |
+| 1831 | 40 | Chelly |
 | 1832 | 40 | Elizabeth A. Lisa Short |
-| 1833 | 39 | Merder |
-| 1834 | 39 | Julia Linares |
-| 1835 | 39 | Chipper Stacky |
-| 1836 | 39 | Yonkas |
-| 1837 | 39 | Anna Mae |
-| 1838 | 39 | Clever Blocker |
-| 1839 | 39 | RLA |
-| 1840 | 39 | Carla Tavares |
-| 1841 | 39 | Crafty Blockzone |
-| 1842 | 39 | Keith Hiller |
-| 1843 | 38 | Dora Greer |
-| 1844 | 38 | Jking |
-| 1845 | 38 | Rodriguez Leslie |
-| 1846 | 38 | Brad King |
-| 1847 | 38 | Akgretel |
-| 1848 | 38 | Mary Kaniuha |
-| 1849 | 38 | Edgar Vazquez |
+| 1833 | 39 | Clever Blocker |
+| 1834 | 39 | Anna Mae |
+| 1835 | 39 | Keith Hiller |
+| 1836 | 39 | RLA |
+| 1837 | 39 | Carla Tavares |
+| 1838 | 39 | Merder |
+| 1839 | 39 | Crafty Blockzone |
+| 1840 | 39 | Yonkas |
+| 1841 | 39 | Chipper Stacky |
+| 1842 | 39 | Julia Linares |
+| 1843 | 38 | Rodriguez Leslie |
+| 1844 | 38 | Akgretel |
+| 1845 | 38 | Edgar Vazquez |
+| 1846 | 38 | Jking |
+| 1847 | 38 | Mary Kaniuha |
+| 1848 | 38 | Dora Greer |
+| 1849 | 38 | Brad King |
 | 1850 | 38 | Kik |
 | 1851 | 38 | Dawn Mansfield |
 | 1852 | 38 | Big d |
@@ -2436,25 +2436,25 @@
 | 2428 | 6 | Charles Larsen |
 | 2429 | 5 | Jeremy Thomson |
 | 2430 | 5 | Sharon Elizabeth Holmes |
-| 2431 | 5 | Chele Gibble |
+| 2431 | 5 | Lissa Armstrong |
 | 2432 | 5 | Lansaw J Jay |
 | 2433 | 5 | BlockKnocker |
 | 2434 | 5 | Giggy Striker |
 | 2435 | 5 | Clever Towerfit |
 | 2436 | 5 | Lawana Sobilo |
-| 2437 | 5 | Lissa Armstrong |
-| 2438 | 5 | Maria Ramos |
-| 2439 | 5 | Ricky Batista |
-| 2440 | 5 | Star Hood |
-| 2441 | 5 | Hasty Rollblock |
-| 2442 | 5 | Heidi Fuller |
-| 2443 | 5 | Kimberly Meijers |
-| 2444 | 5 | Daring Patternbuilder |
-| 2445 | 5 | Wambo |
-| 2446 | 5 | Fareti |
-| 2447 | 5 | DonDotta |
-| 2448 | 5 | FFincher88 |
-| 2449 | 5 | Glenda Thompson |
+| 2437 | 5 | Maria Ramos |
+| 2438 | 5 | Ricky Batista |
+| 2439 | 5 | Star Hood |
+| 2440 | 5 | Chele Gibble |
+| 2441 | 5 | Heidi Fuller |
+| 2442 | 5 | Glenda Thompson |
+| 2443 | 5 | FFincher88 |
+| 2444 | 5 | DonDotta |
+| 2445 | 5 | Fareti |
+| 2446 | 5 | Wambo |
+| 2447 | 5 | Daring Patternbuilder |
+| 2448 | 5 | Kimberly Meijers |
+| 2449 | 5 | Hasty Rollblock |
 
 ---
 *Standings created by tournaments datasource generation tool*
