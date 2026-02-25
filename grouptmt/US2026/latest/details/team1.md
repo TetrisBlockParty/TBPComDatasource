@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 14:02:44 UTC
+# Standings for team1 as of 2026-02-25 14:03:21 UTC
 
 **Total Participants:** 2472
 
@@ -97,11 +97,11 @@
 | 89 | 1114 | Jayme Sellers |
 | 90 | 1105 | Cheeky Crusher |
 | 91 | 1103 | Erin Hodges Plumb |
-| 92 | 1079 | Tee Sheree |
-| 93 | 1075 | Ash Galvan |
-| 94 | 1071 | Phu ckalldems |
-| 95 | 1066 | Dawn Sheppard |
-| 96 | 1065 | Francesca Gee |
+| 92 | 1099 | Francesca Gee |
+| 93 | 1079 | Tee Sheree |
+| 94 | 1075 | Ash Galvan |
+| 95 | 1071 | Phu ckalldems |
+| 96 | 1066 | Dawn Sheppard |
 | 97 | 1047 | Zippy Align |
 | 98 | 1032 | Kathi Snustad |
 | 99 | 1004 | Chris K |
@@ -1926,28 +1926,28 @@
 | 1918 | 33 | Rosie |
 | 1919 | 33 | Samantha Rachelle Branham |
 | 1920 | 33 | Frothy Grid |
-| 1921 | 33 | Linda Nys |
+| 1921 | 33 | Zany Gridclear |
 | 1922 | 33 | Siconia Mccants Bsw |
 | 1923 | 33 | Roberta |
 | 1924 | 33 | Rachael F Trudel |
-| 1925 | 33 | Zany Gridclear |
+| 1925 | 33 | Linda Nys |
 | 1926 | 33 | James Rob |
 | 1927 | 33 | Leshay Brooks |
-| 1928 | 32 | Tony Lawton |
-| 1929 | 32 | Trecey |
-| 1930 | 32 | Djdubz |
-| 1931 | 32 | Dandy Crawler |
-| 1932 | 32 | Guy Krutas |
-| 1933 | 32 | Giggy Clearbuilder |
-| 1934 | 32 | Glitzy Strikesnap |
-| 1935 | 32 | Linda Alvarez |
-| 1936 | 32 | Zesty Towerzone |
-| 1937 | 32 | Matthew Matoushek |
-| 1938 | 32 | Eric Robinson |
-| 1939 | 32 | Everett Hampton |
-| 1940 | 32 | Lulumagoo |
+| 1928 | 32 | Trecey |
+| 1929 | 32 | Tony Lawton |
+| 1930 | 32 | Giggy Clearbuilder |
+| 1931 | 32 | Djdubz |
+| 1932 | 32 | mudpuppy |
+| 1933 | 32 | Everett Hampton |
+| 1934 | 32 | Linda Alvarez |
+| 1935 | 32 | Dandy Crawler |
+| 1936 | 32 | Glitzy Strikesnap |
+| 1937 | 32 | Lulumagoo |
+| 1938 | 32 | Zesty Towerzone |
+| 1939 | 32 | Matthew Matoushek |
+| 1940 | 32 | Eric Robinson |
 | 1941 | 32 | CelestiaIris |
-| 1942 | 32 | mudpuppy |
+| 1942 | 32 | Guy Krutas |
 | 1943 | 32 | Annoying46 |
 | 1944 | 32 | Hoppy Riserfit |
 | 1945 | 32 | Rangel Arch |
@@ -1958,42 +1958,42 @@
 | 1950 | 31 | Amanda Colwell |
 | 1951 | 31 | Lynnita West Wright |
 | 1952 | 31 | Wildeye |
-| 1953 | 31 | Pm Ca |
-| 1954 | 31 | Maya Denae Myrick |
-| 1955 | 31 | Rebecca Rognerud |
-| 1956 | 31 | Cassandra Cooper |
-| 1957 | 31 | Plucky Wipebuilder |
-| 1958 | 31 | Shawne Smith |
-| 1959 | 31 | Justin Wolf |
+| 1953 | 31 | Lush Patternzone |
+| 1954 | 31 | Pm Ca |
+| 1955 | 31 | Maya Denae Myrick |
+| 1956 | 31 | Rebecca Rognerud |
+| 1957 | 31 | Shawne Smith |
+| 1958 | 31 | Justin Wolf |
+| 1959 | 31 | Tiny Bear |
 | 1960 | 31 | Summer |
-| 1961 | 31 | Tiny Bear |
-| 1962 | 30 | BIGOONS |
-| 1963 | 30 | Melissa Nicole Hanscom |
-| 1964 | 30 | Twisty Lift |
-| 1965 | 30 | Boldy Stacky |
-| 1966 | 30 | Ashley Glover |
-| 1967 | 30 | Giggy Zonepiece |
-| 1968 | 30 | Melissa Erwin |
-| 1969 | 30 | KERI |
-| 1970 | 30 | Tiffany Hairston |
-| 1971 | 30 | Meh |
-| 1972 | 30 | Shawn Ricketts-Nelson |
-| 1973 | 29 | Diane Wilson |
-| 1974 | 29 | Soany Barrera |
-| 1975 | 29 | Michelle Arteaga-Avila |
-| 1976 | 29 | GiGi Maisonave |
-| 1977 | 29 | Lush Patternzone |
-| 1978 | 29 | Renee Miles Merrick |
-| 1979 | 29 | Amy Thale Gooding |
+| 1961 | 31 | Plucky Wipebuilder |
+| 1962 | 31 | Cassandra Cooper |
+| 1963 | 30 | Meh |
+| 1964 | 30 | Giggy Zonepiece |
+| 1965 | 30 | Melissa Nicole Hanscom |
+| 1966 | 30 | Twisty Lift |
+| 1967 | 30 | Boldy Stacky |
+| 1968 | 30 | Shawn Ricketts-Nelson |
+| 1969 | 30 | Ashley Glover |
+| 1970 | 30 | BIGOONS |
+| 1971 | 30 | KERI |
+| 1972 | 30 | Tiffany Hairston |
+| 1973 | 30 | Melissa Erwin |
+| 1974 | 29 | Lush Risebuilder |
+| 1975 | 29 | Soany Barrera |
+| 1976 | 29 | Michelle Arteaga-Avila |
+| 1977 | 29 | Giggly Dashfit |
+| 1978 | 29 | GiGi Maisonave |
+| 1979 | 29 | Renee Miles Merrick |
 | 1980 | 29 | Boldy Dropzone |
-| 1981 | 29 | Lush Risebuilder |
-| 1982 | 29 | Bryran |
-| 1983 | 29 | Geneva Mixon |
-| 1984 | 29 | bronxstyle1 |
-| 1985 | 29 | Andrew Heath Hicks |
-| 1986 | 29 | Giggly Dashfit |
+| 1981 | 29 | Geneva Mixon |
+| 1982 | 29 | SCROPION |
+| 1983 | 29 | bronxstyle1 |
+| 1984 | 29 | Andrew Heath Hicks |
+| 1985 | 29 | Bryran |
+| 1986 | 29 | Diane Wilson |
 | 1987 | 29 | Ashleigh Bradt |
-| 1988 | 29 | SCROPION |
+| 1988 | 29 | Amy Thale Gooding |
 | 1989 | 29 | Jim Larsen |
 | 1990 | 29 | John Vining |
 | 1991 | 29 | Wendy Lee |
