@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 09:10:46 UTC
+# Standings for team4 as of 2026-02-25 09:11:22 UTC
 
 **Total Participants:** 2187
 
@@ -1008,8 +1008,8 @@
 | 1000 | 133 | Raeann Gibson |
 | 1001 | 132 | Aj Brantley Lpn |
 | 1002 | 132 | Kellie Tacuban |
-| 1003 | 132 | Jessica Cagle |
-| 1004 | 132 | Lynette Manning |
+| 1003 | 132 | Lynette Manning |
+| 1004 | 132 | Jessica Cagle |
 | 1005 | 131 | Roseanna Anderson |
 | 1006 | 131 | DinoNuggie |
 | 1007 | 131 | Kerlyne Kay Toussaint Smith |
@@ -1027,8 +1027,8 @@
 | 1019 | 127 | Mighty Blockzone |
 | 1020 | 127 | Maverick |
 | 1021 | 127 | Danelle Sulentic |
-| 1022 | 126 | amy |
-| 1023 | 126 | Spicy Cascadezone |
+| 1022 | 126 | Spicy Cascadezone |
+| 1023 | 126 | amy |
 | 1024 | 126 | Ian Starnes |
 | 1025 | 126 | PAPatty |
 | 1026 | 126 | Bob N Alisha Hinojosa |
@@ -1073,8 +1073,8 @@
 | 1065 | 119 | Clever Breaker |
 | 1066 | 118 | Frisky Column |
 | 1067 | 118 | MoP11 |
-| 1068 | 117 | David Phifer |
-| 1069 | 117 | Speedy Wipeblock |
+| 1068 | 117 | Speedy Wipeblock |
+| 1069 | 117 | David Phifer |
 | 1070 | 117 | MoonChild |
 | 1071 | 117 | Christina Nycol |
 | 1072 | 117 | Kirsten Britt O'Donnell |
@@ -1114,8 +1114,8 @@
 | 1106 | 112 | Evan DeWeese |
 | 1107 | 112 | Bold Towerpiece |
 | 1108 | 112 | Kristina Renea Day |
-| 1109 | 112 | Sarah Rene Fauller |
-| 1110 | 112 | Natasha Crossley |
+| 1109 | 112 | Natasha Crossley |
+| 1110 | 112 | Sarah Rene Fauller |
 | 1111 | 112 | RogueRebel |
 | 1112 | 111 | Chipper Rotate |
 | 1113 | 111 | Chassidy Martin |
@@ -1156,29 +1156,29 @@
 | 1148 | 106 | Sunny Brickroll |
 | 1149 | 106 | juggernaut |
 | 1150 | 106 | Harold M. |
-| 1151 | 105 | Krystol Fantabulously Gorgeously Dennis |
-| 1152 | 105 | Chirpy Rollbuilder |
-| 1153 | 105 | Zerkiiboy |
-| 1154 | 105 | evil wonton |
-| 1155 | 104 | Angelson |
-| 1156 | 104 | 420friend |
-| 1157 | 104 | Raw Jean |
-| 1158 | 104 | Cozy Rollzone |
-| 1159 | 104 | Elizabeth Lansou |
-| 1160 | 104 | Jessi Mayfield |
-| 1161 | 104 | Kat Agosto-Wisor |
-| 1162 | 104 | Chirpy Balancer |
-| 1163 | 103 | Zappy Piecefit |
-| 1164 | 103 | Paul Abono |
-| 1165 | 103 | chygesshu |
-| 1166 | 103 | KrakaLackin |
-| 1167 | 103 | Jessica N Cristina Grindstaff |
-| 1168 | 103 | Og Knockout |
-| 1169 | 102 | Jessica Graham |
-| 1170 | 102 | Grimus |
-| 1171 | 102 | Bryan Johnson |
-| 1172 | 102 | Demeitra McCaune |
-| 1173 | 102 | Meli  Jackson |
+| 1151 | 105 | Chirpy Balancer |
+| 1152 | 105 | Krystol Fantabulously Gorgeously Dennis |
+| 1153 | 105 | Chirpy Rollbuilder |
+| 1154 | 105 | Zerkiiboy |
+| 1155 | 105 | evil wonton |
+| 1156 | 104 | Angelson |
+| 1157 | 104 | 420friend |
+| 1158 | 104 | Raw Jean |
+| 1159 | 104 | Cozy Rollzone |
+| 1160 | 104 | Elizabeth Lansou |
+| 1161 | 104 | Jessi Mayfield |
+| 1162 | 104 | Kat Agosto-Wisor |
+| 1163 | 103 | Paul Abono |
+| 1164 | 103 | chygesshu |
+| 1165 | 103 | KrakaLackin |
+| 1166 | 103 | Jessica N Cristina Grindstaff |
+| 1167 | 103 | Og Knockout |
+| 1168 | 103 | Zappy Piecefit |
+| 1169 | 102 | Demeitra McCaune |
+| 1170 | 102 | Meli  Jackson |
+| 1171 | 102 | Jessica Graham |
+| 1172 | 102 | Grimus |
+| 1173 | 102 | Bryan Johnson |
 | 1174 | 101 | Farrell Williams Jr. |
 | 1175 | 101 | Aleasha Haukenfrers |
 | 1176 | 101 | Speedy Clearer |
