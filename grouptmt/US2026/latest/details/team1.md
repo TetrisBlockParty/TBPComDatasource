@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 21:12:45 UTC
+# Standings for team1 as of 2026-02-25 21:13:23 UTC
 
 **Total Participants:** 2529
 
@@ -210,7 +210,7 @@
 | 202 | 620 | Deanna L Hermanson |
 | 203 | 614 | John J. Cronin |
 | 204 | 614 | Jamie Jury |
-| 205 | 610 | Constance Risner |
+| 205 | 613 | Constance Risner |
 | 206 | 606 | Buggs |
 | 207 | 606 | Arianna O'Brien |
 | 208 | 604 | Michelle Beres |
@@ -533,19 +533,19 @@
 | 525 | 322 | Ed Franz Jr |
 | 526 | 322 | Amie Fields |
 | 527 | 322 | Camelia Trevillion |
-| 528 | 321 | Peppy Columnbuilder |
-| 529 | 320 | Glitzy Buildsnap |
-| 530 | 320 | Megan Kradzinski Ferguson |
-| 531 | 320 | Beffy |
-| 532 | 319 | Larry Oaks |
-| 533 | 319 | Blaire Bruckoff |
-| 534 | 318 | Lucile Lynn |
-| 535 | 317 | Rikki Jo Creech |
-| 536 | 317 | Blake Mckay |
-| 537 | 316 | Tiffany Daboss Seymour |
-| 538 | 316 | Shannon Guilloty |
-| 539 | 316 | Cool Balancer |
-| 540 | 315 | Brave Slice |
+| 528 | 322 | Brave Slice |
+| 529 | 321 | Peppy Columnbuilder |
+| 530 | 320 | Glitzy Buildsnap |
+| 531 | 320 | Megan Kradzinski Ferguson |
+| 532 | 320 | Beffy |
+| 533 | 319 | Larry Oaks |
+| 534 | 319 | Blaire Bruckoff |
+| 535 | 318 | Lucile Lynn |
+| 536 | 317 | Rikki Jo Creech |
+| 537 | 317 | Blake Mckay |
+| 538 | 316 | Tiffany Daboss Seymour |
+| 539 | 316 | Shannon Guilloty |
+| 540 | 316 | Cool Balancer |
 | 541 | 315 | Angela Ellyson |
 | 542 | 315 | Tedashi |
 | 543 | 313 | Jade |
@@ -614,42 +614,42 @@
 | 606 | 279 | Beau Galvan |
 | 607 | 279 | Playtray |
 | 608 | 278 | Austin Jones |
-| 609 | 278 | Rivkah |
+| 609 | 278 | Thorne Shumate |
 | 610 | 278 | Nevaeh Mattox |
-| 611 | 278 | Thorne Shumate |
-| 612 | 277 | Sheri Read |
+| 611 | 278 | Rivkah |
+| 612 | 278 | Kayla |
 | 613 | 277 | Jen Justus |
-| 614 | 276 | Larry Jackson |
-| 615 | 275 | Marqs Mel |
-| 616 | 274 | Michael Meyer |
-| 617 | 272 | Jeffrey Scott Younkins |
-| 618 | 272 | Andrew Boone |
-| 619 | 272 | Ruby Sandberg |
-| 620 | 272 | Sarah Henniker |
-| 621 | 271 | Pie-3.14 |
-| 622 | 271 | Divaaa |
+| 614 | 277 | Sheri Read |
+| 615 | 276 | Larry Jackson |
+| 616 | 275 | Marqs Mel |
+| 617 | 274 | Michael Meyer |
+| 618 | 272 | Sarah Henniker |
+| 619 | 272 | Jeffrey Scott Younkins |
+| 620 | 272 | Ruby Sandberg |
+| 621 | 272 | Andrew Boone |
+| 622 | 271 | Pie-3.14 |
 | 623 | 271 | Cheeky Curvetile |
-| 624 | 271 | Jennifer Corrado |
-| 625 | 270 | Malaka |
-| 626 | 270 | Nerdy Curvebuilder |
-| 627 | 270 | Josh Smith |
-| 628 | 270 | Giggly Rollfit |
-| 629 | 270 | Michelle Deans |
+| 624 | 271 | Divaaa |
+| 625 | 271 | Jennifer Corrado |
+| 626 | 270 | Malaka |
+| 627 | 270 | Nerdy Curvebuilder |
+| 628 | 270 | Josh Smith |
+| 629 | 270 | Amber Johnson-Grantham |
 | 630 | 270 | Sam Rosado |
-| 631 | 270 | Amber Johnson-Grantham |
-| 632 | 269 | Joyce Harrell-chavis |
+| 631 | 270 | Michelle Deans |
+| 632 | 270 | Giggly Rollfit |
 | 633 | 269 | Chyna Mae |
-| 634 | 268 | Bay Marie |
-| 635 | 268 | Terika Rodriguez |
-| 636 | 268 | Kayla |
-| 637 | 268 | Dandy Glider |
+| 634 | 269 | Joyce Harrell-chavis |
+| 635 | 268 | Dandy Glider |
+| 636 | 268 | Terika Rodriguez |
+| 637 | 268 | Bay Marie |
 | 638 | 267 | Dandy Towerbuilder |
 | 639 | 267 | Gina Fontana Meier |
 | 640 | 267 | Blake Cobb |
 | 641 | 265 | Khatia Sikharulidze |
 | 642 | 265 | Lauren Baxter |
-| 643 | 264 | Angel Marie |
-| 644 | 264 | Margaret Rose |
+| 643 | 264 | Margaret Rose |
+| 644 | 264 | Angel Marie |
 | 645 | 264 | Nicole Nikki |
 | 646 | 263 | Equinn |
 | 647 | 263 | Hdhshsn |
@@ -725,16 +725,16 @@
 | 717 | 235 | Jana Hutcheson |
 | 718 | 235 | Mary M Brion |
 | 719 | 235 | Mechelle Bailum |
-| 720 | 234 | Krazykat💋❤️💋 |
-| 721 | 234 | Christina Torres |
-| 722 | 233 | yoyoluv |
-| 723 | 233 | Tina Englert |
-| 724 | 233 | Sherri E Woods Hess |
-| 725 | 233 | Hyper Tilemaker |
-| 726 | 232 | Tina Sinclair |
-| 727 | 232 | Jessica Weed |
-| 728 | 232 | Sarah Hope |
-| 729 | 231 | Speedy Balancepiece |
+| 720 | 234 | Speedy Balancepiece |
+| 721 | 234 | Krazykat💋❤️💋 |
+| 722 | 234 | Christina Torres |
+| 723 | 233 | yoyoluv |
+| 724 | 233 | Tina Englert |
+| 725 | 233 | Sherri E Woods Hess |
+| 726 | 233 | Hyper Tilemaker |
+| 727 | 232 | Tina Sinclair |
+| 728 | 232 | Jessica Weed |
+| 729 | 232 | Sarah Hope |
 | 730 | 231 | Davery Spencer Adair |
 | 731 | 231 | narutyler649 |
 | 732 | 231 | Hector Cruz |
