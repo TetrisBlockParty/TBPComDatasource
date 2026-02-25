@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-25 01:38:45 UTC
+# Standings for team3 as of 2026-02-25 01:39:22 UTC
 
 **Total Participants:** 3578
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 21478 | Donna Wilkinson |
-| 2 | 16553 | Edita Reed |
+| 2 | 16593 | Edita Reed |
 | 3 | 15391 | Corey Lewis |
 | 4 | 13391 | Amy Dial Brown |
 | 5 | 10073 | Jackie's Soblessed |
@@ -44,8 +44,8 @@
 | 36 | 2653 | Leah Barnett |
 | 37 | 2600 | Peggi Charon |
 | 38 | 2582 | Fran Lin |
-| 39 | 2551 | Brandon Green |
-| 40 | 2535 | Khristen AC |
+| 39 | 2573 | Khristen AC |
+| 40 | 2551 | Brandon Green |
 | 41 | 2495 | Gracie |
 | 42 | 2490 | Jamie Furr |
 | 43 | 2465 | Amanda Adkins |
@@ -392,16 +392,16 @@
 | 384 | 500 | Shunta Jacobs |
 | 385 | 497 | Randy Clevenger |
 | 386 | 496 | Skinny Baldez |
-| 387 | 494 | Tay |
-| 388 | 493 | Giggy Balanceblock |
-| 389 | 491 | Criss |
-| 390 | 491 | Sabrina Mansfield |
-| 391 | 488 | Stefanie LaPointe |
-| 392 | 487 | p brewster |
-| 393 | 487 | MsBee |
-| 394 | 486 | Sleepy |
-| 395 | 486 | Heather De Vries Cobb |
-| 396 | 485 | Mendoza Lee Christy |
+| 387 | 496 | Mendoza Lee Christy |
+| 388 | 494 | Tay |
+| 389 | 493 | Giggy Balanceblock |
+| 390 | 491 | Criss |
+| 391 | 491 | Sabrina Mansfield |
+| 392 | 488 | Stefanie LaPointe |
+| 393 | 487 | p brewster |
+| 394 | 487 | MsBee |
+| 395 | 486 | Sleepy |
+| 396 | 486 | Heather De Vries Cobb |
 | 397 | 483 | Hyper Bridger |
 | 398 | 482 | Travis W |
 | 399 | 480 | Maggie |
@@ -410,11 +410,11 @@
 | 402 | 478 | Rick Poppen |
 | 403 | 477 | Tony Waters |
 | 404 | 475 | Mary Giorgenti |
-| 405 | 474 | Jojo M |
-| 406 | 471 | Hasty Gridpiece |
-| 407 | 471 | Danielle Rhoades |
-| 408 | 470 | AlsoJess |
-| 409 | 470 | Swanky Frame |
+| 405 | 474 | Swanky Frame |
+| 406 | 474 | Jojo M |
+| 407 | 471 | Hasty Gridpiece |
+| 408 | 471 | Danielle Rhoades |
+| 409 | 470 | AlsoJess |
 | 410 | 468 | RickyG |
 | 411 | 468 | Christina Rotz Shows |
 | 412 | 467 | Hoài Quắt |
@@ -428,8 +428,8 @@
 | 420 | 460 | Jolly Dashpiece |
 | 421 | 458 | Carrie Huskey |
 | 422 | 457 | Philip Rock |
-| 423 | 456 | Heather Bateman |
-| 424 | 456 | Ashley Lynn Marchese |
+| 423 | 456 | Ashley Lynn Marchese |
+| 424 | 456 | Heather Bateman |
 | 425 | 456 | ROODBOY |
 | 426 | 455 | PrincessSquare |
 | 427 | 454 | Karent524 |
@@ -439,12 +439,12 @@
 | 431 | 451 | Dakota Graham |
 | 432 | 450 | Sissy Lowery Davis |
 | 433 | 449 | Eboni Starr |
-| 434 | 449 | Tracy Martin |
-| 435 | 447 | Nikki Pags |
-| 436 | 447 | Cesar Mendez |
-| 437 | 447 | Joy Petroski |
-| 438 | 447 | Num1hater |
-| 439 | 446 | Paula Little |
+| 434 | 449 | Paula Little |
+| 435 | 449 | Tracy Martin |
+| 436 | 447 | Nikki Pags |
+| 437 | 447 | Cesar Mendez |
+| 438 | 447 | Joy Petroski |
+| 439 | 447 | Num1hater |
 | 440 | 446 | gremicx |
 | 441 | 445 | Velma Mull |
 | 442 | 445 | block chick |

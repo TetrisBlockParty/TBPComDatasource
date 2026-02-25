@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 01:38:45 UTC
+# Standings for team1 as of 2026-02-25 01:39:22 UTC
 
 **Total Participants:** 2365
 
@@ -108,7 +108,7 @@
 | 100 | 951 | Hellsin |
 | 101 | 947 | Desiree Deschaine Havee |
 | 102 | 947 | Amanda Johnson Huffman |
-| 103 | 931 | comrade fish |
+| 103 | 934 | comrade fish |
 | 104 | 922 | Madison Wicks |
 | 105 | 920 | Tee Sheree |
 | 106 | 916 | Hyper |
@@ -383,10 +383,10 @@
 | 375 | 360 | Tipsy Builder |
 | 376 | 360 | Hasty Columnbuilder |
 | 377 | 360 | dhardy |
-| 378 | 359 | Lyn Sibayan |
-| 379 | 359 | Rodney Schmerfeld |
-| 380 | 359 | Glitzy Grid |
-| 381 | 359 | LaFontaine Leslie |
+| 378 | 360 | LaFontaine Leslie |
+| 379 | 359 | Lyn Sibayan |
+| 380 | 359 | Rodney Schmerfeld |
+| 381 | 359 | Glitzy Grid |
 | 382 | 357 | Jasmine Riley |
 | 383 | 356 | Patty Lavigne Craddock |
 | 384 | 354 | Brave Wrecker |
@@ -607,17 +607,17 @@
 | 599 | 246 | grizzly |
 | 600 | 246 | Frothy Blockbuilder |
 | 601 | 246 | Nicole Nikki |
-| 602 | 245 | Shannon Guilloty |
+| 602 | 245 | Sam Rosado |
 | 603 | 245 | Sarah Barrow |
-| 604 | 245 | Corkey Steinmark |
-| 605 | 244 | Lil H |
-| 606 | 244 | Sam Rosado |
+| 604 | 245 | Shannon Guilloty |
+| 605 | 245 | Corkey Steinmark |
+| 606 | 244 | Lil H |
 | 607 | 243 | Olivia Witmer |
 | 608 | 243 | Jordan Brooks |
 | 609 | 242 | Dawn Rannelli |
 | 610 | 242 | Dandy Glider |
-| 611 | 242 | Kirk Torrey |
-| 612 | 242 | Robin Burress |
+| 611 | 242 | Robin Burress |
+| 612 | 242 | Kirk Torrey |
 | 613 | 240 | Jessica Imboden |
 | 614 | 240 | monstermutt |
 | 615 | 240 | Nikki Fridley |
@@ -625,56 +625,56 @@
 | 617 | 239 | Bucketsmasher |
 | 618 | 238 | Lush Zoney |
 | 619 | 238 | Ashley Rodriguez |
-| 620 | 237 | Lark |
-| 621 | 237 | Amber Dollak-Smith |
-| 622 | 236 | Dizzy Rackham |
-| 623 | 236 | Playtray |
+| 620 | 237 | Amber Dollak-Smith |
+| 621 | 237 | Lark |
+| 622 | 236 | Slinky Tile |
+| 623 | 236 | Dizzy Rackham |
 | 624 | 236 | Ruf Lowman |
-| 625 | 236 | Slinky Tile |
-| 626 | 235 | Nutty Glide |
-| 627 | 235 | Jana Hutcheson |
-| 628 | 235 | Kellie Tunstall |
+| 625 | 236 | Playtray |
+| 626 | 235 | Kellie Tunstall |
+| 627 | 235 | Nutty Glide |
+| 628 | 235 | Jana Hutcheson |
 | 629 | 234 | Jonathan Joshua |
-| 630 | 234 | Aaron Green |
+| 630 | 234 | Sheri Read |
 | 631 | 234 | Burnnetter Sisk |
-| 632 | 234 | Sheri Read |
+| 632 | 234 | Aaron Green |
 | 633 | 233 | Sherri E Woods Hess |
-| 634 | 233 | Tina Englert |
-| 635 | 233 | Jonah Dunn |
+| 634 | 233 | Jonah Dunn |
+| 635 | 233 | Tina Englert |
 | 636 | 232 | Tina Sinclair |
 | 637 | 231 | Hector Cruz |
 | 638 | 231 | Dawn Henderson |
 | 639 | 231 | William Blackwell |
-| 640 | 230 | Hyper Tilemaker |
-| 641 | 230 | Ruby Sandberg |
-| 642 | 230 | Jennifer Crawford |
-| 643 | 229 | Jenny Hughes |
-| 644 | 229 | Mindy Gloska |
-| 645 | 229 | Jeff Jack II |
-| 646 | 229 | Gina Fontana Meier |
-| 647 | 228 | Kanesha Jackson |
-| 648 | 228 | Michelle Deans |
-| 649 | 227 | Spunky Builderpiece |
-| 650 | 227 | Lucinda Thacker |
-| 651 | 227 | MomOf2Angels |
-| 652 | 227 | Daniel Lorquet |
-| 653 | 227 | Craig Mcgonigle |
-| 654 | 225 | Owicked1 |
-| 655 | 224 | Kkl |
-| 656 | 224 | Loony Bridgepiece |
+| 640 | 230 | Ruby Sandberg |
+| 641 | 230 | Jennifer Crawford |
+| 642 | 230 | Hyper Tilemaker |
+| 643 | 229 | Mindy Gloska |
+| 644 | 229 | Jenny Hughes |
+| 645 | 229 | Gina Fontana Meier |
+| 646 | 229 | Jeff Jack II |
+| 647 | 228 | Michelle Deans |
+| 648 | 228 | Kanesha Jackson |
+| 649 | 227 | Daniel Lorquet |
+| 650 | 227 | Craig Mcgonigle |
+| 651 | 227 | Spunky Builderpiece |
+| 652 | 227 | Lucinda Thacker |
+| 653 | 227 | MomOf2Angels |
+| 654 | 226 | Loony Bridgepiece |
+| 655 | 225 | Owicked1 |
+| 656 | 224 | Kkl |
 | 657 | 224 | Giggly Rollfit |
-| 658 | 223 | Renata Mabie |
+| 658 | 223 | Natasha Hollowell Causey |
 | 659 | 223 | Lauren Baxter |
 | 660 | 223 | Chyna Mae |
 | 661 | 223 | Sarah Henniker |
 | 662 | 223 | Erez Yosef |
 | 663 | 223 | DENOTS42OSPOT |
-| 664 | 223 | Natasha Hollowell Causey |
-| 665 | 223 | Britney Marie Burton Cole |
+| 664 | 223 | Britney Marie Burton Cole |
+| 665 | 223 | Renata Mabie |
 | 666 | 222 | Henry Lanier |
-| 667 | 221 | Davery Spencer Adair |
-| 668 | 221 | Perky Lifter |
-| 669 | 221 | Amy Hess |
+| 667 | 221 | Amy Hess |
+| 668 | 221 | Davery Spencer Adair |
+| 669 | 221 | Perky Lifter |
 | 670 | 219 | Negan Mallory Knoxx Spence |
 | 671 | 219 | Matt Cinelli |
 | 672 | 218 | Melissa Ann Macko |
@@ -2231,33 +2231,33 @@
 | 2223 | 11 | Nerdy Fallzone |
 | 2224 | 11 | Renall Santos |
 | 2225 | 11 | Ron L Thompson |
-| 2226 | 11 | Seapea |
-| 2227 | 11 | Sandra Lieder Perez |
-| 2228 | 11 | Lori LeClaire Andersen |
-| 2229 | 11 | Dreamy Linkblock |
-| 2230 | 11 | Kirsten Haddock |
-| 2231 | 10 | Wacky Zigzag |
-| 2232 | 10 | BEARCAT |
+| 2226 | 11 | Sandra Lieder Perez |
+| 2227 | 11 | Seapea |
+| 2228 | 11 | Erin Divine |
+| 2229 | 11 | Lori LeClaire Andersen |
+| 2230 | 11 | Dreamy Linkblock |
+| 2231 | 11 | Kirsten Haddock |
+| 2232 | 10 | Wacky Zigzag |
 | 2233 | 10 | Dreamy Drop |
-| 2234 | 10 | Danuel Baird |
-| 2235 | 10 | Lex |
-| 2236 | 10 | Giggly Linebuilder |
-| 2237 | 10 | Jordan McVicker |
-| 2238 | 10 | Amanda Diane Hill |
-| 2239 | 10 | Samantha Olds |
-| 2240 | 10 | Kim Sweeney |
-| 2241 | 10 | Meeee |
-| 2242 | 10 | Sarah Ball |
-| 2243 | 10 | Velvet Rarick |
-| 2244 | 10 | Misti Lee Bay |
-| 2245 | 10 | Ali |
-| 2246 | 10 | Lazy Brickroll |
-| 2247 | 10 | Renee Simpson |
-| 2248 | 10 | Loopy Dropmatch |
-| 2249 | 10 | dwarfman |
-| 2250 | 10 | Marcus Hackett |
-| 2251 | 10 | DarkKnox |
-| 2252 | 9 | Erin Divine |
+| 2234 | 10 | BEARCAT |
+| 2235 | 10 | Danuel Baird |
+| 2236 | 10 | Lex |
+| 2237 | 10 | Giggly Linebuilder |
+| 2238 | 10 | Jordan McVicker |
+| 2239 | 10 | Amanda Diane Hill |
+| 2240 | 10 | Samantha Olds |
+| 2241 | 10 | Kim Sweeney |
+| 2242 | 10 | Meeee |
+| 2243 | 10 | Sarah Ball |
+| 2244 | 10 | Velvet Rarick |
+| 2245 | 10 | Misti Lee Bay |
+| 2246 | 10 | Ali |
+| 2247 | 10 | Lazy Brickroll |
+| 2248 | 10 | Renee Simpson |
+| 2249 | 10 | Loopy Dropmatch |
+| 2250 | 10 | dwarfman |
+| 2251 | 10 | Marcus Hackett |
+| 2252 | 10 | DarkKnox |
 | 2253 | 9 | Peyton Meche |
 | 2254 | 9 | Benjamin Ramos |
 | 2255 | 9 | Lexicon5 |
