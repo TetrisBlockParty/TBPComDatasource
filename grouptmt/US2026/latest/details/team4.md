@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 12:20:43 UTC
+# Standings for team4 as of 2026-02-25 12:21:23 UTC
 
 **Total Participants:** 2202
 
@@ -169,9 +169,9 @@
 | 161 | 713 | Adam Stephanie Parker |
 | 162 | 710 | Korcoran Smith |
 | 163 | 709 | Rebecca Morris |
-| 164 | 702 | Nita Wells |
-| 165 | 699 | Rodney McMath Jr. |
-| 166 | 698 | Chastity Mitchell |
+| 164 | 707 | Chastity Mitchell |
+| 165 | 702 | Nita Wells |
+| 166 | 699 | Rodney McMath Jr. |
 | 167 | 696 | Desi Desporte |
 | 168 | 695 | Latisha Davis |
 | 169 | 694 | Dana Scott |
@@ -635,20 +635,20 @@
 | 627 | 243 | Peppy Drop |
 | 628 | 243 | Heidi Jo Hill |
 | 629 | 242 | Hanh Pham |
-| 630 | 242 | PurpleMoonMa |
-| 631 | 242 | Norman Klick |
-| 632 | 241 | Neal Allen II |
-| 633 | 241 | Karen Lambert |
+| 630 | 242 | Karen Lambert |
+| 631 | 242 | PurpleMoonMa |
+| 632 | 242 | Norman Klick |
+| 633 | 241 | Neal Allen II |
 | 634 | 241 | Katherine Crane |
 | 635 | 241 | Janis Brown |
 | 636 | 240 | Faja |
-| 637 | 240 | Zach Kerbs |
-| 638 | 240 | Jumpy Shatterline |
+| 637 | 240 | Jumpy Shatterline |
+| 638 | 240 | Zach Kerbs |
 | 639 | 240 | Bigeddie |
 | 640 | 240 | Brad Campbell |
 | 641 | 239 | Rebecca A Rit |
-| 642 | 238 | Jennifer Dineen |
-| 643 | 238 | Kelly Williams |
+| 642 | 238 | Kelly Williams |
+| 643 | 238 | Jennifer Dineen |
 | 644 | 238 | Cheaneen Livingston |
 | 645 | 238 | Will Chamberlain |
 | 646 | 237 | Vamp |
@@ -2033,29 +2033,29 @@
 | 2025 | 14 | Samantha Hamilton |
 | 2026 | 14 | Boldy Bouncer |
 | 2027 | 14 | Hasty Cluster |
-| 2028 | 14 | Bold Piecegrid |
-| 2029 | 14 | Terri Rice |
-| 2030 | 14 | Happy Mover |
-| 2031 | 14 | Shanda Stephens |
-| 2032 | 14 | Nerdy Shift |
-| 2033 | 14 | Matt Wigton |
-| 2034 | 14 | Sassy Shift |
-| 2035 | 13 | Sara Daher |
-| 2036 | 13 | Pierre Miller |
-| 2037 | 13 | Traiven LF Howard |
-| 2038 | 13 | Pete Dong |
-| 2039 | 13 | Snazzy Fitblock |
-| 2040 | 13 | Krystal Kirkley Cox |
-| 2041 | 13 | AimlessPeach |
+| 2028 | 14 | Brianna O |
+| 2029 | 14 | Bold Piecegrid |
+| 2030 | 14 | Terri Rice |
+| 2031 | 14 | Happy Mover |
+| 2032 | 14 | Shanda Stephens |
+| 2033 | 14 | Nerdy Shift |
+| 2034 | 14 | Matt Wigton |
+| 2035 | 14 | Sassy Shift |
+| 2036 | 13 | Sara Daher |
+| 2037 | 13 | Pierre Miller |
+| 2038 | 13 | Traiven LF Howard |
+| 2039 | 13 | Krystal Kirkley Cox |
+| 2040 | 13 | Pete Dong |
+| 2041 | 13 | Snazzy Fitblock |
 | 2042 | 13 | PBlock |
-| 2043 | 13 | Shiny Blast |
-| 2044 | 13 | Crystal Rodriguez |
-| 2045 | 13 | meme |
-| 2046 | 13 | Goofy Zoner |
-| 2047 | 13 | Ms Daja |
-| 2048 | 13 | Rachel Lillis |
-| 2049 | 13 | Natasha Payne |
-| 2050 | 12 | Brianna O |
+| 2043 | 13 | AimlessPeach |
+| 2044 | 13 | Goofy Zoner |
+| 2045 | 13 | Shiny Blast |
+| 2046 | 13 | Crystal Rodriguez |
+| 2047 | 13 | meme |
+| 2048 | 13 | Ms Daja |
+| 2049 | 13 | Rachel Lillis |
+| 2050 | 13 | Natasha Payne |
 | 2051 | 12 | Dez |
 | 2052 | 12 | Kristie Lynn |
 | 2053 | 12 | Penny |
