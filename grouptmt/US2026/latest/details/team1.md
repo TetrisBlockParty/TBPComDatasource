@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 13:58:44 UTC
+# Standings for team1 as of 2026-02-25 13:59:23 UTC
 
 **Total Participants:** 2472
 
@@ -759,15 +759,15 @@
 | 751 | 212 | Sherrick Edwards |
 | 752 | 212 | Denise Belanger |
 | 753 | 212 | Becky Coker |
-| 754 | 211 | Jeff Newinski |
-| 755 | 211 | Riley Lee |
-| 756 | 210 | Christina |
-| 757 | 210 | Fat fred |
-| 758 | 210 | Danny Brady |
-| 759 | 210 | Christian Corral |
-| 760 | 209 | Lively Wipeout |
-| 761 | 209 | Vivian Bush |
-| 762 | 208 | Elyse YL |
+| 754 | 211 | Elyse YL |
+| 755 | 211 | Jeff Newinski |
+| 756 | 211 | Riley Lee |
+| 757 | 210 | Christina |
+| 758 | 210 | Fat fred |
+| 759 | 210 | Danny Brady |
+| 760 | 210 | Christian Corral |
+| 761 | 209 | Lively Wipeout |
+| 762 | 209 | Vivian Bush |
 | 763 | 208 | Paul Gates |
 | 764 | 208 | TristansDad |
 | 765 | 208 | Donna Addison Williams |
@@ -1995,99 +1995,99 @@
 | 1987 | 29 | Diane Wilson |
 | 1988 | 29 | Wendy Lee |
 | 1989 | 29 | Renee Clark Thaxton |
-| 1990 | 29 | John Vining |
-| 1991 | 29 | Jim Larsen |
-| 1992 | 28 | Michael Bakko |
-| 1993 | 28 | Huou Rum |
-| 1994 | 28 | Lyndy Kelley |
-| 1995 | 28 | Blanca Perez |
-| 1996 | 28 | Tina Chow |
-| 1997 | 28 | Spicy Fallzone |
-| 1998 | 28 | Giddy Combofall |
-| 1999 | 28 | Giddy Shatterfit |
-| 2000 | 28 | Lydia Kepner |
-| 2001 | 28 | Joy Riley |
-| 2002 | 28 | Scott Reynolds |
-| 2003 | 28 | Dreamy Drop |
-| 2004 | 28 | Godofwar |
-| 2005 | 28 | Jacob Kelly-O'Brien |
-| 2006 | 28 | Lively Corner |
-| 2007 | 27 | Hoppy Blockline |
-| 2008 | 27 | Cool Bridgepiece |
-| 2009 | 27 | Gaberiel Torres |
-| 2010 | 27 | Cozy Clear |
-| 2011 | 27 | Plucky Tiler |
-| 2012 | 27 | Laurie Rocha |
-| 2013 | 27 | NoSyLa |
-| 2014 | 27 | Douglas Anderson |
-| 2015 | 27 | Robert Molly Mathes |
-| 2016 | 27 | Babs |
-| 2017 | 27 | Lush Dasher |
-| 2018 | 27 | FredDumplings |
-| 2019 | 27 | Twisty Grabber |
-| 2020 | 27 | Lively Linker |
-| 2021 | 26 | Beverly Lo |
-| 2022 | 26 | Princess Pea |
-| 2023 | 26 | Lishamarie Blakley Ingles |
-| 2024 | 26 | Kayla K Evans |
-| 2025 | 26 | Roberto Sicairos Jr. |
-| 2026 | 26 | Tammy |
-| 2027 | 26 | Charles Corey |
-| 2028 | 26 | Dixie Bradshaw-Basile |
-| 2029 | 26 | Chilly Blocker |
-| 2030 | 26 | SkyRockt |
-| 2031 | 26 | Frisky Cascadezone |
-| 2032 | 26 | Krista Joyce |
-| 2033 | 26 | Frederick Swann |
-| 2034 | 26 | CAP |
-| 2035 | 26 | Joseph Andresen |
-| 2036 | 26 | Mighty Builder |
-| 2037 | 26 | Clever Snapzone |
-| 2038 | 26 | Janice Clugston Mcbride |
-| 2039 | 26 | Mighty Tiley |
+| 1990 | 29 | Plucky Tetriblast |
+| 1991 | 29 | John Vining |
+| 1992 | 29 | Jim Larsen |
+| 1993 | 28 | Michael Bakko |
+| 1994 | 28 | Huou Rum |
+| 1995 | 28 | Lyndy Kelley |
+| 1996 | 28 | Blanca Perez |
+| 1997 | 28 | Tina Chow |
+| 1998 | 28 | Spicy Fallzone |
+| 1999 | 28 | Giddy Combofall |
+| 2000 | 28 | Giddy Shatterfit |
+| 2001 | 28 | Lydia Kepner |
+| 2002 | 28 | Joy Riley |
+| 2003 | 28 | Scott Reynolds |
+| 2004 | 28 | Jacob Kelly-O'Brien |
+| 2005 | 28 | Godofwar |
+| 2006 | 28 | Dreamy Drop |
+| 2007 | 28 | Lively Corner |
+| 2008 | 27 | Hoppy Blockline |
+| 2009 | 27 | Cool Bridgepiece |
+| 2010 | 27 | Gaberiel Torres |
+| 2011 | 27 | Cozy Clear |
+| 2012 | 27 | Plucky Tiler |
+| 2013 | 27 | Laurie Rocha |
+| 2014 | 27 | NoSyLa |
+| 2015 | 27 | Douglas Anderson |
+| 2016 | 27 | Robert Molly Mathes |
+| 2017 | 27 | Babs |
+| 2018 | 27 | Lush Dasher |
+| 2019 | 27 | FredDumplings |
+| 2020 | 27 | Twisty Grabber |
+| 2021 | 27 | Lively Linker |
+| 2022 | 26 | Beverly Lo |
+| 2023 | 26 | Princess Pea |
+| 2024 | 26 | Lishamarie Blakley Ingles |
+| 2025 | 26 | Dixie Bradshaw-Basile |
+| 2026 | 26 | Roberto Sicairos Jr. |
+| 2027 | 26 | Tammy |
+| 2028 | 26 | Charles Corey |
+| 2029 | 26 | Kayla K Evans |
+| 2030 | 26 | Chilly Blocker |
+| 2031 | 26 | SkyRockt |
+| 2032 | 26 | Frisky Cascadezone |
+| 2033 | 26 | Krista Joyce |
+| 2034 | 26 | Frederick Swann |
+| 2035 | 26 | CAP |
+| 2036 | 26 | Joseph Andresen |
+| 2037 | 26 | Mighty Builder |
+| 2038 | 26 | Clever Snapzone |
+| 2039 | 26 | Janice Clugston Mcbride |
 | 2040 | 26 | Hopey Manuel |
-| 2041 | 26 | pickles |
-| 2042 | 26 | Zippy Patternzone |
-| 2043 | 25 | Grumpy09990 |
-| 2044 | 25 | yaha |
-| 2045 | 25 | Jennifer Curnutt |
-| 2046 | 25 | Jumpy Curvebuilder |
+| 2041 | 26 | Mighty Tiley |
+| 2042 | 26 | pickles |
+| 2043 | 26 | Zippy Patternzone |
+| 2044 | 25 | Grumpy09990 |
+| 2045 | 25 | yaha |
+| 2046 | 25 | Jennifer Curnutt |
 | 2047 | 25 | Clinton Castle |
-| 2048 | 25 | Tony Poat |
-| 2049 | 25 | Koop |
-| 2050 | 25 | Newt Heckin Newton |
+| 2048 | 25 | Jumpy Curvebuilder |
+| 2049 | 25 | Tony Poat |
+| 2050 | 25 | Koop |
 | 2051 | 25 | Billy Furrer |
 | 2052 | 25 | Hasty Wipebuilder |
-| 2053 | 25 | Therese |
-| 2054 | 25 | Jaxs Pro |
-| 2055 | 25 | Betty Ann Saavedra |
-| 2056 | 25 | MDM |
-| 2057 | 25 | Kirsten |
+| 2053 | 25 | Newt Heckin Newton |
+| 2054 | 25 | Therese |
+| 2055 | 25 | Jaxs Pro |
+| 2056 | 25 | Betty Ann Saavedra |
+| 2057 | 25 | vmoney |
 | 2058 | 25 | Zappy Builderpiece |
-| 2059 | 25 | vmoney |
-| 2060 | 24 | Timmy Goats |
+| 2059 | 25 | MDM |
+| 2060 | 25 | Kirsten |
 | 2061 | 24 | Mike Rhoads |
-| 2062 | 24 | Daniel Rico |
-| 2063 | 24 | Lafonda |
-| 2064 | 24 | Joie M Foland |
-| 2065 | 24 | Kryatal Poulin |
-| 2066 | 24 | Benjamin Ramos |
-| 2067 | 24 | Cindy Cooper |
+| 2062 | 24 | Joie M Foland |
+| 2063 | 24 | Kryatal Poulin |
+| 2064 | 24 | Benjamin Ramos |
+| 2065 | 24 | Lafonda |
+| 2066 | 24 | Cindy Cooper |
+| 2067 | 24 | Daniel Rico |
 | 2068 | 24 | Lori Michelle Bye |
-| 2069 | 24 | Leonard Brown |
-| 2070 | 24 | Larry |
-| 2071 | 24 | Cozy Ziggy |
-| 2072 | 24 | Sallie Reach |
-| 2073 | 23 | Diana Kelly |
-| 2074 | 23 | Sassy Twister |
-| 2075 | 23 | Goofy Dropzone |
-| 2076 | 23 | John Kalney |
-| 2077 | 23 | Devlynndeeskyz |
-| 2078 | 23 | Sierra Bishop |
-| 2079 | 23 | Jason Banta |
-| 2080 | 23 | Chris Nitz |
-| 2081 | 23 | Plucky Tetriblast |
-| 2082 | 23 | Miguel Lara |
+| 2069 | 24 | Sallie Reach |
+| 2070 | 24 | Leonard Brown |
+| 2071 | 24 | Larry |
+| 2072 | 24 | Cozy Ziggy |
+| 2073 | 24 | Timmy Goats |
+| 2074 | 23 | Chris Nitz |
+| 2075 | 23 | Miguel Lara |
+| 2076 | 23 | Jason Banta |
+| 2077 | 23 | Sierra Bishop |
+| 2078 | 23 | Sassy Twister |
+| 2079 | 23 | Diana Kelly |
+| 2080 | 23 | Goofy Dropzone |
+| 2081 | 23 | John Kalney |
+| 2082 | 23 | Devlynndeeskyz |
 | 2083 | 23 | Armando Leon |
 | 2084 | 23 | Michael Iagulli |
 | 2085 | 23 | Lesley Ann Mendoza |
