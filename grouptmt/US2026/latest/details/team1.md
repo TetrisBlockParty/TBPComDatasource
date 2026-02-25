@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 11:28:48 UTC
+# Standings for team1 as of 2026-02-25 11:29:23 UTC
 
 **Total Participants:** 2459
 
@@ -339,9 +339,9 @@
 | 331 | 412 | Sarah Marie |
 | 332 | 411 | Gracie |
 | 333 | 407 | Glitzy Curvebuilder |
-| 334 | 406 | Snappy Brickbuilder |
-| 335 | 406 | Garrett Burket |
-| 336 | 405 | Marie Bremner |
+| 334 | 407 | Marie Bremner |
+| 335 | 406 | Snappy Brickbuilder |
+| 336 | 406 | Garrett Burket |
 | 337 | 405 | Strig |
 | 338 | 404 | Sunny Pivotfall |
 | 339 | 403 | Nathan Sealander |
@@ -373,16 +373,16 @@
 | 365 | 386 | Bloknboy |
 | 366 | 384 | Alphonza Keyes Jr. |
 | 367 | 384 | Sonia Marquis |
-| 368 | 383 | Christina Backer |
-| 369 | 383 | Buttons Stemm |
-| 370 | 382 | Jasmine Riley |
-| 371 | 382 | Nutty Spinblock |
-| 372 | 382 | Gina Bettikofer |
+| 368 | 383 | Buttons Stemm |
+| 369 | 383 | Christina Backer |
+| 370 | 382 | Gina Bettikofer |
+| 371 | 382 | Jasmine Riley |
+| 372 | 382 | Nutty Spinblock |
 | 373 | 380 | Amber Dee |
 | 374 | 380 | Rachel Nichole Henry |
-| 375 | 379 | Austin James |
-| 376 | 379 | Dizzy Riseclear |
-| 377 | 379 | Billie Dawn Sparks |
+| 375 | 379 | Billie Dawn Sparks |
+| 376 | 379 | Austin James |
+| 377 | 379 | Dizzy Riseclear |
 | 378 | 378 | Lilkimmie |
 | 379 | 378 | Fresno Beotoni |
 | 380 | 377 | Kipoi |
@@ -391,52 +391,52 @@
 | 383 | 375 | Mrs.Patrica |
 | 384 | 374 | Jaimie Lynn |
 | 385 | 374 | Loony Bridgepiece |
-| 386 | 374 | John Ramirez |
+| 386 | 374 | Danielle Little-Daugherty |
 | 387 | 374 | Nadine Velardo |
-| 388 | 373 | Mitchel White |
-| 389 | 372 | Silly Align |
-| 390 | 371 | Herm Junior |
+| 388 | 374 | John Ramirez |
+| 389 | 373 | Mitchel White |
+| 390 | 372 | Silly Align |
 | 391 | 371 | Tanya Banks |
-| 392 | 370 | san |
-| 393 | 369 | Nate Price |
-| 394 | 369 | Quirky Pusher |
+| 392 | 371 | Herm Junior |
+| 393 | 370 | san |
+| 394 | 369 | Nate Price |
 | 395 | 369 | Nathan William |
-| 396 | 369 | Tiffany Smith |
-| 397 | 368 | Shannon Marie Pitts |
-| 398 | 368 | Terri Rodela |
-| 399 | 367 | Jessie |
-| 400 | 367 | Crystal Cheresnowsky |
-| 401 | 366 | J.F. Fields |
-| 402 | 366 | Danielle Little-Daugherty |
+| 396 | 369 | Quirky Pusher |
+| 397 | 369 | Tiffany Smith |
+| 398 | 368 | Shannon Marie Pitts |
+| 399 | 368 | Terri Rodela |
+| 400 | 367 | Jessie |
+| 401 | 367 | Crystal Cheresnowsky |
+| 402 | 366 | J.F. Fields |
 | 403 | 365 | Larry Tilton |
-| 404 | 365 | Hasty Columnbuilder |
-| 405 | 365 | Steph |
+| 404 | 365 | Steph |
+| 405 | 365 | Hasty Columnbuilder |
 | 406 | 364 | Mary Love |
 | 407 | 364 | Shauna Loe |
 | 408 | 364 | dhardy |
 | 409 | 363 | Lyn Sibayan |
 | 410 | 363 | Наталья Солоид |
 | 411 | 362 | Perky Lifter |
-| 412 | 362 | Glitzy Grid |
+| 412 | 362 | Jennifer Olewnik Soborowski |
 | 413 | 362 | Diane Byrd |
-| 414 | 362 | Jennifer Olewnik Soborowski |
-| 415 | 361 | Rico Rico |
-| 416 | 361 | Tipsy Builder |
-| 417 | 361 | Jeremy Maubert |
+| 414 | 362 | Glitzy Grid |
+| 415 | 361 | Jeremy Maubert |
+| 416 | 361 | Rico Rico |
+| 417 | 361 | Tipsy Builder |
 | 418 | 361 | Marci Sanders |
 | 419 | 359 | Bouncy Line |
-| 420 | 357 | Epic Jumper |
-| 421 | 357 | Amh |
+| 420 | 357 | Amh |
+| 421 | 357 | Epic Jumper |
 | 422 | 356 | Patty Lavigne Craddock |
-| 423 | 355 | Chummy Rollblock |
-| 424 | 355 | ESC |
+| 423 | 355 | ESC |
+| 424 | 355 | Chummy Rollblock |
 | 425 | 354 | Brave Wrecker |
 | 426 | 354 | Its me |
-| 427 | 353 | Breanna Luna |
-| 428 | 353 | MelSavage |
-| 429 | 353 | Josh Riemer |
-| 430 | 352 | Giggly Builderline |
-| 431 | 352 | Lachelle Dillon |
+| 427 | 353 | Josh Riemer |
+| 428 | 353 | Breanna Luna |
+| 429 | 353 | MelSavage |
+| 430 | 352 | Lachelle Dillon |
+| 431 | 352 | Giggly Builderline |
 | 432 | 351 | Llewej Rekab |
 | 433 | 350 | Jeanna Dunn |
 | 434 | 350 | Mighty Shatterfit |
