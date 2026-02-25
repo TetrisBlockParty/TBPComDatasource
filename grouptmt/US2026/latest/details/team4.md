@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 07:24:25 UTC
+# Standings for team4 as of 2026-02-25 07:25:22 UTC
 
 **Total Participants:** 2177
 
@@ -9,7 +9,7 @@
 | 1 | 9050 | Devinlee Brown |
 | 2 | 8765 | sierrabeth |
 | 3 | 8598 | Bubbly Puzzler |
-| 4 | 6699 | Kat |
+| 4 | 6709 | Kat |
 | 5 | 5576 | Breannah Grafe |
 | 6 | 5542 | East Mamba |
 | 7 | 5031 | Alyssa Cox |
@@ -190,28 +190,28 @@
 | 182 | 634 | JPW |
 | 183 | 633 | YoMomma |
 | 184 | 632 | Melvin Baird |
-| 185 | 624 | Matt Summer |
-| 186 | 623 | ku5hkween |
-| 187 | 619 | Adrian Pawlusinski |
-| 188 | 618 | Ren Mc |
-| 189 | 618 | Rico |
-| 190 | 617 | Circuit8 |
+| 185 | 624 | Circuit8 |
+| 186 | 624 | Matt Summer |
+| 187 | 623 | ku5hkween |
+| 188 | 619 | Adrian Pawlusinski |
+| 189 | 618 | Ren Mc |
+| 190 | 618 | Rico |
 | 191 | 612 | Autumn Kumzi |
 | 192 | 610 | blasterB |
 | 193 | 610 | Christina Black |
 | 194 | 609 | Jade Rian |
 | 195 | 608 | Alan George LaRage |
-| 196 | 607 | Genne Scott |
-| 197 | 607 | Cool Towerbuilder |
+| 196 | 607 | Cool Towerbuilder |
+| 197 | 607 | Genne Scott |
 | 198 | 602 | Damn Libra |
 | 199 | 598 | Mimi |
-| 200 | 596 | Carly Alexis |
-| 201 | 595 | Andria Lynn |
-| 202 | 592 | Kristin Manee |
+| 200 | 597 | Marie-Pier Desjardins |
+| 201 | 596 | Carly Alexis |
+| 202 | 595 | Andria Lynn |
 | 203 | 592 | meowmew |
-| 204 | 590 | Carlton Unfiltered |
-| 205 | 589 | Jessica Bohlken |
-| 206 | 587 | Marie-Pier Desjardins |
+| 204 | 592 | Kristin Manee |
+| 205 | 590 | Carlton Unfiltered |
+| 206 | 589 | Jessica Bohlken |
 | 207 | 586 | Angel Raya |
 | 208 | 586 | Latisha Davis |
 | 209 | 586 | Manny1 |
@@ -931,9 +931,9 @@
 | 923 | 151 | Brittany Price |
 | 924 | 151 | GMoney Rbt |
 | 925 | 151 | poopoo |
-| 926 | 150 | Bruce Harris |
-| 927 | 150 | Dot Flanagan |
-| 928 | 150 | Peyton Mclaughlin |
+| 926 | 151 | Peyton Mclaughlin |
+| 927 | 150 | Bruce Harris |
+| 928 | 150 | Dot Flanagan |
 | 929 | 149 | David Emmanuel George |
 | 930 | 149 | Renee Marshall |
 | 931 | 149 | Sadie Rae Ryan |
