@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 09:27:22 UTC
+# Standings for team1 as of 2026-02-25 09:28:45 UTC
 
 **Total Participants:** 2448
 
@@ -219,8 +219,8 @@
 | 211 | 557 | MomMom |
 | 212 | 555 | Tana |
 | 213 | 554 | Mike Ames |
-| 214 | 551 | Stephanie Zahn |
-| 215 | 551 | Logan McFarland |
+| 214 | 551 | Logan McFarland |
+| 215 | 551 | Stephanie Zahn |
 | 216 | 550 | Nery Martinez |
 | 217 | 550 | Sam Williams |
 | 218 | 548 | Teri Oehlke |
@@ -240,13 +240,13 @@
 | 232 | 526 | Teddy Alexander |
 | 233 | 525 | Tamara Brown |
 | 234 | 522 | Happy Snapbuild |
-| 235 | 520 | Dreamy Drop |
+| 235 | 520 | Reesey Enyart |
 | 236 | 520 | Lindsay Glover |
-| 237 | 520 | Reesey Enyart |
+| 237 | 520 | Dreamy Drop |
 | 238 | 518 | Connie |
-| 239 | 516 | Witty Builderfit |
-| 240 | 513 | Colena Davenport |
-| 241 | 512 | Chelsea Dahlquist |
+| 239 | 517 | Chelsea Dahlquist |
+| 240 | 516 | Witty Builderfit |
+| 241 | 513 | Colena Davenport |
 | 242 | 511 | Daring Fitclear |
 | 243 | 509 | Lehrin Maria |
 | 244 | 505 | David Miller |
@@ -263,8 +263,8 @@
 | 255 | 483 | Tyler Werts |
 | 256 | 482 | Monica Donato |
 | 257 | 481 | Betsy |
-| 258 | 477 | Ananda Mendez |
-| 259 | 477 | LtMooch |
+| 258 | 477 | LtMooch |
+| 259 | 477 | Ananda Mendez |
 | 260 | 475 | Paula Martin |
 | 261 | 474 | Billie Ann Eason |
 | 262 | 472 | Alenoush Karimian |
@@ -288,9 +288,9 @@
 | 280 | 452 | DoodleBug |
 | 281 | 450 | Tyler Hertzog |
 | 282 | 450 | Shiny Snapfit |
-| 283 | 447 | Lynn Adams |
-| 284 | 447 | Letson Melissa |
-| 285 | 447 | Cece Ibarra |
+| 283 | 449 | Cece Ibarra |
+| 284 | 447 | Lynn Adams |
+| 285 | 447 | Letson Melissa |
 | 286 | 446 | Irv |
 | 287 | 446 | Dino |
 | 288 | 446 | Richard Butler |
