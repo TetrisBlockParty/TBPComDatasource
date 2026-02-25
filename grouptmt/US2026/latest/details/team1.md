@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 10:14:45 UTC
+# Standings for team1 as of 2026-02-25 10:15:23 UTC
 
 **Total Participants:** 2450
 
@@ -120,9 +120,9 @@
 | 112 | 939 | Susan Ward |
 | 113 | 933 | Chuck Gannon |
 | 114 | 928 | Greg Hart |
-| 115 | 922 | Tawnya Peltonen |
-| 116 | 916 | Chirpy Smasher |
-| 117 | 913 | Dee Perry |
+| 115 | 923 | Dee Perry |
+| 116 | 922 | Tawnya Peltonen |
+| 117 | 916 | Chirpy Smasher |
 | 118 | 910 | Tinah Montanna |
 | 119 | 909 | Ash Galvan |
 | 120 | 908 | Jazzy Framezone |
@@ -605,41 +605,41 @@
 | 597 | 262 | Amanda Marie Sutton |
 | 598 | 261 | Playtray |
 | 599 | 261 | Nerdy Curvebuilder |
-| 600 | 261 | Corrie Grant Smithson |
-| 601 | 261 | Alex Nicol |
-| 602 | 260 | Colleen Wise |
-| 603 | 260 | Sunflower |
-| 604 | 260 | Mathew Harris |
+| 600 | 261 | Alex Nicol |
+| 601 | 261 | Corrie Grant Smithson |
+| 602 | 260 | Mathew Harris |
+| 603 | 260 | Colleen Wise |
+| 604 | 260 | Divaaa |
 | 605 | 260 | Lacy Wolfe |
-| 606 | 260 | Divaaa |
+| 606 | 260 | Sunflower |
 | 607 | 259 | DENOTS42OSPOT |
-| 608 | 257 | UffleFluff |
+| 608 | 257 | Brian Ash |
 | 609 | 257 | Starseed |
-| 610 | 257 | Brian Ash |
-| 611 | 257 | Angel Marie |
-| 612 | 257 | Tipsy Tiltpiece |
-| 613 | 256 | Amber Dollak-Smith |
-| 614 | 256 | Blake Cobb |
-| 615 | 256 | Bay Marie |
-| 616 | 255 | Dennis McNeal |
-| 617 | 255 | Miguel Teixeira |
-| 618 | 255 | Goobette |
-| 619 | 254 | monstermutt |
-| 620 | 254 | MRdot Rooski |
-| 621 | 254 | Sheri Read |
-| 622 | 254 | Lil H |
-| 623 | 254 | Jenny Hughes |
+| 610 | 257 | Tipsy Tiltpiece |
+| 611 | 257 | UffleFluff |
+| 612 | 257 | Angel Marie |
+| 613 | 256 | Bay Marie |
+| 614 | 256 | Amber Dollak-Smith |
+| 615 | 256 | Blake Cobb |
+| 616 | 256 | Rick Pickup Raymur |
+| 617 | 255 | Goobette |
+| 618 | 255 | Dennis McNeal |
+| 619 | 255 | Miguel Teixeira |
+| 620 | 254 | Lil H |
+| 621 | 254 | monstermutt |
+| 622 | 254 | Jenny Hughes |
+| 623 | 254 | MRdot Rooski |
 | 624 | 254 | Jeff Jack II |
-| 625 | 253 | Rick Pickup Raymur |
-| 626 | 253 | Jonah Dunn |
-| 627 | 253 | Shiny Rotate |
+| 625 | 254 | Sheri Read |
+| 626 | 253 | Shiny Rotate |
+| 627 | 253 | Jonah Dunn |
 | 628 | 253 | Flashy Crawler |
 | 629 | 252 | William Blackwell |
 | 630 | 252 | Ruf Lowman |
 | 631 | 252 | Jordan Brooks |
 | 632 | 252 | grizzly |
-| 633 | 250 | Jill King Oldham |
-| 634 | 250 | Dandy Towerbuilder |
+| 633 | 250 | Dandy Towerbuilder |
+| 634 | 250 | Jill King Oldham |
 | 635 | 249 | Corkey Steinmark |
 | 636 | 249 | Lauren Baxter |
 | 637 | 249 | Peachy Wipebuilder |
@@ -655,42 +655,42 @@
 | 647 | 245 | Nutty Glide |
 | 648 | 244 | Chyna Mae |
 | 649 | 244 | Robin Burress |
-| 650 | 243 | Shay J Duval |
+| 650 | 244 | Gauge Slusher |
 | 651 | 243 | Lark |
-| 652 | 242 | Dawn Rannelli |
-| 653 | 242 | Kirk Torrey |
-| 654 | 242 | Renata Mabie |
-| 655 | 241 | Misty Hall Zaranti |
-| 656 | 241 | Hdhshsn |
-| 657 | 241 | Lush Zoney |
-| 658 | 241 | Mavria Comeaux Hinton |
-| 659 | 241 | Kellie Tunstall |
-| 660 | 240 | Jessica Imboden |
-| 661 | 239 | Dizzy Rackham |
-| 662 | 239 | Matt Cinelli |
-| 663 | 239 | Bucketsmasher |
-| 664 | 238 | Lucinda Thacker |
-| 665 | 238 | Kanesha Jackson |
-| 666 | 237 | Jonathan Joshua |
+| 652 | 243 | Shay J Duval |
+| 653 | 242 | Dawn Rannelli |
+| 654 | 242 | Kirk Torrey |
+| 655 | 242 | Renata Mabie |
+| 656 | 241 | Kellie Tunstall |
+| 657 | 241 | Hdhshsn |
+| 658 | 241 | Lush Zoney |
+| 659 | 241 | Mavria Comeaux Hinton |
+| 660 | 241 | Misty Hall Zaranti |
+| 661 | 240 | Jessica Imboden |
+| 662 | 239 | Bucketsmasher |
+| 663 | 239 | Matt Cinelli |
+| 664 | 239 | Dizzy Rackham |
+| 665 | 238 | Lucinda Thacker |
+| 666 | 238 | Kanesha Jackson |
 | 667 | 237 | Gina Fontana Meier |
-| 668 | 237 | Sarah Cassese |
-| 669 | 236 | Slinky Tile |
-| 670 | 236 | Mindy Gloska |
+| 668 | 237 | Jonathan Joshua |
+| 669 | 237 | Sarah Cassese |
+| 670 | 236 | Slinky Tile |
 | 671 | 236 | Mortious |
-| 672 | 236 | Boldy Snapfit |
-| 673 | 235 | Sarah Henniker |
-| 674 | 235 | Jana Hutcheson |
-| 675 | 235 | Owicked1 |
-| 676 | 234 | Christina Torres |
-| 677 | 234 | Krazykat💋❤️💋 |
-| 678 | 234 | Gauge Slusher |
-| 679 | 234 | Ruby Sandberg |
-| 680 | 234 | Aaron Green |
+| 672 | 236 | Mindy Gloska |
+| 673 | 236 | Boldy Snapfit |
+| 674 | 235 | Sarah Henniker |
+| 675 | 235 | Jana Hutcheson |
+| 676 | 235 | Owicked1 |
+| 677 | 234 | Christina Torres |
+| 678 | 234 | Krazykat💋❤️💋 |
+| 679 | 234 | Aaron Green |
+| 680 | 234 | Ruby Sandberg |
 | 681 | 233 | Hyper Tilemaker |
 | 682 | 233 | Sherri E Woods Hess |
 | 683 | 233 | Tina Englert |
-| 684 | 232 | Jessica Weed |
-| 685 | 232 | yoyoluv |
+| 684 | 232 | yoyoluv |
+| 685 | 232 | Jessica Weed |
 | 686 | 232 | Tina Sinclair |
 | 687 | 231 | Emily Wray |
 | 688 | 231 | Dawn Henderson |
@@ -700,8 +700,8 @@
 | 692 | 228 | Davery Spencer Adair |
 | 693 | 228 | Jai Pahpasay |
 | 694 | 227 | Mary M Brion |
-| 695 | 227 | Spunky Builderpiece |
-| 696 | 227 | Daniel Lorquet |
+| 695 | 227 | Daniel Lorquet |
+| 696 | 227 | Spunky Builderpiece |
 | 697 | 227 | Craig Mcgonigle |
 | 698 | 225 | Ramona Mittelstadt |
 | 699 | 224 | Speedy Balancepiece |
