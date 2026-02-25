@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 08:18:46 UTC
+# Standings for team4 as of 2026-02-25 08:19:23 UTC
 
 **Total Participants:** 2183
 
@@ -265,17 +265,17 @@
 | 257 | 512 | Michele Plunkett |
 | 258 | 510 | Jim Hart |
 | 259 | 508 | June Hoffman |
-| 260 | 505 | Jason Gibbs |
-| 261 | 505 | Brickh4us |
-| 262 | 504 | Deanna Deckard |
-| 263 | 503 | Zethra Prenisha Rahming |
-| 264 | 503 | Chao Ma |
-| 265 | 500 | Crystal Nicolette Moore |
-| 266 | 499 | John Brunetti |
-| 267 | 499 | Kesha Brady |
-| 268 | 495 | Joeliecea Cobb |
-| 269 | 494 | Zakia Monae |
-| 270 | 494 | Cynthia Boudreau |
+| 260 | 506 | Cynthia Boudreau |
+| 261 | 505 | Jason Gibbs |
+| 262 | 505 | Brickh4us |
+| 263 | 504 | Deanna Deckard |
+| 264 | 503 | Zethra Prenisha Rahming |
+| 265 | 503 | Chao Ma |
+| 266 | 500 | Crystal Nicolette Moore |
+| 267 | 499 | John Brunetti |
+| 268 | 499 | Kesha Brady |
+| 269 | 495 | Joeliecea Cobb |
+| 270 | 494 | Zakia Monae |
 | 271 | 494 | Gdiguy |
 | 272 | 493 | David Lay |
 | 273 | 489 | Laura |
@@ -849,16 +849,16 @@
 | 841 | 175 | Rick SJ |
 | 842 | 175 | Marcus Cooper |
 | 843 | 175 | Kristin Rose Nutter |
-| 844 | 175 | Tory Miller |
-| 845 | 174 | Giggly Balancefit |
-| 846 | 174 | Angel Johnson |
-| 847 | 174 | Laura Chase-Amara |
-| 848 | 174 | Christina Hyde |
-| 849 | 173 | Jasmine Castro |
-| 850 | 173 | Erebus |
-| 851 | 173 | Willa Anne Nold Kay |
-| 852 | 173 | Spunky Framezone |
-| 853 | 173 | TwistyMcTwist |
+| 844 | 175 | Spunky Framezone |
+| 845 | 175 | Tory Miller |
+| 846 | 174 | Giggly Balancefit |
+| 847 | 174 | Angel Johnson |
+| 848 | 174 | Laura Chase-Amara |
+| 849 | 174 | Christina Hyde |
+| 850 | 173 | Jasmine Castro |
+| 851 | 173 | TwistyMcTwist |
+| 852 | 173 | Erebus |
+| 853 | 173 | Willa Anne Nold Kay |
 | 854 | 173 | Kelly Duncan |
 | 855 | 173 | Marvetta Williams |
 | 856 | 173 | Too Low Lou |
@@ -1123,17 +1123,17 @@
 | 1115 | 110 | JefitaChiquita |
 | 1116 | 110 | Beth Helms |
 | 1117 | 110 | Epic Tilt |
-| 1118 | 109 | Wacky Gridlock |
-| 1119 | 109 | Wendy De Kam |
-| 1120 | 109 | Rae Henderson |
-| 1121 | 109 | Loyal |
-| 1122 | 109 | Ace317 |
-| 1123 | 109 | 0934 |
-| 1124 | 109 | Carmen Maraj |
-| 1125 | 109 | Patrick Cossette |
-| 1126 | 108 | Patrick Watkins |
-| 1127 | 108 | Bob Moores |
-| 1128 | 108 | Crystal Eaden |
+| 1118 | 110 | Crystal Eaden |
+| 1119 | 109 | Wacky Gridlock |
+| 1120 | 109 | Wendy De Kam |
+| 1121 | 109 | Rae Henderson |
+| 1122 | 109 | Loyal |
+| 1123 | 109 | Ace317 |
+| 1124 | 109 | 0934 |
+| 1125 | 109 | Carmen Maraj |
+| 1126 | 109 | Patrick Cossette |
+| 1127 | 108 | Patrick Watkins |
+| 1128 | 108 | Bob Moores |
 | 1129 | 108 | Travis Poe |
 | 1130 | 108 | Krs |
 | 1131 | 107 | Garrett G-luv Kyser |
