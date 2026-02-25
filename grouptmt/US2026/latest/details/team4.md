@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 16:06:43 UTC
+# Standings for team4 as of 2026-02-25 16:07:24 UTC
 
 **Total Participants:** 2226
 
@@ -302,11 +302,11 @@
 | 294 | 468 | Lora |
 | 295 | 468 | Montiette Mcglown |
 | 296 | 467 | Lush Linkfall |
-| 297 | 466 | Stacey Stano |
-| 298 | 465 | 030Synner |
-| 299 | 465 | blockstar |
-| 300 | 464 | Kenna Gunderland |
-| 301 | 464 | KimoKoala |
+| 297 | 466 | KimoKoala |
+| 298 | 466 | Stacey Stano |
+| 299 | 465 | 030Synner |
+| 300 | 465 | blockstar |
+| 301 | 464 | Kenna Gunderland |
 | 302 | 464 | Jenna Keen |
 | 303 | 462 | Hyper Matchclear |
 | 304 | 461 | Twisty Risebuilder |
@@ -396,7 +396,7 @@
 | 388 | 387 | Ak Jones |
 | 389 | 387 | George Tzouganos |
 | 390 | 386 | Neil Ingham |
-| 391 | 385 | Chummy Towerzone |
+| 391 | 386 | Chummy Towerzone |
 | 392 | 384 | Lilya Troutman |
 | 393 | 384 | Gracie Ann Taylor |
 | 394 | 384 | Jackie Clark |
