@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 12:40:44 UTC
+# Standings for team1 as of 2026-02-25 12:41:22 UTC
 
 **Total Participants:** 2464
 
@@ -1065,66 +1065,66 @@
 | 1057 | 139 | Chummy Spinzone |
 | 1058 | 139 | Giggy Stacky |
 | 1059 | 139 | Connie Balentine |
-| 1060 | 138 | Adam Charles |
-| 1061 | 138 | Michael Butler |
-| 1062 | 138 | Mauricio Reyes |
-| 1063 | 138 | Shanna Outen |
-| 1064 | 138 | SophieG |
-| 1065 | 138 | Mar |
+| 1060 | 138 | Michael Butler |
+| 1061 | 138 | Mauricio Reyes |
+| 1062 | 138 | Shanna Outen |
+| 1063 | 138 | SophieG |
+| 1064 | 138 | Mar |
+| 1065 | 138 | Adam Charles |
 | 1066 | 137 | Matthew Vd |
-| 1067 | 137 | Zappy Cluster |
+| 1067 | 137 | David Bourne |
 | 1068 | 137 | Kalesha Tteirrah |
-| 1069 | 137 | David Bourne |
-| 1070 | 137 | Boog |
+| 1069 | 137 | Boog |
+| 1070 | 137 | Zappy Cluster |
 | 1071 | 137 | Roselyn Gomez |
-| 1072 | 136 | Zach Marihugh |
-| 1073 | 136 | Swanky Crasher |
+| 1072 | 136 | Susan Walser Osborne |
+| 1073 | 136 | Zach Marihugh |
 | 1074 | 136 | Lashá Calloway |
-| 1075 | 136 | Jennifer Chilton-Metlock |
-| 1076 | 136 | Dreamy Basepiece |
-| 1077 | 136 | Susan Walser Osborne |
+| 1075 | 136 | Dreamy Basepiece |
+| 1076 | 136 | Swanky Crasher |
+| 1077 | 136 | Jennifer Chilton-Metlock |
 | 1078 | 135 | Thia Gibson |
-| 1079 | 135 | Sean McErlane |
-| 1080 | 135 | Bye Love |
-| 1081 | 134 | Brahim Amara |
-| 1082 | 134 | Charlie Charlie |
+| 1079 | 135 | Bye Love |
+| 1080 | 135 | Sean McErlane |
+| 1081 | 134 | Angela Rena Brooks |
+| 1082 | 134 | MagaMan |
 | 1083 | 134 | Chilly Matchbuilder |
-| 1084 | 134 | MagaMan |
+| 1084 | 134 | Charlie Charlie |
 | 1085 | 134 | Mighty Basegrid |
-| 1086 | 134 | Angela Rena Brooks |
-| 1087 | 133 | Rita Sunshyne |
-| 1088 | 133 | Jason Chabot |
-| 1089 | 133 | Josh Gould |
-| 1090 | 133 | Heather Duncan Peer |
-| 1091 | 133 | Daring Wiper |
-| 1092 | 132 | Jessica Hopkins |
+| 1086 | 134 | Brahim Amara |
+| 1087 | 133 | Jason Chabot |
+| 1088 | 133 | Glitzy Balance |
+| 1089 | 133 | Daring Wiper |
+| 1090 | 133 | Josh Gould |
+| 1091 | 133 | Heather Duncan Peer |
+| 1092 | 133 | Rita Sunshyne |
 | 1093 | 132 | Tofy |
-| 1094 | 132 | Duanew |
-| 1095 | 132 | Amber Rochelle |
-| 1096 | 132 | Kevin Cook |
-| 1097 | 131 | Rick Clark |
-| 1098 | 131 | Crystal Cardenas |
-| 1099 | 131 | Krystal Jones |
+| 1094 | 132 | Jessica Hopkins |
+| 1095 | 132 | Duanew |
+| 1096 | 132 | Amber Rochelle |
+| 1097 | 132 | Kevin Cook |
+| 1098 | 131 | Krystal Jones |
+| 1099 | 131 | Crystal Cardenas |
 | 1100 | 131 | J.D3D.D |
-| 1101 | 131 | Lynn Anderson |
-| 1102 | 131 | Matt Bremner |
-| 1103 | 130 | Darcy Doe |
-| 1104 | 130 | Shiny Brickclear |
-| 1105 | 130 | Dayna Arthurs |
-| 1106 | 130 | Lush Blockroll |
+| 1101 | 131 | Rick Clark |
+| 1102 | 131 | Lynn Anderson |
+| 1103 | 131 | Matt Bremner |
+| 1104 | 130 | Darcy Doe |
+| 1105 | 130 | Shiny Brickclear |
+| 1106 | 130 | Dayna Arthurs |
 | 1107 | 130 | Rebecca Tanner |
 | 1108 | 130 | Andrea AJ Johnson |
-| 1109 | 130 | Linda Williams |
-| 1110 | 129 | Jason Brown |
-| 1111 | 129 | HIM |
-| 1112 | 129 | Evelyn Kelly Motti |
-| 1113 | 129 | Angela Martin Hardy |
-| 1114 | 129 | Glitzy Balance |
-| 1115 | 128 | Frilly Fitblock |
-| 1116 | 128 | Pineapple 🍍 |
-| 1117 | 128 | Kayla Gregory |
-| 1118 | 128 | Fizzy McNutts |
-| 1119 | 128 | Dapper Shiftspin |
+| 1109 | 130 | Lush Blockroll |
+| 1110 | 130 | Linda Williams |
+| 1111 | 129 | Jason Brown |
+| 1112 | 129 | HIM |
+| 1113 | 129 | Evelyn Kelly Motti |
+| 1114 | 129 | Angela Martin Hardy |
+| 1115 | 128 | Dapper Shiftspin |
+| 1116 | 128 | Frilly Fitblock |
+| 1117 | 128 | Pineapple 🍍 |
+| 1118 | 128 | Kayla Gregory |
+| 1119 | 128 | Fizzy McNutts |
 | 1120 | 128 | Bank |
 | 1121 | 128 | Swanky Blockzone |
 | 1122 | 128 | Joyful Daze |
@@ -1360,15 +1360,15 @@
 | 1352 | 89 | Victoria Montenegro Martinez |
 | 1353 | 89 | FableGray |
 | 1354 | 89 | Kenton Billings |
-| 1355 | 89 | 杜庭維 |
-| 1356 | 88 | Gewb |
-| 1357 | 88 | Jason Aleshire |
-| 1358 | 88 | Allison |
-| 1359 | 88 | Andee Bo Bandee |
-| 1360 | 88 | Tom Sackett |
-| 1361 | 88 | Kandie Marie |
-| 1362 | 87 | Sanita Latham |
-| 1363 | 87 | Plucky Clearpiece |
+| 1355 | 89 | Plucky Clearpiece |
+| 1356 | 89 | 杜庭維 |
+| 1357 | 88 | Gewb |
+| 1358 | 88 | Jason Aleshire |
+| 1359 | 88 | Allison |
+| 1360 | 88 | Andee Bo Bandee |
+| 1361 | 88 | Tom Sackett |
+| 1362 | 88 | Kandie Marie |
+| 1363 | 87 | Sanita Latham |
 | 1364 | 87 | Patricia Mills |
 | 1365 | 87 | Heaven White |
 | 1366 | 87 | Larry Brazil |
