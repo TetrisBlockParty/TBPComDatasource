@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-25 09:34:45 UTC
+# Standings for team3 as of 2026-02-25 09:35:23 UTC
 
 **Total Participants:** 3671
 
@@ -64,8 +64,8 @@
 | 56 | 2302 | Alanna Rogers |
 | 57 | 2277 | Tina Kay |
 | 58 | 2216 | Shari Garber |
-| 59 | 2186 | Rachel Bowers |
-| 60 | 2179 | ren |
+| 59 | 2204 | ren |
+| 60 | 2186 | Rachel Bowers |
 | 61 | 2148 | Ashley Kiara |
 | 62 | 2148 | Denise Nardoni |
 | 63 | 2146 | yoyo |
@@ -1662,17 +1662,17 @@
 | 1654 | 137 | Clever Patterner |
 | 1655 | 137 | Van Nguyen |
 | 1656 | 137 | ummm |
-| 1657 | 137 | Eva Gregg |
+| 1657 | 137 | Endawg |
 | 1658 | 137 | Laura Long |
 | 1659 | 137 | MusicMaster |
-| 1660 | 137 | Matthew Gardner |
-| 1661 | 137 | Endawg |
-| 1662 | 136 | Carli Jean |
-| 1663 | 136 | Silly Cascadezone |
+| 1660 | 137 | Eva Gregg |
+| 1661 | 137 | Matthew Gardner |
+| 1662 | 136 | steve |
+| 1663 | 136 | Brooke Davis |
 | 1664 | 136 | Murray35 |
-| 1665 | 136 | steve |
-| 1666 | 136 | Patrick Rickard |
-| 1667 | 136 | Brooke Davis |
+| 1665 | 136 | Patrick Rickard |
+| 1666 | 136 | Carli Jean |
+| 1667 | 136 | Silly Cascadezone |
 | 1668 | 136 | Lush Slam |
 | 1669 | 136 | bribri |
 | 1670 | 136 | Goofy Buildout |
@@ -1682,45 +1682,45 @@
 | 1674 | 136 | Adriana M. Del Valle |
 | 1675 | 135 | earmouse |
 | 1676 | 135 | Tony Mia Christian |
-| 1677 | 135 | Zappy Tetrisline |
-| 1678 | 135 | Melissa Cocchiara |
+| 1677 | 135 | Melissa Cocchiara |
+| 1678 | 135 | Nina Marie |
 | 1679 | 135 | Jennifer Steward |
-| 1680 | 135 | Nina Marie |
-| 1681 | 134 | Sharon Dudley Lawson |
-| 1682 | 134 | Poppy Brickline |
+| 1680 | 135 | Zappy Tetrisline |
+| 1681 | 134 | Poppy Brickline |
+| 1682 | 134 | Sharon Dudley Lawson |
 | 1683 | 134 | Jess Reppert |
 | 1684 | 134 | Jumpy Cascadeclear |
 | 1685 | 134 | Gabe |
 | 1686 | 133 | Lush Balancepiece |
-| 1687 | 133 | Dreamy Patternfall |
+| 1687 | 133 | Amanda Lynn Wilcox |
 | 1688 | 133 | Nifty |
-| 1689 | 133 | Amanda Lynn Wilcox |
+| 1689 | 133 | Stephanie Burgan |
 | 1690 | 133 | Loony Puzzle |
-| 1691 | 133 | Stephanie Burgan |
-| 1692 | 133 | Ellen Schaupp |
+| 1691 | 133 | Ellen Schaupp |
+| 1692 | 133 | Dreamy Patternfall |
 | 1693 | 133 | Brave Brickfit |
-| 1694 | 132 | melloman74 |
-| 1695 | 132 | Recia Lloyd |
-| 1696 | 132 | Mark Castillo |
-| 1697 | 132 | tilecrusher |
-| 1698 | 132 | Marcey Peneaux |
-| 1699 | 132 | Tae Menifee |
-| 1700 | 132 | Swanky Balancepiece |
-| 1701 | 132 | Megan Joanna |
-| 1702 | 132 | Donald Johnson |
+| 1694 | 132 | Marcey Peneaux |
+| 1695 | 132 | melloman74 |
+| 1696 | 132 | Megan Joanna |
+| 1697 | 132 | Mark Castillo |
+| 1698 | 132 | Recia Lloyd |
+| 1699 | 132 | tilecrusher |
+| 1700 | 132 | Tae Menifee |
+| 1701 | 132 | Donald Johnson |
+| 1702 | 132 | Swanky Balancepiece |
 | 1703 | 132 | Caitlin Bailey |
 | 1704 | 132 | Cassidy Cade |
 | 1705 | 131 | Jodee Brown |
 | 1706 | 131 | Kerina Salzwedel |
-| 1707 | 131 | Lynnie |
-| 1708 | 131 | Nicole Marie |
-| 1709 | 131 | Mary Faith Carmody-Trotman |
+| 1707 | 131 | Mary Faith Carmody-Trotman |
+| 1708 | 131 | Lynnie |
+| 1709 | 131 | Nicole Marie |
 | 1710 | 131 | James Gwaltney |
-| 1711 | 130 | 한유정 |
-| 1712 | 130 | RedLego |
-| 1713 | 130 | Alisha Lavicky |
-| 1714 | 130 | Athena |
-| 1715 | 130 | Liss630 |
+| 1711 | 130 | Alisha Lavicky |
+| 1712 | 130 | 한유정 |
+| 1713 | 130 | Liss630 |
+| 1714 | 130 | RedLego |
+| 1715 | 130 | Athena |
 | 1716 | 130 | AL Cab |
 | 1717 | 130 | Venna Cooper |
 | 1718 | 130 | Jennifer Kahler |
@@ -1728,11 +1728,11 @@
 | 1720 | 129 | Shimika Enay Wallace |
 | 1721 | 129 | Dragonite |
 | 1722 | 129 | fakir |
-| 1723 | 128 | Tipsy Rumbler |
-| 1724 | 128 | Saint Thomas Jacques |
-| 1725 | 128 | Samantha Barnes |
-| 1726 | 128 | CBJ |
-| 1727 | 128 | Jim Weaver |
+| 1723 | 128 | Saint Thomas Jacques |
+| 1724 | 128 | Samantha Barnes |
+| 1725 | 128 | Tipsy Rumbler |
+| 1726 | 128 | Jim Weaver |
+| 1727 | 128 | CBJ |
 | 1728 | 128 | Wendy Pacheco |
 | 1729 | 128 | Kalisha Wilbourn |
 | 1730 | 128 | Amanda Marie Inman |
@@ -1740,73 +1740,73 @@
 | 1732 | 127 | Cassius Quinn |
 | 1733 | 127 | Goofy Mover |
 | 1734 | 127 | Joe Perkins |
-| 1735 | 127 | Pamela Swist |
-| 1736 | 127 | Dapper Dashpiece |
-| 1737 | 127 | Sabrina Spiva |
-| 1738 | 127 | Ahmani Waters |
-| 1739 | 127 | Leesha Price |
+| 1735 | 127 | Nicole Benjamin |
+| 1736 | 127 | Jacqueline Buckley |
+| 1737 | 127 | Leesha Price |
+| 1738 | 127 | Pamela Swist |
+| 1739 | 127 | Shawn Shelby |
 | 1740 | 127 | Cindi Figurelli |
-| 1741 | 127 | Shawn Shelby |
-| 1742 | 127 | Nicole Benjamin |
-| 1743 | 127 | Jacqueline Buckley |
-| 1744 | 126 | Epic Dropmatch |
+| 1741 | 127 | Dapper Dashpiece |
+| 1742 | 127 | Ahmani Waters |
+| 1743 | 127 | Sabrina Spiva |
+| 1744 | 126 | Zaneta Chambers |
 | 1745 | 126 | Hoppy Cascadepiece |
-| 1746 | 126 | Zaneta Chambers |
-| 1747 | 125 | Cool Slammer |
-| 1748 | 125 | Wendy McGoo |
-| 1749 | 125 | Joey Perez |
-| 1750 | 125 | Tu Simon |
-| 1751 | 125 | Cheeky Dashy |
-| 1752 | 125 | Christopher Lloyd |
-| 1753 | 125 | Dizzy Tiltgrid |
-| 1754 | 125 | Barbara Galbreath |
-| 1755 | 124 | Perky Cascadeclear |
-| 1756 | 124 | Hasty Brickzone |
-| 1757 | 124 | Christine Ann Eras |
-| 1758 | 124 | Kortni Singleton |
-| 1759 | 124 | Cheery Pivoty |
-| 1760 | 124 | Marcia Van Wormer |
-| 1761 | 124 | Andres Cordova |
-| 1762 | 124 | Linna Tsang |
-| 1763 | 124 | Cornelius Neal |
-| 1764 | 124 | Kimberlee Harmouzi |
-| 1765 | 124 | Tasha Robinson |
-| 1766 | 124 | Liz McVicker |
-| 1767 | 123 | Cheeky Fitline |
+| 1746 | 126 | Epic Dropmatch |
+| 1747 | 126 | Flippin Fly |
+| 1748 | 125 | Cheeky Dashy |
+| 1749 | 125 | Cool Slammer |
+| 1750 | 125 | Wendy McGoo |
+| 1751 | 125 | Dizzy Tiltgrid |
+| 1752 | 125 | Tu Simon |
+| 1753 | 125 | Joey Perez |
+| 1754 | 125 | Christopher Lloyd |
+| 1755 | 125 | Barbara Galbreath |
+| 1756 | 124 | Perky Cascadeclear |
+| 1757 | 124 | Hasty Brickzone |
+| 1758 | 124 | Christine Ann Eras |
+| 1759 | 124 | Kortni Singleton |
+| 1760 | 124 | Linna Tsang |
+| 1761 | 124 | Liz McVicker |
+| 1762 | 124 | Andres Cordova |
+| 1763 | 124 | Tasha Robinson |
+| 1764 | 124 | Marcia Van Wormer |
+| 1765 | 124 | Kimberlee Harmouzi |
+| 1766 | 124 | Cheery Pivoty |
+| 1767 | 124 | Cornelius Neal |
 | 1768 | 123 | Crystal Brouner-Langlois |
-| 1769 | 123 | Gingersnap |
-| 1770 | 123 | Jessicca Wade |
-| 1771 | 123 | Brave Stagger |
-| 1772 | 123 | Heidi Strickland |
-| 1773 | 123 | Jessica Sanchez |
-| 1774 | 122 | Sara Holmes |
-| 1775 | 122 | Hoppy Patternblock |
-| 1776 | 122 | Spunky Tiley |
-| 1777 | 122 | Jill Wilson Hernandez |
+| 1769 | 123 | Cheeky Fitline |
+| 1770 | 123 | Brave Stagger |
+| 1771 | 123 | Heidi Strickland |
+| 1772 | 123 | Gingersnap |
+| 1773 | 123 | Jessicca Wade |
+| 1774 | 123 | Jessica Sanchez |
+| 1775 | 122 | Sara Holmes |
+| 1776 | 122 | Hoppy Patternblock |
+| 1777 | 122 | Spunky Tiley |
 | 1778 | 122 | Anna |
-| 1779 | 122 | Amanda Miller |
-| 1780 | 122 | LaMorsa |
-| 1781 | 122 | Rose Valdez |
-| 1782 | 122 | Jazzy Tilt |
-| 1783 | 121 | SaSa Mac |
-| 1784 | 121 | squarish |
-| 1785 | 121 | Umeka Herrod |
-| 1786 | 121 | Glitter |
+| 1779 | 122 | Rose Valdez |
+| 1780 | 122 | Jazzy Tilt |
+| 1781 | 122 | LaMorsa |
+| 1782 | 122 | Jill Wilson Hernandez |
+| 1783 | 122 | Amanda Miller |
+| 1784 | 121 | SaSa Mac |
+| 1785 | 121 | squarish |
+| 1786 | 121 | Umeka Herrod |
 | 1787 | 121 | Michele Lee Decoste |
-| 1788 | 121 | Dreamy Crawler |
-| 1789 | 121 | Pam Haldeman Wolfe |
-| 1790 | 121 | Kathy Nichols |
-| 1791 | 121 | Captain Chaos |
-| 1792 | 120 | Beecham Beecham |
-| 1793 | 120 | Niecyy |
+| 1788 | 121 | Glitter |
+| 1789 | 121 | Dreamy Crawler |
+| 1790 | 121 | Pam Haldeman Wolfe |
+| 1791 | 121 | Kathy Nichols |
+| 1792 | 121 | Captain Chaos |
+| 1793 | 120 | Beecham Beecham |
 | 1794 | 120 | Cheryl Walsh |
-| 1795 | 120 | Stephanie Joiner Tillman |
-| 1796 | 120 | Zappy Rollfit |
-| 1797 | 119 | Nancy Ingrodi Jose |
-| 1798 | 119 | Hyper Linkpiece |
-| 1799 | 119 | Flippin Fly |
-| 1800 | 119 | Jolly Crusher |
-| 1801 | 119 | Flashy Brickline |
+| 1795 | 120 | Niecyy |
+| 1796 | 120 | Stephanie Joiner Tillman |
+| 1797 | 120 | Zappy Rollfit |
+| 1798 | 119 | Nancy Ingrodi Jose |
+| 1799 | 119 | Jolly Crusher |
+| 1800 | 119 | Flashy Brickline |
+| 1801 | 119 | Hyper Linkpiece |
 | 1802 | 119 | Tracy Marino |
 | 1803 | 119 | Stacey Evans |
 | 1804 | 119 | Speedy Shatterline |
@@ -1814,12 +1814,12 @@
 | 1806 | 118 | Christine M. Foran |
 | 1807 | 118 | PerkyCascade |
 | 1808 | 118 | Damian Reid |
-| 1809 | 118 | Nutty Blast |
-| 1810 | 118 | Dreamy Tiltpiece |
-| 1811 | 118 | Sarah Katelyn Dembeck |
-| 1812 | 118 | Speedy Linefit |
-| 1813 | 117 | Nerdy Pop |
-| 1814 | 117 | Yiye Cao |
+| 1809 | 118 | Dreamy Tiltpiece |
+| 1810 | 118 | Nutty Blast |
+| 1811 | 118 | Speedy Linefit |
+| 1812 | 118 | Sarah Katelyn Dembeck |
+| 1813 | 117 | Yiye Cao |
+| 1814 | 117 | Nerdy Pop |
 | 1815 | 117 | Joe Napier |
 | 1816 | 117 | Tucker Allen |
 | 1817 | 117 | Shatori Tori Bailey |

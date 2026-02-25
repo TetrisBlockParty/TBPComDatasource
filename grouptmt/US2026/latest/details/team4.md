@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 09:34:45 UTC
+# Standings for team4 as of 2026-02-25 09:35:23 UTC
 
 **Total Participants:** 2191
 
@@ -241,8 +241,8 @@
 | 233 | 539 | scott |
 | 234 | 538 | Trish |
 | 235 | 537 | ThaEviLJeNiuZ |
-| 236 | 537 | Scott Jameson |
-| 237 | 537 | Joanna |
+| 236 | 537 | Joanna |
+| 237 | 537 | Scott Jameson |
 | 238 | 533 | Cynthia Boudreau |
 | 239 | 532 | Sharyn Lemire |
 | 240 | 531 | Mr. Party |
@@ -252,13 +252,13 @@
 | 244 | 522 | Luis Martinez |
 | 245 | 522 | Marcus Todd |
 | 246 | 520 | Antony Dwayne Beasley |
-| 247 | 518 | shark tato |
-| 248 | 518 | Leah Kutz Zirbel |
+| 247 | 518 | Leah Kutz Zirbel |
+| 248 | 518 | shark tato |
 | 249 | 517 | Casey Grabner |
 | 250 | 516 | Nick Gray |
 | 251 | 515 | Bradley Reeves |
-| 252 | 514 | Keshia Lyons |
-| 253 | 514 | Cheery Risebuilder |
+| 252 | 514 | Cheery Risebuilder |
+| 253 | 514 | Keshia Lyons |
 | 254 | 513 | Ari Droff |
 | 255 | 513 | Milan Markeisha |
 | 256 | 513 | Silly Zonebuilder |
@@ -269,8 +269,8 @@
 | 261 | 505 | Brickh4us |
 | 262 | 505 | Jason Gibbs |
 | 263 | 504 | Deanna Deckard |
-| 264 | 503 | Gdiguy |
-| 265 | 503 | Zethra Prenisha Rahming |
+| 264 | 503 | Zethra Prenisha Rahming |
+| 265 | 503 | Gdiguy |
 | 266 | 503 | Chao Ma |
 | 267 | 500 | Crystal Nicolette Moore |
 | 268 | 499 | John Brunetti |
@@ -282,20 +282,20 @@
 | 274 | 489 | Laura |
 | 275 | 489 | Dan Wold |
 | 276 | 484 | Jen Mattei |
-| 277 | 479 | 23 |
-| 278 | 479 | Selena Shaw |
-| 279 | 479 | mike |
+| 277 | 479 | Selena Shaw |
+| 278 | 479 | mike |
+| 279 | 479 | 23 |
 | 280 | 477 | Lauren Scott |
 | 281 | 473 | TinyLegoRose |
 | 282 | 472 | Michael Snow |
 | 283 | 468 | Montiette Mcglown |
 | 284 | 467 | Lush Linkfall |
 | 285 | 465 | 030Synner |
-| 286 | 461 | Dihcheese444 |
-| 287 | 461 | Lindsay Ball |
-| 288 | 459 | Rafael Valentin |
-| 289 | 458 | Alan Zukowski |
-| 290 | 457 | Jessica Fredericks |
+| 286 | 463 | Jessica Fredericks |
+| 287 | 461 | Dihcheese444 |
+| 288 | 461 | Lindsay Ball |
+| 289 | 459 | Rafael Valentin |
+| 290 | 458 | Alan Zukowski |
 | 291 | 453 | Mike Solo |
 | 292 | 453 | Rio Rocha |
 | 293 | 450 | Lora |
@@ -402,8 +402,8 @@
 | 394 | 368 | Sarah Brown |
 | 395 | 367 | Meg |
 | 396 | 367 | Tony Pavelka |
-| 397 | 365 | Groovy Gridlock |
-| 398 | 364 | Dustin York |
+| 397 | 367 | Dustin York |
+| 398 | 365 | Groovy Gridlock |
 | 399 | 361 | Eminem |
 | 400 | 361 | Chummy Towerzone |
 | 401 | 359 | Jumpy Zonepiece |
@@ -511,9 +511,9 @@
 | 503 | 295 | Yanais Fernandez |
 | 504 | 295 | moneybagz |
 | 505 | 295 | Stacy Jones |
-| 506 | 294 | BootsMcGee |
-| 507 | 294 | Jeff Roberts |
-| 508 | 294 | Ryry |
+| 506 | 294 | Jeff Roberts |
+| 507 | 294 | Ryry |
+| 508 | 294 | BootsMcGee |
 | 509 | 293 | Hector Duran |
 | 510 | 293 | Robert Bolden |
 | 511 | 292 | Epic Curvetile |
@@ -524,42 +524,42 @@
 | 516 | 286 | Brandi Durig |
 | 517 | 286 | Daring Pivot |
 | 518 | 286 | Sam Middleton |
-| 519 | 285 | Thomas Hettenhaus |
+| 519 | 285 | Elizabeth Tinoco |
 | 520 | 285 | Lisa Bush |
-| 521 | 285 | Elizabeth Tinoco |
+| 521 | 285 | Thomas Hettenhaus |
 | 522 | 284 | Speedy Swipe |
 | 523 | 284 | Jose Dejesus |
-| 524 | 283 | GTxIrishman |
-| 525 | 283 | Chariss Newsom |
+| 524 | 283 | Chariss Newsom |
+| 525 | 283 | GTxIrishman |
 | 526 | 283 | Chilly Matcher |
 | 527 | 283 | Jen May |
 | 528 | 281 | Jennifer Renee |
 | 529 | 281 | Joseph Pace |
 | 530 | 279 | Jessica Atkinson |
-| 531 | 279 | Jarred Falls |
-| 532 | 279 | Ashley Danielle |
+| 531 | 279 | Ashley Danielle |
+| 532 | 279 | Jarred Falls |
 | 533 | 278 | Tanya Abernathy Jackson |
 | 534 | 278 | Gigglelymomof2 |
 | 535 | 277 | Kaung San |
 | 536 | 277 | Cheery Fitline |
 | 537 | 276 | Ron |
-| 538 | 276 | Shirl |
-| 539 | 276 | Dennis Bradley |
+| 538 | 276 | Dennis Bradley |
+| 539 | 276 | Shirl |
 | 540 | 276 | Tanner Lund |
 | 541 | 276 | Orchislactea |
 | 542 | 275 | Diosa Ebalobo Magsael |
 | 543 | 274 | Brooke Kaune |
 | 544 | 274 | Cranky Glidebuilder |
 | 545 | 272 | Noel Christa |
-| 546 | 272 | Quirky Dash |
-| 547 | 272 | Amanda Christine |
+| 546 | 272 | Amanda Christine |
+| 547 | 272 | Quirky Dash |
 | 548 | 271 | Rebecca Blake |
 | 549 | 271 | Melissa Priest Sellers |
 | 550 | 270 | Degenerate |
-| 551 | 270 | Grann8 |
-| 552 | 270 | Robert Rangel |
-| 553 | 270 | Smiley Shifter |
-| 554 | 270 | Jen Hallin |
+| 551 | 270 | Robert Rangel |
+| 552 | 270 | Jen Hallin |
+| 553 | 270 | Grann8 |
+| 554 | 270 | Smiley Shifter |
 | 555 | 269 | Stormy Tomplait |
 | 556 | 269 | Melissa VanBourgondien |
 | 557 | 268 | Riverdale |
@@ -568,45 +568,45 @@
 | 560 | 266 | Stacy |
 | 561 | 266 | Mary Miller |
 | 562 | 266 | Petty |
-| 563 | 265 | Laura Hosford |
-| 564 | 265 | Christine Therrien |
-| 565 | 265 | Matt Morrow |
-| 566 | 265 | Becky Shimko |
+| 563 | 265 | Christine Therrien |
+| 564 | 265 | Matt Morrow |
+| 565 | 265 | Becky Shimko |
+| 566 | 265 | Laura Hosford |
 | 567 | 263 | Laurmarcar |
 | 568 | 263 | Shanon Klair |
-| 569 | 262 | Christina Nabrizny |
+| 569 | 262 | Brian Owens |
 | 570 | 262 | Dorian |
 | 571 | 262 | Leila |
-| 572 | 262 | Brian Owens |
-| 573 | 261 | conceptCollector |
-| 574 | 261 | Eric Wren |
+| 572 | 262 | Christina Nabrizny |
+| 573 | 261 | Eric Wren |
+| 574 | 261 | conceptCollector |
 | 575 | 260 | Frank Joseph Epson |
-| 576 | 259 | Perky Riser |
-| 577 | 258 | Michelle McCutcheon |
-| 578 | 258 | wombat |
-| 579 | 258 | Denise Jones |
-| 580 | 257 | Joseph Edmonson |
-| 581 | 257 | 2slo |
-| 582 | 257 | Red |
-| 583 | 257 | Globofish |
-| 584 | 256 | Rhys Morgan |
-| 585 | 256 | Lonnie Brown |
-| 586 | 255 | Jesus Garcia |
-| 587 | 255 | Bumpy Morris |
-| 588 | 255 | Martha Lucinda Bishop |
-| 589 | 254 | Boldy Linkpiece |
-| 590 | 254 | Joey Riley |
-| 591 | 254 | Groovy Brickmatch |
-| 592 | 254 | Shant |
-| 593 | 253 | Autum Leigh |
-| 594 | 252 | Seraphim |
-| 595 | 252 | Krystal McPherson |
+| 576 | 259 | Krystal McPherson |
+| 577 | 259 | Perky Riser |
+| 578 | 258 | Michelle McCutcheon |
+| 579 | 258 | wombat |
+| 580 | 258 | Denise Jones |
+| 581 | 257 | Joseph Edmonson |
+| 582 | 257 | 2slo |
+| 583 | 257 | Red |
+| 584 | 257 | Globofish |
+| 585 | 256 | Rhys Morgan |
+| 586 | 256 | Lonnie Brown |
+| 587 | 255 | Jesus Garcia |
+| 588 | 255 | Bumpy Morris |
+| 589 | 255 | Martha Lucinda Bishop |
+| 590 | 254 | Shant |
+| 591 | 254 | Joey Riley |
+| 592 | 254 | Groovy Brickmatch |
+| 593 | 254 | Boldy Linkpiece |
+| 594 | 253 | Autum Leigh |
+| 595 | 252 | Seraphim |
 | 596 | 251 | Carol Ricks Raymond |
 | 597 | 251 | Gilles Lanctot |
 | 598 | 251 | Marco |
-| 599 | 250 | Loony Rotater |
+| 599 | 250 | Girldadtpa |
 | 600 | 250 | Ann G. Carrillo |
-| 601 | 250 | Girldadtpa |
+| 601 | 250 | Loony Rotater |
 | 602 | 250 | Frilly Blocky |
 | 603 | 249 | Daniel Gazcon |
 | 604 | 248 | Vanessa Smart |
