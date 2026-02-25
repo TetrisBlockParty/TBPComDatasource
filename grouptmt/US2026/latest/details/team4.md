@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 09:24:46 UTC
+# Standings for team4 as of 2026-02-25 09:25:22 UTC
 
 **Total Participants:** 2190
 
@@ -89,9 +89,9 @@
 | 81 | 1137 | Denia Deni |
 | 82 | 1121 | BertMofo |
 | 83 | 1116 | Girl |
-| 84 | 1092 | Peachy Fall |
-| 85 | 1090 | Destiney Carter |
-| 86 | 1085 | Guy Incognito |
+| 84 | 1105 | Guy Incognito |
+| 85 | 1092 | Peachy Fall |
+| 86 | 1090 | Destiney Carter |
 | 87 | 1082 | Dion Crommarty |
 | 88 | 1073 | Chaz Duncan |
 | 89 | 1056 | Valerie Roberts |
@@ -304,12 +304,12 @@
 | 296 | 448 | Lee Silpe |
 | 297 | 447 | Zany Swipe |
 | 298 | 447 | Twisty Cascadezone |
-| 299 | 445 | Chaz |
-| 300 | 445 | Blessedmama |
-| 301 | 444 | Jen Caldwell |
-| 302 | 443 | Dizzy Matchzone |
-| 303 | 443 | Twisty Risebuilder |
-| 304 | 443 | Jessica Fredericks |
+| 299 | 447 | Jessica Fredericks |
+| 300 | 445 | Chaz |
+| 301 | 445 | Blessedmama |
+| 302 | 444 | Jen Caldwell |
+| 303 | 443 | Dizzy Matchzone |
+| 304 | 443 | Twisty Risebuilder |
 | 305 | 441 | Neirrah B Olailjeel |
 | 306 | 440 | Russ Attitude |
 | 307 | 439 | Tyler Terrific |
