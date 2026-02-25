@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 20:24:22 UTC
+# Standings for team4 as of 2026-02-25 20:24:47 UTC
 
 **Total Participants:** 2260
 
@@ -175,8 +175,8 @@
 | 167 | 729 | Cindy Looper |
 | 168 | 724 | Krystal McPherson |
 | 169 | 724 | Chastity Mitchell |
-| 170 | 721 | Chris Baggett |
-| 171 | 719 | Ernest Maxwell |
+| 170 | 723 | Ernest Maxwell |
+| 171 | 721 | Chris Baggett |
 | 172 | 716 | Adam Stephanie Parker |
 | 173 | 714 | Erin Sabol |
 | 174 | 714 | April Rondinone |
@@ -1830,195 +1830,195 @@
 | 1822 | 33 | You know who |
 | 1823 | 33 | Danielle Dunn |
 | 1824 | 33 | Jolene Marie Caetano |
-| 1825 | 33 | Shakeyj |
-| 1826 | 33 | IceQueenKiller |
-| 1827 | 33 | Robert Sloan |
-| 1828 | 33 | Getem gone |
-| 1829 | 33 | Emily Finhill |
-| 1830 | 33 | Reshau Clay |
-| 1831 | 33 | Jodi Warner Sommerer |
-| 1832 | 32 | Scott Burkett |
+| 1825 | 33 | Emily Finhill |
+| 1826 | 33 | Reshau Clay |
+| 1827 | 33 | Shakeyj |
+| 1828 | 33 | Jodi Warner Sommerer |
+| 1829 | 33 | Getem gone |
+| 1830 | 33 | IceQueenKiller |
+| 1831 | 33 | Robert Sloan |
+| 1832 | 32 | Aaron Brown |
 | 1833 | 32 | Kyrstyn Viers |
-| 1834 | 32 | Tisha McManus |
-| 1835 | 32 | Tracy Bohen |
-| 1836 | 32 | Aaron Brown |
-| 1837 | 32 | Lauri Robare Russell |
-| 1838 | 32 | Block Buster |
-| 1839 | 32 | Zesty Dashgrid |
-| 1840 | 32 | CheBrandNew |
-| 1841 | 32 | Michelle White |
-| 1842 | 32 | Stephon Void |
+| 1834 | 32 | Zesty Dashgrid |
+| 1835 | 32 | Block Buster |
+| 1836 | 32 | Verzell Wade Banner |
+| 1837 | 32 | Stephon Void |
+| 1838 | 32 | Tisha McManus |
+| 1839 | 32 | Scott Burkett |
+| 1840 | 32 | Lauri Robare Russell |
+| 1841 | 32 | CheBrandNew |
+| 1842 | 32 | Tracy Bohen |
 | 1843 | 32 | Terri Tatem |
-| 1844 | 32 | Verzell Wade Banner |
-| 1845 | 31 | Dandy Liner |
-| 1846 | 31 | Nooooope |
-| 1847 | 31 | Raido |
-| 1848 | 31 | Sab |
-| 1849 | 31 | Hoppy Brickzone |
+| 1844 | 32 | Michelle White |
+| 1845 | 31 | Sab |
+| 1846 | 31 | Hoppy Brickzone |
+| 1847 | 31 | Nooooope |
+| 1848 | 31 | Dandy Liner |
+| 1849 | 31 | Raido |
 | 1850 | 31 | Plucky Patternbuilder |
-| 1851 | 30 | Becky |
+| 1851 | 30 | Lynn Anne |
 | 1852 | 30 | Jameel HumanTornado Brown |
-| 1853 | 30 | Alberto Rosel |
-| 1854 | 30 | Dapper Racker |
+| 1853 | 30 | Dapper Racker |
+| 1854 | 30 | Becky |
 | 1855 | 30 | Apryl Lia |
-| 1856 | 30 | Alex Alex |
+| 1856 | 30 | Alberto Rosel |
 | 1857 | 30 | Mason Junior |
-| 1858 | 30 | Thomasena Eady Reid |
-| 1859 | 30 | Lynn Anne |
-| 1860 | 30 | Kris Wolfe |
-| 1861 | 30 | Jakorah Musto |
-| 1862 | 30 | Clara Avilez |
-| 1863 | 30 | Khrystyna Lukaniuk |
-| 1864 | 30 | Bricky McBrickface |
-| 1865 | 30 | MrMaestro001 |
-| 1866 | 30 | Robbie Davison |
+| 1858 | 30 | Robbie Davison |
+| 1859 | 30 | Kris Wolfe |
+| 1860 | 30 | fuzzbutt1 |
+| 1861 | 30 | Poppy |
+| 1862 | 30 | ElleneRobert KylePaisley Coward |
+| 1863 | 30 | Clara Avilez |
+| 1864 | 30 | Khrystyna Lukaniuk |
+| 1865 | 30 | Bricky McBrickface |
+| 1866 | 30 | MrMaestro001 |
 | 1867 | 30 | Derald Miller |
-| 1868 | 30 | ElleneRobert KylePaisley Coward |
-| 1869 | 30 | fuzzbutt1 |
-| 1870 | 30 | Poppy |
-| 1871 | 29 | Amanda Gann |
-| 1872 | 29 | Interesting |
+| 1868 | 30 | Alex Alex |
+| 1869 | 30 | Thomasena Eady Reid |
+| 1870 | 30 | Jakorah Musto |
+| 1871 | 29 | Melissa Gail Sanders |
+| 1872 | 29 | Amanda Gann |
 | 1873 | 29 | Kathy Garcia |
-| 1874 | 29 | EMSquire |
-| 1875 | 29 | Melissa Gail Sanders |
-| 1876 | 29 | Ch Mon |
-| 1877 | 29 | Chill Riserpiece |
-| 1878 | 29 | Jessica Lynn |
-| 1879 | 29 | Joshua Smith |
-| 1880 | 28 | Jessi Gooch |
-| 1881 | 28 | Lashay Lipscomb |
-| 1882 | 28 | Shiny Brickline |
-| 1883 | 28 | Lazy Stacker |
-| 1884 | 28 | Sunny babes |
-| 1885 | 28 | Anthony D Holmes |
-| 1886 | 28 | Slinky Matcher |
-| 1887 | 28 | Charles D Rexrode Jr |
-| 1888 | 28 | Heath Klingler |
-| 1889 | 27 | Nutty Grabber |
-| 1890 | 27 | Edward Krohn |
+| 1874 | 29 | Interesting |
+| 1875 | 29 | Joshua Smith |
+| 1876 | 29 | Chill Riserpiece |
+| 1877 | 29 | Jessica Lynn |
+| 1878 | 29 | EMSquire |
+| 1879 | 29 | Ch Mon |
+| 1880 | 28 | Heath Klingler |
+| 1881 | 28 | Shiny Brickline |
+| 1882 | 28 | Lashay Lipscomb |
+| 1883 | 28 | Jessi Gooch |
+| 1884 | 28 | Slinky Matcher |
+| 1885 | 28 | Charles D Rexrode Jr |
+| 1886 | 28 | Anthony D Holmes |
+| 1887 | 28 | Sunny babes |
+| 1888 | 28 | Lazy Stacker |
+| 1889 | 27 | Perach Alima Shoa |
+| 1890 | 27 | Nutty Grabber |
 | 1891 | 27 | Breezy Linkfall |
-| 1892 | 27 | Bold Builderpiece |
-| 1893 | 27 | Perach Alima Shoa |
-| 1894 | 27 | LaLa Short |
-| 1895 | 27 | Bouncy Hitter |
-| 1896 | 27 | Karolina Koolin |
-| 1897 | 27 | Jennifer Pfeiffer Johnson |
-| 1898 | 27 | Julie Foulks Porter |
-| 1899 | 27 | Antronita Kemp |
+| 1892 | 27 | Bouncy Hitter |
+| 1893 | 27 | Julie Foulks Porter |
+| 1894 | 27 | Jennifer Pfeiffer Johnson |
+| 1895 | 27 | LaLa Short |
+| 1896 | 27 | Michelle Sweeney |
+| 1897 | 27 | Edward Krohn |
+| 1898 | 27 | Antronita Kemp |
+| 1899 | 27 | Karolina Koolin |
 | 1900 | 27 | ASUNelson |
-| 1901 | 27 | BlueCupCakes |
-| 1902 | 27 | drc81 |
-| 1903 | 27 | Michelle Sweeney |
-| 1904 | 26 | Julio León |
+| 1901 | 27 | Bold Builderpiece |
+| 1902 | 27 | BlueCupCakes |
+| 1903 | 27 | drc81 |
+| 1904 | 26 | Felicia Daniels |
 | 1905 | 26 | TaZz |
-| 1906 | 26 | OreoBlu |
-| 1907 | 26 | Vader67 |
-| 1908 | 26 | Felicia Daniels |
-| 1909 | 26 | Korn Starch |
+| 1906 | 26 | Cristina Amaya |
+| 1907 | 26 | Julio León |
+| 1908 | 26 | OreoBlu |
+| 1909 | 26 | Vader67 |
 | 1910 | 26 | Naomi Olson Hartman |
-| 1911 | 26 | Hotblockboi954 |
-| 1912 | 26 | Carolyn Figueroa |
-| 1913 | 26 | Cool Cascadefit |
-| 1914 | 26 | Yoyoyo |
-| 1915 | 26 | Kassie Wakefield |
-| 1916 | 26 | Courtney Lynn Hagaman |
-| 1917 | 25 | Neke Lyles |
+| 1911 | 26 | Korn Starch |
+| 1912 | 26 | Hotblockboi954 |
+| 1913 | 26 | Courtney Lynn Hagaman |
+| 1914 | 26 | Kassie Wakefield |
+| 1915 | 26 | Yoyoyo |
+| 1916 | 26 | Carolyn Figueroa |
+| 1917 | 26 | Cool Cascadefit |
 | 1918 | 25 | Alainmino |
-| 1919 | 25 | Yaitza Cotto |
-| 1920 | 25 | Hyper Snapper |
+| 1919 | 25 | Nutty Tile |
+| 1920 | 25 | Scoots Mcgee |
 | 1921 | 25 | Gracey Lou |
-| 1922 | 25 | Pierre Kelly |
-| 1923 | 25 | Sarah Lee |
-| 1924 | 25 | Nutty Tile |
-| 1925 | 25 | Scoots Mcgee |
-| 1926 | 25 | Agápē Seb |
-| 1927 | 25 | Clever Link |
+| 1922 | 25 | Hyper Snapper |
+| 1923 | 25 | Pierre Kelly |
+| 1924 | 25 | Yaitza Cotto |
+| 1925 | 25 | Neke Lyles |
+| 1926 | 25 | Sarah Lee |
+| 1927 | 25 | Agápē Seb |
 | 1928 | 25 | Melissa Vecchio-Clautti |
-| 1929 | 24 | WD6DAL |
+| 1929 | 25 | Clever Link |
 | 1930 | 24 | Tee Widmer |
-| 1931 | 24 | Tzez |
-| 1932 | 24 | Soonerhudd |
-| 1933 | 24 | Jessica Wagnon |
-| 1934 | 24 | Jason Hutchens |
-| 1935 | 24 | TVD |
-| 1936 | 24 | Mandee |
-| 1937 | 24 | Nickel McCaskill |
-| 1938 | 24 | realCalius |
-| 1939 | 24 | Loony Clusterer |
-| 1940 | 24 | Cindy Hernandez |
-| 1941 | 24 | Joe Dardar |
-| 1942 | 24 | Dan Meyer |
-| 1943 | 23 | Amanda Mason Scott |
-| 1944 | 23 | Pat YaYa King |
-| 1945 | 23 | Leah Cleveland |
-| 1946 | 23 | Jeremy Mathley |
-| 1947 | 23 | Maricia Coleman |
+| 1931 | 24 | Jessica Wagnon |
+| 1932 | 24 | Jason Hutchens |
+| 1933 | 24 | TVD |
+| 1934 | 24 | WD6DAL |
+| 1935 | 24 | Mandee |
+| 1936 | 24 | Nickel McCaskill |
+| 1937 | 24 | Joe Dardar |
+| 1938 | 24 | Loony Clusterer |
+| 1939 | 24 | Soonerhudd |
+| 1940 | 24 | Dan Meyer |
+| 1941 | 24 | Cindy Hernandez |
+| 1942 | 24 | realCalius |
+| 1943 | 24 | Tzez |
+| 1944 | 23 | Maricia Coleman |
+| 1945 | 23 | Jeremy Mathley |
+| 1946 | 23 | TOXIC0105 |
+| 1947 | 23 | Carzell Kincuzz Hunter |
 | 1948 | 23 | Shneef shnoggin |
-| 1949 | 23 | Carzell Kincuzz Hunter |
+| 1949 | 23 | Amanda Mason Scott |
 | 1950 | 23 | Felicitas Garcia |
-| 1951 | 23 | TOXIC0105 |
+| 1951 | 23 | Leah Cleveland |
 | 1952 | 23 | Julie Lynn |
-| 1953 | 22 | Shy Ryan |
+| 1953 | 23 | Pat YaYa King |
 | 1954 | 22 | Loopy Striker |
-| 1955 | 22 | Robert R Herrera |
-| 1956 | 22 | Christina Harrell |
-| 1957 | 22 | Dreamy Twister |
-| 1958 | 22 | Lofty Lue |
-| 1959 | 22 | Shonda Hall-Broussard |
-| 1960 | 22 | Mary Ann Denmark |
-| 1961 | 22 | jacob |
-| 1962 | 22 | Robert Kicklighter Jr. |
-| 1963 | 22 | Francesca Teixeira |
-| 1964 | 22 | Amy Rosen |
-| 1965 | 22 | Michael Byers |
-| 1966 | 22 | Slinky Fitclear |
-| 1967 | 22 | Cristina Amaya |
-| 1968 | 21 | Sweetblast |
+| 1955 | 22 | Shy Ryan |
+| 1956 | 22 | Robert R Herrera |
+| 1957 | 22 | Robert Kicklighter Jr. |
+| 1958 | 22 | Francesca Teixeira |
+| 1959 | 22 | Amy Rosen |
+| 1960 | 22 | Michael Byers |
+| 1961 | 22 | Slinky Fitclear |
+| 1962 | 22 | jacob |
+| 1963 | 22 | Mary Ann Denmark |
+| 1964 | 22 | Shonda Hall-Broussard |
+| 1965 | 22 | Dreamy Twister |
+| 1966 | 22 | Christina Harrell |
+| 1967 | 22 | Lofty Lue |
+| 1968 | 21 | Rochelle Lowden |
 | 1969 | 21 | Witty Snapper |
-| 1970 | 21 | Chill Gridmatch |
-| 1971 | 21 | Mat Ecker |
-| 1972 | 21 | Brandon Fowler |
-| 1973 | 21 | Chasinglight |
-| 1974 | 21 | Nicolette Mercado |
-| 1975 | 21 | Rochelle Lowden |
-| 1976 | 21 | Zappy Brick |
-| 1977 | 21 | Khalil |
-| 1978 | 20 | Sally Orvis |
-| 1979 | 20 | Blandy Salerno |
-| 1980 | 20 | Annette Warnke |
-| 1981 | 20 | Brian Madden |
-| 1982 | 20 | KID |
-| 1983 | 20 | Jen Clemmer |
-| 1984 | 20 | Dale Lindsey |
-| 1985 | 20 | Liz Turner |
-| 1986 | 20 | Dre Dre |
-| 1987 | 20 | Ctrl |
-| 1988 | 20 | Samantha Hamilton |
-| 1989 | 20 | Fyh |
-| 1990 | 20 | Malisa Brookins |
-| 1991 | 20 | Lush Cascadeclear |
-| 1992 | 20 | Charli Vinson |
-| 1993 | 20 | Reba Gray |
-| 1994 | 20 | Demitrius Davis |
-| 1995 | 20 | Diddyblud |
-| 1996 | 20 | Leigh Kenyon |
-| 1997 | 19 | Weather Garcia |
-| 1998 | 19 | T-Spinna |
-| 1999 | 19 | Frilly Rollfit |
-| 2000 | 19 | Finn |
-| 2001 | 19 | Bawse Dealz |
-| 2002 | 19 | Pooh |
-| 2003 | 19 | Dreamy Shuffler |
+| 1970 | 21 | Nicolette Mercado |
+| 1971 | 21 | Chill Gridmatch |
+| 1972 | 21 | Zappy Brick |
+| 1973 | 21 | Sweetblast |
+| 1974 | 21 | Mat Ecker |
+| 1975 | 21 | Brandon Fowler |
+| 1976 | 21 | Khalil |
+| 1977 | 21 | Chasinglight |
+| 1978 | 20 | Jen Clemmer |
+| 1979 | 20 | Dale Lindsey |
+| 1980 | 20 | Sally Orvis |
+| 1981 | 20 | Liz Turner |
+| 1982 | 20 | Dre Dre |
+| 1983 | 20 | KID |
+| 1984 | 20 | Annette Warnke |
+| 1985 | 20 | Blandy Salerno |
+| 1986 | 20 | Malisa Brookins |
+| 1987 | 20 | Samantha Hamilton |
+| 1988 | 20 | Ctrl |
+| 1989 | 20 | Lush Cascadeclear |
+| 1990 | 20 | Charli Vinson |
+| 1991 | 20 | Leigh Kenyon |
+| 1992 | 20 | Diddyblud |
+| 1993 | 20 | Fyh |
+| 1994 | 20 | Brian Madden |
+| 1995 | 20 | Reba Gray |
+| 1996 | 20 | Demitrius Davis |
+| 1997 | 19 | ADORABLE Ryan |
+| 1998 | 19 | Bienlis Paulino |
+| 1999 | 19 | T-Spinna |
+| 2000 | 19 | Pooh |
+| 2001 | 19 | Frilly Rollfit |
+| 2002 | 19 | Dreamy Shuffler |
+| 2003 | 19 | Victoria Teasley |
 | 2004 | 19 | Justin Petty |
-| 2005 | 19 | Justin Decker |
-| 2006 | 19 | Victoria Teasley |
-| 2007 | 19 | ADORABLE Ryan |
-| 2008 | 19 | Bienlis Paulino |
+| 2005 | 19 | Bawse Dealz |
+| 2006 | 19 | Weather Garcia |
+| 2007 | 19 | Chirpy Twistpiece |
+| 2008 | 19 | Justin Decker |
 | 2009 | 19 | Jim Joplin |
-| 2010 | 19 | Chirpy Twistpiece |
-| 2011 | 18 | Roslyn Fitzgerald |
+| 2010 | 19 | Finn |
+| 2011 | 18 | Degenerate |
 | 2012 | 18 | Vilma N Puruco Rodriguez |
-| 2013 | 18 | Degenerate |
+| 2013 | 18 | Roslyn Fitzgerald |
 | 2014 | 18 | Tonya Beverly |
 | 2015 | 18 | Sylvia Fox |
 | 2016 | 18 | Michaele Wagner |
