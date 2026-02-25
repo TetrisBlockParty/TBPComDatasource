@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-25 09:06:43 UTC
+# Standings for team3 as of 2026-02-25 09:07:23 UTC
 
 **Total Participants:** 3667
 
@@ -65,18 +65,18 @@
 | 57 | 2277 | Tina Kay |
 | 58 | 2216 | Shari Garber |
 | 59 | 2186 | Rachel Bowers |
-| 60 | 2148 | Ashley Kiara |
-| 61 | 2148 | Denise Nardoni |
+| 60 | 2148 | Denise Nardoni |
+| 61 | 2148 | Ashley Kiara |
 | 62 | 2146 | yoyo |
 | 63 | 2104 | Cheeky Rumbler |
 | 64 | 2049 | Kristie |
 | 65 | 2039 | Jd Morris |
 | 66 | 2027 | Calista Jo Dickson |
-| 67 | 2020 | Corie A. Brinson |
-| 68 | 1992 | Shandrea Crawford |
-| 69 | 1961 | Mahman |
-| 70 | 1943 | Whitney Manuel |
-| 71 | 1936 | ren |
+| 67 | 2026 | ren |
+| 68 | 2020 | Corie A. Brinson |
+| 69 | 1992 | Shandrea Crawford |
+| 70 | 1961 | Mahman |
+| 71 | 1943 | Whitney Manuel |
 | 72 | 1907 | Kristie McFarland |
 | 73 | 1902 | Nora Rogers |
 | 74 | 1900 | Jessica Ann |
@@ -714,12 +714,12 @@
 | 706 | 332 | Chyrl Gerke |
 | 707 | 331 | Flashy Rumbler |
 | 708 | 331 | Elizabeth Renee |
-| 709 | 331 | Myoshia Norwood |
-| 710 | 331 | Danette Marie |
-| 711 | 329 | Cameron Lovell |
-| 712 | 329 | TI Na |
-| 713 | 328 | Desiree Soto |
-| 714 | 328 | Roger Taylor |
+| 709 | 331 | Roger Taylor |
+| 710 | 331 | Myoshia Norwood |
+| 711 | 331 | Danette Marie |
+| 712 | 329 | Cameron Lovell |
+| 713 | 329 | TI Na |
+| 714 | 328 | Desiree Soto |
 | 715 | 328 | Jennifer Palermo |
 | 716 | 328 | Marie Vanbrocklin |
 | 717 | 328 | Jack Bo |
