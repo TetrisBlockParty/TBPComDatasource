@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 09:18:45 UTC
+# Standings for team1 as of 2026-02-25 09:19:23 UTC
 
 **Total Participants:** 2448
 
@@ -185,9 +185,9 @@
 | 177 | 636 | Eric DeSimone |
 | 178 | 633 | ALFD |
 | 179 | 629 | Chase Collinsworth |
-| 180 | 623 | Jessie Welch |
-| 181 | 623 | Jessi Sauer |
-| 182 | 622 | Νεφ Όνυξ |
+| 180 | 625 | Νεφ Όνυξ |
+| 181 | 623 | Jessie Welch |
+| 182 | 623 | Jessi Sauer |
 | 183 | 616 | Sleepysloath5745 |
 | 184 | 615 | Timothy Danaher |
 | 185 | 615 | BadG52 |
