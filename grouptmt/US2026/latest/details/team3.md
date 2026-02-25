@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-25 17:04:44 UTC
+# Standings for team3 as of 2026-02-25 17:05:23 UTC
 
 **Total Participants:** 3732
 
@@ -8,8 +8,8 @@
 | :- | :- | :- |
 | 1 | 21482 | Donna Wilkinson |
 | 2 | 18493 | Edita Reed |
-| 3 | 15535 | Corey Lewis |
-| 4 | 14535 | Amy Dial Brown |
+| 3 | 15635 | Corey Lewis |
+| 4 | 14549 | Amy Dial Brown |
 | 5 | 10197 | Jackie's Soblessed |
 | 6 | 9399 | Ange Ptaszynski |
 | 7 | 8671 | Beverly Young |
@@ -66,10 +66,10 @@
 | 58 | 2296 | Tina Kay |
 | 59 | 2277 | Shari Garber |
 | 60 | 2240 | Rachel Bowers |
-| 61 | 2148 | Ashley Kiara |
-| 62 | 2148 | Denise Nardoni |
-| 63 | 2146 | yoyo |
-| 64 | 2119 | Shandrea Crawford |
+| 61 | 2169 | Shandrea Crawford |
+| 62 | 2148 | Ashley Kiara |
+| 63 | 2148 | Denise Nardoni |
+| 64 | 2146 | yoyo |
 | 65 | 2106 | Calista Jo Dickson |
 | 66 | 2104 | Cheeky Rumbler |
 | 67 | 2088 | Kristie |
@@ -176,7 +176,7 @@
 | 168 | 1074 | LaTanya GeminiondaRise Johnson |
 | 169 | 1072 | Danielle Becker |
 | 170 | 1072 | Speedy Bridger |
-| 171 | 1066 | Cyd061769 |
+| 171 | 1070 | Cyd061769 |
 | 172 | 1063 | Giddy Drop |
 | 173 | 1056 | Edwin Calvillo Jr. |
 | 174 | 1053 | Dana Winters |
@@ -245,8 +245,8 @@
 | 237 | 849 | Samantha Greco |
 | 238 | 844 | Michael Nowogorski |
 | 239 | 842 | Jeni Dow |
-| 240 | 836 | Rebel124 |
-| 241 | 835 | Eileen Brady Thurber |
+| 240 | 840 | Eileen Brady Thurber |
+| 241 | 836 | Rebel124 |
 | 242 | 835 | Connie Mohler-Fair |
 | 243 | 830 | Wendy Dearden |
 | 244 | 824 | Stephanie Bradley |
@@ -490,18 +490,18 @@
 | 482 | 459 | Mindy Phelps |
 | 483 | 457 | Danetta McCadden |
 | 484 | 455 | PrincessSquare |
-| 485 | 455 | Willow |
-| 486 | 455 | Snippy Brickster |
-| 487 | 454 | Beezwax |
-| 488 | 454 | Danette Marie |
+| 485 | 455 | Danette Marie |
+| 486 | 455 | Willow |
+| 487 | 455 | Snippy Brickster |
+| 488 | 454 | Beezwax |
 | 489 | 453 | Alexi Pryor |
 | 490 | 453 | Scott Doss |
 | 491 | 451 | Rich LeBlanc |
 | 492 | 451 | Jana Polk |
 | 493 | 451 | Moniecia Harrison |
-| 494 | 451 | Dakota Graham |
+| 494 | 451 | Tiffany S. Cermak |
 | 495 | 451 | Hyper Twisterfit |
-| 496 | 451 | Tiffany S. Cermak |
+| 496 | 451 | Dakota Graham |
 | 497 | 450 | Sissy Lowery Davis |
 | 498 | 449 | Michelle Abrams |
 | 499 | 449 | Mel Murr |
@@ -981,8 +981,8 @@
 | 973 | 270 | Kayla Marie |
 | 974 | 270 | Cary M. Fong |
 | 975 | 270 | blast |
-| 976 | 270 | Yall Sukk |
-| 977 | 269 | Tricia Margaret |
+| 976 | 270 | Tricia Margaret |
+| 977 | 270 | Yall Sukk |
 | 978 | 269 | Jesseca Hunsinger |
 | 979 | 269 | Weerae |
 | 980 | 269 | Tiffanie Geren |
@@ -1029,12 +1029,12 @@
 | 1021 | 258 | Amber Reeves-Buchanan |
 | 1022 | 257 | Elena Sanchez Damian |
 | 1023 | 257 | Nichole Greene |
-| 1024 | 256 | Melanie Sherwood |
-| 1025 | 256 | Jared Craddox |
-| 1026 | 256 | get et |
-| 1027 | 256 | Kelly Koenig |
-| 1028 | 256 | Bethany Baughman |
-| 1029 | 256 | Spunky Racker |
+| 1024 | 257 | Bethany Baughman |
+| 1025 | 256 | Spunky Racker |
+| 1026 | 256 | Melanie Sherwood |
+| 1027 | 256 | Jared Craddox |
+| 1028 | 256 | get et |
+| 1029 | 256 | Kelly Koenig |
 | 1030 | 254 | Anthony Lewis |
 | 1031 | 254 | Anastacia Rendek |
 | 1032 | 254 | Giddy Basepiece |
@@ -1265,28 +1265,28 @@
 | 1257 | 206 | Slinky Blocker |
 | 1258 | 206 | Gina Bunch |
 | 1259 | 205 | Eliza Rivera |
-| 1260 | 205 | AngieMuffin Wap |
-| 1261 | 205 | Nannie Hoopz |
-| 1262 | 205 | Bouncy Blockbuilder |
-| 1263 | 205 | Sara Bell |
-| 1264 | 205 | Denise Michelle Morningstar |
-| 1265 | 205 | Chilly Wipegrid |
-| 1266 | 205 | MariahG |
-| 1267 | 204 | Shae |
-| 1268 | 204 | Paula Urlacher |
-| 1269 | 204 | Rosey Posey |
-| 1270 | 204 | Nitty Gritty |
-| 1271 | 204 | MD |
-| 1272 | 204 | Cassie Marion |
-| 1273 | 203 | Frisky Gridmatch |
-| 1274 | 203 | Justplain Killacam Phillips |
-| 1275 | 203 | Amy J Lizbeth |
-| 1276 | 203 | Jackie-Lynne Goertzen |
-| 1277 | 203 | Brave Builderline |
-| 1278 | 203 | Jasmine Nicole |
-| 1279 | 203 | NIQUE42 |
-| 1280 | 203 | Octavia Parker Ford |
-| 1281 | 203 | Duane Miller |
+| 1260 | 205 | Duane Miller |
+| 1261 | 205 | AngieMuffin Wap |
+| 1262 | 205 | Nannie Hoopz |
+| 1263 | 205 | Bouncy Blockbuilder |
+| 1264 | 205 | Sara Bell |
+| 1265 | 205 | Denise Michelle Morningstar |
+| 1266 | 205 | Chilly Wipegrid |
+| 1267 | 205 | MariahG |
+| 1268 | 204 | Shae |
+| 1269 | 204 | Paula Urlacher |
+| 1270 | 204 | Rosey Posey |
+| 1271 | 204 | Nitty Gritty |
+| 1272 | 204 | MD |
+| 1273 | 204 | Cassie Marion |
+| 1274 | 203 | Frisky Gridmatch |
+| 1275 | 203 | Justplain Killacam Phillips |
+| 1276 | 203 | Amy J Lizbeth |
+| 1277 | 203 | Jackie-Lynne Goertzen |
+| 1278 | 203 | Brave Builderline |
+| 1279 | 203 | Jasmine Nicole |
+| 1280 | 203 | NIQUE42 |
+| 1281 | 203 | Octavia Parker Ford |
 | 1282 | 203 | Lush Balance |
 | 1283 | 203 | Autumn Lenhart |
 | 1284 | 202 | Victoria Neiderman |
