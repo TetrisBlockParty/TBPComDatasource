@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 23:08:44 UTC
+# Standings for team4 as of 2026-02-25 23:09:23 UTC
 
 **Total Participants:** 2276
 
@@ -121,7 +121,7 @@
 | 113 | 923 | Carmethia Clemons Haslerig |
 | 114 | 922 | Trista Leah |
 | 115 | 919 | D3TROITB0RN74 |
-| 116 | 904 | Lucille Truesdale |
+| 116 | 910 | Lucille Truesdale |
 | 117 | 900 | Angela Srubar-Norman |
 | 118 | 900 | Sassy Pattern |
 | 119 | 896 | Nikki Rae Gordon |
@@ -443,18 +443,18 @@
 | 435 | 361 | giantslover514 |
 | 436 | 361 | ThriftySpice |
 | 437 | 361 | ImJustMe |
-| 438 | 360 | Carter Jones |
-| 439 | 360 | Shainne Brewer |
-| 440 | 360 | Laura McPheeters |
-| 441 | 359 | Lazy Glidepiece |
-| 442 | 359 | Allen Lloyd |
-| 443 | 359 | Happy Combo |
-| 444 | 358 | Ron |
-| 445 | 356 | Lane Wasson |
-| 446 | 356 | Sallie Sanborn |
-| 447 | 356 | Paige Kittles |
-| 448 | 355 | Krash |
-| 449 | 355 | Brittany Marsh |
+| 438 | 361 | Brittany Marsh |
+| 439 | 360 | Carter Jones |
+| 440 | 360 | Shainne Brewer |
+| 441 | 360 | Laura McPheeters |
+| 442 | 359 | Lazy Glidepiece |
+| 443 | 359 | Allen Lloyd |
+| 444 | 359 | Happy Combo |
+| 445 | 358 | Ron |
+| 446 | 356 | Lane Wasson |
+| 447 | 356 | Sallie Sanborn |
+| 448 | 356 | Paige Kittles |
+| 449 | 355 | Krash |
 | 450 | 353 | Penny Dean |
 | 451 | 352 | Reds Bella |
 | 452 | 352 | Richard |
@@ -622,36 +622,36 @@
 | 614 | 268 | Marcheta Cervantez |
 | 615 | 268 | The Murphy |
 | 616 | 268 | Riverdale |
-| 617 | 268 | Dandy Cascadefit |
-| 618 | 268 | Victoria Faniel |
+| 617 | 268 | Victoria Faniel |
+| 618 | 268 | Dandy Cascadefit |
 | 619 | 267 | Hanh Pham |
 | 620 | 266 | Frilly Blocky |
 | 621 | 265 | Robert Rodriguez |
 | 622 | 265 | Becky Shimko |
-| 623 | 264 | Vamp |
-| 624 | 264 | Matt Rawls |
+| 623 | 264 | Matt Rawls |
+| 624 | 264 | Vamp |
 | 625 | 263 | Wacky Blockclear |
 | 626 | 263 | Autum Leigh |
 | 627 | 263 | Denise Jones |
-| 628 | 262 | Mark Willman |
-| 629 | 262 | Christina Nabrizny |
-| 630 | 261 | Eric Wren |
-| 631 | 261 | conceptCollector |
-| 632 | 261 | Jennifer Dineen |
-| 633 | 260 | Frank Joseph Epson |
+| 628 | 263 | Josh Chapell |
+| 629 | 262 | Mark Willman |
+| 630 | 262 | Christina Nabrizny |
+| 631 | 261 | Jennifer Dineen |
+| 632 | 261 | Eric Wren |
+| 633 | 261 | conceptCollector |
 | 634 | 260 | Daniel Gazcon |
-| 635 | 259 | Brandon Link |
-| 636 | 258 | Michelle McCutcheon |
+| 635 | 260 | Frank Joseph Epson |
+| 636 | 259 | Brandon Link |
 | 637 | 258 | Dante Korleon |
 | 638 | 258 | Marcela Johnson |
-| 639 | 257 | Maria Larsen |
-| 640 | 257 | Brad Campbell |
+| 639 | 258 | Michelle McCutcheon |
+| 640 | 257 | Maria Larsen |
 | 641 | 257 | Jennifer Marsella |
 | 642 | 257 | Shon Woodland |
-| 643 | 257 | Red |
-| 644 | 257 | 2slo |
-| 645 | 256 | Lonnie Brown |
-| 646 | 256 | Josh Chapell |
+| 643 | 257 | Brad Campbell |
+| 644 | 257 | Red |
+| 645 | 257 | 2slo |
+| 646 | 256 | Lonnie Brown |
 | 647 | 255 | Lynn Marie |
 | 648 | 254 | Boldy Linkpiece |
 | 649 | 254 | Groovy Brickmatch |
@@ -767,18 +767,18 @@
 | 759 | 211 | Flashy Blockpiece |
 | 760 | 211 | MOCHA |
 | 761 | 211 | Heather Layne Smith |
-| 762 | 211 | Dickie Rice |
-| 763 | 210 | Heather Stratos |
-| 764 | 210 | Peppy Strike |
-| 765 | 210 | Beenbreto |
+| 762 | 211 | Renee Marshall |
+| 763 | 211 | Dickie Rice |
+| 764 | 210 | Heather Stratos |
+| 765 | 210 | Peppy Strike |
 | 766 | 210 | Bubbly Setter |
 | 767 | 210 | Wacky Twister |
-| 768 | 209 | Renee Marshall |
-| 769 | 209 | Ahleek Mitchell |
-| 770 | 209 | Calvin Dennis |
-| 771 | 209 | Matthew Rodriguez |
-| 772 | 209 | Cheery Gridlock |
-| 773 | 209 | Kametsunoyaiba |
+| 768 | 210 | Beenbreto |
+| 769 | 209 | Calvin Dennis |
+| 770 | 209 | Matthew Rodriguez |
+| 771 | 209 | Cheery Gridlock |
+| 772 | 209 | Kametsunoyaiba |
+| 773 | 209 | Ahleek Mitchell |
 | 774 | 208 | Cooldamalley |
 | 775 | 208 | Loopy Rollbuilder |
 | 776 | 207 | Blue |
@@ -1367,57 +1367,57 @@
 | 1359 | 82 | Wacky Fitzone |
 | 1360 | 82 | MazieMae |
 | 1361 | 82 | Jeannie Lee |
-| 1362 | 81 | Jay-Remy Stringseer |
-| 1363 | 81 | Joan Du |
+| 1362 | 81 | Maya Jane |
+| 1363 | 81 | Jay-Remy Stringseer |
 | 1364 | 81 | Nerdy Clicker |
 | 1365 | 81 | Natasha Lee |
 | 1366 | 81 | unrewound |
-| 1367 | 81 | Maya Jane |
-| 1368 | 80 | Arthur Reeves Jr. |
-| 1369 | 80 | Jr McQue |
-| 1370 | 80 | Crissygirl |
-| 1371 | 80 | Frothy Shatter |
-| 1372 | 80 | Jennifer Harrison |
-| 1373 | 80 | Devin Crawford |
-| 1374 | 79 | Beth Ann |
-| 1375 | 79 | Jason M Cadreau |
-| 1376 | 79 | Cassie Haydis |
-| 1377 | 79 | Anthony Caldwell |
-| 1378 | 79 | Theron Bailey |
-| 1379 | 79 | Ayanna James |
-| 1380 | 78 | Bold Matcher |
-| 1381 | 78 | Beauty77 |
-| 1382 | 78 | DaReal007EJW |
-| 1383 | 78 | Cranky Patterner |
+| 1367 | 81 | Joan Du |
+| 1368 | 80 | Jennifer Harrison |
+| 1369 | 80 | Crissygirl |
+| 1370 | 80 | Frothy Shatter |
+| 1371 | 80 | Devin Crawford |
+| 1372 | 80 | Jr McQue |
+| 1373 | 80 | Arthur Reeves Jr. |
+| 1374 | 79 | Jason M Cadreau |
+| 1375 | 79 | Cassie Haydis |
+| 1376 | 79 | Beth Ann |
+| 1377 | 79 | Ayanna James |
+| 1378 | 79 | Andrew Easley |
+| 1379 | 79 | Theron Bailey |
+| 1380 | 79 | Anthony Caldwell |
+| 1381 | 78 | Peppy Twistslam |
+| 1382 | 78 | Beauty77 |
+| 1383 | 78 | Bold Matcher |
 | 1384 | 78 | StarChild |
-| 1385 | 78 | Peppy Twistslam |
-| 1386 | 77 | Kris Brisco |
-| 1387 | 77 | Lab2dablock |
-| 1388 | 77 | Coflowers |
-| 1389 | 77 | Nicholas Felton |
-| 1390 | 77 | Willow Rose |
-| 1391 | 77 | Holly Stewart |
-| 1392 | 77 | Jen |
-| 1393 | 77 | Derwin Dewayne Mosby |
-| 1394 | 76 | Heather Hilferty |
-| 1395 | 76 | Jeremy Jaubert |
-| 1396 | 76 | Maly Harmen |
+| 1385 | 78 | Cranky Patterner |
+| 1386 | 78 | DaReal007EJW |
+| 1387 | 77 | Kris Brisco |
+| 1388 | 77 | Lab2dablock |
+| 1389 | 77 | Coflowers |
+| 1390 | 77 | Nicholas Felton |
+| 1391 | 77 | Willow Rose |
+| 1392 | 77 | Derwin Dewayne Mosby |
+| 1393 | 77 | Holly Stewart |
+| 1394 | 77 | Jen |
+| 1395 | 76 | Jayne Derocher |
+| 1396 | 76 | Heather Hilferty |
 | 1397 | 76 | Saucy Brickfit |
-| 1398 | 76 | Jayne Derocher |
-| 1399 | 76 | Dalek’sMercy |
+| 1398 | 76 | Maly Harmen |
+| 1399 | 76 | Jeremy Jaubert |
 | 1400 | 76 | Chrystal Eppard |
 | 1401 | 76 | Jazzy Climber |
 | 1402 | 76 | George Thomson Jr. |
 | 1403 | 76 | Karlina Brown |
-| 1404 | 75 | Miriam Ruiz |
-| 1405 | 75 | Dena Shoop |
-| 1406 | 75 | Tanya M Hogue |
+| 1404 | 76 | Dalek’sMercy |
+| 1405 | 75 | Miriam Ruiz |
+| 1406 | 75 | Dena Shoop |
 | 1407 | 75 | Sunny68 |
-| 1408 | 74 | Dragon De Fuego |
-| 1409 | 74 | McKayla Snell |
-| 1410 | 74 | Andrew Easley |
-| 1411 | 74 | Kevin L Cafleux |
-| 1412 | 74 | Stef Verisotosky |
+| 1408 | 75 | Tanya M Hogue |
+| 1409 | 74 | Dragon De Fuego |
+| 1410 | 74 | McKayla Snell |
+| 1411 | 74 | Stef Verisotosky |
+| 1412 | 74 | Kevin L Cafleux |
 | 1413 | 74 | Peachy Pusher |
 | 1414 | 74 | ShadowWanderrr |
 | 1415 | 74 | Jocelyn L. Williams |
