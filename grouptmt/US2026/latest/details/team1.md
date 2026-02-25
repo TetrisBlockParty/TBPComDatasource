@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 13:52:44 UTC
+# Standings for team1 as of 2026-02-25 13:53:23 UTC
 
 **Total Participants:** 2471
 
@@ -103,13 +103,13 @@
 | 95 | 1065 | Francesca Gee |
 | 96 | 1047 | Zippy Align |
 | 97 | 1032 | Kathi Snustad |
-| 98 | 1004 | Bindi |
-| 99 | 1004 | Chris K |
-| 100 | 999 | comrade fish |
-| 101 | 998 | Desiree Deschaine Havee |
-| 102 | 995 | Chuck Gannon |
-| 103 | 986 | Jennifer ManWarren |
-| 104 | 986 | Ash Galvan |
+| 98 | 1025 | Ash Galvan |
+| 99 | 1004 | Bindi |
+| 100 | 1004 | Chris K |
+| 101 | 999 | comrade fish |
+| 102 | 998 | Desiree Deschaine Havee |
+| 103 | 995 | Chuck Gannon |
+| 104 | 986 | Jennifer ManWarren |
 | 105 | 979 | Mario Cab |
 | 106 | 976 | Madison Wicks |
 | 107 | 975 | Giddy Cascade |
@@ -136,7 +136,7 @@
 | 128 | 873 | Kimberly Garcia |
 | 129 | 865 | Elaine Elaine |
 | 130 | 848 | Tdub |
-| 131 | 840 | Happy Basegrid |
+| 131 | 842 | Happy Basegrid |
 | 132 | 833 | Bob |
 | 133 | 825 | Denice Dee |
 | 134 | 824 | Melissa Lemmon |
@@ -192,12 +192,12 @@
 | 184 | 637 | Jennifer Hardman |
 | 185 | 633 | ALFD |
 | 186 | 632 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 187 | 626 | Loony Fitzone |
-| 188 | 623 | Jessi Sauer |
-| 189 | 623 | Jessie Welch |
-| 190 | 620 | Deanna L Hermanson |
-| 191 | 618 | BadG52 |
-| 192 | 616 | Sleepysloath5745 |
+| 187 | 631 | Sleepysloath5745 |
+| 188 | 626 | Loony Fitzone |
+| 189 | 623 | Jessi Sauer |
+| 190 | 623 | Jessie Welch |
+| 191 | 620 | Deanna L Hermanson |
+| 192 | 618 | BadG52 |
 | 193 | 611 | Jumpy Dropper |
 | 194 | 606 | Brandi Huntington |
 | 195 | 604 | Michelle Beres |
