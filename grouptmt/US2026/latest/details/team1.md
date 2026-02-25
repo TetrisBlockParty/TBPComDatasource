@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 01:20:43 UTC
+# Standings for team1 as of 2026-02-25 01:21:22 UTC
 
 **Total Participants:** 2362
 
@@ -161,8 +161,8 @@
 | 153 | 655 | Tiger Lily |
 | 154 | 654 | femmefatale |
 | 155 | 654 | Ty Brown |
-| 156 | 652 | Evie Khalil |
-| 157 | 649 | Theo Pinnow |
+| 156 | 653 | Theo Pinnow |
+| 157 | 652 | Evie Khalil |
 | 158 | 647 | Damon J. Martin |
 | 159 | 644 | Flashy Rotator |
 | 160 | 644 | Ly Phethmany |
@@ -266,10 +266,10 @@
 | 258 | 457 | Jamie Jury |
 | 259 | 453 | Kimmie Kimms |
 | 260 | 453 | Chantelle Ceno |
-| 261 | 452 | Jo Kerley |
-| 262 | 451 | Jen Nystrom |
-| 263 | 450 | Jamise Brown |
-| 264 | 449 | DoodleBug |
+| 261 | 452 | DoodleBug |
+| 262 | 452 | Jo Kerley |
+| 263 | 451 | Jen Nystrom |
+| 264 | 450 | Jamise Brown |
 | 265 | 449 | pjbeta |
 | 266 | 447 | Wayne Saunders |
 | 267 | 447 | Chris Sigurdson |
@@ -305,20 +305,20 @@
 | 297 | 423 | Shanae Grant |
 | 298 | 422 | Speedy Snapfall |
 | 299 | 420 | GringaLinga |
-| 300 | 420 | Dizzy Party |
-| 301 | 420 | Sarahdactyl |
-| 302 | 419 | Barrbaric |
-| 303 | 417 | poopypants |
-| 304 | 416 | Larissa Marie Nelson |
-| 305 | 416 | Amanda Holibaugh |
-| 306 | 414 | Bird Person |
-| 307 | 414 | Sassy Builderline |
-| 308 | 413 | Madbull |
-| 309 | 412 | Test |
+| 300 | 420 | Test |
+| 301 | 420 | Dizzy Party |
+| 302 | 420 | Sarahdactyl |
+| 303 | 419 | Barrbaric |
+| 304 | 417 | poopypants |
+| 305 | 416 | Larissa Marie Nelson |
+| 306 | 416 | Amanda Holibaugh |
+| 307 | 414 | Bird Person |
+| 308 | 414 | Sassy Builderline |
+| 309 | 413 | Madbull |
 | 310 | 412 | Brian Richardsson |
 | 311 | 411 | Gracie |
-| 312 | 410 | Al Smith Jr |
-| 313 | 410 | Keith Mathis |
+| 312 | 410 | Keith Mathis |
+| 313 | 410 | Al Smith Jr |
 | 314 | 408 | Sweetts |
 | 315 | 407 | Cody Gates |
 | 316 | 406 | Snappy Brickbuilder |
@@ -621,11 +621,11 @@
 | 613 | 239 | Bucketsmasher |
 | 614 | 238 | Ashley Rodriguez |
 | 615 | 238 | Lush Zoney |
-| 616 | 237 | Lark |
-| 617 | 237 | Amber Dollak-Smith |
-| 618 | 236 | Dizzy Rackham |
-| 619 | 236 | Ruf Lowman |
-| 620 | 236 | Sam Rosado |
+| 616 | 237 | Sam Rosado |
+| 617 | 237 | Lark |
+| 618 | 237 | Amber Dollak-Smith |
+| 619 | 236 | Dizzy Rackham |
+| 620 | 236 | Ruf Lowman |
 | 621 | 236 | Playtray |
 | 622 | 236 | Slinky Tile |
 | 623 | 235 | Kellie Tunstall |
@@ -1407,21 +1407,21 @@
 | 1399 | 73 | Grandmeemers22 |
 | 1400 | 73 | Wynn Cook |
 | 1401 | 73 | Bouncy Link |
-| 1402 | 72 | COBETRYCE |
-| 1403 | 72 | Randi Voight |
-| 1404 | 72 | Beverly S. Robinson |
-| 1405 | 72 | Hoppy Clearbuilder |
-| 1406 | 72 | Diana |
-| 1407 | 72 | Dwight Wade Stambaugh Jr. |
-| 1408 | 72 | Victoria Ann |
-| 1409 | 72 | GDerro |
-| 1410 | 71 | Bridgette |
-| 1411 | 71 | Brenda Schultz |
-| 1412 | 71 | Michael Willett |
-| 1413 | 71 | Frisky Setter |
-| 1414 | 71 | Andee Bo Bandee |
-| 1415 | 71 | Dylan BW |
-| 1416 | 71 | Tipsy Gridmatch |
+| 1402 | 72 | Randi Voight |
+| 1403 | 72 | Beverly S. Robinson |
+| 1404 | 72 | Hoppy Clearbuilder |
+| 1405 | 72 | Tipsy Gridmatch |
+| 1406 | 72 | COBETRYCE |
+| 1407 | 72 | Diana |
+| 1408 | 72 | Dwight Wade Stambaugh Jr. |
+| 1409 | 72 | Victoria Ann |
+| 1410 | 72 | GDerro |
+| 1411 | 71 | Bridgette |
+| 1412 | 71 | Brenda Schultz |
+| 1413 | 71 | Michael Willett |
+| 1414 | 71 | Frisky Setter |
+| 1415 | 71 | Andee Bo Bandee |
+| 1416 | 71 | Dylan BW |
 | 1417 | 71 | Tiffany Laura |
 | 1418 | 70 | Gerriann Jordan |
 | 1419 | 70 | Scott Cutter |
@@ -2003,16 +2003,16 @@
 | 1995 | 23 | Devlynndeeskyz |
 | 1996 | 23 | Michael Iagulli |
 | 1997 | 23 | Cassandra Ryan |
-| 1998 | 23 | Miguel Lara |
+| 1998 | 23 | yaha |
 | 1999 | 23 | Lesley Ann Mendoza |
-| 2000 | 22 | Zappy Brickzone |
-| 2001 | 22 | Karin Jean Boyer |
-| 2002 | 22 | Shabba22 |
-| 2003 | 22 | Sunny Wipepiece |
-| 2004 | 22 | QuadMomplusLonda07 |
-| 2005 | 22 | Tony Simmons |
-| 2006 | 22 | nic |
-| 2007 | 22 | yaha |
+| 2000 | 23 | Miguel Lara |
+| 2001 | 22 | Zappy Brickzone |
+| 2002 | 22 | Karin Jean Boyer |
+| 2003 | 22 | Shabba22 |
+| 2004 | 22 | Sunny Wipepiece |
+| 2005 | 22 | QuadMomplusLonda07 |
+| 2006 | 22 | Tony Simmons |
+| 2007 | 22 | nic |
 | 2008 | 22 | Junito Davis |
 | 2009 | 22 | Beatrice Williams |
 | 2010 | 22 | Dave84 |
