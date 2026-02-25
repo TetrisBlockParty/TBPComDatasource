@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 15:38:43 UTC
+# Standings for team4 as of 2026-02-25 15:39:22 UTC
 
 **Total Participants:** 2221
 
@@ -31,7 +31,7 @@
 | 23 | 2408 | Michelle Pearman |
 | 24 | 2344 | Jayna Anoc |
 | 25 | 2340 | Christina LR |
-| 26 | 2297 | Robin Getchel |
+| 26 | 2312 | Robin Getchel |
 | 27 | 2290 | Goatimus Lombardi |
 | 28 | 2168 | Landon Keith Graffeo |
 | 29 | 2156 | Cassie Michaux |
@@ -43,7 +43,7 @@
 | 35 | 1962 | Cool Buildout |
 | 36 | 1942 | Jae Job |
 | 37 | 1805 | Ash |
-| 38 | 1758 | Shane Kalamata Platoon |
+| 38 | 1762 | Shane Kalamata Platoon |
 | 39 | 1757 | Tammi Crnza |
 | 40 | 1736 | Isabella Blanco |
 | 41 | 1736 | Dee Kay |
@@ -320,10 +320,10 @@
 | 312 | 448 | Lee Silpe |
 | 313 | 447 | Twisty Cascadezone |
 | 314 | 447 | Zany Swipe |
-| 315 | 446 | Holly Jolly |
-| 316 | 446 | Ruby Khalisadar |
-| 317 | 445 | Blessedmama |
-| 318 | 445 | Twisty Risebuilder |
+| 315 | 447 | Twisty Risebuilder |
+| 316 | 446 | Holly Jolly |
+| 317 | 446 | Ruby Khalisadar |
+| 318 | 445 | Blessedmama |
 | 319 | 445 | Chaz |
 | 320 | 444 | ChasingZen |
 | 321 | 440 | Russ Attitude |
@@ -508,8 +508,8 @@
 | 500 | 310 | Balsam Joe |
 | 501 | 309 | Kevin Blevins |
 | 502 | 308 | GBR |
-| 503 | 308 | Bethany Ison |
-| 504 | 308 | Angela Geist Jusinski |
+| 503 | 308 | Angela Geist Jusinski |
+| 504 | 308 | Bethany Ison |
 | 505 | 308 | Robert Bolden |
 | 506 | 307 | kaeliwyn |
 | 507 | 306 | PeaceOs |
@@ -849,8 +849,8 @@
 | 841 | 181 | Diamond Johnson |
 | 842 | 181 | Caitlyn Brown |
 | 843 | 181 | Christian Torres |
-| 844 | 180 | Jay28 |
-| 845 | 180 | Jennifer Perkins |
+| 844 | 180 | Jennifer Perkins |
+| 845 | 180 | Jay28 |
 | 846 | 180 | Courtney Angel |
 | 847 | 180 | Verna Neal |
 | 848 | 180 | Quirky Clearfit |
@@ -1046,19 +1046,19 @@
 | 1038 | 132 | Jessica Cagle |
 | 1039 | 132 | Aj Brantley Lpn |
 | 1040 | 132 | Lynette Manning |
-| 1041 | 131 | Roseanna Anderson |
-| 1042 | 131 | Shelly Short |
-| 1043 | 131 | Kerlyne Kay Toussaint Smith |
-| 1044 | 130 | Loony Slider |
-| 1045 | 130 | Snappy Combofall |
-| 1046 | 129 | Ryan Knives Vanderpool |
-| 1047 | 129 | Harper |
-| 1048 | 129 | Ninaforever |
-| 1049 | 129 | Speedy Zigzag |
-| 1050 | 129 | Michelle Parker |
-| 1051 | 129 | Dreamy Snapgrid |
-| 1052 | 129 | Keri Hough |
-| 1053 | 128 | Daring Strike |
+| 1041 | 132 | Daring Strike |
+| 1042 | 131 | Roseanna Anderson |
+| 1043 | 131 | Shelly Short |
+| 1044 | 131 | Kerlyne Kay Toussaint Smith |
+| 1045 | 130 | Loony Slider |
+| 1046 | 130 | Snappy Combofall |
+| 1047 | 129 | Ryan Knives Vanderpool |
+| 1048 | 129 | Harper |
+| 1049 | 129 | Ninaforever |
+| 1050 | 129 | Speedy Zigzag |
+| 1051 | 129 | Michelle Parker |
+| 1052 | 129 | Dreamy Snapgrid |
+| 1053 | 129 | Keri Hough |
 | 1054 | 128 | Bigg Guy |
 | 1055 | 127 | Danelle Sulentic |
 | 1056 | 127 | Clever Breaker |
@@ -1096,17 +1096,17 @@
 | 1088 | 120 | Dorothy Horton |
 | 1089 | 120 | Joyce Fees |
 | 1090 | 120 | Zippy Stack |
-| 1091 | 120 | Zappy Snaplink |
-| 1092 | 119 | Calen Torez |
-| 1093 | 119 | Samantha Kimes |
-| 1094 | 119 | Tarina Berner |
-| 1095 | 119 | Wacky Gridlock |
-| 1096 | 119 | Becky Irby |
-| 1097 | 119 | Paco Gonzalez |
-| 1098 | 119 | Natalie;) |
-| 1099 | 118 | MoP11 |
-| 1100 | 118 | Frisky Column |
-| 1101 | 118 | Crushahhhhhh |
+| 1091 | 120 | Crushahhhhhh |
+| 1092 | 120 | Zappy Snaplink |
+| 1093 | 119 | Calen Torez |
+| 1094 | 119 | Samantha Kimes |
+| 1095 | 119 | Tarina Berner |
+| 1096 | 119 | Wacky Gridlock |
+| 1097 | 119 | Becky Irby |
+| 1098 | 119 | Paco Gonzalez |
+| 1099 | 119 | Natalie;) |
+| 1100 | 118 | MoP11 |
+| 1101 | 118 | Frisky Column |
 | 1102 | 117 | Christina Nycol |
 | 1103 | 117 | Denatrious Perry |
 | 1104 | 117 | MzChocolate |
@@ -1362,8 +1362,8 @@
 | 1354 | 76 | Heather Hilferty |
 | 1355 | 76 | Maly Harmen |
 | 1356 | 76 | George Thomson Jr. |
-| 1357 | 76 | Eric Quan |
-| 1358 | 76 | Saucy Brickfit |
+| 1357 | 76 | Saucy Brickfit |
+| 1358 | 76 | Eric Quan |
 | 1359 | 75 | Jeffrey Carl Carter |
 | 1360 | 75 | Sunny68 |
 | 1361 | 75 | Dena Shoop |
@@ -1592,8 +1592,8 @@
 | 1584 | 52 | Francis Fleurant |
 | 1585 | 52 | Hoodylu |
 | 1586 | 52 | Csquared812 |
-| 1587 | 52 | emd |
-| 1588 | 52 | Alexis Kelly |
+| 1587 | 52 | Alexis Kelly |
+| 1588 | 52 | emd |
 | 1589 | 51 | Jeremiah Burton |
 | 1590 | 51 | Jean Camacho |
 | 1591 | 51 | Laura Davis |
