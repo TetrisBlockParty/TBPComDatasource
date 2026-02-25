@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 14:05:22 UTC
+# Standings for team1 as of 2026-02-25 14:06:44 UTC
 
 **Total Participants:** 2472
 
@@ -89,7 +89,7 @@
 | 81 | 1179 | Angel Fowler |
 | 82 | 1162 | Jacqueline Williams |
 | 83 | 1156 | Redlicious 1 |
-| 84 | 1150 | Jason Jones |
+| 84 | 1153 | Jason Jones |
 | 85 | 1146 | Robert Beck |
 | 86 | 1126 | Seante Bullock |
 | 87 | 1122 | Amber Stoker |
@@ -186,8 +186,8 @@
 | 178 | 662 | Evie Khalil |
 | 179 | 656 | Howdi Duty |
 | 180 | 655 | Timothy Danaher |
-| 181 | 647 | Damon J. Martin |
-| 182 | 644 | Νεφ Όνυξ |
+| 181 | 648 | Νεφ Όνυξ |
+| 182 | 647 | Damon J. Martin |
 | 183 | 642 | SkipTheSadSauce |
 | 184 | 637 | Jennifer Hardman |
 | 185 | 633 | ALFD |
@@ -293,14 +293,14 @@
 | 285 | 457 | Mark Smith |
 | 286 | 457 | MelSavage |
 | 287 | 457 | DoodleBug |
-| 288 | 455 | pjbeta |
-| 289 | 455 | Jo Kerley |
-| 290 | 455 | Sunny Shift |
-| 291 | 455 | David Lutcher |
-| 292 | 454 | Cassie Smith |
-| 293 | 453 | Garrett Burket |
-| 294 | 451 | Letson Melissa |
-| 295 | 451 | Cody Gates |
+| 288 | 456 | Cody Gates |
+| 289 | 455 | pjbeta |
+| 290 | 455 | Jo Kerley |
+| 291 | 455 | Sunny Shift |
+| 292 | 455 | David Lutcher |
+| 293 | 454 | Cassie Smith |
+| 294 | 453 | Garrett Burket |
+| 295 | 451 | Letson Melissa |
 | 296 | 450 | Shiny Snapfit |
 | 297 | 449 | Colleen Pinette |
 | 298 | 449 | Irv |
@@ -369,13 +369,13 @@
 | 361 | 390 | Carl Claunch |
 | 362 | 390 | Mandyy Rae |
 | 363 | 390 | Michael |
-| 364 | 390 | Margo Wagner |
-| 365 | 388 | Dawn Michelle Scheible |
-| 366 | 388 | Delvison Rosario |
-| 367 | 388 | Eddie Dillon |
-| 368 | 388 | Shaykmia |
-| 369 | 388 | Chris65 |
-| 370 | 388 | Brave Linkmatch |
+| 364 | 390 | Brave Linkmatch |
+| 365 | 390 | Margo Wagner |
+| 366 | 388 | Dawn Michelle Scheible |
+| 367 | 388 | Delvison Rosario |
+| 368 | 388 | Eddie Dillon |
+| 369 | 388 | Shaykmia |
+| 370 | 388 | Chris65 |
 | 371 | 387 | Gary Gobin |
 | 372 | 387 | Tipsy Builder |
 | 373 | 387 | Diane Byrd |
@@ -537,33 +537,33 @@
 | 529 | 308 | Ramona Shaver |
 | 530 | 308 | Mel Fab |
 | 531 | 308 | Shannon Guilloty |
-| 532 | 306 | Ashley Rodriguez |
-| 533 | 306 | Ellen Newman |
+| 532 | 306 | Ellen Newman |
+| 533 | 306 | Ashley Rodriguez |
 | 534 | 304 | Jamie Catlett |
 | 535 | 304 | MamaB24 |
 | 536 | 303 | Ruthie Mahoney Saunders-Browne |
 | 537 | 301 | MomOf2Angels |
 | 538 | 301 | Megan Kradzinski Ferguson |
 | 539 | 300 | Anita Jack |
-| 540 | 300 | Amie Fields |
-| 541 | 300 | Melanie Kelley |
-| 542 | 297 | Willy Michael |
-| 543 | 296 | Mel Hogan |
+| 540 | 300 | Melanie Kelley |
+| 541 | 300 | Amie Fields |
+| 542 | 300 | Andrew Backes |
+| 543 | 297 | Willy Michael |
 | 544 | 296 | Barry Mac'Ockner |
-| 545 | 296 | grizzly |
-| 546 | 296 | Dena Kayy |
-| 547 | 295 | Clever Cascadepiece |
-| 548 | 295 | Archie Ware |
-| 549 | 294 | Burnnetter Sisk |
-| 550 | 293 | Funky Piecebuilder |
-| 551 | 291 | Sir-Franchise Drake |
-| 552 | 290 | Rachel Copas |
-| 553 | 290 | Ariel Whittington |
-| 554 | 289 | Scott Betson |
-| 555 | 289 | Theeranart Mahawan |
-| 556 | 288 | Sassy Towerer |
-| 557 | 287 | Abbey Crespo |
-| 558 | 287 | Andrew Backes |
+| 545 | 296 | Mel Hogan |
+| 546 | 296 | grizzly |
+| 547 | 296 | Dena Kayy |
+| 548 | 295 | Clever Cascadepiece |
+| 549 | 295 | Archie Ware |
+| 550 | 294 | Burnnetter Sisk |
+| 551 | 293 | Funky Piecebuilder |
+| 552 | 291 | Sir-Franchise Drake |
+| 553 | 290 | Rachel Copas |
+| 554 | 290 | Ariel Whittington |
+| 555 | 289 | Scott Betson |
+| 556 | 289 | Theeranart Mahawan |
+| 557 | 288 | Sassy Towerer |
+| 558 | 287 | Abbey Crespo |
 | 559 | 285 | Joke Sofunny |
 | 560 | 284 | Mariah Cornell |
 | 561 | 283 | Matthew Foley |
@@ -699,25 +699,25 @@
 | 691 | 233 | Sherri E Woods Hess |
 | 692 | 233 | Hyper Tilemaker |
 | 693 | 233 | Tina Englert |
-| 694 | 232 | yoyoluv |
-| 695 | 232 | Jessica Weed |
-| 696 | 232 | Tina Sinclair |
-| 697 | 231 | Dawn Henderson |
-| 698 | 231 | narutyler649 |
+| 694 | 232 | Tina Sinclair |
+| 695 | 232 | yoyoluv |
+| 696 | 232 | Jessica Weed |
+| 697 | 231 | Emily Wray |
+| 698 | 231 | Speedy Balancepiece |
 | 699 | 231 | Hector Cruz |
-| 700 | 231 | Speedy Balancepiece |
-| 701 | 231 | Emily Wray |
+| 700 | 231 | Dawn Henderson |
+| 701 | 231 | narutyler649 |
 | 702 | 230 | Jennifer Crawford |
-| 703 | 229 | squareMel |
-| 704 | 229 | Sandy Jones |
-| 705 | 228 | Negan Mallory Knoxx Spence |
-| 706 | 228 | Jai Pahpasay |
-| 707 | 228 | Davery Spencer Adair |
-| 708 | 228 | Collette Frank |
-| 709 | 227 | Daniel Lorquet |
-| 710 | 227 | Kkl |
+| 703 | 230 | Kkl |
+| 704 | 229 | squareMel |
+| 705 | 229 | Sandy Jones |
+| 706 | 228 | Collette Frank |
+| 707 | 228 | Jai Pahpasay |
+| 708 | 228 | Davery Spencer Adair |
+| 709 | 228 | Negan Mallory Knoxx Spence |
+| 710 | 227 | Spunky Builderpiece |
 | 711 | 227 | Mary M Brion |
-| 712 | 227 | Spunky Builderpiece |
+| 712 | 227 | Daniel Lorquet |
 | 713 | 226 | Kathryn Chiles Anderson |
 | 714 | 226 | Elizabeth Coover |
 | 715 | 225 | Ramona Mittelstadt |
@@ -755,9 +755,9 @@
 | 747 | 214 | Wacky Strikesnap |
 | 748 | 214 | Joyce Harrell-chavis |
 | 749 | 214 | Alex Gauthier |
-| 750 | 213 | Tesia Solano |
-| 751 | 212 | Sherrick Edwards |
-| 752 | 212 | Denise Belanger |
+| 750 | 213 | Denise Belanger |
+| 751 | 213 | Tesia Solano |
+| 752 | 212 | Sherrick Edwards |
 | 753 | 212 | Becky Coker |
 | 754 | 211 | Elyse YL |
 | 755 | 211 | Jeff Newinski |
@@ -1063,8 +1063,8 @@
 | 1055 | 141 | Beeboe17 |
 | 1056 | 141 | Twisty Wipeout |
 | 1057 | 141 | Larry Fritzinger |
-| 1058 | 141 | Vahid Khaleghi |
-| 1059 | 140 | Brahim Amara |
+| 1058 | 141 | Brahim Amara |
+| 1059 | 141 | Vahid Khaleghi |
 | 1060 | 140 | Tipsy Gridmatch |
 | 1061 | 139 | Giggy Stacky |
 | 1062 | 139 | Connie Balentine |
@@ -1537,47 +1537,47 @@
 | 1529 | 67 | Nerdy Balancefit |
 | 1530 | 67 | Ra |
 | 1531 | 67 | Dizzy Bambino-rae |
-| 1532 | 67 | Karissa Lynn Broombaugh |
+| 1532 | 67 | Virginia Swank |
 | 1533 | 67 | Tammieand John Sargent |
 | 1534 | 67 | Potato |
 | 1535 | 67 | Jess Ortiz |
 | 1536 | 67 | Brave Blockbuilder |
-| 1537 | 67 | Nerdy Rotator |
-| 1538 | 67 | Amy Mancini |
-| 1539 | 67 | Giggy Crusher |
-| 1540 | 67 | Virginia Swank |
-| 1541 | 66 | Cheeky Rollfit |
-| 1542 | 66 | Lucy Moore |
-| 1543 | 66 | Sean Behjani |
-| 1544 | 66 | Crystal Mock |
+| 1537 | 67 | Karissa Lynn Broombaugh |
+| 1538 | 67 | Nerdy Rotator |
+| 1539 | 67 | Amy Mancini |
+| 1540 | 67 | Giggy Crusher |
+| 1541 | 66 | Crystal Mock |
+| 1542 | 66 | Cheeky Rollfit |
+| 1543 | 66 | Lucy Moore |
+| 1544 | 66 | Kristarr |
 | 1545 | 66 | Vanessa G Keill |
 | 1546 | 66 | DeeTy |
-| 1547 | 66 | Kaitlyn Mambro |
-| 1548 | 66 | Destinee VanPatten |
+| 1547 | 66 | Sean Behjani |
+| 1548 | 66 | Kaitlyn Mambro |
 | 1549 | 66 | Vikki Doris-Leonardo |
-| 1550 | 66 | Pearlz |
-| 1551 | 66 | Stormz420 |
-| 1552 | 66 | Block attack |
-| 1553 | 66 | Ashley Moore |
-| 1554 | 66 | Kristarr |
-| 1555 | 65 | Karen Berkenstock |
+| 1550 | 66 | Block attack |
+| 1551 | 66 | Pearlz |
+| 1552 | 66 | Ashley Moore |
+| 1553 | 66 | Destinee VanPatten |
+| 1554 | 66 | Stormz420 |
+| 1555 | 65 | Joshua Brymer |
 | 1556 | 65 | Anime girl |
-| 1557 | 65 | Brian Mc Auley |
-| 1558 | 65 | Colton Samantha Lester |
-| 1559 | 65 | Missy Anderson |
-| 1560 | 65 | Joshua Brymer |
-| 1561 | 65 | Jessica Kelsey |
-| 1562 | 65 | Prudence Muzondo |
-| 1563 | 65 | Jessica Lang |
-| 1564 | 65 | Misses Haggard |
-| 1565 | 65 | Kayla |
-| 1566 | 65 | Heidi Hile |
-| 1567 | 65 | Sarah Denise Baca |
-| 1568 | 64 | Brave Tiley |
-| 1569 | 64 | Kenneth Ray Steiner |
-| 1570 | 64 | Jerred Hunter |
-| 1571 | 64 | Cool Balancer |
-| 1572 | 64 | Catherine Gi |
+| 1557 | 65 | Karen Berkenstock |
+| 1558 | 65 | Catherine Gi |
+| 1559 | 65 | Colton Samantha Lester |
+| 1560 | 65 | Brian Mc Auley |
+| 1561 | 65 | Missy Anderson |
+| 1562 | 65 | Jessica Kelsey |
+| 1563 | 65 | Sarah Denise Baca |
+| 1564 | 65 | Prudence Muzondo |
+| 1565 | 65 | Jessica Lang |
+| 1566 | 65 | Misses Haggard |
+| 1567 | 65 | Heidi Hile |
+| 1568 | 65 | Kayla |
+| 1569 | 64 | Brave Tiley |
+| 1570 | 64 | Kenneth Ray Steiner |
+| 1571 | 64 | Jerred Hunter |
+| 1572 | 64 | Cool Balancer |
 | 1573 | 64 | BlackberryCobbler |
 | 1574 | 64 | Walter Turner |
 | 1575 | 64 | Kyle Schwarcz |
