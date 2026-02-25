@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-25 10:44:21 UTC
+# Standings for team3 as of 2026-02-25 10:44:47 UTC
 
 **Total Participants:** 3679
 
@@ -532,8 +532,8 @@
 | 524 | 407 | Stephanie Sanchez |
 | 525 | 407 | Ann Hammac |
 | 526 | 407 | Christy Quick |
-| 527 | 407 | Tina Smith Roy |
-| 528 | 407 | sofaking |
+| 527 | 407 | sofaking |
+| 528 | 407 | Tina Smith Roy |
 | 529 | 406 | luluraine |
 | 530 | 406 | Eric Caccavale |
 | 531 | 405 | Andrew Thorson |
@@ -548,24 +548,24 @@
 | 540 | 399 | Gracie Ornelas |
 | 541 | 399 | Big T |
 | 542 | 399 | Brittany |
-| 543 | 398 | angieelyn |
-| 544 | 397 | Tipsy Zonebuilder |
-| 545 | 397 | Romeo |
-| 546 | 397 | Cameo Tweed |
-| 547 | 396 | Sunny Lift |
-| 548 | 395 | Boldy Blocker |
-| 549 | 395 | toony |
-| 550 | 395 | Foltz Lee Kelli |
-| 551 | 395 | Funky Brickster |
-| 552 | 394 | Amanda J. Mcneil-Anderson |
-| 553 | 394 | QueenBee |
-| 554 | 394 | Clever Edgepiece |
-| 555 | 394 | Nicholas Roddy |
-| 556 | 393 | Thom Cribbs |
-| 557 | 393 | Joseph Vargas |
-| 558 | 392 | Blokell |
-| 559 | 392 | Frisky Pop |
-| 560 | 392 | Amber Glover |
+| 543 | 398 | Amber Glover |
+| 544 | 398 | angieelyn |
+| 545 | 397 | Tipsy Zonebuilder |
+| 546 | 397 | Romeo |
+| 547 | 397 | Cameo Tweed |
+| 548 | 396 | Sunny Lift |
+| 549 | 395 | Boldy Blocker |
+| 550 | 395 | toony |
+| 551 | 395 | Foltz Lee Kelli |
+| 552 | 395 | Funky Brickster |
+| 553 | 394 | Amanda J. Mcneil-Anderson |
+| 554 | 394 | QueenBee |
+| 555 | 394 | Clever Edgepiece |
+| 556 | 394 | Nicholas Roddy |
+| 557 | 393 | Thom Cribbs |
+| 558 | 393 | Joseph Vargas |
+| 559 | 392 | Blokell |
+| 560 | 392 | Frisky Pop |
 | 561 | 392 | Blair Erin Waite |
 | 562 | 392 | J.E. Taylor |
 | 563 | 391 | Hyper Wipeout |
