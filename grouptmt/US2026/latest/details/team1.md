@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 07:35:26 UTC
+# Standings for team1 as of 2026-02-25 07:36:21 UTC
 
 **Total Participants:** 2433
 
@@ -173,8 +173,8 @@
 | 165 | 662 | Evie Khalil |
 | 166 | 655 | Ly Phethmany |
 | 167 | 654 | Ty Brown |
-| 168 | 647 | Damon J. Martin |
-| 169 | 646 | Snippy Wipebuilder |
+| 168 | 651 | Snippy Wipebuilder |
+| 169 | 647 | Damon J. Martin |
 | 170 | 644 | Flashy Rotator |
 | 171 | 642 | SkipTheSadSauce |
 | 172 | 637 | Jennifer Hardman |
@@ -298,10 +298,10 @@
 | 290 | 443 | Colleen Pinette |
 | 291 | 442 | GringaLinga |
 | 292 | 441 | Barrbaric |
-| 293 | 439 | build master |
-| 294 | 439 | John Kim |
-| 295 | 439 | Renee Tucker |
-| 296 | 439 | Dizzy Party |
+| 293 | 440 | Dizzy Party |
+| 294 | 439 | build master |
+| 295 | 439 | John Kim |
+| 296 | 439 | Renee Tucker |
 | 297 | 438 | Melissa Bires Hussar |
 | 298 | 437 | LD1 |
 | 299 | 436 | David Lutcher |
@@ -362,9 +362,9 @@
 | 354 | 388 | Brave Linkmatch |
 | 355 | 387 | Mandyy Rae |
 | 356 | 387 | Gary Gobin |
-| 357 | 386 | Angela Dawn Torres-Tarrants |
-| 358 | 386 | Bloknboy |
-| 359 | 386 | Elizabeth Kubli |
+| 357 | 387 | Elizabeth Kubli |
+| 358 | 386 | Angela Dawn Torres-Tarrants |
+| 359 | 386 | Bloknboy |
 | 360 | 385 | Garrett Burket |
 | 361 | 384 | Alphonza Keyes Jr. |
 | 362 | 384 | Sonia Marquis |
@@ -372,9 +372,9 @@
 | 364 | 382 | Nutty Spinblock |
 | 365 | 382 | Gina Bettikofer |
 | 366 | 380 | Rachel Nichole Henry |
-| 367 | 379 | Anielle Reagan |
+| 367 | 379 | Austin James |
 | 368 | 379 | Dizzy Riseclear |
-| 369 | 379 | Austin James |
+| 369 | 379 | Anielle Reagan |
 | 370 | 379 | Billie Dawn Sparks |
 | 371 | 378 | Carl Claunch |
 | 372 | 378 | Fresno Beotoni |
@@ -1222,14 +1222,14 @@
 | 1214 | 107 | Dede |
 | 1215 | 106 | Kelly Holland |
 | 1216 | 106 | Cheeky Gridder |
-| 1217 | 106 | Jeffrey Hughes |
-| 1218 | 106 | Honey |
-| 1219 | 106 | Becky Lynn Cramer-Ingram |
-| 1220 | 105 | Jolly Climber |
-| 1221 | 105 | Quirky Holder |
-| 1222 | 104 | OneCrazyGator |
-| 1223 | 104 | Flashy Gridroll |
-| 1224 | 104 | Chelsea Simpson |
+| 1217 | 106 | Chelsea Simpson |
+| 1218 | 106 | Jeffrey Hughes |
+| 1219 | 106 | Honey |
+| 1220 | 106 | Becky Lynn Cramer-Ingram |
+| 1221 | 105 | Jolly Climber |
+| 1222 | 105 | Quirky Holder |
+| 1223 | 104 | OneCrazyGator |
+| 1224 | 104 | Flashy Gridroll |
 | 1225 | 104 | Nichole Antonishak |
 | 1226 | 104 | Zippy Buildsnap |
 | 1227 | 104 | Johanna Burke |
@@ -1702,29 +1702,29 @@
 | 1694 | 50 | Eric Michael Floyd |
 | 1695 | 50 | Cheeky Spinzone |
 | 1696 | 50 | Spunky Stagger |
-| 1697 | 50 | Lush Snapclear |
-| 1698 | 50 | Tracy Obenauer |
-| 1699 | 50 | Clarenique Williams |
-| 1700 | 50 | Geo Jam |
-| 1701 | 50 | Heaven |
-| 1702 | 49 | Lori LeClaire Andersen |
-| 1703 | 49 | kamo |
-| 1704 | 49 | Sassy Dashy |
-| 1705 | 49 | Boldy Tumbler |
-| 1706 | 49 | Edward McParlin |
-| 1707 | 49 | Ryan Strong |
-| 1708 | 49 | Crystal Henson Moats |
+| 1697 | 50 | Crystal Henson Moats |
+| 1698 | 50 | Lush Snapclear |
+| 1699 | 50 | Tracy Obenauer |
+| 1700 | 50 | Clarenique Williams |
+| 1701 | 50 | Geo Jam |
+| 1702 | 50 | Heaven |
+| 1703 | 49 | Tyler Mulholland |
+| 1704 | 49 | Beverly Bender |
+| 1705 | 49 | Glitzy Curvetile |
+| 1706 | 49 | Stephanie Thompson |
+| 1707 | 49 | Sonikku |
+| 1708 | 49 | Perez219 |
 | 1709 | 49 | Summer Osborne |
-| 1710 | 49 | Perez219 |
-| 1711 | 49 | Sonikku |
-| 1712 | 49 | Stephanie Thompson |
-| 1713 | 49 | Glitzy Curvetile |
-| 1714 | 49 | Beverly Bender |
-| 1715 | 49 | Tyler Mulholland |
+| 1710 | 49 | Ryan Strong |
+| 1711 | 49 | Edward McParlin |
+| 1712 | 49 | Boldy Tumbler |
+| 1713 | 49 | Sassy Dashy |
+| 1714 | 49 | kamo |
+| 1715 | 49 | Lori LeClaire Andersen |
 | 1716 | 48 | Giggy Spinfit |
 | 1717 | 48 | Misty |
-| 1718 | 48 | Tim |
-| 1719 | 48 | Todd Bolding |
+| 1718 | 48 | Todd Bolding |
+| 1719 | 48 | Tim |
 | 1720 | 48 | Boldy Spinbuilder |
 | 1721 | 48 | Bree Smith |
 | 1722 | 48 | Grip Alexander |
