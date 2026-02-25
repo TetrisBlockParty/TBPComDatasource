@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 11:11:22 UTC
+# Standings for team1 as of 2026-02-25 11:12:44 UTC
 
 **Total Participants:** 2456
 
@@ -27,9 +27,9 @@
 | 19 | 2693 | Odell Barnett |
 | 20 | 2631 | Mara Hilker |
 | 21 | 2613 | Josie Kirt |
-| 22 | 2441 | Felicia Lewis |
-| 23 | 2439 | Amanda Summey Schoemer |
-| 24 | 2431 | Adryane Schnase |
+| 22 | 2441 | Adryane Schnase |
+| 23 | 2441 | Felicia Lewis |
+| 24 | 2439 | Amanda Summey Schoemer |
 | 25 | 2364 | Derek MF Blakey |
 | 26 | 2229 | Amanda Jarnagin |
 | 27 | 2209 | Carolyn Smith |
@@ -38,8 +38,8 @@
 | 30 | 2004 | Hyp James NObettadanluvarat |
 | 31 | 1969 | Joe Smith |
 | 32 | 1836 | Nancy Green |
-| 33 | 1836 | Bhelle Sumile |
-| 34 | 1830 | Adrian Esteban |
+| 33 | 1836 | Adrian Esteban |
+| 34 | 1836 | Bhelle Sumile |
 | 35 | 1814 | Roger Aschbrenner |
 | 36 | 1808 | Rahna Underwood |
 | 37 | 1804 | Christina Graham |
@@ -113,8 +113,8 @@
 | 105 | 967 | Hellsin |
 | 106 | 959 | Plucky Fallzone |
 | 107 | 958 | Mario Cab |
-| 108 | 956 | Hyper |
-| 109 | 956 | Amanda Johnson Huffman |
+| 108 | 956 | Amanda Johnson Huffman |
+| 109 | 956 | Hyper |
 | 110 | 953 | Kellie |
 | 111 | 952 | Desiree Deschaine Havee |
 | 112 | 949 | Madison Wicks |
@@ -144,8 +144,8 @@
 | 136 | 822 | Susanna Guerry |
 | 137 | 815 | Cartier |
 | 138 | 804 | Snappy Matcher |
-| 139 | 802 | Sean Stallings |
-| 140 | 802 | Tdub |
+| 139 | 802 | Tdub |
+| 140 | 802 | Sean Stallings |
 | 141 | 798 | Virginia Gray Floyd |
 | 142 | 780 | Christy Jones |
 | 143 | 779 | Tanya Carpenter-Reynolds |
@@ -163,34 +163,34 @@
 | 155 | 703 | Tipsy Riseclear |
 | 156 | 702 | ParisandCory Champagne |
 | 157 | 695 | April Carroll |
-| 158 | 691 | Jennifer Noe Chandler |
-| 159 | 691 | Evan Richmond |
-| 160 | 686 | Jerry Danowski |
-| 161 | 678 | Ryan Lunnin |
-| 162 | 676 | .running. |
-| 163 | 672 | Death |
-| 164 | 671 | Theo Pinnow |
-| 165 | 670 | Michael Espinosa Ulibarri Jr. |
+| 158 | 691 | Evan Richmond |
+| 159 | 691 | Jennifer Noe Chandler |
+| 160 | 688 | Tonya Beasley |
+| 161 | 686 | Jerry Danowski |
+| 162 | 678 | Ryan Lunnin |
+| 163 | 676 | .running. |
+| 164 | 672 | Death |
+| 165 | 671 | Theo Pinnow |
 | 166 | 670 | femmefatale |
-| 167 | 669 | Snippy Wipebuilder |
-| 168 | 668 | Tyler Werts |
-| 169 | 666 | Tiger Lily |
-| 170 | 664 | Maria C. Hernandez |
-| 171 | 662 | Evie Khalil |
-| 172 | 660 | Eric DeSimone |
-| 173 | 656 | Howdi Duty |
-| 174 | 655 | Ly Phethmany |
-| 175 | 654 | Ty Brown |
-| 176 | 647 | Damon J. Martin |
-| 177 | 644 | Flashy Rotator |
-| 178 | 642 | SkipTheSadSauce |
-| 179 | 637 | Standia Civil |
-| 180 | 637 | Jennifer Hardman |
-| 181 | 634 | Νεφ Όνυξ |
-| 182 | 633 | ALFD |
-| 183 | 632 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 184 | 629 | Chase Collinsworth |
-| 185 | 629 | Tonya Beasley |
+| 167 | 670 | Michael Espinosa Ulibarri Jr. |
+| 168 | 669 | Snippy Wipebuilder |
+| 169 | 668 | Tyler Werts |
+| 170 | 666 | Tiger Lily |
+| 171 | 664 | Maria C. Hernandez |
+| 172 | 662 | Evie Khalil |
+| 173 | 660 | Eric DeSimone |
+| 174 | 656 | Howdi Duty |
+| 175 | 655 | Ly Phethmany |
+| 176 | 654 | Ty Brown |
+| 177 | 647 | Damon J. Martin |
+| 178 | 644 | Flashy Rotator |
+| 179 | 642 | SkipTheSadSauce |
+| 180 | 637 | Standia Civil |
+| 181 | 637 | Jennifer Hardman |
+| 182 | 634 | Νεφ Όνυξ |
+| 183 | 633 | ALFD |
+| 184 | 632 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 185 | 629 | Chase Collinsworth |
 | 186 | 623 | Jessi Sauer |
 | 187 | 623 | Jessie Welch |
 | 188 | 620 | Deanna L Hermanson |
@@ -209,8 +209,8 @@
 | 201 | 587 | Luciano Moreira |
 | 202 | 586 | Constance Risner |
 | 203 | 585 | John J. Cronin |
-| 204 | 581 | Rebekah LeiAnn Bonsell |
-| 205 | 581 | Jessica Russell |
+| 204 | 581 | Jessica Russell |
+| 205 | 581 | Rebekah LeiAnn Bonsell |
 | 206 | 578 | Hasty Cascader |
 | 207 | 574 | Speedy Liney |
 | 208 | 570 | Cody Slav |
@@ -275,30 +275,30 @@
 | 267 | 469 | build master |
 | 268 | 468 | Wayne Saunders |
 | 269 | 467 | Brian Spotts |
-| 270 | 464 | Rayline M Bradshaw |
-| 271 | 462 | Angela Renea Lester |
-| 272 | 460 | Dizzy Party |
-| 273 | 459 | Jamie Jury |
-| 274 | 459 | Shan Rock |
-| 275 | 458 | Goose egg |
-| 276 | 457 | Spencer Lent |
-| 277 | 455 | Kimmie Kimms |
+| 270 | 465 | Kimmie Kimms |
+| 271 | 464 | Rayline M Bradshaw |
+| 272 | 462 | Angela Renea Lester |
+| 273 | 460 | Dizzy Party |
+| 274 | 459 | Jamie Jury |
+| 275 | 459 | Shan Rock |
+| 276 | 458 | Goose egg |
+| 277 | 457 | Spencer Lent |
 | 278 | 455 | Sunny Shift |
-| 279 | 455 | Jo Kerley |
-| 280 | 455 | pjbeta |
+| 279 | 455 | pjbeta |
+| 280 | 455 | Jo Kerley |
 | 281 | 454 | Cassie Smith |
 | 282 | 452 | DoodleBug |
 | 283 | 452 | Tyler Hertzog |
 | 284 | 450 | Shiny Snapfit |
-| 285 | 449 | Lakeisha Chapman |
-| 286 | 449 | Cece Ibarra |
-| 287 | 447 | Lynn Adams |
-| 288 | 447 | Letson Melissa |
+| 285 | 449 | Cece Ibarra |
+| 286 | 449 | Lakeisha Chapman |
+| 287 | 447 | Letson Melissa |
+| 288 | 447 | Lynn Adams |
 | 289 | 446 | Richard Butler |
-| 290 | 446 | Dino |
-| 291 | 446 | Irv |
-| 292 | 445 | Emily Adelaide Wheatley |
-| 293 | 445 | Tetrisqn |
+| 290 | 446 | Irv |
+| 291 | 446 | Dino |
+| 292 | 445 | Tetrisqn |
+| 293 | 445 | Emily Adelaide Wheatley |
 | 294 | 445 | Sylvia Vasquez |
 | 295 | 443 | Colleen Pinette |
 | 296 | 443 | MommaKFC |
@@ -437,14 +437,14 @@
 | 429 | 352 | Giggly Builderline |
 | 430 | 351 | Llewej Rekab |
 | 431 | 350 | Mighty Shatterfit |
-| 432 | 350 | Jeanna Dunn |
-| 433 | 349 | Ma stoken |
-| 434 | 349 | Yahowah |
-| 435 | 349 | Amanda Wharton |
-| 436 | 348 | Debbie Davis |
-| 437 | 346 | Brandie Gallegos |
-| 438 | 346 | Katie Martin |
-| 439 | 345 | Mary Love |
+| 432 | 350 | Mary Love |
+| 433 | 350 | Jeanna Dunn |
+| 434 | 349 | Ma stoken |
+| 435 | 349 | Yahowah |
+| 436 | 349 | Amanda Wharton |
+| 437 | 348 | Debbie Davis |
+| 438 | 346 | Brandie Gallegos |
+| 439 | 346 | Katie Martin |
 | 440 | 344 | Tavia |
 | 441 | 344 | Beazel75 |
 | 442 | 343 | Missy Broz McNees |
