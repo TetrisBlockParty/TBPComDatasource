@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 12:50:45 UTC
+# Standings for team1 as of 2026-02-25 12:51:22 UTC
 
 **Total Participants:** 2466
 
@@ -45,7 +45,7 @@
 | 37 | 1804 | Christina Graham |
 | 38 | 1784 | Brenda Stewart |
 | 39 | 1776 | Lola Adkhambekovna |
-| 40 | 1707 | Marianne Louise West |
+| 40 | 1710 | Marianne Louise West |
 | 41 | 1701 | Tyler Whitley |
 | 42 | 1700 | Jen Sartain |
 | 43 | 1686 | Jessica Sheehan |
@@ -81,10 +81,10 @@
 | 73 | 1282 | Stef Hu |
 | 74 | 1282 | Patrick Luckenbill |
 | 75 | 1228 | Nerdy Linkblock |
-| 76 | 1222 | Kandae |
-| 77 | 1220 | Jason Cox |
-| 78 | 1214 | Amy Griffith |
-| 79 | 1192 | Kristen Gideon |
+| 76 | 1224 | Kristen Gideon |
+| 77 | 1222 | Kandae |
+| 78 | 1220 | Jason Cox |
+| 79 | 1214 | Amy Griffith |
 | 80 | 1180 | Shalene Frederick Autrey |
 | 81 | 1179 | Angel Fowler |
 | 82 | 1162 | Jacqueline Williams |
@@ -387,37 +387,37 @@
 | 379 | 382 | Nutty Spinblock |
 | 380 | 382 | Kristen Meehan Wangerien |
 | 381 | 380 | Amber Dee |
-| 382 | 380 | LaFontaine Leslie |
-| 383 | 380 | Rachel Nichole Henry |
-| 384 | 379 | Austin James |
-| 385 | 379 | Tanya Banks |
-| 386 | 379 | Billie Dawn Sparks |
+| 382 | 380 | Rachel Nichole Henry |
+| 383 | 380 | LaFontaine Leslie |
+| 384 | 379 | Tanya Banks |
+| 385 | 379 | Billie Dawn Sparks |
+| 386 | 379 | Austin James |
 | 387 | 379 | Dizzy Riseclear |
-| 388 | 378 | Lilkimmie |
-| 389 | 378 | Fresno Beotoni |
+| 388 | 378 | Fresno Beotoni |
+| 389 | 378 | Lilkimmie |
 | 390 | 377 | Kipoi |
-| 391 | 376 | Herm Junior |
-| 392 | 376 | Breanna Luna |
+| 391 | 376 | Breanna Luna |
+| 392 | 376 | Herm Junior |
 | 393 | 375 | Mrs.Patrica |
 | 394 | 375 | Matt Iaccheo |
-| 395 | 374 | Jaimie Lynn |
-| 396 | 374 | John Ramirez |
-| 397 | 374 | Loony Bridgepiece |
+| 395 | 374 | Loony Bridgepiece |
+| 396 | 374 | Jaimie Lynn |
+| 397 | 374 | John Ramirez |
 | 398 | 373 | Mitchel White |
 | 399 | 372 | Silly Align |
-| 400 | 370 | Its me |
-| 401 | 370 | Steph |
-| 402 | 370 | san |
-| 403 | 369 | Tiffany Smith |
-| 404 | 369 | Nate Price |
-| 405 | 369 | Quirky Pusher |
-| 406 | 369 | I Am |
-| 407 | 369 | Nathan William |
-| 408 | 369 | Epic Jumper |
+| 400 | 370 | san |
+| 401 | 370 | Its me |
+| 402 | 370 | Steph |
+| 403 | 369 | Epic Jumper |
+| 404 | 369 | Nathan William |
+| 405 | 369 | I Am |
+| 406 | 369 | Quirky Pusher |
+| 407 | 369 | Nate Price |
+| 408 | 369 | Tiffany Smith |
 | 409 | 368 | Katie Martin |
-| 410 | 368 | Larry Tilton |
-| 411 | 368 | Shannon Marie Pitts |
-| 412 | 368 | Terri Rodela |
+| 410 | 368 | Terri Rodela |
+| 411 | 368 | Larry Tilton |
+| 412 | 368 | Shannon Marie Pitts |
 | 413 | 367 | Crystal Cheresnowsky |
 | 414 | 367 | Buggs |
 | 415 | 367 | Jessie |
@@ -429,10 +429,10 @@
 | 421 | 363 | Наталья Солоид |
 | 422 | 363 | Lyn Sibayan |
 | 423 | 362 | Perky Lifter |
-| 424 | 362 | Jennifer Olewnik Soborowski |
-| 425 | 361 | Marci Sanders |
-| 426 | 361 | Jeremy Maubert |
-| 427 | 361 | Tipsy Builder |
+| 424 | 362 | Tipsy Builder |
+| 425 | 362 | Jennifer Olewnik Soborowski |
+| 426 | 361 | Marci Sanders |
+| 427 | 361 | Jeremy Maubert |
 | 428 | 361 | Rico Rico |
 | 429 | 361 | ESC |
 | 430 | 357 | Amh |
@@ -560,12 +560,12 @@
 | 552 | 288 | Sassy Towerer |
 | 553 | 287 | Abbey Crespo |
 | 554 | 285 | Joke Sofunny |
-| 555 | 284 | Mariah Cornell |
-| 556 | 283 | Matthew Foley |
-| 557 | 283 | Franswa |
-| 558 | 282 | Gilbert Ortiz Jr. |
-| 559 | 282 | Marc Abney |
-| 560 | 282 | Mel Hogan |
+| 555 | 285 | Mel Hogan |
+| 556 | 284 | Mariah Cornell |
+| 557 | 283 | Matthew Foley |
+| 558 | 283 | Franswa |
+| 559 | 282 | Gilbert Ortiz Jr. |
+| 560 | 282 | Marc Abney |
 | 561 | 282 | Timothy Dew |
 | 562 | 282 | Pauline Cortez |
 | 563 | 281 | Tiffany Trinh |
@@ -727,10 +727,10 @@
 | 719 | 221 | Amy Hess |
 | 720 | 220 | Chadocho |
 | 721 | 220 | Sandy Jones |
-| 722 | 219 | BrenaBae |
-| 723 | 219 | Paul Osborne |
-| 724 | 218 | Brian Taylor |
-| 725 | 218 | Kathryn Chiles Anderson |
+| 722 | 219 | Kathryn Chiles Anderson |
+| 723 | 219 | BrenaBae |
+| 724 | 219 | Paul Osborne |
+| 725 | 218 | Brian Taylor |
 | 726 | 218 | Witty Curve |
 | 727 | 217 | Bruce Cruz |
 | 728 | 217 | Chipper Piecefit |
@@ -1175,27 +1175,27 @@
 | 1167 | 119 | Devon Rae |
 | 1168 | 119 | Wendy Walker-Hill |
 | 1169 | 119 | Ana Estevez |
-| 1170 | 118 | Denny Castle |
-| 1171 | 118 | Jazzy Clearbuilder |
-| 1172 | 118 | Willian Tarajano |
+| 1170 | 118 | Jazzy Clearbuilder |
+| 1171 | 118 | Willian Tarajano |
+| 1172 | 118 | Denny Castle |
 | 1173 | 118 | Tim Mccrary |
 | 1174 | 118 | Travis Hughes |
-| 1175 | 118 | RetroRina |
-| 1176 | 118 | Unelanuhi Belladonna Mystikal Bomar |
-| 1177 | 117 | rigerson |
-| 1178 | 117 | Omar Hudson |
+| 1175 | 118 | Unelanuhi Belladonna Mystikal Bomar |
+| 1176 | 118 | RetroRina |
+| 1177 | 117 | Omar Hudson |
+| 1178 | 117 | rigerson |
 | 1179 | 117 | Vanessa Zuniga Elvira |
 | 1180 | 117 | Joshua Murphy |
 | 1181 | 116 | Cleo Snider |
 | 1182 | 116 | Lakesha Jackson- Anderson |
 | 1183 | 116 | Badace1 |
 | 1184 | 116 | Lilly Denny |
-| 1185 | 115 | Helen Arbuckle |
+| 1185 | 115 | ghxsty |
 | 1186 | 115 | Anthony Ray |
-| 1187 | 115 | Chilly Piececlear |
-| 1188 | 115 | Slinky Fitblock |
-| 1189 | 115 | ghxsty |
-| 1190 | 114 | Eduardo Santos |
+| 1187 | 115 | Slinky Fitblock |
+| 1188 | 115 | Eduardo Santos |
+| 1189 | 115 | Helen Arbuckle |
+| 1190 | 115 | Chilly Piececlear |
 | 1191 | 114 | Dimitri Alexopoulos |
 | 1192 | 114 | Karly Alexandrea |
 | 1193 | 114 | madd |
