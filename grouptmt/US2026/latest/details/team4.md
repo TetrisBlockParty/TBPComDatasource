@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 17:54:45 UTC
+# Standings for team4 as of 2026-02-25 17:55:23 UTC
 
 **Total Participants:** 2239
 
@@ -420,10 +420,10 @@
 | 412 | 372 | Tony Pavelka |
 | 413 | 369 | Grann8 |
 | 414 | 368 | Sarah Brown |
-| 415 | 368 | Michael Orris |
-| 416 | 367 | Meg |
-| 417 | 366 | Speedy Cascadeclear |
-| 418 | 366 | Shiny Pivoty |
+| 415 | 368 | Shiny Pivoty |
+| 416 | 368 | Michael Orris |
+| 417 | 367 | Meg |
+| 418 | 366 | Speedy Cascadeclear |
 | 419 | 365 | Susan Williams |
 | 420 | 364 | Badatvs |
 | 421 | 362 | wombat |
@@ -487,20 +487,20 @@
 | 479 | 327 | Moonsterix |
 | 480 | 326 | giantslover514 |
 | 481 | 324 | Malakai Darien Fox |
-| 482 | 324 | Brittany Marsh |
-| 483 | 323 | Ruben Wheeler |
-| 484 | 322 | Loony Rotater |
-| 485 | 322 | RIFATSIKDER |
-| 486 | 321 | Mackenzie Forrester |
-| 487 | 321 | Jarred Falls |
-| 488 | 321 | Hector Duran |
-| 489 | 320 | Helen Chao |
-| 490 | 320 | Oleg Zakharskiy |
-| 491 | 320 | Deb Rubeck |
-| 492 | 320 | Krash |
-| 493 | 320 | O block |
-| 494 | 319 | Jackson Karen |
-| 495 | 319 | Ryry |
+| 482 | 324 | Ryry |
+| 483 | 324 | Brittany Marsh |
+| 484 | 323 | Ruben Wheeler |
+| 485 | 322 | Loony Rotater |
+| 486 | 322 | RIFATSIKDER |
+| 487 | 321 | Mackenzie Forrester |
+| 488 | 321 | Jarred Falls |
+| 489 | 321 | Hector Duran |
+| 490 | 320 | Helen Chao |
+| 491 | 320 | Oleg Zakharskiy |
+| 492 | 320 | Deb Rubeck |
+| 493 | 320 | Krash |
+| 494 | 320 | O block |
+| 495 | 319 | Jackson Karen |
 | 496 | 318 | Dapper Frame |
 | 497 | 317 | bloat princess |
 | 498 | 317 | LADY J |
