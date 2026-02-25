@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 14:32:44 UTC
+# Standings for team1 as of 2026-02-25 14:33:23 UTC
 
 **Total Participants:** 2477
 
@@ -611,8 +611,8 @@
 | 603 | 265 | Josh Smith |
 | 604 | 264 | Frisky Risebuilder |
 | 605 | 264 | Angel Marie |
-| 606 | 264 | Beau Galvan |
-| 607 | 263 | Robin Burress |
+| 606 | 264 | Robin Burress |
+| 607 | 264 | Beau Galvan |
 | 608 | 263 | Blake Cobb |
 | 609 | 263 | Ja Ce |
 | 610 | 263 | Equinn |
@@ -1042,58 +1042,58 @@
 | 1034 | 148 | Wanda Rodriguez |
 | 1035 | 147 | uberdork124 |
 | 1036 | 147 | Daniel R Morgan |
-| 1037 | 146 | Kyle Baker |
-| 1038 | 146 | Lively Slammer |
-| 1039 | 146 | Dchielle |
+| 1037 | 146 | Lively Slammer |
+| 1038 | 146 | Dchielle |
+| 1039 | 146 | Kyle Baker |
 | 1040 | 146 | Robert Young |
-| 1041 | 145 | Tim Giacobone |
-| 1042 | 145 | Cheery Zonegrid |
-| 1043 | 144 | Penelope |
-| 1044 | 144 | Brahim Amara |
-| 1045 | 144 | Chirpy Towerfall |
-| 1046 | 144 | Deanna Scott |
-| 1047 | 143 | Dreamy Brickclear |
-| 1048 | 143 | Jacob Shaddock |
-| 1049 | 143 | Sheay |
-| 1050 | 143 | Unicorn |
-| 1051 | 143 | Kristi Kinard |
-| 1052 | 143 | Mike Hobby |
+| 1041 | 145 | Cheery Zonegrid |
+| 1042 | 145 | Tim Giacobone |
+| 1043 | 144 | Deanna Scott |
+| 1044 | 144 | Chirpy Towerfall |
+| 1045 | 144 | Brahim Amara |
+| 1046 | 144 | Penelope |
+| 1047 | 143 | Sheay |
+| 1048 | 143 | Dreamy Brickclear |
+| 1049 | 143 | Jacob Shaddock |
+| 1050 | 143 | Mike Hobby |
+| 1051 | 143 | Unicorn |
+| 1052 | 143 | Kristi Kinard |
 | 1053 | 142 | Spicy Brickline |
-| 1054 | 142 | Spicy Tilefall |
+| 1054 | 142 | Riley Chance |
 | 1055 | 142 | Nick |
-| 1056 | 142 | Riley Chance |
-| 1057 | 141 | Vahid Khaleghi |
-| 1058 | 141 | Twisty Wipeout |
-| 1059 | 141 | Chris Baker |
-| 1060 | 141 | Beeboe17 |
+| 1056 | 142 | Spicy Tilefall |
+| 1057 | 141 | Beeboe17 |
+| 1058 | 141 | Larry Fritzinger |
+| 1059 | 141 | Vahid Khaleghi |
+| 1060 | 141 | Twisty Wipeout |
 | 1061 | 141 | Adam Charles |
-| 1062 | 141 | Larry Fritzinger |
+| 1062 | 141 | Chris Baker |
 | 1063 | 140 | Tipsy Gridmatch |
-| 1064 | 139 | Connie Balentine |
+| 1064 | 139 | Giggy Stacky |
 | 1065 | 139 | Tom Jaramillo |
-| 1066 | 139 | Frisky Framezone |
-| 1067 | 139 | Giggy Stacky |
+| 1066 | 139 | Nutty Clusterline |
+| 1067 | 139 | Connie Balentine |
 | 1068 | 139 | Chummy Spinzone |
-| 1069 | 139 | Nutty Clusterline |
-| 1070 | 138 | Shanna Outen |
+| 1069 | 139 | Frisky Framezone |
+| 1070 | 138 | Mar |
 | 1071 | 138 | Michael Butler |
 | 1072 | 138 | Bank |
 | 1073 | 138 | Jazzy Clearbuilder |
-| 1074 | 138 | Mar |
-| 1075 | 138 | Mauricio Reyes |
-| 1076 | 137 | Boog |
-| 1077 | 137 | Matthew Vd |
-| 1078 | 137 | Swanky Blockzone |
-| 1079 | 137 | David Bourne |
-| 1080 | 137 | Kalesha Tteirrah |
-| 1081 | 137 | Roselyn Gomez |
-| 1082 | 137 | Zappy Cluster |
-| 1083 | 136 | Jennifer Chilton-Metlock |
-| 1084 | 136 | Susan Walser Osborne |
-| 1085 | 136 | Dreamy Basepiece |
-| 1086 | 136 | Swanky Crasher |
-| 1087 | 136 | Zach Marihugh |
-| 1088 | 135 | Daring Wiper |
+| 1074 | 138 | Daring Wiper |
+| 1075 | 138 | Shanna Outen |
+| 1076 | 138 | Mauricio Reyes |
+| 1077 | 137 | Boog |
+| 1078 | 137 | Matthew Vd |
+| 1079 | 137 | Swanky Blockzone |
+| 1080 | 137 | David Bourne |
+| 1081 | 137 | Kalesha Tteirrah |
+| 1082 | 137 | Roselyn Gomez |
+| 1083 | 137 | Zappy Cluster |
+| 1084 | 136 | Jennifer Chilton-Metlock |
+| 1085 | 136 | Susan Walser Osborne |
+| 1086 | 136 | Dreamy Basepiece |
+| 1087 | 136 | Swanky Crasher |
+| 1088 | 136 | Zach Marihugh |
 | 1089 | 135 | Bye Love |
 | 1090 | 135 | Thia Gibson |
 | 1091 | 134 | Chilly Matchbuilder |
@@ -1345,60 +1345,60 @@
 | 1337 | 92 | Grace Joanne Agnant |
 | 1338 | 92 | C McMurd |
 | 1339 | 92 | Ivan Reynolds |
-| 1340 | 92 | Spicy Glide |
+| 1340 | 92 | Giddy Blockbuilder |
 | 1341 | 92 | Star Gaze |
-| 1342 | 92 | Natassia Miller |
-| 1343 | 91 | Jason Whitehead |
+| 1342 | 92 | Spicy Glide |
+| 1343 | 92 | Natassia Miller |
 | 1344 | 91 | Matthew Krupansky |
-| 1345 | 91 | Funky Matchbuilder |
-| 1346 | 91 | Marla Erin Salas |
-| 1347 | 91 | Nicole Marie |
-| 1348 | 91 | Rayln Pedersen |
-| 1349 | 91 | Frisky Liney |
-| 1350 | 91 | Bluebird |
-| 1351 | 91 | Skyelandor |
-| 1352 | 91 | Peachy Balanceblock |
-| 1353 | 90 | Chastity Speight |
-| 1354 | 90 | Jam |
-| 1355 | 90 | Maria Maloney |
-| 1356 | 90 | Brian |
-| 1357 | 90 | Jeremy Horrach |
-| 1358 | 90 | McGee |
-| 1359 | 90 | Harry Matthew |
-| 1360 | 90 | Grace Gieroski |
-| 1361 | 90 | Jesse Stephenson |
-| 1362 | 90 | DeeDee |
-| 1363 | 89 | Ghost |
-| 1364 | 89 | Kenton Billings |
-| 1365 | 89 | Chibuike Stephen Ndubunka |
+| 1345 | 91 | Skyelandor |
+| 1346 | 91 | Rayln Pedersen |
+| 1347 | 91 | Jason Whitehead |
+| 1348 | 91 | Funky Matchbuilder |
+| 1349 | 91 | Marla Erin Salas |
+| 1350 | 91 | Nicole Marie |
+| 1351 | 91 | Frisky Liney |
+| 1352 | 91 | Bluebird |
+| 1353 | 91 | Peachy Balanceblock |
+| 1354 | 90 | Jesse Stephenson |
+| 1355 | 90 | McGee |
+| 1356 | 90 | DeeDee |
+| 1357 | 90 | Brian |
+| 1358 | 90 | Harry Matthew |
+| 1359 | 90 | Jeremy Horrach |
+| 1360 | 90 | Jam |
+| 1361 | 90 | Chastity Speight |
+| 1362 | 90 | Maria Maloney |
+| 1363 | 90 | Grace Gieroski |
+| 1364 | 89 | 杜庭維 |
+| 1365 | 89 | Ghost |
 | 1366 | 89 | FableGray |
-| 1367 | 89 | Lacey Breanna Smith |
-| 1368 | 89 | 杜庭維 |
-| 1369 | 89 | Victoria Montenegro Martinez |
-| 1370 | 88 | Andee Bo Bandee |
-| 1371 | 88 | Tom Sackett |
-| 1372 | 88 | Kandie Marie |
-| 1373 | 88 | Gewb |
-| 1374 | 88 | Giddy Blockbuilder |
-| 1375 | 88 | Allison |
-| 1376 | 88 | Amy Lynn |
+| 1367 | 89 | Kenton Billings |
+| 1368 | 89 | Chibuike Stephen Ndubunka |
+| 1369 | 89 | Lacey Breanna Smith |
+| 1370 | 89 | Victoria Montenegro Martinez |
+| 1371 | 88 | Allison |
+| 1372 | 88 | Amy Lynn |
+| 1373 | 88 | Tom Sackett |
+| 1374 | 88 | Gewb |
+| 1375 | 88 | Andee Bo Bandee |
+| 1376 | 88 | Kandie Marie |
 | 1377 | 88 | Jason Aleshire |
-| 1378 | 87 | Heaven White |
-| 1379 | 87 | Cranky Dash |
-| 1380 | 87 | Sanita Latham |
+| 1378 | 87 | Larry Brazil |
+| 1379 | 87 | Sanita Latham |
+| 1380 | 87 | Cranky Dash |
 | 1381 | 87 | Patricia Mills |
-| 1382 | 87 | Larry Brazil |
-| 1383 | 86 | Silly Patternblock |
+| 1382 | 87 | Heaven White |
+| 1383 | 86 | Stephanie |
 | 1384 | 86 | Charles Holland |
 | 1385 | 86 | Barbara Benjamin |
-| 1386 | 86 | Leann Nolley |
-| 1387 | 86 | Stephanie |
-| 1388 | 86 | Hoppy Snapgrid |
+| 1386 | 86 | Hoppy Snapgrid |
+| 1387 | 86 | Leann Nolley |
+| 1388 | 86 | Silly Patternblock |
 | 1389 | 86 | Stephanie Mounts |
-| 1390 | 85 | Skuba Cece |
-| 1391 | 85 | Bwebb Bryan |
-| 1392 | 85 | weezy |
-| 1393 | 85 | Bob Thorp |
+| 1390 | 85 | Bwebb Bryan |
+| 1391 | 85 | Skuba Cece |
+| 1392 | 85 | Bob Thorp |
+| 1393 | 85 | weezy |
 | 1394 | 84 | Purp |
 | 1395 | 84 | Chirpy Tiler |
 | 1396 | 84 | Ashley Freeman |
