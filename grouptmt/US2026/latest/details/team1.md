@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 17:30:44 UTC
+# Standings for team1 as of 2026-02-25 17:31:23 UTC
 
 **Total Participants:** 2505
 
@@ -276,9 +276,9 @@
 | 268 | 497 | Sylvia Vasquez |
 | 269 | 495 | Rayline M Bradshaw |
 | 270 | 495 | Ananda Mendez |
-| 271 | 493 | Brendan Sullivan |
-| 272 | 491 | Yvonne Marie |
-| 273 | 489 | Betsy |
+| 271 | 494 | Betsy |
+| 272 | 493 | Brendan Sullivan |
+| 273 | 491 | Yvonne Marie |
 | 274 | 486 | Brenda Alexander |
 | 275 | 486 | Tyler Hertzog |
 | 276 | 485 | Alenoush Karimian |
@@ -456,35 +456,35 @@
 | 448 | 355 | Ma stoken |
 | 449 | 354 | Purple |
 | 450 | 353 | Josh Riemer |
-| 451 | 352 | John Dixon |
-| 452 | 352 | Lachelle Dillon |
-| 453 | 351 | Tavia |
-| 454 | 350 | Jeanna Dunn |
-| 455 | 349 | Yahowah |
-| 456 | 349 | Beazel75 |
-| 457 | 348 | Debbie Davis |
-| 458 | 346 | Brandie Gallegos |
-| 459 | 345 | Ric Hard Hernandez |
-| 460 | 345 | Rachel Rogers |
+| 451 | 352 | Brandie Gallegos |
+| 452 | 352 | John Dixon |
+| 453 | 352 | Lachelle Dillon |
+| 454 | 351 | Tavia |
+| 455 | 350 | Jeanna Dunn |
+| 456 | 349 | Yahowah |
+| 457 | 349 | Beazel75 |
+| 458 | 348 | Debbie Davis |
+| 459 | 345 | Rachel Rogers |
+| 460 | 345 | Ric Hard Hernandez |
 | 461 | 344 | Randy Broadwater |
-| 462 | 343 | Missy Broz McNees |
+| 462 | 343 | Mariah Cornell |
 | 463 | 343 | Nate Funk |
 | 464 | 343 | Susie Loo |
-| 465 | 343 | Allena Craft |
-| 466 | 343 | Mariah Cornell |
+| 465 | 343 | Missy Broz McNees |
+| 466 | 343 | Allena Craft |
 | 467 | 342 | Christina Norman |
 | 468 | 342 | Marianita Garcia |
 | 469 | 341 | Frisky Base |
-| 470 | 340 | Toph |
+| 470 | 340 | Dawon Ksk Capers |
 | 471 | 340 | Zesty Brickzone |
-| 472 | 340 | Dawon Ksk Capers |
-| 473 | 339 | Chilly Riserpiece |
-| 474 | 339 | Joe Coon |
-| 475 | 339 | LC |
-| 476 | 338 | Justin Canape |
-| 477 | 338 | cheeseman |
-| 478 | 336 | Mavria Comeaux Hinton |
-| 479 | 336 | Steven Collins |
+| 472 | 340 | Toph |
+| 473 | 339 | Joe Coon |
+| 474 | 339 | LC |
+| 475 | 339 | Chilly Riserpiece |
+| 476 | 338 | cheeseman |
+| 477 | 338 | Justin Canape |
+| 478 | 336 | Steven Collins |
+| 479 | 336 | Mavria Comeaux Hinton |
 | 480 | 335 | Archie Ware |
 | 481 | 335 | GentleKitten7 |
 | 482 | 335 | Ashley Rodriguez |
@@ -730,25 +730,25 @@
 | 722 | 231 | Speedy Balancepiece |
 | 723 | 231 | Hector Cruz |
 | 724 | 230 | Riley Lee |
-| 725 | 229 | squareMel |
-| 726 | 228 | Jai Pahpasay |
-| 727 | 228 | Jeff Newinski |
-| 728 | 228 | Negan Mallory Knoxx Spence |
-| 729 | 227 | Spunky Builderpiece |
-| 730 | 227 | Daniel Lorquet |
-| 731 | 227 | Bruce Cruz |
-| 732 | 226 | Elizabeth Coover |
-| 733 | 226 | Kathryn Chiles Anderson |
-| 734 | 226 | Piffy |
-| 735 | 226 | Irual Hctrab |
+| 725 | 229 | Irual Hctrab |
+| 726 | 229 | squareMel |
+| 727 | 228 | Jai Pahpasay |
+| 728 | 228 | Jeff Newinski |
+| 729 | 228 | Negan Mallory Knoxx Spence |
+| 730 | 227 | Spunky Builderpiece |
+| 731 | 227 | Daniel Lorquet |
+| 732 | 227 | Bruce Cruz |
+| 733 | 226 | Elizabeth Coover |
+| 734 | 226 | Kathryn Chiles Anderson |
+| 735 | 226 | Piffy |
 | 736 | 225 | Ramona Mittelstadt |
-| 737 | 223 | Isodor |
-| 738 | 223 | Britney Marie Burton Cole |
+| 737 | 223 | Britney Marie Burton Cole |
+| 738 | 223 | Isodor |
 | 739 | 223 | Dawn Cox |
 | 740 | 223 | Swanky Patternfit |
 | 741 | 222 | Becky Coker |
-| 742 | 221 | Amy Hess |
-| 743 | 221 | Pace |
+| 742 | 221 | Pace |
+| 743 | 221 | Amy Hess |
 | 744 | 221 | Edgar Algiere |
 | 745 | 220 | Marie Fox |
 | 746 | 219 | Rory Eviltwin Bayer |
@@ -974,53 +974,53 @@
 | 966 | 165 | Dante Jennings |
 | 967 | 165 | Daring Tilerpiece |
 | 968 | 165 | sassy |
-| 969 | 164 | Rockin Red |
+| 969 | 165 | David Hernandez |
 | 970 | 164 | Meechie |
-| 971 | 164 | CMG |
-| 972 | 164 | Toespixe |
-| 973 | 164 | Billie Garrett |
-| 974 | 164 | Nellie Cummings |
-| 975 | 164 | Shawn Rodgers |
-| 976 | 164 | Brahim Amara |
-| 977 | 163 | Snippy Piecefit |
-| 978 | 163 | Perla Silva |
+| 971 | 164 | Brahim Amara |
+| 972 | 164 | CMG |
+| 973 | 164 | Toespixe |
+| 974 | 164 | Billie Garrett |
+| 975 | 164 | Rockin Red |
+| 976 | 164 | Nellie Cummings |
+| 977 | 164 | Shawn Rodgers |
+| 978 | 163 | Ali Ward |
 | 979 | 163 | Erik Hesner |
-| 980 | 163 | Trisha Matthews |
-| 981 | 163 | Ali Ward |
-| 982 | 163 | Susan Good |
-| 983 | 162 | Steve Robinson |
-| 984 | 162 | David Hernandez |
-| 985 | 162 | Tara |
+| 980 | 163 | Perla Silva |
+| 981 | 163 | Trisha Matthews |
+| 982 | 163 | Snippy Piecefit |
+| 983 | 163 | Susan Good |
+| 984 | 162 | Tara |
+| 985 | 162 | Steve Robinson |
 | 986 | 162 | Sari Jones |
 | 987 | 162 | Loony Patternbuilder |
-| 988 | 161 | Sheay |
-| 989 | 161 | Christine Smith |
+| 988 | 161 | Christine Smith |
+| 989 | 161 | Sheay |
 | 990 | 160 | Lively Buildout |
-| 991 | 159 | Shannon Elizabeth |
-| 992 | 159 | Christina Gutierrez |
-| 993 | 159 | Josh Watters |
+| 991 | 159 | Josh Watters |
+| 992 | 159 | Shannon Elizabeth |
+| 993 | 159 | Christina Gutierrez |
 | 994 | 159 | Cozy Cascader |
 | 995 | 158 | SophieG |
-| 996 | 158 | Hungsolo9 |
+| 996 | 158 | Frilly Fitblock |
 | 997 | 158 | Cree |
-| 998 | 158 | Frilly Fitblock |
+| 998 | 158 | Hungsolo9 |
 | 999 | 157 | Beeboe17 |
-| 1000 | 157 | Brynn Elizabeth |
-| 1001 | 157 | Linda Williams |
-| 1002 | 157 | Crystal Raffaele |
-| 1003 | 157 | Raven |
-| 1004 | 156 | Trisha Stiglet |
-| 1005 | 156 | Nicole Michele Barfield |
-| 1006 | 156 | Lashá Calloway |
-| 1007 | 156 | Tammy Autry |
-| 1008 | 155 | QUEENIE K |
-| 1009 | 155 | Chilly Glidezone |
-| 1010 | 155 | Tierney Birdsell |
-| 1011 | 155 | Sonya Gail Goodman |
-| 1012 | 155 | Peachy Cascader |
+| 1000 | 157 | Crystal Raffaele |
+| 1001 | 157 | Raven |
+| 1002 | 157 | Linda Williams |
+| 1003 | 157 | Brynn Elizabeth |
+| 1004 | 156 | Nicole Michele Barfield |
+| 1005 | 156 | Tammy Autry |
+| 1006 | 156 | Trisha Stiglet |
+| 1007 | 156 | Lashá Calloway |
+| 1008 | 155 | Sonya Gail Goodman |
+| 1009 | 155 | Tierney Birdsell |
+| 1010 | 155 | Chilly Glidezone |
+| 1011 | 155 | Peachy Cascader |
+| 1012 | 155 | QUEENIE K |
 | 1013 | 154 | Shanna Outen |
-| 1014 | 154 | John Kiser |
-| 1015 | 154 | Jennifer Chilton-Metlock |
+| 1014 | 154 | Jennifer Chilton-Metlock |
+| 1015 | 154 | John Kiser |
 | 1016 | 154 | CaityNicole |
 | 1017 | 154 | Kelly Marie Hennig |
 | 1018 | 154 | Shawn Thisismyoldaccount Gilmore |
