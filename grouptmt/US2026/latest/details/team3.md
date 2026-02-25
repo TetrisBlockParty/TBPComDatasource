@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-25 09:32:44 UTC
+# Standings for team3 as of 2026-02-25 09:33:22 UTC
 
 **Total Participants:** 3671
 
@@ -65,7 +65,7 @@
 | 57 | 2277 | Tina Kay |
 | 58 | 2216 | Shari Garber |
 | 59 | 2186 | Rachel Bowers |
-| 60 | 2159 | ren |
+| 60 | 2179 | ren |
 | 61 | 2148 | Denise Nardoni |
 | 62 | 2148 | Ashley Kiara |
 | 63 | 2146 | yoyo |
@@ -772,8 +772,8 @@
 | 764 | 310 | Kim Forehand |
 | 765 | 310 | BabyTonj Evans |
 | 766 | 309 | Mary Cantu |
-| 767 | 308 | Jillian Ann |
-| 768 | 308 | Uluvfai |
+| 767 | 309 | Uluvfai |
+| 768 | 308 | Jillian Ann |
 | 769 | 308 | ellie |
 | 770 | 308 | Chad |
 | 771 | 308 | Wancharlene Hercules |

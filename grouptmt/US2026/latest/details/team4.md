@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 09:32:44 UTC
+# Standings for team4 as of 2026-02-25 09:33:22 UTC
 
 **Total Participants:** 2190
 
@@ -87,9 +87,9 @@
 | 79 | 1150 | Denia Deni |
 | 80 | 1148 | Carolyn Wallace |
 | 81 | 1143 | Jewell Urban |
-| 82 | 1121 | BertMofo |
-| 83 | 1116 | Girl |
-| 84 | 1110 | Guy Incognito |
+| 82 | 1130 | Guy Incognito |
+| 83 | 1121 | BertMofo |
+| 84 | 1116 | Girl |
 | 85 | 1092 | Peachy Fall |
 | 86 | 1090 | Destiney Carter |
 | 87 | 1082 | Dion Crommarty |
@@ -140,14 +140,14 @@
 | 132 | 802 | Crystal Carroll |
 | 133 | 788 | Lucas J Sutton |
 | 134 | 786 | Austin Owens |
-| 135 | 783 | Nikki Rae Gordon |
-| 136 | 781 | Savannah Overdorf |
-| 137 | 774 | Lindsey Gonzalez |
-| 138 | 771 | Tracey Lehmann |
-| 139 | 770 | Jamie Mann-Deichmann |
-| 140 | 766 | Robin Watters |
-| 141 | 765 | Serena Goodridge |
-| 142 | 763 | Nugget |
+| 135 | 783 | Nugget |
+| 136 | 783 | Nikki Rae Gordon |
+| 137 | 781 | Savannah Overdorf |
+| 138 | 774 | Lindsey Gonzalez |
+| 139 | 771 | Tracey Lehmann |
+| 140 | 770 | Jamie Mann-Deichmann |
+| 141 | 766 | Robin Watters |
+| 142 | 765 | Serena Goodridge |
 | 143 | 756 | Adawna Swires |
 | 144 | 753 | H.R. Block |
 | 145 | 752 | Jessica Lynn Cutlip |
@@ -278,10 +278,10 @@
 | 270 | 495 | Joeliecea Cobb |
 | 271 | 494 | Zakia Monae |
 | 272 | 493 | David Lay |
-| 273 | 489 | Laura |
-| 274 | 489 | Dan Wold |
-| 275 | 484 | Jen Mattei |
-| 276 | 480 | Sandra Safford |
+| 273 | 492 | Sandra Safford |
+| 274 | 489 | Laura |
+| 275 | 489 | Dan Wold |
+| 276 | 484 | Jen Mattei |
 | 277 | 479 | Selena Shaw |
 | 278 | 479 | 23 |
 | 279 | 479 | mike |
