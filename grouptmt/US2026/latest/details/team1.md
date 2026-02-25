@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 07:40:20 UTC
+# Standings for team1 as of 2026-02-25 07:40:46 UTC
 
 **Total Participants:** 2433
 
@@ -287,14 +287,14 @@
 | 279 | 447 | Letson Melissa |
 | 280 | 446 | Dino |
 | 281 | 446 | Richard Butler |
-| 282 | 446 | Sunny Shift |
-| 283 | 446 | Irv |
-| 284 | 445 | Emily Adelaide Wheatley |
-| 285 | 445 | Sylvia Vasquez |
-| 286 | 445 | Tetrisqn |
-| 287 | 444 | Lakeisha Chapman |
-| 288 | 444 | Ananda Mendez |
-| 289 | 444 | Dizzy Party |
+| 282 | 446 | Dizzy Party |
+| 283 | 446 | Sunny Shift |
+| 284 | 446 | Irv |
+| 285 | 445 | Emily Adelaide Wheatley |
+| 286 | 445 | Sylvia Vasquez |
+| 287 | 445 | Tetrisqn |
+| 288 | 444 | Lakeisha Chapman |
+| 289 | 444 | Ananda Mendez |
 | 290 | 443 | Colleen Pinette |
 | 291 | 443 | MommaKFC |
 | 292 | 442 | GringaLinga |
@@ -624,75 +624,75 @@
 | 616 | 254 | Lil H |
 | 617 | 254 | Sheri Read |
 | 618 | 254 | Jenny Hughes |
-| 619 | 253 | Bay Marie |
-| 620 | 253 | Flashy Crawler |
+| 619 | 253 | Flashy Crawler |
+| 620 | 253 | Bay Marie |
 | 621 | 253 | Jonah Dunn |
 | 622 | 253 | Shiny Rotate |
 | 623 | 252 | grizzly |
-| 624 | 252 | Jordan Brooks |
-| 625 | 252 | William Blackwell |
+| 624 | 252 | William Blackwell |
+| 625 | 252 | Jordan Brooks |
 | 626 | 251 | Ruf Lowman |
 | 627 | 250 | Dandy Towerbuilder |
 | 628 | 249 | Lauren Baxter |
 | 629 | 248 | Liliana Pena |
 | 630 | 248 | Burnnetter Sisk |
 | 631 | 248 | Andrew Boone |
-| 632 | 247 | Nate Carter |
-| 633 | 247 | Nikki Fridley |
-| 634 | 247 | Michelle Deans |
-| 635 | 247 | Dandy Glider |
+| 632 | 247 | Dandy Glider |
+| 633 | 247 | Michelle Deans |
+| 634 | 247 | Nikki Fridley |
+| 635 | 247 | Nate Carter |
 | 636 | 246 | Frothy Blockbuilder |
-| 637 | 246 | Nicole Nikki |
-| 638 | 246 | ken |
+| 637 | 246 | ken |
+| 638 | 246 | Nicole Nikki |
 | 639 | 245 | Nutty Glide |
 | 640 | 245 | Sarah Barrow |
 | 641 | 245 | Corkey Steinmark |
 | 642 | 244 | Robin Burress |
 | 643 | 243 | Shay J Duval |
-| 644 | 242 | Dawn Rannelli |
-| 645 | 242 | Renata Mabie |
-| 646 | 242 | Kirk Torrey |
-| 647 | 241 | Hdhshsn |
-| 648 | 241 | Lush Zoney |
-| 649 | 241 | Kellie Tunstall |
-| 650 | 241 | Misty Hall Zaranti |
-| 651 | 241 | Mavria Comeaux Hinton |
+| 644 | 242 | Renata Mabie |
+| 645 | 242 | Kirk Torrey |
+| 646 | 242 | Dawn Rannelli |
+| 647 | 241 | Lush Zoney |
+| 648 | 241 | Hdhshsn |
+| 649 | 241 | Mavria Comeaux Hinton |
+| 650 | 241 | Kellie Tunstall |
+| 651 | 241 | Misty Hall Zaranti |
 | 652 | 240 | Jessica Imboden |
-| 653 | 239 | Mel Hogan |
-| 654 | 239 | Dizzy Rackham |
-| 655 | 239 | Matt Cinelli |
-| 656 | 239 | Bucketsmasher |
-| 657 | 238 | Lucinda Thacker |
+| 653 | 239 | Bucketsmasher |
+| 654 | 239 | Mel Hogan |
+| 655 | 239 | Dizzy Rackham |
+| 656 | 239 | Matt Cinelli |
+| 657 | 238 | Ashley Rodriguez |
 | 658 | 238 | Kanesha Jackson |
-| 659 | 238 | Ashley Rodriguez |
-| 660 | 237 | Gina Fontana Meier |
-| 661 | 237 | Jonathan Joshua |
-| 662 | 237 | Lark |
-| 663 | 236 | Mortious |
-| 664 | 236 | Boldy Snapfit |
-| 665 | 236 | Slinky Tile |
-| 666 | 235 | Owicked1 |
+| 659 | 238 | Lucinda Thacker |
+| 660 | 237 | Lark |
+| 661 | 237 | Gina Fontana Meier |
+| 662 | 237 | Jonathan Joshua |
+| 663 | 236 | Slinky Tile |
+| 664 | 236 | Mortious |
+| 665 | 236 | Boldy Snapfit |
+| 666 | 235 | Sarah Henniker |
 | 667 | 235 | Jana Hutcheson |
-| 668 | 235 | Sarah Henniker |
-| 669 | 234 | Aaron Green |
-| 670 | 234 | Christina Torres |
-| 671 | 234 | Krazykat💋❤️💋 |
-| 672 | 234 | Ruby Sandberg |
+| 668 | 235 | Owicked1 |
+| 669 | 234 | Ruby Sandberg |
+| 670 | 234 | Krazykat💋❤️💋 |
+| 671 | 234 | Aaron Green |
+| 672 | 234 | Christina Torres |
 | 673 | 233 | Tina Englert |
 | 674 | 233 | Hyper Tilemaker |
 | 675 | 233 | Sherri E Woods Hess |
 | 676 | 232 | Tina Sinclair |
-| 677 | 231 | Hector Cruz |
-| 678 | 231 | Dawn Henderson |
+| 677 | 231 | Dawn Henderson |
+| 678 | 231 | Hector Cruz |
 | 679 | 231 | Sarah Cassese |
 | 680 | 230 | Jennifer Crawford |
 | 681 | 229 | Mindy Gloska |
-| 682 | 228 | Negan Mallory Knoxx Spence |
-| 683 | 228 | Chyna Mae |
+| 682 | 229 | Chyna Mae |
+| 683 | 228 | Negan Mallory Knoxx Spence |
 | 684 | 228 | Jai Pahpasay |
 | 685 | 227 | Mary M Brion |
-| 686 | 227 | Daniel Lorquet |
-| 687 | 227 | Spunky Builderpiece |
+| 686 | 227 | Spunky Builderpiece |
+| 687 | 227 | Daniel Lorquet |
 | 688 | 227 | Craig Mcgonigle |
 | 689 | 226 | yoyoluv |
 | 690 | 225 | Ramona Mittelstadt |
@@ -802,11 +802,11 @@
 | 794 | 194 | Natiera Catrece |
 | 795 | 194 | Elyse YL |
 | 796 | 194 | Giggly Brickbuilder |
-| 797 | 194 | Marie Fox |
-| 798 | 194 | Shano Rae |
-| 799 | 193 | Patience D. Williams |
-| 800 | 193 | Alyssa Ingram |
-| 801 | 193 | Lisa Marie |
+| 797 | 194 | Lisa Marie |
+| 798 | 194 | Marie Fox |
+| 799 | 194 | Shano Rae |
+| 800 | 193 | Patience D. Williams |
+| 801 | 193 | Alyssa Ingram |
 | 802 | 193 | Amador López Martínez |
 | 803 | 192 | MayMay Echevarria |
 | 804 | 192 | Katie Bell |
