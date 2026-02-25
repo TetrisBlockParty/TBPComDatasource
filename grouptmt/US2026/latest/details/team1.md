@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 00:36:43 UTC
+# Standings for team1 as of 2026-02-25 00:37:23 UTC
 
 **Total Participants:** 2352
 
@@ -255,8 +255,8 @@
 | 247 | 460 | Tyler L Hunt |
 | 248 | 458 | Angela Renea Lester |
 | 249 | 458 | Rayline M Bradshaw |
-| 250 | 458 | Goose egg |
-| 251 | 458 | Monica Donato |
+| 250 | 458 | Monica Donato |
+| 251 | 458 | Goose egg |
 | 252 | 457 | Spencer Lent |
 | 253 | 454 | Jamie Jury |
 | 254 | 453 | Kimmie Kimms |
@@ -264,32 +264,32 @@
 | 256 | 453 | Chantelle Ceno |
 | 257 | 452 | Jo Kerley |
 | 258 | 451 | Jen Nystrom |
-| 259 | 450 | Jamise Brown |
-| 260 | 449 | pjbeta |
-| 261 | 447 | Wayne Saunders |
-| 262 | 446 | Richard Butler |
-| 263 | 446 | Dino |
+| 259 | 450 | Dreamy Drop |
+| 260 | 450 | Jamise Brown |
+| 261 | 449 | pjbeta |
+| 262 | 447 | Wayne Saunders |
+| 263 | 446 | Richard Butler |
 | 264 | 446 | Letson Melissa |
-| 265 | 445 | Emily Adelaide Wheatley |
-| 266 | 444 | Lakeisha Chapman |
-| 267 | 444 | Cece Ibarra |
-| 268 | 443 | Tami Luce Martin |
-| 269 | 441 | Shiny Snapfit |
-| 270 | 441 | Chris Sigurdson |
-| 271 | 439 | Alenoush Karimian |
+| 265 | 446 | Dino |
+| 266 | 445 | Emily Adelaide Wheatley |
+| 267 | 444 | Lakeisha Chapman |
+| 268 | 444 | Cece Ibarra |
+| 269 | 443 | Tami Luce Martin |
+| 270 | 441 | Shiny Snapfit |
+| 271 | 441 | Chris Sigurdson |
 | 272 | 439 | Renee Tucker |
-| 273 | 438 | Melissa Bires Hussar |
-| 274 | 437 | Sunny Shift |
-| 275 | 436 | Sylvia Vasquez |
+| 273 | 439 | Alenoush Karimian |
+| 274 | 438 | Melissa Bires Hussar |
+| 275 | 437 | Sunny Shift |
 | 276 | 436 | build master |
-| 277 | 435 | Irv |
-| 278 | 434 | MommaKFC |
-| 279 | 431 | Tipsy Strikerpiece |
-| 280 | 430 | Dreamy Drop |
+| 277 | 436 | Sylvia Vasquez |
+| 278 | 435 | Irv |
+| 279 | 434 | MommaKFC |
+| 280 | 431 | Tipsy Strikerpiece |
 | 281 | 429 | Sarah Roberts |
 | 282 | 429 | Ananda Mendez |
-| 283 | 428 | LD1 |
-| 284 | 428 | Poppy Riserpiece |
+| 283 | 428 | Poppy Riserpiece |
+| 284 | 428 | LD1 |
 | 285 | 427 | Paula Martin |
 | 286 | 427 | David Lutcher |
 | 287 | 427 | Colleen Pinette |
@@ -381,9 +381,9 @@
 | 373 | 360 | dhardy |
 | 374 | 359 | LaFontaine Leslie |
 | 375 | 359 | Rodney Schmerfeld |
-| 376 | 357 | Jasmine Riley |
-| 377 | 357 | Sonia Marquis |
-| 378 | 356 | Glitzy Grid |
+| 376 | 358 | Glitzy Grid |
+| 377 | 357 | Jasmine Riley |
+| 378 | 357 | Sonia Marquis |
 | 379 | 356 | Patty Lavigne Craddock |
 | 380 | 356 | Lyn Sibayan |
 | 381 | 353 | Chummy Rollblock |
@@ -422,12 +422,12 @@
 | 414 | 332 | Susie Loo |
 | 415 | 331 | Lisa Miller |
 | 416 | 330 | Rebecca Apley Mielke |
-| 417 | 329 | Amber Dee |
-| 418 | 329 | Jennifer Olewnik Soborowski |
-| 419 | 328 | Allena Craft |
-| 420 | 327 | Jessie |
-| 421 | 327 | Agustin Duarte Orozco |
-| 422 | 327 | Joe Coon |
+| 417 | 330 | Joe Coon |
+| 418 | 329 | Amber Dee |
+| 419 | 329 | Jennifer Olewnik Soborowski |
+| 420 | 328 | Allena Craft |
+| 421 | 327 | Jessie |
+| 422 | 327 | Agustin Duarte Orozco |
 | 423 | 326 | Rico Rico |
 | 424 | 326 | Steven Collins |
 | 425 | 325 | Tiffany Smith |
@@ -515,21 +515,21 @@
 | 507 | 285 | Ruthie Mahoney Saunders-Browne |
 | 508 | 285 | Archie Ware |
 | 509 | 284 | Funky Piecebuilder |
-| 510 | 284 | Mary Cerciello |
-| 511 | 283 | Matthew Foley |
-| 512 | 283 | Franswa |
-| 513 | 283 | MamaB24 |
-| 514 | 282 | Pauline Cortez |
-| 515 | 282 | Gilbert Ortiz Jr. |
-| 516 | 282 | Timothy Dew |
-| 517 | 281 | Tiffany Trinh |
-| 518 | 280 | Llewej Rekab |
-| 519 | 280 | Mary Sheets |
-| 520 | 279 | Sabrina Coleman |
+| 510 | 284 | Theeranart Mahawan |
+| 511 | 284 | Mary Cerciello |
+| 512 | 283 | Matthew Foley |
+| 513 | 283 | Franswa |
+| 514 | 283 | MamaB24 |
+| 515 | 282 | Pauline Cortez |
+| 516 | 282 | Gilbert Ortiz Jr. |
+| 517 | 282 | Timothy Dew |
+| 518 | 281 | Tiffany Trinh |
+| 519 | 280 | Llewej Rekab |
+| 520 | 280 | Mary Sheets |
 | 521 | 279 | Chris Dawson |
-| 522 | 278 | Sassy Towerer |
-| 523 | 278 | Thorne Shumate |
-| 524 | 278 | Theeranart Mahawan |
+| 522 | 279 | Sabrina Coleman |
+| 523 | 278 | Sassy Towerer |
+| 524 | 278 | Thorne Shumate |
 | 525 | 277 | Lucile Lynn |
 | 526 | 277 | Jake Mcnabb |
 | 527 | 277 | Gerald Richard Franke |
@@ -2203,32 +2203,32 @@
 | 2195 | 12 | Christine Robin Hamilton |
 | 2196 | 12 | Adam Murray Knapp |
 | 2197 | 12 | Zesty Strike |
-| 2198 | 12 | Katie Regan |
+| 2198 | 12 | Bro_BRIAN |
 | 2199 | 12 | Donte Lester |
 | 2200 | 12 | MiaBella |
-| 2201 | 12 | Brandis Elder |
-| 2202 | 12 | Venus Hobson |
+| 2201 | 12 | Tipsy Gridclear |
+| 2202 | 12 | Summer Routt |
 | 2203 | 12 | Karen Berkenstock |
-| 2204 | 12 | Tipsy Gridclear |
-| 2205 | 12 | Summer Routt |
-| 2206 | 11 | Lazy Stacky |
-| 2207 | 11 | Renall Santos |
-| 2208 | 11 | Plucky Brickbuilder |
-| 2209 | 11 | MoMo Vas |
-| 2210 | 11 | Lori LeClaire Andersen |
-| 2211 | 11 | Richardwertz |
-| 2212 | 11 | Princess7313 |
-| 2213 | 11 | Raymond Kingman |
-| 2214 | 11 | Moe |
-| 2215 | 11 | Kirsten Haddock |
+| 2204 | 12 | Venus Hobson |
+| 2205 | 12 | Brandis Elder |
+| 2206 | 12 | Katie Regan |
+| 2207 | 11 | Princess7313 |
+| 2208 | 11 | Richardwertz |
+| 2209 | 11 | Lori LeClaire Andersen |
+| 2210 | 11 | Raymond Kingman |
+| 2211 | 11 | Moe |
+| 2212 | 11 | MoMo Vas |
+| 2213 | 11 | Plucky Brickbuilder |
+| 2214 | 11 | Kirsten Haddock |
+| 2215 | 11 | Renall Santos |
 | 2216 | 11 | Seapea |
 | 2217 | 11 | Dreamy Linkblock |
 | 2218 | 11 | Nerdy Fallzone |
 | 2219 | 11 | Ron L Thompson |
 | 2220 | 11 | NoSyLa |
 | 2221 | 11 | Sandra Lieder Perez |
-| 2222 | 10 | Kim Sweeney |
-| 2223 | 10 | Bro_BRIAN |
+| 2222 | 11 | Lazy Stacky |
+| 2223 | 10 | Kim Sweeney |
 | 2224 | 10 | dwarfman |
 | 2225 | 10 | Lex |
 | 2226 | 10 | Amanda Diane Hill |
