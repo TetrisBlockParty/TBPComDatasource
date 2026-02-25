@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 22:46:45 UTC
+# Standings for team1 as of 2026-02-25 22:47:22 UTC
 
 **Total Participants:** 2547
 
@@ -53,7 +53,7 @@
 | 45 | 1808 | Rahna Underwood |
 | 46 | 1794 | Lola Adkhambekovna |
 | 47 | 1774 | Chipper Gridlock |
-| 48 | 1748 | Veronica Eve |
+| 48 | 1757 | Veronica Eve |
 | 49 | 1719 | Trippy Redd |
 | 50 | 1686 | Jessica Sheehan |
 | 51 | 1664 | Tyler Alcock |
@@ -128,7 +128,7 @@
 | 120 | 953 | Sevens4L |
 | 121 | 951 | Robert Benito |
 | 122 | 946 | Susan Ward |
-| 123 | 932 | Stephanie Leday |
+| 123 | 937 | Stephanie Leday |
 | 124 | 929 | Denice Dee |
 | 125 | 921 | Bob |
 | 126 | 916 | Chirpy Smasher |
@@ -655,11 +655,11 @@
 | 647 | 267 | Dandy Towerbuilder |
 | 648 | 267 | Blake Cobb |
 | 649 | 267 | Gina Fontana Meier |
-| 650 | 265 | Khatia Sikharulidze |
-| 651 | 264 | Nicole Nikki |
-| 652 | 264 | Margaret Rose |
-| 653 | 263 | Hdhshsn |
-| 654 | 263 | Gremb |
+| 650 | 265 | Gremb |
+| 651 | 265 | Khatia Sikharulidze |
+| 652 | 264 | Nicole Nikki |
+| 653 | 264 | Margaret Rose |
+| 654 | 263 | Hdhshsn |
 | 655 | 262 | Tipsy Tiltpiece |
 | 656 | 262 | Dee Doris Ewald Flynn |
 | 657 | 261 | Riley Lee |
@@ -808,8 +808,8 @@
 | 800 | 211 | Jennifer Chilton-Metlock |
 | 801 | 211 | Roxy Cohen-Skalli |
 | 802 | 210 | Christian Corral |
-| 803 | 209 | Lively Wipeout |
-| 804 | 208 | Lisa Marie |
+| 803 | 209 | Lisa Marie |
+| 804 | 209 | Lively Wipeout |
 | 805 | 208 | Donna Addison Williams |
 | 806 | 208 | Jason Landon Sexton |
 | 807 | 208 | Paul Gates |
