@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 09:26:44 UTC
+# Standings for team4 as of 2026-02-25 09:27:22 UTC
 
 **Total Participants:** 2190
 
@@ -237,7 +237,7 @@
 | 229 | 550 | J-Rizzle |
 | 230 | 547 | DonMega |
 | 231 | 546 | Ericca Eldridge |
-| 232 | 542 | Kimberlee Jan Beckstead |
+| 232 | 544 | Kimberlee Jan Beckstead |
 | 233 | 539 | scott |
 | 234 | 538 | Trish |
 | 235 | 537 | Scott Jameson |
@@ -636,49 +636,49 @@
 | 628 | 240 | Faja |
 | 629 | 240 | Zach Kerbs |
 | 630 | 240 | Bigeddie |
-| 631 | 240 | Katie McCabe |
-| 632 | 240 | Brad Campbell |
+| 631 | 240 | Brad Campbell |
+| 632 | 240 | Katie McCabe |
 | 633 | 239 | Rebecca A Rit |
 | 634 | 238 | Jennifer Dineen |
 | 635 | 238 | Cheaneen Livingston |
 | 636 | 238 | Kelly Williams |
 | 637 | 238 | Will Chamberlain |
 | 638 | 238 | sgt baby |
-| 639 | 237 | Courtney Halleck |
-| 640 | 236 | Wacky Blockclear |
-| 641 | 236 | JoJo |
-| 642 | 236 | Carlos Hernandez |
-| 643 | 236 | Nicole Serio |
+| 639 | 237 | Vamp |
+| 640 | 237 | Courtney Halleck |
+| 641 | 236 | Wacky Blockclear |
+| 642 | 236 | JoJo |
+| 643 | 236 | Carlos Hernandez |
 | 644 | 236 | Shane Vick |
-| 645 | 235 | Lynn Marie |
-| 646 | 235 | Richard |
-| 647 | 235 | LaDonna LovinmesomeMe Lambert |
-| 648 | 234 | B Renee Desjardin |
-| 649 | 234 | Terrance Fung |
-| 650 | 233 | Katie Alexander |
-| 651 | 233 | Satinleader |
-| 652 | 232 | Flashy Jumper |
+| 645 | 236 | Nicole Serio |
+| 646 | 235 | LaDonna LovinmesomeMe Lambert |
+| 647 | 235 | Richard |
+| 648 | 235 | Lynn Marie |
+| 649 | 234 | B Renee Desjardin |
+| 650 | 234 | Terrance Fung |
+| 651 | 233 | Katie Alexander |
+| 652 | 233 | Satinleader |
 | 653 | 232 | Kujuanna Hammon |
 | 654 | 232 | Paul-Eunice Mathewson |
-| 655 | 231 | Josh Chapell |
-| 656 | 231 | SammieJo Guy |
-| 657 | 231 | Sunny Filler |
-| 658 | 229 | Dante Korleon |
-| 659 | 229 | Demont Darius |
+| 655 | 232 | Flashy Jumper |
+| 656 | 231 | Josh Chapell |
+| 657 | 231 | SammieJo Guy |
+| 658 | 231 | Sunny Filler |
+| 659 | 229 | Dante Korleon |
 | 660 | 229 | Matthew Pate |
 | 661 | 229 | Steve |
-| 662 | 229 | Tisha Cammack |
-| 663 | 228 | Funky Risepiece |
-| 664 | 228 | Steven Roe |
-| 665 | 228 | Cozy Framezone |
-| 666 | 227 | Asher |
-| 667 | 227 | Walid Elsabee |
-| 668 | 227 | Karen Lambert |
-| 669 | 226 | Lazy Column |
-| 670 | 226 | Myra LaTrice |
+| 662 | 229 | Demont Darius |
+| 663 | 229 | Tisha Cammack |
+| 664 | 228 | Funky Risepiece |
+| 665 | 228 | Steven Roe |
+| 666 | 228 | Cozy Framezone |
+| 667 | 227 | Asher |
+| 668 | 227 | Walid Elsabee |
+| 669 | 227 | Karen Lambert |
+| 670 | 226 | Lazy Column |
 | 671 | 226 | Larry Agan |
-| 672 | 226 | Cozy Balancer |
-| 673 | 225 | Vamp |
+| 672 | 226 | Myra LaTrice |
+| 673 | 226 | Cozy Balancer |
 | 674 | 225 | Jobadia Steelerton |
 | 675 | 224 | Tabi Williams |
 | 676 | 224 | Jacob Campbell |
@@ -958,9 +958,9 @@
 | 950 | 147 | Robert Everett |
 | 951 | 146 | Katie Linneman-Rowland |
 | 952 | 146 | Bruce Gal |
-| 953 | 146 | Justin Davis |
-| 954 | 146 | Rampai |
-| 955 | 146 | Cassandra Stewart |
+| 953 | 146 | Cassandra Stewart |
+| 954 | 146 | Justin Davis |
+| 955 | 146 | Rampai |
 | 956 | 146 | Marjorie Sims Rentz |
 | 957 | 145 | Hoppy Combo |
 | 958 | 145 | Austin Trent Weaver |
@@ -969,58 +969,58 @@
 | 961 | 144 | Ken Cheney |
 | 962 | 144 | Spunky Tower |
 | 963 | 143 | Tyler Brown |
-| 964 | 143 | Perky Shatterer |
-| 965 | 143 | Peppy Tilebuilder |
+| 964 | 143 | Peppy Tilebuilder |
+| 965 | 143 | Perky Shatterer |
 | 966 | 143 | RobinC |
 | 967 | 143 | Sherri |
 | 968 | 142 | Frank Cook |
 | 969 | 142 | Gina Sexton Powell |
 | 970 | 142 | Juan Barron |
-| 971 | 141 | Lynella |
-| 972 | 141 | Loony Slide |
-| 973 | 141 | Shelly Goad |
-| 974 | 141 | Robert Sch |
+| 971 | 141 | Robert Sch |
+| 972 | 141 | Lynella |
+| 973 | 141 | Loony Slide |
+| 974 | 141 | Shelly Goad |
 | 975 | 141 | Amber bamber |
-| 976 | 140 | Shiny Matchfit |
+| 976 | 140 | Megan Crane |
 | 977 | 140 | Shiny Wipefit |
 | 978 | 140 | SloFut Mataryal BrownBwoy |
-| 979 | 140 | Megan Crane |
-| 980 | 140 | RonRico Thomas |
-| 981 | 138 | Takeshia Knowles |
-| 982 | 138 | Samantha Gamble |
-| 983 | 138 | Jamie Hirtle |
-| 984 | 138 | Clever Tilefall |
+| 979 | 140 | RonRico Thomas |
+| 980 | 140 | Shiny Matchfit |
+| 981 | 138 | Samantha Gamble |
+| 982 | 138 | Takeshia Knowles |
+| 983 | 138 | Clever Tilefall |
+| 984 | 138 | Jamie Hirtle |
 | 985 | 138 | JEan Price |
 | 986 | 137 | Lazy Blocker |
-| 987 | 137 | Renee |
-| 988 | 137 | Cj Lewis-haut |
-| 989 | 136 | deebop |
-| 990 | 136 | Garnet Glitz |
-| 991 | 136 | Jesse Jamez Crater |
-| 992 | 135 | Chummy Riserpiece |
-| 993 | 135 | Raeann Gibson |
+| 987 | 137 | Raeann Gibson |
+| 988 | 137 | Renee |
+| 989 | 137 | Cj Lewis-haut |
+| 990 | 136 | deebop |
+| 991 | 136 | Garnet Glitz |
+| 992 | 136 | Jesse Jamez Crater |
+| 993 | 135 | Chummy Riserpiece |
 | 994 | 134 | Vanita M Hemphill |
 | 995 | 134 | BlockBabe |
-| 996 | 134 | Twisty Towerpiece |
-| 997 | 134 | Alicia Atwater |
+| 996 | 134 | Alicia Atwater |
+| 997 | 134 | Twisty Towerpiece |
 | 998 | 134 | Cozy Matchclear |
 | 999 | 133 | BROOKE |
 | 1000 | 133 | Zzz |
-| 1001 | 132 | Aj Brantley Lpn |
-| 1002 | 132 | Kellie Tacuban |
+| 1001 | 132 | Kellie Tacuban |
+| 1002 | 132 | Aj Brantley Lpn |
 | 1003 | 132 | Jessica Cagle |
 | 1004 | 132 | Lynette Manning |
 | 1005 | 131 | Roseanna Anderson |
-| 1006 | 131 | DinoNuggie |
-| 1007 | 131 | Kerlyne Kay Toussaint Smith |
+| 1006 | 131 | Kerlyne Kay Toussaint Smith |
+| 1007 | 131 | DinoNuggie |
 | 1008 | 130 | Loony Slider |
 | 1009 | 130 | Snappy Combofall |
 | 1010 | 129 | Ryan Knives Vanderpool |
-| 1011 | 129 | Camille |
-| 1012 | 129 | Dreamy Snapgrid |
-| 1013 | 129 | Harper |
-| 1014 | 129 | Sweet Pea |
-| 1015 | 129 | Ninaforever |
+| 1011 | 129 | Harper |
+| 1012 | 129 | Sweet Pea |
+| 1013 | 129 | Ninaforever |
+| 1014 | 129 | Camille |
+| 1015 | 129 | Dreamy Snapgrid |
 | 1016 | 129 | Speedy Zigzag |
 | 1017 | 129 | Keri Hough |
 | 1018 | 128 | Bigg Guy |
