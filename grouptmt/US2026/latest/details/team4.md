@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 10:50:45 UTC
+# Standings for team4 as of 2026-02-25 10:51:23 UTC
 
 **Total Participants:** 2199
 
@@ -188,7 +188,7 @@
 | 180 | 648 | Jenna Ingersoll |
 | 181 | 647 | KM8 |
 | 182 | 643 | Dizzy Tiley |
-| 183 | 638 | Andy Cabral |
+| 183 | 642 | Andy Cabral |
 | 184 | 634 | Kathy Brookins |
 | 185 | 634 | JPW |
 | 186 | 633 | YoMomma |
@@ -215,12 +215,12 @@
 | 207 | 595 | Andria Lynn |
 | 208 | 592 | Kristin Manee |
 | 209 | 592 | meowmew |
-| 210 | 590 | Carlton Unfiltered |
-| 211 | 589 | Zesty Twistbuilder |
-| 212 | 589 | Jessica Bohlken |
-| 213 | 586 | Latisha Davis |
-| 214 | 586 | Angel Raya |
-| 215 | 586 | Trish |
+| 210 | 591 | Trish |
+| 211 | 590 | Carlton Unfiltered |
+| 212 | 589 | Zesty Twistbuilder |
+| 213 | 589 | Jessica Bohlken |
+| 214 | 586 | Latisha Davis |
+| 215 | 586 | Angel Raya |
 | 216 | 586 | Manny1 |
 | 217 | 585 | rebel4lyfe |
 | 218 | 583 | Erin Sabol |
@@ -339,8 +339,8 @@
 | 331 | 421 | JIGsaw ~(•¿°)~ |
 | 332 | 420 | KayM |
 | 333 | 419 | Nubian1 |
-| 334 | 417 | Jason Frehner |
-| 335 | 417 | Jason Bosco |
+| 334 | 419 | Jason Bosco |
+| 335 | 417 | Jason Frehner |
 | 336 | 416 | Allison Rose |
 | 337 | 416 | David Boggs |
 | 338 | 416 | Stacey Stano |
@@ -372,9 +372,9 @@
 | 364 | 392 | tipsy tiger |
 | 365 | 392 | Sarah Hoffman |
 | 366 | 392 | Angie Schmidt |
-| 367 | 391 | Amanda Maciel Clarke |
-| 368 | 391 | Jenna McGeorge |
-| 369 | 389 | Christine Simmons |
+| 367 | 391 | Christine Simmons |
+| 368 | 391 | Amanda Maciel Clarke |
+| 369 | 391 | Jenna McGeorge |
 | 370 | 388 | Megan Cutshaw |
 | 371 | 387 | George Tzouganos |
 | 372 | 387 | Ak Jones |
@@ -478,9 +478,9 @@
 | 470 | 316 | GTxIrishman |
 | 471 | 315 | Johnny R |
 | 472 | 315 | Jarred Falls |
-| 473 | 314 | Jonathan Mahfood |
-| 474 | 314 | L Bear Champion |
-| 475 | 313 | Jennifer Brown |
+| 473 | 314 | Jennifer Brown |
+| 474 | 314 | Jonathan Mahfood |
+| 475 | 314 | L Bear Champion |
 | 476 | 312 | ChuckBuck Copeland |
 | 477 | 312 | Jackson Karen |
 | 478 | 311 | Reds Bella |
@@ -919,28 +919,28 @@
 | 911 | 156 | Lauren R. Walls |
 | 912 | 156 | Kara Kaminski Rhinehart |
 | 913 | 156 | Brianna Walker |
-| 914 | 155 | Swanky Blockline |
-| 915 | 155 | Tabita Gonzalez |
-| 916 | 155 | Tipsy Zoney |
-| 917 | 155 | AjJess |
+| 914 | 155 | AjJess |
+| 915 | 155 | Tipsy Zoney |
+| 916 | 155 | Swanky Blockline |
+| 917 | 155 | Tabita Gonzalez |
 | 918 | 154 | Kari Rose Haché |
 | 919 | 154 | Saundra Miller |
-| 920 | 153 | Shane Hicks |
-| 921 | 153 | Gage |
-| 922 | 153 | Milly Johnson |
-| 923 | 153 | Peace |
-| 924 | 153 | Mike |
-| 925 | 153 | Sara Saxton Moon |
+| 920 | 153 | Sara Saxton Moon |
+| 921 | 153 | Peace |
+| 922 | 153 | Shane Hicks |
+| 923 | 153 | Milly Johnson |
+| 924 | 153 | Gage |
+| 925 | 153 | Mike |
 | 926 | 153 | Matt Narcisse |
 | 927 | 153 | Jenjen |
 | 928 | 152 | mitch |
 | 929 | 152 | April Chalfant |
-| 930 | 151 | Brittany Price |
+| 930 | 152 | Chirpy Balancer |
 | 931 | 151 | poopoo |
-| 932 | 151 | GMoney Rbt |
-| 933 | 151 | Hog Crankin |
-| 934 | 150 | Tiffany Root |
-| 935 | 150 | Chirpy Balancer |
+| 932 | 151 | Brittany Price |
+| 933 | 151 | GMoney Rbt |
+| 934 | 151 | Hog Crankin |
+| 935 | 150 | Tiffany Root |
 | 936 | 150 | Cari Underwood |
 | 937 | 150 | Bruce Harris |
 | 938 | 150 | Smiley Staggerpiece |
