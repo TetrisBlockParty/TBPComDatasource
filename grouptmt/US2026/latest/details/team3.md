@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-25 09:36:44 UTC
+# Standings for team3 as of 2026-02-25 09:37:24 UTC
 
 **Total Participants:** 3672
 
@@ -43,13 +43,13 @@
 | 35 | 2804 | Josiah Fam |
 | 36 | 2795 | Ray Lader |
 | 37 | 2761 | Brandon Green |
-| 38 | 2721 | Khristen AC |
-| 39 | 2705 | Gracie |
-| 40 | 2705 | Leah Barnett |
-| 41 | 2697 | River |
-| 42 | 2673 | Jennifer Petrie |
-| 43 | 2642 | Fran Lin |
-| 44 | 2635 | Judi Dobson |
+| 38 | 2735 | Judi Dobson |
+| 39 | 2721 | Khristen AC |
+| 40 | 2705 | Gracie |
+| 41 | 2705 | Leah Barnett |
+| 42 | 2697 | River |
+| 43 | 2673 | Jennifer Petrie |
+| 44 | 2642 | Fran Lin |
 | 45 | 2600 | Peggi Charon |
 | 46 | 2575 | Bjorn Neyt |
 | 47 | 2490 | Jamie Furr |
@@ -984,29 +984,29 @@
 | 976 | 253 | Coleena Kent Nicholson |
 | 977 | 253 | Krystal Kampagnola |
 | 978 | 252 | Meleray Wheeler |
-| 979 | 252 | Sara McDaniel |
-| 980 | 252 | Tanesha BigBabby Darling |
+| 979 | 252 | Tanesha BigBabby Darling |
+| 980 | 252 | Sara McDaniel |
 | 981 | 252 | Jesseca Hunsinger |
 | 982 | 251 | Kelly Koenig |
 | 983 | 251 | Donna S. Greene-Brathwaite |
-| 984 | 251 | Tori McCandless |
-| 985 | 251 | Anthony Jackson |
-| 986 | 250 | Amber Easterling |
-| 987 | 250 | Quindarius Broaden |
-| 988 | 250 | mia |
+| 984 | 251 | Victoria Winter Butler |
+| 985 | 251 | Tori McCandless |
+| 986 | 251 | Anthony Jackson |
+| 987 | 250 | Amber Easterling |
+| 988 | 250 | Quindarius Broaden |
 | 989 | 250 | Marcus Payton |
-| 990 | 250 | Josh Vietz |
-| 991 | 250 | Cranky Fitzone |
-| 992 | 250 | Danielle Patrick |
-| 993 | 250 | Randi Snyder |
-| 994 | 250 | Frothy Piececlear |
-| 995 | 249 | Loony Crawler |
-| 996 | 249 | IamPJ |
-| 997 | 249 | Coolata |
-| 998 | 249 | Hanul |
-| 999 | 248 | Brian Frickman |
-| 1000 | 248 | Victoria Winter Butler |
-| 1001 | 248 | Sarah Whalen |
+| 990 | 250 | mia |
+| 991 | 250 | Josh Vietz |
+| 992 | 250 | Cranky Fitzone |
+| 993 | 250 | Danielle Patrick |
+| 994 | 250 | Randi Snyder |
+| 995 | 250 | Frothy Piececlear |
+| 996 | 249 | Loony Crawler |
+| 997 | 249 | IamPJ |
+| 998 | 249 | Coolata |
+| 999 | 249 | Hanul |
+| 1000 | 248 | Sarah Whalen |
+| 1001 | 248 | Brian Frickman |
 | 1002 | 248 | Snarky McFace |
 | 1003 | 247 | Victoria Granger |
 | 1004 | 247 | Melanie Sherwood |
@@ -1014,11 +1014,11 @@
 | 1006 | 247 | Melissa Parlow-Callaway |
 | 1007 | 246 | Cheeky Blockline |
 | 1008 | 246 | Erica Anderson |
-| 1009 | 246 | Ashley Lindeland |
-| 1010 | 246 | Angela VanOstrand |
-| 1011 | 246 | Lexi |
-| 1012 | 245 | Chill Patternfit |
-| 1013 | 245 | Michelle Willcox |
+| 1009 | 246 | Angela VanOstrand |
+| 1010 | 246 | Lexi |
+| 1011 | 246 | Ashley Lindeland |
+| 1012 | 245 | Michelle Willcox |
+| 1013 | 245 | Chill Patternfit |
 | 1014 | 245 | Brooke Bauer |
 | 1015 | 244 | Timothy Troy Frazier |
 | 1016 | 244 | Jennifer Caputo |
@@ -1041,24 +1041,24 @@
 | 1033 | 240 | Comedian Gdane |
 | 1034 | 240 | demon14 |
 | 1035 | 239 | krazibtch |
-| 1036 | 238 | Robin LaChe |
-| 1037 | 238 | Audrey Scruton |
-| 1038 | 238 | Liz Mace |
-| 1039 | 238 | Snazzy Brickzone |
-| 1040 | 238 | Elaine Rodbell |
-| 1041 | 238 | Robin Rasure Woebkenberg |
+| 1036 | 238 | Liz Mace |
+| 1037 | 238 | Snazzy Brickzone |
+| 1038 | 238 | Robin Rasure Woebkenberg |
+| 1039 | 238 | Elaine Rodbell |
+| 1040 | 238 | Audrey Scruton |
+| 1041 | 238 | Robin LaChe |
 | 1042 | 238 | Nicole Cram |
 | 1043 | 237 | Marketa McClaster |
 | 1044 | 237 | Erin McGinnis Reinhart |
 | 1045 | 237 | Kacy Ramsey |
 | 1046 | 237 | MDJM |
-| 1047 | 237 | Heather Hymes |
-| 1048 | 237 | Jean Luc |
+| 1047 | 237 | Jean Luc |
+| 1048 | 237 | Heather Hymes |
 | 1049 | 236 | Drayton Keshawn |
-| 1050 | 236 | Nanyamka LeosRule Patterson |
-| 1051 | 236 | Lisa Bard |
-| 1052 | 235 | Rachell Barnett |
-| 1053 | 235 | Cozy Slice |
+| 1050 | 236 | Lisa Bard |
+| 1051 | 236 | Nanyamka LeosRule Patterson |
+| 1052 | 235 | Cozy Slice |
+| 1053 | 235 | Rachell Barnett |
 | 1054 | 235 | Stephanie Whitefield |
 | 1055 | 235 | Shelby Crawford |
 | 1056 | 234 | Draone Grayson |
