@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-25 08:26:43 UTC
+# Standings for team3 as of 2026-02-25 08:27:22 UTC
 
 **Total Participants:** 3663
 
@@ -525,24 +525,24 @@
 | 517 | 407 | Stephanie Sanchez |
 | 518 | 407 | Tina Smith Roy |
 | 519 | 407 | sofaking |
-| 520 | 406 | Eric Caccavale |
-| 521 | 406 | luluraine |
-| 522 | 405 | Ann Hammac |
-| 523 | 405 | Andrew Thorson |
-| 524 | 405 | Sameerah Smith |
-| 525 | 404 | Fredd Thomas |
-| 526 | 403 | 4girls |
-| 527 | 403 | Kristi Taylor |
-| 528 | 402 | Jl |
-| 529 | 402 | Cibf Ecihm |
-| 530 | 401 | Dapper Chiseler |
-| 531 | 401 | Sheila M Frazier |
-| 532 | 400 | Andrew Linge |
-| 533 | 399 | Gracie Ornelas |
-| 534 | 399 | Big T |
-| 535 | 399 | Brittany |
-| 536 | 398 | angieelyn |
-| 537 | 398 | Johnathan Dowe |
+| 520 | 406 | Johnathan Dowe |
+| 521 | 406 | Eric Caccavale |
+| 522 | 406 | luluraine |
+| 523 | 405 | Ann Hammac |
+| 524 | 405 | Andrew Thorson |
+| 525 | 405 | Sameerah Smith |
+| 526 | 404 | Fredd Thomas |
+| 527 | 403 | 4girls |
+| 528 | 403 | Kristi Taylor |
+| 529 | 402 | Jl |
+| 530 | 402 | Cibf Ecihm |
+| 531 | 401 | Dapper Chiseler |
+| 532 | 401 | Sheila M Frazier |
+| 533 | 400 | Andrew Linge |
+| 534 | 399 | Gracie Ornelas |
+| 535 | 399 | Big T |
+| 536 | 399 | Brittany |
+| 537 | 398 | angieelyn |
 | 538 | 397 | Cameo Tweed |
 | 539 | 396 | Sunny Lift |
 | 540 | 395 | toony |
@@ -551,8 +551,8 @@
 | 543 | 395 | Amber Evans |
 | 544 | 395 | Funky Brickster |
 | 545 | 394 | Nicholas Roddy |
-| 546 | 394 | Clever Edgepiece |
-| 547 | 394 | QueenBee |
+| 546 | 394 | QueenBee |
+| 547 | 394 | Clever Edgepiece |
 | 548 | 394 | Amanda J. Mcneil-Anderson |
 | 549 | 394 | Snippy Brickster |
 | 550 | 393 | Joseph Vargas |
@@ -856,16 +856,16 @@
 | 848 | 286 | El Chapa |
 | 849 | 286 | Rickeia Lanae Wright |
 | 850 | 285 | Mike Honcho |
-| 851 | 284 | crystal |
-| 852 | 284 | Samantha Long |
-| 853 | 284 | Hanna Kim |
-| 854 | 283 | Erica Burk |
-| 855 | 283 | BŘŰŤİÇŨŚ |
-| 856 | 283 | Emi |
-| 857 | 283 | Jill Stickney |
-| 858 | 283 | Tiffany Parsons |
-| 859 | 283 | Frothy Racker |
-| 860 | 282 | Barbara Bennett |
+| 851 | 285 | Barbara Bennett |
+| 852 | 284 | crystal |
+| 853 | 284 | Samantha Long |
+| 854 | 284 | Hanna Kim |
+| 855 | 283 | Erica Burk |
+| 856 | 283 | BŘŰŤİÇŨŚ |
+| 857 | 283 | Emi |
+| 858 | 283 | Jill Stickney |
+| 859 | 283 | Tiffany Parsons |
+| 860 | 283 | Frothy Racker |
 | 861 | 282 | Hasty Wobbler |
 | 862 | 281 | Jenna Baker |
 | 863 | 280 | Carri |
@@ -1634,21 +1634,21 @@
 | 1626 | 140 | Ramiro Alvarado III |
 | 1627 | 140 | Kristy |
 | 1628 | 140 | Redangel |
-| 1629 | 140 | noirakita428 |
+| 1629 | 140 | Taylor Elizabeth |
 | 1630 | 140 | Sassy Riserfit |
-| 1631 | 140 | Tina Baurdau |
-| 1632 | 140 | Dreamy Balanceblock |
-| 1633 | 139 | Atlantalindi |
-| 1634 | 139 | Daniel Davis |
-| 1635 | 139 | Sharon Lovely Lavern Gumbs |
-| 1636 | 139 | d Dee |
-| 1637 | 139 | Shalanda Hardy |
-| 1638 | 139 | Crazedberry82 |
-| 1639 | 139 | Speedy Zonegrid |
-| 1640 | 139 | Dorothy |
-| 1641 | 138 | Jenny08 |
-| 1642 | 138 | Tammie Spencer |
-| 1643 | 138 | Taylor Elizabeth |
+| 1631 | 140 | noirakita428 |
+| 1632 | 140 | Tina Baurdau |
+| 1633 | 140 | Dreamy Balanceblock |
+| 1634 | 139 | Atlantalindi |
+| 1635 | 139 | Daniel Davis |
+| 1636 | 139 | Sharon Lovely Lavern Gumbs |
+| 1637 | 139 | d Dee |
+| 1638 | 139 | Shalanda Hardy |
+| 1639 | 139 | Crazedberry82 |
+| 1640 | 139 | Speedy Zonegrid |
+| 1641 | 139 | Dorothy |
+| 1642 | 138 | Jenny08 |
+| 1643 | 138 | Tammie Spencer |
 | 1644 | 138 | Dave Watras |
 | 1645 | 138 | Tristen DuCross |
 | 1646 | 138 | Zippora Marzett |
@@ -1782,10 +1782,10 @@
 | 1774 | 122 | LaMorsa |
 | 1775 | 122 | Hoppy Patternblock |
 | 1776 | 122 | Sara Holmes |
-| 1777 | 121 | Kathy Nichols |
-| 1778 | 121 | Pam Haldeman Wolfe |
-| 1779 | 121 | Captain Chaos |
-| 1780 | 121 | Kortni Singleton |
+| 1777 | 122 | Kortni Singleton |
+| 1778 | 121 | Kathy Nichols |
+| 1779 | 121 | Pam Haldeman Wolfe |
+| 1780 | 121 | Captain Chaos |
 | 1781 | 121 | Glitter |
 | 1782 | 121 | Umeka Herrod |
 | 1783 | 121 | Michele Lee Decoste |

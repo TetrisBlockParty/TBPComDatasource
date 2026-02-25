@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 08:26:43 UTC
+# Standings for team1 as of 2026-02-25 08:27:22 UTC
 
 **Total Participants:** 2439
 
@@ -47,7 +47,7 @@
 | 39 | 1760 | Adrian Esteban |
 | 40 | 1701 | Tyler Whitley |
 | 41 | 1686 | Jessica Sheehan |
-| 42 | 1675 | Marianne Louise West |
+| 42 | 1684 | Marianne Louise West |
 | 43 | 1658 | Andrea Dañielle Ortiz |
 | 44 | 1643 | Trippy Redd |
 | 45 | 1641 | Veronica Eve |
@@ -204,8 +204,8 @@
 | 196 | 579 | Michelle Beres |
 | 197 | 578 | Hasty Cascader |
 | 198 | 577 | Constance Risner |
-| 199 | 576 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 200 | 576 | Tonya Beasley |
+| 199 | 576 | Tonya Beasley |
+| 200 | 576 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 201 | 574 | Speedy Liney |
 | 202 | 570 | Cody Slav |
 | 203 | 568 | Jason Savage |
@@ -215,18 +215,18 @@
 | 207 | 558 | Lori Bales |
 | 208 | 557 | MomMom |
 | 209 | 555 | Tana |
-| 210 | 551 | Stephanie Zahn |
-| 211 | 551 | Logan McFarland |
+| 210 | 551 | Logan McFarland |
+| 211 | 551 | Stephanie Zahn |
 | 212 | 550 | Nery Martinez |
 | 213 | 550 | Sam Williams |
 | 214 | 548 | Teri Oehlke |
 | 215 | 547 | Sharon Reynolds |
 | 216 | 546 | Mike Ames |
-| 217 | 544 | Adele Rahman |
-| 218 | 544 | Chaste Minor |
-| 219 | 544 | Anaid Sanchez |
-| 220 | 544 | Sean Stallings |
-| 221 | 544 | Sarah Somers Gray |
+| 217 | 544 | Sarah Somers Gray |
+| 218 | 544 | Sean Stallings |
+| 219 | 544 | Chaste Minor |
+| 220 | 544 | Anaid Sanchez |
+| 221 | 544 | Adele Rahman |
 | 222 | 541 | Sweetts |
 | 223 | 540 | Jenny Gingrich Fuentes |
 | 224 | 539 | Cool Shiftsnap |
@@ -234,16 +234,16 @@
 | 226 | 537 | canbrick |
 | 227 | 535 | DaRascal |
 | 228 | 525 | Tamara Brown |
-| 229 | 524 | Howdi Duty |
-| 230 | 520 | Reesey Enyart |
-| 231 | 520 | Dreamy Drop |
-| 232 | 520 | Lindsay Glover |
-| 233 | 518 | Connie |
-| 234 | 517 | Teddy Alexander |
-| 235 | 516 | Happy Snapbuild |
-| 236 | 516 | Witty Builderfit |
-| 237 | 515 | Michael Espinosa Ulibarri Jr. |
-| 238 | 514 | Jennifer Noe Chandler |
+| 229 | 524 | Jennifer Noe Chandler |
+| 230 | 524 | Howdi Duty |
+| 231 | 520 | Reesey Enyart |
+| 232 | 520 | Dreamy Drop |
+| 233 | 520 | Lindsay Glover |
+| 234 | 518 | Connie |
+| 235 | 517 | Teddy Alexander |
+| 236 | 516 | Happy Snapbuild |
+| 237 | 516 | Witty Builderfit |
+| 238 | 515 | Michael Espinosa Ulibarri Jr. |
 | 239 | 513 | Colena Davenport |
 | 240 | 511 | Daring Fitclear |
 | 241 | 510 | Avelyn Calamba |
@@ -271,8 +271,8 @@
 | 263 | 466 | Chris Sigurdson |
 | 264 | 466 | Monica Donato |
 | 265 | 464 | Rayline M Bradshaw |
-| 266 | 462 | Chelsea Dahlquist |
-| 267 | 462 | Angela Renea Lester |
+| 266 | 462 | Angela Renea Lester |
+| 267 | 462 | Chelsea Dahlquist |
 | 268 | 459 | Jamie Jury |
 | 269 | 458 | Goose egg |
 | 270 | 457 | Spencer Lent |
