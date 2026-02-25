@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 22:34:46 UTC
+# Standings for team4 as of 2026-02-25 22:35:22 UTC
 
 **Total Participants:** 2271
 
@@ -529,10 +529,10 @@
 | 521 | 308 | Robert Rangel |
 | 522 | 308 | Bethany Ison |
 | 523 | 308 | Angela Geist Jusinski |
-| 524 | 307 | kaeliwyn |
-| 525 | 306 | PeaceOs |
-| 526 | 306 | Daring Pivot |
-| 527 | 306 | Mary Miller |
+| 524 | 307 | Mary Miller |
+| 525 | 307 | kaeliwyn |
+| 526 | 306 | PeaceOs |
+| 527 | 306 | Daring Pivot |
 | 528 | 306 | Jennifer Renee |
 | 529 | 305 | Sholom Fried |
 | 530 | 305 | Bubbly Twistpiece |
@@ -639,19 +639,19 @@
 | 631 | 260 | Frank Joseph Epson |
 | 632 | 259 | Brandon Link |
 | 633 | 258 | Too Low Lou |
-| 634 | 258 | Marcela Johnson |
+| 634 | 258 | Martha Lucinda Bishop |
 | 635 | 258 | Dante Korleon |
-| 636 | 258 | Michelle McCutcheon |
-| 637 | 257 | Jennifer Marsella |
-| 638 | 257 | 2slo |
-| 639 | 257 | Brad Campbell |
-| 640 | 257 | Red |
-| 641 | 257 | Maria Larsen |
-| 642 | 257 | Shon Woodland |
-| 643 | 256 | Josh Chapell |
-| 644 | 256 | Lonnie Brown |
-| 645 | 255 | Lynn Marie |
-| 646 | 255 | Martha Lucinda Bishop |
+| 636 | 258 | Marcela Johnson |
+| 637 | 258 | Michelle McCutcheon |
+| 638 | 257 | Jennifer Marsella |
+| 639 | 257 | 2slo |
+| 640 | 257 | Brad Campbell |
+| 641 | 257 | Red |
+| 642 | 257 | Maria Larsen |
+| 643 | 257 | Shon Woodland |
+| 644 | 256 | Josh Chapell |
+| 645 | 256 | Lonnie Brown |
+| 646 | 255 | Lynn Marie |
 | 647 | 254 | Boldy Linkpiece |
 | 648 | 254 | Groovy Brickmatch |
 | 649 | 253 | Zach Kerbs |
