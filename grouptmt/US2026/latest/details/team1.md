@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 16:20:44 UTC
+# Standings for team1 as of 2026-02-25 16:21:22 UTC
 
 **Total Participants:** 2489
 
@@ -136,7 +136,7 @@
 | 128 | 875 | phrmblk24 |
 | 129 | 874 | Carrie Smith |
 | 130 | 869 | Elaine Elaine |
-| 131 | 862 | Bob |
+| 131 | 863 | Bob |
 | 132 | 846 | Happy Basegrid |
 | 133 | 827 | Dandy Basegrid |
 | 134 | 825 | Denice Dee |
@@ -871,15 +871,15 @@
 | 863 | 188 | Lourdes Marrero |
 | 864 | 187 | Kelly Sutton |
 | 865 | 187 | ply |
-| 866 | 187 | PSD |
-| 867 | 186 | Traci Schmeer |
-| 868 | 185 | Tim Russell |
-| 869 | 185 | Crystal Joslin |
-| 870 | 185 | SweetSunshower |
-| 871 | 185 | Matt Leroux |
-| 872 | 185 | Uhog SF |
-| 873 | 184 | Dorny |
-| 874 | 184 | Amber Johnson-Grantham |
+| 866 | 187 | Amber Johnson-Grantham |
+| 867 | 187 | PSD |
+| 868 | 186 | Traci Schmeer |
+| 869 | 185 | Tim Russell |
+| 870 | 185 | Crystal Joslin |
+| 871 | 185 | SweetSunshower |
+| 872 | 185 | Matt Leroux |
+| 873 | 185 | Uhog SF |
+| 874 | 184 | Dorny |
 | 875 | 184 | Erres Jones |
 | 876 | 184 | Heather Martin |
 | 877 | 183 | Jodee Woods |
@@ -1505,14 +1505,14 @@
 | 1497 | 72 | Hoppy Clearbuilder |
 | 1498 | 72 | COBETRYCE |
 | 1499 | 72 | Samantha Schmidt |
-| 1500 | 72 | Beverly S. Robinson |
-| 1501 | 72 | GDerro |
-| 1502 | 71 | Bridgette |
-| 1503 | 71 | Kimchi |
-| 1504 | 71 | Michael Willett |
-| 1505 | 71 | Tiffany Laura |
-| 1506 | 71 | Frisky Setter |
-| 1507 | 71 | Catherine Gi |
+| 1500 | 72 | Catherine Gi |
+| 1501 | 72 | Beverly S. Robinson |
+| 1502 | 72 | GDerro |
+| 1503 | 71 | Bridgette |
+| 1504 | 71 | Kimchi |
+| 1505 | 71 | Michael Willett |
+| 1506 | 71 | Tiffany Laura |
+| 1507 | 71 | Frisky Setter |
 | 1508 | 71 | Quirky Catcher |
 | 1509 | 70 | Dennis Eitler |
 | 1510 | 70 | Shaun Houglin |
@@ -1531,12 +1531,12 @@
 | 1523 | 69 | Zany Snapline |
 | 1524 | 69 | Katherine Marie Spittle |
 | 1525 | 69 | Jesse Meehan |
-| 1526 | 69 | tee |
-| 1527 | 69 | Frothy Bridgepiece |
+| 1526 | 69 | Frothy Bridgepiece |
+| 1527 | 69 | tee |
 | 1528 | 69 | Patty Sersich |
 | 1529 | 68 | Fayalobie |
-| 1530 | 68 | Pamela Elliott |
-| 1531 | 68 | Williams Martha |
+| 1530 | 68 | Williams Martha |
+| 1531 | 68 | Pamela Elliott |
 | 1532 | 68 | Gary Richtmeyer |
 | 1533 | 68 | Anna Bennett |
 | 1534 | 68 | Loony Stacky |
@@ -1556,50 +1556,50 @@
 | 1548 | 67 | Ra |
 | 1549 | 67 | Brave Blockbuilder |
 | 1550 | 67 | Amy Mancini |
-| 1551 | 67 | Prudence Muzondo |
-| 1552 | 67 | Virginia Swank |
+| 1551 | 67 | Virginia Swank |
+| 1552 | 67 | Prudence Muzondo |
 | 1553 | 66 | Vanessa G Keill |
-| 1554 | 66 | Stormz420 |
-| 1555 | 66 | Cheeky Rollfit |
+| 1554 | 66 | Cheeky Rollfit |
+| 1555 | 66 | Block attack |
 | 1556 | 66 | DeeTy |
-| 1557 | 66 | Block attack |
-| 1558 | 66 | Pearlz |
-| 1559 | 66 | Kristarr |
-| 1560 | 66 | Ashley Moore |
-| 1561 | 66 | Crystal Mock |
+| 1557 | 66 | Stormz420 |
+| 1558 | 66 | Kristarr |
+| 1559 | 66 | Pearlz |
+| 1560 | 66 | Crystal Mock |
+| 1561 | 66 | Ashley Moore |
 | 1562 | 66 | Sean Behjani |
 | 1563 | 66 | Kaitlyn Mambro |
 | 1564 | 66 | Vikki Doris-Leonardo |
 | 1565 | 66 | Lucy Moore |
 | 1566 | 66 | Destinee VanPatten |
-| 1567 | 65 | Heidi Hile |
-| 1568 | 65 | Joshua Brymer |
+| 1567 | 65 | Joshua Brymer |
+| 1568 | 65 | Heidi Hile |
 | 1569 | 65 | Kayla |
-| 1570 | 65 | Missy Anderson |
-| 1571 | 65 | Brian Mc Auley |
-| 1572 | 65 | Karen Berkenstock |
-| 1573 | 65 | Brian Crenshaw |
-| 1574 | 65 | Jessica Lang |
-| 1575 | 65 | Sarah Denise Baca |
-| 1576 | 65 | Jessica Kelsey |
-| 1577 | 65 | Misses Haggard |
-| 1578 | 65 | Colton Samantha Lester |
-| 1579 | 64 | BlackberryCobbler |
+| 1570 | 65 | Chez |
+| 1571 | 65 | Missy Anderson |
+| 1572 | 65 | Brian Mc Auley |
+| 1573 | 65 | Karen Berkenstock |
+| 1574 | 65 | Brian Crenshaw |
+| 1575 | 65 | Colton Samantha Lester |
+| 1576 | 65 | Jessica Lang |
+| 1577 | 65 | Jessica Kelsey |
+| 1578 | 65 | Misses Haggard |
+| 1579 | 65 | Sarah Denise Baca |
 | 1580 | 64 | Jerred Hunter |
 | 1581 | 64 | Kyle Schwarcz |
 | 1582 | 64 | John Fronczek |
-| 1583 | 64 | Cool Balancer |
-| 1584 | 64 | Walter Turner |
-| 1585 | 64 | Hank |
-| 1586 | 64 | Brave Tiley |
+| 1583 | 64 | BlackberryCobbler |
+| 1584 | 64 | Cool Balancer |
+| 1585 | 64 | Walter Turner |
+| 1586 | 64 | Hank |
 | 1587 | 64 | Kenneth Ray Steiner |
-| 1588 | 63 | Shelley Dose |
-| 1589 | 63 | Glitzy Curvetile |
-| 1590 | 63 | Julia Wilson |
-| 1591 | 63 | Max R Eble |
-| 1592 | 63 | Darrell Mcdonnell |
-| 1593 | 63 | Mike Kimes |
-| 1594 | 63 | Jr Kelley |
+| 1588 | 64 | Brave Tiley |
+| 1589 | 63 | Jr Kelley |
+| 1590 | 63 | Glitzy Curvetile |
+| 1591 | 63 | Mike Kimes |
+| 1592 | 63 | Julia Wilson |
+| 1593 | 63 | Max R Eble |
+| 1594 | 63 | Darrell Mcdonnell |
 | 1595 | 63 | Witty Frame |
 | 1596 | 63 | Henry James Bechtold |
 | 1597 | 63 | Shea Hall |
@@ -1607,83 +1607,83 @@
 | 1599 | 63 | Lincon |
 | 1600 | 63 | Jose Velasquez |
 | 1601 | 63 | Arthur James Watson |
-| 1602 | 62 | Katie Mccallaham |
-| 1603 | 62 | Rooster |
-| 1604 | 62 | Michael Akins |
-| 1605 | 62 | Chummy Tiltpiece |
+| 1602 | 63 | Shelley Dose |
+| 1603 | 62 | Katie Mccallaham |
+| 1604 | 62 | Chummy Tiltpiece |
+| 1605 | 62 | Rooster |
 | 1606 | 62 | Shanetta Jacob Hannagan Johnson |
-| 1607 | 62 | Michael Campbell |
-| 1608 | 62 | Grant Halverson |
-| 1609 | 62 | Eric Inniss |
-| 1610 | 62 | Moneybags |
-| 1611 | 62 | Hilda Silvers |
-| 1612 | 62 | Chez |
+| 1607 | 62 | Michael Akins |
+| 1608 | 62 | Michael Campbell |
+| 1609 | 62 | Grant Halverson |
+| 1610 | 62 | Eric Inniss |
+| 1611 | 62 | Moneybags |
+| 1612 | 62 | Hilda Silvers |
 | 1613 | 62 | Kishi |
 | 1614 | 61 | Perky Patternfall |
 | 1615 | 61 | Karen Guy |
 | 1616 | 61 | Kyle Barnes |
 | 1617 | 61 | Brianna Andrews |
-| 1618 | 61 | Todd Barry |
-| 1619 | 61 | Zappy Brickzone |
+| 1618 | 61 | Zappy Brickzone |
+| 1619 | 61 | Todd Barry |
 | 1620 | 61 | Rose Clark |
 | 1621 | 61 | Cheryl Harker |
 | 1622 | 61 | Jimmie |
 | 1623 | 61 | Robin Blume |
 | 1624 | 61 | Chirpy Zoney |
 | 1625 | 61 | MasterMook |
-| 1626 | 60 | Vanilla gorilla |
+| 1626 | 60 | Hasty Dropmatch |
 | 1627 | 60 | Marcellus Royal |
-| 1628 | 60 | Hasty Dropmatch |
-| 1629 | 60 | Samantha Netherly-Ratliff |
-| 1630 | 60 | Nikki McGhee |
-| 1631 | 60 | Apex892 |
+| 1628 | 60 | Vanilla gorilla |
+| 1629 | 60 | Nikki McGhee |
+| 1630 | 60 | Apex892 |
+| 1631 | 60 | Samantha Netherly-Ratliff |
 | 1632 | 60 | Ron |
 | 1633 | 60 | Tracy Farrar |
 | 1634 | 60 | Orvswf |
 | 1635 | 60 | Alex Hernandez |
 | 1636 | 60 | Scott Hevenor |
-| 1637 | 59 | Kaitlyn Sheldon |
-| 1638 | 59 | Cynthia Dalton |
-| 1639 | 59 | Frothy Snapzone |
-| 1640 | 59 | Joy |
+| 1637 | 59 | Cynthia Dalton |
+| 1638 | 59 | Frothy Snapzone |
+| 1639 | 59 | Kaitlyn Sheldon |
+| 1640 | 59 | Mia Ballard |
 | 1641 | 59 | Tasha Nicole |
-| 1642 | 59 | COWBOY |
-| 1643 | 59 | Loopy Shiftsnap |
-| 1644 | 59 | Mia Ballard |
+| 1642 | 59 | Joy |
+| 1643 | 59 | COWBOY |
+| 1644 | 59 | Loopy Shiftsnap |
 | 1645 | 58 | Snazzy Buildsnap |
-| 1646 | 58 | ~Tintta~ |
+| 1646 | 58 | Ry |
 | 1647 | 58 | Tommy |
-| 1648 | 58 | Ry |
-| 1649 | 58 | Lavon Usher |
-| 1650 | 57 | Kristye |
-| 1651 | 57 | Syrano Casa |
+| 1648 | 58 | Lavon Usher |
+| 1649 | 58 | ~Tintta~ |
+| 1650 | 57 | Chipper Wipegrid |
+| 1651 | 57 | Justin Alberry |
 | 1652 | 57 | Marie Wilson |
-| 1653 | 57 | Chipper Wipegrid |
-| 1654 | 57 | Mandy Dodson |
-| 1655 | 57 | Frothy Wipebuilder |
-| 1656 | 57 | McMeow |
-| 1657 | 57 | Breezy Fitblock |
-| 1658 | 57 | Justin Alberry |
+| 1653 | 57 | Syrano Casa |
+| 1654 | 57 | Frothy Wipebuilder |
+| 1655 | 57 | McMeow |
+| 1656 | 57 | Kristye |
+| 1657 | 57 | Mandy Dodson |
+| 1658 | 57 | Breezy Fitblock |
 | 1659 | 56 | Eduk8ted Rednek |
-| 1660 | 56 | Duane Ficara |
-| 1661 | 56 | Terry Aldridge |
-| 1662 | 56 | Tinamarie Ann Brown |
-| 1663 | 56 | Brenda Nurre |
-| 1664 | 56 | GG Water |
-| 1665 | 56 | Eric Perry |
-| 1666 | 55 | James Brittingham |
-| 1667 | 55 | Jolly Riserbuilder |
-| 1668 | 55 | Brave Linker |
-| 1669 | 55 | Lena Kuprina |
-| 1670 | 55 | Meranda Varney |
-| 1671 | 55 | Lively Snap |
-| 1672 | 55 | Christopher Johnson |
-| 1673 | 55 | Shokron |
+| 1660 | 56 | GG Water |
+| 1661 | 56 | Brenda Nurre |
+| 1662 | 56 | Eric Perry |
+| 1663 | 56 | Tinamarie Ann Brown |
+| 1664 | 56 | Duane Ficara |
+| 1665 | 56 | Terry Aldridge |
+| 1666 | 55 | Brave Linker |
+| 1667 | 55 | Shokron |
+| 1668 | 55 | Meranda Varney |
+| 1669 | 55 | KISSARMY80 |
+| 1670 | 55 | James Brittingham |
+| 1671 | 55 | Emma Hughes |
+| 1672 | 55 | Spunky Linkpiece |
+| 1673 | 55 | Delia Cheatwood |
 | 1674 | 55 | John Gardner |
-| 1675 | 55 | Emma Hughes |
-| 1676 | 55 | KISSARMY80 |
-| 1677 | 55 | Spunky Linkpiece |
-| 1678 | 55 | Delia Cheatwood |
+| 1675 | 55 | Christopher Johnson |
+| 1676 | 55 | Lively Snap |
+| 1677 | 55 | Lena Kuprina |
+| 1678 | 55 | Jolly Riserbuilder |
 | 1679 | 54 | Janell Gentry |
 | 1680 | 54 | Lacey Wilson |
 | 1681 | 54 | Brittnay Livigne |
