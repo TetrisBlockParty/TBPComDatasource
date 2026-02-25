@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 08:22:24 UTC
+# Standings for team1 as of 2026-02-25 08:23:22 UTC
 
 **Total Participants:** 2439
 
@@ -133,8 +133,8 @@
 | 125 | 865 | Elaine Elaine |
 | 126 | 855 | Susan Ward |
 | 127 | 855 | Giddy Cascade |
-| 128 | 854 | Robert Benito |
-| 129 | 842 | Carrie Smith |
+| 128 | 854 | Carrie Smith |
+| 129 | 854 | Robert Benito |
 | 130 | 839 | Happy Basegrid |
 | 131 | 833 | Bob |
 | 132 | 825 | Denice Dee |
@@ -253,7 +253,7 @@
 | 245 | 500 | Jamise Brown |
 | 246 | 499 | Jennifer Noe Chandler |
 | 247 | 498 | Richard Corrado |
-| 248 | 494 | Dizzy Slider |
+| 248 | 495 | Dizzy Slider |
 | 249 | 492 | Jessie Lynn |
 | 250 | 491 | Yvonne Marie |
 | 251 | 486 | Brenda Alexander |
@@ -287,12 +287,12 @@
 | 279 | 450 | Shiny Snapfit |
 | 280 | 447 | Letson Melissa |
 | 281 | 447 | Cece Ibarra |
-| 282 | 446 | Richard Butler |
-| 283 | 446 | Sunny Shift |
-| 284 | 446 | Irv |
-| 285 | 446 | Dino |
-| 286 | 445 | Emily Adelaide Wheatley |
-| 287 | 445 | build master |
+| 282 | 447 | build master |
+| 283 | 446 | Richard Butler |
+| 284 | 446 | Sunny Shift |
+| 285 | 446 | Irv |
+| 286 | 446 | Dino |
+| 287 | 445 | Emily Adelaide Wheatley |
 | 288 | 445 | Tetrisqn |
 | 289 | 445 | Sylvia Vasquez |
 | 290 | 444 | Lakeisha Chapman |
