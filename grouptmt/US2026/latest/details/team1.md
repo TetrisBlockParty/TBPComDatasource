@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 04:42:44 UTC
+# Standings for team1 as of 2026-02-25 04:43:23 UTC
 
 **Total Participants:** 2403
 
@@ -66,7 +66,7 @@
 | 58 | 1415 | Lexuriuos Lifestlye |
 | 59 | 1376 | Hasbro Bros |
 | 60 | 1364 | Rachael |
-| 61 | 1358 | Drew Magnus |
+| 61 | 1359 | Drew Magnus |
 | 62 | 1330 | Adam Byrd |
 | 63 | 1330 | TSwag |
 | 64 | 1328 | Karin Gillen |
@@ -212,22 +212,22 @@
 | 204 | 562 | Cheeky Pop |
 | 205 | 557 | MomMom |
 | 206 | 555 | Tana |
-| 207 | 551 | Logan McFarland |
-| 208 | 550 | Nery Martinez |
-| 209 | 548 | Teri Oehlke |
-| 210 | 548 | Stephanie Zahn |
-| 211 | 547 | Sharon Reynolds |
-| 212 | 544 | Chaste Minor |
-| 213 | 544 | Sean Stallings |
-| 214 | 544 | Anaid Sanchez |
-| 215 | 539 | Tawnya Peltonen |
+| 207 | 554 | Tawnya Peltonen |
+| 208 | 551 | Logan McFarland |
+| 209 | 550 | Nery Martinez |
+| 210 | 548 | Teri Oehlke |
+| 211 | 548 | Stephanie Zahn |
+| 212 | 547 | Sharon Reynolds |
+| 213 | 544 | Anaid Sanchez |
+| 214 | 544 | Chaste Minor |
+| 215 | 544 | Sean Stallings |
 | 216 | 538 | Rebekah LeiAnn Bonsell |
 | 217 | 538 | Mike Ames |
 | 218 | 535 | DaRascal |
-| 219 | 526 | Sarah Somers Gray |
-| 220 | 525 | Tamara Brown |
-| 221 | 524 | Howdi Duty |
-| 222 | 522 | Angela Spann |
+| 219 | 527 | Angela Spann |
+| 220 | 526 | Sarah Somers Gray |
+| 221 | 525 | Tamara Brown |
+| 222 | 524 | Howdi Duty |
 | 223 | 522 | Adele Rahman |
 | 224 | 520 | Dreamy Drop |
 | 225 | 520 | Reesey Enyart |
@@ -1434,24 +1434,24 @@
 | 1426 | 73 | Grandmeemers22 |
 | 1427 | 73 | Zappy Pivoty |
 | 1428 | 73 | Bouncy Link |
-| 1429 | 73 | Hoppy Party |
-| 1430 | 73 | Melissa Capps |
-| 1431 | 73 | Wynn Cook |
-| 1432 | 73 | Channis |
+| 1429 | 73 | Dustin Whited |
+| 1430 | 73 | Hoppy Party |
+| 1431 | 73 | Melissa Capps |
+| 1432 | 73 | Wynn Cook |
 | 1433 | 73 | Elania Marie Degrez |
-| 1434 | 72 | Randi Voight |
-| 1435 | 72 | Beverly S. Robinson |
+| 1434 | 73 | Channis |
+| 1435 | 72 | Randi Voight |
 | 1436 | 72 | Hoppy Clearbuilder |
-| 1437 | 72 | Dustin Whited |
-| 1438 | 72 | e |
-| 1439 | 72 | COBETRYCE |
-| 1440 | 72 | Victoria Ann |
-| 1441 | 72 | GDerro |
-| 1442 | 71 | Dylan BW |
-| 1443 | 71 | Kimchi |
+| 1437 | 72 | COBETRYCE |
+| 1438 | 72 | Victoria Ann |
+| 1439 | 72 | GDerro |
+| 1440 | 72 | e |
+| 1441 | 72 | Beverly S. Robinson |
+| 1442 | 71 | Tiffany Laura |
+| 1443 | 71 | Carlitos Faith Faith |
 | 1444 | 71 | Andee Bo Bandee |
-| 1445 | 71 | Carlitos Faith Faith |
-| 1446 | 71 | Tiffany Laura |
+| 1445 | 71 | Kimchi |
+| 1446 | 71 | Dylan BW |
 | 1447 | 71 | Michael Willett |
 | 1448 | 71 | Bridgette |
 | 1449 | 71 | Quirky Catcher |
@@ -1573,37 +1573,37 @@
 | 1565 | 59 | Cielo Rodriguez |
 | 1566 | 59 | Dana C. Howell |
 | 1567 | 59 | Mia Ballard |
-| 1568 | 59 | Prudence Muzondo |
-| 1569 | 59 | Eric Inniss |
+| 1568 | 59 | Henry James Bechtold |
+| 1569 | 59 | Frothy Snapzone |
 | 1570 | 59 | Loopy Shiftsnap |
-| 1571 | 59 | Frothy Snapzone |
-| 1572 | 58 | Tasha Nicole |
-| 1573 | 58 | Cheryl Harker |
-| 1574 | 58 | Lavon Usher |
+| 1571 | 59 | Prudence Muzondo |
+| 1572 | 59 | Eric Inniss |
+| 1573 | 58 | Tasha Nicole |
+| 1574 | 58 | Tommy |
 | 1575 | 58 | Star Gaze |
-| 1576 | 58 | Ry |
+| 1576 | 58 | Cheryl Harker |
 | 1577 | 58 | Snazzy Buildsnap |
-| 1578 | 58 | Tommy |
-| 1579 | 57 | Breezy Fitblock |
-| 1580 | 57 | Frothy Wipebuilder |
-| 1581 | 57 | Marie Wilson |
-| 1582 | 57 | Syrano Casa |
-| 1583 | 57 | Chipper Wipegrid |
-| 1584 | 57 | Erin Divine |
-| 1585 | 57 | Chez |
-| 1586 | 57 | Mandy Dodson |
-| 1587 | 57 | Justin Alberry |
-| 1588 | 57 | Kristye |
-| 1589 | 57 | McMeow |
-| 1590 | 57 | Laura |
-| 1591 | 57 | Ashley Freeman |
-| 1592 | 57 | Anime girl |
-| 1593 | 57 | Henry James Bechtold |
-| 1594 | 56 | Jess Ortiz |
-| 1595 | 56 | Tinamarie Ann Brown |
-| 1596 | 56 | Eric Perry |
-| 1597 | 56 | Jessica Collier |
-| 1598 | 56 | Terry Aldridge |
+| 1578 | 58 | Lavon Usher |
+| 1579 | 58 | Ry |
+| 1580 | 57 | Chipper Wipegrid |
+| 1581 | 57 | Kristye |
+| 1582 | 57 | Anime girl |
+| 1583 | 57 | Breezy Fitblock |
+| 1584 | 57 | Ashley Freeman |
+| 1585 | 57 | Frothy Wipebuilder |
+| 1586 | 57 | Marie Wilson |
+| 1587 | 57 | Syrano Casa |
+| 1588 | 57 | Chez |
+| 1589 | 57 | Mandy Dodson |
+| 1590 | 57 | Justin Alberry |
+| 1591 | 57 | Erin Divine |
+| 1592 | 57 | McMeow |
+| 1593 | 57 | Laura |
+| 1594 | 56 | Eric Perry |
+| 1595 | 56 | Jess Ortiz |
+| 1596 | 56 | Jessica Collier |
+| 1597 | 56 | Terry Aldridge |
+| 1598 | 56 | Tinamarie Ann Brown |
 | 1599 | 56 | Brenda Nurre |
 | 1600 | 56 | Hasty Dropmatch |
 | 1601 | 56 | GG Water |
@@ -1863,62 +1863,62 @@
 | 1855 | 35 | Jason Dickinson |
 | 1856 | 35 | Tammy Griffee |
 | 1857 | 35 | Sarah Denise Baca |
-| 1858 | 34 | Joseph Freeman |
-| 1859 | 34 | Wacky Snapbuilder |
-| 1860 | 34 | Meagan Lopez |
-| 1861 | 34 | Spicy Ziggy |
-| 1862 | 34 | Melissa Ann |
-| 1863 | 34 | ~Tintta~ |
-| 1864 | 34 | Shaun Kellerman |
-| 1865 | 34 | CIRAD |
-| 1866 | 34 | Bravo |
+| 1858 | 34 | ~Tintta~ |
+| 1859 | 34 | Melissa Ann |
+| 1860 | 34 | Spunky Winder |
+| 1861 | 34 | Shaun Kellerman |
+| 1862 | 34 | Bravo |
+| 1863 | 34 | Spicy Ziggy |
+| 1864 | 34 | Meagan Lopez |
+| 1865 | 34 | Joseph Freeman |
+| 1866 | 34 | Wacky Snapbuilder |
 | 1867 | 34 | Robert Jones |
-| 1868 | 33 | Kizzie Thomas-Jones |
-| 1869 | 33 | Zany Gridclear |
-| 1870 | 33 | Jessi Goodwin |
-| 1871 | 33 | Nat Gnzlz |
+| 1868 | 34 | CIRAD |
+| 1869 | 33 | lexluger |
+| 1870 | 33 | Zany Gridclear |
+| 1871 | 33 | Fatty Davis |
 | 1872 | 33 | Dawn Mansfield |
-| 1873 | 33 | Samantha Rachelle Branham |
-| 1874 | 33 | Fatty Davis |
+| 1873 | 33 | Nat Gnzlz |
+| 1874 | 33 | Linda Nys |
 | 1875 | 33 | Daniel Ringer |
-| 1876 | 33 | lexluger |
-| 1877 | 33 | Linda Nys |
-| 1878 | 33 | Rachael F Trudel |
-| 1879 | 33 | Roberta |
+| 1876 | 33 | Samantha Rachelle Branham |
+| 1877 | 33 | Jessi Goodwin |
+| 1878 | 33 | Kizzie Thomas-Jones |
+| 1879 | 33 | Rachael F Trudel |
 | 1880 | 33 | Lesssslyh |
 | 1881 | 33 | Siconia Mccants Bsw |
-| 1882 | 33 | Leshay Brooks |
+| 1882 | 33 | Roberta |
 | 1883 | 33 | James Rob |
-| 1884 | 32 | Eric Robinson |
-| 1885 | 32 | Rangel Arch |
-| 1886 | 32 | Giggy Clearbuilder |
-| 1887 | 32 | mudpuppy |
-| 1888 | 32 | CelestiaIris |
-| 1889 | 32 | Hoppy Riserfit |
-| 1890 | 32 | Dandy Crawler |
+| 1884 | 33 | Leshay Brooks |
+| 1885 | 32 | Eric Robinson |
+| 1886 | 32 | Rangel Arch |
+| 1887 | 32 | Giggy Clearbuilder |
+| 1888 | 32 | mudpuppy |
+| 1889 | 32 | Dandy Crawler |
+| 1890 | 32 | Hoppy Riserfit |
 | 1891 | 32 | Chastity Thompson |
 | 1892 | 32 | Trecey |
 | 1893 | 32 | Lulumagoo |
 | 1894 | 32 | Annoying46 |
 | 1895 | 32 | Djdubz |
-| 1896 | 32 | Zesty Towerzone |
-| 1897 | 32 | Gerardo Perez |
-| 1898 | 32 | Spunky Winder |
-| 1899 | 32 | MasterMook |
-| 1900 | 32 | Everett Hampton |
-| 1901 | 32 | Matthew Matoushek |
-| 1902 | 31 | Rebecca Rognerud |
-| 1903 | 31 | Amanda Colwell |
-| 1904 | 31 | Steve Andreeski |
-| 1905 | 31 | Plucky Wipebuilder |
-| 1906 | 31 | Summer |
+| 1896 | 32 | Gerardo Perez |
+| 1897 | 32 | Zesty Towerzone |
+| 1898 | 32 | MasterMook |
+| 1899 | 32 | Everett Hampton |
+| 1900 | 32 | Matthew Matoushek |
+| 1901 | 32 | CelestiaIris |
+| 1902 | 31 | Summer |
+| 1903 | 31 | Steve Andreeski |
+| 1904 | 31 | Rebecca Rognerud |
+| 1905 | 31 | Shawne Smith |
+| 1906 | 31 | Plucky Wipebuilder |
 | 1907 | 31 | Lynnita West Wright |
 | 1908 | 31 | Justin Wolf |
-| 1909 | 31 | Tiny Bear |
-| 1910 | 31 | Cassandra Cooper |
-| 1911 | 31 | Maya Denae Myrick |
-| 1912 | 31 | Krista Roberts |
-| 1913 | 31 | Shawne Smith |
+| 1909 | 31 | Amanda Colwell |
+| 1910 | 31 | Tiny Bear |
+| 1911 | 31 | Cassandra Cooper |
+| 1912 | 31 | Maya Denae Myrick |
+| 1913 | 31 | Krista Roberts |
 | 1914 | 30 | Melissa Erwin |
 | 1915 | 30 | Melissa Nicole Hanscom |
 | 1916 | 30 | Alex Hernandez |
