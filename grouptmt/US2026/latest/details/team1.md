@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 19:34:44 UTC
+# Standings for team1 as of 2026-02-25 19:35:23 UTC
 
 **Total Participants:** 2517
 
@@ -107,9 +107,9 @@
 | 99 | 1047 | Zippy Align |
 | 100 | 1032 | Kathi Snustad |
 | 101 | 1029 | Bindi |
-| 102 | 1004 | Chris K |
-| 103 | 1004 | Desiree Deschaine Havee |
-| 104 | 1002 | Jennifer ManWarren |
+| 102 | 1005 | Jennifer ManWarren |
+| 103 | 1004 | Chris K |
+| 104 | 1004 | Desiree Deschaine Havee |
 | 105 | 1001 | Tdub |
 | 106 | 999 | comrade fish |
 | 107 | 999 | Mario Cab |
@@ -182,8 +182,8 @@
 | 174 | 697 | Chase Collinsworth |
 | 175 | 695 | Evan Richmond |
 | 176 | 686 | Ty Brown |
-| 177 | 683 | Jessie Welch |
-| 178 | 681 | Eric DeSimone |
+| 177 | 684 | Eric DeSimone |
+| 178 | 683 | Jessie Welch |
 | 179 | 679 | Ly Phethmany |
 | 180 | 678 | Ryan Lunnin |
 | 181 | 677 | Logan McFarland |
@@ -853,20 +853,20 @@
 | 845 | 194 | Amanda Grace Agee |
 | 846 | 193 | Amador López Martínez |
 | 847 | 193 | ThreeBone |
-| 848 | 193 | Patience D. Williams |
-| 849 | 193 | Honey |
-| 850 | 193 | Alyssa Ingram |
-| 851 | 192 | Jay Tressler |
-| 852 | 192 | Frizliz17 |
-| 853 | 191 | thtgood |
-| 854 | 191 | Kashton Kp Perryon |
-| 855 | 191 | nm1289 |
-| 856 | 191 | Gabrielle Louise Malloch |
-| 857 | 191 | Amber Nixon |
+| 848 | 193 | Mary Pelley |
+| 849 | 193 | Patience D. Williams |
+| 850 | 193 | Honey |
+| 851 | 193 | Alyssa Ingram |
+| 852 | 192 | Jay Tressler |
+| 853 | 192 | Frizliz17 |
+| 854 | 191 | Amber Nixon |
+| 855 | 191 | Kashton Kp Perryon |
+| 856 | 191 | nm1289 |
+| 857 | 191 | Gabrielle Louise Malloch |
 | 858 | 191 | Tina Midkiff |
 | 859 | 191 | Mia D Stiles |
-| 860 | 191 | Cj X Mal |
-| 861 | 191 | Mary Pelley |
+| 860 | 191 | thtgood |
+| 861 | 191 | Cj X Mal |
 | 862 | 191 | Bo Sherman |
 | 863 | 190 | Cool Combo |
 | 864 | 190 | Kimberly Sharp-Bowen |
@@ -875,12 +875,12 @@
 | 867 | 190 | Jacqueline Unique |
 | 868 | 189 | Armand Drayton |
 | 869 | 189 | Travis Taylor |
-| 870 | 189 | Mighty Fallzone |
-| 871 | 189 | Trenna L Szczepaniak |
+| 870 | 189 | Trenna L Szczepaniak |
+| 871 | 189 | Mighty Fallzone |
 | 872 | 188 | forevernght |
 | 873 | 188 | Lourdes Marrero |
-| 874 | 187 | Kelly Sutton |
-| 875 | 187 | Michaela Wakefield |
+| 874 | 187 | Michaela Wakefield |
+| 875 | 187 | Kelly Sutton |
 | 876 | 186 | Traci Schmeer |
 | 877 | 185 | Crystal Joslin |
 | 878 | 185 | Uhog SF |
@@ -1011,48 +1011,48 @@
 | 1003 | 159 | Christina Gutierrez |
 | 1004 | 158 | Hungsolo9 |
 | 1005 | 158 | Frilly Fitblock |
-| 1006 | 158 | SophieG |
-| 1007 | 158 | Susan Walser Osborne |
+| 1006 | 158 | Susan Walser Osborne |
+| 1007 | 158 | SophieG |
 | 1008 | 157 | Linda Williams |
-| 1009 | 157 | Frisky Framezone |
-| 1010 | 157 | Beeboe17 |
-| 1011 | 157 | Raven |
-| 1012 | 157 | Crystal Raffaele |
-| 1013 | 157 | Brynn Elizabeth |
-| 1014 | 156 | Tammy Autry |
-| 1015 | 156 | Trisha Stiglet |
-| 1016 | 156 | Nicole Michele Barfield |
-| 1017 | 155 | QUEENIE K |
-| 1018 | 155 | Sonya Gail Goodman |
-| 1019 | 155 | Tierney Birdsell |
-| 1020 | 155 | Daysha Johnson |
-| 1021 | 155 | Chilly Glidezone |
-| 1022 | 155 | Peachy Cascader |
-| 1023 | 154 | Kelly Marie Hennig |
-| 1024 | 154 | CaityNicole |
+| 1009 | 157 | Beeboe17 |
+| 1010 | 157 | Brynn Elizabeth |
+| 1011 | 157 | Crystal Raffaele |
+| 1012 | 157 | Raven |
+| 1013 | 157 | Frisky Framezone |
+| 1014 | 156 | Trisha Stiglet |
+| 1015 | 156 | Tammy Autry |
+| 1016 | 156 | Jenn |
+| 1017 | 156 | Nicole Michele Barfield |
+| 1018 | 155 | Chilly Glidezone |
+| 1019 | 155 | Daysha Johnson |
+| 1020 | 155 | QUEENIE K |
+| 1021 | 155 | Peachy Cascader |
+| 1022 | 155 | Tierney Birdsell |
+| 1023 | 155 | Sonya Gail Goodman |
+| 1024 | 154 | Kelly Marie Hennig |
 | 1025 | 154 | Chirpy Towerfall |
-| 1026 | 154 | Bob Sitts |
-| 1027 | 154 | Shawn Thisismyoldaccount Gilmore |
-| 1028 | 154 | Shanna Outen |
-| 1029 | 154 | Josh Yazvac |
+| 1026 | 154 | CaityNicole |
+| 1027 | 154 | Bob Sitts |
+| 1028 | 154 | Shawn Thisismyoldaccount Gilmore |
+| 1029 | 154 | Shanna Outen |
 | 1030 | 154 | MagaMan |
-| 1031 | 153 | Anthony Coombs |
-| 1032 | 153 | Tate Blondin |
-| 1033 | 153 | Jenn |
+| 1031 | 154 | Josh Yazvac |
+| 1032 | 153 | Anthony Coombs |
+| 1033 | 153 | Tate Blondin |
 | 1034 | 153 | Chenea Frazier |
-| 1035 | 152 | Javyjavz |
-| 1036 | 152 | 윤이나 |
-| 1037 | 152 | Wanda Honey |
-| 1038 | 152 | Scott Baum |
-| 1039 | 152 | Dandy Piecebuilder |
-| 1040 | 152 | Brandi Egbert |
-| 1041 | 152 | Scott Tracie Kiser |
-| 1042 | 151 | ghxsty |
+| 1035 | 152 | Wanda Honey |
+| 1036 | 152 | Scott Tracie Kiser |
+| 1037 | 152 | Brandi Egbert |
+| 1038 | 152 | Dandy Piecebuilder |
+| 1039 | 152 | Javyjavz |
+| 1040 | 152 | 윤이나 |
+| 1041 | 152 | Scott Baum |
+| 1042 | 152 | Calli Lynn Hairr |
 | 1043 | 151 | Cynthia Pool |
-| 1044 | 151 | Calli Lynn Hairr |
-| 1045 | 150 | Staci Walker |
+| 1044 | 151 | ghxsty |
+| 1045 | 150 | Kristy Lynn Michaud |
 | 1046 | 150 | Lush Drop |
-| 1047 | 150 | Kristy Lynn Michaud |
+| 1047 | 150 | Staci Walker |
 | 1048 | 150 | bgiu |
 | 1049 | 150 | Plucky Tetrisline |
 | 1050 | 150 | Richard Harmes |
@@ -1321,26 +1321,26 @@
 | 1313 | 100 | Christine Sheridan |
 | 1314 | 100 | Jason Philp |
 | 1315 | 99 | Michael Vanwinkle |
-| 1316 | 99 | Tabetha Craddock |
+| 1316 | 99 | Amy Lynn |
 | 1317 | 99 | Patricia Mills |
-| 1318 | 98 | Squishy 69 |
-| 1319 | 98 | Ghost187 |
-| 1320 | 98 | Goofy Blockroll |
-| 1321 | 98 | Amy Lynn |
-| 1322 | 98 | Brandon Reyes |
+| 1318 | 99 | Tabetha Craddock |
+| 1319 | 98 | Squishy 69 |
+| 1320 | 98 | Ghost187 |
+| 1321 | 98 | Goofy Blockroll |
+| 1322 | 98 | BearMan01 |
 | 1323 | 98 | Nicole Rivera-Huger |
-| 1324 | 98 | BearMan01 |
-| 1325 | 97 | Bouncy Fitzone |
-| 1326 | 97 | MessyGirl |
-| 1327 | 97 | Mister Reid |
-| 1328 | 97 | Steve Bomkamp |
-| 1329 | 97 | Theresa Crawford |
-| 1330 | 97 | Smiley Towerzone |
-| 1331 | 97 | Churmo |
-| 1332 | 97 | Mike Kimes |
+| 1324 | 98 | Brandon Reyes |
+| 1325 | 97 | Theresa Crawford |
+| 1326 | 97 | Smiley Towerzone |
+| 1327 | 97 | Steve Bomkamp |
+| 1328 | 97 | Mister Reid |
+| 1329 | 97 | MessyGirl |
+| 1330 | 97 | Churmo |
+| 1331 | 97 | Mike Kimes |
+| 1332 | 97 | Bouncy Fitzone |
 | 1333 | 96 | William Campbell |
-| 1334 | 96 | Kgreg49 |
-| 1335 | 96 | Mighty Fitzone |
+| 1334 | 96 | Mighty Fitzone |
+| 1335 | 96 | Kgreg49 |
 | 1336 | 96 | jellikit42 |
 | 1337 | 95 | Irina Varona |
 | 1338 | 95 | Shelby Smith |
@@ -1932,16 +1932,16 @@
 | 1924 | 36 | Mustafa kelani |
 | 1925 | 36 | EarlineDoubtfir |
 | 1926 | 36 | Missfortune |
-| 1927 | 36 | Jennifer Lynn Holshouser |
-| 1928 | 36 | vmoney |
-| 1929 | 36 | Chilly Rotater |
+| 1927 | 36 | Meme2010 |
+| 1928 | 36 | Jennifer Lynn Holshouser |
+| 1929 | 36 | vmoney |
 | 1930 | 36 | Ballew Nisha Ballew |
-| 1931 | 35 | Tonzalee Smith |
-| 1932 | 35 | pickles |
-| 1933 | 35 | Junito Davis |
-| 1934 | 35 | Zach Wright |
-| 1935 | 35 | Jason Dickinson |
-| 1936 | 35 | Meme2010 |
+| 1931 | 36 | Chilly Rotater |
+| 1932 | 35 | Tonzalee Smith |
+| 1933 | 35 | pickles |
+| 1934 | 35 | Junito Davis |
+| 1935 | 35 | Zach Wright |
+| 1936 | 35 | Jason Dickinson |
 | 1937 | 35 | Tammy Griffee |
 | 1938 | 35 | Shawn Payton |
 | 1939 | 35 | HUH_CAT |
@@ -2390,24 +2390,24 @@
 | 2382 | 10 | Frilly Clusterer |
 | 2383 | 10 | Wacky Zigzag |
 | 2384 | 10 | Nèshïa Red |
-| 2385 | 10 | Jordan McVicker |
-| 2386 | 10 | Sarah Ball |
-| 2387 | 10 | Hasty Blast |
-| 2388 | 10 | Amanda Diane Hill |
-| 2389 | 10 | Brian Stacy |
-| 2390 | 10 | Renee Simpson |
-| 2391 | 10 | m31v1n03 |
-| 2392 | 10 | Bouncy Cluster |
-| 2393 | 10 | Charity Bryant |
-| 2394 | 10 | Misti Lee Bay |
-| 2395 | 10 | Lazy Brickroll |
-| 2396 | 10 | BEARCAT |
-| 2397 | 10 | Meeee |
-| 2398 | 10 | Stacy Segal |
-| 2399 | 10 | Crystal |
-| 2400 | 10 | dwarfman |
-| 2401 | 9 | Jenna Salazar |
-| 2402 | 9 | Dizzy Combofall |
+| 2385 | 10 | Charity Bryant |
+| 2386 | 10 | Brian Stacy |
+| 2387 | 10 | Sarah Ball |
+| 2388 | 10 | Hasty Blast |
+| 2389 | 10 | Amanda Diane Hill |
+| 2390 | 10 | Dizzy Combofall |
+| 2391 | 10 | Renee Simpson |
+| 2392 | 10 | m31v1n03 |
+| 2393 | 10 | Bouncy Cluster |
+| 2394 | 10 | Jordan McVicker |
+| 2395 | 10 | Misti Lee Bay |
+| 2396 | 10 | Lazy Brickroll |
+| 2397 | 10 | BEARCAT |
+| 2398 | 10 | Meeee |
+| 2399 | 10 | Stacy Segal |
+| 2400 | 10 | Crystal |
+| 2401 | 10 | dwarfman |
+| 2402 | 9 | Jenna Salazar |
 | 2403 | 9 | Threeste Lagunas |
 | 2404 | 9 | Peyton Meche |
 | 2405 | 9 | Daryl Lassiter |
