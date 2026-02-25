@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 09:28:45 UTC
+# Standings for team1 as of 2026-02-25 09:29:23 UTC
 
 **Total Participants:** 2448
 
@@ -34,7 +34,7 @@
 | 26 | 2229 | Amanda Jarnagin |
 | 27 | 2209 | Carolyn Smith |
 | 28 | 2087 | Jorge Andrade |
-| 29 | 2040 | Jennifer Cates |
+| 29 | 2045 | Jennifer Cates |
 | 30 | 2004 | Hyp James NObettadanluvarat |
 | 31 | 1969 | Joe Smith |
 | 32 | 1836 | Nancy Green |
@@ -194,9 +194,9 @@
 | 186 | 612 | Loony Fitzone |
 | 187 | 609 | Deanna L Hermanson |
 | 188 | 606 | Brandi Huntington |
-| 189 | 604 | Sarah Lombardo |
-| 190 | 600 | Arianna O'Brien |
-| 191 | 599 | Howdi Duty |
+| 189 | 604 | Howdi Duty |
+| 190 | 604 | Sarah Lombardo |
+| 191 | 600 | Arianna O'Brien |
 | 192 | 597 | Jumpy Dropper |
 | 193 | 596 | Nicole Roseberry Weber |
 | 194 | 593 | GATOR |
@@ -450,20 +450,20 @@
 | 442 | 342 | Toni Sagenbrecht |
 | 443 | 342 | Christina Norman |
 | 444 | 342 | ash |
-| 445 | 340 | Dawon Ksk Capers |
-| 446 | 339 | Joe Coon |
-| 447 | 338 | cheeseman |
-| 448 | 336 | Christy LaSure |
-| 449 | 336 | Steven Collins |
-| 450 | 335 | Shaykmia |
+| 445 | 341 | Shaykmia |
+| 446 | 340 | Dawon Ksk Capers |
+| 447 | 339 | Joe Coon |
+| 448 | 338 | cheeseman |
+| 449 | 336 | Christy LaSure |
+| 450 | 336 | Steven Collins |
 | 451 | 335 | John Barron |
 | 452 | 334 | Leslie Bush Yarbrough |
 | 453 | 333 | Vivienne Carter |
 | 454 | 332 | Ric Hard Hernandez |
 | 455 | 332 | Frisky Base |
-| 456 | 332 | Rock it |
-| 457 | 332 | Susie Loo |
-| 458 | 332 | Krie |
+| 456 | 332 | Krie |
+| 457 | 332 | Rock it |
+| 458 | 332 | Susie Loo |
 | 459 | 331 | Lisa Miller |
 | 460 | 330 | Rebecca Apley Mielke |
 | 461 | 330 | Rachel Rogers |
@@ -472,29 +472,29 @@
 | 464 | 327 | Snappy Bridgepiece |
 | 465 | 327 | Agustin Duarte Orozco |
 | 466 | 327 | Norma Paredez |
-| 467 | 326 | GentleKitten7 |
-| 468 | 326 | Jason Benitez |
+| 467 | 326 | Jason Benitez |
+| 468 | 326 | GentleKitten7 |
 | 469 | 325 | Joshua Weeder |
 | 470 | 323 | Cranky Pattern |
 | 471 | 323 | JaPria Rodgers |
 | 472 | 322 | Camelia Trevillion |
-| 473 | 322 | Itspaigebro |
-| 474 | 322 | Sunshine |
+| 473 | 322 | Sunshine |
+| 474 | 322 | Itspaigebro |
 | 475 | 320 | Beffy |
 | 476 | 320 | Toph |
-| 477 | 319 | Ed Franz Jr |
-| 478 | 319 | Blaire Bruckoff |
-| 479 | 319 | Bustin’ Blocks |
-| 480 | 319 | Neely Janelle Stewart |
+| 477 | 319 | Bustin’ Blocks |
+| 478 | 319 | Neely Janelle Stewart |
+| 479 | 319 | Blaire Bruckoff |
+| 480 | 319 | Ed Franz Jr |
 | 481 | 318 | BigWeenie69 |
 | 482 | 318 | Danielle Mae |
-| 483 | 317 | Damian Salem |
-| 484 | 317 | Blake Mckay |
+| 483 | 317 | Blake Mckay |
+| 484 | 317 | Damian Salem |
 | 485 | 317 | Rikki Jo Creech |
 | 486 | 316 | Tiffany Daboss Seymour |
 | 487 | 316 | Chilly Riserpiece |
-| 488 | 315 | Randy Broadwater |
-| 489 | 315 | Tedashi |
+| 488 | 315 | Tedashi |
+| 489 | 315 | Randy Broadwater |
 | 490 | 314 | Emmarieta Mendez |
 | 491 | 314 | Chad Atchley |
 | 492 | 314 | Наталья Солоид |
@@ -506,69 +506,69 @@
 | 498 | 311 | Brave Slice |
 | 499 | 310 | Kayla Marie Stevenson |
 | 500 | 310 | Adan Reyes |
-| 501 | 309 | Michelle |
-| 502 | 309 | Isaiah |
-| 503 | 309 | Glitzy Buildsnap |
-| 504 | 309 | Lisa Reynolds Adair |
-| 505 | 308 | Mel Fab |
-| 506 | 308 | Shannon Guilloty |
-| 507 | 308 | Justin Canape |
+| 501 | 309 | Isaiah |
+| 502 | 309 | Glitzy Buildsnap |
+| 503 | 309 | Lisa Reynolds Adair |
+| 504 | 309 | Michelle |
+| 505 | 308 | Shannon Guilloty |
+| 506 | 308 | Laurie Sanderson |
+| 507 | 308 | Lucile Lynn |
 | 508 | 308 | Ramona Shaver |
-| 509 | 308 | Laurie Sanderson |
-| 510 | 307 | Buggs |
-| 511 | 307 | Charlie Walker |
-| 512 | 306 | Ashley Rodriguez |
-| 513 | 305 | Brenda L. Bunce |
-| 514 | 305 | Zesty Brickzone |
-| 515 | 304 | Jamie Catlett |
+| 509 | 308 | Mel Fab |
+| 510 | 308 | Justin Canape |
+| 511 | 307 | Buggs |
+| 512 | 307 | Charlie Walker |
+| 513 | 306 | Ashley Rodriguez |
+| 514 | 305 | Brenda L. Bunce |
+| 515 | 305 | Zesty Brickzone |
 | 516 | 304 | Breanna Luna |
 | 517 | 304 | Purple |
-| 518 | 303 | Ruthie Mahoney Saunders-Browne |
-| 519 | 302 | Larry Oaks |
-| 520 | 301 | Megan Kradzinski Ferguson |
+| 518 | 304 | Jamie Catlett |
+| 519 | 303 | Ruthie Mahoney Saunders-Browne |
+| 520 | 302 | Larry Oaks |
 | 521 | 301 | MomOf2Angels |
 | 522 | 301 | Cool Balancer |
-| 523 | 300 | Anita Jack |
-| 524 | 300 | Amie Fields |
-| 525 | 300 | Melanie Kelley |
-| 526 | 299 | Mary Cerciello |
-| 527 | 297 | Willy Michael |
-| 528 | 296 | Barry Mac'Ockner |
+| 523 | 301 | Megan Kradzinski Ferguson |
+| 524 | 300 | Anita Jack |
+| 525 | 300 | Amie Fields |
+| 526 | 300 | Melanie Kelley |
+| 527 | 299 | Mary Cerciello |
+| 528 | 297 | Willy Michael |
 | 529 | 296 | Dena Kayy |
-| 530 | 295 | Clever Cascadepiece |
-| 531 | 295 | Archie Ware |
-| 532 | 294 | I Am |
-| 533 | 293 | Panda Thagreat |
-| 534 | 291 | Sir-Franchise Drake |
-| 535 | 291 | Burnnetter Sisk |
-| 536 | 290 | Ariel Whittington |
-| 537 | 290 | Rachel Copas |
-| 538 | 289 | Scott Betson |
+| 530 | 296 | Barry Mac'Ockner |
+| 531 | 295 | Clever Cascadepiece |
+| 532 | 295 | Archie Ware |
+| 533 | 294 | I Am |
+| 534 | 293 | Panda Thagreat |
+| 535 | 291 | Sir-Franchise Drake |
+| 536 | 291 | Burnnetter Sisk |
+| 537 | 290 | Ariel Whittington |
+| 538 | 290 | Rachel Copas |
 | 539 | 289 | MamaB24 |
-| 540 | 289 | Theeranart Mahawan |
-| 541 | 288 | Sassy Towerer |
-| 542 | 287 | Abbey Crespo |
-| 543 | 286 | Kristen Meehan Wangerien |
-| 544 | 285 | Joke Sofunny |
-| 545 | 284 | Funky Piecebuilder |
+| 540 | 289 | Scott Betson |
+| 541 | 289 | Theeranart Mahawan |
+| 542 | 288 | Sassy Towerer |
+| 543 | 287 | Abbey Crespo |
+| 544 | 286 | Kristen Meehan Wangerien |
+| 545 | 285 | Joke Sofunny |
 | 546 | 284 | Gerald Richard Franke |
-| 547 | 283 | Franswa |
-| 548 | 283 | Matthew Foley |
-| 549 | 282 | Pauline Cortez |
-| 550 | 282 | Timothy Dew |
+| 547 | 284 | Funky Piecebuilder |
+| 548 | 283 | Franswa |
+| 549 | 283 | Matthew Foley |
+| 550 | 282 | Pauline Cortez |
 | 551 | 282 | Marc Abney |
 | 552 | 282 | Gilbert Ortiz Jr. |
-| 553 | 281 | Tiffany Trinh |
-| 554 | 281 | Olivia Witmer |
-| 555 | 280 | Mary Sheets |
-| 556 | 279 | Sabrina Coleman |
-| 557 | 279 | Chris Dawson |
-| 558 | 278 | Ashley Adams |
-| 559 | 278 | Austin Jones |
-| 560 | 278 | Andrew Backes |
+| 553 | 282 | Timothy Dew |
+| 554 | 281 | Tiffany Trinh |
+| 555 | 281 | Olivia Witmer |
+| 556 | 280 | Mary Sheets |
+| 557 | 279 | Sabrina Coleman |
+| 558 | 279 | Chris Dawson |
+| 559 | 278 | Ashley Adams |
+| 560 | 278 | Austin Jones |
 | 561 | 278 | Thorne Shumate |
 | 562 | 278 | Nevaeh Mattox |
-| 563 | 277 | Lucile Lynn |
+| 563 | 278 | Andrew Backes |
 | 564 | 277 | Jake Mcnabb |
 | 565 | 276 | Cozy Shatterer |
 | 566 | 276 | Larry Jackson |
