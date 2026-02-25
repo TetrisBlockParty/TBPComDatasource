@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 07:04:43 UTC
+# Standings for team4 as of 2026-02-25 07:05:23 UTC
 
 **Total Participants:** 2177
 
@@ -216,7 +216,7 @@
 | 208 | 585 | rebel4lyfe |
 | 209 | 583 | Erin Sabol |
 | 210 | 579 | Oscar Alberto Perez |
-| 211 | 573 | meowmew |
+| 211 | 574 | meowmew |
 | 212 | 573 | Andy Cabral |
 | 213 | 573 | Kristina Black |
 | 214 | 570 | Twisty Clicky |
@@ -351,26 +351,26 @@
 | 343 | 411 | Chair |
 | 344 | 410 | Frances Hui |
 | 345 | 409 | Jason Bosco |
-| 346 | 408 | BigSammy420 |
-| 347 | 407 | Eri Kka |
-| 348 | 405 | ZeeZee |
-| 349 | 403 | Madison Sweere |
-| 350 | 402 | Richard-April Kice |
-| 351 | 401 | AyeKay |
-| 352 | 400 | Heather Bruce |
-| 353 | 400 | @ |
-| 354 | 399 | Shukee Lo |
-| 355 | 397 | James Philpot Ross |
-| 356 | 394 | Perky Patternblock |
-| 357 | 393 | Bryan Hodgins |
-| 358 | 393 | Amy Sanford |
-| 359 | 392 | Sarah Hoffman |
-| 360 | 392 | Mary Ann Pabukis |
-| 361 | 392 | Angie Schmidt |
-| 362 | 391 | Amanda Maciel Clarke |
-| 363 | 391 | Jenna McGeorge |
-| 364 | 388 | Megan Cutshaw |
-| 365 | 388 | Perky Piecegrid |
+| 346 | 408 | Perky Piecegrid |
+| 347 | 408 | BigSammy420 |
+| 348 | 407 | Eri Kka |
+| 349 | 407 | Madison Sweere |
+| 350 | 405 | ZeeZee |
+| 351 | 402 | Richard-April Kice |
+| 352 | 401 | AyeKay |
+| 353 | 400 | Heather Bruce |
+| 354 | 400 | @ |
+| 355 | 399 | Shukee Lo |
+| 356 | 397 | James Philpot Ross |
+| 357 | 394 | Perky Patternblock |
+| 358 | 393 | Bryan Hodgins |
+| 359 | 393 | Amy Sanford |
+| 360 | 392 | Sarah Hoffman |
+| 361 | 392 | Mary Ann Pabukis |
+| 362 | 392 | Angie Schmidt |
+| 363 | 391 | Amanda Maciel Clarke |
+| 364 | 391 | Jenna McGeorge |
+| 365 | 388 | Megan Cutshaw |
 | 366 | 387 | Ak Jones |
 | 367 | 387 | George Tzouganos |
 | 368 | 385 | Stephme310 |
@@ -995,49 +995,49 @@
 | 987 | 133 | BROOKE |
 | 988 | 133 | Raeann Gibson |
 | 989 | 133 | Zzz |
-| 990 | 132 | Kellie Tacuban |
-| 991 | 132 | Aj Brantley Lpn |
-| 992 | 132 | Lynella |
-| 993 | 132 | Jessica Cagle |
-| 994 | 132 | Lynette Manning |
-| 995 | 131 | Roseanna Anderson |
+| 990 | 133 | Quirky Puzzler |
+| 991 | 132 | Jessica Cagle |
+| 992 | 132 | Lynette Manning |
+| 993 | 132 | Kellie Tacuban |
+| 994 | 132 | Aj Brantley Lpn |
+| 995 | 132 | Lynella |
 | 996 | 131 | Kerlyne Kay Toussaint Smith |
 | 997 | 131 | DinoNuggie |
-| 998 | 130 | Loony Slider |
+| 998 | 131 | Roseanna Anderson |
 | 999 | 130 | Snappy Combofall |
-| 1000 | 129 | Ryan Knives Vanderpool |
-| 1001 | 129 | Dreamy Snapgrid |
-| 1002 | 129 | Keri Hough |
-| 1003 | 129 | Michele Badgwell |
-| 1004 | 129 | Camille |
-| 1005 | 129 | Sweet Pea |
-| 1006 | 129 | Speedy Zigzag |
-| 1007 | 129 | Harper |
-| 1008 | 128 | Ninaforever |
-| 1009 | 128 | Bigg Guy |
-| 1010 | 127 | Jumpy Shatterline |
-| 1011 | 127 | Maverick |
-| 1012 | 127 | Mighty Blockzone |
-| 1013 | 127 | Danelle Sulentic |
-| 1014 | 126 | Spicy Cascadezone |
+| 1000 | 130 | Loony Slider |
+| 1001 | 129 | Keri Hough |
+| 1002 | 129 | Michele Badgwell |
+| 1003 | 129 | Camille |
+| 1004 | 129 | Sweet Pea |
+| 1005 | 129 | Speedy Zigzag |
+| 1006 | 129 | Harper |
+| 1007 | 129 | Ryan Knives Vanderpool |
+| 1008 | 129 | Dreamy Snapgrid |
+| 1009 | 128 | Ninaforever |
+| 1010 | 128 | Bigg Guy |
+| 1011 | 127 | Jumpy Shatterline |
+| 1012 | 127 | Maverick |
+| 1013 | 127 | Mighty Blockzone |
+| 1014 | 127 | Danelle Sulentic |
 | 1015 | 126 | Bob N Alisha Hinojosa |
-| 1016 | 126 | amy |
-| 1017 | 126 | PAPatty |
-| 1018 | 126 | Ian Starnes |
-| 1019 | 125 | Carlos G Reyes |
-| 1020 | 125 | Hyper Cascade |
-| 1021 | 125 | Wacky Blockclear |
-| 1022 | 125 | Liliveth |
-| 1023 | 125 | Crystal Canfield |
-| 1024 | 124 | UJ Mate |
-| 1025 | 123 | Snappy Bouncer |
-| 1026 | 123 | Cozy Balanceblock |
-| 1027 | 123 | Shiny Wipefit |
-| 1028 | 123 | Gregory Mock |
-| 1029 | 123 | Leah Landry |
-| 1030 | 123 | Ashley Lynn Shannon |
-| 1031 | 123 | Alee Marie |
-| 1032 | 123 | Quirky Puzzler |
+| 1016 | 126 | Spicy Cascadezone |
+| 1017 | 126 | amy |
+| 1018 | 126 | PAPatty |
+| 1019 | 126 | Ian Starnes |
+| 1020 | 125 | Carlos G Reyes |
+| 1021 | 125 | Hyper Cascade |
+| 1022 | 125 | Wacky Blockclear |
+| 1023 | 125 | Liliveth |
+| 1024 | 125 | Crystal Canfield |
+| 1025 | 124 | UJ Mate |
+| 1026 | 123 | Snappy Bouncer |
+| 1027 | 123 | Cozy Balanceblock |
+| 1028 | 123 | Shiny Wipefit |
+| 1029 | 123 | Gregory Mock |
+| 1030 | 123 | Leah Landry |
+| 1031 | 123 | Ashley Lynn Shannon |
+| 1032 | 123 | Alee Marie |
 | 1033 | 123 | canglem |
 | 1034 | 122 | Loopy Bouncer |
 | 1035 | 121 | Mitchell Everhart |
