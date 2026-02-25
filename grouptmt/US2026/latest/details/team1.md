@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 19:32:43 UTC
+# Standings for team1 as of 2026-02-25 19:33:23 UTC
 
 **Total Participants:** 2517
 
@@ -115,7 +115,7 @@
 | 107 | 999 | Mario Cab |
 | 108 | 995 | Chuck Gannon |
 | 109 | 995 | Amanda Johnson Huffman |
-| 110 | 982 | Madison Wicks |
+| 110 | 987 | Madison Wicks |
 | 111 | 979 | Giddy Cascade |
 | 112 | 972 | Seth Wesson |
 | 113 | 972 | Hellsin |
@@ -552,26 +552,26 @@
 | 544 | 310 | Adan Reyes |
 | 545 | 309 | Isaiah |
 | 546 | 309 | Lisa Reynolds Adair |
-| 547 | 308 | Laurie Sanderson |
-| 548 | 308 | Ramona Shaver |
+| 547 | 308 | Mary Crisp |
+| 548 | 308 | Laurie Sanderson |
 | 549 | 308 | Shannon Guilloty |
 | 550 | 308 | Amie Fields |
-| 551 | 308 | Mary Crisp |
+| 551 | 308 | Ramona Shaver |
 | 552 | 306 | Ellen Newman |
-| 553 | 304 | Sabrina Coleman |
-| 554 | 304 | MamaB24 |
-| 555 | 304 | Jamie Catlett |
-| 556 | 303 | Ruthie Mahoney Saunders-Browne |
-| 557 | 303 | Willy Michael |
+| 553 | 304 | MamaB24 |
+| 554 | 304 | Jamie Catlett |
+| 555 | 304 | Sabrina Coleman |
+| 556 | 303 | Willy Michael |
+| 557 | 303 | Ruthie Mahoney Saunders-Browne |
 | 558 | 303 | Aaron Green |
 | 559 | 301 | grizzly |
 | 560 | 300 | Andrew Backes |
 | 561 | 299 | Costa del Sol |
 | 562 | 297 | Jake Mcnabb |
-| 563 | 297 | Frisky Risebuilder |
-| 564 | 297 | Tiffany Trinh |
-| 565 | 296 | Dena Kayy |
-| 566 | 296 | Cozy Shatterer |
+| 563 | 297 | Tiffany Trinh |
+| 564 | 297 | Frisky Risebuilder |
+| 565 | 296 | Cozy Shatterer |
+| 566 | 296 | Dena Kayy |
 | 567 | 296 | Mel Hogan |
 | 568 | 295 | Clever Cascadepiece |
 | 569 | 294 | Burnnetter Sisk |
@@ -580,60 +580,60 @@
 | 572 | 291 | Shay J Duval |
 | 573 | 290 | Ariel Whittington |
 | 574 | 290 | Rachel Copas |
-| 575 | 289 | Theeranart Mahawan |
-| 576 | 288 | Sassy Towerer |
-| 577 | 287 | Colleen Wise |
-| 578 | 286 | David |
+| 575 | 289 | Jill King Oldham |
+| 576 | 289 | Theeranart Mahawan |
+| 577 | 288 | Sassy Towerer |
+| 578 | 287 | Colleen Wise |
 | 579 | 286 | Teresa |
-| 580 | 285 | Amber Dollak-Smith |
-| 581 | 285 | Joke Sofunny |
-| 582 | 285 | Robin Burress |
-| 583 | 284 | Melissa Ann Macko |
-| 584 | 283 | Brad MG |
-| 585 | 283 | Matthew Foley |
+| 580 | 286 | David |
+| 581 | 285 | Amber Dollak-Smith |
+| 582 | 285 | Joke Sofunny |
+| 583 | 285 | Robin Burress |
+| 584 | 285 | Brian K Young II |
+| 585 | 284 | Melissa Ann Macko |
 | 586 | 283 | Franswa |
-| 587 | 282 | Marc Abney |
-| 588 | 282 | Timothy Dew |
-| 589 | 282 | Gilbert Ortiz Jr. |
-| 590 | 281 | Ja Ce |
-| 591 | 281 | Ashley Adams |
-| 592 | 281 | Sunflower |
+| 587 | 283 | Brad MG |
+| 588 | 283 | Matthew Foley |
+| 589 | 282 | Marc Abney |
+| 590 | 282 | Gilbert Ortiz Jr. |
+| 591 | 282 | Timothy Dew |
+| 592 | 281 | Ashley Adams |
 | 593 | 281 | Olivia Witmer |
-| 594 | 280 | Marie White |
-| 595 | 280 | Mary Sheets |
+| 594 | 281 | Sunflower |
+| 595 | 281 | Ja Ce |
 | 596 | 280 | Peppy Columnbuilder |
-| 597 | 279 | Chris Dawson |
-| 598 | 279 | Beau Galvan |
+| 597 | 280 | Mary Sheets |
+| 598 | 280 | Marie White |
 | 599 | 279 | Playtray |
 | 600 | 279 | Jordan Brooks |
-| 601 | 278 | Nevaeh Mattox |
-| 602 | 278 | Austin Jones |
+| 601 | 279 | Chris Dawson |
+| 602 | 279 | Beau Galvan |
 | 603 | 278 | Thorne Shumate |
-| 604 | 278 | Rivkah |
-| 605 | 277 | Sheri Read |
-| 606 | 277 | Jen Justus |
-| 607 | 277 | Brian K Young II |
-| 608 | 276 | Larry Jackson |
-| 609 | 275 | Marqs Mel |
-| 610 | 272 | Jeffrey Scott Younkins |
-| 611 | 272 | Andrew Boone |
-| 612 | 272 | Ruby Sandberg |
-| 613 | 271 | Jennifer Corrado |
-| 614 | 271 | Cheeky Curvetile |
-| 615 | 270 | Giggly Rollfit |
-| 616 | 270 | Malaka |
-| 617 | 270 | Nerdy Curvebuilder |
-| 618 | 270 | Sam Rosado |
-| 619 | 269 | Joyce Harrell-chavis |
-| 620 | 268 | Jill King Oldham |
+| 604 | 278 | Austin Jones |
+| 605 | 278 | Nevaeh Mattox |
+| 606 | 278 | Rivkah |
+| 607 | 277 | Sheri Read |
+| 608 | 277 | Jen Justus |
+| 609 | 276 | Larry Jackson |
+| 610 | 275 | Marqs Mel |
+| 611 | 272 | Jeffrey Scott Younkins |
+| 612 | 272 | Andrew Boone |
+| 613 | 272 | Ruby Sandberg |
+| 614 | 271 | Jennifer Corrado |
+| 615 | 271 | Cheeky Curvetile |
+| 616 | 270 | Nerdy Curvebuilder |
+| 617 | 270 | Giggly Rollfit |
+| 618 | 270 | Malaka |
+| 619 | 270 | Sam Rosado |
+| 620 | 269 | Joyce Harrell-chavis |
 | 621 | 268 | Terika Rodriguez |
 | 622 | 268 | Kayla |
 | 623 | 268 | Bay Marie |
 | 624 | 267 | Gina Fontana Meier |
 | 625 | 267 | Michelle Deans |
-| 626 | 267 | Dandy Towerbuilder |
-| 627 | 267 | Blake Cobb |
-| 628 | 267 | Chyna Mae |
+| 626 | 267 | Blake Cobb |
+| 627 | 267 | Chyna Mae |
+| 628 | 267 | Dandy Towerbuilder |
 | 629 | 265 | Lauren Baxter |
 | 630 | 265 | Khatia Sikharulidze |
 | 631 | 265 | Josh Smith |
@@ -642,11 +642,11 @@
 | 634 | 263 | Hdhshsn |
 | 635 | 263 | Equinn |
 | 636 | 262 | Prometheus |
-| 637 | 262 | Margaret Rose |
-| 638 | 262 | Dee Doris Ewald Flynn |
-| 639 | 262 | Tipsy Tiltpiece |
-| 640 | 261 | Alex Nicol |
-| 641 | 261 | Shiny Rotate |
+| 637 | 262 | Tipsy Tiltpiece |
+| 638 | 262 | Margaret Rose |
+| 639 | 262 | Dee Doris Ewald Flynn |
+| 640 | 261 | Shiny Rotate |
+| 641 | 261 | Alex Nicol |
 | 642 | 260 | Corkey Steinmark |
 | 643 | 260 | Divaaa |
 | 644 | 260 | Lacy Wolfe |
@@ -1753,26 +1753,26 @@
 | 1745 | 50 | Dustin Eagleton |
 | 1746 | 50 | Eric Michael Floyd |
 | 1747 | 50 | npc1vis |
-| 1748 | 50 | Dandy Line |
-| 1749 | 50 | Kat Bowman |
-| 1750 | 50 | Tracy Obenauer |
+| 1748 | 50 | Spunky Stagger |
+| 1749 | 50 | Tracy Obenauer |
+| 1750 | 50 | Kat Bowman |
 | 1751 | 50 | Sarah Lyle |
-| 1752 | 50 | Allen Hill |
-| 1753 | 50 | Spunky Stagger |
-| 1754 | 50 | Quirky Stackzone |
-| 1755 | 50 | Heaven |
-| 1756 | 50 | Clarenique Williams |
-| 1757 | 50 | Cheeky Spinzone |
-| 1758 | 49 | Sassy Dashy |
-| 1759 | 49 | Paul Neurauter |
+| 1752 | 50 | Wendy Brock |
+| 1753 | 50 | Allen Hill |
+| 1754 | 50 | Dandy Line |
+| 1755 | 50 | Quirky Stackzone |
+| 1756 | 50 | Heaven |
+| 1757 | 50 | Clarenique Williams |
+| 1758 | 50 | Cheeky Spinzone |
+| 1759 | 49 | Sassy Dashy |
 | 1760 | 49 | Sonikku |
 | 1761 | 49 | Perez219 |
-| 1762 | 49 | Lori LeClaire Andersen |
-| 1763 | 49 | Tyler Mulholland |
+| 1762 | 49 | Paul Neurauter |
+| 1763 | 49 | Lori LeClaire Andersen |
 | 1764 | 49 | Kimberly Berry |
-| 1765 | 49 | Boldy Tumbler |
-| 1766 | 49 | Ryan Strong |
-| 1767 | 49 | Wendy Brock |
+| 1765 | 49 | Tyler Mulholland |
+| 1766 | 49 | Boldy Tumbler |
+| 1767 | 49 | Ryan Strong |
 | 1768 | 49 | Summer Osborne |
 | 1769 | 49 | Edward McParlin |
 | 1770 | 49 | Beverly Bender |
