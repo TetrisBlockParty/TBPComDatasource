@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 11:32:44 UTC
+# Standings for team4 as of 2026-02-25 11:33:23 UTC
 
 **Total Participants:** 2199
 
@@ -70,10 +70,10 @@
 | 62 | 1345 | LisaJo Picken Buchanan |
 | 63 | 1324 | Anthony Bryan Riva |
 | 64 | 1301 | Keith Kelley |
-| 65 | 1296 | Dustee Craddock-Harrison |
-| 66 | 1289 | Livvy |
-| 67 | 1288 | Julian Garcia |
-| 68 | 1287 | Justin Hannigan |
+| 65 | 1297 | Justin Hannigan |
+| 66 | 1296 | Dustee Craddock-Harrison |
+| 67 | 1289 | Livvy |
+| 68 | 1288 | Julian Garcia |
 | 69 | 1267 | Chilly Line |
 | 70 | 1220 | Ashley Ingram |
 | 71 | 1215 | Heather Tushner |
@@ -225,11 +225,11 @@
 | 217 | 585 | rebel4lyfe |
 | 218 | 583 | Erin Sabol |
 | 219 | 579 | Oscar Alberto Perez |
-| 220 | 573 | Kristina Black |
-| 221 | 570 | Ellen Durfee |
-| 222 | 569 | Leslie Thomas |
-| 223 | 568 | Zippy Block |
-| 224 | 567 | Cranky Rollpiece |
+| 220 | 576 | Cranky Rollpiece |
+| 221 | 573 | Kristina Black |
+| 222 | 570 | Ellen Durfee |
+| 223 | 569 | Leslie Thomas |
+| 224 | 568 | Zippy Block |
 | 225 | 560 | Plucky Patternblock |
 | 226 | 552 | Jeff Brian Gates |
 | 227 | 552 | Joseph Guthrie |
