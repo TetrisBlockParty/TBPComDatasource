@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 08:59:23 UTC
+# Standings for team1 as of 2026-02-25 09:00:45 UTC
 
 **Total Participants:** 2446
 
@@ -103,7 +103,7 @@
 | 95 | 1011 | Francesca Gee |
 | 96 | 1010 | Tee Sheree |
 | 97 | 1004 | Bindi |
-| 98 | 992 | comrade fish |
+| 98 | 994 | comrade fish |
 | 99 | 986 | Jennifer ManWarren |
 | 100 | 974 | Sweet Baker |
 | 101 | 972 | Seth Wesson |
@@ -896,12 +896,12 @@
 | 888 | 172 | Althaea Frost Ambrose |
 | 889 | 172 | forevernght |
 | 890 | 172 | EverPi |
-| 891 | 171 | George Dalton |
-| 892 | 171 | Kerry Lee Powell |
-| 893 | 171 | thtgood |
-| 894 | 171 | Brian |
-| 895 | 171 | Greg Premoe |
-| 896 | 171 | PeppyPenguin |
+| 891 | 172 | PeppyPenguin |
+| 892 | 171 | George Dalton |
+| 893 | 171 | Kerry Lee Powell |
+| 894 | 171 | thtgood |
+| 895 | 171 | Brian |
+| 896 | 171 | Greg Premoe |
 | 897 | 170 | Cheeky Curvetile |
 | 898 | 170 | Melissa Thomas |
 | 899 | 170 | Aleea Six |
