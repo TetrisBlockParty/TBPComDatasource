@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 16:04:43 UTC
+# Standings for team4 as of 2026-02-25 16:05:22 UTC
 
 **Total Participants:** 2226
 
@@ -848,10 +848,10 @@
 | 840 | 182 | Glen Altomare II |
 | 841 | 182 | Stephanie Mico |
 | 842 | 181 | Diamond Johnson |
-| 843 | 181 | Christian Torres |
-| 844 | 181 | Caitlyn Brown |
-| 845 | 180 | Jennifer Perkins |
-| 846 | 180 | Jay28 |
+| 843 | 181 | Caitlyn Brown |
+| 844 | 181 | Christian Torres |
+| 845 | 180 | Jay28 |
+| 846 | 180 | Jennifer Perkins |
 | 847 | 180 | Robert Sch |
 | 848 | 180 | Verna Neal |
 | 849 | 180 | Courtney Angel |
@@ -1229,18 +1229,18 @@
 | 1221 | 99 | Wacky Shatterline |
 | 1222 | 98 | Chill Tetrisline |
 | 1223 | 98 | James May |
-| 1224 | 98 | Maurice Daniels |
-| 1225 | 97 | Chilly Matchpiece |
-| 1226 | 97 | Breezy Grid |
+| 1224 | 98 | Twisty Risegrid |
+| 1225 | 98 | Maurice Daniels |
+| 1226 | 97 | Chilly Matchpiece |
 | 1227 | 97 | Giggy Bridgepiece |
 | 1228 | 97 | Bubbly Crawler |
-| 1229 | 97 | Jessalyn Jordan Davis |
-| 1230 | 96 | Deborah Hewitt |
-| 1231 | 96 | Miguel Rodriguez |
-| 1232 | 96 | Danielle Love |
-| 1233 | 96 | Erin DeArman |
-| 1234 | 96 | Rita Loucks |
-| 1235 | 96 | Twisty Risegrid |
+| 1229 | 97 | Breezy Grid |
+| 1230 | 97 | Jessalyn Jordan Davis |
+| 1231 | 96 | Deborah Hewitt |
+| 1232 | 96 | Miguel Rodriguez |
+| 1233 | 96 | Danielle Love |
+| 1234 | 96 | Erin DeArman |
+| 1235 | 96 | Rita Loucks |
 | 1236 | 96 | Christy |
 | 1237 | 96 | Mark Morgan |
 | 1238 | 96 | Joshua A Bea |
@@ -1249,8 +1249,8 @@
 | 1241 | 95 | Victoria Calvario |
 | 1242 | 95 | Allison Judith |
 | 1243 | 95 | Joleeoleeooo |
-| 1244 | 95 | Dreamy Tiler |
-| 1245 | 95 | RedBoots82 |
+| 1244 | 95 | RedBoots82 |
+| 1245 | 95 | Dreamy Tiler |
 | 1246 | 95 | Kat |
 | 1247 | 95 | Cheery Shatterclear |
 | 1248 | 95 | Chirpy Slammer |
@@ -1363,8 +1363,8 @@
 | 1355 | 76 | Maly Harmen |
 | 1356 | 76 | George Thomson Jr. |
 | 1357 | 76 | Heather Hilferty |
-| 1358 | 76 | Eric Quan |
-| 1359 | 76 | Saucy Brickfit |
+| 1358 | 76 | Saucy Brickfit |
+| 1359 | 76 | Eric Quan |
 | 1360 | 75 | Jeffrey Carl Carter |
 | 1361 | 75 | Dena Shoop |
 | 1362 | 75 | Sunny68 |
@@ -1594,8 +1594,8 @@
 | 1586 | 52 | Clever Fitzone |
 | 1587 | 52 | Hoodylu |
 | 1588 | 52 | Flashy Cascadepiece |
-| 1589 | 52 | emd |
-| 1590 | 52 | Alexis Kelly |
+| 1589 | 52 | Alexis Kelly |
+| 1590 | 52 | emd |
 | 1591 | 51 | Laura Davis |
 | 1592 | 51 | Sarah Whitson |
 | 1593 | 51 | Sassy Block |
@@ -1733,13 +1733,13 @@
 | 1725 | 39 | Shanika Davis |
 | 1726 | 39 | Samantha Kleine |
 | 1727 | 39 | Anastasia Myers |
-| 1728 | 39 | Peachy Patternline |
-| 1729 | 39 | Colleen Shanley |
-| 1730 | 39 | Elaine Hall |
-| 1731 | 38 | Phoenix |
-| 1732 | 38 | LaTrice Malone-Hubert |
-| 1733 | 38 | Ginger Snappy |
-| 1734 | 38 | Wacky Shift |
+| 1728 | 39 | Wacky Shift |
+| 1729 | 39 | Peachy Patternline |
+| 1730 | 39 | Colleen Shanley |
+| 1731 | 39 | Elaine Hall |
+| 1732 | 38 | Phoenix |
+| 1733 | 38 | LaTrice Malone-Hubert |
+| 1734 | 38 | Ginger Snappy |
 | 1735 | 38 | Ashley Jaques |
 | 1736 | 38 | Cassandra Goldsmith |
 | 1737 | 38 | Dapper Wiper |
