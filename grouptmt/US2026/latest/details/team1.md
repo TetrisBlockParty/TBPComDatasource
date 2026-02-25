@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 19:52:43 UTC
+# Standings for team1 as of 2026-02-25 19:53:23 UTC
 
 **Total Participants:** 2519
 
@@ -75,8 +75,8 @@
 | 67 | 1401 | Kristen Roles Robben |
 | 68 | 1400 | Hasbro Bros |
 | 69 | 1332 | Kristen Gideon |
-| 70 | 1328 | Karin Gillen |
-| 71 | 1328 | Lawrence Belanger |
+| 70 | 1328 | Lawrence Belanger |
+| 71 | 1328 | Karin Gillen |
 | 72 | 1320 | Kathy Langham |
 | 73 | 1315 | Cheeky Twistslam |
 | 74 | 1310 | Patrick Luckenbill |
@@ -113,13 +113,13 @@
 | 105 | 1001 | Tdub |
 | 106 | 999 | comrade fish |
 | 107 | 999 | Mario Cab |
-| 108 | 995 | Amanda Johnson Huffman |
-| 109 | 995 | Chuck Gannon |
+| 108 | 995 | Chuck Gannon |
+| 109 | 995 | Amanda Johnson Huffman |
 | 110 | 987 | Madison Wicks |
 | 111 | 979 | Giddy Cascade |
-| 112 | 972 | Seth Wesson |
-| 113 | 972 | Plucky Fallzone |
-| 114 | 972 | Hellsin |
+| 112 | 972 | Plucky Fallzone |
+| 113 | 972 | Hellsin |
+| 114 | 972 | Seth Wesson |
 | 115 | 962 | Kellie |
 | 116 | 956 | Hyper |
 | 117 | 948 | Greg Hart |
@@ -130,10 +130,10 @@
 | 122 | 929 | Denice Dee |
 | 123 | 916 | Chirpy Smasher |
 | 124 | 910 | Tinah Montanna |
-| 125 | 908 | Jazzy Framezone |
-| 126 | 907 | Oscar Zamora |
-| 127 | 904 | Fmp |
-| 128 | 901 | Bob |
+| 125 | 908 | Bob |
+| 126 | 908 | Jazzy Framezone |
+| 127 | 907 | Oscar Zamora |
+| 128 | 904 | Fmp |
 | 129 | 885 | Kimberly Garcia |
 | 130 | 882 | Elaine Elaine |
 | 131 | 880 | Carrie Smith |
@@ -143,8 +143,8 @@
 | 135 | 846 | Happy Basegrid |
 | 136 | 838 | Dandy Basegrid |
 | 137 | 833 | Richard Butler |
-| 138 | 824 | Debbie Kane |
-| 139 | 824 | Melissa Lemmon |
+| 138 | 824 | Melissa Lemmon |
+| 139 | 824 | Debbie Kane |
 | 140 | 822 | Susanna Guerry |
 | 141 | 813 | Tanya Carpenter-Reynolds |
 | 142 | 803 | Tonya Beasley |
@@ -160,9 +160,9 @@
 | 152 | 768 | Tipsy Riseclear |
 | 153 | 766 | Death |
 | 154 | 761 | lil mickey |
-| 155 | 744 | Michael Espinosa Ulibarri Jr. |
-| 156 | 742 | Bouncy Grid |
-| 157 | 740 | Jennifer Noe Chandler |
+| 155 | 760 | Jennifer Noe Chandler |
+| 156 | 744 | Michael Espinosa Ulibarri Jr. |
+| 157 | 742 | Bouncy Grid |
 | 158 | 740 | Flashy Rotator |
 | 159 | 739 | GATOR |
 | 160 | 739 | April Jones |
@@ -229,8 +229,8 @@
 | 221 | 568 | Jason Savage |
 | 222 | 566 | Sam Williams |
 | 223 | 564 | Tana |
-| 224 | 563 | Dreamy Drop |
-| 225 | 563 | Plucky Ziggy |
+| 224 | 563 | Plucky Ziggy |
+| 225 | 563 | Dreamy Drop |
 | 226 | 562 | Cheeky Pop |
 | 227 | 561 | Tami Luce Martin |
 | 228 | 560 | Nery Martinez |
@@ -244,18 +244,18 @@
 | 236 | 544 | Chaste Minor |
 | 237 | 543 | Wayne Saunders |
 | 238 | 541 | Sweetts |
-| 239 | 540 | Brian Spotts |
-| 240 | 540 | Tyler L Hunt |
-| 241 | 540 | Jenny Gingrich Fuentes |
+| 239 | 540 | Tyler L Hunt |
+| 240 | 540 | Jenny Gingrich Fuentes |
+| 241 | 540 | Brian Spotts |
 | 242 | 539 | Cool Shiftsnap |
 | 243 | 538 | Angela Spann |
 | 244 | 537 | canbrick |
 | 245 | 535 | Lindsay Glover |
 | 246 | 532 | Chelsea Dahlquist |
-| 247 | 531 | Reesey Enyart |
-| 248 | 529 | Dizzy Slider |
-| 249 | 528 | Jen Nystrom |
-| 250 | 525 | David Miller |
+| 247 | 532 | Dizzy Slider |
+| 248 | 531 | Reesey Enyart |
+| 249 | 529 | David Miller |
+| 250 | 528 | Jen Nystrom |
 | 251 | 525 | Tamara Brown |
 | 252 | 523 | LD1 |
 | 253 | 522 | Happy Snapbuild |
@@ -264,8 +264,8 @@
 | 256 | 516 | Amanda Holibaugh |
 | 257 | 514 | Richard Corrado |
 | 258 | 513 | Colena Davenport |
-| 259 | 511 | Betsy |
-| 260 | 511 | Lakeisha Chapman |
+| 259 | 511 | Lakeisha Chapman |
+| 260 | 511 | Betsy |
 | 261 | 510 | Keith Mathis |
 | 262 | 509 | Lehrin Maria |
 | 263 | 504 | Candy Jones |
@@ -315,7 +315,7 @@
 | 307 | 455 | pjbeta |
 | 308 | 455 | Colleen Pinette |
 | 309 | 455 | Letson Melissa |
-| 310 | 453 | Barrbaric |
+| 310 | 454 | Barrbaric |
 | 311 | 453 | Kimberly Davis |
 | 312 | 451 | Dino |
 | 313 | 450 | Shiny Snapfit |
@@ -942,31 +942,31 @@
 | 934 | 173 | David Hernandez |
 | 935 | 173 | Mizzledagod |
 | 936 | 173 | Cree |
-| 937 | 172 | Nykia Smith |
-| 938 | 172 | Althaea Frost Ambrose |
-| 939 | 172 | EverPi |
-| 940 | 172 | Francine-frankie Ritzio-Rizzo |
-| 941 | 171 | Brian |
-| 942 | 171 | Greg Premoe |
-| 943 | 171 | George Dalton |
-| 944 | 171 | Kerry Lee Powell |
-| 945 | 171 | Shante Jenkins |
-| 946 | 170 | Lin |
-| 947 | 170 | Garry Myers |
+| 937 | 172 | Alex Manieri |
+| 938 | 172 | Nykia Smith |
+| 939 | 172 | Althaea Frost Ambrose |
+| 940 | 172 | EverPi |
+| 941 | 172 | Francine-frankie Ritzio-Rizzo |
+| 942 | 171 | Brian |
+| 943 | 171 | Greg Premoe |
+| 944 | 171 | George Dalton |
+| 945 | 171 | Kerry Lee Powell |
+| 946 | 171 | Shante Jenkins |
+| 947 | 170 | Lin |
 | 948 | 170 | Dante Jennings |
 | 949 | 170 | Bold Glide |
-| 950 | 170 | Aleea Six |
-| 951 | 170 | Jen |
-| 952 | 170 | Zhang EN |
-| 953 | 169 | Charlie Ryno |
+| 950 | 170 | Jen |
+| 951 | 170 | Aleea Six |
+| 952 | 170 | Garry Myers |
+| 953 | 170 | Zhang EN |
 | 954 | 169 | 804RVAME |
-| 955 | 169 | Alex Manieri |
-| 956 | 169 | Alex Ipad |
-| 957 | 169 | NicaOrlice |
+| 955 | 169 | Connie Butler |
+| 956 | 169 | Mark Zeitlin |
+| 957 | 169 | Larry Fritzinger |
 | 958 | 169 | Spicy Spinblock |
-| 959 | 169 | Larry Fritzinger |
-| 960 | 169 | Mark Zeitlin |
-| 961 | 169 | Connie Butler |
+| 959 | 169 | NicaOrlice |
+| 960 | 169 | Alex Ipad |
+| 961 | 169 | Charlie Ryno |
 | 962 | 168 | Sabrina Cortez Mendoza |
 | 963 | 168 | Guest |
 | 964 | 168 | John Kiser |
