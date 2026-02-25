@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 18:41:23 UTC
+# Standings for team1 as of 2026-02-25 18:42:45 UTC
 
 **Total Participants:** 2512
 
@@ -145,7 +145,7 @@
 | 137 | 824 | Melissa Lemmon |
 | 138 | 822 | Susanna Guerry |
 | 139 | 820 | Cartier |
-| 140 | 810 | Tanya Carpenter-Reynolds |
+| 140 | 813 | Tanya Carpenter-Reynolds |
 | 141 | 803 | Tonya Beasley |
 | 142 | 802 | Sean Stallings |
 | 143 | 798 | Virginia Gray Floyd |
@@ -227,13 +227,13 @@
 | 219 | 568 | Jason Savage |
 | 220 | 566 | Sam Williams |
 | 221 | 565 | Adele Rahman |
-| 222 | 564 | Tana |
-| 223 | 563 | Dreamy Drop |
-| 224 | 563 | Plucky Ziggy |
-| 225 | 562 | Cheeky Pop |
-| 226 | 561 | Tami Luce Martin |
-| 227 | 560 | Nery Martinez |
-| 228 | 559 | Anaid Sanchez |
+| 222 | 564 | Anaid Sanchez |
+| 223 | 564 | Tana |
+| 224 | 563 | Dreamy Drop |
+| 225 | 563 | Plucky Ziggy |
+| 226 | 562 | Cheeky Pop |
+| 227 | 561 | Tami Luce Martin |
+| 228 | 560 | Nery Martinez |
 | 229 | 557 | MomMom |
 | 230 | 554 | Mike Ames |
 | 231 | 552 | Witty Builderfit |
@@ -383,19 +383,19 @@
 | 375 | 394 | Mrs.Patrica |
 | 376 | 393 | Wisa |
 | 377 | 391 | Tipsy Builder |
-| 378 | 390 | Margo Wagner |
+| 378 | 390 | Rachel Nichole Henry |
 | 379 | 390 | Mandyy Rae |
-| 380 | 390 | Carl Claunch |
-| 381 | 389 | Tanya Banks |
-| 382 | 389 | Christina Backer |
-| 383 | 389 | Giggly Builderline |
-| 384 | 388 | Eddie Dillon |
-| 385 | 388 | Shaykmia |
-| 386 | 388 | Chris65 |
-| 387 | 388 | Delvison Rosario |
-| 388 | 387 | Diane Byrd |
-| 389 | 387 | Glitzy Grid |
-| 390 | 386 | Rachel Nichole Henry |
+| 380 | 390 | Margo Wagner |
+| 381 | 390 | Carl Claunch |
+| 382 | 389 | Tanya Banks |
+| 383 | 389 | Christina Backer |
+| 384 | 389 | Giggly Builderline |
+| 385 | 388 | Eddie Dillon |
+| 386 | 388 | Shaykmia |
+| 387 | 388 | Chris65 |
+| 388 | 388 | Delvison Rosario |
+| 389 | 387 | Diane Byrd |
+| 390 | 387 | Glitzy Grid |
 | 391 | 386 | Nadine Velardo |
 | 392 | 386 | Tiffany Smith |
 | 393 | 385 | Lyn Sibayan |
@@ -403,20 +403,20 @@
 | 395 | 384 | Casey Hintenach |
 | 396 | 384 | Patty Lavigne Craddock |
 | 397 | 384 | Larry Tilton |
-| 398 | 383 | ESC |
+| 398 | 383 | LaFontaine Leslie |
 | 399 | 383 | Buttons Stemm |
-| 400 | 383 | LaFontaine Leslie |
+| 400 | 383 | ESC |
 | 401 | 382 | Kristen Meehan Wangerien |
-| 402 | 382 | Nutty Spinblock |
-| 403 | 382 | Gina Bettikofer |
+| 402 | 382 | Gina Bettikofer |
+| 403 | 382 | Nutty Spinblock |
 | 404 | 380 | Amber Dee |
 | 405 | 380 | Christy LaSure |
-| 406 | 379 | Austin James |
-| 407 | 379 | Amh |
+| 406 | 379 | Billie Dawn Sparks |
+| 407 | 379 | Dizzy Riseclear |
 | 408 | 379 | Mary Love |
-| 409 | 379 | Terri Rodela |
-| 410 | 379 | Dizzy Riseclear |
-| 411 | 379 | Billie Dawn Sparks |
+| 409 | 379 | Austin James |
+| 410 | 379 | Amh |
+| 411 | 379 | Terri Rodela |
 | 412 | 378 | Fresno Beotoni |
 | 413 | 376 | Наталья Солоид |
 | 414 | 376 | Herm Junior |
@@ -537,12 +537,12 @@
 | 529 | 315 | Angela Ellyson |
 | 530 | 314 | Emmarieta Mendez |
 | 531 | 313 | Jade |
-| 532 | 312 | Carlos Floyd |
-| 533 | 312 | Sir-Franchise Drake |
-| 534 | 312 | Nicole Meredith Flynn |
-| 535 | 312 | Spicy Rollfit |
-| 536 | 311 | Mary Cerciello |
-| 537 | 311 | Pauline Cortez |
+| 532 | 313 | Pauline Cortez |
+| 533 | 312 | Carlos Floyd |
+| 534 | 312 | Sir-Franchise Drake |
+| 535 | 312 | Nicole Meredith Flynn |
+| 536 | 312 | Spicy Rollfit |
+| 537 | 311 | Mary Cerciello |
 | 538 | 311 | Brave Slice |
 | 539 | 311 | Spunky Winder |
 | 540 | 310 | Anita Jack |
@@ -636,14 +636,14 @@
 | 628 | 264 | Angel Marie |
 | 629 | 263 | Blake Cobb |
 | 630 | 263 | Equinn |
-| 631 | 263 | Amber Johnson-Grantham |
-| 632 | 262 | Dee Doris Ewald Flynn |
-| 633 | 262 | Prometheus |
-| 634 | 262 | Sheri Read |
-| 635 | 262 | Tipsy Tiltpiece |
-| 636 | 261 | Shiny Rotate |
-| 637 | 261 | Alex Nicol |
-| 638 | 261 | Hdhshsn |
+| 631 | 263 | Hdhshsn |
+| 632 | 263 | Amber Johnson-Grantham |
+| 633 | 262 | Dee Doris Ewald Flynn |
+| 634 | 262 | Prometheus |
+| 635 | 262 | Sheri Read |
+| 636 | 262 | Tipsy Tiltpiece |
+| 637 | 261 | Shiny Rotate |
+| 638 | 261 | Alex Nicol |
 | 639 | 260 | Lacy Wolfe |
 | 640 | 260 | Mathew Harris |
 | 641 | 260 | Starseed |
