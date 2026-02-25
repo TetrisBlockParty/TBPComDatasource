@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 20:18:44 UTC
+# Standings for team1 as of 2026-02-25 20:19:22 UTC
 
 **Total Participants:** 2522
 
@@ -57,12 +57,12 @@
 | 49 | 1664 | Tyler Alcock |
 | 50 | 1663 | Trippy Redd |
 | 51 | 1648 | Michelle Nicole |
-| 52 | 1625 | Tipsy Column |
-| 53 | 1601 | Chipper Gridlock |
+| 52 | 1648 | Chipper Gridlock |
+| 53 | 1625 | Tipsy Column |
 | 54 | 1595 | june october |
 | 55 | 1583 | Kristi Johnson |
 | 56 | 1571 | Drew Magnus |
-| 57 | 1551 | Adam Byrd |
+| 57 | 1556 | Adam Byrd |
 | 58 | 1538 | Aaron Garnett |
 | 59 | 1537 | Spunky Piecebuilder |
 | 60 | 1533 | And |
@@ -168,10 +168,10 @@
 | 160 | 739 | April Jones |
 | 161 | 737 | Krista Young |
 | 162 | 732 | Lori Bales |
-| 163 | 728 | .running. |
-| 164 | 717 | Trina Gee |
-| 165 | 712 | April Carroll |
-| 166 | 711 | Hasty Cascader |
+| 163 | 731 | Hasty Cascader |
+| 164 | 728 | .running. |
+| 165 | 717 | Trina Gee |
+| 166 | 712 | April Carroll |
 | 167 | 710 | Jerry Danowski |
 | 168 | 709 | Howdi Duty |
 | 169 | 708 | ParisandCory Champagne |
@@ -237,12 +237,12 @@
 | 229 | 557 | MomMom |
 | 230 | 554 | Mike Ames |
 | 231 | 552 | Witty Builderfit |
-| 232 | 551 | Stephanie Zahn |
-| 233 | 551 | Jen Nystrom |
-| 234 | 549 | Avelyn Calamba |
-| 235 | 548 | Teri Oehlke |
-| 236 | 547 | Sharon Reynolds |
-| 237 | 545 | Dizzy Slider |
+| 232 | 552 | Dizzy Slider |
+| 233 | 551 | Stephanie Zahn |
+| 234 | 551 | Jen Nystrom |
+| 235 | 549 | Avelyn Calamba |
+| 236 | 548 | Teri Oehlke |
+| 237 | 547 | Sharon Reynolds |
 | 238 | 544 | Chaste Minor |
 | 239 | 543 | canbrick |
 | 240 | 543 | Wayne Saunders |
@@ -629,17 +629,17 @@
 | 621 | 270 | Nerdy Curvebuilder |
 | 622 | 270 | Amber Johnson-Grantham |
 | 623 | 270 | Sam Rosado |
-| 624 | 269 | Joyce Harrell-chavis |
-| 625 | 269 | Chyna Mae |
-| 626 | 268 | Bay Marie |
-| 627 | 268 | Kayla |
-| 628 | 268 | Terika Rodriguez |
-| 629 | 268 | Dandy Glider |
-| 630 | 267 | Dandy Towerbuilder |
-| 631 | 267 | Blake Cobb |
-| 632 | 267 | Gina Fontana Meier |
-| 633 | 267 | Michelle Deans |
-| 634 | 266 | Josh Smith |
+| 624 | 270 | Josh Smith |
+| 625 | 269 | Joyce Harrell-chavis |
+| 626 | 269 | Chyna Mae |
+| 627 | 268 | Bay Marie |
+| 628 | 268 | Kayla |
+| 629 | 268 | Terika Rodriguez |
+| 630 | 268 | Dandy Glider |
+| 631 | 267 | Dandy Towerbuilder |
+| 632 | 267 | Blake Cobb |
+| 633 | 267 | Gina Fontana Meier |
+| 634 | 267 | Michelle Deans |
 | 635 | 265 | Lauren Baxter |
 | 636 | 265 | Khatia Sikharulidze |
 | 637 | 264 | Angel Marie |
@@ -722,37 +722,37 @@
 | 714 | 235 | Mary M Brion |
 | 715 | 235 | Mechelle Bailum |
 | 716 | 234 | Christina Torres |
-| 717 | 234 | Krazykat💋❤️💋 |
-| 718 | 234 | Chipper Piecefit |
+| 717 | 234 | Chipper Piecefit |
+| 718 | 234 | Krazykat💋❤️💋 |
 | 719 | 233 | Tina Englert |
 | 720 | 233 | Hyper Tilemaker |
 | 721 | 233 | Sherri E Woods Hess |
 | 722 | 232 | Jessica Weed |
 | 723 | 232 | Tina Sinclair |
-| 724 | 232 | Sarah Hope |
-| 725 | 232 | yoyoluv |
-| 726 | 231 | Davery Spencer Adair |
-| 727 | 231 | narutyler649 |
-| 728 | 231 | Hector Cruz |
-| 729 | 231 | Speedy Balancepiece |
-| 730 | 231 | Emily Wray |
+| 724 | 232 | yoyoluv |
+| 725 | 232 | Sarah Hope |
+| 726 | 231 | Emily Wray |
+| 727 | 231 | Hector Cruz |
+| 728 | 231 | Davery Spencer Adair |
+| 729 | 231 | narutyler649 |
+| 730 | 231 | Speedy Balancepiece |
 | 731 | 230 | Riley Lee |
-| 732 | 229 | squareMel |
-| 733 | 228 | Negan Mallory Knoxx Spence |
-| 734 | 228 | Piffy |
-| 735 | 228 | Jai Pahpasay |
-| 736 | 228 | Oliver Hollins |
-| 737 | 228 | Tina Kocher Zimmerman |
-| 738 | 228 | Lalo Enriquez |
-| 739 | 227 | Spunky Builderpiece |
+| 732 | 230 | Michael Meyer |
+| 733 | 229 | squareMel |
+| 734 | 228 | Oliver Hollins |
+| 735 | 228 | Tina Kocher Zimmerman |
+| 736 | 228 | Lalo Enriquez |
+| 737 | 228 | Negan Mallory Knoxx Spence |
+| 738 | 228 | Piffy |
+| 739 | 228 | Jai Pahpasay |
 | 740 | 227 | Daniel Lorquet |
-| 741 | 227 | Zappy Cluster |
+| 741 | 227 | Spunky Builderpiece |
 | 742 | 227 | Bruce Cruz |
-| 743 | 226 | Kathryn Chiles Anderson |
-| 744 | 226 | Elizabeth Coover |
-| 745 | 225 | Ramona Mittelstadt |
-| 746 | 225 | Elyse YL |
-| 747 | 225 | Michael Meyer |
+| 743 | 227 | Zappy Cluster |
+| 744 | 226 | Kathryn Chiles Anderson |
+| 745 | 226 | Elizabeth Coover |
+| 746 | 225 | Ramona Mittelstadt |
+| 747 | 225 | Elyse YL |
 | 748 | 224 | Bean |
 | 749 | 224 | Gabriel Morales |
 | 750 | 223 | Charlesa Burns |
