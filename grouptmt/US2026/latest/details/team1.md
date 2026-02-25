@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 18:38:45 UTC
+# Standings for team1 as of 2026-02-25 18:39:23 UTC
 
 **Total Participants:** 2512
 
@@ -395,10 +395,10 @@
 | 387 | 388 | Delvison Rosario |
 | 388 | 387 | Diane Byrd |
 | 389 | 387 | Glitzy Grid |
-| 390 | 386 | Nadine Velardo |
-| 391 | 386 | Tiffany Smith |
-| 392 | 385 | Lyn Sibayan |
-| 393 | 384 | Rachel Nichole Henry |
+| 390 | 386 | Rachel Nichole Henry |
+| 391 | 386 | Nadine Velardo |
+| 392 | 386 | Tiffany Smith |
+| 393 | 385 | Lyn Sibayan |
 | 394 | 384 | Sonia Marquis |
 | 395 | 384 | Casey Hintenach |
 | 396 | 384 | Patty Lavigne Craddock |
@@ -857,38 +857,38 @@
 | 849 | 191 | PSD |
 | 850 | 191 | Amber Nixon |
 | 851 | 191 | Kashton Kp Perryon |
-| 852 | 191 | Cj X Mal |
-| 853 | 191 | Bo Sherman |
-| 854 | 191 | Gabrielle Louise Malloch |
-| 855 | 191 | nm1289 |
+| 852 | 191 | nm1289 |
+| 853 | 191 | Cj X Mal |
+| 854 | 191 | Bo Sherman |
+| 855 | 191 | Gabrielle Louise Malloch |
 | 856 | 191 | Tina Midkiff |
 | 857 | 191 | thtgood |
 | 858 | 191 | Mia D Stiles |
 | 859 | 190 | Jacqueline Unique |
 | 860 | 190 | Cool Combo |
 | 861 | 190 | Rob Burns |
-| 862 | 190 | Jamie Farrar |
-| 863 | 190 | Kimberly Sharp-Bowen |
+| 862 | 190 | Kimberly Sharp-Bowen |
+| 863 | 190 | Jamie Farrar |
 | 864 | 190 | Witty Wipebuilder |
 | 865 | 189 | Mighty Fallzone |
 | 866 | 189 | Armand Drayton |
 | 867 | 189 | Sunny Catcher |
 | 868 | 189 | Trenna L Szczepaniak |
 | 869 | 189 | Travis Taylor |
-| 870 | 188 | forevernght |
-| 871 | 188 | Lourdes Marrero |
-| 872 | 188 | Mary Pelley |
+| 870 | 188 | Mary Pelley |
+| 871 | 188 | forevernght |
+| 872 | 188 | Lourdes Marrero |
 | 873 | 187 | Kelly Sutton |
 | 874 | 187 | ply |
-| 875 | 186 | Traci Schmeer |
-| 876 | 185 | Tim Russell |
-| 877 | 185 | Uhog SF |
-| 878 | 185 | Crystal Joslin |
-| 879 | 185 | Spicy Zoner |
-| 880 | 185 | SweetSunshower |
-| 881 | 184 | Erres Jones |
-| 882 | 184 | Heather Martin |
-| 883 | 184 | Michaela Wakefield |
+| 875 | 187 | Michaela Wakefield |
+| 876 | 186 | Traci Schmeer |
+| 877 | 185 | Tim Russell |
+| 878 | 185 | Uhog SF |
+| 879 | 185 | Crystal Joslin |
+| 880 | 185 | Spicy Zoner |
+| 881 | 185 | SweetSunshower |
+| 882 | 184 | Erres Jones |
+| 883 | 184 | Heather Martin |
 | 884 | 184 | Jean Graziano |
 | 885 | 183 | Melinda Perry Frazier |
 | 886 | 183 | Plucky Wrecker |
