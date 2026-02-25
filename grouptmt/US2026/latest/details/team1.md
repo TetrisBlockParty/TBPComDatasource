@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 06:54:44 UTC
+# Standings for team1 as of 2026-02-25 06:55:22 UTC
 
 **Total Participants:** 2432
 
@@ -1507,53 +1507,53 @@
 | 1499 | 67 | Virginia Swank |
 | 1500 | 67 | pat |
 | 1501 | 67 | Nerdy Rotator |
-| 1502 | 67 | Brave Blockbuilder |
-| 1503 | 67 | Karissa Lynn Broombaugh |
-| 1504 | 67 | Amy Mancini |
-| 1505 | 66 | DeeTy |
-| 1506 | 66 | Pearlz |
-| 1507 | 66 | Vanessa G Keill |
-| 1508 | 66 | Stormz420 |
-| 1509 | 66 | Crystal Mock |
-| 1510 | 66 | Block attack |
-| 1511 | 66 | Ashley Moore |
-| 1512 | 66 | Destinee VanPatten |
-| 1513 | 66 | Sean Behjani |
-| 1514 | 66 | Cheeky Rollfit |
-| 1515 | 66 | Kaitlyn Mambro |
-| 1516 | 66 | Lucy Moore |
-| 1517 | 66 | Kristarr |
-| 1518 | 66 | Vikki Doris-Leonardo |
-| 1519 | 65 | Hoppy Snaplink |
-| 1520 | 65 | Karen Berkenstock |
-| 1521 | 65 | Heidi Hile |
-| 1522 | 65 | Kayla |
-| 1523 | 65 | Jessica Lang |
-| 1524 | 65 | Colton Samantha Lester |
-| 1525 | 65 | Missy Anderson |
-| 1526 | 65 | Brian Mc Auley |
-| 1527 | 65 | Jessica Kelsey |
-| 1528 | 64 | Jerred Hunter |
-| 1529 | 64 | BlackberryCobbler |
-| 1530 | 64 | Kyle Schwarcz |
-| 1531 | 64 | Krista Roberts |
-| 1532 | 64 | Cool Balancer |
-| 1533 | 64 | Kenneth Ray Steiner |
-| 1534 | 64 | John Fronczek |
-| 1535 | 64 | Giggy Crusher |
-| 1536 | 64 | Hank |
+| 1502 | 67 | Krista Roberts |
+| 1503 | 67 | Brave Blockbuilder |
+| 1504 | 67 | Karissa Lynn Broombaugh |
+| 1505 | 67 | Amy Mancini |
+| 1506 | 66 | DeeTy |
+| 1507 | 66 | Pearlz |
+| 1508 | 66 | Vanessa G Keill |
+| 1509 | 66 | Stormz420 |
+| 1510 | 66 | Crystal Mock |
+| 1511 | 66 | Block attack |
+| 1512 | 66 | Ashley Moore |
+| 1513 | 66 | Destinee VanPatten |
+| 1514 | 66 | Sean Behjani |
+| 1515 | 66 | Cheeky Rollfit |
+| 1516 | 66 | Kaitlyn Mambro |
+| 1517 | 66 | Vikki Doris-Leonardo |
+| 1518 | 66 | Lucy Moore |
+| 1519 | 66 | Kristarr |
+| 1520 | 65 | Jessica Kelsey |
+| 1521 | 65 | Kayla |
+| 1522 | 65 | Brian Mc Auley |
+| 1523 | 65 | Heidi Hile |
+| 1524 | 65 | Missy Anderson |
+| 1525 | 65 | Hoppy Snaplink |
+| 1526 | 65 | Colton Samantha Lester |
+| 1527 | 65 | Jessica Lang |
+| 1528 | 65 | Karen Berkenstock |
+| 1529 | 64 | Kyle Schwarcz |
+| 1530 | 64 | BlackberryCobbler |
+| 1531 | 64 | Cool Balancer |
+| 1532 | 64 | Darlene Nani Pack Viernes |
+| 1533 | 64 | Jerred Hunter |
+| 1534 | 64 | Hank |
+| 1535 | 64 | Twisty Rollbuilder |
+| 1536 | 64 | Home Plate |
 | 1537 | 64 | Brave Tiley |
-| 1538 | 64 | Home Plate |
-| 1539 | 64 | Darlene Nani Pack Viernes |
-| 1540 | 64 | Twisty Rollbuilder |
-| 1541 | 63 | Max R Eble |
-| 1542 | 63 | Cheeky Link |
-| 1543 | 63 | Witty Frame |
-| 1544 | 63 | Mike Kimes |
-| 1545 | 63 | Lincon |
-| 1546 | 63 | Henry James Bechtold |
-| 1547 | 63 | Arthur James Watson |
-| 1548 | 63 | Darrell Mcdonnell |
+| 1538 | 64 | Giggy Crusher |
+| 1539 | 64 | John Fronczek |
+| 1540 | 64 | Kenneth Ray Steiner |
+| 1541 | 63 | Arthur James Watson |
+| 1542 | 63 | Henry James Bechtold |
+| 1543 | 63 | Darrell Mcdonnell |
+| 1544 | 63 | Lincon |
+| 1545 | 63 | Mike Kimes |
+| 1546 | 63 | Cheeky Link |
+| 1547 | 63 | Witty Frame |
+| 1548 | 63 | Max R Eble |
 | 1549 | 63 | Shea Hall |
 | 1550 | 63 | Goofy Blockroll |
 | 1551 | 63 | Shelley Dose |

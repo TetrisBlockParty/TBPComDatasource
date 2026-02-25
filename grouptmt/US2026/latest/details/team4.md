@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 06:54:44 UTC
+# Standings for team4 as of 2026-02-25 06:55:22 UTC
 
 **Total Participants:** 2175
 
@@ -377,18 +377,18 @@
 | 369 | 383 | Duck |
 | 370 | 383 | Perky Piecegrid |
 | 371 | 382 | Matt Dell'Olio |
-| 372 | 381 | Alexandra Karavias |
-| 373 | 381 | Marcus TheeyoungWoe Gilmore |
-| 374 | 381 | Paito |
-| 375 | 381 | Kevin Bush |
-| 376 | 380 | Amy Jean |
-| 377 | 379 | Jackie Clark |
-| 378 | 379 | Kristi Trafton |
-| 379 | 378 | Sho Nuff |
-| 380 | 378 | Jay You |
-| 381 | 377 | Lauren Lamb |
-| 382 | 374 | Bryan James Marino |
-| 383 | 373 | Stephme310 |
+| 372 | 381 | Stephme310 |
+| 373 | 381 | Alexandra Karavias |
+| 374 | 381 | Marcus TheeyoungWoe Gilmore |
+| 375 | 381 | Paito |
+| 376 | 381 | Kevin Bush |
+| 377 | 380 | Amy Jean |
+| 378 | 379 | Jackie Clark |
+| 379 | 379 | Kristi Trafton |
+| 380 | 378 | Sho Nuff |
+| 381 | 378 | Jay You |
+| 382 | 377 | Lauren Lamb |
+| 383 | 374 | Bryan James Marino |
 | 384 | 372 | Chummy Link |
 | 385 | 371 | Maureen Flanigan |
 | 386 | 370 | HastyGrabber |
