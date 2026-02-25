@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 19:44:43 UTC
+# Standings for team1 as of 2026-02-25 19:45:23 UTC
 
 **Total Participants:** 2519
 
@@ -612,28 +612,28 @@
 | 604 | 278 | Nevaeh Mattox |
 | 605 | 278 | Thorne Shumate |
 | 606 | 278 | Rivkah |
-| 607 | 277 | Jen Justus |
-| 608 | 277 | Sheri Read |
-| 609 | 276 | Larry Jackson |
-| 610 | 275 | Marqs Mel |
-| 611 | 272 | Ruby Sandberg |
-| 612 | 272 | Andrew Boone |
-| 613 | 272 | Jeffrey Scott Younkins |
-| 614 | 271 | Cheeky Curvetile |
-| 615 | 271 | Jennifer Corrado |
-| 616 | 270 | Sam Rosado |
-| 617 | 270 | Malaka |
-| 618 | 270 | Nerdy Curvebuilder |
-| 619 | 270 | Giggly Rollfit |
-| 620 | 269 | Joyce Harrell-chavis |
-| 621 | 268 | Terika Rodriguez |
-| 622 | 268 | Bay Marie |
+| 607 | 277 | Corkey Steinmark |
+| 608 | 277 | Jen Justus |
+| 609 | 277 | Sheri Read |
+| 610 | 276 | Larry Jackson |
+| 611 | 275 | Marqs Mel |
+| 612 | 272 | Ruby Sandberg |
+| 613 | 272 | Andrew Boone |
+| 614 | 272 | Jeffrey Scott Younkins |
+| 615 | 271 | Cheeky Curvetile |
+| 616 | 271 | Jennifer Corrado |
+| 617 | 270 | Sam Rosado |
+| 618 | 270 | Malaka |
+| 619 | 270 | Nerdy Curvebuilder |
+| 620 | 270 | Giggly Rollfit |
+| 621 | 269 | Joyce Harrell-chavis |
+| 622 | 268 | Terika Rodriguez |
 | 623 | 268 | Kayla |
-| 624 | 268 | Corkey Steinmark |
+| 624 | 268 | Bay Marie |
 | 625 | 267 | Gina Fontana Meier |
 | 626 | 267 | Blake Cobb |
-| 627 | 267 | Chyna Mae |
-| 628 | 267 | Michelle Deans |
+| 627 | 267 | Michelle Deans |
+| 628 | 267 | Chyna Mae |
 | 629 | 267 | Dandy Towerbuilder |
 | 630 | 265 | Khatia Sikharulidze |
 | 631 | 265 | Lauren Baxter |
@@ -695,14 +695,14 @@
 | 687 | 246 | Slinky Tile |
 | 688 | 245 | Dustin Johnston |
 | 689 | 245 | Nutty Glide |
-| 690 | 245 | Sarah Barrow |
-| 691 | 243 | Lark |
-| 692 | 243 | Kkl |
-| 693 | 242 | Denise Belanger |
-| 694 | 241 | Kellie Tunstall |
-| 695 | 241 | Misty Hall Zaranti |
-| 696 | 241 | Lush Zoney |
-| 697 | 240 | Dawn Henderson |
+| 690 | 245 | Dawn Henderson |
+| 691 | 245 | Sarah Barrow |
+| 692 | 243 | Lark |
+| 693 | 243 | Kkl |
+| 694 | 242 | Denise Belanger |
+| 695 | 241 | Kellie Tunstall |
+| 696 | 241 | Misty Hall Zaranti |
+| 697 | 241 | Lush Zoney |
 | 698 | 240 | Jessica Imboden |
 | 699 | 239 | Irual Hctrab |
 | 700 | 239 | Mindy Gloska |
@@ -734,11 +734,11 @@
 | 726 | 231 | Davery Spencer Adair |
 | 727 | 231 | Hector Cruz |
 | 728 | 230 | Riley Lee |
-| 729 | 229 | squareMel |
-| 730 | 228 | Jai Pahpasay |
-| 731 | 228 | Lalo Enriquez |
-| 732 | 228 | Piffy |
-| 733 | 228 | Jeff Newinski |
+| 729 | 230 | Jeff Newinski |
+| 730 | 229 | squareMel |
+| 731 | 228 | Jai Pahpasay |
+| 732 | 228 | Lalo Enriquez |
+| 733 | 228 | Piffy |
 | 734 | 228 | Tina Kocher Zimmerman |
 | 735 | 228 | Oliver Hollins |
 | 736 | 228 | Negan Mallory Knoxx Spence |
@@ -937,10 +937,10 @@
 | 929 | 174 | Nicholes Stanley |
 | 930 | 174 | Kurtis Manlow |
 | 931 | 174 | Frisky Fall |
-| 932 | 173 | Cree |
-| 933 | 173 | Mizzledagod |
-| 934 | 172 | EverPi |
-| 935 | 172 | David Hernandez |
+| 932 | 173 | David Hernandez |
+| 933 | 173 | Cree |
+| 934 | 173 | Mizzledagod |
+| 935 | 172 | EverPi |
 | 936 | 172 | Nykia Smith |
 | 937 | 172 | Francine-frankie Ritzio-Rizzo |
 | 938 | 172 | Althaea Frost Ambrose |
