@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-25 00:18:43 UTC
+# Standings for team1 as of 2026-02-25 00:19:22 UTC
 
 **Total Participants:** 2350
 
@@ -50,14 +50,14 @@
 | 42 | 1576 | Tyler Whitley |
 | 43 | 1568 | Jen Sartain |
 | 44 | 1567 | june october |
-| 45 | 1562 | Michelle Nicole |
-| 46 | 1535 | Andrea Dañielle Ortiz |
-| 47 | 1527 | Ashley Elizabeth |
-| 48 | 1497 | Tyler Alcock |
-| 49 | 1489 | Adrian Esteban |
-| 50 | 1478 | Snappy Swiper |
-| 51 | 1471 | Spunky Piecebuilder |
-| 52 | 1469 | Brenda Stewart |
+| 45 | 1563 | Brenda Stewart |
+| 46 | 1562 | Michelle Nicole |
+| 47 | 1535 | Andrea Dañielle Ortiz |
+| 48 | 1527 | Ashley Elizabeth |
+| 49 | 1497 | Tyler Alcock |
+| 50 | 1489 | Adrian Esteban |
+| 51 | 1478 | Snappy Swiper |
+| 52 | 1471 | Spunky Piecebuilder |
 | 53 | 1461 | Chipper Gridlock |
 | 54 | 1433 | Aaron Garnett |
 | 55 | 1420 | Cynthia Bradley |
@@ -391,10 +391,10 @@
 | 383 | 352 | Lachelle Dillon |
 | 384 | 351 | Hasty Columnbuilder |
 | 385 | 351 | Dizzy Riseclear |
-| 386 | 350 | Mighty Shatterfit |
-| 387 | 350 | Bouncy Line |
-| 388 | 349 | Yahowah |
-| 389 | 347 | Giggly Builderline |
+| 386 | 351 | Giggly Builderline |
+| 387 | 350 | Mighty Shatterfit |
+| 388 | 350 | Bouncy Line |
+| 389 | 349 | Yahowah |
 | 390 | 346 | Marci Sanders |
 | 391 | 344 | Amh |
 | 392 | 344 | Tavia |
@@ -500,75 +500,75 @@
 | 492 | 288 | Kayla Marie Stevenson |
 | 493 | 287 | Barry Mac'Ockner |
 | 494 | 287 | Rikki Jo Creech |
-| 495 | 287 | Jason Benitez |
-| 496 | 287 | Abbey Crespo |
-| 497 | 287 | Rachel Copas |
-| 498 | 286 | Melanie Kelley |
-| 499 | 286 | Cool Balancer |
-| 500 | 285 | Amie Fields |
-| 501 | 285 | Ruthie Mahoney Saunders-Browne |
-| 502 | 285 | Archie Ware |
-| 503 | 284 | Mary Cerciello |
-| 504 | 284 | Funky Piecebuilder |
-| 505 | 284 | Manley Smith |
-| 506 | 283 | MamaB24 |
-| 507 | 283 | Franswa |
-| 508 | 283 | Matthew Foley |
-| 509 | 282 | Pauline Cortez |
-| 510 | 282 | Gilbert Ortiz Jr. |
+| 495 | 287 | Rachel Copas |
+| 496 | 287 | Jason Benitez |
+| 497 | 287 | Abbey Crespo |
+| 498 | 287 | Toni Sagenbrecht |
+| 499 | 286 | Melanie Kelley |
+| 500 | 286 | Cool Balancer |
+| 501 | 285 | Amie Fields |
+| 502 | 285 | Ruthie Mahoney Saunders-Browne |
+| 503 | 285 | Archie Ware |
+| 504 | 284 | Mary Cerciello |
+| 505 | 284 | Funky Piecebuilder |
+| 506 | 284 | Manley Smith |
+| 507 | 283 | Matthew Foley |
+| 508 | 283 | Franswa |
+| 509 | 283 | MamaB24 |
+| 510 | 282 | Pauline Cortez |
 | 511 | 282 | Timothy Dew |
-| 512 | 282 | Toni Sagenbrecht |
+| 512 | 282 | Gilbert Ortiz Jr. |
 | 513 | 281 | Tiffany Trinh |
 | 514 | 281 | Chilly Riserpiece |
 | 515 | 280 | Mary Sheets |
 | 516 | 280 | Llewej Rekab |
 | 517 | 279 | Chris Dawson |
 | 518 | 279 | Sabrina Coleman |
-| 519 | 278 | Thorne Shumate |
-| 520 | 278 | Sassy Towerer |
-| 521 | 277 | Jake Mcnabb |
-| 522 | 277 | Gerald Richard Franke |
+| 519 | 278 | Sassy Towerer |
+| 520 | 278 | Thorne Shumate |
+| 521 | 277 | Gerald Richard Franke |
+| 522 | 277 | Jake Mcnabb |
 | 523 | 277 | Lucile Lynn |
 | 524 | 276 | Epic Jumper |
-| 525 | 276 | Scott Betson |
-| 526 | 276 | Ma stoken |
+| 525 | 276 | Ma stoken |
+| 526 | 276 | Scott Betson |
 | 527 | 274 | Mel Fab |
 | 528 | 274 | Laurie Sanderson |
 | 529 | 273 | Rivkah |
-| 530 | 273 | Theeranart Mahawan |
-| 531 | 273 | Peppy Columnbuilder |
+| 530 | 273 | Peppy Columnbuilder |
+| 531 | 273 | Theeranart Mahawan |
 | 532 | 271 | Charlie Walker |
 | 533 | 271 | Kristen Meehan Wangerien |
 | 534 | 270 | Breanna Luna |
 | 535 | 270 | Marie White |
-| 536 | 268 | Brian K Young II |
+| 536 | 268 | Ashley Adams |
 | 537 | 268 | Spicy Rollfit |
-| 538 | 268 | Ashley Adams |
-| 539 | 268 | Kayla |
+| 538 | 268 | Kayla |
+| 539 | 268 | Brian K Young II |
 | 540 | 267 | Larry Oaks |
-| 541 | 266 | Angela Jones |
-| 542 | 266 | SavageBooty98 |
+| 541 | 266 | SavageBooty98 |
+| 542 | 266 | Angela Jones |
 | 543 | 265 | Khatia Sikharulidze |
 | 544 | 264 | Its me |
-| 545 | 264 | Beau Galvan |
-| 546 | 264 | Panda Thagreat |
+| 545 | 264 | Panda Thagreat |
+| 546 | 264 | Beau Galvan |
 | 547 | 264 | Frisky Risebuilder |
 | 548 | 263 | Mary Crisp |
-| 549 | 263 | Equinn |
-| 550 | 263 | Ja Ce |
+| 549 | 263 | Ja Ce |
+| 550 | 263 | Equinn |
 | 551 | 262 | Amanda Marie Sutton |
 | 552 | 262 | Dee Doris Ewald Flynn |
 | 553 | 261 | Corrie Grant Smithson |
-| 554 | 260 | Sunflower |
-| 555 | 260 | Lacy Wolfe |
+| 554 | 260 | Lacy Wolfe |
+| 555 | 260 | Sunflower |
 | 556 | 260 | Mathew Harris |
 | 557 | 258 | Teresa |
 | 558 | 258 | Marc Abney |
 | 559 | 258 | Divaaa |
 | 560 | 257 | Jeffrey Scott Younkins |
-| 561 | 257 | Angel Marie |
+| 561 | 257 | Brian Ash |
 | 562 | 257 | Andrew Backes |
-| 563 | 257 | Brian Ash |
+| 563 | 257 | Angel Marie |
 | 564 | 256 | Blake Cobb |
 | 565 | 256 | Alex Nicol |
 | 566 | 256 | Angela Ellyson |
@@ -585,30 +585,30 @@
 | 577 | 251 | LC |
 | 578 | 251 | Nevaeh Mattox |
 | 579 | 250 | Dandy Towerbuilder |
-| 580 | 250 | Emmarieta Mendez |
-| 581 | 250 | Dawon Ksk Capers |
-| 582 | 249 | Mrsbigdawg |
-| 583 | 249 | Jennifer Corrado |
-| 584 | 248 | Carl Claunch |
-| 585 | 248 | Andrew Boone |
-| 586 | 248 | Liliana Pena |
-| 587 | 247 | Nate Carter |
-| 588 | 247 | Colleen Wise |
-| 589 | 247 | Josh Smith |
-| 590 | 246 | ken |
+| 580 | 250 | Neely Janelle Stewart |
+| 581 | 250 | Emmarieta Mendez |
+| 582 | 250 | Dawon Ksk Capers |
+| 583 | 249 | Mrsbigdawg |
+| 584 | 249 | Jennifer Corrado |
+| 585 | 248 | Carl Claunch |
+| 586 | 248 | Andrew Boone |
+| 587 | 248 | Liliana Pena |
+| 588 | 247 | Nate Carter |
+| 589 | 247 | Colleen Wise |
+| 590 | 247 | Josh Smith |
 | 591 | 246 | grizzly |
 | 592 | 246 | Nicole Nikki |
 | 593 | 246 | Frothy Blockbuilder |
-| 594 | 245 | Shannon Guilloty |
-| 595 | 244 | Neely Janelle Stewart |
+| 594 | 246 | ken |
+| 595 | 245 | Shannon Guilloty |
 | 596 | 244 | Lil H |
 | 597 | 243 | Miguel Teixeira |
-| 598 | 243 | Olivia Witmer |
-| 599 | 243 | Jordan Brooks |
-| 600 | 242 | Dawn Rannelli |
-| 601 | 242 | Kirk Torrey |
-| 602 | 242 | Robin Burress |
-| 603 | 242 | Dandy Glider |
+| 598 | 243 | Jordan Brooks |
+| 599 | 243 | Olivia Witmer |
+| 600 | 242 | Dandy Glider |
+| 601 | 242 | Robin Burress |
+| 602 | 242 | Kirk Torrey |
+| 603 | 242 | Dawn Rannelli |
 | 604 | 240 | monstermutt |
 | 605 | 240 | Brendan Sullivan |
 | 606 | 240 | Tipsy Tiltpiece |
@@ -765,13 +765,13 @@
 | 757 | 189 | Elyse YL |
 | 758 | 189 | Vivian Bush |
 | 759 | 189 | Kendra Powell |
-| 760 | 188 | Elizabeth Coover |
-| 761 | 188 | Jay Tressler |
-| 762 | 188 | William Touzin |
-| 763 | 187 | Katie Bell |
-| 764 | 187 | Brandy Ann |
-| 765 | 187 | Dafna Kaplan-Garrahy |
-| 766 | 187 | Christopher Childress |
+| 760 | 189 | Christopher Childress |
+| 761 | 188 | Elizabeth Coover |
+| 762 | 188 | Jay Tressler |
+| 763 | 188 | William Touzin |
+| 764 | 187 | Katie Bell |
+| 765 | 187 | Brandy Ann |
+| 766 | 187 | Dafna Kaplan-Garrahy |
 | 767 | 187 | Paul Gates |
 | 768 | 187 | Jessica Weed |
 | 769 | 187 | MayMay Echevarria |
