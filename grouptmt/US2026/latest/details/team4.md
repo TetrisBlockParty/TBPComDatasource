@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 08:16:22 UTC
+# Standings for team4 as of 2026-02-25 08:17:24 UTC
 
 **Total Participants:** 2182
 
@@ -248,10 +248,10 @@
 | 240 | 527 | Jolly Dashfit |
 | 241 | 522 | Luis Martinez |
 | 242 | 522 | Marcus Todd |
-| 243 | 520 | Antony Dwayne Beasley |
-| 244 | 518 | Leah Kutz Zirbel |
-| 245 | 518 | shark tato |
-| 246 | 518 | Brittany Little |
+| 243 | 521 | Brittany Little |
+| 244 | 520 | Antony Dwayne Beasley |
+| 245 | 518 | Leah Kutz Zirbel |
+| 246 | 518 | shark tato |
 | 247 | 517 | Casey Grabner |
 | 248 | 516 | Nick Gray |
 | 249 | 515 | Bradley Reeves |
@@ -890,14 +890,14 @@
 | 882 | 166 | Snippy |
 | 883 | 165 | McKayla Breanne |
 | 884 | 165 | Zappy Buildgrid |
-| 885 | 165 | Sarah Grundisch |
-| 886 | 164 | Saucy Stackbuilder |
-| 887 | 163 | Quirky Puzzler |
-| 888 | 163 | Mike Burlingame |
-| 889 | 163 | LunarCat |
-| 890 | 163 | Cozy Strikerbuilder |
-| 891 | 163 | Sadie Rae Ryan |
-| 892 | 163 | Krystal McPherson |
+| 885 | 165 | Krystal McPherson |
+| 886 | 165 | Sarah Grundisch |
+| 887 | 164 | Saucy Stackbuilder |
+| 888 | 163 | Quirky Puzzler |
+| 889 | 163 | Mike Burlingame |
+| 890 | 163 | LunarCat |
+| 891 | 163 | Cozy Strikerbuilder |
+| 892 | 163 | Sadie Rae Ryan |
 | 893 | 162 | Aloradexplora |
 | 894 | 162 | Adam Randall |
 | 895 | 162 | Michelle Sanchez |
