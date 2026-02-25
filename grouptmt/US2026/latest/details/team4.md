@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 10:18:45 UTC
+# Standings for team4 as of 2026-02-25 10:19:23 UTC
 
 **Total Participants:** 2195
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 9251 | Devinlee Brown |
+| 1 | 9271 | Devinlee Brown |
 | 2 | 8765 | sierrabeth |
 | 3 | 8598 | Bubbly Puzzler |
 | 4 | 6870 | Kat |
@@ -69,7 +69,7 @@
 | 61 | 1353 | Amelpss |
 | 62 | 1324 | Anthony Bryan Riva |
 | 63 | 1307 | LisaJo Picken Buchanan |
-| 64 | 1292 | Keith Kelley |
+| 64 | 1301 | Keith Kelley |
 | 65 | 1289 | Livvy |
 | 66 | 1288 | Julian Garcia |
 | 67 | 1272 | Justin Hannigan |
