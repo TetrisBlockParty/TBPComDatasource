@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-25 11:26:44 UTC
+# Standings for team3 as of 2026-02-25 11:27:22 UTC
 
 **Total Participants:** 3685
 
@@ -111,7 +111,7 @@
 | 103 | 1536 | Amber Jones |
 | 104 | 1535 | Tiff Vs Tiffany |
 | 105 | 1534 | JerseyJess |
-| 106 | 1524 | Kristal C Lee |
+| 106 | 1528 | Kristal C Lee |
 | 107 | 1524 | Danielle Cutler |
 | 108 | 1517 | Katie Knaus |
 | 109 | 1507 | Betty Ivy |
@@ -215,10 +215,10 @@
 | 207 | 904 | Nichol Graham |
 | 208 | 901 | Stephanie Woods |
 | 209 | 900 | Alexmac |
-| 210 | 896 | Nicole Flippo |
+| 210 | 898 | Nicole Flippo |
 | 211 | 895 | Kammy Hill |
-| 212 | 894 | Denita Mungro |
-| 213 | 894 | Jone |
+| 212 | 894 | Jone |
+| 213 | 894 | Denita Mungro |
 | 214 | 893 | Elissa S-k |
 | 215 | 883 | Laura Booth Wosko |
 | 216 | 879 | Rachel Grant |
@@ -256,15 +256,15 @@
 | 248 | 765 | Shawn Miller |
 | 249 | 762 | Desiree Gold |
 | 250 | 758 | Jackie Miller |
-| 251 | 752 | Karon Griffin |
-| 252 | 752 | Tom Nault |
+| 251 | 752 | Tom Nault |
+| 252 | 752 | Karon Griffin |
 | 253 | 751 | Cynthia Castros-Hampton |
 | 254 | 750 | James Mitchell |
-| 255 | 749 | Rebecca Funderburk Kirby |
-| 256 | 749 | Cesar Barraza |
+| 255 | 749 | Cesar Barraza |
+| 256 | 749 | Rebecca Funderburk Kirby |
 | 257 | 749 | Donna Esbensen-Alpini |
-| 258 | 748 | Connie Mohler-Fair |
-| 259 | 748 | Stephanie Blkpep Davidson |
+| 258 | 748 | Stephanie Blkpep Davidson |
+| 259 | 748 | Connie Mohler-Fair |
 | 260 | 745 | Snappy Balancer |
 | 261 | 744 | Sarah Muradyan |
 | 262 | 743 | Attie Majerus |
@@ -279,8 +279,8 @@
 | 271 | 715 | Michael Johnson |
 | 272 | 714 | lashanda |
 | 273 | 708 | FuzzyNavel |
-| 274 | 707 | Marci Mize Fandrich |
-| 275 | 707 | Cheryl Hinch Tenbrook |
+| 274 | 707 | Cheryl Hinch Tenbrook |
+| 275 | 707 | Marci Mize Fandrich |
 | 276 | 704 | Makelini Mausia |
 | 277 | 703 | Rachael McClain Owens |
 | 278 | 699 | Giggy Glidepiece |
@@ -357,9 +357,9 @@
 | 349 | 574 | Jul |
 | 350 | 572 | Sherryl McNay |
 | 351 | 571 | MCV |
-| 352 | 569 | Tanya Kittrell |
+| 352 | 569 | BugMansMom |
 | 353 | 569 | kacihall |
-| 354 | 569 | BugMansMom |
+| 354 | 569 | Tanya Kittrell |
 | 355 | 568 | Angel Miller |
 | 356 | 565 | Marquita Sheard |
 | 357 | 564 | Sleepy |
@@ -380,8 +380,8 @@
 | 372 | 545 | Ktfreeee |
 | 373 | 544 | Sabrina Hardrick |
 | 374 | 543 | Chummy Caster |
-| 375 | 540 | Bigmack |
-| 376 | 538 | Tay |
+| 375 | 541 | Tay |
+| 376 | 540 | Bigmack |
 | 377 | 537 | Kelly |
 | 378 | 537 | TotoCherue |
 | 379 | 536 | Tegan Chapman |
@@ -406,8 +406,8 @@
 | 398 | 509 | Samantha Lynn |
 | 399 | 508 | Luciana Braganca Vieira |
 | 400 | 508 | Loopy Clusterer |
-| 401 | 506 | Randy Clevenger |
-| 402 | 506 | Ammmmmmy |
+| 401 | 506 | Ammmmmmy |
+| 402 | 506 | Randy Clevenger |
 | 403 | 505 | Taylor |
 | 404 | 505 | keni |
 | 405 | 503 | Eboni Starr |
@@ -421,8 +421,8 @@
 | 413 | 496 | Skinny Baldez |
 | 414 | 494 | Saucy Buildout |
 | 415 | 493 | Alexis Ford |
-| 416 | 492 | Carrie Resler |
-| 417 | 492 | Ashley Lynn Marchese |
+| 416 | 492 | Ashley Lynn Marchese |
+| 417 | 492 | Carrie Resler |
 | 418 | 491 | Travis W |
 | 419 | 491 | Criss |
 | 420 | 490 | Maggie |
@@ -450,8 +450,8 @@
 | 442 | 473 | Ava Petito |
 | 443 | 473 | Breezy Roll |
 | 444 | 472 | Princess Chyna Nelson |
-| 445 | 467 | Philip Rock |
-| 446 | 467 | Alice |
+| 445 | 467 | Alice |
+| 446 | 467 | Philip Rock |
 | 447 | 466 | gremicx |
 | 448 | 466 | Jolly Dashpiece |
 | 449 | 465 | Cesar Mendez |
@@ -463,22 +463,22 @@
 | 455 | 462 | Justin Ernst |
 | 456 | 459 | Heather Bateman |
 | 457 | 457 | Kathleen Taylor |
-| 458 | 455 | Willow |
-| 459 | 455 | Snippy Brickster |
-| 460 | 455 | Nikki Pags |
+| 458 | 455 | Snippy Brickster |
+| 459 | 455 | Nikki Pags |
+| 460 | 455 | Willow |
 | 461 | 455 | PrincessSquare |
 | 462 | 455 | Spencer Nikki |
 | 463 | 454 | Beezwax |
 | 464 | 453 | Samantha Worley |
 | 465 | 451 | Rich LeBlanc |
-| 466 | 451 | Denise Marie |
-| 467 | 451 | Jana Polk |
+| 466 | 451 | Jana Polk |
+| 467 | 451 | Denise Marie |
 | 468 | 451 | Dakota Graham |
 | 469 | 450 | Cheeky Snapper |
 | 470 | 450 | Sissy Lowery Davis |
-| 471 | 449 | Tracy Martin |
-| 472 | 449 | Michelle Abrams |
-| 473 | 449 | Kevin Russell |
+| 471 | 449 | Kevin Russell |
+| 472 | 449 | Tracy Martin |
+| 473 | 449 | Michelle Abrams |
 | 474 | 447 | Joy Petroski |
 | 475 | 446 | Arden White Kirsch |
 | 476 | 445 | Justin Parker |
@@ -494,10 +494,10 @@
 | 486 | 437 | Heath K. |
 | 487 | 436 | Kellie Montgomery |
 | 488 | 434 | Sassy Brickmatch |
-| 489 | 433 | Amanda Declue |
-| 490 | 433 | Michelle Allers |
-| 491 | 433 | Kirhonda Autmon |
-| 492 | 433 | Nelma |
+| 489 | 433 | Michelle Allers |
+| 490 | 433 | Nelma |
+| 491 | 433 | Amanda Declue |
+| 492 | 433 | Kirhonda Autmon |
 | 493 | 433 | Cibf Ecihm |
 | 494 | 433 | Hyper Twisterfit |
 | 495 | 433 | Scott Lindsay |
@@ -508,8 +508,8 @@
 | 500 | 426 | Katheline Lazo Luizaga |
 | 501 | 426 | Tina Smith Roy |
 | 502 | 425 | Lys |
-| 503 | 424 | Funky Jumper |
-| 504 | 424 | Mindy Phelps |
+| 503 | 424 | Mindy Phelps |
+| 504 | 424 | Funky Jumper |
 | 505 | 422 | Sdot |
 | 506 | 421 | victory |
 | 507 | 419 | Hoppy Buildout |
@@ -531,20 +531,20 @@
 | 523 | 409 | Amber Evans |
 | 524 | 409 | Block Baddie |
 | 525 | 408 | Carla Hoffman |
-| 526 | 408 | Brittany K Ward |
-| 527 | 408 | Tiffany Ford |
-| 528 | 407 | Christy Quick |
-| 529 | 407 | Ann Hammac |
-| 530 | 407 | Stephanie Sanchez |
+| 526 | 408 | Tiffany Ford |
+| 527 | 408 | Brittany K Ward |
+| 528 | 407 | Stephanie Sanchez |
+| 529 | 407 | Christy Quick |
+| 530 | 407 | Ann Hammac |
 | 531 | 407 | sofaking |
 | 532 | 406 | luluraine |
 | 533 | 406 | Eric Caccavale |
 | 534 | 405 | Andrew Thorson |
 | 535 | 405 | Sameerah Smith |
 | 536 | 404 | Fredd Thomas |
-| 537 | 403 | 4girls |
-| 538 | 403 | Joseph Vargas |
-| 539 | 403 | Kristi Taylor |
+| 537 | 403 | Joseph Vargas |
+| 538 | 403 | Kristi Taylor |
+| 539 | 403 | 4girls |
 | 540 | 402 | Jl |
 | 541 | 401 | Sheila M Frazier |
 | 542 | 401 | Dapper Chiseler |
@@ -556,8 +556,8 @@
 | 548 | 397 | Tipsy Zonebuilder |
 | 549 | 397 | Cameo Tweed |
 | 550 | 396 | Sunny Lift |
-| 551 | 395 | Boldy Blocker |
-| 552 | 395 | Foltz Lee Kelli |
+| 551 | 395 | Foltz Lee Kelli |
+| 552 | 395 | Boldy Blocker |
 | 553 | 395 | toony |
 | 554 | 395 | Funky Brickster |
 | 555 | 394 | Amanda J. Mcneil-Anderson |
