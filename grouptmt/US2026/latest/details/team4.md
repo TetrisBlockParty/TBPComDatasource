@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-25 10:34:43 UTC
+# Standings for team4 as of 2026-02-25 10:35:24 UTC
 
 **Total Participants:** 2198
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 9331 | Devinlee Brown |
+| 1 | 9351 | Devinlee Brown |
 | 2 | 8765 | sierrabeth |
 | 3 | 8598 | Bubbly Puzzler |
 | 4 | 6870 | Kat |
@@ -1451,48 +1451,48 @@
 | 1443 | 64 | Phyllis Wilson |
 | 1444 | 64 | Jennifer Hunt |
 | 1445 | 64 | Amy Anderson-Franks |
-| 1446 | 63 | John Robert Roe |
-| 1447 | 63 | Wet Noodle |
-| 1448 | 63 | Frothy Twisterfit |
-| 1449 | 63 | Ray Binkley |
-| 1450 | 63 | peekaboo |
-| 1451 | 63 | Michelle Cox |
-| 1452 | 63 | Pamela Hagedorn |
-| 1453 | 63 | Zesty Snapmatch |
-| 1454 | 63 | Colleen Keller |
-| 1455 | 63 | Wormtown girl |
-| 1456 | 63 | Tammie Jewel DeSimon |
-| 1457 | 63 | Cherry cola pepper |
-| 1458 | 62 | Chris Lee |
-| 1459 | 62 | yuh |
+| 1446 | 64 | Lush Basegrid |
+| 1447 | 63 | peekaboo |
+| 1448 | 63 | Pamela Hagedorn |
+| 1449 | 63 | Tammie Jewel DeSimon |
+| 1450 | 63 | Zesty Snapmatch |
+| 1451 | 63 | Wormtown girl |
+| 1452 | 63 | Colleen Keller |
+| 1453 | 63 | Michelle Cox |
+| 1454 | 63 | Ray Binkley |
+| 1455 | 63 | Frothy Twisterfit |
+| 1456 | 63 | Wet Noodle |
+| 1457 | 63 | John Robert Roe |
+| 1458 | 63 | Cherry cola pepper |
+| 1459 | 62 | Chris Lee |
 | 1460 | 62 | Kat |
-| 1461 | 62 | DingusBingus17 |
-| 1462 | 62 | Clever Caster |
-| 1463 | 62 | Dreamy Jumper |
-| 1464 | 62 | Cehak Saray |
-| 1465 | 62 | Jaycool |
-| 1466 | 62 | Pretty 💕 |
-| 1467 | 62 | Bouncy Rotator |
-| 1468 | 61 | Synamatic |
-| 1469 | 61 | niksteve70 |
-| 1470 | 61 | Connie Mitchell-Smith |
+| 1461 | 62 | yuh |
+| 1462 | 62 | DingusBingus17 |
+| 1463 | 62 | Clever Caster |
+| 1464 | 62 | Dreamy Jumper |
+| 1465 | 62 | Cehak Saray |
+| 1466 | 62 | Jaycool |
+| 1467 | 62 | Pretty 💕 |
+| 1468 | 62 | Bouncy Rotator |
+| 1469 | 61 | Synamatic |
+| 1470 | 61 | Jeni Johnson |
 | 1471 | 61 | Daoxed |
-| 1472 | 61 | Jeni Johnson |
-| 1473 | 61 | FanODisney |
-| 1474 | 61 | Keith Allen |
-| 1475 | 61 | Rollinsmokes |
-| 1476 | 61 | Nicholas Jordan |
-| 1477 | 61 | Binji |
-| 1478 | 61 | Matt Tackett |
-| 1479 | 61 | Cool Stackbuilder |
-| 1480 | 60 | Hasty Matchline |
-| 1481 | 60 | Saucy Brickroll |
+| 1472 | 61 | niksteve70 |
+| 1473 | 61 | Connie Mitchell-Smith |
+| 1474 | 61 | FanODisney |
+| 1475 | 61 | Keith Allen |
+| 1476 | 61 | Rollinsmokes |
+| 1477 | 61 | Nicholas Jordan |
+| 1478 | 61 | Binji |
+| 1479 | 61 | Matt Tackett |
+| 1480 | 61 | Cool Stackbuilder |
+| 1481 | 60 | Hasty Matchline |
 | 1482 | 60 | xSABRiNAx |
 | 1483 | 60 | Dustin Dodson |
-| 1484 | 60 | Susan Gillet |
-| 1485 | 60 | KHernan104 |
-| 1486 | 60 | Melanie Klump |
-| 1487 | 60 | Lush Basegrid |
+| 1484 | 60 | Saucy Brickroll |
+| 1485 | 60 | Susan Gillet |
+| 1486 | 60 | KHernan104 |
+| 1487 | 60 | Melanie Klump |
 | 1488 | 60 | Plucky Twistbuilder |
 | 1489 | 60 | Ayla B Quesada |
 | 1490 | 60 | Alyssa Gomez |
