@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-02-26 08:46:44 UTC
+# Standings for team1 as of 2026-02-26 08:47:24 UTC
 
-**Total Participants:** 2647
+**Total Participants:** 2648
 
 ## Participant Scores
 
@@ -1931,51 +1931,51 @@
 | 1923 | 44 | Vicky Meanor |
 | 1924 | 44 | Danielle Martin |
 | 1925 | 44 | Leanna Dawn Slone |
-| 1926 | 44 | Daring Clusterline |
-| 1927 | 44 | Hasty Towerfit |
-| 1928 | 44 | Samantha Nowaski |
-| 1929 | 44 | Scott Nguyen |
-| 1930 | 44 | Rick |
-| 1931 | 44 | Wacky Builderline |
-| 1932 | 43 | Charlie Vanblarcom |
-| 1933 | 43 | Dawn Mateo De Acosta |
-| 1934 | 43 | callsignbdog |
-| 1935 | 43 | Huou Rum |
-| 1936 | 43 | Dorothy Vernon |
+| 1926 | 44 | Wacky Builderline |
+| 1927 | 44 | Rick |
+| 1928 | 44 | Scott Nguyen |
+| 1929 | 44 | Samantha Nowaski |
+| 1930 | 44 | Hasty Towerfit |
+| 1931 | 44 | Daring Clusterline |
+| 1932 | 43 | ballzdeep |
+| 1933 | 43 | NoSyLa |
+| 1934 | 43 | Brosecki |
+| 1935 | 43 | SCROPION |
+| 1936 | 43 | Daring Brickroll |
 | 1937 | 43 | Cryder Monique |
-| 1938 | 43 | SCROPION |
-| 1939 | 43 | NoSyLa |
-| 1940 | 43 | ballzdeep |
-| 1941 | 43 | Daring Brickroll |
-| 1942 | 43 | Brosecki |
+| 1938 | 43 | Dorothy Vernon |
+| 1939 | 43 | Huou Rum |
+| 1940 | 43 | callsignbdog |
+| 1941 | 43 | Dawn Mateo De Acosta |
+| 1942 | 43 | Charlie Vanblarcom |
 | 1943 | 42 | Oliver Reeder |
 | 1944 | 42 | Dwayne Bogue |
 | 1945 | 42 | Cryptomeg |
 | 1946 | 42 | CarterParty |
 | 1947 | 42 | HyperBrickFit |
-| 1948 | 41 | lisa |
-| 1949 | 41 | TheBandit |
-| 1950 | 41 | Joe Andrew Jackson |
-| 1951 | 41 | Chad Massaro |
-| 1952 | 41 | Glitzy Gridroll |
-| 1953 | 41 | Zippy Patternzone |
-| 1954 | 41 | Plucky Column |
-| 1955 | 41 | Jeremy Hurt |
-| 1956 | 41 | Jas Ali |
-| 1957 | 41 | Hollyjo Balistreri |
-| 1958 | 41 | Curtis |
-| 1959 | 41 | jb |
-| 1960 | 40 | Natalyia |
-| 1961 | 40 | EarlineDoubtfir |
-| 1962 | 40 | Sharon Toups |
-| 1963 | 40 | Terri Ruffin Arnett |
-| 1964 | 40 | Chelly |
-| 1965 | 40 | Spicy Party |
-| 1966 | 40 | Keva |
-| 1967 | 40 | Crafty Blockbuilder |
-| 1968 | 39 | Carla Tavares |
-| 1969 | 39 | Yonkas |
-| 1970 | 39 | Lorrie Lane Cummings |
+| 1948 | 41 | Plucky Column |
+| 1949 | 41 | jb |
+| 1950 | 41 | Hollyjo Balistreri |
+| 1951 | 41 | Curtis |
+| 1952 | 41 | Joe Andrew Jackson |
+| 1953 | 41 | Jas Ali |
+| 1954 | 41 | Jeremy Hurt |
+| 1955 | 41 | lisa |
+| 1956 | 41 | Zippy Patternzone |
+| 1957 | 41 | Glitzy Gridroll |
+| 1958 | 41 | Chad Massaro |
+| 1959 | 41 | TheBandit |
+| 1960 | 41 | Lorrie Lane Cummings |
+| 1961 | 40 | Natalyia |
+| 1962 | 40 | EarlineDoubtfir |
+| 1963 | 40 | Sharon Toups |
+| 1964 | 40 | Terri Ruffin Arnett |
+| 1965 | 40 | Chelly |
+| 1966 | 40 | Spicy Party |
+| 1967 | 40 | Keva |
+| 1968 | 40 | Crafty Blockbuilder |
+| 1969 | 39 | Carla Tavares |
+| 1970 | 39 | Yonkas |
 | 1971 | 39 | Lush Dasher |
 | 1972 | 39 | Keith Hiller |
 | 1973 | 39 | Anna Mae |
@@ -2530,129 +2530,130 @@
 | 2522 | 10 | Fareti |
 | 2523 | 9 | Brittany Starr |
 | 2524 | 9 | Perky Framezone |
-| 2525 | 9 | Daryl Lassiter |
-| 2526 | 9 | Peyton Meche |
-| 2527 | 9 | Laurie Robertshaw |
-| 2528 | 9 | Katherine Firebaugh Jaynes |
-| 2529 | 9 | Ellie Barlowe |
-| 2530 | 9 | annakinskywlkr |
-| 2531 | 9 | Chipper Blockline |
-| 2532 | 9 | Brandy Johnson |
-| 2533 | 9 | Michelle Mc |
-| 2534 | 8 | Ashley |
-| 2535 | 8 | Nicholas Allen Lebeau |
-| 2536 | 8 | Poppy Builderpiece |
-| 2537 | 8 | Nicole Lynn |
-| 2538 | 8 | Bubbly Matchzone |
-| 2539 | 8 | JMFG9481 |
-| 2540 | 8 | Tijau Anderson |
-| 2541 | 8 | LaDon McCaleb |
-| 2542 | 8 | Peppy Risegrid |
-| 2543 | 8 | Adam Wells |
-| 2544 | 8 | Sandra C. Hewitt |
-| 2545 | 8 | Bill Lambert |
-| 2546 | 8 | Samantha Glosson |
-| 2547 | 8 | Angela Hartline |
-| 2548 | 8 | Rebecca Townsend |
-| 2549 | 8 | Geoffrey Jones |
-| 2550 | 8 | Alexsondra Faulconer |
-| 2551 | 8 | Karen Young |
-| 2552 | 8 | Li Kenny |
-| 2553 | 8 | Brent Dye |
-| 2554 | 8 | Keith Reid |
-| 2555 | 8 | Boldy Snapzone |
-| 2556 | 8 | Spunky Dropzone |
-| 2557 | 8 | Yolli Bear |
-| 2558 | 8 | Chummy Roll |
-| 2559 | 8 | Peacock Raxx |
-| 2560 | 8 | Lively Tiltgrid |
-| 2561 | 8 | M Jeprokz Castle |
-| 2562 | 8 | dreamy twist |
-| 2563 | 7 | Willow |
-| 2564 | 7 | Breezy Curve |
-| 2565 | 7 | Swanky Chiseler |
-| 2566 | 7 | Melissa Mahalik Stone |
-| 2567 | 7 | Gabriel Providenti |
-| 2568 | 7 | Rene Heifner |
-| 2569 | 7 | Grant Koertner |
-| 2570 | 7 | Funky Blockclear |
-| 2571 | 7 | Lazy Pop |
-| 2572 | 7 | Steven Ekstein |
-| 2573 | 7 | Caite |
-| 2574 | 7 | Loopy Framezone |
-| 2575 | 7 | Comar Logans |
-| 2576 | 7 | Harry Johnson |
-| 2577 | 7 | Socorro Molina |
-| 2578 | 7 | Swanky Shiftspin |
-| 2579 | 7 | Lively Rollfit |
-| 2580 | 7 | Maloko499 |
-| 2581 | 7 | Hasty Slamdrop |
-| 2582 | 7 | Chema plays |
-| 2583 | 7 | Chris Nelson |
-| 2584 | 7 | jeffthegoat |
-| 2585 | 7 | sondie |
-| 2586 | 7 | Heather Michelle Peek |
-| 2587 | 7 | Jilly1129 |
-| 2588 | 7 | Murda Calhoun |
-| 2589 | 7 | Wyatte Gamble |
-| 2590 | 7 | Kendall Ira Savage |
+| 2525 | 9 | annakinskywlkr |
+| 2526 | 9 | Katherine Firebaugh Jaynes |
+| 2527 | 9 | Ellie Barlowe |
+| 2528 | 9 | Chipper Blockline |
+| 2529 | 9 | Brandy Johnson |
+| 2530 | 9 | Daryl Lassiter |
+| 2531 | 9 | Peyton Meche |
+| 2532 | 9 | Michelle Mc |
+| 2533 | 9 | Laurie Robertshaw |
+| 2534 | 8 | M Jeprokz Castle |
+| 2535 | 8 | Bill Lambert |
+| 2536 | 8 | Sandra C. Hewitt |
+| 2537 | 8 | Boldy Snapzone |
+| 2538 | 8 | Samantha Glosson |
+| 2539 | 8 | Ashley |
+| 2540 | 8 | Nicole Lynn |
+| 2541 | 8 | Bubbly Matchzone |
+| 2542 | 8 | Adam Wells |
+| 2543 | 8 | JMFG9481 |
+| 2544 | 8 | Angela Hartline |
+| 2545 | 8 | Geoffrey Jones |
+| 2546 | 8 | Li Kenny |
+| 2547 | 8 | Chummy Roll |
+| 2548 | 8 | Nicholas Allen Lebeau |
+| 2549 | 8 | Peacock Raxx |
+| 2550 | 8 | Lively Tiltgrid |
+| 2551 | 8 | Tijau Anderson |
+| 2552 | 8 | Peppy Risegrid |
+| 2553 | 8 | Karen Young |
+| 2554 | 8 | Rebecca Townsend |
+| 2555 | 8 | Alexsondra Faulconer |
+| 2556 | 8 | Brent Dye |
+| 2557 | 8 | dreamy twist |
+| 2558 | 8 | Yolli Bear |
+| 2559 | 8 | Poppy Builderpiece |
+| 2560 | 8 | Keith Reid |
+| 2561 | 8 | LaDon McCaleb |
+| 2562 | 8 | Spunky Dropzone |
+| 2563 | 7 | Loopy Framezone |
+| 2564 | 7 | Melissa Mahalik Stone |
+| 2565 | 7 | Chris Nelson |
+| 2566 | 7 | Socorro Molina |
+| 2567 | 7 | Jilly1129 |
+| 2568 | 7 | Comar Logans |
+| 2569 | 7 | Gabriel Providenti |
+| 2570 | 7 | Katie Sebastian |
+| 2571 | 7 | Breezy Curve |
+| 2572 | 7 | Chema plays |
+| 2573 | 7 | Sunny Tile |
+| 2574 | 7 | Willow |
+| 2575 | 7 | Bre Neal |
+| 2576 | 7 | Rene Heifner |
+| 2577 | 7 | Maloko499 |
+| 2578 | 7 | Lively Rollfit |
+| 2579 | 7 | Swanky Shiftspin |
+| 2580 | 7 | Funky Piecebuilder |
+| 2581 | 7 | Leslie |
+| 2582 | 7 | jeffthegoat |
+| 2583 | 7 | Frothy Rotator |
+| 2584 | 7 | Micaela Diedrick |
+| 2585 | 7 | Swanky Chiseler |
+| 2586 | 7 | Funky Blockclear |
+| 2587 | 7 | Nerdy Holder |
+| 2588 | 7 | Giggy Wobbler |
+| 2589 | 7 | Lazy Pop |
+| 2590 | 7 | Dawn Michele Perez |
 | 2591 | 7 | Loopy Crasher |
-| 2592 | 7 | Dawn Michele Perez |
-| 2593 | 7 | Blue bash |
-| 2594 | 7 | Leslie |
-| 2595 | 7 | Bre Neal |
-| 2596 | 7 | Sunny Tile |
-| 2597 | 7 | Funky Piecebuilder |
-| 2598 | 7 | Giggy Wobbler |
-| 2599 | 7 | Katie Sebastian |
-| 2600 | 7 | Nerdy Holder |
-| 2601 | 7 | Frothy Rotator |
-| 2602 | 7 | Micaela Diedrick |
-| 2603 | 6 | Tracy Butler |
-| 2604 | 6 | Lee Corum |
+| 2592 | 7 | Murda Calhoun |
+| 2593 | 7 | sondie |
+| 2594 | 7 | Heather Michelle Peek |
+| 2595 | 7 | Steven Ekstein |
+| 2596 | 7 | Wyatte Gamble |
+| 2597 | 7 | Kendall Ira Savage |
+| 2598 | 7 | Grant Koertner |
+| 2599 | 7 | Caite |
+| 2600 | 7 | Blue bash |
+| 2601 | 7 | Harry Johnson |
+| 2602 | 7 | Hasty Slamdrop |
+| 2603 | 6 | Keith Taylor |
+| 2604 | 6 | Robert Greene |
 | 2605 | 6 | Cory Ford |
-| 2606 | 6 | Keith Taylor |
-| 2607 | 6 | Jeff Stanfield |
-| 2608 | 6 | Chilly Shatterline |
-| 2609 | 6 | Justin Cressotti |
-| 2610 | 6 | Manifold |
-| 2611 | 6 | Noah Rosales |
-| 2612 | 6 | Kendra Sue Ellen Johnson |
-| 2613 | 6 | Ash Des |
-| 2614 | 6 | Mel Parker |
-| 2615 | 6 | Cranky Pivot |
-| 2616 | 6 | Ryan Douglas Mitchell |
-| 2617 | 6 | Amber Jones |
-| 2618 | 6 | Jason Perez |
-| 2619 | 6 | Dee Westfall |
-| 2620 | 6 | Ritha Lopez |
-| 2621 | 6 | Daddmac |
-| 2622 | 5 | Jeremy Thomson |
-| 2623 | 5 | Rain |
-| 2624 | 5 | Coso |
+| 2606 | 6 | Lee Corum |
+| 2607 | 6 | Ryan Douglas Mitchell |
+| 2608 | 6 | Mel Parker |
+| 2609 | 6 | Manifold |
+| 2610 | 6 | Justin Cressotti |
+| 2611 | 6 | Kendra Sue Ellen Johnson |
+| 2612 | 6 | Ash Des |
+| 2613 | 6 | Tracy Butler |
+| 2614 | 6 | Chilly Shatterline |
+| 2615 | 6 | Ritha Lopez |
+| 2616 | 6 | Amber Jones |
+| 2617 | 6 | Daddmac |
+| 2618 | 6 | Jeff Stanfield |
+| 2619 | 6 | Jason Perez |
+| 2620 | 6 | Noah Rosales |
+| 2621 | 6 | Dee Westfall |
+| 2622 | 6 | Cranky Pivot |
+| 2623 | 5 | Susan Lokerse |
+| 2624 | 5 | Kimberly Meijers |
 | 2625 | 5 | Chele Gibble |
-| 2626 | 5 | Kimberly Meijers |
-| 2627 | 5 | Zoey Thompson |
-| 2628 | 5 | Aaron Penamante |
-| 2629 | 5 | Glenda Thompson |
-| 2630 | 5 | Coach B256 |
-| 2631 | 5 | Maria Ramos |
-| 2632 | 5 | Hasty Rollblock |
-| 2633 | 5 | Sharon Elizabeth Holmes |
-| 2634 | 5 | Lawana Sobilo |
-| 2635 | 5 | Groovy Shatterclear |
-| 2636 | 5 | Clever Towerfit |
-| 2637 | 5 | Boldy Brick |
-| 2638 | 5 | Epic Blocker |
-| 2639 | 5 | BlockKnocker |
-| 2640 | 5 | Giggy Striker |
-| 2641 | 5 | Lissa Armstrong |
-| 2642 | 5 | Susan Lokerse |
-| 2643 | 5 | Star Hood |
-| 2644 | 5 | Ricky Batista |
-| 2645 | 5 | Derrick Reecio |
-| 2646 | 5 | FFincher88 |
-| 2647 | 5 | Heidi Fuller |
+| 2626 | 5 | Lissa Armstrong |
+| 2627 | 5 | Jeremy Thomson |
+| 2628 | 5 | Ricky Batista |
+| 2629 | 5 | Aaron Penamante |
+| 2630 | 5 | Heidi Fuller |
+| 2631 | 5 | Rain |
+| 2632 | 5 | Glenda Thompson |
+| 2633 | 5 | Zoey Thompson |
+| 2634 | 5 | Coso |
+| 2635 | 5 | Clever Towerfit |
+| 2636 | 5 | Boldy Brick |
+| 2637 | 5 | Groovy Shatterclear |
+| 2638 | 5 | Coach B256 |
+| 2639 | 5 | Sharon Elizabeth Holmes |
+| 2640 | 5 | BlockKnocker |
+| 2641 | 5 | Giggy Striker |
+| 2642 | 5 | Maria Ramos |
+| 2643 | 5 | Epic Blocker |
+| 2644 | 5 | Lawana Sobilo |
+| 2645 | 5 | FFincher88 |
+| 2646 | 5 | Derrick Reecio |
+| 2647 | 5 | Hasty Rollblock |
+| 2648 | 5 | Star Hood |
 
 ---
 *Standings created by tournaments datasource generation tool*
