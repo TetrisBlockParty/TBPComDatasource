@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 05:26:46 UTC
+# Standings for team1 as of 2026-02-26 05:27:23 UTC
 
 **Total Participants:** 2620
 
@@ -68,7 +68,7 @@
 | 60 | 1631 | Ashley Elizabeth |
 | 61 | 1604 | Spunky Piecebuilder |
 | 62 | 1577 | Drew Magnus |
-| 63 | 1541 | Aaron Garnett |
+| 63 | 1551 | Aaron Garnett |
 | 64 | 1537 | Stef Hu |
 | 65 | 1493 | Snappy Swiper |
 | 66 | 1492 | Karin Gillen |
@@ -233,8 +233,8 @@
 | 225 | 612 | Tana |
 | 226 | 610 | Nadine Velardo |
 | 227 | 607 | David Miller |
-| 228 | 596 | Steve Schneider |
-| 229 | 596 | Rebekah LeiAnn Bonsell |
+| 228 | 601 | Rebekah LeiAnn Bonsell |
+| 229 | 596 | Steve Schneider |
 | 230 | 594 | Adele Rahman |
 | 231 | 589 | Daring Fitclear |
 | 232 | 580 | Test |
@@ -678,11 +678,11 @@
 | 670 | 270 | Sarah Bersano |
 | 671 | 270 | Blake Cobb |
 | 672 | 270 | Malaka |
-| 673 | 269 | Chyna Mae |
-| 674 | 268 | Jaymee Eva Shannon |
-| 675 | 268 | Bay Marie |
-| 676 | 268 | Jennifer Crawford |
-| 677 | 268 | Terika Rodriguez |
+| 673 | 270 | Terika Rodriguez |
+| 674 | 269 | Chyna Mae |
+| 675 | 268 | Jaymee Eva Shannon |
+| 676 | 268 | Bay Marie |
+| 677 | 268 | Jennifer Crawford |
 | 678 | 267 | Gina Fontana Meier |
 | 679 | 267 | Dandy Towerbuilder |
 | 680 | 266 | Shiny Rotate |
