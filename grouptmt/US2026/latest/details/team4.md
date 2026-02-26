@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 06:32:43 UTC
+# Standings for team4 as of 2026-02-26 06:33:24 UTC
 
 **Total Participants:** 2342
 
@@ -99,8 +99,8 @@
 | 91 | 1208 | Girl |
 | 92 | 1192 | Patron Anderson |
 | 93 | 1171 | Tracey Lehmann |
-| 94 | 1128 | Destiney Carter |
-| 95 | 1122 | Denise Carlson |
+| 94 | 1131 | Denise Carlson |
+| 95 | 1128 | Destiney Carter |
 | 96 | 1121 | BertMofo |
 | 97 | 1116 | loulou |
 | 98 | 1089 | Monica Daley |
@@ -1564,8 +1564,8 @@
 | 1556 | 66 | Lush Basegrid |
 | 1557 | 66 | Flashy Cascadepiece |
 | 1558 | 66 | Mighty T-spin |
-| 1559 | 66 | Maricia Coleman |
-| 1560 | 66 | Nadine Simone Jackwin |
+| 1559 | 66 | Nadine Simone Jackwin |
+| 1560 | 66 | Maricia Coleman |
 | 1561 | 66 | Bob Yankel |
 | 1562 | 66 | Pamela Traum |
 | 1563 | 65 | Poppy |
@@ -1583,30 +1583,30 @@
 | 1575 | 64 | Angela Catalanotto Ericksen |
 | 1576 | 64 | Lucky2Guns |
 | 1577 | 64 | Aylissa Norris |
-| 1578 | 64 | Ch Mon |
-| 1579 | 64 | Thomasena Eady Reid |
-| 1580 | 64 | Dapper Racker |
-| 1581 | 64 | Urby Ofazeroth |
-| 1582 | 63 | JJB |
-| 1583 | 63 | Flashy Twister |
-| 1584 | 63 | Tammie Jewel DeSimon |
-| 1585 | 63 | Pamela Hagedorn |
-| 1586 | 63 | Jordan Marie Mantels |
-| 1587 | 63 | Zesty Snapmatch |
-| 1588 | 63 | ocean |
-| 1589 | 63 | SpyderByt3 |
-| 1590 | 63 | Colleen Keller |
-| 1591 | 62 | yuh |
-| 1592 | 62 | Chipper Towerfit |
-| 1593 | 62 | Clever Caster |
-| 1594 | 62 | Cehak Saray |
-| 1595 | 62 | Jaycool |
-| 1596 | 62 | ddd |
-| 1597 | 61 | Elmccormick |
-| 1598 | 61 | Synamatic |
-| 1599 | 61 | Mary J Martin |
-| 1600 | 61 | Mickey L Curtis |
-| 1601 | 61 | Ashley Mauler |
+| 1578 | 64 | Ashley Mauler |
+| 1579 | 64 | Ch Mon |
+| 1580 | 64 | Thomasena Eady Reid |
+| 1581 | 64 | Dapper Racker |
+| 1582 | 64 | Urby Ofazeroth |
+| 1583 | 63 | JJB |
+| 1584 | 63 | Flashy Twister |
+| 1585 | 63 | Tammie Jewel DeSimon |
+| 1586 | 63 | Pamela Hagedorn |
+| 1587 | 63 | Jordan Marie Mantels |
+| 1588 | 63 | Zesty Snapmatch |
+| 1589 | 63 | ocean |
+| 1590 | 63 | SpyderByt3 |
+| 1591 | 63 | Colleen Keller |
+| 1592 | 62 | yuh |
+| 1593 | 62 | Chipper Towerfit |
+| 1594 | 62 | Clever Caster |
+| 1595 | 62 | Cehak Saray |
+| 1596 | 62 | Jaycool |
+| 1597 | 62 | ddd |
+| 1598 | 61 | Elmccormick |
+| 1599 | 61 | Synamatic |
+| 1600 | 61 | Mary J Martin |
+| 1601 | 61 | Mickey L Curtis |
 | 1602 | 61 | Rollinsmokes |
 | 1603 | 61 | Connie Mitchell-Smith |
 | 1604 | 61 | Nicholas Jordan |
