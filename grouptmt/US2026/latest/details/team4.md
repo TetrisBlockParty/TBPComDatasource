@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 06:58:45 UTC
+# Standings for team4 as of 2026-02-26 06:59:24 UTC
 
 **Total Participants:** 2345
 
@@ -61,7 +61,7 @@
 | 53 | 1749 | Lisa Davis |
 | 54 | 1748 | Michelle Marie |
 | 55 | 1744 | Isabel Aguilar |
-| 56 | 1726 | Dawn Alexander |
+| 56 | 1729 | Dawn Alexander |
 | 57 | 1660 | Jen Allison |
 | 58 | 1653 | LisaJo Picken Buchanan |
 | 59 | 1649 | Yoset Mejia |
@@ -460,50 +460,50 @@
 | 452 | 377 | Chummy Link |
 | 453 | 376 | Shiny Pivoty |
 | 454 | 376 | Silly Clearfit |
-| 455 | 375 | ImJustMe |
-| 456 | 375 | Zippy Tilt |
+| 455 | 375 | Zippy Tilt |
+| 456 | 375 | ImJustMe |
 | 457 | 374 | Koral Hanke |
-| 458 | 373 | Badatvs |
-| 459 | 371 | Michael Orris |
-| 460 | 368 | Penny Dean |
-| 461 | 367 | Meg |
-| 462 | 366 | Eminem |
+| 458 | 374 | Tabitha Calvin |
+| 459 | 373 | Badatvs |
+| 460 | 371 | Michael Orris |
+| 461 | 368 | Penny Dean |
+| 462 | 367 | Meg |
 | 463 | 366 | Mackenzie Forrester |
-| 464 | 365 | Brave Spinbuilder |
-| 465 | 364 | Joshua Guess |
-| 466 | 364 | wombat |
+| 464 | 366 | Eminem |
+| 465 | 365 | Brave Spinbuilder |
+| 466 | 364 | Joshua Guess |
 | 467 | 364 | Peachy Brickster |
-| 468 | 363 | Krash |
-| 469 | 361 | ThriftySpice |
+| 468 | 364 | wombat |
+| 469 | 363 | Krash |
 | 470 | 361 | giantslover514 |
-| 471 | 360 | DQ Martin |
-| 472 | 360 | Carter Jones |
-| 473 | 360 | Sunny Piececlear |
-| 474 | 359 | Sallie Sanborn |
-| 475 | 359 | Jenny Wells-Oakley |
-| 476 | 359 | Happy Combo |
-| 477 | 358 | Jasmine S Caldwell |
-| 478 | 358 | Miranda Diulio |
-| 479 | 356 | Kim Klutz Olson |
-| 480 | 355 | Yanais Fernandez |
-| 481 | 355 | Moonsterix |
-| 482 | 352 | Jared Gutwein |
-| 483 | 352 | 中山成巳 |
+| 471 | 361 | ThriftySpice |
+| 472 | 360 | DQ Martin |
+| 473 | 360 | Carter Jones |
+| 474 | 360 | Sunny Piececlear |
+| 475 | 359 | Happy Combo |
+| 476 | 359 | Sallie Sanborn |
+| 477 | 359 | Jenny Wells-Oakley |
+| 478 | 358 | Jasmine S Caldwell |
+| 479 | 358 | Miranda Diulio |
+| 480 | 356 | Kim Klutz Olson |
+| 481 | 355 | Yanais Fernandez |
+| 482 | 355 | Moonsterix |
+| 483 | 352 | Jared Gutwein |
 | 484 | 352 | RIFATSIKDER |
 | 485 | 352 | Dapper Balancer |
-| 486 | 352 | B Renee Desjardin |
-| 487 | 352 | Reds Bella |
-| 488 | 351 | Walter Beltran |
-| 489 | 350 | Chantilly Laace |
-| 490 | 350 | April Spoelma |
-| 491 | 349 | Chilly Matcher |
-| 492 | 349 | jim |
-| 493 | 349 | Hector Duran |
-| 494 | 348 | Angela Geist Jusinski |
-| 495 | 348 | Courtney Lacerte |
-| 496 | 347 | KoolMom9907 |
-| 497 | 346 | Ronald Brown Jr. |
-| 498 | 346 | Tabitha Calvin |
+| 486 | 352 | 中山成巳 |
+| 487 | 352 | B Renee Desjardin |
+| 488 | 352 | Reds Bella |
+| 489 | 351 | Walter Beltran |
+| 490 | 350 | Chantilly Laace |
+| 491 | 350 | April Spoelma |
+| 492 | 349 | Chilly Matcher |
+| 493 | 349 | jim |
+| 494 | 349 | Hector Duran |
+| 495 | 348 | Angela Geist Jusinski |
+| 496 | 348 | Courtney Lacerte |
+| 497 | 347 | KoolMom9907 |
+| 498 | 346 | Ronald Brown Jr. |
 | 499 | 344 | Elie Pean |
 | 500 | 344 | Sticherella |
 | 501 | 343 | Jarred Falls |
@@ -512,9 +512,9 @@
 | 504 | 342 | ChuckBuck Copeland |
 | 505 | 341 | Silly SeaWeed |
 | 506 | 340 | Ryry |
-| 507 | 340 | Jackson Karen |
+| 507 | 340 | Shant |
 | 508 | 340 | Jesus Garcia |
-| 509 | 340 | Shant |
+| 509 | 340 | Jackson Karen |
 | 510 | 339 | Bussy Bay |
 | 511 | 339 | River Shady Sr. |
 | 512 | 339 | Mike Kremen |
