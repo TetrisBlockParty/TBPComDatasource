@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 01:56:44 UTC
+# Standings for team1 as of 2026-02-26 01:57:22 UTC
 
 **Total Participants:** 2575
 
@@ -98,7 +98,7 @@
 | 90 | 1153 | Robert Beck |
 | 91 | 1151 | Hellsin |
 | 92 | 1147 | Erin Hodges Plumb |
-| 93 | 1139 | Tawnya Peltonen |
+| 93 | 1144 | Tawnya Peltonen |
 | 94 | 1130 | Seante Bullock |
 | 95 | 1128 | Cheeky Crusher |
 | 96 | 1123 | Sweet Baker |
@@ -334,12 +334,12 @@
 | 326 | 456 | Renee Tucker |
 | 327 | 455 | Larissa Marie Nelson |
 | 328 | 455 | Angela Fairbank |
-| 329 | 454 | Sarah Roberts |
-| 330 | 452 | Margo Wagner |
-| 331 | 452 | Poppy Drop |
-| 332 | 451 | Irv |
-| 333 | 450 | Shiny Snapfit |
-| 334 | 449 | Melissa Bires Hussar |
+| 329 | 454 | Melissa Bires Hussar |
+| 330 | 454 | Sarah Roberts |
+| 331 | 452 | Margo Wagner |
+| 332 | 452 | Poppy Drop |
+| 333 | 451 | Irv |
+| 334 | 450 | Shiny Snapfit |
 | 335 | 448 | Lynn Adams |
 | 336 | 447 | Glitzy Curvebuilder |
 | 337 | 447 | Frothy Pattern |
@@ -861,56 +861,56 @@
 | 853 | 202 | Chilly Linebuilder |
 | 854 | 202 | Latonya McLeroy Smith |
 | 855 | 202 | Chummy Risebuilder |
-| 856 | 201 | MayMay Echevarria |
-| 857 | 201 | Zany Gridclear |
-| 858 | 201 | Donna Taliger Brigante |
+| 856 | 201 | Zany Gridclear |
+| 857 | 201 | Donna Taliger Brigante |
+| 858 | 201 | MayMay Echevarria |
 | 859 | 201 | Anthony T. Fults |
 | 860 | 199 | Johnson Aryonda |
 | 861 | 199 | Sunny Catcher |
 | 862 | 199 | Dafna Kaplan-Garrahy |
 | 863 | 199 | Rayshawn Beamer |
-| 864 | 198 | Kayla Deaton |
+| 864 | 199 | Slinky Rotater |
 | 865 | 198 | Spicy Zoner |
-| 866 | 198 | Alyssa Ingram |
-| 867 | 197 | Alexis |
+| 866 | 198 | Kayla Deaton |
+| 867 | 198 | Alyssa Ingram |
 | 868 | 197 | Jodee Woods |
-| 869 | 197 | Cool Towerzone |
-| 870 | 196 | Spicy Brickline |
-| 871 | 196 | Patience D. Williams |
+| 869 | 197 | Alexis |
+| 870 | 197 | Cool Towerzone |
+| 871 | 196 | Nicole Little |
 | 872 | 196 | PSD |
-| 873 | 196 | Nicole Little |
+| 873 | 196 | Jessica Venable |
 | 874 | 196 | Jay Tressler |
-| 875 | 195 | ThreeBone |
-| 876 | 195 | Wendy Welch |
-| 877 | 195 | Sara Buuck |
-| 878 | 195 | Slinky Rotater |
-| 879 | 195 | Lisa Miller Trump |
-| 880 | 194 | Traci Schmeer |
-| 881 | 194 | Amanda Grace Agee |
-| 882 | 194 | Margie Olivas |
-| 883 | 194 | Lourdes Marrero |
-| 884 | 194 | Mary Pelley |
-| 885 | 193 | Amador López Martínez |
-| 886 | 193 | sassy |
-| 887 | 193 | Connie Butler |
-| 888 | 193 | Honey |
-| 889 | 192 | Nicole Bryant |
-| 890 | 192 | Armand Drayton |
+| 875 | 196 | Spicy Brickline |
+| 876 | 196 | Patience D. Williams |
+| 877 | 195 | Lisa Miller Trump |
+| 878 | 195 | Sara Buuck |
+| 879 | 195 | Wendy Welch |
+| 880 | 195 | ThreeBone |
+| 881 | 194 | Margie Olivas |
+| 882 | 194 | Mary Pelley |
+| 883 | 194 | Amanda Grace Agee |
+| 884 | 194 | Lourdes Marrero |
+| 885 | 194 | Traci Schmeer |
+| 886 | 193 | Amador López Martínez |
+| 887 | 193 | Honey |
+| 888 | 193 | Connie Butler |
+| 889 | 193 | sassy |
+| 890 | 192 | Nicole Bryant |
 | 891 | 192 | Frizliz17 |
-| 892 | 191 | Kashton Kp Perryon |
-| 893 | 191 | Tina Midkiff |
-| 894 | 191 | CMG |
+| 892 | 192 | Armand Drayton |
+| 893 | 191 | CMG |
+| 894 | 191 | Tina Midkiff |
 | 895 | 191 | Cj X Mal |
 | 896 | 191 | Gabrielle Louise Malloch |
-| 897 | 191 | Jessica Venable |
+| 897 | 191 | Kashton Kp Perryon |
 | 898 | 191 | Amber Nixon |
 | 899 | 191 | Smacked |
 | 900 | 191 | thtgood |
 | 901 | 191 | nm1289 |
 | 902 | 191 | Bo Sherman |
 | 903 | 191 | Mia D Stiles |
-| 904 | 190 | Witty Wipebuilder |
-| 905 | 190 | Jamie Farrar |
+| 904 | 190 | Jamie Farrar |
+| 905 | 190 | Witty Wipebuilder |
 | 906 | 190 | Boog |
 | 907 | 190 | Kimberly Sharp-Bowen |
 | 908 | 190 | Jacqueline Unique |
