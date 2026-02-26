@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 10:18:28 UTC
+# Standings for team4 as of 2026-02-26 10:19:27 UTC
 
 **Total Participants:** 2363
 
@@ -67,7 +67,7 @@
 | 59 | 1749 | Lisa Davis |
 | 60 | 1748 | Michelle Marie |
 | 61 | 1744 | Isabel Aguilar |
-| 62 | 1690 | Sammy Noguera |
+| 62 | 1710 | Sammy Noguera |
 | 63 | 1660 | Jen Allison |
 | 64 | 1653 | LisaJo Picken Buchanan |
 | 65 | 1649 | Yoset Mejia |
@@ -333,12 +333,12 @@
 | 325 | 504 | Neil Ingham |
 | 326 | 503 | Neirrah B Olailjeel |
 | 327 | 503 | KimoKoala |
-| 328 | 502 | Lauren Scott |
-| 329 | 502 | Kathy Allen |
-| 330 | 501 | Squeezy Pearsall |
-| 331 | 501 | Hyper Builder |
-| 332 | 500 | Laura |
-| 333 | 498 | 23 |
+| 328 | 503 | 23 |
+| 329 | 502 | Lauren Scott |
+| 330 | 502 | Kathy Allen |
+| 331 | 501 | Squeezy Pearsall |
+| 332 | 501 | Hyper Builder |
+| 333 | 500 | Laura |
 | 334 | 498 | Cool Gridzone |
 | 335 | 498 | mike |
 | 336 | 497 | Selena Shaw |
@@ -472,27 +472,27 @@
 | 464 | 373 | Badatvs |
 | 465 | 373 | RIFATSIKDER |
 | 466 | 371 | Michael Orris |
-| 467 | 368 | Penny Dean |
-| 468 | 367 | Meg |
-| 469 | 366 | Eminem |
-| 470 | 366 | Mackenzie Forrester |
-| 471 | 365 | Brave Spinbuilder |
-| 472 | 365 | Hyper Shatterbuilder |
-| 473 | 364 | Peachy Brickster |
-| 474 | 364 | wombat |
-| 475 | 364 | Joshua Guess |
+| 467 | 371 | Hyper Shatterbuilder |
+| 468 | 368 | Penny Dean |
+| 469 | 367 | Meg |
+| 470 | 366 | Eminem |
+| 471 | 366 | Mackenzie Forrester |
+| 472 | 365 | Brave Spinbuilder |
+| 473 | 364 | wombat |
+| 474 | 364 | Joshua Guess |
+| 475 | 364 | Peachy Brickster |
 | 476 | 363 | Krash |
 | 477 | 361 | ThriftySpice |
 | 478 | 361 | giantslover514 |
-| 479 | 360 | DQ Martin |
-| 480 | 360 | Carter Jones |
-| 481 | 360 | Sunny Piececlear |
-| 482 | 359 | Jenny Wells-Oakley |
-| 483 | 359 | Happy Combo |
-| 484 | 359 | Sallie Sanborn |
-| 485 | 358 | Jasmine S Caldwell |
-| 486 | 358 | Miranda Diulio |
-| 487 | 357 | Stacy Jones |
+| 479 | 361 | Stacy Jones |
+| 480 | 360 | DQ Martin |
+| 481 | 360 | Carter Jones |
+| 482 | 360 | Sunny Piececlear |
+| 483 | 359 | Jenny Wells-Oakley |
+| 484 | 359 | Happy Combo |
+| 485 | 359 | Sallie Sanborn |
+| 486 | 358 | Jasmine S Caldwell |
+| 487 | 358 | Miranda Diulio |
 | 488 | 356 | Kim Klutz Olson |
 | 489 | 355 | Yanais Fernandez |
 | 490 | 355 | Tiny Raine |
@@ -844,8 +844,8 @@
 | 836 | 211 | Alo |
 | 837 | 210 | Timothy Allen |
 | 838 | 210 | Heather Stratos |
-| 839 | 210 | Blue |
-| 840 | 210 | Bryan Davidson |
+| 839 | 210 | Bryan Davidson |
+| 840 | 210 | Blue |
 | 841 | 209 | Ahleek Mitchell |
 | 842 | 209 | Cheery Gridlock |
 | 843 | 209 | Calvin Dennis |
@@ -938,8 +938,8 @@
 | 930 | 184 | Flavoredsausage |
 | 931 | 184 | George Castillo |
 | 932 | 184 | Joe Beardslee |
-| 933 | 184 | LucasEveryday |
-| 934 | 184 | 420friend |
+| 933 | 184 | 420friend |
+| 934 | 184 | LucasEveryday |
 | 935 | 183 | Frothy Curve |
 | 936 | 183 | Dapper Caster |
 | 937 | 183 | Nicole McMurray |
@@ -977,41 +977,41 @@
 | 969 | 175 | Jaime Ore Norcross |
 | 970 | 174 | Libby |
 | 971 | 174 | Riley Chelsie |
-| 972 | 174 | FrankyThumbs |
-| 973 | 174 | Giggly Balancefit |
-| 974 | 174 | Dania Cochrane |
-| 975 | 173 | Michelle Parker |
-| 976 | 173 | Gerald Anderson |
-| 977 | 173 | Zany Tilebuilder |
-| 978 | 173 | Willa Anne Nold Kay |
-| 979 | 173 | Gia Mims |
-| 980 | 173 | Dot Flanagan |
-| 981 | 173 | Sadie Rae Ryan |
-| 982 | 173 | Kelly Duncan |
-| 983 | 173 | TwistyMcTwist |
-| 984 | 172 | Shanon James |
-| 985 | 172 | Kari Rose Haché |
-| 986 | 172 | Bromine |
-| 987 | 172 | Mike |
-| 988 | 172 | Roy Simmons |
-| 989 | 172 | Teddy Marshall |
-| 990 | 171 | Jenjen |
-| 991 | 171 | McKayla Breanne |
-| 992 | 171 | Michele Badgwell |
-| 993 | 170 | Dottie Falco |
-| 994 | 170 | dash |
-| 995 | 169 | Tasha |
-| 996 | 169 | Swanky Blockline |
-| 997 | 169 | Tammy Johndro |
-| 998 | 169 | Lynella |
-| 999 | 168 | Leah Landry |
-| 1000 | 168 | Chipper Rotate |
-| 1001 | 168 | Heather Mamabear Pezze |
-| 1002 | 168 | Emily Babic |
-| 1003 | 168 | Ashley Lynn Shannon |
-| 1004 | 168 | Frisky Twistslam |
-| 1005 | 168 | Hasse Larsson |
-| 1006 | 168 | Roberta Arnold |
+| 972 | 174 | Giggly Balancefit |
+| 973 | 174 | Dania Cochrane |
+| 974 | 174 | FrankyThumbs |
+| 975 | 173 | dash |
+| 976 | 173 | Michelle Parker |
+| 977 | 173 | Gerald Anderson |
+| 978 | 173 | Zany Tilebuilder |
+| 979 | 173 | Willa Anne Nold Kay |
+| 980 | 173 | Gia Mims |
+| 981 | 173 | Dot Flanagan |
+| 982 | 173 | Sadie Rae Ryan |
+| 983 | 173 | Kelly Duncan |
+| 984 | 173 | TwistyMcTwist |
+| 985 | 172 | Shanon James |
+| 986 | 172 | Kari Rose Haché |
+| 987 | 172 | Bromine |
+| 988 | 172 | Mike |
+| 989 | 172 | Roy Simmons |
+| 990 | 172 | Teddy Marshall |
+| 991 | 171 | Jenjen |
+| 992 | 171 | McKayla Breanne |
+| 993 | 171 | Michele Badgwell |
+| 994 | 170 | Dottie Falco |
+| 995 | 169 | Swanky Blockline |
+| 996 | 169 | Tammy Johndro |
+| 997 | 169 | Lynella |
+| 998 | 169 | Tasha |
+| 999 | 168 | Frisky Twistslam |
+| 1000 | 168 | Hasse Larsson |
+| 1001 | 168 | Roberta Arnold |
+| 1002 | 168 | Leah Landry |
+| 1003 | 168 | Chipper Rotate |
+| 1004 | 168 | Heather Mamabear Pezze |
+| 1005 | 168 | Emily Babic |
+| 1006 | 168 | Ashley Lynn Shannon |
 | 1007 | 167 | Tracy Dawn |
 | 1008 | 166 | mitch |
 | 1009 | 166 | Mike Burlingame |
@@ -1145,8 +1145,8 @@
 | 1137 | 135 | Keri Hough |
 | 1138 | 135 | Garrett G-luv Kyser |
 | 1139 | 135 | Hasty Piecefit |
-| 1140 | 134 | BlockBabe |
-| 1141 | 133 | Jared Nadler |
+| 1140 | 135 | Jared Nadler |
+| 1141 | 134 | BlockBabe |
 | 1142 | 132 | Taco Taco |
 | 1143 | 132 | Chilly Matchpiece |
 | 1144 | 132 | Lozuna |
@@ -1636,21 +1636,21 @@
 | 1628 | 60 | Alyssa Gomez |
 | 1629 | 60 | Smiley Wipebuilder |
 | 1630 | 60 | Amanda Hein |
-| 1631 | 59 | Nooooope |
-| 1632 | 59 | Les |
-| 1633 | 59 | Daniel Bonham |
-| 1634 | 59 | Wacky Patternbuilder |
-| 1635 | 59 | Jason Lasick |
-| 1636 | 59 | Cheeky Dashpiece |
-| 1637 | 59 | Aroura |
-| 1638 | 58 | Richard Campbell II |
-| 1639 | 58 | kash |
-| 1640 | 58 | Digg715 |
-| 1641 | 58 | Tracy Whited |
-| 1642 | 58 | Ed Burch |
-| 1643 | 58 | Tuan |
-| 1644 | 57 | Gogogirl |
-| 1645 | 57 | BlingBling |
+| 1631 | 59 | BlingBling |
+| 1632 | 59 | Nooooope |
+| 1633 | 59 | Les |
+| 1634 | 59 | Daniel Bonham |
+| 1635 | 59 | Wacky Patternbuilder |
+| 1636 | 59 | Jason Lasick |
+| 1637 | 59 | Cheeky Dashpiece |
+| 1638 | 59 | Aroura |
+| 1639 | 58 | Richard Campbell II |
+| 1640 | 58 | kash |
+| 1641 | 58 | Digg715 |
+| 1642 | 58 | Tracy Whited |
+| 1643 | 58 | Ed Burch |
+| 1644 | 58 | Tuan |
+| 1645 | 57 | Gogogirl |
 | 1646 | 57 | Demarvel Mondezie |
 | 1647 | 57 | Dyanne Pitard |
 | 1648 | 57 | Smiley Linkgrid |
