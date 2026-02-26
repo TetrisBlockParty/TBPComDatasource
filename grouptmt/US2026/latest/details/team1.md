@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 06:41:24 UTC
+# Standings for team1 as of 2026-02-26 06:42:43 UTC
 
 **Total Participants:** 2631
 
@@ -102,13 +102,13 @@
 | 94 | 1169 | Stephanie Leday |
 | 95 | 1169 | Erin Hodges Plumb |
 | 96 | 1162 | Amber Stoker |
-| 97 | 1153 | Robert Beck |
-| 98 | 1132 | Madison Wicks |
-| 99 | 1128 | Cheeky Crusher |
-| 100 | 1125 | Chris K |
-| 101 | 1124 | Phu ckalldems |
-| 102 | 1114 | Jayme Sellers |
-| 103 | 1103 | Erin Rosberg |
+| 97 | 1154 | Phu ckalldems |
+| 98 | 1153 | Robert Beck |
+| 99 | 1139 | Erin Rosberg |
+| 100 | 1132 | Madison Wicks |
+| 101 | 1128 | Cheeky Crusher |
+| 102 | 1125 | Chris K |
+| 103 | 1114 | Jayme Sellers |
 | 104 | 1088 | Jennifer ManWarren |
 | 105 | 1086 | Dawn Sheppard |
 | 106 | 1080 | Kathi Snustad |
@@ -201,14 +201,14 @@
 | 193 | 688 | Ryan Lunnin |
 | 194 | 686 | Ty Brown |
 | 195 | 683 | Witty Builderfit |
-| 196 | 677 | Speedy Liney |
-| 197 | 676 | Jumpy Dropper |
+| 196 | 682 | Jumpy Dropper |
+| 197 | 677 | Speedy Liney |
 | 198 | 674 | BadG52 |
 | 199 | 671 | ALFD |
 | 200 | 667 | Loony Fitzone |
 | 201 | 661 | Tamara Brown |
 | 202 | 659 | Timothy Danaher |
-| 203 | 653 | Rebekah LeiAnn Bonsell |
+| 203 | 659 | Rebekah LeiAnn Bonsell |
 | 204 | 649 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 205 | 646 | Angela Renea Lester |
 | 206 | 639 | Lakeisha Chapman |
@@ -639,21 +639,21 @@
 | 631 | 289 | Melissa Ann Macko |
 | 632 | 289 | Jessica Imboden |
 | 633 | 288 | DENOTS42OSPOT |
-| 634 | 287 | Andrew Boone |
-| 635 | 286 | Dizzy Rackham |
-| 636 | 285 | squareMel |
-| 637 | 285 | Marqs Mel |
-| 638 | 285 | Chipper Piecefit |
-| 639 | 284 | Terika Rodriguez |
+| 634 | 287 | Daysha Johnson |
+| 635 | 287 | Andrew Boone |
+| 636 | 286 | Dizzy Rackham |
+| 637 | 285 | squareMel |
+| 638 | 285 | Marqs Mel |
+| 639 | 285 | Chipper Piecefit |
 | 640 | 284 | Natiera Catrece |
-| 641 | 284 | Rivkah |
-| 642 | 283 | William Blackwell |
-| 643 | 283 | Franswa |
-| 644 | 283 | Grady Lynch |
-| 645 | 283 | Ashley Adams |
-| 646 | 282 | Timothy Dew |
-| 647 | 282 | Marc Abney |
-| 648 | 282 | Daysha Johnson |
+| 641 | 284 | Terika Rodriguez |
+| 642 | 284 | Rivkah |
+| 643 | 283 | William Blackwell |
+| 644 | 283 | Franswa |
+| 645 | 283 | Grady Lynch |
+| 646 | 283 | Ashley Adams |
+| 647 | 282 | Timothy Dew |
+| 648 | 282 | Marc Abney |
 | 649 | 281 | Sunflower |
 | 650 | 281 | Cheeky Curvetile |
 | 651 | 281 | Lark |
@@ -1071,34 +1071,34 @@
 | 1063 | 162 | uberdork124 |
 | 1064 | 162 | Shawn Thisismyoldaccount Gilmore |
 | 1065 | 162 | Anthony Coombs |
-| 1066 | 162 | Woohoo |
-| 1067 | 162 | Steve Robinson |
-| 1068 | 161 | Brynn Elizabeth |
-| 1069 | 160 | Lively Buildout |
-| 1070 | 160 | Richard Harmes |
-| 1071 | 159 | Vahid Khaleghi |
-| 1072 | 159 | Prudence Muzondo |
-| 1073 | 159 | Chilly Glidezone |
-| 1074 | 159 | Frilly Fitblock |
-| 1075 | 159 | Chummy Spinzone |
-| 1076 | 159 | Josh Watters |
-| 1077 | 159 | Staci Walker |
+| 1066 | 162 | Steve Robinson |
+| 1067 | 162 | Woohoo |
+| 1068 | 161 | Scott Baum |
+| 1069 | 161 | Brynn Elizabeth |
+| 1070 | 160 | Lively Buildout |
+| 1071 | 160 | Richard Harmes |
+| 1072 | 159 | Vahid Khaleghi |
+| 1073 | 159 | Prudence Muzondo |
+| 1074 | 159 | Chilly Glidezone |
+| 1075 | 159 | Frilly Fitblock |
+| 1076 | 159 | Chummy Spinzone |
+| 1077 | 159 | Josh Watters |
 | 1078 | 159 | Glitzy Balance |
-| 1079 | 158 | Josh Yazvac |
-| 1080 | 158 | Hungsolo9 |
-| 1081 | 158 | Scott Baum |
+| 1079 | 159 | Staci Walker |
+| 1080 | 158 | Josh Yazvac |
+| 1081 | 158 | Hungsolo9 |
 | 1082 | 157 | Daniel R Morgan |
 | 1083 | 157 | Sassy Rotator |
 | 1084 | 156 | Tammy Autry |
 | 1085 | 155 | Wanda Rodriguez |
-| 1086 | 155 | Sonya Gail Goodman |
-| 1087 | 155 | HIM |
+| 1086 | 155 | Lush Blockroll |
+| 1087 | 155 | Tierney Birdsell |
 | 1088 | 155 | Jennifer Duttry |
-| 1089 | 155 | Lush Blockroll |
-| 1090 | 155 | Tierney Birdsell |
-| 1091 | 154 | Dwight Wade Stambaugh Jr. |
-| 1092 | 154 | MagaMan |
-| 1093 | 154 | Chirpy Towerfall |
+| 1089 | 155 | HIM |
+| 1090 | 155 | Sonya Gail Goodman |
+| 1091 | 154 | MagaMan |
+| 1092 | 154 | Chirpy Towerfall |
+| 1093 | 154 | Dwight Wade Stambaugh Jr. |
 | 1094 | 154 | CaityNicole |
 | 1095 | 154 | Plucky Clearpiece |
 | 1096 | 153 | Unicorn |
