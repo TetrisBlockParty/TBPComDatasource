@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 07:08:44 UTC
+# Standings for team4 as of 2026-02-26 07:09:23 UTC
 
 **Total Participants:** 2346
 
@@ -26,8 +26,8 @@
 | 18 | 3456 | Clarence Patawaran |
 | 19 | 3189 | Jason Allen |
 | 20 | 3059 | Denny Shives |
-| 21 | 2574 | Misty Hollibaugh |
-| 22 | 2570 | Michelle Pearman |
+| 21 | 2574 | Michelle Pearman |
+| 22 | 2574 | Misty Hollibaugh |
 | 23 | 2535 | Jayna Anoc |
 | 24 | 2448 | Goatimus Lombardi |
 | 25 | 2427 | Ayanna Soto |
@@ -398,19 +398,19 @@
 | 390 | 428 | Stella |
 | 391 | 425 | Sho Nuff |
 | 392 | 423 | Stacy |
-| 393 | 423 | Daria Rycewicz |
-| 394 | 422 | Jess Reyes |
-| 395 | 421 | tipsy tiger |
-| 396 | 421 | Zocko Ellet |
-| 397 | 421 | Tyler Bechtel |
-| 398 | 421 | Gracie Ann Taylor |
-| 399 | 419 | Lauren Lamb |
-| 400 | 418 | Lane Wasson |
-| 401 | 417 | Val Erie |
-| 402 | 417 | BigSammy420 |
-| 403 | 416 | Bryan Hodgins |
-| 404 | 415 | Meagan Nicole |
-| 405 | 414 | Groovy Shiftspin |
+| 393 | 423 | Groovy Shiftspin |
+| 394 | 423 | Daria Rycewicz |
+| 395 | 422 | Jess Reyes |
+| 396 | 421 | Gracie Ann Taylor |
+| 397 | 421 | Zocko Ellet |
+| 398 | 421 | tipsy tiger |
+| 399 | 421 | Tyler Bechtel |
+| 400 | 419 | Lauren Lamb |
+| 401 | 418 | Lane Wasson |
+| 402 | 417 | Val Erie |
+| 403 | 417 | BigSammy420 |
+| 404 | 416 | Bryan Hodgins |
+| 405 | 415 | Meagan Nicole |
 | 406 | 414 | Amanda Maciel Clarke |
 | 407 | 411 | Mary Ann Pabukis |
 | 408 | 410 | Jenna McGeorge |
