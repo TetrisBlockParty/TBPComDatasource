@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 09:43:23 UTC
+# Standings for team4 as of 2026-02-26 09:44:44 UTC
 
 **Total Participants:** 2359
 
@@ -13,8 +13,8 @@
 | 5 | 7431 | East Mamba |
 | 6 | 6173 | Breannah Grafe |
 | 7 | 5049 | Alyssa Cox |
-| 8 | 5010 | Kristy Wintermantel |
-| 9 | 5010 | Alicia Bass |
+| 8 | 5010 | Alicia Bass |
+| 9 | 5010 | Kristy Wintermantel |
 | 10 | 4928 | Elizabeth Sallas |
 | 11 | 4651 | Roger Coulter |
 | 12 | 4645 | Melissa Adams |
@@ -57,15 +57,15 @@
 | 49 | 1819 | Johnathan Martinez |
 | 50 | 1818 | Tammi Crnza |
 | 51 | 1793 | Dee Kay |
-| 52 | 1774 | Amelpss |
-| 53 | 1774 | Eric Mcgaughy |
+| 52 | 1774 | Eric Mcgaughy |
+| 53 | 1774 | Amelpss |
 | 54 | 1765 | Anthony Bryan Riva |
 | 55 | 1760 | Dawn Alexander |
-| 56 | 1751 | Keith Kelley |
-| 57 | 1749 | Lisa Davis |
-| 58 | 1748 | Michelle Marie |
-| 59 | 1744 | Isabel Aguilar |
-| 60 | 1706 | Gene Dantzler |
+| 56 | 1756 | Gene Dantzler |
+| 57 | 1751 | Keith Kelley |
+| 58 | 1749 | Lisa Davis |
+| 59 | 1748 | Michelle Marie |
+| 60 | 1744 | Isabel Aguilar |
 | 61 | 1660 | Jen Allison |
 | 62 | 1653 | LisaJo Picken Buchanan |
 | 63 | 1649 | Yoset Mejia |
@@ -128,29 +128,29 @@
 | 120 | 999 | Nugget |
 | 121 | 972 | Brittney Griggs |
 | 122 | 971 | Sassy Pattern |
-| 123 | 962 | Samantha Peterson |
-| 124 | 959 | Shauna Havard |
-| 125 | 959 | Rodney Wheeler |
-| 126 | 944 | Lucille Truesdale |
-| 127 | 925 | D3TROITB0RN74 |
-| 128 | 923 | Carmethia Clemons Haslerig |
-| 129 | 922 | Trista Leah |
-| 130 | 914 | Lindsey Gonzalez |
-| 131 | 910 | Berklie Apedaile |
-| 132 | 903 | Brittney Orengo |
-| 133 | 901 | Nerdy Twisterfit |
-| 134 | 900 | Alan George LaRage |
-| 135 | 896 | Nikki Rae Gordon |
-| 136 | 891 | Rica Mitchell |
-| 137 | 888 | Desi Desporte |
+| 123 | 968 | Desi Desporte |
+| 124 | 962 | Samantha Peterson |
+| 125 | 959 | Shauna Havard |
+| 126 | 959 | Rodney Wheeler |
+| 127 | 944 | Lucille Truesdale |
+| 128 | 925 | D3TROITB0RN74 |
+| 129 | 923 | Carmethia Clemons Haslerig |
+| 130 | 922 | Trista Leah |
+| 131 | 920 | Berklie Apedaile |
+| 132 | 914 | Lindsey Gonzalez |
+| 133 | 903 | Brittney Orengo |
+| 134 | 901 | Nerdy Twisterfit |
+| 135 | 900 | Alan George LaRage |
+| 136 | 896 | Nikki Rae Gordon |
+| 137 | 891 | Rica Mitchell |
 | 138 | 886 | Leslie Nicole |
 | 139 | 885 | Austin Owens |
 | 140 | 873 | Brandon Crabbs |
 | 141 | 872 | Cursed Hag |
 | 142 | 871 | Porkobello |
 | 143 | 871 | Swanky Fitline |
-| 144 | 869 | George Nutt |
-| 145 | 869 | Matt Gooder |
+| 144 | 869 | Matt Gooder |
+| 145 | 869 | George Nutt |
 | 146 | 868 | Carlos Ramirez |
 | 147 | 865 | Lucas J Sutton |
 | 148 | 864 | Chris Hartig |
@@ -170,12 +170,12 @@
 | 162 | 793 | Jamie Mann-Deichmann |
 | 163 | 786 | Nita Wells |
 | 164 | 784 | Lori |
-| 165 | 782 | Kristin Manee |
-| 166 | 782 | shar |
+| 165 | 782 | shar |
+| 166 | 782 | Kristin Manee |
 | 167 | 781 | Savannah Overdorf |
-| 168 | 778 | Lora |
+| 168 | 778 | Gdiguy |
 | 169 | 778 | April Rondinone |
-| 170 | 778 | Gdiguy |
+| 170 | 778 | Lora |
 | 171 | 775 | Rebecca Morris |
 | 172 | 775 | Chris Bernstein |
 | 173 | 773 | Jenna Ingersoll |
@@ -183,8 +183,8 @@
 | 175 | 767 | Raegan Lane-Ross |
 | 176 | 767 | Luis Martinez |
 | 177 | 766 | Robin Watters |
-| 178 | 764 | Rodney McMath Jr. |
-| 179 | 764 | Christina Black |
+| 178 | 764 | Christina Black |
+| 179 | 764 | Rodney McMath Jr. |
 | 180 | 763 | YoMomma |
 | 181 | 758 | 🥔🥔 Spudz |
 | 182 | 757 | Dan Wold |
@@ -194,10 +194,10 @@
 | 186 | 747 | Ernest Maxwell |
 | 187 | 743 | Chastity Mitchell |
 | 188 | 741 | Jacqueline Helm |
-| 189 | 737 | Shiny Fit |
+| 189 | 738 | Shiny Fit |
 | 190 | 735 | Circuit8 |
-| 191 | 731 | Cristy Duerksen |
-| 192 | 731 | KJ Pool |
+| 191 | 731 | KJ Pool |
+| 192 | 731 | Cristy Duerksen |
 | 193 | 728 | Matt Summer |
 | 194 | 725 | Jim Hart |
 | 195 | 725 | Steph Marie |
@@ -1264,8 +1264,8 @@
 | 1256 | 111 | Spicy Rollpiece |
 | 1257 | 111 | Jessica Miller |
 | 1258 | 111 | Chassidy Martin |
-| 1259 | 111 | Giggly Slammer |
-| 1260 | 111 | Zappy Piecefit |
+| 1259 | 111 | Zappy Piecefit |
+| 1260 | 111 | Giggly Slammer |
 | 1261 | 111 | MistyBayou |
 | 1262 | 111 | Cozy Rollzone |
 | 1263 | 110 | Og Knockout |
@@ -1273,14 +1273,14 @@
 | 1265 | 110 | Rita Loucks |
 | 1266 | 110 | Meow Meow |
 | 1267 | 110 | Dovakin |
-| 1268 | 110 | Michelle Shimel |
-| 1269 | 109 | Phanie D |
-| 1270 | 109 | AnitaMann |
-| 1271 | 109 | Patrick Cossette |
-| 1272 | 109 | Mbeth Moore |
-| 1273 | 109 | Loyal |
-| 1274 | 109 | Michele Lauer |
-| 1275 | 108 | Barbara Rietzke |
+| 1268 | 110 | Barbara Rietzke |
+| 1269 | 110 | Michelle Shimel |
+| 1270 | 109 | Phanie D |
+| 1271 | 109 | AnitaMann |
+| 1272 | 109 | Patrick Cossette |
+| 1273 | 109 | Mbeth Moore |
+| 1274 | 109 | Loyal |
+| 1275 | 109 | Michele Lauer |
 | 1276 | 108 | Angelina Rous |
 | 1277 | 108 | Adam Hughes |
 | 1278 | 108 | Breezy Grid |
@@ -1378,9 +1378,9 @@
 | 1370 | 93 | T |
 | 1371 | 93 | Willow Rose |
 | 1372 | 93 | Wacky Shift |
-| 1373 | 93 | FanODisney |
-| 1374 | 92 | Kristen Raper |
-| 1375 | 92 | Bob Yankel |
+| 1373 | 93 | Bob Yankel |
+| 1374 | 93 | FanODisney |
+| 1375 | 92 | Kristen Raper |
 | 1376 | 92 | Anita Kramer |
 | 1377 | 92 | Khu Muas |
 | 1378 | 92 | Mighty Blockroll |
@@ -1414,14 +1414,14 @@
 | 1406 | 87 | Victoria Teasley |
 | 1407 | 87 | Kiaria Kiaria |
 | 1408 | 87 | Rocky Lotz |
-| 1409 | 86 | Nerdy Clicker |
-| 1410 | 86 | Lab2dablock |
-| 1411 | 86 | AZ |
-| 1412 | 86 | QuietStorm |
-| 1413 | 85 | Tim Knight-ten |
-| 1414 | 85 | Dylan Schultz |
-| 1415 | 85 | Staci Robinson Jones |
-| 1416 | 85 | Thomasena Eady Reid |
+| 1409 | 86 | Thomasena Eady Reid |
+| 1410 | 86 | Nerdy Clicker |
+| 1411 | 86 | Lab2dablock |
+| 1412 | 86 | AZ |
+| 1413 | 86 | QuietStorm |
+| 1414 | 85 | Tim Knight-ten |
+| 1415 | 85 | Dylan Schultz |
+| 1416 | 85 | Staci Robinson Jones |
 | 1417 | 85 | MazieMae |
 | 1418 | 84 | Brandon Biff Schleman |
 | 1419 | 84 | Faith Dawn Hershey |
