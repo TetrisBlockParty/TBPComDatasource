@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 13:20:48 UTC
+# Standings for team4 as of 2026-02-26 13:21:24 UTC
 
 **Total Participants:** 2374
 
@@ -116,9 +116,9 @@
 | 108 | 1171 | Tracey Lehmann |
 | 109 | 1151 | Judy Cox |
 | 110 | 1150 | Chris Bernstein |
-| 111 | 1143 | Denise Carlson |
-| 112 | 1138 | Sam Bishop |
-| 113 | 1137 | Carrie Brian |
+| 111 | 1147 | Carrie Brian |
+| 112 | 1143 | Denise Carlson |
+| 113 | 1138 | Sam Bishop |
 | 114 | 1131 | Nugget |
 | 115 | 1128 | Destiney Carter |
 | 116 | 1121 | BertMofo |
@@ -359,12 +359,12 @@
 | 351 | 504 | Neil Ingham |
 | 352 | 504 | Mike Solo |
 | 353 | 503 | Neirrah B Olailjeel |
-| 354 | 502 | Bryan Hodgins |
-| 355 | 502 | Kathy Allen |
-| 356 | 501 | Hyper Builder |
-| 357 | 501 | Squeezy Pearsall |
-| 358 | 500 | Laura |
-| 359 | 500 | Dihcheese444 |
+| 354 | 503 | Dihcheese444 |
+| 355 | 502 | Bryan Hodgins |
+| 356 | 502 | Kathy Allen |
+| 357 | 501 | Hyper Builder |
+| 358 | 501 | Squeezy Pearsall |
+| 359 | 500 | Laura |
 | 360 | 497 | Selena Shaw |
 | 361 | 496 | Maureen Flanigan |
 | 362 | 494 | Eri Kka |
@@ -425,30 +425,30 @@
 | 417 | 432 | Chair |
 | 418 | 431 | Stacy |
 | 419 | 431 | LADY J |
-| 420 | 429 | Sarah Brown |
-| 421 | 429 | Richard-April Kice |
+| 420 | 429 | Richard-April Kice |
+| 421 | 429 | Sarah Brown |
 | 422 | 428 | Stella |
 | 423 | 428 | Juls |
 | 424 | 428 | Danya Castillo Rios |
-| 425 | 424 | Oleg Zakharskiy |
-| 426 | 423 | BigSammy420 |
-| 427 | 422 | Jess Reyes |
-| 428 | 421 | Gracie Ann Taylor |
-| 429 | 421 | Zocko Ellet |
-| 430 | 421 | Susan Williams |
-| 431 | 418 | Lane Wasson |
-| 432 | 417 | Brave Spinbuilder |
-| 433 | 417 | Val Erie |
-| 434 | 415 | Meagan Nicole |
-| 435 | 414 | Amanda Maciel Clarke |
-| 436 | 413 | Chill Linkfall |
-| 437 | 412 | PennyCandee |
-| 438 | 412 | Tabitha Calvin |
-| 439 | 411 | Katie McCabe |
-| 440 | 411 | Mary Ann Pabukis |
-| 441 | 411 | sgt baby |
-| 442 | 410 | Jenna McGeorge |
-| 443 | 407 | Matthew Pate |
+| 425 | 427 | Matthew Pate |
+| 426 | 424 | Oleg Zakharskiy |
+| 427 | 423 | BigSammy420 |
+| 428 | 422 | Jess Reyes |
+| 429 | 421 | Gracie Ann Taylor |
+| 430 | 421 | Zocko Ellet |
+| 431 | 421 | Susan Williams |
+| 432 | 418 | Lane Wasson |
+| 433 | 417 | Brave Spinbuilder |
+| 434 | 417 | Val Erie |
+| 435 | 415 | Meagan Nicole |
+| 436 | 414 | Amanda Maciel Clarke |
+| 437 | 413 | Chill Linkfall |
+| 438 | 412 | PennyCandee |
+| 439 | 412 | Tabitha Calvin |
+| 440 | 411 | Katie McCabe |
+| 441 | 411 | Mary Ann Pabukis |
+| 442 | 411 | sgt baby |
+| 443 | 410 | Jenna McGeorge |
 | 444 | 406 | GTxIrishman |
 | 445 | 406 | Marvetta Williams |
 | 446 | 406 | Spunky Framezone |
@@ -646,11 +646,11 @@
 | 638 | 301 | Frilly Blocky |
 | 639 | 300 | Zappy Bridgepiece |
 | 640 | 298 | peekaboo |
-| 641 | 298 | Too Low Lou |
-| 642 | 298 | Sweet Pea |
-| 643 | 298 | Tanya Abernathy Jackson |
-| 644 | 297 | Smiley Shifter |
-| 645 | 297 | Leanne Cochran |
+| 641 | 298 | Leanne Cochran |
+| 642 | 298 | Too Low Lou |
+| 643 | 298 | Sweet Pea |
+| 644 | 298 | Tanya Abernathy Jackson |
+| 645 | 297 | Smiley Shifter |
 | 646 | 296 | pharoah |
 | 647 | 295 | Mark Willman |
 | 648 | 295 | Noel Christa |
