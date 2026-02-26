@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 00:12:44 UTC
+# Standings for team4 as of 2026-02-26 00:13:23 UTC
 
 **Total Participants:** 2281
 
@@ -294,23 +294,23 @@
 | 286 | 511 | Jen Mattei |
 | 287 | 510 | David Lay |
 | 288 | 510 | Jenna Keen |
-| 289 | 504 | Mike Solo |
-| 290 | 503 | Neirrah B Olailjeel |
-| 291 | 503 | Gdiguy |
-| 292 | 500 | Laura |
-| 293 | 498 | 23 |
-| 294 | 498 | mike |
-| 295 | 497 | Lauren Scott |
-| 296 | 496 | blockstar |
-| 297 | 494 | 030Synner |
-| 298 | 494 | Zakia Monae |
+| 289 | 504 | Christine Simmons |
+| 290 | 504 | Mike Solo |
+| 291 | 503 | Neirrah B Olailjeel |
+| 292 | 503 | Gdiguy |
+| 293 | 500 | Laura |
+| 294 | 498 | 23 |
+| 295 | 498 | mike |
+| 296 | 497 | Lauren Scott |
+| 297 | 496 | blockstar |
+| 298 | 494 | 030Synner |
 | 299 | 494 | Lindsay Ball |
-| 300 | 493 | Hyper Builder |
-| 301 | 493 | Loony Rotater |
-| 302 | 491 | Rafael Valentin |
-| 303 | 491 | Stacey Stano |
-| 304 | 488 | Jake Roberts |
-| 305 | 484 | Christine Simmons |
+| 300 | 494 | Zakia Monae |
+| 301 | 493 | Hyper Builder |
+| 302 | 493 | Loony Rotater |
+| 303 | 491 | Rafael Valentin |
+| 304 | 491 | Stacey Stano |
+| 305 | 488 | Jake Roberts |
 | 306 | 483 | Jessica Fredericks |
 | 307 | 483 | Zołza 😈 |
 | 308 | 482 | Dihcheese444 |
@@ -354,8 +354,8 @@
 | 346 | 440 | Cool Gridzone |
 | 347 | 440 | KayM |
 | 348 | 439 | Snippy Puzzle |
-| 349 | 437 | Backoff Recupe |
-| 350 | 435 | Metsfan |
+| 349 | 438 | Metsfan |
+| 350 | 437 | Backoff Recupe |
 | 351 | 434 | Ramel Rhodes |
 | 352 | 434 | Maria Hammie |
 | 353 | 434 | Tina Lopez |
