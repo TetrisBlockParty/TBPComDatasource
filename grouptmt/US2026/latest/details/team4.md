@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 00:01:24 UTC
+# Standings for team4 as of 2026-02-26 00:02:44 UTC
 
 **Total Participants:** 2281
 
@@ -84,9 +84,9 @@
 | 76 | 1239 | TeeJ |
 | 77 | 1232 | Alyssa Papen |
 | 78 | 1225 | Kimyatta Cavin |
-| 79 | 1220 | Marvin Lou Martin |
-| 80 | 1220 | Ashley Ingram |
-| 81 | 1218 | Carolyn Wallace |
+| 79 | 1224 | Carolyn Wallace |
+| 80 | 1220 | Marvin Lou Martin |
+| 81 | 1220 | Ashley Ingram |
 | 82 | 1213 | Peachy Fall |
 | 83 | 1204 | Shannon Ferrari |
 | 84 | 1189 | Patron Anderson |
@@ -125,7 +125,7 @@
 | 117 | 900 | Sassy Pattern |
 | 118 | 900 | Angela Srubar-Norman |
 | 119 | 896 | Nikki Rae Gordon |
-| 120 | 895 | Lindsey Gonzalez |
+| 120 | 896 | Lindsey Gonzalez |
 | 121 | 893 | Nerdy Twisterfit |
 | 122 | 891 | Rica Mitchell |
 | 123 | 887 | Brittney Orengo |
@@ -151,29 +151,29 @@
 | 143 | 811 | Cursed Hag |
 | 144 | 811 | Lucas J Sutton |
 | 145 | 810 | Tracey Lehmann |
-| 146 | 802 | Crystal Carroll |
-| 147 | 799 | TRCuse |
-| 148 | 797 | Serena Goodridge |
-| 149 | 796 | Adawna Swires |
-| 150 | 793 | Desi Desporte |
+| 146 | 810 | Shh |
+| 147 | 802 | Crystal Carroll |
+| 148 | 799 | TRCuse |
+| 149 | 797 | Serena Goodridge |
+| 150 | 796 | Adawna Swires |
 | 151 | 793 | Jamie Mann-Deichmann |
-| 152 | 790 | Chilly Crasher |
-| 153 | 784 | Lori |
-| 154 | 781 | Savannah Overdorf |
-| 155 | 779 | Nita Wells |
-| 156 | 766 | Robin Watters |
-| 157 | 765 | Raegan Lane-Ross |
-| 158 | 763 | Rebecca Morris |
-| 159 | 761 | Rodney Wheeler |
-| 160 | 760 | Shh |
+| 152 | 793 | Desi Desporte |
+| 153 | 790 | Chilly Crasher |
+| 154 | 784 | Lori |
+| 155 | 781 | Savannah Overdorf |
+| 156 | 779 | Nita Wells |
+| 157 | 766 | Robin Watters |
+| 158 | 765 | Raegan Lane-Ross |
+| 159 | 763 | Rebecca Morris |
+| 160 | 761 | Rodney Wheeler |
 | 161 | 758 | H.R. Block |
 | 162 | 752 | Jessica Lynn Cutlip |
 | 163 | 749 | shar |
 | 164 | 749 | 🥔🥔 Spudz |
 | 165 | 746 | Krystal McPherson |
 | 166 | 741 | Jacqueline Helm |
-| 167 | 739 | Rodney McMath Jr. |
-| 168 | 739 | George Nutt |
+| 167 | 739 | George Nutt |
+| 168 | 739 | Rodney McMath Jr. |
 | 169 | 736 | Chastity Mitchell |
 | 170 | 733 | April Rondinone |
 | 171 | 732 | Jessi Cinotto |
@@ -333,13 +333,13 @@
 | 325 | 463 | Googenheim |
 | 326 | 463 | Tyler Terrific |
 | 327 | 461 | Twisty Cascadezone |
-| 328 | 458 | Alan Zukowski |
-| 329 | 457 | Candice Carasiti |
-| 330 | 457 | Stephme310 |
-| 331 | 456 | Andrew Dang |
-| 332 | 454 | Ruby Khalisadar |
-| 333 | 453 | Duck |
-| 334 | 453 | Lilya Troutman |
+| 328 | 459 | Lilya Troutman |
+| 329 | 458 | Alan Zukowski |
+| 330 | 457 | Candice Carasiti |
+| 331 | 457 | Stephme310 |
+| 332 | 456 | Andrew Dang |
+| 333 | 454 | Ruby Khalisadar |
+| 334 | 453 | Duck |
 | 335 | 452 | Eri Kka |
 | 336 | 452 | Perky Piecegrid |
 | 337 | 451 | Frances Hui |
@@ -363,9 +363,9 @@
 | 355 | 432 | Chair |
 | 356 | 432 | Jason Bosco |
 | 357 | 431 | LADY J |
-| 358 | 430 | Holly |
-| 359 | 429 | Sarah Brown |
-| 360 | 429 | Metsfan |
+| 358 | 431 | Metsfan |
+| 359 | 430 | Holly |
+| 360 | 429 | Sarah Brown |
 | 361 | 423 | Daria Rycewicz |
 | 362 | 423 | Jason Frehner |
 | 363 | 422 | Jess Reyes |
@@ -397,9 +397,9 @@
 | 389 | 402 | Richard-April Kice |
 | 390 | 401 | RamboBanana |
 | 391 | 400 | Juls |
-| 392 | 399 | Paito |
-| 393 | 396 | Bonnie Hurlbrink |
-| 394 | 395 | Tyler Bechtel |
+| 392 | 399 | Tyler Bechtel |
+| 393 | 399 | Paito |
+| 394 | 396 | Bonnie Hurlbrink |
 | 395 | 395 | Chummy Towerzone |
 | 396 | 395 | Zany Shatterer |
 | 397 | 395 | Marcus TheeyoungWoe Gilmore |
@@ -831,20 +831,20 @@
 | 823 | 196 | UJ Mate |
 | 824 | 196 | Austin |
 | 825 | 196 | canglem |
-| 826 | 195 | Saucy Stackbuilder |
-| 827 | 195 | Jessi Godsey |
+| 826 | 196 | Saucy Stackbuilder |
+| 827 | 195 | KanVus |
 | 828 | 195 | Griffen |
-| 829 | 195 | KanVus |
-| 830 | 195 | Christian Torres |
-| 831 | 195 | No Strings Attached Ra |
+| 829 | 195 | Christian Torres |
+| 830 | 195 | No Strings Attached Ra |
+| 831 | 195 | Jessi Godsey |
 | 832 | 194 | Zany Twisterfit |
-| 833 | 194 | Bruce Gal |
-| 834 | 194 | Chipper Buildout |
-| 835 | 194 | FallenStar |
+| 833 | 194 | FallenStar |
+| 834 | 194 | Bruce Gal |
+| 835 | 194 | Chipper Buildout |
 | 836 | 193 | Lakesha Johnson |
-| 837 | 192 | Jared M D Campbell |
-| 838 | 192 | Ashlee Johnson |
-| 839 | 192 | Chilly Filler |
+| 837 | 192 | Ashlee Johnson |
+| 838 | 192 | Chilly Filler |
+| 839 | 192 | Jared M D Campbell |
 | 840 | 191 | Glen Altomare II |
 | 841 | 191 | Gina Sexton Powell |
 | 842 | 191 | Cece |
@@ -1833,27 +1833,27 @@
 | 1825 | 35 | Kiaria Kiaria |
 | 1826 | 35 | Tim Taylor |
 | 1827 | 35 | Cj Austin |
-| 1828 | 34 | ChromaticZero |
+| 1828 | 34 | Amber Curry |
 | 1829 | 34 | Brandy Birkett |
 | 1830 | 34 | Preston Miller |
-| 1831 | 34 | DLAMB |
-| 1832 | 34 | Nyiesha Aikens |
-| 1833 | 34 | Christi Gumber |
-| 1834 | 34 | Mike Ybarra |
-| 1835 | 34 | kn1fehandz |
-| 1836 | 34 | John Anderson |
+| 1831 | 34 | Nyiesha Aikens |
+| 1832 | 34 | Christi Gumber |
+| 1833 | 34 | Mike Ybarra |
+| 1834 | 34 | ChromaticZero |
+| 1835 | 34 | DLAMB |
+| 1836 | 34 | kn1fehandz |
 | 1837 | 34 | Krista Wilder |
-| 1838 | 34 | Los |
-| 1839 | 34 | Jonathan Colon |
-| 1840 | 34 | Amber Curry |
-| 1841 | 33 | You know who |
-| 1842 | 33 | Jolene Marie Caetano |
-| 1843 | 33 | Diddyblud |
-| 1844 | 33 | Reshau Clay |
-| 1845 | 33 | Jodi Warner Sommerer |
-| 1846 | 33 | Emily Finhill |
+| 1838 | 34 | John Anderson |
+| 1839 | 34 | Los |
+| 1840 | 34 | Jonathan Colon |
+| 1841 | 33 | Jolene Marie Caetano |
+| 1842 | 33 | You know who |
+| 1843 | 33 | Reshau Clay |
+| 1844 | 33 | Jodi Warner Sommerer |
+| 1845 | 33 | Emily Finhill |
+| 1846 | 33 | Monique Taurus Bugett |
 | 1847 | 33 | IceQueenKiller |
-| 1848 | 33 | Monique Taurus Bugett |
+| 1848 | 33 | Diddyblud |
 | 1849 | 33 | Shakeyj |
 | 1850 | 33 | StarChild |
 | 1851 | 33 | Breezy Tilemaker |
@@ -1862,39 +1862,39 @@
 | 1854 | 33 | Robert Sloan |
 | 1855 | 33 | Danielle Dunn |
 | 1856 | 33 | 1 |
-| 1857 | 32 | Michelle White |
-| 1858 | 32 | Scott Burkett |
+| 1857 | 32 | Scott Burkett |
+| 1858 | 32 | Michelle White |
 | 1859 | 32 | Lauri Robare Russell |
 | 1860 | 32 | Block Buster |
-| 1861 | 32 | Verzell Wade Banner |
-| 1862 | 32 | Antronita Kemp |
-| 1863 | 32 | Zesty Dashgrid |
-| 1864 | 32 | ElleneRobert KylePaisley Coward |
-| 1865 | 32 | Kyrstyn Viers |
-| 1866 | 32 | Aaron Brown |
-| 1867 | 32 | Stephon Void |
-| 1868 | 32 | PnkUnicrn |
-| 1869 | 32 | Terri Tatem |
-| 1870 | 32 | Heath Klingler |
-| 1871 | 32 | Tisha McManus |
-| 1872 | 32 | CheBrandNew |
+| 1861 | 32 | Dapper Racker |
+| 1862 | 32 | Verzell Wade Banner |
+| 1863 | 32 | Antronita Kemp |
+| 1864 | 32 | Zesty Dashgrid |
+| 1865 | 32 | ElleneRobert KylePaisley Coward |
+| 1866 | 32 | Kyrstyn Viers |
+| 1867 | 32 | Aaron Brown |
+| 1868 | 32 | Stephon Void |
+| 1869 | 32 | PnkUnicrn |
+| 1870 | 32 | Terri Tatem |
+| 1871 | 32 | Heath Klingler |
+| 1872 | 32 | Tisha McManus |
 | 1873 | 32 | Shy Ryan |
-| 1874 | 31 | Jud Retzlaff |
-| 1875 | 31 | Dandy Liner |
-| 1876 | 31 | Plucky Patternbuilder |
-| 1877 | 31 | Raido |
-| 1878 | 31 | Sab |
-| 1879 | 31 | Hoppy Brickzone |
-| 1880 | 31 | Nooooope |
-| 1881 | 30 | Bricky McBrickface |
-| 1882 | 30 | Jakorah Musto |
-| 1883 | 30 | Dapper Racker |
+| 1874 | 32 | CheBrandNew |
+| 1875 | 31 | Hoppy Brickzone |
+| 1876 | 31 | Jud Retzlaff |
+| 1877 | 31 | Dandy Liner |
+| 1878 | 31 | Plucky Patternbuilder |
+| 1879 | 31 | Sab |
+| 1880 | 31 | Raido |
+| 1881 | 31 | Nooooope |
+| 1882 | 30 | Bricky McBrickface |
+| 1883 | 30 | Jakorah Musto |
 | 1884 | 30 | Khrystyna Lukaniuk |
 | 1885 | 30 | Robbie Davison |
-| 1886 | 30 | Lisa Kohuwsky |
-| 1887 | 30 | Thomasena Eady Reid |
-| 1888 | 30 | Kris Wolfe |
-| 1889 | 30 | Clara Avilez |
+| 1886 | 30 | Thomasena Eady Reid |
+| 1887 | 30 | Lisa Kohuwsky |
+| 1888 | 30 | Clara Avilez |
+| 1889 | 30 | Kris Wolfe |
 | 1890 | 30 | Becky |
 | 1891 | 30 | Buda23 |
 | 1892 | 30 | Apryl Lia |
@@ -2064,30 +2064,30 @@
 | 2056 | 17 | Conni Brown |
 | 2057 | 17 | Wacky Strikerpiece |
 | 2058 | 17 | Dandre |
-| 2059 | 16 | Becca |
-| 2060 | 16 | Amy Lee |
-| 2061 | 16 | Eyevie Dclxvi |
-| 2062 | 16 | The Contender |
-| 2063 | 16 | Amanda Sansoucie |
-| 2064 | 16 | Orin Whitbeck |
-| 2065 | 16 | David Brown |
-| 2066 | 16 | SilentB |
-| 2067 | 16 | Leann Proctor |
-| 2068 | 16 | Amanda Dawn Grantham |
+| 2059 | 16 | Groovy Stacker |
+| 2060 | 16 | Becca |
+| 2061 | 16 | Amy Lee |
+| 2062 | 16 | Eyevie Dclxvi |
+| 2063 | 16 | The Contender |
+| 2064 | 16 | Amanda Sansoucie |
+| 2065 | 16 | Orin Whitbeck |
+| 2066 | 16 | David Brown |
+| 2067 | 16 | SilentB |
+| 2068 | 16 | Leann Proctor |
 | 2069 | 16 | Milli Thorne |
-| 2070 | 16 | Mery wey |
+| 2070 | 16 | Amanda Dawn Grantham |
 | 2071 | 16 | Jumpy Blockline |
-| 2072 | 16 | StayC |
-| 2073 | 16 | Byron Mario Cawthon |
-| 2074 | 16 | Ross Shaquan |
-| 2075 | 16 | Terra Emery |
+| 2072 | 16 | Mery wey |
+| 2073 | 16 | StayC |
+| 2074 | 16 | Terra Emery |
+| 2075 | 16 | Byron Mario Cawthon |
 | 2076 | 16 | Dizzy Crawler |
-| 2077 | 15 | Felicia Patterson |
-| 2078 | 15 | Gretchen Smith |
-| 2079 | 15 | Kenyata Hughes |
-| 2080 | 15 | Groovy Stacker |
-| 2081 | 15 | Snippy Matcher |
-| 2082 | 15 | Boldy Bouncer |
+| 2077 | 16 | Ross Shaquan |
+| 2078 | 15 | Snippy Matcher |
+| 2079 | 15 | Gretchen Smith |
+| 2080 | 15 | Kenyata Hughes |
+| 2081 | 15 | Lindsey Lawson |
+| 2082 | 15 | Felicia Patterson |
 | 2083 | 15 | Sharon Berner |
 | 2084 | 15 | Crystal Bullard |
 | 2085 | 15 | Brianna O |
@@ -2095,16 +2095,16 @@
 | 2087 | 15 | Larry Snider |
 | 2088 | 15 | Jen Smith |
 | 2089 | 15 | Nathaniel Hughes |
-| 2090 | 15 | Ebonee Wallace |
-| 2091 | 15 | Leanne Cochran |
+| 2090 | 15 | Leanne Cochran |
+| 2091 | 15 | Ebonee Wallace |
 | 2092 | 15 | Sunny Roll |
 | 2093 | 15 | Chirpy Mover |
 | 2094 | 15 | cranberry |
 | 2095 | 15 | Lincoln Nebraska |
 | 2096 | 15 | Clever Wipepiece |
 | 2097 | 15 | Telly Tell |
-| 2098 | 15 | Krissel Kaeo |
-| 2099 | 15 | Lindsey Lawson |
+| 2098 | 15 | Boldy Bouncer |
+| 2099 | 15 | Krissel Kaeo |
 | 2100 | 15 | Teresa Trich |
 | 2101 | 14 | Sassy Shift |
 | 2102 | 14 | Nerdy Shift |
