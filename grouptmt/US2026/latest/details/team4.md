@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 08:36:44 UTC
+# Standings for team4 as of 2026-02-26 08:37:24 UTC
 
 **Total Participants:** 2357
 
@@ -1290,21 +1290,21 @@
 | 1282 | 107 | Denver |
 | 1283 | 107 | Ios |
 | 1284 | 107 | Joleeoleeooo |
-| 1285 | 106 | TSmitty |
-| 1286 | 106 | Jose Gonzalez |
-| 1287 | 106 | Dmu |
-| 1288 | 106 | Rita Laws |
-| 1289 | 106 | Haddiyah Bilal |
-| 1290 | 106 | Frothy Twisterfit |
-| 1291 | 106 | Brave Tilebuilder |
-| 1292 | 106 | Bubbly Crawler |
-| 1293 | 106 | Bold Matcher |
-| 1294 | 105 | Jeffrey Carl Carter |
-| 1295 | 105 | Dreamy Tiler |
-| 1296 | 105 | Zerkiiboy |
-| 1297 | 105 | Derwin Dewayne Mosby |
-| 1298 | 105 | Karlina Brown |
-| 1299 | 104 | Preston Miller |
+| 1285 | 107 | Preston Miller |
+| 1286 | 106 | TSmitty |
+| 1287 | 106 | Jose Gonzalez |
+| 1288 | 106 | Dmu |
+| 1289 | 106 | Rita Laws |
+| 1290 | 106 | Haddiyah Bilal |
+| 1291 | 106 | Frothy Twisterfit |
+| 1292 | 106 | Brave Tilebuilder |
+| 1293 | 106 | Bubbly Crawler |
+| 1294 | 106 | Bold Matcher |
+| 1295 | 105 | Jeffrey Carl Carter |
+| 1296 | 105 | Dreamy Tiler |
+| 1297 | 105 | Zerkiiboy |
+| 1298 | 105 | Derwin Dewayne Mosby |
+| 1299 | 105 | Karlina Brown |
 | 1300 | 104 | NihilisticIntrigue |
 | 1301 | 104 | Leslie Parker |
 | 1302 | 104 | Quan Wen |
@@ -1389,43 +1389,43 @@
 | 1381 | 90 | Johnboom317 |
 | 1382 | 90 | Terrie Rader |
 | 1383 | 90 | Christopher Cand |
-| 1384 | 89 | Chad Moore |
-| 1385 | 89 | Rachel Nicole |
-| 1386 | 89 | Blockin88 |
-| 1387 | 89 | Boldy Linkfall |
-| 1388 | 89 | Kayley Kara Gaudin |
-| 1389 | 89 | Mary Haynes |
-| 1390 | 88 | Missy Conley Sayne |
-| 1391 | 88 | Shelly Matthews |
-| 1392 | 88 | Miranda Ozaeta |
-| 1393 | 88 | Taco Taco |
-| 1394 | 87 | Derek Pendarvis |
-| 1395 | 87 | Kat |
-| 1396 | 87 | Cherry cola pepper |
-| 1397 | 87 | Ashley Kerr |
-| 1398 | 87 | Laura Smith |
-| 1399 | 87 | Nicholas Felton |
-| 1400 | 87 | Victoria Teasley |
-| 1401 | 87 | Kiaria Kiaria |
-| 1402 | 87 | Rocky Lotz |
-| 1403 | 86 | Nerdy Clicker |
+| 1384 | 89 | Tonya |
+| 1385 | 89 | Chad Moore |
+| 1386 | 89 | Rachel Nicole |
+| 1387 | 89 | Blockin88 |
+| 1388 | 89 | Boldy Linkfall |
+| 1389 | 89 | Kayley Kara Gaudin |
+| 1390 | 89 | Mary Haynes |
+| 1391 | 88 | Missy Conley Sayne |
+| 1392 | 88 | Shelly Matthews |
+| 1393 | 88 | Miranda Ozaeta |
+| 1394 | 88 | Taco Taco |
+| 1395 | 87 | Derek Pendarvis |
+| 1396 | 87 | Kat |
+| 1397 | 87 | Cherry cola pepper |
+| 1398 | 87 | Ashley Kerr |
+| 1399 | 87 | Laura Smith |
+| 1400 | 87 | Nicholas Felton |
+| 1401 | 87 | Rocky Lotz |
+| 1402 | 87 | Kiaria Kiaria |
+| 1403 | 87 | Victoria Teasley |
 | 1404 | 86 | Lab2dablock |
-| 1405 | 86 | QuietStorm |
-| 1406 | 86 | AZ |
-| 1407 | 85 | Staci Robinson Jones |
-| 1408 | 85 | Dylan Schultz |
-| 1409 | 85 | Tim Knight-ten |
-| 1410 | 85 | MazieMae |
-| 1411 | 84 | Brandon Biff Schleman |
-| 1412 | 84 | Guillermo Perara |
-| 1413 | 84 | Marta Savchuk |
-| 1414 | 84 | Faith Dawn Hershey |
-| 1415 | 83 | Zhulma Velasco |
-| 1416 | 83 | Ens21417 |
-| 1417 | 83 | Tori Lynn Nunez-Bayhi |
-| 1418 | 83 | Ohmatae |
-| 1419 | 83 | Audrey Hammock |
-| 1420 | 83 | Tonya |
+| 1405 | 86 | Nerdy Clicker |
+| 1406 | 86 | QuietStorm |
+| 1407 | 86 | AZ |
+| 1408 | 85 | Staci Robinson Jones |
+| 1409 | 85 | Dylan Schultz |
+| 1410 | 85 | Tim Knight-ten |
+| 1411 | 85 | MazieMae |
+| 1412 | 84 | Brandon Biff Schleman |
+| 1413 | 84 | Guillermo Perara |
+| 1414 | 84 | Marta Savchuk |
+| 1415 | 84 | Faith Dawn Hershey |
+| 1416 | 83 | Zhulma Velasco |
+| 1417 | 83 | Ens21417 |
+| 1418 | 83 | Tori Lynn Nunez-Bayhi |
+| 1419 | 83 | Ohmatae |
+| 1420 | 83 | Audrey Hammock |
 | 1421 | 82 | Bob Yankel |
 | 1422 | 82 | Jumpy Spinfit |
 | 1423 | 82 | Jennifer Dresser |
