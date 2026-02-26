@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 08:40:44 UTC
+# Standings for team4 as of 2026-02-26 08:41:23 UTC
 
 **Total Participants:** 2357
 
@@ -256,7 +256,7 @@
 | 248 | 603 | Michelle Morris |
 | 249 | 603 | Kristi Trafton |
 | 250 | 600 | Antony Dwayne Beasley |
-| 251 | 599 | Tyler Terrific |
+| 251 | 600 | Tyler Terrific |
 | 252 | 595 | Deanna Deckard |
 | 253 | 595 | Andria Lynn |
 | 254 | 594 | Sharyn Lemire |
@@ -298,17 +298,17 @@
 | 290 | 537 | ThaEviLJeNiuZ |
 | 291 | 537 | Kate |
 | 292 | 535 | AyeKay |
-| 293 | 532 | Brittany Little |
-| 294 | 531 | @ |
-| 295 | 529 | Silly Zonebuilder |
-| 296 | 527 | Jolly Dashfit |
-| 297 | 526 | Lee Silpe |
-| 298 | 525 | Jen Mattei |
-| 299 | 524 | Rafael Valentin |
-| 300 | 523 | David Lay |
-| 301 | 523 | Twisty Risebuilder |
-| 302 | 522 | Heather Bruce |
-| 303 | 522 | Lush Linkfall |
+| 293 | 532 | Lush Linkfall |
+| 294 | 532 | Brittany Little |
+| 295 | 531 | @ |
+| 296 | 529 | Silly Zonebuilder |
+| 297 | 527 | Jolly Dashfit |
+| 298 | 526 | Lee Silpe |
+| 299 | 525 | Jen Mattei |
+| 300 | 524 | Rafael Valentin |
+| 301 | 523 | David Lay |
+| 302 | 523 | Twisty Risebuilder |
+| 303 | 522 | Heather Bruce |
 | 304 | 522 | Stacey Stano |
 | 305 | 521 | Ari Droff |
 | 306 | 520 | Holly Jolly |
