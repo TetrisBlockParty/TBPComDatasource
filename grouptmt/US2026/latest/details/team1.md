@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 05:36:46 UTC
+# Standings for team1 as of 2026-02-26 05:37:23 UTC
 
 **Total Participants:** 2622
 
@@ -177,8 +177,8 @@
 | 169 | 751 | Jerry Danowski |
 | 170 | 749 | Howdi Duty |
 | 171 | 748 | Tyler Werts |
-| 172 | 744 | Michael Espinosa Ulibarri Jr. |
-| 173 | 744 | Lori Bales |
+| 172 | 744 | Lori Bales |
+| 173 | 744 | Michael Espinosa Ulibarri Jr. |
 | 174 | 742 | April Jones |
 | 175 | 734 | Νεφ Όνυξ |
 | 176 | 733 | Ly Phethmany |
@@ -192,8 +192,8 @@
 | 184 | 708 | ParisandCory Champagne |
 | 185 | 704 | DaRascal |
 | 186 | 703 | Logan McFarland |
-| 187 | 698 | SkipTheSadSauce |
-| 188 | 698 | femmefatale |
+| 187 | 698 | femmefatale |
+| 188 | 698 | SkipTheSadSauce |
 | 189 | 696 | Jessie Welch |
 | 190 | 689 | Jessi Sauer |
 | 191 | 688 | Ryan Lunnin |
@@ -216,16 +216,16 @@
 | 208 | 636 | Brave Linkmatch |
 | 209 | 635 | Sleepysloath5745 |
 | 210 | 635 | Luciano Moreira |
-| 211 | 629 | Michelle Beres |
-| 212 | 629 | Rat666 |
-| 213 | 629 | Avelyn Calamba |
-| 214 | 629 | Witty Builderfit |
-| 215 | 628 | Buttons Stemm |
+| 211 | 631 | Buttons Stemm |
+| 212 | 629 | Michelle Beres |
+| 213 | 629 | Rat666 |
+| 214 | 629 | Avelyn Calamba |
+| 215 | 629 | Witty Builderfit |
 | 216 | 625 | Buggs |
 | 217 | 624 | Constance Risner |
 | 218 | 622 | Chaste Minor |
-| 219 | 620 | Jamie Jury |
-| 220 | 620 | Deanna L Hermanson |
+| 219 | 620 | Deanna L Hermanson |
+| 220 | 620 | Jamie Jury |
 | 221 | 619 | Nicole Roseberry Weber |
 | 222 | 617 | Hasty Columnbuilder |
 | 223 | 615 | Arianna O'Brien |
@@ -240,9 +240,9 @@
 | 232 | 580 | Test |
 | 233 | 578 | Anaid Sanchez |
 | 234 | 577 | MomMom |
-| 235 | 577 | Teri Oehlke |
-| 236 | 577 | Cheeky Pop |
-| 237 | 577 | Tami Luce Martin |
+| 235 | 577 | Cheeky Pop |
+| 236 | 577 | Tami Luce Martin |
+| 237 | 577 | Teri Oehlke |
 | 238 | 575 | Sarah Somers Gray |
 | 239 | 573 | Jen Nystrom |
 | 240 | 571 | Plucky Ziggy |
@@ -556,10 +556,10 @@
 | 548 | 330 | Shiny Snapline |
 | 549 | 330 | Rebecca Apley Mielke |
 | 550 | 330 | Abbey Crespo |
-| 551 | 329 | Michelle Deans |
-| 552 | 329 | Sunshine |
-| 553 | 329 | Matthew Foley |
-| 554 | 328 | Gilbert Ortiz Jr. |
+| 551 | 330 | Gilbert Ortiz Jr. |
+| 552 | 329 | Michelle Deans |
+| 553 | 329 | Sunshine |
+| 554 | 329 | Matthew Foley |
 | 555 | 327 | Megan Kradzinski Ferguson |
 | 556 | 327 | Neely Janelle Stewart |
 | 557 | 327 | Shannon Guilloty |
@@ -592,45 +592,45 @@
 | 584 | 310 | Ellen Newman |
 | 585 | 310 | Amanda Marie Sutton |
 | 586 | 310 | Anita Jack |
-| 587 | 309 | Lisa Reynolds Adair |
-| 588 | 309 | MamaB24 |
+| 587 | 309 | MamaB24 |
+| 588 | 309 | Lisa Reynolds Adair |
 | 589 | 308 | Sassy Towerer |
-| 590 | 308 | Sheri Read |
-| 591 | 308 | Laurie Sanderson |
-| 592 | 305 | Willy Michael |
-| 593 | 304 | Theeranart Mahawan |
-| 594 | 303 | Aaron Green |
-| 595 | 301 | Dandy Glider |
-| 596 | 301 | Hector Cruz |
-| 597 | 300 | Chadocho |
-| 598 | 300 | Frothy Blockbuilder |
-| 599 | 299 | Mel Hogan |
-| 600 | 299 | Funky Piecebuilder |
-| 601 | 299 | Joke Sofunny |
-| 602 | 298 | Speedy Balancepiece |
-| 603 | 298 | Ruby Sandberg |
-| 604 | 297 | Olivia Witmer |
-| 605 | 296 | Margaret Rose |
-| 606 | 296 | Dena Kayy |
+| 590 | 308 | Laurie Sanderson |
+| 591 | 308 | Olivia Witmer |
+| 592 | 308 | Sheri Read |
+| 593 | 305 | Willy Michael |
+| 594 | 304 | Theeranart Mahawan |
+| 595 | 303 | Aaron Green |
+| 596 | 303 | Frothy Blockbuilder |
+| 597 | 301 | Dandy Glider |
+| 598 | 301 | Hector Cruz |
+| 599 | 300 | Chadocho |
+| 600 | 299 | Mel Hogan |
+| 601 | 299 | Funky Piecebuilder |
+| 602 | 299 | Joke Sofunny |
+| 603 | 298 | Speedy Balancepiece |
+| 604 | 298 | Ruby Sandberg |
+| 605 | 296 | Dena Kayy |
+| 606 | 296 | Margaret Rose |
 | 607 | 295 | Brad MG |
 | 608 | 295 | Amber Dollak-Smith |
-| 609 | 294 | Jill King Oldham |
-| 610 | 294 | Burnnetter Sisk |
-| 611 | 294 | Jordan Brooks |
-| 612 | 294 | Rachel Copas |
+| 609 | 294 | Jordan Brooks |
+| 610 | 294 | Jill King Oldham |
+| 611 | 294 | Rachel Copas |
+| 612 | 294 | Burnnetter Sisk |
 | 613 | 293 | Playtray |
 | 614 | 293 | Edgar Algiere |
 | 615 | 293 | Beau Galvan |
-| 616 | 292 | Corrie Grant Smithson |
-| 617 | 292 | Robin Burress |
-| 618 | 292 | Colleen Wise |
-| 619 | 292 | monstermutt |
+| 616 | 292 | Colleen Wise |
+| 617 | 292 | monstermutt |
+| 618 | 292 | Corrie Grant Smithson |
+| 619 | 292 | Robin Burress |
 | 620 | 291 | Alex Nicol |
 | 621 | 290 | Nutty Glide |
 | 622 | 290 | Teresa |
 | 623 | 289 | Jessica Imboden |
-| 624 | 289 | Angel Marie |
-| 625 | 289 | Bucketsmasher |
+| 624 | 289 | Bucketsmasher |
+| 625 | 289 | Angel Marie |
 | 626 | 289 | Piffy |
 | 627 | 289 | Jen Justus |
 | 628 | 289 | Melissa Ann Macko |
