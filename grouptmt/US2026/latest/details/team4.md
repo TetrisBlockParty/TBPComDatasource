@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 07:12:45 UTC
+# Standings for team4 as of 2026-02-26 07:13:24 UTC
 
 **Total Participants:** 2346
 
@@ -74,7 +74,7 @@
 | 66 | 1563 | Sammy Noguera |
 | 67 | 1555 | Kimberly Love |
 | 68 | 1554 | Chilly Line |
-| 69 | 1531 | Keith Kelley |
+| 69 | 1539 | Keith Kelley |
 | 70 | 1508 | Juggalo |
 | 71 | 1498 | Pee |
 | 72 | 1486 | Justin Hannigan |
@@ -628,45 +628,45 @@
 | 620 | 287 | Eric Wren |
 | 621 | 286 | Kelly Williams |
 | 622 | 286 | Dustin Dodson |
-| 623 | 285 | Rhys Morgan |
-| 624 | 285 | Shon Woodland |
-| 625 | 285 | Elizabeth Tinoco |
-| 626 | 285 | Quirky Dash |
-| 627 | 285 | Matt Morrow |
+| 623 | 285 | Shon Woodland |
+| 624 | 285 | Quirky Dash |
+| 625 | 285 | Matt Morrow |
+| 626 | 285 | Elizabeth Tinoco |
+| 627 | 285 | Rhys Morgan |
 | 628 | 283 | Mrsjcraw18 |
 | 629 | 283 | Colton Stamper |
 | 630 | 283 | Joey Riley |
 | 631 | 282 | Victoria Faniel |
-| 632 | 281 | Cranky Glidebuilder |
-| 633 | 281 | Stormy Tomplait |
-| 634 | 281 | Flashy Jumper |
-| 635 | 280 | Rebecca Blake |
-| 636 | 280 | Derick |
+| 632 | 281 | Flashy Jumper |
+| 633 | 281 | Cranky Glidebuilder |
+| 634 | 281 | Stormy Tomplait |
+| 635 | 280 | Derick |
+| 636 | 280 | Rebecca Blake |
 | 637 | 279 | Peppy Drop |
 | 638 | 278 | Will Chamberlain |
 | 639 | 278 | Ann G. Carrillo |
-| 640 | 276 | Vamp |
-| 641 | 276 | Allen Johnson |
+| 640 | 276 | Allen Johnson |
+| 641 | 276 | Vamp |
 | 642 | 276 | Laura Hosford |
-| 643 | 275 | Shanon Klair |
-| 644 | 275 | Mighty Edgepiece |
-| 645 | 275 | Bumpy Morris |
-| 646 | 273 | Vanessa Smart |
+| 643 | 276 | The Murphy |
+| 644 | 275 | Shanon Klair |
+| 645 | 275 | Mighty Edgepiece |
+| 646 | 275 | Bumpy Morris |
 | 647 | 273 | Jennifer Marsella |
-| 648 | 273 | Martha Lucinda Bishop |
-| 649 | 273 | conceptCollector |
-| 650 | 272 | Shane Vick |
-| 651 | 272 | Zach Kerbs |
-| 652 | 271 | Melissa Priest Sellers |
+| 648 | 273 | Vanessa Smart |
+| 649 | 273 | Martha Lucinda Bishop |
+| 650 | 273 | conceptCollector |
+| 651 | 272 | Shane Vick |
+| 652 | 272 | Zach Kerbs |
 | 653 | 271 | Marcheta Cervantez |
-| 654 | 270 | Degenerate |
+| 654 | 271 | Melissa Priest Sellers |
 | 655 | 270 | Paul-Eunice Mathewson |
-| 656 | 270 | Brandon Link |
-| 657 | 270 | The Murphy |
-| 658 | 270 | Mike Nelson |
-| 659 | 270 | Christina Nabrizny |
-| 660 | 270 | Marcela Johnson |
-| 661 | 270 | Frank Joseph Epson |
+| 656 | 270 | Marcela Johnson |
+| 657 | 270 | Mike Nelson |
+| 658 | 270 | Brandon Link |
+| 659 | 270 | Frank Joseph Epson |
+| 660 | 270 | Christina Nabrizny |
+| 661 | 270 | Degenerate |
 | 662 | 270 | Daniel Gazcon |
 | 663 | 269 | Darrin Rubalcava |
 | 664 | 268 | Riverdale |
@@ -674,65 +674,65 @@
 | 666 | 265 | Robert Rodriguez |
 | 667 | 265 | Austin |
 | 668 | 263 | Autum Leigh |
-| 669 | 263 | Ashlee Johnson |
-| 670 | 263 | Josh Chapell |
-| 671 | 263 | Emily Regan Wills |
-| 672 | 263 | Red |
-| 673 | 263 | Denise Jones |
+| 669 | 263 | Emily Regan Wills |
+| 670 | 263 | Denise Jones |
+| 671 | 263 | Red |
+| 672 | 263 | Josh Chapell |
+| 673 | 263 | Ashlee Johnson |
 | 674 | 261 | Seraphim |
 | 675 | 260 | Manuel Groleau |
 | 676 | 260 | Tipsy Zoney |
 | 677 | 259 | Carlos Hernandez |
 | 678 | 258 | Michelle McCutcheon |
 | 679 | 258 | Dante Korleon |
-| 680 | 257 | Maria Larsen |
-| 681 | 257 | Brad Campbell |
+| 680 | 257 | Brad Campbell |
+| 681 | 257 | Maria Larsen |
 | 682 | 257 | 2slo |
 | 683 | 256 | Elle Joe |
 | 684 | 256 | Miranda Wigginton |
-| 685 | 255 | Mary Therese Benden Cole |
-| 686 | 255 | Lynn Marie |
+| 685 | 255 | Lynn Marie |
+| 686 | 255 | Mary Therese Benden Cole |
 | 687 | 254 | Joyce Fees |
 | 688 | 254 | Groovy Brickmatch |
-| 689 | 253 | Lou Ie |
-| 690 | 253 | Gilles Lanctot |
+| 689 | 253 | Gilles Lanctot |
+| 690 | 253 | Lou Ie |
 | 691 | 252 | Zesty Linkgrid |
 | 692 | 252 | Larry Agan |
 | 693 | 252 | Bubbly Setter |
 | 694 | 252 | Gage |
-| 695 | 251 | Marco |
+| 695 | 251 | Carol Ricks Raymond |
 | 696 | 251 | Janita Parrish |
-| 697 | 251 | Carol Ricks Raymond |
+| 697 | 251 | Marco |
 | 698 | 250 | Sunny Filler |
-| 699 | 250 | Jobadia Steelerton |
-| 700 | 250 | Sha Ta Nay Mitchell |
+| 699 | 250 | Sha Ta Nay Mitchell |
+| 700 | 250 | Jobadia Steelerton |
 | 701 | 250 | Erebus |
 | 702 | 248 | Jacob Campbell |
 | 703 | 248 | Chirpy Basepiece |
 | 704 | 247 | Lisa Allen Frisk |
 | 705 | 247 | Brandy Gray |
-| 706 | 247 | Lazy Column |
-| 707 | 247 | Melissa Tipton Crawford |
-| 708 | 247 | Karen Lambert |
-| 709 | 247 | Rebecca A Rit |
-| 710 | 246 | Ali Ian |
+| 706 | 247 | Melissa Tipton Crawford |
+| 707 | 247 | Lazy Column |
+| 708 | 247 | Rebecca A Rit |
+| 709 | 247 | Karen Lambert |
+| 710 | 246 | Loopy Rollbuilder |
 | 711 | 246 | Norman Klick |
 | 712 | 246 | Cheery Lift |
 | 713 | 246 | Denatrious Perry |
-| 714 | 246 | Loopy Rollbuilder |
+| 714 | 246 | Ali Ian |
 | 715 | 246 | Crystal Eaden |
 | 716 | 245 | Tisha Cammack |
 | 717 | 245 | Shiny Twistpiece |
 | 718 | 245 | Amy C Brown |
-| 719 | 244 | Tammy Lewis |
-| 720 | 244 | heatheryblue |
-| 721 | 244 | Marvetta Williams |
-| 722 | 244 | Matthew Pate |
-| 723 | 244 | Terrance Fung |
-| 724 | 243 | Hediyuda |
+| 719 | 244 | Terrance Fung |
+| 720 | 244 | Marvetta Williams |
+| 721 | 244 | Matthew Pate |
+| 722 | 244 | heatheryblue |
+| 723 | 244 | Tammy Lewis |
+| 724 | 243 | Funky Risepiece |
 | 725 | 243 | Stephanie Mico |
-| 726 | 243 | Funky Risepiece |
-| 727 | 243 | Satinleader |
+| 726 | 243 | Satinleader |
+| 727 | 243 | Hediyuda |
 | 728 | 242 | Kanci McKnight |
 | 729 | 242 | PurpleMoonMa |
 | 730 | 242 | Steven Roe |
