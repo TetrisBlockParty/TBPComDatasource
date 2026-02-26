@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 07:10:45 UTC
+# Standings for team4 as of 2026-02-26 07:11:24 UTC
 
 **Total Participants:** 2346
 
@@ -180,7 +180,7 @@
 | 172 | 766 | Robin Watters |
 | 173 | 764 | Rodney McMath Jr. |
 | 174 | 763 | YoMomma |
-| 175 | 760 | Andy Cabral |
+| 175 | 762 | Andy Cabral |
 | 176 | 758 | 🥔🥔 Spudz |
 | 177 | 757 | Dan Wold |
 | 178 | 752 | Jessica Lynn Cutlip |
@@ -988,18 +988,18 @@
 | 980 | 168 | Emily Babic |
 | 981 | 168 | Roberta Arnold |
 | 982 | 167 | Tracy Dawn |
-| 983 | 167 | Sweet Pea |
-| 984 | 166 | mitch |
-| 985 | 166 | juggernaut |
-| 986 | 166 | Mike Burlingame |
-| 987 | 165 | Daring Strike |
-| 988 | 165 | Derek Bartley |
-| 989 | 165 | Zappy Buildgrid |
-| 990 | 165 | Chummy Riserpiece |
-| 991 | 164 | ASUNelson |
-| 992 | 164 | Megan Crane |
-| 993 | 164 | Mitchell Everhart |
-| 994 | 164 | Tasha |
+| 983 | 167 | Tasha |
+| 984 | 167 | Sweet Pea |
+| 985 | 166 | mitch |
+| 986 | 166 | juggernaut |
+| 987 | 166 | Mike Burlingame |
+| 988 | 165 | Daring Strike |
+| 989 | 165 | Derek Bartley |
+| 990 | 165 | Zappy Buildgrid |
+| 991 | 165 | Chummy Riserpiece |
+| 992 | 164 | ASUNelson |
+| 993 | 164 | Megan Crane |
+| 994 | 164 | Mitchell Everhart |
 | 995 | 163 | Nicole Silvers |
 | 996 | 163 | Matt Narcisse |
 | 997 | 163 | Cranky Pivoty |
