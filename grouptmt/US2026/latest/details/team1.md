@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 04:58:47 UTC
+# Standings for team1 as of 2026-02-26 04:59:23 UTC
 
 **Total Participants:** 2613
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 11089 | TAZ-MF-NIZIL |
-| 2 | 9724 | 'Gilberto Martinez' |
+| 2 | 9732 | 'Gilberto Martinez' |
 | 3 | 8469 | Zerin Graham |
 | 4 | 8463 | Felicia Haynes |
 | 5 | 7172 | Izzie Ramirez-Ford |
@@ -91,8 +91,8 @@
 | 83 | 1256 | Tee Sheree |
 | 84 | 1242 | Amy Griffith |
 | 85 | 1241 | Tawnya Peltonen |
-| 86 | 1228 | Shalene Frederick Autrey |
-| 87 | 1223 | Jacqueline Williams |
+| 86 | 1231 | Jacqueline Williams |
+| 87 | 1228 | Shalene Frederick Autrey |
 | 88 | 1219 | Jason Jones |
 | 89 | 1197 | Seante Bullock |
 | 90 | 1188 | Francesca Gee |
@@ -243,8 +243,8 @@
 | 235 | 577 | MomMom |
 | 236 | 577 | Cheeky Pop |
 | 237 | 575 | Sarah Somers Gray |
-| 238 | 571 | Jamise Brown |
-| 239 | 571 | Jen Nystrom |
+| 238 | 572 | Jen Nystrom |
+| 239 | 571 | Jamise Brown |
 | 240 | 571 | Plucky Ziggy |
 | 241 | 570 | Cody Slav |
 | 242 | 570 | Sam Williams |
