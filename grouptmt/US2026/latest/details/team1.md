@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 00:20:45 UTC
+# Standings for team1 as of 2026-02-26 00:21:23 UTC
 
 **Total Participants:** 2558
 
@@ -136,14 +136,14 @@
 | 128 | 912 | Snappy Matcher |
 | 129 | 908 | Jazzy Framezone |
 | 130 | 907 | Oscar Zamora |
-| 131 | 904 | Fmp |
-| 132 | 896 | Carrie Smith |
-| 133 | 892 | Virginia Gray Floyd |
-| 134 | 888 | Melissa Lemmon |
-| 135 | 885 | Kimberly Garcia |
-| 136 | 884 | Flashy Rotator |
-| 137 | 882 | Elaine Elaine |
-| 138 | 879 | phrmblk24 |
+| 131 | 904 | phrmblk24 |
+| 132 | 904 | Fmp |
+| 133 | 896 | Carrie Smith |
+| 134 | 892 | Virginia Gray Floyd |
+| 135 | 888 | Melissa Lemmon |
+| 136 | 885 | Kimberly Garcia |
+| 137 | 884 | Flashy Rotator |
+| 138 | 882 | Elaine Elaine |
 | 139 | 859 | Christy Jones |
 | 140 | 856 | Cartier |
 | 141 | 853 | GATOR |
@@ -274,15 +274,15 @@
 | 266 | 514 | Ananda Mendez |
 | 267 | 514 | Richard Corrado |
 | 268 | 513 | Colena Davenport |
-| 269 | 511 | Betsy |
-| 270 | 511 | Lakeisha Chapman |
-| 271 | 509 | Tyler Hertzog |
-| 272 | 509 | Alenoush Karimian |
-| 273 | 509 | Lehrin Maria |
-| 274 | 509 | pjbeta |
-| 275 | 507 | Emily Adelaide Wheatley |
-| 276 | 505 | Bird Person |
-| 277 | 504 | Jamise Brown |
+| 269 | 513 | Jamise Brown |
+| 270 | 511 | Betsy |
+| 271 | 511 | Lakeisha Chapman |
+| 272 | 509 | Tyler Hertzog |
+| 273 | 509 | Alenoush Karimian |
+| 274 | 509 | Lehrin Maria |
+| 275 | 509 | pjbeta |
+| 276 | 507 | Emily Adelaide Wheatley |
+| 277 | 505 | Bird Person |
 | 278 | 503 | Chantelle Ceno |
 | 279 | 503 | Rayline M Bradshaw |
 | 280 | 503 | Paula Martin |
@@ -425,15 +425,15 @@
 | 417 | 386 | Tiffany Smith |
 | 418 | 385 | Dawon Ksk Capers |
 | 419 | 385 | Steph |
-| 420 | 385 | Amh |
-| 421 | 385 | Lyn Sibayan |
-| 422 | 384 | Patty Lavigne Craddock |
-| 423 | 384 | Casey Hintenach |
-| 424 | 384 | Larry Tilton |
+| 420 | 385 | Larry Tilton |
+| 421 | 385 | Amh |
+| 422 | 385 | Lyn Sibayan |
+| 423 | 384 | Patty Lavigne Craddock |
+| 424 | 384 | Casey Hintenach |
 | 425 | 383 | Billie Dawn Sparks |
-| 426 | 382 | I Am |
-| 427 | 382 | Gina Bettikofer |
-| 428 | 382 | Nutty Spinblock |
+| 426 | 382 | Gina Bettikofer |
+| 427 | 382 | Nutty Spinblock |
+| 428 | 382 | I Am |
 | 429 | 382 | Herm Junior |
 | 430 | 382 | Kristen Meehan Wangerien |
 | 431 | 382 | Rico Rico |
@@ -442,9 +442,9 @@
 | 434 | 378 | Jessie |
 | 435 | 375 | Rick Pickup Raymur |
 | 436 | 375 | Archie Ware |
-| 437 | 374 | Nathan William |
+| 437 | 374 | san |
 | 438 | 374 | Loony Bridgepiece |
-| 439 | 374 | san |
+| 439 | 374 | Nathan William |
 | 440 | 373 | Zesty Brickzone |
 | 441 | 373 | Mitchel White |
 | 442 | 372 | Brave Wrecker |
@@ -918,19 +918,19 @@
 | 910 | 186 | Snippy Piecefit |
 | 911 | 186 | SweetSunshower |
 | 912 | 185 | Tim Russell |
-| 913 | 185 | Jean Graziano |
-| 914 | 185 | Crystal Joslin |
-| 915 | 184 | Alex Ipad |
+| 913 | 185 | Crystal Joslin |
+| 914 | 185 | Jean Graziano |
+| 915 | 184 | Margie Olivas |
 | 916 | 184 | Heather Martin |
 | 917 | 184 | PeppyPenguin |
-| 918 | 183 | Melinda Perry Frazier |
-| 919 | 183 | Mike Hobby |
+| 918 | 184 | Alex Ipad |
+| 919 | 183 | Melinda Perry Frazier |
 | 920 | 183 | Tiffany N Danny Martinez |
-| 921 | 183 | Plucky Wrecker |
-| 922 | 182 | Margie Olivas |
-| 923 | 182 | Alfredo Vasquez |
+| 921 | 183 | Mike Hobby |
+| 922 | 183 | Plucky Wrecker |
+| 923 | 182 | Cynthia Pool |
 | 924 | 182 | Charla Pross-Fugleberg |
-| 925 | 182 | Cynthia Pool |
+| 925 | 182 | Alfredo Vasquez |
 | 926 | 182 | Michael Butler |
 | 927 | 181 | Shannon Hawkins |
 | 928 | 181 | Julie Marie Hernandez |
@@ -939,8 +939,8 @@
 | 931 | 181 | Daring Roll |
 | 932 | 180 | Sharon Warren |
 | 933 | 180 | Theresa Nicole |
-| 934 | 179 | Christine Smith |
-| 935 | 179 | Ryan White |
+| 934 | 179 | Ryan White |
+| 935 | 179 | Christine Smith |
 | 936 | 179 | Kathy Murphy |
 | 937 | 179 | Tom Jaramillo |
 | 938 | 179 | Christa Ybarra |
@@ -1005,15 +1005,15 @@
 | 997 | 168 | John Kiser |
 | 998 | 168 | Guest |
 | 999 | 168 | Shannon Jones |
-| 1000 | 168 | Rockin Red |
-| 1001 | 167 | Lashá Calloway |
-| 1002 | 167 | Peachy Zoney |
-| 1003 | 167 | Melissa Marckini |
-| 1004 | 167 | Vicky Shull |
-| 1005 | 167 | Andrea AJ Johnson |
-| 1006 | 167 | Shiny Brickclear |
-| 1007 | 167 | Kevin Prothro |
-| 1008 | 166 | Nellie Cummings |
+| 1000 | 168 | Nellie Cummings |
+| 1001 | 168 | Rockin Red |
+| 1002 | 167 | Lashá Calloway |
+| 1003 | 167 | Peachy Zoney |
+| 1004 | 167 | Melissa Marckini |
+| 1005 | 167 | Vicky Shull |
+| 1006 | 167 | Andrea AJ Johnson |
+| 1007 | 167 | Shiny Brickclear |
+| 1008 | 167 | Kevin Prothro |
 | 1009 | 166 | Wayne Davison |
 | 1010 | 166 | Kissit😘 |
 | 1011 | 166 | Erin Divine |

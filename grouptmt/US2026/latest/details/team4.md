@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 00:20:45 UTC
+# Standings for team4 as of 2026-02-26 00:21:23 UTC
 
 **Total Participants:** 2282
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 10700 | Devinlee Brown |
+| 1 | 10701 | Devinlee Brown |
 | 2 | 9238 | sierrabeth |
 | 3 | 8598 | Bubbly Puzzler |
 | 4 | 7309 | Kat |
@@ -110,7 +110,7 @@
 | 102 | 1018 | quicksand420 |
 | 103 | 990 | Judy Cox |
 | 104 | 990 | Crystal Lynn |
-| 105 | 981 | Nugget |
+| 105 | 988 | Nugget |
 | 106 | 980 | Jason Hart |
 | 107 | 962 | Samantha Peterson |
 | 108 | 960 | Shh |
@@ -283,13 +283,13 @@
 | 275 | 530 | John Brunetti |
 | 276 | 529 | Lora |
 | 277 | 527 | Jolly Dashfit |
-| 278 | 522 | Luis Martinez |
-| 279 | 522 | Silly Zonebuilder |
-| 280 | 521 | Keshia Lyons |
-| 281 | 518 | Ari Droff |
-| 282 | 518 | Leah Kutz Zirbel |
-| 283 | 516 | Nick Gray |
-| 284 | 514 | Christine Simmons |
+| 278 | 524 | Christine Simmons |
+| 279 | 522 | Luis Martinez |
+| 280 | 522 | Silly Zonebuilder |
+| 281 | 521 | Keshia Lyons |
+| 282 | 518 | Ari Droff |
+| 283 | 518 | Leah Kutz Zirbel |
+| 284 | 516 | Nick Gray |
 | 285 | 513 | Holly Jolly |
 | 286 | 512 | Casey Jeffcoat |
 | 287 | 511 | Jen Mattei |
@@ -1633,30 +1633,30 @@
 | 1625 | 52 | Elmccormick |
 | 1626 | 52 | Clever Fitzone |
 | 1627 | 52 | Hoodylu |
-| 1628 | 52 | Eli Guevara |
-| 1629 | 52 | Flashy Cascadepiece |
-| 1630 | 52 | Francis Fleurant |
-| 1631 | 52 | Daniel Bonham |
-| 1632 | 51 | Sassy Block |
-| 1633 | 51 | Jean Camacho |
-| 1634 | 51 | Valerie Eileen |
-| 1635 | 51 | GrapeJetFuel |
-| 1636 | 51 | Luna |
-| 1637 | 51 | Jamie Smalling |
-| 1638 | 51 | Stacey M Hawkins |
+| 1628 | 52 | Flashy Cascadepiece |
+| 1629 | 52 | Eli Guevara |
+| 1630 | 52 | Daniel Bonham |
+| 1631 | 52 | Francis Fleurant |
+| 1632 | 51 | Stacey M Hawkins |
+| 1633 | 51 | Poppy |
+| 1634 | 51 | Jean Camacho |
+| 1635 | 51 | Valerie Eileen |
+| 1636 | 51 | GrapeJetFuel |
+| 1637 | 51 | Luna |
+| 1638 | 51 | Jamie Smalling |
 | 1639 | 51 | Isa |
 | 1640 | 51 | Laura Davis |
 | 1641 | 51 | Shiny Linkpiece |
 | 1642 | 51 | Sarah Whitson |
-| 1643 | 50 | Darren Shanholtz |
-| 1644 | 50 | Jeremy S Williams |
-| 1645 | 50 | George Clemis |
-| 1646 | 50 | Chtid |
-| 1647 | 50 | Peachy Roll |
-| 1648 | 50 | Poppy |
-| 1649 | 49 | Michelle LaRose |
-| 1650 | 49 | Maria N Manuel Mendoza |
-| 1651 | 49 | BlingBling |
+| 1643 | 51 | Sassy Block |
+| 1644 | 50 | Darren Shanholtz |
+| 1645 | 50 | Jeremy S Williams |
+| 1646 | 50 | George Clemis |
+| 1647 | 50 | Chtid |
+| 1648 | 50 | Peachy Roll |
+| 1649 | 49 | BlingBling |
+| 1650 | 49 | Michelle LaRose |
+| 1651 | 49 | Maria N Manuel Mendoza |
 | 1652 | 49 | weegoosey |
 | 1653 | 49 | Sarah Fox |
 | 1654 | 49 | yinkaan |
