@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-26 07:46:45 UTC
+# Standings for team3 as of 2026-02-26 07:47:23 UTC
 
 **Total Participants:** 3899
 
@@ -118,7 +118,7 @@
 | 110 | 1683 | Joey Banks |
 | 111 | 1674 | JerseyJess |
 | 112 | 1667 | Melissa Orth Hunter |
-| 113 | 1640 | Mendoza Lee Christy |
+| 113 | 1660 | Mendoza Lee Christy |
 | 114 | 1637 | Tasha Schriewer |
 | 115 | 1626 | Nerdy Riseclear |
 | 116 | 1618 | Tiff Vs Tiffany |
@@ -2186,10 +2186,10 @@
 | 2178 | 101 | Bartleby Tickletits |
 | 2179 | 101 | Sammie |
 | 2180 | 101 | Ejts |
-| 2181 | 100 | Lemoyne Collins |
-| 2182 | 100 | Diana Gordon |
-| 2183 | 100 | Edward Juntunen |
-| 2184 | 100 | Melyssa Mayrand |
+| 2181 | 100 | Melyssa Mayrand |
+| 2182 | 100 | Edward Juntunen |
+| 2183 | 100 | Lemoyne Collins |
+| 2184 | 100 | Diana Gordon |
 | 2185 | 100 | Dawn Vordenbaum Boazman |
 | 2186 | 100 | Kimber Smith |
 | 2187 | 100 | Twonza Halbert |
@@ -2203,17 +2203,17 @@
 | 2195 | 99 | Jenn Holerger |
 | 2196 | 99 | Tracy M Deak |
 | 2197 | 99 | Fancy Patterner |
-| 2198 | 99 | Melinda McElyea |
-| 2199 | 99 | Zippy Twister |
+| 2198 | 99 | Zippy Twister |
+| 2199 | 99 | Melinda McElyea |
 | 2200 | 99 | Madeelu |
-| 2201 | 99 | MrsDoublette |
-| 2202 | 99 | Shontel Alliss |
-| 2203 | 99 | Saucy Blockbuilder |
-| 2204 | 99 | Jaclyn Correa |
-| 2205 | 99 | Spicy Blast |
-| 2206 | 98 | Nora |
-| 2207 | 98 | Speedy Patternfit |
-| 2208 | 98 | Sheldon Charles |
+| 2201 | 99 | Sheldon Charles |
+| 2202 | 99 | MrsDoublette |
+| 2203 | 99 | Shontel Alliss |
+| 2204 | 99 | Saucy Blockbuilder |
+| 2205 | 99 | Jaclyn Correa |
+| 2206 | 99 | Spicy Blast |
+| 2207 | 98 | Nora |
+| 2208 | 98 | Speedy Patternfit |
 | 2209 | 98 | Dapper Basegrid |
 | 2210 | 98 | Adrea Ann |
 | 2211 | 98 | Bee Brittany |
@@ -2574,20 +2574,20 @@
 | 2566 | 69 | Giggly Curver |
 | 2567 | 68 | Rebrand To Riches |
 | 2568 | 68 | Broski |
-| 2569 | 68 | Kat Hess |
-| 2570 | 68 | Ashley Delor |
-| 2571 | 68 | Carrie N Alcorn |
-| 2572 | 68 | Scott Bland |
-| 2573 | 68 | Corry Williams |
-| 2574 | 68 | NaiLove Wright |
-| 2575 | 67 | Brady Kump |
-| 2576 | 67 | Sunny Rollpiece |
-| 2577 | 67 | Kaleb Josiah Warner |
-| 2578 | 67 | Breezy Glidepiece |
-| 2579 | 67 | Dapper Stack |
-| 2580 | 67 | Susancott |
-| 2581 | 67 | Loony Lift |
-| 2582 | 67 | Daring Catcher |
+| 2569 | 68 | Daring Catcher |
+| 2570 | 68 | Kat Hess |
+| 2571 | 68 | Ashley Delor |
+| 2572 | 68 | Carrie N Alcorn |
+| 2573 | 68 | Scott Bland |
+| 2574 | 68 | Corry Williams |
+| 2575 | 68 | NaiLove Wright |
+| 2576 | 67 | Brady Kump |
+| 2577 | 67 | Sunny Rollpiece |
+| 2578 | 67 | Kaleb Josiah Warner |
+| 2579 | 67 | Breezy Glidepiece |
+| 2580 | 67 | Dapper Stack |
+| 2581 | 67 | Susancott |
+| 2582 | 67 | Loony Lift |
 | 2583 | 67 | Valerie Bekiaris |
 | 2584 | 67 | Vonnie Meneely |
 | 2585 | 67 | Hoppy Towerbuilder |

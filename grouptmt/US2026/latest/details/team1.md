@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 07:46:45 UTC
+# Standings for team1 as of 2026-02-26 07:47:23 UTC
 
 **Total Participants:** 2641
 
@@ -50,7 +50,7 @@
 | 42 | 1985 | And |
 | 43 | 1974 | Cynthia Bradley |
 | 44 | 1973 | Marianne Louise West |
-| 45 | 1937 | Bhelle Sumile |
+| 45 | 1938 | Bhelle Sumile |
 | 46 | 1894 | Rahna Underwood |
 | 47 | 1889 | Lola Adkhambekovna |
 | 48 | 1881 | Tyler Whitley |
@@ -133,13 +133,13 @@
 | 125 | 961 | Robert Benito |
 | 126 | 961 | Michael Espinosa Ulibarri Jr. |
 | 127 | 954 | Virginia Gray Floyd |
-| 128 | 953 | Sevens4L |
-| 129 | 952 | Bob |
-| 130 | 952 | Susan Ward |
-| 131 | 950 | Oscar Zamora |
-| 132 | 945 | Jazzy Framezone |
-| 133 | 945 | Bouncy Grid |
-| 134 | 941 | Snappy Matcher |
+| 128 | 953 | Snappy Matcher |
+| 129 | 953 | Sevens4L |
+| 130 | 952 | Bob |
+| 131 | 952 | Susan Ward |
+| 132 | 950 | Oscar Zamora |
+| 133 | 945 | Jazzy Framezone |
+| 134 | 945 | Bouncy Grid |
 | 135 | 934 | Tinah Montanna |
 | 136 | 933 | Maria C. Hernandez |
 | 137 | 928 | Happy Basegrid |
@@ -2550,28 +2550,28 @@
 | 2542 | 8 | Rebecca Townsend |
 | 2543 | 8 | Spunky Dropzone |
 | 2544 | 8 | dreamy twist |
-| 2545 | 8 | Poppy Builderpiece |
+| 2545 | 8 | Ashley |
 | 2546 | 8 | Angela Hartline |
-| 2547 | 8 | Ashley |
+| 2547 | 8 | Samantha Glosson |
 | 2548 | 8 | LaDon McCaleb |
 | 2549 | 8 | Adam Wells |
-| 2550 | 8 | Samantha Glosson |
+| 2550 | 8 | Poppy Builderpiece |
 | 2551 | 8 | Yolli Bear |
 | 2552 | 8 | Nicole Lynn |
 | 2553 | 8 | Geoffrey Jones |
 | 2554 | 8 | Bubbly Matchzone |
-| 2555 | 7 | Steven Ekstein |
-| 2556 | 7 | Murda Calhoun |
-| 2557 | 7 | sondie |
-| 2558 | 7 | Rene Heifner |
-| 2559 | 7 | Sunny Tile |
-| 2560 | 7 | Grant Koertner |
-| 2561 | 7 | Caite |
-| 2562 | 7 | Katie Sebastian |
-| 2563 | 7 | Nerdy Holder |
-| 2564 | 7 | Loopy Crasher |
+| 2555 | 8 | Priscilla Mims-Messick |
+| 2556 | 7 | Loopy Crasher |
+| 2557 | 7 | Comar Logans |
+| 2558 | 7 | Murda Calhoun |
+| 2559 | 7 | sondie |
+| 2560 | 7 | Rene Heifner |
+| 2561 | 7 | Steven Ekstein |
+| 2562 | 7 | Grant Koertner |
+| 2563 | 7 | Caite |
+| 2564 | 7 | Katie Sebastian |
 | 2565 | 7 | Dawn Michele Perez |
-| 2566 | 7 | Comar Logans |
+| 2566 | 7 | Nerdy Holder |
 | 2567 | 7 | Melissa Mahalik Stone |
 | 2568 | 7 | Lazy Pop |
 | 2569 | 7 | Gabriel Providenti |
@@ -2585,47 +2585,47 @@
 | 2577 | 7 | Hasty Slamdrop |
 | 2578 | 7 | Giggy Wobbler |
 | 2579 | 7 | Harry Johnson |
-| 2580 | 7 | Wyatte Gamble |
-| 2581 | 7 | Willow |
-| 2582 | 7 | Kendall Ira Savage |
-| 2583 | 7 | Jilly1129 |
-| 2584 | 7 | Leslie |
-| 2585 | 7 | Frothy Rotator |
-| 2586 | 7 | Priscilla Mims-Messick |
-| 2587 | 7 | Chris Nelson |
-| 2588 | 7 | jeffthegoat |
-| 2589 | 7 | Heather Michelle Peek |
+| 2580 | 7 | Lorrie Lane Cummings |
+| 2581 | 7 | Heather Michelle Peek |
+| 2582 | 7 | Willow |
+| 2583 | 7 | Sunny Tile |
+| 2584 | 7 | Frothy Rotator |
+| 2585 | 7 | Wyatte Gamble |
+| 2586 | 7 | Kendall Ira Savage |
+| 2587 | 7 | Jilly1129 |
+| 2588 | 7 | Leslie |
+| 2589 | 7 | jeffthegoat |
 | 2590 | 7 | Chema plays |
-| 2591 | 7 | Blue bash |
-| 2592 | 7 | Breezy Curve |
+| 2591 | 7 | Chris Nelson |
+| 2592 | 7 | Blue bash |
 | 2593 | 7 | Bre Neal |
-| 2594 | 7 | Micaela Diedrick |
-| 2595 | 7 | Lorrie Lane Cummings |
-| 2596 | 6 | Daddmac |
-| 2597 | 6 | Jason Perez |
-| 2598 | 6 | Dee Westfall |
-| 2599 | 6 | Jeff Stanfield |
-| 2600 | 6 | Manifold |
-| 2601 | 6 | Lee Corum |
+| 2594 | 7 | Breezy Curve |
+| 2595 | 7 | Micaela Diedrick |
+| 2596 | 6 | Lee Corum |
+| 2597 | 6 | Daddmac |
+| 2598 | 6 | Jeff Stanfield |
+| 2599 | 6 | Manifold |
+| 2600 | 6 | Dee Westfall |
+| 2601 | 6 | Jason Perez |
 | 2602 | 6 | Noah Rosales |
-| 2603 | 6 | Chilly Shatterline |
-| 2604 | 6 | Kendra Sue Ellen Johnson |
+| 2603 | 6 | Keith Taylor |
+| 2604 | 6 | Chilly Shatterline |
 | 2605 | 6 | Tracy Butler |
-| 2606 | 6 | Cranky Pivot |
-| 2607 | 6 | Ash Des |
-| 2608 | 6 | Ritha Lopez |
-| 2609 | 6 | Ryan Douglas Mitchell |
+| 2606 | 6 | Ryan Douglas Mitchell |
+| 2607 | 6 | Justin Cressotti |
+| 2608 | 6 | Amber Jones |
+| 2609 | 6 | Cory Ford |
 | 2610 | 6 | Mel Parker |
-| 2611 | 6 | Keith Taylor |
-| 2612 | 6 | Cory Ford |
-| 2613 | 6 | Justin Cressotti |
-| 2614 | 6 | Amber Jones |
-| 2615 | 5 | Aaron Penamante |
-| 2616 | 5 | Ricky Batista |
-| 2617 | 5 | Rain |
-| 2618 | 5 | Miranda Deavers |
-| 2619 | 5 | Heidi Fuller |
-| 2620 | 5 | Coso |
+| 2611 | 6 | Ash Des |
+| 2612 | 6 | Ritha Lopez |
+| 2613 | 6 | Cranky Pivot |
+| 2614 | 6 | Kendra Sue Ellen Johnson |
+| 2615 | 5 | Coso |
+| 2616 | 5 | Heidi Fuller |
+| 2617 | 5 | Miranda Deavers |
+| 2618 | 5 | Rain |
+| 2619 | 5 | Aaron Penamante |
+| 2620 | 5 | Ricky Batista |
 | 2621 | 5 | Kimberly Meijers |
 | 2622 | 5 | Sharon Elizabeth Holmes |
 | 2623 | 5 | BlockKnocker |
