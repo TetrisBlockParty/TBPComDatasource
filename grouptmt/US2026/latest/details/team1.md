@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 07:28:44 UTC
+# Standings for team1 as of 2026-02-26 07:29:24 UTC
 
 **Total Participants:** 2639
 
@@ -802,74 +802,74 @@
 | 794 | 226 | Shannon Elizabeth |
 | 795 | 225 | Rory Eviltwin Bayer |
 | 796 | 225 | Ramona Mittelstadt |
-| 797 | 224 | PSD |
-| 798 | 224 | Anastasia Lozada |
-| 799 | 224 | Lisa Marie |
+| 797 | 224 | Fat fred |
+| 798 | 224 | Lisa Marie |
+| 799 | 224 | SophieG |
 | 800 | 224 | Salih Atasoy |
-| 801 | 224 | Fat fred |
-| 802 | 224 | SophieG |
-| 803 | 223 | Charlesa Burns |
+| 801 | 224 | Anastasia Lozada |
+| 802 | 224 | PSD |
+| 803 | 223 | Tesia Solano |
 | 804 | 223 | Katie Toothman |
-| 805 | 223 | Tesia Solano |
-| 806 | 222 | ply |
-| 807 | 222 | Katie Bell |
+| 805 | 223 | Charlesa Burns |
+| 806 | 222 | Katie Bell |
+| 807 | 222 | John Garza |
 | 808 | 222 | Francine-frankie Ritzio-Rizzo |
-| 809 | 222 | John Garza |
-| 810 | 221 | William Cry |
-| 811 | 221 | Amy Hess |
-| 812 | 221 | Shannon Jones |
-| 813 | 221 | Uhog SF |
+| 809 | 222 | Adam Charles |
+| 810 | 222 | ply |
+| 811 | 221 | Shannon Jones |
+| 812 | 221 | V VIN |
+| 813 | 221 | William Cry |
 | 814 | 221 | chabbu |
 | 815 | 221 | Johnnette Kruse |
-| 816 | 221 | V VIN |
-| 817 | 220 | Toespixe |
-| 818 | 220 | Johnson Aryonda |
-| 819 | 220 | Rob Burns |
-| 820 | 219 | Paul Osborne |
+| 816 | 221 | Uhog SF |
+| 817 | 221 | Amy Hess |
+| 818 | 220 | Rob Burns |
+| 819 | 220 | Johnson Aryonda |
+| 820 | 220 | Toespixe |
 | 821 | 219 | Wacky Strikesnap |
-| 822 | 219 | Kurtis Manlow |
-| 823 | 219 | Sean McErlane |
-| 824 | 218 | Theresa Nicole |
-| 825 | 217 | Dorny |
-| 826 | 216 | Nicolette Ivory Chastain |
-| 827 | 216 | Dafna Kaplan-Garrahy |
-| 828 | 216 | Adam Charles |
-| 829 | 216 | Shauntina Burke |
-| 830 | 216 | davis13 |
-| 831 | 216 | Anthony T. Fults |
-| 832 | 216 | Matt Leroux |
-| 833 | 216 | Erin Divine |
-| 834 | 216 | Krista Roberts |
-| 835 | 215 | Vivian Bush |
-| 836 | 215 | Almïghty Stoner |
+| 822 | 219 | Sean McErlane |
+| 823 | 219 | Kurtis Manlow |
+| 824 | 219 | Paul Osborne |
+| 825 | 218 | Theresa Nicole |
+| 826 | 217 | Dorny |
+| 827 | 216 | davis13 |
+| 828 | 216 | Anthony T. Fults |
+| 829 | 216 | Erin Divine |
+| 830 | 216 | Krista Roberts |
+| 831 | 216 | Shauntina Burke |
+| 832 | 216 | Dafna Kaplan-Garrahy |
+| 833 | 216 | Nicolette Ivory Chastain |
+| 834 | 216 | Matt Leroux |
+| 835 | 215 | Almïghty Stoner |
+| 836 | 215 | Vivian Bush |
 | 837 | 214 | Alex Gauthier |
 | 838 | 214 | VaSharon Crenshaw |
 | 839 | 213 | Nekina Wright |
-| 840 | 213 | David DeSantis |
-| 841 | 213 | Heather Coleman |
-| 842 | 213 | Brandy Ann |
-| 843 | 212 | Sherrick Edwards |
-| 844 | 212 | Garcia Bailey |
-| 845 | 212 | Plucky Tetrisline |
-| 846 | 211 | Nicholes Stanley |
-| 847 | 211 | Jennifer Chilton-Metlock |
-| 848 | 211 | ThreeBone |
-| 849 | 211 | Roxy Cohen-Skalli |
-| 850 | 211 | Kevin Prothro |
-| 851 | 210 | Dave |
-| 852 | 210 | Christian Corral |
+| 840 | 213 | Brandy Ann |
+| 841 | 213 | David DeSantis |
+| 842 | 213 | Heather Coleman |
+| 843 | 212 | Plucky Tetrisline |
+| 844 | 212 | Sherrick Edwards |
+| 845 | 212 | Garcia Bailey |
+| 846 | 211 | ThreeBone |
+| 847 | 211 | Roxy Cohen-Skalli |
+| 848 | 211 | Nicholes Stanley |
+| 849 | 211 | Kevin Prothro |
+| 850 | 211 | Jennifer Chilton-Metlock |
+| 851 | 210 | Christian Corral |
+| 852 | 210 | Dave |
 | 853 | 209 | EverPi |
 | 854 | 209 | Amador López Martínez |
 | 855 | 209 | Melissa Thomas |
 | 856 | 208 | Donna Addison Williams |
 | 857 | 208 | Virginia Swank |
-| 858 | 208 | Jason Landon Sexton |
-| 859 | 208 | Donna Horoszewski-Dilgen |
-| 860 | 208 | Suzanne |
-| 861 | 208 | Crystal Joslin |
-| 862 | 208 | Philip Hutson |
-| 863 | 208 | Paul Gates |
-| 864 | 208 | TristansDad |
+| 858 | 208 | Crystal Joslin |
+| 859 | 208 | TristansDad |
+| 860 | 208 | Paul Gates |
+| 861 | 208 | Philip Hutson |
+| 862 | 208 | Jason Landon Sexton |
+| 863 | 208 | Suzanne |
+| 864 | 208 | Donna Horoszewski-Dilgen |
 | 865 | 208 | Alfredo Vasquez |
 | 866 | 207 | Jodee Woods |
 | 867 | 207 | Michael Butler |
