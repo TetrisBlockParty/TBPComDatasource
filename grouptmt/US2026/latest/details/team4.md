@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 07:24:44 UTC
+# Standings for team4 as of 2026-02-26 07:25:24 UTC
 
 **Total Participants:** 2349
 
@@ -58,7 +58,7 @@
 | 50 | 1774 | Eric Mcgaughy |
 | 51 | 1774 | Amelpss |
 | 52 | 1770 | Johnathan Martinez |
-| 53 | 1753 | Dawn Alexander |
+| 53 | 1760 | Dawn Alexander |
 | 54 | 1749 | Lisa Davis |
 | 55 | 1748 | Michelle Marie |
 | 56 | 1744 | Isabel Aguilar |
@@ -69,9 +69,9 @@
 | 61 | 1619 | Denia Deni |
 | 62 | 1617 | Anthony Bryan Riva |
 | 63 | 1599 | Mona Sharma |
-| 64 | 1590 | Jewell Urban |
-| 65 | 1582 | Korcoran Smith |
-| 66 | 1574 | Keith Kelley |
+| 64 | 1594 | Keith Kelley |
+| 65 | 1590 | Jewell Urban |
+| 66 | 1582 | Korcoran Smith |
 | 67 | 1563 | Sammy Noguera |
 | 68 | 1555 | Kimberly Love |
 | 69 | 1554 | Chilly Line |
