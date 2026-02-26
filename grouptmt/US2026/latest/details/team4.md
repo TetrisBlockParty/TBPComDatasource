@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 00:28:45 UTC
+# Standings for team4 as of 2026-02-26 00:29:23 UTC
 
 **Total Participants:** 2282
 
@@ -51,7 +51,7 @@
 | 43 | 1753 | Dee Kay |
 | 44 | 1748 | Michelle Marie |
 | 45 | 1746 | Eric Mcgaughy |
-| 46 | 1741 | Koshin Abdirahman |
+| 46 | 1744 | Koshin Abdirahman |
 | 47 | 1736 | Isabella Blanco |
 | 48 | 1732 | Lisa Davis |
 | 49 | 1715 | Cherrish Duren |
@@ -187,7 +187,7 @@
 | 179 | 711 | Brickh4us |
 | 180 | 710 | Kathy Brookins |
 | 181 | 708 | Jim Hart |
-| 182 | 707 | YoMomma |
+| 182 | 708 | YoMomma |
 | 183 | 705 | Cristy Duerksen |
 | 184 | 695 | Angelito |
 | 185 | 695 | Latisha Davis |
@@ -258,22 +258,22 @@
 | 250 | 562 | Michele Plunkett |
 | 251 | 559 | Ericca Eldridge |
 | 252 | 557 | Rheanda Weaskus |
-| 253 | 556 | Bio Nelly |
-| 254 | 556 | Zethra Prenisha Rahming |
-| 255 | 552 | Joseph Guthrie |
-| 256 | 551 | Crystal Nicolette Moore |
+| 253 | 556 | Zethra Prenisha Rahming |
+| 254 | 556 | Bio Nelly |
+| 255 | 554 | Christine Simmons |
+| 256 | 552 | Joseph Guthrie |
 | 257 | 551 | Cheery Risebuilder |
-| 258 | 551 | Morti |
-| 259 | 550 | Michael Snow |
-| 260 | 550 | James Hurley Jr. |
-| 261 | 549 | Casey Grabner |
-| 262 | 549 | Vic |
-| 263 | 548 | shark tato |
-| 264 | 547 | DonMega |
-| 265 | 546 | Jessica Petersen |
-| 266 | 546 | Milan Markeisha |
-| 267 | 544 | Kimberlee Jan Beckstead |
-| 268 | 544 | Christine Simmons |
+| 258 | 551 | Crystal Nicolette Moore |
+| 259 | 551 | Morti |
+| 260 | 550 | Michael Snow |
+| 261 | 550 | James Hurley Jr. |
+| 262 | 549 | Casey Grabner |
+| 263 | 549 | Vic |
+| 264 | 548 | shark tato |
+| 265 | 547 | DonMega |
+| 266 | 546 | Jessica Petersen |
+| 267 | 546 | Milan Markeisha |
+| 268 | 544 | Kimberlee Jan Beckstead |
 | 269 | 544 | Cynthia Boudreau |
 | 270 | 540 | Jason Gibbs |
 | 271 | 540 | Ultramarine |
@@ -561,8 +561,8 @@
 | 553 | 301 | Sam Middleton |
 | 554 | 301 | Ashlee Carnes |
 | 555 | 300 | moneybagz |
-| 556 | 298 | Tanya Abernathy Jackson |
-| 557 | 298 | Spunky Framezone |
+| 556 | 298 | Spunky Framezone |
+| 557 | 298 | Tanya Abernathy Jackson |
 | 558 | 298 | Cheryl Johnson |
 | 559 | 298 | Jackie Marie |
 | 560 | 296 | Smiley Shifter |
@@ -577,24 +577,24 @@
 | 569 | 292 | Epic Curvetile |
 | 570 | 292 | Gigglelymomof2 |
 | 571 | 292 | Melissa VanBourgondien |
-| 572 | 291 | Speedy Swipe |
-| 573 | 291 | Joseph Pace |
-| 574 | 291 | Nathalie Jardim |
-| 575 | 291 | JoJo |
-| 576 | 291 | Orchislactea |
-| 577 | 290 | Heidi Jo Hill |
-| 578 | 287 | Globofish |
-| 579 | 287 | Patrick Cookson |
-| 580 | 287 | Hyper Shatterbuilder |
-| 581 | 287 | Too Low Lou |
-| 582 | 287 | Ziggy |
-| 583 | 286 | Dustin Dodson |
+| 572 | 291 | Orchislactea |
+| 573 | 291 | Nathalie Jardim |
+| 574 | 291 | Joseph Pace |
+| 575 | 291 | Speedy Swipe |
+| 576 | 291 | JoJo |
+| 577 | 290 | Tanner Lund |
+| 578 | 290 | Heidi Jo Hill |
+| 579 | 287 | Globofish |
+| 580 | 287 | Patrick Cookson |
+| 581 | 287 | Hyper Shatterbuilder |
+| 582 | 287 | Too Low Lou |
+| 583 | 287 | Ziggy |
 | 584 | 286 | Perky Riser |
-| 585 | 286 | Kelly Williams |
-| 586 | 285 | Elie Pean |
-| 587 | 285 | Elizabeth Tinoco |
-| 588 | 285 | Rhys Morgan |
-| 589 | 283 | Tanner Lund |
+| 585 | 286 | Dustin Dodson |
+| 586 | 286 | Kelly Williams |
+| 587 | 285 | Elie Pean |
+| 588 | 285 | Elizabeth Tinoco |
+| 589 | 285 | Rhys Morgan |
 | 590 | 283 | Colton Stamper |
 | 591 | 283 | Joey Riley |
 | 592 | 281 | Cranky Glidebuilder |
@@ -744,10 +744,10 @@
 | 736 | 226 | Cozy Balancer |
 | 737 | 222 | Brandy Gray |
 | 738 | 222 | Robert Sch |
-| 739 | 221 | JD |
-| 740 | 220 | Zappy Bridgepiece |
-| 741 | 220 | Joshua Cuellar |
-| 742 | 220 | Beenbreto |
+| 739 | 222 | Beenbreto |
+| 740 | 221 | JD |
+| 741 | 220 | Zappy Bridgepiece |
+| 742 | 220 | Joshua Cuellar |
 | 743 | 219 | Undeniable Williams |
 | 744 | 219 | Niki Bush |
 | 745 | 219 | Christina O'Dell-Ishau |
