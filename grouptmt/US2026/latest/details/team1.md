@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 09:46:46 UTC
+# Standings for team1 as of 2026-02-26 09:47:23 UTC
 
 **Total Participants:** 2654
 
@@ -159,7 +159,7 @@
 | 151 | 860 | Lachelle Dillon |
 | 152 | 859 | Tanya Carpenter-Reynolds |
 | 153 | 848 | Evie Khalil |
-| 154 | 837 | Tiger Lily |
+| 154 | 846 | Tiger Lily |
 | 155 | 824 | Debbie Kane |
 | 156 | 818 | .running. |
 | 157 | 813 | Tipsy Riseclear |
