@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 09:30:46 UTC
+# Standings for team1 as of 2026-02-26 09:31:24 UTC
 
 **Total Participants:** 2652
 
@@ -205,11 +205,11 @@
 | 197 | 694 | BadG52 |
 | 198 | 689 | Jessi Sauer |
 | 199 | 688 | Ryan Lunnin |
-| 200 | 683 | Witty Builderfit |
-| 201 | 682 | Jumpy Dropper |
-| 202 | 677 | Speedy Liney |
-| 203 | 673 | Rebekah LeiAnn Bonsell |
-| 204 | 673 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 200 | 688 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 201 | 683 | Witty Builderfit |
+| 202 | 682 | Jumpy Dropper |
+| 203 | 677 | Speedy Liney |
+| 204 | 673 | Rebekah LeiAnn Bonsell |
 | 205 | 671 | Tamara Brown |
 | 206 | 671 | ALFD |
 | 207 | 659 | Timothy Danaher |
@@ -831,25 +831,25 @@
 | 823 | 221 | William Cry |
 | 824 | 221 | Shannon Jones |
 | 825 | 221 | chabbu |
-| 826 | 220 | Rob Burns |
-| 827 | 220 | Toespixe |
-| 828 | 220 | Johnson Aryonda |
-| 829 | 219 | Wacky Strikesnap |
-| 830 | 219 | Almïghty Stoner |
-| 831 | 219 | Sean McErlane |
-| 832 | 218 | Theresa Nicole |
-| 833 | 216 | davis13 |
-| 834 | 216 | Erin Divine |
-| 835 | 216 | Scott Tracie Kiser |
-| 836 | 216 | Matt Leroux |
-| 837 | 216 | Nicolette Ivory Chastain |
-| 838 | 216 | Anthony T. Fults |
-| 839 | 216 | Dafna Kaplan-Garrahy |
-| 840 | 216 | Shauntina Burke |
-| 841 | 215 | Vivian Bush |
-| 842 | 214 | VaSharon Crenshaw |
-| 843 | 214 | Alex Gauthier |
-| 844 | 214 | Fayalobie |
+| 826 | 220 | Fayalobie |
+| 827 | 220 | Rob Burns |
+| 828 | 220 | Toespixe |
+| 829 | 220 | Johnson Aryonda |
+| 830 | 219 | Wacky Strikesnap |
+| 831 | 219 | Almïghty Stoner |
+| 832 | 219 | Sean McErlane |
+| 833 | 218 | Theresa Nicole |
+| 834 | 216 | davis13 |
+| 835 | 216 | Erin Divine |
+| 836 | 216 | Scott Tracie Kiser |
+| 837 | 216 | Matt Leroux |
+| 838 | 216 | Nicolette Ivory Chastain |
+| 839 | 216 | Anthony T. Fults |
+| 840 | 216 | Dafna Kaplan-Garrahy |
+| 841 | 216 | Shauntina Burke |
+| 842 | 215 | Vivian Bush |
+| 843 | 214 | VaSharon Crenshaw |
+| 844 | 214 | Alex Gauthier |
 | 845 | 213 | Nekina Wright |
 | 846 | 213 | Brandy Ann |
 | 847 | 213 | Heather Coleman |
@@ -1402,41 +1402,41 @@
 | 1394 | 101 | Kia Jenae |
 | 1395 | 101 | Terri Williams |
 | 1396 | 101 | Bill Andersen |
-| 1397 | 100 | Skuba Cece |
-| 1398 | 100 | Christian Schirmer |
-| 1399 | 100 | Jason Philp |
-| 1400 | 99 | Brenda Schultz |
-| 1401 | 99 | Tabetha Craddock |
+| 1397 | 100 | Jason Philp |
+| 1398 | 100 | Liz Oubre |
+| 1399 | 100 | Christian Schirmer |
+| 1400 | 100 | Skuba Cece |
+| 1401 | 99 | Brenda Schultz |
 | 1402 | 99 | Cranky Dash |
 | 1403 | 99 | Theresa Crawford |
-| 1404 | 99 | Nicole Marie |
+| 1404 | 99 | Tabetha Craddock |
 | 1405 | 99 | Jeffrey Penkowski |
 | 1406 | 99 | June Myklebust Degarmo |
-| 1407 | 99 | Equasia Lane |
-| 1408 | 99 | Michael Vanwinkle |
-| 1409 | 99 | Bry |
-| 1410 | 98 | Kimi Kay Anderson |
-| 1411 | 98 | Shokron |
-| 1412 | 98 | BearMan01 |
-| 1413 | 98 | Brandon Reyes |
+| 1407 | 99 | Nicole Marie |
+| 1408 | 99 | Equasia Lane |
+| 1409 | 99 | Michael Vanwinkle |
+| 1410 | 99 | Bry |
+| 1411 | 98 | Kimi Kay Anderson |
+| 1412 | 98 | Shokron |
+| 1413 | 98 | BearMan01 |
 | 1414 | 98 | Nicole Rivera-Huger |
 | 1415 | 98 | Dizzy Bambino-rae |
-| 1416 | 98 | Liz Oubre |
+| 1416 | 98 | Brandon Reyes |
 | 1417 | 98 | Goofy Blockroll |
 | 1418 | 98 | Squishy 69 |
 | 1419 | 97 | Mister Reid |
-| 1420 | 97 | Mike Kimes |
-| 1421 | 97 | Steve Bomkamp |
-| 1422 | 97 | Chirpy Tiler |
-| 1423 | 97 | MessyGirl |
-| 1424 | 97 | Churmo |
-| 1425 | 97 | Smiley Towerzone |
-| 1426 | 97 | Michael Willett |
-| 1427 | 97 | Vikki Doris-Leonardo |
+| 1420 | 97 | Steve Bomkamp |
+| 1421 | 97 | Chirpy Tiler |
+| 1422 | 97 | MessyGirl |
+| 1423 | 97 | Churmo |
+| 1424 | 97 | Smiley Towerzone |
+| 1425 | 97 | Michael Willett |
+| 1426 | 97 | Vikki Doris-Leonardo |
+| 1427 | 97 | Mike Kimes |
 | 1428 | 96 | Ryan James Kelly |
-| 1429 | 96 | Kgreg49 |
-| 1430 | 96 | Pete Davis |
-| 1431 | 96 | jellikit42 |
+| 1429 | 96 | jellikit42 |
+| 1430 | 96 | Kgreg49 |
+| 1431 | 96 | Pete Davis |
 | 1432 | 96 | William Campbell |
 | 1433 | 96 | Mighty Fitzone |
 | 1434 | 95 | Kristye |
