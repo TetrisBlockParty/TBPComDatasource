@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-26 08:38:43 UTC
+# Standings for team3 as of 2026-02-26 08:39:24 UTC
 
 **Total Participants:** 3903
 
@@ -149,8 +149,8 @@
 | 141 | 1309 | Chelsea Hall |
 | 142 | 1309 | Stephanie Rice |
 | 143 | 1297 | Shelby Michelle |
-| 144 | 1292 | Amanda L Baker |
-| 145 | 1292 | Betty Rosas |
+| 144 | 1292 | Betty Rosas |
+| 145 | 1292 | Amanda L Baker |
 | 146 | 1289 | Lori Barnaby |
 | 147 | 1285 | Tye Stovall |
 | 148 | 1282 | LaTanya GeminiondaRise Johnson |
@@ -171,16 +171,16 @@
 | 163 | 1191 | Angella Lyons |
 | 164 | 1190 | Dana Winters |
 | 165 | 1190 | Valerie Gendron |
-| 166 | 1188 | Terry Jo Jones |
-| 167 | 1185 | Sherryl McNay |
-| 168 | 1179 | Dana Fox |
-| 169 | 1178 | CeceGeGe |
-| 170 | 1171 | Angela M. Fletcher |
-| 171 | 1170 | Justin Ritter |
+| 166 | 1188 | Justin Ritter |
+| 167 | 1188 | Terry Jo Jones |
+| 168 | 1185 | Sherryl McNay |
+| 169 | 1179 | Dana Fox |
+| 170 | 1178 | CeceGeGe |
+| 171 | 1171 | Angela M. Fletcher |
 | 172 | 1158 | LaShey Thompson |
 | 173 | 1142 | Stephanie Woods |
-| 174 | 1140 | Poppy Splitter |
-| 175 | 1140 | Laura Booth Wosko |
+| 174 | 1140 | Laura Booth Wosko |
+| 175 | 1140 | Poppy Splitter |
 | 176 | 1134 | Sashay Tapae Simpson |
 | 177 | 1131 | mzcatzy |
 | 178 | 1131 | Dawn Williams |
@@ -195,8 +195,8 @@
 | 187 | 1106 | MissTaylor |
 | 188 | 1102 | Patricia White |
 | 189 | 1092 | Micayah Stevens |
-| 190 | 1088 | Gumbo |
-| 191 | 1088 | Eileen Brady Thurber |
+| 190 | 1088 | Eileen Brady Thurber |
+| 191 | 1088 | Gumbo |
 | 192 | 1075 | Giddy Drop |
 | 193 | 1072 | Speedy Bridger |
 | 194 | 1072 | Danielle Becker |
@@ -205,8 +205,8 @@
 | 197 | 1064 | Niki Dalrymple |
 | 198 | 1061 | Trisha Balmer |
 | 199 | 1047 | BadManSheLove |
-| 200 | 1046 | Rochelle Hazelett |
-| 201 | 1046 | Brenda Lee Vander Molen |
+| 200 | 1046 | Brenda Lee Vander Molen |
+| 201 | 1046 | Rochelle Hazelett |
 | 202 | 1045 | Nicole Myers |
 | 203 | 1043 | Daring Brickzone |
 | 204 | 1038 | Mandy Smith Oldham |
@@ -648,14 +648,14 @@
 | 640 | 416 | Brittany Lawson Tolson |
 | 641 | 416 | JustGiGi |
 | 642 | 416 | Dapper Chiseler |
-| 643 | 416 | Hyper Wipeout |
-| 644 | 414 | Allie Kershner |
-| 645 | 414 | Felicia Doxey |
-| 646 | 414 | Dizzy Risepiece |
-| 647 | 413 | Traci Hagerman |
-| 648 | 413 | Jayla Jette |
-| 649 | 412 | Lenora Price |
-| 650 | 412 | Norma JulieMay |
+| 643 | 416 | Jayla Jette |
+| 644 | 416 | Hyper Wipeout |
+| 645 | 414 | Allie Kershner |
+| 646 | 414 | Felicia Doxey |
+| 647 | 414 | Dizzy Risepiece |
+| 648 | 413 | Traci Hagerman |
+| 649 | 412 | Norma JulieMay |
+| 650 | 412 | Lenora Price |
 | 651 | 411 | Nicholas Roddy |
 | 652 | 411 | Moneyvybz |
 | 653 | 411 | Nina Marie |
@@ -1298,99 +1298,99 @@
 | 1290 | 228 | Melissa Tunstill |
 | 1291 | 228 | Nannie Hoopz |
 | 1292 | 227 | Plucky Dasher |
-| 1293 | 227 | Void |
-| 1294 | 227 | Brave Builderline |
-| 1295 | 227 | Crystel b520 |
-| 1296 | 226 | Paula Urlacher |
+| 1293 | 227 | Brave Builderline |
+| 1294 | 227 | Crystel b520 |
+| 1295 | 227 | Void |
+| 1296 | 226 | Kathleen Hastad |
 | 1297 | 226 | Ana Ruiz |
-| 1298 | 226 | Kathleen Hastad |
-| 1299 | 226 | Alexis Cook |
+| 1298 | 226 | Alexis Cook |
+| 1299 | 226 | Paula Urlacher |
 | 1300 | 226 | Kerry Scott Stewart |
 | 1301 | 225 | Cassie Marion |
-| 1302 | 224 | Bastian Campbell |
-| 1303 | 224 | Tahira Patrice |
-| 1304 | 224 | Krby |
-| 1305 | 224 | GeriBlocks |
+| 1302 | 224 | Debbie Schmitt-Jennings |
+| 1303 | 224 | Bastian Campbell |
+| 1304 | 224 | Tahira Patrice |
+| 1305 | 224 | Krby |
 | 1306 | 224 | Mango |
-| 1307 | 224 | Debbie Schmitt-Jennings |
+| 1307 | 224 | GeriBlocks |
 | 1308 | 223 | Autumn Michelle Coulter |
 | 1309 | 223 | Randall Johnstone |
 | 1310 | 222 | Tig |
-| 1311 | 222 | MrLoner Stoner |
-| 1312 | 222 | Dawn Jacobs |
-| 1313 | 222 | Polopypy |
+| 1311 | 222 | Polopypy |
+| 1312 | 222 | MrLoner Stoner |
+| 1313 | 222 | Dawn Jacobs |
 | 1314 | 222 | Stephanie Zahm |
-| 1315 | 221 | Dani Robertson |
+| 1315 | 221 | Quirky Blast |
 | 1316 | 221 | Vaners |
 | 1317 | 221 | Ashley Hobbs |
-| 1318 | 221 | Erica Netherland |
+| 1318 | 221 | Dani Robertson |
 | 1319 | 221 | Jazmin Santos |
-| 1320 | 221 | Amy Vallieres |
-| 1321 | 220 | Primus |
-| 1322 | 220 | Brad Dimitroff |
-| 1323 | 220 | JM MJ |
-| 1324 | 220 | Toni Savoie |
+| 1320 | 221 | Erica Netherland |
+| 1321 | 221 | Amy Vallieres |
+| 1322 | 220 | Perky Clusterbuilder |
+| 1323 | 220 | Toni Savoie |
+| 1324 | 220 | Denisha Thompson |
 | 1325 | 220 | Tawanna Johnson |
-| 1326 | 220 | Denisha Thompson |
-| 1327 | 220 | Perky Clusterbuilder |
-| 1328 | 219 | Frothy Glider |
+| 1326 | 220 | Primus |
+| 1327 | 220 | JM MJ |
+| 1328 | 220 | Brad Dimitroff |
 | 1329 | 219 | Tatiana Lopez |
 | 1330 | 219 | Ruben Gonzalez |
 | 1331 | 219 | Viking |
-| 1332 | 219 | Sweetyam22 |
-| 1333 | 218 | Crawford Candice |
-| 1334 | 218 | Amy Fuller Heaton |
+| 1332 | 219 | Frothy Glider |
+| 1333 | 219 | Sweetyam22 |
+| 1334 | 218 | Crawford Candice |
 | 1335 | 218 | Kristy |
-| 1336 | 218 | Christine Vosburgh |
-| 1337 | 217 | Kym Desrochers |
-| 1338 | 217 | Stitchmom |
-| 1339 | 217 | Tiffany Marler |
-| 1340 | 216 | Quirky Blast |
-| 1341 | 216 | Clever Patterner |
-| 1342 | 216 | Justplain Killacam Phillips |
-| 1343 | 216 | Shiny Dashy |
-| 1344 | 216 | Janette Schilling |
+| 1336 | 218 | Amy Fuller Heaton |
+| 1337 | 218 | Christine Vosburgh |
+| 1338 | 217 | Tiffany Marler |
+| 1339 | 217 | Stitchmom |
+| 1340 | 217 | Kym Desrochers |
+| 1341 | 216 | Janette Schilling |
+| 1342 | 216 | Shiny Dashy |
+| 1343 | 216 | Justplain Killacam Phillips |
+| 1344 | 216 | Clever Patterner |
 | 1345 | 215 | Nikia Melancon |
-| 1346 | 215 | Christopher Woost |
+| 1346 | 215 | Jennifer Heist |
 | 1347 | 215 | Nerdy Brickster |
-| 1348 | 215 | Jennifer Heist |
-| 1349 | 215 | Preston |
-| 1350 | 214 | DeeDee13 |
-| 1351 | 214 | Queendjenane Blaise |
-| 1352 | 214 | Pipsqueak |
-| 1353 | 214 | Me,Him,Yu |
+| 1348 | 215 | Preston |
+| 1349 | 215 | Christopher Woost |
+| 1350 | 214 | Me,Him,Yu |
+| 1351 | 214 | DeeDee13 |
+| 1352 | 214 | Queendjenane Blaise |
+| 1353 | 214 | Pipsqueak |
 | 1354 | 214 | Esther Allstar Jackson |
-| 1355 | 213 | Dragonite |
+| 1355 | 213 | Duane Miller |
 | 1356 | 213 | Emily Kirkman Greenwood |
-| 1357 | 213 | Susan Ray Lewis |
-| 1358 | 213 | Dustin Curtis |
-| 1359 | 213 | Duane Miller |
-| 1360 | 213 | Deanna McDivitt Garrison |
-| 1361 | 213 | SummerRae Broussard |
+| 1357 | 213 | Dragonite |
+| 1358 | 213 | Susan Ray Lewis |
+| 1359 | 213 | Dustin Curtis |
+| 1360 | 213 | SummerRae Broussard |
+| 1361 | 213 | Deanna McDivitt Garrison |
 | 1362 | 212 | Venna Cooper |
-| 1363 | 212 | Jazzy Zoner |
-| 1364 | 212 | Latoya Oneluv White |
-| 1365 | 212 | Amanda Prescott |
-| 1366 | 212 | Marie Abram |
+| 1363 | 212 | Marie Abram |
+| 1364 | 212 | Jazzy Zoner |
+| 1365 | 212 | Latoya Oneluv White |
+| 1366 | 212 | Amanda Prescott |
 | 1367 | 212 | Untamed |
 | 1368 | 212 | Flashy Tiler |
-| 1369 | 211 | lady lua |
-| 1370 | 211 | Dreamy Tetrisline |
-| 1371 | 211 | Xoxotaay |
+| 1369 | 211 | Amanda Neal |
+| 1370 | 211 | Xoxotaay |
+| 1371 | 211 | Michelle Castillo |
 | 1372 | 211 | MD |
-| 1373 | 211 | Amanda Neal |
-| 1374 | 211 | Michelle Castillo |
-| 1375 | 210 | Plucky Bridger |
-| 1376 | 210 | Ron Laliberte |
-| 1377 | 210 | Snazzy Curve |
-| 1378 | 210 | Amy Raymond |
+| 1373 | 211 | Dreamy Tetrisline |
+| 1374 | 211 | lady lua |
+| 1375 | 210 | Amy Raymond |
+| 1376 | 210 | Snazzy Curve |
+| 1377 | 210 | Ron Laliberte |
+| 1378 | 210 | Plucky Bridger |
 | 1379 | 210 | laally |
-| 1380 | 210 | Shea Ladynick Henderson |
-| 1381 | 210 | Shiny Twisterfit |
-| 1382 | 210 | Eileen Valenz |
+| 1380 | 210 | Eileen Valenz |
+| 1381 | 210 | Shea Ladynick Henderson |
+| 1382 | 210 | Shiny Twisterfit |
 | 1383 | 209 | Chilly Wipegrid |
-| 1384 | 209 | glichmod |
-| 1385 | 209 | Dandy Dropmatch |
+| 1384 | 209 | Dandy Dropmatch |
+| 1385 | 209 | glichmod |
 | 1386 | 208 | Hasty Curvetile |
 | 1387 | 208 | WOMPWAGUN |
 | 1388 | 208 | Sweetfire |

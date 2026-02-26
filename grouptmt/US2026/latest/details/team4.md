@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 08:38:43 UTC
+# Standings for team4 as of 2026-02-26 08:39:24 UTC
 
 **Total Participants:** 2357
 
@@ -791,23 +791,23 @@
 | 783 | 224 | Jessi Godsey |
 | 784 | 223 | Cooldamalley |
 | 785 | 222 | Robert Sch |
-| 786 | 222 | Zappy Bridgepiece |
-| 787 | 221 | Megan Boyce |
-| 788 | 221 | Angela Gould |
-| 789 | 220 | Joshua Cuellar |
-| 790 | 220 | Yvonne MAguilar |
-| 791 | 220 | Bad company |
-| 792 | 219 | Undeniable Williams |
-| 793 | 219 | Niki Bush |
-| 794 | 219 | Stephanie Jones |
-| 795 | 219 | Smiley Tiltbuilder |
-| 796 | 219 | Christina O'Dell-Ishau |
-| 797 | 219 | Bigg Guy |
-| 798 | 218 | Hog Crankin |
-| 799 | 218 | Bob N Alisha Hinojosa |
-| 800 | 218 | Renee Marshall |
-| 801 | 217 | Matthew Doyle |
-| 802 | 217 | Jared M D Campbell |
+| 786 | 222 | Jared M D Campbell |
+| 787 | 222 | Zappy Bridgepiece |
+| 788 | 221 | Megan Boyce |
+| 789 | 221 | Angela Gould |
+| 790 | 220 | Joshua Cuellar |
+| 791 | 220 | Yvonne MAguilar |
+| 792 | 220 | Bad company |
+| 793 | 219 | Undeniable Williams |
+| 794 | 219 | Niki Bush |
+| 795 | 219 | Stephanie Jones |
+| 796 | 219 | Smiley Tiltbuilder |
+| 797 | 219 | Christina O'Dell-Ishau |
+| 798 | 219 | Bigg Guy |
+| 799 | 218 | Hog Crankin |
+| 800 | 218 | Bob N Alisha Hinojosa |
+| 801 | 218 | Renee Marshall |
+| 802 | 217 | Matthew Doyle |
 | 803 | 217 | Tabitha Henson |
 | 804 | 217 | Fred Lilreadii Smith Jr |
 | 805 | 216 | LunaMoon |
@@ -1635,10 +1635,10 @@
 | 1627 | 59 | Jason Lasick |
 | 1628 | 59 | Les |
 | 1629 | 59 | Aroura |
-| 1630 | 59 | Nooooope |
-| 1631 | 59 | Clint Lafave |
-| 1632 | 58 | Ed Burch |
-| 1633 | 58 | Tuan |
+| 1630 | 59 | Clint Lafave |
+| 1631 | 59 | Nooooope |
+| 1632 | 58 | Tuan |
+| 1633 | 58 | Ed Burch |
 | 1634 | 58 | Tracy Whited |
 | 1635 | 58 | Richard Campbell II |
 | 1636 | 58 | kash |
@@ -1649,11 +1649,11 @@
 | 1641 | 57 | Tee Widmer |
 | 1642 | 57 | Jinx |
 | 1643 | 57 | Smiley Linkgrid |
-| 1644 | 57 | Demarvel Mondezie |
-| 1645 | 57 | Dyanne Pitard |
+| 1644 | 57 | Dyanne Pitard |
+| 1645 | 57 | Demarvel Mondezie |
 | 1646 | 57 | Gogogirl |
-| 1647 | 56 | BostonRitz |
-| 1648 | 56 | Tyler Coutts |
+| 1647 | 56 | Tyler Coutts |
+| 1648 | 56 | BostonRitz |
 | 1649 | 56 | Peachy Roll |
 | 1650 | 56 | MsEMoney |
 | 1651 | 56 | Amanda Slusser |
@@ -1673,11 +1673,11 @@
 | 1665 | 55 | Dorene Brooks |
 | 1666 | 55 | Poppy Brickmatch |
 | 1667 | 55 | Samantha Ponzillo |
-| 1668 | 55 | Ms Netta |
+| 1668 | 55 | baysic |
 | 1669 | 55 | Shiny Linkpiece |
-| 1670 | 55 | Elizabeth Foster |
-| 1671 | 55 | baysic |
-| 1672 | 55 | BlingBling |
+| 1670 | 55 | BlingBling |
+| 1671 | 55 | Elizabeth Foster |
+| 1672 | 55 | Ms Netta |
 | 1673 | 54 | Daniel Smith |
 | 1674 | 54 | Lisa Nicole Anson |
 | 1675 | 54 | AuDra Renee Dupre |
@@ -1697,10 +1697,10 @@
 | 1689 | 53 | Shelly Silva |
 | 1690 | 53 | sunshine719 |
 | 1691 | 53 | Gabs |
-| 1692 | 52 | Shy Ryan |
-| 1693 | 52 | Naomi Olson Hartman |
-| 1694 | 52 | PnkUnicrn |
-| 1695 | 52 | Sassy Block |
+| 1692 | 52 | Sassy Block |
+| 1693 | 52 | Shy Ryan |
+| 1694 | 52 | Naomi Olson Hartman |
+| 1695 | 52 | PnkUnicrn |
 | 1696 | 52 | Alexis Kelly |
 | 1697 | 52 | Albert Mariano |
 | 1698 | 52 | Lily Cannon |
@@ -1717,8 +1717,8 @@
 | 1709 | 51 | Stacey M Hawkins |
 | 1710 | 51 | DLAMB |
 | 1711 | 51 | Luna |
-| 1712 | 51 | Kassie Wakefield |
-| 1713 | 51 | Bernard Mills Jr |
+| 1712 | 51 | Bernard Mills Jr |
+| 1713 | 51 | Kassie Wakefield |
 | 1714 | 50 | FabX |
 | 1715 | 50 | Jeremy S Williams |
 | 1716 | 50 | Darren Shanholtz |
@@ -1733,14 +1733,14 @@
 | 1725 | 49 | Michelle LaRose |
 | 1726 | 49 | Maria N Manuel Mendoza |
 | 1727 | 49 | KingScuba |
-| 1728 | 49 | Yaitza Cotto |
-| 1729 | 49 | Slinky Brickroll |
-| 1730 | 49 | fuzzbutt1 |
-| 1731 | 49 | yinkaan |
-| 1732 | 49 | Sarah Fox |
-| 1733 | 48 | Juanita Elizebeth |
-| 1734 | 48 | Jameson Keefe |
-| 1735 | 48 | Zesty Pivotfall |
+| 1728 | 49 | Sarah Fox |
+| 1729 | 49 | yinkaan |
+| 1730 | 49 | Yaitza Cotto |
+| 1731 | 49 | Slinky Brickroll |
+| 1732 | 49 | fuzzbutt1 |
+| 1733 | 48 | Jameson Keefe |
+| 1734 | 48 | Zesty Pivotfall |
+| 1735 | 48 | Juanita Elizebeth |
 | 1736 | 48 | Danielle Dunn |
 | 1737 | 48 | Dandy Dasher |
 | 1738 | 48 | Edward Krohn |
@@ -1757,31 +1757,31 @@
 | 1749 | 47 | Twisty Wipegrid |
 | 1750 | 47 | Sarah Barton Alicea |
 | 1751 | 47 | Zer0h |
-| 1752 | 47 | Jordon Arkyn |
-| 1753 | 47 | Epic Gridzone |
+| 1752 | 47 | Lil Miss |
+| 1753 | 47 | Snappy Stagger |
 | 1754 | 47 | Josh Brock |
-| 1755 | 47 | Lil Miss |
-| 1756 | 47 | Snappy Stagger |
-| 1757 | 46 | Jakorah Musto |
+| 1755 | 47 | Clever Wipefit |
+| 1756 | 47 | Jordon Arkyn |
+| 1757 | 47 | Epic Gridzone |
 | 1758 | 46 | Cheeky Rollblock |
-| 1759 | 46 | SweetHoneyComb |
-| 1760 | 46 | :) |
-| 1761 | 46 | Desse |
-| 1762 | 46 | Lush Cascadeclear |
-| 1763 | 46 | J |
-| 1764 | 46 | Mary Ellen Kettleman |
-| 1765 | 45 | Chirpy Twistpiece |
-| 1766 | 45 | Megan Gagnon |
-| 1767 | 45 | Perach Alima Shoa |
-| 1768 | 45 | Cheeky Zone |
-| 1769 | 45 | Lynn Anne |
-| 1770 | 45 | Shanika Davis |
-| 1771 | 45 | Spicy T-spin |
-| 1772 | 45 | Zesty Shatterline |
-| 1773 | 45 | ytho |
-| 1774 | 45 | rod |
-| 1775 | 45 | Savannah Saphyre Allen |
-| 1776 | 45 | Clever Wipefit |
+| 1759 | 46 | Jakorah Musto |
+| 1760 | 46 | SweetHoneyComb |
+| 1761 | 46 | :) |
+| 1762 | 46 | Desse |
+| 1763 | 46 | Lush Cascadeclear |
+| 1764 | 46 | J |
+| 1765 | 46 | Mary Ellen Kettleman |
+| 1766 | 45 | Chirpy Twistpiece |
+| 1767 | 45 | Megan Gagnon |
+| 1768 | 45 | Perach Alima Shoa |
+| 1769 | 45 | Cheeky Zone |
+| 1770 | 45 | Lynn Anne |
+| 1771 | 45 | Shanika Davis |
+| 1772 | 45 | Spicy T-spin |
+| 1773 | 45 | Zesty Shatterline |
+| 1774 | 45 | ytho |
+| 1775 | 45 | rod |
+| 1776 | 45 | Savannah Saphyre Allen |
 | 1777 | 45 | Dreamy Shuffler |
 | 1778 | 44 | Yvonne McClain |
 | 1779 | 44 | Cheery Blockmatch |
