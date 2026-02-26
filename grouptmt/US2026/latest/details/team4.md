@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 00:18:44 UTC
+# Standings for team4 as of 2026-02-26 00:19:24 UTC
 
 **Total Participants:** 2282
 
@@ -174,11 +174,11 @@
 | 166 | 749 | shar |
 | 167 | 741 | Jacqueline Helm |
 | 168 | 739 | Rodney McMath Jr. |
-| 169 | 736 | Chastity Mitchell |
-| 170 | 733 | April Rondinone |
-| 171 | 732 | Jessi Cinotto |
-| 172 | 731 | KJ Pool |
-| 173 | 729 | Cindy Looper |
+| 169 | 739 | Cindy Looper |
+| 170 | 736 | Chastity Mitchell |
+| 171 | 733 | April Rondinone |
+| 172 | 732 | Jessi Cinotto |
+| 173 | 731 | KJ Pool |
 | 174 | 725 | Ernest Maxwell |
 | 175 | 721 | Circuit8 |
 | 176 | 721 | Chris Baggett |
@@ -389,9 +389,9 @@
 | 381 | 409 | Dustin York |
 | 382 | 409 | Tyler Bechtel |
 | 383 | 408 | BigSammy420 |
-| 384 | 407 | Jenna McGeorge |
-| 385 | 407 | Sarah Hoffman |
-| 386 | 407 | Madison Sweere |
+| 384 | 407 | Madison Sweere |
+| 385 | 407 | Jenna McGeorge |
+| 386 | 407 | Sarah Hoffman |
 | 387 | 406 | Petty |
 | 388 | 405 | ZeeZee |
 | 389 | 402 | Richard-April Kice |
@@ -399,15 +399,15 @@
 | 391 | 401 | RamboBanana |
 | 392 | 400 | Juls |
 | 393 | 399 | Paito |
-| 394 | 396 | Bonnie Hurlbrink |
-| 395 | 395 | Zany Shatterer |
-| 396 | 395 | Marcus TheeyoungWoe Gilmore |
-| 397 | 395 | Chummy Towerzone |
-| 398 | 395 | Alexandra Karavias |
-| 399 | 394 | Perky Patternblock |
-| 400 | 394 | Jonathan Mahfood |
-| 401 | 394 | Raymond Roberts |
-| 402 | 393 | George Tzouganos |
+| 394 | 397 | George Tzouganos |
+| 395 | 396 | Bonnie Hurlbrink |
+| 396 | 395 | Zany Shatterer |
+| 397 | 395 | Marcus TheeyoungWoe Gilmore |
+| 398 | 395 | Chummy Towerzone |
+| 399 | 395 | Alexandra Karavias |
+| 400 | 394 | Perky Patternblock |
+| 401 | 394 | Jonathan Mahfood |
+| 402 | 394 | Raymond Roberts |
 | 403 | 393 | Lorena Guerrero-Barron |
 | 404 | 392 | tipsy tiger |
 | 405 | 392 | Angie Schmidt |
@@ -419,8 +419,8 @@
 | 411 | 388 | Bryan James Marino |
 | 412 | 387 | Sho Nuff |
 | 413 | 386 | Neil Ingham |
-| 414 | 384 | Gracie Ann Taylor |
-| 415 | 384 | Jackie Clark |
+| 414 | 384 | Jackie Clark |
+| 415 | 384 | Gracie Ann Taylor |
 | 416 | 383 | Brittany Marsh |
 | 417 | 382 | Speedy Cascadeclear |
 | 418 | 381 | Kevin Bush |
@@ -428,26 +428,26 @@
 | 420 | 380 | SHL |
 | 421 | 380 | Amy Jean |
 | 422 | 379 | PennyCandee |
-| 423 | 377 | Chummy Link |
-| 424 | 377 | Jumpy Zonepiece |
-| 425 | 377 | Groovy Gridlock |
+| 423 | 377 | Jumpy Zonepiece |
+| 424 | 377 | Groovy Gridlock |
+| 425 | 377 | Chummy Link |
 | 426 | 376 | Crushahhhhhh |
 | 427 | 374 | Koral Hanke |
-| 428 | 373 | Badatvs |
-| 429 | 373 | Shiny Pivoty |
-| 430 | 370 | Zippy Tilt |
-| 431 | 370 | Robert Bolden |
-| 432 | 369 | Grann8 |
-| 433 | 369 | Christine Therrien |
-| 434 | 368 | Michael Orris |
-| 435 | 367 | Meg |
-| 436 | 365 | Susan Williams |
-| 437 | 364 | wombat |
-| 438 | 364 | Peachy Brickster |
-| 439 | 363 | Eminem |
-| 440 | 361 | giantslover514 |
+| 428 | 373 | Shiny Pivoty |
+| 429 | 373 | Badatvs |
+| 430 | 371 | ImJustMe |
+| 431 | 370 | Zippy Tilt |
+| 432 | 370 | Robert Bolden |
+| 433 | 369 | Grann8 |
+| 434 | 369 | Christine Therrien |
+| 435 | 368 | Michael Orris |
+| 436 | 367 | Meg |
+| 437 | 365 | Susan Williams |
+| 438 | 364 | wombat |
+| 439 | 364 | Peachy Brickster |
+| 440 | 363 | Eminem |
 | 441 | 361 | ThriftySpice |
-| 442 | 361 | ImJustMe |
+| 442 | 361 | giantslover514 |
 | 443 | 360 | Carter Jones |
 | 444 | 360 | Laura McPheeters |
 | 445 | 360 | Shainne Brewer |
@@ -1466,28 +1466,28 @@
 | 1458 | 70 | Boldy Twistline |
 | 1459 | 70 | Donnie Istillwill Straub |
 | 1460 | 70 | Angel Hollins |
-| 1461 | 70 | Blockin88 |
-| 1462 | 70 | Ruben Perez |
-| 1463 | 70 | Tammi Harne |
-| 1464 | 70 | Tj Colman |
-| 1465 | 70 | Randy |
+| 1461 | 70 | Slappy Blackhead |
+| 1462 | 70 | Blockin88 |
+| 1463 | 70 | Ruben Perez |
+| 1464 | 70 | Tammi Harne |
+| 1465 | 70 | Tj Colman |
 | 1466 | 70 | Kayd |
-| 1467 | 69 | Bymerica |
-| 1468 | 69 | ZZZZZZZ |
+| 1467 | 70 | Randy |
+| 1468 | 69 | Brittanny Simpson |
 | 1469 | 69 | John Robert Roe |
 | 1470 | 69 | Kelly Newsom |
 | 1471 | 69 | James Prickett |
 | 1472 | 69 | Gia Mims |
-| 1473 | 69 | Brittanny Simpson |
-| 1474 | 68 | Slappy Blackhead |
-| 1475 | 68 | Wormtown girl |
-| 1476 | 68 | Camyra Dunnigan |
-| 1477 | 68 | OneBuke FollowMe |
-| 1478 | 68 | Nicki nikki87 |
-| 1479 | 68 | zelda Morgan |
+| 1473 | 69 | ZZZZZZZ |
+| 1474 | 69 | Bymerica |
+| 1475 | 68 | Nicki nikki87 |
+| 1476 | 68 | Kat |
+| 1477 | 68 | zelda Morgan |
+| 1478 | 68 | OneBuke FollowMe |
+| 1479 | 68 | Camyra Dunnigan |
 | 1480 | 68 | Anne-Marie Reyes |
 | 1481 | 68 | combatmac |
-| 1482 | 68 | Kat |
+| 1482 | 68 | Wormtown girl |
 | 1483 | 68 | James Antill |
 | 1484 | 68 | Rocky Lotz |
 | 1485 | 68 | DingusBingus17 |
@@ -2115,14 +2115,14 @@
 | 2107 | 14 | Hasty Cluster |
 | 2108 | 14 | Chrisluks |
 | 2109 | 14 | Lisilou |
-| 2110 | 14 | Jolly Pusher |
-| 2111 | 14 | Bold Piecegrid |
-| 2112 | 14 | Shanda Stephens |
-| 2113 | 14 | Silly Shiftsnap |
-| 2114 | 14 | Matt Wigton |
-| 2115 | 14 | Ball Up CashOut |
-| 2116 | 14 | Nerdy Shift |
-| 2117 | 13 | Kiara Johnson |
+| 2110 | 14 | Kiara Johnson |
+| 2111 | 14 | Jolly Pusher |
+| 2112 | 14 | Bold Piecegrid |
+| 2113 | 14 | Shanda Stephens |
+| 2114 | 14 | Silly Shiftsnap |
+| 2115 | 14 | Nerdy Shift |
+| 2116 | 14 | Matt Wigton |
+| 2117 | 14 | Ball Up CashOut |
 | 2118 | 13 | Traiven LF Howard |
 | 2119 | 13 | Natasha Payne |
 | 2120 | 13 | Rachel Lillis |
@@ -2131,8 +2131,8 @@
 | 2123 | 13 | Goofy Zoner |
 | 2124 | 13 | Crystal Rodriguez |
 | 2125 | 13 | Ms Daja |
-| 2126 | 13 | meme |
-| 2127 | 13 | Sara Daher |
+| 2126 | 13 | Sara Daher |
+| 2127 | 13 | meme |
 | 2128 | 13 | Krystal Kirkley Cox |
 | 2129 | 13 | Pierre Miller |
 | 2130 | 13 | Shiny Blast |
