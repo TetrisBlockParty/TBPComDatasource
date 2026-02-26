@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 10:44:45 UTC
+# Standings for team4 as of 2026-02-26 10:45:24 UTC
 
 **Total Participants:** 2365
 
@@ -151,9 +151,9 @@
 | 143 | 900 | Alan George LaRage |
 | 144 | 896 | Nikki Rae Gordon |
 | 145 | 891 | Rica Mitchell |
-| 146 | 886 | Leslie Nicole |
-| 147 | 885 | Austin Owens |
-| 148 | 874 | Chris Bernstein |
+| 146 | 887 | Chris Bernstein |
+| 147 | 886 | Leslie Nicole |
+| 148 | 885 | Austin Owens |
 | 149 | 873 | Brandon Crabbs |
 | 150 | 872 | Cursed Hag |
 | 151 | 871 | Swanky Fitline |
@@ -1153,34 +1153,34 @@
 | 1145 | 132 | Lozuna |
 | 1146 | 132 | Chilly Matchpiece |
 | 1147 | 132 | Jessica Cagle |
-| 1148 | 131 | chygesshu |
-| 1149 | 131 | Shelly Short |
-| 1150 | 131 | Becky Irby |
-| 1151 | 131 | Bold Buildsnap |
-| 1152 | 130 | DaRuler |
-| 1153 | 130 | Giggy Glide |
-| 1154 | 130 | QueenLis |
-| 1155 | 130 | Snappy Matchbuilder |
-| 1156 | 130 | Chirpy Rollbuilder |
-| 1157 | 130 | Harper |
-| 1158 | 130 | Kevin L Cafleux |
-| 1159 | 130 | Tarina Berner |
-| 1160 | 130 | Charlie Edson |
-| 1161 | 130 | Loony Slider |
-| 1162 | 129 | LondynsDad Mal O KingKreole |
-| 1163 | 129 | Speedy Zigzag |
-| 1164 | 129 | Eric Quan |
-| 1165 | 129 | Wacky Shatterline |
-| 1166 | 129 | Dreamy Snapgrid |
-| 1167 | 129 | Binji |
-| 1168 | 129 | Michelle Abrams |
-| 1169 | 128 | Samantha Kimes |
-| 1170 | 128 | MoonChild |
-| 1171 | 128 | Swanky Linefit |
-| 1172 | 128 | Epic Tilt |
-| 1173 | 128 | Tre Boss |
-| 1174 | 128 | Jazzy Cascadezone |
-| 1175 | 127 | Heath Klingler |
+| 1148 | 132 | Heath Klingler |
+| 1149 | 131 | chygesshu |
+| 1150 | 131 | Shelly Short |
+| 1151 | 131 | Becky Irby |
+| 1152 | 131 | Bold Buildsnap |
+| 1153 | 130 | DaRuler |
+| 1154 | 130 | Giggy Glide |
+| 1155 | 130 | QueenLis |
+| 1156 | 130 | Snappy Matchbuilder |
+| 1157 | 130 | Chirpy Rollbuilder |
+| 1158 | 130 | Harper |
+| 1159 | 130 | Kevin L Cafleux |
+| 1160 | 130 | Tarina Berner |
+| 1161 | 130 | Charlie Edson |
+| 1162 | 130 | Loony Slider |
+| 1163 | 129 | LondynsDad Mal O KingKreole |
+| 1164 | 129 | Speedy Zigzag |
+| 1165 | 129 | Eric Quan |
+| 1166 | 129 | Wacky Shatterline |
+| 1167 | 129 | Dreamy Snapgrid |
+| 1168 | 129 | Binji |
+| 1169 | 129 | Michelle Abrams |
+| 1170 | 128 | Samantha Kimes |
+| 1171 | 128 | MoonChild |
+| 1172 | 128 | Swanky Linefit |
+| 1173 | 128 | Epic Tilt |
+| 1174 | 128 | Tre Boss |
+| 1175 | 128 | Jazzy Cascadezone |
 | 1176 | 127 | Dean Masters |
 | 1177 | 127 | Shaterika Tunie King |
 | 1178 | 127 | Clever Breaker |
@@ -1224,19 +1224,19 @@
 | 1216 | 120 | Cheery Chiseler |
 | 1217 | 120 | Zachary Frazier |
 | 1218 | 119 | DerpDroid |
-| 1219 | 119 | Yakob Moshkovich |
-| 1220 | 119 | Katrina Looney |
-| 1221 | 119 | Paco Gonzalez |
-| 1222 | 119 | Natalie;) |
-| 1223 | 118 | Sunny Brickroll |
-| 1224 | 118 | Ace317 |
-| 1225 | 118 | jay |
-| 1226 | 117 | David Phifer |
-| 1227 | 117 | Gerald Tvelia |
-| 1228 | 117 | Speedy Wipeblock |
-| 1229 | 117 | Suzie Boyd |
-| 1230 | 117 | Christina Nycol |
-| 1231 | 117 | Mohamad Idham |
+| 1219 | 119 | Mohamad Idham |
+| 1220 | 119 | Yakob Moshkovich |
+| 1221 | 119 | Katrina Looney |
+| 1222 | 119 | Paco Gonzalez |
+| 1223 | 119 | Natalie;) |
+| 1224 | 118 | Sunny Brickroll |
+| 1225 | 118 | Ace317 |
+| 1226 | 118 | jay |
+| 1227 | 117 | David Phifer |
+| 1228 | 117 | Gerald Tvelia |
+| 1229 | 117 | Speedy Wipeblock |
+| 1230 | 117 | Suzie Boyd |
+| 1231 | 117 | Christina Nycol |
 | 1232 | 117 | MzChocolate |
 | 1233 | 116 | Deion |
 | 1234 | 116 | April Swinney |
