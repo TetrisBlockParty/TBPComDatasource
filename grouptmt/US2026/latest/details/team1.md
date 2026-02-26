@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 09:49:23 UTC
+# Standings for team1 as of 2026-02-26 09:50:46 UTC
 
 **Total Participants:** 2654
 
@@ -85,10 +85,10 @@
 | 77 | 1326 | Angel Fowler |
 | 78 | 1309 | Dee Perry |
 | 79 | 1302 | Lori Sanders- Davis |
-| 80 | 1293 | Kandae |
-| 81 | 1288 | Nerdy Linkblock |
-| 82 | 1283 | Jason Cox |
-| 83 | 1280 | Chris K |
+| 80 | 1295 | Chris K |
+| 81 | 1293 | Kandae |
+| 82 | 1288 | Nerdy Linkblock |
+| 83 | 1283 | Jason Cox |
 | 84 | 1264 | GATOR |
 | 85 | 1256 | Tee Sheree |
 | 86 | 1255 | Jacqueline Williams |
@@ -206,14 +206,14 @@
 | 198 | 694 | BadG52 |
 | 199 | 689 | Jessi Sauer |
 | 200 | 688 | Ryan Lunnin |
-| 201 | 683 | Witty Builderfit |
-| 202 | 682 | Jumpy Dropper |
-| 203 | 677 | Speedy Liney |
-| 204 | 676 | Chelsea Dahlquist |
+| 201 | 686 | Chelsea Dahlquist |
+| 202 | 683 | Witty Builderfit |
+| 203 | 682 | Jumpy Dropper |
+| 204 | 677 | Speedy Liney |
 | 205 | 673 | Rebekah LeiAnn Bonsell |
 | 206 | 671 | ALFD |
 | 207 | 671 | Tamara Brown |
-| 208 | 660 | Keith Mathis |
+| 208 | 670 | Keith Mathis |
 | 209 | 659 | Timothy Danaher |
 | 210 | 656 | sent2bless34 |
 | 211 | 646 | Angela Renea Lester |
@@ -306,45 +306,45 @@
 | 298 | 501 | Marie Bremner |
 | 299 | 498 | Glitzy Curvebuilder |
 | 300 | 498 | Kimmie Kimms |
-| 301 | 497 | David Lutcher |
-| 302 | 497 | Sylvia Vasquez |
+| 301 | 497 | Sylvia Vasquez |
+| 302 | 497 | David Lutcher |
 | 303 | 494 | build master |
-| 304 | 493 | Cranky Pattern |
-| 305 | 493 | LtMooch |
+| 304 | 493 | LtMooch |
+| 305 | 493 | Cranky Pattern |
 | 306 | 493 | Brendan Sullivan |
-| 307 | 490 | Sarah Marie |
-| 308 | 489 | Cody Gates |
+| 307 | 492 | John Ramirez |
+| 308 | 490 | Sarah Marie |
 | 309 | 489 | Dawon Ksk Capers |
-| 310 | 488 | MommaKFC |
-| 311 | 487 | Letson Melissa |
-| 312 | 485 | Colleen Pinette |
-| 313 | 485 | SavageBooty98 |
-| 314 | 485 | Jaimie Lynn |
+| 310 | 489 | Cody Gates |
+| 311 | 488 | MommaKFC |
+| 312 | 487 | Letson Melissa |
+| 313 | 485 | Colleen Pinette |
+| 314 | 485 | Monica Donato |
 | 315 | 485 | Dino |
-| 316 | 485 | Monica Donato |
-| 317 | 484 | DoodleBug |
-| 318 | 483 | Renee Tucker |
-| 319 | 481 | John Kim |
-| 320 | 481 | Its me |
-| 321 | 480 | Garrett Burket |
-| 322 | 479 | Strig |
+| 316 | 485 | SavageBooty98 |
+| 317 | 485 | Jaimie Lynn |
+| 318 | 484 | DoodleBug |
+| 319 | 483 | Renee Tucker |
+| 320 | 481 | John Kim |
+| 321 | 481 | Its me |
+| 322 | 480 | Garrett Burket |
 | 323 | 479 | Melissa Bires Hussar |
-| 324 | 479 | Kimberly Davis |
-| 325 | 479 | Silly Align |
-| 326 | 477 | Cece Ibarra |
+| 324 | 479 | Silly Align |
+| 325 | 479 | Kimberly Davis |
+| 326 | 479 | Strig |
 | 327 | 477 | Danielle S Kester |
-| 328 | 475 | Spencer Lent |
-| 329 | 475 | GringaLinga |
-| 330 | 475 | Jo Kerley |
-| 331 | 473 | Dizzy Party |
-| 332 | 473 | Terri Rodela |
-| 333 | 472 | Spunky Winder |
-| 334 | 472 | Dione Winter Heilich |
-| 335 | 469 | Krie |
-| 336 | 468 | Shanae Grant |
-| 337 | 468 | Barrbaric |
-| 338 | 467 | MelSavage |
-| 339 | 466 | John Ramirez |
+| 328 | 477 | Cece Ibarra |
+| 329 | 475 | Jo Kerley |
+| 330 | 475 | GringaLinga |
+| 331 | 475 | Spencer Lent |
+| 332 | 473 | Dizzy Party |
+| 333 | 473 | Terri Rodela |
+| 334 | 472 | Spunky Winder |
+| 335 | 472 | Dione Winter Heilich |
+| 336 | 469 | Krie |
+| 337 | 468 | Shanae Grant |
+| 338 | 468 | Barrbaric |
+| 339 | 467 | MelSavage |
 | 340 | 466 | Joyce Harrell-chavis |
 | 341 | 464 | Cassie Smith |
 | 342 | 462 | Fresno Beotoni |
@@ -457,31 +457,31 @@
 | 449 | 390 | Rachel Nichole Henry |
 | 450 | 389 | Tanya Banks |
 | 451 | 388 | Delvison Rosario |
-| 452 | 387 | Itspaigebro |
+| 452 | 387 | Diane Byrd |
 | 453 | 387 | Jessie |
-| 454 | 387 | Diane Byrd |
+| 454 | 387 | Itspaigebro |
 | 455 | 386 | Rico Rico |
 | 456 | 386 | Tiffany Smith |
-| 457 | 385 | san |
-| 458 | 384 | Jamie Catlett |
-| 459 | 384 | Casey Hintenach |
-| 460 | 384 | Archie Ware |
-| 461 | 384 | Patty Lavigne Craddock |
-| 462 | 383 | Josh Riemer |
-| 463 | 382 | Herm Junior |
-| 464 | 382 | Nathan William |
-| 465 | 382 | Gina Bettikofer |
-| 466 | 381 | cheeseman |
-| 467 | 380 | Gerald Richard Franke |
+| 457 | 385 | Zesty Brickzone |
+| 458 | 385 | san |
+| 459 | 384 | Jamie Catlett |
+| 460 | 384 | Casey Hintenach |
+| 461 | 384 | Archie Ware |
+| 462 | 384 | Patty Lavigne Craddock |
+| 463 | 383 | Josh Riemer |
+| 464 | 382 | Herm Junior |
+| 465 | 382 | Nathan William |
+| 466 | 382 | Gina Bettikofer |
+| 467 | 381 | cheeseman |
 | 468 | 380 | Rachel Rogers |
-| 469 | 379 | Mrsbigdawg |
-| 470 | 379 | Jeremy Maubert |
-| 471 | 379 | Kurtis Manlow |
-| 472 | 379 | Austin James |
-| 473 | 378 | MomOf2Angels |
-| 474 | 378 | Zesty Brickzone |
-| 475 | 376 | Brave Slice |
-| 476 | 376 | Marci Sanders |
+| 469 | 380 | Gerald Richard Franke |
+| 470 | 379 | Kurtis Manlow |
+| 471 | 379 | Austin James |
+| 472 | 379 | Jeremy Maubert |
+| 473 | 379 | Mrsbigdawg |
+| 474 | 378 | MomOf2Angels |
+| 475 | 376 | Marci Sanders |
+| 476 | 376 | Brave Slice |
 | 477 | 375 | Barry Mac'Ockner |
 | 478 | 374 | Loony Bridgepiece |
 | 479 | 373 | Danielle Mae |
