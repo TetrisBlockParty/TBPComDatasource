@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 04:54:46 UTC
+# Standings for team4 as of 2026-02-26 04:55:23 UTC
 
 **Total Participants:** 2330
 
@@ -802,65 +802,65 @@
 | 794 | 214 | Gio Santiago |
 | 795 | 214 | Susan R. Wilson |
 | 796 | 213 | Ryan Knives Vanderpool |
-| 797 | 212 | Veronica Garza |
-| 798 | 211 | MOCHA |
-| 799 | 211 | Erin Kushner |
-| 800 | 211 | Flashy Blockpiece |
-| 801 | 211 | Dickie Rice |
-| 802 | 210 | Bryan Davidson |
+| 797 | 213 | KanVus |
+| 798 | 212 | Veronica Garza |
+| 799 | 211 | MOCHA |
+| 800 | 211 | Erin Kushner |
+| 801 | 211 | Flashy Blockpiece |
+| 802 | 211 | Dickie Rice |
 | 803 | 210 | Heather Stratos |
-| 804 | 210 | Timothy Allen |
+| 804 | 210 | Bryan Davidson |
 | 805 | 210 | Wacky Twister |
-| 806 | 210 | KanVus |
+| 806 | 210 | Timothy Allen |
 | 807 | 210 | Blue |
-| 808 | 209 | Tunia Torres |
+| 808 | 209 | Kametsunoyaiba |
 | 809 | 209 | Calvin Dennis |
 | 810 | 209 | Matthew Rodriguez |
-| 811 | 209 | Kametsunoyaiba |
+| 811 | 209 | Cheery Gridlock |
 | 812 | 209 | DinoNuggie |
-| 813 | 209 | Cheery Gridlock |
-| 814 | 209 | Ahleek Mitchell |
-| 815 | 209 | Quirky Puzzler |
+| 813 | 209 | Ahleek Mitchell |
+| 814 | 209 | Quirky Puzzler |
+| 815 | 209 | Tunia Torres |
 | 816 | 208 | Katie Walton |
 | 817 | 208 | Deanna Mc |
-| 818 | 207 | Nikki Wilson |
-| 819 | 207 | Josie Peña |
-| 820 | 206 | Tara |
-| 821 | 206 | Tina |
+| 818 | 207 | Josie Peña |
+| 819 | 207 | Nikki Wilson |
+| 820 | 206 | Snippy |
+| 821 | 206 | Morgan Patrick |
 | 822 | 206 | Jim Gray |
-| 823 | 206 | Morgan Patrick |
-| 824 | 206 | Snippy |
+| 823 | 206 | Tina |
+| 824 | 206 | Tara |
 | 825 | 205 | Kristin Rose Nutter |
-| 826 | 205 | Tory Miller |
-| 827 | 205 | Alicia Lux Arnst |
-| 828 | 205 | Courtney Angel |
-| 829 | 204 | Susan Purnell |
-| 830 | 204 | Wendy De Kam |
-| 831 | 203 | Brad Caldwell |
-| 832 | 203 | Tabitha Henson |
-| 833 | 203 | Shy |
-| 834 | 203 | Shiny Wipefit |
-| 835 | 203 | Cashmere |
+| 826 | 205 | Alicia Lux Arnst |
+| 827 | 205 | Courtney Angel |
+| 828 | 205 | Tory Miller |
+| 829 | 204 | Wendy De Kam |
+| 830 | 204 | Susan Purnell |
+| 831 | 203 | Tabitha Henson |
+| 832 | 203 | Brad Caldwell |
+| 833 | 203 | Shiny Wipefit |
+| 834 | 203 | Cashmere |
+| 835 | 203 | Shy |
 | 836 | 202 | Jasmine Castro |
 | 837 | 202 | Snippy Clearer |
 | 838 | 202 | Blaze Butler |
-| 839 | 202 | Caitlyn Brown |
+| 839 | 202 | Sarah Tenenbaum |
 | 840 | 202 | Bigmamatetrisqueen |
-| 841 | 202 | Sarah Tenenbaum |
-| 842 | 201 | Somnium Era |
-| 843 | 201 | Kristin MacDonald |
-| 844 | 201 | Harvey Mejia |
-| 845 | 201 | LunarCat |
+| 841 | 202 | Caitlyn Brown |
+| 842 | 201 | Carla Harris |
+| 843 | 201 | LunarCat |
+| 844 | 201 | Hasty Fitzone |
+| 845 | 201 | Kristin MacDonald |
 | 846 | 201 | Kerlyne Kay Toussaint Smith |
-| 847 | 201 | Hasty Fitzone |
-| 848 | 201 | Carla Harris |
+| 847 | 201 | Somnium Era |
+| 848 | 201 | Harvey Mejia |
 | 849 | 200 | Denatrious Perry |
-| 850 | 200 | No Strings Attached Ra |
-| 851 | 200 | Bruce Gal |
-| 852 | 200 | Krista Buffaloe |
-| 853 | 200 | Molly Ananda Rickerson |
-| 854 | 200 | Kai Huang |
-| 855 | 200 | Sarah Grundisch |
+| 850 | 200 | Sarah Grundisch |
+| 851 | 200 | Kai Huang |
+| 852 | 200 | Molly Ananda Rickerson |
+| 853 | 200 | Krista Buffaloe |
+| 854 | 200 | No Strings Attached Ra |
+| 855 | 200 | Bruce Gal |
 | 856 | 200 | Chipper Buildout |
 | 857 | 199 | Griffen |
 | 858 | 198 | Caity Migliaccio |
@@ -1954,28 +1954,28 @@
 | 1946 | 29 | Amanda Gann |
 | 1947 | 29 | Kathy Garcia |
 | 1948 | 29 | Witty Snapper |
-| 1949 | 28 | Funky Zonepiece |
-| 1950 | 28 | Lashay Lipscomb |
-| 1951 | 28 | Charles D Rexrode Jr |
-| 1952 | 28 | Jessi Gooch |
-| 1953 | 28 | Slinky Matcher |
-| 1954 | 28 | Sunny babes |
-| 1955 | 28 | Shiny Brickline |
-| 1956 | 28 | Lazy Stacker |
-| 1957 | 27 | Julie Foulks Porter |
-| 1958 | 27 | Breezy Linkfall |
-| 1959 | 27 | Bouncy Hitter |
-| 1960 | 27 | Jennifer Pfeiffer Johnson |
-| 1961 | 27 | Karolina Koolin |
-| 1962 | 27 | Perach Alima Shoa |
-| 1963 | 27 | Michelle Sweeney |
-| 1964 | 27 | BlueCupCakes |
-| 1965 | 27 | Nutty Grabber |
-| 1966 | 27 | LaLa Short |
-| 1967 | 27 | drc81 |
-| 1968 | 26 | FabX |
-| 1969 | 26 | Deb Horwath |
-| 1970 | 26 | Carolyn Figueroa |
+| 1949 | 29 | Carolyn Figueroa |
+| 1950 | 28 | Funky Zonepiece |
+| 1951 | 28 | Lashay Lipscomb |
+| 1952 | 28 | Charles D Rexrode Jr |
+| 1953 | 28 | Jessi Gooch |
+| 1954 | 28 | Slinky Matcher |
+| 1955 | 28 | Sunny babes |
+| 1956 | 28 | Shiny Brickline |
+| 1957 | 28 | Lazy Stacker |
+| 1958 | 27 | Julie Foulks Porter |
+| 1959 | 27 | Breezy Linkfall |
+| 1960 | 27 | Bouncy Hitter |
+| 1961 | 27 | Jennifer Pfeiffer Johnson |
+| 1962 | 27 | Karolina Koolin |
+| 1963 | 27 | Perach Alima Shoa |
+| 1964 | 27 | Michelle Sweeney |
+| 1965 | 27 | BlueCupCakes |
+| 1966 | 27 | Nutty Grabber |
+| 1967 | 27 | LaLa Short |
+| 1968 | 27 | drc81 |
+| 1969 | 26 | FabX |
+| 1970 | 26 | Deb Horwath |
 | 1971 | 26 | Jordan Ball |
 | 1972 | 26 | Hotblockboi954 |
 | 1973 | 26 | Korn Starch |
