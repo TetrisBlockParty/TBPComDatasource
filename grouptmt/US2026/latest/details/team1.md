@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 05:16:45 UTC
+# Standings for team1 as of 2026-02-26 05:17:23 UTC
 
 **Total Participants:** 2618
 
@@ -73,7 +73,7 @@
 | 65 | 1493 | Snappy Swiper |
 | 66 | 1492 | Karin Gillen |
 | 67 | 1479 | TSwag |
-| 68 | 1426 | Hasbro Bros |
+| 68 | 1438 | Hasbro Bros |
 | 69 | 1414 | Kristen Roles Robben |
 | 70 | 1403 | Kristen Gideon |
 | 71 | 1396 | Redlicious 1 |
@@ -232,11 +232,11 @@
 | 224 | 612 | Tana |
 | 225 | 610 | Nadine Velardo |
 | 226 | 607 | David Miller |
-| 227 | 596 | Rebekah LeiAnn Bonsell |
-| 228 | 596 | Steve Schneider |
-| 229 | 594 | Adele Rahman |
-| 230 | 589 | Daring Fitclear |
-| 231 | 583 | Chaste Minor |
+| 227 | 602 | Chaste Minor |
+| 228 | 596 | Rebekah LeiAnn Bonsell |
+| 229 | 596 | Steve Schneider |
+| 230 | 594 | Adele Rahman |
+| 231 | 589 | Daring Fitclear |
 | 232 | 580 | Test |
 | 233 | 578 | Anaid Sanchez |
 | 234 | 577 | MomMom |
