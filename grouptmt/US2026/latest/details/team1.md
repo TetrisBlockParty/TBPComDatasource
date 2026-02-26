@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 08:37:24 UTC
+# Standings for team1 as of 2026-02-26 08:38:43 UTC
 
 **Total Participants:** 2647
 
@@ -151,12 +151,12 @@
 | 143 | 901 | Cartier |
 | 144 | 901 | Melissa Lemmon |
 | 145 | 891 | Flashy Rotator |
-| 146 | 888 | Kimberly Garcia |
-| 147 | 879 | Dandy Basegrid |
-| 148 | 862 | Christy Jones |
-| 149 | 862 | April Carroll |
-| 150 | 859 | Tanya Carpenter-Reynolds |
-| 151 | 850 | Susanna Guerry |
+| 146 | 888 | Susanna Guerry |
+| 147 | 888 | Kimberly Garcia |
+| 148 | 879 | Dandy Basegrid |
+| 149 | 862 | Christy Jones |
+| 150 | 862 | April Carroll |
+| 151 | 859 | Tanya Carpenter-Reynolds |
 | 152 | 848 | Evie Khalil |
 | 153 | 824 | Debbie Kane |
 | 154 | 818 | .running. |
