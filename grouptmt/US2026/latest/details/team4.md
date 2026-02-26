@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 07:52:46 UTC
+# Standings for team4 as of 2026-02-26 07:53:24 UTC
 
 **Total Participants:** 2353
 
@@ -33,8 +33,8 @@
 | 25 | 2427 | Ayanna Soto |
 | 26 | 2413 | Christina LR |
 | 27 | 2390 | Robin Getchel |
-| 28 | 2343 | Cassie Michaux |
-| 29 | 2326 | Dustin Robert |
+| 28 | 2350 | Dustin Robert |
+| 29 | 2343 | Cassie Michaux |
 | 30 | 2302 | Aden Moss |
 | 31 | 2288 | Johnny Yang Cotter |
 | 32 | 2218 | Landon Keith Graffeo |
@@ -70,11 +70,11 @@
 | 62 | 1619 | Denia Deni |
 | 63 | 1617 | Anthony Bryan Riva |
 | 64 | 1599 | Mona Sharma |
-| 65 | 1590 | Jewell Urban |
-| 66 | 1582 | Korcoran Smith |
-| 67 | 1563 | Sammy Noguera |
-| 68 | 1555 | Kimberly Love |
-| 69 | 1554 | Chilly Line |
+| 65 | 1594 | Chilly Line |
+| 66 | 1590 | Jewell Urban |
+| 67 | 1582 | Korcoran Smith |
+| 68 | 1563 | Sammy Noguera |
+| 69 | 1555 | Kimberly Love |
 | 70 | 1508 | Juggalo |
 | 71 | 1498 | Pee |
 | 72 | 1486 | Justin Hannigan |
@@ -101,15 +101,15 @@
 | 93 | 1171 | Tracey Lehmann |
 | 94 | 1143 | Denise Carlson |
 | 95 | 1128 | Destiney Carter |
-| 96 | 1121 | BertMofo |
-| 97 | 1116 | loulou |
-| 98 | 1089 | Monica Daley |
-| 99 | 1087 | Amy Suckarieh |
-| 100 | 1087 | Jeremy Steines |
-| 101 | 1086 | quicksand420 |
-| 102 | 1084 | blasterB |
-| 103 | 1082 | Dion Crommarty |
-| 104 | 1078 | Sam Bishop |
+| 96 | 1128 | Sam Bishop |
+| 97 | 1121 | BertMofo |
+| 98 | 1116 | loulou |
+| 99 | 1089 | Monica Daley |
+| 100 | 1087 | Amy Suckarieh |
+| 101 | 1087 | Jeremy Steines |
+| 102 | 1086 | quicksand420 |
+| 103 | 1084 | blasterB |
+| 104 | 1082 | Dion Crommarty |
 | 105 | 1069 | Carrie Brian |
 | 106 | 1065 | Edward White |
 | 107 | 1064 | Judy Cox |
