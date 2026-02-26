@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 11:58:45 UTC
+# Standings for team1 as of 2026-02-26 11:59:24 UTC
 
 **Total Participants:** 2659
 
@@ -263,7 +263,7 @@
 | 255 | 594 | Angela Spann |
 | 256 | 591 | Sunny Shift |
 | 257 | 589 | Daring Fitclear |
-| 258 | 583 | Spunky Winder |
+| 258 | 586 | Spunky Winder |
 | 259 | 582 | Jen Nystrom |
 | 260 | 582 | Anaid Sanchez |
 | 261 | 581 | Kurtis Manlow |
@@ -302,10 +302,10 @@
 | 294 | 533 | Nate Price |
 | 295 | 531 | Billie Ann Eason |
 | 296 | 528 | Joyce Harrell-chavis |
-| 297 | 526 | Sassy Builderline |
-| 298 | 526 | Jessie Lynn |
-| 299 | 524 | Ananda Mendez |
-| 300 | 523 | Frizliz17 |
+| 297 | 527 | Frizliz17 |
+| 298 | 526 | Sassy Builderline |
+| 299 | 526 | Jessie Lynn |
+| 300 | 524 | Ananda Mendez |
 | 301 | 523 | Poppy Riserpiece |
 | 302 | 523 | LD1 |
 | 303 | 522 | Gabriel Morales |
@@ -318,17 +318,17 @@
 | 310 | 505 | Madbull |
 | 311 | 505 | Bird Person |
 | 312 | 504 | David Lutcher |
-| 313 | 503 | Paula Martin |
-| 314 | 503 | Rayline M Bradshaw |
-| 315 | 501 | Mark Smith |
-| 316 | 501 | Marie Bremner |
+| 313 | 503 | Rayline M Bradshaw |
+| 314 | 503 | Paula Martin |
+| 315 | 501 | Marie Bremner |
+| 316 | 501 | Mark Smith |
 | 317 | 498 | Glitzy Curvebuilder |
 | 318 | 498 | Kimmie Kimms |
 | 319 | 497 | Sylvia Vasquez |
 | 320 | 494 | build master |
-| 321 | 493 | Brendan Sullivan |
-| 322 | 493 | LtMooch |
-| 323 | 493 | Cranky Pattern |
+| 321 | 493 | Cranky Pattern |
+| 322 | 493 | Brendan Sullivan |
+| 323 | 493 | LtMooch |
 | 324 | 490 | Sarah Marie |
 | 325 | 489 | Cody Gates |
 | 326 | 489 | Dawon Ksk Capers |
@@ -1007,14 +1007,14 @@
 | 999 | 184 | Alex Ipad |
 | 1000 | 184 | Nellie Cummings |
 | 1001 | 183 | Mike Hobby |
-| 1002 | 182 | Charla Pross-Fugleberg |
-| 1003 | 182 | Prudence Muzondo |
-| 1004 | 182 | Kathy Murphy |
-| 1005 | 182 | Stacy |
-| 1006 | 182 | Cynthia Pool |
-| 1007 | 181 | Julie Marie Hernandez |
-| 1008 | 181 | Calli Lynn Hairr |
-| 1009 | 181 | Toons |
+| 1002 | 183 | Toons |
+| 1003 | 182 | Charla Pross-Fugleberg |
+| 1004 | 182 | Prudence Muzondo |
+| 1005 | 182 | Kathy Murphy |
+| 1006 | 182 | Stacy |
+| 1007 | 182 | Cynthia Pool |
+| 1008 | 181 | Julie Marie Hernandez |
+| 1009 | 181 | Calli Lynn Hairr |
 | 1010 | 181 | Matthew Matoushek |
 | 1011 | 181 | Shannon Hawkins |
 | 1012 | 180 | Sharon Warren |
