@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 07:30:44 UTC
+# Standings for team1 as of 2026-02-26 07:31:23 UTC
 
 **Total Participants:** 2639
 
@@ -48,7 +48,7 @@
 | 40 | 2010 | Christina Graham |
 | 41 | 1997 | Brenda Stewart |
 | 42 | 1974 | Cynthia Bradley |
-| 43 | 1971 | Marianne Louise West |
+| 43 | 1973 | Marianne Louise West |
 | 44 | 1926 | Bhelle Sumile |
 | 45 | 1894 | Rahna Underwood |
 | 46 | 1889 | Lola Adkhambekovna |
@@ -60,9 +60,9 @@
 | 52 | 1749 | Tyler Alcock |
 | 53 | 1738 | Trippy Redd |
 | 54 | 1705 | Adam Byrd |
-| 55 | 1687 | Tater |
-| 56 | 1666 | Michelle Nicole |
-| 57 | 1664 | june october |
+| 55 | 1692 | june october |
+| 56 | 1687 | Tater |
+| 57 | 1666 | Michelle Nicole |
 | 58 | 1640 | Tipsy Column |
 | 59 | 1634 | Spunky Piecebuilder |
 | 60 | 1632 | Rachael |
@@ -915,21 +915,21 @@
 | 907 | 199 | Sunny Catcher |
 | 908 | 198 | Kayla Deaton |
 | 909 | 198 | Tiffany N Danny Martinez |
-| 910 | 198 | Tom Jaramillo |
-| 911 | 198 | Angel Albright |
-| 912 | 198 | Connie Butler |
-| 913 | 198 | Alyssa Ingram |
+| 910 | 198 | Angel Albright |
+| 911 | 198 | Connie Butler |
+| 912 | 198 | Alyssa Ingram |
+| 913 | 198 | Tom Jaramillo |
 | 914 | 197 | Cool Towerzone |
-| 915 | 197 | Alexis |
-| 916 | 197 | Dake Axton Shields |
-| 917 | 196 | Jay Tressler |
-| 918 | 196 | Nicole Little |
-| 919 | 196 | Spicy Brickline |
-| 920 | 196 | lambo88 |
-| 921 | 196 | Patience D. Williams |
-| 922 | 196 | ghxsty |
-| 923 | 195 | Sara Buuck |
-| 924 | 195 | Scott Tracie Kiser |
+| 915 | 197 | Scott Tracie Kiser |
+| 916 | 197 | Alexis |
+| 917 | 197 | Dake Axton Shields |
+| 918 | 196 | Patience D. Williams |
+| 919 | 196 | Nicole Little |
+| 920 | 196 | Spicy Brickline |
+| 921 | 196 | lambo88 |
+| 922 | 196 | Jay Tressler |
+| 923 | 196 | ghxsty |
+| 924 | 195 | Sara Buuck |
 | 925 | 194 | Traci Schmeer |
 | 926 | 194 | Amanda Grace Agee |
 | 927 | 194 | Margie Olivas |
@@ -2351,60 +2351,60 @@
 | 2343 | 17 | Jeremy Davidson |
 | 2344 | 17 | Mine |
 | 2345 | 17 | White Mike |
-| 2346 | 17 | Sancho Sancho Clos |
-| 2347 | 17 | Deanna Revell |
-| 2348 | 17 | Snazzy Snapgrid |
-| 2349 | 17 | Brittnie Duty |
-| 2350 | 17 | Karen McDannell |
-| 2351 | 17 | king gorky |
-| 2352 | 17 | Alicia Brown |
-| 2353 | 16 | Natasha White |
-| 2354 | 16 | 4CNM4 |
-| 2355 | 16 | Michael Delancy |
-| 2356 | 16 | Danielle Richards |
-| 2357 | 16 | Petty matchgrid |
-| 2358 | 16 | Nicole Voorhees |
-| 2359 | 16 | Carley Sage |
-| 2360 | 16 | Yoenia De La Torre Lopez |
-| 2361 | 16 | Chirpy Brickmatch |
-| 2362 | 16 | Fancy Towerfit |
-| 2363 | 16 | Slinky Glidepiece |
-| 2364 | 16 | Inventor AAG3csff |
-| 2365 | 16 | Tallfella |
-| 2366 | 16 | NoLess NoWorries |
-| 2367 | 15 | Jc Tom |
-| 2368 | 15 | Jennifer Gunning |
-| 2369 | 15 | Debbie Scott Smith |
-| 2370 | 15 | Wambo |
-| 2371 | 15 | Latoya Cain |
-| 2372 | 15 | MJBB |
-| 2373 | 15 | Coy Roberts |
-| 2374 | 15 | Tina Marie |
-| 2375 | 15 | Happy |
-| 2376 | 15 | Jana Sebring-Stevens |
-| 2377 | 15 | Snippy Rumbler |
-| 2378 | 15 | Debra Geathers |
-| 2379 | 15 | Jolly Joy |
-| 2380 | 15 | BigBabie Onsite |
-| 2381 | 15 | Michael Doyle |
-| 2382 | 15 | Jessica Lynn Young |
-| 2383 | 15 | Tammy Brown |
-| 2384 | 15 | Marcus Bee |
-| 2385 | 15 | Perky Matchpiece |
-| 2386 | 15 | Smiley Fallzone |
-| 2387 | 15 | Rustam Kerimov |
-| 2388 | 15 | Swanky Gridzone |
-| 2389 | 15 | Frilly Party |
-| 2390 | 15 | Ron L Thompson |
+| 2346 | 17 | Deanna Revell |
+| 2347 | 17 | Snazzy Snapgrid |
+| 2348 | 17 | Karen McDannell |
+| 2349 | 17 | Alicia Brown |
+| 2350 | 17 | king gorky |
+| 2351 | 17 | Brittnie Duty |
+| 2352 | 17 | Sancho Sancho Clos |
+| 2353 | 16 | Tallfella |
+| 2354 | 16 | Natasha White |
+| 2355 | 16 | 4CNM4 |
+| 2356 | 16 | Michael Delancy |
+| 2357 | 16 | Chirpy Brickmatch |
+| 2358 | 16 | Fancy Towerfit |
+| 2359 | 16 | Danielle Richards |
+| 2360 | 16 | Petty matchgrid |
+| 2361 | 16 | Slinky Glidepiece |
+| 2362 | 16 | Vito Russo |
+| 2363 | 16 | Nicole Voorhees |
+| 2364 | 16 | Yoenia De La Torre Lopez |
+| 2365 | 16 | Carley Sage |
+| 2366 | 16 | Inventor AAG3csff |
+| 2367 | 16 | NoLess NoWorries |
+| 2368 | 15 | Jolly Joy |
+| 2369 | 15 | Jc Tom |
+| 2370 | 15 | MJBB |
+| 2371 | 15 | Debbie Scott Smith |
+| 2372 | 15 | Happy |
+| 2373 | 15 | Wambo |
+| 2374 | 15 | Latoya Cain |
+| 2375 | 15 | Debra Geathers |
+| 2376 | 15 | Coy Roberts |
+| 2377 | 15 | Jennifer Gunning |
+| 2378 | 15 | Tina Marie |
+| 2379 | 15 | Jana Sebring-Stevens |
+| 2380 | 15 | Snippy Rumbler |
+| 2381 | 15 | BigBabie Onsite |
+| 2382 | 15 | Marcus Bee |
+| 2383 | 15 | Michael Doyle |
+| 2384 | 15 | Jessica Lynn Young |
+| 2385 | 15 | Tammy Brown |
+| 2386 | 15 | Perky Matchpiece |
+| 2387 | 15 | Smiley Fallzone |
+| 2388 | 15 | Rustam Kerimov |
+| 2389 | 15 | Swanky Gridzone |
+| 2390 | 15 | Frilly Party |
 | 2391 | 15 | John Austin |
-| 2392 | 15 | Ashland Raynor |
-| 2393 | 14 | PJMouse |
-| 2394 | 14 | Ishmail Huett |
-| 2395 | 14 | Gary Maialetti |
-| 2396 | 14 | Veronica Carter |
-| 2397 | 14 | Sarchiapone D James |
-| 2398 | 14 | Nikki Bemis |
-| 2399 | 14 | Vito Russo |
+| 2392 | 15 | Ron L Thompson |
+| 2393 | 15 | Ashland Raynor |
+| 2394 | 14 | Nikki Bemis |
+| 2395 | 14 | Ishmail Huett |
+| 2396 | 14 | Gary Maialetti |
+| 2397 | 14 | Veronica Carter |
+| 2398 | 14 | Sarchiapone D James |
+| 2399 | 14 | PJMouse |
 | 2400 | 14 | Mike Broughton |
 | 2401 | 14 | Shawn Weber |
 | 2402 | 14 | Travis Haynes |
