@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-26 08:02:44 UTC
+# Standings for team3 as of 2026-02-26 08:03:24 UTC
 
 **Total Participants:** 3899
 
@@ -377,12 +377,12 @@
 | 369 | 647 | Amber Glover |
 | 370 | 645 | Sabrina Mansfield |
 | 371 | 645 | Roary Danner |
-| 372 | 642 | Rania Zaqout |
-| 373 | 641 | Dave Herzog |
-| 374 | 641 | Mcathen |
-| 375 | 640 | Cynthia Herrmann Egland |
-| 376 | 638 | MsBee |
-| 377 | 638 | Christian Werndl |
+| 372 | 645 | Christian Werndl |
+| 373 | 642 | Rania Zaqout |
+| 374 | 641 | Dave Herzog |
+| 375 | 641 | Mcathen |
+| 376 | 640 | Cynthia Herrmann Egland |
+| 377 | 638 | MsBee |
 | 378 | 633 | Sarah Moyer |
 | 379 | 627 | Dapper Snap |
 | 380 | 627 | Scott Carleton |
@@ -398,7 +398,7 @@
 | 390 | 612 | Linda Draper |
 | 391 | 612 | Luciana Braganca Vieira |
 | 392 | 610 | Paula Little |
-| 393 | 608 | Angel Miller |
+| 393 | 609 | Angel Miller |
 | 394 | 608 | Jazzy Spinfit |
 | 395 | 608 | keni |
 | 396 | 607 | Sabrina Hardrick |
@@ -434,21 +434,21 @@
 | 426 | 567 | Eboni Starr |
 | 427 | 565 | Sleepy |
 | 428 | 564 | Geoffrey Nash |
-| 429 | 560 | Rick Poppen |
-| 430 | 559 | Cindy Le |
+| 429 | 560 | Tegan Chapman |
+| 430 | 560 | Rick Poppen |
 | 431 | 559 | Karen Butler-Moore |
-| 432 | 557 | Skinny Baldez |
-| 433 | 555 | sofaking |
-| 434 | 555 | Maggie |
-| 435 | 554 | Tegan Chapman |
+| 432 | 559 | Cindy Le |
+| 433 | 557 | Skinny Baldez |
+| 434 | 555 | sofaking |
+| 435 | 555 | Maggie |
 | 436 | 554 | Plucky Frame |
 | 437 | 553 | Amber Evans |
 | 438 | 549 | Chummy Caster |
 | 439 | 549 | Tay |
 | 440 | 549 | luluraine |
 | 441 | 548 | Kelly |
-| 442 | 546 | Randy Clevenger |
-| 443 | 546 | Kathleen Taylor |
+| 442 | 546 | Kathleen Taylor |
+| 443 | 546 | Randy Clevenger |
 | 444 | 545 | Dannie Litchard |
 | 445 | 545 | Ashley Lynn Marchese |
 | 446 | 544 | Jojo M |
@@ -1074,24 +1074,24 @@
 | 1066 | 276 | Crimson |
 | 1067 | 276 | Sumner Lee |
 | 1068 | 276 | Nani K Porter |
-| 1069 | 275 | Sarah Clark |
-| 1070 | 275 | Lush Edgefit |
-| 1071 | 275 | Melissa Parlow-Callaway |
-| 1072 | 275 | Nichole Greene |
-| 1073 | 275 | Sara McDaniel |
-| 1074 | 275 | Jesseca Hunsinger |
-| 1075 | 275 | Clever Clearbuilder |
-| 1076 | 275 | Bernice Smiley |
-| 1077 | 275 | Anthony Jackson |
-| 1078 | 274 | Jae Grisham |
-| 1079 | 274 | Lisa Lisa |
-| 1080 | 273 | Courtney Donovan |
-| 1081 | 273 | Chantal Benee Gaines |
-| 1082 | 273 | Michael Latasha Gray |
-| 1083 | 273 | Mandy |
-| 1084 | 273 | Elena Sanchez Damian |
-| 1085 | 273 | Ma Dolores Estrada A |
-| 1086 | 272 | Frisky Gridmatch |
+| 1069 | 276 | Frisky Gridmatch |
+| 1070 | 275 | Sarah Clark |
+| 1071 | 275 | Lush Edgefit |
+| 1072 | 275 | Melissa Parlow-Callaway |
+| 1073 | 275 | Nichole Greene |
+| 1074 | 275 | Sara McDaniel |
+| 1075 | 275 | Jesseca Hunsinger |
+| 1076 | 275 | Clever Clearbuilder |
+| 1077 | 275 | Bernice Smiley |
+| 1078 | 275 | Anthony Jackson |
+| 1079 | 274 | Jae Grisham |
+| 1080 | 274 | Lisa Lisa |
+| 1081 | 273 | Courtney Donovan |
+| 1082 | 273 | Chantal Benee Gaines |
+| 1083 | 273 | Michael Latasha Gray |
+| 1084 | 273 | Mandy |
+| 1085 | 273 | Elena Sanchez Damian |
+| 1086 | 273 | Ma Dolores Estrada A |
 | 1087 | 272 | Raylene McClain |
 | 1088 | 272 | Betsey Hayes-Solano |
 | 1089 | 272 | Deseree Ewing |
@@ -2485,13 +2485,13 @@
 | 2477 | 75 | Tyshaya Ford |
 | 2478 | 75 | Leeann Couch |
 | 2479 | 75 | Carlos Cota |
-| 2480 | 75 | Jessica Saxe |
-| 2481 | 74 | Twisty Breaker |
-| 2482 | 74 | Ashton Marie |
-| 2483 | 74 | Latrease Lipsey |
-| 2484 | 74 | Sara Selvidge |
-| 2485 | 74 | Cool Blockpiece |
-| 2486 | 74 | Vick Dee |
+| 2480 | 75 | Vick Dee |
+| 2481 | 75 | Jessica Saxe |
+| 2482 | 74 | Twisty Breaker |
+| 2483 | 74 | Ashton Marie |
+| 2484 | 74 | Latrease Lipsey |
+| 2485 | 74 | Sara Selvidge |
+| 2486 | 74 | Cool Blockpiece |
 | 2487 | 74 | Delon Wilson |
 | 2488 | 74 | Annahbellah Honkala |
 | 2489 | 74 | Misha Sanders |
@@ -2513,8 +2513,8 @@
 | 2505 | 73 | Mary Swearengin |
 | 2506 | 73 | TheNikkiJ |
 | 2507 | 73 | Christianne Herndon |
-| 2508 | 73 | Devin Woodard |
-| 2509 | 73 | Deidre Little |
+| 2508 | 73 | Deidre Little |
+| 2509 | 73 | Devin Woodard |
 | 2510 | 73 | Weesie |
 | 2511 | 72 | Fancy Brick |
 | 2512 | 72 | NCGal |
