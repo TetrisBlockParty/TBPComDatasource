@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 01:32:45 UTC
+# Standings for team4 as of 2026-02-26 01:33:25 UTC
 
 **Total Participants:** 2297
 
@@ -40,7 +40,7 @@
 | 32 | 2092 | Rachel Anne |
 | 33 | 2082 | Dustin Robert |
 | 34 | 2052 | Rebecca Moulton Pinciaro |
-| 35 | 2007 | Jae Job |
+| 35 | 2015 | Jae Job |
 | 36 | 1962 | Cool Buildout |
 | 37 | 1897 | Courtney Cicoria |
 | 38 | 1850 | Shane Kalamata Platoon |
@@ -82,7 +82,7 @@
 | 74 | 1313 | Chilly Line |
 | 75 | 1284 | Chaz Duncan |
 | 76 | 1265 | Carolyn Wallace |
-| 77 | 1262 | TeeJ |
+| 77 | 1264 | TeeJ |
 | 78 | 1253 | Avy Absol |
 | 79 | 1247 | Heather Tushner |
 | 80 | 1225 | Kimyatta Cavin |
