@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 11:28:44 UTC
+# Standings for team1 as of 2026-02-26 11:29:22 UTC
 
 **Total Participants:** 2657
 
@@ -71,7 +71,7 @@
 | 63 | 1594 | Drew Magnus |
 | 64 | 1537 | Stef Hu |
 | 65 | 1531 | Robert Benito |
-| 66 | 1502 | TSwag |
+| 66 | 1514 | TSwag |
 | 67 | 1497 | Cheeky Twistslam |
 | 68 | 1493 | Snappy Swiper |
 | 69 | 1492 | Karin Gillen |
@@ -96,13 +96,13 @@
 | 88 | 1242 | Amy Griffith |
 | 89 | 1241 | Tawnya Peltonen |
 | 90 | 1234 | Hellsin |
-| 91 | 1228 | Shalene Frederick Autrey |
-| 92 | 1225 | Jason Jones |
-| 93 | 1217 | Amber Stoker |
-| 94 | 1210 | Kellie |
-| 95 | 1209 | Loony Fitzone |
-| 96 | 1195 | Phu ckalldems |
-| 97 | 1189 | Desiree Deschaine Havee |
+| 91 | 1229 | Desiree Deschaine Havee |
+| 92 | 1228 | Shalene Frederick Autrey |
+| 93 | 1225 | Jason Jones |
+| 94 | 1217 | Amber Stoker |
+| 95 | 1210 | Kellie |
+| 96 | 1209 | Loony Fitzone |
+| 97 | 1195 | Phu ckalldems |
 | 98 | 1188 | Francesca Gee |
 | 99 | 1175 | Erin Rosberg |
 | 100 | 1170 | Sweet Baker |
@@ -301,10 +301,10 @@
 | 293 | 523 | LD1 |
 | 294 | 523 | Poppy Riserpiece |
 | 295 | 522 | Gabriel Morales |
-| 296 | 520 | Connie |
-| 297 | 518 | Betsy |
-| 298 | 516 | Kristen Meehan Wangerien |
-| 299 | 516 | Sassy Builderline |
+| 296 | 521 | Sassy Builderline |
+| 297 | 520 | Connie |
+| 298 | 518 | Betsy |
+| 299 | 516 | Kristen Meehan Wangerien |
 | 300 | 513 | Colena Davenport |
 | 301 | 513 | Tyler Hertzog |
 | 302 | 508 | Frizliz17 |
@@ -1499,47 +1499,47 @@
 | 1491 | 91 | Frisky Liney |
 | 1492 | 91 | Peachy Balanceblock |
 | 1493 | 90 | Jill Nadeau Caron |
-| 1494 | 90 | Jeremy Horrach |
-| 1495 | 90 | Jesse Stephenson |
-| 1496 | 90 | Grace Gieroski |
+| 1494 | 90 | Grace Gieroski |
+| 1495 | 90 | Jeremy Horrach |
+| 1496 | 90 | Jesse Stephenson |
 | 1497 | 90 | Amy Mancini |
 | 1498 | 90 | Maria Maloney |
 | 1499 | 90 | Consuelo Lopez |
 | 1500 | 90 | Jam |
 | 1501 | 90 | Harry Matthew |
-| 1502 | 89 | Kenton Billings |
-| 1503 | 89 | FableGray |
+| 1502 | 89 | Amy Hoats |
+| 1503 | 89 | Home Plate |
 | 1504 | 89 | 杜庭維 |
-| 1505 | 89 | Amy Hoats |
+| 1505 | 89 | Kenton Billings |
 | 1506 | 89 | Channis |
 | 1507 | 89 | Scott Hevenor |
-| 1508 | 89 | Home Plate |
-| 1509 | 88 | Kandie Marie |
-| 1510 | 88 | Tom Sackett |
+| 1508 | 89 | FableGray |
+| 1509 | 88 | Tom Sackett |
+| 1510 | 88 | Frothy Grid |
 | 1511 | 88 | Anna Bennett |
 | 1512 | 88 | Allison |
-| 1513 | 88 | Gewb |
-| 1514 | 88 | James Best |
-| 1515 | 87 | Sanita Latham |
-| 1516 | 87 | Delia Cheatwood |
-| 1517 | 87 | Lena Kuprina |
-| 1518 | 87 | Jolly Buildsnap |
-| 1519 | 86 | Charles Holland |
-| 1520 | 86 | Silly Patternblock |
-| 1521 | 86 | Stephanie Mounts |
-| 1522 | 86 | Semaj Johnson |
-| 1523 | 86 | Frothy Grid |
+| 1513 | 88 | Kandie Marie |
+| 1514 | 88 | Gewb |
+| 1515 | 88 | James Best |
+| 1516 | 87 | Sanita Latham |
+| 1517 | 87 | Delia Cheatwood |
+| 1518 | 87 | Lena Kuprina |
+| 1519 | 87 | Jolly Buildsnap |
+| 1520 | 86 | Charles Holland |
+| 1521 | 86 | Silly Patternblock |
+| 1522 | 86 | Stephanie Mounts |
+| 1523 | 86 | Semaj Johnson |
 | 1524 | 85 | Vanessa G Keill |
 | 1525 | 85 | Allen Hill |
 | 1526 | 85 | Larina Cherie Johnson |
-| 1527 | 85 | Bwebb Bryan |
-| 1528 | 85 | Bob Thorp |
+| 1527 | 85 | Bob Thorp |
+| 1528 | 85 | Bwebb Bryan |
 | 1529 | 84 | Ashley Freeman |
 | 1530 | 84 | Teresa Anne Shellhammer |
 | 1531 | 84 | Moneybags |
 | 1532 | 84 | Purp |
-| 1533 | 84 | Sarah Mason |
-| 1534 | 84 | Cielo Rodriguez |
+| 1533 | 84 | Cielo Rodriguez |
+| 1534 | 84 | Sarah Mason |
 | 1535 | 83 | Snazzy Gridlock |
 | 1536 | 83 | Andrew Stepp |
 | 1537 | 83 | Lavon Usher |
