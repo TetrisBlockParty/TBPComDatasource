@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 11:40:46 UTC
+# Standings for team4 as of 2026-02-26 11:41:24 UTC
 
 **Total Participants:** 2367
 
@@ -76,8 +76,8 @@
 | 68 | 1643 | A5! |
 | 69 | 1634 | Chilly Line |
 | 70 | 1632 | Berklie Apedaile |
-| 71 | 1599 | Mona Sharma |
-| 72 | 1584 | Justin Hannigan |
+| 71 | 1604 | Justin Hannigan |
+| 72 | 1599 | Mona Sharma |
 | 73 | 1582 | Korcoran Smith |
 | 74 | 1555 | Kimberly Love |
 | 75 | 1530 | Kim Hunt |
@@ -123,18 +123,18 @@
 | 115 | 1086 | quicksand420 |
 | 116 | 1084 | blasterB |
 | 117 | 1082 | Dion Crommarty |
-| 118 | 1069 | Carrie Brian |
-| 119 | 1065 | Edward White |
-| 120 | 1064 | Judy Cox |
-| 121 | 1060 | Nope Young |
-| 122 | 1056 | Valerie Roberts |
-| 123 | 1052 | Chris Bernstein |
-| 124 | 1051 | Porkobello |
-| 125 | 1033 | Klo |
-| 126 | 1030 | Calvin Cannon |
-| 127 | 1029 | TheNeesh50 |
-| 128 | 1019 | SpinelessAnt |
-| 129 | 1007 | Dan Wold |
+| 118 | 1081 | Porkobello |
+| 119 | 1069 | Carrie Brian |
+| 120 | 1065 | Edward White |
+| 121 | 1064 | Judy Cox |
+| 122 | 1060 | Nope Young |
+| 123 | 1056 | Valerie Roberts |
+| 124 | 1052 | Chris Bernstein |
+| 125 | 1049 | Dan Wold |
+| 126 | 1033 | Klo |
+| 127 | 1030 | Calvin Cannon |
+| 128 | 1029 | TheNeesh50 |
+| 129 | 1019 | SpinelessAnt |
 | 130 | 1002 | Diana Houts |
 | 131 | 1000 | Steph Marie |
 | 132 | 999 | Nugget |
@@ -276,28 +276,28 @@
 | 268 | 595 | Deanna Deckard |
 | 269 | 594 | Rheanda Weaskus |
 | 270 | 592 | Joanna |
-| 271 | 586 | Angel Raya |
-| 272 | 582 | Cynthia Boudreau |
+| 271 | 587 | Dustin York |
+| 272 | 586 | Angel Raya |
 | 273 | 582 | Russ Attitude |
-| 274 | 581 | Leslie Thomas |
-| 275 | 579 | Oscar Alberto Perez |
-| 276 | 578 | Scott Jameson |
-| 277 | 577 | Jason Bosco |
-| 278 | 576 | Chaz |
-| 279 | 576 | KimoKoala |
+| 274 | 582 | Cynthia Boudreau |
+| 275 | 581 | Leslie Thomas |
+| 276 | 579 | Oscar Alberto Perez |
+| 277 | 578 | Scott Jameson |
+| 278 | 577 | Jason Bosco |
+| 279 | 576 | Chaz |
 | 280 | 576 | Mr. Party |
-| 281 | 575 | Sandra Safford |
-| 282 | 569 | Milan Markeisha |
-| 283 | 568 | Zippy Block |
-| 284 | 568 | Casey Grabner |
-| 285 | 567 | Keshia Lyons |
-| 286 | 566 | Rio Rocha |
-| 287 | 566 | Paige Kittles |
-| 288 | 565 | Bio Nelly |
-| 289 | 563 | Ericca Eldridge |
-| 290 | 562 | Michele Plunkett |
-| 291 | 559 | Zakia Monae |
-| 292 | 557 | Dustin York |
+| 281 | 576 | KimoKoala |
+| 282 | 575 | Sandra Safford |
+| 283 | 569 | Milan Markeisha |
+| 284 | 568 | Zippy Block |
+| 285 | 568 | Casey Grabner |
+| 286 | 567 | Keshia Lyons |
+| 287 | 566 | Rio Rocha |
+| 288 | 566 | Paige Kittles |
+| 289 | 565 | Bio Nelly |
+| 290 | 563 | Ericca Eldridge |
+| 291 | 562 | Michele Plunkett |
+| 292 | 559 | Zakia Monae |
 | 293 | 556 | Hyper Matchclear |
 | 294 | 554 | Loony Rotater |
 | 295 | 554 | Ultramarine |
@@ -314,9 +314,9 @@
 | 306 | 542 | Lush Linkfall |
 | 307 | 541 | JIGsaw ~(•¿°)~ |
 | 308 | 540 | Ruby Khalisadar |
-| 309 | 537 | ThaEviLJeNiuZ |
+| 309 | 537 | Kate |
 | 310 | 537 | Zołza 😈 |
-| 311 | 537 | Kate |
+| 311 | 537 | ThaEviLJeNiuZ |
 | 312 | 535 | AyeKay |
 | 313 | 532 | Brittany Little |
 | 314 | 529 | Silly Zonebuilder |
@@ -381,15 +381,15 @@
 | 373 | 457 | Snippy Puzzle |
 | 374 | 457 | Candice Carasiti |
 | 375 | 454 | Tina Lopez |
-| 376 | 453 | Duck |
-| 377 | 453 | Shukee Lo |
+| 376 | 453 | Shukee Lo |
+| 377 | 453 | Duck |
 | 378 | 452 | Allen Lloyd |
 | 379 | 451 | Nubian1 |
-| 380 | 449 | Danielle Kollias |
+| 380 | 450 | RamboBanana |
 | 381 | 449 | Jesus Garcia |
 | 382 | 449 | Tawna Curry |
-| 383 | 448 | Megan Cutshaw |
-| 384 | 447 | RamboBanana |
+| 383 | 449 | Danielle Kollias |
+| 384 | 448 | Megan Cutshaw |
 | 385 | 444 | Laurel Coppess |
 | 386 | 441 | Ashley Danielle |
 | 387 | 441 | Jonathan Mahfood |
@@ -520,17 +520,17 @@
 | 512 | 349 | Hector Duran |
 | 513 | 349 | jim |
 | 514 | 349 | Chilly Matcher |
-| 515 | 348 | Stephanie Mico |
+| 515 | 349 | Daniel Gazcon |
 | 516 | 348 | Courtney Lacerte |
 | 517 | 348 | Spunky Framezone |
-| 518 | 347 | KoolMom9907 |
-| 519 | 346 | Ronald Brown Jr. |
-| 520 | 344 | Sticherella |
-| 521 | 344 | Elie Pean |
-| 522 | 343 | Cheryl Johnson |
-| 523 | 343 | Frisky Matchgrid |
-| 524 | 343 | Jarred Falls |
-| 525 | 343 | Daniel Gazcon |
+| 518 | 348 | Stephanie Mico |
+| 519 | 347 | KoolMom9907 |
+| 520 | 346 | Ronald Brown Jr. |
+| 521 | 344 | Sticherella |
+| 522 | 344 | Elie Pean |
+| 523 | 343 | Cheryl Johnson |
+| 524 | 343 | Frisky Matchgrid |
+| 525 | 343 | Jarred Falls |
 | 526 | 342 | ChuckBuck Copeland |
 | 527 | 342 | Manuel Groleau |
 | 528 | 342 | Joseph Edmonson |
