@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 06:56:25 UTC
+# Standings for team4 as of 2026-02-26 06:57:23 UTC
 
 **Total Participants:** 2345
 
@@ -505,10 +505,10 @@
 | 497 | 346 | Tabitha Calvin |
 | 498 | 346 | Ronald Brown Jr. |
 | 499 | 344 | Elie Pean |
-| 500 | 343 | Jarred Falls |
-| 501 | 343 | Cheryl Johnson |
-| 502 | 343 | Frisky Matchgrid |
-| 503 | 342 | Sticherella |
+| 500 | 344 | Sticherella |
+| 501 | 343 | Jarred Falls |
+| 502 | 343 | Cheryl Johnson |
+| 503 | 343 | Frisky Matchgrid |
 | 504 | 342 | ChuckBuck Copeland |
 | 505 | 341 | Silly SeaWeed |
 | 506 | 340 | Jesus Garcia |
@@ -990,12 +990,12 @@
 | 982 | 167 | Tracy Dawn |
 | 983 | 166 | mitch |
 | 984 | 166 | Mike Burlingame |
-| 985 | 165 | Zappy Buildgrid |
-| 986 | 165 | Derek Bartley |
-| 987 | 165 | Daring Strike |
-| 988 | 165 | Chummy Riserpiece |
-| 989 | 164 | Mitchell Everhart |
-| 990 | 164 | juggernaut |
+| 985 | 166 | juggernaut |
+| 986 | 165 | Zappy Buildgrid |
+| 987 | 165 | Derek Bartley |
+| 988 | 165 | Daring Strike |
+| 989 | 165 | Chummy Riserpiece |
+| 990 | 164 | Mitchell Everhart |
 | 991 | 164 | Megan Crane |
 | 992 | 163 | Cranky Pivoty |
 | 993 | 163 | Kimberly Paxton |
@@ -1008,14 +1008,14 @@
 | 1000 | 161 | Samantha Gamble |
 | 1001 | 160 | Tiffany Root |
 | 1002 | 160 | Lynette Manning |
-| 1003 | 160 | Shiny Matchfit |
-| 1004 | 159 | Chirpy Balancer |
-| 1005 | 159 | Lynella |
-| 1006 | 159 | Kirsten Britt O'Donnell |
-| 1007 | 159 | Terra McGee |
-| 1008 | 158 | Tasha |
-| 1009 | 158 | Amber bamber |
-| 1010 | 158 | Albert Walker III |
+| 1003 | 160 | Tasha |
+| 1004 | 160 | Shiny Matchfit |
+| 1005 | 159 | Terra McGee |
+| 1006 | 159 | Chirpy Balancer |
+| 1007 | 159 | Kirsten Britt O'Donnell |
+| 1008 | 159 | Lynella |
+| 1009 | 158 | Albert Walker III |
+| 1010 | 158 | Amber bamber |
 | 1011 | 158 | Saundra Miller |
 | 1012 | 158 | Lazy Blocker |
 | 1013 | 158 | Shelly Goad |
@@ -1159,20 +1159,20 @@
 | 1151 | 127 | Dean Masters |
 | 1152 | 127 | ASUNelson |
 | 1153 | 127 | Clever Breaker |
-| 1154 | 126 | Linda Wilbur Scott |
-| 1155 | 126 | Robin Visintainer |
-| 1156 | 126 | Spicy Cascadezone |
-| 1157 | 126 | Zippy Linkmatch |
-| 1158 | 126 | Rae Henderson |
-| 1159 | 126 | KAP |
-| 1160 | 126 | amy |
-| 1161 | 126 | Monica Goldhorn |
-| 1162 | 126 | Slappy Blackhead |
-| 1163 | 125 | Liliveth |
-| 1164 | 125 | Oba Yozo |
+| 1154 | 127 | QueenLis |
+| 1155 | 126 | Linda Wilbur Scott |
+| 1156 | 126 | Robin Visintainer |
+| 1157 | 126 | Spicy Cascadezone |
+| 1158 | 126 | Zippy Linkmatch |
+| 1159 | 126 | Rae Henderson |
+| 1160 | 126 | KAP |
+| 1161 | 126 | amy |
+| 1162 | 126 | Monica Goldhorn |
+| 1163 | 126 | Slappy Blackhead |
+| 1164 | 125 | Liliveth |
 | 1165 | 125 | Dana |
 | 1166 | 125 | Bob Moores |
-| 1167 | 125 | QueenLis |
+| 1167 | 125 | Oba Yozo |
 | 1168 | 125 | April Washington |
 | 1169 | 124 | Nick Horn |
 | 1170 | 124 | Bamm Grundie |
@@ -1341,8 +1341,8 @@
 | 1333 | 97 | Heather Hilferty |
 | 1334 | 97 | Thomas R. Phillips |
 | 1335 | 97 | Jessalyn Jordan Davis |
-| 1336 | 97 | Jerry Ruff |
-| 1337 | 97 | Maya Jane |
+| 1336 | 97 | Maya Jane |
+| 1337 | 97 | Jerry Ruff |
 | 1338 | 96 | Lowkey24 |
 | 1339 | 96 | Danielle Love |
 | 1340 | 96 | Joshua A Bea |
@@ -1358,36 +1358,36 @@
 | 1350 | 95 | Tara Karen |
 | 1351 | 95 | RedBoots82 |
 | 1352 | 95 | Chirpy Slammer |
-| 1353 | 94 | Kb Ludiweci |
-| 1354 | 93 | Jason Goldstein |
-| 1355 | 93 | T |
-| 1356 | 93 | DaReal007EJW |
-| 1357 | 93 | Tangelo |
-| 1358 | 93 | Mousey406 |
-| 1359 | 93 | FanODisney |
+| 1353 | 95 | NihilisticIntrigue |
+| 1354 | 94 | Kb Ludiweci |
+| 1355 | 93 | Jason Goldstein |
+| 1356 | 93 | T |
+| 1357 | 93 | DaReal007EJW |
+| 1358 | 93 | Tangelo |
+| 1359 | 93 | Mousey406 |
 | 1360 | 93 | Wacky Shift |
-| 1361 | 92 | Kristen Raper |
-| 1362 | 92 | Khu Muas |
-| 1363 | 92 | Mighty Blockroll |
-| 1364 | 92 | Anita Kramer |
-| 1365 | 91 | Phyllis Mitchell |
-| 1366 | 91 | Cassie Haydis |
-| 1367 | 91 | Amber Curry |
-| 1368 | 91 | Joan Du |
-| 1369 | 91 | Poppy Twistslam |
-| 1370 | 91 | NihilisticIntrigue |
-| 1371 | 90 | Johnboom317 |
-| 1372 | 90 | Terrie Rader |
-| 1373 | 90 | Fastnines |
-| 1374 | 90 | Christopher Cand |
-| 1375 | 90 | Wacky Brickmatch |
-| 1376 | 90 | Kelli Steinmetz |
-| 1377 | 90 | Daring Spinzone |
-| 1378 | 89 | Boldy Linkfall |
-| 1379 | 89 | Mary Haynes |
-| 1380 | 89 | Rachel Nicole |
-| 1381 | 89 | Kayley Kara Gaudin |
-| 1382 | 89 | Chad Moore |
+| 1361 | 93 | FanODisney |
+| 1362 | 92 | Kristen Raper |
+| 1363 | 92 | Khu Muas |
+| 1364 | 92 | Mighty Blockroll |
+| 1365 | 92 | Anita Kramer |
+| 1366 | 91 | Phyllis Mitchell |
+| 1367 | 91 | Cassie Haydis |
+| 1368 | 91 | Amber Curry |
+| 1369 | 91 | Joan Du |
+| 1370 | 91 | Poppy Twistslam |
+| 1371 | 90 | Terrie Rader |
+| 1372 | 90 | Fastnines |
+| 1373 | 90 | Christopher Cand |
+| 1374 | 90 | Wacky Brickmatch |
+| 1375 | 90 | Kelli Steinmetz |
+| 1376 | 90 | Daring Spinzone |
+| 1377 | 90 | Johnboom317 |
+| 1378 | 89 | Chad Moore |
+| 1379 | 89 | Boldy Linkfall |
+| 1380 | 89 | Mary Haynes |
+| 1381 | 89 | Rachel Nicole |
+| 1382 | 89 | Kayley Kara Gaudin |
 | 1383 | 88 | Taco Taco |
 | 1384 | 88 | Miranda Ozaeta |
 | 1385 | 88 | Missy Conley Sayne |
