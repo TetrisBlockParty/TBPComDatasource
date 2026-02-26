@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 01:44:46 UTC
+# Standings for team1 as of 2026-02-26 01:45:23 UTC
 
 **Total Participants:** 2573
 
@@ -24,7 +24,7 @@
 | 16 | 3103 | Katie Daniels |
 | 17 | 3065 | Lisa Marie |
 | 18 | 3013 | LaQuetta Faith Hines |
-| 19 | 2909 | Odell Barnett |
+| 19 | 2925 | Odell Barnett |
 | 20 | 2685 | Mara Hilker |
 | 21 | 2641 | Felicia Lewis |
 | 22 | 2613 | Josie Kirt |
@@ -32,9 +32,9 @@
 | 24 | 2472 | Amanda Summey Schoemer |
 | 25 | 2469 | Adryane Schnase |
 | 26 | 2391 | Derek MF Blakey |
-| 27 | 2283 | Lexuriuos Lifestlye |
-| 28 | 2277 | Jorge Andrade |
-| 29 | 2276 | Amanda Jarnagin |
+| 27 | 2296 | Amanda Jarnagin |
+| 28 | 2283 | Lexuriuos Lifestlye |
+| 29 | 2277 | Jorge Andrade |
 | 30 | 2245 | Jennifer Cates |
 | 31 | 2215 | Carolyn Smith |
 | 32 | 2103 | Andrea Dañielle Ortiz |
@@ -310,12 +310,12 @@
 | 302 | 473 | Cody Gates |
 | 303 | 473 | Cece Ibarra |
 | 304 | 472 | Dizzy Party |
-| 305 | 471 | Silly Align |
-| 306 | 470 | Terri Rodela |
-| 307 | 470 | Its me |
-| 308 | 468 | Garrett Burket |
-| 309 | 468 | Barrbaric |
-| 310 | 467 | Letson Melissa |
+| 305 | 471 | Letson Melissa |
+| 306 | 471 | Silly Align |
+| 307 | 470 | Terri Rodela |
+| 308 | 470 | Its me |
+| 309 | 468 | Garrett Burket |
+| 310 | 468 | Barrbaric |
 | 311 | 467 | Mark Smith |
 | 312 | 467 | MelSavage |
 | 313 | 466 | Jo Kerley |
@@ -330,9 +330,9 @@
 | 322 | 458 | Eddie Dillon |
 | 323 | 458 | Goose egg |
 | 324 | 458 | Nathan Sealander |
-| 325 | 455 | Larissa Marie Nelson |
-| 326 | 455 | Angela Fairbank |
-| 327 | 455 | Renee Tucker |
+| 325 | 456 | Renee Tucker |
+| 326 | 455 | Larissa Marie Nelson |
+| 327 | 455 | Angela Fairbank |
 | 328 | 454 | Sarah Roberts |
 | 329 | 452 | Margo Wagner |
 | 330 | 452 | Poppy Drop |
@@ -351,28 +351,28 @@
 | 343 | 442 | GringaLinga |
 | 344 | 439 | whocares |
 | 345 | 438 | Melissa Bires Hussar |
-| 346 | 437 | Danielle S Kester |
-| 347 | 436 | Nate Price |
-| 348 | 436 | Sarahdactyl |
-| 349 | 435 | Sassy Builderline |
-| 350 | 434 | Randy Broadwater |
-| 351 | 434 | John Ramirez |
+| 346 | 438 | Amanda Wharton |
+| 347 | 437 | Randy Broadwater |
+| 348 | 437 | Danielle S Kester |
+| 349 | 436 | Nate Price |
+| 350 | 436 | Sarahdactyl |
+| 351 | 435 | Sassy Builderline |
 | 352 | 434 | Dione Winter Heilich |
-| 353 | 433 | Rachel Nilles |
+| 353 | 434 | John Ramirez |
 | 354 | 433 | Наталья Солоид |
-| 355 | 433 | Layzietyme |
-| 356 | 432 | SavageBooty98 |
-| 357 | 431 | Tipsy Strikerpiece |
-| 358 | 430 | Speedy Snapfall |
-| 359 | 430 | Plucky Stacky |
-| 360 | 428 | Kipoi |
-| 361 | 426 | Amanda Wharton |
-| 362 | 419 | Robert |
-| 363 | 419 | Mrs.Patrica |
-| 364 | 419 | Bouncy Line |
-| 365 | 418 | Rodney Schmerfeld |
-| 366 | 418 | Snappy Brickbuilder |
-| 367 | 418 | Sherri Drews |
+| 355 | 433 | Rachel Nilles |
+| 356 | 433 | Layzietyme |
+| 357 | 432 | SavageBooty98 |
+| 358 | 431 | Tipsy Strikerpiece |
+| 359 | 430 | Speedy Snapfall |
+| 360 | 430 | Plucky Stacky |
+| 361 | 428 | Kipoi |
+| 362 | 419 | Mrs.Patrica |
+| 363 | 419 | Bouncy Line |
+| 364 | 419 | Robert |
+| 365 | 418 | Sherri Drews |
+| 366 | 418 | Rodney Schmerfeld |
+| 367 | 418 | Snappy Brickbuilder |
 | 368 | 417 | Sarah Marie |
 | 369 | 416 | LaFontaine Leslie |
 | 370 | 414 | Amber Dee |
@@ -382,11 +382,11 @@
 | 374 | 411 | Gracie |
 | 375 | 409 | Danielle Little-Daugherty |
 | 376 | 408 | Elizabeth Kubli |
-| 377 | 407 | Lisa Miller |
-| 378 | 407 | Christy LaSure |
-| 379 | 406 | Bloknboy |
-| 380 | 406 | Angela Dawn Torres-Tarrants |
-| 381 | 406 | Joshua Weeder |
+| 377 | 407 | Christy LaSure |
+| 378 | 407 | Lisa Miller |
+| 379 | 406 | Angela Dawn Torres-Tarrants |
+| 380 | 406 | Joshua Weeder |
+| 381 | 406 | Bloknboy |
 | 382 | 405 | Nicole Meredith Flynn |
 | 383 | 405 | Michael |
 | 384 | 405 | Spunky Tilt |
@@ -835,21 +835,21 @@
 | 827 | 208 | Jason Landon Sexton |
 | 828 | 208 | Suzanne |
 | 829 | 207 | Shawn Robert |
-| 830 | 206 | Fayalobie |
-| 831 | 206 | Abusive |
-| 832 | 206 | Almïghty Stoner |
-| 833 | 206 | Sunny Column |
-| 834 | 206 | Amanda Stevens |
-| 835 | 206 | elijahbih |
+| 830 | 207 | Giggly Brickbuilder |
+| 831 | 206 | Fayalobie |
+| 832 | 206 | Abusive |
+| 833 | 206 | Almïghty Stoner |
+| 834 | 206 | Sunny Column |
+| 835 | 206 | Amanda Stevens |
 | 836 | 206 | Lili Pad |
 | 837 | 206 | Jean Graziano |
-| 838 | 204 | Shanna Outen |
-| 839 | 204 | Anastasia Lozada |
-| 840 | 204 | Dave |
-| 841 | 204 | Walter Brown |
-| 842 | 204 | Bob Sitts |
-| 843 | 204 | Michaela Wakefield |
-| 844 | 204 | Giggly Brickbuilder |
+| 838 | 206 | elijahbih |
+| 839 | 204 | Shanna Outen |
+| 840 | 204 | Anastasia Lozada |
+| 841 | 204 | Dave |
+| 842 | 204 | Walter Brown |
+| 843 | 204 | Bob Sitts |
+| 844 | 204 | Michaela Wakefield |
 | 845 | 203 | Kerry Lee Powell |
 | 846 | 203 | Philip Hutson |
 | 847 | 203 | Kristen Rhoads |
@@ -1106,11 +1106,11 @@
 | 1098 | 148 | Heather Duncan Peer |
 | 1099 | 148 | Giggy Combofall |
 | 1100 | 148 | Jazzy Clicker |
-| 1101 | 147 | Dake Axton Shields |
-| 1102 | 147 | Tim |
-| 1103 | 147 | Adam Newton |
-| 1104 | 146 | April Jones |
-| 1105 | 146 | Vahid Khaleghi |
+| 1101 | 147 | Vahid Khaleghi |
+| 1102 | 147 | Dake Axton Shields |
+| 1103 | 147 | Tim |
+| 1104 | 147 | Adam Newton |
+| 1105 | 146 | April Jones |
 | 1106 | 146 | Chris Baker |
 | 1107 | 146 | Robert Young |
 | 1108 | 146 | Lively Slammer |
