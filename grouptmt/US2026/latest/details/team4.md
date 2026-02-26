@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 07:34:46 UTC
+# Standings for team4 as of 2026-02-26 07:35:24 UTC
 
 **Total Participants:** 2350
 
@@ -62,10 +62,10 @@
 | 54 | 1749 | Lisa Davis |
 | 55 | 1748 | Michelle Marie |
 | 56 | 1744 | Isabel Aguilar |
-| 57 | 1660 | Jen Allison |
-| 58 | 1653 | LisaJo Picken Buchanan |
-| 59 | 1649 | Yoset Mejia |
-| 60 | 1649 | Keith Kelley |
+| 57 | 1709 | Keith Kelley |
+| 58 | 1660 | Jen Allison |
+| 59 | 1653 | LisaJo Picken Buchanan |
+| 60 | 1649 | Yoset Mejia |
 | 61 | 1643 | A5! |
 | 62 | 1619 | Denia Deni |
 | 63 | 1617 | Anthony Bryan Riva |
@@ -680,7 +680,7 @@
 | 672 | 263 | Autum Leigh |
 | 673 | 263 | Red |
 | 674 | 263 | Josh Chapell |
-| 675 | 261 | Michelle McCutcheon |
+| 675 | 262 | Michelle McCutcheon |
 | 676 | 261 | Seraphim |
 | 677 | 260 | Manuel Groleau |
 | 678 | 260 | Tipsy Zoney |
