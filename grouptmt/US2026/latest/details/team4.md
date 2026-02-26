@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 09:22:24 UTC
+# Standings for team4 as of 2026-02-26 09:23:24 UTC
 
 **Total Participants:** 2358
 
@@ -124,20 +124,20 @@
 | 116 | 1018 | Jessi Cinotto |
 | 117 | 1002 | Diana Houts |
 | 118 | 999 | Nugget |
-| 119 | 972 | Brittney Griggs |
-| 120 | 971 | Sassy Pattern |
-| 121 | 962 | Samantha Peterson |
-| 122 | 959 | Shauna Havard |
-| 123 | 959 | Rodney Wheeler |
-| 124 | 952 | Angela Srubar-Norman |
-| 125 | 944 | Lucille Truesdale |
-| 126 | 933 | Krystal McPherson |
+| 119 | 999 | Krystal McPherson |
+| 120 | 972 | Brittney Griggs |
+| 121 | 971 | Sassy Pattern |
+| 122 | 967 | Angela Srubar-Norman |
+| 123 | 962 | Samantha Peterson |
+| 124 | 959 | Shauna Havard |
+| 125 | 959 | Rodney Wheeler |
+| 126 | 944 | Lucille Truesdale |
 | 127 | 925 | D3TROITB0RN74 |
 | 128 | 923 | Carmethia Clemons Haslerig |
 | 129 | 922 | Trista Leah |
 | 130 | 903 | Brittney Orengo |
-| 131 | 901 | Nerdy Twisterfit |
-| 132 | 898 | Lindsey Gonzalez |
+| 131 | 902 | Lindsey Gonzalez |
+| 132 | 901 | Nerdy Twisterfit |
 | 133 | 896 | Nikki Rae Gordon |
 | 134 | 891 | Rica Mitchell |
 | 135 | 889 | Berklie Apedaile |
@@ -262,8 +262,8 @@
 | 254 | 595 | Andria Lynn |
 | 255 | 594 | Sharyn Lemire |
 | 256 | 594 | Gdiguy |
-| 257 | 592 | Joanna |
-| 258 | 590 | Zethra Prenisha Rahming |
+| 257 | 593 | Zethra Prenisha Rahming |
+| 258 | 592 | Joanna |
 | 259 | 586 | Angel Raya |
 | 260 | 582 | Cynthia Boudreau |
 | 261 | 582 | Russ Attitude |
@@ -274,8 +274,8 @@
 | 266 | 576 | Mr. Party |
 | 267 | 575 | Sandra Safford |
 | 268 | 569 | Milan Markeisha |
-| 269 | 568 | Zippy Block |
-| 270 | 568 | Casey Grabner |
+| 269 | 568 | Casey Grabner |
+| 270 | 568 | Zippy Block |
 | 271 | 567 | Keshia Lyons |
 | 272 | 566 | Rio Rocha |
 | 273 | 565 | Bio Nelly |
@@ -287,11 +287,11 @@
 | 279 | 554 | Loony Rotater |
 | 280 | 554 | Ultramarine |
 | 281 | 554 | Dizzy Matchzone |
-| 282 | 552 | Joseph Guthrie |
-| 283 | 552 | shark tato |
-| 284 | 551 | Crystal Nicolette Moore |
-| 285 | 551 | Jason Gibbs |
-| 286 | 551 | Morti |
+| 282 | 552 | shark tato |
+| 283 | 552 | Joseph Guthrie |
+| 284 | 551 | Jason Gibbs |
+| 285 | 551 | Morti |
+| 286 | 551 | Crystal Nicolette Moore |
 | 287 | 550 | Michael Snow |
 | 288 | 550 | James Hurley Jr. |
 | 289 | 549 | Vic |
@@ -313,8 +313,8 @@
 | 305 | 524 | Rafael Valentin |
 | 306 | 523 | David Lay |
 | 307 | 523 | Twisty Risebuilder |
-| 308 | 522 | Stacey Stano |
-| 309 | 522 | Heather Bruce |
+| 308 | 522 | Heather Bruce |
+| 309 | 522 | Stacey Stano |
 | 310 | 521 | Ari Droff |
 | 311 | 516 | Nick Gray |
 | 312 | 514 | KayM |
@@ -322,32 +322,32 @@
 | 314 | 512 | Casey Jeffcoat |
 | 315 | 508 | Kenna Gunderland |
 | 316 | 507 | Jason Bosco |
-| 317 | 505 | Zołza 😈 |
+| 317 | 507 | Speedy Cascadeclear |
 | 318 | 505 | 030Synner |
-| 319 | 504 | Mike Solo |
+| 319 | 505 | Zołza 😈 |
 | 320 | 504 | Neil Ingham |
-| 321 | 504 | Metsfan |
-| 322 | 503 | Neirrah B Olailjeel |
+| 321 | 504 | Mike Solo |
+| 322 | 504 | Metsfan |
 | 323 | 503 | KimoKoala |
-| 324 | 502 | Kathy Allen |
-| 325 | 502 | Lauren Scott |
-| 326 | 501 | Hyper Builder |
+| 324 | 503 | Neirrah B Olailjeel |
+| 325 | 502 | Kathy Allen |
+| 326 | 502 | Lauren Scott |
 | 327 | 501 | Squeezy Pearsall |
-| 328 | 500 | Laura |
-| 329 | 498 | Cool Gridzone |
-| 330 | 498 | 23 |
+| 328 | 501 | Hyper Builder |
+| 329 | 500 | Laura |
+| 330 | 498 | Cool Gridzone |
 | 331 | 498 | mike |
-| 332 | 497 | Selena Shaw |
-| 333 | 497 | Speedy Cascadeclear |
+| 332 | 498 | 23 |
+| 333 | 497 | Selena Shaw |
 | 334 | 496 | blockstar |
 | 335 | 494 | Lindsay Ball |
 | 336 | 494 | Eri Kka |
-| 337 | 493 | Perky Piecegrid |
+| 337 | 493 | Jessica Fredericks |
 | 338 | 493 | Richard |
-| 339 | 493 | Jessica Fredericks |
+| 339 | 493 | Perky Piecegrid |
 | 340 | 491 | Sho Nuff |
-| 341 | 490 | Nig |
-| 342 | 490 | Allison Rose |
+| 341 | 490 | Allison Rose |
+| 342 | 490 | Nig |
 | 343 | 488 | Amy Sanford |
 | 344 | 488 | Jake Roberts |
 | 345 | 487 | tipsy tiger |
@@ -554,13 +554,13 @@
 | 546 | 320 | Hanh Pham |
 | 547 | 320 | Daresha Fair |
 | 548 | 320 | Brooke Kaune |
-| 549 | 320 | O block |
-| 550 | 320 | Deb Rubeck |
-| 551 | 319 | PeaceOs |
-| 552 | 318 | Cozy Matchclear |
-| 553 | 318 | Jennifer Brown |
-| 554 | 318 | Steve Sperino |
-| 555 | 318 | Stephanie Mico |
+| 549 | 320 | Stephanie Mico |
+| 550 | 320 | O block |
+| 551 | 320 | Deb Rubeck |
+| 552 | 319 | PeaceOs |
+| 553 | 318 | Steve Sperino |
+| 554 | 318 | Jennifer Brown |
+| 555 | 318 | Cozy Matchclear |
 | 556 | 317 | Ziggy |
 | 557 | 317 | Robert Bolden |
 | 558 | 317 | Jen May |
@@ -573,22 +573,22 @@
 | 565 | 313 | Brian Owens |
 | 566 | 313 | Dorian |
 | 567 | 312 | Jennifer Renee |
-| 568 | 311 | Katie McCabe |
-| 569 | 311 | Shanon Klair |
+| 568 | 311 | Shanon Klair |
+| 569 | 311 | Katie McCabe |
 | 570 | 310 | Jen Hallin |
 | 571 | 310 | Balsam Joe |
 | 572 | 309 | Ashlee Carnes |
 | 573 | 308 | Robert Rangel |
 | 574 | 308 | Jennifer Dineen |
-| 575 | 307 | Tianna Frey |
-| 576 | 307 | Jeff Roberts |
-| 577 | 307 | Sam Middleton |
+| 575 | 307 | Jeff Roberts |
+| 576 | 307 | Sam Middleton |
+| 577 | 307 | Tianna Frey |
 | 578 | 307 | Leila |
 | 579 | 307 | kaeliwyn |
-| 580 | 306 | Lisa Bush |
-| 581 | 306 | Faja |
-| 582 | 305 | Sholom Fried |
-| 583 | 305 | KyngKliff |
+| 580 | 306 | Faja |
+| 581 | 306 | Lisa Bush |
+| 582 | 305 | KyngKliff |
+| 583 | 305 | Sholom Fried |
 | 584 | 305 | Jenn Tyler |
 | 585 | 304 | Michelle McCutcheon |
 | 586 | 304 | Brandi Durig |
@@ -862,28 +862,28 @@
 | 854 | 203 | Cashmere |
 | 855 | 203 | Shy |
 | 856 | 202 | Blaze Butler |
-| 857 | 202 | Sarah Tenenbaum |
-| 858 | 202 | Snippy Clearer |
-| 859 | 201 | Kristin MacDonald |
-| 860 | 201 | Carla Harris |
-| 861 | 201 | Hasty Fitzone |
-| 862 | 201 | Harvey Mejia |
-| 863 | 201 | LunarCat |
-| 864 | 201 | Kerlyne Kay Toussaint Smith |
-| 865 | 200 | Molly Ananda Rickerson |
-| 866 | 200 | Kai Huang |
-| 867 | 200 | Krista Buffaloe |
-| 868 | 200 | Sarah Grundisch |
-| 869 | 200 | Rampai |
+| 857 | 202 | Rampai |
+| 858 | 202 | Sarah Tenenbaum |
+| 859 | 202 | Snippy Clearer |
+| 860 | 201 | Kristin MacDonald |
+| 861 | 201 | Carla Harris |
+| 862 | 201 | Hasty Fitzone |
+| 863 | 201 | Harvey Mejia |
+| 864 | 201 | LunarCat |
+| 865 | 201 | Kerlyne Kay Toussaint Smith |
+| 866 | 200 | Molly Ananda Rickerson |
+| 867 | 200 | Kai Huang |
+| 868 | 200 | Krista Buffaloe |
+| 869 | 200 | Sarah Grundisch |
 | 870 | 200 | No Strings Attached Ra |
 | 871 | 200 | Chipper Buildout |
 | 872 | 199 | Griffen |
-| 873 | 198 | k |
-| 874 | 198 | Tina Williams |
+| 873 | 198 | Tina Williams |
+| 874 | 198 | k |
 | 875 | 198 | Caity Migliaccio |
 | 876 | 198 | Zany Strikesnap |
-| 877 | 197 | Ninaforever |
-| 878 | 197 | David V. Bowers |
+| 877 | 197 | David V. Bowers |
+| 878 | 197 | Ninaforever |
 | 879 | 197 | Carlos G Reyes |
 | 880 | 197 | Justin Davis |
 | 881 | 196 | Buttlicker |
