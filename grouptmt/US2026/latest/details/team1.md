@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 06:20:45 UTC
+# Standings for team1 as of 2026-02-26 06:21:23 UTC
 
 **Total Participants:** 2629
 
@@ -1157,30 +1157,30 @@
 | 1149 | 141 | JEREMIA MOORE |
 | 1150 | 140 | Tracy Berry |
 | 1151 | 140 | Amyinahs |
-| 1152 | 140 | Chirpy Matchline |
-| 1153 | 140 | Cheryl Neher Loboda |
-| 1154 | 140 | Sassy Riseclear |
-| 1155 | 140 | Michael Floyd Beavers |
-| 1156 | 139 | DeeDee |
-| 1157 | 139 | Ghost |
-| 1158 | 139 | Zac Brubaker |
-| 1159 | 139 | Nutty Clusterline |
-| 1160 | 138 | Willian Tarajano |
-| 1161 | 138 | Lakesha Jackson- Anderson |
+| 1152 | 140 | Bank |
+| 1153 | 140 | Chirpy Matchline |
+| 1154 | 140 | Cheryl Neher Loboda |
+| 1155 | 140 | Sassy Riseclear |
+| 1156 | 140 | Michael Floyd Beavers |
+| 1157 | 139 | Zac Brubaker |
+| 1158 | 139 | Nutty Clusterline |
+| 1159 | 139 | Ghost |
+| 1160 | 139 | DeeDee |
+| 1161 | 138 | Willian Tarajano |
 | 1162 | 138 | Mauricio Reyes |
-| 1163 | 138 | Bank |
-| 1164 | 137 | Tausha Colella |
-| 1165 | 137 | David Bourne |
+| 1163 | 138 | Lakesha Jackson- Anderson |
+| 1164 | 137 | Duanew |
+| 1165 | 137 | Tausha Colella |
 | 1166 | 137 | Swanky Blockzone |
-| 1167 | 137 | Duanew |
-| 1168 | 137 | Kalesha Tteirrah |
-| 1169 | 136 | Olivia Ornella Rubinski |
-| 1170 | 136 | Meri Mass |
-| 1171 | 136 | Zach Marihugh |
+| 1167 | 137 | Kalesha Tteirrah |
+| 1168 | 137 | David Bourne |
+| 1169 | 136 | Dreamy Basepiece |
+| 1170 | 136 | Lissie Maldonado |
+| 1171 | 136 | Merissa Paulsen |
 | 1172 | 136 | Toons |
-| 1173 | 136 | Merissa Paulsen |
-| 1174 | 136 | Dreamy Basepiece |
-| 1175 | 136 | Lissie Maldonado |
+| 1173 | 136 | Zach Marihugh |
+| 1174 | 136 | Olivia Ornella Rubinski |
+| 1175 | 136 | Meri Mass |
 | 1176 | 135 | Bharrelson66 |
 | 1177 | 135 | Bye Love |
 | 1178 | 135 | Thia Gibson |
@@ -1900,11 +1900,11 @@
 | 1892 | 46 | Mystic_Witch |
 | 1893 | 45 | Nerdy Zoner |
 | 1894 | 45 | Bouncy Linefit |
-| 1895 | 45 | Frothy Blockclear |
-| 1896 | 45 | April C Theriault Foote |
-| 1897 | 45 | Stephanie Ramirez |
-| 1898 | 45 | Dizzy Combofall |
-| 1899 | 45 | April Edwards |
+| 1895 | 45 | Stephanie Ramirez |
+| 1896 | 45 | Frothy Blockclear |
+| 1897 | 45 | April C Theriault Foote |
+| 1898 | 45 | April Edwards |
+| 1899 | 45 | Dizzy Combofall |
 | 1900 | 45 | Funky Brickline |
 | 1901 | 45 | Fancy Gridzone |
 | 1902 | 45 | Dreamy Twister |
@@ -1913,59 +1913,59 @@
 | 1905 | 45 | BIGOONS |
 | 1906 | 45 | Chill Fitzone |
 | 1907 | 45 | Damndee |
-| 1908 | 44 | Hasty Towerfit |
-| 1909 | 44 | KeKe Wharton |
-| 1910 | 44 | Daring Clusterline |
-| 1911 | 44 | Scott Nguyen |
-| 1912 | 44 | Vicky Meanor |
-| 1913 | 44 | Samantha Nowaski |
-| 1914 | 44 | Wacky Builderline |
+| 1908 | 44 | Wacky Builderline |
+| 1909 | 44 | Hasty Towerfit |
+| 1910 | 44 | KeKe Wharton |
+| 1911 | 44 | Daring Clusterline |
+| 1912 | 44 | Scott Nguyen |
+| 1913 | 44 | Vicky Meanor |
+| 1914 | 44 | Samantha Nowaski |
 | 1915 | 44 | Brad King |
 | 1916 | 44 | Leanna Dawn Slone |
-| 1917 | 44 | Danielle Martin |
-| 1918 | 44 | Plucky Mover |
-| 1919 | 44 | Berni Franz |
+| 1917 | 44 | Plucky Mover |
+| 1918 | 44 | Berni Franz |
+| 1919 | 44 | Danielle Martin |
 | 1920 | 44 | Rick |
-| 1921 | 43 | ballzdeep |
-| 1922 | 43 | NoSyLa |
-| 1923 | 43 | Cristina da Silva |
-| 1924 | 43 | SCROPION |
-| 1925 | 43 | Charlie Vanblarcom |
+| 1921 | 43 | Charlie Vanblarcom |
+| 1922 | 43 | SCROPION |
+| 1923 | 43 | ballzdeep |
+| 1924 | 43 | NoSyLa |
+| 1925 | 43 | Cristina da Silva |
 | 1926 | 43 | Dawn Mateo De Acosta |
 | 1927 | 43 | Daring Brickroll |
-| 1928 | 43 | Huou Rum |
-| 1929 | 43 | Dorothy Vernon |
-| 1930 | 43 | callsignbdog |
-| 1931 | 43 | Cryder Monique |
-| 1932 | 43 | Brosecki |
-| 1933 | 42 | CarterParty |
-| 1934 | 42 | HyperBrickFit |
+| 1928 | 43 | Dreamy Glidebuilder |
+| 1929 | 43 | Huou Rum |
+| 1930 | 43 | Dorothy Vernon |
+| 1931 | 43 | callsignbdog |
+| 1932 | 43 | Cryder Monique |
+| 1933 | 43 | Brosecki |
+| 1934 | 42 | CarterParty |
 | 1935 | 42 | Oliver Reeder |
-| 1936 | 42 | Cryptomeg |
-| 1937 | 42 | Dwayne Bogue |
-| 1938 | 41 | Jeremy Hurt |
-| 1939 | 41 | Curtis |
-| 1940 | 41 | Zippy Patternzone |
-| 1941 | 41 | lisa |
-| 1942 | 41 | TheBandit |
-| 1943 | 41 | Jas Ali |
-| 1944 | 41 | Chad Massaro |
-| 1945 | 41 | Glitzy Gridroll |
-| 1946 | 41 | Hollyjo Balistreri |
-| 1947 | 41 | Plucky Column |
+| 1936 | 42 | HyperBrickFit |
+| 1937 | 42 | Cryptomeg |
+| 1938 | 42 | Dwayne Bogue |
+| 1939 | 41 | Hollyjo Balistreri |
+| 1940 | 41 | Chad Massaro |
+| 1941 | 41 | Jas Ali |
+| 1942 | 41 | Glitzy Gridroll |
+| 1943 | 41 | TheBandit |
+| 1944 | 41 | Jeremy Hurt |
+| 1945 | 41 | Plucky Column |
+| 1946 | 41 | lisa |
+| 1947 | 41 | Zippy Patternzone |
 | 1948 | 41 | jb |
 | 1949 | 41 | Joe Andrew Jackson |
-| 1950 | 41 | Jrsm Engrepair |
-| 1951 | 40 | Spicy Party |
-| 1952 | 40 | Dreamy Glidebuilder |
-| 1953 | 40 | Sharon Toups |
-| 1954 | 40 | Keva |
-| 1955 | 40 | Chelly |
-| 1956 | 40 | Terri Ruffin Arnett |
-| 1957 | 40 | Natalyia |
-| 1958 | 39 | RLA |
-| 1959 | 39 | Kizzie Thomas-Jones |
-| 1960 | 39 | Rodriguez Leslie |
+| 1950 | 41 | Curtis |
+| 1951 | 41 | Jrsm Engrepair |
+| 1952 | 40 | Natalyia |
+| 1953 | 40 | Keva |
+| 1954 | 40 | Sharon Toups |
+| 1955 | 40 | Spicy Party |
+| 1956 | 40 | Chelly |
+| 1957 | 40 | Terri Ruffin Arnett |
+| 1958 | 39 | Kizzie Thomas-Jones |
+| 1959 | 39 | Rodriguez Leslie |
+| 1960 | 39 | RLA |
 | 1961 | 39 | Jim Larsen |
 | 1962 | 39 | Merder |
 | 1963 | 39 | Yonkas |
