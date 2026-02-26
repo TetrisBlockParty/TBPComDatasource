@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 05:50:43 UTC
+# Standings for team1 as of 2026-02-26 05:51:24 UTC
 
 **Total Participants:** 2624
 
@@ -517,52 +517,52 @@
 | 509 | 349 | Chilly Riserpiece |
 | 510 | 348 | David |
 | 511 | 348 | Nate Funk |
-| 512 | 347 | Liliana Pena |
-| 513 | 347 | Tiffany Daboss Seymour |
+| 512 | 347 | Tiffany Daboss Seymour |
+| 513 | 347 | Liliana Pena |
 | 514 | 347 | Missy Broz McNees |
 | 515 | 345 | Sabrina Coleman |
 | 516 | 345 | Melanie Kelley |
 | 517 | 345 | Joe Coon |
 | 518 | 345 | John Barron |
-| 519 | 344 | Steven Collins |
-| 520 | 344 | Brenda L. Bunce |
-| 521 | 344 | Sam Rosado |
-| 522 | 344 | GentleKitten7 |
-| 523 | 344 | Jason Benitez |
-| 524 | 343 | LC |
-| 525 | 343 | Michelle |
-| 526 | 343 | Susie Loo |
-| 527 | 343 | Rikki Jo Creech |
+| 519 | 344 | Jason Benitez |
+| 520 | 344 | Steven Collins |
+| 521 | 344 | Brenda L. Bunce |
+| 522 | 344 | Sam Rosado |
+| 523 | 344 | GentleKitten7 |
+| 524 | 343 | Susie Loo |
+| 525 | 343 | LC |
+| 526 | 343 | Rikki Jo Creech |
+| 527 | 343 | Michelle |
 | 528 | 342 | Christina Norman |
-| 529 | 340 | JaPria Rodgers |
-| 530 | 340 | Toph |
-| 531 | 340 | Carlos Floyd |
-| 532 | 340 | Equinn |
-| 533 | 339 | Charlie Walker |
-| 534 | 339 | Kayla Marie Stevenson |
-| 535 | 339 | Jonah Dunn |
-| 536 | 338 | Barry Mac'Ockner |
-| 537 | 338 | Justin Canape |
-| 538 | 337 | Amie Fields |
+| 529 | 340 | Equinn |
+| 530 | 340 | Carlos Floyd |
+| 531 | 340 | JaPria Rodgers |
+| 532 | 340 | Toph |
+| 533 | 339 | Kayla Marie Stevenson |
+| 534 | 339 | Adan Reyes |
+| 535 | 339 | Charlie Walker |
+| 536 | 339 | Jonah Dunn |
+| 537 | 338 | Barry Mac'Ockner |
+| 538 | 338 | Justin Canape |
 | 539 | 337 | Agustin Duarte Orozco |
-| 540 | 336 | Joyce Harrell-chavis |
-| 541 | 336 | Cool Balancer |
-| 542 | 336 | Clever Cascadepiece |
-| 543 | 335 | Bustin’ Blocks |
-| 544 | 334 | Chad Atchley |
-| 545 | 332 | Rock it |
-| 546 | 332 | Gilbert Ortiz Jr. |
-| 547 | 332 | Scott Betson |
-| 548 | 332 | Damian Salem |
-| 549 | 332 | Camelia Trevillion |
-| 550 | 331 | Shay J Duval |
-| 551 | 330 | Shiny Snapline |
-| 552 | 330 | Abbey Crespo |
+| 540 | 337 | Amie Fields |
+| 541 | 336 | Clever Cascadepiece |
+| 542 | 336 | Cool Balancer |
+| 543 | 336 | Joyce Harrell-chavis |
+| 544 | 335 | Bustin’ Blocks |
+| 545 | 334 | Chad Atchley |
+| 546 | 332 | Camelia Trevillion |
+| 547 | 332 | Rock it |
+| 548 | 332 | Gilbert Ortiz Jr. |
+| 549 | 332 | Scott Betson |
+| 550 | 332 | Damian Salem |
+| 551 | 331 | Shay J Duval |
+| 552 | 330 | Shiny Snapline |
 | 553 | 330 | Rebecca Apley Mielke |
-| 554 | 329 | Matthew Foley |
-| 555 | 329 | Sunshine |
+| 554 | 330 | Abbey Crespo |
+| 555 | 329 | Matthew Foley |
 | 556 | 329 | Michelle Deans |
-| 557 | 329 | Adan Reyes |
+| 557 | 329 | Sunshine |
 | 558 | 327 | Neely Janelle Stewart |
 | 559 | 327 | Megan Kradzinski Ferguson |
 | 560 | 327 | Shannon Guilloty |
@@ -638,31 +638,31 @@
 | 630 | 287 | Andrew Boone |
 | 631 | 287 | Amber Johnson-Grantham |
 | 632 | 285 | Marqs Mel |
-| 633 | 285 | Chipper Piecefit |
-| 634 | 285 | squareMel |
-| 635 | 284 | Natiera Catrece |
+| 633 | 285 | squareMel |
+| 634 | 285 | Chipper Piecefit |
+| 635 | 284 | Terika Rodriguez |
 | 636 | 284 | Rivkah |
-| 637 | 283 | Grady Lynch |
+| 637 | 284 | Natiera Catrece |
 | 638 | 283 | Ashley Adams |
 | 639 | 283 | Franswa |
-| 640 | 282 | Marc Abney |
+| 640 | 283 | Grady Lynch |
 | 641 | 282 | Timothy Dew |
-| 642 | 282 | Starseed |
-| 643 | 281 | Cheeky Curvetile |
+| 642 | 282 | Marc Abney |
+| 643 | 282 | Starseed |
 | 644 | 281 | Lark |
-| 645 | 281 | Boldy Snapfit |
+| 645 | 281 | Cheeky Curvetile |
 | 646 | 281 | Ja Ce |
-| 647 | 281 | Sunflower |
-| 648 | 280 | Mary Sheets |
-| 649 | 280 | Marie White |
-| 650 | 280 | Terika Rodriguez |
+| 647 | 281 | Boldy Snapfit |
+| 648 | 281 | Sunflower |
+| 649 | 280 | Mary Sheets |
+| 650 | 280 | Marie White |
 | 651 | 279 | Chris Dawson |
 | 652 | 279 | DENOTS42OSPOT |
-| 653 | 278 | Austin Jones |
-| 654 | 278 | MRdot Rooski |
+| 653 | 278 | Kayla |
+| 654 | 278 | Dee Doris Ewald Flynn |
 | 655 | 278 | Nevaeh Mattox |
-| 656 | 278 | Dee Doris Ewald Flynn |
-| 657 | 278 | Kayla |
+| 656 | 278 | Austin Jones |
+| 657 | 278 | MRdot Rooski |
 | 658 | 278 | Thorne Shumate |
 | 659 | 277 | Craig Mcgonigle |
 | 660 | 276 | Michael Meyer |
@@ -672,30 +672,30 @@
 | 664 | 274 | Ruf Lowman |
 | 665 | 273 | Riley Lee |
 | 666 | 272 | Sarah Henniker |
-| 667 | 272 | Jeffrey Scott Younkins |
-| 668 | 272 | Josh Smith |
+| 667 | 272 | Josh Smith |
+| 668 | 272 | Jeffrey Scott Younkins |
 | 669 | 271 | Divaaa |
 | 670 | 271 | Britney Marie Burton Cole |
 | 671 | 271 | Gremb |
 | 672 | 271 | Lauren Baxter |
-| 673 | 270 | Sarah Bersano |
-| 674 | 270 | Giggly Rollfit |
-| 675 | 270 | Blake Cobb |
-| 676 | 270 | Malaka |
+| 673 | 270 | Giggly Rollfit |
+| 674 | 270 | Sarah Bersano |
+| 675 | 270 | Malaka |
+| 676 | 270 | Blake Cobb |
 | 677 | 269 | Chyna Mae |
-| 678 | 268 | Jennifer Crawford |
-| 679 | 268 | Jaymee Eva Shannon |
+| 678 | 268 | Jaymee Eva Shannon |
+| 679 | 268 | Dizzy Rackham |
 | 680 | 268 | Bay Marie |
-| 681 | 268 | Dizzy Rackham |
-| 682 | 267 | Dandy Towerbuilder |
-| 683 | 267 | Irual Hctrab |
-| 684 | 267 | Gina Fontana Meier |
-| 685 | 267 | Jeff Jack II |
+| 681 | 268 | Jennifer Crawford |
+| 682 | 267 | Gina Fontana Meier |
+| 683 | 267 | Dandy Towerbuilder |
+| 684 | 267 | Jeff Jack II |
+| 685 | 267 | Irual Hctrab |
 | 686 | 266 | Jessica Venable |
 | 687 | 266 | Shiny Rotate |
-| 688 | 265 | Khatia Sikharulidze |
-| 689 | 265 | Hdhshsn |
-| 690 | 265 | William Blackwell |
+| 688 | 265 | William Blackwell |
+| 689 | 265 | Khatia Sikharulidze |
+| 690 | 265 | Hdhshsn |
 | 691 | 265 | Jen |
 | 692 | 264 | Nicole Nikki |
 | 693 | 264 | Kanesha Jackson |
