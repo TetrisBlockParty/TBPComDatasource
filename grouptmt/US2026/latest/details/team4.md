@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 08:29:23 UTC
+# Standings for team4 as of 2026-02-26 08:30:23 UTC
 
 **Total Participants:** 2357
 
@@ -27,7 +27,7 @@
 | 19 | 3189 | Jason Allen |
 | 20 | 3059 | Denny Shives |
 | 21 | 3023 | Misty Hollibaugh |
-| 22 | 2806 | Michelle Pearman |
+| 22 | 2818 | Michelle Pearman |
 | 23 | 2535 | Jayna Anoc |
 | 24 | 2449 | Aden Moss |
 | 25 | 2448 | Goatimus Lombardi |
@@ -168,9 +168,9 @@
 | 160 | 789 | Andy Cabral |
 | 161 | 786 | Nita Wells |
 | 162 | 784 | Lori |
-| 163 | 782 | shar |
-| 164 | 782 | Kristin Manee |
-| 165 | 782 | Christine Simmons |
+| 163 | 784 | Christine Simmons |
+| 164 | 782 | shar |
+| 165 | 782 | Kristin Manee |
 | 166 | 781 | Savannah Overdorf |
 | 167 | 778 | April Rondinone |
 | 168 | 778 | Lora |
@@ -854,40 +854,40 @@
 | 846 | 205 | Kristin Rose Nutter |
 | 847 | 205 | Alicia Lux Arnst |
 | 848 | 205 | Courtney Angel |
-| 849 | 205 | Holly Tracey-Grimes |
-| 850 | 204 | Bigmamatetrisqueen |
-| 851 | 204 | Wendy De Kam |
-| 852 | 204 | Susan Purnell |
-| 853 | 203 | Cashmere |
-| 854 | 203 | Shy |
-| 855 | 203 | Tabitha Henson |
+| 849 | 205 | Tabitha Henson |
+| 850 | 205 | Holly Tracey-Grimes |
+| 851 | 204 | Bigmamatetrisqueen |
+| 852 | 204 | Wendy De Kam |
+| 853 | 204 | Susan Purnell |
+| 854 | 203 | Cashmere |
+| 855 | 203 | Shy |
 | 856 | 202 | Sarah Tenenbaum |
 | 857 | 202 | Snippy Clearer |
 | 858 | 202 | Blaze Butler |
 | 859 | 201 | Carla Harris |
-| 860 | 201 | Hasty Fitzone |
-| 861 | 201 | Kerlyne Kay Toussaint Smith |
-| 862 | 201 | Kristin MacDonald |
-| 863 | 201 | Harvey Mejia |
-| 864 | 201 | LunarCat |
+| 860 | 201 | LunarCat |
+| 861 | 201 | Harvey Mejia |
+| 862 | 201 | Hasty Fitzone |
+| 863 | 201 | Kerlyne Kay Toussaint Smith |
+| 864 | 201 | Kristin MacDonald |
 | 865 | 200 | Kai Huang |
 | 866 | 200 | Molly Ananda Rickerson |
-| 867 | 200 | Sarah Grundisch |
-| 868 | 200 | No Strings Attached Ra |
+| 867 | 200 | No Strings Attached Ra |
+| 868 | 200 | Sarah Grundisch |
 | 869 | 200 | Krista Buffaloe |
 | 870 | 200 | Chipper Buildout |
 | 871 | 199 | Griffen |
-| 872 | 198 | Tina Williams |
-| 873 | 198 | Caity Migliaccio |
-| 874 | 198 | k |
+| 872 | 198 | k |
+| 873 | 198 | Tina Williams |
+| 874 | 198 | Caity Migliaccio |
 | 875 | 198 | Zany Strikesnap |
-| 876 | 197 | Carlos G Reyes |
+| 876 | 197 | Justin Davis |
 | 877 | 197 | Ninaforever |
-| 878 | 197 | Justin Davis |
+| 878 | 197 | Carlos G Reyes |
 | 879 | 197 | David V. Bowers |
-| 880 | 196 | canglem |
+| 880 | 196 | Saucy Stackbuilder |
 | 881 | 196 | Rampai |
-| 882 | 196 | Saucy Stackbuilder |
+| 882 | 196 | canglem |
 | 883 | 196 | Buttlicker |
 | 884 | 195 | Christian Torres |
 | 885 | 194 | Zany Twisterfit |
