@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 07:48:47 UTC
+# Standings for team4 as of 2026-02-26 07:49:25 UTC
 
 **Total Participants:** 2353
 
@@ -109,12 +109,12 @@
 | 101 | 1086 | quicksand420 |
 | 102 | 1084 | blasterB |
 | 103 | 1082 | Dion Crommarty |
-| 104 | 1069 | Carrie Brian |
-| 105 | 1065 | Edward White |
-| 106 | 1064 | Judy Cox |
-| 107 | 1063 | Lori Walker |
-| 108 | 1060 | Nope Young |
-| 109 | 1058 | Sam Bishop |
+| 104 | 1078 | Sam Bishop |
+| 105 | 1069 | Carrie Brian |
+| 106 | 1065 | Edward White |
+| 107 | 1064 | Judy Cox |
+| 108 | 1063 | Lori Walker |
+| 109 | 1060 | Nope Young |
 | 110 | 1056 | Valerie Roberts |
 | 111 | 1040 | Jason Hart |
 | 112 | 1034 | Crystal Lynn |
@@ -271,24 +271,24 @@
 | 263 | 569 | Milan Markeisha |
 | 264 | 568 | Zippy Block |
 | 265 | 568 | Cynthia Boudreau |
-| 266 | 567 | Keshia Lyons |
-| 267 | 566 | Rio Rocha |
-| 268 | 563 | Tyler Terrific |
-| 269 | 563 | Ericca Eldridge |
-| 270 | 563 | Casey Grabner |
+| 266 | 567 | Tyler Terrific |
+| 267 | 567 | Keshia Lyons |
+| 268 | 566 | Rio Rocha |
+| 269 | 563 | Casey Grabner |
+| 270 | 563 | Ericca Eldridge |
 | 271 | 562 | Michele Plunkett |
 | 272 | 559 | Zakia Monae |
 | 273 | 557 | DonMega |
 | 274 | 557 | Rheanda Weaskus |
-| 275 | 556 | Bio Nelly |
-| 276 | 556 | Hyper Matchclear |
+| 275 | 556 | Hyper Matchclear |
+| 276 | 556 | Bio Nelly |
 | 277 | 554 | Loony Rotater |
 | 278 | 554 | Ultramarine |
-| 279 | 552 | shark tato |
-| 280 | 552 | Joseph Guthrie |
-| 281 | 551 | Jason Gibbs |
-| 282 | 551 | Crystal Nicolette Moore |
-| 283 | 551 | Morti |
+| 279 | 552 | Joseph Guthrie |
+| 280 | 552 | shark tato |
+| 281 | 551 | Morti |
+| 282 | 551 | Jason Gibbs |
+| 283 | 551 | Crystal Nicolette Moore |
 | 284 | 550 | Michael Snow |
 | 285 | 550 | James Hurley Jr. |
 | 286 | 549 | Vic |
@@ -539,7 +539,7 @@
 | 531 | 328 | Laurmarcar |
 | 532 | 328 | Bigeddie |
 | 533 | 327 | moneybagz |
-| 534 | 326 | Jessica Wells |
+| 534 | 327 | Jessica Wells |
 | 535 | 326 | Jasmine Castro |
 | 536 | 325 | JoJo |
 | 537 | 324 | Malakai Darien Fox |
@@ -1053,101 +1053,101 @@
 | 1045 | 150 | Bentley Welsh |
 | 1046 | 150 | Nola Tubbs |
 | 1047 | 150 | Cassandra Stewart |
-| 1048 | 149 | Carmen Maraj |
-| 1049 | 149 | Paul Abono |
-| 1050 | 149 | Tarius Jackson |
-| 1051 | 148 | Tyler Brown |
-| 1052 | 148 | Tiffany Tran |
-| 1053 | 148 | Kristen Rittall |
-| 1054 | 148 | Andrea Murdoch |
-| 1055 | 147 | Dorothy Horton |
-| 1056 | 147 | Jessica Graham |
-| 1057 | 147 | Perky Shatterer |
-| 1058 | 146 | Brandi Arwood |
-| 1059 | 146 | BJ Snyder |
-| 1060 | 146 | Katie Linneman-Rowland |
-| 1061 | 146 | Nacarius |
-| 1062 | 145 | Aj |
+| 1048 | 150 | Monica Goldhorn |
+| 1049 | 149 | Carmen Maraj |
+| 1050 | 149 | Paul Abono |
+| 1051 | 149 | Tarius Jackson |
+| 1052 | 148 | Tyler Brown |
+| 1053 | 148 | Tiffany Tran |
+| 1054 | 148 | Kristen Rittall |
+| 1055 | 148 | Andrea Murdoch |
+| 1056 | 147 | Dorothy Horton |
+| 1057 | 147 | Jessica Graham |
+| 1058 | 147 | Perky Shatterer |
+| 1059 | 146 | Brandi Arwood |
+| 1060 | 146 | BJ Snyder |
+| 1061 | 146 | Katie Linneman-Rowland |
+| 1062 | 146 | Nacarius |
 | 1063 | 145 | Nutty Gridclear |
-| 1064 | 145 | Austin Trent Weaver |
-| 1065 | 145 | Kris Johnson |
-| 1066 | 145 | Hoppy Combo |
-| 1067 | 145 | Mathew Dissinger |
-| 1068 | 145 | Wacky Blockclear |
-| 1069 | 145 | Krista Bartlett |
-| 1070 | 145 | Katy Schuster |
-| 1071 | 144 | Zzz |
-| 1072 | 144 | Alicia Atwater |
-| 1073 | 144 | Kimberly Goncalves |
-| 1074 | 144 | Jamie Hirtle |
-| 1075 | 144 | Eli Sanchez |
-| 1076 | 144 | JulieAna Morales |
-| 1077 | 143 | Snappy Bouncer |
-| 1078 | 143 | Michelle Cox |
-| 1079 | 143 | Brenda Bird |
-| 1080 | 143 | James May |
-| 1081 | 143 | Sherri |
-| 1082 | 143 | Savannah Roughton Jones |
-| 1083 | 142 | Aly Eggers |
-| 1084 | 142 | 805 |
-| 1085 | 142 | evil wonton |
-| 1086 | 142 | Frank Cook |
-| 1087 | 142 | Raeann Gibson |
-| 1088 | 142 | Juan Barron |
-| 1089 | 142 | Rae |
-| 1090 | 141 | Serena Butter |
-| 1091 | 141 | Jeff Barney |
-| 1092 | 141 | Loony Slide |
-| 1093 | 141 | Wacky Gridlock |
-| 1094 | 141 | Calen Torez |
-| 1095 | 140 | SloFut Mataryal BrownBwoy |
-| 1096 | 140 | RonRico Thomas |
-| 1097 | 140 | Chill Tetrisline |
-| 1098 | 140 | Jennifer West Campos |
-| 1099 | 140 | Aj Brantley Lpn |
-| 1100 | 140 | Cozy Tiley |
-| 1101 | 140 | Shadonna Brandes |
-| 1102 | 139 | Jesse Jamez Crater |
-| 1103 | 139 | Krs |
-| 1104 | 139 | Mighty Blockzone |
-| 1105 | 139 | Camille |
-| 1106 | 139 | Giddy Piecegrid |
-| 1107 | 138 | Chipper Strikerbuilder |
-| 1108 | 138 | Takeshia Knowles |
-| 1109 | 138 | Clever Tilefall |
-| 1110 | 138 | BROOKE |
-| 1111 | 138 | Gregory Mock |
-| 1112 | 137 | Pipiska |
-| 1113 | 137 | Cj Lewis-haut |
-| 1114 | 137 | Renee |
-| 1115 | 137 | Travis Poe |
-| 1116 | 137 | Theodore Vincent |
-| 1117 | 136 | Garnet Glitz |
-| 1118 | 136 | Snappy Combofall |
-| 1119 | 136 | Alee Marie |
-| 1120 | 136 | Loopy Bouncer |
-| 1121 | 135 | Garrett G-luv Kyser |
-| 1122 | 135 | Hyper Cascade |
-| 1123 | 135 | Keri Hough |
-| 1124 | 135 | Hasty Piecefit |
-| 1125 | 134 | Crystal Canfield |
-| 1126 | 134 | BlockBabe |
-| 1127 | 132 | Rob Chebetar |
-| 1128 | 132 | Chilly Matchpiece |
-| 1129 | 132 | Jessica Cagle |
-| 1130 | 132 | Lozuna |
-| 1131 | 132 | Bromine |
-| 1132 | 131 | Shelly Short |
-| 1133 | 131 | chygesshu |
-| 1134 | 130 | Kevin L Cafleux |
-| 1135 | 130 | QueenLis |
-| 1136 | 130 | DaRuler |
-| 1137 | 130 | Chirpy Rollbuilder |
-| 1138 | 130 | Harper |
-| 1139 | 130 | Giggy Glide |
-| 1140 | 130 | Snappy Matchbuilder |
-| 1141 | 130 | Tarina Berner |
-| 1142 | 130 | Monica Goldhorn |
+| 1064 | 145 | Aj |
+| 1065 | 145 | Austin Trent Weaver |
+| 1066 | 145 | Kris Johnson |
+| 1067 | 145 | Hoppy Combo |
+| 1068 | 145 | Mathew Dissinger |
+| 1069 | 145 | Wacky Blockclear |
+| 1070 | 145 | Krista Bartlett |
+| 1071 | 145 | Katy Schuster |
+| 1072 | 144 | Zzz |
+| 1073 | 144 | Alicia Atwater |
+| 1074 | 144 | Kimberly Goncalves |
+| 1075 | 144 | Jamie Hirtle |
+| 1076 | 144 | Eli Sanchez |
+| 1077 | 144 | JulieAna Morales |
+| 1078 | 143 | Snappy Bouncer |
+| 1079 | 143 | Michelle Cox |
+| 1080 | 143 | Brenda Bird |
+| 1081 | 143 | James May |
+| 1082 | 143 | Sherri |
+| 1083 | 143 | Savannah Roughton Jones |
+| 1084 | 142 | Aly Eggers |
+| 1085 | 142 | 805 |
+| 1086 | 142 | evil wonton |
+| 1087 | 142 | Frank Cook |
+| 1088 | 142 | Raeann Gibson |
+| 1089 | 142 | Juan Barron |
+| 1090 | 142 | Rae |
+| 1091 | 141 | Serena Butter |
+| 1092 | 141 | Jeff Barney |
+| 1093 | 141 | Loony Slide |
+| 1094 | 141 | Wacky Gridlock |
+| 1095 | 141 | Calen Torez |
+| 1096 | 140 | SloFut Mataryal BrownBwoy |
+| 1097 | 140 | RonRico Thomas |
+| 1098 | 140 | Chill Tetrisline |
+| 1099 | 140 | Jennifer West Campos |
+| 1100 | 140 | Aj Brantley Lpn |
+| 1101 | 140 | Cozy Tiley |
+| 1102 | 140 | Shadonna Brandes |
+| 1103 | 139 | Jesse Jamez Crater |
+| 1104 | 139 | Krs |
+| 1105 | 139 | Mighty Blockzone |
+| 1106 | 139 | Camille |
+| 1107 | 139 | Giddy Piecegrid |
+| 1108 | 138 | Chipper Strikerbuilder |
+| 1109 | 138 | Takeshia Knowles |
+| 1110 | 138 | Clever Tilefall |
+| 1111 | 138 | BROOKE |
+| 1112 | 138 | Gregory Mock |
+| 1113 | 137 | Pipiska |
+| 1114 | 137 | Cj Lewis-haut |
+| 1115 | 137 | Renee |
+| 1116 | 137 | Travis Poe |
+| 1117 | 137 | Theodore Vincent |
+| 1118 | 136 | Garnet Glitz |
+| 1119 | 136 | Snappy Combofall |
+| 1120 | 136 | Alee Marie |
+| 1121 | 136 | Loopy Bouncer |
+| 1122 | 135 | Garrett G-luv Kyser |
+| 1123 | 135 | Hyper Cascade |
+| 1124 | 135 | Keri Hough |
+| 1125 | 135 | Hasty Piecefit |
+| 1126 | 134 | Crystal Canfield |
+| 1127 | 134 | BlockBabe |
+| 1128 | 132 | Rob Chebetar |
+| 1129 | 132 | Chilly Matchpiece |
+| 1130 | 132 | Jessica Cagle |
+| 1131 | 132 | Lozuna |
+| 1132 | 132 | Bromine |
+| 1133 | 131 | Shelly Short |
+| 1134 | 131 | chygesshu |
+| 1135 | 130 | Kevin L Cafleux |
+| 1136 | 130 | QueenLis |
+| 1137 | 130 | DaRuler |
+| 1138 | 130 | Chirpy Rollbuilder |
+| 1139 | 130 | Harper |
+| 1140 | 130 | Giggy Glide |
+| 1141 | 130 | Snappy Matchbuilder |
+| 1142 | 130 | Tarina Berner |
 | 1143 | 130 | Charlie Edson |
 | 1144 | 130 | Loony Slider |
 | 1145 | 129 | Wacky Shatterline |
