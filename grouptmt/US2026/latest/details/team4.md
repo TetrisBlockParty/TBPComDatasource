@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 09:41:22 UTC
+# Standings for team4 as of 2026-02-26 09:42:24 UTC
 
 **Total Participants:** 2359
 
@@ -194,8 +194,8 @@
 | 186 | 747 | Ernest Maxwell |
 | 187 | 743 | Chastity Mitchell |
 | 188 | 741 | Jacqueline Helm |
-| 189 | 735 | Circuit8 |
-| 190 | 735 | Shiny Fit |
+| 189 | 737 | Shiny Fit |
+| 190 | 735 | Circuit8 |
 | 191 | 731 | Cristy Duerksen |
 | 192 | 731 | KJ Pool |
 | 193 | 728 | Matt Summer |
@@ -491,35 +491,35 @@
 | 483 | 356 | Kim Klutz Olson |
 | 484 | 355 | Moonsterix |
 | 485 | 355 | Yanais Fernandez |
-| 486 | 352 | Dapper Balancer |
-| 487 | 352 | 中山成巳 |
+| 486 | 352 | B Renee Desjardin |
+| 487 | 352 | Reds Bella |
 | 488 | 352 | Jared Gutwein |
-| 489 | 352 | Reds Bella |
-| 490 | 352 | B Renee Desjardin |
+| 489 | 352 | Dapper Balancer |
+| 490 | 352 | 中山成巳 |
 | 491 | 351 | Walter Beltran |
 | 492 | 350 | Chantilly Laace |
 | 493 | 350 | April Spoelma |
 | 494 | 349 | Hector Duran |
-| 495 | 349 | Chilly Matcher |
-| 496 | 349 | jim |
-| 497 | 348 | Angela Geist Jusinski |
-| 498 | 348 | Courtney Lacerte |
-| 499 | 347 | KoolMom9907 |
-| 500 | 346 | Ronald Brown Jr. |
-| 501 | 344 | Tiny Raine |
-| 502 | 344 | Sticherella |
-| 503 | 344 | Elie Pean |
-| 504 | 343 | Frisky Matchgrid |
-| 505 | 343 | GTxIrishman |
-| 506 | 343 | Cheryl Johnson |
-| 507 | 343 | Jarred Falls |
-| 508 | 342 | Joseph Edmonson |
-| 509 | 342 | ChuckBuck Copeland |
-| 510 | 341 | Silly SeaWeed |
-| 511 | 341 | Dapper Frame |
-| 512 | 340 | Jessica Wells |
-| 513 | 340 | Jackson Karen |
-| 514 | 340 | Stephanie Mico |
+| 495 | 349 | jim |
+| 496 | 349 | Chilly Matcher |
+| 497 | 348 | Stephanie Mico |
+| 498 | 348 | Angela Geist Jusinski |
+| 499 | 348 | Courtney Lacerte |
+| 500 | 347 | KoolMom9907 |
+| 501 | 346 | Ronald Brown Jr. |
+| 502 | 344 | Elie Pean |
+| 503 | 344 | Tiny Raine |
+| 504 | 344 | Sticherella |
+| 505 | 343 | Frisky Matchgrid |
+| 506 | 343 | GTxIrishman |
+| 507 | 343 | Cheryl Johnson |
+| 508 | 343 | Jarred Falls |
+| 509 | 342 | Joseph Edmonson |
+| 510 | 342 | ChuckBuck Copeland |
+| 511 | 341 | Silly SeaWeed |
+| 512 | 341 | Dapper Frame |
+| 513 | 340 | Jessica Wells |
+| 514 | 340 | Jackson Karen |
 | 515 | 340 | Shant |
 | 516 | 340 | Ryry |
 | 517 | 339 | Bussy Bay |
@@ -700,11 +700,11 @@
 | 692 | 257 | Gilles Lanctot |
 | 693 | 257 | Maria Larsen |
 | 694 | 256 | Elle Joe |
-| 695 | 255 | Mary Therese Benden Cole |
-| 696 | 254 | Steven Roe |
-| 697 | 254 | Joyce Fees |
-| 698 | 254 | Groovy Brickmatch |
-| 699 | 253 | Jazzy Slamdrop |
+| 695 | 256 | Jazzy Slamdrop |
+| 696 | 255 | Mary Therese Benden Cole |
+| 697 | 254 | Steven Roe |
+| 698 | 254 | Joyce Fees |
+| 699 | 254 | Groovy Brickmatch |
 | 700 | 253 | Lou Ie |
 | 701 | 253 | Autumn Leslie |
 | 702 | 252 | Bubbly Setter |
