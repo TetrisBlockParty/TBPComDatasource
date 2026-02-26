@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-26 10:36:50 UTC
+# Standings for team3 as of 2026-02-26 10:37:25 UTC
 
 **Total Participants:** 3919
 
@@ -285,12 +285,12 @@
 | 277 | 843 | Taylor Culver |
 | 278 | 843 | Heather Davis |
 | 279 | 841 | Amy Cunningham Mitchell |
-| 280 | 831 | Betty Bóò |
-| 281 | 830 | Wendy Dearden |
-| 282 | 829 | Crystal Johnson |
-| 283 | 829 | Shunta Jacobs |
-| 284 | 827 | Dee Pratt |
-| 285 | 826 | Tamara Deherrera |
+| 280 | 836 | Tamara Deherrera |
+| 281 | 831 | Betty Bóò |
+| 282 | 830 | Wendy Dearden |
+| 283 | 829 | Crystal Johnson |
+| 284 | 829 | Shunta Jacobs |
+| 285 | 827 | Dee Pratt |
 | 286 | 816 | Hasty Cascadefit |
 | 287 | 813 | Mistypanda |
 | 288 | 812 | Kristen Weese |
@@ -663,30 +663,30 @@
 | 655 | 422 | Joseph Vargas |
 | 656 | 422 | Christy Quick |
 | 657 | 421 | Kristi Cargill |
-| 658 | 419 | Anna Moeller |
-| 659 | 418 | Jimmie Clemons |
-| 660 | 417 | Paizanogrl |
-| 661 | 417 | Jayce Johnson |
+| 658 | 420 | Bernadette Dawson Benoit |
+| 659 | 419 | Anna Moeller |
+| 660 | 418 | Jimmie Clemons |
+| 661 | 417 | Paizanogrl |
 | 662 | 417 | Kassie Dominique Rathbone |
 | 663 | 417 | Benny Tyrrell |
-| 664 | 417 | Jayla Jette |
-| 665 | 416 | Hyper Wipeout |
-| 666 | 416 | Brittany Lawson Tolson |
-| 667 | 416 | JustGiGi |
-| 668 | 414 | Allie Kershner |
-| 669 | 414 | Felicia Doxey |
-| 670 | 414 | Dizzy Risepiece |
-| 671 | 413 | Traci Hagerman |
-| 672 | 412 | Norma JulieMay |
-| 673 | 412 | Lenora Price |
-| 674 | 411 | Nina Marie |
-| 675 | 411 | Nicholas Roddy |
-| 676 | 411 | Moneyvybz |
-| 677 | 410 | Bernadette Dawson Benoit |
+| 664 | 417 | Jayce Johnson |
+| 665 | 417 | Jayla Jette |
+| 666 | 416 | Hyper Wipeout |
+| 667 | 416 | Brittany Lawson Tolson |
+| 668 | 416 | JustGiGi |
+| 669 | 414 | Dizzy Risepiece |
+| 670 | 414 | Felicia Doxey |
+| 671 | 414 | Allie Kershner |
+| 672 | 413 | Traci Hagerman |
+| 673 | 412 | Norma JulieMay |
+| 674 | 412 | Lenora Price |
+| 675 | 411 | Nina Marie |
+| 676 | 411 | Nicholas Roddy |
+| 677 | 411 | Moneyvybz |
 | 678 | 410 | Sheila M Frazier |
-| 679 | 409 | Zesty Rotater |
-| 680 | 409 | Flashy Rumbler |
-| 681 | 409 | Jumpy Wrecker |
+| 679 | 409 | Flashy Rumbler |
+| 680 | 409 | Jumpy Wrecker |
+| 681 | 409 | Zesty Rotater |
 | 682 | 408 | Sam Anca |
 | 683 | 408 | Tiffany Ford |
 | 684 | 408 | Robert Guizzotti |
@@ -1516,48 +1516,48 @@
 | 1508 | 194 | Giggly Cascadefit |
 | 1509 | 194 | Spunky Tiley |
 | 1510 | 193 | birdy |
-| 1511 | 193 | Countess Mo |
-| 1512 | 193 | Lilly Rather |
+| 1511 | 193 | Lilly Rather |
+| 1512 | 193 | Countess Mo |
 | 1513 | 193 | mrsh |
 | 1514 | 193 | Sarah Elizabeth |
-| 1515 | 193 | Barb |
-| 1516 | 193 | Clever Shiftsnap |
-| 1517 | 192 | Dapper Snaplink |
-| 1518 | 192 | Gwendolyn Sanders |
+| 1515 | 193 | Clever Shiftsnap |
+| 1516 | 193 | Barb |
+| 1517 | 192 | Gwendolyn Sanders |
+| 1518 | 192 | Dapper Snaplink |
 | 1519 | 192 | Tina Baurdau |
-| 1520 | 192 | Kassy Eddy |
-| 1521 | 192 | Kelly Ann Child |
-| 1522 | 192 | Alonzo Kirkland |
+| 1520 | 192 | Alonzo Kirkland |
+| 1521 | 192 | Kassy Eddy |
+| 1522 | 192 | Kelly Ann Child |
 | 1523 | 192 | Patti Esterline Larr |
 | 1524 | 192 | Apants16 |
 | 1525 | 191 | Sean Thunder |
-| 1526 | 191 | ummm |
-| 1527 | 191 | Athena |
-| 1528 | 191 | Kevin Kv Hogan |
-| 1529 | 191 | SugaMama |
-| 1530 | 191 | Ruggergamer1 |
-| 1531 | 191 | Danny Matthews |
-| 1532 | 191 | Loopy Glide |
-| 1533 | 191 | Jazzy Rollblock |
-| 1534 | 191 | Brandon Montez Sneed |
-| 1535 | 191 | Ebony Holbrook |
-| 1536 | 190 | Symantha Brott |
-| 1537 | 190 | Beanz |
-| 1538 | 190 | Frothy Wrecker |
-| 1539 | 190 | Christina |
-| 1540 | 189 | Savannah Moore |
+| 1526 | 191 | Danny Matthews |
+| 1527 | 191 | Brandon Montez Sneed |
+| 1528 | 191 | Ebony Holbrook |
+| 1529 | 191 | Jazzy Rollblock |
+| 1530 | 191 | Loopy Glide |
+| 1531 | 191 | ummm |
+| 1532 | 191 | Kevin Kv Hogan |
+| 1533 | 191 | Ruggergamer1 |
+| 1534 | 191 | SugaMama |
+| 1535 | 191 | Athena |
+| 1536 | 191 | Shelby Hiilani Manaba |
+| 1537 | 190 | Frothy Wrecker |
+| 1538 | 190 | Beanz |
+| 1539 | 190 | Symantha Brott |
+| 1540 | 190 | Christina |
 | 1541 | 189 | Kerri M. Timinski |
-| 1542 | 189 | Laurie Raynor |
-| 1543 | 189 | Brave Brickfit |
-| 1544 | 189 | Angel |
-| 1545 | 189 | Chuck Lynch |
-| 1546 | 189 | oOPurplePandaOo |
-| 1547 | 189 | Cranky Slam |
-| 1548 | 188 | toast |
-| 1549 | 188 | Sara Dunn |
-| 1550 | 188 | Shelby Hiilani Manaba |
+| 1542 | 189 | Cranky Slam |
+| 1543 | 189 | oOPurplePandaOo |
+| 1544 | 189 | Chuck Lynch |
+| 1545 | 189 | Angel |
+| 1546 | 189 | Laurie Raynor |
+| 1547 | 189 | Savannah Moore |
+| 1548 | 189 | Brave Brickfit |
+| 1549 | 188 | toast |
+| 1550 | 188 | Citysprout |
 | 1551 | 188 | Kalisha Wilbourn |
-| 1552 | 188 | Citysprout |
+| 1552 | 188 | Sara Dunn |
 | 1553 | 187 | Ryan Edwards |
 | 1554 | 187 | Joel Des-Go |
 | 1555 | 187 | punky monkey buttky |
@@ -2091,17 +2091,17 @@
 | 2083 | 115 | Flashy Fallzone |
 | 2084 | 115 | Taylo |
 | 2085 | 115 | Beanrr |
-| 2086 | 115 | Mindy Daley |
-| 2087 | 115 | Brenda Sue Rodell |
-| 2088 | 115 | JamMY-YamMy |
-| 2089 | 115 | Epic Catcher |
-| 2090 | 115 | Taco Belle |
-| 2091 | 114 | Rachel Green |
-| 2092 | 114 | Bridgette Hodges |
-| 2093 | 114 | bingooo |
-| 2094 | 114 | Tammy Lynn |
-| 2095 | 114 | AriesRam415 |
-| 2096 | 114 | Bee Reid |
+| 2086 | 115 | Bee Reid |
+| 2087 | 115 | Mindy Daley |
+| 2088 | 115 | Brenda Sue Rodell |
+| 2089 | 115 | JamMY-YamMy |
+| 2090 | 115 | Epic Catcher |
+| 2091 | 115 | Taco Belle |
+| 2092 | 114 | Rachel Green |
+| 2093 | 114 | Bridgette Hodges |
+| 2094 | 114 | bingooo |
+| 2095 | 114 | Tammy Lynn |
+| 2096 | 114 | AriesRam415 |
 | 2097 | 114 | Amanda Starr Tong |
 | 2098 | 114 | Perky Zoney |
 | 2099 | 113 | Mistie Dones English |
@@ -2140,37 +2140,37 @@
 | 2132 | 110 | Dizzy Linebuilder |
 | 2133 | 110 | Peppy Rotate |
 | 2134 | 110 | Gaazhag |
-| 2135 | 110 | Harmony Rivas |
-| 2136 | 110 | Stacy Miskell |
+| 2135 | 110 | Stacy Miskell |
+| 2136 | 110 | Harmony Rivas |
 | 2137 | 110 | Richard Rowell |
 | 2138 | 110 | Amanda Frye |
 | 2139 | 109 | AnaMay |
-| 2140 | 109 | Robbie Morris Jr. |
-| 2141 | 109 | mommablock |
-| 2142 | 109 | Samantha Washington |
-| 2143 | 109 | Clever Column |
-| 2144 | 109 | S Renee Sorey |
-| 2145 | 109 | Natashia Richardson |
-| 2146 | 109 | BC |
-| 2147 | 108 | Emily Marie Finchum |
-| 2148 | 108 | Donna DesMarias |
-| 2149 | 108 | Kelly Gomes Melendez |
-| 2150 | 108 | Groovy Shatterclear |
-| 2151 | 107 | Jazzy Clicky |
+| 2140 | 109 | Jazzy Clicky |
+| 2141 | 109 | Robbie Morris Jr. |
+| 2142 | 109 | mommablock |
+| 2143 | 109 | Samantha Washington |
+| 2144 | 109 | Clever Column |
+| 2145 | 109 | S Renee Sorey |
+| 2146 | 109 | Natashia Richardson |
+| 2147 | 109 | BC |
+| 2148 | 108 | Emily Marie Finchum |
+| 2149 | 108 | Donna DesMarias |
+| 2150 | 108 | Kelly Gomes Melendez |
+| 2151 | 108 | Groovy Shatterclear |
 | 2152 | 107 | Jennifer Tedder |
 | 2153 | 107 | Sara Linck |
 | 2154 | 107 | Haylee |
 | 2155 | 107 | Amy Hollinger |
 | 2156 | 106 | Ryan Fromm |
-| 2157 | 106 | Missbeaa |
+| 2157 | 106 | BloczMg |
 | 2158 | 106 | Isabelle Hall-Burns |
-| 2159 | 106 | Jeff Roark |
-| 2160 | 106 | BloczMg |
+| 2159 | 106 | Missbeaa |
+| 2160 | 106 | Jeff Roark |
 | 2161 | 106 | Hyper Brickster |
 | 2162 | 105 | Elizabeth Pettit |
 | 2163 | 105 | Lush Brickfit |
-| 2164 | 105 | Monique Adame Rosas |
-| 2165 | 105 | Mllwsv |
+| 2164 | 105 | Mllwsv |
+| 2165 | 105 | Monique Adame Rosas |
 | 2166 | 105 | Mark N |
 | 2167 | 105 | Giggly Zonebuilder |
 | 2168 | 105 | Chasity Nothstein |
