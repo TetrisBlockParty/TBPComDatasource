@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 10:20:46 UTC
+# Standings for team1 as of 2026-02-26 10:21:24 UTC
 
 **Total Participants:** 2656
 
@@ -62,7 +62,7 @@
 | 54 | 1749 | Tyler Alcock |
 | 55 | 1738 | Trippy Redd |
 | 56 | 1687 | Tater |
-| 57 | 1670 | Michelle Nicole |
+| 57 | 1680 | Michelle Nicole |
 | 58 | 1640 | Tipsy Column |
 | 59 | 1634 | Spunky Piecebuilder |
 | 60 | 1632 | Rachael |
@@ -226,9 +226,9 @@
 | 218 | 637 | Sarah Lombardo |
 | 219 | 637 | Jennifer Hardman |
 | 220 | 636 | Sam Williams |
-| 221 | 635 | Luciano Moreira |
-| 222 | 631 | Buttons Stemm |
-| 223 | 630 | Alenoush Karimian |
+| 221 | 636 | Alenoush Karimian |
+| 222 | 635 | Luciano Moreira |
+| 223 | 631 | Buttons Stemm |
 | 224 | 629 | Michelle Beres |
 | 225 | 629 | Avelyn Calamba |
 | 226 | 629 | Rat666 |
@@ -244,14 +244,14 @@
 | 236 | 615 | Tami Luce Martin |
 | 237 | 614 | John J. Cronin |
 | 238 | 612 | Tana |
-| 239 | 610 | Nadine Velardo |
-| 240 | 607 | David Miller |
-| 241 | 602 | Adele Rahman |
-| 242 | 600 | Teri Oehlke |
-| 243 | 597 | Stephanie Zahn |
-| 244 | 596 | Steve Schneider |
-| 245 | 595 | Shan Rock |
-| 246 | 595 | John Ramirez |
+| 239 | 612 | John Ramirez |
+| 240 | 610 | Nadine Velardo |
+| 241 | 607 | David Miller |
+| 242 | 602 | Adele Rahman |
+| 243 | 600 | Teri Oehlke |
+| 244 | 597 | Stephanie Zahn |
+| 245 | 596 | Steve Schneider |
+| 246 | 595 | Shan Rock |
 | 247 | 594 | Angela Spann |
 | 248 | 591 | Sunny Shift |
 | 249 | 589 | Daring Fitclear |
@@ -765,18 +765,18 @@
 | 757 | 243 | Mary Pelley |
 | 758 | 242 | Sherri E Woods Hess |
 | 759 | 242 | Bean |
-| 760 | 242 | Bruce Cruz |
-| 761 | 241 | Misty Hall Zaranti |
-| 762 | 241 | Mechelle Bailum |
-| 763 | 241 | Kellie Tunstall |
-| 764 | 241 | Swanky Patternfit |
-| 765 | 241 | William Touzin |
-| 766 | 241 | Steven Schultheis |
-| 767 | 241 | Lush Zoney |
-| 768 | 241 | Marie Fox |
-| 769 | 241 | Mortious |
-| 770 | 240 | Dawn Cox |
-| 771 | 240 | Sarah Cassese |
+| 760 | 242 | Sarah Cassese |
+| 761 | 242 | Bruce Cruz |
+| 762 | 241 | Misty Hall Zaranti |
+| 763 | 241 | Mechelle Bailum |
+| 764 | 241 | Kellie Tunstall |
+| 765 | 241 | Swanky Patternfit |
+| 766 | 241 | William Touzin |
+| 767 | 241 | Steven Schultheis |
+| 768 | 241 | Lush Zoney |
+| 769 | 241 | Marie Fox |
+| 770 | 241 | Mortious |
+| 771 | 240 | Dawn Cox |
 | 772 | 239 | Mindy Gloska |
 | 773 | 239 | Erez Yosef |
 | 774 | 239 | Giddy Clearbuilder |
@@ -1496,29 +1496,29 @@
 | 1488 | 90 | Jeremy Horrach |
 | 1489 | 89 | Scott Hevenor |
 | 1490 | 89 | Amy Hoats |
-| 1491 | 89 | FableGray |
-| 1492 | 89 | 杜庭維 |
+| 1491 | 89 | 杜庭維 |
+| 1492 | 89 | FableGray |
 | 1493 | 89 | Channis |
 | 1494 | 89 | Kenton Billings |
 | 1495 | 89 | Home Plate |
 | 1496 | 88 | Tom Sackett |
 | 1497 | 88 | James Best |
-| 1498 | 88 | Gewb |
-| 1499 | 88 | Kandie Marie |
+| 1498 | 88 | Kandie Marie |
+| 1499 | 88 | Gewb |
 | 1500 | 88 | Anna Bennett |
 | 1501 | 88 | Allison |
-| 1502 | 87 | Sanita Latham |
-| 1503 | 87 | Shaun Houglin |
-| 1504 | 87 | Lena Kuprina |
-| 1505 | 87 | Delia Cheatwood |
-| 1506 | 87 | Jolly Buildsnap |
-| 1507 | 86 | Charles Holland |
-| 1508 | 86 | Silly Patternblock |
-| 1509 | 86 | Stephanie Mounts |
-| 1510 | 86 | Semaj Johnson |
-| 1511 | 85 | Vanessa G Keill |
-| 1512 | 85 | Bwebb Bryan |
-| 1513 | 85 | Ruffrider27 |
+| 1502 | 87 | Ruffrider27 |
+| 1503 | 87 | Sanita Latham |
+| 1504 | 87 | Shaun Houglin |
+| 1505 | 87 | Lena Kuprina |
+| 1506 | 87 | Delia Cheatwood |
+| 1507 | 87 | Jolly Buildsnap |
+| 1508 | 86 | Charles Holland |
+| 1509 | 86 | Silly Patternblock |
+| 1510 | 86 | Stephanie Mounts |
+| 1511 | 86 | Semaj Johnson |
+| 1512 | 85 | Vanessa G Keill |
+| 1513 | 85 | Bwebb Bryan |
 | 1514 | 85 | Allen Hill |
 | 1515 | 85 | Larina Cherie Johnson |
 | 1516 | 85 | Bob Thorp |
