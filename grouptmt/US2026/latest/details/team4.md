@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 00:30:45 UTC
+# Standings for team4 as of 2026-02-26 00:31:23 UTC
 
 **Total Participants:** 2282
 
@@ -100,7 +100,7 @@
 | 92 | 1089 | Monica Daley |
 | 93 | 1087 | Jeremy Steines |
 | 94 | 1082 | Dion Crommarty |
-| 95 | 1071 | loulou |
+| 95 | 1074 | loulou |
 | 96 | 1070 | Amy Suckarieh |
 | 97 | 1065 | Edward White |
 | 98 | 1063 | Lori Walker |
@@ -396,10 +396,10 @@
 | 388 | 405 | ZeeZee |
 | 389 | 402 | Glitzy Corner |
 | 390 | 402 | Richard-April Kice |
-| 391 | 401 | RamboBanana |
-| 392 | 400 | Juls |
-| 393 | 400 | Paito |
-| 394 | 397 | Chummy Towerzone |
+| 391 | 401 | Paito |
+| 392 | 401 | Chummy Towerzone |
+| 393 | 401 | RamboBanana |
+| 394 | 400 | Juls |
 | 395 | 397 | George Tzouganos |
 | 396 | 396 | Bonnie Hurlbrink |
 | 397 | 395 | Marcus TheeyoungWoe Gilmore |
