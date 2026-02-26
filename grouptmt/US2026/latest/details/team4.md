@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 04:42:44 UTC
+# Standings for team4 as of 2026-02-26 04:43:24 UTC
 
 **Total Participants:** 2330
 
@@ -207,9 +207,9 @@
 | 199 | 682 | Steph Marie |
 | 200 | 681 | Shiny Fit |
 | 201 | 680 | Melvin Baird |
-| 202 | 676 | Chris Bernstein |
-| 203 | 674 | Twisty Clicky |
-| 204 | 674 | Matt Summer |
+| 202 | 679 | Matt Summer |
+| 203 | 676 | Chris Bernstein |
+| 204 | 674 | Twisty Clicky |
 | 205 | 674 | Jenna Ingersoll |
 | 206 | 673 | Jessica Bohlken |
 | 207 | 668 | David Boggs |
@@ -1165,26 +1165,26 @@
 | 1157 | 124 | Bold Towerpiece |
 | 1158 | 123 | MoP11 |
 | 1159 | 123 | Ashley Lynn Shannon |
-| 1160 | 122 | Courtney Cassidy |
-| 1161 | 122 | Ann Poulson |
-| 1162 | 122 | Tracey Oger |
-| 1163 | 122 | Garrett G-luv Kyser |
-| 1164 | 121 | Sunny Holder |
-| 1165 | 121 | Jmier |
-| 1166 | 121 | 0934 |
-| 1167 | 121 | Lazy Shatterfit |
-| 1168 | 121 | Frisky Column |
-| 1169 | 121 | Frothy Patterner |
-| 1170 | 120 | I'm sorry |
-| 1171 | 120 | Zippy Stack |
-| 1172 | 120 | Zappy Snaplink |
-| 1173 | 120 | Cheery Chiseler |
-| 1174 | 119 | Katrina Looney |
-| 1175 | 119 | Becky Irby |
-| 1176 | 119 | Natalie;) |
-| 1177 | 119 | Paco Gonzalez |
-| 1178 | 119 | DerpDroid |
-| 1179 | 119 | Slappy Blackhead |
+| 1160 | 123 | Slappy Blackhead |
+| 1161 | 122 | Courtney Cassidy |
+| 1162 | 122 | Ann Poulson |
+| 1163 | 122 | Tracey Oger |
+| 1164 | 122 | Garrett G-luv Kyser |
+| 1165 | 121 | Sunny Holder |
+| 1166 | 121 | Jmier |
+| 1167 | 121 | 0934 |
+| 1168 | 121 | Lazy Shatterfit |
+| 1169 | 121 | Frisky Column |
+| 1170 | 121 | Frothy Patterner |
+| 1171 | 120 | I'm sorry |
+| 1172 | 120 | Zippy Stack |
+| 1173 | 120 | Zappy Snaplink |
+| 1174 | 120 | Cheery Chiseler |
+| 1175 | 119 | Katrina Looney |
+| 1176 | 119 | Becky Irby |
+| 1177 | 119 | Natalie;) |
+| 1178 | 119 | Paco Gonzalez |
+| 1179 | 119 | DerpDroid |
 | 1180 | 118 | Jared Nadler |
 | 1181 | 118 | Ace317 |
 | 1182 | 118 | QueenLis |
