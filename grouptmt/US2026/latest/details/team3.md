@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-02-26 07:14:45 UTC
+# Standings for team3 as of 2026-02-26 07:15:24 UTC
 
 **Total Participants:** 3896
 
@@ -441,7 +441,7 @@
 | 433 | 555 | Maggie |
 | 434 | 554 | Tegan Chapman |
 | 435 | 554 | Plucky Frame |
-| 436 | 552 | Antonia Russell |
+| 436 | 553 | Antonia Russell |
 | 437 | 549 | Tay |
 | 438 | 549 | luluraine |
 | 439 | 549 | Chummy Caster |
@@ -470,12 +470,12 @@
 | 462 | 524 | Richard |
 | 463 | 523 | Sassy Brickmatch |
 | 464 | 523 | Philip Rock |
-| 465 | 523 | Julie Fratrik |
+| 465 | 523 | Gracie Ornelas |
 | 466 | 523 | Criss |
-| 467 | 522 | Giggy Balanceblock |
-| 468 | 522 | RickyG |
-| 469 | 522 | Shelly Marie Lloyd |
-| 470 | 520 | Gracie Ornelas |
+| 467 | 523 | Julie Fratrik |
+| 468 | 522 | Giggy Balanceblock |
+| 469 | 522 | RickyG |
+| 470 | 522 | Shelly Marie Lloyd |
 | 471 | 518 | Hyper Bridger |
 | 472 | 518 | Samantha Worley |
 | 473 | 516 | Bekah Dietrich |
