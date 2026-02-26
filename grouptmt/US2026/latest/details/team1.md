@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 06:08:44 UTC
+# Standings for team1 as of 2026-02-26 06:09:23 UTC
 
 **Total Participants:** 2628
 
@@ -48,7 +48,7 @@
 | 40 | 2010 | Christina Graham |
 | 41 | 1997 | Brenda Stewart |
 | 42 | 1974 | Cynthia Bradley |
-| 43 | 1947 | Marianne Louise West |
+| 43 | 1951 | Marianne Louise West |
 | 44 | 1924 | Bhelle Sumile |
 | 45 | 1884 | Lola Adkhambekovna |
 | 46 | 1876 | Rahna Underwood |
@@ -166,15 +166,15 @@
 | 158 | 800 | Tiger Lily |
 | 159 | 797 | Death |
 | 160 | 792 | cc |
-| 161 | 785 | Jennifer Noe Chandler |
-| 162 | 784 | Serina Marie |
-| 163 | 784 | Basment Living |
-| 164 | 781 | Snippy Wipebuilder |
-| 165 | 778 | Yvonne Marie |
-| 166 | 771 | Trina Gee |
-| 167 | 770 | Zappy Curvetile |
-| 168 | 757 | Krista Young |
-| 169 | 754 | Michael Espinosa Ulibarri Jr. |
+| 161 | 791 | Michael Espinosa Ulibarri Jr. |
+| 162 | 785 | Jennifer Noe Chandler |
+| 163 | 784 | Serina Marie |
+| 164 | 784 | Basment Living |
+| 165 | 781 | Snippy Wipebuilder |
+| 166 | 778 | Yvonne Marie |
+| 167 | 771 | Trina Gee |
+| 168 | 770 | Zappy Curvetile |
+| 169 | 757 | Krista Young |
 | 170 | 751 | Jerry Danowski |
 | 171 | 749 | April Jones |
 | 172 | 749 | Howdi Duty |
