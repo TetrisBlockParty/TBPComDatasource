@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 05:24:44 UTC
+# Standings for team1 as of 2026-02-26 05:25:24 UTC
 
 **Total Participants:** 2620
 
@@ -151,12 +151,12 @@
 | 143 | 879 | Dandy Basegrid |
 | 144 | 862 | April Carroll |
 | 145 | 862 | Christy Jones |
-| 146 | 859 | Tanya Carpenter-Reynolds |
-| 147 | 856 | Cartier |
+| 146 | 861 | Cartier |
+| 147 | 859 | Tanya Carpenter-Reynolds |
 | 148 | 850 | Susanna Guerry |
 | 149 | 824 | Debbie Kane |
-| 150 | 813 | Tipsy Riseclear |
-| 151 | 808 | Erin Rosberg |
+| 150 | 816 | Erin Rosberg |
+| 151 | 813 | Tipsy Riseclear |
 | 152 | 806 | .running. |
 | 153 | 803 | Standia Civil |
 | 154 | 803 | lil mickey |
@@ -210,15 +210,15 @@
 | 202 | 646 | Angela Renea Lester |
 | 203 | 639 | Lakeisha Chapman |
 | 204 | 638 | Brandi Huntington |
-| 205 | 637 | Jennifer Hardman |
-| 206 | 637 | Sarah Lombardo |
-| 207 | 636 | Brave Linkmatch |
-| 208 | 635 | Luciano Moreira |
-| 209 | 635 | Sleepysloath5745 |
-| 210 | 629 | Rat666 |
-| 211 | 629 | Michelle Beres |
-| 212 | 628 | Buttons Stemm |
-| 213 | 628 | Jessica Russell |
+| 205 | 638 | Jessica Russell |
+| 206 | 637 | Jennifer Hardman |
+| 207 | 637 | Sarah Lombardo |
+| 208 | 636 | Brave Linkmatch |
+| 209 | 635 | Luciano Moreira |
+| 210 | 635 | Sleepysloath5745 |
+| 211 | 629 | Rat666 |
+| 212 | 629 | Michelle Beres |
+| 213 | 628 | Buttons Stemm |
 | 214 | 626 | Avelyn Calamba |
 | 215 | 625 | Buggs |
 | 216 | 625 | Witty Builderfit |
@@ -396,9 +396,9 @@
 | 388 | 412 | Alphonza Keyes Jr. |
 | 389 | 411 | Amh |
 | 390 | 411 | Gracie |
-| 391 | 410 | Toni Sagenbrecht |
-| 392 | 409 | Danielle Little-Daugherty |
-| 393 | 409 | Dizzy Riseclear |
+| 391 | 411 | Dizzy Riseclear |
+| 392 | 410 | Toni Sagenbrecht |
+| 393 | 409 | Danielle Little-Daugherty |
 | 394 | 408 | Elizabeth Kubli |
 | 395 | 408 | Angela Jones |
 | 396 | 407 | Lisa Miller |
@@ -1234,27 +1234,27 @@
 | 1226 | 125 | madd |
 | 1227 | 125 | Mia Sams |
 | 1228 | 125 | Phredda Compton |
-| 1229 | 125 | Katie Oehmann Mosier |
-| 1230 | 124 | McGee |
-| 1231 | 124 | rigerson |
-| 1232 | 124 | Heather Wilson |
-| 1233 | 124 | Chilly Piececlear |
-| 1234 | 123 | Megan Meyers |
-| 1235 | 123 | Christi Ames |
-| 1236 | 123 | Chirpy Liner |
-| 1237 | 123 | Christine Sheridan |
-| 1238 | 122 | Gregg Scott |
-| 1239 | 122 | Fra Nk Lin |
-| 1240 | 122 | Unelanuhi Belladonna Mystikal Bomar |
-| 1241 | 122 | Michele Baucom |
-| 1242 | 122 | Peg |
-| 1243 | 122 | Quirky Holder |
-| 1244 | 122 | Mary Logan |
-| 1245 | 121 | Turtle Boser |
-| 1246 | 121 | Alice Johnson |
+| 1229 | 125 | Lively Snap |
+| 1230 | 125 | Katie Oehmann Mosier |
+| 1231 | 124 | McGee |
+| 1232 | 124 | rigerson |
+| 1233 | 124 | Heather Wilson |
+| 1234 | 124 | Chilly Piececlear |
+| 1235 | 123 | Megan Meyers |
+| 1236 | 123 | Christi Ames |
+| 1237 | 123 | Chirpy Liner |
+| 1238 | 123 | Christine Sheridan |
+| 1239 | 122 | Gregg Scott |
+| 1240 | 122 | Fra Nk Lin |
+| 1241 | 122 | Unelanuhi Belladonna Mystikal Bomar |
+| 1242 | 122 | Michele Baucom |
+| 1243 | 122 | Peg |
+| 1244 | 122 | Quirky Holder |
+| 1245 | 122 | Mary Logan |
+| 1246 | 121 | Turtle Boser |
 | 1247 | 121 | Ty Meach |
 | 1248 | 121 | Blythe |
-| 1249 | 121 | Lively Snap |
+| 1249 | 121 | Alice Johnson |
 | 1250 | 121 | Terry Leon Osborne Jr. |
 | 1251 | 121 | Danielle Sperry |
 | 1252 | 121 | Wendy Walker-Hill |
@@ -1576,25 +1576,25 @@
 | 1568 | 76 | Betsi Pittman Wade |
 | 1569 | 76 | funneemonee |
 | 1570 | 76 | fuse |
-| 1571 | 76 | Lydia Rodriguez |
-| 1572 | 76 | Slinky Towerpiece |
-| 1573 | 76 | Don Reno |
-| 1574 | 75 | Silly Patterner |
-| 1575 | 75 | Stephanie Twoallbeefpattiez Johnson |
-| 1576 | 75 | Chill Brickclear |
-| 1577 | 75 | Cheeky Link |
-| 1578 | 75 | Amy Mancini |
-| 1579 | 75 | Wynn Cook |
-| 1580 | 75 | Witty Frame |
-| 1581 | 75 | Sarah Stanonik |
-| 1582 | 75 | Nerdy Balancefit |
-| 1583 | 74 | Edward Woodall |
-| 1584 | 74 | Larry |
-| 1585 | 74 | Scott Cutter |
-| 1586 | 74 | Shawn Reeser Morgan |
-| 1587 | 74 | Hank |
-| 1588 | 74 | Kayyjayy |
-| 1589 | 74 | Cheryl Harker |
+| 1571 | 76 | Amy Mancini |
+| 1572 | 76 | Lydia Rodriguez |
+| 1573 | 76 | Slinky Towerpiece |
+| 1574 | 76 | Don Reno |
+| 1575 | 75 | Silly Patterner |
+| 1576 | 75 | Stephanie Twoallbeefpattiez Johnson |
+| 1577 | 75 | Sarah Stanonik |
+| 1578 | 75 | Chill Brickclear |
+| 1579 | 75 | Cheeky Link |
+| 1580 | 75 | Nerdy Balancefit |
+| 1581 | 75 | Witty Frame |
+| 1582 | 75 | Wynn Cook |
+| 1583 | 74 | Cheryl Harker |
+| 1584 | 74 | Kayyjayy |
+| 1585 | 74 | Hank |
+| 1586 | 74 | Edward Woodall |
+| 1587 | 74 | Shawn Reeser Morgan |
+| 1588 | 74 | Scott Cutter |
+| 1589 | 74 | Larry |
 | 1590 | 73 | Will Iams Chole |
 | 1591 | 73 | Jack Shafer |
 | 1592 | 73 | Loneell Hyland |
