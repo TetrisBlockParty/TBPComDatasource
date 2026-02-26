@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 07:44:45 UTC
+# Standings for team1 as of 2026-02-26 07:45:22 UTC
 
 **Total Participants:** 2641
 
@@ -22,7 +22,7 @@
 | 14 | 4982 | Wei Ching Fang |
 | 15 | 3646 | Perky Shiftsnap |
 | 16 | 3305 | Lisa Marie |
-| 17 | 3210 | Katie Daniels |
+| 17 | 3220 | Katie Daniels |
 | 18 | 3023 | LaQuetta Faith Hines |
 | 19 | 2938 | Odell Barnett |
 | 20 | 2884 | Adrian Esteban |
@@ -130,12 +130,12 @@
 | 122 | 973 | Denice Dee |
 | 123 | 972 | Plucky Fallzone |
 | 124 | 972 | Seth Wesson |
-| 125 | 961 | Michael Espinosa Ulibarri Jr. |
-| 126 | 954 | Virginia Gray Floyd |
-| 127 | 953 | Sevens4L |
-| 128 | 952 | Bob |
-| 129 | 952 | Susan Ward |
-| 130 | 951 | Robert Benito |
+| 125 | 961 | Robert Benito |
+| 126 | 961 | Michael Espinosa Ulibarri Jr. |
+| 127 | 954 | Virginia Gray Floyd |
+| 128 | 953 | Sevens4L |
+| 129 | 952 | Bob |
+| 130 | 952 | Susan Ward |
 | 131 | 950 | Oscar Zamora |
 | 132 | 945 | Jazzy Framezone |
 | 133 | 945 | Bouncy Grid |
@@ -2159,68 +2159,68 @@
 | 2151 | 27 | Melody Hoisington Arends |
 | 2152 | 27 | Cozy Clear |
 | 2153 | 27 | Lively Linker |
-| 2154 | 27 | Cool Bridgepiece |
-| 2155 | 27 | Taz |
+| 2154 | 27 | Taz |
+| 2155 | 27 | Cool Bridgepiece |
 | 2156 | 27 | FredDumplings |
-| 2157 | 26 | Clever Snapzone |
+| 2157 | 26 | Joseph Andresen |
 | 2158 | 26 | Janice Clugston Mcbride |
 | 2159 | 26 | Princess Pea |
 | 2160 | 26 | Kayla K Evans |
 | 2161 | 26 | Lishamarie Blakley Ingles |
 | 2162 | 26 | Charles Corey |
-| 2163 | 26 | Mighty Tiley |
-| 2164 | 26 | Joseph Andresen |
+| 2163 | 26 | Clever Snapzone |
+| 2164 | 26 | Mighty Tiley |
 | 2165 | 26 | Tae Leggett |
 | 2166 | 26 | Frisky Cascadezone |
 | 2167 | 26 | Hopey Manuel |
 | 2168 | 26 | Chilly Blocker |
 | 2169 | 26 | Frederick Swann |
-| 2170 | 26 | Leandro |
-| 2171 | 26 | Krista Joyce |
-| 2172 | 26 | Beverly Lo |
-| 2173 | 26 | Amber Saxton |
-| 2174 | 26 | CAP |
-| 2175 | 26 | Peppy Buildout |
-| 2176 | 26 | Drifter76 |
-| 2177 | 26 | Casey Nicole |
-| 2178 | 25 | Grumpy09990 |
-| 2179 | 25 | nic |
-| 2180 | 25 | Koop |
-| 2181 | 25 | Hasty Wipebuilder |
-| 2182 | 25 | Kirsten |
-| 2183 | 25 | Clinton Castle |
-| 2184 | 25 | Martha Kay Frye |
-| 2185 | 25 | Newt Heckin Newton |
-| 2186 | 25 | Jeremy Weaver |
-| 2187 | 25 | MDM |
-| 2188 | 25 | Jumpy Curvebuilder |
-| 2189 | 25 | yaha |
-| 2190 | 25 | Tony Poat |
-| 2191 | 25 | Kim Durbin |
-| 2192 | 25 | Jaxs Pro |
-| 2193 | 25 | Chucknasty24 |
-| 2194 | 25 | Billy Furrer |
-| 2195 | 25 | Zappy Builderpiece |
-| 2196 | 24 | Joie M Foland |
-| 2197 | 24 | Crystal Lynn Lenz |
-| 2198 | 24 | Cindy Cooper |
-| 2199 | 24 | Lafonda |
-| 2200 | 24 | Cozy Ziggy |
-| 2201 | 24 | Kryatal Poulin |
-| 2202 | 24 | Benjamin Ramos |
-| 2203 | 24 | Sallie Reach |
-| 2204 | 24 | Mike Rhoads |
-| 2205 | 24 | Wendy M. Burke-Cox |
-| 2206 | 24 | Leonard Brown |
-| 2207 | 24 | Daniel Rico |
-| 2208 | 24 | Lori Michelle Bye |
-| 2209 | 24 | Timmy Goats |
-| 2210 | 24 | Lush Shatterfit |
-| 2211 | 23 | Armando Leon |
+| 2170 | 26 | Crystal Lynn Lenz |
+| 2171 | 26 | Leandro |
+| 2172 | 26 | Krista Joyce |
+| 2173 | 26 | Drifter76 |
+| 2174 | 26 | Casey Nicole |
+| 2175 | 26 | CAP |
+| 2176 | 26 | Beverly Lo |
+| 2177 | 26 | Amber Saxton |
+| 2178 | 26 | Peppy Buildout |
+| 2179 | 25 | Billy Furrer |
+| 2180 | 25 | Zappy Builderpiece |
+| 2181 | 25 | Jaxs Pro |
+| 2182 | 25 | Jeremy Weaver |
+| 2183 | 25 | Martha Kay Frye |
+| 2184 | 25 | Koop |
+| 2185 | 25 | nic |
+| 2186 | 25 | Kirsten |
+| 2187 | 25 | Hasty Wipebuilder |
+| 2188 | 25 | Newt Heckin Newton |
+| 2189 | 25 | Chucknasty24 |
+| 2190 | 25 | Grumpy09990 |
+| 2191 | 25 | Clinton Castle |
+| 2192 | 25 | Jumpy Curvebuilder |
+| 2193 | 25 | MDM |
+| 2194 | 25 | Kim Durbin |
+| 2195 | 25 | yaha |
+| 2196 | 25 | Tony Poat |
+| 2197 | 24 | Lush Shatterfit |
+| 2198 | 24 | Lafonda |
+| 2199 | 24 | Cindy Cooper |
+| 2200 | 24 | Lori Michelle Bye |
+| 2201 | 24 | Daniel Rico |
+| 2202 | 24 | Leonard Brown |
+| 2203 | 24 | Cozy Ziggy |
+| 2204 | 24 | Timmy Goats |
+| 2205 | 24 | Kryatal Poulin |
+| 2206 | 24 | Wendy M. Burke-Cox |
+| 2207 | 24 | Benjamin Ramos |
+| 2208 | 24 | Joie M Foland |
+| 2209 | 24 | Sallie Reach |
+| 2210 | 24 | Mike Rhoads |
+| 2211 | 23 | Acid |
 | 2212 | 23 | Marie Jessica |
-| 2213 | 23 | Acid |
-| 2214 | 23 | Travis Davison |
-| 2215 | 23 | Andrea Lauren Smith |
+| 2213 | 23 | Armando Leon |
+| 2214 | 23 | Andrea Lauren Smith |
+| 2215 | 23 | Travis Davison |
 | 2216 | 23 | Zayne Bryant |
 | 2217 | 23 | fefe |
 | 2218 | 23 | Chris Nitz |
