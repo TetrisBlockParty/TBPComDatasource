@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 00:42:45 UTC
+# Standings for team4 as of 2026-02-26 00:43:23 UTC
 
 **Total Participants:** 2282
 
@@ -41,7 +41,7 @@
 | 33 | 2082 | Dustin Robert |
 | 34 | 1977 | Rebecca Moulton Pinciaro |
 | 35 | 1962 | Cool Buildout |
-| 36 | 1949 | Jae Job |
+| 36 | 1953 | Jae Job |
 | 37 | 1897 | Courtney Cicoria |
 | 38 | 1850 | Shane Kalamata Platoon |
 | 39 | 1830 | Ash |
@@ -112,10 +112,10 @@
 | 104 | 990 | Crystal Lynn |
 | 105 | 988 | Nugget |
 | 106 | 980 | Jason Hart |
-| 107 | 962 | Samantha Peterson |
-| 108 | 960 | Shh |
-| 109 | 959 | Shauna Havard |
-| 110 | 954 | Diana Houts |
+| 107 | 964 | Diana Houts |
+| 108 | 962 | Samantha Peterson |
+| 109 | 960 | Shh |
+| 110 | 959 | Shauna Havard |
 | 111 | 947 | Sam Bishop |
 | 112 | 946 | Denise Carlson |
 | 113 | 944 | Lucille Truesdale |
@@ -279,17 +279,17 @@
 | 271 | 542 | Jason Gibbs |
 | 272 | 540 | Ultramarine |
 | 273 | 537 | ThaEviLJeNiuZ |
-| 274 | 537 | Hyper Matchclear |
-| 275 | 530 | John Brunetti |
-| 276 | 530 | Brittany Little |
-| 277 | 529 | Lora |
-| 278 | 527 | Jolly Dashfit |
-| 279 | 522 | Silly Zonebuilder |
-| 280 | 522 | Luis Martinez |
-| 281 | 521 | Keshia Lyons |
-| 282 | 518 | Ari Droff |
-| 283 | 518 | Leah Kutz Zirbel |
-| 284 | 517 | Russ Attitude |
+| 274 | 537 | Russ Attitude |
+| 275 | 537 | Hyper Matchclear |
+| 276 | 530 | John Brunetti |
+| 277 | 530 | Brittany Little |
+| 278 | 529 | Lora |
+| 279 | 527 | Jolly Dashfit |
+| 280 | 522 | Silly Zonebuilder |
+| 281 | 522 | Luis Martinez |
+| 282 | 521 | Keshia Lyons |
+| 283 | 518 | Ari Droff |
+| 284 | 518 | Leah Kutz Zirbel |
 | 285 | 516 | Nick Gray |
 | 286 | 513 | Holly Jolly |
 | 287 | 512 | Casey Jeffcoat |
@@ -442,16 +442,16 @@
 | 434 | 369 | Christine Therrien |
 | 435 | 368 | Michael Orris |
 | 436 | 367 | Meg |
-| 437 | 365 | Susan Williams |
-| 438 | 364 | wombat |
-| 439 | 364 | Peachy Brickster |
-| 440 | 363 | Eminem |
-| 441 | 361 | Shainne Brewer |
-| 442 | 361 | giantslover514 |
-| 443 | 361 | ThriftySpice |
-| 444 | 360 | Carter Jones |
-| 445 | 360 | Laura McPheeters |
-| 446 | 359 | Lazy Glidepiece |
+| 437 | 366 | Lazy Glidepiece |
+| 438 | 365 | Susan Williams |
+| 439 | 364 | wombat |
+| 440 | 364 | Peachy Brickster |
+| 441 | 363 | Eminem |
+| 442 | 361 | Shainne Brewer |
+| 443 | 361 | giantslover514 |
+| 444 | 361 | ThriftySpice |
+| 445 | 360 | Carter Jones |
+| 446 | 360 | Laura McPheeters |
 | 447 | 359 | Happy Combo |
 | 448 | 359 | Allen Lloyd |
 | 449 | 358 | Ron |
@@ -938,12 +938,12 @@
 | 930 | 169 | Dania Cochrane |
 | 931 | 169 | mistresscoundrl1 |
 | 932 | 169 | Swanky Blockline |
-| 933 | 168 | Michelle Sanchez |
-| 934 | 168 | Emily Babic |
-| 935 | 168 | Heather Mamabear Pezze |
-| 936 | 168 | Frisky Twistslam |
-| 937 | 168 | Roberta Arnold |
-| 938 | 168 | Cari Underwood |
+| 933 | 169 | Cari Underwood |
+| 934 | 168 | Michelle Sanchez |
+| 935 | 168 | Emily Babic |
+| 936 | 168 | Heather Mamabear Pezze |
+| 937 | 168 | Frisky Twistslam |
+| 938 | 168 | Roberta Arnold |
 | 939 | 168 | Nicole McMurray |
 | 940 | 168 | Holly Tracey-Grimes |
 | 941 | 167 | Sadie Rae Ryan |
@@ -996,13 +996,13 @@
 | 988 | 154 | Saundra Miller |
 | 989 | 154 | Kellie Tacuban |
 | 990 | 153 | Sara Saxton Moon |
-| 991 | 153 | Peace |
-| 992 | 152 | April Chalfant |
-| 993 | 152 | ScootyLadoo |
-| 994 | 151 | GMoney Rbt |
-| 995 | 151 | Meli  Jackson |
-| 996 | 151 | Bryon Grenfell |
-| 997 | 151 | Daring Strike |
+| 991 | 153 | Daring Strike |
+| 992 | 153 | Peace |
+| 993 | 152 | April Chalfant |
+| 994 | 152 | ScootyLadoo |
+| 995 | 151 | GMoney Rbt |
+| 996 | 151 | Meli  Jackson |
+| 997 | 151 | Bryon Grenfell |
 | 998 | 151 | poopoo |
 | 999 | 151 | Brittany Price |
 | 1000 | 150 | Bruce Harris |
@@ -1626,63 +1626,63 @@
 | 1618 | 53 | Haley Jean |
 | 1619 | 53 | Holly Baxley |
 | 1620 | 53 | Daring Zonepiece |
-| 1621 | 53 | Dizzy Rollbuilder |
-| 1622 | 53 | Snippy Snapzone |
+| 1621 | 53 | Snippy Snapzone |
+| 1622 | 53 | Dizzy Rollbuilder |
 | 1623 | 52 | Hoodylu |
 | 1624 | 52 | Lily Cannon |
 | 1625 | 52 | Clever Fitzone |
 | 1626 | 52 | Albert Mariano |
-| 1627 | 52 | emd |
-| 1628 | 52 | Daniel Bonham |
-| 1629 | 52 | Eli Guevara |
-| 1630 | 52 | Poppy |
-| 1631 | 52 | Flashy Cascadepiece |
+| 1627 | 52 | George Clemis |
+| 1628 | 52 | emd |
+| 1629 | 52 | Daniel Bonham |
+| 1630 | 52 | Eli Guevara |
+| 1631 | 52 | Poppy |
 | 1632 | 52 | Elmccormick |
 | 1633 | 52 | Csquared812 |
-| 1634 | 52 | Francis Fleurant |
-| 1635 | 52 | Alexis Kelly |
-| 1636 | 51 | Laura Davis |
-| 1637 | 51 | Jamie Smalling |
-| 1638 | 51 | GrapeJetFuel |
-| 1639 | 51 | Shiny Linkpiece |
+| 1634 | 52 | Flashy Cascadepiece |
+| 1635 | 52 | Francis Fleurant |
+| 1636 | 52 | Alexis Kelly |
+| 1637 | 51 | GrapeJetFuel |
+| 1638 | 51 | Sassy Block |
+| 1639 | 51 | Stacey M Hawkins |
 | 1640 | 51 | Sarah Whitson |
-| 1641 | 51 | Sassy Block |
-| 1642 | 51 | Jean Camacho |
-| 1643 | 51 | Stacey M Hawkins |
-| 1644 | 51 | Luna |
+| 1641 | 51 | Laura Davis |
+| 1642 | 51 | Shiny Linkpiece |
+| 1643 | 51 | Jamie Smalling |
+| 1644 | 51 | Jean Camacho |
 | 1645 | 51 | Isa |
-| 1646 | 50 | George Clemis |
-| 1647 | 50 | Peachy Roll |
-| 1648 | 50 | Jeremy S Williams |
-| 1649 | 50 | Darren Shanholtz |
-| 1650 | 50 | Chtid |
-| 1651 | 49 | Michelle LaRose |
-| 1652 | 49 | Lacey J Vaughn |
-| 1653 | 49 | Boldy Basegrid |
-| 1654 | 49 | Sarah Fox |
+| 1646 | 51 | Luna |
+| 1647 | 50 | Darren Shanholtz |
+| 1648 | 50 | Chtid |
+| 1649 | 50 | Jeremy S Williams |
+| 1650 | 50 | Peachy Roll |
+| 1651 | 49 | Boldy Basegrid |
+| 1652 | 49 | Christopher Laney |
+| 1653 | 49 | Michelle LaRose |
+| 1654 | 49 | BlingBling |
 | 1655 | 49 | weegoosey |
 | 1656 | 49 | yinkaan |
-| 1657 | 49 | KingScuba |
-| 1658 | 49 | Christopher Laney |
-| 1659 | 49 | BlingBling |
-| 1660 | 49 | Maria N Manuel Mendoza |
-| 1661 | 48 | Simiara Robotham |
-| 1662 | 48 | Spud |
-| 1663 | 48 | Zesty Pivotfall |
-| 1664 | 48 | om |
-| 1665 | 48 | Arqunita Nene Marbury |
-| 1666 | 48 | Jumpy Spinfit |
-| 1667 | 48 | Chill Riserpiece |
-| 1668 | 48 | Dandy Dasher |
-| 1669 | 48 | Dawn Plumb |
-| 1670 | 48 | Taiserbmx |
-| 1671 | 48 | Flashy Twister |
-| 1672 | 48 | Tuan |
-| 1673 | 48 | Headrick Chelly Greeneyes |
-| 1674 | 47 | Twisty Wipegrid |
-| 1675 | 47 | Zer0h |
+| 1657 | 49 | Maria N Manuel Mendoza |
+| 1658 | 49 | Lacey J Vaughn |
+| 1659 | 49 | KingScuba |
+| 1660 | 49 | Sarah Fox |
+| 1661 | 48 | Flashy Twister |
+| 1662 | 48 | om |
+| 1663 | 48 | Headrick Chelly Greeneyes |
+| 1664 | 48 | Spud |
+| 1665 | 48 | Simiara Robotham |
+| 1666 | 48 | Tuan |
+| 1667 | 48 | Zesty Pivotfall |
+| 1668 | 48 | Jumpy Spinfit |
+| 1669 | 48 | Taiserbmx |
+| 1670 | 48 | Chill Riserpiece |
+| 1671 | 48 | Arqunita Nene Marbury |
+| 1672 | 48 | Dandy Dasher |
+| 1673 | 48 | Dawn Plumb |
+| 1674 | 47 | Zer0h |
+| 1675 | 47 | Jordon Arkyn |
 | 1676 | 47 | Raider Victor Brown |
-| 1677 | 47 | Jordon Arkyn |
+| 1677 | 47 | Twisty Wipegrid |
 | 1678 | 47 | BostonRitz |
 | 1679 | 47 | Epic Gridzone |
 | 1680 | 47 | Cozy Clearfit |
