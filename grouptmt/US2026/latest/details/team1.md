@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 07:25:24 UTC
+# Standings for team1 as of 2026-02-26 07:26:22 UTC
 
 **Total Participants:** 2639
 
@@ -103,9 +103,9 @@
 | 95 | 1170 | Sweet Baker |
 | 96 | 1169 | Stephanie Leday |
 | 97 | 1169 | Erin Hodges Plumb |
-| 98 | 1162 | Amber Stoker |
-| 99 | 1153 | Robert Beck |
-| 100 | 1143 | Chris K |
+| 98 | 1167 | Chris K |
+| 99 | 1162 | Amber Stoker |
+| 100 | 1153 | Robert Beck |
 | 101 | 1132 | Madison Wicks |
 | 102 | 1128 | Cheeky Crusher |
 | 103 | 1126 | Hyper |
@@ -802,74 +802,74 @@
 | 794 | 226 | Shannon Elizabeth |
 | 795 | 225 | Rory Eviltwin Bayer |
 | 796 | 225 | Ramona Mittelstadt |
-| 797 | 224 | Salih Atasoy |
-| 798 | 224 | Lisa Marie |
-| 799 | 224 | Fat fred |
-| 800 | 224 | Anastasia Lozada |
-| 801 | 224 | SophieG |
-| 802 | 224 | PSD |
+| 797 | 224 | PSD |
+| 798 | 224 | Anastasia Lozada |
+| 799 | 224 | Lisa Marie |
+| 800 | 224 | Salih Atasoy |
+| 801 | 224 | Fat fred |
+| 802 | 224 | SophieG |
 | 803 | 223 | Charlesa Burns |
 | 804 | 223 | Katie Toothman |
 | 805 | 223 | Tesia Solano |
-| 806 | 222 | John Garza |
+| 806 | 222 | ply |
 | 807 | 222 | Katie Bell |
-| 808 | 222 | ply |
-| 809 | 222 | Francine-frankie Ritzio-Rizzo |
-| 810 | 221 | Uhog SF |
-| 811 | 221 | chabbu |
-| 812 | 221 | Amy Hess |
-| 813 | 221 | William Cry |
-| 814 | 221 | V VIN |
-| 815 | 221 | Shannon Jones |
-| 816 | 221 | Johnnette Kruse |
-| 817 | 220 | Johnson Aryonda |
-| 818 | 220 | Toespixe |
+| 808 | 222 | Francine-frankie Ritzio-Rizzo |
+| 809 | 222 | John Garza |
+| 810 | 221 | William Cry |
+| 811 | 221 | Amy Hess |
+| 812 | 221 | Shannon Jones |
+| 813 | 221 | Uhog SF |
+| 814 | 221 | chabbu |
+| 815 | 221 | Johnnette Kruse |
+| 816 | 221 | V VIN |
+| 817 | 220 | Toespixe |
+| 818 | 220 | Johnson Aryonda |
 | 819 | 220 | Rob Burns |
-| 820 | 219 | Sean McErlane |
-| 821 | 219 | Kurtis Manlow |
-| 822 | 219 | Wacky Strikesnap |
-| 823 | 219 | Paul Osborne |
+| 820 | 219 | Paul Osborne |
+| 821 | 219 | Wacky Strikesnap |
+| 822 | 219 | Kurtis Manlow |
+| 823 | 219 | Sean McErlane |
 | 824 | 218 | Theresa Nicole |
 | 825 | 217 | Dorny |
-| 826 | 216 | Dafna Kaplan-Garrahy |
-| 827 | 216 | Shauntina Burke |
-| 828 | 216 | davis13 |
-| 829 | 216 | Nicolette Ivory Chastain |
-| 830 | 216 | Matt Leroux |
-| 831 | 216 | Krista Roberts |
-| 832 | 216 | Anthony T. Fults |
+| 826 | 216 | Nicolette Ivory Chastain |
+| 827 | 216 | Dafna Kaplan-Garrahy |
+| 828 | 216 | Adam Charles |
+| 829 | 216 | Shauntina Burke |
+| 830 | 216 | davis13 |
+| 831 | 216 | Anthony T. Fults |
+| 832 | 216 | Matt Leroux |
 | 833 | 216 | Erin Divine |
-| 834 | 215 | Almïghty Stoner |
+| 834 | 216 | Krista Roberts |
 | 835 | 215 | Vivian Bush |
-| 836 | 214 | Alex Gauthier |
-| 837 | 214 | VaSharon Crenshaw |
-| 838 | 213 | Brandy Ann |
-| 839 | 213 | David DeSantis |
-| 840 | 213 | Nekina Wright |
+| 836 | 215 | Almïghty Stoner |
+| 837 | 214 | Alex Gauthier |
+| 838 | 214 | VaSharon Crenshaw |
+| 839 | 213 | Nekina Wright |
+| 840 | 213 | David DeSantis |
 | 841 | 213 | Heather Coleman |
-| 842 | 212 | Garcia Bailey |
-| 843 | 212 | Plucky Tetrisline |
-| 844 | 212 | Adam Charles |
-| 845 | 212 | Sherrick Edwards |
-| 846 | 211 | ThreeBone |
+| 842 | 213 | Brandy Ann |
+| 843 | 212 | Sherrick Edwards |
+| 844 | 212 | Garcia Bailey |
+| 845 | 212 | Plucky Tetrisline |
+| 846 | 211 | Nicholes Stanley |
 | 847 | 211 | Jennifer Chilton-Metlock |
-| 848 | 211 | Nicholes Stanley |
+| 848 | 211 | ThreeBone |
 | 849 | 211 | Roxy Cohen-Skalli |
 | 850 | 211 | Kevin Prothro |
 | 851 | 210 | Dave |
 | 852 | 210 | Christian Corral |
-| 853 | 209 | Amador López Martínez |
-| 854 | 209 | EverPi |
+| 853 | 209 | EverPi |
+| 854 | 209 | Amador López Martínez |
 | 855 | 209 | Melissa Thomas |
-| 856 | 208 | Virginia Swank |
-| 857 | 208 | Donna Addison Williams |
+| 856 | 208 | Donna Addison Williams |
+| 857 | 208 | Virginia Swank |
 | 858 | 208 | Jason Landon Sexton |
 | 859 | 208 | Donna Horoszewski-Dilgen |
 | 860 | 208 | Suzanne |
-| 861 | 208 | Philip Hutson |
-| 862 | 208 | Paul Gates |
-| 863 | 208 | TristansDad |
-| 864 | 208 | Crystal Joslin |
+| 861 | 208 | Crystal Joslin |
+| 862 | 208 | Philip Hutson |
+| 863 | 208 | Paul Gates |
+| 864 | 208 | TristansDad |
 | 865 | 208 | Alfredo Vasquez |
 | 866 | 207 | Jodee Woods |
 | 867 | 207 | Michael Butler |
@@ -1713,24 +1713,24 @@
 | 1705 | 63 | Shelley Dose |
 | 1706 | 63 | Allen Furrow |
 | 1707 | 63 | Max R Eble |
-| 1708 | 62 | Michael Campbell |
-| 1709 | 62 | Hasty Dropmatch |
-| 1710 | 62 | Kishi |
-| 1711 | 62 | Beatrice Williams |
-| 1712 | 62 | Ernesto |
-| 1713 | 62 | Michael Akins |
-| 1714 | 62 | Rooster |
-| 1715 | 62 | Chummy Tiltpiece |
-| 1716 | 62 | Hilda Silvers |
-| 1717 | 61 | Todd Barry |
+| 1708 | 62 | kamo |
+| 1709 | 62 | Michael Campbell |
+| 1710 | 62 | Hasty Dropmatch |
+| 1711 | 62 | Kishi |
+| 1712 | 62 | Beatrice Williams |
+| 1713 | 62 | Ernesto |
+| 1714 | 62 | Michael Akins |
+| 1715 | 62 | Rooster |
+| 1716 | 62 | Chummy Tiltpiece |
+| 1717 | 62 | Hilda Silvers |
 | 1718 | 61 | Beverly Bender |
 | 1719 | 61 | Rose Clark |
 | 1720 | 61 | Liz Oubre |
-| 1721 | 61 | Daring Buildgrid |
-| 1722 | 61 | Brianna Andrews |
-| 1723 | 61 | Karen Guy |
-| 1724 | 61 | Perky Patternfall |
-| 1725 | 61 | kamo |
+| 1721 | 61 | Todd Barry |
+| 1722 | 61 | Daring Buildgrid |
+| 1723 | 61 | Brianna Andrews |
+| 1724 | 61 | Karen Guy |
+| 1725 | 61 | Perky Patternfall |
 | 1726 | 60 | Jaila Voorhees |
 | 1727 | 60 | Apex892 |
 | 1728 | 60 | Lu Mann |
@@ -2410,37 +2410,37 @@
 | 2402 | 14 | Jazzy Frame |
 | 2403 | 14 | Veronica Carter |
 | 2404 | 14 | Crafty Lifter |
-| 2405 | 14 | Bobbi Hamilton |
-| 2406 | 14 | Rachel Elizabeth |
-| 2407 | 14 | Jumpy Piececlear |
-| 2408 | 14 | BEARCAT |
+| 2405 | 14 | Crystal Lynn Lenz |
+| 2406 | 14 | Richard Corley |
+| 2407 | 14 | Bobbi Hamilton |
+| 2408 | 14 | Hope |
 | 2409 | 14 | Selena Bridwell |
-| 2410 | 14 | Hope |
-| 2411 | 14 | Richard Corley |
-| 2412 | 13 | Hasty Slide |
-| 2413 | 13 | Casey Hart |
-| 2414 | 13 | Snappy Snapbuild |
-| 2415 | 13 | Lesley Johnson |
-| 2416 | 13 | Laurel Fetterer |
-| 2417 | 13 | Nathaniel Jay Holmes |
+| 2410 | 14 | Jumpy Piececlear |
+| 2411 | 14 | BEARCAT |
+| 2412 | 14 | Rachel Elizabeth |
+| 2413 | 13 | Carrie Dawn Halsted Marshall |
+| 2414 | 13 | Squiggy |
+| 2415 | 13 | GranC |
+| 2416 | 13 | Joshua Thomas Smith |
+| 2417 | 13 | Xanna |
 | 2418 | 13 | Rory Schort |
-| 2419 | 13 | Xanna |
-| 2420 | 13 | Joshua Thomas Smith |
-| 2421 | 13 | Squiggy |
-| 2422 | 13 | GranC |
-| 2423 | 13 | Carrie Dawn Halsted Marshall |
-| 2424 | 13 | Bold Slider |
-| 2425 | 13 | Bouncy Bricky |
-| 2426 | 13 | Hồ Gia Hân |
-| 2427 | 13 | Bold Patternfit |
-| 2428 | 13 | Tanya Foster |
-| 2429 | 13 | Christina Hamm |
+| 2419 | 13 | Casey Hart |
+| 2420 | 13 | Hasty Slide |
+| 2421 | 13 | Snappy Snapbuild |
+| 2422 | 13 | Lesley Johnson |
+| 2423 | 13 | Laurel Fetterer |
+| 2424 | 13 | Nathaniel Jay Holmes |
+| 2425 | 13 | Bold Slider |
+| 2426 | 13 | Bouncy Bricky |
+| 2427 | 13 | Hồ Gia Hân |
+| 2428 | 13 | Bold Patternfit |
+| 2429 | 13 | Tanya Foster |
 | 2430 | 13 | Arcy |
 | 2431 | 13 | Spunky Wipepiece |
 | 2432 | 13 | Silly Tilerpiece |
-| 2433 | 12 | Randy MacDonald |
-| 2434 | 12 | Adam Murray Knapp |
-| 2435 | 12 | Crystal Lynn Lenz |
+| 2433 | 13 | Christina Hamm |
+| 2434 | 12 | Randy MacDonald |
+| 2435 | 12 | Adam Murray Knapp |
 | 2436 | 12 | Zappy Strikesnap |
 | 2437 | 12 | Donte Lester |
 | 2438 | 12 | Tipsy Gridclear |
@@ -2449,8 +2449,8 @@
 | 2441 | 12 | Sierra Rae Fade |
 | 2442 | 12 | Beth Gibbs |
 | 2443 | 12 | Bro_BRIAN |
-| 2444 | 12 | Alan Black |
-| 2445 | 12 | MiaBella |
+| 2444 | 12 | MiaBella |
+| 2445 | 12 | Alan Black |
 | 2446 | 12 | Steven Covey |
 | 2447 | 12 | Donna Miller |
 | 2448 | 12 | Brittany Schultz-Bloom |
