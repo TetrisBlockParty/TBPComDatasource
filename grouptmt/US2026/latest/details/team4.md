@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 04:32:44 UTC
+# Standings for team4 as of 2026-02-26 04:33:24 UTC
 
 **Total Participants:** 2328
 
@@ -188,10 +188,10 @@
 | 180 | 734 | Christine Simmons |
 | 181 | 731 | KJ Pool |
 | 182 | 731 | Cristy Duerksen |
-| 183 | 722 | Jim Hart |
-| 184 | 721 | Chris Baggett |
-| 185 | 721 | Circuit8 |
-| 186 | 719 | Andy Cabral |
+| 183 | 722 | Andy Cabral |
+| 184 | 722 | Jim Hart |
+| 185 | 721 | Chris Baggett |
+| 186 | 721 | Circuit8 |
 | 187 | 717 | Brickh4us |
 | 188 | 716 | Adam Stephanie Parker |
 | 189 | 714 | Erin Sabol |
@@ -216,10 +216,10 @@
 | 208 | 660 | Amanda Pauldo-Ivy |
 | 209 | 657 | Ren Mc |
 | 210 | 657 | Erin Thomas |
-| 211 | 652 | Kesha Brady |
-| 212 | 647 | KM8 |
-| 213 | 646 | Damn Libra |
-| 214 | 644 | Matt Summer |
+| 211 | 654 | Matt Summer |
+| 212 | 652 | Kesha Brady |
+| 213 | 647 | KM8 |
+| 214 | 646 | Damn Libra |
 | 215 | 643 | Cool Towerbuilder |
 | 216 | 642 | Genne Scott |
 | 217 | 639 | meowmew |
@@ -589,23 +589,23 @@
 | 581 | 300 | moneybagz |
 | 582 | 298 | Tanya Abernathy Jackson |
 | 583 | 298 | Spunky Framezone |
-| 584 | 297 | Smiley Shifter |
-| 585 | 296 | Cozy Matchclear |
-| 586 | 295 | Cheery Fitline |
-| 587 | 295 | Lisa Bush |
+| 584 | 298 | Cozy Matchclear |
+| 585 | 297 | Smiley Shifter |
+| 586 | 295 | Lisa Bush |
+| 587 | 295 | Cheery Fitline |
 | 588 | 295 | Noel Christa |
 | 589 | 294 | BootsMcGee |
 | 590 | 294 | Rosemary Foster |
 | 591 | 294 | Kelly Adams Carnahan |
-| 592 | 292 | Gigglelymomof2 |
-| 593 | 292 | Epic Curvetile |
-| 594 | 291 | Orchislactea |
-| 595 | 291 | Joseph Pace |
-| 596 | 291 | Diosa Ebalobo Magsael |
-| 597 | 291 | Nerdy Linebuilder |
+| 592 | 292 | Epic Curvetile |
+| 593 | 292 | Gigglelymomof2 |
+| 594 | 291 | Joseph Pace |
+| 595 | 291 | Diosa Ebalobo Magsael |
+| 596 | 291 | Nerdy Linebuilder |
+| 597 | 291 | Orchislactea |
 | 598 | 291 | Nathalie Jardim |
-| 599 | 290 | Tanner Lund |
-| 600 | 290 | Perky Riser |
+| 599 | 290 | Perky Riser |
+| 600 | 290 | Tanner Lund |
 | 601 | 290 | Heidi Jo Hill |
 | 602 | 289 | Amanda Christine |
 | 603 | 288 | Wacky Blockclear |
@@ -889,23 +889,23 @@
 | 881 | 190 | Goofy Fitblock |
 | 882 | 190 | Joe Lonnemann |
 | 883 | 190 | Joni Marie Flanary |
-| 884 | 189 | Linda Alexander Downing |
-| 885 | 189 | Cari Underwood |
-| 886 | 189 | FreckledFlamingo |
-| 887 | 189 | deebop |
-| 888 | 189 | Matthew Doyle |
+| 884 | 189 | Matthew Doyle |
+| 885 | 189 | Linda Alexander Downing |
+| 886 | 189 | Cari Underwood |
+| 887 | 189 | FreckledFlamingo |
+| 888 | 189 | deebop |
 | 889 | 188 | Witty Link |
 | 890 | 188 | Milly Johnson |
 | 891 | 188 | Jennifer Perkins |
-| 892 | 188 | Peyton Mclaughlin |
-| 893 | 187 | Shiny Wipefit |
-| 894 | 187 | Cozy Balanceblock |
-| 895 | 187 | Skyler Patzer |
-| 896 | 187 | mini |
-| 897 | 187 | Jason Punch |
-| 898 | 186 | Rick SJ |
-| 899 | 186 | Empress Oasis |
-| 900 | 186 | Holly Tracey-Grimes |
+| 892 | 188 | Holly Tracey-Grimes |
+| 893 | 188 | Peyton Mclaughlin |
+| 894 | 187 | Shiny Wipefit |
+| 895 | 187 | Cozy Balanceblock |
+| 896 | 187 | Skyler Patzer |
+| 897 | 187 | mini |
+| 898 | 187 | Jason Punch |
+| 899 | 186 | Rick SJ |
+| 900 | 186 | Empress Oasis |
 | 901 | 186 | Jessica Johnston |
 | 902 | 185 | Lori Goudy |
 | 903 | 185 | Nikisha Reed |
@@ -1046,25 +1046,25 @@
 | 1038 | 146 | Katie Linneman-Rowland |
 | 1039 | 145 | Krista Bartlett |
 | 1040 | 145 | Nutty Gridclear |
-| 1041 | 145 | Katy Schuster |
-| 1042 | 145 | Aj |
-| 1043 | 145 | Hoppy Combo |
-| 1044 | 145 | Kris Johnson |
-| 1045 | 145 | Austin Trent Weaver |
-| 1046 | 144 | Jamie Hirtle |
-| 1047 | 144 | Eli Sanchez |
-| 1048 | 144 | Tasha |
-| 1049 | 144 | JulieAna Morales |
-| 1050 | 144 | Roseanna Anderson |
-| 1051 | 144 | Kimberly Goncalves |
-| 1052 | 143 | Sherri |
-| 1053 | 143 | James May |
-| 1054 | 143 | Brenda Bird |
-| 1055 | 143 | Snappy Bouncer |
-| 1056 | 143 | Savannah Roughton Jones |
-| 1057 | 142 | Raeann Gibson |
+| 1041 | 145 | Roseanna Anderson |
+| 1042 | 145 | Katy Schuster |
+| 1043 | 145 | Aj |
+| 1044 | 145 | Austin Trent Weaver |
+| 1045 | 145 | Hoppy Combo |
+| 1046 | 145 | Kris Johnson |
+| 1047 | 144 | Tasha |
+| 1048 | 144 | JulieAna Morales |
+| 1049 | 144 | Kimberly Goncalves |
+| 1050 | 144 | Eli Sanchez |
+| 1051 | 144 | Jamie Hirtle |
+| 1052 | 143 | Savannah Roughton Jones |
+| 1053 | 143 | Snappy Bouncer |
+| 1054 | 143 | Sherri |
+| 1055 | 143 | Brenda Bird |
+| 1056 | 143 | James May |
+| 1057 | 142 | 805 |
 | 1058 | 142 | Frank Cook |
-| 1059 | 142 | 805 |
+| 1059 | 142 | Raeann Gibson |
 | 1060 | 142 | Juan Barron |
 | 1061 | 142 | Rae |
 | 1062 | 142 | Aly Eggers |
