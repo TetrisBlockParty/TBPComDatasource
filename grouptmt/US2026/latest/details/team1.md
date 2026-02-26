@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 03:20:44 UTC
+# Standings for team1 as of 2026-02-26 03:21:23 UTC
 
 **Total Participants:** 2593
 
@@ -25,7 +25,7 @@
 | 17 | 3120 | Katie Daniels |
 | 18 | 3023 | LaQuetta Faith Hines |
 | 19 | 2938 | Odell Barnett |
-| 20 | 2722 | Adrian Esteban |
+| 20 | 2725 | Adrian Esteban |
 | 21 | 2686 | Amanda Jarnagin |
 | 22 | 2685 | Mara Hilker |
 | 23 | 2641 | Felicia Lewis |
@@ -236,9 +236,9 @@
 | 228 | 577 | Cheeky Pop |
 | 229 | 575 | Sarah Somers Gray |
 | 230 | 575 | Adele Rahman |
-| 231 | 574 | Anaid Sanchez |
-| 232 | 571 | Plucky Ziggy |
-| 233 | 571 | Teri Oehlke |
+| 231 | 574 | Teri Oehlke |
+| 232 | 574 | Anaid Sanchez |
+| 233 | 571 | Plucky Ziggy |
 | 234 | 570 | Mike Ames |
 | 235 | 570 | Cody Slav |
 | 236 | 570 | Sam Williams |
@@ -781,12 +781,12 @@
 | 773 | 228 | Elyse YL |
 | 774 | 228 | Isodor |
 | 775 | 228 | Jai Pahpasay |
-| 776 | 227 | Bruce Cruz |
-| 777 | 226 | Shannon Elizabeth |
-| 778 | 226 | Kathryn Chiles Anderson |
-| 779 | 226 | Marie Fox |
-| 780 | 225 | Rory Eviltwin Bayer |
-| 781 | 225 | Mary Pelley |
+| 776 | 228 | Mary Pelley |
+| 777 | 227 | Bruce Cruz |
+| 778 | 226 | Shannon Elizabeth |
+| 779 | 226 | Kathryn Chiles Anderson |
+| 780 | 226 | Marie Fox |
+| 781 | 225 | Rory Eviltwin Bayer |
 | 782 | 225 | Ramona Mittelstadt |
 | 783 | 224 | Salih Atasoy |
 | 784 | 224 | Fat fred |
@@ -2027,68 +2027,68 @@
 | 2019 | 33 | Fatty Davis |
 | 2020 | 33 | Samantha Rachelle Branham |
 | 2021 | 33 | Rosie |
-| 2022 | 33 | Ashley Sheen |
-| 2023 | 33 | Stacy C. Privott |
-| 2024 | 33 | Linda Nys |
-| 2025 | 33 | Softrainsunny— |
-| 2026 | 33 | Siconia Mccants Bsw |
-| 2027 | 33 | Charles Larsen |
-| 2028 | 33 | Zany Gridclear |
-| 2029 | 33 | Rachael F Trudel |
+| 2022 | 33 | Rachael F Trudel |
+| 2023 | 33 | Ashley Sheen |
+| 2024 | 33 | Zany Gridclear |
+| 2025 | 33 | Charles Larsen |
+| 2026 | 33 | Stacy C. Privott |
+| 2027 | 33 | Siconia Mccants Bsw |
+| 2028 | 33 | Softrainsunny— |
+| 2029 | 33 | Linda Nys |
 | 2030 | 32 | Victoria |
-| 2031 | 32 | Djdubz |
+| 2031 | 32 | Gerardo Perez |
 | 2032 | 32 | Trecey |
-| 2033 | 32 | Gerardo Perez |
-| 2034 | 32 | Chill Fitzone |
-| 2035 | 32 | mudpuppy |
-| 2036 | 32 | Hoppy Riserfit |
-| 2037 | 32 | Tony Lawton |
-| 2038 | 32 | Giggy Clearbuilder |
-| 2039 | 32 | Rangel Arch |
-| 2040 | 32 | Annoying46 |
-| 2041 | 32 | m31v1n03 |
-| 2042 | 32 | Lush Dasher |
-| 2043 | 32 | Eric Robinson |
-| 2044 | 32 | Guy Krutas |
-| 2045 | 32 | Jenea Lewis |
-| 2046 | 32 | Joe Andrew Jackson |
-| 2047 | 32 | Glitzy Strikesnap |
-| 2048 | 32 | Lulumagoo |
-| 2049 | 32 | Dandy Crawler |
-| 2050 | 32 | Zesty Towerzone |
-| 2051 | 32 | Boldy Stacky |
+| 2033 | 32 | Chill Fitzone |
+| 2034 | 32 | mudpuppy |
+| 2035 | 32 | Hoppy Riserfit |
+| 2036 | 32 | Tony Lawton |
+| 2037 | 32 | Rangel Arch |
+| 2038 | 32 | Lush Dasher |
+| 2039 | 32 | Eric Robinson |
+| 2040 | 32 | Danielle Sheffer |
+| 2041 | 32 | Guy Krutas |
+| 2042 | 32 | Djdubz |
+| 2043 | 32 | m31v1n03 |
+| 2044 | 32 | Annoying46 |
+| 2045 | 32 | Giggy Clearbuilder |
+| 2046 | 32 | Jenea Lewis |
+| 2047 | 32 | Dandy Crawler |
+| 2048 | 32 | Glitzy Strikesnap |
+| 2049 | 32 | Zesty Towerzone |
+| 2050 | 32 | Joe Andrew Jackson |
+| 2051 | 32 | Lulumagoo |
 | 2052 | 32 | CelestiaIris |
-| 2053 | 31 | Justin Wolf |
-| 2054 | 31 | Kimberly Ranae Lanus-Saice |
-| 2055 | 31 | Steve Andreeski |
-| 2056 | 31 | Amy Thale Gooding |
-| 2057 | 31 | Lynnita West Wright |
-| 2058 | 31 | Summer |
-| 2059 | 31 | Amanda Colwell |
-| 2060 | 31 | Maya Denae Myrick |
-| 2061 | 31 | Michael Bakko |
-| 2062 | 31 | Wildeye |
-| 2063 | 31 | Shawne Smith |
-| 2064 | 31 | Plucky Wipebuilder |
-| 2065 | 31 | Cassandra Cooper |
-| 2066 | 31 | Tiny Bear |
-| 2067 | 31 | Rebecca Rognerud |
-| 2068 | 30 | Roberto Sicairos Jr. |
-| 2069 | 30 | Ashley Glover |
-| 2070 | 30 | Danielle Sheffer |
+| 2053 | 32 | Boldy Stacky |
+| 2054 | 31 | Maya Denae Myrick |
+| 2055 | 31 | Kimberly Ranae Lanus-Saice |
+| 2056 | 31 | Steve Andreeski |
+| 2057 | 31 | Amy Thale Gooding |
+| 2058 | 31 | Lynnita West Wright |
+| 2059 | 31 | Summer |
+| 2060 | 31 | Amanda Colwell |
+| 2061 | 31 | Justin Wolf |
+| 2062 | 31 | Michael Bakko |
+| 2063 | 31 | Wildeye |
+| 2064 | 31 | Shawne Smith |
+| 2065 | 31 | Plucky Wipebuilder |
+| 2066 | 31 | Cassandra Cooper |
+| 2067 | 31 | Tiny Bear |
+| 2068 | 31 | Rebecca Rognerud |
+| 2069 | 30 | Roberto Sicairos Jr. |
+| 2070 | 30 | Ashley Glover |
 | 2071 | 30 | KERI |
 | 2072 | 30 | Melissa Nicole Hanscom |
 | 2073 | 30 | Meh |
 | 2074 | 30 | Melissa Erwin |
 | 2075 | 30 | Sassy Slide |
 | 2076 | 30 | Samuel Wright |
-| 2077 | 30 | Shawn Ricketts-Nelson |
-| 2078 | 30 | BIGOONS |
-| 2079 | 30 | ColombianNuttz |
-| 2080 | 30 | Bouncy Linefit |
-| 2081 | 30 | Twisty Lift |
-| 2082 | 30 | Tiffany Hairston |
-| 2083 | 29 | Michelle Arteaga-Avila |
+| 2077 | 30 | Tiffany Hairston |
+| 2078 | 30 | Shawn Ricketts-Nelson |
+| 2079 | 30 | Bouncy Linefit |
+| 2080 | 30 | BIGOONS |
+| 2081 | 30 | ColombianNuttz |
+| 2082 | 30 | Twisty Lift |
+| 2083 | 29 | Giggly Dashfit |
 | 2084 | 29 | Lansaw J Jay |
 | 2085 | 29 | GiGi Maisonave |
 | 2086 | 29 | Wendy Lee |
@@ -2097,20 +2097,20 @@
 | 2089 | 29 | Bryran |
 | 2090 | 29 | Andrew Heath Hicks |
 | 2091 | 29 | Diane Wilson |
-| 2092 | 29 | Lush Risebuilder |
-| 2093 | 29 | Giggly Dashfit |
-| 2094 | 29 | John Vining |
-| 2095 | 29 | Yellow Fox |
-| 2096 | 29 | Renee Miles Merrick |
-| 2097 | 29 | Renee Clark Thaxton |
-| 2098 | 29 | Boldy Dropzone |
-| 2099 | 28 | Lyndy Kelley |
+| 2092 | 29 | John Vining |
+| 2093 | 29 | Yellow Fox |
+| 2094 | 29 | Renee Clark Thaxton |
+| 2095 | 29 | Michelle Arteaga-Avila |
+| 2096 | 29 | Boldy Dropzone |
+| 2097 | 29 | Renee Miles Merrick |
+| 2098 | 29 | Lush Risebuilder |
+| 2099 | 28 | Lydia Kepner |
 | 2100 | 28 | Tina Chow |
 | 2101 | 28 | Jacob Kelly-O'Brien |
 | 2102 | 28 | Giddy Shatterfit |
 | 2103 | 28 | Shabba22 |
-| 2104 | 28 | Lydia Kepner |
-| 2105 | 28 | Joy Riley |
+| 2104 | 28 | Joy Riley |
+| 2105 | 28 | Lyndy Kelley |
 | 2106 | 28 | Godofwar |
 | 2107 | 28 | Blanca Perez |
 | 2108 | 28 | Wacky Snap |
