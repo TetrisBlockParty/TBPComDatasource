@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 04:08:44 UTC
+# Standings for team4 as of 2026-02-26 04:09:24 UTC
 
 **Total Participants:** 2325
 
@@ -129,9 +129,9 @@
 | 121 | 959 | Shauna Havard |
 | 122 | 944 | Lucille Truesdale |
 | 123 | 936 | Sassy Pattern |
-| 124 | 923 | Carmethia Clemons Haslerig |
-| 125 | 922 | Trista Leah |
-| 126 | 922 | Angela Srubar-Norman |
+| 124 | 932 | Angela Srubar-Norman |
+| 125 | 923 | Carmethia Clemons Haslerig |
+| 126 | 922 | Trista Leah |
 | 127 | 921 | D3TROITB0RN74 |
 | 128 | 903 | Brittney Orengo |
 | 129 | 898 | Lindsey Gonzalez |
@@ -152,8 +152,8 @@
 | 144 | 846 | Christine Marie |
 | 145 | 843 | Leslie Nicole |
 | 146 | 841 | Zippy Gridlock |
-| 147 | 835 | Lucas J Sutton |
-| 148 | 835 | TheNeesh50 |
+| 147 | 835 | TheNeesh50 |
+| 148 | 835 | Lucas J Sutton |
 | 149 | 815 | Cursed Hag |
 | 150 | 814 | Crystal Carroll |
 | 151 | 812 | Adawna Swires |
@@ -267,9 +267,9 @@
 | 259 | 575 | Sandra Safford |
 | 260 | 568 | Zippy Block |
 | 261 | 566 | Rio Rocha |
-| 262 | 563 | Ericca Eldridge |
-| 263 | 562 | Michele Plunkett |
-| 264 | 560 | Kimberlee Jan Beckstead |
+| 262 | 563 | Kimberlee Jan Beckstead |
+| 263 | 563 | Ericca Eldridge |
+| 264 | 562 | Michele Plunkett |
 | 265 | 560 | Zethra Prenisha Rahming |
 | 266 | 557 | Rheanda Weaskus |
 | 267 | 556 | Bio Nelly |
@@ -477,18 +477,18 @@
 | 469 | 359 | Paige Kittles |
 | 470 | 359 | Lane Wasson |
 | 471 | 358 | Miranda Diulio |
-| 472 | 358 | Jasmine S Caldwell |
-| 473 | 358 | Krash |
+| 472 | 358 | Krash |
+| 473 | 358 | Jasmine S Caldwell |
 | 474 | 356 | Kim Klutz Olson |
-| 475 | 355 | Moonsterix |
-| 476 | 355 | Jenny Wells-Oakley |
-| 477 | 353 | Chance Strickland |
-| 478 | 352 | Reds Bella |
-| 479 | 352 | B Renee Desjardin |
+| 475 | 355 | Yanais Fernandez |
+| 476 | 355 | Moonsterix |
+| 477 | 355 | Jenny Wells-Oakley |
+| 478 | 353 | Chance Strickland |
+| 479 | 352 | Reds Bella |
 | 480 | 352 | Dapper Balancer |
-| 481 | 352 | Jared Gutwein |
-| 482 | 351 | Walter Beltran |
-| 483 | 350 | Yanais Fernandez |
+| 481 | 352 | B Renee Desjardin |
+| 482 | 352 | Jared Gutwein |
+| 483 | 351 | Walter Beltran |
 | 484 | 350 | April Spoelma |
 | 485 | 350 | Ashley Danielle |
 | 486 | 350 | Chantilly Laace |
@@ -497,8 +497,8 @@
 | 489 | 348 | Angela Geist Jusinski |
 | 490 | 348 | Courtney Lacerte |
 | 491 | 347 | KoolMom9907 |
-| 492 | 346 | RIFATSIKDER |
-| 493 | 346 | Ronald Brown Jr. |
+| 492 | 346 | Ronald Brown Jr. |
+| 493 | 346 | RIFATSIKDER |
 | 494 | 346 | Tabitha Calvin |
 | 495 | 344 | Chilly Matcher |
 | 496 | 343 | Jarred Falls |
@@ -761,15 +761,15 @@
 | 753 | 231 | Zany Mover |
 | 754 | 231 | Alfredo Aguilar |
 | 755 | 230 | Cozy Balancer |
-| 756 | 229 | April |
-| 757 | 229 | Tabita Gonzalez |
-| 758 | 229 | Sassy Gridzone |
-| 759 | 229 | Demont Darius |
-| 760 | 228 | Peppy Strike |
-| 761 | 228 | UJ Mate |
-| 762 | 228 | Cozy Framezone |
-| 763 | 227 | Asher |
-| 764 | 227 | Cozy Matchclear |
+| 756 | 230 | Cozy Matchclear |
+| 757 | 229 | April |
+| 758 | 229 | Tabita Gonzalez |
+| 759 | 229 | Sassy Gridzone |
+| 760 | 229 | Demont Darius |
+| 761 | 228 | Peppy Strike |
+| 762 | 228 | UJ Mate |
+| 763 | 228 | Cozy Framezone |
+| 764 | 227 | Asher |
 | 765 | 227 | Nijmeh Hinchsliff |
 | 766 | 224 | Beenbreto |
 | 767 | 224 | Jessi Godsey |
