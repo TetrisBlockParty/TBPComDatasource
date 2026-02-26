@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 07:32:44 UTC
+# Standings for team1 as of 2026-02-26 07:33:24 UTC
 
 **Total Participants:** 2639
 
@@ -53,7 +53,7 @@
 | 45 | 1894 | Rahna Underwood |
 | 46 | 1889 | Lola Adkhambekovna |
 | 47 | 1881 | Tyler Whitley |
-| 48 | 1845 | And |
+| 48 | 1865 | And |
 | 49 | 1789 | Chipper Gridlock |
 | 50 | 1757 | Veronica Eve |
 | 51 | 1753 | Jessica Sheehan |
@@ -344,16 +344,16 @@
 | 336 | 462 | Snappy Brickbuilder |
 | 337 | 462 | Fresno Beotoni |
 | 338 | 461 | Sassy Builderline |
-| 339 | 460 | Angela Fairbank |
-| 340 | 459 | Gabriel Morales |
-| 341 | 459 | poopypants |
-| 342 | 459 | Christina Backer |
-| 343 | 458 | Goose egg |
-| 344 | 458 | Eddie Dillon |
-| 345 | 458 | Nathan Sealander |
-| 346 | 455 | Larissa Marie Nelson |
-| 347 | 454 | Sarah Roberts |
-| 348 | 454 | Danielle S Kester |
+| 339 | 461 | Danielle S Kester |
+| 340 | 460 | Angela Fairbank |
+| 341 | 459 | Gabriel Morales |
+| 342 | 459 | poopypants |
+| 343 | 459 | Christina Backer |
+| 344 | 458 | Goose egg |
+| 345 | 458 | Eddie Dillon |
+| 346 | 458 | Nathan Sealander |
+| 347 | 455 | Larissa Marie Nelson |
+| 348 | 454 | Sarah Roberts |
 | 349 | 452 | Margo Wagner |
 | 350 | 452 | Poppy Drop |
 | 351 | 452 | Lynn Adams |
@@ -508,8 +508,8 @@
 | 500 | 359 | Chummy Rollblock |
 | 501 | 358 | BigWeenie69 |
 | 502 | 357 | Blaire Bruckoff |
-| 503 | 356 | Vivienne Carter |
-| 504 | 356 | ken |
+| 503 | 356 | ken |
+| 504 | 356 | Vivienne Carter |
 | 505 | 355 | ash |
 | 506 | 355 | Blake Mckay |
 | 507 | 354 | Clever Cascadepiece |
@@ -527,18 +527,18 @@
 | 519 | 349 | Chilly Riserpiece |
 | 520 | 348 | David |
 | 521 | 348 | Nate Funk |
-| 522 | 347 | Tiffany Daboss Seymour |
-| 523 | 347 | Liliana Pena |
-| 524 | 346 | Bustin’ Blocks |
+| 522 | 348 | Bustin’ Blocks |
+| 523 | 347 | Tiffany Daboss Seymour |
+| 524 | 347 | Liliana Pena |
 | 525 | 345 | Sabrina Coleman |
 | 526 | 345 | John Barron |
 | 527 | 345 | Melanie Kelley |
 | 528 | 345 | Joe Coon |
 | 529 | 345 | GentleKitten7 |
-| 530 | 344 | Steven Collins |
-| 531 | 344 | Jason Benitez |
-| 532 | 344 | Brenda L. Bunce |
-| 533 | 344 | Sam Rosado |
+| 530 | 344 | Jason Benitez |
+| 531 | 344 | Steven Collins |
+| 532 | 344 | Sam Rosado |
+| 533 | 344 | Brenda L. Bunce |
 | 534 | 343 | Susie Loo |
 | 535 | 343 | Rikki Jo Creech |
 | 536 | 343 | Michelle |
