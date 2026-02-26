@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 03:48:44 UTC
+# Standings for team1 as of 2026-02-26 03:49:23 UTC
 
 **Total Participants:** 2597
 
@@ -314,8 +314,8 @@
 | 306 | 480 | Dino |
 | 307 | 479 | Silly Align |
 | 308 | 479 | Strig |
-| 309 | 479 | Melissa Bires Hussar |
-| 310 | 477 | Letson Melissa |
+| 309 | 479 | Letson Melissa |
+| 310 | 479 | Melissa Bires Hussar |
 | 311 | 475 | Kimberly Davis |
 | 312 | 475 | Spencer Lent |
 | 313 | 474 | Cece Ibarra |
@@ -2012,82 +2012,82 @@
 | 2004 | 35 | Junito Davis |
 | 2005 | 35 | Ashleylynn Black |
 | 2006 | 34 | Dixie Bradshaw-Basile |
-| 2007 | 34 | Geneva Mixon |
-| 2008 | 34 | CIRAD |
-| 2009 | 34 | Robert Jones |
-| 2010 | 34 | Meagan Lopez |
-| 2011 | 34 | Shaun Kellerman |
-| 2012 | 34 | Wacky Snapbuilder |
-| 2013 | 34 | Melissa Ann |
-| 2014 | 34 | Bravo |
-| 2015 | 34 | Joseph Freeman |
-| 2016 | 34 | Rhonda Pledger |
-| 2017 | 34 | Giggy Zonepiece |
-| 2018 | 34 | bronxstyle1 |
-| 2019 | 33 | Lesssslyh |
-| 2020 | 33 | Linda Nys |
-| 2021 | 33 | Stacy C. Privott |
-| 2022 | 33 | Samantha Rachelle Branham |
-| 2023 | 33 | Rosie |
-| 2024 | 33 | Leshay Brooks |
-| 2025 | 33 | Rachael F Trudel |
-| 2026 | 33 | Charles Larsen |
-| 2027 | 33 | Kizzie Thomas-Jones |
-| 2028 | 33 | Roberta |
-| 2029 | 33 | Jessi Goodwin |
-| 2030 | 33 | Fatty Davis |
-| 2031 | 33 | lexluger |
-| 2032 | 33 | Softrainsunny— |
-| 2033 | 33 | Zany Gridclear |
+| 2007 | 34 | Rhonda Pledger |
+| 2008 | 34 | Amy Storvik |
+| 2009 | 34 | CIRAD |
+| 2010 | 34 | Geneva Mixon |
+| 2011 | 34 | Robert Jones |
+| 2012 | 34 | Shaun Kellerman |
+| 2013 | 34 | Meagan Lopez |
+| 2014 | 34 | Giggy Zonepiece |
+| 2015 | 34 | bronxstyle1 |
+| 2016 | 34 | Melissa Ann |
+| 2017 | 34 | Wacky Snapbuilder |
+| 2018 | 34 | Joseph Freeman |
+| 2019 | 34 | Bravo |
+| 2020 | 33 | Stacy C. Privott |
+| 2021 | 33 | Samantha Rachelle Branham |
+| 2022 | 33 | Lesssslyh |
+| 2023 | 33 | Linda Nys |
+| 2024 | 33 | Rosie |
+| 2025 | 33 | Leshay Brooks |
+| 2026 | 33 | Rachael F Trudel |
+| 2027 | 33 | Charles Larsen |
+| 2028 | 33 | Kizzie Thomas-Jones |
+| 2029 | 33 | Roberta |
+| 2030 | 33 | Jessi Goodwin |
+| 2031 | 33 | Fatty Davis |
+| 2032 | 33 | lexluger |
+| 2033 | 33 | Softrainsunny— |
 | 2034 | 33 | Ashley Sheen |
-| 2035 | 33 | Siconia Mccants Bsw |
-| 2036 | 32 | Jenea Lewis |
-| 2037 | 32 | Gerardo Perez |
-| 2038 | 32 | Wacky Zigzag |
-| 2039 | 32 | Boldy Stacky |
-| 2040 | 32 | Lulumagoo |
-| 2041 | 32 | CelestiaIris |
-| 2042 | 32 | mudpuppy |
-| 2043 | 32 | Guy Krutas |
-| 2044 | 32 | Joe Andrew Jackson |
-| 2045 | 32 | Giggy Clearbuilder |
-| 2046 | 32 | Tony Lawton |
-| 2047 | 32 | Trecey |
-| 2048 | 32 | Victoria |
-| 2049 | 32 | Hoppy Riserfit |
-| 2050 | 32 | Rebecca Rognerud |
-| 2051 | 32 | Annoying46 |
-| 2052 | 32 | Lush Dasher |
-| 2053 | 32 | Zesty Towerzone |
-| 2054 | 32 | m31v1n03 |
-| 2055 | 32 | Dandy Crawler |
-| 2056 | 32 | Rangel Arch |
-| 2057 | 32 | Eric Robinson |
-| 2058 | 32 | Djdubz |
-| 2059 | 31 | Maya Denae Myrick |
-| 2060 | 31 | Plucky Wipebuilder |
-| 2061 | 31 | Tiny Bear |
+| 2035 | 33 | Zany Gridclear |
+| 2036 | 33 | Siconia Mccants Bsw |
+| 2037 | 32 | Lush Dasher |
+| 2038 | 32 | Rebecca Rognerud |
+| 2039 | 32 | Annoying46 |
+| 2040 | 32 | Tony Lawton |
+| 2041 | 32 | Boldy Stacky |
+| 2042 | 32 | Gerardo Perez |
+| 2043 | 32 | Giggy Clearbuilder |
+| 2044 | 32 | Eric Robinson |
+| 2045 | 32 | Jenea Lewis |
+| 2046 | 32 | m31v1n03 |
+| 2047 | 32 | Wacky Zigzag |
+| 2048 | 32 | CelestiaIris |
+| 2049 | 32 | mudpuppy |
+| 2050 | 32 | Guy Krutas |
+| 2051 | 32 | Lulumagoo |
+| 2052 | 32 | Djdubz |
+| 2053 | 32 | Trecey |
+| 2054 | 32 | Victoria |
+| 2055 | 32 | Hoppy Riserfit |
+| 2056 | 32 | Joe Andrew Jackson |
+| 2057 | 32 | Dandy Crawler |
+| 2058 | 32 | Rangel Arch |
+| 2059 | 32 | Zesty Towerzone |
+| 2060 | 31 | Lynnita West Wright |
+| 2061 | 31 | Amy Thale Gooding |
 | 2062 | 31 | Justin Wolf |
 | 2063 | 31 | Steve Andreeski |
-| 2064 | 31 | Amy Thale Gooding |
-| 2065 | 31 | Lynnita West Wright |
-| 2066 | 31 | Wildeye |
-| 2067 | 31 | Michael Bakko |
-| 2068 | 31 | Cassandra Cooper |
-| 2069 | 31 | Amanda Colwell |
+| 2064 | 31 | Kimberly Ranae Lanus-Saice |
+| 2065 | 31 | Shellzb Roberts |
+| 2066 | 31 | Tiny Bear |
+| 2067 | 31 | Maya Denae Myrick |
+| 2068 | 31 | Plucky Wipebuilder |
+| 2069 | 31 | Shawne Smith |
 | 2070 | 31 | Summer |
-| 2071 | 31 | Shawne Smith |
-| 2072 | 31 | Shellzb Roberts |
-| 2073 | 31 | Kimberly Ranae Lanus-Saice |
-| 2074 | 30 | Roberto Sicairos Jr. |
-| 2075 | 30 | Samuel Wright |
-| 2076 | 30 | Amy Storvik |
-| 2077 | 30 | Twisty Lift |
-| 2078 | 30 | Melissa Erwin |
-| 2079 | 30 | Ashley Glover |
-| 2080 | 30 | Bouncy Linefit |
-| 2081 | 30 | Meh |
-| 2082 | 30 | KERI |
+| 2071 | 31 | Amanda Colwell |
+| 2072 | 31 | Michael Bakko |
+| 2073 | 31 | Cassandra Cooper |
+| 2074 | 31 | Wildeye |
+| 2075 | 30 | Roberto Sicairos Jr. |
+| 2076 | 30 | Twisty Lift |
+| 2077 | 30 | Samuel Wright |
+| 2078 | 30 | Ashley Glover |
+| 2079 | 30 | Bouncy Linefit |
+| 2080 | 30 | Meh |
+| 2081 | 30 | KERI |
+| 2082 | 30 | Melissa Erwin |
 | 2083 | 30 | Melissa Nicole Hanscom |
 | 2084 | 30 | BIGOONS |
 | 2085 | 30 | ColombianNuttz |
