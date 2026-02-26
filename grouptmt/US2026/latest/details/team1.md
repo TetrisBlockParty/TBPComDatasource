@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 03:00:44 UTC
+# Standings for team1 as of 2026-02-26 03:01:23 UTC
 
 **Total Participants:** 2591
 
@@ -493,7 +493,7 @@
 | 485 | 356 | Pauline Cortez |
 | 486 | 355 | ash |
 | 487 | 355 | Jeanna Dunn |
-| 488 | 354 | Vivienne Carter |
+| 488 | 355 | Vivienne Carter |
 | 489 | 353 | Frisky Base |
 | 490 | 353 | Josh Riemer |
 | 491 | 352 | Ric Hard Hernandez |
