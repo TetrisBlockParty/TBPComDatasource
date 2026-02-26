@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 06:30:44 UTC
+# Standings for team1 as of 2026-02-26 06:31:23 UTC
 
 **Total Participants:** 2630
 
@@ -332,10 +332,10 @@
 | 324 | 473 | Dizzy Party |
 | 325 | 472 | Rachel Nilles |
 | 326 | 472 | Dione Winter Heilich |
-| 327 | 469 | Krie |
-| 328 | 468 | Barrbaric |
-| 329 | 467 | MelSavage |
-| 330 | 466 | Spunky Winder |
+| 327 | 469 | Spunky Winder |
+| 328 | 469 | Krie |
+| 329 | 468 | Barrbaric |
+| 330 | 467 | MelSavage |
 | 331 | 464 | Cassie Smith |
 | 332 | 462 | Shiny Gridmatch |
 | 333 | 462 | Fresno Beotoni |
@@ -725,16 +725,16 @@
 | 717 | 253 | Krazykat💋❤️💋 |
 | 718 | 253 | Flashy Crawler |
 | 719 | 253 | Shano Rae |
-| 720 | 252 | Owicked1 |
-| 721 | 251 | Collette Frank |
-| 722 | 251 | Jonathan Joshua |
-| 723 | 250 | Lively Wipeout |
-| 724 | 250 | Natasha Hollowell Causey |
-| 725 | 250 | Dawn Henderson |
-| 726 | 249 | Brave Stacky |
-| 727 | 249 | Matt Cinelli |
-| 728 | 249 | Elizabeth Coover |
-| 729 | 248 | Plucky Wrecker |
+| 720 | 252 | Plucky Wrecker |
+| 721 | 252 | Owicked1 |
+| 722 | 251 | Collette Frank |
+| 723 | 251 | Jonathan Joshua |
+| 724 | 250 | Lively Wipeout |
+| 725 | 250 | Natasha Hollowell Causey |
+| 726 | 250 | Dawn Henderson |
+| 727 | 249 | Brave Stacky |
+| 728 | 249 | Matt Cinelli |
+| 729 | 249 | Elizabeth Coover |
 | 730 | 248 | Kathryn Chiles Anderson |
 | 731 | 247 | Nate Carter |
 | 732 | 247 | Nikki Fridley |
@@ -762,21 +762,21 @@
 | 754 | 239 | Erez Yosef |
 | 755 | 239 | Davery Spencer Adair |
 | 756 | 239 | Mindy Gloska |
-| 757 | 238 | nm1289 |
-| 758 | 238 | Witty Curve |
-| 759 | 238 | yoyoluv |
-| 760 | 237 | Mary M Brion |
-| 761 | 237 | Sarah Cassese |
-| 762 | 237 | narutyler649 |
-| 763 | 237 | Chilly Linebuilder |
-| 764 | 237 | Tina Englert |
-| 765 | 236 | Christina Torres |
-| 766 | 236 | docjp |
-| 767 | 236 | Doris Hall |
-| 768 | 235 | Pace |
-| 769 | 234 | Brian Taylor |
-| 770 | 234 | Daniel Lorquet |
-| 771 | 234 | Oliver Hollins |
+| 757 | 238 | Oliver Hollins |
+| 758 | 238 | nm1289 |
+| 759 | 238 | Witty Curve |
+| 760 | 238 | yoyoluv |
+| 761 | 237 | Mary M Brion |
+| 762 | 237 | Sarah Cassese |
+| 763 | 237 | narutyler649 |
+| 764 | 237 | Chilly Linebuilder |
+| 765 | 237 | Tina Englert |
+| 766 | 236 | Christina Torres |
+| 767 | 236 | docjp |
+| 768 | 236 | Doris Hall |
+| 769 | 235 | Pace |
+| 770 | 234 | Brian Taylor |
+| 771 | 234 | Daniel Lorquet |
 | 772 | 233 | KoDaK |
 | 773 | 233 | Cheery Zonegrid |
 | 774 | 233 | Hyper Tilemaker |
@@ -790,8 +790,8 @@
 | 782 | 229 | BrenaBae |
 | 783 | 229 | Lynn Anderson |
 | 784 | 229 | Jazzmin Queen |
-| 785 | 228 | Jai Pahpasay |
-| 786 | 228 | Isodor |
+| 785 | 228 | Isodor |
+| 786 | 228 | Jai Pahpasay |
 | 787 | 228 | Negan Mallory Knoxx Spence |
 | 788 | 228 | Elyse YL |
 | 789 | 228 | Tina Kocher Zimmerman |
