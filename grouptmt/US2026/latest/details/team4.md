@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 06:44:45 UTC
+# Standings for team4 as of 2026-02-26 06:45:23 UTC
 
 **Total Participants:** 2343
 
@@ -621,17 +621,17 @@
 | 613 | 288 | Mark Willman |
 | 614 | 288 | Haruko Bullock-Brown |
 | 615 | 287 | Globofish |
-| 616 | 287 | Jlmendillo |
-| 617 | 287 | Hyper Shatterbuilder |
-| 618 | 287 | Patrick Cookson |
-| 619 | 286 | Dustin Dodson |
-| 620 | 286 | Kelly Williams |
-| 621 | 285 | Elizabeth Tinoco |
-| 622 | 285 | Quirky Dash |
-| 623 | 285 | Shon Woodland |
-| 624 | 285 | Rhys Morgan |
-| 625 | 285 | Matt Morrow |
-| 626 | 283 | Dandy Cascadefit |
+| 616 | 287 | Dandy Cascadefit |
+| 617 | 287 | Jlmendillo |
+| 618 | 287 | Hyper Shatterbuilder |
+| 619 | 287 | Patrick Cookson |
+| 620 | 286 | Dustin Dodson |
+| 621 | 286 | Kelly Williams |
+| 622 | 285 | Elizabeth Tinoco |
+| 623 | 285 | Quirky Dash |
+| 624 | 285 | Shon Woodland |
+| 625 | 285 | Rhys Morgan |
+| 626 | 285 | Matt Morrow |
 | 627 | 283 | Joey Riley |
 | 628 | 283 | Mrsjcraw18 |
 | 629 | 283 | Colton Stamper |
@@ -1064,19 +1064,19 @@
 | 1056 | 146 | Katie Linneman-Rowland |
 | 1057 | 146 | BJ Snyder |
 | 1058 | 145 | Wacky Blockclear |
-| 1059 | 145 | Mathew Dissinger |
-| 1060 | 145 | Katy Schuster |
-| 1061 | 145 | Kris Johnson |
+| 1059 | 145 | Kris Johnson |
+| 1060 | 145 | Austin Trent Weaver |
+| 1061 | 145 | Mathew Dissinger |
 | 1062 | 145 | Aj |
-| 1063 | 145 | Hoppy Combo |
-| 1064 | 145 | Austin Trent Weaver |
+| 1063 | 145 | Katy Schuster |
+| 1064 | 145 | Hoppy Combo |
 | 1065 | 145 | Krista Bartlett |
 | 1066 | 145 | Nutty Gridclear |
 | 1067 | 144 | JulieAna Morales |
-| 1068 | 144 | Alicia Atwater |
-| 1069 | 144 | Eli Sanchez |
-| 1070 | 144 | Jamie Hirtle |
-| 1071 | 144 | Kimberly Goncalves |
+| 1068 | 144 | Eli Sanchez |
+| 1069 | 144 | Jamie Hirtle |
+| 1070 | 144 | Kimberly Goncalves |
+| 1071 | 144 | Alicia Atwater |
 | 1072 | 144 | Zzz |
 | 1073 | 143 | Savannah Roughton Jones |
 | 1074 | 143 | Snappy Bouncer |
@@ -1084,40 +1084,40 @@
 | 1076 | 143 | Michelle Cox |
 | 1077 | 143 | James May |
 | 1078 | 143 | Sherri |
-| 1079 | 142 | 805 |
-| 1080 | 142 | Juan Barron |
-| 1081 | 142 | Aly Eggers |
-| 1082 | 142 | Raeann Gibson |
-| 1083 | 142 | Frank Cook |
-| 1084 | 142 | Rae |
-| 1085 | 141 | Serena Butter |
-| 1086 | 141 | Calen Torez |
-| 1087 | 141 | Loony Slide |
-| 1088 | 141 | Wacky Gridlock |
-| 1089 | 141 | Jeff Barney |
-| 1090 | 140 | Chill Tetrisline |
-| 1091 | 140 | Cozy Tiley |
-| 1092 | 140 | Shadonna Brandes |
-| 1093 | 140 | Jennifer West Campos |
-| 1094 | 140 | Aj Brantley Lpn |
-| 1095 | 140 | RonRico Thomas |
-| 1096 | 140 | SloFut Mataryal BrownBwoy |
-| 1097 | 139 | Jesse Jamez Crater |
-| 1098 | 139 | Mighty Blockzone |
-| 1099 | 139 | Krs |
-| 1100 | 139 | Giddy Piecegrid |
-| 1101 | 139 | Camille |
-| 1102 | 138 | Takeshia Knowles |
-| 1103 | 138 | Chipper Strikerbuilder |
-| 1104 | 138 | Gregory Mock |
-| 1105 | 138 | Clever Tilefall |
-| 1106 | 138 | BROOKE |
-| 1107 | 137 | Cj Lewis-haut |
-| 1108 | 137 | Pipiska |
-| 1109 | 137 | Renee |
-| 1110 | 137 | Travis Poe |
-| 1111 | 137 | Theodore Vincent |
-| 1112 | 136 | evil wonton |
+| 1079 | 142 | Raeann Gibson |
+| 1080 | 142 | evil wonton |
+| 1081 | 142 | 805 |
+| 1082 | 142 | Frank Cook |
+| 1083 | 142 | Aly Eggers |
+| 1084 | 142 | Juan Barron |
+| 1085 | 142 | Rae |
+| 1086 | 141 | Serena Butter |
+| 1087 | 141 | Calen Torez |
+| 1088 | 141 | Loony Slide |
+| 1089 | 141 | Wacky Gridlock |
+| 1090 | 141 | Jeff Barney |
+| 1091 | 140 | Chill Tetrisline |
+| 1092 | 140 | RonRico Thomas |
+| 1093 | 140 | Aj Brantley Lpn |
+| 1094 | 140 | SloFut Mataryal BrownBwoy |
+| 1095 | 140 | Cozy Tiley |
+| 1096 | 140 | Jennifer West Campos |
+| 1097 | 140 | Shadonna Brandes |
+| 1098 | 139 | Jesse Jamez Crater |
+| 1099 | 139 | Mighty Blockzone |
+| 1100 | 139 | Krs |
+| 1101 | 139 | Giddy Piecegrid |
+| 1102 | 139 | Camille |
+| 1103 | 138 | Takeshia Knowles |
+| 1104 | 138 | Chipper Strikerbuilder |
+| 1105 | 138 | Gregory Mock |
+| 1106 | 138 | Clever Tilefall |
+| 1107 | 138 | BROOKE |
+| 1108 | 137 | Cj Lewis-haut |
+| 1109 | 137 | Pipiska |
+| 1110 | 137 | Renee |
+| 1111 | 137 | Travis Poe |
+| 1112 | 137 | Theodore Vincent |
 | 1113 | 136 | Loopy Bouncer |
 | 1114 | 136 | Alee Marie |
 | 1115 | 136 | Garnet Glitz |
