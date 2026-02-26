@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 01:26:45 UTC
+# Standings for team4 as of 2026-02-26 01:27:24 UTC
 
 **Total Participants:** 2295
 
@@ -18,7 +18,7 @@
 | 10 | 4928 | Elizabeth Sallas |
 | 11 | 4651 | Roger Coulter |
 | 12 | 4443 | Tina Martinez |
-| 13 | 4337 | Melissa Adams |
+| 13 | 4356 | Melissa Adams |
 | 14 | 4311 | Anthony Magaraci |
 | 15 | 3903 | Leah Gorsuch |
 | 16 | 3854 | GreenJeepGirl |
@@ -40,7 +40,7 @@
 | 32 | 2092 | Rachel Anne |
 | 33 | 2082 | Dustin Robert |
 | 34 | 2052 | Rebecca Moulton Pinciaro |
-| 35 | 1991 | Jae Job |
+| 35 | 2007 | Jae Job |
 | 36 | 1962 | Cool Buildout |
 | 37 | 1897 | Courtney Cicoria |
 | 38 | 1850 | Shane Kalamata Platoon |
@@ -186,9 +186,9 @@
 | 178 | 731 | KJ Pool |
 | 179 | 721 | Chris Baggett |
 | 180 | 721 | Circuit8 |
-| 181 | 716 | Adam Stephanie Parker |
-| 182 | 714 | Erin Sabol |
-| 183 | 711 | Brickh4us |
+| 181 | 717 | Brickh4us |
+| 182 | 716 | Adam Stephanie Parker |
+| 183 | 714 | Erin Sabol |
 | 184 | 710 | Kathy Brookins |
 | 185 | 708 | Jim Hart |
 | 186 | 705 | Cristy Duerksen |
@@ -389,10 +389,10 @@
 | 381 | 416 | Bryan Hodgins |
 | 382 | 414 | Megan Cutshaw |
 | 383 | 414 | Amanda Maciel Clarke |
-| 384 | 411 | Chummy Towerzone |
-| 385 | 411 | Mary Ann Pabukis |
+| 384 | 411 | Tyler Bechtel |
+| 385 | 411 | Chummy Towerzone |
 | 386 | 411 | Stella |
-| 387 | 409 | Tyler Bechtel |
+| 387 | 411 | Mary Ann Pabukis |
 | 388 | 409 | Dustin York |
 | 389 | 408 | RamboBanana |
 | 390 | 407 | Madison Sweere |
@@ -406,18 +406,18 @@
 | 398 | 400 | Juls |
 | 399 | 397 | George Tzouganos |
 | 400 | 396 | Bonnie Hurlbrink |
-| 401 | 395 | Alexandra Karavias |
-| 402 | 395 | Zany Shatterer |
+| 401 | 395 | Zany Shatterer |
+| 402 | 395 | Alexandra Karavias |
 | 403 | 395 | Marcus TheeyoungWoe Gilmore |
 | 404 | 394 | Jonathan Mahfood |
-| 405 | 394 | Raymond Roberts |
-| 406 | 394 | Perky Patternblock |
+| 405 | 394 | Perky Patternblock |
+| 406 | 394 | Raymond Roberts |
 | 407 | 393 | Tony Pavelka |
 | 408 | 392 | tipsy tiger |
 | 409 | 392 | Angie Schmidt |
 | 410 | 391 | Matt Dell'Olio |
-| 411 | 390 | Groovy Shiftspin |
-| 412 | 390 | Maureen Flanigan |
+| 411 | 390 | Maureen Flanigan |
+| 412 | 390 | Groovy Shiftspin |
 | 413 | 389 | Ak Jones |
 | 414 | 388 | Amy Jean |
 | 415 | 388 | Bryan James Marino |
@@ -635,8 +635,8 @@
 | 627 | 269 | conceptCollector |
 | 628 | 268 | Dandy Cascadefit |
 | 629 | 268 | Victoria Faniel |
-| 630 | 268 | Riverdale |
-| 631 | 268 | The Murphy |
+| 630 | 268 | The Murphy |
+| 631 | 268 | Riverdale |
 | 632 | 266 | Frilly Blocky |
 | 633 | 265 | Robert Rodriguez |
 | 634 | 264 | Matt Rawls |
@@ -644,14 +644,14 @@
 | 636 | 264 | Daniel Gazcon |
 | 637 | 263 | Denise Jones |
 | 638 | 263 | Autum Leigh |
-| 639 | 263 | Wacky Blockclear |
-| 640 | 263 | Josh Chapell |
-| 641 | 262 | Christina Nabrizny |
-| 642 | 262 | Mark Willman |
-| 643 | 261 | Eric Wren |
-| 644 | 261 | Jennifer Dineen |
-| 645 | 260 | Red |
-| 646 | 259 | Peppy Drop |
+| 639 | 263 | Peppy Drop |
+| 640 | 263 | Wacky Blockclear |
+| 641 | 263 | Josh Chapell |
+| 642 | 262 | Christina Nabrizny |
+| 643 | 262 | Mark Willman |
+| 644 | 261 | Eric Wren |
+| 645 | 261 | Jennifer Dineen |
+| 646 | 260 | Red |
 | 647 | 258 | Dante Korleon |
 | 648 | 258 | Marcela Johnson |
 | 649 | 258 | Michelle McCutcheon |
@@ -697,46 +697,46 @@
 | 689 | 244 | Matthew Pate |
 | 690 | 244 | Darrin Rubalcava |
 | 691 | 244 | Flashy Jumper |
-| 692 | 243 | Satinleader |
-| 693 | 243 | Funky Risepiece |
-| 694 | 243 | Hediyuda |
-| 695 | 242 | April Jo Roder |
-| 696 | 242 | Mike Nelson |
-| 697 | 242 | heatheryblue |
-| 698 | 242 | Steven Roe |
-| 699 | 242 | PurpleMoonMa |
-| 700 | 241 | Carlos Hernandez |
-| 701 | 241 | Jelly |
-| 702 | 241 | Allen Johnson |
-| 703 | 241 | Janis Brown |
-| 704 | 241 | Sunny Piececlear |
+| 692 | 244 | Sunny Piececlear |
+| 693 | 243 | Satinleader |
+| 694 | 243 | Funky Risepiece |
+| 695 | 243 | Hediyuda |
+| 696 | 242 | April Jo Roder |
+| 697 | 242 | Mike Nelson |
+| 698 | 242 | heatheryblue |
+| 699 | 242 | Steven Roe |
+| 700 | 242 | PurpleMoonMa |
+| 701 | 241 | Carlos Hernandez |
+| 702 | 241 | Jelly |
+| 703 | 241 | Allen Johnson |
+| 704 | 241 | Janis Brown |
 | 705 | 241 | Neal Allen II |
-| 706 | 240 | Jumpy Shatterline |
-| 707 | 240 | Cool Clusterfit |
-| 708 | 240 | Ashlee Johnson |
+| 706 | 240 | Ashlee Johnson |
+| 707 | 240 | Jumpy Shatterline |
+| 708 | 240 | Cool Clusterfit |
 | 709 | 239 | Mcg |
 | 710 | 239 | Miranda Wigginton |
 | 711 | 238 | Andrea Gallagher |
 | 712 | 238 | Cheaneen Livingston |
-| 713 | 237 | Walid Elsabee |
-| 714 | 237 | SammieJo Guy |
-| 715 | 237 | Kujuanna Hammon |
-| 716 | 237 | Amy C Brown |
-| 717 | 237 | Ben Nome |
+| 713 | 237 | Ben Nome |
+| 714 | 237 | Walid Elsabee |
+| 715 | 237 | SammieJo Guy |
+| 716 | 237 | Kujuanna Hammon |
+| 717 | 237 | Amy C Brown |
 | 718 | 237 | Courtney Halleck |
 | 719 | 236 | Nicole Serio |
-| 720 | 236 | Jazzy Slamdrop |
-| 721 | 236 | Jacob Richard |
-| 722 | 235 | Pampam |
-| 723 | 235 | LaDonna LovinmesomeMe Lambert |
-| 724 | 234 | Melissa Tipton Crawford |
+| 720 | 236 | Jacob Richard |
+| 721 | 236 | Jazzy Slamdrop |
+| 722 | 235 | LaDonna LovinmesomeMe Lambert |
+| 723 | 235 | Pampam |
+| 724 | 234 | Daresha Fair |
 | 725 | 234 | Christina Hyde |
-| 726 | 234 | b |
-| 727 | 234 | Daresha Fair |
-| 728 | 234 | Tabi Williams |
-| 729 | 234 | JD |
-| 730 | 233 | Katie Alexander |
-| 731 | 233 | Tammy Lewis |
+| 726 | 234 | JD |
+| 727 | 234 | Tabi Williams |
+| 728 | 234 | b |
+| 729 | 234 | Melissa Tipton Crawford |
+| 730 | 233 | Tammy Lewis |
+| 731 | 233 | Katie Alexander |
 | 732 | 232 | Douglass |
 | 733 | 231 | Zany Mover |
 | 734 | 231 | Tisha Cammack |
