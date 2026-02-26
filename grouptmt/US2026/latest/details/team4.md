@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 12:16:46 UTC
+# Standings for team4 as of 2026-02-26 12:17:24 UTC
 
 **Total Participants:** 2369
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 10970 | Devinlee Brown |
+| 1 | 10975 | Devinlee Brown |
 | 2 | 9456 | sierrabeth |
 | 3 | 8598 | Bubbly Puzzler |
 | 4 | 7439 | Kat |
@@ -279,7 +279,7 @@
 | 271 | 600 | Tyler Terrific |
 | 272 | 600 | Antony Dwayne Beasley |
 | 273 | 600 | Ruby Khalisadar |
-| 274 | 597 | KimoKoala |
+| 274 | 600 | KimoKoala |
 | 275 | 595 | Andria Lynn |
 | 276 | 595 | Deanna Deckard |
 | 277 | 594 | Rheanda Weaskus |
@@ -339,8 +339,8 @@
 | 331 | 518 | 23 |
 | 332 | 516 | Nick Gray |
 | 333 | 512 | Casey Jeffcoat |
-| 334 | 507 | Speedy Cascadeclear |
-| 335 | 506 | Saucy Brickroll |
+| 334 | 511 | Saucy Brickroll |
+| 335 | 507 | Speedy Cascadeclear |
 | 336 | 505 | 030Synner |
 | 337 | 504 | Neil Ingham |
 | 338 | 504 | Jen Caldwell |
@@ -484,13 +484,13 @@
 | 476 | 376 | Shiny Pivoty |
 | 477 | 376 | Leila |
 | 478 | 376 | Silly Clearfit |
-| 479 | 375 | Zippy Tilt |
-| 480 | 375 | ImJustMe |
-| 481 | 374 | Koral Hanke |
-| 482 | 373 | Badatvs |
-| 483 | 373 | RIFATSIKDER |
-| 484 | 371 | Michael Orris |
-| 485 | 371 | Spunky Framezone |
+| 479 | 375 | Spunky Framezone |
+| 480 | 375 | Zippy Tilt |
+| 481 | 375 | ImJustMe |
+| 482 | 374 | Koral Hanke |
+| 483 | 373 | Badatvs |
+| 484 | 373 | RIFATSIKDER |
+| 485 | 371 | Michael Orris |
 | 486 | 368 | Penny Dean |
 | 487 | 368 | Tianna Frey |
 | 488 | 367 | Meg |
@@ -915,51 +915,51 @@
 | 907 | 195 | Flavoredsausage |
 | 908 | 195 | Christian Torres |
 | 909 | 194 | Zany Twisterfit |
-| 910 | 194 | Chilly Filler |
-| 911 | 194 | FallenStar |
-| 912 | 194 | Michelle Sanchez |
-| 913 | 193 | Atia Scott |
-| 914 | 193 | Lakesha Johnson |
+| 910 | 194 | FallenStar |
+| 911 | 194 | Chilly Filler |
+| 912 | 194 | Cozy Balanceblock |
+| 913 | 194 | Michelle Sanchez |
+| 914 | 194 | Ch Mon |
 | 915 | 193 | Theodore Vincent |
-| 916 | 192 | Marlisa Clark |
-| 917 | 192 | Cozy Strikerbuilder |
-| 918 | 191 | Gina Sexton Powell |
-| 919 | 191 | Nikki Ann |
-| 920 | 191 | Glen Altomare II |
-| 921 | 191 | Lauren R. Walls |
-| 922 | 191 | KAP |
-| 923 | 191 | Cece |
-| 924 | 190 | Goofy Fitblock |
-| 925 | 190 | Joni Marie Flanary |
-| 926 | 190 | Hoppy Clearer |
-| 927 | 190 | mini |
-| 928 | 190 | Joe Lonnemann |
-| 929 | 190 | Niome Encinias |
-| 930 | 189 | Cozy Balanceblock |
-| 931 | 189 | FreckledFlamingo |
-| 932 | 189 | Linda Alexander Downing |
-| 933 | 189 | deebop |
-| 934 | 188 | Peyton Mclaughlin |
-| 935 | 188 | Jennifer Perkins |
-| 936 | 188 | Shelly Goad |
-| 937 | 188 | Witty Link |
-| 938 | 188 | Milly Johnson |
-| 939 | 187 | Jason Punch |
-| 940 | 187 | Tyler Brown |
-| 941 | 187 | Mitchell Everhart |
-| 942 | 187 | dash |
-| 943 | 186 | Giggy Bridgepiece |
-| 944 | 186 | Rick SJ |
-| 945 | 186 | Gregory Mock |
-| 946 | 186 | Jessica Johnston |
-| 947 | 186 | Empress Oasis |
-| 948 | 185 | Quirky Clearfit |
-| 949 | 185 | Lori Goudy |
-| 950 | 185 | Nikisha Reed |
-| 951 | 185 | Ch Mon |
-| 952 | 184 | LucasEveryday |
-| 953 | 184 | Joe Beardslee |
-| 954 | 184 | George Castillo |
+| 916 | 193 | Atia Scott |
+| 917 | 193 | Lakesha Johnson |
+| 918 | 192 | Marlisa Clark |
+| 919 | 192 | Cozy Strikerbuilder |
+| 920 | 191 | Gina Sexton Powell |
+| 921 | 191 | Nikki Ann |
+| 922 | 191 | Glen Altomare II |
+| 923 | 191 | Lauren R. Walls |
+| 924 | 191 | KAP |
+| 925 | 191 | Cece |
+| 926 | 190 | Goofy Fitblock |
+| 927 | 190 | Hoppy Clearer |
+| 928 | 190 | mini |
+| 929 | 190 | Joe Lonnemann |
+| 930 | 190 | Niome Encinias |
+| 931 | 190 | Joni Marie Flanary |
+| 932 | 189 | FreckledFlamingo |
+| 933 | 189 | Linda Alexander Downing |
+| 934 | 189 | deebop |
+| 935 | 188 | Peyton Mclaughlin |
+| 936 | 188 | Jennifer Perkins |
+| 937 | 188 | Shelly Goad |
+| 938 | 188 | Witty Link |
+| 939 | 188 | Milly Johnson |
+| 940 | 187 | Jason Punch |
+| 941 | 187 | Tyler Brown |
+| 942 | 187 | Mitchell Everhart |
+| 943 | 187 | dash |
+| 944 | 186 | Giggy Bridgepiece |
+| 945 | 186 | Rick SJ |
+| 946 | 186 | Gregory Mock |
+| 947 | 186 | Jessica Johnston |
+| 948 | 186 | Empress Oasis |
+| 949 | 185 | Quirky Clearfit |
+| 950 | 185 | Lori Goudy |
+| 951 | 185 | Nikisha Reed |
+| 952 | 184 | Joe Beardslee |
+| 953 | 184 | George Castillo |
+| 954 | 184 | LucasEveryday |
 | 955 | 183 | Nicole McMurray |
 | 956 | 183 | Frothy Curve |
 | 957 | 183 | Dapper Caster |
