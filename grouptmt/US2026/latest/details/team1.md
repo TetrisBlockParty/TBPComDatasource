@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 07:39:23 UTC
+# Standings for team1 as of 2026-02-26 07:40:44 UTC
 
 **Total Participants:** 2641
 
@@ -22,7 +22,7 @@
 | 14 | 4982 | Wei Ching Fang |
 | 15 | 3646 | Perky Shiftsnap |
 | 16 | 3305 | Lisa Marie |
-| 17 | 3201 | Katie Daniels |
+| 17 | 3210 | Katie Daniels |
 | 18 | 3023 | LaQuetta Faith Hines |
 | 19 | 2938 | Odell Barnett |
 | 20 | 2884 | Adrian Esteban |
@@ -342,9 +342,9 @@
 | 334 | 464 | Cassie Smith |
 | 335 | 462 | Shiny Gridmatch |
 | 336 | 462 | Snappy Brickbuilder |
-| 337 | 462 | Fresno Beotoni |
-| 338 | 461 | Sassy Builderline |
-| 339 | 461 | Danielle S Kester |
+| 337 | 462 | Danielle S Kester |
+| 338 | 462 | Fresno Beotoni |
+| 339 | 461 | Sassy Builderline |
 | 340 | 460 | Angela Fairbank |
 | 341 | 459 | Gabriel Morales |
 | 342 | 459 | poopypants |
@@ -848,23 +848,23 @@
 | 840 | 213 | Nekina Wright |
 | 841 | 213 | Heather Coleman |
 | 842 | 213 | Brandy Ann |
-| 843 | 212 | Garcia Bailey |
-| 844 | 212 | Plucky Tetrisline |
-| 845 | 212 | Sherrick Edwards |
-| 846 | 211 | Jennifer Chilton-Metlock |
-| 847 | 211 | ThreeBone |
-| 848 | 211 | Nicholes Stanley |
+| 843 | 212 | Scott Tracie Kiser |
+| 844 | 212 | Garcia Bailey |
+| 845 | 212 | Plucky Tetrisline |
+| 846 | 212 | Sherrick Edwards |
+| 847 | 211 | Jennifer Chilton-Metlock |
+| 848 | 211 | ThreeBone |
 | 849 | 211 | Kevin Prothro |
 | 850 | 211 | Roxy Cohen-Skalli |
-| 851 | 210 | Scott Tracie Kiser |
+| 851 | 211 | Nicholes Stanley |
 | 852 | 210 | Dave |
 | 853 | 210 | Christian Corral |
-| 854 | 209 | Amador López Martínez |
-| 855 | 209 | EverPi |
+| 854 | 209 | EverPi |
+| 855 | 209 | Amador López Martínez |
 | 856 | 209 | Melissa Thomas |
-| 857 | 208 | Suzanne |
-| 858 | 208 | Philip Hutson |
-| 859 | 208 | Virginia Swank |
+| 857 | 208 | Virginia Swank |
+| 858 | 208 | Suzanne |
+| 859 | 208 | Philip Hutson |
 | 860 | 208 | Donna Horoszewski-Dilgen |
 | 861 | 208 | Donna Addison Williams |
 | 862 | 208 | TristansDad |
@@ -1500,10 +1500,10 @@
 | 1492 | 86 | Silly Patternblock |
 | 1493 | 86 | Hoppy Snapgrid |
 | 1494 | 86 | Leann Nolley |
-| 1495 | 85 | Larina Cherie Johnson |
-| 1496 | 85 | Allen Hill |
-| 1497 | 85 | Home Plate |
-| 1498 | 85 | Dustin Whited |
+| 1495 | 86 | Dustin Whited |
+| 1496 | 85 | Larina Cherie Johnson |
+| 1497 | 85 | Allen Hill |
+| 1498 | 85 | Home Plate |
 | 1499 | 85 | Bwebb Bryan |
 | 1500 | 85 | Vanessa G Keill |
 | 1501 | 85 | Bob Thorp |
@@ -1609,16 +1609,16 @@
 | 1601 | 73 | Loneell Hyland |
 | 1602 | 73 | Johnny Hollothorn |
 | 1603 | 73 | Zappy Pivoty |
-| 1604 | 73 | Zappy Brickzone |
-| 1605 | 73 | Bouncy Link |
-| 1606 | 73 | Jack Shafer |
-| 1607 | 73 | Will Iams Chole |
-| 1608 | 72 | Clever Pivotfall |
-| 1609 | 72 | Randi Voight |
-| 1610 | 72 | QingDee |
-| 1611 | 72 | GDerro |
-| 1612 | 72 | DaDawg |
-| 1613 | 72 | kamo |
+| 1604 | 73 | kamo |
+| 1605 | 73 | Zappy Brickzone |
+| 1606 | 73 | Bouncy Link |
+| 1607 | 73 | Jack Shafer |
+| 1608 | 73 | Will Iams Chole |
+| 1609 | 72 | Clever Pivotfall |
+| 1610 | 72 | Randi Voight |
+| 1611 | 72 | QingDee |
+| 1612 | 72 | GDerro |
+| 1613 | 72 | DaDawg |
 | 1614 | 72 | Jaime Sunshine |
 | 1615 | 72 | Block attack |
 | 1616 | 72 | Samantha Schmidt |
