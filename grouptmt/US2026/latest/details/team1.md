@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 08:28:50 UTC
+# Standings for team1 as of 2026-02-26 08:29:23 UTC
 
 **Total Participants:** 2646
 
@@ -22,7 +22,7 @@
 | 14 | 4982 | Wei Ching Fang |
 | 15 | 3654 | Lisa Marie |
 | 16 | 3646 | Perky Shiftsnap |
-| 17 | 3319 | Katie Daniels |
+| 17 | 3331 | Katie Daniels |
 | 18 | 3023 | LaQuetta Faith Hines |
 | 19 | 2938 | Odell Barnett |
 | 20 | 2884 | Adrian Esteban |
@@ -431,14 +431,14 @@
 | 423 | 396 | Giggly Builderline |
 | 424 | 396 | Missy Broz McNees |
 | 425 | 396 | Mighty Shatterfit |
-| 426 | 396 | Kristen Meehan Wangerien |
-| 427 | 396 | Mel Fab |
+| 426 | 396 | Mel Fab |
+| 427 | 396 | Kristen Meehan Wangerien |
 | 428 | 396 | Lilkimmie |
 | 429 | 395 | Goobette |
 | 430 | 395 | Brooke Elizabeth Antill |
 | 431 | 394 | Nick R Montague |
-| 432 | 393 | Shaykmia |
-| 433 | 393 | Wisa |
+| 432 | 393 | Wisa |
+| 433 | 393 | Shaykmia |
 | 434 | 392 | Mary Love |
 | 435 | 391 | Leslie Bush Yarbrough |
 | 436 | 391 | Billie Dawn Sparks |
@@ -446,69 +446,69 @@
 | 438 | 390 | Carl Claunch |
 | 439 | 389 | Tanya Banks |
 | 440 | 388 | Delvison Rosario |
-| 441 | 387 | Itspaigebro |
-| 442 | 387 | Jessie |
+| 441 | 388 | Llewej Rekab |
+| 442 | 387 | Itspaigebro |
 | 443 | 387 | Diane Byrd |
-| 444 | 386 | Rico Rico |
-| 445 | 386 | Tiffany Smith |
-| 446 | 385 | san |
-| 447 | 384 | Patty Lavigne Craddock |
+| 444 | 387 | Jessie |
+| 445 | 386 | Rico Rico |
+| 446 | 386 | Tiffany Smith |
+| 447 | 385 | san |
 | 448 | 384 | Casey Hintenach |
-| 449 | 384 | Archie Ware |
-| 450 | 384 | Jamie Catlett |
-| 451 | 382 | Nathan William |
-| 452 | 382 | Gina Bettikofer |
-| 453 | 382 | Herm Junior |
-| 454 | 381 | cheeseman |
-| 455 | 380 | Rachel Rogers |
-| 456 | 379 | Jeremy Maubert |
+| 449 | 384 | Patty Lavigne Craddock |
+| 450 | 384 | Archie Ware |
+| 451 | 384 | Jamie Catlett |
+| 452 | 382 | Herm Junior |
+| 453 | 382 | Nathan William |
+| 454 | 382 | Gina Bettikofer |
+| 455 | 381 | cheeseman |
+| 456 | 380 | Rachel Rogers |
 | 457 | 379 | Austin James |
 | 458 | 379 | Mrsbigdawg |
-| 459 | 378 | Llewej Rekab |
+| 459 | 379 | Jeremy Maubert |
 | 460 | 378 | MomOf2Angels |
-| 461 | 376 | Marci Sanders |
-| 462 | 376 | Brave Slice |
+| 461 | 376 | Brave Slice |
+| 462 | 376 | Marci Sanders |
 | 463 | 375 | Barry Mac'Ockner |
 | 464 | 374 | Loony Bridgepiece |
-| 465 | 373 | Danielle Mae |
+| 465 | 373 | Zesty Brickzone |
 | 466 | 373 | Mitchel White |
-| 467 | 373 | Zesty Brickzone |
+| 467 | 373 | Danielle Mae |
 | 468 | 372 | Brave Wrecker |
-| 469 | 371 | Crystal Cheresnowsky |
-| 470 | 371 | Emmarieta Mendez |
-| 471 | 371 | dhardy |
-| 472 | 371 | Mary Cerciello |
-| 473 | 371 | Cranky Pattern |
-| 474 | 371 | Katie Martin |
+| 469 | 371 | Cranky Pattern |
+| 470 | 371 | Katie Martin |
+| 471 | 371 | Crystal Cheresnowsky |
+| 472 | 371 | Emmarieta Mendez |
+| 473 | 371 | dhardy |
+| 474 | 371 | Mary Cerciello |
 | 475 | 370 | Beffy |
 | 476 | 369 | Marianita Garcia |
 | 477 | 369 | Gerald Richard Franke |
 | 478 | 369 | Quirky Pusher |
-| 479 | 368 | Beazel75 |
+| 479 | 368 | Ashley Rodriguez |
 | 480 | 368 | Shannon Marie Pitts |
-| 481 | 368 | Ashley Rodriguez |
+| 481 | 368 | Beazel75 |
 | 482 | 367 | Snappy Bridgepiece |
 | 483 | 367 | Jeff Newinski |
 | 484 | 366 | J.F. Fields |
 | 485 | 365 | Norma Paredez |
 | 486 | 364 | Manley Smith |
 | 487 | 364 | Shauna Loe |
-| 488 | 363 | Ramona Shaver |
-| 489 | 363 | LC |
-| 490 | 362 | Perky Lifter |
-| 491 | 362 | Pauline Cortez |
+| 488 | 363 | LC |
+| 489 | 363 | Ramona Shaver |
+| 490 | 362 | grizzly |
+| 491 | 362 | Perky Lifter |
 | 492 | 362 | Daysha Johnson |
 | 493 | 362 | Costa del Sol |
-| 494 | 362 | grizzly |
-| 495 | 361 | Ma stoken |
-| 496 | 361 | Brian K Young II |
-| 497 | 361 | Panda Thagreat |
-| 498 | 361 | John Dixon |
-| 499 | 361 | Brandie Gallegos |
+| 494 | 362 | Pauline Cortez |
+| 495 | 361 | Brandie Gallegos |
+| 496 | 361 | John Dixon |
+| 497 | 361 | Brian K Young II |
+| 498 | 361 | Ma stoken |
+| 499 | 361 | Panda Thagreat |
 | 500 | 360 | Jeanna Dunn |
 | 501 | 359 | Debbie Davis |
-| 502 | 359 | Blake Mckay |
-| 503 | 359 | Dena Kayy |
+| 502 | 359 | Dena Kayy |
+| 503 | 359 | Blake Mckay |
 | 504 | 359 | Chummy Rollblock |
 | 505 | 358 | BigWeenie69 |
 | 506 | 357 | Blaire Bruckoff |
