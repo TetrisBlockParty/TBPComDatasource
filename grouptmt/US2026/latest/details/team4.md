@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 11:48:47 UTC
+# Standings for team4 as of 2026-02-26 11:49:23 UTC
 
 **Total Participants:** 2367
 
@@ -119,12 +119,12 @@
 | 111 | 1121 | BertMofo |
 | 112 | 1116 | loulou |
 | 113 | 1101 | Jeremy Steines |
-| 114 | 1090 | Amy Suckarieh |
-| 115 | 1089 | Monica Daley |
-| 116 | 1086 | quicksand420 |
-| 117 | 1084 | blasterB |
-| 118 | 1082 | Dion Crommarty |
-| 119 | 1081 | Porkobello |
+| 114 | 1090 | Porkobello |
+| 115 | 1090 | Amy Suckarieh |
+| 116 | 1089 | Monica Daley |
+| 117 | 1086 | quicksand420 |
+| 118 | 1084 | blasterB |
+| 119 | 1082 | Dion Crommarty |
 | 120 | 1080 | Judy Cox |
 | 121 | 1069 | Carrie Brian |
 | 122 | 1065 | Edward White |
@@ -383,9 +383,9 @@
 | 375 | 454 | Tina Lopez |
 | 376 | 453 | Duck |
 | 377 | 453 | Shukee Lo |
-| 378 | 452 | Allen Lloyd |
-| 379 | 451 | Nubian1 |
-| 380 | 450 | RamboBanana |
+| 378 | 453 | RamboBanana |
+| 379 | 452 | Allen Lloyd |
+| 380 | 451 | Nubian1 |
 | 381 | 449 | Marcheta Cervantez |
 | 382 | 449 | Tawna Curry |
 | 383 | 449 | Jesus Garcia |
@@ -415,14 +415,14 @@
 | 407 | 428 | Stella |
 | 408 | 428 | Juls |
 | 409 | 428 | Danya Castillo Rios |
-| 410 | 424 | Moonsterix |
-| 411 | 424 | Oleg Zakharskiy |
-| 412 | 423 | BigSammy420 |
-| 413 | 422 | Jess Reyes |
-| 414 | 421 | Tyler Bechtel |
-| 415 | 421 | Gracie Ann Taylor |
-| 416 | 421 | Zocko Ellet |
-| 417 | 421 | Petty |
+| 410 | 426 | Petty |
+| 411 | 424 | Moonsterix |
+| 412 | 424 | Oleg Zakharskiy |
+| 413 | 423 | BigSammy420 |
+| 414 | 422 | Jess Reyes |
+| 415 | 421 | Tyler Bechtel |
+| 416 | 421 | Gracie Ann Taylor |
+| 417 | 421 | Zocko Ellet |
 | 418 | 419 | Lauren Lamb |
 | 419 | 418 | Lane Wasson |
 | 420 | 417 | Val Erie |
@@ -443,8 +443,8 @@
 | 435 | 401 | Grann8 |
 | 436 | 401 | Joshua W. Benton |
 | 437 | 400 | Marcus TheeyoungWoe Gilmore |
-| 438 | 397 | Matt Dell'Olio |
-| 439 | 396 | Susan Williams |
+| 438 | 398 | Susan Williams |
+| 439 | 397 | Matt Dell'Olio |
 | 440 | 395 | Alexandra Karavias |
 | 441 | 395 | LunarCat |
 | 442 | 395 | Zany Shatterer |
@@ -731,42 +731,42 @@
 | 723 | 251 | Carol Ricks Raymond |
 | 724 | 251 | Janita Parrish |
 | 725 | 251 | Marco |
-| 726 | 250 | Sunny Filler |
-| 727 | 250 | Sha Ta Nay Mitchell |
-| 728 | 250 | Jobadia Steelerton |
-| 729 | 250 | Erebus |
-| 730 | 248 | Jacob Campbell |
+| 726 | 251 | Angel Johnson |
+| 727 | 250 | Sunny Filler |
+| 728 | 250 | Sha Ta Nay Mitchell |
+| 729 | 250 | Jobadia Steelerton |
+| 730 | 250 | Erebus |
 | 731 | 248 | Tabi Williams |
 | 732 | 248 | Chirpy Basepiece |
-| 733 | 247 | Lisa Allen Frisk |
-| 734 | 247 | Lazy Column |
-| 735 | 247 | Karen Lambert |
-| 736 | 247 | Brandy Gray |
-| 737 | 247 | Rebecca A Rit |
-| 738 | 246 | Norman Klick |
-| 739 | 246 | Loopy Rollbuilder |
-| 740 | 246 | Denatrious Perry |
-| 741 | 246 | Cheery Lift |
-| 742 | 246 | Crystal Eaden |
-| 743 | 245 | ASUNelson |
-| 744 | 245 | Shiny Twistpiece |
-| 745 | 244 | Matthew Pate |
-| 746 | 244 | Tammy Lewis |
-| 747 | 244 | Marvetta Williams |
-| 748 | 244 | Tory Miller |
-| 749 | 244 | Blue |
-| 750 | 244 | heatheryblue |
-| 751 | 243 | Satinleader |
-| 752 | 243 | Hediyuda |
-| 753 | 243 | Funky Risepiece |
-| 754 | 242 | Kanci McKnight |
-| 755 | 242 | PurpleMoonMa |
-| 756 | 242 | April Jo Roder |
-| 757 | 241 | Janis Brown |
-| 758 | 241 | Jelly |
-| 759 | 241 | Travis Poe |
-| 760 | 241 | Neal Allen II |
-| 761 | 241 | Angel Johnson |
+| 733 | 248 | Jacob Campbell |
+| 734 | 247 | Brandy Gray |
+| 735 | 247 | Lazy Column |
+| 736 | 247 | Karen Lambert |
+| 737 | 247 | Lisa Allen Frisk |
+| 738 | 247 | Rebecca A Rit |
+| 739 | 246 | Norman Klick |
+| 740 | 246 | Cheery Lift |
+| 741 | 246 | Loopy Rollbuilder |
+| 742 | 246 | Denatrious Perry |
+| 743 | 246 | Crystal Eaden |
+| 744 | 245 | ASUNelson |
+| 745 | 245 | Shiny Twistpiece |
+| 746 | 244 | Matthew Pate |
+| 747 | 244 | Tory Miller |
+| 748 | 244 | Marvetta Williams |
+| 749 | 244 | Tammy Lewis |
+| 750 | 244 | Blue |
+| 751 | 244 | heatheryblue |
+| 752 | 243 | Satinleader |
+| 753 | 243 | Hediyuda |
+| 754 | 243 | Funky Risepiece |
+| 755 | 242 | Kanci McKnight |
+| 756 | 242 | PurpleMoonMa |
+| 757 | 242 | April Jo Roder |
+| 758 | 241 | Janis Brown |
+| 759 | 241 | Jelly |
+| 760 | 241 | Travis Poe |
+| 761 | 241 | Neal Allen II |
 | 762 | 240 | Cool Clusterfit |
 | 763 | 240 | Pampam |
 | 764 | 239 | Mcg |
@@ -1561,41 +1561,41 @@
 | 1553 | 70 | Donnie Istillwill Straub |
 | 1554 | 70 | Angel Hollins |
 | 1555 | 70 | Happy Mover |
-| 1556 | 70 | Tj Colman |
-| 1557 | 69 | Keith Allen |
-| 1558 | 69 | Bymerica |
-| 1559 | 69 | DingusBingus17 |
-| 1560 | 69 | Daring Zonepiece |
-| 1561 | 69 | Brittanny Simpson |
-| 1562 | 69 | James Prickett |
-| 1563 | 69 | Andre Rivera |
-| 1564 | 69 | ZZZZZZZ |
-| 1565 | 68 | combatmac |
-| 1566 | 68 | Nicki nikki87 |
-| 1567 | 68 | James Antill |
-| 1568 | 68 | Anne-Marie Reyes |
-| 1569 | 68 | Camyra Dunnigan |
-| 1570 | 68 | OneBuke FollowMe |
-| 1571 | 68 | zelda Morgan |
-| 1572 | 68 | Francesco Bradshaw |
-| 1573 | 68 | Wormtown girl |
-| 1574 | 68 | Mikkela Rice |
-| 1575 | 68 | Marlene Ausburn |
-| 1576 | 67 | Jay A. Jerrel |
+| 1556 | 70 | Shy Ryan |
+| 1557 | 70 | Tj Colman |
+| 1558 | 69 | Keith Allen |
+| 1559 | 69 | Bymerica |
+| 1560 | 69 | DingusBingus17 |
+| 1561 | 69 | Daring Zonepiece |
+| 1562 | 69 | Brittanny Simpson |
+| 1563 | 69 | James Prickett |
+| 1564 | 69 | Andre Rivera |
+| 1565 | 69 | ZZZZZZZ |
+| 1566 | 68 | combatmac |
+| 1567 | 68 | Nicki nikki87 |
+| 1568 | 68 | James Antill |
+| 1569 | 68 | Anne-Marie Reyes |
+| 1570 | 68 | Camyra Dunnigan |
+| 1571 | 68 | OneBuke FollowMe |
+| 1572 | 68 | zelda Morgan |
+| 1573 | 68 | Francesco Bradshaw |
+| 1574 | 68 | Wormtown girl |
+| 1575 | 68 | Mikkela Rice |
+| 1576 | 68 | Marlene Ausburn |
 | 1577 | 67 | Poppy Clearpiece |
-| 1578 | 67 | Hyper Risebuilder |
-| 1579 | 67 | Hasty Matchgrid |
-| 1580 | 67 | Minot4444 |
-| 1581 | 67 | TrillVille |
-| 1582 | 67 | Amanda Loren |
-| 1583 | 67 | Nancy Banning |
-| 1584 | 66 | Lush Basegrid |
-| 1585 | 66 | Flashy Cascadepiece |
-| 1586 | 66 | Nadine Simone Jackwin |
-| 1587 | 66 | Pamela Traum |
-| 1588 | 66 | Bouncy Rotator |
-| 1589 | 66 | Shy Ryan |
-| 1590 | 66 | Flashy Snapbuild |
+| 1578 | 67 | Jay A. Jerrel |
+| 1579 | 67 | Hyper Risebuilder |
+| 1580 | 67 | Hasty Matchgrid |
+| 1581 | 67 | Minot4444 |
+| 1582 | 67 | TrillVille |
+| 1583 | 67 | Amanda Loren |
+| 1584 | 67 | Nancy Banning |
+| 1585 | 66 | Lush Basegrid |
+| 1586 | 66 | Flashy Cascadepiece |
+| 1587 | 66 | Flashy Snapbuild |
+| 1588 | 66 | Nadine Simone Jackwin |
+| 1589 | 66 | Bouncy Rotator |
+| 1590 | 66 | Pamela Traum |
 | 1591 | 66 | Maricia Coleman |
 | 1592 | 65 | Poppy |
 | 1593 | 65 | Deb Lilja |
