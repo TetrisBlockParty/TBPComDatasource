@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 09:24:46 UTC
+# Standings for team1 as of 2026-02-26 09:25:25 UTC
 
 **Total Participants:** 2652
 
@@ -265,10 +265,10 @@
 | 257 | 563 | Dreamy Drop |
 | 258 | 562 | Reesey Enyart |
 | 259 | 561 | Candy Jones |
-| 260 | 560 | canbrick |
-| 261 | 552 | Lehrin Maria |
-| 262 | 551 | Epic Jumper |
-| 263 | 550 | Keith Mathis |
+| 260 | 560 | Keith Mathis |
+| 261 | 560 | canbrick |
+| 262 | 552 | Lehrin Maria |
+| 263 | 551 | Epic Jumper |
 | 264 | 548 | Brian Spotts |
 | 265 | 548 | Wayne Saunders |
 | 266 | 547 | Sharon Reynolds |
@@ -1448,44 +1448,44 @@
 | 1440 | 94 | Victoria Ann |
 | 1441 | 94 | Chibuike Stephen Ndubunka |
 | 1442 | 94 | Loopy Towerpiece |
-| 1443 | 93 | Sandara Miley |
-| 1444 | 93 | Jason Whitehead |
-| 1445 | 93 | Victoria Montenegro Martinez |
-| 1446 | 93 | Shayna Rivera |
-| 1447 | 93 | ChipsUnion |
-| 1448 | 93 | Pete Garrett |
-| 1449 | 93 | Chirpy Zoney |
-| 1450 | 93 | Jack Shafer |
-| 1451 | 93 | Baddiebby |
-| 1452 | 92 | Karen Berkenstock |
+| 1443 | 94 | Liz Oubre |
+| 1444 | 93 | Sandara Miley |
+| 1445 | 93 | Jason Whitehead |
+| 1446 | 93 | Victoria Montenegro Martinez |
+| 1447 | 93 | Shayna Rivera |
+| 1448 | 93 | ChipsUnion |
+| 1449 | 93 | Pete Garrett |
+| 1450 | 93 | Chirpy Zoney |
+| 1451 | 93 | Jack Shafer |
+| 1452 | 93 | Baddiebby |
 | 1453 | 92 | Barbara Benjamin |
 | 1454 | 92 | BoneDaddy |
-| 1455 | 92 | Ivan Reynolds |
-| 1456 | 92 | Stephanie |
-| 1457 | 92 | Shea Hall |
-| 1458 | 92 | Twisty Patternline |
-| 1459 | 92 | Grace Joanne Agnant |
-| 1460 | 92 | Liz Oubre |
+| 1455 | 92 | Karen Berkenstock |
+| 1456 | 92 | Ivan Reynolds |
+| 1457 | 92 | Stephanie |
+| 1458 | 92 | Shea Hall |
+| 1459 | 92 | Twisty Patternline |
+| 1460 | 92 | Grace Joanne Agnant |
 | 1461 | 92 | Serenity Farson |
-| 1462 | 91 | Frisky Liney |
-| 1463 | 91 | Skyelandor |
-| 1464 | 91 | Peachy Balanceblock |
-| 1465 | 91 | Grant Halverson |
-| 1466 | 91 | Rayln Pedersen |
-| 1467 | 91 | Colton Samantha Lester |
-| 1468 | 91 | Matthew Krupansky |
-| 1469 | 91 | Bluebird |
-| 1470 | 91 | Funky Matchbuilder |
-| 1471 | 90 | Maria Maloney |
-| 1472 | 90 | Harry Matthew |
-| 1473 | 90 | Mitch |
-| 1474 | 90 | Amy Mancini |
-| 1475 | 90 | Grace Gieroski |
-| 1476 | 90 | Jam |
-| 1477 | 90 | Jeremy Horrach |
+| 1462 | 91 | Bluebird |
+| 1463 | 91 | Matthew Krupansky |
+| 1464 | 91 | Funky Matchbuilder |
+| 1465 | 91 | Rayln Pedersen |
+| 1466 | 91 | Peachy Balanceblock |
+| 1467 | 91 | Grant Halverson |
+| 1468 | 91 | Colton Samantha Lester |
+| 1469 | 91 | Frisky Liney |
+| 1470 | 91 | Skyelandor |
+| 1471 | 90 | Jam |
+| 1472 | 90 | Maria Maloney |
+| 1473 | 90 | Harry Matthew |
+| 1474 | 90 | Mitch |
+| 1475 | 90 | Amy Mancini |
+| 1476 | 90 | Jeremy Horrach |
+| 1477 | 90 | Grace Gieroski |
 | 1478 | 90 | Jesse Stephenson |
-| 1479 | 90 | Jill Nadeau Caron |
-| 1480 | 90 | Consuelo Lopez |
+| 1479 | 90 | Consuelo Lopez |
+| 1480 | 90 | Jill Nadeau Caron |
 | 1481 | 89 | Kenton Billings |
 | 1482 | 89 | Scott Hevenor |
 | 1483 | 89 | Channis |
