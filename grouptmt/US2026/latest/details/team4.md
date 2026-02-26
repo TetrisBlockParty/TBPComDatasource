@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 09:06:44 UTC
+# Standings for team4 as of 2026-02-26 09:07:23 UTC
 
 **Total Participants:** 2358
 
@@ -1913,70 +1913,70 @@
 | 1905 | 35 | IntheSunshine559 |
 | 1906 | 35 | nik |
 | 1907 | 35 | Clever Link |
-| 1908 | 34 | kn1fehandz |
-| 1909 | 34 | ChromaticZero |
-| 1910 | 34 | Brandy Birkett |
-| 1911 | 34 | Nyiesha Aikens |
-| 1912 | 34 | Mike Ybarra |
-| 1913 | 34 | Jonathan Colon |
-| 1914 | 34 | Anthony D Holmes |
-| 1915 | 34 | Los |
-| 1916 | 34 | Christi Gumber |
-| 1917 | 34 | John Anderson |
-| 1918 | 34 | Krista Wilder |
-| 1919 | 33 | Getem gone |
-| 1920 | 33 | Emily Finhill |
-| 1921 | 33 | Jodi Warner Sommerer |
-| 1922 | 33 | IceQueenKiller |
-| 1923 | 33 | OreoBlu |
-| 1924 | 33 | Reshau Clay |
-| 1925 | 33 | StarChild |
-| 1926 | 33 | Shakeyj |
-| 1927 | 33 | You know who |
-| 1928 | 33 | Cranky Matchpiece |
-| 1929 | 33 | Diddyblud |
-| 1930 | 33 | ElleneRobert KylePaisley Coward |
-| 1931 | 33 | Breezy Tilemaker |
-| 1932 | 33 | Jolene Marie Caetano |
-| 1933 | 33 | 1 |
-| 1934 | 33 | Brittany Butler |
-| 1935 | 33 | Monique Taurus Bugett |
-| 1936 | 32 | Chummy Twistpiece |
-| 1937 | 32 | Verzell Wade Banner |
+| 1908 | 35 | dash |
+| 1909 | 34 | kn1fehandz |
+| 1910 | 34 | Nyiesha Aikens |
+| 1911 | 34 | ChromaticZero |
+| 1912 | 34 | Brandy Birkett |
+| 1913 | 34 | Mike Ybarra |
+| 1914 | 34 | Jonathan Colon |
+| 1915 | 34 | Anthony D Holmes |
+| 1916 | 34 | Los |
+| 1917 | 34 | Christi Gumber |
+| 1918 | 34 | John Anderson |
+| 1919 | 34 | Krista Wilder |
+| 1920 | 33 | Getem gone |
+| 1921 | 33 | Emily Finhill |
+| 1922 | 33 | Jodi Warner Sommerer |
+| 1923 | 33 | IceQueenKiller |
+| 1924 | 33 | OreoBlu |
+| 1925 | 33 | Reshau Clay |
+| 1926 | 33 | StarChild |
+| 1927 | 33 | Shakeyj |
+| 1928 | 33 | Monique Taurus Bugett |
+| 1929 | 33 | Cranky Matchpiece |
+| 1930 | 33 | Diddyblud |
+| 1931 | 33 | Brittany Butler |
+| 1932 | 33 | 1 |
+| 1933 | 33 | Breezy Tilemaker |
+| 1934 | 33 | You know who |
+| 1935 | 33 | ElleneRobert KylePaisley Coward |
+| 1936 | 33 | Jolene Marie Caetano |
+| 1937 | 32 | Chummy Twistpiece |
 | 1938 | 32 | Block Buster |
-| 1939 | 32 | Zesty Dashgrid |
-| 1940 | 32 | Aaron Brown |
-| 1941 | 32 | flyin4e |
-| 1942 | 32 | Annette Warnke |
-| 1943 | 32 | Scott Burkett |
-| 1944 | 32 | Stephon Void |
-| 1945 | 32 | Tisha McManus |
-| 1946 | 32 | Lauri Robare Russell |
-| 1947 | 32 | CheBrandNew |
-| 1948 | 31 | Sab |
-| 1949 | 31 | Jud Retzlaff |
-| 1950 | 31 | Hoppy Brickzone |
-| 1951 | 31 | Dandy Liner |
-| 1952 | 31 | Plucky Patternbuilder |
-| 1953 | 31 | Raido |
-| 1954 | 30 | Amanda Mason Scott |
-| 1955 | 30 | Buda23 |
-| 1956 | 30 | Kiara Johnson |
-| 1957 | 30 | Mason Junior |
-| 1958 | 30 | Alberto Rosel |
-| 1959 | 30 | Derald Miller |
-| 1960 | 30 | Clara Avilez |
-| 1961 | 30 | Apryl Lia |
-| 1962 | 30 | Becky |
-| 1963 | 30 | Lisa Kohuwsky |
-| 1964 | 30 | Khrystyna Lukaniuk |
-| 1965 | 30 | Christina Harrell |
-| 1966 | 29 | Interesting |
-| 1967 | 29 | Joshua Smith |
-| 1968 | 29 | Amanda Gann |
-| 1969 | 29 | Melissa Gail Sanders |
-| 1970 | 29 | EMSquire |
-| 1971 | 29 | dash |
+| 1939 | 32 | Verzell Wade Banner |
+| 1940 | 32 | Zesty Dashgrid |
+| 1941 | 32 | Aaron Brown |
+| 1942 | 32 | flyin4e |
+| 1943 | 32 | Annette Warnke |
+| 1944 | 32 | Scott Burkett |
+| 1945 | 32 | Stephon Void |
+| 1946 | 32 | Tisha McManus |
+| 1947 | 32 | Lauri Robare Russell |
+| 1948 | 32 | CheBrandNew |
+| 1949 | 31 | Sab |
+| 1950 | 31 | Jud Retzlaff |
+| 1951 | 31 | Hoppy Brickzone |
+| 1952 | 31 | Dandy Liner |
+| 1953 | 31 | Plucky Patternbuilder |
+| 1954 | 31 | Raido |
+| 1955 | 30 | Amanda Mason Scott |
+| 1956 | 30 | Buda23 |
+| 1957 | 30 | Kiara Johnson |
+| 1958 | 30 | Mason Junior |
+| 1959 | 30 | Alberto Rosel |
+| 1960 | 30 | Derald Miller |
+| 1961 | 30 | Clara Avilez |
+| 1962 | 30 | Apryl Lia |
+| 1963 | 30 | Becky |
+| 1964 | 30 | Lisa Kohuwsky |
+| 1965 | 30 | Khrystyna Lukaniuk |
+| 1966 | 30 | Christina Harrell |
+| 1967 | 29 | Interesting |
+| 1968 | 29 | Joshua Smith |
+| 1969 | 29 | Amanda Gann |
+| 1970 | 29 | Melissa Gail Sanders |
+| 1971 | 29 | EMSquire |
 | 1972 | 29 | Witty Snapper |
 | 1973 | 29 | Kathy Garcia |
 | 1974 | 29 | Jennifer S. Williams |

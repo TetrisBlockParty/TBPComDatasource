@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 09:06:44 UTC
+# Standings for team1 as of 2026-02-26 09:07:23 UTC
 
 **Total Participants:** 2651
 
@@ -52,7 +52,7 @@
 | 44 | 1997 | Brenda Stewart |
 | 45 | 1974 | Cynthia Bradley |
 | 46 | 1963 | Jessica Sheehan |
-| 47 | 1946 | Bhelle Sumile |
+| 47 | 1948 | Bhelle Sumile |
 | 48 | 1894 | Rahna Underwood |
 | 49 | 1889 | Lola Adkhambekovna |
 | 50 | 1881 | Tyler Whitley |
@@ -745,12 +745,12 @@
 | 737 | 250 | Lively Wipeout |
 | 738 | 250 | Natasha Hollowell Causey |
 | 739 | 250 | Dawn Henderson |
-| 740 | 249 | Elizabeth Coover |
-| 741 | 249 | Brave Stacky |
-| 742 | 249 | Kathryn Chiles Anderson |
-| 743 | 247 | Nate Carter |
-| 744 | 247 | Nikki Fridley |
-| 745 | 247 | Adam Charles |
+| 740 | 250 | Adam Charles |
+| 741 | 249 | Elizabeth Coover |
+| 742 | 249 | Brave Stacky |
+| 743 | 249 | Kathryn Chiles Anderson |
+| 744 | 247 | Nate Carter |
+| 745 | 247 | Nikki Fridley |
 | 746 | 246 | Kirk Torrey |
 | 747 | 246 | Lucinda Thacker |
 | 748 | 246 | Slinky Tile |
