@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 08:48:45 UTC
+# Standings for team1 as of 2026-02-26 08:49:23 UTC
 
 **Total Participants:** 2648
 
@@ -354,8 +354,8 @@
 | 346 | 458 | Eddie Dillon |
 | 347 | 458 | Nathan Sealander |
 | 348 | 458 | Goose egg |
-| 349 | 455 | Larissa Marie Nelson |
-| 350 | 454 | Rick Pickup Raymur |
+| 349 | 455 | Rick Pickup Raymur |
+| 350 | 455 | Larissa Marie Nelson |
 | 351 | 454 | Sarah Roberts |
 | 352 | 452 | Lynn Adams |
 | 353 | 452 | Poppy Drop |
