@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 09:12:46 UTC
+# Standings for team1 as of 2026-02-26 09:13:23 UTC
 
 **Total Participants:** 2651
 
@@ -728,19 +728,19 @@
 | 720 | 257 | yoyoluv |
 | 721 | 256 | Sandy Jones |
 | 722 | 256 | Jana Hutcheson |
-| 723 | 255 | Dawn Rannelli |
-| 724 | 255 | Dennis McNeal |
-| 725 | 254 | Spunky Builderpiece |
-| 726 | 254 | Gauge Slusher |
-| 727 | 254 | Christina |
-| 728 | 254 | Jenny Hughes |
-| 729 | 253 | Flashy Crawler |
-| 730 | 253 | Krazykat💋❤️💋 |
-| 731 | 253 | Shano Rae |
-| 732 | 252 | Owicked1 |
-| 733 | 252 | Paul Osborne |
-| 734 | 252 | Plucky Wrecker |
-| 735 | 252 | Adam Charles |
+| 723 | 255 | Dennis McNeal |
+| 724 | 255 | Dawn Rannelli |
+| 725 | 254 | Adam Charles |
+| 726 | 254 | Spunky Builderpiece |
+| 727 | 254 | Gauge Slusher |
+| 728 | 254 | Christina |
+| 729 | 254 | Jenny Hughes |
+| 730 | 253 | Flashy Crawler |
+| 731 | 253 | Krazykat💋❤️💋 |
+| 732 | 253 | Shano Rae |
+| 733 | 252 | Owicked1 |
+| 734 | 252 | Paul Osborne |
+| 735 | 252 | Plucky Wrecker |
 | 736 | 251 | Collette Frank |
 | 737 | 251 | Jonathan Joshua |
 | 738 | 250 | Lively Wipeout |

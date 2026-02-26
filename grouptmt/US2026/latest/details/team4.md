@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 09:12:46 UTC
+# Standings for team4 as of 2026-02-26 09:13:23 UTC
 
 **Total Participants:** 2358
 
@@ -286,30 +286,30 @@
 | 278 | 554 | Loony Rotater |
 | 279 | 552 | shark tato |
 | 280 | 552 | Joseph Guthrie |
-| 281 | 551 | Jason Gibbs |
-| 282 | 551 | Crystal Nicolette Moore |
+| 281 | 551 | Crystal Nicolette Moore |
+| 282 | 551 | Jason Gibbs |
 | 283 | 551 | Morti |
-| 284 | 550 | James Hurley Jr. |
-| 285 | 550 | Michael Snow |
+| 284 | 550 | Michael Snow |
+| 285 | 550 | James Hurley Jr. |
 | 286 | 549 | Vic |
 | 287 | 546 | Jessica Petersen |
 | 288 | 545 | @ |
-| 289 | 542 | Lush Linkfall |
-| 290 | 541 | JIGsaw ~(•¿°)~ |
-| 291 | 538 | Gdiguy |
+| 289 | 545 | Gdiguy |
+| 290 | 542 | Lush Linkfall |
+| 291 | 541 | JIGsaw ~(•¿°)~ |
 | 292 | 537 | Kate |
 | 293 | 537 | ThaEviLJeNiuZ |
 | 294 | 535 | AyeKay |
 | 295 | 532 | Brittany Little |
-| 296 | 529 | Frances Hui |
-| 297 | 529 | Silly Zonebuilder |
+| 296 | 529 | Silly Zonebuilder |
+| 297 | 529 | Frances Hui |
 | 298 | 528 | Holly Jolly |
 | 299 | 527 | Jolly Dashfit |
 | 300 | 526 | Lee Silpe |
 | 301 | 525 | Jen Mattei |
 | 302 | 524 | Rafael Valentin |
-| 303 | 523 | David Lay |
-| 304 | 523 | Twisty Risebuilder |
+| 303 | 523 | Twisty Risebuilder |
+| 304 | 523 | David Lay |
 | 305 | 522 | Stacey Stano |
 | 306 | 522 | Heather Bruce |
 | 307 | 521 | Ari Droff |
@@ -321,52 +321,52 @@
 | 313 | 512 | Casey Jeffcoat |
 | 314 | 508 | Kenna Gunderland |
 | 315 | 506 | Paige Kittles |
-| 316 | 505 | 030Synner |
-| 317 | 505 | Zołza 😈 |
+| 316 | 505 | Zołza 😈 |
+| 317 | 505 | 030Synner |
 | 318 | 504 | Metsfan |
 | 319 | 504 | Neil Ingham |
 | 320 | 504 | Mike Solo |
-| 321 | 503 | Neirrah B Olailjeel |
-| 322 | 503 | KimoKoala |
+| 321 | 503 | KimoKoala |
+| 322 | 503 | Neirrah B Olailjeel |
 | 323 | 502 | Lauren Scott |
-| 324 | 501 | Squeezy Pearsall |
-| 325 | 501 | Hyper Builder |
+| 324 | 501 | Hyper Builder |
+| 325 | 501 | Squeezy Pearsall |
 | 326 | 500 | Laura |
-| 327 | 498 | Cool Gridzone |
-| 328 | 498 | mike |
-| 329 | 498 | 23 |
+| 327 | 498 | mike |
+| 328 | 498 | 23 |
+| 329 | 498 | Cool Gridzone |
 | 330 | 497 | Selena Shaw |
 | 331 | 496 | blockstar |
 | 332 | 494 | Lindsay Ball |
 | 333 | 494 | Eri Kka |
-| 334 | 493 | Richard |
+| 334 | 493 | Perky Piecegrid |
 | 335 | 493 | Jessica Fredericks |
-| 336 | 493 | Perky Piecegrid |
+| 336 | 493 | Richard |
 | 337 | 492 | Jason Bosco |
 | 338 | 491 | Sho Nuff |
-| 339 | 490 | Allison Rose |
-| 340 | 490 | Nig |
-| 341 | 488 | Amy Sanford |
-| 342 | 488 | Jake Roberts |
+| 339 | 490 | Nig |
+| 340 | 490 | Allison Rose |
+| 341 | 488 | Jake Roberts |
+| 342 | 488 | Amy Sanford |
 | 343 | 487 | tipsy tiger |
 | 344 | 485 | Dihcheese444 |
 | 345 | 483 | Laura McPheeters |
 | 346 | 481 | Andrew Dang |
 | 347 | 480 | Blessedmama |
 | 348 | 479 | Jen Caldwell |
-| 349 | 476 | Montiette Mcglown |
-| 350 | 475 | ChasingZen |
-| 351 | 474 | Madison Sweere |
-| 352 | 473 | TinyLegoRose |
-| 353 | 472 | Googenheim |
-| 354 | 470 | Speedy Cascadeclear |
+| 349 | 478 | Speedy Cascadeclear |
+| 350 | 476 | Montiette Mcglown |
+| 351 | 475 | ChasingZen |
+| 352 | 474 | Madison Sweere |
+| 353 | 473 | TinyLegoRose |
+| 354 | 472 | Googenheim |
 | 355 | 470 | Zany Swipe |
 | 356 | 466 | Sue Joyce Staats |
 | 357 | 465 | Lilya Troutman |
 | 358 | 465 | Ruby Khalisadar |
 | 359 | 463 | Maria Hammie |
-| 360 | 461 | Twisty Cascadezone |
-| 361 | 461 | Groovy Shiftspin |
+| 360 | 461 | Groovy Shiftspin |
+| 361 | 461 | Twisty Cascadezone |
 | 362 | 459 | Stephme310 |
 | 363 | 458 | Jay You |
 | 364 | 457 | Snippy Puzzle |
