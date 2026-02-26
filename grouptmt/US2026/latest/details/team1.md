@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-02-26 09:02:44 UTC
+# Standings for team1 as of 2026-02-26 09:03:24 UTC
 
 **Total Participants:** 2650
 
@@ -189,7 +189,7 @@
 | 181 | 734 | Sherri Drews |
 | 182 | 733 | Ly Phethmany |
 | 183 | 731 | Hasty Cascader |
-| 184 | 726 | Chase Collinsworth |
+| 184 | 728 | Chase Collinsworth |
 | 185 | 719 | Damon J. Martin |
 | 186 | 718 | Eric DeSimone |
 | 187 | 714 | Evan Richmond |
@@ -542,22 +542,22 @@
 | 534 | 345 | John Barron |
 | 535 | 345 | Sabrina Coleman |
 | 536 | 345 | Melanie Kelley |
-| 537 | 344 | Steven Collins |
-| 538 | 344 | Sam Rosado |
-| 539 | 344 | Jason Benitez |
-| 540 | 343 | Michelle |
-| 541 | 343 | Susie Loo |
-| 542 | 343 | Rikki Jo Creech |
-| 543 | 342 | Christina Norman |
-| 544 | 340 | Equinn |
-| 545 | 340 | Toph |
-| 546 | 340 | Carlos Floyd |
-| 547 | 339 | Jonah Dunn |
-| 548 | 339 | Kayla Marie Stevenson |
-| 549 | 339 | Adan Reyes |
-| 550 | 339 | Charlie Walker |
-| 551 | 338 | Justin Canape |
-| 552 | 337 | Amie Fields |
+| 537 | 345 | Amie Fields |
+| 538 | 344 | Steven Collins |
+| 539 | 344 | Sam Rosado |
+| 540 | 344 | Jason Benitez |
+| 541 | 343 | Michelle |
+| 542 | 343 | Susie Loo |
+| 543 | 343 | Rikki Jo Creech |
+| 544 | 342 | Christina Norman |
+| 545 | 340 | Equinn |
+| 546 | 340 | Toph |
+| 547 | 340 | Carlos Floyd |
+| 548 | 339 | Jonah Dunn |
+| 549 | 339 | Kayla Marie Stevenson |
+| 550 | 339 | Adan Reyes |
+| 551 | 339 | Charlie Walker |
+| 552 | 338 | Justin Canape |
 | 553 | 337 | Agustin Duarte Orozco |
 | 554 | 336 | Cool Balancer |
 | 555 | 334 | Khatia Sikharulidze |
@@ -1291,28 +1291,28 @@
 | 1283 | 119 | Joshua Murphy |
 | 1284 | 119 | Ana Estevez |
 | 1285 | 119 | Betsy Miller Solida |
-| 1286 | 118 | Denny Castle |
-| 1287 | 118 | Larry Brazil |
-| 1288 | 118 | C McMurd |
-| 1289 | 118 | Laura Small |
+| 1286 | 118 | Larry Brazil |
+| 1287 | 118 | Denny Castle |
+| 1288 | 118 | Tim Mccrary |
+| 1289 | 118 | C McMurd |
 | 1290 | 118 | Beatrice Taylor |
-| 1291 | 118 | Tim Mccrary |
-| 1292 | 117 | Heaven White |
-| 1293 | 117 | Rachael Marie |
-| 1294 | 117 | Vanessa Zuniga Elvira |
-| 1295 | 117 | Janell Gentry |
-| 1296 | 117 | Dylan BW |
-| 1297 | 117 | Nico |
-| 1298 | 117 | Roxann Boykin |
-| 1299 | 117 | Jessicer |
+| 1291 | 118 | Laura Small |
+| 1292 | 117 | Vanessa Zuniga Elvira |
+| 1293 | 117 | Roxann Boykin |
+| 1294 | 117 | Jessicer |
+| 1295 | 117 | Dylan BW |
+| 1296 | 117 | Heaven White |
+| 1297 | 117 | Rachael Marie |
+| 1298 | 117 | Janell Gentry |
+| 1299 | 117 | Nico |
 | 1300 | 117 | Omar Hudson |
-| 1301 | 116 | Cleo Snider |
-| 1302 | 116 | Badace1 |
-| 1303 | 116 | Mikey Melito |
-| 1304 | 116 | Moo |
-| 1305 | 115 | Connie Matheney |
+| 1301 | 116 | Badace1 |
+| 1302 | 116 | Cleo Snider |
+| 1303 | 116 | Hoppy Snapgrid |
+| 1304 | 116 | Mikey Melito |
+| 1305 | 116 | Moo |
 | 1306 | 115 | Patricia Mills |
-| 1307 | 115 | Hoppy Snapgrid |
+| 1307 | 115 | Connie Matheney |
 | 1308 | 115 | Tea Julien |
 | 1309 | 115 | Happy Tower |
 | 1310 | 115 | Helen Arbuckle |

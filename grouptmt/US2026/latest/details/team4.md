@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-02-26 09:02:44 UTC
+# Standings for team4 as of 2026-02-26 09:03:24 UTC
 
 **Total Participants:** 2358
 
@@ -1311,112 +1311,112 @@
 | 1303 | 104 | NihilisticIntrigue |
 | 1304 | 104 | Elizabeth Lansou |
 | 1305 | 104 | Monica Manning-Bryson |
-| 1306 | 104 | Jessi Mayfield |
-| 1307 | 104 | Alicia Falk |
-| 1308 | 104 | Br23klyn |
+| 1306 | 104 | Alicia Falk |
+| 1307 | 104 | Br23klyn |
+| 1308 | 104 | Jen |
 | 1309 | 104 | Mark Morgan |
-| 1310 | 104 | Jen |
-| 1311 | 104 | Angelson |
+| 1310 | 104 | Angelson |
+| 1311 | 104 | Jessi Mayfield |
 | 1312 | 103 | Ashley Gilland |
 | 1313 | 103 | Jacqueline Brosius |
 | 1314 | 103 | Kathy Eschenbach |
 | 1315 | 102 | Vicki Lynn |
 | 1316 | 102 | Bryan Johnson |
-| 1317 | 102 | Nee |
-| 1318 | 102 | Grimus |
-| 1319 | 101 | Speedy Clearer |
-| 1320 | 101 | Farrell Williams Jr. |
-| 1321 | 101 | Saulc1991 |
-| 1322 | 101 | Metrice |
-| 1323 | 101 | Denye |
-| 1324 | 101 | Aleasha Haukenfrers |
+| 1317 | 102 | Grimus |
+| 1318 | 102 | Nee |
+| 1319 | 101 | Denye |
+| 1320 | 101 | Saulc1991 |
+| 1321 | 101 | Metrice |
+| 1322 | 101 | Aleasha Haukenfrers |
+| 1323 | 101 | Farrell Williams Jr. |
+| 1324 | 101 | Speedy Clearer |
 | 1325 | 101 | Stacey |
 | 1326 | 100 | Judith Isaac |
-| 1327 | 100 | Zany Cascadebuilder |
-| 1328 | 99 | Angela Roper-Melvin |
-| 1329 | 99 | Andrew Easley |
-| 1330 | 99 | Dmpster Fire |
-| 1331 | 99 | Jeannie Lee |
-| 1332 | 99 | Brian O'Neill |
-| 1333 | 98 | Twisty Risegrid |
-| 1334 | 98 | aned |
-| 1335 | 98 | Angela |
-| 1336 | 98 | Maurice Daniels |
-| 1337 | 97 | Thomas R. Phillips |
+| 1327 | 100 | Wacky Brickmatch |
+| 1328 | 100 | Zany Cascadebuilder |
+| 1329 | 99 | Jeannie Lee |
+| 1330 | 99 | Andrew Easley |
+| 1331 | 99 | Dmpster Fire |
+| 1332 | 99 | Angela Roper-Melvin |
+| 1333 | 99 | Brian O'Neill |
+| 1334 | 98 | Twisty Risegrid |
+| 1335 | 98 | aned |
+| 1336 | 98 | Angela |
+| 1337 | 98 | Maurice Daniels |
 | 1338 | 97 | Heather Hilferty |
 | 1339 | 97 | Hasty Balancer |
-| 1340 | 97 | Maya Jane |
-| 1341 | 97 | Jerry Ruff |
-| 1342 | 97 | Jessalyn Jordan Davis |
-| 1343 | 96 | Lowkey24 |
-| 1344 | 96 | Joshua A Bea |
-| 1345 | 96 | Christy |
-| 1346 | 96 | Erin DeArman |
+| 1340 | 97 | Thomas R. Phillips |
+| 1341 | 97 | Maya Jane |
+| 1342 | 97 | Jerry Ruff |
+| 1343 | 97 | Jessalyn Jordan Davis |
+| 1344 | 96 | Lowkey24 |
+| 1345 | 96 | Erin DeArman |
+| 1346 | 96 | Christy |
 | 1347 | 96 | Mileydy Almora Diaz |
 | 1348 | 96 | Deborah Hewitt |
-| 1349 | 96 | Miguel Rodriguez |
-| 1350 | 96 | Danielle Love |
-| 1351 | 95 | Bubbly Edge |
-| 1352 | 95 | Chirpy Slammer |
-| 1353 | 95 | RedBoots82 |
-| 1354 | 95 | Peachy Pop |
-| 1355 | 95 | Kenya Lewis |
-| 1356 | 95 | Allison Judith |
-| 1357 | 95 | Tara Karen |
-| 1358 | 94 | Kb Ludiweci |
-| 1359 | 93 | Mousey406 |
+| 1349 | 96 | Danielle Love |
+| 1350 | 96 | Miguel Rodriguez |
+| 1351 | 96 | Joshua A Bea |
+| 1352 | 95 | Bubbly Edge |
+| 1353 | 95 | Allison Judith |
+| 1354 | 95 | Kenya Lewis |
+| 1355 | 95 | RedBoots82 |
+| 1356 | 95 | Chirpy Slammer |
+| 1357 | 95 | Peachy Pop |
+| 1358 | 95 | Tara Karen |
+| 1359 | 94 | Kb Ludiweci |
 | 1360 | 93 | T |
 | 1361 | 93 | Jason Goldstein |
 | 1362 | 93 | DaReal007EJW |
 | 1363 | 93 | Willow Rose |
 | 1364 | 93 | Tangelo |
-| 1365 | 93 | Wacky Shift |
-| 1366 | 93 | FanODisney |
-| 1367 | 92 | Kristen Raper |
-| 1368 | 92 | Anita Kramer |
-| 1369 | 92 | Mighty Blockroll |
+| 1365 | 93 | Mousey406 |
+| 1366 | 93 | Wacky Shift |
+| 1367 | 93 | FanODisney |
+| 1368 | 92 | Kristen Raper |
+| 1369 | 92 | Anita Kramer |
 | 1370 | 92 | Khu Muas |
-| 1371 | 91 | Amber Curry |
-| 1372 | 91 | Joan Du |
-| 1373 | 91 | Phyllis Mitchell |
+| 1371 | 92 | Mighty Blockroll |
+| 1372 | 91 | Cassie Haydis |
+| 1373 | 91 | Joan Du |
 | 1374 | 91 | Poppy Twistslam |
-| 1375 | 91 | Cassie Haydis |
-| 1376 | 91 | CandiedBacon |
-| 1377 | 91 | Tonya |
-| 1378 | 90 | Christopher Cand |
-| 1379 | 90 | Terrie Rader |
-| 1380 | 90 | Johnboom317 |
-| 1381 | 90 | Fastnines |
+| 1375 | 91 | Phyllis Mitchell |
+| 1376 | 91 | Amber Curry |
+| 1377 | 91 | CandiedBacon |
+| 1378 | 91 | Tonya |
+| 1379 | 90 | Christopher Cand |
+| 1380 | 90 | Terrie Rader |
+| 1381 | 90 | Johnboom317 |
 | 1382 | 90 | Kelli Steinmetz |
-| 1383 | 90 | Daring Spinzone |
-| 1384 | 90 | Wacky Brickmatch |
-| 1385 | 89 | Rachel Nicole |
-| 1386 | 89 | Blockin88 |
+| 1383 | 90 | Fastnines |
+| 1384 | 90 | Daring Spinzone |
+| 1385 | 89 | Boldy Linkfall |
+| 1386 | 89 | Rachel Nicole |
 | 1387 | 89 | Mary Haynes |
 | 1388 | 89 | Kayley Kara Gaudin |
-| 1389 | 89 | Boldy Linkfall |
+| 1389 | 89 | Blockin88 |
 | 1390 | 89 | Ellie |
 | 1391 | 89 | Chad Moore |
 | 1392 | 88 | Missy Conley Sayne |
 | 1393 | 88 | Taco Taco |
 | 1394 | 88 | Miranda Ozaeta |
 | 1395 | 88 | Shelly Matthews |
-| 1396 | 87 | Ashley Kerr |
+| 1396 | 87 | Laura Smith |
 | 1397 | 87 | Nicholas Felton |
-| 1398 | 87 | Derek Pendarvis |
-| 1399 | 87 | Laura Smith |
-| 1400 | 87 | Cherry cola pepper |
-| 1401 | 87 | Kat |
+| 1398 | 87 | Ashley Kerr |
+| 1399 | 87 | Derek Pendarvis |
+| 1400 | 87 | Kat |
+| 1401 | 87 | Cherry cola pepper |
 | 1402 | 87 | Rocky Lotz |
 | 1403 | 87 | Kiaria Kiaria |
 | 1404 | 87 | Victoria Teasley |
 | 1405 | 86 | Lab2dablock |
 | 1406 | 86 | Nerdy Clicker |
-| 1407 | 86 | AZ |
-| 1408 | 86 | QuietStorm |
-| 1409 | 85 | Tim Knight-ten |
-| 1410 | 85 | Staci Robinson Jones |
-| 1411 | 85 | Dylan Schultz |
+| 1407 | 86 | QuietStorm |
+| 1408 | 86 | AZ |
+| 1409 | 85 | Dylan Schultz |
+| 1410 | 85 | Tim Knight-ten |
+| 1411 | 85 | Staci Robinson Jones |
 | 1412 | 85 | Jazzy Cascadezone |
 | 1413 | 85 | MazieMae |
 | 1414 | 84 | Brandon Biff Schleman |
