@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 18:14:13 UTC
+# Standings for team1 as of 2026-03-13 18:14:35 UTC
 
 **Total Participants:** 504
 
@@ -40,10 +40,10 @@
 | 32 | 163 | Amber Zeller Rice |
 | 33 | 158 | Dom The Great |
 | 34 | 157 | Panda Rog |
-| 35 | 151 | Nutty Cascadefit |
-| 36 | 150 | Amee Schnarrs |
-| 37 | 147 | raffyG |
-| 38 | 145 | Ramon Salazar |
+| 35 | 156 | Ramon Salazar |
+| 36 | 151 | Nutty Cascadefit |
+| 37 | 150 | Amee Schnarrs |
+| 38 | 147 | raffyG |
 | 39 | 137 | Bigmoco |
 | 40 | 136 | Sunny Swiper |
 | 41 | 124 | Mighty Patternbuilder |
@@ -194,21 +194,21 @@
 | 186 | 32 | MamaPhee |
 | 187 | 32 | Penny Morrical |
 | 188 | 32 | Jonathan Gaffaney |
-| 189 | 32 | Trishatta YoungDiva Watkins |
-| 190 | 32 | Chummy Rollzone |
-| 191 | 32 | Jennie Lee Huntley |
-| 192 | 32 | Brittney Groler |
-| 193 | 31 | Groovy Glidepiece |
-| 194 | 31 | Zuul Gatekeeper |
+| 189 | 32 | Zuul Gatekeeper |
+| 190 | 32 | Trishatta YoungDiva Watkins |
+| 191 | 32 | Chummy Rollzone |
+| 192 | 32 | Jennie Lee Huntley |
+| 193 | 32 | Brittney Groler |
+| 194 | 31 | Groovy Glidepiece |
 | 195 | 30 | Chill Shiftspin |
 | 196 | 30 | Greenie |
 | 197 | 30 | Cynthia Herrmann Egland |
 | 198 | 30 | Trina Gee |
-| 199 | 30 | Sunny |
-| 200 | 30 | QueenBee |
-| 201 | 30 | Jodie Peterson |
-| 202 | 30 | Jason Garnatz |
-| 203 | 30 | Beth Anderson |
+| 199 | 30 | QueenBee |
+| 200 | 30 | Jodie Peterson |
+| 201 | 30 | Jason Garnatz |
+| 202 | 30 | Beth Anderson |
+| 203 | 30 | Sunny |
 | 204 | 30 | Kimberly Goncalves |
 | 205 | 30 | DoodleBug |
 | 206 | 30 | Snappy Linkroll |
@@ -453,63 +453,63 @@
 | 445 | 7 | OmniJoy |
 | 446 | 7 | Christie Reynolds |
 | 447 | 7 | Herm Junior |
-| 448 | 7 | Josh Barringer |
+| 448 | 7 | meh |
 | 449 | 7 | freakyjoe |
 | 450 | 7 | key |
 | 451 | 7 | MrsW |
-| 452 | 7 | meh |
-| 453 | 7 | Randy Bowers |
+| 452 | 7 | Randy Bowers |
+| 453 | 7 | Missy Lynn |
 | 454 | 7 | Jennifer Kime |
-| 455 | 7 | Missy Lynn |
-| 456 | 7 | April McGuffie |
-| 457 | 7 | waylow |
+| 455 | 7 | April McGuffie |
+| 456 | 7 | waylow |
+| 457 | 7 | Josh Barringer |
 | 458 | 7 | Darlene |
-| 459 | 7 | Bouncy Tilerpiece |
-| 460 | 7 | Cool Base |
+| 459 | 7 | Cool Base |
+| 460 | 7 | Bouncy Tilerpiece |
 | 461 | 6 | Lil H |
-| 462 | 6 | Randy Clevenger |
-| 463 | 6 | Dizzy Pattern |
-| 464 | 6 | ajx |
-| 465 | 6 | Breezy Ivy |
-| 466 | 6 | Jack Mattiace |
-| 467 | 6 | Slinky Setter |
+| 462 | 6 | Dizzy Pattern |
+| 463 | 6 | ajx |
+| 464 | 6 | Breezy Ivy |
+| 465 | 6 | Jack Mattiace |
+| 466 | 6 | Pupcup |
+| 467 | 6 | Randy Clevenger |
 | 468 | 6 | Kristen Rhoads |
-| 469 | 6 | Jody Jackson |
+| 469 | 6 | Slinky Setter |
 | 470 | 6 | cac |
-| 471 | 6 | Tyrell Harvin |
-| 472 | 6 | Tjango |
-| 473 | 6 | Amber Jackson |
-| 474 | 6 | Breezy Block |
-| 475 | 6 | mrkw |
-| 476 | 6 | Antoinette Rhinesmith |
-| 477 | 6 | Jpapi |
-| 478 | 6 | Snippy Tilerpiece |
+| 471 | 6 | Monica Blu |
+| 472 | 6 | Tyrell Harvin |
+| 473 | 6 | Tjango |
+| 474 | 6 | Jody Jackson |
+| 475 | 6 | Amber Jackson |
+| 476 | 6 | Breezy Block |
+| 477 | 6 | mrkw |
+| 478 | 6 | Antoinette Rhinesmith |
 | 479 | 6 | Austin Wilson |
-| 480 | 6 | Pupcup |
-| 481 | 6 | Monica Blu |
+| 480 | 6 | Jpapi |
+| 481 | 6 | Snippy Tilerpiece |
 | 482 | 6 | Gary Francis Schaffer Jr |
-| 483 | 6 | dustin b |
-| 484 | 6 | flip |
-| 485 | 5 | Victoria Montenegro Martinez |
-| 486 | 5 | Slinky Dashgrid |
-| 487 | 5 | Samantha Bugg Stitcher |
-| 488 | 5 | LadyKuSh |
-| 489 | 5 | Troy Gussler |
-| 490 | 5 | Fancy Tilefall |
-| 491 | 5 | Angela Renea Lester |
-| 492 | 5 | Armoni |
+| 483 | 6 | flip |
+| 484 | 6 | dustin b |
+| 485 | 5 | Slinky Dashgrid |
+| 486 | 5 | Samantha Bugg Stitcher |
+| 487 | 5 | LadyKuSh |
+| 488 | 5 | Terry Dill |
+| 489 | 5 | Armoni |
+| 490 | 5 | Troy Gussler |
+| 491 | 5 | Fancy Tilefall |
+| 492 | 5 | Angela Renea Lester |
 | 493 | 5 | Charis Stoner |
 | 494 | 5 | Slinky Stacky |
 | 495 | 5 | Tony Lighthizer |
 | 496 | 5 | Moretattsdenscars |
-| 497 | 5 | Lulu C Harp |
-| 498 | 5 | Ras David |
-| 499 | 5 | Jennifer Brown |
-| 500 | 5 | MissySai TooRude Ladson |
-| 501 | 5 | Chrys Peters |
-| 502 | 5 | Benjamin Ford |
-| 503 | 5 | Sarajo Clauson |
-| 504 | 5 | Terry Dill |
+| 497 | 5 | Ras David |
+| 498 | 5 | Sarajo Clauson |
+| 499 | 5 | Benjamin Ford |
+| 500 | 5 | Chrys Peters |
+| 501 | 5 | MissySai TooRude Ladson |
+| 502 | 5 | Victoria Montenegro Martinez |
+| 503 | 5 | Jennifer Brown |
+| 504 | 5 | Lulu C Harp |
 
 ---
 *Standings created by tournaments datasource generation tool*
