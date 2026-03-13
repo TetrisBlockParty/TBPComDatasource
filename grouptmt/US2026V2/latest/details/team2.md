@@ -1,17 +1,19 @@
-# Standings for team2 as of 2026-03-13 12:04:31 UTC
+# Standings for team2 as of 2026-03-13 12:05:11 UTC
 
-**Total Participants:** 6
+**Total Participants:** 8
 
 ## Participant Scores
 
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 28 | Lindsey Anderson |
-| 2 | 9 | Kell Cinn |
-| 3 | 9 | Jason Pence |
-| 4 | 8 | Arisvet Garcia |
+| 2 | 20 | Chyrisse Norton |
+| 3 | 9 | Kell Cinn |
+| 4 | 9 | Jason Pence |
 | 5 | 8 | Hyper Pop |
-| 6 | 5 | Daniel Moore |
+| 6 | 8 | Arisvet Garcia |
+| 7 | 5 | Daniel Moore |
+| 8 | 5 | Melody Santiago |
 
 ---
 *Standings created by tournaments datasource generation tool*
