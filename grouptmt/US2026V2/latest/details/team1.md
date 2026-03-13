@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 20:22:14 UTC
+# Standings for team1 as of 2026-03-13 20:22:35 UTC
 
 **Total Participants:** 683
 
@@ -123,10 +123,10 @@
 | 115 | 68 | Lauren Bond |
 | 116 | 66 | Scott Disedare |
 | 117 | 65 | Becca Gatrell Barton |
-| 118 | 64 | Heather Bell |
-| 119 | 64 | Loverlylove |
-| 120 | 64 | Tawny Mo |
-| 121 | 62 | DoodleBug |
+| 118 | 65 | DoodleBug |
+| 119 | 64 | Heather Bell |
+| 120 | 64 | Loverlylove |
+| 121 | 64 | Tawny Mo |
 | 122 | 61 | Sassy Cascadepiece |
 | 123 | 61 | Witty Clusterfit |
 | 124 | 61 | Haley Anne |
