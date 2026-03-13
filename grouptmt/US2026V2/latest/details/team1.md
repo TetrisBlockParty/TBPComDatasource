@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 13:12:32 UTC
+# Standings for team1 as of 2026-03-13 13:13:11 UTC
 
 **Total Participants:** 129
 
@@ -11,7 +11,7 @@
 | 3 | 494 | Dizzy Stagger |
 | 4 | 412 | Amy Dial Brown |
 | 5 | 266 | Tashanna Harvey |
-| 6 | 222 | Amy Roche |
+| 6 | 242 | Amy Roche |
 | 7 | 210 | Hasbro Bros |
 | 8 | 123 | Megan Klinkner |
 | 9 | 111 | Tanya Carpenter-Reynolds |
@@ -23,21 +23,21 @@
 | 15 | 60 | Alezandra Smith |
 | 16 | 59 | Poppy Builderline |
 | 17 | 57 | Lori Dutton |
-| 18 | 54 | Giddy Cascade |
-| 19 | 51 | Joyce Harrell-chavis |
-| 20 | 50 | Gina Annese |
-| 21 | 50 | Aponk |
-| 22 | 50 | Andy Harris |
-| 23 | 49 | Itn |
-| 24 | 49 | Dale |
-| 25 | 48 | Jennifer Traywick |
-| 26 | 47 | Tyle Armstead |
-| 27 | 44 | Bold Zonegrid |
-| 28 | 42 | Tig |
-| 29 | 40 | @n@luvmakin |
-| 30 | 40 | Jevon Griffith |
-| 31 | 40 | Christi Burley |
-| 32 | 40 | Robyn Massey |
+| 18 | 55 | @n@luvmakin |
+| 19 | 54 | Giddy Cascade |
+| 20 | 51 | Joyce Harrell-chavis |
+| 21 | 50 | Andy Harris |
+| 22 | 50 | Gina Annese |
+| 23 | 50 | Aponk |
+| 24 | 49 | Itn |
+| 25 | 49 | Dale |
+| 26 | 48 | Jennifer Traywick |
+| 27 | 47 | Tyle Armstead |
+| 28 | 44 | Bold Zonegrid |
+| 29 | 42 | Tig |
+| 30 | 40 | Robyn Massey |
+| 31 | 40 | Jevon Griffith |
+| 32 | 40 | Christi Burley |
 | 33 | 39 | mbij21 |
 | 34 | 37 | Albert Josef Toves Means Jr. |
 | 35 | 35 | Tammy Straka |
@@ -47,23 +47,23 @@
 | 39 | 32 | Chummy Rollzone |
 | 40 | 32 | Trishatta YoungDiva Watkins |
 | 41 | 32 | Goofy Linkblock |
-| 42 | 30 | raffyG |
-| 43 | 30 | Chris Kelly |
+| 42 | 30 | Beth Anderson |
+| 43 | 30 | raffyG |
 | 44 | 30 | kito23 |
-| 45 | 29 | Teresa Wolf |
-| 46 | 28 | Maxwell Hall |
-| 47 | 27 | Bean |
-| 48 | 27 | Panda Rog |
-| 49 | 26 | Beth Anderson |
-| 50 | 26 | Tim Raper |
-| 51 | 26 | Bubbly Patterner |
+| 45 | 30 | Chris Kelly |
+| 46 | 29 | Teresa Wolf |
+| 47 | 28 | Maxwell Hall |
+| 48 | 27 | Bean |
+| 49 | 27 | Panda Rog |
+| 50 | 26 | Bubbly Patterner |
+| 51 | 26 | Tim Raper |
 | 52 | 22 | Giddy Swiper |
 | 53 | 22 | Hyper Drop |
-| 54 | 20 | Mean Melly |
-| 55 | 20 | Kindra Sinclair |
-| 56 | 18 | Jacob Phillips |
-| 57 | 18 | Ryry |
-| 58 | 18 | Rebekah LeiAnn Bonsell |
+| 54 | 21 | Rebekah LeiAnn Bonsell |
+| 55 | 20 | Mean Melly |
+| 56 | 20 | Kindra Sinclair |
+| 57 | 18 | Jacob Phillips |
+| 58 | 18 | Ryry |
 | 59 | 18 | Bingo Wingo |
 | 60 | 17 | Lee Sipelii |
 | 61 | 16 | Chilly Matchbuilder |
@@ -71,12 +71,12 @@
 | 63 | 16 | Porkobello |
 | 64 | 16 | Anne Garcia |
 | 65 | 15 | William Ramirez |
-| 66 | 15 | Nikki Robinson |
-| 67 | 15 | Ellen Maxwell Capstaff |
+| 66 | 15 | Ellen Maxwell Capstaff |
+| 67 | 15 | Nikki Robinson |
 | 68 | 15 | Oscar Ferguson |
-| 69 | 14 | Elyse YL |
-| 70 | 14 | Ernest Jordan |
-| 71 | 14 | Amber Nicole |
+| 69 | 14 | Ernest Jordan |
+| 70 | 14 | Amber Nicole |
+| 71 | 14 | Elyse YL |
 | 72 | 14 | Dawn Fike |
 | 73 | 13 | Natasha Velasquez Gabriel |
 | 74 | 13 | Krystal McPherson |
@@ -124,17 +124,17 @@
 | 116 | 6 | Monica Blu |
 | 117 | 6 | Jack Mattiace |
 | 118 | 6 | Sunny Swiper |
-| 119 | 6 | Poppy Lift |
-| 120 | 6 | Zuul Gatekeeper |
-| 121 | 6 | Dizzy Pattern |
-| 122 | 5 | Tracie Corbett |
-| 123 | 5 | Perky Clusterbuilder |
-| 124 | 5 | Jennifer Brown |
-| 125 | 5 | Samantha Bugg Stitcher |
-| 126 | 5 | Flashy Clicker |
-| 127 | 5 | Armin Muhamed |
-| 128 | 5 | freakyjoe |
-| 129 | 5 | MissySai TooRude Ladson |
+| 119 | 6 | Zuul Gatekeeper |
+| 120 | 6 | Dizzy Pattern |
+| 121 | 6 | Poppy Lift |
+| 122 | 5 | Perky Clusterbuilder |
+| 123 | 5 | Tracie Corbett |
+| 124 | 5 | MissySai TooRude Ladson |
+| 125 | 5 | freakyjoe |
+| 126 | 5 | Armin Muhamed |
+| 127 | 5 | Flashy Clicker |
+| 128 | 5 | Samantha Bugg Stitcher |
+| 129 | 5 | Jennifer Brown |
 
 ---
 *Standings created by tournaments datasource generation tool*
