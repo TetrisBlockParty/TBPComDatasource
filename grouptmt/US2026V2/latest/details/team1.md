@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 20:37:13 UTC
+# Standings for team1 as of 2026-03-13 20:38:13 UTC
 
 **Total Participants:** 698
 
@@ -41,7 +41,7 @@
 | 33 | 222 | Jr_420 |
 | 34 | 220 | Jevon Griffith |
 | 35 | 218 | Legendary |
-| 36 | 213 | Peachy Brick |
+| 36 | 215 | Peachy Brick |
 | 37 | 209 | TRCuse |
 | 38 | 199 | Gloria Ininahazwe |
 | 39 | 192 | Ramon Salazar |
@@ -173,9 +173,9 @@
 | 165 | 51 | Joyce Harrell-chavis |
 | 166 | 51 | Yolanda Quinn |
 | 167 | 50 | CL Meyer |
-| 168 | 50 | Goofy Linkblock |
-| 169 | 50 | JonCorry Story |
-| 170 | 50 | Letson Melissa |
+| 168 | 50 | Letson Melissa |
+| 169 | 50 | Goofy Linkblock |
+| 170 | 50 | JonCorry Story |
 | 171 | 50 | Aponk |
 | 172 | 50 | Bri Jackson |
 | 173 | 50 | HugeLoad |
@@ -184,59 +184,59 @@
 | 176 | 49 | Dale |
 | 177 | 49 | Brandon Zachary Anderson |
 | 178 | 49 | Ernest Jordan |
-| 179 | 48 | Kat Kath |
+| 179 | 48 | King D |
 | 180 | 48 | Bold Clear |
-| 181 | 47 | Tyle Armstead |
+| 181 | 48 | Kat Kath |
 | 182 | 47 | iceman |
-| 183 | 47 | Porkobello |
+| 183 | 47 | Tyle Armstead |
 | 184 | 47 | Ellieshay |
-| 185 | 47 | Snazzy Rotater |
-| 186 | 46 | Matthew Laudico |
-| 187 | 46 | Suzan Frazier |
-| 188 | 46 | Jonathan Gaffaney |
-| 189 | 45 | Cynthia Herrmann Egland |
-| 190 | 44 | Bold Zonegrid |
-| 191 | 44 | Tim Raper |
-| 192 | 44 | Neko Preston |
-| 193 | 44 | Michael Felker |
-| 194 | 43 | Dan Engelhard |
-| 195 | 43 | Flashy Stacky |
-| 196 | 42 | Travis Taylor |
-| 197 | 42 | Bubba_C59 |
+| 185 | 47 | Porkobello |
+| 186 | 47 | Snazzy Rotater |
+| 187 | 46 | Matthew Laudico |
+| 188 | 46 | Suzan Frazier |
+| 189 | 46 | Jonathan Gaffaney |
+| 190 | 45 | Cynthia Herrmann Egland |
+| 191 | 44 | Bold Zonegrid |
+| 192 | 44 | Tim Raper |
+| 193 | 44 | Neko Preston |
+| 194 | 44 | Michael Felker |
+| 195 | 43 | Dan Engelhard |
+| 196 | 43 | Flashy Stacky |
+| 197 | 42 | Travis Taylor |
 | 198 | 42 | Bribrobra |
-| 199 | 42 | KK |
+| 199 | 42 | Bubba_C59 |
 | 200 | 42 | David Larter |
-| 201 | 41 | Pig02 |
-| 202 | 41 | Maxwell Hall |
-| 203 | 41 | Glitzy Linkpiece |
-| 204 | 41 | Kim Bays |
-| 205 | 41 | Lively Patternfall |
-| 206 | 41 | Krystal McPherson |
-| 207 | 40 | Happy Snapline |
-| 208 | 40 | Nora Smith |
-| 209 | 40 | Josh Twilley |
-| 210 | 40 | Robyn Massey |
-| 211 | 40 | Noah |
+| 201 | 42 | KK |
+| 202 | 41 | Krystal McPherson |
+| 203 | 41 | Pig02 |
+| 204 | 41 | Maxwell Hall |
+| 205 | 41 | Glitzy Linkpiece |
+| 206 | 41 | Kim Bays |
+| 207 | 41 | Lively Patternfall |
+| 208 | 40 | Noah |
+| 209 | 40 | Robyn Massey |
+| 210 | 40 | Josh Twilley |
+| 211 | 40 | Terrance Williams |
 | 212 | 40 | Chummy Risebuilder |
-| 213 | 40 | Christi Burley |
-| 214 | 40 | kito23 |
-| 215 | 40 | Kat |
-| 216 | 40 | Terrance Williams |
-| 217 | 40 | David Zeimer |
-| 218 | 39 | Tasha Jasmin |
+| 213 | 40 | Happy Snapline |
+| 214 | 40 | Nora Smith |
+| 215 | 40 | David Zeimer |
+| 216 | 40 | Kat |
+| 217 | 40 | kito23 |
+| 218 | 40 | Christi Burley |
 | 219 | 39 | mbij21 |
-| 220 | 39 | Tammy Straka |
-| 221 | 39 | Crystal Eubanks |
-| 222 | 39 | Debbie Buchanan |
-| 223 | 39 | Jennifer Negrete |
-| 224 | 39 | Ryry |
-| 225 | 39 | Chuck Williams |
-| 226 | 38 | Lively Catcher |
+| 220 | 39 | Chuck Williams |
+| 221 | 39 | Tammy Straka |
+| 222 | 39 | Ryry |
+| 223 | 39 | Tasha Jasmin |
+| 224 | 39 | Jennifer Negrete |
+| 225 | 39 | Debbie Buchanan |
+| 226 | 39 | Crystal Eubanks |
 | 227 | 38 | Itspaigebro |
-| 228 | 38 | tay |
-| 229 | 38 | Zuul Gatekeeper |
-| 230 | 38 | Megan Bennett |
-| 231 | 38 | King D |
+| 228 | 38 | Zuul Gatekeeper |
+| 229 | 38 | tay |
+| 230 | 38 | Lively Catcher |
+| 231 | 38 | Megan Bennett |
 | 232 | 38 | Christina Davis |
 | 233 | 37 | Kimmy White |
 | 234 | 36 | Jai |
@@ -327,29 +327,29 @@
 | 319 | 26 | Spicy Clearpiece |
 | 320 | 26 | Stephanie Myers |
 | 321 | 26 | Plucky Dashgrid |
-| 322 | 26 | Cassie Lathem |
-| 323 | 26 | Rose Anna |
-| 324 | 26 | Sonotjelly |
-| 325 | 26 | LeeAnn Martindale |
-| 326 | 25 | Aaron Arenivaz |
-| 327 | 25 | Melissa Madison |
-| 328 | 25 | Carl Hampton |
-| 329 | 25 | Jessica Lang |
-| 330 | 25 | SLAPNUTZ |
-| 331 | 25 | Pam Jennings Herzog |
-| 332 | 25 | Rocky |
-| 333 | 25 | Rebecca Martin |
-| 334 | 25 | Jessica Marie Long |
-| 335 | 25 | Ryne Pinkston |
-| 336 | 25 | Samantha Bugg Stitcher |
+| 322 | 26 | Swanky Tiltpiece |
+| 323 | 26 | Cassie Lathem |
+| 324 | 26 | Rose Anna |
+| 325 | 26 | Sonotjelly |
+| 326 | 26 | LeeAnn Martindale |
+| 327 | 25 | Aaron Arenivaz |
+| 328 | 25 | Melissa Madison |
+| 329 | 25 | Carl Hampton |
+| 330 | 25 | Jessica Lang |
+| 331 | 25 | SLAPNUTZ |
+| 332 | 25 | Pam Jennings Herzog |
+| 333 | 25 | Rocky |
+| 334 | 25 | Rebecca Martin |
+| 335 | 25 | Jessica Marie Long |
+| 336 | 25 | Ryne Pinkston |
 | 337 | 25 | PennyCandee |
 | 338 | 25 | Crystal Swigart |
 | 339 | 25 | Dish19 |
 | 340 | 25 | Stacy Rodriguez |
-| 341 | 24 | Zesty Edgepiece |
-| 342 | 24 | 🗝️🗝️ Key |
-| 343 | 24 | Colleen McFadden Moldenhauer |
-| 344 | 24 | Swanky Tiltpiece |
+| 341 | 25 | Samantha Bugg Stitcher |
+| 342 | 24 | Zesty Edgepiece |
+| 343 | 24 | 🗝️🗝️ Key |
+| 344 | 24 | Colleen McFadden Moldenhauer |
 | 345 | 24 | ssr |
 | 346 | 24 | Amy Hollinger |
 | 347 | 24 | Vicki Dougie |
