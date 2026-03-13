@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 18:16:36 UTC
+# Standings for team1 as of 2026-03-13 18:17:13 UTC
 
 **Total Participants:** 505
 
@@ -23,7 +23,7 @@
 | 15 | 402 | Erica Lepisto Anderson |
 | 16 | 360 | Paul Smiar |
 | 17 | 344 | Giddy Cascade |
-| 18 | 334 | Sheree Twiddy Thornton |
+| 18 | 337 | Sheree Twiddy Thornton |
 | 19 | 284 | Hellsin |
 | 20 | 257 | Hasbro Bros |
 | 21 | 249 | Tatiyana Holm |
@@ -56,11 +56,11 @@
 | 48 | 110 | Philippines |
 | 49 | 110 | Katherine Walton |
 | 50 | 106 | Albert Josef Toves Means Jr. |
-| 51 | 100 | Quirky Twistline |
-| 52 | 100 | Ann Brock LaPorte |
-| 53 | 100 | Brandy Ridgeway |
-| 54 | 99 | Hhholmesjr |
-| 55 | 94 | Xande NO Lie Williams |
+| 51 | 104 | Xande NO Lie Williams |
+| 52 | 100 | Quirky Twistline |
+| 53 | 100 | Ann Brock LaPorte |
+| 54 | 100 | Brandy Ridgeway |
+| 55 | 99 | Hhholmesjr |
 | 56 | 93 | Krystal Mccoy |
 | 57 | 91 | Walter Beltran |
 | 58 | 88 | Tameka Brown |
@@ -89,42 +89,42 @@
 | 81 | 61 | Elyse YL |
 | 82 | 61 | 1_Roxanne_3 |
 | 83 | 61 | Margo Fenton |
-| 84 | 60 | Simmone T. Kadiri |
-| 85 | 60 | Dee |
-| 86 | 60 | Tami Luce Martin |
+| 84 | 60 | S Gale Holton |
+| 85 | 60 | Simmone T. Kadiri |
+| 86 | 60 | Dee |
 | 87 | 60 | Bennett Hunter |
 | 88 | 60 | Alezandra Smith |
-| 89 | 60 | S Gale Holton |
+| 89 | 60 | Tami Luce Martin |
 | 90 | 60 | Yolanda M Harris |
 | 91 | 60 | Rebecca Wilson |
 | 92 | 60 | Jodi Fichter |
-| 93 | 59 | Marianne Lopez |
-| 94 | 59 | Sassy Cascadepiece |
-| 95 | 58 | Rennon Scott Wilson |
-| 96 | 58 | Jennifer Traywick |
-| 97 | 58 | Witty Clusterfit |
-| 98 | 58 | Frilly Climber |
-| 99 | 57 | Heather Bell |
+| 93 | 60 | Al Smith Jr |
+| 94 | 59 | Marianne Lopez |
+| 95 | 59 | Sassy Cascadepiece |
+| 96 | 58 | Frilly Climber |
+| 97 | 58 | Jennifer Traywick |
+| 98 | 58 | Rennon Scott Wilson |
+| 99 | 58 | Witty Clusterfit |
 | 100 | 57 | Lori Dutton |
-| 101 | 57 | SpaceCase085 |
-| 102 | 56 | Happy Shatterfit |
-| 103 | 55 | Teresa Wolf |
-| 104 | 55 | Adam McMakin |
+| 101 | 57 | Heather Bell |
+| 102 | 57 | SpaceCase085 |
+| 103 | 56 | Happy Shatterfit |
+| 104 | 55 | Sabrina Frazier |
 | 105 | 55 | Vergie Michael |
-| 106 | 55 | Sabrina Frazier |
-| 107 | 54 | Gina Annese |
-| 108 | 53 | Zany Tower |
-| 109 | 53 | Chilly Matchbuilder |
-| 110 | 53 | Mykal Burton |
-| 111 | 53 | Tisha Cammack |
-| 112 | 52 | Melody Rene |
-| 113 | 52 | Scott Disedare |
-| 114 | 52 | Itn |
-| 115 | 52 | Becca Gatrell Barton |
-| 116 | 52 | Donald Nguyen |
-| 117 | 51 | Yolanda Quinn |
-| 118 | 51 | Joyce Harrell-chavis |
-| 119 | 50 | Al Smith Jr |
+| 106 | 55 | Teresa Wolf |
+| 107 | 55 | Adam McMakin |
+| 108 | 54 | Gina Annese |
+| 109 | 53 | Zany Tower |
+| 110 | 53 | Tisha Cammack |
+| 111 | 53 | Mykal Burton |
+| 112 | 53 | Chilly Matchbuilder |
+| 113 | 52 | Itn |
+| 114 | 52 | Melody Rene |
+| 115 | 52 | Scott Disedare |
+| 116 | 52 | Becca Gatrell Barton |
+| 117 | 52 | Donald Nguyen |
+| 118 | 51 | Yolanda Quinn |
+| 119 | 51 | Joyce Harrell-chavis |
 | 120 | 50 | Aponk |
 | 121 | 50 | Chill Shiftspin |
 | 122 | 50 | Goofy Linkblock |
@@ -454,63 +454,63 @@
 | 446 | 7 | Christie Reynolds |
 | 447 | 7 | Herm Junior |
 | 448 | 7 | Josh Barringer |
-| 449 | 7 | Randy Bowers |
-| 450 | 7 | freakyjoe |
-| 451 | 7 | key |
-| 452 | 7 | Missy Lynn |
-| 453 | 7 | April McGuffie |
-| 454 | 7 | MrsW |
-| 455 | 7 | waylow |
-| 456 | 7 | Darlene |
-| 457 | 7 | meh |
-| 458 | 7 | Jennifer Kime |
-| 459 | 7 | Bouncy Tilerpiece |
-| 460 | 7 | Cool Base |
-| 461 | 6 | Jack Mattiace |
-| 462 | 6 | Kristen Rhoads |
-| 463 | 6 | Breezy Ivy |
-| 464 | 6 | ajx |
-| 465 | 6 | Dizzy Pattern |
-| 466 | 6 | Pupcup |
-| 467 | 6 | cac |
-| 468 | 6 | Monica Blu |
-| 469 | 6 | Randy Clevenger |
-| 470 | 6 | Slinky Setter |
-| 471 | 6 | Jody Jackson |
-| 472 | 6 | Tjango |
-| 473 | 6 | Breezy Block |
-| 474 | 6 | Antoinette Rhinesmith |
-| 475 | 6 | dustin b |
-| 476 | 6 | Tyrell Harvin |
-| 477 | 6 | Austin Wilson |
-| 478 | 6 | Gary Francis Schaffer Jr |
-| 479 | 6 | mrkw |
-| 480 | 6 | flip |
-| 481 | 6 | Snippy Tilerpiece |
-| 482 | 6 | Jpapi |
-| 483 | 6 | Amber Jackson |
-| 484 | 6 | Lil H |
-| 485 | 5 | Fancy Tilefall |
-| 486 | 5 | Angela Renea Lester |
-| 487 | 5 | Samantha Bugg Stitcher |
-| 488 | 5 | Armoni |
-| 489 | 5 | Kristen Hall |
-| 490 | 5 | LadyKuSh |
-| 491 | 5 | Charis Stoner |
-| 492 | 5 | Victoria Montenegro Martinez |
-| 493 | 5 | Slinky Dashgrid |
+| 449 | 7 | Jennifer Kime |
+| 450 | 7 | meh |
+| 451 | 7 | MrsW |
+| 452 | 7 | key |
+| 453 | 7 | freakyjoe |
+| 454 | 7 | Randy Bowers |
+| 455 | 7 | Missy Lynn |
+| 456 | 7 | April McGuffie |
+| 457 | 7 | waylow |
+| 458 | 7 | Bouncy Tilerpiece |
+| 459 | 7 | Cool Base |
+| 460 | 7 | Darlene |
+| 461 | 6 | Tyrell Harvin |
+| 462 | 6 | Monica Blu |
+| 463 | 6 | Jpapi |
+| 464 | 6 | Randy Clevenger |
+| 465 | 6 | Slinky Setter |
+| 466 | 6 | Dizzy Pattern |
+| 467 | 6 | ajx |
+| 468 | 6 | Breezy Ivy |
+| 469 | 6 | Jack Mattiace |
+| 470 | 6 | Jody Jackson |
+| 471 | 6 | Kristen Rhoads |
+| 472 | 6 | cac |
+| 473 | 6 | Tjango |
+| 474 | 6 | flip |
+| 475 | 6 | Amber Jackson |
+| 476 | 6 | Breezy Block |
+| 477 | 6 | Lil H |
+| 478 | 6 | mrkw |
+| 479 | 6 | Antoinette Rhinesmith |
+| 480 | 6 | Snippy Tilerpiece |
+| 481 | 6 | Austin Wilson |
+| 482 | 6 | dustin b |
+| 483 | 6 | Gary Francis Schaffer Jr |
+| 484 | 6 | Pupcup |
+| 485 | 5 | Kristen Hall |
+| 486 | 5 | Samantha Bugg Stitcher |
+| 487 | 5 | Slinky Dashgrid |
+| 488 | 5 | Angela Renea Lester |
+| 489 | 5 | LadyKuSh |
+| 490 | 5 | Fancy Tilefall |
+| 491 | 5 | Armoni |
+| 492 | 5 | Terry Dill |
+| 493 | 5 | Charis Stoner |
 | 494 | 5 | Slinky Stacky |
 | 495 | 5 | Tony Lighthizer |
-| 496 | 5 | Terry Dill |
-| 497 | 5 | Troy Gussler |
-| 498 | 5 | Sarajo Clauson |
-| 499 | 5 | Benjamin Ford |
-| 500 | 5 | Chrys Peters |
-| 501 | 5 | Moretattsdenscars |
-| 502 | 5 | Lulu C Harp |
-| 503 | 5 | Ras David |
-| 504 | 5 | MissySai TooRude Ladson |
-| 505 | 5 | Jennifer Brown |
+| 496 | 5 | Moretattsdenscars |
+| 497 | 5 | Lulu C Harp |
+| 498 | 5 | Jennifer Brown |
+| 499 | 5 | Troy Gussler |
+| 500 | 5 | Sarajo Clauson |
+| 501 | 5 | Benjamin Ford |
+| 502 | 5 | Chrys Peters |
+| 503 | 5 | MissySai TooRude Ladson |
+| 504 | 5 | Victoria Montenegro Martinez |
+| 505 | 5 | Ras David |
 
 ---
 *Standings created by tournaments datasource generation tool*
