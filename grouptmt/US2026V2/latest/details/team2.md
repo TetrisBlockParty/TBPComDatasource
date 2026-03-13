@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-13 17:28:35 UTC
+# Standings for team2 as of 2026-03-13 17:29:11 UTC
 
 **Total Participants:** 493
 
@@ -9,16 +9,16 @@
 | 1 | 1759 | Fae-Bulous |
 | 2 | 1600 | 1nonlyreal1 |
 | 3 | 1267 | Abigail Kate Fernandez |
-| 4 | 829 | Payton Auberry |
-| 5 | 800 | Denise Nardoni |
+| 4 | 1216 | Denise Nardoni |
+| 5 | 829 | Payton Auberry |
 | 6 | 603 | Richard Butler |
 | 7 | 577 | Kristen Sceurman |
 | 8 | 552 | Joshua |
 | 9 | 539 | Kori Beth Babb |
-| 10 | 466 | Jennifer Gartland |
-| 11 | 451 | Kevin Watson |
-| 12 | 450 | Cynthia Ward |
-| 13 | 449 | Emilie Dodge |
+| 10 | 474 | Emilie Dodge |
+| 11 | 466 | Jennifer Gartland |
+| 12 | 451 | Kevin Watson |
+| 13 | 450 | Cynthia Ward |
 | 14 | 411 | Aubree Richard |
 | 15 | 400 | Leah Gorsuch |
 | 16 | 360 | Crafty Matchfit |
