@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-13 12:08:12 UTC
+# Standings for team3 as of 2026-03-13 12:08:34 UTC
 
 **Total Participants:** 18
 
@@ -15,13 +15,13 @@
 | 7 | 14 | TamiJo |
 | 8 | 14 | Zippy Cascadeclear |
 | 9 | 11 | Tiffany Gamble |
-| 10 | 6 | Ashley Ingram |
-| 11 | 6 | Juliet Weathers |
-| 12 | 6 | DefaultUser |
-| 13 | 6 | Sir-Franchise Drake |
-| 14 | 6 | Laurie LeCroy |
-| 15 | 6 | Odysseus |
-| 16 | 6 | Dee Franklin |
+| 10 | 8 | Juliet Weathers |
+| 11 | 6 | Sir-Franchise Drake |
+| 12 | 6 | Laurie LeCroy |
+| 13 | 6 | Odysseus |
+| 14 | 6 | Dee Franklin |
+| 15 | 6 | DefaultUser |
+| 16 | 6 | Ashley Ingram |
 | 17 | 5 | Spencer Nikki |
 | 18 | 5 | Dreamy Drop |
 
