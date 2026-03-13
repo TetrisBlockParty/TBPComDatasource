@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-13 19:26:14 UTC
+# Standings for team2 as of 2026-03-13 19:26:35 UTC
 
 **Total Participants:** 636
 
@@ -24,8 +24,8 @@
 | 16 | 474 | Emilie Dodge |
 | 17 | 466 | Jennifer Gartland |
 | 18 | 451 | Kevin Watson |
-| 19 | 400 | Leah Gorsuch |
-| 20 | 394 | Justablock |
+| 19 | 403 | Justablock |
+| 20 | 400 | Leah Gorsuch |
 | 21 | 391 | Raven Smith |
 | 22 | 360 | Liana Spikes |
 | 23 | 353 | Kat |
@@ -168,104 +168,104 @@
 | 160 | 50 | Hasty Pivoty |
 | 161 | 50 | DirtDiggler |
 | 162 | 50 | Dee Doubleyou |
-| 163 | 50 | Sonceria Ingram-Ford |
-| 164 | 50 | Keyata Wright |
-| 165 | 50 | LML |
-| 166 | 49 | Adam Charles |
-| 167 | 49 | Joeyalan Sullivan |
+| 163 | 50 | Keyata Wright |
+| 164 | 50 | LML |
+| 165 | 50 | Sonceria Ingram-Ford |
+| 166 | 49 | Brave Fallzone |
+| 167 | 49 | Bouncy Zoner |
 | 168 | 49 | Dreamer |
-| 169 | 49 | Brave Fallzone |
-| 170 | 49 | Bouncy Zoner |
+| 169 | 49 | Adam Charles |
+| 170 | 49 | Joeyalan Sullivan |
 | 171 | 48 | Sarah Marie |
 | 172 | 48 | Arv |
 | 173 | 48 | Leticia Martinez Kelley |
-| 174 | 47 | Chloe S |
+| 174 | 47 | Witty Twistslam |
 | 175 | 47 | Ashley Leonard |
-| 176 | 47 | Witty Twistslam |
+| 176 | 47 | Chloe S |
 | 177 | 47 | Kristi Riley |
-| 178 | 46 | Tiff Vs Tiffany |
-| 179 | 46 | Mjhays |
-| 180 | 46 | Paul Beeman |
-| 181 | 46 | Mike Hromowyk |
+| 178 | 46 | Paul Beeman |
+| 179 | 46 | Mike Hromowyk |
+| 180 | 46 | Mjhays |
+| 181 | 46 | Tiff Vs Tiffany |
 | 182 | 45 | Jessica Venable |
-| 183 | 45 | Brave Matchfit |
+| 183 | 45 | Stacy |
 | 184 | 45 | Dreamy Clicker |
-| 185 | 45 | Stacy |
-| 186 | 45 | Kelly Williams |
+| 185 | 45 | Kelly Williams |
+| 186 | 45 | Brave Matchfit |
 | 187 | 44 | Jason Briggs |
 | 188 | 44 | Lavella Tburg |
 | 189 | 43 | Abby Jensen |
 | 190 | 43 | Bow Babe |
 | 191 | 43 | Tya Ortiz |
-| 192 | 42 | bubbles |
-| 193 | 42 | Marta Savchuk |
-| 194 | 42 | Rigoberto Sanchez Jr. |
-| 195 | 42 | Scott Siple |
-| 196 | 41 | Scott Martinson |
-| 197 | 40 | Tiffany Banks Jennings |
-| 198 | 40 | Ding Adventurer |
+| 192 | 42 | Rigoberto Sanchez Jr. |
+| 193 | 42 | bubbles |
+| 194 | 42 | Scott Siple |
+| 195 | 42 | Marta Savchuk |
+| 196 | 41 | Chill Builder |
+| 197 | 41 | Scott Martinson |
+| 198 | 40 | Michael |
 | 199 | 40 | Shelly Marie Lloyd |
-| 200 | 40 | Melody Santiago |
+| 200 | 40 | Tiffany Banks Jennings |
 | 201 | 40 | Buisanito |
-| 202 | 40 | Michael |
+| 202 | 40 | Melody Santiago |
 | 203 | 40 | Joy Young |
-| 204 | 40 | Brenda Lee Vander Molen |
-| 205 | 40 | Veronica Martin Trinkle |
-| 206 | 40 | Kennedy Sandifer |
-| 207 | 39 | Kristie |
-| 208 | 39 | Heather Kelley |
-| 209 | 39 | Christina Graham |
-| 210 | 39 | Miranda Taylor |
-| 211 | 39 | Laurie Raynor |
-| 212 | 38 | Snippy Basepiece |
-| 213 | 38 | jardo |
-| 214 | 38 | Nikki Speer |
-| 215 | 38 | Sam Hall |
-| 216 | 38 | Christina Freeman |
-| 217 | 38 | funhon2829 |
-| 218 | 38 | Nerdy Risebuilder |
-| 219 | 38 | Autumn Leslie |
-| 220 | 38 | CaliGames |
+| 204 | 40 | Kennedy Sandifer |
+| 205 | 40 | Ding Adventurer |
+| 206 | 40 | Veronica Martin Trinkle |
+| 207 | 40 | Brenda Lee Vander Molen |
+| 208 | 39 | Christina Graham |
+| 209 | 39 | Laurie Raynor |
+| 210 | 39 | Kristie |
+| 211 | 39 | CaliGames |
+| 212 | 39 | Heather Kelley |
+| 213 | 39 | Miranda Taylor |
+| 214 | 38 | jardo |
+| 215 | 38 | Nikki Speer |
+| 216 | 38 | Snippy Basepiece |
+| 217 | 38 | Sam Hall |
+| 218 | 38 | Christina Freeman |
+| 219 | 38 | funhon2829 |
+| 220 | 38 | Nerdy Risebuilder |
 | 221 | 38 | Dai Bo |
-| 222 | 37 | Elizabeth Ostrom |
+| 222 | 38 | Autumn Leslie |
 | 223 | 37 | Robert Fenton |
-| 224 | 36 | Libby |
+| 224 | 37 | Elizabeth Ostrom |
 | 225 | 36 | Rarejewel Green |
 | 226 | 36 | Giddy Fallzone |
-| 227 | 35 | Gael |
-| 228 | 35 | Shiny Gridmatch |
-| 229 | 35 | Chipper Stacky |
-| 230 | 35 | Brickh4us |
-| 231 | 35 | Jen |
-| 232 | 35 | Elizabeth Churning |
-| 233 | 35 | Angel Hunnewell |
-| 234 | 34 | Deb Wasano |
-| 235 | 34 | Snippy Framezone |
-| 236 | 34 | Cozy Tiley |
-| 237 | 34 | Tracey Cox |
-| 238 | 33 | Kevin Stultz |
-| 239 | 33 | JoJo |
-| 240 | 33 | Prette Qui |
-| 241 | 33 | Lindsay Parenti |
-| 242 | 33 | Berling Gil |
-| 243 | 32 | Kiorah Blaze |
+| 227 | 36 | Libby |
+| 228 | 35 | Chipper Stacky |
+| 229 | 35 | Brickh4us |
+| 230 | 35 | Jen |
+| 231 | 35 | Elizabeth Churning |
+| 232 | 35 | Angel Hunnewell |
+| 233 | 35 | Shiny Gridmatch |
+| 234 | 35 | Gael |
+| 235 | 34 | Deb Wasano |
+| 236 | 34 | Tracey Cox |
+| 237 | 34 | Cozy Tiley |
+| 238 | 34 | Snippy Framezone |
+| 239 | 33 | Berling Gil |
+| 240 | 33 | Lindsay Parenti |
+| 241 | 33 | Prette Qui |
+| 242 | 33 | Kevin Stultz |
+| 243 | 33 | JoJo |
 | 244 | 32 | Kendra KJ Joyner |
-| 245 | 32 | Chill Builder |
-| 246 | 32 | Carey Kyle |
-| 247 | 32 | Zippy Tile |
+| 245 | 32 | Carey Kyle |
+| 246 | 32 | Zippy Tile |
+| 247 | 32 | Kiorah Blaze |
 | 248 | 31 | squarish |
 | 249 | 31 | Rebecca Goforth |
 | 250 | 31 | Kira Hugar |
 | 251 | 31 | Mango |
 | 252 | 31 | GoddessCandy |
-| 253 | 30 | Diane D-block Wade |
-| 254 | 30 | Krish Shah |
-| 255 | 30 | CSOTYS |
-| 256 | 30 | Valhammer |
+| 253 | 30 | Valhammer |
+| 254 | 30 | CSOTYS |
+| 255 | 30 | Cool Riser |
+| 256 | 30 | Krish Shah |
 | 257 | 30 | Susan Larson |
-| 258 | 30 | Cool Riser |
-| 259 | 30 | Bridgett |
-| 260 | 30 | Marcie McLain Dodd |
+| 258 | 30 | Bridgett |
+| 259 | 30 | Marcie McLain Dodd |
+| 260 | 30 | Diane D-block Wade |
 | 261 | 30 | Jazzy Piecebuilder |
 | 262 | 30 | Lynette Manning |
 | 263 | 30 | LD1 |

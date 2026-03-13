@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 19:26:14 UTC
+# Standings for team1 as of 2026-03-13 19:26:35 UTC
 
 **Total Participants:** 607
 
@@ -317,10 +317,10 @@
 | 309 | 22 | Deb Horwath |
 | 310 | 22 | Steffi Chris Dacones |
 | 311 | 22 | Hoppy Builderpiece |
-| 312 | 22 | Boldy Clicky |
-| 313 | 21 | CHR |
-| 314 | 21 | Sallie Sanborn |
-| 315 | 21 | Ecami |
+| 312 | 22 | Ecami |
+| 313 | 22 | Boldy Clicky |
+| 314 | 21 | CHR |
+| 315 | 21 | Sallie Sanborn |
 | 316 | 21 | Matthew Allan |
 | 317 | 21 | Pervis Boyd |
 | 318 | 21 | Jai |
@@ -379,73 +379,73 @@
 | 371 | 17 | Raynsera |
 | 372 | 17 | Tracy Priceless Gholston |
 | 373 | 17 | Crystal Jaggars |
-| 374 | 17 | Lisa Marie Sansom |
-| 375 | 17 | Angela Renea Lester |
+| 374 | 17 | Angela Renea Lester |
+| 375 | 17 | Lisa Marie Sansom |
 | 376 | 17 | Amy Sanford |
 | 377 | 16 | Laurel |
-| 378 | 16 | Melissa Hart |
-| 379 | 16 | Stacey Delane Sumner |
-| 380 | 16 | Tbuzz |
+| 378 | 16 | LeeAnn Martindale |
+| 379 | 16 | Tracey Wilson |
+| 380 | 16 | Cool Dasher |
 | 381 | 16 | eightball119 |
-| 382 | 16 | Cool Dasher |
-| 383 | 16 | Tracey Wilson |
-| 384 | 16 | LeeAnn Martindale |
-| 385 | 16 | Anne Garcia |
+| 382 | 16 | Anne Garcia |
+| 383 | 16 | Jennifer L Rutherford |
+| 384 | 16 | Tbuzz |
+| 385 | 16 | Melissa Hart |
 | 386 | 16 | Bearman |
-| 387 | 16 | Jennifer L Rutherford |
-| 388 | 15 | Adam Stephanie Parker |
-| 389 | 15 | DynamicQuail10 |
-| 390 | 15 | Joyce Fees |
-| 391 | 15 | Ody |
-| 392 | 15 | William Ramirez |
-| 393 | 15 | Armin Muhamed |
-| 394 | 15 | Bubba_C59 |
-| 395 | 15 | Christopher Wesley |
-| 396 | 15 | Loony Blockfall |
-| 397 | 15 | Erica Wynne |
-| 398 | 15 | Ashley Cox |
-| 399 | 15 | Spam |
-| 400 | 15 | Kathy Searles |
-| 401 | 15 | Antoinette Rhinesmith |
-| 402 | 15 | TexasLise |
-| 403 | 15 | Ziggy Csah |
-| 404 | 15 | Nikki Robinson |
-| 405 | 15 | Moretattsdenscars |
-| 406 | 15 | Lush Buildout |
-| 407 | 15 | Ellen Maxwell Capstaff |
-| 408 | 15 | Dizzy Glidebuilder |
-| 409 | 15 | Esav Castro |
-| 410 | 15 | Richard Cranium |
-| 411 | 14 | James Martin |
-| 412 | 14 | Megan Treacy |
-| 413 | 14 | tay |
-| 414 | 14 | Katie Martin |
-| 415 | 14 | Bold Fallzone |
-| 416 | 14 | BingoStarr |
-| 417 | 14 | Mel Fab |
-| 418 | 14 | Dace Zoltners |
-| 419 | 14 | Trisha Gallagher |
-| 420 | 13 | Danielle Kollias |
-| 421 | 13 | Kjnals Wall |
-| 422 | 13 | Jill Goff |
-| 423 | 13 | Elizabeth A Cobuccio |
-| 424 | 13 | Natasha Velasquez Gabriel |
-| 425 | 13 | Dunlap Loretta |
-| 426 | 13 | Timothy Lott |
-| 427 | 13 | Deandre Young |
-| 428 | 13 | pretty kitty |
-| 429 | 13 | Susan Marsh |
-| 430 | 12 | Liz M Durfee |
-| 431 | 12 | Erin Hodges Plumb |
-| 432 | 12 | Lush Dasher |
-| 433 | 12 | beep |
-| 434 | 12 | James Burda |
-| 435 | 12 | Moe Thought |
-| 436 | 12 | e |
-| 437 | 12 | Leche |
-| 438 | 12 | Ryan N. Mason |
+| 387 | 16 | Stacey Delane Sumner |
+| 388 | 15 | Armin Muhamed |
+| 389 | 15 | Bubba_C59 |
+| 390 | 15 | Loony Blockfall |
+| 391 | 15 | William Ramirez |
+| 392 | 15 | Erica Wynne |
+| 393 | 15 | Ashley Cox |
+| 394 | 15 | Spam |
+| 395 | 15 | DynamicQuail10 |
+| 396 | 15 | Kathy Searles |
+| 397 | 15 | Nikki Robinson |
+| 398 | 15 | Joyce Fees |
+| 399 | 15 | Moretattsdenscars |
+| 400 | 15 | Lush Buildout |
+| 401 | 15 | Ellen Maxwell Capstaff |
+| 402 | 15 | Adam Stephanie Parker |
+| 403 | 15 | Esav Castro |
+| 404 | 15 | Richard Cranium |
+| 405 | 15 | Ziggy Csah |
+| 406 | 15 | Dizzy Glidebuilder |
+| 407 | 15 | Ody |
+| 408 | 15 | Christopher Wesley |
+| 409 | 15 | TexasLise |
+| 410 | 15 | Antoinette Rhinesmith |
+| 411 | 14 | beep |
+| 412 | 14 | James Martin |
+| 413 | 14 | Megan Treacy |
+| 414 | 14 | tay |
+| 415 | 14 | Katie Martin |
+| 416 | 14 | Bold Fallzone |
+| 417 | 14 | BingoStarr |
+| 418 | 14 | Trisha Gallagher |
+| 419 | 14 | Dace Zoltners |
+| 420 | 14 | Mel Fab |
+| 421 | 13 | Susan Marsh |
+| 422 | 13 | Danielle Kollias |
+| 423 | 13 | Kjnals Wall |
+| 424 | 13 | Jill Goff |
+| 425 | 13 | Elizabeth A Cobuccio |
+| 426 | 13 | Natasha Velasquez Gabriel |
+| 427 | 13 | Timothy Lott |
+| 428 | 13 | Dunlap Loretta |
+| 429 | 13 | Deandre Young |
+| 430 | 13 | pretty kitty |
+| 431 | 12 | Liz M Durfee |
+| 432 | 12 | Erin Hodges Plumb |
+| 433 | 12 | Rissa |
+| 434 | 12 | Ryan N. Mason |
+| 435 | 12 | James Burda |
+| 436 | 12 | Moe Thought |
+| 437 | 12 | e |
+| 438 | 12 | Leche |
 | 439 | 12 | Debra Reynolds |
-| 440 | 12 | Rissa |
+| 440 | 12 | Lush Dasher |
 | 441 | 12 | Jessica Goble |
 | 442 | 12 | OzzyFan4Life |
 | 443 | 12 | Rex Max |
