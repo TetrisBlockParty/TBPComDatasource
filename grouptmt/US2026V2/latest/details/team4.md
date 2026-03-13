@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-03-13 12:38:12 UTC
+# Standings for team4 as of 2026-03-13 12:38:34 UTC
 
 **Total Participants:** 137
 
@@ -15,33 +15,33 @@
 | 7 | 137 | Patricia White |
 | 8 | 130 | LaKisha Anderson |
 | 9 | 109 | Jessica Spencer |
-| 10 | 98 | Starymist |
-| 11 | 96 | Joseph L Johnson |
-| 12 | 84 | Scott Jackson |
-| 13 | 80 | Hunter Lynn |
-| 14 | 79 | Kortney Fiorucci |
-| 15 | 69 | Tipsy Tumbler |
-| 16 | 64 | Maria Angel Bedell-Face |
-| 17 | 60 | Swanky Linefit |
-| 18 | 60 | Madeline Pinton Keen |
+| 10 | 99 | Kimberly Rios |
+| 11 | 98 | Starymist |
+| 12 | 96 | Joseph L Johnson |
+| 13 | 84 | Scott Jackson |
+| 14 | 80 | Hunter Lynn |
+| 15 | 79 | Kortney Fiorucci |
+| 16 | 69 | Tipsy Tumbler |
+| 17 | 64 | Maria Angel Bedell-Face |
+| 18 | 60 | Swanky Linefit |
 | 19 | 60 | Sergio Torres |
-| 20 | 57 | MrsYesse Boss LadyBugatti |
-| 21 | 50 | Madison Wicks |
-| 22 | 48 | Monarca26 |
-| 23 | 45 | cookieesor |
-| 24 | 44 | Chris Prothro |
-| 25 | 42 | Kari M Enbody |
-| 26 | 41 | Kimberly Rios |
+| 20 | 60 | Madeline Pinton Keen |
+| 21 | 57 | MrsYesse Boss LadyBugatti |
+| 22 | 50 | Madison Wicks |
+| 23 | 48 | Monarca26 |
+| 24 | 45 | cookieesor |
+| 25 | 44 | Chris Prothro |
+| 26 | 42 | Kari M Enbody |
 | 27 | 40 | Jared Nadler |
-| 28 | 39 | Amanda Grace Agee |
-| 29 | 39 | Rain |
+| 28 | 39 | Rain |
+| 29 | 39 | Amanda Grace Agee |
 | 30 | 35 | Cedric Martinez |
 | 31 | 35 | Abby Garcia |
 | 32 | 34 | BigMan87 |
 | 33 | 33 | Ly Phethmany |
 | 34 | 31 | Holland Ashlee |
-| 35 | 30 | Katherine Maille |
-| 36 | 30 | Liseth Vasquez |
+| 35 | 30 | Liseth Vasquez |
+| 36 | 30 | Katherine Maille |
 | 37 | 30 | Perach Alima Shoa |
 | 38 | 30 | Tipsy Blocker |
 | 39 | 30 | Lakisha Odom |
@@ -51,46 +51,46 @@
 | 43 | 27 | Heather Finnefrock |
 | 44 | 25 | Giggy Riserfit |
 | 45 | 24 | Siara Brandon |
-| 46 | 23 | Nicole Rowley |
-| 47 | 23 | Diamond Applewhite |
+| 46 | 23 | Diamond Applewhite |
+| 47 | 23 | Nicole Rowley |
 | 48 | 22 | Devious |
-| 49 | 21 | Donna Caparimo |
-| 50 | 21 | Maryann Vac |
+| 49 | 21 | Maryann Vac |
+| 50 | 21 | Donna Caparimo |
 | 51 | 20 | Clever Link |
-| 52 | 20 | Lively Rollzone |
-| 53 | 20 | T1nka |
-| 54 | 20 | Albee Menina |
-| 55 | 20 | Poppy Faller |
+| 52 | 20 | T1nka |
+| 53 | 20 | Albee Menina |
+| 54 | 20 | Poppy Faller |
+| 55 | 20 | Lively Rollzone |
 | 56 | 20 | Julay |
-| 57 | 19 | Laura Loyd Parcher |
+| 57 | 19 | Chummy Zone |
 | 58 | 19 | POV7 |
-| 59 | 19 | Chummy Zone |
-| 60 | 17 | Twot |
+| 59 | 19 | Laura Loyd Parcher |
+| 60 | 17 | Destiny Elizabeth Seidle |
 | 61 | 17 | benjiwrld<3 |
 | 62 | 17 | Joy |
-| 63 | 17 | Destiny Elizabeth Seidle |
+| 63 | 17 | Twot |
 | 64 | 16 | JianXiang Jimmy Lee |
 | 65 | 16 | Alyssa Papen |
-| 66 | 15 | Jennjack |
+| 66 | 15 | Chuck Fobert |
 | 67 | 15 | Karrie Brand |
-| 68 | 15 | Silly Twist |
-| 69 | 15 | Chuck Fobert |
-| 70 | 15 | Ruth Persid |
-| 71 | 15 | Casey Cook |
-| 72 | 14 | Dreamy Riserpiece |
-| 73 | 14 | Blockhead |
-| 74 | 14 | Mimi |
-| 75 | 14 | Qoo |
+| 68 | 15 | Jennjack |
+| 69 | 15 | Silly Twist |
+| 70 | 15 | Casey Cook |
+| 71 | 15 | Ruth Persid |
+| 72 | 14 | Qoo |
+| 73 | 14 | Mimi |
+| 74 | 14 | Blockhead |
+| 75 | 14 | Dreamy Riserpiece |
 | 76 | 14 | Jessica Espinosa Olesh |
 | 77 | 13 | Anna Marie |
 | 78 | 13 | GeorgieMom |
-| 79 | 12 | Tdub |
-| 80 | 12 | Tae Younger Hannah |
+| 79 | 12 | Mrs. Funny |
+| 80 | 12 | Joy |
 | 81 | 12 | Kennth lesuer |
-| 82 | 12 | Mrs. Funny |
-| 83 | 12 | Clever Fitline |
-| 84 | 12 | Joy |
-| 85 | 12 | Smiley Slice |
+| 82 | 12 | Clever Fitline |
+| 83 | 12 | Tdub |
+| 84 | 12 | Smiley Slice |
+| 85 | 12 | Tae Younger Hannah |
 | 86 | 11 | Jose Rivera |
 | 87 | 11 | Marvette Fryar |
 | 88 | 10 | Jan Kane |

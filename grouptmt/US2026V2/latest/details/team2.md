@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-13 12:38:12 UTC
+# Standings for team2 as of 2026-03-13 12:38:34 UTC
 
 **Total Participants:** 61
 
@@ -9,7 +9,7 @@
 | 1 | 360 | Crafty Matchfit |
 | 2 | 300 | Cynthia Ward |
 | 3 | 189 | Justablock |
-| 4 | 102 | Pixie |
+| 4 | 109 | Pixie |
 | 5 | 80 | TETRIS |
 | 6 | 80 | Becky McClure |
 | 7 | 66 | Robert Martinez |

@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-13 12:38:12 UTC
+# Standings for team3 as of 2026-03-13 12:38:34 UTC
 
 **Total Participants:** 91
 
@@ -17,12 +17,12 @@
 | 9 | 101 | Jessica Bechler |
 | 10 | 99 | Jason Grasso |
 | 11 | 99 | Cranky Tiltbuilder |
-| 12 | 91 | Beth Naehrbass |
-| 13 | 82 | lilseasonz |
+| 12 | 93 | lilseasonz |
+| 13 | 91 | Beth Naehrbass |
 | 14 | 80 | Ron Gonzalez |
 | 15 | 67 | Kari Smith |
-| 16 | 60 | Dizzy Gridzone |
-| 17 | 58 | Ashley Ingram |
+| 16 | 64 | Ashley Ingram |
+| 17 | 60 | Dizzy Gridzone |
 | 18 | 45 | LaLa Anderson |
 | 19 | 44 | TamiJo |
 | 20 | 39 | COMFORT |
@@ -31,35 +31,35 @@
 | 23 | 35 | Sean Michaels |
 | 24 | 34 | Heather M Purcell |
 | 25 | 32 | Lillian Mehler |
-| 26 | 30 | Ty Quarles |
-| 27 | 30 | Kristine Roller |
-| 28 | 30 | Kate Farok |
+| 26 | 30 | Kate Farok |
+| 27 | 30 | Ty Quarles |
+| 28 | 30 | Kristine Roller |
 | 29 | 30 | Saucy Column |
-| 30 | 28 | Boo-Boo |
-| 31 | 26 | Laurie LeCroy |
-| 32 | 24 | Tievette Crum |
-| 33 | 24 | Miranda Krentz |
+| 30 | 30 | Miranda Krentz |
+| 31 | 28 | Boo-Boo |
+| 32 | 26 | Laurie LeCroy |
+| 33 | 24 | Tievette Crum |
 | 34 | 21 | Marco Martinez |
 | 35 | 21 | Tiffany Gamble |
 | 36 | 20 | Tessina Dewey-Mancino |
-| 37 | 20 | Aletha Williams |
-| 38 | 20 | Chirpy Matchbuilder |
-| 39 | 20 | Riley Roach |
-| 40 | 20 | Hope Lancaster Landry |
+| 37 | 20 | Hope Lancaster Landry |
+| 38 | 20 | Riley Roach |
+| 39 | 20 | Chirpy Matchbuilder |
+| 40 | 20 | Aletha Williams |
 | 41 | 18 | Amy Perry |
 | 42 | 17 | Zippy Cascadeclear |
 | 43 | 17 | Terry Hickman Fort |
 | 44 | 17 | Tyleah Longmire |
-| 45 | 17 | Marsha Starr |
-| 46 | 16 | Plucky Gridroll |
-| 47 | 15 | Cranky Brickzone |
-| 48 | 15 | DefaultUser |
+| 45 | 17 | Juliet Weathers |
+| 46 | 17 | Marsha Starr |
+| 47 | 16 | Plucky Gridroll |
+| 48 | 15 | Cranky Brickzone |
 | 49 | 15 | Emily B Johnson |
-| 50 | 15 | QUEENIE K |
-| 51 | 14 | Odysseus |
-| 52 | 14 | Sarah Berger |
-| 53 | 14 | FATHEAD |
-| 54 | 13 | Juliet Weathers |
+| 50 | 15 | DefaultUser |
+| 51 | 15 | QUEENIE K |
+| 52 | 14 | Odysseus |
+| 53 | 14 | Sarah Berger |
+| 54 | 14 | FATHEAD |
 | 55 | 13 | Desiree Watson |
 | 56 | 12 | Krista Blair |
 | 57 | 10 | Erin Murphy |
@@ -70,32 +70,32 @@
 | 62 | 10 | Slinky Roll |
 | 63 | 10 | Swanky Blockzone |
 | 64 | 10 | Kelsey Sullivan |
-| 65 | 10 | Candi |
-| 66 | 9 | April Shanahan |
-| 67 | 9 | Ron Laliberte |
-| 68 | 8 | Kens Guth |
-| 69 | 8 | reom |
-| 70 | 8 | Katherine Rivera |
-| 71 | 8 | Mikes Girl |
-| 72 | 7 | Robby Roberts |
-| 73 | 7 | Bougierock |
-| 74 | 7 | Elise Charlton |
-| 75 | 6 | Sir-Franchise Drake |
-| 76 | 6 | Vanesa Colon |
+| 65 | 10 | Vanesa Colon |
+| 66 | 10 | Candi |
+| 67 | 9 | April Shanahan |
+| 68 | 9 | Ron Laliberte |
+| 69 | 8 | Kens Guth |
+| 70 | 8 | reom |
+| 71 | 8 | Katherine Rivera |
+| 72 | 8 | Mikes Girl |
+| 73 | 7 | Robby Roberts |
+| 74 | 7 | Bougierock |
+| 75 | 7 | Elise Charlton |
+| 76 | 6 | Sir-Franchise Drake |
 | 77 | 6 | Adrienne Sprayberry |
 | 78 | 6 | Lazy Riserfit |
 | 79 | 6 | Spicy Stagger |
 | 80 | 6 | Dee Franklin |
 | 81 | 5 | Yup |
 | 82 | 5 | Spencer Nikki |
-| 83 | 5 | Michelle Andrea |
-| 84 | 5 | Dreamy Drop |
-| 85 | 5 | Mary |
-| 86 | 5 | Peachy Fall |
-| 87 | 5 | lady |
-| 88 | 5 | Loopy Fallzone |
-| 89 | 5 | Tam |
-| 90 | 5 | Paula Morrison |
+| 83 | 5 | Dreamy Drop |
+| 84 | 5 | Mary |
+| 85 | 5 | Peachy Fall |
+| 86 | 5 | lady |
+| 87 | 5 | Loopy Fallzone |
+| 88 | 5 | Tam |
+| 89 | 5 | Paula Morrison |
+| 90 | 5 | Michelle Andrea |
 | 91 | 5 | Carla Gleaves |
 
 ---

@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-03-13 12:38:12 UTC
+# Standings for team1 as of 2026-03-13 12:38:34 UTC
 
-**Total Participants:** 78
+**Total Participants:** 79
 
 ## Participant Scores
 
@@ -13,9 +13,9 @@
 | 5 | 160 | Tashanna Harvey |
 | 6 | 123 | Megan Klinkner |
 | 7 | 110 | Katherine Walton |
-| 8 | 81 | Pheezy |
-| 9 | 57 | Lori Dutton |
-| 10 | 56 | Hasbro Bros |
+| 8 | 96 | Hasbro Bros |
+| 9 | 81 | Pheezy |
+| 10 | 57 | Lori Dutton |
 | 11 | 54 | Giddy Cascade |
 | 12 | 48 | Jennifer Traywick |
 | 13 | 44 | Tanya Carpenter-Reynolds |
@@ -23,67 +23,68 @@
 | 15 | 40 | Jevon Griffith |
 | 16 | 40 | Christi Burley |
 | 17 | 39 | mbij21 |
-| 18 | 35 | Edna Clinton |
-| 19 | 34 | Karmyst |
-| 20 | 32 | Chummy Rollzone |
-| 21 | 30 | Goofy Linkblock |
+| 18 | 35 | Aponk |
+| 19 | 35 | Edna Clinton |
+| 20 | 34 | Karmyst |
+| 21 | 32 | Chummy Rollzone |
 | 22 | 30 | kito23 |
-| 23 | 28 | Itn |
-| 24 | 27 | Panda Rog |
-| 25 | 25 | Maxwell Hall |
-| 26 | 22 | Trishatta YoungDiva Watkins |
+| 23 | 30 | Goofy Linkblock |
+| 24 | 28 | Itn |
+| 25 | 27 | Panda Rog |
+| 26 | 25 | Maxwell Hall |
 | 27 | 22 | Giddy Swiper |
-| 28 | 21 | Amy Roche |
+| 28 | 22 | Trishatta YoungDiva Watkins |
 | 29 | 21 | Joyce Harrell-chavis |
-| 30 | 20 | Chris Kelly |
-| 31 | 20 | Aponk |
+| 30 | 21 | Amy Roche |
+| 31 | 20 | Chris Kelly |
 | 32 | 19 | Poppy Builderline |
-| 33 | 18 | raffyG |
-| 34 | 18 | Tig |
+| 33 | 18 | Tig |
+| 34 | 18 | Jacob Phillips |
 | 35 | 18 | Albert Josef Toves Means Jr. |
-| 36 | 18 | Jacob Phillips |
+| 36 | 18 | raffyG |
 | 37 | 17 | Lee Sipelii |
 | 38 | 17 | iceman |
-| 39 | 16 | Chilly Matchbuilder |
+| 39 | 16 | Tammy Straka |
 | 40 | 16 | Porkobello |
-| 41 | 16 | Tammy Straka |
-| 42 | 15 | Ellen Maxwell Capstaff |
-| 43 | 15 | Nikki Robinson |
-| 44 | 14 | Elyse YL |
-| 45 | 14 | Amber Nicole |
+| 41 | 16 | Chilly Matchbuilder |
+| 42 | 15 | Nikki Robinson |
+| 43 | 15 | Ellen Maxwell Capstaff |
+| 44 | 14 | Amber Nicole |
+| 45 | 14 | Elyse YL |
 | 46 | 14 | Ernest Jordan |
-| 47 | 12 | Big rick !!! |
-| 48 | 12 | James Burda |
-| 49 | 12 | Cool Dasher |
-| 50 | 12 | Alexandria Ritch |
-| 51 | 10 | Hecate Trimora |
-| 52 | 10 | Giles McNair |
-| 53 | 10 | Anne Garcia |
+| 47 | 12 | Cool Dasher |
+| 48 | 12 | Big rick !!! |
+| 49 | 12 | Alexandria Ritch |
+| 50 | 12 | James Burda |
+| 51 | 10 | Hyper Drop |
+| 52 | 10 | Shawna Days |
+| 53 | 10 | Giles McNair |
 | 54 | 10 | Boldy Clicky |
-| 55 | 10 | Shawna Days |
-| 56 | 10 | Hyper Drop |
-| 57 | 9 | Bob Sitts |
-| 58 | 9 | Jennifer Bunker |
-| 59 | 9 | bricked |
-| 60 | 8 | Walter Beltran |
-| 61 | 8 | Elizabeth Hughes |
-| 62 | 8 | Crafty Clearfit |
-| 63 | 8 | Epic Cascadeclear |
-| 64 | 8 | Natasha Velasquez Gabriel |
+| 55 | 10 | Anne Garcia |
+| 56 | 10 | Hecate Trimora |
+| 57 | 9 | bricked |
+| 58 | 9 | Bob Sitts |
+| 59 | 9 | Jennifer Bunker |
+| 60 | 9 | Quirky Dashy |
+| 61 | 8 | Crafty Clearfit |
+| 62 | 8 | Natasha Velasquez Gabriel |
+| 63 | 8 | Elizabeth Hughes |
+| 64 | 8 | Epic Cascadeclear |
 | 65 | 8 | al |
-| 66 | 7 | Herm Junior |
-| 67 | 7 | Michael Felker |
-| 68 | 7 | MrsW |
-| 69 | 6 | Randy Clevenger |
-| 70 | 6 | Tjango |
-| 71 | 6 | Liz M Durfee |
-| 72 | 6 | Poppy Lift |
-| 73 | 6 | Felise Bee |
-| 74 | 6 | Sunny Swiper |
-| 75 | 5 | freakyjoe |
-| 76 | 5 | Zach Thompson |
-| 77 | 5 | Flashy Clicker |
-| 78 | 5 | Samantha Bugg Stitcher |
+| 66 | 8 | Walter Beltran |
+| 67 | 7 | Herm Junior |
+| 68 | 7 | Michael Felker |
+| 69 | 7 | MrsW |
+| 70 | 6 | Randy Clevenger |
+| 71 | 6 | Tjango |
+| 72 | 6 | Liz M Durfee |
+| 73 | 6 | Poppy Lift |
+| 74 | 6 | Felise Bee |
+| 75 | 6 | Sunny Swiper |
+| 76 | 5 | freakyjoe |
+| 77 | 5 | Zach Thompson |
+| 78 | 5 | Flashy Clicker |
+| 79 | 5 | Samantha Bugg Stitcher |
 
 ---
 *Standings created by tournaments datasource generation tool*
