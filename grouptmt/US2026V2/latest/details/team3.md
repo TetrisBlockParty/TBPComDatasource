@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-13 12:40:11 UTC
+# Standings for team3 as of 2026-03-13 12:40:32 UTC
 
 **Total Participants:** 94
 
@@ -21,8 +21,8 @@
 | 13 | 91 | Beth Naehrbass |
 | 14 | 80 | Ron Gonzalez |
 | 15 | 67 | Kari Smith |
-| 16 | 64 | Ashley Ingram |
-| 17 | 64 | TamiJo |
+| 16 | 64 | TamiJo |
+| 17 | 64 | Ashley Ingram |
 | 18 | 60 | Dizzy Gridzone |
 | 19 | 50 | Sean Michaels |
 | 20 | 45 | LaLa Anderson |
@@ -31,75 +31,75 @@
 | 23 | 36 | Chet Manley |
 | 24 | 34 | Heather M Purcell |
 | 25 | 32 | Lillian Mehler |
-| 26 | 30 | Miranda Krentz |
-| 27 | 30 | Saucy Column |
-| 28 | 30 | Ty Quarles |
-| 29 | 30 | Kate Farok |
-| 30 | 30 | Kristine Roller |
+| 26 | 30 | Ty Quarles |
+| 27 | 30 | Kristine Roller |
+| 28 | 30 | Kate Farok |
+| 29 | 30 | Saucy Column |
+| 30 | 30 | Miranda Krentz |
 | 31 | 28 | Boo-Boo |
 | 32 | 26 | Laurie LeCroy |
 | 33 | 24 | Tievette Crum |
 | 34 | 21 | Tiffany Gamble |
 | 35 | 21 | Marco Martinez |
-| 36 | 20 | Chirpy Matchbuilder |
-| 37 | 20 | Aletha Williams |
-| 38 | 20 | Riley Roach |
-| 39 | 20 | Tessina Dewey-Mancino |
+| 36 | 20 | Riley Roach |
+| 37 | 20 | Chirpy Matchbuilder |
+| 38 | 20 | Tessina Dewey-Mancino |
+| 39 | 20 | Aletha Williams |
 | 40 | 20 | Hope Lancaster Landry |
 | 41 | 18 | Amy Perry |
-| 42 | 17 | Terry Hickman Fort |
-| 43 | 17 | Juliet Weathers |
-| 44 | 17 | Zippy Cascadeclear |
-| 45 | 17 | Marsha Starr |
-| 46 | 17 | Tyleah Longmire |
-| 47 | 16 | Slinky Roll |
+| 42 | 18 | Kelsey Sullivan |
+| 43 | 17 | Marsha Starr |
+| 44 | 17 | Juliet Weathers |
+| 45 | 17 | Terry Hickman Fort |
+| 46 | 17 | Zippy Cascadeclear |
+| 47 | 17 | Tyleah Longmire |
 | 48 | 16 | Plucky Gridroll |
-| 49 | 15 | Carla Gleaves |
+| 49 | 16 | Slinky Roll |
 | 50 | 15 | DefaultUser |
 | 51 | 15 | Emily B Johnson |
-| 52 | 15 | Cranky Brickzone |
+| 52 | 15 | Carla Gleaves |
 | 53 | 15 | QUEENIE K |
-| 54 | 14 | Lisa Lisa |
-| 55 | 14 | Sarah Berger |
-| 56 | 14 | Odysseus |
+| 54 | 15 | Cranky Brickzone |
+| 55 | 14 | Odysseus |
+| 56 | 14 | Lisa Lisa |
 | 57 | 14 | FATHEAD |
-| 58 | 13 | Desiree Watson |
-| 59 | 12 | Missy Pierce |
-| 60 | 12 | Krista Blair |
-| 61 | 10 | Candi |
-| 62 | 10 | Kimberly Walker |
-| 63 | 10 | Sonia Flammond |
+| 58 | 14 | Sarah Berger |
+| 59 | 13 | Desiree Watson |
+| 60 | 12 | Missy Pierce |
+| 61 | 12 | Krista Blair |
+| 62 | 10 | Swanky Blockzone |
+| 63 | 10 | Kimberly Walker |
 | 64 | 10 | Jumpy Pivot |
-| 65 | 10 | Kelsey Sullivan |
-| 66 | 10 | Vanesa Colon |
-| 67 | 10 | Harlequinn N Glover |
-| 68 | 10 | Swanky Blockzone |
-| 69 | 10 | Erin Murphy |
-| 70 | 9 | April Shanahan |
-| 71 | 9 | Ron Laliberte |
-| 72 | 8 | Kens Guth |
-| 73 | 8 | reom |
-| 74 | 8 | Katherine Rivera |
-| 75 | 8 | Mikes Girl |
-| 76 | 7 | Elise Charlton |
-| 77 | 7 | Robby Roberts |
+| 65 | 10 | Harlequinn N Glover |
+| 66 | 10 | Erin Murphy |
+| 67 | 10 | Vanesa Colon |
+| 68 | 10 | Candi |
+| 69 | 10 | Sonia Flammond |
+| 70 | 9 | Ron Laliberte |
+| 71 | 9 | April Shanahan |
+| 72 | 8 | Katherine Rivera |
+| 73 | 8 | Kens Guth |
+| 74 | 8 | Mikes Girl |
+| 75 | 8 | reom |
+| 76 | 7 | Robby Roberts |
+| 77 | 7 | Elise Charlton |
 | 78 | 7 | Bougierock |
-| 79 | 6 | Spicy Stagger |
+| 79 | 6 | Twisty Blockpiece |
 | 80 | 6 | Adrienne Sprayberry |
-| 81 | 6 | Twisty Blockpiece |
-| 82 | 6 | Dee Franklin |
-| 83 | 6 | Lazy Riserfit |
-| 84 | 6 | Sir-Franchise Drake |
-| 85 | 5 | Peachy Fall |
-| 86 | 5 | Dreamy Drop |
-| 87 | 5 | Mary |
-| 88 | 5 | Yup |
-| 89 | 5 | Paula Morrison |
-| 90 | 5 | Spencer Nikki |
-| 91 | 5 | Michelle Andrea |
-| 92 | 5 | Tam |
-| 93 | 5 | Loopy Fallzone |
-| 94 | 5 | lady |
+| 81 | 6 | Lazy Riserfit |
+| 82 | 6 | Sir-Franchise Drake |
+| 83 | 6 | Dee Franklin |
+| 84 | 6 | Spicy Stagger |
+| 85 | 5 | Yup |
+| 86 | 5 | Peachy Fall |
+| 87 | 5 | Paula Morrison |
+| 88 | 5 | Spencer Nikki |
+| 89 | 5 | Michelle Andrea |
+| 90 | 5 | Dreamy Drop |
+| 91 | 5 | Tam |
+| 92 | 5 | Loopy Fallzone |
+| 93 | 5 | lady |
+| 94 | 5 | Mary |
 
 ---
 *Standings created by tournaments datasource generation tool*
