@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-13 14:42:33 UTC
+# Standings for team2 as of 2026-03-13 14:43:11 UTC
 
 **Total Participants:** 241
 
@@ -67,9 +67,9 @@
 | 59 | 38 | jardo |
 | 60 | 37 | Elizabeth Ostrom |
 | 61 | 37 | Amy Villalpando |
-| 62 | 36 | Jasmine Kenney |
-| 63 | 36 | Peachy Matchgrid |
-| 64 | 36 | Libby |
+| 62 | 36 | Libby |
+| 63 | 36 | Jasmine Kenney |
+| 64 | 36 | Peachy Matchgrid |
 | 65 | 35 | Bow Babe |
 | 66 | 35 | Snippy Basepiece |
 | 67 | 35 | Jami Howard |
@@ -77,78 +77,78 @@
 | 69 | 33 | JoJo |
 | 70 | 32 | Lavella Tburg |
 | 71 | 31 | Arv |
-| 72 | 30 | Julia Freeman |
-| 73 | 30 | Jazzy Piecebuilder |
-| 74 | 30 | Beth Smith |
-| 75 | 30 | Jake Ching |
-| 76 | 30 | Scott Siple |
+| 72 | 30 | Connie Mohler-Fair |
+| 73 | 30 | Scott Siple |
+| 74 | 30 | Jazzy Piecebuilder |
+| 75 | 30 | Julia Freeman |
+| 76 | 30 | Beth Smith |
 | 77 | 30 | Brooke Sunderhaus |
-| 78 | 29 | Elizabeth Crowder Pelton |
-| 79 | 29 | Kiorah Blaze |
-| 80 | 29 | Chassy Horton |
-| 81 | 28 | funhon2829 |
-| 82 | 28 | Abby Jensen |
-| 83 | 28 | Tori Bowers |
-| 84 | 28 | Lindsey Anderson |
+| 78 | 30 | Jake Ching |
+| 79 | 30 | funhon2829 |
+| 80 | 29 | Kiorah Blaze |
+| 81 | 29 | Elizabeth Crowder Pelton |
+| 82 | 29 | Chassy Horton |
+| 83 | 28 | Lindsey Anderson |
+| 84 | 28 | Abby Jensen |
 | 85 | 28 | Jennifer Galadik |
-| 86 | 27 | Adam Charles |
-| 87 | 27 | Chirpy Grabber |
-| 88 | 26 | lovethedana |
+| 86 | 28 | Tori Bowers |
+| 87 | 27 | Adam Charles |
+| 88 | 27 | Chirpy Grabber |
 | 89 | 26 | Starr |
-| 90 | 26 | Marie Elena |
-| 91 | 26 | Brave Tilebuilder |
-| 92 | 25 | Paul Hudak |
-| 93 | 25 | Guillaume Clermont |
-| 94 | 25 | Connie Mohler-Fair |
+| 90 | 26 | lovethedana |
+| 91 | 26 | Marie Elena |
+| 92 | 26 | Brave Tilebuilder |
+| 93 | 25 | Angel Hunnewell |
+| 94 | 25 | Melody Santiago |
 | 95 | 25 | Mackenzie Forrester |
-| 96 | 25 | Melody Santiago |
-| 97 | 25 | Angel Hunnewell |
-| 98 | 24 | Kell Cinn |
-| 99 | 24 | Elizabeth Smith |
-| 100 | 24 | Mandy |
-| 101 | 24 | Kimmie Zimmerman-Rocha |
-| 102 | 24 | Jason Briggs |
-| 103 | 24 | Bleu Grubb |
-| 104 | 24 | Prette Qui |
-| 105 | 24 | Zany Jumper |
-| 106 | 24 | Jazmin Santos |
-| 107 | 23 | Sha45 |
-| 108 | 23 | Nerdy Clearer |
-| 109 | 22 | Kevin Stultz |
-| 110 | 22 | Hyper Snap |
+| 96 | 25 | Guillaume Clermont |
+| 97 | 25 | Paul Hudak |
+| 98 | 24 | Jazmin Santos |
+| 99 | 24 | Zany Jumper |
+| 100 | 24 | Prette Qui |
+| 101 | 24 | Bleu Grubb |
+| 102 | 24 | Kimmie Zimmerman-Rocha |
+| 103 | 24 | Mandy |
+| 104 | 24 | Elizabeth Smith |
+| 105 | 24 | Kell Cinn |
+| 106 | 24 | Jason Briggs |
+| 107 | 23 | Nerdy Clearer |
+| 108 | 23 | Sha45 |
+| 109 | 22 | Hyper Snap |
+| 110 | 22 | Kevin Stultz |
 | 111 | 22 | LeNae TwoBarbie McEachin |
 | 112 | 22 | Star Hart |
 | 113 | 21 | Bryanna Whitman |
-| 114 | 20 | Giggly Shiftsnap |
-| 115 | 20 | Andrew Bowen |
-| 116 | 20 | bschilke128 |
-| 117 | 20 | Wacky Columnbuilder |
-| 118 | 20 | Shelly Marie Lloyd |
-| 119 | 20 | Danielle Smith |
-| 120 | 20 | Paul Beeman |
-| 121 | 20 | Unicorn |
-| 122 | 20 | Roberta Nelson |
+| 114 | 20 | Unicorn |
+| 115 | 20 | bschilke128 |
+| 116 | 20 | Andrew Bowen |
+| 117 | 20 | Giggly Shiftsnap |
+| 118 | 20 | Goofy Linkmatch |
+| 119 | 20 | Wacky Columnbuilder |
+| 120 | 20 | Roberta Nelson |
+| 121 | 20 | Shelly Marie Lloyd |
+| 122 | 20 | Tipsy Riseclear |
 | 123 | 20 | Jesse Olive |
-| 124 | 20 | Tipsy Riseclear |
-| 125 | 20 | Goofy Linkmatch |
-| 126 | 19 | Lush Linkgrid |
-| 127 | 19 | Raven Smith |
-| 128 | 19 | Zak Dunn |
-| 129 | 19 | Lindsay Lucas |
+| 124 | 20 | Danielle Smith |
+| 125 | 20 | Paul Beeman |
+| 126 | 19 | Zak Dunn |
+| 127 | 19 | Lush Linkgrid |
+| 128 | 19 | Lindsay Lucas |
+| 129 | 19 | Raven Smith |
 | 130 | 19 | Kacee Conrad Bock |
-| 131 | 18 | Shelly Babie |
-| 132 | 18 | Reginald Harvey |
-| 133 | 17 | Shelly |
-| 134 | 17 | Tya Ortiz |
+| 131 | 18 | Reginald Harvey |
+| 132 | 18 | Shelly Babie |
+| 133 | 17 | Tya Ortiz |
+| 134 | 17 | Shelly |
 | 135 | 17 | Ryan LaCasse |
 | 136 | 17 | Deb Wasano |
 | 137 | 17 | Terry Partain |
 | 138 | 17 | Nikki Speer |
-| 139 | 16 | TJ Hire |
+| 139 | 16 | Emily Price |
 | 140 | 16 | Daring Rotator |
 | 141 | 16 | Emilie Creswell |
 | 142 | 16 | Cheeky Grabber |
-| 143 | 16 | Emily Price |
+| 143 | 16 | TJ Hire |
 | 144 | 15 | Cathy Bitters |
 | 145 | 15 | D3TROITB0RN74 |
 | 146 | 15 | Deborah Potts |
@@ -232,7 +232,7 @@
 | 224 | 6 | GoddessCandy |
 | 225 | 6 | Lazy Gridroll |
 | 226 | 6 | Abimbola Bimbo |
-| 227 | 5 | Cool Snapzone |
+| 227 | 5 | Kevin Leary |
 | 228 | 5 | Goofy Basegrid |
 | 229 | 5 | Bouncy Swiper |
 | 230 | 5 | Somthin |
@@ -241,12 +241,12 @@
 | 233 | 5 | Sheena Hachmann |
 | 234 | 5 | Lora |
 | 235 | 5 | Leslie Nicole |
-| 236 | 5 | Shannon Grisson |
-| 237 | 5 | Jaz Sky |
-| 238 | 5 | Tiffany Riccio |
-| 239 | 5 | Anita Johnson |
+| 236 | 5 | Jaz Sky |
+| 237 | 5 | Tiffany Riccio |
+| 238 | 5 | Anita Johnson |
+| 239 | 5 | Cool Snapzone |
 | 240 | 5 | Susan L. Brown |
-| 241 | 5 | Kevin Leary |
+| 241 | 5 | Shannon Grisson |
 
 ---
 *Standings created by tournaments datasource generation tool*
