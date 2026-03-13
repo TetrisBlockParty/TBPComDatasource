@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 14:52:13 UTC
+# Standings for team1 as of 2026-03-13 14:52:34 UTC
 
 **Total Participants:** 250
 
@@ -246,16 +246,16 @@
 | 238 | 5 | Flashy Clicker |
 | 239 | 5 | Samantha Bugg Stitcher |
 | 240 | 5 | Cynthia Herrmann Egland |
-| 241 | 5 | Slinky Dashgrid |
-| 242 | 5 | Armoni |
-| 243 | 5 | Terry Dill |
-| 244 | 5 | freakyjoe |
-| 245 | 5 | Sarajo Clauson |
-| 246 | 5 | Ras David |
-| 247 | 5 | MissySai TooRude Ladson |
-| 248 | 5 | Perky Clusterbuilder |
-| 249 | 5 | Victoria Montenegro Martinez |
-| 250 | 5 | Armin Muhamed |
+| 241 | 5 | Armoni |
+| 242 | 5 | Terry Dill |
+| 243 | 5 | freakyjoe |
+| 244 | 5 | Sarajo Clauson |
+| 245 | 5 | Ras David |
+| 246 | 5 | MissySai TooRude Ladson |
+| 247 | 5 | Perky Clusterbuilder |
+| 248 | 5 | Victoria Montenegro Martinez |
+| 249 | 5 | Armin Muhamed |
+| 250 | 5 | Slinky Dashgrid |
 
 ---
 *Standings created by tournaments datasource generation tool*
