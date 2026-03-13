@@ -1,6 +1,6 @@
-# Standings for team3 as of 2026-03-13 12:11:10 UTC
+# Standings for team3 as of 2026-03-13 12:12:11 UTC
 
-**Total Participants:** 27
+**Total Participants:** 34
 
 ## Participant Scores
 
@@ -8,31 +8,38 @@
 | :- | :- | :- |
 | 1 | 84 | Alisha |
 | 2 | 78 | Britney Lynch Caylor |
-| 3 | 30 | Kristine Roller |
+| 3 | 30 | Ty Quarles |
 | 4 | 30 | TriKaraTops |
-| 5 | 29 | TamiJo |
-| 6 | 21 | Tiffany Gamble |
-| 7 | 19 | Spunky Holder |
-| 8 | 19 | Beewee |
-| 9 | 18 | Amy Perry |
-| 10 | 17 | Zippy Cascadeclear |
-| 11 | 16 | Plucky Gridroll |
-| 12 | 15 | DefaultUser |
-| 13 | 15 | Emily B Johnson |
-| 14 | 14 | Odysseus |
-| 15 | 10 | Candi |
-| 16 | 10 | Kari Smith |
-| 17 | 10 | Jason Grasso |
-| 18 | 9 | Ashley Ingram |
-| 19 | 9 | Juliet Weathers |
-| 20 | 8 | Laurie LeCroy |
-| 21 | 6 | Sir-Franchise Drake |
-| 22 | 6 | Dee Franklin |
-| 23 | 6 | Jumpy Pivot |
-| 24 | 6 | Lazy Riserfit |
-| 25 | 5 | Mary |
-| 26 | 5 | Dreamy Drop |
-| 27 | 5 | Spencer Nikki |
+| 5 | 30 | Kristine Roller |
+| 6 | 29 | TamiJo |
+| 7 | 26 | Spunky Holder |
+| 8 | 21 | Tiffany Gamble |
+| 9 | 20 | Aletha Williams |
+| 10 | 19 | Beewee |
+| 11 | 18 | Amy Perry |
+| 12 | 17 | Zippy Cascadeclear |
+| 13 | 16 | Plucky Gridroll |
+| 14 | 15 | DefaultUser |
+| 15 | 15 | Emily B Johnson |
+| 16 | 14 | Sarah Berger |
+| 17 | 14 | Odysseus |
+| 18 | 11 | Juliet Weathers |
+| 19 | 10 | Jason Grasso |
+| 20 | 10 | Candi |
+| 21 | 10 | Kari Smith |
+| 22 | 9 | Ashley Ingram |
+| 23 | 8 | Laurie LeCroy |
+| 24 | 6 | Saucy Column |
+| 25 | 6 | Dee Franklin |
+| 26 | 6 | Sir-Franchise Drake |
+| 27 | 6 | Lazy Riserfit |
+| 28 | 6 | Jumpy Pivot |
+| 29 | 5 | Peachy Fall |
+| 30 | 5 | Tam |
+| 31 | 5 | Ron Laliberte |
+| 32 | 5 | Spencer Nikki |
+| 33 | 5 | Mary |
+| 34 | 5 | Dreamy Drop |
 
 ---
 *Standings created by tournaments datasource generation tool*

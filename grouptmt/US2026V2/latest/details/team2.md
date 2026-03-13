@@ -1,29 +1,33 @@
-# Standings for team2 as of 2026-03-13 12:11:10 UTC
+# Standings for team2 as of 2026-03-13 12:12:11 UTC
 
-**Total Participants:** 18
+**Total Participants:** 22
 
 ## Participant Scores
 
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 80 | Becky McClure |
-| 2 | 33 | Pixie |
-| 3 | 29 | Chyrisse Norton |
-| 4 | 28 | Lindsey Anderson |
+| 2 | 52 | Crafty Matchfit |
+| 3 | 33 | Pixie |
+| 4 | 29 | Chyrisse Norton |
 | 5 | 28 | Tori Bowers |
-| 6 | 18 | Sha45 |
-| 7 | 16 | Emilie Creswell |
-| 8 | 15 | Starr |
-| 9 | 15 | Kell Cinn |
-| 10 | 15 | Crafty Matchfit |
-| 11 | 14 | Kitty tet |
-| 12 | 12 | Hyper Pop |
-| 13 | 9 | Jason Pence |
-| 14 | 8 | Daniel Moore |
-| 15 | 8 | Arisvet Garcia |
-| 16 | 6 | Shiny Framezone |
-| 17 | 6 | Lauressia MsLovaba Neil |
-| 18 | 5 | Melody Santiago |
+| 6 | 28 | Lindsey Anderson |
+| 7 | 18 | Kell Cinn |
+| 8 | 18 | Sha45 |
+| 9 | 16 | Emilie Creswell |
+| 10 | 16 | Mackenzie Forrester |
+| 11 | 15 | Starr |
+| 12 | 14 | Kitty tet |
+| 13 | 12 | Hyper Pop |
+| 14 | 12 | Chloe S |
+| 15 | 9 | Daniel Moore |
+| 16 | 9 | Jason Pence |
+| 17 | 8 | Arisvet Garcia |
+| 18 | 7 | Daring Rotator |
+| 19 | 6 | Shiny Framezone |
+| 20 | 6 | Lauressia MsLovaba Neil |
+| 21 | 5 | Melody Santiago |
+| 22 | 5 | Abigail Stratton |
 
 ---
 *Standings created by tournaments datasource generation tool*

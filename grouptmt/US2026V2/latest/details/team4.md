@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-03-13 12:11:10 UTC
+# Standings for team4 as of 2026-03-13 12:12:11 UTC
 
-**Total Participants:** 25
+**Total Participants:** 28
 
 ## Participant Scores
 
@@ -14,23 +14,26 @@
 | 6 | 35 | Joseph L Johnson |
 | 7 | 30 | Abby Garcia |
 | 8 | 20 | LaKisha Anderson |
-| 9 | 19 | Rain |
-| 10 | 15 | Albee Menina |
+| 9 | 20 | Albee Menina |
+| 10 | 19 | Rain |
 | 11 | 13 | Jared Nadler |
 | 12 | 12 | Dreamy Riserpiece |
 | 13 | 12 | Joy |
-| 14 | 10 | Patricia White |
+| 14 | 11 | Alyssa Papen |
 | 15 | 10 | Chipper Tiler |
-| 16 | 10 | Ly Phethmany |
-| 17 | 10 | Clever Fitline |
-| 18 | 9 | Liseth Vasquez |
+| 16 | 10 | Clever Fitline |
+| 17 | 10 | Patricia White |
+| 18 | 10 | Ly Phethmany |
 | 19 | 9 | Cool Fitzone |
-| 20 | 9 | Blockhead |
+| 20 | 9 | Liseth Vasquez |
 | 21 | 9 | Tracey Ann Johnson |
-| 22 | 6 | Alyssa Papen |
-| 23 | 5 | Erin Sabol |
-| 24 | 5 | Jason Dickens |
-| 25 | 5 | Ron Shaffer |
+| 22 | 9 | Blockhead |
+| 23 | 8 | Mimi |
+| 24 | 6 | Scott Jackson |
+| 25 | 5 | Erin Sabol |
+| 26 | 5 | Jason Dickens |
+| 27 | 5 | POV7 |
+| 28 | 5 | Ron Shaffer |
 
 ---
 *Standings created by tournaments datasource generation tool*
