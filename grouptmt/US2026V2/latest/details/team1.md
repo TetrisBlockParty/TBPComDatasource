@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-03-13 12:37:12 UTC
+# Standings for team1 as of 2026-03-13 12:38:12 UTC
 
-**Total Participants:** 77
+**Total Participants:** 78
 
 ## Participant Scores
 
@@ -14,9 +14,9 @@
 | 6 | 123 | Megan Klinkner |
 | 7 | 110 | Katherine Walton |
 | 8 | 81 | Pheezy |
-| 9 | 56 | Hasbro Bros |
-| 10 | 54 | Giddy Cascade |
-| 11 | 52 | Lori Dutton |
+| 9 | 57 | Lori Dutton |
+| 10 | 56 | Hasbro Bros |
+| 11 | 54 | Giddy Cascade |
 | 12 | 48 | Jennifer Traywick |
 | 13 | 44 | Tanya Carpenter-Reynolds |
 | 14 | 41 | Dale |
@@ -31,58 +31,59 @@
 | 23 | 28 | Itn |
 | 24 | 27 | Panda Rog |
 | 25 | 25 | Maxwell Hall |
-| 26 | 22 | Giddy Swiper |
-| 27 | 22 | Trishatta YoungDiva Watkins |
-| 28 | 21 | Joyce Harrell-chavis |
-| 29 | 21 | Amy Roche |
+| 26 | 22 | Trishatta YoungDiva Watkins |
+| 27 | 22 | Giddy Swiper |
+| 28 | 21 | Amy Roche |
+| 29 | 21 | Joyce Harrell-chavis |
 | 30 | 20 | Chris Kelly |
 | 31 | 20 | Aponk |
 | 32 | 19 | Poppy Builderline |
-| 33 | 18 | Tig |
-| 34 | 18 | raffyG |
-| 35 | 18 | Jacob Phillips |
-| 36 | 17 | Lee Sipelii |
-| 37 | 17 | iceman |
-| 38 | 16 | Porkobello |
+| 33 | 18 | raffyG |
+| 34 | 18 | Tig |
+| 35 | 18 | Albert Josef Toves Means Jr. |
+| 36 | 18 | Jacob Phillips |
+| 37 | 17 | Lee Sipelii |
+| 38 | 17 | iceman |
 | 39 | 16 | Chilly Matchbuilder |
-| 40 | 16 | Tammy Straka |
-| 41 | 15 | Nikki Robinson |
-| 42 | 15 | Albert Josef Toves Means Jr. |
-| 43 | 15 | Ellen Maxwell Capstaff |
-| 44 | 14 | Amber Nicole |
-| 45 | 14 | Elyse YL |
+| 40 | 16 | Porkobello |
+| 41 | 16 | Tammy Straka |
+| 42 | 15 | Ellen Maxwell Capstaff |
+| 43 | 15 | Nikki Robinson |
+| 44 | 14 | Elyse YL |
+| 45 | 14 | Amber Nicole |
 | 46 | 14 | Ernest Jordan |
-| 47 | 12 | Alexandria Ritch |
-| 48 | 12 | Cool Dasher |
-| 49 | 12 | Big rick !!! |
-| 50 | 12 | James Burda |
-| 51 | 10 | Shawna Days |
+| 47 | 12 | Big rick !!! |
+| 48 | 12 | James Burda |
+| 49 | 12 | Cool Dasher |
+| 50 | 12 | Alexandria Ritch |
+| 51 | 10 | Hecate Trimora |
 | 52 | 10 | Giles McNair |
-| 53 | 10 | Boldy Clicky |
-| 54 | 10 | Hyper Drop |
-| 55 | 10 | Anne Garcia |
-| 56 | 10 | Hecate Trimora |
+| 53 | 10 | Anne Garcia |
+| 54 | 10 | Boldy Clicky |
+| 55 | 10 | Shawna Days |
+| 56 | 10 | Hyper Drop |
 | 57 | 9 | Bob Sitts |
 | 58 | 9 | Jennifer Bunker |
-| 59 | 8 | Elizabeth Hughes |
-| 60 | 8 | Crafty Clearfit |
-| 61 | 8 | Epic Cascadeclear |
-| 62 | 8 | al |
-| 63 | 8 | Walter Beltran |
+| 59 | 9 | bricked |
+| 60 | 8 | Walter Beltran |
+| 61 | 8 | Elizabeth Hughes |
+| 62 | 8 | Crafty Clearfit |
+| 63 | 8 | Epic Cascadeclear |
 | 64 | 8 | Natasha Velasquez Gabriel |
-| 65 | 7 | Herm Junior |
-| 66 | 7 | Michael Felker |
-| 67 | 7 | MrsW |
-| 68 | 6 | Randy Clevenger |
-| 69 | 6 | Tjango |
-| 70 | 6 | Liz M Durfee |
-| 71 | 6 | Poppy Lift |
-| 72 | 6 | Felise Bee |
-| 73 | 6 | Sunny Swiper |
-| 74 | 5 | freakyjoe |
-| 75 | 5 | Zach Thompson |
-| 76 | 5 | Flashy Clicker |
-| 77 | 5 | Samantha Bugg Stitcher |
+| 65 | 8 | al |
+| 66 | 7 | Herm Junior |
+| 67 | 7 | Michael Felker |
+| 68 | 7 | MrsW |
+| 69 | 6 | Randy Clevenger |
+| 70 | 6 | Tjango |
+| 71 | 6 | Liz M Durfee |
+| 72 | 6 | Poppy Lift |
+| 73 | 6 | Felise Bee |
+| 74 | 6 | Sunny Swiper |
+| 75 | 5 | freakyjoe |
+| 76 | 5 | Zach Thompson |
+| 77 | 5 | Flashy Clicker |
+| 78 | 5 | Samantha Bugg Stitcher |
 
 ---
 *Standings created by tournaments datasource generation tool*
