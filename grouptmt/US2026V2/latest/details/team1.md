@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-03-13 12:58:32 UTC
+# Standings for team1 as of 2026-03-13 12:59:11 UTC
 
-**Total Participants:** 111
+**Total Participants:** 112
 
 ## Participant Scores
 
@@ -35,88 +35,89 @@
 | 27 | 35 | Edna Clinton |
 | 28 | 34 | Marie Helman |
 | 29 | 33 | Tammy Straka |
-| 30 | 32 | iceman |
-| 31 | 32 | Tig |
+| 30 | 32 | Tig |
+| 31 | 32 | iceman |
 | 32 | 32 | Trishatta YoungDiva Watkins |
 | 33 | 32 | Chummy Rollzone |
 | 34 | 32 | Goofy Linkblock |
-| 35 | 30 | Chris Kelly |
-| 36 | 30 | kito23 |
-| 37 | 30 | raffyG |
-| 38 | 29 | Albert Josef Toves Means Jr. |
-| 39 | 29 | Joyce Harrell-chavis |
-| 40 | 28 | Michael Powers |
-| 41 | 28 | Maxwell Hall |
-| 42 | 27 | Bean |
-| 43 | 27 | Panda Rog |
-| 44 | 26 | Bold Zonegrid |
-| 45 | 26 | Bubbly Patterner |
-| 46 | 22 | Giddy Swiper |
-| 47 | 20 | Mean Melly |
-| 48 | 20 | Kindra Sinclair |
+| 35 | 30 | raffyG |
+| 36 | 30 | Chris Kelly |
+| 37 | 30 | kito23 |
+| 38 | 29 | Joyce Harrell-chavis |
+| 39 | 29 | Albert Josef Toves Means Jr. |
+| 40 | 28 | Maxwell Hall |
+| 41 | 28 | Michael Powers |
+| 42 | 27 | Panda Rog |
+| 43 | 27 | Bean |
+| 44 | 26 | Bubbly Patterner |
+| 45 | 26 | Bold Zonegrid |
+| 46 | 25 | Teresa Wolf |
+| 47 | 22 | Giddy Swiper |
+| 48 | 20 | Mean Melly |
 | 49 | 20 | @n@luvmakin |
-| 50 | 18 | Ryry |
+| 50 | 20 | Kindra Sinclair |
 | 51 | 18 | Jacob Phillips |
-| 52 | 17 | Lee Sipelii |
-| 53 | 16 | Anne Garcia |
-| 54 | 16 | Sam Steig |
-| 55 | 16 | Porkobello |
-| 56 | 16 | Chilly Matchbuilder |
-| 57 | 15 | Nikki Robinson |
-| 58 | 15 | Ellen Maxwell Capstaff |
-| 59 | 15 | Teresa Wolf |
-| 60 | 14 | Amber Nicole |
+| 52 | 18 | Ryry |
+| 53 | 17 | Lee Sipelii |
+| 54 | 16 | Anne Garcia |
+| 55 | 16 | Chilly Matchbuilder |
+| 56 | 16 | Sam Steig |
+| 57 | 16 | Porkobello |
+| 58 | 15 | Nikki Robinson |
+| 59 | 15 | Ellen Maxwell Capstaff |
+| 60 | 14 | Beth Anderson |
 | 61 | 14 | Elyse YL |
-| 62 | 14 | Ernest Jordan |
-| 63 | 14 | Beth Anderson |
+| 62 | 14 | Amber Nicole |
+| 63 | 14 | Ernest Jordan |
 | 64 | 14 | Tim Raper |
 | 65 | 13 | Natasha Velasquez Gabriel |
-| 66 | 12 | James Burda |
-| 67 | 12 | Alexandria Ritch |
-| 68 | 12 | Big rick !!! |
-| 69 | 12 | ssr |
+| 66 | 12 | Alexandria Ritch |
+| 67 | 12 | James Burda |
+| 68 | 12 | Cool Dasher |
+| 69 | 12 | Big rick !!! |
 | 70 | 12 | Walter Beltran |
-| 71 | 12 | Cool Dasher |
+| 71 | 12 | ssr |
 | 72 | 11 | Boldy Clicky |
-| 73 | 10 | Shawna Days |
-| 74 | 10 | Giles McNair |
-| 75 | 10 | Hecate Trimora |
-| 76 | 10 | Hyper Drop |
-| 77 | 9 | Zach Thompson |
+| 73 | 10 | Hyper Drop |
+| 74 | 10 | Shawna Days |
+| 75 | 10 | Giles McNair |
+| 76 | 10 | Hecate Trimora |
+| 77 | 9 | Quirky Dashy |
 | 78 | 9 | bricked |
-| 79 | 9 | Bob Sitts |
-| 80 | 9 | Quirky Dashy |
-| 81 | 9 | Jennifer Bunker |
-| 82 | 8 | Jessica Marie Long |
+| 79 | 9 | Zach Thompson |
+| 80 | 9 | Jennifer Bunker |
+| 81 | 9 | Bob Sitts |
+| 82 | 9 | Suzan Frazier |
 | 83 | 8 | Epic Cascadeclear |
-| 84 | 8 | Oscar Ferguson |
-| 85 | 8 | Elizabeth Hughes |
-| 86 | 8 | Crafty Clearfit |
-| 87 | 8 | Kat Kath |
-| 88 | 8 | al |
-| 89 | 8 | Felise Bee |
-| 90 | 8 | Bingo Wingo |
-| 91 | 7 | Herm Junior |
-| 92 | 7 | Jennifer Kime |
-| 93 | 7 | MrsW |
-| 94 | 7 | Michael Felker |
-| 95 | 6 | Liz M Durfee |
-| 96 | 6 | Poppy Lift |
+| 84 | 8 | Kat Kath |
+| 85 | 8 | Bingo Wingo |
+| 86 | 8 | Jessica Marie Long |
+| 87 | 8 | Oscar Ferguson |
+| 88 | 8 | Elizabeth Hughes |
+| 89 | 8 | Crafty Clearfit |
+| 90 | 8 | Felise Bee |
+| 91 | 8 | al |
+| 92 | 7 | Herm Junior |
+| 93 | 7 | Jennifer Kime |
+| 94 | 7 | MrsW |
+| 95 | 7 | Michael Felker |
+| 96 | 6 | Tjango |
 | 97 | 6 | Rebekah LeiAnn Bonsell |
-| 98 | 6 | Tjango |
+| 98 | 6 | Sunny Swiper |
 | 99 | 6 | Jody Jackson |
 | 100 | 6 | Slinky Setter |
-| 101 | 6 | Monica Blu |
-| 102 | 6 | Sunny Swiper |
-| 103 | 6 | Zuul Gatekeeper |
-| 104 | 6 | Dizzy Pattern |
-| 105 | 6 | Randy Clevenger |
-| 106 | 5 | MissySai TooRude Ladson |
-| 107 | 5 | Plucky Dashgrid |
+| 101 | 6 | Randy Clevenger |
+| 102 | 6 | Poppy Lift |
+| 103 | 6 | Liz M Durfee |
+| 104 | 6 | Monica Blu |
+| 105 | 6 | Dizzy Pattern |
+| 106 | 6 | Zuul Gatekeeper |
+| 107 | 5 | Armin Muhamed |
 | 108 | 5 | freakyjoe |
-| 109 | 5 | Armin Muhamed |
-| 110 | 5 | Flashy Clicker |
-| 111 | 5 | Samantha Bugg Stitcher |
+| 109 | 5 | Plucky Dashgrid |
+| 110 | 5 | MissySai TooRude Ladson |
+| 111 | 5 | Flashy Clicker |
+| 112 | 5 | Samantha Bugg Stitcher |
 
 ---
 *Standings created by tournaments datasource generation tool*
