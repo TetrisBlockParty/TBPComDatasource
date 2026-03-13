@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-03-13 13:14:12 UTC
+# Standings for team2 as of 2026-03-13 13:14:33 UTC
 
-**Total Participants:** 110
+**Total Participants:** 112
 
 ## Participant Scores
 
@@ -39,9 +39,9 @@
 | 31 | 35 | Snippy Basepiece |
 | 32 | 35 | Chipper Stacky |
 | 33 | 35 | Bow Babe |
-| 34 | 30 | Beth Smith |
-| 35 | 30 | Brooke Sunderhaus |
-| 36 | 30 | Julia Freeman |
+| 34 | 30 | Brooke Sunderhaus |
+| 35 | 30 | Julia Freeman |
+| 36 | 30 | Beth Smith |
 | 37 | 29 | Chassy Horton |
 | 38 | 28 | Tori Bowers |
 | 39 | 28 | Lindsey Anderson |
@@ -54,68 +54,70 @@
 | 46 | 23 | Sha45 |
 | 47 | 23 | Nerdy Clearer |
 | 48 | 22 | Marta Savchuk |
-| 49 | 20 | Andrew Bowen |
-| 50 | 20 | Wacky Columnbuilder |
+| 49 | 20 | Wacky Columnbuilder |
+| 50 | 20 | Andrew Bowen |
 | 51 | 19 | Lush Linkgrid |
-| 52 | 18 | Reginald Harvey |
-| 53 | 18 | Kell Cinn |
-| 54 | 18 | Shelly Babie |
+| 52 | 18 | Shelly Babie |
+| 53 | 18 | Reginald Harvey |
+| 54 | 18 | Kell Cinn |
 | 55 | 17 | Shelly |
-| 56 | 17 | Nikki Speer |
-| 57 | 17 | Terry Partain |
-| 58 | 16 | Hyper Pop |
+| 56 | 17 | Terry Partain |
+| 57 | 17 | Nikki Speer |
+| 58 | 16 | Daring Rotator |
 | 59 | 16 | Mackenzie Forrester |
-| 60 | 16 | Emilie Creswell |
-| 61 | 16 | Daring Rotator |
-| 62 | 15 | Angel Hunnewell |
-| 63 | 15 | TreeWee |
+| 60 | 16 | Hyper Pop |
+| 61 | 16 | Emilie Creswell |
+| 62 | 15 | TreeWee |
+| 63 | 15 | Angel Hunnewell |
 | 64 | 15 | Cathy Bitters |
-| 65 | 14 | Daniel Moore |
-| 66 | 14 | Kitty tet |
-| 67 | 14 | Sandra McNab |
-| 68 | 14 | Marie Elena |
-| 69 | 12 | Cheeky Grabber |
-| 70 | 12 | Diana |
-| 71 | 12 | Abigail Stratton |
-| 72 | 12 | Emily Wooden |
-| 73 | 12 | Jason Briggs |
-| 74 | 10 | D3TROITB0RN74 |
-| 75 | 10 | Haley Bell |
+| 65 | 14 | Marie Elena |
+| 66 | 14 | Daniel Moore |
+| 67 | 14 | Kitty tet |
+| 68 | 14 | Sandra McNab |
+| 69 | 12 | Diana |
+| 70 | 12 | Jason Briggs |
+| 71 | 12 | Cheeky Grabber |
+| 72 | 12 | Abigail Stratton |
+| 73 | 12 | Emily Wooden |
+| 74 | 10 | Haley Bell |
+| 75 | 10 | YAE |
 | 76 | 10 | Witty Twistslam |
 | 77 | 10 | Scott Smith |
-| 78 | 9 | Danielle Thompkins |
+| 78 | 10 | D3TROITB0RN74 |
 | 79 | 9 | Lauressia MsLovaba Neil |
-| 80 | 9 | Jason Pence |
-| 81 | 9 | candypants |
-| 82 | 8 | BuzyBee |
-| 83 | 8 | Mike Carden |
-| 84 | 8 | TJ Hire |
+| 80 | 9 | Danielle Thompkins |
+| 81 | 9 | Jason Pence |
+| 82 | 9 | candypants |
+| 83 | 8 | Cheeky Snapfit |
+| 84 | 8 | Mike Carden |
 | 85 | 8 | Whitney Mudge |
-| 86 | 8 | Dreamy Linkbuilder |
-| 87 | 7 | Hyper Snap |
-| 88 | 7 | Melissa Williams Blevins |
-| 89 | 7 | carole57 |
-| 90 | 7 | Jennifer Galadik |
-| 91 | 7 | Tiff Vs Tiffany |
-| 92 | 7 | Mzjudged Niteowl |
-| 93 | 7 | Jasmine Kenney |
-| 94 | 7 | Kari Thompson Rock |
-| 95 | 6 | Plucky Patternfit |
-| 96 | 6 | Breezy |
-| 97 | 6 | Shiny Framezone |
-| 98 | 6 | Kristin Smith |
-| 99 | 6 | Dapper Gridclear |
-| 100 | 6 | SterlingTeri |
-| 101 | 5 | Tiffany Riccio |
-| 102 | 5 | NDPeanut |
-| 103 | 5 | Qing DG |
-| 104 | 5 | Somthin |
-| 105 | 5 | Kevin Stultz |
-| 106 | 5 | Anita Johnson |
-| 107 | 5 | Bouncy Swiper |
-| 108 | 5 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 109 | 5 | Jesse Olive |
-| 110 | 5 | Cool Snapzone |
+| 86 | 8 | BuzyBee |
+| 87 | 8 | Dreamy Linkbuilder |
+| 88 | 8 | TJ Hire |
+| 89 | 7 | Tiff Vs Tiffany |
+| 90 | 7 | Jasmine Kenney |
+| 91 | 7 | Jennifer Galadik |
+| 92 | 7 | Hyper Snap |
+| 93 | 7 | carole57 |
+| 94 | 7 | Melissa Williams Blevins |
+| 95 | 7 | Mzjudged Niteowl |
+| 96 | 7 | Kari Thompson Rock |
+| 97 | 6 | Dapper Gridclear |
+| 98 | 6 | SterlingTeri |
+| 99 | 6 | Plucky Patternfit |
+| 100 | 6 | Kristin Smith |
+| 101 | 6 | Shiny Framezone |
+| 102 | 6 | Breezy |
+| 103 | 5 | NDPeanut |
+| 104 | 5 | Tiffany Riccio |
+| 105 | 5 | Qing DG |
+| 106 | 5 | Somthin |
+| 107 | 5 | Kevin Stultz |
+| 108 | 5 | Anita Johnson |
+| 109 | 5 | Bouncy Swiper |
+| 110 | 5 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 111 | 5 | Jesse Olive |
+| 112 | 5 | Cool Snapzone |
 
 ---
 *Standings created by tournaments datasource generation tool*

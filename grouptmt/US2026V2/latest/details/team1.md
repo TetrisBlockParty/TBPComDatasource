@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-03-13 13:14:12 UTC
+# Standings for team1 as of 2026-03-13 13:14:33 UTC
 
-**Total Participants:** 129
+**Total Participants:** 130
 
 ## Participant Scores
 
@@ -125,16 +125,17 @@
 | 117 | 6 | Monica Blu |
 | 118 | 6 | Jack Mattiace |
 | 119 | 6 | Dizzy Pattern |
-| 120 | 6 | Sunny Swiper |
-| 121 | 6 | Zuul Gatekeeper |
+| 120 | 6 | Zuul Gatekeeper |
+| 121 | 6 | Sunny Swiper |
 | 122 | 5 | Tracie Corbett |
 | 123 | 5 | Jennifer Brown |
 | 124 | 5 | Samantha Bugg Stitcher |
 | 125 | 5 | Flashy Clicker |
 | 126 | 5 | Armin Muhamed |
 | 127 | 5 | freakyjoe |
-| 128 | 5 | MissySai TooRude Ladson |
-| 129 | 5 | Perky Clusterbuilder |
+| 128 | 5 | Witty Wipegrid |
+| 129 | 5 | MissySai TooRude Ladson |
+| 130 | 5 | Perky Clusterbuilder |
 
 ---
 *Standings created by tournaments datasource generation tool*
