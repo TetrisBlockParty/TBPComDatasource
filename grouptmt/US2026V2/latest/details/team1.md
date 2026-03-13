@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-03-13 13:07:11 UTC
+# Standings for team1 as of 2026-03-13 13:08:10 UTC
 
-**Total Participants:** 122
+**Total Participants:** 123
 
 ## Participant Scores
 
@@ -42,18 +42,18 @@
 | 34 | 35 | Edna Clinton |
 | 35 | 34 | Marie Helman |
 | 36 | 32 | Tig |
-| 37 | 32 | Chummy Rollzone |
-| 38 | 32 | Goofy Linkblock |
-| 39 | 32 | Trishatta YoungDiva Watkins |
-| 40 | 32 | iceman |
+| 37 | 32 | Goofy Linkblock |
+| 38 | 32 | Chummy Rollzone |
+| 39 | 32 | iceman |
+| 40 | 32 | Trishatta YoungDiva Watkins |
 | 41 | 30 | Chris Kelly |
 | 42 | 30 | raffyG |
 | 43 | 30 | @n@luvmakin |
 | 44 | 30 | kito23 |
 | 45 | 29 | Teresa Wolf |
 | 46 | 28 | Maxwell Hall |
-| 47 | 27 | Bean |
-| 48 | 27 | Panda Rog |
+| 47 | 27 | Panda Rog |
+| 48 | 27 | Bean |
 | 49 | 26 | Tim Raper |
 | 50 | 26 | Bubbly Patterner |
 | 51 | 22 | Giddy Swiper |
@@ -64,70 +64,71 @@
 | 56 | 18 | Ryry |
 | 57 | 18 | Beth Anderson |
 | 58 | 17 | Lee Sipelii |
-| 59 | 16 | Chilly Matchbuilder |
-| 60 | 16 | Porkobello |
-| 61 | 16 | Sam Steig |
+| 59 | 16 | Porkobello |
+| 60 | 16 | Sam Steig |
+| 61 | 16 | Chilly Matchbuilder |
 | 62 | 16 | Anne Garcia |
-| 63 | 15 | Nikki Robinson |
-| 64 | 15 | Ellen Maxwell Capstaff |
-| 65 | 14 | Elyse YL |
-| 66 | 14 | Hyper Drop |
+| 63 | 15 | Ellen Maxwell Capstaff |
+| 64 | 15 | Nikki Robinson |
+| 65 | 14 | Amber Nicole |
+| 66 | 14 | Elyse YL |
 | 67 | 14 | Dawn Fike |
 | 68 | 14 | Ernest Jordan |
-| 69 | 14 | Amber Nicole |
-| 70 | 13 | Natasha Velasquez Gabriel |
-| 71 | 13 | Oscar Ferguson |
-| 72 | 12 | Alexandria Ritch |
-| 73 | 12 | James Burda |
-| 74 | 12 | Suzan Frazier |
-| 75 | 12 | Big rick !!! |
-| 76 | 12 | Cool Dasher |
-| 77 | 12 | ssr |
-| 78 | 12 | Walter Beltran |
+| 69 | 14 | Hyper Drop |
+| 70 | 13 | Oscar Ferguson |
+| 71 | 13 | Natasha Velasquez Gabriel |
+| 72 | 12 | Big rick !!! |
+| 73 | 12 | ssr |
+| 74 | 12 | Walter Beltran |
+| 75 | 12 | Cool Dasher |
+| 76 | 12 | James Burda |
+| 77 | 12 | Alexandria Ritch |
+| 78 | 12 | Suzan Frazier |
 | 79 | 11 | Boldy Clicky |
 | 80 | 10 | Plucky Dashgrid |
-| 81 | 10 | Bigmoco |
+| 81 | 10 | Giles McNair |
 | 82 | 10 | Hecate Trimora |
-| 83 | 10 | Giles McNair |
+| 83 | 10 | Bigmoco |
 | 84 | 10 | Dreamy Matchclear |
 | 85 | 10 | William Ramirez |
 | 86 | 10 | Shawna Days |
 | 87 | 9 | Zach Thompson |
-| 88 | 9 | Jennifer Bunker |
-| 89 | 9 | Bob Sitts |
-| 90 | 9 | bricked |
-| 91 | 9 | Quirky Dashy |
-| 92 | 8 | al |
-| 93 | 8 | Epic Cascadeclear |
-| 94 | 8 | Kat Kath |
-| 95 | 8 | Melissa Hart |
-| 96 | 8 | Jessica Marie Long |
-| 97 | 8 | Crafty Clearfit |
+| 88 | 9 | Bob Sitts |
+| 89 | 9 | bricked |
+| 90 | 9 | Quirky Dashy |
+| 91 | 9 | Jennifer Bunker |
+| 92 | 8 | Melissa Hart |
+| 93 | 8 | Jessica Marie Long |
+| 94 | 8 | Crafty Clearfit |
+| 95 | 8 | Epic Cascadeclear |
+| 96 | 8 | Felise Bee |
+| 97 | 8 | Kat Kath |
 | 98 | 8 | Elizabeth Hughes |
-| 99 | 8 | Felise Bee |
+| 99 | 8 | al |
 | 100 | 7 | Herm Junior |
 | 101 | 7 | Jennifer Kime |
 | 102 | 7 | MrsW |
 | 103 | 7 | Michael Felker |
 | 104 | 6 | Liz M Durfee |
-| 105 | 6 | Antoinette Rhinesmith |
-| 106 | 6 | Rebekah LeiAnn Bonsell |
-| 107 | 6 | Tjango |
-| 108 | 6 | Jody Jackson |
-| 109 | 6 | Slinky Setter |
-| 110 | 6 | Delzie J Leigh |
-| 111 | 6 | Randy Clevenger |
-| 112 | 6 | Monica Blu |
-| 113 | 6 | Tyrell Harvin |
-| 114 | 6 | Sunny Swiper |
+| 105 | 6 | Tyrell Harvin |
+| 106 | 6 | Antoinette Rhinesmith |
+| 107 | 6 | Rebekah LeiAnn Bonsell |
+| 108 | 6 | Tjango |
+| 109 | 6 | Jody Jackson |
+| 110 | 6 | Slinky Setter |
+| 111 | 6 | Kristen Rhoads |
+| 112 | 6 | Delzie J Leigh |
+| 113 | 6 | Poppy Lift |
+| 114 | 6 | Dizzy Pattern |
 | 115 | 6 | Zuul Gatekeeper |
-| 116 | 6 | Dizzy Pattern |
-| 117 | 6 | Poppy Lift |
-| 118 | 5 | freakyjoe |
-| 119 | 5 | MissySai TooRude Ladson |
+| 116 | 6 | Sunny Swiper |
+| 117 | 6 | Monica Blu |
+| 118 | 6 | Randy Clevenger |
+| 119 | 5 | Armin Muhamed |
 | 120 | 5 | Flashy Clicker |
-| 121 | 5 | Samantha Bugg Stitcher |
-| 122 | 5 | Armin Muhamed |
+| 121 | 5 | MissySai TooRude Ladson |
+| 122 | 5 | Samantha Bugg Stitcher |
+| 123 | 5 | freakyjoe |
 
 ---
 *Standings created by tournaments datasource generation tool*
