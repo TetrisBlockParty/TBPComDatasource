@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-13 12:28:11 UTC
+# Standings for team3 as of 2026-03-13 12:28:32 UTC
 
 **Total Participants:** 79
 
@@ -14,42 +14,42 @@
 | 6 | 72 | Beth Naehrbass |
 | 7 | 67 | Kari Smith |
 | 8 | 61 | Jessica Bechler |
-| 9 | 58 | Shawn Sarah |
-| 10 | 52 | Cranky Tiltbuilder |
-| 11 | 50 | Jason Grasso |
-| 12 | 45 | Dizzy Gridzone |
-| 13 | 45 | Ashley Ingram |
-| 14 | 45 | LaLa Anderson |
-| 15 | 44 | TamiJo |
-| 16 | 39 | COMFORT |
-| 17 | 38 | Spunky Holder |
-| 18 | 36 | Chet Manley |
-| 19 | 34 | lilseasonz |
-| 20 | 32 | Lillian Mehler |
-| 21 | 30 | Ty Quarles |
-| 22 | 30 | Kristine Roller |
-| 23 | 29 | Beewee |
+| 9 | 59 | Beewee |
+| 10 | 58 | Shawn Sarah |
+| 11 | 52 | Cranky Tiltbuilder |
+| 12 | 50 | Jason Grasso |
+| 13 | 45 | Dizzy Gridzone |
+| 14 | 45 | Ashley Ingram |
+| 15 | 45 | LaLa Anderson |
+| 16 | 44 | TamiJo |
+| 17 | 39 | COMFORT |
+| 18 | 38 | Spunky Holder |
+| 19 | 36 | Chet Manley |
+| 20 | 34 | lilseasonz |
+| 21 | 32 | Lillian Mehler |
+| 22 | 30 | Ty Quarles |
+| 23 | 30 | Kristine Roller |
 | 24 | 28 | Boo-Boo |
 | 25 | 26 | Laurie LeCroy |
 | 26 | 25 | Heather M Purcell |
 | 27 | 24 | Tievette Crum |
 | 28 | 22 | Serena Catherine Coladonato |
 | 29 | 21 | Tiffany Gamble |
-| 30 | 20 | Chirpy Matchbuilder |
-| 31 | 20 | Kate Farok |
-| 32 | 20 | Aletha Williams |
-| 33 | 20 | Tessina Dewey-Mancino |
+| 30 | 20 | Kate Farok |
+| 31 | 20 | Aletha Williams |
+| 32 | 20 | Tessina Dewey-Mancino |
+| 33 | 20 | Chirpy Matchbuilder |
 | 34 | 18 | Amy Perry |
-| 35 | 17 | Tyleah Longmire |
-| 36 | 17 | Zippy Cascadeclear |
+| 35 | 17 | Zippy Cascadeclear |
+| 36 | 17 | Tyleah Longmire |
 | 37 | 16 | Plucky Gridroll |
-| 38 | 15 | DefaultUser |
-| 39 | 15 | Emily B Johnson |
-| 40 | 15 | Sean Michaels |
-| 41 | 15 | Saucy Column |
-| 42 | 14 | Sarah Berger |
+| 38 | 15 | Sean Michaels |
+| 39 | 15 | DefaultUser |
+| 40 | 15 | Saucy Column |
+| 41 | 15 | Emily B Johnson |
+| 42 | 14 | Odysseus |
 | 43 | 14 | Marsha Starr |
-| 44 | 14 | Odysseus |
+| 44 | 14 | Sarah Berger |
 | 45 | 13 | Desiree Watson |
 | 46 | 13 | FATHEAD |
 | 47 | 12 | Juliet Weathers |
@@ -74,9 +74,9 @@
 | 66 | 6 | Lazy Riserfit |
 | 67 | 6 | Sir-Franchise Drake |
 | 68 | 6 | Adrienne Sprayberry |
-| 69 | 5 | Erin Murphy |
-| 70 | 5 | Peachy Fall |
-| 71 | 5 | Vanesa Colon |
+| 69 | 5 | Peachy Fall |
+| 70 | 5 | Vanesa Colon |
+| 71 | 5 | Mary |
 | 72 | 5 | Yup |
 | 73 | 5 | lady |
 | 74 | 5 | Tam |
@@ -84,7 +84,7 @@
 | 76 | 5 | Dreamy Drop |
 | 77 | 5 | Spencer Nikki |
 | 78 | 5 | Paula Morrison |
-| 79 | 5 | Mary |
+| 79 | 5 | Erin Murphy |
 
 ---
 *Standings created by tournaments datasource generation tool*

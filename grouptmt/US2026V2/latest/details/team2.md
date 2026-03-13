@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-13 12:28:11 UTC
+# Standings for team2 as of 2026-03-13 12:28:32 UTC
 
 **Total Participants:** 46
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 263 | Crafty Matchfit |
+| 1 | 360 | Crafty Matchfit |
 | 2 | 200 | Cynthia Ward |
 | 3 | 148 | Justablock |
 | 4 | 91 | Pixie |
@@ -19,8 +19,8 @@
 | 11 | 35 | Bow Babe |
 | 12 | 30 | Beth Smith |
 | 13 | 30 | Julia Freeman |
-| 14 | 28 | Lindsey Anderson |
-| 15 | 28 | Tori Bowers |
+| 14 | 28 | Tori Bowers |
+| 15 | 28 | Lindsey Anderson |
 | 16 | 26 | Starr |
 | 17 | 26 | Brittany Backus |
 | 18 | 25 | Melody Santiago |
@@ -31,27 +31,27 @@
 | 23 | 20 | Wacky Columnbuilder |
 | 24 | 18 | Kell Cinn |
 | 25 | 17 | Shelly |
-| 26 | 16 | Daring Rotator |
-| 27 | 16 | Hyper Pop |
-| 28 | 16 | Mackenzie Forrester |
-| 29 | 16 | Emilie Creswell |
+| 26 | 16 | Hyper Pop |
+| 27 | 16 | Daring Rotator |
+| 28 | 16 | Emilie Creswell |
+| 29 | 16 | Mackenzie Forrester |
 | 30 | 15 | Shelly Babie |
-| 31 | 14 | Kitty tet |
-| 32 | 14 | Sandra McNab |
+| 31 | 14 | Sandra McNab |
+| 32 | 14 | Kitty tet |
 | 33 | 14 | Daniel Moore |
 | 34 | 12 | Abigail Stratton |
 | 35 | 12 | Robert Martinez |
 | 36 | 12 | Mjhays |
 | 37 | 11 | Lush Linkgrid |
-| 38 | 9 | Lauressia MsLovaba Neil |
-| 39 | 9 | Jason Pence |
+| 38 | 9 | Jason Pence |
+| 39 | 9 | Lauressia MsLovaba Neil |
 | 40 | 8 | Dreamy Linkbuilder |
 | 41 | 8 | BuzyBee |
 | 42 | 6 | Plucky Patternfit |
 | 43 | 6 | Shiny Framezone |
-| 44 | 5 | Somthin |
-| 45 | 5 | Kevin Stultz |
-| 46 | 5 | Tiffany Riccio |
+| 44 | 5 | Kevin Stultz |
+| 45 | 5 | Tiffany Riccio |
+| 46 | 5 | Somthin |
 
 ---
 *Standings created by tournaments datasource generation tool*
