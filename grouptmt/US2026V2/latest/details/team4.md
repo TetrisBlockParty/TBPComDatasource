@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-03-13 12:24:11 UTC
+# Standings for team4 as of 2026-03-13 12:25:11 UTC
 
-**Total Participants:** 74
+**Total Participants:** 81
 
 ## Participant Scores
 
@@ -11,75 +11,82 @@
 | 3 | 220 | Steve Laigner |
 | 4 | 140 | Zeirela Selazno |
 | 5 | 110 | LaKisha Anderson |
-| 6 | 96 | Joseph L Johnson |
-| 7 | 86 | Patricia White |
+| 6 | 106 | Patricia White |
+| 7 | 96 | Joseph L Johnson |
 | 8 | 79 | Kortney Fiorucci |
-| 9 | 60 | Sergio Torres |
-| 10 | 58 | Anthony B Youmans |
-| 11 | 50 | Madison Wicks |
-| 12 | 48 | Monarca26 |
-| 13 | 41 | Scott Jackson |
-| 14 | 39 | Rain |
-| 15 | 35 | Abby Garcia |
-| 16 | 33 | Ly Phethmany |
-| 17 | 32 | Jared Nadler |
-| 18 | 31 | Holland Ashlee |
-| 19 | 30 | Perach Alima Shoa |
+| 9 | 78 | Anthony B Youmans |
+| 10 | 60 | Sergio Torres |
+| 11 | 57 | Scott Jackson |
+| 12 | 50 | Madison Wicks |
+| 13 | 48 | Monarca26 |
+| 14 | 45 | cookieesor |
+| 15 | 40 | Jared Nadler |
+| 16 | 39 | Rain |
+| 17 | 35 | Abby Garcia |
+| 18 | 33 | Ly Phethmany |
+| 19 | 31 | Holland Ashlee |
 | 20 | 30 | Tipsy Blocker |
-| 21 | 30 | Liseth Vasquez |
-| 22 | 30 | Lakisha Odom |
-| 23 | 29 | BigMan87 |
-| 24 | 28 | Travis Kellan |
-| 25 | 26 | cookieesor |
-| 26 | 25 | Tipsy Tumbler |
-| 27 | 22 | Madeline Pinton Keen |
-| 28 | 20 | Amanda Grace Agee |
-| 29 | 20 | Julay |
-| 30 | 20 | Lively Rollzone |
+| 21 | 30 | Tipsy Tumbler |
+| 22 | 30 | Liseth Vasquez |
+| 23 | 30 | Lakisha Odom |
+| 24 | 30 | Perach Alima Shoa |
+| 25 | 29 | BigMan87 |
+| 26 | 28 | Travis Kellan |
+| 27 | 26 | Kimberly Rios |
+| 28 | 22 | Madeline Pinton Keen |
+| 29 | 20 | Lively Rollzone |
+| 30 | 20 | Julay |
 | 31 | 20 | Albee Menina |
-| 32 | 16 | Alyssa Papen |
-| 33 | 15 | Diamond Applewhite |
-| 34 | 15 | Jennjack |
-| 35 | 14 | Blockhead |
-| 36 | 14 | Mimi |
+| 32 | 20 | Amanda Grace Agee |
+| 33 | 19 | Cedric Martinez |
+| 34 | 16 | Alyssa Papen |
+| 35 | 15 | Diamond Applewhite |
+| 36 | 15 | Jennjack |
 | 37 | 14 | Dreamy Riserpiece |
 | 38 | 14 | Laura Loyd Parcher |
-| 39 | 12 | Clever Fitline |
-| 40 | 12 | Twot |
-| 41 | 12 | Destiny Elizabeth Seidle |
-| 42 | 12 | Joy |
-| 43 | 12 | Maryann Vac |
-| 44 | 12 | Chuck Fobert |
-| 45 | 11 | Jessica Espinosa Olesh |
-| 46 | 10 | Cheeky Pop |
-| 47 | 10 | Sadie Reeves |
-| 48 | 10 | Joshua Orr |
-| 49 | 10 | Chipper Tiler |
-| 50 | 10 | Ron Shaffer |
-| 51 | 9 | Donna Caparimo |
-| 52 | 9 | George Nutt |
-| 53 | 9 | POV7 |
-| 54 | 9 | Tracey Ann Johnson |
-| 55 | 9 | Jennifer Hopper |
+| 39 | 14 | Blockhead |
+| 40 | 14 | Mimi |
+| 41 | 12 | Joy |
+| 42 | 12 | Clever Fitline |
+| 43 | 12 | Chuck Fobert |
+| 44 | 12 | Maryann Vac |
+| 45 | 12 | Kennth lesuer |
+| 46 | 12 | Destiny Elizabeth Seidle |
+| 47 | 12 | Twot |
+| 48 | 12 | Tdub |
+| 49 | 11 | Siara Brandon |
+| 50 | 11 | Jessica Espinosa Olesh |
+| 51 | 10 | Cheeky Pop |
+| 52 | 10 | Ron Shaffer |
+| 53 | 10 | Joshua Orr |
+| 54 | 10 | Sadie Reeves |
+| 55 | 10 | Chipper Tiler |
 | 56 | 9 | Cool Fitzone |
-| 57 | 8 | Randi Woldin-Speedling |
-| 58 | 8 | Tammy |
-| 59 | 8 | benjiwrld<3 |
-| 60 | 8 | Nessa Fonseca |
-| 61 | 7 | Felix Skelton |
-| 62 | 7 | Vdot |
-| 63 | 6 | Big T |
-| 64 | 6 | Heather Finnefrock |
-| 65 | 6 | Jessica Renee Artley |
-| 66 | 6 | Karen Denen |
-| 67 | 6 | Liz |
-| 68 | 5 | Jason Dickens |
-| 69 | 5 | Chris Prothro |
-| 70 | 5 | Erin Sabol |
-| 71 | 5 | Michael Campbell |
-| 72 | 5 | Jazzy Framezone |
-| 73 | 5 | Cranky Grid |
-| 74 | 5 | Dan |
+| 57 | 9 | Jennifer Hopper |
+| 58 | 9 | POV7 |
+| 59 | 9 | George Nutt |
+| 60 | 9 | Donna Caparimo |
+| 61 | 9 | Tracey Ann Johnson |
+| 62 | 8 | Randi Woldin-Speedling |
+| 63 | 8 | Tammy |
+| 64 | 8 | benjiwrld<3 |
+| 65 | 8 | Nessa Fonseca |
+| 66 | 7 | Vdot |
+| 67 | 7 | Felix Skelton |
+| 68 | 6 | Gma c |
+| 69 | 6 | Liz |
+| 70 | 6 | Heather Finnefrock |
+| 71 | 6 | Big T |
+| 72 | 6 | Karrie Brand |
+| 73 | 6 | Karen Denen |
+| 74 | 6 | Jessica Renee Artley |
+| 75 | 5 | Jason Dickens |
+| 76 | 5 | Erin Sabol |
+| 77 | 5 | Jazzy Framezone |
+| 78 | 5 | Cranky Grid |
+| 79 | 5 | Dan |
+| 80 | 5 | Michael Campbell |
+| 81 | 5 | Chris Prothro |
 
 ---
 *Standings created by tournaments datasource generation tool*
