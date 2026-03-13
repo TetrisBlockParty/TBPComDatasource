@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 20:22:35 UTC
+# Standings for team1 as of 2026-03-13 20:23:13 UTC
 
 **Total Participants:** 683
 
@@ -65,10 +65,10 @@
 | 57 | 137 | Xande NO Lie Williams |
 | 58 | 137 | Bigmoco |
 | 59 | 136 | Sunny Swiper |
-| 60 | 124 | Mighty Patternbuilder |
-| 61 | 124 | Frilly Climber |
-| 62 | 121 | Tanya Carpenter-Reynolds |
-| 63 | 121 | Kat Mfm Kaul |
+| 60 | 124 | Frilly Climber |
+| 61 | 124 | Mighty Patternbuilder |
+| 62 | 123 | Kat Mfm Kaul |
+| 63 | 121 | Tanya Carpenter-Reynolds |
 | 64 | 115 | Giddy Brickclear |
 | 65 | 115 | Michael Powers |
 | 66 | 115 | Silly Ziggy |
@@ -82,34 +82,34 @@
 | 74 | 108 | jenna |
 | 75 | 106 | Albert Josef Toves Means Jr. |
 | 76 | 100 | Brandy Ridgeway |
-| 77 | 100 | Bennett Hunter |
-| 78 | 100 | Cassandra Latimore |
+| 77 | 100 | Cassandra Latimore |
+| 78 | 100 | Bennett Hunter |
 | 79 | 100 | Ann Brock LaPorte |
-| 80 | 99 | Hhholmesjr |
-| 81 | 99 | Christopher James Cienfuegos |
+| 80 | 99 | Christopher James Cienfuegos |
+| 81 | 99 | Hhholmesjr |
 | 82 | 96 | Victoria Davis Torie |
 | 83 | 94 | Hasty Lift |
 | 84 | 91 | Walter Beltran |
 | 85 | 90 | Chill Shiftspin |
 | 86 | 89 | Marie Helman |
 | 87 | 88 | Tameka Brown |
-| 88 | 87 | Pheezy |
-| 89 | 87 | Lynn Perkins |
-| 90 | 82 | Foulplay176 |
-| 91 | 82 | Mufi25 |
-| 92 | 80 | Tina Blessed Cage |
-| 93 | 80 | JustMeNonna |
+| 88 | 87 | Lynn Perkins |
+| 89 | 87 | Pheezy |
+| 90 | 84 | Witty Wipegrid |
+| 91 | 82 | Foulplay176 |
+| 92 | 82 | Mufi25 |
+| 93 | 80 | Tina Blessed Cage |
 | 94 | 80 | Tami Luce Martin |
-| 95 | 80 | Diane |
-| 96 | 80 | Kristen Hall |
-| 97 | 80 | Witty Wipegrid |
+| 95 | 80 | JustMeNonna |
+| 96 | 80 | Diane |
+| 97 | 80 | Kristen Hall |
 | 98 | 79 | Poppy Builderline |
 | 99 | 78 | Nanan Nanan |
 | 100 | 78 | Rennon Scott Wilson |
 | 101 | 78 | NunYa |
 | 102 | 76 | Brittney Groler |
-| 103 | 76 | Tig |
-| 104 | 76 | Moe Thought |
+| 103 | 76 | Moe Thought |
+| 104 | 76 | Tig |
 | 105 | 75 | Lisa Marie Sansom |
 | 106 | 74 | Kellia S Johnson |
 | 107 | 74 | Karmyst |
@@ -185,32 +185,32 @@
 | 177 | 47 | Snazzy Rotater |
 | 178 | 47 | iceman |
 | 179 | 47 | Ellieshay |
-| 180 | 47 | Tyle Armstead |
-| 181 | 47 | Crafty Clearfit |
-| 182 | 46 | Matthew Laudico |
-| 183 | 46 | Suzan Frazier |
-| 184 | 45 | Cynthia Herrmann Egland |
-| 185 | 44 | Neko Preston |
-| 186 | 44 | Michael Felker |
+| 180 | 47 | Crafty Clearfit |
+| 181 | 47 | Tyle Armstead |
+| 182 | 46 | Jonathan Gaffaney |
+| 183 | 46 | Matthew Laudico |
+| 184 | 46 | Suzan Frazier |
+| 185 | 45 | Cynthia Herrmann Egland |
+| 186 | 44 | Neko Preston |
 | 187 | 44 | Bold Zonegrid |
-| 188 | 43 | Jonathan Gaffaney |
+| 188 | 44 | Michael Felker |
 | 189 | 43 | Flashy Stacky |
 | 190 | 43 | Dan Engelhard |
 | 191 | 42 | David Larter |
-| 192 | 42 | Bubba_C59 |
-| 193 | 42 | Bribrobra |
-| 194 | 42 | Travis Taylor |
-| 195 | 42 | Hyper Drop |
-| 196 | 41 | Glitzy Linkpiece |
-| 197 | 41 | Pig02 |
-| 198 | 41 | Maxwell Hall |
-| 199 | 41 | Lively Patternfall |
-| 200 | 40 | Josh Twilley |
-| 201 | 40 | kito23 |
-| 202 | 40 | Noah |
+| 192 | 42 | Travis Taylor |
+| 193 | 42 | Hyper Drop |
+| 194 | 42 | Bubba_C59 |
+| 195 | 42 | Bribrobra |
+| 196 | 41 | Maxwell Hall |
+| 197 | 41 | Lively Patternfall |
+| 198 | 41 | Glitzy Linkpiece |
+| 199 | 41 | Pig02 |
+| 200 | 40 | Noah |
+| 201 | 40 | Josh Twilley |
+| 202 | 40 | kito23 |
 | 203 | 40 | Chummy Risebuilder |
-| 204 | 40 | Happy Snapline |
-| 205 | 40 | Christi Burley |
+| 204 | 40 | Christi Burley |
+| 205 | 40 | Happy Snapline |
 | 206 | 40 | Terrance Williams |
 | 207 | 40 | Nora Smith |
 | 208 | 40 | Kat |
