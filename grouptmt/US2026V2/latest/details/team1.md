@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 14:35:12 UTC
+# Standings for team1 as of 2026-03-13 14:36:11 UTC
 
 **Total Participants:** 230
 
@@ -11,7 +11,7 @@
 | 3 | 1200 | Hyper |
 | 4 | 542 | Amy Roche |
 | 5 | 412 | Amy Dial Brown |
-| 6 | 283 | William George Weglage III |
+| 6 | 333 | William George Weglage III |
 | 7 | 266 | Tashanna Harvey |
 | 8 | 249 | Tatiyana Holm |
 | 9 | 210 | Hasbro Bros |
@@ -156,30 +156,30 @@
 | 148 | 13 | Ash Galvan |
 | 149 | 13 | Boldy Clicky |
 | 150 | 12 | Brittney Groler |
-| 151 | 12 | Alexandria Ritch |
-| 152 | 12 | Cool Dasher |
+| 151 | 12 | Cool Dasher |
+| 152 | 12 | Alexandria Ritch |
 | 153 | 12 | Suzan Frazier |
 | 154 | 12 | ssr |
 | 155 | 12 | James Burda |
-| 156 | 11 | Frank Jusyandfair |
+| 156 | 12 | Matt Aguilar |
 | 157 | 11 | Peachy Brick |
-| 158 | 11 | Geno Bankroll McGill |
-| 159 | 10 | Alexandra Karavias |
-| 160 | 10 | Giles McNair |
-| 161 | 10 | Hecate Trimora |
-| 162 | 10 | Tracie Corbett |
-| 163 | 10 | beep |
-| 164 | 10 | Shawna Days |
-| 165 | 10 | Shekita Gibbs |
-| 166 | 10 | YF Luna |
-| 167 | 10 | Alex Nicol |
-| 168 | 10 | Donavon Krahn |
-| 169 | 10 | Stacy Rodriguez |
-| 170 | 10 | Swalshy |
-| 171 | 10 | Matt Aguilar |
+| 158 | 11 | Frank Jusyandfair |
+| 159 | 11 | Geno Bankroll McGill |
+| 160 | 10 | Alexandra Karavias |
+| 161 | 10 | Giles McNair |
+| 162 | 10 | Hecate Trimora |
+| 163 | 10 | Tracie Corbett |
+| 164 | 10 | beep |
+| 165 | 10 | Shawna Days |
+| 166 | 10 | Shekita Gibbs |
+| 167 | 10 | YF Luna |
+| 168 | 10 | Alex Nicol |
+| 169 | 10 | Donavon Krahn |
+| 170 | 10 | Stacy Rodriguez |
+| 171 | 10 | Swalshy |
 | 172 | 9 | Anthony Ward |
-| 173 | 9 | Bob Sitts |
-| 174 | 9 | Quirky Dashy |
+| 173 | 9 | Quirky Dashy |
+| 174 | 9 | Bob Sitts |
 | 175 | 9 | Jennifer Bunker |
 | 176 | 9 | bricked |
 | 177 | 9 | Patti Rone |
@@ -202,40 +202,40 @@
 | 194 | 7 | MrsW |
 | 195 | 7 | key |
 | 196 | 6 | MamaPhee |
-| 197 | 6 | Tyrell Harvin |
-| 198 | 6 | Antoinette Rhinesmith |
-| 199 | 6 | Amber Jackson |
-| 200 | 6 | Tjango |
-| 201 | 6 | Jody Jackson |
-| 202 | 6 | Slinky Setter |
-| 203 | 6 | Robert Coulter |
-| 204 | 6 | Debra Reynolds |
-| 205 | 6 | Randy Clevenger |
-| 206 | 6 | Monica Blu |
-| 207 | 6 | Zuul Gatekeeper |
-| 208 | 6 | Dizzy Pattern |
-| 209 | 6 | Liz M Durfee |
-| 210 | 6 | Poppy Lift |
-| 211 | 6 | ajx |
+| 197 | 6 | Antoinette Rhinesmith |
+| 198 | 6 | Amber Jackson |
+| 199 | 6 | Tjango |
+| 200 | 6 | Jody Jackson |
+| 201 | 6 | Slinky Setter |
+| 202 | 6 | Robert Coulter |
+| 203 | 6 | Debra Reynolds |
+| 204 | 6 | Randy Clevenger |
+| 205 | 6 | Monica Blu |
+| 206 | 6 | Zuul Gatekeeper |
+| 207 | 6 | Dizzy Pattern |
+| 208 | 6 | Poppy Lift |
+| 209 | 6 | ajx |
+| 210 | 6 | Liz M Durfee |
+| 211 | 6 | Tyrell Harvin |
 | 212 | 6 | Breezy Ivy |
 | 213 | 6 | Freddie Alicea |
 | 214 | 6 | Jack Mattiace |
 | 215 | 6 | cac |
 | 216 | 6 | Kristen Rhoads |
-| 217 | 5 | Sarajo Clauson |
+| 217 | 5 | Flashy Clicker |
 | 218 | 5 | Samantha Bugg Stitcher |
-| 219 | 5 | Flashy Clicker |
-| 220 | 5 | Armin Muhamed |
-| 221 | 5 | Jennifer Brown |
-| 222 | 5 | Victoria Montenegro Martinez |
-| 223 | 5 | Perky Clusterbuilder |
-| 224 | 5 | Ras David |
-| 225 | 5 | MissySai TooRude Ladson |
-| 226 | 5 | Cynthia Herrmann Egland |
-| 227 | 5 | Slinky Dashgrid |
-| 228 | 5 | Terry Dill |
-| 229 | 5 | Xande NO Lie Williams |
-| 230 | 5 | freakyjoe |
+| 219 | 5 | Armin Muhamed |
+| 220 | 5 | Jennifer Brown |
+| 221 | 5 | Victoria Montenegro Martinez |
+| 222 | 5 | Perky Clusterbuilder |
+| 223 | 5 | MissySai TooRude Ladson |
+| 224 | 5 | Slinky Dashgrid |
+| 225 | 5 | Cynthia Herrmann Egland |
+| 226 | 5 | Terry Dill |
+| 227 | 5 | Xande NO Lie Williams |
+| 228 | 5 | freakyjoe |
+| 229 | 5 | Sarajo Clauson |
+| 230 | 5 | Ras David |
 
 ---
 *Standings created by tournaments datasource generation tool*
