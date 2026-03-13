@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-13 23:10:14 UTC
+# Standings for team2 as of 2026-03-13 23:10:38 UTC
 
 **Total Participants:** 879
 
@@ -103,41 +103,41 @@
 | 95 | 158 | Lori Schlachter Segui |
 | 96 | 157 | Shelly |
 | 97 | 154 | Brave Matchfit |
-| 98 | 154 | Tatyahna Cameron |
-| 99 | 154 | Leticia Martinez Kelley |
+| 98 | 154 | Leticia Martinez Kelley |
+| 99 | 154 | Tatyahna Cameron |
 | 100 | 153 | Jess |
 | 101 | 152 | Jenni Garcia-Vogelhut |
 | 102 | 150 | Ess |
 | 103 | 146 | Carmen Jnvm |
 | 104 | 145 | Mcg |
-| 105 | 140 | Nerdy Blockpiece |
-| 106 | 139 | Hyper Pop |
+| 105 | 140 | Dee Doubleyou |
+| 106 | 140 | Nerdy Blockpiece |
 | 107 | 139 | Christy Merriman Addison |
-| 108 | 138 | Frances Hui |
-| 109 | 137 | Jen |
-| 110 | 136 | Frisky Riserbuilder |
-| 111 | 132 | Brenda A |
-| 112 | 132 | Crystal Brown-Miles |
-| 113 | 130 | Dee Doubleyou |
-| 114 | 126 | Paul Beeman |
-| 115 | 125 | Isabella Blanco |
-| 116 | 125 | Ben Dove |
-| 117 | 125 | nickle109 |
+| 108 | 139 | Hyper Pop |
+| 109 | 138 | Frances Hui |
+| 110 | 137 | Jen |
+| 111 | 136 | Frisky Riserbuilder |
+| 112 | 132 | Brenda A |
+| 113 | 132 | Crystal Brown-Miles |
+| 114 | 126 | Tiff Vs Tiffany |
+| 115 | 126 | Paul Beeman |
+| 116 | 125 | nickle109 |
+| 117 | 125 | Ben Dove |
 | 118 | 125 | April |
-| 119 | 124 | Brooke Sunderhaus |
-| 120 | 122 | Tanya Abernathy Jackson |
-| 121 | 120 | LML |
-| 122 | 119 | Tee Jaleesa |
+| 119 | 125 | Isabella Blanco |
+| 120 | 124 | Brooke Sunderhaus |
+| 121 | 122 | Tanya Abernathy Jackson |
+| 122 | 120 | LML |
 | 123 | 119 | Dreamer |
-| 124 | 118 | Alexander Zamora |
-| 125 | 116 | Connie Mohler-Fair |
+| 124 | 119 | Tee Jaleesa |
+| 125 | 118 | Alexander Zamora |
 | 126 | 116 | Loony Snapbuild |
-| 127 | 115 | Jamie Mclean |
-| 128 | 114 | Slinky Linkgrid |
-| 129 | 114 | Carson Goldminc |
-| 130 | 111 | Aobregon01 |
+| 127 | 116 | Connie Mohler-Fair |
+| 128 | 115 | Jamie Mclean |
+| 129 | 114 | Slinky Linkgrid |
+| 130 | 114 | Carson Goldminc |
 | 131 | 111 | Cari Hogan |
-| 132 | 110 | Tiff Vs Tiffany |
+| 132 | 111 | Aobregon01 |
 | 133 | 110 | Elaine Webb Graves |
 | 134 | 108 | Sonya Gail Goodman |
 | 135 | 105 | Christina Freeman |
@@ -171,9 +171,9 @@
 | 163 | 80 | Snappy Bridgepiece |
 | 164 | 80 | Loopy Clusterer |
 | 165 | 80 | btchboy |
-| 166 | 79 | Amy Villalpando |
-| 167 | 79 | Dreamy Snapgrid |
-| 168 | 78 | Jenn Dandle |
+| 166 | 79 | Jenn Dandle |
+| 167 | 79 | Amy Villalpando |
+| 168 | 79 | Dreamy Snapgrid |
 | 169 | 78 | Elizabeth Mauri |
 | 170 | 78 | Taghrid Ebeid |
 | 171 | 76 | Daring Rotator |
@@ -498,7 +498,7 @@
 | 490 | 24 | Jazmin Santos |
 | 491 | 24 | Jumpy Cascadeclear |
 | 492 | 24 | BendersMomma |
-| 493 | 23 | Alyssa Cox |
+| 493 | 23 | Ashley Grace |
 | 494 | 23 | Sha45 |
 | 495 | 23 | Cool Snapzone |
 | 496 | 23 | Sbs |
@@ -507,81 +507,81 @@
 | 499 | 23 | Clever Roll |
 | 500 | 23 | Misty Payne Maddox |
 | 501 | 23 | Frothy Chiseler |
-| 502 | 23 | Ashley Grace |
-| 503 | 23 | Staci Walker |
-| 504 | 23 | Tess Shaheen |
-| 505 | 23 | Sherri Morgan |
-| 506 | 22 | Swanky Tile |
-| 507 | 22 | Hyper Snap |
-| 508 | 22 | Cece Ibarra |
-| 509 | 22 | Tipsy Riseclear |
-| 510 | 22 | Elaina Temple |
-| 511 | 22 | JZoya  Scott |
+| 502 | 23 | Staci Walker |
+| 503 | 23 | Alyssa Cox |
+| 504 | 23 | Shea Ladynick Henderson |
+| 505 | 23 | Tess Shaheen |
+| 506 | 23 | Sherri Morgan |
+| 507 | 22 | Bash Bandit |
+| 508 | 22 | Shiny Zonegrid |
+| 509 | 22 | Becki Lynne Corinthos |
+| 510 | 22 | Swanky Tile |
+| 511 | 22 | Hyper Snap |
 | 512 | 22 | Evelyn Ens Paul |
-| 513 | 22 | Shiny Zonegrid |
-| 514 | 22 | Becki Lynne Corinthos |
-| 515 | 22 | Bash Bandit |
-| 516 | 21 | Fancy Builderfit |
-| 517 | 21 | Chill Tilefall |
-| 518 | 21 | 🍏 Green apple |
-| 519 | 21 | Poppy Jumper |
-| 520 | 21 | bigdad |
-| 521 | 20 | Pippa45 |
-| 522 | 20 | Melinda Davis |
+| 513 | 22 | JZoya  Scott |
+| 514 | 22 | Tipsy Riseclear |
+| 515 | 22 | Elaina Temple |
+| 516 | 22 | Cece Ibarra |
+| 517 | 21 | Poppy Jumper |
+| 518 | 21 | Fancy Builderfit |
+| 519 | 21 | 🍏 Green apple |
+| 520 | 21 | Chill Tilefall |
+| 521 | 21 | bigdad |
+| 522 | 20 | Susan L. Brown |
 | 523 | 20 | Justin Hains |
 | 524 | 20 | Weeping Angel |
 | 525 | 20 | Kristine Salinas |
 | 526 | 20 | Octavia Parker Ford |
 | 527 | 20 | cherry 🍒pie |
-| 528 | 20 | Dreamy Towerbuilder |
+| 528 | 20 | Melinda Davis |
 | 529 | 20 | Roberta Nelson |
-| 530 | 20 | Rachel Sadowski |
-| 531 | 20 | Nicole Lynnette Mahurin |
-| 532 | 20 | Junang Herowanto |
-| 533 | 20 | Susan L. Brown |
+| 530 | 20 | Dreamy Towerbuilder |
+| 531 | 20 | Rachel Sadowski |
+| 532 | 20 | Nicole Lynnette Mahurin |
+| 533 | 20 | Plucky Patternfit |
 | 534 | 20 | Brandy Hayhurst |
-| 535 | 20 | Joe Frazier |
+| 535 | 20 | Pippa45 |
 | 536 | 20 | Qing DG |
 | 537 | 20 | Susan Valentino |
-| 538 | 20 | Andrew Bowen |
+| 538 | 20 | Joe Frazier |
 | 539 | 20 | David Duncan |
 | 540 | 20 | Marie Riley |
-| 541 | 20 | Shea Ladynick Henderson |
+| 541 | 20 | Andrew Bowen |
 | 542 | 20 | Trice Sodames |
 | 543 | 20 | Matt Cinelli |
 | 544 | 20 | Derrell W. Barron |
-| 545 | 20 | fay |
-| 546 | 20 | Mel Thomas-Young |
+| 545 | 20 | Mel Thomas-Young |
+| 546 | 20 | fay |
 | 547 | 20 | Spice Ginger |
-| 548 | 20 | Amanda King |
-| 549 | 20 | Tiffany Leon |
+| 548 | 20 | Crystal Weaver |
+| 549 | 20 | Amanda King |
 | 550 | 20 | Aaron Dill |
-| 551 | 20 | Crystal Weaver |
+| 551 | 20 | Tiffany Leon |
 | 552 | 20 | Kristina Coleman |
-| 553 | 20 | Wacky Columnbuilder |
-| 554 | 20 | Leandre Johnson |
-| 555 | 20 | Plucky Patternfit |
+| 553 | 20 | Leandre Johnson |
+| 554 | 20 | Wacky Columnbuilder |
+| 555 | 20 | Mandi Mayweather |
 | 556 | 20 | MaryAnn Metz |
-| 557 | 20 | Mandi Mayweather |
-| 558 | 20 | Cozy Clearbuilder |
+| 557 | 20 | Cozy Clearbuilder |
+| 558 | 20 | Junang Herowanto |
 | 559 | 19 | Sarah Moyer |
 | 560 | 19 | Waya |
 | 561 | 19 | Snappy Link |
-| 562 | 19 | Lush Linkgrid |
-| 563 | 19 | Giddy Twistslam |
+| 562 | 19 | Giddy Twistslam |
+| 563 | 19 | Lush Linkgrid |
 | 564 | 19 | Gravytrain |
 | 565 | 19 | Mona Sharma |
-| 566 | 19 | Montiette Mcglown |
-| 567 | 19 | Asia M Kerr |
+| 566 | 19 | Asia M Kerr |
+| 567 | 19 | Smitters |
 | 568 | 19 | jess |
-| 569 | 19 | Smitters |
-| 570 | 19 | Roxana Shaffer Goff |
-| 571 | 19 | Sarah Fehring |
+| 569 | 19 | Roxana Shaffer Goff |
+| 570 | 19 | Sarah Fehring |
+| 571 | 19 | Montiette Mcglown |
 | 572 | 19 | Incandescent hatchet fish |
 | 573 | 19 | Hasty Wiper |
 | 574 | 19 | MaeMae |
-| 575 | 19 | Alexx Anaya |
-| 576 | 19 | Elizabeth Reed |
+| 575 | 19 | Elizabeth Reed |
+| 576 | 19 | Alexx Anaya |
 | 577 | 18 | Lela Berklund |
 | 578 | 18 | Steady Treal |
 | 579 | 18 | Zesty Balancefit |
