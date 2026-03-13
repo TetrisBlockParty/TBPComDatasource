@@ -1,6 +1,6 @@
-# Standings for team3 as of 2026-03-13 12:14:11 UTC
+# Standings for team3 as of 2026-03-13 12:15:12 UTC
 
-**Total Participants:** 43
+**Total Participants:** 49
 
 ## Participant Scores
 
@@ -8,47 +8,53 @@
 | :- | :- | :- |
 | 1 | 147 | Alisha |
 | 2 | 138 | Britney Lynch Caylor |
-| 3 | 46 | TriKaraTops |
-| 4 | 44 | TamiJo |
-| 5 | 35 | LaLa Anderson |
-| 6 | 30 | Kari Smith |
-| 7 | 30 | Kristine Roller |
-| 8 | 30 | Ty Quarles |
-| 9 | 29 | Beewee |
-| 10 | 26 | Spunky Holder |
-| 11 | 22 | Serena Catherine Coladonato |
-| 12 | 21 | Tiffany Gamble |
-| 13 | 20 | Aletha Williams |
-| 14 | 19 | Tievette Crum |
-| 15 | 18 | Amy Perry |
-| 16 | 17 | Laurie LeCroy |
-| 17 | 17 | Zippy Cascadeclear |
-| 18 | 16 | Plucky Gridroll |
-| 19 | 16 | Heather M Purcell |
-| 20 | 15 | DefaultUser |
-| 21 | 15 | Emily B Johnson |
-| 22 | 14 | Odysseus |
-| 23 | 14 | Sarah Berger |
-| 24 | 11 | Boo-Boo |
-| 25 | 11 | Juliet Weathers |
-| 26 | 10 | Candi |
-| 27 | 10 | Jason Grasso |
-| 28 | 10 | Jumpy Pivot |
-| 29 | 9 | Ashley Ingram |
-| 30 | 9 | Desiree Watson |
-| 31 | 7 | Tyleah Longmire |
-| 32 | 6 | Lazy Riserfit |
-| 33 | 6 | Dee Franklin |
-| 34 | 6 | Sir-Franchise Drake |
-| 35 | 6 | Saucy Column |
-| 36 | 5 | Tam |
-| 37 | 5 | Dizzy Gridzone |
-| 38 | 5 | Ron Laliberte |
-| 39 | 5 | Spencer Nikki |
-| 40 | 5 | Paula Morrison |
-| 41 | 5 | Mary |
-| 42 | 5 | Dreamy Drop |
-| 43 | 5 | Peachy Fall |
+| 3 | 80 | Ron Gonzalez |
+| 4 | 52 | Beth Naehrbass |
+| 5 | 46 | TriKaraTops |
+| 6 | 44 | TamiJo |
+| 7 | 35 | LaLa Anderson |
+| 8 | 30 | Kari Smith |
+| 9 | 30 | Kristine Roller |
+| 10 | 30 | Ty Quarles |
+| 11 | 29 | Beewee |
+| 12 | 26 | Spunky Holder |
+| 13 | 22 | Serena Catherine Coladonato |
+| 14 | 21 | Tiffany Gamble |
+| 15 | 20 | Aletha Williams |
+| 16 | 19 | Tievette Crum |
+| 17 | 18 | Amy Perry |
+| 18 | 17 | Zippy Cascadeclear |
+| 19 | 17 | Laurie LeCroy |
+| 20 | 16 | Heather M Purcell |
+| 21 | 16 | Plucky Gridroll |
+| 22 | 15 | Emily B Johnson |
+| 23 | 15 | Ashley Ingram |
+| 24 | 15 | DefaultUser |
+| 25 | 14 | Odysseus |
+| 26 | 14 | Sarah Berger |
+| 27 | 12 | Juliet Weathers |
+| 28 | 11 | Boo-Boo |
+| 29 | 10 | Candi |
+| 30 | 10 | Jumpy Pivot |
+| 31 | 10 | Jason Grasso |
+| 32 | 9 | Desiree Watson |
+| 33 | 9 | Ron Laliberte |
+| 34 | 8 | Katherine Rivera |
+| 35 | 7 | Tyleah Longmire |
+| 36 | 6 | Dee Franklin |
+| 37 | 6 | Lazy Riserfit |
+| 38 | 6 | Saucy Column |
+| 39 | 6 | FATHEAD |
+| 40 | 6 | Sir-Franchise Drake |
+| 41 | 5 | Terry Hickman Fort |
+| 42 | 5 | Paula Morrison |
+| 43 | 5 | Tam |
+| 44 | 5 | Peachy Fall |
+| 45 | 5 | Dreamy Drop |
+| 46 | 5 | Mary |
+| 47 | 5 | Spencer Nikki |
+| 48 | 5 | Michelle Andrea |
+| 49 | 5 | Dizzy Gridzone |
 
 ---
 *Standings created by tournaments datasource generation tool*

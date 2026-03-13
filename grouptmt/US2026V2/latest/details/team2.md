@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-03-13 12:14:11 UTC
+# Standings for team2 as of 2026-03-13 12:15:12 UTC
 
-**Total Participants:** 25
+**Total Participants:** 26
 
 ## Participant Scores
 
@@ -14,23 +14,24 @@
 | 6 | 28 | Tori Bowers |
 | 7 | 28 | Lindsey Anderson |
 | 8 | 25 | Melody Santiago |
-| 9 | 18 | Sha45 |
-| 10 | 18 | Kell Cinn |
-| 11 | 16 | Mackenzie Forrester |
-| 12 | 16 | Emilie Creswell |
-| 13 | 15 | Starr |
-| 14 | 14 | Kitty tet |
-| 15 | 12 | Hyper Pop |
-| 16 | 12 | Chloe S |
-| 17 | 9 | Jason Pence |
-| 18 | 9 | Daniel Moore |
-| 19 | 8 | BuzyBee |
-| 20 | 7 | Daring Rotator |
-| 21 | 6 | Shiny Framezone |
-| 22 | 6 | Lauressia MsLovaba Neil |
-| 23 | 5 | Abigail Stratton |
+| 9 | 24 | Starr |
+| 10 | 23 | Sha45 |
+| 11 | 20 | Andrew Bowen |
+| 12 | 18 | Kell Cinn |
+| 13 | 16 | Mackenzie Forrester |
+| 14 | 16 | Emilie Creswell |
+| 15 | 14 | Kitty tet |
+| 16 | 14 | Hyper Pop |
+| 17 | 12 | Chloe S |
+| 18 | 11 | Daring Rotator |
+| 19 | 9 | Jason Pence |
+| 20 | 9 | Daniel Moore |
+| 21 | 8 | BuzyBee |
+| 22 | 8 | Lauressia MsLovaba Neil |
+| 23 | 6 | Shiny Framezone |
 | 24 | 5 | Kevin Stultz |
 | 25 | 5 | Somthin |
+| 26 | 5 | Abigail Stratton |
 
 ---
 *Standings created by tournaments datasource generation tool*

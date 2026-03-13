@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-03-13 12:14:11 UTC
+# Standings for team4 as of 2026-03-13 12:15:12 UTC
 
-**Total Participants:** 34
+**Total Participants:** 36
 
 ## Participant Scores
 
@@ -13,33 +13,35 @@
 | 5 | 60 | Zeirela Selazno |
 | 6 | 58 | Joseph L Johnson |
 | 7 | 46 | Patricia White |
-| 8 | 36 | Monarca26 |
-| 9 | 30 | Abby Garcia |
-| 10 | 20 | LaKisha Anderson |
-| 11 | 20 | Albee Menina |
-| 12 | 19 | Rain |
-| 13 | 15 | Liseth Vasquez |
-| 14 | 15 | Jennjack |
-| 15 | 13 | Jared Nadler |
-| 16 | 12 | Dreamy Riserpiece |
+| 8 | 40 | LaKisha Anderson |
+| 9 | 36 | Monarca26 |
+| 10 | 30 | Perach Alima Shoa |
+| 11 | 30 | Abby Garcia |
+| 12 | 20 | Albee Menina |
+| 13 | 19 | Rain |
+| 14 | 18 | Liseth Vasquez |
+| 15 | 15 | Jennjack |
+| 16 | 13 | Jared Nadler |
 | 17 | 12 | Joy |
-| 18 | 11 | Alyssa Papen |
-| 19 | 10 | Ly Phethmany |
-| 20 | 10 | Chipper Tiler |
-| 21 | 10 | Clever Fitline |
-| 22 | 9 | Blockhead |
-| 23 | 9 | Cool Fitzone |
-| 24 | 9 | Tracey Ann Johnson |
-| 25 | 8 | Sadie Reeves |
-| 26 | 8 | Tammy |
-| 27 | 8 | Mimi |
-| 28 | 6 | Scott Jackson |
-| 29 | 6 | Ron Shaffer |
-| 30 | 5 | Jason Dickens |
-| 31 | 5 | POV7 |
-| 32 | 5 | Erin Sabol |
-| 33 | 5 | Cranky Grid |
-| 34 | 5 | Twot |
+| 18 | 12 | Dreamy Riserpiece |
+| 19 | 11 | Alyssa Papen |
+| 20 | 11 | Blockhead |
+| 21 | 10 | Chipper Tiler |
+| 22 | 10 | Clever Fitline |
+| 23 | 10 | Ly Phethmany |
+| 24 | 9 | Cool Fitzone |
+| 25 | 9 | Tracey Ann Johnson |
+| 26 | 8 | Sadie Reeves |
+| 27 | 8 | benjiwrld<3 |
+| 28 | 8 | Mimi |
+| 29 | 8 | Tammy |
+| 30 | 6 | Scott Jackson |
+| 31 | 6 | Ron Shaffer |
+| 32 | 5 | POV7 |
+| 33 | 5 | Jason Dickens |
+| 34 | 5 | Erin Sabol |
+| 35 | 5 | Cranky Grid |
+| 36 | 5 | Twot |
 
 ---
 *Standings created by tournaments datasource generation tool*
