@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-13 23:06:16 UTC
+# Standings for team2 as of 2026-03-13 23:06:35 UTC
 
 **Total Participants:** 877
 
@@ -678,93 +678,93 @@
 | 670 | 13 | Joe |
 | 671 | 13 | Phredda Compton |
 | 672 | 13 | Spencer John |
-| 673 | 13 | Elizabeth Blankenship |
-| 674 | 13 | Perky Rollfit |
+| 673 | 13 | Perky Rollfit |
+| 674 | 13 | Elizabeth Blankenship |
 | 675 | 13 | Christopher Mastropietro |
 | 676 | 13 | Dizzy Dasher |
 | 677 | 13 | Amanda |
 | 678 | 13 | Abimbola Bimbo |
-| 679 | 12 | Henry Lanier |
-| 680 | 12 | Poppy Liney |
+| 679 | 12 | Jen Robinson |
+| 680 | 12 | Henry Lanier |
 | 681 | 12 | Tiarra Swan |
 | 682 | 12 | Lucy Honer |
 | 683 | 12 | krae |
 | 684 | 12 | Jay |
 | 685 | 12 | Trisha Balmer |
 | 686 | 12 | Amber Starr Drinnon |
-| 687 | 12 | Jen Robinson |
+| 687 | 12 | Poppy Liney |
 | 688 | 12 | Lien |
 | 689 | 12 | Dapper Stacker |
 | 690 | 12 | Alexis Seath |
 | 691 | 12 | Elliana |
-| 692 | 12 | Kirk Maxon |
-| 693 | 12 | Tonya Amen |
-| 694 | 12 | Chipper Puzzler |
-| 695 | 12 | Chirpy Dash |
-| 696 | 12 | Shirley Petty |
-| 697 | 12 | Shane Gann |
+| 692 | 12 | Tonya Amen |
+| 693 | 12 | Kirk Maxon |
+| 694 | 12 | Chirpy Dash |
+| 695 | 12 | Shirley Petty |
+| 696 | 12 | Shane Gann |
+| 697 | 12 | Chipper Puzzler |
 | 698 | 12 | Blacc Blac |
 | 699 | 12 | Nicole Henely |
 | 700 | 12 | JaneWacky Balancefit |
 | 701 | 12 | Candy Brooks |
-| 702 | 11 | Spunky Balancefit |
-| 703 | 11 | Topsannah Topsannah |
-| 704 | 11 | Haley Bell |
-| 705 | 11 | Chummy Cascadepiece |
-| 706 | 11 | Lisa Beckort |
-| 707 | 11 | Sara Knapp |
-| 708 | 11 | Brianna Haywood |
-| 709 | 11 | Jeremy Steines |
-| 710 | 11 | Lisa Duncan |
-| 711 | 11 | Jo Jo |
-| 712 | 11 | Zany Blockfall |
-| 713 | 11 | BEANS |
-| 714 | 11 | Sassy Dashgrid |
-| 715 | 11 | Breezy |
-| 716 | 11 | Cassandra King Tyler |
-| 717 | 11 | Jackson Karen |
-| 718 | 11 | Torie Snyder |
-| 719 | 11 | Jaz Sky |
-| 720 | 11 | Michele Baucom |
-| 721 | 11 | JollyCrusher |
-| 722 | 10 | ginger |
-| 723 | 10 | Cheeky Snapfit |
-| 724 | 10 | Thomas Harmon |
-| 725 | 10 | Blockyboyyy |
-| 726 | 10 | Linda A Cowles |
-| 727 | 10 | bob |
-| 728 | 10 | PartyStarter |
-| 729 | 10 | Ashley Jayne Phillips |
-| 730 | 10 | Lauren Bailey |
-| 731 | 10 | Vickie Briggs |
-| 732 | 10 | Scott Smith |
-| 733 | 10 | Brenda Chouinard |
-| 734 | 10 | Trouble |
-| 735 | 10 | Anita Johnson |
-| 736 | 10 | April C Theriault Foote |
-| 737 | 10 | Owitty |
-| 738 | 10 | Harley Q |
-| 739 | 10 | Zesty Faller |
-| 740 | 10 | John De Guzman Sydiongco |
-| 741 | 10 | Janet Eberhard |
-| 742 | 10 | Ultramarine |
-| 743 | 9 | Cranky Caster |
-| 744 | 9 | Sylvie Lemoine |
-| 745 | 9 | Liz Franke |
+| 702 | 11 | Topsannah Topsannah |
+| 703 | 11 | Jo Jo |
+| 704 | 11 | Spunky Balancefit |
+| 705 | 11 | KEILANIU |
+| 706 | 11 | Haley Bell |
+| 707 | 11 | Lisa Beckort |
+| 708 | 11 | Sara Knapp |
+| 709 | 11 | Brianna Haywood |
+| 710 | 11 | BEANS |
+| 711 | 11 | Jeremy Steines |
+| 712 | 11 | Lisa Duncan |
+| 713 | 11 | Chummy Cascadepiece |
+| 714 | 11 | Jackson Karen |
+| 715 | 11 | JollyCrusher |
+| 716 | 11 | Michele Baucom |
+| 717 | 11 | Jaz Sky |
+| 718 | 11 | Sassy Dashgrid |
+| 719 | 11 | Breezy |
+| 720 | 11 | Cassandra King Tyler |
+| 721 | 11 | Torie Snyder |
+| 722 | 11 | Zany Blockfall |
+| 723 | 10 | PartyStarter |
+| 724 | 10 | Ashley Jayne Phillips |
+| 725 | 10 | Linda A Cowles |
+| 726 | 10 | Blockyboyyy |
+| 727 | 10 | Thomas Harmon |
+| 728 | 10 | ginger |
+| 729 | 10 | Cheeky Snapfit |
+| 730 | 10 | bob |
+| 731 | 10 | Lauren Bailey |
+| 732 | 10 | Vickie Briggs |
+| 733 | 10 | Scott Smith |
+| 734 | 10 | Brenda Chouinard |
+| 735 | 10 | Trouble |
+| 736 | 10 | Anita Johnson |
+| 737 | 10 | April C Theriault Foote |
+| 738 | 10 | Owitty |
+| 739 | 10 | Harley Q |
+| 740 | 10 | Zesty Faller |
+| 741 | 10 | Ultramarine |
+| 742 | 10 | John De Guzman Sydiongco |
+| 743 | 10 | Janet Eberhard |
+| 744 | 9 | Liz Franke |
+| 745 | 9 | Amber Fore |
 | 746 | 9 | Giggly Clearzone |
 | 747 | 9 | Cranky Gridder |
-| 748 | 9 | Nyiesha Aikens |
-| 749 | 9 | Riane Sussman |
-| 750 | 9 | Destiny Brady |
-| 751 | 9 | Lamarr Drayton |
-| 752 | 9 | sweetpea |
-| 753 | 9 | p3ttyboop |
-| 754 | 9 | Shawn Haines |
-| 755 | 9 | KEILANIU |
-| 756 | 9 | Ieisha Scruggs Webb |
-| 757 | 9 | Lauressia MsLovaba Neil |
-| 758 | 9 | Malcolm Annias Flamer |
-| 759 | 9 | Amber Fore |
+| 748 | 9 | Destiny Brady |
+| 749 | 9 | Nyiesha Aikens |
+| 750 | 9 | Riane Sussman |
+| 751 | 9 | Cranky Caster |
+| 752 | 9 | Lamarr Drayton |
+| 753 | 9 | sweetpea |
+| 754 | 9 | Lauressia MsLovaba Neil |
+| 755 | 9 | p3ttyboop |
+| 756 | 9 | Shawn Haines |
+| 757 | 9 | Sylvie Lemoine |
+| 758 | 9 | Ieisha Scruggs Webb |
+| 759 | 9 | Malcolm Annias Flamer |
 | 760 | 9 | Tig’o Biggie |
 | 761 | 9 | Kristy Mullins |
 | 762 | 9 | LaChalle Shay |
