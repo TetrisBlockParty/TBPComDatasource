@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 18:56:13 UTC
+# Standings for team1 as of 2026-03-13 18:56:33 UTC
 
 **Total Participants:** 561
 
@@ -22,15 +22,15 @@
 | 14 | 548 | Robert Jansen |
 | 15 | 500 | Bryan Stockwell |
 | 16 | 471 | Devinlee Brown |
-| 17 | 436 | Nikita Nelson |
-| 18 | 428 | Amy Dial Brown |
-| 19 | 371 | Sheree Twiddy Thornton |
-| 20 | 360 | Paul Smiar |
-| 21 | 344 | Giddy Cascade |
-| 22 | 284 | Hellsin |
-| 23 | 278 | Donavon Krahn |
-| 24 | 257 | Hasbro Bros |
-| 25 | 250 | Megan Klinkner |
+| 17 | 443 | Megan Klinkner |
+| 18 | 436 | Nikita Nelson |
+| 19 | 428 | Amy Dial Brown |
+| 20 | 371 | Sheree Twiddy Thornton |
+| 21 | 360 | Paul Smiar |
+| 22 | 344 | Giddy Cascade |
+| 23 | 284 | Hellsin |
+| 24 | 278 | Donavon Krahn |
+| 25 | 257 | Hasbro Bros |
 | 26 | 249 | Tatiyana Holm |
 | 27 | 240 | Brad Oneill |
 | 28 | 218 | Jr_420 |
@@ -56,7 +56,7 @@
 | 48 | 137 | Bigmoco |
 | 49 | 136 | Sunny Swiper |
 | 50 | 135 | Ramona Gulledge |
-| 51 | 129 | Xande NO Lie Williams |
+| 51 | 131 | Xande NO Lie Williams |
 | 52 | 124 | Mighty Patternbuilder |
 | 53 | 123 | Jena Overall Prescott |
 | 54 | 115 | Tanya Carpenter-Reynolds |
@@ -148,14 +148,14 @@
 | 140 | 50 | Goofy Linkblock |
 | 141 | 49 | Jeremy Mitchell |
 | 142 | 49 | Dale |
-| 143 | 48 | Bold Clear |
-| 144 | 47 | iceman |
-| 145 | 47 | Snazzy Rotater |
-| 146 | 47 | Tyle Armstead |
-| 147 | 47 | DoodleBug |
-| 148 | 46 | Matthew Laudico |
-| 149 | 45 | Frisky Glidebuilder |
-| 150 | 44 | Kat Kath |
+| 143 | 48 | Kat Kath |
+| 144 | 48 | Bold Clear |
+| 145 | 47 | iceman |
+| 146 | 47 | Snazzy Rotater |
+| 147 | 47 | Tyle Armstead |
+| 148 | 47 | DoodleBug |
+| 149 | 46 | Matthew Laudico |
+| 150 | 45 | Frisky Glidebuilder |
 | 151 | 44 | Bold Zonegrid |
 | 152 | 44 | Neko Preston |
 | 153 | 44 | Michael Felker |
@@ -246,28 +246,28 @@
 | 238 | 28 | Zany Patternfit |
 | 239 | 28 | Marianne Elizabeth Mills |
 | 240 | 28 | slim |
-| 241 | 27 | Bean |
-| 242 | 27 | Nerdy Shatterline |
-| 243 | 27 | Dani Giles |
+| 241 | 27 | Dani Giles |
+| 242 | 27 | Bean |
+| 243 | 27 | Nerdy Shatterline |
 | 244 | 27 | Pig02 |
 | 245 | 27 | Samo |
 | 246 | 27 | Joy Bloodworth |
 | 247 | 27 | Melissa Arrellano |
-| 248 | 26 | Angela Brown Babin |
+| 248 | 26 | Amber Nicole |
 | 249 | 26 | Christi Ames |
 | 250 | 26 | Bribrobra |
-| 251 | 26 | Amber Nicole |
-| 252 | 26 | Spicy Clearpiece |
-| 253 | 26 | Plucky Dashgrid |
-| 254 | 26 | Rose Anna |
-| 255 | 26 | Bubbly Patterner |
-| 256 | 26 | Cassie Lathem |
-| 257 | 25 | Crystal Swigart |
+| 251 | 26 | Angela Brown Babin |
+| 252 | 26 | Oscar Ferguson |
+| 253 | 26 | Spicy Clearpiece |
+| 254 | 26 | Plucky Dashgrid |
+| 255 | 26 | Rose Anna |
+| 256 | 26 | Bubbly Patterner |
+| 257 | 26 | Cassie Lathem |
 | 258 | 25 | Aaron Arenivaz |
-| 259 | 25 | PennyCandee |
-| 260 | 25 | Pam Jennings Herzog |
-| 261 | 25 | Carl Hampton |
-| 262 | 25 | Oscar Ferguson |
+| 259 | 25 | Crystal Swigart |
+| 260 | 25 | PennyCandee |
+| 261 | 25 | Pam Jennings Herzog |
+| 262 | 25 | Carl Hampton |
 | 263 | 25 | Jessica Lang |
 | 264 | 25 | Flashy Clicker |
 | 265 | 25 | Haley Anne |
