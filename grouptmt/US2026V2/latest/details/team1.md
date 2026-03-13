@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-03-13 18:28:14 UTC
+# Standings for team1 as of 2026-03-13 18:29:13 UTC
 
-**Total Participants:** 520
+**Total Participants:** 521
 
 ## Participant Scores
 
@@ -9,7 +9,7 @@
 | 1 | 5922 | Donna Wilkinson |
 | 2 | 2766 | Dizzy Stagger |
 | 3 | 2012 | Hyper |
-| 4 | 1553 | William George Weglage III |
+| 4 | 1653 | William George Weglage III |
 | 5 | 941 | Kris Hudelson |
 | 6 | 855 | Amanda Sheppard |
 | 7 | 843 | Tashanna Harvey |
@@ -34,10 +34,10 @@
 | 26 | 202 | TRCuse |
 | 27 | 180 | Cheeky Crusher |
 | 28 | 176 | Sarah Stanonik |
-| 29 | 170 | Shawna Days |
-| 30 | 170 | @n@luvmakin |
-| 31 | 166 | Ramon Salazar |
-| 32 | 164 | Jessi Sauer |
+| 29 | 171 | Jessi Sauer |
+| 30 | 170 | Shawna Days |
+| 31 | 170 | @n@luvmakin |
+| 32 | 166 | Ramon Salazar |
 | 33 | 163 | Amber Zeller Rice |
 | 34 | 161 | Nutty Cascadefit |
 | 35 | 159 | Liliana Pena |
@@ -48,7 +48,7 @@
 | 40 | 147 | raffyG |
 | 41 | 137 | Bigmoco |
 | 42 | 136 | Sunny Swiper |
-| 43 | 130 | Peachy Brick |
+| 43 | 135 | Peachy Brick |
 | 44 | 129 | Xande NO Lie Williams |
 | 45 | 124 | Mighty Patternbuilder |
 | 46 | 123 | Megan Klinkner |
@@ -69,12 +69,12 @@
 | 61 | 87 | Lynn Perkins |
 | 62 | 85 | Pheezy |
 | 63 | 85 | Cassandra Latimore |
-| 64 | 80 | JustMeNonna |
-| 65 | 80 | Diane |
-| 66 | 80 | Tina Blessed Cage |
-| 67 | 78 | Nanan Nanan |
-| 68 | 78 | Rennon Scott Wilson |
-| 69 | 78 | NunYa |
+| 64 | 80 | Tina Blessed Cage |
+| 65 | 80 | JustMeNonna |
+| 66 | 80 | Diane |
+| 67 | 78 | Rennon Scott Wilson |
+| 68 | 78 | NunYa |
+| 69 | 78 | Nanan Nanan |
 | 70 | 76 | Tig |
 | 71 | 75 | Marie Helman |
 | 72 | 74 | Hasty Lift |
@@ -83,59 +83,59 @@
 | 75 | 72 | Sam Steig |
 | 76 | 71 | Kellia S Johnson |
 | 77 | 70 | Amy R Clinton |
-| 78 | 68 | Legendary |
-| 79 | 68 | Happy Shatterfit |
-| 80 | 68 | Witty Wipegrid |
-| 81 | 66 | Lauren Bond |
-| 82 | 66 | Peachy Curvetile |
+| 78 | 68 | Happy Shatterfit |
+| 79 | 68 | Witty Wipegrid |
+| 80 | 68 | Legendary |
+| 81 | 66 | Peachy Curvetile |
+| 82 | 66 | Lauren Bond |
 | 83 | 65 | Mufi25 |
 | 84 | 64 | Loverlylove |
 | 85 | 63 | Becca Gatrell Barton |
-| 86 | 61 | Elyse YL |
-| 87 | 61 | Sassy Cascadepiece |
-| 88 | 61 | 1_Roxanne_3 |
-| 89 | 61 | Witty Clusterfit |
-| 90 | 61 | Margo Fenton |
-| 91 | 60 | Alezandra Smith |
+| 86 | 61 | Margo Fenton |
+| 87 | 61 | Witty Clusterfit |
+| 88 | 61 | Sassy Cascadepiece |
+| 89 | 61 | Elyse YL |
+| 90 | 61 | 1_Roxanne_3 |
+| 91 | 60 | Bennett Hunter |
 | 92 | 60 | Al Smith Jr |
-| 93 | 60 | Yolanda M Harris |
-| 94 | 60 | Bennett Hunter |
-| 95 | 60 | Jodi Fichter |
-| 96 | 60 | Rebecca Wilson |
-| 97 | 60 | S Gale Holton |
-| 98 | 60 | Tami Luce Martin |
-| 99 | 60 | Simmone T. Kadiri |
-| 100 | 60 | Dee |
+| 93 | 60 | S Gale Holton |
+| 94 | 60 | Jodi Fichter |
+| 95 | 60 | Rebecca Wilson |
+| 96 | 60 | Yolanda M Harris |
+| 97 | 60 | Tami Luce Martin |
+| 98 | 60 | Alezandra Smith |
+| 99 | 60 | Dee |
+| 100 | 60 | Simmone T. Kadiri |
 | 101 | 59 | Marianne Lopez |
 | 102 | 58 | QueenBee |
-| 103 | 58 | Frilly Climber |
-| 104 | 58 | Jennifer Traywick |
-| 105 | 57 | SpaceCase085 |
-| 106 | 57 | Heather Bell |
-| 107 | 57 | Lori Dutton |
-| 108 | 55 | Teresa Wolf |
-| 109 | 55 | Adam McMakin |
-| 110 | 55 | Sabrina Frazier |
-| 111 | 55 | Vergie Michael |
-| 112 | 54 | Gina Annese |
-| 113 | 53 | Tisha Cammack |
+| 103 | 58 | Jennifer Traywick |
+| 104 | 58 | Frilly Climber |
+| 105 | 57 | Heather Bell |
+| 106 | 57 | Lori Dutton |
+| 107 | 57 | SpaceCase085 |
+| 108 | 55 | Vergie Michael |
+| 109 | 55 | Sabrina Frazier |
+| 110 | 55 | Adam McMakin |
+| 111 | 55 | Teresa Wolf |
+| 112 | 55 | Rebekah LeiAnn Bonsell |
+| 113 | 54 | Gina Annese |
 | 114 | 53 | Chilly Matchbuilder |
 | 115 | 53 | Mykal Burton |
-| 116 | 53 | Zany Tower |
-| 117 | 52 | Itn |
-| 118 | 52 | Scott Disedare |
-| 119 | 52 | Donald Nguyen |
-| 120 | 52 | Melody Rene |
-| 121 | 51 | Joyce Harrell-chavis |
-| 122 | 51 | Yolanda Quinn |
-| 123 | 50 | Goofy Linkblock |
-| 124 | 50 | CL Meyer |
-| 125 | 50 | Aponk |
-| 126 | 50 | Chill Shiftspin |
-| 127 | 50 | Andy Harris |
-| 128 | 49 | Shiny Party |
-| 129 | 49 | Dale |
-| 130 | 49 | Rebekah LeiAnn Bonsell |
+| 116 | 53 | Tisha Cammack |
+| 117 | 53 | Zany Tower |
+| 118 | 52 | Donald Nguyen |
+| 119 | 52 | Itn |
+| 120 | 52 | Scott Disedare |
+| 121 | 52 | Melody Rene |
+| 122 | 51 | Joyce Harrell-chavis |
+| 123 | 51 | Yolanda Quinn |
+| 124 | 50 | Goofy Linkblock |
+| 125 | 50 | CL Meyer |
+| 126 | 50 | Aponk |
+| 127 | 50 | Chill Shiftspin |
+| 128 | 50 | Andy Harris |
+| 129 | 49 | Shiny Party |
+| 130 | 49 | Dale |
 | 131 | 48 | Jena Overall Prescott |
 | 132 | 48 | Bold Clear |
 | 133 | 47 | Tyle Armstead |
@@ -464,68 +464,69 @@
 | 456 | 7 | Trey Petty |
 | 457 | 7 | OmniJoy |
 | 458 | 7 | Dace Zoltners |
-| 459 | 7 | Randy Bowers |
+| 459 | 7 | Darlene |
 | 460 | 7 | freakyjoe |
-| 461 | 7 | key |
-| 462 | 7 | MrsW |
-| 463 | 7 | meh |
-| 464 | 7 | Missy Lynn |
-| 465 | 7 | Jennifer Kime |
-| 466 | 7 | April McGuffie |
-| 467 | 7 | waylow |
-| 468 | 7 | Darlene |
-| 469 | 7 | Bouncy Tilerpiece |
-| 470 | 7 | Cool Base |
-| 471 | 7 | Josh Barringer |
+| 461 | 7 | Randy Bowers |
+| 462 | 7 | Missy Lynn |
+| 463 | 7 | key |
+| 464 | 7 | April McGuffie |
+| 465 | 7 | waylow |
+| 466 | 7 | MrsW |
+| 467 | 7 | Bouncy Tilerpiece |
+| 468 | 7 | Cool Base |
+| 469 | 7 | meh |
+| 470 | 7 | Josh Barringer |
+| 471 | 7 | Jennifer Kime |
 | 472 | 7 | Christie Reynolds |
-| 473 | 6 | Tyrell Harvin |
-| 474 | 6 | Jpapi |
-| 475 | 6 | cac |
-| 476 | 6 | Jody Jackson |
-| 477 | 6 | Slinky Setter |
-| 478 | 6 | Kristen Rhoads |
-| 479 | 6 | Jack Mattiace |
-| 480 | 6 | Randy Clevenger |
+| 473 | 6 | Jack Mattiace |
+| 474 | 6 | cac |
+| 475 | 6 | ghxsty |
+| 476 | 6 | Breezy Ivy |
+| 477 | 6 | Kristen Rhoads |
+| 478 | 6 | ajx |
+| 479 | 6 | Dizzy Pattern |
+| 480 | 6 | Jpapi |
 | 481 | 6 | Monica Blu |
-| 482 | 6 | ghxsty |
-| 483 | 6 | Breezy Ivy |
-| 484 | 6 | ajx |
-| 485 | 6 | Dizzy Pattern |
-| 486 | 6 | Snippy Tilerpiece |
-| 487 | 6 | Pupcup |
-| 488 | 6 | flip |
-| 489 | 6 | dustin b |
-| 490 | 6 | Flashy Rotator |
+| 482 | 6 | Randy Clevenger |
+| 483 | 6 | Slinky Setter |
+| 484 | 6 | Jody Jackson |
+| 485 | 6 | Tjango |
+| 486 | 6 | Breezy Block |
+| 487 | 6 | Antoinette Rhinesmith |
+| 488 | 6 | dustin b |
+| 489 | 6 | Amber Jackson |
+| 490 | 6 | Austin Wilson |
 | 491 | 6 | Gary Francis Schaffer Jr |
-| 492 | 6 | Lil H |
-| 493 | 6 | Austin Wilson |
-| 494 | 6 | Antoinette Rhinesmith |
-| 495 | 6 | mrkw |
-| 496 | 6 | Breezy Block |
-| 497 | 6 | Amber Jackson |
-| 498 | 6 | Tjango |
-| 499 | 5 | Fancy Tilefall |
-| 500 | 5 | Slinky Dashgrid |
+| 492 | 6 | flip |
+| 493 | 6 | mrkw |
+| 494 | 6 | Snippy Tilerpiece |
+| 495 | 6 | Flashy Rotator |
+| 496 | 6 | Lil H |
+| 497 | 6 | Pupcup |
+| 498 | 6 | Tyrell Harvin |
+| 499 | 5 | Charis Stoner |
+| 500 | 5 | Victoria Montenegro Martinez |
 | 501 | 5 | LadyKuSh |
-| 502 | 5 | Terry Dill |
+| 502 | 5 | Angela Renea Lester |
 | 503 | 5 | Samantha Bugg Stitcher |
-| 504 | 5 | Sarajo Clauson |
-| 505 | 5 | Troy Gussler |
-| 506 | 5 | Charis Stoner |
-| 507 | 5 | Angela Renea Lester |
-| 508 | 5 | Moretattsdenscars |
-| 509 | 5 | Armoni |
-| 510 | 5 | Slinky Stacky |
-| 511 | 5 | Tony Lighthizer |
-| 512 | 5 | Lulu C Harp |
-| 513 | 5 | Jennifer Brown |
-| 514 | 5 | Victoria Montenegro Martinez |
-| 515 | 5 | Chrys Peters |
-| 516 | 5 | Benjamin Ford |
-| 517 | 5 | MissySai TooRude Ladson |
-| 518 | 5 | Angela Brown Babin |
-| 519 | 5 | Larry McRae |
-| 520 | 5 | Ras David |
+| 504 | 5 | Moretattsdenscars |
+| 505 | 5 | Slinky Dashgrid |
+| 506 | 5 | Armoni |
+| 507 | 5 | Fancy Tilefall |
+| 508 | 5 | Slinky Stacky |
+| 509 | 5 | Chrys Peters |
+| 510 | 5 | Benjamin Ford |
+| 511 | 5 | Jennifer Brown |
+| 512 | 5 | Terry Dill |
+| 513 | 5 | MissySai TooRude Ladson |
+| 514 | 5 | Ras David |
+| 515 | 5 | Angela Brown Babin |
+| 516 | 5 | Larry McRae |
+| 517 | 5 | Lulu C Harp |
+| 518 | 5 | Muhammad |
+| 519 | 5 | Tony Lighthizer |
+| 520 | 5 | Sarajo Clauson |
+| 521 | 5 | Troy Gussler |
 
 ---
 *Standings created by tournaments datasource generation tool*
