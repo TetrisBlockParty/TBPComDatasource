@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 13:32:32 UTC
+# Standings for team1 as of 2026-03-13 13:33:11 UTC
 
 **Total Participants:** 157
 
@@ -147,22 +147,22 @@
 | 139 | 6 | Robert Coulter |
 | 140 | 6 | Tina Kocher Zimmerman |
 | 141 | 6 | Randy Clevenger |
-| 142 | 6 | Monica Blu |
-| 143 | 6 | Sunny Swiper |
-| 144 | 6 | Kristen Rhoads |
-| 145 | 6 | Liz M Durfee |
-| 146 | 6 | Dizzy Pattern |
-| 147 | 6 | Zuul Gatekeeper |
-| 148 | 6 | Jack Mattiace |
-| 149 | 5 | Samantha Bugg Stitcher |
-| 150 | 5 | Jennifer Brown |
-| 151 | 5 | Flashy Clicker |
-| 152 | 5 | MissySai TooRude Ladson |
-| 153 | 5 | Armin Muhamed |
-| 154 | 5 | Perky Clusterbuilder |
-| 155 | 5 | freakyjoe |
-| 156 | 5 | Victoria Montenegro Martinez |
-| 157 | 5 | Sarajo Clauson |
+| 142 | 6 | Liz M Durfee |
+| 143 | 6 | Dizzy Pattern |
+| 144 | 6 | Jack Mattiace |
+| 145 | 6 | Zuul Gatekeeper |
+| 146 | 6 | Kristen Rhoads |
+| 147 | 6 | Sunny Swiper |
+| 148 | 6 | Monica Blu |
+| 149 | 5 | Perky Clusterbuilder |
+| 150 | 5 | Armin Muhamed |
+| 151 | 5 | MissySai TooRude Ladson |
+| 152 | 5 | Sarajo Clauson |
+| 153 | 5 | freakyjoe |
+| 154 | 5 | Victoria Montenegro Martinez |
+| 155 | 5 | Flashy Clicker |
+| 156 | 5 | Jennifer Brown |
+| 157 | 5 | Samantha Bugg Stitcher |
 
 ---
 *Standings created by tournaments datasource generation tool*
