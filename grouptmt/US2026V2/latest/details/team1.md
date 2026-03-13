@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 16:50:37 UTC
+# Standings for team1 as of 2026-03-13 16:51:12 UTC
 
 **Total Participants:** 403
 
@@ -11,14 +11,14 @@
 | 3 | 2012 | Hyper |
 | 4 | 941 | Kris Hudelson |
 | 5 | 644 | William George Weglage III |
-| 6 | 548 | Robert Jansen |
-| 7 | 542 | Amy Roche |
-| 8 | 479 | Vistabrat |
+| 6 | 579 | Vistabrat |
+| 7 | 548 | Robert Jansen |
+| 8 | 542 | Amy Roche |
 | 9 | 468 | Amanda Sheppard |
 | 10 | 436 | Nikita Nelson |
-| 11 | 412 | Amy Dial Brown |
-| 12 | 360 | Paul Smiar |
-| 13 | 352 | phrmblk24 |
+| 11 | 417 | phrmblk24 |
+| 12 | 412 | Amy Dial Brown |
+| 13 | 360 | Paul Smiar |
 | 14 | 344 | Giddy Cascade |
 | 15 | 284 | Hellsin |
 | 16 | 266 | Tashanna Harvey |
@@ -46,7 +46,7 @@
 | 38 | 106 | Albert Josef Toves Means Jr. |
 | 39 | 99 | Hhholmesjr |
 | 40 | 91 | Walter Beltran |
-| 41 | 87 | Peachy Brick |
+| 41 | 88 | Peachy Brick |
 | 42 | 85 | Cassandra Latimore |
 | 43 | 85 | Pheezy |
 | 44 | 80 | Tina Blessed Cage |
@@ -203,30 +203,30 @@
 | 195 | 20 | Oscar Ferguson |
 | 196 | 20 | Bubba |
 | 197 | 20 | Allena Craft |
-| 198 | 20 | Shawn Septer |
-| 199 | 20 | Natalia RX Beyer |
+| 198 | 20 | Natalia RX Beyer |
+| 199 | 20 | tiffany |
 | 200 | 20 | John Morris |
-| 201 | 20 | tiffany |
-| 202 | 19 | Jessica Marie Long |
-| 203 | 19 | cool kat |
-| 204 | 19 | Epic Fallzone |
-| 205 | 19 | Tammy Griffee |
-| 206 | 18 | Timothy Long |
+| 201 | 20 | Shawn Septer |
+| 202 | 19 | Tammy Griffee |
+| 203 | 19 | Noah Lalonde |
+| 204 | 19 | cool kat |
+| 205 | 19 | Jessica Marie Long |
+| 206 | 19 | Epic Fallzone |
 | 207 | 18 | Elizabeth Hughes |
-| 208 | 18 | Gregg Scott |
-| 209 | 18 | Bingo Wingo |
-| 210 | 18 | Giggly Twistslam |
-| 211 | 18 | Dawn Fike |
-| 212 | 18 | Matt Aguilar |
-| 213 | 18 | Jacob Phillips |
-| 214 | 18 | Joy Bloodworth |
-| 215 | 17 | Amy Sanford |
-| 216 | 17 | Trina Gee |
-| 217 | 17 | Tracy Priceless Gholston |
-| 218 | 17 | Lisa Marie Sansom |
-| 219 | 17 | Cannaman710 |
-| 220 | 17 | TheKBr0 |
-| 221 | 17 | Noah Lalonde |
+| 208 | 18 | Giggly Twistslam |
+| 209 | 18 | Gregg Scott |
+| 210 | 18 | Timothy Long |
+| 211 | 18 | Bingo Wingo |
+| 212 | 18 | Dawn Fike |
+| 213 | 18 | Matt Aguilar |
+| 214 | 18 | Jacob Phillips |
+| 215 | 18 | Joy Bloodworth |
+| 216 | 17 | Amy Sanford |
+| 217 | 17 | Trina Gee |
+| 218 | 17 | Tracy Priceless Gholston |
+| 219 | 17 | Lisa Marie Sansom |
+| 220 | 17 | Cannaman710 |
+| 221 | 17 | TheKBr0 |
 | 222 | 17 | Raynsera |
 | 223 | 16 | Anne Garcia |
 | 224 | 16 | Bearman |
@@ -370,7 +370,7 @@
 | 362 | 6 | Dizzy Pattern |
 | 363 | 6 | Lil H |
 | 364 | 6 | Zuul Gatekeeper |
-| 365 | 6 | Nanan Nanan |
+| 365 | 6 | Snippy Tilerpiece |
 | 366 | 6 | Jack Mattiace |
 | 367 | 6 | Monica Blu |
 | 368 | 6 | Randy Clevenger |
@@ -380,34 +380,34 @@
 | 372 | 6 | Erin Hodges Plumb |
 | 373 | 6 | Breezy Block |
 | 374 | 6 | Antoinette Rhinesmith |
-| 375 | 6 | Snippy Tilerpiece |
+| 375 | 6 | Nanan Nanan |
 | 376 | 6 | Tyrell Harvin |
 | 377 | 6 | mrkw |
 | 378 | 6 | Amber Jackson |
-| 379 | 6 | Austin Wilson |
-| 380 | 6 | Gary Francis Schaffer Jr |
-| 381 | 6 | flip |
-| 382 | 6 | Velt Richardson |
+| 379 | 6 | Randy Bowers |
+| 380 | 6 | Austin Wilson |
+| 381 | 6 | Gary Francis Schaffer Jr |
+| 382 | 6 | flip |
 | 383 | 6 | cac |
-| 384 | 6 | Kristen Rhoads |
-| 385 | 5 | Angela Renea Lester |
-| 386 | 5 | Tony Lighthizer |
-| 387 | 5 | Armoni |
-| 388 | 5 | Flashy Clicker |
+| 384 | 6 | Velt Richardson |
+| 385 | 6 | Kristen Rhoads |
+| 386 | 5 | Angela Renea Lester |
+| 387 | 5 | MissySai TooRude Ladson |
+| 388 | 5 | Armoni |
 | 389 | 5 | Slinky Stacky |
-| 390 | 5 | Samantha Bugg Stitcher |
-| 391 | 5 | Randy Bowers |
-| 392 | 5 | Hasty Builderpiece |
-| 393 | 5 | Armin Muhamed |
-| 394 | 5 | MissySai TooRude Ladson |
-| 395 | 5 | Perky Clusterbuilder |
-| 396 | 5 | Victoria Montenegro Martinez |
-| 397 | 5 | Sarajo Clauson |
-| 398 | 5 | Troy Gussler |
-| 399 | 5 | Jennifer Brown |
-| 400 | 5 | Terry Dill |
-| 401 | 5 | Cynthia Herrmann Egland |
-| 402 | 5 | Ras David |
+| 390 | 5 | Flashy Clicker |
+| 391 | 5 | Tony Lighthizer |
+| 392 | 5 | Samantha Bugg Stitcher |
+| 393 | 5 | Ras David |
+| 394 | 5 | Cynthia Herrmann Egland |
+| 395 | 5 | Terry Dill |
+| 396 | 5 | Jennifer Brown |
+| 397 | 5 | Troy Gussler |
+| 398 | 5 | Sarajo Clauson |
+| 399 | 5 | Armin Muhamed |
+| 400 | 5 | Victoria Montenegro Martinez |
+| 401 | 5 | Perky Clusterbuilder |
+| 402 | 5 | Hasty Builderpiece |
 | 403 | 5 | Slinky Dashgrid |
 
 ---
