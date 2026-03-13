@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-03-13 12:16:33 UTC
+# Standings for team4 as of 2026-03-13 12:17:10 UTC
 
-**Total Participants:** 37
+**Total Participants:** 43
 
 ## Participant Scores
 
@@ -24,25 +24,31 @@
 | 16 | 15 | Jennjack |
 | 17 | 14 | Dreamy Riserpiece |
 | 18 | 13 | Jared Nadler |
-| 19 | 12 | Clever Fitline |
-| 20 | 12 | Joy |
+| 19 | 12 | Joy |
+| 20 | 12 | Clever Fitline |
 | 21 | 11 | Alyssa Papen |
 | 22 | 11 | Blockhead |
 | 23 | 10 | Chipper Tiler |
 | 24 | 10 | Ly Phethmany |
-| 25 | 9 | Cool Fitzone |
-| 26 | 9 | Tracey Ann Johnson |
-| 27 | 8 | Sadie Reeves |
-| 28 | 8 | benjiwrld<3 |
-| 29 | 8 | Tammy |
-| 30 | 8 | Mimi |
-| 31 | 6 | Ron Shaffer |
-| 32 | 5 | Twot |
-| 33 | 5 | Cranky Grid |
-| 34 | 5 | POV7 |
-| 35 | 5 | Jason Dickens |
-| 36 | 5 | Erin Sabol |
-| 37 | 5 | Lakisha Odom |
+| 25 | 9 | Tracey Ann Johnson |
+| 26 | 9 | Cool Fitzone |
+| 27 | 8 | benjiwrld<3 |
+| 28 | 8 | Mimi |
+| 29 | 8 | Jessica Espinosa Olesh |
+| 30 | 8 | Tammy |
+| 31 | 8 | Randi Woldin-Speedling |
+| 32 | 8 | Sadie Reeves |
+| 33 | 6 | Donna Caparimo |
+| 34 | 6 | Liz |
+| 35 | 6 | Ron Shaffer |
+| 36 | 5 | Jazzy Framezone |
+| 37 | 5 | Cranky Grid |
+| 38 | 5 | Twot |
+| 39 | 5 | POV7 |
+| 40 | 5 | Jason Dickens |
+| 41 | 5 | Lakisha Odom |
+| 42 | 5 | Tipsy Tumbler |
+| 43 | 5 | Erin Sabol |
 
 ---
 *Standings created by tournaments datasource generation tool*
