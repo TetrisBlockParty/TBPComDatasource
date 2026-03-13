@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 13:04:34 UTC
+# Standings for team1 as of 2026-03-13 13:05:10 UTC
 
 **Total Participants:** 120
 
@@ -12,11 +12,11 @@
 | 4 | 394 | Dizzy Stagger |
 | 5 | 266 | Tashanna Harvey |
 | 6 | 210 | Hasbro Bros |
-| 7 | 162 | Amy Roche |
+| 7 | 202 | Amy Roche |
 | 8 | 123 | Megan Klinkner |
 | 9 | 110 | Katherine Walton |
-| 10 | 81 | Pheezy |
-| 11 | 78 | Tanya Carpenter-Reynolds |
+| 10 | 92 | Tanya Carpenter-Reynolds |
+| 11 | 81 | Pheezy |
 | 12 | 74 | Karmyst |
 | 13 | 62 | NunYa |
 | 14 | 60 | Alezandra Smith |
@@ -45,28 +45,28 @@
 | 37 | 32 | Tig |
 | 38 | 32 | iceman |
 | 39 | 31 | Albert Josef Toves Means Jr. |
-| 40 | 30 | Chris Kelly |
-| 41 | 30 | kito23 |
-| 42 | 30 | raffyG |
+| 40 | 30 | raffyG |
+| 41 | 30 | Chris Kelly |
+| 42 | 30 | kito23 |
 | 43 | 29 | Teresa Wolf |
 | 44 | 28 | Maxwell Hall |
 | 45 | 27 | Bean |
 | 46 | 27 | Panda Rog |
-| 47 | 26 | Bubbly Patterner |
-| 48 | 26 | Tim Raper |
-| 49 | 26 | Bold Zonegrid |
+| 47 | 26 | Bold Zonegrid |
+| 48 | 26 | Bubbly Patterner |
+| 49 | 26 | Tim Raper |
 | 50 | 25 | @n@luvmakin |
 | 51 | 22 | Giddy Swiper |
-| 52 | 20 | Kindra Sinclair |
-| 53 | 20 | Mean Melly |
+| 52 | 20 | Mean Melly |
+| 53 | 20 | Kindra Sinclair |
 | 54 | 18 | Bingo Wingo |
-| 55 | 18 | Jacob Phillips |
-| 56 | 18 | Ryry |
-| 57 | 17 | Lee Sipelii |
-| 58 | 16 | Porkobello |
-| 59 | 16 | Chilly Matchbuilder |
-| 60 | 16 | Sam Steig |
-| 61 | 16 | Beth Anderson |
+| 55 | 18 | Ryry |
+| 56 | 18 | Beth Anderson |
+| 57 | 18 | Jacob Phillips |
+| 58 | 17 | Lee Sipelii |
+| 59 | 16 | Sam Steig |
+| 60 | 16 | Porkobello |
+| 61 | 16 | Chilly Matchbuilder |
 | 62 | 16 | Anne Garcia |
 | 63 | 15 | Ellen Maxwell Capstaff |
 | 64 | 15 | Nikki Robinson |
