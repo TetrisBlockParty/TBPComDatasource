@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-03-13 12:28:32 UTC
+# Standings for team2 as of 2026-03-13 12:29:11 UTC
 
-**Total Participants:** 46
+**Total Participants:** 47
 
 ## Participant Scores
 
@@ -17,8 +17,8 @@
 | 9 | 40 | Arisvet Garcia |
 | 10 | 37 | Amy Villalpando |
 | 11 | 35 | Bow Babe |
-| 12 | 30 | Beth Smith |
-| 13 | 30 | Julia Freeman |
+| 12 | 30 | Julia Freeman |
+| 13 | 30 | Beth Smith |
 | 14 | 28 | Tori Bowers |
 | 15 | 28 | Lindsey Anderson |
 | 16 | 26 | Starr |
@@ -32,26 +32,27 @@
 | 24 | 18 | Kell Cinn |
 | 25 | 17 | Shelly |
 | 26 | 16 | Hyper Pop |
-| 27 | 16 | Daring Rotator |
+| 27 | 16 | Mackenzie Forrester |
 | 28 | 16 | Emilie Creswell |
-| 29 | 16 | Mackenzie Forrester |
+| 29 | 16 | Daring Rotator |
 | 30 | 15 | Shelly Babie |
-| 31 | 14 | Sandra McNab |
-| 32 | 14 | Kitty tet |
+| 31 | 14 | Kitty tet |
+| 32 | 14 | Sandra McNab |
 | 33 | 14 | Daniel Moore |
 | 34 | 12 | Abigail Stratton |
-| 35 | 12 | Robert Martinez |
-| 36 | 12 | Mjhays |
+| 35 | 12 | Mjhays |
+| 36 | 12 | Robert Martinez |
 | 37 | 11 | Lush Linkgrid |
-| 38 | 9 | Jason Pence |
-| 39 | 9 | Lauressia MsLovaba Neil |
-| 40 | 8 | Dreamy Linkbuilder |
-| 41 | 8 | BuzyBee |
-| 42 | 6 | Plucky Patternfit |
+| 38 | 9 | Lauressia MsLovaba Neil |
+| 39 | 9 | Jason Briggs |
+| 40 | 9 | Jason Pence |
+| 41 | 8 | Dreamy Linkbuilder |
+| 42 | 8 | BuzyBee |
 | 43 | 6 | Shiny Framezone |
-| 44 | 5 | Kevin Stultz |
-| 45 | 5 | Tiffany Riccio |
-| 46 | 5 | Somthin |
+| 44 | 6 | Plucky Patternfit |
+| 45 | 5 | Somthin |
+| 46 | 5 | Kevin Stultz |
+| 47 | 5 | Tiffany Riccio |
 
 ---
 *Standings created by tournaments datasource generation tool*

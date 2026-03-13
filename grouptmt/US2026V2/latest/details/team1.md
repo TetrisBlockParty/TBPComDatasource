@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-03-13 12:28:32 UTC
+# Standings for team1 as of 2026-03-13 12:29:11 UTC
 
-**Total Participants:** 56
+**Total Participants:** 59
 
 ## Participant Scores
 
@@ -24,44 +24,47 @@
 | 16 | 27 | Panda Rog |
 | 17 | 24 | Goofy Linkblock |
 | 18 | 23 | Tashanna Harvey |
-| 19 | 22 | Maxwell Hall |
-| 20 | 22 | Jennifer Traywick |
-| 21 | 22 | Giddy Swiper |
+| 19 | 22 | Giddy Swiper |
+| 20 | 22 | Maxwell Hall |
+| 21 | 22 | Jennifer Traywick |
 | 22 | 18 | Tig |
 | 23 | 18 | Jacob Phillips |
 | 24 | 17 | Lee Sipelii |
 | 25 | 16 | Itn |
 | 26 | 16 | Chilly Matchbuilder |
-| 27 | 15 | Chris Kelly |
-| 28 | 15 | Aponk |
+| 27 | 15 | Aponk |
+| 28 | 15 | Chris Kelly |
 | 29 | 15 | Nikki Robinson |
-| 30 | 15 | Ellen Maxwell Capstaff |
-| 31 | 14 | Amber Nicole |
-| 32 | 14 | Elyse YL |
-| 33 | 12 | Big rick !!! |
-| 34 | 12 | Alexandria Ritch |
+| 30 | 15 | Trishatta YoungDiva Watkins |
+| 31 | 15 | Ellen Maxwell Capstaff |
+| 32 | 14 | Amber Nicole |
+| 33 | 14 | Elyse YL |
+| 34 | 12 | Big rick !!! |
 | 35 | 12 | Cool Dasher |
-| 36 | 10 | Giles McNair |
-| 37 | 10 | Albert Josef Toves Means Jr. |
-| 38 | 10 | Shawna Days |
-| 39 | 10 | Hecate Trimora |
-| 40 | 10 | Hyper Drop |
-| 41 | 9 | Bob Sitts |
-| 42 | 9 | Jennifer Bunker |
-| 43 | 8 | Boldy Clicky |
-| 44 | 8 | Elizabeth Hughes |
-| 45 | 8 | al |
-| 46 | 8 | Epic Cascadeclear |
-| 47 | 8 | Crafty Clearfit |
-| 48 | 7 | Herm Junior |
-| 49 | 7 | MrsW |
-| 50 | 6 | Randy Clevenger |
-| 51 | 6 | Poppy Lift |
+| 36 | 12 | Alexandria Ritch |
+| 37 | 10 | Hyper Drop |
+| 38 | 10 | Albert Josef Toves Means Jr. |
+| 39 | 10 | Shawna Days |
+| 40 | 10 | Hecate Trimora |
+| 41 | 10 | Giles McNair |
+| 42 | 9 | Bob Sitts |
+| 43 | 9 | Jennifer Bunker |
+| 44 | 8 | al |
+| 45 | 8 | Crafty Clearfit |
+| 46 | 8 | Elizabeth Hughes |
+| 47 | 8 | Boldy Clicky |
+| 48 | 8 | Epic Cascadeclear |
+| 49 | 7 | Herm Junior |
+| 50 | 7 | MrsW |
+| 51 | 6 | Tammy Straka |
 | 52 | 6 | Liz M Durfee |
-| 53 | 6 | Felise Bee |
-| 54 | 6 | Amy Roche |
-| 55 | 6 | Sunny Swiper |
-| 56 | 5 | Zach Thompson |
+| 53 | 6 | Poppy Lift |
+| 54 | 6 | Sunny Swiper |
+| 55 | 6 | Felise Bee |
+| 56 | 6 | Amy Roche |
+| 57 | 6 | Randy Clevenger |
+| 58 | 5 | raffyG |
+| 59 | 5 | Zach Thompson |
 
 ---
 *Standings created by tournaments datasource generation tool*
