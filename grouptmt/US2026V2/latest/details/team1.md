@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 15:00:11 UTC
+# Standings for team1 as of 2026-03-13 15:00:34 UTC
 
 **Total Participants:** 259
 
@@ -36,12 +36,12 @@
 | 28 | 64 | Albert Josef Toves Means Jr. |
 | 29 | 60 | Alezandra Smith |
 | 30 | 60 | Bennett Hunter |
-| 31 | 57 | Lori Dutton |
-| 32 | 54 | Giddy Cascade |
-| 33 | 53 | Donavon Krahn |
-| 34 | 52 | phrmblk24 |
-| 35 | 51 | Yolanda Quinn |
-| 36 | 51 | Hhholmesjr |
+| 31 | 60 | Hhholmesjr |
+| 32 | 57 | Lori Dutton |
+| 33 | 54 | Giddy Cascade |
+| 34 | 53 | Donavon Krahn |
+| 35 | 52 | phrmblk24 |
+| 36 | 51 | Yolanda Quinn |
 | 37 | 51 | Joyce Harrell-chavis |
 | 38 | 50 | Goofy Linkblock |
 | 39 | 50 | CL Meyer |
@@ -67,56 +67,56 @@
 | 59 | 40 | Chummy Risebuilder |
 | 60 | 40 | Christi Burley |
 | 61 | 40 | David Zeimer |
-| 62 | 40 | Robyn Massey |
+| 62 | 40 | Jevon Griffith |
 | 63 | 40 | 1_Roxanne_3 |
-| 64 | 40 | Jevon Griffith |
-| 65 | 39 | Peachy Curvetile |
-| 66 | 39 | mbij21 |
-| 67 | 38 | Frilly Climber |
-| 68 | 38 | Megan Bennett |
-| 69 | 37 | Marie Helman |
-| 70 | 36 | Glitzy Linkpiece |
-| 71 | 36 | Michael Wood |
-| 72 | 36 | Hyper Drop |
-| 73 | 35 | Maxwell Hall |
-| 74 | 35 | Tammy Straka |
-| 75 | 35 | Edna Clinton |
-| 76 | 34 | Witty Clusterfit |
-| 77 | 33 | Delzie J Leigh |
-| 78 | 33 | Sassy Wrecker |
-| 79 | 33 | Zesty Balancepiece |
-| 80 | 32 | Trishatta YoungDiva Watkins |
-| 81 | 32 | Chummy Rollzone |
-| 82 | 32 | iceman |
-| 83 | 32 | Penny Morrical |
-| 84 | 31 | Elyse YL |
+| 64 | 40 | Robyn Massey |
+| 65 | 39 | Tisha Cammack |
+| 66 | 39 | Peachy Curvetile |
+| 67 | 39 | mbij21 |
+| 68 | 38 | Frilly Climber |
+| 69 | 38 | Megan Bennett |
+| 70 | 37 | Marie Helman |
+| 71 | 36 | Hyper Drop |
+| 72 | 36 | Glitzy Linkpiece |
+| 73 | 36 | Michael Wood |
+| 74 | 35 | Edna Clinton |
+| 75 | 35 | Tammy Straka |
+| 76 | 35 | Maxwell Hall |
+| 77 | 34 | Witty Clusterfit |
+| 78 | 33 | Zesty Balancepiece |
+| 79 | 33 | Delzie J Leigh |
+| 80 | 33 | Sassy Wrecker |
+| 81 | 32 | Trishatta YoungDiva Watkins |
+| 82 | 32 | Penny Morrical |
+| 83 | 32 | Chummy Rollzone |
+| 84 | 32 | iceman |
 | 85 | 31 | Porkobello |
-| 86 | 31 | Jonathan Gaffaney |
-| 87 | 30 | Snappy Linkroll |
-| 88 | 30 | Beth Anderson |
-| 89 | 30 | Chris Kelly |
-| 90 | 30 | DoodleBug |
-| 91 | 30 | Dreamy Matchclear |
-| 92 | 30 | raffyG |
-| 93 | 30 | Tisha Cammack |
-| 94 | 30 | kito23 |
-| 95 | 30 | Greenie |
-| 96 | 29 | Tim Raper |
-| 97 | 29 | Amanda Diegel |
-| 98 | 29 | Teresa Wolf |
+| 86 | 31 | Elyse YL |
+| 87 | 31 | Jonathan Gaffaney |
+| 88 | 30 | kito23 |
+| 89 | 30 | Greenie |
+| 90 | 30 | Dreamy Matchclear |
+| 91 | 30 | Chris Kelly |
+| 92 | 30 | DoodleBug |
+| 93 | 30 | raffyG |
+| 94 | 30 | Beth Anderson |
+| 95 | 30 | Snappy Linkroll |
+| 96 | 29 | Amanda Diegel |
+| 97 | 29 | Teresa Wolf |
+| 98 | 29 | Tim Raper |
 | 99 | 27 | Bean |
-| 100 | 26 | Plucky Dashgrid |
+| 100 | 26 | Bubbly Patterner |
 | 101 | 26 | Spicy Clearpiece |
-| 102 | 26 | Bubbly Patterner |
-| 103 | 24 | Vicki Dougie |
-| 104 | 24 | Jodie Peterson |
+| 102 | 26 | Plucky Dashgrid |
+| 103 | 24 | Jodie Peterson |
+| 104 | 24 | Vicki Dougie |
 | 105 | 24 | Eddie Morales |
 | 106 | 23 | Laidene Joseph |
-| 107 | 23 | Fluffy |
-| 108 | 23 | Witty Wipegrid |
+| 107 | 23 | Witty Wipegrid |
+| 108 | 23 | Fluffy |
 | 109 | 22 | Giddy Swiper |
-| 110 | 21 | Ellieshay |
-| 111 | 21 | Nerdy Shatterline |
+| 110 | 21 | Nerdy Shatterline |
+| 111 | 21 | Ellieshay |
 | 112 | 20 | Oscar Ferguson |
 | 113 | 20 | Big rick !!! |
 | 114 | 20 | Christen Lawrick |
