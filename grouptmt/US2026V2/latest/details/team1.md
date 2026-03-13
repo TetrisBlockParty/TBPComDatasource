@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 22:22:15 UTC
+# Standings for team1 as of 2026-03-13 22:22:35 UTC
 
 **Total Participants:** 847
 
@@ -13,7 +13,7 @@
 | 5 | 2012 | Hyper |
 | 6 | 1738 | Amy Jerman |
 | 7 | 1673 | Amanda Sheppard |
-| 8 | 1354 | Itz Kevo |
+| 8 | 1372 | Itz Kevo |
 | 9 | 1223 | Troy Gussler |
 | 10 | 1200 | Erica Lepisto Anderson |
 | 11 | 1195 | Vistabrat |
@@ -63,10 +63,10 @@
 | 55 | 180 | Cheeky Crusher |
 | 56 | 180 | Jessi Sauer |
 | 57 | 178 | Amy R Clinton |
-| 58 | 176 | Sarah Stanonik |
-| 59 | 170 | Shawna Days |
-| 60 | 168 | Bigmoco |
-| 61 | 168 | Lively Rollfit |
+| 58 | 177 | Lively Rollfit |
+| 59 | 176 | Sarah Stanonik |
+| 60 | 170 | Shawna Days |
+| 61 | 168 | Bigmoco |
 | 62 | 166 | Panda Rog |
 | 63 | 163 | Amber Zeller Rice |
 | 64 | 161 | Nutty Cascadefit |
@@ -439,24 +439,24 @@
 | 431 | 25 | Crystal Swigart |
 | 432 | 25 | Amy Sanford |
 | 433 | 25 | Carl Hampton |
-| 434 | 25 | DreamyMoon |
-| 435 | 25 | Pam Jennings Herzog |
-| 436 | 25 | Samantha Bugg Stitcher |
-| 437 | 25 | Melissa Madison |
-| 438 | 25 | PennyCandee |
-| 439 | 25 | Jessica Marie Long |
-| 440 | 24 | Chirpy Setter |
-| 441 | 24 | Eddie Morales |
-| 442 | 24 | Quirky Catcher |
-| 443 | 24 | Zesty Edgepiece |
-| 444 | 24 | Amy Hollinger |
-| 445 | 24 | Colleen McFadden Moldenhauer |
-| 446 | 24 | Vicki Dougie |
-| 447 | 24 | ssr |
-| 448 | 24 | Becky Coker |
-| 449 | 23 | Bouncy Catcher |
-| 450 | 23 | Laidene Joseph |
-| 451 | 23 | p |
+| 434 | 25 | Bouncy Catcher |
+| 435 | 25 | DreamyMoon |
+| 436 | 25 | Pam Jennings Herzog |
+| 437 | 25 | Samantha Bugg Stitcher |
+| 438 | 25 | Jessica Marie Long |
+| 439 | 25 | PennyCandee |
+| 440 | 25 | Melissa Madison |
+| 441 | 24 | Amy Hollinger |
+| 442 | 24 | Colleen McFadden Moldenhauer |
+| 443 | 24 | Vicki Dougie |
+| 444 | 24 | ssr |
+| 445 | 24 | Becky Coker |
+| 446 | 24 | Zesty Edgepiece |
+| 447 | 24 | Quirky Catcher |
+| 448 | 24 | Eddie Morales |
+| 449 | 24 | Chirpy Setter |
+| 450 | 23 | p |
+| 451 | 23 | Laidene Joseph |
 | 452 | 23 | TexasLise |
 | 453 | 23 | Jimmy Shannon |
 | 454 | 23 | Tammy Griffee |
@@ -683,114 +683,114 @@
 | 675 | 10 | Stefanie Champion |
 | 676 | 10 | Ellie Bein |
 | 677 | 10 | Tracie Corbett |
-| 678 | 10 | Bryan Dickerson |
-| 679 | 10 | MarLa Alioto |
+| 678 | 10 | Bri037 |
+| 679 | 10 | paupau |
 | 680 | 10 | Mila Harper |
 | 681 | 10 | Alexandra Karavias |
-| 682 | 10 | paupau |
-| 683 | 10 | Theresa Finley |
-| 684 | 10 | Swalshy |
-| 685 | 10 | Jason Wreggitt |
-| 686 | 10 | Cool Slice |
-| 687 | 10 | Kim Morgan Henderson |
-| 688 | 10 | dionycyst |
-| 689 | 10 | Bri037 |
-| 690 | 10 | Angie Dotson |
-| 691 | 10 | Leah LaShomb |
-| 692 | 10 | Cooldamalley |
-| 693 | 10 | James Robert |
+| 682 | 10 | Theresa Finley |
+| 683 | 10 | Swalshy |
+| 684 | 10 | Jason Wreggitt |
+| 685 | 10 | Kim Morgan Henderson |
+| 686 | 10 | dionycyst |
+| 687 | 10 | MarLa Alioto |
+| 688 | 10 | Angie Dotson |
+| 689 | 10 | Cool Slice |
+| 690 | 10 | James Robert |
+| 691 | 10 | lefty |
+| 692 | 10 | Shrimp0711 |
+| 693 | 10 | Epic Glider |
 | 694 | 10 | Loony Spinblock |
-| 695 | 10 | lefty |
-| 696 | 10 | Epic Glider |
-| 697 | 10 | Bill Sayed |
-| 698 | 10 | Shrimp0711 |
-| 699 | 10 | mindgames |
-| 700 | 9 | dustin b |
-| 701 | 9 | Anthony Ward |
-| 702 | 9 | Mike Collar |
-| 703 | 9 | bricked |
-| 704 | 9 | Banzhaf |
-| 705 | 9 | Amy Niemeier |
+| 695 | 10 | Bryan Dickerson |
+| 696 | 10 | Cooldamalley |
+| 697 | 10 | Leah LaShomb |
+| 698 | 10 | Spring rain |
+| 699 | 10 | Lt1985 |
+| 700 | 10 | Bill Sayed |
+| 701 | 10 | mindgames |
+| 702 | 9 | Perky Clusterbuilder |
+| 703 | 9 | Joe Coon |
+| 704 | 9 | Jack Mattiace |
+| 705 | 9 | LaVance Parker |
 | 706 | 9 | Kimberly Howell-Henley |
-| 707 | 9 | Shiny Patternblock |
-| 708 | 9 | Sam Lema |
-| 709 | 9 | Daniel R Morgan |
-| 710 | 9 | Jennifer Bunker |
-| 711 | 9 | Peachy Linkfall |
-| 712 | 9 | Crafty Puzzler |
-| 713 | 9 | LaVance Parker |
-| 714 | 9 | Jack Mattiace |
-| 715 | 9 | Joe Coon |
-| 716 | 9 | Perky Clusterbuilder |
-| 717 | 9 | Chirpy Snapper |
+| 707 | 9 | Sam Lema |
+| 708 | 9 | Anthony Ward |
+| 709 | 9 | Shiny Patternblock |
+| 710 | 9 | Banzhaf |
+| 711 | 9 | Crafty Puzzler |
+| 712 | 9 | Amy Niemeier |
+| 713 | 9 | Peachy Linkfall |
+| 714 | 9 | Jennifer Bunker |
+| 715 | 9 | Daniel R Morgan |
+| 716 | 9 | Trey Petty |
+| 717 | 9 | Hotstuff |
 | 718 | 9 | Ethan Balling |
-| 719 | 9 | Trey Petty |
-| 720 | 9 | Hotstuff |
-| 721 | 9 | Barbara Miller |
+| 719 | 9 | bricked |
+| 720 | 9 | dustin b |
+| 721 | 9 | Mary Boo |
 | 722 | 9 | Sarah Lombardo |
-| 723 | 9 | Mary Boo |
-| 724 | 9 | ZhenZhen |
-| 725 | 8 | Meli |
-| 726 | 8 | Julie Seal |
-| 727 | 8 | Lexx Oliver |
-| 728 | 8 | Nutty Brickbuilder |
+| 723 | 9 | Mike Collar |
+| 724 | 9 | Barbara Miller |
+| 725 | 9 | Chirpy Snapper |
+| 726 | 9 | ZhenZhen |
+| 727 | 8 | Meli |
+| 728 | 8 | Jessica Butler |
 | 729 | 8 | Missy Lynn |
-| 730 | 8 | Jessica Butler |
-| 731 | 8 | Nonna Jamie Watt |
-| 732 | 8 | Mike Oldham |
-| 733 | 8 | Jay Aye |
-| 734 | 8 | Hasty Towerpiece |
-| 735 | 8 | Epic Cascadeclear |
-| 736 | 8 | Chelsey Ann |
-| 737 | 8 | al |
-| 738 | 8 | Hasty Builderpiece |
-| 739 | 8 | Lisa Reynolds Adair |
-| 740 | 8 | Lavender |
-| 741 | 8 | Jason Gonzales |
-| 742 | 8 | Wren#3 |
-| 743 | 8 | Renee |
-| 744 | 8 | Tana |
-| 745 | 8 | Freddie Alicea |
-| 746 | 8 | Speedy Dropmatch |
-| 747 | 8 | Roy Burgess |
-| 748 | 8 | Randy Bowers |
-| 749 | 7 | meh |
-| 750 | 7 | Aprill Bolton |
-| 751 | 7 | Lt1985 |
-| 752 | 7 | Jeff Hooper |
-| 753 | 7 | DG Moyt |
-| 754 | 7 | Jennifer Kime |
-| 755 | 7 | Josh Barringer |
-| 756 | 7 | Nicole McCune |
-| 757 | 7 | Clifford Greeniv |
-| 758 | 7 | Farts Mcgee |
-| 759 | 7 | Chipper Balancepiece |
-| 760 | 7 | Hachidori |
-| 761 | 7 | Boldy Towerfall |
-| 762 | 7 | Donna |
-| 763 | 7 | Spring rain |
-| 764 | 7 | Melanie Kelley |
-| 765 | 7 | OmniJoy |
-| 766 | 7 | Christie Reynolds |
-| 767 | 7 | Yehor |
-| 768 | 7 | Orthan Blockthorn |
-| 769 | 7 | Funky Strikerbuilder |
+| 730 | 8 | Hasty Towerpiece |
+| 731 | 8 | al |
+| 732 | 8 | Hasty Builderpiece |
+| 733 | 8 | Epic Cascadeclear |
+| 734 | 8 | Chelsey Ann |
+| 735 | 8 | Nutty Brickbuilder |
+| 736 | 8 | Nonna Jamie Watt |
+| 737 | 8 | Mike Oldham |
+| 738 | 8 | Lexx Oliver |
+| 739 | 8 | Julie Seal |
+| 740 | 8 | Jay Aye |
+| 741 | 8 | Lisa Reynolds Adair |
+| 742 | 8 | Randy Bowers |
+| 743 | 8 | Speedy Dropmatch |
+| 744 | 8 | Roy Burgess |
+| 745 | 8 | Wren#3 |
+| 746 | 8 | Lavender |
+| 747 | 8 | Tana |
+| 748 | 8 | Freddie Alicea |
+| 749 | 8 | Renee |
+| 750 | 8 | Jason Gonzales |
+| 751 | 7 | Jennifer Kime |
+| 752 | 7 | Aprill Bolton |
+| 753 | 7 | meh |
+| 754 | 7 | Tara Lawson |
+| 755 | 7 | DG Moyt |
+| 756 | 7 | Josh Barringer |
+| 757 | 7 | Nicole McCune |
+| 758 | 7 | Clifford Greeniv |
+| 759 | 7 | Funky Strikerbuilder |
+| 760 | 7 | Jeff Hooper |
+| 761 | 7 | Chipper Balancepiece |
+| 762 | 7 | Hachidori |
+| 763 | 7 | Boldy Towerfall |
+| 764 | 7 | Donna |
+| 765 | 7 | Melanie Kelley |
+| 766 | 7 | OmniJoy |
+| 767 | 7 | Christie Reynolds |
+| 768 | 7 | Christopher L Crites |
+| 769 | 7 | Orthan Blockthorn |
 | 770 | 7 | Jose Arteaga |
-| 771 | 7 | Bluegiokilla |
+| 771 | 7 | Farts Mcgee |
 | 772 | 7 | Rose Schweizer |
-| 773 | 7 | Starlight |
-| 774 | 7 | Tiffani J West |
-| 775 | 7 | MrsW |
-| 776 | 7 | freakyjoe |
+| 773 | 7 | Bluegiokilla |
+| 774 | 7 | Starlight |
+| 775 | 7 | Tiffani J West |
+| 776 | 7 | MrsW |
 | 777 | 7 | Loopy Zonepiece |
-| 778 | 7 | Stephen Lockman |
-| 779 | 7 | Bobby |
+| 778 | 7 | freakyjoe |
+| 779 | 7 | Stephen Lockman |
 | 780 | 7 | waylow |
 | 781 | 7 | Darlene |
-| 782 | 7 | Dizzy Fallzone |
-| 783 | 7 | Christine Sheridan |
-| 784 | 7 | Christopher L Crites |
-| 785 | 7 | Tara Lawson |
+| 782 | 7 | Bobby |
+| 783 | 7 | Dizzy Fallzone |
+| 784 | 7 | Christine Sheridan |
+| 785 | 7 | Yehor |
 | 786 | 6 | Sarah Perry Cook |
 | 787 | 6 | Gary Francis Schaffer Jr |
 | 788 | 6 | Breezy Ivy |
