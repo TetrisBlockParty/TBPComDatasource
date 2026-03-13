@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-03-13 12:38:34 UTC
+# Standings for team2 as of 2026-03-13 12:39:11 UTC
 
-**Total Participants:** 61
+**Total Participants:** 62
 
 ## Participant Scores
 
@@ -13,60 +13,61 @@
 | 5 | 80 | TETRIS |
 | 6 | 80 | Becky McClure |
 | 7 | 66 | Robert Martinez |
-| 8 | 50 | Kimberly Garcia |
-| 9 | 47 | Chloe S |
-| 10 | 46 | Brittany Backus |
-| 11 | 43 | Chyrisse Norton |
-| 12 | 41 | Mjhays |
-| 13 | 40 | Arisvet Garcia |
+| 8 | 60 | Jo Frohwein |
+| 9 | 50 | Kimberly Garcia |
+| 10 | 47 | Chloe S |
+| 11 | 46 | Brittany Backus |
+| 12 | 43 | Chyrisse Norton |
+| 13 | 41 | Mjhays |
 | 14 | 40 | Paula Marcus Delsigne |
 | 15 | 40 | Veronica Martin Trinkle |
-| 16 | 37 | Amy Villalpando |
-| 17 | 35 | Chipper Stacky |
+| 16 | 40 | Arisvet Garcia |
+| 17 | 37 | Amy Villalpando |
 | 18 | 35 | Bow Babe |
-| 19 | 30 | Julia Freeman |
-| 20 | 30 | Beth Smith |
-| 21 | 28 | Lindsey Anderson |
+| 19 | 35 | Chipper Stacky |
+| 20 | 30 | Julia Freeman |
+| 21 | 30 | Beth Smith |
 | 22 | 28 | Tori Bowers |
-| 23 | 26 | Starr |
-| 24 | 25 | Melody Santiago |
-| 25 | 24 | Adam Charles |
-| 26 | 23 | Sha45 |
-| 27 | 23 | Prette Qui |
-| 28 | 21 | Brave Tilebuilder |
-| 29 | 20 | Wacky Columnbuilder |
-| 30 | 20 | Jo Frohwein |
-| 31 | 20 | Andrew Bowen |
-| 32 | 19 | Lush Linkgrid |
-| 33 | 18 | Shelly Babie |
-| 34 | 18 | Kell Cinn |
-| 35 | 17 | Shelly |
-| 36 | 16 | Mackenzie Forrester |
-| 37 | 16 | Daring Rotator |
-| 38 | 16 | Hyper Pop |
+| 23 | 28 | Lindsey Anderson |
+| 24 | 26 | Starr |
+| 25 | 25 | Melody Santiago |
+| 26 | 25 | Brooke Sunderhaus |
+| 27 | 24 | Adam Charles |
+| 28 | 24 | Zack Theisen |
+| 29 | 23 | Sha45 |
+| 30 | 23 | Prette Qui |
+| 31 | 21 | Brave Tilebuilder |
+| 32 | 20 | Wacky Columnbuilder |
+| 33 | 20 | Andrew Bowen |
+| 34 | 19 | Lush Linkgrid |
+| 35 | 18 | Kell Cinn |
+| 36 | 18 | Shelly Babie |
+| 37 | 17 | Shelly |
+| 38 | 16 | Daring Rotator |
 | 39 | 16 | Emilie Creswell |
-| 40 | 14 | Sandra McNab |
-| 41 | 14 | Daniel Moore |
-| 42 | 14 | Kitty tet |
-| 43 | 12 | Abigail Stratton |
-| 44 | 12 | Jason Briggs |
-| 45 | 10 | Guillaume Clermont |
-| 46 | 10 | Caitlyn Brown |
-| 47 | 9 | Jason Pence |
-| 48 | 9 | Lauressia MsLovaba Neil |
-| 49 | 8 | BuzyBee |
-| 50 | 8 | Dreamy Linkbuilder |
-| 51 | 7 | Melissa Williams Blevins |
-| 52 | 7 | Kari Thompson Rock |
-| 53 | 6 | TJ Hire |
-| 54 | 6 | Plucky Patternfit |
-| 55 | 6 | Whitney Mudge |
-| 56 | 6 | Shiny Framezone |
-| 57 | 6 | Brooke Sunderhaus |
-| 58 | 5 | Kevin Stultz |
+| 40 | 16 | Mackenzie Forrester |
+| 41 | 16 | Hyper Pop |
+| 42 | 14 | Daniel Moore |
+| 43 | 14 | Kitty tet |
+| 44 | 14 | Sandra McNab |
+| 45 | 12 | Abigail Stratton |
+| 46 | 12 | Jason Briggs |
+| 47 | 10 | Guillaume Clermont |
+| 48 | 10 | Caitlyn Brown |
+| 49 | 9 | Jason Pence |
+| 50 | 9 | Lauressia MsLovaba Neil |
+| 51 | 8 | Dreamy Linkbuilder |
+| 52 | 8 | BuzyBee |
+| 53 | 7 | Kari Thompson Rock |
+| 54 | 7 | Melissa Williams Blevins |
+| 55 | 6 | TJ Hire |
+| 56 | 6 | Plucky Patternfit |
+| 57 | 6 | Whitney Mudge |
+| 58 | 6 | Shiny Framezone |
 | 59 | 5 | Anita Johnson |
-| 60 | 5 | Tiffany Riccio |
-| 61 | 5 | Somthin |
+| 60 | 5 | Kevin Stultz |
+| 61 | 5 | Tiffany Riccio |
+| 62 | 5 | Somthin |
 
 ---
 *Standings created by tournaments datasource generation tool*
