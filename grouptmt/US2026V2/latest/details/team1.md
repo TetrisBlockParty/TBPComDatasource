@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 13:13:11 UTC
+# Standings for team1 as of 2026-03-13 13:14:12 UTC
 
 **Total Participants:** 129
 
@@ -39,7 +39,7 @@
 | 31 | 40 | Jevon Griffith |
 | 32 | 40 | Christi Burley |
 | 33 | 39 | mbij21 |
-| 34 | 37 | Albert Josef Toves Means Jr. |
+| 34 | 38 | Albert Josef Toves Means Jr. |
 | 35 | 35 | Tammy Straka |
 | 36 | 35 | Edna Clinton |
 | 37 | 34 | Marie Helman |
@@ -57,8 +57,8 @@
 | 49 | 27 | Panda Rog |
 | 50 | 26 | Bubbly Patterner |
 | 51 | 26 | Tim Raper |
-| 52 | 22 | Giddy Swiper |
-| 53 | 22 | Hyper Drop |
+| 52 | 24 | Hyper Drop |
+| 53 | 22 | Giddy Swiper |
 | 54 | 21 | Rebekah LeiAnn Bonsell |
 | 55 | 20 | Mean Melly |
 | 56 | 20 | Kindra Sinclair |
@@ -113,28 +113,28 @@
 | 105 | 7 | MrsW |
 | 106 | 7 | Michael Felker |
 | 107 | 6 | Liz M Durfee |
-| 108 | 6 | Tyrell Harvin |
-| 109 | 6 | Antoinette Rhinesmith |
-| 110 | 6 | Tjango |
-| 111 | 6 | Jody Jackson |
-| 112 | 6 | Slinky Setter |
-| 113 | 6 | Delzie J Leigh |
-| 114 | 6 | Kristen Rhoads |
-| 115 | 6 | Randy Clevenger |
-| 116 | 6 | Monica Blu |
-| 117 | 6 | Jack Mattiace |
-| 118 | 6 | Sunny Swiper |
-| 119 | 6 | Zuul Gatekeeper |
-| 120 | 6 | Dizzy Pattern |
-| 121 | 6 | Poppy Lift |
-| 122 | 5 | Perky Clusterbuilder |
-| 123 | 5 | Tracie Corbett |
-| 124 | 5 | MissySai TooRude Ladson |
-| 125 | 5 | freakyjoe |
+| 108 | 6 | Poppy Lift |
+| 109 | 6 | Tyrell Harvin |
+| 110 | 6 | Antoinette Rhinesmith |
+| 111 | 6 | Tjango |
+| 112 | 6 | Jody Jackson |
+| 113 | 6 | Slinky Setter |
+| 114 | 6 | Delzie J Leigh |
+| 115 | 6 | Kristen Rhoads |
+| 116 | 6 | Randy Clevenger |
+| 117 | 6 | Monica Blu |
+| 118 | 6 | Jack Mattiace |
+| 119 | 6 | Dizzy Pattern |
+| 120 | 6 | Sunny Swiper |
+| 121 | 6 | Zuul Gatekeeper |
+| 122 | 5 | Tracie Corbett |
+| 123 | 5 | Jennifer Brown |
+| 124 | 5 | Samantha Bugg Stitcher |
+| 125 | 5 | Flashy Clicker |
 | 126 | 5 | Armin Muhamed |
-| 127 | 5 | Flashy Clicker |
-| 128 | 5 | Samantha Bugg Stitcher |
-| 129 | 5 | Jennifer Brown |
+| 127 | 5 | freakyjoe |
+| 128 | 5 | MissySai TooRude Ladson |
+| 129 | 5 | Perky Clusterbuilder |
 
 ---
 *Standings created by tournaments datasource generation tool*
