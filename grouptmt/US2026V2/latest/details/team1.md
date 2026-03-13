@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 15:18:12 UTC
+# Standings for team1 as of 2026-03-13 15:18:34 UTC
 
 **Total Participants:** 284
 
@@ -30,22 +30,22 @@
 | 22 | 85 | Cassandra Latimore |
 | 23 | 85 | Pheezy |
 | 24 | 80 | Diane |
-| 25 | 78 | NunYa |
-| 26 | 76 | Albert Josef Toves Means Jr. |
+| 25 | 79 | Albert Josef Toves Means Jr. |
+| 26 | 78 | NunYa |
 | 27 | 74 | Karmyst |
 | 28 | 74 | Hasty Lift |
 | 29 | 72 | phrmblk24 |
 | 30 | 67 | Poppy Builderline |
 | 31 | 65 | @n@luvmakin |
-| 32 | 60 | Bennett Hunter |
-| 33 | 60 | Alezandra Smith |
-| 34 | 57 | Lori Dutton |
-| 35 | 55 | Walter Beltran |
+| 32 | 60 | Alezandra Smith |
+| 33 | 60 | Bennett Hunter |
+| 34 | 60 | Walter Beltran |
+| 35 | 57 | Lori Dutton |
 | 36 | 54 | Giddy Cascade |
 | 37 | 54 | TRCuse |
-| 38 | 53 | Donavon Krahn |
+| 38 | 53 | Zany Tower |
 | 39 | 53 | Tisha Cammack |
-| 40 | 53 | Zany Tower |
+| 40 | 53 | Donavon Krahn |
 | 41 | 51 | Elyse YL |
 | 42 | 51 | Yolanda Quinn |
 | 43 | 51 | Joyce Harrell-chavis |
@@ -273,23 +273,23 @@
 | 265 | 6 | Snippy Tilerpiece |
 | 266 | 6 | Snazzy Rotater |
 | 267 | 6 | Amber Jackson |
-| 268 | 5 | Ras David |
+| 268 | 5 | Terry Dill |
 | 269 | 5 | Flashy Clicker |
 | 270 | 5 | Slinky Dashgrid |
 | 271 | 5 | Samantha Bugg Stitcher |
-| 272 | 5 | Carl Hampton |
-| 273 | 5 | freakyjoe |
-| 274 | 5 | Angela Renea Lester |
-| 275 | 5 | Sarajo Clauson |
-| 276 | 5 | Armoni |
-| 277 | 5 | MissySai TooRude Ladson |
+| 272 | 5 | Cynthia Herrmann Egland |
+| 273 | 5 | Ras David |
+| 274 | 5 | Jennifer Brown |
+| 275 | 5 | Armin Muhamed |
+| 276 | 5 | Slinky Stacky |
+| 277 | 5 | Victoria Montenegro Martinez |
 | 278 | 5 | Perky Clusterbuilder |
-| 279 | 5 | Victoria Montenegro Martinez |
-| 280 | 5 | Slinky Stacky |
-| 281 | 5 | Armin Muhamed |
-| 282 | 5 | Jennifer Brown |
-| 283 | 5 | Cynthia Herrmann Egland |
-| 284 | 5 | Terry Dill |
+| 279 | 5 | Armoni |
+| 280 | 5 | Carl Hampton |
+| 281 | 5 | freakyjoe |
+| 282 | 5 | Angela Renea Lester |
+| 283 | 5 | Sarajo Clauson |
+| 284 | 5 | MissySai TooRude Ladson |
 
 ---
 *Standings created by tournaments datasource generation tool*
