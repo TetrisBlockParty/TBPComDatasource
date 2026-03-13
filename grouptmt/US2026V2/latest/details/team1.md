@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-03-13 13:52:11 UTC
+# Standings for team1 as of 2026-03-13 13:52:33 UTC
 
-**Total Participants:** 180
+**Total Participants:** 181
 
 ## Participant Scores
 
@@ -80,14 +80,14 @@
 | 72 | 20 | Ann Brock LaPorte |
 | 73 | 20 | Garry Junior Davis |
 | 74 | 20 | Kindra Sinclair |
-| 75 | 19 | Epic Fallzone |
-| 76 | 18 | Bingo Wingo |
-| 77 | 18 | Timothy Long |
-| 78 | 18 | Happy Shatterfit |
-| 79 | 18 | Oscar Ferguson |
-| 80 | 18 | Ryry |
-| 81 | 18 | Jacob Phillips |
-| 82 | 17 | Spicy Clearpiece |
+| 75 | 19 | Happy Shatterfit |
+| 76 | 19 | Epic Fallzone |
+| 77 | 18 | Bingo Wingo |
+| 78 | 18 | Timothy Long |
+| 79 | 18 | Spicy Clearpiece |
+| 80 | 18 | Oscar Ferguson |
+| 81 | 18 | Ryry |
+| 82 | 18 | Jacob Phillips |
 | 83 | 17 | Lee Sipelii |
 | 84 | 16 | Melissa Hart |
 | 85 | 16 | Chilly Matchbuilder |
@@ -118,39 +118,39 @@
 | 110 | 11 | Boldy Clicky |
 | 111 | 11 | Geno Bankroll McGill |
 | 112 | 10 | Dreamy Matchclear |
-| 113 | 10 | Shawna Days |
-| 114 | 10 | Donavon Krahn |
-| 115 | 10 | Alex Nicol |
-| 116 | 10 | Shekita Gibbs |
-| 117 | 10 | Tracie Corbett |
-| 118 | 10 | Hecate Trimora |
-| 119 | 10 | Swalshy |
-| 120 | 10 | Giles McNair |
-| 121 | 10 | Bigmoco |
-| 122 | 9 | Zach Thompson |
-| 123 | 9 | Quirky Dashy |
-| 124 | 9 | David Larter |
+| 113 | 10 | Bigmoco |
+| 114 | 10 | Shawna Days |
+| 115 | 10 | Hecate Trimora |
+| 116 | 10 | Giles McNair |
+| 117 | 10 | Swalshy |
+| 118 | 10 | Tracie Corbett |
+| 119 | 10 | Shekita Gibbs |
+| 120 | 10 | Alex Nicol |
+| 121 | 10 | Donavon Krahn |
+| 122 | 9 | Erica Wynne |
+| 123 | 9 | Bob Sitts |
+| 124 | 9 | Zach Thompson |
 | 125 | 9 | Tracy Priceless Gholston |
-| 126 | 9 | Erica Wynne |
-| 127 | 9 | Bob Sitts |
-| 128 | 9 | Jennifer Bunker |
-| 129 | 9 | bricked |
-| 130 | 8 | Jessica Marie Long |
-| 131 | 8 | Crafty Clearfit |
-| 132 | 8 | Elizabeth Hughes |
-| 133 | 8 | Epic Cascadeclear |
-| 134 | 8 | Felise Bee |
-| 135 | 8 | al |
-| 136 | 8 | Kevin Sees |
-| 137 | 8 | Jill Goff |
-| 138 | 8 | Tina Kocher Zimmerman |
-| 139 | 8 | Kat Kath |
-| 140 | 7 | Herm Junior |
-| 141 | 7 | Jennifer Kime |
-| 142 | 7 | MrsW |
-| 143 | 7 | Michael Felker |
-| 144 | 6 | Jody Jackson |
-| 145 | 6 | Monica Blu |
+| 126 | 9 | Jennifer Bunker |
+| 127 | 9 | David Larter |
+| 128 | 9 | TheKBr0 |
+| 129 | 9 | Quirky Dashy |
+| 130 | 9 | bricked |
+| 131 | 8 | Elizabeth Hughes |
+| 132 | 8 | Jessica Marie Long |
+| 133 | 8 | Crafty Clearfit |
+| 134 | 8 | Epic Cascadeclear |
+| 135 | 8 | Felise Bee |
+| 136 | 8 | al |
+| 137 | 8 | Kevin Sees |
+| 138 | 8 | Jill Goff |
+| 139 | 8 | Tina Kocher Zimmerman |
+| 140 | 8 | Kat Kath |
+| 141 | 7 | Herm Junior |
+| 142 | 7 | Jennifer Kime |
+| 143 | 7 | MrsW |
+| 144 | 7 | Michael Felker |
+| 145 | 6 | Tjango |
 | 146 | 6 | Randy Clevenger |
 | 147 | 6 | Robert Coulter |
 | 148 | 6 | Tyrell Harvin |
@@ -158,34 +158,35 @@
 | 150 | 6 | MamaPhee |
 | 151 | 6 | Delzie J Leigh |
 | 152 | 6 | Slinky Setter |
-| 153 | 6 | Freddie Alicea |
-| 154 | 6 | Tjango |
+| 153 | 6 | Jody Jackson |
+| 154 | 6 | Freddie Alicea |
 | 155 | 6 | Matt Aguilar |
 | 156 | 6 | Antoinette Rhinesmith |
 | 157 | 6 | Amber Jackson |
 | 158 | 6 | Jack Mattiace |
-| 159 | 6 | Sunny Swiper |
-| 160 | 6 | Zuul Gatekeeper |
-| 161 | 6 | cac |
-| 162 | 6 | Dizzy Pattern |
-| 163 | 6 | Liz M Durfee |
-| 164 | 6 | Kristen Rhoads |
-| 165 | 6 | Poppy Lift |
-| 166 | 6 | ajx |
-| 167 | 6 | Breezy Ivy |
-| 168 | 5 | Armin Muhamed |
-| 169 | 5 | Samantha Bugg Stitcher |
-| 170 | 5 | Flashy Clicker |
-| 171 | 5 | MissySai TooRude Ladson |
-| 172 | 5 | Perky Clusterbuilder |
-| 173 | 5 | Cassandra Latimore |
-| 174 | 5 | Cynthia Herrmann Egland |
-| 175 | 5 | Victoria Montenegro Martinez |
+| 159 | 6 | Monica Blu |
+| 160 | 6 | Sunny Swiper |
+| 161 | 6 | Zuul Gatekeeper |
+| 162 | 6 | cac |
+| 163 | 6 | Kristen Rhoads |
+| 164 | 6 | Dizzy Pattern |
+| 165 | 6 | Liz M Durfee |
+| 166 | 6 | Breezy Ivy |
+| 167 | 6 | Poppy Lift |
+| 168 | 6 | ajx |
+| 169 | 5 | Armin Muhamed |
+| 170 | 5 | MissySai TooRude Ladson |
+| 171 | 5 | Samantha Bugg Stitcher |
+| 172 | 5 | Flashy Clicker |
+| 173 | 5 | Perky Clusterbuilder |
+| 174 | 5 | Cassandra Latimore |
+| 175 | 5 | Cynthia Herrmann Egland |
 | 176 | 5 | Jennifer Brown |
 | 177 | 5 | Sarajo Clauson |
-| 178 | 5 | Christopher Wesley |
-| 179 | 5 | freakyjoe |
+| 178 | 5 | freakyjoe |
+| 179 | 5 | Christopher Wesley |
 | 180 | 5 | Ash Galvan |
+| 181 | 5 | Victoria Montenegro Martinez |
 
 ---
 *Standings created by tournaments datasource generation tool*
