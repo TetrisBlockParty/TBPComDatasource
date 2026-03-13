@@ -1,54 +1,59 @@
-# Standings for team4 as of 2026-03-13 12:17:10 UTC
+# Standings for team4 as of 2026-03-13 12:18:10 UTC
 
-**Total Participants:** 43
+**Total Participants:** 48
 
 ## Participant Scores
 
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 300 | Moniqie Kearse |
-| 2 | 213 | Woody |
-| 3 | 180 | Steve Laigner |
-| 4 | 79 | Kortney Fiorucci |
-| 5 | 66 | Patricia White |
-| 6 | 60 | Zeirela Selazno |
-| 7 | 58 | Joseph L Johnson |
+| 2 | 220 | Steve Laigner |
+| 3 | 213 | Woody |
+| 4 | 96 | Joseph L Johnson |
+| 5 | 79 | Kortney Fiorucci |
+| 6 | 66 | Patricia White |
+| 7 | 60 | Zeirela Selazno |
 | 8 | 44 | Monarca26 |
 | 9 | 40 | LaKisha Anderson |
 | 10 | 39 | Rain |
 | 11 | 35 | Abby Garcia |
-| 12 | 30 | Perach Alima Shoa |
-| 13 | 21 | Scott Jackson |
-| 14 | 20 | Albee Menina |
-| 15 | 18 | Liseth Vasquez |
-| 16 | 15 | Jennjack |
-| 17 | 14 | Dreamy Riserpiece |
-| 18 | 13 | Jared Nadler |
-| 19 | 12 | Joy |
-| 20 | 12 | Clever Fitline |
-| 21 | 11 | Alyssa Papen |
-| 22 | 11 | Blockhead |
-| 23 | 10 | Chipper Tiler |
-| 24 | 10 | Ly Phethmany |
-| 25 | 9 | Tracey Ann Johnson |
-| 26 | 9 | Cool Fitzone |
-| 27 | 8 | benjiwrld<3 |
-| 28 | 8 | Mimi |
-| 29 | 8 | Jessica Espinosa Olesh |
-| 30 | 8 | Tammy |
-| 31 | 8 | Randi Woldin-Speedling |
-| 32 | 8 | Sadie Reeves |
-| 33 | 6 | Donna Caparimo |
-| 34 | 6 | Liz |
-| 35 | 6 | Ron Shaffer |
-| 36 | 5 | Jazzy Framezone |
-| 37 | 5 | Cranky Grid |
-| 38 | 5 | Twot |
-| 39 | 5 | POV7 |
-| 40 | 5 | Jason Dickens |
-| 41 | 5 | Lakisha Odom |
-| 42 | 5 | Tipsy Tumbler |
-| 43 | 5 | Erin Sabol |
+| 12 | 30 | Tipsy Blocker |
+| 13 | 30 | Perach Alima Shoa |
+| 14 | 22 | Madeline Pinton Keen |
+| 15 | 21 | Scott Jackson |
+| 16 | 20 | Albee Menina |
+| 17 | 20 | Lively Rollzone |
+| 18 | 18 | Liseth Vasquez |
+| 19 | 16 | Alyssa Papen |
+| 20 | 15 | Jennjack |
+| 21 | 15 | Tipsy Tumbler |
+| 22 | 14 | Dreamy Riserpiece |
+| 23 | 13 | Jared Nadler |
+| 24 | 12 | Clever Fitline |
+| 25 | 12 | Mimi |
+| 26 | 12 | Joy |
+| 27 | 11 | Blockhead |
+| 28 | 10 | Chipper Tiler |
+| 29 | 10 | Ly Phethmany |
+| 30 | 10 | Cheeky Pop |
+| 31 | 9 | Cool Fitzone |
+| 32 | 9 | Tracey Ann Johnson |
+| 33 | 8 | Jessica Espinosa Olesh |
+| 34 | 8 | Tammy |
+| 35 | 8 | Randi Woldin-Speedling |
+| 36 | 8 | Sadie Reeves |
+| 37 | 8 | benjiwrld<3 |
+| 38 | 7 | Vdot |
+| 39 | 6 | Liz |
+| 40 | 6 | Ron Shaffer |
+| 41 | 6 | Donna Caparimo |
+| 42 | 5 | Jazzy Framezone |
+| 43 | 5 | Cranky Grid |
+| 44 | 5 | Twot |
+| 45 | 5 | POV7 |
+| 46 | 5 | Jason Dickens |
+| 47 | 5 | Lakisha Odom |
+| 48 | 5 | Erin Sabol |
 
 ---
 *Standings created by tournaments datasource generation tool*
