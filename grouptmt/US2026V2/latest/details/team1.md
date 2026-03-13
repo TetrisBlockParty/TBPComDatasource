@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 15:18:34 UTC
+# Standings for team1 as of 2026-03-13 15:19:11 UTC
 
 **Total Participants:** 284
 
@@ -185,67 +185,67 @@
 | 177 | 14 | Dawn Fike |
 | 178 | 14 | PennyCandee |
 | 179 | 14 | Ernest Jordan |
-| 180 | 14 | Danielle Maner |
-| 181 | 14 | Amber Nicole |
-| 182 | 13 | Jill Goff |
+| 180 | 14 | Amber Nicole |
+| 181 | 14 | Danielle Maner |
+| 182 | 13 | Elizabeth A Cobuccio |
 | 183 | 13 | Dunlap Loretta |
-| 184 | 13 | Elizabeth A Cobuccio |
-| 185 | 13 | Susan Marsh |
-| 186 | 13 | Ash Galvan |
-| 187 | 13 | Natasha Velasquez Gabriel |
-| 188 | 13 | Krystal McPherson |
-| 189 | 12 | ssr |
-| 190 | 12 | YF Luna |
-| 191 | 12 | Debra Reynolds |
-| 192 | 12 | Lush Dasher |
-| 193 | 12 | James Burda |
-| 194 | 12 | Alexandria Ritch |
-| 195 | 12 | Brittney Groler |
-| 196 | 11 | Geno Bankroll McGill |
-| 197 | 11 | Roberta Arnold |
-| 198 | 11 | Maju Restini |
-| 199 | 11 | Frank Jusyandfair |
-| 200 | 11 | Quirky Catcher |
-| 201 | 10 | Kathy Searles |
-| 202 | 10 | Stacy Rodriguez |
-| 203 | 10 | Giles McNair |
-| 204 | 10 | Hecate Trimora |
-| 205 | 10 | Tracie Corbett |
-| 206 | 10 | Alexandra Karavias |
-| 207 | 10 | Swalshy |
-| 208 | 10 | Alex Nicol |
-| 209 | 10 | Shawna Days |
-| 210 | 10 | Crafty Clearfit |
-| 211 | 10 | Shekita Gibbs |
-| 212 | 10 | beep |
-| 213 | 9 | Quirky Dashy |
-| 214 | 9 | Patti Rone |
-| 215 | 9 | Andrea Clippert |
-| 216 | 9 | SAP |
-| 217 | 9 | Zach Thompson |
-| 218 | 9 | MarLa Alioto |
+| 184 | 13 | Ash Galvan |
+| 185 | 13 | Jill Goff |
+| 186 | 13 | Krystal McPherson |
+| 187 | 13 | Susan Marsh |
+| 188 | 13 | Natasha Velasquez Gabriel |
+| 189 | 12 | Debra Reynolds |
+| 190 | 12 | James Burda |
+| 191 | 12 | ssr |
+| 192 | 12 | YF Luna |
+| 193 | 12 | Alexandria Ritch |
+| 194 | 12 | Brittney Groler |
+| 195 | 12 | Lush Dasher |
+| 196 | 11 | Frank Jusyandfair |
+| 197 | 11 | Quirky Catcher |
+| 198 | 11 | Roberta Arnold |
+| 199 | 11 | Geno Bankroll McGill |
+| 200 | 11 | Maju Restini |
+| 201 | 10 | Stacy Rodriguez |
+| 202 | 10 | Giles McNair |
+| 203 | 10 | Hecate Trimora |
+| 204 | 10 | Swalshy |
+| 205 | 10 | Shawna Days |
+| 206 | 10 | Crafty Clearfit |
+| 207 | 10 | Shekita Gibbs |
+| 208 | 10 | Alexandra Karavias |
+| 209 | 10 | beep |
+| 210 | 10 | Kathy Searles |
+| 211 | 10 | Alex Nicol |
+| 212 | 10 | Tracie Corbett |
+| 213 | 9 | Patti Rone |
+| 214 | 9 | Quirky Dashy |
+| 215 | 9 | Bob Sitts |
+| 216 | 9 | bricked |
+| 217 | 9 | Tina Kocher Zimmerman |
+| 218 | 9 | Anthony Ward |
 | 219 | 9 | Jennifer Bunker |
-| 220 | 9 | Bob Sitts |
-| 221 | 9 | bricked |
-| 222 | 9 | Anthony Ward |
-| 223 | 9 | Tina Kocher Zimmerman |
-| 224 | 8 | Kevin Sees |
-| 225 | 8 | Epic Cascadeclear |
+| 220 | 9 | Andrea Clippert |
+| 221 | 9 | SAP |
+| 222 | 9 | Zach Thompson |
+| 223 | 9 | MarLa Alioto |
+| 224 | 8 | al |
+| 225 | 8 | Kellia S Johnson |
 | 226 | 8 | Hasty Towerpiece |
-| 227 | 8 | Elizabeth Hughes |
+| 227 | 8 | Epic Cascadeclear |
 | 228 | 8 | Felise Bee |
 | 229 | 8 | James Martin |
-| 230 | 8 | Candace Fielder |
-| 231 | 8 | Speedy Dropmatch |
-| 232 | 8 | al |
-| 233 | 8 | Margie Olivas |
-| 234 | 8 | Robert Jansen |
+| 230 | 8 | Elizabeth Hughes |
+| 231 | 8 | Margie Olivas |
+| 232 | 8 | Candace Fielder |
+| 233 | 8 | Kevin Sees |
+| 234 | 8 | Speedy Dropmatch |
 | 235 | 8 | Bold Clear |
-| 236 | 7 | Herm Junior |
-| 237 | 7 | Darlene |
-| 238 | 7 | waylow |
-| 239 | 7 | Missy Lynn |
-| 240 | 7 | Kellia S Johnson |
+| 236 | 8 | Robert Jansen |
+| 237 | 7 | Herm Junior |
+| 238 | 7 | Darlene |
+| 239 | 7 | waylow |
+| 240 | 7 | Missy Lynn |
 | 241 | 7 | April McGuffie |
 | 242 | 7 | key |
 | 243 | 7 | Jennifer Kime |
@@ -273,23 +273,23 @@
 | 265 | 6 | Snippy Tilerpiece |
 | 266 | 6 | Snazzy Rotater |
 | 267 | 6 | Amber Jackson |
-| 268 | 5 | Terry Dill |
+| 268 | 5 | Ras David |
 | 269 | 5 | Flashy Clicker |
 | 270 | 5 | Slinky Dashgrid |
 | 271 | 5 | Samantha Bugg Stitcher |
-| 272 | 5 | Cynthia Herrmann Egland |
-| 273 | 5 | Ras David |
+| 272 | 5 | Carl Hampton |
+| 273 | 5 | Cynthia Herrmann Egland |
 | 274 | 5 | Jennifer Brown |
 | 275 | 5 | Armin Muhamed |
 | 276 | 5 | Slinky Stacky |
 | 277 | 5 | Victoria Montenegro Martinez |
 | 278 | 5 | Perky Clusterbuilder |
-| 279 | 5 | Armoni |
-| 280 | 5 | Carl Hampton |
-| 281 | 5 | freakyjoe |
+| 279 | 5 | MissySai TooRude Ladson |
+| 280 | 5 | Armoni |
+| 281 | 5 | Sarajo Clauson |
 | 282 | 5 | Angela Renea Lester |
-| 283 | 5 | Sarajo Clauson |
-| 284 | 5 | MissySai TooRude Ladson |
+| 283 | 5 | freakyjoe |
+| 284 | 5 | Terry Dill |
 
 ---
 *Standings created by tournaments datasource generation tool*
