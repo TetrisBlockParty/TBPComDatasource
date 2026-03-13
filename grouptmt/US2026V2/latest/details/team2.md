@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-03-13 12:59:11 UTC
+# Standings for team2 as of 2026-03-13 13:00:13 UTC
 
-**Total Participants:** 87
+**Total Participants:** 89
 
 ## Participant Scores
 
@@ -24,75 +24,77 @@
 | 16 | 47 | Chloe S |
 | 17 | 46 | Mjhays |
 | 18 | 43 | Chyrisse Norton |
-| 19 | 40 | Veronica Martin Trinkle |
-| 20 | 40 | Zack Theisen |
-| 21 | 40 | Arisvet Garcia |
+| 19 | 40 | Zack Theisen |
+| 20 | 40 | Arisvet Garcia |
+| 21 | 40 | Veronica Martin Trinkle |
 | 22 | 40 | Paula Marcus Delsigne |
 | 23 | 37 | Amy Villalpando |
 | 24 | 36 | Libby |
-| 25 | 35 | Bow Babe |
-| 26 | 35 | Chipper Stacky |
-| 27 | 31 | Snippy Basepiece |
-| 28 | 30 | Brooke Sunderhaus |
-| 29 | 30 | Beth Smith |
-| 30 | 30 | Julia Freeman |
-| 31 | 28 | Lindsey Anderson |
-| 32 | 28 | Tori Bowers |
+| 25 | 35 | Snippy Basepiece |
+| 26 | 35 | Bow Babe |
+| 27 | 35 | Chipper Stacky |
+| 28 | 30 | Julia Freeman |
+| 29 | 30 | Brooke Sunderhaus |
+| 30 | 30 | Beth Smith |
+| 31 | 28 | Tori Bowers |
+| 32 | 28 | Lindsey Anderson |
 | 33 | 27 | Adam Charles |
-| 34 | 26 | Brave Tilebuilder |
-| 35 | 26 | Starr |
+| 34 | 26 | Starr |
+| 35 | 26 | Brave Tilebuilder |
 | 36 | 25 | Melody Santiago |
 | 37 | 25 | Guillaume Clermont |
-| 38 | 24 | Prette Qui |
-| 39 | 24 | Rigoberto Sanchez Jr. |
+| 38 | 24 | Rigoberto Sanchez Jr. |
+| 39 | 24 | Prette Qui |
 | 40 | 23 | Rhonda Winn Hohman |
 | 41 | 23 | Sha45 |
-| 42 | 20 | Andrew Bowen |
-| 43 | 20 | Wacky Columnbuilder |
+| 42 | 20 | Wacky Columnbuilder |
+| 43 | 20 | Andrew Bowen |
 | 44 | 19 | Lush Linkgrid |
-| 45 | 18 | Reginald Harvey |
-| 46 | 18 | Kell Cinn |
-| 47 | 18 | Shelly Babie |
-| 48 | 18 | Nerdy Clearer |
-| 49 | 17 | Nikki Speer |
-| 50 | 17 | Shelly |
-| 51 | 16 | Hyper Pop |
-| 52 | 16 | Emilie Creswell |
+| 45 | 18 | Shelly Babie |
+| 46 | 18 | Nerdy Clearer |
+| 47 | 18 | Kell Cinn |
+| 48 | 18 | Reginald Harvey |
+| 49 | 17 | Shelly |
+| 50 | 17 | Nikki Speer |
+| 51 | 16 | Daring Rotator |
+| 52 | 16 | Hyper Pop |
 | 53 | 16 | Mackenzie Forrester |
-| 54 | 16 | Daring Rotator |
+| 54 | 16 | Emilie Creswell |
 | 55 | 15 | Cathy Bitters |
 | 56 | 15 | TreeWee |
-| 57 | 14 | Marie Elena |
+| 57 | 14 | Kitty tet |
 | 58 | 14 | Sandra McNab |
-| 59 | 14 | Kitty tet |
-| 60 | 14 | Daniel Moore |
-| 61 | 12 | Abigail Stratton |
+| 59 | 14 | Daniel Moore |
+| 60 | 14 | Marie Elena |
+| 61 | 12 | Diana |
 | 62 | 12 | Jason Briggs |
-| 63 | 10 | Haley Bell |
-| 64 | 10 | Scott Smith |
-| 65 | 10 | Fae-Bulous |
-| 66 | 9 | Lauressia MsLovaba Neil |
-| 67 | 9 | candypants |
-| 68 | 9 | Diana |
+| 63 | 12 | Abigail Stratton |
+| 64 | 10 | Fae-Bulous |
+| 65 | 10 | Haley Bell |
+| 66 | 10 | Scott Smith |
+| 67 | 9 | Lauressia MsLovaba Neil |
+| 68 | 9 | Cheeky Grabber |
 | 69 | 9 | Jason Pence |
-| 70 | 8 | Whitney Mudge |
+| 70 | 9 | candypants |
 | 71 | 8 | BuzyBee |
-| 72 | 8 | Dreamy Linkbuilder |
-| 73 | 7 | Melissa Williams Blevins |
-| 74 | 7 | carole57 |
+| 72 | 8 | Whitney Mudge |
+| 73 | 8 | Dreamy Linkbuilder |
+| 74 | 7 | Melissa Williams Blevins |
 | 75 | 7 | Kari Thompson Rock |
 | 76 | 7 | Mzjudged Niteowl |
-| 77 | 7 | Hyper Snap |
-| 78 | 6 | Dapper Gridclear |
-| 79 | 6 | Shiny Framezone |
+| 77 | 7 | carole57 |
+| 78 | 7 | Hyper Snap |
+| 79 | 6 | Plucky Patternfit |
 | 80 | 6 | TJ Hire |
-| 81 | 6 | Plucky Patternfit |
-| 82 | 5 | Tiffany Riccio |
-| 83 | 5 | Somthin |
-| 84 | 5 | Bouncy Swiper |
-| 85 | 5 | Cheeky Grabber |
-| 86 | 5 | Anita Johnson |
-| 87 | 5 | Kevin Stultz |
+| 81 | 6 | Shiny Framezone |
+| 82 | 6 | Dapper Gridclear |
+| 83 | 5 | Kevin Stultz |
+| 84 | 5 | Tiffany Riccio |
+| 85 | 5 | Somthin |
+| 86 | 5 | Qing DG |
+| 87 | 5 | Anita Johnson |
+| 88 | 5 | Angel Hunnewell |
+| 89 | 5 | Bouncy Swiper |
 
 ---
 *Standings created by tournaments datasource generation tool*

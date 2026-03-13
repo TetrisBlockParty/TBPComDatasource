@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-03-13 12:59:11 UTC
+# Standings for team1 as of 2026-03-13 13:00:13 UTC
 
-**Total Participants:** 112
+**Total Participants:** 114
 
 ## Participant Scores
 
@@ -16,41 +16,41 @@
 | 8 | 122 | Amy Roche |
 | 9 | 110 | Katherine Walton |
 | 10 | 81 | Pheezy |
-| 11 | 75 | Tanya Carpenter-Reynolds |
+| 11 | 78 | Tanya Carpenter-Reynolds |
 | 12 | 74 | Karmyst |
 | 13 | 62 | NunYa |
 | 14 | 57 | Lori Dutton |
 | 15 | 54 | Giddy Cascade |
-| 16 | 50 | Aponk |
+| 16 | 51 | Michael Powers |
 | 17 | 50 | Andy Harris |
-| 18 | 49 | Dale |
-| 19 | 48 | Jennifer Traywick |
-| 20 | 47 | Tyle Armstead |
-| 21 | 46 | Itn |
-| 22 | 44 | Poppy Builderline |
-| 23 | 40 | Jevon Griffith |
+| 18 | 50 | Aponk |
+| 19 | 49 | Dale |
+| 20 | 48 | Jennifer Traywick |
+| 21 | 47 | Tyle Armstead |
+| 22 | 46 | Itn |
+| 23 | 44 | Poppy Builderline |
 | 24 | 40 | Robyn Massey |
-| 25 | 40 | Christi Burley |
-| 26 | 39 | mbij21 |
-| 27 | 35 | Edna Clinton |
-| 28 | 34 | Marie Helman |
-| 29 | 33 | Tammy Straka |
-| 30 | 32 | Tig |
-| 31 | 32 | iceman |
-| 32 | 32 | Trishatta YoungDiva Watkins |
-| 33 | 32 | Chummy Rollzone |
+| 25 | 40 | Jevon Griffith |
+| 26 | 40 | Christi Burley |
+| 27 | 39 | mbij21 |
+| 28 | 35 | Edna Clinton |
+| 29 | 34 | Marie Helman |
+| 30 | 33 | Tammy Straka |
+| 31 | 32 | Tig |
+| 32 | 32 | Chummy Rollzone |
+| 33 | 32 | iceman |
 | 34 | 32 | Goofy Linkblock |
-| 35 | 30 | raffyG |
-| 36 | 30 | Chris Kelly |
-| 37 | 30 | kito23 |
-| 38 | 29 | Joyce Harrell-chavis |
+| 35 | 32 | Trishatta YoungDiva Watkins |
+| 36 | 30 | raffyG |
+| 37 | 30 | Chris Kelly |
+| 38 | 30 | kito23 |
 | 39 | 29 | Albert Josef Toves Means Jr. |
-| 40 | 28 | Maxwell Hall |
-| 41 | 28 | Michael Powers |
-| 42 | 27 | Panda Rog |
-| 43 | 27 | Bean |
-| 44 | 26 | Bubbly Patterner |
-| 45 | 26 | Bold Zonegrid |
+| 40 | 29 | Joyce Harrell-chavis |
+| 41 | 28 | Maxwell Hall |
+| 42 | 27 | Bean |
+| 43 | 27 | Panda Rog |
+| 44 | 26 | Bold Zonegrid |
+| 45 | 26 | Bubbly Patterner |
 | 46 | 25 | Teresa Wolf |
 | 47 | 22 | Giddy Swiper |
 | 48 | 20 | Mean Melly |
@@ -59,65 +59,67 @@
 | 51 | 18 | Jacob Phillips |
 | 52 | 18 | Ryry |
 | 53 | 17 | Lee Sipelii |
-| 54 | 16 | Anne Garcia |
-| 55 | 16 | Chilly Matchbuilder |
+| 54 | 16 | Chilly Matchbuilder |
+| 55 | 16 | Anne Garcia |
 | 56 | 16 | Sam Steig |
 | 57 | 16 | Porkobello |
-| 58 | 15 | Nikki Robinson |
-| 59 | 15 | Ellen Maxwell Capstaff |
-| 60 | 14 | Beth Anderson |
-| 61 | 14 | Elyse YL |
-| 62 | 14 | Amber Nicole |
-| 63 | 14 | Ernest Jordan |
+| 58 | 15 | Ellen Maxwell Capstaff |
+| 59 | 15 | Nikki Robinson |
+| 60 | 14 | Ernest Jordan |
+| 61 | 14 | Amber Nicole |
+| 62 | 14 | Elyse YL |
+| 63 | 14 | Beth Anderson |
 | 64 | 14 | Tim Raper |
 | 65 | 13 | Natasha Velasquez Gabriel |
-| 66 | 12 | Alexandria Ritch |
-| 67 | 12 | James Burda |
-| 68 | 12 | Cool Dasher |
-| 69 | 12 | Big rick !!! |
+| 66 | 12 | ssr |
+| 67 | 12 | Cool Dasher |
+| 68 | 12 | Big rick !!! |
+| 69 | 12 | Alexandria Ritch |
 | 70 | 12 | Walter Beltran |
-| 71 | 12 | ssr |
-| 72 | 11 | Boldy Clicky |
-| 73 | 10 | Hyper Drop |
-| 74 | 10 | Shawna Days |
-| 75 | 10 | Giles McNair |
+| 71 | 12 | James Burda |
+| 72 | 11 | Hyper Drop |
+| 73 | 11 | Boldy Clicky |
+| 74 | 10 | Giles McNair |
+| 75 | 10 | Shawna Days |
 | 76 | 10 | Hecate Trimora |
-| 77 | 9 | Quirky Dashy |
-| 78 | 9 | bricked |
-| 79 | 9 | Zach Thompson |
-| 80 | 9 | Jennifer Bunker |
-| 81 | 9 | Bob Sitts |
+| 77 | 10 | Dreamy Matchclear |
+| 78 | 10 | Oscar Ferguson |
+| 79 | 9 | Quirky Dashy |
+| 80 | 9 | Zach Thompson |
+| 81 | 9 | bricked |
 | 82 | 9 | Suzan Frazier |
-| 83 | 8 | Epic Cascadeclear |
-| 84 | 8 | Kat Kath |
-| 85 | 8 | Bingo Wingo |
-| 86 | 8 | Jessica Marie Long |
-| 87 | 8 | Oscar Ferguson |
-| 88 | 8 | Elizabeth Hughes |
-| 89 | 8 | Crafty Clearfit |
-| 90 | 8 | Felise Bee |
-| 91 | 8 | al |
-| 92 | 7 | Herm Junior |
-| 93 | 7 | Jennifer Kime |
-| 94 | 7 | MrsW |
-| 95 | 7 | Michael Felker |
-| 96 | 6 | Tjango |
-| 97 | 6 | Rebekah LeiAnn Bonsell |
-| 98 | 6 | Sunny Swiper |
-| 99 | 6 | Jody Jackson |
-| 100 | 6 | Slinky Setter |
-| 101 | 6 | Randy Clevenger |
-| 102 | 6 | Poppy Lift |
-| 103 | 6 | Liz M Durfee |
+| 83 | 9 | Bob Sitts |
+| 84 | 9 | Jennifer Bunker |
+| 85 | 8 | al |
+| 86 | 8 | Kat Kath |
+| 87 | 8 | Epic Cascadeclear |
+| 88 | 8 | Bingo Wingo |
+| 89 | 8 | Felise Bee |
+| 90 | 8 | Crafty Clearfit |
+| 91 | 8 | Jessica Marie Long |
+| 92 | 8 | Elizabeth Hughes |
+| 93 | 7 | Herm Junior |
+| 94 | 7 | Jennifer Kime |
+| 95 | 7 | MrsW |
+| 96 | 7 | Michael Felker |
+| 97 | 6 | Jody Jackson |
+| 98 | 6 | Poppy Lift |
+| 99 | 6 | Rebekah LeiAnn Bonsell |
+| 100 | 6 | Tjango |
+| 101 | 6 | Slinky Setter |
+| 102 | 6 | Delzie J Leigh |
+| 103 | 6 | Randy Clevenger |
 | 104 | 6 | Monica Blu |
-| 105 | 6 | Dizzy Pattern |
+| 105 | 6 | Sunny Swiper |
 | 106 | 6 | Zuul Gatekeeper |
-| 107 | 5 | Armin Muhamed |
-| 108 | 5 | freakyjoe |
-| 109 | 5 | Plucky Dashgrid |
-| 110 | 5 | MissySai TooRude Ladson |
-| 111 | 5 | Flashy Clicker |
-| 112 | 5 | Samantha Bugg Stitcher |
+| 107 | 6 | Dizzy Pattern |
+| 108 | 6 | Liz M Durfee |
+| 109 | 5 | MissySai TooRude Ladson |
+| 110 | 5 | Plucky Dashgrid |
+| 111 | 5 | freakyjoe |
+| 112 | 5 | Armin Muhamed |
+| 113 | 5 | Flashy Clicker |
+| 114 | 5 | Samantha Bugg Stitcher |
 
 ---
 *Standings created by tournaments datasource generation tool*
