@@ -1,25 +1,27 @@
-# Standings for team1 as of 2026-03-13 12:07:10 UTC
+# Standings for team1 as of 2026-03-13 12:08:12 UTC
 
-**Total Participants:** 14
+**Total Participants:** 16
 
 ## Participant Scores
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 33 | Katherine Walton |
-| 2 | 24 | Giddy Cascade |
-| 3 | 22 | Jennifer Traywick |
-| 4 | 20 | Megan Klinkner |
-| 5 | 15 | Nikki Robinson |
-| 6 | 12 | Big rick !!! |
-| 7 | 10 | Hecate Trimora |
-| 8 | 10 | Giles McNair |
-| 9 | 10 | Shawna Days |
-| 10 | 8 | Edna Clinton |
-| 11 | 7 | Herm Junior |
-| 12 | 6 | Crafty Clearfit |
-| 13 | 5 | Zach Thompson |
-| 14 | 5 | Elizabeth Hughes |
+| 1 | 200 | Amy Dial Brown |
+| 2 | 33 | Katherine Walton |
+| 3 | 24 | Giddy Cascade |
+| 4 | 22 | Jennifer Traywick |
+| 5 | 20 | Megan Klinkner |
+| 6 | 15 | Nikki Robinson |
+| 7 | 12 | Big rick !!! |
+| 8 | 10 | Hecate Trimora |
+| 9 | 10 | Giles McNair |
+| 10 | 10 | Shawna Days |
+| 11 | 10 | Edna Clinton |
+| 12 | 8 | Crafty Clearfit |
+| 13 | 7 | Giddy Swiper |
+| 14 | 7 | Herm Junior |
+| 15 | 5 | Zach Thompson |
+| 16 | 5 | Elizabeth Hughes |
 
 ---
 *Standings created by tournaments datasource generation tool*

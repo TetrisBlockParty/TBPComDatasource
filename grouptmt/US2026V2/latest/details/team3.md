@@ -1,6 +1,6 @@
-# Standings for team3 as of 2026-03-13 12:07:10 UTC
+# Standings for team3 as of 2026-03-13 12:08:12 UTC
 
-**Total Participants:** 15
+**Total Participants:** 18
 
 ## Participant Scores
 
@@ -8,19 +8,22 @@
 | :- | :- | :- |
 | 1 | 40 | Alisha |
 | 2 | 30 | Kristine Roller |
-| 3 | 19 | Spunky Holder |
-| 4 | 15 | Emily B Johnson |
-| 5 | 11 | Tiffany Gamble |
-| 6 | 9 | Plucky Gridroll |
-| 7 | 6 | Laurie LeCroy |
-| 8 | 6 | Ashley Ingram |
-| 9 | 6 | Dee Franklin |
-| 10 | 6 | Juliet Weathers |
-| 11 | 6 | Sir-Franchise Drake |
-| 12 | 6 | Odysseus |
-| 13 | 6 | DefaultUser |
-| 14 | 5 | Dreamy Drop |
-| 15 | 5 | Spencer Nikki |
+| 3 | 19 | Beewee |
+| 4 | 19 | Spunky Holder |
+| 5 | 16 | Plucky Gridroll |
+| 6 | 15 | Emily B Johnson |
+| 7 | 14 | TamiJo |
+| 8 | 14 | Zippy Cascadeclear |
+| 9 | 11 | Tiffany Gamble |
+| 10 | 6 | Ashley Ingram |
+| 11 | 6 | Juliet Weathers |
+| 12 | 6 | DefaultUser |
+| 13 | 6 | Sir-Franchise Drake |
+| 14 | 6 | Laurie LeCroy |
+| 15 | 6 | Odysseus |
+| 16 | 6 | Dee Franklin |
+| 17 | 5 | Spencer Nikki |
+| 18 | 5 | Dreamy Drop |
 
 ---
 *Standings created by tournaments datasource generation tool*
