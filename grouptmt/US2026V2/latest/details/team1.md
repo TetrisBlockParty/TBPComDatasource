@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-03-13 12:27:11 UTC
+# Standings for team1 as of 2026-03-13 12:28:11 UTC
 
-**Total Participants:** 54
+**Total Participants:** 55
 
 ## Participant Scores
 
@@ -17,49 +17,50 @@
 | 9 | 40 | Tanya Carpenter-Reynolds |
 | 10 | 38 | Lori Dutton |
 | 11 | 35 | Edna Clinton |
-| 12 | 30 | mbij21 |
-| 13 | 24 | Goofy Linkblock |
-| 14 | 22 | Maxwell Hall |
-| 15 | 22 | Giddy Swiper |
-| 16 | 22 | Jennifer Traywick |
-| 17 | 20 | Dale |
-| 18 | 18 | Jacob Phillips |
-| 19 | 17 | Lee Sipelii |
-| 20 | 16 | Chilly Matchbuilder |
-| 21 | 15 | Panda Rog |
-| 22 | 15 | Nikki Robinson |
-| 23 | 15 | Chris Kelly |
-| 24 | 15 | Aponk |
-| 25 | 15 | Ellen Maxwell Capstaff |
-| 26 | 14 | Elyse YL |
-| 27 | 13 | Chummy Rollzone |
-| 28 | 12 | Amber Nicole |
-| 29 | 12 | Cool Dasher |
-| 30 | 12 | Big rick !!! |
-| 31 | 12 | Alexandria Ritch |
-| 32 | 10 | Hyper Drop |
-| 33 | 10 | kito23 |
-| 34 | 10 | Albert Josef Toves Means Jr. |
-| 35 | 10 | Shawna Days |
-| 36 | 10 | Giles McNair |
+| 12 | 35 | Dale |
+| 13 | 32 | Chummy Rollzone |
+| 14 | 30 | mbij21 |
+| 15 | 30 | kito23 |
+| 16 | 27 | Panda Rog |
+| 17 | 24 | Goofy Linkblock |
+| 18 | 23 | Tashanna Harvey |
+| 19 | 22 | Maxwell Hall |
+| 20 | 22 | Jennifer Traywick |
+| 21 | 22 | Giddy Swiper |
+| 22 | 18 | Jacob Phillips |
+| 23 | 17 | Lee Sipelii |
+| 24 | 16 | Chilly Matchbuilder |
+| 25 | 15 | Nikki Robinson |
+| 26 | 15 | Chris Kelly |
+| 27 | 15 | Ellen Maxwell Capstaff |
+| 28 | 15 | Aponk |
+| 29 | 14 | Elyse YL |
+| 30 | 14 | Amber Nicole |
+| 31 | 12 | Big rick !!! |
+| 32 | 12 | Alexandria Ritch |
+| 33 | 12 | Cool Dasher |
+| 34 | 10 | Hyper Drop |
+| 35 | 10 | Albert Josef Toves Means Jr. |
+| 36 | 10 | Shawna Days |
 | 37 | 10 | Hecate Trimora |
-| 38 | 9 | Jennifer Bunker |
+| 38 | 10 | Giles McNair |
 | 39 | 9 | Bob Sitts |
-| 40 | 8 | Elizabeth Hughes |
+| 40 | 9 | Jennifer Bunker |
 | 41 | 8 | Boldy Clicky |
-| 42 | 8 | al |
-| 43 | 8 | Itn |
-| 44 | 8 | Crafty Clearfit |
-| 45 | 8 | Epic Cascadeclear |
-| 46 | 7 | Herm Junior |
-| 47 | 6 | Liz M Durfee |
+| 42 | 8 | Elizabeth Hughes |
+| 43 | 8 | al |
+| 44 | 8 | Epic Cascadeclear |
+| 45 | 8 | Itn |
+| 46 | 8 | Crafty Clearfit |
+| 47 | 7 | Herm Junior |
 | 48 | 6 | Poppy Lift |
-| 49 | 6 | Sunny Swiper |
-| 50 | 6 | Felise Bee |
-| 51 | 6 | Amy Roche |
-| 52 | 6 | Randy Clevenger |
-| 53 | 6 | MrsW |
-| 54 | 5 | Zach Thompson |
+| 49 | 6 | Liz M Durfee |
+| 50 | 6 | MrsW |
+| 51 | 6 | Sunny Swiper |
+| 52 | 6 | Felise Bee |
+| 53 | 6 | Amy Roche |
+| 54 | 6 | Randy Clevenger |
+| 55 | 5 | Zach Thompson |
 
 ---
 *Standings created by tournaments datasource generation tool*
