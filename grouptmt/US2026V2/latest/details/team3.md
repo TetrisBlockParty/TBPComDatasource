@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-13 18:52:13 UTC
+# Standings for team3 as of 2026-03-13 18:52:34 UTC
 
 **Total Participants:** 847
 
@@ -25,12 +25,12 @@
 | 17 | 734 | Frilly Tiley |
 | 18 | 637 | Spunky Holder |
 | 19 | 624 | Peppy Risegrid |
-| 20 | 564 | Mighty Dashfit |
+| 20 | 570 | Mighty Dashfit |
 | 21 | 555 | Alisha |
 | 22 | 550 | Quirky Liney |
 | 23 | 528 | Reita Rolen |
 | 24 | 518 | Alisa Collins |
-| 25 | 499 | Ashley Ingram |
+| 25 | 501 | Ashley Ingram |
 | 26 | 446 | Michelle Drew |
 | 27 | 415 | Stephanie Rice |
 | 28 | 390 | Lauren d |
@@ -62,16 +62,16 @@
 | 54 | 164 | Drew Magnus |
 | 55 | 162 | Nery García |
 | 56 | 161 | Kylene Vigil |
-| 57 | 160 | Chris Sladoje |
-| 58 | 160 | Jodi Messere |
+| 57 | 160 | Jodi Messere |
+| 58 | 160 | Chris Sladoje |
 | 59 | 157 | Brittany Rosales |
 | 60 | 154 | Fancy Slammer |
 | 61 | 146 | outdoor_cat |
 | 62 | 145 | Turk Montana |
 | 63 | 141 | Branny |
-| 64 | 140 | Blakkha Brown |
+| 64 | 140 | Emily |
 | 65 | 140 | Shelly Griggs |
-| 66 | 140 | Emily |
+| 66 | 140 | Blakkha Brown |
 | 67 | 138 | Amanda Maize |
 | 68 | 136 | Elizabeth Charles |
 | 69 | 135 | Dizzy Gridzone |
@@ -394,41 +394,41 @@
 | 386 | 28 | Tiffany Wright |
 | 387 | 28 | Plucky Dash |
 | 388 | 28 | Smiley Snapbuilder |
-| 389 | 27 | Kevin Sheets |
-| 390 | 27 | Tiffany Gamble |
-| 391 | 27 | Kristen Meyer |
-| 392 | 27 | Roxanne Biron |
-| 393 | 27 | Terri Tatem |
-| 394 | 27 | Brandon Brummett |
-| 395 | 27 | Jazzy Blockzone |
-| 396 | 27 | Sabrina's Wreaths |
-| 397 | 27 | Dottie Turbeville Creel |
-| 398 | 26 | Chirpy Dashfit |
-| 399 | 26 | Swanky Blockmatch |
-| 400 | 26 | Smiley Clearpiece |
-| 401 | 26 | Lisa Rachelle Blackmonson |
+| 389 | 27 | Sabrina's Wreaths |
+| 390 | 27 | Kevin Sheets |
+| 391 | 27 | Brandon Brummett |
+| 392 | 27 | Terri Tatem |
+| 393 | 27 | Dottie Turbeville Creel |
+| 394 | 27 | Jazzy Blockzone |
+| 395 | 27 | Roxanne Biron |
+| 396 | 27 | Kristen Meyer |
+| 397 | 27 | Tiffany Gamble |
+| 398 | 26 | David Spencer |
+| 399 | 26 | Ashley Eiler |
+| 400 | 26 | reom |
+| 401 | 26 | Chirpy Dashfit |
 | 402 | 26 | Alkaben Fortunato |
-| 403 | 26 | reom |
-| 404 | 26 | Michelle L Vibberts |
-| 405 | 26 | David Spencer |
+| 403 | 26 | Michelle L Vibberts |
+| 404 | 26 | Smiley Clearpiece |
+| 405 | 26 | Cheeky Twistpiece |
 | 406 | 26 | Laurie LeCroy |
-| 407 | 26 | Paul Smith |
-| 408 | 26 | Ashley Eiler |
-| 409 | 25 | Redlele88 |
-| 410 | 25 | Jeremy Sample |
-| 411 | 25 | Char Pretty Mills |
-| 412 | 25 | Chirpy Matchbuilder |
-| 413 | 25 | Kacy Ramsey |
-| 414 | 25 | AppleG |
-| 415 | 25 | Ana Martoiu |
-| 416 | 25 | Siria Vanessa Grant |
-| 417 | 25 | Ana Gutierrez |
-| 418 | 25 | Lori Ann |
-| 419 | 25 | Glitzy Rollpiece |
-| 420 | 25 | Snappy Snapzone |
-| 421 | 24 | Frisky Balance |
-| 422 | 24 | Jus Cee |
-| 423 | 24 | Cheeky Twistpiece |
+| 407 | 26 | Swanky Blockmatch |
+| 408 | 26 | Paul Smith |
+| 409 | 26 | Lisa Rachelle Blackmonson |
+| 410 | 25 | Redlele88 |
+| 411 | 25 | Jeremy Sample |
+| 412 | 25 | Char Pretty Mills |
+| 413 | 25 | Chirpy Matchbuilder |
+| 414 | 25 | Kacy Ramsey |
+| 415 | 25 | AppleG |
+| 416 | 25 | Ana Martoiu |
+| 417 | 25 | Siria Vanessa Grant |
+| 418 | 25 | Ana Gutierrez |
+| 419 | 25 | Lori Ann |
+| 420 | 25 | Glitzy Rollpiece |
+| 421 | 25 | Snappy Snapzone |
+| 422 | 24 | Frisky Balance |
+| 423 | 24 | Jus Cee |
 | 424 | 24 | Lindsey Black |
 | 425 | 24 | Undeniable Williams |
 | 426 | 24 | Viktoria Lynne Schissler |
@@ -838,21 +838,21 @@
 | 830 | 5 | Crafty Holder |
 | 831 | 5 | Thomas Hughes |
 | 832 | 5 | Paula Morrison |
-| 833 | 5 | Halil Srnja |
-| 834 | 5 | Heather Lang |
-| 835 | 5 | Maria Escobar |
-| 836 | 5 | Whitney McNeill |
+| 833 | 5 | Jeana |
+| 834 | 5 | Maria Escobar |
+| 835 | 5 | Whitney McNeill |
+| 836 | 5 | Heather Lang |
 | 837 | 5 | Erik Hesner |
 | 838 | 5 | Zesty Lift |
-| 839 | 5 | Jeana |
-| 840 | 5 | Liz Currier |
-| 841 | 5 | MissJoy |
-| 842 | 5 | Tommy Spell |
-| 843 | 5 | Chris Bell |
-| 844 | 5 | Yup |
-| 845 | 5 | Perky Wipebuilder |
-| 846 | 5 | Adan Reyes |
-| 847 | 5 | Tanya Cornellier Leclair |
+| 839 | 5 | Liz Currier |
+| 840 | 5 | MissJoy |
+| 841 | 5 | Tommy Spell |
+| 842 | 5 | Chris Bell |
+| 843 | 5 | Yup |
+| 844 | 5 | Perky Wipebuilder |
+| 845 | 5 | Adan Reyes |
+| 846 | 5 | Tanya Cornellier Leclair |
+| 847 | 5 | Halil Srnja |
 
 ---
 *Standings created by tournaments datasource generation tool*

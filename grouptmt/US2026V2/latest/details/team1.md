@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 18:52:13 UTC
+# Standings for team1 as of 2026-03-13 18:52:34 UTC
 
 **Total Participants:** 553
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 5922 | Donna Wilkinson |
-| 2 | 3605 | William George Weglage III |
+| 2 | 3709 | William George Weglage III |
 | 3 | 2766 | Dizzy Stagger |
 | 4 | 2012 | Hyper |
 | 5 | 1100 | Erica Lepisto Anderson |
@@ -50,8 +50,8 @@
 | 42 | 158 | Dom The Great |
 | 43 | 157 | Panda Rog |
 | 44 | 157 | Amee Schnarrs |
-| 45 | 150 | Gloria Ininahazwe |
-| 46 | 148 | Peachy Brick |
+| 45 | 156 | Peachy Brick |
+| 46 | 150 | Gloria Ininahazwe |
 | 47 | 147 | raffyG |
 | 48 | 137 | Bigmoco |
 | 49 | 136 | Sunny Swiper |
@@ -497,68 +497,68 @@
 | 489 | 7 | Herm Junior |
 | 490 | 7 | Daniel R Morgan |
 | 491 | 7 | Clifford Greeniv |
-| 492 | 7 | Missy Lynn |
-| 493 | 7 | freakyjoe |
-| 494 | 7 | key |
-| 495 | 7 | April McGuffie |
-| 496 | 7 | Randy Bowers |
-| 497 | 7 | waylow |
-| 498 | 7 | Darlene |
-| 499 | 7 | MrsW |
-| 500 | 7 | Bouncy Tilerpiece |
-| 501 | 7 | Josh Barringer |
-| 502 | 7 | meh |
-| 503 | 7 | Christie Reynolds |
-| 504 | 7 | Jennifer Kime |
-| 505 | 7 | OmniJoy |
-| 506 | 6 | Kristen Rhoads |
-| 507 | 6 | Jack Mattiace |
-| 508 | 6 | Breezy Ivy |
-| 509 | 6 | ajx |
+| 492 | 7 | freakyjoe |
+| 493 | 7 | key |
+| 494 | 7 | MrsW |
+| 495 | 7 | Randy Bowers |
+| 496 | 7 | Missy Lynn |
+| 497 | 7 | meh |
+| 498 | 7 | April McGuffie |
+| 499 | 7 | Jennifer Kime |
+| 500 | 7 | waylow |
+| 501 | 7 | Darlene |
+| 502 | 7 | Bouncy Tilerpiece |
+| 503 | 7 | OmniJoy |
+| 504 | 7 | Josh Barringer |
+| 505 | 7 | Christie Reynolds |
+| 506 | 6 | Aprill Bolton |
+| 507 | 6 | Amber Jackson |
+| 508 | 6 | Slinky Setter |
+| 509 | 6 | Tyrell Harvin |
 | 510 | 6 | cac |
-| 511 | 6 | Dizzy Pattern |
-| 512 | 6 | Randy Clevenger |
-| 513 | 6 | Tyrell Harvin |
-| 514 | 6 | Monica Blu |
-| 515 | 6 | dustin b |
-| 516 | 6 | Slinky Setter |
-| 517 | 6 | Jody Jackson |
-| 518 | 6 | Tjango |
-| 519 | 6 | Jessica Shubert |
-| 520 | 6 | Breezy Block |
-| 521 | 6 | Ana Fernanda Sanchez |
-| 522 | 6 | Aprill Bolton |
-| 523 | 6 | Amber Jackson |
-| 524 | 6 | flip |
-| 525 | 6 | Gary Francis Schaffer Jr |
+| 511 | 6 | dustin b |
+| 512 | 6 | Kristen Rhoads |
+| 513 | 6 | Jack Mattiace |
+| 514 | 6 | Snippy Tilerpiece |
+| 515 | 6 | Breezy Ivy |
+| 516 | 6 | ajx |
+| 517 | 6 | Dizzy Pattern |
+| 518 | 6 | Randy Clevenger |
+| 519 | 6 | Monica Blu |
+| 520 | 6 | Tjango |
+| 521 | 6 | ghxsty |
+| 522 | 6 | Jody Jackson |
+| 523 | 6 | Ana Fernanda Sanchez |
+| 524 | 6 | Jessica Shubert |
+| 525 | 6 | Austin Wilson |
 | 526 | 6 | Jpapi |
-| 527 | 6 | Pupcup |
-| 528 | 6 | Lil H |
-| 529 | 6 | ghxsty |
-| 530 | 6 | Glenda Inthimat |
-| 531 | 6 | Snippy Tilerpiece |
-| 532 | 6 | Austin Wilson |
-| 533 | 5 | Benjamin Ford |
-| 534 | 5 | Ras David |
-| 535 | 5 | LadyKuSh |
-| 536 | 5 | Chrys Peters |
-| 537 | 5 | Angela Renea Lester |
-| 538 | 5 | Samantha Bugg Stitcher |
+| 527 | 6 | Glenda Inthimat |
+| 528 | 6 | Gary Francis Schaffer Jr |
+| 529 | 6 | Breezy Block |
+| 530 | 6 | Pupcup |
+| 531 | 6 | flip |
+| 532 | 6 | Lil H |
+| 533 | 5 | Terry Dill |
+| 534 | 5 | Samantha Bugg Stitcher |
+| 535 | 5 | Slinky Dashgrid |
+| 536 | 5 | LadyKuSh |
+| 537 | 5 | Troy Gussler |
+| 538 | 5 | Charis Stoner |
 | 539 | 5 | Fancy Tilefall |
-| 540 | 5 | Jennifer Brown |
-| 541 | 5 | Charis Stoner |
-| 542 | 5 | Armoni |
-| 543 | 5 | Victoria Montenegro Martinez |
-| 544 | 5 | Muhammad |
-| 545 | 5 | MissySai TooRude Ladson |
-| 546 | 5 | Lulu C Harp |
-| 547 | 5 | Larry McRae |
-| 548 | 5 | Tony Lighthizer |
-| 549 | 5 | Sarajo Clauson |
-| 550 | 5 | Troy Gussler |
-| 551 | 5 | Terry Dill |
-| 552 | 5 | Slinky Dashgrid |
-| 553 | 5 | Slinky Stacky |
+| 540 | 5 | Angela Renea Lester |
+| 541 | 5 | Chrys Peters |
+| 542 | 5 | Benjamin Ford |
+| 543 | 5 | Armoni |
+| 544 | 5 | Slinky Stacky |
+| 545 | 5 | Tony Lighthizer |
+| 546 | 5 | Muhammad |
+| 547 | 5 | Ras David |
+| 548 | 5 | Jennifer Brown |
+| 549 | 5 | Victoria Montenegro Martinez |
+| 550 | 5 | MissySai TooRude Ladson |
+| 551 | 5 | Larry McRae |
+| 552 | 5 | Sarajo Clauson |
+| 553 | 5 | Lulu C Harp |
 
 ---
 *Standings created by tournaments datasource generation tool*
