@@ -1,17 +1,18 @@
-# Standings for team3 as of 2026-03-13 12:04:11 UTC
+# Standings for team3 as of 2026-03-13 12:04:31 UTC
 
-**Total Participants:** 6
+**Total Participants:** 7
 
 ## Participant Scores
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 15 | Emily B Johnson |
-| 2 | 9 | Plucky Gridroll |
-| 3 | 6 | DefaultUser |
-| 4 | 6 | Dee Franklin |
-| 5 | 6 | Odysseus |
-| 6 | 5 | Dreamy Drop |
+| 1 | 20 | Kristine Roller |
+| 2 | 15 | Emily B Johnson |
+| 3 | 9 | Plucky Gridroll |
+| 4 | 6 | DefaultUser |
+| 5 | 6 | Dee Franklin |
+| 6 | 6 | Odysseus |
+| 7 | 5 | Dreamy Drop |
 
 ---
 *Standings created by tournaments datasource generation tool*
