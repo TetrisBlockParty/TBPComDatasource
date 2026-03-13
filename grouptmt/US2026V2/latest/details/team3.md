@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-13 20:06:14 UTC
+# Standings for team3 as of 2026-03-13 20:06:35 UTC
 
 **Total Participants:** 1021
 
@@ -83,17 +83,17 @@
 | 75 | 145 | Emily |
 | 76 | 140 | Blakkha Brown |
 | 77 | 136 | Elizabeth Charles |
-| 78 | 135 | Dizzy Gridzone |
-| 79 | 134 | Taylor Elizabeth Meyer |
+| 78 | 135 | TriKaraTops |
+| 79 | 135 | Dizzy Gridzone |
 | 80 | 134 | Mr§.M€€§€€K |
-| 81 | 130 | Block Baddie |
-| 82 | 130 | Giddy Strikerbuilder |
-| 83 | 128 | Snowbunny |
-| 84 | 126 | Peachy Fall |
-| 85 | 126 | Tetris Master |
-| 86 | 125 | Whitney Manuel |
-| 87 | 125 | Donald Calcutt |
-| 88 | 125 | TriKaraTops |
+| 81 | 134 | Taylor Elizabeth Meyer |
+| 82 | 130 | Block Baddie |
+| 83 | 130 | Giddy Strikerbuilder |
+| 84 | 128 | Snowbunny |
+| 85 | 126 | Peachy Fall |
+| 86 | 126 | Tetris Master |
+| 87 | 125 | Whitney Manuel |
+| 88 | 125 | Donald Calcutt |
 | 89 | 124 | Chasity |
 | 90 | 120 | Sadgirl |
 | 91 | 120 | Keith Kelley |

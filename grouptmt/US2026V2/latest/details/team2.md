@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-13 20:06:14 UTC
+# Standings for team2 as of 2026-03-13 20:06:35 UTC
 
 **Total Participants:** 680
 
@@ -45,11 +45,11 @@
 | 37 | 236 | Jo Frohwein |
 | 38 | 229 | Jumpy Breaker |
 | 39 | 225 | Sass |
-| 40 | 220 | Becky McClure |
-| 41 | 218 | Chelsea Clark |
-| 42 | 216 | Michael H. M. Skropka |
-| 43 | 214 | YAE |
-| 44 | 210 | Kristina Custer |
+| 40 | 220 | Kristina Custer |
+| 41 | 220 | Becky McClure |
+| 42 | 218 | Chelsea Clark |
+| 43 | 216 | Michael H. M. Skropka |
+| 44 | 214 | YAE |
 | 45 | 209 | Jami Howard |
 | 46 | 205 | Johanna Massaro |
 | 47 | 200 | TETRIS |
@@ -78,47 +78,47 @@
 | 70 | 140 | Nerdy Blockpiece |
 | 71 | 138 | Frances Hui |
 | 72 | 135 | Hyper Pop |
-| 73 | 132 | Christy Merriman Addison |
-| 74 | 132 | Crystal Brown-Miles |
-| 75 | 132 | Brenda A |
+| 73 | 132 | Brenda A |
+| 74 | 132 | Christy Merriman Addison |
+| 75 | 132 | Crystal Brown-Miles |
 | 76 | 126 | Paul Beeman |
 | 77 | 125 | Isabella Blanco |
 | 78 | 121 | nickle109 |
-| 79 | 120 | Giggy Matchpiece |
-| 80 | 120 | Elizabeth Stanley |
+| 79 | 120 | Elizabeth Stanley |
+| 80 | 120 | Giggy Matchpiece |
 | 81 | 119 | Dreamer |
-| 82 | 115 | Jamie Mclean |
-| 83 | 112 | Jen |
-| 84 | 111 | Cari Hogan |
-| 85 | 110 | Elaine Webb Graves |
-| 86 | 105 | Nathaniel Hardy |
-| 87 | 105 | candypants |
-| 88 | 104 | Sonya Gail Goodman |
-| 89 | 103 | Brittany Backus |
-| 90 | 103 | Alexander Zamora |
-| 91 | 102 | Connie Mohler-Fair |
-| 92 | 100 | Goofy Linkmatch |
-| 93 | 100 | Baleria Ruedas Pantoja |
-| 94 | 100 | Dee Kay |
-| 95 | 100 | Jeremiah Gensler |
-| 96 | 100 | Brooke Sunderhaus |
+| 82 | 118 | Brooke Sunderhaus |
+| 83 | 115 | Jamie Mclean |
+| 84 | 112 | Jen |
+| 85 | 111 | Cari Hogan |
+| 86 | 110 | Elaine Webb Graves |
+| 87 | 105 | Nathaniel Hardy |
+| 88 | 105 | candypants |
+| 89 | 104 | Spunky Snapfit |
+| 90 | 104 | Sonya Gail Goodman |
+| 91 | 103 | Brittany Backus |
+| 92 | 103 | Alexander Zamora |
+| 93 | 102 | Connie Mohler-Fair |
+| 94 | 100 | Goofy Linkmatch |
+| 95 | 100 | Dee Kay |
+| 96 | 100 | Jeremiah Gensler |
 | 97 | 100 | Joshua Carter |
-| 98 | 99 | Spunky Snapfit |
+| 98 | 100 | Baleria Ruedas Pantoja |
 | 99 | 97 | Charde Parnell |
 | 100 | 96 | Peachy Matchgrid |
 | 101 | 95 | Kimyatta Cavin |
-| 102 | 93 | Marc |
-| 103 | 93 | Snappy Tiley |
-| 104 | 93 | Dapper Gridclear |
-| 105 | 89 | Ess |
-| 106 | 89 | Beckii Beckford |
+| 102 | 93 | Dapper Gridclear |
+| 103 | 93 | Marc |
+| 104 | 93 | Snappy Tiley |
+| 105 | 89 | Beckii Beckford |
+| 106 | 89 | Ess |
 | 107 | 87 | Jesse Olive |
-| 108 | 85 | TJ Hire |
-| 109 | 85 | Witty Twistslam |
+| 108 | 85 | Witty Twistslam |
+| 109 | 85 | TJ Hire |
 | 110 | 85 | Jason Briggs |
 | 111 | 80 | James Hurley Jr. |
-| 112 | 80 | Twisty Shatter |
-| 113 | 80 | Loopy Clusterer |
+| 112 | 80 | Loopy Clusterer |
+| 113 | 80 | Twisty Shatter |
 | 114 | 80 | btchboy |
 | 115 | 79 | April |
 | 116 | 79 | Amy Villalpando |
