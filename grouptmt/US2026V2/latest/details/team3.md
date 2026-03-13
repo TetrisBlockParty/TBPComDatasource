@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-13 13:32:13 UTC
+# Standings for team3 as of 2026-03-13 13:32:32 UTC
 
 **Total Participants:** 201
 
@@ -18,8 +18,8 @@
 | 10 | 142 | Stephanie Rice |
 | 11 | 140 | Blakkha Brown |
 | 12 | 125 | TriKaraTops |
-| 13 | 120 | Dizzy Gridzone |
-| 14 | 120 | Chris Sladoje |
+| 13 | 120 | Chris Sladoje |
+| 14 | 120 | Dizzy Gridzone |
 | 15 | 110 | Serena Catherine Coladonato |
 | 16 | 103 | Epic Strikerpiece |
 | 17 | 93 | lilseasonz |
@@ -28,8 +28,8 @@
 | 20 | 90 | Sean Michaels |
 | 21 | 88 | TamiJo |
 | 22 | 85 | Quirky Liney |
-| 23 | 80 | Miranda Krentz |
-| 24 | 80 | Ron Gonzalez |
+| 23 | 80 | Ron Gonzalez |
+| 24 | 80 | Miranda Krentz |
 | 25 | 70 | Sterling Blu |
 | 26 | 67 | Kari Smith |
 | 27 | 66 | Nery García |
@@ -38,19 +38,19 @@
 | 30 | 49 | Kelsey Sullivan |
 | 31 | 47 | Dorian |
 | 32 | 46 | Lisa Lisa |
-| 33 | 45 | LaLa Anderson |
-| 34 | 45 | Jordan Brooks |
-| 35 | 45 | Saucy Column |
+| 33 | 45 | Saucy Column |
+| 34 | 45 | LaLa Anderson |
+| 35 | 45 | Jordan Brooks |
 | 36 | 44 | Juanita Thomas |
-| 37 | 40 | Tiffany Krueger |
-| 38 | 40 | Sharron N Johnny Wetzel |
-| 39 | 39 | COMFORT |
-| 40 | 39 | Zany Snap |
-| 41 | 39 | Kyrie Cleasby |
-| 42 | 38 | Slinky Roll |
-| 43 | 38 | Bucky Dent |
+| 37 | 40 | Sharron N Johnny Wetzel |
+| 38 | 40 | Tiffany Krueger |
+| 39 | 39 | Kyrie Cleasby |
+| 40 | 39 | COMFORT |
+| 41 | 39 | Zany Snap |
+| 42 | 38 | Bucky Dent |
+| 43 | 38 | MomOnBreak |
 | 44 | 38 | Spunky Holder |
-| 45 | 37 | MomOnBreak |
+| 45 | 38 | Slinky Roll |
 | 46 | 36 | Dandi |
 | 47 | 36 | Stefani Nicole Landess |
 | 48 | 36 | Mojo |
@@ -58,46 +58,46 @@
 | 50 | 34 | Heather M Purcell |
 | 51 | 34 | Shawn Keister |
 | 52 | 33 | Rosalie Call Kehlenbeck |
-| 53 | 32 | Lillian Mehler |
+| 53 | 32 | Bash |
 | 54 | 32 | Kari Noland |
 | 55 | 32 | Marsha Starr |
-| 56 | 32 | Bash |
-| 57 | 30 | Ty Quarles |
-| 58 | 30 | Kellie |
-| 59 | 30 | Plucky Tower |
-| 60 | 30 | Kate Farok |
-| 61 | 30 | Ashley Tookes |
-| 62 | 30 | Kristine Roller |
+| 56 | 32 | Lillian Mehler |
+| 57 | 30 | Kate Farok |
+| 58 | 30 | Kristine Roller |
+| 59 | 30 | Ashley Tookes |
+| 60 | 30 | Kellie |
+| 61 | 30 | Ty Quarles |
+| 62 | 30 | Plucky Tower |
 | 63 | 28 | Stephanie Gibson |
 | 64 | 28 | Boo-Boo |
 | 65 | 27 | Missy Pierce |
-| 66 | 26 | Laurie LeCroy |
-| 67 | 26 | Cameron |
-| 68 | 25 | Lush Snapfit |
-| 69 | 25 | Spicy Edgepiece |
+| 66 | 26 | Cameron |
+| 67 | 26 | Laurie LeCroy |
+| 68 | 25 | Spicy Edgepiece |
+| 69 | 25 | Lush Snapfit |
 | 70 | 25 | Chirpy Matchbuilder |
 | 71 | 24 | Tievette Crum |
 | 72 | 22 | Mikes Girl |
 | 73 | 21 | Cranky Brickzone |
 | 74 | 21 | Tiffany Gamble |
-| 75 | 20 | lady RedBone |
-| 76 | 20 | Sunny Breaker |
-| 77 | 20 | Meddelhed |
-| 78 | 20 | Lyteskin Greeneyez |
-| 79 | 20 | Jasy Higgins |
-| 80 | 20 | Hope Lancaster Landry |
-| 81 | 20 | QUEENIE K |
-| 82 | 20 | Tessina Dewey-Mancino |
+| 75 | 20 | Aletha Williams |
+| 76 | 20 | Tessina Dewey-Mancino |
+| 77 | 20 | Hope Lancaster Landry |
+| 78 | 20 | Jasy Higgins |
+| 79 | 20 | QUEENIE K |
+| 80 | 20 | lady RedBone |
+| 81 | 20 | Lyteskin Greeneyez |
+| 82 | 20 | Erin Murphy |
 | 83 | 20 | Riley Roach |
-| 84 | 20 | Aletha Williams |
-| 85 | 20 | Erin Murphy |
-| 86 | 19 | Lee Helen Weeks |
+| 84 | 20 | Sunny Breaker |
+| 85 | 20 | Meddelhed |
+| 86 | 19 | Lisa Rachelle Blackmonson |
 | 87 | 19 | Mercy Conner |
-| 88 | 19 | Lisa Rachelle Blackmonson |
-| 89 | 19 | Teneeshia Dunn |
-| 90 | 18 | Amy Perry |
-| 91 | 18 | Twisty Blockpiece |
-| 92 | 18 | Susan Ma |
+| 88 | 19 | Teneeshia Dunn |
+| 89 | 19 | Lee Helen Weeks |
+| 90 | 18 | Twisty Blockpiece |
+| 91 | 18 | Susan Ma |
+| 92 | 18 | Amy Perry |
 | 93 | 18 | Alison Flegal |
 | 94 | 18 | Ada |
 | 95 | 17 | Zippy Cascadeclear |
