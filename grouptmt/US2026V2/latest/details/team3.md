@@ -1,6 +1,6 @@
-# Standings for team3 as of 2026-03-13 12:10:10 UTC
+# Standings for team3 as of 2026-03-13 12:11:10 UTC
 
-**Total Participants:** 25
+**Total Participants:** 27
 
 ## Participant Scores
 
@@ -11,26 +11,28 @@
 | 3 | 30 | Kristine Roller |
 | 4 | 30 | TriKaraTops |
 | 5 | 29 | TamiJo |
-| 6 | 19 | Spunky Holder |
-| 7 | 19 | Beewee |
-| 8 | 18 | Amy Perry |
-| 9 | 17 | Zippy Cascadeclear |
-| 10 | 16 | Plucky Gridroll |
-| 11 | 15 | Emily B Johnson |
-| 12 | 14 | Odysseus |
-| 13 | 11 | Tiffany Gamble |
-| 14 | 10 | Kari Smith |
-| 15 | 10 | Jason Grasso |
-| 16 | 9 | Ashley Ingram |
-| 17 | 8 | Juliet Weathers |
-| 18 | 6 | Dee Franklin |
-| 19 | 6 | Jumpy Pivot |
-| 20 | 6 | Sir-Franchise Drake |
-| 21 | 6 | Laurie LeCroy |
-| 22 | 6 | Lazy Riserfit |
-| 23 | 6 | DefaultUser |
-| 24 | 5 | Spencer Nikki |
-| 25 | 5 | Dreamy Drop |
+| 6 | 21 | Tiffany Gamble |
+| 7 | 19 | Spunky Holder |
+| 8 | 19 | Beewee |
+| 9 | 18 | Amy Perry |
+| 10 | 17 | Zippy Cascadeclear |
+| 11 | 16 | Plucky Gridroll |
+| 12 | 15 | DefaultUser |
+| 13 | 15 | Emily B Johnson |
+| 14 | 14 | Odysseus |
+| 15 | 10 | Candi |
+| 16 | 10 | Kari Smith |
+| 17 | 10 | Jason Grasso |
+| 18 | 9 | Ashley Ingram |
+| 19 | 9 | Juliet Weathers |
+| 20 | 8 | Laurie LeCroy |
+| 21 | 6 | Sir-Franchise Drake |
+| 22 | 6 | Dee Franklin |
+| 23 | 6 | Jumpy Pivot |
+| 24 | 6 | Lazy Riserfit |
+| 25 | 5 | Mary |
+| 26 | 5 | Dreamy Drop |
+| 27 | 5 | Spencer Nikki |
 
 ---
 *Standings created by tournaments datasource generation tool*
