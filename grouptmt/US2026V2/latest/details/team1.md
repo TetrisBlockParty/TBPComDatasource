@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 17:58:13 UTC
+# Standings for team1 as of 2026-03-13 17:58:33 UTC
 
 **Total Participants:** 480
 
@@ -71,11 +71,11 @@
 | 63 | 78 | NunYa |
 | 64 | 78 | Nanan Nanan |
 | 65 | 76 | Tig |
-| 66 | 74 | Hasty Lift |
-| 67 | 74 | Karmyst |
-| 68 | 72 | Ramona Gulledge |
-| 69 | 71 | Kellia S Johnson |
-| 70 | 70 | Marie Helman |
+| 66 | 75 | Marie Helman |
+| 67 | 74 | Hasty Lift |
+| 68 | 74 | Karmyst |
+| 69 | 72 | Ramona Gulledge |
+| 70 | 71 | Kellia S Johnson |
 | 71 | 70 | Amy R Clinton |
 | 72 | 69 | Sam Steig |
 | 73 | 68 | Witty Wipegrid |
@@ -133,68 +133,68 @@
 | 125 | 44 | Kat Kath |
 | 126 | 44 | Bold Zonegrid |
 | 127 | 44 | Happy Shatterfit |
-| 128 | 44 | Michael Felker |
-| 129 | 44 | Neko Preston |
+| 128 | 44 | Neko Preston |
+| 129 | 44 | Michael Felker |
 | 130 | 43 | Dan Engelhard |
 | 131 | 42 | David Larter |
 | 132 | 42 | Travis Taylor |
-| 133 | 41 | Snazzy Rotater |
-| 134 | 41 | Lively Patternfall |
+| 133 | 41 | Lively Patternfall |
+| 134 | 41 | Snazzy Rotater |
 | 135 | 41 | Letson Melissa |
-| 136 | 40 | Chummy Risebuilder |
-| 137 | 40 | Christi Burley |
-| 138 | 40 | David Zeimer |
-| 139 | 40 | Robyn Massey |
+| 136 | 40 | Robyn Massey |
+| 137 | 40 | Chummy Risebuilder |
+| 138 | 40 | Nora Smith |
+| 139 | 40 | David Zeimer |
 | 140 | 40 | Jevon Griffith |
 | 141 | 40 | Kat |
-| 142 | 39 | Ryry |
-| 143 | 39 | Tasha Jasmin |
-| 144 | 39 | Althea Louise |
-| 145 | 39 | Chuck Williams |
-| 146 | 39 | mbij21 |
-| 147 | 38 | Becca Gatrell Barton |
-| 148 | 38 | King D |
+| 142 | 40 | Christi Burley |
+| 143 | 39 | mbij21 |
+| 144 | 39 | Tasha Jasmin |
+| 145 | 39 | Althea Louise |
+| 146 | 39 | Chuck Williams |
+| 147 | 39 | Ryry |
+| 148 | 38 | Megan Bennett |
 | 149 | 38 | Christina Davis |
-| 150 | 38 | Megan Bennett |
-| 151 | 37 | Kimmy White |
-| 152 | 37 | Maxwell Hall |
-| 153 | 36 | Michael Wood |
+| 150 | 38 | Becca Gatrell Barton |
+| 151 | 38 | King D |
+| 152 | 37 | Kimmy White |
+| 153 | 37 | Maxwell Hall |
 | 154 | 36 | Glitzy Linkpiece |
-| 155 | 36 | Hyper Drop |
-| 156 | 36 | Poppy Lift |
-| 157 | 36 | Dreamy Matchclear |
-| 158 | 36 | Steven Ray Real |
+| 155 | 36 | Dreamy Matchclear |
+| 156 | 36 | Steven Ray Real |
+| 157 | 36 | Hyper Drop |
+| 158 | 36 | Poppy Lift |
 | 159 | 36 | Scott Disedare |
-| 160 | 36 | Nora Smith |
+| 160 | 36 | Michael Wood |
 | 161 | 36 | Fancy Shuffler |
-| 162 | 35 | Tammy Straka |
-| 163 | 35 | Edna Clinton |
-| 164 | 35 | Zany Mover |
-| 165 | 35 | Dawn Hoffman |
-| 166 | 34 | Ellieshay |
-| 167 | 34 | Porkobello |
-| 168 | 34 | Daniel McKay |
-| 169 | 34 | Crystal Eubanks |
-| 170 | 33 | Nick R Johnson |
-| 171 | 33 | Delzie J Leigh |
-| 172 | 33 | Zesty Balancepiece |
-| 173 | 33 | Sassy Wrecker |
+| 162 | 35 | Zany Mover |
+| 163 | 35 | Dawn Hoffman |
+| 164 | 35 | Edna Clinton |
+| 165 | 35 | Tammy Straka |
+| 166 | 34 | Daniel McKay |
+| 167 | 34 | Crystal Eubanks |
+| 168 | 34 | Porkobello |
+| 169 | 34 | Ellieshay |
+| 170 | 33 | Delzie J Leigh |
+| 171 | 33 | Sassy Wrecker |
+| 172 | 33 | Nick R Johnson |
+| 173 | 33 | Zesty Balancepiece |
 | 174 | 33 | Flashy Stacky |
-| 175 | 32 | Jonathan Gaffaney |
-| 176 | 32 | Chummy Rollzone |
-| 177 | 32 | Brittney Groler |
-| 178 | 32 | Penny Morrical |
-| 179 | 32 | Jennie Lee Huntley |
-| 180 | 32 | MamaPhee |
+| 175 | 32 | Brittney Groler |
+| 176 | 32 | Jennie Lee Huntley |
+| 177 | 32 | MamaPhee |
+| 178 | 32 | Chummy Rollzone |
+| 179 | 32 | Penny Morrical |
+| 180 | 32 | Jonathan Gaffaney |
 | 181 | 32 | Trishatta YoungDiva Watkins |
 | 182 | 31 | Heather Bell |
-| 183 | 30 | Cynthia Herrmann Egland |
-| 184 | 30 | Perky Glidebuilder |
-| 185 | 30 | Sunny |
-| 186 | 30 | kito23 |
-| 187 | 30 | Beth Anderson |
-| 188 | 30 | Snappy Linkroll |
-| 189 | 30 | Jodie Peterson |
+| 183 | 30 | Beth Anderson |
+| 184 | 30 | Sunny |
+| 185 | 30 | kito23 |
+| 186 | 30 | Snappy Linkroll |
+| 187 | 30 | Jodie Peterson |
+| 188 | 30 | Perky Glidebuilder |
+| 189 | 30 | Cynthia Herrmann Egland |
 | 190 | 30 | KK |
 | 191 | 30 | Jason Garnatz |
 | 192 | 30 | Chris Kelly |
@@ -458,34 +458,34 @@
 | 450 | 6 | Tjango |
 | 451 | 6 | Breezy Block |
 | 452 | 6 | Bri037 |
-| 453 | 6 | cac |
-| 454 | 6 | mrkw |
-| 455 | 6 | Pupcup |
-| 456 | 6 | Austin Wilson |
-| 457 | 6 | Amber Jackson |
+| 453 | 6 | mrkw |
+| 454 | 6 | cac |
+| 455 | 6 | Snippy Tilerpiece |
+| 456 | 6 | Velt Richardson |
+| 457 | 6 | flip |
 | 458 | 6 | Gary Francis Schaffer Jr |
-| 459 | 6 | flip |
-| 460 | 6 | Jpapi |
-| 461 | 6 | Tyrell Harvin |
-| 462 | 6 | Velt Richardson |
-| 463 | 6 | Snippy Tilerpiece |
-| 464 | 5 | Angela Renea Lester |
-| 465 | 5 | Armoni |
-| 466 | 5 | Chrys Peters |
-| 467 | 5 | Samantha Bugg Stitcher |
-| 468 | 5 | Victoria Montenegro Martinez |
-| 469 | 5 | Slinky Stacky |
-| 470 | 5 | Slinky Dashgrid |
-| 471 | 5 | Lulu C Harp |
-| 472 | 5 | Terry Dill |
-| 473 | 5 | Troy Gussler |
-| 474 | 5 | Sarajo Clauson |
-| 475 | 5 | Ras David |
+| 459 | 6 | Austin Wilson |
+| 460 | 6 | Pupcup |
+| 461 | 6 | Amber Jackson |
+| 462 | 6 | Tyrell Harvin |
+| 463 | 6 | Jpapi |
+| 464 | 5 | Chrys Peters |
+| 465 | 5 | Victoria Montenegro Martinez |
+| 466 | 5 | Samantha Bugg Stitcher |
+| 467 | 5 | Brave Piecebuilder |
+| 468 | 5 | Fancy Tilefall |
+| 469 | 5 | Angela Renea Lester |
+| 470 | 5 | MissySai TooRude Ladson |
+| 471 | 5 | Armoni |
+| 472 | 5 | Sarajo Clauson |
+| 473 | 5 | Slinky Stacky |
+| 474 | 5 | Tony Lighthizer |
+| 475 | 5 | Slinky Dashgrid |
 | 476 | 5 | Jennifer Brown |
-| 477 | 5 | MissySai TooRude Ladson |
-| 478 | 5 | Fancy Tilefall |
-| 479 | 5 | Brave Piecebuilder |
-| 480 | 5 | Tony Lighthizer |
+| 477 | 5 | Lulu C Harp |
+| 478 | 5 | Terry Dill |
+| 479 | 5 | Ras David |
+| 480 | 5 | Troy Gussler |
 
 ---
 *Standings created by tournaments datasource generation tool*
