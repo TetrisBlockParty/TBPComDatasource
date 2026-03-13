@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 12:16:11 UTC
+# Standings for team1 as of 2026-03-13 12:16:33 UTC
 
 **Total Participants:** 35
 
@@ -13,11 +13,11 @@
 | 5 | 69 | Megan Klinkner |
 | 6 | 54 | Giddy Cascade |
 | 7 | 39 | Pheezy |
-| 8 | 22 | Jennifer Traywick |
-| 9 | 18 | Jacob Phillips |
-| 10 | 16 | Edna Clinton |
-| 11 | 15 | Panda Rog |
-| 12 | 15 | Lori Dutton |
+| 8 | 27 | Lori Dutton |
+| 9 | 22 | Edna Clinton |
+| 10 | 22 | Jennifer Traywick |
+| 11 | 18 | Jacob Phillips |
+| 12 | 15 | Panda Rog |
 | 13 | 15 | Nikki Robinson |
 | 14 | 15 | mbij21 |
 | 15 | 14 | Elyse YL |

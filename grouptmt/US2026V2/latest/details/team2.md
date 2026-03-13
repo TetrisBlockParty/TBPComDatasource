@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-13 12:16:11 UTC
+# Standings for team2 as of 2026-03-13 12:16:33 UTC
 
 **Total Participants:** 29
 
@@ -6,8 +6,8 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 80 | Becky McClure |
-| 2 | 52 | Crafty Matchfit |
+| 1 | 118 | Crafty Matchfit |
+| 2 | 80 | Becky McClure |
 | 3 | 40 | Arisvet Garcia |
 | 4 | 35 | Chyrisse Norton |
 | 5 | 33 | Pixie |
@@ -22,11 +22,11 @@
 | 14 | 16 | Emilie Creswell |
 | 15 | 14 | Hyper Pop |
 | 16 | 14 | Kitty tet |
-| 17 | 12 | Chloe S |
-| 18 | 11 | Daring Rotator |
-| 19 | 10 | Abigail Stratton |
-| 20 | 10 | Kimberly Garcia |
-| 21 | 9 | Daniel Moore |
+| 17 | 12 | Daniel Moore |
+| 18 | 12 | Chloe S |
+| 19 | 11 | Daring Rotator |
+| 20 | 10 | Abigail Stratton |
+| 21 | 10 | Kimberly Garcia |
 | 22 | 9 | Jason Pence |
 | 23 | 8 | BuzyBee |
 | 24 | 8 | Lauressia MsLovaba Neil |

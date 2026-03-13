@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-13 12:16:11 UTC
+# Standings for team3 as of 2026-03-13 12:16:33 UTC
 
 **Total Participants:** 51
 
@@ -35,9 +35,9 @@
 | 27 | 12 | Juliet Weathers |
 | 28 | 11 | Boo-Boo |
 | 29 | 10 | Jumpy Pivot |
-| 30 | 10 | Candi |
-| 31 | 10 | Jason Grasso |
-| 32 | 9 | Desiree Watson |
+| 30 | 10 | Desiree Watson |
+| 31 | 10 | Candi |
+| 32 | 10 | Jason Grasso |
 | 33 | 9 | Ron Laliberte |
 | 34 | 8 | Katherine Rivera |
 | 35 | 7 | Tyleah Longmire |
