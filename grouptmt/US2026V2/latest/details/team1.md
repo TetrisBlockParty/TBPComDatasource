@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 12:34:12 UTC
+# Standings for team1 as of 2026-03-13 12:34:32 UTC
 
 **Total Participants:** 72
 
@@ -17,7 +17,7 @@
 | 9 | 54 | Giddy Cascade |
 | 10 | 52 | Lori Dutton |
 | 11 | 48 | Jennifer Traywick |
-| 12 | 43 | Tanya Carpenter-Reynolds |
+| 12 | 44 | Tanya Carpenter-Reynolds |
 | 13 | 41 | Dale |
 | 14 | 40 | Christi Burley |
 | 15 | 39 | mbij21 |

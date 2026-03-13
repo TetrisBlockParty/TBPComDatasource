@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-13 12:34:12 UTC
+# Standings for team3 as of 2026-03-13 12:34:32 UTC
 
 **Total Participants:** 87
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 513 | Britney Lynch Caylor |
+| 1 | 613 | Britney Lynch Caylor |
 | 2 | 217 | Shawn Sarah |
 | 3 | 210 | Alisha |
 | 4 | 142 | Stephanie Rice |
@@ -41,8 +41,8 @@
 | 33 | 21 | Tiffany Gamble |
 | 34 | 20 | Aletha Williams |
 | 35 | 20 | Tessina Dewey-Mancino |
-| 36 | 20 | Hope Lancaster Landry |
-| 37 | 20 | Chirpy Matchbuilder |
+| 36 | 20 | Chirpy Matchbuilder |
+| 37 | 20 | Hope Lancaster Landry |
 | 38 | 20 | Kate Farok |
 | 39 | 18 | Amy Perry |
 | 40 | 18 | Marco Martinez |
@@ -55,44 +55,44 @@
 | 47 | 14 | Sarah Berger |
 | 48 | 14 | Marsha Starr |
 | 49 | 14 | Odysseus |
-| 50 | 13 | FATHEAD |
-| 51 | 13 | Desiree Watson |
-| 52 | 12 | Juliet Weathers |
-| 53 | 12 | Krista Blair |
+| 50 | 13 | Desiree Watson |
+| 51 | 13 | FATHEAD |
+| 52 | 12 | Krista Blair |
+| 53 | 12 | Juliet Weathers |
 | 54 | 12 | Cranky Brickzone |
 | 55 | 10 | QUEENIE K |
-| 56 | 10 | Harlequinn N Glover |
-| 57 | 10 | Sonia Flammond |
-| 58 | 10 | Candi |
-| 59 | 10 | Jumpy Pivot |
-| 60 | 10 | Swanky Blockzone |
-| 61 | 10 | Kimberly Walker |
-| 62 | 9 | April Shanahan |
-| 63 | 9 | Ron Laliberte |
-| 64 | 8 | Kens Guth |
-| 65 | 8 | Slinky Roll |
+| 56 | 10 | Erin Murphy |
+| 57 | 10 | Harlequinn N Glover |
+| 58 | 10 | Sonia Flammond |
+| 59 | 10 | Candi |
+| 60 | 10 | Jumpy Pivot |
+| 61 | 10 | Swanky Blockzone |
+| 62 | 10 | Kimberly Walker |
+| 63 | 9 | April Shanahan |
+| 64 | 9 | Ron Laliberte |
+| 65 | 8 | Kens Guth |
 | 66 | 8 | Mikes Girl |
-| 67 | 8 | reom |
-| 68 | 8 | Katherine Rivera |
-| 69 | 7 | Robby Roberts |
-| 70 | 7 | Bougierock |
-| 71 | 6 | Vanesa Colon |
-| 72 | 6 | Spicy Stagger |
-| 73 | 6 | Elise Charlton |
-| 74 | 6 | Sir-Franchise Drake |
-| 75 | 6 | Adrienne Sprayberry |
-| 76 | 6 | Dee Franklin |
-| 77 | 6 | Lazy Riserfit |
-| 78 | 5 | Peachy Fall |
-| 79 | 5 | lady |
-| 80 | 5 | Paula Morrison |
-| 81 | 5 | Mary |
-| 82 | 5 | Spencer Nikki |
-| 83 | 5 | Erin Murphy |
-| 84 | 5 | Yup |
-| 85 | 5 | Dreamy Drop |
-| 86 | 5 | Tam |
-| 87 | 5 | Michelle Andrea |
+| 67 | 8 | Slinky Roll |
+| 68 | 8 | reom |
+| 69 | 8 | Katherine Rivera |
+| 70 | 7 | Robby Roberts |
+| 71 | 7 | Bougierock |
+| 72 | 6 | Vanesa Colon |
+| 73 | 6 | Spicy Stagger |
+| 74 | 6 | Lazy Riserfit |
+| 75 | 6 | Dee Franklin |
+| 76 | 6 | Adrienne Sprayberry |
+| 77 | 6 | Sir-Franchise Drake |
+| 78 | 6 | Elise Charlton |
+| 79 | 5 | Mary |
+| 80 | 5 | Michelle Andrea |
+| 81 | 5 | Tam |
+| 82 | 5 | Dreamy Drop |
+| 83 | 5 | Yup |
+| 84 | 5 | Spencer Nikki |
+| 85 | 5 | Paula Morrison |
+| 86 | 5 | lady |
+| 87 | 5 | Peachy Fall |
 
 ---
 *Standings created by tournaments datasource generation tool*
