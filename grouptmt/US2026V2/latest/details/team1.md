@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 20:24:14 UTC
+# Standings for team1 as of 2026-03-13 20:24:34 UTC
 
 **Total Participants:** 685
 
@@ -62,7 +62,7 @@
 | 54 | 150 | Jena Overall Prescott |
 | 55 | 147 | raffyG |
 | 56 | 144 | Dawn Hoffman |
-| 57 | 137 | Xande NO Lie Williams |
+| 57 | 141 | Xande NO Lie Williams |
 | 58 | 137 | Bigmoco |
 | 59 | 136 | Sunny Swiper |
 | 60 | 124 | Frilly Climber |
