@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-13 17:30:11 UTC
+# Standings for team2 as of 2026-03-13 17:30:34 UTC
 
 **Total Participants:** 493
 
@@ -24,7 +24,7 @@
 | 16 | 360 | Crafty Matchfit |
 | 17 | 337 | Dreamy Linkbuilder |
 | 18 | 314 | SterlingTeri |
-| 19 | 302 | Robert Martinez |
+| 19 | 310 | Robert Martinez |
 | 20 | 297 | Nicole Cannon |
 | 21 | 291 | Mike Carden |
 | 22 | 276 | Nick Jensen |
@@ -57,20 +57,20 @@
 | 49 | 122 | Shelly |
 | 50 | 121 | nickle109 |
 | 51 | 120 | Andrey Sharov |
-| 52 | 111 | Faith Meade |
-| 53 | 105 | candypants |
-| 54 | 104 | Sonya Gail Goodman |
-| 55 | 103 | 1RiRi1 |
+| 52 | 112 | Johanna Massaro |
+| 53 | 111 | Faith Meade |
+| 54 | 105 | candypants |
+| 55 | 104 | Sonya Gail Goodman |
 | 56 | 103 | Alexander Zamora |
 | 57 | 103 | Brittany Backus |
-| 58 | 102 | Johanna Massaro |
-| 59 | 100 | Giggy Matchpiece |
-| 60 | 100 | Jami Howard |
-| 61 | 100 | Baleria Ruedas Pantoja |
-| 62 | 100 | Joshua Carter |
+| 58 | 103 | 1RiRi1 |
+| 59 | 100 | Jami Howard |
+| 60 | 100 | Giggy Matchpiece |
+| 61 | 100 | Goofy Linkmatch |
+| 62 | 100 | Jeremiah Gensler |
 | 63 | 100 | TETRIS |
-| 64 | 100 | Jeremiah Gensler |
-| 65 | 100 | Goofy Linkmatch |
+| 64 | 100 | Joshua Carter |
+| 65 | 100 | Baleria Ruedas Pantoja |
 | 66 | 99 | Danielle Mogg |
 | 67 | 95 | Kimyatta Cavin |
 | 68 | 95 | Elaine Webb Graves |
@@ -79,15 +79,15 @@
 | 71 | 89 | Ess |
 | 72 | 89 | Angela Mindiola |
 | 73 | 85 | TJ Hire |
-| 74 | 80 | btchboy |
-| 75 | 80 | Christy Merriman Addison |
+| 74 | 80 | Christy Merriman Addison |
+| 75 | 80 | btchboy |
 | 76 | 79 | Amy Villalpando |
 | 77 | 73 | Teresa Longwell |
-| 78 | 70 | Laura McPheeters |
+| 78 | 70 | Toph |
 | 79 | 70 | Caitlyn Brown |
-| 80 | 70 | Toph |
-| 81 | 66 | Priscilla Dae Jones |
-| 82 | 66 | Tonya Hadsell |
+| 80 | 70 | Laura McPheeters |
+| 81 | 66 | Tonya Hadsell |
+| 82 | 66 | Priscilla Dae Jones |
 | 83 | 65 | Lora |
 | 84 | 62 | Lindsay Lucas |
 | 85 | 61 | Zak Dunn |
@@ -98,15 +98,15 @@
 | 90 | 60 | Marla Erin Salas |
 | 91 | 59 | Greg Shekailo |
 | 92 | 59 | Breezy Cascader |
-| 93 | 58 | Shanny Anny |
-| 94 | 58 | Audrey Jones |
-| 95 | 57 | Tausha Colella |
-| 96 | 57 | Koipod |
-| 97 | 56 | Star Hart |
-| 98 | 56 | Liana Spikes |
-| 99 | 56 | Chyrisse Norton |
-| 100 | 55 | Beckii Beckford |
-| 101 | 55 | NoShoesNation |
+| 93 | 58 | Audrey Jones |
+| 94 | 58 | Shanny Anny |
+| 95 | 57 | Koipod |
+| 96 | 57 | Tausha Colella |
+| 97 | 56 | Chyrisse Norton |
+| 98 | 56 | Star Hart |
+| 99 | 56 | Liana Spikes |
+| 100 | 55 | NoShoesNation |
+| 101 | 55 | Beckii Beckford |
 | 102 | 55 | Peachy Matchgrid |
 | 103 | 55 | Frisky Riserbuilder |
 | 104 | 55 | squareMel |
@@ -267,44 +267,44 @@
 | 259 | 20 | Andrew Bowen |
 | 260 | 20 | Kristine Salinas |
 | 261 | 20 | April |
-| 262 | 20 | Bouncy Swiper |
-| 263 | 20 | Plucky Snaplink |
-| 264 | 20 | Paul Beeman |
-| 265 | 20 | Leandre Johnson |
-| 266 | 20 | Shelly Marie Lloyd |
-| 267 | 20 | Tipsy Riseclear |
-| 268 | 20 | Danielle Smith |
-| 269 | 20 | Kristina Coleman |
-| 270 | 20 | bschilke128 |
-| 271 | 20 | Wacky Columnbuilder |
-| 272 | 20 | Pippa45 |
-| 273 | 20 | Aaron Dill |
+| 262 | 20 | Tiffany Leon |
+| 263 | 20 | Jesse Olive |
+| 264 | 20 | Nicole Lynnette Mahurin |
+| 265 | 20 | Aaron Dill |
+| 266 | 20 | Pippa45 |
+| 267 | 20 | Bouncy Swiper |
+| 268 | 20 | Tipsy Riseclear |
+| 269 | 20 | Shelly Marie Lloyd |
+| 270 | 20 | Leandre Johnson |
+| 271 | 20 | Terta Manz |
+| 272 | 20 | Paul Beeman |
+| 273 | 20 | Plucky Snaplink |
 | 274 | 20 | Slugger26 |
-| 275 | 20 | Nicole Lynnette Mahurin |
-| 276 | 20 | Jesse Olive |
-| 277 | 20 | Tiffany Leon |
-| 278 | 19 | Terta Manz |
-| 279 | 19 | Sarah Fehring |
-| 280 | 19 | Montiette Mcglown |
-| 281 | 19 | Lush Linkgrid |
+| 275 | 20 | Danielle Smith |
+| 276 | 20 | Kristina Coleman |
+| 277 | 20 | bschilke128 |
+| 278 | 20 | Wacky Columnbuilder |
+| 279 | 19 | Lush Linkgrid |
+| 280 | 19 | Sarah Fehring |
+| 281 | 19 | Montiette Mcglown |
 | 282 | 19 | Waya |
-| 283 | 18 | Qing DG |
-| 284 | 18 | Jess |
-| 285 | 18 | Danielle Thompkins |
+| 283 | 18 | Shelly Babie |
+| 284 | 18 | Reginald Harvey |
+| 285 | 18 | Jess |
 | 286 | 18 | Tiff Vs Tiffany |
-| 287 | 18 | Reginald Harvey |
-| 288 | 18 | JTH |
-| 289 | 18 | Shelly Babie |
-| 290 | 17 | Hyper Gridpiece |
-| 291 | 17 | Diana |
-| 292 | 17 | Kasheba Y Bowens |
+| 287 | 18 | JTH |
+| 288 | 18 | Qing DG |
+| 289 | 18 | Danielle Thompkins |
+| 290 | 17 | Kasheba Y Bowens |
+| 291 | 17 | Cece Ibarra |
+| 292 | 17 | Hyper Gridpiece |
 | 293 | 17 | jay |
 | 294 | 17 | Deb Wasano |
 | 295 | 17 | Ryan LaCasse |
 | 296 | 17 | Lea Gann |
 | 297 | 17 | Tya Ortiz |
-| 298 | 17 | Terry Partain |
-| 299 | 17 | Cece Ibarra |
+| 298 | 17 | Diana |
+| 299 | 17 | Terry Partain |
 | 300 | 16 | Mellinese Nicole King |
 | 301 | 16 | Emilie Creswell |
 | 302 | 16 | Tommy Proctor |

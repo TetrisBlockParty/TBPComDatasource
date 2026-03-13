@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 17:30:11 UTC
+# Standings for team1 as of 2026-03-13 17:30:34 UTC
 
 **Total Participants:** 447
 
@@ -159,124 +159,124 @@
 | 151 | 35 | Zany Mover |
 | 152 | 35 | Tammy Straka |
 | 153 | 35 | Edna Clinton |
-| 154 | 34 | Ellieshay |
-| 155 | 34 | Daniel McKay |
+| 154 | 34 | Daniel McKay |
+| 155 | 34 | Ellieshay |
 | 156 | 34 | Porkobello |
 | 157 | 34 | Crystal Eubanks |
 | 158 | 33 | Flashy Stacky |
 | 159 | 33 | Zesty Balancepiece |
 | 160 | 33 | Delzie J Leigh |
-| 161 | 33 | Sassy Wrecker |
-| 162 | 33 | Nick R Johnson |
+| 161 | 33 | Nick R Johnson |
+| 162 | 33 | Sassy Wrecker |
 | 163 | 32 | Jennie Lee Huntley |
 | 164 | 32 | Chummy Rollzone |
 | 165 | 32 | MamaPhee |
 | 166 | 32 | Trishatta YoungDiva Watkins |
 | 167 | 32 | Jonathan Gaffaney |
 | 168 | 32 | Penny Morrical |
-| 169 | 30 | DoodleBug |
-| 170 | 30 | Perky Glidebuilder |
-| 171 | 30 | Greenie |
-| 172 | 30 | Beth Anderson |
-| 173 | 30 | Jason Garnatz |
-| 174 | 30 | kito23 |
-| 175 | 30 | Snappy Linkroll |
-| 176 | 30 | QueenBee |
-| 177 | 30 | Jodie Peterson |
-| 178 | 30 | Kimberly Goncalves |
+| 169 | 30 | kito23 |
+| 170 | 30 | Beth Anderson |
+| 171 | 30 | Kimberly Goncalves |
+| 172 | 30 | Snappy Linkroll |
+| 173 | 30 | DoodleBug |
+| 174 | 30 | QueenBee |
+| 175 | 30 | Greenie |
+| 176 | 30 | Jodie Peterson |
+| 177 | 30 | Perky Glidebuilder |
+| 178 | 30 | Jason Garnatz |
 | 179 | 30 | Chris Kelly |
 | 180 | 29 | Beavis715 |
 | 181 | 29 | Amanda Diegel |
-| 182 | 29 | Tim Raper |
-| 183 | 29 | Althea Louise |
-| 184 | 28 | Brittney Groler |
+| 182 | 29 | Althea Louise |
+| 183 | 29 | Tim Raper |
+| 184 | 28 | slim |
 | 185 | 28 | Marianne Elizabeth Mills |
-| 186 | 28 | slim |
+| 186 | 28 | Brittney Groler |
 | 187 | 28 | Zany Patternfit |
-| 188 | 27 | Pig02 |
-| 189 | 27 | Samo |
+| 188 | 27 | Samo |
+| 189 | 27 | Pig02 |
 | 190 | 27 | Bean |
-| 191 | 26 | Christi Ames |
-| 192 | 26 | Plucky Dashgrid |
-| 193 | 26 | Cassie Lathem |
-| 194 | 26 | Spicy Clearpiece |
-| 195 | 26 | Bubbly Patterner |
-| 196 | 26 | Becca Gatrell Barton |
-| 197 | 26 | Suzan Frazier |
-| 198 | 25 | Cynthia Herrmann Egland |
+| 191 | 26 | Spicy Clearpiece |
+| 192 | 26 | Christi Ames |
+| 193 | 26 | Bubbly Patterner |
+| 194 | 26 | Becca Gatrell Barton |
+| 195 | 26 | Cassie Lathem |
+| 196 | 26 | Suzan Frazier |
+| 197 | 26 | Plucky Dashgrid |
+| 198 | 25 | Flashy Clicker |
 | 199 | 25 | Haley Anne |
-| 200 | 25 | Melissa Madison |
-| 201 | 25 | Pam Jennings Herzog |
+| 200 | 25 | Pam Jennings Herzog |
+| 201 | 25 | Cynthia Herrmann Egland |
 | 202 | 25 | Krystal McPherson |
-| 203 | 25 | Jessica Lang |
-| 204 | 25 | Carl Hampton |
-| 205 | 25 | Flashy Clicker |
-| 206 | 24 | Eddie Morales |
+| 203 | 25 | Carl Hampton |
+| 204 | 25 | Jessica Lang |
+| 205 | 25 | Melissa Madison |
+| 206 | 24 | Vicki Dougie |
 | 207 | 24 | Colleen McFadden Moldenhauer |
 | 208 | 24 | SLAPNUTZ |
-| 209 | 24 | Vicki Dougie |
-| 210 | 23 | Fluffy |
-| 211 | 23 | Tammy Griffee |
-| 212 | 23 | Laidene Joseph |
-| 213 | 23 | Big rick !!! |
-| 214 | 23 | Tabitha Cornelious |
-| 215 | 22 | Noah Lalonde |
-| 216 | 22 | Lee Sipelii |
-| 217 | 22 | Aaron Arenivaz |
+| 209 | 24 | Eddie Morales |
+| 210 | 23 | Tammy Griffee |
+| 211 | 23 | Fluffy |
+| 212 | 23 | Big rick !!! |
+| 213 | 23 | Tabitha Cornelious |
+| 214 | 23 | Laidene Joseph |
+| 215 | 22 | Lee Sipelii |
+| 216 | 22 | Aaron Arenivaz |
+| 217 | 22 | Noah Lalonde |
 | 218 | 22 | Giddy Swiper |
-| 219 | 21 | CHR |
-| 220 | 21 | Heather Bell |
-| 221 | 21 | Matthew Allan |
-| 222 | 21 | Nerdy Shatterline |
-| 223 | 20 | Edda-Jo Wenneman Dobbs |
-| 224 | 20 | Bubba |
-| 225 | 20 | Jessica Russell |
-| 226 | 20 | Smashanator |
-| 227 | 20 | John Morris |
-| 228 | 20 | Beka |
-| 229 | 20 | Death |
-| 230 | 20 | Garry Junior Davis |
-| 231 | 20 | Shawn Septer |
-| 232 | 20 | Oscar Ferguson |
-| 233 | 20 | Kindra Sinclair |
-| 234 | 20 | Becky Coker |
-| 235 | 20 | Jess Rose |
-| 236 | 20 | tiffany |
-| 237 | 20 | Mean Melly |
-| 238 | 20 | Christen Lawrick |
-| 239 | 20 | Natalia RX Beyer |
-| 240 | 20 | Allena Craft |
-| 241 | 20 | Jamie Jury |
+| 219 | 21 | Heather Bell |
+| 220 | 21 | Matthew Allan |
+| 221 | 21 | Nerdy Shatterline |
+| 222 | 21 | CHR |
+| 223 | 20 | Shawn Septer |
+| 224 | 20 | Oscar Ferguson |
+| 225 | 20 | tiffany |
+| 226 | 20 | Natalia RX Beyer |
+| 227 | 20 | Jessica Russell |
+| 228 | 20 | John Morris |
+| 229 | 20 | Beka |
+| 230 | 20 | Bubba |
+| 231 | 20 | Death |
+| 232 | 20 | Smashanator |
+| 233 | 20 | Christen Lawrick |
+| 234 | 20 | Garry Junior Davis |
+| 235 | 20 | Edda-Jo Wenneman Dobbs |
+| 236 | 20 | Mean Melly |
+| 237 | 20 | Jess Rose |
+| 238 | 20 | Becky Coker |
+| 239 | 20 | Jamie Jury |
+| 240 | 20 | Kindra Sinclair |
+| 241 | 20 | Allena Craft |
 | 242 | 19 | cool kat |
 | 243 | 19 | Jessica Marie Long |
 | 244 | 19 | Epic Fallzone |
-| 245 | 18 | Trina Gee |
-| 246 | 18 | Gregg Scott |
-| 247 | 18 | Quirky Catcher |
-| 248 | 18 | Timothy Long |
-| 249 | 18 | Elizabeth Hughes |
-| 250 | 18 | Joy Bloodworth |
-| 251 | 18 | Dawn Fike |
-| 252 | 18 | Bingo Wingo |
-| 253 | 18 | Matt Aguilar |
-| 254 | 18 | Jacob Phillips |
-| 255 | 18 | Giggly Twistslam |
-| 256 | 17 | SoL |
-| 257 | 17 | Tracy Priceless Gholston |
+| 245 | 18 | Joy Bloodworth |
+| 246 | 18 | Timothy Long |
+| 247 | 18 | Gregg Scott |
+| 248 | 18 | Giggly Twistslam |
+| 249 | 18 | Matt Aguilar |
+| 250 | 18 | Trina Gee |
+| 251 | 18 | Elizabeth Hughes |
+| 252 | 18 | Jacob Phillips |
+| 253 | 18 | Bingo Wingo |
+| 254 | 18 | Dawn Fike |
+| 255 | 18 | Quirky Catcher |
+| 256 | 17 | TheKBr0 |
+| 257 | 17 | Amy Sanford |
 | 258 | 17 | Lisa Marie Sansom |
-| 259 | 17 | Raynsera |
-| 260 | 17 | Amy Sanford |
+| 259 | 17 | Tracy Priceless Gholston |
+| 260 | 17 | Raynsera |
 | 261 | 17 | Cannaman710 |
-| 262 | 17 | TheKBr0 |
-| 263 | 16 | Bearman |
-| 264 | 16 | Tracey Wilson |
-| 265 | 16 | Rebecca Martin |
-| 266 | 16 | Boldy Clicky |
-| 267 | 16 | Zuul Gatekeeper |
+| 262 | 17 | SoL |
+| 263 | 17 | Zuul Gatekeeper |
+| 264 | 16 | Bearman |
+| 265 | 16 | Tracey Wilson |
+| 266 | 16 | Rebecca Martin |
+| 267 | 16 | Boldy Clicky |
 | 268 | 16 | Sallie Sanborn |
 | 269 | 16 | Groovy Glidepiece |
-| 270 | 16 | Cool Dasher |
-| 271 | 16 | Melissa Hart |
+| 270 | 16 | Melissa Hart |
+| 271 | 16 | Cool Dasher |
 | 272 | 16 | eightball119 |
 | 273 | 16 | Anne Garcia |
 | 274 | 15 | Adam Stephanie Parker |
@@ -288,11 +288,11 @@
 | 280 | 15 | William Ramirez |
 | 281 | 15 | Christopher Wesley |
 | 282 | 15 | Bold Clear |
-| 283 | 15 | Hoppy Builderpiece |
-| 284 | 15 | Erica Wynne |
-| 285 | 15 | Ody |
-| 286 | 15 | Richard Cranium |
-| 287 | 15 | Kathy Searles |
+| 283 | 15 | Erica Wynne |
+| 284 | 15 | Hoppy Builderpiece |
+| 285 | 15 | Kathy Searles |
+| 286 | 15 | Ody |
+| 287 | 15 | Richard Cranium |
 | 288 | 15 | Nikki Robinson |
 | 289 | 14 | PennyCandee |
 | 290 | 14 | Katie Martin |
