@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-13 12:58:10 UTC
+# Standings for team3 as of 2026-03-13 12:58:32 UTC
 
 **Total Participants:** 124
 
@@ -59,29 +59,29 @@
 | 51 | 20 | Kellie |
 | 52 | 20 | Chirpy Matchbuilder |
 | 53 | 20 | QUEENIE K |
-| 54 | 20 | Meddelhed |
-| 55 | 20 | Tessina Dewey-Mancino |
-| 56 | 20 | Hope Lancaster Landry |
-| 57 | 19 | Mercy Conner |
-| 58 | 18 | Susan Ma |
-| 59 | 18 | Twisty Blockpiece |
-| 60 | 18 | Amy Perry |
-| 61 | 18 | Juanita Thomas |
-| 62 | 17 | Tyleah Longmire |
-| 63 | 17 | Tammi Larson |
-| 64 | 17 | Juliet Weathers |
-| 65 | 17 | Terry Hickman Fort |
-| 66 | 17 | Zippy Cascadeclear |
-| 67 | 16 | Plucky Gridroll |
-| 68 | 15 | FATHEAD |
-| 69 | 15 | Amanda LeBlanc Oakley |
-| 70 | 15 | DefaultUser |
-| 71 | 15 | Carla Gleaves |
-| 72 | 15 | Quirky Liney |
+| 54 | 20 | Quirky Liney |
+| 55 | 20 | Meddelhed |
+| 56 | 20 | Tessina Dewey-Mancino |
+| 57 | 20 | Hope Lancaster Landry |
+| 58 | 19 | Mercy Conner |
+| 59 | 18 | Susan Ma |
+| 60 | 18 | Twisty Blockpiece |
+| 61 | 18 | Amy Perry |
+| 62 | 18 | Juanita Thomas |
+| 63 | 17 | Tyleah Longmire |
+| 64 | 17 | Tammi Larson |
+| 65 | 17 | Juliet Weathers |
+| 66 | 17 | Terry Hickman Fort |
+| 67 | 17 | Zippy Cascadeclear |
+| 68 | 16 | Plucky Gridroll |
+| 69 | 15 | FATHEAD |
+| 70 | 15 | Amanda LeBlanc Oakley |
+| 71 | 15 | DefaultUser |
+| 72 | 15 | Carla Gleaves |
 | 73 | 15 | April Shanahan |
 | 74 | 15 | Emily B Johnson |
-| 75 | 14 | Sarah Berger |
-| 76 | 14 | Cameron |
+| 75 | 14 | Cameron |
+| 76 | 14 | Sarah Berger |
 | 77 | 14 | Odysseus |
 | 78 | 14 | Alison Flegal |
 | 79 | 13 | Desiree Watson |
@@ -122,14 +122,14 @@
 | 114 | 5 | Mary |
 | 115 | 5 | Paula Morrison |
 | 116 | 5 | Yup |
-| 117 | 5 | Spencer Nikki |
-| 118 | 5 | Michelle Andrea |
-| 119 | 5 | Tam |
-| 120 | 5 | Loopy Fallzone |
-| 121 | 5 | lady |
-| 122 | 5 | Peachy Fall |
-| 123 | 5 | April Gravitt |
-| 124 | 5 | Alyssa Ann |
+| 117 | 5 | Michelle Andrea |
+| 118 | 5 | Tam |
+| 119 | 5 | Loopy Fallzone |
+| 120 | 5 | lady |
+| 121 | 5 | Peachy Fall |
+| 122 | 5 | April Gravitt |
+| 123 | 5 | Alyssa Ann |
+| 124 | 5 | Spencer Nikki |
 
 ---
 *Standings created by tournaments datasource generation tool*
