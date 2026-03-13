@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 20:00:13 UTC
+# Standings for team1 as of 2026-03-13 20:00:37 UTC
 
 **Total Participants:** 649
 
@@ -90,22 +90,22 @@
 | 82 | 87 | Pheezy |
 | 83 | 87 | Lynn Perkins |
 | 84 | 85 | Danielle Kollias |
-| 85 | 82 | Mufi25 |
-| 86 | 82 | Silly Ziggy |
-| 87 | 80 | JustMeNonna |
-| 88 | 80 | Tina Blessed Cage |
-| 89 | 80 | Tami Luce Martin |
+| 85 | 82 | Silly Ziggy |
+| 86 | 82 | Mufi25 |
+| 87 | 80 | Tina Blessed Cage |
+| 88 | 80 | Tami Luce Martin |
+| 89 | 80 | JustMeNonna |
 | 90 | 80 | Diane |
 | 91 | 79 | Poppy Builderline |
 | 92 | 78 | Rennon Scott Wilson |
 | 93 | 78 | NunYa |
 | 94 | 78 | Nanan Nanan |
-| 95 | 76 | Tig |
-| 96 | 76 | Moe Thought |
-| 97 | 74 | Kellia S Johnson |
-| 98 | 74 | Karmyst |
-| 99 | 74 | Witty Wipegrid |
-| 100 | 73 | Kristen Hall |
+| 95 | 77 | Kristen Hall |
+| 96 | 76 | Tig |
+| 97 | 76 | Moe Thought |
+| 98 | 74 | Kellia S Johnson |
+| 99 | 74 | Karmyst |
+| 100 | 74 | Witty Wipegrid |
 | 101 | 72 | Sam Steig |
 | 102 | 72 | QueenBee |
 | 103 | 71 | Kat Mfm Kaul |
@@ -584,77 +584,77 @@
 | 576 | 7 | Daniel R Morgan |
 | 577 | 7 | Bobby |
 | 578 | 7 | Stephen Lockman |
-| 579 | 7 | Dizzy Fallzone |
-| 580 | 7 | waylow |
-| 581 | 7 | Darlene |
-| 582 | 7 | freakyjoe |
-| 583 | 7 | Bouncy Tilerpiece |
-| 584 | 7 | Josh Barringer |
-| 585 | 7 | Randy Bowers |
-| 586 | 7 | Christie Reynolds |
-| 587 | 7 | OmniJoy |
-| 588 | 7 | Clifford Greeniv |
+| 579 | 7 | DG Moyt |
+| 580 | 7 | Christie Reynolds |
+| 581 | 7 | freakyjoe |
+| 582 | 7 | Josh Barringer |
+| 583 | 7 | OmniJoy |
+| 584 | 7 | Dizzy Fallzone |
+| 585 | 7 | Bouncy Tilerpiece |
+| 586 | 7 | Randy Bowers |
+| 587 | 7 | Clifford Greeniv |
+| 588 | 7 | MrsW |
 | 589 | 7 | Nicole McCune |
-| 590 | 7 | Jennifer Kime |
-| 591 | 7 | Aprill Bolton |
-| 592 | 7 | meh |
-| 593 | 7 | Jose Arteaga |
-| 594 | 7 | DG Moyt |
-| 595 | 7 | MrsW |
-| 596 | 6 | Amber Jackson |
-| 597 | 6 | Gary Francis Schaffer Jr |
-| 598 | 6 | Austin Wilson |
-| 599 | 6 | Jack Mattiace |
-| 600 | 6 | Amanda Pauldo-Ivy |
-| 601 | 6 | Kristen Rhoads |
-| 602 | 6 | Crafty Slice |
-| 603 | 6 | Dizzy Pattern |
-| 604 | 6 | Breezy Ivy |
+| 590 | 7 | Aprill Bolton |
+| 591 | 7 | Darlene |
+| 592 | 7 | Jose Arteaga |
+| 593 | 7 | meh |
+| 594 | 7 | waylow |
+| 595 | 7 | Jennifer Kime |
+| 596 | 6 | Tyrell Harvin |
+| 597 | 6 | Austin Wilson |
+| 598 | 6 | Gary Francis Schaffer Jr |
+| 599 | 6 | Monica Blu |
+| 600 | 6 | Amber Jackson |
+| 601 | 6 | Crafty Slice |
+| 602 | 6 | Dizzy Pattern |
+| 603 | 6 | Snippy Tilerpiece |
+| 604 | 6 | cac |
 | 605 | 6 | ajx |
-| 606 | 6 | Snippy Tilerpiece |
-| 607 | 6 | Tyrell Harvin |
-| 608 | 6 | cac |
-| 609 | 6 | flip |
-| 610 | 6 | Monica Blu |
+| 606 | 6 | Kristen Rhoads |
+| 607 | 6 | Breezy Ivy |
+| 608 | 6 | Jack Mattiace |
+| 609 | 6 | Amanda Pauldo-Ivy |
+| 610 | 6 | Randy Clevenger |
 | 611 | 6 | Shelley Hagerman |
-| 612 | 6 | jabba |
-| 613 | 6 | Pupcup |
-| 614 | 6 | Breezy Block |
-| 615 | 6 | Glenda Inthimat |
-| 616 | 6 | Chris Sigurdson |
+| 612 | 6 | flip |
+| 613 | 6 | jabba |
+| 614 | 6 | Pupcup |
+| 615 | 6 | Breezy Block |
+| 616 | 6 | Glenda Inthimat |
 | 617 | 6 | Jpapi |
-| 618 | 6 | Randy Clevenger |
+| 618 | 6 | Chris Sigurdson |
 | 619 | 6 | Tjango |
 | 620 | 6 | Slinky Setter |
-| 621 | 6 | dustin b |
-| 622 | 6 | Jody Jackson |
-| 623 | 5 | Ronda Helton Prater |
-| 624 | 5 | Slinky Dashgrid |
-| 625 | 5 | Sarajo Clauson |
+| 621 | 6 | Jody Jackson |
+| 622 | 6 | dustin b |
+| 623 | 5 | Muhammad |
+| 624 | 5 | Sarajo Clauson |
+| 625 | 5 | Slinky Dashgrid |
 | 626 | 5 | Troy Gussler |
 | 627 | 5 | Jessi Godsey |
 | 628 | 5 | Benjamin Ford |
 | 629 | 5 | Terry Dill |
-| 630 | 5 | MissySai TooRude Ladson |
-| 631 | 5 | Larry McRae |
-| 632 | 5 | Muhammad |
-| 633 | 5 | Amy Hepler |
-| 634 | 5 | Chrys Peters |
-| 635 | 5 | Gavin Carr |
-| 636 | 5 | Terri Beran |
-| 637 | 5 | Charis Stoner |
-| 638 | 5 | LadyKuSh |
-| 639 | 5 | Fancy Tilefall |
-| 640 | 5 | Giggly Rotate |
-| 641 | 5 | Amber Wolfe |
+| 630 | 5 | Larry McRae |
+| 631 | 5 | Ronda Helton Prater |
+| 632 | 5 | Amy Hepler |
+| 633 | 5 | Chrys Peters |
+| 634 | 5 | Gavin Carr |
+| 635 | 5 | Terri Beran |
+| 636 | 5 | Charis Stoner |
+| 637 | 5 | LadyKuSh |
+| 638 | 5 | Fancy Tilefall |
+| 639 | 5 | Giggly Rotate |
+| 640 | 5 | Amber Wolfe |
+| 641 | 5 | Slinky Stacky |
 | 642 | 5 | Armoni |
-| 643 | 5 | Slinky Stacky |
-| 644 | 5 | gag |
-| 645 | 5 | Tony Lighthizer |
+| 643 | 5 | MissySai TooRude Ladson |
+| 644 | 5 | Victoria Montenegro Martinez |
+| 645 | 5 | Jennifer Brown |
 | 646 | 5 | Lulu C Harp |
-| 647 | 5 | Ras David |
-| 648 | 5 | Jennifer Brown |
-| 649 | 5 | Victoria Montenegro Martinez |
+| 647 | 5 | Tony Lighthizer |
+| 648 | 5 | gag |
+| 649 | 5 | Ras David |
 
 ---
 *Standings created by tournaments datasource generation tool*
