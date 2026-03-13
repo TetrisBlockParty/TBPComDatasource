@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 15:44:12 UTC
+# Standings for team1 as of 2026-03-13 15:44:34 UTC
 
 **Total Participants:** 316
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 5922 | Donna Wilkinson |
-| 2 | 2094 | Dizzy Stagger |
+| 2 | 2370 | Dizzy Stagger |
 | 3 | 1712 | Hyper |
 | 4 | 644 | William George Weglage III |
 | 5 | 542 | Amy Roche |
@@ -20,8 +20,8 @@
 | 12 | 240 | Brad Oneill |
 | 13 | 184 | Giddy Cascade |
 | 14 | 180 | Cheeky Crusher |
-| 15 | 157 | Panda Rog |
-| 16 | 156 | Nikita Nelson |
+| 15 | 176 | Nikita Nelson |
+| 16 | 157 | Panda Rog |
 | 17 | 140 | Bouncy Framezone |
 | 18 | 137 | Bigmoco |
 | 19 | 136 | Sunny Swiper |
@@ -47,14 +47,14 @@
 | 39 | 66 | Peachy Curvetile |
 | 40 | 66 | Amee Schnarrs |
 | 41 | 65 | Mufi25 |
-| 42 | 60 | Simmone T. Kadiri |
-| 43 | 60 | Bennett Hunter |
-| 44 | 60 | S Gale Holton |
-| 45 | 60 | Alezandra Smith |
-| 46 | 58 | Witty Clusterfit |
-| 47 | 57 | Lori Dutton |
-| 48 | 56 | Sam Steig |
-| 49 | 54 | raffyG |
+| 42 | 65 | raffyG |
+| 43 | 60 | Simmone T. Kadiri |
+| 44 | 60 | Bennett Hunter |
+| 45 | 60 | S Gale Holton |
+| 46 | 60 | Alezandra Smith |
+| 47 | 58 | Witty Clusterfit |
+| 48 | 57 | Lori Dutton |
+| 49 | 56 | Sam Steig |
 | 50 | 53 | Zany Tower |
 | 51 | 53 | Tisha Cammack |
 | 52 | 53 | Donavon Krahn |
@@ -316,12 +316,12 @@
 | 308 | 5 | Cynthia Herrmann Egland |
 | 309 | 5 | Jennifer Brown |
 | 310 | 5 | Armin Muhamed |
-| 311 | 5 | Victoria Montenegro Martinez |
-| 312 | 5 | Angela Renea Lester |
-| 313 | 5 | Perky Clusterbuilder |
-| 314 | 5 | MissySai TooRude Ladson |
-| 315 | 5 | Carl Hampton |
-| 316 | 5 | Sarajo Clauson |
+| 311 | 5 | Angela Renea Lester |
+| 312 | 5 | Perky Clusterbuilder |
+| 313 | 5 | MissySai TooRude Ladson |
+| 314 | 5 | Carl Hampton |
+| 315 | 5 | Sarajo Clauson |
+| 316 | 5 | Victoria Montenegro Martinez |
 
 ---
 *Standings created by tournaments datasource generation tool*
