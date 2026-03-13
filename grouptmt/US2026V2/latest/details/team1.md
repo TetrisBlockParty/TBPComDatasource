@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 15:54:12 UTC
+# Standings for team1 as of 2026-03-13 15:54:33 UTC
 
 **Total Participants:** 322
 
@@ -35,9 +35,9 @@
 | 27 | 110 | Katherine Walton |
 | 28 | 100 | Albert Josef Toves Means Jr. |
 | 29 | 99 | Hhholmesjr |
-| 30 | 91 | Walter Beltran |
-| 31 | 85 | Pheezy |
-| 32 | 85 | @n@luvmakin |
+| 30 | 95 | @n@luvmakin |
+| 31 | 91 | Walter Beltran |
+| 32 | 85 | Pheezy |
 | 33 | 85 | Cassandra Latimore |
 | 34 | 80 | Diane |
 | 35 | 78 | NunYa |
@@ -283,51 +283,51 @@
 | 275 | 7 | Darlene |
 | 276 | 7 | Herm Junior |
 | 277 | 7 | Missy Lynn |
-| 278 | 7 | key |
-| 279 | 7 | MrsW |
-| 280 | 7 | Jennifer Kime |
-| 281 | 7 | meh |
-| 282 | 6 | Slinky Setter |
-| 283 | 6 | Randy Clevenger |
-| 284 | 6 | Robert Coulter |
-| 285 | 6 | Jack Mattiace |
-| 286 | 6 | Stellar |
-| 287 | 6 | Breezy Ivy |
-| 288 | 6 | ajx |
-| 289 | 6 | Poppy Lift |
-| 290 | 6 | Dizzy Pattern |
-| 291 | 6 | Zuul Gatekeeper |
-| 292 | 6 | Snippy Tilerpiece |
-| 293 | 6 | Monica Blu |
-| 294 | 6 | Kristen Rhoads |
-| 295 | 6 | Jody Jackson |
-| 296 | 6 | Tjango |
-| 297 | 6 | cac |
-| 298 | 6 | Erin Hodges Plumb |
-| 299 | 6 | Tyrell Harvin |
-| 300 | 6 | flip |
-| 301 | 6 | Antoinette Rhinesmith |
-| 302 | 6 | Amber Jackson |
-| 303 | 6 | Austin Wilson |
-| 304 | 6 | Gary Francis Schaffer Jr |
-| 305 | 5 | Slinky Dashgrid |
-| 306 | 5 | Flashy Clicker |
+| 278 | 7 | Jennifer Kime |
+| 279 | 7 | meh |
+| 280 | 7 | MrsW |
+| 281 | 7 | key |
+| 282 | 6 | Robert Coulter |
+| 283 | 6 | Breezy Ivy |
+| 284 | 6 | ajx |
+| 285 | 6 | Poppy Lift |
+| 286 | 6 | Dizzy Pattern |
+| 287 | 6 | Zuul Gatekeeper |
+| 288 | 6 | Monica Blu |
+| 289 | 6 | Randy Clevenger |
+| 290 | 6 | Snippy Tilerpiece |
+| 291 | 6 | Amber Jackson |
+| 292 | 6 | Slinky Setter |
+| 293 | 6 | Jody Jackson |
+| 294 | 6 | Tjango |
+| 295 | 6 | Austin Wilson |
+| 296 | 6 | Erin Hodges Plumb |
+| 297 | 6 | Antoinette Rhinesmith |
+| 298 | 6 | Gary Francis Schaffer Jr |
+| 299 | 6 | Jack Mattiace |
+| 300 | 6 | Kristen Rhoads |
+| 301 | 6 | Stellar |
+| 302 | 6 | flip |
+| 303 | 6 | cac |
+| 304 | 6 | Tyrell Harvin |
+| 305 | 5 | Jennifer Brown |
+| 306 | 5 | Randy Bowers |
 | 307 | 5 | Samantha Bugg Stitcher |
-| 308 | 5 | Sarajo Clauson |
-| 309 | 5 | freakyjoe |
+| 308 | 5 | Flashy Clicker |
+| 309 | 5 | Ras David |
 | 310 | 5 | Armoni |
-| 311 | 5 | Slinky Stacky |
-| 312 | 5 | Randy Bowers |
-| 313 | 5 | Ras David |
-| 314 | 5 | Cynthia Herrmann Egland |
-| 315 | 5 | Jennifer Brown |
-| 316 | 5 | Angela Renea Lester |
-| 317 | 5 | Armin Muhamed |
-| 318 | 5 | Carl Hampton |
+| 311 | 5 | Cynthia Herrmann Egland |
+| 312 | 5 | Angela Renea Lester |
+| 313 | 5 | Slinky Dashgrid |
+| 314 | 5 | MissySai TooRude Ladson |
+| 315 | 5 | Perky Clusterbuilder |
+| 316 | 5 | Sarajo Clauson |
+| 317 | 5 | freakyjoe |
+| 318 | 5 | Terry Dill |
 | 319 | 5 | Victoria Montenegro Martinez |
-| 320 | 5 | Perky Clusterbuilder |
-| 321 | 5 | MissySai TooRude Ladson |
-| 322 | 5 | Terry Dill |
+| 320 | 5 | Carl Hampton |
+| 321 | 5 | Slinky Stacky |
+| 322 | 5 | Armin Muhamed |
 
 ---
 *Standings created by tournaments datasource generation tool*
