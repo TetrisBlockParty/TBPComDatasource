@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 18:34:34 UTC
+# Standings for team1 as of 2026-03-13 18:35:12 UTC
 
 **Total Participants:** 528
 
@@ -46,24 +46,24 @@
 | 38 | 157 | Panda Rog |
 | 39 | 157 | Amee Schnarrs |
 | 40 | 147 | raffyG |
-| 41 | 140 | Peachy Brick |
-| 42 | 137 | Bigmoco |
-| 43 | 136 | Sunny Swiper |
-| 44 | 129 | Xande NO Lie Williams |
-| 45 | 124 | Mighty Patternbuilder |
-| 46 | 123 | Megan Klinkner |
-| 47 | 115 | Tanya Carpenter-Reynolds |
-| 48 | 115 | Michael Powers |
-| 49 | 110 | Philippines |
-| 50 | 110 | Giddy Brickclear |
-| 51 | 110 | Katherine Walton |
-| 52 | 106 | Albert Josef Toves Means Jr. |
-| 53 | 100 | Brandy Ridgeway |
-| 54 | 100 | Ann Brock LaPorte |
-| 55 | 99 | Hhholmesjr |
-| 56 | 95 | Velt Richardson |
-| 57 | 93 | Krystal Mccoy |
-| 58 | 93 | Legendary |
+| 41 | 142 | Velt Richardson |
+| 42 | 140 | Peachy Brick |
+| 43 | 137 | Bigmoco |
+| 44 | 136 | Sunny Swiper |
+| 45 | 129 | Xande NO Lie Williams |
+| 46 | 124 | Mighty Patternbuilder |
+| 47 | 123 | Megan Klinkner |
+| 48 | 115 | Tanya Carpenter-Reynolds |
+| 49 | 115 | Michael Powers |
+| 50 | 110 | Philippines |
+| 51 | 110 | Giddy Brickclear |
+| 52 | 110 | Katherine Walton |
+| 53 | 106 | Albert Josef Toves Means Jr. |
+| 54 | 103 | Legendary |
+| 55 | 100 | Brandy Ridgeway |
+| 56 | 100 | Ann Brock LaPorte |
+| 57 | 99 | Hhholmesjr |
+| 58 | 93 | Krystal Mccoy |
 | 59 | 91 | Walter Beltran |
 | 60 | 88 | Tameka Brown |
 | 61 | 88 | Ramona Gulledge |
@@ -115,51 +115,51 @@
 | 107 | 57 | Lori Dutton |
 | 108 | 55 | Adam McMakin |
 | 109 | 55 | Teresa Wolf |
-| 110 | 55 | Rebekah LeiAnn Bonsell |
-| 111 | 55 | Vergie Michael |
+| 110 | 55 | Vergie Michael |
+| 111 | 55 | Rebekah LeiAnn Bonsell |
 | 112 | 55 | Sabrina Frazier |
 | 113 | 54 | Gina Annese |
 | 114 | 54 | Flashy Rotator |
-| 115 | 53 | Tisha Cammack |
-| 116 | 53 | Mykal Burton |
-| 117 | 53 | Zany Tower |
-| 118 | 53 | Chilly Matchbuilder |
-| 119 | 52 | Melody Rene |
-| 120 | 52 | Donald Nguyen |
-| 121 | 52 | Itn |
-| 122 | 52 | Scott Disedare |
-| 123 | 51 | Joyce Harrell-chavis |
-| 124 | 51 | Yolanda Quinn |
-| 125 | 50 | Goofy Linkblock |
-| 126 | 50 | Andy Harris |
-| 127 | 50 | Aponk |
-| 128 | 50 | CL Meyer |
+| 115 | 53 | Jena Overall Prescott |
+| 116 | 53 | Tisha Cammack |
+| 117 | 53 | Mykal Burton |
+| 118 | 53 | Zany Tower |
+| 119 | 53 | Chilly Matchbuilder |
+| 120 | 52 | Melody Rene |
+| 121 | 52 | Donald Nguyen |
+| 122 | 52 | Itn |
+| 123 | 52 | Scott Disedare |
+| 124 | 51 | Joyce Harrell-chavis |
+| 125 | 51 | Yolanda Quinn |
+| 126 | 50 | Goofy Linkblock |
+| 127 | 50 | Andy Harris |
+| 128 | 50 | Aponk |
 | 129 | 50 | Chill Shiftspin |
-| 130 | 49 | Shiny Party |
-| 131 | 49 | Dale |
-| 132 | 48 | Jena Overall Prescott |
+| 130 | 50 | CL Meyer |
+| 131 | 49 | Shiny Party |
+| 132 | 49 | Dale |
 | 133 | 48 | Bold Clear |
-| 134 | 47 | Althea Louise |
-| 135 | 47 | iceman |
-| 136 | 47 | Tyle Armstead |
-| 137 | 47 | Snazzy Rotater |
+| 134 | 47 | Snazzy Rotater |
+| 135 | 47 | Tyle Armstead |
+| 136 | 47 | iceman |
+| 137 | 47 | Althea Louise |
 | 138 | 46 | Matthew Laudico |
-| 139 | 44 | Kat Kath |
-| 140 | 44 | Bold Zonegrid |
-| 141 | 44 | Neko Preston |
+| 139 | 44 | Bold Zonegrid |
+| 140 | 44 | Neko Preston |
+| 141 | 44 | Kat Kath |
 | 142 | 44 | Michael Felker |
 | 143 | 43 | Dan Engelhard |
-| 144 | 42 | Crafty Clearfit |
+| 144 | 42 | David Larter |
 | 145 | 42 | Travis Taylor |
-| 146 | 42 | David Larter |
-| 147 | 41 | Maxwell Hall |
-| 148 | 41 | Lively Patternfall |
-| 149 | 41 | Letson Melissa |
+| 146 | 42 | Crafty Clearfit |
+| 147 | 41 | Lively Patternfall |
+| 148 | 41 | Letson Melissa |
+| 149 | 41 | Maxwell Hall |
 | 150 | 41 | Glitzy Linkpiece |
-| 151 | 40 | Chummy Risebuilder |
-| 152 | 40 | Robyn Massey |
-| 153 | 40 | Cynthia Herrmann Egland |
-| 154 | 40 | Nora Smith |
+| 151 | 40 | Robyn Massey |
+| 152 | 40 | Cynthia Herrmann Egland |
+| 153 | 40 | Nora Smith |
+| 154 | 40 | Chummy Risebuilder |
 | 155 | 40 | Kat |
 | 156 | 40 | Christi Burley |
 | 157 | 40 | Jevon Griffith |
