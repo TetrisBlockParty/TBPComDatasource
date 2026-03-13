@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 16:32:11 UTC
+# Standings for team1 as of 2026-03-13 16:32:34 UTC
 
 **Total Participants:** 375
 
@@ -368,19 +368,19 @@
 | 360 | 5 | Carl Hampton |
 | 361 | 5 | Jessi Sauer |
 | 362 | 5 | Troy Gussler |
-| 363 | 5 | Angela Renea Lester |
-| 364 | 5 | Armoni |
-| 365 | 5 | Slinky Stacky |
-| 366 | 5 | Randy Bowers |
-| 367 | 5 | Ras David |
-| 368 | 5 | Cynthia Herrmann Egland |
-| 369 | 5 | Armin Muhamed |
-| 370 | 5 | Victoria Montenegro Martinez |
-| 371 | 5 | Perky Clusterbuilder |
-| 372 | 5 | MissySai TooRude Ladson |
-| 373 | 5 | Sarajo Clauson |
-| 374 | 5 | Terry Dill |
-| 375 | 5 | Jennifer Brown |
+| 363 | 5 | Sarajo Clauson |
+| 364 | 5 | MissySai TooRude Ladson |
+| 365 | 5 | Perky Clusterbuilder |
+| 366 | 5 | Victoria Montenegro Martinez |
+| 367 | 5 | Armin Muhamed |
+| 368 | 5 | Jennifer Brown |
+| 369 | 5 | Cynthia Herrmann Egland |
+| 370 | 5 | Ras David |
+| 371 | 5 | Randy Bowers |
+| 372 | 5 | Slinky Stacky |
+| 373 | 5 | Armoni |
+| 374 | 5 | Angela Renea Lester |
+| 375 | 5 | Terry Dill |
 
 ---
 *Standings created by tournaments datasource generation tool*
