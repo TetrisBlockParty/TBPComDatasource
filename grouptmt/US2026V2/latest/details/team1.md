@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 15:42:13 UTC
+# Standings for team1 as of 2026-03-13 15:42:33 UTC
 
 **Total Participants:** 315
 
@@ -308,19 +308,19 @@
 | 300 | 5 | Slinky Dashgrid |
 | 301 | 5 | Flashy Clicker |
 | 302 | 5 | freakyjoe |
-| 303 | 5 | Sarajo Clauson |
-| 304 | 5 | Carl Hampton |
-| 305 | 5 | MissySai TooRude Ladson |
-| 306 | 5 | Angela Renea Lester |
-| 307 | 5 | Perky Clusterbuilder |
-| 308 | 5 | Victoria Montenegro Martinez |
+| 303 | 5 | Terry Dill |
+| 304 | 5 | Randy Bowers |
+| 305 | 5 | Ras David |
+| 306 | 5 | Cynthia Herrmann Egland |
+| 307 | 5 | Armoni |
+| 308 | 5 | Jennifer Brown |
 | 309 | 5 | Armin Muhamed |
-| 310 | 5 | Jennifer Brown |
-| 311 | 5 | Armoni |
-| 312 | 5 | Cynthia Herrmann Egland |
-| 313 | 5 | Ras David |
-| 314 | 5 | Randy Bowers |
-| 315 | 5 | Terry Dill |
+| 310 | 5 | Victoria Montenegro Martinez |
+| 311 | 5 | Perky Clusterbuilder |
+| 312 | 5 | Angela Renea Lester |
+| 313 | 5 | MissySai TooRude Ladson |
+| 314 | 5 | Carl Hampton |
+| 315 | 5 | Sarajo Clauson |
 
 ---
 *Standings created by tournaments datasource generation tool*
