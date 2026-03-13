@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 20:28:15 UTC
+# Standings for team1 as of 2026-03-13 20:28:35 UTC
 
 **Total Participants:** 691
 
@@ -13,7 +13,7 @@
 | 5 | 1620 | Amanda Sheppard |
 | 6 | 1371 | Devinlee Brown |
 | 7 | 1200 | Erica Lepisto Anderson |
-| 8 | 1013 | Vistabrat |
+| 8 | 1063 | Vistabrat |
 | 9 | 941 | Kris Hudelson |
 | 10 | 920 | Selena Rollin |
 | 11 | 913 | phrmblk24 |
@@ -677,26 +677,26 @@
 | 669 | 5 | Giggly Rotate |
 | 670 | 5 | Ronda Helton Prater |
 | 671 | 5 | Crafty Puzzler |
-| 672 | 5 | Larry McRae |
-| 673 | 5 | Amber Wolfe |
-| 674 | 5 | LadyKuSh |
-| 675 | 5 | Terri Beran |
-| 676 | 5 | Muhammad |
-| 677 | 5 | Benjamin Ford |
-| 678 | 5 | Amy Hepler |
-| 679 | 5 | gag |
-| 680 | 5 | Chrys Peters |
-| 681 | 5 | Charis Stoner |
+| 672 | 5 | Amber Wolfe |
+| 673 | 5 | LadyKuSh |
+| 674 | 5 | Terri Beran |
+| 675 | 5 | Muhammad |
+| 676 | 5 | Benjamin Ford |
+| 677 | 5 | Amy Hepler |
+| 678 | 5 | gag |
+| 679 | 5 | Chrys Peters |
+| 680 | 5 | Charis Stoner |
+| 681 | 5 | Fancy Tilefall |
 | 682 | 5 | Slinky Stacky |
-| 683 | 5 | MissySai TooRude Ladson |
-| 684 | 5 | Victoria Montenegro Martinez |
-| 685 | 5 | Jessi Godsey |
-| 686 | 5 | Jennifer Brown |
-| 687 | 5 | Speedy Liney |
-| 688 | 5 | Ras David |
-| 689 | 5 | Lulu C Harp |
-| 690 | 5 | Tony Lighthizer |
-| 691 | 5 | Fancy Tilefall |
+| 683 | 5 | Tony Lighthizer |
+| 684 | 5 | Lulu C Harp |
+| 685 | 5 | Ras David |
+| 686 | 5 | Speedy Liney |
+| 687 | 5 | Jennifer Brown |
+| 688 | 5 | Jessi Godsey |
+| 689 | 5 | Victoria Montenegro Martinez |
+| 690 | 5 | MissySai TooRude Ladson |
+| 691 | 5 | Larry McRae |
 
 ---
 *Standings created by tournaments datasource generation tool*
