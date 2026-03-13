@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-13 12:34:32 UTC
+# Standings for team2 as of 2026-03-13 12:35:11 UTC
 
 **Total Participants:** 55
 
@@ -19,8 +19,8 @@
 | 11 | 40 | Paula Marcus Delsigne |
 | 12 | 40 | Arisvet Garcia |
 | 13 | 37 | Amy Villalpando |
-| 14 | 35 | Chipper Stacky |
-| 15 | 35 | Bow Babe |
+| 14 | 35 | Bow Babe |
+| 15 | 35 | Chipper Stacky |
 | 16 | 33 | Mjhays |
 | 17 | 30 | Beth Smith |
 | 18 | 30 | Julia Freeman |
@@ -28,38 +28,38 @@
 | 20 | 28 | Lindsey Anderson |
 | 21 | 26 | Starr |
 | 22 | 25 | Melody Santiago |
-| 23 | 23 | Sha45 |
-| 24 | 22 | Prette Qui |
-| 25 | 21 | Brave Tilebuilder |
-| 26 | 20 | Veronica Martin Trinkle |
-| 27 | 20 | Wacky Columnbuilder |
+| 23 | 24 | Adam Charles |
+| 24 | 23 | Sha45 |
+| 25 | 22 | Prette Qui |
+| 26 | 21 | Brave Tilebuilder |
+| 27 | 20 | Veronica Martin Trinkle |
 | 28 | 20 | Andrew Bowen |
-| 29 | 19 | Lush Linkgrid |
-| 30 | 18 | Kell Cinn |
+| 29 | 20 | Wacky Columnbuilder |
+| 30 | 19 | Lush Linkgrid |
 | 31 | 18 | Shelly Babie |
-| 32 | 17 | Shelly |
-| 33 | 16 | Hyper Pop |
-| 34 | 16 | Mackenzie Forrester |
-| 35 | 16 | Daring Rotator |
+| 32 | 18 | Kell Cinn |
+| 33 | 17 | Shelly |
+| 34 | 16 | Daring Rotator |
+| 35 | 16 | Mackenzie Forrester |
 | 36 | 16 | Emilie Creswell |
-| 37 | 15 | Adam Charles |
-| 38 | 14 | Kitty tet |
-| 39 | 14 | Sandra McNab |
-| 40 | 14 | Daniel Moore |
+| 37 | 16 | Hyper Pop |
+| 38 | 14 | Daniel Moore |
+| 39 | 14 | Kitty tet |
+| 40 | 14 | Sandra McNab |
 | 41 | 12 | Abigail Stratton |
 | 42 | 10 | Jo Frohwein |
-| 43 | 9 | Jason Pence |
-| 44 | 9 | Lauressia MsLovaba Neil |
+| 43 | 9 | Lauressia MsLovaba Neil |
+| 44 | 9 | Jason Pence |
 | 45 | 9 | Jason Briggs |
 | 46 | 8 | Dreamy Linkbuilder |
 | 47 | 8 | BuzyBee |
 | 48 | 7 | Melissa Williams Blevins |
 | 49 | 7 | Kari Thompson Rock |
-| 50 | 6 | Shiny Framezone |
-| 51 | 6 | TJ Hire |
-| 52 | 6 | Plucky Patternfit |
-| 53 | 5 | Kevin Stultz |
-| 54 | 5 | Tiffany Riccio |
+| 50 | 6 | TJ Hire |
+| 51 | 6 | Plucky Patternfit |
+| 52 | 6 | Shiny Framezone |
+| 53 | 5 | Tiffany Riccio |
+| 54 | 5 | Kevin Stultz |
 | 55 | 5 | Somthin |
 
 ---
