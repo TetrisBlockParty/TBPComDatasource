@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-13 12:25:11 UTC
+# Standings for team2 as of 2026-03-13 12:26:11 UTC
 
 **Total Participants:** 43
 
@@ -6,8 +6,8 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 200 | Cynthia Ward |
-| 2 | 153 | Crafty Matchfit |
+| 1 | 263 | Crafty Matchfit |
+| 2 | 200 | Cynthia Ward |
 | 3 | 148 | Justablock |
 | 4 | 91 | Pixie |
 | 5 | 80 | Becky McClure |
@@ -19,33 +19,33 @@
 | 11 | 30 | Julia Freeman |
 | 12 | 28 | Tori Bowers |
 | 13 | 28 | Lindsey Anderson |
-| 14 | 26 | Brittany Backus |
-| 15 | 26 | Starr |
+| 14 | 26 | Starr |
+| 15 | 26 | Brittany Backus |
 | 16 | 25 | Melody Santiago |
 | 17 | 23 | Sha45 |
 | 18 | 22 | Prette Qui |
 | 19 | 21 | Brave Tilebuilder |
-| 20 | 20 | Andrew Bowen |
-| 21 | 20 | Wacky Columnbuilder |
+| 20 | 20 | Wacky Columnbuilder |
+| 21 | 20 | Andrew Bowen |
 | 22 | 18 | Kell Cinn |
 | 23 | 17 | Shelly |
-| 24 | 16 | Emilie Creswell |
-| 25 | 16 | Mackenzie Forrester |
-| 26 | 16 | Daring Rotator |
+| 24 | 16 | Mackenzie Forrester |
+| 25 | 16 | Daring Rotator |
+| 26 | 16 | Emilie Creswell |
 | 27 | 15 | Shelly Babie |
-| 28 | 14 | Sandra McNab |
-| 29 | 14 | Hyper Pop |
-| 30 | 14 | Daniel Moore |
-| 31 | 14 | Kitty tet |
-| 32 | 12 | Abigail Stratton |
-| 33 | 12 | Robert Martinez |
-| 34 | 11 | Lush Linkgrid |
-| 35 | 9 | Jason Pence |
+| 28 | 14 | Hyper Pop |
+| 29 | 14 | Daniel Moore |
+| 30 | 14 | Kitty tet |
+| 31 | 14 | Sandra McNab |
+| 32 | 12 | Mjhays |
+| 33 | 12 | Abigail Stratton |
+| 34 | 12 | Robert Martinez |
+| 35 | 11 | Lush Linkgrid |
 | 36 | 9 | Lauressia MsLovaba Neil |
-| 37 | 8 | BuzyBee |
-| 38 | 8 | Mjhays |
-| 39 | 6 | Shiny Framezone |
-| 40 | 6 | Bow Babe |
+| 37 | 9 | Jason Pence |
+| 38 | 8 | BuzyBee |
+| 39 | 6 | Bow Babe |
+| 40 | 6 | Shiny Framezone |
 | 41 | 5 | Tiffany Riccio |
 | 42 | 5 | Kevin Stultz |
 | 43 | 5 | Somthin |
