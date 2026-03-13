@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-03-13 12:48:12 UTC
+# Standings for team4 as of 2026-03-13 12:49:12 UTC
 
-**Total Participants:** 187
+**Total Participants:** 196
 
 ## Participant Scores
 
@@ -15,10 +15,10 @@
 | 7 | 200 | LaKisha Anderson |
 | 8 | 145 | Kimberly Rios |
 | 9 | 140 | Zeirela Selazno |
-| 10 | 137 | Patricia White |
-| 11 | 109 | Jessica Spencer |
-| 12 | 104 | Maria Angel Bedell-Face |
-| 13 | 100 | Johanna Pedroza Calle |
+| 10 | 140 | Johanna Pedroza Calle |
+| 11 | 137 | Patricia White |
+| 12 | 134 | Maria Angel Bedell-Face |
+| 13 | 109 | Jessica Spencer |
 | 14 | 98 | Starymist |
 | 15 | 97 | Joy |
 | 16 | 96 | Joseph L Johnson |
@@ -26,173 +26,182 @@
 | 18 | 84 | Leasha Clair |
 | 19 | 84 | Scott Jackson |
 | 20 | 84 | Me01 |
-| 21 | 80 | Hunter Lynn |
-| 22 | 80 | Madeline Pinton Keen |
-| 23 | 80 | Gloo Martinez |
+| 21 | 80 | Madeline Pinton Keen |
+| 22 | 80 | Gloo Martinez |
+| 23 | 80 | Hunter Lynn |
 | 24 | 79 | Kortney Fiorucci |
 | 25 | 69 | Tipsy Tumbler |
 | 26 | 60 | Mrs.Patrica |
 | 27 | 60 | Zippora Marzett |
-| 28 | 60 | Sergio Torres |
-| 29 | 60 | Swanky Linefit |
-| 30 | 57 | MrsYesse Boss LadyBugatti |
-| 31 | 50 | Madison Wicks |
-| 32 | 48 | Monarca26 |
-| 33 | 45 | JianXiang Jimmy Lee |
-| 34 | 45 | cookieesor |
-| 35 | 45 | Poppy Faller |
-| 36 | 44 | Chris Prothro |
-| 37 | 42 | Kari M Enbody |
-| 38 | 40 | Zesty Snapbuild |
-| 39 | 40 | Julay |
-| 40 | 40 | Jared Nadler |
-| 41 | 40 | Twot |
-| 42 | 39 | Amanda Grace Agee |
-| 43 | 39 | Rain |
-| 44 | 36 | Wacky Blockclear |
-| 45 | 35 | Cedric Martinez |
-| 46 | 35 | benjiwrld<3 |
-| 47 | 35 | Abby Garcia |
-| 48 | 34 | BigMan87 |
-| 49 | 33 | Kat |
-| 50 | 33 | Ruth Persid |
-| 51 | 33 | Diamond Applewhite |
-| 52 | 33 | Ly Phethmany |
-| 53 | 31 | Holland Ashlee |
-| 54 | 30 | Lakisha Odom |
-| 55 | 30 | Heather Finnefrock |
-| 56 | 30 | Liseth Vasquez |
-| 57 | 30 | Katherine Maille |
-| 58 | 30 | Perach Alima Shoa |
-| 59 | 30 | Maryann Vac |
-| 60 | 30 | Tipsy Blocker |
-| 61 | 30 | Liz |
-| 62 | 28 | Smiley Slice |
-| 63 | 28 | Travis Kellan |
-| 64 | 26 | Destiny Elizabeth Seidle |
-| 65 | 25 | Niecey Nicole |
-| 66 | 25 | Karrie Brand |
-| 67 | 25 | Giggy Riserfit |
-| 68 | 25 | Nichole Wilson |
+| 28 | 60 | Swanky Linefit |
+| 29 | 60 | Sodayi |
+| 30 | 60 | Julay |
+| 31 | 60 | Sergio Torres |
+| 32 | 57 | MrsYesse Boss LadyBugatti |
+| 33 | 50 | Madison Wicks |
+| 34 | 48 | Liz |
+| 35 | 48 | Monarca26 |
+| 36 | 45 | Poppy Faller |
+| 37 | 45 | JianXiang Jimmy Lee |
+| 38 | 45 | cookieesor |
+| 39 | 44 | Chris Prothro |
+| 40 | 42 | Kari M Enbody |
+| 41 | 40 | John Jude |
+| 42 | 40 | Jared Nadler |
+| 43 | 40 | Sassy Faller |
+| 44 | 40 | Zesty Snapbuild |
+| 45 | 40 | Twot |
+| 46 | 39 | Amanda Grace Agee |
+| 47 | 39 | Rain |
+| 48 | 36 | Wacky Blockclear |
+| 49 | 35 | benjiwrld<3 |
+| 50 | 35 | Abby Garcia |
+| 51 | 35 | Cedric Martinez |
+| 52 | 34 | BigMan87 |
+| 53 | 33 | Ly Phethmany |
+| 54 | 33 | Diamond Applewhite |
+| 55 | 33 | Ruth Persid |
+| 56 | 33 | Kat |
+| 57 | 31 | Holland Ashlee |
+| 58 | 30 | Maryann Vac |
+| 59 | 30 | Tipsy Blocker |
+| 60 | 30 | Heather Finnefrock |
+| 61 | 30 | Lakisha Odom |
+| 62 | 30 | Liseth Vasquez |
+| 63 | 30 | Katherine Maille |
+| 64 | 30 | Nichole Wilson |
+| 65 | 30 | Perach Alima Shoa |
+| 66 | 28 | Travis Kellan |
+| 67 | 28 | Smiley Slice |
+| 68 | 26 | Destiny Elizabeth Seidle |
 | 69 | 25 | Courtney Talty |
-| 70 | 24 | Siara Brandon |
-| 71 | 23 | Nicole Rowley |
-| 72 | 22 | Devious |
-| 73 | 22 | Connie Jimenez |
-| 74 | 22 | POV7 |
-| 75 | 21 | Donna Caparimo |
-| 76 | 21 | Jules10 |
-| 77 | 20 | Albee Menina |
-| 78 | 20 | Clever Link |
-| 79 | 20 | T1nka |
-| 80 | 20 | Lively Rollzone |
-| 81 | 20 | Tomor Nicholas |
-| 82 | 20 | Sodayi |
-| 83 | 20 | Ryan Meilleur |
-| 84 | 20 | Poppy Wobbler |
-| 85 | 20 | Alana Christiano |
-| 86 | 20 | John Jude |
-| 87 | 19 | Laura Loyd Parcher |
-| 88 | 19 | Joeymiki5 |
-| 89 | 19 | Chummy Zone |
-| 90 | 18 | Casey Cook |
-| 91 | 18 | Chuck Fobert |
-| 92 | 18 | Starrs Dcct |
-| 93 | 16 | Tammy Melton |
-| 94 | 16 | Alyssa Papen |
-| 95 | 15 | Dreamy Shatterclear |
-| 96 | 15 | Jennjack |
-| 97 | 15 | Inga Smith |
-| 98 | 15 | Silly Twist |
-| 99 | 14 | Jessica Espinosa Olesh |
-| 100 | 14 | Qoo |
-| 101 | 14 | Dreamy Riserpiece |
-| 102 | 14 | Blockhead |
-| 103 | 14 | Mimi |
-| 104 | 13 | GeorgieMom |
-| 105 | 13 | Tamatha Mcallister |
-| 106 | 13 | Peppy Linkbuilder |
-| 107 | 13 | Anna Marie |
-| 108 | 12 | Kennth lesuer |
-| 109 | 12 | Mrs. Funny |
-| 110 | 12 | Joy |
-| 111 | 12 | Tae Younger Hannah |
-| 112 | 12 | Quetcy Mujica |
-| 113 | 12 | Clever Fitline |
+| 70 | 25 | Karrie Brand |
+| 71 | 25 | Niecey Nicole |
+| 72 | 25 | Poppy Wobbler |
+| 73 | 25 | Giggy Riserfit |
+| 74 | 24 | Siara Brandon |
+| 75 | 24 | POV7 |
+| 76 | 23 | Nicole Rowley |
+| 77 | 22 | Devious |
+| 78 | 22 | Connie Jimenez |
+| 79 | 22 | Rose Tripp |
+| 80 | 21 | Donna Caparimo |
+| 81 | 21 | Jules10 |
+| 82 | 21 | Noelle Anderson |
+| 83 | 20 | Tomor Nicholas |
+| 84 | 20 | T1nka |
+| 85 | 20 | Clever Link |
+| 86 | 20 | Lively Rollzone |
+| 87 | 20 | Albee Menina |
+| 88 | 20 | Alana Christiano |
+| 89 | 20 | Ryan Meilleur |
+| 90 | 19 | Laura Loyd Parcher |
+| 91 | 19 | Joeymiki5 |
+| 92 | 19 | Chummy Zone |
+| 93 | 18 | Casey Cook |
+| 94 | 18 | Starrs Dcct |
+| 95 | 18 | Chuck Fobert |
+| 96 | 16 | Tammy Melton |
+| 97 | 16 | Alyssa Papen |
+| 98 | 15 | Dreamy Shatterclear |
+| 99 | 15 | Inga Smith |
+| 100 | 15 | Jennjack |
+| 101 | 15 | Silly Twist |
+| 102 | 14 | Qoo |
+| 103 | 14 | Blockhead |
+| 104 | 14 | Mimi |
+| 105 | 14 | Dreamy Riserpiece |
+| 106 | 14 | Jessica Espinosa Olesh |
+| 107 | 13 | Tamatha Mcallister |
+| 108 | 13 | GeorgieMom |
+| 109 | 13 | Anna Marie |
+| 110 | 13 | Peppy Linkbuilder |
+| 111 | 12 | Mrs. Funny |
+| 112 | 12 | Desire Rice |
+| 113 | 12 | Kennth lesuer |
 | 114 | 12 | Tdub |
-| 115 | 11 | Marvette Fryar |
-| 116 | 11 | Jose Rivera |
-| 117 | 10 | Gary Stash |
-| 118 | 10 | Amber Porter |
-| 119 | 10 | Chipper Tiler |
-| 120 | 10 | Cheeky Pop |
-| 121 | 10 | Rose Tripp |
-| 122 | 10 | Sadie Reeves |
-| 123 | 10 | Jazlyn Eaton |
-| 124 | 10 | ນາງ ບີ ລາດຊະຈັກ |
-| 125 | 10 | Sheronda Jackson |
-| 126 | 10 | Wacky Fall |
-| 127 | 10 | Ron Shaffer |
+| 115 | 12 | Tae Younger Hannah |
+| 116 | 12 | Quetcy Mujica |
+| 117 | 12 | Joy |
+| 118 | 12 | Clever Fitline |
+| 119 | 11 | Marvette Fryar |
+| 120 | 11 | Exavior Mione |
+| 121 | 11 | Jose Rivera |
+| 122 | 10 | Jazlyn Eaton |
+| 123 | 10 | Peach |
+| 124 | 10 | Dandy Dashgrid |
+| 125 | 10 | AyrianeLynn |
+| 126 | 10 | Theresia Buchholz |
+| 127 | 10 | Amber Porter |
 | 128 | 10 | lea |
-| 129 | 10 | Kayleigh Rodriguez |
-| 130 | 10 | AyrianeLynn |
+| 129 | 10 | Ron Shaffer |
+| 130 | 10 | Jim Hart |
 | 131 | 10 | Joshua Orr |
-| 132 | 10 | Jan Kane |
-| 133 | 9 | Monica Goldhorn |
-| 134 | 9 | George Nutt |
-| 135 | 9 | Nories Mul |
-| 136 | 9 | Noelle Anderson |
-| 137 | 9 | Jessica Bowman |
-| 138 | 9 | Jennifer Hopper |
-| 139 | 9 | Cool Fitzone |
-| 140 | 9 | Amy Cunningham Mitchell |
-| 141 | 9 | Tracey Ann Johnson |
-| 142 | 8 | Mary 2 |
-| 143 | 8 | Bold Curvebuilder |
-| 144 | 8 | Randi Woldin-Speedling |
-| 145 | 8 | Jjrock193 |
-| 146 | 8 | Karen Denen |
-| 147 | 8 | Brie Akmin |
-| 148 | 8 | Nessa Fonseca |
-| 149 | 8 | Lazy Gridmatch |
-| 150 | 8 | Tammy |
-| 151 | 7 | Nanedo |
-| 152 | 7 | Felix Skelton |
-| 153 | 7 | Vdot |
-| 154 | 6 | Lazy Towerbuilder |
-| 155 | 6 | Court |
-| 156 | 6 | ErinOfNY |
-| 157 | 6 | Nicolee Mariee |
-| 158 | 6 | Dandy Dashgrid |
-| 159 | 6 | Swanky Balanceblock |
-| 160 | 6 | Jim Given |
-| 161 | 6 | Gma c |
-| 162 | 6 | Brendo |
-| 163 | 6 | Jessica Renee Artley |
-| 164 | 6 | Julian M Hernandez |
-| 165 | 6 | Big T |
-| 166 | 6 | Cozy Drop |
-| 167 | 6 | Tiffany Branham |
+| 132 | 10 | ນາງ ບີ ລາດຊະຈັກ |
+| 133 | 10 | Gary Stash |
+| 134 | 10 | Sadie Reeves |
+| 135 | 10 | Chipper Tiler |
+| 136 | 10 | Wacky Fall |
+| 137 | 10 | Sheronda Jackson |
+| 138 | 10 | Kayleigh Rodriguez |
+| 139 | 10 | Jan Kane |
+| 140 | 10 | Cheeky Pop |
+| 141 | 9 | Monica Goldhorn |
+| 142 | 9 | Lazy Towerbuilder |
+| 143 | 9 | Jessica Bowman |
+| 144 | 9 | George Nutt |
+| 145 | 9 | Jennifer Hopper |
+| 146 | 9 | Amy Cunningham Mitchell |
+| 147 | 9 | Nories Mul |
+| 148 | 9 | Tracey Ann Johnson |
+| 149 | 9 | Cool Fitzone |
+| 150 | 9 | Curtisia Guillory |
+| 151 | 8 | Karen Denen |
+| 152 | 8 | Tammy |
+| 153 | 8 | Randi Woldin-Speedling |
+| 154 | 8 | Bold Curvebuilder |
+| 155 | 8 | Mary 2 |
+| 156 | 8 | Brie Akmin |
+| 157 | 8 | Jjrock193 |
+| 158 | 8 | Nessa Fonseca |
+| 159 | 8 | Lazy Gridmatch |
+| 160 | 7 | Felix Skelton |
+| 161 | 7 | Vdot |
+| 162 | 7 | Nanedo |
+| 163 | 6 | Jim Given |
+| 164 | 6 | Nicolee Mariee |
+| 165 | 6 | ErinOfNY |
+| 166 | 6 | Wungun Shun |
+| 167 | 6 | Court |
 | 168 | 6 | Chris Marrow |
-| 169 | 6 | Danielle |
-| 170 | 6 | Wungun Shun |
-| 171 | 5 | Hoppy Glidebuilder |
-| 172 | 5 | Jason Dickens |
-| 173 | 5 | WolverineAce |
-| 174 | 5 | Erin Sabol |
-| 175 | 5 | Brittany Barr |
-| 176 | 5 | Dan |
-| 177 | 5 | Michael Campbell |
-| 178 | 5 | Mathew Tripp |
-| 179 | 5 | Raquel |
-| 180 | 5 | Exavior Mione |
+| 169 | 6 | Swanky Clicker |
+| 170 | 6 | Raquel |
+| 171 | 6 | Gma c |
+| 172 | 6 | Julian M Hernandez |
+| 173 | 6 | Jessica Renee Artley |
+| 174 | 6 | Big T |
+| 175 | 6 | Swanky Balanceblock |
+| 176 | 6 | Tiffany Branham |
+| 177 | 6 | Cozy Drop |
+| 178 | 6 | Danielle |
+| 179 | 6 | Brendo |
+| 180 | 5 | Jazzy Framezone |
 | 181 | 5 | Jevi |
-| 182 | 5 | Jazzy Framezone |
-| 183 | 5 | Chloe Alexis |
-| 184 | 5 | BABS |
-| 185 | 5 | Terri |
-| 186 | 5 | Cranky Grid |
-| 187 | 5 | James Alonzo Patterson |
+| 182 | 5 | Erin Sabol |
+| 183 | 5 | WolverineAce |
+| 184 | 5 | Brittany Barr |
+| 185 | 5 | Pa Morales |
+| 186 | 5 | Spicy Tetrisline |
+| 187 | 5 | Mathew Tripp |
+| 188 | 5 | Michael Campbell |
+| 189 | 5 | BABS |
+| 190 | 5 | Terri |
+| 191 | 5 | Jason Dickens |
+| 192 | 5 | Chloe Alexis |
+| 193 | 5 | Dan |
+| 194 | 5 | James Alonzo Patterson |
+| 195 | 5 | Hoppy Glidebuilder |
+| 196 | 5 | Cranky Grid |
 
 ---
 *Standings created by tournaments datasource generation tool*
