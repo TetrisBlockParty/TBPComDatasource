@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 13:39:11 UTC
+# Standings for team1 as of 2026-03-13 13:40:11 UTC
 
 **Total Participants:** 165
 
@@ -138,39 +138,39 @@
 | 130 | 7 | Jennifer Kime |
 | 131 | 7 | MrsW |
 | 132 | 7 | Michael Felker |
-| 133 | 6 | Tyrell Harvin |
-| 134 | 6 | Tina Kocher Zimmerman |
-| 135 | 6 | Randy Clevenger |
-| 136 | 6 | Robert Coulter |
-| 137 | 6 | SLAPNUTZ |
-| 138 | 6 | Delzie J Leigh |
-| 139 | 6 | Slinky Setter |
-| 140 | 6 | Jody Jackson |
-| 141 | 6 | Tjango |
-| 142 | 6 | ajx |
-| 143 | 6 | MamaPhee |
-| 144 | 6 | Antoinette Rhinesmith |
-| 145 | 6 | Ellieshay |
-| 146 | 6 | Breezy Ivy |
-| 147 | 6 | Monica Blu |
-| 148 | 6 | cac |
-| 149 | 6 | Poppy Lift |
-| 150 | 6 | Jack Mattiace |
-| 151 | 6 | Sunny Swiper |
-| 152 | 6 | Zuul Gatekeeper |
-| 153 | 6 | Liz M Durfee |
-| 154 | 6 | Kristen Rhoads |
+| 133 | 6 | ajx |
+| 134 | 6 | Ellieshay |
+| 135 | 6 | Antoinette Rhinesmith |
+| 136 | 6 | MamaPhee |
+| 137 | 6 | Tyrell Harvin |
+| 138 | 6 | Tjango |
+| 139 | 6 | Jody Jackson |
+| 140 | 6 | Slinky Setter |
+| 141 | 6 | Delzie J Leigh |
+| 142 | 6 | SLAPNUTZ |
+| 143 | 6 | Robert Coulter |
+| 144 | 6 | Randy Clevenger |
+| 145 | 6 | Tina Kocher Zimmerman |
+| 146 | 6 | Monica Blu |
+| 147 | 6 | cac |
+| 148 | 6 | Breezy Ivy |
+| 149 | 6 | Sunny Swiper |
+| 150 | 6 | Poppy Lift |
+| 151 | 6 | Zuul Gatekeeper |
+| 152 | 6 | Jack Mattiace |
+| 153 | 6 | Kristen Rhoads |
+| 154 | 6 | Liz M Durfee |
 | 155 | 6 | Dizzy Pattern |
-| 156 | 5 | Samantha Bugg Stitcher |
-| 157 | 5 | Flashy Clicker |
+| 156 | 5 | Flashy Clicker |
+| 157 | 5 | Samantha Bugg Stitcher |
 | 158 | 5 | Jennifer Brown |
 | 159 | 5 | Perky Clusterbuilder |
 | 160 | 5 | Sarajo Clauson |
 | 161 | 5 | Armin Muhamed |
 | 162 | 5 | Victoria Montenegro Martinez |
 | 163 | 5 | freakyjoe |
-| 164 | 5 | MissySai TooRude Ladson |
-| 165 | 5 | Ash Galvan |
+| 164 | 5 | Ash Galvan |
+| 165 | 5 | MissySai TooRude Ladson |
 
 ---
 *Standings created by tournaments datasource generation tool*
