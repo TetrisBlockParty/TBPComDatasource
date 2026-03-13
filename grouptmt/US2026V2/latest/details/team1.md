@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 19:30:14 UTC
+# Standings for team1 as of 2026-03-13 19:30:35 UTC
 
 **Total Participants:** 612
 
@@ -601,7 +601,7 @@
 | 593 | 5 | Slinky Dashgrid |
 | 594 | 5 | Samantha Bugg Stitcher |
 | 595 | 5 | Amy Hepler |
-| 596 | 5 | Tony Lighthizer |
+| 596 | 5 | Ronda Helton Prater |
 | 597 | 5 | Amber Wolfe |
 | 598 | 5 | Chrys Peters |
 | 599 | 5 | Muhammad |
@@ -609,7 +609,7 @@
 | 601 | 5 | Fancy Tilefall |
 | 602 | 5 | Armoni |
 | 603 | 5 | Slinky Stacky |
-| 604 | 5 | Lulu C Harp |
+| 604 | 5 | Tony Lighthizer |
 | 605 | 5 | Ras David |
 | 606 | 5 | Jennifer Brown |
 | 607 | 5 | LadyKuSh |
@@ -617,7 +617,7 @@
 | 609 | 5 | Victoria Montenegro Martinez |
 | 610 | 5 | MissySai TooRude Ladson |
 | 611 | 5 | Larry McRae |
-| 612 | 5 | Ronda Helton Prater |
+| 612 | 5 | Lulu C Harp |
 
 ---
 *Standings created by tournaments datasource generation tool*
