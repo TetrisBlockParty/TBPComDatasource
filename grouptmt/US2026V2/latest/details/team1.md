@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 20:06:35 UTC
+# Standings for team1 as of 2026-03-13 20:07:13 UTC
 
 **Total Participants:** 655
 
@@ -77,14 +77,14 @@
 | 69 | 110 | Silly Ziggy |
 | 70 | 110 | Kris Koepke |
 | 71 | 106 | Albert Josef Toves Means Jr. |
-| 72 | 100 | Cassandra Latimore |
-| 73 | 100 | Ann Brock LaPorte |
+| 72 | 100 | Ann Brock LaPorte |
+| 73 | 100 | Bennett Hunter |
 | 74 | 100 | Brandy Ridgeway |
-| 75 | 100 | Bennett Hunter |
+| 75 | 100 | Cassandra Latimore |
 | 76 | 99 | Hhholmesjr |
 | 77 | 99 | Christopher James Cienfuegos |
-| 78 | 94 | Hasty Lift |
-| 79 | 93 | Danielle Kollias |
+| 78 | 96 | Danielle Kollias |
+| 79 | 94 | Hasty Lift |
 | 80 | 91 | Walter Beltran |
 | 81 | 90 | Chill Shiftspin |
 | 82 | 89 | Marie Helman |
@@ -92,18 +92,18 @@
 | 84 | 87 | Lynn Perkins |
 | 85 | 87 | Pheezy |
 | 86 | 82 | Mufi25 |
-| 87 | 80 | Diane |
-| 88 | 80 | Tami Luce Martin |
-| 89 | 80 | JustMeNonna |
-| 90 | 80 | Tina Blessed Cage |
+| 87 | 80 | Tami Luce Martin |
+| 88 | 80 | Tina Blessed Cage |
+| 89 | 80 | Diane |
+| 90 | 80 | JustMeNonna |
 | 91 | 79 | Poppy Builderline |
-| 92 | 78 | Rennon Scott Wilson |
-| 93 | 78 | Kristen Hall |
-| 94 | 78 | NunYa |
-| 95 | 78 | Nanan Nanan |
-| 96 | 76 | Tig |
-| 97 | 76 | Moe Thought |
-| 98 | 74 | Witty Wipegrid |
+| 92 | 78 | Nanan Nanan |
+| 93 | 78 | NunYa |
+| 94 | 78 | Witty Wipegrid |
+| 95 | 78 | Rennon Scott Wilson |
+| 96 | 78 | Kristen Hall |
+| 97 | 76 | Tig |
+| 98 | 76 | Moe Thought |
 | 99 | 74 | Kat Mfm Kaul |
 | 100 | 74 | Kellia S Johnson |
 | 101 | 74 | Karmyst |
@@ -466,55 +466,55 @@
 | 458 | 14 | Bold Fallzone |
 | 459 | 14 | Dace Zoltners |
 | 460 | 14 | Mel Fab |
-| 461 | 14 | April Moore |
-| 462 | 14 | Katie Martin |
-| 463 | 14 | Spunky Rollblock |
+| 461 | 14 | BingoStarr |
+| 462 | 14 | Spunky Rollblock |
+| 463 | 14 | Katie Martin |
 | 464 | 14 | Trisha Gallagher |
-| 465 | 14 | BingoStarr |
-| 466 | 13 | Audicia Bailey |
+| 465 | 14 | April Moore |
+| 466 | 13 | Natasha Velasquez Gabriel |
 | 467 | 13 | Disha Chaudhari |
 | 468 | 13 | Elizabeth A Cobuccio |
 | 469 | 13 | Timothy Lott |
 | 470 | 13 | Jill Goff |
-| 471 | 13 | Natasha Velasquez Gabriel |
-| 472 | 13 | Kjnals Wall |
-| 473 | 13 | Susan Marsh |
+| 471 | 13 | Kjnals Wall |
+| 472 | 13 | Susan Marsh |
+| 473 | 13 | Audicia Bailey |
 | 474 | 13 | pretty kitty |
 | 475 | 13 | Deandre Young |
 | 476 | 13 | Dunlap Loretta |
-| 477 | 12 | crunchy panda |
+| 477 | 12 | Erin Hodges Plumb |
 | 478 | 12 | Ryan N. Mason |
 | 479 | 12 | OzzyFan4Life |
 | 480 | 12 | Heather Ann |
 | 481 | 12 | Rex Max |
 | 482 | 12 | MammaCass |
 | 483 | 12 | Liz M Durfee |
-| 484 | 12 | Erin Hodges Plumb |
+| 484 | 12 | crunchy panda |
 | 485 | 12 | e |
-| 486 | 12 | Mechelle Bailum |
-| 487 | 12 | Debra Reynolds |
+| 486 | 12 | Debra Reynolds |
+| 487 | 12 | Mechelle Bailum |
 | 488 | 12 | Leche |
 | 489 | 12 | James Burda |
 | 490 | 12 | Lush Dasher |
 | 491 | 12 | Jessica Goble |
-| 492 | 11 | Wulfbyte |
-| 493 | 11 | Alex Hernandez |
-| 494 | 11 | Kevin Russell |
-| 495 | 11 | Frank Jusyandfair |
-| 496 | 11 | Maju Restini |
-| 497 | 11 | Jodie Andring |
-| 498 | 11 | Geno Bankroll McGill |
-| 499 | 11 | Roberta Arnold |
-| 500 | 11 | Phyllis Odister |
-| 501 | 11 | Yvonne Buie |
-| 502 | 11 | Pam Salsman |
-| 503 | 11 | Tina Kocher Zimmerman |
-| 504 | 11 | Sabrina Mansfield |
-| 505 | 10 | Tracie Corbett |
-| 506 | 10 | Kay Alifi |
-| 507 | 10 | MarLa Alioto |
+| 492 | 12 | Zippy Cascadezone |
+| 493 | 11 | Wulfbyte |
+| 494 | 11 | Frank Jusyandfair |
+| 495 | 11 | Kevin Russell |
+| 496 | 11 | Alex Hernandez |
+| 497 | 11 | Maju Restini |
+| 498 | 11 | Jodie Andring |
+| 499 | 11 | Geno Bankroll McGill |
+| 500 | 11 | Roberta Arnold |
+| 501 | 11 | Phyllis Odister |
+| 502 | 11 | Yvonne Buie |
+| 503 | 11 | Pam Salsman |
+| 504 | 11 | Tina Kocher Zimmerman |
+| 505 | 11 | Sabrina Mansfield |
+| 506 | 10 | Tracie Corbett |
+| 507 | 10 | Kay Alifi |
 | 508 | 10 | Jason Wreggitt |
-| 509 | 10 | Alexandra Karavias |
+| 509 | 10 | MarLa Alioto |
 | 510 | 10 | Danita Banks |
 | 511 | 10 | Stellar |
 | 512 | 10 | Shrimp0711 |
@@ -522,7 +522,7 @@
 | 514 | 10 | Bryan Dickerson |
 | 515 | 10 | Alex Nicol |
 | 516 | 10 | Epic Glider |
-| 517 | 10 | Margie Olivas |
+| 517 | 10 | Mary Pelley |
 | 518 | 10 | Cooldamalley |
 | 519 | 10 | paupau |
 | 520 | 10 | Kim Morgan Henderson |
@@ -537,16 +537,16 @@
 | 529 | 10 | Giles McNair |
 | 530 | 10 | BDubb |
 | 531 | 10 | Bill Sayed |
-| 532 | 10 | Mary Pelley |
-| 533 | 10 | Swalshy |
-| 534 | 10 | Shekita Gibbs |
-| 535 | 9 | Barbara Miller |
-| 536 | 9 | Jennifer Bunker |
-| 537 | 9 | Bob Sitts |
-| 538 | 9 | Frilly Breaker |
-| 539 | 9 | Daisy Sunny |
+| 532 | 10 | Alexandra Karavias |
+| 533 | 10 | Margie Olivas |
+| 534 | 10 | Swalshy |
+| 535 | 10 | Shekita Gibbs |
+| 536 | 9 | Barbara Miller |
+| 537 | 9 | Jennifer Bunker |
+| 538 | 9 | Bob Sitts |
+| 539 | 9 | Frilly Breaker |
 | 540 | 9 | LaVance Parker |
-| 541 | 9 | Zippy Cascadezone |
+| 541 | 9 | Daisy Sunny |
 | 542 | 9 | Zach Thompson |
 | 543 | 9 | Andrea Clippert |
 | 544 | 9 | Danessa Pettite |
