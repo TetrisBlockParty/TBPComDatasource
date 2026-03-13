@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-13 12:52:23 UTC
+# Standings for team2 as of 2026-03-13 12:53:12 UTC
 
 **Total Participants:** 78
 
@@ -12,9 +12,9 @@
 | 4 | 183 | Pixie |
 | 5 | 145 | Robert Martinez |
 | 6 | 103 | Brittany Backus |
-| 7 | 80 | Andrey Sharov |
-| 8 | 80 | Becky McClure |
-| 9 | 80 | TETRIS |
+| 7 | 100 | Andrey Sharov |
+| 8 | 80 | TETRIS |
+| 9 | 80 | Becky McClure |
 | 10 | 70 | Caitlyn Brown |
 | 11 | 60 | Jo Frohwein |
 | 12 | 59 | Breezy Cascader |
@@ -23,9 +23,9 @@
 | 15 | 46 | Mjhays |
 | 16 | 43 | Chyrisse Norton |
 | 17 | 42 | Sarah Marie |
-| 18 | 40 | Arisvet Garcia |
-| 19 | 40 | Paula Marcus Delsigne |
-| 20 | 40 | Veronica Martin Trinkle |
+| 18 | 40 | Veronica Martin Trinkle |
+| 19 | 40 | Arisvet Garcia |
+| 20 | 40 | Paula Marcus Delsigne |
 | 21 | 37 | Amy Villalpando |
 | 22 | 35 | Bow Babe |
 | 23 | 35 | Chipper Stacky |
@@ -37,31 +37,31 @@
 | 29 | 27 | Adam Charles |
 | 30 | 26 | Brave Tilebuilder |
 | 31 | 26 | Starr |
-| 32 | 25 | Melody Santiago |
-| 33 | 25 | Guillaume Clermont |
+| 32 | 25 | Guillaume Clermont |
+| 33 | 25 | Melody Santiago |
 | 34 | 24 | Prette Qui |
-| 35 | 24 | Snippy Basepiece |
-| 36 | 24 | Zack Theisen |
+| 35 | 24 | Zack Theisen |
+| 36 | 24 | Snippy Basepiece |
 | 37 | 23 | Sha45 |
 | 38 | 20 | Andrew Bowen |
 | 39 | 20 | Wacky Columnbuilder |
 | 40 | 19 | Lush Linkgrid |
-| 41 | 18 | Nerdy Clearer |
-| 42 | 18 | Rigoberto Sanchez Jr. |
-| 43 | 18 | Reginald Harvey |
-| 44 | 18 | Shelly Babie |
+| 41 | 18 | Rigoberto Sanchez Jr. |
+| 42 | 18 | Shelly Babie |
+| 43 | 18 | Nerdy Clearer |
+| 44 | 18 | Reginald Harvey |
 | 45 | 18 | Kell Cinn |
-| 46 | 17 | Shelly |
-| 47 | 17 | Nikki Speer |
+| 46 | 17 | Nikki Speer |
+| 47 | 17 | Shelly |
 | 48 | 16 | Mackenzie Forrester |
-| 49 | 16 | Daring Rotator |
-| 50 | 16 | Hyper Pop |
-| 51 | 16 | Emilie Creswell |
+| 49 | 16 | Hyper Pop |
+| 50 | 16 | Emilie Creswell |
+| 51 | 16 | Daring Rotator |
 | 52 | 15 | TreeWee |
-| 53 | 14 | Daniel Moore |
-| 54 | 14 | Sandra McNab |
-| 55 | 14 | Rhonda Winn Hohman |
-| 56 | 14 | Kitty tet |
+| 53 | 14 | Sandra McNab |
+| 54 | 14 | Daniel Moore |
+| 55 | 14 | Kitty tet |
+| 56 | 14 | Rhonda Winn Hohman |
 | 57 | 12 | Abigail Stratton |
 | 58 | 12 | Jason Briggs |
 | 59 | 9 | Haley Bell |
@@ -75,15 +75,15 @@
 | 67 | 7 | Melissa Williams Blevins |
 | 68 | 7 | Mzjudged Niteowl |
 | 69 | 7 | Kari Thompson Rock |
-| 70 | 6 | TJ Hire |
-| 71 | 6 | Plucky Patternfit |
-| 72 | 6 | Diana |
+| 70 | 6 | Diana |
+| 71 | 6 | TJ Hire |
+| 72 | 6 | Plucky Patternfit |
 | 73 | 6 | Shiny Framezone |
 | 74 | 5 | Anita Johnson |
-| 75 | 5 | Somthin |
-| 76 | 5 | Kevin Stultz |
+| 75 | 5 | Kevin Stultz |
+| 76 | 5 | Cathy Bitters |
 | 77 | 5 | Tiffany Riccio |
-| 78 | 5 | Cathy Bitters |
+| 78 | 5 | Somthin |
 
 ---
 *Standings created by tournaments datasource generation tool*

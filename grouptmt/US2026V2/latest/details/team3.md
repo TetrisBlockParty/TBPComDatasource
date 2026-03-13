@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-13 12:52:23 UTC
+# Standings for team3 as of 2026-03-13 12:53:12 UTC
 
 **Total Participants:** 117
 
@@ -6,13 +6,13 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 1163 | Britney Lynch Caylor |
+| 1 | 1313 | Britney Lynch Caylor |
 | 2 | 708 | Shawn Sarah |
-| 3 | 239 | Jessica Bechler |
-| 4 | 226 | Beewee |
-| 5 | 210 | Alisha |
-| 6 | 179 | Cranky Tiltbuilder |
-| 7 | 149 | Jason Grasso |
+| 3 | 323 | Jason Grasso |
+| 4 | 239 | Jessica Bechler |
+| 5 | 226 | Beewee |
+| 6 | 210 | Alisha |
+| 7 | 179 | Cranky Tiltbuilder |
 | 8 | 142 | Stephanie Rice |
 | 9 | 125 | TriKaraTops |
 | 10 | 120 | Chris Sladoje |
@@ -27,13 +27,13 @@
 | 19 | 65 | Sean Michaels |
 | 20 | 60 | Dizzy Gridzone |
 | 21 | 49 | Kelsey Sullivan |
-| 22 | 46 | Lisa Lisa |
-| 23 | 45 | LaLa Anderson |
-| 24 | 42 | Marco Martinez |
+| 22 | 48 | Marco Martinez |
+| 23 | 46 | Lisa Lisa |
+| 24 | 45 | LaLa Anderson |
 | 25 | 39 | Miranda Krentz |
 | 26 | 39 | COMFORT |
-| 27 | 38 | Spunky Holder |
-| 28 | 38 | Bucky Dent |
+| 27 | 38 | Bucky Dent |
+| 28 | 38 | Spunky Holder |
 | 29 | 36 | Chet Manley |
 | 30 | 36 | Saucy Column |
 | 31 | 34 | Heather M Purcell |
@@ -47,22 +47,22 @@
 | 39 | 26 | Laurie LeCroy |
 | 40 | 25 | Epic Strikerpiece |
 | 41 | 24 | Tievette Crum |
-| 42 | 22 | Slinky Roll |
-| 43 | 21 | Tiffany Gamble |
-| 44 | 21 | Cranky Brickzone |
-| 45 | 20 | Erin Murphy |
-| 46 | 20 | Aletha Williams |
+| 42 | 24 | Slinky Roll |
+| 43 | 21 | Cranky Brickzone |
+| 44 | 21 | Tiffany Gamble |
+| 45 | 20 | Chirpy Matchbuilder |
+| 46 | 20 | Riley Roach |
 | 47 | 20 | QUEENIE K |
-| 48 | 20 | Riley Roach |
-| 49 | 20 | Chirpy Matchbuilder |
+| 48 | 20 | Erin Murphy |
+| 49 | 20 | Tessina Dewey-Mancino |
 | 50 | 20 | Hope Lancaster Landry |
-| 51 | 20 | Tessina Dewey-Mancino |
-| 52 | 18 | Amy Perry |
+| 51 | 20 | Aletha Williams |
+| 52 | 18 | Susan Ma |
 | 53 | 18 | Twisty Blockpiece |
-| 54 | 18 | Susan Ma |
-| 55 | 17 | Tammi Larson |
-| 56 | 17 | Terry Hickman Fort |
-| 57 | 17 | Juliet Weathers |
+| 54 | 18 | Amy Perry |
+| 55 | 17 | Terry Hickman Fort |
+| 56 | 17 | Juliet Weathers |
+| 57 | 17 | Tammi Larson |
 | 58 | 17 | Tyleah Longmire |
 | 59 | 17 | Zippy Cascadeclear |
 | 60 | 17 | Bash |
@@ -107,22 +107,22 @@
 | 99 | 7 | Bougierock |
 | 100 | 7 | Elise Charlton |
 | 101 | 6 | Adrienne Sprayberry |
-| 102 | 6 | Sir-Franchise Drake |
-| 103 | 6 | Branny |
-| 104 | 6 | Lazy Riserfit |
-| 105 | 6 | Dee Franklin |
+| 102 | 6 | Branny |
+| 103 | 6 | Sir-Franchise Drake |
+| 104 | 6 | Dee Franklin |
+| 105 | 6 | Lazy Riserfit |
 | 106 | 6 | Spicy Stagger |
 | 107 | 5 | Perky Wipebuilder |
-| 108 | 5 | Tam |
-| 109 | 5 | April Gravitt |
-| 110 | 5 | Peachy Fall |
-| 111 | 5 | Yup |
-| 112 | 5 | lady |
-| 113 | 5 | Mary |
-| 114 | 5 | Paula Morrison |
-| 115 | 5 | Loopy Fallzone |
-| 116 | 5 | Spencer Nikki |
-| 117 | 5 | Michelle Andrea |
+| 108 | 5 | April Gravitt |
+| 109 | 5 | Peachy Fall |
+| 110 | 5 | Yup |
+| 111 | 5 | lady |
+| 112 | 5 | Mary |
+| 113 | 5 | Paula Morrison |
+| 114 | 5 | Loopy Fallzone |
+| 115 | 5 | Spencer Nikki |
+| 116 | 5 | Michelle Andrea |
+| 117 | 5 | Tam |
 
 ---
 *Standings created by tournaments datasource generation tool*
