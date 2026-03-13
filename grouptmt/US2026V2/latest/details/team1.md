@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 16:17:12 UTC
+# Standings for team1 as of 2026-03-13 16:18:12 UTC
 
 **Total Participants:** 352
 
@@ -24,8 +24,8 @@
 | 16 | 240 | Brad Oneill |
 | 17 | 234 | Kris Hudelson |
 | 18 | 180 | Cheeky Crusher |
-| 19 | 157 | Panda Rog |
-| 20 | 149 | Amanda Sheppard |
+| 19 | 167 | Amanda Sheppard |
+| 20 | 157 | Panda Rog |
 | 21 | 141 | TRCuse |
 | 22 | 140 | Bouncy Framezone |
 | 23 | 137 | Bigmoco |
@@ -111,82 +111,82 @@
 | 103 | 36 | Dreamy Matchclear |
 | 104 | 36 | Glitzy Linkpiece |
 | 105 | 36 | Michael Wood |
-| 106 | 35 | Edna Clinton |
-| 107 | 35 | Tammy Straka |
-| 108 | 35 | Xande NO Lie Williams |
-| 109 | 35 | Maxwell Hall |
-| 110 | 34 | Travis Taylor |
-| 111 | 34 | Daniel McKay |
+| 106 | 35 | Xande NO Lie Williams |
+| 107 | 35 | Edna Clinton |
+| 108 | 35 | Maxwell Hall |
+| 109 | 35 | Tammy Straka |
+| 110 | 34 | Daniel McKay |
+| 111 | 34 | Crystal Eubanks |
 | 112 | 34 | Porkobello |
-| 113 | 34 | Crystal Eubanks |
-| 114 | 33 | Delzie J Leigh |
-| 115 | 33 | Sassy Wrecker |
+| 113 | 34 | Travis Taylor |
+| 114 | 33 | Sassy Wrecker |
+| 115 | 33 | Delzie J Leigh |
 | 116 | 33 | Zesty Balancepiece |
-| 117 | 32 | Penny Morrical |
-| 118 | 32 | Chummy Rollzone |
-| 119 | 32 | Trishatta YoungDiva Watkins |
-| 120 | 32 | iceman |
-| 121 | 32 | Zany Mover |
+| 117 | 32 | Trishatta YoungDiva Watkins |
+| 118 | 32 | iceman |
+| 119 | 32 | Chummy Rollzone |
+| 120 | 32 | Zany Mover |
+| 121 | 32 | Penny Morrical |
 | 122 | 31 | Jonathan Gaffaney |
-| 123 | 30 | Beth Anderson |
-| 124 | 30 | Chris Kelly |
-| 125 | 30 | Snappy Linkroll |
-| 126 | 30 | QueenBee |
-| 127 | 30 | Greenie |
-| 128 | 30 | DoodleBug |
-| 129 | 30 | kito23 |
+| 123 | 30 | Snappy Linkroll |
+| 124 | 30 | Beth Anderson |
+| 125 | 30 | kito23 |
+| 126 | 30 | Chris Kelly |
+| 127 | 30 | QueenBee |
+| 128 | 30 | Greenie |
+| 129 | 30 | DoodleBug |
 | 130 | 29 | Ryry |
 | 131 | 29 | Teresa Wolf |
-| 132 | 29 | Amanda Diegel |
-| 133 | 29 | Tim Raper |
+| 132 | 29 | Tim Raper |
+| 133 | 29 | Amanda Diegel |
 | 134 | 27 | Bean |
-| 135 | 26 | Bubbly Patterner |
-| 136 | 26 | Spicy Clearpiece |
+| 135 | 26 | Spicy Clearpiece |
+| 136 | 26 | slim |
 | 137 | 26 | Plucky Dashgrid |
-| 138 | 25 | Melissa Madison |
-| 139 | 25 | Krystal McPherson |
-| 140 | 25 | Zany Patternfit |
+| 138 | 26 | Bubbly Patterner |
+| 139 | 25 | Zany Patternfit |
+| 140 | 25 | Krystal McPherson |
 | 141 | 25 | Jessica Lang |
 | 142 | 25 | Haley Anne |
-| 143 | 24 | Jodie Peterson |
-| 144 | 24 | SLAPNUTZ |
-| 145 | 24 | MamaPhee |
-| 146 | 24 | Vicki Dougie |
-| 147 | 24 | Eddie Morales |
-| 148 | 23 | Fluffy |
-| 149 | 23 | Laidene Joseph |
-| 150 | 23 | Tabitha Cornelious |
-| 151 | 22 | Giddy Swiper |
-| 152 | 22 | Brittney Groler |
+| 143 | 25 | Melissa Madison |
+| 144 | 24 | Jodie Peterson |
+| 145 | 24 | SLAPNUTZ |
+| 146 | 24 | MamaPhee |
+| 147 | 24 | Vicki Dougie |
+| 148 | 24 | Eddie Morales |
+| 149 | 23 | Fluffy |
+| 150 | 23 | Laidene Joseph |
+| 151 | 23 | Tabitha Cornelious |
+| 152 | 22 | Giddy Swiper |
 | 153 | 22 | Nutty Cascadefit |
-| 154 | 21 | Big rick !!! |
-| 155 | 21 | Perky Glidebuilder |
-| 156 | 21 | Margo Fenton |
+| 154 | 22 | Brittney Groler |
+| 155 | 21 | Big rick !!! |
+| 156 | 21 | Matthew Allan |
 | 157 | 21 | Suzan Frazier |
-| 158 | 21 | Heather Bell |
-| 159 | 21 | Ellieshay |
-| 160 | 21 | Nerdy Shatterline |
-| 161 | 21 | Matthew Allan |
-| 162 | 20 | Garry Junior Davis |
-| 163 | 20 | Beka |
-| 164 | 20 | Jess Rose |
-| 165 | 20 | Allena Craft |
-| 166 | 20 | Christen Lawrick |
-| 167 | 20 | Mean Melly |
-| 168 | 20 | Death |
-| 169 | 20 | Bubba |
-| 170 | 20 | Jamie Jury |
-| 171 | 20 | Oscar Ferguson |
+| 158 | 21 | Ellieshay |
+| 159 | 21 | Nerdy Shatterline |
+| 160 | 21 | Margo Fenton |
+| 161 | 21 | Perky Glidebuilder |
+| 162 | 21 | Heather Bell |
+| 163 | 20 | Jess Rose |
+| 164 | 20 | Oscar Ferguson |
+| 165 | 20 | Beka |
+| 166 | 20 | Garry Junior Davis |
+| 167 | 20 | Allena Craft |
+| 168 | 20 | Bubba |
+| 169 | 20 | Mean Melly |
+| 170 | 20 | Death |
+| 171 | 20 | Christen Lawrick |
 | 172 | 20 | Kindra Sinclair |
 | 173 | 20 | tiffany |
 | 174 | 20 | Mighty Patternbuilder |
 | 175 | 20 | Ann Brock LaPorte |
 | 176 | 20 | John Morris |
-| 177 | 20 | Selena Rollin |
-| 178 | 19 | cool kat |
-| 179 | 19 | Jessica Marie Long |
-| 180 | 19 | Epic Fallzone |
-| 181 | 18 | slim |
+| 177 | 20 | Jamie Jury |
+| 178 | 20 | Selena Rollin |
+| 179 | 19 | cool kat |
+| 180 | 19 | Jessica Marie Long |
+| 181 | 19 | Epic Fallzone |
 | 182 | 18 | Bingo Wingo |
 | 183 | 18 | Gregg Scott |
 | 184 | 18 | Jacob Phillips |
@@ -345,19 +345,19 @@
 | 337 | 5 | Flashy Clicker |
 | 338 | 5 | Samantha Bugg Stitcher |
 | 339 | 5 | Carl Hampton |
-| 340 | 5 | Ras David |
+| 340 | 5 | Terry Dill |
 | 341 | 5 | Slinky Dashgrid |
 | 342 | 5 | Armoni |
 | 343 | 5 | Slinky Stacky |
 | 344 | 5 | Randy Bowers |
-| 345 | 5 | Cynthia Herrmann Egland |
-| 346 | 5 | Jennifer Brown |
-| 347 | 5 | Armin Muhamed |
-| 348 | 5 | Victoria Montenegro Martinez |
-| 349 | 5 | Perky Clusterbuilder |
-| 350 | 5 | MissySai TooRude Ladson |
-| 351 | 5 | Sarajo Clauson |
-| 352 | 5 | Terry Dill |
+| 345 | 5 | Ras David |
+| 346 | 5 | Cynthia Herrmann Egland |
+| 347 | 5 | Jennifer Brown |
+| 348 | 5 | Armin Muhamed |
+| 349 | 5 | Victoria Montenegro Martinez |
+| 350 | 5 | Perky Clusterbuilder |
+| 351 | 5 | MissySai TooRude Ladson |
+| 352 | 5 | Sarajo Clauson |
 
 ---
 *Standings created by tournaments datasource generation tool*
