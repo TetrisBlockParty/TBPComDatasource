@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 16:34:34 UTC
+# Standings for team1 as of 2026-03-13 16:35:12 UTC
 
 **Total Participants:** 376
 
@@ -14,8 +14,8 @@
 | 6 | 548 | Robert Jansen |
 | 7 | 542 | Amy Roche |
 | 8 | 436 | Nikita Nelson |
-| 9 | 412 | Amy Dial Brown |
-| 10 | 386 | Vistabrat |
+| 9 | 430 | Vistabrat |
+| 10 | 412 | Amy Dial Brown |
 | 11 | 360 | Paul Smiar |
 | 12 | 344 | Giddy Cascade |
 | 13 | 294 | Amanda Sheppard |
@@ -368,20 +368,20 @@
 | 360 | 5 | Samantha Bugg Stitcher |
 | 361 | 5 | Rebecca Martin |
 | 362 | 5 | Carl Hampton |
-| 363 | 5 | Troy Gussler |
+| 363 | 5 | Slinky Stacky |
 | 364 | 5 | Terry Dill |
 | 365 | 5 | Angela Renea Lester |
 | 366 | 5 | Armoni |
-| 367 | 5 | Slinky Stacky |
-| 368 | 5 | Randy Bowers |
-| 369 | 5 | Ras David |
-| 370 | 5 | Cynthia Herrmann Egland |
-| 371 | 5 | Jennifer Brown |
-| 372 | 5 | Armin Muhamed |
-| 373 | 5 | Victoria Montenegro Martinez |
-| 374 | 5 | Perky Clusterbuilder |
-| 375 | 5 | MissySai TooRude Ladson |
-| 376 | 5 | Sarajo Clauson |
+| 367 | 5 | Randy Bowers |
+| 368 | 5 | Ras David |
+| 369 | 5 | Cynthia Herrmann Egland |
+| 370 | 5 | Jennifer Brown |
+| 371 | 5 | Armin Muhamed |
+| 372 | 5 | Victoria Montenegro Martinez |
+| 373 | 5 | Perky Clusterbuilder |
+| 374 | 5 | MissySai TooRude Ladson |
+| 375 | 5 | Sarajo Clauson |
+| 376 | 5 | Troy Gussler |
 
 ---
 *Standings created by tournaments datasource generation tool*
