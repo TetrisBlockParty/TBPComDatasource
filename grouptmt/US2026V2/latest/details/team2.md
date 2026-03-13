@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-03-13 15:41:13 UTC
+# Standings for team2 as of 2026-03-13 15:42:13 UTC
 
-**Total Participants:** 332
+**Total Participants:** 334
 
 ## Participant Scores
 
@@ -16,8 +16,8 @@
 | 8 | 400 | Leah Gorsuch |
 | 9 | 360 | Crafty Matchfit |
 | 10 | 350 | Cynthia Ward |
-| 11 | 314 | SterlingTeri |
-| 12 | 293 | Dreamy Linkbuilder |
+| 11 | 324 | Dreamy Linkbuilder |
+| 12 | 314 | SterlingTeri |
 | 13 | 255 | Pixie |
 | 14 | 254 | Nick Jensen |
 | 15 | 236 | Jo Frohwein |
@@ -31,26 +31,26 @@
 | 23 | 154 | Richard Butler |
 | 24 | 150 | MzBerry |
 | 25 | 145 | Arisvet Garcia |
-| 26 | 140 | Nerdy Blockpiece |
-| 27 | 140 | Carmilita Burpo Jordan |
+| 26 | 140 | Carmilita Burpo Jordan |
+| 27 | 140 | Nerdy Blockpiece |
 | 28 | 135 | Hyper Pop |
 | 29 | 132 | Brenda A |
 | 30 | 128 | Chelsea Clark |
 | 31 | 103 | Brittany Backus |
-| 32 | 100 | Baleria Ruedas Pantoja |
-| 33 | 100 | Andrey Sharov |
+| 32 | 100 | Andrey Sharov |
+| 33 | 100 | Baleria Ruedas Pantoja |
 | 34 | 93 | Johanna Massaro |
 | 35 | 89 | Ess |
 | 36 | 83 | Connie Mohler-Fair |
 | 37 | 82 | TJ Hire |
-| 38 | 80 | btchboy |
-| 39 | 80 | Becky McClure |
-| 40 | 80 | Elizabeth Crowder Pelton |
-| 41 | 80 | TETRIS |
-| 42 | 80 | Paul Hudak |
-| 43 | 80 | Giggy Matchpiece |
-| 44 | 70 | Caitlyn Brown |
-| 45 | 70 | YAE |
+| 38 | 80 | Becky McClure |
+| 39 | 80 | btchboy |
+| 40 | 80 | TETRIS |
+| 41 | 80 | Paul Hudak |
+| 42 | 80 | Giggy Matchpiece |
+| 43 | 80 | Elizabeth Crowder Pelton |
+| 44 | 70 | YAE |
+| 45 | 70 | Caitlyn Brown |
 | 46 | 68 | Alexander Zamora |
 | 47 | 66 | Tonya Hadsell |
 | 48 | 65 | Raven Smith |
@@ -118,59 +118,59 @@
 | 110 | 31 | lovethedana |
 | 111 | 31 | Kira Hugar |
 | 112 | 30 | Jazzy Piecebuilder |
-| 113 | 30 | Jake Ching |
-| 114 | 30 | Beth Smith |
-| 115 | 30 | Brooke Sunderhaus |
-| 116 | 30 | Scott Siple |
+| 113 | 30 | Beth Smith |
+| 114 | 30 | Julia Freeman |
+| 115 | 30 | Scott Siple |
+| 116 | 30 | Brooke Sunderhaus |
 | 117 | 30 | GoddessCandy |
 | 118 | 30 | Kelly Williams |
 | 119 | 30 | Valhammer |
-| 120 | 30 | Julia Freeman |
-| 121 | 29 | KAP |
+| 120 | 30 | Jake Ching |
+| 121 | 29 | Chassy Horton |
 | 122 | 29 | Frisky Riserbuilder |
-| 123 | 29 | Chassy Horton |
+| 123 | 29 | Amanda Sullivan |
 | 124 | 29 | Kacee Conrad Bock |
-| 125 | 29 | Amanda Sullivan |
-| 126 | 28 | Lindsey Anderson |
-| 127 | 28 | Tra Barnum |
-| 128 | 28 | Jennifer Galadik |
+| 125 | 29 | KAP |
+| 126 | 28 | Jennifer Galadik |
+| 127 | 28 | Lindsey Anderson |
+| 128 | 28 | Tori Bowers |
 | 129 | 28 | Zany Jumper |
-| 130 | 28 | Tori Bowers |
-| 131 | 27 | Tracey Cox |
-| 132 | 27 | Tracy Berry |
+| 130 | 28 | Tra Barnum |
+| 131 | 27 | Tracy Berry |
+| 132 | 27 | Tracey Cox |
 | 133 | 27 | Chirpy Grabber |
-| 134 | 26 | Brave Tilebuilder |
-| 135 | 26 | Paula Little |
-| 136 | 26 | Starr |
-| 137 | 26 | Marie Elena |
-| 138 | 26 | OneTwenty Livin |
-| 139 | 26 | Happy Columnbuilder |
+| 134 | 26 | Paula Little |
+| 135 | 26 | Happy Columnbuilder |
+| 136 | 26 | Brave Tilebuilder |
+| 137 | 26 | Starr |
+| 138 | 26 | Marie Elena |
+| 139 | 26 | OneTwenty Livin |
 | 140 | 25 | Daring Spinzone |
-| 141 | 25 | Mackenzie Forrester |
-| 142 | 25 | Angel Hunnewell |
-| 143 | 25 | Guillaume Clermont |
+| 141 | 25 | Angel Hunnewell |
+| 142 | 25 | Guillaume Clermont |
+| 143 | 25 | Mackenzie Forrester |
 | 144 | 25 | Melody Santiago |
 | 145 | 24 | Jazmin Santos |
 | 146 | 24 | Jason Briggs |
 | 147 | 24 | Dapper Gridclear |
-| 148 | 24 | Kell Cinn |
-| 149 | 24 | Elizabeth Smith |
+| 148 | 24 | Elizabeth Smith |
+| 149 | 24 | Kell Cinn |
 | 150 | 24 | TreeWee |
 | 151 | 24 | Prette Qui |
 | 152 | 24 | Bleu Grubb |
 | 153 | 24 | Kimmie Zimmerman-Rocha |
 | 154 | 23 | Alyssa Cox |
-| 155 | 23 | Nerdy Clearer |
-| 156 | 23 | Hasty Pivoty |
-| 157 | 23 | Sha45 |
-| 158 | 23 | Naomii Seton |
-| 159 | 22 | Evelyn Ens Paul |
-| 160 | 22 | Kevin Stultz |
-| 161 | 22 | LeNae TwoBarbie McEachin |
-| 162 | 22 | Bryanna Whitman |
-| 163 | 22 | Hyper Snap |
-| 164 | 21 | Cuttermonk |
-| 165 | 21 | Cool Cornerfall |
+| 155 | 23 | Cool Cornerfall |
+| 156 | 23 | Nerdy Clearer |
+| 157 | 23 | Hasty Pivoty |
+| 158 | 23 | Sha45 |
+| 159 | 23 | Naomii Seton |
+| 160 | 22 | Evelyn Ens Paul |
+| 161 | 22 | Kevin Stultz |
+| 162 | 22 | LeNae TwoBarbie McEachin |
+| 163 | 22 | Bryanna Whitman |
+| 164 | 22 | Hyper Snap |
+| 165 | 21 | Cuttermonk |
 | 166 | 21 | Bobbie Miller |
 | 167 | 20 | Tipsy Riseclear |
 | 168 | 20 | Shelly Marie Lloyd |
@@ -233,92 +233,92 @@
 | 225 | 13 | Dizzy Dasher |
 | 226 | 13 | jay |
 | 227 | 13 | Lora Allen |
-| 228 | 12 | Emily Wooden |
+| 228 | 12 | Abigail Stratton |
 | 229 | 12 | Chirpy Dash |
 | 230 | 12 | Plucky Snaplink |
 | 231 | 12 | Ms. Blue |
 | 232 | 12 | Chipper Puzzler |
-| 233 | 12 | Abigail Stratton |
+| 233 | 12 | Emily Wooden |
 | 234 | 12 | Qing DG |
-| 235 | 11 | Joshua Madinger |
-| 236 | 11 | Haley Bell |
-| 237 | 11 | Laurie Raynor |
-| 238 | 11 | Lisa Duncan |
-| 239 | 11 | Zany Blockfall |
-| 240 | 11 | Jackson Karen |
-| 241 | 11 | Priscilla Dae Jones |
-| 242 | 11 | jess |
-| 243 | 11 | Adam McClellan |
-| 244 | 10 | Lori Schlachter Segui |
+| 235 | 12 | Blacc Blac |
+| 236 | 11 | Laurie Raynor |
+| 237 | 11 | Haley Bell |
+| 238 | 11 | Joshua Madinger |
+| 239 | 11 | Lisa Duncan |
+| 240 | 11 | Zany Blockfall |
+| 241 | 11 | Jackson Karen |
+| 242 | 11 | Priscilla Dae Jones |
+| 243 | 11 | jess |
+| 244 | 11 | Adam McClellan |
 | 245 | 10 | Slugger26 |
-| 246 | 10 | Jenny Carrier |
-| 247 | 10 | Monica Galli |
+| 246 | 10 | Lori Schlachter Segui |
+| 247 | 10 | Jenny Carrier |
 | 248 | 10 | Cheeky Snapfit |
-| 249 | 10 | Ashley Leonard |
-| 250 | 10 | Staci Walker |
-| 251 | 10 | Zesty Faller |
-| 252 | 10 | Scott Smith |
-| 253 | 10 | Leticia Martinez Kelley |
-| 254 | 10 | Michelle Sager |
-| 255 | 10 | Sbs |
-| 256 | 9 | Malcolm Annias Flamer |
-| 257 | 9 | Jason Pence |
-| 258 | 9 | BluSkyes |
-| 259 | 9 | Allen Anthony Rollins |
+| 249 | 10 | Monica Galli |
+| 250 | 10 | Ashley Leonard |
+| 251 | 10 | Staci Walker |
+| 252 | 10 | Zesty Faller |
+| 253 | 10 | Scott Smith |
+| 254 | 10 | Leticia Martinez Kelley |
+| 255 | 10 | Michelle Sager |
+| 256 | 10 | Sbs |
+| 257 | 9 | Malcolm Annias Flamer |
+| 258 | 9 | Jason Pence |
+| 259 | 9 | BluSkyes |
 | 260 | 9 | Cassandra King Tyler |
-| 261 | 9 | Lauressia MsLovaba Neil |
-| 262 | 9 | Nyiesha Aikens |
-| 263 | 9 | Tyler Bechtel |
-| 264 | 9 | Kourtney Zarback |
-| 265 | 9 | Chipper Matchclear |
-| 266 | 9 | Kendra KJ Joyner |
-| 267 | 9 | Victoria Barkefelt |
-| 268 | 9 | Danielle Thompkins |
+| 261 | 9 | Allen Anthony Rollins |
+| 262 | 9 | Zesty Clear |
+| 263 | 9 | Lauressia MsLovaba Neil |
+| 264 | 9 | Nyiesha Aikens |
+| 265 | 9 | Danielle Thompkins |
+| 266 | 9 | Kourtney Zarback |
+| 267 | 9 | Chipper Matchclear |
+| 268 | 9 | Kendra KJ Joyner |
 | 269 | 9 | KEILANIU |
-| 270 | 8 | Moneygirl |
-| 271 | 8 | TinaMarie Montone |
-| 272 | 8 | Whitney Mudge |
-| 273 | 8 | BuzyBee |
-| 274 | 8 | Carrie Panzeter |
-| 275 | 8 | Paula Martin |
-| 276 | 8 | Joseph Guzman |
-| 277 | 7 | Amanda |
-| 278 | 7 | Autumn Leslie |
-| 279 | 7 | Marc |
-| 280 | 7 | Mcg |
-| 281 | 7 | Destiny Brady |
-| 282 | 7 | Dandy Crasher |
-| 283 | 7 | Mzjudged Niteowl |
-| 284 | 7 | Kari Thompson Rock |
-| 285 | 7 | Melissa Williams Blevins |
-| 286 | 7 | Kimyatta Cavin |
-| 287 | 7 | Tiff Vs Tiffany |
-| 288 | 7 | Lamarr Drayton |
-| 289 | 7 | Nicole Lynnette Mahurin |
+| 270 | 9 | Tyler Bechtel |
+| 271 | 9 | Victoria Barkefelt |
+| 272 | 8 | TinaMarie Montone |
+| 273 | 8 | Whitney Mudge |
+| 274 | 8 | Paula Martin |
+| 275 | 8 | BuzyBee |
+| 276 | 8 | Carrie Panzeter |
+| 277 | 8 | Moneygirl |
+| 278 | 8 | Joseph Guzman |
+| 279 | 7 | Destiny Brady |
+| 280 | 7 | Autumn Leslie |
+| 281 | 7 | Marc |
+| 282 | 7 | Mzjudged Niteowl |
+| 283 | 7 | Dandy Crasher |
+| 284 | 7 | Nicole Lynnette Mahurin |
+| 285 | 7 | Kari Thompson Rock |
+| 286 | 7 | Melissa Williams Blevins |
+| 287 | 7 | Kimyatta Cavin |
+| 288 | 7 | carole57 |
+| 289 | 7 | Tiff Vs Tiffany |
 | 290 | 7 | Ashley Marie Pierce |
-| 291 | 7 | carole57 |
+| 291 | 7 | Fuzzy |
 | 292 | 7 | Hannibal Musa |
-| 293 | 7 | Fuzzy |
-| 294 | 6 | Kristin Smith |
-| 295 | 6 | Chill Tilefall |
-| 296 | 6 | Elaina Temple |
-| 297 | 6 | Snippy Clearbuilder |
-| 298 | 6 | Trisha Balmer |
-| 299 | 6 | Amanda Segura |
-| 300 | 6 | Shiny Framezone |
-| 301 | 6 | Plucky Patternfit |
-| 302 | 6 | Lazy Gridroll |
-| 303 | 6 | Abimbola Bimbo |
-| 304 | 6 | Weeping Angel |
-| 305 | 6 | Breezy |
-| 306 | 6 | Jess |
-| 307 | 6 | Spicy Patternbuilder |
-| 308 | 6 | EKS |
+| 293 | 7 | Lamarr Drayton |
+| 294 | 7 | Amanda |
+| 295 | 7 | Mcg |
+| 296 | 6 | Lazy Gridroll |
+| 297 | 6 | Chill Tilefall |
+| 298 | 6 | Elaina Temple |
+| 299 | 6 | Plucky Patternfit |
+| 300 | 6 | Amanda Segura |
+| 301 | 6 | Trisha Balmer |
+| 302 | 6 | Breezy |
+| 303 | 6 | Shiny Framezone |
+| 304 | 6 | Snippy Clearbuilder |
+| 305 | 6 | Abimbola Bimbo |
+| 306 | 6 | EKS |
+| 307 | 6 | cat |
+| 308 | 6 | Kristin Smith |
 | 309 | 6 | Carlos Landin |
-| 310 | 6 | cat |
-| 311 | 5 | Shea |
-| 312 | 5 | Sheena Hachmann |
-| 313 | 5 | Goofy Basegrid |
+| 310 | 6 | Weeping Angel |
+| 311 | 6 | Jess |
+| 312 | 6 | Spicy Patternbuilder |
+| 313 | 5 | Sheena Hachmann |
 | 314 | 5 | Hayley |
 | 315 | 5 | Kita A Jackson |
 | 316 | 5 | Somthin |
@@ -326,18 +326,20 @@
 | 318 | 5 | Kevin Leary |
 | 319 | 5 | Cool Riser |
 | 320 | 5 | Michael |
-| 321 | 5 | Anita Johnson |
+| 321 | 5 | Goofy Basegrid |
 | 322 | 5 | Tiffany Riccio |
-| 323 | 5 | Crystal Ali |
-| 324 | 5 | Leslie Nicole |
-| 325 | 5 | Ashley Grace |
-| 326 | 5 | Jaz Sky |
-| 327 | 5 | Shannon Grisson |
-| 328 | 5 | Susan L. Brown |
-| 329 | 5 | Cool Snapzone |
-| 330 | 5 | Bouncy Swiper |
-| 331 | 5 | David Smith |
-| 332 | 5 | Confused Kitty |
+| 323 | 5 | Shea |
+| 324 | 5 | Crystal Ali |
+| 325 | 5 | Leslie Nicole |
+| 326 | 5 | Ashley Grace |
+| 327 | 5 | Jaz Sky |
+| 328 | 5 | Shannon Grisson |
+| 329 | 5 | Susan L. Brown |
+| 330 | 5 | Cool Snapzone |
+| 331 | 5 | Bouncy Swiper |
+| 332 | 5 | David Smith |
+| 333 | 5 | Confused Kitty |
+| 334 | 5 | Anita Johnson |
 
 ---
 *Standings created by tournaments datasource generation tool*
