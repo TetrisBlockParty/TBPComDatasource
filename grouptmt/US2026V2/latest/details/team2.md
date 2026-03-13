@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-13 21:10:14 UTC
+# Standings for team2 as of 2026-03-13 21:10:36 UTC
 
 **Total Participants:** 742
 
@@ -50,12 +50,12 @@
 | 42 | 266 | Miranda Rush |
 | 43 | 256 | YAE |
 | 44 | 255 | Pixie |
-| 45 | 236 | Jo Frohwein |
-| 46 | 225 | Sass |
-| 47 | 220 | Becky McClure |
-| 48 | 218 | Chelsea Clark |
-| 49 | 216 | Michael H. M. Skropka |
-| 50 | 215 | Snappy Tiley |
+| 45 | 243 | Snappy Tiley |
+| 46 | 236 | Jo Frohwein |
+| 47 | 225 | Sass |
+| 48 | 220 | Becky McClure |
+| 49 | 218 | Chelsea Clark |
+| 50 | 216 | Michael H. M. Skropka |
 | 51 | 210 | Laura McPheeters |
 | 52 | 209 | Jami Howard |
 | 53 | 205 | Danielle Mogg |
@@ -232,34 +232,34 @@
 | 224 | 47 | Kristi Riley |
 | 225 | 47 | Jenn Dandle |
 | 226 | 47 | Abby Jensen |
-| 227 | 46 | Michael |
-| 228 | 46 | Mjhays |
-| 229 | 46 | Mike Hromowyk |
-| 230 | 45 | Jessica Venable |
-| 231 | 45 | Lavella Tburg |
-| 232 | 45 | Heather Kelley |
-| 233 | 45 | Stacy |
-| 234 | 44 | Rigoberto Sanchez Jr. |
-| 235 | 44 | Nicole Archuleta |
-| 236 | 44 | Elizabeth Smith |
-| 237 | 43 | Bow Babe |
-| 238 | 43 | Cool Cornerfall |
+| 227 | 47 | Cool Cornerfall |
+| 228 | 46 | Michael |
+| 229 | 46 | Mjhays |
+| 230 | 46 | Mike Hromowyk |
+| 231 | 45 | Jessica Venable |
+| 232 | 45 | Lavella Tburg |
+| 233 | 45 | Heather Kelley |
+| 234 | 45 | Stacy |
+| 235 | 44 | Rigoberto Sanchez Jr. |
+| 236 | 44 | Nicole Archuleta |
+| 237 | 44 | Elizabeth Smith |
+| 238 | 43 | Bow Babe |
 | 239 | 43 | Tya Ortiz |
 | 240 | 42 | Marta Savchuk |
-| 241 | 42 | Snippy Framezone |
-| 242 | 42 | bubbles |
-| 243 | 42 | Kristie |
-| 244 | 42 | Scott Siple |
-| 245 | 41 | Scott Martinson |
-| 246 | 41 | Libby |
-| 247 | 41 | Snippy Basepiece |
-| 248 | 40 | Cozy Tiley |
-| 249 | 40 | Julia Freeman |
-| 250 | 40 | Kennedy Sandifer |
-| 251 | 40 | Morgan Anne Witty |
-| 252 | 40 | Shiny Gridmatch |
-| 253 | 40 | Brenda Lee Vander Molen |
-| 254 | 40 | Ding Adventurer |
+| 241 | 42 | Scott Siple |
+| 242 | 42 | Kristie |
+| 243 | 42 | bubbles |
+| 244 | 42 | Snippy Framezone |
+| 245 | 41 | Snippy Basepiece |
+| 246 | 41 | Scott Martinson |
+| 247 | 41 | Libby |
+| 248 | 40 | Ding Adventurer |
+| 249 | 40 | Kennedy Sandifer |
+| 250 | 40 | Cozy Tiley |
+| 251 | 40 | Julia Freeman |
+| 252 | 40 | Morgan Anne Witty |
+| 253 | 40 | Shiny Gridmatch |
+| 254 | 40 | Brenda Lee Vander Molen |
 | 255 | 40 | Veronica Martin Trinkle |
 | 256 | 40 | Daring Spinzone |
 | 257 | 40 | Kiki Moore |
@@ -630,124 +630,124 @@
 | 622 | 9 | Tracy Butler |
 | 623 | 9 | Krysti Rodriguez |
 | 624 | 9 | Antoinette Griffin |
-| 625 | 9 | Giggly Clearzone |
-| 626 | 9 | p3ttyboop |
-| 627 | 9 | Kristy Mullins |
-| 628 | 9 | Victoria Barkefelt |
-| 629 | 9 | Nicole Henely |
-| 630 | 9 | Nyiesha Aikens |
+| 625 | 9 | sweetpea |
+| 626 | 9 | Giggly Clearzone |
+| 627 | 9 | Cranky Gridder |
+| 628 | 9 | BluSkyes |
+| 629 | 9 | Shawn Haines |
+| 630 | 9 | Nyaa Love |
 | 631 | 9 | Ieisha Scruggs Webb |
-| 632 | 9 | Nyaa Love |
-| 633 | 9 | KEILANIU |
-| 634 | 9 | Cranky Gridder |
-| 635 | 9 | Allen Anthony Rollins |
-| 636 | 9 | Cranky Caster |
-| 637 | 9 | Shawn Haines |
-| 638 | 9 | Liz Franke |
-| 639 | 9 | Kourtney Zarback |
-| 640 | 9 | Lauressia MsLovaba Neil |
-| 641 | 9 | sweetpea |
+| 632 | 9 | Malcolm Annias Flamer |
+| 633 | 9 | Nicole Henely |
+| 634 | 9 | Lauressia MsLovaba Neil |
+| 635 | 9 | Kristy Mullins |
+| 636 | 9 | Liz Franke |
+| 637 | 9 | Victoria Barkefelt |
+| 638 | 9 | KEILANIU |
+| 639 | 9 | Christopher Mastropietro |
+| 640 | 9 | Allen Anthony Rollins |
+| 641 | 9 | Lucy Honer |
 | 642 | 9 | Lamarr Drayton |
-| 643 | 9 | Destiny Brady |
-| 644 | 9 | Jen Louie |
-| 645 | 9 | Malcolm Annias Flamer |
-| 646 | 9 | LaChalle Shay |
-| 647 | 9 | Tig’o Biggie |
-| 648 | 9 | Twisty Risebuilder |
-| 649 | 9 | BluSkyes |
-| 650 | 9 | Lucy Honer |
-| 651 | 9 | Christopher Mastropietro |
-| 652 | 8 | Tonya Amen |
-| 653 | 8 | Carrie Panzeter |
-| 654 | 8 | Shiny Framezone |
-| 655 | 8 | Paula Martin |
-| 656 | 8 | Glitzy Towerfit |
-| 657 | 8 | Whitney Mudge |
-| 658 | 8 | Viktorya Elizabeth |
-| 659 | 8 | Moneygirl |
-| 660 | 8 | Joseph Guzman |
-| 661 | 8 | Shannon Grisson |
-| 662 | 8 | Danny Chavira |
-| 663 | 8 | Tessa |
-| 664 | 8 | Lateisha Morris |
-| 665 | 8 | Dandy Crasher |
-| 666 | 8 | Jennifer Monroe Kelly |
-| 667 | 8 | Josie Fig |
-| 668 | 8 | Brian Wangler |
-| 669 | 8 | opf |
-| 670 | 8 | Chill Stack |
-| 671 | 8 | Danielle Wright |
-| 672 | 8 | Tammy |
-| 673 | 8 | Bethany H. Tunison |
-| 674 | 7 | Fuzzy |
-| 675 | 7 | mala |
+| 643 | 9 | LaChalle Shay |
+| 644 | 9 | Tig’o Biggie |
+| 645 | 9 | p3ttyboop |
+| 646 | 9 | Destiny Brady |
+| 647 | 9 | Jen Louie |
+| 648 | 9 | Nyiesha Aikens |
+| 649 | 9 | Twisty Risebuilder |
+| 650 | 9 | Kourtney Zarback |
+| 651 | 9 | Cranky Caster |
+| 652 | 8 | Danny Chavira |
+| 653 | 8 | Tessa |
+| 654 | 8 | Moneygirl |
+| 655 | 8 | Joseph Guzman |
+| 656 | 8 | Carrie Panzeter |
+| 657 | 8 | Viktorya Elizabeth |
+| 658 | 8 | Dandy Crasher |
+| 659 | 8 | Whitney Mudge |
+| 660 | 8 | Shannon Grisson |
+| 661 | 8 | Jennifer Monroe Kelly |
+| 662 | 8 | Danielle Wright |
+| 663 | 8 | Paula Martin |
+| 664 | 8 | Chill Stack |
+| 665 | 8 | Tammy |
+| 666 | 8 | Bethany H. Tunison |
+| 667 | 8 | Glitzy Towerfit |
+| 668 | 8 | Lateisha Morris |
+| 669 | 8 | Brian Wangler |
+| 670 | 8 | Tonya Amen |
+| 671 | 8 | Josie Fig |
+| 672 | 8 | opf |
+| 673 | 8 | Shiny Framezone |
+| 674 | 7 | Mzjudged Niteowl |
+| 675 | 7 | Snazzy Wipepiece |
 | 676 | 7 | Tony Tran |
-| 677 | 7 | carole57 |
-| 678 | 7 | Mzjudged Niteowl |
-| 679 | 7 | Snazzy Wipepiece |
-| 680 | 7 | Kari Thompson Rock |
-| 681 | 7 | Melissa Williams Blevins |
-| 682 | 7 | Ace |
-| 683 | 7 | Hannibal Musa |
-| 684 | 7 | PrincessDonut |
-| 685 | 7 | James Busby |
-| 686 | 7 | Angie Maddox |
+| 677 | 7 | mala |
+| 678 | 7 | Angie Maddox |
+| 679 | 7 | Melissa Williams Blevins |
+| 680 | 7 | Ace |
+| 681 | 7 | Fuzzy |
+| 682 | 7 | Kari Thompson Rock |
+| 683 | 7 | PrincessDonut |
+| 684 | 7 | James Busby |
+| 685 | 7 | Hannibal Musa |
+| 686 | 7 | carole57 |
 | 687 | 6 | Gi Na |
-| 688 | 6 | EKS |
-| 689 | 6 | Sam Sam |
-| 690 | 6 | Snippy Clearbuilder |
-| 691 | 6 | Carlos Landin |
-| 692 | 6 | Kristin Smith |
-| 693 | 6 | Weeping Angel |
-| 694 | 6 | cat |
-| 695 | 6 | Aly San |
-| 696 | 6 | Peppy Slice |
-| 697 | 6 | Stitch Aura |
-| 698 | 6 | Juana |
-| 699 | 6 | Shea Ladynick Henderson |
+| 688 | 6 | Loopy Lee |
+| 689 | 6 | Karmabunny |
+| 690 | 6 | Carlos Landin |
+| 691 | 6 | cat |
+| 692 | 6 | Bigg Kee |
+| 693 | 6 | Snippy Clearbuilder |
+| 694 | 6 | Sam Sam |
+| 695 | 6 | EKS |
+| 696 | 6 | Kristin Smith |
+| 697 | 6 | PartyStarter |
+| 698 | 6 | Melanie Corum Reynolds |
+| 699 | 6 | Ninamaye Newcomb |
 | 700 | 6 | Flashy Tetriblast |
-| 701 | 6 | Ninamaye Newcomb |
-| 702 | 6 | Loopy Lee |
-| 703 | 6 | Karmabunny |
-| 704 | 6 | Bigg Kee |
-| 705 | 6 | Andre Simpson |
-| 706 | 6 | twentyeight |
-| 707 | 6 | MiriVigo |
-| 708 | 6 | Melanie Corum Reynolds |
-| 709 | 6 | PartyStarter |
-| 710 | 6 | Lazy Gridroll |
-| 711 | 6 | Sarah Count-it All-Joy |
+| 701 | 6 | Aly San |
+| 702 | 6 | Shea Ladynick Henderson |
+| 703 | 6 | Andre Simpson |
+| 704 | 6 | twentyeight |
+| 705 | 6 | Peppy Slice |
+| 706 | 6 | MiriVigo |
+| 707 | 6 | Stitch Aura |
+| 708 | 6 | Weeping Angel |
+| 709 | 6 | Lazy Gridroll |
+| 710 | 6 | Sarah Count-it All-Joy |
+| 711 | 6 | Juana |
 | 712 | 6 | Chris Charters |
-| 713 | 5 | Hayley |
-| 714 | 5 | Minxy |
-| 715 | 5 | Robin |
-| 716 | 5 | Kevin Leary |
-| 717 | 5 | Somthin |
-| 718 | 5 | Tiffany Riccio |
-| 719 | 5 | TiffanyJ |
-| 720 | 5 | Tasha Willing |
-| 721 | 5 | Sandy Aragon |
-| 722 | 5 | Lisa Beckort |
-| 723 | 5 | Chefbj Ventress |
-| 724 | 5 | Regan Anderson |
-| 725 | 5 | xoxo |
-| 726 | 5 | Bartleby Tickletits |
+| 713 | 5 | Regan Anderson |
+| 714 | 5 | Bartleby Tickletits |
+| 715 | 5 | xoxo |
+| 716 | 5 | TiffanyJ |
+| 717 | 5 | Tiffany Riccio |
+| 718 | 5 | Susan L. Brown |
+| 719 | 5 | Sandy Aragon |
+| 720 | 5 | Lisa Beckort |
+| 721 | 5 | Minxy |
+| 722 | 5 | Chefbj Ventress |
+| 723 | 5 | Hayley |
+| 724 | 5 | Somthin |
+| 725 | 5 | Kevin Leary |
+| 726 | 5 | Theodore Vincent |
 | 727 | 5 | Kalleigh Randall |
-| 728 | 5 | Theodore Vincent |
-| 729 | 5 | David Smith |
-| 730 | 5 | Chill Spinblock |
-| 731 | 5 | Lush Matchgrid |
-| 732 | 5 | Grace Rubalcada |
-| 733 | 5 | Kita A Jackson |
-| 734 | 5 | ImmortelT |
-| 735 | 5 | Candy Brooks |
-| 736 | 5 | Confused Kitty |
-| 737 | 5 | Poppy Linkpiece |
-| 738 | 5 | Lisa Kline |
-| 739 | 5 | Robyn Miller |
-| 740 | 5 | Susan L. Brown |
-| 741 | 5 | Crystal Ali |
-| 742 | 5 | Katie Hughes |
+| 728 | 5 | Lisa Kline |
+| 729 | 5 | Crystal Ali |
+| 730 | 5 | Poppy Linkpiece |
+| 731 | 5 | Confused Kitty |
+| 732 | 5 | Candy Brooks |
+| 733 | 5 | ImmortelT |
+| 734 | 5 | Kita A Jackson |
+| 735 | 5 | Katie Hughes |
+| 736 | 5 | David Smith |
+| 737 | 5 | Robyn Miller |
+| 738 | 5 | Grace Rubalcada |
+| 739 | 5 | Tasha Willing |
+| 740 | 5 | Lush Matchgrid |
+| 741 | 5 | Robin |
+| 742 | 5 | Chill Spinblock |
 
 ---
 *Standings created by tournaments datasource generation tool*
