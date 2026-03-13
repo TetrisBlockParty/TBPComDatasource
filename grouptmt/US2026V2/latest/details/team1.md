@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 13:40:11 UTC
+# Standings for team1 as of 2026-03-13 13:41:12 UTC
 
 **Total Participants:** 165
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 2240 | Donna Wilkinson |
+| 1 | 2333 | Donna Wilkinson |
 | 2 | 900 | Hyper |
 | 3 | 694 | Dizzy Stagger |
 | 4 | 412 | Amy Dial Brown |
@@ -14,11 +14,11 @@
 | 6 | 266 | Tashanna Harvey |
 | 7 | 210 | Hasbro Bros |
 | 8 | 123 | Megan Klinkner |
-| 9 | 113 | Tanya Carpenter-Reynolds |
-| 10 | 110 | Katherine Walton |
-| 11 | 104 | Michael Powers |
-| 12 | 85 | Pheezy |
-| 13 | 80 | Cheeky Crusher |
+| 9 | 120 | Cheeky Crusher |
+| 10 | 113 | Tanya Carpenter-Reynolds |
+| 11 | 110 | Katherine Walton |
+| 12 | 105 | Michael Powers |
+| 13 | 85 | Pheezy |
 | 14 | 80 | Diane |
 | 15 | 74 | Karmyst |
 | 16 | 74 | Hasty Lift |
@@ -33,9 +33,9 @@
 | 25 | 50 | Andy Harris |
 | 26 | 50 | Aponk |
 | 27 | 49 | Itn |
-| 28 | 49 | Dale |
-| 29 | 48 | Jennifer Traywick |
-| 30 | 48 | Albert Josef Toves Means Jr. |
+| 28 | 49 | Albert Josef Toves Means Jr. |
+| 29 | 49 | Dale |
+| 30 | 48 | Jennifer Traywick |
 | 31 | 47 | Tyle Armstead |
 | 32 | 44 | Bold Zonegrid |
 | 33 | 42 | Tig |
@@ -67,8 +67,8 @@
 | 59 | 27 | Panda Rog |
 | 60 | 26 | Bubbly Patterner |
 | 61 | 24 | Eddie Morales |
-| 62 | 22 | Giddy Swiper |
-| 63 | 21 | Plucky Dashgrid |
+| 62 | 23 | Plucky Dashgrid |
+| 63 | 22 | Giddy Swiper |
 | 64 | 20 | Ann Brock LaPorte |
 | 65 | 20 | Greenie |
 | 66 | 20 | Chummy Risebuilder |
@@ -103,31 +103,31 @@
 | 95 | 14 | Amber Nicole |
 | 96 | 13 | Krystal McPherson |
 | 97 | 13 | Natasha Velasquez Gabriel |
-| 98 | 12 | ssr |
-| 99 | 12 | Brittney Groler |
-| 100 | 12 | Walter Beltran |
+| 98 | 12 | James Burda |
+| 99 | 12 | Suzan Frazier |
+| 100 | 12 | Cool Dasher |
 | 101 | 12 | Alexandria Ritch |
-| 102 | 12 | Cool Dasher |
-| 103 | 12 | Suzan Frazier |
-| 104 | 12 | James Burda |
-| 105 | 11 | Boldy Clicky |
-| 106 | 11 | Spicy Clearpiece |
-| 107 | 10 | Hecate Trimora |
-| 108 | 10 | Dreamy Matchclear |
+| 102 | 12 | Walter Beltran |
+| 103 | 12 | Brittney Groler |
+| 104 | 12 | ssr |
+| 105 | 11 | Spicy Clearpiece |
+| 106 | 11 | Boldy Clicky |
+| 107 | 11 | Geno Bankroll McGill |
+| 108 | 10 | Shawna Days |
 | 109 | 10 | Giles McNair |
-| 110 | 10 | Bigmoco |
-| 111 | 10 | Shawna Days |
-| 112 | 10 | Tracie Corbett |
-| 113 | 10 | Alex Nicol |
-| 114 | 10 | Donavon Krahn |
-| 115 | 9 | Zach Thompson |
-| 116 | 9 | Bob Sitts |
-| 117 | 9 | Quirky Dashy |
+| 110 | 10 | Dreamy Matchclear |
+| 111 | 10 | Hecate Trimora |
+| 112 | 10 | Bigmoco |
+| 113 | 10 | Tracie Corbett |
+| 114 | 10 | Alex Nicol |
+| 115 | 10 | Donavon Krahn |
+| 116 | 9 | Zach Thompson |
+| 117 | 9 | Bob Sitts |
 | 118 | 9 | Jennifer Bunker |
-| 119 | 9 | Geno Bankroll McGill |
+| 119 | 9 | Quirky Dashy |
 | 120 | 9 | bricked |
-| 121 | 8 | al |
-| 122 | 8 | Felise Bee |
+| 121 | 8 | Felise Bee |
+| 122 | 8 | al |
 | 123 | 8 | Kevin Sees |
 | 124 | 8 | Crafty Clearfit |
 | 125 | 8 | Jessica Marie Long |
@@ -138,39 +138,39 @@
 | 130 | 7 | Jennifer Kime |
 | 131 | 7 | MrsW |
 | 132 | 7 | Michael Felker |
-| 133 | 6 | ajx |
-| 134 | 6 | Ellieshay |
-| 135 | 6 | Antoinette Rhinesmith |
-| 136 | 6 | MamaPhee |
-| 137 | 6 | Tyrell Harvin |
-| 138 | 6 | Tjango |
-| 139 | 6 | Jody Jackson |
-| 140 | 6 | Slinky Setter |
-| 141 | 6 | Delzie J Leigh |
-| 142 | 6 | SLAPNUTZ |
-| 143 | 6 | Robert Coulter |
-| 144 | 6 | Randy Clevenger |
-| 145 | 6 | Tina Kocher Zimmerman |
-| 146 | 6 | Monica Blu |
-| 147 | 6 | cac |
-| 148 | 6 | Breezy Ivy |
-| 149 | 6 | Sunny Swiper |
-| 150 | 6 | Poppy Lift |
-| 151 | 6 | Zuul Gatekeeper |
-| 152 | 6 | Jack Mattiace |
-| 153 | 6 | Kristen Rhoads |
-| 154 | 6 | Liz M Durfee |
-| 155 | 6 | Dizzy Pattern |
-| 156 | 5 | Flashy Clicker |
+| 133 | 6 | Tyrell Harvin |
+| 134 | 6 | Tina Kocher Zimmerman |
+| 135 | 6 | Randy Clevenger |
+| 136 | 6 | Robert Coulter |
+| 137 | 6 | SLAPNUTZ |
+| 138 | 6 | Delzie J Leigh |
+| 139 | 6 | Slinky Setter |
+| 140 | 6 | Jody Jackson |
+| 141 | 6 | Tjango |
+| 142 | 6 | ajx |
+| 143 | 6 | MamaPhee |
+| 144 | 6 | Antoinette Rhinesmith |
+| 145 | 6 | Ellieshay |
+| 146 | 6 | Breezy Ivy |
+| 147 | 6 | Monica Blu |
+| 148 | 6 | Poppy Lift |
+| 149 | 6 | Jack Mattiace |
+| 150 | 6 | Liz M Durfee |
+| 151 | 6 | Dizzy Pattern |
+| 152 | 6 | Kristen Rhoads |
+| 153 | 6 | Zuul Gatekeeper |
+| 154 | 6 | Sunny Swiper |
+| 155 | 6 | cac |
+| 156 | 5 | Sarajo Clauson |
 | 157 | 5 | Samantha Bugg Stitcher |
-| 158 | 5 | Jennifer Brown |
-| 159 | 5 | Perky Clusterbuilder |
-| 160 | 5 | Sarajo Clauson |
-| 161 | 5 | Armin Muhamed |
+| 158 | 5 | Flashy Clicker |
+| 159 | 5 | Ash Galvan |
+| 160 | 5 | freakyjoe |
+| 161 | 5 | Jennifer Brown |
 | 162 | 5 | Victoria Montenegro Martinez |
-| 163 | 5 | freakyjoe |
-| 164 | 5 | Ash Galvan |
-| 165 | 5 | MissySai TooRude Ladson |
+| 163 | 5 | MissySai TooRude Ladson |
+| 164 | 5 | Perky Clusterbuilder |
+| 165 | 5 | Armin Muhamed |
 
 ---
 *Standings created by tournaments datasource generation tool*
