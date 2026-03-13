@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 16:10:34 UTC
+# Standings for team1 as of 2026-03-13 16:11:11 UTC
 
 **Total Participants:** 347
 
@@ -154,73 +154,73 @@
 | 146 | 23 | Laidene Joseph |
 | 147 | 23 | Tabitha Cornelious |
 | 148 | 23 | Fluffy |
-| 149 | 22 | Giddy Swiper |
-| 150 | 21 | Nerdy Shatterline |
-| 151 | 21 | Suzan Frazier |
-| 152 | 21 | Perky Glidebuilder |
-| 153 | 21 | Ellieshay |
-| 154 | 21 | Heather Bell |
-| 155 | 21 | Matthew Allan |
-| 156 | 21 | Big rick !!! |
-| 157 | 20 | Beka |
-| 158 | 20 | Allena Craft |
-| 159 | 20 | Mean Melly |
-| 160 | 20 | Brittney Groler |
+| 149 | 22 | Brittney Groler |
+| 150 | 22 | Giddy Swiper |
+| 151 | 21 | Nerdy Shatterline |
+| 152 | 21 | Suzan Frazier |
+| 153 | 21 | Perky Glidebuilder |
+| 154 | 21 | Ellieshay |
+| 155 | 21 | Heather Bell |
+| 156 | 21 | Matthew Allan |
+| 157 | 21 | Big rick !!! |
+| 158 | 20 | Garry Junior Davis |
+| 159 | 20 | Allena Craft |
+| 160 | 20 | Mean Melly |
 | 161 | 20 | Jamie Jury |
 | 162 | 20 | Death |
 | 163 | 20 | Kindra Sinclair |
 | 164 | 20 | Jess Rose |
 | 165 | 20 | tiffany |
 | 166 | 20 | MamaPhee |
-| 167 | 20 | Mighty Patternbuilder |
-| 168 | 20 | Oscar Ferguson |
-| 169 | 20 | John Morris |
-| 170 | 20 | Christen Lawrick |
-| 171 | 20 | Selena Rollin |
-| 172 | 20 | Bubba |
-| 173 | 20 | Ann Brock LaPorte |
-| 174 | 20 | Garry Junior Davis |
-| 175 | 19 | Jessica Marie Long |
-| 176 | 19 | cool kat |
-| 177 | 19 | Epic Fallzone |
-| 178 | 18 | Matt Aguilar |
-| 179 | 18 | Timothy Long |
-| 180 | 18 | Margo Fenton |
-| 181 | 18 | Jacob Phillips |
-| 182 | 18 | Nutty Cascadefit |
-| 183 | 18 | Bingo Wingo |
-| 184 | 18 | Gregg Scott |
-| 185 | 18 | Joy Bloodworth |
-| 186 | 17 | Amy Sanford |
+| 167 | 20 | Beka |
+| 168 | 20 | Mighty Patternbuilder |
+| 169 | 20 | Oscar Ferguson |
+| 170 | 20 | Ann Brock LaPorte |
+| 171 | 20 | John Morris |
+| 172 | 20 | Christen Lawrick |
+| 173 | 20 | Selena Rollin |
+| 174 | 20 | Bubba |
+| 175 | 19 | Epic Fallzone |
+| 176 | 19 | Jessica Marie Long |
+| 177 | 19 | cool kat |
+| 178 | 18 | Joy Bloodworth |
+| 179 | 18 | slim |
+| 180 | 18 | Gregg Scott |
+| 181 | 18 | Bingo Wingo |
+| 182 | 18 | Matt Aguilar |
+| 183 | 18 | Nutty Cascadefit |
+| 184 | 18 | Jacob Phillips |
+| 185 | 18 | Margo Fenton |
+| 186 | 18 | Timothy Long |
 | 187 | 17 | TheKBr0 |
-| 188 | 17 | Lisa Marie Sansom |
-| 189 | 17 | Tracy Priceless Gholston |
-| 190 | 17 | Raynsera |
-| 191 | 17 | Lee Sipelii |
-| 192 | 16 | Groovy Glidepiece |
-| 193 | 16 | Zany Patternfit |
-| 194 | 16 | Chilly Matchbuilder |
-| 195 | 16 | Boldy Clicky |
+| 188 | 17 | Amy Sanford |
+| 189 | 17 | Lisa Marie Sansom |
+| 190 | 17 | Tracy Priceless Gholston |
+| 191 | 17 | Raynsera |
+| 192 | 17 | Lee Sipelii |
+| 193 | 16 | Chilly Matchbuilder |
+| 194 | 16 | Groovy Glidepiece |
+| 195 | 16 | Zany Patternfit |
 | 196 | 16 | Anne Garcia |
-| 197 | 16 | Bearman |
-| 198 | 16 | Melissa Hart |
+| 197 | 16 | Boldy Clicky |
+| 198 | 16 | Bearman |
 | 199 | 16 | Snazzy Rotater |
 | 200 | 16 | Cool Dasher |
-| 201 | 16 | slim |
-| 202 | 15 | Ashley Cox |
-| 203 | 15 | Ellen Maxwell Capstaff |
-| 204 | 15 | Ody |
-| 205 | 15 | Richard Cranium |
-| 206 | 15 | Christopher Wesley |
-| 207 | 15 | Shawna Days |
-| 208 | 15 | Spam |
-| 209 | 15 | Erica Wynne |
-| 210 | 15 | Kathy Searles |
-| 211 | 15 | DynamicQuail10 |
+| 201 | 16 | Melissa Hart |
+| 202 | 15 | Kathy Searles |
+| 203 | 15 | Erica Wynne |
+| 204 | 15 | Ashley Cox |
+| 205 | 15 | Spam |
+| 206 | 15 | Shawna Days |
+| 207 | 15 | Christopher Wesley |
+| 208 | 15 | DynamicQuail10 |
+| 209 | 15 | Richard Cranium |
+| 210 | 15 | Ody |
+| 211 | 15 | Ellen Maxwell Capstaff |
 | 212 | 15 | Nikki Robinson |
 | 213 | 15 | William Ramirez |
-| 214 | 14 | PennyCandee |
-| 215 | 14 | Katie Martin |
+| 214 | 14 | Katie Martin |
+| 215 | 14 | PennyCandee |
 | 216 | 14 | BingoStarr |
 | 217 | 14 | Ernest Jordan |
 | 218 | 14 | Steven Ray Real |

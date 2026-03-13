@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-13 16:10:34 UTC
+# Standings for team2 as of 2026-03-13 16:11:11 UTC
 
 **Total Participants:** 378
 
@@ -31,8 +31,8 @@
 | 23 | 195 | Arisvet Garcia |
 | 24 | 178 | Chelsea Clark |
 | 25 | 170 | Richard Butler |
-| 26 | 161 | sweet lil miss |
-| 27 | 159 | Jumpy Breaker |
+| 26 | 169 | Jumpy Breaker |
+| 27 | 161 | sweet lil miss |
 | 28 | 150 | MzBerry |
 | 29 | 140 | Carmilita Burpo Jordan |
 | 30 | 140 | Nerdy Blockpiece |
@@ -60,9 +60,9 @@
 | 52 | 80 | Becky McClure |
 | 53 | 80 | btchboy |
 | 54 | 80 | TETRIS |
-| 55 | 73 | Teresa Longwell |
-| 56 | 70 | Caitlyn Brown |
-| 57 | 69 | nickle109 |
+| 55 | 77 | nickle109 |
+| 56 | 73 | Teresa Longwell |
+| 57 | 70 | Caitlyn Brown |
 | 58 | 66 | Tonya Hadsell |
 | 59 | 64 | Danielle Mogg |
 | 60 | 62 | Lindsay Lucas |
@@ -341,31 +341,31 @@
 | 333 | 7 | Destiny Brady |
 | 334 | 7 | Marc |
 | 335 | 7 | carole57 |
-| 336 | 7 | Mcg |
-| 337 | 7 | Fuzzy |
-| 338 | 7 | Odessa Scott |
-| 339 | 7 | Cool Riser |
-| 340 | 7 | Melissa Williams Blevins |
-| 341 | 7 | Autumn Leslie |
-| 342 | 7 | Elaina Temple |
-| 343 | 7 | Dandy Crasher |
-| 344 | 6 | Trisha Balmer |
+| 336 | 7 | Frisky Slider |
+| 337 | 7 | Mcg |
+| 338 | 7 | Fuzzy |
+| 339 | 7 | Odessa Scott |
+| 340 | 7 | Cool Riser |
+| 341 | 7 | Melissa Williams Blevins |
+| 342 | 7 | Autumn Leslie |
+| 343 | 7 | Elaina Temple |
+| 344 | 7 | Dandy Crasher |
 | 345 | 6 | Carlos Landin |
-| 346 | 6 | Abimbola Bimbo |
+| 346 | 6 | Trisha Balmer |
 | 347 | 6 | Shiny Framezone |
 | 348 | 6 | EKS |
 | 349 | 6 | Amanda Segura |
 | 350 | 6 | cat |
 | 351 | 6 | Kristin Smith |
-| 352 | 6 | Melanie Corum Reynolds |
-| 353 | 6 | Plucky Patternfit |
-| 354 | 6 | Chill Tilefall |
-| 355 | 6 | Weeping Angel |
-| 356 | 6 | Snippy Clearbuilder |
-| 357 | 6 | sweetpea |
-| 358 | 6 | Lazy Gridroll |
-| 359 | 6 | Sassy Dashgrid |
-| 360 | 5 | Frisky Slider |
+| 352 | 6 | Abimbola Bimbo |
+| 353 | 6 | Melanie Corum Reynolds |
+| 354 | 6 | Plucky Patternfit |
+| 355 | 6 | Chill Tilefall |
+| 356 | 6 | Weeping Angel |
+| 357 | 6 | Snippy Clearbuilder |
+| 358 | 6 | sweetpea |
+| 359 | 6 | Lazy Gridroll |
+| 360 | 6 | Sassy Dashgrid |
 | 361 | 5 | Ashley Grace |
 | 362 | 5 | Anita Johnson |
 | 363 | 5 | Tiffany Riccio |
