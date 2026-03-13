@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-03-13 12:21:12 UTC
+# Standings for team4 as of 2026-03-13 12:22:11 UTC
 
-**Total Participants:** 61
+**Total Participants:** 65
 
 ## Participant Scores
 
@@ -11,62 +11,66 @@
 | 3 | 213 | Woody |
 | 4 | 140 | Zeirela Selazno |
 | 5 | 96 | Joseph L Johnson |
-| 6 | 80 | LaKisha Anderson |
-| 7 | 79 | Kortney Fiorucci |
-| 8 | 66 | Patricia White |
-| 9 | 58 | Anthony B Youmans |
-| 10 | 48 | Monarca26 |
-| 11 | 39 | Rain |
-| 12 | 36 | Madison Wicks |
-| 13 | 35 | Abby Garcia |
-| 14 | 32 | Jared Nadler |
-| 15 | 30 | Perach Alima Shoa |
-| 16 | 30 | Tipsy Blocker |
-| 17 | 30 | Liseth Vasquez |
-| 18 | 28 | Travis Kellan |
-| 19 | 26 | cookieesor |
-| 20 | 22 | Madeline Pinton Keen |
-| 21 | 21 | Scott Jackson |
-| 22 | 20 | Lively Rollzone |
-| 23 | 20 | Lakisha Odom |
-| 24 | 20 | Julay |
-| 25 | 20 | Albee Menina |
-| 26 | 20 | Tipsy Tumbler |
-| 27 | 16 | Alyssa Papen |
-| 28 | 15 | Jennjack |
-| 29 | 14 | Mimi |
+| 6 | 86 | Patricia White |
+| 7 | 80 | LaKisha Anderson |
+| 8 | 79 | Kortney Fiorucci |
+| 9 | 60 | Sergio Torres |
+| 10 | 58 | Anthony B Youmans |
+| 11 | 48 | Monarca26 |
+| 12 | 41 | Scott Jackson |
+| 13 | 39 | Rain |
+| 14 | 36 | Madison Wicks |
+| 15 | 35 | Abby Garcia |
+| 16 | 32 | Jared Nadler |
+| 17 | 30 | Perach Alima Shoa |
+| 18 | 30 | Tipsy Blocker |
+| 19 | 30 | Liseth Vasquez |
+| 20 | 30 | Lakisha Odom |
+| 21 | 28 | Travis Kellan |
+| 22 | 26 | cookieesor |
+| 23 | 22 | Madeline Pinton Keen |
+| 24 | 20 | Tipsy Tumbler |
+| 25 | 20 | Julay |
+| 26 | 20 | Lively Rollzone |
+| 27 | 20 | Albee Menina |
+| 28 | 16 | Alyssa Papen |
+| 29 | 15 | Jennjack |
 | 30 | 14 | Dreamy Riserpiece |
-| 31 | 13 | Blockhead |
-| 32 | 12 | Clever Fitline |
-| 33 | 12 | Joy |
-| 34 | 12 | Maryann Vac |
-| 35 | 10 | Twot |
-| 36 | 10 | Chipper Tiler |
-| 37 | 10 | Joshua Orr |
-| 38 | 10 | Ron Shaffer |
-| 39 | 10 | Ly Phethmany |
-| 40 | 10 | Sadie Reeves |
-| 41 | 10 | Cheeky Pop |
-| 42 | 9 | Tracey Ann Johnson |
-| 43 | 9 | POV7 |
-| 44 | 9 | Donna Caparimo |
-| 45 | 9 | Jennifer Hopper |
-| 46 | 9 | Cool Fitzone |
-| 47 | 8 | Randi Woldin-Speedling |
-| 48 | 8 | benjiwrld<3 |
-| 49 | 8 | Tammy |
-| 50 | 8 | Jessica Espinosa Olesh |
-| 51 | 7 | Felix Skelton |
-| 52 | 7 | Vdot |
-| 53 | 6 | Big T |
-| 54 | 6 | Liz |
-| 55 | 6 | Jessica Renee Artley |
-| 56 | 6 | Diamond Applewhite |
-| 57 | 5 | Jason Dickens |
-| 58 | 5 | Erin Sabol |
-| 59 | 5 | Jazzy Framezone |
-| 60 | 5 | Cranky Grid |
-| 61 | 5 | Chris Prothro |
+| 31 | 14 | Mimi |
+| 32 | 13 | Blockhead |
+| 33 | 12 | Chuck Fobert |
+| 34 | 12 | Clever Fitline |
+| 35 | 12 | Joy |
+| 36 | 12 | Maryann Vac |
+| 37 | 11 | Jessica Espinosa Olesh |
+| 38 | 10 | Cheeky Pop |
+| 39 | 10 | Twot |
+| 40 | 10 | Ron Shaffer |
+| 41 | 10 | Joshua Orr |
+| 42 | 10 | Sadie Reeves |
+| 43 | 10 | Chipper Tiler |
+| 44 | 10 | Ly Phethmany |
+| 45 | 9 | Cool Fitzone |
+| 46 | 9 | Jennifer Hopper |
+| 47 | 9 | Donna Caparimo |
+| 48 | 9 | POV7 |
+| 49 | 9 | Tracey Ann Johnson |
+| 50 | 8 | Nessa Fonseca |
+| 51 | 8 | Randi Woldin-Speedling |
+| 52 | 8 | Tammy |
+| 53 | 8 | benjiwrld<3 |
+| 54 | 7 | Felix Skelton |
+| 55 | 7 | Vdot |
+| 56 | 6 | Big T |
+| 57 | 6 | Jessica Renee Artley |
+| 58 | 6 | Liz |
+| 59 | 6 | Diamond Applewhite |
+| 60 | 5 | Chris Prothro |
+| 61 | 5 | Michael Campbell |
+| 62 | 5 | Jason Dickens |
+| 63 | 5 | Jazzy Framezone |
+| 64 | 5 | Cranky Grid |
+| 65 | 5 | Erin Sabol |
 
 ---
 *Standings created by tournaments datasource generation tool*
