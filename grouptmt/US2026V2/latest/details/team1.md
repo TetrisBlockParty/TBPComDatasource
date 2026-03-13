@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 21:00:14 UTC
+# Standings for team1 as of 2026-03-13 21:00:36 UTC
 
 **Total Participants:** 736
 
@@ -36,15 +36,15 @@
 | 28 | 297 | Hellsin |
 | 29 | 278 | Donavon Krahn |
 | 30 | 275 | Hasbro Bros |
-| 31 | 250 | Renee Weedling |
-| 32 | 249 | Tatiyana Holm |
-| 33 | 240 | Brad Oneill |
-| 34 | 239 | Kat Mfm Kaul |
-| 35 | 234 | Jr_420 |
-| 36 | 228 | Legendary |
-| 37 | 220 | Jevon Griffith |
-| 38 | 219 | Peachy Brick |
-| 39 | 212 | Tina Blessed Cage |
+| 31 | 254 | Tina Blessed Cage |
+| 32 | 250 | Renee Weedling |
+| 33 | 249 | Tatiyana Holm |
+| 34 | 240 | Brad Oneill |
+| 35 | 239 | Kat Mfm Kaul |
+| 36 | 234 | Jr_420 |
+| 37 | 228 | Legendary |
+| 38 | 220 | Jevon Griffith |
+| 39 | 219 | Peachy Brick |
 | 40 | 209 | TRCuse |
 | 41 | 206 | Ramona Gulledge |
 | 42 | 199 | Gloria Ininahazwe |

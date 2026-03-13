@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-13 21:00:14 UTC
+# Standings for team3 as of 2026-03-13 21:00:36 UTC
 
 **Total Participants:** 1122
 
@@ -40,17 +40,17 @@
 | 32 | 526 | Plucky Tiler |
 | 33 | 508 | Lauren d |
 | 34 | 496 | Fancy Slammer |
-| 35 | 446 | Michelle Drew |
-| 36 | 419 | Beth Naehrbass |
-| 37 | 418 | Mary Paul |
-| 38 | 415 | Stephanie Rice |
-| 39 | 361 | BriElle Branch |
-| 40 | 358 | Jaxxs50 |
-| 41 | 347 | gee |
-| 42 | 338 | Matthew |
-| 43 | 320 | Marlanna Johnson Wells |
-| 44 | 306 | Cranky Tiltbuilder |
-| 45 | 304 | Pharrah Hill |
+| 35 | 448 | Pharrah Hill |
+| 36 | 446 | Michelle Drew |
+| 37 | 419 | Beth Naehrbass |
+| 38 | 418 | Mary Paul |
+| 39 | 415 | Stephanie Rice |
+| 40 | 361 | BriElle Branch |
+| 41 | 358 | Jaxxs50 |
+| 42 | 347 | gee |
+| 43 | 338 | Matthew |
+| 44 | 320 | Marlanna Johnson Wells |
+| 45 | 306 | Cranky Tiltbuilder |
 | 46 | 300 | Dayaa Laws |
 | 47 | 264 | Serena Catherine Coladonato |
 | 48 | 259 | Jessica Bechler |
@@ -64,8 +64,8 @@
 | 56 | 204 | Branny |
 | 57 | 203 | Daniel Regiani |
 | 58 | 201 | Sadgirl |
-| 59 | 200 | Paul Huber |
-| 60 | 200 | Megan Rathmanner |
+| 59 | 200 | Megan Rathmanner |
+| 60 | 200 | Paul Huber |
 | 61 | 200 | Kimberly Schall |
 | 62 | 199 | Reydoma |
 | 63 | 187 | Breezy Clusterer |
@@ -90,12 +90,12 @@
 | 82 | 152 | Denise Rickman |
 | 83 | 151 | Shelly Griggs |
 | 84 | 150 | Emily |
-| 85 | 146 | outdoor_cat |
-| 86 | 140 | Rechell Johnson |
-| 87 | 140 | Blakkha Brown |
-| 88 | 140 | Cool Blockroll |
-| 89 | 139 | Amy Perry |
-| 90 | 139 | Sean Corsi |
+| 85 | 149 | Sean Corsi |
+| 86 | 146 | outdoor_cat |
+| 87 | 140 | Rechell Johnson |
+| 88 | 140 | Blakkha Brown |
+| 89 | 140 | Cool Blockroll |
+| 90 | 139 | Amy Perry |
 | 91 | 136 | Elizabeth Charles |
 | 92 | 135 | TriKaraTops |
 | 93 | 135 | Dizzy Gridzone |
