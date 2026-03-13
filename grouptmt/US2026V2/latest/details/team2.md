@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-13 23:12:14 UTC
+# Standings for team2 as of 2026-03-13 23:12:35 UTC
 
 **Total Participants:** 883
 
@@ -68,13 +68,13 @@
 | 60 | 218 | Chelsea Clark |
 | 61 | 216 | Michael H. M. Skropka |
 | 62 | 213 | lovethedana |
-| 63 | 210 | Laura McPheeters |
-| 64 | 209 | Jami Howard |
-| 65 | 207 | Arisvet Garcia |
-| 66 | 205 | Danielle Mogg |
-| 67 | 202 | Spunky Snapfit |
-| 68 | 200 | MzBerry |
-| 69 | 200 | candypants |
+| 63 | 212 | candypants |
+| 64 | 210 | Laura McPheeters |
+| 65 | 209 | Jami Howard |
+| 66 | 207 | Arisvet Garcia |
+| 67 | 205 | Danielle Mogg |
+| 68 | 202 | Spunky Snapfit |
+| 69 | 200 | MzBerry |
 | 70 | 192 | Maureen Winter |
 | 71 | 191 | 1RiRi1 |
 | 72 | 191 | Sheesh M |
@@ -682,16 +682,16 @@
 | 674 | 13 | Phredda Compton |
 | 675 | 13 | Joe |
 | 676 | 13 | Lora Allen |
-| 677 | 13 | Perky Rollfit |
-| 678 | 13 | Elizabeth Blankenship |
-| 679 | 13 | Spencer John |
-| 680 | 13 | Dizzy Dasher |
-| 681 | 13 | Abimbola Bimbo |
-| 682 | 13 | Amanda |
-| 683 | 13 | Jenny Carrier |
-| 684 | 12 | Jen Robinson |
-| 685 | 12 | Dapper Stacker |
-| 686 | 12 | Shane Gann |
+| 677 | 13 | Elizabeth Blankenship |
+| 678 | 13 | Perky Rollfit |
+| 679 | 13 | Dizzy Dasher |
+| 680 | 13 | Spencer John |
+| 681 | 13 | Trisha Balmer |
+| 682 | 13 | Abimbola Bimbo |
+| 683 | 13 | Amanda |
+| 684 | 13 | Jenny Carrier |
+| 685 | 12 | Shane Gann |
+| 686 | 12 | Dapper Stacker |
 | 687 | 12 | Chirpy Dash |
 | 688 | 12 | Amber Starr Drinnon |
 | 689 | 12 | krae |
@@ -699,10 +699,10 @@
 | 691 | 12 | Shirley Petty |
 | 692 | 12 | Poppy Liney |
 | 693 | 12 | Lisa Nixon |
-| 694 | 12 | JaneWacky Balancefit |
-| 695 | 12 | Jay |
-| 696 | 12 | Blacc Blac |
-| 697 | 12 | Trisha Balmer |
+| 694 | 12 | Jen Robinson |
+| 695 | 12 | JaneWacky Balancefit |
+| 696 | 12 | Jay |
+| 697 | 12 | Blacc Blac |
 | 698 | 12 | Tonya Amen |
 | 699 | 12 | Kirk Maxon |
 | 700 | 12 | Henry Lanier |
