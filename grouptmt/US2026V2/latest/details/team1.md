@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 18:29:13 UTC
+# Standings for team1 as of 2026-03-13 18:30:13 UTC
 
 **Total Participants:** 521
 
@@ -464,69 +464,69 @@
 | 456 | 7 | Trey Petty |
 | 457 | 7 | OmniJoy |
 | 458 | 7 | Dace Zoltners |
-| 459 | 7 | Darlene |
-| 460 | 7 | freakyjoe |
-| 461 | 7 | Randy Bowers |
-| 462 | 7 | Missy Lynn |
-| 463 | 7 | key |
-| 464 | 7 | April McGuffie |
-| 465 | 7 | waylow |
-| 466 | 7 | MrsW |
-| 467 | 7 | Bouncy Tilerpiece |
-| 468 | 7 | Cool Base |
-| 469 | 7 | meh |
-| 470 | 7 | Josh Barringer |
-| 471 | 7 | Jennifer Kime |
-| 472 | 7 | Christie Reynolds |
-| 473 | 6 | Jack Mattiace |
-| 474 | 6 | cac |
-| 475 | 6 | ghxsty |
-| 476 | 6 | Breezy Ivy |
-| 477 | 6 | Kristen Rhoads |
-| 478 | 6 | ajx |
-| 479 | 6 | Dizzy Pattern |
-| 480 | 6 | Jpapi |
-| 481 | 6 | Monica Blu |
-| 482 | 6 | Randy Clevenger |
-| 483 | 6 | Slinky Setter |
-| 484 | 6 | Jody Jackson |
-| 485 | 6 | Tjango |
-| 486 | 6 | Breezy Block |
-| 487 | 6 | Antoinette Rhinesmith |
-| 488 | 6 | dustin b |
-| 489 | 6 | Amber Jackson |
-| 490 | 6 | Austin Wilson |
-| 491 | 6 | Gary Francis Schaffer Jr |
-| 492 | 6 | flip |
-| 493 | 6 | mrkw |
-| 494 | 6 | Snippy Tilerpiece |
-| 495 | 6 | Flashy Rotator |
-| 496 | 6 | Lil H |
-| 497 | 6 | Pupcup |
-| 498 | 6 | Tyrell Harvin |
-| 499 | 5 | Charis Stoner |
-| 500 | 5 | Victoria Montenegro Martinez |
-| 501 | 5 | LadyKuSh |
-| 502 | 5 | Angela Renea Lester |
-| 503 | 5 | Samantha Bugg Stitcher |
-| 504 | 5 | Moretattsdenscars |
-| 505 | 5 | Slinky Dashgrid |
-| 506 | 5 | Armoni |
-| 507 | 5 | Fancy Tilefall |
-| 508 | 5 | Slinky Stacky |
-| 509 | 5 | Chrys Peters |
-| 510 | 5 | Benjamin Ford |
-| 511 | 5 | Jennifer Brown |
-| 512 | 5 | Terry Dill |
-| 513 | 5 | MissySai TooRude Ladson |
-| 514 | 5 | Ras David |
-| 515 | 5 | Angela Brown Babin |
-| 516 | 5 | Larry McRae |
-| 517 | 5 | Lulu C Harp |
-| 518 | 5 | Muhammad |
-| 519 | 5 | Tony Lighthizer |
-| 520 | 5 | Sarajo Clauson |
-| 521 | 5 | Troy Gussler |
+| 459 | 7 | key |
+| 460 | 7 | MrsW |
+| 461 | 7 | meh |
+| 462 | 7 | Randy Bowers |
+| 463 | 7 | Jennifer Kime |
+| 464 | 7 | Missy Lynn |
+| 465 | 7 | April McGuffie |
+| 466 | 7 | waylow |
+| 467 | 7 | Darlene |
+| 468 | 7 | freakyjoe |
+| 469 | 7 | Cool Base |
+| 470 | 7 | Christie Reynolds |
+| 471 | 7 | Josh Barringer |
+| 472 | 7 | Bouncy Tilerpiece |
+| 473 | 6 | Dizzy Pattern |
+| 474 | 6 | Tyrell Harvin |
+| 475 | 6 | cac |
+| 476 | 6 | Tjango |
+| 477 | 6 | Jody Jackson |
+| 478 | 6 | Monica Blu |
+| 479 | 6 | Slinky Setter |
+| 480 | 6 | Kristen Rhoads |
+| 481 | 6 | Jack Mattiace |
+| 482 | 6 | Angela Brown Babin |
+| 483 | 6 | Randy Clevenger |
+| 484 | 6 | Antoinette Rhinesmith |
+| 485 | 6 | ghxsty |
+| 486 | 6 | ajx |
+| 487 | 6 | Breezy Ivy |
+| 488 | 6 | flip |
+| 489 | 6 | Jpapi |
+| 490 | 6 | Pupcup |
+| 491 | 6 | Lil H |
+| 492 | 6 | Flashy Rotator |
+| 493 | 6 | Snippy Tilerpiece |
+| 494 | 6 | Breezy Block |
+| 495 | 6 | dustin b |
+| 496 | 6 | Gary Francis Schaffer Jr |
+| 497 | 6 | Austin Wilson |
+| 498 | 6 | mrkw |
+| 499 | 6 | Amber Jackson |
+| 500 | 5 | LadyKuSh |
+| 501 | 5 | Slinky Dashgrid |
+| 502 | 5 | Samantha Bugg Stitcher |
+| 503 | 5 | Fancy Tilefall |
+| 504 | 5 | Muhammad |
+| 505 | 5 | Terry Dill |
+| 506 | 5 | Sarajo Clauson |
+| 507 | 5 | Troy Gussler |
+| 508 | 5 | Charis Stoner |
+| 509 | 5 | Angela Renea Lester |
+| 510 | 5 | Moretattsdenscars |
+| 511 | 5 | Armoni |
+| 512 | 5 | Slinky Stacky |
+| 513 | 5 | Tony Lighthizer |
+| 514 | 5 | Lulu C Harp |
+| 515 | 5 | Jennifer Brown |
+| 516 | 5 | Victoria Montenegro Martinez |
+| 517 | 5 | Chrys Peters |
+| 518 | 5 | Benjamin Ford |
+| 519 | 5 | MissySai TooRude Ladson |
+| 520 | 5 | Larry McRae |
+| 521 | 5 | Ras David |
 
 ---
 *Standings created by tournaments datasource generation tool*
