@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-03-13 13:19:11 UTC
+# Standings for team1 as of 2026-03-13 13:20:11 UTC
 
-**Total Participants:** 140
+**Total Participants:** 141
 
 ## Participant Scores
 
@@ -28,8 +28,8 @@
 | 20 | 54 | Giddy Cascade |
 | 21 | 51 | Joyce Harrell-chavis |
 | 22 | 50 | Andy Harris |
-| 23 | 50 | Aponk |
-| 24 | 50 | Gina Annese |
+| 23 | 50 | Gina Annese |
+| 24 | 50 | Aponk |
 | 25 | 49 | Itn |
 | 26 | 49 | Dale |
 | 27 | 48 | Jennifer Traywick |
@@ -42,17 +42,17 @@
 | 34 | 39 | mbij21 |
 | 35 | 38 | Albert Josef Toves Means Jr. |
 | 36 | 36 | Hasty Lift |
-| 37 | 35 | Edna Clinton |
-| 38 | 35 | Tammy Straka |
+| 37 | 35 | Tammy Straka |
+| 38 | 35 | Edna Clinton |
 | 39 | 34 | Marie Helman |
-| 40 | 32 | Chummy Rollzone |
-| 41 | 32 | Goofy Linkblock |
-| 42 | 32 | iceman |
-| 43 | 32 | Trishatta YoungDiva Watkins |
-| 44 | 30 | raffyG |
-| 45 | 30 | Beth Anderson |
-| 46 | 30 | Chris Kelly |
-| 47 | 30 | Rebekah LeiAnn Bonsell |
+| 40 | 33 | Rebekah LeiAnn Bonsell |
+| 41 | 32 | iceman |
+| 42 | 32 | Trishatta YoungDiva Watkins |
+| 43 | 32 | Chummy Rollzone |
+| 44 | 32 | Goofy Linkblock |
+| 45 | 30 | Chris Kelly |
+| 46 | 30 | raffyG |
+| 47 | 30 | Beth Anderson |
 | 48 | 30 | kito23 |
 | 49 | 29 | Teresa Wolf |
 | 50 | 28 | Maxwell Hall |
@@ -62,90 +62,91 @@
 | 54 | 26 | Bubbly Patterner |
 | 55 | 26 | Tim Raper |
 | 56 | 22 | Giddy Swiper |
-| 57 | 20 | Mean Melly |
-| 58 | 20 | Kindra Sinclair |
-| 59 | 18 | Bingo Wingo |
+| 57 | 20 | Kindra Sinclair |
+| 58 | 20 | Mean Melly |
+| 59 | 18 | Matthew Laudico |
 | 60 | 18 | Jacob Phillips |
-| 61 | 18 | Ryry |
-| 62 | 18 | Oscar Ferguson |
-| 63 | 17 | Lee Sipelii |
-| 64 | 16 | Chilly Matchbuilder |
-| 65 | 16 | Anne Garcia |
+| 61 | 18 | Oscar Ferguson |
+| 62 | 18 | Bingo Wingo |
+| 63 | 18 | Ryry |
+| 64 | 17 | Lee Sipelii |
+| 65 | 16 | Chilly Matchbuilder |
 | 66 | 16 | Porkobello |
-| 67 | 16 | Sam Steig |
-| 68 | 15 | Nikki Robinson |
-| 69 | 15 | William Ramirez |
+| 67 | 16 | Melissa Hart |
+| 68 | 16 | Sam Steig |
+| 69 | 16 | Anne Garcia |
 | 70 | 15 | Ellen Maxwell Capstaff |
-| 71 | 14 | Amber Nicole |
-| 72 | 14 | Dawn Fike |
-| 73 | 14 | Elyse YL |
+| 71 | 15 | William Ramirez |
+| 72 | 15 | Nikki Robinson |
+| 73 | 14 | Amber Nicole |
 | 74 | 14 | Ernest Jordan |
-| 75 | 13 | Natasha Velasquez Gabriel |
-| 76 | 13 | Krystal McPherson |
-| 77 | 13 | Plucky Dashgrid |
-| 78 | 12 | Sassy Wrecker |
-| 79 | 12 | Suzan Frazier |
-| 80 | 12 | Melissa Hart |
-| 81 | 12 | Cool Dasher |
-| 82 | 12 | James Burda |
-| 83 | 12 | Walter Beltran |
-| 84 | 12 | ssr |
-| 85 | 12 | Big rick !!! |
-| 86 | 12 | Brittney Groler |
-| 87 | 12 | Alexandria Ritch |
-| 88 | 11 | Boldy Clicky |
-| 89 | 10 | Hecate Trimora |
-| 90 | 10 | Giles McNair |
-| 91 | 10 | Bigmoco |
-| 92 | 10 | Donavon Krahn |
-| 93 | 10 | Dreamy Matchclear |
-| 94 | 10 | Tracie Corbett |
-| 95 | 10 | Epic Fallzone |
-| 96 | 10 | Shawna Days |
-| 97 | 9 | Zach Thompson |
-| 98 | 9 | bricked |
-| 99 | 9 | Bob Sitts |
-| 100 | 9 | Jennifer Bunker |
-| 101 | 9 | Quirky Dashy |
-| 102 | 8 | Elizabeth Hughes |
-| 103 | 8 | Matthew Laudico |
-| 104 | 8 | al |
-| 105 | 8 | Crafty Clearfit |
-| 106 | 8 | Felise Bee |
-| 107 | 8 | Epic Cascadeclear |
-| 108 | 8 | Kat Kath |
-| 109 | 8 | Jessica Marie Long |
-| 110 | 7 | Herm Junior |
-| 111 | 7 | Jennifer Kime |
-| 112 | 7 | MrsW |
-| 113 | 7 | Michael Felker |
-| 114 | 6 | Liz M Durfee |
-| 115 | 6 | Poppy Lift |
-| 116 | 6 | MamaPhee |
-| 117 | 6 | Tyrell Harvin |
-| 118 | 6 | Antoinette Rhinesmith |
-| 119 | 6 | Tjango |
-| 120 | 6 | Jody Jackson |
-| 121 | 6 | Slinky Setter |
-| 122 | 6 | Delzie J Leigh |
-| 123 | 6 | Randy Clevenger |
-| 124 | 6 | Kristen Rhoads |
-| 125 | 6 | Dizzy Pattern |
-| 126 | 6 | Monica Blu |
-| 127 | 6 | Jack Mattiace |
-| 128 | 6 | Zuul Gatekeeper |
-| 129 | 6 | Sunny Swiper |
-| 130 | 5 | Flashy Clicker |
-| 131 | 5 | Jennifer Brown |
+| 75 | 14 | Elyse YL |
+| 76 | 14 | Dawn Fike |
+| 77 | 13 | Natasha Velasquez Gabriel |
+| 78 | 13 | Krystal McPherson |
+| 79 | 13 | Plucky Dashgrid |
+| 80 | 12 | Suzan Frazier |
+| 81 | 12 | Sassy Wrecker |
+| 82 | 12 | Walter Beltran |
+| 83 | 12 | James Burda |
+| 84 | 12 | Cool Dasher |
+| 85 | 12 | Alexandria Ritch |
+| 86 | 12 | ssr |
+| 87 | 12 | Brittney Groler |
+| 88 | 12 | Big rick !!! |
+| 89 | 11 | Boldy Clicky |
+| 90 | 10 | Donavon Krahn |
+| 91 | 10 | Shawna Days |
+| 92 | 10 | Garry Junior Davis |
+| 93 | 10 | Giles McNair |
+| 94 | 10 | Dreamy Matchclear |
+| 95 | 10 | Tracie Corbett |
+| 96 | 10 | Bigmoco |
+| 97 | 10 | Hecate Trimora |
+| 98 | 10 | Epic Fallzone |
+| 99 | 9 | Quirky Dashy |
+| 100 | 9 | bricked |
+| 101 | 9 | Zach Thompson |
+| 102 | 9 | Jennifer Bunker |
+| 103 | 9 | Bob Sitts |
+| 104 | 8 | Crafty Clearfit |
+| 105 | 8 | Elizabeth Hughes |
+| 106 | 8 | Epic Cascadeclear |
+| 107 | 8 | Kat Kath |
+| 108 | 8 | Jessica Marie Long |
+| 109 | 8 | al |
+| 110 | 8 | Felise Bee |
+| 111 | 7 | Herm Junior |
+| 112 | 7 | Jennifer Kime |
+| 113 | 7 | MrsW |
+| 114 | 7 | Michael Felker |
+| 115 | 6 | Liz M Durfee |
+| 116 | 6 | Poppy Lift |
+| 117 | 6 | MamaPhee |
+| 118 | 6 | Tyrell Harvin |
+| 119 | 6 | Antoinette Rhinesmith |
+| 120 | 6 | Tjango |
+| 121 | 6 | Jody Jackson |
+| 122 | 6 | Slinky Setter |
+| 123 | 6 | Delzie J Leigh |
+| 124 | 6 | Randy Clevenger |
+| 125 | 6 | Monica Blu |
+| 126 | 6 | Kristen Rhoads |
+| 127 | 6 | Dizzy Pattern |
+| 128 | 6 | Sunny Swiper |
+| 129 | 6 | Jack Mattiace |
+| 130 | 6 | Zuul Gatekeeper |
+| 131 | 5 | Sarajo Clauson |
 | 132 | 5 | Samantha Bugg Stitcher |
-| 133 | 5 | Sarajo Clauson |
-| 134 | 5 | Tina Kocher Zimmerman |
-| 135 | 5 | Armin Muhamed |
+| 133 | 5 | Jennifer Brown |
+| 134 | 5 | Flashy Clicker |
+| 135 | 5 | Tina Kocher Zimmerman |
 | 136 | 5 | Witty Wipegrid |
-| 137 | 5 | freakyjoe |
-| 138 | 5 | MissySai TooRude Ladson |
-| 139 | 5 | Perky Clusterbuilder |
-| 140 | 5 | Spicy Clearpiece |
+| 137 | 5 | Armin Muhamed |
+| 138 | 5 | freakyjoe |
+| 139 | 5 | MissySai TooRude Ladson |
+| 140 | 5 | Perky Clusterbuilder |
+| 141 | 5 | Spicy Clearpiece |
 
 ---
 *Standings created by tournaments datasource generation tool*
