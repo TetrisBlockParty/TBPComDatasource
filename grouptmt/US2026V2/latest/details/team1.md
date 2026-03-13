@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 19:16:13 UTC
+# Standings for team1 as of 2026-03-13 19:16:34 UTC
 
 **Total Participants:** 590
 
@@ -528,74 +528,74 @@
 | 520 | 7 | Stephen Lockman |
 | 521 | 7 | Daniel R Morgan |
 | 522 | 7 | Herm Junior |
-| 523 | 7 | Missy Lynn |
-| 524 | 7 | Darlene |
-| 525 | 7 | waylow |
+| 523 | 7 | Darlene |
+| 524 | 7 | Josh Barringer |
+| 525 | 7 | Missy Lynn |
 | 526 | 7 | Bouncy Tilerpiece |
-| 527 | 7 | key |
-| 528 | 7 | Josh Barringer |
-| 529 | 7 | meh |
-| 530 | 7 | Christie Reynolds |
+| 527 | 7 | Christie Reynolds |
+| 528 | 7 | key |
+| 529 | 7 | freakyjoe |
+| 530 | 7 | Randy Bowers |
 | 531 | 7 | OmniJoy |
-| 532 | 7 | Jennifer Kime |
-| 533 | 7 | Clifford Greeniv |
-| 534 | 7 | Nicole McCune |
-| 535 | 7 | MrsW |
-| 536 | 7 | Randy Bowers |
+| 532 | 7 | Clifford Greeniv |
+| 533 | 7 | Nicole McCune |
+| 534 | 7 | MrsW |
+| 535 | 7 | waylow |
+| 536 | 7 | meh |
 | 537 | 7 | Aprill Bolton |
-| 538 | 7 | freakyjoe |
-| 539 | 6 | Jody Jackson |
-| 540 | 6 | Slinky Setter |
-| 541 | 6 | Tyrell Harvin |
-| 542 | 6 | cac |
-| 543 | 6 | Amber Jackson |
-| 544 | 6 | Gary Francis Schaffer Jr |
-| 545 | 6 | Kristen Rhoads |
-| 546 | 6 | dustin b |
-| 547 | 6 | Randy Clevenger |
-| 548 | 6 | Jack Mattiace |
+| 538 | 7 | Jennifer Kime |
+| 539 | 6 | ajx |
+| 540 | 6 | Tyrell Harvin |
+| 541 | 6 | Breezy Ivy |
+| 542 | 6 | Jack Mattiace |
+| 543 | 6 | dustin b |
+| 544 | 6 | Kristen Rhoads |
+| 545 | 6 | cac |
+| 546 | 6 | Glenda Inthimat |
+| 547 | 6 | Dizzy Pattern |
+| 548 | 6 | Jessica Shubert |
 | 549 | 6 | Monica Blu |
-| 550 | 6 | Jessica Shubert |
-| 551 | 6 | Breezy Ivy |
-| 552 | 6 | ajx |
-| 553 | 6 | Dizzy Pattern |
-| 554 | 6 | Pupcup |
-| 555 | 6 | Glenda Inthimat |
-| 556 | 6 | jabba |
-| 557 | 6 | tay |
-| 558 | 6 | Ana Fernanda Sanchez |
-| 559 | 6 | Jpapi |
-| 560 | 6 | ghxsty |
-| 561 | 6 | Tjango |
-| 562 | 6 | Lil H |
-| 563 | 6 | Snippy Tilerpiece |
+| 550 | 6 | Randy Clevenger |
+| 551 | 6 | Slinky Setter |
+| 552 | 6 | Jody Jackson |
+| 553 | 6 | Tjango |
+| 554 | 6 | Breezy Block |
+| 555 | 6 | Ana Fernanda Sanchez |
+| 556 | 6 | Lil H |
+| 557 | 6 | Amber Jackson |
+| 558 | 6 | Pupcup |
+| 559 | 6 | Snippy Tilerpiece |
+| 560 | 6 | jabba |
+| 561 | 6 | tay |
+| 562 | 6 | ghxsty |
+| 563 | 6 | Austin Wilson |
 | 564 | 6 | flip |
-| 565 | 6 | Breezy Block |
-| 566 | 6 | Austin Wilson |
-| 567 | 5 | gag |
-| 568 | 5 | Samantha Bugg Stitcher |
-| 569 | 5 | Chrys Peters |
-| 570 | 5 | Slinky Dashgrid |
-| 571 | 5 | Victoria Montenegro Martinez |
-| 572 | 5 | Terry Dill |
-| 573 | 5 | Troy Gussler |
-| 574 | 5 | Amy Hepler |
-| 575 | 5 | Benjamin Ford |
-| 576 | 5 | Charis Stoner |
-| 577 | 5 | Fancy Tilefall |
-| 578 | 5 | Muhammad |
-| 579 | 5 | Armoni |
-| 580 | 5 | Slinky Stacky |
-| 581 | 5 | Tony Lighthizer |
-| 582 | 5 | Lulu C Harp |
-| 583 | 5 | Ras David |
-| 584 | 5 | Jennifer Brown |
-| 585 | 5 | MissySai TooRude Ladson |
-| 586 | 5 | LadyKuSh |
-| 587 | 5 | Larry McRae |
-| 588 | 5 | Giggly Rotate |
+| 565 | 6 | Gary Francis Schaffer Jr |
+| 566 | 6 | Jpapi |
+| 567 | 5 | Charis Stoner |
+| 568 | 5 | gag |
+| 569 | 5 | Slinky Dashgrid |
+| 570 | 5 | Fancy Tilefall |
+| 571 | 5 | Jennifer Brown |
+| 572 | 5 | Benjamin Ford |
+| 573 | 5 | Amy Hepler |
+| 574 | 5 | Chrys Peters |
+| 575 | 5 | Samantha Bugg Stitcher |
+| 576 | 5 | Ras David |
+| 577 | 5 | Terry Dill |
+| 578 | 5 | Lulu C Harp |
+| 579 | 5 | Victoria Montenegro Martinez |
+| 580 | 5 | Tony Lighthizer |
+| 581 | 5 | MissySai TooRude Ladson |
+| 582 | 5 | Slinky Stacky |
+| 583 | 5 | LadyKuSh |
+| 584 | 5 | Giggly Rotate |
+| 585 | 5 | Larry McRae |
+| 586 | 5 | Muhammad |
+| 587 | 5 | Amber Wolfe |
+| 588 | 5 | Troy Gussler |
 | 589 | 5 | Sarajo Clauson |
-| 590 | 5 | Amber Wolfe |
+| 590 | 5 | Armoni |
 
 ---
 *Standings created by tournaments datasource generation tool*
