@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-03-13 12:50:11 UTC
+# Standings for team2 as of 2026-03-13 12:51:11 UTC
 
-**Total Participants:** 75
+**Total Participants:** 77
 
 ## Participant Scores
 
@@ -9,78 +9,80 @@
 | 1 | 360 | Crafty Matchfit |
 | 2 | 350 | Cynthia Ward |
 | 3 | 189 | Justablock |
-| 4 | 145 | Robert Martinez |
-| 5 | 117 | Pixie |
+| 4 | 183 | Pixie |
+| 5 | 145 | Robert Martinez |
 | 6 | 103 | Brittany Backus |
-| 7 | 80 | Andrey Sharov |
-| 8 | 80 | TETRIS |
-| 9 | 80 | Becky McClure |
+| 7 | 80 | TETRIS |
+| 8 | 80 | Becky McClure |
+| 9 | 80 | Andrey Sharov |
 | 10 | 70 | Caitlyn Brown |
 | 11 | 60 | Jo Frohwein |
-| 12 | 50 | Kimberly Garcia |
-| 13 | 47 | Chloe S |
-| 14 | 46 | Mjhays |
-| 15 | 43 | Chyrisse Norton |
-| 16 | 42 | Sarah Marie |
-| 17 | 40 | Veronica Martin Trinkle |
-| 18 | 40 | Paula Marcus Delsigne |
-| 19 | 40 | Arisvet Garcia |
-| 20 | 37 | Amy Villalpando |
-| 21 | 35 | Chipper Stacky |
-| 22 | 35 | Bow Babe |
-| 23 | 30 | Julia Freeman |
-| 24 | 30 | Beth Smith |
-| 25 | 30 | Brooke Sunderhaus |
-| 26 | 28 | Tori Bowers |
-| 27 | 28 | Lindsey Anderson |
-| 28 | 27 | Adam Charles |
-| 29 | 26 | Starr |
-| 30 | 25 | Guillaume Clermont |
+| 12 | 59 | Breezy Cascader |
+| 13 | 50 | Kimberly Garcia |
+| 14 | 47 | Chloe S |
+| 15 | 46 | Mjhays |
+| 16 | 43 | Chyrisse Norton |
+| 17 | 42 | Sarah Marie |
+| 18 | 40 | Veronica Martin Trinkle |
+| 19 | 40 | Paula Marcus Delsigne |
+| 20 | 40 | Arisvet Garcia |
+| 21 | 37 | Amy Villalpando |
+| 22 | 35 | Chipper Stacky |
+| 23 | 35 | Bow Babe |
+| 24 | 30 | Brooke Sunderhaus |
+| 25 | 30 | Beth Smith |
+| 26 | 30 | Julia Freeman |
+| 27 | 28 | Tori Bowers |
+| 28 | 28 | Lindsey Anderson |
+| 29 | 27 | Adam Charles |
+| 30 | 26 | Starr |
 | 31 | 25 | Melody Santiago |
-| 32 | 24 | Zack Theisen |
-| 33 | 24 | Prette Qui |
-| 34 | 23 | Sha45 |
-| 35 | 21 | Brave Tilebuilder |
-| 36 | 20 | Wacky Columnbuilder |
-| 37 | 20 | Andrew Bowen |
-| 38 | 19 | Lush Linkgrid |
-| 39 | 18 | Kell Cinn |
-| 40 | 18 | Shelly Babie |
-| 41 | 18 | Nerdy Clearer |
+| 32 | 25 | Guillaume Clermont |
+| 33 | 24 | Snippy Basepiece |
+| 34 | 24 | Zack Theisen |
+| 35 | 24 | Prette Qui |
+| 36 | 23 | Sha45 |
+| 37 | 21 | Brave Tilebuilder |
+| 38 | 20 | Wacky Columnbuilder |
+| 39 | 20 | Andrew Bowen |
+| 40 | 19 | Lush Linkgrid |
+| 41 | 18 | Shelly Babie |
 | 42 | 18 | Reginald Harvey |
-| 43 | 17 | Nikki Speer |
-| 44 | 17 | Shelly |
-| 45 | 16 | Mackenzie Forrester |
-| 46 | 16 | Emilie Creswell |
-| 47 | 16 | Hyper Pop |
-| 48 | 16 | Rigoberto Sanchez Jr. |
-| 49 | 16 | Daring Rotator |
-| 50 | 15 | TreeWee |
-| 51 | 14 | Sandra McNab |
-| 52 | 14 | Rhonda Winn Hohman |
-| 53 | 14 | Daniel Moore |
+| 43 | 18 | Kell Cinn |
+| 44 | 18 | Nerdy Clearer |
+| 45 | 17 | Shelly |
+| 46 | 17 | Nikki Speer |
+| 47 | 16 | Rigoberto Sanchez Jr. |
+| 48 | 16 | Mackenzie Forrester |
+| 49 | 16 | Emilie Creswell |
+| 50 | 16 | Hyper Pop |
+| 51 | 16 | Daring Rotator |
+| 52 | 15 | TreeWee |
+| 53 | 14 | Sandra McNab |
 | 54 | 14 | Kitty tet |
-| 55 | 12 | Abigail Stratton |
-| 56 | 12 | Jason Briggs |
-| 57 | 9 | candypants |
-| 58 | 9 | Jason Pence |
-| 59 | 9 | Lauressia MsLovaba Neil |
-| 60 | 8 | BuzyBee |
-| 61 | 8 | Dreamy Linkbuilder |
-| 62 | 7 | carole57 |
-| 63 | 7 | Melissa Williams Blevins |
-| 64 | 7 | Kari Thompson Rock |
-| 65 | 7 | Mzjudged Niteowl |
-| 66 | 6 | Shiny Framezone |
-| 67 | 6 | Diana |
+| 55 | 14 | Daniel Moore |
+| 56 | 14 | Rhonda Winn Hohman |
+| 57 | 12 | Abigail Stratton |
+| 58 | 12 | Jason Briggs |
+| 59 | 9 | candypants |
+| 60 | 9 | Lauressia MsLovaba Neil |
+| 61 | 9 | Jason Pence |
+| 62 | 8 | Dreamy Linkbuilder |
+| 63 | 8 | BuzyBee |
+| 64 | 7 | Melissa Williams Blevins |
+| 65 | 7 | carole57 |
+| 66 | 7 | Mzjudged Niteowl |
+| 67 | 7 | Kari Thompson Rock |
 | 68 | 6 | TJ Hire |
 | 69 | 6 | Plucky Patternfit |
 | 70 | 6 | Whitney Mudge |
-| 71 | 5 | Cathy Bitters |
-| 72 | 5 | Anita Johnson |
-| 73 | 5 | Tiffany Riccio |
-| 74 | 5 | Somthin |
+| 71 | 6 | Shiny Framezone |
+| 72 | 6 | Diana |
+| 73 | 5 | Cathy Bitters |
+| 74 | 5 | Anita Johnson |
 | 75 | 5 | Kevin Stultz |
+| 76 | 5 | Tiffany Riccio |
+| 77 | 5 | Somthin |
 
 ---
 *Standings created by tournaments datasource generation tool*
