@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 20:34:13 UTC
+# Standings for team1 as of 2026-03-13 20:34:34 UTC
 
 **Total Participants:** 694
 
@@ -66,46 +66,46 @@
 | 58 | 137 | Bigmoco |
 | 59 | 136 | Sunny Swiper |
 | 60 | 127 | Kat Mfm Kaul |
-| 61 | 124 | Mighty Patternbuilder |
-| 62 | 124 | Frilly Climber |
-| 63 | 121 | Tanya Carpenter-Reynolds |
-| 64 | 117 | Danielle Kollias |
-| 65 | 115 | Giddy Brickclear |
-| 66 | 115 | Silly Ziggy |
-| 67 | 115 | Michael Powers |
-| 68 | 114 | TotoCherue |
-| 69 | 113 | PhatWI41 |
-| 70 | 112 | Happy Shatterfit |
-| 71 | 111 | Krystal Mccoy |
-| 72 | 110 | Katherine Walton |
-| 73 | 110 | Philippines |
-| 74 | 110 | Kris Koepke |
-| 75 | 108 | jenna |
-| 76 | 106 | Albert Josef Toves Means Jr. |
-| 77 | 100 | Brandy Ridgeway |
-| 78 | 100 | Bennett Hunter |
-| 79 | 100 | Ann Brock LaPorte |
+| 61 | 127 | Armoni |
+| 62 | 124 | Mighty Patternbuilder |
+| 63 | 124 | Frilly Climber |
+| 64 | 121 | Tanya Carpenter-Reynolds |
+| 65 | 117 | Danielle Kollias |
+| 66 | 115 | Michael Powers |
+| 67 | 115 | Giddy Brickclear |
+| 68 | 115 | Silly Ziggy |
+| 69 | 114 | TotoCherue |
+| 70 | 113 | PhatWI41 |
+| 71 | 112 | Happy Shatterfit |
+| 72 | 111 | Krystal Mccoy |
+| 73 | 110 | Kris Koepke |
+| 74 | 110 | Philippines |
+| 75 | 110 | Katherine Walton |
+| 76 | 108 | jenna |
+| 77 | 106 | Albert Josef Toves Means Jr. |
+| 78 | 101 | Foulplay176 |
+| 79 | 100 | Brandy Ridgeway |
 | 80 | 100 | Cassandra Latimore |
-| 81 | 99 | Christopher James Cienfuegos |
-| 82 | 99 | Hhholmesjr |
-| 83 | 97 | Foulplay176 |
-| 84 | 96 | Victoria Davis Torie |
-| 85 | 94 | Hasty Lift |
-| 86 | 91 | Walter Beltran |
-| 87 | 90 | Chill Shiftspin |
-| 88 | 89 | Marie Helman |
-| 89 | 88 | Tameka Brown |
-| 90 | 87 | Lynn Perkins |
-| 91 | 87 | Pheezy |
-| 92 | 84 | Witty Wipegrid |
-| 93 | 83 | Armoni |
+| 81 | 100 | Bennett Hunter |
+| 82 | 100 | Ann Brock LaPorte |
+| 83 | 99 | Christopher James Cienfuegos |
+| 84 | 99 | Hhholmesjr |
+| 85 | 96 | Victoria Davis Torie |
+| 86 | 94 | Hasty Lift |
+| 87 | 91 | Walter Beltran |
+| 88 | 90 | Chill Shiftspin |
+| 89 | 89 | Marie Helman |
+| 90 | 88 | Tameka Brown |
+| 91 | 87 | Lynn Perkins |
+| 92 | 87 | Pheezy |
+| 93 | 84 | Witty Wipegrid |
 | 94 | 82 | Mufi25 |
-| 95 | 81 | Kristen Hall |
-| 96 | 81 | April McGuffie |
-| 97 | 80 | Tami Luce Martin |
-| 98 | 80 | Tina Blessed Cage |
-| 99 | 80 | JustMeNonna |
-| 100 | 80 | Diane |
+| 95 | 81 | April McGuffie |
+| 96 | 81 | Kristen Hall |
+| 97 | 80 | Diane |
+| 98 | 80 | JustMeNonna |
+| 99 | 80 | Tina Blessed Cage |
+| 100 | 80 | Tami Luce Martin |
 | 101 | 79 | Poppy Builderline |
 | 102 | 79 | Lisa Marie Sansom |
 | 103 | 78 | NunYa |
@@ -115,8 +115,8 @@
 | 107 | 76 | Tig |
 | 108 | 76 | Renee Weedling |
 | 109 | 76 | Brittney Groler |
-| 110 | 74 | Karmyst |
-| 111 | 74 | Kellia S Johnson |
+| 110 | 74 | Kellia S Johnson |
+| 111 | 74 | Karmyst |
 | 112 | 72 | QueenBee |
 | 113 | 72 | Sam Steig |
 | 114 | 70 | Margo Fenton |
@@ -686,20 +686,20 @@
 | 678 | 5 | Giggly Rotate |
 | 679 | 5 | Amber Wolfe |
 | 680 | 5 | Speedy Liney |
-| 681 | 5 | Sarajo Clauson |
-| 682 | 5 | Lulu C Harp |
-| 683 | 5 | Jessi Godsey |
-| 684 | 5 | Ras David |
-| 685 | 5 | Jennifer Brown |
-| 686 | 5 | Tony Lighthizer |
-| 687 | 5 | Slinky Stacky |
+| 681 | 5 | Slinky Stacky |
+| 682 | 5 | Terry Dill |
+| 683 | 5 | Lulu C Harp |
+| 684 | 5 | Jessi Godsey |
+| 685 | 5 | Ras David |
+| 686 | 5 | Jennifer Brown |
+| 687 | 5 | Tony Lighthizer |
 | 688 | 5 | Victoria Montenegro Martinez |
 | 689 | 5 | MissySai TooRude Ladson |
 | 690 | 5 | Dizzy Matchzone |
 | 691 | 5 | Larry McRae |
 | 692 | 5 | Ronda Helton Prater |
 | 693 | 5 | Fancy Tilefall |
-| 694 | 5 | Terry Dill |
+| 694 | 5 | Sarajo Clauson |
 
 ---
 *Standings created by tournaments datasource generation tool*
