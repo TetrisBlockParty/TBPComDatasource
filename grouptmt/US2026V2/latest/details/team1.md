@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 14:34:36 UTC
+# Standings for team1 as of 2026-03-13 14:35:12 UTC
 
 **Total Participants:** 230
 
@@ -202,39 +202,39 @@
 | 194 | 7 | MrsW |
 | 195 | 7 | key |
 | 196 | 6 | MamaPhee |
-| 197 | 6 | Antoinette Rhinesmith |
-| 198 | 6 | Amber Jackson |
-| 199 | 6 | Tjango |
-| 200 | 6 | Jody Jackson |
-| 201 | 6 | Slinky Setter |
-| 202 | 6 | Robert Coulter |
-| 203 | 6 | Debra Reynolds |
-| 204 | 6 | Randy Clevenger |
-| 205 | 6 | Monica Blu |
-| 206 | 6 | Zuul Gatekeeper |
-| 207 | 6 | Dizzy Pattern |
-| 208 | 6 | Poppy Lift |
-| 209 | 6 | Tyrell Harvin |
-| 210 | 6 | cac |
-| 211 | 6 | Kristen Rhoads |
-| 212 | 6 | Jack Mattiace |
+| 197 | 6 | Tyrell Harvin |
+| 198 | 6 | Antoinette Rhinesmith |
+| 199 | 6 | Amber Jackson |
+| 200 | 6 | Tjango |
+| 201 | 6 | Jody Jackson |
+| 202 | 6 | Slinky Setter |
+| 203 | 6 | Robert Coulter |
+| 204 | 6 | Debra Reynolds |
+| 205 | 6 | Randy Clevenger |
+| 206 | 6 | Monica Blu |
+| 207 | 6 | Zuul Gatekeeper |
+| 208 | 6 | Dizzy Pattern |
+| 209 | 6 | Liz M Durfee |
+| 210 | 6 | Poppy Lift |
+| 211 | 6 | ajx |
+| 212 | 6 | Breezy Ivy |
 | 213 | 6 | Freddie Alicea |
-| 214 | 6 | Breezy Ivy |
-| 215 | 6 | Liz M Durfee |
-| 216 | 6 | ajx |
-| 217 | 5 | Xande NO Lie Williams |
-| 218 | 5 | Terry Dill |
-| 219 | 5 | Samantha Bugg Stitcher |
-| 220 | 5 | Flashy Clicker |
-| 221 | 5 | Armin Muhamed |
-| 222 | 5 | Jennifer Brown |
-| 223 | 5 | Sarajo Clauson |
-| 224 | 5 | Victoria Montenegro Martinez |
-| 225 | 5 | Ras David |
-| 226 | 5 | Perky Clusterbuilder |
-| 227 | 5 | MissySai TooRude Ladson |
-| 228 | 5 | Slinky Dashgrid |
-| 229 | 5 | Cynthia Herrmann Egland |
+| 214 | 6 | Jack Mattiace |
+| 215 | 6 | cac |
+| 216 | 6 | Kristen Rhoads |
+| 217 | 5 | Sarajo Clauson |
+| 218 | 5 | Samantha Bugg Stitcher |
+| 219 | 5 | Flashy Clicker |
+| 220 | 5 | Armin Muhamed |
+| 221 | 5 | Jennifer Brown |
+| 222 | 5 | Victoria Montenegro Martinez |
+| 223 | 5 | Perky Clusterbuilder |
+| 224 | 5 | Ras David |
+| 225 | 5 | MissySai TooRude Ladson |
+| 226 | 5 | Cynthia Herrmann Egland |
+| 227 | 5 | Slinky Dashgrid |
+| 228 | 5 | Terry Dill |
+| 229 | 5 | Xande NO Lie Williams |
 | 230 | 5 | freakyjoe |
 
 ---
