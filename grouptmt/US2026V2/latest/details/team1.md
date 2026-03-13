@@ -1,12 +1,12 @@
-# Standings for team1 as of 2026-03-13 12:45:10 UTC
+# Standings for team1 as of 2026-03-13 12:46:10 UTC
 
-**Total Participants:** 92
+**Total Participants:** 94
 
 ## Participant Scores
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 1200 | Donna Wilkinson |
+| 1 | 1400 | Donna Wilkinson |
 | 2 | 412 | Amy Dial Brown |
 | 3 | 300 | Hyper |
 | 4 | 201 | Tashanna Harvey |
@@ -15,7 +15,7 @@
 | 7 | 123 | Megan Klinkner |
 | 8 | 110 | Katherine Walton |
 | 9 | 81 | Pheezy |
-| 10 | 64 | Karmyst |
+| 10 | 74 | Karmyst |
 | 11 | 57 | Lori Dutton |
 | 12 | 54 | Giddy Cascade |
 | 13 | 53 | Tanya Carpenter-Reynolds |
@@ -26,78 +26,80 @@
 | 18 | 40 | Christi Burley |
 | 19 | 39 | mbij21 |
 | 20 | 39 | Amy Roche |
-| 21 | 35 | NunYa |
-| 22 | 35 | Edna Clinton |
+| 21 | 35 | Edna Clinton |
+| 22 | 35 | NunYa |
 | 23 | 34 | Itn |
 | 24 | 33 | Tammy Straka |
 | 25 | 32 | Goofy Linkblock |
 | 26 | 32 | Chummy Rollzone |
-| 27 | 30 | Chris Kelly |
-| 28 | 30 | kito23 |
+| 27 | 30 | kito23 |
+| 28 | 30 | Chris Kelly |
 | 29 | 30 | raffyG |
-| 30 | 28 | Trishatta YoungDiva Watkins |
-| 31 | 27 | Panda Rog |
-| 32 | 27 | Bean |
-| 33 | 25 | Tyle Armstead |
-| 34 | 25 | Maxwell Hall |
-| 35 | 24 | Poppy Builderline |
-| 36 | 22 | Giddy Swiper |
-| 37 | 21 | Joyce Harrell-chavis |
+| 30 | 29 | Joyce Harrell-chavis |
+| 31 | 28 | Maxwell Hall |
+| 32 | 28 | Trishatta YoungDiva Watkins |
+| 33 | 27 | Bean |
+| 34 | 27 | Panda Rog |
+| 35 | 25 | Tyle Armstead |
+| 36 | 24 | Poppy Builderline |
+| 37 | 22 | Giddy Swiper |
 | 38 | 20 | iceman |
-| 39 | 20 | Albert Josef Toves Means Jr. |
-| 40 | 20 | Andy Harris |
+| 39 | 20 | Andy Harris |
+| 40 | 20 | Albert Josef Toves Means Jr. |
 | 41 | 18 | Ryry |
-| 42 | 18 | Jacob Phillips |
-| 43 | 18 | Tig |
+| 42 | 18 | Tig |
+| 43 | 18 | Jacob Phillips |
 | 44 | 17 | Lee Sipelii |
 | 45 | 16 | Porkobello |
 | 46 | 16 | Anne Garcia |
 | 47 | 16 | Chilly Matchbuilder |
-| 48 | 15 | Nikki Robinson |
-| 49 | 15 | Ellen Maxwell Capstaff |
-| 50 | 14 | Amber Nicole |
-| 51 | 14 | Elyse YL |
+| 48 | 15 | Ellen Maxwell Capstaff |
+| 49 | 15 | Nikki Robinson |
+| 50 | 14 | Elyse YL |
+| 51 | 14 | Amber Nicole |
 | 52 | 14 | Ernest Jordan |
-| 53 | 12 | James Burda |
+| 53 | 13 | Natasha Velasquez Gabriel |
 | 54 | 12 | Cool Dasher |
-| 55 | 12 | Walter Beltran |
-| 56 | 12 | Big rick !!! |
-| 57 | 12 | Natasha Velasquez Gabriel |
-| 58 | 12 | Alexandria Ritch |
+| 55 | 12 | Big rick !!! |
+| 56 | 12 | James Burda |
+| 57 | 12 | Alexandria Ritch |
+| 58 | 12 | Walter Beltran |
 | 59 | 11 | Boldy Clicky |
 | 60 | 10 | Hyper Drop |
-| 61 | 10 | Shawna Days |
-| 62 | 10 | Bubbly Patterner |
-| 63 | 10 | Hecate Trimora |
-| 64 | 10 | Giles McNair |
-| 65 | 9 | bricked |
+| 61 | 10 | Giles McNair |
+| 62 | 10 | Hecate Trimora |
+| 63 | 10 | Shawna Days |
+| 64 | 10 | Bubbly Patterner |
+| 65 | 9 | Marie Helman |
 | 66 | 9 | Quirky Dashy |
-| 67 | 9 | Jennifer Bunker |
-| 68 | 9 | Marie Helman |
-| 69 | 9 | Bob Sitts |
-| 70 | 8 | Felise Bee |
-| 71 | 8 | Crafty Clearfit |
-| 72 | 8 | Elizabeth Hughes |
-| 73 | 8 | al |
+| 67 | 9 | Bob Sitts |
+| 68 | 9 | Jennifer Bunker |
+| 69 | 9 | bricked |
+| 70 | 8 | al |
+| 71 | 8 | Elizabeth Hughes |
+| 72 | 8 | Felise Bee |
+| 73 | 8 | Crafty Clearfit |
 | 74 | 8 | Epic Cascadeclear |
 | 75 | 7 | Herm Junior |
-| 76 | 7 | Michael Felker |
-| 77 | 7 | MrsW |
-| 78 | 7 | Jessica Marie Long |
-| 79 | 6 | Sunny Swiper |
-| 80 | 6 | Randy Clevenger |
-| 81 | 6 | Dizzy Pattern |
-| 82 | 6 | Jody Jackson |
-| 83 | 6 | Tjango |
-| 84 | 6 | Liz M Durfee |
-| 85 | 6 | Poppy Lift |
-| 86 | 6 | Rebekah LeiAnn Bonsell |
-| 87 | 5 | freakyjoe |
-| 88 | 5 | Samantha Bugg Stitcher |
-| 89 | 5 | Armin Muhamed |
-| 90 | 5 | Tim Raper |
-| 91 | 5 | Flashy Clicker |
-| 92 | 5 | Zach Thompson |
+| 76 | 7 | Jessica Marie Long |
+| 77 | 7 | Michael Felker |
+| 78 | 7 | MrsW |
+| 79 | 6 | Liz M Durfee |
+| 80 | 6 | Poppy Lift |
+| 81 | 6 | Kat Kath |
+| 82 | 6 | Zuul Gatekeeper |
+| 83 | 6 | Dizzy Pattern |
+| 84 | 6 | Rebekah LeiAnn Bonsell |
+| 85 | 6 | Tjango |
+| 86 | 6 | Jody Jackson |
+| 87 | 6 | Randy Clevenger |
+| 88 | 6 | Sunny Swiper |
+| 89 | 5 | freakyjoe |
+| 90 | 5 | Zach Thompson |
+| 91 | 5 | Tim Raper |
+| 92 | 5 | Samantha Bugg Stitcher |
+| 93 | 5 | Armin Muhamed |
+| 94 | 5 | Flashy Clicker |
 
 ---
 *Standings created by tournaments datasource generation tool*
