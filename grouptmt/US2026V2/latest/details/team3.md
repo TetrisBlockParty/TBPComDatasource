@@ -1,6 +1,6 @@
-# Standings for team3 as of 2026-03-13 12:26:11 UTC
+# Standings for team3 as of 2026-03-13 12:27:11 UTC
 
-**Total Participants:** 72
+**Total Participants:** 78
 
 ## Participant Scores
 
@@ -16,68 +16,74 @@
 | 8 | 58 | Shawn Sarah |
 | 9 | 50 | Jason Grasso |
 | 10 | 45 | LaLa Anderson |
-| 11 | 44 | TamiJo |
-| 12 | 42 | Ashley Ingram |
+| 11 | 45 | Ashley Ingram |
+| 12 | 44 | TamiJo |
 | 13 | 40 | Dizzy Gridzone |
 | 14 | 39 | COMFORT |
 | 15 | 38 | Spunky Holder |
-| 16 | 34 | lilseasonz |
-| 17 | 32 | Lillian Mehler |
-| 18 | 30 | Ty Quarles |
-| 19 | 30 | Kristine Roller |
-| 20 | 29 | Beewee |
-| 21 | 28 | Boo-Boo |
-| 22 | 26 | Cranky Tiltbuilder |
+| 16 | 36 | Chet Manley |
+| 17 | 34 | lilseasonz |
+| 18 | 32 | Lillian Mehler |
+| 19 | 30 | Ty Quarles |
+| 20 | 30 | Kristine Roller |
+| 21 | 29 | Beewee |
+| 22 | 28 | Boo-Boo |
 | 23 | 26 | Laurie LeCroy |
-| 24 | 24 | Tievette Crum |
-| 25 | 22 | Serena Catherine Coladonato |
-| 26 | 21 | Tiffany Gamble |
+| 24 | 26 | Cranky Tiltbuilder |
+| 25 | 24 | Tievette Crum |
+| 26 | 22 | Serena Catherine Coladonato |
 | 27 | 21 | Jessica Bechler |
-| 28 | 20 | Aletha Williams |
-| 29 | 20 | Tessina Dewey-Mancino |
+| 28 | 21 | Tiffany Gamble |
+| 29 | 20 | Aletha Williams |
 | 30 | 20 | Kate Farok |
-| 31 | 18 | Amy Perry |
-| 32 | 17 | Tyleah Longmire |
-| 33 | 17 | Zippy Cascadeclear |
-| 34 | 16 | Plucky Gridroll |
-| 35 | 16 | Heather M Purcell |
-| 36 | 15 | DefaultUser |
-| 37 | 15 | Saucy Column |
-| 38 | 15 | Emily B Johnson |
-| 39 | 14 | Sarah Berger |
-| 40 | 14 | Odysseus |
-| 41 | 13 | FATHEAD |
-| 42 | 13 | Desiree Watson |
-| 43 | 12 | Juliet Weathers |
-| 44 | 11 | Terry Hickman Fort |
-| 45 | 10 | Harlequinn N Glover |
-| 46 | 10 | Kimberly Walker |
-| 47 | 10 | Jumpy Pivot |
+| 31 | 20 | Chirpy Matchbuilder |
+| 32 | 20 | Tessina Dewey-Mancino |
+| 33 | 18 | Amy Perry |
+| 34 | 17 | Zippy Cascadeclear |
+| 35 | 17 | Tyleah Longmire |
+| 36 | 16 | Plucky Gridroll |
+| 37 | 16 | Heather M Purcell |
+| 38 | 15 | Sean Michaels |
+| 39 | 15 | DefaultUser |
+| 40 | 15 | Emily B Johnson |
+| 41 | 15 | Saucy Column |
+| 42 | 14 | Sarah Berger |
+| 43 | 14 | Odysseus |
+| 44 | 13 | Desiree Watson |
+| 45 | 13 | FATHEAD |
+| 46 | 12 | Juliet Weathers |
+| 47 | 11 | Terry Hickman Fort |
 | 48 | 10 | Candi |
-| 49 | 9 | Ron Laliberte |
-| 50 | 9 | Miranda Krentz |
-| 51 | 9 | Krista Blair |
-| 52 | 8 | reom |
-| 53 | 8 | Katherine Rivera |
-| 54 | 8 | Mikes Girl |
-| 55 | 8 | Marsha Starr |
+| 49 | 10 | Kimberly Walker |
+| 50 | 10 | Sonia Flammond |
+| 51 | 10 | Jumpy Pivot |
+| 52 | 10 | Harlequinn N Glover |
+| 53 | 9 | Miranda Krentz |
+| 54 | 9 | Ron Laliberte |
+| 55 | 9 | Krista Blair |
 | 56 | 8 | Kens Guth |
-| 57 | 7 | Bougierock |
-| 58 | 6 | Dee Franklin |
-| 59 | 6 | Adrienne Sprayberry |
-| 60 | 6 | Sir-Franchise Drake |
-| 61 | 6 | Lazy Riserfit |
-| 62 | 5 | Mary |
-| 63 | 5 | Peachy Fall |
-| 64 | 5 | Vanesa Colon |
-| 65 | 5 | Dreamy Drop |
-| 66 | 5 | Yup |
-| 67 | 5 | Paula Morrison |
-| 68 | 5 | Spencer Nikki |
-| 69 | 5 | Michelle Andrea |
-| 70 | 5 | Sean Michaels |
+| 57 | 8 | Katherine Rivera |
+| 58 | 8 | Marsha Starr |
+| 59 | 8 | Mikes Girl |
+| 60 | 8 | reom |
+| 61 | 7 | Bougierock |
+| 62 | 7 | Robby Roberts |
+| 63 | 6 | QUEENIE K |
+| 64 | 6 | Hope Lancaster Landry |
+| 65 | 6 | Adrienne Sprayberry |
+| 66 | 6 | Lazy Riserfit |
+| 67 | 6 | Sir-Franchise Drake |
+| 68 | 6 | Dee Franklin |
+| 69 | 5 | Vanesa Colon |
+| 70 | 5 | Yup |
 | 71 | 5 | Tam |
 | 72 | 5 | lady |
+| 73 | 5 | Michelle Andrea |
+| 74 | 5 | Spencer Nikki |
+| 75 | 5 | Paula Morrison |
+| 76 | 5 | Mary |
+| 77 | 5 | Dreamy Drop |
+| 78 | 5 | Peachy Fall |
 
 ---
 *Standings created by tournaments datasource generation tool*
