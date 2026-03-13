@@ -1,70 +1,73 @@
-# Standings for team3 as of 2026-03-13 12:20:10 UTC
+# Standings for team3 as of 2026-03-13 12:21:12 UTC
 
-**Total Participants:** 59
+**Total Participants:** 62
 
 ## Participant Scores
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 171 | Alisha |
+| 1 | 190 | Alisha |
 | 2 | 162 | Britney Lynch Caylor |
 | 3 | 105 | TriKaraTops |
 | 4 | 80 | Ron Gonzalez |
 | 5 | 77 | Stephanie Rice |
-| 6 | 52 | Beth Naehrbass |
-| 7 | 45 | LaLa Anderson |
-| 8 | 44 | TamiJo |
-| 9 | 40 | Kari Smith |
-| 10 | 38 | Spunky Holder |
+| 6 | 72 | Beth Naehrbass |
+| 7 | 50 | Jason Grasso |
+| 8 | 45 | LaLa Anderson |
+| 9 | 44 | TamiJo |
+| 10 | 40 | Kari Smith |
 | 11 | 38 | Shawn Sarah |
-| 12 | 36 | COMFORT |
-| 13 | 30 | Ty Quarles |
+| 12 | 38 | Spunky Holder |
+| 13 | 36 | COMFORT |
 | 14 | 30 | Kristine Roller |
-| 15 | 29 | Beewee |
-| 16 | 24 | Ashley Ingram |
-| 17 | 22 | Serena Catherine Coladonato |
-| 18 | 21 | Laurie LeCroy |
-| 19 | 21 | Tiffany Gamble |
-| 20 | 20 | Aletha Williams |
-| 21 | 20 | Dizzy Gridzone |
-| 22 | 19 | Tievette Crum |
-| 23 | 19 | lilseasonz |
-| 24 | 18 | Amy Perry |
-| 25 | 17 | Zippy Cascadeclear |
-| 26 | 16 | Heather M Purcell |
-| 27 | 16 | Plucky Gridroll |
-| 28 | 15 | DefaultUser |
-| 29 | 15 | Tyleah Longmire |
+| 15 | 30 | Ty Quarles |
+| 16 | 29 | Beewee |
+| 17 | 24 | Ashley Ingram |
+| 18 | 22 | Serena Catherine Coladonato |
+| 19 | 21 | Laurie LeCroy |
+| 20 | 21 | Tiffany Gamble |
+| 21 | 20 | Cranky Tiltbuilder |
+| 22 | 20 | Aletha Williams |
+| 23 | 20 | Dizzy Gridzone |
+| 24 | 19 | lilseasonz |
+| 25 | 19 | Tievette Crum |
+| 26 | 18 | Amy Perry |
+| 27 | 17 | Zippy Cascadeclear |
+| 28 | 16 | Heather M Purcell |
+| 29 | 16 | Plucky Gridroll |
 | 30 | 15 | Emily B Johnson |
-| 31 | 14 | Sarah Berger |
-| 32 | 14 | Odysseus |
-| 33 | 13 | Boo-Boo |
-| 34 | 12 | Juliet Weathers |
-| 35 | 11 | FATHEAD |
-| 36 | 10 | Desiree Watson |
-| 37 | 10 | Candi |
-| 38 | 10 | Jason Grasso |
+| 31 | 15 | Tyleah Longmire |
+| 32 | 15 | DefaultUser |
+| 33 | 14 | Odysseus |
+| 34 | 14 | Sarah Berger |
+| 35 | 13 | FATHEAD |
+| 36 | 13 | Boo-Boo |
+| 37 | 12 | Juliet Weathers |
+| 38 | 11 | Desiree Watson |
 | 39 | 10 | Tessina Dewey-Mancino |
-| 40 | 10 | Cranky Tiltbuilder |
-| 41 | 10 | Jumpy Pivot |
+| 40 | 10 | Jumpy Pivot |
+| 41 | 10 | Candi |
 | 42 | 9 | Ron Laliberte |
-| 43 | 8 | reom |
+| 43 | 8 | Kens Guth |
 | 44 | 8 | Katherine Rivera |
-| 45 | 6 | Dee Franklin |
-| 46 | 6 | Marsha Starr |
-| 47 | 6 | Saucy Column |
-| 48 | 6 | Lazy Riserfit |
-| 49 | 6 | Sir-Franchise Drake |
-| 50 | 6 | Adrienne Sprayberry |
-| 51 | 5 | Paula Morrison |
-| 52 | 5 | Peachy Fall |
-| 53 | 5 | Spencer Nikki |
+| 45 | 8 | Marsha Starr |
+| 46 | 8 | Harlequinn N Glover |
+| 47 | 8 | reom |
+| 48 | 6 | Sir-Franchise Drake |
+| 49 | 6 | Dee Franklin |
+| 50 | 6 | Lazy Riserfit |
+| 51 | 6 | Adrienne Sprayberry |
+| 52 | 6 | Saucy Column |
+| 53 | 5 | Terry Hickman Fort |
 | 54 | 5 | Dreamy Drop |
-| 55 | 5 | lady |
-| 56 | 5 | Terry Hickman Fort |
-| 57 | 5 | Tam |
-| 58 | 5 | Mary |
-| 59 | 5 | Michelle Andrea |
+| 55 | 5 | Paula Morrison |
+| 56 | 5 | Spencer Nikki |
+| 57 | 5 | Michelle Andrea |
+| 58 | 5 | Sean Michaels |
+| 59 | 5 | Tam |
+| 60 | 5 | Mary |
+| 61 | 5 | Peachy Fall |
+| 62 | 5 | lady |
 
 ---
 *Standings created by tournaments datasource generation tool*
