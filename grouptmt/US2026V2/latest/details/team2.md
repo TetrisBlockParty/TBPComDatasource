@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-03-13 13:09:12 UTC
+# Standings for team2 as of 2026-03-13 13:10:11 UTC
 
-**Total Participants:** 98
+**Total Participants:** 102
 
 ## Participant Scores
 
@@ -12,11 +12,11 @@
 | 4 | 223 | Robert Martinez |
 | 5 | 199 | Emilie Dodge |
 | 6 | 189 | Justablock |
-| 7 | 103 | Brittany Backus |
-| 8 | 100 | Andrey Sharov |
-| 9 | 85 | Nick Jensen |
-| 10 | 80 | Becky McClure |
-| 11 | 80 | TETRIS |
+| 7 | 177 | Nick Jensen |
+| 8 | 103 | Brittany Backus |
+| 9 | 100 | Andrey Sharov |
+| 10 | 80 | TETRIS |
+| 11 | 80 | Becky McClure |
 | 12 | 70 | Caitlyn Brown |
 | 13 | 61 | Rhonda Winn Hohman |
 | 14 | 60 | Jo Frohwein |
@@ -28,19 +28,19 @@
 | 20 | 47 | Chloe S |
 | 21 | 46 | Mjhays |
 | 22 | 43 | Chyrisse Norton |
-| 23 | 40 | Veronica Martin Trinkle |
-| 24 | 40 | Arisvet Garcia |
-| 25 | 40 | Paula Marcus Delsigne |
+| 23 | 40 | Arisvet Garcia |
+| 24 | 40 | Paula Marcus Delsigne |
+| 25 | 40 | Veronica Martin Trinkle |
 | 26 | 38 | Rigoberto Sanchez Jr. |
 | 27 | 37 | Amy Villalpando |
 | 28 | 36 | Libby |
-| 29 | 35 | Bow Babe |
-| 30 | 35 | Chipper Stacky |
-| 31 | 35 | Snippy Basepiece |
-| 32 | 30 | Fae-Bulous |
-| 33 | 30 | Brooke Sunderhaus |
-| 34 | 30 | Julia Freeman |
-| 35 | 30 | Beth Smith |
+| 29 | 35 | Chipper Stacky |
+| 30 | 35 | Snippy Basepiece |
+| 31 | 35 | Bow Babe |
+| 32 | 30 | Julia Freeman |
+| 33 | 30 | Beth Smith |
+| 34 | 30 | Brooke Sunderhaus |
+| 35 | 30 | Fae-Bulous |
 | 36 | 29 | Chassy Horton |
 | 37 | 28 | Lindsey Anderson |
 | 38 | 28 | Tori Bowers |
@@ -56,54 +56,58 @@
 | 48 | 20 | Andrew Bowen |
 | 49 | 19 | Lush Linkgrid |
 | 50 | 18 | Shelly Babie |
-| 51 | 18 | Kell Cinn |
-| 52 | 18 | Reginald Harvey |
-| 53 | 17 | Nikki Speer |
-| 54 | 17 | Terry Partain |
+| 51 | 18 | Reginald Harvey |
+| 52 | 18 | Kell Cinn |
+| 53 | 17 | Terry Partain |
+| 54 | 17 | Nikki Speer |
 | 55 | 17 | Shelly |
 | 56 | 16 | Hyper Pop |
 | 57 | 16 | Mackenzie Forrester |
 | 58 | 16 | Daring Rotator |
 | 59 | 16 | Emilie Creswell |
-| 60 | 15 | Cathy Bitters |
+| 60 | 15 | TreeWee |
 | 61 | 15 | Angel Hunnewell |
-| 62 | 15 | TreeWee |
-| 63 | 14 | Marie Elena |
+| 62 | 15 | Cathy Bitters |
+| 63 | 14 | Sandra McNab |
 | 64 | 14 | Kitty tet |
 | 65 | 14 | Daniel Moore |
-| 66 | 14 | Sandra McNab |
-| 67 | 12 | Diana |
-| 68 | 12 | Abigail Stratton |
-| 69 | 12 | Jason Briggs |
-| 70 | 12 | Emily Wooden |
+| 66 | 14 | Marie Elena |
+| 67 | 12 | Abigail Stratton |
+| 68 | 12 | Jason Briggs |
+| 69 | 12 | Emily Wooden |
+| 70 | 12 | Diana |
 | 71 | 11 | Cheeky Grabber |
 | 72 | 10 | Scott Smith |
 | 73 | 10 | Haley Bell |
-| 74 | 9 | Lauressia MsLovaba Neil |
+| 74 | 9 | Jason Pence |
 | 75 | 9 | candypants |
-| 76 | 9 | Danielle Thompkins |
-| 77 | 9 | Jason Pence |
+| 76 | 9 | Lauressia MsLovaba Neil |
+| 77 | 9 | Danielle Thompkins |
 | 78 | 8 | Whitney Mudge |
-| 79 | 8 | BuzyBee |
-| 80 | 8 | TJ Hire |
-| 81 | 8 | Dreamy Linkbuilder |
+| 79 | 8 | Dreamy Linkbuilder |
+| 80 | 8 | BuzyBee |
+| 81 | 8 | TJ Hire |
 | 82 | 7 | Melissa Williams Blevins |
 | 83 | 7 | Hyper Snap |
-| 84 | 7 | Tiff Vs Tiffany |
-| 85 | 7 | Kari Thompson Rock |
-| 86 | 7 | Mzjudged Niteowl |
-| 87 | 7 | carole57 |
-| 88 | 6 | Shiny Framezone |
-| 89 | 6 | Dapper Gridclear |
-| 90 | 6 | Kristin Smith |
-| 91 | 6 | Plucky Patternfit |
-| 92 | 5 | Jesse Olive |
-| 93 | 5 | Somthin |
-| 94 | 5 | Bouncy Swiper |
-| 95 | 5 | Tiffany Riccio |
-| 96 | 5 | Anita Johnson |
-| 97 | 5 | Kevin Stultz |
-| 98 | 5 | Qing DG |
+| 84 | 7 | Kari Thompson Rock |
+| 85 | 7 | carole57 |
+| 86 | 7 | Tiff Vs Tiffany |
+| 87 | 7 | Mzjudged Niteowl |
+| 88 | 6 | Plucky Patternfit |
+| 89 | 6 | Jennifer Galadik |
+| 90 | 6 | Shiny Framezone |
+| 91 | 6 | Jasmine Kenney |
+| 92 | 6 | Kristin Smith |
+| 93 | 6 | Dapper Gridclear |
+| 94 | 5 | Somthin |
+| 95 | 5 | NDPeanut |
+| 96 | 5 | Kevin Stultz |
+| 97 | 5 | Bouncy Swiper |
+| 98 | 5 | Cool Snapzone |
+| 99 | 5 | Jesse Olive |
+| 100 | 5 | Qing DG |
+| 101 | 5 | Anita Johnson |
+| 102 | 5 | Tiffany Riccio |
 
 ---
 *Standings created by tournaments datasource generation tool*
