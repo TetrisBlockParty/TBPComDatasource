@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-13 17:18:13 UTC
+# Standings for team2 as of 2026-03-13 17:18:34 UTC
 
 **Total Participants:** 480
 
@@ -472,20 +472,20 @@
 | 464 | 5 | Kevin Leary |
 | 465 | 5 | Lucy Honer |
 | 466 | 5 | Hayley |
-| 467 | 5 | Confused Kitty |
-| 468 | 5 | Somthin |
-| 469 | 5 | Bridgett |
-| 470 | 5 | Cool Snapzone |
-| 471 | 5 | ANIM3KNIGHT |
-| 472 | 5 | ImmortelT |
-| 473 | 5 | Kita A Jackson |
-| 474 | 5 | Susan L. Brown |
-| 475 | 5 | Shannon Grisson |
-| 476 | 5 | Tiffany Riccio |
-| 477 | 5 | Anita Johnson |
-| 478 | 5 | Ashley Grace |
-| 479 | 5 | Crystal Ali |
-| 480 | 5 | Leslie Nicole |
+| 467 | 5 | Crystal Ali |
+| 468 | 5 | Leslie Nicole |
+| 469 | 5 | Somthin |
+| 470 | 5 | Ashley Grace |
+| 471 | 5 | Confused Kitty |
+| 472 | 5 | Tiffany Riccio |
+| 473 | 5 | Shannon Grisson |
+| 474 | 5 | Anita Johnson |
+| 475 | 5 | Susan L. Brown |
+| 476 | 5 | Kita A Jackson |
+| 477 | 5 | ImmortelT |
+| 478 | 5 | ANIM3KNIGHT |
+| 479 | 5 | Cool Snapzone |
+| 480 | 5 | Bridgett |
 
 ---
 *Standings created by tournaments datasource generation tool*

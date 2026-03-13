@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 17:18:13 UTC
+# Standings for team1 as of 2026-03-13 17:18:34 UTC
 
 **Total Participants:** 439
 
@@ -47,13 +47,13 @@
 | 39 | 106 | Albert Josef Toves Means Jr. |
 | 40 | 103 | Amber Zeller Rice |
 | 41 | 102 | Amee Schnarrs |
-| 42 | 100 | Brandy Ridgeway |
-| 43 | 100 | Ann Brock LaPorte |
-| 44 | 99 | Hhholmesjr |
-| 45 | 97 | Peachy Brick |
-| 46 | 93 | Krystal Mccoy |
-| 47 | 91 | Walter Beltran |
-| 48 | 90 | Sarah Stanonik |
+| 42 | 101 | Sarah Stanonik |
+| 43 | 100 | Brandy Ridgeway |
+| 44 | 100 | Ann Brock LaPorte |
+| 45 | 99 | Hhholmesjr |
+| 46 | 97 | Peachy Brick |
+| 47 | 93 | Krystal Mccoy |
+| 48 | 91 | Walter Beltran |
 | 49 | 85 | Dom The Great |
 | 50 | 85 | Cassandra Latimore |
 | 51 | 85 | Pheezy |
