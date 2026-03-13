@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 15:26:11 UTC
+# Standings for team1 as of 2026-03-13 15:26:33 UTC
 
 **Total Participants:** 296
 
@@ -41,37 +41,37 @@
 | 33 | 65 | Walter Beltran |
 | 34 | 65 | @n@luvmakin |
 | 35 | 60 | Bennett Hunter |
-| 36 | 60 | Alezandra Smith |
-| 37 | 57 | Lori Dutton |
-| 38 | 56 | Peachy Curvetile |
-| 39 | 55 | Tig |
-| 40 | 54 | Giddy Cascade |
-| 41 | 53 | Witty Clusterfit |
-| 42 | 53 | Donavon Krahn |
-| 43 | 53 | Zany Tower |
-| 44 | 53 | Tisha Cammack |
-| 45 | 51 | Yolanda Quinn |
-| 46 | 51 | S Gale Holton |
-| 47 | 51 | Joyce Harrell-chavis |
-| 48 | 51 | Elyse YL |
-| 49 | 50 | Gina Annese |
+| 36 | 60 | Amee Schnarrs |
+| 37 | 60 | Alezandra Smith |
+| 38 | 57 | Lori Dutton |
+| 39 | 56 | Peachy Curvetile |
+| 40 | 55 | Tig |
+| 41 | 54 | Giddy Cascade |
+| 42 | 53 | Witty Clusterfit |
+| 43 | 53 | Donavon Krahn |
+| 44 | 53 | Zany Tower |
+| 45 | 53 | Tisha Cammack |
+| 46 | 51 | Yolanda Quinn |
+| 47 | 51 | S Gale Holton |
+| 48 | 51 | Joyce Harrell-chavis |
+| 49 | 51 | Elyse YL |
 | 50 | 50 | CL Meyer |
 | 51 | 50 | Goofy Linkblock |
-| 52 | 50 | Aponk |
-| 53 | 50 | Andy Harris |
-| 54 | 49 | Itn |
-| 55 | 49 | Dale |
-| 56 | 48 | Amee Schnarrs |
+| 52 | 50 | Gina Annese |
+| 53 | 50 | Aponk |
+| 54 | 50 | Andy Harris |
+| 55 | 49 | Itn |
+| 56 | 49 | Dale |
 | 57 | 48 | Jena Overall Prescott |
 | 58 | 48 | Jennifer Traywick |
 | 59 | 47 | Tyle Armstead |
 | 60 | 46 | Matthew Laudico |
 | 61 | 45 | Marie Helman |
-| 62 | 44 | Michael Felker |
-| 63 | 44 | Bold Zonegrid |
+| 62 | 44 | Bold Zonegrid |
+| 63 | 44 | Michael Felker |
 | 64 | 44 | Neko Preston |
-| 65 | 44 | Kat Kath |
-| 66 | 44 | Happy Shatterfit |
+| 65 | 44 | Happy Shatterfit |
+| 66 | 44 | Kat Kath |
 | 67 | 42 | David Larter |
 | 68 | 41 | Lively Patternfall |
 | 69 | 41 | Rebekah LeiAnn Bonsell |
@@ -286,13 +286,13 @@
 | 278 | 6 | Jack Mattiace |
 | 279 | 6 | Freddie Alicea |
 | 280 | 5 | MissySai TooRude Ladson |
-| 281 | 5 | Angela Renea Lester |
-| 282 | 5 | Samantha Bugg Stitcher |
-| 283 | 5 | Flashy Clicker |
-| 284 | 5 | Slinky Stacky |
-| 285 | 5 | Ras David |
-| 286 | 5 | Cynthia Herrmann Egland |
-| 287 | 5 | Jennifer Brown |
+| 281 | 5 | Samantha Bugg Stitcher |
+| 282 | 5 | Flashy Clicker |
+| 283 | 5 | Slinky Stacky |
+| 284 | 5 | Ras David |
+| 285 | 5 | Cynthia Herrmann Egland |
+| 286 | 5 | Jennifer Brown |
+| 287 | 5 | Angela Renea Lester |
 | 288 | 5 | Carl Hampton |
 | 289 | 5 | Armin Muhamed |
 | 290 | 5 | Armoni |
