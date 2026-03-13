@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 15:16:34 UTC
+# Standings for team1 as of 2026-03-13 15:17:12 UTC
 
 **Total Participants:** 282
 
@@ -56,12 +56,12 @@
 | 48 | 50 | Aponk |
 | 49 | 49 | Dale |
 | 50 | 49 | Itn |
-| 51 | 48 | Jena Overall Prescott |
+| 51 | 48 | Peachy Curvetile |
 | 52 | 48 | Jennifer Traywick |
-| 53 | 47 | Tyle Armstead |
-| 54 | 46 | Peachy Curvetile |
-| 55 | 46 | Matthew Laudico |
-| 56 | 46 | Witty Clusterfit |
+| 53 | 48 | Jena Overall Prescott |
+| 54 | 47 | Tyle Armstead |
+| 55 | 47 | Witty Clusterfit |
+| 56 | 46 | Matthew Laudico |
 | 57 | 45 | Marie Helman |
 | 58 | 44 | Happy Shatterfit |
 | 59 | 44 | Michael Felker |
@@ -276,18 +276,18 @@
 | 268 | 5 | Slinky Dashgrid |
 | 269 | 5 | Samantha Bugg Stitcher |
 | 270 | 5 | Terry Dill |
-| 271 | 5 | Carl Hampton |
-| 272 | 5 | Cynthia Herrmann Egland |
-| 273 | 5 | Jennifer Brown |
-| 274 | 5 | Armin Muhamed |
-| 275 | 5 | Victoria Montenegro Martinez |
-| 276 | 5 | Slinky Stacky |
+| 271 | 5 | Cynthia Herrmann Egland |
+| 272 | 5 | Jennifer Brown |
+| 273 | 5 | Armin Muhamed |
+| 274 | 5 | Victoria Montenegro Martinez |
+| 275 | 5 | Slinky Stacky |
+| 276 | 5 | Perky Clusterbuilder |
 | 277 | 5 | MissySai TooRude Ladson |
 | 278 | 5 | Armoni |
 | 279 | 5 | Sarajo Clauson |
 | 280 | 5 | Angela Renea Lester |
 | 281 | 5 | freakyjoe |
-| 282 | 5 | Perky Clusterbuilder |
+| 282 | 5 | Carl Hampton |
 
 ---
 *Standings created by tournaments datasource generation tool*
