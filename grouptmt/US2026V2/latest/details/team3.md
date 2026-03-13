@@ -1,6 +1,6 @@
-# Standings for team3 as of 2026-03-13 12:35:11 UTC
+# Standings for team3 as of 2026-03-13 12:36:12 UTC
 
-**Total Participants:** 87
+**Total Participants:** 88
 
 ## Participant Scores
 
@@ -30,69 +30,70 @@
 | 22 | 35 | Sean Michaels |
 | 23 | 34 | Heather M Purcell |
 | 24 | 32 | Lillian Mehler |
-| 25 | 30 | Saucy Column |
-| 26 | 30 | Kristine Roller |
-| 27 | 30 | Ty Quarles |
-| 28 | 30 | Kate Farok |
+| 25 | 30 | Kristine Roller |
+| 26 | 30 | Ty Quarles |
+| 27 | 30 | Kate Farok |
+| 28 | 30 | Saucy Column |
 | 29 | 28 | Boo-Boo |
 | 30 | 26 | Laurie LeCroy |
 | 31 | 24 | Tievette Crum |
 | 32 | 24 | Miranda Krentz |
 | 33 | 22 | Serena Catherine Coladonato |
 | 34 | 21 | Tiffany Gamble |
-| 35 | 20 | Aletha Williams |
-| 36 | 20 | Hope Lancaster Landry |
-| 37 | 20 | Chirpy Matchbuilder |
+| 35 | 20 | Chirpy Matchbuilder |
+| 36 | 20 | Aletha Williams |
+| 37 | 20 | Hope Lancaster Landry |
 | 38 | 20 | Tessina Dewey-Mancino |
 | 39 | 18 | Marco Martinez |
 | 40 | 18 | Amy Perry |
 | 41 | 17 | Zippy Cascadeclear |
 | 42 | 17 | Terry Hickman Fort |
-| 43 | 17 | Tyleah Longmire |
-| 44 | 16 | Plucky Gridroll |
-| 45 | 15 | Emily B Johnson |
-| 46 | 15 | DefaultUser |
-| 47 | 14 | Sarah Berger |
-| 48 | 14 | Marsha Starr |
-| 49 | 14 | Odysseus |
-| 50 | 13 | FATHEAD |
-| 51 | 13 | Desiree Watson |
-| 52 | 12 | Cranky Brickzone |
-| 53 | 12 | Krista Blair |
-| 54 | 12 | Juliet Weathers |
-| 55 | 10 | Jumpy Pivot |
-| 56 | 10 | Swanky Blockzone |
-| 57 | 10 | Slinky Roll |
-| 58 | 10 | Harlequinn N Glover |
+| 43 | 17 | Marsha Starr |
+| 44 | 17 | Tyleah Longmire |
+| 45 | 16 | Plucky Gridroll |
+| 46 | 15 | QUEENIE K |
+| 47 | 15 | DefaultUser |
+| 48 | 15 | Emily B Johnson |
+| 49 | 15 | Cranky Brickzone |
+| 50 | 14 | FATHEAD |
+| 51 | 14 | Sarah Berger |
+| 52 | 14 | Odysseus |
+| 53 | 13 | Desiree Watson |
+| 54 | 13 | Juliet Weathers |
+| 55 | 12 | Krista Blair |
+| 56 | 10 | Harlequinn N Glover |
+| 57 | 10 | Kimberly Walker |
+| 58 | 10 | Erin Murphy |
 | 59 | 10 | Candi |
-| 60 | 10 | Sonia Flammond |
-| 61 | 10 | Kimberly Walker |
-| 62 | 10 | QUEENIE K |
-| 63 | 10 | Erin Murphy |
+| 60 | 10 | Jumpy Pivot |
+| 61 | 10 | Sonia Flammond |
+| 62 | 10 | Swanky Blockzone |
+| 63 | 10 | Slinky Roll |
 | 64 | 9 | April Shanahan |
 | 65 | 9 | Ron Laliberte |
-| 66 | 8 | Kens Guth |
+| 66 | 8 | reom |
 | 67 | 8 | Katherine Rivera |
-| 68 | 8 | reom |
+| 68 | 8 | Kens Guth |
 | 69 | 8 | Mikes Girl |
 | 70 | 7 | Robby Roberts |
 | 71 | 7 | Bougierock |
-| 72 | 6 | Vanesa Colon |
-| 73 | 6 | Elise Charlton |
-| 74 | 6 | Adrienne Sprayberry |
-| 75 | 6 | Sir-Franchise Drake |
+| 72 | 7 | Elise Charlton |
+| 73 | 6 | Vanesa Colon |
+| 74 | 6 | Spicy Stagger |
+| 75 | 6 | Dee Franklin |
 | 76 | 6 | Lazy Riserfit |
-| 77 | 6 | Dee Franklin |
-| 78 | 6 | Spicy Stagger |
-| 79 | 5 | Dreamy Drop |
-| 80 | 5 | Michelle Andrea |
-| 81 | 5 | Yup |
-| 82 | 5 | Peachy Fall |
-| 83 | 5 | lady |
-| 84 | 5 | Paula Morrison |
-| 85 | 5 | Spencer Nikki |
-| 86 | 5 | Tam |
-| 87 | 5 | Mary |
+| 77 | 6 | Adrienne Sprayberry |
+| 78 | 6 | Sir-Franchise Drake |
+| 79 | 5 | Yup |
+| 80 | 5 | Dreamy Drop |
+| 81 | 5 | Michelle Andrea |
+| 82 | 5 | Mary |
+| 83 | 5 | Peachy Fall |
+| 84 | 5 | lady |
+| 85 | 5 | Paula Morrison |
+| 86 | 5 | Loopy Fallzone |
+| 87 | 5 | Spencer Nikki |
+| 88 | 5 | Tam |
 
 ---
 *Standings created by tournaments datasource generation tool*

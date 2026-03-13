@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-03-13 12:35:11 UTC
+# Standings for team1 as of 2026-03-13 12:36:12 UTC
 
-**Total Participants:** 74
+**Total Participants:** 77
 
 ## Participant Scores
 
@@ -10,76 +10,79 @@
 | 2 | 412 | Amy Dial Brown |
 | 3 | 300 | Hyper |
 | 4 | 194 | Dizzy Stagger |
-| 5 | 135 | Tashanna Harvey |
+| 5 | 160 | Tashanna Harvey |
 | 6 | 123 | Megan Klinkner |
 | 7 | 110 | Katherine Walton |
 | 8 | 81 | Pheezy |
-| 9 | 54 | Giddy Cascade |
-| 10 | 52 | Lori Dutton |
-| 11 | 48 | Jennifer Traywick |
-| 12 | 44 | Tanya Carpenter-Reynolds |
-| 13 | 41 | Dale |
-| 14 | 40 | Christi Burley |
-| 15 | 39 | mbij21 |
-| 16 | 36 | Hasbro Bros |
-| 17 | 35 | Edna Clinton |
-| 18 | 34 | Karmyst |
-| 19 | 32 | Chummy Rollzone |
-| 20 | 30 | kito23 |
-| 21 | 27 | Panda Rog |
-| 22 | 26 | Goofy Linkblock |
-| 23 | 25 | Maxwell Hall |
-| 24 | 25 | Itn |
-| 25 | 22 | Giddy Swiper |
-| 26 | 21 | Joyce Harrell-chavis |
-| 27 | 20 | Aponk |
-| 28 | 19 | Poppy Builderline |
-| 29 | 18 | Tig |
-| 30 | 18 | Jacob Phillips |
-| 31 | 17 | Lee Sipelii |
-| 32 | 17 | iceman |
-| 33 | 16 | Chilly Matchbuilder |
-| 34 | 16 | Amy Roche |
-| 35 | 15 | Trishatta YoungDiva Watkins |
-| 36 | 15 | Albert Josef Toves Means Jr. |
-| 37 | 15 | Ellen Maxwell Capstaff |
+| 9 | 56 | Hasbro Bros |
+| 10 | 54 | Giddy Cascade |
+| 11 | 52 | Lori Dutton |
+| 12 | 48 | Jennifer Traywick |
+| 13 | 44 | Tanya Carpenter-Reynolds |
+| 14 | 41 | Dale |
+| 15 | 40 | Jevon Griffith |
+| 16 | 40 | Christi Burley |
+| 17 | 39 | mbij21 |
+| 18 | 35 | Edna Clinton |
+| 19 | 34 | Karmyst |
+| 20 | 32 | Chummy Rollzone |
+| 21 | 30 | kito23 |
+| 22 | 27 | Panda Rog |
+| 23 | 26 | Goofy Linkblock |
+| 24 | 25 | Maxwell Hall |
+| 25 | 25 | Itn |
+| 26 | 22 | Giddy Swiper |
+| 27 | 22 | Trishatta YoungDiva Watkins |
+| 28 | 21 | Joyce Harrell-chavis |
+| 29 | 21 | Amy Roche |
+| 30 | 20 | Aponk |
+| 31 | 19 | Poppy Builderline |
+| 32 | 18 | Jacob Phillips |
+| 33 | 18 | Tig |
+| 34 | 17 | Lee Sipelii |
+| 35 | 17 | iceman |
+| 36 | 16 | Porkobello |
+| 37 | 16 | Chilly Matchbuilder |
 | 38 | 15 | Chris Kelly |
 | 39 | 15 | Nikki Robinson |
 | 40 | 15 | raffyG |
-| 41 | 14 | Amber Nicole |
-| 42 | 14 | Elyse YL |
-| 43 | 14 | Ernest Jordan |
-| 44 | 12 | Alexandria Ritch |
-| 45 | 12 | Cool Dasher |
-| 46 | 12 | Big rick !!! |
-| 47 | 12 | James Burda |
-| 48 | 10 | Hyper Drop |
-| 49 | 10 | Shawna Days |
-| 50 | 10 | Hecate Trimora |
-| 51 | 10 | Anne Garcia |
-| 52 | 10 | Giles McNair |
-| 53 | 9 | Boldy Clicky |
-| 54 | 9 | Jennifer Bunker |
-| 55 | 9 | Bob Sitts |
-| 56 | 8 | Elizabeth Hughes |
-| 57 | 8 | al |
-| 58 | 8 | Crafty Clearfit |
-| 59 | 8 | Walter Beltran |
-| 60 | 8 | Natasha Velasquez Gabriel |
-| 61 | 8 | Tammy Straka |
-| 62 | 8 | Epic Cascadeclear |
-| 63 | 7 | Herm Junior |
-| 64 | 7 | Michael Felker |
-| 65 | 7 | MrsW |
-| 66 | 6 | Sunny Swiper |
-| 67 | 6 | Randy Clevenger |
-| 68 | 6 | Tjango |
-| 69 | 6 | Liz M Durfee |
-| 70 | 6 | Poppy Lift |
-| 71 | 6 | Felise Bee |
-| 72 | 5 | freakyjoe |
-| 73 | 5 | Samantha Bugg Stitcher |
-| 74 | 5 | Zach Thompson |
+| 41 | 15 | Albert Josef Toves Means Jr. |
+| 42 | 15 | Ellen Maxwell Capstaff |
+| 43 | 14 | Amber Nicole |
+| 44 | 14 | Elyse YL |
+| 45 | 14 | Ernest Jordan |
+| 46 | 12 | Alexandria Ritch |
+| 47 | 12 | Big rick !!! |
+| 48 | 12 | Cool Dasher |
+| 49 | 12 | James Burda |
+| 50 | 10 | Hyper Drop |
+| 51 | 10 | Shawna Days |
+| 52 | 10 | Hecate Trimora |
+| 53 | 10 | Anne Garcia |
+| 54 | 10 | Boldy Clicky |
+| 55 | 10 | Giles McNair |
+| 56 | 9 | Jennifer Bunker |
+| 57 | 9 | Bob Sitts |
+| 58 | 8 | Elizabeth Hughes |
+| 59 | 8 | al |
+| 60 | 8 | Epic Cascadeclear |
+| 61 | 8 | Walter Beltran |
+| 62 | 8 | Natasha Velasquez Gabriel |
+| 63 | 8 | Crafty Clearfit |
+| 64 | 8 | Tammy Straka |
+| 65 | 7 | Herm Junior |
+| 66 | 7 | Michael Felker |
+| 67 | 7 | MrsW |
+| 68 | 6 | Sunny Swiper |
+| 69 | 6 | Randy Clevenger |
+| 70 | 6 | Tjango |
+| 71 | 6 | Liz M Durfee |
+| 72 | 6 | Poppy Lift |
+| 73 | 6 | Felise Bee |
+| 74 | 5 | freakyjoe |
+| 75 | 5 | Samantha Bugg Stitcher |
+| 76 | 5 | Flashy Clicker |
+| 77 | 5 | Zach Thompson |
 
 ---
 *Standings created by tournaments datasource generation tool*

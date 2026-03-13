@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-03-13 12:35:11 UTC
+# Standings for team2 as of 2026-03-13 12:36:12 UTC
 
-**Total Participants:** 55
+**Total Participants:** 58
 
 ## Participant Scores
 
@@ -16,51 +16,54 @@
 | 8 | 47 | Chloe S |
 | 9 | 46 | Brittany Backus |
 | 10 | 43 | Chyrisse Norton |
-| 11 | 40 | Paula Marcus Delsigne |
-| 12 | 40 | Arisvet Garcia |
-| 13 | 37 | Amy Villalpando |
-| 14 | 35 | Bow Babe |
-| 15 | 35 | Chipper Stacky |
-| 16 | 33 | Mjhays |
-| 17 | 30 | Beth Smith |
-| 18 | 30 | Julia Freeman |
-| 19 | 28 | Tori Bowers |
-| 20 | 28 | Lindsey Anderson |
-| 21 | 26 | Starr |
-| 22 | 25 | Melody Santiago |
-| 23 | 24 | Adam Charles |
-| 24 | 23 | Sha45 |
-| 25 | 22 | Prette Qui |
-| 26 | 21 | Brave Tilebuilder |
-| 27 | 20 | Veronica Martin Trinkle |
-| 28 | 20 | Andrew Bowen |
-| 29 | 20 | Wacky Columnbuilder |
-| 30 | 19 | Lush Linkgrid |
-| 31 | 18 | Shelly Babie |
-| 32 | 18 | Kell Cinn |
-| 33 | 17 | Shelly |
-| 34 | 16 | Daring Rotator |
-| 35 | 16 | Mackenzie Forrester |
-| 36 | 16 | Emilie Creswell |
-| 37 | 16 | Hyper Pop |
-| 38 | 14 | Daniel Moore |
-| 39 | 14 | Kitty tet |
-| 40 | 14 | Sandra McNab |
-| 41 | 12 | Abigail Stratton |
-| 42 | 10 | Jo Frohwein |
-| 43 | 9 | Lauressia MsLovaba Neil |
-| 44 | 9 | Jason Pence |
-| 45 | 9 | Jason Briggs |
-| 46 | 8 | Dreamy Linkbuilder |
-| 47 | 8 | BuzyBee |
-| 48 | 7 | Melissa Williams Blevins |
-| 49 | 7 | Kari Thompson Rock |
-| 50 | 6 | TJ Hire |
-| 51 | 6 | Plucky Patternfit |
-| 52 | 6 | Shiny Framezone |
-| 53 | 5 | Tiffany Riccio |
-| 54 | 5 | Kevin Stultz |
-| 55 | 5 | Somthin |
+| 11 | 41 | Mjhays |
+| 12 | 40 | Paula Marcus Delsigne |
+| 13 | 40 | Veronica Martin Trinkle |
+| 14 | 40 | Arisvet Garcia |
+| 15 | 37 | Amy Villalpando |
+| 16 | 35 | Bow Babe |
+| 17 | 35 | Chipper Stacky |
+| 18 | 30 | Beth Smith |
+| 19 | 30 | Julia Freeman |
+| 20 | 28 | Tori Bowers |
+| 21 | 28 | Lindsey Anderson |
+| 22 | 26 | Starr |
+| 23 | 25 | Melody Santiago |
+| 24 | 24 | Adam Charles |
+| 25 | 23 | Sha45 |
+| 26 | 22 | Prette Qui |
+| 27 | 21 | Brave Tilebuilder |
+| 28 | 20 | Jo Frohwein |
+| 29 | 20 | Andrew Bowen |
+| 30 | 20 | Wacky Columnbuilder |
+| 31 | 19 | Lush Linkgrid |
+| 32 | 18 | Shelly Babie |
+| 33 | 18 | Kell Cinn |
+| 34 | 17 | Shelly |
+| 35 | 16 | Daring Rotator |
+| 36 | 16 | Mackenzie Forrester |
+| 37 | 16 | Emilie Creswell |
+| 38 | 16 | Hyper Pop |
+| 39 | 14 | Sandra McNab |
+| 40 | 14 | Daniel Moore |
+| 41 | 14 | Kitty tet |
+| 42 | 12 | Abigail Stratton |
+| 43 | 12 | Jason Briggs |
+| 44 | 10 | Guillaume Clermont |
+| 45 | 9 | Lauressia MsLovaba Neil |
+| 46 | 9 | Jason Pence |
+| 47 | 8 | Dreamy Linkbuilder |
+| 48 | 8 | BuzyBee |
+| 49 | 7 | Melissa Williams Blevins |
+| 50 | 7 | Kari Thompson Rock |
+| 51 | 6 | TJ Hire |
+| 52 | 6 | Brooke Sunderhaus |
+| 53 | 6 | Whitney Mudge |
+| 54 | 6 | Shiny Framezone |
+| 55 | 6 | Plucky Patternfit |
+| 56 | 5 | Tiffany Riccio |
+| 57 | 5 | Kevin Stultz |
+| 58 | 5 | Somthin |
 
 ---
 *Standings created by tournaments datasource generation tool*
