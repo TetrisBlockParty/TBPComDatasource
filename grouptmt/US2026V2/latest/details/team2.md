@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-13 14:28:12 UTC
+# Standings for team2 as of 2026-03-13 14:28:34 UTC
 
 **Total Participants:** 218
 
@@ -26,8 +26,8 @@
 | 18 | 161 | sweet lil miss |
 | 19 | 150 | MzBerry |
 | 20 | 120 | Nerdy Blockpiece |
-| 21 | 103 | Brittany Backus |
-| 22 | 102 | Carmilita Burpo Jordan |
+| 21 | 114 | Carmilita Burpo Jordan |
+| 22 | 103 | Brittany Backus |
 | 23 | 100 | Andrey Sharov |
 | 24 | 93 | Johanna Massaro |
 | 25 | 89 | Ess |
