@@ -1,6 +1,6 @@
-# Standings for team3 as of 2026-03-13 12:42:11 UTC
+# Standings for team3 as of 2026-03-13 12:43:11 UTC
 
-**Total Participants:** 95
+**Total Participants:** 96
 
 ## Participant Scores
 
@@ -25,82 +25,83 @@
 | 17 | 64 | TamiJo |
 | 18 | 60 | Dizzy Gridzone |
 | 19 | 50 | Sean Michaels |
-| 20 | 45 | LaLa Anderson |
-| 21 | 39 | COMFORT |
-| 22 | 38 | Spunky Holder |
-| 23 | 36 | Chet Manley |
-| 24 | 34 | Heather M Purcell |
-| 25 | 33 | Miranda Krentz |
-| 26 | 32 | Lillian Mehler |
-| 27 | 30 | Saucy Column |
+| 20 | 46 | Lisa Lisa |
+| 21 | 45 | LaLa Anderson |
+| 22 | 39 | COMFORT |
+| 23 | 38 | Spunky Holder |
+| 24 | 36 | Chet Manley |
+| 25 | 34 | Heather M Purcell |
+| 26 | 33 | Miranda Krentz |
+| 27 | 32 | Lillian Mehler |
 | 28 | 30 | Kate Farok |
-| 29 | 30 | Ty Quarles |
-| 30 | 30 | Kristine Roller |
-| 31 | 28 | Boo-Boo |
-| 32 | 26 | Laurie LeCroy |
-| 33 | 24 | Marco Martinez |
-| 34 | 24 | Tievette Crum |
-| 35 | 21 | Tiffany Gamble |
-| 36 | 20 | Aletha Williams |
-| 37 | 20 | Riley Roach |
-| 38 | 20 | Tessina Dewey-Mancino |
-| 39 | 20 | Erin Murphy |
-| 40 | 20 | Chirpy Matchbuilder |
-| 41 | 20 | Marsha Starr |
-| 42 | 20 | Hope Lancaster Landry |
-| 43 | 18 | Amy Perry |
-| 44 | 18 | Kelsey Sullivan |
+| 29 | 30 | Kristine Roller |
+| 30 | 30 | Saucy Column |
+| 31 | 30 | Ty Quarles |
+| 32 | 28 | Boo-Boo |
+| 33 | 28 | Kelsey Sullivan |
+| 34 | 26 | Laurie LeCroy |
+| 35 | 24 | Marco Martinez |
+| 36 | 24 | Tievette Crum |
+| 37 | 21 | Tiffany Gamble |
+| 38 | 20 | Chirpy Matchbuilder |
+| 39 | 20 | Tessina Dewey-Mancino |
+| 40 | 20 | Riley Roach |
+| 41 | 20 | Erin Murphy |
+| 42 | 20 | Aletha Williams |
+| 43 | 20 | Marsha Starr |
+| 44 | 20 | Hope Lancaster Landry |
 | 45 | 18 | Cranky Brickzone |
-| 46 | 17 | Zippy Cascadeclear |
-| 47 | 17 | Tyleah Longmire |
-| 48 | 17 | Juliet Weathers |
-| 49 | 17 | Terry Hickman Fort |
-| 50 | 16 | Slinky Roll |
+| 46 | 18 | Amy Perry |
+| 47 | 17 | Terry Hickman Fort |
+| 48 | 17 | Tyleah Longmire |
+| 49 | 17 | Juliet Weathers |
+| 50 | 17 | Zippy Cascadeclear |
 | 51 | 16 | Plucky Gridroll |
-| 52 | 15 | Carla Gleaves |
+| 52 | 16 | Slinky Roll |
 | 53 | 15 | QUEENIE K |
-| 54 | 15 | DefaultUser |
-| 55 | 15 | Emily B Johnson |
-| 56 | 15 | FATHEAD |
+| 54 | 15 | FATHEAD |
+| 55 | 15 | DefaultUser |
+| 56 | 15 | Carla Gleaves |
 | 57 | 15 | Missy Pierce |
-| 58 | 14 | Odysseus |
+| 58 | 15 | Emily B Johnson |
 | 59 | 14 | Sarah Berger |
-| 60 | 14 | Lisa Lisa |
+| 60 | 14 | Odysseus |
 | 61 | 13 | Desiree Watson |
 | 62 | 12 | Krista Blair |
-| 63 | 10 | Harlequinn N Glover |
+| 63 | 10 | Vanesa Colon |
 | 64 | 10 | Kimberly Walker |
-| 65 | 10 | Sonia Flammond |
-| 66 | 10 | Jumpy Pivot |
+| 65 | 10 | Harlequinn N Glover |
+| 66 | 10 | Sonia Flammond |
 | 67 | 10 | Swanky Blockzone |
-| 68 | 10 | Vanesa Colon |
+| 68 | 10 | Jumpy Pivot |
 | 69 | 10 | Candi |
 | 70 | 9 | April Shanahan |
 | 71 | 9 | Ron Laliberte |
 | 72 | 8 | Kens Guth |
-| 73 | 8 | Edwina Kimble |
-| 74 | 8 | reom |
+| 73 | 8 | Katherine Rivera |
+| 74 | 8 | Edwina Kimble |
 | 75 | 8 | Mikes Girl |
-| 76 | 8 | Katherine Rivera |
-| 77 | 7 | Elise Charlton |
-| 78 | 7 | Robby Roberts |
-| 79 | 7 | Bougierock |
+| 76 | 8 | reom |
+| 77 | 7 | Bougierock |
+| 78 | 7 | Elise Charlton |
+| 79 | 7 | Robby Roberts |
 | 80 | 6 | Spicy Stagger |
-| 81 | 6 | Twisty Blockpiece |
-| 82 | 6 | Lazy Riserfit |
-| 83 | 6 | Adrienne Sprayberry |
-| 84 | 6 | Dee Franklin |
+| 81 | 6 | Dee Franklin |
+| 82 | 6 | Twisty Blockpiece |
+| 83 | 6 | Mrsgusta |
+| 84 | 6 | Lazy Riserfit |
 | 85 | 6 | Sir-Franchise Drake |
-| 86 | 5 | Yup |
-| 87 | 5 | Peachy Fall |
-| 88 | 5 | lady |
-| 89 | 5 | Loopy Fallzone |
-| 90 | 5 | Mary |
-| 91 | 5 | Tam |
-| 92 | 5 | Paula Morrison |
-| 93 | 5 | Michelle Andrea |
-| 94 | 5 | Dreamy Drop |
-| 95 | 5 | Spencer Nikki |
+| 86 | 6 | Adrienne Sprayberry |
+| 87 | 5 | Tam |
+| 88 | 5 | Michelle Andrea |
+| 89 | 5 | Spencer Nikki |
+| 90 | 5 | lady |
+| 91 | 5 | Paula Morrison |
+| 92 | 5 | Peachy Fall |
+| 93 | 5 | Yup |
+| 94 | 5 | Mary |
+| 95 | 5 | Dreamy Drop |
+| 96 | 5 | Loopy Fallzone |
 
 ---
 *Standings created by tournaments datasource generation tool*

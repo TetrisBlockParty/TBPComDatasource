@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-03-13 12:42:11 UTC
+# Standings for team1 as of 2026-03-13 12:43:11 UTC
 
-**Total Participants:** 88
+**Total Participants:** 90
 
 ## Participant Scores
 
@@ -23,77 +23,79 @@
 | 15 | 47 | Dale |
 | 16 | 40 | Jevon Griffith |
 | 17 | 40 | Christi Burley |
-| 18 | 39 | Amy Roche |
-| 19 | 39 | mbij21 |
+| 18 | 39 | mbij21 |
+| 19 | 39 | Amy Roche |
 | 20 | 35 | Edna Clinton |
-| 21 | 35 | Aponk |
-| 22 | 33 | Tammy Straka |
-| 23 | 32 | Chummy Rollzone |
-| 24 | 32 | Goofy Linkblock |
-| 25 | 30 | kito23 |
-| 26 | 28 | Itn |
-| 27 | 28 | Trishatta YoungDiva Watkins |
-| 28 | 27 | Panda Rog |
-| 29 | 25 | Maxwell Hall |
-| 30 | 22 | Giddy Swiper |
-| 31 | 21 | Joyce Harrell-chavis |
-| 32 | 20 | Chris Kelly |
-| 33 | 19 | Albert Josef Toves Means Jr. |
-| 34 | 19 | Poppy Builderline |
-| 35 | 18 | Jacob Phillips |
-| 36 | 18 | raffyG |
-| 37 | 18 | Ryry |
-| 38 | 18 | Tig |
-| 39 | 17 | Lee Sipelii |
-| 40 | 17 | iceman |
-| 41 | 16 | Chilly Matchbuilder |
-| 42 | 16 | Anne Garcia |
-| 43 | 16 | Porkobello |
-| 44 | 15 | Nikki Robinson |
-| 45 | 15 | Ellen Maxwell Capstaff |
-| 46 | 15 | Tyle Armstead |
-| 47 | 14 | Amber Nicole |
-| 48 | 14 | Elyse YL |
+| 21 | 35 | NunYa |
+| 22 | 35 | Aponk |
+| 23 | 34 | Itn |
+| 24 | 33 | Tammy Straka |
+| 25 | 32 | Chummy Rollzone |
+| 26 | 32 | Goofy Linkblock |
+| 27 | 30 | Chris Kelly |
+| 28 | 30 | kito23 |
+| 29 | 28 | Trishatta YoungDiva Watkins |
+| 30 | 27 | Panda Rog |
+| 31 | 25 | Maxwell Hall |
+| 32 | 24 | Poppy Builderline |
+| 33 | 22 | Giddy Swiper |
+| 34 | 21 | Joyce Harrell-chavis |
+| 35 | 20 | iceman |
+| 36 | 20 | Andy Harris |
+| 37 | 19 | Albert Josef Toves Means Jr. |
+| 38 | 18 | Ryry |
+| 39 | 18 | raffyG |
+| 40 | 18 | Jacob Phillips |
+| 41 | 18 | Tig |
+| 42 | 17 | Lee Sipelii |
+| 43 | 16 | Anne Garcia |
+| 44 | 16 | Chilly Matchbuilder |
+| 45 | 16 | Porkobello |
+| 46 | 15 | Ellen Maxwell Capstaff |
+| 47 | 15 | Tyle Armstead |
+| 48 | 15 | Nikki Robinson |
 | 49 | 14 | Ernest Jordan |
 | 50 | 14 | Bean |
-| 51 | 12 | Natasha Velasquez Gabriel |
-| 52 | 12 | Cool Dasher |
-| 53 | 12 | Walter Beltran |
-| 54 | 12 | Big rick !!! |
-| 55 | 12 | James Burda |
-| 56 | 12 | Alexandria Ritch |
-| 57 | 10 | Hyper Drop |
-| 58 | 10 | Andy Harris |
-| 59 | 10 | Giles McNair |
-| 60 | 10 | Hecate Trimora |
-| 61 | 10 | Shawna Days |
-| 62 | 10 | Boldy Clicky |
-| 63 | 9 | bricked |
-| 64 | 9 | Jennifer Bunker |
+| 51 | 14 | Amber Nicole |
+| 52 | 14 | Elyse YL |
+| 53 | 12 | Cool Dasher |
+| 54 | 12 | Alexandria Ritch |
+| 55 | 12 | Walter Beltran |
+| 56 | 12 | Natasha Velasquez Gabriel |
+| 57 | 12 | James Burda |
+| 58 | 12 | Big rick !!! |
+| 59 | 10 | Boldy Clicky |
+| 60 | 10 | Hyper Drop |
+| 61 | 10 | Giles McNair |
+| 62 | 10 | Hecate Trimora |
+| 63 | 10 | Shawna Days |
+| 64 | 9 | bricked |
 | 65 | 9 | Bob Sitts |
-| 66 | 9 | Quirky Dashy |
-| 67 | 8 | Elizabeth Hughes |
-| 68 | 8 | Epic Cascadeclear |
-| 69 | 8 | Crafty Clearfit |
+| 66 | 9 | Jennifer Bunker |
+| 67 | 9 | Quirky Dashy |
+| 68 | 8 | Crafty Clearfit |
+| 69 | 8 | Elizabeth Hughes |
 | 70 | 8 | al |
-| 71 | 7 | Herm Junior |
-| 72 | 7 | MrsW |
-| 73 | 7 | Michael Felker |
-| 74 | 6 | Sunny Swiper |
-| 75 | 6 | Felise Bee |
+| 71 | 8 | Epic Cascadeclear |
+| 72 | 8 | Felise Bee |
+| 73 | 7 | Herm Junior |
+| 74 | 7 | MrsW |
+| 75 | 7 | Michael Felker |
 | 76 | 6 | Poppy Lift |
-| 77 | 6 | Liz M Durfee |
+| 77 | 6 | Sunny Swiper |
 | 78 | 6 | Rebekah LeiAnn Bonsell |
-| 79 | 6 | Dizzy Pattern |
+| 79 | 6 | Liz M Durfee |
 | 80 | 6 | Tjango |
-| 81 | 6 | Jody Jackson |
-| 82 | 6 | Randy Clevenger |
-| 83 | 5 | Zach Thompson |
+| 81 | 6 | Dizzy Pattern |
+| 82 | 6 | Jody Jackson |
+| 83 | 6 | Randy Clevenger |
 | 84 | 5 | Bubbly Patterner |
-| 85 | 5 | Flashy Clicker |
-| 86 | 5 | Jessica Marie Long |
-| 87 | 5 | Samantha Bugg Stitcher |
-| 88 | 5 | freakyjoe |
+| 85 | 5 | Zach Thompson |
+| 86 | 5 | Flashy Clicker |
+| 87 | 5 | Jessica Marie Long |
+| 88 | 5 | Samantha Bugg Stitcher |
+| 89 | 5 | Armin Muhamed |
+| 90 | 5 | freakyjoe |
 
 ---
 *Standings created by tournaments datasource generation tool*
