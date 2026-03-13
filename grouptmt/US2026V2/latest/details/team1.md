@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 17:50:13 UTC
+# Standings for team1 as of 2026-03-13 17:50:35 UTC
 
 **Total Participants:** 473
 
@@ -18,12 +18,12 @@
 | 10 | 548 | Robert Jansen |
 | 11 | 436 | Nikita Nelson |
 | 12 | 412 | Amy Dial Brown |
-| 13 | 370 | Selena Rollin |
+| 13 | 380 | Selena Rollin |
 | 14 | 360 | Paul Smiar |
 | 15 | 344 | Giddy Cascade |
 | 16 | 296 | Sheree Twiddy Thornton |
 | 17 | 284 | Hellsin |
-| 18 | 276 | Tashanna Harvey |
+| 18 | 279 | Tashanna Harvey |
 | 19 | 257 | Hasbro Bros |
 | 20 | 249 | Tatiyana Holm |
 | 21 | 248 | Donavon Krahn |
@@ -321,87 +321,87 @@
 | 313 | 14 | BingoStarr |
 | 314 | 14 | Katie Martin |
 | 315 | 14 | PennyCandee |
-| 316 | 14 | James Martin |
+| 316 | 14 | Tbuzz |
 | 317 | 14 | Megan Treacy |
-| 318 | 14 | Tbuzz |
+| 318 | 14 | James Martin |
 | 319 | 14 | Amber Nicole |
-| 320 | 13 | Susan Marsh |
-| 321 | 13 | Timothy Lott |
-| 322 | 13 | Natasha Velasquez Gabriel |
-| 323 | 13 | Ash Galvan |
-| 324 | 13 | Dunlap Loretta |
-| 325 | 13 | Jill Goff |
-| 326 | 13 | Danielle Kollias |
-| 327 | 13 | Elizabeth A Cobuccio |
-| 328 | 12 | Felise Bee |
-| 329 | 12 | CoolHand |
-| 330 | 12 | ssr |
-| 331 | 12 | Lush Dasher |
-| 332 | 12 | Liz M Durfee |
-| 333 | 12 | Jessica Goble |
-| 334 | 12 | James Burda |
-| 335 | 12 | Debra Reynolds |
-| 336 | 12 | YF Luna |
-| 337 | 12 | Heather Ann |
-| 338 | 12 | Alexandria Ritch |
-| 339 | 12 | Mechelle Bailum |
-| 340 | 12 | Rex Max |
-| 341 | 11 | Maju Restini |
-| 342 | 11 | Geno Bankroll McGill |
-| 343 | 11 | Yvonne Buie |
-| 344 | 11 | Sabrina Mansfield |
+| 320 | 13 | Elizabeth A Cobuccio |
+| 321 | 13 | Dunlap Loretta |
+| 322 | 13 | Timothy Lott |
+| 323 | 13 | Natasha Velasquez Gabriel |
+| 324 | 13 | Ash Galvan |
+| 325 | 13 | Susan Marsh |
+| 326 | 13 | LeeAnn Martindale |
+| 327 | 13 | Jill Goff |
+| 328 | 13 | Danielle Kollias |
+| 329 | 12 | Debra Reynolds |
+| 330 | 12 | James Burda |
+| 331 | 12 | Jessica Goble |
+| 332 | 12 | YF Luna |
+| 333 | 12 | Liz M Durfee |
+| 334 | 12 | Heather Ann |
+| 335 | 12 | ssr |
+| 336 | 12 | CoolHand |
+| 337 | 12 | Lush Dasher |
+| 338 | 12 | Felise Bee |
+| 339 | 12 | Rex Max |
+| 340 | 12 | Alexandria Ritch |
+| 341 | 12 | Mechelle Bailum |
+| 342 | 11 | Yvonne Buie |
+| 343 | 11 | Maju Restini |
+| 344 | 11 | Kevin Sees |
 | 345 | 11 | Wulfbyte |
-| 346 | 11 | Pam Salsman |
-| 347 | 11 | LeeAnn Martindale |
-| 348 | 11 | Roberta Arnold |
-| 349 | 11 | Frank Jusyandfair |
-| 350 | 11 | Trisha Gallagher |
-| 351 | 11 | Kevin Sees |
-| 352 | 10 | Tina Kocher Zimmerman |
-| 353 | 10 | Swalshy |
-| 354 | 10 | Mila Harper |
-| 355 | 10 | Giles McNair |
-| 356 | 10 | Dish19 |
-| 357 | 10 | Jennifer L Rutherford |
-| 358 | 10 | Cool Slice |
-| 359 | 10 | BDubb |
-| 360 | 10 | Alex Nicol |
-| 361 | 10 | Bryan Dickerson |
-| 362 | 10 | Tracie Corbett |
-| 363 | 10 | Hecate Trimora |
-| 364 | 10 | Quirky Twistline |
-| 365 | 10 | Jesse Young |
-| 366 | 10 | Shekita Gibbs |
-| 367 | 10 | beep |
-| 368 | 10 | Stacy Rodriguez |
-| 369 | 10 | Margie Olivas |
-| 370 | 10 | Alexandra Karavias |
-| 371 | 10 | MarLa Alioto |
-| 372 | 10 | Christina Rodriguez |
-| 373 | 10 | Cooldamalley |
-| 374 | 10 | Stellar |
-| 375 | 9 | Damion Woods |
-| 376 | 9 | Sam Lema |
-| 377 | 9 | bricked |
+| 346 | 11 | Sabrina Mansfield |
+| 347 | 11 | Geno Bankroll McGill |
+| 348 | 11 | Pam Salsman |
+| 349 | 11 | Trisha Gallagher |
+| 350 | 11 | Roberta Arnold |
+| 351 | 11 | Frank Jusyandfair |
+| 352 | 10 | Swalshy |
+| 353 | 10 | Dish19 |
+| 354 | 10 | beep |
+| 355 | 10 | Margie Olivas |
+| 356 | 10 | Cool Slice |
+| 357 | 10 | Tina Kocher Zimmerman |
+| 358 | 10 | Alex Nicol |
+| 359 | 10 | Bryan Dickerson |
+| 360 | 10 | Hecate Trimora |
+| 361 | 10 | Quirky Twistline |
+| 362 | 10 | Stacy Rodriguez |
+| 363 | 10 | BDubb |
+| 364 | 10 | Tracie Corbett |
+| 365 | 10 | Jennifer L Rutherford |
+| 366 | 10 | Giles McNair |
+| 367 | 10 | Shekita Gibbs |
+| 368 | 10 | Mila Harper |
+| 369 | 10 | Christina Rodriguez |
+| 370 | 10 | Stellar |
+| 371 | 10 | Cooldamalley |
+| 372 | 10 | Jesse Young |
+| 373 | 10 | MarLa Alioto |
+| 374 | 10 | Alexandra Karavias |
+| 375 | 9 | Andrea Clippert |
+| 376 | 9 | Zach Thompson |
+| 377 | 9 | Patti Rone |
 | 378 | 9 | Erin Hodges Plumb |
-| 379 | 9 | Patti Rone |
-| 380 | 9 | Bob Sitts |
-| 381 | 9 | Andrea Clippert |
-| 382 | 9 | Zach Thompson |
-| 383 | 9 | Anthony Ward |
-| 384 | 9 | Brandon Zachary Anderson |
-| 385 | 9 | Zesty Edgepiece |
-| 386 | 9 | Quirky Dashy |
-| 387 | 9 | Barbara Miller |
-| 388 | 9 | LaVance Parker |
-| 389 | 9 | Joe Coon |
-| 390 | 9 | Jennifer Bunker |
-| 391 | 9 | Banzhaf |
-| 392 | 9 | Kimberly Howell-Henley |
-| 393 | 9 | Perky Clusterbuilder |
-| 394 | 8 | Phyllis Odister |
-| 395 | 8 | Jessica |
-| 396 | 8 | Jessica Butler |
+| 379 | 9 | Barbara Miller |
+| 380 | 9 | bricked |
+| 381 | 9 | LaVance Parker |
+| 382 | 9 | Brandon Zachary Anderson |
+| 383 | 9 | Damion Woods |
+| 384 | 9 | Quirky Dashy |
+| 385 | 9 | Perky Clusterbuilder |
+| 386 | 9 | Jennifer Bunker |
+| 387 | 9 | Banzhaf |
+| 388 | 9 | Bob Sitts |
+| 389 | 9 | Kimberly Howell-Henley |
+| 390 | 9 | Zesty Edgepiece |
+| 391 | 9 | Joe Coon |
+| 392 | 9 | Anthony Ward |
+| 393 | 9 | Sam Lema |
+| 394 | 8 | Jessica Butler |
+| 395 | 8 | Phyllis Odister |
+| 396 | 8 | Jessica |
 | 397 | 8 | Epic Cascadeclear |
 | 398 | 8 | Chelsey Ann |
 | 399 | 8 | Jason Gonzales |
@@ -424,61 +424,61 @@
 | 416 | 7 | Herm Junior |
 | 417 | 7 | Christie Reynolds |
 | 418 | 7 | Josh Barringer |
-| 419 | 7 | Missy Lynn |
-| 420 | 7 | MrsW |
-| 421 | 7 | meh |
-| 422 | 7 | Jennifer Kime |
-| 423 | 7 | Randy Bowers |
-| 424 | 7 | April McGuffie |
-| 425 | 7 | key |
-| 426 | 7 | Cool Base |
-| 427 | 7 | waylow |
-| 428 | 7 | Bouncy Tilerpiece |
+| 419 | 7 | Cool Base |
+| 420 | 7 | freakyjoe |
+| 421 | 7 | key |
+| 422 | 7 | Randy Bowers |
+| 423 | 7 | MrsW |
+| 424 | 7 | Missy Lynn |
+| 425 | 7 | meh |
+| 426 | 7 | April McGuffie |
+| 427 | 7 | Jennifer Kime |
+| 428 | 7 | waylow |
 | 429 | 7 | Darlene |
-| 430 | 7 | freakyjoe |
-| 431 | 6 | Jpapi |
-| 432 | 6 | Pupcup |
-| 433 | 6 | cac |
-| 434 | 6 | Tjango |
-| 435 | 6 | Kristen Rhoads |
-| 436 | 6 | Randy Clevenger |
-| 437 | 6 | Jody Jackson |
-| 438 | 6 | Jack Mattiace |
-| 439 | 6 | Slinky Setter |
-| 440 | 6 | Monica Blu |
-| 441 | 6 | Breezy Ivy |
-| 442 | 6 | ajx |
-| 443 | 6 | Dizzy Pattern |
+| 430 | 7 | Bouncy Tilerpiece |
+| 431 | 6 | Kristen Rhoads |
+| 432 | 6 | Antoinette Rhinesmith |
+| 433 | 6 | Jpapi |
+| 434 | 6 | Jack Mattiace |
+| 435 | 6 | Breezy Ivy |
+| 436 | 6 | ajx |
+| 437 | 6 | Dizzy Pattern |
+| 438 | 6 | Monica Blu |
+| 439 | 6 | Randy Clevenger |
+| 440 | 6 | Slinky Setter |
+| 441 | 6 | Jody Jackson |
+| 442 | 6 | Lil H |
+| 443 | 6 | Tjango |
 | 444 | 6 | Breezy Block |
-| 445 | 6 | Tyrell Harvin |
-| 446 | 6 | Antoinette Rhinesmith |
-| 447 | 6 | Amber Jackson |
-| 448 | 6 | mrkw |
-| 449 | 6 | Florna Primrose |
-| 450 | 6 | Austin Wilson |
-| 451 | 6 | Gary Francis Schaffer Jr |
-| 452 | 6 | flip |
-| 453 | 6 | Lil H |
-| 454 | 6 | Velt Richardson |
-| 455 | 6 | Snippy Tilerpiece |
-| 456 | 5 | Chrys Peters |
-| 457 | 5 | Samantha Bugg Stitcher |
-| 458 | 5 | Slinky Dashgrid |
-| 459 | 5 | Troy Gussler |
-| 460 | 5 | Terry Dill |
+| 445 | 6 | Florna Primrose |
+| 446 | 6 | cac |
+| 447 | 6 | Snippy Tilerpiece |
+| 448 | 6 | Velt Richardson |
+| 449 | 6 | flip |
+| 450 | 6 | Gary Francis Schaffer Jr |
+| 451 | 6 | Austin Wilson |
+| 452 | 6 | mrkw |
+| 453 | 6 | Amber Jackson |
+| 454 | 6 | Tyrell Harvin |
+| 455 | 6 | Pupcup |
+| 456 | 5 | Sarajo Clauson |
+| 457 | 5 | Victoria Montenegro Martinez |
+| 458 | 5 | Samantha Bugg Stitcher |
+| 459 | 5 | MissySai TooRude Ladson |
+| 460 | 5 | Chrys Peters |
 | 461 | 5 | Angela Renea Lester |
 | 462 | 5 | Armoni |
-| 463 | 5 | Slinky Stacky |
-| 464 | 5 | Tony Lighthizer |
-| 465 | 5 | Lulu C Harp |
-| 466 | 5 | Ras David |
-| 467 | 5 | Jennifer Brown |
-| 468 | 5 | Chuck Williams |
-| 469 | 5 | Armin Muhamed |
-| 470 | 5 | Victoria Montenegro Martinez |
-| 471 | 5 | MissySai TooRude Ladson |
-| 472 | 5 | Fancy Tilefall |
-| 473 | 5 | Sarajo Clauson |
+| 463 | 5 | Armin Muhamed |
+| 464 | 5 | Fancy Tilefall |
+| 465 | 5 | Tony Lighthizer |
+| 466 | 5 | Chuck Williams |
+| 467 | 5 | Slinky Dashgrid |
+| 468 | 5 | Lulu C Harp |
+| 469 | 5 | Ras David |
+| 470 | 5 | Terry Dill |
+| 471 | 5 | Jennifer Brown |
+| 472 | 5 | Troy Gussler |
+| 473 | 5 | Slinky Stacky |
 
 ---
 *Standings created by tournaments datasource generation tool*
