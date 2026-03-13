@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-03-13 18:48:13 UTC
+# Standings for team1 as of 2026-03-13 18:48:35 UTC
 
-**Total Participants:** 548
+**Total Participants:** 549
 
 ## Participant Scores
 
@@ -263,88 +263,88 @@
 | 255 | 25 | Flashy Clicker |
 | 256 | 25 | Melissa Madison |
 | 257 | 25 | Pam Jennings Herzog |
-| 258 | 24 | Eddie Morales |
+| 258 | 24 | SLAPNUTZ |
 | 259 | 24 | Becky Coker |
-| 260 | 24 | Zesty Edgepiece |
-| 261 | 24 | Vicki Dougie |
+| 260 | 24 | Vicki Dougie |
+| 261 | 24 | Zesty Edgepiece |
 | 262 | 24 | Colleen McFadden Moldenhauer |
-| 263 | 24 | SLAPNUTZ |
-| 264 | 24 | Jennifer Negrete |
-| 265 | 23 | Big rick !!! |
-| 266 | 23 | Laidene Joseph |
-| 267 | 23 | Andie Galindo |
+| 263 | 24 | Jennifer Negrete |
+| 264 | 24 | Eddie Morales |
+| 265 | 23 | p |
+| 266 | 23 | Andie Galindo |
+| 267 | 23 | Oscar Ferguson |
 | 268 | 23 | Tammy Griffee |
-| 269 | 23 | p |
-| 270 | 23 | Tabitha Cornelious |
-| 271 | 23 | Oscar Ferguson |
-| 272 | 22 | Deb Horwath |
-| 273 | 22 | Rose Anna |
-| 274 | 22 | Hoppy Builderpiece |
-| 275 | 22 | Brave Piecebuilder |
-| 276 | 22 | Noah Lalonde |
-| 277 | 22 | Lee Sipelii |
-| 278 | 21 | Matthew Allan |
-| 279 | 21 | Nerdy Shatterline |
-| 280 | 21 | CHR |
-| 281 | 21 | Jessica Marie Long |
-| 282 | 20 | Smelly |
-| 283 | 20 | tiffany |
-| 284 | 20 | Ronald Przytulski |
-| 285 | 20 | Edda-Jo Wenneman Dobbs |
-| 286 | 20 | Death |
-| 287 | 20 | Christen Lawrick |
-| 288 | 20 | Jessica Russell |
-| 289 | 20 | Mean Melly |
-| 290 | 20 | Danielle Maner |
-| 291 | 20 | Kindra Sinclair |
-| 292 | 20 | Allena Craft |
-| 293 | 20 | Beka |
-| 294 | 20 | John Morris |
-| 295 | 20 | Bubba |
-| 296 | 20 | Smashanator |
-| 297 | 20 | Angela Brown Babin |
-| 298 | 20 | Giddy Clearbuilder |
-| 299 | 20 | Garry Junior Davis |
-| 300 | 20 | Snapdragon |
-| 301 | 20 | Shawn Septer |
-| 302 | 20 | Rebecca Martin |
-| 303 | 20 | Cleopatra Sims |
-| 304 | 20 | Jamie Jury |
-| 305 | 20 | LT |
-| 306 | 20 | Dawn Fike |
-| 307 | 20 | Jess Rose |
-| 308 | 19 | cool kat |
+| 269 | 23 | Tabitha Cornelious |
+| 270 | 23 | Big rick !!! |
+| 271 | 23 | Laidene Joseph |
+| 272 | 22 | Frisky Glidebuilder |
+| 273 | 22 | Brave Piecebuilder |
+| 274 | 22 | Noah Lalonde |
+| 275 | 22 | Lee Sipelii |
+| 276 | 22 | Hoppy Builderpiece |
+| 277 | 22 | Deb Horwath |
+| 278 | 22 | Rose Anna |
+| 279 | 21 | Jessica Marie Long |
+| 280 | 21 | Matthew Allan |
+| 281 | 21 | Nerdy Shatterline |
+| 282 | 21 | CHR |
+| 283 | 20 | Garry Junior Davis |
+| 284 | 20 | Mean Melly |
+| 285 | 20 | Jessica Russell |
+| 286 | 20 | Christen Lawrick |
+| 287 | 20 | Death |
+| 288 | 20 | Allena Craft |
+| 289 | 20 | Edda-Jo Wenneman Dobbs |
+| 290 | 20 | John Morris |
+| 291 | 20 | Ronald Przytulski |
+| 292 | 20 | tiffany |
+| 293 | 20 | Smashanator |
+| 294 | 20 | Danielle Maner |
+| 295 | 20 | Angela Brown Babin |
+| 296 | 20 | Dawn Fike |
+| 297 | 20 | Kindra Sinclair |
+| 298 | 20 | Beka |
+| 299 | 20 | Bubba |
+| 300 | 20 | Smelly |
+| 301 | 20 | Jess Rose |
+| 302 | 20 | Jamie Jury |
+| 303 | 20 | Shawn Septer |
+| 304 | 20 | Cleopatra Sims |
+| 305 | 20 | Snapdragon |
+| 306 | 20 | LT |
+| 307 | 20 | Giddy Clearbuilder |
+| 308 | 20 | Rebecca Martin |
 | 309 | 19 | CoolHand |
-| 310 | 19 | Jordan Ward |
-| 311 | 19 | Gigglelymomof2 |
-| 312 | 19 | Epic Fallzone |
-| 313 | 19 | TheKBr0 |
-| 314 | 18 | Matt Aguilar |
-| 315 | 18 | Neomi Perdue |
-| 316 | 18 | Elizabeth Hughes |
-| 317 | 18 | Bri Jackson |
-| 318 | 18 | Quirky Catcher |
-| 319 | 18 | Giggly Twistslam |
+| 310 | 19 | Epic Fallzone |
+| 311 | 19 | TheKBr0 |
+| 312 | 19 | Gigglelymomof2 |
+| 313 | 19 | Jordan Ward |
+| 314 | 19 | cool kat |
+| 315 | 18 | Matt Aguilar |
+| 316 | 18 | Giggly Twistslam |
+| 317 | 18 | Elizabeth Hughes |
+| 318 | 18 | Timothy Long |
+| 319 | 18 | Bri Jackson |
 | 320 | 18 | Jacob Phillips |
-| 321 | 18 | Florna Primrose |
-| 322 | 18 | Gregg Scott |
-| 323 | 18 | Bingo Wingo |
-| 324 | 18 | YF Luna |
-| 325 | 18 | Cannaman710 |
-| 326 | 18 | Timothy Long |
-| 327 | 17 | Pervis Boyd |
+| 321 | 18 | Cannaman710 |
+| 322 | 18 | Quirky Catcher |
+| 323 | 18 | YF Luna |
+| 324 | 18 | Neomi Perdue |
+| 325 | 18 | Bingo Wingo |
+| 326 | 18 | Gregg Scott |
+| 327 | 18 | Florna Primrose |
 | 328 | 17 | Amy Sanford |
-| 329 | 17 | Lisa Marie Sansom |
-| 330 | 17 | SAP |
-| 331 | 17 | Tracy Priceless Gholston |
-| 332 | 17 | Raynsera |
-| 333 | 17 | Terrance Williams |
-| 334 | 16 | Kristen Hall |
-| 335 | 16 | Anne Garcia |
+| 329 | 17 | Tracy Priceless Gholston |
+| 330 | 17 | Raynsera |
+| 331 | 17 | Pervis Boyd |
+| 332 | 17 | Terrance Williams |
+| 333 | 17 | Lisa Marie Sansom |
+| 334 | 17 | SAP |
+| 335 | 16 | Kristen Hall |
 | 336 | 16 | Sallie Sanborn |
-| 337 | 16 | eightball119 |
-| 338 | 16 | Tracey Wilson |
-| 339 | 16 | Frisky Glidebuilder |
+| 337 | 16 | Tracey Wilson |
+| 338 | 16 | eightball119 |
+| 339 | 16 | Anne Garcia |
 | 340 | 16 | Cool Dasher |
 | 341 | 16 | Tbuzz |
 | 342 | 16 | Melissa Hart |
@@ -491,29 +491,29 @@
 | 483 | 8 | Robert Coulter |
 | 484 | 7 | Herm Junior |
 | 485 | 7 | Stephen Lockman |
-| 486 | 7 | Clifford Greeniv |
+| 486 | 7 | mrkw |
 | 487 | 7 | freakyjoe |
 | 488 | 7 | Missy Lynn |
 | 489 | 7 | key |
 | 490 | 7 | April McGuffie |
 | 491 | 7 | Randy Bowers |
-| 492 | 7 | mrkw |
-| 493 | 7 | waylow |
-| 494 | 7 | Darlene |
-| 495 | 7 | Bouncy Tilerpiece |
-| 496 | 7 | MrsW |
-| 497 | 7 | Josh Barringer |
-| 498 | 7 | Christie Reynolds |
-| 499 | 7 | meh |
-| 500 | 7 | OmniJoy |
-| 501 | 7 | Jennifer Kime |
-| 502 | 6 | Kristen Rhoads |
-| 503 | 6 | cac |
-| 504 | 6 | Breezy Ivy |
-| 505 | 6 | Jack Mattiace |
-| 506 | 6 | ajx |
-| 507 | 6 | Dizzy Pattern |
-| 508 | 6 | Tyrell Harvin |
+| 492 | 7 | waylow |
+| 493 | 7 | Darlene |
+| 494 | 7 | Bouncy Tilerpiece |
+| 495 | 7 | MrsW |
+| 496 | 7 | Josh Barringer |
+| 497 | 7 | Christie Reynolds |
+| 498 | 7 | meh |
+| 499 | 7 | OmniJoy |
+| 500 | 7 | Jennifer Kime |
+| 501 | 7 | Clifford Greeniv |
+| 502 | 6 | cac |
+| 503 | 6 | Kristen Rhoads |
+| 504 | 6 | Jack Mattiace |
+| 505 | 6 | Tyrell Harvin |
+| 506 | 6 | Breezy Ivy |
+| 507 | 6 | ajx |
+| 508 | 6 | Dizzy Pattern |
 | 509 | 6 | Monica Blu |
 | 510 | 6 | Randy Clevenger |
 | 511 | 6 | Slinky Setter |
@@ -522,38 +522,39 @@
 | 514 | 6 | Tjango |
 | 515 | 6 | Breezy Block |
 | 516 | 6 | Daniel R Morgan |
-| 517 | 6 | Lil H |
+| 517 | 6 | Snippy Tilerpiece |
 | 518 | 6 | Gary Francis Schaffer Jr |
-| 519 | 6 | flip |
-| 520 | 6 | Glenda Inthimat |
-| 521 | 6 | Austin Wilson |
-| 522 | 6 | Snippy Tilerpiece |
-| 523 | 6 | Pupcup |
-| 524 | 6 | Jpapi |
-| 525 | 6 | ghxsty |
-| 526 | 6 | Amber Jackson |
-| 527 | 5 | Fancy Tilefall |
-| 528 | 5 | Muhammad |
-| 529 | 5 | Charis Stoner |
+| 519 | 6 | Tawny Mo |
+| 520 | 6 | flip |
+| 521 | 6 | Glenda Inthimat |
+| 522 | 6 | Austin Wilson |
+| 523 | 6 | Lil H |
+| 524 | 6 | Pupcup |
+| 525 | 6 | Jpapi |
+| 526 | 6 | ghxsty |
+| 527 | 6 | Amber Jackson |
+| 528 | 5 | Fancy Tilefall |
+| 529 | 5 | Ras David |
 | 530 | 5 | Angela Renea Lester |
 | 531 | 5 | LadyKuSh |
-| 532 | 5 | Samantha Bugg Stitcher |
-| 533 | 5 | Slinky Dashgrid |
-| 534 | 5 | Armoni |
-| 535 | 5 | Aprill Bolton |
-| 536 | 5 | Terry Dill |
-| 537 | 5 | Benjamin Ford |
-| 538 | 5 | Troy Gussler |
-| 539 | 5 | Sarajo Clauson |
-| 540 | 5 | Slinky Stacky |
-| 541 | 5 | Tony Lighthizer |
-| 542 | 5 | Larry McRae |
-| 543 | 5 | Chrys Peters |
-| 544 | 5 | MissySai TooRude Ladson |
-| 545 | 5 | Lulu C Harp |
-| 546 | 5 | Victoria Montenegro Martinez |
-| 547 | 5 | Jennifer Brown |
-| 548 | 5 | Ras David |
+| 532 | 5 | Charis Stoner |
+| 533 | 5 | Samantha Bugg Stitcher |
+| 534 | 5 | Aprill Bolton |
+| 535 | 5 | Slinky Dashgrid |
+| 536 | 5 | Armoni |
+| 537 | 5 | Terry Dill |
+| 538 | 5 | Muhammad |
+| 539 | 5 | Jennifer Brown |
+| 540 | 5 | Victoria Montenegro Martinez |
+| 541 | 5 | Lulu C Harp |
+| 542 | 5 | MissySai TooRude Ladson |
+| 543 | 5 | Tony Lighthizer |
+| 544 | 5 | Larry McRae |
+| 545 | 5 | Slinky Stacky |
+| 546 | 5 | Benjamin Ford |
+| 547 | 5 | Sarajo Clauson |
+| 548 | 5 | Troy Gussler |
+| 549 | 5 | Chrys Peters |
 
 ---
 *Standings created by tournaments datasource generation tool*
