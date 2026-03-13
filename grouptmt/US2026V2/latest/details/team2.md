@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-13 15:22:11 UTC
+# Standings for team2 as of 2026-03-13 15:22:33 UTC
 
 **Total Participants:** 310
 
@@ -51,58 +51,58 @@
 | 43 | 61 | Rhonda Winn Hohman |
 | 44 | 59 | Greg Shekailo |
 | 45 | 59 | Breezy Cascader |
-| 46 | 54 | Kimberly Garcia |
-| 47 | 53 | Jami Howard |
-| 48 | 53 | Star Hart |
-| 49 | 50 | Sonceria Ingram-Ford |
-| 50 | 50 | NDPeanut |
-| 51 | 50 | Zack Theisen |
-| 52 | 50 | YAE |
-| 53 | 50 | Audrey Jones |
+| 46 | 58 | Audrey Jones |
+| 47 | 54 | Kimberly Garcia |
+| 48 | 53 | Jami Howard |
+| 49 | 53 | Star Hart |
+| 50 | 50 | Sonceria Ingram-Ford |
+| 51 | 50 | NDPeanut |
+| 52 | 50 | Zack Theisen |
+| 53 | 50 | YAE |
 | 54 | 49 | Brave Fallzone |
-| 55 | 48 | Chelsea Clark |
-| 56 | 48 | Sarah Marie |
+| 55 | 48 | Sarah Marie |
+| 56 | 48 | Chelsea Clark |
 | 57 | 47 | Chloe S |
-| 58 | 46 | Mjhays |
-| 59 | 45 | Jessica Venable |
-| 60 | 44 | Jasmine Kenney |
-| 61 | 43 | Chyrisse Norton |
-| 62 | 42 | bubbles |
-| 63 | 42 | Marta Savchuk |
-| 64 | 42 | TJ Hire |
+| 58 | 46 | TJ Hire |
+| 59 | 46 | Mjhays |
+| 60 | 45 | Jessica Venable |
+| 61 | 44 | Jasmine Kenney |
+| 62 | 43 | Chyrisse Norton |
+| 63 | 42 | bubbles |
+| 64 | 42 | Marta Savchuk |
 | 65 | 41 | Lindsay Lucas |
-| 66 | 40 | Veronica Martin Trinkle |
+| 66 | 40 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 67 | 40 | Paula Marcus Delsigne |
-| 68 | 40 | Ding Adventurer |
-| 69 | 40 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 70 | 40 | Tiffany Banks Jennings |
-| 71 | 40 | Shanny Anny |
-| 72 | 40 | Kennedy Sandifer |
-| 73 | 40 | Rigoberto Sanchez Jr. |
+| 68 | 40 | Veronica Martin Trinkle |
+| 69 | 40 | Rigoberto Sanchez Jr. |
+| 70 | 40 | Ding Adventurer |
+| 71 | 40 | Tiffany Banks Jennings |
+| 72 | 40 | Shanny Anny |
+| 73 | 40 | Kennedy Sandifer |
 | 74 | 40 | Joy Young |
-| 75 | 38 | Abby Jensen |
-| 76 | 38 | jardo |
-| 77 | 38 | funhon2829 |
+| 75 | 38 | jardo |
+| 76 | 38 | funhon2829 |
+| 77 | 38 | Abby Jensen |
 | 78 | 37 | Amy Villalpando |
 | 79 | 37 | Elizabeth Ostrom |
 | 80 | 37 | Lavella Tburg |
-| 81 | 36 | Peachy Matchgrid |
-| 82 | 36 | Libby |
-| 83 | 35 | Mandy |
-| 84 | 35 | Chipper Stacky |
+| 81 | 36 | Libby |
+| 82 | 36 | Peachy Matchgrid |
+| 83 | 35 | Snippy Basepiece |
+| 84 | 35 | Elizabeth Churning |
 | 85 | 35 | Brenda A |
-| 86 | 35 | Bow Babe |
-| 87 | 35 | Elizabeth Churning |
-| 88 | 35 | Snippy Basepiece |
+| 86 | 35 | Mandy |
+| 87 | 35 | Chipper Stacky |
+| 88 | 35 | Bow Babe |
 | 89 | 33 | JoJo |
-| 90 | 33 | Dai Bo |
-| 91 | 33 | Adam Charles |
-| 92 | 31 | Arv |
-| 93 | 31 | lovethedana |
+| 90 | 33 | Adam Charles |
+| 91 | 33 | Dai Bo |
+| 92 | 31 | lovethedana |
+| 93 | 31 | Arv |
 | 94 | 30 | Scott Siple |
-| 95 | 30 | Julia Freeman |
-| 96 | 30 | Jake Ching |
-| 97 | 30 | Jazzy Piecebuilder |
+| 95 | 30 | Jazzy Piecebuilder |
+| 96 | 30 | Julia Freeman |
+| 97 | 30 | Jake Ching |
 | 98 | 30 | Brooke Sunderhaus |
 | 99 | 30 | GoddessCandy |
 | 100 | 30 | Beth Smith |
@@ -223,99 +223,99 @@
 | 215 | 12 | Qing DG |
 | 216 | 12 | Ms. Blue |
 | 217 | 11 | Haley Bell |
-| 218 | 11 | Zany Blockfall |
-| 219 | 11 | jess |
-| 220 | 11 | Joshua Madinger |
-| 221 | 11 | Adam McClellan |
-| 222 | 11 | Priscilla Dae Jones |
-| 223 | 11 | Lisa Duncan |
-| 224 | 11 | Jackson Karen |
-| 225 | 10 | Slugger26 |
+| 218 | 11 | Priscilla Dae Jones |
+| 219 | 11 | Lisa Duncan |
+| 220 | 11 | Adam McClellan |
+| 221 | 11 | Zany Blockfall |
+| 222 | 11 | Joshua Madinger |
+| 223 | 11 | Jackson Karen |
+| 224 | 11 | jess |
+| 225 | 10 | Cheeky Snapfit |
 | 226 | 10 | Monica Galli |
-| 227 | 10 | Cheeky Snapfit |
+| 227 | 10 | Ashley Leonard |
 | 228 | 10 | Tatyahna Cameron |
-| 229 | 10 | Ashley Leonard |
-| 230 | 10 | Leticia Martinez Kelley |
-| 231 | 10 | Lori Schlachter Segui |
-| 232 | 10 | Zesty Faller |
-| 233 | 10 | Scott Smith |
+| 229 | 10 | Zesty Faller |
+| 230 | 10 | Slugger26 |
+| 231 | 10 | Leticia Martinez Kelley |
+| 232 | 10 | Scott Smith |
+| 233 | 10 | Lori Schlachter Segui |
 | 234 | 9 | BluSkyes |
-| 235 | 9 | KEILANIU |
-| 236 | 9 | candypants |
-| 237 | 9 | Lauressia MsLovaba Neil |
-| 238 | 9 | Nyiesha Aikens |
-| 239 | 9 | Kourtney Zarback |
-| 240 | 9 | Victoria Barkefelt |
-| 241 | 9 | Danielle Thompkins |
-| 242 | 9 | Jason Pence |
-| 243 | 9 | Malcolm Annias Flamer |
-| 244 | 9 | Chipper Matchclear |
-| 245 | 9 | Tyler Bechtel |
-| 246 | 9 | Cassandra King Tyler |
-| 247 | 9 | Allen Anthony Rollins |
-| 248 | 8 | Carrie Panzeter |
-| 249 | 8 | Paula Martin |
-| 250 | 8 | Charde Parnell |
-| 251 | 8 | Staci Walker |
+| 235 | 9 | Malcolm Annias Flamer |
+| 236 | 9 | Kourtney Zarback |
+| 237 | 9 | Jason Pence |
+| 238 | 9 | candypants |
+| 239 | 9 | Nyiesha Aikens |
+| 240 | 9 | Chipper Matchclear |
+| 241 | 9 | Victoria Barkefelt |
+| 242 | 9 | Danielle Thompkins |
+| 243 | 9 | Tyler Bechtel |
+| 244 | 9 | KEILANIU |
+| 245 | 9 | Cassandra King Tyler |
+| 246 | 9 | Allen Anthony Rollins |
+| 247 | 9 | Lauressia MsLovaba Neil |
+| 248 | 8 | Staci Walker |
+| 249 | 8 | Charde Parnell |
+| 250 | 8 | Moneygirl |
+| 251 | 8 | Jenny Carrier |
 | 252 | 8 | Joseph Guzman |
-| 253 | 8 | Whitney Mudge |
-| 254 | 8 | Moneygirl |
-| 255 | 8 | BuzyBee |
-| 256 | 8 | Jenny Carrier |
-| 257 | 8 | TinaMarie Montone |
-| 258 | 7 | Destiny Brady |
-| 259 | 7 | Melissa Williams Blevins |
-| 260 | 7 | Autumn Leslie |
-| 261 | 7 | CaliGames |
-| 262 | 7 | Kari Thompson Rock |
+| 253 | 8 | Paula Martin |
+| 254 | 8 | TinaMarie Montone |
+| 255 | 8 | Whitney Mudge |
+| 256 | 8 | Carrie Panzeter |
+| 257 | 8 | BuzyBee |
+| 258 | 7 | Tiff Vs Tiffany |
+| 259 | 7 | Marc |
+| 260 | 7 | carole57 |
+| 261 | 7 | Lamarr Drayton |
+| 262 | 7 | Amanda |
 | 263 | 7 | Fuzzy |
-| 264 | 7 | Cool Cornerfall |
-| 265 | 7 | Marc |
-| 266 | 7 | Tiff Vs Tiffany |
-| 267 | 7 | Mzjudged Niteowl |
-| 268 | 7 | Lamarr Drayton |
-| 269 | 7 | Hannibal Musa |
+| 264 | 7 | Hannibal Musa |
+| 265 | 7 | Autumn Leslie |
+| 266 | 7 | Mcg |
+| 267 | 7 | Kendra KJ Joyner |
+| 268 | 7 | Destiny Brady |
+| 269 | 7 | Cool Cornerfall |
 | 270 | 7 | Dandy Crasher |
-| 271 | 7 | Mcg |
-| 272 | 7 | Kendra KJ Joyner |
-| 273 | 7 | Amanda |
-| 274 | 7 | Teresa Longwell |
-| 275 | 7 | carole57 |
-| 276 | 6 | Chill Tilefall |
-| 277 | 6 | Elaina Temple |
-| 278 | 6 | Lazy Gridroll |
-| 279 | 6 | EKS |
-| 280 | 6 | Weeping Angel |
-| 281 | 6 | Breezy |
-| 282 | 6 | Snippy Clearbuilder |
-| 283 | 6 | Kristin Smith |
-| 284 | 6 | Plucky Patternfit |
-| 285 | 6 | Abimbola Bimbo |
-| 286 | 6 | Spicy Patternbuilder |
-| 287 | 6 | Shiny Framezone |
-| 288 | 6 | cat |
-| 289 | 6 | Jess |
-| 290 | 5 | Confused Kitty |
-| 291 | 5 | Michael H. M. Skropka |
-| 292 | 5 | Goofy Basegrid |
-| 293 | 5 | Cool Snapzone |
-| 294 | 5 | ImmortelT |
-| 295 | 5 | Kevin Leary |
-| 296 | 5 | Tiffany Riccio |
-| 297 | 5 | Sheena Hachmann |
-| 298 | 5 | Anita Johnson |
-| 299 | 5 | Leslie Nicole |
-| 300 | 5 | Crystal Ali |
-| 301 | 5 | Ashley Grace |
-| 302 | 5 | Jaz Sky |
-| 303 | 5 | Shannon Grisson |
+| 271 | 7 | CaliGames |
+| 272 | 7 | Teresa Longwell |
+| 273 | 7 | Mzjudged Niteowl |
+| 274 | 7 | Kari Thompson Rock |
+| 275 | 7 | Melissa Williams Blevins |
+| 276 | 6 | Weeping Angel |
+| 277 | 6 | Lazy Gridroll |
+| 278 | 6 | Chill Tilefall |
+| 279 | 6 | Plucky Patternfit |
+| 280 | 6 | Elaina Temple |
+| 281 | 6 | Kristin Smith |
+| 282 | 6 | Shiny Framezone |
+| 283 | 6 | Jess |
+| 284 | 6 | cat |
+| 285 | 6 | Spicy Patternbuilder |
+| 286 | 6 | Abimbola Bimbo |
+| 287 | 6 | Breezy |
+| 288 | 6 | Snippy Clearbuilder |
+| 289 | 6 | EKS |
+| 290 | 5 | Goofy Basegrid |
+| 291 | 5 | Hayley |
+| 292 | 5 | Sheena Hachmann |
+| 293 | 5 | Tiffany Riccio |
+| 294 | 5 | Anita Johnson |
+| 295 | 5 | David Smith |
+| 296 | 5 | Michael H. M. Skropka |
+| 297 | 5 | Confused Kitty |
+| 298 | 5 | ImmortelT |
+| 299 | 5 | Cool Snapzone |
+| 300 | 5 | Keyata Wright |
+| 301 | 5 | Leslie Nicole |
+| 302 | 5 | Shea |
+| 303 | 5 | Somthin |
 | 304 | 5 | Susan L. Brown |
-| 305 | 5 | Shea |
-| 306 | 5 | Hayley |
-| 307 | 5 | David Smith |
-| 308 | 5 | Somthin |
-| 309 | 5 | Bouncy Swiper |
-| 310 | 5 | Keyata Wright |
+| 305 | 5 | Shannon Grisson |
+| 306 | 5 | Bouncy Swiper |
+| 307 | 5 | Jaz Sky |
+| 308 | 5 | Kevin Leary |
+| 309 | 5 | Ashley Grace |
+| 310 | 5 | Crystal Ali |
 
 ---
 *Standings created by tournaments datasource generation tool*

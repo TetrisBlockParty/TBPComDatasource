@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 15:22:11 UTC
+# Standings for team1 as of 2026-03-13 15:22:33 UTC
 
 **Total Participants:** 292
 
@@ -87,22 +87,22 @@
 | 79 | 36 | Hyper Drop |
 | 80 | 36 | Glitzy Linkpiece |
 | 81 | 36 | Michael Wood |
-| 82 | 35 | Edna Clinton |
-| 83 | 35 | Maxwell Hall |
+| 82 | 35 | Maxwell Hall |
+| 83 | 35 | Edna Clinton |
 | 84 | 35 | Tammy Straka |
 | 85 | 34 | Porkobello |
 | 86 | 33 | Sassy Wrecker |
 | 87 | 33 | Zesty Balancepiece |
 | 88 | 33 | Delzie J Leigh |
-| 89 | 32 | Penny Morrical |
-| 90 | 32 | Trishatta YoungDiva Watkins |
+| 89 | 32 | Trishatta YoungDiva Watkins |
+| 90 | 32 | Penny Morrical |
 | 91 | 32 | iceman |
 | 92 | 32 | Chummy Rollzone |
 | 93 | 31 | Jonathan Gaffaney |
-| 94 | 30 | Beth Anderson |
-| 95 | 30 | QueenBee |
-| 96 | 30 | Chris Kelly |
-| 97 | 30 | DoodleBug |
+| 94 | 30 | DoodleBug |
+| 95 | 30 | Beth Anderson |
+| 96 | 30 | QueenBee |
+| 97 | 30 | Chris Kelly |
 | 98 | 30 | kito23 |
 | 99 | 30 | Dreamy Matchclear |
 | 100 | 30 | Greenie |
@@ -111,49 +111,49 @@
 | 103 | 29 | Teresa Wolf |
 | 104 | 29 | Amanda Diegel |
 | 105 | 29 | Tim Raper |
-| 106 | 28 | Nikita Nelson |
-| 107 | 27 | Bean |
-| 108 | 27 | Xande NO Lie Williams |
+| 106 | 29 | Shiny Party |
+| 107 | 28 | Nikita Nelson |
+| 108 | 27 | Bean |
 | 109 | 27 | Mufi25 |
-| 110 | 27 | Peachy Brick |
-| 111 | 26 | Bubbly Patterner |
-| 112 | 26 | Spicy Clearpiece |
-| 113 | 26 | Plucky Dashgrid |
-| 114 | 26 | Christina Davis |
-| 115 | 24 | SLAPNUTZ |
-| 116 | 24 | Shiny Party |
+| 110 | 27 | Xande NO Lie Williams |
+| 111 | 27 | Peachy Brick |
+| 112 | 26 | Bubbly Patterner |
+| 113 | 26 | Spicy Clearpiece |
+| 114 | 26 | Plucky Dashgrid |
+| 115 | 26 | Christina Davis |
+| 116 | 24 | SLAPNUTZ |
 | 117 | 24 | Vicki Dougie |
 | 118 | 24 | Jodie Peterson |
 | 119 | 24 | Eddie Morales |
-| 120 | 23 | Witty Wipegrid |
-| 121 | 23 | Jessica Lang |
+| 120 | 23 | Tabitha Cornelious |
+| 121 | 23 | Witty Wipegrid |
 | 122 | 23 | Laidene Joseph |
-| 123 | 23 | Fluffy |
-| 124 | 23 | Tabitha Cornelious |
+| 123 | 23 | Jessica Lang |
+| 124 | 23 | Fluffy |
 | 125 | 22 | Giddy Swiper |
-| 126 | 21 | Nerdy Shatterline |
-| 127 | 21 | Big rick !!! |
+| 126 | 21 | Big rick !!! |
+| 127 | 21 | Nerdy Shatterline |
 | 128 | 21 | Ellieshay |
-| 129 | 20 | Death |
-| 130 | 20 | Mean Melly |
-| 131 | 20 | Daniel McKay |
-| 132 | 20 | John Morris |
-| 133 | 20 | Selena Rollin |
-| 134 | 20 | Garry Junior Davis |
-| 135 | 20 | Mighty Patternbuilder |
-| 136 | 20 | Lauren Bond |
-| 137 | 20 | Beka |
-| 138 | 20 | Simmone T. Kadiri |
-| 139 | 20 | Jess Rose |
-| 140 | 20 | Kindra Sinclair |
-| 141 | 20 | Ann Brock LaPorte |
-| 142 | 20 | Bubba |
+| 129 | 20 | Kindra Sinclair |
+| 130 | 20 | Selena Rollin |
+| 131 | 20 | Garry Junior Davis |
+| 132 | 20 | Lauren Bond |
+| 133 | 20 | Simmone T. Kadiri |
+| 134 | 20 | Jess Rose |
+| 135 | 20 | Beka |
+| 136 | 20 | Oscar Ferguson |
+| 137 | 20 | John Morris |
+| 138 | 20 | Ann Brock LaPorte |
+| 139 | 20 | Bubba |
+| 140 | 20 | Mean Melly |
+| 141 | 20 | Mighty Patternbuilder |
+| 142 | 20 | Death |
 | 143 | 20 | Christen Lawrick |
-| 144 | 20 | Oscar Ferguson |
+| 144 | 20 | Daniel McKay |
 | 145 | 19 | Jessica Marie Long |
-| 146 | 19 | Loverlylove |
-| 147 | 19 | Perky Glidebuilder |
-| 148 | 19 | Epic Fallzone |
+| 146 | 19 | Perky Glidebuilder |
+| 147 | 19 | Epic Fallzone |
+| 148 | 19 | Loverlylove |
 | 149 | 18 | Gregg Scott |
 | 150 | 18 | Matt Aguilar |
 | 151 | 18 | Jacob Phillips |
