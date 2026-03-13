@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 14:52:34 UTC
+# Standings for team1 as of 2026-03-13 14:53:12 UTC
 
 **Total Participants:** 250
 
@@ -73,75 +73,75 @@
 | 65 | 38 | Frilly Climber |
 | 66 | 38 | Megan Bennett |
 | 67 | 37 | Marie Helman |
-| 68 | 36 | Hyper Drop |
-| 69 | 36 | Michael Wood |
-| 70 | 36 | Glitzy Linkpiece |
-| 71 | 35 | Edna Clinton |
-| 72 | 35 | Tammy Straka |
-| 73 | 35 | Maxwell Hall |
-| 74 | 33 | Sassy Wrecker |
+| 68 | 36 | Glitzy Linkpiece |
+| 69 | 36 | Hyper Drop |
+| 70 | 36 | Michael Wood |
+| 71 | 35 | 1_Roxanne_3 |
+| 72 | 35 | Maxwell Hall |
+| 73 | 35 | Tammy Straka |
+| 74 | 35 | Edna Clinton |
 | 75 | 33 | Zesty Balancepiece |
-| 76 | 32 | Trishatta YoungDiva Watkins |
-| 77 | 32 | iceman |
-| 78 | 32 | Chummy Rollzone |
-| 79 | 30 | Greenie |
-| 80 | 30 | raffyG |
-| 81 | 30 | kito23 |
+| 76 | 33 | Sassy Wrecker |
+| 77 | 32 | Trishatta YoungDiva Watkins |
+| 78 | 32 | iceman |
+| 79 | 32 | Chummy Rollzone |
+| 80 | 30 | Chris Kelly |
+| 81 | 30 | raffyG |
 | 82 | 30 | Snappy Linkroll |
-| 83 | 30 | Chris Kelly |
-| 84 | 30 | Dreamy Matchclear |
-| 85 | 30 | DoodleBug |
-| 86 | 30 | Beth Anderson |
-| 87 | 29 | Amanda Diegel |
+| 83 | 30 | kito23 |
+| 84 | 30 | Greenie |
+| 85 | 30 | Dreamy Matchclear |
+| 86 | 30 | DoodleBug |
+| 87 | 30 | Beth Anderson |
 | 88 | 29 | Teresa Wolf |
-| 89 | 29 | Delzie J Leigh |
-| 90 | 29 | Tim Raper |
-| 91 | 29 | 1_Roxanne_3 |
+| 89 | 29 | Tim Raper |
+| 90 | 29 | Amanda Diegel |
+| 91 | 29 | Delzie J Leigh |
 | 92 | 27 | Bean |
 | 93 | 26 | Spicy Clearpiece |
-| 94 | 26 | Plucky Dashgrid |
-| 95 | 26 | Bubbly Patterner |
-| 96 | 26 | Witty Clusterfit |
+| 94 | 26 | Witty Clusterfit |
+| 95 | 26 | Plucky Dashgrid |
+| 96 | 26 | Bubbly Patterner |
 | 97 | 25 | Jonathan Gaffaney |
 | 98 | 24 | Eddie Morales |
-| 99 | 24 | Vicki Dougie |
+| 99 | 24 | Porkobello |
 | 100 | 24 | Jodie Peterson |
-| 101 | 24 | Porkobello |
-| 102 | 23 | Elyse YL |
-| 103 | 23 | Fluffy |
-| 104 | 23 | Laidene Joseph |
-| 105 | 23 | Witty Wipegrid |
+| 101 | 24 | Vicki Dougie |
+| 102 | 23 | Witty Wipegrid |
+| 103 | 23 | Laidene Joseph |
+| 104 | 23 | Fluffy |
+| 105 | 23 | Elyse YL |
 | 106 | 22 | Giddy Swiper |
 | 107 | 21 | Nerdy Shatterline |
 | 108 | 21 | Ellieshay |
-| 109 | 20 | Oscar Ferguson |
-| 110 | 20 | Mighty Patternbuilder |
+| 109 | 20 | John Morris |
+| 110 | 20 | Big rick !!! |
 | 111 | 20 | Garry Junior Davis |
-| 112 | 20 | Big rick !!! |
-| 113 | 20 | Mean Melly |
-| 114 | 20 | Jess Rose |
-| 115 | 20 | Tisha Cammack |
-| 116 | 20 | Selena Rollin |
-| 117 | 20 | Bubba |
-| 118 | 20 | Ann Brock LaPorte |
-| 119 | 20 | Kindra Sinclair |
-| 120 | 20 | SLAPNUTZ |
-| 121 | 20 | John Morris |
-| 122 | 20 | Christen Lawrick |
+| 112 | 20 | Tisha Cammack |
+| 113 | 20 | Christen Lawrick |
+| 114 | 20 | Selena Rollin |
+| 115 | 20 | Mean Melly |
+| 116 | 20 | Mighty Patternbuilder |
+| 117 | 20 | Oscar Ferguson |
+| 118 | 20 | Kindra Sinclair |
+| 119 | 20 | Jess Rose |
+| 120 | 20 | Ann Brock LaPorte |
+| 121 | 20 | Bubba |
+| 122 | 20 | SLAPNUTZ |
 | 123 | 19 | Loverlylove |
 | 124 | 19 | Epic Fallzone |
 | 125 | 18 | Xande NO Lie Williams |
-| 126 | 18 | Heather Bell |
-| 127 | 18 | Bingo Wingo |
-| 128 | 18 | Jacob Phillips |
-| 129 | 18 | Joy Bloodworth |
-| 130 | 18 | Timothy Long |
+| 126 | 18 | Matt Aguilar |
+| 127 | 18 | Jessica Marie Long |
+| 128 | 18 | Timothy Long |
+| 129 | 18 | Heather Bell |
+| 130 | 18 | Gregg Scott |
 | 131 | 18 | Ryry |
-| 132 | 18 | Jessica Marie Long |
-| 133 | 18 | Matt Aguilar |
-| 134 | 18 | Gregg Scott |
-| 135 | 17 | Lee Sipelii |
-| 136 | 17 | TheKBr0 |
+| 132 | 18 | Joy Bloodworth |
+| 133 | 18 | Jacob Phillips |
+| 134 | 18 | Bingo Wingo |
+| 135 | 17 | TheKBr0 |
+| 136 | 17 | Lee Sipelii |
 | 137 | 17 | Tracy Priceless Gholston |
 | 138 | 17 | Lisa Marie Sansom |
 | 139 | 16 | Bearman |
@@ -242,20 +242,20 @@
 | 234 | 6 | cac |
 | 235 | 6 | Tyrell Harvin |
 | 236 | 6 | MamaPhee |
-| 237 | 5 | Jennifer Brown |
+| 237 | 5 | Sarajo Clauson |
 | 238 | 5 | Flashy Clicker |
 | 239 | 5 | Samantha Bugg Stitcher |
 | 240 | 5 | Cynthia Herrmann Egland |
-| 241 | 5 | Armoni |
-| 242 | 5 | Terry Dill |
-| 243 | 5 | freakyjoe |
-| 244 | 5 | Sarajo Clauson |
+| 241 | 5 | Slinky Dashgrid |
+| 242 | 5 | Armoni |
+| 243 | 5 | Terry Dill |
+| 244 | 5 | freakyjoe |
 | 245 | 5 | Ras David |
 | 246 | 5 | MissySai TooRude Ladson |
 | 247 | 5 | Perky Clusterbuilder |
 | 248 | 5 | Victoria Montenegro Martinez |
 | 249 | 5 | Armin Muhamed |
-| 250 | 5 | Slinky Dashgrid |
+| 250 | 5 | Jennifer Brown |
 
 ---
 *Standings created by tournaments datasource generation tool*
