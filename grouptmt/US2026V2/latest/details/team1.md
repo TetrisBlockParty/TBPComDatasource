@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 18:36:13 UTC
+# Standings for team1 as of 2026-03-13 18:36:35 UTC
 
 **Total Participants:** 529
 
@@ -11,9 +11,9 @@
 | 3 | 2253 | William George Weglage III |
 | 4 | 2012 | Hyper |
 | 5 | 941 | Kris Hudelson |
-| 6 | 886 | Tashanna Harvey |
-| 7 | 855 | Amanda Sheppard |
-| 8 | 800 | Erica Lepisto Anderson |
+| 6 | 900 | Erica Lepisto Anderson |
+| 7 | 886 | Tashanna Harvey |
+| 8 | 855 | Amanda Sheppard |
 | 9 | 729 | Vistabrat |
 | 10 | 692 | phrmblk24 |
 | 11 | 611 | Amy Roche |
@@ -82,8 +82,8 @@
 | 74 | 74 | Hasty Lift |
 | 75 | 74 | Karmyst |
 | 76 | 72 | Sam Steig |
-| 77 | 71 | Kellia S Johnson |
-| 78 | 71 | Happy Shatterfit |
+| 77 | 72 | Happy Shatterfit |
+| 78 | 71 | Kellia S Johnson |
 | 79 | 70 | Amy R Clinton |
 | 80 | 69 | Elyse YL |
 | 81 | 68 | Witty Wipegrid |
