@@ -1,18 +1,18 @@
-# Standings for team4 as of 2026-03-13 12:23:10 UTC
+# Standings for team4 as of 2026-03-13 12:24:11 UTC
 
-**Total Participants:** 71
+**Total Participants:** 74
 
 ## Participant Scores
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 300 | Moniqie Kearse |
-| 2 | 220 | Steve Laigner |
-| 3 | 213 | Woody |
+| 1 | 314 | Woody |
+| 2 | 300 | Moniqie Kearse |
+| 3 | 220 | Steve Laigner |
 | 4 | 140 | Zeirela Selazno |
-| 5 | 96 | Joseph L Johnson |
-| 6 | 86 | Patricia White |
-| 7 | 80 | LaKisha Anderson |
+| 5 | 110 | LaKisha Anderson |
+| 6 | 96 | Joseph L Johnson |
+| 7 | 86 | Patricia White |
 | 8 | 79 | Kortney Fiorucci |
 | 9 | 60 | Sergio Torres |
 | 10 | 58 | Anthony B Youmans |
@@ -26,57 +26,60 @@
 | 18 | 31 | Holland Ashlee |
 | 19 | 30 | Perach Alima Shoa |
 | 20 | 30 | Tipsy Blocker |
-| 21 | 30 | Lakisha Odom |
-| 22 | 30 | Liseth Vasquez |
+| 21 | 30 | Liseth Vasquez |
+| 22 | 30 | Lakisha Odom |
 | 23 | 29 | BigMan87 |
 | 24 | 28 | Travis Kellan |
 | 25 | 26 | cookieesor |
 | 26 | 25 | Tipsy Tumbler |
 | 27 | 22 | Madeline Pinton Keen |
-| 28 | 20 | Albee Menina |
+| 28 | 20 | Amanda Grace Agee |
 | 29 | 20 | Julay |
 | 30 | 20 | Lively Rollzone |
-| 31 | 16 | Alyssa Papen |
-| 32 | 15 | Jennjack |
-| 33 | 14 | Laura Loyd Parcher |
-| 34 | 14 | Blockhead |
-| 35 | 14 | Mimi |
-| 36 | 14 | Dreamy Riserpiece |
-| 37 | 12 | Twot |
-| 38 | 12 | Clever Fitline |
-| 39 | 12 | Destiny Elizabeth Seidle |
-| 40 | 12 | Maryann Vac |
-| 41 | 12 | Joy |
-| 42 | 12 | Chuck Fobert |
-| 43 | 11 | Jessica Espinosa Olesh |
-| 44 | 10 | Cheeky Pop |
-| 45 | 10 | Ron Shaffer |
-| 46 | 10 | Sadie Reeves |
-| 47 | 10 | Joshua Orr |
-| 48 | 10 | Chipper Tiler |
-| 49 | 9 | Donna Caparimo |
-| 50 | 9 | POV7 |
-| 51 | 9 | Tracey Ann Johnson |
-| 52 | 9 | Jennifer Hopper |
-| 53 | 9 | Cool Fitzone |
-| 54 | 8 | Tammy |
-| 55 | 8 | benjiwrld<3 |
-| 56 | 8 | Nessa Fonseca |
+| 31 | 20 | Albee Menina |
+| 32 | 16 | Alyssa Papen |
+| 33 | 15 | Diamond Applewhite |
+| 34 | 15 | Jennjack |
+| 35 | 14 | Blockhead |
+| 36 | 14 | Mimi |
+| 37 | 14 | Dreamy Riserpiece |
+| 38 | 14 | Laura Loyd Parcher |
+| 39 | 12 | Clever Fitline |
+| 40 | 12 | Twot |
+| 41 | 12 | Destiny Elizabeth Seidle |
+| 42 | 12 | Joy |
+| 43 | 12 | Maryann Vac |
+| 44 | 12 | Chuck Fobert |
+| 45 | 11 | Jessica Espinosa Olesh |
+| 46 | 10 | Cheeky Pop |
+| 47 | 10 | Sadie Reeves |
+| 48 | 10 | Joshua Orr |
+| 49 | 10 | Chipper Tiler |
+| 50 | 10 | Ron Shaffer |
+| 51 | 9 | Donna Caparimo |
+| 52 | 9 | George Nutt |
+| 53 | 9 | POV7 |
+| 54 | 9 | Tracey Ann Johnson |
+| 55 | 9 | Jennifer Hopper |
+| 56 | 9 | Cool Fitzone |
 | 57 | 8 | Randi Woldin-Speedling |
-| 58 | 7 | Vdot |
-| 59 | 7 | Felix Skelton |
-| 60 | 6 | Liz |
-| 61 | 6 | Diamond Applewhite |
-| 62 | 6 | Jessica Renee Artley |
-| 63 | 6 | Heather Finnefrock |
-| 64 | 6 | Big T |
-| 65 | 5 | Erin Sabol |
-| 66 | 5 | Jazzy Framezone |
-| 67 | 5 | Jason Dickens |
-| 68 | 5 | Cranky Grid |
+| 58 | 8 | Tammy |
+| 59 | 8 | benjiwrld<3 |
+| 60 | 8 | Nessa Fonseca |
+| 61 | 7 | Felix Skelton |
+| 62 | 7 | Vdot |
+| 63 | 6 | Big T |
+| 64 | 6 | Heather Finnefrock |
+| 65 | 6 | Jessica Renee Artley |
+| 66 | 6 | Karen Denen |
+| 67 | 6 | Liz |
+| 68 | 5 | Jason Dickens |
 | 69 | 5 | Chris Prothro |
-| 70 | 5 | Michael Campbell |
-| 71 | 5 | Dan |
+| 70 | 5 | Erin Sabol |
+| 71 | 5 | Michael Campbell |
+| 72 | 5 | Jazzy Framezone |
+| 73 | 5 | Cranky Grid |
+| 74 | 5 | Dan |
 
 ---
 *Standings created by tournaments datasource generation tool*
