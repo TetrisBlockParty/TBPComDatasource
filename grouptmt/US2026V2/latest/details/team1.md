@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 17:20:33 UTC
+# Standings for team1 as of 2026-03-13 17:21:12 UTC
 
 **Total Participants:** 440
 
@@ -137,15 +137,15 @@
 | 129 | 38 | Megan Bennett |
 | 130 | 38 | Frilly Climber |
 | 131 | 38 | Christina Davis |
-| 132 | 37 | Maxwell Hall |
-| 133 | 36 | Michael Wood |
-| 134 | 36 | Poppy Lift |
-| 135 | 36 | Steven Ray Real |
-| 136 | 36 | Dreamy Matchclear |
-| 137 | 36 | Hyper Drop |
-| 138 | 36 | Glitzy Linkpiece |
-| 139 | 35 | Zany Mover |
-| 140 | 35 | Kimmy White |
+| 132 | 37 | Kimmy White |
+| 133 | 37 | Maxwell Hall |
+| 134 | 36 | Michael Wood |
+| 135 | 36 | Poppy Lift |
+| 136 | 36 | Steven Ray Real |
+| 137 | 36 | Dreamy Matchclear |
+| 138 | 36 | Hyper Drop |
+| 139 | 36 | Glitzy Linkpiece |
+| 140 | 35 | Zany Mover |
 | 141 | 35 | Edna Clinton |
 | 142 | 35 | Tammy Straka |
 | 143 | 35 | Dawn Hoffman |
@@ -158,24 +158,24 @@
 | 150 | 33 | Zesty Balancepiece |
 | 151 | 33 | Nick R Johnson |
 | 152 | 33 | Delzie J Leigh |
-| 153 | 32 | Trishatta YoungDiva Watkins |
-| 154 | 32 | Chummy Rollzone |
-| 155 | 32 | MamaPhee |
+| 153 | 32 | MamaPhee |
+| 154 | 32 | Trishatta YoungDiva Watkins |
+| 155 | 32 | Chummy Rollzone |
 | 156 | 32 | Penny Morrical |
 | 157 | 32 | Jonathan Gaffaney |
-| 158 | 30 | Jason Garnatz |
-| 159 | 30 | Perky Glidebuilder |
-| 160 | 30 | Snappy Linkroll |
-| 161 | 30 | Greenie |
-| 162 | 30 | kito23 |
-| 163 | 30 | Chris Kelly |
-| 164 | 30 | DoodleBug |
+| 158 | 30 | Chris Kelly |
+| 159 | 30 | Jason Garnatz |
+| 160 | 30 | Perky Glidebuilder |
+| 161 | 30 | Snappy Linkroll |
+| 162 | 30 | Greenie |
+| 163 | 30 | DoodleBug |
+| 164 | 30 | kito23 |
 | 165 | 30 | Beth Anderson |
 | 166 | 30 | QueenBee |
 | 167 | 30 | Kimberly Goncalves |
 | 168 | 30 | Jodie Peterson |
-| 169 | 29 | Sabrina Frazier |
-| 170 | 29 | Althea Louise |
+| 169 | 29 | Althea Louise |
+| 170 | 29 | Sabrina Frazier |
 | 171 | 29 | Beavis715 |
 | 172 | 29 | Tim Raper |
 | 173 | 29 | Amanda Diegel |
@@ -391,61 +391,61 @@
 | 383 | 7 | Josh Barringer |
 | 384 | 7 | Christie Reynolds |
 | 385 | 7 | Herm Junior |
-| 386 | 7 | Missy Lynn |
+| 386 | 7 | Bouncy Tilerpiece |
 | 387 | 7 | MrsW |
-| 388 | 7 | meh |
-| 389 | 7 | Damion Woods |
-| 390 | 7 | Randy Bowers |
-| 391 | 7 | Jennifer Kime |
-| 392 | 7 | April McGuffie |
-| 393 | 7 | Darlene |
-| 394 | 7 | Bouncy Tilerpiece |
+| 388 | 7 | Cool Base |
+| 389 | 7 | meh |
+| 390 | 7 | Damion Woods |
+| 391 | 7 | Randy Bowers |
+| 392 | 7 | Missy Lynn |
+| 393 | 7 | Jennifer Kime |
+| 394 | 7 | April McGuffie |
 | 395 | 7 | freakyjoe |
-| 396 | 7 | waylow |
-| 397 | 7 | key |
-| 398 | 7 | Cool Base |
-| 399 | 6 | Randy Clevenger |
-| 400 | 6 | Breezy Ivy |
+| 396 | 7 | key |
+| 397 | 7 | waylow |
+| 398 | 7 | Darlene |
+| 399 | 6 | Dizzy Pattern |
+| 400 | 6 | Jpapi |
 | 401 | 6 | ajx |
-| 402 | 6 | Dizzy Pattern |
+| 402 | 6 | Breezy Ivy |
 | 403 | 6 | Jack Mattiace |
 | 404 | 6 | Slinky Setter |
 | 405 | 6 | Monica Blu |
-| 406 | 6 | Jody Jackson |
-| 407 | 6 | Kristen Rhoads |
-| 408 | 6 | Tjango |
+| 406 | 6 | Kristen Rhoads |
+| 407 | 6 | Jody Jackson |
+| 408 | 6 | Randy Clevenger |
 | 409 | 6 | cac |
-| 410 | 6 | Jpapi |
-| 411 | 6 | Tyrell Harvin |
-| 412 | 6 | Erin Hodges Plumb |
-| 413 | 6 | Breezy Block |
-| 414 | 6 | Amber Jackson |
-| 415 | 6 | mrkw |
-| 416 | 6 | Antoinette Rhinesmith |
-| 417 | 6 | Austin Wilson |
-| 418 | 6 | Gary Francis Schaffer Jr |
-| 419 | 6 | Lil H |
-| 420 | 6 | flip |
-| 421 | 6 | Velt Richardson |
-| 422 | 6 | Snippy Tilerpiece |
+| 410 | 6 | Tyrell Harvin |
+| 411 | 6 | Snippy Tilerpiece |
+| 412 | 6 | Velt Richardson |
+| 413 | 6 | flip |
+| 414 | 6 | Lil H |
+| 415 | 6 | Gary Francis Schaffer Jr |
+| 416 | 6 | Austin Wilson |
+| 417 | 6 | Antoinette Rhinesmith |
+| 418 | 6 | mrkw |
+| 419 | 6 | Breezy Block |
+| 420 | 6 | Amber Jackson |
+| 421 | 6 | Erin Hodges Plumb |
+| 422 | 6 | Tjango |
 | 423 | 5 | Fancy Tilefall |
-| 424 | 5 | Samantha Bugg Stitcher |
-| 425 | 5 | Slinky Dashgrid |
-| 426 | 5 | Sarajo Clauson |
-| 427 | 5 | Troy Gussler |
-| 428 | 5 | Angela Renea Lester |
-| 429 | 5 | Armoni |
-| 430 | 5 | Slinky Stacky |
-| 431 | 5 | Tony Lighthizer |
-| 432 | 5 | Lulu C Harp |
-| 433 | 5 | Ras David |
+| 424 | 5 | Slinky Dashgrid |
+| 425 | 5 | Samantha Bugg Stitcher |
+| 426 | 5 | Ronald Przytulski |
+| 427 | 5 | Terry Dill |
+| 428 | 5 | Troy Gussler |
+| 429 | 5 | Sarajo Clauson |
+| 430 | 5 | MissySai TooRude Ladson |
+| 431 | 5 | Perky Clusterbuilder |
+| 432 | 5 | Victoria Montenegro Martinez |
+| 433 | 5 | Armin Muhamed |
 | 434 | 5 | Jennifer Brown |
-| 435 | 5 | Victoria Montenegro Martinez |
-| 436 | 5 | Ronald Przytulski |
-| 437 | 5 | Perky Clusterbuilder |
-| 438 | 5 | MissySai TooRude Ladson |
-| 439 | 5 | Armin Muhamed |
-| 440 | 5 | Terry Dill |
+| 435 | 5 | Ras David |
+| 436 | 5 | Lulu C Harp |
+| 437 | 5 | Tony Lighthizer |
+| 438 | 5 | Slinky Stacky |
+| 439 | 5 | Armoni |
+| 440 | 5 | Angela Renea Lester |
 
 ---
 *Standings created by tournaments datasource generation tool*
