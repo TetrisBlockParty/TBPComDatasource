@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 19:20:14 UTC
+# Standings for team1 as of 2026-03-13 19:20:35 UTC
 
 **Total Participants:** 595
 
@@ -43,9 +43,9 @@
 | 35 | 192 | Ramon Salazar |
 | 36 | 180 | Cheeky Crusher |
 | 37 | 176 | Sarah Stanonik |
-| 38 | 171 | Jessi Sauer |
-| 39 | 170 | @n@luvmakin |
-| 40 | 170 | Peachy Brick |
+| 38 | 172 | Peachy Brick |
+| 39 | 171 | Jessi Sauer |
+| 40 | 170 | @n@luvmakin |
 | 41 | 170 | Shawna Days |
 | 42 | 163 | Amber Zeller Rice |
 | 43 | 161 | Nutty Cascadefit |
@@ -266,83 +266,83 @@
 | 258 | 27 | Joy Bloodworth |
 | 259 | 27 | Melissa Arrellano |
 | 260 | 27 | Nerdy Shatterline |
-| 261 | 26 | Angela Brown Babin |
+| 261 | 26 | Jessica Russell |
 | 262 | 26 | Bubbly Patterner |
 | 263 | 26 | Cassie Lathem |
-| 264 | 26 | Christi Ames |
-| 265 | 26 | Plucky Dashgrid |
-| 266 | 26 | Amber Nicole |
-| 267 | 26 | Oscar Ferguson |
-| 268 | 26 | Spicy Clearpiece |
-| 269 | 26 | Rose Anna |
-| 270 | 26 | Jessica Russell |
-| 271 | 25 | PennyCandee |
-| 272 | 25 | Aaron Arenivaz |
-| 273 | 25 | Stacy Rodriguez |
-| 274 | 25 | Haley Anne |
-| 275 | 25 | Melissa Madison |
-| 276 | 25 | Jessica Lang |
+| 264 | 26 | Bri Jackson |
+| 265 | 26 | Christi Ames |
+| 266 | 26 | Plucky Dashgrid |
+| 267 | 26 | Amber Nicole |
+| 268 | 26 | Angela Brown Babin |
+| 269 | 26 | Oscar Ferguson |
+| 270 | 26 | Spicy Clearpiece |
+| 271 | 26 | Rose Anna |
+| 272 | 25 | Stacy Rodriguez |
+| 273 | 25 | PennyCandee |
+| 274 | 25 | Melissa Madison |
+| 275 | 25 | Jessica Lang |
+| 276 | 25 | Haley Anne |
 | 277 | 25 | Carl Hampton |
-| 278 | 25 | Pam Jennings Herzog |
-| 279 | 25 | Crystal Swigart |
-| 280 | 25 | Rocky |
-| 281 | 24 | SLAPNUTZ |
-| 282 | 24 | Zesty Edgepiece |
-| 283 | 24 | Vicki Dougie |
-| 284 | 24 | Colleen McFadden Moldenhauer |
-| 285 | 24 | ssr |
-| 286 | 24 | Eddie Morales |
-| 287 | 24 | Amy Hollinger |
-| 288 | 24 | Becky Coker |
-| 289 | 23 | David Campbell |
-| 290 | 23 | Big rick !!! |
-| 291 | 23 | April McGuffie |
-| 292 | 23 | p |
-| 293 | 23 | Dawn Fike |
-| 294 | 23 | Andie Galindo |
-| 295 | 23 | Tammy Griffee |
-| 296 | 23 | Tabitha Cornelious |
-| 297 | 23 | Laidene Joseph |
-| 298 | 23 | Bri Jackson |
-| 299 | 22 | SAP |
+| 278 | 25 | Aaron Arenivaz |
+| 279 | 25 | Pam Jennings Herzog |
+| 280 | 25 | Crystal Swigart |
+| 281 | 25 | Rocky |
+| 282 | 24 | ssr |
+| 283 | 24 | Zesty Edgepiece |
+| 284 | 24 | SLAPNUTZ |
+| 285 | 24 | Vicki Dougie |
+| 286 | 24 | Colleen McFadden Moldenhauer |
+| 287 | 24 | Eddie Morales |
+| 288 | 24 | Amy Hollinger |
+| 289 | 24 | Becky Coker |
+| 290 | 23 | David Campbell |
+| 291 | 23 | Laidene Joseph |
+| 292 | 23 | Tammy Griffee |
+| 293 | 23 | Tabitha Cornelious |
+| 294 | 23 | Big rick !!! |
+| 295 | 23 | Dawn Fike |
+| 296 | 23 | April McGuffie |
+| 297 | 23 | p |
+| 298 | 23 | Andie Galindo |
+| 299 | 22 | Sandra Link-Gable |
 | 300 | 22 | Hoppy Builderpiece |
-| 301 | 22 | Sandra Link-Gable |
-| 302 | 22 | Brave Piecebuilder |
-| 303 | 22 | Boldy Clicky |
-| 304 | 22 | Steffi Chris Dacones |
-| 305 | 22 | Deb Horwath |
-| 306 | 22 | Aj Fredenburg |
+| 301 | 22 | Brave Piecebuilder |
+| 302 | 22 | Steffi Chris Dacones |
+| 303 | 22 | Deb Horwath |
+| 304 | 22 | SAP |
+| 305 | 22 | Aj Fredenburg |
+| 306 | 22 | Boldy Clicky |
 | 307 | 22 | Noah Lalonde |
 | 308 | 21 | CHR |
 | 309 | 21 | Jessica Marie Long |
-| 310 | 21 | Pervis Boyd |
-| 311 | 21 | Matthew Allan |
-| 312 | 20 | tiffany |
-| 313 | 20 | Death |
-| 314 | 20 | Allena Craft |
-| 315 | 20 | Snapdragon |
-| 316 | 20 | Beka |
-| 317 | 20 | Jamie Jury |
-| 318 | 20 | Smelly |
-| 319 | 20 | Jess Rose |
-| 320 | 20 | Smashanator |
-| 321 | 20 | mrkw |
-| 322 | 20 | John Morris |
-| 323 | 20 | Giddy Clearbuilder |
-| 324 | 20 | Edda-Jo Wenneman Dobbs |
-| 325 | 20 | Brat |
-| 326 | 20 | Christen Lawrick |
-| 327 | 20 | Shawn Septer |
-| 328 | 20 | Bubba |
-| 329 | 20 | Ronald Przytulski |
-| 330 | 20 | Mean Melly |
-| 331 | 20 | Damion Woods |
-| 332 | 20 | Garry Junior Davis |
-| 333 | 20 | Kindra Sinclair |
-| 334 | 20 | Rebecca Martin |
-| 335 | 20 | Danielle Maner |
-| 336 | 20 | Cleopatra Sims |
-| 337 | 20 | LT |
+| 310 | 21 | Matthew Allan |
+| 311 | 21 | Pervis Boyd |
+| 312 | 20 | Death |
+| 313 | 20 | John Morris |
+| 314 | 20 | Edda-Jo Wenneman Dobbs |
+| 315 | 20 | Giddy Clearbuilder |
+| 316 | 20 | Smashanator |
+| 317 | 20 | Brat |
+| 318 | 20 | Jess Rose |
+| 319 | 20 | Christen Lawrick |
+| 320 | 20 | Smelly |
+| 321 | 20 | Jamie Jury |
+| 322 | 20 | Shawn Septer |
+| 323 | 20 | Beka |
+| 324 | 20 | Snapdragon |
+| 325 | 20 | Bubba |
+| 326 | 20 | tiffany |
+| 327 | 20 | Ronald Przytulski |
+| 328 | 20 | mrkw |
+| 329 | 20 | Mean Melly |
+| 330 | 20 | LT |
+| 331 | 20 | Cleopatra Sims |
+| 332 | 20 | Danielle Maner |
+| 333 | 20 | Rebecca Martin |
+| 334 | 20 | Damion Woods |
+| 335 | 20 | Garry Junior Davis |
+| 336 | 20 | Allena Craft |
+| 337 | 20 | Kindra Sinclair |
 | 338 | 19 | Alexandria Ritch |
 | 339 | 19 | Kendra Newton |
 | 340 | 19 | Epic Fallzone |
