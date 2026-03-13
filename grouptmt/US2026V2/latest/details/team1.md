@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 14:54:12 UTC
+# Standings for team1 as of 2026-03-13 14:54:32 UTC
 
 **Total Participants:** 250
 
@@ -89,45 +89,45 @@
 | 81 | 30 | Greenie |
 | 82 | 30 | Snappy Linkroll |
 | 83 | 30 | Dreamy Matchclear |
-| 84 | 30 | Chris Kelly |
-| 85 | 30 | DoodleBug |
-| 86 | 30 | raffyG |
-| 87 | 30 | kito23 |
-| 88 | 30 | Beth Anderson |
-| 89 | 29 | Teresa Wolf |
-| 90 | 29 | Delzie J Leigh |
-| 91 | 29 | Amanda Diegel |
-| 92 | 29 | Tim Raper |
-| 93 | 27 | Witty Clusterfit |
-| 94 | 27 | Bean |
-| 95 | 26 | Bubbly Patterner |
-| 96 | 26 | Plucky Dashgrid |
+| 84 | 30 | Tisha Cammack |
+| 85 | 30 | Chris Kelly |
+| 86 | 30 | DoodleBug |
+| 87 | 30 | raffyG |
+| 88 | 30 | kito23 |
+| 89 | 30 | Beth Anderson |
+| 90 | 29 | Teresa Wolf |
+| 91 | 29 | Delzie J Leigh |
+| 92 | 29 | Amanda Diegel |
+| 93 | 29 | Tim Raper |
+| 94 | 27 | Witty Clusterfit |
+| 95 | 27 | Bean |
+| 96 | 26 | Bubbly Patterner |
 | 97 | 26 | Spicy Clearpiece |
-| 98 | 25 | Jonathan Gaffaney |
-| 99 | 24 | Eddie Morales |
+| 98 | 26 | Plucky Dashgrid |
+| 99 | 25 | Jonathan Gaffaney |
 | 100 | 24 | Porkobello |
-| 101 | 24 | Jodie Peterson |
-| 102 | 24 | Vicki Dougie |
-| 103 | 23 | Witty Wipegrid |
-| 104 | 23 | Fluffy |
-| 105 | 23 | Laidene Joseph |
-| 106 | 22 | Giddy Swiper |
-| 107 | 21 | Ellieshay |
+| 101 | 24 | Vicki Dougie |
+| 102 | 24 | Eddie Morales |
+| 103 | 24 | Jodie Peterson |
+| 104 | 23 | Witty Wipegrid |
+| 105 | 23 | Fluffy |
+| 106 | 23 | Laidene Joseph |
+| 107 | 22 | Giddy Swiper |
 | 108 | 21 | Nerdy Shatterline |
-| 109 | 20 | Selena Rollin |
-| 110 | 20 | Jess Rose |
-| 111 | 20 | Mighty Patternbuilder |
-| 112 | 20 | Tisha Cammack |
-| 113 | 20 | SLAPNUTZ |
-| 114 | 20 | John Morris |
-| 115 | 20 | Bubba |
-| 116 | 20 | Oscar Ferguson |
-| 117 | 20 | Ann Brock LaPorte |
-| 118 | 20 | Kindra Sinclair |
-| 119 | 20 | Mean Melly |
-| 120 | 20 | Christen Lawrick |
-| 121 | 20 | Garry Junior Davis |
-| 122 | 20 | Big rick !!! |
+| 109 | 21 | Ellieshay |
+| 110 | 20 | Mean Melly |
+| 111 | 20 | Big rick !!! |
+| 112 | 20 | Garry Junior Davis |
+| 113 | 20 | Oscar Ferguson |
+| 114 | 20 | Christen Lawrick |
+| 115 | 20 | Mighty Patternbuilder |
+| 116 | 20 | Kindra Sinclair |
+| 117 | 20 | Jess Rose |
+| 118 | 20 | Selena Rollin |
+| 119 | 20 | SLAPNUTZ |
+| 120 | 20 | John Morris |
+| 121 | 20 | Bubba |
+| 122 | 20 | Ann Brock LaPorte |
 | 123 | 19 | Epic Fallzone |
 | 124 | 19 | Loverlylove |
 | 125 | 18 | Bingo Wingo |
@@ -223,18 +223,18 @@
 | 215 | 7 | Jennifer Kime |
 | 216 | 7 | MrsW |
 | 217 | 6 | Breezy Ivy |
-| 218 | 6 | Randy Clevenger |
-| 219 | 6 | Monica Blu |
-| 220 | 6 | Robert Coulter |
+| 218 | 6 | Robert Coulter |
+| 219 | 6 | Randy Clevenger |
+| 220 | 6 | Monica Blu |
 | 221 | 6 | Slinky Setter |
-| 222 | 6 | Zuul Gatekeeper |
-| 223 | 6 | Jody Jackson |
-| 224 | 6 | Dizzy Pattern |
-| 225 | 6 | Liz M Durfee |
-| 226 | 6 | Amber Jackson |
-| 227 | 6 | Poppy Lift |
-| 228 | 6 | ajx |
-| 229 | 6 | Tjango |
+| 222 | 6 | Jody Jackson |
+| 223 | 6 | Zuul Gatekeeper |
+| 224 | 6 | Tjango |
+| 225 | 6 | Dizzy Pattern |
+| 226 | 6 | Liz M Durfee |
+| 227 | 6 | Amber Jackson |
+| 228 | 6 | Poppy Lift |
+| 229 | 6 | ajx |
 | 230 | 6 | Freddie Alicea |
 | 231 | 6 | Jack Mattiace |
 | 232 | 6 | Antoinette Rhinesmith |
@@ -244,18 +244,18 @@
 | 236 | 6 | MamaPhee |
 | 237 | 5 | Jennifer Brown |
 | 238 | 5 | Flashy Clicker |
-| 239 | 5 | Slinky Dashgrid |
-| 240 | 5 | Samantha Bugg Stitcher |
-| 241 | 5 | Terry Dill |
-| 242 | 5 | freakyjoe |
-| 243 | 5 | Sarajo Clauson |
-| 244 | 5 | Ras David |
-| 245 | 5 | MissySai TooRude Ladson |
-| 246 | 5 | Perky Clusterbuilder |
-| 247 | 5 | Victoria Montenegro Martinez |
-| 248 | 5 | Armin Muhamed |
-| 249 | 5 | Cynthia Herrmann Egland |
-| 250 | 5 | Armoni |
+| 239 | 5 | Samantha Bugg Stitcher |
+| 240 | 5 | Cynthia Herrmann Egland |
+| 241 | 5 | Armoni |
+| 242 | 5 | Terry Dill |
+| 243 | 5 | freakyjoe |
+| 244 | 5 | Sarajo Clauson |
+| 245 | 5 | Ras David |
+| 246 | 5 | MissySai TooRude Ladson |
+| 247 | 5 | Perky Clusterbuilder |
+| 248 | 5 | Victoria Montenegro Martinez |
+| 249 | 5 | Armin Muhamed |
+| 250 | 5 | Slinky Dashgrid |
 
 ---
 *Standings created by tournaments datasource generation tool*
