@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 13:00:34 UTC
+# Standings for team1 as of 2026-03-13 13:01:10 UTC
 
 **Total Participants:** 115
 
@@ -11,9 +11,9 @@
 | 3 | 412 | Amy Dial Brown |
 | 4 | 394 | Dizzy Stagger |
 | 5 | 266 | Tashanna Harvey |
-| 6 | 201 | Hasbro Bros |
-| 7 | 123 | Megan Klinkner |
-| 8 | 122 | Amy Roche |
+| 6 | 210 | Hasbro Bros |
+| 7 | 162 | Amy Roche |
+| 8 | 123 | Megan Klinkner |
 | 9 | 110 | Katherine Walton |
 | 10 | 81 | Pheezy |
 | 11 | 78 | Tanya Carpenter-Reynolds |
@@ -51,11 +51,11 @@
 | 43 | 27 | Bean |
 | 44 | 26 | Bold Zonegrid |
 | 45 | 26 | Bubbly Patterner |
-| 46 | 25 | Teresa Wolf |
-| 47 | 22 | Giddy Swiper |
-| 48 | 20 | Kindra Sinclair |
-| 49 | 20 | Mean Melly |
-| 50 | 20 | @n@luvmakin |
+| 46 | 25 | @n@luvmakin |
+| 47 | 25 | Teresa Wolf |
+| 48 | 22 | Giddy Swiper |
+| 49 | 20 | Kindra Sinclair |
+| 50 | 20 | Mean Melly |
 | 51 | 18 | Jacob Phillips |
 | 52 | 18 | Ryry |
 | 53 | 18 | Bingo Wingo |
@@ -66,20 +66,20 @@
 | 58 | 16 | Anne Garcia |
 | 59 | 15 | Nikki Robinson |
 | 60 | 15 | Ellen Maxwell Capstaff |
-| 61 | 14 | Amber Nicole |
-| 62 | 14 | Ernest Jordan |
-| 63 | 14 | Beth Anderson |
-| 64 | 14 | Tim Raper |
+| 61 | 14 | Ernest Jordan |
+| 62 | 14 | Beth Anderson |
+| 63 | 14 | Tim Raper |
+| 64 | 14 | Amber Nicole |
 | 65 | 14 | Elyse YL |
 | 66 | 13 | Natasha Velasquez Gabriel |
-| 67 | 12 | Walter Beltran |
-| 68 | 12 | James Burda |
-| 69 | 12 | Cool Dasher |
-| 70 | 12 | Alexandria Ritch |
-| 71 | 12 | Big rick !!! |
+| 67 | 12 | Alexandria Ritch |
+| 68 | 12 | Big rick !!! |
+| 69 | 12 | Walter Beltran |
+| 70 | 12 | Cool Dasher |
+| 71 | 12 | James Burda |
 | 72 | 12 | ssr |
-| 73 | 11 | Boldy Clicky |
-| 74 | 11 | Hyper Drop |
+| 73 | 11 | Hyper Drop |
+| 74 | 11 | Boldy Clicky |
 | 75 | 10 | Giles McNair |
 | 76 | 10 | Oscar Ferguson |
 | 77 | 10 | Hecate Trimora |
@@ -99,28 +99,28 @@
 | 91 | 8 | Crafty Clearfit |
 | 92 | 8 | Elizabeth Hughes |
 | 93 | 7 | Herm Junior |
-| 94 | 7 | MrsW |
-| 95 | 7 | Michael Felker |
-| 96 | 7 | Jennifer Kime |
-| 97 | 6 | Delzie J Leigh |
+| 94 | 7 | Jennifer Kime |
+| 95 | 7 | MrsW |
+| 96 | 7 | Michael Felker |
+| 97 | 6 | Liz M Durfee |
 | 98 | 6 | Antoinette Rhinesmith |
 | 99 | 6 | Rebekah LeiAnn Bonsell |
 | 100 | 6 | Tjango |
 | 101 | 6 | Jody Jackson |
 | 102 | 6 | Slinky Setter |
-| 103 | 6 | Randy Clevenger |
-| 104 | 6 | Monica Blu |
-| 105 | 6 | Liz M Durfee |
+| 103 | 6 | Delzie J Leigh |
+| 104 | 6 | Randy Clevenger |
+| 105 | 6 | Monica Blu |
 | 106 | 6 | Sunny Swiper |
 | 107 | 6 | Zuul Gatekeeper |
 | 108 | 6 | Dizzy Pattern |
 | 109 | 6 | Poppy Lift |
-| 110 | 5 | Samantha Bugg Stitcher |
-| 111 | 5 | Flashy Clicker |
-| 112 | 5 | MissySai TooRude Ladson |
-| 113 | 5 | Plucky Dashgrid |
-| 114 | 5 | Armin Muhamed |
-| 115 | 5 | freakyjoe |
+| 110 | 5 | MissySai TooRude Ladson |
+| 111 | 5 | Samantha Bugg Stitcher |
+| 112 | 5 | Flashy Clicker |
+| 113 | 5 | Armin Muhamed |
+| 114 | 5 | freakyjoe |
+| 115 | 5 | Plucky Dashgrid |
 
 ---
 *Standings created by tournaments datasource generation tool*
