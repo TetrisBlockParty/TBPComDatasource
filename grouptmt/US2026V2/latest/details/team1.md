@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 15:14:13 UTC
+# Standings for team1 as of 2026-03-13 15:14:32 UTC
 
 **Total Participants:** 280
 
@@ -270,22 +270,22 @@
 | 262 | 6 | cac |
 | 263 | 6 | Kristen Rhoads |
 | 264 | 5 | Jennifer Brown |
-| 265 | 5 | Ras David |
-| 266 | 5 | Armoni |
+| 265 | 5 | Armoni |
+| 266 | 5 | Ras David |
 | 267 | 5 | Samantha Bugg Stitcher |
 | 268 | 5 | Flashy Clicker |
 | 269 | 5 | Cynthia Herrmann Egland |
 | 270 | 5 | Armin Muhamed |
 | 271 | 5 | Slinky Dashgrid |
-| 272 | 5 | Slinky Stacky |
-| 273 | 5 | Perky Clusterbuilder |
-| 274 | 5 | MissySai TooRude Ladson |
-| 275 | 5 | Terry Dill |
-| 276 | 5 | freakyjoe |
-| 277 | 5 | Angela Renea Lester |
-| 278 | 5 | Sarajo Clauson |
-| 279 | 5 | Kellia S Johnson |
-| 280 | 5 | Victoria Montenegro Martinez |
+| 272 | 5 | Kellia S Johnson |
+| 273 | 5 | Sarajo Clauson |
+| 274 | 5 | Angela Renea Lester |
+| 275 | 5 | freakyjoe |
+| 276 | 5 | Terry Dill |
+| 277 | 5 | Victoria Montenegro Martinez |
+| 278 | 5 | MissySai TooRude Ladson |
+| 279 | 5 | Perky Clusterbuilder |
+| 280 | 5 | Slinky Stacky |
 
 ---
 *Standings created by tournaments datasource generation tool*
