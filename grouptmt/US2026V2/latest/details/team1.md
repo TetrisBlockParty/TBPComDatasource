@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 13:04:13 UTC
+# Standings for team1 as of 2026-03-13 13:04:34 UTC
 
 **Total Participants:** 120
 
@@ -44,10 +44,10 @@
 | 36 | 32 | Goofy Linkblock |
 | 37 | 32 | Tig |
 | 38 | 32 | iceman |
-| 39 | 30 | Chris Kelly |
-| 40 | 30 | kito23 |
-| 41 | 30 | raffyG |
-| 42 | 30 | Albert Josef Toves Means Jr. |
+| 39 | 31 | Albert Josef Toves Means Jr. |
+| 40 | 30 | Chris Kelly |
+| 41 | 30 | kito23 |
+| 42 | 30 | raffyG |
 | 43 | 29 | Teresa Wolf |
 | 44 | 28 | Maxwell Hall |
 | 45 | 27 | Bean |
@@ -106,26 +106,26 @@
 | 98 | 7 | Jennifer Kime |
 | 99 | 7 | MrsW |
 | 100 | 7 | Michael Felker |
-| 101 | 6 | Tyrell Harvin |
-| 102 | 6 | Antoinette Rhinesmith |
-| 103 | 6 | Rebekah LeiAnn Bonsell |
-| 104 | 6 | Tjango |
-| 105 | 6 | Jody Jackson |
-| 106 | 6 | Slinky Setter |
-| 107 | 6 | Delzie J Leigh |
-| 108 | 6 | Randy Clevenger |
-| 109 | 6 | Monica Blu |
-| 110 | 6 | Poppy Lift |
-| 111 | 6 | Sunny Swiper |
-| 112 | 6 | Zuul Gatekeeper |
+| 101 | 6 | Liz M Durfee |
+| 102 | 6 | Poppy Lift |
+| 103 | 6 | Tyrell Harvin |
+| 104 | 6 | Antoinette Rhinesmith |
+| 105 | 6 | Rebekah LeiAnn Bonsell |
+| 106 | 6 | Tjango |
+| 107 | 6 | Jody Jackson |
+| 108 | 6 | Slinky Setter |
+| 109 | 6 | Delzie J Leigh |
+| 110 | 6 | Randy Clevenger |
+| 111 | 6 | Monica Blu |
+| 112 | 6 | Sunny Swiper |
 | 113 | 6 | Dizzy Pattern |
-| 114 | 6 | Liz M Durfee |
-| 115 | 5 | Dawn Fike |
-| 116 | 5 | Samantha Bugg Stitcher |
-| 117 | 5 | Armin Muhamed |
-| 118 | 5 | MissySai TooRude Ladson |
-| 119 | 5 | freakyjoe |
-| 120 | 5 | Flashy Clicker |
+| 114 | 6 | Zuul Gatekeeper |
+| 115 | 5 | MissySai TooRude Ladson |
+| 116 | 5 | Dawn Fike |
+| 117 | 5 | Samantha Bugg Stitcher |
+| 118 | 5 | Flashy Clicker |
+| 119 | 5 | Armin Muhamed |
+| 120 | 5 | freakyjoe |
 
 ---
 *Standings created by tournaments datasource generation tool*
