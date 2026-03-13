@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 17:28:12 UTC
+# Standings for team1 as of 2026-03-13 17:28:35 UTC
 
 **Total Participants:** 447
 
@@ -50,25 +50,25 @@
 | 42 | 106 | Albert Josef Toves Means Jr. |
 | 43 | 103 | Peachy Brick |
 | 44 | 103 | Amber Zeller Rice |
-| 45 | 100 | Brandy Ridgeway |
-| 46 | 100 | Ann Brock LaPorte |
+| 45 | 100 | Ann Brock LaPorte |
+| 46 | 100 | Brandy Ridgeway |
 | 47 | 99 | Hhholmesjr |
 | 48 | 93 | Krystal Mccoy |
 | 49 | 91 | Walter Beltran |
 | 50 | 88 | Tameka Brown |
 | 51 | 85 | Pheezy |
 | 52 | 85 | Cassandra Latimore |
-| 53 | 80 | Diane |
-| 54 | 80 | Tina Blessed Cage |
-| 55 | 78 | Nanan Nanan |
-| 56 | 78 | NunYa |
-| 57 | 78 | Xande NO Lie Williams |
+| 53 | 83 | Xande NO Lie Williams |
+| 54 | 80 | Diane |
+| 55 | 80 | Tina Blessed Cage |
+| 56 | 78 | Nanan Nanan |
+| 57 | 78 | NunYa |
 | 58 | 76 | Tig |
 | 59 | 74 | Hasty Lift |
 | 60 | 74 | Karmyst |
 | 61 | 71 | Kellia S Johnson |
-| 62 | 70 | Amy R Clinton |
-| 63 | 70 | JustMeNonna |
+| 62 | 70 | JustMeNonna |
+| 63 | 70 | Amy R Clinton |
 | 64 | 69 | Shawna Days |
 | 65 | 68 | Poppy Builderline |
 | 66 | 66 | Lauren Bond |
@@ -321,19 +321,19 @@
 | 313 | 12 | Lush Dasher |
 | 314 | 12 | Debra Reynolds |
 | 315 | 12 | YF Luna |
-| 316 | 12 | Alexandria Ritch |
-| 317 | 12 | Mechelle Bailum |
-| 318 | 11 | Geno Bankroll McGill |
-| 319 | 11 | Pam Salsman |
-| 320 | 11 | Wulfbyte |
-| 321 | 11 | Yvonne Buie |
-| 322 | 11 | Sabrina Mansfield |
-| 323 | 11 | Kevin Sees |
-| 324 | 11 | Trisha Gallagher |
-| 325 | 11 | Roberta Arnold |
-| 326 | 11 | Frank Jusyandfair |
-| 327 | 11 | Maju Restini |
-| 328 | 11 | Crafty Clearfit |
+| 316 | 12 | Crafty Clearfit |
+| 317 | 12 | Alexandria Ritch |
+| 318 | 12 | Mechelle Bailum |
+| 319 | 11 | Geno Bankroll McGill |
+| 320 | 11 | Pam Salsman |
+| 321 | 11 | Wulfbyte |
+| 322 | 11 | Yvonne Buie |
+| 323 | 11 | Sabrina Mansfield |
+| 324 | 11 | Kevin Sees |
+| 325 | 11 | Trisha Gallagher |
+| 326 | 11 | Roberta Arnold |
+| 327 | 11 | Frank Jusyandfair |
+| 328 | 11 | Maju Restini |
 | 329 | 10 | Bryan Dickerson |
 | 330 | 10 | Dish19 |
 | 331 | 10 | KK |
@@ -398,61 +398,61 @@
 | 390 | 7 | Nora Smith |
 | 391 | 7 | Christie Reynolds |
 | 392 | 7 | Herm Junior |
-| 393 | 7 | April McGuffie |
-| 394 | 7 | meh |
+| 393 | 7 | Cool Base |
+| 394 | 7 | key |
 | 395 | 7 | Randy Bowers |
-| 396 | 7 | Jennifer Kime |
+| 396 | 7 | freakyjoe |
 | 397 | 7 | Missy Lynn |
-| 398 | 7 | key |
-| 399 | 7 | freakyjoe |
-| 400 | 7 | Cool Base |
-| 401 | 7 | MrsW |
-| 402 | 7 | waylow |
-| 403 | 7 | Darlene |
+| 398 | 7 | MrsW |
+| 399 | 7 | April McGuffie |
+| 400 | 7 | meh |
+| 401 | 7 | waylow |
+| 402 | 7 | Darlene |
+| 403 | 7 | Jennifer Kime |
 | 404 | 7 | Bouncy Tilerpiece |
-| 405 | 6 | Kristen Rhoads |
-| 406 | 6 | cac |
-| 407 | 6 | Slinky Setter |
-| 408 | 6 | Jody Jackson |
-| 409 | 6 | Jack Mattiace |
-| 410 | 6 | Breezy Block |
-| 411 | 6 | Breezy Ivy |
-| 412 | 6 | ajx |
-| 413 | 6 | Dizzy Pattern |
-| 414 | 6 | Melissa Arrellano |
-| 415 | 6 | Jpapi |
-| 416 | 6 | Monica Blu |
-| 417 | 6 | Randy Clevenger |
-| 418 | 6 | Tjango |
-| 419 | 6 | Tyrell Harvin |
-| 420 | 6 | Erin Hodges Plumb |
-| 421 | 6 | Amber Jackson |
-| 422 | 6 | mrkw |
-| 423 | 6 | Antoinette Rhinesmith |
-| 424 | 6 | Austin Wilson |
-| 425 | 6 | Gary Francis Schaffer Jr |
-| 426 | 6 | flip |
+| 405 | 6 | Breezy Ivy |
+| 406 | 6 | Lil H |
+| 407 | 6 | ajx |
+| 408 | 6 | Dizzy Pattern |
+| 409 | 6 | Melissa Arrellano |
+| 410 | 6 | Jack Mattiace |
+| 411 | 6 | Monica Blu |
+| 412 | 6 | Randy Clevenger |
+| 413 | 6 | Jpapi |
+| 414 | 6 | Slinky Setter |
+| 415 | 6 | Jody Jackson |
+| 416 | 6 | Tjango |
+| 417 | 6 | Erin Hodges Plumb |
+| 418 | 6 | Breezy Block |
+| 419 | 6 | Antoinette Rhinesmith |
+| 420 | 6 | Kristen Rhoads |
+| 421 | 6 | mrkw |
+| 422 | 6 | Amber Jackson |
+| 423 | 6 | Austin Wilson |
+| 424 | 6 | Gary Francis Schaffer Jr |
+| 425 | 6 | flip |
+| 426 | 6 | Tyrell Harvin |
 | 427 | 6 | Velt Richardson |
-| 428 | 6 | Snippy Tilerpiece |
-| 429 | 6 | Lil H |
-| 430 | 5 | Perky Clusterbuilder |
-| 431 | 5 | Slinky Dashgrid |
-| 432 | 5 | Fancy Tilefall |
+| 428 | 6 | cac |
+| 429 | 6 | Snippy Tilerpiece |
+| 430 | 5 | Angela Renea Lester |
+| 431 | 5 | Armoni |
+| 432 | 5 | Slinky Stacky |
 | 433 | 5 | Samantha Bugg Stitcher |
-| 434 | 5 | Terry Dill |
-| 435 | 5 | Troy Gussler |
-| 436 | 5 | Sarajo Clauson |
-| 437 | 5 | MissySai TooRude Ladson |
-| 438 | 5 | Victoria Montenegro Martinez |
-| 439 | 5 | Armin Muhamed |
-| 440 | 5 | Ronald Przytulski |
-| 441 | 5 | Jennifer Brown |
-| 442 | 5 | Ras David |
-| 443 | 5 | Lulu C Harp |
-| 444 | 5 | Tony Lighthizer |
-| 445 | 5 | Slinky Stacky |
-| 446 | 5 | Armoni |
-| 447 | 5 | Angela Renea Lester |
+| 434 | 5 | Tony Lighthizer |
+| 435 | 5 | Perky Clusterbuilder |
+| 436 | 5 | Slinky Dashgrid |
+| 437 | 5 | Lulu C Harp |
+| 438 | 5 | Ras David |
+| 439 | 5 | Terry Dill |
+| 440 | 5 | Jennifer Brown |
+| 441 | 5 | Ronald Przytulski |
+| 442 | 5 | Troy Gussler |
+| 443 | 5 | Sarajo Clauson |
+| 444 | 5 | Armin Muhamed |
+| 445 | 5 | Victoria Montenegro Martinez |
+| 446 | 5 | MissySai TooRude Ladson |
+| 447 | 5 | Fancy Tilefall |
 
 ---
 *Standings created by tournaments datasource generation tool*
