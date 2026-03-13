@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-13 17:32:13 UTC
+# Standings for team1 as of 2026-03-13 17:32:34 UTC
 
 **Total Participants:** 449
 
@@ -402,59 +402,59 @@
 | 394 | 7 | Christie Reynolds |
 | 395 | 7 | Josh Barringer |
 | 396 | 7 | Cool Base |
-| 397 | 7 | key |
-| 398 | 7 | freakyjoe |
+| 397 | 7 | MrsW |
+| 398 | 7 | meh |
 | 399 | 7 | Randy Bowers |
-| 400 | 7 | Missy Lynn |
-| 401 | 7 | MrsW |
+| 400 | 7 | Jennifer Kime |
+| 401 | 7 | Missy Lynn |
 | 402 | 7 | April McGuffie |
-| 403 | 7 | meh |
-| 404 | 7 | waylow |
-| 405 | 7 | Darlene |
-| 406 | 7 | Jennifer Kime |
+| 403 | 7 | key |
+| 404 | 7 | freakyjoe |
+| 405 | 7 | waylow |
+| 406 | 7 | Darlene |
 | 407 | 7 | Bouncy Tilerpiece |
-| 408 | 6 | Jack Mattiace |
-| 409 | 6 | Breezy Block |
-| 410 | 6 | Breezy Ivy |
-| 411 | 6 | ajx |
-| 412 | 6 | Dizzy Pattern |
-| 413 | 6 | Kristen Rhoads |
-| 414 | 6 | Monica Blu |
-| 415 | 6 | Randy Clevenger |
-| 416 | 6 | Jpapi |
-| 417 | 6 | Slinky Setter |
-| 418 | 6 | Jody Jackson |
-| 419 | 6 | Tjango |
-| 420 | 6 | Erin Hodges Plumb |
-| 421 | 6 | Lil H |
-| 422 | 6 | Antoinette Rhinesmith |
-| 423 | 6 | cac |
-| 424 | 6 | Snippy Tilerpiece |
-| 425 | 6 | Velt Richardson |
-| 426 | 6 | flip |
+| 408 | 6 | Jpapi |
+| 409 | 6 | Dizzy Pattern |
+| 410 | 6 | ajx |
+| 411 | 6 | Breezy Ivy |
+| 412 | 6 | Randy Clevenger |
+| 413 | 6 | Jack Mattiace |
+| 414 | 6 | Kristen Rhoads |
+| 415 | 6 | Slinky Setter |
+| 416 | 6 | cac |
+| 417 | 6 | Jody Jackson |
+| 418 | 6 | Monica Blu |
+| 419 | 6 | Tyrell Harvin |
+| 420 | 6 | Tjango |
+| 421 | 6 | Amber Jackson |
+| 422 | 6 | Erin Hodges Plumb |
+| 423 | 6 | Breezy Block |
+| 424 | 6 | mrkw |
+| 425 | 6 | Antoinette Rhinesmith |
+| 426 | 6 | Austin Wilson |
 | 427 | 6 | Gary Francis Schaffer Jr |
-| 428 | 6 | Austin Wilson |
-| 429 | 6 | mrkw |
-| 430 | 6 | Amber Jackson |
-| 431 | 6 | Tyrell Harvin |
-| 432 | 5 | Sarajo Clauson |
-| 433 | 5 | Victoria Montenegro Martinez |
-| 434 | 5 | Samantha Bugg Stitcher |
-| 435 | 5 | MissySai TooRude Ladson |
+| 428 | 6 | flip |
+| 429 | 6 | Lil H |
+| 430 | 6 | Velt Richardson |
+| 431 | 6 | Snippy Tilerpiece |
+| 432 | 5 | Slinky Dashgrid |
+| 433 | 5 | Samantha Bugg Stitcher |
+| 434 | 5 | Fancy Tilefall |
+| 435 | 5 | Troy Gussler |
 | 436 | 5 | Angela Renea Lester |
-| 437 | 5 | Armin Muhamed |
-| 438 | 5 | Armoni |
-| 439 | 5 | Jennifer Brown |
-| 440 | 5 | Slinky Stacky |
-| 441 | 5 | Slinky Dashgrid |
-| 442 | 5 | Fancy Tilefall |
-| 443 | 5 | Tony Lighthizer |
-| 444 | 5 | Ras David |
-| 445 | 5 | Lulu C Harp |
-| 446 | 5 | Ronald Przytulski |
-| 447 | 5 | Tessa N Davis |
+| 437 | 5 | Armoni |
+| 438 | 5 | Slinky Stacky |
+| 439 | 5 | Tessa N Davis |
+| 440 | 5 | Tony Lighthizer |
+| 441 | 5 | Lulu C Harp |
+| 442 | 5 | Ronald Przytulski |
+| 443 | 5 | Ras David |
+| 444 | 5 | Jennifer Brown |
+| 445 | 5 | Armin Muhamed |
+| 446 | 5 | Victoria Montenegro Martinez |
+| 447 | 5 | MissySai TooRude Ladson |
 | 448 | 5 | Terry Dill |
-| 449 | 5 | Troy Gussler |
+| 449 | 5 | Sarajo Clauson |
 
 ---
 *Standings created by tournaments datasource generation tool*
