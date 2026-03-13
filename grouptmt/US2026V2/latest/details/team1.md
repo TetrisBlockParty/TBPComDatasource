@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-03-13 13:50:34 UTC
+# Standings for team1 as of 2026-03-13 13:51:12 UTC
 
-**Total Participants:** 179
+**Total Participants:** 180
 
 ## Participant Scores
 
@@ -72,29 +72,29 @@
 | 64 | 24 | Eddie Morales |
 | 65 | 23 | Witty Wipegrid |
 | 66 | 22 | Giddy Swiper |
-| 67 | 20 | Mighty Patternbuilder |
-| 68 | 20 | Bubba |
-| 69 | 20 | Kindra Sinclair |
-| 70 | 20 | John Morris |
-| 71 | 20 | Ann Brock LaPorte |
-| 72 | 20 | Garry Junior Davis |
-| 73 | 20 | Mean Melly |
-| 74 | 19 | Epic Fallzone |
-| 75 | 18 | Timothy Long |
-| 76 | 18 | Oscar Ferguson |
-| 77 | 18 | Jacob Phillips |
-| 78 | 18 | Ryry |
-| 79 | 18 | Happy Shatterfit |
-| 80 | 18 | Ellieshay |
+| 67 | 21 | Ellieshay |
+| 68 | 20 | Mighty Patternbuilder |
+| 69 | 20 | Bubba |
+| 70 | 20 | Kindra Sinclair |
+| 71 | 20 | John Morris |
+| 72 | 20 | Ann Brock LaPorte |
+| 73 | 20 | Garry Junior Davis |
+| 74 | 20 | Mean Melly |
+| 75 | 19 | Epic Fallzone |
+| 76 | 18 | Timothy Long |
+| 77 | 18 | Oscar Ferguson |
+| 78 | 18 | Jacob Phillips |
+| 79 | 18 | Ryry |
+| 80 | 18 | Happy Shatterfit |
 | 81 | 18 | Bingo Wingo |
 | 82 | 17 | Lee Sipelii |
 | 83 | 17 | Spicy Clearpiece |
 | 84 | 16 | Porkobello |
-| 85 | 16 | Chilly Matchbuilder |
-| 86 | 16 | Sam Steig |
-| 87 | 16 | Anne Garcia |
-| 88 | 16 | Melissa Hart |
-| 89 | 16 | Big rick !!! |
+| 85 | 16 | Sam Steig |
+| 86 | 16 | Chilly Matchbuilder |
+| 87 | 16 | Melissa Hart |
+| 88 | 16 | Big rick !!! |
+| 89 | 16 | Anne Garcia |
 | 90 | 15 | Nerdy Shatterline |
 | 91 | 15 | Ellen Maxwell Capstaff |
 | 92 | 15 | DynamicQuail10 |
@@ -159,32 +159,33 @@
 | 151 | 6 | Slinky Setter |
 | 152 | 6 | Freddie Alicea |
 | 153 | 6 | Tjango |
-| 154 | 6 | Antoinette Rhinesmith |
-| 155 | 6 | Amber Jackson |
-| 156 | 6 | Jack Mattiace |
-| 157 | 6 | Monica Blu |
-| 158 | 6 | Breezy Ivy |
-| 159 | 6 | Sunny Swiper |
-| 160 | 6 | cac |
-| 161 | 6 | Zuul Gatekeeper |
-| 162 | 6 | Dizzy Pattern |
-| 163 | 6 | Liz M Durfee |
+| 154 | 6 | Matt Aguilar |
+| 155 | 6 | Antoinette Rhinesmith |
+| 156 | 6 | Amber Jackson |
+| 157 | 6 | Jack Mattiace |
+| 158 | 6 | Monica Blu |
+| 159 | 6 | Breezy Ivy |
+| 160 | 6 | Sunny Swiper |
+| 161 | 6 | cac |
+| 162 | 6 | Zuul Gatekeeper |
+| 163 | 6 | Dizzy Pattern |
 | 164 | 6 | Kristen Rhoads |
-| 165 | 6 | Poppy Lift |
-| 166 | 6 | ajx |
-| 167 | 5 | Ash Galvan |
-| 168 | 5 | Samantha Bugg Stitcher |
-| 169 | 5 | Flashy Clicker |
-| 170 | 5 | MissySai TooRude Ladson |
-| 171 | 5 | Perky Clusterbuilder |
-| 172 | 5 | Cassandra Latimore |
-| 173 | 5 | Cynthia Herrmann Egland |
-| 174 | 5 | Victoria Montenegro Martinez |
-| 175 | 5 | Jennifer Brown |
-| 176 | 5 | Sarajo Clauson |
-| 177 | 5 | Christopher Wesley |
+| 165 | 6 | Liz M Durfee |
+| 166 | 6 | Poppy Lift |
+| 167 | 6 | ajx |
+| 168 | 5 | Armin Muhamed |
+| 169 | 5 | Samantha Bugg Stitcher |
+| 170 | 5 | Flashy Clicker |
+| 171 | 5 | MissySai TooRude Ladson |
+| 172 | 5 | Perky Clusterbuilder |
+| 173 | 5 | Cassandra Latimore |
+| 174 | 5 | Cynthia Herrmann Egland |
+| 175 | 5 | Victoria Montenegro Martinez |
+| 176 | 5 | Jennifer Brown |
+| 177 | 5 | Sarajo Clauson |
 | 178 | 5 | freakyjoe |
-| 179 | 5 | Armin Muhamed |
+| 179 | 5 | Christopher Wesley |
+| 180 | 5 | Ash Galvan |
 
 ---
 *Standings created by tournaments datasource generation tool*
