@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 05:58:16 UTC
+# Standings for team2 as of 2026-03-14 05:58:39 UTC
 
 **Total Participants:** 1349
 
@@ -88,8 +88,8 @@
 | 80 | 315 | Deb Wasano |
 | 81 | 299 | Mike Carden |
 | 82 | 296 | Katrina Schroeder |
-| 83 | 294 | Adam Charles |
-| 84 | 294 | Ariel Pearson |
+| 83 | 294 | Ariel Pearson |
+| 84 | 294 | Adam Charles |
 | 85 | 291 | Snappy Tiley |
 | 86 | 289 | Jumpy Smasher |
 | 87 | 280 | Loopy Clusterer |
@@ -98,8 +98,8 @@
 | 90 | 270 | lovethedana |
 | 91 | 270 | Slinky Towerer |
 | 92 | 266 | Sheena Hachmann |
-| 93 | 265 | Michael H. M. Skropka |
-| 94 | 265 | Jo Frohwein |
+| 93 | 265 | Jo Frohwein |
+| 94 | 265 | Michael H. M. Skropka |
 | 95 | 264 | Ruby Anne |
 | 96 | 261 | Starr |
 | 97 | 260 | Lori Schlachter Segui |
@@ -107,11 +107,11 @@
 | 99 | 255 | Pixie |
 | 100 | 253 | Khalysta |
 | 101 | 251 | Jami Howard |
-| 102 | 248 | Angela Mindiola |
-| 103 | 248 | Anna Faulkner |
+| 102 | 248 | Anna Faulkner |
+| 103 | 248 | Angela Mindiola |
 | 104 | 245 | Ramen Noodle |
-| 105 | 241 | Nathaniel Hardy |
-| 106 | 241 | Amelia Anderson |
+| 105 | 241 | Amelia Anderson |
+| 106 | 241 | Nathaniel Hardy |
 | 107 | 240 | Guillaume Clermont |
 | 108 | 232 | Sass |
 | 109 | 231 | DJ Bincent |
@@ -123,13 +123,13 @@
 | 115 | 215 | candypants |
 | 116 | 211 | Cleopatra Daniels |
 | 117 | 210 | Laura McPheeters |
-| 118 | 207 | Jenni Garcia-Vogelhut |
-| 119 | 207 | Arisvet Garcia |
-| 120 | 207 | Faith Meade |
-| 121 | 205 | Danielle Mogg |
-| 122 | 205 | Mary Reeves |
-| 123 | 203 | Suffia Alexander |
-| 124 | 203 | Rusty Davis |
+| 118 | 207 | Faith Meade |
+| 119 | 207 | Jenni Garcia-Vogelhut |
+| 120 | 207 | Arisvet Garcia |
+| 121 | 205 | Mary Reeves |
+| 122 | 205 | Danielle Mogg |
+| 123 | 203 | Rusty Davis |
+| 124 | 203 | Suffia Alexander |
 | 125 | 202 | Spunky Snapfit |
 | 126 | 202 | Ess |
 | 127 | 202 | Carmen Jnvm |
@@ -143,94 +143,94 @@
 | 135 | 188 | Leticia Martinez Kelley |
 | 136 | 185 | Bouncy Swiper |
 | 137 | 183 | Jocelynn Marie |
-| 138 | 181 | Paul Hudak |
-| 139 | 181 | Christina Graham |
-| 140 | 180 | Snappy Bridgepiece |
+| 138 | 181 | Christina Graham |
+| 139 | 181 | Paul Hudak |
+| 140 | 180 | Sheena Harris |
 | 141 | 180 | James Hurley Jr. |
-| 142 | 180 | Sheena Harris |
+| 142 | 180 | Snappy Bridgepiece |
 | 143 | 177 | Snippy Towerpiece |
 | 144 | 176 | Tosha Gonzales |
 | 145 | 175 | Ding Adventurer |
 | 146 | 175 | Ben Dove |
-| 147 | 174 | Taghrid Ebeid |
-| 148 | 174 | Brave Matchfit |
-| 149 | 174 | Carmilita Burpo Jordan |
+| 147 | 174 | Brave Matchfit |
+| 148 | 174 | Carmilita Burpo Jordan |
+| 149 | 174 | Taghrid Ebeid |
 | 150 | 173 | Kristina Hill Perez |
 | 151 | 173 | Elizabeth Diraffaele |
 | 152 | 172 | Dineisha Carpenter |
 | 153 | 171 | Fbai |
 | 154 | 170 | Mandy |
 | 155 | 170 | Jazzy Piecebuilder |
-| 156 | 168 | John Matson |
-| 157 | 168 | Lora |
+| 156 | 168 | Lora |
+| 157 | 168 | John Matson |
 | 158 | 167 | Katie Wisecarver |
 | 159 | 166 | Rafael Valentin |
 | 160 | 165 | Liz Wambsgans |
 | 161 | 164 | Beth Smith |
 | 162 | 161 | Hyper Pop |
-| 163 | 161 | Jocelyn Jauregui |
-| 164 | 161 | sweet lil miss |
+| 163 | 161 | sweet lil miss |
+| 164 | 161 | Jocelyn Jauregui |
 | 165 | 160 | Michelle |
-| 166 | 158 | Frothy Linker |
-| 167 | 158 | Julio Alejandro Rodriguez |
+| 166 | 158 | Julio Alejandro Rodriguez |
+| 167 | 158 | Frothy Linker |
 | 168 | 158 | Elaine Webb Graves |
 | 169 | 157 | Shelly |
 | 170 | 156 | Tatyahna Cameron |
 | 171 | 153 | Nicole Grochow |
 | 172 | 152 | Dreamer |
 | 173 | 152 | Courtney Cicoria |
-| 174 | 150 | Sherry Jones |
-| 175 | 150 | Kyesha Goodyear |
-| 176 | 150 | Glitzy Rollblock |
-| 177 | 150 | Tracey Whetstone |
+| 174 | 150 | Kyesha Goodyear |
+| 175 | 150 | Sherry Jones |
+| 176 | 150 | Tracey Whetstone |
+| 177 | 150 | Glitzy Rollblock |
 | 178 | 148 | Alyssa Cox |
-| 179 | 145 | Connie Mohler-Fair |
-| 180 | 145 | Berling Gil |
-| 181 | 145 | Mcg |
-| 182 | 145 | Cynthia Prouse |
-| 183 | 143 | Brave Fallzone |
-| 184 | 143 | Frances Hui |
-| 185 | 143 | Porsche' Nicole |
+| 179 | 145 | Berling Gil |
+| 180 | 145 | Mcg |
+| 181 | 145 | Cynthia Prouse |
+| 182 | 145 | Connie Mohler-Fair |
+| 183 | 143 | Frances Hui |
+| 184 | 143 | Porsche' Nicole |
+| 185 | 143 | Brave Fallzone |
 | 186 | 142 | Jen |
 | 187 | 142 | Christy Merriman Addison |
-| 188 | 141 | Zak Dunn |
-| 189 | 141 | Lateisha Morris |
+| 188 | 141 | Lateisha Morris |
+| 189 | 141 | Zak Dunn |
 | 190 | 140 | Nerdy Blockpiece |
 | 191 | 140 | Sandra Safford |
 | 192 | 140 | Brenda Lee Vander Molen |
 | 193 | 138 | nickle109 |
 | 194 | 136 | Frisky Riserbuilder |
-| 195 | 134 | Aobregon01 |
-| 196 | 134 | Susan Dunn |
-| 197 | 133 | nina |
-| 198 | 133 | JustYvette IsFine |
-| 199 | 132 | Brenda A |
-| 200 | 132 | Ramona Marie Eruera |
-| 201 | 132 | Crystal Brown-Miles |
-| 202 | 131 | Krish Shah |
-| 203 | 131 | Tee Jaleesa |
-| 204 | 130 | Jasmine Kenney |
-| 205 | 130 | Sandy Aragon |
-| 206 | 129 | Peppy Slice |
-| 207 | 129 | Brooke Sunderhaus |
-| 208 | 128 | Snippy Clearbuilder |
-| 209 | 127 | Jesse Olive |
-| 210 | 127 | Christine Lin |
+| 195 | 135 | Gael |
+| 196 | 134 | Aobregon01 |
+| 197 | 134 | Susan Dunn |
+| 198 | 133 | nina |
+| 199 | 133 | JustYvette IsFine |
+| 200 | 132 | Brenda A |
+| 201 | 132 | Ramona Marie Eruera |
+| 202 | 132 | Crystal Brown-Miles |
+| 203 | 131 | Krish Shah |
+| 204 | 131 | Tee Jaleesa |
+| 205 | 130 | Jasmine Kenney |
+| 206 | 130 | Sandy Aragon |
+| 207 | 129 | Peppy Slice |
+| 208 | 129 | Brooke Sunderhaus |
+| 209 | 128 | Snippy Clearbuilder |
+| 210 | 127 | Jesse Olive |
 | 211 | 127 | Tony Tran |
-| 212 | 126 | Tiff Vs Tiffany |
-| 213 | 126 | Paul Beeman |
-| 214 | 126 | Amanda Thomas |
-| 215 | 125 | Isabella Blanco |
-| 216 | 125 | Dreamy Clicky |
-| 217 | 125 | Epic Liner |
-| 218 | 125 | Loony Snapbuild |
-| 219 | 125 | April |
-| 220 | 123 | Christina Freeman |
-| 221 | 122 | Michelle Allers |
-| 222 | 122 | Tanya Abernathy Jackson |
-| 223 | 120 | Twisty Shatter |
-| 224 | 120 | Tyler Werts |
-| 225 | 120 | Gael |
+| 212 | 127 | Christine Lin |
+| 213 | 126 | Tiff Vs Tiffany |
+| 214 | 126 | Paul Beeman |
+| 215 | 126 | Amanda Thomas |
+| 216 | 125 | Isabella Blanco |
+| 217 | 125 | Dreamy Clicky |
+| 218 | 125 | Epic Liner |
+| 219 | 125 | Loony Snapbuild |
+| 220 | 125 | April |
+| 221 | 123 | Christina Freeman |
+| 222 | 122 | Michelle Allers |
+| 223 | 122 | Tanya Abernathy Jackson |
+| 224 | 120 | Twisty Shatter |
+| 225 | 120 | Tyler Werts |
 | 226 | 120 | Tiffany Smith |
 | 227 | 120 | Marinara |
 | 228 | 120 | Vanessa Nguyen |
