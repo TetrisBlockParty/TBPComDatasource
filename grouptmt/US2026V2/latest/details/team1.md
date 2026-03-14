@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 23:56:19 UTC
+# Standings for team1 as of 2026-03-14 23:56:40 UTC
 
 **Total Participants:** 1945
 
@@ -306,9 +306,9 @@
 | 298 | 174 | Julie A Hutchinson |
 | 299 | 173 | Cynthia Petz |
 | 300 | 173 | Josh Twilley |
-| 301 | 171 | Bearman |
-| 302 | 171 | Mary Cerciello |
-| 303 | 171 | Lemonberry |
+| 301 | 172 | Lemonberry |
+| 302 | 171 | Bearman |
+| 303 | 171 | Mary Cerciello |
 | 304 | 170 | Kimmy White |
 | 305 | 170 | Spunky Rollblock |
 | 306 | 169 | Hasty Lift |
