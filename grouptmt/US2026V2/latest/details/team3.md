@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-14 07:58:16 UTC
+# Standings for team3 as of 2026-03-14 07:58:37 UTC
 
 **Total Participants:** 2245
 
@@ -134,14 +134,14 @@
 | 126 | 276 | Tawna Curry |
 | 127 | 275 | Saucy Buildout |
 | 128 | 271 | Santeria Trece Candles |
-| 129 | 270 | Giddy Strikerbuilder |
-| 130 | 270 | Dizzy Gridzone |
+| 129 | 270 | Dizzy Gridzone |
+| 130 | 270 | Giddy Strikerbuilder |
 | 131 | 269 | Kellie |
 | 132 | 268 | Jodi Messere |
 | 133 | 268 | Nery García |
 | 134 | 267 | Denise Rickman |
-| 135 | 266 | Kimmy |
-| 136 | 266 | Miranda Krentz |
+| 135 | 266 | Miranda Krentz |
+| 136 | 266 | Kimmy |
 | 137 | 265 | Casey Noel |
 | 138 | 264 | Serena Catherine Coladonato |
 | 139 | 259 | Jessica Bechler |
@@ -149,26 +149,26 @@
 | 141 | 254 | Emily Davis |
 | 142 | 254 | Mariah Williams |
 | 143 | 252 | blocks bandit |
-| 144 | 248 | Kylene Vigil |
+| 144 | 248 | Arlene Joy Belicina |
 | 145 | 248 | Erica DuPont |
-| 146 | 248 | Arlene Joy Belicina |
+| 146 | 248 | Kylene Vigil |
 | 147 | 246 | Rebecca Hale |
 | 148 | 245 | Paula Murtonen |
 | 149 | 244 | Josiah Fam |
 | 150 | 241 | May Miller |
 | 151 | 241 | Anastacia Rendek |
-| 152 | 239 | Branny |
-| 153 | 239 | Valley Valentino |
-| 154 | 239 | Amanda Marie |
-| 155 | 235 | Shan Marie |
-| 156 | 235 | Mr§.M€€§€€K |
-| 157 | 234 | D.N. Kat |
+| 152 | 239 | Valley Valentino |
+| 153 | 239 | Amanda Marie |
+| 154 | 239 | Branny |
+| 155 | 238 | Sue Peake |
+| 156 | 235 | Shan Marie |
+| 157 | 235 | Mr§.M€€§€€K |
 | 158 | 234 | Erica Harrison |
-| 159 | 233 | Nikki Y. Mason |
-| 160 | 232 | Nicole Gurule |
-| 161 | 231 | Joy Smith |
-| 162 | 230 | Chipper Gridlock |
-| 163 | 229 | Sue Peake |
+| 159 | 234 | D.N. Kat |
+| 160 | 233 | Nikki Y. Mason |
+| 161 | 232 | Nicole Gurule |
+| 162 | 231 | Joy Smith |
+| 163 | 230 | Chipper Gridlock |
 | 164 | 228 | Speedy Snaplink |
 | 165 | 227 | W.A. Simpson |
 | 166 | 225 | Klo |
@@ -176,8 +176,8 @@
 | 168 | 222 | Kimberly Walker |
 | 169 | 222 | Keith Kelley |
 | 170 | 220 | Mistypanda |
-| 171 | 218 | Dizzy Bridgepiece |
-| 172 | 218 | Ty Quarles |
+| 171 | 218 | Ty Quarles |
+| 172 | 218 | Dizzy Bridgepiece |
 | 173 | 214 | Kens Guth |
 | 174 | 211 | Tenille Santiago |
 | 175 | 209 | Laura Melton |
@@ -185,16 +185,16 @@
 | 177 | 205 | Justin Matthew Nash |
 | 178 | 204 | Sean Corsi |
 | 179 | 204 | Zany Snap |
-| 180 | 203 | Daniel Regiani |
-| 181 | 203 | Tma |
-| 182 | 202 | Lucy Lu Green |
-| 183 | 202 | Sarah Freitas |
-| 184 | 200 | Dizzy Glidepiece |
+| 180 | 203 | Tma |
+| 181 | 203 | Daniel Regiani |
+| 182 | 202 | Sarah Freitas |
+| 183 | 202 | Lucy Lu Green |
+| 184 | 200 | Yavonne Trapp |
 | 185 | 200 | Brave Gridzone |
 | 186 | 200 | Kimberly Schall |
 | 187 | 200 | Paul Huber |
 | 188 | 200 | Megan Rathmanner |
-| 189 | 200 | Yavonne Trapp |
+| 189 | 200 | Dizzy Glidepiece |
 | 190 | 199 | MJN |
 | 191 | 197 | Michelle Crawford |
 | 192 | 196 | Brianne Kubeczka |
