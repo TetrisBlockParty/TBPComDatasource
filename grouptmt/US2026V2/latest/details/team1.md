@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 18:46:19 UTC
+# Standings for team1 as of 2026-03-14 18:46:40 UTC
 
 **Total Participants:** 1812
 
@@ -41,14 +41,14 @@
 | 33 | 1706 | Audicia Bailey |
 | 34 | 1700 | Marianne Elizabeth Mills |
 | 35 | 1670 | Quirky Twistline |
-| 36 | 1659 | Diane |
-| 37 | 1634 | Bigmoco |
-| 38 | 1610 | Fancy Shuffler |
-| 39 | 1548 | Amanda Patterson |
-| 40 | 1501 | Sherri Drews |
-| 41 | 1411 | Katherine Walton |
-| 42 | 1378 | butterface |
-| 43 | 1368 | DreBeast |
+| 36 | 1668 | DreBeast |
+| 37 | 1659 | Diane |
+| 38 | 1634 | Bigmoco |
+| 39 | 1610 | Fancy Shuffler |
+| 40 | 1548 | Amanda Patterson |
+| 41 | 1501 | Sherri Drews |
+| 42 | 1411 | Katherine Walton |
+| 43 | 1378 | butterface |
 | 44 | 1362 | Nathaniel Hughes |
 | 45 | 1267 | Katie Daniels |
 | 46 | 1213 | Brandon Hill |
@@ -433,48 +433,48 @@
 | 425 | 96 | Gigglelymomof2 |
 | 426 | 96 | AngelVoice JB |
 | 427 | 96 | Lisa Klockenga |
-| 428 | 96 | Kerryann Morrah |
-| 429 | 96 | Loverlylove |
-| 430 | 95 | Andrew Duron |
-| 431 | 95 | Loony Brickmatch |
+| 428 | 96 | Loverlylove |
+| 429 | 96 | Kerryann Morrah |
+| 430 | 95 | Lindsay Coit Phillips |
+| 431 | 95 | Smiley Snaplink |
 | 432 | 95 | Kristen Hall |
-| 433 | 95 | Smiley Snaplink |
-| 434 | 94 | Speedy Liney |
-| 435 | 94 | Tabitha Cornelious |
-| 436 | 94 | Dusti Byrd |
-| 437 | 94 | Snazzy Rotater |
+| 433 | 95 | Andrew Duron |
+| 434 | 95 | Loony Brickmatch |
+| 435 | 94 | Dusti Byrd |
+| 436 | 94 | Speedy Liney |
+| 437 | 94 | Tabitha Cornelious |
 | 438 | 94 | Denise Vardy Vanlanker |
-| 439 | 93 | Gabriel Archer |
+| 439 | 94 | Snazzy Rotater |
 | 440 | 93 | Amy Sanford |
 | 441 | 93 | Breezy Wiper |
-| 442 | 92 | Lil'A |
+| 442 | 93 | Gabriel Archer |
 | 443 | 92 | Shiny Shiftspin |
 | 444 | 92 | Walker Patterson |
-| 445 | 92 | Misty Blanchard |
-| 446 | 92 | Jenny Stratton Cozart |
-| 447 | 91 | Rebecca Martin |
-| 448 | 91 | Lisa Franks |
-| 449 | 90 | Laci Hutson |
+| 445 | 92 | Lil'A |
+| 446 | 92 | Misty Blanchard |
+| 447 | 92 | Jenny Stratton Cozart |
+| 448 | 91 | Rebecca Martin |
+| 449 | 91 | Lisa Franks |
 | 450 | 90 | William Ramirez |
-| 451 | 90 | Stormy May |
-| 452 | 90 | Chill Shiftspin |
-| 453 | 90 | MetalBrickLayer |
-| 454 | 90 | Aprill Bolton |
-| 455 | 90 | JustMeNonna |
-| 456 | 90 | Crafty Clearfit |
+| 451 | 90 | Chill Shiftspin |
+| 452 | 90 | Stormy May |
+| 453 | 90 | JustMeNonna |
+| 454 | 90 | Crafty Clearfit |
+| 455 | 90 | Aprill Bolton |
+| 456 | 90 | MetalBrickLayer |
 | 457 | 90 | Brandon Green |
-| 458 | 89 | UltraMAGA |
+| 458 | 90 | Laci Hutson |
 | 459 | 89 | Loopy Brickmatch |
 | 460 | 89 | Happy Snapbuild |
 | 461 | 89 | LadyKuSh |
-| 462 | 88 | Zachary Moran |
-| 463 | 87 | Franky |
+| 462 | 89 | UltraMAGA |
+| 463 | 88 | Zachary Moran |
 | 464 | 87 | April Carroll |
-| 465 | 87 | Lindsay Coit Phillips |
-| 466 | 86 | MammaCass |
-| 467 | 86 | Kayla Marie Stevenson |
-| 468 | 86 | Itn |
-| 469 | 86 | Erin Halleman |
+| 465 | 87 | Franky |
+| 466 | 86 | Kayla Marie Stevenson |
+| 467 | 86 | MammaCass |
+| 468 | 86 | Erin Halleman |
+| 469 | 86 | Itn |
 | 470 | 86 | Nicole Plummer |
 | 471 | 86 | Mckenzie Morris |
 | 472 | 86 | Kendra Newton |
