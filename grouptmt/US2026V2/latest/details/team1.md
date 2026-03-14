@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 10:54:41 UTC
+# Standings for team1 as of 2026-03-14 10:55:17 UTC
 
 **Total Participants:** 1548
 
@@ -26,7 +26,7 @@
 | 18 | 2077 | Itz Kevo |
 | 19 | 1781 | Megan Klinkner |
 | 20 | 1659 | Diane |
-| 21 | 1580 | Bigmoco |
+| 21 | 1604 | Bigmoco |
 | 22 | 1570 | Fancy Shuffler |
 | 23 | 1501 | Sherri Drews |
 | 24 | 1479 | Michael Texidor |
@@ -34,18 +34,18 @@
 | 26 | 1398 | Amanda Patterson |
 | 27 | 1362 | Nathaniel Hughes |
 | 28 | 1362 | Quirky Twistline |
-| 29 | 1301 | Troy Gussler |
-| 30 | 1298 | Jordan W Hamilton |
-| 31 | 1289 | Audicia Bailey |
+| 29 | 1338 | Audicia Bailey |
+| 30 | 1301 | Troy Gussler |
+| 31 | 1298 | Jordan W Hamilton |
 | 32 | 1287 | Paul Smiar |
 | 33 | 1267 | Katie Daniels |
 | 34 | 1258 | Xande NO Lie Williams |
 | 35 | 1195 | Vistabrat |
-| 36 | 1157 | Marianne Elizabeth Mills |
-| 37 | 1150 | Angel Smith |
-| 38 | 1113 | Brandon Hill |
-| 39 | 1108 | Jodie Peterson |
-| 40 | 1078 | butterface |
+| 36 | 1178 | butterface |
+| 37 | 1157 | Marianne Elizabeth Mills |
+| 38 | 1150 | Angel Smith |
+| 39 | 1113 | Brandon Hill |
+| 40 | 1108 | Jodie Peterson |
 | 41 | 1058 | Kesha Brady |
 | 42 | 1049 | Dom The Great |
 | 43 | 1033 | phrmblk24 |
