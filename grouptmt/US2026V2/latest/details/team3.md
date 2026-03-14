@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-14 08:22:17 UTC
+# Standings for team3 as of 2026-03-14 08:22:39 UTC
 
 **Total Participants:** 2253
 
@@ -110,7 +110,7 @@
 | 102 | 385 | Jaxxs50 |
 | 103 | 378 | PinkDiamond |
 | 104 | 359 | smalls |
-| 105 | 354 | TopazR |
+| 105 | 356 | TopazR |
 | 106 | 347 | PhillyTitan |
 | 107 | 342 | Cherrish Duren |
 | 108 | 339 | Brizmit |
@@ -381,15 +381,15 @@
 | 373 | 107 | April Shanahan |
 | 374 | 106 | RVTRCR |
 | 375 | 106 | Beth Belanger |
-| 376 | 106 | Bucky Dent |
-| 377 | 105 | Sarah Morrissey |
-| 378 | 105 | waaaaa |
-| 379 | 105 | Christina Marie Beall-Schmidt |
-| 380 | 104 | Boda |
-| 381 | 104 | Boldy Curve |
-| 382 | 104 | Tony Waters |
-| 383 | 104 | lilseasonz |
-| 384 | 103 | KkBaby |
+| 376 | 106 | KkBaby |
+| 377 | 106 | Bucky Dent |
+| 378 | 105 | Sarah Morrissey |
+| 379 | 105 | waaaaa |
+| 380 | 105 | Christina Marie Beall-Schmidt |
+| 381 | 104 | Boda |
+| 382 | 104 | Boldy Curve |
+| 383 | 104 | Tony Waters |
+| 384 | 104 | lilseasonz |
 | 385 | 103 | abe |
 | 386 | 103 | Irie |
 | 387 | 103 | Sassy Rumbler |
@@ -1346,38 +1346,38 @@
 | 1338 | 27 | Omar Sussmann |
 | 1339 | 27 | Eric Quan |
 | 1340 | 27 | Princesst |
-| 1341 | 27 | Sonia Lynn Cooper |
-| 1342 | 27 | Luyza Villanueva |
-| 1343 | 27 | Sherra Burg |
-| 1344 | 27 | Dremer Clark |
-| 1345 | 27 | Jaime Sanchez |
-| 1346 | 27 | Kevin Sheets |
-| 1347 | 26 | Ashley Eiler |
+| 1341 | 27 | emmanaut |
+| 1342 | 27 | Sonia Lynn Cooper |
+| 1343 | 27 | Luyza Villanueva |
+| 1344 | 27 | Sherra Burg |
+| 1345 | 27 | Dremer Clark |
+| 1346 | 27 | Jaime Sanchez |
+| 1347 | 27 | Kevin Sheets |
 | 1348 | 26 | Kelly Brenzil-Fewkes |
-| 1349 | 26 | Donna Mccullough |
-| 1350 | 26 | Tamica Smith |
-| 1351 | 26 | Tim Sidebottom |
-| 1352 | 26 | Tatyana Hollis |
-| 1353 | 26 | Smiley Wipepiece |
-| 1354 | 26 | Goofy Linefit |
-| 1355 | 26 | shdwraider3 |
-| 1356 | 26 | Melanie Mendoza |
-| 1357 | 26 | Wanda Thomas |
-| 1358 | 26 | Mariah Aponte |
-| 1359 | 26 | Erik Hesner |
-| 1360 | 26 | Ashley |
-| 1361 | 26 | Sweetfire |
-| 1362 | 26 | Alex Dye |
-| 1363 | 26 | BadazzzWayde |
-| 1364 | 26 | Jessica Betz |
-| 1365 | 26 | Kee |
-| 1366 | 26 | Juicy |
-| 1367 | 26 | reom |
-| 1368 | 26 | Paul Smith |
-| 1369 | 26 | Spunky Clearzone |
-| 1370 | 26 | Edwina Kimble |
-| 1371 | 26 | Zippy Cascadeclear |
-| 1372 | 25 | emmanaut |
+| 1349 | 26 | Ashley Eiler |
+| 1350 | 26 | Donna Mccullough |
+| 1351 | 26 | Tamica Smith |
+| 1352 | 26 | Tim Sidebottom |
+| 1353 | 26 | Tatyana Hollis |
+| 1354 | 26 | Smiley Wipepiece |
+| 1355 | 26 | Goofy Linefit |
+| 1356 | 26 | shdwraider3 |
+| 1357 | 26 | Melanie Mendoza |
+| 1358 | 26 | Wanda Thomas |
+| 1359 | 26 | Mariah Aponte |
+| 1360 | 26 | Erik Hesner |
+| 1361 | 26 | Alex Dye |
+| 1362 | 26 | Ashley |
+| 1363 | 26 | Sweetfire |
+| 1364 | 26 | Juicy |
+| 1365 | 26 | BadazzzWayde |
+| 1366 | 26 | Jessica Betz |
+| 1367 | 26 | Kee |
+| 1368 | 26 | reom |
+| 1369 | 26 | Zippy Cascadeclear |
+| 1370 | 26 | Paul Smith |
+| 1371 | 26 | Spunky Clearzone |
+| 1372 | 26 | Edwina Kimble |
 | 1373 | 25 | Glitzy Rollpiece |
 | 1374 | 25 | Lisa Anderson |
 | 1375 | 25 | Jade Coupel |
