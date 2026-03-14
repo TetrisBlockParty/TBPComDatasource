@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 10:18:17 UTC
+# Standings for team1 as of 2026-03-14 10:18:39 UTC
 
 **Total Participants:** 1537
 
@@ -214,25 +214,25 @@
 | 206 | 140 | Tee Tee Greene |
 | 207 | 140 | Bubba |
 | 208 | 140 | Mighty Patternbuilder |
-| 209 | 138 | Big rick !!! |
-| 210 | 138 | Cynthia Petz |
+| 209 | 138 | Cynthia Petz |
+| 210 | 138 | Big rick !!! |
 | 211 | 138 | David Rojas |
 | 212 | 136 | Porshe Garthwaite |
 | 213 | 135 | Bingo Wingo |
-| 214 | 134 | Armoni |
-| 215 | 134 | Lively Patternfall |
-| 216 | 132 | Trina Gee |
+| 214 | 134 | Lively Patternfall |
+| 215 | 134 | Armoni |
+| 216 | 132 | Jennifer Lynn |
 | 217 | 132 | Eric Hoffman |
-| 218 | 132 | Jennifer Lynn |
-| 219 | 130 | Philippines |
-| 220 | 130 | Florna Primrose |
+| 218 | 132 | Trina Gee |
+| 219 | 130 | Florna Primrose |
+| 220 | 130 | Philippines |
 | 221 | 129 | Gina Annese |
 | 222 | 128 | Marie Helman |
 | 223 | 127 | Pheezy |
-| 224 | 126 | Muhammad |
-| 225 | 126 | Marianne Lopez |
-| 226 | 126 | Scott Disedare |
-| 227 | 126 | Jason Cunningham |
+| 224 | 126 | Marianne Lopez |
+| 225 | 126 | Jason Cunningham |
+| 226 | 126 | Muhammad |
+| 227 | 126 | Scott Disedare |
 | 228 | 126 | Kathy Karjala |
 | 229 | 125 | Jaay |
 | 230 | 124 | Amanda Pauldo-Ivy |
@@ -244,9 +244,9 @@
 | 236 | 120 | Amh |
 | 237 | 120 | Mufi25 |
 | 238 | 120 | StankyP |
-| 239 | 118 | Crystal Rosen |
-| 240 | 117 | QueenBee |
-| 241 | 117 | Rachel Ballard |
+| 239 | 118 | Rachel Ballard |
+| 240 | 118 | Crystal Rosen |
+| 241 | 117 | QueenBee |
 | 242 | 117 | Laura Morrison |
 | 243 | 117 | Danielle Kollias |
 | 244 | 117 | Dī Kuykendall |
