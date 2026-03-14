@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-14 04:36:16 UTC
+# Standings for team3 as of 2026-03-14 04:36:40 UTC
 
 **Total Participants:** 1998
 
@@ -98,12 +98,12 @@
 | 90 | 385 | Jaxxs50 |
 | 91 | 373 | Asher |
 | 92 | 372 | OrangeGoofy |
-| 93 | 347 | PhillyTitan |
-| 94 | 343 | Torrey Jackson |
-| 95 | 342 | Cherrish Duren |
-| 96 | 339 | Brizmit |
-| 97 | 338 | Matthew |
-| 98 | 323 | Kiki |
+| 93 | 361 | Kiki |
+| 94 | 347 | PhillyTitan |
+| 95 | 343 | Torrey Jackson |
+| 96 | 342 | Cherrish Duren |
+| 97 | 339 | Brizmit |
+| 98 | 338 | Matthew |
 | 99 | 323 | Eneida Gonzalez |
 | 100 | 320 | Suki Kaur |
 | 101 | 320 | Dreamy Drop |
@@ -122,13 +122,13 @@
 | 114 | 270 | Dizzy Gridzone |
 | 115 | 269 | Kellie |
 | 116 | 267 | Denise Rickman |
-| 117 | 266 | Miranda Krentz |
-| 118 | 266 | Kimmy |
-| 119 | 265 | Casey Noel |
-| 120 | 264 | Serena Catherine Coladonato |
-| 121 | 263 | Santeria Trece Candles |
-| 122 | 259 | Jessica Bechler |
-| 123 | 255 | Chanell Marie Howell Martinez |
+| 117 | 266 | Chanell Marie Howell Martinez |
+| 118 | 266 | Miranda Krentz |
+| 119 | 266 | Kimmy |
+| 120 | 265 | Casey Noel |
+| 121 | 264 | Serena Catherine Coladonato |
+| 122 | 263 | Santeria Trece Candles |
+| 123 | 259 | Jessica Bechler |
 | 124 | 254 | Emily Davis |
 | 125 | 252 | blocks bandit |
 | 126 | 248 | Kylene Vigil |
@@ -179,10 +179,10 @@
 | 171 | 190 | Cool Blockroll |
 | 172 | 190 | Peace |
 | 173 | 190 | Mistypanda |
-| 174 | 188 | GolfBlaster |
-| 175 | 187 | Breezy Clusterer |
-| 176 | 184 | Frisky Balance |
-| 177 | 183 | Nery García |
+| 174 | 189 | Nery García |
+| 175 | 188 | GolfBlaster |
+| 176 | 187 | Breezy Clusterer |
+| 177 | 184 | Frisky Balance |
 | 178 | 182 | Tim Smolen |
 | 179 | 182 | Scott Brown |
 | 180 | 182 | Amanda Summey Schoemer |
