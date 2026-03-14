@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 12:01:16 UTC
+# Standings for team1 as of 2026-03-14 12:02:16 UTC
 
 **Total Participants:** 1569
 
@@ -613,156 +613,156 @@
 | 605 | 50 | Loopy Edge |
 | 606 | 50 | Dizzy Snapper |
 | 607 | 50 | Carla Valenzisi |
-| 608 | 50 | LouiBandz |
-| 609 | 50 | Crystal Claypool |
-| 610 | 50 | Steven Ray Real |
+| 608 | 50 | Tammy Watson |
+| 609 | 50 | LouiBandz |
+| 610 | 50 | Crystal Claypool |
 | 611 | 50 | Andy Harris |
-| 612 | 50 | Jazzy Stagger |
-| 613 | 50 | Will Fulmer |
-| 614 | 50 | Mean Melly |
-| 615 | 50 | Tammy Watson |
-| 616 | 50 | Aponk |
-| 617 | 50 | Swalshy |
-| 618 | 49 | Dino |
-| 619 | 49 | Sue Foreman |
-| 620 | 49 | Lorie Atwood |
-| 621 | 49 | Chin lock |
-| 622 | 49 | Danessa Pettite |
-| 623 | 49 | Hasty Towerpiece |
-| 624 | 49 | CoolHand |
-| 625 | 49 | Hyper Drop |
-| 626 | 49 | Jumpy Winder |
-| 627 | 49 | Slatt Aint Going |
-| 628 | 49 | Terry Dill |
-| 629 | 49 | Nora Smith |
-| 630 | 49 | Jason S |
-| 631 | 49 | gucci |
+| 612 | 50 | Will Fulmer |
+| 613 | 50 | Jazzy Stagger |
+| 614 | 50 | Steven Ray Real |
+| 615 | 50 | Aponk |
+| 616 | 50 | Swalshy |
+| 617 | 50 | Mean Melly |
+| 618 | 49 | Aaron Arenivaz |
+| 619 | 49 | Jason S |
+| 620 | 49 | Slatt Aint Going |
+| 621 | 49 | gucci |
+| 622 | 49 | Hasty Towerpiece |
+| 623 | 49 | Nora Smith |
+| 624 | 49 | Danessa Pettite |
+| 625 | 49 | Sue Foreman |
+| 626 | 49 | Hyper Drop |
+| 627 | 49 | Terry Dill |
+| 628 | 49 | Dino |
+| 629 | 49 | Chin lock |
+| 630 | 49 | Jumpy Winder |
+| 631 | 49 | Lorie Atwood |
 | 632 | 49 | Jordan Leach |
-| 633 | 49 | Aaron Arenivaz |
+| 633 | 49 | CoolHand |
 | 634 | 49 | Paul Stafford |
 | 635 | 48 | Ellen Maxwell Capstaff |
-| 636 | 48 | Meagan Canipe |
-| 637 | 48 | minnie |
+| 636 | 48 | minnie |
+| 637 | 48 | Katelyn B. Pritchard |
 | 638 | 48 | Lacey Palatka |
-| 639 | 48 | Itspaigebro |
-| 640 | 48 | Bouncy Linefit |
-| 641 | 48 | Greg Joseph |
-| 642 | 48 | Katelyn B. Pritchard |
-| 643 | 48 | Snazzy Tilemaker |
-| 644 | 47 | Karon Miller Hammond |
-| 645 | 47 | Peter HM Han |
-| 646 | 47 | Michael Wood |
-| 647 | 47 | Kristopher Daniels |
-| 648 | 47 | mischee |
-| 649 | 47 | Christopher L Crites |
-| 650 | 47 | Shannon Green |
-| 651 | 47 | Eddie Morales |
+| 639 | 48 | Greg Joseph |
+| 640 | 48 | Meagan Canipe |
+| 641 | 48 | Snazzy Tilemaker |
+| 642 | 48 | Bouncy Linefit |
+| 643 | 48 | Itspaigebro |
+| 644 | 47 | Michael Wood |
+| 645 | 47 | Shannon Green |
+| 646 | 47 | Peter HM Han |
+| 647 | 47 | Karon Miller Hammond |
+| 648 | 47 | Shelley Hagerman |
+| 649 | 47 | mischee |
+| 650 | 47 | Eddie Morales |
+| 651 | 47 | Kristopher Daniels |
 | 652 | 47 | TheBiz2 |
-| 653 | 47 | iceman |
-| 654 | 47 | Shelley Hagerman |
+| 653 | 47 | Christopher L Crites |
+| 654 | 47 | iceman |
 | 655 | 47 | ghxsty |
 | 656 | 47 | Zippy Cascadezone |
-| 657 | 46 | Winky |
-| 658 | 46 | Nance Jeano |
+| 657 | 46 | Daniel Lopez |
+| 658 | 46 | Winky |
 | 659 | 46 | Jessica Butler |
-| 660 | 46 | Danelle Sulentic |
+| 660 | 46 | Chazarae Marie |
 | 661 | 46 | Daring Roll |
-| 662 | 46 | Chazarae Marie |
-| 663 | 46 | Daniel Lopez |
-| 664 | 46 | Tina Kocher Zimmerman |
+| 662 | 46 | Flashy Stacky |
+| 663 | 46 | Zesty Blockclear |
+| 664 | 46 | Danelle Sulentic |
 | 665 | 46 | Candace Fielder |
-| 666 | 46 | Zesty Blockclear |
-| 667 | 46 | Flashy Stacky |
-| 668 | 45 | Joanne Marie |
-| 669 | 45 | Ryne Pinkston |
-| 670 | 45 | April Bennett |
-| 671 | 45 | WEIRDINO |
+| 666 | 46 | Tina Kocher Zimmerman |
+| 667 | 46 | Nance Jeano |
+| 668 | 45 | Casterbation |
+| 669 | 45 | Joanne Marie |
+| 670 | 45 | WEIRDINO |
+| 671 | 45 | April Bennett |
 | 672 | 45 | ssr |
-| 673 | 45 | Armin Muhamed |
-| 674 | 45 | Countryboy Will Survive |
-| 675 | 45 | Wacky Brickster |
-| 676 | 45 | Steffi Chris Dacones |
-| 677 | 45 | Jessica Russell |
-| 678 | 45 | Ziggy Csah |
-| 679 | 45 | belinda rocky |
-| 680 | 45 | Amber McDonald |
-| 681 | 45 | jabba |
-| 682 | 45 | Casterbation |
-| 683 | 44 | Nunya |
+| 673 | 45 | Ryne Pinkston |
+| 674 | 45 | jabba |
+| 675 | 45 | Armin Muhamed |
+| 676 | 45 | Thomas Carlisle |
+| 677 | 45 | Amber McDonald |
+| 678 | 45 | belinda rocky |
+| 679 | 45 | Ziggy Csah |
+| 680 | 45 | Jessica Russell |
+| 681 | 45 | Steffi Chris Dacones |
+| 682 | 45 | Wacky Brickster |
+| 683 | 45 | Countryboy Will Survive |
 | 684 | 44 | Glauf |
-| 685 | 44 | Kelly Davila |
-| 686 | 44 | Bluegiokilla |
-| 687 | 44 | Neko Preston |
-| 688 | 44 | Colleen McFadden Moldenhauer |
-| 689 | 44 | Saucy Tilemaker |
+| 685 | 44 | Nunya |
+| 686 | 44 | Ren Mc |
+| 687 | 44 | Kelly Davila |
+| 688 | 44 | Bluegiokilla |
+| 689 | 44 | Neko Preston |
 | 690 | 44 | Terika Rodriguez |
-| 691 | 44 | Dish19 |
-| 692 | 44 | Tamara Brown |
-| 693 | 44 | Michael Felker |
-| 694 | 44 | Ren Mc |
-| 695 | 43 | Giddy Towerzone |
+| 691 | 44 | Colleen McFadden Moldenhauer |
+| 692 | 44 | Dish19 |
+| 693 | 44 | Saucy Tilemaker |
+| 694 | 44 | Tamara Brown |
+| 695 | 44 | Michael Felker |
 | 696 | 43 | Breezy Wiper |
 | 697 | 43 | Susan Marsh |
-| 698 | 43 | Thomas Carlisle |
-| 699 | 43 | Lively Catcher |
-| 700 | 43 | Fancy Cascadebuilder |
+| 698 | 43 | Lively Catcher |
+| 699 | 43 | Fancy Cascadebuilder |
+| 700 | 43 | Giddy Towerzone |
 | 701 | 43 | Meli |
 | 702 | 43 | Heather Ann |
 | 703 | 43 | Felipa Jo Johnson |
-| 704 | 42 | Glitzy Builderline |
-| 705 | 42 | Christie Reynolds |
-| 706 | 42 | Shiny Stacky |
-| 707 | 42 | Joey Burns |
-| 708 | 42 | Susan Lokerse |
-| 709 | 42 | Bink |
-| 710 | 42 | Tracey Wilson |
-| 711 | 42 | Tara Spencer |
-| 712 | 42 | Travis Taylor |
-| 713 | 42 | Amy Hollinger |
-| 714 | 42 | Luna |
-| 715 | 41 | Petahboi |
-| 716 | 41 | Boldy Towerfall |
-| 717 | 41 | David Wright |
-| 718 | 41 | Tammy Kunai |
-| 719 | 41 | Pamela Morgan |
-| 720 | 40 | Maverick McGowan |
-| 721 | 40 | Betty Bóò |
-| 722 | 40 | Agustin Duarte Orozco |
-| 723 | 40 | Wayne Kentarski |
-| 724 | 40 | Shawn Kelso |
-| 725 | 40 | kito23 |
-| 726 | 40 | Christi Burley |
-| 727 | 40 | smitch |
-| 728 | 40 | Shane Caskey |
-| 729 | 40 | Ron Poindexter |
-| 730 | 40 | Happy Snapline |
-| 731 | 40 | Katelyn Dorman |
-| 732 | 40 | Brandi Huntington |
-| 733 | 40 | Noah |
-| 734 | 40 | Robyn Massey |
-| 735 | 40 | Thomas Susi |
-| 736 | 40 | Stephanie Holman |
-| 737 | 40 | Spring rain |
-| 738 | 40 | Cool Slice |
-| 739 | 40 | Chiquita Spears |
-| 740 | 40 | Sunny |
-| 741 | 40 | Dapper Twistline |
+| 704 | 43 | Tracy Priceless Gholston |
+| 705 | 42 | Luna |
+| 706 | 42 | Tracey Wilson |
+| 707 | 42 | Bink |
+| 708 | 42 | Glitzy Builderline |
+| 709 | 42 | Amy Hollinger |
+| 710 | 42 | Travis Taylor |
+| 711 | 42 | Susan Lokerse |
+| 712 | 42 | Shiny Stacky |
+| 713 | 42 | Christie Reynolds |
+| 714 | 42 | Joey Burns |
+| 715 | 42 | Tara Spencer |
+| 716 | 41 | Petahboi |
+| 717 | 41 | Boldy Towerfall |
+| 718 | 41 | David Wright |
+| 719 | 41 | Tammy Kunai |
+| 720 | 41 | Pamela Morgan |
+| 721 | 40 | Maverick McGowan |
+| 722 | 40 | Betty Bóò |
+| 723 | 40 | Agustin Duarte Orozco |
+| 724 | 40 | Wayne Kentarski |
+| 725 | 40 | Shawn Kelso |
+| 726 | 40 | kito23 |
+| 727 | 40 | Christi Burley |
+| 728 | 40 | smitch |
+| 729 | 40 | Shane Caskey |
+| 730 | 40 | Ron Poindexter |
+| 731 | 40 | Happy Snapline |
+| 732 | 40 | Katelyn Dorman |
+| 733 | 40 | Brandi Huntington |
+| 734 | 40 | Noah |
+| 735 | 40 | Robyn Massey |
+| 736 | 40 | Thomas Susi |
+| 737 | 40 | Stephanie Holman |
+| 738 | 40 | Spring rain |
+| 739 | 40 | Cool Slice |
+| 740 | 40 | Chiquita Spears |
+| 741 | 40 | Sunny |
 | 742 | 40 | Black Rubix |
-| 743 | 40 | Ken McDonald |
+| 743 | 40 | Dapper Twistline |
 | 744 | 40 | Kat |
-| 745 | 40 | Medic205 |
+| 745 | 40 | Ken McDonald |
 | 746 | 40 | Aaron M Luna |
 | 747 | 40 | Alexandra Karavias |
-| 748 | 40 | Chummy Risebuilder |
-| 749 | 40 | Logan McFarland |
-| 750 | 40 | Tracy Priceless Gholston |
+| 748 | 40 | Medic205 |
+| 749 | 40 | Chummy Risebuilder |
+| 750 | 40 | Logan McFarland |
 | 751 | 40 | Prometheus |
 | 752 | 39 | Purple Pixie |
-| 753 | 39 | Spicy Twister |
+| 753 | 39 | Jay Will |
 | 754 | 39 | Hoppy Shatterfit |
-| 755 | 39 | Jay Will |
-| 756 | 39 | Jennifer Rhea |
-| 757 | 39 | Billy |
+| 755 | 39 | Spicy Twister |
+| 756 | 39 | Billy |
+| 757 | 39 | Jennifer Rhea |
 | 758 | 39 | ldm |
 | 759 | 39 | mindgames |
 | 760 | 39 | Tiffany |
