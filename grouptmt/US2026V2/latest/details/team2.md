@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 14:22:17 UTC
+# Standings for team2 as of 2026-03-14 14:22:39 UTC
 
 **Total Participants:** 1596
 
@@ -77,8 +77,8 @@
 | 69 | 513 | Carrie Mitchell |
 | 70 | 502 | Snippy Basepiece |
 | 71 | 484 | Amanda Sullivan |
-| 72 | 480 | Kristina Custer |
-| 73 | 480 | Suffia Alexander |
+| 72 | 481 | Suffia Alexander |
+| 73 | 480 | Kristina Custer |
 | 74 | 473 | Peppy Slice |
 | 75 | 456 | Sara Morgan |
 | 76 | 451 | Dreamy Clicker |
@@ -129,9 +129,9 @@
 | 121 | 280 | Loopy Clusterer |
 | 122 | 278 | Jen Roe |
 | 123 | 278 | Jt Home |
-| 124 | 276 | Ashley Marie |
-| 125 | 275 | Jo Frohwein |
-| 126 | 274 | Sheena Hachmann |
+| 124 | 276 | Sheena Hachmann |
+| 125 | 276 | Ashley Marie |
+| 126 | 275 | Jo Frohwein |
 | 127 | 274 | Jami Howard |
 | 128 | 272 | Michael H. M. Skropka |
 | 129 | 270 | Slinky Towerer |
@@ -154,16 +154,16 @@
 | 146 | 242 | Spice Ginger |
 | 147 | 241 | Nathaniel Hardy |
 | 148 | 241 | Amelia Anderson |
-| 149 | 239 | BluBae |
-| 150 | 235 | Ultramarine |
-| 151 | 235 | Ella Marzano |
-| 152 | 231 | DJ Bincent |
-| 153 | 227 | Katie Lynn |
-| 154 | 227 | Jenni Garcia-Vogelhut |
-| 155 | 226 | Arisvet Garcia |
-| 156 | 226 | Kit Dennett |
-| 157 | 225 | Zippy Zoney |
-| 158 | 224 | candypants |
+| 149 | 240 | candypants |
+| 150 | 239 | BluBae |
+| 151 | 235 | Ultramarine |
+| 152 | 235 | Ella Marzano |
+| 153 | 231 | DJ Bincent |
+| 154 | 227 | Katie Lynn |
+| 155 | 227 | Jenni Garcia-Vogelhut |
+| 156 | 226 | Arisvet Garcia |
+| 157 | 226 | Kit Dennett |
+| 158 | 225 | Zippy Zoney |
 | 159 | 223 | Paul Hudak |
 | 160 | 222 | 1RiRi1 |
 | 161 | 221 | Dreamer |
