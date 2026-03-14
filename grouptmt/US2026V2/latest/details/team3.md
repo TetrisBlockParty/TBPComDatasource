@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-14 11:38:17 UTC
+# Standings for team3 as of 2026-03-14 11:38:39 UTC
 
 **Total Participants:** 2363
 
@@ -431,8 +431,8 @@
 | 423 | 104 | Boda |
 | 424 | 103 | Sassy Rumbler |
 | 425 | 103 | Irie |
-| 426 | 102 | Valerie Woodall |
-| 427 | 102 | Jessica Chapman |
+| 426 | 103 | Jessica Chapman |
+| 427 | 102 | Valerie Woodall |
 | 428 | 101 | Alkaben Fortunato |
 | 429 | 101 | Molly Hinshaw |
 | 430 | 101 | Ashley Ayala |
@@ -1301,51 +1301,51 @@
 | 1293 | 33 | Lush Pattern |
 | 1294 | 33 | Brandon Hand |
 | 1295 | 33 | Samantha Michelle |
-| 1296 | 32 | phaded |
-| 1297 | 32 | Amber Murphy- Munson |
-| 1298 | 32 | Anita Yoder Marshall |
-| 1299 | 32 | Bold Patterner |
-| 1300 | 32 | Tianna Marie Abram |
-| 1301 | 32 | Tyler Lynn |
-| 1302 | 32 | Amanda Tise |
-| 1303 | 32 | mama |
-| 1304 | 32 | Perky Cascadeclear |
-| 1305 | 32 | Robert Moore |
-| 1306 | 32 | Donna Hughes |
-| 1307 | 32 | Cari |
-| 1308 | 32 | Carolyn Franzen |
-| 1309 | 32 | Giddy Zigzag |
-| 1310 | 32 | Derrick Hill |
+| 1296 | 32 | Tyler Lynn |
+| 1297 | 32 | Amanda Tise |
+| 1298 | 32 | mama |
+| 1299 | 32 | Robert Moore |
+| 1300 | 32 | Perky Cascadeclear |
+| 1301 | 32 | Stacy Nicole Reed |
+| 1302 | 32 | Bold Patterner |
+| 1303 | 32 | Donna Hughes |
+| 1304 | 32 | Tianna Marie Abram |
+| 1305 | 32 | Cari |
+| 1306 | 32 | Terry Hickman Fort |
+| 1307 | 32 | Perky Strikerbuilder |
+| 1308 | 32 | Tracy Dawn |
+| 1309 | 32 | Anita Yoder Marshall |
+| 1310 | 32 | Carolyn Franzen |
 | 1311 | 32 | Brittany |
-| 1312 | 32 | Terry Hickman Fort |
-| 1313 | 32 | Tracy Dawn |
-| 1314 | 32 | Perky Strikerbuilder |
-| 1315 | 31 | Karey Crone |
-| 1316 | 31 | Donna Mccullough |
-| 1317 | 31 | Joyce Johnson Vaughn |
-| 1318 | 31 | Brianna Maegan |
-| 1319 | 31 | Laurie LeCroy |
-| 1320 | 31 | Chief Ronson |
-| 1321 | 31 | Chill Brickzone |
-| 1322 | 31 | Bubbly Matchpiece |
-| 1323 | 31 | Scouty |
-| 1324 | 31 | Felicia Boyd |
-| 1325 | 31 | Lisa Anderson |
-| 1326 | 31 | Amanda Parsons |
-| 1327 | 31 | Harold George Chadwick Jr. |
-| 1328 | 31 | Kayla Marie Thomas |
-| 1329 | 31 | Monique Beasley |
-| 1330 | 31 | Jaime Steen |
+| 1312 | 32 | phaded |
+| 1313 | 32 | Derrick Hill |
+| 1314 | 32 | Amber Murphy- Munson |
+| 1315 | 32 | Giddy Zigzag |
+| 1316 | 31 | Felicia Boyd |
+| 1317 | 31 | Amanda Parsons |
+| 1318 | 31 | Bubbly Matchpiece |
+| 1319 | 31 | Harold George Chadwick Jr. |
+| 1320 | 31 | Chill Brickzone |
+| 1321 | 31 | Donna Mccullough |
+| 1322 | 31 | Laurie LeCroy |
+| 1323 | 31 | Chief Ronson |
+| 1324 | 31 | Kayla Marie Thomas |
+| 1325 | 31 | Karey Crone |
+| 1326 | 31 | Joyce Johnson Vaughn |
+| 1327 | 31 | Brianna Maegan |
+| 1328 | 31 | Scouty |
+| 1329 | 31 | Lisa Anderson |
+| 1330 | 31 | Monique Beasley |
 | 1331 | 31 | Stacie Perales |
-| 1332 | 31 | Alexis Smith |
-| 1333 | 31 | Hoppy Brickline |
+| 1332 | 31 | Jaime Steen |
+| 1333 | 31 | Alexis Smith |
 | 1334 | 31 | Jaxson |
-| 1335 | 31 | Stacy Nicole Reed |
+| 1335 | 31 | Hoppy Brickline |
 | 1336 | 31 | Krystal Douglas |
 | 1337 | 31 | Edwina Kimble |
 | 1338 | 31 | Sheryl Davis |
 | 1339 | 30 | Joe Spingler |
-| 1340 | 30 | Patty Bell |
+| 1340 | 30 | Chilly Linkroll |
 | 1341 | 30 | ttt |
 | 1342 | 30 | ezbrizy68 |
 | 1343 | 30 | SithLord |
@@ -1359,7 +1359,7 @@
 | 1351 | 30 | Hippiechic13 |
 | 1352 | 30 | Tasha Syers |
 | 1353 | 30 | Arcamike Lead |
-| 1354 | 30 | Chilly Linkroll |
+| 1354 | 30 | Patty Bell |
 | 1355 | 30 | Monique Harvey |
 | 1356 | 30 | Nerdy Piecegrid |
 | 1357 | 30 | VOODOO70 |
