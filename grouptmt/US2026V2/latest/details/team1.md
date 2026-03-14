@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 09:33:17 UTC
+# Standings for team1 as of 2026-03-14 09:34:17 UTC
 
 **Total Participants:** 1524
 
@@ -88,10 +88,10 @@
 | 80 | 462 | Goober |
 | 81 | 454 | DreBeast |
 | 82 | 429 | Tatiyana Holm |
-| 83 | 428 | Amy Dial Brown |
-| 84 | 412 | Nancy |
-| 85 | 400 | Jessica Sheehan |
-| 86 | 389 | Penny Morrical |
+| 83 | 429 | Penny Morrical |
+| 84 | 428 | Amy Dial Brown |
+| 85 | 412 | Nancy |
+| 86 | 400 | Jessica Sheehan |
 | 87 | 387 | Amee Schnarrs |
 | 88 | 384 | PhatWI41 |
 | 89 | 374 | Ramona Gulledge |
@@ -99,8 +99,8 @@
 | 91 | 367 | Ramon Salazar |
 | 92 | 367 | paupau |
 | 93 | 362 | Alezandra Smith |
-| 94 | 350 | Aden Moss |
-| 95 | 341 | Irene Medina |
+| 94 | 351 | Irene Medina |
+| 95 | 350 | Aden Moss |
 | 96 | 335 | Velt Richardson |
 | 97 | 331 | Kimberly Howell-Henley |
 | 98 | 329 | Elyse YL |
@@ -1095,65 +1095,65 @@
 | 1087 | 19 | Susan Kilgore |
 | 1088 | 19 | Amber Lingerfelt |
 | 1089 | 19 | Thomas Susi |
-| 1090 | 18 | Keith Andrews |
-| 1091 | 18 | Eric Wren |
-| 1092 | 18 | YaKima Frisby Walker |
-| 1093 | 18 | Timothy Long |
-| 1094 | 18 | Keegan King-steele |
-| 1095 | 18 | Cucumber Melondrops |
-| 1096 | 18 | Tania Flores |
+| 1090 | 18 | Israel Lane |
+| 1091 | 18 | Keith Andrews |
+| 1092 | 18 | Eric Wren |
+| 1093 | 18 | YaKima Frisby Walker |
+| 1094 | 18 | Timothy Long |
+| 1095 | 18 | Keegan King-steele |
+| 1096 | 18 | Cucumber Melondrops |
 | 1097 | 18 | ZhenZhen |
-| 1098 | 18 | om |
-| 1099 | 18 | Gregg Scott |
-| 1100 | 18 | Giddy Tilefall |
-| 1101 | 18 | Ben Barkley |
-| 1102 | 18 | Dc |
-| 1103 | 18 | Giggly Twistslam |
-| 1104 | 18 | Ras David |
-| 1105 | 17 | Toni Forbus |
-| 1106 | 17 | Wish YaKnee |
-| 1107 | 17 | Lexx Oliver |
-| 1108 | 17 | Kjnals Wall |
-| 1109 | 17 | Corentin W. Comeaux |
-| 1110 | 17 | Raynsera |
-| 1111 | 17 | Joe Coon |
-| 1112 | 17 | Princess |
-| 1113 | 17 | Komikeh White |
+| 1098 | 18 | Tania Flores |
+| 1099 | 18 | om |
+| 1100 | 18 | Gregg Scott |
+| 1101 | 18 | Giddy Tilefall |
+| 1102 | 18 | Ben Barkley |
+| 1103 | 18 | Dc |
+| 1104 | 18 | Giggly Twistslam |
+| 1105 | 18 | Ras David |
+| 1106 | 17 | Princess |
+| 1107 | 17 | Toni Forbus |
+| 1108 | 17 | Wish YaKnee |
+| 1109 | 17 | Kjnals Wall |
+| 1110 | 17 | Corentin W. Comeaux |
+| 1111 | 17 | Lexx Oliver |
+| 1112 | 17 | Raynsera |
+| 1113 | 17 | Joe Coon |
 | 1114 | 17 | Santana Valeri |
-| 1115 | 17 | Chilly Grid |
+| 1115 | 17 | Komikeh White |
 | 1116 | 17 | Anne Oliver |
-| 1117 | 17 | Bold Fallzone |
-| 1118 | 17 | Swanky Shatterblock |
-| 1119 | 16 | Renee |
-| 1120 | 16 | Anne Garcia |
-| 1121 | 16 | Israel Lane |
+| 1117 | 17 | Chilly Grid |
+| 1118 | 17 | Bold Fallzone |
+| 1119 | 17 | Swanky Shatterblock |
+| 1120 | 16 | Shelly Cunningham |
+| 1121 | 16 | Renee |
 | 1122 | 16 | AJ |
 | 1123 | 16 | Witty Cascader |
 | 1124 | 16 | Antoinette Rhinesmith |
-| 1125 | 16 | Shelly Cunningham |
+| 1125 | 16 | Glenda Inthimat |
 | 1126 | 16 | Cool Dasher |
 | 1127 | 16 | Kayla Marie Stevenson |
 | 1128 | 16 | Hasty Builderpiece |
 | 1129 | 16 | Tbuzz |
 | 1130 | 16 | Emanuel Velazquez |
 | 1131 | 16 | Lavender |
-| 1132 | 16 | Glenda Inthimat |
-| 1133 | 16 | Melanie Kelley |
-| 1134 | 16 | Kevin Ring |
-| 1135 | 16 | Jessica Goble |
-| 1136 | 16 | Venus Daniels |
-| 1137 | 16 | atomictrin |
-| 1138 | 16 | Tiffany McLeod |
-| 1139 | 16 | Jr Ysassi |
-| 1140 | 16 | Melissa Hart |
-| 1141 | 16 | Laurel |
-| 1142 | 16 | Frisky Glidepiece |
-| 1143 | 16 | Gina Angeles Libunao Rondez |
-| 1144 | 15 | Shele Casey |
-| 1145 | 15 | ChaosNCatHair |
-| 1146 | 15 | Angelina Maldonado |
-| 1147 | 15 | Scott Smith |
-| 1148 | 15 | Mackkie |
+| 1132 | 16 | Frisky Glidepiece |
+| 1133 | 16 | Gina Angeles Libunao Rondez |
+| 1134 | 16 | Laurel |
+| 1135 | 16 | Jr Ysassi |
+| 1136 | 16 | Melissa Hart |
+| 1137 | 16 | Anne Garcia |
+| 1138 | 16 | atomictrin |
+| 1139 | 16 | Tiffany McLeod |
+| 1140 | 16 | Venus Daniels |
+| 1141 | 16 | Kevin Ring |
+| 1142 | 16 | Jessica Goble |
+| 1143 | 16 | Melanie Kelley |
+| 1144 | 15 | Mackkie |
+| 1145 | 15 | Angelina Maldonado |
+| 1146 | 15 | ChaosNCatHair |
+| 1147 | 15 | Shele Casey |
+| 1148 | 15 | Scott Smith |
 | 1149 | 15 | Ellen Maxwell Capstaff |
 | 1150 | 15 | Loony Spinblock |
 | 1151 | 15 | Spam |
