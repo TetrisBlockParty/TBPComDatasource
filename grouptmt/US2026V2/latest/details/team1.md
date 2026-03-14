@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 11:33:16 UTC
+# Standings for team1 as of 2026-03-14 11:34:17 UTC
 
 **Total Participants:** 1560
 
@@ -141,11 +141,11 @@
 | 133 | 234 | Jr_420 |
 | 134 | 233 | Charis Stoner |
 | 135 | 233 | Haley Anne |
-| 136 | 229 | Randall Sykes |
-| 137 | 228 | Legendary |
-| 138 | 226 | JonCorry Story |
-| 139 | 224 | Peachy Brick |
-| 140 | 223 | Dawn Hoffman |
+| 136 | 231 | Dawn Hoffman |
+| 137 | 229 | Randall Sykes |
+| 138 | 228 | Legendary |
+| 139 | 226 | JonCorry Story |
+| 140 | 224 | Peachy Brick |
 | 141 | 220 | Liliana Pena |
 | 142 | 220 | Jevon Griffith |
 | 143 | 220 | Darci Cline |
@@ -1100,56 +1100,56 @@
 | 1092 | 20 | Yacousin |
 | 1093 | 20 | Jennifer O Robinson |
 | 1094 | 20 | LucasEveryday |
-| 1095 | 20 | MJ Beca Good |
-| 1096 | 20 | tox |
-| 1097 | 20 | Dizzy Tiler |
-| 1098 | 20 | Blaster007 |
-| 1099 | 20 | Alexandria Ritch |
-| 1100 | 20 | Freya |
-| 1101 | 20 | Cooldamalley |
-| 1102 | 20 | Giddy Clearbuilder |
-| 1103 | 20 | Dan Sessa |
-| 1104 | 20 | Kindra Sinclair |
-| 1105 | 20 | Flashy Clicky |
-| 1106 | 20 | Zappy Strike |
-| 1107 | 20 | Edda-Jo Wenneman Dobbs |
-| 1108 | 20 | Chirpy Glidebuilder |
-| 1109 | 20 | Mel Esquibel Brostoski |
+| 1095 | 20 | Candace Esposito |
+| 1096 | 20 | Freya |
+| 1097 | 20 | Alexandria Ritch |
+| 1098 | 20 | Cooldamalley |
+| 1099 | 20 | Giddy Clearbuilder |
+| 1100 | 20 | Kindra Sinclair |
+| 1101 | 20 | Dan Sessa |
+| 1102 | 20 | Blaster007 |
+| 1103 | 20 | Dizzy Tiler |
+| 1104 | 20 | Flashy Clicky |
+| 1105 | 20 | Zappy Strike |
+| 1106 | 20 | Edda-Jo Wenneman Dobbs |
+| 1107 | 20 | Christen Lawrick |
+| 1108 | 20 | tox |
+| 1109 | 20 | sobercocoa |
 | 1110 | 20 | Snapdragon |
-| 1111 | 20 | sobercocoa |
-| 1112 | 20 | Candace Esposito |
-| 1113 | 20 | Christen Lawrick |
-| 1114 | 19 | Shannon Tannehill |
-| 1115 | 19 | Marisa Tesch |
-| 1116 | 19 | Kevin Sees |
-| 1117 | 19 | Gavin Carr |
-| 1118 | 19 | TheKBr0 |
-| 1119 | 19 | Jenny Weidman Perrotta |
-| 1120 | 19 | Giggy Tiley |
-| 1121 | 19 | GinjaNinja |
-| 1122 | 19 | Sharon Panoski |
-| 1123 | 19 | Texas Sass |
-| 1124 | 19 | Amber Lingerfelt |
-| 1125 | 19 | Missy Lynn |
-| 1126 | 19 | Rex Max |
-| 1127 | 19 | Susan Kilgore |
-| 1128 | 19 | Heather Skillern |
+| 1111 | 20 | Mel Esquibel Brostoski |
+| 1112 | 20 | Chirpy Glidebuilder |
+| 1113 | 20 | MJ Beca Good |
+| 1114 | 19 | Sharon Panoski |
+| 1115 | 19 | GinjaNinja |
+| 1116 | 19 | Gavin Carr |
+| 1117 | 19 | Texas Sass |
+| 1118 | 19 | Kevin Sees |
+| 1119 | 19 | Shannon Tannehill |
+| 1120 | 19 | TheKBr0 |
+| 1121 | 19 | Jenny Weidman Perrotta |
+| 1122 | 19 | Stephanie M Dabson |
+| 1123 | 19 | Marisa Tesch |
+| 1124 | 19 | Giggy Tiley |
+| 1125 | 19 | Amber Lingerfelt |
+| 1126 | 19 | Missy Lynn |
+| 1127 | 19 | Rex Max |
+| 1128 | 19 | Susan Kilgore |
 | 1129 | 19 | cool kat |
-| 1130 | 19 | Nutty Tumbler |
-| 1131 | 18 | Dc |
-| 1132 | 18 | Lexx Oliver |
-| 1133 | 18 | Gregg Scott |
-| 1134 | 18 | Keith Andrews |
-| 1135 | 18 | Giggly Twistslam |
-| 1136 | 18 | Stephanie M Dabson |
+| 1130 | 19 | Heather Skillern |
+| 1131 | 19 | Nutty Tumbler |
+| 1132 | 18 | Grace Leigh |
+| 1133 | 18 | Dc |
+| 1134 | 18 | Gregg Scott |
+| 1135 | 18 | Keith Andrews |
+| 1136 | 18 | Giggly Twistslam |
 | 1137 | 18 | Tania Flores |
-| 1138 | 18 | Grace Leigh |
+| 1138 | 18 | Lexx Oliver |
 | 1139 | 18 | Strawberry73 |
-| 1140 | 18 | Pauline Cortez |
-| 1141 | 18 | Giddy Tilefall |
+| 1140 | 18 | Giddy Tilefall |
+| 1141 | 18 | Pauline Cortez |
 | 1142 | 18 | Timothy Long |
-| 1143 | 18 | YaKima Frisby Walker |
-| 1144 | 18 | Ben Barkley |
+| 1143 | 18 | Ben Barkley |
+| 1144 | 18 | YaKima Frisby Walker |
 | 1145 | 18 | Keegan King-steele |
 | 1146 | 18 | om |
 | 1147 | 18 | John Cruz |
