@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 10:31:18 UTC
+# Standings for team2 as of 2026-03-14 10:32:18 UTC
 
 **Total Participants:** 1471
 
@@ -100,17 +100,17 @@
 | 92 | 328 | Autumn Leslie |
 | 93 | 322 | Amanda Young |
 | 94 | 322 | Nicole Cannon |
-| 95 | 318 | Dapper Gridclear |
-| 96 | 315 | Deb Wasano |
-| 97 | 313 | TreeWee |
-| 98 | 300 | Snappy Bridgepiece |
-| 99 | 299 | Mike Carden |
-| 100 | 299 | Adam Charles |
-| 101 | 295 | Jumpy Smasher |
-| 102 | 294 | Ariel Pearson |
-| 103 | 291 | Liz Wambsgans |
-| 104 | 291 | Snappy Tiley |
-| 105 | 289 | John Matson |
+| 95 | 318 | John Matson |
+| 96 | 318 | Dapper Gridclear |
+| 97 | 315 | Deb Wasano |
+| 98 | 313 | TreeWee |
+| 99 | 300 | Snappy Bridgepiece |
+| 100 | 299 | Mike Carden |
+| 101 | 299 | Adam Charles |
+| 102 | 295 | Jumpy Smasher |
+| 103 | 294 | Ariel Pearson |
+| 104 | 291 | Liz Wambsgans |
+| 105 | 291 | Snappy Tiley |
 | 106 | 287 | Qing DG |
 | 107 | 282 | Ruby Anne |
 | 108 | 280 | Loopy Clusterer |
@@ -1363,53 +1363,53 @@
 | 1355 | 8 | QueenSheida |
 | 1356 | 8 | Jonathan Myers |
 | 1357 | 8 | Anika Strawberryz Smith |
-| 1358 | 8 | Becky Wilson |
-| 1359 | 8 | Genius |
-| 1360 | 8 | Sadie |
-| 1361 | 8 | Ponytail113 |
-| 1362 | 8 | Crystal Renee Plush |
-| 1363 | 8 | Loopy Curve |
-| 1364 | 8 | Tessa |
-| 1365 | 8 | Danny Chavira |
-| 1366 | 8 | Neva Blum |
-| 1367 | 8 | Emily Ackley |
-| 1368 | 8 | Casey Wilson |
-| 1369 | 8 | Rach |
-| 1370 | 8 | Viktorya Elizabeth |
-| 1371 | 8 | Shanon Klair |
-| 1372 | 8 | Moneygirl |
-| 1373 | 8 | Swanky Matchfit |
-| 1374 | 8 | Carrie Panzeter |
-| 1375 | 8 | Demitrick Chaney |
-| 1376 | 8 | Danielle Wright |
-| 1377 | 8 | Chill Stack |
-| 1378 | 8 | Shannon Grisson |
-| 1379 | 8 | Melissa K Smith |
-| 1380 | 8 | Joseph Guzman |
-| 1381 | 7 | ytho |
-| 1382 | 7 | CocoKatt |
-| 1383 | 7 | James Busby |
-| 1384 | 7 | Ace |
-| 1385 | 7 | Peachy Snapmatch |
-| 1386 | 7 | Kari Thompson Rock |
-| 1387 | 7 | Melissa Williams Blevins |
-| 1388 | 7 | Slinky Tile |
-| 1389 | 7 | Angie Maddox |
-| 1390 | 7 | goatmaster |
-| 1391 | 7 | mala |
-| 1392 | 7 | deltagrizzy |
-| 1393 | 7 | Liz Scott |
-| 1394 | 7 | Ryan Martin |
-| 1395 | 7 | Alan AndRoberta Mast |
-| 1396 | 7 | silla |
-| 1397 | 7 | Lil Red |
-| 1398 | 7 | Fuzzy |
-| 1399 | 7 | Chilly Gridlock |
-| 1400 | 7 | TheBeast Tori |
-| 1401 | 7 | Mag Kuczynski Costello |
-| 1402 | 7 | swaggysteph |
-| 1403 | 7 | MrsNutt |
-| 1404 | 7 | Joshua |
+| 1358 | 8 | Joshua |
+| 1359 | 8 | Becky Wilson |
+| 1360 | 8 | Genius |
+| 1361 | 8 | Sadie |
+| 1362 | 8 | Ponytail113 |
+| 1363 | 8 | Crystal Renee Plush |
+| 1364 | 8 | Loopy Curve |
+| 1365 | 8 | Tessa |
+| 1366 | 8 | Danny Chavira |
+| 1367 | 8 | Neva Blum |
+| 1368 | 8 | Emily Ackley |
+| 1369 | 8 | Casey Wilson |
+| 1370 | 8 | Rach |
+| 1371 | 8 | Viktorya Elizabeth |
+| 1372 | 8 | Shanon Klair |
+| 1373 | 8 | Moneygirl |
+| 1374 | 8 | Swanky Matchfit |
+| 1375 | 8 | Carrie Panzeter |
+| 1376 | 8 | Demitrick Chaney |
+| 1377 | 8 | Danielle Wright |
+| 1378 | 8 | Chill Stack |
+| 1379 | 8 | Shannon Grisson |
+| 1380 | 8 | Melissa K Smith |
+| 1381 | 8 | Joseph Guzman |
+| 1382 | 7 | ytho |
+| 1383 | 7 | CocoKatt |
+| 1384 | 7 | James Busby |
+| 1385 | 7 | Ace |
+| 1386 | 7 | Peachy Snapmatch |
+| 1387 | 7 | Kari Thompson Rock |
+| 1388 | 7 | Melissa Williams Blevins |
+| 1389 | 7 | Slinky Tile |
+| 1390 | 7 | Angie Maddox |
+| 1391 | 7 | goatmaster |
+| 1392 | 7 | mala |
+| 1393 | 7 | deltagrizzy |
+| 1394 | 7 | Liz Scott |
+| 1395 | 7 | Ryan Martin |
+| 1396 | 7 | Alan AndRoberta Mast |
+| 1397 | 7 | silla |
+| 1398 | 7 | Lil Red |
+| 1399 | 7 | Fuzzy |
+| 1400 | 7 | Chilly Gridlock |
+| 1401 | 7 | TheBeast Tori |
+| 1402 | 7 | Mag Kuczynski Costello |
+| 1403 | 7 | swaggysteph |
+| 1404 | 7 | MrsNutt |
 | 1405 | 7 | Psst |
 | 1406 | 7 | Hosifa Yasin |
 | 1407 | 7 | Shiny Patternline |
