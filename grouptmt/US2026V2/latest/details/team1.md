@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-03-14 21:34:40 UTC
+# Standings for team1 as of 2026-03-14 21:35:19 UTC
 
-**Total Participants:** 1892
+**Total Participants:** 1893
 
 ## Participant Scores
 
@@ -162,10 +162,10 @@
 | 154 | 313 | Bryan Temple |
 | 155 | 311 | Shiny Shiftspin |
 | 156 | 308 | Jena Overall Prescott |
-| 157 | 307 | Stephanie Myers |
-| 158 | 307 | Legendary |
-| 159 | 303 | Robert Everett |
-| 160 | 303 | Jr_420 |
+| 157 | 307 | Legendary |
+| 158 | 307 | Stephanie Myers |
+| 159 | 303 | Jr_420 |
+| 160 | 303 | Robert Everett |
 | 161 | 302 | Joy Bloodworth |
 | 162 | 302 | Justin Feingold |
 | 163 | 300 | Angel Mendez |
@@ -174,10 +174,10 @@
 | 166 | 299 | Dawn Hoffman |
 | 167 | 299 | Wacky Balancer |
 | 168 | 297 | Thorpedo |
-| 169 | 292 | Jessi Sauer |
-| 170 | 288 | Dramatic Tiger |
-| 171 | 288 | Matthew Bunn |
-| 172 | 288 | Hasbro Bros |
+| 169 | 294 | Matthew Bunn |
+| 170 | 292 | Jessi Sauer |
+| 171 | 288 | Hasbro Bros |
+| 172 | 288 | Dramatic Tiger |
 | 173 | 286 | nameno |
 | 174 | 286 | Marie Helman |
 | 175 | 281 | Death |
@@ -272,12 +272,12 @@
 | 264 | 176 | Stefanie Champion |
 | 265 | 175 | Zany Mover |
 | 266 | 175 | Trina Gee |
-| 267 | 175 | shelly |
-| 268 | 175 | Jason Hawk |
+| 267 | 175 | Jason Hawk |
+| 268 | 175 | shelly |
 | 269 | 173 | Josh Twilley |
-| 270 | 171 | Rebekah LeiAnn Bonsell |
-| 271 | 171 | Mary Cerciello |
-| 272 | 169 | Ecami |
+| 270 | 172 | Ecami |
+| 271 | 171 | Rebekah LeiAnn Bonsell |
+| 272 | 171 | Mary Cerciello |
 | 273 | 169 | Hasty Lift |
 | 274 | 168 | Spunky Rollblock |
 | 275 | 168 | Lynn Perkins |
@@ -1869,24 +1869,24 @@
 | 1861 | 5 | Jennifer Brown |
 | 1862 | 5 | Sarajo Clauson |
 | 1863 | 5 | Lulu C Harp |
-| 1864 | 5 | James Morris |
-| 1865 | 5 | Marian L. Ryan |
+| 1864 | 5 | Anthony Scarberry |
+| 1865 | 5 | James Morris |
 | 1866 | 5 | Terri Beran |
 | 1867 | 5 | çushy |
-| 1868 | 5 | Drifter76 |
-| 1869 | 5 | Tams |
-| 1870 | 5 | maddihatter |
-| 1871 | 5 | Jaime Barrett Nelson |
-| 1872 | 5 | Tandi Hinson Basham |
-| 1873 | 5 | Michelle Pritchard |
-| 1874 | 5 | Kelly Owens |
-| 1875 | 5 | GoatHimothy |
-| 1876 | 5 | 420 but ion smoke |
-| 1877 | 5 | Isaiah Brand |
-| 1878 | 5 | Happy Swipe |
-| 1879 | 5 | Leo Davis |
-| 1880 | 5 | Christine Perkins |
-| 1881 | 5 | Peachy Snaplink |
+| 1868 | 5 | Marian L. Ryan |
+| 1869 | 5 | Drifter76 |
+| 1870 | 5 | Tams |
+| 1871 | 5 | maddihatter |
+| 1872 | 5 | Jaime Barrett Nelson |
+| 1873 | 5 | Tandi Hinson Basham |
+| 1874 | 5 | Michelle Pritchard |
+| 1875 | 5 | Kelly Owens |
+| 1876 | 5 | GoatHimothy |
+| 1877 | 5 | 420 but ion smoke |
+| 1878 | 5 | Isaiah Brand |
+| 1879 | 5 | Happy Swipe |
+| 1880 | 5 | Leo Davis |
+| 1881 | 5 | Christine Perkins |
 | 1882 | 5 | Melodie Nelson |
 | 1883 | 5 | Chilly Pop |
 | 1884 | 5 | Clever Wiper |
@@ -1898,6 +1898,7 @@
 | 1890 | 5 | Beth Craft |
 | 1891 | 5 | Louisa Hernandez |
 | 1892 | 5 | KingFlex Haile Jr |
+| 1893 | 5 | Peachy Snaplink |
 
 ---
 *Standings created by tournaments datasource generation tool*
