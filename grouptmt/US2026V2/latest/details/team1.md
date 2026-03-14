@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 21:40:19 UTC
+# Standings for team1 as of 2026-03-14 21:40:39 UTC
 
 **Total Participants:** 1894
 
@@ -782,41 +782,41 @@
 | 774 | 58 | Jennifer Traywick |
 | 775 | 58 | Olympia |
 | 776 | 58 | Magic Meli |
-| 777 | 58 | LuLa |
-| 778 | 58 | Dominic G Terriaca |
-| 779 | 58 | Alyssa Bruce |
-| 780 | 58 | Winky |
+| 777 | 58 | anshu |
+| 778 | 58 | LuLa |
+| 779 | 58 | Christi Bouten-Harmon |
+| 780 | 58 | Dominic G Terriaca |
 | 781 | 58 | Wings |
-| 782 | 58 | Steffi Chris Dacones |
-| 783 | 58 | Christi Bouten-Harmon |
-| 784 | 58 | Carolyn MacFarland |
-| 785 | 57 | Frisky Glidebuilder |
-| 786 | 57 | Mo Mulah |
-| 787 | 57 | Jonathan Morgan-Hoare |
-| 788 | 57 | Aj Fredenburg |
+| 782 | 58 | Winky |
+| 783 | 58 | Carolyn MacFarland |
+| 784 | 58 | Steffi Chris Dacones |
+| 785 | 58 | Alyssa Bruce |
+| 786 | 57 | Amega |
+| 787 | 57 | Lori Dutton |
+| 788 | 57 | Erica Wynne |
 | 789 | 57 | Sandra Link-Gable |
-| 790 | 57 | Erica Wynne |
-| 791 | 57 | Lori Dutton |
-| 792 | 57 | AcidSandwich |
-| 793 | 57 | anshu |
+| 790 | 57 | AcidSandwich |
+| 791 | 57 | Aj Fredenburg |
+| 792 | 57 | Loopy Zonepiece |
+| 793 | 57 | Jonathan Morgan-Hoare |
 | 794 | 57 | Countryboy Will Survive |
-| 795 | 57 | Amega |
-| 796 | 57 | Loopy Zonepiece |
-| 797 | 56 | Barbara Miller |
-| 798 | 56 | Rubi |
-| 799 | 56 | Kirstian Taylor Grimsley |
-| 800 | 56 | Greg Hart |
-| 801 | 56 | sgt baby |
-| 802 | 56 | Clever Linkroll |
-| 803 | 56 | Aigner Monae |
-| 804 | 56 | Speedy Rollpiece |
-| 805 | 55 | Curt Larson |
-| 806 | 55 | Salena Pardue |
-| 807 | 55 | Kindra Sinclair |
-| 808 | 55 | Margie Olivas |
+| 795 | 57 | Frisky Glidebuilder |
+| 796 | 57 | Mo Mulah |
+| 797 | 56 | Aigner Monae |
+| 798 | 56 | Kirstian Taylor Grimsley |
+| 799 | 56 | Speedy Rollpiece |
+| 800 | 56 | Rubi |
+| 801 | 56 | Clever Linkroll |
+| 802 | 56 | sgt baby |
+| 803 | 56 | Greg Hart |
+| 804 | 56 | Barbara Miller |
+| 805 | 55 | Karissa Hull |
+| 806 | 55 | Margie Olivas |
+| 807 | 55 | Salena Pardue |
+| 808 | 55 | Kindra Sinclair |
 | 809 | 55 | Jordan Leach |
-| 810 | 55 | Kathy Searles |
-| 811 | 55 | Karissa Hull |
+| 810 | 55 | Curt Larson |
+| 811 | 55 | Kathy Searles |
 | 812 | 55 | Jay Will |
 | 813 | 55 | Leche |
 | 814 | 55 | Betty |
