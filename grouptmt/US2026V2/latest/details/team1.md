@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 07:56:37 UTC
+# Standings for team1 as of 2026-03-14 07:57:16 UTC
 
 **Total Participants:** 1491
 
@@ -112,8 +112,8 @@
 | 104 | 279 | Ern2burn |
 | 105 | 277 | Shaynna Garza |
 | 106 | 276 | Jessi Sauer |
-| 107 | 272 | Perky Shatterline |
-| 108 | 272 | Witty Wipegrid |
+| 107 | 275 | Witty Wipegrid |
+| 108 | 272 | Perky Shatterline |
 | 109 | 248 | TRCuse |
 | 110 | 245 | Josh Barringer |
 | 111 | 241 | Heatherly |
@@ -196,10 +196,10 @@
 | 188 | 140 | Bubba |
 | 189 | 138 | David Rojas |
 | 190 | 138 | Cynthia Petz |
-| 191 | 138 | Jason Rogers |
-| 192 | 136 | Porshe Garthwaite |
-| 193 | 136 | Jason Whitehair |
-| 194 | 135 | Fatima Washington |
+| 191 | 138 | Fatima Washington |
+| 192 | 138 | Jason Rogers |
+| 193 | 136 | Porshe Garthwaite |
+| 194 | 136 | Jason Whitehair |
 | 195 | 134 | Lively Patternfall |
 | 196 | 134 | Armoni |
 | 197 | 134 | Albert Josef Toves Means Jr. |
