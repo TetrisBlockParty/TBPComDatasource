@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 17:48:19 UTC
+# Standings for team1 as of 2026-03-14 17:48:40 UTC
 
 **Total Participants:** 1789
 
@@ -1465,43 +1465,43 @@
 | 1457 | 15 | apple |
 | 1458 | 15 | Lush Buildout |
 | 1459 | 15 | Johnnette Kruse |
-| 1460 | 15 | Adam Stephanie Parker |
-| 1461 | 15 | Sassyshell |
-| 1462 | 15 | SamanthaJo Apthorpe |
-| 1463 | 15 | Ric Hard Hernandez |
-| 1464 | 15 | Alex Wilson Wilson |
-| 1465 | 15 | Loony Spinblock |
-| 1466 | 15 | Amber Wolfe |
-| 1467 | 15 | Maricia Coleman |
-| 1468 | 15 | Daring Edge |
-| 1469 | 15 | Ody |
-| 1470 | 15 | Zesty Fitclear |
-| 1471 | 15 | Shaneeka Morrissette |
-| 1472 | 15 | Perky Twisterfit |
-| 1473 | 15 | Gary Kyle |
-| 1474 | 15 | WasagaSqueezer |
-| 1475 | 15 | Amber LR Sutter |
-| 1476 | 15 | Edwards Dave |
-| 1477 | 15 | Ambrosia Natas Danu |
-| 1478 | 14 | Sylvia Black |
-| 1479 | 14 | Spunky Zone |
-| 1480 | 14 | Wings |
-| 1481 | 14 | Speedy Dropmatch |
-| 1482 | 14 | April Moore |
-| 1483 | 14 | Haykid14 |
-| 1484 | 14 | Poppy Lift |
-| 1485 | 14 | Janet Snipes Kimmel |
-| 1486 | 14 | Cindy Lee Johnson |
-| 1487 | 14 | Natalia Lynee Leggett |
-| 1488 | 14 | Megan Treacy |
-| 1489 | 14 | KissedbyKinny |
-| 1490 | 14 | Brandy Ann |
-| 1491 | 14 | Jeffrey Adams |
-| 1492 | 14 | Jasmyne Moreno |
-| 1493 | 14 | Shaunie Miller |
-| 1494 | 14 | Shiny Patternblock |
-| 1495 | 13 | Natasha Velasquez Gabriel |
-| 1496 | 13 | Dionie Pina |
+| 1460 | 15 | Dionie Pina |
+| 1461 | 15 | Edwards Dave |
+| 1462 | 15 | Amber LR Sutter |
+| 1463 | 15 | WasagaSqueezer |
+| 1464 | 15 | Perky Twisterfit |
+| 1465 | 15 | Adam Stephanie Parker |
+| 1466 | 15 | Maricia Coleman |
+| 1467 | 15 | Ric Hard Hernandez |
+| 1468 | 15 | Sassyshell |
+| 1469 | 15 | SamanthaJo Apthorpe |
+| 1470 | 15 | Ambrosia Natas Danu |
+| 1471 | 15 | Alex Wilson Wilson |
+| 1472 | 15 | Loony Spinblock |
+| 1473 | 15 | Amber Wolfe |
+| 1474 | 15 | Daring Edge |
+| 1475 | 15 | Ody |
+| 1476 | 15 | Zesty Fitclear |
+| 1477 | 15 | Shaneeka Morrissette |
+| 1478 | 15 | Gary Kyle |
+| 1479 | 14 | Megan Treacy |
+| 1480 | 14 | Sylvia Black |
+| 1481 | 14 | Shiny Patternblock |
+| 1482 | 14 | Shaunie Miller |
+| 1483 | 14 | Wings |
+| 1484 | 14 | Jasmyne Moreno |
+| 1485 | 14 | Spunky Zone |
+| 1486 | 14 | Jeffrey Adams |
+| 1487 | 14 | Speedy Dropmatch |
+| 1488 | 14 | April Moore |
+| 1489 | 14 | Brandy Ann |
+| 1490 | 14 | Haykid14 |
+| 1491 | 14 | Poppy Lift |
+| 1492 | 14 | Janet Snipes Kimmel |
+| 1493 | 14 | Cindy Lee Johnson |
+| 1494 | 14 | KissedbyKinny |
+| 1495 | 14 | Natalia Lynee Leggett |
+| 1496 | 13 | Natasha Velasquez Gabriel |
 | 1497 | 13 | Elizabeth A Cobuccio |
 | 1498 | 13 | Ronda Helton Prater |
 | 1499 | 13 | Olivia Ledger |

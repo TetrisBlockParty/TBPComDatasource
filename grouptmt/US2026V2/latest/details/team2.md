@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 17:48:19 UTC
+# Standings for team2 as of 2026-03-14 17:48:40 UTC
 
 **Total Participants:** 1718
 
@@ -10,8 +10,8 @@
 | 2 | 8231 | 赵珞涵 |
 | 3 | 7961 | Kelly Kihe |
 | 4 | 7194 | Justablock |
-| 5 | 4025 | MzBerry |
-| 6 | 3957 | Dizzy Zonegrid |
+| 5 | 4157 | Dizzy Zonegrid |
+| 6 | 4025 | MzBerry |
 | 7 | 3831 | Abigail Kate Fernandez |
 | 8 | 3724 | Kristen Sceurman |
 | 9 | 3630 | Shandrea Crawford |
@@ -135,8 +135,8 @@
 | 127 | 332 | Lisa Neal |
 | 128 | 329 | SterlingTeri |
 | 129 | 326 | Paul Hudak |
-| 130 | 324 | Jen Roe |
-| 131 | 316 | Ania |
+| 130 | 324 | Ania |
+| 131 | 324 | Jen Roe |
 | 132 | 316 | Tiff Vs Tiffany |
 | 133 | 311 | Snappy Tiley |
 | 134 | 309 | Liz Wambsgans |
@@ -621,45 +621,45 @@
 | 613 | 68 | Elizabeth Smith |
 | 614 | 68 | Twisty Tiler |
 | 615 | 68 | Ariel Whittington |
-| 616 | 68 | Jazzy Nat |
-| 617 | 67 | Katie Coyle |
-| 618 | 67 | Quirky Rollblock |
-| 619 | 67 | LeNae TwoBarbie McEachin |
-| 620 | 67 | Witty Cascadefit |
-| 621 | 67 | Amy Jur Falk |
-| 622 | 67 | Nerdy Clearer |
-| 623 | 67 | Tig’o Biggie |
-| 624 | 67 | ANIM3KNIGHT |
-| 625 | 66 | Sha45 |
-| 626 | 66 | Zack Theisen |
-| 627 | 66 | Spunky Balancefit |
-| 628 | 66 | Giddy Fallzone |
-| 629 | 66 | Rod Grayll |
-| 630 | 66 | jimjamflimflam |
-| 631 | 66 | Diane Louise |
-| 632 | 65 | Elegant banana |
-| 633 | 65 | Cee_me |
-| 634 | 65 | RicanJesus69 |
-| 635 | 65 | Jessica Venable |
-| 636 | 65 | Mandy |
-| 637 | 65 | NoShoesNation |
-| 638 | 65 | brii |
-| 639 | 65 | Cheri Rose |
-| 640 | 65 | fay |
-| 641 | 65 | Miguel Teixeira |
-| 642 | 65 | Kendra KJ Joyner |
-| 643 | 64 | Nerdy Risebuilder |
-| 644 | 64 | cat |
-| 645 | 64 | Cheeky Grabber |
-| 646 | 64 | Jennifer Osmer Carruth |
-| 647 | 64 | Giggly Shiftsnap |
-| 648 | 64 | Robert Benjamin |
-| 649 | 64 | DrMichelle Richardson |
-| 650 | 64 | BusyBee11 |
-| 651 | 64 | Shaun Talbot |
-| 652 | 64 | Hasty Ziggy |
+| 616 | 68 | Hasty Ziggy |
+| 617 | 68 | Jazzy Nat |
+| 618 | 67 | Katie Coyle |
+| 619 | 67 | Quirky Rollblock |
+| 620 | 67 | LeNae TwoBarbie McEachin |
+| 621 | 67 | Witty Cascadefit |
+| 622 | 67 | Amy Jur Falk |
+| 623 | 67 | Nerdy Clearer |
+| 624 | 67 | Tig’o Biggie |
+| 625 | 67 | ANIM3KNIGHT |
+| 626 | 66 | Sha45 |
+| 627 | 66 | Zack Theisen |
+| 628 | 66 | Spunky Balancefit |
+| 629 | 66 | Giddy Fallzone |
+| 630 | 66 | Rod Grayll |
+| 631 | 66 | jimjamflimflam |
+| 632 | 66 | Diane Louise |
+| 633 | 65 | Elegant banana |
+| 634 | 65 | Cee_me |
+| 635 | 65 | RicanJesus69 |
+| 636 | 65 | Jessica Venable |
+| 637 | 65 | Mandy |
+| 638 | 65 | NoShoesNation |
+| 639 | 65 | brii |
+| 640 | 65 | Cheri Rose |
+| 641 | 65 | fay |
+| 642 | 65 | Miguel Teixeira |
+| 643 | 65 | Kendra KJ Joyner |
+| 644 | 64 | Nerdy Risebuilder |
+| 645 | 64 | cat |
+| 646 | 64 | Cheeky Grabber |
+| 647 | 64 | Jennifer Osmer Carruth |
+| 648 | 64 | Giggly Shiftsnap |
+| 649 | 64 | Robert Benjamin |
+| 650 | 64 | Maria Lee Ardoin |
+| 651 | 64 | BusyBee11 |
+| 652 | 64 | Shaun Talbot |
 | 653 | 64 | Kaycie Brieanne |
-| 654 | 64 | Maria Lee Ardoin |
+| 654 | 64 | DrMichelle Richardson |
 | 655 | 64 | gymjim |
 | 656 | 63 | Kiorah Blaze |
 | 657 | 63 | Nicole Lynnette Mahurin |
