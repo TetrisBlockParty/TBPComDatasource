@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 09:34:17 UTC
+# Standings for team2 as of 2026-03-14 09:34:39 UTC
 
 **Total Participants:** 1454
 
@@ -86,8 +86,8 @@
 | 78 | 368 | Sheesh M |
 | 79 | 366 | Brave Matchfit |
 | 80 | 366 | opf |
-| 81 | 360 | Alan George LaRage |
-| 82 | 360 | Liana Spikes |
+| 81 | 360 | Liana Spikes |
+| 82 | 360 | Alan George LaRage |
 | 83 | 359 | Arthe3rd |
 | 84 | 349 | Naomii Seton |
 | 85 | 348 | Antoinette Griffin |
@@ -95,8 +95,8 @@
 | 87 | 333 | Dee Doubleyou |
 | 88 | 329 | SterlingTeri |
 | 89 | 328 | Autumn Leslie |
-| 90 | 322 | Amanda Young |
-| 91 | 322 | Nicole Cannon |
+| 90 | 322 | Nicole Cannon |
+| 91 | 322 | Amanda Young |
 | 92 | 318 | Dapper Gridclear |
 | 93 | 315 | Deb Wasano |
 | 94 | 299 | Mike Carden |
@@ -111,16 +111,16 @@
 | 103 | 275 | Jo Frohwein |
 | 104 | 272 | Qing DG |
 | 105 | 270 | Slinky Towerer |
-| 106 | 266 | Sheena Hachmann |
-| 107 | 266 | Brooke Sunderhaus |
+| 106 | 266 | Brooke Sunderhaus |
+| 107 | 266 | Sheena Hachmann |
 | 108 | 265 | Michael H. M. Skropka |
 | 109 | 261 | Starr |
 | 110 | 260 | Lori Schlachter Segui |
 | 111 | 256 | YAE |
 | 112 | 255 | Pixie |
 | 113 | 253 | Khalysta |
-| 114 | 251 | Jami Howard |
-| 115 | 251 | Angela Mindiola |
+| 114 | 251 | Angela Mindiola |
+| 115 | 251 | Jami Howard |
 | 116 | 248 | Anna Faulkner |
 | 117 | 245 | Plucky Snaplink |
 | 118 | 244 | Jt Home |
@@ -134,8 +134,8 @@
 | 126 | 224 | Tya Ortiz |
 | 127 | 223 | TreeWee |
 | 128 | 222 | 1RiRi1 |
-| 129 | 218 | Chelsea Clark |
-| 130 | 218 | Ben Dove |
+| 129 | 218 | Ben Dove |
+| 130 | 218 | Chelsea Clark |
 | 131 | 218 | Ella Marzano |
 | 132 | 217 | Spunky Snapfit |
 | 133 | 216 | BluBae |
@@ -147,89 +147,89 @@
 | 139 | 207 | Arisvet Garcia |
 | 140 | 205 | Mary Reeves |
 | 141 | 205 | Danielle Mogg |
-| 142 | 203 | Rusty Davis |
-| 143 | 203 | Suffia Alexander |
-| 144 | 202 | Ess |
-| 145 | 202 | Carmen Jnvm |
+| 142 | 203 | Suffia Alexander |
+| 143 | 203 | Rusty Davis |
+| 144 | 202 | Carmen Jnvm |
+| 145 | 202 | Ess |
 | 146 | 200 | LML |
 | 147 | 200 | Peachy Matchgrid |
 | 148 | 197 | Fbai |
-| 149 | 195 | Melissa M Wolfe |
-| 150 | 195 | Katie Lynn |
+| 149 | 195 | Katie Lynn |
+| 150 | 195 | Melissa M Wolfe |
 | 151 | 192 | Maureen Winter |
 | 152 | 191 | Krys Brown |
 | 153 | 189 | David V. Bowers |
-| 154 | 188 | Dandy Crasher |
-| 155 | 188 | John Matson |
+| 154 | 188 | John Matson |
+| 155 | 188 | Dandy Crasher |
 | 156 | 188 | Leticia Martinez Kelley |
 | 157 | 187 | Christina Graham |
 | 158 | 185 | Michael E Whitejr |
 | 159 | 185 | Bouncy Swiper |
 | 160 | 183 | Jocelynn Marie |
 | 161 | 181 | Paul Hudak |
-| 162 | 180 | James Hurley Jr. |
-| 163 | 180 | Snappy Bridgepiece |
-| 164 | 180 | Jonathan Vee Jay |
-| 165 | 180 | Sheena Harris |
+| 162 | 180 | Sheena Harris |
+| 163 | 180 | Jonathan Vee Jay |
+| 164 | 180 | Snappy Bridgepiece |
+| 165 | 180 | James Hurley Jr. |
 | 166 | 178 | Jay |
 | 167 | 177 | Snippy Towerpiece |
 | 168 | 176 | Tosha Gonzales |
 | 169 | 175 | Ding Adventurer |
-| 170 | 174 | Taghrid Ebeid |
-| 171 | 174 | Carmilita Burpo Jordan |
+| 170 | 174 | Carmilita Burpo Jordan |
+| 171 | 174 | Taghrid Ebeid |
 | 172 | 173 | Kristina Hill Perez |
 | 173 | 173 | Elizabeth Diraffaele |
 | 174 | 172 | Dineisha Carpenter |
 | 175 | 170 | Elaine Webb Graves |
-| 176 | 170 | Mandy |
-| 177 | 170 | Jazzy Piecebuilder |
-| 178 | 168 | Peaches |
-| 179 | 168 | Lora |
-| 180 | 167 | Katie Wisecarver |
-| 181 | 166 | Rafael Valentin |
-| 182 | 165 | Tatyahna Cameron |
+| 176 | 170 | Jazzy Piecebuilder |
+| 177 | 170 | Mandy |
+| 178 | 169 | Madison Sweere |
+| 179 | 168 | Peaches |
+| 180 | 168 | Lora |
+| 181 | 167 | Katie Wisecarver |
+| 182 | 166 | Rafael Valentin |
 | 183 | 165 | Liz Wambsgans |
-| 184 | 164 | Beth Smith |
-| 185 | 163 | Dreamer |
-| 186 | 161 | Hyper Pop |
+| 184 | 165 | Tatyahna Cameron |
+| 185 | 164 | Beth Smith |
+| 186 | 163 | Dreamer |
 | 187 | 161 | sweet lil miss |
-| 188 | 161 | Jocelyn Jauregui |
-| 189 | 160 | Kit Dennett |
-| 190 | 160 | Michelle |
-| 191 | 158 | Julio Alejandro Rodriguez |
-| 192 | 158 | Frothy Linker |
-| 193 | 157 | CharalaAnn |
-| 194 | 157 | Shelly |
-| 195 | 154 | Dreamy Clicker |
-| 196 | 153 | nickle109 |
-| 197 | 152 | Courtney Cicoria |
-| 198 | 150 | Brave Fallzone |
-| 199 | 150 | Zesty Link |
-| 200 | 150 | Kyesha Goodyear |
-| 201 | 150 | Tracey Whetstone |
-| 202 | 150 | Glitzy Rollblock |
-| 203 | 150 | Sherry Jones |
-| 204 | 148 | Alyssa Cox |
-| 205 | 147 | John De Guzman Sydiongco |
-| 206 | 145 | Susan Dunn |
+| 188 | 161 | Hyper Pop |
+| 189 | 161 | Jocelyn Jauregui |
+| 190 | 160 | Kit Dennett |
+| 191 | 160 | Michelle |
+| 192 | 158 | Julio Alejandro Rodriguez |
+| 193 | 158 | Frothy Linker |
+| 194 | 157 | CharalaAnn |
+| 195 | 157 | Shelly |
+| 196 | 154 | Dreamy Clicker |
+| 197 | 153 | nickle109 |
+| 198 | 152 | Courtney Cicoria |
+| 199 | 150 | Glitzy Rollblock |
+| 200 | 150 | Brave Fallzone |
+| 201 | 150 | Zesty Link |
+| 202 | 150 | Kyesha Goodyear |
+| 203 | 150 | Tracey Whetstone |
+| 204 | 150 | Sherry Jones |
+| 205 | 148 | Alyssa Cox |
+| 206 | 147 | John De Guzman Sydiongco |
 | 207 | 145 | Berling Gil |
-| 208 | 145 | Mcg |
-| 209 | 145 | Krish Shah |
-| 210 | 145 | Cynthia Prouse |
-| 211 | 145 | Connie Mohler-Fair |
-| 212 | 143 | Frances Hui |
-| 213 | 143 | Porsche' Nicole |
-| 214 | 142 | Jen |
-| 215 | 142 | Christy Merriman Addison |
-| 216 | 141 | Aobregon01 |
-| 217 | 141 | Zak Dunn |
-| 218 | 141 | Lateisha Morris |
-| 219 | 140 | Nerdy Blockpiece |
-| 220 | 140 | Brenda Lee Vander Molen |
-| 221 | 140 | Sandra Safford |
-| 222 | 138 | Gael |
-| 223 | 137 | Candy Brooks |
-| 224 | 137 | Madison Sweere |
+| 208 | 145 | Krish Shah |
+| 209 | 145 | Cynthia Prouse |
+| 210 | 145 | Connie Mohler-Fair |
+| 211 | 145 | Susan Dunn |
+| 212 | 145 | Mcg |
+| 213 | 143 | Frances Hui |
+| 214 | 143 | Porsche' Nicole |
+| 215 | 142 | Jen |
+| 216 | 142 | Christy Merriman Addison |
+| 217 | 141 | Aobregon01 |
+| 218 | 141 | Zak Dunn |
+| 219 | 141 | Lateisha Morris |
+| 220 | 140 | Nerdy Blockpiece |
+| 221 | 140 | Brenda Lee Vander Molen |
+| 222 | 140 | Sandra Safford |
+| 223 | 138 | Gael |
+| 224 | 137 | Candy Brooks |
 | 225 | 137 | Tony Tran |
 | 226 | 137 | Jasmine Kenney |
 | 227 | 136 | Frisky Riserbuilder |
