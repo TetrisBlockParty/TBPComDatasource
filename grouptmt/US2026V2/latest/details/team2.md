@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 15:48:41 UTC
+# Standings for team2 as of 2026-03-14 15:49:18 UTC
 
 **Total Participants:** 1648
 
@@ -63,11 +63,11 @@
 | 55 | 700 | Leah Gorsuch |
 | 56 | 692 | Joshua |
 | 57 | 661 | Jennifer Golub |
-| 58 | 656 | pooda |
-| 59 | 652 | TreeWee |
-| 60 | 648 | Richard Butler |
-| 61 | 632 | Chipper Matchclear |
-| 62 | 624 | Elizabeth Crowder Pelton |
+| 58 | 661 | Elizabeth Crowder Pelton |
+| 59 | 656 | pooda |
+| 60 | 652 | TreeWee |
+| 61 | 648 | Richard Butler |
+| 62 | 632 | Chipper Matchclear |
 | 63 | 599 | Eckoman518 |
 | 64 | 594 | LolaSmilez |
 | 65 | 580 | Becky McClure |
@@ -84,7 +84,7 @@
 | 76 | 486 | Suffia Alexander |
 | 77 | 484 | Amanda Sullivan |
 | 78 | 480 | Kristina Custer |
-| 79 | 476 | Peppy Slice |
+| 79 | 479 | Peppy Slice |
 | 80 | 456 | Sara Morgan |
 | 81 | 451 | Dreamy Clicker |
 | 82 | 450 | Quirky Matchfit |
@@ -197,9 +197,9 @@
 | 189 | 203 | Rusty Davis |
 | 190 | 202 | Carmen Jnvm |
 | 191 | 202 | Ess |
-| 192 | 200 | Krys Brown |
-| 193 | 200 | Nerdy Blockpiece |
-| 194 | 200 | Sandy Aragon |
+| 192 | 200 | Sandy Aragon |
+| 193 | 200 | Krys Brown |
+| 194 | 200 | Nerdy Blockpiece |
 | 195 | 200 | Samantha Bagent |
 | 196 | 199 | titrissss |
 | 197 | 199 | Carmilita Burpo Jordan |
@@ -216,40 +216,40 @@
 | 208 | 185 | Michael E Whitejr |
 | 209 | 185 | Natasha |
 | 210 | 184 | Beth Smith |
-| 211 | 183 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 212 | 183 | Jocelynn Marie |
+| 211 | 183 | Jocelynn Marie |
+| 212 | 183 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 213 | 183 | Courtney Cicoria |
 | 214 | 181 | Alexis Seath |
-| 215 | 180 | nina |
-| 216 | 180 | Sheena Harris |
-| 217 | 180 | Loony Snapbuild |
-| 218 | 180 | James Hurley Jr. |
-| 219 | 180 | Jonathan Vee Jay |
+| 215 | 180 | James Hurley Jr. |
+| 216 | 180 | Jonathan Vee Jay |
+| 217 | 180 | Sheena Harris |
+| 218 | 180 | Loony Snapbuild |
+| 219 | 180 | nina |
 | 220 | 179 | Bouncy Zoner |
-| 221 | 178 | Lora |
-| 222 | 178 | JustYvette IsFine |
+| 221 | 178 | JustYvette IsFine |
+| 222 | 178 | Lora |
 | 223 | 176 | Tosha Gonzales |
-| 224 | 175 | Ding Adventurer |
-| 225 | 175 | Connie Mohler-Fair |
+| 224 | 175 | Connie Mohler-Fair |
+| 225 | 175 | Ding Adventurer |
 | 226 | 174 | Elaine Webb Graves |
 | 227 | 174 | Taghrid Ebeid |
 | 228 | 173 | Elizabeth Diraffaele |
 | 229 | 173 | Allison L Tiffany |
 | 230 | 173 | Kristina Hill Perez |
 | 231 | 172 | Dineisha Carpenter |
-| 232 | 170 | Cynthia Prouse |
+| 232 | 170 | Berling Gil |
 | 233 | 170 | Jazzy Piecebuilder |
-| 234 | 170 | Berling Gil |
+| 234 | 170 | Cynthia Prouse |
 | 235 | 169 | Rafael Valentin |
-| 236 | 169 | Madison Sweere |
-| 237 | 166 | Krish Shah |
-| 238 | 165 | Tatyahna Cameron |
-| 239 | 162 | Dreamy Clicky |
-| 240 | 161 | Hyper Pop |
-| 241 | 161 | Jocelyn Jauregui |
-| 242 | 160 | Michelle |
-| 243 | 159 | Troy |
-| 244 | 159 | Christy Merriman Addison |
+| 236 | 169 | Christy Merriman Addison |
+| 237 | 169 | Madison Sweere |
+| 238 | 166 | Krish Shah |
+| 239 | 165 | Tatyahna Cameron |
+| 240 | 162 | Dreamy Clicky |
+| 241 | 161 | Hyper Pop |
+| 242 | 161 | Jocelyn Jauregui |
+| 243 | 160 | Michelle |
+| 244 | 159 | Troy |
 | 245 | 158 | Frothy Linker |
 | 246 | 157 | Jamie Mclean |
 | 247 | 154 | Jess Ortiz |
@@ -268,10 +268,10 @@
 | 260 | 147 | Amanda Segura |
 | 261 | 147 | Charde Parnell |
 | 262 | 145 | Mcg |
-| 263 | 143 | Porsche' Nicole |
-| 264 | 143 | Alexander Zamora |
-| 265 | 143 | Frances Hui |
-| 266 | 143 | Jasmine Kenney |
+| 263 | 144 | Jasmine Kenney |
+| 264 | 143 | Porsche' Nicole |
+| 265 | 143 | Alexander Zamora |
+| 266 | 143 | Frances Hui |
 | 267 | 142 | Jen |
 | 268 | 141 | Lateisha Morris |
 | 269 | 141 | Zippy Tile |
@@ -548,33 +548,33 @@
 | 540 | 70 | Sarah Marie |
 | 541 | 70 | Melody Santiago |
 | 542 | 70 | Toph |
-| 543 | 70 | Sonceria Ingram-Ford |
-| 544 | 70 | Caitlyn Brown |
+| 543 | 70 | Caitlyn Brown |
+| 544 | 70 | Sonceria Ingram-Ford |
 | 545 | 69 | Jelessa Locklear |
 | 546 | 69 | Kristin Montoya |
 | 547 | 69 | Lela Berklund |
-| 548 | 69 | Jason McCloy |
-| 549 | 69 | Michelle Sager |
-| 550 | 69 | scott |
-| 551 | 69 | Sabrina Cearley |
-| 552 | 68 | Jazzy Nat |
-| 553 | 68 | Ariel Whittington |
-| 554 | 68 | Danielle Thompkins |
-| 555 | 68 | Michelle Sharpe |
-| 556 | 68 | Mango |
-| 557 | 68 | Twisty Tiler |
-| 558 | 68 | Elizabeth Smith |
-| 559 | 67 | Witty Cascadefit |
+| 548 | 69 | Ashley Leonard |
+| 549 | 69 | Jason McCloy |
+| 550 | 69 | Michelle Sager |
+| 551 | 69 | scott |
+| 552 | 69 | Sabrina Cearley |
+| 553 | 68 | Jazzy Nat |
+| 554 | 68 | Ariel Whittington |
+| 555 | 68 | Danielle Thompkins |
+| 556 | 68 | Michelle Sharpe |
+| 557 | 68 | Mango |
+| 558 | 68 | Twisty Tiler |
+| 559 | 68 | Elizabeth Smith |
 | 560 | 67 | Lively Blockroll |
 | 561 | 67 | Amy Jur Falk |
-| 562 | 67 | Tig’o Biggie |
-| 563 | 67 | Grace Rubalcada |
-| 564 | 67 | Nerdy Clearer |
-| 565 | 67 | Katie Coyle |
-| 566 | 67 | Quirky Rollblock |
-| 567 | 66 | jimjamflimflam |
-| 568 | 66 | Dreamy Snapbuilder |
-| 569 | 66 | Ashley Leonard |
+| 562 | 67 | Witty Cascadefit |
+| 563 | 67 | Tig’o Biggie |
+| 564 | 67 | Grace Rubalcada |
+| 565 | 67 | Nerdy Clearer |
+| 566 | 67 | Katie Coyle |
+| 567 | 67 | Quirky Rollblock |
+| 568 | 66 | jimjamflimflam |
+| 569 | 66 | Dreamy Snapbuilder |
 | 570 | 66 | Chris Jammey |
 | 571 | 66 | Spunky Balancefit |
 | 572 | 66 | Rod Grayll |
@@ -647,12 +647,12 @@
 | 639 | 59 | Christian Caro |
 | 640 | 59 | Maria Lee Ardoin |
 | 641 | 59 | Kara E. Butler |
-| 642 | 59 | Daring Spinzone |
-| 643 | 59 | jay |
-| 644 | 59 | Breezy Cascader |
-| 645 | 59 | Jaylene Lawrence |
-| 646 | 59 | Sarah Somers Gray |
-| 647 | 58 | Shaun Talbot |
+| 642 | 59 | Shaun Talbot |
+| 643 | 59 | Daring Spinzone |
+| 644 | 59 | jay |
+| 645 | 59 | Breezy Cascader |
+| 646 | 59 | Jaylene Lawrence |
+| 647 | 59 | Sarah Somers Gray |
 | 648 | 58 | MiniLinni |
 | 649 | 58 | Marty Bittner |
 | 650 | 58 | ANIM3KNIGHT |
