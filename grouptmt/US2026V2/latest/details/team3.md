@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-14 07:24:38 UTC
+# Standings for team3 as of 2026-03-14 07:25:15 UTC
 
 **Total Participants:** 2222
 
@@ -24,14 +24,14 @@
 | 16 | 1779 | Rosa Franklin |
 | 17 | 1725 | Mighty Dashfit |
 | 18 | 1716 | Grams |
-| 19 | 1681 | Maria Wilson |
-| 20 | 1677 | Shelley Pizzazz |
-| 21 | 1675 | Fancy Slammer |
-| 22 | 1665 | Plucky Tiler |
-| 23 | 1618 | Kate M. Murdock |
-| 24 | 1614 | Stacey Arsenault |
-| 25 | 1607 | Ashley Ingram |
-| 26 | 1603 | Mimiof5 |
+| 19 | 1695 | Mimiof5 |
+| 20 | 1681 | Maria Wilson |
+| 21 | 1677 | Shelley Pizzazz |
+| 22 | 1675 | Fancy Slammer |
+| 23 | 1665 | Plucky Tiler |
+| 24 | 1618 | Kate M. Murdock |
+| 25 | 1614 | Stacey Arsenault |
+| 26 | 1607 | Ashley Ingram |
 | 27 | 1473 | Danielle McNew Nickerson |
 | 28 | 1406 | Ruby Thompson |
 | 29 | 1382 | Beth Naehrbass |
@@ -234,25 +234,25 @@
 | 226 | 164 | Jimeka Turner |
 | 227 | 164 | Twisty Blockpiece |
 | 228 | 161 | Josh Vietz |
-| 229 | 160 | Santi Angel Ramos |
-| 230 | 160 | Chris Sladoje |
-| 231 | 160 | Michelle Ramirez |
-| 232 | 160 | Janet Brown |
-| 233 | 160 | SkipTheSadSauce |
-| 234 | 160 | ffff |
-| 235 | 160 | Jessica Weaver |
-| 236 | 159 | Dottie Turbeville Creel |
+| 229 | 161 | Mr§.M€€§€€K |
+| 230 | 160 | Santi Angel Ramos |
+| 231 | 160 | Chris Sladoje |
+| 232 | 160 | Michelle Ramirez |
+| 233 | 160 | Janet Brown |
+| 234 | 160 | SkipTheSadSauce |
+| 235 | 160 | ffff |
+| 236 | 160 | Jessica Weaver |
 | 237 | 159 | Nonnina |
-| 238 | 159 | Renee |
-| 239 | 159 | Zippy Tiley |
-| 240 | 158 | PinkDiamond |
-| 241 | 158 | Marty Hernandez |
-| 242 | 157 | Megan Lea |
-| 243 | 157 | Brittany Rosales |
-| 244 | 157 | Mr§.M€€§€€K |
+| 238 | 159 | Zippy Tiley |
+| 239 | 159 | Renee |
+| 240 | 159 | Dottie Turbeville Creel |
+| 241 | 158 | PinkDiamond |
+| 242 | 158 | Marty Hernandez |
+| 243 | 157 | Megan Lea |
+| 244 | 157 | Brittany Rosales |
 | 245 | 156 | Teenie |
-| 246 | 155 | Cindy Fisher |
-| 247 | 155 | Swanky Pattern |
+| 246 | 155 | Swanky Pattern |
+| 247 | 155 | Cindy Fisher |
 | 248 | 154 | Trish Love |
 | 249 | 154 | Barba |
 | 250 | 153 | Zappy Blockfall |
