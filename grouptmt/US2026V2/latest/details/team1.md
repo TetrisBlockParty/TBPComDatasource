@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 12:30:18 UTC
+# Standings for team1 as of 2026-03-14 12:30:38 UTC
 
 **Total Participants:** 1582
 
@@ -528,105 +528,105 @@
 | 520 | 59 | Evy |
 | 521 | 59 | Carly |
 | 522 | 59 | Jennie Lee Huntley |
-| 523 | 59 | Matt Mullinax |
+| 523 | 59 | Snazzy Rotater |
 | 524 | 59 | Nifty |
 | 525 | 59 | Dramatic Tiger |
 | 526 | 59 | Crystal Eubanks |
-| 527 | 59 | Snazzy Rotater |
-| 528 | 59 | KathyandPhillip Woolard |
-| 529 | 59 | Kelly Miller Williams |
-| 530 | 59 | Dunlap Loretta |
-| 531 | 58 | Crystal Parker Bryant |
-| 532 | 58 | Andrew Lauterborn |
-| 533 | 58 | Lil H |
-| 534 | 58 | Zuul Gatekeeper |
+| 527 | 59 | KathyandPhillip Woolard |
+| 528 | 59 | Dunlap Loretta |
+| 529 | 59 | Matt Mullinax |
+| 530 | 59 | Kelly Miller Williams |
+| 531 | 58 | Tisha Cammack |
+| 532 | 58 | Zuul Gatekeeper |
+| 533 | 58 | Andrew Lauterborn |
+| 534 | 58 | Jonnelle Partin |
 | 535 | 58 | Jennifer Traywick |
-| 536 | 58 | Jonnelle Partin |
-| 537 | 58 | Tisha Cammack |
+| 536 | 58 | Crystal Parker Bryant |
+| 537 | 58 | Lil H |
 | 538 | 57 | Lori Dutton |
-| 539 | 57 | crunchy panda |
-| 540 | 57 | Crruth |
-| 541 | 57 | Mo Mulah |
-| 542 | 57 | Texastytest |
-| 543 | 57 | Tracy Priceless Gholston |
-| 544 | 56 | colt |
-| 545 | 56 | FireHawk |
+| 539 | 57 | Crruth |
+| 540 | 57 | ssr |
+| 541 | 57 | Tracy Priceless Gholston |
+| 542 | 57 | crunchy panda |
+| 543 | 57 | Texastytest |
+| 544 | 57 | Mo Mulah |
+| 545 | 56 | colt |
 | 546 | 56 | Hi |
-| 547 | 56 | Michael Phillips |
-| 548 | 56 | Rubi |
-| 549 | 56 | Alana Susan Hanley |
-| 550 | 56 | Ernest Jordan |
-| 551 | 56 | sgt baby |
-| 552 | 56 | Groovy Cascadefit |
-| 553 | 56 | Becky Coker |
-| 554 | 56 | Shiny Party |
-| 555 | 55 | Loony Towerpiece |
-| 556 | 55 | Leche |
-| 557 | 55 | Betty |
-| 558 | 55 | PennyCandee |
-| 559 | 55 | Ernie Guyette |
-| 560 | 55 | Jordan Leach |
-| 561 | 55 | Thomas Carlisle |
-| 562 | 55 | Speedy Rollpiece |
-| 563 | 55 | Rainbow brite |
-| 564 | 55 | slim |
-| 565 | 55 | Ruby Sandberg |
-| 566 | 55 | Cool Base |
-| 567 | 55 | Tabitha Rose Stone |
-| 568 | 54 | Edna Clinton |
-| 569 | 54 | Christi Bouten-Harmon |
-| 570 | 54 | Bumpy Morris |
-| 571 | 54 | Poppy Fallzone |
-| 572 | 54 | Beavis715 |
-| 573 | 54 | Swanky Tiltpiece |
-| 574 | 54 | Nate Funk |
-| 575 | 54 | ssr |
-| 576 | 54 | Luke Evans |
-| 577 | 54 | Nicole McCune |
-| 578 | 54 | Bouncy Patternzone |
-| 579 | 54 | Dominic G Terriaca |
-| 580 | 53 | Zany Tower |
-| 581 | 53 | MWFreddy |
-| 582 | 53 | Shay J Duval |
-| 583 | 53 | Magic Meli |
-| 584 | 53 | Jenn Lunsford |
-| 585 | 53 | Mindy Leigh Head |
-| 586 | 53 | Josh L Swyers Sr. |
-| 587 | 53 | Sandra Link-Gable |
-| 588 | 53 | Rose Anna |
-| 589 | 53 | OneBuke FollowMe |
-| 590 | 53 | Shelly Fannon |
-| 591 | 53 | Mckenzie Morris |
+| 547 | 56 | Rubi |
+| 548 | 56 | Shiny Party |
+| 549 | 56 | FireHawk |
+| 550 | 56 | Michael Phillips |
+| 551 | 56 | Alana Susan Hanley |
+| 552 | 56 | Ernest Jordan |
+| 553 | 56 | sgt baby |
+| 554 | 56 | Groovy Cascadefit |
+| 555 | 56 | Becky Coker |
+| 556 | 55 | PennyCandee |
+| 557 | 55 | Ernie Guyette |
+| 558 | 55 | Leche |
+| 559 | 55 | Betty |
+| 560 | 55 | Loony Towerpiece |
+| 561 | 55 | Jordan Leach |
+| 562 | 55 | Thomas Carlisle |
+| 563 | 55 | Speedy Rollpiece |
+| 564 | 55 | Rainbow brite |
+| 565 | 55 | Tabitha Rose Stone |
+| 566 | 55 | slim |
+| 567 | 55 | Cool Base |
+| 568 | 55 | Ruby Sandberg |
+| 569 | 54 | Swanky Tiltpiece |
+| 570 | 54 | Nicole McCune |
+| 571 | 54 | Dominic G Terriaca |
+| 572 | 54 | Poppy Fallzone |
+| 573 | 54 | Edna Clinton |
+| 574 | 54 | Luke Evans |
+| 575 | 54 | Christi Bouten-Harmon |
+| 576 | 54 | Nate Funk |
+| 577 | 54 | Bouncy Patternzone |
+| 578 | 54 | Beavis715 |
+| 579 | 54 | Bumpy Morris |
+| 580 | 53 | Shay J Duval |
+| 581 | 53 | OneBuke FollowMe |
+| 582 | 53 | MWFreddy |
+| 583 | 53 | Zany Tower |
+| 584 | 53 | Mindy Leigh Head |
+| 585 | 53 | Magic Meli |
+| 586 | 53 | Shelly Fannon |
+| 587 | 53 | Rose Anna |
+| 588 | 53 | Sandra Link-Gable |
+| 589 | 53 | Mckenzie Morris |
+| 590 | 53 | Josh L Swyers Sr. |
+| 591 | 53 | Jenn Lunsford |
 | 592 | 52 | kelso |
-| 593 | 52 | Jimmy Shannon |
-| 594 | 52 | Shekita Gibbs |
-| 595 | 52 | Loony Dropzone |
-| 596 | 52 | Frisky Glidebuilder |
-| 597 | 52 | Twisty Blockmatch |
-| 598 | 52 | Smiley Clicky |
-| 599 | 52 | Tiffany Armen |
-| 600 | 52 | Regina Jones |
-| 601 | 52 | Melody Rene |
+| 593 | 52 | Twisty Blockmatch |
+| 594 | 52 | Regina Jones |
+| 595 | 52 | Melody Rene |
+| 596 | 52 | Tiffany Armen |
+| 597 | 52 | Frisky Glidebuilder |
+| 598 | 52 | Loony Dropzone |
+| 599 | 52 | Smiley Clicky |
+| 600 | 52 | Shekita Gibbs |
+| 601 | 52 | Jimmy Shannon |
 | 602 | 51 | Joyce Harrell-chavis |
-| 603 | 51 | Augie Ortega |
-| 604 | 51 | Cheryl Villa |
-| 605 | 51 | Slinky Stacky |
-| 606 | 51 | Melodie Hill |
-| 607 | 51 | Randy Clevenger |
-| 608 | 51 | Fancy Wobbler |
-| 609 | 51 | Jen |
-| 610 | 50 | Tammy Watson |
-| 611 | 50 | Herm Junior |
-| 612 | 50 | Andrew Coulter |
-| 613 | 50 | Dizzy Snapper |
-| 614 | 50 | Loopy Edge |
-| 615 | 50 | Snippy Stacky |
-| 616 | 50 | LouiBandz |
-| 617 | 50 | Maria Lopez |
-| 618 | 50 | Carla Valenzisi |
-| 619 | 50 | Jazzy Stagger |
-| 620 | 50 | Velvet Rarick |
-| 621 | 50 | Crystal Claypool |
+| 603 | 51 | Slinky Stacky |
+| 604 | 51 | Fancy Wobbler |
+| 605 | 51 | Randy Clevenger |
+| 606 | 51 | Jen |
+| 607 | 51 | Cheryl Villa |
+| 608 | 51 | Augie Ortega |
+| 609 | 51 | Melodie Hill |
+| 610 | 50 | LouiBandz |
+| 611 | 50 | Snippy Stacky |
+| 612 | 50 | Herm Junior |
+| 613 | 50 | Tammy Watson |
+| 614 | 50 | Crystal Claypool |
+| 615 | 50 | Velvet Rarick |
+| 616 | 50 | Maria Lopez |
+| 617 | 50 | Carla Valenzisi |
+| 618 | 50 | Loopy Edge |
+| 619 | 50 | Dizzy Snapper |
+| 620 | 50 | Andrew Coulter |
+| 621 | 50 | Jazzy Stagger |
 | 622 | 50 | CL Meyer |
 | 623 | 50 | Swalshy |
 | 624 | 50 | Will Fulmer |
