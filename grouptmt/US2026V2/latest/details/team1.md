@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 09:16:17 UTC
+# Standings for team1 as of 2026-03-14 09:17:17 UTC
 
 **Total Participants:** 1517
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 10487 | Ariel |
 | 2 | 5922 | Donna Wilkinson |
-| 3 | 5585 | Bryan Stockwell |
+| 3 | 5633 | Bryan Stockwell |
 | 4 | 5457 | Scott Lindsay |
 | 5 | 5404 | William George Weglage III |
 | 6 | 4846 | Hyper |
@@ -81,7 +81,7 @@
 | 73 | 519 | Crafty Dash |
 | 74 | 512 | Bouncy Framezone |
 | 75 | 506 | Donald Nguyen |
-| 76 | 491 | Johnathan Rasmussen |
+| 76 | 501 | Johnathan Rasmussen |
 | 77 | 491 | Cheeky Crusher |
 | 78 | 480 | Justin Parker |
 | 79 | 473 | Melissa Kay Gibson |
@@ -117,7 +117,7 @@
 | 109 | 276 | Jessi Sauer |
 | 110 | 275 | Witty Wipegrid |
 | 111 | 272 | Perky Shatterline |
-| 112 | 254 | Crafty Tilebuilder |
+| 112 | 257 | Crafty Tilebuilder |
 | 113 | 248 | TRCuse |
 | 114 | 245 | Josh Barringer |
 | 115 | 241 | Heatherly |
@@ -143,21 +143,21 @@
 | 135 | 204 | Giggly Rotate |
 | 136 | 204 | Kris Koepke |
 | 137 | 203 | Amber Zeller Rice |
-| 138 | 201 | Nanan Nanan |
-| 139 | 200 | Dude |
-| 140 | 200 | Angel Mendez |
-| 141 | 198 | Bigmoco |
-| 142 | 197 | Marianne Louise West |
-| 143 | 197 | Dawn Hoffman |
-| 144 | 196 | Giddy Balancepiece |
-| 145 | 196 | Jason Whitehair |
-| 146 | 194 | Foulplay176 |
-| 147 | 193 | Angela Phillips Kean |
-| 148 | 192 | Groovy Glidepiece |
-| 149 | 192 | Marie Shakinah |
-| 150 | 191 | David Zeimer |
-| 151 | 191 | Marshell Harris |
-| 152 | 191 | Irene Medina |
+| 138 | 201 | Irene Medina |
+| 139 | 201 | Nanan Nanan |
+| 140 | 200 | Dude |
+| 141 | 200 | Angel Mendez |
+| 142 | 198 | Bigmoco |
+| 143 | 197 | Marianne Louise West |
+| 144 | 197 | Dawn Hoffman |
+| 145 | 196 | Giddy Balancepiece |
+| 146 | 196 | Jason Whitehair |
+| 147 | 194 | Foulplay176 |
+| 148 | 193 | Angela Phillips Kean |
+| 149 | 192 | Groovy Glidepiece |
+| 150 | 192 | Marie Shakinah |
+| 151 | 191 | David Zeimer |
+| 152 | 191 | Marshell Harris |
 | 153 | 188 | Breezy Ivy |
 | 154 | 188 | Rennon Scott Wilson |
 | 155 | 179 | Brandon Zachary Anderson |
@@ -417,13 +417,13 @@
 | 409 | 67 | Itn |
 | 410 | 67 | Letson Melissa |
 | 411 | 67 | Antonia Wyche |
-| 412 | 66 | Bailey Morgan |
-| 413 | 66 | Yolanda Quinn |
-| 414 | 66 | BingoStarr |
-| 415 | 65 | Giggy Snaplink |
-| 416 | 65 | mrkw |
-| 417 | 65 | Shay Upshaw |
-| 418 | 65 | Angela Brown Babin |
+| 412 | 66 | Angela Brown Babin |
+| 413 | 66 | Bailey Morgan |
+| 414 | 66 | Yolanda Quinn |
+| 415 | 66 | BingoStarr |
+| 416 | 65 | Giggy Snaplink |
+| 417 | 65 | mrkw |
+| 418 | 65 | Shay Upshaw |
 | 419 | 65 | J. |
 | 420 | 65 | Abcmasters12 |
 | 421 | 65 | Boldy Clicky |
@@ -966,25 +966,25 @@
 | 958 | 24 | Peachy Linkfall |
 | 959 | 24 | Kristen Orr |
 | 960 | 24 | Brenna Ann Brewer |
-| 961 | 24 | Chirpy Setter |
-| 962 | 24 | tazd0629 |
-| 963 | 24 | John Gardner |
-| 964 | 24 | Zesty Edgepiece |
+| 961 | 24 | tazd0629 |
+| 962 | 24 | Chirpy Setter |
+| 963 | 24 | Zesty Edgepiece |
+| 964 | 24 | John Gardner |
 | 965 | 24 | Goob277 |
 | 966 | 23 | YF Luna |
-| 967 | 23 | David Campbell |
-| 968 | 23 | Frilly T-spin |
-| 969 | 23 | Gary Ustica |
-| 970 | 23 | Loopy Zonepiece |
-| 971 | 23 | Greg G-Rob Robinson |
-| 972 | 22 | James Green |
-| 973 | 22 | Neomi Perdue |
-| 974 | 22 | Abrigo Sheldon |
-| 975 | 22 | Alyssa Bruce |
-| 976 | 22 | TaRcY |
-| 977 | 22 | Aj Fredenburg |
+| 967 | 23 | Bluegiokilla |
+| 968 | 23 | David Campbell |
+| 969 | 23 | Frilly T-spin |
+| 970 | 23 | Gary Ustica |
+| 971 | 23 | Loopy Zonepiece |
+| 972 | 23 | Greg G-Rob Robinson |
+| 973 | 22 | James Green |
+| 974 | 22 | Neomi Perdue |
+| 975 | 22 | Abrigo Sheldon |
+| 976 | 22 | Alyssa Bruce |
+| 977 | 22 | TaRcY |
 | 978 | 22 | Brandon McDonald |
-| 979 | 22 | Bluegiokilla |
+| 979 | 22 | Aj Fredenburg |
 | 980 | 22 | Kriket |
 | 981 | 22 | Stephen Lockman |
 | 982 | 22 | Brave Piecebuilder |
