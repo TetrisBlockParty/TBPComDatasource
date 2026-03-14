@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 20:16:18 UTC
+# Standings for team2 as of 2026-03-14 20:16:39 UTC
 
 **Total Participants:** 1803
 
@@ -20,7 +20,7 @@
 | 12 | 3554 | Denise Nardoni |
 | 13 | 3440 | Baleria Ruedas Pantoja |
 | 14 | 3141 | THEMAN |
-| 15 | 3115 | Kori Beth Babb |
+| 15 | 3124 | Kori Beth Babb |
 | 16 | 2977 | Fae-Bulous |
 | 17 | 2522 | Aaron Garnett |
 | 18 | 2303 | Aubree Richard |
@@ -103,8 +103,8 @@
 | 95 | 549 | Julio Alejandro Rodriguez |
 | 96 | 547 | Danielle Mogg |
 | 97 | 547 | Carson Goldminc |
-| 98 | 507 | Mary Reeves |
-| 99 | 504 | Antoinette Griffin |
+| 98 | 523 | Antoinette Griffin |
+| 99 | 507 | Mary Reeves |
 | 100 | 500 | Kristina Custer |
 | 101 | 496 | Pikake Medeiros |
 | 102 | 496 | sweet lil miss |
