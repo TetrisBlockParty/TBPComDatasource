@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 13:36:40 UTC
+# Standings for team1 as of 2026-03-14 13:37:17 UTC
 
 **Total Participants:** 1629
 
@@ -10,9 +10,9 @@
 | 2 | 7385 | Donna Wilkinson |
 | 3 | 6202 | Scott Lindsay |
 | 4 | 5821 | Bryan Stockwell |
-| 5 | 5446 | Hyper |
-| 6 | 5404 | William George Weglage III |
-| 7 | 5171 | Devinlee Brown |
+| 5 | 5471 | Devinlee Brown |
+| 6 | 5446 | Hyper |
+| 7 | 5404 | William George Weglage III |
 | 8 | 4526 | Dizzy Stagger |
 | 9 | 4381 | Jayna Anoc |
 | 10 | 3990 | Tashanna Harvey |
@@ -57,8 +57,8 @@
 | 49 | 941 | Kris Hudelson |
 | 50 | 914 | Zach Thompson |
 | 51 | 911 | Mikitta Calvin |
-| 52 | 860 | Sarah Henniker |
-| 53 | 857 | Giddy Cascade |
+| 52 | 877 | Giddy Cascade |
+| 53 | 860 | Sarah Henniker |
 | 54 | 856 | Cody Walther |
 | 55 | 855 | Renee Weedling |
 | 56 | 845 | Nikita Nelson |
@@ -138,8 +138,8 @@
 | 130 | 277 | Shaynna Garza |
 | 131 | 276 | Jessi Sauer |
 | 132 | 275 | Witty Wipegrid |
-| 133 | 272 | Joy Bloodworth |
-| 134 | 272 | Perky Shatterline |
+| 133 | 272 | Perky Shatterline |
+| 134 | 272 | Joy Bloodworth |
 | 135 | 269 | Jme |
 | 136 | 269 | Crafty Tilebuilder |
 | 137 | 262 | Sharisse Baltimore |
@@ -147,8 +147,8 @@
 | 139 | 250 | Kris Koepke |
 | 140 | 249 | Lively Rollfit |
 | 141 | 248 | TRCuse |
-| 142 | 245 | Sunny Swiper |
-| 143 | 245 | Josh Barringer |
+| 142 | 245 | Josh Barringer |
+| 143 | 245 | Sunny Swiper |
 | 144 | 244 | Cassandra Latimore |
 | 145 | 242 | Charis Stoner |
 | 146 | 241 | Heatherly |
@@ -161,15 +161,15 @@
 | 153 | 226 | JonCorry Story |
 | 154 | 224 | Peachy Brick |
 | 155 | 222 | Nanan Nanan |
-| 156 | 220 | Liliana Pena |
+| 156 | 220 | Jevon Griffith |
 | 157 | 220 | Darci Cline |
-| 158 | 220 | Jevon Griffith |
+| 158 | 220 | Liliana Pena |
 | 159 | 217 | DeeBee |
 | 160 | 217 | Beka |
 | 161 | 215 | Jennifer Campbell |
 | 162 | 213 | Porshe Garthwaite |
-| 163 | 211 | lefty |
-| 164 | 211 | Nutty Cascadefit |
+| 163 | 211 | Nutty Cascadefit |
+| 164 | 211 | lefty |
 | 165 | 211 | Jumpy Spinblock |
 | 166 | 207 | Marshell Harris |
 | 167 | 204 | Giggly Rotate |
@@ -177,30 +177,30 @@
 | 169 | 203 | Amber Zeller Rice |
 | 170 | 202 | CelticTraveler |
 | 171 | 201 | raffyG |
-| 172 | 200 | Dude |
-| 173 | 200 | Angel Mendez |
-| 174 | 196 | Jason Whitehair |
-| 175 | 196 | Giddy Balancepiece |
+| 172 | 200 | Angel Mendez |
+| 173 | 200 | Dude |
+| 174 | 196 | Giddy Balancepiece |
+| 175 | 196 | Jason Whitehair |
 | 176 | 194 | Foulplay176 |
 | 177 | 193 | Angela Phillips Kean |
 | 178 | 192 | Marie Shakinah |
 | 179 | 192 | Groovy Glidepiece |
 | 180 | 191 | David Zeimer |
 | 181 | 189 | Breezy Ivy |
-| 182 | 184 | Bubba |
-| 183 | 184 | KK |
-| 184 | 181 | Beth Anderson |
-| 185 | 180 | Allena Craft |
-| 186 | 180 | HugeLoad |
-| 187 | 179 | Brandon Zachary Anderson |
-| 188 | 178 | Erich EMac McIntosh |
-| 189 | 177 | Qoo |
+| 182 | 184 | KK |
+| 183 | 184 | Bubba |
+| 184 | 184 | Marie Helman |
+| 185 | 181 | Beth Anderson |
+| 186 | 180 | Allena Craft |
+| 187 | 180 | HugeLoad |
+| 188 | 179 | Brandon Zachary Anderson |
+| 189 | 178 | Erich EMac McIntosh |
 | 190 | 177 | Sabra Fisher |
-| 191 | 177 | Gdiguy |
-| 192 | 176 | Poppy Builderline |
-| 193 | 175 | shelly |
-| 194 | 174 | Panda Rog |
-| 195 | 174 | Marie Helman |
+| 191 | 177 | Qoo |
+| 192 | 177 | Gdiguy |
+| 193 | 176 | Poppy Builderline |
+| 194 | 175 | shelly |
+| 195 | 174 | Panda Rog |
 | 196 | 173 | Stefanie Champion |
 | 197 | 172 | Eric Hoffman |
 | 198 | 172 | Peppy Matchclear |
@@ -257,38 +257,38 @@
 | 249 | 130 | Philippines |
 | 250 | 130 | Britters |
 | 251 | 130 | Marianne Lopez |
-| 252 | 130 | Florna Primrose |
-| 253 | 130 | Natasha King |
+| 252 | 130 | Natasha King |
+| 253 | 130 | Florna Primrose |
 | 254 | 129 | Rebekah LeiAnn Bonsell |
 | 255 | 129 | Gina Annese |
 | 256 | 129 | Amanda Pauldo-Ivy |
 | 257 | 127 | Charles Herbert |
-| 258 | 126 | Kathy Karjala |
-| 259 | 126 | Jason Cunningham |
-| 260 | 126 | Scott Disedare |
-| 261 | 126 | QueenBee |
+| 258 | 126 | Scott Disedare |
+| 259 | 126 | Kathy Karjala |
+| 260 | 126 | QueenBee |
+| 261 | 126 | Jason Cunningham |
 | 262 | 125 | April McGuffie |
-| 263 | 124 | Laura Morrison |
+| 263 | 124 | Mufi25 |
 | 264 | 124 | Lemonberry |
 | 265 | 124 | Adam McMakin |
-| 266 | 124 | Mufi25 |
-| 267 | 123 | Tanya Carpenter-Reynolds |
-| 268 | 123 | Jonathan Gaffaney |
-| 269 | 120 | StankyP |
-| 270 | 120 | Mary Cerciello |
-| 271 | 120 | Candace Esposito |
-| 272 | 120 | Karmyst |
-| 273 | 120 | Kay Alifi |
-| 274 | 120 | Ann Brock LaPorte |
-| 275 | 120 | Amh |
-| 276 | 119 | Ellie Bein |
-| 277 | 119 | Jonnelle Partin |
+| 266 | 124 | Laura Morrison |
+| 267 | 123 | Jonathan Gaffaney |
+| 268 | 123 | Tanya Carpenter-Reynolds |
+| 269 | 120 | Mary Cerciello |
+| 270 | 120 | Kay Alifi |
+| 271 | 120 | Amh |
+| 272 | 120 | Ann Brock LaPorte |
+| 273 | 120 | Karmyst |
+| 274 | 120 | Candace Esposito |
+| 275 | 120 | StankyP |
+| 276 | 119 | Jonnelle Partin |
+| 277 | 119 | Ellie Bein |
 | 278 | 118 | Crystal Rosen |
 | 279 | 117 | Danielle Kollias |
 | 280 | 117 | Dī Kuykendall |
-| 281 | 116 | Erica Catherine |
+| 281 | 116 | Jessica Shubert |
 | 282 | 116 | Sassy Cascadepiece |
-| 283 | 116 | Jessica Shubert |
+| 283 | 116 | Erica Catherine |
 | 284 | 115 | Giddy Brickclear |
 | 285 | 115 | SLAPNUTZ |
 | 286 | 114 | Quirky Dashy |
@@ -300,28 +300,28 @@
 | 292 | 113 | Tawny Mo |
 | 293 | 113 | David Larter |
 | 294 | 113 | Teresa Wolf |
-| 295 | 111 | Jennifer Negrete |
-| 296 | 111 | Tausha Mathews |
-| 297 | 110 | Jodi Fichter |
+| 295 | 111 | Walter Beltran |
+| 296 | 111 | Jennifer Negrete |
+| 297 | 111 | Tausha Mathews |
 | 298 | 110 | Vergie Michael |
-| 299 | 109 | Jess Dearborn |
-| 300 | 109 | Dani Giles |
-| 301 | 108 | Holly Hinkle |
+| 299 | 110 | Jodi Fichter |
+| 300 | 109 | Jess Dearborn |
+| 301 | 109 | Dani Giles |
 | 302 | 108 | Kellia S Johnson |
-| 303 | 107 | Althea Louise |
-| 304 | 106 | Boldy Clear |
+| 303 | 108 | Holly Hinkle |
+| 304 | 107 | Althea Louise |
 | 305 | 106 | Bearman |
-| 306 | 105 | Walter Beltran |
+| 306 | 106 | Boldy Clear |
 | 307 | 105 | Ashley Kostek |
 | 308 | 105 | Boldy Clicky |
 | 309 | 105 | Hoppy Buildgrid |
 | 310 | 104 | Dish19 |
 | 311 | 104 | Natalia RX Beyer |
-| 312 | 102 | Zippy Cascadezone |
-| 313 | 102 | Rob Chebetar |
-| 314 | 102 | Terrance Williams |
-| 315 | 102 | Cynthia Mann |
-| 316 | 102 | Mary Pelley |
+| 312 | 102 | Cynthia Mann |
+| 313 | 102 | Zippy Cascadezone |
+| 314 | 102 | Mary Pelley |
+| 315 | 102 | Rob Chebetar |
+| 316 | 102 | Terrance Williams |
 | 317 | 101 | Rocky |
 | 318 | 101 | Macy Williams |
 | 319 | 101 | Chuck Williams |
