@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 08:44:18 UTC
+# Standings for team2 as of 2026-03-14 08:44:38 UTC
 
 **Total Participants:** 1431
 
@@ -156,8 +156,8 @@
 | 148 | 189 | David V. Bowers |
 | 149 | 188 | John Matson |
 | 150 | 188 | Leticia Martinez Kelley |
-| 151 | 187 | Christina Graham |
-| 152 | 187 | Ella Marzano |
+| 151 | 188 | Ella Marzano |
+| 152 | 187 | Christina Graham |
 | 153 | 185 | Michael E Whitejr |
 | 154 | 185 | Bouncy Swiper |
 | 155 | 183 | Jocelynn Marie |
