@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 05:18:15 UTC
+# Standings for team2 as of 2026-03-14 05:18:38 UTC
 
 **Total Participants:** 1324
 
@@ -92,8 +92,8 @@
 | 84 | 278 | Jen Roe |
 | 85 | 277 | Sara Morgan |
 | 86 | 276 | Ashley Marie |
-| 87 | 270 | Slinky Towerer |
-| 88 | 270 | lovethedana |
+| 87 | 270 | lovethedana |
+| 88 | 270 | Slinky Towerer |
 | 89 | 266 | Sheena Hachmann |
 | 90 | 265 | Jo Frohwein |
 | 91 | 265 | Michael H. M. Skropka |
@@ -104,8 +104,8 @@
 | 96 | 256 | YAE |
 | 97 | 255 | Pixie |
 | 98 | 251 | Jami Howard |
-| 99 | 248 | Anna Faulkner |
-| 100 | 248 | Angela Mindiola |
+| 99 | 248 | Angela Mindiola |
+| 100 | 248 | Anna Faulkner |
 | 101 | 245 | Ramen Noodle |
 | 102 | 241 | Amelia Anderson |
 | 103 | 241 | Nathaniel Hardy |
@@ -121,81 +121,81 @@
 | 113 | 215 | candypants |
 | 114 | 211 | Cleopatra Daniels |
 | 115 | 210 | Laura McPheeters |
-| 116 | 207 | Jenni Garcia-Vogelhut |
+| 116 | 207 | Arisvet Garcia |
 | 117 | 207 | Faith Meade |
-| 118 | 207 | Arisvet Garcia |
+| 118 | 207 | Jenni Garcia-Vogelhut |
 | 119 | 205 | Mary Reeves |
 | 120 | 205 | Danielle Mogg |
-| 121 | 203 | Rusty Davis |
-| 122 | 203 | Suffia Alexander |
-| 123 | 202 | Spunky Snapfit |
-| 124 | 202 | Ess |
-| 125 | 202 | Carmen Jnvm |
-| 126 | 200 | LML |
-| 127 | 200 | Peachy Matchgrid |
+| 121 | 203 | Suffia Alexander |
+| 122 | 203 | Rusty Davis |
+| 123 | 202 | Ess |
+| 124 | 202 | Carmen Jnvm |
+| 125 | 202 | Spunky Snapfit |
+| 126 | 200 | Peachy Matchgrid |
+| 127 | 200 | LML |
 | 128 | 197 | Qing DG |
 | 129 | 195 | Melissa M Wolfe |
 | 130 | 192 | Maureen Winter |
 | 131 | 189 | David V. Bowers |
 | 132 | 188 | Leticia Martinez Kelley |
 | 133 | 183 | Jocelynn Marie |
-| 134 | 181 | Christina Graham |
-| 135 | 181 | Paul Hudak |
+| 134 | 181 | Paul Hudak |
+| 135 | 181 | Christina Graham |
 | 136 | 180 | Sheena Harris |
-| 137 | 180 | Snappy Bridgepiece |
-| 138 | 180 | James Hurley Jr. |
+| 137 | 180 | James Hurley Jr. |
+| 138 | 180 | Snappy Bridgepiece |
 | 139 | 177 | Snippy Towerpiece |
 | 140 | 176 | Tosha Gonzales |
-| 141 | 175 | Ben Dove |
-| 142 | 175 | Ding Adventurer |
-| 143 | 174 | Brave Matchfit |
-| 144 | 174 | Carmilita Burpo Jordan |
+| 141 | 175 | Ding Adventurer |
+| 142 | 175 | Ben Dove |
+| 143 | 174 | Carmilita Burpo Jordan |
+| 144 | 174 | Brave Matchfit |
 | 145 | 173 | Elizabeth Diraffaele |
 | 146 | 173 | Kristina Hill Perez |
 | 147 | 172 | Dineisha Carpenter |
-| 148 | 170 | Mandy |
-| 149 | 170 | Jazzy Piecebuilder |
+| 148 | 170 | Jazzy Piecebuilder |
+| 149 | 170 | Mandy |
 | 150 | 169 | Taghrid Ebeid |
 | 151 | 168 | Lora |
 | 152 | 167 | Katie Wisecarver |
 | 153 | 167 | Khalysta |
 | 154 | 166 | Rafael Valentin |
 | 155 | 165 | Liz Wambsgans |
-| 156 | 165 | Bouncy Swiper |
-| 157 | 165 | Zippy Zoney |
+| 156 | 165 | Zippy Zoney |
+| 157 | 165 | Bouncy Swiper |
 | 158 | 164 | Beth Smith |
-| 159 | 161 | Hyper Pop |
-| 160 | 161 | sweet lil miss |
+| 159 | 161 | sweet lil miss |
+| 160 | 161 | Hyper Pop |
 | 161 | 161 | Jocelyn Jauregui |
 | 162 | 160 | Michelle |
-| 163 | 158 | Frothy Linker |
-| 164 | 158 | Julio Alejandro Rodriguez |
+| 163 | 158 | Julio Alejandro Rodriguez |
+| 164 | 158 | Frothy Linker |
 | 165 | 157 | Shelly |
 | 166 | 156 | Fbai |
 | 167 | 154 | Tatyahna Cameron |
 | 168 | 153 | Nicole Grochow |
 | 169 | 152 | Dreamer |
 | 170 | 152 | Courtney Cicoria |
-| 171 | 150 | Sherry Jones |
-| 172 | 150 | Tracey Whetstone |
-| 173 | 150 | Glitzy Rollblock |
-| 174 | 150 | Kyesha Goodyear |
+| 171 | 150 | Glitzy Rollblock |
+| 172 | 150 | Kyesha Goodyear |
+| 173 | 150 | Tracey Whetstone |
+| 174 | 150 | Sherry Jones |
 | 175 | 148 | Alyssa Cox |
-| 176 | 145 | Cynthia Prouse |
-| 177 | 145 | Berling Gil |
-| 178 | 145 | Mcg |
-| 179 | 145 | Connie Mohler-Fair |
+| 176 | 145 | Connie Mohler-Fair |
+| 177 | 145 | Cynthia Prouse |
+| 178 | 145 | Berling Gil |
+| 179 | 145 | Mcg |
 | 180 | 144 | Elaine Webb Graves |
 | 181 | 143 | Brave Fallzone |
-| 182 | 143 | Porsche' Nicole |
-| 183 | 143 | Frances Hui |
-| 184 | 142 | Christy Merriman Addison |
-| 185 | 142 | Jen |
+| 182 | 143 | Frances Hui |
+| 183 | 143 | Porsche' Nicole |
+| 184 | 142 | Jen |
+| 185 | 142 | Christy Merriman Addison |
 | 186 | 141 | Lateisha Morris |
 | 187 | 141 | Zak Dunn |
-| 188 | 140 | Nerdy Blockpiece |
-| 189 | 140 | Sandra Safford |
-| 190 | 140 | Brenda Lee Vander Molen |
+| 188 | 140 | Sandra Safford |
+| 189 | 140 | Brenda Lee Vander Molen |
+| 190 | 140 | Nerdy Blockpiece |
 | 191 | 136 | Frisky Riserbuilder |
 | 192 | 134 | Susan Dunn |
 | 193 | 134 | Aobregon01 |
@@ -777,8 +777,8 @@
 | 769 | 29 | Odessa Scott |
 | 770 | 29 | Corina |
 | 771 | 29 | Halie Geesey |
-| 772 | 28 | Trista Duguay |
-| 773 | 28 | Stephanie Carpenter |
+| 772 | 28 | Stephanie Carpenter |
+| 773 | 28 | Trista Duguay |
 | 774 | 28 | Peppy Zigzag |
 | 775 | 28 | Poppy Matchclear |
 | 776 | 28 | CuteSharkz |
@@ -789,36 +789,36 @@
 | 781 | 28 | Yloponom Gamez |
 | 782 | 28 | Sunny Blockline |
 | 783 | 28 | jimjamflimflam |
-| 784 | 27 | Timothy Poole |
-| 785 | 27 | Chirpy Grabber |
-| 786 | 27 | Poppy Jumper |
-| 787 | 27 | Giggy Zonepiece |
-| 788 | 27 | Elizabeth Hinkens |
-| 789 | 27 | Wendy Gathings |
-| 790 | 27 | birdie |
-| 791 | 27 | DrMichelle Richardson |
+| 784 | 27 | DrMichelle Richardson |
+| 785 | 27 | Timothy Poole |
+| 786 | 27 | Chirpy Grabber |
+| 787 | 27 | Poppy Jumper |
+| 788 | 27 | Giggy Zonepiece |
+| 789 | 27 | birdie |
+| 790 | 27 | Wendy Gathings |
+| 791 | 27 | Elizabeth Hinkens |
 | 792 | 27 | Jason Pence |
-| 793 | 27 | StephyCue |
-| 794 | 27 | Janellexoxo_ |
+| 793 | 27 | Janellexoxo_ |
+| 794 | 27 | Kell Cinn |
 | 795 | 27 | Lea Gann |
-| 796 | 27 | Kell Cinn |
-| 797 | 26 | Sarah Moyer |
-| 798 | 26 | Ellen Frye |
+| 796 | 27 | StephyCue |
+| 797 | 26 | Swanky Tile |
+| 798 | 26 | Tony Maple |
 | 799 | 26 | Kyle |
-| 800 | 26 | Swanky Tile |
+| 800 | 26 | Sarah Moyer |
 | 801 | 26 | Nicole Maboloc |
-| 802 | 26 | Chasity Winters |
-| 803 | 26 | OneTwenty Livin |
-| 804 | 26 | TinaMarie Montone |
-| 805 | 26 | Marie Elena |
-| 806 | 26 | Happy Columnbuilder |
-| 807 | 26 | Teaser |
-| 808 | 26 | Shirley Petty |
-| 809 | 26 | Briaa Williams |
-| 810 | 26 | Staci Walker |
-| 811 | 26 | Sandra McNab |
-| 812 | 25 | Lilykye |
-| 813 | 25 | Wes Ross |
+| 802 | 26 | Ellen Frye |
+| 803 | 26 | Chasity Winters |
+| 804 | 26 | OneTwenty Livin |
+| 805 | 26 | TinaMarie Montone |
+| 806 | 26 | Marie Elena |
+| 807 | 26 | Sandra McNab |
+| 808 | 26 | Happy Columnbuilder |
+| 809 | 26 | Teaser |
+| 810 | 26 | Shirley Petty |
+| 811 | 26 | Briaa Williams |
+| 812 | 26 | Staci Walker |
+| 813 | 25 | Lilykye |
 | 814 | 25 | GoblinHatcher |
 | 815 | 25 | Sonya Milbourne |
 | 816 | 25 | Kirk Maxon |
@@ -826,20 +826,20 @@
 | 818 | 25 | Shauna Hansen |
 | 819 | 25 | Anthony Intrabartolo |
 | 820 | 25 | MusicMaster |
-| 821 | 25 | Chasity Johnson |
-| 822 | 25 | Muva |
-| 823 | 25 | Zane |
-| 824 | 25 | Morgan Hirzel |
-| 825 | 25 | Minxy |
-| 826 | 25 | Kristy Mullins |
-| 827 | 25 | Jess Ortiz |
-| 828 | 25 | Daria Rycewicz |
-| 829 | 25 | Mandy |
-| 830 | 25 | Casandra Alisa Rocker |
-| 831 | 25 | Weeping Angel |
-| 832 | 25 | Toni Codynah |
-| 833 | 25 | Cheeky Snapfit |
-| 834 | 24 | Tony Maple |
+| 821 | 25 | Wes Ross |
+| 822 | 25 | Chasity Johnson |
+| 823 | 25 | Muva |
+| 824 | 25 | Zane |
+| 825 | 25 | Morgan Hirzel |
+| 826 | 25 | Minxy |
+| 827 | 25 | Kristy Mullins |
+| 828 | 25 | Jess Ortiz |
+| 829 | 25 | Daria Rycewicz |
+| 830 | 25 | Mandy |
+| 831 | 25 | Casandra Alisa Rocker |
+| 832 | 25 | Weeping Angel |
+| 833 | 25 | Toni Codynah |
+| 834 | 25 | Cheeky Snapfit |
 | 835 | 24 | Jazmin Santos |
 | 836 | 24 | Peachy Pusher |
 | 837 | 24 | Comedian Gdane |
