@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 13:08:18 UTC
+# Standings for team1 as of 2026-03-14 13:08:39 UTC
 
 **Total Participants:** 1610
 
@@ -176,8 +176,8 @@
 | 168 | 196 | Giddy Balancepiece |
 | 169 | 194 | Foulplay176 |
 | 170 | 193 | Angela Phillips Kean |
-| 171 | 192 | Groovy Glidepiece |
-| 172 | 192 | Marie Shakinah |
+| 171 | 192 | Marie Shakinah |
+| 172 | 192 | Groovy Glidepiece |
 | 173 | 191 | Tyle Armstead |
 | 174 | 191 | Marshell Harris |
 | 175 | 191 | David Zeimer |
@@ -192,113 +192,113 @@
 | 184 | 175 | shelly |
 | 185 | 174 | Panda Rog |
 | 186 | 173 | Stefanie Champion |
-| 187 | 172 | Peppy Matchclear |
-| 188 | 172 | Eric Hoffman |
-| 189 | 170 | Poppy Builderline |
-| 190 | 170 | Shawna Days |
-| 191 | 169 | Tameka Brown |
-| 192 | 168 | LeeAnn Martindale |
+| 187 | 172 | Eric Hoffman |
+| 188 | 172 | Bubba |
+| 189 | 172 | Peppy Matchclear |
+| 190 | 170 | Poppy Builderline |
+| 191 | 170 | Shawna Days |
+| 192 | 169 | Tameka Brown |
 | 193 | 168 | Lynn Perkins |
-| 194 | 168 | Ecami |
-| 195 | 168 | Desiree Jenson |
-| 196 | 166 | Jason Hawk |
-| 197 | 166 | C Wing Chu |
-| 198 | 163 | Ryan N. Mason |
+| 194 | 168 | Desiree Jenson |
+| 195 | 168 | LeeAnn Martindale |
+| 196 | 168 | Ecami |
+| 197 | 166 | Jason Hawk |
+| 198 | 166 | C Wing Chu |
 | 199 | 163 | Fatima Washington |
-| 200 | 162 | Albert Josef Toves Means Jr. |
-| 201 | 161 | DreamyMoon |
-| 202 | 160 | Caitlin Zakrzewski |
-| 203 | 160 | Fancy Towerfall |
-| 204 | 160 | Bubba |
-| 205 | 160 | Bold Clear |
-| 206 | 157 | Ken Wada Jr. |
-| 207 | 157 | Happy Shatterfit |
-| 208 | 157 | Thorpedo |
-| 209 | 156 | Rat666 |
-| 210 | 156 | Al Smith Jr |
-| 211 | 155 | Zany Mover |
-| 212 | 155 | Elizabeth Hughes |
+| 200 | 163 | Ryan N. Mason |
+| 201 | 162 | Albert Josef Toves Means Jr. |
+| 202 | 161 | DreamyMoon |
+| 203 | 160 | Caitlin Zakrzewski |
+| 204 | 160 | Bold Clear |
+| 205 | 160 | Fancy Towerfall |
+| 206 | 157 | Thorpedo |
+| 207 | 157 | Ken Wada Jr. |
+| 208 | 157 | Happy Shatterfit |
+| 209 | 156 | Al Smith Jr |
+| 210 | 156 | Rat666 |
+| 211 | 155 | Elizabeth Hughes |
+| 212 | 155 | Zany Mover |
 | 213 | 154 | Silly Ziggy |
 | 214 | 153 | raffyG |
 | 215 | 151 | Hasty Lift |
 | 216 | 150 | Jena Overall Prescott |
-| 217 | 146 | Matthew Bunn |
-| 218 | 146 | Simmone T. Kadiri |
+| 217 | 146 | Simmone T. Kadiri |
+| 218 | 146 | Matthew Bunn |
 | 219 | 145 | Ancient Intuition |
-| 220 | 144 | Hhholmesjr |
-| 221 | 144 | Marie Helman |
+| 220 | 144 | Marie Helman |
+| 221 | 144 | Hhholmesjr |
 | 222 | 143 | Alexis Garcia |
 | 223 | 143 | Quirky Catcher |
 | 224 | 143 | David Rojas |
 | 225 | 143 | Rachel Ballard |
 | 226 | 141 | 🗝️🗝️ Key |
 | 227 | 141 | Chris |
-| 228 | 140 | Allena Craft |
-| 229 | 140 | HugeLoad |
-| 230 | 140 | Mighty Patternbuilder |
-| 231 | 140 | Tee Tee Greene |
+| 228 | 140 | Tee Tee Greene |
+| 229 | 140 | Allena Craft |
+| 230 | 140 | HugeLoad |
+| 231 | 140 | Mighty Patternbuilder |
 | 232 | 138 | Cynthia Petz |
 | 233 | 138 | Ophelia Rae |
 | 234 | 137 | Angelina Maldonado |
 | 235 | 135 | Bingo Wingo |
-| 236 | 134 | Lively Patternfall |
-| 237 | 134 | Wulfbyte |
-| 238 | 134 | Armoni |
-| 239 | 133 | Pheezy |
-| 240 | 133 | Jaay |
+| 236 | 134 | Armoni |
+| 237 | 134 | Lively Patternfall |
+| 238 | 134 | Wulfbyte |
+| 239 | 133 | Jaay |
+| 240 | 133 | Pheezy |
 | 241 | 132 | Trina Gee |
 | 242 | 132 | Jennifer Lynn |
-| 243 | 130 | Florna Primrose |
-| 244 | 130 | Britters |
-| 245 | 130 | Philippines |
-| 246 | 130 | Marianne Lopez |
-| 247 | 130 | Natasha King |
-| 248 | 129 | Gina Annese |
-| 249 | 129 | Rebekah LeiAnn Bonsell |
-| 250 | 129 | Amanda Pauldo-Ivy |
-| 251 | 126 | Scott Disedare |
-| 252 | 126 | Kathy Karjala |
-| 253 | 126 | Jason Cunningham |
+| 243 | 130 | Marianne Lopez |
+| 244 | 130 | Natasha King |
+| 245 | 130 | Florna Primrose |
+| 246 | 130 | Philippines |
+| 247 | 130 | Britters |
+| 248 | 129 | Amanda Pauldo-Ivy |
+| 249 | 129 | Gina Annese |
+| 250 | 129 | Rebekah LeiAnn Bonsell |
+| 251 | 126 | Jason Cunningham |
+| 252 | 126 | Scott Disedare |
+| 253 | 126 | Kathy Karjala |
 | 254 | 125 | April McGuffie |
-| 255 | 124 | Lemonberry |
-| 256 | 124 | Adam McMakin |
+| 255 | 124 | Adam McMakin |
+| 256 | 124 | Lemonberry |
 | 257 | 124 | Mufi25 |
 | 258 | 124 | Laura Morrison |
-| 259 | 123 | Tanya Carpenter-Reynolds |
-| 260 | 123 | Jonathan Gaffaney |
-| 261 | 120 | Karmyst |
-| 262 | 120 | StankyP |
-| 263 | 120 | Ann Brock LaPorte |
-| 264 | 120 | Mary Cerciello |
-| 265 | 120 | Kay Alifi |
-| 266 | 120 | Candace Esposito |
-| 267 | 120 | Amh |
+| 259 | 123 | Jonathan Gaffaney |
+| 260 | 123 | Tanya Carpenter-Reynolds |
+| 261 | 120 | Amh |
+| 262 | 120 | Mary Cerciello |
+| 263 | 120 | Candace Esposito |
+| 264 | 120 | Ann Brock LaPorte |
+| 265 | 120 | StankyP |
+| 266 | 120 | Karmyst |
+| 267 | 120 | Kay Alifi |
 | 268 | 119 | Jonnelle Partin |
 | 269 | 118 | Crystal Rosen |
-| 270 | 117 | Danielle Kollias |
+| 270 | 117 | QueenBee |
 | 271 | 117 | Dī Kuykendall |
-| 272 | 117 | QueenBee |
+| 272 | 117 | Danielle Kollias |
 | 273 | 116 | Erica Catherine |
 | 274 | 116 | Sassy Cascadepiece |
 | 275 | 115 | SLAPNUTZ |
 | 276 | 115 | Giddy Brickclear |
-| 277 | 114 | Bennett Hunter |
-| 278 | 114 | bea |
-| 279 | 114 | Krystal Mccoy |
+| 277 | 114 | Krystal Mccoy |
+| 278 | 114 | Bennett Hunter |
+| 279 | 114 | bea |
 | 280 | 114 | Quirky Dashy |
-| 281 | 113 | Porkobello |
-| 282 | 113 | Teresa Wolf |
+| 281 | 113 | Jaame Courtney |
+| 282 | 113 | Porkobello |
 | 283 | 113 | Tawny Mo |
-| 284 | 113 | Jaame Courtney |
-| 285 | 113 | David Larter |
+| 284 | 113 | David Larter |
+| 285 | 113 | Teresa Wolf |
 | 286 | 111 | Tausha Mathews |
 | 287 | 111 | Jennifer Negrete |
 | 288 | 110 | Vergie Michael |
-| 289 | 109 | Dani Giles |
-| 290 | 109 | Jess Dearborn |
+| 289 | 109 | Jess Dearborn |
+| 290 | 109 | Dani Giles |
 | 291 | 108 | Holly Hinkle |
-| 292 | 107 | Jessica Shubert |
-| 293 | 107 | Althea Louise |
+| 292 | 107 | Althea Louise |
+| 293 | 107 | Jessica Shubert |
 | 294 | 106 | Charles Herbert |
 | 295 | 106 | Bearman |
 | 296 | 106 | Boldy Clear |
