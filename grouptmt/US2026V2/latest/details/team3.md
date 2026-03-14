@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-14 23:32:19 UTC
+# Standings for team3 as of 2026-03-14 23:32:40 UTC
 
 **Total Participants:** 2957
 
@@ -9,7 +9,7 @@
 | 1 | 24753 | Catherine Uhrin |
 | 2 | 10200 | Moxen |
 | 3 | 7767 | Shawn Sarah |
-| 4 | 6909 | Mimiof5 |
+| 4 | 7004 | Mimiof5 |
 | 5 | 6454 | Jason Grasso |
 | 6 | 6346 | Michelle Genco |
 | 7 | 5583 | Cheryl Reynolds Smith |
@@ -132,9 +132,9 @@
 | 124 | 675 | Beth Belanger |
 | 125 | 668 | Zoe Cross |
 | 126 | 662 | Zachary Kline |
-| 127 | 650 | Sarah Lusinda |
-| 128 | 624 | Sadgirl |
-| 129 | 614 | Dreamy Drop |
+| 127 | 654 | Dreamy Drop |
+| 128 | 650 | Sarah Lusinda |
+| 129 | 624 | Sadgirl |
 | 130 | 610 | Torrey Jackson |
 | 131 | 608 | Chasity |
 | 132 | 607 | Nery García |
@@ -1337,43 +1337,43 @@
 | 1329 | 53 | Karyn Hillman-Morton |
 | 1330 | 53 | Tina L. Cooper |
 | 1331 | 53 | Frisky Liney |
-| 1332 | 52 | Sue Douglas-West |
-| 1333 | 52 | Ash Mabrey |
-| 1334 | 52 | Julia Riffle |
-| 1335 | 52 | Bethany Rose Kelley |
-| 1336 | 52 | Zany Gridclear |
-| 1337 | 52 | Chill Shatterbuilder |
-| 1338 | 52 | Emily Johnson |
-| 1339 | 52 | Dennis Madden |
-| 1340 | 52 | Flashy Zonepiece |
-| 1341 | 52 | Kelly |
-| 1342 | 52 | Jolly Strikerbuilder |
-| 1343 | 52 | Rachel Gamble |
-| 1344 | 52 | Happy Clearfit |
-| 1345 | 52 | Michelle Mouser |
-| 1346 | 52 | Kayla Commons |
-| 1347 | 52 | Jaimie Thomas |
-| 1348 | 51 | Danielle Lynne Hall |
-| 1349 | 51 | Big Bovice |
-| 1350 | 51 | Bubbly Balancefit |
-| 1351 | 51 | Itsheavy |
-| 1352 | 51 | Shawn Keister |
-| 1353 | 51 | SusieQ |
-| 1354 | 51 | Constance Risner |
-| 1355 | 51 | Chris Sylvain |
-| 1356 | 51 | Amy Daugherty |
-| 1357 | 51 | AuntieBre323 |
-| 1358 | 51 | Tammy Hunt |
-| 1359 | 51 | Bubbly Stacky |
-| 1360 | 51 | Karla Yulette |
-| 1361 | 51 | Hoppy Party |
-| 1362 | 51 | Mia Muse Best |
-| 1363 | 51 | DJ Hebert |
-| 1364 | 51 | Dereck Thomas |
-| 1365 | 51 | Tina Lee Foster |
+| 1332 | 53 | Victoria Moore-Smith |
+| 1333 | 52 | Sue Douglas-West |
+| 1334 | 52 | Ash Mabrey |
+| 1335 | 52 | Julia Riffle |
+| 1336 | 52 | Bethany Rose Kelley |
+| 1337 | 52 | Zany Gridclear |
+| 1338 | 52 | Chill Shatterbuilder |
+| 1339 | 52 | Emily Johnson |
+| 1340 | 52 | Dennis Madden |
+| 1341 | 52 | Flashy Zonepiece |
+| 1342 | 52 | Kelly |
+| 1343 | 52 | Jolly Strikerbuilder |
+| 1344 | 52 | Rachel Gamble |
+| 1345 | 52 | Happy Clearfit |
+| 1346 | 52 | Michelle Mouser |
+| 1347 | 52 | Kayla Commons |
+| 1348 | 52 | Jaimie Thomas |
+| 1349 | 51 | Danielle Lynne Hall |
+| 1350 | 51 | Big Bovice |
+| 1351 | 51 | Bubbly Balancefit |
+| 1352 | 51 | Itsheavy |
+| 1353 | 51 | Shawn Keister |
+| 1354 | 51 | SusieQ |
+| 1355 | 51 | Constance Risner |
+| 1356 | 51 | Chris Sylvain |
+| 1357 | 51 | Amy Daugherty |
+| 1358 | 51 | AuntieBre323 |
+| 1359 | 51 | Tammy Hunt |
+| 1360 | 51 | Bubbly Stacky |
+| 1361 | 51 | Karla Yulette |
+| 1362 | 51 | Hoppy Party |
+| 1363 | 51 | Mia Muse Best |
+| 1364 | 51 | DJ Hebert |
+| 1365 | 51 | Dereck Thomas |
 | 1366 | 51 | Sharon Heenan |
-| 1367 | 51 | Victoria Moore-Smith |
-| 1368 | 50 | Christina Jones |
+| 1367 | 51 | Tina Lee Foster |
+| 1368 | 50 | Samuel Palacios |
 | 1369 | 50 | Cranky Wipegrid |
 | 1370 | 50 | LaQuita Jones |
 | 1371 | 50 | Trevor Mcgarvie |
@@ -1385,11 +1385,11 @@
 | 1377 | 50 | Tammy Bailie |
 | 1378 | 50 | Funky Risepiece |
 | 1379 | 50 | Danni |
-| 1380 | 50 | Jolly Chiseler |
-| 1381 | 50 | Nope Young |
+| 1380 | 50 | Nope Young |
+| 1381 | 50 | Jolly Chiseler |
 | 1382 | 50 | GumboJoe |
 | 1383 | 50 | Joobie |
-| 1384 | 50 | Samuel Palacios |
+| 1384 | 50 | Christina Jones |
 | 1385 | 50 | Harrmoni |
 | 1386 | 50 | Chirpy Towerfall |
 | 1387 | 50 | Sharyn Lemire |
@@ -2023,13 +2023,13 @@
 | 2015 | 29 | Mandi Lenius |
 | 2016 | 29 | Darren Quick |
 | 2017 | 29 | Kimberly Wilson |
-| 2018 | 29 | Ernest Wailes |
-| 2019 | 29 | Coflowers |
-| 2020 | 29 | Adam Bright |
-| 2021 | 28 | Kay |
-| 2022 | 28 | zappy |
-| 2023 | 28 | gert |
-| 2024 | 28 | MikeHunt |
+| 2018 | 29 | MikeHunt |
+| 2019 | 29 | Ernest Wailes |
+| 2020 | 29 | Coflowers |
+| 2021 | 29 | Adam Bright |
+| 2022 | 28 | Kay |
+| 2023 | 28 | zappy |
+| 2024 | 28 | gert |
 | 2025 | 28 | Victoria Chyenne |
 | 2026 | 28 | Mella Bella |
 | 2027 | 28 | Melissa Keller |
