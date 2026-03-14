@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 05:04:16 UTC
+# Standings for team1 as of 2026-03-14 05:04:37 UTC
 
 **Total Participants:** 1377
 
@@ -557,100 +557,100 @@
 | 549 | 42 | ssr |
 | 550 | 42 | John Ham |
 | 551 | 42 | 🗝️🗝️ Key |
-| 552 | 42 | Loony Towerpiece |
-| 553 | 42 | Christie Reynolds |
-| 554 | 42 | Shiny Stacky |
-| 555 | 41 | Pamela Morgan |
-| 556 | 41 | Beavis715 |
-| 557 | 41 | David Wright |
-| 558 | 41 | Maxwell Hall |
-| 559 | 41 | Steffi Chris Dacones |
-| 560 | 40 | Brandi Huntington |
-| 561 | 40 | Christi Burley |
-| 562 | 40 | kito23 |
+| 552 | 42 | Happy Snapbuild |
+| 553 | 42 | Loony Towerpiece |
+| 554 | 42 | Christie Reynolds |
+| 555 | 42 | Shiny Stacky |
+| 556 | 41 | Pamela Morgan |
+| 557 | 41 | Beavis715 |
+| 558 | 41 | David Wright |
+| 559 | 41 | Maxwell Hall |
+| 560 | 41 | Steffi Chris Dacones |
+| 561 | 40 | Brandi Huntington |
+| 562 | 40 | Ron Poindexter |
 | 563 | 40 | Stephanie Holman |
-| 564 | 40 | Happy Snapbuild |
-| 565 | 40 | Chrys Peters |
-| 566 | 40 | Rubi |
-| 567 | 40 | Agustin Duarte Orozco |
-| 568 | 40 | Misstery |
-| 569 | 40 | Alexandra Karavias |
-| 570 | 40 | Jason Whitehair |
-| 571 | 40 | Kat |
-| 572 | 40 | Happy Snapline |
-| 573 | 40 | Chummy Risebuilder |
-| 574 | 40 | Dustin Curtis |
-| 575 | 40 | Cool Slice |
-| 576 | 40 | Logan McFarland |
-| 577 | 40 | Prometheus |
-| 578 | 40 | Robyn Massey |
-| 579 | 40 | Ron Poindexter |
-| 580 | 40 | Shane Caskey |
-| 581 | 40 | Noah |
-| 582 | 40 | Lil H |
-| 583 | 40 | Tammy Watson |
-| 584 | 40 | Angel Mendez |
-| 585 | 40 | Boldy Towerfall |
-| 586 | 40 | Wayne Kentarski |
-| 587 | 40 | Shawn Kelso |
-| 588 | 40 | smitch |
-| 589 | 39 | Hoppy Shatterfit |
-| 590 | 39 | RaeSea |
-| 591 | 39 | Tasha Jasmin |
-| 592 | 39 | Billy |
-| 593 | 39 | Chummy Rollzone |
-| 594 | 39 | Jennifer Rhea |
+| 564 | 40 | Rubi |
+| 565 | 40 | Agustin Duarte Orozco |
+| 566 | 40 | Robyn Massey |
+| 567 | 40 | Jason Whitehair |
+| 568 | 40 | Happy Snapline |
+| 569 | 40 | Dustin Curtis |
+| 570 | 40 | Boldy Towerfall |
+| 571 | 40 | Misstery |
+| 572 | 40 | Prometheus |
+| 573 | 40 | kito23 |
+| 574 | 40 | Cool Slice |
+| 575 | 40 | Chrys Peters |
+| 576 | 40 | Chummy Risebuilder |
+| 577 | 40 | Kat |
+| 578 | 40 | Alexandra Karavias |
+| 579 | 40 | Tammy Watson |
+| 580 | 40 | Noah |
+| 581 | 40 | Lil H |
+| 582 | 40 | Angel Mendez |
+| 583 | 40 | Wayne Kentarski |
+| 584 | 40 | Shawn Kelso |
+| 585 | 40 | smitch |
+| 586 | 40 | Logan McFarland |
+| 587 | 40 | Shane Caskey |
+| 588 | 40 | Christi Burley |
+| 589 | 39 | Bob Sitts |
+| 590 | 39 | Jessica |
+| 591 | 39 | Jay Will |
+| 592 | 39 | Jennifer Rhea |
+| 593 | 39 | RaeSea |
+| 594 | 39 | Tasha Jasmin |
 | 595 | 39 | Kendra Newton |
 | 596 | 39 | Joy Bloodworth |
-| 597 | 39 | Jay Will |
-| 598 | 39 | Perky Glidebuilder |
-| 599 | 39 | Nunet Amen-Ra |
+| 597 | 39 | Billy |
+| 598 | 39 | Tammy Straka |
+| 599 | 39 | OneBuke FollowMe |
 | 600 | 39 | mbij21 |
-| 601 | 39 | Bob Sitts |
-| 602 | 39 | Jessica |
-| 603 | 39 | OneBuke FollowMe |
-| 604 | 39 | Tammy Straka |
-| 605 | 39 | George Ljr |
-| 606 | 39 | cheeryPrincess |
-| 607 | 39 | Purple Pixie |
-| 608 | 39 | Chuck Williams |
-| 609 | 39 | Tiffany |
-| 610 | 38 | Rissa |
+| 601 | 39 | George Ljr |
+| 602 | 39 | cheeryPrincess |
+| 603 | 39 | Nunet Amen-Ra |
+| 604 | 39 | Chummy Rollzone |
+| 605 | 39 | Tiffany |
+| 606 | 39 | Hoppy Shatterfit |
+| 607 | 39 | Chuck Williams |
+| 608 | 39 | Perky Glidebuilder |
+| 609 | 39 | Purple Pixie |
+| 610 | 38 | Christina Davis |
 | 611 | 38 | Itspaigebro |
-| 612 | 38 | Megan Bennett |
+| 612 | 38 | Rissa |
 | 613 | 38 | Lively Catcher |
-| 614 | 38 | Christina Davis |
+| 614 | 38 | Megan Bennett |
 | 615 | 38 | Mahmudul Hasan |
-| 616 | 37 | Eddie Morales |
-| 617 | 37 | Tipsy Buildgrid |
-| 618 | 37 | Moemoe Jackson |
-| 619 | 37 | Tracy Priceless Gholston |
-| 620 | 37 | Wesley Smith |
-| 621 | 37 | Alexus Goncalo |
-| 622 | 37 | Augie Ortega |
-| 623 | 37 | Wulfbyte |
-| 624 | 37 | Any Michelle Kounou |
-| 625 | 37 | Shelley Hagerman |
-| 626 | 36 | MammaCass |
-| 627 | 36 | Steven Ray Real |
-| 628 | 36 | Rose Anna |
-| 629 | 36 | Dreamy Matchclear |
-| 630 | 36 | OzzyFan4Life |
-| 631 | 36 | Slinky Towerer |
+| 616 | 37 | Augie Ortega |
+| 617 | 37 | Tracy Priceless Gholston |
+| 618 | 37 | Wesley Smith |
+| 619 | 37 | Alexus Goncalo |
+| 620 | 37 | Any Michelle Kounou |
+| 621 | 37 | Wulfbyte |
+| 622 | 37 | Moemoe Jackson |
+| 623 | 37 | Tipsy Buildgrid |
+| 624 | 37 | Shelley Hagerman |
+| 625 | 37 | Eddie Morales |
+| 626 | 36 | OzzyFan4Life |
+| 627 | 36 | Ciara Nunez |
+| 628 | 36 | Rachelle Wimpey |
+| 629 | 36 | Slinky Towerer |
+| 630 | 36 | Rose Anna |
+| 631 | 36 | Steven Ray Real |
 | 632 | 36 | Poppy Lift |
-| 633 | 36 | Evy |
+| 633 | 36 | MammaCass |
 | 634 | 36 | Renee Elam |
-| 635 | 36 | UltraMAGA |
-| 636 | 36 | MrsW |
-| 637 | 36 | Rachelle Wimpey |
-| 638 | 36 | Jason Garnatz |
-| 639 | 36 | Natalie Wilson |
-| 640 | 36 | Ciara Nunez |
-| 641 | 35 | Matthew Graves D.C. |
-| 642 | 35 | Bink |
-| 643 | 35 | Edna Clinton |
-| 644 | 35 | Lee Sipelii |
-| 645 | 35 | Petahboi |
+| 635 | 36 | Dreamy Matchclear |
+| 636 | 36 | UltraMAGA |
+| 637 | 36 | Natalie Wilson |
+| 638 | 36 | MrsW |
+| 639 | 36 | Jason Garnatz |
+| 640 | 36 | Evy |
+| 641 | 35 | Bink |
+| 642 | 35 | Petahboi |
+| 643 | 35 | Lee Sipelii |
+| 644 | 35 | Edna Clinton |
+| 645 | 35 | Matthew Graves D.C. |
 | 646 | 35 | LouiBandz |
 | 647 | 35 | Moretattsdenscars |
 | 648 | 35 | Epic Fallzone |
@@ -1347,7 +1347,7 @@
 | 1339 | 6 | Daring Edge |
 | 1340 | 6 | Emmanuel Diaz Herrera |
 | 1341 | 5 | 420 but ion smoke |
-| 1342 | 5 | Snappy Blockfall |
+| 1342 | 5 | Lulu C Harp |
 | 1343 | 5 | Perky Matchpiece |
 | 1344 | 5 | Ras David |
 | 1345 | 5 | Derrick See |
@@ -1361,9 +1361,9 @@
 | 1353 | 5 | Happy Swipe |
 | 1354 | 5 | Victoria Montenegro Martinez |
 | 1355 | 5 | MissySai TooRude Ladson |
-| 1356 | 5 | Jolly Piecebuilder |
-| 1357 | 5 | Tractor Houston |
-| 1358 | 5 | KingFlex Haile Jr |
+| 1356 | 5 | KingFlex Haile Jr |
+| 1357 | 5 | Snappy Blockfall |
+| 1358 | 5 | Tractor Houston |
 | 1359 | 5 | Felisha Marie |
 | 1360 | 5 | Jeanna Thompson |
 | 1361 | 5 | Eternity Paulley |
@@ -1371,18 +1371,18 @@
 | 1363 | 5 | Beatrice Williams |
 | 1364 | 5 | David Amaro |
 | 1365 | 5 | Scallywag |
-| 1366 | 5 | Lulu C Harp |
-| 1367 | 5 | Rolly956 |
-| 1368 | 5 | Chilly Pop |
-| 1369 | 5 | Taquilla Branch |
-| 1370 | 5 | Melodie Nelson |
-| 1371 | 5 | Jessi Godsey |
-| 1372 | 5 | Amber Wolfe |
-| 1373 | 5 | Peachy Snaplink |
-| 1374 | 5 | Terri Beran |
-| 1375 | 5 | Benjamin Ford |
-| 1376 | 5 | çushy |
-| 1377 | 5 | Tony Lighthizer |
+| 1366 | 5 | Rolly956 |
+| 1367 | 5 | Chilly Pop |
+| 1368 | 5 | Tony Lighthizer |
+| 1369 | 5 | çushy |
+| 1370 | 5 | Benjamin Ford |
+| 1371 | 5 | Terri Beran |
+| 1372 | 5 | Peachy Snaplink |
+| 1373 | 5 | Jessi Godsey |
+| 1374 | 5 | Jolly Piecebuilder |
+| 1375 | 5 | Taquilla Branch |
+| 1376 | 5 | Amber Wolfe |
+| 1377 | 5 | Melodie Nelson |
 
 ---
 *Standings created by tournaments datasource generation tool*
