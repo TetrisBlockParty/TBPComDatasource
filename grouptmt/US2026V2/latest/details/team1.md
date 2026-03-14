@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 10:21:17 UTC
+# Standings for team1 as of 2026-03-14 10:22:17 UTC
 
 **Total Participants:** 1538
 
@@ -37,9 +37,9 @@
 | 29 | 1298 | Jordan W Hamilton |
 | 30 | 1287 | Paul Smiar |
 | 31 | 1267 | Katie Daniels |
-| 32 | 1240 | Xande NO Lie Williams |
-| 33 | 1195 | Vistabrat |
-| 34 | 1164 | Bigmoco |
+| 32 | 1248 | Bigmoco |
+| 33 | 1240 | Xande NO Lie Williams |
+| 34 | 1195 | Vistabrat |
 | 35 | 1157 | Marianne Elizabeth Mills |
 | 36 | 1150 | Angel Smith |
 | 37 | 1113 | Brandon Hill |
@@ -735,15 +735,15 @@
 | 727 | 39 | ldm |
 | 728 | 39 | Purple Pixie |
 | 729 | 39 | Bob Sitts |
-| 730 | 38 | Christina Davis |
-| 731 | 38 | Rissa |
-| 732 | 38 | Megan Bennett |
-| 733 | 38 | Brandon Blanchard |
-| 734 | 38 | C Wing Chu |
-| 735 | 38 | Edward White |
-| 736 | 38 | Itspaigebro |
-| 737 | 37 | Alexus Goncalo |
-| 738 | 37 | Spring rain |
+| 730 | 38 | Spring rain |
+| 731 | 38 | Christina Davis |
+| 732 | 38 | Rissa |
+| 733 | 38 | Megan Bennett |
+| 734 | 38 | Brandon Blanchard |
+| 735 | 38 | C Wing Chu |
+| 736 | 38 | Edward White |
+| 737 | 38 | Itspaigebro |
+| 738 | 37 | Alexus Goncalo |
 | 739 | 37 | Tipsy Buildgrid |
 | 740 | 37 | Sunny Frame |
 | 741 | 37 | Brandon Watkins |
@@ -794,31 +794,31 @@
 | 786 | 34 | dustin b |
 | 787 | 34 | Paul Osborne |
 | 788 | 34 | Matthew Foley |
-| 789 | 34 | Alicia Sheckler |
-| 790 | 34 | Aly Sheehan |
-| 791 | 34 | Phoenix Garrett |
-| 792 | 33 | SoL |
-| 793 | 33 | Kristen Martin |
-| 794 | 33 | Joyce Fees |
-| 795 | 33 | Ellie Bein |
-| 796 | 33 | Silly Builderline |
-| 797 | 33 | BostonCrypto |
-| 798 | 33 | Montez Montez |
-| 799 | 33 | Delzie J Leigh |
-| 800 | 33 | Shukee Lo |
-| 801 | 33 | Bouncy Catcher |
-| 802 | 33 | Aries Lyn |
-| 803 | 33 | Velvet Rarick |
-| 804 | 33 | Dani Giles |
-| 805 | 33 | Ramona Dumas |
-| 806 | 33 | Michael Meyer |
-| 807 | 33 | Happy Tilerpiece |
-| 808 | 33 | Sherri Drews |
-| 809 | 32 | Jennifer Hardman |
-| 810 | 32 | Jesse Young |
+| 789 | 34 | Countryboy Will Survive |
+| 790 | 34 | Alicia Sheckler |
+| 791 | 34 | Aly Sheehan |
+| 792 | 34 | Phoenix Garrett |
+| 793 | 33 | SoL |
+| 794 | 33 | Kristen Martin |
+| 795 | 33 | Joyce Fees |
+| 796 | 33 | Ellie Bein |
+| 797 | 33 | Silly Builderline |
+| 798 | 33 | BostonCrypto |
+| 799 | 33 | Montez Montez |
+| 800 | 33 | Delzie J Leigh |
+| 801 | 33 | Shukee Lo |
+| 802 | 33 | Bouncy Catcher |
+| 803 | 33 | Aries Lyn |
+| 804 | 33 | Velvet Rarick |
+| 805 | 33 | Dani Giles |
+| 806 | 33 | Ramona Dumas |
+| 807 | 33 | Michael Meyer |
+| 808 | 33 | Happy Tilerpiece |
+| 809 | 33 | Sherri Drews |
+| 810 | 32 | Jennifer Hardman |
 | 811 | 32 | Mckenzie Morris |
 | 812 | 32 | Goofy Cluster |
-| 813 | 32 | Countryboy Will Survive |
+| 813 | 32 | Jesse Young |
 | 814 | 32 | KoDaK |
 | 815 | 32 | Lil'A |
 | 816 | 32 | Felise Bee |
