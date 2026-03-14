@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-03-14 15:58:18 UTC
+# Standings for team2 as of 2026-03-14 15:58:42 UTC
 
-**Total Participants:** 1656
+**Total Participants:** 1657
 
 ## Participant Scores
 
@@ -24,10 +24,10 @@
 | 16 | 2267 | Payton Auberry |
 | 17 | 2262 | Joshua Carter |
 | 18 | 2068 | Kevin Watson |
-| 19 | 1957 | THEMAN |
-| 20 | 1914 | Ramen Noodle |
-| 21 | 1868 | Aubree Richard |
-| 22 | 1727 | Caitlin Johnson |
+| 19 | 2027 | Caitlin Johnson |
+| 20 | 1957 | THEMAN |
+| 21 | 1914 | Ramen Noodle |
+| 22 | 1868 | Aubree Richard |
 | 23 | 1714 | Joshua Hopkins |
 | 24 | 1694 | Rosemadder |
 | 25 | 1644 | Breezy Towerfall |
@@ -74,8 +74,8 @@
 | 66 | 599 | Eckoman518 |
 | 67 | 594 | LolaSmilez |
 | 68 | 580 | Becky McClure |
-| 69 | 561 | Jennifer Gartland |
-| 70 | 561 | CSOTYS |
+| 69 | 564 | CSOTYS |
+| 70 | 561 | Jennifer Gartland |
 | 71 | 555 | Alan George LaRage |
 | 72 | 550 | Peppy Zone |
 | 73 | 547 | Carson Goldminc |
@@ -1563,14 +1563,14 @@
 | 1555 | 8 | Casey Wilson |
 | 1556 | 8 | Ponytail113 |
 | 1557 | 8 | Zabrina E |
-| 1558 | 8 | Loony Shatterfit |
-| 1559 | 8 | Gracie Ann Taylor |
-| 1560 | 8 | Zakk Bennett |
-| 1561 | 8 | Jonathan Myers |
-| 1562 | 8 | Snippy Snapgrid |
-| 1563 | 8 | QueenSheida |
-| 1564 | 8 | Ellie Cook |
-| 1565 | 7 | JSP |
+| 1558 | 8 | JSP |
+| 1559 | 8 | Loony Shatterfit |
+| 1560 | 8 | Gracie Ann Taylor |
+| 1561 | 8 | Zakk Bennett |
+| 1562 | 8 | Jonathan Myers |
+| 1563 | 8 | Snippy Snapgrid |
+| 1564 | 8 | QueenSheida |
+| 1565 | 8 | Ellie Cook |
 | 1566 | 7 | Clever Snapgrid |
 | 1567 | 7 | PhairMason |
 | 1568 | 7 | Bold Zonebuilder |
@@ -1588,11 +1588,11 @@
 | 1580 | 7 | Mag Kuczynski Costello |
 | 1581 | 7 | Layne Dejean |
 | 1582 | 7 | Hosifa Yasin |
-| 1583 | 7 | Kaitlin Hood |
-| 1584 | 7 | KT CAT |
-| 1585 | 7 | Major Pain |
+| 1583 | 7 | Shiny Patternblock |
+| 1584 | 7 | Major Pain |
+| 1585 | 7 | KT CAT |
 | 1586 | 7 | Ryan Delaney |
-| 1587 | 7 | Shiny Patternblock |
+| 1587 | 7 | Kaitlin Hood |
 | 1588 | 7 | Liz Scott |
 | 1589 | 7 | goatmaster |
 | 1590 | 7 | Slinky Tile |
@@ -1621,47 +1621,48 @@
 | 1613 | 6 | Giggy Pop |
 | 1614 | 6 | Robert Harold Bowling |
 | 1615 | 6 | Loopy Lee |
-| 1616 | 6 | Yo |
+| 1616 | 6 | Brian Schaefer |
 | 1617 | 6 | Tiffany Hood |
 | 1618 | 6 | Plucky Brickmatch |
 | 1619 | 6 | Christa Ybarra |
 | 1620 | 6 | Rita Nerone |
-| 1621 | 6 | Smellygirl |
+| 1621 | 6 | Krista Carpenter |
 | 1622 | 6 | Nicole Bou |
-| 1623 | 6 | Brian Schaefer |
-| 1624 | 5 | Dave Behnen |
-| 1625 | 5 | Neet |
+| 1623 | 6 | Yo |
+| 1624 | 6 | Smellygirl |
+| 1625 | 5 | Christopher Kissiah |
 | 1626 | 5 | Marie Kirkland |
-| 1627 | 5 | Spunky Gridmatch |
-| 1628 | 5 | Dellalynn |
+| 1627 | 5 | Neet |
+| 1628 | 5 | Spunky Gridmatch |
 | 1629 | 5 | Danielle Barthelme |
-| 1630 | 5 | Daniel N Phian |
-| 1631 | 5 | Tammy Kirby Bingel |
-| 1632 | 5 | Ashley Patrice London |
-| 1633 | 5 | Boldy Match |
-| 1634 | 5 | Mindy Stephens |
-| 1635 | 5 | Shera |
-| 1636 | 5 | Christopher Kissiah |
-| 1637 | 5 | Andrea Velasco Dela Cruz |
-| 1638 | 5 | Chill Spinblock |
-| 1639 | 5 | Lush Matchgrid |
-| 1640 | 5 | Cassie Moeller |
-| 1641 | 5 | Stacey Kauppi |
-| 1642 | 5 | Leeann Couch |
-| 1643 | 5 | Robin |
-| 1644 | 5 | Claudia Baez |
-| 1645 | 5 | babbs |
-| 1646 | 5 | xoxo |
-| 1647 | 5 | Regan Anderson |
-| 1648 | 5 | Kerry Lee Powell |
-| 1649 | 5 | Jumpy Puzzler |
-| 1650 | 5 | Perky Piecegrid |
-| 1651 | 5 | Bartleby Tickletits |
-| 1652 | 5 | Alexandria Shannon |
-| 1653 | 5 | Rose Clark |
-| 1654 | 5 | Jeanna Gordon |
-| 1655 | 5 | Deb Brustman |
-| 1656 | 5 | Goofy Brickzone |
+| 1630 | 5 | Mindy Stephens |
+| 1631 | 5 | Dellalynn |
+| 1632 | 5 | Daniel N Phian |
+| 1633 | 5 | Tammy Kirby Bingel |
+| 1634 | 5 | Ashley Patrice London |
+| 1635 | 5 | Boldy Match |
+| 1636 | 5 | Shera |
+| 1637 | 5 | Dave Behnen |
+| 1638 | 5 | Andrea Velasco Dela Cruz |
+| 1639 | 5 | Chill Spinblock |
+| 1640 | 5 | Lush Matchgrid |
+| 1641 | 5 | Cassie Moeller |
+| 1642 | 5 | Stacey Kauppi |
+| 1643 | 5 | Leeann Couch |
+| 1644 | 5 | Robin |
+| 1645 | 5 | Claudia Baez |
+| 1646 | 5 | babbs |
+| 1647 | 5 | xoxo |
+| 1648 | 5 | Regan Anderson |
+| 1649 | 5 | Kerry Lee Powell |
+| 1650 | 5 | Jumpy Puzzler |
+| 1651 | 5 | Perky Piecegrid |
+| 1652 | 5 | Bartleby Tickletits |
+| 1653 | 5 | Alexandria Shannon |
+| 1654 | 5 | Rose Clark |
+| 1655 | 5 | Jeanna Gordon |
+| 1656 | 5 | Deb Brustman |
+| 1657 | 5 | Goofy Brickzone |
 
 ---
 *Standings created by tournaments datasource generation tool*
