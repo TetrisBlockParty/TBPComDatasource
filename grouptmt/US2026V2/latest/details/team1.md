@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 23:24:19 UTC
+# Standings for team1 as of 2026-03-14 23:24:39 UTC
 
 **Total Participants:** 1934
 
@@ -930,126 +930,126 @@
 | 922 | 50 | Loopy Edge |
 | 923 | 50 | Dizzy Snapper |
 | 924 | 50 | cool kat |
-| 925 | 50 | Prometheus |
-| 926 | 50 | Ambrosia Natas Danu |
+| 925 | 50 | Ambrosia Natas Danu |
+| 926 | 50 | Prometheus |
 | 927 | 50 | Bob Sitts |
 | 928 | 50 | Cool Slice |
-| 929 | 50 | Brandy Ann |
-| 930 | 50 | Carla Valenzisi |
+| 929 | 50 | Carla Valenzisi |
+| 930 | 50 | Brandy Ann |
 | 931 | 50 | Glitzy Linkpiece |
 | 932 | 50 | sam |
 | 933 | 50 | Taquilla Branch |
-| 934 | 50 | Jessica Russell |
-| 935 | 50 | Mean Melly |
+| 934 | 50 | Mean Melly |
+| 935 | 50 | Jessica Russell |
 | 936 | 49 | Nora Smith |
 | 937 | 49 | Meagan Nicole |
 | 938 | 49 | Danessa Pettite |
 | 939 | 49 | Chazarae Marie |
 | 940 | 49 | Pauline Cortez |
 | 941 | 49 | Jumpy Winder |
-| 942 | 49 | Hasty Towerpiece |
+| 942 | 49 | Terry Dill |
 | 943 | 49 | gucci |
-| 944 | 49 | Terry Dill |
+| 944 | 49 | Hasty Towerpiece |
 | 945 | 49 | Rachel Navarro |
-| 946 | 49 | Trish11479 |
-| 947 | 49 | Lorie Atwood |
-| 948 | 49 | Brenda L. Bunce |
-| 949 | 49 | CoolHand |
-| 950 | 48 | Tractor Houston |
-| 951 | 48 | Itspaigebro |
-| 952 | 48 | Fancy Tilefall |
-| 953 | 48 | Lacey Palatka |
-| 954 | 48 | Jr Ysassi |
-| 955 | 48 | Otohime |
-| 956 | 48 | Dizzy Pivoty |
-| 957 | 48 | Bouncy Linefit |
-| 958 | 48 | Meagan Canipe |
-| 959 | 48 | minnie |
-| 960 | 48 | Ellen Maxwell Capstaff |
-| 961 | 48 | JBond007 |
-| 962 | 48 | Greg Joseph |
-| 963 | 47 | Shelley Hagerman |
-| 964 | 47 | Christopher L Crites |
-| 965 | 47 | Zesty Piececlear |
-| 966 | 47 | Rachelle Wimpey |
-| 967 | 47 | mischee |
-| 968 | 47 | Scotty |
-| 969 | 47 | Shannon Green |
-| 970 | 47 | Stacy Rodriguez |
-| 971 | 47 | Michael Wood |
-| 972 | 47 | Breezy Party |
-| 973 | 47 | Quirky_placer |
-| 974 | 46 | Snippy Builderpiece |
-| 975 | 46 | Chilly Faller |
-| 976 | 46 | Stephanie Lawrence |
-| 977 | 46 | Randy Bowers |
-| 978 | 46 | MamaPhee |
-| 979 | 46 | Tina Kocher Zimmerman |
-| 980 | 46 | Daring Roll |
-| 981 | 46 | Snow Neumann |
-| 982 | 46 | Jessica Butler |
-| 983 | 46 | Zesty Blockclear |
+| 946 | 49 | Lorie Atwood |
+| 947 | 49 | Trish11479 |
+| 948 | 49 | CoolHand |
+| 949 | 49 | Brenda L. Bunce |
+| 950 | 48 | Fancy Tilefall |
+| 951 | 48 | Jr Ysassi |
+| 952 | 48 | Tractor Houston |
+| 953 | 48 | Nerdy Shatterline |
+| 954 | 48 | Greg Joseph |
+| 955 | 48 | Bouncy Linefit |
+| 956 | 48 | Ellen Maxwell Capstaff |
+| 957 | 48 | Lacey Palatka |
+| 958 | 48 | Itspaigebro |
+| 959 | 48 | Dizzy Pivoty |
+| 960 | 48 | minnie |
+| 961 | 48 | Meagan Canipe |
+| 962 | 48 | JBond007 |
+| 963 | 48 | Otohime |
+| 964 | 47 | Zesty Piececlear |
+| 965 | 47 | Shelley Hagerman |
+| 966 | 47 | Stacy Rodriguez |
+| 967 | 47 | Christopher L Crites |
+| 968 | 47 | Quirky_placer |
+| 969 | 47 | Rachelle Wimpey |
+| 970 | 47 | Breezy Party |
+| 971 | 47 | mischee |
+| 972 | 47 | Scotty |
+| 973 | 47 | Shannon Green |
+| 974 | 47 | Michael Wood |
+| 975 | 46 | Randy Bowers |
+| 976 | 46 | Tina Kocher Zimmerman |
+| 977 | 46 | Daring Roll |
+| 978 | 46 | Stephanie Lawrence |
+| 979 | 46 | Snow Neumann |
+| 980 | 46 | Jessica Butler |
+| 981 | 46 | Snippy Builderpiece |
+| 982 | 46 | Zesty Blockclear |
+| 983 | 46 | Chilly Faller |
 | 984 | 46 | Danelle Sulentic |
 | 985 | 46 | Cool Dasher |
-| 986 | 46 | David Wright |
-| 987 | 46 | Lush Buildout |
-| 988 | 46 | Amber Lingerfelt |
-| 989 | 45 | momme |
-| 990 | 45 | Casterbation |
-| 991 | 45 | Chanté |
-| 992 | 45 | Goofy Cluster |
-| 993 | 45 | Bluegiokilla |
+| 986 | 46 | Amber Lingerfelt |
+| 987 | 46 | MamaPhee |
+| 988 | 46 | Lush Buildout |
+| 989 | 46 | David Wright |
+| 990 | 45 | Goofy Cluster |
+| 991 | 45 | momme |
+| 992 | 45 | Bluegiokilla |
+| 993 | 45 | Casterbation |
 | 994 | 45 | Jordan Ward |
 | 995 | 45 | jabba |
-| 996 | 45 | Tessa Sturm |
-| 997 | 45 | BKLYN.BOY |
-| 998 | 45 | Wacky Brickster |
-| 999 | 45 | Mechelle Bailum |
-| 1000 | 45 | Snappy Wiper |
-| 1001 | 45 | Ryne Pinkston |
-| 1002 | 45 | Edward White |
-| 1003 | 44 | Mike Winn |
-| 1004 | 44 | Groovy Tower |
-| 1005 | 44 | Glauf |
-| 1006 | 44 | b430 |
-| 1007 | 44 | Epic Fallzone |
-| 1008 | 44 | Blossom |
-| 1009 | 44 | Kelly Davila |
-| 1010 | 44 | Neko Preston |
-| 1011 | 44 | Michael Felker |
-| 1012 | 44 | Rissa |
-| 1013 | 44 | Colleen McFadden Moldenhauer |
-| 1014 | 44 | Pazerjonez |
-| 1015 | 44 | Silly Builderline |
-| 1016 | 44 | Nunya |
-| 1017 | 43 | Meli |
-| 1018 | 43 | Jodie Andring |
-| 1019 | 43 | Lively Catcher |
-| 1020 | 43 | Giddy Towerzone |
-| 1021 | 43 | Epic Puzzle |
-| 1022 | 43 | Renee |
-| 1023 | 43 | Susan Marsh |
-| 1024 | 43 | Tasha Jasmin |
-| 1025 | 43 | Mandy Kachenmeister |
-| 1026 | 43 | Ashley Espeut |
-| 1027 | 43 | poopoo |
-| 1028 | 42 | BugsMama |
-| 1029 | 42 | Witty Snapmatch |
-| 1030 | 42 | Luna |
-| 1031 | 42 | Sissy Lowery Davis |
-| 1032 | 42 | Zesty Shatterline |
+| 996 | 45 | Chanté |
+| 997 | 45 | Tessa Sturm |
+| 998 | 45 | BKLYN.BOY |
+| 999 | 45 | Wacky Brickster |
+| 1000 | 45 | Mechelle Bailum |
+| 1001 | 45 | Snappy Wiper |
+| 1002 | 45 | Ryne Pinkston |
+| 1003 | 45 | Edward White |
+| 1004 | 44 | Mike Winn |
+| 1005 | 44 | Groovy Tower |
+| 1006 | 44 | Glauf |
+| 1007 | 44 | b430 |
+| 1008 | 44 | Epic Fallzone |
+| 1009 | 44 | Blossom |
+| 1010 | 44 | Kelly Davila |
+| 1011 | 44 | Neko Preston |
+| 1012 | 44 | Michael Felker |
+| 1013 | 44 | Rissa |
+| 1014 | 44 | Colleen McFadden Moldenhauer |
+| 1015 | 44 | Pazerjonez |
+| 1016 | 44 | Silly Builderline |
+| 1017 | 44 | Nunya |
+| 1018 | 43 | Meli |
+| 1019 | 43 | Jodie Andring |
+| 1020 | 43 | Lively Catcher |
+| 1021 | 43 | Giddy Towerzone |
+| 1022 | 43 | Epic Puzzle |
+| 1023 | 43 | Renee |
+| 1024 | 43 | Susan Marsh |
+| 1025 | 43 | Tasha Jasmin |
+| 1026 | 43 | Mandy Kachenmeister |
+| 1027 | 43 | Ashley Espeut |
+| 1028 | 43 | poopoo |
+| 1029 | 42 | Jennifer Stone |
+| 1030 | 42 | Witty Snapmatch |
+| 1031 | 42 | Luna |
+| 1032 | 42 | Sissy Lowery Davis |
 | 1033 | 42 | Poppy Lift |
-| 1034 | 42 | Julie Seal |
-| 1035 | 42 | Steve N Darla Morgan |
-| 1036 | 42 | Shiny Stacky |
-| 1037 | 42 | Monica Blu |
-| 1038 | 42 | Nerdy Shatterline |
-| 1039 | 42 | dustin b |
-| 1040 | 42 | Susan Lokerse |
-| 1041 | 42 | wombat |
-| 1042 | 42 | Joey Burns |
-| 1043 | 42 | Christie Reynolds |
-| 1044 | 42 | Jennifer Stone |
+| 1034 | 42 | Zesty Shatterline |
+| 1035 | 42 | Julie Seal |
+| 1036 | 42 | Steve N Darla Morgan |
+| 1037 | 42 | Shiny Stacky |
+| 1038 | 42 | Monica Blu |
+| 1039 | 42 | BugsMama |
+| 1040 | 42 | dustin b |
+| 1041 | 42 | Susan Lokerse |
+| 1042 | 42 | wombat |
+| 1043 | 42 | Joey Burns |
+| 1044 | 42 | Christie Reynolds |
 | 1045 | 41 | Tyler Hertzog |
 | 1046 | 41 | Gregory Craig |
 | 1047 | 41 | Robert |
