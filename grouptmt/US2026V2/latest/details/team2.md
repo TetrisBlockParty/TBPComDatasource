@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 09:50:18 UTC
+# Standings for team2 as of 2026-03-14 09:50:39 UTC
 
 **Total Participants:** 1458
 
@@ -11,9 +11,9 @@
 | 3 | 3823 | Justablock |
 | 4 | 3704 | Abigail Kate Fernandez |
 | 5 | 3630 | Shandrea Crawford |
-| 6 | 3357 | Dizzy Zonegrid |
-| 7 | 3225 | MzBerry |
-| 8 | 3150 | Kelly Kihe |
+| 6 | 3550 | Kelly Kihe |
+| 7 | 3357 | Dizzy Zonegrid |
+| 8 | 3225 | MzBerry |
 | 9 | 3031 | Kori Beth Babb |
 | 10 | 3015 | Kristen Sceurman |
 | 11 | 2942 | Denise Nardoni |
@@ -303,24 +303,24 @@
 | 295 | 107 | Daring Rotator |
 | 296 | 107 | Jason Briggs |
 | 297 | 106 | Chill Builder |
-| 298 | 105 | Morgan Anne Witty |
-| 299 | 104 | Abby Jensen |
-| 300 | 104 | Ash Whitley |
-| 301 | 103 | Devin |
-| 302 | 103 | Brittany Backus |
-| 303 | 103 | Marc Abney |
-| 304 | 103 | Mighty Zone |
-| 305 | 101 | Sammy |
-| 306 | 100 | Goofy Linkmatch |
-| 307 | 100 | btchboy |
-| 308 | 100 | Jeremiah Gensler |
-| 309 | 100 | Ryan Parson |
-| 310 | 100 | Chilly Fallgrid |
-| 311 | 100 | Shanny Anny |
-| 312 | 100 | Ashley Moore |
-| 313 | 100 | Kennedy Sandifer |
-| 314 | 100 | Aldo Hernandez |
-| 315 | 100 | Yloponom Gamez |
+| 298 | 106 | Yloponom Gamez |
+| 299 | 105 | Morgan Anne Witty |
+| 300 | 104 | Abby Jensen |
+| 301 | 104 | Ash Whitley |
+| 302 | 103 | Devin |
+| 303 | 103 | Brittany Backus |
+| 304 | 103 | Marc Abney |
+| 305 | 103 | Mighty Zone |
+| 306 | 101 | Sammy |
+| 307 | 100 | Goofy Linkmatch |
+| 308 | 100 | btchboy |
+| 309 | 100 | Jeremiah Gensler |
+| 310 | 100 | Ryan Parson |
+| 311 | 100 | Chilly Fallgrid |
+| 312 | 100 | Shanny Anny |
+| 313 | 100 | Ashley Moore |
+| 314 | 100 | Kennedy Sandifer |
+| 315 | 100 | Aldo Hernandez |
 | 316 | 99 | Libby |
 | 317 | 98 | MrMais89 |
 | 318 | 98 | Jjza |
