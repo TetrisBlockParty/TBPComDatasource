@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 03:42:17 UTC
+# Standings for team1 as of 2026-03-14 03:42:36 UTC
 
 **Total Participants:** 1303
 
@@ -127,8 +127,8 @@
 | 119 | 176 | Sarah Stanonik |
 | 120 | 173 | Marshell Harris |
 | 121 | 172 | Peppy Matchclear |
-| 122 | 170 | Qoo |
-| 123 | 170 | Shawna Days |
+| 122 | 170 | Shawna Days |
+| 123 | 170 | Qoo |
 | 124 | 169 | Tameka Brown |
 | 125 | 168 | LeeAnn Martindale |
 | 126 | 168 | Lynn Perkins |
@@ -137,34 +137,34 @@
 | 129 | 165 | Cassandra Latimore |
 | 130 | 163 | Ryan N. Mason |
 | 131 | 163 | Amber Zeller Rice |
-| 132 | 161 | Brandon Zachary Anderson |
-| 133 | 161 | DreamyMoon |
+| 132 | 161 | lefty |
+| 133 | 161 | Brandon Zachary Anderson |
 | 134 | 161 | Nutty Cascadefit |
-| 135 | 160 | Caitlin Zakrzewski |
-| 136 | 158 | Rennon Scott Wilson |
-| 137 | 153 | Happy Shatterfit |
-| 138 | 151 | Beth Anderson |
-| 139 | 151 | Hasty Lift |
-| 140 | 150 | Jena Overall Prescott |
-| 141 | 147 | Al Smith Jr |
-| 142 | 147 | raffyG |
-| 143 | 145 | Ancient Intuition |
-| 144 | 143 | Quirky Catcher |
-| 145 | 143 | lefty |
-| 146 | 141 | TotoCherue |
-| 147 | 140 | Desiree Jenson |
-| 148 | 140 | Mighty Patternbuilder |
-| 149 | 140 | Allena Craft |
-| 150 | 140 | Penny Morrical |
-| 151 | 138 | David Rojas |
-| 152 | 138 | Marie Shakinah |
-| 153 | 138 | Cynthia Petz |
-| 154 | 132 | Matthew Bunn |
-| 155 | 132 | Eric Hoffman |
-| 156 | 132 | Donald Nguyen |
-| 157 | 129 | Hhholmesjr |
-| 158 | 129 | Porshe Garthwaite |
-| 159 | 129 | Stefanie Champion |
+| 135 | 161 | DreamyMoon |
+| 136 | 160 | Caitlin Zakrzewski |
+| 137 | 158 | Rennon Scott Wilson |
+| 138 | 153 | Happy Shatterfit |
+| 139 | 151 | Beth Anderson |
+| 140 | 151 | Hasty Lift |
+| 141 | 150 | Jena Overall Prescott |
+| 142 | 147 | Al Smith Jr |
+| 143 | 147 | raffyG |
+| 144 | 145 | Stefanie Champion |
+| 145 | 145 | Ancient Intuition |
+| 146 | 143 | Quirky Catcher |
+| 147 | 141 | TotoCherue |
+| 148 | 140 | Allena Craft |
+| 149 | 140 | Penny Morrical |
+| 150 | 140 | Desiree Jenson |
+| 151 | 140 | Mighty Patternbuilder |
+| 152 | 138 | David Rojas |
+| 153 | 138 | Marie Shakinah |
+| 154 | 138 | Cynthia Petz |
+| 155 | 132 | Donald Nguyen |
+| 156 | 132 | Eric Hoffman |
+| 157 | 132 | Matthew Bunn |
+| 158 | 129 | Hhholmesjr |
+| 159 | 129 | Porshe Garthwaite |
 | 160 | 128 | Marie Helman |
 | 161 | 127 | Armoni |
 | 162 | 126 | Scott Disedare |
@@ -172,43 +172,43 @@
 | 164 | 120 | StankyP |
 | 165 | 120 | Fatima Washington |
 | 166 | 119 | Pheezy |
-| 167 | 117 | QueenBee |
-| 168 | 117 | Danielle Kollias |
-| 169 | 117 | Laura Morrison |
+| 167 | 117 | Danielle Kollias |
+| 168 | 117 | Laura Morrison |
+| 169 | 117 | QueenBee |
 | 170 | 115 | Dī Kuykendall |
 | 171 | 115 | Giddy Brickclear |
 | 172 | 115 | Silly Ziggy |
-| 173 | 114 | Bennett Hunter |
-| 174 | 114 | Karmyst |
+| 173 | 114 | Karmyst |
+| 174 | 114 | Bennett Hunter |
 | 175 | 114 | Krystal Mccoy |
 | 176 | 113 | David Larter |
-| 177 | 110 | Kris Koepke |
+| 177 | 110 | Lisa Marie Sansom |
 | 178 | 110 | Vergie Michael |
 | 179 | 110 | Jaame Courtney |
 | 180 | 110 | Philippines |
-| 181 | 110 | Trina Gee |
-| 182 | 110 | Lisa Marie Sansom |
+| 181 | 110 | Kris Koepke |
+| 182 | 110 | Trina Gee |
 | 183 | 109 | Jess Dearborn |
 | 184 | 108 | Holly Hinkle |
 | 185 | 107 | Althea Louise |
 | 186 | 107 | Jennifer Campbell |
 | 187 | 106 | Charles Herbert |
 | 188 | 106 | Albert Josef Toves Means Jr. |
-| 189 | 105 | Ophelia Rae |
-| 190 | 105 | Hoppy Buildgrid |
+| 189 | 105 | Hoppy Buildgrid |
+| 190 | 105 | Ophelia Rae |
 | 191 | 104 | Lemonberry |
 | 192 | 102 | Rob Chebetar |
-| 193 | 101 | Amanda Diegel |
-| 194 | 101 | Goober |
+| 193 | 101 | Goober |
+| 194 | 101 | Amanda Diegel |
 | 195 | 101 | Bold Clear |
 | 196 | 100 | Ann Brock LaPorte |
 | 197 | 100 | Dee |
 | 198 | 100 | Brandy Ridgeway |
 | 199 | 100 | Britters |
-| 200 | 99 | Lakie Fogle |
+| 200 | 99 | Matt Aguilar |
 | 201 | 99 | Christopher James Cienfuegos |
-| 202 | 99 | Natalia RX Beyer |
-| 203 | 99 | Matt Aguilar |
+| 202 | 99 | Lakie Fogle |
+| 203 | 99 | Natalia RX Beyer |
 | 204 | 98 | Brittney Groler |
 | 205 | 98 | Big rick !!! |
 | 206 | 98 | Aaron Higdon |
@@ -1288,7 +1288,7 @@
 | 1280 | 5 | David Amaro |
 | 1281 | 5 | Felisha Marie |
 | 1282 | 5 | Rolly956 |
-| 1283 | 5 | Lulu C Harp |
+| 1283 | 5 | Jolly Piecebuilder |
 | 1284 | 5 | Eternity Paulley |
 | 1285 | 5 | Terri Beran |
 | 1286 | 5 | Emanuel Velazquez |
@@ -1296,19 +1296,19 @@
 | 1288 | 5 | Benjamin Ford |
 | 1289 | 5 | Giggly Rotate |
 | 1290 | 5 | çushy |
-| 1291 | 5 | Amber Wolfe |
-| 1292 | 5 | Sarajo Clauson |
-| 1293 | 5 | Jolly Piecebuilder |
-| 1294 | 5 | Snappy Blockfall |
-| 1295 | 5 | Zany Glidepiece |
-| 1296 | 5 | Ronda Helton Prater |
-| 1297 | 5 | Tractor Houston |
-| 1298 | 5 | Gracie |
+| 1291 | 5 | Lulu C Harp |
+| 1292 | 5 | Amber Wolfe |
+| 1293 | 5 | Sarajo Clauson |
+| 1294 | 5 | Tractor Houston |
+| 1295 | 5 | Ras David |
+| 1296 | 5 | Derrick See |
+| 1297 | 5 | Jessi Godsey |
+| 1298 | 5 | Chilly Pop |
 | 1299 | 5 | Melodie Nelson |
-| 1300 | 5 | Chilly Pop |
-| 1301 | 5 | Jessi Godsey |
-| 1302 | 5 | Derrick See |
-| 1303 | 5 | Ras David |
+| 1300 | 5 | Gracie |
+| 1301 | 5 | Snappy Blockfall |
+| 1302 | 5 | Ronda Helton Prater |
+| 1303 | 5 | Zany Glidepiece |
 
 ---
 *Standings created by tournaments datasource generation tool*
