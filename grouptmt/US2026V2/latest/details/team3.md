@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-14 08:40:17 UTC
+# Standings for team3 as of 2026-03-14 08:40:41 UTC
 
 **Total Participants:** 2261
 
@@ -391,42 +391,42 @@
 | 383 | 106 | RVTRCR |
 | 384 | 106 | Beth Belanger |
 | 385 | 106 | Brittany Lynn Sass |
-| 386 | 105 | Sarah Morrissey |
-| 387 | 105 | waaaaa |
-| 388 | 105 | Christina Marie Beall-Schmidt |
-| 389 | 104 | Boldy Curve |
+| 386 | 105 | Christina Marie Beall-Schmidt |
+| 387 | 105 | Cindy Le |
+| 388 | 105 | waaaaa |
+| 389 | 105 | Sarah Morrissey |
 | 390 | 104 | Tony Waters |
 | 391 | 104 | Boda |
-| 392 | 103 | Irie |
-| 393 | 103 | Sassy Rumbler |
-| 394 | 103 | abe |
-| 395 | 102 | Valerie Woodall |
-| 396 | 101 | Ashley Ayala |
-| 397 | 101 | Alkaben Fortunato |
-| 398 | 100 | Cindy Le |
-| 399 | 100 | Destiny Ellsworth |
-| 400 | 100 | Blockhead |
-| 401 | 100 | Jose Alvarado |
-| 402 | 100 | Ashton Marie |
-| 403 | 100 | Matt Josephs |
-| 404 | 100 | Sweetea623 |
-| 405 | 100 | Spicy Snapfit |
-| 406 | 100 | Rin |
-| 407 | 100 | Flashy Slice |
+| 392 | 104 | Boldy Curve |
+| 393 | 103 | Irie |
+| 394 | 103 | Sassy Rumbler |
+| 395 | 103 | abe |
+| 396 | 102 | Valerie Woodall |
+| 397 | 101 | Ashley Ayala |
+| 398 | 101 | Alkaben Fortunato |
+| 399 | 100 | Sweetea623 |
+| 400 | 100 | Charles McVay |
+| 401 | 100 | Rin |
+| 402 | 100 | Flashy Slice |
+| 403 | 100 | Ashton Marie |
+| 404 | 100 | Destiny Ellsworth |
+| 405 | 100 | Matt Josephs |
+| 406 | 100 | Blockhead |
+| 407 | 100 | Spicy Snapfit |
 | 408 | 100 | Whitney Nicole Waterman |
-| 409 | 100 | Charles McVay |
+| 409 | 100 | Jose Alvarado |
 | 410 | 99 | Princess |
 | 411 | 99 | Ashley Jean Maxa |
 | 412 | 98 | Kendra Tacker |
-| 413 | 97 | Bernadette Sanchez |
-| 414 | 97 | Lisa Ann |
+| 413 | 97 | Lisa Ann |
+| 414 | 97 | Bernadette Sanchez |
 | 415 | 97 | Crystal Priest |
-| 416 | 96 | Cindy Cronin |
-| 417 | 96 | Abc |
-| 418 | 96 | Desiray Priest |
-| 419 | 96 | Eleanor Beeg |
-| 420 | 96 | D-money |
-| 421 | 96 | Nicole Jackson |
+| 416 | 96 | Eleanor Beeg |
+| 417 | 96 | D-money |
+| 418 | 96 | Cindy Cronin |
+| 419 | 96 | Nicole Jackson |
+| 420 | 96 | Abc |
+| 421 | 96 | Desiray Priest |
 | 422 | 95 | Hobbit |
 | 423 | 95 | Kayla Jo Piper |
 | 424 | 95 | steph |

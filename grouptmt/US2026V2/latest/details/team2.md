@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 08:40:17 UTC
+# Standings for team2 as of 2026-03-14 08:40:41 UTC
 
 **Total Participants:** 1427
 
@@ -274,12 +274,12 @@
 | 266 | 114 | Dimitra Zazara |
 | 267 | 114 | Slinky Linkgrid |
 | 268 | 114 | Koipod |
-| 269 | 113 | Randy Jansen |
-| 270 | 113 | jess |
-| 271 | 113 | Julia Freeman |
-| 272 | 112 | Marc |
-| 273 | 111 | Samantha Bagent |
-| 274 | 111 | Zany Rotater |
+| 269 | 113 | Zany Rotater |
+| 270 | 113 | Randy Jansen |
+| 271 | 113 | jess |
+| 272 | 113 | Julia Freeman |
+| 273 | 112 | Marc |
+| 274 | 111 | Samantha Bagent |
 | 275 | 111 | Elizabeth Blankenship |
 | 276 | 111 | Jenn Dandle |
 | 277 | 110 | Bryanna Whitman |
@@ -937,103 +937,103 @@
 | 929 | 25 | Sonya Milbourne |
 | 930 | 25 | Kirk Maxon |
 | 931 | 25 | Nindesaster |
-| 932 | 25 | BigTim042069 |
-| 933 | 25 | Circuit8 |
-| 934 | 25 | Jeremy Null |
-| 935 | 24 | Gam Gam |
-| 936 | 24 | Tipsy Riseclear |
-| 937 | 24 | Jessi |
-| 938 | 24 | Janet Sims - Martin |
-| 939 | 24 | D3TROITB0RN74 |
-| 940 | 24 | Desi Desporte |
-| 941 | 24 | Peachy Pusher |
-| 942 | 24 | April Elise |
-| 943 | 24 | Tonya Amen |
-| 944 | 24 | Aaron Dill |
-| 945 | 24 | Riane Sussman |
-| 946 | 24 | krae |
-| 947 | 24 | Nikki Leanne |
-| 948 | 24 | Jazmin Santos |
-| 949 | 24 | Becki Lynne Corinthos |
-| 950 | 23 | Ashley Grace |
-| 951 | 23 | Sherri Morgan |
-| 952 | 23 | James Tankersley |
-| 953 | 23 | Frothy Chiseler |
-| 954 | 23 | Sarah Fehring |
-| 955 | 23 | Kelly Elizabeth Clark |
-| 956 | 23 | Lisa |
-| 957 | 23 | Stephanie Harrington |
-| 958 | 23 | Fancy Columnbuilder |
-| 959 | 23 | Sha45 |
-| 960 | 23 | Stacy Evans |
-| 961 | 23 | Daniella K |
-| 962 | 23 | Christian Caro |
-| 963 | 22 | Jenny Edwards Wells |
-| 964 | 22 | Summer_time |
-| 965 | 22 | MaeMae |
-| 966 | 22 | Amber Wright |
-| 967 | 22 | Stephany Patton |
-| 968 | 22 | Blacc Blac |
-| 969 | 22 | Elaina Temple |
-| 970 | 22 | Jen Louie |
-| 971 | 22 | Shiny Zonegrid |
-| 972 | 22 | Mango |
-| 973 | 22 | Liz Franke |
-| 974 | 22 | Gravytrain |
-| 975 | 22 | FrankyThumbs |
-| 976 | 22 | Octavia Parker Ford |
-| 977 | 22 | Bash Bandit |
-| 978 | 22 | Ron Marriedtoglo |
-| 979 | 22 | Hyper Shatterbuilder |
-| 980 | 22 | Lisa Kline |
-| 981 | 22 | Evelyn Ens Paul |
-| 982 | 22 | Nellie Cummings |
-| 983 | 21 | Fancy Builderfit |
-| 984 | 21 | Brittani La Rae |
-| 985 | 21 | Poppy Twister |
-| 986 | 21 | Any Slm |
-| 987 | 21 | Ania |
-| 988 | 21 | Jeremy Barry |
-| 989 | 21 | Chewy Chewy |
-| 990 | 20 | Trice Sodames |
-| 991 | 20 | Old Man |
-| 992 | 20 | Sleepy Otter |
-| 993 | 20 | Andrew Bowen |
-| 994 | 20 | Davery Spencer Adair |
-| 995 | 20 | Dawn Michelle Scheible |
-| 996 | 20 | Amanda King |
-| 997 | 20 | Groovy Stacker |
-| 998 | 20 | Plucky Patternfit |
-| 999 | 20 | Cheery Riserpiece |
-| 1000 | 20 | Matt Cinelli |
-| 1001 | 20 | Jackie Thomlison Schroeder |
-| 1002 | 20 | Billy Paul |
-| 1003 | 20 | Keyluv |
-| 1004 | 20 | Nina Kela |
-| 1005 | 20 | Minnie |
-| 1006 | 20 | Tipsy Clearbuilder |
-| 1007 | 20 | Marie Riley |
-| 1008 | 20 | Derrell W. Barron |
-| 1009 | 20 | Melinda Davis |
-| 1010 | 20 | David Duncan |
-| 1011 | 20 | Crystal Weaver |
-| 1012 | 20 | Susan L. Brown |
-| 1013 | 20 | MaryAnn Metz |
-| 1014 | 20 | Kristina Coleman |
-| 1015 | 20 | Justin Hains |
-| 1016 | 20 | Aubrey Campie |
-| 1017 | 20 | Sophia Marie |
-| 1018 | 20 | Brooklyn DeLong |
-| 1019 | 20 | Liz Schmidt |
-| 1020 | 20 | Jonviea Dewalt |
-| 1021 | 20 | Smiley Match |
-| 1022 | 20 | Elizabeth Sallas |
-| 1023 | 20 | Rachel Sadowski |
-| 1024 | 20 | Rackemwillie34 |
-| 1025 | 20 | Heather Watson |
-| 1026 | 20 | Andrew Yates |
-| 1027 | 20 | Willie Phister |
-| 1028 | 20 | Jeremiah Mell |
+| 932 | 25 | Jeremiah Mell |
+| 933 | 25 | BigTim042069 |
+| 934 | 25 | Circuit8 |
+| 935 | 25 | Jeremy Null |
+| 936 | 24 | Gam Gam |
+| 937 | 24 | Tipsy Riseclear |
+| 938 | 24 | Jessi |
+| 939 | 24 | Janet Sims - Martin |
+| 940 | 24 | D3TROITB0RN74 |
+| 941 | 24 | Desi Desporte |
+| 942 | 24 | Peachy Pusher |
+| 943 | 24 | April Elise |
+| 944 | 24 | Tonya Amen |
+| 945 | 24 | Aaron Dill |
+| 946 | 24 | Riane Sussman |
+| 947 | 24 | krae |
+| 948 | 24 | Nikki Leanne |
+| 949 | 24 | Jazmin Santos |
+| 950 | 24 | Becki Lynne Corinthos |
+| 951 | 23 | Ashley Grace |
+| 952 | 23 | Sherri Morgan |
+| 953 | 23 | James Tankersley |
+| 954 | 23 | Frothy Chiseler |
+| 955 | 23 | Sarah Fehring |
+| 956 | 23 | Kelly Elizabeth Clark |
+| 957 | 23 | Lisa |
+| 958 | 23 | Stephanie Harrington |
+| 959 | 23 | Fancy Columnbuilder |
+| 960 | 23 | Sha45 |
+| 961 | 23 | Stacy Evans |
+| 962 | 23 | Daniella K |
+| 963 | 23 | Christian Caro |
+| 964 | 22 | Jenny Edwards Wells |
+| 965 | 22 | Summer_time |
+| 966 | 22 | MaeMae |
+| 967 | 22 | Amber Wright |
+| 968 | 22 | Stephany Patton |
+| 969 | 22 | Blacc Blac |
+| 970 | 22 | Elaina Temple |
+| 971 | 22 | Jen Louie |
+| 972 | 22 | Shiny Zonegrid |
+| 973 | 22 | Mango |
+| 974 | 22 | Liz Franke |
+| 975 | 22 | Gravytrain |
+| 976 | 22 | FrankyThumbs |
+| 977 | 22 | Octavia Parker Ford |
+| 978 | 22 | Bash Bandit |
+| 979 | 22 | Ron Marriedtoglo |
+| 980 | 22 | Hyper Shatterbuilder |
+| 981 | 22 | Lisa Kline |
+| 982 | 22 | Evelyn Ens Paul |
+| 983 | 22 | Nellie Cummings |
+| 984 | 21 | Fancy Builderfit |
+| 985 | 21 | Brittani La Rae |
+| 986 | 21 | Poppy Twister |
+| 987 | 21 | Any Slm |
+| 988 | 21 | Ania |
+| 989 | 21 | Jeremy Barry |
+| 990 | 21 | Chewy Chewy |
+| 991 | 20 | Trice Sodames |
+| 992 | 20 | Old Man |
+| 993 | 20 | Sleepy Otter |
+| 994 | 20 | Andrew Bowen |
+| 995 | 20 | Davery Spencer Adair |
+| 996 | 20 | Dawn Michelle Scheible |
+| 997 | 20 | Amanda King |
+| 998 | 20 | Groovy Stacker |
+| 999 | 20 | Plucky Patternfit |
+| 1000 | 20 | Cheery Riserpiece |
+| 1001 | 20 | Matt Cinelli |
+| 1002 | 20 | Jackie Thomlison Schroeder |
+| 1003 | 20 | Billy Paul |
+| 1004 | 20 | Keyluv |
+| 1005 | 20 | Nina Kela |
+| 1006 | 20 | Minnie |
+| 1007 | 20 | Tipsy Clearbuilder |
+| 1008 | 20 | Marie Riley |
+| 1009 | 20 | Derrell W. Barron |
+| 1010 | 20 | Melinda Davis |
+| 1011 | 20 | David Duncan |
+| 1012 | 20 | Crystal Weaver |
+| 1013 | 20 | Susan L. Brown |
+| 1014 | 20 | MaryAnn Metz |
+| 1015 | 20 | Kristina Coleman |
+| 1016 | 20 | Justin Hains |
+| 1017 | 20 | Aubrey Campie |
+| 1018 | 20 | Sophia Marie |
+| 1019 | 20 | Brooklyn DeLong |
+| 1020 | 20 | Liz Schmidt |
+| 1021 | 20 | Jonviea Dewalt |
+| 1022 | 20 | Smiley Match |
+| 1023 | 20 | Elizabeth Sallas |
+| 1024 | 20 | Rachel Sadowski |
+| 1025 | 20 | Rackemwillie34 |
+| 1026 | 20 | Heather Watson |
+| 1027 | 20 | Andrew Yates |
+| 1028 | 20 | Willie Phister |
 | 1029 | 20 | Tristan Lamothe |
 | 1030 | 20 | vixen |
 | 1031 | 20 | Jolly Blockroll |
