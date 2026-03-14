@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 20:00:17 UTC
+# Standings for team2 as of 2026-03-14 20:00:39 UTC
 
 **Total Participants:** 1792
 
@@ -83,10 +83,10 @@
 | 75 | 692 | Joshua |
 | 76 | 652 | TreeWee |
 | 77 | 652 | Ania |
-| 78 | 632 | Chipper Matchclear |
-| 79 | 622 | Qing DG |
-| 80 | 619 | Arthe3rd |
-| 81 | 617 | Nicole Cannon |
+| 78 | 640 | Nicole Cannon |
+| 79 | 632 | Chipper Matchclear |
+| 80 | 622 | Qing DG |
+| 81 | 619 | Arthe3rd |
 | 82 | 601 | opf |
 | 83 | 599 | Eckoman518 |
 | 84 | 594 | LolaSmilez |
@@ -166,30 +166,30 @@
 | 158 | 282 | Khalysta |
 | 159 | 280 | Loopy Clusterer |
 | 160 | 280 | Sandy Aragon |
-| 161 | 276 | Ashley Marie |
-| 162 | 275 | Amelia Anderson |
-| 163 | 274 | Leticia Martinez Kelley |
-| 164 | 274 | Ben Dove |
-| 165 | 274 | CharalaAnn |
-| 166 | 270 | Slinky Towerer |
-| 167 | 268 | Anna Faulkner |
-| 168 | 267 | Jenni Garcia-Vogelhut |
-| 169 | 267 | Starr |
-| 170 | 266 | Slippery Clam |
-| 171 | 262 | Jjza |
-| 172 | 260 | Jasmine Kenney |
-| 173 | 258 | Angela Mindiola |
-| 174 | 256 | YAE |
-| 175 | 255 | Pixie |
-| 176 | 253 | Joeyalan Sullivan |
-| 177 | 253 | Carlton Unfiltered |
-| 178 | 253 | Melissa Bergin |
-| 179 | 252 | Courtney Cicoria |
-| 180 | 251 | Shelly |
-| 181 | 250 | LML |
+| 161 | 279 | p3ttyboop |
+| 162 | 276 | Ashley Marie |
+| 163 | 275 | Amelia Anderson |
+| 164 | 274 | Leticia Martinez Kelley |
+| 165 | 274 | Ben Dove |
+| 166 | 274 | CharalaAnn |
+| 167 | 270 | Slinky Towerer |
+| 168 | 268 | Anna Faulkner |
+| 169 | 267 | Jenni Garcia-Vogelhut |
+| 170 | 267 | Starr |
+| 171 | 266 | Slippery Clam |
+| 172 | 262 | Jjza |
+| 173 | 260 | Jasmine Kenney |
+| 174 | 258 | Angela Mindiola |
+| 175 | 256 | YAE |
+| 176 | 255 | Pixie |
+| 177 | 253 | Joeyalan Sullivan |
+| 178 | 253 | Carlton Unfiltered |
+| 179 | 253 | Melissa Bergin |
+| 180 | 252 | Courtney Cicoria |
+| 181 | 251 | Shelly |
 | 182 | 250 | Amanda Segura |
-| 183 | 250 | Ramone Armstrong |
-| 184 | 249 | p3ttyboop |
+| 183 | 250 | LML |
+| 184 | 250 | Ramone Armstrong |
 | 185 | 249 | Sass |
 | 186 | 247 | Guillaume Clermont |
 | 187 | 247 | Dreamer |
@@ -349,26 +349,26 @@
 | 341 | 139 | Prette Qui |
 | 342 | 138 | JTH |
 | 343 | 138 | Brenda Bell |
-| 344 | 137 | Candy Brooks |
-| 345 | 137 | Megan Simpson |
-| 346 | 137 | Zany Rotater |
-| 347 | 137 | Goofy Towerer |
-| 348 | 136 | Tanya Abernathy Jackson |
-| 349 | 136 | Lesha |
-| 350 | 136 | Nilla |
-| 351 | 136 | Bryanna Whitman |
-| 352 | 136 | Yloponom Gamez |
-| 353 | 136 | Goats Poe |
-| 354 | 135 | Christine Soltis |
-| 355 | 135 | Tausha Colella |
-| 356 | 135 | Brandy Hayhurst |
-| 357 | 135 | Dizzy Dasher |
-| 358 | 134 | Cari Hogan |
-| 359 | 134 | Haley Lynn Agers |
-| 360 | 134 | Belle |
-| 361 | 134 | Tina Cano |
-| 362 | 134 | Darlene Simmons |
-| 363 | 133 | SigmaWinchester |
+| 344 | 137 | SigmaWinchester |
+| 345 | 137 | Candy Brooks |
+| 346 | 137 | Megan Simpson |
+| 347 | 137 | Zany Rotater |
+| 348 | 137 | Goofy Towerer |
+| 349 | 136 | Tanya Abernathy Jackson |
+| 350 | 136 | Lesha |
+| 351 | 136 | Nilla |
+| 352 | 136 | Bryanna Whitman |
+| 353 | 136 | Yloponom Gamez |
+| 354 | 136 | Goats Poe |
+| 355 | 135 | Christine Soltis |
+| 356 | 135 | Tausha Colella |
+| 357 | 135 | Brandy Hayhurst |
+| 358 | 135 | Dizzy Dasher |
+| 359 | 134 | Cari Hogan |
+| 360 | 134 | Haley Lynn Agers |
+| 361 | 134 | Belle |
+| 362 | 134 | Tina Cano |
+| 363 | 134 | Darlene Simmons |
 | 364 | 133 | Mona Sharma |
 | 365 | 133 | Trisha Balmer |
 | 366 | 133 | Jeremy Steines |
@@ -657,30 +657,30 @@
 | 649 | 69 | Jelessa Locklear |
 | 650 | 69 | Ashley Marie Pierce |
 | 651 | 69 | Tiffany Leon |
-| 652 | 69 | Spunky Balancefit |
-| 653 | 69 | Chris Jammey |
+| 652 | 69 | Chris Jammey |
+| 653 | 69 | Spunky Balancefit |
 | 654 | 69 | Timothy Poole |
 | 655 | 69 | Michelle Sager |
 | 656 | 68 | Danielle Thompkins |
 | 657 | 68 | Michelle Sharpe |
 | 658 | 68 | Twisty Tiler |
-| 659 | 68 | Elizabeth Smith |
-| 660 | 68 | Hasty Ziggy |
-| 661 | 68 | Ariel Whittington |
-| 662 | 68 | Jazzy Nat |
-| 663 | 67 | Katie Coyle |
-| 664 | 67 | Quirky Rollblock |
-| 665 | 67 | Amy Jur Falk |
-| 666 | 67 | Kimmie Gargano |
-| 667 | 67 | LeNae TwoBarbie McEachin |
-| 668 | 67 | Ieisha Scruggs Webb |
-| 669 | 67 | ANIM3KNIGHT |
-| 670 | 67 | Nerdy Clearer |
-| 671 | 66 | Giddy Fallzone |
-| 672 | 66 | Diana Fowler |
-| 673 | 66 | Tipsy Riseclear |
-| 674 | 66 | Zack Theisen |
-| 675 | 66 | Rod Grayll |
+| 659 | 68 | Diana Fowler |
+| 660 | 68 | Elizabeth Smith |
+| 661 | 68 | Hasty Ziggy |
+| 662 | 68 | Ariel Whittington |
+| 663 | 68 | Jazzy Nat |
+| 664 | 67 | Katie Coyle |
+| 665 | 67 | Quirky Rollblock |
+| 666 | 67 | Amy Jur Falk |
+| 667 | 67 | Kimmie Gargano |
+| 668 | 67 | LeNae TwoBarbie McEachin |
+| 669 | 67 | Nerdy Clearer |
+| 670 | 67 | Ieisha Scruggs Webb |
+| 671 | 67 | ANIM3KNIGHT |
+| 672 | 66 | Tipsy Riseclear |
+| 673 | 66 | Giddy Fallzone |
+| 674 | 66 | Rod Grayll |
+| 675 | 66 | Zack Theisen |
 | 676 | 66 | Frisky Riseclear |
 | 677 | 66 | Diane Louise |
 | 678 | 65 | Shaun Talbot |
@@ -688,32 +688,32 @@
 | 680 | 65 | Trista Duguay |
 | 681 | 65 | Cee_me |
 | 682 | 65 | Dda |
-| 683 | 65 | Tamara Cordero |
-| 684 | 65 | Daring Spinzone |
-| 685 | 65 | Miguel Teixeira |
-| 686 | 65 | Jessica Venable |
-| 687 | 65 | Chummy Strikerbuilder |
-| 688 | 65 | RicanJesus69 |
-| 689 | 65 | Cheri Rose |
-| 690 | 65 | Mandy |
-| 691 | 65 | Robyn Coleman Sadler |
-| 692 | 65 | fay |
-| 693 | 65 | Kendra KJ Joyner |
-| 694 | 65 | Snippy Framezone |
-| 695 | 65 | brii |
-| 696 | 65 | Snappy McName |
-| 697 | 65 | NoShoesNation |
-| 698 | 64 | Jennifer Osmer Carruth |
+| 683 | 65 | Miguel Teixeira |
+| 684 | 65 | NoShoesNation |
+| 685 | 65 | RicanJesus69 |
+| 686 | 65 | Daring Spinzone |
+| 687 | 65 | Tamara Cordero |
+| 688 | 65 | Cheri Rose |
+| 689 | 65 | Mandy |
+| 690 | 65 | Robyn Coleman Sadler |
+| 691 | 65 | Kendra KJ Joyner |
+| 692 | 65 | Jessica Venable |
+| 693 | 65 | Snippy Framezone |
+| 694 | 65 | brii |
+| 695 | 65 | Snappy McName |
+| 696 | 65 | fay |
+| 697 | 65 | Chummy Strikerbuilder |
+| 698 | 64 | Nerdy Risebuilder |
 | 699 | 64 | Giggly Shiftsnap |
-| 700 | 64 | cat |
-| 701 | 64 | Nerdy Risebuilder |
-| 702 | 64 | Cheeky Grabber |
+| 700 | 64 | Jennifer Osmer Carruth |
+| 701 | 64 | Cheeky Grabber |
+| 702 | 64 | cat |
 | 703 | 64 | Kaycie Brieanne |
 | 704 | 64 | gymjim |
 | 705 | 64 | Maria Lee Ardoin |
-| 706 | 63 | Rhonda Winn Hohman |
-| 707 | 63 | Nicole Lynnette Mahurin |
-| 708 | 63 | Kiorah Blaze |
+| 706 | 63 | Nicole Lynnette Mahurin |
+| 707 | 63 | Kiorah Blaze |
+| 708 | 63 | Rhonda Winn Hohman |
 | 709 | 63 | Quags |
 | 710 | 63 | Spicy Patternbuilder |
 | 711 | 62 | Moneygirl |
