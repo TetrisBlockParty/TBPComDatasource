@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 10:07:17 UTC
+# Standings for team1 as of 2026-03-14 10:08:15 UTC
 
 **Total Participants:** 1535
 
@@ -101,18 +101,18 @@
 | 93 | 384 | PhatWI41 |
 | 94 | 374 | Ramona Gulledge |
 | 95 | 371 | Sheree Twiddy Thornton |
-| 96 | 367 | Ramon Salazar |
-| 97 | 367 | paupau |
+| 96 | 367 | paupau |
+| 97 | 367 | Ramon Salazar |
 | 98 | 365 | Alex Hennigh |
 | 99 | 362 | Alezandra Smith |
 | 100 | 350 | Aden Moss |
 | 101 | 335 | Velt Richardson |
 | 102 | 331 | Jasmine Riley |
 | 103 | 329 | Elyse YL |
-| 104 | 328 | Justin Jerome |
-| 105 | 326 | Yolanda M Harris |
-| 106 | 326 | Frilly Climber |
-| 107 | 324 | @n@luvmakin |
+| 104 | 328 | @n@luvmakin |
+| 105 | 328 | Justin Jerome |
+| 106 | 326 | Yolanda M Harris |
+| 107 | 326 | Frilly Climber |
 | 108 | 321 | jenna |
 | 109 | 309 | Carrie Trigg |
 | 110 | 303 | Jess Rose |
@@ -138,8 +138,8 @@
 | 130 | 228 | Legendary |
 | 131 | 228 | Kris Koepke |
 | 132 | 224 | Peachy Brick |
-| 133 | 220 | Jevon Griffith |
-| 134 | 220 | Liliana Pena |
+| 133 | 220 | Liliana Pena |
+| 134 | 220 | Jevon Griffith |
 | 135 | 220 | Cassandra Latimore |
 | 136 | 220 | Darci Cline |
 | 137 | 217 | Beka |
@@ -152,10 +152,10 @@
 | 144 | 201 | Nanan Nanan |
 | 145 | 200 | Angel Mendez |
 | 146 | 200 | Dude |
-| 147 | 197 | Dawn Hoffman |
-| 148 | 196 | Jason Whitehair |
-| 149 | 196 | Giddy Balancepiece |
-| 150 | 195 | DeeBee |
+| 147 | 199 | DeeBee |
+| 148 | 197 | Dawn Hoffman |
+| 149 | 196 | Jason Whitehair |
+| 150 | 196 | Giddy Balancepiece |
 | 151 | 194 | Foulplay176 |
 | 152 | 193 | Angela Phillips Kean |
 | 153 | 192 | Marie Shakinah |
@@ -167,8 +167,8 @@
 | 159 | 184 | KK |
 | 160 | 179 | Brandon Zachary Anderson |
 | 161 | 177 | Gdiguy |
-| 162 | 177 | Qoo |
-| 163 | 177 | Lively Rollfit |
+| 162 | 177 | Lively Rollfit |
+| 163 | 177 | Qoo |
 | 164 | 177 | Sabra Fisher |
 | 165 | 176 | Sarah Stanonik |
 | 166 | 175 | shelly |
@@ -261,13 +261,13 @@
 | 253 | 111 | Jennifer Negrete |
 | 254 | 111 | Tausha Mathews |
 | 255 | 110 | Vergie Michael |
-| 256 | 109 | Jess Dearborn |
-| 257 | 108 | Holly Hinkle |
-| 258 | 107 | Althea Louise |
-| 259 | 107 | Jennifer Campbell |
-| 260 | 106 | Charles Herbert |
-| 261 | 106 | Bearman |
-| 262 | 106 | Rachel Ballard |
+| 256 | 110 | Rachel Ballard |
+| 257 | 109 | Jess Dearborn |
+| 258 | 108 | Holly Hinkle |
+| 259 | 107 | Althea Louise |
+| 260 | 107 | Jennifer Campbell |
+| 261 | 106 | Charles Herbert |
+| 262 | 106 | Bearman |
 | 263 | 105 | Ashley Kostek |
 | 264 | 105 | Ophelia Rae |
 | 265 | 105 | Elizabeth Hughes |
