@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-14 09:46:17 UTC
+# Standings for team3 as of 2026-03-14 09:46:37 UTC
 
 **Total Participants:** 2295
 
@@ -81,8 +81,8 @@
 | 73 | 718 | Kaleb Sprenger |
 | 74 | 697 | Tamara Huckins |
 | 75 | 696 | Alysia Etheridge |
-| 76 | 680 | Suki Kaur |
-| 77 | 678 | Riana Kathleen Metroka |
+| 76 | 688 | Riana Kathleen Metroka |
+| 77 | 680 | Suki Kaur |
 | 78 | 674 | gee |
 | 79 | 671 | Ashley Rose Frederick |
 | 80 | 658 | Zachary Kline |
