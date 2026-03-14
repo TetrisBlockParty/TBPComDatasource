@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 10:02:38 UTC
+# Standings for team1 as of 2026-03-14 10:03:17 UTC
 
 **Total Participants:** 1532
 
@@ -66,8 +66,8 @@
 | 58 | 687 | Giddy Cascade |
 | 59 | 684 | Tina Blessed Cage |
 | 60 | 684 | Tim Raper |
-| 61 | 679 | Michael DeRosa |
-| 62 | 679 | Venechia Berry |
+| 61 | 679 | Venechia Berry |
+| 62 | 679 | Michael DeRosa |
 | 63 | 675 | Joshua Dye |
 | 64 | 668 | Michael Powers |
 | 65 | 652 | Hellsin |
@@ -91,16 +91,16 @@
 | 83 | 462 | Goober |
 | 84 | 454 | DreBeast |
 | 85 | 449 | Penny Morrical |
-| 86 | 429 | Tatiyana Holm |
-| 87 | 428 | Amy Dial Brown |
-| 88 | 412 | Nancy |
-| 89 | 401 | Duane Ficara |
-| 90 | 400 | Jessica Sheehan |
-| 91 | 387 | Amee Schnarrs |
-| 92 | 384 | PhatWI41 |
-| 93 | 374 | Ramona Gulledge |
-| 94 | 371 | Sheree Twiddy Thornton |
-| 95 | 370 | Kimberly Howell-Henley |
+| 86 | 430 | Kimberly Howell-Henley |
+| 87 | 429 | Tatiyana Holm |
+| 88 | 428 | Amy Dial Brown |
+| 89 | 412 | Nancy |
+| 90 | 401 | Duane Ficara |
+| 91 | 400 | Jessica Sheehan |
+| 92 | 387 | Amee Schnarrs |
+| 93 | 384 | PhatWI41 |
+| 94 | 374 | Ramona Gulledge |
+| 95 | 371 | Sheree Twiddy Thornton |
 | 96 | 367 | paupau |
 | 97 | 367 | Ramon Salazar |
 | 98 | 365 | Alex Hennigh |
@@ -118,8 +118,8 @@
 | 110 | 303 | Jess Rose |
 | 111 | 300 | Diamond Madison |
 | 112 | 280 | Marianne Louise West |
-| 113 | 279 | Hasbro Bros |
-| 114 | 279 | Ern2burn |
+| 113 | 279 | Ern2burn |
+| 114 | 279 | Hasbro Bros |
 | 115 | 277 | Shaynna Garza |
 | 116 | 276 | Jessi Sauer |
 | 117 | 275 | Witty Wipegrid |
