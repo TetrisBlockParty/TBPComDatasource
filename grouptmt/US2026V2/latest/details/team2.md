@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 23:38:18 UTC
+# Standings for team2 as of 2026-03-14 23:38:40 UTC
 
 **Total Participants:** 1909
 
@@ -55,13 +55,13 @@
 | 47 | 1187 | Naomii Seton |
 | 48 | 1168 | Alyssa Cox |
 | 49 | 1142 | Dreamy Linkbuilder |
-| 50 | 990 | opf |
-| 51 | 988 | lovethedana |
+| 50 | 993 | lovethedana |
+| 51 | 990 | opf |
 | 52 | 987 | Elizabeth Crowder Pelton |
 | 53 | 964 | Amanda Young |
 | 54 | 961 | Arnae Draughon |
 | 55 | 949 | Giggy Matchpiece |
-| 56 | 929 | Bubbly Twistpiece |
+| 56 | 931 | Bubbly Twistpiece |
 | 57 | 926 | Nicole Cannon |
 | 58 | 923 | Laura McPheeters |
 | 59 | 884 | Liana Spikes |
@@ -141,36 +141,36 @@
 | 133 | 393 | Carmilita Burpo Jordan |
 | 134 | 389 | Brooke Sunderhaus |
 | 135 | 388 | Katrina Schroeder |
-| 136 | 388 | Michelle Douglas Bridges |
-| 137 | 372 | Frothy Linker |
-| 138 | 370 | Foxy |
-| 139 | 369 | Elizabeth Sallas |
-| 140 | 368 | Dee Doubleyou |
-| 141 | 364 | Jenny Derby |
-| 142 | 355 | Jumpy Breaker |
-| 143 | 352 | Kacee Conrad Bock |
-| 144 | 350 | Nick Kozik |
-| 145 | 349 | Minxy |
-| 146 | 349 | Liz Wambsgans |
-| 147 | 346 | Jesse Olive |
-| 148 | 343 | Tiff Vs Tiffany |
-| 149 | 341 | Nathaniel Hardy |
-| 150 | 341 | Sheena Hachmann |
-| 151 | 340 | SterlingTeri |
-| 152 | 335 | Plucky Snaplink |
-| 153 | 328 | Erica Davis |
-| 154 | 326 | Paul Hudak |
-| 155 | 325 | Sandy Aragon |
-| 156 | 324 | Lori Schlachter Segui |
-| 157 | 324 | Jen Roe |
-| 158 | 323 | Jjza |
-| 159 | 320 | Dane Roy |
-| 160 | 318 | Elizabeth Mauri |
-| 161 | 318 | Winner |
-| 162 | 316 | DJ Bincent |
-| 163 | 313 | Jumpy Smasher |
-| 164 | 313 | Snappy Tiley |
-| 165 | 311 | Dawn Woosley Bowes |
+| 136 | 388 | Erica Davis |
+| 137 | 388 | Michelle Douglas Bridges |
+| 138 | 372 | Frothy Linker |
+| 139 | 370 | Foxy |
+| 140 | 369 | Elizabeth Sallas |
+| 141 | 368 | Dee Doubleyou |
+| 142 | 364 | Jenny Derby |
+| 143 | 355 | Jumpy Breaker |
+| 144 | 352 | Kacee Conrad Bock |
+| 145 | 350 | Nick Kozik |
+| 146 | 349 | Minxy |
+| 147 | 349 | Liz Wambsgans |
+| 148 | 346 | Jesse Olive |
+| 149 | 343 | Tiff Vs Tiffany |
+| 150 | 341 | Nathaniel Hardy |
+| 151 | 341 | Sheena Hachmann |
+| 152 | 340 | SterlingTeri |
+| 153 | 335 | Plucky Snaplink |
+| 154 | 331 | Dawn Woosley Bowes |
+| 155 | 326 | Paul Hudak |
+| 156 | 325 | Sandy Aragon |
+| 157 | 324 | Lori Schlachter Segui |
+| 158 | 324 | Jen Roe |
+| 159 | 323 | Jjza |
+| 160 | 320 | Dane Roy |
+| 161 | 318 | Elizabeth Mauri |
+| 162 | 318 | Winner |
+| 163 | 316 | DJ Bincent |
+| 164 | 313 | Jumpy Smasher |
+| 165 | 313 | Snappy Tiley |
 | 166 | 311 | Rusty Davis |
 | 167 | 309 | Marvin Lou Martin |
 | 168 | 309 | Jay |
@@ -201,8 +201,8 @@
 | 193 | 270 | Kyesha Goodyear |
 | 194 | 270 | Slinky Towerer |
 | 195 | 269 | Angela Mindiola |
-| 196 | 267 | Starr |
-| 197 | 267 | Jenni Garcia-Vogelhut |
+| 196 | 267 | Jenni Garcia-Vogelhut |
+| 197 | 267 | Starr |
 | 198 | 266 | Amanda Segura |
 | 199 | 266 | Slippery Clam |
 | 200 | 265 | Yoyareese |
@@ -210,8 +210,8 @@
 | 202 | 263 | Joeyalan Sullivan |
 | 203 | 262 | BluBae |
 | 204 | 261 | Jasmine Kenney |
-| 205 | 259 | Looloo |
-| 206 | 259 | eMzzz |
+| 205 | 259 | eMzzz |
+| 206 | 259 | Looloo |
 | 207 | 256 | Krish Shah |
 | 208 | 255 | Pixie |
 | 209 | 255 | Natasha |
