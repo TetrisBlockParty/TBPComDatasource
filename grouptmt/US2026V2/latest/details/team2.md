@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 10:32:18 UTC
+# Standings for team2 as of 2026-03-14 10:32:37 UTC
 
 **Total Participants:** 1471
 
@@ -67,8 +67,8 @@
 | 59 | 513 | Carrie Mitchell |
 | 60 | 502 | Snippy Basepiece |
 | 61 | 484 | Amanda Sullivan |
-| 62 | 480 | Kristina Custer |
-| 63 | 473 | Elizabeth Crowder Pelton |
+| 62 | 481 | Elizabeth Crowder Pelton |
+| 63 | 480 | Kristina Custer |
 | 64 | 469 | Susan Fazio Edwards |
 | 65 | 466 | Jennifer Gartland |
 | 66 | 456 | Sara Morgan |
