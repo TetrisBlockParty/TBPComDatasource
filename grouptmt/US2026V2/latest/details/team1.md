@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 05:14:17 UTC
+# Standings for team1 as of 2026-03-14 05:14:37 UTC
 
 **Total Participants:** 1392
 
@@ -22,7 +22,7 @@
 | 14 | 2152 | Erica Lepisto Anderson |
 | 15 | 2077 | Itz Kevo |
 | 16 | 1709 | Tashanna Harvey |
-| 17 | 1614 | Diane |
+| 17 | 1659 | Diane |
 | 18 | 1479 | Michael Texidor |
 | 19 | 1449 | Amy Roche |
 | 20 | 1398 | Amanda Patterson |
@@ -456,94 +456,94 @@
 | 448 | 52 | Bribrobra |
 | 449 | 52 | 🗝️🗝️ Key |
 | 450 | 52 | Frisky Glidebuilder |
-| 451 | 52 | Tiffany Armen |
-| 452 | 52 | Stacy Patterson |
-| 453 | 52 | Kelly Miller Williams |
-| 454 | 52 | Jimmy Shannon |
-| 455 | 52 | Twisty Blockmatch |
-| 456 | 52 | kelso |
-| 457 | 52 | Deb Horwath |
-| 458 | 52 | Melody Rene |
-| 459 | 52 | Regina Jones |
-| 460 | 52 | Ernie Guyette |
-| 461 | 52 | Goofy Linkblock |
-| 462 | 52 | Jai |
+| 451 | 52 | Goofy Linkblock |
+| 452 | 52 | Kelly Miller Williams |
+| 453 | 52 | Stacy Patterson |
+| 454 | 52 | Deb Horwath |
+| 455 | 52 | Jimmy Shannon |
+| 456 | 52 | Twisty Blockmatch |
+| 457 | 52 | kelso |
+| 458 | 52 | Smiley Clicky |
+| 459 | 52 | Melody Rene |
+| 460 | 52 | Tiffany Armen |
+| 461 | 52 | Regina Jones |
+| 462 | 52 | Ernie Guyette |
 | 463 | 52 | Shekita Gibbs |
-| 464 | 52 | Smiley Clicky |
+| 464 | 52 | Jai |
 | 465 | 51 | Jasmine Riley |
-| 466 | 51 | Cheryl Villa |
-| 467 | 51 | Joyce Harrell-chavis |
-| 468 | 51 | Suzan Frazier |
-| 469 | 50 | Carla Valenzisi |
+| 466 | 51 | Joyce Harrell-chavis |
+| 467 | 51 | Suzan Frazier |
+| 468 | 51 | Cheryl Villa |
+| 469 | 50 | Aponk |
 | 470 | 50 | Crafty Tilebuilder |
-| 471 | 50 | KK |
-| 472 | 50 | Swalshy |
-| 473 | 50 | Chris Kelly |
-| 474 | 50 | Mean Melly |
-| 475 | 50 | Andy Harris |
-| 476 | 50 | Aponk |
-| 477 | 50 | CL Meyer |
-| 478 | 50 | JonCorry Story |
-| 479 | 50 | Crystal Claypool |
-| 480 | 50 | Loopy Edge |
-| 481 | 50 | Jen |
-| 482 | 50 | Glitzy Linkpiece |
-| 483 | 49 | Jumpy Winder |
+| 471 | 50 | Glitzy Linkpiece |
+| 472 | 50 | Mean Melly |
+| 473 | 50 | Carla Valenzisi |
+| 474 | 50 | Andy Harris |
+| 475 | 50 | Jen |
+| 476 | 50 | CL Meyer |
+| 477 | 50 | KK |
+| 478 | 50 | Loopy Edge |
+| 479 | 50 | Chris Kelly |
+| 480 | 50 | JonCorry Story |
+| 481 | 50 | Crystal Claypool |
+| 482 | 50 | Swalshy |
+| 483 | 49 | Paul Stafford |
 | 484 | 49 | Hi |
-| 485 | 49 | CoolHand |
-| 486 | 49 | Slatt Aint Going |
-| 487 | 49 | Nora Smith |
-| 488 | 49 | Sue Foreman |
-| 489 | 49 | Paul Stafford |
-| 490 | 49 | Hyper Drop |
-| 491 | 49 | Breezy Ivy |
-| 492 | 49 | Danessa Pettite |
+| 485 | 49 | Danessa Pettite |
+| 486 | 49 | Sue Foreman |
+| 487 | 49 | Shelly Fannon |
+| 488 | 49 | Hyper Drop |
+| 489 | 49 | Nora Smith |
+| 490 | 49 | Slatt Aint Going |
+| 491 | 49 | CoolHand |
+| 492 | 49 | Breezy Ivy |
 | 493 | 49 | slim |
-| 494 | 49 | Tabitha Cornelious |
-| 495 | 49 | Shelly Fannon |
-| 496 | 49 | Dale |
+| 494 | 49 | Dale |
+| 495 | 49 | Tabitha Cornelious |
+| 496 | 49 | Jumpy Winder |
 | 497 | 49 | Lorie Atwood |
-| 498 | 48 | Matthew Allan |
+| 498 | 48 | Lacey Palatka |
 | 499 | 48 | Meagan Canipe |
-| 500 | 48 | Ashley Kostek |
+| 500 | 48 | Matthew Allan |
 | 501 | 48 | Jennie Lee Huntley |
-| 502 | 48 | Lacey Palatka |
-| 503 | 47 | iceman |
-| 504 | 47 | FireHawk |
-| 505 | 47 | Karon Miller Hammond |
-| 506 | 47 | Jason S |
-| 507 | 47 | ghxsty |
-| 508 | 47 | Michelle Lee |
-| 509 | 47 | Peter HM Han |
-| 510 | 47 | Zippy Cascadezone |
-| 511 | 47 | Michael Wood |
+| 502 | 48 | Ashley Kostek |
+| 503 | 47 | ghxsty |
+| 504 | 47 | Karon Miller Hammond |
+| 505 | 47 | Michelle Lee |
+| 506 | 47 | Zippy Cascadezone |
+| 507 | 47 | FireHawk |
+| 508 | 47 | Michael Wood |
+| 509 | 47 | Renee Elam |
+| 510 | 47 | Peter HM Han |
+| 511 | 47 | Jason S |
 | 512 | 47 | Jordan Leach |
-| 513 | 46 | Daring Roll |
+| 513 | 47 | iceman |
 | 514 | 46 | Flashy Stacky |
-| 515 | 46 | Spunky Rollblock |
-| 516 | 46 | Tina Kocher Zimmerman |
-| 517 | 46 | Jessica Butler |
-| 518 | 46 | Winky |
-| 519 | 46 | Zesty Blockclear |
-| 520 | 46 | Will Fulmer |
-| 521 | 45 | Jessica Russell |
-| 522 | 45 | April Bennett |
-| 523 | 45 | Blkfroggy |
-| 524 | 45 | belinda rocky |
-| 525 | 45 | Joanne Marie |
-| 526 | 45 | Crystal Eubanks |
-| 527 | 45 | Ryne Pinkston |
-| 528 | 45 | Amber McDonald |
-| 529 | 45 | Wacky Brickster |
-| 530 | 45 | Casterbation |
-| 531 | 44 | Nunya |
-| 532 | 44 | Saucy Tilemaker |
-| 533 | 44 | Dish19 |
-| 534 | 44 | Glauf |
-| 535 | 44 | Boldy Clicky |
-| 536 | 44 | CupcakeEyes |
-| 537 | 44 | TheBiz2 |
-| 538 | 44 | Renee Elam |
+| 515 | 46 | Daring Roll |
+| 516 | 46 | Spunky Rollblock |
+| 517 | 46 | Tina Kocher Zimmerman |
+| 518 | 46 | Jessica Butler |
+| 519 | 46 | Will Fulmer |
+| 520 | 46 | Winky |
+| 521 | 46 | Zesty Blockclear |
+| 522 | 45 | Joanne Marie |
+| 523 | 45 | Ryne Pinkston |
+| 524 | 45 | Jessica Russell |
+| 525 | 45 | Blkfroggy |
+| 526 | 45 | belinda rocky |
+| 527 | 45 | April Bennett |
+| 528 | 45 | Crystal Eubanks |
+| 529 | 45 | Amber McDonald |
+| 530 | 45 | Wacky Brickster |
+| 531 | 45 | Casterbation |
+| 532 | 44 | Nunya |
+| 533 | 44 | Saucy Tilemaker |
+| 534 | 44 | Dish19 |
+| 535 | 44 | Glauf |
+| 536 | 44 | Boldy Clicky |
+| 537 | 44 | CupcakeEyes |
+| 538 | 44 | TheBiz2 |
 | 539 | 44 | Neko Preston |
 | 540 | 44 | Zesty Balancepiece |
 | 541 | 44 | Happy Snapbuild |
