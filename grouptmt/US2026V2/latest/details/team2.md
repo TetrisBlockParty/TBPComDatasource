@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 21:46:42 UTC
+# Standings for team2 as of 2026-03-14 21:47:19 UTC
 
 **Total Participants:** 1846
 
@@ -177,17 +177,17 @@
 | 169 | 274 | Leticia Martinez Kelley |
 | 170 | 274 | Ben Dove |
 | 171 | 271 | Carmilita Burpo Jordan |
-| 172 | 270 | Slinky Towerer |
-| 173 | 269 | Angela Mindiola |
-| 174 | 268 | Anna Faulkner |
-| 175 | 267 | Starr |
-| 176 | 267 | Jenni Garcia-Vogelhut |
-| 177 | 266 | Slippery Clam |
-| 178 | 264 | Jen |
-| 179 | 262 | Jjza |
-| 180 | 262 | Yoyareese |
-| 181 | 260 | Jasmine Kenney |
-| 182 | 260 | Dane Roy |
+| 172 | 270 | Dane Roy |
+| 173 | 270 | Slinky Towerer |
+| 174 | 269 | Angela Mindiola |
+| 175 | 268 | Anna Faulkner |
+| 176 | 267 | Starr |
+| 177 | 267 | Jenni Garcia-Vogelhut |
+| 178 | 266 | Slippery Clam |
+| 179 | 264 | Jen |
+| 180 | 262 | Jjza |
+| 181 | 262 | Yoyareese |
+| 182 | 260 | Jasmine Kenney |
 | 183 | 256 | YAE |
 | 184 | 255 | Pixie |
 | 185 | 254 | Amanda Segura |
@@ -198,17 +198,17 @@
 | 190 | 253 | Carlton Unfiltered |
 | 191 | 252 | Courtney Cicoria |
 | 192 | 251 | Shelly |
-| 193 | 250 | LML |
-| 194 | 250 | Natasha |
-| 195 | 250 | Ramone Armstrong |
-| 196 | 249 | Sass |
-| 197 | 247 | Guillaume Clermont |
-| 198 | 247 | Dreamer |
+| 193 | 251 | Nathaniel Hardy |
+| 194 | 250 | LML |
+| 195 | 250 | Natasha |
+| 196 | 250 | Ramone Armstrong |
+| 197 | 249 | Sass |
+| 198 | 247 | Guillaume Clermont |
 | 199 | 247 | Christy Merriman Addison |
-| 200 | 243 | BluBae |
-| 201 | 243 | Ella Marzano |
-| 202 | 242 | Maureen Winter |
-| 203 | 241 | Nathaniel Hardy |
+| 200 | 247 | Dreamer |
+| 201 | 243 | BluBae |
+| 202 | 243 | Ella Marzano |
+| 203 | 242 | Maureen Winter |
 | 204 | 240 | candypants |
 | 205 | 240 | 1RiRi1 |
 | 206 | 239 | Katie Lynn |
@@ -236,12 +236,12 @@
 | 228 | 212 | TJ Hire |
 | 229 | 211 | Cleopatra Daniels |
 | 230 | 211 | Looloo |
-| 231 | 209 | Tig’o Biggie |
-| 232 | 208 | Koipod |
-| 233 | 207 | Jocelynn Marie |
-| 234 | 205 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 235 | 205 | Tony Tran |
-| 236 | 204 | Minxy |
+| 231 | 209 | Minxy |
+| 232 | 209 | Tig’o Biggie |
+| 233 | 208 | Koipod |
+| 234 | 207 | Jocelynn Marie |
+| 235 | 205 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 236 | 205 | Tony Tran |
 | 237 | 203 | Rusty Davis |
 | 238 | 203 | Elizabeth Ostrom |
 | 239 | 202 | Carmen Jnvm |
@@ -448,22 +448,22 @@
 | 440 | 111 | Austin Vice |
 | 441 | 111 | Bethany H. Tunison |
 | 442 | 110 | Diana Fowler |
-| 443 | 110 | bigdad |
-| 444 | 110 | Shelbs |
+| 443 | 110 | Shelbs |
+| 444 | 110 | bigdad |
 | 445 | 110 | Phredda Compton |
 | 446 | 109 | Marcus Todd |
 | 447 | 109 | Rigoberto Sanchez Jr. |
-| 448 | 109 | Unicorn |
-| 449 | 109 | Jennifer Galadik |
-| 450 | 108 | Jen Robinson |
-| 451 | 108 | Morgan Anne Witty |
-| 452 | 107 | Scott Martinson |
-| 453 | 107 | Chirpy Dash |
-| 454 | 107 | Daring Rotator |
-| 455 | 106 | Carla Roberson |
-| 456 | 106 | Lively Builderfit |
-| 457 | 105 | Dusti Holbrook |
-| 458 | 105 | Poppy |
+| 448 | 109 | Jennifer Galadik |
+| 449 | 109 | Unicorn |
+| 450 | 108 | Poppy |
+| 451 | 108 | Jen Robinson |
+| 452 | 108 | Morgan Anne Witty |
+| 453 | 107 | Daring Rotator |
+| 454 | 107 | Scott Martinson |
+| 455 | 107 | Chirpy Dash |
+| 456 | 106 | Carla Roberson |
+| 457 | 106 | Lively Builderfit |
+| 458 | 105 | Dusti Holbrook |
 | 459 | 105 | Jackson Karen |
 | 460 | 105 | Shiny Gridmatch |
 | 461 | 104 | Melanie Corum Reynolds |
@@ -719,10 +719,10 @@
 | 711 | 65 | Trista Duguay |
 | 712 | 65 | Elegant banana |
 | 713 | 65 | Dda |
-| 714 | 64 | Silly Brickline |
-| 715 | 64 | gymjim |
-| 716 | 64 | Maria Lee Ardoin |
-| 717 | 64 | KT CAT |
+| 714 | 65 | KT CAT |
+| 715 | 64 | Silly Brickline |
+| 716 | 64 | gymjim |
+| 717 | 64 | Maria Lee Ardoin |
 | 718 | 64 | Kaycie Brieanne |
 | 719 | 64 | Ashley Danielle |
 | 720 | 64 | cat |
@@ -893,27 +893,27 @@
 | 885 | 49 | Dreamy Towerbuilder |
 | 886 | 49 | Glitzy Bricky |
 | 887 | 49 | OneTwenty Livin |
-| 888 | 49 | Sam Sam |
-| 889 | 49 | Bia |
-| 890 | 49 | Shiny Patternline |
-| 891 | 49 | Vicke Patterson |
-| 892 | 49 | Lisa Parr |
-| 893 | 49 | Dawn Alexander |
-| 894 | 49 | Lynn72 |
-| 895 | 49 | Jolly Riserpiece |
-| 896 | 49 | Amanda |
-| 897 | 49 | sofiiya the forst |
-| 898 | 49 | Sherri Morgan |
-| 899 | 48 | Wacky Brickclear |
-| 900 | 48 | Melissa |
-| 901 | 48 | Geetara |
-| 902 | 48 | Goofy Block |
-| 903 | 48 | Lawan Dixon |
-| 904 | 48 | Amy Reed |
-| 905 | 48 | Natoshya Rae Ramsey |
-| 906 | 48 | Bibbit |
-| 907 | 48 | Lydell Webb |
-| 908 | 48 | Plucky Rollblock |
+| 888 | 49 | Plucky Rollblock |
+| 889 | 49 | Sam Sam |
+| 890 | 49 | Bia |
+| 891 | 49 | Shiny Patternline |
+| 892 | 49 | Vicke Patterson |
+| 893 | 49 | Lisa Parr |
+| 894 | 49 | Dawn Alexander |
+| 895 | 49 | Lynn72 |
+| 896 | 49 | Jolly Riserpiece |
+| 897 | 49 | Amanda |
+| 898 | 49 | sofiiya the forst |
+| 899 | 49 | Sherri Morgan |
+| 900 | 48 | Wacky Brickclear |
+| 901 | 48 | Melissa |
+| 902 | 48 | Geetara |
+| 903 | 48 | Goofy Block |
+| 904 | 48 | Lawan Dixon |
+| 905 | 48 | Amy Reed |
+| 906 | 48 | Natoshya Rae Ramsey |
+| 907 | 48 | Bibbit |
+| 908 | 48 | Lydell Webb |
 | 909 | 48 | Breezy |
 | 910 | 48 | Misty Payne Maddox |
 | 911 | 48 | Nicholas Bednarz |
