@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 05:00:18 UTC
+# Standings for team1 as of 2026-03-14 05:00:37 UTC
 
 **Total Participants:** 1375
 
@@ -754,101 +754,101 @@
 | 746 | 28 | Kelli Marie |
 | 747 | 28 | John DeMoss |
 | 748 | 28 | Witty Snapmatch |
-| 749 | 28 | Betty Bóò |
-| 750 | 28 | Timothy Lott |
-| 751 | 28 | b430 |
-| 752 | 28 | Sandra Link-Gable |
+| 749 | 28 | Timothy Lott |
+| 750 | 28 | Betty Bóò |
+| 751 | 28 | Sandra Link-Gable |
+| 752 | 28 | b430 |
 | 753 | 28 | LadyKuSh |
-| 754 | 27 | Ella Brown |
+| 754 | 27 | Countryboy Will Survive |
 | 755 | 27 | Bean |
-| 756 | 27 | Tiffani J West |
-| 757 | 27 | Dawn Fike |
+| 756 | 27 | Ella Brown |
+| 757 | 27 | Tiffani J West |
 | 758 | 27 | Larry Bruce Williamson II |
 | 759 | 27 | ldm |
-| 760 | 27 | Countryboy Will Survive |
-| 761 | 27 | Katie Martin |
-| 762 | 27 | Lasey Rands |
-| 763 | 27 | Chris Alexinas |
+| 760 | 27 | Katie Martin |
+| 761 | 27 | Chris Alexinas |
+| 762 | 27 | Samo |
+| 763 | 27 | NolaGal |
 | 764 | 27 | Perky Shatterline |
-| 765 | 27 | NolaGal |
-| 766 | 27 | crunchy panda |
-| 767 | 27 | Samo |
-| 768 | 26 | Jason Dickess |
-| 769 | 26 | Christi Ames |
-| 770 | 26 | Loony Spinzone |
-| 771 | 26 | Jessica Butler |
-| 772 | 26 | Zesty Shatterline |
+| 765 | 27 | Lasey Rands |
+| 766 | 27 | Dawn Fike |
+| 767 | 27 | crunchy panda |
+| 768 | 26 | Christi Ames |
+| 769 | 26 | April Mancuosso |
+| 770 | 26 | Jason Dickess |
+| 771 | 26 | Amanda Pauldo-Ivy |
+| 772 | 26 | Dizzy Matchzone |
 | 773 | 26 | Sarah Perry Cook |
-| 774 | 26 | Dizzy Matchzone |
-| 775 | 26 | Amanda Pauldo-Ivy |
-| 776 | 26 | April Mancuosso |
-| 777 | 26 | Stephanie Myers |
-| 778 | 26 | p |
+| 774 | 26 | Stephanie Myers |
+| 775 | 26 | p |
+| 776 | 26 | Zesty Shatterline |
+| 777 | 26 | Jessica Butler |
+| 778 | 26 | Loony Spinzone |
 | 779 | 26 | Plucky Dashgrid |
 | 780 | 26 | Cassie Lathem |
-| 781 | 26 | Sonotjelly |
-| 782 | 26 | Yenene |
-| 783 | 26 | Meli |
-| 784 | 26 | Spicy Clearpiece |
+| 781 | 26 | Noah Lalonde |
+| 782 | 26 | Sonotjelly |
+| 783 | 26 | Yenene |
+| 784 | 26 | Meli |
 | 785 | 26 | Zachary Diener |
-| 786 | 26 | Luna |
-| 787 | 26 | Crystal Jaggars |
-| 788 | 26 | Laura Lewis |
-| 789 | 26 | Meagan Nicole |
-| 790 | 26 | Loopy Brickmatch |
-| 791 | 26 | Noah Lalonde |
-| 792 | 25 | Rocky |
-| 793 | 25 | Trish11479 |
-| 794 | 25 | TOP DOG |
-| 795 | 25 | Crystal Swigart |
-| 796 | 25 | Magic Meli |
-| 797 | 25 | Ziggy Csah |
-| 798 | 25 | Tammy Griffee |
-| 799 | 25 | Farts Mcgee |
-| 800 | 25 | Karissa Hull |
-| 801 | 25 | Jessica Marie Long |
-| 802 | 25 | Eddie Biernacki |
-| 803 | 25 | Stacy Rodriguez |
-| 804 | 25 | Winky |
-| 805 | 25 | Mike Winn |
-| 806 | 25 | Pinky Hunt |
-| 807 | 25 | BKLYN.BOY |
-| 808 | 25 | Kristopher Daniels |
-| 809 | 25 | Lentoya Jackson |
-| 810 | 25 | Chilly Faller |
-| 811 | 25 | Randy Bowers |
-| 812 | 25 | Daisy Sunny |
-| 813 | 25 | Kristie Ballestin |
-| 814 | 25 | Maju Restini |
-| 815 | 25 | Giddy Blast |
-| 816 | 25 | Becky Coker |
-| 817 | 25 | Robin Sharp Earle |
-| 818 | 25 | Jessica Lang |
-| 819 | 25 | Pam Jennings Herzog |
-| 820 | 25 | Connie Bond |
-| 821 | 25 | Jennifer Obrien |
-| 822 | 25 | Cheery Fitline |
-| 823 | 25 | QuinnC |
-| 824 | 25 | Roberta Arnold |
-| 825 | 25 | Gabriel Morales |
+| 786 | 26 | Spicy Clearpiece |
+| 787 | 26 | Luna |
+| 788 | 26 | Loopy Brickmatch |
+| 789 | 26 | Laura Lewis |
+| 790 | 26 | Meagan Nicole |
+| 791 | 26 | Christina Rentz-Lane |
+| 792 | 26 | Crystal Jaggars |
+| 793 | 25 | TOP DOG |
+| 794 | 25 | Rocky |
+| 795 | 25 | Trish11479 |
+| 796 | 25 | Crystal Swigart |
+| 797 | 25 | Magic Meli |
+| 798 | 25 | Ziggy Csah |
+| 799 | 25 | Tammy Griffee |
+| 800 | 25 | Farts Mcgee |
+| 801 | 25 | Karissa Hull |
+| 802 | 25 | Jessica Marie Long |
+| 803 | 25 | Eddie Biernacki |
+| 804 | 25 | Stacy Rodriguez |
+| 805 | 25 | Winky |
+| 806 | 25 | Mike Winn |
+| 807 | 25 | Pinky Hunt |
+| 808 | 25 | BKLYN.BOY |
+| 809 | 25 | Kristopher Daniels |
+| 810 | 25 | Lentoya Jackson |
+| 811 | 25 | Chilly Faller |
+| 812 | 25 | Randy Bowers |
+| 813 | 25 | Daisy Sunny |
+| 814 | 25 | Kristie Ballestin |
+| 815 | 25 | Maju Restini |
+| 816 | 25 | Giddy Blast |
+| 817 | 25 | Becky Coker |
+| 818 | 25 | Robin Sharp Earle |
+| 819 | 25 | Jessica Lang |
+| 820 | 25 | Pam Jennings Herzog |
+| 821 | 25 | Connie Bond |
+| 822 | 25 | Jennifer Obrien |
+| 823 | 25 | Carl Hampton |
+| 824 | 25 | QuinnC |
+| 825 | 25 | Roberta Arnold |
 | 826 | 25 | Medic205 |
-| 827 | 25 | Carl Hampton |
-| 828 | 24 | Smin |
-| 829 | 24 | Bryant Rodriguez |
-| 830 | 24 | Mary Boo |
-| 831 | 24 | Chummy Curvebuilder |
-| 832 | 24 | Kristen Orr |
-| 833 | 24 | Chirpy Setter |
-| 834 | 24 | tazd0629 |
-| 835 | 24 | Peachy Linkfall |
-| 836 | 24 | Christina Rentz-Lane |
-| 837 | 24 | Amy Hollinger |
-| 838 | 24 | Goob277 |
-| 839 | 24 | Kelli Pazour |
-| 840 | 24 | Vicki Dougie |
-| 841 | 24 | Mechelle Bailum |
-| 842 | 24 | TexasLeaguer |
-| 843 | 24 | Zesty Edgepiece |
+| 827 | 25 | Gabriel Morales |
+| 828 | 25 | Cheery Fitline |
+| 829 | 24 | tazd0629 |
+| 830 | 24 | Zesty Edgepiece |
+| 831 | 24 | Bryant Rodriguez |
+| 832 | 24 | Mary Boo |
+| 833 | 24 | Chummy Curvebuilder |
+| 834 | 24 | Mechelle Bailum |
+| 835 | 24 | Kristen Orr |
+| 836 | 24 | Chirpy Setter |
+| 837 | 24 | Vicki Dougie |
+| 838 | 24 | Peachy Linkfall |
+| 839 | 24 | Smin |
+| 840 | 24 | Goob277 |
+| 841 | 24 | Amy Hollinger |
+| 842 | 24 | Kelli Pazour |
+| 843 | 24 | TexasLeaguer |
 | 844 | 23 | David Campbell |
 | 845 | 23 | Danelle Sulentic |
 | 846 | 23 | Bingo Wingo |
