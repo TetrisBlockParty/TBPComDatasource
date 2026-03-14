@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 03:10:17 UTC
+# Standings for team2 as of 2026-03-14 03:10:36 UTC
 
 **Total Participants:** 1189
 
@@ -1171,7 +1171,7 @@
 | 1163 | 5 | Nathan William |
 | 1164 | 5 | Lush Matchgrid |
 | 1165 | 5 | Chill Spinblock |
-| 1166 | 5 | goatmaster |
+| 1166 | 5 | ZeldaCat |
 | 1167 | 5 | Robin |
 | 1168 | 5 | Kevin Leary |
 | 1169 | 5 | Somthin |
@@ -1183,18 +1183,18 @@
 | 1175 | 5 | Goofy Brickzone |
 | 1176 | 5 | Rose Clark |
 | 1177 | 5 | Tiffany Riccio |
-| 1178 | 5 | Leeann Couch |
-| 1179 | 5 | Loony Snapper |
-| 1180 | 5 | babbs |
-| 1181 | 5 | Alexandria Shannon |
-| 1182 | 5 | Perky Piecegrid |
-| 1183 | 5 | Jeanna Gordon |
-| 1184 | 5 | Liz Scott |
-| 1185 | 5 | Kerry Lee Powell |
-| 1186 | 5 | Tinkerbell_79 |
-| 1187 | 5 | Lazy Swiper |
-| 1188 | 5 | David Smith |
-| 1189 | 5 | ZeldaCat |
+| 1178 | 5 | goatmaster |
+| 1179 | 5 | Leeann Couch |
+| 1180 | 5 | Loony Snapper |
+| 1181 | 5 | babbs |
+| 1182 | 5 | Alexandria Shannon |
+| 1183 | 5 | Perky Piecegrid |
+| 1184 | 5 | Jeanna Gordon |
+| 1185 | 5 | Liz Scott |
+| 1186 | 5 | Kerry Lee Powell |
+| 1187 | 5 | Tinkerbell_79 |
+| 1188 | 5 | Lazy Swiper |
+| 1189 | 5 | David Smith |
 
 ---
 *Standings created by tournaments datasource generation tool*
