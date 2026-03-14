@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 09:26:18 UTC
+# Standings for team2 as of 2026-03-14 09:26:40 UTC
 
 **Total Participants:** 1451
 
@@ -228,15 +228,15 @@
 | 220 | 138 | Gael |
 | 221 | 137 | Candy Brooks |
 | 222 | 137 | Jasmine Kenney |
-| 223 | 136 | Frisky Riserbuilder |
-| 224 | 135 | Susan Dunn |
-| 225 | 135 | Prette Qui |
-| 226 | 133 | JustYvette IsFine |
-| 227 | 133 | Trisha Balmer |
-| 228 | 133 | nina |
-| 229 | 132 | Ramona Marie Eruera |
-| 230 | 132 | Crystal Brown-Miles |
-| 231 | 132 | Tony Tran |
+| 223 | 137 | Tony Tran |
+| 224 | 136 | Frisky Riserbuilder |
+| 225 | 135 | Susan Dunn |
+| 226 | 135 | Prette Qui |
+| 227 | 133 | JustYvette IsFine |
+| 228 | 133 | Trisha Balmer |
+| 229 | 133 | nina |
+| 230 | 132 | Ramona Marie Eruera |
+| 231 | 132 | Crystal Brown-Miles |
 | 232 | 132 | Brenda A |
 | 233 | 131 | Tee Jaleesa |
 | 234 | 130 | Tyler Werts |
@@ -379,48 +379,48 @@
 | 371 | 81 | Amanda Segura |
 | 372 | 80 | Danielle Weikel |
 | 373 | 80 | Plucky Glide |
-| 374 | 80 | Joy Young |
-| 375 | 80 | Junang Herowanto |
-| 376 | 80 | GirlMom5 |
-| 377 | 80 | Dusti Holbrook |
-| 378 | 79 | Alboo |
-| 379 | 79 | Dreamy Snapgrid |
+| 374 | 80 | Keyata Wright |
+| 375 | 80 | Joy Young |
+| 376 | 80 | Dusti Holbrook |
+| 377 | 80 | Junang Herowanto |
+| 378 | 80 | GirlMom5 |
+| 379 | 79 | Dana Hicks |
 | 380 | 79 | Shawn Haines |
-| 381 | 79 | Dana Hicks |
-| 382 | 77 | Kristi Riley |
-| 383 | 77 | Kiki Moore |
-| 384 | 77 | Emily Wooden |
-| 385 | 77 | Jam4 |
-| 386 | 76 | Olivia Gwin |
+| 381 | 79 | Alboo |
+| 382 | 79 | Dreamy Snapgrid |
+| 383 | 77 | Emily Wooden |
+| 384 | 77 | Kiki Moore |
+| 385 | 77 | Kristi Riley |
+| 386 | 77 | Jam4 |
 | 387 | 76 | Jennifer Galadik |
-| 388 | 76 | Teresa Longwell |
-| 389 | 76 | Lilypop |
-| 390 | 75 | Jesse Saville |
-| 391 | 75 | Angie Jacobs |
-| 392 | 75 | ImmortelT |
-| 393 | 75 | Lindsay Lucas |
-| 394 | 75 | Keyata Wright |
+| 388 | 76 | Olivia Gwin |
+| 389 | 76 | Teresa Longwell |
+| 390 | 76 | Lilypop |
+| 391 | 75 | Jesse Saville |
+| 392 | 75 | Angie Jacobs |
+| 393 | 75 | ImmortelT |
+| 394 | 75 | Lindsay Lucas |
 | 395 | 75 | Trouble |
 | 396 | 74 | Carla Roberson |
 | 397 | 74 | Ryan LaCasse |
 | 398 | 74 | Nikki Speer |
 | 399 | 74 | Mona Sharma |
-| 400 | 73 | Zesty Clear |
+| 400 | 73 | Marc Abney |
 | 401 | 73 | Michael |
 | 402 | 73 | Dondon Cheng |
-| 403 | 73 | Marc Abney |
-| 404 | 73 | Mel Thomas-Young |
-| 405 | 73 | SD Temple |
-| 406 | 73 | Kathy Allen |
+| 403 | 73 | Mel Thomas-Young |
+| 404 | 73 | SD Temple |
+| 405 | 73 | Kathy Allen |
+| 406 | 73 | Zesty Clear |
 | 407 | 73 | boogadee |
 | 408 | 72 | Angela Gay |
-| 409 | 72 | Honu Noste |
-| 410 | 72 | Nerdy Rollzone |
-| 411 | 72 | Rileyy Rocket |
-| 412 | 72 | LeVeL27 |
-| 413 | 72 | Staci George Fitzsimmons |
-| 414 | 72 | Priscilla Dae Jones |
-| 415 | 72 | Marciala Pineda Juarez |
+| 409 | 72 | LeVeL27 |
+| 410 | 72 | Marciala Pineda Juarez |
+| 411 | 72 | Staci George Fitzsimmons |
+| 412 | 72 | Priscilla Dae Jones |
+| 413 | 72 | Nerdy Rollzone |
+| 414 | 72 | Honu Noste |
+| 415 | 72 | Rileyy Rocket |
 | 416 | 71 | Henry Lanier |
 | 417 | 71 | Tash Bell |
 | 418 | 71 | Charleen Beyer |
