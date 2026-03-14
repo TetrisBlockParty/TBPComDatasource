@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 19:56:18 UTC
+# Standings for team1 as of 2026-03-14 19:56:40 UTC
 
 **Total Participants:** 1850
 
@@ -83,13 +83,13 @@
 | 75 | 790 | Michael DeRosa |
 | 76 | 773 | Donald Nguyen |
 | 77 | 725 | Tim Raper |
-| 78 | 709 | Amy R Clinton |
-| 79 | 696 | Joshua Dye |
-| 80 | 693 | FancyPants |
-| 81 | 684 | Tina Blessed Cage |
-| 82 | 683 | Michael Powers |
-| 83 | 679 | Venechia Berry |
-| 84 | 673 | Tyle Armstead |
+| 78 | 713 | Tyle Armstead |
+| 79 | 709 | Amy R Clinton |
+| 80 | 696 | Joshua Dye |
+| 81 | 693 | FancyPants |
+| 82 | 684 | Tina Blessed Cage |
+| 83 | 683 | Michael Powers |
+| 84 | 679 | Venechia Berry |
 | 85 | 662 | Irene Medina |
 | 86 | 646 | Ana Fernanda Sanchez |
 | 87 | 642 | Kat Mfm Kaul |
@@ -610,71 +610,71 @@
 | 602 | 70 | Nicole Brown |
 | 603 | 70 | Chummy Rollzone |
 | 604 | 70 | Becky Coker |
-| 605 | 70 | Crruth |
-| 606 | 70 | Abcmasters12 |
-| 607 | 70 | Jessica Marie Long |
-| 608 | 70 | Melissa Bires Hussar |
-| 609 | 70 | Sasha Priddy |
-| 610 | 70 | Greenie |
-| 611 | 70 | CupcakeEyes |
+| 605 | 70 | Abcmasters12 |
+| 606 | 70 | Jessica Marie Long |
+| 607 | 70 | Melissa Bires Hussar |
+| 608 | 70 | Crruth |
+| 609 | 70 | Greenie |
+| 610 | 70 | CupcakeEyes |
+| 611 | 70 | Sasha Priddy |
 | 612 | 69 | Hobson Lopes |
-| 613 | 69 | Groovy Cascadefit |
+| 613 | 69 | Lablaze |
 | 614 | 69 | mrkw |
-| 615 | 69 | Lablaze |
-| 616 | 69 | Nicole McCune |
+| 615 | 69 | Nicole McCune |
+| 616 | 69 | Groovy Cascadefit |
 | 617 | 69 | Daniel R Morgan |
 | 618 | 69 | NolaGal |
 | 619 | 69 | April Bennett |
 | 620 | 68 | Ellen Durfee |
-| 621 | 68 | Deb Horwath |
-| 622 | 68 | Chirpy Twistpiece |
-| 623 | 68 | crunchy panda |
-| 624 | 68 | Bon Welch |
-| 625 | 68 | Andie Galindo |
-| 626 | 68 | Jimmy Shannon |
-| 627 | 67 | Sassy Pivotfall |
-| 628 | 67 | Cheryl Villa |
-| 629 | 67 | Sabrina Frazier |
-| 630 | 67 | Hyper Drop |
-| 631 | 67 | John Ham |
+| 621 | 68 | Chirpy Twistpiece |
+| 622 | 68 | Jimmy Shannon |
+| 623 | 68 | Andie Galindo |
+| 624 | 68 | Deb Horwath |
+| 625 | 68 | Bon Welch |
+| 626 | 68 | crunchy panda |
+| 627 | 67 | Sean Dickey |
+| 628 | 67 | Hyper Drop |
+| 629 | 67 | John Ham |
+| 630 | 67 | Antonia Wyche |
+| 631 | 67 | Sassy Pivotfall |
 | 632 | 67 | Yang Desu |
-| 633 | 67 | Sean Dickey |
-| 634 | 67 | Antonia Wyche |
-| 635 | 67 | Anthony Ross |
-| 636 | 66 | Yolanda Quinn |
-| 637 | 66 | Trishatta YoungDiva Watkins |
-| 638 | 66 | Tara Spencer |
-| 639 | 66 | Bailey Morgan |
-| 640 | 65 | Shay Upshaw |
-| 641 | 65 | Carl Hampton |
-| 642 | 65 | Ziggy Csah |
-| 643 | 65 | Loony Towerpiece |
-| 644 | 65 | FireHawk |
-| 645 | 65 | J. |
-| 646 | 65 | Mahmudul Hasan |
-| 647 | 65 | OneBuke FollowMe |
+| 633 | 67 | Sabrina Frazier |
+| 634 | 67 | Anthony Ross |
+| 635 | 67 | Cheryl Villa |
+| 636 | 66 | Bailey Morgan |
+| 637 | 66 | Tara Spencer |
+| 638 | 66 | Trishatta YoungDiva Watkins |
+| 639 | 66 | Yolanda Quinn |
+| 640 | 65 | Carl Hampton |
+| 641 | 65 | Loony Towerpiece |
+| 642 | 65 | ghxsty |
+| 643 | 65 | FireHawk |
+| 644 | 65 | J. |
+| 645 | 65 | Mahmudul Hasan |
+| 646 | 65 | Shay Upshaw |
+| 647 | 65 | Ziggy Csah |
 | 648 | 65 | Evy |
-| 649 | 64 | SpunkyStriker |
+| 649 | 65 | OneBuke FollowMe |
 | 650 | 64 | Will Fulmer |
-| 651 | 64 | Las Carolina |
-| 652 | 64 | WEIRDINO |
-| 653 | 64 | RaeSea |
-| 654 | 64 | Oscar Ferguson |
-| 655 | 64 | Rainbow brite |
-| 656 | 64 | Kat Kath |
-| 657 | 64 | Cassi Owens |
+| 651 | 64 | SpunkyStriker |
+| 652 | 64 | Las Carolina |
+| 653 | 64 | WEIRDINO |
+| 654 | 64 | RaeSea |
+| 655 | 64 | Oscar Ferguson |
+| 656 | 64 | Rainbow brite |
+| 657 | 64 | Kat Kath |
 | 658 | 64 | Ellieshay |
-| 659 | 63 | ghxsty |
-| 660 | 63 | Tiffany |
-| 661 | 63 | PennyCandee |
-| 662 | 63 | Nicole Williams |
-| 663 | 63 | Daring Shuffler |
+| 659 | 64 | Cassi Owens |
+| 660 | 63 | Daring Shuffler |
+| 661 | 63 | Tiffany |
+| 662 | 63 | PennyCandee |
+| 663 | 63 | Nicole Williams |
 | 664 | 63 | Nick R Johnson |
 | 665 | 63 | PurpleSnow |
 | 666 | 63 | Randy Clevenger |
-| 667 | 62 | Groovy Holder |
+| 667 | 62 | Random |
 | 668 | 62 | Nance Jeano |
-| 669 | 62 | Random |
+| 669 | 62 | Groovy Holder |
 | 670 | 62 | Alana Susan Hanley |
 | 671 | 62 | Maximusprime |
 | 672 | 62 | LouiBandz |
