@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 19:42:18 UTC
+# Standings for team1 as of 2026-03-14 19:42:40 UTC
 
 **Total Participants:** 1844
 
@@ -139,8 +139,8 @@
 | 131 | 356 | @n@luvmakin |
 | 132 | 355 | Mahman |
 | 133 | 350 | Aden Moss |
-| 134 | 343 | Justin Jerome |
-| 135 | 335 | Andy Harris |
+| 134 | 345 | Andy Harris |
+| 135 | 343 | Justin Jerome |
 | 136 | 335 | TotoCherue |
 | 137 | 331 | Jasmine Riley |
 | 138 | 330 | Letson Melissa |
@@ -1833,15 +1833,15 @@
 | 1825 | 5 | Sarajo Clauson |
 | 1826 | 5 | Louisa Hernandez |
 | 1827 | 5 | KingFlex Haile Jr |
-| 1828 | 5 | Beth Craft |
-| 1829 | 5 | Drifter76 |
-| 1830 | 5 | Tams |
-| 1831 | 5 | maddihatter |
-| 1832 | 5 | Jaime Barrett Nelson |
-| 1833 | 5 | Tandi Hinson Basham |
-| 1834 | 5 | Michelle Pritchard |
-| 1835 | 5 | Kelly Owens |
-| 1836 | 5 | Tandi Bush |
+| 1828 | 5 | Drifter76 |
+| 1829 | 5 | Tams |
+| 1830 | 5 | maddihatter |
+| 1831 | 5 | Jaime Barrett Nelson |
+| 1832 | 5 | Tandi Hinson Basham |
+| 1833 | 5 | Michelle Pritchard |
+| 1834 | 5 | Kelly Owens |
+| 1835 | 5 | Tandi Bush |
+| 1836 | 5 | GoatHimothy |
 | 1837 | 5 | 420 but ion smoke |
 | 1838 | 5 | Isaiah Brand |
 | 1839 | 5 | Happy Swipe |
@@ -1849,7 +1849,7 @@
 | 1841 | 5 | Perky Matchpiece |
 | 1842 | 5 | Snappy Blockfall |
 | 1843 | 5 | Christine Perkins |
-| 1844 | 5 | GoatHimothy |
+| 1844 | 5 | Beth Craft |
 
 ---
 *Standings created by tournaments datasource generation tool*
