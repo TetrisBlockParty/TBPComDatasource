@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 10:06:17 UTC
+# Standings for team1 as of 2026-03-14 10:06:38 UTC
 
 **Total Participants:** 1534
 
@@ -60,8 +60,8 @@
 | 52 | 845 | Katherine Walton |
 | 53 | 792 | L3sli3 |
 | 54 | 780 | Howard Forest |
-| 55 | 709 | Donald Nguyen |
-| 56 | 704 | butterface |
+| 55 | 764 | butterface |
+| 56 | 709 | Donald Nguyen |
 | 57 | 693 | FancyPants |
 | 58 | 687 | Giddy Cascade |
 | 59 | 684 | Tina Blessed Cage |
