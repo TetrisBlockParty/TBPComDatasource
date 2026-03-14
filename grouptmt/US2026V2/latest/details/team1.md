@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 16:46:19 UTC
+# Standings for team1 as of 2026-03-14 16:46:39 UTC
 
 **Total Participants:** 1756
 
@@ -34,10 +34,10 @@
 | 26 | 1702 | Audicia Bailey |
 | 27 | 1670 | Quirky Twistline |
 | 28 | 1659 | Diane |
-| 29 | 1604 | Bigmoco |
-| 30 | 1590 | Jordan W Hamilton |
-| 31 | 1579 | Michael Texidor |
-| 32 | 1576 | Selena Rollin |
+| 29 | 1606 | Selena Rollin |
+| 30 | 1604 | Bigmoco |
+| 31 | 1590 | Jordan W Hamilton |
+| 32 | 1579 | Michael Texidor |
 | 33 | 1570 | Fancy Shuffler |
 | 34 | 1501 | Sherri Drews |
 | 35 | 1411 | Katherine Walton |
@@ -468,110 +468,110 @@
 | 460 | 80 | Hannah Carter |
 | 461 | 80 | Ricardo Ferreira |
 | 462 | 80 | nameno |
-| 463 | 80 | Smashanator |
-| 464 | 80 | Fredricka Cole |
-| 465 | 80 | Kelli Pazour |
-| 466 | 80 | cheeryPrincess |
-| 467 | 80 | Slinky Dashgrid |
-| 468 | 80 | TetrisWoo |
-| 469 | 80 | Andrew Lauterborn |
-| 470 | 80 | Rebecca Rognerud |
-| 471 | 80 | Crystal Sara E |
-| 472 | 79 | Vicki Dougie |
+| 463 | 80 | Rebecca Rognerud |
+| 464 | 80 | Andrew Lauterborn |
+| 465 | 80 | Crystal Sara E |
+| 466 | 80 | TetrisWoo |
+| 467 | 80 | cheeryPrincess |
+| 468 | 80 | Kelli Pazour |
+| 469 | 80 | Slinky Dashgrid |
+| 470 | 80 | Fredricka Cole |
+| 471 | 80 | Smashanator |
+| 472 | 79 | Jason Garnatz |
 | 473 | 79 | Angela Renea Lester |
 | 474 | 79 | iceman |
 | 475 | 79 | Swalshy |
 | 476 | 79 | tay |
-| 477 | 78 | Texastytest |
-| 478 | 78 | Mykal Burton |
-| 479 | 78 | Jai |
-| 480 | 78 | ssr |
-| 481 | 78 | Penny Clark |
-| 482 | 78 | Ashley Olson |
+| 477 | 79 | Vicki Dougie |
+| 478 | 78 | Ashley Olson |
+| 479 | 78 | Penny Clark |
+| 480 | 78 | Melissa Arrellano |
+| 481 | 78 | Jai |
+| 482 | 78 | Texastytest |
 | 483 | 78 | Dizzy Glidebuilder |
-| 484 | 78 | Melissa Arrellano |
+| 484 | 78 | Mykal Burton |
 | 485 | 78 | Stormy May |
-| 486 | 77 | Becca Gatrell Barton |
-| 487 | 77 | Lexx Oliver |
-| 488 | 77 | Dan Engelhard |
-| 489 | 77 | Stacy Patterson |
-| 490 | 77 | SAP |
-| 491 | 77 | Snippy Risebuilder |
-| 492 | 77 | Mama Becky |
-| 493 | 77 | Vickie Valdez-Lopez |
-| 494 | 76 | Julie Moore |
-| 495 | 76 | Samantha Crowley |
-| 496 | 76 | Goofy Linkblock |
+| 486 | 78 | ssr |
+| 487 | 77 | Becca Gatrell Barton |
+| 488 | 77 | Mama Becky |
+| 489 | 77 | Lexx Oliver |
+| 490 | 77 | Dan Engelhard |
+| 491 | 77 | SAP |
+| 492 | 77 | Vickie Valdez-Lopez |
+| 493 | 77 | Snippy Risebuilder |
+| 494 | 77 | Stacy Patterson |
+| 495 | 76 | Julie Moore |
+| 496 | 76 | Samantha Crowley |
 | 497 | 76 | Beavis715 |
 | 498 | 76 | Kara Diamond |
-| 499 | 75 | Danielle Longoria |
-| 500 | 75 | Seaira Allen |
-| 501 | 75 | Renee Elam |
+| 499 | 76 | Goofy Linkblock |
+| 500 | 75 | Dreamy Matchclear |
+| 501 | 75 | Seaira Allen |
 | 502 | 75 | Lindsay Coit Phillips |
-| 503 | 75 | Dustin Curtis |
-| 504 | 75 | Angela Brown Babin |
-| 505 | 75 | Dreamy Matchclear |
-| 506 | 75 | Brandon Green |
+| 503 | 75 | Renee Elam |
+| 504 | 75 | Aponk |
+| 505 | 75 | Bobby |
+| 506 | 75 | Dustin Curtis |
 | 507 | 75 | Jessi Godsey |
-| 508 | 75 | Aponk |
+| 508 | 75 | Tiffani J West |
 | 509 | 75 | Lora Mae Spindler Young |
-| 510 | 75 | Tiffani J West |
-| 511 | 74 | Bubba_C59 |
-| 512 | 74 | Dramatic Tiger |
+| 510 | 75 | Danielle Longoria |
+| 511 | 75 | Angela Brown Babin |
+| 512 | 75 | Brandon Green |
 | 513 | 74 | Robin Burress |
-| 514 | 74 | Tabetha Craddock |
-| 515 | 74 | KathyandPhillip Woolard |
-| 516 | 74 | Thomas Carlisle |
-| 517 | 74 | S Gale Holton |
-| 518 | 74 | Flashy Rotator |
-| 519 | 73 | Terika Rodriguez |
-| 520 | 73 | Giggy Snaplink |
-| 521 | 73 | Crystal Swigart |
-| 522 | 73 | Loony Brickmatch |
-| 523 | 72 | King D |
-| 524 | 72 | Pinky Hunt |
-| 525 | 72 | Augie Ortega |
-| 526 | 72 | Zesty Balancepiece |
-| 527 | 72 | SitHazy |
-| 528 | 71 | Dale |
-| 529 | 71 | Michelle Lee |
+| 514 | 74 | Thomas Carlisle |
+| 515 | 74 | Bubba_C59 |
+| 516 | 74 | Tabetha Craddock |
+| 517 | 74 | KathyandPhillip Woolard |
+| 518 | 74 | Dramatic Tiger |
+| 519 | 74 | Flashy Rotator |
+| 520 | 74 | S Gale Holton |
+| 521 | 73 | Terika Rodriguez |
+| 522 | 73 | Crystal Swigart |
+| 523 | 73 | Giggy Snaplink |
+| 524 | 73 | Loony Brickmatch |
+| 525 | 72 | King D |
+| 526 | 72 | Augie Ortega |
+| 527 | 72 | Zesty Balancepiece |
+| 528 | 72 | SitHazy |
+| 529 | 72 | Pinky Hunt |
 | 530 | 71 | Lee Sipelii |
-| 531 | 71 | Jason Garnatz |
-| 532 | 71 | Candace Fielder |
-| 533 | 71 | LadyKuSh |
-| 534 | 70 | Misstery |
-| 535 | 70 | Melissa Bires Hussar |
-| 536 | 70 | Cynthia Herrmann Egland |
-| 537 | 70 | Mary McGhee |
-| 538 | 70 | Abcmasters12 |
-| 539 | 70 | Amanda Richardson |
-| 540 | 70 | Katelyn Dorman |
-| 541 | 70 | CupcakeEyes |
+| 531 | 71 | Michelle Lee |
+| 532 | 71 | Dale |
+| 533 | 71 | Candace Fielder |
+| 534 | 71 | LadyKuSh |
+| 535 | 70 | Sasha Priddy |
+| 536 | 70 | Melissa Bires Hussar |
+| 537 | 70 | Cynthia Herrmann Egland |
+| 538 | 70 | Katelyn Dorman |
+| 539 | 70 | CupcakeEyes |
+| 540 | 70 | Misstery |
+| 541 | 70 | Amanda Richardson |
 | 542 | 70 | Greenie |
-| 543 | 70 | Crruth |
-| 544 | 70 | Nicole Brown |
-| 545 | 70 | Sasha Priddy |
-| 546 | 69 | Lablaze |
-| 547 | 69 | Bobby |
+| 543 | 70 | Abcmasters12 |
+| 544 | 70 | Crruth |
+| 545 | 70 | Nicole Brown |
+| 546 | 70 | Mary McGhee |
+| 547 | 69 | April Bennett |
 | 548 | 69 | Debbie Buchanan |
-| 549 | 69 | April Bennett |
-| 550 | 68 | Lauren Bond |
-| 551 | 68 | tazd0629 |
+| 549 | 69 | Lablaze |
+| 550 | 68 | tazd0629 |
+| 551 | 68 | KingRoss |
 | 552 | 68 | Chirpy Twistpiece |
-| 553 | 68 | Andie Galindo |
-| 554 | 68 | Becky Coker |
-| 555 | 68 | Frilly Breaker |
-| 556 | 68 | Jimmy Shannon |
-| 557 | 68 | KingRoss |
-| 558 | 68 | crunchy panda |
-| 559 | 68 | Deb Horwath |
-| 560 | 67 | mrkw |
-| 561 | 67 | Sabrina Frazier |
-| 562 | 67 | Hyper Drop |
-| 563 | 67 | Anthony Ross |
-| 564 | 67 | John Ham |
-| 565 | 67 | Sean Dickey |
-| 566 | 67 | Antonia Wyche |
+| 553 | 68 | Deb Horwath |
+| 554 | 68 | Jimmy Shannon |
+| 555 | 68 | Lauren Bond |
+| 556 | 68 | crunchy panda |
+| 557 | 68 | Becky Coker |
+| 558 | 68 | Frilly Breaker |
+| 559 | 68 | Andie Galindo |
+| 560 | 67 | Sean Dickey |
+| 561 | 67 | Antonia Wyche |
+| 562 | 67 | mrkw |
+| 563 | 67 | Sabrina Frazier |
+| 564 | 67 | Hyper Drop |
+| 565 | 67 | Anthony Ross |
+| 566 | 67 | John Ham |
 | 567 | 66 | Bailey Morgan |
 | 568 | 66 | Bon Welch |
 | 569 | 66 | BingoStarr |
