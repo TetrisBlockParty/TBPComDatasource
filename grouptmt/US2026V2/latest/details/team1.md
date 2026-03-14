@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 01:02:16 UTC
+# Standings for team1 as of 2026-03-14 01:02:34 UTC
 
 **Total Participants:** 1098
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 7987 | Ariel |
+| 1 | 8487 | Ariel |
 | 2 | 5922 | Donna Wilkinson |
 | 3 | 5404 | William George Weglage III |
 | 4 | 3466 | Dizzy Stagger |
@@ -14,7 +14,7 @@
 | 6 | 2273 | Amy Jerman |
 | 7 | 2250 | Amanda Sheppard |
 | 8 | 2012 | Hyper |
-| 9 | 1711 | Fayro |
+| 9 | 1811 | Fayro |
 | 10 | 1580 | Itz Kevo |
 | 11 | 1411 | Brad Oneill |
 | 12 | 1398 | Amanda Patterson |
@@ -712,112 +712,112 @@
 | 704 | 19 | Aly Sheehan |
 | 705 | 19 | GinjaNinja |
 | 706 | 19 | Spunky Rollblock |
-| 707 | 19 | CoolHand |
-| 708 | 19 | Vickie Valdez-Lopez |
-| 709 | 19 | Kevin Sees |
-| 710 | 18 | Dc |
-| 711 | 18 | Neomi Perdue |
-| 712 | 18 | Gabriel Morales |
-| 713 | 18 | Trey Petty |
-| 714 | 18 | Mary Boo |
-| 715 | 18 | Timothy Long |
-| 716 | 18 | Rex Max |
-| 717 | 18 | YaKima Frisby Walker |
-| 718 | 18 | Florna Primrose |
-| 719 | 18 | Marianne Louise West |
-| 720 | 18 | om |
-| 721 | 18 | Keegan King-steele |
-| 722 | 18 | Giggly Twistslam |
-| 723 | 18 | Nunet Amen-Ra |
-| 724 | 18 | Gregg Scott |
-| 725 | 17 | Corentin W. Comeaux |
-| 726 | 17 | Dominic G Terriaca |
-| 727 | 17 | Shay J Duval |
-| 728 | 17 | Chilly Faller |
-| 729 | 17 | Santana Valeri |
-| 730 | 17 | Danelle Sulentic |
-| 731 | 17 | Anne Oliver |
-| 732 | 17 | Yvonne Buie |
-| 733 | 17 | Giddy Balancepiece |
-| 734 | 17 | Raynsera |
-| 735 | 17 | Missy Lynn |
-| 736 | 17 | Kjnals Wall |
-| 737 | 17 | Renee Elam |
-| 738 | 17 | Wish YaKnee |
-| 739 | 16 | Laurel |
-| 740 | 16 | Witty Cascader |
-| 741 | 16 | AJ |
-| 742 | 16 | eightball119 |
-| 743 | 16 | Erich EMac McIntosh |
-| 744 | 16 | Renee |
+| 707 | 19 | Kevin Sees |
+| 708 | 19 | CoolHand |
+| 709 | 19 | Vickie Valdez-Lopez |
+| 710 | 18 | om |
+| 711 | 18 | Gregg Scott |
+| 712 | 18 | Nunet Amen-Ra |
+| 713 | 18 | Marianne Louise West |
+| 714 | 18 | Keegan King-steele |
+| 715 | 18 | Trey Petty |
+| 716 | 18 | Mary Boo |
+| 717 | 18 | Neomi Perdue |
+| 718 | 18 | Dc |
+| 719 | 18 | Gabriel Morales |
+| 720 | 18 | Timothy Long |
+| 721 | 18 | Giggly Twistslam |
+| 722 | 18 | YaKima Frisby Walker |
+| 723 | 18 | Florna Primrose |
+| 724 | 18 | Rex Max |
+| 725 | 17 | Santana Valeri |
+| 726 | 17 | Kjnals Wall |
+| 727 | 17 | Missy Lynn |
+| 728 | 17 | Corentin W. Comeaux |
+| 729 | 17 | Shay J Duval |
+| 730 | 17 | Dominic G Terriaca |
+| 731 | 17 | Renee Elam |
+| 732 | 17 | Chilly Faller |
+| 733 | 17 | Raynsera |
+| 734 | 17 | Wish YaKnee |
+| 735 | 17 | Anne Oliver |
+| 736 | 17 | Danelle Sulentic |
+| 737 | 17 | Giddy Balancepiece |
+| 738 | 17 | Yvonne Buie |
+| 739 | 16 | eightball119 |
+| 740 | 16 | Renee |
+| 741 | 16 | Laurel |
+| 742 | 16 | Erich EMac McIntosh |
+| 743 | 16 | Witty Cascader |
+| 744 | 16 | AJ |
 | 745 | 16 | Matthew Graves D.C. |
 | 746 | 16 | Jessica Goble |
 | 747 | 16 | Shekita Gibbs |
 | 748 | 16 | Melissa Hart |
-| 749 | 16 | Antoinette Rhinesmith |
-| 750 | 16 | Tbuzz |
-| 751 | 16 | Cool Dasher |
-| 752 | 16 | Anne Garcia |
-| 753 | 16 | Lisa Klockenga |
-| 754 | 15 | DynamicQuail10 |
+| 749 | 16 | Chummy Curvebuilder |
+| 750 | 16 | Antoinette Rhinesmith |
+| 751 | 16 | Tbuzz |
+| 752 | 16 | Cool Dasher |
+| 753 | 16 | Anne Garcia |
+| 754 | 16 | Lisa Klockenga |
 | 755 | 15 | ZhenZhen |
-| 756 | 15 | Lavender |
-| 757 | 15 | Armin Muhamed |
-| 758 | 15 | Esav Castro |
-| 759 | 15 | Ambrosia Natas Danu |
-| 760 | 15 | Maricia Coleman |
-| 761 | 15 | Nikki Robinson |
-| 762 | 15 | Adam Stephanie Parker |
-| 763 | 15 | Ruhshikuh Lakor |
-| 764 | 15 | Edwards Dave |
-| 765 | 15 | Spam |
-| 766 | 15 | Jennifer Stone |
-| 767 | 15 | Twisty Blockmatch |
-| 768 | 15 | Zesty Fitclear |
-| 769 | 15 | William Ramirez |
-| 770 | 15 | Bird Reed |
-| 771 | 15 | Lush Buildout |
-| 772 | 15 | Ashley Cox |
-| 773 | 15 | Mighty Piececlear |
-| 774 | 15 | Ody |
-| 775 | 15 | Erica Wynne |
-| 776 | 15 | Nicole Brown |
-| 777 | 15 | Jaay |
-| 778 | 15 | Angela |
-| 779 | 15 | Angelina Maldonado |
-| 780 | 15 | Jerome Gunst |
+| 756 | 15 | Edwards Dave |
+| 757 | 15 | Lavender |
+| 758 | 15 | Armin Muhamed |
+| 759 | 15 | Esav Castro |
+| 760 | 15 | Ambrosia Natas Danu |
+| 761 | 15 | DynamicQuail10 |
+| 762 | 15 | Nikki Robinson |
+| 763 | 15 | Adam Stephanie Parker |
+| 764 | 15 | Maricia Coleman |
+| 765 | 15 | Ruhshikuh Lakor |
+| 766 | 15 | Nicole Brown |
+| 767 | 15 | Jennifer Stone |
+| 768 | 15 | Twisty Blockmatch |
+| 769 | 15 | Zesty Fitclear |
+| 770 | 15 | William Ramirez |
+| 771 | 15 | Bird Reed |
+| 772 | 15 | Lush Buildout |
+| 773 | 15 | Ashley Cox |
+| 774 | 15 | Mighty Piececlear |
+| 775 | 15 | Ody |
+| 776 | 15 | Erica Wynne |
+| 777 | 15 | Spam |
+| 778 | 15 | Jaay |
+| 779 | 15 | Angela |
+| 780 | 15 | Angelina Maldonado |
 | 781 | 15 | Christopher Wesley |
 | 782 | 15 | Ellen Maxwell Capstaff |
-| 783 | 15 | Kathy Searles |
-| 784 | 14 | OneBuke FollowMe |
-| 785 | 14 | Connie Lepore-Mann |
-| 786 | 14 | James Martin |
-| 787 | 14 | Fancy Wobbler |
-| 788 | 14 | Katie Martin |
-| 789 | 14 | Kelli Pazour |
+| 783 | 15 | Jerome Gunst |
+| 784 | 15 | Kathy Searles |
+| 785 | 14 | Kelli Pazour |
+| 786 | 14 | Haykid14 |
+| 787 | 14 | Flashy Dasher |
+| 788 | 14 | David |
+| 789 | 14 | Casterbation |
 | 790 | 14 | Goober |
-| 791 | 14 | Casterbation |
-| 792 | 14 | David |
-| 793 | 14 | Flashy Dasher |
-| 794 | 14 | Jennifer Brandle |
-| 795 | 14 | Haykid14 |
-| 796 | 14 | Spunky Zone |
-| 797 | 14 | KissedbyKinny |
-| 798 | 14 | Brandy Ann |
-| 799 | 14 | Chummy Curvebuilder |
+| 791 | 14 | Brandy Ann |
+| 792 | 14 | Katie Martin |
+| 793 | 14 | James Martin |
+| 794 | 14 | OneBuke FollowMe |
+| 795 | 14 | Connie Lepore-Mann |
+| 796 | 14 | Fancy Wobbler |
+| 797 | 14 | Jennifer Brandle |
+| 798 | 14 | Spunky Zone |
+| 799 | 14 | April Moore |
 | 800 | 14 | Bold Fallzone |
 | 801 | 14 | Matthew Bunn |
-| 802 | 14 | April Moore |
-| 803 | 14 | Roy Burgess |
-| 804 | 14 | Megan Treacy |
-| 805 | 14 | Cindy Lee Johnson |
+| 802 | 14 | Roy Burgess |
+| 803 | 14 | KissedbyKinny |
+| 804 | 14 | Cindy Lee Johnson |
+| 805 | 14 | Megan Treacy |
 | 806 | 13 | Katelyn B. Pritchard |
 | 807 | 13 | Giggly Rotator |
 | 808 | 13 | Jill Goff |
-| 809 | 13 | Elizabeth A Cobuccio |
-| 810 | 13 | Robert Coulter |
-| 811 | 13 | John Ham |
-| 812 | 13 | Felipa Jo Johnson |
+| 809 | 13 | Robert Coulter |
+| 810 | 13 | Elizabeth A Cobuccio |
+| 811 | 13 | Felipa Jo Johnson |
+| 812 | 13 | John Ham |
 | 813 | 13 | Deandre Young |
 | 814 | 13 | Glauf |
 | 815 | 13 | Disha Chaudhari |
