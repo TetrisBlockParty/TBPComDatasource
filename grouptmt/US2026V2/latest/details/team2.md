@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 14:04:19 UTC
+# Standings for team2 as of 2026-03-14 14:04:38 UTC
 
 **Total Participants:** 1581
 
@@ -1056,11 +1056,11 @@
 | 1048 | 26 | Shirley Petty |
 | 1049 | 26 | Briaa Williams |
 | 1050 | 26 | Swanky Tile |
-| 1051 | 26 | Ellen Frye |
-| 1052 | 26 | OneTwenty Livin |
-| 1053 | 26 | Nicole Maboloc |
-| 1054 | 26 | Joan Du |
-| 1055 | 26 | Chasity Winters |
+| 1051 | 26 | OneTwenty Livin |
+| 1052 | 26 | Ellen Frye |
+| 1053 | 26 | Chasity Winters |
+| 1054 | 26 | Nicole Maboloc |
+| 1055 | 26 | Joan Du |
 | 1056 | 26 | Manny Diaz |
 | 1057 | 26 | Kyle |
 | 1058 | 25 | Kelly Shelffo |
@@ -1086,61 +1086,61 @@
 | 1078 | 25 | Anthony Intrabartolo |
 | 1079 | 25 | Chasity Johnson |
 | 1080 | 25 | Tasha Willing |
-| 1081 | 25 | Poppy Linkpiece |
-| 1082 | 25 | Casandra Alisa Rocker |
-| 1083 | 25 | Martinez Jacobo |
+| 1081 | 25 | Casandra Alisa Rocker |
+| 1082 | 25 | Martinez Jacobo |
+| 1083 | 25 | Poppy Linkpiece |
 | 1084 | 25 | Kristy Mullins |
 | 1085 | 25 | Cheeky Snapfit |
 | 1086 | 25 | Muva |
 | 1087 | 25 | Zane |
-| 1088 | 25 | Weeping Angel |
-| 1089 | 25 | Kirk Maxon |
+| 1088 | 25 | Kirk Maxon |
+| 1089 | 25 | Weeping Angel |
 | 1090 | 25 | Nindesaster |
-| 1091 | 24 | D3TROITB0RN74 |
+| 1091 | 24 | Becki Lynne Corinthos |
 | 1092 | 24 | Jazmin Santos |
-| 1093 | 24 | Malcolm Annias Flamer |
-| 1094 | 24 | Riane Sussman |
-| 1095 | 24 | Stephanie Harrington |
-| 1096 | 24 | Nikki Leanne |
-| 1097 | 24 | Becki Lynne Corinthos |
-| 1098 | 24 | Tonya Amen |
-| 1099 | 24 | Aaron Dill |
+| 1093 | 24 | Liz Franke |
+| 1094 | 24 | Tonya Amen |
+| 1095 | 24 | Riane Sussman |
+| 1096 | 24 | Malcolm Annias Flamer |
+| 1097 | 24 | Aaron Dill |
+| 1098 | 24 | Nikki Leanne |
+| 1099 | 24 | Durand Douglas |
 | 1100 | 24 | Janet Sims - Martin |
-| 1101 | 24 | Durand Douglas |
+| 1101 | 24 | D3TROITB0RN74 |
 | 1102 | 24 | Mzjudged Niteowl |
-| 1103 | 24 | Jessi |
-| 1104 | 24 | silla |
-| 1105 | 24 | April Elise |
-| 1106 | 24 | DeAnna Jones |
-| 1107 | 24 | Samantha Massey |
-| 1108 | 23 | Snappy Clusterline |
-| 1109 | 23 | Daniella K |
-| 1110 | 23 | Kayla |
-| 1111 | 23 | Summer Richardson |
-| 1112 | 23 | Flashy Slam |
-| 1113 | 23 | Lisa |
-| 1114 | 23 | Sarah Fehring |
-| 1115 | 23 | Frothy Chiseler |
-| 1116 | 23 | Ashley Grace |
-| 1117 | 23 | Parker Demarest |
-| 1118 | 23 | Kari Thompson Rock |
-| 1119 | 23 | James Tankersley |
-| 1120 | 23 | Shiny Framezone |
-| 1121 | 22 | Gravytrain |
-| 1122 | 22 | Jenny Edwards Wells |
-| 1123 | 22 | PartyStarter |
-| 1124 | 22 | Liz Franke |
-| 1125 | 22 | Evelyn Ens Paul |
-| 1126 | 22 | Summer_time |
-| 1127 | 22 | Amber Wright |
-| 1128 | 22 | Hyper Shatterbuilder |
-| 1129 | 22 | Swanky Bridgepiece |
+| 1103 | 24 | Stephanie Harrington |
+| 1104 | 24 | Jessi |
+| 1105 | 24 | silla |
+| 1106 | 24 | April Elise |
+| 1107 | 24 | DeAnna Jones |
+| 1108 | 24 | Samantha Massey |
+| 1109 | 23 | Snappy Clusterline |
+| 1110 | 23 | Daniella K |
+| 1111 | 23 | Kayla |
+| 1112 | 23 | Summer Richardson |
+| 1113 | 23 | Flashy Slam |
+| 1114 | 23 | Frothy Chiseler |
+| 1115 | 23 | Lisa |
+| 1116 | 23 | Sarah Fehring |
+| 1117 | 23 | Shiny Framezone |
+| 1118 | 23 | Ashley Grace |
+| 1119 | 23 | Kari Thompson Rock |
+| 1120 | 23 | James Tankersley |
+| 1121 | 23 | Parker Demarest |
+| 1122 | 22 | Gabby |
+| 1123 | 22 | Amber Wright |
+| 1124 | 22 | Elaina Temple |
+| 1125 | 22 | Summer_time |
+| 1126 | 22 | Swanky Bridgepiece |
+| 1127 | 22 | Hyper Shatterbuilder |
+| 1128 | 22 | Gravytrain |
+| 1129 | 22 | Evelyn Ens Paul |
 | 1130 | 22 | Blacc Blac |
-| 1131 | 22 | Gabby |
-| 1132 | 22 | Lisa Kline |
+| 1131 | 22 | Lisa Kline |
+| 1132 | 22 | PartyStarter |
 | 1133 | 22 | Bash Bandit |
 | 1134 | 22 | Shiny Zonegrid |
-| 1135 | 22 | Elaina Temple |
+| 1135 | 22 | Jenny Edwards Wells |
 | 1136 | 22 | Octavia Parker Ford |
 | 1137 | 22 | Nellie Cummings |
 | 1138 | 22 | Kimberly Christine Sherwood |
@@ -1150,12 +1150,12 @@
 | 1142 | 21 | Poppy Twister |
 | 1143 | 21 | Kayla Southern |
 | 1144 | 21 | Snippy Piecebuilder |
-| 1145 | 21 | Amanda |
+| 1145 | 21 | Jeremy Barry |
 | 1146 | 21 | Fancy Builderfit |
-| 1147 | 21 | Brittani La Rae |
-| 1148 | 21 | Frank |
-| 1149 | 21 | Any Slm |
-| 1150 | 21 | Jeremy Barry |
+| 1147 | 21 | Amanda |
+| 1148 | 21 | Brittani La Rae |
+| 1149 | 21 | Frank |
+| 1150 | 21 | Any Slm |
 | 1151 | 20 | Melinda Davis |
 | 1152 | 20 | Justin Hains |
 | 1153 | 20 | Marie Riley |
