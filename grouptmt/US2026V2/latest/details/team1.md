@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 22:06:19 UTC
+# Standings for team1 as of 2026-03-14 22:06:40 UTC
 
 **Total Participants:** 1903
 
@@ -57,15 +57,15 @@
 | 49 | 1267 | Katie Daniels |
 | 50 | 1252 | Kesha Brady |
 | 51 | 1238 | Melissa Kay Gibson |
-| 52 | 1213 | Brandon Hill |
-| 53 | 1202 | Velt Richardson |
-| 54 | 1198 | Jodie Peterson |
-| 55 | 1172 | Ryry |
-| 56 | 1171 | Cheeky Crusher |
-| 57 | 1150 | Angel Smith |
-| 58 | 1145 | Cody Walther |
-| 59 | 1121 | Nancy |
-| 60 | 1099 | Clever Linebuilder |
+| 52 | 1229 | Clever Linebuilder |
+| 53 | 1213 | Brandon Hill |
+| 54 | 1202 | Velt Richardson |
+| 55 | 1198 | Jodie Peterson |
+| 56 | 1172 | Ryry |
+| 57 | 1171 | Cheeky Crusher |
+| 58 | 1150 | Angel Smith |
+| 59 | 1145 | Cody Walther |
+| 60 | 1121 | Nancy |
 | 61 | 1019 | Giddy Cascade |
 | 62 | 1002 | Hellsin |
 | 63 | 989 | Donavon Krahn |
@@ -240,8 +240,8 @@
 | 232 | 201 | Ancient Intuition |
 | 233 | 200 | Groovy Glidepiece |
 | 234 | 198 | Sabra Fisher |
-| 235 | 197 | Tameka Brown |
-| 236 | 197 | Bobby |
+| 235 | 198 | Bobby |
+| 236 | 197 | Tameka Brown |
 | 237 | 196 | Jason Whitehair |
 | 238 | 196 | Beth Anderson |
 | 239 | 196 | Giddy Balancepiece |
