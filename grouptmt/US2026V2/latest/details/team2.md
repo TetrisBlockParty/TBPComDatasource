@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 18:20:19 UTC
+# Standings for team2 as of 2026-03-14 18:20:38 UTC
 
 **Total Participants:** 1734
 
@@ -100,7 +100,7 @@
 | 92 | 496 | sweet lil miss |
 | 93 | 484 | Adam Charles |
 | 94 | 484 | Amanda Sullivan |
-| 95 | 476 | Chassy Horton |
+| 95 | 481 | Chassy Horton |
 | 96 | 474 | Rafael Valentin |
 | 97 | 473 | Dapper Gridclear |
 | 98 | 462 | Sara Morgan |
@@ -127,10 +127,10 @@
 | 119 | 382 | Laura McPheeters |
 | 120 | 373 | Sheesh M |
 | 121 | 364 | Tya Ortiz |
-| 122 | 362 | Deb Wasano |
-| 123 | 361 | Rob Riggin |
-| 124 | 355 | Jumpy Breaker |
-| 125 | 344 | Brooke Sunderhaus |
+| 122 | 364 | Brooke Sunderhaus |
+| 123 | 362 | Deb Wasano |
+| 124 | 361 | Rob Riggin |
+| 125 | 355 | Jumpy Breaker |
 | 126 | 336 | Kacee Conrad Bock |
 | 127 | 335 | Lisa Neal |
 | 128 | 333 | Dee Doubleyou |
@@ -336,18 +336,18 @@
 | 328 | 135 | Brandy Hayhurst |
 | 329 | 135 | Christine Soltis |
 | 330 | 134 | Cari Hogan |
-| 331 | 134 | Tina Cano |
-| 332 | 134 | Belle |
-| 333 | 133 | Trisha Balmer |
-| 334 | 133 | Mona Sharma |
-| 335 | 133 | Bryanna Whitman |
-| 336 | 132 | Crystal Brown-Miles |
-| 337 | 132 | Jason Allen |
-| 338 | 132 | Brenda A |
-| 339 | 132 | Kimberly Garcia |
-| 340 | 132 | Jeremy Steines |
-| 341 | 132 | Jolie Hatfield |
-| 342 | 131 | Chill Builder |
+| 331 | 134 | Chill Builder |
+| 332 | 134 | Tina Cano |
+| 333 | 134 | Belle |
+| 334 | 133 | Trisha Balmer |
+| 335 | 133 | Mona Sharma |
+| 336 | 133 | Bryanna Whitman |
+| 337 | 132 | Crystal Brown-Miles |
+| 338 | 132 | Jason Allen |
+| 339 | 132 | Brenda A |
+| 340 | 132 | Kimberly Garcia |
+| 341 | 132 | Jeremy Steines |
+| 342 | 132 | Jolie Hatfield |
 | 343 | 131 | Loony Puzzle |
 | 344 | 131 | Tee Jaleesa |
 | 345 | 130 | Dizzy Brickline |
