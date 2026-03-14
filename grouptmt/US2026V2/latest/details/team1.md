@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 23:20:19 UTC
+# Standings for team1 as of 2026-03-14 23:20:42 UTC
 
 **Total Participants:** 1934
 
@@ -105,11 +105,11 @@
 | 97 | 634 | LeeAnn Martindale |
 | 98 | 630 | Sarah Durmer |
 | 99 | 623 | Breezy Ivy |
-| 100 | 619 | Charis Stoner |
+| 100 | 621 | Charis Stoner |
 | 101 | 619 | Bold Clear |
-| 102 | 615 | Dustin Rouse |
-| 103 | 595 | Chris Wanner |
-| 104 | 587 | Letson Melissa |
+| 102 | 618 | Letson Melissa |
+| 103 | 615 | Dustin Rouse |
+| 104 | 595 | Chris Wanner |
 | 105 | 586 | Duane Ficara |
 | 106 | 578 | Amanda Diegel |
 | 107 | 577 | Gloria Ininahazwe |
@@ -165,35 +165,35 @@
 | 157 | 336 | Jasmine Riley |
 | 158 | 335 | TotoCherue |
 | 159 | 333 | Marianne Louise West |
-| 160 | 331 | jenna |
-| 161 | 331 | Andrew Coulter |
-| 162 | 331 | Sassy Cascadepiece |
+| 160 | 331 | Sassy Cascadepiece |
+| 161 | 331 | jenna |
+| 162 | 331 | Andrew Coulter |
 | 163 | 324 | Bouncy Wipeout |
 | 164 | 324 | Jr_420 |
 | 165 | 323 | Jess Rose |
-| 166 | 320 | Shiny Shiftspin |
-| 167 | 320 | Diamond Madison |
+| 166 | 320 | Diamond Madison |
+| 167 | 320 | Shiny Shiftspin |
 | 168 | 318 | Tammy Lamb |
 | 169 | 313 | Bryan Temple |
 | 170 | 309 | Dawn Hoffman |
 | 171 | 308 | Jena Overall Prescott |
 | 172 | 307 | Stephanie Myers |
-| 173 | 302 | Justin Feingold |
-| 174 | 302 | Joy Bloodworth |
+| 173 | 302 | Joy Bloodworth |
+| 174 | 302 | Justin Feingold |
 | 175 | 300 | Noelle Cicchillo |
 | 176 | 300 | Angel Mendez |
 | 177 | 299 | Wacky Balancer |
 | 178 | 298 | Matthew Bunn |
 | 179 | 297 | Thorpedo |
-| 180 | 292 | Angela Phillips Kean |
-| 181 | 292 | Jessi Sauer |
-| 182 | 288 | 1_Roxanne_3 |
-| 183 | 288 | Hasbro Bros |
+| 180 | 292 | Jessi Sauer |
+| 181 | 292 | Angela Phillips Kean |
+| 182 | 288 | Hasbro Bros |
+| 183 | 288 | 1_Roxanne_3 |
 | 184 | 286 | nameno |
 | 185 | 283 | Crafty Tilebuilder |
 | 186 | 283 | bea |
-| 187 | 281 | Death |
-| 188 | 281 | Marshell Harris |
+| 187 | 281 | Marshell Harris |
+| 188 | 281 | Death |
 | 189 | 281 | Kris Koepke |
 | 190 | 281 | Chrys Peters |
 | 191 | 280 | Lavender |
@@ -202,10 +202,10 @@
 | 194 | 278 | Sabra Fisher |
 | 195 | 275 | Allena Craft |
 | 196 | 273 | TRCuse |
-| 197 | 272 | Fatima Washington |
-| 198 | 272 | Perky Shatterline |
-| 199 | 271 | Fluffy |
-| 200 | 271 | Sharisse Baltimore |
+| 197 | 272 | Perky Shatterline |
+| 198 | 272 | Fatima Washington |
+| 199 | 271 | Sharisse Baltimore |
+| 200 | 271 | Fluffy |
 | 201 | 265 | Victoria Davis Torie |
 | 202 | 264 | SpunkyStriker |
 | 203 | 260 | Nanan Nanan |
@@ -225,47 +225,47 @@
 | 217 | 240 | Stephen Glaze |
 | 218 | 239 | Dizzy Pattern |
 | 219 | 235 | Jennifer Campbell |
-| 220 | 233 | Haley Anne |
-| 221 | 233 | April McGuffie |
-| 222 | 231 | David Zeimer |
-| 223 | 231 | JonCorry Story |
+| 220 | 233 | April McGuffie |
+| 221 | 233 | Haley Anne |
+| 222 | 231 | JonCorry Story |
+| 223 | 231 | David Zeimer |
 | 224 | 229 | Randall Sykes |
 | 225 | 225 | raffyG |
-| 226 | 224 | tazd0629 |
-| 227 | 224 | Porshe Garthwaite |
-| 228 | 224 | Peachy Brick |
+| 226 | 224 | Peachy Brick |
+| 227 | 224 | tazd0629 |
+| 228 | 224 | Porshe Garthwaite |
 | 229 | 222 | Rob Chebetar |
 | 230 | 222 | Sophia Kelly |
-| 231 | 220 | Dude |
-| 232 | 220 | Jevon Griffith |
-| 233 | 220 | Darci Cline |
-| 234 | 220 | lefty |
-| 235 | 220 | shelly |
-| 236 | 220 | Brandy Ridgeway |
-| 237 | 218 | Aaron Higdon |
-| 238 | 218 | CelticTraveler |
-| 239 | 217 | Beka |
-| 240 | 216 | Joe Andrew Jackson |
-| 241 | 214 | Giggly Rotate |
-| 242 | 212 | Eric Hoffman |
-| 243 | 211 | Dani Giles |
-| 244 | 211 | Jumpy Spinblock |
-| 245 | 210 | Trisha Gallagher |
-| 246 | 207 | Tameka Brown |
-| 247 | 203 | Amber Zeller Rice |
-| 248 | 203 | Amers |
-| 249 | 201 | Ancient Intuition |
+| 231 | 220 | lefty |
+| 232 | 220 | Brandy Ridgeway |
+| 233 | 220 | shelly |
+| 234 | 220 | Dude |
+| 235 | 220 | Darci Cline |
+| 236 | 220 | Jevon Griffith |
+| 237 | 218 | CelticTraveler |
+| 238 | 218 | Huskymom |
+| 239 | 218 | Aaron Higdon |
+| 240 | 217 | Beka |
+| 241 | 216 | Joe Andrew Jackson |
+| 242 | 214 | Giggly Rotate |
+| 243 | 212 | Eric Hoffman |
+| 244 | 211 | Dani Giles |
+| 245 | 211 | Jumpy Spinblock |
+| 246 | 210 | Trisha Gallagher |
+| 247 | 207 | Tameka Brown |
+| 248 | 203 | Amber Zeller Rice |
+| 249 | 203 | Amers |
 | 250 | 201 | Bobby |
-| 251 | 200 | Groovy Glidepiece |
-| 252 | 198 | Huskymom |
+| 251 | 201 | Ancient Intuition |
+| 252 | 200 | Groovy Glidepiece |
 | 253 | 197 | Tessa N Davis |
-| 254 | 196 | Jason Whitehair |
+| 254 | 196 | Foulplay176 |
 | 255 | 196 | Beth Anderson |
-| 256 | 196 | Foulplay176 |
+| 256 | 196 | Jason Whitehair |
 | 257 | 196 | James Burda |
 | 258 | 194 | Panda Rog |
-| 259 | 194 | Snappy Linkroll |
-| 260 | 194 | Giddy Brickclear |
+| 259 | 194 | Giddy Brickclear |
+| 260 | 194 | Snappy Linkroll |
 | 261 | 192 | Bubba |
 | 262 | 192 | Peppy Matchclear |
 | 263 | 192 | KK |
@@ -274,10 +274,10 @@
 | 266 | 189 | Lively Patternfall |
 | 267 | 187 | Shukee Lo |
 | 268 | 184 | HugeLoad |
-| 269 | 183 | Mama Becky |
-| 270 | 183 | Desiree Jenson |
-| 271 | 182 | Scott Smith |
-| 272 | 182 | Brandon Zachary Anderson |
+| 269 | 183 | Desiree Jenson |
+| 270 | 183 | Mama Becky |
+| 271 | 182 | Brandon Zachary Anderson |
+| 272 | 182 | Scott Smith |
 | 273 | 182 | Gdiguy |
 | 274 | 181 | 🗝️🗝️ Key |
 | 275 | 180 | Allen Matthies |
@@ -1149,21 +1149,21 @@
 | 1141 | 38 | Christina Davis |
 | 1142 | 38 | Groovy Builder |
 | 1143 | 38 | Anne Oliver |
-| 1144 | 38 | Starlight |
-| 1145 | 38 | Antoinette Rhinesmith |
-| 1146 | 37 | Marisa Tesch |
-| 1147 | 37 | Big mama 2010 |
-| 1148 | 37 | Jay Aye |
-| 1149 | 37 | Sloop Betty |
-| 1150 | 37 | James Martin |
-| 1151 | 37 | Any Michelle Kounou |
+| 1144 | 38 | Mathhew Tompkins |
+| 1145 | 38 | Starlight |
+| 1146 | 38 | Antoinette Rhinesmith |
+| 1147 | 37 | Adrien M Roberson |
+| 1148 | 37 | Tipsy Buildgrid |
+| 1149 | 37 | Cristian Ramirez Lazaro |
+| 1150 | 37 | Tara Lawson |
+| 1151 | 37 | John DeMoss |
 | 1152 | 37 | Sunny Frame |
-| 1153 | 37 | Tara Lawson |
-| 1154 | 37 | Cristian Ramirez Lazaro |
-| 1155 | 37 | Tipsy Buildgrid |
-| 1156 | 37 | Adrien M Roberson |
-| 1157 | 37 | John DeMoss |
-| 1158 | 37 | Mathhew Tompkins |
+| 1153 | 37 | Any Michelle Kounou |
+| 1154 | 37 | James Martin |
+| 1155 | 37 | Sloop Betty |
+| 1156 | 37 | Jay Aye |
+| 1157 | 37 | Big mama 2010 |
+| 1158 | 37 | Marisa Tesch |
 | 1159 | 36 | meh |
 | 1160 | 36 | Andrea Clippert |
 | 1161 | 36 | Chris JonesSr |
