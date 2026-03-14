@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 11:18:16 UTC
+# Standings for team1 as of 2026-03-14 11:18:39 UTC
 
 **Total Participants:** 1554
 
@@ -544,47 +544,47 @@
 | 536 | 55 | Leche |
 | 537 | 55 | Nicole Williams |
 | 538 | 55 | Ernie Guyette |
-| 539 | 55 | Speedy Rollpiece |
-| 540 | 55 | Tabitha Rose Stone |
+| 539 | 55 | slim |
+| 540 | 55 | Speedy Rollpiece |
 | 541 | 55 | Cool Base |
 | 542 | 55 | Ruby Sandberg |
-| 543 | 55 | slim |
-| 544 | 54 | Nicole McCune |
-| 545 | 54 | Bumpy Morris |
-| 546 | 54 | Christi Bouten-Harmon |
-| 547 | 54 | Dominic G Terriaca |
-| 548 | 54 | Swanky Tiltpiece |
-| 549 | 54 | Nate Funk |
-| 550 | 54 | Connor Jurzynski |
-| 551 | 53 | Mindy Leigh Head |
-| 552 | 53 | Shay J Duval |
-| 553 | 53 | Josh L Swyers Sr. |
-| 554 | 53 | OneBuke FollowMe |
-| 555 | 53 | Magic Meli |
-| 556 | 53 | Sandra Link-Gable |
-| 557 | 53 | Zany Tower |
-| 558 | 53 | Rose Anna |
-| 559 | 53 | MWFreddy |
-| 560 | 53 | Jenn Lunsford |
-| 561 | 53 | Shelly Fannon |
-| 562 | 52 | Bribrobra |
-| 563 | 52 | Kelly Miller Williams |
+| 543 | 55 | Tabitha Rose Stone |
+| 544 | 54 | Swanky Tiltpiece |
+| 545 | 54 | Dominic G Terriaca |
+| 546 | 54 | Bouncy Patternzone |
+| 547 | 54 | Nate Funk |
+| 548 | 54 | Connor Jurzynski |
+| 549 | 54 | Christi Bouten-Harmon |
+| 550 | 54 | Bumpy Morris |
+| 551 | 54 | Nicole McCune |
+| 552 | 53 | Mindy Leigh Head |
+| 553 | 53 | Shay J Duval |
+| 554 | 53 | Magic Meli |
+| 555 | 53 | Josh L Swyers Sr. |
+| 556 | 53 | OneBuke FollowMe |
+| 557 | 53 | Sandra Link-Gable |
+| 558 | 53 | Zany Tower |
+| 559 | 53 | Rose Anna |
+| 560 | 53 | MWFreddy |
+| 561 | 53 | Jenn Lunsford |
+| 562 | 53 | Shelly Fannon |
+| 563 | 52 | Bribrobra |
 | 564 | 52 | kelso |
-| 565 | 52 | Regina Jones |
+| 565 | 52 | Smiley Clicky |
 | 566 | 52 | Jimmy Shannon |
 | 567 | 52 | Tiffany Armen |
 | 568 | 52 | Twisty Blockmatch |
 | 569 | 52 | Frisky Glidebuilder |
 | 570 | 52 | Melody Rene |
 | 571 | 52 | Shekita Gibbs |
-| 572 | 52 | Smiley Clicky |
-| 573 | 51 | Cheryl Villa |
-| 574 | 51 | Slinky Stacky |
-| 575 | 51 | Randy Clevenger |
-| 576 | 51 | Joyce Harrell-chavis |
-| 577 | 51 | Jen |
-| 578 | 51 | Fancy Wobbler |
-| 579 | 51 | Bouncy Patternzone |
+| 572 | 52 | Regina Jones |
+| 573 | 52 | Kelly Miller Williams |
+| 574 | 51 | Cheryl Villa |
+| 575 | 51 | Slinky Stacky |
+| 576 | 51 | Randy Clevenger |
+| 577 | 51 | Joyce Harrell-chavis |
+| 578 | 51 | Jen |
+| 579 | 51 | Fancy Wobbler |
 | 580 | 50 | Will Fulmer |
 | 581 | 50 | Glitzy Linkpiece |
 | 582 | 50 | Velvet Rarick |
