@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 08:10:18 UTC
+# Standings for team2 as of 2026-03-14 08:10:39 UTC
 
 **Total Participants:** 1412
 
@@ -103,11 +103,11 @@
 | 95 | 280 | Loopy Clusterer |
 | 96 | 278 | Jen Roe |
 | 97 | 276 | Ashley Marie |
-| 98 | 270 | Slinky Towerer |
-| 99 | 266 | Sheena Hachmann |
-| 100 | 265 | Michael H. M. Skropka |
-| 101 | 265 | Jo Frohwein |
-| 102 | 264 | Ruby Anne |
+| 98 | 274 | Ruby Anne |
+| 99 | 270 | Slinky Towerer |
+| 100 | 266 | Sheena Hachmann |
+| 101 | 265 | Michael H. M. Skropka |
+| 102 | 265 | Jo Frohwein |
 | 103 | 261 | Starr |
 | 104 | 260 | Lori Schlachter Segui |
 | 105 | 256 | YAE |
