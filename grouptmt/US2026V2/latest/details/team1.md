@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 23:46:20 UTC
+# Standings for team1 as of 2026-03-14 23:46:42 UTC
 
 **Total Participants:** 1942
 
@@ -173,9 +173,9 @@
 | 165 | 324 | Bouncy Wipeout |
 | 166 | 324 | Jr_420 |
 | 167 | 323 | Jess Rose |
-| 168 | 320 | Shiny Shiftspin |
-| 169 | 320 | Diamond Madison |
-| 170 | 315 | 1_Roxanne_3 |
+| 168 | 320 | 1_Roxanne_3 |
+| 169 | 320 | Shiny Shiftspin |
+| 170 | 320 | Diamond Madison |
 | 171 | 313 | Bryan Temple |
 | 172 | 313 | nameno |
 | 173 | 312 | Joy Bloodworth |
@@ -184,34 +184,34 @@
 | 176 | 307 | Stephanie Myers |
 | 177 | 302 | Justin Feingold |
 | 178 | 300 | Noelle Cicchillo |
-| 179 | 300 | Angel Mendez |
-| 180 | 299 | Wacky Balancer |
-| 181 | 298 | Jodi Fichter |
-| 182 | 298 | Matthew Bunn |
-| 183 | 297 | Thorpedo |
-| 184 | 292 | Angela Phillips Kean |
+| 179 | 300 | Shannon Ferrari |
+| 180 | 300 | Angel Mendez |
+| 181 | 299 | Wacky Balancer |
+| 182 | 298 | Jodi Fichter |
+| 183 | 298 | Matthew Bunn |
+| 184 | 297 | Thorpedo |
 | 185 | 292 | Fatima Washington |
-| 186 | 292 | Jessi Sauer |
-| 187 | 288 | Hasbro Bros |
-| 188 | 283 | Crafty Tilebuilder |
-| 189 | 283 | bea |
-| 190 | 282 | Marshell Harris |
-| 191 | 281 | Chrys Peters |
-| 192 | 281 | Death |
-| 193 | 281 | Kris Koepke |
-| 194 | 280 | Lavender |
-| 195 | 279 | Ern2burn |
-| 196 | 279 | Lilyandstuff |
-| 197 | 278 | Sabra Fisher |
-| 198 | 278 | Nanan Nanan |
-| 199 | 275 | Allena Craft |
-| 200 | 273 | TRCuse |
-| 201 | 272 | Velvet Rarick |
-| 202 | 272 | Perky Shatterline |
-| 203 | 271 | Sharisse Baltimore |
-| 204 | 265 | Victoria Davis Torie |
-| 205 | 264 | SpunkyStriker |
-| 206 | 260 | Shannon Ferrari |
+| 186 | 292 | Angela Phillips Kean |
+| 187 | 292 | Jessi Sauer |
+| 188 | 288 | Hasbro Bros |
+| 189 | 283 | Crafty Tilebuilder |
+| 190 | 283 | bea |
+| 191 | 282 | Marshell Harris |
+| 192 | 281 | Chrys Peters |
+| 193 | 281 | Death |
+| 194 | 281 | Kris Koepke |
+| 195 | 280 | Lavender |
+| 196 | 279 | Ern2burn |
+| 197 | 279 | Lilyandstuff |
+| 198 | 278 | Sabra Fisher |
+| 199 | 278 | Nanan Nanan |
+| 200 | 275 | Allena Craft |
+| 201 | 273 | TRCuse |
+| 202 | 272 | Velvet Rarick |
+| 203 | 272 | Perky Shatterline |
+| 204 | 271 | Sharisse Baltimore |
+| 205 | 265 | Victoria Davis Torie |
+| 206 | 264 | SpunkyStriker |
 | 207 | 258 | Nyki Marie |
 | 208 | 258 | Lively Rollfit |
 | 209 | 256 | Josh Barringer |
@@ -429,22 +429,22 @@
 | 421 | 121 | Melanie Kelley |
 | 422 | 121 | Suzan Frazier |
 | 423 | 121 | Erica Catherine |
-| 424 | 120 | Thomas Susi |
-| 425 | 120 | Ann Brock LaPorte |
-| 426 | 120 | Karmyst |
-| 427 | 120 | Candace Esposito |
+| 424 | 120 | Candace Esposito |
+| 425 | 120 | Karmyst |
+| 426 | 120 | Ann Brock LaPorte |
+| 427 | 120 | Thomas Susi |
 | 428 | 119 | Ellie Bein |
 | 429 | 119 | Bouncy Tilerpiece |
 | 430 | 119 | Jennifer Negrete |
 | 431 | 118 | Hoppy Buildgrid |
-| 432 | 118 | Aprill Bolton |
-| 433 | 118 | Teresa Wolf |
-| 434 | 117 | Jaame Courtney |
-| 435 | 117 | Danielle Kollias |
-| 436 | 116 | Heather Bowser |
-| 437 | 115 | Melissa Madison |
+| 432 | 118 | Teresa Wolf |
+| 433 | 118 | Aprill Bolton |
+| 434 | 117 | Erin Hodges Plumb |
+| 435 | 117 | Jaame Courtney |
+| 436 | 117 | Danielle Kollias |
+| 437 | 116 | Heather Bowser |
 | 438 | 115 | MWFreddy |
-| 439 | 115 | Erin Hodges Plumb |
+| 439 | 115 | Melissa Madison |
 | 440 | 114 | Stormy May |
 | 441 | 114 | Bennett Hunter |
 | 442 | 113 | Tawny Mo |
@@ -456,24 +456,24 @@
 | 448 | 110 | Rebecca Wilson |
 | 449 | 110 | SitHazy |
 | 450 | 110 | Margaret Rose |
-| 451 | 110 | Macy Williams |
-| 452 | 110 | Noah |
+| 451 | 110 | Noah |
+| 452 | 110 | Macy Williams |
 | 453 | 109 | Jess Dearborn |
-| 454 | 109 | Geno Bankroll McGill |
-| 455 | 109 | Sarah Perry Cook |
-| 456 | 109 | Tamara Brown |
+| 454 | 109 | Tamara Brown |
+| 455 | 109 | Geno Bankroll McGill |
+| 456 | 109 | Sarah Perry Cook |
 | 457 | 108 | Holly Hinkle |
 | 458 | 108 | Jason Wreggitt |
-| 459 | 107 | Witty Clusterfit |
-| 460 | 107 | NunYa |
+| 459 | 107 | NunYa |
+| 460 | 107 | Witty Clusterfit |
 | 461 | 106 | Snazzy Rotater |
 | 462 | 106 | Leah LaShomb |
 | 463 | 105 | Ashley Kostek |
 | 464 | 105 | Matthew Laudico |
 | 465 | 105 | Lil'A |
-| 466 | 104 | David Lowe |
-| 467 | 104 | UltraMAGA |
-| 468 | 104 | Tabitha Cornelious |
+| 466 | 104 | Tabitha Cornelious |
+| 467 | 104 | David Lowe |
+| 468 | 104 | UltraMAGA |
 | 469 | 103 | Brittney Groler |
 | 470 | 103 | Dan Engelhard |
 | 471 | 103 | Sam Steig |
