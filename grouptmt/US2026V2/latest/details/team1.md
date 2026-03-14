@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 06:36:16 UTC
+# Standings for team1 as of 2026-03-14 06:36:36 UTC
 
 **Total Participants:** 1450
 
@@ -300,35 +300,35 @@
 | 292 | 86 | Nicole Plummer |
 | 293 | 85 | Rebecca Martin |
 | 294 | 85 | Ryry |
-| 295 | 84 | Moe Thought |
-| 296 | 84 | Tessa N Davis |
-| 297 | 84 | Tawny Mo |
-| 298 | 83 | LT |
+| 295 | 84 | Damion Woods |
+| 296 | 84 | Moe Thought |
+| 297 | 84 | Tessa N Davis |
+| 298 | 84 | Tawny Mo |
 | 299 | 83 | Mary Pelley |
-| 300 | 82 | Jennifer Negrete |
-| 301 | 82 | MammaCass |
-| 302 | 81 | April Carroll |
+| 300 | 83 | LT |
+| 301 | 82 | Jennifer Negrete |
+| 302 | 82 | MammaCass |
 | 303 | 81 | Kim Bays |
-| 304 | 80 | bea |
+| 304 | 81 | April Carroll |
 | 305 | 80 | Zachary Moran |
-| 306 | 80 | DeJuan Green |
-| 307 | 80 | Tami Luce Martin |
-| 308 | 80 | Katt Brown-Thomas |
-| 309 | 80 | Hannah Carter |
-| 310 | 80 | Teddy Marshall |
-| 311 | 80 | TetrisWoo |
-| 312 | 80 | HugeLoad |
-| 313 | 80 | Rebecca Rognerud |
-| 314 | 80 | JustMeNonna |
-| 315 | 79 | Poppy Builderline |
-| 316 | 78 | Dizzy Glidebuilder |
-| 317 | 78 | Stormy May |
-| 318 | 78 | Boldy Clear |
-| 319 | 78 | Penny Clark |
-| 320 | 77 | Damion Woods |
+| 306 | 80 | Hannah Carter |
+| 307 | 80 | Teddy Marshall |
+| 308 | 80 | HugeLoad |
+| 309 | 80 | JustMeNonna |
+| 310 | 80 | Rebecca Rognerud |
+| 311 | 80 | Tami Luce Martin |
+| 312 | 80 | bea |
+| 313 | 80 | Katt Brown-Thomas |
+| 314 | 80 | TetrisWoo |
+| 315 | 80 | DeJuan Green |
+| 316 | 79 | Poppy Builderline |
+| 317 | 78 | Dizzy Glidebuilder |
+| 318 | 78 | Stormy May |
+| 319 | 78 | Boldy Clear |
+| 320 | 78 | Penny Clark |
 | 321 | 77 | Dan Engelhard |
-| 322 | 77 | Groovy Glidepiece |
-| 323 | 77 | SpaceCase085 |
+| 322 | 77 | SpaceCase085 |
+| 323 | 77 | Groovy Glidepiece |
 | 324 | 76 | Crafty Clearfit |
 | 325 | 76 | Lisa Klockenga |
 | 326 | 76 | Kara Diamond |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 06:36:16 UTC
+# Standings for team2 as of 2026-03-14 06:36:36 UTC
 
 **Total Participants:** 1366
 
@@ -190,7 +190,7 @@
 | 182 | 150 | Zesty Link |
 | 183 | 149 | Alan George LaRage |
 | 184 | 148 | Alyssa Cox |
-| 185 | 146 | BluBae |
+| 185 | 147 | BluBae |
 | 186 | 145 | Berling Gil |
 | 187 | 145 | Mcg |
 | 188 | 145 | Cynthia Prouse |
@@ -261,8 +261,8 @@
 | 253 | 111 | Samantha Bagent |
 | 254 | 111 | Jenn Dandle |
 | 255 | 111 | Zany Rotater |
-| 256 | 110 | Bryanna Whitman |
-| 257 | 110 | Jimmy Xim |
+| 256 | 110 | Jimmy Xim |
+| 257 | 110 | Bryanna Whitman |
 | 258 | 108 | Charde Parnell |
 | 259 | 107 | Prette Qui |
 | 260 | 107 | Jason Briggs |
@@ -271,15 +271,15 @@
 | 263 | 106 | Chill Builder |
 | 264 | 105 | Morgan Anne Witty |
 | 265 | 104 | Abby Jensen |
-| 266 | 103 | Elizabeth Blankenship |
-| 267 | 103 | Brittany Backus |
-| 268 | 103 | Devin |
-| 269 | 103 | Mighty Zone |
-| 270 | 101 | Sammy |
-| 271 | 100 | Ryan Parson |
+| 266 | 103 | Ella Marzano |
+| 267 | 103 | Devin |
+| 268 | 103 | Elizabeth Blankenship |
+| 269 | 103 | Brittany Backus |
+| 270 | 103 | Mighty Zone |
+| 271 | 101 | Sammy |
 | 272 | 100 | Ashley Moore |
-| 273 | 100 | Chilly Fallgrid |
-| 274 | 100 | Ella Marzano |
+| 273 | 100 | Ryan Parson |
+| 274 | 100 | Chilly Fallgrid |
 | 275 | 100 | Kennedy Sandifer |
 | 276 | 100 | Shanny Anny |
 | 277 | 100 | Jeremiah Gensler |
