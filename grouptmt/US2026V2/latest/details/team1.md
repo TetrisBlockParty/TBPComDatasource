@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 08:24:17 UTC
+# Standings for team1 as of 2026-03-14 08:24:37 UTC
 
 **Total Participants:** 1498
 
@@ -65,10 +65,10 @@
 | 57 | 679 | Michael DeRosa |
 | 58 | 675 | Joshua Dye |
 | 59 | 668 | Michael Powers |
-| 60 | 652 | Hellsin |
-| 61 | 642 | Kat Mfm Kaul |
-| 62 | 601 | Ana Fernanda Sanchez |
-| 63 | 600 | Jodie Peterson |
+| 60 | 664 | Jodie Peterson |
+| 61 | 652 | Hellsin |
+| 62 | 642 | Kat Mfm Kaul |
+| 63 | 601 | Ana Fernanda Sanchez |
 | 64 | 595 | Chris Wanner |
 | 65 | 584 | butterface |
 | 66 | 563 | Tom |
@@ -1485,15 +1485,15 @@
 | 1477 | 5 | Derrick See |
 | 1478 | 5 | Sarajo Clauson |
 | 1479 | 5 | Blossom |
-| 1480 | 5 | Jolly Piecebuilder |
-| 1481 | 5 | Sassy Pivotfall |
-| 1482 | 5 | Happy Swipe |
-| 1483 | 5 | Michelle Caudillo |
-| 1484 | 5 | Peachy Snaplink |
-| 1485 | 5 | Chris JonesSr |
-| 1486 | 5 | Perky Matchpiece |
-| 1487 | 5 | Snappy Blockfall |
-| 1488 | 5 | Tractor Houston |
+| 1480 | 5 | Tractor Houston |
+| 1481 | 5 | Chilly Pop |
+| 1482 | 5 | Sassy Pivotfall |
+| 1483 | 5 | Happy Swipe |
+| 1484 | 5 | Michelle Caudillo |
+| 1485 | 5 | Peachy Snaplink |
+| 1486 | 5 | Chris JonesSr |
+| 1487 | 5 | Perky Matchpiece |
+| 1488 | 5 | Snappy Blockfall |
 | 1489 | 5 | KingFlex Haile Jr |
 | 1490 | 5 | Felisha Marie |
 | 1491 | 5 | Jeanna Thompson |
@@ -1503,7 +1503,7 @@
 | 1495 | 5 | David Amaro |
 | 1496 | 5 | Scallywag |
 | 1497 | 5 | Rolly956 |
-| 1498 | 5 | Chilly Pop |
+| 1498 | 5 | Jolly Piecebuilder |
 
 ---
 *Standings created by tournaments datasource generation tool*
