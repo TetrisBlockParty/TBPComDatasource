@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 18:42:19 UTC
+# Standings for team1 as of 2026-03-14 18:42:40 UTC
 
 **Total Participants:** 1812
 
@@ -120,7 +120,7 @@
 | 112 | 415 | Jme |
 | 113 | 400 | Jessica Sheehan |
 | 114 | 400 | Breezy Ivy |
-| 115 | 390 | Witty Wipegrid |
+| 115 | 399 | Witty Wipegrid |
 | 116 | 389 | Yolanda M Harris |
 | 117 | 386 | beep |
 | 118 | 384 | PhatWI41 |
@@ -817,65 +817,65 @@
 | 809 | 50 | Loopy Edge |
 | 810 | 50 | Maria Lopez |
 | 811 | 50 | Andrew Coulter |
-| 812 | 50 | Kindra Sinclair |
-| 813 | 50 | Mean Melly |
-| 814 | 50 | Glitzy Linkpiece |
+| 812 | 50 | Cool Slice |
+| 813 | 50 | Glitzy Linkpiece |
+| 814 | 50 | Mean Melly |
 | 815 | 50 | Samantha Bugg Stitcher |
-| 816 | 50 | Cool Slice |
-| 817 | 50 | Bob Sitts |
-| 818 | 50 | sam |
-| 819 | 50 | CL Meyer |
-| 820 | 50 | MrsW |
-| 821 | 49 | Meagan Nicole |
-| 822 | 49 | Hasty Towerpiece |
-| 823 | 49 | Rachel Navarro |
-| 824 | 49 | Terry Dill |
-| 825 | 49 | Pauline Cortez |
-| 826 | 49 | Chin lock |
-| 827 | 49 | CoolHand |
-| 828 | 49 | Danessa Pettite |
-| 829 | 49 | Jason S |
-| 830 | 49 | Alyssa Bruce |
-| 831 | 49 | Ren Mc |
+| 816 | 50 | Bob Sitts |
+| 817 | 50 | sam |
+| 818 | 50 | Kindra Sinclair |
+| 819 | 50 | MrsW |
+| 820 | 50 | CL Meyer |
+| 821 | 49 | Ren Mc |
+| 822 | 49 | Chin lock |
+| 823 | 49 | Hasty Towerpiece |
+| 824 | 49 | CoolHand |
+| 825 | 49 | Jason S |
+| 826 | 49 | Alyssa Bruce |
+| 827 | 49 | Terry Dill |
+| 828 | 49 | Pauline Cortez |
+| 829 | 49 | Rachel Navarro |
+| 830 | 49 | Danessa Pettite |
+| 831 | 49 | Jumpy Winder |
 | 832 | 49 | Brenda L. Bunce |
-| 833 | 49 | Jumpy Winder |
-| 834 | 49 | Lorie Atwood |
+| 833 | 49 | Lorie Atwood |
+| 834 | 49 | Meagan Nicole |
 | 835 | 49 | Nora Smith |
 | 836 | 49 | gucci |
-| 837 | 48 | Ellen Maxwell Capstaff |
-| 838 | 48 | Meagan Canipe |
-| 839 | 48 | Jr Ysassi |
-| 840 | 48 | minnie |
-| 841 | 48 | Katelyn B. Pritchard |
-| 842 | 48 | Chazarae Marie |
-| 843 | 48 | Snazzy Tilemaker |
-| 844 | 48 | Itspaigebro |
-| 845 | 48 | Greg Joseph |
-| 846 | 48 | Lacey Palatka |
-| 847 | 48 | Bouncy Linefit |
-| 848 | 48 | Tammy Griffee |
-| 849 | 48 | Christina Rentz-Lane |
-| 850 | 47 | Shelley Hagerman |
-| 851 | 47 | Hoppy Builderpiece |
-| 852 | 47 | Michael Wood |
+| 837 | 48 | Katelyn B. Pritchard |
+| 838 | 48 | minnie |
+| 839 | 48 | Ellen Maxwell Capstaff |
+| 840 | 48 | Meagan Canipe |
+| 841 | 48 | Maju Restini |
+| 842 | 48 | Jr Ysassi |
+| 843 | 48 | Tammy Griffee |
+| 844 | 48 | Christina Rentz-Lane |
+| 845 | 48 | Chazarae Marie |
+| 846 | 48 | Snazzy Tilemaker |
+| 847 | 48 | Lacey Palatka |
+| 848 | 48 | Greg Joseph |
+| 849 | 48 | Bouncy Linefit |
+| 850 | 48 | Itspaigebro |
+| 851 | 47 | Scotty |
+| 852 | 47 | Shelley Hagerman |
 | 853 | 47 | Christopher L Crites |
-| 854 | 47 | Shannon Green |
-| 855 | 47 | Rachelle Wimpey |
-| 856 | 47 | Zesty Piececlear |
-| 857 | 47 | Kristopher Daniels |
-| 858 | 47 | ghxsty |
-| 859 | 47 | Scotty |
+| 854 | 47 | Hoppy Builderpiece |
+| 855 | 47 | Shannon Green |
+| 856 | 47 | Rachelle Wimpey |
+| 857 | 47 | Michael Wood |
+| 858 | 47 | Kristopher Daniels |
+| 859 | 47 | Zesty Piececlear |
 | 860 | 47 | Stacy Rodriguez |
 | 861 | 47 | Prometheus |
-| 862 | 47 | Josh Riemer |
-| 863 | 47 | mischee |
-| 864 | 46 | Jessica Butler |
+| 862 | 47 | ghxsty |
+| 863 | 47 | Josh Riemer |
+| 864 | 47 | mischee |
 | 865 | 46 | MamaPhee |
 | 866 | 46 | Dakota Thomas |
 | 867 | 46 | Zesty Blockclear |
-| 868 | 46 | Daring Roll |
-| 869 | 46 | Danelle Sulentic |
-| 870 | 46 | Maju Restini |
+| 868 | 46 | Jessica Butler |
+| 869 | 46 | Daring Roll |
+| 870 | 46 | Danelle Sulentic |
 | 871 | 46 | Daniel Lopez |
 | 872 | 46 | Tina Kocher Zimmerman |
 | 873 | 46 | David Wright |
