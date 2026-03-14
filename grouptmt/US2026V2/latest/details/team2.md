@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 12:40:18 UTC
+# Standings for team2 as of 2026-03-14 12:40:39 UTC
 
 **Total Participants:** 1524
 
@@ -108,7 +108,7 @@
 | 100 | 322 | Nicole Cannon |
 | 101 | 315 | Deb Wasano |
 | 102 | 313 | Qing DG |
-| 103 | 302 | Suffia Alexander |
+| 103 | 307 | Suffia Alexander |
 | 104 | 300 | Snappy Bridgepiece |
 | 105 | 299 | Mike Carden |
 | 106 | 295 | Jumpy Smasher |
@@ -303,15 +303,15 @@
 | 295 | 118 | Elizabeth Mauri |
 | 296 | 117 | Sonya Gail Goodman |
 | 297 | 116 | Looloo |
-| 298 | 115 | Jamie Mclean |
+| 298 | 116 | Spicy Strikerbuilder |
 | 299 | 115 | Marc Anthony Lopez |
-| 300 | 114 | Slinky Linkgrid |
-| 301 | 114 | Dimitra Zazara |
-| 302 | 113 | jess |
-| 303 | 113 | Tiffany Riccio |
-| 304 | 113 | Randy Jansen |
-| 305 | 113 | Zany Rotater |
-| 306 | 113 | Spicy Strikerbuilder |
+| 300 | 115 | Jamie Mclean |
+| 301 | 114 | Slinky Linkgrid |
+| 302 | 114 | Dimitra Zazara |
+| 303 | 113 | jess |
+| 304 | 113 | Tiffany Riccio |
+| 305 | 113 | Randy Jansen |
+| 306 | 113 | Zany Rotater |
 | 307 | 112 | LD1 |
 | 308 | 112 | Marc |
 | 309 | 111 | Elizabeth Blankenship |
@@ -331,9 +331,9 @@
 | 323 | 103 | Mighty Zone |
 | 324 | 103 | Nikki Speer |
 | 325 | 103 | Brittany Backus |
-| 326 | 101 | Sammy |
-| 327 | 100 | btchboy |
-| 328 | 100 | TJ Hire |
+| 326 | 102 | TJ Hire |
+| 327 | 101 | Sammy |
+| 328 | 100 | btchboy |
 | 329 | 100 | Goofy Linkmatch |
 | 330 | 100 | Chilly Fallgrid |
 | 331 | 100 | Shanny Anny |
