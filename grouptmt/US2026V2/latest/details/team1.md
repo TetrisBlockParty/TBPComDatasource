@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 08:18:17 UTC
+# Standings for team1 as of 2026-03-14 08:18:38 UTC
 
 **Total Participants:** 1496
 
@@ -364,9 +364,9 @@
 | 356 | 74 | Brian Schneider |
 | 357 | 74 | Loverlylove |
 | 358 | 74 | Flashy Rotator |
-| 359 | 74 | Mykal Burton |
-| 360 | 73 | Yvonne Buie |
-| 361 | 73 | Stacy Patterson |
+| 359 | 74 | Stacy Patterson |
+| 360 | 74 | Mykal Burton |
+| 361 | 73 | Yvonne Buie |
 | 362 | 73 | Lisa Franks |
 | 363 | 73 | Jacob Phillips |
 | 364 | 72 | Jai |
