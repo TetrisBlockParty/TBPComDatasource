@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-14 06:26:17 UTC
+# Standings for team3 as of 2026-03-14 06:26:36 UTC
 
 **Total Participants:** 2165
 
@@ -169,7 +169,7 @@
 | 161 | 214 | Kens Guth |
 | 162 | 211 | Tenille Santiago |
 | 163 | 209 | Laura Melton |
-| 164 | 207 | Boricua64 |
+| 164 | 208 | Boricua64 |
 | 165 | 207 | diz |
 | 166 | 206 | Nerdy Tile |
 | 167 | 205 | Justin Matthew Nash |
@@ -402,55 +402,55 @@
 | 394 | 94 | Karra Lindsey |
 | 395 | 94 | Cameron |
 | 396 | 93 | Anna McGee |
-| 397 | 93 | Chrissy |
-| 398 | 93 | MomOnBreak |
+| 397 | 93 | MomOnBreak |
+| 398 | 93 | Chrissy |
 | 399 | 93 | Bernadette Sanchez |
-| 400 | 92 | Tawna Curry |
-| 401 | 92 | Renee Marty |
+| 400 | 92 | Rein Diegor |
+| 401 | 92 | Tawna Curry |
 | 402 | 92 | Diana Atilano Lopez |
 | 403 | 92 | Xarandom |
-| 404 | 92 | Rein Diegor |
-| 405 | 91 | Jackie Lucas |
-| 406 | 91 | Tammi Larson |
-| 407 | 91 | Charles Ellis |
-| 408 | 91 | Brittany Chapman |
-| 409 | 90 | Francine-frankie Ritzio-Rizzo |
-| 410 | 90 | Teleah Allen |
-| 411 | 90 | Felicia Denlinger |
-| 412 | 90 | Kimm Fulmer |
-| 413 | 90 | Speedy Hitter |
-| 414 | 90 | Erin Garlanger |
-| 415 | 89 | Kerri Miller |
-| 416 | 89 | Jus Cee |
-| 417 | 89 | Jumpy Blockroll |
-| 418 | 89 | Jess |
-| 419 | 89 | Outlaw |
-| 420 | 89 | FuzzyNavel |
-| 421 | 88 | Dapper Pusher |
-| 422 | 88 | Speedy Clicky |
+| 404 | 92 | Renee Marty |
+| 405 | 91 | Tammi Larson |
+| 406 | 91 | smalls |
+| 407 | 91 | Jackie Lucas |
+| 408 | 91 | Charles Ellis |
+| 409 | 91 | Brittany Chapman |
+| 410 | 90 | Felicia Denlinger |
+| 411 | 90 | Francine-frankie Ritzio-Rizzo |
+| 412 | 90 | Speedy Hitter |
+| 413 | 90 | Kimm Fulmer |
+| 414 | 90 | Teleah Allen |
+| 415 | 90 | Erin Garlanger |
+| 416 | 89 | FuzzyNavel |
+| 417 | 89 | Kerri Miller |
+| 418 | 89 | Jus Cee |
+| 419 | 89 | Jess |
+| 420 | 89 | Jumpy Blockroll |
+| 421 | 89 | Outlaw |
+| 422 | 88 | Dapper Pusher |
 | 423 | 88 | Ashlee Johnson |
-| 424 | 87 | Robin Getchel |
+| 424 | 88 | Speedy Clicky |
 | 425 | 87 | Daryne Ligon |
-| 426 | 87 | Kayla Jo Piper |
-| 427 | 87 | Tam |
-| 428 | 87 | Peppy Tilt |
-| 429 | 87 | Cris |
-| 430 | 87 | Kari Smith |
-| 431 | 87 | Kelly King |
-| 432 | 86 | Coleen Yoder |
-| 433 | 86 | smalls |
+| 426 | 87 | Robin Getchel |
+| 427 | 87 | Kayla Jo Piper |
+| 428 | 87 | Tam |
+| 429 | 87 | Peppy Tilt |
+| 430 | 87 | Kelly King |
+| 431 | 87 | Kari Smith |
+| 432 | 87 | Cris |
+| 433 | 86 | Coleen Yoder |
 | 434 | 86 | Holly Reed |
-| 435 | 85 | Rosie32 |
-| 436 | 85 | Benjamin Sanabria |
+| 435 | 85 | Benjamin Sanabria |
+| 436 | 85 | Rosie32 |
 | 437 | 85 | Lillian Mehler |
 | 438 | 85 | Vicki Batchelor Taylor |
 | 439 | 85 | Jenn Wilson |
 | 440 | 85 | Yup |
 | 441 | 85 | Dee Franklin |
 | 442 | 84 | Naomi Romero |
-| 443 | 84 | Bean |
-| 444 | 84 | Jay Holladay |
-| 445 | 84 | Van Nguyen |
+| 443 | 84 | Van Nguyen |
+| 444 | 84 | Bean |
+| 445 | 84 | Jay Holladay |
 | 446 | 84 | Shelby Perry |
 | 447 | 84 | Cranky Brickzone |
 | 448 | 84 | Trista Bounting |
@@ -1297,41 +1297,41 @@
 | 1289 | 26 | Jessica Betz |
 | 1290 | 26 | Tamica Smith |
 | 1291 | 26 | Alex Dye |
-| 1292 | 26 | Ashley Eiler |
-| 1293 | 26 | Edwina Kimble |
+| 1292 | 26 | Edwina Kimble |
+| 1293 | 26 | Ashley Eiler |
 | 1294 | 26 | Kelly Brenzil-Fewkes |
 | 1295 | 26 | reom |
 | 1296 | 26 | Sweetfire |
-| 1297 | 26 | Erik Hesner |
-| 1298 | 25 | Britney Palen |
+| 1297 | 26 | SmashKim |
+| 1298 | 26 | Erik Hesner |
 | 1299 | 25 | Jessica Harn |
-| 1300 | 25 | AppleG |
-| 1301 | 25 | Man of Steel |
-| 1302 | 25 | Snappy Snapzone |
-| 1303 | 25 | Glitzy Rollpiece |
-| 1304 | 25 | Daring Wipegrid |
-| 1305 | 25 | Anna Parvin Sims |
-| 1306 | 25 | Frogyn |
-| 1307 | 25 | Jeremy Sample |
-| 1308 | 25 | Chirpy Matchbuilder |
-| 1309 | 25 | Jade Coupel |
-| 1310 | 25 | Ana Gutierrez |
-| 1311 | 25 | ShadowQueen7 |
-| 1312 | 25 | Tanya Cornellier Leclair |
-| 1313 | 25 | Mike Mccord |
-| 1314 | 25 | Merry Rettig |
-| 1315 | 25 | Maria Escobar |
-| 1316 | 25 | Eve Marie |
-| 1317 | 25 | SmashKim |
+| 1300 | 25 | Frogyn |
+| 1301 | 25 | AppleG |
+| 1302 | 25 | Man of Steel |
+| 1303 | 25 | Snappy Snapzone |
+| 1304 | 25 | Glitzy Rollpiece |
+| 1305 | 25 | Daring Wipegrid |
+| 1306 | 25 | Anna Parvin Sims |
+| 1307 | 25 | Britney Palen |
+| 1308 | 25 | Jeremy Sample |
+| 1309 | 25 | Chirpy Matchbuilder |
+| 1310 | 25 | Jade Coupel |
+| 1311 | 25 | Ana Gutierrez |
+| 1312 | 25 | ShadowQueen7 |
+| 1313 | 25 | Tanya Cornellier Leclair |
+| 1314 | 25 | Mike Mccord |
+| 1315 | 25 | Merry Rettig |
+| 1316 | 25 | emmanaut |
+| 1317 | 25 | Eve Marie |
 | 1318 | 25 | Tipsy Spinblock |
 | 1319 | 25 | Jen Lin |
 | 1320 | 25 | Victoria M Valencia |
 | 1321 | 25 | Patsy Holland |
-| 1322 | 25 | Char Pretty Mills |
-| 1323 | 25 | Witty Capricorn |
+| 1322 | 25 | Witty Capricorn |
+| 1323 | 25 | Char Pretty Mills |
 | 1324 | 25 | Julia Riffle |
 | 1325 | 25 | papapat |
-| 1326 | 25 | emmanaut |
+| 1326 | 25 | Maria Escobar |
 | 1327 | 25 | Carrie Isenhower |
 | 1328 | 25 | Gloria Parker |
 | 1329 | 25 | victory |
@@ -1340,14 +1340,14 @@
 | 1332 | 25 | Cam Smeaton |
 | 1333 | 25 | Tiffany Cobb |
 | 1334 | 25 | General Je |
-| 1335 | 24 | MarineMom31 |
+| 1335 | 24 | Jerry Bassett |
 | 1336 | 24 | Bridget Brinkman |
 | 1337 | 24 | Cindy DeNardo |
-| 1338 | 24 | anessa |
+| 1338 | 24 | MarineMom31 |
 | 1339 | 24 | Luyza Villanueva |
 | 1340 | 24 | Ace-tom n |
 | 1341 | 24 | Pamela Swist |
-| 1342 | 24 | Jerry Bassett |
+| 1342 | 24 | anessa |
 | 1343 | 24 | Dizzy Snapzone |
 | 1344 | 24 | Cheeky Shatterfit |
 | 1345 | 24 | Sunny Fitblock |
