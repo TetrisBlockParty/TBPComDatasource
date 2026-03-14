@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 04:32:15 UTC
+# Standings for team2 as of 2026-03-14 04:32:37 UTC
 
 **Total Participants:** 1281
 
@@ -254,81 +254,81 @@
 | 246 | 95 | titrissss |
 | 247 | 95 | Kimyatta Cavin |
 | 248 | 94 | Ruby Anne |
-| 249 | 94 | Lora |
-| 250 | 94 | Lesha |
+| 249 | 94 | Lesha |
+| 250 | 94 | Lora |
 | 251 | 94 | LD1 |
 | 252 | 94 | Amy Villalpando |
 | 253 | 93 | Loony Puzzle |
 | 254 | 93 | Sammy |
 | 255 | 92 | Randy Jansen |
-| 256 | 90 | Chill Builder |
-| 257 | 90 | Daniel Moore |
-| 258 | 90 | TJ Hire |
-| 259 | 89 | Arson Fox |
-| 260 | 89 | Joyce Murff |
+| 256 | 90 | TJ Hire |
+| 257 | 90 | Chill Builder |
+| 258 | 90 | Daniel Moore |
+| 259 | 89 | Joyce Murff |
+| 260 | 89 | Arson Fox |
 | 261 | 89 | Beckii Beckford |
-| 262 | 88 | BuzyBee |
-| 263 | 88 | Katie Lynn |
+| 262 | 88 | Katie Lynn |
+| 263 | 88 | BuzyBee |
 | 264 | 88 | Shanny Anny |
-| 265 | 86 | Haley Lynn Agers |
+| 265 | 86 | Candy Brooks |
 | 266 | 86 | Berklie Apedaile |
-| 267 | 86 | Candy Brooks |
-| 268 | 85 | Witty Twistslam |
-| 269 | 85 | Cynthia Prouse |
+| 267 | 86 | Haley Lynn Agers |
+| 268 | 85 | Cynthia Prouse |
+| 269 | 85 | Witty Twistslam |
 | 270 | 84 | BendersMomma |
 | 271 | 84 | Paula Little |
-| 272 | 83 | Monica Galli |
-| 273 | 83 | bigdad |
-| 274 | 83 | Hasty Pivoty |
-| 275 | 83 | Tipsy Glidezone |
-| 276 | 82 | Emilie Creswell |
-| 277 | 82 | Juana |
-| 278 | 81 | Jumpy Cascadeclear |
-| 279 | 81 | Marla Erin Salas |
-| 280 | 81 | Tonya Hadsell |
-| 281 | 81 | Christine Soltis |
-| 282 | 81 | Devin |
-| 283 | 81 | Jjza |
-| 284 | 80 | Plucky Glide |
-| 285 | 80 | Danielle Weikel |
+| 272 | 84 | JTH |
+| 273 | 83 | Monica Galli |
+| 274 | 83 | Tipsy Glidezone |
+| 275 | 83 | bigdad |
+| 276 | 83 | Hasty Pivoty |
+| 277 | 82 | Emilie Creswell |
+| 278 | 82 | Juana |
+| 279 | 81 | Devin |
+| 280 | 81 | Marla Erin Salas |
+| 281 | 81 | Jjza |
+| 282 | 81 | Tonya Hadsell |
+| 283 | 81 | Christine Soltis |
+| 284 | 81 | Jumpy Cascadeclear |
+| 285 | 80 | Plucky Glide |
 | 286 | 80 | btchboy |
-| 287 | 80 | Tina Cano |
+| 287 | 80 | Danielle Weikel |
 | 288 | 80 | Dusti Holbrook |
-| 289 | 79 | Jasmine Kenney |
-| 290 | 79 | Dreamy Snapgrid |
-| 291 | 78 | Dimitra Zazara |
-| 292 | 78 | Autumn Leslie |
-| 293 | 78 | JTH |
+| 289 | 80 | Tina Cano |
+| 290 | 79 | Jasmine Kenney |
+| 291 | 79 | Dreamy Snapgrid |
+| 292 | 78 | Dimitra Zazara |
+| 293 | 78 | Autumn Leslie |
 | 294 | 77 | Kristi Riley |
-| 295 | 76 | Teresa Longwell |
-| 296 | 76 | Lilypop |
-| 297 | 76 | Jennifer Galadik |
-| 298 | 76 | Olivia Gwin |
-| 299 | 75 | Keyata Wright |
+| 295 | 76 | Jennifer Galadik |
+| 296 | 76 | Teresa Longwell |
+| 297 | 76 | Olivia Gwin |
+| 298 | 76 | Lilypop |
+| 299 | 75 | Trouble |
 | 300 | 75 | Lindsay Lucas |
-| 301 | 75 | Trouble |
-| 302 | 75 | Troy |
-| 303 | 75 | Jesse Saville |
-| 304 | 75 | ImmortelT |
-| 305 | 74 | Carla Roberson |
-| 306 | 74 | Jean Yap |
-| 307 | 74 | Nikki Speer |
-| 308 | 73 | Michael |
-| 309 | 73 | Bubbly Twistpiece |
-| 310 | 72 | Rileyy Rocket |
-| 311 | 72 | LeVeL27 |
-| 312 | 72 | Jo |
-| 313 | 72 | Marciala Pineda Juarez |
-| 314 | 72 | Dana Hicks |
-| 315 | 72 | Nerdy Rollzone |
+| 301 | 75 | Troy |
+| 302 | 75 | Keyata Wright |
+| 303 | 75 | ImmortelT |
+| 304 | 75 | Jesse Saville |
+| 305 | 74 | Nikki Speer |
+| 306 | 74 | Carla Roberson |
+| 307 | 74 | Jean Yap |
+| 308 | 73 | Bubbly Twistpiece |
+| 309 | 73 | Michael |
+| 310 | 72 | Dana Hicks |
+| 311 | 72 | Marciala Pineda Juarez |
+| 312 | 72 | Rileyy Rocket |
+| 313 | 72 | LeVeL27 |
+| 314 | 72 | Nerdy Rollzone |
+| 315 | 72 | Jo |
 | 316 | 71 | Amanda Segura |
-| 317 | 71 | Henry Lanier |
-| 318 | 71 | May May |
+| 317 | 71 | May May |
+| 318 | 71 | Henry Lanier |
 | 319 | 71 | Alexsa Crespo |
-| 320 | 70 | Emily Wooden |
+| 320 | 70 | Caitlyn Brown |
 | 321 | 70 | Buisanito |
-| 322 | 70 | Toph |
-| 323 | 70 | Caitlyn Brown |
+| 322 | 70 | Emily Wooden |
+| 323 | 70 | Toph |
 | 324 | 70 | Michael E Whitejr |
 | 325 | 70 | MauaStorm |
 | 326 | 70 | Brave Fallzone |
@@ -531,21 +531,21 @@
 | 523 | 43 | Elizabeth Ostrom |
 | 524 | 42 | Marta Savchuk |
 | 525 | 42 | Derek Jarvis |
-| 526 | 42 | Ellie |
-| 527 | 42 | Dandy Crasher |
+| 526 | 42 | Ashley Marie Pierce |
+| 527 | 42 | Ellie |
 | 528 | 42 | Scott Siple |
 | 529 | 42 | bubbles |
 | 530 | 42 | C.B |
 | 531 | 42 | Snippy Framezone |
-| 532 | 42 | Nai Saeteurn |
-| 533 | 41 | Shakena Tuggle |
-| 534 | 41 | Kiorah Blaze |
-| 535 | 41 | Shea Ladynick Henderson |
-| 536 | 41 | Dandy Combofall |
-| 537 | 41 | Dane Roy |
-| 538 | 41 | Quintis Steemer |
-| 539 | 41 | Joshua Madinger |
-| 540 | 41 | Ashley Marie Pierce |
+| 532 | 42 | Dandy Crasher |
+| 533 | 42 | Nai Saeteurn |
+| 534 | 41 | Shakena Tuggle |
+| 535 | 41 | Kiorah Blaze |
+| 536 | 41 | Shea Ladynick Henderson |
+| 537 | 41 | Dandy Combofall |
+| 538 | 41 | Dane Roy |
+| 539 | 41 | Quintis Steemer |
+| 540 | 41 | Joshua Madinger |
 | 541 | 41 | Tra Barnum |
 | 542 | 41 | Stitch Aura |
 | 543 | 41 | Sade Ebanks |
