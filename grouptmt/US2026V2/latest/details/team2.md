@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 12:06:18 UTC
+# Standings for team2 as of 2026-03-14 12:06:38 UTC
 
 **Total Participants:** 1510
 
@@ -516,9 +516,9 @@
 | 508 | 62 | Luna |
 | 509 | 62 | Twisty Balanceblock |
 | 510 | 61 | Jumpy Filler |
-| 511 | 61 | kippykay |
-| 512 | 61 | olympichero |
-| 513 | 61 | Comedian Gdane |
+| 511 | 61 | olympichero |
+| 512 | 61 | Comedian Gdane |
+| 513 | 61 | kippykay |
 | 514 | 61 | PrincessDonut |
 | 515 | 61 | Giovanni Distefano |
 | 516 | 61 | Christine Kelly-Sarni |
@@ -544,8 +544,8 @@
 | 536 | 60 | Melissa Bergin |
 | 537 | 60 | Karent524 |
 | 538 | 60 | DanesMama |
-| 539 | 60 | Bea Miles |
-| 540 | 60 | John Anderson |
+| 539 | 60 | John Anderson |
+| 540 | 60 | Bea Miles |
 | 541 | 59 | Christian Caro |
 | 542 | 59 | Greg Shekailo |
 | 543 | 59 | Jaylene Lawrence |
@@ -564,8 +564,8 @@
 | 556 | 58 | Clever Roll |
 | 557 | 58 | Rigoberto Sanchez Jr. |
 | 558 | 58 | MiniLinni |
-| 559 | 58 | Bryan De Guzman |
-| 560 | 58 | FuzzyKay |
+| 559 | 58 | FuzzyKay |
+| 560 | 58 | Bryan De Guzman |
 | 561 | 57 | Jazzy Pivoty |
 | 562 | 57 | Pogo 2.0 |
 | 563 | 57 | Dragon Queen |
@@ -588,8 +588,8 @@
 | 580 | 56 | Tracey Cox |
 | 581 | 56 | Clarence Ward |
 | 582 | 56 | Linda Marie Pankow |
-| 583 | 56 | Kirsten Hanes Gasper |
-| 584 | 56 | Joshua |
+| 583 | 56 | Joshua |
+| 584 | 56 | Kirsten Hanes Gasper |
 | 585 | 55 | 00022Denny |
 | 586 | 55 | Chummy Strikerbuilder |
 | 587 | 55 | Pippa45 |
@@ -609,102 +609,102 @@
 | 601 | 54 | ANIM3KNIGHT |
 | 602 | 54 | Wambo |
 | 603 | 54 | Josie Fig |
-| 604 | 54 | RzrbkParty |
-| 605 | 54 | Otf Johnta |
-| 606 | 53 | Kenerria Danielle |
+| 604 | 54 | Otf Johnta |
+| 605 | 54 | Spicy Strikerbuilder |
+| 606 | 54 | RzrbkParty |
 | 607 | 53 | Cherie Lee Heid |
-| 608 | 53 | Quags |
-| 609 | 53 | Katie |
-| 610 | 53 | Esme |
-| 611 | 52 | Jessica Santana |
-| 612 | 52 | Lively Blockroll |
-| 613 | 52 | Secret Buzz |
-| 614 | 52 | tippytappy |
-| 615 | 52 | Chummy Linkgrid |
-| 616 | 52 | Sabrina Cearley |
-| 617 | 52 | Happy Link |
-| 618 | 52 | pTarah |
-| 619 | 52 | kitykat |
-| 620 | 52 | ace |
-| 621 | 51 | Elizabeth Ostrom |
-| 622 | 51 | Penny Palmer |
-| 623 | 51 | JoJo |
-| 624 | 51 | Mackenzie Forrester |
-| 625 | 51 | Ashlee Pappaconstantinou |
-| 626 | 51 | TinaMarie Montone |
-| 627 | 51 | Katie Hughes |
-| 628 | 50 | Stitch Aura |
-| 629 | 50 | Flashy Tetriblast |
-| 630 | 50 | Tipsy Blockfall |
-| 631 | 50 | NDPeanut |
-| 632 | 50 | Shelly Babie |
-| 633 | 50 | ThriftySpice |
-| 634 | 50 | Confused Kitty |
-| 635 | 50 | Jackie Miller |
-| 636 | 50 | Rachel Anne |
-| 637 | 50 | Roll1000 |
-| 638 | 50 | Melody Santiago |
-| 639 | 50 | Chloe S |
-| 640 | 50 | Amber Lashbrook |
-| 641 | 50 | Kelly Williams |
-| 642 | 50 | Rebecca S. Cornwell |
-| 643 | 50 | Mary Love |
-| 644 | 50 | Jason Gibbs |
-| 645 | 50 | Stephany Patton |
-| 646 | 50 | Bridgett |
-| 647 | 50 | Jeremiah Mell |
-| 648 | 50 | Dda |
+| 608 | 53 | Kenerria Danielle |
+| 609 | 53 | Quags |
+| 610 | 53 | Katie |
+| 611 | 53 | Esme |
+| 612 | 52 | Jessica Santana |
+| 613 | 52 | Lively Blockroll |
+| 614 | 52 | Secret Buzz |
+| 615 | 52 | tippytappy |
+| 616 | 52 | Chummy Linkgrid |
+| 617 | 52 | Sabrina Cearley |
+| 618 | 52 | Happy Link |
+| 619 | 52 | pTarah |
+| 620 | 52 | kitykat |
+| 621 | 52 | ace |
+| 622 | 51 | Elizabeth Ostrom |
+| 623 | 51 | Penny Palmer |
+| 624 | 51 | JoJo |
+| 625 | 51 | Mackenzie Forrester |
+| 626 | 51 | Ashlee Pappaconstantinou |
+| 627 | 51 | TinaMarie Montone |
+| 628 | 51 | Katie Hughes |
+| 629 | 50 | Stitch Aura |
+| 630 | 50 | Flashy Tetriblast |
+| 631 | 50 | Tipsy Blockfall |
+| 632 | 50 | NDPeanut |
+| 633 | 50 | Shelly Babie |
+| 634 | 50 | ThriftySpice |
+| 635 | 50 | Confused Kitty |
+| 636 | 50 | Jackie Miller |
+| 637 | 50 | Rachel Anne |
+| 638 | 50 | Roll1000 |
+| 639 | 50 | Melody Santiago |
+| 640 | 50 | Chloe S |
+| 641 | 50 | Amber Lashbrook |
+| 642 | 50 | Kelly Williams |
+| 643 | 50 | Rebecca S. Cornwell |
+| 644 | 50 | Mary Love |
+| 645 | 50 | Jason Gibbs |
+| 646 | 50 | Stephany Patton |
+| 647 | 50 | Bridgett |
+| 648 | 50 | Jeremiah Mell |
 | 649 | 50 | Frisky Zonepiece |
-| 650 | 50 | Jada Tims |
-| 651 | 50 | Daquan Rovira |
-| 652 | 50 | Norma Jean |
-| 653 | 50 | Peppy Piecebuilder |
-| 654 | 49 | blockbustinbecky |
-| 655 | 49 | Dawn Alexander |
-| 656 | 49 | Lynn72 |
-| 657 | 49 | LaTonya Myers |
-| 658 | 49 | Zany Dashgrid |
-| 659 | 49 | pickle girl |
-| 660 | 49 | Ashley Marie Pierce |
-| 661 | 49 | Sherri Morgan |
-| 662 | 49 | Jolly Riserpiece |
-| 663 | 49 | Nate Price |
-| 664 | 49 | Nicole Lynnette Mahurin |
-| 665 | 48 | Robert Benjamin |
-| 666 | 48 | Scott Siple |
-| 667 | 48 | Waya |
-| 668 | 48 | Arv |
-| 669 | 48 | Nerdy Risebuilder |
-| 670 | 48 | Poppy |
-| 671 | 48 | Misty Payne Maddox |
-| 672 | 48 | Nicholas Bednarz |
-| 673 | 48 | Melissa |
-| 674 | 48 | Laura Harrington |
-| 675 | 48 | Lawan Dixon |
-| 676 | 47 | Jaquita Yancey-Smalls |
-| 677 | 47 | Chirpy Dash |
-| 678 | 47 | Cool Cornerfall |
-| 679 | 47 | Anthony Heavens |
-| 680 | 47 | Diana Fowler |
-| 681 | 47 | Cristina Black |
-| 682 | 47 | Dane Roy |
-| 683 | 47 | Bobbie Miller |
-| 684 | 47 | Frisky Blocky |
-| 685 | 46 | S05 |
-| 686 | 46 | Wacky Shuffler |
-| 687 | 46 | jardo |
-| 688 | 46 | MelaninMan |
-| 689 | 46 | Snippy Framezone |
-| 690 | 46 | Lab2dablock |
-| 691 | 46 | Haley Bell |
-| 692 | 46 | Deborah Potts |
-| 693 | 46 | Phanatic2008 |
-| 694 | 46 | Lucy Marshall |
-| 695 | 46 | Squiggle Squish |
-| 696 | 46 | Brandi Quick |
-| 697 | 45 | Shaylene Craig |
-| 698 | 45 | Whitney M Hannah |
-| 699 | 45 | Spicy Strikerbuilder |
+| 650 | 50 | Dda |
+| 651 | 50 | Jada Tims |
+| 652 | 50 | Daquan Rovira |
+| 653 | 50 | Norma Jean |
+| 654 | 50 | Peppy Piecebuilder |
+| 655 | 49 | blockbustinbecky |
+| 656 | 49 | Dawn Alexander |
+| 657 | 49 | Lynn72 |
+| 658 | 49 | LaTonya Myers |
+| 659 | 49 | Zany Dashgrid |
+| 660 | 49 | pickle girl |
+| 661 | 49 | Ashley Marie Pierce |
+| 662 | 49 | Sherri Morgan |
+| 663 | 49 | Jolly Riserpiece |
+| 664 | 49 | Nate Price |
+| 665 | 49 | Nicole Lynnette Mahurin |
+| 666 | 48 | Robert Benjamin |
+| 667 | 48 | Scott Siple |
+| 668 | 48 | Waya |
+| 669 | 48 | Arv |
+| 670 | 48 | Nerdy Risebuilder |
+| 671 | 48 | Poppy |
+| 672 | 48 | Misty Payne Maddox |
+| 673 | 48 | Nicholas Bednarz |
+| 674 | 48 | Melissa |
+| 675 | 48 | Laura Harrington |
+| 676 | 48 | Lawan Dixon |
+| 677 | 47 | Jaquita Yancey-Smalls |
+| 678 | 47 | Chirpy Dash |
+| 679 | 47 | Cool Cornerfall |
+| 680 | 47 | Anthony Heavens |
+| 681 | 47 | Diana Fowler |
+| 682 | 47 | Cristina Black |
+| 683 | 47 | Dane Roy |
+| 684 | 47 | Bobbie Miller |
+| 685 | 47 | Frisky Blocky |
+| 686 | 46 | S05 |
+| 687 | 46 | Wacky Shuffler |
+| 688 | 46 | jardo |
+| 689 | 46 | MelaninMan |
+| 690 | 46 | Snippy Framezone |
+| 691 | 46 | Lab2dablock |
+| 692 | 46 | Haley Bell |
+| 693 | 46 | Deborah Potts |
+| 694 | 46 | Phanatic2008 |
+| 695 | 46 | Lucy Marshall |
+| 696 | 46 | Squiggle Squish |
+| 697 | 46 | Brandi Quick |
+| 698 | 45 | Shaylene Craig |
+| 699 | 45 | Whitney M Hannah |
 | 700 | 45 | Groovy Builder |
 | 701 | 45 | Stacy |
 | 702 | 45 | Nice queen |
