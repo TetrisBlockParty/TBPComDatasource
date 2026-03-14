@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 00:02:15 UTC
+# Standings for team1 as of 2026-03-14 00:02:34 UTC
 
 **Total Participants:** 999
 
@@ -10,14 +10,14 @@
 | 2 | 5404 | William George Weglage III |
 | 3 | 3487 | Ariel |
 | 4 | 3166 | Dizzy Stagger |
-| 5 | 2471 | Devinlee Brown |
-| 6 | 2012 | Hyper |
-| 7 | 1936 | Amy Jerman |
+| 5 | 2671 | Devinlee Brown |
+| 6 | 2090 | Amy Jerman |
+| 7 | 2012 | Hyper |
 | 8 | 1691 | Amanda Sheppard |
 | 9 | 1519 | Itz Kevo |
 | 10 | 1398 | Amanda Patterson |
-| 11 | 1287 | Troy Gussler |
-| 12 | 1211 | Brad Oneill |
+| 11 | 1311 | Brad Oneill |
+| 12 | 1287 | Troy Gussler |
 | 13 | 1200 | Erica Lepisto Anderson |
 | 14 | 1195 | Vistabrat |
 | 15 | 1000 | Robert Jansen |
@@ -119,31 +119,31 @@
 | 111 | 117 | Danielle Kollias |
 | 112 | 115 | Michael Powers |
 | 113 | 115 | Giddy Brickclear |
-| 114 | 115 | Silly Ziggy |
-| 115 | 115 | Dī Kuykendall |
+| 114 | 115 | Dī Kuykendall |
+| 115 | 115 | Silly Ziggy |
 | 116 | 114 | Bennett Hunter |
 | 117 | 113 | Angela Phillips Kean |
 | 118 | 112 | Happy Shatterfit |
 | 119 | 111 | Krystal Mccoy |
-| 120 | 110 | Kris Koepke |
-| 121 | 110 | Philippines |
-| 122 | 108 | jenna |
-| 123 | 108 | Lisa Marie Sansom |
+| 120 | 110 | Philippines |
+| 121 | 110 | Kris Koepke |
+| 122 | 108 | Lisa Marie Sansom |
+| 123 | 108 | jenna |
 | 124 | 106 | Albert Josef Toves Means Jr. |
 | 125 | 106 | Charles Herbert |
 | 126 | 105 | Ophelia Rae |
-| 127 | 104 | Melissa Kay Gibson |
-| 128 | 103 | DreamyMoon |
+| 127 | 105 | DreamyMoon |
+| 128 | 104 | Melissa Kay Gibson |
 | 129 | 102 | Althea Louise |
 | 130 | 100 | Ann Brock LaPorte |
-| 131 | 100 | Brandy Ridgeway |
-| 132 | 100 | Cassandra Latimore |
+| 131 | 100 | Cassandra Latimore |
+| 132 | 100 | Brandy Ridgeway |
 | 133 | 99 | Christopher James Cienfuegos |
-| 134 | 98 | beep |
-| 135 | 97 | Tameka Brown |
-| 136 | 97 | Tig |
-| 137 | 96 | Victoria Davis Torie |
-| 138 | 93 | David Larter |
+| 134 | 99 | David Larter |
+| 135 | 98 | beep |
+| 136 | 97 | Tameka Brown |
+| 137 | 97 | Tig |
+| 138 | 96 | Victoria Davis Torie |
 | 139 | 93 | NunYa |
 | 140 | 91 | Walter Beltran |
 | 141 | 90 | Chill Shiftspin |
@@ -638,97 +638,97 @@
 | 630 | 19 | Michael Bruck |
 | 631 | 19 | Mike Winn |
 | 632 | 19 | Spunky Rollblock |
-| 633 | 19 | Alexandria Ritch |
-| 634 | 19 | Jordan Ward |
-| 635 | 19 | Kendra Newton |
+| 633 | 19 | cool kat |
+| 634 | 19 | Vickie Valdez-Lopez |
+| 635 | 19 | TheKBr0 |
 | 636 | 19 | CoolHand |
-| 637 | 19 | Vickie Valdez-Lopez |
-| 638 | 19 | cool kat |
-| 639 | 19 | Cassi Owens |
-| 640 | 19 | Gavin Carr |
-| 641 | 19 | TheKBr0 |
-| 642 | 19 | Kevin Sees |
+| 637 | 19 | Cassi Owens |
+| 638 | 19 | Gavin Carr |
+| 639 | 19 | Kendra Newton |
+| 640 | 19 | Jordan Ward |
+| 641 | 19 | Kevin Sees |
+| 642 | 19 | Alexandria Ritch |
 | 643 | 19 | Slinky Stacky |
-| 644 | 18 | Bingo Wingo |
-| 645 | 18 | Nunet Amen-Ra |
-| 646 | 18 | Rex Max |
-| 647 | 18 | Gregg Scott |
-| 648 | 18 | Giggly Twistslam |
-| 649 | 18 | Margie Olivas |
-| 650 | 18 | Timothy Long |
-| 651 | 18 | Trey Petty |
-| 652 | 18 | Dc |
-| 653 | 18 | Boldy Towerfall |
-| 654 | 18 | Keegan King-steele |
-| 655 | 18 | om |
-| 656 | 18 | Christi Bouten-Harmon |
+| 644 | 18 | Giggly Twistslam |
+| 645 | 18 | Gregg Scott |
+| 646 | 18 | Bingo Wingo |
+| 647 | 18 | Nunet Amen-Ra |
+| 648 | 18 | om |
+| 649 | 18 | Rex Max |
+| 650 | 18 | YaKima Frisby Walker |
+| 651 | 18 | Margie Olivas |
+| 652 | 18 | Keegan King-steele |
+| 653 | 18 | Christi Bouten-Harmon |
+| 654 | 18 | Boldy Towerfall |
+| 655 | 18 | Dc |
+| 656 | 18 | Trey Petty |
 | 657 | 18 | Neomi Perdue |
-| 658 | 18 | YaKima Frisby Walker |
+| 658 | 18 | Timothy Long |
 | 659 | 18 | Florna Primrose |
-| 660 | 17 | Dominic G Terriaca |
+| 660 | 17 | Jason S |
 | 661 | 17 | Santana Valeri |
-| 662 | 17 | Jason S |
-| 663 | 17 | Giddy Balancepiece |
-| 664 | 17 | Shay J Duval |
-| 665 | 17 | Danelle Sulentic |
-| 666 | 17 | Kjnals Wall |
-| 667 | 17 | Tina Kocher Zimmerman |
-| 668 | 17 | Raynsera |
-| 669 | 17 | Wish YaKnee |
-| 670 | 17 | Renee Elam |
-| 671 | 16 | Erich EMac McIntosh |
-| 672 | 16 | Melissa Hart |
-| 673 | 16 | Tbuzz |
-| 674 | 16 | AJ |
-| 675 | 16 | eightball119 |
-| 676 | 16 | Cool Dasher |
-| 677 | 16 | Laurel |
-| 678 | 16 | Quaheem Brown-Riley |
-| 679 | 16 | Antoinette Rhinesmith |
-| 680 | 16 | Anne Garcia |
-| 681 | 16 | Witty Cascader |
-| 682 | 15 | shelly |
-| 683 | 15 | Jennifer Stone |
-| 684 | 15 | Renee |
-| 685 | 15 | Jaay |
-| 686 | 15 | Julie Moore |
-| 687 | 15 | Angela |
-| 688 | 15 | Ashley Cox |
-| 689 | 15 | DynamicQuail10 |
-| 690 | 15 | Ellen Maxwell Capstaff |
-| 691 | 15 | Spam |
-| 692 | 15 | Mighty Piececlear |
-| 693 | 15 | Lavender |
-| 694 | 15 | Adam Stephanie Parker |
-| 695 | 15 | Yvonne Buie |
-| 696 | 15 | Ruhshikuh Lakor |
-| 697 | 15 | Zesty Fitclear |
-| 698 | 15 | Edwards Dave |
-| 699 | 15 | Ody |
-| 700 | 15 | Angelina Maldonado |
-| 701 | 15 | Ambrosia Natas Danu |
-| 702 | 15 | ZhenZhen |
-| 703 | 15 | Matthew Foley |
-| 704 | 15 | Erica Wynne |
-| 705 | 15 | Nikki Robinson |
-| 706 | 15 | Yenene |
-| 707 | 15 | Maricia Coleman |
-| 708 | 15 | Armin Muhamed |
-| 709 | 15 | William Ramirez |
-| 710 | 15 | Kathy Searles |
-| 711 | 15 | Esav Castro |
-| 712 | 15 | Joanne Marie |
-| 713 | 15 | Lush Buildout |
-| 714 | 15 | Christopher Wesley |
+| 662 | 17 | Giddy Balancepiece |
+| 663 | 17 | Shay J Duval |
+| 664 | 17 | Tina Kocher Zimmerman |
+| 665 | 17 | Dominic G Terriaca |
+| 666 | 17 | Renee Elam |
+| 667 | 17 | Danelle Sulentic |
+| 668 | 17 | Wish YaKnee |
+| 669 | 17 | Kjnals Wall |
+| 670 | 17 | Raynsera |
+| 671 | 16 | Witty Cascader |
+| 672 | 16 | AJ |
+| 673 | 16 | Quaheem Brown-Riley |
+| 674 | 16 | Melissa Hart |
+| 675 | 16 | Laurel |
+| 676 | 16 | Tbuzz |
+| 677 | 16 | Erich EMac McIntosh |
+| 678 | 16 | Antoinette Rhinesmith |
+| 679 | 16 | eightball119 |
+| 680 | 16 | Cool Dasher |
+| 681 | 16 | Anne Garcia |
+| 682 | 16 | Matthew Foley |
+| 683 | 15 | Spam |
+| 684 | 15 | Mighty Piececlear |
+| 685 | 15 | DynamicQuail10 |
+| 686 | 15 | Ashley Cox |
+| 687 | 15 | Jaay |
+| 688 | 15 | Adam Stephanie Parker |
+| 689 | 15 | Angela |
+| 690 | 15 | Lavender |
+| 691 | 15 | Yvonne Buie |
+| 692 | 15 | Jennifer Stone |
+| 693 | 15 | Renee |
+| 694 | 15 | Julie Moore |
+| 695 | 15 | Ellen Maxwell Capstaff |
+| 696 | 15 | shelly |
+| 697 | 15 | Maricia Coleman |
+| 698 | 15 | Erica Wynne |
+| 699 | 15 | Angelina Maldonado |
+| 700 | 15 | Ambrosia Natas Danu |
+| 701 | 15 | ZhenZhen |
+| 702 | 15 | Ruhshikuh Lakor |
+| 703 | 15 | Nikki Robinson |
+| 704 | 15 | Yenene |
+| 705 | 15 | Ody |
+| 706 | 15 | Zesty Fitclear |
+| 707 | 15 | Armin Muhamed |
+| 708 | 15 | William Ramirez |
+| 709 | 15 | Kathy Searles |
+| 710 | 15 | Esav Castro |
+| 711 | 15 | Joanne Marie |
+| 712 | 15 | Lush Buildout |
+| 713 | 15 | Christopher Wesley |
+| 714 | 15 | Edwards Dave |
 | 715 | 14 | Cindy Lee Johnson |
-| 716 | 14 | April Moore |
-| 717 | 14 | Shekita Gibbs |
-| 718 | 14 | Fancy Wobbler |
-| 719 | 14 | Kelli Pazour |
-| 720 | 14 | James Martin |
-| 721 | 14 | Jennifer Brandle |
-| 722 | 14 | MammaCass |
-| 723 | 14 | Katie Martin |
+| 716 | 14 | Jennifer Brandle |
+| 717 | 14 | April Moore |
+| 718 | 14 | Shekita Gibbs |
+| 719 | 14 | Fancy Wobbler |
+| 720 | 14 | Kelli Pazour |
+| 721 | 14 | James Martin |
+| 722 | 14 | Katie Martin |
+| 723 | 14 | MammaCass |
 | 724 | 14 | KissedbyKinny |
 | 725 | 14 | Marie Shakinah |
 | 726 | 14 | OneBuke FollowMe |
