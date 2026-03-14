@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 04:08:17 UTC
+# Standings for team1 as of 2026-03-14 04:08:37 UTC
 
 **Total Participants:** 1325
 
@@ -174,21 +174,21 @@
 | 166 | 128 | Marie Helman |
 | 167 | 126 | Scott Disedare |
 | 168 | 124 | Kris Koepke |
-| 169 | 123 | Tanya Carpenter-Reynolds |
-| 170 | 120 | StankyP |
+| 169 | 123 | Jumpy Spinblock |
+| 170 | 123 | Tanya Carpenter-Reynolds |
 | 171 | 120 | Fatima Washington |
-| 172 | 119 | Pheezy |
-| 173 | 117 | Danielle Kollias |
-| 174 | 117 | QueenBee |
-| 175 | 117 | Laura Morrison |
-| 176 | 115 | Giddy Brickclear |
-| 177 | 115 | Dī Kuykendall |
-| 178 | 115 | Silly Ziggy |
-| 179 | 114 | Bennett Hunter |
-| 180 | 114 | Krystal Mccoy |
-| 181 | 114 | Karmyst |
-| 182 | 113 | Jaame Courtney |
-| 183 | 113 | Jumpy Spinblock |
+| 172 | 120 | StankyP |
+| 173 | 119 | Pheezy |
+| 174 | 117 | Danielle Kollias |
+| 175 | 117 | QueenBee |
+| 176 | 117 | Laura Morrison |
+| 177 | 115 | Giddy Brickclear |
+| 178 | 115 | Dī Kuykendall |
+| 179 | 115 | Silly Ziggy |
+| 180 | 114 | Bennett Hunter |
+| 181 | 114 | Krystal Mccoy |
+| 182 | 114 | Karmyst |
+| 183 | 113 | Jaame Courtney |
 | 184 | 113 | David Larter |
 | 185 | 113 | FancyPants |
 | 186 | 111 | Tausha Mathews |
@@ -258,19 +258,19 @@
 | 250 | 86 | Nicole Plummer |
 | 251 | 85 | Jason Hawk |
 | 252 | 85 | Ryry |
-| 253 | 84 | Moe Thought |
-| 254 | 84 | Erin Hodges Plumb |
+| 253 | 84 | Jason Cunningham |
+| 254 | 84 | Moe Thought |
 | 255 | 84 | Tessa N Davis |
-| 256 | 82 | Jennifer Negrete |
+| 256 | 84 | Erin Hodges Plumb |
 | 257 | 82 | Ecami |
-| 258 | 81 | Jason Cunningham |
+| 258 | 82 | Jennifer Negrete |
 | 259 | 81 | Kim Bays |
-| 260 | 80 | Hannah Carter |
-| 261 | 80 | bea |
-| 262 | 80 | Rebecca Rognerud |
-| 263 | 80 | Tami Luce Martin |
-| 264 | 80 | JustMeNonna |
-| 265 | 80 | Teddy Marshall |
+| 260 | 80 | Teddy Marshall |
+| 261 | 80 | JustMeNonna |
+| 262 | 80 | Tami Luce Martin |
+| 263 | 80 | Hannah Carter |
+| 264 | 80 | bea |
+| 265 | 80 | Rebecca Rognerud |
 | 266 | 80 | TetrisWoo |
 | 267 | 80 | HugeLoad |
 | 268 | 80 | Katt Brown-Thomas |
@@ -415,95 +415,95 @@
 | 407 | 53 | Tisha Cammack |
 | 408 | 53 | Jenn Lunsford |
 | 409 | 53 | Nick R Johnson |
-| 410 | 52 | Jai |
+| 410 | 52 | Ernie Guyette |
 | 411 | 52 | Happy Feet |
 | 412 | 52 | Goofy Linkblock |
 | 413 | 52 | Melody Rene |
-| 414 | 52 | kelso |
-| 415 | 52 | Kelly Miller Williams |
-| 416 | 52 | Misty Blanchard |
-| 417 | 52 | Regina Jones |
-| 418 | 52 | Frisky Glidebuilder |
-| 419 | 52 | Bribrobra |
-| 420 | 52 | Michael Phillips |
-| 421 | 52 | Tiffany Armen |
-| 422 | 52 | Ernie Guyette |
-| 423 | 51 | Cheryl Villa |
-| 424 | 51 | Jonnelle Partin |
+| 414 | 52 | Kelly Miller Williams |
+| 415 | 52 | kelso |
+| 416 | 52 | Dominic G Terriaca |
+| 417 | 52 | Misty Blanchard |
+| 418 | 52 | Jai |
+| 419 | 52 | Frisky Glidebuilder |
+| 420 | 52 | Bribrobra |
+| 421 | 52 | Michael Phillips |
+| 422 | 52 | Tiffany Armen |
+| 423 | 52 | Regina Jones |
+| 424 | 51 | Suzan Frazier |
 | 425 | 51 | Joyce Harrell-chavis |
-| 426 | 51 | Suzan Frazier |
-| 427 | 51 | Crruth |
-| 428 | 50 | JonCorry Story |
-| 429 | 50 | Jason Rogers |
-| 430 | 50 | Aponk |
-| 431 | 50 | Carla Valenzisi |
+| 426 | 51 | Jonnelle Partin |
+| 427 | 51 | Cheryl Villa |
+| 428 | 51 | Crruth |
+| 429 | 50 | Andy Harris |
+| 430 | 50 | KK |
+| 431 | 50 | Crystal Claypool |
 | 432 | 50 | Chris Kelly |
-| 433 | 50 | Andy Harris |
-| 434 | 50 | CL Meyer |
-| 435 | 50 | Glitzy Linkpiece |
-| 436 | 50 | Crafty Tilebuilder |
-| 437 | 50 | KK |
-| 438 | 50 | Crystal Claypool |
-| 439 | 50 | Mean Melly |
-| 440 | 49 | Tabitha Cornelious |
-| 441 | 49 | Hi |
-| 442 | 49 | Slatt Aint Going |
-| 443 | 49 | Jumpy Winder |
+| 433 | 50 | Crafty Tilebuilder |
+| 434 | 50 | Glitzy Linkpiece |
+| 435 | 50 | CL Meyer |
+| 436 | 50 | Mean Melly |
+| 437 | 50 | JonCorry Story |
+| 438 | 50 | Carla Valenzisi |
+| 439 | 50 | Aponk |
+| 440 | 50 | Jason Rogers |
+| 441 | 49 | Hyper Drop |
+| 442 | 49 | Oscar Ferguson |
+| 443 | 49 | Slatt Aint Going |
 | 444 | 49 | Nora Smith |
 | 445 | 49 | Lorie Atwood |
-| 446 | 49 | Oscar Ferguson |
-| 447 | 49 | slim |
-| 448 | 49 | Hyper Drop |
-| 449 | 49 | CoolHand |
-| 450 | 49 | Paul Stafford |
-| 451 | 49 | Dale |
-| 452 | 49 | Shelly Fannon |
-| 453 | 49 | Danessa Pettite |
-| 454 | 49 | Breezy Ivy |
-| 455 | 48 | Marianne Louise West |
-| 456 | 48 | Penny Clark |
-| 457 | 48 | Lacey Palatka |
-| 458 | 48 | Ashley Kostek |
-| 459 | 48 | Jennie Lee Huntley |
-| 460 | 48 | Dominic G Terriaca |
-| 461 | 48 | Matthew Allan |
-| 462 | 47 | Jason S |
-| 463 | 47 | Michael Wood |
-| 464 | 47 | Karon Miller Hammond |
-| 465 | 47 | Michelle Lee |
-| 466 | 47 | FireHawk |
-| 467 | 47 | Zippy Cascadezone |
+| 446 | 49 | Hi |
+| 447 | 49 | Tabitha Cornelious |
+| 448 | 49 | Dale |
+| 449 | 49 | Shelly Fannon |
+| 450 | 49 | Jumpy Winder |
+| 451 | 49 | CoolHand |
+| 452 | 49 | Danessa Pettite |
+| 453 | 49 | Breezy Ivy |
+| 454 | 49 | slim |
+| 455 | 49 | Paul Stafford |
+| 456 | 48 | Lacey Palatka |
+| 457 | 48 | Jennie Lee Huntley |
+| 458 | 48 | Penny Clark |
+| 459 | 48 | Marianne Louise West |
+| 460 | 48 | Matthew Allan |
+| 461 | 48 | Ashley Kostek |
+| 462 | 47 | Jordan Leach |
+| 463 | 47 | Jason S |
+| 464 | 47 | FireHawk |
+| 465 | 47 | Michael Wood |
+| 466 | 47 | Karon Miller Hammond |
+| 467 | 47 | iceman |
 | 468 | 47 | Peter HM Han |
-| 469 | 47 | iceman |
-| 470 | 47 | Jordan Leach |
-| 471 | 46 | Jen |
-| 472 | 46 | Will Fulmer |
-| 473 | 46 | Flashy Stacky |
+| 469 | 47 | Michelle Lee |
+| 470 | 47 | Zippy Cascadezone |
+| 471 | 46 | Will Fulmer |
+| 472 | 46 | Zesty Blockclear |
+| 473 | 46 | Tina Kocher Zimmerman |
 | 474 | 46 | Daring Roll |
-| 475 | 46 | Zesty Blockclear |
-| 476 | 46 | Tina Kocher Zimmerman |
-| 477 | 45 | April Bennett |
-| 478 | 45 | Crystal Eubanks |
-| 479 | 45 | Wacky Brickster |
+| 475 | 46 | Flashy Stacky |
+| 476 | 46 | Jen |
+| 477 | 45 | DeJuan Green |
+| 478 | 45 | belinda rocky |
+| 479 | 45 | Ryne Pinkston |
 | 480 | 45 | Casterbation |
-| 481 | 45 | belinda rocky |
-| 482 | 45 | DeJuan Green |
-| 483 | 45 | Amber McDonald |
-| 484 | 45 | Joanne Marie |
-| 485 | 45 | Ryne Pinkston |
-| 486 | 44 | Glauf |
-| 487 | 44 | Zesty Balancepiece |
-| 488 | 44 | Kelly Davila |
-| 489 | 44 | Nunya |
-| 490 | 44 | Jasmine Riley |
-| 491 | 44 | Julie Moore |
-| 492 | 44 | Dish19 |
-| 493 | 44 | CupcakeEyes |
-| 494 | 44 | Michael Felker |
-| 495 | 44 | Saucy Tilemaker |
-| 496 | 44 | Boldy Clicky |
-| 497 | 44 | TheBiz2 |
-| 498 | 44 | Neko Preston |
+| 481 | 45 | April Bennett |
+| 482 | 45 | Crystal Eubanks |
+| 483 | 45 | Joanne Marie |
+| 484 | 45 | Amber McDonald |
+| 485 | 45 | Wacky Brickster |
+| 486 | 44 | Zesty Balancepiece |
+| 487 | 44 | Glauf |
+| 488 | 44 | Dish19 |
+| 489 | 44 | Kelly Davila |
+| 490 | 44 | CupcakeEyes |
+| 491 | 44 | Boldy Clicky |
+| 492 | 44 | Nunya |
+| 493 | 44 | Jasmine Riley |
+| 494 | 44 | Julie Moore |
+| 495 | 44 | Neko Preston |
+| 496 | 44 | Michael Felker |
+| 497 | 44 | Saucy Tilemaker |
+| 498 | 44 | TheBiz2 |
 | 499 | 43 | Herm Junior |
 | 500 | 43 | Susan Marsh |
 | 501 | 43 | Daniel Lopez |
