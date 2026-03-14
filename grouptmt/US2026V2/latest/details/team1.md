@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 23:56:40 UTC
+# Standings for team1 as of 2026-03-14 23:57:18 UTC
 
 **Total Participants:** 1945
 
@@ -92,18 +92,18 @@
 | 84 | 777 | Amee Schnarrs |
 | 85 | 773 | Donald Nguyen |
 | 86 | 772 | Andy Harris |
-| 87 | 747 | Tyle Armstead |
-| 88 | 739 | Ana Fernanda Sanchez |
-| 89 | 719 | Tina Blessed Cage |
-| 90 | 709 | Amy R Clinton |
-| 91 | 697 | Kimberly Howell-Henley |
+| 87 | 757 | Kimberly Howell-Henley |
+| 88 | 747 | Tyle Armstead |
+| 89 | 739 | Ana Fernanda Sanchez |
+| 90 | 719 | Tina Blessed Cage |
+| 91 | 709 | Amy R Clinton |
 | 92 | 696 | Joshua Dye |
 | 93 | 693 | FancyPants |
 | 94 | 683 | Michael Powers |
 | 95 | 659 | Charis Stoner |
 | 96 | 651 | Kat Mfm Kaul |
 | 97 | 638 | Crawford Candice |
-| 98 | 634 | Letson Melissa |
+| 98 | 635 | Letson Melissa |
 | 99 | 634 | LeeAnn Martindale |
 | 100 | 630 | Sarah Durmer |
 | 101 | 629 | Bold Clear |
@@ -140,17 +140,17 @@
 | 132 | 446 | Marie Helman |
 | 133 | 438 | Robert Everett |
 | 134 | 417 | Simmone T. Kadiri |
-| 135 | 416 | Tisha Cammack |
-| 136 | 415 | Jme |
-| 137 | 412 | Shaynna Garza |
+| 135 | 416 | Shaynna Garza |
+| 136 | 416 | Tisha Cammack |
+| 137 | 415 | Jme |
 | 138 | 403 | beep |
-| 139 | 400 | Jessica Sheehan |
-| 140 | 394 | Yolanda M Harris |
-| 141 | 391 | Marie Shakinah |
+| 139 | 402 | Giddy Balancepiece |
+| 140 | 400 | Jessica Sheehan |
+| 141 | 394 | Yolanda M Harris |
 | 142 | 391 | Fluffy |
-| 143 | 389 | Twisty Snapfit |
-| 144 | 378 | paupau |
-| 145 | 377 | Giddy Balancepiece |
+| 143 | 391 | Marie Shakinah |
+| 144 | 389 | Twisty Snapfit |
+| 145 | 378 | paupau |
 | 146 | 377 | Frilly Climber |
 | 147 | 375 | Fancy Ziggy |
 | 148 | 373 | Snippy Stacky |
@@ -1098,88 +1098,88 @@
 | 1090 | 40 | Witty Shatterline |
 | 1091 | 40 | Brat |
 | 1092 | 40 | Jamie Jury |
-| 1093 | 40 | Brandon Watkins |
-| 1094 | 40 | Movieproducer Kennyg |
-| 1095 | 40 | Lisa Gayle Skinner |
-| 1096 | 40 | Shane Caskey |
-| 1097 | 40 | Wayne Kentarski |
-| 1098 | 40 | Sunny |
-| 1099 | 40 | Sarah Ploughe |
-| 1100 | 40 | Michelle Pike |
-| 1101 | 40 | Quaheem Brown-Riley |
+| 1093 | 40 | Sarah Ploughe |
+| 1094 | 40 | Michelle Pike |
+| 1095 | 40 | Brandon Watkins |
+| 1096 | 40 | Brandi Huntington |
+| 1097 | 40 | BIGOONS |
+| 1098 | 40 | BeeDub |
+| 1099 | 40 | Nun YA |
+| 1100 | 40 | Robyn Massey |
+| 1101 | 40 | Alexandra Karavias |
 | 1102 | 40 | Shannon Tannehill |
-| 1103 | 40 | Funky Strikerbuilder |
+| 1103 | 40 | Quaheem Brown-Riley |
 | 1104 | 40 | Dapper Twistline |
-| 1105 | 40 | Brandi Huntington |
-| 1106 | 40 | BIGOONS |
-| 1107 | 40 | BeeDub |
-| 1108 | 40 | Robyn Massey |
-| 1109 | 40 | Nun YA |
-| 1110 | 40 | Hyper Clear |
-| 1111 | 40 | Alexandra Karavias |
-| 1112 | 40 | Angela |
-| 1113 | 40 | Stephanie Holman |
-| 1114 | 40 | Alex Nicol |
+| 1105 | 40 | Hyper Clear |
+| 1106 | 40 | Wayne Kentarski |
+| 1107 | 40 | Movieproducer Kennyg |
+| 1108 | 40 | Sharon Panoski |
+| 1109 | 40 | Christi Burley |
+| 1110 | 40 | Happy Tilerpiece |
+| 1111 | 40 | Flashy Clicky |
+| 1112 | 40 | Alexus Goncalo |
+| 1113 | 40 | Sunny |
+| 1114 | 40 | Stephanie Holman |
 | 1115 | 40 | Aseven Elements |
-| 1116 | 40 | Alexus Goncalo |
-| 1117 | 40 | Jesus Garcia |
-| 1118 | 40 | Sharon Panoski |
-| 1119 | 40 | Flashy Clicky |
-| 1120 | 40 | James Alexander Gonzales |
-| 1121 | 40 | Phoenix Garrett |
-| 1122 | 40 | Happy Tilerpiece |
-| 1123 | 40 | Christi Burley |
-| 1124 | 40 | Melody Quinn |
-| 1125 | 39 | Purple Pixie |
-| 1126 | 39 | Spicy Buildsnap |
-| 1127 | 39 | Hoppy Shatterfit |
-| 1128 | 39 | mindgames |
-| 1129 | 39 | Lacey Renee Dietz |
-| 1130 | 39 | Berenice |
-| 1131 | 39 | Nuga |
-| 1132 | 39 | Michael Hain |
-| 1133 | 39 | Perky Glidebuilder |
-| 1134 | 39 | Lively Pivotfall |
-| 1135 | 39 | Daniel McKay |
-| 1136 | 39 | Gloria Barton |
-| 1137 | 39 | Jesse Young |
-| 1138 | 39 | Flashy Wipeblock |
-| 1139 | 39 | Amy Niemeier |
-| 1140 | 39 | ldm |
-| 1141 | 39 | John DeMoss |
-| 1142 | 39 | Jason Dickess |
-| 1143 | 39 | Jennifer Rhea |
-| 1144 | 39 | Nunet Amen-Ra |
-| 1145 | 39 | Paul Osborne |
-| 1146 | 38 | Bill Frederick |
-| 1147 | 38 | Quirky Crawler |
-| 1148 | 38 | Christina Davis |
-| 1149 | 38 | Antoinette Rhinesmith |
-| 1150 | 38 | Kelli Marie |
-| 1151 | 38 | Mathhew Tompkins |
-| 1152 | 38 | Chirpy Glidebuilder |
-| 1153 | 38 | Caitlin Baylor |
-| 1154 | 38 | Anne Oliver |
-| 1155 | 38 | Starlight |
+| 1116 | 40 | Melody Quinn |
+| 1117 | 40 | Alex Nicol |
+| 1118 | 40 | Phoenix Garrett |
+| 1119 | 40 | Shane Caskey |
+| 1120 | 40 | Jesus Garcia |
+| 1121 | 40 | Lisa Gayle Skinner |
+| 1122 | 40 | James Alexander Gonzales |
+| 1123 | 40 | Funky Strikerbuilder |
+| 1124 | 40 | Angela |
+| 1125 | 39 | Spicy Buildsnap |
+| 1126 | 39 | Purple Pixie |
+| 1127 | 39 | Lively Pivotfall |
+| 1128 | 39 | Mary Boo |
+| 1129 | 39 | Daniel McKay |
+| 1130 | 39 | Flashy Wipeblock |
+| 1131 | 39 | Perky Glidebuilder |
+| 1132 | 39 | Hoppy Shatterfit |
+| 1133 | 39 | mindgames |
+| 1134 | 39 | Lacey Renee Dietz |
+| 1135 | 39 | Berenice |
+| 1136 | 39 | Jesse Young |
+| 1137 | 39 | Amy Niemeier |
+| 1138 | 39 | Nuga |
+| 1139 | 39 | ldm |
+| 1140 | 39 | John DeMoss |
+| 1141 | 39 | Michael Hain |
+| 1142 | 39 | Gloria Barton |
+| 1143 | 39 | Paul Osborne |
+| 1144 | 39 | Jason Dickess |
+| 1145 | 39 | Nunet Amen-Ra |
+| 1146 | 39 | Jennifer Rhea |
+| 1147 | 38 | Christina Davis |
+| 1148 | 38 | Caitlin Baylor |
+| 1149 | 38 | Kelli Marie |
+| 1150 | 38 | Antoinette Rhinesmith |
+| 1151 | 38 | Bill Frederick |
+| 1152 | 38 | Quirky Crawler |
+| 1153 | 38 | Mathhew Tompkins |
+| 1154 | 38 | Rik |
+| 1155 | 38 | Araceli Gomez |
 | 1156 | 38 | Groovy Builder |
-| 1157 | 38 | Araceli Gomez |
-| 1158 | 38 | Rik |
-| 1159 | 38 | Roy Burgess |
-| 1160 | 38 | Shelly Cunningham |
-| 1161 | 38 | Boldy Twisterfit |
-| 1162 | 38 | Ronald Przytulski |
-| 1163 | 37 | Jay Aye |
-| 1164 | 37 | Tara Lawson |
-| 1165 | 37 | Marisa Tesch |
-| 1166 | 37 | Big mama 2010 |
-| 1167 | 37 | Tipsy Buildgrid |
-| 1168 | 37 | Elizabeth A Cobuccio |
-| 1169 | 37 | Leonna Bianchi |
-| 1170 | 37 | Sunny Frame |
-| 1171 | 37 | James Martin |
-| 1172 | 37 | Sloop Betty |
-| 1173 | 37 | Adrien M Roberson |
-| 1174 | 37 | Mary Boo |
+| 1157 | 38 | Boldy Twisterfit |
+| 1158 | 38 | Chirpy Glidebuilder |
+| 1159 | 38 | Anne Oliver |
+| 1160 | 38 | Roy Burgess |
+| 1161 | 38 | Ronald Przytulski |
+| 1162 | 38 | Shelly Cunningham |
+| 1163 | 38 | Starlight |
+| 1164 | 37 | Marisa Tesch |
+| 1165 | 37 | Tara Lawson |
+| 1166 | 37 | Jay Aye |
+| 1167 | 37 | Big mama 2010 |
+| 1168 | 37 | Tipsy Buildgrid |
+| 1169 | 37 | Elizabeth A Cobuccio |
+| 1170 | 37 | Leonna Bianchi |
+| 1171 | 37 | Sunny Frame |
+| 1172 | 37 | James Martin |
+| 1173 | 37 | Sloop Betty |
+| 1174 | 37 | Adrien M Roberson |
 | 1175 | 37 | Any Michelle Kounou |
 | 1176 | 37 | Cristian Ramirez Lazaro |
 | 1177 | 36 | Natalie Wilson |
