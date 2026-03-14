@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 10:04:17 UTC
+# Standings for team1 as of 2026-03-14 10:05:17 UTC
 
 **Total Participants:** 1534
 
@@ -37,7 +37,7 @@
 | 29 | 1298 | Jordan W Hamilton |
 | 30 | 1287 | Paul Smiar |
 | 31 | 1267 | Katie Daniels |
-| 32 | 1228 | Xande NO Lie Williams |
+| 32 | 1232 | Xande NO Lie Williams |
 | 33 | 1195 | Vistabrat |
 | 34 | 1157 | Marianne Elizabeth Mills |
 | 35 | 1150 | Angel Smith |
@@ -155,9 +155,9 @@
 | 147 | 197 | Dawn Hoffman |
 | 148 | 196 | Jason Whitehair |
 | 149 | 196 | Giddy Balancepiece |
-| 150 | 194 | Foulplay176 |
-| 151 | 193 | Angela Phillips Kean |
-| 152 | 192 | DeeBee |
+| 150 | 195 | DeeBee |
+| 151 | 194 | Foulplay176 |
+| 152 | 193 | Angela Phillips Kean |
 | 153 | 192 | Groovy Glidepiece |
 | 154 | 192 | Marie Shakinah |
 | 155 | 191 | David Zeimer |
@@ -212,40 +212,40 @@
 | 204 | 140 | Poppy Builderline |
 | 205 | 140 | Allena Craft |
 | 206 | 138 | Cynthia Petz |
-| 207 | 138 | Big rick !!! |
-| 208 | 138 | David Rojas |
-| 209 | 136 | Porshe Garthwaite |
-| 210 | 135 | Bingo Wingo |
-| 211 | 134 | Lively Patternfall |
-| 212 | 134 | Armoni |
-| 213 | 132 | Trina Gee |
-| 214 | 132 | Jennifer Lynn |
-| 215 | 132 | Eric Hoffman |
-| 216 | 130 | Philippines |
-| 217 | 130 | Florna Primrose |
-| 218 | 129 | Gina Annese |
-| 219 | 128 | Bryan Temple |
+| 207 | 138 | David Rojas |
+| 208 | 138 | Big rick !!! |
+| 209 | 137 | Joy Bloodworth |
+| 210 | 136 | Porshe Garthwaite |
+| 211 | 135 | Bingo Wingo |
+| 212 | 134 | Lively Patternfall |
+| 213 | 134 | Armoni |
+| 214 | 132 | Trina Gee |
+| 215 | 132 | Jennifer Lynn |
+| 216 | 132 | Eric Hoffman |
+| 217 | 130 | Philippines |
+| 218 | 130 | Florna Primrose |
+| 219 | 129 | Gina Annese |
 | 220 | 128 | Marie Helman |
-| 221 | 127 | Pheezy |
-| 222 | 126 | Jason Cunningham |
-| 223 | 126 | Marianne Lopez |
-| 224 | 126 | Scott Disedare |
-| 225 | 126 | Muhammad |
-| 226 | 126 | Kathy Karjala |
-| 227 | 125 | Jaay |
-| 228 | 124 | Amanda Pauldo-Ivy |
-| 229 | 124 | Adam McMakin |
-| 230 | 124 | Joy Bloodworth |
+| 221 | 128 | Bryan Temple |
+| 222 | 127 | Pheezy |
+| 223 | 126 | Muhammad |
+| 224 | 126 | Kathy Karjala |
+| 225 | 126 | Scott Disedare |
+| 226 | 126 | Jason Cunningham |
+| 227 | 126 | Marianne Lopez |
+| 228 | 125 | Jaay |
+| 229 | 124 | Amanda Pauldo-Ivy |
+| 230 | 124 | Adam McMakin |
 | 231 | 123 | Natasha King |
 | 232 | 123 | Tanya Carpenter-Reynolds |
 | 233 | 122 | Lisa Marie Sansom |
 | 234 | 121 | Jonathan Gaffaney |
-| 235 | 120 | Mufi25 |
-| 236 | 120 | Amh |
-| 237 | 120 | StankyP |
+| 235 | 120 | StankyP |
+| 236 | 120 | Mufi25 |
+| 237 | 120 | Amh |
 | 238 | 118 | Crystal Rosen |
-| 239 | 117 | Danielle Kollias |
-| 240 | 117 | QueenBee |
+| 239 | 117 | QueenBee |
+| 240 | 117 | Danielle Kollias |
 | 241 | 117 | Laura Morrison |
 | 242 | 117 | Dī Kuykendall |
 | 243 | 116 | Sassy Cascadepiece |
@@ -1517,29 +1517,29 @@
 | 1509 | 5 | Rolly956 |
 | 1510 | 5 | Blossom |
 | 1511 | 5 | Eternity Paulley |
-| 1512 | 5 | Isaiah Brand |
-| 1513 | 5 | Sassy Pivotfall |
-| 1514 | 5 | Happy Swipe |
-| 1515 | 5 | Michelle Caudillo |
-| 1516 | 5 | Jessi Godsey |
-| 1517 | 5 | Peachy Snaplink |
-| 1518 | 5 | Chris JonesSr |
-| 1519 | 5 | GoatHimothy |
-| 1520 | 5 | Melodie Nelson |
-| 1521 | 5 | Perky Matchpiece |
-| 1522 | 5 | Snappy Blockfall |
-| 1523 | 5 | Derrick See |
-| 1524 | 5 | Sarajo Clauson |
-| 1525 | 5 | Beatrice Williams |
-| 1526 | 5 | Benjamin Ford |
-| 1527 | 5 | Jeanna Thompson |
-| 1528 | 5 | Taquilla Branch |
-| 1529 | 5 | KingFlex Haile Jr |
-| 1530 | 5 | çushy |
-| 1531 | 5 | Flashy Buildgrid |
-| 1532 | 5 | Zany Glidepiece |
-| 1533 | 5 | Ronda Helton Prater |
-| 1534 | 5 | Amber Wolfe |
+| 1512 | 5 | Beatrice Williams |
+| 1513 | 5 | Isaiah Brand |
+| 1514 | 5 | Sassy Pivotfall |
+| 1515 | 5 | Happy Swipe |
+| 1516 | 5 | Michelle Caudillo |
+| 1517 | 5 | Jessi Godsey |
+| 1518 | 5 | Peachy Snaplink |
+| 1519 | 5 | Chris JonesSr |
+| 1520 | 5 | GoatHimothy |
+| 1521 | 5 | Melodie Nelson |
+| 1522 | 5 | Perky Matchpiece |
+| 1523 | 5 | Snappy Blockfall |
+| 1524 | 5 | Derrick See |
+| 1525 | 5 | Amber Wolfe |
+| 1526 | 5 | Ronda Helton Prater |
+| 1527 | 5 | Zany Glidepiece |
+| 1528 | 5 | Flashy Buildgrid |
+| 1529 | 5 | çushy |
+| 1530 | 5 | KingFlex Haile Jr |
+| 1531 | 5 | Taquilla Branch |
+| 1532 | 5 | Jeanna Thompson |
+| 1533 | 5 | Benjamin Ford |
+| 1534 | 5 | Sarajo Clauson |
 
 ---
 *Standings created by tournaments datasource generation tool*
