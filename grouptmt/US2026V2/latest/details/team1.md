@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 15:38:18 UTC
+# Standings for team1 as of 2026-03-14 15:38:40 UTC
 
 **Total Participants:** 1711
 
@@ -59,10 +59,10 @@
 | 51 | 1003 | Giddy Cascade |
 | 52 | 1002 | Hellsin |
 | 53 | 989 | Donavon Krahn |
-| 54 | 971 | Ramon Salazar |
-| 55 | 946 | Bold Zonegrid |
-| 56 | 941 | Kris Hudelson |
-| 57 | 931 | Cheeky Crusher |
+| 54 | 971 | Cheeky Crusher |
+| 55 | 971 | Ramon Salazar |
+| 56 | 946 | Bold Zonegrid |
+| 57 | 941 | Kris Hudelson |
 | 58 | 914 | Zach Thompson |
 | 59 | 911 | Mikitta Calvin |
 | 60 | 868 | Renee Weedling |
@@ -123,8 +123,8 @@
 | 115 | 367 | paupau |
 | 116 | 365 | Alex Hennigh |
 | 117 | 361 | Lisa Marie Sansom |
-| 118 | 356 | @n@luvmakin |
-| 119 | 356 | Rennon Scott Wilson |
+| 118 | 356 | Rennon Scott Wilson |
+| 119 | 356 | @n@luvmakin |
 | 120 | 355 | Mahman |
 | 121 | 355 | Shaynna Garza |
 | 122 | 351 | Cassandra Latimore |
@@ -140,20 +140,20 @@
 | 132 | 323 | Jess Rose |
 | 133 | 312 | beep |
 | 134 | 302 | Justin Feingold |
-| 135 | 300 | Diamond Madison |
-| 136 | 300 | Noelle Cicchillo |
-| 137 | 287 | Bryan Temple |
-| 138 | 286 | Witty Wipegrid |
-| 139 | 280 | Marianne Louise West |
-| 140 | 279 | Hasbro Bros |
-| 141 | 279 | Ern2burn |
-| 142 | 277 | Crafty Tilebuilder |
-| 143 | 276 | Jessi Sauer |
-| 144 | 272 | Joy Bloodworth |
+| 135 | 300 | Noelle Cicchillo |
+| 136 | 300 | Diamond Madison |
+| 137 | 293 | Snippy Stacky |
+| 138 | 287 | Bryan Temple |
+| 139 | 286 | Witty Wipegrid |
+| 140 | 280 | Marianne Louise West |
+| 141 | 279 | Hasbro Bros |
+| 142 | 279 | Ern2burn |
+| 143 | 277 | Crafty Tilebuilder |
+| 144 | 276 | Jessi Sauer |
 | 145 | 272 | Perky Shatterline |
-| 146 | 262 | Sharisse Baltimore |
-| 147 | 255 | Sunny Swiper |
-| 148 | 253 | Snippy Stacky |
+| 146 | 272 | Joy Bloodworth |
+| 147 | 262 | Sharisse Baltimore |
+| 148 | 255 | Sunny Swiper |
 | 149 | 253 | Big rick !!! |
 | 150 | 250 | Kris Koepke |
 | 151 | 249 | Lively Rollfit |
@@ -300,15 +300,15 @@
 | 292 | 124 | David Larter |
 | 293 | 123 | Tanya Carpenter-Reynolds |
 | 294 | 123 | Jonathan Gaffaney |
-| 295 | 122 | Kehlyn King |
-| 296 | 122 | Pig02 |
-| 297 | 121 | Sassy Cascadepiece |
-| 298 | 120 | Maxwell Hall |
-| 299 | 120 | Kay Alifi |
-| 300 | 120 | Candace Esposito |
-| 301 | 120 | StankyP |
-| 302 | 120 | Dee |
-| 303 | 120 | Boldy Clicky |
+| 295 | 123 | Boldy Clicky |
+| 296 | 122 | Kehlyn King |
+| 297 | 122 | Pig02 |
+| 298 | 121 | Sassy Cascadepiece |
+| 299 | 120 | Maxwell Hall |
+| 300 | 120 | Kay Alifi |
+| 301 | 120 | Candace Esposito |
+| 302 | 120 | StankyP |
+| 303 | 120 | Dee |
 | 304 | 120 | Ann Brock LaPorte |
 | 305 | 120 | Karmyst |
 | 306 | 120 | Mary Cerciello |
