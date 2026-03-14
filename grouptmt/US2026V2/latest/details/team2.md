@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 20:04:41 UTC
+# Standings for team2 as of 2026-03-14 20:05:18 UTC
 
 **Total Participants:** 1795
 
@@ -160,9 +160,9 @@
 | 152 | 290 | Michael H. M. Skropka |
 | 153 | 290 | Winner |
 | 154 | 289 | Jo Frohwein |
-| 155 | 286 | Jamie Mclean |
-| 156 | 285 | Ultramarine |
-| 157 | 285 | Plucky Snaplink |
+| 155 | 287 | Plucky Snaplink |
+| 156 | 286 | Jamie Mclean |
+| 157 | 285 | Ultramarine |
 | 158 | 282 | Ruby Anne |
 | 159 | 282 | Khalysta |
 | 160 | 280 | Sandy Aragon |
@@ -192,9 +192,9 @@
 | 184 | 250 | LML |
 | 185 | 250 | Ramone Armstrong |
 | 186 | 249 | Sass |
-| 187 | 247 | Guillaume Clermont |
-| 188 | 247 | Dreamer |
-| 189 | 244 | Krish Shah |
+| 187 | 249 | Krish Shah |
+| 188 | 247 | Guillaume Clermont |
+| 189 | 247 | Dreamer |
 | 190 | 243 | BluBae |
 | 191 | 242 | Maureen Winter |
 | 192 | 241 | Nathaniel Hardy |
@@ -267,31 +267,31 @@
 | 259 | 180 | Jonathan Vee Jay |
 | 260 | 180 | Sheena Harris |
 | 261 | 180 | James Hurley Jr. |
-| 262 | 179 | Jen |
-| 263 | 179 | Bouncy Zoner |
-| 264 | 178 | Lora |
+| 262 | 179 | Bouncy Zoner |
+| 263 | 179 | Jen |
+| 264 | 178 | MauaStorm |
 | 265 | 178 | JustYvette IsFine |
-| 266 | 178 | Abimbola Bimbo |
-| 267 | 178 | DanesMama |
-| 268 | 177 | Scott Siple |
-| 269 | 176 | Cheeky Clearbuilder |
-| 270 | 176 | Tosha Gonzales |
-| 271 | 176 | Berklie Apedaile |
-| 272 | 175 | Ding Adventurer |
-| 273 | 173 | Elizabeth Diraffaele |
-| 274 | 173 | Giddy Gridmatch |
-| 275 | 173 | Allison L Tiffany |
-| 276 | 173 | Kristina Hill Perez |
-| 277 | 172 | Dineisha Carpenter |
-| 278 | 170 | Jazzy Piecebuilder |
-| 279 | 170 | Cynthia Prouse |
-| 280 | 170 | Berling Gil |
-| 281 | 170 | Desiree Anderson |
-| 282 | 170 | Jimmy Xim |
-| 283 | 169 | Jason McCloy |
-| 284 | 169 | Madison Sweere |
-| 285 | 169 | Troy |
-| 286 | 168 | MauaStorm |
+| 266 | 178 | Lora |
+| 267 | 178 | Abimbola Bimbo |
+| 268 | 178 | DanesMama |
+| 269 | 177 | Scott Siple |
+| 270 | 176 | Cheeky Clearbuilder |
+| 271 | 176 | Tosha Gonzales |
+| 272 | 176 | Berklie Apedaile |
+| 273 | 175 | Ding Adventurer |
+| 274 | 173 | Elizabeth Diraffaele |
+| 275 | 173 | Giddy Gridmatch |
+| 276 | 173 | Allison L Tiffany |
+| 277 | 173 | Kristina Hill Perez |
+| 278 | 172 | Dineisha Carpenter |
+| 279 | 170 | Jazzy Piecebuilder |
+| 280 | 170 | Cynthia Prouse |
+| 281 | 170 | Berling Gil |
+| 282 | 170 | Desiree Anderson |
+| 283 | 170 | Jimmy Xim |
+| 284 | 169 | Jason McCloy |
+| 285 | 169 | Madison Sweere |
+| 286 | 169 | Troy |
 | 287 | 166 | hyper Zip |
 | 288 | 163 | Paul Beeman |
 | 289 | 162 | Dreamy Clicky |
@@ -714,14 +714,14 @@
 | 706 | 64 | gymjim |
 | 707 | 64 | Kaycie Brieanne |
 | 708 | 64 | Maria Lee Ardoin |
-| 709 | 63 | Kiorah Blaze |
-| 710 | 63 | Spicy Patternbuilder |
+| 709 | 63 | Quags |
+| 710 | 63 | Kiorah Blaze |
 | 711 | 63 | Rhonda Winn Hohman |
 | 712 | 63 | Nicole Lynnette Mahurin |
-| 713 | 63 | Quags |
+| 713 | 63 | Spicy Patternbuilder |
 | 714 | 62 | Moneygirl |
-| 715 | 62 | Cool Riser |
-| 716 | 62 | Miss253 |
+| 715 | 62 | Miss253 |
+| 716 | 62 | Cool Riser |
 | 717 | 62 | Valhammer |
 | 718 | 62 | Uuinner |
 | 719 | 62 | Goredo |
@@ -732,22 +732,22 @@
 | 724 | 61 | Ashley Danielle |
 | 725 | 61 | KT CAT |
 | 726 | 61 | Christine Kelly-Sarni |
-| 727 | 61 | Lindsay Parenti |
-| 728 | 61 | PrincessDonut |
-| 729 | 60 | Mindy Phelps |
-| 730 | 60 | Susan Valentino |
-| 731 | 60 | Kell Cinn |
-| 732 | 60 | DirtDiggler |
-| 733 | 60 | Marcie McLain Dodd |
-| 734 | 60 | kitykat |
+| 727 | 61 | Laura Harrington |
+| 728 | 61 | Lindsay Parenti |
+| 729 | 61 | PrincessDonut |
+| 730 | 60 | DirtDiggler |
+| 731 | 60 | Marcie McLain Dodd |
+| 732 | 60 | Mindy Phelps |
+| 733 | 60 | Susan Valentino |
+| 734 | 60 | Kell Cinn |
 | 735 | 60 | Katie Hughes |
-| 736 | 60 | Zany Jumper |
-| 737 | 60 | FallenStar |
-| 738 | 60 | Dawn Woosley Bowes |
-| 739 | 60 | Tra Barnum |
-| 740 | 60 | Monroy Juana |
-| 741 | 60 | Luna Locke |
-| 742 | 60 | Laura Harrington |
+| 736 | 60 | kitykat |
+| 737 | 60 | Zany Jumper |
+| 738 | 60 | FallenStar |
+| 739 | 60 | Dawn Woosley Bowes |
+| 740 | 60 | Tra Barnum |
+| 741 | 60 | Monroy Juana |
+| 742 | 60 | Luna Locke |
 | 743 | 60 | Susan Larson |
 | 744 | 60 | Derek Jarvis |
 | 745 | 60 | Megan Earp |
