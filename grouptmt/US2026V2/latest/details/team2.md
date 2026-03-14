@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 20:38:18 UTC
+# Standings for team2 as of 2026-03-14 20:38:39 UTC
 
 **Total Participants:** 1812
 
@@ -33,8 +33,8 @@
 | 25 | 1927 | Ramen Noodle |
 | 26 | 1779 | Katie Wisecarver |
 | 27 | 1714 | Joshua Hopkins |
-| 28 | 1701 | Miranda Rush |
-| 29 | 1696 | Crafty Matchfit |
+| 28 | 1713 | Crafty Matchfit |
+| 29 | 1701 | Miranda Rush |
 | 30 | 1694 | Rosemadder |
 | 31 | 1647 | Breezy Towerfall |
 | 32 | 1610 | Cynthia Ward |
@@ -482,48 +482,48 @@
 | 474 | 99 | Funky Stackzone |
 | 475 | 99 | Γωγώ Τσιρόγκα |
 | 476 | 99 | Libby |
-| 477 | 98 | Christy Green |
-| 478 | 98 | MrMais89 |
-| 479 | 98 | Swanky Tile |
-| 480 | 98 | Jumpy Cascadeclear |
-| 481 | 98 | Swanky Matchpiece |
-| 482 | 97 | Shawna McKinney |
-| 483 | 97 | Robert Fenton |
-| 484 | 97 | Trish Newell |
-| 485 | 96 | Marshall Renee |
-| 486 | 96 | Tia Simmons |
-| 487 | 96 | Giggly Clearzone |
-| 488 | 96 | Stacy Evans |
-| 489 | 95 | BendersMomma |
+| 477 | 99 | Poppy |
+| 478 | 98 | Christy Green |
+| 479 | 98 | MrMais89 |
+| 480 | 98 | Swanky Tile |
+| 481 | 98 | Jumpy Cascadeclear |
+| 482 | 98 | Swanky Matchpiece |
+| 483 | 97 | Shawna McKinney |
+| 484 | 97 | Robert Fenton |
+| 485 | 97 | Trish Newell |
+| 486 | 96 | Marshall Renee |
+| 487 | 96 | Tia Simmons |
+| 488 | 96 | Giggly Clearzone |
+| 489 | 96 | Stacy Evans |
 | 490 | 95 | Tonya Hadsell |
-| 491 | 95 | Dondon Cheng |
-| 492 | 95 | Quintis Steemer |
-| 493 | 94 | Dan Smith |
-| 494 | 94 | Amy Villalpando |
-| 495 | 94 | Jean Yap |
-| 496 | 94 | Jesse Saville |
-| 497 | 94 | Kristi Riley |
-| 498 | 94 | Sam Hall |
-| 499 | 94 | Plucky Glide |
-| 500 | 94 | Mjhays |
-| 501 | 94 | Clever Roll |
-| 502 | 94 | Lively Blockroll |
-| 503 | 93 | Sbs |
-| 504 | 93 | Poppy |
+| 491 | 95 | BendersMomma |
+| 492 | 95 | Dondon Cheng |
+| 493 | 95 | Quintis Steemer |
+| 494 | 94 | Dan Smith |
+| 495 | 94 | Amy Villalpando |
+| 496 | 94 | Lively Blockroll |
+| 497 | 94 | Clever Roll |
+| 498 | 94 | Jean Yap |
+| 499 | 94 | Mjhays |
+| 500 | 94 | Plucky Glide |
+| 501 | 94 | Jesse Saville |
+| 502 | 94 | Sam Hall |
+| 503 | 94 | Kristi Riley |
+| 504 | 93 | Sbs |
 | 505 | 93 | Selena Combee |
 | 506 | 93 | Ryan Martin |
 | 507 | 92 | DeathToBizzle |
 | 508 | 92 | Giggly Shatterline |
 | 509 | 92 | Chiran Xu |
-| 510 | 91 | Carlos Landin |
-| 511 | 91 | Cozy Shatterblock |
-| 512 | 91 | Arson Fox |
+| 510 | 91 | Cozy Shatterblock |
+| 511 | 91 | Arson Fox |
+| 512 | 91 | Carlos Landin |
 | 513 | 91 | Matthew Hall |
 | 514 | 90 | Leslie Clark |
 | 515 | 90 | Albany Broadway |
 | 516 | 90 | Sonceria Ingram-Ford |
-| 517 | 90 | Daniel Moore |
-| 518 | 90 | JZoya  Scott |
+| 517 | 90 | JZoya  Scott |
+| 518 | 90 | Daniel Moore |
 | 519 | 90 | Bridgett |
 | 520 | 89 | Deborah Potts |
 | 521 | 89 | Nate Price |
@@ -1248,10 +1248,10 @@
 | 1240 | 27 | Kayla |
 | 1241 | 27 | Gam Gam |
 | 1242 | 27 | Zitro |
-| 1243 | 27 | Logan Abbott |
-| 1244 | 27 | Giggy Zonepiece |
+| 1243 | 27 | Whitney Douglas |
+| 1244 | 27 | Logan Abbott |
 | 1245 | 27 | Cheeky Dashgrid |
-| 1246 | 27 | Whitney Douglas |
+| 1246 | 27 | Giggy Zonepiece |
 | 1247 | 27 | Karmabunny |
 | 1248 | 27 | Durand Douglas |
 | 1249 | 27 | Mellinese Nicole King |
@@ -1268,65 +1268,65 @@
 | 1260 | 26 | Marie Elena |
 | 1261 | 26 | Shirley Petty |
 | 1262 | 26 | Nicole Maboloc |
-| 1263 | 26 | Melissa K Smith |
-| 1264 | 26 | Chasity Winters |
-| 1265 | 26 | Smiley Shuffler |
-| 1266 | 26 | Jackie Avila |
-| 1267 | 26 | Brandon Bergfield |
-| 1268 | 26 | Manny Diaz |
-| 1269 | 26 | Becky Short |
-| 1270 | 26 | SuzAnne |
-| 1271 | 25 | Circuit8 |
-| 1272 | 25 | Giggy Tilt |
-| 1273 | 25 | Tamika Williams |
-| 1274 | 25 | Michelle Gnouilaphi |
-| 1275 | 25 | Alyssa Graham |
-| 1276 | 25 | Savvlexx |
-| 1277 | 25 | Johnboom317 |
-| 1278 | 25 | Cranky Party |
-| 1279 | 25 | Jeremy Null |
-| 1280 | 25 | Giggy Grid |
-| 1281 | 25 | Terrence McClain |
-| 1282 | 25 | Brooke Ransom |
-| 1283 | 25 | Joyce |
-| 1284 | 25 | Cheyenne Waller |
-| 1285 | 25 | Jonviea Dewalt |
+| 1263 | 26 | Smiley Shuffler |
+| 1264 | 26 | Melissa K Smith |
+| 1265 | 26 | Manny Diaz |
+| 1266 | 26 | SuzAnne |
+| 1267 | 26 | Becky Short |
+| 1268 | 26 | Brandon Bergfield |
+| 1269 | 26 | Cookie |
+| 1270 | 26 | Jackie Avila |
+| 1271 | 26 | Chasity Winters |
+| 1272 | 25 | Jeremy Null |
+| 1273 | 25 | Circuit8 |
+| 1274 | 25 | Tamika Williams |
+| 1275 | 25 | Giggy Tilt |
+| 1276 | 25 | Alyssa Graham |
+| 1277 | 25 | Michelle Gnouilaphi |
+| 1278 | 25 | Johnboom317 |
+| 1279 | 25 | Cranky Party |
+| 1280 | 25 | Savvlexx |
+| 1281 | 25 | Giggy Grid |
+| 1282 | 25 | Terrence McClain |
+| 1283 | 25 | Brooke Ransom |
+| 1284 | 25 | Joyce |
+| 1285 | 25 | Cheyenne Waller |
 | 1286 | 25 | Allen Spurlock |
-| 1287 | 25 | Lilykye |
-| 1288 | 25 | BigTim042069 |
-| 1289 | 25 | Lazy Balancepiece |
-| 1290 | 25 | JSP |
-| 1291 | 25 | Sonya Milbourne |
-| 1292 | 25 | Muva |
-| 1293 | 25 | Chasity Johnson |
-| 1294 | 25 | Poppy Linkpiece |
-| 1295 | 25 | Anthony Intrabartolo |
-| 1296 | 25 | Smiley |
-| 1297 | 25 | Morgan Hirzel |
-| 1298 | 25 | Cheeky Snapfit |
-| 1299 | 25 | Wacky Columnbuilder |
-| 1300 | 25 | Lush Matchgrid |
-| 1301 | 25 | Weeping Angel |
-| 1302 | 25 | PartyStarter |
-| 1303 | 24 | Malcolm Annias Flamer |
-| 1304 | 24 | D3TROITB0RN74 |
-| 1305 | 24 | Nikki Leanne |
-| 1306 | 24 | DeAnna Jones |
-| 1307 | 24 | Loopy Curve |
-| 1308 | 24 | Skhan |
+| 1287 | 25 | JSP |
+| 1288 | 25 | Sonya Milbourne |
+| 1289 | 25 | Lilykye |
+| 1290 | 25 | Lazy Balancepiece |
+| 1291 | 25 | BigTim042069 |
+| 1292 | 25 | Jonviea Dewalt |
+| 1293 | 25 | Muva |
+| 1294 | 25 | Chasity Johnson |
+| 1295 | 25 | Poppy Linkpiece |
+| 1296 | 25 | Anthony Intrabartolo |
+| 1297 | 25 | Smiley |
+| 1298 | 25 | Morgan Hirzel |
+| 1299 | 25 | Cheeky Snapfit |
+| 1300 | 25 | Wacky Columnbuilder |
+| 1301 | 25 | Lush Matchgrid |
+| 1302 | 25 | Weeping Angel |
+| 1303 | 25 | PartyStarter |
+| 1304 | 24 | Malcolm Annias Flamer |
+| 1305 | 24 | D3TROITB0RN74 |
+| 1306 | 24 | Nikki Leanne |
+| 1307 | 24 | Jai Sweetz |
+| 1308 | 24 | Loopy Curve |
 | 1309 | 24 | silla |
 | 1310 | 24 | Samantha Massey |
-| 1311 | 24 | Jai Sweetz |
-| 1312 | 23 | Heather Watson |
-| 1313 | 23 | Summer Richardson |
-| 1314 | 23 | Cookie |
-| 1315 | 23 | Amy Pike |
-| 1316 | 23 | Parker Demarest |
-| 1317 | 23 | Jen Hawes |
-| 1318 | 23 | Flashy Slam |
-| 1319 | 23 | Daniella K |
-| 1320 | 23 | Christopher Jam |
-| 1321 | 23 | Snappy Clusterline |
+| 1311 | 24 | Skhan |
+| 1312 | 24 | DeAnna Jones |
+| 1313 | 23 | Flashy Slam |
+| 1314 | 23 | Daniella K |
+| 1315 | 23 | Parker Demarest |
+| 1316 | 23 | Amy Pike |
+| 1317 | 23 | Christopher Jam |
+| 1318 | 23 | Summer Richardson |
+| 1319 | 23 | Snappy Clusterline |
+| 1320 | 23 | Heather Watson |
+| 1321 | 23 | Jen Hawes |
 | 1322 | 23 | Lisa |
 | 1323 | 23 | Ashley Grace |
 | 1324 | 23 | Cassandra King Tyler |
@@ -1341,18 +1341,18 @@
 | 1333 | 22 | Hyper Shatterbuilder |
 | 1334 | 22 | Gravytrain |
 | 1335 | 22 | Amber Wright |
-| 1336 | 22 | Mark Norris |
-| 1337 | 22 | Swanky Bridgepiece |
-| 1338 | 22 | Nellie Cummings |
-| 1339 | 22 | Eda Mcboyle Ordoñez |
-| 1340 | 22 | ytho |
-| 1341 | 22 | Kimberly Christine Sherwood |
-| 1342 | 22 | kal |
-| 1343 | 22 | Mango |
+| 1336 | 22 | Swanky Bridgepiece |
+| 1337 | 22 | Nellie Cummings |
+| 1338 | 22 | Eda Mcboyle Ordoñez |
+| 1339 | 22 | Mango |
+| 1340 | 22 | Mark Norris |
+| 1341 | 22 | ytho |
+| 1342 | 22 | Kimberly Christine Sherwood |
+| 1343 | 22 | kal |
 | 1344 | 21 | Jeremy Barry |
 | 1345 | 21 | Jessica Lynn French |
-| 1346 | 21 | Poppy Twister |
-| 1347 | 21 | Brittani La Rae |
+| 1346 | 21 | Brittani La Rae |
+| 1347 | 21 | Poppy Twister |
 | 1348 | 21 | Kayla Southern |
 | 1349 | 21 | Cheeky Cornerfall |
 | 1350 | 21 | Brian Schaefer |
