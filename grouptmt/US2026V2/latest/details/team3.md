@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-14 08:04:17 UTC
+# Standings for team3 as of 2026-03-14 08:04:38 UTC
 
 **Total Participants:** 2246
 
@@ -201,27 +201,27 @@
 | 193 | 196 | Speedy Fitzone |
 | 194 | 194 | W |
 | 195 | 194 | Amanda Woodward |
-| 196 | 193 | Amy Crowe |
-| 197 | 193 | Kate Kimball Schmitz |
+| 196 | 193 | Kate Kimball Schmitz |
+| 197 | 193 | Amy Crowe |
 | 198 | 192 | LiterallyJustDave |
 | 199 | 190 | Cool Blockroll |
 | 200 | 190 | Peace |
 | 201 | 188 | GolfBlaster |
 | 202 | 187 | Breezy Clusterer |
-| 203 | 184 | Tipsy Patternbuilder |
-| 204 | 184 | Frisky Balance |
-| 205 | 182 | Tim Smolen |
-| 206 | 182 | Scott Brown |
-| 207 | 182 | Drew Magnus |
-| 208 | 182 | Amanda Summey Schoemer |
-| 209 | 180 | Lori Sainato |
-| 210 | 180 | Rechell Johnson |
-| 211 | 179 | Unapologetic' |
-| 212 | 178 | Veronica Gutierrez |
+| 203 | 184 | Frisky Balance |
+| 204 | 184 | Tipsy Patternbuilder |
+| 205 | 182 | Amanda Summey Schoemer |
+| 206 | 182 | Drew Magnus |
+| 207 | 182 | Scott Brown |
+| 208 | 182 | Tim Smolen |
+| 209 | 181 | AISlop |
+| 210 | 180 | Lori Sainato |
+| 211 | 180 | Rechell Johnson |
+| 212 | 179 | Unapologetic' |
 | 213 | 178 | Turk Montana |
-| 214 | 176 | April Gravitt |
-| 215 | 176 | Erin Thomas |
-| 216 | 176 | AISlop |
+| 214 | 178 | Veronica Gutierrez |
+| 215 | 176 | April Gravitt |
+| 216 | 176 | Erin Thomas |
 | 217 | 176 | Kristine Therriault |
 | 218 | 175 | Tom Eye |
 | 219 | 175 | Hobos Electriks |

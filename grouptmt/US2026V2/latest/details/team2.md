@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 08:04:17 UTC
+# Standings for team2 as of 2026-03-14 08:04:38 UTC
 
 **Total Participants:** 1409
 
@@ -41,13 +41,13 @@
 | 33 | 911 | Giggy Brickmatch |
 | 34 | 824 | Dee Kay |
 | 35 | 819 | Crafty Matchfit |
-| 36 | 761 | Raven Smith |
-| 37 | 759 | Robert Martinez |
-| 38 | 740 | Andrey Sharov |
-| 39 | 735 | Joy LaJeunesse |
-| 40 | 656 | pooda |
-| 41 | 652 | Joshua |
-| 42 | 650 | Kelly Kihe |
+| 36 | 800 | Kelly Kihe |
+| 37 | 761 | Raven Smith |
+| 38 | 759 | Robert Martinez |
+| 39 | 740 | Andrey Sharov |
+| 40 | 735 | Joy LaJeunesse |
+| 41 | 656 | pooda |
+| 42 | 652 | Joshua |
 | 43 | 645 | Linda Lively |
 | 44 | 635 | Richard Butler |
 | 45 | 613 | Nicole Grochow |
