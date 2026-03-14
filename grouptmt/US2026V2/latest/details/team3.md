@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-14 08:46:17 UTC
+# Standings for team3 as of 2026-03-14 08:46:38 UTC
 
 **Total Participants:** 2266
 
@@ -115,8 +115,8 @@
 | 107 | 342 | Cherrish Duren |
 | 108 | 339 | Brizmit |
 | 109 | 338 | Matthew |
-| 110 | 323 | Eneida Gonzalez |
-| 111 | 320 | Riana Kathleen Metroka |
+| 110 | 327 | Riana Kathleen Metroka |
+| 111 | 323 | Eneida Gonzalez |
 | 112 | 320 | Dreamy Drop |
 | 113 | 319 | Swanky Blockmatch |
 | 114 | 319 | Snappy Dropper |
