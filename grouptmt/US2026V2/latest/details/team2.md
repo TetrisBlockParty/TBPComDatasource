@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 06:40:16 UTC
+# Standings for team2 as of 2026-03-14 06:40:38 UTC
 
 **Total Participants:** 1368
 
@@ -31,7 +31,7 @@
 | 23 | 1221 | kaijujitsu |
 | 24 | 1176 | Tanya Smith |
 | 25 | 1127 | Caitlin Johnson |
-| 26 | 1085 | Giggy Strikerpiece |
+| 26 | 1112 | Giggy Strikerpiece |
 | 27 | 1082 | Breezy Towerfall |
 | 28 | 1046 | Miranda Rush |
 | 29 | 1033 | Kat |
@@ -170,103 +170,103 @@
 | 162 | 168 | Lora |
 | 163 | 167 | Katie Wisecarver |
 | 164 | 166 | Rafael Valentin |
-| 165 | 165 | Liz Wambsgans |
-| 166 | 165 | Tatyahna Cameron |
+| 165 | 165 | Tatyahna Cameron |
+| 166 | 165 | Liz Wambsgans |
 | 167 | 164 | Beth Smith |
-| 168 | 161 | sweet lil miss |
+| 168 | 163 | Dreamer |
 | 169 | 161 | Jocelyn Jauregui |
-| 170 | 161 | Hyper Pop |
-| 171 | 160 | Michelle |
-| 172 | 158 | Frothy Linker |
-| 173 | 158 | Julio Alejandro Rodriguez |
-| 174 | 157 | Shelly |
-| 175 | 153 | nickle109 |
-| 176 | 152 | Dreamer |
+| 170 | 161 | sweet lil miss |
+| 171 | 161 | Hyper Pop |
+| 172 | 160 | Michelle |
+| 173 | 158 | Frothy Linker |
+| 174 | 158 | Julio Alejandro Rodriguez |
+| 175 | 157 | Shelly |
+| 176 | 153 | nickle109 |
 | 177 | 152 | Courtney Cicoria |
-| 178 | 150 | Tracey Whetstone |
-| 179 | 150 | Sherry Jones |
-| 180 | 150 | Glitzy Rollblock |
-| 181 | 150 | Kyesha Goodyear |
-| 182 | 150 | Zesty Link |
+| 178 | 150 | Glitzy Rollblock |
+| 179 | 150 | Zesty Link |
+| 180 | 150 | Sherry Jones |
+| 181 | 150 | Tracey Whetstone |
+| 182 | 150 | Kyesha Goodyear |
 | 183 | 149 | BluBae |
 | 184 | 149 | Alan George LaRage |
 | 185 | 148 | Alyssa Cox |
-| 186 | 145 | Berling Gil |
-| 187 | 145 | Cynthia Prouse |
-| 188 | 145 | Mcg |
-| 189 | 145 | Connie Mohler-Fair |
-| 190 | 143 | Brave Fallzone |
-| 191 | 143 | Frances Hui |
-| 192 | 143 | Porsche' Nicole |
+| 186 | 145 | Cynthia Prouse |
+| 187 | 145 | Connie Mohler-Fair |
+| 188 | 145 | Berling Gil |
+| 189 | 145 | Mcg |
+| 190 | 143 | Porsche' Nicole |
+| 191 | 143 | Brave Fallzone |
+| 192 | 143 | Frances Hui |
 | 193 | 142 | Jen |
 | 194 | 142 | Christy Merriman Addison |
 | 195 | 141 | Zak Dunn |
 | 196 | 141 | Lateisha Morris |
-| 197 | 140 | Jonathan Vee Jay |
+| 197 | 140 | Nerdy Blockpiece |
 | 198 | 140 | Brenda Lee Vander Molen |
-| 199 | 140 | Nerdy Blockpiece |
+| 199 | 140 | Jonathan Vee Jay |
 | 200 | 140 | Sandra Safford |
 | 201 | 137 | Krish Shah |
 | 202 | 136 | Frisky Riserbuilder |
 | 203 | 135 | Gael |
-| 204 | 134 | Aobregon01 |
-| 205 | 134 | Susan Dunn |
+| 204 | 134 | Susan Dunn |
+| 205 | 134 | Aobregon01 |
 | 206 | 134 | Jasmine Kenney |
-| 207 | 133 | JustYvette IsFine |
-| 208 | 133 | nina |
+| 207 | 133 | nina |
+| 208 | 133 | JustYvette IsFine |
 | 209 | 133 | Trisha Balmer |
-| 210 | 132 | Crystal Brown-Miles |
+| 210 | 132 | Ramona Marie Eruera |
 | 211 | 132 | Brenda A |
-| 212 | 132 | Ramona Marie Eruera |
+| 212 | 132 | Crystal Brown-Miles |
 | 213 | 131 | Tee Jaleesa |
 | 214 | 130 | Sandy Aragon |
 | 215 | 129 | Peppy Slice |
 | 216 | 129 | Brooke Sunderhaus |
 | 217 | 128 | Snippy Clearbuilder |
 | 218 | 127 | Christine Lin |
-| 219 | 127 | Jesse Olive |
-| 220 | 127 | Tony Tran |
-| 221 | 126 | Tiff Vs Tiffany |
+| 219 | 127 | Tony Tran |
+| 220 | 127 | Jesse Olive |
+| 221 | 126 | Paul Beeman |
 | 222 | 126 | Amanda Thomas |
-| 223 | 126 | Paul Beeman |
+| 223 | 126 | Tiff Vs Tiffany |
 | 224 | 125 | Tommy Proctor |
-| 225 | 125 | Isabella Blanco |
-| 226 | 125 | April |
-| 227 | 125 | Epic Liner |
-| 228 | 125 | Loony Snapbuild |
-| 229 | 125 | Dreamy Clicky |
+| 225 | 125 | April |
+| 226 | 125 | Dreamy Clicky |
+| 227 | 125 | Loony Snapbuild |
+| 228 | 125 | Epic Liner |
+| 229 | 125 | Isabella Blanco |
 | 230 | 123 | Christina Freeman |
-| 231 | 122 | Michelle Allers |
-| 232 | 122 | Tanya Abernathy Jackson |
+| 231 | 122 | Tanya Abernathy Jackson |
+| 232 | 122 | Michelle Allers |
 | 233 | 120 | Tiffany Smith |
 | 234 | 120 | Marinara |
 | 235 | 120 | JTH |
-| 236 | 120 | Tyler Werts |
-| 237 | 120 | Twisty Shatter |
-| 238 | 120 | Vanessa Nguyen |
+| 236 | 120 | Vanessa Nguyen |
+| 237 | 120 | Tyler Werts |
+| 238 | 120 | Twisty Shatter |
 | 239 | 119 | Wishabishwood |
 | 240 | 118 | Alexander Zamora |
-| 241 | 118 | Elizabeth Mauri |
-| 242 | 118 | Megan Simpson |
-| 243 | 117 | Sonya Gail Goodman |
-| 244 | 117 | Slippery Clam |
+| 241 | 118 | Megan Simpson |
+| 242 | 118 | Elizabeth Mauri |
+| 243 | 117 | Slippery Clam |
+| 244 | 117 | Sonya Gail Goodman |
 | 245 | 116 | Looloo |
 | 246 | 115 | Jamie Mclean |
-| 247 | 114 | Slinky Linkgrid |
-| 248 | 114 | Dimitra Zazara |
+| 247 | 114 | Dimitra Zazara |
+| 248 | 114 | Slinky Linkgrid |
 | 249 | 113 | Julia Freeman |
 | 250 | 113 | Randy Jansen |
-| 251 | 112 | Marc |
-| 252 | 112 | Ella Marzano |
-| 253 | 111 | Zany Rotater |
-| 254 | 111 | Jenn Dandle |
+| 251 | 112 | Ella Marzano |
+| 252 | 112 | Marc |
+| 253 | 111 | Jenn Dandle |
+| 254 | 111 | Zany Rotater |
 | 255 | 111 | Cari Hogan |
 | 256 | 111 | Samantha Bagent |
-| 257 | 110 | Jimmy Xim |
-| 258 | 110 | Bryanna Whitman |
+| 257 | 110 | Bryanna Whitman |
+| 258 | 110 | Jimmy Xim |
 | 259 | 108 | Charde Parnell |
-| 260 | 107 | Prette Qui |
-| 261 | 107 | Abimbola Bimbo |
+| 260 | 107 | Abimbola Bimbo |
+| 261 | 107 | Prette Qui |
 | 262 | 107 | Daring Rotator |
 | 263 | 107 | Jason Briggs |
 | 264 | 106 | Chill Builder |
