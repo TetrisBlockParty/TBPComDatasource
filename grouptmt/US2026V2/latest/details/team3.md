@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-14 03:24:17 UTC
+# Standings for team3 as of 2026-03-14 03:24:37 UTC
 
 **Total Participants:** 1886
 
@@ -22,18 +22,18 @@
 | 14 | 1780 | Jacqueline Fuentes |
 | 15 | 1716 | Grams |
 | 16 | 1677 | Shelley Pizzazz |
-| 17 | 1624 | Mighty Dashfit |
+| 17 | 1664 | Mighty Dashfit |
 | 18 | 1614 | Stacey Arsenault |
 | 19 | 1573 | Maria Wilson |
-| 20 | 1533 | Ashley Ingram |
+| 20 | 1553 | Ashley Ingram |
 | 21 | 1473 | Fancy Slammer |
 | 22 | 1473 | Danielle McNew Nickerson |
 | 23 | 1438 | Kate M. Murdock |
 | 24 | 1382 | Beth Naehrbass |
-| 25 | 1358 | Funky Piecegrid |
-| 26 | 1305 | BriElle Branch |
-| 27 | 1300 | Abby |
-| 28 | 1265 | Plucky Tiler |
+| 25 | 1365 | Plucky Tiler |
+| 26 | 1358 | Funky Piecegrid |
+| 27 | 1305 | BriElle Branch |
+| 28 | 1300 | Abby |
 | 29 | 1258 | Ruby Thompson |
 | 30 | 1238 | Linds |
 | 31 | 1206 | Epic Strikerpiece |
@@ -119,7 +119,7 @@
 | 111 | 255 | Dizzy Gridzone |
 | 112 | 252 | blocks bandit |
 | 113 | 251 | Miranda Krentz |
-| 114 | 249 | Emily Davis |
+| 114 | 251 | Emily Davis |
 | 115 | 248 | Kylene Vigil |
 | 116 | 245 | Paula Murtonen |
 | 117 | 241 | May Miller |
@@ -287,15 +287,15 @@
 | 279 | 107 | Rosalie Call Kehlenbeck |
 | 280 | 107 | April Shanahan |
 | 281 | 106 | Bucky Dent |
-| 282 | 106 | Kelly Crianza |
-| 283 | 106 | RVTRCR |
-| 284 | 105 | Christina Marie Beall-Schmidt |
-| 285 | 105 | Sarah Morrissey |
-| 286 | 105 | Sean Michaels |
-| 287 | 104 | Boldy Curve |
-| 288 | 104 | lilseasonz |
-| 289 | 104 | Tony Waters |
-| 290 | 104 | Nicki Vogus |
+| 282 | 106 | Nicki Vogus |
+| 283 | 106 | Kelly Crianza |
+| 284 | 106 | RVTRCR |
+| 285 | 105 | Christina Marie Beall-Schmidt |
+| 286 | 105 | Sarah Morrissey |
+| 287 | 105 | Sean Michaels |
+| 288 | 104 | Boldy Curve |
+| 289 | 104 | lilseasonz |
+| 290 | 104 | Tony Waters |
 | 291 | 104 | Boda |
 | 292 | 103 | Kens Guth |
 | 293 | 102 | .running. |
