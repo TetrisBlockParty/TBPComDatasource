@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 21:46:20 UTC
+# Standings for team2 as of 2026-03-14 21:46:42 UTC
 
 **Total Participants:** 1846
 
@@ -52,7 +52,7 @@
 | 44 | 1168 | Alyssa Cox |
 | 45 | 1167 | Naomii Seton |
 | 46 | 1139 | Susan Fazio Edwards |
-| 47 | 1096 | Dreamy Linkbuilder |
+| 47 | 1134 | Dreamy Linkbuilder |
 | 48 | 994 | Snippy Basepiece |
 | 49 | 990 | opf |
 | 50 | 964 | Amanda Young |
@@ -724,40 +724,40 @@
 | 716 | 64 | Maria Lee Ardoin |
 | 717 | 64 | KT CAT |
 | 718 | 64 | Kaycie Brieanne |
-| 719 | 64 | cat |
-| 720 | 64 | Giggly Shiftsnap |
-| 721 | 64 | Nerdy Risebuilder |
-| 722 | 64 | Cheeky Grabber |
-| 723 | 64 | Sandra McNab |
-| 724 | 64 | Jennifer Osmer Carruth |
-| 725 | 63 | Kiorah Blaze |
-| 726 | 63 | Spicy Patternbuilder |
-| 727 | 63 | Nicole Lynnette Mahurin |
-| 728 | 63 | Rhonda Winn Hohman |
-| 729 | 63 | Lindsay Parenti |
-| 730 | 63 | Sara Knapp |
-| 731 | 63 | Waya |
-| 732 | 63 | Stephany Patton |
-| 733 | 63 | Frothy Grid |
-| 734 | 62 | Goredo |
-| 735 | 62 | Amanda Mason Scott |
-| 736 | 62 | Christian Caro |
-| 737 | 62 | Danielle Barker |
-| 738 | 62 | Brandon Bergfield |
-| 739 | 62 | Twisty Balanceblock |
-| 740 | 62 | Uuinner |
-| 741 | 62 | Lush Twisterfit |
-| 742 | 62 | Moneygirl |
-| 743 | 62 | Zesty Balancefit |
-| 744 | 62 | Cool Riser |
-| 745 | 62 | Jazmin Santos |
-| 746 | 62 | Miss253 |
-| 747 | 62 | Valhammer |
-| 748 | 61 | Laura Harrington |
-| 749 | 61 | Zany Jumper |
-| 750 | 61 | Joshua Madinger |
-| 751 | 61 | PrincessDonut |
-| 752 | 61 | Ashley Danielle |
+| 719 | 64 | Ashley Danielle |
+| 720 | 64 | cat |
+| 721 | 64 | Giggly Shiftsnap |
+| 722 | 64 | Nerdy Risebuilder |
+| 723 | 64 | Cheeky Grabber |
+| 724 | 64 | Sandra McNab |
+| 725 | 64 | Jennifer Osmer Carruth |
+| 726 | 63 | Kiorah Blaze |
+| 727 | 63 | Spicy Patternbuilder |
+| 728 | 63 | Nicole Lynnette Mahurin |
+| 729 | 63 | Rhonda Winn Hohman |
+| 730 | 63 | Lindsay Parenti |
+| 731 | 63 | Sara Knapp |
+| 732 | 63 | Waya |
+| 733 | 63 | Stephany Patton |
+| 734 | 63 | Frothy Grid |
+| 735 | 62 | Goredo |
+| 736 | 62 | Amanda Mason Scott |
+| 737 | 62 | Christian Caro |
+| 738 | 62 | Danielle Barker |
+| 739 | 62 | Brandon Bergfield |
+| 740 | 62 | Twisty Balanceblock |
+| 741 | 62 | Uuinner |
+| 742 | 62 | Lush Twisterfit |
+| 743 | 62 | Moneygirl |
+| 744 | 62 | Zesty Balancefit |
+| 745 | 62 | Cool Riser |
+| 746 | 62 | Jazmin Santos |
+| 747 | 62 | Miss253 |
+| 748 | 62 | Valhammer |
+| 749 | 61 | Laura Harrington |
+| 750 | 61 | Zany Jumper |
+| 751 | 61 | Joshua Madinger |
+| 752 | 61 | PrincessDonut |
 | 753 | 61 | Brandi Quick |
 | 754 | 61 | Christine Kelly-Sarni |
 | 755 | 60 | Wacky Shuffler |
