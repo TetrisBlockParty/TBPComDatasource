@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-14 10:42:17 UTC
+# Standings for team3 as of 2026-03-14 10:42:37 UTC
 
 **Total Participants:** 2325
 
@@ -59,7 +59,7 @@
 | 51 | 960 | Plucky Tower |
 | 52 | 956 | Whitney Manuel |
 | 53 | 955 | Cherica Taylor |
-| 54 | 906 | Asher |
+| 54 | 907 | Asher |
 | 55 | 872 | Marlanna Johnson Wells |
 | 56 | 871 | nononono |
 | 57 | 864 | SraSw |
@@ -91,8 +91,8 @@
 | 83 | 646 | Jasy Higgins |
 | 84 | 637 | Cherrish Duren |
 | 85 | 589 | Reydoma |
-| 86 | 577 | p brewster |
-| 87 | 571 | Michelle Genco |
+| 86 | 579 | Michelle Genco |
+| 87 | 577 | p brewster |
 | 88 | 563 | Drew Magnus |
 | 89 | 553 | Quirky Liney |
 | 90 | 551 | Jamie Leigh Pursell |
@@ -216,8 +216,8 @@
 | 208 | 194 | Leslie Ann-Marie |
 | 209 | 194 | Amanda Woodward |
 | 210 | 194 | W |
-| 211 | 193 | Amy Crowe |
-| 212 | 193 | Kate Kimball Schmitz |
+| 211 | 193 | Kate Kimball Schmitz |
+| 212 | 193 | Amy Crowe |
 | 213 | 192 | LiterallyJustDave |
 | 214 | 191 | Veronica Gutierrez |
 | 215 | 190 | Peace |
@@ -227,44 +227,44 @@
 | 219 | 187 | Breezy Clusterer |
 | 220 | 185 | Tam |
 | 221 | 185 | Christine Maximo |
-| 222 | 184 | Tipsy Patternbuilder |
-| 223 | 184 | Frisky Balance |
+| 222 | 184 | Frisky Balance |
+| 223 | 184 | Tipsy Patternbuilder |
 | 224 | 182 | Scott Brown |
 | 225 | 182 | Amanda Summey Schoemer |
 | 226 | 180 | Lori Sainato |
 | 227 | 180 | Rechell Johnson |
 | 228 | 179 | Unapologetic' |
-| 229 | 178 | Turk Montana |
-| 230 | 176 | April Gravitt |
+| 229 | 178 | Amber Baker |
+| 230 | 178 | Turk Montana |
 | 231 | 176 | Erin Thomas |
-| 232 | 176 | Kristine Therriault |
-| 233 | 175 | Zippy Tiley |
-| 234 | 175 | Raycheen Guy |
-| 235 | 175 | Hobos Electriks |
-| 236 | 175 | Tom Eye |
-| 237 | 173 | Veronica Leigh Sullivan |
-| 238 | 173 | Elaine Elaine |
-| 239 | 172 | Denise Taylor |
+| 232 | 176 | April Gravitt |
+| 233 | 176 | Kristine Therriault |
+| 234 | 175 | Tom Eye |
+| 235 | 175 | Zippy Tiley |
+| 236 | 175 | Hobos Electriks |
+| 237 | 175 | Raycheen Guy |
+| 238 | 173 | Veronica Leigh Sullivan |
+| 239 | 173 | Elaine Elaine |
 | 240 | 172 | Tracy Taylor |
-| 241 | 171 | Dijonay Jones |
-| 242 | 170 | Bryon D Tann |
-| 243 | 166 | Susan A Kinsey |
-| 244 | 166 | Wade Lorensen |
-| 245 | 166 | Justin Canape |
-| 246 | 165 | Megan Helton |
-| 247 | 164 | Marty Hernandez |
-| 248 | 164 | Twisty Blockpiece |
-| 249 | 163 | Amber Baker |
+| 241 | 172 | Denise Taylor |
+| 242 | 171 | Dijonay Jones |
+| 243 | 170 | Bryon D Tann |
+| 244 | 166 | Susan A Kinsey |
+| 245 | 166 | Wade Lorensen |
+| 246 | 166 | Justin Canape |
+| 247 | 165 | Megan Helton |
+| 248 | 164 | Marty Hernandez |
+| 249 | 164 | Twisty Blockpiece |
 | 250 | 161 | Josh Vietz |
 | 251 | 161 | Jackie Chatham |
-| 252 | 160 | Jessica Weaver |
+| 252 | 160 | Michelle Ramirez |
 | 253 | 160 | ffff |
 | 254 | 160 | Janet Brown |
 | 255 | 160 | Chris Sladoje |
-| 256 | 160 | Jeremy Gochcoff |
-| 257 | 160 | Santi Angel Ramos |
-| 258 | 160 | SkipTheSadSauce |
-| 259 | 160 | Michelle Ramirez |
+| 256 | 160 | Santi Angel Ramos |
+| 257 | 160 | SkipTheSadSauce |
+| 258 | 160 | Jessica Weaver |
+| 259 | 160 | Jeremy Gochcoff |
 | 260 | 159 | Nonnina |
 | 261 | 159 | Renee |
 | 262 | 159 | Dottie Turbeville Creel |
