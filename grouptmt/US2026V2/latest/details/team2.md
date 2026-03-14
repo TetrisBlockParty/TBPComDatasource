@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 14:44:18 UTC
+# Standings for team2 as of 2026-03-14 14:44:40 UTC
 
 **Total Participants:** 1606
 
@@ -43,9 +43,9 @@
 | 35 | 1031 | Giggy Brickmatch |
 | 36 | 1011 | Payton Auberry |
 | 37 | 1004 | Naomii Seton |
-| 38 | 948 | Cynthia Ward |
-| 39 | 945 | Linda Lively |
-| 40 | 929 | Susan Fazio Edwards |
+| 38 | 949 | Susan Fazio Edwards |
+| 39 | 948 | Cynthia Ward |
+| 40 | 945 | Linda Lively |
 | 41 | 867 | Giggy Matchpiece |
 | 42 | 831 | Bubbly Twistpiece |
 | 43 | 826 | lovethedana |
@@ -860,68 +860,68 @@
 | 852 | 39 | GoblinHatcher |
 | 853 | 39 | Cheeky Clearbuilder |
 | 854 | 39 | Zany Jumper |
-| 855 | 39 | GoddessCandy |
-| 856 | 39 | Cranky Gridder |
-| 857 | 39 | Cozy Clearbuilder |
-| 858 | 39 | Bleu Grubb |
-| 859 | 39 | CaliGames |
-| 860 | 38 | Jason Pence |
+| 855 | 39 | Robyn Coleman Sadler |
+| 856 | 39 | GoddessCandy |
+| 857 | 39 | Cranky Gridder |
+| 858 | 39 | Cozy Clearbuilder |
+| 859 | 39 | Bleu Grubb |
+| 860 | 39 | CaliGames |
 | 861 | 38 | KEILANIU |
 | 862 | 38 | Cuttermonk |
-| 863 | 38 | Kevin Stultz |
-| 864 | 38 | Hyper Snap |
-| 865 | 38 | Rose |
+| 863 | 38 | Jason Pence |
+| 864 | 38 | Kevin Stultz |
+| 865 | 38 | Hyper Snap |
 | 866 | 38 | Angela Srubar-Norman |
-| 867 | 38 | Dai Bo |
-| 868 | 38 | Brandi Fuller Cason |
-| 869 | 38 | FrankyThumbs |
-| 870 | 38 | Juan Bonilla |
-| 871 | 38 | ElayneTrekand |
-| 872 | 37 | Old Man |
-| 873 | 37 | Ruchi Smit |
-| 874 | 37 | Mighty Slide |
-| 875 | 37 | Amanda Eakin |
-| 876 | 37 | Kelly Cox |
-| 877 | 37 | Nutty Linkgrid |
-| 878 | 37 | Chewy Chewy |
-| 879 | 37 | Jenny Gingrich Fuentes |
-| 880 | 37 | Lakeisha Dontwearitout Swoope |
-| 881 | 37 | Sara Knapp |
-| 882 | 37 | Bubbly Clearbuilder |
-| 883 | 37 | Cool Snapzone |
-| 884 | 37 | Sha45 |
-| 885 | 37 | Swanky Matchpiece |
-| 886 | 36 | Rarejewel Green |
-| 887 | 36 | Amykins |
-| 888 | 36 | Paul Gurwitz |
-| 889 | 36 | Smiley Match |
-| 890 | 36 | Sarah Count-it All-Joy |
-| 891 | 36 | infinimom |
-| 892 | 36 | Sandra McNab |
-| 893 | 36 | Diane Louise |
-| 894 | 36 | CocoKatt |
-| 895 | 36 | Brandon Maxey |
-| 896 | 36 | Sandra Schmidt |
-| 897 | 36 | SigmaWinchester |
-| 898 | 36 | Kaobe Schmeer |
-| 899 | 36 | Zesty Dasher |
-| 900 | 36 | sofiiya the forst |
-| 901 | 36 | Sudaien |
-| 902 | 35 | Matthew Heffran |
-| 903 | 35 | Hyper Stackbuilder |
-| 904 | 35 | rumpadump |
-| 905 | 35 | Jimmy Bowden |
-| 906 | 35 | Davery Spencer Adair |
-| 907 | 35 | Anthony Quick |
-| 908 | 35 | CLA |
+| 867 | 38 | Rose |
+| 868 | 38 | Dai Bo |
+| 869 | 38 | Brandi Fuller Cason |
+| 870 | 38 | FrankyThumbs |
+| 871 | 38 | Juan Bonilla |
+| 872 | 38 | ElayneTrekand |
+| 873 | 37 | Old Man |
+| 874 | 37 | Ruchi Smit |
+| 875 | 37 | Mighty Slide |
+| 876 | 37 | Amanda Eakin |
+| 877 | 37 | Kelly Cox |
+| 878 | 37 | Nutty Linkgrid |
+| 879 | 37 | Chewy Chewy |
+| 880 | 37 | Jenny Gingrich Fuentes |
+| 881 | 37 | Lakeisha Dontwearitout Swoope |
+| 882 | 37 | Sara Knapp |
+| 883 | 37 | Bubbly Clearbuilder |
+| 884 | 37 | Cool Snapzone |
+| 885 | 37 | Sha45 |
+| 886 | 37 | Swanky Matchpiece |
+| 887 | 36 | Rarejewel Green |
+| 888 | 36 | Amykins |
+| 889 | 36 | Paul Gurwitz |
+| 890 | 36 | Smiley Match |
+| 891 | 36 | Sarah Count-it All-Joy |
+| 892 | 36 | infinimom |
+| 893 | 36 | Sandra McNab |
+| 894 | 36 | Diane Louise |
+| 895 | 36 | CocoKatt |
+| 896 | 36 | Brandon Maxey |
+| 897 | 36 | Sandra Schmidt |
+| 898 | 36 | SigmaWinchester |
+| 899 | 36 | Kaobe Schmeer |
+| 900 | 36 | Zesty Dasher |
+| 901 | 36 | sofiiya the forst |
+| 902 | 36 | Sudaien |
+| 903 | 35 | Matthew Heffran |
+| 904 | 35 | Hyper Stackbuilder |
+| 905 | 35 | rumpadump |
+| 906 | 35 | Jimmy Bowden |
+| 907 | 35 | Davery Spencer Adair |
+| 908 | 35 | Anthony Quick |
 | 909 | 35 | Harley Q |
-| 910 | 35 | Chipper Stacky |
-| 911 | 35 | Brave Rotator |
+| 910 | 35 | CLA |
+| 911 | 35 | Chipper Stacky |
 | 912 | 35 | Nerdy Clusterfit |
-| 913 | 35 | Jackson Karen |
+| 913 | 35 | Brave Rotator |
 | 914 | 35 | Tiffany Leon |
 | 915 | 35 | Twisty Risebuilder |
-| 916 | 35 | Robyn Coleman Sadler |
+| 916 | 35 | Jackson Karen |
 | 917 | 35 | Blockyboyyy |
 | 918 | 35 | Angel Hunnewell |
 | 919 | 35 | Archimedean |
@@ -1408,27 +1408,27 @@
 | 1400 | 11 | Devyn Hanzich |
 | 1401 | 11 | Samantha Pulley |
 | 1402 | 11 | Wanda Yvette Daniels |
-| 1403 | 11 | Julio Chen-Ramos |
-| 1404 | 11 | Chummy Cascadepiece |
-| 1405 | 11 | Cassandra King Tyler |
-| 1406 | 11 | Cweej |
-| 1407 | 11 | Jo Jo |
-| 1408 | 11 | Amber Fore |
-| 1409 | 11 | Lillian Bringwald |
-| 1410 | 11 | Zany Blockfall |
+| 1403 | 11 | Zany Blockfall |
+| 1404 | 11 | Ryan Martin |
+| 1405 | 11 | Chummy Cascadepiece |
+| 1406 | 11 | Cassandra King Tyler |
+| 1407 | 11 | Cweej |
+| 1408 | 11 | Jo Jo |
+| 1409 | 11 | Amber Fore |
+| 1410 | 11 | Lillian Bringwald |
 | 1411 | 11 | JollyCrusher |
 | 1412 | 11 | Sassy Dashgrid |
 | 1413 | 11 | Brianna Haywood |
 | 1414 | 11 | BEANS |
 | 1415 | 11 | Janet Wall-Myers |
-| 1416 | 10 | Thomas Harmon |
-| 1417 | 10 | Kevin Leary |
-| 1418 | 10 | Marlene Espinosa |
-| 1419 | 10 | Rebecca Frango |
-| 1420 | 10 | MathyKathy |
-| 1421 | 10 | EKS |
-| 1422 | 10 | Zesty Faller |
-| 1423 | 10 | Ryan Martin |
+| 1416 | 11 | Julio Chen-Ramos |
+| 1417 | 10 | Zesty Faller |
+| 1418 | 10 | Thomas Harmon |
+| 1419 | 10 | Marlene Espinosa |
+| 1420 | 10 | Kevin Leary |
+| 1421 | 10 | Rebecca Frango |
+| 1422 | 10 | MathyKathy |
+| 1423 | 10 | EKS |
 | 1424 | 10 | Scott Smith |
 | 1425 | 10 | April C Theriault Foote |
 | 1426 | 10 | Vickie Briggs |
