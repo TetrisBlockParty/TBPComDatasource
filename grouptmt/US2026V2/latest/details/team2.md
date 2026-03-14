@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 01:30:16 UTC
+# Standings for team2 as of 2026-03-14 01:30:35 UTC
 
 **Total Participants:** 1052
 
@@ -36,8 +36,8 @@
 | 28 | 600 | Andrey Sharov |
 | 29 | 577 | Giggy Matchpiece |
 | 30 | 552 | Miranda Rush |
-| 31 | 550 | Jennifer Golub |
-| 32 | 550 | Peppy Zone |
+| 31 | 550 | Peppy Zone |
+| 32 | 550 | Jennifer Golub |
 | 33 | 550 | MzBerry |
 | 34 | 531 | CSOTYS |
 | 35 | 497 | Snippy Basepiece |
@@ -60,8 +60,8 @@
 | 52 | 349 | Naomii Seton |
 | 53 | 339 | Jumpy Breaker |
 | 54 | 329 | SterlingTeri |
-| 55 | 322 | Amanda Young |
-| 56 | 322 | Nicole Cannon |
+| 55 | 322 | Nicole Cannon |
+| 56 | 322 | Amanda Young |
 | 57 | 321 | Chassy Horton |
 | 58 | 320 | Jess |
 | 59 | 319 | Chipper Matchclear |
@@ -78,7 +78,7 @@
 | 70 | 254 | Jumpy Smasher |
 | 71 | 249 | Adam Charles |
 | 72 | 247 | Michael H. M. Skropka |
-| 73 | 243 | Jami Howard |
+| 73 | 245 | Jami Howard |
 | 74 | 240 | Becky McClure |
 | 75 | 240 | Guillaume Clermont |
 | 76 | 238 | Angela Mindiola |
