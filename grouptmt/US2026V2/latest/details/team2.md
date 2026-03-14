@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 11:18:39 UTC
+# Standings for team2 as of 2026-03-14 11:19:17 UTC
 
 **Total Participants:** 1490
 
@@ -119,9 +119,9 @@
 | 111 | 275 | Jo Frohwein |
 | 112 | 270 | Slinky Towerer |
 | 113 | 267 | Starr |
-| 114 | 266 | Brooke Sunderhaus |
-| 115 | 266 | Sheena Hachmann |
-| 116 | 266 | Slippery Clam |
+| 114 | 266 | Sheena Hachmann |
+| 115 | 266 | Slippery Clam |
+| 116 | 266 | Brooke Sunderhaus |
 | 117 | 265 | Michael H. M. Skropka |
 | 118 | 260 | Lori Schlachter Segui |
 | 119 | 256 | YAE |
@@ -129,15 +129,15 @@
 | 121 | 253 | Anna Faulkner |
 | 122 | 253 | Khalysta |
 | 123 | 252 | Snippy Towerpiece |
-| 124 | 251 | Jami Howard |
-| 125 | 251 | Angela Mindiola |
+| 124 | 251 | Angela Mindiola |
+| 125 | 251 | Jami Howard |
 | 126 | 248 | Dandy Crasher |
-| 127 | 245 | Plucky Snaplink |
-| 128 | 244 | Sass |
+| 127 | 247 | Sass |
+| 128 | 245 | Plucky Snaplink |
 | 129 | 244 | Jt Home |
 | 130 | 242 | Spice Ginger |
-| 131 | 241 | Amelia Anderson |
-| 132 | 241 | Nathaniel Hardy |
+| 131 | 241 | Nathaniel Hardy |
+| 132 | 241 | Amelia Anderson |
 | 133 | 240 | Guillaume Clermont |
 | 134 | 235 | Ultramarine |
 | 135 | 235 | Ella Marzano |
@@ -146,11 +146,11 @@
 | 138 | 226 | Kit Dennett |
 | 139 | 225 | Zippy Zoney |
 | 140 | 224 | Tya Ortiz |
-| 141 | 222 | 1RiRi1 |
-| 142 | 218 | Faith Meade |
-| 143 | 218 | Ben Dove |
-| 144 | 218 | Chelsea Clark |
-| 145 | 218 | Paul Hudak |
+| 141 | 223 | Paul Hudak |
+| 142 | 222 | 1RiRi1 |
+| 143 | 218 | Faith Meade |
+| 144 | 218 | Ben Dove |
+| 145 | 218 | Chelsea Clark |
 | 146 | 217 | Spunky Snapfit |
 | 147 | 216 | Dreamer |
 | 148 | 216 | BluBae |
@@ -272,28 +272,28 @@
 | 264 | 125 | Dreamy Clicky |
 | 265 | 123 | Christine Soltis |
 | 266 | 123 | Christina Freeman |
-| 267 | 122 | Buisanito |
-| 268 | 122 | Tanya Abernathy Jackson |
-| 269 | 122 | Michelle Allers |
-| 270 | 121 | Lisa Neal |
-| 271 | 121 | Cari Hogan |
-| 272 | 121 | Cheeky Dashy |
-| 273 | 120 | Vanessa Nguyen |
-| 274 | 120 | Twisty Shatter |
-| 275 | 120 | Marinara |
-| 276 | 120 | JTH |
-| 277 | 120 | Tiffany Smith |
-| 278 | 119 | Wishabishwood |
-| 279 | 118 | Alexander Zamora |
-| 280 | 118 | Elizabeth Mauri |
-| 281 | 118 | Megan Simpson |
-| 282 | 118 | Koipod |
-| 283 | 118 | Natasha |
-| 284 | 117 | Sonya Gail Goodman |
-| 285 | 116 | Looloo |
-| 286 | 115 | Jamie Mclean |
-| 287 | 115 | Marc Anthony Lopez |
-| 288 | 114 | Yoyareese |
+| 267 | 123 | Yoyareese |
+| 268 | 122 | Buisanito |
+| 269 | 122 | Tanya Abernathy Jackson |
+| 270 | 122 | Michelle Allers |
+| 271 | 121 | Lisa Neal |
+| 272 | 121 | Cari Hogan |
+| 273 | 121 | Cheeky Dashy |
+| 274 | 120 | Vanessa Nguyen |
+| 275 | 120 | Twisty Shatter |
+| 276 | 120 | Marinara |
+| 277 | 120 | JTH |
+| 278 | 120 | Tiffany Smith |
+| 279 | 119 | Wishabishwood |
+| 280 | 118 | Alexander Zamora |
+| 281 | 118 | Elizabeth Mauri |
+| 282 | 118 | Megan Simpson |
+| 283 | 118 | Koipod |
+| 284 | 118 | Natasha |
+| 285 | 117 | Sonya Gail Goodman |
+| 286 | 116 | Looloo |
+| 287 | 115 | Jamie Mclean |
+| 288 | 115 | Marc Anthony Lopez |
 | 289 | 114 | Amanda Segura |
 | 290 | 114 | Slinky Linkgrid |
 | 291 | 114 | Dimitra Zazara |
