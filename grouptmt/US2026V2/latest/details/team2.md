@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 08:37:16 UTC
+# Standings for team2 as of 2026-03-14 08:38:18 UTC
 
 **Total Participants:** 1425
 
@@ -26,7 +26,7 @@
 | 18 | 1714 | Joshua Hopkins |
 | 19 | 1600 | Kelly Kihe |
 | 20 | 1600 | 1nonlyreal1 |
-| 21 | 1313 | Tanya Smith |
+| 21 | 1328 | Tanya Smith |
 | 22 | 1312 | Kelley Ann |
 | 23 | 1294 | Toni Lynn |
 | 24 | 1293 | Emarie |
@@ -55,8 +55,8 @@
 | 47 | 601 | Chipper Matchclear |
 | 48 | 597 | Giggy Matchpiece |
 | 49 | 594 | LolaSmilez |
-| 50 | 580 | Becky McClure |
-| 51 | 565 | lovethedana |
+| 50 | 587 | lovethedana |
+| 51 | 580 | Becky McClure |
 | 52 | 561 | CSOTYS |
 | 53 | 550 | Jennifer Golub |
 | 54 | 550 | Peppy Zone |
@@ -294,43 +294,43 @@
 | 286 | 106 | titrissss |
 | 287 | 105 | Morgan Anne Witty |
 | 288 | 104 | Abby Jensen |
-| 289 | 104 | Ash Whitley |
-| 290 | 103 | Brittany Backus |
-| 291 | 103 | Mighty Zone |
-| 292 | 103 | Devin |
-| 293 | 101 | Sammy |
-| 294 | 100 | Goofy Linkmatch |
-| 295 | 100 | Kennedy Sandifer |
-| 296 | 100 | Shanny Anny |
-| 297 | 100 | Chilly Fallgrid |
-| 298 | 100 | Jeremiah Gensler |
-| 299 | 100 | Ashley Moore |
-| 300 | 100 | btchboy |
-| 301 | 100 | Ryan Parson |
-| 302 | 100 | Aldo Hernandez |
-| 303 | 99 | Libby |
-| 304 | 99 | Jay |
+| 289 | 104 | Jay |
+| 290 | 104 | Ash Whitley |
+| 291 | 103 | Brittany Backus |
+| 292 | 103 | Mighty Zone |
+| 293 | 103 | Devin |
+| 294 | 101 | Sammy |
+| 295 | 100 | Goofy Linkmatch |
+| 296 | 100 | Kennedy Sandifer |
+| 297 | 100 | Shanny Anny |
+| 298 | 100 | Chilly Fallgrid |
+| 299 | 100 | Jeremiah Gensler |
+| 300 | 100 | Ashley Moore |
+| 301 | 100 | btchboy |
+| 302 | 100 | Ryan Parson |
+| 303 | 100 | Aldo Hernandez |
+| 304 | 99 | Libby |
 | 305 | 98 | Tipsy Glidezone |
 | 306 | 98 | Haley Lynn Agers |
-| 307 | 98 | MrMais89 |
-| 308 | 98 | Jjza |
-| 309 | 98 | Christy Green |
+| 307 | 98 | Christy Green |
+| 308 | 98 | MrMais89 |
+| 309 | 98 | Jjza |
 | 310 | 97 | CharalaAnn |
 | 311 | 97 | Robert Fenton |
-| 312 | 96 | Nilla |
-| 313 | 96 | Tia Simmons |
-| 314 | 95 | Phredda Compton |
-| 315 | 95 | Kimyatta Cavin |
-| 316 | 95 | Shiny Gridmatch |
-| 317 | 95 | Marshall Renee |
-| 318 | 94 | Jean Yap |
+| 312 | 96 | Cheeky Dashy |
+| 313 | 96 | Nilla |
+| 314 | 96 | Tia Simmons |
+| 315 | 95 | Marshall Renee |
+| 316 | 95 | Kimyatta Cavin |
+| 317 | 95 | Shiny Gridmatch |
+| 318 | 95 | Phredda Compton |
 | 319 | 94 | Dan Smith |
-| 320 | 94 | Lesha |
-| 321 | 94 | Sam Hall |
+| 320 | 94 | Jean Yap |
+| 321 | 94 | Lesha |
 | 322 | 94 | Amy Villalpando |
-| 323 | 94 | LD1 |
-| 324 | 93 | Loony Puzzle |
-| 325 | 91 | Cheeky Dashy |
+| 323 | 94 | Sam Hall |
+| 324 | 94 | LD1 |
+| 325 | 93 | Loony Puzzle |
 | 326 | 91 | Arson Fox |
 | 327 | 90 | Shawna McKinney |
 | 328 | 90 | Daniel Moore |
@@ -356,31 +356,31 @@
 | 348 | 83 | Hasty Pivoty |
 | 349 | 83 | bigdad |
 | 350 | 83 | Monica Galli |
-| 351 | 82 | JinxxedMozzerella |
-| 352 | 82 | Juana |
-| 353 | 82 | Shelbs |
-| 354 | 82 | Emilie Creswell |
-| 355 | 82 | Trish Newell |
-| 356 | 81 | Jumpy Cascadeclear |
-| 357 | 81 | Marla Erin Salas |
-| 358 | 81 | Giddy Gridmatch |
-| 359 | 81 | Tonya Hadsell |
-| 360 | 80 | Joy Young |
-| 361 | 80 | GirlMom5 |
-| 362 | 80 | Danielle Weikel |
-| 363 | 80 | Plucky Glide |
-| 364 | 80 | Dusti Holbrook |
-| 365 | 80 | Junang Herowanto |
-| 366 | 79 | Dana Hicks |
-| 367 | 79 | Dreamy Snapgrid |
-| 368 | 79 | Shawn Haines |
-| 369 | 79 | Alboo |
-| 370 | 78 | Yloponom Gamez |
-| 371 | 77 | Kristi Riley |
-| 372 | 77 | John De Guzman Sydiongco |
-| 373 | 77 | Emily Wooden |
-| 374 | 77 | Kiki Moore |
-| 375 | 77 | Kit Dennett |
+| 351 | 83 | Kit Dennett |
+| 352 | 82 | Trish Newell |
+| 353 | 82 | JinxxedMozzerella |
+| 354 | 82 | Juana |
+| 355 | 82 | Shelbs |
+| 356 | 82 | Emilie Creswell |
+| 357 | 81 | Jumpy Cascadeclear |
+| 358 | 81 | Marla Erin Salas |
+| 359 | 81 | Giddy Gridmatch |
+| 360 | 81 | Tonya Hadsell |
+| 361 | 80 | Joy Young |
+| 362 | 80 | GirlMom5 |
+| 363 | 80 | Danielle Weikel |
+| 364 | 80 | Plucky Glide |
+| 365 | 80 | Dusti Holbrook |
+| 366 | 80 | Junang Herowanto |
+| 367 | 79 | Dana Hicks |
+| 368 | 79 | Dreamy Snapgrid |
+| 369 | 79 | Shawn Haines |
+| 370 | 79 | Alboo |
+| 371 | 78 | Yloponom Gamez |
+| 372 | 77 | Kristi Riley |
+| 373 | 77 | John De Guzman Sydiongco |
+| 374 | 77 | Emily Wooden |
+| 375 | 77 | Kiki Moore |
 | 376 | 77 | Jam4 |
 | 377 | 76 | Lilypop |
 | 378 | 76 | Olivia Gwin |
