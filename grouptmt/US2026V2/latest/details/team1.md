@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 11:20:40 UTC
+# Standings for team1 as of 2026-03-14 11:21:16 UTC
 
 **Total Participants:** 1555
 
@@ -112,18 +112,18 @@
 | 104 | 335 | TotoCherue |
 | 105 | 331 | Jasmine Riley |
 | 106 | 329 | Elyse YL |
-| 107 | 328 | Justin Jerome |
-| 108 | 328 | @n@luvmakin |
-| 109 | 326 | Frilly Climber |
-| 110 | 326 | Yolanda M Harris |
+| 107 | 328 | @n@luvmakin |
+| 108 | 328 | Justin Jerome |
+| 109 | 326 | Yolanda M Harris |
+| 110 | 326 | Frilly Climber |
 | 111 | 321 | jenna |
 | 112 | 309 | Carrie Trigg |
 | 113 | 303 | Jess Rose |
 | 114 | 300 | Diamond Madison |
 | 115 | 282 | Amy R Clinton |
 | 116 | 280 | Marianne Louise West |
-| 117 | 279 | Ern2burn |
-| 118 | 279 | Hasbro Bros |
+| 117 | 279 | Hasbro Bros |
+| 118 | 279 | Ern2burn |
 | 119 | 277 | Shaynna Garza |
 | 120 | 276 | Jessi Sauer |
 | 121 | 275 | Witty Wipegrid |
@@ -136,30 +136,30 @@
 | 128 | 241 | Heatherly |
 | 129 | 234 | Jr_420 |
 | 130 | 234 | beep |
-| 131 | 233 | Haley Anne |
-| 132 | 233 | Charis Stoner |
+| 131 | 233 | Charis Stoner |
+| 132 | 233 | Haley Anne |
 | 133 | 229 | Randall Sykes |
 | 134 | 228 | Legendary |
 | 135 | 226 | JonCorry Story |
 | 136 | 224 | Peachy Brick |
 | 137 | 223 | Dawn Hoffman |
-| 138 | 220 | Darci Cline |
-| 139 | 220 | Cassandra Latimore |
-| 140 | 220 | Jevon Griffith |
-| 141 | 220 | Liliana Pena |
+| 138 | 220 | Cassandra Latimore |
+| 139 | 220 | Jevon Griffith |
+| 140 | 220 | Liliana Pena |
+| 141 | 220 | Darci Cline |
 | 142 | 217 | Beka |
 | 143 | 217 | DeeBee |
-| 144 | 213 | Big rick !!! |
-| 145 | 213 | Porshe Garthwaite |
-| 146 | 211 | Nutty Cascadefit |
-| 147 | 211 | Jumpy Spinblock |
-| 148 | 211 | lefty |
+| 144 | 213 | Porshe Garthwaite |
+| 145 | 213 | Big rick !!! |
+| 146 | 211 | lefty |
+| 147 | 211 | Nutty Cascadefit |
+| 148 | 211 | Jumpy Spinblock |
 | 149 | 210 | Jason Rogers |
-| 150 | 205 | Sunny Swiper |
-| 151 | 204 | Bryan Temple |
-| 152 | 204 | Giggly Rotate |
-| 153 | 203 | Amber Zeller Rice |
-| 154 | 201 | Nanan Nanan |
+| 150 | 206 | Nanan Nanan |
+| 151 | 205 | Sunny Swiper |
+| 152 | 204 | Bryan Temple |
+| 153 | 204 | Giggly Rotate |
+| 154 | 203 | Amber Zeller Rice |
 | 155 | 200 | Dude |
 | 156 | 200 | Angel Mendez |
 | 157 | 196 | Jason Whitehair |
@@ -290,14 +290,14 @@
 | 282 | 101 | Margo Fenton |
 | 283 | 101 | Bold Clear |
 | 284 | 101 | Macy Williams |
-| 285 | 100 | Britters |
+| 285 | 100 | Ann Brock LaPorte |
 | 286 | 100 | Jeremy Mitchell |
 | 287 | 100 | Dee |
 | 288 | 100 | Snippy Piecegrid |
-| 289 | 100 | Fancy Towerfall |
-| 290 | 100 | Cesar Morelos |
-| 291 | 100 | Brandy Ridgeway |
-| 292 | 100 | Ann Brock LaPorte |
+| 289 | 100 | Britters |
+| 290 | 100 | Fancy Towerfall |
+| 291 | 100 | Cesar Morelos |
+| 292 | 100 | Brandy Ridgeway |
 | 293 | 99 | Lakie Fogle |
 | 294 | 99 | Kim Bays |
 | 295 | 99 | Christopher James Cienfuegos |
@@ -305,13 +305,13 @@
 | 297 | 98 | Brittney Groler |
 | 298 | 98 | Aaron Higdon |
 | 299 | 98 | TexasLise |
-| 300 | 97 | Tig |
-| 301 | 96 | Kerryann Morrah |
-| 302 | 96 | 1_Roxanne_3 |
-| 303 | 96 | Victoria Davis Torie |
-| 304 | 96 | Laura Hosford |
-| 305 | 96 | Kellia S Johnson |
-| 306 | 95 | Andretta Wilder |
+| 300 | 98 | Andretta Wilder |
+| 301 | 97 | Tig |
+| 302 | 96 | Kerryann Morrah |
+| 303 | 96 | 1_Roxanne_3 |
+| 304 | 96 | Victoria Davis Torie |
+| 305 | 96 | Laura Hosford |
+| 306 | 96 | Kellia S Johnson |
 | 307 | 94 | Denise Vardy Vanlanker |
 | 308 | 94 | Tabitha Cornelious |
 | 309 | 94 | Rebecca Wilson |
