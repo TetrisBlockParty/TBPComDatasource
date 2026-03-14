@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 06:55:16 UTC
+# Standings for team2 as of 2026-03-14 06:56:17 UTC
 
 **Total Participants:** 1375
 
@@ -1038,48 +1038,48 @@
 | 1030 | 18 | Lewis Sturgeon |
 | 1031 | 18 | Sweetyam22 |
 | 1032 | 18 | Brian Wangler |
-| 1033 | 18 | Manny Diaz |
-| 1034 | 18 | Lady Love |
-| 1035 | 18 | Jeremy Steines |
-| 1036 | 18 | Dizzy Edgefit |
-| 1037 | 18 | Mike Davis |
-| 1038 | 17 | Anthony Parks |
-| 1039 | 17 | Chummy Blockline |
+| 1033 | 18 | tippytappy |
+| 1034 | 18 | Manny Diaz |
+| 1035 | 18 | Lady Love |
+| 1036 | 18 | Jeremy Steines |
+| 1037 | 18 | Dizzy Edgefit |
+| 1038 | 18 | Mike Davis |
+| 1039 | 17 | Anthony Parks |
 | 1040 | 17 | Lively Patternline |
 | 1041 | 17 | Jai Sweetz |
-| 1042 | 17 | Kasheba Y Bowens |
-| 1043 | 17 | Terry Partain |
-| 1044 | 17 | Diana |
-| 1045 | 17 | Chipper Clicky |
-| 1046 | 17 | Rachel Eliza |
-| 1047 | 17 | Lisa Neal |
-| 1048 | 17 | Jim Kelly |
-| 1049 | 17 | Hannibal Musa |
-| 1050 | 17 | Karina Rodriguez |
-| 1051 | 17 | Jenn |
-| 1052 | 17 | Shiny Framezone |
-| 1053 | 17 | Anthony Heavens |
-| 1054 | 17 | Amber Wright |
+| 1042 | 17 | Chummy Blockline |
+| 1043 | 17 | Kasheba Y Bowens |
+| 1044 | 17 | Terry Partain |
+| 1045 | 17 | Diana |
+| 1046 | 17 | Chipper Clicky |
+| 1047 | 17 | Rachel Eliza |
+| 1048 | 17 | Lisa Neal |
+| 1049 | 17 | Jim Kelly |
+| 1050 | 17 | Hannibal Musa |
+| 1051 | 17 | Karina Rodriguez |
+| 1052 | 17 | Cheery Clearfit |
+| 1053 | 17 | Jenn |
+| 1054 | 17 | Shiny Framezone |
 | 1055 | 17 | Nek |
-| 1056 | 17 | Cheery Clearfit |
-| 1057 | 16 | Bumblebee |
+| 1056 | 17 | Amber Wright |
+| 1057 | 17 | Anthony Heavens |
 | 1058 | 16 | Savannah Chavez |
-| 1059 | 16 | Durand Douglas |
-| 1060 | 16 | Joe Andrews |
-| 1061 | 16 | Amanda |
+| 1059 | 16 | Amanda |
+| 1060 | 16 | Durand Douglas |
+| 1061 | 16 | Joe Andrews |
 | 1062 | 16 | Frank |
-| 1063 | 16 | gymjim |
-| 1064 | 16 | Tipsy Blockfall |
-| 1065 | 16 | Dizzy Dasher |
-| 1066 | 16 | Sam |
+| 1063 | 16 | Tipsy Blockfall |
+| 1064 | 16 | Dizzy Dasher |
+| 1065 | 16 | Sam |
+| 1066 | 16 | Bumblebee |
 | 1067 | 16 | Emily Price |
 | 1068 | 16 | Paul Islas |
-| 1069 | 16 | Cheeky Brickfit |
-| 1070 | 16 | Nutty Shatterclear |
-| 1071 | 16 | tippytappy |
-| 1072 | 16 | Sandra Belk |
-| 1073 | 16 | k8y |
-| 1074 | 16 | Selena Combee |
+| 1069 | 16 | Sandra Belk |
+| 1070 | 16 | k8y |
+| 1071 | 16 | Selena Combee |
+| 1072 | 16 | gymjim |
+| 1073 | 16 | Nutty Shatterclear |
+| 1074 | 16 | Cheeky Brickfit |
 | 1075 | 16 | Laura Buckley |
 | 1076 | 16 | Darin Benning |
 | 1077 | 16 | Jacques Frenette |
