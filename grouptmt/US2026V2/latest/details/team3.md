@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-14 08:02:17 UTC
+# Standings for team3 as of 2026-03-14 08:02:38 UTC
 
 **Total Participants:** 2246
 
@@ -104,9 +104,9 @@
 | 96 | 405 | Sashay Tapae Simpson |
 | 97 | 403 | Jonna Ralling |
 | 98 | 400 | Andrea Hurt |
-| 99 | 392 | Jessi Cinotto |
-| 100 | 390 | Torrey Jackson |
-| 101 | 387 | Stef-Anne Courtney |
+| 99 | 398 | Stef-Anne Courtney |
+| 100 | 392 | Jessi Cinotto |
+| 101 | 390 | Torrey Jackson |
 | 102 | 385 | Jaxxs50 |
 | 103 | 378 | PinkDiamond |
 | 104 | 359 | smalls |
@@ -260,20 +260,20 @@
 | 252 | 154 | Barba |
 | 253 | 153 | Zappy Blockfall |
 | 254 | 153 | Dorian |
-| 255 | 151 | Sassy Column |
+| 255 | 151 | Wade Lorensen |
 | 256 | 151 | Shelly Griggs |
 | 257 | 151 | Justin Ernst |
-| 258 | 151 | Shelby |
-| 259 | 151 | Lenora Price |
-| 260 | 150 | Bertina Ladyt Jones |
-| 261 | 150 | Nubian1 |
-| 262 | 150 | Zachera Jta |
-| 263 | 150 | SootyBhaker |
-| 264 | 150 | FancyElf |
-| 265 | 150 | Marie Wright |
-| 266 | 149 | Kelly Crianza |
-| 267 | 148 | Jenny McMullin |
-| 268 | 147 | Wade Lorensen |
+| 258 | 151 | Sassy Column |
+| 259 | 151 | Shelby |
+| 260 | 151 | Lenora Price |
+| 261 | 150 | Bertina Ladyt Jones |
+| 262 | 150 | Nubian1 |
+| 263 | 150 | Zachera Jta |
+| 264 | 150 | SootyBhaker |
+| 265 | 150 | FancyElf |
+| 266 | 150 | Marie Wright |
+| 267 | 149 | Kelly Crianza |
+| 268 | 148 | Jenny McMullin |
 | 269 | 143 | Chipper Slide |
 | 270 | 142 | Snazzy Basegrid |
 | 271 | 141 | Elizabeth Charles |
