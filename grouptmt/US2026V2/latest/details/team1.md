@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 08:56:38 UTC
+# Standings for team1 as of 2026-03-14 08:57:16 UTC
 
 **Total Participants:** 1507
 
@@ -193,15 +193,15 @@
 | 185 | 146 | Matthew Bunn |
 | 186 | 145 | Ancient Intuition |
 | 187 | 144 | Hhholmesjr |
-| 188 | 143 | Quirky Catcher |
+| 188 | 143 | Albert Josef Toves Means Jr. |
 | 189 | 143 | Alexis Garcia |
-| 190 | 141 | TotoCherue |
-| 191 | 141 | Chris |
-| 192 | 140 | Bubba |
-| 193 | 140 | Mighty Patternbuilder |
-| 194 | 140 | Tee Tee Greene |
-| 195 | 140 | Allena Craft |
-| 196 | 140 | Albert Josef Toves Means Jr. |
+| 190 | 143 | Quirky Catcher |
+| 191 | 141 | TotoCherue |
+| 192 | 141 | Chris |
+| 193 | 140 | Bubba |
+| 194 | 140 | Mighty Patternbuilder |
+| 195 | 140 | Tee Tee Greene |
+| 196 | 140 | Allena Craft |
 | 197 | 138 | David Rojas |
 | 198 | 138 | Cynthia Petz |
 | 199 | 136 | Porshe Garthwaite |

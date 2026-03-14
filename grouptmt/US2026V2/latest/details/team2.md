@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 08:56:38 UTC
+# Standings for team2 as of 2026-03-14 08:57:16 UTC
 
 **Total Participants:** 1439
 
@@ -1173,38 +1173,38 @@
 | 1165 | 14 | Mel |
 | 1166 | 14 | LiseePooh |
 | 1167 | 14 | BluSkyes |
-| 1168 | 14 | Frilly Dropmatch |
-| 1169 | 14 | Mary Frappier Rader |
+| 1168 | 14 | PartyStarter |
+| 1169 | 14 | Frilly Dropmatch |
 | 1170 | 14 | Sam Sam |
-| 1171 | 14 | Glitzy Towerfit |
-| 1172 | 14 | Kita A Jackson |
+| 1171 | 14 | Mary Frappier Rader |
+| 1172 | 14 | Glitzy Towerfit |
 | 1173 | 14 | Logan Abbott |
 | 1174 | 14 | Scruffy Rose |
-| 1175 | 14 | Goofy Block |
-| 1176 | 14 | Steven L Robinson Jr |
-| 1177 | 14 | Otf Johnta |
-| 1178 | 14 | Jackie Avila |
-| 1179 | 14 | Chilly Mover |
-| 1180 | 13 | Christina Nabrizny |
-| 1181 | 13 | Skeetris |
-| 1182 | 13 | Staybutterfly |
-| 1183 | 13 | Ashby Ray |
-| 1184 | 13 | Cheyenne Waller |
-| 1185 | 13 | Kendra Hahn |
-| 1186 | 13 | Jenny Carrier |
-| 1187 | 13 | エリカ エンフバヤル |
-| 1188 | 13 | Perky Rollfit |
-| 1189 | 13 | Dandy Crasher |
-| 1190 | 13 | Christopher Mastropietro |
-| 1191 | 13 | Spencer John |
-| 1192 | 13 | Lizzy44@ |
-| 1193 | 13 | PartyStarter |
+| 1175 | 14 | Kita A Jackson |
+| 1176 | 14 | Goofy Block |
+| 1177 | 14 | Steven L Robinson Jr |
+| 1178 | 14 | Otf Johnta |
+| 1179 | 14 | Jackie Avila |
+| 1180 | 14 | Chilly Mover |
+| 1181 | 13 | Christina Nabrizny |
+| 1182 | 13 | Skeetris |
+| 1183 | 13 | Staybutterfly |
+| 1184 | 13 | Ashby Ray |
+| 1185 | 13 | Cheyenne Waller |
+| 1186 | 13 | Kendra Hahn |
+| 1187 | 13 | Lizzy44@ |
+| 1188 | 13 | Spencer John |
+| 1189 | 13 | Christopher Mastropietro |
+| 1190 | 13 | Jenny Carrier |
+| 1191 | 13 | Dandy Crasher |
+| 1192 | 13 | Perky Rollfit |
+| 1193 | 13 | エリカ エンフバヤル |
 | 1194 | 13 | Amanda |
-| 1195 | 12 | Paul Kapusinski |
+| 1195 | 12 | Peppy Dashfit |
 | 1196 | 12 | Marlisa Clark |
 | 1197 | 12 | Dapper Stacker |
-| 1198 | 12 | Peppy Dashfit |
-| 1199 | 12 | Chipper Puzzler |
+| 1198 | 12 | Chipper Puzzler |
+| 1199 | 12 | Paul Kapusinski |
 | 1200 | 12 | Suzy |
 | 1201 | 12 | Christine Kelly-Sarni |
 | 1202 | 12 | Somthin |
