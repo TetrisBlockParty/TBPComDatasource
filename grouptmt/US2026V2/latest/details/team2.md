@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 18:08:19 UTC
+# Standings for team2 as of 2026-03-14 18:08:39 UTC
 
 **Total Participants:** 1725
 
@@ -166,9 +166,9 @@
 | 158 | 267 | Starr |
 | 159 | 267 | Spice Ginger |
 | 160 | 266 | Slippery Clam |
-| 161 | 262 | Jjza |
-| 162 | 260 | Jasmine Kenney |
-| 163 | 260 | Ben Dove |
+| 161 | 264 | Ben Dove |
+| 162 | 262 | Jjza |
+| 163 | 260 | Jasmine Kenney |
 | 164 | 256 | YAE |
 | 165 | 255 | Pixie |
 | 166 | 254 | Snippy Towerpiece |
