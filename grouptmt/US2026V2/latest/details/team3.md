@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-14 11:42:17 UTC
+# Standings for team3 as of 2026-03-14 11:43:17 UTC
 
 **Total Participants:** 2365
 
@@ -240,93 +240,93 @@
 | 232 | 180 | Lori Sainato |
 | 233 | 180 | Rechell Johnson |
 | 234 | 178 | Turk Montana |
-| 235 | 176 | Kristine Therriault |
-| 236 | 176 | April Gravitt |
+| 235 | 176 | April Gravitt |
+| 236 | 176 | Kristine Therriault |
 | 237 | 176 | Erin Thomas |
-| 238 | 175 | Hobos Electriks |
-| 239 | 175 | Tom Eye |
-| 240 | 175 | Zippy Tiley |
-| 241 | 175 | Raycheen Guy |
-| 242 | 173 | Veronica Leigh Sullivan |
+| 238 | 176 | Happy Winder |
+| 239 | 175 | Hobos Electriks |
+| 240 | 175 | Tom Eye |
+| 241 | 175 | Zippy Tiley |
+| 242 | 175 | Raycheen Guy |
 | 243 | 173 | Elaine Elaine |
-| 244 | 172 | Denise Taylor |
-| 245 | 172 | Tracy Taylor |
-| 246 | 171 | Dijonay Jones |
-| 247 | 170 | Justin Canape |
-| 248 | 166 | Susan A Kinsey |
-| 249 | 166 | Slinky Roll |
+| 244 | 173 | Veronica Leigh Sullivan |
+| 245 | 172 | Denise Taylor |
+| 246 | 172 | Tracy Taylor |
+| 247 | 171 | Dijonay Jones |
+| 248 | 170 | Justin Canape |
+| 249 | 166 | Susan A Kinsey |
 | 250 | 166 | Wade Lorensen |
-| 251 | 165 | Megan Helton |
-| 252 | 164 | Twisty Blockpiece |
-| 253 | 164 | Marty Hernandez |
-| 254 | 161 | Jackie Chatham |
+| 251 | 166 | Slinky Roll |
+| 252 | 165 | Megan Helton |
+| 253 | 164 | Twisty Blockpiece |
+| 254 | 164 | Marty Hernandez |
 | 255 | 161 | Josh Vietz |
-| 256 | 160 | ffff |
-| 257 | 160 | Santi Angel Ramos |
-| 258 | 160 | Janet Brown |
-| 259 | 160 | Chris Sladoje |
-| 260 | 160 | Michelle Ramirez |
-| 261 | 160 | Jessica Weaver |
-| 262 | 160 | SkipTheSadSauce |
+| 256 | 161 | Jackie Chatham |
+| 257 | 160 | Janet Brown |
+| 258 | 160 | Michelle Ramirez |
+| 259 | 160 | Santi Angel Ramos |
+| 260 | 160 | ffff |
+| 261 | 160 | SkipTheSadSauce |
+| 262 | 160 | Jessica Weaver |
 | 263 | 160 | Jeremy Gochcoff |
-| 264 | 159 | Nonnina |
+| 264 | 160 | Chris Sladoje |
 | 265 | 159 | Renee |
 | 266 | 159 | Dottie Turbeville Creel |
-| 267 | 157 | Brittany Rosales |
+| 267 | 159 | Nonnina |
 | 268 | 157 | Megan Lea |
-| 269 | 156 | Teenie |
-| 270 | 155 | Cindy Fisher |
+| 269 | 157 | Brittany Rosales |
+| 270 | 156 | Teenie |
 | 271 | 155 | Swanky Pattern |
-| 272 | 154 | Trish Love |
-| 273 | 153 | LadybugChaos |
-| 274 | 153 | Zappy Blockfall |
-| 275 | 153 | Dorian |
-| 276 | 152 | M Rock |
-| 277 | 151 | Shelby |
-| 278 | 151 | Sassy Column |
+| 272 | 155 | Cindy Fisher |
+| 273 | 154 | Trish Love |
+| 274 | 153 | Dorian |
+| 275 | 153 | Zappy Blockfall |
+| 276 | 153 | LadybugChaos |
+| 277 | 152 | M Rock |
+| 278 | 151 | Shelby |
 | 279 | 151 | Lenora Price |
-| 280 | 151 | Shelly Griggs |
-| 281 | 151 | Justin Ernst |
-| 282 | 150 | FancyElf |
+| 280 | 151 | Sassy Column |
+| 281 | 151 | Shelly Griggs |
+| 282 | 151 | Justin Ernst |
 | 283 | 150 | Nubian1 |
-| 284 | 150 | Marie Wright |
-| 285 | 150 | SootyBhaker |
-| 286 | 150 | Zachera Jta |
-| 287 | 150 | Bertina Ladyt Jones |
-| 288 | 149 | Kelly Crianza |
+| 284 | 150 | FancyElf |
+| 285 | 150 | Marie Wright |
+| 286 | 150 | SootyBhaker |
+| 287 | 150 | Zachera Jta |
+| 288 | 150 | Bertina Ladyt Jones |
 | 289 | 149 | Kristen Meyer |
-| 290 | 148 | Jenny McMullin |
-| 291 | 148 | Jennifer Anderson |
-| 292 | 147 | Michelle Siriani |
-| 293 | 145 | Cindy Le |
-| 294 | 144 | Chipper Slide |
-| 295 | 144 | James Fuller |
-| 296 | 144 | lilseasonz |
-| 297 | 143 | John Jubes |
-| 298 | 142 | Snazzy Basegrid |
-| 299 | 141 | Block Baddie |
-| 300 | 141 | Elizabeth Charles |
-| 301 | 140 | Blakkha Brown |
-| 302 | 140 | Moist_B-hole |
-| 303 | 140 | Chris Gillis |
-| 304 | 138 | Amy Jackson |
+| 290 | 149 | Kelly Crianza |
+| 291 | 148 | Jenny McMullin |
+| 292 | 148 | Jennifer Anderson |
+| 293 | 147 | Michelle Siriani |
+| 294 | 145 | Cindy Le |
+| 295 | 144 | Chipper Slide |
+| 296 | 144 | James Fuller |
+| 297 | 144 | lilseasonz |
+| 298 | 143 | John Jubes |
+| 299 | 142 | Snazzy Basegrid |
+| 300 | 141 | Block Baddie |
+| 301 | 141 | Elizabeth Charles |
+| 302 | 140 | Chris Gillis |
+| 303 | 140 | Moist_B-hole |
+| 304 | 140 | Blakkha Brown |
 | 305 | 138 | Josh Hernandez |
-| 306 | 138 | Persephone |
-| 307 | 137 | Peachy Breaker |
+| 306 | 138 | Amy Jackson |
+| 307 | 138 | Persephone |
 | 308 | 137 | Crystal Cheresnowsky |
 | 309 | 137 | Teleah Allen |
-| 310 | 137 | Jason West |
-| 311 | 137 | Tee E Cortez |
-| 312 | 136 | Peachy Fall |
-| 313 | 135 | Sean Michaels |
-| 314 | 135 | Samantha Corey |
-| 315 | 135 | TriKaraTops |
-| 316 | 135 | KkBaby |
-| 317 | 135 | Donald Calcutt |
-| 318 | 135 | Chastity Mitchell |
-| 319 | 134 | Gin |
-| 320 | 134 | Sunshine Party |
-| 321 | 133 | Happy Winder |
+| 310 | 137 | Peachy Breaker |
+| 311 | 137 | Jason West |
+| 312 | 137 | Tee E Cortez |
+| 313 | 136 | Peachy Fall |
+| 314 | 135 | KkBaby |
+| 315 | 135 | Sean Michaels |
+| 316 | 135 | Samantha Corey |
+| 317 | 135 | TriKaraTops |
+| 318 | 135 | Donald Calcutt |
+| 319 | 135 | Chastity Mitchell |
+| 320 | 134 | Gin |
+| 321 | 134 | Sunshine Party |
 | 322 | 132 | Rosalie Call Kehlenbeck |
 | 323 | 132 | Bsrn |
 | 324 | 131 | Andre Love |
@@ -334,8 +334,8 @@
 | 326 | 130 | Fancy Piecebuilder |
 | 327 | 130 | Misty Bennett |
 | 328 | 130 | Tanya R Bowen |
-| 329 | 129 | Lori Miller |
-| 330 | 129 | Cam Smeaton |
+| 329 | 129 | Cam Smeaton |
+| 330 | 129 | Lori Miller |
 | 331 | 129 | Cari Brown Cady |
 | 332 | 128 | George Valdes |
 | 333 | 128 | Block head |
