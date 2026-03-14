@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 21:42:19 UTC
+# Standings for team1 as of 2026-03-14 21:42:42 UTC
 
 **Total Participants:** 1895
 
@@ -30,8 +30,8 @@
 | 22 | 2321 | Itz Kevo |
 | 23 | 2299 | Megan Klinkner |
 | 24 | 2182 | Brad Oneill |
-| 25 | 2155 | Amy Roche |
-| 26 | 2135 | Selena Rollin |
+| 25 | 2155 | Selena Rollin |
+| 26 | 2155 | Amy Roche |
 | 27 | 2127 | phrmblk24 |
 | 28 | 2088 | Jordan W Hamilton |
 | 29 | 1916 | Michael Texidor |
