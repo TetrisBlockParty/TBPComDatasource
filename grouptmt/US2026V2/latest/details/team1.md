@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 08:14:38 UTC
+# Standings for team1 as of 2026-03-14 08:15:18 UTC
 
 **Total Participants:** 1495
 
@@ -44,10 +44,10 @@
 | 36 | 1058 | Kesha Brady |
 | 37 | 1049 | Dom The Great |
 | 38 | 1047 | Audicia Bailey |
-| 39 | 1000 | Robert Jansen |
-| 40 | 993 | phrmblk24 |
-| 41 | 989 | Donavon Krahn |
-| 42 | 987 | Katie Daniels |
+| 39 | 1007 | Katie Daniels |
+| 40 | 1000 | Robert Jansen |
+| 41 | 993 | phrmblk24 |
+| 42 | 989 | Donavon Krahn |
 | 43 | 960 | Selena Rollin |
 | 44 | 941 | Kris Hudelson |
 | 45 | 904 | Zach Thompson |
@@ -61,8 +61,8 @@
 | 53 | 687 | Giddy Cascade |
 | 54 | 684 | Tim Raper |
 | 55 | 683 | Tina Blessed Cage |
-| 56 | 679 | Michael DeRosa |
-| 57 | 679 | Venechia Berry |
+| 56 | 679 | Venechia Berry |
+| 57 | 679 | Michael DeRosa |
 | 58 | 675 | Joshua Dye |
 | 59 | 668 | Michael Powers |
 | 60 | 652 | Hellsin |
@@ -202,13 +202,13 @@
 | 194 | 138 | David Rojas |
 | 195 | 136 | Jason Whitehair |
 | 196 | 136 | Porshe Garthwaite |
-| 197 | 134 | Armoni |
-| 198 | 134 | Albert Josef Toves Means Jr. |
-| 199 | 134 | Lively Patternfall |
-| 200 | 132 | Jennifer Lynn |
-| 201 | 132 | Trina Gee |
-| 202 | 132 | Eric Hoffman |
-| 203 | 131 | Bingo Wingo |
+| 197 | 135 | Bingo Wingo |
+| 198 | 134 | Armoni |
+| 199 | 134 | Albert Josef Toves Means Jr. |
+| 200 | 134 | Lively Patternfall |
+| 201 | 132 | Jennifer Lynn |
+| 202 | 132 | Trina Gee |
+| 203 | 132 | Eric Hoffman |
 | 204 | 130 | Philippines |
 | 205 | 130 | Florna Primrose |
 | 206 | 128 | Marie Helman |
