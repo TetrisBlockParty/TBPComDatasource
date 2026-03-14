@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-14 11:12:17 UTC
+# Standings for team3 as of 2026-03-14 11:12:36 UTC
 
 **Total Participants:** 2344
 
@@ -390,49 +390,49 @@
 | 382 | 114 | TinyLegoRose |
 | 383 | 114 | Robby Roberts |
 | 384 | 114 | Cesar Mendez |
-| 385 | 113 | Kati Russeau |
-| 386 | 113 | Jessica Grayson |
-| 387 | 113 | Chris Bell |
-| 388 | 113 | Leslie Meyer |
+| 385 | 113 | Jessica Grayson |
+| 386 | 113 | Chris Bell |
+| 387 | 113 | Leslie Meyer |
+| 388 | 113 | Kati Russeau |
 | 389 | 112 | Tammy Martinez |
-| 390 | 111 | Monique Adame Rosas |
-| 391 | 111 | Gazoo |
-| 392 | 111 | Angel Graham |
-| 393 | 111 | LaLa Anderson |
-| 394 | 110 | Rin |
-| 395 | 110 | Liz Littlefield |
-| 396 | 110 | Amelia Hollis |
-| 397 | 110 | Shannon Wilson |
-| 398 | 109 | Rebecca Herrington |
-| 399 | 109 | Robyn Roberts |
-| 400 | 109 | Brittney Ann |
+| 390 | 111 | LaLa Anderson |
+| 391 | 111 | Angel Graham |
+| 392 | 111 | Monique Adame Rosas |
+| 393 | 111 | Gazoo |
+| 394 | 110 | Gin |
+| 395 | 110 | Amelia Hollis |
+| 396 | 110 | Shannon Wilson |
+| 397 | 110 | Liz Littlefield |
+| 398 | 110 | Rin |
+| 399 | 109 | Monica Bernal |
+| 400 | 109 | Rebecca Herrington |
 | 401 | 109 | Jessy Santiago Alfonso |
-| 402 | 109 | Clever Patternblock |
-| 403 | 109 | Monica Bernal |
-| 404 | 109 | Rachel Rosario |
-| 405 | 108 | Suzy Fox-Anderson |
-| 406 | 108 | Lisa Rachelle Blackmonson |
-| 407 | 107 | Holly Reed |
-| 408 | 107 | Jere Crawford |
-| 409 | 107 | Kyrie Cleasby |
+| 402 | 109 | Brittney Ann |
+| 403 | 109 | Rachel Rosario |
+| 404 | 109 | Clever Patternblock |
+| 405 | 109 | Robyn Roberts |
+| 406 | 108 | Suzy Fox-Anderson |
+| 407 | 108 | Lisa Rachelle Blackmonson |
+| 408 | 107 | Holly Reed |
+| 409 | 107 | Jere Crawford |
 | 410 | 107 | April Shanahan |
-| 411 | 107 | Cee Moss |
-| 412 | 106 | Brittany Lynn Sass |
+| 411 | 107 | Kyrie Cleasby |
+| 412 | 107 | Cee Moss |
 | 413 | 106 | Bucky Dent |
 | 414 | 106 | RVTRCR |
-| 415 | 105 | Christina Marie Beall-Schmidt |
-| 416 | 105 | Sarah Morrissey |
+| 415 | 106 | Brittany Lynn Sass |
+| 416 | 105 | Christina Marie Beall-Schmidt |
 | 417 | 105 | waaaaa |
-| 418 | 104 | Gin |
-| 419 | 104 | Tony Waters |
+| 418 | 105 | Sarah Morrissey |
+| 419 | 104 | Boldy Curve |
 | 420 | 104 | Boda |
-| 421 | 104 | Boldy Curve |
-| 422 | 103 | Irie |
-| 423 | 103 | Sassy Rumbler |
+| 421 | 104 | Tony Waters |
+| 422 | 103 | Sassy Rumbler |
+| 423 | 103 | Irie |
 | 424 | 102 | Valerie Woodall |
 | 425 | 101 | Ashley Ayala |
-| 426 | 101 | Molly Hinshaw |
-| 427 | 101 | Alkaben Fortunato |
+| 426 | 101 | Alkaben Fortunato |
+| 427 | 101 | Molly Hinshaw |
 | 428 | 100 | Destiny Ellsworth |
 | 429 | 100 | Flashy Slice |
 | 430 | 100 | Spicy Snapfit |
@@ -935,59 +935,59 @@
 | 927 | 48 | Amy Daugherty |
 | 928 | 48 | Anna Hernandez |
 | 929 | 48 | Nicole Smith |
-| 930 | 48 | Seg Z Nig Ah |
-| 931 | 48 | Elcenia Brown |
-| 932 | 48 | Victoria Lexis Dyer |
-| 933 | 48 | kb |
-| 934 | 48 | David Bardo |
+| 930 | 48 | Antoinette Arellano |
+| 931 | 48 | Seg Z Nig Ah |
+| 932 | 48 | Elcenia Brown |
+| 933 | 48 | Victoria Lexis Dyer |
+| 934 | 48 | kb |
 | 935 | 48 | Deborah Parr Kline |
-| 936 | 48 | Juliet Weathers |
-| 937 | 48 | Peachy Spinbuilder |
-| 938 | 48 | Chilly Bridgepiece |
-| 939 | 48 | Big kris |
-| 940 | 48 | Camille Graves Havard |
-| 941 | 47 | MoneyMom |
-| 942 | 47 | Terri Tatem |
-| 943 | 47 | ERO |
-| 944 | 47 | Ashley Parker |
-| 945 | 47 | Lilahnarcisa Morrow |
-| 946 | 47 | Stephanie |
-| 947 | 47 | Himothy |
-| 948 | 47 | Amanda And Scott Lauger |
-| 949 | 47 | secret gal |
-| 950 | 47 | DeeVine |
-| 951 | 47 | Suzanne Mayne Kinney |
-| 952 | 47 | Reina Roth |
-| 953 | 47 | Andrea Taylor |
-| 954 | 47 | Kristin Joy |
-| 955 | 47 | IDmoney |
+| 936 | 48 | David Bardo |
+| 937 | 48 | Juliet Weathers |
+| 938 | 48 | Peachy Spinbuilder |
+| 939 | 48 | Chilly Bridgepiece |
+| 940 | 48 | Big kris |
+| 941 | 48 | Camille Graves Havard |
+| 942 | 47 | MoneyMom |
+| 943 | 47 | Terri Tatem |
+| 944 | 47 | ERO |
+| 945 | 47 | Ashley Parker |
+| 946 | 47 | Lilahnarcisa Morrow |
+| 947 | 47 | Stephanie |
+| 948 | 47 | Himothy |
+| 949 | 47 | DeeVine |
+| 950 | 47 | Amanda And Scott Lauger |
+| 951 | 47 | secret gal |
+| 952 | 47 | Suzanne Mayne Kinney |
+| 953 | 47 | IDmoney |
+| 954 | 47 | Andrea Taylor |
+| 955 | 47 | Kristin Joy |
 | 956 | 47 | Nani |
-| 957 | 46 | Lisa Lisa |
-| 958 | 46 | Racheal Warren |
-| 959 | 46 | Tiffany Gamble |
-| 960 | 46 | Zeel Patel |
-| 961 | 46 | Hank |
-| 962 | 46 | Wacky Shift |
-| 963 | 46 | Rachel Gamble |
-| 964 | 46 | Larry Tilton |
-| 965 | 46 | Witty Linkroll |
-| 966 | 46 | Pamela Swist |
-| 967 | 46 | peekaboo |
-| 968 | 46 | Dena Nagel Manley |
-| 969 | 46 | Teresa Nola |
-| 970 | 46 | Funky Brickster |
-| 971 | 46 | Antoinette Arellano |
-| 972 | 46 | Missy Pierce |
-| 973 | 46 | Snappy Shatterfit |
-| 974 | 46 | TJ Carter |
-| 975 | 46 | Larina Cherie Johnson |
-| 976 | 45 | Emjae Tupaz-Rivera |
-| 977 | 45 | Mandy Hanford |
-| 978 | 45 | Kim Bollinger |
-| 979 | 45 | Lacey King |
-| 980 | 45 | Silly Striker |
-| 981 | 45 | Beeners |
-| 982 | 45 | Abigail Julian |
+| 957 | 47 | Reina Roth |
+| 958 | 46 | Pamela Swist |
+| 959 | 46 | Wacky Shift |
+| 960 | 46 | Rachel Gamble |
+| 961 | 46 | Larry Tilton |
+| 962 | 46 | Larina Cherie Johnson |
+| 963 | 46 | TJ Carter |
+| 964 | 46 | Witty Linkroll |
+| 965 | 46 | Hank |
+| 966 | 46 | Zeel Patel |
+| 967 | 46 | Missy Pierce |
+| 968 | 46 | peekaboo |
+| 969 | 46 | Dena Nagel Manley |
+| 970 | 46 | Racheal Warren |
+| 971 | 46 | Teresa Nola |
+| 972 | 46 | Funky Brickster |
+| 973 | 46 | Tiffany Gamble |
+| 974 | 46 | Snappy Shatterfit |
+| 975 | 46 | Lisa Lisa |
+| 976 | 45 | Abigail Julian |
+| 977 | 45 | Kim Bollinger |
+| 978 | 45 | Mandy Hanford |
+| 979 | 45 | Emjae Tupaz-Rivera |
+| 980 | 45 | Lacey King |
+| 981 | 45 | Silly Striker |
+| 982 | 45 | Beeners |
 | 983 | 45 | Vic |
 | 984 | 45 | Shannon N Hastings |
 | 985 | 45 | Niecyy |
@@ -995,11 +995,11 @@
 | 987 | 45 | Spicy Edgepiece |
 | 988 | 45 | Michelle Brickey-Friley |
 | 989 | 45 | Angela Brookins |
-| 990 | 45 | Marleen Rodriguez Ocampo |
-| 991 | 45 | brian |
-| 992 | 45 | Tyler Krotine |
-| 993 | 45 | Lynn Marie |
-| 994 | 45 | Leena |
+| 990 | 45 | Leena |
+| 991 | 45 | Marleen Rodriguez Ocampo |
+| 992 | 45 | brian |
+| 993 | 45 | Tyler Krotine |
+| 994 | 45 | Lynn Marie |
 | 995 | 45 | Kammy Hill |
 | 996 | 45 | Maria Baez Medina |
 | 997 | 45 | Bold Dashpiece |
