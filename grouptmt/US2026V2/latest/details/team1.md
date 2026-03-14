@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 14:00:17 UTC
+# Standings for team1 as of 2026-03-14 14:00:38 UTC
 
 **Total Participants:** 1646
 
@@ -154,9 +154,9 @@
 | 146 | 244 | Cassandra Latimore |
 | 147 | 241 | Heatherly |
 | 148 | 239 | Dawn Hoffman |
-| 149 | 234 | Jr_420 |
-| 150 | 233 | Haley Anne |
-| 151 | 230 | Fancy Ziggy |
+| 149 | 235 | Fancy Ziggy |
+| 150 | 234 | Jr_420 |
+| 151 | 233 | Haley Anne |
 | 152 | 229 | Randall Sykes |
 | 153 | 228 | Legendary |
 | 154 | 226 | JonCorry Story |

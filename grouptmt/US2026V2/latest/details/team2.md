@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 14:00:17 UTC
+# Standings for team2 as of 2026-03-14 14:00:38 UTC
 
 **Total Participants:** 1579
 
@@ -426,96 +426,96 @@
 | 418 | 84 | Paula Little |
 | 419 | 84 | Brandy Hayhurst |
 | 420 | 84 | Dbabe |
-| 421 | 83 | Monica Galli |
-| 422 | 83 | Leslie Nicole |
-| 423 | 83 | Hasty Pivoty |
+| 421 | 83 | Leslie Nicole |
+| 422 | 83 | Hasty Pivoty |
+| 423 | 83 | Chirpy Dash |
 | 424 | 83 | Zesty Clear |
-| 425 | 82 | Rebecca Goforth |
-| 426 | 82 | JinxxedMozzerella |
-| 427 | 82 | Shelbs |
-| 428 | 82 | Mandi Mayweather |
-| 429 | 82 | Juana |
-| 430 | 82 | Emilie Creswell |
-| 431 | 82 | Carlos Landin |
-| 432 | 81 | Jumpy Cascadeclear |
-| 433 | 81 | Marla Erin Salas |
+| 425 | 83 | Monica Galli |
+| 426 | 82 | Emilie Creswell |
+| 427 | 82 | JinxxedMozzerella |
+| 428 | 82 | Juana |
+| 429 | 82 | Mandi Mayweather |
+| 430 | 82 | Shelbs |
+| 431 | 82 | Rebecca Goforth |
+| 432 | 82 | Carlos Landin |
+| 433 | 81 | Jumpy Cascadeclear |
 | 434 | 81 | Scott Martinson |
-| 435 | 80 | Junang Herowanto |
-| 436 | 80 | ImmortelT |
-| 437 | 80 | Clever Roll |
-| 438 | 80 | Happy Brickbuilder |
-| 439 | 80 | GirlMom5 |
-| 440 | 80 | Keyata Wright |
-| 441 | 80 | Sbs |
-| 442 | 80 | Joy Young |
-| 443 | 80 | Plucky Glide |
-| 444 | 80 | Danielle Weikel |
-| 445 | 80 | Chirpy Dash |
+| 435 | 81 | Marla Erin Salas |
+| 436 | 80 | Clever Roll |
+| 437 | 80 | Keyata Wright |
+| 438 | 80 | ImmortelT |
+| 439 | 80 | Plucky Glide |
+| 440 | 80 | Junang Herowanto |
+| 441 | 80 | Happy Brickbuilder |
+| 442 | 80 | GirlMom5 |
+| 443 | 80 | Sbs |
+| 444 | 80 | Joy Young |
+| 445 | 80 | Danielle Weikel |
 | 446 | 80 | Glitzy Dash |
 | 447 | 79 | Alboo |
-| 448 | 79 | Anita Johnson |
-| 449 | 79 | Emily Wooden |
-| 450 | 79 | Dreamy Snapgrid |
-| 451 | 79 | Dana Hicks |
+| 448 | 79 | Emily Wooden |
+| 449 | 79 | Anita Johnson |
+| 450 | 79 | Dana Hicks |
+| 451 | 79 | Dreamy Snapgrid |
 | 452 | 78 | Steady Treal |
 | 453 | 78 | Lavella Tburg |
 | 454 | 78 | Dizzy Edgefit |
 | 455 | 77 | Jam4 |
 | 456 | 77 | Kiki Moore |
 | 457 | 77 | Charleen Beyer |
-| 458 | 76 | Teresa Longwell |
-| 459 | 76 | Lilypop |
-| 460 | 75 | Lindsay Lucas |
-| 461 | 75 | Trouble |
-| 462 | 75 | Zippy Tile |
+| 458 | 76 | Lilypop |
+| 459 | 76 | Teresa Longwell |
+| 460 | 75 | Trouble |
+| 461 | 75 | Zippy Tile |
+| 462 | 75 | Lindsay Lucas |
 | 463 | 75 | Angie Jacobs |
 | 464 | 75 | Albany Broadway |
-| 465 | 74 | Ryan LaCasse |
-| 466 | 74 | Carla Roberson |
+| 465 | 74 | Carla Roberson |
+| 466 | 74 | Stitch Aura |
 | 467 | 74 | Mona Sharma |
-| 468 | 74 | Stitch Aura |
-| 469 | 73 | Dondon Cheng |
-| 470 | 73 | Michael |
-| 471 | 73 | SD Temple |
-| 472 | 73 | Shea Ladynick Henderson |
-| 473 | 73 | Mel Thomas-Young |
+| 468 | 74 | Ryan LaCasse |
+| 469 | 73 | Shea Ladynick Henderson |
+| 470 | 73 | Mel Thomas-Young |
+| 471 | 73 | Michael |
+| 472 | 73 | SD Temple |
+| 473 | 73 | Dondon Cheng |
 | 474 | 73 | Tyler Bechtel |
 | 475 | 73 | boogadee |
 | 476 | 72 | Angela Gay |
 | 477 | 72 | Nerdy Rollzone |
-| 478 | 72 | Priscilla Dae Jones |
-| 479 | 72 | LeVeL27 |
-| 480 | 72 | Honu Noste |
-| 481 | 72 | Staci George Fitzsimmons |
-| 482 | 72 | Marciala Pineda Juarez |
-| 483 | 72 | Rachel Eliza |
-| 484 | 72 | JoJo |
-| 485 | 72 | Rileyy Rocket |
+| 478 | 72 | Rileyy Rocket |
+| 479 | 72 | Priscilla Dae Jones |
+| 480 | 72 | LeVeL27 |
+| 481 | 72 | Rachel Eliza |
+| 482 | 72 | JoJo |
+| 483 | 72 | Marciala Pineda Juarez |
+| 484 | 72 | Honu Noste |
+| 485 | 72 | Staci George Fitzsimmons |
 | 486 | 71 | May May |
-| 487 | 71 | Tash Bell |
+| 487 | 71 | Melissa Boldt |
 | 488 | 71 | Cozmo |
-| 489 | 71 | Melissa Boldt |
-| 490 | 71 | HarleyJane |
-| 491 | 71 | Chyrisse Norton |
-| 492 | 71 | Henry Lanier |
+| 489 | 71 | Tash Bell |
+| 490 | 71 | Henry Lanier |
+| 491 | 71 | HarleyJane |
+| 492 | 71 | Chyrisse Norton |
 | 493 | 71 | Victoria Barkefelt |
 | 494 | 71 | Alexsa Crespo |
 | 495 | 71 | Jumpy Filler |
 | 496 | 70 | Kelly |
-| 497 | 70 | Sarah Marie |
-| 498 | 70 | Caitlyn Brown |
-| 499 | 70 | Sonceria Ingram-Ford |
-| 500 | 70 | Toph |
-| 501 | 70 | Melody Santiago |
-| 502 | 69 | Roxana Shaffer Goff |
-| 503 | 69 | Jessica Prewitt |
-| 504 | 69 | Jelessa Locklear |
-| 505 | 69 | scott |
-| 506 | 69 | Greg Shekailo |
-| 507 | 69 | Jason McCloy |
-| 508 | 68 | Mango |
-| 509 | 68 | Danielle Thompkins |
-| 510 | 68 | Destiny Brady |
+| 497 | 70 | Melody Santiago |
+| 498 | 70 | Sonceria Ingram-Ford |
+| 499 | 70 | Toph |
+| 500 | 70 | Sarah Marie |
+| 501 | 70 | Caitlyn Brown |
+| 502 | 69 | Jason McCloy |
+| 503 | 69 | Greg Shekailo |
+| 504 | 69 | Roxana Shaffer Goff |
+| 505 | 69 | Jessica Prewitt |
+| 506 | 69 | Jelessa Locklear |
+| 507 | 69 | scott |
+| 508 | 68 | Danielle Thompkins |
+| 509 | 68 | Destiny Brady |
+| 510 | 68 | Mango |
 | 511 | 68 | Elizabeth Smith |
 | 512 | 68 | Michelle Sharpe |
 | 513 | 68 | Twisty Tiler |
