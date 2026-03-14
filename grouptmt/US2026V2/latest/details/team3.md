@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-14 07:38:38 UTC
+# Standings for team3 as of 2026-03-14 07:39:16 UTC
 
 **Total Participants:** 2234
 
@@ -108,9 +108,9 @@
 | 100 | 390 | Torrey Jackson |
 | 101 | 387 | Stef-Anne Courtney |
 | 102 | 385 | Jaxxs50 |
-| 103 | 348 | TopazR |
-| 104 | 347 | PhillyTitan |
-| 105 | 346 | smalls |
+| 103 | 359 | smalls |
+| 104 | 348 | TopazR |
+| 105 | 347 | PhillyTitan |
 | 106 | 342 | Cherrish Duren |
 | 107 | 339 | Brizmit |
 | 108 | 338 | Matthew |
