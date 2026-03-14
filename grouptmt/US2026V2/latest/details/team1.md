@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 06:54:17 UTC
+# Standings for team1 as of 2026-03-14 06:55:16 UTC
 
 **Total Participants:** 1457
 
@@ -63,7 +63,7 @@
 | 55 | 675 | Joshua Dye |
 | 56 | 669 | Tim Raper |
 | 57 | 652 | Hellsin |
-| 58 | 637 | Kat Mfm Kaul |
+| 58 | 638 | Kat Mfm Kaul |
 | 59 | 601 | Ana Fernanda Sanchez |
 | 60 | 595 | Chris Wanner |
 | 61 | 563 | Tom |
@@ -167,8 +167,8 @@
 | 159 | 161 | DreamyMoon |
 | 160 | 160 | Caitlin Zakrzewski |
 | 161 | 158 | Ecami |
-| 162 | 156 | Rat666 |
-| 163 | 155 | Donald Nguyen |
+| 162 | 157 | Donald Nguyen |
+| 163 | 156 | Rat666 |
 | 164 | 154 | Silly Ziggy |
 | 165 | 153 | Happy Shatterfit |
 | 166 | 151 | Hasty Lift |
@@ -281,54 +281,54 @@
 | 273 | 93 | Witty Clusterfit |
 | 274 | 93 | NunYa |
 | 275 | 92 | Misty Blanchard |
-| 276 | 92 | Jenny Stratton Cozart |
+| 276 | 92 | Laura Hosford |
 | 277 | 92 | Shiny Shiftspin |
-| 278 | 92 | Laura Hosford |
-| 279 | 92 | Walker Patterson |
+| 278 | 92 | Walker Patterson |
+| 279 | 92 | Jenny Stratton Cozart |
 | 280 | 91 | April McGuffie |
 | 281 | 90 | Jonathan Gaffaney |
-| 282 | 90 | MetalBrickLayer |
+| 282 | 90 | Andrew Duron |
 | 283 | 90 | William Ramirez |
-| 284 | 90 | Andrew Duron |
-| 285 | 90 | Chill Shiftspin |
-| 286 | 90 | Laci Hutson |
-| 287 | 89 | Damion Woods |
-| 288 | 89 | Thorpedo |
-| 289 | 89 | Irene Medina |
-| 290 | 88 | Jeremy Mitchell |
-| 291 | 88 | Bold Zonegrid |
+| 284 | 90 | Laci Hutson |
+| 285 | 90 | MetalBrickLayer |
+| 286 | 90 | Chill Shiftspin |
+| 287 | 89 | Irene Medina |
+| 288 | 89 | Damion Woods |
+| 289 | 89 | Thorpedo |
+| 290 | 88 | Bold Zonegrid |
+| 291 | 88 | Jeremy Mitchell |
 | 292 | 87 | Erich EMac McIntosh |
-| 293 | 86 | Erica Catherine |
-| 294 | 86 | Nicole Plummer |
-| 295 | 86 | Kristen Hall |
-| 296 | 86 | Sassy Cascadepiece |
-| 297 | 85 | Rebecca Martin |
+| 293 | 86 | Kristen Hall |
+| 294 | 86 | Erica Catherine |
+| 295 | 86 | Sassy Cascadepiece |
+| 296 | 86 | Nicole Plummer |
+| 297 | 85 | Jennifer Negrete |
 | 298 | 85 | Ryry |
-| 299 | 85 | Jennifer Negrete |
-| 300 | 84 | Moe Thought |
+| 299 | 85 | Rebecca Martin |
+| 300 | 84 | Tawny Mo |
 | 301 | 84 | Tessa N Davis |
-| 302 | 84 | Tawny Mo |
-| 303 | 83 | Mary Pelley |
-| 304 | 83 | LT |
+| 302 | 84 | Moe Thought |
+| 303 | 83 | LT |
+| 304 | 83 | Mary Pelley |
 | 305 | 82 | MammaCass |
 | 306 | 82 | Boldy Clear |
-| 307 | 81 | April Carroll |
-| 308 | 80 | Tami Luce Martin |
-| 309 | 80 | bea |
-| 310 | 80 | Teddy Marshall |
-| 311 | 80 | HugeLoad |
+| 307 | 82 | Gina Annese |
+| 308 | 81 | April Carroll |
+| 309 | 80 | Tami Luce Martin |
+| 310 | 80 | bea |
+| 311 | 80 | Teddy Marshall |
 | 312 | 80 | DeJuan Green |
-| 313 | 80 | TetrisWoo |
-| 314 | 80 | Rebecca Rognerud |
-| 315 | 80 | Smashanator |
-| 316 | 80 | Zachary Moran |
-| 317 | 80 | JustMeNonna |
-| 318 | 80 | Hannah Carter |
-| 319 | 80 | Katt Brown-Thomas |
-| 320 | 79 | Poppy Builderline |
-| 321 | 78 | Stormy May |
-| 322 | 78 | Penny Clark |
-| 323 | 78 | Gina Annese |
+| 313 | 80 | HugeLoad |
+| 314 | 80 | TetrisWoo |
+| 315 | 80 | Rebecca Rognerud |
+| 316 | 80 | Smashanator |
+| 317 | 80 | Zachary Moran |
+| 318 | 80 | JustMeNonna |
+| 319 | 80 | Hannah Carter |
+| 320 | 80 | Katt Brown-Thomas |
+| 321 | 79 | Poppy Builderline |
+| 322 | 78 | Stormy May |
+| 323 | 78 | Penny Clark |
 | 324 | 78 | Dizzy Glidebuilder |
 | 325 | 77 | SpaceCase085 |
 | 326 | 77 | Dan Engelhard |
