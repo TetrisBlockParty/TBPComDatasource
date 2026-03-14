@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 08:34:17 UTC
+# Standings for team2 as of 2026-03-14 08:34:39 UTC
 
 **Total Participants:** 1424
 
@@ -24,8 +24,8 @@
 | 16 | 1894 | Ramen Noodle |
 | 17 | 1736 | Aubree Richard |
 | 18 | 1714 | Joshua Hopkins |
-| 19 | 1600 | 1nonlyreal1 |
-| 20 | 1600 | Kelly Kihe |
+| 19 | 1600 | Kelly Kihe |
+| 20 | 1600 | 1nonlyreal1 |
 | 21 | 1313 | Tanya Smith |
 | 22 | 1312 | Kelley Ann |
 | 23 | 1294 | Toni Lynn |
