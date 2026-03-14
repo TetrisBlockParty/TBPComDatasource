@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 17:54:18 UTC
+# Standings for team2 as of 2026-03-14 17:54:40 UTC
 
 **Total Participants:** 1719
 
@@ -341,9 +341,9 @@
 | 333 | 132 | Ramona Marie Eruera |
 | 334 | 132 | Jolie Hatfield |
 | 335 | 131 | Tee Jaleesa |
-| 336 | 131 | Loony Puzzle |
-| 337 | 130 | Kristie |
-| 338 | 130 | Chill Builder |
+| 336 | 131 | Chill Builder |
+| 337 | 131 | Loony Puzzle |
+| 338 | 130 | Kristie |
 | 339 | 130 | Dizzy Brickline |
 | 340 | 130 | Chilly Fallgrid |
 | 341 | 130 | Tyler Werts |
@@ -534,10 +534,10 @@
 | 526 | 80 | GirlMom5 |
 | 527 | 80 | ImmortelT |
 | 528 | 80 | Lavella Tburg |
-| 529 | 80 | Rackemwillie34 |
-| 530 | 80 | Joy Young |
-| 531 | 80 | Carly Ann Maxwell |
-| 532 | 80 | Destiny Brady |
+| 529 | 80 | Carly Ann Maxwell |
+| 530 | 80 | Rackemwillie34 |
+| 531 | 80 | Destiny Brady |
+| 532 | 80 | Joy Young |
 | 533 | 80 | Danielle Weikel |
 | 534 | 80 | Joe Andrews |
 | 535 | 80 | Elizabeth Hinkens |
@@ -556,63 +556,63 @@
 | 548 | 77 | Sabrina Cearley |
 | 549 | 77 | Kiki Moore |
 | 550 | 77 | Trouble |
-| 551 | 76 | Mike Hromowyk |
-| 552 | 76 | Teresa Longwell |
-| 553 | 76 | kippykay |
-| 554 | 76 | Lilypop |
-| 555 | 75 | Roll1000 |
-| 556 | 75 | Shankee mgee |
-| 557 | 75 | Angie Jacobs |
-| 558 | 75 | Sarah Marie |
-| 559 | 75 | Grace Rubalcada |
-| 560 | 74 | Ryan LaCasse |
+| 551 | 77 | Lela Berklund |
+| 552 | 76 | Mike Hromowyk |
+| 553 | 76 | Teresa Longwell |
+| 554 | 76 | kippykay |
+| 555 | 76 | Lilypop |
+| 556 | 75 | Roll1000 |
+| 557 | 75 | Shankee mgee |
+| 558 | 75 | Angie Jacobs |
+| 559 | 75 | Sarah Marie |
+| 560 | 75 | Grace Rubalcada |
 | 561 | 74 | Dondon Cheng |
-| 562 | 74 | Stitch Aura |
-| 563 | 74 | Lela Berklund |
-| 564 | 74 | Staci George Fitzsimmons |
-| 565 | 74 | Carla Roberson |
+| 562 | 74 | Ryan LaCasse |
+| 563 | 74 | Stitch Aura |
+| 564 | 74 | Carla Roberson |
+| 565 | 74 | Staci George Fitzsimmons |
 | 566 | 74 | Ryan Martin |
-| 567 | 73 | Mel Thomas-Young |
-| 568 | 73 | SD Temple |
-| 569 | 73 | Lively Blockroll |
-| 570 | 73 | Miranda Taylor |
-| 571 | 73 | Chyrisse Norton |
-| 572 | 73 | HarleyJane |
-| 573 | 73 | Casandra Alisa Rocker |
+| 567 | 73 | Miranda Taylor |
+| 568 | 73 | Chyrisse Norton |
+| 569 | 73 | Casandra Alisa Rocker |
+| 570 | 73 | Lively Blockroll |
+| 571 | 73 | HarleyJane |
+| 572 | 73 | Mel Thomas-Young |
+| 573 | 73 | SD Temple |
 | 574 | 72 | Ashley Leonard |
-| 575 | 72 | Rachel Eliza |
-| 576 | 72 | Marciala Pineda Juarez |
+| 575 | 72 | Marciala Pineda Juarez |
+| 576 | 72 | Rachel Eliza |
 | 577 | 72 | Star |
-| 578 | 72 | Honu Noste |
-| 579 | 72 | Priscilla Dae Jones |
+| 578 | 72 | Priscilla Dae Jones |
+| 579 | 72 | Honu Noste |
 | 580 | 72 | Angela Gay |
 | 581 | 72 | Nerdy Rollzone |
 | 582 | 71 | Lab2dablock |
 | 583 | 71 | Alexsa Crespo |
 | 584 | 71 | Melissa Boldt |
 | 585 | 71 | Tash Bell |
-| 586 | 71 | Henry Lanier |
-| 587 | 71 | Cozmo |
-| 588 | 71 | Sarah Somers Gray |
-| 589 | 71 | May May |
-| 590 | 71 | Victoria Barkefelt |
-| 591 | 70 | Melody Santiago |
+| 586 | 71 | Cozmo |
+| 587 | 71 | Victoria Barkefelt |
+| 588 | 71 | Henry Lanier |
+| 589 | 71 | Sarah Somers Gray |
+| 590 | 71 | May May |
+| 591 | 70 | Laura |
 | 592 | 70 | Caitlyn Brown |
 | 593 | 70 | Jaylene Lawrence |
-| 594 | 70 | Laura |
+| 594 | 70 | Melody Santiago |
 | 595 | 70 | Hoppy Match |
 | 596 | 70 | Kelly |
 | 597 | 70 | Comedian Gdane |
 | 598 | 69 | Jason McCloy |
-| 599 | 69 | Jelessa Locklear |
-| 600 | 69 | Audrey Jones |
-| 601 | 69 | Tiffany Leon |
-| 602 | 69 | Tracey Cox |
-| 603 | 69 | Kristin Montoya |
+| 599 | 69 | Kristin Montoya |
+| 600 | 69 | Poppy |
+| 601 | 69 | Jelessa Locklear |
+| 602 | 69 | Timothy Poole |
+| 603 | 69 | Audrey Jones |
 | 604 | 69 | Chris Jammey |
-| 605 | 69 | Michelle Sager |
-| 606 | 69 | Timothy Poole |
-| 607 | 69 | Poppy |
+| 605 | 69 | Tracey Cox |
+| 606 | 69 | Tiffany Leon |
+| 607 | 69 | Michelle Sager |
 | 608 | 68 | Danielle Thompkins |
 | 609 | 68 | Elizabeth Smith |
 | 610 | 68 | Twisty Tiler |
