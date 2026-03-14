@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 07:24:17 UTC
+# Standings for team1 as of 2026-03-14 07:24:38 UTC
 
 **Total Participants:** 1476
 
@@ -175,9 +175,9 @@
 | 167 | 151 | Hasty Lift |
 | 168 | 151 | Beth Anderson |
 | 169 | 150 | Desiree Jenson |
-| 170 | 150 | Jena Overall Prescott |
-| 171 | 150 | raffyG |
-| 172 | 148 | Jason Hawk |
+| 170 | 150 | Jason Hawk |
+| 171 | 150 | Jena Overall Prescott |
+| 172 | 150 | raffyG |
 | 173 | 147 | Al Smith Jr |
 | 174 | 146 | Matthew Bunn |
 | 175 | 146 | Simmone T. Kadiri |
@@ -679,48 +679,48 @@
 | 671 | 39 | Jessica |
 | 672 | 39 | Jay Will |
 | 673 | 39 | Bob Sitts |
-| 674 | 39 | Kendra Newton |
-| 675 | 39 | Billy |
-| 676 | 39 | Tammy Straka |
-| 677 | 39 | Tasha Jasmin |
-| 678 | 39 | Chummy Rollzone |
-| 679 | 38 | Rissa |
-| 680 | 38 | Edward White |
-| 681 | 38 | Christina Davis |
-| 682 | 38 | C Wing Chu |
-| 683 | 38 | Lively Catcher |
-| 684 | 38 | Megan Bennett |
-| 685 | 38 | Itspaigebro |
-| 686 | 37 | Tracy Priceless Gholston |
-| 687 | 37 | Alexus Goncalo |
-| 688 | 37 | Wesley Smith |
-| 689 | 37 | mindgames |
+| 674 | 39 | mindgames |
+| 675 | 39 | Kendra Newton |
+| 676 | 39 | Billy |
+| 677 | 39 | Tammy Straka |
+| 678 | 39 | Tasha Jasmin |
+| 679 | 39 | Chummy Rollzone |
+| 680 | 38 | Rissa |
+| 681 | 38 | Edward White |
+| 682 | 38 | Christina Davis |
+| 683 | 38 | C Wing Chu |
+| 684 | 38 | Lively Catcher |
+| 685 | 38 | Megan Bennett |
+| 686 | 38 | Itspaigebro |
+| 687 | 37 | Katelyn B. Pritchard |
+| 688 | 37 | Alexus Goncalo |
+| 689 | 37 | Wesley Smith |
 | 690 | 37 | Eddie Morales |
 | 691 | 37 | Any Michelle Kounou |
 | 692 | 37 | Sunny Frame |
-| 693 | 37 | Katelyn B. Pritchard |
+| 693 | 37 | Adrien M Roberson |
 | 694 | 37 | Tipsy Buildgrid |
-| 695 | 37 | Adrien M Roberson |
+| 695 | 37 | Augie Ortega |
 | 696 | 37 | Wulfbyte |
 | 697 | 37 | Moemoe Jackson |
-| 698 | 37 | Augie Ortega |
-| 699 | 36 | Brandon Blanchard |
-| 700 | 36 | Jason Garnatz |
-| 701 | 36 | UltraMAGA |
-| 702 | 36 | Slinky Towerer |
-| 703 | 36 | Dreamy Matchclear |
-| 704 | 36 | Rose Anna |
+| 698 | 37 | Tracy Priceless Gholston |
+| 699 | 36 | Rachelle Wimpey |
+| 700 | 36 | OzzyFan4Life |
+| 701 | 36 | MrsW |
+| 702 | 36 | Poppy Lift |
+| 703 | 36 | Michael Espinosa Ulibarri Jr. |
+| 704 | 36 | Brandon Blanchard |
 | 705 | 36 | Natalie Wilson |
-| 706 | 36 | Michael Espinosa Ulibarri Jr. |
-| 707 | 36 | MrsW |
-| 708 | 36 | OzzyFan4Life |
-| 709 | 36 | Rachelle Wimpey |
-| 710 | 36 | Poppy Lift |
-| 711 | 36 | Jessica Marie Long |
+| 706 | 36 | Rose Anna |
+| 707 | 36 | Dreamy Matchclear |
+| 708 | 36 | Slinky Towerer |
+| 709 | 36 | Jason Garnatz |
+| 710 | 36 | Jessica Marie Long |
+| 711 | 36 | UltraMAGA |
 | 712 | 35 | Shay Upshaw |
-| 713 | 35 | Epic Fallzone |
-| 714 | 35 | Casey Jordan |
-| 715 | 35 | Moretattsdenscars |
+| 713 | 35 | Casey Jordan |
+| 714 | 35 | Moretattsdenscars |
+| 715 | 35 | Epic Fallzone |
 | 716 | 35 | Lively Pivotfall |
 | 717 | 35 | Hoppy Builderpiece |
 | 718 | 35 | Lee Sipelii |
