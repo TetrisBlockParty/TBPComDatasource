@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 04:34:16 UTC
+# Standings for team1 as of 2026-03-14 04:34:37 UTC
 
 **Total Participants:** 1357
 
@@ -9,7 +9,7 @@
 | 1 | 10487 | Ariel |
 | 2 | 5922 | Donna Wilkinson |
 | 3 | 5404 | William George Weglage III |
-| 4 | 4534 | Scott Lindsay |
+| 4 | 4646 | Scott Lindsay |
 | 5 | 4071 | Devinlee Brown |
 | 6 | 3466 | Dizzy Stagger |
 | 7 | 3417 | Amber Whisenhunt |
@@ -978,99 +978,99 @@
 | 970 | 16 | Cool Dasher |
 | 971 | 15 | DynamicQuail10 |
 | 972 | 15 | KingSteve |
-| 973 | 15 | Esav Castro |
-| 974 | 15 | ZhenZhen |
-| 975 | 15 | Smiley Snaplink |
-| 976 | 15 | Leah LaShomb |
-| 977 | 15 | Tana |
-| 978 | 15 | Edwards Dave |
-| 979 | 15 | Bucknut420 |
-| 980 | 15 | Loony Spinblock |
-| 981 | 15 | Ambrosia Natas Danu |
-| 982 | 15 | Mighty Piececlear |
-| 983 | 15 | apple |
-| 984 | 15 | Angelina Maldonado |
-| 985 | 15 | Scott Smith |
-| 986 | 15 | Ashley Cox |
-| 987 | 15 | Christopher Wesley |
-| 988 | 15 | Nikki Robinson |
-| 989 | 15 | Lush Buildout |
-| 990 | 15 | e |
-| 991 | 15 | SamanthaJo Apthorpe |
-| 992 | 15 | Angela |
-| 993 | 15 | Zesty Fitclear |
-| 994 | 15 | Ody |
-| 995 | 15 | Spam |
-| 996 | 15 | Mackkie |
-| 997 | 15 | Jaay |
-| 998 | 15 | Jennifer Stone |
-| 999 | 15 | Ellen Maxwell Capstaff |
-| 1000 | 15 | Kathy Searles |
-| 1001 | 15 | Maricia Coleman |
-| 1002 | 15 | Bird Reed |
-| 1003 | 15 | Ashley Olson |
-| 1004 | 15 | Adam Stephanie Parker |
-| 1005 | 15 | Alexis Vogel |
-| 1006 | 15 | Sasha Priddy |
-| 1007 | 15 | Ruhshikuh Lakor |
-| 1008 | 15 | Pauline Cortez |
-| 1009 | 15 | Austin Wilson |
-| 1010 | 15 | Michele Walker |
-| 1011 | 15 | Samie |
-| 1012 | 15 | ChaosNCatHair |
-| 1013 | 14 | Roy Burgess |
-| 1014 | 14 | April Moore |
-| 1015 | 14 | Greg Hart |
+| 973 | 15 | Terika Rodriguez |
+| 974 | 15 | Esav Castro |
+| 975 | 15 | ZhenZhen |
+| 976 | 15 | Smiley Snaplink |
+| 977 | 15 | Leah LaShomb |
+| 978 | 15 | Tana |
+| 979 | 15 | Edwards Dave |
+| 980 | 15 | Bucknut420 |
+| 981 | 15 | Loony Spinblock |
+| 982 | 15 | Ambrosia Natas Danu |
+| 983 | 15 | Mighty Piececlear |
+| 984 | 15 | apple |
+| 985 | 15 | Angelina Maldonado |
+| 986 | 15 | Scott Smith |
+| 987 | 15 | Ashley Cox |
+| 988 | 15 | Christopher Wesley |
+| 989 | 15 | Nikki Robinson |
+| 990 | 15 | Lush Buildout |
+| 991 | 15 | e |
+| 992 | 15 | SamanthaJo Apthorpe |
+| 993 | 15 | Angela |
+| 994 | 15 | Zesty Fitclear |
+| 995 | 15 | Ody |
+| 996 | 15 | Jaay |
+| 997 | 15 | Jennifer Stone |
+| 998 | 15 | Ruhshikuh Lakor |
+| 999 | 15 | Austin Wilson |
+| 1000 | 15 | Sasha Priddy |
+| 1001 | 15 | Ellen Maxwell Capstaff |
+| 1002 | 15 | ChaosNCatHair |
+| 1003 | 15 | Kathy Searles |
+| 1004 | 15 | Spam |
+| 1005 | 15 | Samie |
+| 1006 | 15 | Maricia Coleman |
+| 1007 | 15 | Michele Walker |
+| 1008 | 15 | Mackkie |
+| 1009 | 15 | Adam Stephanie Parker |
+| 1010 | 15 | Ashley Olson |
+| 1011 | 15 | Alexis Vogel |
+| 1012 | 15 | Pauline Cortez |
+| 1013 | 15 | Bird Reed |
+| 1014 | 14 | Jennifer Lynn |
+| 1015 | 14 | Thomcatt |
 | 1016 | 14 | Tammy Kunai |
-| 1017 | 14 | Lexx Oliver |
-| 1018 | 14 | Spunky Zone |
-| 1019 | 14 | Jay Aye |
-| 1020 | 14 | Thomcatt |
-| 1021 | 14 | David |
-| 1022 | 14 | Haykid14 |
-| 1023 | 14 | Cindy Lee Johnson |
-| 1024 | 14 | Andrew Duron |
-| 1025 | 14 | James Martin |
-| 1026 | 14 | Snazzy Tilemaker |
-| 1027 | 14 | Flashy Dasher |
-| 1028 | 14 | KissedbyKinny |
-| 1029 | 14 | Jasmyne Moreno |
-| 1030 | 14 | Andrew Saltonstall |
-| 1031 | 14 | Shaunie Miller |
-| 1032 | 14 | Terika Rodriguez |
-| 1033 | 14 | Megan Treacy |
-| 1034 | 14 | Sylvia Black |
-| 1035 | 14 | Jennifer Brandle |
-| 1036 | 14 | Jennifer Lynn |
-| 1037 | 14 | Brandy Ann |
-| 1038 | 13 | Zany Gridroll |
-| 1039 | 13 | pretty kitty |
-| 1040 | 13 | gag |
-| 1041 | 13 | Giggly Rotator |
-| 1042 | 13 | Robert Coulter |
-| 1043 | 13 | Elizabeth A Cobuccio |
-| 1044 | 13 | Amers |
-| 1045 | 13 | Jill Goff |
-| 1046 | 13 | Deandre Young |
-| 1047 | 13 | AsianTurtles |
+| 1017 | 14 | Greg Hart |
+| 1018 | 14 | April Moore |
+| 1019 | 14 | Megan Treacy |
+| 1020 | 14 | Spunky Zone |
+| 1021 | 14 | Jasmyne Moreno |
+| 1022 | 14 | Cindy Lee Johnson |
+| 1023 | 14 | Lexx Oliver |
+| 1024 | 14 | David |
+| 1025 | 14 | Haykid14 |
+| 1026 | 14 | Shaunie Miller |
+| 1027 | 14 | Snazzy Tilemaker |
+| 1028 | 14 | Jay Aye |
+| 1029 | 14 | Flashy Dasher |
+| 1030 | 14 | Jennifer Brandle |
+| 1031 | 14 | Andrew Duron |
+| 1032 | 14 | James Martin |
+| 1033 | 14 | Roy Burgess |
+| 1034 | 14 | KissedbyKinny |
+| 1035 | 14 | Andrew Saltonstall |
+| 1036 | 14 | Brandy Ann |
+| 1037 | 14 | Sylvia Black |
+| 1038 | 13 | AsianTurtles |
+| 1039 | 13 | Giggly Rotator |
+| 1040 | 13 | Robert Coulter |
+| 1041 | 13 | gag |
+| 1042 | 13 | Dev |
+| 1043 | 13 | Deandre Young |
+| 1044 | 13 | Natasha Velasquez Gabriel |
+| 1045 | 13 | Lacey Renee Dietz |
+| 1046 | 13 | pretty kitty |
+| 1047 | 13 | Elizabeth A Cobuccio |
 | 1048 | 13 | Disha Chaudhari |
-| 1049 | 13 | Dev |
-| 1050 | 13 | Natasha Velasquez Gabriel |
-| 1051 | 13 | Lacey Renee Dietz |
-| 1052 | 12 | Aigner Monae |
-| 1053 | 12 | Melsap #8284 |
-| 1054 | 12 | Lush Dasher |
-| 1055 | 12 | Jessica |
-| 1056 | 12 | Cameron Burke |
-| 1057 | 12 | Liz M Durfee |
+| 1049 | 13 | Amers |
+| 1050 | 13 | Zany Gridroll |
+| 1051 | 13 | Jill Goff |
+| 1052 | 12 | Nancy Burnside |
+| 1053 | 12 | Lush Dasher |
+| 1054 | 12 | Crystal Conklin |
+| 1055 | 12 | Aigner Monae |
+| 1056 | 12 | Debra Reynolds |
+| 1057 | 12 | Melsap #8284 |
 | 1058 | 12 | britqueen |
-| 1059 | 12 | Debra Reynolds |
-| 1060 | 12 | Crystal Conklin |
-| 1061 | 12 | Allison JG |
-| 1062 | 12 | Epic Glider |
-| 1063 | 12 | mindgames |
-| 1064 | 12 | Ruby Gonzales |
-| 1065 | 12 | Nancy Burnside |
+| 1059 | 12 | Allison JG |
+| 1060 | 12 | Epic Glider |
+| 1061 | 12 | Liz M Durfee |
+| 1062 | 12 | Cameron Burke |
+| 1063 | 12 | Ruby Gonzales |
+| 1064 | 12 | mindgames |
+| 1065 | 12 | Jessica |
 | 1066 | 12 | Saucy curvr |
 | 1067 | 12 | ImStupid |
 | 1068 | 12 | Spring rain |
