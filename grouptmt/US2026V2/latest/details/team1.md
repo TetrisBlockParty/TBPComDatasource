@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 21:24:19 UTC
+# Standings for team1 as of 2026-03-14 21:24:40 UTC
 
 **Total Participants:** 1887
 
@@ -178,7 +178,7 @@
 | 170 | 288 | Dramatic Tiger |
 | 171 | 288 | Hasbro Bros |
 | 172 | 286 | nameno |
-| 173 | 281 | Matthew Bunn |
+| 173 | 283 | Matthew Bunn |
 | 174 | 281 | Death |
 | 175 | 281 | Crafty Tilebuilder |
 | 176 | 279 | Ern2burn |
@@ -585,108 +585,108 @@
 | 577 | 77 | Goofy Linkblock |
 | 578 | 76 | Beavis715 |
 | 579 | 76 | Kara Diamond |
-| 580 | 76 | Rose Anna |
-| 581 | 76 | Melsap #8284 |
+| 580 | 76 | Melsap #8284 |
+| 581 | 76 | Rose Anna |
 | 582 | 76 | Samantha Crowley |
 | 583 | 75 | Robin Burress |
-| 584 | 75 | Tiffani J West |
-| 585 | 75 | Pinky Hunt |
+| 584 | 75 | Pinky Hunt |
+| 585 | 75 | Tiffani J West |
 | 586 | 75 | Seaira Allen |
 | 587 | 75 | Danielle Longoria |
-| 588 | 75 | Dreamy Matchclear |
-| 589 | 75 | Jessi Godsey |
-| 590 | 75 | Chris Kelly |
-| 591 | 74 | KathyandPhillip Woolard |
-| 592 | 74 | CupcakeEyes |
-| 593 | 74 | Tabetha Craddock |
-| 594 | 74 | Michelle Lee |
-| 595 | 74 | Chin lock |
-| 596 | 74 | Bubba_C59 |
-| 597 | 74 | S Gale Holton |
-| 598 | 74 | Shelly Fannon |
-| 599 | 74 | Flashy Rotator |
-| 600 | 73 | Crystal Swigart |
-| 601 | 73 | Nate Funk |
-| 602 | 73 | Will Fulmer |
+| 588 | 75 | Chris Kelly |
+| 589 | 75 | Dreamy Matchclear |
+| 590 | 75 | Jessi Godsey |
+| 591 | 75 | Will Fulmer |
+| 592 | 74 | KathyandPhillip Woolard |
+| 593 | 74 | CupcakeEyes |
+| 594 | 74 | Tabetha Craddock |
+| 595 | 74 | Flashy Rotator |
+| 596 | 74 | Michelle Lee |
+| 597 | 74 | Shelly Fannon |
+| 598 | 74 | S Gale Holton |
+| 599 | 74 | Bubba_C59 |
+| 600 | 74 | Chin lock |
+| 601 | 73 | Crystal Swigart |
+| 602 | 73 | Nate Funk |
 | 603 | 73 | Terika Rodriguez |
 | 604 | 73 | Christian Smith |
-| 605 | 72 | SitHazy |
-| 606 | 72 | Bri037 |
-| 607 | 72 | Zesty Balancepiece |
+| 605 | 72 | Zesty Balancepiece |
+| 606 | 72 | SitHazy |
+| 607 | 72 | Bri037 |
 | 608 | 72 | Augie Ortega |
 | 609 | 72 | Matt Mullinax |
 | 610 | 72 | Shay J Duval |
-| 611 | 72 | crunchy panda |
-| 612 | 72 | Jacob Lee Grinvalds |
-| 613 | 72 | Snippy Line |
-| 614 | 71 | Dunlap Loretta |
-| 615 | 71 | Dale |
-| 616 | 71 | Trey Petty |
-| 617 | 71 | Wanda L Flanagan |
-| 618 | 71 | Jessica Marie Long |
-| 619 | 71 | Gary Ustica |
-| 620 | 71 | Candace Fielder |
-| 621 | 71 | BingoStarr |
-| 622 | 70 | Noah |
-| 623 | 70 | Becky Coker |
-| 624 | 70 | Crruth |
-| 625 | 70 | Melissa Bires Hussar |
-| 626 | 70 | Amanda Richardson |
-| 627 | 70 | Shiny Party |
-| 628 | 70 | Greenie |
-| 629 | 70 | Katelyn Dorman |
-| 630 | 70 | Chummy Rollzone |
-| 631 | 70 | Abcmasters12 |
-| 632 | 70 | Nicole Brown |
-| 633 | 70 | tox |
-| 634 | 70 | Sasha Priddy |
-| 635 | 70 | Yang Desu |
-| 636 | 69 | mrkw |
-| 637 | 69 | Nicole McCune |
-| 638 | 69 | Hobson Lopes |
-| 639 | 69 | NolaGal |
-| 640 | 69 | April Bennett |
-| 641 | 69 | Lablaze |
-| 642 | 69 | Daniel R Morgan |
-| 643 | 69 | Garry Junior Davis |
-| 644 | 69 | Groovy Cascadefit |
-| 645 | 69 | Slinky Dashpiece |
-| 646 | 68 | Jimmy Shannon |
-| 647 | 68 | MisfitH |
+| 611 | 72 | Snippy Line |
+| 612 | 72 | crunchy panda |
+| 613 | 72 | Jacob Lee Grinvalds |
+| 614 | 71 | Wanda L Flanagan |
+| 615 | 71 | Jessica Marie Long |
+| 616 | 71 | Candace Fielder |
+| 617 | 71 | BingoStarr |
+| 618 | 71 | Trey Petty |
+| 619 | 71 | Dale |
+| 620 | 71 | Dunlap Loretta |
+| 621 | 71 | Gary Ustica |
+| 622 | 70 | Katelyn Dorman |
+| 623 | 70 | tox |
+| 624 | 70 | Nicole Brown |
+| 625 | 70 | Greenie |
+| 626 | 70 | Shiny Party |
+| 627 | 70 | Amanda Richardson |
+| 628 | 70 | Melissa Bires Hussar |
+| 629 | 70 | Crruth |
+| 630 | 70 | Becky Coker |
+| 631 | 70 | Chummy Rollzone |
+| 632 | 70 | Abcmasters12 |
+| 633 | 70 | Yang Desu |
+| 634 | 70 | Noah |
+| 635 | 70 | Sasha Priddy |
+| 636 | 69 | Garry Junior Davis |
+| 637 | 69 | Groovy Cascadefit |
+| 638 | 69 | April Bennett |
+| 639 | 69 | Nicole McCune |
+| 640 | 69 | Lablaze |
+| 641 | 69 | Hobson Lopes |
+| 642 | 69 | NolaGal |
+| 643 | 69 | Daniel R Morgan |
+| 644 | 69 | Tammy Lamb |
+| 645 | 69 | mrkw |
+| 646 | 69 | Slinky Dashpiece |
+| 647 | 68 | Andie Galindo |
 | 648 | 68 | Ellen Durfee |
-| 649 | 68 | Bon Welch |
-| 650 | 68 | Andie Galindo |
-| 651 | 68 | ghxsty |
-| 652 | 68 | Chirpy Twistpiece |
-| 653 | 68 | Deb Horwath |
-| 654 | 67 | Anthony Ross |
-| 655 | 67 | Cheryl Villa |
-| 656 | 67 | Sean Dickey |
-| 657 | 67 | Fancy Cascadebuilder |
-| 658 | 67 | Sabrina Frazier |
+| 649 | 68 | MisfitH |
+| 650 | 68 | ghxsty |
+| 651 | 68 | Bon Welch |
+| 652 | 68 | Jimmy Shannon |
+| 653 | 68 | Chirpy Twistpiece |
+| 654 | 68 | Deb Horwath |
+| 655 | 67 | John Ham |
+| 656 | 67 | Fancy Cascadebuilder |
+| 657 | 67 | Hyper Drop |
+| 658 | 67 | Cheryl Villa |
 | 659 | 67 | Antonia Wyche |
-| 660 | 67 | John Ham |
-| 661 | 67 | Hyper Drop |
-| 662 | 66 | Banzhaf |
-| 663 | 66 | Trishatta YoungDiva Watkins |
-| 664 | 66 | Tara Spencer |
-| 665 | 66 | Yolanda Quinn |
-| 666 | 66 | Bailey Morgan |
-| 667 | 66 | BostonCrypto |
-| 668 | 66 | Tammy Lamb |
-| 669 | 65 | Ziggy Csah |
-| 670 | 65 | OneBuke FollowMe |
-| 671 | 65 | Shay Upshaw |
-| 672 | 65 | Loony Towerpiece |
-| 673 | 65 | Cool Base |
-| 674 | 65 | Yvette Cooper |
-| 675 | 65 | PennyCandee |
-| 676 | 65 | Kevin Tate |
-| 677 | 65 | J. |
-| 678 | 65 | FireHawk |
-| 679 | 65 | Evy |
-| 680 | 65 | Mahmudul Hasan |
-| 681 | 65 | Carl Hampton |
+| 660 | 67 | Anthony Ross |
+| 661 | 67 | Sabrina Frazier |
+| 662 | 67 | Sean Dickey |
+| 663 | 66 | Yolanda Quinn |
+| 664 | 66 | Banzhaf |
+| 665 | 66 | Trishatta YoungDiva Watkins |
+| 666 | 66 | Tara Spencer |
+| 667 | 66 | Bailey Morgan |
+| 668 | 66 | BostonCrypto |
+| 669 | 65 | J. |
+| 670 | 65 | Carl Hampton |
+| 671 | 65 | Mahmudul Hasan |
+| 672 | 65 | Evy |
+| 673 | 65 | FireHawk |
+| 674 | 65 | Ziggy Csah |
+| 675 | 65 | Kevin Tate |
+| 676 | 65 | PennyCandee |
+| 677 | 65 | Yvette Cooper |
+| 678 | 65 | Cool Base |
+| 679 | 65 | Loony Towerpiece |
+| 680 | 65 | Shay Upshaw |
+| 681 | 65 | OneBuke FollowMe |
 | 682 | 64 | Oscar Ferguson |
 | 683 | 64 | Rainbow brite |
 | 684 | 64 | Cassi Owens |
