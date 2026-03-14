@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 21:48:40 UTC
+# Standings for team1 as of 2026-03-14 21:49:20 UTC
 
 **Total Participants:** 1896
 
@@ -35,8 +35,8 @@
 | 27 | 2127 | phrmblk24 |
 | 28 | 2088 | Jordan W Hamilton |
 | 29 | 1916 | Michael Texidor |
-| 30 | 1887 | Paul Smiar |
-| 31 | 1871 | Xande NO Lie Williams |
+| 30 | 1894 | Xande NO Lie Williams |
+| 31 | 1887 | Paul Smiar |
 | 32 | 1763 | Sarah Henniker |
 | 33 | 1715 | Carrie Trigg |
 | 34 | 1706 | Audicia Bailey |
@@ -68,13 +68,13 @@
 | 60 | 1019 | Giddy Cascade |
 | 61 | 1002 | Hellsin |
 | 62 | 989 | Donavon Krahn |
-| 63 | 971 | Ramon Salazar |
-| 64 | 951 | Bold Zonegrid |
-| 65 | 941 | Kris Hudelson |
-| 66 | 938 | Sleepypanda67 |
-| 67 | 914 | Zach Thompson |
-| 68 | 911 | Mikitta Calvin |
-| 69 | 876 | Venechia Berry |
+| 63 | 976 | Venechia Berry |
+| 64 | 971 | Ramon Salazar |
+| 65 | 951 | Bold Zonegrid |
+| 66 | 941 | Kris Hudelson |
+| 67 | 938 | Sleepypanda67 |
+| 68 | 914 | Zach Thompson |
+| 69 | 911 | Mikitta Calvin |
 | 70 | 868 | Renee Weedling |
 | 71 | 847 | Spunky Snapfit |
 | 72 | 845 | Nikita Nelson |
@@ -126,8 +126,8 @@
 | 118 | 473 | Big rick !!! |
 | 119 | 466 | Cassandra Latimore |
 | 120 | 465 | Alex Hennigh |
-| 121 | 462 | Goober |
-| 122 | 462 | Ramona Gulledge |
+| 121 | 464 | Ramona Gulledge |
+| 122 | 462 | Goober |
 | 123 | 449 | Penny Morrical |
 | 124 | 429 | Tatiyana Holm |
 | 125 | 417 | Simmone T. Kadiri |
@@ -371,22 +371,22 @@
 | 363 | 126 | Matt Aguilar |
 | 364 | 126 | Kathy Karjala |
 | 365 | 126 | Jason Cunningham |
-| 366 | 126 | Dī Kuykendall |
-| 367 | 126 | Scott Disedare |
-| 368 | 125 | Natalia RX Beyer |
-| 369 | 125 | Laci Hutson |
-| 370 | 125 | Rocky |
-| 371 | 125 | Damion Woods |
-| 372 | 125 | Jennifer Grubbs |
-| 373 | 124 | Dish19 |
-| 374 | 124 | Adam McMakin |
-| 375 | 124 | Dusti Byrd |
-| 376 | 124 | Laura Morrison |
-| 377 | 124 | David Larter |
-| 378 | 124 | Matthew Allan |
-| 379 | 123 | Jennifer L Rutherford |
-| 380 | 123 | Cheeky Snaplink |
-| 381 | 123 | Mama Becky |
+| 366 | 126 | Cheeky Snaplink |
+| 367 | 126 | Dī Kuykendall |
+| 368 | 126 | Scott Disedare |
+| 369 | 125 | Natalia RX Beyer |
+| 370 | 125 | Laci Hutson |
+| 371 | 125 | Rocky |
+| 372 | 125 | Damion Woods |
+| 373 | 125 | Jennifer Grubbs |
+| 374 | 125 | Mama Becky |
+| 375 | 124 | Dish19 |
+| 376 | 124 | Adam McMakin |
+| 377 | 124 | Dusti Byrd |
+| 378 | 124 | Laura Morrison |
+| 379 | 124 | David Larter |
+| 380 | 124 | Matthew Allan |
+| 381 | 123 | Jennifer L Rutherford |
 | 382 | 123 | Tanya Carpenter-Reynolds |
 | 383 | 122 | SLAPNUTZ |
 | 384 | 122 | Julie Miller |
@@ -1795,54 +1795,54 @@
 | 1787 | 8 | Joyce Conlin |
 | 1788 | 8 | Jose Arteaga |
 | 1789 | 8 | al |
-| 1790 | 8 | Nonna Jamie Watt |
-| 1791 | 8 | Holly Julian |
-| 1792 | 8 | Eternity Paulley |
-| 1793 | 8 | Lydia Reed |
-| 1794 | 8 | Devobl |
+| 1790 | 8 | Vanisha Williams |
+| 1791 | 8 | KMart |
+| 1792 | 8 | Nonna Jamie Watt |
+| 1793 | 8 | Holly Julian |
+| 1794 | 8 | Eternity Paulley |
 | 1795 | 8 | Chris Sigurdson |
-| 1796 | 8 | KMart |
-| 1797 | 8 | Vanisha Williams |
-| 1798 | 7 | Titus |
-| 1799 | 7 | Chad |
-| 1800 | 7 | Tammy Rogers |
-| 1801 | 7 | Dizzy Blockpiece |
-| 1802 | 7 | Dizzy Fallzone |
-| 1803 | 7 | Branden Blanch |
-| 1804 | 7 | Marchae Cody |
-| 1805 | 7 | Quickyvicky |
-| 1806 | 7 | Mina Gonzales |
-| 1807 | 7 | Lazy Cascader |
-| 1808 | 7 | Beaker |
-| 1809 | 7 | Duna Tats |
-| 1810 | 7 | OmniJoy |
+| 1796 | 8 | Devobl |
+| 1797 | 8 | Lydia Reed |
+| 1798 | 7 | Dizzy Fallzone |
+| 1799 | 7 | Duna Tats |
+| 1800 | 7 | Beaker |
+| 1801 | 7 | Quickyvicky |
+| 1802 | 7 | Marchae Cody |
+| 1803 | 7 | Chad |
+| 1804 | 7 | Dizzy Blockpiece |
+| 1805 | 7 | Tammy Rogers |
+| 1806 | 7 | Titus |
+| 1807 | 7 | Mina Gonzales |
+| 1808 | 7 | Branden Blanch |
+| 1809 | 7 | Lazy Cascader |
+| 1810 | 7 | Goofy Riserfit |
 | 1811 | 7 | Katie Stenblom |
 | 1812 | 7 | DG Moyt |
-| 1813 | 7 | Jennifer Kime |
-| 1814 | 7 | Amanda Fisher |
-| 1815 | 7 | Dandy Spinfit |
+| 1813 | 7 | Dandy Spinfit |
+| 1814 | 7 | Jennifer Kime |
+| 1815 | 7 | Amanda Fisher |
 | 1816 | 7 | Kaitlyn Mambro |
 | 1817 | 7 | Breezy Stackbuilder |
 | 1818 | 7 | Clifford Greeniv |
-| 1819 | 7 | Darlene |
-| 1820 | 7 | waylow |
-| 1821 | 7 | Cleer-Par178 |
-| 1822 | 7 | freakyjoe |
-| 1823 | 7 | Orthan Blockthorn |
-| 1824 | 7 | Monica Breese |
-| 1825 | 7 | Seanna Mae |
-| 1826 | 7 | Flashy Setter |
-| 1827 | 7 | Jason Kwan |
-| 1828 | 7 | Yehor |
-| 1829 | 7 | Christine Sheridan |
-| 1830 | 6 | Emmanuel Diaz Herrera |
+| 1819 | 7 | OmniJoy |
+| 1820 | 7 | Darlene |
+| 1821 | 7 | waylow |
+| 1822 | 7 | Cleer-Par178 |
+| 1823 | 7 | freakyjoe |
+| 1824 | 7 | Orthan Blockthorn |
+| 1825 | 7 | Monica Breese |
+| 1826 | 7 | Seanna Mae |
+| 1827 | 7 | Flashy Setter |
+| 1828 | 7 | Jason Kwan |
+| 1829 | 7 | Yehor |
+| 1830 | 7 | Christine Sheridan |
 | 1831 | 6 | Snippy Tilerpiece |
 | 1832 | 6 | Pamela Lipuma Childers |
-| 1833 | 6 | Amy Hepler |
-| 1834 | 6 | Crafty Slice |
+| 1833 | 6 | Crafty Slice |
+| 1834 | 6 | Amy Hepler |
 | 1835 | 6 | Connor Gaughran |
 | 1836 | 6 | Tiffany Greene |
-| 1837 | 6 | kjo |
+| 1837 | 6 | Mike Mendoza |
 | 1838 | 6 | Jess |
 | 1839 | 6 | Clever Tile |
 | 1840 | 6 | Vicky Shull |
@@ -1856,22 +1856,22 @@
 | 1848 | 6 | pinkmom |
 | 1849 | 6 | Sonya Harris Combs |
 | 1850 | 6 | Robert Bolarinho |
-| 1851 | 6 | l |
-| 1852 | 6 | Robert |
-| 1853 | 6 | Mike Mendoza |
-| 1854 | 6 | LaTanya Summers |
-| 1855 | 6 | Christy Napier |
-| 1856 | 6 | Goofy Riserfit |
-| 1857 | 6 | Hasty Wipegrid |
+| 1851 | 6 | Hasty Wipegrid |
+| 1852 | 6 | l |
+| 1853 | 6 | Robert |
+| 1854 | 6 | Emmanuel Diaz Herrera |
+| 1855 | 6 | LaTanya Summers |
+| 1856 | 6 | Christy Napier |
+| 1857 | 6 | kjo |
 | 1858 | 6 | Tyrell Harvin |
 | 1859 | 6 | Larry Jackson |
 | 1860 | 6 | Patricia Rivas |
-| 1861 | 5 | MissySai TooRude Ladson |
-| 1862 | 5 | Marian L. Ryan |
-| 1863 | 5 | James Morris |
-| 1864 | 5 | Giggy Tetrisline |
-| 1865 | 5 | Anthony Scarberry |
-| 1866 | 5 | Jennifer Brown |
+| 1861 | 5 | Marian L. Ryan |
+| 1862 | 5 | James Morris |
+| 1863 | 5 | Anthony Scarberry |
+| 1864 | 5 | Jennifer Brown |
+| 1865 | 5 | Giggy Tetrisline |
+| 1866 | 5 | MissySai TooRude Ladson |
 | 1867 | 5 | Sarajo Clauson |
 | 1868 | 5 | Flashy Buildgrid |
 | 1869 | 5 | Lulu C Harp |
