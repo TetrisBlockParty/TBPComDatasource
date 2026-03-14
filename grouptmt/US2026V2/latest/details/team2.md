@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 21:26:40 UTC
+# Standings for team2 as of 2026-03-14 21:27:18 UTC
 
 **Total Participants:** 1839
 
@@ -57,8 +57,8 @@
 | 49 | 964 | Amanda Young |
 | 50 | 936 | Elizabeth Crowder Pelton |
 | 51 | 929 | Giggy Matchpiece |
-| 52 | 926 | Nicole Cannon |
-| 53 | 926 | Dreamy Linkbuilder |
+| 52 | 928 | Dreamy Linkbuilder |
+| 53 | 926 | Nicole Cannon |
 | 54 | 923 | Laura McPheeters |
 | 55 | 911 | lovethedana |
 | 56 | 890 | Arnae Draughon |
@@ -286,16 +286,16 @@
 | 278 | 176 | Tosha Gonzales |
 | 279 | 176 | Cheeky Clearbuilder |
 | 280 | 175 | Ding Adventurer |
-| 281 | 173 | Elizabeth Diraffaele |
-| 282 | 173 | Kristina Hill Perez |
-| 283 | 173 | Allison L Tiffany |
-| 284 | 172 | Dineisha Carpenter |
-| 285 | 171 | Brenda Bell |
-| 286 | 170 | Jimmy Xim |
-| 287 | 170 | Desiree Anderson |
-| 288 | 170 | Cynthia Prouse |
-| 289 | 170 | Berling Gil |
-| 290 | 169 | Jenn Dandle |
+| 281 | 173 | Jenn Dandle |
+| 282 | 173 | Elizabeth Diraffaele |
+| 283 | 173 | Kristina Hill Perez |
+| 284 | 173 | Allison L Tiffany |
+| 285 | 172 | Dineisha Carpenter |
+| 286 | 171 | Brenda Bell |
+| 287 | 170 | Jimmy Xim |
+| 288 | 170 | Desiree Anderson |
+| 289 | 170 | Cynthia Prouse |
+| 290 | 170 | Berling Gil |
 | 291 | 169 | Troy |
 | 292 | 169 | Jason McCloy |
 | 293 | 169 | Madison Sweere |
@@ -1246,77 +1246,77 @@
 | 1238 | 29 | Keri Hough |
 | 1239 | 29 | Marie Fauntleroy |
 | 1240 | 29 | Epic Wipebuilder |
-| 1241 | 29 | Lizzy44@ |
-| 1242 | 29 | Sierra Spencer |
-| 1243 | 29 | Blu |
+| 1241 | 29 | Sierra Spencer |
+| 1242 | 29 | Lizzy44@ |
+| 1243 | 29 | Giggly Winder |
 | 1244 | 29 | MinorMAjOR |
-| 1245 | 29 | Dawn Joub |
-| 1246 | 29 | Timothy Lewis |
-| 1247 | 29 | Giggly Winder |
-| 1248 | 28 | John Wick |
-| 1249 | 28 | Christina Nabrizny |
-| 1250 | 28 | Rachel |
-| 1251 | 28 | Graciela Garcia |
+| 1245 | 29 | Blu |
+| 1246 | 29 | Dawn Joub |
+| 1247 | 29 | Timothy Lewis |
+| 1248 | 28 | Graciela Garcia |
+| 1249 | 28 | Rachel |
+| 1250 | 28 | John Wick |
+| 1251 | 28 | Giggy Tilt |
 | 1252 | 28 | Bridgett Walker |
-| 1253 | 28 | Tori Bowers |
-| 1254 | 28 | Perky Rollfit |
-| 1255 | 28 | Lindsey Anderson |
-| 1256 | 28 | Peppy Zigzag |
-| 1257 | 27 | Karmabunny |
-| 1258 | 27 | Wendy Gathings |
-| 1259 | 27 | StephyCue |
-| 1260 | 27 | Chirpy Grabber |
-| 1261 | 27 | Mellinese Nicole King |
-| 1262 | 27 | Durand Douglas |
-| 1263 | 27 | Fuzzy |
-| 1264 | 27 | Sarah Moyer |
-| 1265 | 27 | Lisa Kline |
-| 1266 | 27 | Janellexoxo_ |
-| 1267 | 27 | Cheeky Dashgrid |
-| 1268 | 27 | Kayla |
-| 1269 | 27 | Logan Abbott |
-| 1270 | 27 | Rachael Village |
-| 1271 | 27 | Brittney Marie Wyrick |
-| 1272 | 27 | Zitro |
-| 1273 | 27 | birdie |
-| 1274 | 27 | Giggy Zonepiece |
-| 1275 | 27 | Gabby |
-| 1276 | 27 | Chrystyne |
-| 1277 | 27 | Whitney Douglas |
-| 1278 | 26 | Chasity Winters |
+| 1253 | 28 | Christina Nabrizny |
+| 1254 | 28 | Tori Bowers |
+| 1255 | 28 | Perky Rollfit |
+| 1256 | 28 | Lindsey Anderson |
+| 1257 | 28 | Peppy Zigzag |
+| 1258 | 27 | Karmabunny |
+| 1259 | 27 | Wendy Gathings |
+| 1260 | 27 | StephyCue |
+| 1261 | 27 | Chirpy Grabber |
+| 1262 | 27 | Mellinese Nicole King |
+| 1263 | 27 | Durand Douglas |
+| 1264 | 27 | Fuzzy |
+| 1265 | 27 | Sarah Moyer |
+| 1266 | 27 | Lisa Kline |
+| 1267 | 27 | Janellexoxo_ |
+| 1268 | 27 | Giggy Zonepiece |
+| 1269 | 27 | Chrystyne |
+| 1270 | 27 | Zitro |
+| 1271 | 27 | Cheeky Dashgrid |
+| 1272 | 27 | Logan Abbott |
+| 1273 | 27 | Kayla |
+| 1274 | 27 | Rachael Village |
+| 1275 | 27 | Brittney Marie Wyrick |
+| 1276 | 27 | birdie |
+| 1277 | 27 | Gabby |
+| 1278 | 27 | Whitney Douglas |
 | 1279 | 26 | kal |
-| 1280 | 26 | Jackie Avila |
-| 1281 | 26 | SuzAnne |
-| 1282 | 26 | Smiley Shuffler |
-| 1283 | 26 | Kershawna Aten |
-| 1284 | 26 | Melissa K Smith |
-| 1285 | 26 | Manny Diaz |
-| 1286 | 26 | Joan Du |
-| 1287 | 26 | Marie Elena |
-| 1288 | 26 | Rebecca Frango |
-| 1289 | 26 | Nicole Maboloc |
-| 1290 | 26 | Shirley Petty |
-| 1291 | 25 | Lush Matchgrid |
-| 1292 | 25 | Anthony Intrabartolo |
-| 1293 | 25 | Cheeky Snapfit |
-| 1294 | 25 | Muva |
-| 1295 | 25 | Wacky Columnbuilder |
-| 1296 | 25 | PartyStarter |
-| 1297 | 25 | Morgan Hirzel |
-| 1298 | 25 | Smiley |
-| 1299 | 25 | Weeping Angel |
-| 1300 | 25 | Poppy Linkpiece |
-| 1301 | 25 | Chasity Johnson |
-| 1302 | 25 | Cheyenne Waller |
-| 1303 | 25 | Terrence McClain |
-| 1304 | 25 | Jonviea Dewalt |
-| 1305 | 25 | Johnboom317 |
-| 1306 | 25 | Karina Rodriguez |
-| 1307 | 25 | Lilykye |
-| 1308 | 25 | Lazy Balancepiece |
-| 1309 | 25 | Tamika Williams |
-| 1310 | 25 | Giggy Tilt |
-| 1311 | 25 | Sonya Milbourne |
+| 1280 | 26 | Chasity Winters |
+| 1281 | 26 | Jackie Avila |
+| 1282 | 26 | SuzAnne |
+| 1283 | 26 | Smiley Shuffler |
+| 1284 | 26 | Manny Diaz |
+| 1285 | 26 | Melissa K Smith |
+| 1286 | 26 | Kershawna Aten |
+| 1287 | 26 | Joan Du |
+| 1288 | 26 | Marie Elena |
+| 1289 | 26 | Rebecca Frango |
+| 1290 | 26 | Nicole Maboloc |
+| 1291 | 26 | Shirley Petty |
+| 1292 | 25 | Lush Matchgrid |
+| 1293 | 25 | Anthony Intrabartolo |
+| 1294 | 25 | Cheeky Snapfit |
+| 1295 | 25 | Muva |
+| 1296 | 25 | Wacky Columnbuilder |
+| 1297 | 25 | PartyStarter |
+| 1298 | 25 | Morgan Hirzel |
+| 1299 | 25 | Smiley |
+| 1300 | 25 | Weeping Angel |
+| 1301 | 25 | Poppy Linkpiece |
+| 1302 | 25 | Chasity Johnson |
+| 1303 | 25 | Sonya Milbourne |
+| 1304 | 25 | Karina Rodriguez |
+| 1305 | 25 | Cheyenne Waller |
+| 1306 | 25 | Terrence McClain |
+| 1307 | 25 | Jonviea Dewalt |
+| 1308 | 25 | Johnboom317 |
+| 1309 | 25 | Lilykye |
+| 1310 | 25 | Lazy Balancepiece |
+| 1311 | 25 | Tamika Williams |
 | 1312 | 25 | Cranky Party |
 | 1313 | 25 | JSP |
 | 1314 | 25 | Savvlexx |
@@ -1827,7 +1827,7 @@
 | 1819 | 5 | babbs |
 | 1820 | 5 | Beep Pie |
 | 1821 | 5 | Alexandria Shannon |
-| 1822 | 5 | Jerry Gift Jr. |
+| 1822 | 5 | Cassie Moeller |
 | 1823 | 5 | Andrea Velasco Dela Cruz |
 | 1824 | 5 | Ashley Patrice London |
 | 1825 | 5 | Tammy Kirby Bingel |
@@ -1844,7 +1844,7 @@
 | 1836 | 5 | Spunky Gridmatch |
 | 1837 | 5 | Sam Hazlewood |
 | 1838 | 5 | Brave Matchfit |
-| 1839 | 5 | Cassie Moeller |
+| 1839 | 5 | Jerry Gift Jr. |
 
 ---
 *Standings created by tournaments datasource generation tool*
