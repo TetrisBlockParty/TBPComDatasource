@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 04:22:37 UTC
+# Standings for team1 as of 2026-03-14 04:23:17 UTC
 
 **Total Participants:** 1337
 
@@ -49,13 +49,13 @@
 | 41 | 811 | Jordan W Hamilton |
 | 42 | 792 | L3sli3 |
 | 43 | 780 | Howard Forest |
-| 44 | 687 | Giddy Cascade |
-| 45 | 683 | Tina Blessed Cage |
-| 46 | 679 | Venechia Berry |
-| 47 | 679 | Michael DeRosa |
-| 48 | 675 | Joshua Dye |
-| 49 | 669 | Tim Raper |
-| 50 | 649 | Megan Klinkner |
+| 44 | 706 | Megan Klinkner |
+| 45 | 687 | Giddy Cascade |
+| 46 | 683 | Tina Blessed Cage |
+| 47 | 679 | Venechia Berry |
+| 48 | 679 | Michael DeRosa |
+| 49 | 675 | Joshua Dye |
+| 50 | 669 | Tim Raper |
 | 51 | 620 | Fancy Shuffler |
 | 52 | 601 | Ana Fernanda Sanchez |
 | 53 | 600 | Jayna Anoc |
@@ -166,8 +166,8 @@
 | 158 | 138 | David Rojas |
 | 159 | 138 | Marie Shakinah |
 | 160 | 135 | DeeBee |
-| 161 | 133 | FancyPants |
-| 162 | 133 | Porshe Garthwaite |
+| 161 | 134 | Porshe Garthwaite |
+| 162 | 133 | FancyPants |
 | 163 | 132 | Eric Hoffman |
 | 164 | 132 | Trina Gee |
 | 165 | 132 | Donald Nguyen |
