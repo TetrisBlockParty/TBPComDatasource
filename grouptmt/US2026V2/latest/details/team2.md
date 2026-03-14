@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 09:08:38 UTC
+# Standings for team2 as of 2026-03-14 09:09:16 UTC
 
 **Total Participants:** 1443
 
@@ -8,17 +8,17 @@
 | :- | :- | :- |
 | 1 | 9637 | Mochi |
 | 2 | 3823 | Justablock |
-| 3 | 3704 | Abigail Kate Fernandez |
-| 4 | 3630 | Shandrea Crawford |
-| 5 | 3357 | Dizzy Zonegrid |
-| 6 | 3225 | MzBerry |
-| 7 | 3031 | Kori Beth Babb |
-| 8 | 3015 | Kristen Sceurman |
-| 9 | 2942 | Denise Nardoni |
-| 10 | 2940 | Fae-Bulous |
-| 11 | 2726 | Baleria Ruedas Pantoja |
-| 12 | 2264 | Aaron Garnett |
-| 13 | 2263 | 赵珞涵 |
+| 3 | 3747 | 赵珞涵 |
+| 4 | 3704 | Abigail Kate Fernandez |
+| 5 | 3630 | Shandrea Crawford |
+| 6 | 3357 | Dizzy Zonegrid |
+| 7 | 3225 | MzBerry |
+| 8 | 3031 | Kori Beth Babb |
+| 9 | 3015 | Kristen Sceurman |
+| 10 | 2942 | Denise Nardoni |
+| 11 | 2940 | Fae-Bulous |
+| 12 | 2726 | Baleria Ruedas Pantoja |
+| 13 | 2264 | Aaron Garnett |
 | 14 | 2169 | Emilie Dodge |
 | 15 | 2150 | Kelly Kihe |
 | 16 | 2062 | Kevin Watson |
@@ -248,30 +248,30 @@
 | 240 | 126 | Amanda Thomas |
 | 241 | 126 | Tiff Vs Tiffany |
 | 242 | 126 | Paul Beeman |
-| 243 | 125 | Loony Snapbuild |
-| 244 | 125 | Epic Liner |
-| 245 | 125 | Isabella Blanco |
-| 246 | 125 | Dreamy Clicky |
-| 247 | 125 | Tommy Proctor |
-| 248 | 125 | April |
-| 249 | 125 | titrissss |
-| 250 | 123 | Christina Freeman |
-| 251 | 122 | Michelle Allers |
-| 252 | 122 | Buisanito |
-| 253 | 122 | Tanya Abernathy Jackson |
-| 254 | 121 | Cari Hogan |
-| 255 | 121 | Cheeky Dashy |
-| 256 | 120 | JTH |
-| 257 | 120 | Twisty Shatter |
-| 258 | 120 | Vanessa Nguyen |
-| 259 | 120 | Marinara |
-| 260 | 120 | Tiffany Smith |
-| 261 | 119 | Wishabishwood |
-| 262 | 118 | Elizabeth Mauri |
-| 263 | 118 | Megan Simpson |
-| 264 | 118 | Natasha |
-| 265 | 118 | Alexander Zamora |
-| 266 | 118 | Kit Dennett |
+| 243 | 126 | Kit Dennett |
+| 244 | 125 | Loony Snapbuild |
+| 245 | 125 | Epic Liner |
+| 246 | 125 | Isabella Blanco |
+| 247 | 125 | Dreamy Clicky |
+| 248 | 125 | Tommy Proctor |
+| 249 | 125 | April |
+| 250 | 125 | titrissss |
+| 251 | 123 | Christina Freeman |
+| 252 | 122 | Michelle Allers |
+| 253 | 122 | Buisanito |
+| 254 | 122 | Tanya Abernathy Jackson |
+| 255 | 121 | Cari Hogan |
+| 256 | 121 | Cheeky Dashy |
+| 257 | 120 | JTH |
+| 258 | 120 | Twisty Shatter |
+| 259 | 120 | Vanessa Nguyen |
+| 260 | 120 | Marinara |
+| 261 | 120 | Tiffany Smith |
+| 262 | 119 | Wishabishwood |
+| 263 | 118 | Elizabeth Mauri |
+| 264 | 118 | Megan Simpson |
+| 265 | 118 | Natasha |
+| 266 | 118 | Alexander Zamora |
 | 267 | 117 | Sonya Gail Goodman |
 | 268 | 117 | Slippery Clam |
 | 269 | 116 | Looloo |
@@ -578,8 +578,8 @@
 | 570 | 51 | Mackenzie Forrester |
 | 571 | 51 | Penny Palmer |
 | 572 | 51 | Miss253 |
-| 573 | 51 | Ashlee Pappaconstantinou |
-| 574 | 51 | Elizabeth Ostrom |
+| 573 | 51 | Elizabeth Ostrom |
+| 574 | 51 | Ashlee Pappaconstantinou |
 | 575 | 51 | JoJo |
 | 576 | 51 | Mjhays |
 | 577 | 50 | Roll1000 |
@@ -588,24 +588,24 @@
 | 580 | 50 | Rebecca S. Cornwell |
 | 581 | 50 | Melody Santiago |
 | 582 | 50 | Shelly Babie |
-| 583 | 50 | Amber Lashbrook |
-| 584 | 50 | ThriftySpice |
-| 585 | 50 | Chloe S |
-| 586 | 50 | Rachel Anne |
-| 587 | 50 | Bridgett |
-| 588 | 50 | Flashy Tetriblast |
-| 589 | 50 | Jada Tims |
-| 590 | 50 | Jason Gibbs |
-| 591 | 50 | Confused Kitty |
-| 592 | 50 | Mary Love |
-| 593 | 50 | Peppy Piecebuilder |
-| 594 | 50 | Dda |
-| 595 | 50 | eMzzz |
-| 596 | 50 | Jeremiah Mell |
-| 597 | 49 | Dawn Alexander |
-| 598 | 49 | blockbustinbecky |
-| 599 | 49 | LaTonya Myers |
-| 600 | 49 | Daquan Rovira |
+| 583 | 50 | Daquan Rovira |
+| 584 | 50 | Amber Lashbrook |
+| 585 | 50 | ThriftySpice |
+| 586 | 50 | Chloe S |
+| 587 | 50 | Rachel Anne |
+| 588 | 50 | Bridgett |
+| 589 | 50 | Flashy Tetriblast |
+| 590 | 50 | Jada Tims |
+| 591 | 50 | Jason Gibbs |
+| 592 | 50 | Confused Kitty |
+| 593 | 50 | Mary Love |
+| 594 | 50 | Peppy Piecebuilder |
+| 595 | 50 | Dda |
+| 596 | 50 | eMzzz |
+| 597 | 50 | Jeremiah Mell |
+| 598 | 49 | Dawn Alexander |
+| 599 | 49 | blockbustinbecky |
+| 600 | 49 | LaTonya Myers |
 | 601 | 49 | pickle girl |
 | 602 | 49 | Nicole Lynnette Mahurin |
 | 603 | 49 | Zany Dashgrid |
