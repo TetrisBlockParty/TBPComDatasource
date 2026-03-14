@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 12:32:18 UTC
+# Standings for team1 as of 2026-03-14 12:32:38 UTC
 
 **Total Participants:** 1584
 
@@ -355,11 +355,11 @@
 | 347 | 90 | Josh Twilley |
 | 348 | 89 | Loverlylove |
 | 349 | 89 | Damion Woods |
-| 350 | 89 | Kristen Hall |
-| 351 | 87 | April Carroll |
-| 352 | 86 | Happy Snapbuild |
-| 353 | 86 | Kayla Marie Stevenson |
-| 354 | 86 | Nicole Plummer |
+| 350 | 89 | Happy Snapbuild |
+| 351 | 89 | Kristen Hall |
+| 352 | 87 | April Carroll |
+| 353 | 86 | Nicole Plummer |
+| 354 | 86 | Kayla Marie Stevenson |
 | 355 | 85 | Rebecca Martin |
 | 356 | 85 | Ryry |
 | 357 | 84 | Anthony Bryan Riva |
@@ -372,8 +372,8 @@
 | 364 | 82 | MammaCass |
 | 365 | 82 | Crafty Clearfit |
 | 366 | 82 | Bribrobra |
-| 367 | 81 | Kimmy White |
-| 368 | 81 | Peachy Curvetile |
+| 367 | 81 | Peachy Curvetile |
+| 368 | 81 | Kimmy White |
 | 369 | 80 | bounce back |
 | 370 | 80 | DeJuan Green |
 | 371 | 80 | Ricardo Ferreira |
@@ -724,30 +724,30 @@
 | 716 | 43 | Felipa Jo Johnson |
 | 717 | 43 | Heather Ann |
 | 718 | 43 | Giddy Towerzone |
-| 719 | 42 | Amy Hollinger |
-| 720 | 42 | Tara Spencer |
-| 721 | 42 | Travis Taylor |
-| 722 | 42 | Tracey Wilson |
-| 723 | 42 | Christie Reynolds |
-| 724 | 42 | Shiny Stacky |
-| 725 | 42 | Randy Bowers |
-| 726 | 42 | Susan Lokerse |
-| 727 | 42 | Bink |
-| 728 | 42 | Sissy Lowery Davis |
-| 729 | 42 | Luna |
-| 730 | 42 | Glitzy Builderline |
-| 731 | 42 | Joey Burns |
-| 732 | 41 | David Wright |
-| 733 | 41 | Tammy Kunai |
-| 734 | 41 | Pamela Morgan |
-| 735 | 41 | Petahboi |
-| 736 | 41 | UltraMAGA |
-| 737 | 41 | Spicy Twister |
-| 738 | 41 | Boldy Towerfall |
-| 739 | 40 | Kat |
-| 740 | 40 | Greenie |
-| 741 | 40 | Ken McDonald |
-| 742 | 40 | Franky |
+| 719 | 42 | Franky |
+| 720 | 42 | Joey Burns |
+| 721 | 42 | Bink |
+| 722 | 42 | Susan Lokerse |
+| 723 | 42 | Randy Bowers |
+| 724 | 42 | Amy Hollinger |
+| 725 | 42 | Tara Spencer |
+| 726 | 42 | Travis Taylor |
+| 727 | 42 | Tracey Wilson |
+| 728 | 42 | Christie Reynolds |
+| 729 | 42 | Shiny Stacky |
+| 730 | 42 | Sissy Lowery Davis |
+| 731 | 42 | Luna |
+| 732 | 42 | Glitzy Builderline |
+| 733 | 41 | Petahboi |
+| 734 | 41 | UltraMAGA |
+| 735 | 41 | Spicy Twister |
+| 736 | 41 | Pamela Morgan |
+| 737 | 41 | Boldy Towerfall |
+| 738 | 41 | David Wright |
+| 739 | 41 | Tammy Kunai |
+| 740 | 40 | Kat |
+| 741 | 40 | Greenie |
+| 742 | 40 | Ken McDonald |
 | 743 | 40 | smitch |
 | 744 | 40 | Shane Caskey |
 | 745 | 40 | Thomas Susi |
