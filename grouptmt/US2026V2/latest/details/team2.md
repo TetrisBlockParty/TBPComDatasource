@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 02:46:16 UTC
+# Standings for team2 as of 2026-03-14 02:46:36 UTC
 
 **Total Participants:** 1152
 
@@ -495,62 +495,62 @@
 | 487 | 40 | Nicole McLean |
 | 488 | 40 | Nate Price |
 | 489 | 40 | Carly Ann Maxwell |
-| 490 | 39 | JZoya  Scott |
-| 491 | 39 | Zany Jumper |
+| 490 | 39 | Zany Jumper |
+| 491 | 39 | JZoya  Scott |
 | 492 | 39 | Jason McCloy |
 | 493 | 39 | Kacee Conrad Bock |
 | 494 | 39 | Kris Owls |
-| 495 | 39 | CaliGames |
-| 496 | 39 | Tracey Cox |
-| 497 | 39 | Cozy Clearbuilder |
-| 498 | 39 | JoJo |
-| 499 | 39 | ANIM3KNIGHT |
-| 500 | 39 | Clever Roll |
-| 501 | 39 | Cheeky Clearbuilder |
-| 502 | 39 | Danielle Smith |
-| 503 | 38 | Liz Waagmeester |
-| 504 | 38 | Lindsay Parenti |
-| 505 | 38 | Dai Bo |
-| 506 | 38 | Leslie Nicole |
-| 507 | 38 | John Matson |
+| 495 | 39 | Shea Ladynick Henderson |
+| 496 | 39 | CaliGames |
+| 497 | 39 | Tracey Cox |
+| 498 | 39 | Cozy Clearbuilder |
+| 499 | 39 | JoJo |
+| 500 | 39 | ANIM3KNIGHT |
+| 501 | 39 | Clever Roll |
+| 502 | 39 | Cheeky Clearbuilder |
+| 503 | 39 | Danielle Smith |
+| 504 | 38 | Liz Waagmeester |
+| 505 | 38 | Lindsay Parenti |
+| 506 | 38 | Dai Bo |
+| 507 | 38 | Leslie Nicole |
 | 508 | 38 | Cuttermonk |
-| 509 | 38 | Rose |
-| 510 | 38 | Tracy Berry |
-| 511 | 38 | Brandi Fuller Cason |
-| 512 | 38 | Sam Hall |
-| 513 | 38 | Stitch Aura |
-| 514 | 38 | HarleyJane |
-| 515 | 38 | jardo |
-| 516 | 38 | funhon2829 |
-| 517 | 38 | Sbs |
-| 518 | 38 | Juana |
-| 519 | 38 | Shea Ladynick Henderson |
-| 520 | 38 | Brickh4us |
+| 509 | 38 | John Matson |
+| 510 | 38 | Rose |
+| 511 | 38 | Tracy Berry |
+| 512 | 38 | Brandi Fuller Cason |
+| 513 | 38 | Sam Hall |
+| 514 | 38 | Juana |
+| 515 | 38 | funhon2829 |
+| 516 | 38 | Brickh4us |
+| 517 | 38 | Stitch Aura |
+| 518 | 38 | HarleyJane |
+| 519 | 38 | Sbs |
+| 520 | 38 | jardo |
 | 521 | 37 | Ruchi Smit |
 | 522 | 37 | Qing DG |
 | 523 | 37 | Lakeisha Dontwearitout Swoope |
 | 524 | 37 | Frisky Gridpiece |
 | 525 | 37 | Cool Snapzone |
-| 526 | 37 | Plucky Snaplink |
-| 527 | 37 | Bubbly Clearbuilder |
-| 528 | 37 | Hyper Gridpiece |
-| 529 | 36 | Amykins |
-| 530 | 36 | Olivia Gwin |
-| 531 | 36 | Paul Gurwitz |
-| 532 | 36 | Rarejewel Green |
-| 533 | 36 | Cece Ibarra |
-| 534 | 36 | Joe Smith |
-| 535 | 36 | Shaun Talbot |
-| 536 | 36 | Lab2dablock |
-| 537 | 36 | Chill Tumbler |
-| 538 | 35 | SD Temple |
-| 539 | 35 | Hyper Stackbuilder |
-| 540 | 35 | rumpadump |
-| 541 | 35 | Shanae Grant |
-| 542 | 35 | Archimedean |
-| 543 | 35 | Topsannah Topsannah |
-| 544 | 35 | Marcus Todd |
-| 545 | 35 | Monroy Juana |
+| 526 | 37 | Bubbly Clearbuilder |
+| 527 | 37 | Hyper Gridpiece |
+| 528 | 37 | Plucky Snaplink |
+| 529 | 36 | Cece Ibarra |
+| 530 | 36 | Rarejewel Green |
+| 531 | 36 | Joe Smith |
+| 532 | 36 | Paul Gurwitz |
+| 533 | 36 | Amykins |
+| 534 | 36 | Chill Tumbler |
+| 535 | 36 | Olivia Gwin |
+| 536 | 36 | Shaun Talbot |
+| 537 | 36 | Lab2dablock |
+| 538 | 35 | Hyper Stackbuilder |
+| 539 | 35 | Marcus Todd |
+| 540 | 35 | Monroy Juana |
+| 541 | 35 | Topsannah Topsannah |
+| 542 | 35 | Shanae Grant |
+| 543 | 35 | rumpadump |
+| 544 | 35 | SD Temple |
+| 545 | 35 | Archimedean |
 | 546 | 35 | Nerdy Clusterfit |
 | 547 | 35 | Elizabeth Churning |
 | 548 | 35 | Adam McClellan |
