@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 07:40:17 UTC
+# Standings for team2 as of 2026-03-14 07:40:39 UTC
 
 **Total Participants:** 1395
 
@@ -35,17 +35,17 @@
 | 27 | 1082 | Breezy Towerfall |
 | 28 | 1046 | Miranda Rush |
 | 29 | 1033 | Kat |
-| 30 | 949 | Payton Auberry |
-| 31 | 948 | Cynthia Ward |
-| 32 | 911 | Giggy Brickmatch |
-| 33 | 824 | Dee Kay |
-| 34 | 819 | Crafty Matchfit |
-| 35 | 761 | Raven Smith |
-| 36 | 759 | Robert Martinez |
-| 37 | 740 | Andrey Sharov |
-| 38 | 735 | Joy LaJeunesse |
-| 39 | 656 | pooda |
-| 40 | 653 | Ramen Noodle |
+| 30 | 953 | Ramen Noodle |
+| 31 | 949 | Payton Auberry |
+| 32 | 948 | Cynthia Ward |
+| 33 | 911 | Giggy Brickmatch |
+| 34 | 824 | Dee Kay |
+| 35 | 819 | Crafty Matchfit |
+| 36 | 761 | Raven Smith |
+| 37 | 759 | Robert Martinez |
+| 38 | 740 | Andrey Sharov |
+| 39 | 735 | Joy LaJeunesse |
+| 40 | 656 | pooda |
 | 41 | 652 | Joshua |
 | 42 | 645 | Linda Lively |
 | 43 | 635 | Richard Butler |
@@ -54,8 +54,8 @@
 | 46 | 594 | LolaSmilez |
 | 47 | 580 | Becky McClure |
 | 48 | 561 | CSOTYS |
-| 49 | 550 | Jennifer Golub |
-| 50 | 550 | Peppy Zone |
+| 49 | 550 | Peppy Zone |
+| 50 | 550 | Jennifer Golub |
 | 51 | 547 | Carson Goldminc |
 | 52 | 513 | Carrie Mitchell |
 | 53 | 497 | Snippy Basepiece |
@@ -77,8 +77,8 @@
 | 69 | 371 | Dreamy Linkbuilder |
 | 70 | 370 | Pikake Medeiros |
 | 71 | 368 | Sheesh M |
-| 72 | 366 | Bubbly Twistpiece |
-| 73 | 366 | opf |
+| 72 | 366 | opf |
+| 73 | 366 | Bubbly Twistpiece |
 | 74 | 360 | Liana Spikes |
 | 75 | 359 | Arthe3rd |
 | 76 | 352 | Jess |
@@ -87,8 +87,8 @@
 | 79 | 339 | Jumpy Breaker |
 | 80 | 333 | Dee Doubleyou |
 | 81 | 329 | SterlingTeri |
-| 82 | 322 | Nicole Cannon |
-| 83 | 322 | Amanda Young |
+| 82 | 322 | Amanda Young |
+| 83 | 322 | Nicole Cannon |
 | 84 | 318 | Dapper Gridclear |
 | 85 | 315 | Deb Wasano |
 | 86 | 305 | Katrina Schroeder |
@@ -102,8 +102,8 @@
 | 94 | 276 | Ashley Marie |
 | 95 | 270 | Slinky Towerer |
 | 96 | 266 | Sheena Hachmann |
-| 97 | 265 | Michael H. M. Skropka |
-| 98 | 265 | Jo Frohwein |
+| 97 | 265 | Jo Frohwein |
+| 98 | 265 | Michael H. M. Skropka |
 | 99 | 264 | Ruby Anne |
 | 100 | 261 | Starr |
 | 101 | 260 | Lori Schlachter Segui |
@@ -114,8 +114,8 @@
 | 106 | 250 | Quirky Matchfit |
 | 107 | 248 | Anna Faulkner |
 | 108 | 248 | Angela Mindiola |
-| 109 | 241 | Amelia Anderson |
-| 110 | 241 | Nathaniel Hardy |
+| 109 | 241 | Nathaniel Hardy |
+| 110 | 241 | Amelia Anderson |
 | 111 | 240 | Guillaume Clermont |
 | 112 | 235 | Ultramarine |
 | 113 | 232 | Sass |
@@ -1171,10 +1171,10 @@
 | 1163 | 13 | Christopher Mastropietro |
 | 1164 | 13 | Staybutterfly |
 | 1165 | 13 | Skeetris |
-| 1166 | 13 | Kendra Hahn |
-| 1167 | 13 | Christina Nabrizny |
-| 1168 | 12 | Kristy Willis |
-| 1169 | 12 | Nerdy Crusher |
+| 1166 | 13 | Christina Nabrizny |
+| 1167 | 13 | Kendra Hahn |
+| 1168 | 12 | Nerdy Crusher |
+| 1169 | 12 | Kristy Willis |
 | 1170 | 12 | Deftxtoken |
 | 1171 | 12 | Shane Gann |
 | 1172 | 12 | Frothy Glidebuilder |
@@ -1315,13 +1315,13 @@
 | 1307 | 8 | Rach |
 | 1308 | 8 | Shanon Klair |
 | 1309 | 8 | Swanky Matchfit |
-| 1310 | 8 | skunshine |
-| 1311 | 8 | Jonathan Myers |
+| 1310 | 8 | Jonathan Myers |
+| 1311 | 8 | skunshine |
 | 1312 | 7 | Corrie Belle Redfoot Manning |
-| 1313 | 7 | swaggysteph |
+| 1313 | 7 | Hosifa Yasin |
 | 1314 | 7 | Layne Dejean |
-| 1315 | 7 | Zappy Zoney |
-| 1316 | 7 | Hosifa Yasin |
+| 1315 | 7 | swaggysteph |
+| 1316 | 7 | Zappy Zoney |
 | 1317 | 7 | Kari Thompson Rock |
 | 1318 | 7 | Psst |
 | 1319 | 7 | Ryan Martin |
@@ -1369,10 +1369,10 @@
 | 1361 | 6 | Rita Nerone |
 | 1362 | 6 | Angela Bonquiqui Dinish |
 | 1363 | 6 | twentyeight |
-| 1364 | 6 | Jake Bell |
-| 1365 | 6 | Chilly Mover |
-| 1366 | 6 | Nicole Bou |
-| 1367 | 6 | Yo |
+| 1364 | 6 | Chilly Mover |
+| 1365 | 6 | Jake Bell |
+| 1366 | 6 | Yo |
+| 1367 | 6 | Nicole Bou |
 | 1368 | 5 | Dave Behnen |
 | 1369 | 5 | Cassie Moeller |
 | 1370 | 5 | Chill Spinblock |

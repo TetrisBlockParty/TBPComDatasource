@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-14 07:40:17 UTC
+# Standings for team3 as of 2026-03-14 07:40:39 UTC
 
 **Total Participants:** 2234
 
@@ -15,9 +15,9 @@
 | 7 | 3609 | Alisha |
 | 8 | 3147 | Sterling Blu |
 | 9 | 2999 | LaTanya DontTestme Simon |
-| 10 | 2507 | Epic Patternfall |
-| 11 | 2459 | Charley Bedford |
-| 12 | 2293 | Mimiof5 |
+| 10 | 2693 | Mimiof5 |
+| 11 | 2507 | Epic Patternfall |
+| 12 | 2459 | Charley Bedford |
 | 13 | 2124 | Peppy Risegrid |
 | 14 | 2009 | Britney Lynch Caylor |
 | 15 | 1835 | Nya Bamzels |
@@ -95,8 +95,8 @@
 | 87 | 509 | Jennifer Anthony |
 | 88 | 458 | Meemaw |
 | 89 | 446 | Michelle Drew |
-| 90 | 437 | outdoor_cat |
-| 91 | 437 | Asher |
+| 90 | 437 | Asher |
+| 91 | 437 | outdoor_cat |
 | 92 | 429 | Doowop40 |
 | 93 | 421 | Kristina Kelley |
 | 94 | 420 | Dyllan Milashoski |
@@ -120,16 +120,16 @@
 | 112 | 319 | Snappy Dropper |
 | 113 | 317 | Sharp pinata |
 | 114 | 310 | joclisa |
-| 115 | 309 | Amanda Maize |
-| 116 | 309 | Cranky Tiltbuilder |
+| 115 | 309 | Cranky Tiltbuilder |
+| 116 | 309 | Amanda Maize |
 | 117 | 306 | Tetris Master |
 | 118 | 304 | diz |
 | 119 | 300 | Dayaa Laws |
-| 120 | 298 | Reah Boord |
-| 121 | 285 | Sadgirl |
-| 122 | 284 | Salaices Ezzie |
-| 123 | 282 | Starlight Snyder |
-| 124 | 278 | PinkDiamond |
+| 120 | 298 | PinkDiamond |
+| 121 | 298 | Reah Boord |
+| 122 | 285 | Sadgirl |
+| 123 | 284 | Salaices Ezzie |
+| 124 | 282 | Starlight Snyder |
 | 125 | 278 | Belu |
 | 126 | 276 | Tawna Curry |
 | 127 | 275 | Saucy Buildout |
