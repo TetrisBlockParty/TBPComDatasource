@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 18:56:18 UTC
+# Standings for team1 as of 2026-03-14 18:56:39 UTC
 
 **Total Participants:** 1817
 
@@ -588,91 +588,91 @@
 | 580 | 70 | JV Yu |
 | 581 | 70 | CupcakeEyes |
 | 582 | 70 | Shiny Party |
-| 583 | 70 | Dawgofwar |
+| 583 | 70 | Nicole Brown |
 | 584 | 70 | Abcmasters12 |
-| 585 | 70 | Nicole Brown |
-| 586 | 70 | Amanda Richardson |
-| 587 | 70 | Becky Coker |
-| 588 | 69 | April Bennett |
-| 589 | 69 | mrkw |
-| 590 | 69 | Lablaze |
-| 591 | 69 | Groovy Cascadefit |
-| 592 | 69 | Daniel R Morgan |
-| 593 | 69 | Hobson Lopes |
-| 594 | 68 | Andie Galindo |
-| 595 | 68 | crunchy panda |
-| 596 | 68 | Chirpy Twistpiece |
-| 597 | 68 | Deb Horwath |
-| 598 | 68 | Frilly Breaker |
-| 599 | 68 | Dizzy Pattern |
-| 600 | 68 | Ellen Durfee |
-| 601 | 68 | Jimmy Shannon |
-| 602 | 68 | LaTisha Stillsmilin Hudson |
-| 603 | 67 | Anthony Ross |
+| 585 | 70 | Dawgofwar |
+| 586 | 70 | Becky Coker |
+| 587 | 70 | Amanda Richardson |
+| 588 | 69 | mrkw |
+| 589 | 69 | Lablaze |
+| 590 | 69 | Groovy Cascadefit |
+| 591 | 69 | Daniel R Morgan |
+| 592 | 69 | Hobson Lopes |
+| 593 | 69 | April Bennett |
+| 594 | 68 | Chirpy Twistpiece |
+| 595 | 68 | Andie Galindo |
+| 596 | 68 | Jimmy Shannon |
+| 597 | 68 | Frilly Breaker |
+| 598 | 68 | crunchy panda |
+| 599 | 68 | LaTisha Stillsmilin Hudson |
+| 600 | 68 | Deb Horwath |
+| 601 | 68 | Dizzy Pattern |
+| 602 | 68 | Ellen Durfee |
+| 603 | 67 | Antonia Wyche |
 | 604 | 67 | Hyper Drop |
-| 605 | 67 | Sean Dickey |
+| 605 | 67 | Sabrina Frazier |
 | 606 | 67 | John Ham |
-| 607 | 67 | Sabrina Frazier |
-| 608 | 67 | Antonia Wyche |
+| 607 | 67 | Anthony Ross |
+| 608 | 67 | Sean Dickey |
 | 609 | 66 | Trishatta YoungDiva Watkins |
-| 610 | 66 | BingoStarr |
-| 611 | 66 | Yolanda Quinn |
-| 612 | 66 | Bailey Morgan |
-| 613 | 66 | Bon Welch |
-| 614 | 65 | J. |
-| 615 | 65 | Carl Hampton |
-| 616 | 65 | Matt Coons |
-| 617 | 65 | Amber McDonald |
+| 610 | 66 | Bailey Morgan |
+| 611 | 66 | Bon Welch |
+| 612 | 66 | Yolanda Quinn |
+| 613 | 66 | BingoStarr |
+| 614 | 65 | Mahmudul Hasan |
+| 615 | 65 | Ziggy Csah |
+| 616 | 65 | Carl Hampton |
+| 617 | 65 | Shay Upshaw |
 | 618 | 65 | FireHawk |
-| 619 | 65 | Ziggy Csah |
-| 620 | 65 | Shay Upshaw |
-| 621 | 65 | Mahmudul Hasan |
-| 622 | 65 | OneBuke FollowMe |
-| 623 | 65 | Gary Ustica |
+| 619 | 65 | Gary Ustica |
+| 620 | 65 | Matt Coons |
+| 621 | 65 | OneBuke FollowMe |
+| 622 | 65 | Amber McDonald |
+| 623 | 65 | J. |
 | 624 | 65 | Loony Towerpiece |
 | 625 | 64 | Cassi Owens |
 | 626 | 64 | WEIRDINO |
 | 627 | 64 | Oscar Ferguson |
 | 628 | 64 | Kat Kath |
-| 629 | 64 | Ellieshay |
-| 630 | 64 | Will Fulmer |
-| 631 | 64 | SpunkyStriker |
-| 632 | 64 | Las Carolina |
-| 633 | 64 | RaeSea |
-| 634 | 63 | Tiffany |
-| 635 | 63 | Ernest Jordan |
-| 636 | 63 | Nicole Williams |
-| 637 | 63 | Nick R Johnson |
-| 638 | 63 | Randy Clevenger |
+| 629 | 64 | Las Carolina |
+| 630 | 64 | PSD |
+| 631 | 64 | Will Fulmer |
+| 632 | 64 | Ellieshay |
+| 633 | 64 | SpunkyStriker |
+| 634 | 64 | RaeSea |
+| 635 | 63 | Nick R Johnson |
+| 636 | 63 | Tiffany |
+| 637 | 63 | Nicole Williams |
+| 638 | 63 | Ernest Jordan |
 | 639 | 63 | Yang Desu |
-| 640 | 63 | PurpleSnow |
-| 641 | 63 | PennyCandee |
-| 642 | 62 | Nance Jeano |
-| 643 | 62 | Regina Jones |
-| 644 | 62 | Steven Ray Real |
-| 645 | 62 | Groovy Holder |
-| 646 | 62 | Kristy Burch Sells |
-| 647 | 62 | Maximusprime |
-| 648 | 62 | Alana Susan Hanley |
-| 649 | 62 | Paul Stafford |
-| 650 | 62 | Smin |
+| 640 | 63 | Randy Clevenger |
+| 641 | 63 | PurpleSnow |
+| 642 | 63 | PennyCandee |
+| 643 | 62 | Smin |
+| 644 | 62 | Regina Jones |
+| 645 | 62 | Steven Ray Real |
+| 646 | 62 | Groovy Holder |
+| 647 | 62 | Kristy Burch Sells |
+| 648 | 62 | Maximusprime |
+| 649 | 62 | Alana Susan Hanley |
+| 650 | 62 | Nance Jeano |
 | 651 | 62 | Dace Zoltners |
 | 652 | 62 | Random |
-| 653 | 62 | Tara Spencer |
-| 654 | 62 | LouiBandz |
-| 655 | 61 | Sassy Wrecker |
-| 656 | 61 | Blkfroggy |
-| 657 | 61 | Hi |
-| 658 | 61 | colt |
-| 659 | 61 | Paul Brian Angelo Egango |
-| 660 | 61 | Y ve |
-| 661 | 61 | PSD |
-| 662 | 61 | Kevin Russell |
+| 653 | 62 | LouiBandz |
+| 654 | 62 | Tara Spencer |
+| 655 | 62 | Paul Stafford |
+| 656 | 61 | Sassy Wrecker |
+| 657 | 61 | Blkfroggy |
+| 658 | 61 | Hi |
+| 659 | 61 | colt |
+| 660 | 61 | Paul Brian Angelo Egango |
+| 661 | 61 | Y ve |
+| 662 | 61 | Cheryl Villa |
 | 663 | 61 | Michael Phillips |
-| 664 | 61 | Cheryl Villa |
-| 665 | 61 | Slatt Aint Going |
+| 664 | 61 | Slatt Aint Going |
+| 665 | 61 | Glitzy Builderline |
 | 666 | 61 | Christi Ames |
-| 667 | 61 | Glitzy Builderline |
+| 667 | 61 | Kevin Russell |
 | 668 | 61 | Hyper Corner |
 | 669 | 61 | Slinky Stacky |
 | 670 | 61 | Mel Fab |
