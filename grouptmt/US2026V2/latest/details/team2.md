@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 07:30:16 UTC
+# Standings for team2 as of 2026-03-14 07:30:39 UTC
 
 **Total Participants:** 1387
 
@@ -620,22 +620,22 @@
 | 612 | 44 | Liz Waagmeester |
 | 613 | 44 | Marty Bittner |
 | 614 | 44 | Nicole Archuleta |
-| 615 | 44 | Mighty Matchpiece |
-| 616 | 44 | Jenn Tyler |
-| 617 | 43 | Kimberly Krass |
-| 618 | 43 | Scott Siple |
-| 619 | 43 | Laura |
-| 620 | 43 | Ashley Marie Pierce |
+| 615 | 44 | Jenn Tyler |
+| 616 | 44 | Mighty Matchpiece |
+| 617 | 43 | Groovy Builder |
+| 618 | 43 | Laura |
+| 619 | 43 | TruAmber |
+| 620 | 43 | Bow Babe |
 | 621 | 43 | Kristie |
-| 622 | 43 | Bow Babe |
-| 623 | 43 | TruAmber |
-| 624 | 42 | Carey Kyle |
-| 625 | 42 | Ellie |
-| 626 | 42 | Derek Jarvis |
-| 627 | 42 | Snappy Risebuilder |
-| 628 | 42 | Nai Saeteurn |
-| 629 | 42 | Marta Savchuk |
-| 630 | 42 | Groovy Builder |
+| 622 | 43 | Ashley Marie Pierce |
+| 623 | 43 | Scott Siple |
+| 624 | 43 | Kimberly Krass |
+| 625 | 42 | Snappy Risebuilder |
+| 626 | 42 | Nai Saeteurn |
+| 627 | 42 | Derek Jarvis |
+| 628 | 42 | Marta Savchuk |
+| 629 | 42 | Ellie |
+| 630 | 42 | Carey Kyle |
 | 631 | 42 | Kiorah Blaze |
 | 632 | 42 | Dandy Crasher |
 | 633 | 42 | bubbles |
