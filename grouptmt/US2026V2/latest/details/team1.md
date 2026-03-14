@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 06:45:16 UTC
+# Standings for team1 as of 2026-03-14 06:46:17 UTC
 
 **Total Participants:** 1453
 
@@ -83,10 +83,10 @@
 | 75 | 428 | Amy Dial Brown |
 | 76 | 428 | Katie Daniels |
 | 77 | 412 | Nancy |
-| 78 | 400 | Jessica Sheehan |
-| 79 | 387 | Amee Schnarrs |
-| 80 | 384 | PhatWI41 |
-| 81 | 380 | Michael Powers |
+| 78 | 410 | Michael Powers |
+| 79 | 400 | Jessica Sheehan |
+| 80 | 387 | Amee Schnarrs |
+| 81 | 384 | PhatWI41 |
 | 82 | 374 | Ramona Gulledge |
 | 83 | 371 | Sheree Twiddy Thornton |
 | 84 | 367 | Ramon Salazar |
@@ -156,8 +156,8 @@
 | 148 | 172 | Peppy Matchclear |
 | 149 | 170 | Shawna Days |
 | 150 | 169 | Tameka Brown |
-| 151 | 168 | LeeAnn Martindale |
-| 152 | 168 | Lynn Perkins |
+| 151 | 168 | Lynn Perkins |
+| 152 | 168 | LeeAnn Martindale |
 | 153 | 166 | Stefanie Champion |
 | 154 | 163 | Ryan N. Mason |
 | 155 | 163 | Amber Zeller Rice |
@@ -167,36 +167,36 @@
 | 159 | 158 | Ecami |
 | 160 | 156 | Rat666 |
 | 161 | 156 | Johnathan Rasmussen |
-| 162 | 154 | Silly Ziggy |
-| 163 | 153 | Happy Shatterfit |
-| 164 | 151 | Hasty Lift |
+| 162 | 155 | Donald Nguyen |
+| 163 | 154 | Silly Ziggy |
+| 164 | 153 | Happy Shatterfit |
 | 165 | 151 | Beth Anderson |
-| 166 | 150 | raffyG |
+| 166 | 151 | Hasty Lift |
 | 167 | 150 | Jena Overall Prescott |
 | 168 | 150 | Desiree Jenson |
-| 169 | 147 | Al Smith Jr |
-| 170 | 146 | Donald Nguyen |
-| 171 | 146 | Simmone T. Kadiri |
-| 172 | 146 | Matthew Bunn |
+| 169 | 150 | raffyG |
+| 170 | 147 | Al Smith Jr |
+| 171 | 146 | Matthew Bunn |
+| 172 | 146 | Simmone T. Kadiri |
 | 173 | 145 | Ancient Intuition |
 | 174 | 144 | Hhholmesjr |
 | 175 | 143 | Quirky Catcher |
-| 176 | 141 | Chris |
-| 177 | 141 | TotoCherue |
-| 178 | 140 | Allena Craft |
-| 179 | 140 | Tee Tee Greene |
-| 180 | 140 | Mighty Patternbuilder |
-| 181 | 140 | Bubba |
+| 176 | 141 | TotoCherue |
+| 177 | 141 | Chris |
+| 178 | 140 | Tee Tee Greene |
+| 179 | 140 | Bubba |
+| 180 | 140 | Allena Craft |
+| 181 | 140 | Mighty Patternbuilder |
 | 182 | 138 | David Rojas |
 | 183 | 138 | Cynthia Petz |
 | 184 | 137 | Jason Hawk |
 | 185 | 136 | Porshe Garthwaite |
 | 186 | 135 | Alexis Garcia |
-| 187 | 134 | Lively Patternfall |
-| 188 | 134 | Armoni |
-| 189 | 132 | Jennifer Lynn |
+| 187 | 134 | Armoni |
+| 188 | 134 | Lively Patternfall |
+| 189 | 132 | Eric Hoffman |
 | 190 | 132 | Trina Gee |
-| 191 | 132 | Eric Hoffman |
+| 191 | 132 | Jennifer Lynn |
 | 192 | 131 | Albert Josef Toves Means Jr. |
 | 193 | 130 | Florna Primrose |
 | 194 | 128 | Marie Helman |
@@ -204,11 +204,11 @@
 | 196 | 126 | Muhammad |
 | 197 | 126 | Scott Disedare |
 | 198 | 124 | Kris Koepke |
-| 199 | 123 | Tanya Carpenter-Reynolds |
-| 200 | 123 | Natasha King |
+| 199 | 123 | Natasha King |
+| 200 | 123 | Tanya Carpenter-Reynolds |
 | 201 | 122 | Lisa Marie Sansom |
-| 202 | 120 | StankyP |
-| 203 | 120 | Fatima Washington |
+| 202 | 120 | Fatima Washington |
+| 203 | 120 | StankyP |
 | 204 | 118 | Crystal Rosen |
 | 205 | 117 | Danielle Kollias |
 | 206 | 117 | Dī Kuykendall |
@@ -1108,17 +1108,17 @@
 | 1100 | 15 | Tamara Brown |
 | 1101 | 15 | Ruhshikuh Lakor |
 | 1102 | 15 | KingSteve |
-| 1103 | 15 | DynamicQuail10 |
-| 1104 | 15 | Leah LaShomb |
-| 1105 | 15 | apple |
-| 1106 | 15 | Esav Castro |
-| 1107 | 15 | Epic Cascadeclear |
-| 1108 | 14 | Jay Aye |
-| 1109 | 14 | James Martin |
-| 1110 | 14 | Sylvia Black |
-| 1111 | 14 | Shaunie Miller |
-| 1112 | 14 | Greg Hart |
-| 1113 | 14 | Andrew Saltonstall |
+| 1103 | 15 | David |
+| 1104 | 15 | DynamicQuail10 |
+| 1105 | 15 | Leah LaShomb |
+| 1106 | 15 | apple |
+| 1107 | 15 | Esav Castro |
+| 1108 | 15 | Epic Cascadeclear |
+| 1109 | 14 | Jay Aye |
+| 1110 | 14 | James Martin |
+| 1111 | 14 | Sylvia Black |
+| 1112 | 14 | Shaunie Miller |
+| 1113 | 14 | Greg Hart |
 | 1114 | 14 | Chin lock |
 | 1115 | 14 | Jennifer Brandle |
 | 1116 | 14 | Brandy Ann |
@@ -1131,38 +1131,38 @@
 | 1123 | 14 | Haykid14 |
 | 1124 | 14 | Flashy Dasher |
 | 1125 | 14 | Roy Burgess |
-| 1126 | 14 | Jasmyne Moreno |
-| 1127 | 14 | Anthony Ross |
+| 1126 | 14 | Andrew Saltonstall |
+| 1127 | 14 | Jasmyne Moreno |
 | 1128 | 14 | Cindy Lee Johnson |
 | 1129 | 14 | Megan Treacy |
-| 1130 | 14 | David |
-| 1131 | 14 | KissedbyKinny |
-| 1132 | 14 | Jessica Monroe |
-| 1133 | 13 | Susan Kilgore |
-| 1134 | 13 | Disha Chaudhari |
-| 1135 | 13 | pretty kitty |
-| 1136 | 13 | Zac Brubaker |
-| 1137 | 13 | Natasha Velasquez Gabriel |
-| 1138 | 13 | AsianTurtles |
-| 1139 | 13 | Deandre Young |
-| 1140 | 13 | Zany Gridroll |
-| 1141 | 13 | Elizabeth A Cobuccio |
-| 1142 | 13 | Robert Coulter |
-| 1143 | 13 | Amers |
-| 1144 | 13 | Lacey Renee Dietz |
+| 1130 | 14 | Anthony Ross |
+| 1131 | 14 | Jessica Monroe |
+| 1132 | 14 | KissedbyKinny |
+| 1133 | 13 | Disha Chaudhari |
+| 1134 | 13 | Zac Brubaker |
+| 1135 | 13 | Natasha Velasquez Gabriel |
+| 1136 | 13 | Deandre Young |
+| 1137 | 13 | AsianTurtles |
+| 1138 | 13 | Elizabeth A Cobuccio |
+| 1139 | 13 | Zany Gridroll |
+| 1140 | 13 | Susan Kilgore |
+| 1141 | 13 | Robert Coulter |
+| 1142 | 13 | Lacey Renee Dietz |
+| 1143 | 13 | gag |
+| 1144 | 13 | pretty kitty |
 | 1145 | 13 | Giggly Rotator |
 | 1146 | 13 | Dev |
-| 1147 | 13 | gag |
-| 1148 | 13 | Jill Goff |
-| 1149 | 12 | ImStupid |
-| 1150 | 12 | mindgames |
-| 1151 | 12 | Liz M Durfee |
-| 1152 | 12 | Melsap #8284 |
-| 1153 | 12 | Jessica |
-| 1154 | 12 | Cameron Burke |
-| 1155 | 12 | britqueen |
-| 1156 | 12 | Speedy Towerzone |
-| 1157 | 12 | Lush Dasher |
+| 1147 | 13 | Jill Goff |
+| 1148 | 13 | Amers |
+| 1149 | 12 | Jessica |
+| 1150 | 12 | Melsap #8284 |
+| 1151 | 12 | ImStupid |
+| 1152 | 12 | Liz M Durfee |
+| 1153 | 12 | Cameron Burke |
+| 1154 | 12 | britqueen |
+| 1155 | 12 | Speedy Towerzone |
+| 1156 | 12 | Lush Dasher |
+| 1157 | 12 | mindgames |
 | 1158 | 12 | Robaire |
 | 1159 | 12 | cac |
 | 1160 | 12 | Debra Reynolds |
