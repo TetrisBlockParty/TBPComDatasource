@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 07:22:37 UTC
+# Standings for team1 as of 2026-03-14 07:23:16 UTC
 
 **Total Participants:** 1475
 
@@ -23,7 +23,7 @@
 | 15 | 2250 | Amanda Sheppard |
 | 16 | 2182 | Brad Oneill |
 | 17 | 2077 | Itz Kevo |
-| 18 | 1802 | Krystal McPherson |
+| 18 | 1857 | Krystal McPherson |
 | 19 | 1781 | Megan Klinkner |
 | 20 | 1659 | Diane |
 | 21 | 1570 | Fancy Shuffler |
@@ -199,10 +199,10 @@
 | 191 | 134 | Armoni |
 | 192 | 132 | Trina Gee |
 | 193 | 132 | Jennifer Lynn |
-| 194 | 132 | Eric Hoffman |
-| 195 | 130 | Florna Primrose |
-| 196 | 130 | Philippines |
-| 197 | 129 | Kris Koepke |
+| 194 | 132 | Kris Koepke |
+| 195 | 132 | Eric Hoffman |
+| 196 | 130 | Florna Primrose |
+| 197 | 130 | Philippines |
 | 198 | 128 | Marie Helman |
 | 199 | 127 | Pheezy |
 | 200 | 126 | Scott Disedare |
@@ -393,84 +393,84 @@
 | 385 | 66 | Yolanda Quinn |
 | 386 | 66 | Bailey Morgan |
 | 387 | 65 | Abcmasters12 |
-| 388 | 65 | J. |
-| 389 | 65 | Snappy Linkroll |
-| 390 | 65 | Giggy Snaplink |
+| 388 | 65 | Giggy Snaplink |
+| 389 | 65 | J. |
+| 390 | 65 | Snappy Linkroll |
 | 391 | 65 | mrkw |
-| 392 | 64 | Cassi Owens |
-| 393 | 64 | svsninja |
-| 394 | 64 | Las Carolina |
-| 395 | 64 | Heather Bell |
-| 396 | 64 | Pig02 |
+| 392 | 64 | Heather Bell |
+| 393 | 64 | Las Carolina |
+| 394 | 64 | Pig02 |
+| 395 | 64 | svsninja |
+| 396 | 64 | Cassi Owens |
 | 397 | 64 | Oscar Ferguson |
-| 398 | 63 | Nick R Johnson |
-| 399 | 63 | Erin Halleman |
-| 400 | 63 | KingRoss |
-| 401 | 63 | Dizzy Pattern |
-| 402 | 63 | Boldy Clicky |
-| 403 | 63 | Amy Sanford |
-| 404 | 62 | Chirpy Twistpiece |
+| 398 | 63 | Amy Sanford |
+| 399 | 63 | Boldy Clicky |
+| 400 | 63 | Nick R Johnson |
+| 401 | 63 | Erin Halleman |
+| 402 | 63 | Dizzy Pattern |
+| 403 | 63 | KingRoss |
+| 404 | 62 | Bouncy Tilerpiece |
 | 405 | 62 | Kristy Burch Sells |
-| 406 | 62 | Kehlyn King |
+| 406 | 62 | Groovy Holder |
 | 407 | 62 | Ash Galvan |
-| 408 | 62 | Smin |
-| 409 | 62 | Groovy Holder |
-| 410 | 62 | Bouncy Tilerpiece |
-| 411 | 61 | Mel Fab |
+| 408 | 62 | Kehlyn King |
+| 409 | 62 | Smin |
+| 410 | 62 | Chirpy Twistpiece |
+| 411 | 61 | Gigglelymomof2 |
 | 412 | 61 | Deb Horwath |
-| 413 | 61 | Gigglelymomof2 |
+| 413 | 61 | Mel Fab |
 | 414 | 61 | Kimmy White |
-| 415 | 60 | Memphis Kash |
-| 416 | 60 | Matthew Laudico |
-| 417 | 60 | Robert A. Horne |
-| 418 | 60 | Bri Jackson |
+| 415 | 60 | Robert A. Horne |
+| 416 | 60 | Shelby Bryson |
+| 417 | 60 | Memphis Kash |
+| 418 | 60 | Matthew Laudico |
 | 419 | 60 | Josh Twilley |
-| 420 | 60 | Mary Cerciello |
-| 421 | 60 | snazzyseahorse |
-| 422 | 60 | Iliana Figueroa |
-| 423 | 60 | Angel Mendez |
-| 424 | 60 | Shelby Bryson |
-| 425 | 60 | Spunky Rollblock |
-| 426 | 60 | Death |
-| 427 | 60 | Sassy Wrecker |
-| 428 | 60 | Ciara Nunez |
+| 420 | 60 | Spunky Rollblock |
+| 421 | 60 | Mary Cerciello |
+| 422 | 60 | Maxwell Hall |
+| 423 | 60 | Death |
+| 424 | 60 | Iliana Figueroa |
+| 425 | 60 | Sassy Wrecker |
+| 426 | 60 | snazzyseahorse |
+| 427 | 60 | Bri Jackson |
+| 428 | 60 | Chilly Matchbuilder |
 | 429 | 60 | BingoStarr |
-| 430 | 60 | DaRascal |
-| 431 | 60 | Chilly Matchbuilder |
-| 432 | 60 | Conklin Laura |
-| 433 | 60 | S Gale Holton |
-| 434 | 60 | Nicole Brown |
-| 435 | 60 | Kay Alifi |
-| 436 | 60 | Kat Fisher |
-| 437 | 59 | Carly |
-| 438 | 59 | Snazzy Rotater |
-| 439 | 59 | Crystal Eubanks |
-| 440 | 59 | Dramatic Tiger |
-| 441 | 59 | Jennie Lee Huntley |
+| 430 | 60 | Kat Fisher |
+| 431 | 60 | DaRascal |
+| 432 | 60 | Kay Alifi |
+| 433 | 60 | Nicole Brown |
+| 434 | 60 | Conklin Laura |
+| 435 | 60 | Ciara Nunez |
+| 436 | 60 | Angel Mendez |
+| 437 | 60 | S Gale Holton |
+| 438 | 59 | Jennie Lee Huntley |
+| 439 | 59 | Dramatic Tiger |
+| 440 | 59 | Crystal Eubanks |
+| 441 | 59 | Carly |
 | 442 | 59 | Nifty |
-| 443 | 58 | Andrew Lauterborn |
-| 444 | 58 | Jason Whitehair |
+| 443 | 59 | Snazzy Rotater |
+| 444 | 58 | Andrew Lauterborn |
 | 445 | 58 | Jennifer Traywick |
-| 446 | 58 | Trishatta YoungDiva Watkins |
-| 447 | 58 | Zuul Gatekeeper |
-| 448 | 58 | Crystal Parker Bryant |
-| 449 | 58 | Kat Kath |
-| 450 | 58 | Dawgofwar |
-| 451 | 57 | King D |
-| 452 | 57 | Lori Dutton |
-| 453 | 57 | Texastytest |
-| 454 | 57 | Crruth |
-| 455 | 57 | Maxwell Hall |
-| 456 | 56 | Ellieshay |
-| 457 | 56 | Shiny Party |
+| 446 | 58 | Jason Whitehair |
+| 447 | 58 | Trishatta YoungDiva Watkins |
+| 448 | 58 | Zuul Gatekeeper |
+| 449 | 58 | Crystal Parker Bryant |
+| 450 | 58 | Kat Kath |
+| 451 | 58 | Dawgofwar |
+| 452 | 57 | King D |
+| 453 | 57 | Lori Dutton |
+| 454 | 57 | Texastytest |
+| 455 | 57 | Crruth |
+| 456 | 56 | Shiny Party |
+| 457 | 56 | Ellieshay |
 | 458 | 56 | Alana Susan Hanley |
 | 459 | 56 | Ernest Jordan |
 | 460 | 56 | sgt baby |
 | 461 | 56 | Michael Phillips |
 | 462 | 56 | Groovy Cascadefit |
 | 463 | 56 | colt |
-| 464 | 55 | Leche |
-| 465 | 55 | Daniel R Morgan |
+| 464 | 55 | Daniel R Morgan |
+| 465 | 55 | Leche |
 | 466 | 55 | Rachel Ballard |
 | 467 | 55 | Ruby Sandberg |
 | 468 | 55 | Jonnelle Partin |
