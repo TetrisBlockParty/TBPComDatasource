@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 05:32:16 UTC
+# Standings for team2 as of 2026-03-14 05:32:37 UTC
 
 **Total Participants:** 1334
 
@@ -77,9 +77,9 @@
 | 69 | 352 | Jess |
 | 70 | 349 | Naomii Seton |
 | 71 | 339 | Jumpy Breaker |
-| 72 | 333 | Dee Doubleyou |
-| 73 | 329 | SterlingTeri |
-| 74 | 324 | Sara Morgan |
+| 72 | 334 | Sara Morgan |
+| 73 | 333 | Dee Doubleyou |
+| 74 | 329 | SterlingTeri |
 | 75 | 322 | Amanda Young |
 | 76 | 322 | Nicole Cannon |
 | 77 | 318 | Dapper Gridclear |
@@ -207,85 +207,85 @@
 | 199 | 131 | Tee Jaleesa |
 | 200 | 131 | Krish Shah |
 | 201 | 130 | Sandy Aragon |
-| 202 | 129 | Brooke Sunderhaus |
-| 203 | 129 | Peppy Slice |
+| 202 | 129 | Peppy Slice |
+| 203 | 129 | Brooke Sunderhaus |
 | 204 | 128 | Snippy Clearbuilder |
-| 205 | 127 | Jesse Olive |
-| 206 | 127 | Christine Lin |
+| 205 | 127 | Christine Lin |
+| 206 | 127 | Jesse Olive |
 | 207 | 126 | Tiff Vs Tiffany |
 | 208 | 126 | Paul Beeman |
 | 209 | 126 | Amanda Thomas |
-| 210 | 125 | Loony Snapbuild |
-| 211 | 125 | Jasmine Kenney |
+| 210 | 125 | Epic Liner |
+| 211 | 125 | Isabella Blanco |
 | 212 | 125 | April |
-| 213 | 125 | Dreamy Clicky |
-| 214 | 125 | nickle109 |
-| 215 | 125 | Isabella Blanco |
-| 216 | 125 | Epic Liner |
+| 213 | 125 | nickle109 |
+| 214 | 125 | Loony Snapbuild |
+| 215 | 125 | Jasmine Kenney |
+| 216 | 125 | Dreamy Clicky |
 | 217 | 123 | Christina Freeman |
-| 218 | 122 | Tanya Abernathy Jackson |
-| 219 | 120 | Marinara |
-| 220 | 120 | Vanessa Nguyen |
-| 221 | 120 | Tyler Werts |
-| 222 | 120 | Twisty Shatter |
+| 218 | 122 | Michelle Allers |
+| 219 | 122 | Tanya Abernathy Jackson |
+| 220 | 120 | Twisty Shatter |
+| 221 | 120 | Marinara |
+| 222 | 120 | Vanessa Nguyen |
 | 223 | 120 | Tiffany Smith |
-| 224 | 119 | Wishabishwood |
-| 225 | 118 | Elizabeth Mauri |
-| 226 | 118 | Megan Simpson |
-| 227 | 118 | Alexander Zamora |
-| 228 | 117 | Slippery Clam |
-| 229 | 116 | Looloo |
-| 230 | 116 | Krys Brown |
-| 231 | 116 | Ultramarine |
-| 232 | 115 | Jamie Mclean |
-| 233 | 114 | Slinky Linkgrid |
-| 234 | 112 | Tony Tran |
-| 235 | 112 | Michelle Allers |
+| 224 | 120 | Tyler Werts |
+| 225 | 119 | Wishabishwood |
+| 226 | 118 | Elizabeth Mauri |
+| 227 | 118 | Megan Simpson |
+| 228 | 118 | Alexander Zamora |
+| 229 | 117 | Slippery Clam |
+| 230 | 116 | Looloo |
+| 231 | 116 | Krys Brown |
+| 232 | 116 | Ultramarine |
+| 233 | 115 | Jamie Mclean |
+| 234 | 114 | Slinky Linkgrid |
+| 235 | 112 | Tony Tran |
 | 236 | 111 | Jenn Dandle |
 | 237 | 111 | JTH |
 | 238 | 111 | Zany Rotater |
-| 239 | 111 | Sonya Gail Goodman |
-| 240 | 111 | Samantha Bagent |
-| 241 | 111 | Cari Hogan |
+| 239 | 111 | Cari Hogan |
+| 240 | 111 | Sonya Gail Goodman |
+| 241 | 111 | Samantha Bagent |
 | 242 | 110 | Jimmy Xim |
 | 243 | 108 | Charde Parnell |
 | 244 | 108 | Tommy Proctor |
 | 245 | 107 | Daring Rotator |
-| 246 | 107 | Jason Briggs |
-| 247 | 107 | Abimbola Bimbo |
+| 246 | 107 | Abimbola Bimbo |
+| 247 | 107 | Jason Briggs |
 | 248 | 106 | Chill Builder |
 | 249 | 105 | Morgan Anne Witty |
 | 250 | 105 | Marc |
 | 251 | 103 | Mighty Zone |
-| 252 | 103 | Julia Freeman |
-| 253 | 103 | Brittany Backus |
-| 254 | 102 | Bryanna Whitman |
-| 255 | 101 | BluBae |
-| 256 | 100 | Ryan Parson |
-| 257 | 100 | Goofy Linkmatch |
-| 258 | 100 | Shanny Anny |
-| 259 | 100 | Aldo Hernandez |
-| 260 | 100 | Kennedy Sandifer |
-| 261 | 100 | Jeremiah Gensler |
-| 262 | 100 | Ashley Moore |
-| 263 | 100 | Chilly Fallgrid |
+| 252 | 103 | BluBae |
+| 253 | 103 | Julia Freeman |
+| 254 | 103 | Brittany Backus |
+| 255 | 102 | Bryanna Whitman |
+| 256 | 100 | Kennedy Sandifer |
+| 257 | 100 | Chilly Fallgrid |
+| 258 | 100 | Jeremiah Gensler |
+| 259 | 100 | Shanny Anny |
+| 260 | 100 | Aldo Hernandez |
+| 261 | 100 | Ryan Parson |
+| 262 | 100 | Goofy Linkmatch |
+| 263 | 100 | Ashley Moore |
 | 264 | 99 | Libby |
-| 265 | 98 | MrMais89 |
-| 266 | 98 | Gael |
-| 267 | 98 | Tipsy Glidezone |
-| 268 | 97 | CharalaAnn |
-| 269 | 97 | Robert Fenton |
+| 265 | 98 | Tipsy Glidezone |
+| 266 | 98 | MrMais89 |
+| 267 | 98 | Gael |
+| 268 | 97 | Robert Fenton |
+| 269 | 97 | CharalaAnn |
 | 270 | 96 | Tia Simmons |
-| 271 | 95 | Nilla |
-| 272 | 95 | Kimyatta Cavin |
-| 273 | 95 | titrissss |
-| 274 | 94 | LD1 |
-| 275 | 94 | Lesha |
+| 271 | 95 | Kimyatta Cavin |
+| 272 | 95 | Marshall Renee |
+| 273 | 95 | Nilla |
+| 274 | 95 | titrissss |
+| 275 | 94 | LD1 |
 | 276 | 94 | Jean Yap |
-| 277 | 94 | Amy Villalpando |
-| 278 | 93 | Sammy |
-| 279 | 93 | Loony Puzzle |
-| 280 | 92 | Marshall Renee |
+| 277 | 94 | Lesha |
+| 278 | 94 | Amy Villalpando |
+| 279 | 93 | Sammy |
+| 280 | 93 | Loony Puzzle |
 | 281 | 92 | Randy Jansen |
 | 282 | 91 | Christine Soltis |
 | 283 | 91 | Arson Fox |
