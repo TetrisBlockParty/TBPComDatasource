@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 09:48:18 UTC
+# Standings for team1 as of 2026-03-14 09:48:40 UTC
 
 **Total Participants:** 1529
 
@@ -506,95 +506,95 @@
 | 498 | 56 | colt |
 | 499 | 56 | Groovy Cascadefit |
 | 500 | 56 | FireHawk |
-| 501 | 56 | Alana Susan Hanley |
-| 502 | 56 | Michael Phillips |
+| 501 | 56 | Danielle Longoria |
+| 502 | 56 | Alana Susan Hanley |
 | 503 | 56 | Ellieshay |
-| 504 | 56 | Hyper Corner |
-| 505 | 56 | Shiny Party |
+| 504 | 56 | Shiny Party |
+| 505 | 56 | Hyper Corner |
 | 506 | 56 | Rubi |
-| 507 | 56 | Danielle Longoria |
-| 508 | 55 | Betty |
-| 509 | 55 | Ernie Guyette |
-| 510 | 55 | Leche |
-| 511 | 55 | Nicole Williams |
-| 512 | 55 | Cool Base |
-| 513 | 55 | Speedy Rollpiece |
-| 514 | 55 | Tabitha Rose Stone |
-| 515 | 55 | Ruby Sandberg |
-| 516 | 55 | Rainbow brite |
-| 517 | 55 | slim |
-| 518 | 54 | Christi Bouten-Harmon |
-| 519 | 54 | Nate Funk |
-| 520 | 54 | Bumpy Morris |
-| 521 | 54 | Swanky Tiltpiece |
-| 522 | 54 | Dominic G Terriaca |
-| 523 | 54 | Connor Jurzynski |
-| 524 | 54 | Nicole McCune |
-| 525 | 53 | OneBuke FollowMe |
-| 526 | 53 | Josh L Swyers Sr. |
-| 527 | 53 | MWFreddy |
-| 528 | 53 | Jenn Lunsford |
-| 529 | 53 | Zany Tower |
-| 530 | 53 | Sandra Link-Gable |
-| 531 | 53 | Shay J Duval |
-| 532 | 53 | Rose Anna |
-| 533 | 53 | Magic Meli |
-| 534 | 52 | Regina Jones |
+| 507 | 56 | Michael Phillips |
+| 508 | 55 | Leche |
+| 509 | 55 | Cool Base |
+| 510 | 55 | slim |
+| 511 | 55 | Ruby Sandberg |
+| 512 | 55 | Ernie Guyette |
+| 513 | 55 | Betty |
+| 514 | 55 | Matt Coons |
+| 515 | 55 | Nicole Williams |
+| 516 | 55 | Speedy Rollpiece |
+| 517 | 55 | Rainbow brite |
+| 518 | 55 | Tabitha Rose Stone |
+| 519 | 54 | Nicole McCune |
+| 520 | 54 | Swanky Tiltpiece |
+| 521 | 54 | Bumpy Morris |
+| 522 | 54 | Nate Funk |
+| 523 | 54 | Christi Bouten-Harmon |
+| 524 | 54 | Dominic G Terriaca |
+| 525 | 54 | Connor Jurzynski |
+| 526 | 53 | Shay J Duval |
+| 527 | 53 | Magic Meli |
+| 528 | 53 | Sandra Link-Gable |
+| 529 | 53 | Rose Anna |
+| 530 | 53 | Jenn Lunsford |
+| 531 | 53 | Zany Tower |
+| 532 | 53 | OneBuke FollowMe |
+| 533 | 53 | MWFreddy |
+| 534 | 53 | Josh L Swyers Sr. |
 | 535 | 52 | Jimmy Shannon |
 | 536 | 52 | Melody Rene |
-| 537 | 52 | Smiley Clicky |
-| 538 | 52 | Twisty Blockmatch |
-| 539 | 52 | kelso |
-| 540 | 52 | Kelly Miller Williams |
-| 541 | 52 | Frisky Glidebuilder |
-| 542 | 52 | Tiffany Armen |
-| 543 | 52 | Bribrobra |
-| 544 | 52 | Shekita Gibbs |
-| 545 | 51 | Suzan Frazier |
+| 537 | 52 | Tiffany Armen |
+| 538 | 52 | Regina Jones |
+| 539 | 52 | Kelly Miller Williams |
+| 540 | 52 | Frisky Glidebuilder |
+| 541 | 52 | Shekita Gibbs |
+| 542 | 52 | Bribrobra |
+| 543 | 52 | kelso |
+| 544 | 52 | Twisty Blockmatch |
+| 545 | 52 | Smiley Clicky |
 | 546 | 51 | Fancy Wobbler |
-| 547 | 51 | Joyce Harrell-chavis |
-| 548 | 51 | Cheryl Villa |
-| 549 | 51 | Jen |
-| 550 | 51 | Bon Welch |
+| 547 | 51 | Suzan Frazier |
+| 548 | 51 | Bon Welch |
+| 549 | 51 | Joyce Harrell-chavis |
+| 550 | 51 | Cheryl Villa |
 | 551 | 51 | Slinky Stacky |
-| 552 | 50 | Mean Melly |
-| 553 | 50 | Carla Valenzisi |
-| 554 | 50 | Andy Harris |
-| 555 | 50 | Chris Kelly |
-| 556 | 50 | Aponk |
-| 557 | 50 | Dunlap Loretta |
-| 558 | 50 | Swalshy |
-| 559 | 50 | Tammy Watson |
-| 560 | 50 | Snippy Stacky |
-| 561 | 50 | Steven Ray Real |
-| 562 | 50 | Glitzy Linkpiece |
-| 563 | 50 | Crystal Claypool |
-| 564 | 50 | Jazzy Stagger |
-| 565 | 50 | Andrew Coulter |
-| 566 | 50 | Maria Lopez |
-| 567 | 50 | Loopy Edge |
-| 568 | 50 | Dizzy Snapper |
-| 569 | 50 | JonCorry Story |
-| 570 | 50 | CL Meyer |
-| 571 | 49 | Dale |
-| 572 | 49 | Jumpy Winder |
-| 573 | 49 | Shelly Fannon |
-| 574 | 49 | gucci |
+| 552 | 51 | Jen |
+| 553 | 50 | Maria Lopez |
+| 554 | 50 | Carla Valenzisi |
+| 555 | 50 | JonCorry Story |
+| 556 | 50 | Andy Harris |
+| 557 | 50 | Chris Kelly |
+| 558 | 50 | Aponk |
+| 559 | 50 | CL Meyer |
+| 560 | 50 | Tammy Watson |
+| 561 | 50 | Mean Melly |
+| 562 | 50 | Dunlap Loretta |
+| 563 | 50 | Swalshy |
+| 564 | 50 | Snippy Stacky |
+| 565 | 50 | Glitzy Linkpiece |
+| 566 | 50 | Crystal Claypool |
+| 567 | 50 | Dizzy Snapper |
+| 568 | 50 | Jazzy Stagger |
+| 569 | 50 | Steven Ray Real |
+| 570 | 50 | Andrew Coulter |
+| 571 | 50 | Loopy Edge |
+| 572 | 49 | gucci |
+| 573 | 49 | Jumpy Winder |
+| 574 | 49 | Shelly Fannon |
 | 575 | 49 | Nora Smith |
 | 576 | 49 | Lorie Atwood |
-| 577 | 49 | Hi |
-| 578 | 49 | Tabitha Cornelious |
-| 579 | 49 | CoolHand |
+| 577 | 49 | Tabitha Cornelious |
+| 578 | 49 | Dale |
+| 579 | 49 | Hi |
 | 580 | 49 | Paul Stafford |
-| 581 | 49 | Chin lock |
-| 582 | 49 | Aaron Arenivaz |
-| 583 | 49 | Sue Foreman |
+| 581 | 49 | CoolHand |
+| 582 | 49 | Chin lock |
+| 583 | 49 | Aaron Arenivaz |
 | 584 | 49 | Danessa Pettite |
-| 585 | 49 | Hyper Drop |
-| 586 | 49 | Slatt Aint Going |
-| 587 | 48 | Bouncy Linefit |
-| 588 | 48 | minnie |
-| 589 | 48 | Matt Coons |
+| 585 | 49 | Sue Foreman |
+| 586 | 49 | Hyper Drop |
+| 587 | 49 | Slatt Aint Going |
+| 588 | 48 | Bouncy Linefit |
+| 589 | 48 | minnie |
 | 590 | 48 | Snazzy Tilemaker |
 | 591 | 48 | Meagan Canipe |
 | 592 | 48 | Katelyn B. Pritchard |
