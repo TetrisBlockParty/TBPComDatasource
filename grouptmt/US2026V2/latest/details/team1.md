@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 07:35:17 UTC
+# Standings for team1 as of 2026-03-14 07:36:17 UTC
 
 **Total Participants:** 1482
 
@@ -22,7 +22,7 @@
 | 14 | 2301 | Amy Jerman |
 | 15 | 2250 | Amanda Sheppard |
 | 16 | 2182 | Brad Oneill |
-| 17 | 2096 | Krystal McPherson |
+| 17 | 2147 | Krystal McPherson |
 | 18 | 2077 | Itz Kevo |
 | 19 | 1781 | Megan Klinkner |
 | 20 | 1659 | Diane |
@@ -125,9 +125,9 @@
 | 117 | 229 | Randall Sykes |
 | 118 | 228 | Legendary |
 | 119 | 224 | Peachy Brick |
-| 120 | 220 | Darci Cline |
-| 121 | 220 | Cassandra Latimore |
-| 122 | 220 | Liliana Pena |
+| 120 | 220 | Cassandra Latimore |
+| 121 | 220 | Liliana Pena |
+| 122 | 220 | Darci Cline |
 | 123 | 220 | Jevon Griffith |
 | 124 | 217 | Beka |
 | 125 | 211 | lefty |
@@ -149,85 +149,85 @@
 | 141 | 188 | Rennon Scott Wilson |
 | 142 | 188 | Breezy Ivy |
 | 143 | 179 | Brandon Zachary Anderson |
-| 144 | 177 | Lively Rollfit |
-| 145 | 177 | Gdiguy |
-| 146 | 177 | Sabra Fisher |
-| 147 | 177 | Qoo |
+| 144 | 177 | Gdiguy |
+| 145 | 177 | Sabra Fisher |
+| 146 | 177 | Qoo |
+| 147 | 177 | Lively Rollfit |
 | 148 | 176 | Sarah Stanonik |
 | 149 | 175 | DeeBee |
 | 150 | 175 | shelly |
 | 151 | 174 | Panda Rog |
 | 152 | 172 | Peppy Matchclear |
-| 153 | 170 | Shawna Days |
-| 154 | 169 | Tameka Brown |
-| 155 | 168 | Lynn Perkins |
+| 153 | 171 | Kris Koepke |
+| 154 | 170 | Shawna Days |
+| 155 | 169 | Tameka Brown |
 | 156 | 168 | LeeAnn Martindale |
-| 157 | 166 | Stefanie Champion |
-| 158 | 163 | Amber Zeller Rice |
-| 159 | 163 | Ryan N. Mason |
-| 160 | 161 | DreamyMoon |
-| 161 | 160 | Caitlin Zakrzewski |
+| 157 | 168 | Lynn Perkins |
+| 158 | 166 | Stefanie Champion |
+| 159 | 163 | Amber Zeller Rice |
+| 160 | 163 | Ryan N. Mason |
+| 161 | 161 | DreamyMoon |
 | 162 | 160 | Groovy Glidepiece |
-| 163 | 158 | Ecami |
-| 164 | 156 | Rat666 |
-| 165 | 154 | Silly Ziggy |
-| 166 | 153 | Tyle Armstead |
-| 167 | 153 | Jason Hawk |
-| 168 | 153 | Happy Shatterfit |
-| 169 | 151 | Hasty Lift |
-| 170 | 151 | Beth Anderson |
-| 171 | 150 | Desiree Jenson |
-| 172 | 150 | raffyG |
-| 173 | 150 | Jena Overall Prescott |
-| 174 | 147 | Al Smith Jr |
-| 175 | 147 | Kris Koepke |
+| 163 | 160 | Caitlin Zakrzewski |
+| 164 | 158 | Ecami |
+| 165 | 156 | Rat666 |
+| 166 | 154 | Silly Ziggy |
+| 167 | 153 | Tyle Armstead |
+| 168 | 153 | Jason Hawk |
+| 169 | 153 | Happy Shatterfit |
+| 170 | 151 | Hasty Lift |
+| 171 | 151 | Beth Anderson |
+| 172 | 150 | Jena Overall Prescott |
+| 173 | 150 | Desiree Jenson |
+| 174 | 150 | raffyG |
+| 175 | 147 | Al Smith Jr |
 | 176 | 146 | Simmone T. Kadiri |
 | 177 | 146 | Matthew Bunn |
 | 178 | 145 | Ancient Intuition |
 | 179 | 144 | Hhholmesjr |
-| 180 | 143 | Quirky Catcher |
-| 181 | 143 | Alexis Garcia |
-| 182 | 141 | Chris |
-| 183 | 141 | TotoCherue |
-| 184 | 140 | Bubba |
-| 185 | 140 | Mighty Patternbuilder |
-| 186 | 140 | Allena Craft |
-| 187 | 140 | Tee Tee Greene |
-| 188 | 138 | David Rojas |
-| 189 | 138 | Cynthia Petz |
+| 180 | 143 | Alexis Garcia |
+| 181 | 143 | Quirky Catcher |
+| 182 | 141 | TotoCherue |
+| 183 | 141 | Chris |
+| 184 | 140 | Allena Craft |
+| 185 | 140 | Tee Tee Greene |
+| 186 | 140 | Bubba |
+| 187 | 140 | Mighty Patternbuilder |
+| 188 | 138 | Cynthia Petz |
+| 189 | 138 | David Rojas |
 | 190 | 136 | Porshe Garthwaite |
-| 191 | 134 | Lively Patternfall |
+| 191 | 134 | Armoni |
 | 192 | 134 | Albert Josef Toves Means Jr. |
-| 193 | 134 | Armoni |
-| 194 | 132 | Trina Gee |
+| 193 | 134 | Lively Patternfall |
+| 194 | 132 | Eric Hoffman |
 | 195 | 132 | Jennifer Lynn |
-| 196 | 132 | Eric Hoffman |
-| 197 | 130 | Philippines |
-| 198 | 130 | Florna Primrose |
+| 196 | 132 | Trina Gee |
+| 197 | 130 | Florna Primrose |
+| 198 | 130 | Philippines |
 | 199 | 128 | Marie Helman |
 | 200 | 127 | Pheezy |
 | 201 | 126 | Scott Disedare |
-| 202 | 126 | Marianne Lopez |
-| 203 | 126 | Muhammad |
+| 202 | 126 | Muhammad |
+| 203 | 126 | Marianne Lopez |
 | 204 | 124 | Amanda Pauldo-Ivy |
 | 205 | 123 | Natasha King |
-| 206 | 123 | Tanya Carpenter-Reynolds |
-| 207 | 123 | Jason Rogers |
+| 206 | 123 | Jason Rogers |
+| 207 | 123 | Tanya Carpenter-Reynolds |
 | 208 | 122 | Lisa Marie Sansom |
 | 209 | 120 | StankyP |
 | 210 | 120 | Fatima Washington |
 | 211 | 118 | Crystal Rosen |
-| 212 | 117 | Laura Morrison |
+| 212 | 117 | Danielle Kollias |
 | 213 | 117 | Dī Kuykendall |
-| 214 | 117 | Danielle Kollias |
-| 215 | 117 | QueenBee |
+| 214 | 117 | QueenBee |
+| 215 | 117 | Laura Morrison |
 | 216 | 116 | Jaay |
 | 217 | 115 | SLAPNUTZ |
 | 218 | 115 | Giddy Brickclear |
-| 219 | 114 | Karmyst |
+| 219 | 114 | Bennett Hunter |
 | 220 | 114 | Gina Annese |
 | 221 | 114 | Krystal Mccoy |
-| 222 | 114 | Bennett Hunter |
+| 222 | 114 | Karmyst |
 | 223 | 113 | Jaame Courtney |
 | 224 | 113 | David Larter |
 | 225 | 111 | Tausha Mathews |
@@ -235,24 +235,24 @@
 | 227 | 109 | Jess Dearborn |
 | 228 | 109 | Adam McMakin |
 | 229 | 108 | Holly Hinkle |
-| 230 | 107 | Jennifer Campbell |
+| 230 | 107 | Althea Louise |
 | 231 | 107 | Mufi25 |
-| 232 | 107 | Althea Louise |
-| 233 | 106 | Bearman |
-| 234 | 106 | Charles Herbert |
+| 232 | 107 | Jennifer Campbell |
+| 233 | 106 | Charles Herbert |
+| 234 | 106 | Bearman |
 | 235 | 105 | Hoppy Buildgrid |
-| 236 | 105 | Ophelia Rae |
-| 237 | 105 | Jennifer Negrete |
-| 238 | 105 | Jason Cunningham |
-| 239 | 105 | Elizabeth Hughes |
+| 236 | 105 | Jennifer Negrete |
+| 237 | 105 | Jason Cunningham |
+| 238 | 105 | Elizabeth Hughes |
+| 239 | 105 | Ophelia Rae |
 | 240 | 104 | Lemonberry |
-| 241 | 102 | Terrance Williams |
+| 241 | 102 | Cynthia Mann |
 | 242 | 102 | Rob Chebetar |
-| 243 | 102 | Cynthia Mann |
-| 244 | 101 | Margo Fenton |
+| 243 | 102 | Terrance Williams |
+| 244 | 101 | Amanda Diegel |
 | 245 | 101 | Macy Williams |
-| 246 | 101 | Amanda Diegel |
-| 247 | 101 | Bold Clear |
+| 246 | 101 | Bold Clear |
+| 247 | 101 | Margo Fenton |
 | 248 | 100 | Amh |
 | 249 | 100 | Fancy Towerfall |
 | 250 | 100 | Brandy Ridgeway |
