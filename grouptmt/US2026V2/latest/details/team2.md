@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 04:00:16 UTC
+# Standings for team2 as of 2026-03-14 04:00:36 UTC
 
 **Total Participants:** 1246
 
@@ -1184,17 +1184,17 @@
 | 1176 | 7 | Slinky Tile |
 | 1177 | 7 | ytho |
 | 1178 | 7 | CocoKatt |
-| 1179 | 7 | Liz Scott |
-| 1180 | 6 | Christa Ybarra |
-| 1181 | 6 | Loopy Lee |
-| 1182 | 6 | Tiffany Hood |
-| 1183 | 6 | AarshiyasMommy |
-| 1184 | 6 | Swanky Builderpiece |
-| 1185 | 6 | Giggy Pop |
-| 1186 | 6 | Lynda Griffieth |
-| 1187 | 6 | Ninamaye Newcomb |
-| 1188 | 6 | Bubbly Crusher |
-| 1189 | 6 | Stabitha Christie |
+| 1179 | 7 | Stabitha Christie |
+| 1180 | 7 | Liz Scott |
+| 1181 | 6 | Christa Ybarra |
+| 1182 | 6 | Loopy Lee |
+| 1183 | 6 | Tiffany Hood |
+| 1184 | 6 | AarshiyasMommy |
+| 1185 | 6 | Swanky Builderpiece |
+| 1186 | 6 | Giggy Pop |
+| 1187 | 6 | Lynda Griffieth |
+| 1188 | 6 | Ninamaye Newcomb |
+| 1189 | 6 | Bubbly Crusher |
 | 1190 | 6 | Andre Simpson |
 | 1191 | 6 | MiriVigo |
 | 1192 | 6 | Sarah Count-it All-Joy |
