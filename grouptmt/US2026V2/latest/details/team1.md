@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 15:54:19 UTC
+# Standings for team1 as of 2026-03-14 15:54:38 UTC
 
 **Total Participants:** 1719
 
@@ -270,36 +270,36 @@
 | 262 | 137 | Angelina Maldonado |
 | 263 | 135 | Bingo Wingo |
 | 264 | 135 | Lemonberry |
-| 265 | 135 | Rebekah LeiAnn Bonsell |
-| 266 | 135 | BrownNinj |
-| 267 | 135 | Jaay |
+| 265 | 135 | BrownNinj |
+| 266 | 135 | Jaay |
+| 267 | 135 | Rebekah LeiAnn Bonsell |
 | 268 | 134 | James Burda |
 | 269 | 133 | Pheezy |
-| 270 | 132 | Jennifer Lynn |
-| 271 | 132 | Trina Gee |
+| 270 | 132 | Trina Gee |
+| 271 | 132 | Jennifer Lynn |
 | 272 | 131 | Mufi25 |
-| 273 | 130 | Florna Primrose |
-| 274 | 130 | Britters |
-| 275 | 130 | Marianne Lopez |
-| 276 | 130 | Philippines |
+| 273 | 130 | Marianne Lopez |
+| 274 | 130 | Florna Primrose |
+| 275 | 130 | Philippines |
+| 276 | 130 | Britters |
 | 277 | 130 | Natasha King |
 | 278 | 129 | Amanda Pauldo-Ivy |
 | 279 | 129 | Gina Annese |
 | 280 | 128 | Jonnelle Partin |
-| 281 | 127 | Charles Herbert |
-| 282 | 127 | Peachy Curvetile |
-| 283 | 127 | Kimmy White |
-| 284 | 127 | Trisha Gallagher |
-| 285 | 126 | Kellia S Johnson |
+| 281 | 127 | Peachy Curvetile |
+| 282 | 127 | Trisha Gallagher |
+| 283 | 127 | Charles Herbert |
+| 284 | 127 | Kimmy White |
+| 285 | 126 | Kathy Karjala |
 | 286 | 126 | Matt Aguilar |
 | 287 | 126 | Scott Disedare |
-| 288 | 126 | Kathy Karjala |
+| 288 | 126 | Kellia S Johnson |
 | 289 | 126 | Jason Cunningham |
 | 290 | 125 | April McGuffie |
 | 291 | 125 | Bribrobra |
-| 292 | 124 | Adam McMakin |
-| 293 | 124 | David Larter |
-| 294 | 124 | Laura Morrison |
+| 292 | 124 | David Larter |
+| 293 | 124 | Laura Morrison |
+| 294 | 124 | Adam McMakin |
 | 295 | 123 | Tanya Carpenter-Reynolds |
 | 296 | 123 | Jonathan Gaffaney |
 | 297 | 123 | Boldy Clicky |
@@ -307,52 +307,52 @@
 | 299 | 122 | Pig02 |
 | 300 | 121 | Sassy Cascadepiece |
 | 301 | 121 | Shukee Lo |
-| 302 | 120 | StankyP |
-| 303 | 120 | Mary Cerciello |
-| 304 | 120 | Ann Brock LaPorte |
-| 305 | 120 | Dee |
-| 306 | 120 | Karmyst |
-| 307 | 120 | Maxwell Hall |
-| 308 | 120 | Candace Esposito |
-| 309 | 120 | Kay Alifi |
-| 310 | 119 | Julie A Hutchinson |
-| 311 | 119 | Ellie Bein |
+| 302 | 120 | Kay Alifi |
+| 303 | 120 | Maxwell Hall |
+| 304 | 120 | Karmyst |
+| 305 | 120 | Candace Esposito |
+| 306 | 120 | StankyP |
+| 307 | 120 | Dee |
+| 308 | 120 | Ann Brock LaPorte |
+| 309 | 120 | Mary Cerciello |
+| 310 | 119 | Ellie Bein |
+| 311 | 119 | Julie A Hutchinson |
 | 312 | 119 | Jennifer Negrete |
-| 313 | 118 | Crystal Rosen |
-| 314 | 117 | Danielle Kollias |
-| 315 | 117 | Dī Kuykendall |
-| 316 | 116 | Jessica Shubert |
-| 317 | 116 | Erica Catherine |
-| 318 | 116 | Althea Louise |
-| 319 | 115 | SLAPNUTZ |
+| 313 | 118 | Fluffy |
+| 314 | 118 | Crystal Rosen |
+| 315 | 117 | Danielle Kollias |
+| 316 | 117 | Dī Kuykendall |
+| 317 | 116 | Althea Louise |
+| 318 | 116 | Erica Catherine |
+| 319 | 116 | Jessica Shubert |
 | 320 | 115 | Amanda Diegel |
-| 321 | 115 | Julie Miller |
-| 322 | 115 | Giddy Brickclear |
-| 323 | 114 | Quirky Dashy |
-| 324 | 114 | Bennett Hunter |
-| 325 | 114 | Krystal Mccoy |
-| 326 | 114 | bea |
-| 327 | 113 | Jaame Courtney |
-| 328 | 113 | Porkobello |
+| 321 | 115 | Giddy Brickclear |
+| 322 | 115 | Julie Miller |
+| 323 | 115 | SLAPNUTZ |
+| 324 | 114 | Krystal Mccoy |
+| 325 | 114 | bea |
+| 326 | 114 | Bennett Hunter |
+| 327 | 114 | Quirky Dashy |
+| 328 | 113 | Tawny Mo |
 | 329 | 113 | Teresa Wolf |
-| 330 | 113 | Tawny Mo |
-| 331 | 111 | Walter Beltran |
+| 330 | 113 | Porkobello |
+| 331 | 113 | Jaame Courtney |
 | 332 | 111 | Tausha Mathews |
-| 333 | 110 | Vergie Michael |
-| 334 | 110 | Jodi Fichter |
-| 335 | 109 | Dani Giles |
+| 333 | 111 | Walter Beltran |
+| 334 | 110 | Vergie Michael |
+| 335 | 110 | Jodi Fichter |
 | 336 | 109 | Jess Dearborn |
-| 337 | 108 | Jason Wreggitt |
-| 338 | 108 | Rocky |
-| 339 | 108 | Holly Hinkle |
-| 340 | 106 | Boldy Clear |
-| 341 | 106 | Bearman |
-| 342 | 105 | Hoppy Buildgrid |
-| 343 | 105 | Ashley Kostek |
-| 344 | 104 | Natalia RX Beyer |
-| 345 | 104 | DoodleBug |
+| 337 | 109 | Dani Giles |
+| 338 | 108 | Jason Wreggitt |
+| 339 | 108 | Rocky |
+| 340 | 108 | Holly Hinkle |
+| 341 | 106 | Boldy Clear |
+| 342 | 106 | Bearman |
+| 343 | 105 | Hoppy Buildgrid |
+| 344 | 105 | Ashley Kostek |
+| 345 | 104 | Natalia RX Beyer |
 | 346 | 104 | Dish19 |
-| 347 | 104 | Fluffy |
+| 347 | 104 | DoodleBug |
 | 348 | 103 | David Lowe |
 | 349 | 103 | Twisty Blockmatch |
 | 350 | 103 | Margaret Rose |
@@ -1306,40 +1306,40 @@
 | 1298 | 19 | Amy Niemeier |
 | 1299 | 19 | Emily Adelaide Wheatley |
 | 1300 | 19 | Jenny Weidman Perrotta |
-| 1301 | 19 | Sharon Panoski |
+| 1301 | 19 | Princess |
 | 1302 | 19 | cool kat |
 | 1303 | 19 | Gavin Carr |
 | 1304 | 19 | Lavana Erpelding |
 | 1305 | 19 | Tazz |
 | 1306 | 19 | Heather Skillern |
 | 1307 | 19 | Amber Lingerfelt |
-| 1308 | 19 | Chris JonesSr |
-| 1309 | 19 | TheKBr0 |
-| 1310 | 19 | atomictrin |
+| 1308 | 19 | atomictrin |
+| 1309 | 19 | Chris JonesSr |
+| 1310 | 19 | TheKBr0 |
 | 1311 | 19 | Maryna Mykolaivna |
-| 1312 | 18 | Tania Flores |
-| 1313 | 18 | Liz M Durfee |
-| 1314 | 18 | Dc |
-| 1315 | 18 | Amber Jackson |
-| 1316 | 18 | John Cruz |
-| 1317 | 18 | Jack Mattiace |
-| 1318 | 18 | Ras David |
+| 1312 | 19 | Sharon Panoski |
+| 1313 | 18 | Tania Flores |
+| 1314 | 18 | John Cruz |
+| 1315 | 18 | Liz M Durfee |
+| 1316 | 18 | Dc |
+| 1317 | 18 | Amber Jackson |
+| 1318 | 18 | Jack Mattiace |
 | 1319 | 18 | Eric Wren |
-| 1320 | 18 | Keegan King-steele |
-| 1321 | 18 | YaKima Frisby Walker |
-| 1322 | 18 | om |
-| 1323 | 18 | Ben Barkley |
-| 1324 | 18 | Tipsy Shuffler |
-| 1325 | 18 | Giddy Tilefall |
-| 1326 | 18 | Frisky Glidepiece |
-| 1327 | 18 | Gregg Scott |
-| 1328 | 18 | Cucumber Melondrops |
-| 1329 | 18 | Strawberry73 |
-| 1330 | 18 | Cool Dasher |
-| 1331 | 18 | Glenda Inthimat |
-| 1332 | 18 | Flashy Dasher |
-| 1333 | 18 | Timothy Long |
-| 1334 | 18 | Princess |
+| 1320 | 18 | Ras David |
+| 1321 | 18 | Keegan King-steele |
+| 1322 | 18 | YaKima Frisby Walker |
+| 1323 | 18 | om |
+| 1324 | 18 | Ben Barkley |
+| 1325 | 18 | Tipsy Shuffler |
+| 1326 | 18 | Giddy Tilefall |
+| 1327 | 18 | Frisky Glidepiece |
+| 1328 | 18 | Gregg Scott |
+| 1329 | 18 | Cucumber Melondrops |
+| 1330 | 18 | Strawberry73 |
+| 1331 | 18 | Cool Dasher |
+| 1332 | 18 | Glenda Inthimat |
+| 1333 | 18 | Flashy Dasher |
+| 1334 | 18 | Timothy Long |
 | 1335 | 17 | Santana Valeri |
 | 1336 | 17 | Kjnals Wall |
 | 1337 | 17 | Corentin W. Comeaux |
