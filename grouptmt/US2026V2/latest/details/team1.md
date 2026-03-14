@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 08:27:16 UTC
+# Standings for team1 as of 2026-03-14 08:28:16 UTC
 
 **Total Participants:** 1499
 
@@ -1467,7 +1467,7 @@
 | 1459 | 6 | ajx |
 | 1460 | 5 | Jolly Piecebuilder |
 | 1461 | 5 | Rolly956 |
-| 1462 | 5 | Scallywag |
+| 1462 | 5 | Sarajo Clauson |
 | 1463 | 5 | Breezy Party |
 | 1464 | 5 | Jennifer Brown |
 | 1465 | 5 | Jessi Godsey |
@@ -1490,8 +1490,8 @@
 | 1482 | 5 | Giggy Tetrisline |
 | 1483 | 5 | Taquilla Branch |
 | 1484 | 5 | 420 but ion smoke |
-| 1485 | 5 | Sarajo Clauson |
-| 1486 | 5 | Chilly Pop |
+| 1485 | 5 | Chilly Pop |
+| 1486 | 5 | Scallywag |
 | 1487 | 5 | Derrick See |
 | 1488 | 5 | Ronda Helton Prater |
 | 1489 | 5 | David Amaro |
