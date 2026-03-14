@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 06:10:16 UTC
+# Standings for team1 as of 2026-03-14 06:10:39 UTC
 
 **Total Participants:** 1432
 
@@ -746,79 +746,79 @@
 | 738 | 31 | Kora Catherine |
 | 739 | 31 | Jamie Jury |
 | 740 | 31 | Dunlap Loretta |
-| 741 | 30 | Jessica Franz |
-| 742 | 30 | Michelle Pike |
-| 743 | 30 | Mikitta Calvin |
-| 744 | 30 | Melinda Perry Frazier |
-| 745 | 30 | tiffany |
-| 746 | 30 | Terry Dill |
-| 747 | 30 | Duc Donger |
-| 748 | 30 | PennyCandee |
-| 749 | 30 | Richard Cranium |
-| 750 | 30 | Quaheem Brown-Riley |
-| 751 | 30 | Snippy Stacky |
-| 752 | 30 | Slinky Setter |
-| 753 | 30 | Armin Muhamed |
-| 754 | 30 | Jerome Gunst |
-| 755 | 30 | 030Synner |
-| 756 | 30 | Jodie Peterson |
-| 757 | 30 | Amanda Falta |
+| 741 | 30 | Mikitta Calvin |
+| 742 | 30 | 030Synner |
+| 743 | 30 | Jerome Gunst |
+| 744 | 30 | Armin Muhamed |
+| 745 | 30 | Quaheem Brown-Riley |
+| 746 | 30 | PennyCandee |
+| 747 | 30 | Terry Dill |
+| 748 | 30 | Richard Cranium |
+| 749 | 30 | tiffany |
+| 750 | 30 | Nicole McCune |
+| 751 | 30 | Michelle Pike |
+| 752 | 30 | Duc Donger |
+| 753 | 30 | Snippy Stacky |
+| 754 | 30 | Melinda Perry Frazier |
+| 755 | 30 | Slinky Setter |
+| 756 | 30 | Jessica Franz |
+| 757 | 30 | Greenie |
 | 758 | 30 | Amanda Gallegos |
-| 759 | 30 | JV Yu |
-| 760 | 30 | Smelly |
+| 759 | 30 | Kimberly Goncalves |
+| 760 | 30 | C Wing Chu |
 | 761 | 30 | Melissa Madison |
-| 762 | 30 | C Wing Chu |
-| 763 | 30 | Greenie |
-| 764 | 30 | BDubb |
-| 765 | 30 | sam |
-| 766 | 30 | Nerdy Shatterline |
-| 767 | 30 | Kimberly Goncalves |
+| 762 | 30 | Amanda Falta |
+| 763 | 30 | BDubb |
+| 764 | 30 | sam |
+| 765 | 30 | Nerdy Shatterline |
+| 766 | 30 | Smelly |
+| 767 | 30 | JV Yu |
 | 768 | 30 | Marke McFarlane |
-| 769 | 29 | SitHazy |
-| 770 | 29 | Jennifer Grubbs |
-| 771 | 29 | Jordan Ward |
+| 769 | 30 | Jodie Peterson |
+| 770 | 29 | Larry McRae |
+| 771 | 29 | Fred Dodson |
 | 772 | 29 | Stephen Glaze |
-| 773 | 29 | Fred Dodson |
-| 774 | 29 | Candy Jones |
-| 775 | 29 | Dace Zoltners |
-| 776 | 29 | bounce back |
-| 777 | 29 | Brad Eastman |
-| 778 | 29 | Snazzy Tilemaker |
-| 779 | 29 | Jeff Hooper |
-| 780 | 29 | Yolanda Odgers |
-| 781 | 29 | Larry McRae |
-| 782 | 28 | Witty Snapmatch |
-| 783 | 28 | Alex Hernandez |
-| 784 | 28 | Michael Espinosa Ulibarri Jr. |
+| 773 | 29 | Jennifer Grubbs |
+| 774 | 29 | Yolanda Odgers |
+| 775 | 29 | Jordan Ward |
+| 776 | 29 | Jeff Hooper |
+| 777 | 29 | Snazzy Tilemaker |
+| 778 | 29 | Candy Jones |
+| 779 | 29 | Dace Zoltners |
+| 780 | 29 | Brad Eastman |
+| 781 | 29 | SitHazy |
+| 782 | 29 | bounce back |
+| 783 | 28 | Witty Snapmatch |
+| 784 | 28 | Alex Hernandez |
 | 785 | 28 | Jpapi |
-| 786 | 28 | b430 |
-| 787 | 28 | Kelli Marie |
-| 788 | 28 | Timothy Lott |
-| 789 | 28 | Chris Morgan |
-| 790 | 28 | Zany Patternfit |
-| 791 | 28 | John DeMoss |
-| 792 | 28 | Lynn Adams |
-| 793 | 28 | Giddy Swiper |
-| 794 | 28 | Sandra Link-Gable |
-| 795 | 27 | Tiffani J West |
+| 786 | 28 | Michael Espinosa Ulibarri Jr. |
+| 787 | 28 | Zany Patternfit |
+| 788 | 28 | Kelli Marie |
+| 789 | 28 | Timothy Lott |
+| 790 | 28 | Chris Morgan |
+| 791 | 28 | b430 |
+| 792 | 28 | John DeMoss |
+| 793 | 28 | Lynn Adams |
+| 794 | 28 | Giddy Swiper |
+| 795 | 28 | Sandra Link-Gable |
 | 796 | 27 | Ella Brown |
 | 797 | 27 | Bean |
-| 798 | 27 | Countryboy Will Survive |
-| 799 | 27 | ldm |
+| 798 | 27 | Tiffani J West |
+| 799 | 27 | Countryboy Will Survive |
 | 800 | 27 | Lasey Rands |
-| 801 | 27 | Larry Bruce Williamson II |
-| 802 | 27 | Chris Alexinas |
-| 803 | 27 | crunchy panda |
-| 804 | 27 | NolaGal |
-| 805 | 27 | Katie Martin |
-| 806 | 27 | Dawn Fike |
-| 807 | 27 | Samo |
-| 808 | 27 | Nicole McCune |
+| 801 | 27 | ldm |
+| 802 | 27 | Larry Bruce Williamson II |
+| 803 | 27 | Chris Alexinas |
+| 804 | 27 | crunchy panda |
+| 805 | 27 | NolaGal |
+| 806 | 27 | Katie Martin |
+| 807 | 27 | Dawn Fike |
+| 808 | 27 | Samo |
 | 809 | 27 | Franky |
 | 810 | 26 | Crystal Jaggars |
-| 811 | 26 | April Mancuosso |
-| 812 | 26 | Meli |
-| 813 | 26 | Noah Lalonde |
+| 811 | 26 | Meli |
+| 812 | 26 | Noah Lalonde |
+| 813 | 26 | April Mancuosso |
 | 814 | 26 | Jason Dickess |
 | 815 | 26 | Plucky Dashgrid |
 | 816 | 26 | La'Shonda N Williams |
