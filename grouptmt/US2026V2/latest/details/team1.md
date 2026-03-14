@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 15:28:19 UTC
+# Standings for team1 as of 2026-03-14 15:28:41 UTC
 
 **Total Participants:** 1706
 
@@ -137,8 +137,8 @@
 | 129 | 329 | jenna |
 | 130 | 325 | Tyle Armstead |
 | 131 | 323 | Jess Rose |
-| 132 | 312 | beep |
-| 133 | 303 | Letson Melissa |
+| 132 | 319 | Letson Melissa |
+| 133 | 312 | beep |
 | 134 | 302 | Justin Feingold |
 | 135 | 300 | Diamond Madison |
 | 136 | 287 | Bryan Temple |
