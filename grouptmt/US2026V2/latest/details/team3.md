@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-14 09:30:16 UTC
+# Standings for team3 as of 2026-03-14 09:30:36 UTC
 
 **Total Participants:** 2289
 
@@ -1777,53 +1777,53 @@
 | 1769 | 15 | Tyesha Carter |
 | 1770 | 15 | 23 |
 | 1771 | 15 | Freda |
-| 1772 | 15 | Chill Blockmatch |
-| 1773 | 15 | Brittany Jorgensen |
-| 1774 | 15 | Giddy Fitline |
-| 1775 | 15 | Sean LW |
-| 1776 | 15 | Tiziana Pedone |
-| 1777 | 15 | Beth Hyde |
-| 1778 | 15 | Mikie03 |
-| 1779 | 15 | Crystal Byram |
-| 1780 | 15 | Robin Johnson |
-| 1781 | 15 | Julie Johnson |
-| 1782 | 15 | Linda Jens |
-| 1783 | 15 | Jalissa Monique |
-| 1784 | 15 | Bonnie Freelove |
-| 1785 | 15 | Que SnakeEyes |
-| 1786 | 15 | Kennibear |
-| 1787 | 15 | Carla Gleaves |
-| 1788 | 15 | Giggly Bridger |
-| 1789 | 15 | Jay R Stacey |
+| 1772 | 15 | Robin Johnson |
+| 1773 | 15 | Carla Gleaves |
+| 1774 | 15 | Kyle Kasey Null |
+| 1775 | 15 | Kennibear |
+| 1776 | 15 | Que SnakeEyes |
+| 1777 | 15 | Bonnie Freelove |
+| 1778 | 15 | Jalissa Monique |
+| 1779 | 15 | Linda Jens |
+| 1780 | 15 | Julie Johnson |
+| 1781 | 15 | Chill Blockmatch |
+| 1782 | 15 | Crystal Byram |
+| 1783 | 15 | Mikie03 |
+| 1784 | 15 | Beth Hyde |
+| 1785 | 15 | Tiziana Pedone |
+| 1786 | 15 | Sean LW |
+| 1787 | 15 | Giddy Fitline |
+| 1788 | 15 | Brittany Jorgensen |
+| 1789 | 15 | Natasha Quesenberry |
 | 1790 | 15 | Randy Fogle |
-| 1791 | 15 | Chevie Thomas |
-| 1792 | 15 | Nutty Fallgrid |
-| 1793 | 15 | Evelyn Ortega |
-| 1794 | 15 | Natasha Quesenberry |
-| 1795 | 15 | Nicole Nelson Pisterzi |
+| 1791 | 15 | Jay R Stacey |
+| 1792 | 15 | Chevie Thomas |
+| 1793 | 15 | Nutty Fallgrid |
+| 1794 | 15 | Evelyn Ortega |
+| 1795 | 15 | Giggly Bridger |
 | 1796 | 15 | Cheryl Kirk |
-| 1797 | 15 | Kelz Ryan |
-| 1798 | 15 | Lilith Alexein |
-| 1799 | 14 | Amanda Janke Montgomery |
-| 1800 | 14 | Judy Borchardt Long |
-| 1801 | 14 | Amber Gray |
-| 1802 | 14 | Lauren Conners |
-| 1803 | 14 | Lorrie Lane Cummings |
-| 1804 | 14 | GumboJoe |
-| 1805 | 14 | Haley |
-| 1806 | 14 | Crystol |
+| 1797 | 15 | Nicole Nelson Pisterzi |
+| 1798 | 15 | Kelz Ryan |
+| 1799 | 15 | Lilith Alexein |
+| 1800 | 14 | GumboJoe |
+| 1801 | 14 | Katie Ro-Oh |
+| 1802 | 14 | Amanda Janke Montgomery |
+| 1803 | 14 | Judy Borchardt Long |
+| 1804 | 14 | Crystol |
+| 1805 | 14 | Lauren Conners |
+| 1806 | 14 | Lorrie Lane Cummings |
 | 1807 | 14 | Fritz |
-| 1808 | 14 | Euniquely Ken |
-| 1809 | 14 | Katie Ro-Oh |
-| 1810 | 14 | Samantha Kohls |
-| 1811 | 14 | Mrsgusta |
-| 1812 | 14 | Sharon Swain |
-| 1813 | 14 | Odysseus |
-| 1814 | 14 | Kyle Kasey Null |
-| 1815 | 14 | mrstlh |
-| 1816 | 14 | Kim Smith |
-| 1817 | 14 | Michelle Hessler |
-| 1818 | 14 | Sarah Rene Fauller |
+| 1808 | 14 | Amber Gray |
+| 1809 | 14 | Haley |
+| 1810 | 14 | Euniquely Ken |
+| 1811 | 14 | Sarah Rene Fauller |
+| 1812 | 14 | Samantha Kohls |
+| 1813 | 14 | Mrsgusta |
+| 1814 | 14 | Sharon Swain |
+| 1815 | 14 | Odysseus |
+| 1816 | 14 | mrstlh |
+| 1817 | 14 | Kim Smith |
+| 1818 | 14 | Michelle Hessler |
 | 1819 | 14 | Alice |
 | 1820 | 14 | Crystal Huber |
 | 1821 | 14 | Big WORM |

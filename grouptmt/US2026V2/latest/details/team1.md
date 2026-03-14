@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 09:30:16 UTC
+# Standings for team1 as of 2026-03-14 09:30:36 UTC
 
 **Total Participants:** 1523
 
@@ -107,13 +107,13 @@
 | 99 | 326 | Frilly Climber |
 | 100 | 326 | Yolanda M Harris |
 | 101 | 324 | @n@luvmakin |
-| 102 | 321 | jenna |
-| 103 | 315 | Duane Ficara |
-| 104 | 309 | Carrie Trigg |
-| 105 | 303 | Jess Rose |
-| 106 | 301 | Irene Medina |
-| 107 | 300 | Diamond Madison |
-| 108 | 289 | Jasmine Riley |
+| 102 | 322 | Jasmine Riley |
+| 103 | 321 | jenna |
+| 104 | 315 | Duane Ficara |
+| 105 | 309 | Carrie Trigg |
+| 106 | 303 | Jess Rose |
+| 107 | 301 | Irene Medina |
+| 108 | 300 | Diamond Madison |
 | 109 | 280 | Marianne Louise West |
 | 110 | 279 | Ern2burn |
 | 111 | 279 | Hasbro Bros |
