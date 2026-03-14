@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 12:00:18 UTC
+# Standings for team2 as of 2026-03-14 12:00:38 UTC
 
 **Total Participants:** 1509
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 9637 | Mochi |
 | 2 | 8231 | 赵珞涵 |
-| 3 | 7661 | Kelly Kihe |
+| 3 | 7961 | Kelly Kihe |
 | 4 | 6962 | Justablock |
 | 5 | 3704 | Abigail Kate Fernandez |
 | 6 | 3630 | Shandrea Crawford |
@@ -74,9 +74,9 @@
 | 66 | 484 | Amanda Sullivan |
 | 67 | 480 | Kristina Custer |
 | 68 | 466 | Jennifer Gartland |
-| 69 | 456 | Sara Morgan |
-| 70 | 450 | Quirky Matchfit |
-| 71 | 442 | Bubbly Twistpiece |
+| 69 | 462 | Bubbly Twistpiece |
+| 70 | 456 | Sara Morgan |
+| 71 | 450 | Quirky Matchfit |
 | 72 | 433 | Jess |
 | 73 | 422 | Elizabeth Stanley |
 | 74 | 416 | Peaches |
