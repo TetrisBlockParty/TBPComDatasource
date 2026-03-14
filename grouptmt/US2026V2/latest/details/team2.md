@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 19:10:19 UTC
+# Standings for team2 as of 2026-03-14 19:10:41 UTC
 
 **Total Participants:** 1765
 
@@ -707,8 +707,8 @@
 | 699 | 61 | Christine Kelly-Sarni |
 | 700 | 61 | PrincessDonut |
 | 701 | 61 | Lindsay Parenti |
-| 702 | 60 | Marcie McLain Dodd |
-| 703 | 60 | Susan Valentino |
+| 702 | 60 | Kell Cinn |
+| 703 | 60 | Marcie McLain Dodd |
 | 704 | 60 | Katie Hughes |
 | 705 | 60 | kitykat |
 | 706 | 60 | Luna Locke |
@@ -716,12 +716,12 @@
 | 708 | 60 | Monroy Juana |
 | 709 | 60 | DirtDiggler |
 | 710 | 60 | Zany Jumper |
-| 711 | 60 | Kell Cinn |
+| 711 | 60 | Susan Valentino |
 | 712 | 60 | Dawn Woosley Bowes |
 | 713 | 60 | Susan Larson |
-| 714 | 60 | Veronica Martin Trinkle |
-| 715 | 60 | FallenStar |
-| 716 | 60 | Confused Kitty |
+| 714 | 60 | FallenStar |
+| 715 | 60 | Confused Kitty |
+| 716 | 60 | Veronica Martin Trinkle |
 | 717 | 60 | Mindy Phelps |
 | 718 | 60 | Renée Tilley-Goyette |
 | 719 | 60 | Karent524 |
@@ -732,17 +732,17 @@
 | 724 | 59 | Christian Caro |
 | 725 | 59 | Frisky Zonepiece |
 | 726 | 59 | Chummy Strikerbuilder |
-| 727 | 59 | Breezy Cascader |
+| 727 | 59 | Odessa Scott |
 | 728 | 59 | Daring Spinzone |
 | 729 | 59 | Tracy Berry |
 | 730 | 59 | Joshua Madinger |
-| 731 | 59 | Odessa Scott |
-| 732 | 59 | Nicole Archuleta |
-| 733 | 59 | Kara E. Butler |
-| 734 | 58 | Star Hart |
-| 735 | 58 | Marty Bittner |
-| 736 | 58 | Josie Fig |
-| 737 | 58 | Chipper Clicky |
+| 731 | 59 | Kara E. Butler |
+| 732 | 59 | Breezy Cascader |
+| 733 | 59 | Nicole Archuleta |
+| 734 | 58 | Marty Bittner |
+| 735 | 58 | Josie Fig |
+| 736 | 58 | Chipper Clicky |
+| 737 | 58 | Star Hart |
 | 738 | 58 | Laurie Raynor |
 | 739 | 58 | Lucretia Candy Ross |
 | 740 | 58 | Kimmie Gargano |
@@ -752,78 +752,78 @@
 | 744 | 57 | Jazzy Pivoty |
 | 745 | 57 | Smith Nita |
 | 746 | 57 | Mighty Slide |
-| 747 | 57 | Dragon Queen |
-| 748 | 57 | Hyper Gridpiece |
-| 749 | 57 | BendyBones |
-| 750 | 57 | Jolly Clicky |
-| 751 | 57 | Tinkerbell_79 |
+| 747 | 57 | Robyn Coleman Sadler |
+| 748 | 57 | Tinkerbell_79 |
+| 749 | 57 | Dragon Queen |
+| 750 | 57 | Hyper Gridpiece |
+| 751 | 57 | BendyBones |
 | 752 | 57 | Pogo 2.0 |
-| 753 | 57 | Robyn Coleman Sadler |
+| 753 | 57 | Spicy Patternbuilder |
 | 754 | 57 | Arv |
-| 755 | 57 | Spicy Patternbuilder |
-| 756 | 56 | Chipper Puzzler |
-| 757 | 56 | Shelly Babie |
-| 758 | 56 | TeeLee |
-| 759 | 56 | Lisa Beckort |
-| 760 | 56 | Clarence Ward |
+| 755 | 57 | Jolly Clicky |
+| 756 | 56 | Mary Love |
+| 757 | 56 | Chipper Puzzler |
+| 758 | 56 | Shelly Babie |
+| 759 | 56 | TeeLee |
+| 760 | 56 | Lisa Beckort |
 | 761 | 56 | Linda Marie Pankow |
-| 762 | 56 | Joshua |
-| 763 | 56 | Loony Cascade |
-| 764 | 56 | Steve Ouellet |
-| 765 | 55 | 00022Denny |
-| 766 | 55 | Debra D. Herbert |
-| 767 | 55 | WD6DAL |
-| 768 | 55 | Frisky Riseclear |
-| 769 | 55 | Frisky Gridpiece |
-| 770 | 55 | JamMY-YamMy |
-| 771 | 55 | Pippa45 |
-| 772 | 55 | Elaina Temple |
-| 773 | 55 | Jody Baker |
-| 774 | 54 | 503BZ |
-| 775 | 54 | Wambo |
-| 776 | 54 | funhon2829 |
-| 777 | 54 | Snazzy Wipepiece |
-| 778 | 54 | GoddessCandy |
-| 779 | 54 | Mel |
-| 780 | 54 | rumpadump |
-| 781 | 54 | Kelly Elizabeth Clark |
-| 782 | 54 | Otf Johnta |
-| 783 | 54 | g |
-| 784 | 54 | Denise Wilson |
-| 785 | 53 | Cherie Lee Heid |
-| 786 | 53 | Kara Ann Cray |
-| 787 | 53 | Kenerria Danielle |
-| 788 | 53 | Smiley Linkfall |
-| 789 | 53 | Esme |
-| 790 | 53 | Briaa Williams |
-| 791 | 53 | John Johnson |
-| 792 | 52 | tippytappy |
-| 793 | 52 | pTarah |
-| 794 | 52 | pickle girl |
-| 795 | 52 | Secret Buzz |
-| 796 | 52 | Jessica Santana |
-| 797 | 52 | Daquan Rovira |
-| 798 | 52 | ace |
-| 799 | 52 | Happy Link |
-| 800 | 52 | Angela Srubar-Norman |
-| 801 | 52 | blockbustinbecky |
-| 802 | 51 | Wacky Shuffler |
-| 803 | 51 | Ashlee Pappaconstantinou |
-| 804 | 51 | Ellie |
-| 805 | 51 | Joe Smith |
-| 806 | 51 | Mackenzie Forrester |
-| 807 | 51 | Penny Palmer |
-| 808 | 51 | Karen Usrykitchens |
-| 809 | 51 | Daria Rycewicz |
-| 810 | 51 | 🍏 Green apple |
-| 811 | 51 | TinaMarie Montone |
-| 812 | 51 | Sara Knapp |
-| 813 | 50 | Kelly Williams |
-| 814 | 50 | Cathy Bitters |
-| 815 | 50 | Haley Bell |
-| 816 | 50 | Jackie Miller |
-| 817 | 50 | Chloe S |
-| 818 | 50 | Mary Love |
+| 762 | 56 | Clarence Ward |
+| 763 | 56 | Joshua |
+| 764 | 56 | Loony Cascade |
+| 765 | 56 | Steve Ouellet |
+| 766 | 55 | 00022Denny |
+| 767 | 55 | Debra D. Herbert |
+| 768 | 55 | WD6DAL |
+| 769 | 55 | Frisky Riseclear |
+| 770 | 55 | Frisky Gridpiece |
+| 771 | 55 | Jody Baker |
+| 772 | 55 | Pippa45 |
+| 773 | 55 | JamMY-YamMy |
+| 774 | 55 | Elaina Temple |
+| 775 | 54 | Snazzy Wipepiece |
+| 776 | 54 | GoddessCandy |
+| 777 | 54 | funhon2829 |
+| 778 | 54 | Wambo |
+| 779 | 54 | 503BZ |
+| 780 | 54 | Mel |
+| 781 | 54 | rumpadump |
+| 782 | 54 | Kelly Elizabeth Clark |
+| 783 | 54 | Otf Johnta |
+| 784 | 54 | g |
+| 785 | 54 | Denise Wilson |
+| 786 | 53 | Cherie Lee Heid |
+| 787 | 53 | Kara Ann Cray |
+| 788 | 53 | Kenerria Danielle |
+| 789 | 53 | Smiley Linkfall |
+| 790 | 53 | Esme |
+| 791 | 53 | Briaa Williams |
+| 792 | 53 | John Johnson |
+| 793 | 52 | pickle girl |
+| 794 | 52 | pTarah |
+| 795 | 52 | tippytappy |
+| 796 | 52 | Secret Buzz |
+| 797 | 52 | Jessica Santana |
+| 798 | 52 | Daquan Rovira |
+| 799 | 52 | ace |
+| 800 | 52 | Happy Link |
+| 801 | 52 | Angela Srubar-Norman |
+| 802 | 52 | blockbustinbecky |
+| 803 | 51 | Wacky Shuffler |
+| 804 | 51 | Ashlee Pappaconstantinou |
+| 805 | 51 | Ellie |
+| 806 | 51 | Daria Rycewicz |
+| 807 | 51 | Sara Knapp |
+| 808 | 51 | TinaMarie Montone |
+| 809 | 51 | 🍏 Green apple |
+| 810 | 51 | Penny Palmer |
+| 811 | 51 | Mackenzie Forrester |
+| 812 | 51 | Joe Smith |
+| 813 | 51 | Karen Usrykitchens |
+| 814 | 50 | Haley Bell |
+| 815 | 50 | Cathy Bitters |
+| 816 | 50 | Kelly Williams |
+| 817 | 50 | Jackie Miller |
+| 818 | 50 | Chloe S |
 | 819 | 50 | Twisty Spinbuilder |
 | 820 | 50 | Wes Ross |
 | 821 | 50 | Jason Gibbs |
