@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 10:46:38 UTC
+# Standings for team1 as of 2026-03-14 10:47:17 UTC
 
 **Total Participants:** 1548
 
@@ -33,16 +33,16 @@
 | 25 | 1449 | Amy Roche |
 | 26 | 1398 | Amanda Patterson |
 | 27 | 1362 | Nathaniel Hughes |
-| 28 | 1322 | Quirky Twistline |
+| 28 | 1327 | Quirky Twistline |
 | 29 | 1301 | Troy Gussler |
 | 30 | 1298 | Jordan W Hamilton |
 | 31 | 1287 | Paul Smiar |
 | 32 | 1267 | Katie Daniels |
-| 33 | 1248 | Xande NO Lie Williams |
+| 33 | 1254 | Xande NO Lie Williams |
 | 34 | 1195 | Vistabrat |
-| 35 | 1157 | Marianne Elizabeth Mills |
-| 36 | 1150 | Angel Smith |
-| 37 | 1138 | Audicia Bailey |
+| 35 | 1158 | Audicia Bailey |
+| 36 | 1157 | Marianne Elizabeth Mills |
+| 37 | 1150 | Angel Smith |
 | 38 | 1113 | Brandon Hill |
 | 39 | 1108 | Jodie Peterson |
 | 40 | 1078 | butterface |
@@ -976,49 +976,49 @@
 | 968 | 25 | Pinky Hunt |
 | 969 | 25 | Robin Sharp Earle |
 | 970 | 25 | Maju Restini |
-| 971 | 25 | Pam Jennings Herzog |
-| 972 | 25 | Daisy Sunny |
-| 973 | 25 | Cheery Fitline |
-| 974 | 25 | Chilly Faller |
-| 975 | 25 | Stacy Rodriguez |
-| 976 | 25 | Becky Coker |
-| 977 | 25 | Carl Hampton |
-| 978 | 25 | Roberta Arnold |
-| 979 | 25 | Trey Petty |
-| 980 | 25 | poopoo |
-| 981 | 25 | TOP DOG |
-| 982 | 24 | Cheeky Snaplink |
-| 983 | 24 | Kelli Pazour |
-| 984 | 24 | Mary Boo |
-| 985 | 24 | Goob277 |
+| 971 | 25 | Daisy Sunny |
+| 972 | 25 | Pam Jennings Herzog |
+| 973 | 25 | Bouncy Patternzone |
+| 974 | 25 | Cheery Fitline |
+| 975 | 25 | Chilly Faller |
+| 976 | 25 | Stacy Rodriguez |
+| 977 | 25 | Becky Coker |
+| 978 | 25 | Carl Hampton |
+| 979 | 25 | Roberta Arnold |
+| 980 | 25 | Trey Petty |
+| 981 | 25 | poopoo |
+| 982 | 25 | TOP DOG |
+| 983 | 24 | Cheeky Snaplink |
+| 984 | 24 | Kelli Pazour |
+| 985 | 24 | Mary Boo |
 | 986 | 24 | KingSteve |
 | 987 | 24 | Chummy Curvebuilder |
-| 988 | 24 | Brenna Ann Brewer |
-| 989 | 24 | Peachy Linkfall |
-| 990 | 24 | Chirpy Setter |
-| 991 | 24 | tazd0629 |
-| 992 | 24 | Kristen Orr |
-| 993 | 24 | TexasLeaguer |
-| 994 | 24 | John Gardner |
-| 995 | 24 | Anthony Ward |
+| 988 | 24 | Goob277 |
+| 989 | 24 | Brenna Ann Brewer |
+| 990 | 24 | Peachy Linkfall |
+| 991 | 24 | Chirpy Setter |
+| 992 | 24 | tazd0629 |
+| 993 | 24 | Anthony Ward |
+| 994 | 24 | Kristen Orr |
+| 995 | 24 | TexasLeaguer |
 | 996 | 24 | Zesty Edgepiece |
-| 997 | 23 | Deandre Young |
-| 998 | 23 | Felisha Marie |
-| 999 | 23 | Greg G-Rob Robinson |
-| 1000 | 23 | David Campbell |
-| 1001 | 23 | Frilly T-spin |
-| 1002 | 23 | Loopy Zonepiece |
-| 1003 | 23 | YF Luna |
-| 1004 | 23 | Gary Ustica |
-| 1005 | 23 | Bouncy Patternzone |
-| 1006 | 22 | Kriket |
-| 1007 | 22 | Chipper Balancepiece |
-| 1008 | 22 | Brandon McDonald |
-| 1009 | 22 | Stephen Lockman |
-| 1010 | 22 | Connie Lepore-Mann |
-| 1011 | 22 | Alyssa Bruce |
-| 1012 | 22 | Tripp Loc |
-| 1013 | 22 | Aj Fredenburg |
+| 997 | 24 | John Gardner |
+| 998 | 23 | Gary Ustica |
+| 999 | 23 | YF Luna |
+| 1000 | 23 | Loopy Zonepiece |
+| 1001 | 23 | Felisha Marie |
+| 1002 | 23 | Deandre Young |
+| 1003 | 23 | Frilly T-spin |
+| 1004 | 23 | David Campbell |
+| 1005 | 23 | Greg G-Rob Robinson |
+| 1006 | 22 | Aj Fredenburg |
+| 1007 | 22 | Alyssa Bruce |
+| 1008 | 22 | Connie Lepore-Mann |
+| 1009 | 22 | Brandon McDonald |
+| 1010 | 22 | Kriket |
+| 1011 | 22 | Chipper Balancepiece |
+| 1012 | 22 | Stephen Lockman |
+| 1013 | 22 | Tripp Loc |
 | 1014 | 22 | TaRcY |
 | 1015 | 22 | Twisty Snapfit |
 | 1016 | 22 | Danielle Maner |
