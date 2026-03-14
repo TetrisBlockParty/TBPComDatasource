@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-14 09:24:16 UTC
+# Standings for team3 as of 2026-03-14 09:24:38 UTC
 
 **Total Participants:** 2286
 
@@ -527,123 +527,123 @@
 | 519 | 80 | Keirn Schroeder |
 | 520 | 79 | Doug Small |
 | 521 | 79 | Stephanie Ann |
-| 522 | 79 | Dorothy Sweeden |
-| 523 | 79 | Mikes Girl |
+| 522 | 79 | Mikes Girl |
+| 523 | 79 | Dorothy Sweeden |
 | 524 | 79 | Jamie Fulmore |
 | 525 | 79 | Sarah Berger |
 | 526 | 78 | Naimah Ihklas |
-| 527 | 78 | Lisa Bell |
-| 528 | 78 | Amanda Byers |
-| 529 | 78 | Maritza Martinez |
-| 530 | 78 | Glenda Renea Hensley |
-| 531 | 78 | Amanda Crook |
+| 527 | 78 | Tank5656 |
+| 528 | 78 | Amanda Crook |
+| 529 | 78 | Amanda Byers |
+| 530 | 78 | Maritza Martinez |
+| 531 | 78 | Lisa Bell |
 | 532 | 78 | Amanda Randolph |
 | 533 | 78 | Samantha Baird |
-| 534 | 78 | Tank5656 |
-| 535 | 77 | Lizabeth Fox |
-| 536 | 77 | Nici |
+| 534 | 78 | Glenda Renea Hensley |
+| 535 | 77 | COSMICVIRGO |
+| 536 | 77 | Lizabeth Fox |
 | 537 | 77 | Nerdy Rotator |
-| 538 | 77 | Eleanor Lucy Moore |
-| 539 | 77 | COSMICVIRGO |
-| 540 | 77 | Mike Cobbs |
-| 541 | 76 | Haven Davis |
+| 538 | 77 | Nici |
+| 539 | 77 | Mike Cobbs |
+| 540 | 77 | Eleanor Lucy Moore |
+| 541 | 76 | Winter Meow |
 | 542 | 76 | Sarah A Evans |
-| 543 | 76 | Winter Meow |
-| 544 | 76 | Bussy Bay |
-| 545 | 76 | coleksquad |
+| 543 | 76 | Bussy Bay |
+| 544 | 76 | coleksquad |
+| 545 | 76 | Haven Davis |
 | 546 | 76 | Jay H. Escobar |
-| 547 | 75 | Daring Rollblock |
-| 548 | 75 | Taylor Jones |
+| 547 | 75 | Riconda Gatewood |
+| 548 | 75 | Tawnya Peltonen |
 | 549 | 75 | Cranky Patterner |
-| 550 | 75 | Riconda Gatewood |
-| 551 | 75 | rosy |
-| 552 | 75 | Tawnya Peltonen |
-| 553 | 75 | Zoe Cross |
-| 554 | 74 | jazzzy |
-| 555 | 74 | Norma JulieMay |
-| 556 | 74 | Denise B |
-| 557 | 74 | Dena Gandhi |
-| 558 | 74 | Spicy Balancefit |
-| 559 | 74 | Erin Murphy |
+| 550 | 75 | Taylor Jones |
+| 551 | 75 | Zoe Cross |
+| 552 | 75 | rosy |
+| 553 | 75 | Daring Rollblock |
+| 554 | 74 | Maria Escobar |
+| 555 | 74 | Denise B |
+| 556 | 74 | jazzzy |
+| 557 | 74 | Norma JulieMay |
+| 558 | 74 | Dena Gandhi |
+| 559 | 74 | Spicy Balancefit |
 | 560 | 74 | Eddie Jay Law |
-| 561 | 74 | Maria Escobar |
-| 562 | 74 | Betty Ivy |
-| 563 | 74 | Deanna Woodley |
-| 564 | 74 | Gin |
+| 561 | 74 | Deanna Woodley |
+| 562 | 74 | Gin |
+| 563 | 74 | Betty Ivy |
+| 564 | 74 | Erin Murphy |
 | 565 | 73 | Mikell Jenkins |
-| 566 | 73 | WarblerFinch |
+| 566 | 73 | Buggy Julks |
 | 567 | 73 | Shellyann Bond |
-| 568 | 73 | Jamise Brown |
+| 568 | 73 | Amanda Lea |
 | 569 | 73 | Courtney Clark |
-| 570 | 73 | Buggy Julks |
-| 571 | 73 | Amanda Lea |
+| 570 | 73 | WarblerFinch |
+| 571 | 73 | Jamise Brown |
 | 572 | 73 | Lindsey Horn |
-| 573 | 72 | Spicy Stagger |
-| 574 | 72 | Yavo Espn |
-| 575 | 72 | John Smith |
-| 576 | 72 | Amanda Twede |
-| 577 | 72 | Danielle DeLozier Plesec |
-| 578 | 72 | Jailyn Stern |
-| 579 | 71 | Smurfette |
-| 580 | 71 | Christy Joy |
-| 581 | 71 | Vfuuhg |
-| 582 | 71 | DeAnna Knopp |
-| 583 | 71 | Amber Skolmori |
-| 584 | 71 | Daicia Person |
-| 585 | 71 | Justin Hannigan |
+| 573 | 72 | Amanda Twede |
+| 574 | 72 | Jailyn Stern |
+| 575 | 72 | Amanda C |
+| 576 | 72 | Spicy Stagger |
+| 577 | 72 | John Smith |
+| 578 | 72 | Danielle DeLozier Plesec |
+| 579 | 72 | Yavo Espn |
+| 580 | 71 | Stephanie Gibson |
+| 581 | 71 | Amber Skolmori |
+| 582 | 71 | Vfuuhg |
+| 583 | 71 | Gerald Kier |
+| 584 | 71 | Justin Hannigan |
+| 585 | 71 | Daicia Person |
 | 586 | 71 | Crafty Tile |
-| 587 | 71 | Gerald Kier |
-| 588 | 71 | Stephanie Gibson |
-| 589 | 70 | TaWanna Watkins Hardy |
-| 590 | 70 | Amelia Gibson |
-| 591 | 70 | Earlanda Holland |
-| 592 | 70 | Carri |
-| 593 | 70 | Ash |
+| 587 | 71 | Christy Joy |
+| 588 | 71 | Smurfette |
+| 589 | 71 | DeAnna Knopp |
+| 590 | 70 | Natalya Austin Walker |
+| 591 | 70 | Jessica Meek |
+| 592 | 70 | Amelia Gibson |
+| 593 | 70 | TaWanna Watkins Hardy |
 | 594 | 70 | Courtney Luther |
-| 595 | 70 | Jessica Meek |
-| 596 | 70 | Payton Luedke |
-| 597 | 70 | Michelle Andrea |
-| 598 | 70 | Semga Precious |
+| 595 | 70 | Semga Precious |
+| 596 | 70 | Carri |
+| 597 | 70 | Ash |
+| 598 | 70 | Earlanda Holland |
 | 599 | 70 | Ashley M'Rynn Wideman |
-| 600 | 70 | Natalya Austin Walker |
+| 600 | 70 | Payton Luedke |
 | 601 | 70 | Joshp420 |
-| 602 | 69 | Justin Canape |
-| 603 | 69 | Shiny Match |
+| 602 | 70 | Michelle Andrea |
+| 603 | 69 | Sandara Miley |
 | 604 | 69 | Nicholas Joseph |
-| 605 | 69 | Christina Shepperd |
-| 606 | 69 | Aspen Lynch |
-| 607 | 69 | Mike Palmer |
-| 608 | 69 | Darla Silva |
-| 609 | 69 | Syrena Kovatch |
-| 610 | 69 | Sandara Miley |
-| 611 | 69 | Amanda C |
-| 612 | 68 | Tia Kelly |
-| 613 | 68 | Redlele88 |
-| 614 | 68 | Familia Gonzalez |
-| 615 | 68 | Melissa Primm Hatfield |
-| 616 | 68 | Jeremy Luk |
-| 617 | 68 | Amber Jones |
-| 618 | 68 | Chirpy Dashfit |
-| 619 | 68 | Kate Farok |
-| 620 | 68 | Kaylyn Peterson |
-| 621 | 68 | Serena Shimony |
-| 622 | 68 | NightOwl |
-| 623 | 68 | Giggy Cornerfall |
-| 624 | 68 | Lively Shuffler |
-| 625 | 67 | Quietzone |
-| 626 | 67 | Christina M Arroyo |
-| 627 | 67 | Loopy Fallzone |
-| 628 | 67 | Jess |
-| 629 | 67 | Dreamy Shatterfit |
-| 630 | 67 | Chucky |
-| 631 | 67 | Hyper Blockfall |
-| 632 | 67 | MsBee |
-| 633 | 67 | Giddy Gridpiece |
-| 634 | 67 | Jennifer Holbrook |
-| 635 | 67 | Cam Smeaton |
-| 636 | 66 | lashanda |
-| 637 | 66 | Michael Wheeler |
-| 638 | 66 | Nicole JC |
+| 605 | 69 | Aspen Lynch |
+| 606 | 69 | Mike Palmer |
+| 607 | 69 | Justin Canape |
+| 608 | 69 | Shiny Match |
+| 609 | 69 | Darla Silva |
+| 610 | 69 | Syrena Kovatch |
+| 611 | 69 | Christina Shepperd |
+| 612 | 68 | Amber Jones |
+| 613 | 68 | Melissa Primm Hatfield |
+| 614 | 68 | Jeremy Luk |
+| 615 | 68 | Tia Kelly |
+| 616 | 68 | Chirpy Dashfit |
+| 617 | 68 | Familia Gonzalez |
+| 618 | 68 | Kate Farok |
+| 619 | 68 | Lively Shuffler |
+| 620 | 68 | NightOwl |
+| 621 | 68 | Giggy Cornerfall |
+| 622 | 68 | Serena Shimony |
+| 623 | 68 | Kaylyn Peterson |
+| 624 | 68 | Redlele88 |
+| 625 | 67 | Cam Smeaton |
+| 626 | 67 | Jess |
+| 627 | 67 | Chucky |
+| 628 | 67 | Hyper Blockfall |
+| 629 | 67 | Loopy Fallzone |
+| 630 | 67 | Jennifer Holbrook |
+| 631 | 67 | Giddy Gridpiece |
+| 632 | 67 | Dreamy Shatterfit |
+| 633 | 67 | Christina M Arroyo |
+| 634 | 67 | Quietzone |
+| 635 | 67 | MsBee |
+| 636 | 66 | Nicole JC |
+| 637 | 66 | lashanda |
+| 638 | 66 | Michael Wheeler |
 | 639 | 66 | Kristy Ellis |
 | 640 | 66 | Katherine Rivera |
 | 641 | 66 | Katie Smith |
