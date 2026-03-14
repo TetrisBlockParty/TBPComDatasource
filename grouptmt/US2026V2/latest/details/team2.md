@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 10:34:37 UTC
+# Standings for team2 as of 2026-03-14 10:35:17 UTC
 
 **Total Participants:** 1473
 
@@ -84,22 +84,22 @@
 | 76 | 388 | Katrina Schroeder |
 | 77 | 383 | Chassy Horton |
 | 78 | 378 | Bubbly Twistpiece |
-| 79 | 371 | Dreamy Linkbuilder |
-| 80 | 370 | Pikake Medeiros |
-| 81 | 368 | Sheesh M |
-| 82 | 366 | opf |
-| 83 | 366 | Peaches |
+| 79 | 371 | Peaches |
+| 80 | 371 | Dreamy Linkbuilder |
+| 81 | 370 | Pikake Medeiros |
+| 82 | 368 | Sheesh M |
+| 83 | 366 | opf |
 | 84 | 360 | Liana Spikes |
 | 85 | 359 | Arthe3rd |
 | 86 | 349 | Naomii Seton |
 | 87 | 348 | Antoinette Griffin |
-| 88 | 339 | Jumpy Breaker |
-| 89 | 338 | Peppy Slice |
+| 88 | 344 | Peppy Slice |
+| 89 | 339 | Jumpy Breaker |
 | 90 | 333 | Dee Doubleyou |
 | 91 | 329 | SterlingTeri |
 | 92 | 328 | Autumn Leslie |
-| 93 | 322 | Amanda Young |
-| 94 | 322 | Nicole Cannon |
+| 93 | 322 | Nicole Cannon |
+| 94 | 322 | Amanda Young |
 | 95 | 318 | Dapper Gridclear |
 | 96 | 318 | John Matson |
 | 97 | 315 | Deb Wasano |
@@ -109,8 +109,8 @@
 | 101 | 299 | Adam Charles |
 | 102 | 295 | Jumpy Smasher |
 | 103 | 294 | Ariel Pearson |
-| 104 | 291 | Liz Wambsgans |
-| 105 | 291 | Snappy Tiley |
+| 104 | 291 | Snappy Tiley |
+| 105 | 291 | Liz Wambsgans |
 | 106 | 287 | Qing DG |
 | 107 | 282 | Ruby Anne |
 | 108 | 280 | Loopy Clusterer |
@@ -119,8 +119,8 @@
 | 111 | 275 | Jo Frohwein |
 | 112 | 270 | Slinky Towerer |
 | 113 | 267 | Starr |
-| 114 | 266 | Brooke Sunderhaus |
-| 115 | 266 | Sheena Hachmann |
+| 114 | 266 | Sheena Hachmann |
+| 115 | 266 | Brooke Sunderhaus |
 | 116 | 265 | Michael H. M. Skropka |
 | 117 | 260 | Lori Schlachter Segui |
 | 118 | 256 | YAE |
@@ -1419,11 +1419,11 @@
 | 1411 | 7 | Layne Dejean |
 | 1412 | 7 | Psst |
 | 1413 | 6 | Rita Nerone |
-| 1414 | 6 | Brian Schaefer |
-| 1415 | 6 | Nicole Bou |
-| 1416 | 6 | Yo |
-| 1417 | 6 | Jake Bell |
-| 1418 | 6 | Smellygirl |
+| 1414 | 6 | Smellygirl |
+| 1415 | 6 | Jake Bell |
+| 1416 | 6 | Brian Schaefer |
+| 1417 | 6 | Nicole Bou |
+| 1418 | 6 | Yo |
 | 1419 | 6 | Swanky Builderpiece |
 | 1420 | 6 | James Ramirez |
 | 1421 | 6 | Angela Srubar-Norman |
@@ -1473,12 +1473,12 @@
 | 1465 | 5 | Stacey Kauppi |
 | 1466 | 5 | Bartleby Tickletits |
 | 1467 | 5 | Jeff Lewis |
-| 1468 | 5 | Dellalynn |
-| 1469 | 5 | Aleea Six |
-| 1470 | 5 | Danielle Barthelme |
-| 1471 | 5 | Dave Behnen |
-| 1472 | 5 | Mindy Stephens |
-| 1473 | 5 | Daniel N Phian |
+| 1468 | 5 | Daniel N Phian |
+| 1469 | 5 | Mindy Stephens |
+| 1470 | 5 | Dave Behnen |
+| 1471 | 5 | Danielle Barthelme |
+| 1472 | 5 | Aleea Six |
+| 1473 | 5 | Dellalynn |
 
 ---
 *Standings created by tournaments datasource generation tool*
