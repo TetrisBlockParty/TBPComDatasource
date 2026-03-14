@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 11:54:17 UTC
+# Standings for team2 as of 2026-03-14 11:54:40 UTC
 
 **Total Participants:** 1508
 
@@ -52,9 +52,9 @@
 | 44 | 720 | Jamie Lang |
 | 45 | 656 | pooda |
 | 46 | 652 | Joshua |
-| 47 | 645 | Linda Lively |
-| 48 | 635 | Richard Butler |
-| 49 | 617 | John Matson |
+| 47 | 647 | John Matson |
+| 48 | 645 | Linda Lively |
+| 49 | 635 | Richard Butler |
 | 50 | 601 | Chipper Matchclear |
 | 51 | 599 | Eckoman518 |
 | 52 | 597 | Giggy Matchpiece |
@@ -260,32 +260,32 @@
 | 252 | 130 | Sandy Aragon |
 | 253 | 130 | Abimbola Bimbo |
 | 254 | 130 | Tyler Werts |
-| 255 | 129 | p3ttyboop |
-| 256 | 129 | Goofy Towerer |
-| 257 | 129 | BugMansMom |
-| 258 | 128 | Troy |
-| 259 | 127 | Jesse Olive |
-| 260 | 126 | Paul Beeman |
+| 255 | 129 | Amanda Segura |
+| 256 | 129 | p3ttyboop |
+| 257 | 129 | Goofy Towerer |
+| 258 | 129 | BugMansMom |
+| 259 | 128 | Troy |
+| 260 | 127 | Jesse Olive |
 | 261 | 126 | Tiff Vs Tiffany |
-| 262 | 126 | Amanda Thomas |
-| 263 | 125 | Epic Liner |
-| 264 | 125 | Dreamy Clicky |
-| 265 | 125 | Isabella Blanco |
-| 266 | 125 | titrissss |
-| 267 | 125 | Tommy Proctor |
-| 268 | 125 | April |
-| 269 | 123 | Christine Soltis |
-| 270 | 123 | Amanda Segura |
+| 262 | 126 | Paul Beeman |
+| 263 | 126 | Amanda Thomas |
+| 264 | 125 | Epic Liner |
+| 265 | 125 | Dreamy Clicky |
+| 266 | 125 | Isabella Blanco |
+| 267 | 125 | titrissss |
+| 268 | 125 | Tommy Proctor |
+| 269 | 125 | April |
+| 270 | 123 | Christine Soltis |
 | 271 | 123 | Christina Freeman |
-| 272 | 122 | Tanya Abernathy Jackson |
+| 272 | 122 | Michelle Allers |
 | 273 | 122 | Buisanito |
-| 274 | 122 | Michelle Allers |
+| 274 | 122 | Tanya Abernathy Jackson |
 | 275 | 121 | Cari Hogan |
-| 276 | 121 | Lisa Neal |
-| 277 | 121 | Cheeky Dashy |
-| 278 | 120 | Marinara |
+| 276 | 121 | Cheeky Dashy |
+| 277 | 121 | Lisa Neal |
+| 278 | 120 | Twisty Shatter |
 | 279 | 120 | Vanessa Nguyen |
-| 280 | 120 | Twisty Shatter |
+| 280 | 120 | Marinara |
 | 281 | 120 | JTH |
 | 282 | 120 | Tiffany Smith |
 | 283 | 119 | Wishabishwood |
