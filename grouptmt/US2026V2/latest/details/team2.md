@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 12:46:17 UTC
+# Standings for team2 as of 2026-03-14 12:46:38 UTC
 
 **Total Participants:** 1529
 
@@ -69,8 +69,8 @@
 | 61 | 547 | Carson Goldminc |
 | 62 | 534 | Susan Fazio Edwards |
 | 63 | 532 | TreeWee |
-| 64 | 520 | Elizabeth Crowder Pelton |
-| 65 | 518 | Bubbly Twistpiece |
+| 64 | 523 | Bubbly Twistpiece |
+| 65 | 520 | Elizabeth Crowder Pelton |
 | 66 | 513 | Carrie Mitchell |
 | 67 | 502 | Snippy Basepiece |
 | 68 | 484 | Amanda Sullivan |
@@ -138,26 +138,26 @@
 | 130 | 248 | Dandy Crasher |
 | 131 | 247 | Sass |
 | 132 | 247 | Guillaume Clermont |
-| 133 | 245 | Plucky Snaplink |
-| 134 | 244 | Jt Home |
-| 135 | 242 | Spice Ginger |
-| 136 | 241 | Amelia Anderson |
-| 137 | 241 | Nathaniel Hardy |
-| 138 | 235 | Ultramarine |
-| 139 | 235 | Ella Marzano |
-| 140 | 231 | DJ Bincent |
-| 141 | 227 | Tiff Vs Tiffany |
+| 133 | 246 | Tiff Vs Tiffany |
+| 134 | 245 | Plucky Snaplink |
+| 135 | 244 | Jt Home |
+| 136 | 242 | Spice Ginger |
+| 137 | 241 | Amelia Anderson |
+| 138 | 241 | Nathaniel Hardy |
+| 139 | 235 | Ultramarine |
+| 140 | 235 | Ella Marzano |
+| 141 | 231 | DJ Bincent |
 | 142 | 227 | Katie Lynn |
 | 143 | 226 | Kit Dennett |
 | 144 | 225 | Zippy Zoney |
-| 145 | 224 | Tya Ortiz |
-| 146 | 224 | candypants |
+| 145 | 224 | candypants |
+| 146 | 224 | Tya Ortiz |
 | 147 | 223 | Paul Hudak |
 | 148 | 222 | 1RiRi1 |
 | 149 | 220 | BluBae |
 | 150 | 219 | eMzzz |
-| 151 | 218 | Faith Meade |
-| 152 | 218 | Ben Dove |
+| 151 | 218 | Ben Dove |
+| 152 | 218 | Faith Meade |
 | 153 | 218 | Chelsea Clark |
 | 154 | 217 | Spunky Snapfit |
 | 155 | 216 | Dreamer |
