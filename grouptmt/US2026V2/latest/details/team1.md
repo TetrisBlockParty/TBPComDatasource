@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 08:06:38 UTC
+# Standings for team1 as of 2026-03-14 08:07:16 UTC
 
 **Total Participants:** 1493
 
@@ -492,51 +492,51 @@
 | 484 | 55 | Rainbow brite |
 | 485 | 55 | slim |
 | 486 | 55 | Rachel Ballard |
-| 487 | 55 | Leche |
-| 488 | 55 | Ruby Sandberg |
-| 489 | 55 | Betty |
+| 487 | 55 | Nicole Williams |
+| 488 | 55 | Leche |
+| 489 | 55 | Ruby Sandberg |
 | 490 | 55 | Ernie Guyette |
-| 491 | 55 | Cool Base |
-| 492 | 54 | Connor Jurzynski |
-| 493 | 54 | Christi Bouten-Harmon |
-| 494 | 54 | Nicole McCune |
-| 495 | 54 | Bumpy Morris |
-| 496 | 54 | Swanky Tiltpiece |
-| 497 | 54 | Nate Funk |
-| 498 | 54 | Angela Brown Babin |
-| 499 | 54 | Dominic G Terriaca |
-| 500 | 53 | Jasmine Riley |
-| 501 | 53 | OneBuke FollowMe |
-| 502 | 53 | Rose Anna |
-| 503 | 53 | Magic Meli |
-| 504 | 53 | Zany Tower |
-| 505 | 53 | Josh L Swyers Sr. |
-| 506 | 53 | Sandra Link-Gable |
-| 507 | 53 | MWFreddy |
-| 508 | 53 | Shay J Duval |
-| 509 | 53 | Tisha Cammack |
-| 510 | 53 | Jenn Lunsford |
-| 511 | 53 | Renee Elam |
-| 512 | 52 | kelso |
-| 513 | 52 | Melody Rene |
+| 491 | 55 | Betty |
+| 492 | 55 | Cool Base |
+| 493 | 54 | Connor Jurzynski |
+| 494 | 54 | Angela Brown Babin |
+| 495 | 54 | Swanky Tiltpiece |
+| 496 | 54 | Bumpy Morris |
+| 497 | 54 | Christi Bouten-Harmon |
+| 498 | 54 | Nicole McCune |
+| 499 | 54 | Nate Funk |
+| 500 | 54 | Dominic G Terriaca |
+| 501 | 53 | Renee Elam |
+| 502 | 53 | Magic Meli |
+| 503 | 53 | OneBuke FollowMe |
+| 504 | 53 | Tisha Cammack |
+| 505 | 53 | Jasmine Riley |
+| 506 | 53 | Zany Tower |
+| 507 | 53 | Rose Anna |
+| 508 | 53 | Jenn Lunsford |
+| 509 | 53 | Sandra Link-Gable |
+| 510 | 53 | Shay J Duval |
+| 511 | 53 | MWFreddy |
+| 512 | 53 | Josh L Swyers Sr. |
+| 513 | 52 | Bribrobra |
 | 514 | 52 | Twisty Blockmatch |
-| 515 | 52 | Kelly Miller Williams |
-| 516 | 52 | Smiley Clicky |
-| 517 | 52 | Tiffany Armen |
-| 518 | 52 | Goofy Linkblock |
-| 519 | 52 | Bribrobra |
-| 520 | 52 | Jimmy Shannon |
-| 521 | 52 | Regina Jones |
-| 522 | 52 | Frisky Glidebuilder |
-| 523 | 52 | Shekita Gibbs |
-| 524 | 51 | Cheryl Villa |
-| 525 | 51 | Bon Welch |
+| 515 | 52 | Jimmy Shannon |
+| 516 | 52 | Melody Rene |
+| 517 | 52 | Frisky Glidebuilder |
+| 518 | 52 | Shekita Gibbs |
+| 519 | 52 | Regina Jones |
+| 520 | 52 | Tiffany Armen |
+| 521 | 52 | Kelly Miller Williams |
+| 522 | 52 | Smiley Clicky |
+| 523 | 52 | kelso |
+| 524 | 52 | Goofy Linkblock |
+| 525 | 51 | Mo Mulah |
 | 526 | 51 | Joyce Harrell-chavis |
 | 527 | 51 | Suzan Frazier |
-| 528 | 51 | Mo Mulah |
-| 529 | 51 | Fancy Wobbler |
-| 530 | 50 | Mean Melly |
-| 531 | 50 | Nicole Williams |
+| 528 | 51 | Bon Welch |
+| 529 | 51 | Cheryl Villa |
+| 530 | 51 | Fancy Wobbler |
+| 531 | 50 | Mean Melly |
 | 532 | 50 | Carla Valenzisi |
 | 533 | 50 | Crystal Claypool |
 | 534 | 50 | JonCorry Story |
