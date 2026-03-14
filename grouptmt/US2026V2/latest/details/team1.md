@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 23:40:19 UTC
+# Standings for team1 as of 2026-03-14 23:40:41 UTC
 
 **Total Participants:** 1940
 
@@ -106,7 +106,7 @@
 | 98 | 634 | LeeAnn Martindale |
 | 99 | 630 | Sarah Durmer |
 | 100 | 629 | Bold Clear |
-| 101 | 623 | Letson Melissa |
+| 101 | 627 | Letson Melissa |
 | 102 | 623 | Breezy Ivy |
 | 103 | 615 | Dustin Rouse |
 | 104 | 603 | Amanda Diegel |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 23:40:19 UTC
+# Standings for team2 as of 2026-03-14 23:40:41 UTC
 
 **Total Participants:** 1909
 
@@ -61,7 +61,7 @@
 | 53 | 964 | Amanda Young |
 | 54 | 961 | Arnae Draughon |
 | 55 | 949 | Giggy Matchpiece |
-| 56 | 931 | Bubbly Twistpiece |
+| 56 | 937 | Bubbly Twistpiece |
 | 57 | 926 | Nicole Cannon |
 | 58 | 923 | Laura McPheeters |
 | 59 | 884 | Liana Spikes |
@@ -95,9 +95,9 @@
 | 87 | 652 | TreeWee |
 | 88 | 650 | Becky McClure |
 | 89 | 639 | p3ttyboop |
-| 90 | 631 | Dreamy Clicker |
-| 91 | 626 | Qing DG |
-| 92 | 623 | Antoinette Griffin |
+| 90 | 636 | Antoinette Griffin |
+| 91 | 631 | Dreamy Clicker |
+| 92 | 626 | Qing DG |
 | 93 | 619 | Arthe3rd |
 | 94 | 599 | Eckoman518 |
 | 95 | 594 | LolaSmilez |
@@ -411,24 +411,24 @@
 | 403 | 130 | Chilly Fallgrid |
 | 404 | 130 | Kristie |
 | 405 | 130 | Amber Lashbrook |
-| 406 | 130 | Tyler Werts |
-| 407 | 129 | BugMansMom |
-| 408 | 129 | Elizabeth Blankenship |
-| 409 | 129 | Brittany Backus |
-| 410 | 127 | Sammy |
-| 411 | 127 | Rileyy Rocket |
-| 412 | 127 | Lindsay Lucas |
-| 413 | 127 | Tdg Boyt |
-| 414 | 127 | Jumpy Filler |
-| 415 | 126 | Tyler StaySnappin Old'Page |
-| 416 | 126 | Dreamy Snapbuilder |
-| 417 | 125 | April |
-| 418 | 124 | Sonya Gail Goodman |
-| 419 | 124 | Zany Dashgrid |
-| 420 | 124 | Juana |
-| 421 | 124 | LeVeL27 |
-| 422 | 124 | Lively Builderfit |
-| 423 | 124 | Jen Robinson |
+| 406 | 130 | Jen Robinson |
+| 407 | 130 | Tyler Werts |
+| 408 | 129 | BugMansMom |
+| 409 | 129 | Elizabeth Blankenship |
+| 410 | 129 | Brittany Backus |
+| 411 | 127 | Sammy |
+| 412 | 127 | Rileyy Rocket |
+| 413 | 127 | Lindsay Lucas |
+| 414 | 127 | Tdg Boyt |
+| 415 | 127 | Jumpy Filler |
+| 416 | 126 | Tyler StaySnappin Old'Page |
+| 417 | 126 | Dreamy Snapbuilder |
+| 418 | 125 | April |
+| 419 | 124 | Sonya Gail Goodman |
+| 420 | 124 | Zany Dashgrid |
+| 421 | 124 | Juana |
+| 422 | 124 | LeVeL27 |
+| 423 | 124 | Lively Builderfit |
 | 424 | 123 | Kira Hugar |
 | 425 | 123 | Christina Freeman |
 | 426 | 123 | Julia Freeman |
@@ -571,8 +571,8 @@
 | 563 | 90 | Junang Herowanto |
 | 564 | 90 | Sonceria Ingram-Ford |
 | 565 | 90 | Daniel Moore |
-| 566 | 89 | squareMel |
-| 567 | 89 | Beckii Beckford |
+| 566 | 89 | Beckii Beckford |
+| 567 | 89 | squareMel |
 | 568 | 89 | Nate Price |
 | 569 | 89 | Joyce Murff |
 | 570 | 89 | olympichero |
@@ -581,60 +581,60 @@
 | 573 | 88 | Cozmo |
 | 574 | 88 | Katie |
 | 575 | 88 | Chalanda Jefferies |
-| 576 | 88 | Ashley Marie Pierce |
-| 577 | 88 | João Paulo |
-| 578 | 88 | Ann May June |
-| 579 | 88 | Michael |
-| 580 | 88 | ANIM3KNIGHT |
-| 581 | 87 | Hasty Pivoty |
-| 582 | 87 | Jo |
+| 576 | 88 | João Paulo |
+| 577 | 88 | ANIM3KNIGHT |
+| 578 | 88 | Ashley Marie Pierce |
+| 579 | 88 | Ann May June |
+| 580 | 88 | Michael |
+| 581 | 87 | Jo |
+| 582 | 87 | Hasty Pivoty |
 | 583 | 87 | Alboo |
 | 584 | 86 | Kassandra Carlan |
 | 585 | 86 | scott |
 | 586 | 86 | Desi Desporte |
 | 587 | 86 | Speedy Balance |
-| 588 | 86 | Crystal Harbeson |
-| 589 | 86 | TiffanyJ |
+| 588 | 86 | TiffanyJ |
+| 589 | 86 | Crystal Harbeson |
 | 590 | 85 | Keyata Wright |
-| 591 | 85 | Tipsy Clearbuilder |
-| 592 | 85 | Kathy Allen |
+| 591 | 85 | Kathy Allen |
+| 592 | 85 | Tipsy Clearbuilder |
 | 593 | 85 | Stitch Aura |
-| 594 | 84 | jay |
-| 595 | 84 | Paula Little |
-| 596 | 84 | Rebecca Goforth |
-| 597 | 84 | Marla Erin Salas |
-| 598 | 84 | Paul Islas |
-| 599 | 84 | Tracey Cox |
-| 600 | 84 | Dbabe |
-| 601 | 83 | RzrbkParty |
-| 602 | 83 | Tipsy Blockfall |
-| 603 | 83 | Priscilla Dae Jones |
-| 604 | 83 | Leslie Nicole |
-| 605 | 83 | Kiki Moore |
-| 606 | 83 | Twisty Tiler |
-| 607 | 82 | Lavella Tburg |
-| 608 | 82 | Tiffany Banks Jennings |
-| 609 | 82 | Shane Gann |
-| 610 | 82 | Marciala Pineda Juarez |
-| 611 | 82 | JinxxedMozzerella |
-| 612 | 82 | Jacques Frenette |
-| 613 | 82 | MiniLinni |
-| 614 | 82 | Silly Brickline |
-| 615 | 82 | Bibbit |
-| 616 | 82 | Lilypop |
-| 617 | 81 | WD6DAL |
-| 618 | 81 | JoJo |
-| 619 | 81 | Snippy Framezone |
+| 594 | 84 | Rebecca Goforth |
+| 595 | 84 | Jolly Clicky |
+| 596 | 84 | jay |
+| 597 | 84 | Paula Little |
+| 598 | 84 | Tracey Cox |
+| 599 | 84 | Paul Islas |
+| 600 | 84 | Marla Erin Salas |
+| 601 | 84 | Dbabe |
+| 602 | 83 | RzrbkParty |
+| 603 | 83 | Tipsy Blockfall |
+| 604 | 83 | Twisty Tiler |
+| 605 | 83 | Leslie Nicole |
+| 606 | 83 | Priscilla Dae Jones |
+| 607 | 83 | Kiki Moore |
+| 608 | 82 | Lavella Tburg |
+| 609 | 82 | Jacques Frenette |
+| 610 | 82 | JinxxedMozzerella |
+| 611 | 82 | Shane Gann |
+| 612 | 82 | Tiffany Banks Jennings |
+| 613 | 82 | Marciala Pineda Juarez |
+| 614 | 82 | MiniLinni |
+| 615 | 82 | Silly Brickline |
+| 616 | 82 | Bibbit |
+| 617 | 82 | Lilypop |
+| 618 | 81 | WD6DAL |
+| 619 | 81 | Star |
 | 620 | 81 | Mrcasper Royalbee Mbstcys |
-| 621 | 81 | Star |
-| 622 | 81 | Amykins |
-| 623 | 81 | May May |
-| 624 | 80 | Staci George Fitzsimmons |
+| 621 | 81 | Amykins |
+| 622 | 81 | May May |
+| 623 | 81 | Snippy Framezone |
+| 624 | 81 | JoJo |
 | 625 | 80 | ImmortelT |
-| 626 | 80 | kitykat |
-| 627 | 80 | Jolly Clicky |
-| 628 | 80 | Joe Smith |
-| 629 | 80 | Confused Kitty |
+| 626 | 80 | Staci George Fitzsimmons |
+| 627 | 80 | kitykat |
+| 628 | 80 | Confused Kitty |
+| 629 | 80 | Joe Smith |
 | 630 | 80 | Elizabeth Hinkens |
 | 631 | 80 | Joy Young |
 | 632 | 80 | Lucas J Sutton |
@@ -665,11 +665,11 @@
 | 657 | 77 | Poppy Matchclear |
 | 658 | 77 | Amy Jur Falk |
 | 659 | 77 | Hyper Gridpiece |
-| 660 | 77 | Lela Berklund |
-| 661 | 77 | HarleyJane |
-| 662 | 76 | Jennifer Osmer Carruth |
+| 660 | 77 | HarleyJane |
+| 661 | 77 | Lela Berklund |
+| 662 | 76 | Michelle Sager |
 | 663 | 76 | Chipper Clicky |
-| 664 | 76 | Michelle Sager |
+| 664 | 76 | Jennifer Osmer Carruth |
 | 665 | 76 | Ruffrider27 |
 | 666 | 76 | kippykay |
 | 667 | 76 | infinimom |
@@ -680,8 +680,8 @@
 | 672 | 75 | Shankee mgee |
 | 673 | 75 | Sarah Marie |
 | 674 | 75 | Grace Rubalcada |
-| 675 | 74 | Ryan LaCasse |
-| 676 | 74 | Plucky Rollblock |
+| 675 | 74 | Plucky Rollblock |
+| 676 | 74 | Ryan LaCasse |
 | 677 | 74 | LaTonya Myers |
 | 678 | 74 | Melissa Boldt |
 | 679 | 74 | Halie Geesey |
@@ -690,10 +690,10 @@
 | 682 | 73 | Christian Caro |
 | 683 | 73 | Hoppy Match |
 | 684 | 73 | BusyBee11 |
-| 685 | 73 | Mango |
-| 686 | 73 | Miranda Taylor |
-| 687 | 73 | Robert Benjamin |
-| 688 | 73 | Robyn Coleman Sadler |
+| 685 | 73 | Miranda Taylor |
+| 686 | 73 | Mango |
+| 687 | 73 | Robyn Coleman Sadler |
+| 688 | 73 | Robert Benjamin |
 | 689 | 73 | Laura |
 | 690 | 73 | Sha45 |
 | 691 | 73 | Mel Thomas-Young |
