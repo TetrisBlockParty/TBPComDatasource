@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 19:30:18 UTC
+# Standings for team1 as of 2026-03-14 19:30:39 UTC
 
 **Total Participants:** 1837
 
@@ -19,8 +19,8 @@
 | 11 | 3948 | Vistabrat |
 | 12 | 3822 | Amber Whisenhunt |
 | 13 | 3018 | Amanda Sheppard |
-| 14 | 2824 | Troy Gussler |
-| 15 | 2809 | Robert Jansen |
+| 14 | 2847 | Robert Jansen |
+| 15 | 2824 | Troy Gussler |
 | 16 | 2697 | Amy Jerman |
 | 17 | 2615 | Amy Dial Brown |
 | 18 | 2611 | Fayro |
@@ -240,9 +240,9 @@
 | 232 | 177 | Sabra Fisher |
 | 233 | 177 | Qoo |
 | 234 | 177 | Peppy Matchclear |
-| 235 | 175 | Zany Mover |
-| 236 | 175 | shelly |
-| 237 | 174 | Jason Hawk |
+| 235 | 175 | Jason Hawk |
+| 236 | 175 | Zany Mover |
+| 237 | 175 | shelly |
 | 238 | 173 | Stefanie Champion |
 | 239 | 171 | QueenBee |
 | 240 | 170 | Lively Patternfall |
