@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 22:52:18 UTC
+# Standings for team1 as of 2026-03-14 22:52:39 UTC
 
 **Total Participants:** 1916
 
@@ -97,14 +97,14 @@
 | 89 | 696 | Joshua Dye |
 | 90 | 693 | FancyPants |
 | 91 | 683 | Michael Powers |
-| 92 | 644 | Kat Mfm Kaul |
-| 93 | 638 | Crawford Candice |
-| 94 | 634 | LeeAnn Martindale |
-| 95 | 630 | Sarah Durmer |
-| 96 | 629 | Kimberly Howell-Henley |
-| 97 | 623 | Breezy Ivy |
-| 98 | 619 | Bold Clear |
-| 99 | 618 | Amee Schnarrs |
+| 92 | 666 | Amee Schnarrs |
+| 93 | 646 | Kat Mfm Kaul |
+| 94 | 638 | Crawford Candice |
+| 95 | 634 | LeeAnn Martindale |
+| 96 | 630 | Sarah Durmer |
+| 97 | 629 | Kimberly Howell-Henley |
+| 98 | 623 | Breezy Ivy |
+| 99 | 619 | Bold Clear |
 | 100 | 615 | Dustin Rouse |
 | 101 | 595 | Chris Wanner |
 | 102 | 588 | Kevin Sees |
