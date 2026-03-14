@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 21:06:19 UTC
+# Standings for team2 as of 2026-03-14 21:06:40 UTC
 
 **Total Participants:** 1828
 
@@ -71,18 +71,18 @@
 | 63 | 805 | Brave Matchfit |
 | 64 | 787 | Speedy Spinblock |
 | 65 | 780 | Andrey Sharov |
-| 66 | 764 | Raven Smith |
-| 67 | 759 | Robert Martinez |
-| 68 | 758 | Jennifer Golub |
-| 69 | 756 | John Matson |
-| 70 | 752 | Suffia Alexander |
-| 71 | 740 | Snippy Clearbuilder |
-| 72 | 735 | Joy LaJeunesse |
-| 73 | 722 | Elizabeth Stanley |
-| 74 | 720 | Jamie Lang |
-| 75 | 701 | Mike Carden |
-| 76 | 698 | Tya Ortiz |
-| 77 | 696 | Nick Jensen |
+| 66 | 767 | Nick Jensen |
+| 67 | 764 | Raven Smith |
+| 68 | 759 | Robert Martinez |
+| 69 | 758 | Jennifer Golub |
+| 70 | 756 | John Matson |
+| 71 | 752 | Suffia Alexander |
+| 72 | 740 | Snippy Clearbuilder |
+| 73 | 735 | Joy LaJeunesse |
+| 74 | 722 | Elizabeth Stanley |
+| 75 | 720 | Jamie Lang |
+| 76 | 701 | Mike Carden |
+| 77 | 698 | Tya Ortiz |
 | 78 | 695 | Autumn Leslie |
 | 79 | 694 | Ariel Pearson |
 | 80 | 692 | Joshua |
@@ -131,10 +131,10 @@
 | 123 | 405 | Loopy Clusterer |
 | 124 | 404 | Toph |
 | 125 | 400 | Veronica Martin Trinkle |
-| 126 | 389 | Brooke Sunderhaus |
-| 127 | 388 | Katrina Schroeder |
-| 128 | 388 | Michelle Douglas Bridges |
-| 129 | 379 | p3ttyboop |
+| 126 | 399 | p3ttyboop |
+| 127 | 389 | Brooke Sunderhaus |
+| 128 | 388 | Katrina Schroeder |
+| 129 | 388 | Michelle Douglas Bridges |
 | 130 | 374 | Deb Wasano |
 | 131 | 370 | Foxy |
 | 132 | 361 | Rob Riggin |
@@ -339,12 +339,12 @@
 | 331 | 146 | Flashy Tetriblast |
 | 332 | 146 | Jason Allen |
 | 333 | 145 | Mcg |
-| 334 | 143 | Frances Hui |
-| 335 | 143 | Kimberly Garcia |
+| 334 | 143 | Kimberly Garcia |
+| 335 | 143 | Frances Hui |
 | 336 | 142 | Luna |
 | 337 | 141 | JTH |
-| 338 | 141 | Cheeky Dashy |
-| 339 | 141 | Chill Builder |
+| 338 | 141 | Chill Builder |
+| 339 | 141 | Cheeky Dashy |
 | 340 | 141 | Christine Lin |
 | 341 | 140 | Sandra Safford |
 | 342 | 140 | Giggity boots |
@@ -354,32 +354,32 @@
 | 346 | 140 | Tanya Abernathy Jackson |
 | 347 | 140 | Brenda Lee Vander Molen |
 | 348 | 140 | Paula Marcus Delsigne |
-| 349 | 139 | Prette Qui |
-| 350 | 139 | Marc |
-| 351 | 139 | Shea Ladynick Henderson |
+| 349 | 139 | Marc |
+| 350 | 139 | Shea Ladynick Henderson |
+| 351 | 139 | Prette Qui |
 | 352 | 138 | Slinky Linkgrid |
-| 353 | 137 | Candy Brooks |
-| 354 | 137 | Goofy Towerer |
+| 353 | 137 | Goofy Towerer |
+| 354 | 137 | Megan Simpson |
 | 355 | 137 | Zany Rotater |
-| 356 | 137 | Megan Simpson |
+| 356 | 137 | Candy Brooks |
 | 357 | 137 | SigmaWinchester |
 | 358 | 136 | Yloponom Gamez |
 | 359 | 136 | Goats Poe |
 | 360 | 136 | Nilla |
 | 361 | 136 | Lesha |
-| 362 | 135 | Dizzy Dasher |
+| 362 | 135 | Brandy Hayhurst |
 | 363 | 135 | Tausha Colella |
 | 364 | 135 | Christine Soltis |
-| 365 | 135 | Brandy Hayhurst |
+| 365 | 135 | Dizzy Dasher |
 | 366 | 134 | Haley Lynn Agers |
 | 367 | 134 | Darlene Simmons |
 | 368 | 134 | Tina Cano |
 | 369 | 134 | Belle |
 | 370 | 133 | Mona Sharma |
-| 371 | 133 | Jeremy Steines |
-| 372 | 133 | Trisha Balmer |
-| 373 | 132 | Brenda A |
-| 374 | 132 | Crystal Brown-Miles |
+| 371 | 133 | Trisha Balmer |
+| 372 | 133 | Jeremy Steines |
+| 373 | 132 | Crystal Brown-Miles |
+| 374 | 132 | Brenda A |
 | 375 | 132 | Jolie Hatfield |
 | 376 | 131 | Dizzy Brickline |
 | 377 | 131 | Tee Jaleesa |
@@ -388,43 +388,43 @@
 | 380 | 130 | Tyler Werts |
 | 381 | 130 | Amber Lashbrook |
 | 382 | 129 | BugMansMom |
-| 383 | 128 | Elizabeth Mauri |
-| 384 | 127 | Rileyy Rocket |
-| 385 | 127 | Tdg Boyt |
-| 386 | 126 | Jumpy Filler |
-| 387 | 126 | Dreamy Snapbuilder |
+| 383 | 129 | Brittany Backus |
+| 384 | 128 | Elizabeth Mauri |
+| 385 | 127 | Rileyy Rocket |
+| 386 | 127 | Tdg Boyt |
+| 387 | 126 | Jumpy Filler |
 | 388 | 126 | Elizabeth Blankenship |
-| 389 | 125 | April |
-| 390 | 125 | Steady Treal |
-| 391 | 125 | Tommy Proctor |
-| 392 | 124 | Sonya Gail Goodman |
-| 393 | 124 | LeVeL27 |
-| 394 | 123 | Julia Freeman |
+| 389 | 126 | Dreamy Snapbuilder |
+| 390 | 125 | Tommy Proctor |
+| 391 | 125 | Steady Treal |
+| 392 | 125 | April |
+| 393 | 124 | Sonya Gail Goodman |
+| 394 | 124 | LeVeL27 |
 | 395 | 123 | Christina Freeman |
-| 396 | 123 | Marc Abney |
-| 397 | 123 | Tipsy Glidezone |
-| 398 | 123 | Tyler StaySnappin Old'Page |
-| 399 | 122 | Buisanito |
-| 400 | 121 | Sammy |
-| 401 | 120 | Kira Hugar |
-| 402 | 120 | Smiley Match |
+| 396 | 123 | Julia Freeman |
+| 397 | 123 | Marc Abney |
+| 398 | 123 | Tipsy Glidezone |
+| 399 | 123 | Tyler StaySnappin Old'Page |
+| 400 | 122 | Buisanito |
+| 401 | 121 | Sammy |
+| 402 | 120 | Kira Hugar |
 | 403 | 120 | Kennedy Sandifer |
-| 404 | 120 | Theodore Vincent |
-| 405 | 120 | Twisty Shatter |
-| 406 | 120 | GirlMom5 |
-| 407 | 120 | Tiffany Smith |
-| 408 | 119 | Wishabishwood |
-| 409 | 118 | Shawn Haines |
-| 410 | 118 | Rhonda Milstead |
-| 411 | 118 | Libby |
-| 412 | 117 | Greg Shekailo |
-| 413 | 117 | Brittany Backus |
+| 404 | 120 | Smiley Match |
+| 405 | 120 | Theodore Vincent |
+| 406 | 120 | Twisty Shatter |
+| 407 | 120 | GirlMom5 |
+| 408 | 120 | Tiffany Smith |
+| 409 | 119 | Wishabishwood |
+| 410 | 118 | Shawn Haines |
+| 411 | 118 | Rhonda Milstead |
+| 412 | 118 | Libby |
+| 413 | 117 | Greg Shekailo |
 | 414 | 117 | Swanky Shiftsnap |
 | 415 | 116 | Spicy Strikerbuilder |
 | 416 | 116 | Paula Martin |
 | 417 | 116 | BuzyBee |
-| 418 | 116 | Lucy Honer |
-| 419 | 116 | jess |
+| 418 | 116 | jess |
+| 419 | 116 | Lucy Honer |
 | 420 | 115 | Pamela Knapp |
 | 421 | 115 | Marc Anthony Lopez |
 | 422 | 115 | Bold Brickzone |
