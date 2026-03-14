@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 08:40:41 UTC
+# Standings for team1 as of 2026-03-14 08:41:16 UTC
 
 **Total Participants:** 1502
 
@@ -10,7 +10,7 @@
 | 2 | 5922 | Donna Wilkinson |
 | 3 | 5457 | Scott Lindsay |
 | 4 | 5404 | William George Weglage III |
-| 5 | 4546 | Hyper |
+| 5 | 4846 | Hyper |
 | 6 | 4526 | Dizzy Stagger |
 | 7 | 4525 | Bryan Stockwell |
 | 8 | 4381 | Jayna Anoc |
