@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 17:20:17 UTC
+# Standings for team2 as of 2026-03-14 17:20:40 UTC
 
 **Total Participants:** 1701
 
@@ -115,8 +115,8 @@
 | 107 | 388 | Danielle Mogg |
 | 108 | 388 | Michelle Douglas Bridges |
 | 109 | 387 | opf |
-| 110 | 382 | Laura McPheeters |
-| 111 | 379 | Antoinette Griffin |
+| 110 | 385 | Antoinette Griffin |
+| 111 | 382 | Laura McPheeters |
 | 112 | 373 | Sheesh M |
 | 113 | 371 | Dreamy Linkbuilder |
 | 114 | 362 | Deb Wasano |
@@ -170,11 +170,11 @@
 | 162 | 253 | Carlton Unfiltered |
 | 163 | 252 | Jjza |
 | 164 | 251 | Angela Mindiola |
-| 165 | 249 | Ben Dove |
-| 166 | 247 | Sass |
-| 167 | 247 | Dreamer |
-| 168 | 247 | Guillaume Clermont |
-| 169 | 246 | CharalaAnn |
+| 165 | 250 | CharalaAnn |
+| 166 | 249 | Ben Dove |
+| 167 | 247 | Sass |
+| 168 | 247 | Dreamer |
+| 169 | 247 | Guillaume Clermont |
 | 170 | 245 | Plucky Snaplink |
 | 171 | 243 | BluBae |
 | 172 | 241 | Nathaniel Hardy |
