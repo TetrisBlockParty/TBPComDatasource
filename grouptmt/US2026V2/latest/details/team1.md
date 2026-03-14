@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 22:38:19 UTC
+# Standings for team1 as of 2026-03-14 22:38:41 UTC
 
 **Total Participants:** 1914
 
@@ -193,15 +193,15 @@
 | 185 | 279 | Lilyandstuff |
 | 186 | 279 | Ern2burn |
 | 187 | 278 | Amanda Diegel |
-| 188 | 275 | Allena Craft |
-| 189 | 273 | bea |
-| 190 | 273 | TRCuse |
-| 191 | 272 | Perky Shatterline |
-| 192 | 271 | Fluffy |
-| 193 | 271 | Sharisse Baltimore |
-| 194 | 265 | Victoria Davis Torie |
-| 195 | 264 | SpunkyStriker |
-| 196 | 263 | Sabra Fisher |
+| 188 | 275 | Sabra Fisher |
+| 189 | 275 | Allena Craft |
+| 190 | 273 | bea |
+| 191 | 273 | TRCuse |
+| 192 | 272 | Perky Shatterline |
+| 193 | 271 | Fluffy |
+| 194 | 271 | Sharisse Baltimore |
+| 195 | 265 | Victoria Davis Torie |
+| 196 | 264 | SpunkyStriker |
 | 197 | 261 | 1_Roxanne_3 |
 | 198 | 260 | Fatima Washington |
 | 199 | 260 | Nanan Nanan |
@@ -556,45 +556,45 @@
 | 548 | 84 | Slinky Dashpiece |
 | 549 | 84 | Maju Restini |
 | 550 | 84 | Matthew Foley |
-| 551 | 83 | Happy Feet |
-| 552 | 83 | Dizzy Glidebuilder |
-| 553 | 83 | Becca Gatrell Barton |
-| 554 | 83 | Christi Bouten-Harmon |
-| 555 | 83 | Renee Elam |
-| 556 | 83 | Nate Funk |
-| 557 | 83 | Yvonne Buie |
-| 558 | 82 | Goofy Linkblock |
-| 559 | 82 | KingRoss |
-| 560 | 82 | Dizzy Stackbuilder |
-| 561 | 82 | PSD |
-| 562 | 81 | ssr |
-| 563 | 81 | Joyce Fees |
-| 564 | 81 | Lee Sipelii |
-| 565 | 81 | Brian Schneider |
-| 566 | 80 | Katt Brown-Thomas |
-| 567 | 80 | cheeryPrincess |
-| 568 | 80 | Kelli Pazour |
+| 551 | 83 | Dizzy Glidebuilder |
+| 552 | 83 | Nate Funk |
+| 553 | 83 | Yvonne Buie |
+| 554 | 83 | Renee Elam |
+| 555 | 83 | Christi Bouten-Harmon |
+| 556 | 83 | Becca Gatrell Barton |
+| 557 | 83 | Happy Feet |
+| 558 | 82 | KingRoss |
+| 559 | 82 | Dizzy Stackbuilder |
+| 560 | 82 | PSD |
+| 561 | 82 | Angela Renea Lester |
+| 562 | 82 | Goofy Linkblock |
+| 563 | 81 | ssr |
+| 564 | 81 | Joyce Fees |
+| 565 | 81 | Lee Sipelii |
+| 566 | 81 | Brian Schneider |
+| 567 | 80 | Katt Brown-Thomas |
+| 568 | 80 | cheeryPrincess |
 | 569 | 80 | Cynthia Herrmann Egland |
 | 570 | 80 | Crystal Sara E |
 | 571 | 80 | Lora Mae Spindler Young |
-| 572 | 80 | Smashanator |
-| 573 | 80 | Rebecca Rognerud |
-| 574 | 80 | Ricardo Ferreira |
-| 575 | 80 | JV Yu |
-| 576 | 80 | Andrew Lauterborn |
-| 577 | 80 | Fredricka Cole |
-| 578 | 80 | DeJuan Green |
-| 579 | 80 | LaTisha Stillsmilin Hudson |
-| 580 | 80 | Buster Goots |
-| 581 | 80 | Slinky Dashgrid |
-| 582 | 80 | Tami Luce Martin |
-| 583 | 80 | Hannah Carter |
-| 584 | 79 | Vicki Dougie |
-| 585 | 79 | Sassy Pivotfall |
-| 586 | 79 | Angela Renea Lester |
-| 587 | 79 | iceman |
-| 588 | 79 | Swalshy |
-| 589 | 79 | Peppy Brickclear |
+| 572 | 80 | Kelli Pazour |
+| 573 | 80 | Smashanator |
+| 574 | 80 | Rebecca Rognerud |
+| 575 | 80 | Buster Goots |
+| 576 | 80 | JV Yu |
+| 577 | 80 | Andrew Lauterborn |
+| 578 | 80 | Fredricka Cole |
+| 579 | 80 | DeJuan Green |
+| 580 | 80 | LaTisha Stillsmilin Hudson |
+| 581 | 80 | Ricardo Ferreira |
+| 582 | 80 | Slinky Dashgrid |
+| 583 | 80 | Tami Luce Martin |
+| 584 | 80 | Hannah Carter |
+| 585 | 79 | Vicki Dougie |
+| 586 | 79 | Sassy Pivotfall |
+| 587 | 79 | Swalshy |
+| 588 | 79 | Peppy Brickclear |
+| 589 | 79 | iceman |
 | 590 | 78 | Texastytest |
 | 591 | 78 | Jai |
 | 592 | 78 | Lauren Bond |
@@ -1114,7 +1114,7 @@
 | 1106 | 39 | Courtney Leigh Deiber |
 | 1107 | 39 | Amy Niemeier |
 | 1108 | 39 | Hoppy Shatterfit |
-| 1109 | 38 | Shelly Cunningham |
+| 1109 | 38 | Quirky Crawler |
 | 1110 | 38 | Ronald Przytulski |
 | 1111 | 38 | Chirpy Glidebuilder |
 | 1112 | 38 | Rik |
@@ -1122,90 +1122,90 @@
 | 1114 | 38 | Boldy Twisterfit |
 | 1115 | 38 | Caitlin Baylor |
 | 1116 | 38 | Antoinette Rhinesmith |
-| 1117 | 38 | Quirky Crawler |
-| 1118 | 38 | Roy Burgess |
-| 1119 | 38 | Spicy Buildsnap |
-| 1120 | 38 | Anne Oliver |
-| 1121 | 38 | Kelli Marie |
-| 1122 | 38 | Groovy Builder |
-| 1123 | 38 | Araceli Gomez |
-| 1124 | 38 | Starlight |
-| 1125 | 38 | Edward White |
-| 1126 | 37 | James Martin |
-| 1127 | 37 | Brandy Ann |
+| 1117 | 38 | Roy Burgess |
+| 1118 | 38 | Araceli Gomez |
+| 1119 | 38 | Shelly Cunningham |
+| 1120 | 38 | Christie Love |
+| 1121 | 38 | Spicy Buildsnap |
+| 1122 | 38 | Anne Oliver |
+| 1123 | 38 | Kelli Marie |
+| 1124 | 38 | Edward White |
+| 1125 | 38 | Groovy Builder |
+| 1126 | 38 | Starlight |
+| 1127 | 37 | James Martin |
 | 1128 | 37 | Big mama 2010 |
-| 1129 | 37 | Tipsy Buildgrid |
-| 1130 | 37 | Tara Lawson |
+| 1129 | 37 | Brandy Ann |
+| 1130 | 37 | Tipsy Buildgrid |
 | 1131 | 37 | John DeMoss |
 | 1132 | 37 | Marisa Tesch |
-| 1133 | 37 | Adrien M Roberson |
-| 1134 | 37 | Flashy Clicky |
-| 1135 | 37 | Jay Aye |
-| 1136 | 37 | Sunny Frame |
-| 1137 | 37 | Any Michelle Kounou |
-| 1138 | 37 | Sloop Betty |
-| 1139 | 37 | Zesty Shatterline |
+| 1133 | 37 | Flashy Clicky |
+| 1134 | 37 | Sloop Betty |
+| 1135 | 37 | Adrien M Roberson |
+| 1136 | 37 | Tara Lawson |
+| 1137 | 37 | Sunny Frame |
+| 1138 | 37 | Any Michelle Kounou |
+| 1139 | 37 | Jay Aye |
 | 1140 | 37 | Cristian Ramirez Lazaro |
-| 1141 | 36 | Chirpy Blockroll |
-| 1142 | 36 | Jessica Franz |
-| 1143 | 36 | OzzyFan4Life |
+| 1141 | 37 | Zesty Shatterline |
+| 1142 | 36 | Chirpy Blockroll |
+| 1143 | 36 | Jessica Franz |
 | 1144 | 36 | Angela Nipple |
 | 1145 | 36 | Amber Nicole |
 | 1146 | 36 | Oats |
-| 1147 | 36 | Michael Espinosa Ulibarri Jr. |
-| 1148 | 36 | Ella Brown |
+| 1147 | 36 | OzzyFan4Life |
+| 1148 | 36 | Michael Espinosa Ulibarri Jr. |
 | 1149 | 36 | Dawn Fike |
 | 1150 | 36 | Nicky Chappell |
-| 1151 | 36 | Andrea Clippert |
+| 1151 | 36 | Epic Glider |
 | 1152 | 36 | Stacey Delane Sumner |
-| 1153 | 36 | Christie Love |
-| 1154 | 36 | Sassyshell |
-| 1155 | 36 | Epic Glider |
-| 1156 | 36 | Natalie Wilson |
-| 1157 | 35 | MJ Beca Good |
-| 1158 | 35 | Dizzy Matchzone |
-| 1159 | 35 | eightball119 |
-| 1160 | 35 | Quinn Craig |
-| 1161 | 35 | EspyBlue |
-| 1162 | 35 | Casey Jordan |
-| 1163 | 35 | rance |
-| 1164 | 35 | Dizzy Tiler |
-| 1165 | 35 | Moretattsdenscars |
-| 1166 | 35 | Christopher Wesley |
-| 1167 | 35 | Pam Jennings Herzog |
-| 1168 | 35 | NewMe Shortie Rodriguez |
-| 1169 | 35 | Connie Bond |
-| 1170 | 35 | Flashy Clicker |
-| 1171 | 35 | Perky Clusterbuilder |
-| 1172 | 35 | Tony Lighthizer |
-| 1173 | 35 | Jenny Lynn Hiles |
-| 1174 | 35 | Lasey Rands |
-| 1175 | 35 | Samantha Turzak Baker |
-| 1176 | 35 | Lynn Adams |
-| 1177 | 35 | Matthew Graves D.C. |
-| 1178 | 35 | Melinda Perry Frazier |
-| 1179 | 34 | Angie Dotson |
-| 1180 | 34 | Offspring |
+| 1153 | 36 | Sassyshell |
+| 1154 | 36 | Andrea Clippert |
+| 1155 | 36 | Natalie Wilson |
+| 1156 | 36 | Ella Brown |
+| 1157 | 35 | Dizzy Matchzone |
+| 1158 | 35 | Dizzy Tiler |
+| 1159 | 35 | MJ Beca Good |
+| 1160 | 35 | Pam Jennings Herzog |
+| 1161 | 35 | eightball119 |
+| 1162 | 35 | EspyBlue |
+| 1163 | 35 | Quinn Craig |
+| 1164 | 35 | Casey Jordan |
+| 1165 | 35 | rance |
+| 1166 | 35 | Moretattsdenscars |
+| 1167 | 35 | Christopher Wesley |
+| 1168 | 35 | Connie Bond |
+| 1169 | 35 | Melinda Perry Frazier |
+| 1170 | 35 | NewMe Shortie Rodriguez |
+| 1171 | 35 | Matthew Graves D.C. |
+| 1172 | 35 | Samantha Turzak Baker |
+| 1173 | 35 | Perky Clusterbuilder |
+| 1174 | 35 | Flashy Clicker |
+| 1175 | 35 | Tony Lighthizer |
+| 1176 | 35 | Lasey Rands |
+| 1177 | 35 | Lynn Adams |
+| 1178 | 35 | Jenny Lynn Hiles |
+| 1179 | 34 | Jeremy Lake |
+| 1180 | 34 | Junior |
 | 1181 | 34 | James Simms III |
-| 1182 | 34 | Jennifer Bunker |
-| 1183 | 34 | Aaron Wright |
-| 1184 | 34 | Tierra |
-| 1185 | 34 | Jeremy Lake |
-| 1186 | 34 | Zesty Edgepiece |
-| 1187 | 34 | Jolly Buildgrid |
-| 1188 | 34 | Phoenix Garrett |
-| 1189 | 34 | key |
-| 1190 | 34 | Michael Palmer |
-| 1191 | 34 | Junior |
+| 1182 | 34 | Offspring |
+| 1183 | 34 | key |
+| 1184 | 34 | Angie Dotson |
+| 1185 | 34 | Phoenix Garrett |
+| 1186 | 34 | Jennifer Bunker |
+| 1187 | 34 | Tierra |
+| 1188 | 34 | Zesty Edgepiece |
+| 1189 | 34 | Michael Palmer |
+| 1190 | 34 | Jolly Buildgrid |
+| 1191 | 34 | Aaron Wright |
 | 1192 | 33 | Alexis Vogel |
-| 1193 | 33 | Ronald M Blansit Jr. |
-| 1194 | 33 | Chris Alexinas |
-| 1195 | 33 | Neomi Perdue |
-| 1196 | 33 | Mandy Stevenson |
-| 1197 | 33 | Renee |
+| 1193 | 33 | Richard Cranium |
+| 1194 | 33 | Ronald M Blansit Jr. |
+| 1195 | 33 | Chris Alexinas |
+| 1196 | 33 | Montez Montez |
+| 1197 | 33 | Mandy Stevenson |
 | 1198 | 33 | Delzie J Leigh |
-| 1199 | 33 | Richard Cranium |
-| 1200 | 33 | Montez Montez |
+| 1199 | 33 | Renee |
+| 1200 | 33 | Neomi Perdue |
 | 1201 | 33 | Jeremy Stiltner |
 | 1202 | 33 | Lively Hitter |
 | 1203 | 33 | Michael Meyer |
