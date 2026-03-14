@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 07:06:16 UTC
+# Standings for team1 as of 2026-03-14 07:06:38 UTC
 
 **Total Participants:** 1463
 
@@ -382,91 +382,91 @@
 | 374 | 67 | Itn |
 | 375 | 67 | Stacy Patterson |
 | 376 | 67 | DoodleBug |
-| 377 | 67 | Bubba_C59 |
-| 378 | 67 | Becca Gatrell Barton |
+| 377 | 67 | Becca Gatrell Barton |
+| 378 | 67 | Sabrina Frazier |
 | 379 | 67 | Letson Melissa |
 | 380 | 67 | Antonia Wyche |
-| 381 | 67 | Sabrina Frazier |
-| 382 | 66 | Yolanda Quinn |
-| 383 | 66 | Bailey Morgan |
+| 381 | 67 | Bubba_C59 |
+| 382 | 66 | Bailey Morgan |
+| 383 | 66 | Yolanda Quinn |
 | 384 | 65 | Snappy Linkroll |
 | 385 | 65 | Abcmasters12 |
-| 386 | 65 | mrkw |
-| 387 | 65 | J. |
-| 388 | 65 | Giggy Snaplink |
-| 389 | 64 | Las Carolina |
-| 390 | 64 | Cassi Owens |
-| 391 | 64 | Pig02 |
-| 392 | 64 | svsninja |
-| 393 | 64 | Heather Bell |
-| 394 | 64 | Oscar Ferguson |
-| 395 | 63 | KingRoss |
-| 396 | 63 | Boldy Clicky |
+| 386 | 65 | Giggy Snaplink |
+| 387 | 65 | mrkw |
+| 388 | 65 | J. |
+| 389 | 64 | Cassi Owens |
+| 390 | 64 | Las Carolina |
+| 391 | 64 | svsninja |
+| 392 | 64 | Pig02 |
+| 393 | 64 | Oscar Ferguson |
+| 394 | 64 | Heather Bell |
+| 395 | 63 | Boldy Clicky |
+| 396 | 63 | Erin Halleman |
 | 397 | 63 | Dizzy Pattern |
-| 398 | 63 | Amy Sanford |
-| 399 | 63 | Nick R Johnson |
-| 400 | 63 | Erin Halleman |
+| 398 | 63 | Nick R Johnson |
+| 399 | 63 | Amy Sanford |
+| 400 | 63 | KingRoss |
 | 401 | 62 | Bouncy Tilerpiece |
-| 402 | 62 | Chirpy Twistpiece |
-| 403 | 62 | Kehlyn King |
-| 404 | 62 | Ash Galvan |
-| 405 | 62 | Smin |
+| 402 | 62 | Groovy Holder |
+| 403 | 62 | Ash Galvan |
+| 404 | 62 | Smin |
+| 405 | 62 | KK |
 | 406 | 62 | Kristy Burch Sells |
-| 407 | 62 | Groovy Holder |
-| 408 | 61 | Deb Horwath |
+| 407 | 62 | Kehlyn King |
+| 408 | 62 | Chirpy Twistpiece |
 | 409 | 61 | Gigglelymomof2 |
-| 410 | 61 | Mel Fab |
-| 411 | 61 | Kimmy White |
-| 412 | 60 | Spunky Rollblock |
-| 413 | 60 | Chilly Matchbuilder |
-| 414 | 60 | Conklin Laura |
-| 415 | 60 | Matthew Laudico |
-| 416 | 60 | Nicole Brown |
-| 417 | 60 | Kat Fisher |
+| 410 | 61 | Deb Horwath |
+| 411 | 61 | Mel Fab |
+| 412 | 61 | Kimmy White |
+| 413 | 60 | Robert A. Horne |
+| 414 | 60 | Nicole Brown |
+| 415 | 60 | Conklin Laura |
+| 416 | 60 | Chilly Matchbuilder |
+| 417 | 60 | Spunky Rollblock |
 | 418 | 60 | Shelby Bryson |
-| 419 | 60 | Mary Cerciello |
-| 420 | 60 | S Gale Holton |
-| 421 | 60 | Death |
-| 422 | 60 | Josh Twilley |
-| 423 | 60 | Iliana Figueroa |
-| 424 | 60 | Bri Jackson |
-| 425 | 60 | Angel Mendez |
-| 426 | 60 | Memphis Kash |
+| 419 | 60 | Matthew Laudico |
+| 420 | 60 | Kat Fisher |
+| 421 | 60 | S Gale Holton |
+| 422 | 60 | Death |
+| 423 | 60 | Josh Twilley |
+| 424 | 60 | Iliana Figueroa |
+| 425 | 60 | Bri Jackson |
+| 426 | 60 | Angel Mendez |
 | 427 | 60 | BingoStarr |
 | 428 | 60 | snazzyseahorse |
 | 429 | 60 | Sassy Wrecker |
 | 430 | 60 | DaRascal |
-| 431 | 60 | Robert A. Horne |
+| 431 | 60 | Mary Cerciello |
 | 432 | 60 | Kay Alifi |
-| 433 | 59 | Snazzy Rotater |
-| 434 | 59 | Jennie Lee Huntley |
-| 435 | 59 | Carly |
-| 436 | 59 | Dramatic Tiger |
-| 437 | 59 | Crystal Eubanks |
-| 438 | 59 | Nifty |
-| 439 | 58 | Crystal Parker Bryant |
-| 440 | 58 | Dawgofwar |
-| 441 | 58 | Jason Whitehair |
-| 442 | 58 | Kat Kath |
-| 443 | 58 | Trishatta YoungDiva Watkins |
-| 444 | 58 | Zuul Gatekeeper |
-| 445 | 58 | Jennifer Traywick |
-| 446 | 58 | Andrew Lauterborn |
-| 447 | 57 | King D |
-| 448 | 57 | Crruth |
-| 449 | 57 | Lori Dutton |
-| 450 | 57 | Texastytest |
-| 451 | 57 | tay |
-| 452 | 57 | Maxwell Hall |
-| 453 | 56 | sgt baby |
-| 454 | 56 | colt |
-| 455 | 56 | Michael Phillips |
-| 456 | 56 | Ellieshay |
-| 457 | 56 | Groovy Cascadefit |
-| 458 | 56 | Shiny Party |
-| 459 | 56 | Alana Susan Hanley |
-| 460 | 56 | KK |
-| 461 | 56 | Ernest Jordan |
+| 433 | 60 | Memphis Kash |
+| 434 | 59 | Nifty |
+| 435 | 59 | Snazzy Rotater |
+| 436 | 59 | Carly |
+| 437 | 59 | Dramatic Tiger |
+| 438 | 59 | Jennie Lee Huntley |
+| 439 | 59 | Crystal Eubanks |
+| 440 | 58 | Crystal Parker Bryant |
+| 441 | 58 | Dawgofwar |
+| 442 | 58 | Jason Whitehair |
+| 443 | 58 | Kat Kath |
+| 444 | 58 | Trishatta YoungDiva Watkins |
+| 445 | 58 | Zuul Gatekeeper |
+| 446 | 58 | Jennifer Traywick |
+| 447 | 58 | Andrew Lauterborn |
+| 448 | 57 | King D |
+| 449 | 57 | Crruth |
+| 450 | 57 | Lori Dutton |
+| 451 | 57 | Texastytest |
+| 452 | 57 | tay |
+| 453 | 57 | Maxwell Hall |
+| 454 | 56 | Ernest Jordan |
+| 455 | 56 | colt |
+| 456 | 56 | Michael Phillips |
+| 457 | 56 | Ellieshay |
+| 458 | 56 | sgt baby |
+| 459 | 56 | Shiny Party |
+| 460 | 56 | Alana Susan Hanley |
+| 461 | 56 | Groovy Cascadefit |
 | 462 | 55 | Betty |
 | 463 | 55 | Ernie Guyette |
 | 464 | 55 | Slinky Dashgrid |
