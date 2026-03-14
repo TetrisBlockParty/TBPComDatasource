@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 20:12:18 UTC
+# Standings for team2 as of 2026-03-14 20:12:39 UTC
 
 **Total Participants:** 1800
 
@@ -192,10 +192,10 @@
 | 184 | 251 | Shelly |
 | 185 | 250 | LML |
 | 186 | 250 | Ramone Armstrong |
-| 187 | 249 | Sass |
-| 188 | 249 | Krish Shah |
-| 189 | 247 | Dreamer |
-| 190 | 247 | Guillaume Clermont |
+| 187 | 249 | Krish Shah |
+| 188 | 249 | Sass |
+| 189 | 247 | Guillaume Clermont |
+| 190 | 247 | Dreamer |
 | 191 | 243 | BluBae |
 | 192 | 242 | Maureen Winter |
 | 193 | 241 | Nathaniel Hardy |
@@ -204,9 +204,9 @@
 | 196 | 239 | nina |
 | 197 | 239 | Marvin Lou Martin |
 | 198 | 235 | Ella Marzano |
-| 199 | 235 | 1RiRi1 |
+| 199 | 235 | Dane Roy |
 | 200 | 235 | Carey Kyle |
-| 201 | 235 | Dane Roy |
+| 201 | 235 | 1RiRi1 |
 | 202 | 232 | Kit Dennett |
 | 203 | 231 | Faith Meade |
 | 204 | 227 | Yoyareese |
@@ -219,29 +219,29 @@
 | 211 | 219 | eMzzz |
 | 212 | 218 | Chelsea Clark |
 | 213 | 217 | Spunky Snapfit |
-| 214 | 215 | Kyesha Goodyear |
-| 215 | 215 | Camila Gerow |
-| 216 | 212 | TJ Hire |
-| 217 | 211 | Mandy |
+| 214 | 216 | Berklie Apedaile |
+| 215 | 215 | Kyesha Goodyear |
+| 216 | 215 | Camila Gerow |
+| 217 | 212 | TJ Hire |
 | 218 | 211 | Cleopatra Daniels |
-| 219 | 208 | Koipod |
-| 220 | 207 | Jocelynn Marie |
-| 221 | 205 | Tony Tran |
-| 222 | 205 | Looloo |
-| 223 | 203 | Elizabeth Ostrom |
-| 224 | 203 | Rusty Davis |
-| 225 | 202 | Carmen Jnvm |
-| 226 | 202 | Ess |
-| 227 | 200 | Nerdy Blockpiece |
-| 228 | 200 | Samantha Bagent |
-| 229 | 199 | titrissss |
-| 230 | 199 | Chummy Linkgrid |
-| 231 | 199 | Carmilita Burpo Jordan |
-| 232 | 198 | Epic Liner |
-| 233 | 197 | Breeana Bennett |
-| 234 | 197 | Christy Merriman Addison |
-| 235 | 197 | Fbai |
-| 236 | 196 | Berklie Apedaile |
+| 219 | 211 | Mandy |
+| 220 | 208 | Koipod |
+| 221 | 207 | Jocelynn Marie |
+| 222 | 205 | Tony Tran |
+| 223 | 205 | Looloo |
+| 224 | 203 | Elizabeth Ostrom |
+| 225 | 203 | Rusty Davis |
+| 226 | 202 | Carmen Jnvm |
+| 227 | 202 | Ess |
+| 228 | 200 | Nerdy Blockpiece |
+| 229 | 200 | Samantha Bagent |
+| 230 | 199 | titrissss |
+| 231 | 199 | Chummy Linkgrid |
+| 232 | 199 | Carmilita Burpo Jordan |
+| 233 | 198 | Epic Liner |
+| 234 | 197 | Breeana Bennett |
+| 235 | 197 | Christy Merriman Addison |
+| 236 | 197 | Fbai |
 | 237 | 196 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 238 | 195 | Jason Briggs |
 | 239 | 195 | Susan Dunn |
@@ -263,22 +263,22 @@
 | 255 | 184 | Beth Smith |
 | 256 | 183 | Taghrid Ebeid |
 | 257 | 182 | Tatyahna Cameron |
-| 258 | 181 | Alexis Seath |
-| 259 | 181 | Mighty Zone |
-| 260 | 180 | Bea Miles |
-| 261 | 180 | Jonathan Vee Jay |
-| 262 | 180 | Sheena Harris |
-| 263 | 180 | James Hurley Jr. |
-| 264 | 179 | Jen |
-| 265 | 179 | Bouncy Zoner |
-| 266 | 178 | Lora |
+| 258 | 182 | Giddy Gridmatch |
+| 259 | 181 | Alexis Seath |
+| 260 | 181 | Mighty Zone |
+| 261 | 180 | Bea Miles |
+| 262 | 180 | Jonathan Vee Jay |
+| 263 | 180 | Sheena Harris |
+| 264 | 180 | James Hurley Jr. |
+| 265 | 179 | Jen |
+| 266 | 179 | Bouncy Zoner |
 | 267 | 178 | Abimbola Bimbo |
-| 268 | 178 | JustYvette IsFine |
-| 269 | 178 | DanesMama |
-| 270 | 177 | Scott Siple |
-| 271 | 176 | Cheeky Clearbuilder |
-| 272 | 176 | Tosha Gonzales |
-| 273 | 175 | Giddy Gridmatch |
+| 268 | 178 | Lora |
+| 269 | 178 | JustYvette IsFine |
+| 270 | 178 | DanesMama |
+| 271 | 177 | Scott Siple |
+| 272 | 176 | Cheeky Clearbuilder |
+| 273 | 176 | Tosha Gonzales |
 | 274 | 175 | Ding Adventurer |
 | 275 | 173 | Elizabeth Diraffaele |
 | 276 | 173 | Allison L Tiffany |
@@ -287,8 +287,8 @@
 | 279 | 171 | Brenda Bell |
 | 280 | 170 | Jimmy Xim |
 | 281 | 170 | Desiree Anderson |
-| 282 | 170 | Jazzy Piecebuilder |
-| 283 | 170 | Cynthia Prouse |
+| 282 | 170 | Cynthia Prouse |
+| 283 | 170 | Jazzy Piecebuilder |
 | 284 | 170 | Berling Gil |
 | 285 | 169 | Troy |
 | 286 | 169 | Jason McCloy |
@@ -313,8 +313,8 @@
 | 305 | 154 | Alexander Zamora |
 | 306 | 154 | Zak Dunn |
 | 307 | 153 | nickle109 |
-| 308 | 151 | Lea Gann |
-| 309 | 151 | Ashley Leonard |
+| 308 | 152 | Ashley Leonard |
+| 309 | 151 | Lea Gann |
 | 310 | 151 | Aobregon01 |
 | 311 | 151 | Vanessa Nguyen |
 | 312 | 150 | Zesty Link |
