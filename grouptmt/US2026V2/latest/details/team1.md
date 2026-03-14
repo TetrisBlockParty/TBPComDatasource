@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 17:45:19 UTC
+# Standings for team1 as of 2026-03-14 17:46:19 UTC
 
 **Total Participants:** 1786
 
@@ -114,10 +114,10 @@
 | 106 | 415 | Jme |
 | 107 | 412 | Nancy |
 | 108 | 400 | Jessica Sheehan |
-| 109 | 394 | Ramona Gulledge |
-| 110 | 389 | Yolanda M Harris |
+| 109 | 395 | Breezy Ivy |
+| 110 | 394 | Ramona Gulledge |
 | 111 | 389 | Chalandra Donahue |
-| 112 | 388 | Breezy Ivy |
+| 112 | 389 | Yolanda M Harris |
 | 113 | 386 | beep |
 | 114 | 384 | PhatWI41 |
 | 115 | 379 | Charis Stoner |
@@ -139,8 +139,8 @@
 | 131 | 335 | TotoCherue |
 | 132 | 331 | Jasmine Riley |
 | 133 | 330 | Letson Melissa |
-| 134 | 329 | jenna |
-| 135 | 327 | Witty Wipegrid |
+| 134 | 330 | Witty Wipegrid |
+| 135 | 329 | jenna |
 | 136 | 325 | Tyle Armstead |
 | 137 | 323 | Jess Rose |
 | 138 | 318 | Big rick !!! |
@@ -148,11 +148,11 @@
 | 140 | 302 | Joy Bloodworth |
 | 141 | 300 | Diamond Madison |
 | 142 | 300 | Noelle Cicchillo |
-| 143 | 287 | Bryan Temple |
-| 144 | 281 | Crafty Tilebuilder |
-| 145 | 280 | Marianne Louise West |
-| 146 | 279 | Ern2burn |
-| 147 | 279 | Hasbro Bros |
+| 143 | 288 | Hasbro Bros |
+| 144 | 287 | Bryan Temple |
+| 145 | 281 | Crafty Tilebuilder |
+| 146 | 280 | Marianne Louise West |
+| 147 | 279 | Ern2burn |
 | 148 | 277 | Legendary |
 | 149 | 276 | Jessi Sauer |
 | 150 | 275 | Allena Craft |
@@ -162,9 +162,9 @@
 | 154 | 262 | Sharisse Baltimore |
 | 155 | 255 | Sunny Swiper |
 | 156 | 254 | Josh Barringer |
-| 157 | 250 | Kris Koepke |
-| 158 | 249 | Lively Rollfit |
-| 159 | 246 | Jr_420 |
+| 157 | 250 | Jr_420 |
+| 158 | 250 | Kris Koepke |
+| 159 | 249 | Lively Rollfit |
 | 160 | 245 | DeeBee |
 | 161 | 243 | Angela Phillips Kean |
 | 162 | 241 | Heatherly |
@@ -258,14 +258,14 @@
 | 250 | 158 | Aaron Higdon |
 | 251 | 157 | Ken Wada Jr. |
 | 252 | 157 | Thorpedo |
-| 253 | 156 | Al Smith Jr |
-| 254 | 156 | Rat666 |
-| 255 | 156 | George Ljr |
-| 256 | 155 | Bearman |
-| 257 | 155 | Elizabeth Hughes |
-| 258 | 154 | Silly Ziggy |
-| 259 | 151 | Jonnelle Partin |
-| 260 | 151 | Bobby |
+| 253 | 157 | Bobby |
+| 254 | 156 | Al Smith Jr |
+| 255 | 156 | Rat666 |
+| 256 | 156 | George Ljr |
+| 257 | 155 | Bearman |
+| 258 | 155 | Elizabeth Hughes |
+| 259 | 154 | Silly Ziggy |
+| 260 | 151 | Jonnelle Partin |
 | 261 | 150 | Debbie Buchanan |
 | 262 | 150 | Mary Pelley |
 | 263 | 150 | SpaceCase085 |
@@ -314,13 +314,13 @@
 | 306 | 126 | Matt Aguilar |
 | 307 | 126 | DoodleBug |
 | 308 | 126 | Kathy Karjala |
-| 309 | 124 | David Larter |
-| 310 | 124 | Laura Morrison |
-| 311 | 124 | Adam McMakin |
-| 312 | 123 | Tanya Carpenter-Reynolds |
-| 313 | 123 | Boldy Clicky |
-| 314 | 123 | Jonathan Gaffaney |
-| 315 | 123 | Damion Woods |
+| 309 | 125 | Damion Woods |
+| 310 | 124 | David Larter |
+| 311 | 124 | Laura Morrison |
+| 312 | 124 | Adam McMakin |
+| 313 | 123 | Tanya Carpenter-Reynolds |
+| 314 | 123 | Boldy Clicky |
+| 315 | 123 | Jonathan Gaffaney |
 | 316 | 122 | Maxwell Hall |
 | 317 | 122 | Kehlyn King |
 | 318 | 122 | Pig02 |
