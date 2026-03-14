@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-14 17:42:39 UTC
+# Standings for team1 as of 2026-03-14 17:43:17 UTC
 
 **Total Participants:** 1785
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 13487 | Ariel |
-| 2 | 7539 | Devinlee Brown |
+| 2 | 7639 | Devinlee Brown |
 | 3 | 7385 | Donna Wilkinson |
 | 4 | 6202 | Scott Lindsay |
 | 5 | 6167 | William George Weglage III |
@@ -56,7 +56,7 @@
 | 48 | 1150 | Angel Smith |
 | 49 | 1145 | Cody Walther |
 | 50 | 1119 | Ryry |
-| 51 | 1084 | Kesha Brady |
+| 51 | 1087 | Kesha Brady |
 | 52 | 1054 | Dom The Great |
 | 53 | 1053 | phrmblk24 |
 | 54 | 1003 | Giddy Cascade |
@@ -189,11 +189,11 @@
 | 181 | 214 | CelticTraveler |
 | 182 | 214 | Giggly Rotate |
 | 183 | 214 | Jena Overall Prescott |
-| 184 | 212 | Eric Hoffman |
-| 185 | 211 | lefty |
-| 186 | 211 | Jumpy Spinblock |
-| 187 | 211 | Dani Giles |
-| 188 | 203 | April McGuffie |
+| 184 | 213 | April McGuffie |
+| 185 | 212 | Eric Hoffman |
+| 186 | 211 | lefty |
+| 187 | 211 | Jumpy Spinblock |
+| 188 | 211 | Dani Giles |
 | 189 | 203 | Amber Zeller Rice |
 | 190 | 201 | Marie Helman |
 | 191 | 201 | Ancient Intuition |
@@ -237,15 +237,15 @@
 | 229 | 168 | Jason Hawk |
 | 230 | 167 | Nyki Marie |
 | 231 | 167 | Cynthia Petz |
-| 232 | 166 | C Wing Chu |
-| 233 | 164 | Happy Shatterfit |
-| 234 | 163 | Ryan N. Mason |
-| 235 | 163 | Fatima Washington |
-| 236 | 163 | Lemonberry |
-| 237 | 162 | Albert Josef Toves Means Jr. |
-| 238 | 161 | DreamyMoon |
-| 239 | 161 | Trina Gee |
-| 240 | 161 | Zany Mover |
+| 232 | 166 | Zany Mover |
+| 233 | 166 | C Wing Chu |
+| 234 | 164 | Happy Shatterfit |
+| 235 | 163 | Ryan N. Mason |
+| 236 | 163 | Fatima Washington |
+| 237 | 163 | Lemonberry |
+| 238 | 162 | Albert Josef Toves Means Jr. |
+| 239 | 161 | DreamyMoon |
+| 240 | 161 | Trina Gee |
 | 241 | 161 | Chrys Peters |
 | 242 | 160 | Snappy Linkroll |
 | 243 | 160 | Florna Primrose |
