@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-14 14:40:18 UTC
+# Standings for team2 as of 2026-03-14 14:40:39 UTC
 
 **Total Participants:** 1604
 
@@ -89,12 +89,12 @@
 | 81 | 416 | Peaches |
 | 82 | 407 | Tess Shaheen |
 | 83 | 406 | Snippy Clearbuilder |
-| 84 | 405 | Johanna Massaro |
-| 85 | 400 | Leah Gorsuch |
-| 86 | 400 | TETRIS |
-| 87 | 399 | Nick Jensen |
-| 88 | 388 | Katrina Schroeder |
-| 89 | 386 | Amanda Young |
+| 84 | 405 | Amanda Young |
+| 85 | 405 | Johanna Massaro |
+| 86 | 400 | Leah Gorsuch |
+| 87 | 400 | TETRIS |
+| 88 | 399 | Nick Jensen |
+| 89 | 388 | Katrina Schroeder |
 | 90 | 384 | Adam Charles |
 | 91 | 383 | Chassy Horton |
 | 92 | 382 | Laura McPheeters |
@@ -1253,13 +1253,13 @@
 | 1245 | 18 | Sweetyam22 |
 | 1246 | 18 | LaChalle Shay |
 | 1247 | 18 | Buddy Howell |
-| 1248 | 18 | Jennifer Adair |
-| 1249 | 18 | Somthin |
+| 1248 | 18 | Somthin |
+| 1249 | 18 | Amandalorian |
 | 1250 | 18 | Lewis Sturgeon |
-| 1251 | 18 | Kali |
+| 1251 | 18 | Brian Wangler |
 | 1252 | 18 | ZeldaCat |
-| 1253 | 18 | Amandalorian |
-| 1254 | 18 | Brian Wangler |
+| 1253 | 18 | Jennifer Adair |
+| 1254 | 18 | Kali |
 | 1255 | 18 | Becky Wilson |
 | 1256 | 18 | Jumpy Tiley |
 | 1257 | 18 | Dreamy Snapzone |
@@ -1274,22 +1274,22 @@
 | 1266 | 17 | Smiley Linkfall |
 | 1267 | 17 | Kasheba Y Bowens |
 | 1268 | 17 | Hannibal Musa |
-| 1269 | 17 | Terry Partain |
-| 1270 | 17 | Jim Kelly |
-| 1271 | 17 | Diana |
-| 1272 | 17 | Lively Patternline |
-| 1273 | 17 | Cheery Clearfit |
-| 1274 | 17 | Chummy Blockline |
-| 1275 | 17 | Karina Rodriguez |
-| 1276 | 17 | Chipper Clicky |
-| 1277 | 17 | Jai Sweetz |
-| 1278 | 16 | Darin Benning |
+| 1269 | 17 | Jai Sweetz |
+| 1270 | 17 | Terry Partain |
+| 1271 | 17 | Chipper Clicky |
+| 1272 | 17 | Diana |
+| 1273 | 17 | Karina Rodriguez |
+| 1274 | 17 | Jim Kelly |
+| 1275 | 17 | Lively Patternline |
+| 1276 | 17 | Chummy Blockline |
+| 1277 | 17 | Cheery Clearfit |
+| 1278 | 16 | Amanda |
 | 1279 | 16 | Sandra Belk |
-| 1280 | 16 | Emily Price |
-| 1281 | 16 | Amanda |
-| 1282 | 16 | k8y |
-| 1283 | 16 | Cheeky Brickfit |
-| 1284 | 16 | Karmabunny |
+| 1280 | 16 | Darin Benning |
+| 1281 | 16 | k8y |
+| 1282 | 16 | Emily Price |
+| 1283 | 16 | Karmabunny |
+| 1284 | 16 | Cheeky Brickfit |
 | 1285 | 16 | Nutty Shatterclear |
 | 1286 | 16 | Sam |
 | 1287 | 16 | Savannah Chavez |
@@ -1310,69 +1310,69 @@
 | 1302 | 15 | Amanda Colwell |
 | 1303 | 15 | Malcolm Ferguson |
 | 1304 | 15 | Amy Yearta |
-| 1305 | 15 | Lisa Duncan |
-| 1306 | 15 | Jennifer Monroe Kelly |
-| 1307 | 15 | Weevil |
-| 1308 | 15 | Rhonda Milstead |
-| 1309 | 15 | Plucky Rollblock |
-| 1310 | 15 | Amber Simpson |
-| 1311 | 15 | Chefbj Ventress |
-| 1312 | 15 | Veronica Duncan |
-| 1313 | 15 | Laura Delia Avila |
-| 1314 | 15 | Smiley |
+| 1305 | 15 | Crystal Ali |
+| 1306 | 15 | Weevil |
+| 1307 | 15 | Sylvie Lemoine |
+| 1308 | 15 | Plucky Rollblock |
+| 1309 | 15 | Hayley |
+| 1310 | 15 | Veronica Duncan |
+| 1311 | 15 | Amber Simpson |
+| 1312 | 15 | Lisa Duncan |
+| 1313 | 15 | Smiley |
+| 1314 | 15 | Jennifer Monroe Kelly |
 | 1315 | 15 | Shane Gann |
-| 1316 | 15 | Faithful Akiroso |
-| 1317 | 15 | Sheila Massey Dotson |
-| 1318 | 15 | Crystal Ali |
-| 1319 | 15 | Hayley |
+| 1316 | 15 | Rhonda Milstead |
+| 1317 | 15 | Chefbj Ventress |
+| 1318 | 15 | Laura Delia Avila |
+| 1319 | 15 | Faithful Akiroso |
 | 1320 | 15 | Michael McCarron |
 | 1321 | 15 | Michelle Price-Dye |
-| 1322 | 15 | Sylvie Lemoine |
-| 1323 | 15 | Katy Timmons |
+| 1322 | 15 | Sheila Massey Dotson |
+| 1323 | 15 | David Smith |
 | 1324 | 15 | Goofy Basegrid |
 | 1325 | 15 | RoRo5 |
-| 1326 | 15 | David Smith |
-| 1327 | 14 | Abigail Stratton |
+| 1326 | 15 | Katy Timmons |
+| 1327 | 14 | Frilly Dropmatch |
 | 1328 | 14 | Glitzy Towerfit |
-| 1329 | 14 | Mary Frappier Rader |
+| 1329 | 14 | Joseph Ferranto |
 | 1330 | 14 | Cool Tilerpiece |
-| 1331 | 14 | LiseePooh |
-| 1332 | 14 | Mel |
-| 1333 | 14 | Danielle Wright |
-| 1334 | 14 | Kita A Jackson |
-| 1335 | 14 | Poppy Liney |
-| 1336 | 14 | Frilly Dropmatch |
-| 1337 | 14 | Joseph Ferranto |
-| 1338 | 14 | Sam Sam |
-| 1339 | 14 | Maria Lee Ardoin |
-| 1340 | 14 | Chilly Mover |
-| 1341 | 14 | Black Pharaoh |
-| 1342 | 14 | Jackie Avila |
-| 1343 | 14 | Jax Guillory |
-| 1344 | 14 | Goofy Block |
-| 1345 | 14 | Steven L Robinson Jr |
-| 1346 | 14 | Angela Boles |
-| 1347 | 13 | Andy Barrett |
-| 1348 | 13 | bestme |
-| 1349 | 13 | Staybutterfly |
-| 1350 | 13 | Kendra Hahn |
-| 1351 | 13 | Skeetris |
-| 1352 | 13 | Ashby Ray |
-| 1353 | 13 | Christina Nabrizny |
-| 1354 | 13 | Adonis |
-| 1355 | 13 | Anika Strawberryz Smith |
-| 1356 | 13 | Kristin Smith |
-| 1357 | 13 | Christopher Mastropietro |
-| 1358 | 13 | Perky Rollfit |
-| 1359 | 13 | Dandy Crasher |
-| 1360 | 13 | Spencer John |
-| 1361 | 13 | エリカ エンフバヤル |
-| 1362 | 12 | Shannon Lynn Goddard |
+| 1331 | 14 | Mary Frappier Rader |
+| 1332 | 14 | Abigail Stratton |
+| 1333 | 14 | LiseePooh |
+| 1334 | 14 | Sam Sam |
+| 1335 | 14 | JjB |
+| 1336 | 14 | Poppy Liney |
+| 1337 | 14 | Kita A Jackson |
+| 1338 | 14 | Danielle Wright |
+| 1339 | 14 | Mel |
+| 1340 | 14 | Maria Lee Ardoin |
+| 1341 | 14 | Chilly Mover |
+| 1342 | 14 | Black Pharaoh |
+| 1343 | 14 | Jackie Avila |
+| 1344 | 14 | Jax Guillory |
+| 1345 | 14 | Goofy Block |
+| 1346 | 14 | Steven L Robinson Jr |
+| 1347 | 14 | Angela Boles |
+| 1348 | 13 | Andy Barrett |
+| 1349 | 13 | bestme |
+| 1350 | 13 | Staybutterfly |
+| 1351 | 13 | Kendra Hahn |
+| 1352 | 13 | Skeetris |
+| 1353 | 13 | Ashby Ray |
+| 1354 | 13 | Christina Nabrizny |
+| 1355 | 13 | Adonis |
+| 1356 | 13 | Anika Strawberryz Smith |
+| 1357 | 13 | Kristin Smith |
+| 1358 | 13 | Dandy Crasher |
+| 1359 | 13 | エリカ エンフバヤル |
+| 1360 | 13 | Perky Rollfit |
+| 1361 | 13 | Christopher Mastropietro |
+| 1362 | 13 | Spencer John |
 | 1363 | 12 | Amber Starr Drinnon |
-| 1364 | 12 | Nicole Henely |
-| 1365 | 12 | JnnGin |
-| 1366 | 12 | Carrie Panzeter |
-| 1367 | 12 | JjB |
+| 1364 | 12 | Shannon Lynn Goddard |
+| 1365 | 12 | Nicole Henely |
+| 1366 | 12 | JnnGin |
+| 1367 | 12 | Carrie Panzeter |
 | 1368 | 12 | Ieisha Scruggs Webb |
 | 1369 | 12 | Dapper Stacker |
 | 1370 | 12 | Suzy |
@@ -1425,8 +1425,8 @@
 | 1417 | 10 | Ryan Martin |
 | 1418 | 10 | bob |
 | 1419 | 10 | Isabelle Heineck |
-| 1420 | 10 | Kiana Serrao |
-| 1421 | 10 | Marlene Espinosa |
+| 1420 | 10 | Marlene Espinosa |
+| 1421 | 10 | Kiana Serrao |
 | 1422 | 10 | Thomas Harmon |
 | 1423 | 10 | ginger |
 | 1424 | 10 | SuZee |
