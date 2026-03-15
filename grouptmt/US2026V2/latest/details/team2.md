@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 08:44:42 UTC
+# Standings for team2 as of 2026-03-15 08:45:20 UTC
 
 **Total Participants:** 2172
 
@@ -78,7 +78,7 @@
 | 70 | 1119 | Goofy Linkmatch |
 | 71 | 1107 | lovethedana |
 | 72 | 1106 | Snippy Clearbuilder |
-| 73 | 1074 | Suffia Alexander |
+| 73 | 1078 | Suffia Alexander |
 | 74 | 1064 | Sheena Herskovic |
 | 75 | 1057 | Julio Alejandro Rodriguez |
 | 76 | 1015 | TETRIS |
@@ -463,14 +463,14 @@
 | 455 | 150 | Marinara |
 | 456 | 150 | Sherry Jones |
 | 457 | 150 | Breanna Lemus |
-| 458 | 150 | Glitzy Rollblock |
-| 459 | 150 | May May |
-| 460 | 149 | Lizzie Marie |
-| 461 | 149 | Daring Rotator |
-| 462 | 149 | Teresa Longwell |
-| 463 | 149 | Tyler Bechtel |
-| 464 | 147 | Jenny Carrier |
-| 465 | 147 | LaChalle Shay |
+| 458 | 150 | LaChalle Shay |
+| 459 | 150 | Glitzy Rollblock |
+| 460 | 150 | May May |
+| 461 | 149 | Lizzie Marie |
+| 462 | 149 | Daring Rotator |
+| 463 | 149 | Teresa Longwell |
+| 464 | 149 | Tyler Bechtel |
+| 465 | 147 | Jenny Carrier |
 | 466 | 147 | Jazzy Hitter |
 | 467 | 146 | Jen Robinson |
 | 468 | 146 | Elizabeth Blankenship |

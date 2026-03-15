@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-15 08:44:42 UTC
+# Standings for team3 as of 2026-03-15 08:45:20 UTC
 
 **Total Participants:** 3368
 
@@ -420,8 +420,8 @@
 | 412 | 251 | J Ro |
 | 413 | 250 | Tipsy Patternbuilder |
 | 414 | 249 | GiGi |
-| 415 | 248 | Block head |
-| 416 | 248 | Nicki Vogus |
+| 415 | 248 | Nicki Vogus |
+| 416 | 248 | Block head |
 | 417 | 248 | Nerdy Tile |
 | 418 | 247 | Annie Kim |
 | 419 | 247 | Rona Fritzinger |
@@ -444,8 +444,8 @@
 | 436 | 240 | .running. |
 | 437 | 240 | Rechell Johnson |
 | 438 | 240 | SkipTheSadSauce |
-| 439 | 240 | Michelle Ramirez |
-| 440 | 240 | Sandi Tracey Richards |
+| 439 | 240 | Sandi Tracey Richards |
+| 440 | 240 | Michelle Ramirez |
 | 441 | 239 | Trilliad |
 | 442 | 238 | Chaz Duncan |
 | 443 | 238 | Wisely Samantha |
@@ -478,14 +478,14 @@
 | 470 | 224 | Swanky Pattern |
 | 471 | 224 | Slinky Roll |
 | 472 | 223 | Shelly Garay |
-| 473 | 222 | Trodogg |
-| 474 | 222 | Misty Lynn Callahan |
-| 475 | 222 | Leticia Werner |
-| 476 | 221 | Lenora Price |
-| 477 | 221 | Turk Montana |
-| 478 | 220 | Jolly Brickster |
-| 479 | 220 | Kelly Brenzil-Fewkes |
-| 480 | 219 | Heather Renee Brown |
+| 473 | 223 | Heather Renee Brown |
+| 474 | 222 | Trodogg |
+| 475 | 222 | Misty Lynn Callahan |
+| 476 | 222 | Leticia Werner |
+| 477 | 221 | Lenora Price |
+| 478 | 221 | Turk Montana |
+| 479 | 220 | Jolly Brickster |
+| 480 | 220 | Kelly Brenzil-Fewkes |
 | 481 | 219 | Sarah Morrissey |
 | 482 | 217 | Danielle R LP |
 | 483 | 217 | Daniel Regiani |
@@ -554,26 +554,26 @@
 | 546 | 189 | Amber Skolmori |
 | 547 | 188 | MommaBear |
 | 548 | 188 | Shiny Match |
-| 549 | 188 | P$$$ |
-| 550 | 187 | Raycheen Guy |
-| 551 | 187 | Christina Marie Beall-Schmidt |
-| 552 | 187 | Dottie Turbeville Creel |
-| 553 | 187 | Emily Barbour |
-| 554 | 187 | Lillian Mehler |
-| 555 | 186 | Amy Richard |
-| 556 | 186 | Shellyann Bond |
-| 557 | 186 | Brittney Ann |
-| 558 | 186 | Jennifer Rose Stautzenberger |
-| 559 | 186 | Lori Sobolesky |
-| 560 | 185 | Alicia J Rodriguez |
-| 561 | 185 | Christine Maximo |
-| 562 | 185 | Charles McVay |
-| 563 | 185 | Janet Brown |
-| 564 | 184 | Frisky Balance |
-| 565 | 184 | Jazzmen Hollaman |
-| 566 | 184 | Kerri Miller |
-| 567 | 184 | Rhiannon Holmes |
-| 568 | 183 | Eden Sharp |
+| 549 | 188 | Eden Sharp |
+| 550 | 188 | P$$$ |
+| 551 | 187 | Raycheen Guy |
+| 552 | 187 | Christina Marie Beall-Schmidt |
+| 553 | 187 | Dottie Turbeville Creel |
+| 554 | 187 | Emily Barbour |
+| 555 | 187 | Lillian Mehler |
+| 556 | 186 | Amy Richard |
+| 557 | 186 | Shellyann Bond |
+| 558 | 186 | Brittney Ann |
+| 559 | 186 | Jennifer Rose Stautzenberger |
+| 560 | 186 | Lori Sobolesky |
+| 561 | 185 | Alicia J Rodriguez |
+| 562 | 185 | Christine Maximo |
+| 563 | 185 | Charles McVay |
+| 564 | 185 | Janet Brown |
+| 565 | 184 | Frisky Balance |
+| 566 | 184 | Jazzmen Hollaman |
+| 567 | 184 | Kerri Miller |
+| 568 | 184 | Rhiannon Holmes |
 | 569 | 183 | ezbrizy68 |
 | 570 | 183 | Tina |
 | 571 | 183 | Jess |
