@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-15 06:54:42 UTC
+# Standings for team3 as of 2026-03-15 06:55:20 UTC
 
 **Total Participants:** 3330
 
@@ -338,18 +338,18 @@
 | 330 | 299 | Sassy Column |
 | 331 | 297 | Harley Scot Cederquist |
 | 332 | 297 | Lisa Rachelle Blackmonson |
-| 333 | 296 | Xela |
-| 334 | 295 | Yup |
-| 335 | 294 | Lucy Lu Green |
-| 336 | 293 | Nubian1 |
-| 337 | 293 | Stephen-Sheri Commo |
-| 338 | 292 | Kayla Jo Piper |
-| 339 | 291 | Tim Smolen |
-| 340 | 291 | LadybugChaos |
-| 341 | 290 | Elizabeth Charles |
-| 342 | 289 | Monica Bernal |
-| 343 | 288 | Xarandom |
-| 344 | 287 | Reyann Martin |
+| 333 | 297 | Stephen-Sheri Commo |
+| 334 | 296 | Xela |
+| 335 | 295 | Yup |
+| 336 | 294 | Lucy Lu Green |
+| 337 | 293 | Nubian1 |
+| 338 | 292 | Reyann Martin |
+| 339 | 292 | Kayla Jo Piper |
+| 340 | 291 | Tim Smolen |
+| 341 | 291 | LadybugChaos |
+| 342 | 290 | Elizabeth Charles |
+| 343 | 289 | Monica Bernal |
+| 344 | 288 | Xarandom |
 | 345 | 285 | Twisty Dashgrid |
 | 346 | 285 | Valley Valentino |
 | 347 | 284 | Speedy Snaplink |
@@ -364,8 +364,8 @@
 | 356 | 275 | Saucy Buildout |
 | 357 | 275 | E.J. Wallace |
 | 358 | 275 | Snappy Gridclear |
-| 359 | 273 | Phoenyx Tyger |
-| 360 | 273 | Meowsa |
+| 359 | 273 | Meowsa |
+| 360 | 273 | Phoenyx Tyger |
 | 361 | 272 | Matt Josephs |
 | 362 | 271 | Tma |
 | 363 | 271 | Christopherk |
@@ -1909,28 +1909,28 @@
 | 1901 | 45 | Kasandra Giamporcaro |
 | 1902 | 45 | Tipsy Curver |
 | 1903 | 45 | Kia Jenae |
-| 1904 | 45 | gris |
-| 1905 | 45 | devinemama |
-| 1906 | 45 | Kimberly |
+| 1904 | 45 | devinemama |
+| 1905 | 45 | Katheline Lazo Luizaga |
+| 1906 | 45 | Brooke Heinz |
 | 1907 | 45 | CàrMel D'liTe |
-| 1908 | 45 | Brooke Heinz |
-| 1909 | 45 | Katheline Lazo Luizaga |
+| 1908 | 45 | gris |
+| 1909 | 45 | Kimberly |
 | 1910 | 44 | Kareem Senises |
-| 1911 | 44 | Penny Nunnery Overton |
-| 1912 | 44 | Sheila |
-| 1913 | 44 | Krystal Douglas |
-| 1914 | 44 | Speedy Swipe |
-| 1915 | 44 | Ryann Moser |
-| 1916 | 44 | Arcamike Lead |
-| 1917 | 44 | Tmite |
-| 1918 | 44 | Fatima Jones |
-| 1919 | 44 | Brittany Wheeler |
-| 1920 | 44 | Jay Storm |
-| 1921 | 44 | Twisty Zone |
+| 1911 | 44 | Jay Storm |
+| 1912 | 44 | Arcamike Lead |
+| 1913 | 44 | BeeBee12 |
+| 1914 | 44 | Fatima Jones |
+| 1915 | 44 | Tmite |
+| 1916 | 44 | Ryann Moser |
+| 1917 | 44 | Speedy Swipe |
+| 1918 | 44 | Krystal Douglas |
+| 1919 | 44 | Sheila |
+| 1920 | 44 | Penny Nunnery Overton |
+| 1921 | 44 | Brittany Wheeler |
 | 1922 | 44 | Wendy Bunn |
-| 1923 | 44 | Estrella Nataly Guzman |
+| 1923 | 44 | Twisty Zone |
 | 1924 | 44 | Kayla Lewis |
-| 1925 | 44 | BeeBee12 |
+| 1925 | 44 | Estrella Nataly Guzman |
 | 1926 | 44 | SAB |
 | 1927 | 44 | Loopy Twist |
 | 1928 | 44 | Hoppy Brickline |
@@ -1944,36 +1944,36 @@
 | 1936 | 43 | Satoshi N. |
 | 1937 | 43 | Melissa Blackburn |
 | 1938 | 43 | Brittanny Taylor |
-| 1939 | 43 | Bethie |
+| 1939 | 43 | Tim Sidebottom |
 | 1940 | 43 | mar |
-| 1941 | 43 | Bouncy Linkroll |
-| 1942 | 43 | Shilo Ziemer |
-| 1943 | 43 | Aimeeee |
-| 1944 | 43 | Jessica Harn |
-| 1945 | 43 | Tim Sidebottom |
-| 1946 | 43 | Lively Clusterbuilder |
+| 1941 | 43 | Bethie |
+| 1942 | 43 | Bouncy Linkroll |
+| 1943 | 43 | Shilo Ziemer |
+| 1944 | 43 | Aimeeee |
+| 1945 | 43 | Jessica Harn |
+| 1946 | 43 | Giddy Blockmatch |
 | 1947 | 43 | Jazzmine Rios |
 | 1948 | 43 | Kim Andrews |
 | 1949 | 43 | Max McKenzie |
 | 1950 | 43 | Bri Valeda |
 | 1951 | 43 | Kay |
 | 1952 | 43 | Christina Anderson |
-| 1953 | 43 | Giddy Blockmatch |
+| 1953 | 43 | Lively Clusterbuilder |
 | 1954 | 43 | Tim Galle |
 | 1955 | 43 | Lateria C. |
 | 1956 | 43 | Jon Gardner |
 | 1957 | 43 | Chummy Crasher |
 | 1958 | 43 | Amelia Dennis |
-| 1959 | 42 | Crystal Widmer Miller |
-| 1960 | 42 | Pahuni Aggarwal |
+| 1959 | 43 | Wendell Hunt |
+| 1960 | 42 | Crystal Widmer Miller |
 | 1961 | 42 | Stacy Nicole Reed |
-| 1962 | 42 | Dawne Bailey |
+| 1962 | 42 | Pahuni Aggarwal |
 | 1963 | 42 | Speedy Tetriblast |
-| 1964 | 42 | Linda Flowers |
-| 1965 | 42 | Freda |
-| 1966 | 42 | Plucky Ziggy |
-| 1967 | 42 | Twinkletoes |
-| 1968 | 42 | Wendell Hunt |
+| 1964 | 42 | Dawne Bailey |
+| 1965 | 42 | Linda Flowers |
+| 1966 | 42 | Freda |
+| 1967 | 42 | Plucky Ziggy |
+| 1968 | 42 | Twinkletoes |
 | 1969 | 42 | Zany Slam |
 | 1970 | 42 | Twisty Brickzone |
 | 1971 | 42 | Lee Wojcik |

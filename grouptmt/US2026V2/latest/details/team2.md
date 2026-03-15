@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 06:54:42 UTC
+# Standings for team2 as of 2026-03-15 06:55:20 UTC
 
 **Total Participants:** 2140
 
@@ -100,10 +100,10 @@
 | 92 | 820 | Andrey Sharov |
 | 93 | 803 | Ultramarine |
 | 94 | 796 | sweet lil miss |
-| 95 | 788 | Jennifer Golub |
-| 96 | 784 | Robert Martinez |
-| 97 | 764 | Adrienne Fisher |
-| 98 | 759 | p3ttyboop |
+| 95 | 789 | p3ttyboop |
+| 96 | 788 | Jennifer Golub |
+| 97 | 784 | Robert Martinez |
+| 98 | 764 | Adrienne Fisher |
 | 99 | 756 | John Matson |
 | 100 | 748 | Khalysta |
 | 101 | 744 | Jenny Derby |
@@ -814,48 +814,48 @@
 | 806 | 77 | Danielle Barker |
 | 807 | 77 | Glitzy Towerfit |
 | 808 | 77 | Poppy Matchclear |
-| 809 | 77 | Jam4 |
-| 810 | 77 | Lela Berklund |
+| 809 | 77 | Lela Berklund |
+| 810 | 77 | Jai Sweetz |
 | 811 | 77 | Phanatic2008 |
-| 812 | 77 | Trouble |
-| 813 | 77 | Sarah Somers Gray |
-| 814 | 77 | Stephany Patton |
-| 815 | 76 | Ariel |
-| 816 | 76 | Snazzy Cascade |
-| 817 | 76 | KT CAT |
+| 812 | 77 | Stephany Patton |
+| 813 | 77 | Trouble |
+| 814 | 77 | Jam4 |
+| 815 | 77 | Sarah Somers Gray |
+| 816 | 76 | KT CAT |
+| 817 | 76 | Ariel |
 | 818 | 76 | Ruffrider27 |
-| 819 | 76 | LeNae TwoBarbie McEachin |
-| 820 | 75 | Esme |
-| 821 | 75 | Lamarr Drayton |
-| 822 | 75 | Bubbly Blockmatch |
-| 823 | 75 | Chris Leasure |
+| 819 | 76 | Snazzy Cascade |
+| 820 | 76 | LeNae TwoBarbie McEachin |
+| 821 | 75 | Esme |
+| 822 | 75 | Lamarr Drayton |
+| 823 | 75 | Bubbly Blockmatch |
 | 824 | 75 | Lab2dablock |
 | 825 | 75 | 1MadCat |
-| 826 | 75 | Goofy Block |
-| 827 | 75 | Zesty Balancefit |
-| 828 | 75 | Angie Jacobs |
+| 826 | 75 | Zesty Balancefit |
+| 827 | 75 | Angie Jacobs |
+| 828 | 75 | Goofy Block |
 | 829 | 75 | Briaa Williams |
-| 830 | 74 | Circuit8 |
+| 830 | 75 | Chris Leasure |
 | 831 | 74 | Elegant banana |
-| 832 | 74 | brii |
-| 833 | 74 | Ryan LaCasse |
-| 834 | 74 | Plucky Rollblock |
-| 835 | 73 | Robert Benjamin |
-| 836 | 73 | Mango |
-| 837 | 73 | Miranda Taylor |
-| 838 | 73 | Amanda Martinez |
-| 839 | 73 | Casandra Alisa Rocker |
-| 840 | 73 | Hoppy Match |
-| 841 | 73 | Brittney Marie Wyrick |
+| 832 | 74 | Circuit8 |
+| 833 | 74 | brii |
+| 834 | 74 | Ryan LaCasse |
+| 835 | 74 | Plucky Rollblock |
+| 836 | 73 | Robert Benjamin |
+| 837 | 73 | Mango |
+| 838 | 73 | Miranda Taylor |
+| 839 | 73 | Brittney Marie Wyrick |
+| 840 | 73 | Casandra Alisa Rocker |
+| 841 | 73 | Hoppy Match |
 | 842 | 73 | Kenerria Danielle |
-| 843 | 73 | Comedian Gdane |
-| 844 | 73 | Chummy Strikerbuilder |
-| 845 | 73 | Jai Sweetz |
+| 843 | 73 | Amanda Martinez |
+| 844 | 73 | Comedian Gdane |
+| 845 | 73 | Chummy Strikerbuilder |
 | 846 | 73 | Mel Thomas-Young |
 | 847 | 73 | LaQuetta Faith Hines |
 | 848 | 72 | blockbustinbecky |
-| 849 | 72 | Laura Harrington |
-| 850 | 72 | Angela Gay |
+| 849 | 72 | Angela Gay |
+| 850 | 72 | Laura Harrington |
 | 851 | 72 | Yo Momma |
 | 852 | 72 | Honu Noste |
 | 853 | 72 | Rachel Eliza |
@@ -869,11 +869,11 @@
 | 861 | 71 | Wendy Gathings |
 | 862 | 71 | Aaron Dill |
 | 863 | 71 | D3TROITB0RN74 |
-| 864 | 71 | Lucretia Candy Ross |
+| 864 | 71 | Ebo Got-Time |
 | 865 | 71 | Mark Norris |
 | 866 | 71 | Tracy Butler |
 | 867 | 71 | Hannah Joplin |
-| 868 | 71 | Ebo Got-Time |
+| 868 | 71 | Lucretia Candy Ross |
 | 869 | 71 | Hasty Ziggy |
 | 870 | 70 | Happy Link |
 | 871 | 70 | John Anderson |
@@ -2032,25 +2032,25 @@
 | 2024 | 9 | Kutabare |
 | 2025 | 9 | Aleea Six |
 | 2026 | 9 | Krysti Rodriguez |
-| 2027 | 9 | Meri |
-| 2028 | 9 | Princess7313 |
+| 2027 | 9 | JustLessie |
+| 2028 | 9 | Meri |
 | 2029 | 9 | Britton Gilreath |
 | 2030 | 9 | Alecia Ann McCarty |
-| 2031 | 8 | latte |
-| 2032 | 8 | Crystal Renee Plush |
-| 2033 | 8 | Psst |
-| 2034 | 8 | Dawn Mansfield |
-| 2035 | 8 | Rach |
-| 2036 | 8 | Genius |
-| 2037 | 8 | Vero |
-| 2038 | 8 | Cryptomeg |
-| 2039 | 8 | Swanky Matchfit |
-| 2040 | 8 | Casey Wilson |
+| 2031 | 9 | Princess7313 |
+| 2032 | 8 | latte |
+| 2033 | 8 | Crystal Renee Plush |
+| 2034 | 8 | Psst |
+| 2035 | 8 | Dawn Mansfield |
+| 2036 | 8 | Rach |
+| 2037 | 8 | Genius |
+| 2038 | 8 | Vero |
+| 2039 | 8 | Cryptomeg |
+| 2040 | 8 | Swanky Matchfit |
 | 2041 | 8 | Joey Albright |
 | 2042 | 8 | Loony Brickmatch |
-| 2043 | 8 | JustLessie |
+| 2043 | 8 | Ponytail113 |
 | 2044 | 8 | Jo |
-| 2045 | 8 | Ponytail113 |
+| 2045 | 8 | Casey Wilson |
 | 2046 | 8 | Sarah Arnold |
 | 2047 | 8 | Shanon Klair |
 | 2048 | 8 | Malikah Coleman |

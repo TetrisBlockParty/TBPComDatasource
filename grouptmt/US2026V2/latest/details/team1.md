@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 06:54:42 UTC
+# Standings for team1 as of 2026-03-15 06:55:20 UTC
 
 **Total Participants:** 2152
 
@@ -291,8 +291,8 @@
 | 283 | 258 | Lively Rollfit |
 | 284 | 256 | KK |
 | 285 | 256 | Ecami |
-| 286 | 254 | Ryan N. Mason |
-| 287 | 254 | Seaira Allen |
+| 286 | 256 | Seaira Allen |
+| 287 | 254 | Ryan N. Mason |
 | 288 | 253 | Trina Gee |
 | 289 | 252 | Liliana Pena |
 | 290 | 252 | Denise Edwards |
