@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 04:11:20 UTC
+# Standings for team2 as of 2026-03-15 04:12:19 UTC
 
 **Total Participants:** 2065
 
@@ -10,7 +10,7 @@
 | 2 | 8270 | Justablock |
 | 3 | 8231 | 赵珞涵 |
 | 4 | 7961 | Kelly Kihe |
-| 5 | 7839 | MelzWrld |
+| 5 | 7858 | MelzWrld |
 | 6 | 5999 | Kristen Sceurman |
 | 7 | 5125 | MzBerry |
 | 8 | 4857 | Dizzy Zonegrid |
@@ -417,8 +417,8 @@
 | 409 | 149 | Lesha |
 | 410 | 149 | Teresa Longwell |
 | 411 | 149 | Daring Rotator |
-| 412 | 149 | Tyler Bechtel |
-| 413 | 147 | Emily Wooden |
+| 412 | 149 | Emily Wooden |
+| 413 | 149 | Tyler Bechtel |
 | 414 | 147 | Jazzy Hitter |
 | 415 | 146 | ElayneTrekand |
 | 416 | 146 | Jen Robinson |
@@ -464,9 +464,9 @@
 | 456 | 135 | Brandy Hayhurst |
 | 457 | 135 | sofiiya the forst |
 | 458 | 135 | Dizzy Brickline |
-| 459 | 134 | Juana |
-| 460 | 133 | LaChalle Shay |
-| 461 | 133 | Paula Little |
+| 459 | 134 | Paula Little |
+| 460 | 134 | Juana |
+| 461 | 133 | LaChalle Shay |
 | 462 | 133 | Trisha Balmer |
 | 463 | 133 | Jeremy Steines |
 | 464 | 133 | Aimee Byrom |
@@ -501,10 +501,10 @@
 | 493 | 125 | 🍏 Green apple |
 | 494 | 124 | Carla Roberson |
 | 495 | 124 | Sonya Gail Goodman |
-| 496 | 123 | Rhonda Milstead |
-| 497 | 123 | Alboo |
-| 498 | 122 | Bold Brickzone |
-| 499 | 122 | Swanky Shiftsnap |
+| 496 | 124 | Alboo |
+| 497 | 123 | Rhonda Milstead |
+| 498 | 122 | Swanky Shiftsnap |
+| 499 | 122 | Bold Brickzone |
 | 500 | 122 | Slinky Align |
 | 501 | 122 | Paula Martin |
 | 502 | 121 | Cozy Shatterblock |
@@ -532,17 +532,17 @@
 | 524 | 117 | Zesty Clear |
 | 525 | 117 | Kris Owls |
 | 526 | 117 | Lilykye |
-| 527 | 117 | Cookie |
-| 528 | 117 | Ryan Martin |
-| 529 | 116 | BuzyBee |
-| 530 | 115 | Robyn Coleman Sadler |
-| 531 | 115 | Pamela Knapp |
-| 532 | 115 | Mike Hromowyk |
-| 533 | 115 | Brady Riessen |
-| 534 | 115 | DeathToBizzle |
-| 535 | 115 | Marc Anthony Lopez |
-| 536 | 114 | Jean Yap |
-| 537 | 114 | Jesse Saville |
+| 527 | 117 | Jesse Saville |
+| 528 | 117 | Cookie |
+| 529 | 117 | Ryan Martin |
+| 530 | 116 | BuzyBee |
+| 531 | 115 | Robyn Coleman Sadler |
+| 532 | 115 | Pamela Knapp |
+| 533 | 115 | Mike Hromowyk |
+| 534 | 115 | Brady Riessen |
+| 535 | 115 | DeathToBizzle |
+| 536 | 115 | Marc Anthony Lopez |
+| 537 | 114 | Jean Yap |
 | 538 | 114 | Kimyatta Cavin |
 | 539 | 113 | Destiny Brady |
 | 540 | 113 | Tiffany Riccio |
@@ -1527,9 +1527,9 @@
 | 1519 | 26 | Joan Du |
 | 1520 | 26 | Elizabeth Miller |
 | 1521 | 26 | Catherine Powers |
-| 1522 | 26 | SuzAnne |
-| 1523 | 26 | Kaela Ferguson |
-| 1524 | 26 | LadiStrigoi |
+| 1522 | 26 | Kaela Ferguson |
+| 1523 | 26 | LadiStrigoi |
+| 1524 | 26 | SuzAnne |
 | 1525 | 26 | Shirley Petty |
 | 1526 | 26 | Rebecca Frango |
 | 1527 | 26 | Marie Elena |
@@ -1548,9 +1548,9 @@
 | 1540 | 25 | Candice Bertie |
 | 1541 | 25 | Cranky Party |
 | 1542 | 25 | Cheyenne Waller |
-| 1543 | 25 | Quirky Dash |
-| 1544 | 25 | Chirpy Zoney |
-| 1545 | 25 | aja |
+| 1543 | 25 | Chirpy Zoney |
+| 1544 | 25 | Quirky Dash |
+| 1545 | 25 | Bettie Amiel |
 | 1546 | 25 | Johnboom317 |
 | 1547 | 25 | Swanky Bridgepiece |
 | 1548 | 25 | Cassie Moeller |
@@ -1558,45 +1558,45 @@
 | 1550 | 25 | Tamika Williams |
 | 1551 | 25 | BigTim042069 |
 | 1552 | 25 | Michelle Gnouilaphi |
-| 1553 | 25 | Jes Lynn |
-| 1554 | 25 | Mindy Stephens |
-| 1555 | 25 | Earl Beamer |
-| 1556 | 25 | Julie Renee Long |
-| 1557 | 25 | Bettie Amiel |
-| 1558 | 24 | Darin Benning |
-| 1559 | 24 | Jude |
-| 1560 | 24 | Annette Henderson |
+| 1553 | 25 | aja |
+| 1554 | 25 | Jes Lynn |
+| 1555 | 25 | Mindy Stephens |
+| 1556 | 25 | Earl Beamer |
+| 1557 | 25 | Julie Renee Long |
+| 1558 | 24 | Ashley Mahala |
+| 1559 | 24 | Annette Henderson |
+| 1560 | 24 | Jude |
 | 1561 | 24 | Boldy Twistfit |
 | 1562 | 24 | Aubrey Campie |
-| 1563 | 24 | Mike Stevens |
-| 1564 | 24 | BouncyAries |
-| 1565 | 24 | Nyaa Love |
-| 1566 | 24 | Malcolm Annias Flamer |
-| 1567 | 23 | Crafty Edgefit |
-| 1568 | 23 | Ashley Grace |
-| 1569 | 23 | Zany Blockfall |
-| 1570 | 23 | Shiny Framezone |
-| 1571 | 23 | James Tankersley |
-| 1572 | 23 | Lien |
-| 1573 | 23 | Kari Thompson Rock |
-| 1574 | 23 | Reese Crystal |
-| 1575 | 23 | Daniella K |
-| 1576 | 23 | Nek |
-| 1577 | 23 | Flashy Slam |
-| 1578 | 23 | Mrkimcheeman |
-| 1579 | 23 | Heather Watson |
-| 1580 | 23 | Kiisha |
-| 1581 | 23 | Leshea L Brandi |
-| 1582 | 23 | Snappy Clusterline |
-| 1583 | 23 | Doodle |
-| 1584 | 23 | Jen Hawes |
-| 1585 | 23 | Lisa |
-| 1586 | 22 | Misty Altice |
-| 1587 | 22 | Ashley Mahala |
-| 1588 | 22 | Betty Boop |
-| 1589 | 22 | Trell Sweeting |
-| 1590 | 22 | Meep |
-| 1591 | 22 | Tre |
+| 1563 | 24 | Darin Benning |
+| 1564 | 24 | Mike Stevens |
+| 1565 | 24 | BouncyAries |
+| 1566 | 24 | Nyaa Love |
+| 1567 | 24 | Malcolm Annias Flamer |
+| 1568 | 23 | Crafty Edgefit |
+| 1569 | 23 | Ashley Grace |
+| 1570 | 23 | Zany Blockfall |
+| 1571 | 23 | Shiny Framezone |
+| 1572 | 23 | James Tankersley |
+| 1573 | 23 | Lien |
+| 1574 | 23 | Kari Thompson Rock |
+| 1575 | 23 | Lisa |
+| 1576 | 23 | Daniella K |
+| 1577 | 23 | Nek |
+| 1578 | 23 | Flashy Slam |
+| 1579 | 23 | Mrkimcheeman |
+| 1580 | 23 | Heather Watson |
+| 1581 | 23 | Kiisha |
+| 1582 | 23 | Leshea L Brandi |
+| 1583 | 23 | Snappy Clusterline |
+| 1584 | 23 | Doodle |
+| 1585 | 23 | Jen Hawes |
+| 1586 | 23 | Reese Crystal |
+| 1587 | 22 | Misty Altice |
+| 1588 | 22 | Trell Sweeting |
+| 1589 | 22 | Betty Boop |
+| 1590 | 22 | Tre |
+| 1591 | 22 | Meep |
 | 1592 | 22 | Abby Bluteau |
 | 1593 | 22 | Playtray |
 | 1594 | 22 | Sweetyam22 |
