@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 07:28:42 UTC
+# Standings for team2 as of 2026-03-15 07:29:19 UTC
 
 **Total Participants:** 2155
 
@@ -59,23 +59,23 @@
 | 51 | 1313 | Jennifer Gartland |
 | 52 | 1309 | Susan Fazio Edwards |
 | 53 | 1293 | Emarie |
-| 54 | 1289 | Snippy Basepiece |
-| 55 | 1287 | Amanda Young |
-| 56 | 1280 | Dreamy Linkbuilder |
-| 57 | 1268 | Alan George LaRage |
-| 58 | 1262 | Richard Butler |
-| 59 | 1252 | Nick Jensen |
-| 60 | 1250 | Peppy Zone |
-| 61 | 1226 | Bubbly Twistpiece |
-| 62 | 1221 | kaijujitsu |
-| 63 | 1206 | pooda |
-| 64 | 1205 | Alyssa Cox |
-| 65 | 1194 | Naomii Seton |
-| 66 | 1165 | Elizabeth Crowder Pelton |
-| 67 | 1152 | Kristina Custer |
-| 68 | 1119 | Goofy Linkmatch |
-| 69 | 1106 | Snippy Clearbuilder |
-| 70 | 1089 | Ultramarine |
+| 54 | 1289 | Ultramarine |
+| 55 | 1289 | Snippy Basepiece |
+| 56 | 1287 | Amanda Young |
+| 57 | 1280 | Dreamy Linkbuilder |
+| 58 | 1268 | Alan George LaRage |
+| 59 | 1262 | Richard Butler |
+| 60 | 1252 | Nick Jensen |
+| 61 | 1250 | Peppy Zone |
+| 62 | 1226 | Bubbly Twistpiece |
+| 63 | 1221 | kaijujitsu |
+| 64 | 1206 | pooda |
+| 65 | 1205 | Alyssa Cox |
+| 66 | 1194 | Naomii Seton |
+| 67 | 1165 | Elizabeth Crowder Pelton |
+| 68 | 1152 | Kristina Custer |
+| 69 | 1119 | Goofy Linkmatch |
+| 70 | 1106 | Snippy Clearbuilder |
 | 71 | 1082 | lovethedana |
 | 72 | 1064 | Sheena Herskovic |
 | 73 | 1015 | TETRIS |
@@ -172,9 +172,9 @@
 | 164 | 429 | Michael H. M. Skropka |
 | 165 | 428 | Jen Roe |
 | 166 | 423 | Jami Howard |
-| 167 | 421 | DJ Bincent |
-| 168 | 420 | Mcg |
-| 169 | 417 | Lisa Neal |
+| 167 | 422 | Lisa Neal |
+| 168 | 421 | DJ Bincent |
+| 169 | 420 | Mcg |
 | 170 | 411 | Dawn Woosley Bowes |
 | 171 | 409 | Lori Schlachter Segui |
 | 172 | 409 | Bia |
@@ -586,39 +586,39 @@
 | 578 | 115 | Mike Hromowyk |
 | 579 | 115 | Destiny Brady |
 | 580 | 115 | Pamela Knapp |
-| 581 | 115 | Marc Anthony Lopez |
-| 582 | 115 | Chiran Xu |
+| 581 | 115 | Chiran Xu |
+| 582 | 115 | Marc Anthony Lopez |
 | 583 | 114 | TiffanyJ |
 | 584 | 113 | Nicci |
-| 585 | 113 | Jumpy Cascadeclear |
-| 586 | 113 | Dandy Towerer |
-| 587 | 113 | Tiffany Riccio |
-| 588 | 113 | Swanky Matchpiece |
-| 589 | 113 | Jenny Carrier |
-| 590 | 113 | Cool Cornerfall |
-| 591 | 112 | Sbs |
-| 592 | 112 | Γωγώ Τσιρόγκα |
-| 593 | 112 | Becki Lynne Corinthos |
-| 594 | 112 | LD1 |
-| 595 | 112 | Giggly Shatterline |
+| 585 | 113 | Dandy Towerer |
+| 586 | 113 | Jumpy Cascadeclear |
+| 587 | 113 | Arkei Luster |
+| 588 | 113 | Tiffany Riccio |
+| 589 | 113 | Swanky Matchpiece |
+| 590 | 113 | Jenny Carrier |
+| 591 | 113 | Cool Cornerfall |
+| 592 | 112 | Sbs |
+| 593 | 112 | Γωγώ Τσιρόγκα |
+| 594 | 112 | Becki Lynne Corinthos |
+| 595 | 112 | LD1 |
 | 596 | 112 | Kate |
-| 597 | 112 | Roxana Shaffer Goff |
-| 598 | 111 | Amy Jur Falk |
-| 599 | 111 | Austin Vice |
-| 600 | 111 | Bethany H. Tunison |
-| 601 | 111 | Giovanni Distefano |
-| 602 | 110 | Taizia Raeshell |
+| 597 | 112 | Giggly Shatterline |
+| 598 | 112 | Roxana Shaffer Goff |
+| 599 | 111 | Amy Jur Falk |
+| 600 | 111 | Austin Vice |
+| 601 | 111 | Bethany H. Tunison |
+| 602 | 111 | Giovanni Distefano |
 | 603 | 110 | Diana Fowler |
-| 604 | 110 | Karent524 |
-| 605 | 110 | Sleepy Otter |
-| 606 | 110 | Robin |
-| 607 | 109 | JZoya  Scott |
+| 604 | 110 | Taizia Raeshell |
+| 605 | 110 | Karent524 |
+| 606 | 110 | Sleepy Otter |
+| 607 | 110 | Robin |
 | 608 | 109 | Scruffy Rose |
-| 609 | 109 | Rigoberto Sanchez Jr. |
-| 610 | 109 | Unicorn |
-| 611 | 108 | Shakena Tuggle |
-| 612 | 108 | nklstl |
-| 613 | 108 | Arkei Luster |
+| 609 | 109 | JZoya  Scott |
+| 610 | 109 | Rigoberto Sanchez Jr. |
+| 611 | 109 | Unicorn |
+| 612 | 108 | Shakena Tuggle |
+| 613 | 108 | nklstl |
 | 614 | 108 | BendersMomma |
 | 615 | 108 | Sarah Somers Gray |
 | 616 | 108 | Funky Stackzone |
@@ -643,22 +643,22 @@
 | 635 | 105 | João Paulo |
 | 636 | 104 | Melanie Corum Reynolds |
 | 637 | 104 | Lilypop |
-| 638 | 104 | Debra D. Herbert |
-| 639 | 104 | Ash Whitley |
-| 640 | 104 | Teri Oehlke |
+| 638 | 104 | Teri Oehlke |
+| 639 | 104 | Debra D. Herbert |
+| 640 | 104 | Ash Whitley |
 | 641 | 103 | S7ephavs |
 | 642 | 103 | Christian Caro |
 | 643 | 103 | Amy Villalpando |
 | 644 | 103 | Michael |
 | 645 | 103 | cat |
-| 646 | 102 | Shaun Talbot |
-| 647 | 102 | Fely |
-| 648 | 102 | Speedy Balance |
-| 649 | 102 | Albany Broadway |
-| 650 | 101 | Cee_me |
-| 651 | 101 | Joe Andrews |
+| 646 | 102 | Cee_me |
+| 647 | 102 | Speedy Balance |
+| 648 | 102 | Albany Broadway |
+| 649 | 102 | Fely |
+| 650 | 102 | Shaun Talbot |
+| 651 | 101 | Kristin Montoya |
 | 652 | 101 | Spunky Balancefit |
-| 653 | 101 | Kristin Montoya |
+| 653 | 101 | Joe Andrews |
 | 654 | 101 | Shawna McKinney |
 | 655 | 100 | Shelly Marie Lloyd |
 | 656 | 100 | NDPeanut |
