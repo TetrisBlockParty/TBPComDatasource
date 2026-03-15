@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-15 07:18:18 UTC
+# Standings for team3 as of 2026-03-15 07:18:43 UTC
 
 **Total Participants:** 3340
 
@@ -82,8 +82,8 @@
 | 74 | 1271 | Kiki |
 | 75 | 1269 | Marlanna Johnson Wells |
 | 76 | 1249 | Christopher J Heaney |
-| 77 | 1243 | Zoe Cross |
-| 78 | 1243 | Snazzy Twist |
+| 77 | 1243 | Snazzy Twist |
+| 78 | 1243 | Zoe Cross |
 | 79 | 1227 | Spunky Holder |
 | 80 | 1224 | Mr§.M€€§€€K |
 | 81 | 1213 | Nicole Muir |
@@ -146,8 +146,8 @@
 | 138 | 830 | Amy Perry |
 | 139 | 829 | Robin Day |
 | 140 | 810 | Irene Arreguin |
-| 141 | 809 | Tamara Huckins |
-| 142 | 809 | Reydoma |
+| 141 | 809 | Reydoma |
+| 142 | 809 | Tamara Huckins |
 | 143 | 806 | Amanda Maize |
 | 144 | 803 | Stephanie Rice |
 | 145 | 802 | Nery García |
