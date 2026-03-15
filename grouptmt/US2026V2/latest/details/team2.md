@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 09:18:40 UTC
+# Standings for team2 as of 2026-03-15 09:19:21 UTC
 
 **Total Participants:** 2176
 
@@ -394,12 +394,12 @@
 | 386 | 184 | Beth Smith |
 | 387 | 183 | Luna |
 | 388 | 182 | Paul Beeman |
-| 389 | 182 | Tatyahna Cameron |
-| 390 | 182 | Flashy Tetriblast |
+| 389 | 182 | Flashy Tetriblast |
+| 390 | 182 | Tatyahna Cameron |
 | 391 | 182 | infinimom |
-| 392 | 181 | Frances Hui |
+| 392 | 181 | Alexis Seath |
 | 393 | 181 | Blockyboyyy |
-| 394 | 181 | Alexis Seath |
+| 394 | 181 | Frances Hui |
 | 395 | 180 | Bea Miles |
 | 396 | 180 | Michelle |
 | 397 | 180 | Blaze Sexton |
@@ -415,8 +415,8 @@
 | 407 | 173 | Hyper Pop |
 | 408 | 173 | Madison Sweere |
 | 409 | 172 | Dineisha Carpenter |
-| 410 | 171 | Sam Hall |
-| 411 | 171 | Shea Ladynick Henderson |
+| 410 | 171 | Shea Ladynick Henderson |
+| 411 | 171 | Sam Hall |
 | 412 | 171 | SigmaWinchester |
 | 413 | 170 | Berling Gil |
 | 414 | 170 | Jimmy Xim |
@@ -424,20 +424,20 @@
 | 416 | 170 | Melissa Boldt |
 | 417 | 169 | Jason McCloy |
 | 418 | 169 | Jeff Lewis |
-| 419 | 169 | Troy |
-| 420 | 169 | Bryanna Whitman |
+| 419 | 169 | Bryanna Whitman |
+| 420 | 169 | Troy |
 | 421 | 168 | Nikki Speer |
 | 422 | 168 | Zesty Link |
-| 423 | 166 | Deborah Potts |
-| 424 | 166 | Nilla |
+| 423 | 166 | Nilla |
+| 424 | 166 | Deborah Potts |
 | 425 | 165 | Joe England |
 | 426 | 165 | Debbie Gerlib-Molinari Leigh |
 | 427 | 165 | Jumpy Filler |
 | 428 | 165 | LaChalle Shay |
 | 429 | 164 | Loony Puzzle |
 | 430 | 163 | Christine Soltis |
-| 431 | 163 | Julia Freeman |
-| 432 | 163 | Mel |
+| 431 | 163 | Mel |
+| 432 | 163 | Julia Freeman |
 | 433 | 162 | Lea Gann |
 | 434 | 162 | Sylvie Lemoine |
 | 435 | 161 | DeathToBizzle |
@@ -450,8 +450,8 @@
 | 442 | 159 | Cheeky Dashy |
 | 443 | 158 | Brittany Backus |
 | 444 | 158 | Porsche' Nicole |
-| 445 | 157 | John De Guzman Sydiongco |
-| 446 | 157 | Frisky Riserbuilder |
+| 445 | 157 | Frisky Riserbuilder |
+| 446 | 157 | John De Guzman Sydiongco |
 | 447 | 156 | Dreamy Snapbuilder |
 | 448 | 156 | SuZee |
 | 449 | 154 | Brandy Hayhurst |
@@ -469,9 +469,9 @@
 | 461 | 150 | Breanna Lemus |
 | 462 | 150 | Tracey Whetstone |
 | 463 | 150 | Brave Fallzone |
-| 464 | 149 | Daring Rotator |
-| 465 | 149 | Teresa Longwell |
-| 466 | 149 | Tyler Bechtel |
+| 464 | 149 | Tyler Bechtel |
+| 465 | 149 | Daring Rotator |
+| 466 | 149 | Teresa Longwell |
 | 467 | 149 | Lizzie Marie |
 | 468 | 147 | Jazzy Hitter |
 | 469 | 147 | NoShoesNation |
@@ -481,37 +481,37 @@
 | 473 | 146 | Jen Robinson |
 | 474 | 145 | Steady Treal |
 | 475 | 145 | Goofy Towerer |
-| 476 | 145 | Kelly Williams |
-| 477 | 145 | Paula Little |
+| 476 | 145 | Paula Little |
+| 477 | 145 | Kelly Williams |
 | 478 | 144 | JTH |
 | 479 | 144 | Brandon Maxey |
 | 480 | 144 | Juana |
 | 481 | 144 | Mandi Mayweather |
 | 482 | 144 | Marc Abney |
 | 483 | 144 | Wishabishwood |
-| 484 | 142 | Kirsten Hanes Gasper |
-| 485 | 142 | Montiette Mcglown |
+| 484 | 143 | Daniel Moore |
+| 485 | 142 | Nicole Lynnette Mahurin |
 | 486 | 142 | Prette Qui |
-| 487 | 142 | Nicole Lynnette Mahurin |
-| 488 | 141 | Mona Sharma |
-| 489 | 141 | MrMais89 |
-| 490 | 141 | Tee Jaleesa |
-| 491 | 141 | Jessica Petersen |
-| 492 | 141 | Chiran Xu |
-| 493 | 140 | Quitito1014 |
-| 494 | 140 | Tanya Abernathy Jackson |
-| 495 | 140 | Zany Dashgrid |
-| 496 | 140 | Rackemwillie34 |
-| 497 | 140 | Spicy Strikerbuilder |
-| 498 | 140 | Brenda Lee Vander Molen |
-| 499 | 140 | Giggity boots |
-| 500 | 140 | Daniel Moore |
-| 501 | 140 | Theodore Vincent |
-| 502 | 140 | Joy Young |
-| 503 | 140 | Paula Marcus Delsigne |
-| 504 | 139 | Kristi Riley |
-| 505 | 139 | bigdad |
-| 506 | 139 | Lively Builderfit |
+| 487 | 142 | Montiette Mcglown |
+| 488 | 142 | Kirsten Hanes Gasper |
+| 489 | 141 | Jessica Petersen |
+| 490 | 141 | Chiran Xu |
+| 491 | 141 | MrMais89 |
+| 492 | 141 | Tee Jaleesa |
+| 493 | 141 | Mona Sharma |
+| 494 | 140 | Theodore Vincent |
+| 495 | 140 | Joy Young |
+| 496 | 140 | Paula Marcus Delsigne |
+| 497 | 140 | Quitito1014 |
+| 498 | 140 | Tanya Abernathy Jackson |
+| 499 | 140 | Zany Dashgrid |
+| 500 | 140 | Rackemwillie34 |
+| 501 | 140 | Spicy Strikerbuilder |
+| 502 | 140 | Brenda Lee Vander Molen |
+| 503 | 140 | Giggity boots |
+| 504 | 139 | bigdad |
+| 505 | 139 | Lively Builderfit |
+| 506 | 139 | Kristi Riley |
 | 507 | 138 | Christina Freeman |
 | 508 | 138 | Slinky Linkgrid |
 | 509 | 137 | Helen |
@@ -1937,12 +1937,12 @@
 | 1929 | 13 | Dreamy Brickroll |
 | 1930 | 13 | BarkyRoot |
 | 1931 | 13 | Patricia Mosso |
-| 1932 | 13 | Corgi Mama |
-| 1933 | 13 | Shiny Zonepiece |
-| 1934 | 13 | bestme |
-| 1935 | 13 | Chill Stack |
-| 1936 | 13 | Frilly Clearpiece |
-| 1937 | 13 | Spencer John |
+| 1932 | 13 | Chill Stack |
+| 1933 | 13 | Spencer John |
+| 1934 | 13 | Shiny Zonepiece |
+| 1935 | 13 | Corgi Mama |
+| 1936 | 13 | bestme |
+| 1937 | 13 | Frilly Clearpiece |
 | 1938 | 13 | Christopher Mastropietro |
 | 1939 | 13 | Kristin Smith |
 | 1940 | 13 | MsThick Ness |
@@ -1951,30 +1951,30 @@
 | 1943 | 12 | Robyn Miller |
 | 1944 | 12 | Nicole Henely |
 | 1945 | 12 | JnnGin |
-| 1946 | 12 | Brave Matchfit |
-| 1947 | 12 | Matthew Fedor |
-| 1948 | 12 | Katastrophy |
-| 1949 | 12 | Marcello Dominik |
-| 1950 | 12 | Maizin |
-| 1951 | 12 | Oheema |
-| 1952 | 12 | Juanita Quezaire |
-| 1953 | 12 | Ti Pi |
-| 1954 | 12 | Nerdy Clear |
-| 1955 | 12 | Epic Kitten |
-| 1956 | 12 | Valerie Eileen |
-| 1957 | 12 | Gary Teeters |
-| 1958 | 12 | Loopy Lee |
-| 1959 | 12 | Misty |
-| 1960 | 12 | notsobestlife |
-| 1961 | 12 | Daniel N Phian |
-| 1962 | 12 | Nugget |
-| 1963 | 12 | skunshine |
-| 1964 | 12 | Shandi Jones |
-| 1965 | 11 | Katherine Martin |
-| 1966 | 11 | Joey Bartony |
-| 1967 | 11 | JollyCrusher |
+| 1946 | 12 | Jennifer Zavala |
+| 1947 | 12 | Brave Matchfit |
+| 1948 | 12 | Marcello Dominik |
+| 1949 | 12 | Matthew Fedor |
+| 1950 | 12 | Katastrophy |
+| 1951 | 12 | Maizin |
+| 1952 | 12 | Oheema |
+| 1953 | 12 | Juanita Quezaire |
+| 1954 | 12 | Loopy Lee |
+| 1955 | 12 | Ti Pi |
+| 1956 | 12 | Nerdy Clear |
+| 1957 | 12 | Epic Kitten |
+| 1958 | 12 | Valerie Eileen |
+| 1959 | 12 | Gary Teeters |
+| 1960 | 12 | Misty |
+| 1961 | 12 | notsobestlife |
+| 1962 | 12 | Daniel N Phian |
+| 1963 | 12 | Nugget |
+| 1964 | 12 | skunshine |
+| 1965 | 12 | Shandi Jones |
+| 1966 | 11 | JollyCrusher |
+| 1967 | 11 | Joey Bartony |
 | 1968 | 11 | Cheyenne Taylor |
-| 1969 | 11 | Jennifer Zavala |
+| 1969 | 11 | Katherine Martin |
 | 1970 | 11 | Wanda Yvette Daniels |
 | 1971 | 11 | Corrie Belle Redfoot Manning |
 | 1972 | 11 | Luna Serrano |
