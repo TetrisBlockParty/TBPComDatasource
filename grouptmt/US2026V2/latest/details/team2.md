@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 10:45:21 UTC
+# Standings for team2 as of 2026-03-15 10:46:40 UTC
 
 **Total Participants:** 2195
 
@@ -58,7 +58,7 @@
 | 50 | 1467 | Elizabeth Crowder Pelton |
 | 51 | 1461 | Erica Davis |
 | 52 | 1419 | Elizabeth Sallas |
-| 53 | 1330 | Bubbly Twistpiece |
+| 53 | 1334 | Bubbly Twistpiece |
 | 54 | 1314 | Becky McClure |
 | 55 | 1313 | Jennifer Gartland |
 | 56 | 1309 | Susan Fazio Edwards |
@@ -132,24 +132,24 @@
 | 124 | 631 | Elissa S-k |
 | 125 | 630 | Kristy Monk |
 | 126 | 609 | Anna Faulkner |
-| 127 | 604 | Cw |
-| 128 | 603 | Liss Lint |
-| 129 | 600 | Sheena Harris |
-| 130 | 599 | Eckoman518 |
-| 131 | 594 | LolaSmilez |
-| 132 | 587 | Minxy |
-| 133 | 586 | Giggly Clearzone |
-| 134 | 582 | Chassy Horton |
-| 135 | 580 | CSOTYS |
-| 136 | 579 | Tess Shaheen |
-| 137 | 572 | Mary Reeves |
-| 138 | 570 | Dane Roy |
-| 139 | 562 | Looloo |
-| 140 | 561 | Shelly Babie |
-| 141 | 558 | DanesMama |
-| 142 | 558 | Gracie Back |
-| 143 | 553 | Marc |
-| 144 | 548 | Dapper Gridclear |
+| 127 | 607 | Dapper Gridclear |
+| 128 | 604 | Cw |
+| 129 | 603 | Liss Lint |
+| 130 | 600 | Sheena Harris |
+| 131 | 599 | Eckoman518 |
+| 132 | 594 | LolaSmilez |
+| 133 | 587 | Minxy |
+| 134 | 586 | Giggly Clearzone |
+| 135 | 582 | Chassy Horton |
+| 136 | 580 | CSOTYS |
+| 137 | 579 | Tess Shaheen |
+| 138 | 575 | Dane Roy |
+| 139 | 572 | Mary Reeves |
+| 140 | 562 | Looloo |
+| 141 | 561 | Shelly Babie |
+| 142 | 558 | DanesMama |
+| 143 | 558 | Gracie Back |
+| 144 | 553 | Marc |
 | 145 | 547 | Carson Goldminc |
 | 146 | 538 | Deb Wasano |
 | 147 | 520 | Foxy |
@@ -333,8 +333,8 @@
 | 325 | 226 | Arisvet Garcia |
 | 326 | 226 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 327 | 225 | Zippy Zoney |
-| 328 | 223 | Stacy Evans |
-| 329 | 223 | Dondon Cheng |
+| 328 | 223 | Dondon Cheng |
+| 329 | 223 | Stacy Evans |
 | 330 | 222 | Mighty Zone |
 | 331 | 222 | Zippy Tile |
 | 332 | 222 | Cari Hogan |
@@ -353,43 +353,43 @@
 | 345 | 211 | Candy Brooks |
 | 346 | 211 | Cleopatra Daniels |
 | 347 | 210 | Isabella Blanco |
-| 348 | 209 | HarleyJane |
-| 349 | 209 | Tig’o Biggie |
+| 348 | 209 | Tig’o Biggie |
+| 349 | 209 | HarleyJane |
 | 350 | 208 | Jenn Dandle |
-| 351 | 207 | Smiley Match |
-| 352 | 207 | Brenda Bell |
-| 353 | 206 | Mike Davis |
-| 354 | 206 | Desi Desporte |
+| 351 | 207 | Brenda Bell |
+| 352 | 207 | Smiley Match |
+| 353 | 206 | Desi Desporte |
+| 354 | 206 | Mike Davis |
 | 355 | 205 | Cynthia Prouse |
 | 356 | 203 | Giddy Gridmatch |
 | 357 | 203 | Nicole McLean |
 | 358 | 202 | Dally Hunt |
-| 359 | 201 | Eugenio Moquete |
-| 360 | 201 | Tash Bell |
+| 359 | 201 | Tash Bell |
+| 360 | 201 | Shelbs |
 | 361 | 201 | Michael E Whitejr |
-| 362 | 201 | JustYvette IsFine |
-| 363 | 201 | Ashley Leonard |
-| 364 | 201 | Mona Sharma |
-| 365 | 200 | Nerdy Blockpiece |
-| 366 | 200 | Rhonda Prince |
-| 367 | 200 | Trice Sodames |
+| 362 | 201 | Eugenio Moquete |
+| 363 | 201 | JustYvette IsFine |
+| 364 | 201 | Ashley Leonard |
+| 365 | 201 | Mona Sharma |
+| 366 | 200 | Nerdy Blockpiece |
+| 367 | 200 | Rhonda Prince |
 | 368 | 200 | Tammi Crnza |
-| 369 | 199 | David V. Bowers |
-| 370 | 199 | titrissss |
-| 371 | 199 | Chummy Linkgrid |
-| 372 | 198 | Luna |
-| 373 | 197 | Jennifer Osmer Carruth |
-| 374 | 196 | Loony Snapbuild |
-| 375 | 196 | Kristina Hill Perez |
-| 376 | 196 | Colin Morgan |
+| 369 | 200 | Trice Sodames |
+| 370 | 199 | David V. Bowers |
+| 371 | 199 | titrissss |
+| 372 | 199 | Chummy Linkgrid |
+| 373 | 198 | Luna |
+| 374 | 197 | Jennifer Osmer Carruth |
+| 375 | 196 | Loony Snapbuild |
+| 376 | 196 | Kristina Hill Perez |
 | 377 | 196 | Darlene Simmons |
-| 378 | 195 | Melissa M Wolfe |
-| 379 | 195 | De Yske |
-| 380 | 195 | Crystal Brown-Miles |
-| 381 | 195 | João Paulo |
-| 382 | 194 | Lora |
-| 383 | 191 | Amanda Thomas |
-| 384 | 191 | Shelbs |
+| 378 | 196 | Colin Morgan |
+| 379 | 195 | Melissa M Wolfe |
+| 380 | 195 | De Yske |
+| 381 | 195 | Crystal Brown-Miles |
+| 382 | 195 | João Paulo |
+| 383 | 194 | Lora |
+| 384 | 191 | Amanda Thomas |
 | 385 | 191 | Ramona Marie Eruera |
 | 386 | 190 | Aobregon01 |
 | 387 | 190 | LaTonya Myers |
@@ -2082,55 +2082,55 @@
 | 2074 | 9 | mythicmoth |
 | 2075 | 9 | Symore Buttz |
 | 2076 | 9 | Erica Parker |
-| 2077 | 9 | Bubbly Gridlock |
-| 2078 | 9 | Katie Curr |
-| 2079 | 9 | Chipper Smasher |
+| 2077 | 9 | Katie Curr |
+| 2078 | 9 | Chipper Smasher |
+| 2079 | 9 | Princess7313 |
 | 2080 | 9 | Tyler Whitley |
 | 2081 | 9 | Goofy Snap |
-| 2082 | 9 | Mike VanTress |
-| 2083 | 9 | Belle |
+| 2082 | 9 | Aleea Six |
+| 2083 | 9 | Amanda Howard |
 | 2084 | 9 | Meri |
-| 2085 | 9 | Aleea Six |
-| 2086 | 9 | Amanda Howard |
-| 2087 | 9 | Princess7313 |
+| 2085 | 9 | Bubbly Gridlock |
+| 2086 | 9 | Belle |
+| 2087 | 9 | Mike VanTress |
 | 2088 | 9 | Lauressia MsLovaba Neil |
 | 2089 | 9 | Allen Anthony Rollins |
 | 2090 | 9 | Lorie Nugent Ruzich |
 | 2091 | 8 | Tessa |
 | 2092 | 8 | Danny Chavira |
 | 2093 | 8 | Shannon Grisson |
-| 2094 | 8 | Casey Wilson |
+| 2094 | 8 | Swanky Matchfit |
 | 2095 | 8 | Cami Jones |
-| 2096 | 8 | Psst |
-| 2097 | 8 | latte |
+| 2096 | 8 | Zakk Bennett |
+| 2097 | 8 | Genius |
 | 2098 | 8 | Zabrina E |
-| 2099 | 8 | Dizzy Piececlear |
-| 2100 | 8 | Genius |
-| 2101 | 8 | Dawn Mansfield |
-| 2102 | 8 | Zakk Bennett |
-| 2103 | 8 | Swanky Matchfit |
-| 2104 | 8 | Snippy Snapgrid |
-| 2105 | 8 | Rach |
-| 2106 | 8 | Loony Brickmatch |
-| 2107 | 8 | Mary Ann Pabukis |
-| 2108 | 8 | Crystal Renee Plush |
-| 2109 | 8 | Jonathan Myers |
-| 2110 | 8 | Jo |
-| 2111 | 8 | Shanon Klair |
-| 2112 | 8 | Marie Shroyer |
-| 2113 | 8 | Cryptomeg |
-| 2114 | 8 | QueenSheida |
-| 2115 | 8 | Ponytail113 |
-| 2116 | 8 | Gracie Ann Taylor |
-| 2117 | 8 | Cheeky Blockroll |
-| 2118 | 8 | Vero |
-| 2119 | 8 | Hosifa Yasin |
-| 2120 | 8 | Freddie Rodriguez |
-| 2121 | 8 | Sarah Arnold |
-| 2122 | 7 | Jumpy Fitblock |
-| 2123 | 7 | mala |
-| 2124 | 7 | Ace |
-| 2125 | 7 | Breezy Cluster |
+| 2099 | 8 | Psst |
+| 2100 | 8 | Breezy Cluster |
+| 2101 | 8 | latte |
+| 2102 | 8 | Dizzy Piececlear |
+| 2103 | 8 | Dawn Mansfield |
+| 2104 | 8 | Casey Wilson |
+| 2105 | 8 | Snippy Snapgrid |
+| 2106 | 8 | Rach |
+| 2107 | 8 | Loony Brickmatch |
+| 2108 | 8 | Mary Ann Pabukis |
+| 2109 | 8 | Crystal Renee Plush |
+| 2110 | 8 | Jonathan Myers |
+| 2111 | 8 | Jo |
+| 2112 | 8 | Shanon Klair |
+| 2113 | 8 | Marie Shroyer |
+| 2114 | 8 | Cryptomeg |
+| 2115 | 8 | QueenSheida |
+| 2116 | 8 | Ponytail113 |
+| 2117 | 8 | Gracie Ann Taylor |
+| 2118 | 8 | Cheeky Blockroll |
+| 2119 | 8 | Vero |
+| 2120 | 8 | Hosifa Yasin |
+| 2121 | 8 | Freddie Rodriguez |
+| 2122 | 8 | Sarah Arnold |
+| 2123 | 7 | Jumpy Fitblock |
+| 2124 | 7 | mala |
+| 2125 | 7 | Ace |
 | 2126 | 7 | Peachy Snapmatch |
 | 2127 | 7 | Lil Red |
 | 2128 | 7 | Chilly Gridlock |
