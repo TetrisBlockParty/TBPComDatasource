@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 06:28:15 UTC
+# Standings for team1 as of 2026-03-15 06:28:40 UTC
 
 **Total Participants:** 2144
 
@@ -194,23 +194,23 @@
 | 186 | 401 | Marie Shakinah |
 | 187 | 400 | Jessica Sheehan |
 | 188 | 389 | Twisty Snapfit |
-| 189 | 386 | Snippy Piecegrid |
-| 190 | 385 | Jason Cunningham |
-| 191 | 381 | Pamela Marie Tyler |
-| 192 | 380 | Dude |
-| 193 | 379 | Marianne Louise West |
-| 194 | 377 | Lisa Marie Sansom |
-| 195 | 375 | Fancy Ziggy |
-| 196 | 373 | Silly Ziggy |
-| 197 | 373 | Snippy Stacky |
-| 198 | 371 | Chrys Peters |
+| 189 | 386 | Chrys Peters |
+| 190 | 386 | Snippy Piecegrid |
+| 191 | 385 | Jason Cunningham |
+| 192 | 381 | Pamela Marie Tyler |
+| 193 | 380 | Dude |
+| 194 | 379 | Marianne Louise West |
+| 195 | 377 | Lisa Marie Sansom |
+| 196 | 375 | Fancy Ziggy |
+| 197 | 373 | Silly Ziggy |
+| 198 | 373 | Snippy Stacky |
 | 199 | 367 | Crafty Tilebuilder |
 | 200 | 366 | Hannah Carter |
 | 201 | 365 | La'Shonda N Williams |
 | 202 | 362 | Erin Halleman |
 | 203 | 361 | Desiree Jenson |
-| 204 | 360 | Amh |
-| 205 | 360 | Brandy Ridgeway |
+| 204 | 360 | Brandy Ridgeway |
+| 205 | 360 | Amh |
 | 206 | 360 | Scott Napper |
 | 207 | 358 | Tammy Lamb |
 | 208 | 356 | Rennon Scott Wilson |
@@ -465,32 +465,32 @@
 | 457 | 140 | Chris Kelly |
 | 458 | 140 | Vergie Michael |
 | 459 | 140 | Teddy Marshall |
-| 460 | 139 | Kakalina Thayer |
-| 461 | 139 | Swalshy |
-| 462 | 139 | Kay Francois |
+| 460 | 140 | Kay Francois |
+| 461 | 139 | Kakalina Thayer |
+| 462 | 139 | Swalshy |
 | 463 | 138 | MisfitH |
 | 464 | 138 | Ophelia Rae |
 | 465 | 138 | Scott Disedare |
-| 466 | 137 | Spicy Twister |
+| 466 | 137 | Peachy Curvetile |
 | 467 | 137 | Fancy Cascadebuilder |
-| 468 | 137 | Peachy Curvetile |
+| 468 | 137 | Spicy Twister |
 | 469 | 136 | Althea Louise |
-| 470 | 134 | Greenbayfan |
-| 471 | 134 | Yvonne Buie |
-| 472 | 133 | Julie Miller |
-| 473 | 133 | Pheezy |
-| 474 | 133 | Nicole Plummer |
-| 475 | 132 | Jennifer Lynn |
-| 476 | 132 | Christina Rentz-Lane |
-| 477 | 131 | DeJuan Green |
-| 478 | 131 | Megan Treacy |
-| 479 | 131 | Sarah Perry Cook |
-| 480 | 131 | Dizzy Glidebuilder |
+| 470 | 134 | Yvonne Buie |
+| 471 | 134 | Greenbayfan |
+| 472 | 133 | Nicole Plummer |
+| 473 | 133 | Julie Miller |
+| 474 | 133 | Pheezy |
+| 475 | 132 | Christina Rentz-Lane |
+| 476 | 132 | Jennifer Lynn |
+| 477 | 131 | Megan Treacy |
+| 478 | 131 | DeJuan Green |
+| 479 | 131 | Dizzy Glidebuilder |
+| 480 | 131 | Sarah Perry Cook |
 | 481 | 130 | Britters |
 | 482 | 130 | Trevor J Armstrong |
 | 483 | 130 | Chiquita Spears |
-| 484 | 130 | Erin Hodges Plumb |
-| 485 | 130 | Melody Rene |
+| 484 | 130 | Melody Rene |
+| 485 | 130 | Erin Hodges Plumb |
 | 486 | 129 | Karmyst |
 | 487 | 129 | PennyCandee |
 | 488 | 129 | Amanda Pauldo-Ivy |
