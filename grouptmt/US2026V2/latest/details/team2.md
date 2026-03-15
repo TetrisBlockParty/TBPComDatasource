@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 05:42:42 UTC
+# Standings for team2 as of 2026-03-15 05:43:19 UTC
 
 **Total Participants:** 2114
 
@@ -94,10 +94,10 @@
 | 86 | 828 | Topsannah Topsannah |
 | 87 | 824 | Dee Kay |
 | 88 | 820 | Andrey Sharov |
-| 89 | 812 | Chipper Matchclear |
-| 90 | 796 | sweet lil miss |
-| 91 | 788 | Jennifer Golub |
-| 92 | 776 | Peppy Slice |
+| 89 | 816 | Peppy Slice |
+| 90 | 812 | Chipper Matchclear |
+| 91 | 796 | sweet lil miss |
+| 92 | 788 | Jennifer Golub |
 | 93 | 768 | Kristina Custer |
 | 94 | 764 | Adrienne Fisher |
 | 95 | 759 | Robert Martinez |
@@ -834,18 +834,18 @@
 | 826 | 72 | Rhonda Winn Hohman |
 | 827 | 72 | Witty Cascadefit |
 | 828 | 72 | Rachel Eliza |
-| 829 | 72 | Angela Gay |
-| 830 | 72 | Yo Momma |
-| 831 | 72 | Honu Noste |
-| 832 | 72 | Saucy Slide |
-| 833 | 72 | Alexx Anaya |
-| 834 | 71 | Ebo Got-Time |
-| 835 | 71 | Hasty Ziggy |
+| 829 | 72 | Saucy Slide |
+| 830 | 72 | Angela Gay |
+| 831 | 72 | Alexx Anaya |
+| 832 | 72 | Honu Noste |
+| 833 | 72 | Yo Momma |
+| 834 | 71 | Hannah Joplin |
+| 835 | 71 | Ebo Got-Time |
 | 836 | 71 | Tracy Butler |
 | 837 | 71 | Mark Norris |
-| 838 | 71 | Lucretia Candy Ross |
-| 839 | 71 | Hannah Joplin |
-| 840 | 71 | Sarah Somers Gray |
+| 838 | 71 | Sarah Somers Gray |
+| 839 | 71 | Lucretia Candy Ross |
+| 840 | 71 | Hasty Ziggy |
 | 841 | 71 | Wendy Gathings |
 | 842 | 71 | Kiorah Blaze |
 | 843 | 71 | Aaron Dill |
@@ -856,21 +856,21 @@
 | 848 | 70 | Sara Knapp |
 | 849 | 70 | Marcie McLain Dodd |
 | 850 | 70 | Jackie Miller |
-| 851 | 70 | Sunny Blockline |
-| 852 | 70 | Mandy |
-| 853 | 70 | Amanda Colwell |
-| 854 | 70 | Nicole Archuleta |
-| 855 | 70 | Matthew Franklin Sr. |
-| 856 | 70 | Rod Grayll |
-| 857 | 70 | John Anderson |
-| 858 | 70 | Happy Link |
-| 859 | 70 | ZeldaCat |
-| 860 | 70 | Kelly |
-| 861 | 70 | Savvlexx |
-| 862 | 70 | Squiggle Squish |
-| 863 | 69 | Incandescent hatchet fish |
-| 864 | 69 | Frisky Riseclear |
-| 865 | 69 | Timothy Poole |
+| 851 | 70 | Matthew Franklin Sr. |
+| 852 | 70 | Sunny Blockline |
+| 853 | 70 | Mandy |
+| 854 | 70 | ZeldaCat |
+| 855 | 70 | Amanda Colwell |
+| 856 | 70 | John Anderson |
+| 857 | 70 | Happy Link |
+| 858 | 70 | Squiggle Squish |
+| 859 | 70 | Savvlexx |
+| 860 | 70 | Nicole Archuleta |
+| 861 | 70 | Kelly |
+| 862 | 70 | Rod Grayll |
+| 863 | 69 | Frisky Riseclear |
+| 864 | 69 | Timothy Poole |
+| 865 | 69 | Incandescent hatchet fish |
 | 866 | 69 | Jelessa Locklear |
 | 867 | 69 | Chris Jammey |
 | 868 | 69 | Jake Ching |
@@ -883,62 +883,62 @@
 | 875 | 68 | Elizabeth Smith |
 | 876 | 68 | Spicy Patternbuilder |
 | 877 | 68 | Twisty Risebuilder |
-| 878 | 68 | Ariel Whittington |
-| 879 | 68 | Stacey Sanders |
-| 880 | 68 | 00022Denny |
-| 881 | 68 | Amanda Martinez |
-| 882 | 68 | Old Man |
-| 883 | 68 | Snappy McName |
-| 884 | 68 | Jada Tims |
-| 885 | 68 | Jazzy Nat |
-| 886 | 67 | Fely |
-| 887 | 67 | Quirky Rollblock |
-| 888 | 67 | Laura Harrington |
-| 889 | 67 | Shannon Lynn Goddard |
-| 890 | 67 | Allen Spurlock |
-| 891 | 67 | Hyper Shatterbuilder |
-| 892 | 67 | JamMY-YamMy |
-| 893 | 67 | Tipsy Towerpiece |
-| 894 | 67 | Lush Twisterfit |
-| 895 | 67 | Katie Coyle |
-| 896 | 67 | Ieisha Scruggs Webb |
-| 897 | 67 | Chipper Puzzler |
-| 898 | 66 | Haley Bell |
-| 899 | 66 | Zack Theisen |
-| 900 | 66 | Sam Sam |
-| 901 | 66 | Kell Cinn |
-| 902 | 66 | Bobbie Miller |
-| 903 | 66 | rumpadump |
-| 904 | 66 | Karen Usrykitchens |
-| 905 | 66 | Angie Maddox |
-| 906 | 66 | Lively Tiler |
-| 907 | 66 | Nerdy Risebuilder |
-| 908 | 66 | GoblinHatcher |
-| 909 | 66 | Derek Jarvis |
-| 910 | 66 | Chasity Winters |
-| 911 | 65 | Giggy Grid |
-| 912 | 65 | Mighty Slide |
-| 913 | 65 | RicanJesus69 |
-| 914 | 65 | fay |
-| 915 | 65 | Cee_me |
-| 916 | 65 | Lady Love |
-| 917 | 65 | Cheri Rose |
-| 918 | 65 | Miguel Teixeira |
-| 919 | 65 | Daring Spinzone |
-| 920 | 65 | Stephanie Harrington |
-| 921 | 65 | Tamara Cordero |
-| 922 | 64 | Giggly Shiftsnap |
-| 923 | 64 | Kristine Salinas |
-| 924 | 64 | gymjim |
+| 878 | 68 | Mindy Phelps |
+| 879 | 68 | Ariel Whittington |
+| 880 | 68 | Old Man |
+| 881 | 68 | Snappy McName |
+| 882 | 68 | Amanda Martinez |
+| 883 | 68 | Jada Tims |
+| 884 | 68 | Jazzy Nat |
+| 885 | 68 | 00022Denny |
+| 886 | 68 | Stacey Sanders |
+| 887 | 67 | Hyper Shatterbuilder |
+| 888 | 67 | Katie Coyle |
+| 889 | 67 | Quirky Rollblock |
+| 890 | 67 | Lush Twisterfit |
+| 891 | 67 | Laura Harrington |
+| 892 | 67 | Shannon Lynn Goddard |
+| 893 | 67 | Allen Spurlock |
+| 894 | 67 | JamMY-YamMy |
+| 895 | 67 | Tipsy Towerpiece |
+| 896 | 67 | Fely |
+| 897 | 67 | Ieisha Scruggs Webb |
+| 898 | 67 | Chipper Puzzler |
+| 899 | 66 | Haley Bell |
+| 900 | 66 | Zack Theisen |
+| 901 | 66 | Sam Sam |
+| 902 | 66 | Kell Cinn |
+| 903 | 66 | Bobbie Miller |
+| 904 | 66 | Derek Jarvis |
+| 905 | 66 | Lively Tiler |
+| 906 | 66 | rumpadump |
+| 907 | 66 | GoblinHatcher |
+| 908 | 66 | Angie Maddox |
+| 909 | 66 | Karen Usrykitchens |
+| 910 | 66 | Nerdy Risebuilder |
+| 911 | 66 | Chasity Winters |
+| 912 | 65 | Cee_me |
+| 913 | 65 | Mighty Slide |
+| 914 | 65 | Lady Love |
+| 915 | 65 | RicanJesus69 |
+| 916 | 65 | fay |
+| 917 | 65 | Giggy Grid |
+| 918 | 65 | Cheri Rose |
+| 919 | 65 | Miguel Teixeira |
+| 920 | 65 | Daring Spinzone |
+| 921 | 65 | Stephanie Harrington |
+| 922 | 65 | Tamara Cordero |
+| 923 | 64 | Giggly Shiftsnap |
+| 924 | 64 | Kristine Salinas |
 | 925 | 64 | Mighty Matchpiece |
-| 926 | 64 | Circuit8 |
-| 927 | 64 | Kaycie Brieanne |
-| 928 | 64 | Glitzy Bricky |
-| 929 | 64 | Helen |
-| 930 | 64 | Mindy Phelps |
+| 926 | 64 | gymjim |
+| 927 | 64 | Circuit8 |
+| 928 | 64 | Kaycie Brieanne |
+| 929 | 64 | Glitzy Bricky |
+| 930 | 64 | Helen |
 | 931 | 63 | Frothy Grid |
-| 932 | 63 | Michael Parsons |
-| 933 | 63 | Steve Ouellet |
+| 932 | 63 | Steve Ouellet |
+| 933 | 63 | Michael Parsons |
 | 934 | 63 | spriege |
 | 935 | 63 | krae |
 | 936 | 63 | Skeetris |
@@ -962,8 +962,8 @@
 | 954 | 62 | Uuinner |
 | 955 | 62 | Daria Rycewicz |
 | 956 | 62 | Frisky Blocky |
-| 957 | 62 | Zesty Cascadeclear |
-| 958 | 62 | Goredo |
+| 957 | 62 | Goredo |
+| 958 | 62 | Zesty Cascadeclear |
 | 959 | 62 | ilikeitcleen |
 | 960 | 62 | Miss253 |
 | 961 | 62 | Tammie Anderson |
