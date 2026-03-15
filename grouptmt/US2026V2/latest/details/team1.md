@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 16:24:42 UTC
+# Standings for team1 as of 2026-03-15 16:25:22 UTC
 
 **Total Participants:** 2307
 
@@ -198,28 +198,28 @@
 | 190 | 474 | Allena Craft |
 | 191 | 472 | Jaime Barrett Nelson |
 | 192 | 469 | Tatiyana Holm |
-| 193 | 465 | Alex Hennigh |
-| 194 | 459 | Loony Towerpiece |
-| 195 | 457 | Frilly Climber |
-| 196 | 451 | Pamela Marie Tyler |
-| 197 | 449 | Penny Morrical |
-| 198 | 446 | Tisha Cammack |
-| 199 | 444 | Jess Rose |
-| 200 | 441 | Courtney Leigh Deiber |
-| 201 | 437 | Matthew Bunn |
+| 193 | 467 | TexasLise |
+| 194 | 465 | Alex Hennigh |
+| 195 | 459 | Loony Towerpiece |
+| 196 | 457 | Frilly Climber |
+| 197 | 451 | Pamela Marie Tyler |
+| 198 | 449 | Penny Morrical |
+| 199 | 446 | Tisha Cammack |
+| 200 | 444 | Jess Rose |
+| 201 | 441 | Courtney Leigh Deiber |
 | 202 | 437 | Sassy Cascadepiece |
-| 203 | 437 | Loony Brickmatch |
-| 204 | 435 | Angelina Maldonado |
-| 205 | 432 | Krystal Mccoy |
-| 206 | 428 | Marianne Louise West |
-| 207 | 426 | Lisa Marie Sansom |
-| 208 | 425 | Kelly Owens |
-| 209 | 423 | Shawn Kelso |
-| 210 | 422 | Andrew Coulter |
-| 211 | 420 | April McGuffie |
-| 212 | 419 | Kim Bays |
-| 213 | 417 | beep |
-| 214 | 407 | TexasLise |
+| 203 | 437 | Matthew Bunn |
+| 204 | 437 | Loony Brickmatch |
+| 205 | 435 | Angelina Maldonado |
+| 206 | 432 | Krystal Mccoy |
+| 207 | 428 | Marianne Louise West |
+| 208 | 426 | Lisa Marie Sansom |
+| 209 | 425 | Kelly Owens |
+| 210 | 423 | Shawn Kelso |
+| 211 | 422 | Andrew Coulter |
+| 212 | 420 | April McGuffie |
+| 213 | 419 | Kim Bays |
+| 214 | 417 | beep |
 | 215 | 404 | Marie Shakinah |
 | 216 | 397 | Tanya Bailey |
 | 217 | 393 | Erich EMac McIntosh |
@@ -662,61 +662,61 @@
 | 654 | 122 | tay |
 | 655 | 122 | Pig02 |
 | 656 | 121 | ssr |
-| 657 | 120 | Ziggy Csah |
-| 658 | 120 | John Ham |
-| 659 | 120 | Adele Rahman |
-| 660 | 120 | Lindsay Coit Phillips |
+| 657 | 121 | Dunlap Loretta |
+| 658 | 120 | Ziggy Csah |
+| 659 | 120 | John Ham |
+| 660 | 120 | Adele Rahman |
 | 661 | 120 | Manuel Ceniceros |
 | 662 | 120 | Noah |
 | 663 | 120 | April Carroll |
 | 664 | 120 | Kat |
-| 665 | 119 | Wendy Griffith |
-| 666 | 118 | bounce back |
-| 667 | 118 | Sharon Panoski |
-| 668 | 118 | Brandy Ann |
-| 669 | 118 | KMart |
-| 670 | 118 | PSD |
-| 671 | 118 | Speedy Liney |
-| 672 | 118 | Mike Mendoza |
-| 673 | 117 | Monica Blu |
-| 674 | 117 | Danielle Kollias |
-| 675 | 117 | NunYa |
-| 676 | 117 | Boldy Towerfall |
-| 677 | 117 | Michael Zates |
-| 678 | 117 | Cassi Owens |
+| 665 | 120 | Lindsay Coit Phillips |
+| 666 | 119 | Wendy Griffith |
+| 667 | 118 | bounce back |
+| 668 | 118 | Sharon Panoski |
+| 669 | 118 | Brandy Ann |
+| 670 | 118 | KMart |
+| 671 | 118 | PSD |
+| 672 | 118 | Speedy Liney |
+| 673 | 118 | Mike Mendoza |
+| 674 | 117 | Monica Blu |
+| 675 | 117 | Danielle Kollias |
+| 676 | 117 | NunYa |
+| 677 | 117 | Boldy Towerfall |
+| 678 | 117 | Michael Zates |
 | 679 | 117 | Witty Clusterfit |
-| 680 | 116 | Jeff Brian Gates |
-| 681 | 116 | Petahboi |
+| 680 | 117 | Cassi Owens |
+| 681 | 116 | Jeff Brian Gates |
 | 682 | 116 | Megan Phillips |
 | 683 | 116 | l |
-| 684 | 116 | Frilly Breaker |
-| 685 | 115 | Medic205 |
-| 686 | 115 | Dunlap Loretta |
-| 687 | 115 | Christian Smith |
-| 688 | 115 | Samantha Bugg Stitcher |
-| 689 | 114 | Luis Guzman |
-| 690 | 114 | Ambrosia Natas Danu |
+| 684 | 116 | Petahboi |
+| 685 | 116 | Frilly Breaker |
+| 686 | 115 | Christian Smith |
+| 687 | 115 | Samantha Bugg Stitcher |
+| 688 | 115 | Medic205 |
+| 689 | 114 | Shelly Fannon |
+| 690 | 114 | Denise Vardy Vanlanker |
 | 691 | 114 | Bennett Hunter |
-| 692 | 114 | Shelly Fannon |
-| 693 | 114 | Denise Vardy Vanlanker |
-| 694 | 114 | Lora Mae Spindler Young |
-| 695 | 114 | Crazy12 |
-| 696 | 114 | Rebecca Wilson |
-| 697 | 113 | Robin Burress |
-| 698 | 113 | Buster Goots |
-| 699 | 113 | Tara Lawson |
-| 700 | 113 | Christi Ames |
-| 701 | 113 | Trishatta YoungDiva Watkins |
-| 702 | 113 | Alexis Vogel |
+| 692 | 114 | Lora Mae Spindler Young |
+| 693 | 114 | Ambrosia Natas Danu |
+| 694 | 114 | Crazy12 |
+| 695 | 114 | Rebecca Wilson |
+| 696 | 114 | Luis Guzman |
+| 697 | 113 | Christi Ames |
+| 698 | 113 | Trishatta YoungDiva Watkins |
+| 699 | 113 | Buster Goots |
+| 700 | 113 | Alexis Vogel |
+| 701 | 113 | Tara Lawson |
+| 702 | 113 | Robin Burress |
 | 703 | 112 | LadyKuSh |
 | 704 | 112 | Bubbly Staggerpiece |
 | 705 | 112 | Samantha Crowley |
 | 706 | 112 | Chummy Curvebuilder |
 | 707 | 112 | LaNette Morgan |
 | 708 | 111 | Loony Spinzone |
-| 709 | 111 | Angie Scott |
+| 709 | 111 | gucci |
 | 710 | 111 | Abcmasters12 |
-| 711 | 111 | gucci |
+| 711 | 111 | Angie Scott |
 | 712 | 110 | Krazykat💋❤️💋 |
 | 713 | 110 | Sissy Lowery Davis |
 | 714 | 110 | Loverlylove |
