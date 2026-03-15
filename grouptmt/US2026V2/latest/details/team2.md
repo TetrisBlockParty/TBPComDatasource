@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 07:21:20 UTC
+# Standings for team2 as of 2026-03-15 07:22:20 UTC
 
 **Total Participants:** 2151
 
@@ -150,16 +150,16 @@
 | 142 | 509 | Rafael Valentin |
 | 143 | 507 | Rob Riggin |
 | 144 | 505 | Foxy |
-| 145 | 496 | Pikake Medeiros |
-| 146 | 493 | Marvin Lou Martin |
-| 147 | 493 | Amanda Sullivan |
-| 148 | 491 | Devin |
-| 149 | 485 | Grace Rubalcada |
-| 150 | 485 | Frothy Linker |
-| 151 | 474 | Carmen Jnvm |
-| 152 | 474 | Sara Morgan |
-| 153 | 474 | Tausha Colella |
-| 154 | 473 | Ding Adventurer |
+| 145 | 497 | Ding Adventurer |
+| 146 | 496 | Pikake Medeiros |
+| 147 | 493 | Marvin Lou Martin |
+| 148 | 493 | Amanda Sullivan |
+| 149 | 491 | Devin |
+| 150 | 485 | Grace Rubalcada |
+| 151 | 485 | Frothy Linker |
+| 152 | 474 | Carmen Jnvm |
+| 153 | 474 | Sara Morgan |
+| 154 | 474 | Tausha Colella |
 | 155 | 471 | Michelle Douglas Bridges |
 | 156 | 467 | Brandy Belton |
 | 157 | 457 | Chelsea Clark |
@@ -747,9 +747,9 @@
 | 739 | 86 | Crystal Harbeson |
 | 740 | 86 | scott |
 | 741 | 86 | Tipsy Towerpiece |
-| 742 | 86 | Chipper Clicky |
-| 743 | 85 | Briaa Williams |
-| 744 | 85 | Billi Jo Gorsuch |
+| 742 | 86 | Billi Jo Gorsuch |
+| 743 | 86 | Chipper Clicky |
+| 744 | 85 | Briaa Williams |
 | 745 | 85 | Epic Wipebuilder |
 | 746 | 85 | Jaylene Lawrence |
 | 747 | 85 | Tipsy Clearbuilder |
@@ -1209,10 +1209,10 @@
 | 1201 | 46 | Sarah Count-it All-Joy |
 | 1202 | 46 | Savannah Chavez |
 | 1203 | 46 | Nathan William |
-| 1204 | 46 | MelaninMan |
-| 1205 | 45 | Frisky Slider |
-| 1206 | 45 | Chefbj Ventress |
-| 1207 | 45 | Kevin Stultz |
+| 1204 | 46 | Kevin Stultz |
+| 1205 | 46 | MelaninMan |
+| 1206 | 45 | Frisky Slider |
+| 1207 | 45 | Chefbj Ventress |
 | 1208 | 45 | CaliGames |
 | 1209 | 45 | Corina |
 | 1210 | 45 | Joyce |
