@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 10:54:19 UTC
+# Standings for team1 as of 2026-03-15 10:54:41 UTC
 
 **Total Participants:** 2205
 
@@ -281,8 +281,8 @@
 | 273 | 292 | Angela Phillips Kean |
 | 274 | 292 | Beth Anderson |
 | 275 | 291 | QueenBee |
-| 276 | 290 | Lilyandstuff |
-| 277 | 289 | Yvonne Buie |
+| 276 | 291 | Yvonne Buie |
+| 277 | 290 | Lilyandstuff |
 | 278 | 288 | bea |
 | 279 | 287 | Marshell Harris |
 | 280 | 286 | Randall Sykes |
@@ -1666,122 +1666,122 @@
 | 1658 | 26 | p |
 | 1659 | 26 | Yenene |
 | 1660 | 26 | Spicy Clearpiece |
-| 1661 | 26 | Wish YaKnee |
-| 1662 | 26 | Mary Therese Benden Cole |
-| 1663 | 26 | Bouncy Bricky |
-| 1664 | 26 | Taiesha Jones |
-| 1665 | 26 | KayStaylit LionessByron |
-| 1666 | 25 | QuinnC |
+| 1661 | 26 | Mary Therese Benden Cole |
+| 1662 | 26 | Bouncy Bricky |
+| 1663 | 26 | Taiesha Jones |
+| 1664 | 26 | KayStaylit LionessByron |
+| 1665 | 26 | Wish YaKnee |
+| 1666 | 25 | Connor Gaughran |
 | 1667 | 25 | Cathy Field Lavelle |
-| 1668 | 25 | Samantha Millar |
-| 1669 | 25 | Erykah |
+| 1668 | 25 | Erykah |
+| 1669 | 25 | Melissa Stanley |
 | 1670 | 25 | Cameron Burke |
-| 1671 | 25 | Plucky Tetriblast |
-| 1672 | 25 | Baretta Scott |
-| 1673 | 25 | Jen Justus |
-| 1674 | 25 | Breezy Tilebuilder |
-| 1675 | 25 | Jessica |
-| 1676 | 25 | Connor Gaughran |
-| 1677 | 25 | Breezy Stackbuilder |
-| 1678 | 25 | Savannah Dennison |
-| 1679 | 25 | Kandie Marie |
-| 1680 | 25 | Hyper Glidepiece |
-| 1681 | 25 | Rickie Rando |
-| 1682 | 25 | Duaine Robinson |
-| 1683 | 25 | Farts Mcgee |
-| 1684 | 25 | TOP DOG |
-| 1685 | 25 | Tristan Taylor |
-| 1686 | 25 | Jessica Lang |
-| 1687 | 24 | Kristen Orr |
-| 1688 | 24 | Bobbie Freeman |
-| 1689 | 24 | Lindsey Ross |
-| 1690 | 24 | Richard Brady |
-| 1691 | 24 | Francisco Ledesma |
-| 1692 | 24 | MaPlease |
+| 1671 | 25 | Baretta Scott |
+| 1672 | 25 | Plucky Tetriblast |
+| 1673 | 25 | Breezy Tilebuilder |
+| 1674 | 25 | Jen Justus |
+| 1675 | 25 | QuinnC |
+| 1676 | 25 | Breezy Stackbuilder |
+| 1677 | 25 | Kandie Marie |
+| 1678 | 25 | Hyper Glidepiece |
+| 1679 | 25 | Savannah Dennison |
+| 1680 | 25 | Jessica |
+| 1681 | 25 | Tristan Taylor |
+| 1682 | 25 | TOP DOG |
+| 1683 | 25 | Jessica Lang |
+| 1684 | 25 | Samantha Millar |
+| 1685 | 25 | Farts Mcgee |
+| 1686 | 25 | Duaine Robinson |
+| 1687 | 25 | Rickie Rando |
+| 1688 | 24 | Jessica Shiloh Anderson |
+| 1689 | 24 | Chirpy Setter |
+| 1690 | 24 | Peachy Linkfall |
+| 1691 | 24 | Kristen Orr |
+| 1692 | 24 | Sergio Salgado |
 | 1693 | 24 | Jenny Weidman Perrotta |
-| 1694 | 24 | Sergio Salgado |
-| 1695 | 24 | Peachy Linkfall |
-| 1696 | 24 | Jessica Shiloh Anderson |
-| 1697 | 24 | Chirpy Setter |
-| 1698 | 24 | Tammy Rogers |
-| 1699 | 24 | Princess |
-| 1700 | 24 | Amber Bisinger |
-| 1701 | 24 | Jayj |
-| 1702 | 24 | AsianTurtles |
-| 1703 | 24 | Emily Adelaide Wheatley |
-| 1704 | 24 | Regenea Shreve |
-| 1705 | 23 | Loopy Bridger |
-| 1706 | 23 | YF Luna |
-| 1707 | 23 | Tee Widmer |
-| 1708 | 23 | Amanda Stevens |
+| 1694 | 24 | Tammy Rogers |
+| 1695 | 24 | MaPlease |
+| 1696 | 24 | Francisco Ledesma |
+| 1697 | 24 | Richard Brady |
+| 1698 | 24 | Lindsey Ross |
+| 1699 | 24 | Bobbie Freeman |
+| 1700 | 24 | Princess |
+| 1701 | 24 | Amber Bisinger |
+| 1702 | 24 | Jayj |
+| 1703 | 24 | AsianTurtles |
+| 1704 | 24 | Emily Adelaide Wheatley |
+| 1705 | 24 | Regenea Shreve |
+| 1706 | 23 | Loopy Bridger |
+| 1707 | 23 | YF Luna |
+| 1708 | 23 | Tee Widmer |
 | 1709 | 23 | Lulu C Harp |
-| 1710 | 23 | Chipper Tumbler |
-| 1711 | 23 | David Campbell |
-| 1712 | 23 | Tazz |
-| 1713 | 23 | Dc |
-| 1714 | 23 | Tre'von Davis |
-| 1715 | 23 | Scot Linsin |
-| 1716 | 23 | Misty Huerta |
-| 1717 | 23 | Michelle Sanchez |
+| 1710 | 23 | Amanda Stevens |
+| 1711 | 23 | Misty Huerta |
+| 1712 | 23 | Chipper Tumbler |
+| 1713 | 23 | David Campbell |
+| 1714 | 23 | Tazz |
+| 1715 | 23 | Dc |
+| 1716 | 23 | Scot Linsin |
+| 1717 | 23 | Tre'von Davis |
 | 1718 | 23 | Zany Gridroll |
-| 1719 | 23 | Melissa Stanley |
+| 1719 | 23 | Michelle Sanchez |
 | 1720 | 23 | Jill Goff |
 | 1721 | 22 | Amber Jackson |
 | 1722 | 22 | James Green |
-| 1723 | 22 | Scott Baum |
-| 1724 | 22 | Robert Coulter |
+| 1723 | 22 | Christine Delack |
+| 1724 | 22 | Scott Baum |
 | 1725 | 22 | Sabrina Wilkerson |
-| 1726 | 22 | Kriket |
+| 1726 | 22 | Robert Coulter |
 | 1727 | 22 | Brave Piecebuilder |
-| 1728 | 22 | Christine Delack |
+| 1728 | 22 | Kriket |
 | 1729 | 22 | Karissa McDannel |
 | 1730 | 22 | Connie Lepore-Mann |
-| 1731 | 22 | Anne Garcia |
-| 1732 | 22 | Danielle Maner |
-| 1733 | 22 | Emanuel Velazquez |
-| 1734 | 22 | Perky Twisterfit |
-| 1735 | 22 | Fancy Cluster |
-| 1736 | 22 | Frank Smith |
-| 1737 | 22 | Christina Laughlin |
-| 1738 | 22 | Spunky Zoney |
+| 1731 | 22 | Danielle Maner |
+| 1732 | 22 | Anne Garcia |
+| 1733 | 22 | Frank Smith |
+| 1734 | 22 | Christina Laughlin |
+| 1735 | 22 | Emanuel Velazquez |
+| 1736 | 22 | Spunky Zoney |
+| 1737 | 22 | Perky Twisterfit |
+| 1738 | 22 | Fancy Cluster |
 | 1739 | 21 | Shawntae Mccary |
-| 1740 | 21 | Linda Clement |
-| 1741 | 21 | Lori Mccool |
+| 1740 | 21 | Frothy Shatterfit |
+| 1741 | 21 | Mary Finn |
 | 1742 | 21 | Katy Schuster |
-| 1743 | 21 | Giggy Tiley |
+| 1743 | 21 | Jazzy Blockfall |
 | 1744 | 21 | Glitzy Curvetile |
-| 1745 | 21 | Brave Twistpiece |
-| 1746 | 21 | Shrimp0711 |
-| 1747 | 21 | Strawberry73 |
-| 1748 | 21 | Debbie Ward |
-| 1749 | 21 | Shane Thon |
-| 1750 | 21 | Olivia Gwyn Daniel |
-| 1751 | 21 | Nutty Tumbler |
-| 1752 | 21 | Jessica Monroe |
-| 1753 | 21 | Jazzy Blockfall |
-| 1754 | 21 | Scott Hein |
-| 1755 | 21 | Tommy April Rodriguez |
-| 1756 | 21 | Ethan Cox |
-| 1757 | 21 | Krystle Raye Green |
-| 1758 | 21 | Frothy Shatterfit |
+| 1745 | 21 | Giggy Tiley |
+| 1746 | 21 | Brave Twistpiece |
+| 1747 | 21 | Shrimp0711 |
+| 1748 | 21 | Strawberry73 |
+| 1749 | 21 | Debbie Ward |
+| 1750 | 21 | Shane Thon |
+| 1751 | 21 | Linda Clement |
+| 1752 | 21 | Nutty Tumbler |
+| 1753 | 21 | Olivia Gwyn Daniel |
+| 1754 | 21 | Jessica Monroe |
+| 1755 | 21 | Scott Hein |
+| 1756 | 21 | Tommy April Rodriguez |
+| 1757 | 21 | Ethan Cox |
+| 1758 | 21 | Krystle Raye Green |
 | 1759 | 21 | Gfly |
-| 1760 | 21 | Mary Finn |
-| 1761 | 20 | Jay Tressler |
+| 1760 | 21 | Lori Mccool |
+| 1761 | 20 | Stellar |
 | 1762 | 20 | Frothy Tetrisline |
 | 1763 | 20 | Giles McNair |
 | 1764 | 20 | Nutty Glide |
-| 1765 | 20 | GmaQuiltah |
-| 1766 | 20 | Spunky |
+| 1765 | 20 | Spunky |
+| 1766 | 20 | Sabrina Hardrick |
 | 1767 | 20 | Jeffrey Adams |
-| 1768 | 20 | Sabrina Hardrick |
-| 1769 | 20 | Stellar |
-| 1770 | 20 | Dawg |
-| 1771 | 20 | John Morris |
-| 1772 | 20 | Chirpy Pivotfall |
-| 1773 | 20 | Oscar Love Mariah |
+| 1768 | 20 | Chirpy Pivotfall |
+| 1769 | 20 | Franklin Danner |
+| 1770 | 20 | John Morris |
+| 1771 | 20 | GmaQuiltah |
+| 1772 | 20 | Oscar Love Mariah |
+| 1773 | 20 | Dawg |
 | 1774 | 20 | Orlando Lofton |
-| 1775 | 20 | Franklin Danner |
-| 1776 | 20 | Keith Andrews |
+| 1775 | 20 | Keith Andrews |
+| 1776 | 20 | Jay Tressler |
 | 1777 | 20 | Cleopatra Sims |
 | 1778 | 20 | Mel Esquibel Brostoski |
 | 1779 | 20 | Danita Banks |

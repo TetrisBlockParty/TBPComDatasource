@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 10:54:19 UTC
+# Standings for team2 as of 2026-03-15 10:54:41 UTC
 
 **Total Participants:** 2198
 
@@ -235,13 +235,13 @@
 | 227 | 318 | Winner |
 | 228 | 318 | Danielle Weikel |
 | 229 | 315 | Snappy Tiley |
-| 230 | 313 | Olivia Gwin |
-| 231 | 313 | Epic Liner |
-| 232 | 311 | Rusty Davis |
-| 233 | 310 | Tiffany Smith |
-| 234 | 310 | 1RiRi1 |
-| 235 | 309 | Kate |
-| 236 | 307 | Jo Frohwein |
+| 230 | 313 | Jo Frohwein |
+| 231 | 313 | Olivia Gwin |
+| 232 | 313 | Epic Liner |
+| 233 | 311 | Rusty Davis |
+| 234 | 310 | Tiffany Smith |
+| 235 | 310 | 1RiRi1 |
+| 236 | 309 | Kate |
 | 237 | 307 | Spunky Snapfit |
 | 238 | 306 | Slippery Clam |
 | 239 | 305 | ddd |
@@ -482,10 +482,10 @@
 | 474 | 150 | Breanna Lemus |
 | 475 | 150 | Sherry Jones |
 | 476 | 150 | May May |
-| 477 | 150 | Brave Fallzone |
-| 478 | 150 | Tracey Whetstone |
-| 479 | 149 | Teresa Longwell |
-| 480 | 149 | Daring Rotator |
+| 477 | 150 | Tracey Whetstone |
+| 478 | 150 | Brave Fallzone |
+| 479 | 149 | Daring Rotator |
+| 480 | 149 | Teresa Longwell |
 | 481 | 149 | Lizzie Marie |
 | 482 | 147 | Jazzy Hitter |
 | 483 | 147 | Jenny Carrier |
@@ -495,9 +495,9 @@
 | 487 | 146 | Elizabeth Blankenship |
 | 488 | 145 | Steady Treal |
 | 489 | 145 | Goofy Towerer |
-| 490 | 145 | Paula Little |
+| 490 | 145 | Kelly Williams |
 | 491 | 145 | Theodore Vincent |
-| 492 | 145 | Kelly Williams |
+| 492 | 145 | Paula Little |
 | 493 | 144 | JTH |
 | 494 | 144 | Juana |
 | 495 | 144 | Marc Abney |
@@ -505,8 +505,8 @@
 | 497 | 144 | Wishabishwood |
 | 498 | 142 | Kirsten Hanes Gasper |
 | 499 | 142 | Adrian Ribellia |
-| 500 | 142 | Montiette Mcglown |
-| 501 | 142 | Nicole Lynnette Mahurin |
+| 500 | 142 | Nicole Lynnette Mahurin |
+| 501 | 142 | Montiette Mcglown |
 | 502 | 142 | Prette Qui |
 | 503 | 141 | Tee Jaleesa |
 | 504 | 141 | Chiran Xu |
@@ -518,8 +518,8 @@
 | 510 | 140 | Zany Dashgrid |
 | 511 | 140 | Tanya Abernathy Jackson |
 | 512 | 140 | Brenda Lee Vander Molen |
-| 513 | 140 | Paula Marcus Delsigne |
-| 514 | 140 | Joy Young |
+| 513 | 140 | Joy Young |
+| 514 | 140 | Paula Marcus Delsigne |
 | 515 | 139 | Kristi Riley |
 | 516 | 139 | sofiiya the forst |
 | 517 | 139 | Lively Builderfit |
@@ -537,31 +537,31 @@
 | 529 | 134 | Jean Yap |
 | 530 | 134 | Clever Roll |
 | 531 | 134 | Brady Riessen |
-| 532 | 133 | Trisha Balmer |
-| 533 | 133 | Jeremy Steines |
-| 534 | 133 | Shankee mgee |
-| 535 | 133 | Aimee Byrom |
-| 536 | 132 | Dimitra Zazara |
-| 537 | 132 | April |
-| 538 | 132 | Jolie Hatfield |
-| 539 | 132 | Brenda A |
+| 532 | 134 | Mjhays |
+| 533 | 133 | Trisha Balmer |
+| 534 | 133 | Jeremy Steines |
+| 535 | 133 | Shankee mgee |
+| 536 | 133 | Aimee Byrom |
+| 537 | 132 | Dimitra Zazara |
+| 538 | 132 | April |
+| 539 | 132 | Jolie Hatfield |
 | 540 | 132 | Spicy Patternbuilder |
-| 541 | 131 | Beckii Beckford |
-| 542 | 130 | Tyler Werts |
-| 543 | 130 | Kristie |
-| 544 | 130 | Leslie Nicole |
-| 545 | 129 | Kira Hugar |
-| 546 | 129 | Martinez Jacobo |
-| 547 | 129 | Selena Combee |
-| 548 | 129 | BugMansMom |
-| 549 | 128 | Joyce Murff |
-| 550 | 128 | Alboo |
-| 551 | 128 | Lisa Kline |
-| 552 | 128 | Elizabeth Reliford |
-| 553 | 128 | TiffanyJ |
-| 554 | 128 | Trish Newell |
-| 555 | 128 | Kimmie Gargano |
-| 556 | 128 | Mjhays |
+| 541 | 132 | Brenda A |
+| 542 | 131 | Beckii Beckford |
+| 543 | 130 | Tyler Werts |
+| 544 | 130 | Kristie |
+| 545 | 130 | Leslie Nicole |
+| 546 | 129 | Kira Hugar |
+| 547 | 129 | Martinez Jacobo |
+| 548 | 129 | Selena Combee |
+| 549 | 129 | BugMansMom |
+| 550 | 128 | Joyce Murff |
+| 551 | 128 | Alboo |
+| 552 | 128 | Lisa Kline |
+| 553 | 128 | Elizabeth Reliford |
+| 554 | 128 | TiffanyJ |
+| 555 | 128 | Trish Newell |
+| 556 | 128 | Kimmie Gargano |
 | 557 | 128 | Kasheba Y Bowens |
 | 558 | 127 | LeVeL27 |
 | 559 | 127 | Shane Gann |
