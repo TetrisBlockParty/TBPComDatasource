@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 09:09:20 UTC
+# Standings for team1 as of 2026-03-15 09:10:20 UTC
 
 **Total Participants:** 2185
 
@@ -43,8 +43,8 @@
 | 35 | 2400 | Angel Smith |
 | 36 | 2302 | Selena Rollin |
 | 37 | 2182 | Jordan W Hamilton |
-| 38 | 2138 | phrmblk24 |
-| 39 | 2101 | butterface |
+| 38 | 2179 | butterface |
+| 39 | 2138 | phrmblk24 |
 | 40 | 1985 | Xande NO Lie Williams |
 | 41 | 1976 | Bigmoco |
 | 42 | 1925 | C Wing Chu |
@@ -115,11 +115,11 @@
 | 107 | 792 | L3sli3 |
 | 108 | 792 | Tim Raper |
 | 109 | 790 | Michael DeRosa |
-| 110 | 772 | Andy Harris |
-| 111 | 772 | Ellie Bein |
+| 110 | 772 | Ellie Bein |
+| 111 | 772 | Andy Harris |
 | 112 | 756 | Spicy Tilemaker |
-| 113 | 751 | 1_Roxanne_3 |
-| 114 | 751 | Ana Fernanda Sanchez |
+| 113 | 751 | Ana Fernanda Sanchez |
+| 114 | 751 | 1_Roxanne_3 |
 | 115 | 748 | Letson Melissa |
 | 116 | 747 | Tyle Armstead |
 | 117 | 745 | Michael Powers |
@@ -158,11 +158,11 @@
 | 150 | 566 | Chrys Peters |
 | 151 | 564 | Joy Bloodworth |
 | 152 | 561 | Marie Helman |
-| 153 | 541 | Dramatic Tiger |
-| 154 | 540 | Alezandra Smith |
-| 155 | 538 | Diamond Madison |
-| 156 | 538 | Ramona Gulledge |
-| 157 | 538 | Johnathan Rasmussen |
+| 153 | 552 | Johnathan Rasmussen |
+| 154 | 541 | Dramatic Tiger |
+| 155 | 540 | Alezandra Smith |
+| 156 | 538 | Diamond Madison |
+| 157 | 538 | Ramona Gulledge |
 | 158 | 536 | Bouncy Framezone |
 | 159 | 535 | BrownNinj |
 | 160 | 530 | Sheree Twiddy Thornton |
