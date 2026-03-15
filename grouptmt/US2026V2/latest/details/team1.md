@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 02:36:20 UTC
+# Standings for team1 as of 2026-03-15 02:36:43 UTC
 
 **Total Participants:** 2033
 
@@ -27,9 +27,9 @@
 | 19 | 3171 | Amy Roche |
 | 20 | 3157 | Amanda Sheppard |
 | 21 | 3067 | Paul Smiar |
-| 22 | 2851 | Marianne Elizabeth Mills |
-| 23 | 2778 | Michael Texidor |
-| 24 | 2758 | Nathaniel Hughes |
+| 22 | 3058 | Nathaniel Hughes |
+| 23 | 2851 | Marianne Elizabeth Mills |
+| 24 | 2778 | Michael Texidor |
 | 25 | 2725 | Venechia Berry |
 | 26 | 2615 | Amy Dial Brown |
 | 27 | 2611 | Fayro |
@@ -256,8 +256,8 @@
 | 248 | 250 | StankyP |
 | 249 | 242 | Rob Chebetar |
 | 250 | 241 | Nutty Cascadefit |
-| 251 | 240 | Fancy Towerfall |
-| 252 | 240 | Stephen Glaze |
+| 251 | 240 | Stephen Glaze |
+| 252 | 240 | Fancy Towerfall |
 | 253 | 235 | Jennifer Campbell |
 | 254 | 235 | Jaame Courtney |
 | 255 | 233 | Haley Anne |
@@ -268,27 +268,27 @@
 | 260 | 227 | Josh Riemer |
 | 261 | 225 | shelly |
 | 262 | 225 | raffyG |
-| 263 | 224 | tazd0629 |
-| 264 | 224 | Peachy Brick |
-| 265 | 222 | Sophia Kelly |
+| 263 | 224 | Peachy Brick |
+| 264 | 224 | tazd0629 |
+| 265 | 222 | Mama Becky |
 | 266 | 222 | Eric Hoffman |
-| 267 | 222 | Mama Becky |
+| 267 | 222 | Sophia Kelly |
 | 268 | 221 | CelticTraveler |
-| 269 | 220 | Dude |
-| 270 | 220 | NoIdeaWhatsGoingOn |
-| 271 | 220 | Darci Cline |
-| 272 | 220 | Jevon Griffith |
-| 273 | 220 | lefty |
-| 274 | 218 | Amers |
-| 275 | 218 | Aaron Higdon |
+| 269 | 220 | lefty |
+| 270 | 220 | Jevon Griffith |
+| 271 | 220 | Dude |
+| 272 | 220 | Darci Cline |
+| 273 | 220 | NoIdeaWhatsGoingOn |
+| 274 | 218 | Aaron Higdon |
+| 275 | 218 | Amers |
 | 276 | 217 | Beka |
-| 277 | 216 | Elizabeth Hughes |
+| 277 | 217 | Matt Coons |
 | 278 | 216 | Joe Andrew Jackson |
-| 279 | 215 | Lemonberry |
-| 280 | 214 | Giggly Rotate |
-| 281 | 213 | Bobby |
-| 282 | 212 | Dani Giles |
-| 283 | 211 | Matt Coons |
+| 279 | 216 | Elizabeth Hughes |
+| 280 | 215 | Lemonberry |
+| 281 | 214 | Giggly Rotate |
+| 282 | 213 | Bobby |
+| 283 | 212 | Dani Giles |
 | 284 | 211 | Tameka Brown |
 | 285 | 211 | Jumpy Spinblock |
 | 286 | 209 | Jason Garnatz |
@@ -299,8 +299,8 @@
 | 291 | 201 | QueenBee |
 | 292 | 201 | Bubba |
 | 293 | 201 | Ancient Intuition |
-| 294 | 200 | Groovy Glidepiece |
-| 295 | 200 | Snappy Linkroll |
+| 294 | 200 | Snappy Linkroll |
+| 295 | 200 | Groovy Glidepiece |
 | 296 | 198 | Qoo |
 | 297 | 197 | Smashanator |
 | 298 | 197 | Tessa N Davis |
@@ -547,29 +547,29 @@
 | 539 | 100 | pjbeta |
 | 540 | 100 | Michelle Pike |
 | 541 | 100 | Dan Sessa |
-| 542 | 100 | Peppy Brickclear |
-| 543 | 100 | Black Rubix |
-| 544 | 100 | Dustin Curtis |
+| 542 | 100 | Dan Baines |
+| 543 | 100 | Peppy Brickclear |
+| 544 | 100 | Black Rubix |
 | 545 | 100 | Snippy Piecegrid |
 | 546 | 100 | DaRascal |
-| 547 | 100 | Kristen Hall |
-| 548 | 100 | Dan Baines |
-| 549 | 99 | Kim Bays |
-| 550 | 99 | bounce back |
-| 551 | 99 | Christopher James Cienfuegos |
-| 552 | 99 | GinjaNinja |
+| 547 | 100 | Dustin Curtis |
+| 548 | 100 | Kristen Hall |
+| 549 | 99 | GinjaNinja |
+| 550 | 99 | Loopy Brickmatch |
+| 551 | 99 | SAP |
+| 552 | 99 | Lakie Fogle |
 | 553 | 99 | Lisa Klockenga |
-| 554 | 99 | Lakie Fogle |
-| 555 | 99 | SAP |
-| 556 | 99 | Loopy Brickmatch |
-| 557 | 98 | Andretta Wilder |
-| 558 | 98 | Alana Susan Hanley |
-| 559 | 97 | Dawgofwar |
-| 560 | 97 | Sean Dickey |
-| 561 | 97 | Maju Restini |
+| 554 | 99 | Maju Restini |
+| 555 | 99 | Christopher James Cienfuegos |
+| 556 | 99 | bounce back |
+| 557 | 99 | Kim Bays |
+| 558 | 98 | Andretta Wilder |
+| 559 | 98 | Alana Susan Hanley |
+| 560 | 97 | Dawgofwar |
+| 561 | 97 | Sean Dickey |
 | 562 | 97 | Speedy Liney |
-| 563 | 96 | Laura Hosford |
-| 564 | 96 | Slinky Dashpiece |
+| 563 | 96 | Slinky Dashpiece |
+| 564 | 96 | Laura Hosford |
 | 565 | 96 | Antonia Wyche |
 | 566 | 96 | KoDaK |
 | 567 | 96 | Lauren Bond |
