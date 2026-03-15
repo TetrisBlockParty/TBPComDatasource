@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 06:40:41 UTC
+# Standings for team2 as of 2026-03-15 06:41:20 UTC
 
 **Total Participants:** 2134
 
@@ -36,7 +36,7 @@
 | 28 | 2097 | Kevin Watson |
 | 29 | 2027 | Caitlin Johnson |
 | 30 | 2010 | Carlos Torres |
-| 31 | 1890 | Nicole Grochow |
+| 31 | 1920 | Nicole Grochow |
 | 32 | 1873 | Joshua Hopkins |
 | 33 | 1797 | Miranda Rush |
 | 34 | 1779 | Katie Wisecarver |
@@ -44,8 +44,8 @@
 | 36 | 1760 | Cynthia Ward |
 | 37 | 1741 | Kelley Ann |
 | 38 | 1712 | Sheesh M |
-| 39 | 1694 | Rosemadder |
-| 40 | 1661 | Toni Lynn |
+| 39 | 1711 | Toni Lynn |
+| 40 | 1694 | Rosemadder |
 | 41 | 1646 | Carrie Mitchell |
 | 42 | 1610 | opf |
 | 43 | 1600 | 1nonlyreal1 |
@@ -140,9 +140,9 @@
 | 132 | 558 | Gracie Back |
 | 133 | 558 | DanesMama |
 | 134 | 553 | Marc |
-| 135 | 547 | Carson Goldminc |
-| 136 | 546 | Ultramarine |
-| 137 | 542 | Looloo |
+| 135 | 552 | Looloo |
+| 136 | 547 | Carson Goldminc |
+| 137 | 546 | Ultramarine |
 | 138 | 542 | Dandy Crasher |
 | 139 | 538 | Deb Wasano |
 | 140 | 535 | Dane Roy |
@@ -341,34 +341,34 @@
 | 333 | 205 | Cynthia Prouse |
 | 334 | 203 | Giddy Gridmatch |
 | 335 | 202 | Dally Hunt |
-| 336 | 201 | Tash Bell |
-| 337 | 201 | Ashley Leonard |
-| 338 | 201 | JustYvette IsFine |
-| 339 | 200 | Nerdy Blockpiece |
-| 340 | 200 | Tammi Crnza |
-| 341 | 200 | Trice Sodames |
-| 342 | 200 | Rhonda Prince |
-| 343 | 199 | titrissss |
-| 344 | 199 | David V. Bowers |
-| 345 | 199 | Chummy Linkgrid |
-| 346 | 198 | Michael E Whitejr |
+| 336 | 201 | Michael E Whitejr |
+| 337 | 201 | Tash Bell |
+| 338 | 201 | Ashley Leonard |
+| 339 | 201 | JustYvette IsFine |
+| 340 | 200 | Nerdy Blockpiece |
+| 341 | 200 | Tammi Crnza |
+| 342 | 200 | Trice Sodames |
+| 343 | 200 | Rhonda Prince |
+| 344 | 199 | titrissss |
+| 345 | 199 | David V. Bowers |
+| 346 | 199 | Chummy Linkgrid |
 | 347 | 197 | Jennifer Osmer Carruth |
 | 348 | 196 | Loony Snapbuild |
 | 349 | 196 | Colin Morgan |
 | 350 | 196 | Kristina Hill Perez |
 | 351 | 195 | Melissa M Wolfe |
-| 352 | 195 | De Yske |
-| 353 | 195 | Crystal Brown-Miles |
-| 354 | 193 | Stacy Evans |
-| 355 | 191 | Amanda Thomas |
-| 356 | 191 | Ramona Marie Eruera |
-| 357 | 191 | Giggly Clearzone |
+| 352 | 195 | Crystal Brown-Miles |
+| 353 | 195 | De Yske |
+| 354 | 195 | Giggly Clearzone |
+| 355 | 193 | Stacy Evans |
+| 356 | 191 | Amanda Thomas |
+| 357 | 191 | Ramona Marie Eruera |
 | 358 | 191 | Lora |
 | 359 | 190 | Christina Graham |
-| 360 | 190 | Cheeky Clearbuilder |
-| 361 | 190 | Amber Lashbrook |
-| 362 | 190 | Goats Poe |
-| 363 | 190 | LaTonya Myers |
+| 360 | 190 | Amber Lashbrook |
+| 361 | 190 | LaTonya Myers |
+| 362 | 190 | Cheeky Clearbuilder |
+| 363 | 190 | Goats Poe |
 | 364 | 188 | Lakeisha Webb Briggs |
 | 365 | 188 | Dizzy Dasher |
 | 366 | 188 | Tudy Irvin |
@@ -383,9 +383,9 @@
 | 375 | 182 | infinimom |
 | 376 | 181 | Alexis Seath |
 | 377 | 181 | Blockyboyyy |
-| 378 | 180 | Bea Miles |
+| 378 | 180 | Michelle |
 | 379 | 180 | Blaze Sexton |
-| 380 | 180 | Michelle |
+| 380 | 180 | Bea Miles |
 | 381 | 179 | Megan Simpson |
 | 382 | 178 | Derrell W. Barron |
 | 383 | 178 | Aobregon01 |
@@ -401,15 +401,15 @@
 | 393 | 174 | Zak Dunn |
 | 394 | 173 | Hyper Pop |
 | 395 | 173 | Elizabeth Diraffaele |
-| 396 | 173 | Madison Sweere |
-| 397 | 173 | Alexsa Crespo |
+| 396 | 173 | Alexsa Crespo |
+| 397 | 173 | Madison Sweere |
 | 398 | 172 | Belle |
 | 399 | 172 | Dineisha Carpenter |
 | 400 | 171 | Shea Ladynick Henderson |
 | 401 | 170 | Berling Gil |
-| 402 | 170 | Jimmy Xim |
-| 403 | 170 | Melissa Boldt |
-| 404 | 170 | Desiree Anderson |
+| 402 | 170 | Melissa Boldt |
+| 403 | 170 | Desiree Anderson |
+| 404 | 170 | Jimmy Xim |
 | 405 | 169 | Jason McCloy |
 | 406 | 169 | Bryanna Whitman |
 | 407 | 169 | Troy |
@@ -423,8 +423,8 @@
 | 415 | 163 | Julia Freeman |
 | 416 | 163 | Mel |
 | 417 | 162 | Sylvie Lemoine |
-| 418 | 161 | DeathToBizzle |
-| 419 | 161 | Frothy Chiseler |
+| 418 | 161 | Frothy Chiseler |
+| 419 | 161 | DeathToBizzle |
 | 420 | 161 | Kimberly Garcia |
 | 421 | 161 | Cari Hogan |
 | 422 | 160 | Jason Allen |
@@ -437,8 +437,8 @@
 | 429 | 156 | Cheeky Dashy |
 | 430 | 156 | Dreamy Snapbuilder |
 | 431 | 156 | SuZee |
-| 432 | 154 | Morgan Anne Witty |
-| 433 | 154 | Jess Ortiz |
+| 432 | 154 | Jess Ortiz |
+| 433 | 154 | Morgan Anne Witty |
 | 434 | 154 | Alexander Zamora |
 | 435 | 154 | Brandy Hayhurst |
 | 436 | 154 | Deborah Potts |
@@ -450,18 +450,18 @@
 | 442 | 151 | Luna |
 | 443 | 150 | Brave Fallzone |
 | 444 | 150 | Tracey Whetstone |
-| 445 | 150 | Breanna Lemus |
-| 446 | 150 | Glitzy Rollblock |
-| 447 | 150 | May May |
-| 448 | 150 | Sherry Jones |
-| 449 | 150 | Marinara |
+| 445 | 150 | Marinara |
+| 446 | 150 | Breanna Lemus |
+| 447 | 150 | Sherry Jones |
+| 448 | 150 | Glitzy Rollblock |
+| 449 | 150 | May May |
 | 450 | 149 | Lizzie Marie |
 | 451 | 149 | Teresa Longwell |
 | 452 | 149 | Tyler Bechtel |
 | 453 | 149 | Daring Rotator |
 | 454 | 147 | Jazzy Hitter |
-| 455 | 146 | Jen Robinson |
-| 456 | 146 | Chill Builder |
+| 455 | 146 | Chill Builder |
+| 456 | 146 | Jen Robinson |
 | 457 | 146 | ElayneTrekand |
 | 458 | 145 | Goofy Towerer |
 | 459 | 145 | Steady Treal |
