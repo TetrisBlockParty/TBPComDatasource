@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 12:28:20 UTC
+# Standings for team1 as of 2026-03-15 12:28:43 UTC
 
 **Total Participants:** 2225
 
@@ -53,8 +53,8 @@
 | 45 | 1898 | Justin Parker |
 | 46 | 1836 | Melissa Kay Gibson |
 | 47 | 1835 | Robert Everett |
-| 48 | 1806 | Sarah Henniker |
-| 49 | 1799 | Kimberly Howell-Henley |
+| 48 | 1817 | Kimberly Howell-Henley |
+| 49 | 1806 | Sarah Henniker |
 | 50 | 1715 | Carrie Trigg |
 | 51 | 1713 | Audicia Bailey |
 | 52 | 1700 | Jessica Sheehan |
@@ -208,45 +208,45 @@
 | 200 | 408 | beep |
 | 201 | 401 | Marie Shakinah |
 | 202 | 393 | Erich EMac McIntosh |
-| 203 | 392 | Matthew Bunn |
-| 204 | 392 | Haley Anne |
-| 205 | 389 | Twisty Snapfit |
-| 206 | 385 | Jason Cunningham |
-| 207 | 381 | Pamela Marie Tyler |
-| 208 | 380 | Dude |
-| 209 | 377 | Lisa Marie Sansom |
-| 210 | 375 | Fancy Ziggy |
-| 211 | 373 | Silly Ziggy |
-| 212 | 371 | Crafty Tilebuilder |
-| 213 | 370 | Sullivan Tamara |
-| 214 | 368 | Jasmine Riley |
-| 215 | 366 | Hannah Carter |
-| 216 | 366 | Rennon Scott Wilson |
-| 217 | 365 | La'Shonda N Williams |
-| 218 | 362 | Erin Halleman |
-| 219 | 361 | Desiree Jenson |
-| 220 | 360 | Scott Napper |
-| 221 | 360 | Brandy Ridgeway |
-| 222 | 360 | Amh |
-| 223 | 358 | Liliana Pena |
-| 224 | 358 | Tammy Lamb |
-| 225 | 355 | Jennifer Campbell |
-| 226 | 355 | Paul Stafford |
+| 203 | 392 | Haley Anne |
+| 204 | 392 | Matthew Bunn |
+| 205 | 389 | Aaron Higdon |
+| 206 | 389 | Twisty Snapfit |
+| 207 | 385 | Jason Cunningham |
+| 208 | 381 | Pamela Marie Tyler |
+| 209 | 380 | Dude |
+| 210 | 377 | Lisa Marie Sansom |
+| 211 | 375 | Fancy Ziggy |
+| 212 | 373 | Silly Ziggy |
+| 213 | 371 | Crafty Tilebuilder |
+| 214 | 370 | Sullivan Tamara |
+| 215 | 368 | Jasmine Riley |
+| 216 | 366 | Hannah Carter |
+| 217 | 366 | Rennon Scott Wilson |
+| 218 | 365 | La'Shonda N Williams |
+| 219 | 362 | Erin Halleman |
+| 220 | 361 | Desiree Jenson |
+| 221 | 360 | Scott Napper |
+| 222 | 360 | Brandy Ridgeway |
+| 223 | 360 | Amh |
+| 224 | 358 | Liliana Pena |
+| 225 | 358 | Tammy Lamb |
+| 226 | 355 | Jennifer Campbell |
 | 227 | 355 | Mahman |
-| 228 | 353 | Angelina Maldonado |
-| 229 | 351 | Natalia RX Beyer |
-| 230 | 350 | Aden Moss |
-| 231 | 348 | jenna |
-| 232 | 344 | Justin Feingold |
-| 233 | 340 | Dicfitzwel |
-| 234 | 338 | Mahmudul Hasan |
+| 228 | 355 | Paul Stafford |
+| 229 | 353 | Angelina Maldonado |
+| 230 | 351 | Natalia RX Beyer |
+| 231 | 350 | Aden Moss |
+| 232 | 348 | jenna |
+| 233 | 344 | Justin Feingold |
+| 234 | 340 | Dicfitzwel |
 | 235 | 338 | Bryan Temple |
 | 236 | 338 | Thorpedo |
-| 237 | 337 | Beka |
-| 238 | 337 | Kris Koepke |
-| 239 | 335 | Elizabeth Hughes |
-| 240 | 334 | Wacky Balancer |
-| 241 | 333 | Aaron Higdon |
+| 237 | 338 | Mahmudul Hasan |
+| 238 | 337 | Beka |
+| 239 | 337 | Kris Koepke |
+| 240 | 335 | Elizabeth Hughes |
+| 241 | 334 | Wacky Balancer |
 | 242 | 332 | raffyG |
 | 243 | 331 | Jr_420 |
 | 244 | 329 | Yvette Cooper |
@@ -261,13 +261,13 @@
 | 253 | 313 | Andrew Duron |
 | 254 | 312 | Ern2burn |
 | 255 | 312 | Macy Williams |
-| 256 | 312 | Jena Overall Prescott |
-| 257 | 312 | Evy |
-| 258 | 309 | Eric Hoffman |
-| 259 | 309 | Dawn Hoffman |
+| 256 | 312 | Evy |
+| 257 | 312 | Jena Overall Prescott |
+| 258 | 309 | Dawn Hoffman |
+| 259 | 309 | Eric Hoffman |
 | 260 | 308 | Jason Whitehair |
-| 261 | 307 | TexasLise |
-| 262 | 307 | Stephanie Myers |
+| 261 | 307 | Stephanie Myers |
+| 262 | 307 | TexasLise |
 | 263 | 302 | TetrisWoo |
 | 264 | 302 | Hasbro Bros |
 | 265 | 301 | Poppy Fallzone |
@@ -374,14 +374,14 @@
 | 366 | 204 | Flashy Stacky |
 | 367 | 203 | Erica Catherine |
 | 368 | 203 | Sassy Pivotfall |
-| 369 | 202 | Panda Rog |
-| 370 | 202 | Peppy Matchclear |
+| 369 | 202 | Peppy Matchclear |
+| 370 | 202 | Panda Rog |
 | 371 | 201 | Ancient Intuition |
 | 372 | 200 | Groovy Glidepiece |
 | 373 | 199 | Loopy Brickmatch |
-| 374 | 198 | Jonathan Gaffaney |
+| 374 | 198 | Julie A Hutchinson |
 | 375 | 198 | Qoo |
-| 376 | 198 | Julie A Hutchinson |
+| 376 | 198 | Jonathan Gaffaney |
 | 377 | 197 | Smashanator |
 | 378 | 197 | Tessa N Davis |
 | 379 | 196 | KathyandPhillip Woolard |
@@ -391,18 +391,18 @@
 | 383 | 191 | Laci Hutson |
 | 384 | 191 | Jennifer L Rutherford |
 | 385 | 191 | Poppy Builderline |
-| 386 | 190 | Crystal Claypool |
-| 387 | 190 | Shawna Days |
-| 388 | 190 | Kimmy White |
-| 389 | 189 | Lively Patternfall |
-| 390 | 189 | Julie Moore |
-| 391 | 189 | Debbie Buchanan |
-| 392 | 188 | Antonia Wyche |
-| 393 | 187 | Shukee Lo |
-| 394 | 187 | Hhholmesjr |
-| 395 | 186 | Aprill Bolton |
-| 396 | 185 | Jason Hawk |
-| 397 | 185 | Chris Kelly |
+| 386 | 190 | Chris Kelly |
+| 387 | 190 | Crystal Claypool |
+| 388 | 190 | Shawna Days |
+| 389 | 190 | Kimmy White |
+| 390 | 189 | Lively Patternfall |
+| 391 | 189 | Julie Moore |
+| 392 | 189 | Debbie Buchanan |
+| 393 | 188 | Antonia Wyche |
+| 394 | 187 | Shukee Lo |
+| 395 | 187 | Hhholmesjr |
+| 396 | 186 | Aprill Bolton |
+| 397 | 185 | Jason Hawk |
 | 398 | 185 | Deb Horwath |
 | 399 | 184 | HugeLoad |
 | 400 | 182 | Gdiguy |
