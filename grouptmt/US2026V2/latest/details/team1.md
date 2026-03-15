@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 07:34:20 UTC
+# Standings for team1 as of 2026-03-15 07:34:42 UTC
 
 **Total Participants:** 2160
 
@@ -19,7 +19,7 @@
 | 11 | 4858 | Krystal McPherson |
 | 12 | 4381 | Jayna Anoc |
 | 13 | 4265 | Paul Smiar |
-| 14 | 4073 | Robert Jansen |
+| 14 | 4093 | Robert Jansen |
 | 15 | 3858 | Nathaniel Hughes |
 | 16 | 3822 | Amber Whisenhunt |
 | 17 | 3700 | Rosey |
@@ -121,9 +121,9 @@
 | 113 | 741 | 1_Roxanne_3 |
 | 114 | 738 | Mary Pelley |
 | 115 | 736 | tttttttt |
-| 116 | 722 | Tina Blessed Cage |
-| 117 | 717 | Snippy Piecegrid |
-| 118 | 713 | FancyPants |
+| 116 | 733 | FancyPants |
+| 117 | 722 | Tina Blessed Cage |
+| 118 | 717 | Snippy Piecegrid |
 | 119 | 709 | Amy R Clinton |
 | 120 | 707 | Witty Wipegrid |
 | 121 | 706 | Joshua Dye |
@@ -157,8 +157,8 @@
 | 149 | 567 | Sarah Stanonik |
 | 150 | 564 | Joy Bloodworth |
 | 151 | 561 | Marie Helman |
-| 152 | 541 | Dramatic Tiger |
-| 153 | 541 | Chrys Peters |
+| 152 | 551 | Chrys Peters |
+| 153 | 541 | Dramatic Tiger |
 | 154 | 540 | Alezandra Smith |
 | 155 | 538 | Diamond Madison |
 | 156 | 538 | Ramona Gulledge |
@@ -531,33 +531,33 @@
 | 523 | 123 | Tanya Carpenter-Reynolds |
 | 524 | 123 | Jennie Lee Huntley |
 | 525 | 123 | Stormy May |
-| 526 | 122 | Kehlyn King |
-| 527 | 122 | Giggy Snaplink |
-| 528 | 122 | Fancy Tilefall |
+| 526 | 122 | Giggy Snaplink |
+| 527 | 122 | Fancy Tilefall |
+| 528 | 122 | SLAPNUTZ |
 | 529 | 122 | Ash Galvan |
-| 530 | 122 | tay |
-| 531 | 122 | Pig02 |
-| 532 | 122 | SLAPNUTZ |
-| 533 | 121 | Erica Catherine |
-| 534 | 121 | Suzan Frazier |
-| 535 | 121 | Pauline Cortez |
-| 536 | 120 | Ann Brock LaPorte |
-| 537 | 120 | Noah |
-| 538 | 120 | Candace Esposito |
-| 539 | 120 | Lindsay Coit Phillips |
-| 540 | 119 | Tractor Houston |
-| 541 | 119 | Bouncy Tilerpiece |
-| 542 | 118 | Aprill Bolton |
-| 543 | 118 | Teresa Wolf |
-| 544 | 117 | Witty Clusterfit |
-| 545 | 117 | Danielle Kollias |
-| 546 | 116 | l |
+| 530 | 122 | Pig02 |
+| 531 | 122 | Kehlyn King |
+| 532 | 122 | tay |
+| 533 | 121 | J. |
+| 534 | 121 | Pauline Cortez |
+| 535 | 121 | Suzan Frazier |
+| 536 | 121 | Erica Catherine |
+| 537 | 120 | Ann Brock LaPorte |
+| 538 | 120 | Noah |
+| 539 | 120 | Candace Esposito |
+| 540 | 120 | Lindsay Coit Phillips |
+| 541 | 119 | Tractor Houston |
+| 542 | 119 | Bouncy Tilerpiece |
+| 543 | 118 | Aprill Bolton |
+| 544 | 118 | Teresa Wolf |
+| 545 | 117 | Witty Clusterfit |
+| 546 | 117 | Danielle Kollias |
 | 547 | 116 | Heather Bowser |
-| 548 | 116 | Petahboi |
-| 549 | 116 | Jeff Brian Gates |
-| 550 | 116 | Frilly Breaker |
-| 551 | 115 | Wendy Griffith |
-| 552 | 115 | J. |
+| 548 | 116 | l |
+| 549 | 116 | Petahboi |
+| 550 | 116 | Jeff Brian Gates |
+| 551 | 116 | Frilly Breaker |
+| 552 | 115 | Wendy Griffith |
 | 553 | 114 | Boldy Towerfall |
 | 554 | 114 | Joshua Lipscomb |
 | 555 | 114 | Crazy12 |
@@ -579,61 +579,61 @@
 | 571 | 111 | Angie Scott |
 | 572 | 110 | Sissy Lowery Davis |
 | 573 | 110 | Slinky Dashpiece |
-| 574 | 110 | Happy Feet |
-| 575 | 110 | Margaret Rose |
-| 576 | 110 | Loverlylove |
+| 574 | 110 | Loverlylove |
+| 575 | 110 | Happy Feet |
+| 576 | 110 | Margaret Rose |
 | 577 | 110 | Sullivan Tamara |
-| 578 | 109 | Brittney Groler |
-| 579 | 109 | Gigglelymomof2 |
-| 580 | 109 | Laidene Joseph |
-| 581 | 109 | Alana Susan Hanley |
-| 582 | 109 | Geno Bankroll McGill |
+| 578 | 109 | Alana Susan Hanley |
+| 579 | 109 | Laidene Joseph |
+| 580 | 109 | Gigglelymomof2 |
+| 581 | 109 | Geno Bankroll McGill |
+| 582 | 109 | Brittney Groler |
 | 583 | 108 | Tabitha Cornelious |
 | 584 | 108 | Jason Wreggitt |
 | 585 | 107 | Timothy Long |
-| 586 | 107 | Groovy Holder |
-| 587 | 107 | Deb Horwath |
-| 588 | 106 | Snazzy Rotater |
-| 589 | 106 | Moemoe Jackson |
-| 590 | 106 | Leah LaShomb |
-| 591 | 106 | MammaCass |
-| 592 | 106 | David Lowe |
-| 593 | 105 | Shane Caskey |
-| 594 | 105 | April Carroll |
-| 595 | 105 | Ashley Kostek |
-| 596 | 105 | Matthew Laudico |
-| 597 | 104 | Jennifer Obrien |
+| 586 | 107 | Thomas Carlisle |
+| 587 | 107 | Groovy Holder |
+| 588 | 107 | Deb Horwath |
+| 589 | 106 | Leah LaShomb |
+| 590 | 106 | Snazzy Rotater |
+| 591 | 106 | Moemoe Jackson |
+| 592 | 106 | MammaCass |
+| 593 | 106 | David Lowe |
+| 594 | 105 | Matthew Laudico |
+| 595 | 105 | Shane Caskey |
+| 596 | 105 | April Carroll |
+| 597 | 105 | Ashley Kostek |
 | 598 | 104 | bounce back |
-| 599 | 104 | Denise Vardy Vanlanker |
-| 600 | 104 | UltraMAGA |
-| 601 | 103 | Twisty Blockmatch |
-| 602 | 103 | Sam Steig |
-| 603 | 103 | Dan Engelhard |
-| 604 | 103 | Quirky Curvebuilder |
-| 605 | 103 | Lisa Klockenga |
-| 606 | 102 | Manuel Ceniceros |
-| 607 | 102 | Aldona Figiel |
-| 608 | 102 | NolaGal |
-| 609 | 102 | Meagan Nicole |
-| 610 | 102 | SAP |
-| 611 | 102 | Cynthia Mann |
-| 612 | 102 | Rosanna Atria-Schnickel |
-| 613 | 101 | Sabrina Mansfield |
+| 599 | 104 | UltraMAGA |
+| 600 | 104 | Denise Vardy Vanlanker |
+| 601 | 104 | Jennifer Obrien |
+| 602 | 103 | Dan Engelhard |
+| 603 | 103 | Quirky Curvebuilder |
+| 604 | 103 | Lisa Klockenga |
+| 605 | 103 | Twisty Blockmatch |
+| 606 | 103 | Sam Steig |
+| 607 | 102 | NolaGal |
+| 608 | 102 | Aldona Figiel |
+| 609 | 102 | Manuel Ceniceros |
+| 610 | 102 | Rosanna Atria-Schnickel |
+| 611 | 102 | Meagan Nicole |
+| 612 | 102 | Cynthia Mann |
+| 613 | 102 | SAP |
 | 614 | 101 | Tig |
 | 615 | 101 | Aponk |
 | 616 | 101 | Christi Ames |
-| 617 | 101 | Thomas Carlisle |
-| 618 | 100 | Mary McGhee |
-| 619 | 100 | Kristen Hall |
-| 620 | 100 | Michelle Pike |
-| 621 | 100 | Dustin Curtis |
-| 622 | 100 | Dan Sessa |
-| 623 | 100 | Black Rubix |
-| 624 | 100 | Chilly Matchbuilder |
-| 625 | 100 | DaRascal |
-| 626 | 100 | Jeff Frandsen |
-| 627 | 100 | Cynthia Herrmann Egland |
-| 628 | 100 | Dan Baines |
+| 617 | 101 | Sabrina Mansfield |
+| 618 | 100 | Chilly Matchbuilder |
+| 619 | 100 | Dustin Curtis |
+| 620 | 100 | Mary McGhee |
+| 621 | 100 | DaRascal |
+| 622 | 100 | Cynthia Herrmann Egland |
+| 623 | 100 | Kristen Hall |
+| 624 | 100 | Dan Baines |
+| 625 | 100 | Jeff Frandsen |
+| 626 | 100 | Black Rubix |
+| 627 | 100 | Dan Sessa |
+| 628 | 100 | Michelle Pike |
 | 629 | 99 | Lakie Fogle |
 | 630 | 99 | Christopher James Cienfuegos |
 | 631 | 99 | GinjaNinja |
