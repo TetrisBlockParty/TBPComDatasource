@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 11:50:20 UTC
+# Standings for team2 as of 2026-03-15 11:50:43 UTC
 
 **Total Participants:** 2211
 
@@ -92,52 +92,52 @@
 | 84 | 923 | Laura McPheeters |
 | 85 | 919 | p3ttyboop |
 | 86 | 915 | Lisa Neal |
-| 87 | 888 | Raven Smith |
-| 88 | 885 | Brave Matchfit |
-| 89 | 884 | Liana Spikes |
-| 90 | 873 | Autumn Leslie |
-| 91 | 869 | Peppy Slice |
-| 92 | 859 | Neet |
-| 93 | 856 | Peachy Matchgrid |
-| 94 | 853 | Spice Ginger |
-| 95 | 848 | Khalysta |
-| 96 | 843 | TreeWee |
-| 97 | 831 | Dreamy Clicker |
-| 98 | 828 | Topsannah Topsannah |
-| 99 | 822 | Chipper Matchclear |
-| 100 | 820 | Andrey Sharov |
-| 101 | 796 | sweet lil miss |
-| 102 | 788 | Jennifer Golub |
-| 103 | 784 | Robert Martinez |
-| 104 | 764 | Adrienne Fisher |
-| 105 | 756 | John Matson |
-| 106 | 744 | Jenny Derby |
-| 107 | 742 | Sass |
-| 108 | 735 | Joy LaJeunesse |
-| 109 | 722 | Elizabeth Stanley |
-| 110 | 721 | Ariel Pearson |
-| 111 | 720 | Jamie Lang |
-| 112 | 719 | Antoinette Griffin |
-| 113 | 704 | Joshua |
-| 114 | 701 | Mike Carden |
-| 115 | 700 | Veronica Martin Trinkle |
-| 116 | 700 | Dane Roy |
-| 117 | 699 | Arthe3rd |
-| 118 | 698 | nickle109 |
-| 119 | 686 | Danielle Mogg |
-| 120 | 660 | Lateisha Morris |
-| 121 | 659 | Ania |
-| 122 | 644 | Dandy Crasher |
-| 123 | 636 | Qing DG |
-| 124 | 634 | Nathaniel Hardy |
-| 125 | 631 | Elissa S-k |
-| 126 | 630 | Kristy Monk |
-| 127 | 609 | Anna Faulkner |
-| 128 | 607 | Dapper Gridclear |
-| 129 | 604 | Cw |
-| 130 | 603 | Liss Lint |
-| 131 | 600 | Sheena Harris |
-| 132 | 599 | Eckoman518 |
+| 87 | 899 | Eckoman518 |
+| 88 | 888 | Raven Smith |
+| 89 | 885 | Brave Matchfit |
+| 90 | 884 | Liana Spikes |
+| 91 | 873 | Autumn Leslie |
+| 92 | 869 | Peppy Slice |
+| 93 | 859 | Neet |
+| 94 | 856 | Peachy Matchgrid |
+| 95 | 853 | Spice Ginger |
+| 96 | 848 | Khalysta |
+| 97 | 843 | TreeWee |
+| 98 | 831 | Dreamy Clicker |
+| 99 | 828 | Topsannah Topsannah |
+| 100 | 822 | Chipper Matchclear |
+| 101 | 820 | Andrey Sharov |
+| 102 | 796 | sweet lil miss |
+| 103 | 788 | Jennifer Golub |
+| 104 | 784 | Robert Martinez |
+| 105 | 764 | Adrienne Fisher |
+| 106 | 756 | John Matson |
+| 107 | 744 | Jenny Derby |
+| 108 | 742 | Sass |
+| 109 | 735 | Joy LaJeunesse |
+| 110 | 722 | Elizabeth Stanley |
+| 111 | 721 | Ariel Pearson |
+| 112 | 720 | Jamie Lang |
+| 113 | 719 | Antoinette Griffin |
+| 114 | 704 | Joshua |
+| 115 | 701 | Mike Carden |
+| 116 | 700 | Veronica Martin Trinkle |
+| 117 | 700 | Dane Roy |
+| 118 | 699 | Arthe3rd |
+| 119 | 698 | nickle109 |
+| 120 | 686 | Danielle Mogg |
+| 121 | 660 | Lateisha Morris |
+| 122 | 659 | Ania |
+| 123 | 644 | Dandy Crasher |
+| 124 | 636 | Qing DG |
+| 125 | 634 | Nathaniel Hardy |
+| 126 | 631 | Elissa S-k |
+| 127 | 630 | Kristy Monk |
+| 128 | 609 | Anna Faulkner |
+| 129 | 607 | Dapper Gridclear |
+| 130 | 604 | Cw |
+| 131 | 603 | Liss Lint |
+| 132 | 600 | Sheena Harris |
 | 133 | 594 | LolaSmilez |
 | 134 | 587 | Minxy |
 | 135 | 586 | Giggly Clearzone |
@@ -204,8 +204,8 @@
 | 196 | 389 | Jjza |
 | 197 | 382 | Kacee Conrad Bock |
 | 198 | 381 | Jocelynn Marie |
-| 199 | 380 | Michelle Allers |
-| 200 | 380 | Sandy Aragon |
+| 199 | 380 | Sandy Aragon |
+| 200 | 380 | Michelle Allers |
 | 201 | 379 | 🍏 Green apple |
 | 202 | 371 | hyper Zip |
 | 203 | 370 | BYM4L |
@@ -449,10 +449,10 @@
 | 441 | 169 | Jason McCloy |
 | 442 | 168 | Zesty Link |
 | 443 | 166 | sofiiya the forst |
-| 444 | 166 | Spicy Patternbuilder |
-| 445 | 166 | NoShoesNation |
-| 446 | 166 | Tyler Bechtel |
-| 447 | 166 | Deborah Potts |
+| 444 | 166 | Tyler Bechtel |
+| 445 | 166 | Spicy Patternbuilder |
+| 446 | 166 | Deborah Potts |
+| 447 | 166 | NoShoesNation |
 | 448 | 165 | Destiny Brady |
 | 449 | 165 | LaChalle Shay |
 | 450 | 165 | Joe England |
@@ -461,8 +461,8 @@
 | 453 | 164 | Ash Whitley |
 | 454 | 164 | Loony Puzzle |
 | 455 | 163 | Christine Soltis |
-| 456 | 163 | Mel |
-| 457 | 163 | Julia Freeman |
+| 456 | 163 | Julia Freeman |
+| 457 | 163 | Mel |
 | 458 | 162 | Lea Gann |
 | 459 | 162 | Sylvie Lemoine |
 | 460 | 162 | Lucy Honer |
@@ -473,8 +473,8 @@
 | 465 | 160 | Chilly Fallgrid |
 | 466 | 159 | Iliveformygirlz Smith |
 | 467 | 158 | Brittany Backus |
-| 468 | 157 | Frisky Riserbuilder |
-| 469 | 157 | John De Guzman Sydiongco |
+| 468 | 157 | John De Guzman Sydiongco |
+| 469 | 157 | Frisky Riserbuilder |
 | 470 | 156 | Dreamy Snapbuilder |
 | 471 | 156 | SuZee |
 | 472 | 154 | Jess Ortiz |
@@ -486,19 +486,19 @@
 | 478 | 152 | Anthony Magaraci |
 | 479 | 151 | Ashley Danielle |
 | 480 | 151 | Lemon Bar |
-| 481 | 150 | Marinara |
-| 482 | 150 | Glitzy Rollblock |
-| 483 | 150 | Breanna Lemus |
-| 484 | 150 | Sherry Jones |
-| 485 | 150 | May May |
-| 486 | 150 | Tracey Whetstone |
-| 487 | 150 | Brave Fallzone |
-| 488 | 149 | Daring Rotator |
-| 489 | 149 | Teresa Longwell |
-| 490 | 149 | Lizzie Marie |
-| 491 | 149 | Jessi |
-| 492 | 147 | Jazzy Hitter |
-| 493 | 147 | Jenny Carrier |
+| 481 | 151 | Daring Rotator |
+| 482 | 150 | Tracey Whetstone |
+| 483 | 150 | Brave Fallzone |
+| 484 | 150 | Marinara |
+| 485 | 150 | Glitzy Rollblock |
+| 486 | 150 | Breanna Lemus |
+| 487 | 150 | Sherry Jones |
+| 488 | 150 | May May |
+| 489 | 149 | Lizzie Marie |
+| 490 | 149 | Jessi |
+| 491 | 149 | Teresa Longwell |
+| 492 | 147 | Jenny Carrier |
+| 493 | 147 | Jazzy Hitter |
 | 494 | 146 | Elizabeth Blankenship |
 | 495 | 146 | Jen Robinson |
 | 496 | 145 | Goofy Towerer |

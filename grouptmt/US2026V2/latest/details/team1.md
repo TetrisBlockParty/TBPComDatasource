@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 11:50:20 UTC
+# Standings for team1 as of 2026-03-15 11:50:43 UTC
 
 **Total Participants:** 2218
 
@@ -186,11 +186,11 @@
 | 178 | 473 | Alicia Sheckler |
 | 179 | 472 | Jaime Barrett Nelson |
 | 180 | 469 | Tatiyana Holm |
-| 181 | 466 | Justin Jerome |
-| 182 | 465 | Alex Hennigh |
-| 183 | 459 | Loony Towerpiece |
-| 184 | 458 | Christina Costantino |
-| 185 | 457 | Jumpy Spinblock |
+| 181 | 467 | Jumpy Spinblock |
+| 182 | 466 | Justin Jerome |
+| 183 | 465 | Alex Hennigh |
+| 184 | 459 | Loony Towerpiece |
+| 185 | 458 | Christina Costantino |
 | 186 | 456 | Stefanie Champion |
 | 187 | 449 | Penny Morrical |
 | 188 | 441 | Courtney Leigh Deiber |
@@ -470,41 +470,41 @@
 | 462 | 156 | George Ljr |
 | 463 | 155 | Tausha Mathews |
 | 464 | 155 | Margo Fenton |
-| 465 | 155 | Lori Dutton |
-| 466 | 155 | Shekita Gibbs |
-| 467 | 155 | Maria Lopez |
+| 465 | 155 | Shekita Gibbs |
+| 466 | 155 | Maria Lopez |
+| 467 | 155 | Lori Dutton |
 | 468 | 155 | Erin Green |
-| 469 | 154 | AngelVoice JB |
-| 470 | 154 | Chill Matchzone |
-| 471 | 154 | Armoni |
-| 472 | 153 | Wulfbyte |
+| 469 | 154 | Armoni |
+| 470 | 154 | AngelVoice JB |
+| 471 | 154 | Chill Matchzone |
+| 472 | 153 | Amanda Richardson |
 | 473 | 153 | Jessica |
-| 474 | 152 | Ruby Sandberg |
-| 475 | 151 | Breezy Wiper |
-| 476 | 151 | Joyce Harrell-chavis |
-| 477 | 150 | Jeremy Mitchell |
-| 478 | 149 | Snippy Risebuilder |
-| 479 | 148 | mrkw |
-| 480 | 147 | Spicy Twister |
-| 481 | 147 | Ophelia Rae |
-| 482 | 145 | Hoppy Buildgrid |
+| 474 | 153 | Wulfbyte |
+| 475 | 152 | Ruby Sandberg |
+| 476 | 151 | Breezy Wiper |
+| 477 | 151 | Joyce Harrell-chavis |
+| 478 | 150 | Jeremy Mitchell |
+| 479 | 149 | Snippy Risebuilder |
+| 480 | 148 | mrkw |
+| 481 | 147 | Spicy Twister |
+| 482 | 147 | Ophelia Rae |
 | 483 | 145 | Michael Espinosa Ulibarri Jr. |
 | 484 | 145 | Bingo Wingo |
-| 485 | 144 | William Ramirez |
-| 486 | 144 | John Gardner |
-| 487 | 144 | Porkobello |
-| 488 | 144 | Gina Annese |
-| 489 | 143 | PennyCandee |
-| 490 | 143 | Laura Morrison |
-| 491 | 142 | Amanda Richardson |
-| 492 | 141 | Happy Feet |
-| 493 | 141 | Roberta Arnold |
+| 485 | 145 | Hoppy Buildgrid |
+| 486 | 144 | Porkobello |
+| 487 | 144 | John Gardner |
+| 488 | 144 | William Ramirez |
+| 489 | 144 | Gina Annese |
+| 490 | 143 | PennyCandee |
+| 491 | 143 | Laura Morrison |
+| 492 | 141 | Roberta Arnold |
+| 493 | 141 | Happy Feet |
 | 494 | 140 | Vergie Michael |
 | 495 | 140 | Teddy Marshall |
 | 496 | 140 | Chris Kelly |
 | 497 | 140 | Hasty Towerpiece |
-| 498 | 140 | Jeff Frandsen |
-| 499 | 140 | Dennis Eitler |
+| 498 | 140 | Dennis Eitler |
+| 499 | 140 | Jeff Frandsen |
 | 500 | 139 | Swalshy |
 | 501 | 139 | Kakalina Thayer |
 | 502 | 138 | MisfitH |
@@ -848,24 +848,24 @@
 | 840 | 80 | Chummy Risebuilder |
 | 841 | 80 | Krazykat💋❤️💋 |
 | 842 | 80 | Ricardo Ferreira |
-| 843 | 80 | Fredricka Cole |
-| 844 | 80 | MomOf2Angels |
+| 843 | 80 | MaegenMarie Jones |
+| 844 | 80 | Fredricka Cole |
 | 845 | 80 | Michael-Melissa Markham |
 | 846 | 80 | Tiffany McLeod |
-| 847 | 80 | MaegenMarie Jones |
-| 848 | 79 | Jesse Young |
-| 849 | 79 | Bri037 |
-| 850 | 79 | Aaron M Luna |
-| 851 | 79 | Loony Spinzone |
-| 852 | 79 | Michael Phillips |
-| 853 | 79 | Cheeky Blocky |
-| 854 | 79 | Giggly Shatterer |
-| 855 | 79 | iceman |
-| 856 | 79 | Nifty |
-| 857 | 79 | Kelly Miller Williams |
-| 858 | 78 | Penny Clark |
+| 847 | 80 | MomOf2Angels |
+| 848 | 79 | ZhenZhen |
+| 849 | 79 | Jesse Young |
+| 850 | 79 | Bri037 |
+| 851 | 79 | Aaron M Luna |
+| 852 | 79 | Loony Spinzone |
+| 853 | 79 | Michael Phillips |
+| 854 | 79 | Cheeky Blocky |
+| 855 | 79 | Giggly Shatterer |
+| 856 | 79 | iceman |
+| 857 | 79 | Nifty |
+| 858 | 79 | Kelly Miller Williams |
 | 859 | 78 | Texastytest |
-| 860 | 78 | ZhenZhen |
+| 860 | 78 | Penny Clark |
 | 861 | 78 | sobercocoa |
 | 862 | 78 | Purple Pixie |
 | 863 | 78 | b430 |
