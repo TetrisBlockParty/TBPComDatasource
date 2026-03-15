@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 02:44:18 UTC
+# Standings for team1 as of 2026-03-15 02:44:40 UTC
 
 **Total Participants:** 2038
 
@@ -22,9 +22,9 @@
 | 14 | 3700 | Rosey |
 | 15 | 3665 | Paul Smiar |
 | 16 | 3358 | Nathaniel Hughes |
-| 17 | 3312 | Robert Jansen |
-| 18 | 3311 | Amy Jerman |
-| 19 | 3296 | Amy Roche |
+| 17 | 3352 | Amy Roche |
+| 18 | 3312 | Robert Jansen |
+| 19 | 3311 | Amy Jerman |
 | 20 | 3264 | Megan Klinkner |
 | 21 | 3200 | Troy Gussler |
 | 22 | 3157 | Amanda Sheppard |
@@ -946,50 +946,50 @@
 | 938 | 56 | Aigner Monae |
 | 939 | 56 | Nunya |
 | 940 | 56 | Jen |
-| 941 | 56 | Speedy Rollpiece |
-| 942 | 56 | Bryant Rodriguez |
+| 941 | 56 | Brandon Blanchard |
+| 942 | 56 | Speedy Rollpiece |
 | 943 | 56 | sgt baby |
-| 944 | 55 | Salena Pardue |
-| 945 | 55 | slim |
-| 946 | 55 | Ryne Pinkston |
-| 947 | 55 | Jay Will |
-| 948 | 55 | Daisy Sunny |
-| 949 | 55 | Leche |
-| 950 | 55 | Tabitha Rose Stone |
-| 951 | 55 | Jason S |
-| 952 | 55 | Karissa Hull |
+| 944 | 56 | Bryant Rodriguez |
+| 945 | 55 | Tabitha Rose Stone |
+| 946 | 55 | Saucy Tilemaker |
+| 947 | 55 | slim |
+| 948 | 55 | Ryne Pinkston |
+| 949 | 55 | Jay Will |
+| 950 | 55 | Daisy Sunny |
+| 951 | 55 | Leche |
+| 952 | 55 | Jason S |
 | 953 | 55 | Giggly Twistslam |
-| 954 | 55 | Ernie Guyette |
-| 955 | 55 | wombat |
-| 956 | 55 | Meli |
-| 957 | 55 | Kathy Searles |
+| 954 | 55 | Karissa Hull |
+| 955 | 55 | Ernie Guyette |
+| 956 | 55 | wombat |
+| 957 | 55 | Meli |
 | 958 | 55 | Blondie |
-| 959 | 55 | Ben Barkley |
-| 960 | 54 | Bouncy Patternzone |
-| 961 | 54 | Edna Clinton |
-| 962 | 54 | Saucy Tilemaker |
-| 963 | 54 | Billy |
-| 964 | 54 | John Gardner |
-| 965 | 54 | Swanky Tiltpiece |
-| 966 | 54 | Jessa Short-Burkhart |
-| 967 | 54 | Lori Abney |
-| 968 | 54 | Bumpy Morris |
-| 969 | 54 | Amanda Ellison |
-| 970 | 54 | ChaCha |
-| 971 | 54 | Cozy Cascader |
-| 972 | 53 | momme |
-| 973 | 53 | Saundra Hebert |
-| 974 | 53 | Amy Hollinger |
-| 975 | 53 | Shannon Tannehill |
-| 976 | 53 | Zany Tower |
-| 977 | 53 | GoobaGoo67 |
-| 978 | 53 | Gregg Scott |
-| 979 | 53 | Zany Glidepiece |
-| 980 | 53 | Brandon Blanchard |
-| 981 | 53 | al |
-| 982 | 53 | TaRcY |
-| 983 | 52 | Tiffany Armen |
-| 984 | 52 | Loony Blockfall |
+| 959 | 55 | Kathy Searles |
+| 960 | 55 | Ben Barkley |
+| 961 | 55 | Salena Pardue |
+| 962 | 54 | Jessa Short-Burkhart |
+| 963 | 54 | Bouncy Patternzone |
+| 964 | 54 | Edna Clinton |
+| 965 | 54 | Billy |
+| 966 | 54 | Swanky Tiltpiece |
+| 967 | 54 | John Gardner |
+| 968 | 54 | Lori Abney |
+| 969 | 54 | Bumpy Morris |
+| 970 | 54 | Amanda Ellison |
+| 971 | 54 | ChaCha |
+| 972 | 54 | Cozy Cascader |
+| 973 | 53 | momme |
+| 974 | 53 | Saundra Hebert |
+| 975 | 53 | TaRcY |
+| 976 | 53 | Shannon Tannehill |
+| 977 | 53 | Amy Hollinger |
+| 978 | 53 | Zany Tower |
+| 979 | 53 | GoobaGoo67 |
+| 980 | 53 | Zany Glidepiece |
+| 981 | 53 | Gregg Scott |
+| 982 | 53 | al |
+| 983 | 52 | Loony Blockfall |
+| 984 | 52 | Tiffany Armen |
 | 985 | 52 | Loony Spinzone |
 | 986 | 52 | Loony Dropzone |
 | 987 | 52 | Karon Miller Hammond |
