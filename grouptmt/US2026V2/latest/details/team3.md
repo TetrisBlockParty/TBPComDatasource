@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-15 06:52:17 UTC
+# Standings for team3 as of 2026-03-15 06:52:41 UTC
 
 **Total Participants:** 3329
 
@@ -272,7 +272,7 @@
 | 264 | 379 | Stephanie Keasling |
 | 265 | 379 | Kyle-Amanda Green |
 | 266 | 376 | Danielle DeLozier Plesec |
-| 267 | 373 | Nonnina |
+| 267 | 376 | Nonnina |
 | 268 | 372 | Annette R Fraire-Martinez |
 | 269 | 370 | Megan Helton |
 | 270 | 368 | Swanky Blockmatch |
@@ -406,8 +406,8 @@
 | 398 | 252 | Shanae Taylor |
 | 399 | 252 | Hannah Conlon |
 | 400 | 252 | Christina M Arroyo |
-| 401 | 251 | Kate Kimball Schmitz |
-| 402 | 251 | J Ro |
+| 401 | 251 | J Ro |
+| 402 | 251 | Kate Kimball Schmitz |
 | 403 | 251 | Pinky |
 | 404 | 250 | Tipsy Patternbuilder |
 | 405 | 249 | GiGi |
@@ -416,25 +416,25 @@
 | 408 | 248 | Nerdy Tile |
 | 409 | 247 | Mmma |
 | 410 | 247 | Rona Fritzinger |
-| 411 | 246 | Amanda Marie |
-| 412 | 246 | Matthew Bayley-Hay |
-| 413 | 245 | Vskons |
-| 414 | 244 | Moose Chow Ski |
-| 415 | 244 | Boricua64 |
-| 416 | 244 | Fancy Piecebuilder |
-| 417 | 243 | Renee |
-| 418 | 243 | Nicole Gurule |
-| 419 | 243 | Shawn Matter |
-| 420 | 242 | Loopy Fallzone |
-| 421 | 241 | Nichē Derricks |
-| 422 | 241 | Nicole JC |
-| 423 | 241 | Bsrn |
-| 424 | 240 | Rechell Johnson |
-| 425 | 240 | Blakkha Brown |
-| 426 | 240 | Michelle Ramirez |
-| 427 | 240 | SkipTheSadSauce |
-| 428 | 240 | Sandi Tracey Richards |
-| 429 | 239 | Hyper Buildsnap |
+| 411 | 247 | Hyper Buildsnap |
+| 412 | 246 | Amanda Marie |
+| 413 | 246 | Matthew Bayley-Hay |
+| 414 | 245 | Vskons |
+| 415 | 244 | Moose Chow Ski |
+| 416 | 244 | Boricua64 |
+| 417 | 244 | Fancy Piecebuilder |
+| 418 | 243 | Renee |
+| 419 | 243 | Nicole Gurule |
+| 420 | 243 | Shawn Matter |
+| 421 | 242 | Loopy Fallzone |
+| 422 | 241 | Nichē Derricks |
+| 423 | 241 | Nicole JC |
+| 424 | 241 | Bsrn |
+| 425 | 240 | Rechell Johnson |
+| 426 | 240 | Blakkha Brown |
+| 427 | 240 | Michelle Ramirez |
+| 428 | 240 | SkipTheSadSauce |
+| 429 | 240 | Sandi Tracey Richards |
 | 430 | 238 | Wisely Samantha |
 | 431 | 237 | Joy Smith |
 | 432 | 237 | Brittany Rosales |
@@ -1277,49 +1277,49 @@
 | 1269 | 71 | Smurfette |
 | 1270 | 71 | Katie Towers |
 | 1271 | 71 | Cooldude |
-| 1272 | 70 | Bethany Flores |
-| 1273 | 70 | SugaMama |
-| 1274 | 70 | Foltz Lee Kelli |
-| 1275 | 70 | 2LAIDBACK |
-| 1276 | 70 | Melissa Moshtael |
-| 1277 | 70 | Margarita Martinez |
-| 1278 | 70 | Taylor Blue |
-| 1279 | 70 | Tuan Pham |
-| 1280 | 70 | Jessica Altobelli |
-| 1281 | 70 | Cassy Knotts |
-| 1282 | 70 | Semga Precious |
-| 1283 | 70 | Amanda Eberle |
-| 1284 | 70 | Glitzy Zigzag |
-| 1285 | 70 | Giddy Fallgrid |
-| 1286 | 70 | Thomas J |
-| 1287 | 70 | Courtney Luther |
-| 1288 | 70 | Snazzy Blockpiece |
-| 1289 | 70 | Kammy Hill |
-| 1290 | 70 | Bell |
-| 1291 | 70 | Snippy Gridmatch |
-| 1292 | 70 | Carrie Dodge |
-| 1293 | 70 | Tessina Dewey-Mancino |
-| 1294 | 70 | David Ramos |
-| 1295 | 70 | John Dixon |
-| 1296 | 70 | Rachel Nilles |
-| 1297 | 70 | Joshp420 |
-| 1298 | 70 | Roxanne Lerios |
-| 1299 | 70 | ShadowQueen7 |
-| 1300 | 70 | Princesst |
-| 1301 | 70 | Swanky Blockzone |
-| 1302 | 70 | Breezy Towerzone |
-| 1303 | 69 | Ashley Tookes |
-| 1304 | 69 | Darci Smith |
-| 1305 | 69 | Kat Heinzel |
-| 1306 | 69 | Scott Jameson |
-| 1307 | 69 | Lazy Riserfit |
-| 1308 | 69 | Clever Tilerpiece |
-| 1309 | 69 | Giddy Gridpiece |
-| 1310 | 69 | Latham Z Kimberly |
-| 1311 | 69 | Christina Shepperd |
-| 1312 | 69 | Saucy Linkgrid |
-| 1313 | 69 | Rachel |
-| 1314 | 69 | GumboJoe |
+| 1272 | 71 | GumboJoe |
+| 1273 | 70 | Bethany Flores |
+| 1274 | 70 | SugaMama |
+| 1275 | 70 | Foltz Lee Kelli |
+| 1276 | 70 | 2LAIDBACK |
+| 1277 | 70 | Melissa Moshtael |
+| 1278 | 70 | Margarita Martinez |
+| 1279 | 70 | Taylor Blue |
+| 1280 | 70 | Tuan Pham |
+| 1281 | 70 | Jessica Altobelli |
+| 1282 | 70 | Cassy Knotts |
+| 1283 | 70 | Semga Precious |
+| 1284 | 70 | Amanda Eberle |
+| 1285 | 70 | Glitzy Zigzag |
+| 1286 | 70 | Giddy Fallgrid |
+| 1287 | 70 | Thomas J |
+| 1288 | 70 | Courtney Luther |
+| 1289 | 70 | Snazzy Blockpiece |
+| 1290 | 70 | Kammy Hill |
+| 1291 | 70 | Bell |
+| 1292 | 70 | Snippy Gridmatch |
+| 1293 | 70 | Carrie Dodge |
+| 1294 | 70 | Tessina Dewey-Mancino |
+| 1295 | 70 | David Ramos |
+| 1296 | 70 | John Dixon |
+| 1297 | 70 | Rachel Nilles |
+| 1298 | 70 | Joshp420 |
+| 1299 | 70 | Roxanne Lerios |
+| 1300 | 70 | ShadowQueen7 |
+| 1301 | 70 | Princesst |
+| 1302 | 70 | Swanky Blockzone |
+| 1303 | 70 | Breezy Towerzone |
+| 1304 | 69 | Ashley Tookes |
+| 1305 | 69 | Darci Smith |
+| 1306 | 69 | Kat Heinzel |
+| 1307 | 69 | Scott Jameson |
+| 1308 | 69 | Lazy Riserfit |
+| 1309 | 69 | Clever Tilerpiece |
+| 1310 | 69 | Giddy Gridpiece |
+| 1311 | 69 | Latham Z Kimberly |
+| 1312 | 69 | Christina Shepperd |
+| 1313 | 69 | Saucy Linkgrid |
+| 1314 | 69 | Rachel |
 | 1315 | 69 | AshBash44 |
 | 1316 | 69 | ShadowMage22 |
 | 1317 | 69 | Aspen Lynch |
