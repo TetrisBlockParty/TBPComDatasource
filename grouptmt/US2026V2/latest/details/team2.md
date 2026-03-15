@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 02:56:20 UTC
+# Standings for team2 as of 2026-03-15 02:56:42 UTC
 
 **Total Participants:** 2019
 
@@ -66,7 +66,7 @@
 | 58 | 1168 | Alyssa Cox |
 | 59 | 1165 | Elizabeth Crowder Pelton |
 | 60 | 1150 | Dreamy Linkbuilder |
-| 61 | 1125 | Bubbly Twistpiece |
+| 61 | 1127 | Bubbly Twistpiece |
 | 62 | 1090 | opf |
 | 63 | 1013 | lovethedana |
 | 64 | 999 | Giggy Matchpiece |
@@ -135,10 +135,10 @@
 | 127 | 533 | Dapper Gridclear |
 | 128 | 530 | Topsannah Topsannah |
 | 129 | 510 | Dane Roy |
-| 130 | 509 | Ultramarine |
-| 131 | 507 | Rob Riggin |
-| 132 | 505 | Tess Shaheen |
-| 133 | 504 | Rafael Valentin |
+| 130 | 509 | Rafael Valentin |
+| 131 | 509 | Ultramarine |
+| 132 | 507 | Rob Riggin |
+| 133 | 505 | Tess Shaheen |
 | 134 | 496 | Pikake Medeiros |
 | 135 | 493 | Amanda Sullivan |
 | 136 | 485 | Frothy Linker |
@@ -177,8 +177,8 @@
 | 169 | 377 | Paul Hudak |
 | 170 | 372 | Kacee Conrad Bock |
 | 171 | 370 | Jjza |
-| 172 | 368 | Dee Doubleyou |
-| 173 | 368 | Tiff Vs Tiffany |
+| 172 | 368 | Tiff Vs Tiffany |
+| 173 | 368 | Dee Doubleyou |
 | 174 | 355 | Jumpy Breaker |
 | 175 | 350 | Nick Kozik |
 | 176 | 349 | Liz Wambsgans |
