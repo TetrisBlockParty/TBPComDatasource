@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 03:30:20 UTC
+# Standings for team2 as of 2026-03-15 03:30:41 UTC
 
 **Total Participants:** 2040
 
@@ -2029,23 +2029,23 @@
 | 2021 | 5 | Leeann Couch |
 | 2022 | 5 | Alexandria Shannon |
 | 2023 | 5 | Perky Piecegrid |
-| 2024 | 5 | Shera |
-| 2025 | 5 | Amanda Conaghan |
-| 2026 | 5 | Kerry Lee Powell |
+| 2024 | 5 | Sam Hazlewood |
+| 2025 | 5 | Kerry Lee Powell |
+| 2026 | 5 | Amanda Conaghan |
 | 2027 | 5 | hellyee |
 | 2028 | 5 | Jamie Hicks |
 | 2029 | 5 | Beep Pie |
 | 2030 | 5 | Brave Matchfit |
-| 2031 | 5 | Sam Hazlewood |
-| 2032 | 5 | Debbie Greaux |
-| 2033 | 5 | Andrea Velasco Dela Cruz |
+| 2031 | 5 | Debbie Greaux |
+| 2032 | 5 | Andrea Velasco Dela Cruz |
+| 2033 | 5 | Robin |
 | 2034 | 5 | Dizzy Linkpiece |
 | 2035 | 5 | Ashley Patrice London |
 | 2036 | 5 | Kristi Neal |
 | 2037 | 5 | Tammy Kirby Bingel |
 | 2038 | 5 | Christopher Kissiah |
 | 2039 | 5 | Danielle Barthelme |
-| 2040 | 5 | Robin |
+| 2040 | 5 | Shera |
 
 ---
 *Standings created by tournaments datasource generation tool*
