@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 10:08:20 UTC
+# Standings for team2 as of 2026-03-15 10:08:42 UTC
 
 **Total Participants:** 2191
 
@@ -85,7 +85,7 @@
 | 77 | 1002 | Loopy Clusterer |
 | 78 | 999 | Giggy Matchpiece |
 | 79 | 997 | Marianthe Bagensie |
-| 80 | 979 | Grace Rubalcada |
+| 80 | 981 | Grace Rubalcada |
 | 81 | 966 | Arnae Draughon |
 | 82 | 926 | Nicole Cannon |
 | 83 | 923 | Laura McPheeters |
@@ -481,34 +481,34 @@
 | 473 | 149 | Daring Rotator |
 | 474 | 149 | Tyler Bechtel |
 | 475 | 149 | Lizzie Marie |
-| 476 | 147 | Jazzy Hitter |
-| 477 | 147 | Jenny Carrier |
-| 478 | 146 | Jen Robinson |
-| 479 | 146 | Chill Builder |
+| 476 | 147 | Shelbs |
+| 477 | 147 | Jazzy Hitter |
+| 478 | 147 | Jenny Carrier |
+| 479 | 146 | Jen Robinson |
 | 480 | 146 | Elizabeth Blankenship |
-| 481 | 145 | Goofy Towerer |
-| 482 | 145 | Steady Treal |
-| 483 | 145 | Kelly Williams |
-| 484 | 145 | Paula Little |
-| 485 | 144 | JTH |
-| 486 | 144 | Wishabishwood |
-| 487 | 144 | Marc Abney |
-| 488 | 144 | Brandon Maxey |
-| 489 | 144 | Juana |
-| 490 | 142 | Kirsten Hanes Gasper |
-| 491 | 142 | Montiette Mcglown |
-| 492 | 142 | Nicole Lynnette Mahurin |
-| 493 | 142 | Prette Qui |
-| 494 | 141 | Mona Sharma |
-| 495 | 141 | MrMais89 |
-| 496 | 141 | Tee Jaleesa |
-| 497 | 141 | Jessica Petersen |
+| 481 | 146 | Chill Builder |
+| 482 | 145 | Goofy Towerer |
+| 483 | 145 | Steady Treal |
+| 484 | 145 | Kelly Williams |
+| 485 | 145 | Paula Little |
+| 486 | 144 | JTH |
+| 487 | 144 | Wishabishwood |
+| 488 | 144 | Marc Abney |
+| 489 | 144 | Brandon Maxey |
+| 490 | 144 | Juana |
+| 491 | 142 | Kirsten Hanes Gasper |
+| 492 | 142 | Montiette Mcglown |
+| 493 | 142 | Nicole Lynnette Mahurin |
+| 494 | 142 | Prette Qui |
+| 495 | 141 | Mona Sharma |
+| 496 | 141 | MrMais89 |
+| 497 | 141 | Tee Jaleesa |
 | 498 | 141 | Chiran Xu |
-| 499 | 140 | Giggity boots |
-| 500 | 140 | Brenda Lee Vander Molen |
-| 501 | 140 | Shelbs |
-| 502 | 140 | Tanya Abernathy Jackson |
-| 503 | 140 | Spicy Strikerbuilder |
+| 499 | 141 | Jessica Petersen |
+| 500 | 140 | Spicy Strikerbuilder |
+| 501 | 140 | Brenda Lee Vander Molen |
+| 502 | 140 | Giggity boots |
+| 503 | 140 | Tanya Abernathy Jackson |
 | 504 | 140 | Rackemwillie34 |
 | 505 | 140 | Zany Dashgrid |
 | 506 | 140 | Quitito1014 |
@@ -526,16 +526,16 @@
 | 518 | 136 | jess |
 | 519 | 136 | Audrey Jones |
 | 520 | 135 | Pippa45 |
-| 521 | 135 | Dizzy Brickline |
-| 522 | 135 | Jessi |
-| 523 | 135 | sofiiya the forst |
+| 521 | 135 | Jessi |
+| 522 | 135 | sofiiya the forst |
+| 523 | 135 | Dizzy Brickline |
 | 524 | 134 | Clever Roll |
 | 525 | 134 | Jean Yap |
 | 526 | 134 | Brady Riessen |
 | 527 | 133 | Jeremy Steines |
 | 528 | 133 | Trisha Balmer |
-| 529 | 133 | Aimee Byrom |
-| 530 | 133 | Shankee mgee |
+| 529 | 133 | Shankee mgee |
+| 530 | 133 | Aimee Byrom |
 | 531 | 132 | Jolie Hatfield |
 | 532 | 132 | Dimitra Zazara |
 | 533 | 132 | April |
@@ -549,11 +549,11 @@
 | 541 | 129 | BugMansMom |
 | 542 | 129 | Martinez Jacobo |
 | 543 | 129 | Selena Combee |
-| 544 | 128 | TiffanyJ |
-| 545 | 128 | Joyce Murff |
+| 544 | 128 | Lisa Kline |
+| 545 | 128 | TiffanyJ |
 | 546 | 128 | Alboo |
 | 547 | 128 | Kimmie Gargano |
-| 548 | 128 | Lisa Kline |
+| 548 | 128 | Joyce Murff |
 | 549 | 128 | Kasheba Y Bowens |
 | 550 | 127 | Shane Gann |
 | 551 | 127 | LeVeL27 |
