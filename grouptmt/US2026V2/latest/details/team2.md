@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 08:22:42 UTC
+# Standings for team2 as of 2026-03-15 08:23:19 UTC
 
 **Total Participants:** 2166
 
@@ -147,10 +147,10 @@
 | 139 | 558 | DanesMama |
 | 140 | 553 | Marc |
 | 141 | 547 | Carson Goldminc |
-| 142 | 538 | Deb Wasano |
-| 143 | 535 | Dane Roy |
-| 144 | 533 | Dapper Gridclear |
-| 145 | 531 | Giggly Clearzone |
+| 142 | 538 | Giggly Clearzone |
+| 143 | 538 | Deb Wasano |
+| 144 | 535 | Dane Roy |
+| 145 | 533 | Dapper Gridclear |
 | 146 | 520 | Foxy |
 | 147 | 509 | Rafael Valentin |
 | 148 | 507 | Rob Riggin |
@@ -313,11 +313,11 @@
 | 305 | 230 | Amber Lashbrook |
 | 306 | 230 | Samantha Bagent |
 | 307 | 229 | Ann Jessica |
-| 308 | 229 | Ess |
-| 309 | 227 | Koipod |
-| 310 | 227 | Fbai |
-| 311 | 227 | Randy Jansen |
-| 312 | 226 | KEILANIU |
+| 308 | 229 | KEILANIU |
+| 309 | 229 | Ess |
+| 310 | 227 | Koipod |
+| 311 | 227 | Fbai |
+| 312 | 227 | Randy Jansen |
 | 313 | 226 | Arisvet Garcia |
 | 314 | 226 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 315 | 225 | Zippy Zoney |
@@ -1084,21 +1084,21 @@
 | 1076 | 56 | Kara Ann Cray |
 | 1077 | 56 | Lisa Beckort |
 | 1078 | 56 | Serenity Gail |
-| 1079 | 56 | Linda Marie Pankow |
-| 1080 | 56 | Aly San |
-| 1081 | 56 | TeeLee |
-| 1082 | 56 | Kalleigh Randall |
-| 1083 | 56 | Cozy Tiley |
-| 1084 | 56 | Clarence Ward |
-| 1085 | 55 | Shiny Zonegrid |
-| 1086 | 55 | Katie Wood |
-| 1087 | 55 | Jody Baker |
-| 1088 | 55 | Elaina Temple |
-| 1089 | 55 | Queen |
-| 1090 | 55 | Frisky Gridpiece |
-| 1091 | 55 | Laura Buckley |
-| 1092 | 55 | Lucy Marshall |
-| 1093 | 55 | Funky Blockpiece |
+| 1079 | 56 | Funky Blockpiece |
+| 1080 | 56 | Linda Marie Pankow |
+| 1081 | 56 | Aly San |
+| 1082 | 56 | TeeLee |
+| 1083 | 56 | Kalleigh Randall |
+| 1084 | 56 | Cozy Tiley |
+| 1085 | 56 | Clarence Ward |
+| 1086 | 55 | Shiny Zonegrid |
+| 1087 | 55 | Katie Wood |
+| 1088 | 55 | Jody Baker |
+| 1089 | 55 | Elaina Temple |
+| 1090 | 55 | Queen |
+| 1091 | 55 | Frisky Gridpiece |
+| 1092 | 55 | Laura Buckley |
+| 1093 | 55 | Lucy Marshall |
 | 1094 | 55 | Tammy |
 | 1095 | 54 | Otf Johnta |
 | 1096 | 54 | Monay Sutherland |
