@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 06:38:17 UTC
+# Standings for team1 as of 2026-03-15 06:38:41 UTC
 
 **Total Participants:** 2146
 
@@ -139,8 +139,8 @@
 | 131 | 629 | Bold Clear |
 | 132 | 628 | Amanda Diegel |
 | 133 | 616 | Grace Kelly |
-| 134 | 615 | Muhammad |
-| 135 | 615 | Dustin Rouse |
+| 134 | 615 | Dustin Rouse |
+| 135 | 615 | Muhammad |
 | 136 | 609 | Ann Carrie |
 | 137 | 605 | Matt Aguilar |
 | 138 | 595 | Chris Wanner |
@@ -148,8 +148,8 @@
 | 140 | 586 | Duane Ficara |
 | 141 | 583 | Big rick !!! |
 | 142 | 579 | Nanan Nanan |
-| 143 | 577 | Gloria Ininahazwe |
-| 144 | 577 | Simmone T. Kadiri |
+| 143 | 577 | Simmone T. Kadiri |
+| 144 | 577 | Gloria Ininahazwe |
 | 145 | 567 | Sarah Stanonik |
 | 146 | 564 | Joy Bloodworth |
 | 147 | 561 | Marie Helman |
@@ -158,12 +158,12 @@
 | 150 | 538 | Ramona Gulledge |
 | 151 | 538 | Diamond Madison |
 | 152 | 536 | Bouncy Framezone |
-| 153 | 535 | BrownNinj |
-| 154 | 531 | Johnathan Rasmussen |
-| 155 | 530 | Sheree Twiddy Thornton |
-| 156 | 529 | PhatWI41 |
-| 157 | 524 | Chalandra Donahue |
-| 158 | 524 | James Burda |
+| 153 | 535 | James Burda |
+| 154 | 535 | BrownNinj |
+| 155 | 531 | Johnathan Rasmussen |
+| 156 | 530 | Sheree Twiddy Thornton |
+| 157 | 529 | PhatWI41 |
+| 158 | 524 | Chalandra Donahue |
 | 159 | 519 | Crafty Dash |
 | 160 | 515 | Giddy Balancepiece |
 | 161 | 514 | Heather Bell |
