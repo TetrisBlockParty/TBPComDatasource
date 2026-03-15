@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 08:18:21 UTC
+# Standings for team2 as of 2026-03-15 08:18:42 UTC
 
 **Total Participants:** 2165
 
@@ -99,28 +99,28 @@
 | 91 | 828 | Topsannah Topsannah |
 | 92 | 822 | Chipper Matchclear |
 | 93 | 820 | Andrey Sharov |
-| 94 | 796 | sweet lil miss |
-| 95 | 789 | p3ttyboop |
-| 96 | 788 | Jennifer Golub |
-| 97 | 784 | Robert Martinez |
-| 98 | 764 | Adrienne Fisher |
-| 99 | 756 | John Matson |
-| 100 | 748 | Khalysta |
-| 101 | 744 | Jenny Derby |
-| 102 | 742 | Sass |
-| 103 | 735 | Joy LaJeunesse |
-| 104 | 722 | Elizabeth Stanley |
-| 105 | 721 | Ariel Pearson |
-| 106 | 720 | Jamie Lang |
-| 107 | 719 | Antoinette Griffin |
-| 108 | 706 | Loopy Clusterer |
-| 109 | 704 | Joshua |
-| 110 | 701 | Mike Carden |
-| 111 | 699 | Lisa Neal |
+| 94 | 808 | Belle |
+| 95 | 796 | sweet lil miss |
+| 96 | 789 | p3ttyboop |
+| 97 | 788 | Jennifer Golub |
+| 98 | 784 | Robert Martinez |
+| 99 | 764 | Adrienne Fisher |
+| 100 | 756 | John Matson |
+| 101 | 748 | Khalysta |
+| 102 | 744 | Jenny Derby |
+| 103 | 742 | Sass |
+| 104 | 735 | Joy LaJeunesse |
+| 105 | 722 | Elizabeth Stanley |
+| 106 | 721 | Ariel Pearson |
+| 107 | 720 | Jamie Lang |
+| 108 | 719 | Antoinette Griffin |
+| 109 | 706 | Loopy Clusterer |
+| 110 | 704 | Joshua |
+| 111 | 701 | Mike Carden |
 | 112 | 699 | Arthe3rd |
-| 113 | 698 | nickle109 |
-| 114 | 686 | Danielle Mogg |
-| 115 | 675 | Belle |
+| 113 | 699 | Lisa Neal |
+| 114 | 698 | nickle109 |
+| 115 | 686 | Danielle Mogg |
 | 116 | 660 | Lateisha Morris |
 | 117 | 659 | Ania |
 | 118 | 644 | Dandy Crasher |
@@ -322,11 +322,11 @@
 | 314 | 223 | Dondon Cheng |
 | 315 | 222 | Mighty Zone |
 | 316 | 222 | Zippy Tile |
-| 317 | 220 | Abimbola Bimbo |
-| 318 | 220 | Ryan Parson |
-| 319 | 219 | Summer Richardson |
-| 320 | 219 | Jennifer Galadik |
-| 321 | 219 | KEILANIU |
+| 317 | 222 | KEILANIU |
+| 318 | 220 | Abimbola Bimbo |
+| 319 | 220 | Ryan Parson |
+| 320 | 219 | Summer Richardson |
+| 321 | 219 | Jennifer Galadik |
 | 322 | 219 | Angel Hunnewell |
 | 323 | 218 | Allison L Tiffany |
 | 324 | 217 | Spunky Snapfit |
