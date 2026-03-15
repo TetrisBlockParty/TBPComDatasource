@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 02:04:20 UTC
+# Standings for team1 as of 2026-03-15 02:04:42 UTC
 
 **Total Participants:** 2016
 
@@ -150,9 +150,9 @@
 | 142 | 473 | Big rick !!! |
 | 143 | 469 | Tatiyana Holm |
 | 144 | 465 | Alex Hennigh |
-| 145 | 449 | Penny Morrical |
-| 146 | 442 | Jme |
-| 147 | 431 | Fluffy |
+| 145 | 451 | Fluffy |
+| 146 | 449 | Penny Morrical |
+| 147 | 442 | Jme |
 | 148 | 430 | Sassy Cascadepiece |
 | 149 | 424 | Mary Pelley |
 | 150 | 424 | Mighty Patternbuilder |
@@ -309,64 +309,64 @@
 | 301 | 187 | Shukee Lo |
 | 302 | 186 | Kathy Karjala |
 | 303 | 185 | Rebekah LeiAnn Bonsell |
-| 304 | 185 | Cesar Morelos |
-| 305 | 184 | Mufi25 |
+| 304 | 185 | Loony Brickmatch |
+| 305 | 185 | Cesar Morelos |
 | 306 | 184 | HugeLoad |
-| 307 | 183 | Zany Mover |
-| 308 | 182 | Gdiguy |
+| 307 | 184 | Mufi25 |
+| 308 | 183 | Zany Mover |
 | 309 | 182 | Scott Smith |
 | 310 | 182 | Brandon Zachary Anderson |
-| 311 | 181 | David Rojas |
-| 312 | 180 | Robert Benito |
+| 311 | 182 | Gdiguy |
+| 312 | 181 | David Rojas |
 | 313 | 180 | Kimmy White |
-| 314 | 180 | Allen Matthies |
-| 315 | 179 | Chris |
-| 316 | 178 | Ecami |
+| 314 | 180 | Robert Benito |
+| 315 | 180 | Allen Matthies |
+| 316 | 179 | Chris |
 | 317 | 178 | Elizabeth Hughes |
-| 318 | 176 | Andrew Duron |
-| 319 | 176 | Stefanie Champion |
+| 318 | 178 | Ecami |
+| 319 | 176 | Andrew Duron |
 | 320 | 176 | Jason Hawk |
-| 321 | 175 | Trina Gee |
-| 322 | 174 | Flashy Rotator |
-| 323 | 173 | Hhholmesjr |
-| 324 | 173 | Cynthia Petz |
-| 325 | 173 | Josh Twilley |
-| 326 | 171 | SpaceCase085 |
+| 321 | 176 | Stefanie Champion |
+| 322 | 175 | Trina Gee |
+| 323 | 174 | Flashy Rotator |
+| 324 | 173 | Hhholmesjr |
+| 325 | 173 | Cynthia Petz |
+| 326 | 173 | Josh Twilley |
 | 327 | 171 | Bearman |
-| 328 | 171 | Mary Cerciello |
-| 329 | 170 | Spunky Rollblock |
-| 330 | 169 | Hasty Lift |
-| 331 | 168 | Quirky Catcher |
+| 328 | 171 | SpaceCase085 |
+| 329 | 171 | Mary Cerciello |
+| 330 | 170 | Spunky Rollblock |
+| 331 | 169 | Hasty Lift |
 | 332 | 168 | Lynn Perkins |
-| 333 | 166 | Sallie Sanborn |
-| 334 | 166 | Rat666 |
-| 335 | 165 | Happy Shatterfit |
-| 336 | 165 | Chilly Faller |
-| 337 | 165 | Michelle Cummings |
-| 338 | 162 | Albert Josef Toves Means Jr. |
-| 339 | 162 | Kay Alifi |
-| 340 | 161 | DreamyMoon |
-| 341 | 161 | Rocky |
-| 342 | 160 | Anthony Bryan Riva |
-| 343 | 160 | Ed Bullen |
-| 344 | 160 | Tee Tee Greene |
-| 345 | 160 | Caitlin Zakrzewski |
+| 333 | 168 | Quirky Catcher |
+| 334 | 166 | Sallie Sanborn |
+| 335 | 166 | Rat666 |
+| 336 | 165 | Happy Shatterfit |
+| 337 | 165 | Chilly Faller |
+| 338 | 165 | Michelle Cummings |
+| 339 | 162 | Albert Josef Toves Means Jr. |
+| 340 | 162 | Kay Alifi |
+| 341 | 161 | DreamyMoon |
+| 342 | 161 | Rocky |
+| 343 | 160 | Caitlin Zakrzewski |
+| 344 | 160 | Ed Bullen |
+| 345 | 160 | Tee Tee Greene |
 | 346 | 160 | Florna Primrose |
 | 347 | 160 | Dee |
-| 348 | 159 | Bribrobra |
-| 349 | 159 | mbij21 |
-| 350 | 159 | Jaame Courtney |
-| 351 | 158 | Walter Beltran |
-| 352 | 158 | Philippines |
-| 353 | 158 | Bink |
+| 348 | 160 | Anthony Bryan Riva |
+| 349 | 159 | Bribrobra |
+| 350 | 159 | mbij21 |
+| 351 | 159 | Jaame Courtney |
+| 352 | 158 | Walter Beltran |
+| 353 | 158 | Philippines |
 | 354 | 158 | Crystal Rosen |
-| 355 | 157 | Christina Costantino |
-| 356 | 156 | George Ljr |
-| 357 | 155 | Boldy Clicky |
-| 358 | 155 | Loony Brickmatch |
-| 359 | 155 | Erin Green |
-| 360 | 154 | Armoni |
-| 361 | 154 | Smiley Snaplink |
+| 355 | 158 | Bink |
+| 356 | 157 | Christina Costantino |
+| 357 | 156 | George Ljr |
+| 358 | 155 | Erin Green |
+| 359 | 155 | Boldy Clicky |
+| 360 | 154 | Smiley Snaplink |
+| 361 | 154 | Armoni |
 | 362 | 154 | Silly Ziggy |
 | 363 | 153 | Wulfbyte |
 | 364 | 153 | Shekita Gibbs |
