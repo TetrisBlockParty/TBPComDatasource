@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 09:08:42 UTC
+# Standings for team1 as of 2026-03-15 09:09:20 UTC
 
 **Total Participants:** 2185
 
@@ -310,13 +310,13 @@
 | 302 | 255 | Rachel Ballard |
 | 303 | 254 | Ryan N. Mason |
 | 304 | 253 | Trina Gee |
-| 305 | 247 | Lemonberry |
-| 306 | 244 | Dish19 |
-| 307 | 242 | Rob Chebetar |
-| 308 | 242 | Amber McDonald |
-| 309 | 241 | Mahmudul Hasan |
-| 310 | 241 | Nutty Cascadefit |
-| 311 | 240 | Sullivan Tamara |
+| 305 | 250 | Sullivan Tamara |
+| 306 | 247 | Lemonberry |
+| 307 | 244 | Dish19 |
+| 308 | 242 | Rob Chebetar |
+| 309 | 242 | Amber McDonald |
+| 310 | 241 | Mahmudul Hasan |
+| 311 | 241 | Nutty Cascadefit |
 | 312 | 240 | Stephen Glaze |
 | 313 | 240 | Fancy Towerfall |
 | 314 | 239 | Jaame Courtney |
