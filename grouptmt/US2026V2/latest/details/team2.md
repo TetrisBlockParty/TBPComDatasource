@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 08:24:42 UTC
+# Standings for team2 as of 2026-03-15 08:25:20 UTC
 
 **Total Participants:** 2166
 
@@ -79,8 +79,8 @@
 | 71 | 1106 | Snippy Clearbuilder |
 | 72 | 1064 | Sheena Herskovic |
 | 73 | 1046 | Julio Alejandro Rodriguez |
-| 74 | 1015 | TETRIS |
-| 75 | 1008 | Suffia Alexander |
+| 74 | 1018 | Suffia Alexander |
+| 75 | 1015 | TETRIS |
 | 76 | 999 | Giggy Matchpiece |
 | 77 | 997 | Marianthe Bagensie |
 | 78 | 966 | Arnae Draughon |
@@ -1992,117 +1992,117 @@
 | 1984 | 10 | Kevin Leary |
 | 1985 | 10 | bob |
 | 1986 | 10 | Bea Phoenix |
-| 1987 | 10 | Michael Misty Crossley |
-| 1988 | 10 | Riley Hall |
-| 1989 | 10 | Giggy Gridlock |
-| 1990 | 10 | Dandy Liney |
-| 1991 | 10 | Greg Lovensheimer |
-| 1992 | 10 | Stacy Marie |
-| 1993 | 10 | Tashasky |
-| 1994 | 10 | Gin Klingenberg |
-| 1995 | 10 | Tcapp |
-| 1996 | 10 | Rhonda Engle |
-| 1997 | 10 | PlayfulPirate |
-| 1998 | 10 | Kara Adams |
-| 1999 | 10 | Slimee Dorris Jean |
-| 2000 | 10 | Zany Puzzle |
-| 2001 | 10 | Grovenia Joy Perryman |
-| 2002 | 10 | Mo |
-| 2003 | 10 | Funky Twistpiece |
-| 2004 | 10 | Emily Elizabeth |
-| 2005 | 10 | Brenda Chouinard |
-| 2006 | 10 | Jessica Stewart |
+| 1987 | 10 | Grovenia Joy Perryman |
+| 1988 | 10 | Michael Misty Crossley |
+| 1989 | 10 | Riley Hall |
+| 1990 | 10 | Giggy Gridlock |
+| 1991 | 10 | Dandy Liney |
+| 1992 | 10 | Greg Lovensheimer |
+| 1993 | 10 | Funky Twistpiece |
+| 1994 | 10 | Tcapp |
+| 1995 | 10 | Rhonda Engle |
+| 1996 | 10 | PlayfulPirate |
+| 1997 | 10 | Kara Adams |
+| 1998 | 10 | Slimee Dorris Jean |
+| 1999 | 10 | Zany Puzzle |
+| 2000 | 10 | Liz Reckinger Schoen |
+| 2001 | 10 | Stacy Marie |
+| 2002 | 10 | Gin Klingenberg |
+| 2003 | 10 | Emily Elizabeth |
+| 2004 | 10 | Brenda Chouinard |
+| 2005 | 10 | Jessica Stewart |
+| 2006 | 10 | Tashasky |
 | 2007 | 10 | James Busby |
-| 2008 | 10 | Gypsy |
-| 2009 | 10 | Tanya Bullert |
-| 2010 | 10 | Clever Linebuilder |
+| 2008 | 10 | Tanya Bullert |
+| 2009 | 10 | Clever Linebuilder |
+| 2010 | 10 | Gypsy |
 | 2011 | 10 | Craig Mcgowan |
 | 2012 | 10 | No bunga?! |
 | 2013 | 10 | K |
 | 2014 | 10 | Cassia Ann Carrasquillo |
 | 2015 | 10 | Ashley Sweet-Hart |
 | 2016 | 10 | Dave Behnen |
-| 2017 | 10 | Lynn Nevins-Landry |
-| 2018 | 10 | Crystal Henson Moats |
-| 2019 | 10 | Atia Scott |
-| 2020 | 10 | Ashley Sandlin |
-| 2021 | 10 | Kiana Serrao |
-| 2022 | 10 | Danielle Carle |
-| 2023 | 10 | Vickie Briggs |
-| 2024 | 10 | Mike Esparza |
-| 2025 | 10 | Chipper Rollfit |
-| 2026 | 10 | Trina M Lewis |
-| 2027 | 10 | Malikah Coleman |
-| 2028 | 10 | Crafty Breaker |
-| 2029 | 10 | Gibblet |
-| 2030 | 10 | Glitzy Matchbuilder |
-| 2031 | 10 | Caden Reinhardt |
-| 2032 | 10 | Liz Reckinger Schoen |
-| 2033 | 9 | Erica Parker |
-| 2034 | 9 | Carmen Anaya |
-| 2035 | 9 | Krysti Rodriguez |
-| 2036 | 9 | Belle |
+| 2017 | 10 | Trina M Lewis |
+| 2018 | 10 | Mo |
+| 2019 | 10 | Caden Reinhardt |
+| 2020 | 10 | Gibblet |
+| 2021 | 10 | Lynn Nevins-Landry |
+| 2022 | 10 | Mike Esparza |
+| 2023 | 10 | Kiana Serrao |
+| 2024 | 10 | Ashley Sandlin |
+| 2025 | 10 | Danielle Carle |
+| 2026 | 10 | Glitzy Matchbuilder |
+| 2027 | 10 | Crafty Breaker |
+| 2028 | 10 | Vickie Briggs |
+| 2029 | 10 | Atia Scott |
+| 2030 | 10 | Crystal Henson Moats |
+| 2031 | 10 | Chipper Rollfit |
+| 2032 | 10 | Malikah Coleman |
+| 2033 | 9 | Alecia Ann McCarty |
+| 2034 | 9 | Princess7313 |
+| 2035 | 9 | tee |
+| 2036 | 9 | mythicmoth |
 | 2037 | 9 | Aleea Six |
-| 2038 | 9 | mythicmoth |
-| 2039 | 9 | tee |
-| 2040 | 9 | Princess7313 |
-| 2041 | 9 | Krista Roberts |
-| 2042 | 9 | Alecia Ann McCarty |
-| 2043 | 9 | Groovy Dashy |
-| 2044 | 9 | Chance Strickland |
-| 2045 | 9 | Kutabare |
-| 2046 | 9 | Chipper Smasher |
-| 2047 | 9 | Amanda Howard |
-| 2048 | 9 | Mike VanTress |
-| 2049 | 9 | Bubbly Gridlock |
-| 2050 | 9 | Britton Gilreath |
-| 2051 | 9 | Meri |
-| 2052 | 9 | Goofy Snap |
+| 2038 | 9 | Krista Roberts |
+| 2039 | 9 | Belle |
+| 2040 | 9 | Amanda Howard |
+| 2041 | 9 | Carmen Anaya |
+| 2042 | 9 | Groovy Dashy |
+| 2043 | 9 | Krysti Rodriguez |
+| 2044 | 9 | Bubbly Gridlock |
+| 2045 | 9 | Erica Parker |
+| 2046 | 9 | Chance Strickland |
+| 2047 | 9 | Meri |
+| 2048 | 9 | Britton Gilreath |
+| 2049 | 9 | Mike VanTress |
+| 2050 | 9 | Kutabare |
+| 2051 | 9 | Goofy Snap |
+| 2052 | 9 | Tyler Whitley |
 | 2053 | 9 | MistyBayou |
-| 2054 | 9 | Tyler Whitley |
-| 2055 | 9 | Katie Curr |
+| 2054 | 9 | Katie Curr |
+| 2055 | 9 | Chipper Smasher |
 | 2056 | 9 | Allen Anthony Rollins |
 | 2057 | 9 | Lauressia MsLovaba Neil |
 | 2058 | 9 | Lorie Nugent Ruzich |
 | 2059 | 8 | Tessa |
 | 2060 | 8 | Shannon Grisson |
 | 2061 | 8 | Danny Chavira |
-| 2062 | 8 | Freddie Rodriguez |
-| 2063 | 8 | latte |
-| 2064 | 8 | Genius |
-| 2065 | 8 | Cheeky Blockroll |
-| 2066 | 8 | Psst |
+| 2062 | 8 | Genius |
+| 2063 | 8 | Crystal Renee Plush |
+| 2064 | 8 | latte |
+| 2065 | 8 | Psst |
+| 2066 | 8 | Mary Ann Pabukis |
 | 2067 | 8 | Zakk Bennett |
-| 2068 | 8 | Snippy Snapgrid |
-| 2069 | 8 | Cami Jones |
-| 2070 | 8 | Crystal Renee Plush |
-| 2071 | 8 | Jo |
-| 2072 | 8 | Mary Ann Pabukis |
-| 2073 | 8 | Ponytail113 |
-| 2074 | 8 | Gracie Ann Taylor |
-| 2075 | 8 | Jonathan Myers |
-| 2076 | 8 | Swanky Matchfit |
-| 2077 | 8 | Dizzy Piececlear |
+| 2068 | 8 | Gracie Ann Taylor |
+| 2069 | 8 | Jonathan Myers |
+| 2070 | 8 | Shanon Klair |
+| 2071 | 8 | Swanky Matchfit |
+| 2072 | 8 | Jo |
+| 2073 | 8 | Cheeky Blockroll |
+| 2074 | 8 | Vero |
+| 2075 | 8 | Zabrina E |
+| 2076 | 8 | Ponytail113 |
+| 2077 | 8 | Loony Brickmatch |
 | 2078 | 8 | Dawn Mansfield |
-| 2079 | 8 | Hosifa Yasin |
-| 2080 | 8 | Rach |
-| 2081 | 8 | Cryptomeg |
-| 2082 | 8 | Zabrina E |
-| 2083 | 8 | Shanon Klair |
-| 2084 | 8 | Sarah Arnold |
-| 2085 | 8 | Vero |
-| 2086 | 8 | Casey Wilson |
-| 2087 | 8 | QueenSheida |
-| 2088 | 8 | Loony Brickmatch |
-| 2089 | 7 | Kaitlin Hood |
-| 2090 | 7 | Ace |
-| 2091 | 7 | Lil Red |
-| 2092 | 7 | Tamara Tarver |
-| 2093 | 7 | TheBeast Tori |
-| 2094 | 7 | Jumpy Fitblock |
-| 2095 | 7 | Peachy Snapmatch |
-| 2096 | 7 | mala |
-| 2097 | 7 | Crystal23 |
+| 2079 | 8 | Casey Wilson |
+| 2080 | 8 | Freddie Rodriguez |
+| 2081 | 8 | Cami Jones |
+| 2082 | 8 | Hosifa Yasin |
+| 2083 | 8 | Dizzy Piececlear |
+| 2084 | 8 | Marie Shroyer |
+| 2085 | 8 | QueenSheida |
+| 2086 | 8 | Snippy Snapgrid |
+| 2087 | 8 | Sarah Arnold |
+| 2088 | 8 | Rach |
+| 2089 | 8 | Cryptomeg |
+| 2090 | 7 | TheBeast Tori |
+| 2091 | 7 | Peachy Snapmatch |
+| 2092 | 7 | Lil Red |
+| 2093 | 7 | Jumpy Fitblock |
+| 2094 | 7 | Kaitlin Hood |
+| 2095 | 7 | Ace |
+| 2096 | 7 | Tamara Tarver |
+| 2097 | 7 | Mag Kuczynski Costello |
 | 2098 | 7 | Lyndie Rae Ledbury |
 | 2099 | 7 | Steve |
 | 2100 | 7 | Tim Harris |
@@ -2112,26 +2112,26 @@
 | 2104 | 7 | Bold Zonebuilder |
 | 2105 | 7 | Ryan Delaney |
 | 2106 | 7 | Groovy Combofall |
-| 2107 | 7 | Mag Kuczynski Costello |
-| 2108 | 7 | MrsNutt |
-| 2109 | 7 | rocklen |
-| 2110 | 7 | Shaunna Armstrong |
-| 2111 | 7 | Zappy Drop |
+| 2107 | 7 | MrsNutt |
+| 2108 | 7 | rocklen |
+| 2109 | 7 | Shaunna Armstrong |
+| 2110 | 7 | Zappy Drop |
+| 2111 | 7 | Crystal23 |
 | 2112 | 7 | Anthony Jolly |
 | 2113 | 7 | Alan AndRoberta Mast |
-| 2114 | 7 | Brave Cascadeclear |
-| 2115 | 7 | Chilly Gridlock |
-| 2116 | 7 | Melissa Williams Blevins |
-| 2117 | 7 | Ashlee Boggs |
-| 2118 | 6 | Lazy Gridroll |
-| 2119 | 6 | Chris Charters |
-| 2120 | 6 | ConservativeMomma |
-| 2121 | 6 | Giggy Pop |
-| 2122 | 6 | Lynda Griffieth |
-| 2123 | 6 | Marie Shroyer |
-| 2124 | 6 | Robert Harold Bowling |
-| 2125 | 6 | Bubbly Crusher |
-| 2126 | 6 | CyndiHope |
+| 2114 | 7 | Chilly Gridlock |
+| 2115 | 7 | Brave Cascadeclear |
+| 2116 | 7 | mala |
+| 2117 | 7 | Melissa Williams Blevins |
+| 2118 | 7 | Ashlee Boggs |
+| 2119 | 6 | Lazy Gridroll |
+| 2120 | 6 | Chris Charters |
+| 2121 | 6 | ConservativeMomma |
+| 2122 | 6 | CyndiHope |
+| 2123 | 6 | Bubbly Crusher |
+| 2124 | 6 | Giggy Pop |
+| 2125 | 6 | Lynda Griffieth |
+| 2126 | 6 | Robert Harold Bowling |
 | 2127 | 6 | Brittney Weatherston Shiley |
 | 2128 | 6 | Michelle Garner |
 | 2129 | 6 | Plucky Brickmatch |
