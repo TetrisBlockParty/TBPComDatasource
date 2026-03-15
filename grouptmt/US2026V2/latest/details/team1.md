@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 06:56:40 UTC
+# Standings for team1 as of 2026-03-15 06:57:18 UTC
 
 **Total Participants:** 2152
 
@@ -300,27 +300,27 @@
 | 292 | 247 | Matt Coons |
 | 293 | 247 | Lemonberry |
 | 294 | 246 | Austin |
-| 295 | 244 | Dish19 |
-| 296 | 242 | Kayla Marie Stevenson |
-| 297 | 242 | Amber McDonald |
-| 298 | 242 | Rob Chebetar |
-| 299 | 241 | Mahmudul Hasan |
-| 300 | 241 | Nutty Cascadefit |
-| 301 | 240 | Stephen Glaze |
+| 295 | 244 | Elizabeth Hughes |
+| 296 | 244 | Dish19 |
+| 297 | 242 | Kayla Marie Stevenson |
+| 298 | 242 | Amber McDonald |
+| 299 | 242 | Rob Chebetar |
+| 300 | 241 | Mahmudul Hasan |
+| 301 | 241 | Nutty Cascadefit |
 | 302 | 240 | Fancy Towerfall |
-| 303 | 239 | lefty |
-| 304 | 238 | Jaame Courtney |
-| 305 | 237 | Zany Mover |
-| 306 | 234 | Smiley Snaplink |
-| 307 | 233 | Porshe Garthwaite |
+| 303 | 240 | Stephen Glaze |
+| 304 | 239 | lefty |
+| 305 | 238 | Jaame Courtney |
+| 306 | 237 | Zany Mover |
+| 307 | 234 | Smiley Snaplink |
 | 308 | 233 | April McGuffie |
 | 309 | 233 | juicyred |
-| 310 | 231 | JonCorry Story |
+| 310 | 233 | Porshe Garthwaite |
 | 311 | 231 | tazd0629 |
 | 312 | 231 | David Zeimer |
-| 313 | 227 | Josh Riemer |
-| 314 | 227 | Lexx Oliver |
-| 315 | 226 | Elizabeth Hughes |
+| 313 | 231 | JonCorry Story |
+| 314 | 227 | Josh Riemer |
+| 315 | 227 | Lexx Oliver |
 | 316 | 225 | shelly |
 | 317 | 225 | Melissa Madison |
 | 318 | 224 | Peachy Brick |
@@ -339,21 +339,21 @@
 | 331 | 216 | Joe Andrew Jackson |
 | 332 | 214 | Giggly Rotate |
 | 333 | 213 | Bobby |
-| 334 | 212 | Bubba |
-| 335 | 211 | Jumpy Spinblock |
-| 336 | 209 | Mufi25 |
+| 334 | 212 | Rachel Ballard |
+| 335 | 212 | Bubba |
+| 336 | 211 | Jumpy Spinblock |
 | 337 | 209 | Jason Garnatz |
-| 338 | 208 | Anthony Scarberry |
-| 339 | 208 | Ken Wada Jr. |
-| 340 | 206 | Rachel Ballard |
+| 338 | 209 | Mufi25 |
+| 339 | 208 | Anthony Scarberry |
+| 340 | 208 | Ken Wada Jr. |
 | 341 | 204 | Flashy Stacky |
 | 342 | 202 | Panda Rog |
 | 343 | 202 | Peppy Matchclear |
 | 344 | 201 | Ancient Intuition |
 | 345 | 200 | Snappy Linkroll |
 | 346 | 200 | Groovy Glidepiece |
-| 347 | 198 | Julie A Hutchinson |
-| 348 | 198 | Qoo |
+| 347 | 198 | Qoo |
+| 348 | 198 | Julie A Hutchinson |
 | 349 | 197 | Katie Alexander |
 | 350 | 197 | Tessa N Davis |
 | 351 | 197 | Smashanator |
@@ -406,31 +406,31 @@
 | 398 | 165 | Michelle Cummings |
 | 399 | 165 | Chilly Faller |
 | 400 | 165 | Happy Shatterfit |
-| 401 | 164 | Jennifer Lynn |
-| 402 | 164 | Boldy Clicky |
+| 401 | 164 | Boldy Clicky |
+| 402 | 164 | Jennifer Lynn |
 | 403 | 162 | Bribrobra |
 | 404 | 162 | Kay Alifi |
 | 405 | 162 | Albert Josef Toves Means Jr. |
 | 406 | 161 | Melanie Kelley |
-| 407 | 161 | Rocky |
-| 408 | 161 | Lablaze |
-| 409 | 161 | DreamyMoon |
-| 410 | 160 | Dee |
-| 411 | 160 | Florna Primrose |
-| 412 | 160 | Ed Bullen |
-| 413 | 160 | Caitlin Zakrzewski |
-| 414 | 160 | pjbeta |
-| 415 | 160 | Tee Tee Greene |
-| 416 | 159 | Mary Boo |
+| 407 | 161 | Kay Francois |
+| 408 | 161 | DreamyMoon |
+| 409 | 161 | Rocky |
+| 410 | 161 | Lablaze |
+| 411 | 160 | Dee |
+| 412 | 160 | pjbeta |
+| 413 | 160 | Florna Primrose |
+| 414 | 160 | Tee Tee Greene |
+| 415 | 160 | Ed Bullen |
+| 416 | 160 | Caitlin Zakrzewski |
 | 417 | 159 | Loopy Brickmatch |
-| 418 | 159 | Gabriel Archer |
-| 419 | 159 | mbij21 |
-| 420 | 158 | Crystal Rosen |
+| 418 | 159 | mbij21 |
+| 419 | 159 | Mary Boo |
+| 420 | 159 | Gabriel Archer |
 | 421 | 158 | Philippines |
-| 422 | 158 | SitHazy |
-| 423 | 158 | Bink |
-| 424 | 157 | Dawgofwar |
-| 425 | 157 | Kay Francois |
+| 422 | 158 | Crystal Rosen |
+| 423 | 158 | SitHazy |
+| 424 | 158 | Bink |
+| 425 | 157 | Dawgofwar |
 | 426 | 156 | George Ljr |
 | 427 | 156 | Sassy Pivotfall |
 | 428 | 155 | Erin Green |
