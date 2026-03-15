@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 07:32:41 UTC
+# Standings for team2 as of 2026-03-15 07:33:20 UTC
 
 **Total Participants:** 2155
 
@@ -55,11 +55,11 @@
 | 47 | 1472 | Tanya Smith |
 | 48 | 1461 | Erica Davis |
 | 49 | 1419 | Elizabeth Sallas |
-| 50 | 1314 | Becky McClure |
-| 51 | 1313 | Jennifer Gartland |
-| 52 | 1309 | Susan Fazio Edwards |
-| 53 | 1293 | Emarie |
-| 54 | 1289 | Ultramarine |
+| 50 | 1389 | Ultramarine |
+| 51 | 1314 | Becky McClure |
+| 52 | 1313 | Jennifer Gartland |
+| 53 | 1309 | Susan Fazio Edwards |
+| 54 | 1293 | Emarie |
 | 55 | 1289 | Snippy Basepiece |
 | 56 | 1287 | Amanda Young |
 | 57 | 1280 | Dreamy Linkbuilder |
@@ -135,8 +135,8 @@
 | 127 | 582 | Chassy Horton |
 | 128 | 580 | CSOTYS |
 | 129 | 579 | Tess Shaheen |
-| 130 | 572 | Mary Reeves |
-| 131 | 569 | Adam Charles |
+| 130 | 574 | Adam Charles |
+| 131 | 572 | Mary Reeves |
 | 132 | 562 | Looloo |
 | 133 | 561 | Shelly Babie |
 | 134 | 558 | DanesMama |
@@ -207,7 +207,7 @@
 | 199 | 355 | Shelly |
 | 200 | 355 | Jumpy Breaker |
 | 201 | 355 | Nick Kozik |
-| 202 | 350 | Jay |
+| 202 | 352 | Jay |
 | 203 | 349 | Liz Wambsgans |
 | 204 | 349 | Elizabeth Ostrom |
 | 205 | 342 | Dre Man |

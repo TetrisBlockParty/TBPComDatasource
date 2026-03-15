@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 07:32:41 UTC
+# Standings for team1 as of 2026-03-15 07:33:20 UTC
 
 **Total Participants:** 2160
 
@@ -44,10 +44,10 @@
 | 36 | 2302 | Selena Rollin |
 | 37 | 2182 | Jordan W Hamilton |
 | 38 | 2138 | phrmblk24 |
-| 39 | 1950 | Xande NO Lie Williams |
-| 40 | 1925 | C Wing Chu |
-| 41 | 1918 | Katie Daniels |
-| 42 | 1913 | butterface |
+| 39 | 1993 | butterface |
+| 40 | 1950 | Xande NO Lie Williams |
+| 41 | 1925 | C Wing Chu |
+| 42 | 1918 | Katie Daniels |
 | 43 | 1898 | Justin Parker |
 | 44 | 1836 | Melissa Kay Gibson |
 | 45 | 1835 | Robert Everett |
@@ -347,7 +347,7 @@
 | 339 | 209 | Jason Garnatz |
 | 340 | 208 | Ken Wada Jr. |
 | 341 | 208 | Anthony Scarberry |
-| 342 | 205 | Kay Francois |
+| 342 | 207 | Kay Francois |
 | 343 | 204 | Flashy Stacky |
 | 344 | 202 | Peppy Matchclear |
 | 345 | 202 | Panda Rog |
@@ -1041,116 +1041,116 @@
 | 1033 | 57 | gucci |
 | 1034 | 57 | belinda rocky |
 | 1035 | 57 | Mo Mulah |
-| 1036 | 57 | Funky Fitzone |
-| 1037 | 57 | Frisky Glidebuilder |
-| 1038 | 56 | Cozy Cascader |
-| 1039 | 56 | Tyler Hertzog |
-| 1040 | 56 | Speedy Rollpiece |
-| 1041 | 56 | Mike Collar |
-| 1042 | 56 | Brandon Blanchard |
-| 1043 | 56 | Rubi |
-| 1044 | 56 | Cheeky Blocky |
-| 1045 | 56 | Aigner Monae |
-| 1046 | 56 | Bryant Rodriguez |
-| 1047 | 56 | Barbara Miller |
-| 1048 | 56 | Alexandria Ritch |
-| 1049 | 56 | Nunya |
-| 1050 | 56 | sgt baby |
-| 1051 | 56 | Matt Morrow |
-| 1052 | 55 | Leche |
-| 1053 | 55 | Giggly Twistslam |
-| 1054 | 55 | slim |
-| 1055 | 55 | Ben Barkley |
-| 1056 | 55 | Salena Pardue |
+| 1036 | 57 | Frisky Glidebuilder |
+| 1037 | 57 | Funky Fitzone |
+| 1038 | 56 | Mike Collar |
+| 1039 | 56 | Matt Morrow |
+| 1040 | 56 | sgt baby |
+| 1041 | 56 | Barbara Miller |
+| 1042 | 56 | Aigner Monae |
+| 1043 | 56 | Cozy Cascader |
+| 1044 | 56 | Tyler Hertzog |
+| 1045 | 56 | Speedy Rollpiece |
+| 1046 | 56 | Brandon Blanchard |
+| 1047 | 56 | Rubi |
+| 1048 | 56 | Cheeky Blocky |
+| 1049 | 56 | Aries Lyn |
+| 1050 | 56 | Bryant Rodriguez |
+| 1051 | 56 | Alexandria Ritch |
+| 1052 | 56 | Nunya |
+| 1053 | 55 | slim |
+| 1054 | 55 | Blondie |
+| 1055 | 55 | Amanda Ellison |
+| 1056 | 55 | Tyler Terrific |
 | 1057 | 55 | Kathy Searles |
-| 1058 | 55 | Amanda Ellison |
-| 1059 | 55 | Blondie |
-| 1060 | 55 | Jay Will |
-| 1061 | 55 | Tyler Terrific |
-| 1062 | 55 | Jason S |
-| 1063 | 55 | Kenzo Leigh Stout |
-| 1064 | 55 | Snow Neumann |
-| 1065 | 55 | Daisy Sunny |
-| 1066 | 55 | wombat |
-| 1067 | 55 | Tibor Vincepap |
+| 1058 | 55 | Ben Barkley |
+| 1059 | 55 | Jason S |
+| 1060 | 55 | Leche |
+| 1061 | 55 | Giggly Twistslam |
+| 1062 | 55 | Salena Pardue |
+| 1063 | 55 | Snow Neumann |
+| 1064 | 55 | Jay Will |
+| 1065 | 55 | Tabitha Rose Stone |
+| 1066 | 55 | SkullKng |
+| 1067 | 55 | Kenzo Leigh Stout |
 | 1068 | 55 | Meli |
-| 1069 | 55 | SkullKng |
-| 1070 | 55 | Tabitha Rose Stone |
-| 1071 | 54 | Andrea Clippert |
-| 1072 | 54 | Edna Clinton |
-| 1073 | 54 | Glitzy Linkpiece |
-| 1074 | 54 | Lori Abney |
-| 1075 | 54 | Laura Lewis |
-| 1076 | 54 | Neomi Perdue |
-| 1077 | 54 | Aly Sheehan |
-| 1078 | 54 | Lacey Renee Dietz |
-| 1079 | 54 | Cheeky Tilemaker |
-| 1080 | 54 | crash |
-| 1081 | 54 | ChaCha |
-| 1082 | 54 | Zippy Slamdrop |
-| 1083 | 54 | Bumpy Morris |
+| 1069 | 55 | Tibor Vincepap |
+| 1070 | 55 | Daisy Sunny |
+| 1071 | 55 | wombat |
+| 1072 | 54 | Andrea Clippert |
+| 1073 | 54 | Laura Lewis |
+| 1074 | 54 | Neomi Perdue |
+| 1075 | 54 | Edna Clinton |
+| 1076 | 54 | Lacey Renee Dietz |
+| 1077 | 54 | Lori Abney |
+| 1078 | 54 | Glitzy Linkpiece |
+| 1079 | 54 | Aly Sheehan |
+| 1080 | 54 | Cheeky Tilemaker |
+| 1081 | 54 | Bouncy Patternzone |
+| 1082 | 54 | crash |
+| 1083 | 54 | Jessa Short-Burkhart |
 | 1084 | 54 | Swanky Tiltpiece |
-| 1085 | 54 | Bouncy Patternzone |
-| 1086 | 54 | Jessa Short-Burkhart |
-| 1087 | 53 | al |
-| 1088 | 53 | Zany Glidepiece |
+| 1085 | 54 | Zippy Slamdrop |
+| 1086 | 54 | Bumpy Morris |
+| 1087 | 54 | ChaCha |
+| 1088 | 53 | Zany Tower |
 | 1089 | 53 | TaRcY |
-| 1090 | 53 | Saundra Hebert |
-| 1091 | 53 | Gregg Scott |
-| 1092 | 53 | GoobaGoo67 |
-| 1093 | 53 | Michael Zates |
+| 1090 | 53 | Gregg Scott |
+| 1091 | 53 | GoobaGoo67 |
+| 1092 | 53 | Michael Zates |
+| 1093 | 53 | al |
 | 1094 | 53 | Chazarae Marie |
-| 1095 | 53 | Zany Tower |
+| 1095 | 53 | Saundra Hebert |
 | 1096 | 53 | momme |
 | 1097 | 53 | 420 but ion smoke |
-| 1098 | 52 | Jonathan Carter |
-| 1099 | 52 | Aries Lyn |
+| 1098 | 53 | Zany Glidepiece |
+| 1099 | 52 | Felipa Jo Johnson |
 | 1100 | 52 | Wren#3 |
-| 1101 | 52 | Felipa Jo Johnson |
-| 1102 | 52 | Pam Salsman |
-| 1103 | 52 | Eddie Morales |
-| 1104 | 52 | Loony Dropzone |
+| 1101 | 52 | Karon Miller Hammond |
+| 1102 | 52 | Jonathan Carter |
+| 1103 | 52 | Loony Dropzone |
+| 1104 | 52 | Pam Salsman |
 | 1105 | 52 | Quaheem Brown-Riley |
-| 1106 | 52 | Tiffany Armen |
-| 1107 | 52 | Shellybobellers |
-| 1108 | 52 | Crystal Talbert |
-| 1109 | 52 | kelso |
-| 1110 | 52 | Maverick McGowan |
-| 1111 | 52 | Loony Blockfall |
-| 1112 | 52 | MrsW |
-| 1113 | 52 | Karon Miller Hammond |
-| 1114 | 51 | Jodie Andring |
-| 1115 | 51 | Perky Glidebuilder |
+| 1106 | 52 | Shellybobellers |
+| 1107 | 52 | kelso |
+| 1108 | 52 | Maverick McGowan |
+| 1109 | 52 | Loony Blockfall |
+| 1110 | 52 | Eddie Morales |
+| 1111 | 52 | MrsW |
+| 1112 | 52 | Crystal Talbert |
+| 1113 | 52 | Tiffany Armen |
+| 1114 | 51 | Kristen Rhoads |
+| 1115 | 51 | Fancy Wobbler |
 | 1116 | 51 | Meghan Chalke |
-| 1117 | 51 | Kristen Rhoads |
-| 1118 | 51 | Megan Bennett |
-| 1119 | 51 | Bluegiokilla |
-| 1120 | 51 | Jordan Ward |
-| 1121 | 51 | Spring rain |
-| 1122 | 51 | Zion Hadley |
-| 1123 | 51 | Nerdy Shatterline |
-| 1124 | 51 | TacoLover13 |
-| 1125 | 51 | minnie |
-| 1126 | 51 | Aaron Arenivaz |
-| 1127 | 51 | Fancy Wobbler |
+| 1117 | 51 | Perky Glidebuilder |
+| 1118 | 51 | Aaron Arenivaz |
+| 1119 | 51 | Jodie Andring |
+| 1120 | 51 | minnie |
+| 1121 | 51 | TacoLover13 |
+| 1122 | 51 | Megan Bennett |
+| 1123 | 51 | Jordan Ward |
+| 1124 | 51 | Zion Hadley |
+| 1125 | 51 | Nerdy Shatterline |
+| 1126 | 51 | Bluegiokilla |
+| 1127 | 51 | Spring rain |
 | 1128 | 50 | BeeDub |
-| 1129 | 50 | Herm Junior |
-| 1130 | 50 | Kawaui2003 |
-| 1131 | 50 | poopoo |
-| 1132 | 50 | Dizzy Snapper |
-| 1133 | 50 | Brandon Watkins |
-| 1134 | 50 | Justin Reed |
-| 1135 | 50 | Steven Taylor |
+| 1129 | 50 | Kawaui2003 |
+| 1130 | 50 | poopoo |
+| 1131 | 50 | Herm Junior |
+| 1132 | 50 | Justin Reed |
+| 1133 | 50 | Steven Taylor |
+| 1134 | 50 | Dizzy Snapper |
+| 1135 | 50 | Jazzy Stagger |
 | 1136 | 50 | Sarah Ploughe |
-| 1137 | 50 | Jazzy Stagger |
+| 1137 | 50 | Brandon Watkins |
 | 1138 | 50 | ImStupid |
-| 1139 | 50 | Loopy Edge |
-| 1140 | 50 | Ramona Powell |
-| 1141 | 50 | Marie Fox |
-| 1142 | 50 | Ramona Shaver |
-| 1143 | 50 | BIGOONS |
-| 1144 | 50 | Chipper Slide |
-| 1145 | 50 | Maria Lopez |
+| 1139 | 50 | Ramona Powell |
+| 1140 | 50 | Loopy Edge |
+| 1141 | 50 | Maria Lopez |
+| 1142 | 50 | Marie Fox |
+| 1143 | 50 | Ramona Shaver |
+| 1144 | 50 | BIGOONS |
+| 1145 | 50 | Chipper Slide |
 | 1146 | 50 | Corentin W. Comeaux |
 | 1147 | 50 | Pam Jennings Herzog |
 | 1148 | 50 | Prometheus |
