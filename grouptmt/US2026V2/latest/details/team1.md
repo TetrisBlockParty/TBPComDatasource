@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 06:58:19 UTC
+# Standings for team1 as of 2026-03-15 06:58:42 UTC
 
 **Total Participants:** 2152
 
@@ -70,13 +70,13 @@
 | 62 | 1316 | Dom The Great |
 | 63 | 1303 | Goober |
 | 64 | 1272 | Kesha Brady |
-| 65 | 1218 | wildMan |
-| 66 | 1202 | Velt Richardson |
-| 67 | 1198 | Jodie Peterson |
-| 68 | 1188 | Ryry |
-| 69 | 1187 | Cheeky Crusher |
-| 70 | 1121 | Nancy |
-| 71 | 1101 | Kimberly Howell-Henley |
+| 65 | 1249 | Kimberly Howell-Henley |
+| 66 | 1218 | wildMan |
+| 67 | 1202 | Velt Richardson |
+| 68 | 1198 | Jodie Peterson |
+| 69 | 1188 | Ryry |
+| 70 | 1187 | Cheeky Crusher |
+| 71 | 1121 | Nancy |
 | 72 | 1067 | Jeremy Stiltner |
 | 73 | 1053 | Crawford Candice |
 | 74 | 1042 | Giddy Cascade |
@@ -122,9 +122,9 @@
 | 114 | 722 | Tina Blessed Cage |
 | 115 | 713 | FancyPants |
 | 116 | 709 | Amy R Clinton |
-| 117 | 706 | Joshua Dye |
-| 118 | 703 | Velvet Rarick |
-| 119 | 701 | Witty Wipegrid |
+| 117 | 707 | Witty Wipegrid |
+| 118 | 706 | Joshua Dye |
+| 119 | 703 | Velvet Rarick |
 | 120 | 694 | Breezy Ivy |
 | 121 | 693 | Kat Mfm Kaul |
 | 122 | 686 | Al Smith Jr |
@@ -323,16 +323,16 @@
 | 315 | 227 | Josh Riemer |
 | 316 | 225 | shelly |
 | 317 | 225 | Melissa Madison |
-| 318 | 224 | Peachy Brick |
-| 319 | 224 | Scott Smith |
-| 320 | 223 | Amber Zeller Rice |
-| 321 | 222 | Sophia Kelly |
+| 318 | 224 | Scott Smith |
+| 319 | 224 | Sophia Kelly |
+| 320 | 224 | Peachy Brick |
+| 321 | 223 | Amber Zeller Rice |
 | 322 | 222 | Eric Hoffman |
 | 323 | 221 | CelticTraveler |
-| 324 | 220 | Jevon Griffith |
-| 325 | 220 | Darci Cline |
-| 326 | 220 | Hut Des |
-| 327 | 220 | NoIdeaWhatsGoingOn |
+| 324 | 220 | Hut Des |
+| 325 | 220 | NoIdeaWhatsGoingOn |
+| 326 | 220 | Darci Cline |
+| 327 | 220 | Jevon Griffith |
 | 328 | 219 | Tameka Brown |
 | 329 | 218 | Amers |
 | 330 | 216 | Joe Andrew Jackson |
