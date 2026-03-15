@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 00:52:19 UTC
+# Standings for team1 as of 2026-03-15 00:52:40 UTC
 
 **Total Participants:** 1970
 
@@ -351,45 +351,45 @@
 | 343 | 158 | Crystal Rosen |
 | 344 | 156 | Al Smith Jr |
 | 345 | 156 | George Ljr |
-| 346 | 154 | Silly Ziggy |
-| 347 | 154 | Flashy Rotator |
-| 348 | 153 | Wulfbyte |
-| 349 | 153 | Shekita Gibbs |
+| 346 | 154 | Flashy Rotator |
+| 347 | 154 | Silly Ziggy |
+| 348 | 153 | Shekita Gibbs |
+| 349 | 153 | Wulfbyte |
 | 350 | 151 | Walter Beltran |
 | 351 | 151 | Joyce Harrell-chavis |
 | 352 | 151 | Anthony Bryan Riva |
-| 353 | 150 | Debbie Buchanan |
-| 354 | 150 | Margo Fenton |
-| 355 | 148 | Courtney Leigh Deiber |
-| 356 | 148 | Jessica |
+| 353 | 150 | Margo Fenton |
+| 354 | 150 | Debbie Buchanan |
+| 355 | 148 | Jessica |
+| 356 | 148 | Courtney Leigh Deiber |
 | 357 | 148 | Armoni |
-| 358 | 146 | Boldy Clicky |
-| 359 | 146 | Kay Alifi |
-| 360 | 145 | Angela Brown Babin |
-| 361 | 145 | AngelVoice JB |
-| 362 | 145 | Gabriel Archer |
-| 363 | 144 | Quirky Dashy |
-| 364 | 144 | Jonathan Gaffaney |
+| 358 | 146 | Kay Alifi |
+| 359 | 146 | Boldy Clicky |
+| 360 | 145 | Gabriel Archer |
+| 361 | 145 | Angela Brown Babin |
+| 362 | 145 | AngelVoice JB |
+| 363 | 144 | Jonathan Gaffaney |
+| 364 | 144 | Quirky Dashy |
 | 365 | 144 | Smiley Snaplink |
-| 366 | 143 | Alexis Garcia |
-| 367 | 143 | Rachel Ballard |
-| 368 | 142 | DoodleBug |
-| 369 | 142 | Jaay |
-| 370 | 141 | Roberta Arnold |
-| 371 | 141 | Jason Cunningham |
+| 366 | 143 | Rachel Ballard |
+| 367 | 143 | Alexis Garcia |
+| 368 | 142 | Jaay |
+| 369 | 142 | DoodleBug |
+| 370 | 141 | Jason Cunningham |
+| 371 | 141 | Roberta Arnold |
 | 372 | 140 | Gina Annese |
 | 373 | 140 | TetrisWoo |
 | 374 | 140 | Chris Kelly |
 | 375 | 140 | Teddy Marshall |
-| 376 | 139 | Boldy Clear |
-| 377 | 139 | tttttttt |
-| 378 | 138 | Ophelia Rae |
-| 379 | 138 | Snippy Risebuilder |
-| 380 | 138 | Amber McDonald |
-| 381 | 138 | MisfitH |
-| 382 | 137 | Lexx Oliver |
-| 383 | 137 | Cannaman710 |
-| 384 | 137 | Jamilah Abdul-Hakeem |
+| 376 | 139 | tttttttt |
+| 377 | 139 | Boldy Clear |
+| 378 | 139 | Jamilah Abdul-Hakeem |
+| 379 | 138 | Amber McDonald |
+| 380 | 138 | Snippy Risebuilder |
+| 381 | 138 | Ophelia Rae |
+| 382 | 138 | MisfitH |
+| 383 | 137 | Lexx Oliver |
+| 384 | 137 | Cannaman710 |
 | 385 | 136 | Michelle Lee |
 | 386 | 136 | Althea Louise |
 | 387 | 135 | Marianne Lopez |
@@ -549,75 +549,75 @@
 | 541 | 92 | Misty Blanchard |
 | 542 | 92 | Jenny Stratton Cozart |
 | 543 | 92 | BostonCrypto |
-| 544 | 91 | Slinky Dashpiece |
-| 545 | 91 | Pamela Marie Tyler |
-| 546 | 91 | Lisa Franks |
-| 547 | 90 | Chill Shiftspin |
-| 548 | 90 | JustMeNonna |
-| 549 | 90 | MetalBrickLayer |
-| 550 | 90 | Cool Base |
-| 551 | 90 | Brandon Green |
-| 552 | 90 | William Ramirez |
-| 553 | 90 | ssr |
-| 554 | 90 | Terika Rodriguez |
+| 544 | 91 | Lisa Franks |
+| 545 | 91 | Slinky Dashpiece |
+| 546 | 91 | Pamela Marie Tyler |
+| 547 | 90 | JustMeNonna |
+| 548 | 90 | Terika Rodriguez |
+| 549 | 90 | ssr |
+| 550 | 90 | Crafty Clearfit |
+| 551 | 90 | William Ramirez |
+| 552 | 90 | Brandon Green |
+| 553 | 90 | Cool Base |
+| 554 | 90 | MetalBrickLayer |
 | 555 | 90 | Nuga |
-| 556 | 90 | Crafty Clearfit |
-| 557 | 89 | CoolHand |
-| 558 | 89 | WEIRDINO |
-| 559 | 89 | Happy Snapbuild |
+| 556 | 90 | Chill Shiftspin |
+| 557 | 89 | Christi Bouten-Harmon |
+| 558 | 89 | CoolHand |
+| 559 | 89 | WEIRDINO |
 | 560 | 89 | Julie Moore |
 | 561 | 89 | Lazy Dashpiece |
 | 562 | 89 | Vicki Dougie |
 | 563 | 89 | Dustin Curtis |
-| 564 | 89 | Christi Bouten-Harmon |
-| 565 | 88 | Andrew Lauterborn |
+| 564 | 89 | Happy Snapbuild |
+| 565 | 88 | Yvonne Buie |
 | 566 | 88 | Kelli Pazour |
-| 567 | 88 | Jimmy Shannon |
-| 568 | 88 | Yvonne Buie |
-| 569 | 88 | Zachary Moran |
-| 570 | 87 | Cheryl Villa |
-| 571 | 87 | Jai |
-| 572 | 87 | Ernest Jordan |
+| 567 | 88 | Zachary Moran |
+| 568 | 88 | Jimmy Shannon |
+| 569 | 88 | Andrew Lauterborn |
+| 570 | 88 | Goofy Linkblock |
+| 571 | 87 | Franky |
+| 572 | 87 | Dizzy Stackbuilder |
 | 573 | 87 | Giggy Snaplink |
-| 574 | 87 | Dizzy Stackbuilder |
-| 575 | 87 | Franky |
-| 576 | 86 | Itn |
+| 574 | 87 | Cheryl Villa |
+| 575 | 87 | Jai |
+| 576 | 87 | Ernest Jordan |
 | 577 | 86 | Mckenzie Morris |
-| 578 | 86 | Lauren Bond |
+| 578 | 86 | Itn |
 | 579 | 86 | Samantha Crowley |
-| 580 | 86 | Kendra Newton |
+| 580 | 86 | Lauren Bond |
 | 581 | 86 | Kayla Marie Stevenson |
 | 582 | 86 | Frilly Breaker |
-| 583 | 86 | Misstery |
-| 584 | 86 | Christie Love |
-| 585 | 85 | Cynthia Herrmann Egland |
-| 586 | 85 | Tracey Wilson |
-| 587 | 85 | Jessica Marie Long |
-| 588 | 85 | Yang Desu |
+| 583 | 86 | Kendra Newton |
+| 584 | 86 | Misstery |
+| 585 | 86 | Christie Love |
+| 586 | 85 | Cynthia Herrmann Egland |
+| 587 | 85 | Tracey Wilson |
+| 588 | 85 | Jessica Marie Long |
 | 589 | 85 | Jennie Lee Huntley |
-| 590 | 85 | Chilly Matchbuilder |
-| 591 | 85 | svsninja |
-| 592 | 85 | DeJuan Green |
-| 593 | 84 | Moe Thought |
-| 594 | 84 | Raynsera |
-| 595 | 84 | Matt Coons |
+| 590 | 85 | Yang Desu |
+| 591 | 85 | Chilly Matchbuilder |
+| 592 | 85 | svsninja |
+| 593 | 85 | DeJuan Green |
+| 594 | 84 | Moe Thought |
+| 595 | 84 | Raynsera |
 | 596 | 84 | Connor Jurzynski |
-| 597 | 84 | Matthew Foley |
-| 598 | 84 | PSD |
-| 599 | 84 | Tractor Houston |
-| 600 | 84 | Maju Restini |
-| 601 | 83 | Nate Funk |
-| 602 | 83 | Daring Shuffler |
-| 603 | 83 | Becca Gatrell Barton |
-| 604 | 83 | Deb Horwath |
-| 605 | 83 | King D |
-| 606 | 83 | Happy Feet |
-| 607 | 83 | Carl Hampton |
-| 608 | 83 | Renee Elam |
-| 609 | 82 | Angela Renea Lester |
-| 610 | 82 | Kirstian Taylor Grimsley |
-| 611 | 82 | KingSteve |
-| 612 | 82 | Goofy Linkblock |
+| 597 | 84 | Matt Coons |
+| 598 | 84 | Matthew Foley |
+| 599 | 84 | PSD |
+| 600 | 84 | Tractor Houston |
+| 601 | 84 | Maju Restini |
+| 602 | 83 | Becca Gatrell Barton |
+| 603 | 83 | King D |
+| 604 | 83 | Daring Shuffler |
+| 605 | 83 | Deb Horwath |
+| 606 | 83 | Nate Funk |
+| 607 | 83 | Happy Feet |
+| 608 | 83 | Carl Hampton |
+| 609 | 83 | Renee Elam |
+| 610 | 82 | Angela Renea Lester |
+| 611 | 82 | Kirstian Taylor Grimsley |
+| 612 | 82 | KingSteve |
 | 613 | 82 | LaTisha Stillsmilin Hudson |
 | 614 | 82 | KingRoss |
 | 615 | 81 | Brian Schneider |
