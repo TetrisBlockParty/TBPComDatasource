@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 10:22:19 UTC
+# Standings for team2 as of 2026-03-15 10:23:20 UTC
 
 **Total Participants:** 2192
 
@@ -15,8 +15,8 @@
 | 7 | 6782 | Denise Nardoni |
 | 8 | 6098 | Kristen Sceurman |
 | 9 | 5325 | MzBerry |
-| 10 | 4857 | Dizzy Zonegrid |
-| 11 | 4781 | THEMAN |
+| 10 | 5068 | THEMAN |
+| 11 | 4857 | Dizzy Zonegrid |
 | 12 | 4480 | Emilie Dodge |
 | 13 | 3872 | Abigail Kate Fernandez |
 | 14 | 3630 | Shandrea Crawford |
@@ -39,9 +39,9 @@
 | 31 | 1970 | Nicole Grochow |
 | 32 | 1873 | Joshua Hopkins |
 | 33 | 1825 | Toni Lynn |
-| 34 | 1797 | Miranda Rush |
-| 35 | 1779 | Katie Wisecarver |
-| 36 | 1773 | Crafty Matchfit |
+| 34 | 1803 | Crafty Matchfit |
+| 35 | 1797 | Miranda Rush |
+| 36 | 1779 | Katie Wisecarver |
 | 37 | 1760 | Cynthia Ward |
 | 38 | 1741 | Kelley Ann |
 | 39 | 1712 | Sheesh M |
@@ -50,7 +50,7 @@
 | 42 | 1610 | opf |
 | 43 | 1600 | 1nonlyreal1 |
 | 44 | 1592 | Tanya Smith |
-| 45 | 1566 | Dreamy Linkbuilder |
+| 45 | 1586 | Dreamy Linkbuilder |
 | 46 | 1511 | Giggy Brickmatch |
 | 47 | 1489 | Ultramarine |
 | 48 | 1487 | Linda Lively |
@@ -356,16 +356,16 @@
 | 348 | 208 | Jenn Dandle |
 | 349 | 207 | Smiley Match |
 | 350 | 207 | Brenda Bell |
-| 351 | 206 | Mike Davis |
-| 352 | 206 | Desi Desporte |
-| 353 | 205 | Cynthia Prouse |
-| 354 | 204 | Candy Brooks |
+| 351 | 207 | Candy Brooks |
+| 352 | 206 | Mike Davis |
+| 353 | 206 | Desi Desporte |
+| 354 | 205 | Cynthia Prouse |
 | 355 | 203 | Giddy Gridmatch |
 | 356 | 202 | Dally Hunt |
-| 357 | 201 | Eugenio Moquete |
-| 358 | 201 | Michael E Whitejr |
-| 359 | 201 | JustYvette IsFine |
-| 360 | 201 | Tash Bell |
+| 357 | 201 | Tash Bell |
+| 358 | 201 | Eugenio Moquete |
+| 359 | 201 | Michael E Whitejr |
+| 360 | 201 | JustYvette IsFine |
 | 361 | 201 | Ashley Leonard |
 | 362 | 200 | Nerdy Blockpiece |
 | 363 | 200 | Rhonda Prince |
@@ -377,15 +377,15 @@
 | 369 | 199 | Chummy Linkgrid |
 | 370 | 198 | Luna |
 | 371 | 197 | Jennifer Osmer Carruth |
-| 372 | 196 | Darlene Simmons |
-| 373 | 196 | Kristina Hill Perez |
-| 374 | 196 | Colin Morgan |
-| 375 | 196 | Loony Snapbuild |
-| 376 | 195 | Melissa M Wolfe |
-| 377 | 195 | De Yske |
-| 378 | 195 | Crystal Brown-Miles |
-| 379 | 194 | Lora |
-| 380 | 193 | Nicole McLean |
+| 372 | 197 | Nicole McLean |
+| 373 | 196 | Darlene Simmons |
+| 374 | 196 | Kristina Hill Perez |
+| 375 | 196 | Colin Morgan |
+| 376 | 196 | Loony Snapbuild |
+| 377 | 195 | Melissa M Wolfe |
+| 378 | 195 | De Yske |
+| 379 | 195 | Crystal Brown-Miles |
+| 380 | 194 | Lora |
 | 381 | 191 | Amanda Thomas |
 | 382 | 191 | Ramona Marie Eruera |
 | 383 | 190 | Goats Poe |
