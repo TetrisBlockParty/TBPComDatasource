@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 12:40:44 UTC
+# Standings for team1 as of 2026-03-15 12:41:20 UTC
 
 **Total Participants:** 2232
 
@@ -98,10 +98,10 @@
 | 90 | 981 | Amber Zeller Rice |
 | 91 | 979 | Legendary |
 | 92 | 978 | Elyse YL |
-| 93 | 941 | Kris Hudelson |
-| 94 | 934 | Jay Aye |
-| 95 | 914 | Zach Thompson |
-| 96 | 890 | Jess Dearborn |
+| 93 | 969 | Jess Dearborn |
+| 94 | 941 | Kris Hudelson |
+| 95 | 934 | Jay Aye |
+| 96 | 914 | Zach Thompson |
 | 97 | 882 | Walker Patterson |
 | 98 | 868 | Renee Weedling |
 | 99 | 859 | paupau |
@@ -156,15 +156,15 @@
 | 148 | 595 | Dramatic Tiger |
 | 149 | 595 | Chris Wanner |
 | 150 | 593 | Snippy Stacky |
-| 151 | 590 | Cassandra Latimore |
-| 152 | 589 | StankyP |
-| 153 | 588 | Joy Bloodworth |
-| 154 | 584 | Nanan Nanan |
+| 151 | 590 | Nanan Nanan |
+| 152 | 590 | Cassandra Latimore |
+| 153 | 589 | StankyP |
+| 154 | 588 | Joy Bloodworth |
 | 155 | 583 | Big rick !!! |
 | 156 | 582 | Hut Des |
 | 157 | 577 | Gloria Ininahazwe |
 | 158 | 577 | Simmone T. Kadiri |
-| 159 | 571 | Jme |
+| 159 | 574 | Jme |
 | 160 | 570 | Johnathan Rasmussen |
 | 161 | 569 | Death |
 | 162 | 567 | Sarah Stanonik |
@@ -412,59 +412,59 @@
 | 404 | 181 | Angela Brown Babin |
 | 405 | 181 | SpaceCase085 |
 | 406 | 181 | Jessica Shubert |
-| 407 | 180 | Chilly Faller |
-| 408 | 180 | Jeff Frandsen |
-| 409 | 180 | Allen Matthies |
-| 410 | 180 | Robert Benito |
-| 411 | 180 | Ann Brock LaPorte |
-| 412 | 180 | Spunky Rollblock |
-| 413 | 180 | Lil'A |
+| 407 | 180 | Robert Benito |
+| 408 | 180 | Lil'A |
+| 409 | 180 | Chilly Faller |
+| 410 | 180 | Jeff Frandsen |
+| 411 | 180 | Allen Matthies |
+| 412 | 180 | Ann Brock LaPorte |
+| 413 | 180 | Spunky Rollblock |
 | 414 | 179 | Chris |
-| 415 | 179 | DoodleBug |
-| 416 | 179 | Kim Bays |
+| 415 | 179 | Kim Bays |
+| 416 | 179 | DoodleBug |
 | 417 | 178 | Julie Miller |
-| 418 | 178 | Sabrina Frazier |
-| 419 | 178 | Mary Cerciello |
-| 420 | 175 | Shiny Patternblock |
-| 421 | 175 | Michelle Lee |
-| 422 | 174 | Flashy Rotator |
-| 423 | 174 | Melanie Kelley |
-| 424 | 173 | Cynthia Petz |
-| 425 | 173 | Josh Twilley |
-| 426 | 172 | Anthony Bryan Riva |
-| 427 | 171 | Brenda L. Bunce |
-| 428 | 171 | Kay Alifi |
-| 429 | 171 | Jaay |
-| 430 | 171 | Bearman |
-| 431 | 171 | Holly Hinkle |
-| 432 | 170 | Dapper Twistline |
+| 418 | 178 | Mary Cerciello |
+| 419 | 178 | Sabrina Frazier |
+| 420 | 175 | Michelle Lee |
+| 421 | 175 | Shiny Patternblock |
+| 422 | 174 | Kelly Miller Williams |
+| 423 | 174 | Flashy Rotator |
+| 424 | 174 | Melanie Kelley |
+| 425 | 173 | Cynthia Petz |
+| 426 | 173 | Josh Twilley |
+| 427 | 172 | Anthony Bryan Riva |
+| 428 | 171 | Brenda L. Bunce |
+| 429 | 171 | Kay Alifi |
+| 430 | 171 | Jaay |
+| 431 | 171 | Bearman |
+| 432 | 171 | Holly Hinkle |
 | 433 | 170 | Brandi Huntington |
 | 434 | 170 | J. |
-| 435 | 169 | Hasty Lift |
-| 436 | 168 | Lynn Perkins |
-| 437 | 168 | Cannaman710 |
-| 438 | 168 | Kellia S Johnson |
-| 439 | 168 | Quirky Catcher |
-| 440 | 166 | Rat666 |
-| 441 | 166 | Tabitha Cornelious |
-| 442 | 166 | Keri Smith |
-| 443 | 165 | Michelle Cummings |
+| 435 | 170 | Dapper Twistline |
+| 436 | 169 | Hasty Lift |
+| 437 | 168 | Lynn Perkins |
+| 438 | 168 | Cannaman710 |
+| 439 | 168 | Kellia S Johnson |
+| 440 | 168 | Quirky Catcher |
+| 441 | 166 | Rat666 |
+| 442 | 166 | Tabitha Cornelious |
+| 443 | 166 | Keri Smith |
 | 444 | 165 | Happy Shatterfit |
-| 445 | 164 | Armin Muhamed |
-| 446 | 164 | Jennifer Lynn |
-| 447 | 164 | Alexis Garcia |
-| 448 | 163 | Kelly Miller Williams |
+| 445 | 165 | Michelle Cummings |
+| 446 | 164 | Alexis Garcia |
+| 447 | 164 | Armin Muhamed |
+| 448 | 164 | Jennifer Lynn |
 | 449 | 163 | Maxwell Hall |
 | 450 | 162 | Albert Josef Toves Means Jr. |
-| 451 | 161 | DreamyMoon |
-| 452 | 161 | Rocky |
-| 453 | 161 | Lablaze |
-| 454 | 161 | Natasha King |
-| 455 | 160 | Tee Tee Greene |
-| 456 | 160 | Florna Primrose |
-| 457 | 160 | Dan Sessa |
+| 451 | 161 | Natasha King |
+| 452 | 161 | DreamyMoon |
+| 453 | 161 | Rocky |
+| 454 | 161 | Lablaze |
+| 455 | 160 | pjbeta |
+| 456 | 160 | Dan Sessa |
+| 457 | 160 | Tee Tee Greene |
 | 458 | 160 | Dee |
-| 459 | 160 | pjbeta |
+| 459 | 160 | Florna Primrose |
 | 460 | 160 | Ed Bullen |
 | 461 | 160 | Caitlin Zakrzewski |
 | 462 | 159 | Mary Boo |
@@ -483,8 +483,8 @@
 | 475 | 155 | Porkobello |
 | 476 | 155 | Lori Dutton |
 | 477 | 155 | Maria Lopez |
-| 478 | 155 | Erin Green |
-| 479 | 155 | Shekita Gibbs |
+| 478 | 155 | Shekita Gibbs |
+| 479 | 155 | Erin Green |
 | 480 | 155 | Jeremy Mitchell |
 | 481 | 154 | AngelVoice JB |
 | 482 | 154 | Chill Matchzone |
