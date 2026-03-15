@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 08:54:42 UTC
+# Standings for team1 as of 2026-03-15 08:55:22 UTC
 
 **Total Participants:** 2183
 
@@ -474,11 +474,11 @@
 | 466 | 146 | Thomas Susi |
 | 467 | 145 | Bingo Wingo |
 | 468 | 145 | Hoppy Buildgrid |
-| 469 | 144 | John Gardner |
-| 470 | 144 | Gina Annese |
-| 471 | 144 | Ophelia Rae |
-| 472 | 143 | Laura Morrison |
-| 473 | 143 | J. |
+| 469 | 144 | J. |
+| 470 | 144 | John Gardner |
+| 471 | 144 | Gina Annese |
+| 472 | 144 | Ophelia Rae |
+| 473 | 143 | Laura Morrison |
 | 474 | 143 | PennyCandee |
 | 475 | 143 | Lori Dutton |
 | 476 | 141 | Roberta Arnold |
