@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-15 11:20:20 UTC
+# Standings for team3 as of 2026-03-15 11:20:42 UTC
 
 **Total Participants:** 3431
 
@@ -1055,42 +1055,42 @@
 | 1047 | 96 | Hope Lancaster Landry |
 | 1048 | 96 | Daryne Ligon |
 | 1049 | 96 | SteFunkyy |
-| 1050 | 96 | Ashlee Johnson |
-| 1051 | 96 | Emily Colwell |
+| 1050 | 96 | Emily Colwell |
+| 1051 | 96 | Ashlee Johnson |
 | 1052 | 96 | Nicholle Thompson |
 | 1053 | 96 | Layna Lyons |
 | 1054 | 96 | Yin Yee |
-| 1055 | 96 | Jeff Youtsey |
-| 1056 | 96 | Lise Geffrard |
+| 1055 | 96 | Lise Geffrard |
+| 1056 | 96 | Jeff Youtsey |
 | 1057 | 96 | Shelby Crawford |
 | 1058 | 96 | MikeHunt |
-| 1059 | 95 | DeAnna Knopp |
+| 1059 | 96 | Jasmine Glover |
 | 1060 | 95 | Amanda Helms Garcia |
 | 1061 | 95 | Traci73 |
 | 1062 | 95 | Louie Biff Lafloor |
-| 1063 | 95 | Jayla7979 |
-| 1064 | 95 | Bella Grahanda |
-| 1065 | 95 | KiKi Joy |
-| 1066 | 95 | Perky Cascadeclear |
-| 1067 | 95 | Davey G |
-| 1068 | 95 | Marsheka Williamson |
-| 1069 | 95 | Stephanie Gibson |
-| 1070 | 94 | Kay Perl |
-| 1071 | 94 | Jennifer Holbrook |
-| 1072 | 94 | Lush Linebuilder |
-| 1073 | 94 | Jean Fields |
-| 1074 | 94 | Kimmy Smith |
+| 1063 | 95 | DeAnna Knopp |
+| 1064 | 95 | Jayla7979 |
+| 1065 | 95 | Bella Grahanda |
+| 1066 | 95 | KiKi Joy |
+| 1067 | 95 | Perky Cascadeclear |
+| 1068 | 95 | Davey G |
+| 1069 | 95 | Marsheka Williamson |
+| 1070 | 95 | Stephanie Gibson |
+| 1071 | 94 | Kay Perl |
+| 1072 | 94 | Jennifer Holbrook |
+| 1073 | 94 | Lush Linebuilder |
+| 1074 | 94 | Jean Fields |
 | 1075 | 94 | brian |
-| 1076 | 94 | Jasmine Glover |
+| 1076 | 94 | Kimmy Smith |
 | 1077 | 94 | Pam Holt Powell |
 | 1078 | 94 | Denise Michelle Morningstar |
 | 1079 | 94 | Clever Strikerbuilder |
-| 1080 | 93 | Kj Lenz |
-| 1081 | 93 | Nat |
-| 1082 | 93 | Jessie Chung |
-| 1083 | 93 | Giggly Bridger |
-| 1084 | 93 | HIM |
-| 1085 | 93 | Tammy Mitchell |
+| 1080 | 93 | Tammy Mitchell |
+| 1081 | 93 | HIM |
+| 1082 | 93 | Nat |
+| 1083 | 93 | Jessie Chung |
+| 1084 | 93 | Giggly Bridger |
+| 1085 | 93 | Kj Lenz |
 | 1086 | 93 | Lisa Ferreira |
 | 1087 | 93 | Stella Hofstedt |
 | 1088 | 93 | Snappy Shatterfit |
@@ -1127,10 +1127,10 @@
 | 1119 | 90 | JP Chua |
 | 1120 | 90 | Dawn Kelley |
 | 1121 | 90 | Nici |
-| 1122 | 90 | Nate Marse |
-| 1123 | 90 | Jennifer Matwijow Nosal |
-| 1124 | 90 | Zesty Brickfit |
-| 1125 | 90 | Kimberly Blais |
+| 1122 | 90 | Zesty Brickfit |
+| 1123 | 90 | Kimberly Blais |
+| 1124 | 90 | Jennifer Matwijow Nosal |
+| 1125 | 90 | Nate Marse |
 | 1126 | 90 | Clever Builderpiece |
 | 1127 | 90 | Andrew Kosloskey Sr. |
 | 1128 | 90 | Breezy Roll |
@@ -2671,34 +2671,34 @@
 | 2663 | 24 | Abdullah Campbell |
 | 2664 | 24 | Angie Garcia |
 | 2665 | 24 | Rickeia Lanae Wright |
-| 2666 | 24 | Jessica Supinski |
-| 2667 | 24 | Mighty Bridger |
+| 2666 | 24 | Mighty Bridger |
+| 2667 | 24 | Jessica Supinski |
 | 2668 | 24 | Dizzy Snapzone |
 | 2669 | 24 | Penelope |
 | 2670 | 24 | TMS |
 | 2671 | 24 | MarineMom31 |
-| 2672 | 23 | Taylor Lauren |
+| 2672 | 23 | John Gasparovic |
 | 2673 | 23 | BŘŰŤİÇŨŚ |
 | 2674 | 23 | Cynthia Stambaugh |
 | 2675 | 23 | Allie Bee |
-| 2676 | 23 | Witty Curvetile |
-| 2677 | 23 | Nick Dragt |
+| 2676 | 23 | Nick Dragt |
+| 2677 | 23 | Witty Curvetile |
 | 2678 | 23 | Sarah Rene Fauller |
-| 2679 | 23 | Frisky Pop |
-| 2680 | 23 | John Gasparovic |
-| 2681 | 23 | Snazzy Dashpiece |
-| 2682 | 23 | Michxmarie |
-| 2683 | 23 | Becca Meadows |
-| 2684 | 23 | Swanky Patternline |
+| 2679 | 23 | Becca Meadows |
+| 2680 | 23 | Taylor Lauren |
+| 2681 | 23 | Michxmarie |
+| 2682 | 23 | Snazzy Dashpiece |
+| 2683 | 23 | Tiffany Alderson |
+| 2684 | 23 | Frisky Pop |
 | 2685 | 23 | Kyle Dunaway |
 | 2686 | 23 | Artofhiking |
-| 2687 | 23 | John Marin |
-| 2688 | 23 | Sheri Sanchez |
-| 2689 | 23 | Shontel Alliss |
-| 2690 | 23 | Tiffany Alderson |
-| 2691 | 23 | Sarah Hills |
-| 2692 | 23 | Charity Muller |
-| 2693 | 23 | Lauren Harris |
+| 2687 | 23 | Sheri Sanchez |
+| 2688 | 23 | Lauren Harris |
+| 2689 | 23 | Charity Muller |
+| 2690 | 23 | John Marin |
+| 2691 | 23 | Shontel Alliss |
+| 2692 | 23 | Sarah Hills |
+| 2693 | 23 | Swanky Patternline |
 | 2694 | 23 | Julie Johnson |
 | 2695 | 23 | Julie Nicholson |
 | 2696 | 23 | Still Armanda |
@@ -2711,37 +2711,37 @@
 | 2703 | 22 | Craig Avena |
 | 2704 | 22 | Alison Flegal |
 | 2705 | 22 | Amber Gray |
-| 2706 | 22 | Jeannie Marchesky |
-| 2707 | 22 | Lawrence Remboske |
+| 2706 | 22 | Kelli Taylor |
+| 2707 | 22 | Sophie Pablo |
 | 2708 | 22 | PuDdlE$ |
-| 2709 | 22 | Kelli Taylor |
-| 2710 | 22 | Sophie Pablo |
-| 2711 | 22 | Laurmarcar |
-| 2712 | 22 | yarri |
+| 2709 | 22 | Laurmarcar |
+| 2710 | 22 | Lawrence Remboske |
+| 2711 | 22 | yarri |
+| 2712 | 22 | Rubberbiscuit |
 | 2713 | 22 | Rachel Jennie Hernandez |
-| 2714 | 22 | Patty Case Shaffer |
-| 2715 | 22 | Jeremiah Andrews |
-| 2716 | 22 | Lv Milly |
-| 2717 | 22 | Glitzy Striker |
-| 2718 | 22 | Carolina Medina |
-| 2719 | 22 | Pat Gaiek |
-| 2720 | 22 | Jason Wilson |
+| 2714 | 22 | Jeannie Marchesky |
+| 2715 | 22 | Patty Case Shaffer |
+| 2716 | 22 | Jeremiah Andrews |
+| 2717 | 22 | Lv Milly |
+| 2718 | 22 | Glitzy Striker |
+| 2719 | 22 | Carolina Medina |
+| 2720 | 22 | Pat Gaiek |
 | 2721 | 22 | Giggly Zone |
-| 2722 | 22 | Jacqueline Buckley |
+| 2722 | 22 | Jason Wilson |
 | 2723 | 22 | Krystle Williams |
-| 2724 | 22 | Mindy Leanne Wall |
-| 2725 | 22 | Lush Shatterclear |
+| 2724 | 22 | Lush Shatterclear |
+| 2725 | 22 | Jacqueline Buckley |
 | 2726 | 22 | Chilly |
-| 2727 | 21 | Dreams |
-| 2728 | 21 | Susan Geci |
-| 2729 | 21 | Rubberbiscuit |
-| 2730 | 21 | Chill Blocker |
-| 2731 | 21 | Beth Hyde |
+| 2727 | 22 | Mindy Leanne Wall |
+| 2728 | 21 | Dreams |
+| 2729 | 21 | Susan Geci |
+| 2730 | 21 | Beth Hyde |
+| 2731 | 21 | Chill Blocker |
 | 2732 | 21 | Jessica Nicole |
 | 2733 | 21 | Sunny Rollfit |
 | 2734 | 21 | Kyle Collins |
-| 2735 | 21 | Crystal Byram |
-| 2736 | 21 | Chad e Littlejohn |
+| 2735 | 21 | Chad e Littlejohn |
+| 2736 | 21 | Crystal Byram |
 | 2737 | 21 | Brandi Tierney |
 | 2738 | 21 | zoeboy |
 | 2739 | 21 | Missy Anderson |
