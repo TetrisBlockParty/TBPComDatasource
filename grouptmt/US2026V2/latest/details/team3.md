@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-15 07:54:20 UTC
+# Standings for team3 as of 2026-03-15 07:54:41 UTC
 
 **Total Participants:** 3353
 
@@ -1834,63 +1834,63 @@
 | 1826 | 48 | Quirky Tiltbuilder |
 | 1827 | 48 | Juicy |
 | 1828 | 48 | Jason B Hearon |
-| 1829 | 48 | Sofia Casale |
-| 1830 | 48 | Luis Delgado |
-| 1831 | 48 | Mighty Spinfit |
-| 1832 | 48 | Frilly Spinzone |
-| 1833 | 48 | OGCMD |
-| 1834 | 48 | Sunny Fitblock |
-| 1835 | 48 | Jaxson |
-| 1836 | 48 | Tasha Syers |
-| 1837 | 48 | Gibs |
-| 1838 | 48 | Nate Natividad |
-| 1839 | 48 | Nerdy Piecegrid |
-| 1840 | 47 | Stacey Tranchida |
-| 1841 | 47 | Amy Wheeler |
-| 1842 | 47 | Cristina |
-| 1843 | 47 | Marjie Whipple Halupnick |
-| 1844 | 47 | Michael Floyd Beavers |
-| 1845 | 47 | Jumpy Matchfit |
-| 1846 | 47 | Fancy Twist |
-| 1847 | 47 | Lindsay George |
+| 1829 | 48 | Nerdy Piecegrid |
+| 1830 | 48 | Nate Natividad |
+| 1831 | 48 | Gibs |
+| 1832 | 48 | Sofia Casale |
+| 1833 | 48 | Tasha Syers |
+| 1834 | 48 | Jaxson |
+| 1835 | 48 | Luis Delgado |
+| 1836 | 48 | Mighty Spinfit |
+| 1837 | 48 | Sunny Fitblock |
+| 1838 | 48 | OGCMD |
+| 1839 | 48 | Frilly Spinzone |
+| 1840 | 47 | Fancy Twist |
+| 1841 | 47 | Beck Nicole |
+| 1842 | 47 | Jumpy Matchfit |
+| 1843 | 47 | Michael Floyd Beavers |
+| 1844 | 47 | Marjie Whipple Halupnick |
+| 1845 | 47 | Amy Wheeler |
+| 1846 | 47 | Stacey Tranchida |
+| 1847 | 47 | Cristina |
 | 1848 | 47 | Lauren Michele Mabry |
-| 1849 | 47 | Lynn Williams |
-| 1850 | 47 | DeeVine |
+| 1849 | 47 | DeeVine |
+| 1850 | 47 | Lynn Williams |
 | 1851 | 47 | Hillary Whittington |
 | 1852 | 47 | Reina Roth |
 | 1853 | 47 | secret gal |
 | 1854 | 47 | Klee |
 | 1855 | 47 | Dotcain73 |
 | 1856 | 47 | Frothy Linkblock |
-| 1857 | 47 | Sassy Buildout |
-| 1858 | 47 | Kristin MacDonald |
-| 1859 | 47 | Daniel Frye |
-| 1860 | 47 | GirlGirl |
-| 1861 | 47 | La Rhonda Cossette |
-| 1862 | 47 | Kristin Joy |
-| 1863 | 47 | Kelley Knowles |
-| 1864 | 47 | Strawbaby |
-| 1865 | 47 | Lilahnarcisa Morrow |
-| 1866 | 47 | Michael Mercier |
-| 1867 | 47 | ERO |
-| 1868 | 47 | emmanaut |
-| 1869 | 47 | Goofy Linefit |
-| 1870 | 46 | Euniquely Ken |
-| 1871 | 46 | Giggly Shatterbuilder |
-| 1872 | 46 | CrazyOne |
-| 1873 | 46 | mrstlh |
-| 1874 | 46 | Wacky Shift |
-| 1875 | 46 | Teresa Nola |
-| 1876 | 46 | Tiffany Gamble |
-| 1877 | 46 | Harlequinn N Glover |
-| 1878 | 46 | Carolina Bittar |
-| 1879 | 46 | Zeel Patel |
-| 1880 | 46 | Leanne Summerall |
-| 1881 | 46 | Papa B |
-| 1882 | 46 | Kim Levesque |
-| 1883 | 46 | Eden Sharp |
-| 1884 | 46 | Luscious |
-| 1885 | 46 | Beck Nicole |
+| 1857 | 47 | Lindsay George |
+| 1858 | 47 | Sassy Buildout |
+| 1859 | 47 | Kristin MacDonald |
+| 1860 | 47 | Daniel Frye |
+| 1861 | 47 | GirlGirl |
+| 1862 | 47 | La Rhonda Cossette |
+| 1863 | 47 | Kristin Joy |
+| 1864 | 47 | Kelley Knowles |
+| 1865 | 47 | Strawbaby |
+| 1866 | 47 | Lilahnarcisa Morrow |
+| 1867 | 47 | Michael Mercier |
+| 1868 | 47 | ERO |
+| 1869 | 47 | emmanaut |
+| 1870 | 47 | Goofy Linefit |
+| 1871 | 46 | Euniquely Ken |
+| 1872 | 46 | Giggly Shatterbuilder |
+| 1873 | 46 | CrazyOne |
+| 1874 | 46 | mrstlh |
+| 1875 | 46 | Wacky Shift |
+| 1876 | 46 | Teresa Nola |
+| 1877 | 46 | Tiffany Gamble |
+| 1878 | 46 | Harlequinn N Glover |
+| 1879 | 46 | Carolina Bittar |
+| 1880 | 46 | Zeel Patel |
+| 1881 | 46 | Leanne Summerall |
+| 1882 | 46 | Papa B |
+| 1883 | 46 | Kim Levesque |
+| 1884 | 46 | Eden Sharp |
+| 1885 | 46 | Luscious |
 | 1886 | 46 | blah |
 | 1887 | 46 | Onica Adridge |
 | 1888 | 46 | Peachy Tilerpiece |

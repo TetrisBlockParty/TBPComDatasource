@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 07:54:20 UTC
+# Standings for team2 as of 2026-03-15 07:54:41 UTC
 
 **Total Participants:** 2159
 
@@ -123,9 +123,9 @@
 | 115 | 659 | Ania |
 | 116 | 636 | Qing DG |
 | 117 | 634 | Nathaniel Hardy |
-| 118 | 631 | Elissa S-k |
-| 119 | 630 | Kristy Monk |
-| 120 | 610 | Dandy Crasher |
+| 118 | 634 | Dandy Crasher |
+| 119 | 631 | Elissa S-k |
+| 120 | 630 | Kristy Monk |
 | 121 | 609 | Anna Faulkner |
 | 122 | 604 | Cw |
 | 123 | 603 | Liss Lint |
@@ -366,18 +366,18 @@
 | 358 | 195 | De Yske |
 | 359 | 195 | Crystal Brown-Miles |
 | 360 | 195 | Melissa M Wolfe |
-| 361 | 193 | Stacy Evans |
-| 362 | 191 | Ramona Marie Eruera |
-| 363 | 191 | Amanda Thomas |
-| 364 | 191 | Lora |
-| 365 | 190 | Christina Graham |
-| 366 | 190 | Amber Lashbrook |
-| 367 | 190 | Cheeky Clearbuilder |
-| 368 | 190 | Goats Poe |
-| 369 | 190 | LaTonya Myers |
-| 370 | 188 | Lakeisha Webb Briggs |
-| 371 | 188 | Tudy Irvin |
-| 372 | 188 | Dizzy Dasher |
+| 361 | 194 | Lora |
+| 362 | 193 | Stacy Evans |
+| 363 | 191 | Ramona Marie Eruera |
+| 364 | 191 | Amanda Thomas |
+| 365 | 190 | Amber Lashbrook |
+| 366 | 190 | Cheeky Clearbuilder |
+| 367 | 190 | Goats Poe |
+| 368 | 190 | LaTonya Myers |
+| 369 | 190 | Christina Graham |
+| 370 | 188 | Tudy Irvin |
+| 371 | 188 | Dizzy Dasher |
+| 372 | 188 | Lakeisha Webb Briggs |
 | 373 | 186 | Tina Cano |
 | 374 | 185 | Sondra Kenny |
 | 375 | 184 | Nicole McLean |
