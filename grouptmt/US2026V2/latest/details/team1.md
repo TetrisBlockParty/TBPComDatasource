@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 09:26:20 UTC
+# Standings for team1 as of 2026-03-15 09:26:41 UTC
 
 **Total Participants:** 2186
 
@@ -274,16 +274,16 @@
 | 266 | 292 | Marianne Lopez |
 | 267 | 291 | QueenBee |
 | 268 | 288 | bea |
-| 269 | 287 | Marshell Harris |
-| 270 | 287 | Poppy Fallzone |
-| 271 | 287 | raffyG |
-| 272 | 286 | Randall Sykes |
-| 273 | 286 | Jonnelle Partin |
-| 274 | 285 | Cesar Morelos |
-| 275 | 284 | Spicy Buildsnap |
-| 276 | 284 | TRCuse |
-| 277 | 282 | Lavender |
-| 278 | 282 | Lilyandstuff |
+| 269 | 288 | Lilyandstuff |
+| 270 | 287 | Marshell Harris |
+| 271 | 287 | Poppy Fallzone |
+| 272 | 287 | raffyG |
+| 273 | 286 | Randall Sykes |
+| 274 | 286 | Jonnelle Partin |
+| 275 | 285 | Cesar Morelos |
+| 276 | 284 | Spicy Buildsnap |
+| 277 | 284 | TRCuse |
+| 278 | 282 | Lavender |
 | 279 | 281 | Sabra Fisher |
 | 280 | 281 | Kathy Karjala |
 | 281 | 281 | Mama Becky |
@@ -431,8 +431,8 @@
 | 423 | 164 | Alexis Garcia |
 | 424 | 164 | Boldy Clicky |
 | 425 | 164 | Jennifer Lynn |
-| 426 | 162 | Bribrobra |
-| 427 | 162 | Angela Brown Babin |
+| 426 | 163 | Angela Brown Babin |
+| 427 | 162 | Bribrobra |
 | 428 | 162 | Albert Josef Toves Means Jr. |
 | 429 | 161 | Melanie Kelley |
 | 430 | 161 | Lablaze |
