@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 14:46:42 UTC
+# Standings for team1 as of 2026-03-15 14:47:20 UTC
 
 **Total Participants:** 2276
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 22487 | Ariel |
-| 2 | 13123 | Donna Wilkinson |
+| 2 | 13223 | Donna Wilkinson |
 | 3 | 9994 | Bryan Stockwell |
 | 4 | 9111 | Scott Lindsay |
 | 5 | 7804 | Devinlee Brown |
@@ -24,9 +24,9 @@
 | 16 | 4265 | Paul Smiar |
 | 17 | 3992 | Amy Jerman |
 | 18 | 3858 | Nathaniel Hughes |
-| 19 | 3825 | Rosey |
-| 20 | 3822 | Amber Whisenhunt |
-| 21 | 3786 | Amy Roche |
+| 19 | 3846 | Amy Roche |
+| 20 | 3825 | Rosey |
+| 21 | 3822 | Amber Whisenhunt |
 | 22 | 3536 | Erica Lepisto Anderson |
 | 23 | 3264 | Megan Klinkner |
 | 24 | 3220 | Marianne Elizabeth Mills |
@@ -56,7 +56,7 @@
 | 48 | 1835 | Robert Everett |
 | 49 | 1806 | Sarah Henniker |
 | 50 | 1790 | Howard Forest |
-| 51 | 1745 | Carrie Trigg |
+| 51 | 1776 | Carrie Trigg |
 | 52 | 1726 | Kevin Sees |
 | 53 | 1713 | Audicia Bailey |
 | 54 | 1700 | Jessica Sheehan |
@@ -316,10 +316,10 @@
 | 308 | 270 | Boldy Clear |
 | 309 | 269 | Denise Edwards |
 | 310 | 269 | SpunkyStriker |
-| 311 | 267 | Jamilah Abdul-Hakeem |
-| 312 | 266 | 🗝️🗝️ Key |
-| 313 | 265 | Victoria Davis Torie |
-| 314 | 263 | Panda Rog |
+| 311 | 267 | Panda Rog |
+| 312 | 267 | Jamilah Abdul-Hakeem |
+| 313 | 266 | 🗝️🗝️ Key |
+| 314 | 265 | Victoria Davis Torie |
 | 315 | 263 | April McGuffie |
 | 316 | 262 | Jason Nathaniel Caniff |
 | 317 | 261 | Amber Lingerfelt |
