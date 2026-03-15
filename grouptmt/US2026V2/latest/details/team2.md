@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 07:10:21 UTC
+# Standings for team2 as of 2026-03-15 07:10:42 UTC
 
 **Total Participants:** 2147
 
@@ -729,41 +729,41 @@
 | 721 | 88 | Jason Gibbs |
 | 722 | 88 | Jazmin Santos |
 | 723 | 88 | Ann May June |
-| 724 | 88 | Rebecca Goforth |
-| 725 | 88 | Katie Hughes |
-| 726 | 88 | Chalanda Jefferies |
-| 727 | 87 | Cee_me |
-| 728 | 87 | Jo |
-| 729 | 87 | Davery Spencer Adair |
-| 730 | 87 | Roll1000 |
+| 724 | 88 | Cee_me |
+| 725 | 88 | Rebecca Goforth |
+| 726 | 88 | Katie Hughes |
+| 727 | 88 | Chalanda Jefferies |
+| 728 | 87 | Roll1000 |
+| 729 | 87 | Jo |
+| 730 | 87 | Davery Spencer Adair |
 | 731 | 87 | Hasty Pivoty |
 | 732 | 87 | Snippy Framezone |
 | 733 | 87 | jay |
 | 734 | 87 | Nerdy Clearer |
 | 735 | 87 | Sandra McNab |
 | 736 | 86 | Crystal Harbeson |
-| 737 | 86 | scott |
-| 738 | 86 | Chipper Clicky |
+| 737 | 86 | Chipper Clicky |
+| 738 | 86 | scott |
 | 739 | 85 | Briaa Williams |
 | 740 | 85 | Tipsy Clearbuilder |
-| 741 | 85 | Angela Srubar-Norman |
-| 742 | 85 | Montano-Espinoza Chacha |
-| 743 | 85 | Jaylene Lawrence |
-| 744 | 85 | Kelly Elizabeth Clark |
-| 745 | 85 | Epic Wipebuilder |
-| 746 | 84 | Elyssa Lowery |
-| 747 | 84 | Karina Rodriguez |
-| 748 | 84 | Quags |
-| 749 | 84 | Dbabe |
-| 750 | 84 | Heather Kelley |
+| 741 | 85 | Jaylene Lawrence |
+| 742 | 85 | Angela Srubar-Norman |
+| 743 | 85 | Montano-Espinoza Chacha |
+| 744 | 85 | Epic Wipebuilder |
+| 745 | 85 | Kelly Elizabeth Clark |
+| 746 | 84 | Dbabe |
+| 747 | 84 | Quags |
+| 748 | 84 | Heather Kelley |
+| 749 | 84 | Elyssa Lowery |
+| 750 | 84 | Karina Rodriguez |
 | 751 | 84 | Bibbit |
 | 752 | 84 | Paul Islas |
 | 753 | 84 | Priscilla Dae Jones |
 | 754 | 83 | Twisty Tiler |
-| 755 | 83 | RzrbkParty |
-| 756 | 83 | Jeremy Null |
-| 757 | 82 | Fely |
-| 758 | 82 | Silly Brickline |
+| 755 | 83 | Jeremy Null |
+| 756 | 83 | RzrbkParty |
+| 757 | 82 | Silly Brickline |
+| 758 | 82 | Fely |
 | 759 | 82 | Breezy Patternzone |
 | 760 | 82 | Marciala Pineda Juarez |
 | 761 | 82 | Jacques Frenette |
@@ -776,11 +776,11 @@
 | 768 | 81 | Amykins |
 | 769 | 81 | WD6DAL |
 | 770 | 81 | Mrcasper Royalbee Mbstcys |
-| 771 | 80 | Jai Sweetz |
-| 772 | 80 | Carly Ann Maxwell |
-| 773 | 80 | Jumpy Tiley |
-| 774 | 80 | Bouncy Piececlear |
-| 775 | 80 | boogadee |
+| 771 | 80 | Carly Ann Maxwell |
+| 772 | 80 | Jai Sweetz |
+| 773 | 80 | Bouncy Piececlear |
+| 774 | 80 | boogadee |
+| 775 | 80 | Jumpy Tiley |
 | 776 | 80 | Armand Drayton |
 | 777 | 80 | Quitito1014 |
 | 778 | 80 | Happy Brickbuilder |
