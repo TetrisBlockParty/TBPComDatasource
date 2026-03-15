@@ -1,6 +1,6 @@
-# Standings for team3 as of 2026-03-15 06:50:42 UTC
+# Standings for team3 as of 2026-03-15 06:51:20 UTC
 
-**Total Participants:** 3328
+**Total Participants:** 3329
 
 ## Participant Scores
 
@@ -49,8 +49,8 @@
 | 41 | 1825 | Cherrish Duren |
 | 42 | 1802 | Epic Strikerpiece |
 | 43 | 1785 | Frilly Patternbuilder |
-| 44 | 1764 | Marvin Martian |
-| 45 | 1760 | smalls |
+| 44 | 1776 | smalls |
+| 45 | 1764 | Marvin Martian |
 | 46 | 1758 | Stacey Arsenault |
 | 47 | 1756 | Kimberly Amber Owens |
 | 48 | 1723 | Swanky Curver |
@@ -147,14 +147,14 @@
 | 139 | 809 | Tamara Huckins |
 | 140 | 809 | Reydoma |
 | 141 | 806 | Amanda Maize |
-| 142 | 803 | Stephanie Rice |
-| 143 | 802 | Nery García |
-| 144 | 801 | Heather Loehr |
-| 145 | 800 | Victoria M Valencia |
-| 146 | 800 | Paul Huber |
-| 147 | 795 | Bryon D Tann |
-| 148 | 795 | Elizabeth Coover |
-| 149 | 791 | Kimmy |
+| 142 | 806 | Kimmy |
+| 143 | 803 | Stephanie Rice |
+| 144 | 802 | Nery García |
+| 145 | 801 | Heather Loehr |
+| 146 | 800 | Victoria M Valencia |
+| 147 | 800 | Paul Huber |
+| 148 | 795 | Bryon D Tann |
+| 149 | 795 | Elizabeth Coover |
 | 150 | 788 | Jessie Walsh |
 | 151 | 773 | Cam Smeaton |
 | 152 | 772 | Rue |
@@ -342,21 +342,21 @@
 | 334 | 295 | Yup |
 | 335 | 294 | Lucy Lu Green |
 | 336 | 293 | Nubian1 |
-| 337 | 292 | Kayla Jo Piper |
-| 338 | 291 | Tim Smolen |
-| 339 | 291 | LadybugChaos |
-| 340 | 290 | Elizabeth Charles |
-| 341 | 289 | Monica Bernal |
-| 342 | 287 | Reyann Martin |
-| 343 | 285 | Twisty Dashgrid |
-| 344 | 285 | Valley Valentino |
-| 345 | 284 | Speedy Snaplink |
-| 346 | 284 | Mary Collins |
-| 347 | 282 | Stephen-Sheri Commo |
-| 348 | 280 | Moist_B-hole |
-| 349 | 280 | Santi Angel Ramos |
-| 350 | 280 | MarvelousMe |
-| 351 | 280 | Brooke Walters |
+| 337 | 293 | Stephen-Sheri Commo |
+| 338 | 292 | Kayla Jo Piper |
+| 339 | 291 | Tim Smolen |
+| 340 | 291 | LadybugChaos |
+| 341 | 290 | Elizabeth Charles |
+| 342 | 289 | Monica Bernal |
+| 343 | 287 | Reyann Martin |
+| 344 | 285 | Twisty Dashgrid |
+| 345 | 285 | Valley Valentino |
+| 346 | 284 | Speedy Snaplink |
+| 347 | 284 | Mary Collins |
+| 348 | 280 | Brooke Walters |
+| 349 | 280 | Moist_B-hole |
+| 350 | 280 | Santi Angel Ramos |
+| 351 | 280 | MarvelousMe |
 | 352 | 279 | Xarandom |
 | 353 | 278 | Chipper Slide |
 | 354 | 276 | Jackie Chatham |
@@ -3243,39 +3243,39 @@
 | 3235 | 6 | Tyler Pope |
 | 3236 | 6 | Sunny Shuffler |
 | 3237 | 6 | Chelsea |
-| 3238 | 6 | Jenn |
-| 3239 | 6 | BJ AndAmanda |
+| 3238 | 6 | virus |
+| 3239 | 6 | Zesty Balance |
 | 3240 | 6 | Trisha Elrod Germany |
 | 3241 | 6 | Andriel Vertrees |
 | 3242 | 6 | chris |
 | 3243 | 6 | Groovy Glider |
-| 3244 | 6 | Kelly |
-| 3245 | 6 | Kayla Nicole |
-| 3246 | 6 | Jumpy Snapper |
-| 3247 | 6 | Slinky Dashgrid |
-| 3248 | 6 | lilfoot |
-| 3249 | 6 | Wacky Setter |
-| 3250 | 6 | Jolly Shifter |
-| 3251 | 6 | MauveArcher |
-| 3252 | 6 | Chrystal Case |
+| 3244 | 6 | Tammy Pike |
+| 3245 | 6 | Kelly |
+| 3246 | 6 | Kayla Nicole |
+| 3247 | 6 | Jenifer Whiston |
+| 3248 | 6 | BJ AndAmanda |
+| 3249 | 6 | Jumpy Snapper |
+| 3250 | 6 | Slinky Dashgrid |
+| 3251 | 6 | lilfoot |
+| 3252 | 6 | Jenn |
 | 3253 | 6 | Jarred J Porper |
-| 3254 | 6 | virus |
-| 3255 | 6 | Jenifer Whiston |
-| 3256 | 6 | Tammy Pike |
-| 3257 | 6 | Kasey Lynn |
-| 3258 | 6 | Stacia Pleasant |
-| 3259 | 6 | Jennifer Heaney |
-| 3260 | 6 | K@t@lin56 |
-| 3261 | 6 | Catherine Gomez |
-| 3262 | 6 | Zakieh Lloyd |
-| 3263 | 6 | Dawn Green |
-| 3264 | 6 | Paris Glover |
-| 3265 | 6 | kappcity |
-| 3266 | 6 | Dustin N Lucrecia Davis |
-| 3267 | 6 | Pudden |
-| 3268 | 6 | Kristin Huntsman |
-| 3269 | 6 | Lisa Purple Diamond Dempson |
-| 3270 | 6 | Zesty Balance |
+| 3254 | 6 | Chrystal Case |
+| 3255 | 6 | Jolly Shifter |
+| 3256 | 6 | MauveArcher |
+| 3257 | 6 | kappcity |
+| 3258 | 6 | Wacky Setter |
+| 3259 | 6 | Zakieh Lloyd |
+| 3260 | 6 | Dustin N Lucrecia Davis |
+| 3261 | 6 | K@t@lin56 |
+| 3262 | 6 | Jennifer Heaney |
+| 3263 | 6 | Kristin Huntsman |
+| 3264 | 6 | Lisa Purple Diamond Dempson |
+| 3265 | 6 | Dawn Green |
+| 3266 | 6 | Catherine Gomez |
+| 3267 | 6 | Stacia Pleasant |
+| 3268 | 6 | Pudden |
+| 3269 | 6 | Paris Glover |
+| 3270 | 6 | Kasey Lynn |
 | 3271 | 6 | Sarah Blazie |
 | 3272 | 6 | Fancy Fitclear |
 | 3273 | 6 | Sunny Linkpiece |
@@ -3294,46 +3294,47 @@
 | 3286 | 5 | Kelly Sullivan |
 | 3287 | 5 | Paula Morrison |
 | 3288 | 5 | MamaHarper |
-| 3289 | 5 | Tisha |
-| 3290 | 5 | Rmk |
-| 3291 | 5 | Niaaa |
-| 3292 | 5 | Jochele De Pew |
-| 3293 | 5 | River AEnona |
-| 3294 | 5 | Vicki Reeves |
-| 3295 | 5 | Miguel Nuno |
-| 3296 | 5 | SusieQ |
-| 3297 | 5 | Poppy Puzzler |
-| 3298 | 5 | Alyssa Tipton |
-| 3299 | 5 | Onyx Shamburg |
-| 3300 | 5 | Laura D Farr |
-| 3301 | 5 | Jamie Frank Karolyi |
-| 3302 | 5 | Erica Snelling |
-| 3303 | 5 | Michelle Todd |
-| 3304 | 5 | Melissa Harrell |
-| 3305 | 5 | Christine Filson |
-| 3306 | 5 | Laurinda Savilla |
-| 3307 | 5 | Sherry McNabb |
-| 3308 | 5 | Paul Gates |
-| 3309 | 5 | Erin Wight |
-| 3310 | 5 | Tony the Tetris god |
-| 3311 | 5 | Fancy Brickclear |
-| 3312 | 5 | Bold Crusher |
+| 3289 | 5 | Jamie Frank Karolyi |
+| 3290 | 5 | Sherry McNabb |
+| 3291 | 5 | Laurinda Savilla |
+| 3292 | 5 | Christine Filson |
+| 3293 | 5 | Vicki Reeves |
+| 3294 | 5 | Laura D Farr |
+| 3295 | 5 | Melissa Harrell |
+| 3296 | 5 | Niaaa |
+| 3297 | 5 | Alyssa Tipton |
+| 3298 | 5 | Rmk |
+| 3299 | 5 | Tisha |
+| 3300 | 5 | Onyx Shamburg |
+| 3301 | 5 | Miguel Nuno |
+| 3302 | 5 | SusieQ |
+| 3303 | 5 | River AEnona |
+| 3304 | 5 | Jeanie Pendergrast |
+| 3305 | 5 | Steven Wetzel Jr. |
+| 3306 | 5 | Michelle Todd |
+| 3307 | 5 | Erica Snelling |
+| 3308 | 5 | Jochele De Pew |
+| 3309 | 5 | 420NinaDG |
+| 3310 | 5 | Paul Gates |
+| 3311 | 5 | Sponge Bond |
+| 3312 | 5 | Frisky Cascadefit |
 | 3313 | 5 | Stephanie Kane Mummert |
-| 3314 | 5 | Dogg0 |
-| 3315 | 5 | Frisky Cascadefit |
-| 3316 | 5 | Shawnee Crawley |
-| 3317 | 5 | Brittani Layne Nida |
-| 3318 | 5 | Meggles |
-| 3319 | 5 | Leanne D'angelo Marshall |
-| 3320 | 5 | Brie Danas |
-| 3321 | 5 | Sponge Bond |
-| 3322 | 5 | Mary Turner |
-| 3323 | 5 | Cozy Crusher |
-| 3324 | 5 | Shannon Montgomery |
-| 3325 | 5 | Steven Wetzel Jr. |
-| 3326 | 5 | Patricia Mills |
-| 3327 | 5 | 420NinaDG |
-| 3328 | 5 | Funky Shiftspin |
+| 3314 | 5 | Bold Crusher |
+| 3315 | 5 | Erin Wight |
+| 3316 | 5 | Patricia Mills |
+| 3317 | 5 | Poppy Puzzler |
+| 3318 | 5 | Fancy Brickclear |
+| 3319 | 5 | Shannon Montgomery |
+| 3320 | 5 | Cozy Crusher |
+| 3321 | 5 | Mary Turner |
+| 3322 | 5 | Brie Danas |
+| 3323 | 5 | Leanne D'angelo Marshall |
+| 3324 | 5 | Meggles |
+| 3325 | 5 | Brittani Layne Nida |
+| 3326 | 5 | Shawnee Crawley |
+| 3327 | 5 | Dogg0 |
+| 3328 | 5 | Tony the Tetris god |
+| 3329 | 5 | Funky Shiftspin |
 
 ---
 *Standings created by tournaments datasource generation tool*
