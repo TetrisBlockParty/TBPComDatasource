@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 09:50:21 UTC
+# Standings for team1 as of 2026-03-15 09:50:43 UTC
 
 **Total Participants:** 2190
 
@@ -14,7 +14,7 @@
 | 6 | 6167 | William George Weglage III |
 | 7 | 6046 | Hyper |
 | 8 | 5712 | Dizzy Stagger |
-| 9 | 5306 | Krystal McPherson |
+| 9 | 5366 | Krystal McPherson |
 | 10 | 4995 | Vistabrat |
 | 11 | 4897 | Tashanna Harvey |
 | 12 | 4381 | Jayna Anoc |
