@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 09:52:40 UTC
+# Standings for team1 as of 2026-03-15 09:53:21 UTC
 
 **Total Participants:** 2191
 
@@ -151,18 +151,18 @@
 | 143 | 605 | Matt Aguilar |
 | 144 | 595 | Dramatic Tiger |
 | 145 | 595 | Chris Wanner |
-| 146 | 590 | Cassandra Latimore |
-| 147 | 583 | Big rick !!! |
-| 148 | 579 | Nanan Nanan |
-| 149 | 577 | Gloria Ininahazwe |
-| 150 | 577 | Simmone T. Kadiri |
-| 151 | 570 | Johnathan Rasmussen |
-| 152 | 567 | Sarah Stanonik |
-| 153 | 566 | Chrys Peters |
-| 154 | 564 | Joy Bloodworth |
-| 155 | 561 | Marie Helman |
+| 146 | 593 | Snippy Stacky |
+| 147 | 590 | Cassandra Latimore |
+| 148 | 583 | Big rick !!! |
+| 149 | 579 | Nanan Nanan |
+| 150 | 577 | Gloria Ininahazwe |
+| 151 | 577 | Simmone T. Kadiri |
+| 152 | 570 | Johnathan Rasmussen |
+| 153 | 567 | Sarah Stanonik |
+| 154 | 566 | Chrys Peters |
+| 155 | 564 | Joy Bloodworth |
 | 156 | 561 | Matt Coons |
-| 157 | 553 | Snippy Stacky |
+| 157 | 561 | Marie Helman |
 | 158 | 540 | Alezandra Smith |
 | 159 | 538 | Diamond Madison |
 | 160 | 538 | Ramona Gulledge |
@@ -225,10 +225,10 @@
 | 217 | 355 | Paul Stafford |
 | 218 | 355 | Mahman |
 | 219 | 353 | Angelina Maldonado |
-| 220 | 353 | Jess Rose |
-| 221 | 350 | Aden Moss |
-| 222 | 348 | jenna |
-| 223 | 347 | Matthew Bunn |
+| 220 | 353 | Matthew Bunn |
+| 221 | 353 | Jess Rose |
+| 222 | 350 | Aden Moss |
+| 223 | 348 | jenna |
 | 224 | 346 | Krystal Mccoy |
 | 225 | 344 | Justin Feingold |
 | 226 | 340 | Dicfitzwel |
@@ -578,27 +578,27 @@
 | 570 | 116 | Petahboi |
 | 571 | 116 | Megan Phillips |
 | 572 | 116 | Jeff Brian Gates |
-| 573 | 116 | Frilly Breaker |
-| 574 | 115 | Wendy Griffith |
-| 575 | 114 | Crazy12 |
+| 573 | 116 | Pupcup |
+| 574 | 116 | Frilly Breaker |
+| 575 | 115 | Wendy Griffith |
 | 576 | 114 | Luis Guzman |
 | 577 | 114 | Boldy Towerfall |
 | 578 | 114 | Bennett Hunter |
-| 579 | 114 | Rebecca Wilson |
-| 580 | 114 | Rebecca Martin |
-| 581 | 113 | Peppy Brickclear |
-| 582 | 113 | Trishatta YoungDiva Watkins |
-| 583 | 112 | NunYa |
+| 579 | 114 | Crazy12 |
+| 580 | 114 | Rebecca Wilson |
+| 581 | 114 | Rebecca Martin |
+| 582 | 113 | Peppy Brickclear |
+| 583 | 113 | Trishatta YoungDiva Watkins |
 | 584 | 112 | Samantha Crowley |
-| 585 | 112 | Gabriel Morales |
-| 586 | 112 | Chummy Curvebuilder |
-| 587 | 112 | LaNette Morgan |
-| 588 | 112 | LadyKuSh |
-| 589 | 111 | Chuck Williams |
-| 590 | 111 | Dustin Curtis |
-| 591 | 111 | Angie Scott |
-| 592 | 111 | Tig |
-| 593 | 110 | Pupcup |
+| 585 | 112 | NunYa |
+| 586 | 112 | Gabriel Morales |
+| 587 | 112 | Chummy Curvebuilder |
+| 588 | 112 | LaNette Morgan |
+| 589 | 112 | LadyKuSh |
+| 590 | 111 | Chuck Williams |
+| 591 | 111 | Dustin Curtis |
+| 592 | 111 | Angie Scott |
+| 593 | 111 | Tig |
 | 594 | 110 | Slinky Dashpiece |
 | 595 | 110 | Margaret Rose |
 | 596 | 110 | Happy Feet |
