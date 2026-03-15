@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 14:10:21 UTC
+# Standings for team2 as of 2026-03-15 14:10:45 UTC
 
 **Total Participants:** 2252
 
@@ -121,7 +121,7 @@
 | 113 | 721 | Ariel Pearson |
 | 114 | 720 | Jamie Lang |
 | 115 | 719 | Antoinette Griffin |
-| 116 | 704 | Ania |
+| 116 | 710 | Ania |
 | 117 | 704 | Joshua |
 | 118 | 701 | Mike Carden |
 | 119 | 700 | Veronica Martin Trinkle |
@@ -268,63 +268,63 @@
 | 260 | 300 | Sbs |
 | 261 | 295 | Jocelyn Jauregui |
 | 262 | 295 | Junang Herowanto |
-| 263 | 294 | Tipsy Glidezone |
-| 264 | 293 | Zippy Tile |
-| 265 | 292 | Lazy Twistline |
-| 266 | 291 | Dreamy Clicky |
-| 267 | 291 | nklstl |
-| 268 | 287 | MauaStorm |
-| 269 | 286 | Jason Allen |
-| 270 | 286 | Faith Meade |
-| 271 | 286 | Jasmine Kenney |
-| 272 | 285 | Melissa Bergin |
-| 273 | 282 | Angela Mindiola |
-| 274 | 280 | Rackemwillie34 |
-| 275 | 280 | Glitzy Dash |
-| 276 | 280 | LML |
-| 277 | 280 | Breeana Bennett |
-| 278 | 279 | David V. Bowers |
-| 279 | 279 | Mighty Zone |
-| 280 | 278 | Starr |
-| 281 | 277 | Jenni Garcia-Vogelhut |
-| 282 | 277 | Ella Marzano |
-| 283 | 276 | Ashley Marie |
-| 284 | 276 | Ben Dove |
-| 285 | 275 | Amelia Anderson |
+| 263 | 295 | squareMel |
+| 264 | 294 | Tipsy Glidezone |
+| 265 | 293 | Zippy Tile |
+| 266 | 292 | Lazy Twistline |
+| 267 | 291 | Dreamy Clicky |
+| 268 | 291 | nklstl |
+| 269 | 287 | MauaStorm |
+| 270 | 286 | Jason Allen |
+| 271 | 286 | Faith Meade |
+| 272 | 286 | Jasmine Kenney |
+| 273 | 285 | Melissa Bergin |
+| 274 | 282 | Angela Mindiola |
+| 275 | 280 | Rackemwillie34 |
+| 276 | 280 | Glitzy Dash |
+| 277 | 280 | LML |
+| 278 | 280 | Breeana Bennett |
+| 279 | 279 | David V. Bowers |
+| 280 | 279 | Mighty Zone |
+| 281 | 278 | Starr |
+| 282 | 277 | Jenni Garcia-Vogelhut |
+| 283 | 277 | Ella Marzano |
+| 284 | 276 | Ashley Marie |
+| 285 | 276 | Ben Dove |
 | 286 | 275 | Camila Gerow |
-| 287 | 274 | Arisvet Garcia |
-| 288 | 274 | João Paulo |
-| 289 | 273 | Tra Barnum |
-| 290 | 272 | Courtney Cicoria |
-| 291 | 271 | KEILANIU |
-| 292 | 270 | Amanda Mason Scott |
-| 293 | 270 | Tony Tran |
+| 287 | 275 | Amelia Anderson |
+| 288 | 274 | Arisvet Garcia |
+| 289 | 274 | João Paulo |
+| 290 | 273 | Tra Barnum |
+| 291 | 272 | Courtney Cicoria |
+| 292 | 271 | KEILANIU |
+| 293 | 270 | Amanda Mason Scott |
 | 294 | 270 | Slinky Towerer |
-| 295 | 269 | Pixie |
-| 296 | 268 | Krish Shah |
-| 297 | 264 | Jen |
-| 298 | 263 | Joeyalan Sullivan |
-| 299 | 262 | Layle Miranda Madsen |
+| 295 | 270 | Tony Tran |
+| 296 | 269 | Pixie |
+| 297 | 268 | Krish Shah |
+| 298 | 264 | Jen |
+| 299 | 263 | Joeyalan Sullivan |
 | 300 | 262 | nina |
-| 301 | 261 | Randy Jansen |
-| 302 | 261 | TJ Hire |
-| 303 | 260 | Charde Parnell |
-| 304 | 260 | Berling Gil |
-| 305 | 260 | Krista Roberts |
-| 306 | 259 | Jonathan Vee Jay |
-| 307 | 259 | eMzzz |
-| 308 | 258 | Kassandra Carlan |
-| 309 | 256 | Samantha Bagent |
-| 310 | 255 | squareMel |
+| 301 | 262 | Layle Miranda Madsen |
+| 302 | 261 | Randy Jansen |
+| 303 | 261 | TJ Hire |
+| 304 | 260 | Charde Parnell |
+| 305 | 260 | Berling Gil |
+| 306 | 260 | Krista Roberts |
+| 307 | 259 | Jonathan Vee Jay |
+| 308 | 259 | eMzzz |
+| 309 | 258 | Kassandra Carlan |
+| 310 | 256 | Samantha Bagent |
 | 311 | 255 | Natasha |
 | 312 | 255 | James Hurley Jr. |
-| 313 | 254 | Jazzy Hitter |
-| 314 | 254 | Phredda Compton |
+| 313 | 254 | Phredda Compton |
+| 314 | 254 | Jazzy Hitter |
 | 315 | 253 | Carlton Unfiltered |
 | 316 | 252 | Kit Dennett |
-| 317 | 250 | Jumpy Filler |
-| 318 | 250 | Alexsa Crespo |
-| 319 | 250 | Ramone Armstrong |
+| 317 | 250 | Alexsa Crespo |
+| 318 | 250 | Ramone Armstrong |
+| 319 | 250 | Jumpy Filler |
 | 320 | 250 | Elaine Webb Graves |
 | 321 | 250 | Katie Lynn |
 | 322 | 246 | Vanessa Nguyen |
@@ -342,8 +342,8 @@
 | 334 | 238 | Haley Lynn Agers |
 | 335 | 238 | Zak Dunn |
 | 336 | 237 | Jolly Clicky |
-| 337 | 236 | Tosha Gonzales |
-| 338 | 236 | Taghrid Ebeid |
+| 337 | 236 | Taghrid Ebeid |
+| 338 | 236 | Tosha Gonzales |
 | 339 | 235 | Tiffany Dawn Caldwell |
 | 340 | 235 | Torie Snyder |
 | 341 | 235 | Carey Kyle |
@@ -493,17 +493,17 @@
 | 485 | 164 | Loony Puzzle |
 | 486 | 164 | Ash Whitley |
 | 487 | 164 | Prette Qui |
-| 488 | 163 | Mel |
+| 488 | 163 | jess |
 | 489 | 163 | Julia Freeman |
-| 490 | 162 | Lea Gann |
-| 491 | 162 | Sylvie Lemoine |
-| 492 | 162 | Lucy Honer |
-| 493 | 161 | Austin Vice |
-| 494 | 161 | Frothy Chiseler |
-| 495 | 161 | DeathToBizzle |
-| 496 | 160 | Chilly Fallgrid |
-| 497 | 160 | Ashley Moore |
-| 498 | 160 | jess |
+| 490 | 163 | Mel |
+| 491 | 162 | Lea Gann |
+| 492 | 162 | Sylvie Lemoine |
+| 493 | 162 | Lucy Honer |
+| 494 | 161 | Austin Vice |
+| 495 | 161 | Frothy Chiseler |
+| 496 | 161 | DeathToBizzle |
+| 497 | 160 | Chilly Fallgrid |
+| 498 | 160 | Ashley Moore |
 | 499 | 160 | Kimyatta Cavin |
 | 500 | 159 | Iliveformygirlz Smith |
 | 501 | 158 | Brittany Backus |
@@ -527,13 +527,13 @@
 | 519 | 150 | Marinara |
 | 520 | 150 | Lauren Bailey |
 | 521 | 150 | Glitzy Rollblock |
-| 522 | 150 | Kristie |
+| 522 | 150 | Brave Fallzone |
 | 523 | 150 | Tracey Whetstone |
-| 524 | 150 | Brave Fallzone |
-| 525 | 149 | Kristi Riley |
-| 526 | 149 | Teresa Longwell |
+| 524 | 150 | Kristie |
+| 525 | 149 | Teresa Longwell |
+| 526 | 149 | Rigoberto Sanchez Jr. |
 | 527 | 149 | Emilie Creswell |
-| 528 | 149 | Rigoberto Sanchez Jr. |
+| 528 | 149 | Kristi Riley |
 | 529 | 149 | Lizzie Marie |
 | 530 | 149 | Jessi |
 | 531 | 149 | bigdad |
