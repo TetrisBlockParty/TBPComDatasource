@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 08:26:21 UTC
+# Standings for team2 as of 2026-03-15 08:27:20 UTC
 
 **Total Participants:** 2167
 
@@ -529,8 +529,8 @@
 | 521 | 132 | April |
 | 522 | 131 | Beckii Beckford |
 | 523 | 130 | Tyler Werts |
-| 524 | 130 | Kristie |
-| 525 | 130 | Leslie Nicole |
+| 524 | 130 | Leslie Nicole |
+| 525 | 130 | Kristie |
 | 526 | 129 | Kira Hugar |
 | 527 | 129 | BugMansMom |
 | 528 | 129 | Selena Combee |
@@ -540,8 +540,8 @@
 | 532 | 128 | Lisa Kline |
 | 533 | 128 | Alboo |
 | 534 | 128 | Kasheba Y Bowens |
-| 535 | 127 | LeVeL27 |
-| 536 | 127 | Lindsay Lucas |
+| 535 | 127 | Lindsay Lucas |
+| 536 | 127 | LeVeL27 |
 | 537 | 127 | Dimitra Zazara |
 | 538 | 127 | Dda |
 | 539 | 127 | Rileyy Rocket |
@@ -549,12 +549,12 @@
 | 541 | 127 | Rhonda Milstead |
 | 542 | 127 | Tipsy Blockfall |
 | 543 | 126 | Jesse Saville |
-| 544 | 126 | Shanny Anny |
-| 545 | 126 | Giovanni Distefano |
-| 546 | 124 | Carla Roberson |
-| 547 | 124 | Mjhays |
+| 544 | 126 | Giovanni Distefano |
+| 545 | 126 | Shanny Anny |
+| 546 | 124 | Mjhays |
+| 547 | 124 | Daniel Moore |
 | 548 | 124 | Sonya Gail Goodman |
-| 549 | 124 | Daniel Moore |
+| 549 | 124 | Carla Roberson |
 | 550 | 123 | joe |
 | 551 | 122 | Swanky Shiftsnap |
 | 552 | 122 | Marshall Renee |
@@ -563,9 +563,9 @@
 | 555 | 122 | Paula Martin |
 | 556 | 121 | Emilie Creswell |
 | 557 | 121 | Cozy Shatterblock |
-| 558 | 120 | Kimyatta Cavin |
-| 559 | 120 | Kennedy Sandifer |
-| 560 | 120 | Twisty Shatter |
+| 558 | 120 | Twisty Shatter |
+| 559 | 120 | Kimyatta Cavin |
+| 560 | 120 | Kennedy Sandifer |
 | 561 | 120 | Jayme Hamil |
 | 562 | 120 | GirlMom5 |
 | 563 | 120 | Glitzy Dash |
@@ -578,8 +578,8 @@
 | 570 | 119 | JesusIsLove |
 | 571 | 119 | Sarah Marie |
 | 572 | 119 | btchboy |
-| 573 | 118 | Libby |
-| 574 | 118 | Scott Martinson |
+| 573 | 118 | Scott Martinson |
+| 574 | 118 | Libby |
 | 575 | 118 | Dusti Holbrook |
 | 576 | 118 | Marcus Todd |
 | 577 | 118 | Kiki Moore |
@@ -592,30 +592,30 @@
 | 584 | 117 | Zesty Clear |
 | 585 | 117 | Greg Shekailo |
 | 586 | 116 | BuzyBee |
-| 587 | 115 | Pamela Knapp |
-| 588 | 115 | Mike Hromowyk |
-| 589 | 115 | Destiny Brady |
-| 590 | 115 | Chiran Xu |
-| 591 | 115 | Marc Anthony Lopez |
-| 592 | 114 | TiffanyJ |
-| 593 | 113 | Nicci |
-| 594 | 113 | Jumpy Cascadeclear |
-| 595 | 113 | Dandy Towerer |
-| 596 | 113 | Tiffany Riccio |
+| 587 | 116 | Spicy Patternbuilder |
+| 588 | 115 | Destiny Brady |
+| 589 | 115 | Mike Hromowyk |
+| 590 | 115 | Pamela Knapp |
+| 591 | 115 | Chiran Xu |
+| 592 | 115 | Marc Anthony Lopez |
+| 593 | 114 | TiffanyJ |
+| 594 | 113 | Nicci |
+| 595 | 113 | Jumpy Cascadeclear |
+| 596 | 113 | Dandy Towerer |
 | 597 | 113 | Cool Cornerfall |
-| 598 | 113 | Swanky Matchpiece |
-| 599 | 112 | LD1 |
-| 600 | 112 | Γωγώ Τσιρόγκα |
-| 601 | 112 | Shane Gann |
-| 602 | 112 | Sbs |
-| 603 | 112 | Becki Lynne Corinthos |
-| 604 | 112 | Kelly Elizabeth Clark |
-| 605 | 112 | Giggly Shatterline |
-| 606 | 112 | Roxana Shaffer Goff |
-| 607 | 111 | Amy Jur Falk |
-| 608 | 111 | Austin Vice |
-| 609 | 111 | Bethany H. Tunison |
-| 610 | 110 | Spicy Patternbuilder |
+| 598 | 113 | Tiffany Riccio |
+| 599 | 113 | Swanky Matchpiece |
+| 600 | 112 | LD1 |
+| 601 | 112 | Γωγώ Τσιρόγκα |
+| 602 | 112 | Shane Gann |
+| 603 | 112 | Sbs |
+| 604 | 112 | Becki Lynne Corinthos |
+| 605 | 112 | Kelly Elizabeth Clark |
+| 606 | 112 | Giggly Shatterline |
+| 607 | 112 | Roxana Shaffer Goff |
+| 608 | 111 | Amy Jur Falk |
+| 609 | 111 | Austin Vice |
+| 610 | 111 | Bethany H. Tunison |
 | 611 | 110 | Diana Fowler |
 | 612 | 110 | Robin |
 | 613 | 110 | Taizia Raeshell |
@@ -626,8 +626,8 @@
 | 618 | 109 | cat |
 | 619 | 109 | Unicorn |
 | 620 | 109 | Rigoberto Sanchez Jr. |
-| 621 | 108 | Ms. Blue |
-| 622 | 108 | Shakena Tuggle |
+| 621 | 108 | Shakena Tuggle |
+| 622 | 108 | Ms. Blue |
 | 623 | 108 | BendersMomma |
 | 624 | 108 | Funky Stackzone |
 | 625 | 108 | Sarah Somers Gray |
@@ -635,11 +635,11 @@
 | 627 | 108 | Cee_me |
 | 628 | 107 | Dana Hicks |
 | 629 | 107 | Kathy Allen |
-| 630 | 107 | Roberta Nelson |
-| 631 | 107 | Chirpy Dash |
-| 632 | 107 | bubbles |
-| 633 | 106 | JjB |
-| 634 | 106 | ANIM3KNIGHT |
+| 630 | 107 | bubbles |
+| 631 | 107 | Roberta Nelson |
+| 632 | 107 | Chirpy Dash |
+| 633 | 106 | ANIM3KNIGHT |
+| 634 | 106 | JjB |
 | 635 | 106 | Skhan |
 | 636 | 106 | Twisty Balanceblock |
 | 637 | 106 | Cozmo |
@@ -672,10 +672,10 @@
 | 664 | 101 | Kristin Montoya |
 | 665 | 101 | Joe Andrews |
 | 666 | 101 | Shawna McKinney |
-| 667 | 100 | Shelly Marie Lloyd |
-| 668 | 100 | NDPeanut |
-| 669 | 100 | Giddy Fallzone |
-| 670 | 100 | Jeremiah Gensler |
+| 667 | 100 | Giddy Fallzone |
+| 668 | 100 | Jeremiah Gensler |
+| 669 | 100 | NDPeanut |
+| 670 | 100 | Shelly Marie Lloyd |
 | 671 | 100 | ThriftySpice |
 | 672 | 100 | Jenna McGeorge |
 | 673 | 100 | Tristan Lamothe |
@@ -693,8 +693,8 @@
 | 685 | 98 | Matthew Hall |
 | 686 | 97 | Trish Newell |
 | 687 | 97 | Robert Fenton |
-| 688 | 97 | Carlos Landin |
-| 689 | 97 | Arv |
+| 688 | 97 | Arv |
+| 689 | 97 | Carlos Landin |
 | 690 | 97 | BendyBones |
 | 691 | 96 | Nate Price |
 | 692 | 96 | Dan Smith |
@@ -702,9 +702,9 @@
 | 694 | 95 | Quintis Steemer |
 | 695 | 95 | Keyata Wright |
 | 696 | 95 | Tonya Hadsell |
-| 697 | 94 | Plucky Glide |
-| 698 | 94 | Staci George Fitzsimmons |
-| 699 | 94 | Lively Blockroll |
+| 697 | 94 | Staci George Fitzsimmons |
+| 698 | 94 | Lively Blockroll |
+| 699 | 94 | Plucky Glide |
 | 700 | 94 | Katie |
 | 701 | 94 | Cathleena Giusto |
 | 702 | 94 | Billi Jo Gorsuch |
@@ -716,8 +716,8 @@
 | 708 | 93 | Kennady Griffin |
 | 709 | 93 | BusyBee11 |
 | 710 | 93 | Trista Duguay |
-| 711 | 93 | Ashley Marie Pierce |
-| 712 | 93 | JoJo |
+| 711 | 93 | JoJo |
+| 712 | 93 | Ashley Marie Pierce |
 | 713 | 92 | Witty Twistslam |
 | 714 | 92 | Weeping Angel |
 | 715 | 92 | Tiffany Banks Jennings |
@@ -729,13 +729,13 @@
 | 721 | 91 | Jolly Towerpiece |
 | 722 | 91 | JinxxedMozzerella |
 | 723 | 91 | Arson Fox |
-| 724 | 90 | Bridgett |
-| 725 | 90 | Sonceria Ingram-Ford |
-| 726 | 90 | Sha45 |
-| 727 | 90 | Marla Erin Salas |
-| 728 | 90 | Tracey Cox |
-| 729 | 90 | Tori Bowers |
-| 730 | 90 | Tipsy Riseclear |
+| 724 | 90 | Marla Erin Salas |
+| 725 | 90 | Bridgett |
+| 726 | 90 | Sonceria Ingram-Ford |
+| 727 | 90 | Tipsy Riseclear |
+| 728 | 90 | Tori Bowers |
+| 729 | 90 | Tracey Cox |
+| 730 | 90 | Sha45 |
 | 731 | 90 | Daring Fall |
 | 732 | 90 | Sharon Navarrete |
 | 733 | 90 | Lauren Bailey |
