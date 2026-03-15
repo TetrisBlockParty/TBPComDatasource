@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 20:58:44 UTC
+# Standings for team2 as of 2026-03-15 20:59:21 UTC
 
 **Total Participants:** 2419
 
@@ -170,7 +170,7 @@
 | 162 | 580 | CSOTYS |
 | 163 | 576 | Faith Adrienne Verret Page |
 | 164 | 565 | Carmilita Burpo Jordan |
-| 165 | 558 | Emily Wooden |
+| 165 | 563 | Emily Wooden |
 | 166 | 558 | hyper Zip |
 | 167 | 558 | DanesMama |
 | 168 | 557 | Jazzy Hitter |
@@ -1123,13 +1123,13 @@
 | 1115 | 73 | Jonviea Dewalt |
 | 1116 | 73 | Mel Thomas-Young |
 | 1117 | 73 | Amanda Martinez |
-| 1118 | 73 | Kenerria Danielle |
-| 1119 | 73 | Snazzy Wipepiece |
-| 1120 | 73 | Joe Frazier |
-| 1121 | 73 | Miranda Taylor |
-| 1122 | 73 | LaQuetta Faith Hines |
-| 1123 | 73 | Glitzy Bricky |
-| 1124 | 72 | Alison Welsh |
+| 1118 | 73 | Alison Welsh |
+| 1119 | 73 | Kenerria Danielle |
+| 1120 | 73 | Snazzy Wipepiece |
+| 1121 | 73 | Joe Frazier |
+| 1122 | 73 | Miranda Taylor |
+| 1123 | 73 | LaQuetta Faith Hines |
+| 1124 | 73 | Glitzy Bricky |
 | 1125 | 72 | Yo |
 | 1126 | 72 | Bold Linkpiece |
 | 1127 | 72 | Meme |
@@ -1329,39 +1329,39 @@
 | 1321 | 58 | SWAMPTHANG |
 | 1322 | 58 | AarshiyasMommy |
 | 1323 | 58 | Marty Bittner |
-| 1324 | 58 | Enigma |
-| 1325 | 57 | Layne Dejean |
-| 1326 | 57 | Dragon Queen |
-| 1327 | 57 | Kiana Serrao |
-| 1328 | 57 | Juliana Stiles |
-| 1329 | 57 | Rachael Village |
-| 1330 | 57 | Chappy Fullzone |
-| 1331 | 57 | pTarah |
-| 1332 | 57 | SuzAnne |
-| 1333 | 57 | April Jones |
-| 1334 | 57 | Tinkerbell_79 |
-| 1335 | 56 | Aly San |
-| 1336 | 56 | Chipper Smasher |
-| 1337 | 56 | Ak Kendall |
-| 1338 | 56 | Ellen Frye |
-| 1339 | 56 | Kendra Hahn |
-| 1340 | 56 | Loony Cascade |
-| 1341 | 56 | Lisa Beckort |
-| 1342 | 56 | Loony Curvebuilder |
+| 1324 | 58 | Ak Kendall |
+| 1325 | 58 | Enigma |
+| 1326 | 57 | Kiana Serrao |
+| 1327 | 57 | Layne Dejean |
+| 1328 | 57 | April Jones |
+| 1329 | 57 | Juliana Stiles |
+| 1330 | 57 | Dragon Queen |
+| 1331 | 57 | Rachael Village |
+| 1332 | 57 | Chappy Fullzone |
+| 1333 | 57 | pTarah |
+| 1334 | 57 | SuzAnne |
+| 1335 | 57 | Tinkerbell_79 |
+| 1336 | 56 | Loony Curvebuilder |
+| 1337 | 56 | Loony Cascade |
+| 1338 | 56 | Chipper Smasher |
+| 1339 | 56 | Aly San |
+| 1340 | 56 | Ellen Frye |
+| 1341 | 56 | Kendra Hahn |
+| 1342 | 56 | Kalleigh Randall |
 | 1343 | 56 | VegasV |
-| 1344 | 56 | Kalleigh Randall |
-| 1345 | 56 | Autumn Lenhart |
-| 1346 | 56 | Serenity Gail |
+| 1344 | 56 | Serenity Gail |
+| 1345 | 56 | Lisa Beckort |
+| 1346 | 56 | Autumn Lenhart |
 | 1347 | 56 | Clarence Ward |
 | 1348 | 55 | Claudia Baez |
 | 1349 | 55 | Chloe S |
 | 1350 | 55 | Christina Harman Kinard |
-| 1351 | 55 | Lucy Marshall |
-| 1352 | 55 | Brandon Cruse |
-| 1353 | 55 | Queen |
-| 1354 | 55 | Peppy Spinfit |
-| 1355 | 55 | Jody Baker |
-| 1356 | 55 | Truesuperwoman |
+| 1351 | 55 | Brandon Cruse |
+| 1352 | 55 | Truesuperwoman |
+| 1353 | 55 | Peppy Spinfit |
+| 1354 | 55 | Lucy Marshall |
+| 1355 | 55 | Queen |
+| 1356 | 55 | Jody Baker |
 | 1357 | 55 | Poppy Jumper |
 | 1358 | 55 | Shakey Bakey |
 | 1359 | 55 | Katie Wood |
@@ -1451,40 +1451,40 @@
 | 1443 | 50 | Peppy Piecebuilder |
 | 1444 | 50 | Sarah McAuley |
 | 1445 | 50 | Terry Perez |
-| 1446 | 50 | Jason Pence |
-| 1447 | 50 | bschilke128 |
-| 1448 | 49 | Groovy Stacker |
-| 1449 | 49 | Steven Bell |
-| 1450 | 49 | Mike VanTress |
-| 1451 | 49 | Anthony Quick |
-| 1452 | 49 | Kelly Shelffo |
-| 1453 | 49 | Lynn72 |
-| 1454 | 49 | Amanda |
-| 1455 | 49 | Giggly Winder |
-| 1456 | 49 | Sherri Morgan |
-| 1457 | 49 | Nerdy Stacky |
-| 1458 | 49 | Douglas Stam |
-| 1459 | 49 | swaggysteph |
-| 1460 | 49 | Cranky Riserbuilder |
-| 1461 | 49 | CocoKatt |
-| 1462 | 48 | Amy Pike |
-| 1463 | 48 | T.j. Swinney |
-| 1464 | 48 | Melissa |
-| 1465 | 48 | DeAnna Jones |
-| 1466 | 48 | Nicholas Bednarz |
-| 1467 | 48 | DieM Flood |
-| 1468 | 48 | Fart |
-| 1469 | 48 | Wacky Brickclear |
-| 1470 | 48 | Thomas Harmon |
-| 1471 | 48 | Heather G Cooley |
-| 1472 | 48 | Chirpy Zoney |
-| 1473 | 48 | Lydell Webb |
-| 1474 | 48 | Sarah Fehring |
-| 1475 | 48 | Genevia Wylie |
-| 1476 | 48 | Sticherella |
-| 1477 | 48 | Epic Brickfit |
-| 1478 | 48 | MusicMaster |
-| 1479 | 47 | Ashley Grace |
+| 1446 | 50 | Ashley Grace |
+| 1447 | 50 | Jason Pence |
+| 1448 | 50 | bschilke128 |
+| 1449 | 49 | Groovy Stacker |
+| 1450 | 49 | Steven Bell |
+| 1451 | 49 | Mike VanTress |
+| 1452 | 49 | Anthony Quick |
+| 1453 | 49 | Kelly Shelffo |
+| 1454 | 49 | Lynn72 |
+| 1455 | 49 | Amanda |
+| 1456 | 49 | Giggly Winder |
+| 1457 | 49 | Sherri Morgan |
+| 1458 | 49 | Nerdy Stacky |
+| 1459 | 49 | Douglas Stam |
+| 1460 | 49 | swaggysteph |
+| 1461 | 49 | Cranky Riserbuilder |
+| 1462 | 49 | CocoKatt |
+| 1463 | 48 | Amy Pike |
+| 1464 | 48 | T.j. Swinney |
+| 1465 | 48 | Melissa |
+| 1466 | 48 | DeAnna Jones |
+| 1467 | 48 | Nicholas Bednarz |
+| 1468 | 48 | DieM Flood |
+| 1469 | 48 | Fart |
+| 1470 | 48 | Wacky Brickclear |
+| 1471 | 48 | Thomas Harmon |
+| 1472 | 48 | Heather G Cooley |
+| 1473 | 48 | Chirpy Zoney |
+| 1474 | 48 | Lydell Webb |
+| 1475 | 48 | Sarah Fehring |
+| 1476 | 48 | Genevia Wylie |
+| 1477 | 48 | Sticherella |
+| 1478 | 48 | Epic Brickfit |
+| 1479 | 48 | MusicMaster |
 | 1480 | 47 | Amandalorian |
 | 1481 | 47 | Cheeky Snapfit |
 | 1482 | 47 | Smags |
@@ -2385,46 +2385,46 @@
 | 2377 | 6 | AstroMom2019 |
 | 2378 | 6 | Brittney Weatherston Shiley |
 | 2379 | 6 | Tonya |
-| 2380 | 6 | Poppy Snap |
-| 2381 | 6 | CyndiHope |
-| 2382 | 6 | Giggy Pop |
-| 2383 | 6 | Ron Brubaker |
-| 2384 | 6 | Nicole Bou |
-| 2385 | 6 | Chill Align |
-| 2386 | 6 | Silly Balanceblock |
-| 2387 | 6 | Dandy Framezone |
-| 2388 | 6 | Plucky Brickmatch |
+| 2380 | 6 | Ron Brubaker |
+| 2381 | 6 | Nicole Bou |
+| 2382 | 6 | Chill Align |
+| 2383 | 6 | Giggy Pop |
+| 2384 | 6 | CyndiHope |
+| 2385 | 6 | Poppy Snap |
+| 2386 | 6 | Dandy Framezone |
+| 2387 | 6 | Plucky Brickmatch |
+| 2388 | 6 | Silly Balanceblock |
 | 2389 | 6 | ConservativeMomma |
 | 2390 | 6 | Melanie Brock |
 | 2391 | 6 | Lazy Gridroll |
 | 2392 | 5 | Zappy Hitter |
-| 2393 | 5 | Scarlet Dusosky |
-| 2394 | 5 | Andrea Velasco Dela Cruz |
-| 2395 | 5 | xoxo |
-| 2396 | 5 | Regan Anderson |
-| 2397 | 5 | Rebecca Maino |
-| 2398 | 5 | Danielle Barthelme |
-| 2399 | 5 | Leeann Couch |
-| 2400 | 5 | Kerry Lee Powell |
-| 2401 | 5 | Christine Ross |
-| 2402 | 5 | Beep Pie |
-| 2403 | 5 | msconfused80 |
-| 2404 | 5 | Maria Winston |
-| 2405 | 5 | Aaron Waite |
-| 2406 | 5 | Alexandria Shannon |
-| 2407 | 5 | Sandy Nickol Schadler Reagan |
-| 2408 | 5 | Maggie Parr |
-| 2409 | 5 | Cindy Mims |
-| 2410 | 5 | Summer Raymer |
-| 2411 | 5 | Perky Piecegrid |
-| 2412 | 5 | Ashley Patrice London |
-| 2413 | 5 | Tammy Kirby Bingel |
-| 2414 | 5 | Meals'n Melodies |
-| 2415 | 5 | ChristSoldier4421 |
-| 2416 | 5 | Sam Hazlewood |
-| 2417 | 5 | Jeanna Gordon |
-| 2418 | 5 | Erica |
-| 2419 | 5 | Kristi Neal |
+| 2393 | 5 | xoxo |
+| 2394 | 5 | Regan Anderson |
+| 2395 | 5 | Rebecca Maino |
+| 2396 | 5 | Danielle Barthelme |
+| 2397 | 5 | Leeann Couch |
+| 2398 | 5 | Christine Ross |
+| 2399 | 5 | Beep Pie |
+| 2400 | 5 | msconfused80 |
+| 2401 | 5 | Andrea Velasco Dela Cruz |
+| 2402 | 5 | Maria Winston |
+| 2403 | 5 | Aaron Waite |
+| 2404 | 5 | Kristi Neal |
+| 2405 | 5 | Alexandria Shannon |
+| 2406 | 5 | Kerry Lee Powell |
+| 2407 | 5 | Jeanna Gordon |
+| 2408 | 5 | Sandy Nickol Schadler Reagan |
+| 2409 | 5 | Scarlet Dusosky |
+| 2410 | 5 | Maggie Parr |
+| 2411 | 5 | Cindy Mims |
+| 2412 | 5 | Summer Raymer |
+| 2413 | 5 | Perky Piecegrid |
+| 2414 | 5 | Ashley Patrice London |
+| 2415 | 5 | Tammy Kirby Bingel |
+| 2416 | 5 | Meals'n Melodies |
+| 2417 | 5 | ChristSoldier4421 |
+| 2418 | 5 | Sam Hazlewood |
+| 2419 | 5 | Erica |
 
 ---
 *Standings created by tournaments datasource generation tool*
