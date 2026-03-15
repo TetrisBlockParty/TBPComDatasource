@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-15 11:48:20 UTC
+# Standings for team3 as of 2026-03-15 11:48:43 UTC
 
 **Total Participants:** 3440
 
@@ -59,8 +59,8 @@
 | 51 | 1756 | Kimberly Amber Owens |
 | 52 | 1752 | Jamie Leigh Pursell |
 | 53 | 1723 | Swanky Curver |
-| 54 | 1712 | Maria Wilson |
-| 55 | 1701 | Jolly Brickroll |
+| 54 | 1721 | Jolly Brickroll |
+| 55 | 1712 | Maria Wilson |
 | 56 | 1658 | Dijonay Jones |
 | 57 | 1629 | Ruby Thompson |
 | 58 | 1618 | Jasy Higgins |
@@ -707,33 +707,33 @@
 | 699 | 151 | rosy |
 | 700 | 151 | Nicole Jackson |
 | 701 | 150 | Kendra Tacker |
-| 702 | 150 | Flashy Slice |
-| 703 | 150 | Marie Wright |
-| 704 | 150 | Kristol |
-| 705 | 150 | Lisa Taylor Amancio |
-| 706 | 149 | Nerdy Rotator |
-| 707 | 149 | Karen Caldwell |
-| 708 | 149 | Desiree Collins |
-| 709 | 149 | Cari Brown Cady |
-| 710 | 149 | Misty Short |
-| 711 | 149 | Jenni Taylor Reilly |
-| 712 | 149 | Jordan Brooks |
-| 713 | 149 | Earvin Smiley |
-| 714 | 148 | Block Baddie |
-| 715 | 148 | Princess |
-| 716 | 148 | Jody Texeira |
-| 717 | 148 | Shiree McFann |
-| 718 | 148 | Jade Coupel |
-| 719 | 147 | Norma JulieMay |
-| 720 | 147 | Adria Meeks |
-| 721 | 146 | Mike Cobbs |
-| 722 | 146 | Scorpio Queen |
-| 723 | 146 | Rebecca Herrington |
-| 724 | 145 | luluraine |
-| 725 | 145 | Charles Bagwell Jr. |
-| 726 | 145 | Rosalie Call Kehlenbeck |
-| 727 | 145 | Sean Michaels |
-| 728 | 145 | Donald Calcutt |
+| 702 | 150 | Rebecca Herrington |
+| 703 | 150 | Flashy Slice |
+| 704 | 150 | Marie Wright |
+| 705 | 150 | Kristol |
+| 706 | 150 | Lisa Taylor Amancio |
+| 707 | 149 | Nerdy Rotator |
+| 708 | 149 | Karen Caldwell |
+| 709 | 149 | Desiree Collins |
+| 710 | 149 | Cari Brown Cady |
+| 711 | 149 | Misty Short |
+| 712 | 149 | Jenni Taylor Reilly |
+| 713 | 149 | Jordan Brooks |
+| 714 | 149 | Earvin Smiley |
+| 715 | 148 | Block Baddie |
+| 716 | 148 | Princess |
+| 717 | 148 | Jody Texeira |
+| 718 | 148 | Shiree McFann |
+| 719 | 148 | Jade Coupel |
+| 720 | 147 | Norma JulieMay |
+| 721 | 147 | Adria Meeks |
+| 722 | 146 | Mike Cobbs |
+| 723 | 146 | Scorpio Queen |
+| 724 | 145 | Rosalie Call Kehlenbeck |
+| 725 | 145 | Sean Michaels |
+| 726 | 145 | Donald Calcutt |
+| 727 | 145 | luluraine |
+| 728 | 145 | Charles Bagwell Jr. |
 | 729 | 144 | Linda L Gilbert |
 | 730 | 143 | Missie Sue |
 | 731 | 143 | Grettle |
