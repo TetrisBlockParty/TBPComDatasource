@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 10:16:42 UTC
+# Standings for team1 as of 2026-03-15 10:17:20 UTC
 
 **Total Participants:** 2199
 
@@ -91,8 +91,8 @@
 | 83 | 1010 | Sarah Durmer |
 | 84 | 1000 | Walter Beltran |
 | 85 | 996 | Sleepypanda67 |
-| 86 | 989 | Donavon Krahn |
-| 87 | 984 | Bold Zonegrid |
+| 86 | 993 | Bold Zonegrid |
+| 87 | 989 | Donavon Krahn |
 | 88 | 979 | Legendary |
 | 89 | 968 | TotoCherue |
 | 90 | 941 | Kris Hudelson |
@@ -635,124 +635,124 @@
 | 627 | 104 | Jennifer Obrien |
 | 628 | 104 | UltraMAGA |
 | 629 | 103 | Lisa Klockenga |
-| 630 | 103 | Sam Steig |
-| 631 | 103 | Dan Engelhard |
-| 632 | 103 | Twisty Blockmatch |
+| 630 | 103 | Twisty Blockmatch |
+| 631 | 103 | Sam Steig |
+| 632 | 103 | Dan Engelhard |
 | 633 | 103 | Quirky Curvebuilder |
-| 634 | 102 | Aldona Figiel |
-| 635 | 102 | Meagan Nicole |
-| 636 | 102 | Rosanna Atria-Schnickel |
-| 637 | 102 | NolaGal |
-| 638 | 102 | Cynthia Mann |
-| 639 | 102 | Andretta Wilder |
-| 640 | 102 | Manuel Ceniceros |
+| 634 | 102 | Cynthia Mann |
+| 635 | 102 | Aldona Figiel |
+| 636 | 102 | Meagan Nicole |
+| 637 | 102 | Rosanna Atria-Schnickel |
+| 638 | 102 | NolaGal |
+| 639 | 102 | Manuel Ceniceros |
+| 640 | 102 | Andretta Wilder |
 | 641 | 101 | Christi Ames |
-| 642 | 101 | Aponk |
-| 643 | 101 | Sabrina Mansfield |
-| 644 | 100 | Chilly Matchbuilder |
-| 645 | 100 | Mary McGhee |
-| 646 | 100 | Dan Baines |
-| 647 | 100 | Dan Sessa |
-| 648 | 100 | Michelle Pike |
-| 649 | 100 | DaRascal |
-| 650 | 100 | Kristen Hall |
-| 651 | 100 | Cynthia Herrmann Egland |
-| 652 | 100 | Jeff Frandsen |
-| 653 | 99 | Bri Jackson |
-| 654 | 99 | Countryboy Will Survive |
-| 655 | 99 | Michael Zates |
+| 642 | 101 | Sabrina Mansfield |
+| 643 | 101 | Aponk |
+| 644 | 100 | Ziggy Csah |
+| 645 | 100 | Kristen Hall |
+| 646 | 100 | Dan Sessa |
+| 647 | 100 | Dan Baines |
+| 648 | 100 | Mary McGhee |
+| 649 | 100 | Jeff Frandsen |
+| 650 | 100 | Chilly Matchbuilder |
+| 651 | 100 | Michelle Pike |
+| 652 | 100 | DaRascal |
+| 653 | 100 | Cynthia Herrmann Egland |
+| 654 | 99 | Amy Sanford |
+| 655 | 99 | Speedy Liney |
 | 656 | 99 | GinjaNinja |
-| 657 | 99 | Amy Sanford |
-| 658 | 99 | Speedy Liney |
-| 659 | 99 | Angela Renea Lester |
-| 660 | 99 | Chris JonesSr |
-| 661 | 99 | Tripp Loc |
-| 662 | 99 | Christopher James Cienfuegos |
-| 663 | 99 | Dizzy Stackbuilder |
-| 664 | 99 | Carrie E Lamb Neal |
-| 665 | 99 | Lakie Fogle |
-| 666 | 98 | Misstery |
+| 657 | 99 | Bri Jackson |
+| 658 | 99 | Angela Renea Lester |
+| 659 | 99 | Countryboy Will Survive |
+| 660 | 99 | Michael Zates |
+| 661 | 99 | Chris JonesSr |
+| 662 | 99 | Tripp Loc |
+| 663 | 99 | Carrie E Lamb Neal |
+| 664 | 99 | Lakie Fogle |
+| 665 | 99 | Dizzy Stackbuilder |
+| 666 | 99 | Christopher James Cienfuegos |
 | 667 | 98 | Maria Lopez |
-| 668 | 97 | Amy Hollinger |
-| 669 | 97 | Robert A. Horne |
+| 668 | 98 | Misstery |
+| 669 | 97 | Jacob Phillips |
 | 670 | 97 | Abcmasters12 |
-| 671 | 97 | Jacob Phillips |
-| 672 | 97 | Sean Dickey |
-| 673 | 96 | April Bennett |
-| 674 | 96 | Kerryann Morrah |
+| 671 | 97 | Sean Dickey |
+| 672 | 97 | Robert A. Horne |
+| 673 | 97 | Amy Hollinger |
+| 674 | 96 | Matt Mullinax |
 | 675 | 96 | Lauren Bond |
-| 676 | 96 | Laura Hosford |
+| 676 | 96 | Kerryann Morrah |
 | 677 | 96 | KoDaK |
-| 678 | 96 | Matt Mullinax |
+| 678 | 96 | Laura Hosford |
 | 679 | 96 | Natasha Velasquez Gabriel |
-| 680 | 95 | Chris Bernstein |
-| 681 | 95 | Jessica Marie Long |
-| 682 | 95 | Brandon Green |
-| 683 | 95 | Crystal Sara E |
-| 684 | 95 | Ren Mc |
-| 685 | 94 | Franky |
-| 686 | 94 | Yolanda Quinn |
-| 687 | 94 | Dino |
-| 688 | 93 | Tana |
+| 680 | 96 | April Bennett |
+| 681 | 95 | Chris Bernstein |
+| 682 | 95 | Jessica Marie Long |
+| 683 | 95 | Ren Mc |
+| 684 | 95 | Crystal Sara E |
+| 685 | 95 | Brandon Green |
+| 686 | 94 | Dino |
+| 687 | 94 | Yolanda Quinn |
+| 688 | 94 | Franky |
 | 689 | 93 | 030Synner |
 | 690 | 93 | Kristopher Daniels |
-| 691 | 93 | Terika Rodriguez |
-| 692 | 93 | Lee Sipelii |
-| 693 | 93 | Mandy Kachenmeister |
-| 694 | 92 | BostonCrypto |
-| 695 | 92 | Jenny Stratton Cozart |
-| 696 | 92 | Heather Skillern |
-| 697 | 92 | Snazzy Tilemaker |
-| 698 | 92 | Bubba_C59 |
-| 699 | 92 | Tinker71 |
-| 700 | 92 | Shay J Duval |
+| 691 | 93 | Mandy Kachenmeister |
+| 692 | 93 | Tana |
+| 693 | 93 | Terika Rodriguez |
+| 694 | 93 | Lee Sipelii |
+| 695 | 92 | Heather Skillern |
+| 696 | 92 | BostonCrypto |
+| 697 | 92 | Jenny Stratton Cozart |
+| 698 | 92 | Shay J Duval |
+| 699 | 92 | Bubba_C59 |
+| 700 | 92 | Tinker71 |
 | 701 | 92 | Kristy Burch Sells |
 | 702 | 92 | Misty Blanchard |
-| 703 | 91 | Michael Bruck |
-| 704 | 91 | Steffi Chris Dacones |
-| 705 | 91 | Kendra Newton |
-| 706 | 91 | Lisa Franks |
-| 707 | 91 | Jessica Russell |
-| 708 | 91 | Will Fulmer |
-| 709 | 91 | Jai |
-| 710 | 91 | Becca Gatrell Barton |
-| 711 | 91 | Yang Desu |
-| 712 | 91 | Buster Goots |
-| 713 | 90 | Crafty Clearfit |
-| 714 | 90 | Christian Pham |
-| 715 | 90 | Ziggy Csah |
+| 703 | 92 | Snazzy Tilemaker |
+| 704 | 91 | Buster Goots |
+| 705 | 91 | Becca Gatrell Barton |
+| 706 | 91 | Will Fulmer |
+| 707 | 91 | Michael Bruck |
+| 708 | 91 | Jessica Russell |
+| 709 | 91 | Kendra Newton |
+| 710 | 91 | Steffi Chris Dacones |
+| 711 | 91 | Lisa Franks |
+| 712 | 91 | Jai |
+| 713 | 91 | Yang Desu |
+| 714 | 90 | Nuga |
+| 715 | 90 | Crafty Clearfit |
 | 716 | 90 | James Simms III |
 | 717 | 90 | MetalBrickLayer |
 | 718 | 90 | Mckenzie Morris |
 | 719 | 90 | Chill Shiftspin |
 | 720 | 90 | LaRon R. Gadlen |
 | 721 | 90 | ssr |
-| 722 | 90 | JustMeNonna |
-| 723 | 90 | William Ramirez |
-| 724 | 90 | Ashley Cox |
-| 725 | 90 | Christie Love |
-| 726 | 90 | Nuga |
-| 727 | 90 | Johnson Aryonda |
-| 728 | 90 | Quirky_placer |
-| 729 | 89 | Lazy Dashpiece |
-| 730 | 89 | CoolHand |
-| 731 | 89 | Jamie Hebert |
-| 732 | 89 | Kara Diamond |
-| 733 | 89 | PSD |
-| 734 | 89 | Shelby Bryson |
-| 735 | 89 | WEIRDINO |
-| 736 | 89 | Goofy Linkblock |
-| 737 | 89 | Vicki Dougie |
-| 738 | 89 | Happy Snapbuild |
+| 722 | 90 | Quirky_placer |
+| 723 | 90 | JustMeNonna |
+| 724 | 90 | William Ramirez |
+| 725 | 90 | Ashley Cox |
+| 726 | 90 | Christie Love |
+| 727 | 90 | Christian Pham |
+| 728 | 90 | Johnson Aryonda |
+| 729 | 89 | CoolHand |
+| 730 | 89 | Kara Diamond |
+| 731 | 89 | PSD |
+| 732 | 89 | Shelby Bryson |
+| 733 | 89 | WEIRDINO |
+| 734 | 89 | Happy Snapbuild |
+| 735 | 89 | Goofy Linkblock |
+| 736 | 89 | Lazy Dashpiece |
+| 737 | 89 | Jamie Hebert |
+| 738 | 89 | Vicki Dougie |
 | 739 | 89 | Christi Bouten-Harmon |
 | 740 | 88 | Andrew Lauterborn |
-| 741 | 88 | Daring Shuffler |
-| 742 | 88 | Jimmy Shannon |
-| 743 | 88 | Wings |
-| 744 | 88 | Bon Welch |
-| 745 | 88 | King D |
-| 746 | 88 | Zachary Moran |
-| 747 | 88 | Lynn Adams |
+| 741 | 88 | Zachary Moran |
+| 742 | 88 | Wings |
+| 743 | 88 | Bon Welch |
+| 744 | 88 | Jimmy Shannon |
+| 745 | 88 | Daring Shuffler |
+| 746 | 88 | Lynn Adams |
+| 747 | 88 | King D |
 | 748 | 87 | Cheryl Villa |
 | 749 | 87 | Dominic G Terriaca |
 | 750 | 87 | Ernest Jordan |
@@ -2191,20 +2191,20 @@
 | 2183 | 5 | Cozy Twistbuilder |
 | 2184 | 5 | Twisty Blast |
 | 2185 | 5 | maddihatter |
-| 2186 | 5 | Melodie Nelson |
-| 2187 | 5 | Jennifer Brown |
-| 2188 | 5 | Tams |
-| 2189 | 5 | Drifter76 |
-| 2190 | 5 | Shawna McCauley |
-| 2191 | 5 | DiQuarto Tom |
-| 2192 | 5 | Joiel Goodalwayswin |
-| 2193 | 5 | Flashy Buildgrid |
-| 2194 | 5 | Marian L. Ryan |
-| 2195 | 5 | Rolly956 |
-| 2196 | 5 | Eagle's Champs |
-| 2197 | 5 | James Morris |
-| 2198 | 5 | Scallywag |
-| 2199 | 5 | Sarajo Clauson |
+| 2186 | 5 | Flashy Buildgrid |
+| 2187 | 5 | Sarajo Clauson |
+| 2188 | 5 | Scallywag |
+| 2189 | 5 | James Morris |
+| 2190 | 5 | Eagle's Champs |
+| 2191 | 5 | Rolly956 |
+| 2192 | 5 | Marian L. Ryan |
+| 2193 | 5 | Joiel Goodalwayswin |
+| 2194 | 5 | DiQuarto Tom |
+| 2195 | 5 | Shawna McCauley |
+| 2196 | 5 | Drifter76 |
+| 2197 | 5 | Tams |
+| 2198 | 5 | Jennifer Brown |
+| 2199 | 5 | Melodie Nelson |
 
 ---
 *Standings created by tournaments datasource generation tool*

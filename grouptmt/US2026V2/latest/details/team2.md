@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 10:16:42 UTC
+# Standings for team2 as of 2026-03-15 10:17:20 UTC
 
 **Total Participants:** 2192
 
@@ -8,10 +8,10 @@
 | :- | :- | :- |
 | 1 | 12637 | Mochi |
 | 2 | 11729 | 赵珞涵 |
-| 3 | 8339 | Justablock |
-| 4 | 7961 | Kelly Kihe |
-| 5 | 7954 | MelzWrld |
-| 6 | 7905 | Payton Auberry |
+| 3 | 8905 | Payton Auberry |
+| 4 | 8339 | Justablock |
+| 5 | 7961 | Kelly Kihe |
+| 6 | 7954 | MelzWrld |
 | 7 | 6782 | Denise Nardoni |
 | 8 | 6098 | Kristen Sceurman |
 | 9 | 5325 | MzBerry |
@@ -618,66 +618,66 @@
 | 610 | 113 | Nicci |
 | 611 | 113 | Jumpy Cascadeclear |
 | 612 | 113 | Dandy Towerer |
-| 613 | 113 | Swanky Matchpiece |
-| 614 | 113 | Tiffany Riccio |
-| 615 | 113 | Cool Cornerfall |
+| 613 | 113 | Tiffany Riccio |
+| 614 | 113 | Cool Cornerfall |
+| 615 | 113 | Swanky Matchpiece |
 | 616 | 112 | Becki Lynne Corinthos |
-| 617 | 112 | Γωγώ Τσιρόγκα |
-| 618 | 112 | Sbs |
+| 617 | 112 | Sbs |
+| 618 | 112 | Γωγώ Τσιρόγκα |
 | 619 | 112 | LD1 |
 | 620 | 112 | Roxana Shaffer Goff |
 | 621 | 112 | Giggly Shatterline |
 | 622 | 111 | Austin Vice |
 | 623 | 111 | Amy Jur Falk |
 | 624 | 111 | Bethany H. Tunison |
-| 625 | 110 | Karent524 |
-| 626 | 110 | Diana Fowler |
-| 627 | 110 | Taizia Raeshell |
-| 628 | 110 | Robin |
-| 629 | 110 | Sleepy Otter |
-| 630 | 110 | Rachy77 |
-| 631 | 109 | Scruffy Rose |
-| 632 | 109 | JZoya  Scott |
-| 633 | 109 | Rigoberto Sanchez Jr. |
-| 634 | 109 | cat |
-| 635 | 109 | Unicorn |
-| 636 | 108 | Shakena Tuggle |
-| 637 | 108 | Diane Louise |
-| 638 | 108 | Funky Stackzone |
-| 639 | 108 | BendersMomma |
-| 640 | 108 | Cee_me |
-| 641 | 108 | Sarah Somers Gray |
-| 642 | 107 | Kathy Allen |
-| 643 | 107 | Dana Hicks |
-| 644 | 107 | bubbles |
+| 625 | 110 | Chyrisse Norton |
+| 626 | 110 | Karent524 |
+| 627 | 110 | Diana Fowler |
+| 628 | 110 | Taizia Raeshell |
+| 629 | 110 | Robin |
+| 630 | 110 | Sleepy Otter |
+| 631 | 110 | Rachy77 |
+| 632 | 109 | Scruffy Rose |
+| 633 | 109 | JZoya  Scott |
+| 634 | 109 | Rigoberto Sanchez Jr. |
+| 635 | 109 | cat |
+| 636 | 109 | Unicorn |
+| 637 | 108 | Shakena Tuggle |
+| 638 | 108 | Diane Louise |
+| 639 | 108 | Funky Stackzone |
+| 640 | 108 | BendersMomma |
+| 641 | 108 | Cee_me |
+| 642 | 108 | Sarah Somers Gray |
+| 643 | 107 | Kathy Allen |
+| 644 | 107 | Dana Hicks |
 | 645 | 107 | Chirpy Dash |
 | 646 | 107 | Roberta Nelson |
-| 647 | 106 | JjB |
-| 648 | 106 | ANIM3KNIGHT |
-| 649 | 106 | Luna Locke |
-| 650 | 106 | Happy Twistfit |
-| 651 | 106 | Skhan |
-| 652 | 106 | Cozmo |
-| 653 | 106 | Pogo 2.0 |
-| 654 | 105 | Aldo Hernandez |
-| 655 | 105 | Frisky Zonepiece |
-| 656 | 105 | kippykay |
-| 657 | 105 | Lindsay Parenti |
-| 658 | 105 | Shiny Gridmatch |
+| 647 | 107 | bubbles |
+| 648 | 106 | JjB |
+| 649 | 106 | ANIM3KNIGHT |
+| 650 | 106 | Luna Locke |
+| 651 | 106 | Happy Twistfit |
+| 652 | 106 | Skhan |
+| 653 | 106 | Cozmo |
+| 654 | 106 | Pogo 2.0 |
+| 655 | 105 | Aldo Hernandez |
+| 656 | 105 | Frisky Zonepiece |
+| 657 | 105 | kippykay |
+| 658 | 105 | Lindsay Parenti |
 | 659 | 105 | Jackson Karen |
-| 660 | 104 | Melanie Corum Reynolds |
-| 661 | 104 | Nerdy Clearer |
-| 662 | 104 | Ash Whitley |
-| 663 | 104 | Debra D. Herbert |
-| 664 | 104 | Teri Oehlke |
-| 665 | 104 | Albany Broadway |
-| 666 | 104 | Lilypop |
-| 667 | 103 | S7ephavs |
-| 668 | 103 | Christian Caro |
-| 669 | 103 | Charleen Beyer |
-| 670 | 103 | Amy Villalpando |
-| 671 | 103 | Michael |
-| 672 | 102 | Chyrisse Norton |
+| 660 | 105 | Shiny Gridmatch |
+| 661 | 104 | Melanie Corum Reynolds |
+| 662 | 104 | Nerdy Clearer |
+| 663 | 104 | Ash Whitley |
+| 664 | 104 | Debra D. Herbert |
+| 665 | 104 | Teri Oehlke |
+| 666 | 104 | Albany Broadway |
+| 667 | 104 | Lilypop |
+| 668 | 103 | S7ephavs |
+| 669 | 103 | Christian Caro |
+| 670 | 103 | Charleen Beyer |
+| 671 | 103 | Amy Villalpando |
+| 672 | 103 | Michael |
 | 673 | 102 | Josie Fig |
 | 674 | 102 | Fely |
 | 675 | 102 | Jacques Frenette |
