@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 15:40:20 UTC
+# Standings for team1 as of 2026-03-15 15:40:43 UTC
 
 **Total Participants:** 2290
 
@@ -138,7 +138,7 @@
 | 130 | 727 | nameno |
 | 131 | 722 | Tina Blessed Cage |
 | 132 | 717 | Snippy Piecegrid |
-| 133 | 696 | Breezy Ivy |
+| 133 | 699 | Breezy Ivy |
 | 134 | 695 | Ashley Olson |
 | 135 | 693 | Kat Mfm Kaul |
 | 136 | 689 | Bold Clear |
@@ -176,7 +176,7 @@
 | 168 | 560 | Alezandra Smith |
 | 169 | 558 | Crafty Tilebuilder |
 | 170 | 557 | BrownNinj |
-| 171 | 546 | Bouncy Framezone |
+| 171 | 549 | Bouncy Framezone |
 | 172 | 546 | Ramona Gulledge |
 | 173 | 543 | Dizzy Pattern |
 | 174 | 539 | Kris Koepke |
@@ -336,15 +336,15 @@
 | 328 | 253 | Mufi25 |
 | 329 | 253 | Trina Gee |
 | 330 | 252 | lefty |
-| 331 | 251 | David Zeimer |
-| 332 | 251 | Antonia Wyche |
-| 333 | 248 | MisfitH |
-| 334 | 247 | Roberta Arnold |
+| 331 | 252 | Roberta Arnold |
+| 332 | 251 | David Zeimer |
+| 333 | 251 | Antonia Wyche |
+| 334 | 248 | MisfitH |
 | 335 | 245 | Lynn Perkins |
 | 336 | 245 | Groovy Glidepiece |
-| 337 | 244 | Bobby |
-| 338 | 244 | Tractor Houston |
-| 339 | 244 | Snappy Linkroll |
+| 337 | 244 | Tractor Houston |
+| 338 | 244 | Snappy Linkroll |
+| 339 | 244 | Bobby |
 | 340 | 244 | Kay Francois |
 | 341 | 242 | Rob Chebetar |
 | 342 | 242 | Bingo Wingo |
