@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 10:59:20 UTC
+# Standings for team2 as of 2026-03-15 11:00:19 UTC
 
 **Total Participants:** 2203
 
@@ -59,9 +59,9 @@
 | 51 | 1461 | Erica Davis |
 | 52 | 1419 | Elizabeth Sallas |
 | 53 | 1352 | Bubbly Twistpiece |
-| 54 | 1314 | Becky McClure |
-| 55 | 1313 | Jennifer Gartland |
-| 56 | 1309 | Susan Fazio Edwards |
+| 54 | 1324 | Susan Fazio Edwards |
+| 55 | 1314 | Becky McClure |
+| 56 | 1313 | Jennifer Gartland |
 | 57 | 1293 | Emarie |
 | 58 | 1289 | Snippy Basepiece |
 | 59 | 1287 | Amanda Young |
@@ -108,11 +108,11 @@
 | 100 | 796 | sweet lil miss |
 | 101 | 788 | Jennifer Golub |
 | 102 | 784 | Robert Martinez |
-| 103 | 764 | Adrienne Fisher |
-| 104 | 756 | John Matson |
-| 105 | 744 | Jenny Derby |
-| 106 | 742 | Sass |
-| 107 | 741 | Lisa Neal |
+| 103 | 768 | Lisa Neal |
+| 104 | 764 | Adrienne Fisher |
+| 105 | 756 | John Matson |
+| 106 | 744 | Jenny Derby |
+| 107 | 742 | Sass |
 | 108 | 735 | Joy LaJeunesse |
 | 109 | 722 | Elizabeth Stanley |
 | 110 | 721 | Ariel Pearson |
@@ -209,12 +209,12 @@
 | 201 | 370 | Shawn Haines |
 | 202 | 368 | Tiff Vs Tiffany |
 | 203 | 368 | Dee Doubleyou |
-| 204 | 358 | Elizabeth Mauri |
-| 205 | 356 | Connie Mohler-Fair |
-| 206 | 355 | Jumpy Breaker |
-| 207 | 355 | Shelly |
-| 208 | 355 | Nick Kozik |
-| 209 | 353 | Jay |
+| 204 | 359 | Jay |
+| 205 | 358 | Elizabeth Mauri |
+| 206 | 356 | Connie Mohler-Fair |
+| 207 | 355 | Jumpy Breaker |
+| 208 | 355 | Shelly |
+| 209 | 355 | Nick Kozik |
 | 210 | 349 | Elizabeth Ostrom |
 | 211 | 349 | Liz Wambsgans |
 | 212 | 342 | Dre Man |
@@ -365,15 +365,15 @@
 | 357 | 205 | Cynthia Prouse |
 | 358 | 203 | Giddy Gridmatch |
 | 359 | 203 | Nicole McLean |
-| 360 | 202 | Dally Hunt |
-| 361 | 201 | JustYvette IsFine |
-| 362 | 201 | Michael E Whitejr |
-| 363 | 201 | Eugenio Moquete |
-| 364 | 201 | Tash Bell |
-| 365 | 201 | Mona Sharma |
-| 366 | 201 | Ashley Leonard |
-| 367 | 200 | Nerdy Blockpiece |
-| 368 | 200 | Mandi Mayweather |
+| 360 | 202 | Mandi Mayweather |
+| 361 | 202 | Dally Hunt |
+| 362 | 201 | JustYvette IsFine |
+| 363 | 201 | Michael E Whitejr |
+| 364 | 201 | Eugenio Moquete |
+| 365 | 201 | Tash Bell |
+| 366 | 201 | Mona Sharma |
+| 367 | 201 | Ashley Leonard |
+| 368 | 200 | Nerdy Blockpiece |
 | 369 | 200 | Rhonda Prince |
 | 370 | 200 | Tammi Crnza |
 | 371 | 200 | Trice Sodames |
@@ -489,12 +489,12 @@
 | 481 | 149 | Teresa Longwell |
 | 482 | 149 | Daring Rotator |
 | 483 | 149 | Lizzie Marie |
-| 484 | 148 | Chill Builder |
-| 485 | 147 | Jazzy Hitter |
-| 486 | 147 | Jenny Carrier |
-| 487 | 146 | Jen Robinson |
-| 488 | 146 | Elizabeth Blankenship |
-| 489 | 146 | Jessi |
+| 484 | 149 | Jessi |
+| 485 | 148 | Chill Builder |
+| 486 | 147 | Jazzy Hitter |
+| 487 | 147 | Jenny Carrier |
+| 488 | 146 | Jen Robinson |
+| 489 | 146 | Elizabeth Blankenship |
 | 490 | 145 | Steady Treal |
 | 491 | 145 | Goofy Towerer |
 | 492 | 145 | Kelly Williams |
@@ -1077,28 +1077,28 @@
 | 1069 | 60 | Susan Larson |
 | 1070 | 60 | lou28 |
 | 1071 | 59 | Odessa Scott |
-| 1072 | 59 | Muva |
-| 1073 | 59 | Shiny Zonegrid |
-| 1074 | 59 | TinaMarie Montone |
-| 1075 | 59 | Tracy Berry |
-| 1076 | 59 | Smith Nita |
-| 1077 | 59 | Lizzy44@ |
-| 1078 | 59 | Kara E. Butler |
-| 1079 | 59 | Andrew McCafferty |
-| 1080 | 59 | g |
-| 1081 | 59 | cherry 🍒pie |
-| 1082 | 58 | Bold Linkpiece |
-| 1083 | 58 | Cweej |
-| 1084 | 58 | FuzzyKay |
-| 1085 | 58 | Joshua |
-| 1086 | 58 | Marty Bittner |
-| 1087 | 58 | Chandra |
-| 1088 | 58 | AarshiyasMommy |
-| 1089 | 58 | Bryan De Guzman |
-| 1090 | 58 | MamaBear04 |
-| 1091 | 58 | Petty |
-| 1092 | 58 | Brandi Fuller Cason |
-| 1093 | 58 | Hannibal Musa |
+| 1072 | 59 | Hannibal Musa |
+| 1073 | 59 | Muva |
+| 1074 | 59 | Shiny Zonegrid |
+| 1075 | 59 | TinaMarie Montone |
+| 1076 | 59 | Tracy Berry |
+| 1077 | 59 | Smith Nita |
+| 1078 | 59 | Lizzy44@ |
+| 1079 | 59 | Kara E. Butler |
+| 1080 | 59 | Andrew McCafferty |
+| 1081 | 59 | g |
+| 1082 | 59 | cherry 🍒pie |
+| 1083 | 58 | Bold Linkpiece |
+| 1084 | 58 | Cweej |
+| 1085 | 58 | FuzzyKay |
+| 1086 | 58 | Joshua |
+| 1087 | 58 | Marty Bittner |
+| 1088 | 58 | Chandra |
+| 1089 | 58 | AarshiyasMommy |
+| 1090 | 58 | Bryan De Guzman |
+| 1091 | 58 | MamaBear04 |
+| 1092 | 58 | Petty |
+| 1093 | 58 | Brandi Fuller Cason |
 | 1094 | 58 | GoddessCandy |
 | 1095 | 57 | Kara Ann Cray |
 | 1096 | 57 | Terrie Swift |
@@ -1938,38 +1938,38 @@
 | 1930 | 14 | Joseph Ferranto |
 | 1931 | 14 | Frilly Dropmatch |
 | 1932 | 14 | Mel |
-| 1933 | 14 | JadeJay |
-| 1934 | 14 | Abigail Stratton |
-| 1935 | 14 | Jax Guillory |
-| 1936 | 14 | Poppy Liney |
-| 1937 | 14 | Ellie Cook |
-| 1938 | 14 | BlockHead12 |
-| 1939 | 14 | Alice Greene |
-| 1940 | 14 | Angela Boles |
-| 1941 | 14 | Stacie Wolf Rademacher |
-| 1942 | 14 | MiriVigo |
-| 1943 | 14 | Chilly Mover |
-| 1944 | 14 | Mandy Parker |
-| 1945 | 14 | Alejandra Tomasa Garcia-ramirez |
-| 1946 | 14 | Steven L Robinson Jr |
-| 1947 | 14 | Angel Raya |
-| 1948 | 14 | Ami Linda Merrick |
-| 1949 | 14 | Gaberiel Torres |
-| 1950 | 13 | Dreamy Brickroll |
-| 1951 | 13 | Patricia Mosso |
-| 1952 | 13 | Spencer John |
-| 1953 | 13 | Anika Strawberryz Smith |
-| 1954 | 13 | BarkyRoot |
-| 1955 | 13 | bestme |
-| 1956 | 13 | Christopher Mastropietro |
-| 1957 | 13 | Shiny Zonepiece |
-| 1958 | 13 | Andre Simpson |
-| 1959 | 13 | Corgi Mama |
-| 1960 | 13 | Devyn Hanzich |
-| 1961 | 13 | Staybutterfly |
-| 1962 | 13 | Frilly Clearpiece |
-| 1963 | 13 | Adonis |
-| 1964 | 13 | Giggy Lifter |
+| 1933 | 14 | Giggy Lifter |
+| 1934 | 14 | JadeJay |
+| 1935 | 14 | Abigail Stratton |
+| 1936 | 14 | Jax Guillory |
+| 1937 | 14 | Poppy Liney |
+| 1938 | 14 | Ellie Cook |
+| 1939 | 14 | BlockHead12 |
+| 1940 | 14 | Alice Greene |
+| 1941 | 14 | Angela Boles |
+| 1942 | 14 | Stacie Wolf Rademacher |
+| 1943 | 14 | MiriVigo |
+| 1944 | 14 | Chilly Mover |
+| 1945 | 14 | Mandy Parker |
+| 1946 | 14 | Alejandra Tomasa Garcia-ramirez |
+| 1947 | 14 | Steven L Robinson Jr |
+| 1948 | 14 | Angel Raya |
+| 1949 | 14 | Ami Linda Merrick |
+| 1950 | 14 | Gaberiel Torres |
+| 1951 | 13 | Dreamy Brickroll |
+| 1952 | 13 | Patricia Mosso |
+| 1953 | 13 | Spencer John |
+| 1954 | 13 | Anika Strawberryz Smith |
+| 1955 | 13 | BarkyRoot |
+| 1956 | 13 | bestme |
+| 1957 | 13 | Christopher Mastropietro |
+| 1958 | 13 | Shiny Zonepiece |
+| 1959 | 13 | Andre Simpson |
+| 1960 | 13 | Corgi Mama |
+| 1961 | 13 | Devyn Hanzich |
+| 1962 | 13 | Staybutterfly |
+| 1963 | 13 | Frilly Clearpiece |
+| 1964 | 13 | Adonis |
 | 1965 | 13 | MsThick Ness |
 | 1966 | 13 | Kristin Smith |
 | 1967 | 12 | carole57 |
