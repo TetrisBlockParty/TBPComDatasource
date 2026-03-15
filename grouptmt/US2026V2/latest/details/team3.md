@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-15 06:36:18 UTC
+# Standings for team3 as of 2026-03-15 06:36:41 UTC
 
 **Total Participants:** 3320
 
@@ -194,16 +194,16 @@
 | 186 | 590 | Snappy Dropper |
 | 187 | 589 | Starlight Snyder |
 | 188 | 585 | Sean Corsi |
-| 189 | 582 | Chris Gillis |
-| 190 | 581 | outdoor_cat |
-| 191 | 579 | Jim Hetherington |
-| 192 | 578 | Dandi |
-| 193 | 572 | TamiJo |
-| 194 | 571 | Denise Rickman |
-| 195 | 569 | Samantha Corey |
-| 196 | 568 | Quirky Liney |
-| 197 | 568 | LaTanya GeminiondaRise Johnson |
-| 198 | 567 | Tanya R Bowen |
+| 189 | 585 | Tanya R Bowen |
+| 190 | 582 | Chris Gillis |
+| 191 | 581 | outdoor_cat |
+| 192 | 579 | Jim Hetherington |
+| 193 | 578 | Dandi |
+| 194 | 572 | TamiJo |
+| 195 | 571 | Denise Rickman |
+| 196 | 569 | Samantha Corey |
+| 197 | 568 | Quirky Liney |
+| 198 | 568 | LaTanya GeminiondaRise Johnson |
 | 199 | 549 | Becky Weeks-Garry |
 | 200 | 549 | fred |
 | 201 | 544 | Michelle Crawford |
@@ -258,8 +258,8 @@
 | 250 | 403 | Tenille Santiago |
 | 251 | 401 | Santeria Trece Candles |
 | 252 | 401 | Dylan Thomason |
-| 253 | 400 | Sunny Lift |
-| 254 | 400 | Serena Catherine Coladonato |
+| 253 | 400 | Serena Catherine Coladonato |
+| 254 | 400 | Sunny Lift |
 | 255 | 397 | Josiah Fam |
 | 256 | 395 | Tom Eye |
 | 257 | 386 | Emily B Johnson |
@@ -272,8 +272,8 @@
 | 264 | 370 | Megan Helton |
 | 265 | 369 | Nonnina |
 | 266 | 368 | Swanky Blockmatch |
-| 267 | 366 | Shelby |
-| 268 | 366 | Bucky Dent |
+| 267 | 366 | Bucky Dent |
+| 268 | 366 | Shelby |
 | 269 | 364 | Maria Escobar |
 | 270 | 362 | Crystal Priest |
 | 271 | 360 | Chris Sladoje |
@@ -283,8 +283,8 @@
 | 275 | 349 | Crystal Cheresnowsky |
 | 276 | 349 | Deanna Grilli |
 | 277 | 346 | Zippy Tiley |
-| 278 | 345 | Tam |
-| 279 | 345 | Alkaben Fortunato |
+| 278 | 345 | Alkaben Fortunato |
+| 279 | 345 | Tam |
 | 280 | 344 | abe |
 | 281 | 342 | Jimeka Turner |
 | 282 | 341 | Cranky Tiltbuilder |
@@ -301,8 +301,8 @@
 | 293 | 333 | Desiree Watson |
 | 294 | 332 | Dee Franklin |
 | 295 | 331 | Kelsey Sullivan |
-| 296 | 330 | TaWanna Watkins Hardy |
-| 297 | 330 | Paula Murtonen |
+| 296 | 330 | Paula Murtonen |
+| 297 | 330 | TaWanna Watkins Hardy |
 | 298 | 327 | Megan Modschiedler |
 | 299 | 325 | Chelsea Hall |
 | 300 | 324 | Denise B |
@@ -315,31 +315,31 @@
 | 307 | 314 | Rheta Roberts |
 | 308 | 313 | Amy Crowe |
 | 309 | 311 | Veronica Gutierrez |
-| 310 | 310 | Giddy Snapbuilder |
-| 311 | 310 | April Hammond |
-| 312 | 310 | Curry3s |
-| 313 | 309 | Chris Bell |
-| 314 | 306 | LiterallyJustDave |
-| 315 | 305 | Kimberly Wright |
-| 316 | 304 | Salaices Ezzie |
-| 317 | 304 | Trista Bounting |
-| 318 | 302 | Nichole Eileen Doorn Lundy |
-| 319 | 301 | Sherrie Greulich |
-| 320 | 301 | Christy Garris Patterson |
-| 321 | 300 | Dayaa Laws |
-| 322 | 300 | Francine-frankie Ritzio-Rizzo |
-| 323 | 300 | Jessica Meek |
-| 324 | 300 | Debbie Davis |
-| 325 | 299 | Sassy Column |
-| 326 | 297 | Harley Scot Cederquist |
-| 327 | 297 | Lisa Rachelle Blackmonson |
-| 328 | 296 | Xela |
-| 329 | 296 | Boldy Glidepiece |
-| 330 | 295 | Yup |
-| 331 | 294 | Lucy Lu Green |
-| 332 | 293 | Nubian1 |
-| 333 | 293 | Amanda Byers |
-| 334 | 293 | Clever Patternblock |
+| 310 | 310 | April Hammond |
+| 311 | 310 | Clever Patternblock |
+| 312 | 310 | Giddy Snapbuilder |
+| 313 | 310 | Curry3s |
+| 314 | 309 | Chris Bell |
+| 315 | 306 | LiterallyJustDave |
+| 316 | 305 | Kimberly Wright |
+| 317 | 304 | Salaices Ezzie |
+| 318 | 304 | Trista Bounting |
+| 319 | 302 | Nichole Eileen Doorn Lundy |
+| 320 | 301 | Sherrie Greulich |
+| 321 | 301 | Christy Garris Patterson |
+| 322 | 300 | Dayaa Laws |
+| 323 | 300 | Francine-frankie Ritzio-Rizzo |
+| 324 | 300 | Jessica Meek |
+| 325 | 300 | Debbie Davis |
+| 326 | 299 | Sassy Column |
+| 327 | 297 | Harley Scot Cederquist |
+| 328 | 297 | Lisa Rachelle Blackmonson |
+| 329 | 296 | Xela |
+| 330 | 296 | Boldy Glidepiece |
+| 331 | 295 | Yup |
+| 332 | 294 | Lucy Lu Green |
+| 333 | 293 | Nubian1 |
+| 334 | 293 | Amanda Byers |
 | 335 | 292 | Kayla Jo Piper |
 | 336 | 291 | Tim Smolen |
 | 337 | 291 | LadybugChaos |
