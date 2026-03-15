@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 10:06:41 UTC
+# Standings for team1 as of 2026-03-15 10:07:19 UTC
 
 **Total Participants:** 2196
 
@@ -97,8 +97,8 @@
 | 89 | 957 | TotoCherue |
 | 90 | 941 | Kris Hudelson |
 | 91 | 934 | Jay Aye |
-| 92 | 914 | Zach Thompson |
-| 93 | 914 | Trisha Gallagher |
+| 92 | 914 | Trisha Gallagher |
+| 93 | 914 | Zach Thompson |
 | 94 | 878 | Elyse YL |
 | 95 | 868 | Renee Weedling |
 | 96 | 866 | Walker Patterson |
@@ -112,16 +112,16 @@
 | 104 | 809 | Donald Nguyen |
 | 105 | 804 | Tom |
 | 106 | 794 | @n@luvmakin |
-| 107 | 792 | L3sli3 |
-| 108 | 792 | Tim Raper |
+| 107 | 792 | Tim Raper |
+| 108 | 792 | L3sli3 |
 | 109 | 790 | Michael DeRosa |
 | 110 | 778 | Amy R Clinton |
-| 111 | 772 | Ellie Bein |
-| 112 | 772 | Andy Harris |
+| 111 | 772 | Andy Harris |
+| 112 | 772 | Ellie Bein |
 | 113 | 763 | Amber Zeller Rice |
 | 114 | 756 | Spicy Tilemaker |
-| 115 | 751 | 1_Roxanne_3 |
-| 116 | 751 | Ana Fernanda Sanchez |
+| 115 | 751 | Ana Fernanda Sanchez |
+| 116 | 751 | 1_Roxanne_3 |
 | 117 | 748 | Letson Melissa |
 | 118 | 747 | Tyle Armstead |
 | 119 | 745 | Michael Powers |
@@ -150,18 +150,18 @@
 | 142 | 610 | James Burda |
 | 143 | 609 | Ann Carrie |
 | 144 | 605 | Matt Aguilar |
-| 145 | 595 | Dramatic Tiger |
-| 146 | 595 | Chris Wanner |
+| 145 | 595 | Chris Wanner |
+| 146 | 595 | Dramatic Tiger |
 | 147 | 593 | Snippy Stacky |
 | 148 | 590 | Cassandra Latimore |
 | 149 | 583 | Big rick !!! |
 | 150 | 579 | Nanan Nanan |
 | 151 | 577 | Simmone T. Kadiri |
 | 152 | 577 | Gloria Ininahazwe |
-| 153 | 570 | Johnathan Rasmussen |
-| 154 | 567 | Sarah Stanonik |
-| 155 | 566 | Chrys Peters |
-| 156 | 564 | Joy Bloodworth |
+| 153 | 574 | Joy Bloodworth |
+| 154 | 570 | Johnathan Rasmussen |
+| 155 | 567 | Sarah Stanonik |
+| 156 | 566 | Chrys Peters |
 | 157 | 561 | Marie Helman |
 | 158 | 540 | Alezandra Smith |
 | 159 | 538 | Diamond Madison |
@@ -397,18 +397,18 @@
 | 389 | 181 | Angela Brown Babin |
 | 390 | 181 | Gabriel Archer |
 | 391 | 180 | Allen Matthies |
-| 392 | 180 | Spunky Rollblock |
-| 393 | 180 | Lil'A |
-| 394 | 180 | Robert Benito |
-| 395 | 180 | Jessica Shubert |
-| 396 | 179 | DoodleBug |
-| 397 | 179 | Kim Bays |
-| 398 | 179 | Chris |
-| 399 | 178 | Mary Cerciello |
-| 400 | 178 | Sabrina Frazier |
-| 401 | 175 | Michelle Lee |
-| 402 | 175 | Chilly Faller |
-| 403 | 175 | Shiny Patternblock |
+| 392 | 180 | Chilly Faller |
+| 393 | 180 | Spunky Rollblock |
+| 394 | 180 | Lil'A |
+| 395 | 180 | Robert Benito |
+| 396 | 180 | Jessica Shubert |
+| 397 | 179 | DoodleBug |
+| 398 | 179 | Kim Bays |
+| 399 | 179 | Chris |
+| 400 | 178 | Mary Cerciello |
+| 401 | 178 | Sabrina Frazier |
+| 402 | 175 | Shiny Patternblock |
+| 403 | 175 | Michelle Lee |
 | 404 | 174 | Renee Elam |
 | 405 | 174 | Flashy Rotator |
 | 406 | 173 | Cynthia Petz |
@@ -417,14 +417,14 @@
 | 409 | 172 | SpaceCase085 |
 | 410 | 171 | Bearman |
 | 411 | 171 | Holly Hinkle |
-| 412 | 170 | Brandi Huntington |
-| 413 | 170 | Sallie Sanborn |
-| 414 | 170 | J. |
+| 412 | 170 | J. |
+| 413 | 170 | Brandi Huntington |
+| 414 | 170 | Sallie Sanborn |
 | 415 | 169 | Hasty Lift |
-| 416 | 168 | Cannaman710 |
-| 417 | 168 | Quirky Catcher |
+| 416 | 168 | Quirky Catcher |
+| 417 | 168 | Lynn Perkins |
 | 418 | 168 | Kellia S Johnson |
-| 419 | 168 | Lynn Perkins |
+| 419 | 168 | Cannaman710 |
 | 420 | 167 | Kay Alifi |
 | 421 | 166 | Rat666 |
 | 422 | 166 | Tabitha Cornelious |
@@ -470,11 +470,11 @@
 | 462 | 153 | Wulfbyte |
 | 463 | 153 | Jessica |
 | 464 | 152 | Ruby Sandberg |
-| 465 | 151 | Breezy Wiper |
-| 466 | 151 | Joyce Harrell-chavis |
-| 467 | 151 | Julie Moore |
-| 468 | 150 | Jeremy Mitchell |
-| 469 | 150 | Aprill Bolton |
+| 465 | 152 | Aprill Bolton |
+| 466 | 151 | Breezy Wiper |
+| 467 | 151 | Joyce Harrell-chavis |
+| 468 | 151 | Julie Moore |
+| 469 | 150 | Jeremy Mitchell |
 | 470 | 148 | mrkw |
 | 471 | 148 | Natasha King |
 | 472 | 147 | Ophelia Rae |
