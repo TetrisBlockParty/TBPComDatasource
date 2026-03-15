@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 07:58:19 UTC
+# Standings for team1 as of 2026-03-15 07:58:40 UTC
 
 **Total Participants:** 2167
 
@@ -620,26 +620,26 @@
 | 612 | 103 | Sam Steig |
 | 613 | 102 | Manuel Ceniceros |
 | 614 | 102 | Rosanna Atria-Schnickel |
-| 615 | 102 | NolaGal |
-| 616 | 102 | SAP |
-| 617 | 102 | Cynthia Mann |
-| 618 | 102 | Aldona Figiel |
-| 619 | 102 | Meagan Nicole |
+| 615 | 102 | Dustin Curtis |
+| 616 | 102 | NolaGal |
+| 617 | 102 | SAP |
+| 618 | 102 | Cynthia Mann |
+| 619 | 102 | Aldona Figiel |
 | 620 | 102 | Andretta Wilder |
-| 621 | 101 | Aponk |
-| 622 | 101 | Christi Ames |
-| 623 | 101 | Sabrina Mansfield |
-| 624 | 101 | Tig |
-| 625 | 100 | DaRascal |
+| 621 | 102 | Meagan Nicole |
+| 622 | 101 | Aponk |
+| 623 | 101 | Christi Ames |
+| 624 | 101 | Sabrina Mansfield |
+| 625 | 101 | Tig |
 | 626 | 100 | Cynthia Herrmann Egland |
 | 627 | 100 | Dan Baines |
 | 628 | 100 | Jeff Frandsen |
 | 629 | 100 | Kristen Hall |
-| 630 | 100 | Mary McGhee |
+| 630 | 100 | DaRascal |
 | 631 | 100 | Black Rubix |
 | 632 | 100 | Chilly Matchbuilder |
-| 633 | 100 | Michelle Pike |
-| 634 | 100 | Dustin Curtis |
+| 633 | 100 | Mary McGhee |
+| 634 | 100 | Michelle Pike |
 | 635 | 100 | Dan Sessa |
 | 636 | 99 | GinjaNinja |
 | 637 | 99 | Christopher James Cienfuegos |
