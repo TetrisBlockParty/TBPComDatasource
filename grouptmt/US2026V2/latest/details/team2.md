@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 05:58:17 UTC
+# Standings for team2 as of 2026-03-15 05:59:17 UTC
 
 **Total Participants:** 2122
 
@@ -86,9 +86,9 @@
 | 78 | 885 | Brave Matchfit |
 | 79 | 885 | Julio Alejandro Rodriguez |
 | 80 | 884 | Liana Spikes |
-| 81 | 873 | Autumn Leslie |
-| 82 | 868 | Kristina Custer |
-| 83 | 864 | Peppy Slice |
+| 81 | 880 | Kristina Custer |
+| 82 | 873 | Autumn Leslie |
+| 83 | 869 | Peppy Slice |
 | 84 | 859 | Neet |
 | 85 | 856 | Peachy Matchgrid |
 | 86 | 853 | Spice Ginger |
@@ -126,8 +126,8 @@
 | 118 | 624 | Alan George LaRage |
 | 119 | 609 | Anna Faulkner |
 | 120 | 603 | Liss Lint |
-| 121 | 600 | Cw |
-| 122 | 600 | Sheena Harris |
+| 121 | 600 | Sheena Harris |
+| 122 | 600 | Cw |
 | 123 | 599 | Eckoman518 |
 | 124 | 594 | LolaSmilez |
 | 125 | 587 | Minxy |
@@ -137,8 +137,8 @@
 | 129 | 572 | Mary Reeves |
 | 130 | 569 | Adam Charles |
 | 131 | 561 | Shelly Babie |
-| 132 | 558 | Gracie Back |
-| 133 | 558 | DanesMama |
+| 132 | 558 | DanesMama |
+| 133 | 558 | Gracie Back |
 | 134 | 547 | Carson Goldminc |
 | 135 | 546 | Ultramarine |
 | 136 | 542 | Dandy Crasher |
@@ -154,8 +154,8 @@
 | 146 | 493 | Amanda Sullivan |
 | 147 | 491 | Devin |
 | 148 | 485 | Frothy Linker |
-| 149 | 474 | Sara Morgan |
-| 150 | 474 | Carmen Jnvm |
+| 149 | 474 | Carmen Jnvm |
+| 150 | 474 | Sara Morgan |
 | 151 | 474 | Tausha Colella |
 | 152 | 471 | Michelle Douglas Bridges |
 | 153 | 469 | Looloo |
@@ -194,37 +194,37 @@
 | 186 | 377 | Paul Hudak |
 | 187 | 372 | Jjza |
 | 188 | 371 | hyper Zip |
-| 189 | 370 | Shawn Haines |
-| 190 | 368 | Tiff Vs Tiffany |
-| 191 | 368 | Dee Doubleyou |
-| 192 | 356 | Connie Mohler-Fair |
-| 193 | 355 | Jumpy Breaker |
-| 194 | 355 | Shelly |
-| 195 | 355 | Nick Kozik |
-| 196 | 349 | Elizabeth Ostrom |
-| 197 | 349 | Liz Wambsgans |
-| 198 | 342 | Dre Man |
-| 199 | 341 | Kevin Blevins |
-| 200 | 338 | YAE |
-| 201 | 335 | Plucky Snaplink |
-| 202 | 333 | Emily Wooden |
-| 203 | 332 | Tommy Proctor |
-| 204 | 329 | Jay |
-| 205 | 326 | Kyesha Goodyear |
-| 206 | 325 | CharalaAnn |
-| 207 | 321 | Michelle Allers |
-| 208 | 319 | BluBae |
-| 209 | 318 | Winner |
-| 210 | 318 | Danielle Weikel |
-| 211 | 318 | Elizabeth Mauri |
-| 212 | 316 | Cheery Dropper |
-| 213 | 315 | Snappy Tiley |
-| 214 | 313 | Bouncy Swiper |
-| 215 | 313 | Olivia Gwin |
-| 216 | 313 | Jumpy Smasher |
-| 217 | 313 | Epic Liner |
-| 218 | 311 | Rusty Davis |
-| 219 | 310 | BYM4L |
+| 189 | 370 | BYM4L |
+| 190 | 370 | Shawn Haines |
+| 191 | 368 | Tiff Vs Tiffany |
+| 192 | 368 | Dee Doubleyou |
+| 193 | 356 | Connie Mohler-Fair |
+| 194 | 355 | Jumpy Breaker |
+| 195 | 355 | Shelly |
+| 196 | 355 | Nick Kozik |
+| 197 | 349 | Elizabeth Ostrom |
+| 198 | 349 | Liz Wambsgans |
+| 199 | 342 | Dre Man |
+| 200 | 341 | Kevin Blevins |
+| 201 | 340 | YAE |
+| 202 | 335 | Plucky Snaplink |
+| 203 | 333 | Emily Wooden |
+| 204 | 333 | CharalaAnn |
+| 205 | 332 | Tommy Proctor |
+| 206 | 329 | Jay |
+| 207 | 326 | Kyesha Goodyear |
+| 208 | 321 | Michelle Allers |
+| 209 | 319 | BluBae |
+| 210 | 318 | Winner |
+| 211 | 318 | Danielle Weikel |
+| 212 | 318 | Elizabeth Mauri |
+| 213 | 316 | Cheery Dropper |
+| 214 | 315 | Snappy Tiley |
+| 215 | 313 | Bouncy Swiper |
+| 216 | 313 | Olivia Gwin |
+| 217 | 313 | Jumpy Smasher |
+| 218 | 313 | Epic Liner |
+| 219 | 311 | Rusty Davis |
 | 220 | 310 | Tiffany Smith |
 | 221 | 310 | 1RiRi1 |
 | 222 | 309 | Christy Merriman Addison |
@@ -244,13 +244,13 @@
 | 236 | 288 | Dreamer |
 | 237 | 282 | Angela Mindiola |
 | 238 | 282 | Ruby Anne |
-| 239 | 280 | Breeana Bennett |
-| 240 | 280 | Smiley Shatter |
+| 239 | 280 | Smiley Shatter |
+| 240 | 280 | Breeana Bennett |
 | 241 | 280 | LML |
 | 242 | 277 | Mandy |
 | 243 | 277 | Jenni Garcia-Vogelhut |
-| 244 | 276 | Ben Dove |
-| 245 | 276 | Ashley Marie |
+| 244 | 276 | Ashley Marie |
+| 245 | 276 | Ben Dove |
 | 246 | 275 | SD Temple |
 | 247 | 275 | Amelia Anderson |
 | 248 | 275 | Camila Gerow |
@@ -266,8 +266,8 @@
 | 258 | 263 | Joeyalan Sullivan |
 | 259 | 262 | Krish Shah |
 | 260 | 262 | Laura Smith |
-| 261 | 262 | nina |
-| 262 | 262 | Layle Miranda Madsen |
+| 261 | 262 | Layle Miranda Madsen |
+| 262 | 262 | nina |
 | 263 | 261 | Christine Lin |
 | 264 | 260 | Jocelyn Jauregui |
 | 265 | 260 | Charde Parnell |
@@ -338,8 +338,8 @@
 | 330 | 201 | Ashley Leonard |
 | 331 | 200 | Nerdy Blockpiece |
 | 332 | 200 | Susan Dunn |
-| 333 | 200 | Trice Sodames |
-| 334 | 200 | Tammi Crnza |
+| 333 | 200 | Tammi Crnza |
+| 334 | 200 | Trice Sodames |
 | 335 | 200 | Rhonda Prince |
 | 336 | 199 | David V. Bowers |
 | 337 | 199 | titrissss |
@@ -347,8 +347,8 @@
 | 339 | 198 | Michael E Whitejr |
 | 340 | 198 | Mike Davis |
 | 341 | 197 | Jennifer Osmer Carruth |
-| 342 | 196 | Colin Morgan |
-| 343 | 196 | Loony Snapbuild |
+| 342 | 196 | Loony Snapbuild |
+| 343 | 196 | Colin Morgan |
 | 344 | 196 | Vanessa Nguyen |
 | 345 | 196 | Kristina Hill Perez |
 | 346 | 195 | De Yske |
@@ -2109,24 +2109,24 @@
 | 2101 | 5 | Debbie Greaux |
 | 2102 | 5 | Sam Hazlewood |
 | 2103 | 5 | Kerry Lee Powell |
-| 2104 | 5 | Andrea Velasco Dela Cruz |
-| 2105 | 5 | Dizzy Linkpiece |
-| 2106 | 5 | Shera |
-| 2107 | 5 | Erica |
-| 2108 | 5 | Danielle Barthelme |
-| 2109 | 5 | Christopher Kissiah |
-| 2110 | 5 | Tammy Kirby Bingel |
-| 2111 | 5 | Ashley Patrice London |
-| 2112 | 5 | Amanda Conaghan |
-| 2113 | 5 | Leeann Couch |
-| 2114 | 5 | hellyee |
-| 2115 | 5 | Alexandria Shannon |
-| 2116 | 5 | Jamie Hicks |
-| 2117 | 5 | Perky Piecegrid |
-| 2118 | 5 | Summer Raymer |
-| 2119 | 5 | Amy Patterson |
-| 2120 | 5 | Jeanna Gordon |
-| 2121 | 5 | Beep Pie |
+| 2104 | 5 | Dizzy Linkpiece |
+| 2105 | 5 | Shera |
+| 2106 | 5 | Erica |
+| 2107 | 5 | Danielle Barthelme |
+| 2108 | 5 | Christopher Kissiah |
+| 2109 | 5 | Tammy Kirby Bingel |
+| 2110 | 5 | Ashley Patrice London |
+| 2111 | 5 | Amanda Conaghan |
+| 2112 | 5 | Leeann Couch |
+| 2113 | 5 | hellyee |
+| 2114 | 5 | Alexandria Shannon |
+| 2115 | 5 | Jamie Hicks |
+| 2116 | 5 | Perky Piecegrid |
+| 2117 | 5 | Summer Raymer |
+| 2118 | 5 | Amy Patterson |
+| 2119 | 5 | Jeanna Gordon |
+| 2120 | 5 | Beep Pie |
+| 2121 | 5 | Andrea Velasco Dela Cruz |
 | 2122 | 5 | babbs |
 
 ---
