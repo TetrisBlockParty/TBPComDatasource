@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 04:38:42 UTC
+# Standings for team1 as of 2026-03-15 04:39:20 UTC
 
 **Total Participants:** 2105
 
@@ -136,10 +136,10 @@
 | 128 | 590 | Cassandra Latimore |
 | 129 | 586 | Duane Ficara |
 | 130 | 583 | Big rick !!! |
-| 131 | 579 | Nanan Nanan |
-| 132 | 577 | Simmone T. Kadiri |
-| 133 | 577 | Gloria Ininahazwe |
-| 134 | 574 | Muhammad |
+| 131 | 580 | Muhammad |
+| 132 | 579 | Nanan Nanan |
+| 133 | 577 | Simmone T. Kadiri |
+| 134 | 577 | Gloria Ininahazwe |
 | 135 | 567 | Sarah Stanonik |
 | 136 | 561 | Marie Helman |
 | 137 | 540 | Alezandra Smith |
@@ -225,11 +225,11 @@
 | 217 | 309 | Dawn Hoffman |
 | 218 | 308 | Jason Whitehair |
 | 219 | 307 | Stephanie Myers |
-| 220 | 304 | Ern2burn |
-| 221 | 302 | Hasbro Bros |
-| 222 | 302 | Justin Feingold |
-| 223 | 301 | Huskymom |
-| 224 | 301 | Jason Cunningham |
+| 220 | 304 | Jason Cunningham |
+| 221 | 304 | Ern2burn |
+| 222 | 302 | Hasbro Bros |
+| 223 | 302 | Justin Feingold |
+| 224 | 301 | Huskymom |
 | 225 | 300 | Shannon Ferrari |
 | 226 | 300 | Noelle Cicchillo |
 | 227 | 300 | Angel Mendez |
@@ -417,49 +417,49 @@
 | 409 | 148 | Cannaman710 |
 | 410 | 146 | Thomas Susi |
 | 411 | 145 | AngelVoice JB |
-| 412 | 145 | Bingo Wingo |
-| 413 | 144 | Jaay |
-| 414 | 144 | Gina Annese |
-| 415 | 144 | Jonathan Gaffaney |
-| 416 | 144 | Quirky Dashy |
-| 417 | 143 | Rachel Ballard |
-| 418 | 143 | Antonia Wyche |
-| 419 | 143 | Laura Morrison |
-| 420 | 143 | Alexis Garcia |
-| 421 | 143 | Marianne Lopez |
-| 422 | 141 | Roberta Arnold |
-| 423 | 141 | Lablaze |
-| 424 | 140 | Teddy Marshall |
+| 412 | 145 | Melissa Madison |
+| 413 | 145 | Bingo Wingo |
+| 414 | 144 | Quirky Dashy |
+| 415 | 144 | Jaay |
+| 416 | 144 | Jonathan Gaffaney |
+| 417 | 144 | Gina Annese |
+| 418 | 143 | Rachel Ballard |
+| 419 | 143 | Antonia Wyche |
+| 420 | 143 | Laura Morrison |
+| 421 | 143 | Alexis Garcia |
+| 422 | 143 | Marianne Lopez |
+| 423 | 141 | Roberta Arnold |
+| 424 | 141 | Lablaze |
 | 425 | 140 | Chris Kelly |
 | 426 | 140 | TetrisWoo |
 | 427 | 140 | Snippy Risebuilder |
-| 428 | 139 | Boldy Clear |
-| 429 | 138 | Ophelia Rae |
-| 430 | 138 | Scott Disedare |
-| 431 | 138 | MisfitH |
-| 432 | 137 | Peachy Curvetile |
-| 433 | 137 | Spicy Twister |
-| 434 | 137 | Porkobello |
-| 435 | 136 | Maxwell Hall |
-| 436 | 136 | Althea Louise |
-| 437 | 135 | Melissa Madison |
-| 438 | 134 | Armin Muhamed |
-| 439 | 134 | Greenbayfan |
+| 428 | 140 | Teddy Marshall |
+| 429 | 139 | Boldy Clear |
+| 430 | 138 | Ophelia Rae |
+| 431 | 138 | Scott Disedare |
+| 432 | 138 | MisfitH |
+| 433 | 137 | Peachy Curvetile |
+| 434 | 137 | Spicy Twister |
+| 435 | 137 | Porkobello |
+| 436 | 136 | Maxwell Hall |
+| 437 | 136 | Althea Louise |
+| 438 | 134 | Greenbayfan |
+| 439 | 134 | Armin Muhamed |
 | 440 | 134 | Yvonne Buie |
-| 441 | 133 | Pheezy |
-| 442 | 133 | Nicole Plummer |
-| 443 | 133 | Julie Miller |
-| 444 | 133 | David Larter |
+| 441 | 133 | Nicole Plummer |
+| 442 | 133 | Julie Miller |
+| 443 | 133 | David Larter |
+| 444 | 133 | Pheezy |
 | 445 | 132 | Jennifer Lynn |
 | 446 | 132 | Christina Rentz-Lane |
 | 447 | 131 | Sarah Perry Cook |
 | 448 | 131 | Megan Treacy |
 | 449 | 131 | Dizzy Glidebuilder |
-| 450 | 130 | Britters |
-| 451 | 130 | Erin Hodges Plumb |
-| 452 | 130 | Melody Rene |
-| 453 | 130 | Fancy Cascadebuilder |
-| 454 | 130 | Trevor J Armstrong |
+| 450 | 130 | Erin Hodges Plumb |
+| 451 | 130 | Fancy Cascadebuilder |
+| 452 | 130 | Trevor J Armstrong |
+| 453 | 130 | Britters |
+| 454 | 130 | Melody Rene |
 | 455 | 129 | Jennifer Negrete |
 | 456 | 129 | Amanda Pauldo-Ivy |
 | 457 | 129 | Ken McDonald |
