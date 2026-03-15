@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 08:06:41 UTC
+# Standings for team1 as of 2026-03-15 08:07:20 UTC
 
 **Total Participants:** 2168
 
@@ -1473,27 +1473,27 @@
 | 1465 | 33 | Melissa Stephens D Tenorio |
 | 1466 | 33 | Delzie J Leigh |
 | 1467 | 33 | Vanisha Williams |
-| 1468 | 33 | Steve Pacheco |
-| 1469 | 33 | Dreamy Staggerpiece |
-| 1470 | 33 | Buffy Medina |
-| 1471 | 33 | Sherri Drews |
-| 1472 | 33 | Lively Hitter |
-| 1473 | 33 | Michael Meyer |
-| 1474 | 33 | 805 |
-| 1475 | 33 | Kristen Martin |
-| 1476 | 33 | Montez Montez |
-| 1477 | 32 | Crystal Wells Hickman |
-| 1478 | 32 | Maryna Mykolaivna |
-| 1479 | 32 | Jenny Hughes |
-| 1480 | 32 | ajx |
-| 1481 | 32 | AJ |
-| 1482 | 32 | Pupcup |
-| 1483 | 32 | Jonathon Jones |
-| 1484 | 32 | Jpapi |
-| 1485 | 32 | PRICHARD |
-| 1486 | 32 | Felise Bee |
-| 1487 | 32 | Jake |
-| 1488 | 32 | Abrigo Sheldon |
+| 1468 | 33 | ajx |
+| 1469 | 33 | Steve Pacheco |
+| 1470 | 33 | Dreamy Staggerpiece |
+| 1471 | 33 | Buffy Medina |
+| 1472 | 33 | Sherri Drews |
+| 1473 | 33 | Lively Hitter |
+| 1474 | 33 | Michael Meyer |
+| 1475 | 33 | 805 |
+| 1476 | 33 | Kristen Martin |
+| 1477 | 33 | Montez Montez |
+| 1478 | 32 | Crystal Wells Hickman |
+| 1479 | 32 | Maryna Mykolaivna |
+| 1480 | 32 | Jenny Hughes |
+| 1481 | 32 | Pupcup |
+| 1482 | 32 | AJ |
+| 1483 | 32 | Jpapi |
+| 1484 | 32 | Jonathon Jones |
+| 1485 | 32 | Abrigo Sheldon |
+| 1486 | 32 | PRICHARD |
+| 1487 | 32 | Felise Bee |
+| 1488 | 32 | Shaneeka Morrissette |
 | 1489 | 32 | Larry Fritzinger |
 | 1490 | 32 | Nathanul Vogel |
 | 1491 | 32 | Christopher Tilley |
@@ -1501,7 +1501,7 @@
 | 1493 | 32 | Flashy Dasher |
 | 1494 | 32 | Jennifer Hardman |
 | 1495 | 32 | Richard Bearse |
-| 1496 | 32 | Shaneeka Morrissette |
+| 1496 | 32 | Jake |
 | 1497 | 32 | Chill Pivot |
 | 1498 | 32 | Duna Tats |
 | 1499 | 32 | knightdragon9 |
