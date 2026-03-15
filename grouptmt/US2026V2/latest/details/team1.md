@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 04:38:19 UTC
+# Standings for team1 as of 2026-03-15 04:38:42 UTC
 
 **Total Participants:** 2105
 
@@ -434,39 +434,39 @@
 | 426 | 140 | TetrisWoo |
 | 427 | 140 | Snippy Risebuilder |
 | 428 | 139 | Boldy Clear |
-| 429 | 138 | Scott Disedare |
-| 430 | 138 | MisfitH |
-| 431 | 138 | Ophelia Rae |
-| 432 | 137 | Spicy Twister |
-| 433 | 137 | Peachy Curvetile |
+| 429 | 138 | Ophelia Rae |
+| 430 | 138 | Scott Disedare |
+| 431 | 138 | MisfitH |
+| 432 | 137 | Peachy Curvetile |
+| 433 | 137 | Spicy Twister |
 | 434 | 137 | Porkobello |
 | 435 | 136 | Maxwell Hall |
 | 436 | 136 | Althea Louise |
 | 437 | 135 | Melissa Madison |
-| 438 | 134 | Greenbayfan |
-| 439 | 134 | Armin Muhamed |
+| 438 | 134 | Armin Muhamed |
+| 439 | 134 | Greenbayfan |
 | 440 | 134 | Yvonne Buie |
-| 441 | 133 | Julie Miller |
-| 442 | 133 | Pheezy |
-| 443 | 133 | Nicole Plummer |
-| 444 | 132 | Jennifer Lynn |
-| 445 | 132 | Christina Rentz-Lane |
-| 446 | 131 | Megan Treacy |
+| 441 | 133 | Pheezy |
+| 442 | 133 | Nicole Plummer |
+| 443 | 133 | Julie Miller |
+| 444 | 133 | David Larter |
+| 445 | 132 | Jennifer Lynn |
+| 446 | 132 | Christina Rentz-Lane |
 | 447 | 131 | Sarah Perry Cook |
-| 448 | 131 | Dizzy Glidebuilder |
-| 449 | 130 | Britters |
-| 450 | 130 | Erin Hodges Plumb |
-| 451 | 130 | Melody Rene |
-| 452 | 130 | Fancy Cascadebuilder |
-| 453 | 130 | Trevor J Armstrong |
-| 454 | 129 | Jennifer Negrete |
-| 455 | 129 | Amanda Pauldo-Ivy |
-| 456 | 129 | Ken McDonald |
-| 457 | 129 | Kellia S Johnson |
-| 458 | 129 | Flashy Stacky |
-| 459 | 129 | Evy |
-| 460 | 128 | Laci Hutson |
-| 461 | 127 | David Larter |
+| 448 | 131 | Megan Treacy |
+| 449 | 131 | Dizzy Glidebuilder |
+| 450 | 130 | Britters |
+| 451 | 130 | Erin Hodges Plumb |
+| 452 | 130 | Melody Rene |
+| 453 | 130 | Fancy Cascadebuilder |
+| 454 | 130 | Trevor J Armstrong |
+| 455 | 129 | Jennifer Negrete |
+| 456 | 129 | Amanda Pauldo-Ivy |
+| 457 | 129 | Ken McDonald |
+| 458 | 129 | Kellia S Johnson |
+| 459 | 129 | Flashy Stacky |
+| 460 | 129 | Evy |
+| 461 | 128 | Laci Hutson |
 | 462 | 127 | Carly |
 | 463 | 127 | Charles Herbert |
 | 464 | 127 | LT |
@@ -671,77 +671,77 @@
 | 663 | 87 | Dizzy Stackbuilder |
 | 664 | 87 | Moemoe Jackson |
 | 665 | 87 | Cheryl Villa |
-| 666 | 87 | Ernest Jordan |
-| 667 | 86 | Yang Desu |
+| 666 | 87 | Wings |
+| 667 | 87 | Ernest Jordan |
 | 668 | 86 | Lora Mae Spindler Young |
-| 669 | 86 | Kayla Marie Stevenson |
-| 670 | 86 | LaTisha Stillsmilin Hudson |
-| 671 | 86 | Misstery |
-| 672 | 86 | Itn |
-| 673 | 86 | Frilly Breaker |
-| 674 | 86 | Samantha Crowley |
-| 675 | 85 | Alexis Vogel |
-| 676 | 85 | Christian Pham |
-| 677 | 85 | svsninja |
-| 678 | 85 | Tracey Wilson |
-| 679 | 85 | Cynthia Herrmann Egland |
-| 680 | 85 | Chilly Matchbuilder |
-| 681 | 85 | Jessica Marie Long |
-| 682 | 84 | Chill Matchzone |
-| 683 | 84 | Stacy Patterson |
-| 684 | 84 | Renee Elam |
-| 685 | 84 | Moe Thought |
-| 686 | 84 | Luke Evans |
-| 687 | 84 | Raynsera |
-| 688 | 84 | James Alexander Gonzales |
-| 689 | 84 | Matthew Foley |
-| 690 | 83 | Wanda L Flanagan |
+| 669 | 86 | Frilly Breaker |
+| 670 | 86 | Kayla Marie Stevenson |
+| 671 | 86 | Itn |
+| 672 | 86 | Yang Desu |
+| 673 | 86 | Samantha Crowley |
+| 674 | 86 | Misstery |
+| 675 | 86 | LaTisha Stillsmilin Hudson |
+| 676 | 85 | Cynthia Herrmann Egland |
+| 677 | 85 | Tracey Wilson |
+| 678 | 85 | Chilly Matchbuilder |
+| 679 | 85 | svsninja |
+| 680 | 85 | Alexis Vogel |
+| 681 | 85 | Christian Pham |
+| 682 | 85 | Jessica Marie Long |
+| 683 | 84 | Matthew Foley |
+| 684 | 84 | Chill Matchzone |
+| 685 | 84 | Luke Evans |
+| 686 | 84 | Stacy Patterson |
+| 687 | 84 | Moe Thought |
+| 688 | 84 | Renee Elam |
+| 689 | 84 | James Alexander Gonzales |
+| 690 | 84 | Raynsera |
 | 691 | 83 | Matt Mullinax |
-| 692 | 83 | King D |
-| 693 | 83 | Carl Hampton |
-| 694 | 83 | Nate Funk |
-| 695 | 83 | Sandra Link-Gable |
-| 696 | 82 | Angela Renea Lester |
-| 697 | 82 | Happy Tilerpiece |
-| 698 | 82 | KingSteve |
-| 699 | 82 | Trishatta YoungDiva Watkins |
-| 700 | 82 | Kirstian Taylor Grimsley |
+| 692 | 83 | Carl Hampton |
+| 693 | 83 | Nate Funk |
+| 694 | 83 | Sandra Link-Gable |
+| 695 | 83 | Wanda L Flanagan |
+| 696 | 83 | King D |
+| 697 | 82 | Kirstian Taylor Grimsley |
+| 698 | 82 | Trishatta YoungDiva Watkins |
+| 699 | 82 | Happy Tilerpiece |
+| 700 | 82 | Angela Renea Lester |
 | 701 | 82 | KingRoss |
-| 702 | 81 | Joyce Fees |
+| 702 | 82 | KingSteve |
 | 703 | 81 | Snippy Line |
-| 704 | 81 | Betty |
+| 704 | 81 | Nicole McCune |
 | 705 | 81 | Lee Sipelii |
-| 706 | 81 | Smiley Clicky |
-| 707 | 81 | Robin Burress |
-| 708 | 81 | Nicole McCune |
-| 709 | 81 | Mandy Faye Jackson |
-| 710 | 81 | Michael Bruck |
-| 711 | 81 | Brian Schneider |
-| 712 | 80 | cheeryPrincess |
+| 706 | 81 | Betty |
+| 707 | 81 | Joyce Fees |
+| 708 | 81 | Brian Schneider |
+| 709 | 81 | Smiley Clicky |
+| 710 | 81 | Robin Burress |
+| 711 | 81 | Mandy Faye Jackson |
+| 712 | 81 | Michael Bruck |
 | 713 | 80 | Jessi Godsey |
 | 714 | 80 | Katt Brown-Thomas |
 | 715 | 80 | Beavis715 |
-| 716 | 80 | Tami Luce Martin |
-| 717 | 80 | Matthew Graves D.C. |
-| 718 | 80 | MaegenMarie Jones |
-| 719 | 80 | Rebecca Rognerud |
-| 720 | 80 | Ricardo Ferreira |
-| 721 | 80 | Dunlap Loretta |
-| 722 | 80 | Fredricka Cole |
-| 723 | 80 | Blaster007 |
-| 724 | 80 | Krazykat💋❤️💋 |
-| 725 | 79 | iceman |
-| 726 | 79 | Kelly Miller Williams |
-| 727 | 79 | Trey Petty |
-| 728 | 79 | Chin lock |
-| 729 | 79 | Nifty |
-| 730 | 79 | Lil H |
-| 731 | 78 | Leo Davis |
-| 732 | 78 | Wings |
-| 733 | 78 | Penny Clark |
-| 734 | 78 | Purple Pixie |
-| 735 | 78 | Texastytest |
-| 736 | 78 | Melissa Arrellano |
+| 716 | 80 | cheeryPrincess |
+| 717 | 80 | Blaster007 |
+| 718 | 80 | Matthew Graves D.C. |
+| 719 | 80 | MaegenMarie Jones |
+| 720 | 80 | Tami Luce Martin |
+| 721 | 80 | Rebecca Rognerud |
+| 722 | 80 | Ricardo Ferreira |
+| 723 | 80 | Dunlap Loretta |
+| 724 | 80 | Fredricka Cole |
+| 725 | 80 | Krazykat💋❤️💋 |
+| 726 | 79 | iceman |
+| 727 | 79 | Kelly Miller Williams |
+| 728 | 79 | Trey Petty |
+| 729 | 79 | Chin lock |
+| 730 | 79 | Nifty |
+| 731 | 79 | Lil H |
+| 732 | 78 | Leo Davis |
+| 733 | 78 | Melissa Arrellano |
+| 734 | 78 | Penny Clark |
+| 735 | 78 | Purple Pixie |
+| 736 | 78 | Texastytest |
 | 737 | 77 | Shay J Duval |
 | 738 | 77 | Maximusprime |
 | 739 | 77 | Vickie Valdez-Lopez |
