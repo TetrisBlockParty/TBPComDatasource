@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-15 08:06:20 UTC
+# Standings for team3 as of 2026-03-15 08:06:41 UTC
 
 **Total Participants:** 3355
 
@@ -418,11 +418,11 @@
 | 410 | 248 | Nicki Vogus |
 | 411 | 248 | Nerdy Tile |
 | 412 | 247 | Annie Kim |
-| 413 | 247 | Mmma |
-| 414 | 247 | Rona Fritzinger |
-| 415 | 247 | Hyper Buildsnap |
-| 416 | 246 | Amanda Marie |
-| 417 | 246 | Matthew Bayley-Hay |
+| 413 | 247 | Matthew Bayley-Hay |
+| 414 | 247 | Mmma |
+| 415 | 247 | Rona Fritzinger |
+| 416 | 247 | Hyper Buildsnap |
+| 417 | 246 | Amanda Marie |
 | 418 | 245 | Vskons |
 | 419 | 244 | Moose Chow Ski |
 | 420 | 244 | Boricua64 |
@@ -451,87 +451,87 @@
 | 443 | 236 | Irie |
 | 444 | 235 | Teenie |
 | 445 | 235 | Shan Marie |
-| 446 | 235 | Beeners |
-| 447 | 234 | Tee Jay Altringer |
-| 448 | 233 | Unapologetic' |
-| 449 | 233 | Elizabeth Pearson |
-| 450 | 232 | Debbie Corfield Lacy |
-| 451 | 232 | Sheila Burnham |
-| 452 | 231 | Gin |
-| 453 | 231 | CupCake |
-| 454 | 230 | Peppy |
-| 455 | 229 | Kristi Smith Hatton |
-| 456 | 227 | RVTRCR |
-| 457 | 227 | Chaz Duncan |
-| 458 | 227 | M Rock |
-| 459 | 227 | Peppy Tilt |
-| 460 | 226 | Heidie Miller |
-| 461 | 226 | lilseasonz |
-| 462 | 226 | Jasmine Sand |
-| 463 | 226 | Amanda Randolph |
-| 464 | 225 | bee |
-| 465 | 224 | Slinky Roll |
-| 466 | 223 | Shelly Garay |
-| 467 | 222 | Misty Lynn Callahan |
-| 468 | 222 | Leticia Werner |
-| 469 | 221 | Lenora Price |
-| 470 | 221 | Turk Montana |
-| 471 | 220 | Kelly Brenzil-Fewkes |
-| 472 | 220 | Jolly Brickster |
-| 473 | 219 | Sarah Morrissey |
-| 474 | 217 | Michelle Siriani |
-| 475 | 217 | Danielle R LP |
-| 476 | 217 | Brenda Gum |
-| 477 | 217 | Daniel Regiani |
-| 478 | 216 | Amanda Gray |
-| 479 | 215 | Giddy Fitline |
-| 480 | 214 | Kens Guth |
-| 481 | 214 | Bernadette Sanchez |
-| 482 | 214 | Leslie Ann-Marie |
-| 483 | 212 | Latisha Davis |
-| 484 | 212 | Swanky Pattern |
-| 485 | 212 | Speedy Hitter |
-| 486 | 211 | Dizzy Mover |
-| 487 | 210 | Sharon Cannata |
-| 488 | 210 | Nicili Thomas |
-| 489 | 210 | Veronica Leigh Sullivan |
-| 490 | 209 | UPBEATPANDA |
-| 491 | 209 | Valerie Woodall |
-| 492 | 209 | Riconda Gatewood |
+| 446 | 235 | Kennisha Fuller |
+| 447 | 235 | Beeners |
+| 448 | 234 | Tee Jay Altringer |
+| 449 | 233 | Unapologetic' |
+| 450 | 233 | Elizabeth Pearson |
+| 451 | 232 | Debbie Corfield Lacy |
+| 452 | 232 | Sheila Burnham |
+| 453 | 231 | Gin |
+| 454 | 231 | CupCake |
+| 455 | 230 | Peppy |
+| 456 | 229 | Kristi Smith Hatton |
+| 457 | 227 | RVTRCR |
+| 458 | 227 | Chaz Duncan |
+| 459 | 227 | M Rock |
+| 460 | 227 | Peppy Tilt |
+| 461 | 226 | Heidie Miller |
+| 462 | 226 | lilseasonz |
+| 463 | 226 | Jasmine Sand |
+| 464 | 226 | Amanda Randolph |
+| 465 | 225 | bee |
+| 466 | 224 | Slinky Roll |
+| 467 | 223 | Shelly Garay |
+| 468 | 222 | Misty Lynn Callahan |
+| 469 | 222 | Leticia Werner |
+| 470 | 221 | Lenora Price |
+| 471 | 221 | Turk Montana |
+| 472 | 220 | Kelly Brenzil-Fewkes |
+| 473 | 220 | Jolly Brickster |
+| 474 | 219 | Sarah Morrissey |
+| 475 | 217 | Michelle Siriani |
+| 476 | 217 | Danielle R LP |
+| 477 | 217 | Brenda Gum |
+| 478 | 217 | Daniel Regiani |
+| 479 | 216 | Amanda Gray |
+| 480 | 215 | Giddy Fitline |
+| 481 | 214 | Kens Guth |
+| 482 | 214 | Bernadette Sanchez |
+| 483 | 214 | Leslie Ann-Marie |
+| 484 | 212 | Latisha Davis |
+| 485 | 212 | Swanky Pattern |
+| 486 | 212 | Speedy Hitter |
+| 487 | 211 | Dizzy Mover |
+| 488 | 210 | Sharon Cannata |
+| 489 | 210 | Nicili Thomas |
+| 490 | 210 | Veronica Leigh Sullivan |
+| 491 | 209 | UPBEATPANDA |
+| 492 | 209 | Valerie Woodall |
 | 493 | 209 | Ash |
-| 494 | 208 | Caitlin Maag |
-| 495 | 208 | Trish Love |
-| 496 | 208 | Amelia Hollis |
-| 497 | 208 | Brianne Kubeczka |
-| 498 | 206 | Leslie Meyer |
-| 499 | 205 | John Jubes |
-| 500 | 205 | Lori Miller |
-| 501 | 204 | W |
-| 502 | 204 | Zany Snap |
-| 503 | 202 | Barbara Champayne Sanford |
-| 504 | 201 | Tipsy Risegrid |
-| 505 | 200 | Swanky Buildsnap |
-| 506 | 200 | Puppy |
-| 507 | 200 | ffff |
-| 508 | 200 | Spicy Edgepiece |
-| 509 | 200 | Cozy Dashgrid |
-| 510 | 199 | Justin Hannigan |
-| 511 | 199 | Ally |
-| 512 | 198 | iheartbunnies |
-| 513 | 198 | Breezy Clusterer |
-| 514 | 198 | Liz Littlefield |
-| 515 | 198 | Robin Getchel |
-| 516 | 198 | Katraya Dansby |
-| 517 | 197 | Mike Palmer |
-| 518 | 197 | Speedy Fitzone |
-| 519 | 197 | Sith Lord |
-| 520 | 197 | Perky Slam |
-| 521 | 196 | Susan A Kinsey |
-| 522 | 196 | Kyrie Cleasby |
-| 523 | 195 | KkBaby |
-| 524 | 195 | Atlantalindi |
-| 525 | 195 | LeahSlayah |
-| 526 | 194 | Kennisha Fuller |
+| 494 | 209 | Riconda Gatewood |
+| 495 | 208 | Caitlin Maag |
+| 496 | 208 | Trish Love |
+| 497 | 208 | Amelia Hollis |
+| 498 | 208 | Brianne Kubeczka |
+| 499 | 206 | Leslie Meyer |
+| 500 | 205 | John Jubes |
+| 501 | 205 | Lori Miller |
+| 502 | 204 | W |
+| 503 | 204 | Zany Snap |
+| 504 | 202 | Barbara Champayne Sanford |
+| 505 | 201 | Tipsy Risegrid |
+| 506 | 200 | Swanky Buildsnap |
+| 507 | 200 | Puppy |
+| 508 | 200 | ffff |
+| 509 | 200 | Spicy Edgepiece |
+| 510 | 200 | Cozy Dashgrid |
+| 511 | 199 | Justin Hannigan |
+| 512 | 199 | Ally |
+| 513 | 198 | iheartbunnies |
+| 514 | 198 | Breezy Clusterer |
+| 515 | 198 | Liz Littlefield |
+| 516 | 198 | Robin Getchel |
+| 517 | 198 | Katraya Dansby |
+| 518 | 197 | Mike Palmer |
+| 519 | 197 | Speedy Fitzone |
+| 520 | 197 | Sith Lord |
+| 521 | 197 | Perky Slam |
+| 522 | 196 | Susan A Kinsey |
+| 523 | 196 | Kyrie Cleasby |
+| 524 | 195 | KkBaby |
+| 525 | 195 | Atlantalindi |
+| 526 | 195 | LeahSlayah |
 | 527 | 194 | Rachel S Wilson |
 | 528 | 194 | Amanda Woodward |
 | 529 | 193 | Elaine Elaine |
@@ -717,45 +717,45 @@
 | 709 | 140 | Andrea Jamieson |
 | 710 | 140 | Hoppy Twistpiece |
 | 711 | 140 | Diana Atilano Lopez |
-| 712 | 140 | Dawn Renee Thomas |
-| 713 | 140 | Eloise Solt |
-| 714 | 140 | Jose Alvarado |
-| 715 | 139 | Jay Holladay |
-| 716 | 139 | Daryn Elliott |
-| 717 | 139 | Christina Ann Hodupp |
-| 718 | 139 | Juan Pablo Ortiz |
-| 719 | 139 | Jessica Grayson |
-| 720 | 139 | Giddy Climber |
-| 721 | 138 | Ashley Parker |
-| 722 | 138 | Boldy Curve |
-| 723 | 138 | Helena Smith |
-| 724 | 138 | April Shanahan |
-| 725 | 138 | Persephone |
-| 726 | 138 | Jere Crawford |
-| 727 | 138 | Patty Lynn Allison |
-| 728 | 138 | Courtney |
-| 729 | 137 | Teleah Allen |
-| 730 | 137 | Crafty Tile |
-| 731 | 137 | Brittany Chapman |
-| 732 | 137 | Deanna Woodley |
-| 733 | 137 | Adina Perry Boykin |
-| 734 | 137 | Alice |
-| 735 | 137 | Groovy Grabber |
-| 736 | 136 | Undeniable Williams |
-| 737 | 136 | Ben Segura |
-| 738 | 136 | Suzy Fox-Anderson |
-| 739 | 136 | Jl |
-| 740 | 136 | Karey Crone |
-| 741 | 136 | Charise McGee |
-| 742 | 136 | laylei12 |
-| 743 | 136 | Heather Woods |
-| 744 | 135 | Ta-Neha Smith-Parker |
-| 745 | 135 | Brittany Turner |
-| 746 | 135 | Tony Davis |
-| 747 | 135 | Snowkitt |
-| 748 | 135 | Jumpy Swiper |
-| 749 | 135 | Donald Calcutt |
-| 750 | 135 | Earvin Smiley |
+| 712 | 140 | Earvin Smiley |
+| 713 | 140 | Dawn Renee Thomas |
+| 714 | 140 | Eloise Solt |
+| 715 | 140 | Jose Alvarado |
+| 716 | 139 | Jay Holladay |
+| 717 | 139 | Daryn Elliott |
+| 718 | 139 | Christina Ann Hodupp |
+| 719 | 139 | Juan Pablo Ortiz |
+| 720 | 139 | Jessica Grayson |
+| 721 | 139 | Giddy Climber |
+| 722 | 138 | Ashley Parker |
+| 723 | 138 | Boldy Curve |
+| 724 | 138 | Helena Smith |
+| 725 | 138 | April Shanahan |
+| 726 | 138 | Persephone |
+| 727 | 138 | Jere Crawford |
+| 728 | 138 | Patty Lynn Allison |
+| 729 | 138 | Courtney |
+| 730 | 137 | Teleah Allen |
+| 731 | 137 | Crafty Tile |
+| 732 | 137 | Brittany Chapman |
+| 733 | 137 | Deanna Woodley |
+| 734 | 137 | Adina Perry Boykin |
+| 735 | 137 | Alice |
+| 736 | 137 | Groovy Grabber |
+| 737 | 136 | Undeniable Williams |
+| 738 | 136 | Ben Segura |
+| 739 | 136 | Suzy Fox-Anderson |
+| 740 | 136 | Jl |
+| 741 | 136 | Karey Crone |
+| 742 | 136 | Charise McGee |
+| 743 | 136 | laylei12 |
+| 744 | 136 | Heather Woods |
+| 745 | 135 | Ta-Neha Smith-Parker |
+| 746 | 135 | Brittany Turner |
+| 747 | 135 | Tony Davis |
+| 748 | 135 | Snowkitt |
+| 749 | 135 | Jumpy Swiper |
+| 750 | 135 | Donald Calcutt |
 | 751 | 135 | TriKaraTops |
 | 752 | 134 | Amanda LaBour |
 | 753 | 134 | Jus Cee |
