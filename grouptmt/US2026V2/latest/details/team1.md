@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 00:20:41 UTC
+# Standings for team1 as of 2026-03-15 00:21:20 UTC
 
 **Total Participants:** 1957
 
@@ -58,15 +58,15 @@
 | 50 | 1426 | Venechia Berry |
 | 51 | 1362 | Nathaniel Hughes |
 | 52 | 1344 | Justin Parker |
-| 53 | 1314 | Dom The Great |
-| 54 | 1272 | Kesha Brady |
-| 55 | 1238 | Melissa Kay Gibson |
-| 56 | 1202 | Velt Richardson |
-| 57 | 1198 | Jodie Peterson |
-| 58 | 1188 | Ryry |
-| 59 | 1171 | Cheeky Crusher |
-| 60 | 1150 | Angel Smith |
-| 61 | 1140 | Christie |
+| 53 | 1340 | Christie |
+| 54 | 1314 | Dom The Great |
+| 55 | 1272 | Kesha Brady |
+| 56 | 1238 | Melissa Kay Gibson |
+| 57 | 1202 | Velt Richardson |
+| 58 | 1198 | Jodie Peterson |
+| 59 | 1188 | Ryry |
+| 60 | 1171 | Cheeky Crusher |
+| 61 | 1150 | Angel Smith |
 | 62 | 1122 | Hellsin |
 | 63 | 1121 | Nancy |
 | 64 | 1019 | Giddy Cascade |
@@ -147,10 +147,10 @@
 | 139 | 415 | Jme |
 | 140 | 403 | beep |
 | 141 | 402 | Giddy Balancepiece |
-| 142 | 400 | Jessica Sheehan |
-| 143 | 400 | Yolanda M Harris |
-| 144 | 391 | Marie Shakinah |
-| 145 | 391 | Fluffy |
+| 142 | 400 | Yolanda M Harris |
+| 143 | 400 | Jessica Sheehan |
+| 144 | 391 | Fluffy |
+| 145 | 391 | Marie Shakinah |
 | 146 | 389 | Twisty Snapfit |
 | 147 | 388 | Joy Bloodworth |
 | 148 | 378 | paupau |
@@ -166,29 +166,29 @@
 | 158 | 358 | Shawn Kelso |
 | 159 | 358 | Tammy Lamb |
 | 160 | 356 | Rennon Scott Wilson |
-| 161 | 355 | Justin Jerome |
-| 162 | 355 | Mahman |
-| 163 | 353 | Angelina Maldonado |
-| 164 | 353 | Jess Rose |
+| 161 | 355 | Mahman |
+| 162 | 355 | Justin Jerome |
+| 163 | 353 | Jess Rose |
+| 164 | 353 | Angelina Maldonado |
 | 165 | 350 | Aden Moss |
 | 166 | 344 | TotoCherue |
-| 167 | 336 | Jasmine Riley |
-| 168 | 333 | Marianne Louise West |
-| 169 | 331 | Andrew Coulter |
-| 170 | 331 | jenna |
-| 171 | 330 | 1_Roxanne_3 |
-| 172 | 324 | Jr_420 |
+| 167 | 340 | Brandy Ridgeway |
+| 168 | 336 | Jasmine Riley |
+| 169 | 333 | Marianne Louise West |
+| 170 | 331 | Andrew Coulter |
+| 171 | 331 | jenna |
+| 172 | 330 | 1_Roxanne_3 |
 | 173 | 324 | Bouncy Wipeout |
-| 174 | 320 | Shiny Shiftspin |
-| 175 | 320 | Diamond Madison |
-| 176 | 313 | nameno |
-| 177 | 313 | Bryan Temple |
-| 178 | 312 | Macy Williams |
-| 179 | 309 | Dawn Hoffman |
-| 180 | 308 | Jena Overall Prescott |
-| 181 | 307 | Stephanie Myers |
-| 182 | 302 | Justin Feingold |
-| 183 | 300 | Brandy Ridgeway |
+| 174 | 324 | Jr_420 |
+| 175 | 320 | Shiny Shiftspin |
+| 176 | 320 | Diamond Madison |
+| 177 | 313 | nameno |
+| 178 | 313 | Bryan Temple |
+| 179 | 312 | Macy Williams |
+| 180 | 309 | Dawn Hoffman |
+| 181 | 308 | Jena Overall Prescott |
+| 182 | 307 | Stephanie Myers |
+| 183 | 302 | Justin Feingold |
 | 184 | 300 | Noelle Cicchillo |
 | 185 | 300 | Angel Mendez |
 | 186 | 300 | Shannon Ferrari |
@@ -290,8 +290,8 @@
 | 282 | 187 | Seaira Allen |
 | 283 | 187 | Shukee Lo |
 | 284 | 187 | Alicia Sheckler |
-| 285 | 185 | Cesar Morelos |
-| 286 | 184 | Kathy Karjala |
+| 285 | 186 | Kathy Karjala |
+| 286 | 185 | Cesar Morelos |
 | 287 | 184 | HugeLoad |
 | 288 | 184 | Mufi25 |
 | 289 | 183 | Mama Becky |
@@ -324,18 +324,18 @@
 | 316 | 168 | Lynn Perkins |
 | 317 | 166 | Quirky Catcher |
 | 318 | 166 | Rat666 |
-| 319 | 165 | Happy Shatterfit |
-| 320 | 165 | Elizabeth Hughes |
-| 321 | 163 | SpaceCase085 |
+| 319 | 165 | Mary Pelley |
+| 320 | 165 | Happy Shatterfit |
+| 321 | 165 | Elizabeth Hughes |
 | 322 | 163 | Sallie Sanborn |
-| 323 | 162 | Albert Josef Toves Means Jr. |
-| 324 | 161 | Mary Pelley |
-| 325 | 161 | DreamyMoon |
-| 326 | 161 | Rocky |
-| 327 | 160 | Dee |
-| 328 | 160 | Ed Bullen |
-| 329 | 160 | Florna Primrose |
-| 330 | 160 | Tee Tee Greene |
+| 323 | 163 | SpaceCase085 |
+| 324 | 162 | Albert Josef Toves Means Jr. |
+| 325 | 161 | Rocky |
+| 326 | 161 | DreamyMoon |
+| 327 | 160 | Ed Bullen |
+| 328 | 160 | Dee |
+| 329 | 160 | Tee Tee Greene |
+| 330 | 160 | Florna Primrose |
 | 331 | 160 | Amh |
 | 332 | 160 | Caitlin Zakrzewski |
 | 333 | 159 | mbij21 |
@@ -1734,58 +1734,58 @@
 | 1726 | 12 | Peachy Brickline |
 | 1727 | 12 | cac |
 | 1728 | 12 | Saucy curvr |
-| 1729 | 12 | Tonya Conner |
+| 1729 | 12 | Robaire |
 | 1730 | 12 | Carrie E Lamb Neal |
 | 1731 | 12 | Anna Bickford |
-| 1732 | 12 | AmMarie Ames |
-| 1733 | 12 | Angi Martinez |
-| 1734 | 12 | Robaire |
-| 1735 | 12 | Branden Blanch |
-| 1736 | 12 | Robert Earl Harper III |
+| 1732 | 12 | Angi Martinez |
+| 1733 | 12 | AmMarie Ames |
+| 1734 | 12 | Branden Blanch |
+| 1735 | 12 | Robert Earl Harper III |
+| 1736 | 12 | zeth |
 | 1737 | 12 | Cameron Burke |
-| 1738 | 12 | zeth |
-| 1739 | 12 | Jolly Piecebuilder |
-| 1740 | 12 | Sassy Gridmatch |
-| 1741 | 12 | britqueen |
-| 1742 | 11 | Beatrice Williams |
-| 1743 | 11 | Laura Harnage |
+| 1738 | 12 | Zion Hadley |
+| 1739 | 12 | Tonya Conner |
+| 1740 | 12 | britqueen |
+| 1741 | 12 | Jolly Piecebuilder |
+| 1742 | 12 | Sassy Gridmatch |
+| 1743 | 11 | Peg |
 | 1744 | 11 | Frank Jusyandfair |
 | 1745 | 11 | Spicy Tiley |
 | 1746 | 11 | Bree Prine |
-| 1747 | 11 | knightdragon9 |
-| 1748 | 11 | MaryAnn Griffin |
-| 1749 | 11 | Selena Rodriguez |
-| 1750 | 11 | Kristi Catron |
-| 1751 | 11 | Chipper Snapfit |
-| 1752 | 11 | Happy Brickclear |
-| 1753 | 11 | Peg |
-| 1754 | 11 | Dizzy Catcher |
-| 1755 | 11 | Zion Hadley |
+| 1747 | 11 | Beatrice Williams |
+| 1748 | 11 | knightdragon9 |
+| 1749 | 11 | MaryAnn Griffin |
+| 1750 | 11 | Selena Rodriguez |
+| 1751 | 11 | Kristi Catron |
+| 1752 | 11 | Chipper Snapfit |
+| 1753 | 11 | Happy Brickclear |
+| 1754 | 11 | Laura Harnage |
+| 1755 | 11 | Spunky |
 | 1756 | 11 | Kakalina Thayer |
-| 1757 | 11 | Spunky |
+| 1757 | 11 | Dizzy Catcher |
 | 1758 | 11 | QueenBea13 |
-| 1759 | 11 | Betty Ann Saavedra |
-| 1760 | 11 | Phyllis Odister |
-| 1761 | 10 | ChasingZen |
-| 1762 | 10 | KyleBee |
+| 1759 | 11 | Phyllis Odister |
+| 1760 | 11 | Betty Ann Saavedra |
+| 1761 | 10 | Armando Reyna |
+| 1762 | 10 | Lt1985 |
 | 1763 | 10 | dionycyst |
-| 1764 | 10 | Lt1985 |
+| 1764 | 10 | KyleBee |
 | 1765 | 10 | Dapper Matchfit |
 | 1766 | 10 | Murphy Courville |
 | 1767 | 10 | Dizzy Tetriblast |
-| 1768 | 10 | Afrodude |
-| 1769 | 10 | Tipsy Zone |
+| 1768 | 10 | Tipsy Zone |
+| 1769 | 10 | Afrodude |
 | 1770 | 10 | Scott Reynolds |
-| 1771 | 10 | Armando Reyna |
-| 1772 | 10 | Jody Jackson |
-| 1773 | 10 | Jamise Strickland |
-| 1774 | 10 | Peppy Piececlear |
-| 1775 | 10 | Dandy Spinfit |
-| 1776 | 10 | Sonya Harris Combs |
-| 1777 | 10 | Tracie Corbett |
+| 1771 | 10 | ChasingZen |
+| 1772 | 10 | Cozy Builderfit |
+| 1773 | 10 | Jody Jackson |
+| 1774 | 10 | Sonya Harris Combs |
+| 1775 | 10 | Peppy Piececlear |
+| 1776 | 10 | Dandy Spinfit |
+| 1777 | 10 | Jamise Strickland |
 | 1778 | 10 | Christina Rodriguez |
-| 1779 | 10 | Elena Sanchez Damian |
-| 1780 | 10 | Cozy Builderfit |
+| 1779 | 10 | Tracie Corbett |
+| 1780 | 10 | Elena Sanchez Damian |
 | 1781 | 10 | Mila Harper |
 | 1782 | 10 | Katrina Cuffe |
 | 1783 | 10 | INURGURL8R |
