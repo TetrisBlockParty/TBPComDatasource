@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 00:40:19 UTC
+# Standings for team1 as of 2026-03-15 00:40:40 UTC
 
 **Total Participants:** 1967
 
@@ -87,8 +87,8 @@
 | 79 | 808 | Irene Medina |
 | 80 | 804 | Tom |
 | 81 | 802 | wildMan |
-| 82 | 792 | Tim Raper |
-| 83 | 792 | L3sli3 |
+| 82 | 792 | L3sli3 |
+| 83 | 792 | Tim Raper |
 | 84 | 790 | Michael DeRosa |
 | 85 | 777 | Amee Schnarrs |
 | 86 | 773 | Donald Nguyen |
@@ -131,7 +131,7 @@
 | 123 | 519 | Crafty Dash |
 | 124 | 516 | Marie Helman |
 | 125 | 514 | Heather Bell |
-| 126 | 503 | Shaynna Garza |
+| 126 | 505 | Shaynna Garza |
 | 127 | 487 | Ashley Olson |
 | 128 | 479 | Legendary |
 | 129 | 477 | Yolanda M Harris |
@@ -145,23 +145,23 @@
 | 137 | 449 | Penny Morrical |
 | 138 | 438 | Robert Everett |
 | 139 | 417 | Simmone T. Kadiri |
-| 140 | 416 | Tisha Cammack |
-| 141 | 415 | Jme |
-| 142 | 409 | Joy Bloodworth |
-| 143 | 403 | beep |
-| 144 | 400 | Jessica Sheehan |
-| 145 | 391 | Marie Shakinah |
+| 140 | 417 | Perky Shatterline |
+| 141 | 416 | Tisha Cammack |
+| 142 | 415 | Jme |
+| 143 | 409 | Joy Bloodworth |
+| 144 | 403 | beep |
+| 145 | 400 | Jessica Sheehan |
 | 146 | 391 | Fluffy |
-| 147 | 389 | Twisty Snapfit |
-| 148 | 383 | Shawn Kelso |
-| 149 | 381 | paupau |
-| 150 | 377 | Frilly Climber |
-| 151 | 375 | Fancy Ziggy |
-| 152 | 373 | Snippy Stacky |
-| 153 | 371 | Sheree Twiddy Thornton |
-| 154 | 367 | Dramatic Tiger |
-| 155 | 366 | Sassy Cascadepiece |
-| 156 | 363 | Perky Shatterline |
+| 147 | 391 | Marie Shakinah |
+| 148 | 389 | Twisty Snapfit |
+| 149 | 383 | Shawn Kelso |
+| 150 | 381 | paupau |
+| 151 | 377 | Frilly Climber |
+| 152 | 375 | Fancy Ziggy |
+| 153 | 373 | Snippy Stacky |
+| 154 | 371 | Sheree Twiddy Thornton |
+| 155 | 367 | Dramatic Tiger |
+| 156 | 366 | Sassy Cascadepiece |
 | 157 | 362 | Erin Halleman |
 | 158 | 361 | Lisa Marie Sansom |
 | 159 | 360 | Brandy Ridgeway |
@@ -1470,22 +1470,22 @@
 | 1462 | 24 | Mariah Cornell |
 | 1463 | 24 | Brenna Ann Brewer |
 | 1464 | 24 | AsianTurtles |
-| 1465 | 24 | Tristan Taylor |
-| 1466 | 23 | David Campbell |
-| 1467 | 23 | YF Luna |
-| 1468 | 23 | Cara Leonard |
-| 1469 | 23 | atomictrin |
-| 1470 | 23 | Amanda Stevens |
-| 1471 | 23 | Greg G-Rob Robinson |
-| 1472 | 23 | Tazz |
-| 1473 | 23 | Joshua Lipscomb |
-| 1474 | 23 | Loony Glider |
-| 1475 | 23 | Flashy Dasher |
-| 1476 | 23 | Scot Linsin |
-| 1477 | 23 | Frilly T-spin |
-| 1478 | 23 | Tee Widmer |
-| 1479 | 23 | Jill Goff |
-| 1480 | 22 | Phrank |
+| 1465 | 24 | Phrank |
+| 1466 | 24 | Tristan Taylor |
+| 1467 | 23 | David Campbell |
+| 1468 | 23 | YF Luna |
+| 1469 | 23 | Cara Leonard |
+| 1470 | 23 | atomictrin |
+| 1471 | 23 | Amanda Stevens |
+| 1472 | 23 | Greg G-Rob Robinson |
+| 1473 | 23 | Tazz |
+| 1474 | 23 | Joshua Lipscomb |
+| 1475 | 23 | Loony Glider |
+| 1476 | 23 | Flashy Dasher |
+| 1477 | 23 | Scot Linsin |
+| 1478 | 23 | Frilly T-spin |
+| 1479 | 23 | Tee Widmer |
+| 1480 | 23 | Jill Goff |
 | 1481 | 22 | Frank Smith |
 | 1482 | 22 | Connie Lepore-Mann |
 | 1483 | 22 | Kriket |
