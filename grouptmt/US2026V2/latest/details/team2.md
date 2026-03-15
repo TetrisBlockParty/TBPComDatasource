@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 11:40:43 UTC
+# Standings for team2 as of 2026-03-15 11:41:21 UTC
 
 **Total Participants:** 2209
 
@@ -58,7 +58,7 @@
 | 50 | 1479 | Elizabeth Crowder Pelton |
 | 51 | 1461 | Erica Davis |
 | 52 | 1419 | Elizabeth Sallas |
-| 53 | 1408 | Bubbly Twistpiece |
+| 53 | 1410 | Bubbly Twistpiece |
 | 54 | 1359 | Susan Fazio Edwards |
 | 55 | 1314 | Becky McClure |
 | 56 | 1313 | Jennifer Gartland |
@@ -612,33 +612,33 @@
 | 604 | 118 | Marcus Todd |
 | 605 | 118 | Dusti Holbrook |
 | 606 | 117 | Lilykye |
-| 607 | 117 | Cookie |
+| 607 | 117 | Spunky Balancefit |
 | 608 | 117 | Ryan Martin |
 | 609 | 117 | Jenn |
-| 610 | 117 | Kris Owls |
-| 611 | 117 | Zesty Clear |
-| 612 | 117 | Greg Shekailo |
-| 613 | 116 | BuzyBee |
-| 614 | 115 | kitykat |
-| 615 | 115 | Pamela Knapp |
-| 616 | 115 | Mike Hromowyk |
-| 617 | 115 | Robin |
-| 618 | 115 | Marc Anthony Lopez |
-| 619 | 113 | Christian Caro |
-| 620 | 113 | Nicci |
-| 621 | 113 | Jumpy Cascadeclear |
-| 622 | 113 | Cool Cornerfall |
-| 623 | 113 | Swanky Matchpiece |
-| 624 | 112 | Becki Lynne Corinthos |
-| 625 | 112 | Γωγώ Τσιρόγκα |
-| 626 | 112 | Sbs |
-| 627 | 112 | JZoya  Scott |
-| 628 | 112 | Roxana Shaffer Goff |
-| 629 | 112 | LD1 |
-| 630 | 112 | Giggly Shatterline |
-| 631 | 111 | Amy Jur Falk |
-| 632 | 111 | Austin Vice |
-| 633 | 111 | Spunky Balancefit |
+| 610 | 117 | Cookie |
+| 611 | 117 | Kris Owls |
+| 612 | 117 | Zesty Clear |
+| 613 | 117 | Greg Shekailo |
+| 614 | 116 | BuzyBee |
+| 615 | 115 | kitykat |
+| 616 | 115 | Pamela Knapp |
+| 617 | 115 | Mike Hromowyk |
+| 618 | 115 | Robin |
+| 619 | 115 | Marc Anthony Lopez |
+| 620 | 113 | Christian Caro |
+| 621 | 113 | Nicci |
+| 622 | 113 | Jumpy Cascadeclear |
+| 623 | 113 | Cool Cornerfall |
+| 624 | 113 | Swanky Matchpiece |
+| 625 | 112 | Becki Lynne Corinthos |
+| 626 | 112 | Γωγώ Τσιρόγκα |
+| 627 | 112 | Sbs |
+| 628 | 112 | JZoya  Scott |
+| 629 | 112 | Roxana Shaffer Goff |
+| 630 | 112 | LD1 |
+| 631 | 112 | Giggly Shatterline |
+| 632 | 111 | Amy Jur Falk |
+| 633 | 111 | Austin Vice |
 | 634 | 111 | Bethany H. Tunison |
 | 635 | 111 | Sha45 |
 | 636 | 110 | Chyrisse Norton |
