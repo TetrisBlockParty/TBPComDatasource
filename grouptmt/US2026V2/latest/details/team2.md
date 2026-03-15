@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 08:55:22 UTC
+# Standings for team2 as of 2026-03-15 08:56:40 UTC
 
 **Total Participants:** 2172
 
@@ -198,31 +198,31 @@
 | 190 | 381 | Jocelynn Marie |
 | 191 | 380 | Snappy Bridgepiece |
 | 192 | 380 | Sandy Aragon |
-| 193 | 377 | Paul Hudak |
-| 194 | 371 | hyper Zip |
-| 195 | 370 | BYM4L |
-| 196 | 370 | Shawn Haines |
-| 197 | 368 | Dee Doubleyou |
-| 198 | 368 | Tiff Vs Tiffany |
-| 199 | 363 | CharalaAnn |
-| 200 | 358 | Elizabeth Mauri |
-| 201 | 356 | Connie Mohler-Fair |
-| 202 | 355 | Shelly |
-| 203 | 355 | Jumpy Breaker |
-| 204 | 355 | Nick Kozik |
-| 205 | 352 | Jay |
-| 206 | 349 | Liz Wambsgans |
-| 207 | 349 | Elizabeth Ostrom |
-| 208 | 342 | Dre Man |
-| 209 | 341 | Kevin Blevins |
-| 210 | 340 | YAE |
-| 211 | 335 | Plucky Snaplink |
-| 212 | 333 | Emily Wooden |
-| 213 | 332 | Tommy Proctor |
-| 214 | 330 | Jazzy Piecebuilder |
-| 215 | 330 | BluBae |
-| 216 | 330 | Jt Home |
-| 217 | 328 | Michelle Allers |
+| 193 | 380 | Michelle Allers |
+| 194 | 377 | Paul Hudak |
+| 195 | 371 | hyper Zip |
+| 196 | 370 | BYM4L |
+| 197 | 370 | Shawn Haines |
+| 198 | 368 | Dee Doubleyou |
+| 199 | 368 | Tiff Vs Tiffany |
+| 200 | 363 | CharalaAnn |
+| 201 | 358 | Elizabeth Mauri |
+| 202 | 356 | Connie Mohler-Fair |
+| 203 | 355 | Shelly |
+| 204 | 355 | Jumpy Breaker |
+| 205 | 355 | Nick Kozik |
+| 206 | 352 | Jay |
+| 207 | 349 | Liz Wambsgans |
+| 208 | 349 | Elizabeth Ostrom |
+| 209 | 342 | Dre Man |
+| 210 | 341 | Kevin Blevins |
+| 211 | 340 | YAE |
+| 212 | 335 | Plucky Snaplink |
+| 213 | 333 | Emily Wooden |
+| 214 | 332 | Tommy Proctor |
+| 215 | 330 | Jazzy Piecebuilder |
+| 216 | 330 | BluBae |
+| 217 | 330 | Jt Home |
 | 218 | 326 | Kyesha Goodyear |
 | 219 | 322 | Jumpy Smasher |
 | 220 | 321 | Laura Smith |
@@ -259,15 +259,15 @@
 | 251 | 280 | Sandra Safford |
 | 252 | 280 | Smiley Shatter |
 | 253 | 280 | Breeana Bennett |
-| 254 | 277 | Ella Marzano |
+| 254 | 278 | Starr |
 | 255 | 277 | Jenni Garcia-Vogelhut |
 | 256 | 277 | Mandy |
-| 257 | 276 | Ashley Marie |
-| 258 | 276 | Ben Dove |
-| 259 | 275 | Camila Gerow |
-| 260 | 275 | Amelia Anderson |
-| 261 | 275 | SD Temple |
-| 262 | 275 | Starr |
+| 257 | 277 | Ella Marzano |
+| 258 | 276 | Ashley Marie |
+| 259 | 276 | Ben Dove |
+| 260 | 275 | Camila Gerow |
+| 261 | 275 | Amelia Anderson |
+| 262 | 275 | SD Temple |
 | 263 | 274 | Tipsy Glidezone |
 | 264 | 273 | Yoyareese |
 | 265 | 272 | Courtney Cicoria |
@@ -444,21 +444,21 @@
 | 436 | 160 | Chilly Fallgrid |
 | 437 | 160 | Jason Allen |
 | 438 | 158 | Porsche' Nicole |
-| 439 | 158 | Brittany Backus |
-| 440 | 157 | Frisky Riserbuilder |
-| 441 | 157 | John De Guzman Sydiongco |
-| 442 | 156 | Cheeky Dashy |
-| 443 | 156 | SuZee |
-| 444 | 156 | Dreamy Snapbuilder |
-| 445 | 154 | Brandy Hayhurst |
-| 446 | 154 | Jess Ortiz |
-| 447 | 154 | Morgan Anne Witty |
-| 448 | 154 | Alexander Zamora |
-| 449 | 153 | Lucy Honer |
+| 439 | 158 | Lucy Honer |
+| 440 | 158 | Brittany Backus |
+| 441 | 157 | Frisky Riserbuilder |
+| 442 | 157 | John De Guzman Sydiongco |
+| 443 | 156 | Cheeky Dashy |
+| 444 | 156 | SuZee |
+| 445 | 156 | Dreamy Snapbuilder |
+| 446 | 154 | Brandy Hayhurst |
+| 447 | 154 | Jess Ortiz |
+| 448 | 154 | Morgan Anne Witty |
+| 449 | 154 | Alexander Zamora |
 | 450 | 153 | Christy Green |
 | 451 | 152 | Anthony Magaraci |
-| 452 | 151 | Ashley Danielle |
-| 453 | 151 | Lemon Bar |
+| 452 | 151 | Lemon Bar |
+| 453 | 151 | Ashley Danielle |
 | 454 | 151 | Luna |
 | 455 | 150 | Tracey Whetstone |
 | 456 | 150 | Brave Fallzone |
@@ -474,8 +474,8 @@
 | 466 | 147 | Jenny Carrier |
 | 467 | 147 | NoShoesNation |
 | 468 | 147 | Jazzy Hitter |
-| 469 | 146 | Elizabeth Blankenship |
-| 470 | 146 | Chill Builder |
+| 469 | 146 | Chill Builder |
+| 470 | 146 | Elizabeth Blankenship |
 | 471 | 146 | Jen Robinson |
 | 472 | 145 | Steady Treal |
 | 473 | 145 | Goofy Towerer |
@@ -483,11 +483,11 @@
 | 475 | 145 | Kelly Williams |
 | 476 | 144 | JTH |
 | 477 | 144 | Candy Brooks |
-| 478 | 144 | Mandi Mayweather |
-| 479 | 144 | Wishabishwood |
+| 478 | 144 | Juana |
+| 479 | 144 | Brandon Maxey |
 | 480 | 144 | Marc Abney |
-| 481 | 144 | Juana |
-| 482 | 144 | Brandon Maxey |
+| 481 | 144 | Mandi Mayweather |
+| 482 | 144 | Wishabishwood |
 | 483 | 142 | Kirsten Hanes Gasper |
 | 484 | 142 | Montiette Mcglown |
 | 485 | 142 | Nicole Lynnette Mahurin |
