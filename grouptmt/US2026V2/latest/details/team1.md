@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 06:26:16 UTC
+# Standings for team1 as of 2026-03-15 06:26:38 UTC
 
 **Total Participants:** 2143
 
@@ -378,7 +378,7 @@
 | 370 | 179 | Chris |
 | 371 | 179 | Kim Bays |
 | 372 | 178 | Mary Cerciello |
-| 373 | 177 | Sabrina Frazier |
+| 373 | 178 | Sabrina Frazier |
 | 374 | 176 | Andrew Duron |
 | 375 | 175 | Shiny Patternblock |
 | 376 | 174 | Flashy Rotator |
@@ -1783,51 +1783,51 @@
 | 1775 | 18 | Bouncy Setter |
 | 1776 | 18 | Epic Cascadeclear |
 | 1777 | 18 | om |
-| 1778 | 18 | YaKima Frisby Walker |
-| 1779 | 18 | Keegan King-steele |
-| 1780 | 18 | Hasty Builderpiece |
-| 1781 | 18 | Hotstuff |
-| 1782 | 18 | Jennifer Brandle |
-| 1783 | 18 | Tania Flores |
-| 1784 | 18 | John Cruz |
-| 1785 | 18 | Giddy Tilefall |
-| 1786 | 18 | Cucumber Melondrops |
-| 1787 | 18 | Janet Snipes Kimmel |
+| 1778 | 18 | Keegan King-steele |
+| 1779 | 18 | Jennifer Brandle |
+| 1780 | 18 | Tania Flores |
+| 1781 | 18 | YaKima Frisby Walker |
+| 1782 | 18 | Hasty Builderpiece |
+| 1783 | 18 | John Cruz |
+| 1784 | 18 | Giddy Tilefall |
+| 1785 | 18 | Janet Snipes Kimmel |
+| 1786 | 18 | Hotstuff |
+| 1787 | 18 | Cucumber Melondrops |
 | 1788 | 18 | Elena Chunak |
 | 1789 | 18 | Chelsey Ann |
 | 1790 | 18 | Dc |
-| 1791 | 17 | Annette Bamburg |
-| 1792 | 17 | Teresa Dison |
-| 1793 | 17 | e |
+| 1791 | 17 | Teresa Dison |
+| 1792 | 17 | Trish Podann |
+| 1793 | 17 | Annette Bamburg |
 | 1794 | 17 | Nonna Jamie Watt |
-| 1795 | 17 | F3MM3F4T4L3 |
-| 1796 | 17 | The Chef |
-| 1797 | 17 | Trish Podann |
-| 1798 | 17 | Joe Coon |
-| 1799 | 17 | Toni Forbus |
-| 1800 | 17 | Mone't King |
+| 1795 | 17 | Joe Coon |
+| 1796 | 17 | F3MM3F4T4L3 |
+| 1797 | 17 | The Chef |
+| 1798 | 17 | e |
+| 1799 | 17 | Mone't King |
+| 1800 | 17 | Toni Forbus |
 | 1801 | 17 | Sunny Glidebuilder |
-| 1802 | 17 | Chelsey Marie Stump |
-| 1803 | 17 | Tiffnay Burts |
-| 1804 | 17 | Teela Downs |
-| 1805 | 17 | Santana Valeri |
-| 1806 | 17 | Kayla McArthur |
+| 1802 | 17 | Tiffnay Burts |
+| 1803 | 17 | Santana Valeri |
+| 1804 | 17 | Chelsey Marie Stump |
+| 1805 | 17 | Teela Downs |
+| 1806 | 17 | Rob Taylor |
 | 1807 | 17 | DynamicQuail10 |
-| 1808 | 17 | Rob Taylor |
-| 1809 | 17 | Ashlee Carnes |
-| 1810 | 17 | Speedy G |
-| 1811 | 16 | KMart |
-| 1812 | 16 | Gina Angeles Libunao Rondez |
-| 1813 | 16 | flip |
-| 1814 | 16 | Idaho |
-| 1815 | 16 | Linda Mccratic |
-| 1816 | 16 | Dandy Filler |
-| 1817 | 16 | Derrick See |
-| 1818 | 16 | Andee Bo Bandee |
+| 1808 | 17 | Ashlee Carnes |
+| 1809 | 17 | Speedy G |
+| 1810 | 17 | Kayla McArthur |
+| 1811 | 16 | Gina Angeles Libunao Rondez |
+| 1812 | 16 | Laurel |
+| 1813 | 16 | Maricia Coleman |
+| 1814 | 16 | Linda Mccratic |
+| 1815 | 16 | Idaho |
+| 1816 | 16 | flip |
+| 1817 | 16 | KMart |
+| 1818 | 16 | Derrick See |
 | 1819 | 16 | Jessica Goble |
-| 1820 | 16 | Danielle Sperry |
-| 1821 | 16 | Laurel |
-| 1822 | 16 | Maricia Coleman |
+| 1820 | 16 | Andee Bo Bandee |
+| 1821 | 16 | Danielle Sperry |
+| 1822 | 16 | Dandy Filler |
 | 1823 | 16 | Giggy Brickmatch |
 | 1824 | 16 | Alex Wilson Wilson |
 | 1825 | 16 | Jessica Pender |
@@ -1836,50 +1836,50 @@
 | 1828 | 16 | Lindsey Smith |
 | 1829 | 16 | Tbuzz |
 | 1830 | 16 | Witty Cascader |
-| 1831 | 16 | Samantha Valdez |
-| 1832 | 16 | Lydia Reed |
-| 1833 | 16 | Fancy Piecebuilder |
-| 1834 | 15 | Octavia Bryson |
-| 1835 | 15 | millcitykid |
+| 1831 | 16 | Fancy Piecebuilder |
+| 1832 | 16 | Samantha Valdez |
+| 1833 | 16 | Lydia Reed |
+| 1834 | 15 | Cass Simpson |
+| 1835 | 15 | Brittany Lynn Cullen-Lyons |
 | 1836 | 15 | Esav Castro |
 | 1837 | 15 | Zesty Fitclear |
 | 1838 | 15 | TUGGER |
-| 1839 | 15 | Cass Simpson |
-| 1840 | 15 | Chad |
-| 1841 | 15 | Ruhshikuh Lakor |
+| 1839 | 15 | frasls |
+| 1840 | 15 | Kristien Creek |
+| 1841 | 15 | Chad |
 | 1842 | 15 | Cara Baca Duarte |
-| 1843 | 15 | Spam |
-| 1844 | 15 | SamanthaJo Apthorpe |
+| 1843 | 15 | SamanthaJo Apthorpe |
+| 1844 | 15 | Ruhshikuh Lakor |
 | 1845 | 15 | Allison JG |
-| 1846 | 15 | Kristien Creek |
-| 1847 | 15 | Summer Moore |
-| 1848 | 15 | Peg |
-| 1849 | 15 | Gary Kyle |
-| 1850 | 15 | deeznutz |
-| 1851 | 15 | Ashley Conners |
-| 1852 | 15 | Shele Casey |
-| 1853 | 15 | Ody |
-| 1854 | 15 | Robert Earl Harper III |
-| 1855 | 15 | Kelli Skeen |
-| 1856 | 15 | Mighty Piececlear |
-| 1857 | 15 | WasagaSqueezer |
-| 1858 | 15 | Adam Stephanie Parker |
-| 1859 | 15 | Loopy Striker |
-| 1860 | 15 | Samie |
-| 1861 | 15 | Shane Thon |
-| 1862 | 15 | Kaitlyn Mambro |
-| 1863 | 15 | Vinny |
-| 1864 | 15 | Brittany Lynn Cullen-Lyons |
-| 1865 | 14 | Cindy Lee Johnson |
-| 1866 | 14 | Jasmyne Moreno |
-| 1867 | 14 | Jaime Wilson |
-| 1868 | 14 | April Moore |
-| 1869 | 14 | Gabriella Tamayo |
-| 1870 | 14 | Poppy Lift |
-| 1871 | 14 | Hobohustle |
-| 1872 | 14 | MarLa Alioto |
-| 1873 | 14 | prittywittyladi |
-| 1874 | 14 | frasls |
+| 1846 | 15 | Spam |
+| 1847 | 15 | deeznutz |
+| 1848 | 15 | Loopy Striker |
+| 1849 | 15 | Summer Moore |
+| 1850 | 15 | Gary Kyle |
+| 1851 | 15 | Peg |
+| 1852 | 15 | Ashley Conners |
+| 1853 | 15 | Shele Casey |
+| 1854 | 15 | millcitykid |
+| 1855 | 15 | Ody |
+| 1856 | 15 | Robert Earl Harper III |
+| 1857 | 15 | Octavia Bryson |
+| 1858 | 15 | WasagaSqueezer |
+| 1859 | 15 | Kelli Skeen |
+| 1860 | 15 | Adam Stephanie Parker |
+| 1861 | 15 | Mighty Piececlear |
+| 1862 | 15 | Shane Thon |
+| 1863 | 15 | Samie |
+| 1864 | 15 | Kaitlyn Mambro |
+| 1865 | 15 | Vinny |
+| 1866 | 14 | Cindy Lee Johnson |
+| 1867 | 14 | Jasmyne Moreno |
+| 1868 | 14 | Jaime Wilson |
+| 1869 | 14 | April Moore |
+| 1870 | 14 | Gabriella Tamayo |
+| 1871 | 14 | Poppy Lift |
+| 1872 | 14 | Hobohustle |
+| 1873 | 14 | MarLa Alioto |
+| 1874 | 14 | prittywittyladi |
 | 1875 | 14 | Haykid14 |
 | 1876 | 14 | Sylvia Black |
 | 1877 | 14 | Spunky Zone |
@@ -1887,8 +1887,8 @@
 | 1879 | 14 | Chris Sigurdson |
 | 1880 | 13 | Evojaz |
 | 1881 | 13 | Jessica Shiloh Anderson |
-| 1882 | 13 | pretty kitty |
-| 1883 | 13 | Sirenzkiss |
+| 1882 | 13 | Sirenzkiss |
+| 1883 | 13 | pretty kitty |
 | 1884 | 13 | Disha Chaudhari |
 | 1885 | 13 | Matthew Boudah |
 | 1886 | 13 | Rocky Papaboy |
