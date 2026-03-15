@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 15:44:20 UTC
+# Standings for team2 as of 2026-03-15 15:44:44 UTC
 
 **Total Participants:** 2287
 
@@ -236,8 +236,8 @@
 | 228 | 358 | Slippery Clam |
 | 229 | 358 | Elizabeth Mauri |
 | 230 | 355 | Abby Jensen |
-| 231 | 354 | Mandy |
-| 232 | 353 | YAE |
+| 231 | 355 | YAE |
+| 232 | 354 | Mandy |
 | 233 | 353 | Bouncy Swiper |
 | 234 | 349 | eMzzz |
 | 235 | 349 | Liz Wambsgans |
@@ -300,12 +300,12 @@
 | 292 | 279 | Mighty Zone |
 | 293 | 279 | David V. Bowers |
 | 294 | 278 | Starr |
-| 295 | 277 | Jenni Garcia-Vogelhut |
-| 296 | 277 | Ess |
-| 297 | 277 | nina |
-| 298 | 277 | Ella Marzano |
-| 299 | 276 | Ben Dove |
-| 300 | 276 | KEILANIU |
+| 295 | 277 | KEILANIU |
+| 296 | 277 | Jenni Garcia-Vogelhut |
+| 297 | 277 | Ess |
+| 298 | 277 | nina |
+| 299 | 277 | Ella Marzano |
+| 300 | 276 | Ben Dove |
 | 301 | 275 | Amelia Anderson |
 | 302 | 275 | Camila Gerow |
 | 303 | 274 | Arisvet Garcia |
@@ -355,25 +355,25 @@
 | 347 | 238 | Zak Dunn |
 | 348 | 238 | Paul Beeman |
 | 349 | 237 | Jolly Clicky |
-| 350 | 236 | Tosha Gonzales |
-| 351 | 236 | Taghrid Ebeid |
-| 352 | 235 | Darlene Simmons |
-| 353 | 235 | Tiffany Dawn Caldwell |
-| 354 | 235 | Torie Snyder |
+| 350 | 236 | Taghrid Ebeid |
+| 351 | 236 | Tosha Gonzales |
+| 352 | 235 | Tiffany Dawn Caldwell |
+| 353 | 235 | Torie Snyder |
+| 354 | 235 | Darlene Simmons |
 | 355 | 235 | Carey Kyle |
 | 356 | 235 | Giddy Gridmatch |
 | 357 | 233 | Koipod |
-| 358 | 233 | Mike Davis |
-| 359 | 233 | Amanda Thomas |
+| 358 | 233 | Amanda Thomas |
+| 359 | 233 | Mike Davis |
 | 360 | 233 | Christina Graham |
-| 361 | 232 | Shelbs |
-| 362 | 232 | Tash Bell |
+| 361 | 232 | Tash Bell |
+| 362 | 232 | Shelbs |
 | 363 | 231 | Kristina Coleman |
 | 364 | 229 | Loony Snapbuild |
 | 365 | 229 | Abimbola Bimbo |
 | 366 | 228 | David Duncan |
-| 367 | 227 | De Yske |
-| 368 | 227 | Fbai |
+| 367 | 227 | Fbai |
+| 368 | 227 | De Yske |
 | 369 | 226 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 370 | 225 | Zippy Zoney |
 | 371 | 225 | Marc Abney |
@@ -385,32 +385,32 @@
 | 377 | 222 | Jennifer Galadik |
 | 378 | 220 | Ryan Parson |
 | 379 | 220 | Daring Fall |
-| 380 | 219 | Summer Richardson |
-| 381 | 219 | Sondra Kenny |
+| 380 | 219 | Sondra Kenny |
+| 381 | 219 | Summer Richardson |
 | 382 | 218 | Bouncy Zoner |
 | 383 | 217 | Desi Desporte |
 | 384 | 217 | Robyn Coleman Sadler |
 | 385 | 216 | Kelly Elizabeth Clark |
-| 386 | 215 | Jenn Dandle |
-| 387 | 215 | Jennifer Osmer Carruth |
-| 388 | 215 | Zany Rotater |
-| 389 | 214 | Eugenio Moquete |
-| 390 | 213 | Porsche' Nicole |
-| 391 | 212 | Gael |
-| 392 | 212 | Kennedy Sandifer |
-| 393 | 211 | Cleopatra Daniels |
-| 394 | 211 | Candy Brooks |
-| 395 | 211 | Dizzy Brickline |
+| 386 | 215 | Faith Adrienne Verret Page |
+| 387 | 215 | Jenn Dandle |
+| 388 | 215 | Jennifer Osmer Carruth |
+| 389 | 215 | Zany Rotater |
+| 390 | 214 | Eugenio Moquete |
+| 391 | 213 | Porsche' Nicole |
+| 392 | 212 | Gael |
+| 393 | 212 | Kennedy Sandifer |
+| 394 | 211 | Cleopatra Daniels |
+| 395 | 211 | Candy Brooks |
 | 396 | 211 | Susan Dunn |
-| 397 | 210 | Isabella Blanco |
+| 397 | 211 | Dizzy Brickline |
 | 398 | 210 | Mandi Mayweather |
-| 399 | 209 | Luna |
-| 400 | 207 | Smiley Match |
-| 401 | 207 | Brenda Bell |
-| 402 | 206 | Spicy Patternbuilder |
-| 403 | 205 | Kimyatta Cavin |
-| 404 | 205 | Theodore Vincent |
-| 405 | 205 | Faith Adrienne Verret Page |
+| 399 | 210 | Isabella Blanco |
+| 400 | 209 | Luna |
+| 401 | 207 | Smiley Match |
+| 402 | 207 | Brenda Bell |
+| 403 | 206 | Spicy Patternbuilder |
+| 404 | 205 | Kimyatta Cavin |
+| 405 | 205 | Theodore Vincent |
 | 406 | 204 | ElayneTrekand |
 | 407 | 203 | Melissa M Wolfe |
 | 408 | 203 | Nicole McLean |
