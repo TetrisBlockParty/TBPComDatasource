@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 06:20:17 UTC
+# Standings for team1 as of 2026-03-15 06:20:37 UTC
 
 **Total Participants:** 2142
 
@@ -125,8 +125,8 @@
 | 117 | 698 | tttttttt |
 | 118 | 694 | Breezy Ivy |
 | 119 | 693 | Kat Mfm Kaul |
-| 120 | 686 | Witty Wipegrid |
-| 121 | 686 | Al Smith Jr |
+| 120 | 686 | Al Smith Jr |
+| 121 | 686 | Witty Wipegrid |
 | 122 | 683 | Michael Powers |
 | 123 | 682 | Perky Shatterline |
 | 124 | 674 | LeeAnn Martindale |
@@ -137,16 +137,16 @@
 | 129 | 641 | 1_Roxanne_3 |
 | 130 | 629 | Bold Clear |
 | 131 | 616 | Grace Kelly |
-| 132 | 615 | Dustin Rouse |
-| 133 | 615 | Muhammad |
+| 132 | 615 | Muhammad |
+| 133 | 615 | Dustin Rouse |
 | 134 | 612 | Amanda Diegel |
 | 135 | 609 | Ann Carrie |
 | 136 | 605 | Matt Aguilar |
-| 137 | 595 | Chris Wanner |
-| 138 | 590 | Cassandra Latimore |
-| 139 | 586 | Duane Ficara |
-| 140 | 583 | Big rick !!! |
-| 141 | 579 | Legendary |
+| 137 | 599 | Legendary |
+| 138 | 595 | Chris Wanner |
+| 139 | 590 | Cassandra Latimore |
+| 140 | 586 | Duane Ficara |
+| 141 | 583 | Big rick !!! |
 | 142 | 579 | Nanan Nanan |
 | 143 | 577 | Simmone T. Kadiri |
 | 144 | 577 | Gloria Ininahazwe |
@@ -463,18 +463,18 @@
 | 455 | 140 | Porkobello |
 | 456 | 140 | Teddy Marshall |
 | 457 | 140 | Chris Kelly |
-| 458 | 139 | Swalshy |
-| 459 | 139 | Kakalina Thayer |
-| 460 | 138 | Scott Disedare |
-| 461 | 138 | Ophelia Rae |
-| 462 | 138 | MisfitH |
-| 463 | 137 | Kay Francois |
-| 464 | 137 | Fancy Cascadebuilder |
-| 465 | 137 | Spicy Twister |
-| 466 | 137 | Peachy Curvetile |
-| 467 | 136 | Althea Louise |
-| 468 | 134 | Greenbayfan |
-| 469 | 134 | Vergie Michael |
+| 458 | 140 | Vergie Michael |
+| 459 | 139 | Swalshy |
+| 460 | 139 | Kakalina Thayer |
+| 461 | 138 | Scott Disedare |
+| 462 | 138 | Ophelia Rae |
+| 463 | 138 | MisfitH |
+| 464 | 137 | Kay Francois |
+| 465 | 137 | Fancy Cascadebuilder |
+| 466 | 137 | Spicy Twister |
+| 467 | 137 | Peachy Curvetile |
+| 468 | 136 | Althea Louise |
+| 469 | 134 | Greenbayfan |
 | 470 | 134 | Yvonne Buie |
 | 471 | 133 | Pheezy |
 | 472 | 133 | Julie Miller |
@@ -1653,76 +1653,76 @@
 | 1645 | 23 | David Campbell |
 | 1646 | 23 | Lulu C Harp |
 | 1647 | 23 | Misty Huerta |
-| 1648 | 23 | Tee Widmer |
-| 1649 | 23 | Jill Goff |
-| 1650 | 23 | Amanda Stevens |
-| 1651 | 23 | Frilly T-spin |
-| 1652 | 22 | m.taha |
+| 1648 | 23 | gag |
+| 1649 | 23 | Tee Widmer |
+| 1650 | 23 | Jill Goff |
+| 1651 | 23 | Amanda Stevens |
+| 1652 | 23 | Frilly T-spin |
 | 1653 | 22 | Shellybobellers |
 | 1654 | 22 | Ryan Carr |
-| 1655 | 22 | Amy Hepler |
-| 1656 | 22 | Connie Lepore-Mann |
-| 1657 | 22 | Emanuel Velazquez |
+| 1655 | 22 | m.taha |
+| 1656 | 22 | Amy Hepler |
+| 1657 | 22 | Connie Lepore-Mann |
 | 1658 | 22 | Frank Smith |
 | 1659 | 22 | Brave Piecebuilder |
 | 1660 | 22 | Robert Coulter |
-| 1661 | 22 | James Green |
-| 1662 | 22 | Spunky Matchfit |
-| 1663 | 22 | Perky Twisterfit |
-| 1664 | 22 | Anne Garcia |
-| 1665 | 22 | Scott Baum |
-| 1666 | 22 | Fancy Cluster |
-| 1667 | 22 | Kriket |
-| 1668 | 22 | Karissa McDannel |
-| 1669 | 22 | Christina Laughlin |
-| 1670 | 22 | Christine Delack |
-| 1671 | 22 | Amber Jackson |
-| 1672 | 22 | Danielle Maner |
-| 1673 | 22 | Spunky Zoney |
-| 1674 | 21 | Frothy Shatterfit |
-| 1675 | 21 | Jessica Monroe |
-| 1676 | 21 | Scott Hein |
-| 1677 | 21 | Glitzy Curvetile |
+| 1661 | 22 | Emanuel Velazquez |
+| 1662 | 22 | James Green |
+| 1663 | 22 | Spunky Matchfit |
+| 1664 | 22 | Perky Twisterfit |
+| 1665 | 22 | Anne Garcia |
+| 1666 | 22 | Scott Baum |
+| 1667 | 22 | Fancy Cluster |
+| 1668 | 22 | Kriket |
+| 1669 | 22 | Karissa McDannel |
+| 1670 | 22 | Christina Laughlin |
+| 1671 | 22 | Spunky Zoney |
+| 1672 | 22 | Christine Delack |
+| 1673 | 22 | Amber Jackson |
+| 1674 | 22 | Danielle Maner |
+| 1675 | 21 | Scott Hein |
+| 1676 | 21 | Gfly |
+| 1677 | 21 | Zac Brubaker |
 | 1678 | 21 | Krystle Raye Green |
 | 1679 | 21 | Linda Clement |
 | 1680 | 21 | Nutty Twister |
 | 1681 | 21 | Nutty Tumbler |
 | 1682 | 21 | Lori Mccool |
-| 1683 | 21 | Strawberry73 |
+| 1683 | 21 | Glitzy Curvetile |
 | 1684 | 21 | Tommy April Rodriguez |
 | 1685 | 21 | Ethan Cox |
 | 1686 | 21 | Jazzy Blockfall |
 | 1687 | 21 | Shrimp0711 |
 | 1688 | 21 | Katy Schuster |
-| 1689 | 21 | Gfly |
-| 1690 | 21 | Ras David |
-| 1691 | 21 | Kenzo Leigh Stout |
-| 1692 | 21 | Shawntae Mccary |
+| 1689 | 21 | Strawberry73 |
+| 1690 | 21 | Frothy Shatterfit |
+| 1691 | 21 | Shawntae Mccary |
+| 1692 | 21 | Jessica Monroe |
 | 1693 | 21 | Mary Finn |
-| 1694 | 21 | Olivia Gwyn Daniel |
-| 1695 | 21 | Debbie Ward |
-| 1696 | 21 | Giggy Tiley |
+| 1694 | 21 | Kenzo Leigh Stout |
+| 1695 | 21 | Ras David |
+| 1696 | 21 | Brave Twistpiece |
 | 1697 | 21 | Tre'von Davis |
-| 1698 | 21 | Brave Twistpiece |
-| 1699 | 21 | gag |
-| 1700 | 21 | Zac Brubaker |
-| 1701 | 20 | Jeffrey Adams |
+| 1698 | 21 | Giggy Tiley |
+| 1699 | 21 | Debbie Ward |
+| 1700 | 21 | Olivia Gwyn Daniel |
+| 1701 | 20 | Danita Banks |
 | 1702 | 20 | Frothy Tetrisline |
-| 1703 | 20 | Freya |
-| 1704 | 20 | Kecia Bright |
+| 1703 | 20 | Jeffrey Adams |
+| 1704 | 20 | Freya |
 | 1705 | 20 | Oscar Love Mariah |
-| 1706 | 20 | Dawg |
-| 1707 | 20 | Amber Wolfe |
-| 1708 | 20 | Cleopatra Sims |
-| 1709 | 20 | Petrona |
-| 1710 | 20 | Franklin Danner |
-| 1711 | 20 | Zappy Strike |
-| 1712 | 20 | Tara |
-| 1713 | 20 | Loopy Zoner |
-| 1714 | 20 | Giles McNair |
-| 1715 | 20 | Sabrina Hardrick |
-| 1716 | 20 | Jay Tressler |
-| 1717 | 20 | Danita Banks |
+| 1706 | 20 | Kecia Bright |
+| 1707 | 20 | Dawg |
+| 1708 | 20 | Amber Wolfe |
+| 1709 | 20 | Cleopatra Sims |
+| 1710 | 20 | Petrona |
+| 1711 | 20 | Franklin Danner |
+| 1712 | 20 | Zappy Strike |
+| 1713 | 20 | Tara |
+| 1714 | 20 | Loopy Zoner |
+| 1715 | 20 | Giles McNair |
+| 1716 | 20 | Sabrina Hardrick |
+| 1717 | 20 | Jay Tressler |
 | 1718 | 20 | Katie Batoosingh |
 | 1719 | 20 | Nutty Brickbuilder |
 | 1720 | 20 | Eugene Barnes |
