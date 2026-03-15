@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 07:16:41 UTC
+# Standings for team2 as of 2026-03-15 07:17:21 UTC
 
 **Total Participants:** 2151
 
@@ -163,14 +163,14 @@
 | 155 | 467 | Brandy Belton |
 | 156 | 457 | Chelsea Clark |
 | 157 | 450 | Quirky Matchfit |
-| 158 | 445 | Dreamy Towerbuilder |
-| 159 | 443 | Buisanito |
-| 160 | 440 | Jesse Olive |
-| 161 | 438 | Peaches |
-| 162 | 433 | Jess |
-| 163 | 429 | Michael H. M. Skropka |
-| 164 | 428 | Jen Roe |
-| 165 | 426 | Grace Rubalcada |
+| 158 | 445 | Grace Rubalcada |
+| 159 | 445 | Dreamy Towerbuilder |
+| 160 | 443 | Buisanito |
+| 161 | 440 | Jesse Olive |
+| 162 | 438 | Peaches |
+| 163 | 433 | Jess |
+| 164 | 429 | Michael H. M. Skropka |
+| 165 | 428 | Jen Roe |
 | 166 | 423 | Jami Howard |
 | 167 | 421 | DJ Bincent |
 | 168 | 420 | Mcg |
@@ -230,10 +230,10 @@
 | 222 | 313 | Olivia Gwin |
 | 223 | 313 | Epic Liner |
 | 224 | 311 | Rusty Davis |
-| 225 | 310 | Tiffany Smith |
+| 225 | 311 | Dreamer |
 | 226 | 310 | 1RiRi1 |
-| 227 | 309 | Christy Merriman Addison |
-| 228 | 306 | Dreamer |
+| 227 | 310 | Tiffany Smith |
+| 228 | 309 | Christy Merriman Addison |
 | 229 | 306 | Slippery Clam |
 | 230 | 305 | ddd |
 | 231 | 305 | Abby Jensen |
