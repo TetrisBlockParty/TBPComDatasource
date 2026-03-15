@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 02:00:19 UTC
+# Standings for team2 as of 2026-03-15 02:00:38 UTC
 
 **Total Participants:** 1987
 
@@ -62,7 +62,7 @@
 | 54 | 1165 | Elizabeth Crowder Pelton |
 | 55 | 1156 | pooda |
 | 56 | 1150 | Dreamy Linkbuilder |
-| 57 | 1029 | Bubbly Twistpiece |
+| 57 | 1033 | Bubbly Twistpiece |
 | 58 | 1003 | lovethedana |
 | 59 | 999 | Giggy Matchpiece |
 | 60 | 990 | opf |
@@ -75,7 +75,7 @@
 | 67 | 865 | Brave Matchfit |
 | 68 | 859 | Neet |
 | 69 | 852 | Nick Jensen |
-| 70 | 833 | TreeWee |
+| 70 | 843 | TreeWee |
 | 71 | 824 | Dee Kay |
 | 72 | 821 | Peachy Matchgrid |
 | 73 | 820 | Andrey Sharov |
@@ -117,8 +117,8 @@
 | 109 | 594 | LolaSmilez |
 | 110 | 593 | Carrie Mitchell |
 | 111 | 580 | CSOTYS |
-| 112 | 572 | Chassy Horton |
-| 113 | 572 | Mary Reeves |
+| 112 | 572 | Mary Reeves |
+| 113 | 572 | Chassy Horton |
 | 114 | 566 | Peppy Slice |
 | 115 | 558 | DanesMama |
 | 116 | 558 | Gracie Back |
@@ -132,10 +132,10 @@
 | 124 | 507 | Rob Riggin |
 | 125 | 504 | Rafael Valentin |
 | 126 | 503 | Tess Shaheen |
-| 127 | 496 | Pikake Medeiros |
-| 128 | 493 | Amanda Sullivan |
-| 129 | 485 | Frothy Linker |
-| 130 | 474 | Dandy Crasher |
+| 127 | 497 | Dandy Crasher |
+| 128 | 496 | Pikake Medeiros |
+| 129 | 493 | Amanda Sullivan |
+| 130 | 485 | Frothy Linker |
 | 131 | 469 | Ultramarine |
 | 132 | 467 | Brandy Belton |
 | 133 | 466 | Devin |
@@ -392,8 +392,8 @@
 | 384 | 149 | Tyler Bechtel |
 | 385 | 149 | Bryanna Whitman |
 | 386 | 146 | Kimberly Garcia |
-| 387 | 146 | Jen Robinson |
-| 388 | 146 | ElayneTrekand |
+| 387 | 146 | ElayneTrekand |
+| 388 | 146 | Jen Robinson |
 | 389 | 145 | Chill Builder |
 | 390 | 144 | JTH |
 | 391 | 144 | Marc Abney |
@@ -431,28 +431,28 @@
 | 423 | 135 | Dizzy Dasher |
 | 424 | 135 | Brandy Hayhurst |
 | 425 | 135 | Christine Soltis |
-| 426 | 135 | Dizzy Brickline |
-| 427 | 134 | Zany Dashgrid |
-| 428 | 134 | Belle |
-| 429 | 134 | Juana |
-| 430 | 133 | Christina Freeman |
-| 431 | 133 | Trisha Balmer |
-| 432 | 133 | LaChalle Shay |
-| 433 | 133 | Mona Sharma |
-| 434 | 133 | Jeremy Steines |
-| 435 | 133 | Kirsten Hanes Gasper |
-| 436 | 132 | Jolie Hatfield |
-| 437 | 132 | Crystal Brown-Miles |
-| 438 | 132 | Brenda A |
-| 439 | 131 | sofiiya the forst |
-| 440 | 130 | Tyler Werts |
-| 441 | 130 | Amber Lashbrook |
-| 442 | 130 | Kristie |
-| 443 | 130 | jess |
-| 444 | 130 | Chilly Fallgrid |
-| 445 | 129 | Elizabeth Blankenship |
-| 446 | 129 | Selena Combee |
-| 447 | 129 | BugMansMom |
+| 426 | 135 | sofiiya the forst |
+| 427 | 135 | Dizzy Brickline |
+| 428 | 134 | Zany Dashgrid |
+| 429 | 134 | Belle |
+| 430 | 134 | Juana |
+| 431 | 133 | Christina Freeman |
+| 432 | 133 | Trisha Balmer |
+| 433 | 133 | LaChalle Shay |
+| 434 | 133 | Mona Sharma |
+| 435 | 133 | Jeremy Steines |
+| 436 | 133 | Kirsten Hanes Gasper |
+| 437 | 132 | Jolie Hatfield |
+| 438 | 132 | Crystal Brown-Miles |
+| 439 | 132 | Brenda A |
+| 440 | 130 | Kristie |
+| 441 | 130 | jess |
+| 442 | 130 | Chilly Fallgrid |
+| 443 | 130 | Tyler Werts |
+| 444 | 130 | Amber Lashbrook |
+| 445 | 129 | Selena Combee |
+| 446 | 129 | BugMansMom |
+| 447 | 129 | Elizabeth Blankenship |
 | 448 | 128 | Joyce Murff |
 | 449 | 127 | Tdg Boyt |
 | 450 | 127 | Tipsy Blockfall |
