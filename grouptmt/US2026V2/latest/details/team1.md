@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 08:02:18 UTC
+# Standings for team1 as of 2026-03-15 08:02:40 UTC
 
 **Total Participants:** 2167
 
@@ -224,14 +224,14 @@
 | 216 | 353 | Jess Rose |
 | 217 | 351 | Jasmine Riley |
 | 218 | 350 | Aden Moss |
-| 219 | 346 | Krystal Mccoy |
-| 220 | 340 | Dicfitzwel |
-| 221 | 338 | Matthew Bunn |
-| 222 | 338 | Bryan Temple |
-| 223 | 337 | Beka |
-| 224 | 334 | Wacky Balancer |
-| 225 | 331 | Jr_420 |
-| 226 | 331 | jenna |
+| 219 | 348 | jenna |
+| 220 | 346 | Krystal Mccoy |
+| 221 | 340 | Dicfitzwel |
+| 222 | 338 | Matthew Bunn |
+| 223 | 338 | Bryan Temple |
+| 224 | 337 | Beka |
+| 225 | 334 | Wacky Balancer |
+| 226 | 331 | Jr_420 |
 | 227 | 331 | Natalia RX Beyer |
 | 228 | 329 | Yvette Cooper |
 | 229 | 328 | Thorpedo |
