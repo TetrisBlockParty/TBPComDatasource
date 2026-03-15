@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 10:00:18 UTC
+# Standings for team1 as of 2026-03-15 10:00:40 UTC
 
 **Total Participants:** 2193
 
@@ -475,32 +475,32 @@
 | 467 | 151 | Julie Moore |
 | 468 | 148 | Natasha King |
 | 469 | 148 | mrkw |
-| 470 | 147 | Spicy Twister |
-| 471 | 147 | Ophelia Rae |
-| 472 | 146 | Armin Muhamed |
-| 473 | 145 | Hoppy Buildgrid |
-| 474 | 145 | Bingo Wingo |
-| 475 | 145 | Michael Espinosa Ulibarri Jr. |
-| 476 | 144 | Gina Annese |
-| 477 | 144 | John Gardner |
-| 478 | 143 | PennyCandee |
-| 479 | 143 | Laura Morrison |
-| 480 | 141 | Roberta Arnold |
-| 481 | 141 | Julie Miller |
-| 482 | 140 | Snippy Risebuilder |
-| 483 | 140 | Hasty Towerpiece |
-| 484 | 140 | Vergie Michael |
-| 485 | 140 | Porkobello |
-| 486 | 140 | Chris Kelly |
-| 487 | 140 | Teddy Marshall |
-| 488 | 139 | Swalshy |
-| 489 | 139 | Kakalina Thayer |
-| 490 | 138 | MisfitH |
-| 491 | 138 | Scott Disedare |
-| 492 | 137 | Peachy Curvetile |
-| 493 | 137 | Fancy Cascadebuilder |
-| 494 | 136 | Althea Louise |
-| 495 | 135 | Aprill Bolton |
+| 470 | 147 | Aprill Bolton |
+| 471 | 147 | Spicy Twister |
+| 472 | 147 | Ophelia Rae |
+| 473 | 146 | Armin Muhamed |
+| 474 | 145 | Hoppy Buildgrid |
+| 475 | 145 | Bingo Wingo |
+| 476 | 145 | Michael Espinosa Ulibarri Jr. |
+| 477 | 144 | Gina Annese |
+| 478 | 144 | John Gardner |
+| 479 | 143 | PennyCandee |
+| 480 | 143 | Laura Morrison |
+| 481 | 141 | Roberta Arnold |
+| 482 | 141 | Julie Miller |
+| 483 | 140 | Snippy Risebuilder |
+| 484 | 140 | Hasty Towerpiece |
+| 485 | 140 | Vergie Michael |
+| 486 | 140 | Porkobello |
+| 487 | 140 | Chris Kelly |
+| 488 | 140 | Teddy Marshall |
+| 489 | 139 | Swalshy |
+| 490 | 139 | Kakalina Thayer |
+| 491 | 138 | MisfitH |
+| 492 | 138 | Scott Disedare |
+| 493 | 137 | Peachy Curvetile |
+| 494 | 137 | Fancy Cascadebuilder |
+| 495 | 136 | Althea Louise |
 | 496 | 134 | Thomas Carlisle |
 | 497 | 134 | Greenbayfan |
 | 498 | 133 | Pheezy |
