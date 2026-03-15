@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 09:00:42 UTC
+# Standings for team2 as of 2026-03-15 09:01:19 UTC
 
 **Total Participants:** 2172
 
@@ -411,8 +411,8 @@
 | 403 | 173 | Elizabeth Diraffaele |
 | 404 | 173 | Madison Sweere |
 | 405 | 172 | Dineisha Carpenter |
-| 406 | 171 | Sam Hall |
-| 407 | 171 | Shea Ladynick Henderson |
+| 406 | 171 | Shea Ladynick Henderson |
+| 407 | 171 | Sam Hall |
 | 408 | 171 | SigmaWinchester |
 | 409 | 170 | Berling Gil |
 | 410 | 170 | Jimmy Xim |
@@ -454,26 +454,26 @@
 | 446 | 154 | Morgan Anne Witty |
 | 447 | 154 | Brandy Hayhurst |
 | 448 | 154 | Jess Ortiz |
-| 449 | 154 | Alexander Zamora |
-| 450 | 153 | Christy Green |
-| 451 | 152 | Anthony Magaraci |
-| 452 | 151 | Ashley Danielle |
-| 453 | 151 | Lemon Bar |
-| 454 | 151 | Luna |
-| 455 | 150 | Brave Fallzone |
-| 456 | 150 | Tracey Whetstone |
-| 457 | 150 | Sherry Jones |
-| 458 | 150 | Glitzy Rollblock |
-| 459 | 150 | Breanna Lemus |
-| 460 | 150 | Marinara |
-| 461 | 150 | May May |
-| 462 | 149 | Lizzie Marie |
-| 463 | 149 | Teresa Longwell |
-| 464 | 149 | Tyler Bechtel |
-| 465 | 149 | Daring Rotator |
-| 466 | 147 | NoShoesNation |
-| 467 | 147 | Jenny Carrier |
-| 468 | 147 | Jazzy Hitter |
+| 449 | 154 | Luna |
+| 450 | 154 | Alexander Zamora |
+| 451 | 153 | Christy Green |
+| 452 | 152 | Anthony Magaraci |
+| 453 | 151 | Ashley Danielle |
+| 454 | 151 | Lemon Bar |
+| 455 | 150 | Sherry Jones |
+| 456 | 150 | Glitzy Rollblock |
+| 457 | 150 | Breanna Lemus |
+| 458 | 150 | Marinara |
+| 459 | 150 | May May |
+| 460 | 150 | Brave Fallzone |
+| 461 | 150 | Tracey Whetstone |
+| 462 | 149 | Teresa Longwell |
+| 463 | 149 | Tyler Bechtel |
+| 464 | 149 | Daring Rotator |
+| 465 | 149 | Lizzie Marie |
+| 466 | 147 | Jazzy Hitter |
+| 467 | 147 | NoShoesNation |
+| 468 | 147 | Jenny Carrier |
 | 469 | 146 | Elizabeth Blankenship |
 | 470 | 146 | Jen Robinson |
 | 471 | 146 | Chill Builder |
