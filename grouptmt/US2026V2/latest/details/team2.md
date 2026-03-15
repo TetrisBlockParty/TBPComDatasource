@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 05:24:43 UTC
+# Standings for team2 as of 2026-03-15 05:25:20 UTC
 
 **Total Participants:** 2105
 
@@ -226,15 +226,15 @@
 | 218 | 309 | Christy Merriman Addison |
 | 219 | 308 | Jt Home |
 | 220 | 306 | Slippery Clam |
-| 221 | 305 | Abby Jensen |
-| 222 | 303 | Snippy Towerpiece |
-| 223 | 302 | Amanda Segura |
-| 224 | 302 | Leticia Martinez Kelley |
-| 225 | 301 | Jo Frohwein |
-| 226 | 301 | BluBae |
-| 227 | 299 | Sammy |
-| 228 | 296 | Jennifer Haton Kreighbaum |
-| 229 | 295 | ddd |
+| 221 | 305 | ddd |
+| 222 | 305 | Abby Jensen |
+| 223 | 303 | Snippy Towerpiece |
+| 224 | 302 | Amanda Segura |
+| 225 | 302 | Leticia Martinez Kelley |
+| 226 | 301 | Jo Frohwein |
+| 227 | 301 | BluBae |
+| 228 | 299 | Sammy |
+| 229 | 296 | Jennifer Haton Kreighbaum |
 | 230 | 295 | Junang Herowanto |
 | 231 | 291 | Dreamy Clicky |
 | 232 | 290 | Jazzy Piecebuilder |
@@ -329,15 +329,15 @@
 | 321 | 203 | Giddy Gridmatch |
 | 322 | 202 | Dally Hunt |
 | 323 | 201 | Tash Bell |
-| 324 | 200 | Tammi Crnza |
-| 325 | 200 | Trice Sodames |
-| 326 | 200 | Rhonda Prince |
-| 327 | 200 | Ashley Leonard |
-| 328 | 200 | Susan Dunn |
-| 329 | 200 | Nerdy Blockpiece |
-| 330 | 199 | Chummy Linkgrid |
-| 331 | 199 | David V. Bowers |
-| 332 | 199 | titrissss |
+| 324 | 201 | Ashley Leonard |
+| 325 | 200 | Susan Dunn |
+| 326 | 200 | Nerdy Blockpiece |
+| 327 | 200 | Tammi Crnza |
+| 328 | 200 | Trice Sodames |
+| 329 | 200 | Rhonda Prince |
+| 330 | 199 | David V. Bowers |
+| 331 | 199 | titrissss |
+| 332 | 199 | Chummy Linkgrid |
 | 333 | 198 | Mike Davis |
 | 334 | 198 | Michael E Whitejr |
 | 335 | 197 | Jennifer Osmer Carruth |
@@ -427,8 +427,8 @@
 | 419 | 154 | Jess Ortiz |
 | 420 | 154 | Brandy Hayhurst |
 | 421 | 154 | Alexander Zamora |
-| 422 | 154 | Lea Gann |
-| 423 | 154 | Deborah Potts |
+| 422 | 154 | Deborah Potts |
+| 423 | 154 | Lea Gann |
 | 424 | 153 | Christy Green |
 | 425 | 152 | Anthony Magaraci |
 | 426 | 151 | Christine Soltis |
@@ -442,57 +442,57 @@
 | 434 | 150 | Glitzy Rollblock |
 | 435 | 150 | Sherry Jones |
 | 436 | 149 | Teresa Longwell |
-| 437 | 149 | Tyler Bechtel |
-| 438 | 149 | Daring Rotator |
-| 439 | 147 | Jazzy Hitter |
-| 440 | 146 | Jen Robinson |
-| 441 | 146 | ElayneTrekand |
-| 442 | 146 | Chill Builder |
-| 443 | 145 | Steady Treal |
-| 444 | 145 | Grace Rubalcada |
-| 445 | 145 | Goofy Towerer |
-| 446 | 145 | Kelly Williams |
-| 447 | 145 | Paula Little |
-| 448 | 144 | JTH |
-| 449 | 144 | Candy Brooks |
-| 450 | 144 | Wishabishwood |
-| 451 | 144 | Marc Abney |
-| 452 | 143 | 🍏 Green apple |
-| 453 | 142 | Montiette Mcglown |
-| 454 | 142 | Nicole Lynnette Mahurin |
+| 437 | 149 | 🍏 Green apple |
+| 438 | 149 | Tyler Bechtel |
+| 439 | 149 | Daring Rotator |
+| 440 | 147 | Jazzy Hitter |
+| 441 | 147 | Grace Rubalcada |
+| 442 | 146 | Jen Robinson |
+| 443 | 146 | ElayneTrekand |
+| 444 | 146 | Chill Builder |
+| 445 | 145 | Steady Treal |
+| 446 | 145 | Goofy Towerer |
+| 447 | 145 | Kelly Williams |
+| 448 | 145 | Paula Little |
+| 449 | 144 | JTH |
+| 450 | 144 | Candy Brooks |
+| 451 | 144 | Wishabishwood |
+| 452 | 144 | Marc Abney |
+| 453 | 142 | SigmaWinchester |
+| 454 | 142 | Montiette Mcglown |
 | 455 | 142 | Prette Qui |
-| 456 | 142 | SigmaWinchester |
-| 457 | 141 | Jessica Petersen |
-| 458 | 141 | Darlene Simmons |
-| 459 | 141 | Mona Sharma |
-| 460 | 141 | MrMais89 |
-| 461 | 141 | Tee Jaleesa |
-| 462 | 140 | Theodore Vincent |
-| 463 | 140 | Paula Marcus Delsigne |
-| 464 | 140 | Tanya Abernathy Jackson |
-| 465 | 140 | Rackemwillie34 |
-| 466 | 140 | Brenda Lee Vander Molen |
-| 467 | 140 | Giggity boots |
-| 468 | 140 | Spicy Strikerbuilder |
-| 469 | 139 | Lively Builderfit |
-| 470 | 139 | Jeff Lewis |
-| 471 | 139 | Kristi Riley |
-| 472 | 139 | Brittany Backus |
-| 473 | 138 | Christina Freeman |
-| 474 | 138 | Slinky Linkgrid |
-| 475 | 137 | Zany Dashgrid |
-| 476 | 137 | Zany Rotater |
-| 477 | 136 | Audrey Jones |
-| 478 | 136 | jess |
-| 479 | 136 | Nilla |
-| 480 | 136 | Yloponom Gamez |
-| 481 | 136 | Lawan Dixon |
+| 456 | 142 | Nicole Lynnette Mahurin |
+| 457 | 141 | MrMais89 |
+| 458 | 141 | Mona Sharma |
+| 459 | 141 | Tee Jaleesa |
+| 460 | 141 | Jessica Petersen |
+| 461 | 141 | Darlene Simmons |
+| 462 | 140 | Tanya Abernathy Jackson |
+| 463 | 140 | Rackemwillie34 |
+| 464 | 140 | Brenda Lee Vander Molen |
+| 465 | 140 | Giggity boots |
+| 466 | 140 | Spicy Strikerbuilder |
+| 467 | 140 | Paula Marcus Delsigne |
+| 468 | 140 | Theodore Vincent |
+| 469 | 139 | Brittany Backus |
+| 470 | 139 | Kristi Riley |
+| 471 | 139 | Lively Builderfit |
+| 472 | 139 | Jeff Lewis |
+| 473 | 138 | Slinky Linkgrid |
+| 474 | 138 | Christina Freeman |
+| 475 | 137 | Zany Rotater |
+| 476 | 137 | Zany Dashgrid |
+| 477 | 136 | Yloponom Gamez |
+| 478 | 136 | Lawan Dixon |
+| 479 | 136 | jess |
+| 480 | 136 | Nilla |
+| 481 | 136 | Audrey Jones |
 | 482 | 135 | sofiiya the forst |
 | 483 | 135 | Dizzy Brickline |
 | 484 | 134 | Juana |
 | 485 | 133 | Jeremy Steines |
-| 486 | 133 | Trisha Balmer |
-| 487 | 133 | LaChalle Shay |
+| 486 | 133 | LaChalle Shay |
+| 487 | 133 | Trisha Balmer |
 | 488 | 133 | Kirsten Hanes Gasper |
 | 489 | 133 | Aimee Byrom |
 | 490 | 133 | Shankee mgee |
@@ -505,8 +505,8 @@
 | 497 | 129 | bigdad |
 | 498 | 129 | BugMansMom |
 | 499 | 129 | Selena Combee |
-| 500 | 129 | Kira Hugar |
-| 501 | 129 | Elizabeth Blankenship |
+| 500 | 129 | Elizabeth Blankenship |
+| 501 | 129 | Kira Hugar |
 | 502 | 128 | Joyce Murff |
 | 503 | 128 | Shelbs |
 | 504 | 128 | Kimmie Gargano |
@@ -515,8 +515,8 @@
 | 507 | 127 | Rileyy Rocket |
 | 508 | 127 | Tdg Boyt |
 | 509 | 127 | Tipsy Blockfall |
-| 510 | 127 | Lindsay Lucas |
-| 511 | 127 | LeVeL27 |
+| 510 | 127 | LeVeL27 |
+| 511 | 127 | Lindsay Lucas |
 | 512 | 126 | Shanny Anny |
 | 513 | 126 | Sondra Kenny |
 | 514 | 126 | Jesse Saville |
@@ -542,8 +542,8 @@
 | 534 | 120 | Robyn Coleman Sadler |
 | 535 | 120 | Twisty Shatter |
 | 536 | 120 | Kimyatta Cavin |
-| 537 | 119 | btchboy |
-| 538 | 119 | Lucy Honer |
+| 537 | 119 | Lucy Honer |
+| 538 | 119 | btchboy |
 | 539 | 119 | Deanna J Legaspi |
 | 540 | 119 | JesusIsLove |
 | 541 | 118 | Clever Roll |
