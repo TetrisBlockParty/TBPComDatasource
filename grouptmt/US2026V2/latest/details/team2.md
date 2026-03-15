@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 22:02:42 UTC
+# Standings for team2 as of 2026-03-15 22:03:22 UTC
 
 **Total Participants:** 2440
 
@@ -171,8 +171,8 @@
 | 163 | 585 | Chassy Horton |
 | 164 | 580 | Faith Adrienne Verret Page |
 | 165 | 580 | CSOTYS |
-| 166 | 569 | Carmilita Burpo Jordan |
-| 167 | 560 | Foxy |
+| 166 | 569 | Foxy |
+| 167 | 569 | Carmilita Burpo Jordan |
 | 168 | 558 | hyper Zip |
 | 169 | 558 | DanesMama |
 | 170 | 557 | Jazzy Hitter |
@@ -212,9 +212,9 @@
 | 204 | 467 | Bia |
 | 205 | 467 | Brandy Belton |
 | 206 | 465 | Dawn Woosley Bowes |
-| 207 | 455 | Olivia Gwin |
-| 208 | 453 | Kimyatta Cavin |
-| 209 | 452 | Gael |
+| 207 | 457 | Gael |
+| 208 | 455 | Olivia Gwin |
+| 209 | 453 | Kimyatta Cavin |
 | 210 | 451 | Johanna Massaro |
 | 211 | 450 | Quirky Matchfit |
 | 212 | 449 | Kyesha Goodyear |
@@ -930,50 +930,50 @@
 | 922 | 97 | C.B |
 | 923 | 97 | Zany Climber |
 | 924 | 97 | Tiffany Leon |
-| 925 | 97 | Glenn Samantha Grove |
-| 926 | 97 | Scott Treadway |
+| 925 | 97 | Scott Treadway |
+| 926 | 97 | Glenn Samantha Grove |
 | 927 | 97 | Kiorah Blaze |
 | 928 | 96 | Joseph Guzman |
-| 929 | 96 | Brooke Parkin |
-| 930 | 96 | Krista Carpenter |
-| 931 | 96 | Dan Smith |
-| 932 | 96 | Nate Price |
-| 933 | 96 | Nutty Cluster |
+| 929 | 96 | Nutty Cluster |
+| 930 | 96 | Dan Smith |
+| 931 | 96 | Nate Price |
+| 932 | 96 | Brooke Parkin |
+| 933 | 96 | Joyce |
 | 934 | 96 | Allen Spurlock |
-| 935 | 95 | Kara E. Butler |
-| 936 | 95 | Goofy Block |
-| 937 | 95 | Jeremiah Mell |
-| 938 | 95 | Chris Leasure |
-| 939 | 95 | Tracy Glesmann |
-| 940 | 95 | Quintis Steemer |
-| 941 | 95 | Jake Ching |
-| 942 | 94 | Stephanie Carpenter |
-| 943 | 94 | Meme |
-| 944 | 94 | Circuit8 |
+| 935 | 96 | Krista Carpenter |
+| 936 | 95 | Kara E. Butler |
+| 937 | 95 | Chris Leasure |
+| 938 | 95 | Goofy Block |
+| 939 | 95 | Jeremiah Mell |
+| 940 | 95 | Tracy Glesmann |
+| 941 | 95 | Quintis Steemer |
+| 942 | 95 | Jake Ching |
+| 943 | 94 | Stef Hu |
+| 944 | 94 | Meme |
 | 945 | 94 | Laurie Raynor |
-| 946 | 94 | Stef Hu |
+| 946 | 94 | Stephanie Carpenter |
 | 947 | 94 | James Heilman |
 | 948 | 94 | Janellexoxo_ |
-| 949 | 94 | Tipsy Towerpiece |
-| 950 | 93 | Joyce |
-| 951 | 93 | Matt |
-| 952 | 93 | Kelly |
-| 953 | 93 | Abby Bluteau |
+| 949 | 94 | Circuit8 |
+| 950 | 94 | Tipsy Towerpiece |
+| 951 | 93 | Abby Bluteau |
+| 952 | 93 | Matt |
+| 953 | 93 | Kelly |
 | 954 | 93 | Misty Payne Maddox |
 | 955 | 92 | Tiffany Banks Jennings |
 | 956 | 92 | Reginald Harvey |
 | 957 | 92 | Giddy Twistslam |
-| 958 | 92 | IG Gutierrez |
+| 958 | 92 | Cheery Riserpiece |
 | 959 | 92 | Alice Petterborg Barberich |
 | 960 | 92 | Perky Rollfit |
-| 961 | 92 | Cheery Riserpiece |
-| 962 | 91 | Cozy Tiley |
-| 963 | 91 | Jada Tims |
-| 964 | 91 | Emily Jo Baranowski |
-| 965 | 91 | Arson Fox |
-| 966 | 91 | Gam Gam |
-| 967 | 91 | Chewy Chewy |
-| 968 | 91 | Nicole Archuleta |
+| 961 | 92 | IG Gutierrez |
+| 962 | 91 | Jada Tims |
+| 963 | 91 | Chewy Chewy |
+| 964 | 91 | Cozy Tiley |
+| 965 | 91 | Gam Gam |
+| 966 | 91 | Emily Jo Baranowski |
+| 967 | 91 | Nicole Archuleta |
+| 968 | 91 | Arson Fox |
 | 969 | 91 | Kara Ann Cray |
 | 970 | 91 | Witty T-spin |
 | 971 | 91 | Lora Allen |
