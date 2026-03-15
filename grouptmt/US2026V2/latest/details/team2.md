@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 14:20:21 UTC
+# Standings for team2 as of 2026-03-15 14:20:44 UTC
 
 **Total Participants:** 2254
 
@@ -78,9 +78,9 @@
 | 70 | 1202 | Kristina Custer |
 | 71 | 1194 | Naomii Seton |
 | 72 | 1159 | Giggy Matchpiece |
-| 73 | 1141 | sweet lil miss |
-| 74 | 1119 | Goofy Linkmatch |
-| 75 | 1117 | Julio Alejandro Rodriguez |
+| 73 | 1149 | Julio Alejandro Rodriguez |
+| 74 | 1141 | sweet lil miss |
+| 75 | 1119 | Goofy Linkmatch |
 | 76 | 1107 | lovethedana |
 | 77 | 1085 | Suffia Alexander |
 | 78 | 1064 | Sheena Herskovic |
@@ -418,8 +418,8 @@
 | 410 | 195 | Robin |
 | 411 | 195 | Crystal Brown-Miles |
 | 412 | 194 | Stitch Aura |
-| 413 | 194 | Lora |
-| 414 | 194 | Mjhays |
+| 413 | 194 | Mjhays |
+| 414 | 194 | Lora |
 | 415 | 192 | Christine Soltis |
 | 416 | 191 | Ramona Marie Eruera |
 | 417 | 190 | Cheeky Clearbuilder |
@@ -430,9 +430,9 @@
 | 422 | 189 | Jeff Lewis |
 | 423 | 189 | Hyper Pop |
 | 424 | 189 | Nikki Speer |
-| 425 | 188 | Tudy Irvin |
-| 426 | 188 | Scott Siple |
-| 427 | 188 | Dizzy Dasher |
+| 425 | 188 | Scott Siple |
+| 426 | 188 | Dizzy Dasher |
+| 427 | 188 | Tudy Irvin |
 | 428 | 188 | Spicy Strikerbuilder |
 | 429 | 188 | Lakeisha Webb Briggs |
 | 430 | 187 | SuZee |
@@ -442,27 +442,27 @@
 | 434 | 185 | Sondra Kenny |
 | 435 | 185 | Marc Anthony Lopez |
 | 436 | 184 | May May |
-| 437 | 184 | Cheeky Dashy |
-| 438 | 184 | Beth Smith |
-| 439 | 182 | Paul Beeman |
-| 440 | 182 | Tatyahna Cameron |
+| 437 | 184 | Beth Smith |
+| 438 | 184 | Cheeky Dashy |
+| 439 | 182 | Tatyahna Cameron |
+| 440 | 182 | Paul Beeman |
 | 441 | 182 | Flashy Tetriblast |
 | 442 | 182 | infinimom |
 | 443 | 181 | LD1 |
-| 444 | 181 | Alexis Seath |
+| 444 | 181 | Kristie |
 | 445 | 181 | Daring Rotator |
-| 446 | 181 | Blockyboyyy |
-| 447 | 180 | Troy |
-| 448 | 180 | Kennedy Sandifer |
-| 449 | 180 | Chilly Fallgrid |
-| 450 | 180 | sofiiya the forst |
-| 451 | 180 | Michelle |
-| 452 | 180 | Blaze Sexton |
-| 453 | 179 | Megan Simpson |
-| 454 | 177 | Chill Builder |
-| 455 | 177 | Lindsay Lucas |
-| 456 | 175 | Kimberly Garcia |
-| 457 | 175 | Kristie |
+| 446 | 181 | Alexis Seath |
+| 447 | 181 | Blockyboyyy |
+| 448 | 180 | Troy |
+| 449 | 180 | Kennedy Sandifer |
+| 450 | 180 | Chilly Fallgrid |
+| 451 | 180 | sofiiya the forst |
+| 452 | 180 | Michelle |
+| 453 | 180 | Blaze Sexton |
+| 454 | 179 | Megan Simpson |
+| 455 | 177 | Chill Builder |
+| 456 | 177 | Lindsay Lucas |
+| 457 | 175 | Kimberly Garcia |
 | 458 | 175 | Tyler StaySnappin Old'Page |
 | 459 | 175 | Twisty Spinbuilder |
 | 460 | 174 | Dimitra Zazara |
@@ -772,9 +772,9 @@
 | 764 | 98 | Stacey Kauppi |
 | 765 | 98 | Matthew Hall |
 | 766 | 98 | Kendra KJ Joyner |
-| 767 | 97 | Arv |
-| 768 | 97 | Hyper Gridpiece |
-| 769 | 97 | Carlos Landin |
+| 767 | 97 | Carlos Landin |
+| 768 | 97 | Arv |
+| 769 | 97 | Hyper Gridpiece |
 | 770 | 97 | ZeldaCat |
 | 771 | 97 | Briaa Williams |
 | 772 | 97 | Robert Fenton |
@@ -784,8 +784,8 @@
 | 776 | 96 | Allen Spurlock |
 | 777 | 96 | Jolly Towerpiece |
 | 778 | 96 | Joseph Guzman |
-| 779 | 95 | Lavella Tburg |
-| 780 | 95 | Keyata Wright |
+| 779 | 95 | Keyata Wright |
+| 780 | 95 | Lavella Tburg |
 | 781 | 95 | Quintis Steemer |
 | 782 | 94 | Nutty Cluster |
 | 783 | 94 | Billi Jo Gorsuch |
@@ -795,25 +795,25 @@
 | 787 | 94 | Tipsy Towerpiece |
 | 788 | 94 | James Heilman |
 | 789 | 94 | Maria Lee Ardoin |
-| 790 | 94 | Bubbly Blockmatch |
-| 791 | 94 | Staci George Fitzsimmons |
-| 792 | 94 | Plucky Glide |
-| 793 | 93 | TeeLee |
-| 794 | 93 | Witty Cascadefit |
+| 790 | 94 | Plucky Glide |
+| 791 | 94 | Bubbly Blockmatch |
+| 792 | 94 | Staci George Fitzsimmons |
+| 793 | 93 | Breezy |
+| 794 | 93 | Ashley Marie Pierce |
 | 795 | 93 | JoJo |
-| 796 | 93 | Ashley Marie Pierce |
-| 797 | 93 | Trista Duguay |
-| 798 | 93 | Deb Rose-Bridinger |
-| 799 | 93 | Bibbit |
-| 800 | 93 | BusyBee11 |
-| 801 | 93 | Rachel Eliza |
-| 802 | 92 | Cheery Riserpiece |
-| 803 | 92 | MiniLinni |
-| 804 | 92 | illegal impulse |
-| 805 | 92 | Andrew McCafferty |
-| 806 | 92 | Tiffany Banks Jennings |
+| 796 | 93 | Witty Cascadefit |
+| 797 | 93 | TeeLee |
+| 798 | 93 | Trista Duguay |
+| 799 | 93 | Deb Rose-Bridinger |
+| 800 | 93 | Bibbit |
+| 801 | 93 | BusyBee11 |
+| 802 | 93 | Rachel Eliza |
+| 803 | 92 | Cheery Riserpiece |
+| 804 | 92 | MiniLinni |
+| 805 | 92 | illegal impulse |
+| 806 | 92 | Andrew McCafferty |
 | 807 | 92 | Witty Twistslam |
-| 808 | 92 | Breezy |
+| 808 | 92 | Tiffany Banks Jennings |
 | 809 | 92 | Brickh4us |
 | 810 | 92 | Weeping Angel |
 | 811 | 91 | Lora Allen |
