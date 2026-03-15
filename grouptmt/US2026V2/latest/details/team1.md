@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 07:54:41 UTC
+# Standings for team1 as of 2026-03-15 07:55:20 UTC
 
 **Total Participants:** 2167
 
@@ -174,7 +174,7 @@
 | 166 | 487 | Ashley Olson |
 | 167 | 483 | Sonotjelly |
 | 168 | 480 | StankyP |
-| 169 | 477 | DeeBee |
+| 169 | 479 | DeeBee |
 | 170 | 473 | Alicia Sheckler |
 | 171 | 469 | Tatiyana Holm |
 | 172 | 466 | Justin Jerome |
@@ -330,18 +330,18 @@
 | 322 | 224 | Peachy Brick |
 | 323 | 222 | Eric Hoffman |
 | 324 | 221 | CelticTraveler |
-| 325 | 220 | Jevon Griffith |
-| 326 | 220 | Hut Des |
-| 327 | 220 | David Rojas |
-| 328 | 220 | NoIdeaWhatsGoingOn |
+| 325 | 220 | NoIdeaWhatsGoingOn |
+| 326 | 220 | Jevon Griffith |
+| 327 | 220 | Hut Des |
+| 328 | 220 | David Rojas |
 | 329 | 220 | Darci Cline |
-| 330 | 219 | Tameka Brown |
-| 331 | 219 | Ken McDonald |
+| 330 | 219 | Ken McDonald |
+| 331 | 219 | Tameka Brown |
 | 332 | 218 | Amers |
 | 333 | 217 | Nick R Johnson |
-| 334 | 216 | Dani Giles |
-| 335 | 216 | Joe Andrew Jackson |
-| 336 | 216 | Kay Francois |
+| 334 | 217 | Kay Francois |
+| 335 | 216 | Dani Giles |
+| 336 | 216 | Joe Andrew Jackson |
 | 337 | 214 | Mufi25 |
 | 338 | 214 | Giggly Rotate |
 | 339 | 213 | Bobby |
@@ -457,69 +457,69 @@
 | 449 | 151 | Julie Moore |
 | 450 | 151 | Joyce Harrell-chavis |
 | 451 | 150 | Sullivan Tamara |
-| 452 | 148 | Natasha King |
-| 453 | 148 | Cannaman710 |
-| 454 | 148 | Michelle Lee |
-| 455 | 148 | mrkw |
+| 452 | 148 | mrkw |
+| 453 | 148 | Michelle Lee |
+| 454 | 148 | Natasha King |
+| 455 | 148 | Cannaman710 |
 | 456 | 147 | Spicy Twister |
-| 457 | 146 | Armin Muhamed |
-| 458 | 146 | Thomas Susi |
-| 459 | 145 | Hoppy Buildgrid |
+| 457 | 147 | Lil'A |
+| 458 | 146 | Armin Muhamed |
+| 459 | 146 | Thomas Susi |
 | 460 | 145 | Bingo Wingo |
-| 461 | 144 | Gina Annese |
-| 462 | 144 | John Gardner |
-| 463 | 144 | Jaay |
-| 464 | 143 | PennyCandee |
+| 461 | 145 | Hoppy Buildgrid |
+| 462 | 144 | Jaay |
+| 463 | 144 | Gina Annese |
+| 464 | 144 | John Gardner |
 | 465 | 143 | Laura Morrison |
-| 466 | 141 | Roberta Arnold |
-| 467 | 141 | Lil'A |
+| 466 | 143 | PennyCandee |
+| 467 | 141 | Roberta Arnold |
 | 468 | 141 | Poppy Fallzone |
-| 469 | 140 | Vergie Michael |
-| 470 | 140 | Teddy Marshall |
-| 471 | 140 | Snippy Risebuilder |
+| 469 | 140 | Snippy Risebuilder |
+| 470 | 140 | Chris Kelly |
+| 471 | 140 | Vergie Michael |
 | 472 | 140 | Porkobello |
-| 473 | 140 | Chris Kelly |
-| 474 | 139 | Kakalina Thayer |
-| 475 | 139 | Swalshy |
-| 476 | 138 | MisfitH |
-| 477 | 138 | Scott Disedare |
-| 478 | 138 | Ophelia Rae |
-| 479 | 137 | Peachy Curvetile |
-| 480 | 137 | Fancy Cascadebuilder |
-| 481 | 136 | Althea Louise |
-| 482 | 134 | Yvonne Buie |
-| 483 | 134 | Greenbayfan |
-| 484 | 133 | J. |
-| 485 | 133 | Pheezy |
-| 486 | 133 | Julie Miller |
-| 487 | 133 | Nicole Plummer |
-| 488 | 132 | Christina Rentz-Lane |
-| 489 | 131 | Sarah Perry Cook |
+| 473 | 140 | Teddy Marshall |
+| 474 | 139 | Jennifer L Rutherford |
+| 475 | 139 | Kakalina Thayer |
+| 476 | 139 | Swalshy |
+| 477 | 138 | Ophelia Rae |
+| 478 | 138 | Scott Disedare |
+| 479 | 138 | MisfitH |
+| 480 | 137 | Peachy Curvetile |
+| 481 | 137 | Fancy Cascadebuilder |
+| 482 | 136 | Althea Louise |
+| 483 | 136 | J. |
+| 484 | 134 | Yvonne Buie |
+| 485 | 134 | Greenbayfan |
+| 486 | 133 | Nicole Plummer |
+| 487 | 133 | Julie Miller |
+| 488 | 133 | Pheezy |
+| 489 | 132 | Christina Rentz-Lane |
 | 490 | 131 | Dizzy Glidebuilder |
-| 491 | 131 | LT |
-| 492 | 131 | DeJuan Green |
-| 493 | 131 | Megan Treacy |
-| 494 | 130 | Melody Rene |
-| 495 | 130 | Deb Horwath |
-| 496 | 130 | Trevor J Armstrong |
-| 497 | 130 | Erin Hodges Plumb |
-| 498 | 130 | Chiquita Spears |
-| 499 | 130 | Britters |
-| 500 | 129 | Damion Woods |
-| 501 | 129 | Jennifer Negrete |
+| 491 | 131 | DeJuan Green |
+| 492 | 131 | Megan Treacy |
+| 493 | 131 | Sarah Perry Cook |
+| 494 | 131 | LT |
+| 495 | 130 | Erin Hodges Plumb |
+| 496 | 130 | Chiquita Spears |
+| 497 | 130 | Melody Rene |
+| 498 | 130 | Deb Horwath |
+| 499 | 130 | Trevor J Armstrong |
+| 500 | 130 | Britters |
+| 501 | 129 | Amanda Pauldo-Ivy |
 | 502 | 129 | Cheeky Snaplink |
 | 503 | 129 | Karmyst |
 | 504 | 129 | Nate Funk |
-| 505 | 129 | Amanda Pauldo-Ivy |
-| 506 | 128 | Laci Hutson |
+| 505 | 129 | Damion Woods |
+| 506 | 129 | Jennifer Negrete |
 | 507 | 128 | Cool Base |
-| 508 | 127 | Carly |
-| 509 | 127 | Jennifer L Rutherford |
-| 510 | 127 | Charles Herbert |
+| 508 | 128 | Laci Hutson |
+| 509 | 127 | Charles Herbert |
+| 510 | 127 | Carly |
 | 511 | 126 | Dī Kuykendall |
-| 512 | 125 | Tamara Brown |
-| 513 | 125 | Terrance Williams |
-| 514 | 125 | Tawny Mo |
+| 512 | 125 | Terrance Williams |
+| 513 | 125 | Tawny Mo |
+| 514 | 125 | Tamara Brown |
 | 515 | 125 | Mandy Stevenson |
 | 516 | 125 | Jennifer Grubbs |
 | 517 | 125 | Maju Restini |
@@ -910,20 +910,20 @@
 | 902 | 68 | Chirpy Twistpiece |
 | 903 | 68 | Bon Welch |
 | 904 | 68 | Ellen Durfee |
-| 905 | 68 | Selena Shaw |
-| 906 | 67 | Saucy Tilemaker |
-| 907 | 67 | Anthony Ross |
-| 908 | 67 | Sharon Panoski |
-| 909 | 67 | Sloop Betty |
-| 910 | 67 | Steffi Chris Dacones |
-| 911 | 67 | Sunny Frame |
-| 912 | 67 | Christopher L Crites |
-| 913 | 67 | Countryboy Will Survive |
+| 905 | 68 | Countryboy Will Survive |
+| 906 | 68 | Selena Shaw |
+| 907 | 67 | Saucy Tilemaker |
+| 908 | 67 | Anthony Ross |
+| 909 | 67 | Sharon Panoski |
+| 910 | 67 | Sloop Betty |
+| 911 | 67 | Steffi Chris Dacones |
+| 912 | 67 | Sunny Frame |
+| 913 | 67 | Christopher L Crites |
 | 914 | 67 | Nutty Twister |
 | 915 | 67 | John Ham |
 | 916 | 67 | Hyper Drop |
-| 917 | 66 | Jolly Piecebuilder |
-| 918 | 66 | Mel Fab |
+| 917 | 66 | Mel Fab |
+| 918 | 66 | Jolly Piecebuilder |
 | 919 | 66 | Tammy Straka |
 | 920 | 66 | LouiBandz |
 | 921 | 66 | Meagan Canipe |
