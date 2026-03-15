@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 11:44:20 UTC
+# Standings for team1 as of 2026-03-15 11:44:41 UTC
 
 **Total Participants:** 2217
 
@@ -20,8 +20,8 @@
 | 12 | 4381 | Jayna Anoc |
 | 13 | 4265 | Paul Smiar |
 | 14 | 4093 | Robert Jansen |
-| 15 | 3858 | Nathaniel Hughes |
-| 16 | 3825 | Diane |
+| 15 | 3875 | Diane |
+| 16 | 3858 | Nathaniel Hughes |
 | 17 | 3822 | Amber Whisenhunt |
 | 18 | 3700 | Rosey |
 | 19 | 3536 | Erica Lepisto Anderson |
