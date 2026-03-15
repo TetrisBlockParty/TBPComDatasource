@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 09:54:41 UTC
+# Standings for team1 as of 2026-03-15 09:55:19 UTC
 
 **Total Participants:** 2191
 
@@ -150,22 +150,22 @@
 | 142 | 610 | James Burda |
 | 143 | 609 | Ann Carrie |
 | 144 | 605 | Matt Aguilar |
-| 145 | 595 | Chris Wanner |
-| 146 | 595 | Dramatic Tiger |
+| 145 | 595 | Dramatic Tiger |
+| 146 | 595 | Chris Wanner |
 | 147 | 593 | Snippy Stacky |
 | 148 | 590 | Cassandra Latimore |
 | 149 | 583 | Big rick !!! |
 | 150 | 579 | Nanan Nanan |
-| 151 | 577 | Simmone T. Kadiri |
-| 152 | 577 | Gloria Ininahazwe |
+| 151 | 577 | Gloria Ininahazwe |
+| 152 | 577 | Simmone T. Kadiri |
 | 153 | 570 | Johnathan Rasmussen |
 | 154 | 567 | Sarah Stanonik |
 | 155 | 566 | Chrys Peters |
 | 156 | 564 | Joy Bloodworth |
 | 157 | 561 | Marie Helman |
 | 158 | 540 | Alezandra Smith |
-| 159 | 538 | Ramona Gulledge |
-| 160 | 538 | Diamond Madison |
+| 159 | 538 | Diamond Madison |
+| 160 | 538 | Ramona Gulledge |
 | 161 | 536 | Bouncy Framezone |
 | 162 | 535 | BrownNinj |
 | 163 | 530 | Sheree Twiddy Thornton |
@@ -197,8 +197,8 @@
 | 189 | 423 | Shawn Kelso |
 | 190 | 422 | Andrew Coulter |
 | 191 | 419 | Loony Brickmatch |
-| 192 | 416 | Tisha Cammack |
-| 193 | 416 | Frilly Climber |
+| 192 | 416 | Frilly Climber |
+| 193 | 416 | Tisha Cammack |
 | 194 | 408 | beep |
 | 195 | 401 | Marie Shakinah |
 | 196 | 393 | Erich EMac McIntosh |
@@ -211,21 +211,21 @@
 | 203 | 375 | Fancy Ziggy |
 | 204 | 373 | Silly Ziggy |
 | 205 | 371 | Crafty Tilebuilder |
-| 206 | 366 | Rennon Scott Wilson |
-| 207 | 366 | Hannah Carter |
+| 206 | 366 | Hannah Carter |
+| 207 | 366 | Rennon Scott Wilson |
 | 208 | 365 | La'Shonda N Williams |
 | 209 | 362 | Erin Halleman |
 | 210 | 361 | Desiree Jenson |
-| 211 | 360 | Amh |
-| 212 | 360 | Scott Napper |
-| 213 | 360 | Brandy Ridgeway |
-| 214 | 358 | Tammy Lamb |
-| 215 | 358 | Jasmine Riley |
+| 211 | 360 | Jasmine Riley |
+| 212 | 360 | Amh |
+| 213 | 360 | Scott Napper |
+| 214 | 360 | Brandy Ridgeway |
+| 215 | 358 | Tammy Lamb |
 | 216 | 358 | Liliana Pena |
 | 217 | 355 | Paul Stafford |
 | 218 | 355 | Mahman |
-| 219 | 353 | Angelina Maldonado |
-| 220 | 353 | Matthew Bunn |
+| 219 | 353 | Matthew Bunn |
+| 220 | 353 | Angelina Maldonado |
 | 221 | 353 | Jess Rose |
 | 222 | 350 | Aden Moss |
 | 223 | 348 | jenna |
@@ -233,69 +233,69 @@
 | 225 | 344 | Justin Feingold |
 | 226 | 340 | Dicfitzwel |
 | 227 | 338 | Bryan Temple |
-| 228 | 337 | Beka |
-| 229 | 334 | Wacky Balancer |
-| 230 | 332 | raffyG |
-| 231 | 331 | Natalia RX Beyer |
-| 232 | 331 | Jr_420 |
-| 233 | 329 | Yvette Cooper |
-| 234 | 328 | Thorpedo |
-| 235 | 326 | Bouncy Wipeout |
-| 236 | 325 | Kayla Marie Stevenson |
-| 237 | 323 | Allena Craft |
-| 238 | 323 | Lexx Oliver |
-| 239 | 320 | Fatima Washington |
-| 240 | 320 | Shiny Shiftspin |
-| 241 | 318 | Slinky Dashgrid |
-| 242 | 317 | Mykal Burton |
-| 243 | 315 | Kris Koepke |
-| 244 | 313 | Jennifer Campbell |
-| 245 | 312 | Macy Williams |
-| 246 | 312 | Ern2burn |
-| 247 | 312 | Jena Overall Prescott |
-| 248 | 309 | Dawn Hoffman |
-| 249 | 308 | Jason Whitehair |
-| 250 | 307 | Stephanie Myers |
+| 228 | 338 | Mahmudul Hasan |
+| 229 | 337 | Beka |
+| 230 | 334 | Wacky Balancer |
+| 231 | 332 | raffyG |
+| 232 | 331 | Natalia RX Beyer |
+| 233 | 331 | Jr_420 |
+| 234 | 329 | Yvette Cooper |
+| 235 | 328 | Thorpedo |
+| 236 | 326 | Bouncy Wipeout |
+| 237 | 325 | Kayla Marie Stevenson |
+| 238 | 323 | Allena Craft |
+| 239 | 323 | Lexx Oliver |
+| 240 | 320 | Fatima Washington |
+| 241 | 320 | Shiny Shiftspin |
+| 242 | 318 | Slinky Dashgrid |
+| 243 | 317 | Mykal Burton |
+| 244 | 315 | Kris Koepke |
+| 245 | 313 | Jennifer Campbell |
+| 246 | 312 | Macy Williams |
+| 247 | 312 | Ern2burn |
+| 248 | 312 | Jena Overall Prescott |
+| 249 | 309 | Dawn Hoffman |
+| 250 | 308 | Jason Whitehair |
 | 251 | 307 | TexasLise |
-| 252 | 302 | Hasbro Bros |
-| 253 | 302 | TetrisWoo |
-| 254 | 302 | Evy |
-| 255 | 301 | Huskymom |
-| 256 | 301 | Poppy Fallzone |
-| 257 | 300 | Shannon Ferrari |
-| 258 | 300 | Angel Mendez |
-| 259 | 300 | Noelle Cicchillo |
-| 260 | 299 | Stephen Glaze |
-| 261 | 298 | Jodi Fichter |
-| 262 | 298 | Mahmudul Hasan |
-| 263 | 296 | Elizabeth Hughes |
-| 264 | 296 | Sharisse Baltimore |
-| 265 | 295 | Melissa Goerner |
-| 266 | 295 | Aaron Higdon |
-| 267 | 292 | Angela Phillips Kean |
+| 252 | 307 | Stephanie Myers |
+| 253 | 302 | Evy |
+| 254 | 302 | TetrisWoo |
+| 255 | 302 | Hasbro Bros |
+| 256 | 301 | Huskymom |
+| 257 | 301 | Poppy Fallzone |
+| 258 | 300 | Noelle Cicchillo |
+| 259 | 300 | Angel Mendez |
+| 260 | 300 | Shannon Ferrari |
+| 261 | 299 | Stephen Glaze |
+| 262 | 298 | Jodi Fichter |
+| 263 | 296 | Sharisse Baltimore |
+| 264 | 296 | Elizabeth Hughes |
+| 265 | 295 | Aaron Higdon |
+| 266 | 295 | Melissa Goerner |
+| 267 | 292 | Marianne Lopez |
 | 268 | 292 | Beth Anderson |
 | 269 | 292 | Jessi Sauer |
-| 270 | 292 | Marianne Lopez |
+| 270 | 292 | Angela Phillips Kean |
 | 271 | 291 | QueenBee |
 | 272 | 290 | Lilyandstuff |
 | 273 | 288 | bea |
 | 274 | 287 | Marshell Harris |
-| 275 | 286 | Jonnelle Partin |
-| 276 | 286 | Randall Sykes |
+| 275 | 286 | Randall Sykes |
+| 276 | 286 | Jonnelle Partin |
 | 277 | 285 | Cesar Morelos |
 | 278 | 284 | Spicy Buildsnap |
 | 279 | 284 | TRCuse |
 | 280 | 282 | Lavender |
 | 281 | 281 | Death |
-| 282 | 281 | Sabra Fisher |
-| 283 | 281 | Mama Becky |
+| 282 | 281 | Mama Becky |
+| 283 | 281 | Sabra Fisher |
 | 284 | 281 | Kathy Karjala |
 | 285 | 278 | Patti Rone |
-| 286 | 274 | Shawna Fender Dennis |
-| 287 | 274 | JV Yu |
-| 288 | 269 | Heatherly |
-| 289 | 269 | Denise Edwards |
-| 290 | 269 | SpunkyStriker |
+| 286 | 274 | JV Yu |
+| 287 | 274 | Shawna Fender Dennis |
+| 288 | 269 | Denise Edwards |
+| 289 | 269 | SpunkyStriker |
+| 290 | 269 | Heatherly |
 | 291 | 267 | Jamilah Abdul-Hakeem |
 | 292 | 266 | 🗝️🗝️ Key |
 | 293 | 265 | Boldy Clear |
