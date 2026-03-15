@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 03:16:42 UTC
+# Standings for team1 as of 2026-03-15 03:17:20 UTC
 
 **Total Participants:** 2059
 
@@ -44,12 +44,12 @@
 | 36 | 1925 | C Wing Chu |
 | 37 | 1909 | Diane |
 | 38 | 1894 | Clever Linebuilder |
-| 39 | 1860 | Justin Parker |
-| 40 | 1853 | Katie Daniels |
-| 41 | 1836 | Melissa Kay Gibson |
-| 42 | 1826 | butterface |
-| 43 | 1791 | Sarah Henniker |
-| 44 | 1777 | Stacey Larkin |
+| 39 | 1877 | Stacey Larkin |
+| 40 | 1860 | Justin Parker |
+| 41 | 1853 | Katie Daniels |
+| 42 | 1836 | Melissa Kay Gibson |
+| 43 | 1826 | butterface |
+| 44 | 1791 | Sarah Henniker |
 | 45 | 1715 | Carrie Trigg |
 | 46 | 1708 | Bigmoco |
 | 47 | 1706 | Audicia Bailey |
@@ -105,8 +105,8 @@
 | 97 | 751 | Ana Fernanda Sanchez |
 | 98 | 748 | Letson Melissa |
 | 99 | 747 | Tyle Armstead |
-| 100 | 722 | Tina Blessed Cage |
-| 101 | 719 | Yolanda M Harris |
+| 100 | 739 | Yolanda M Harris |
+| 101 | 722 | Tina Blessed Cage |
 | 102 | 713 | FancyPants |
 | 103 | 709 | Amy R Clinton |
 | 104 | 706 | Joshua Dye |
@@ -129,8 +129,8 @@
 | 121 | 594 | Shaynna Garza |
 | 122 | 590 | Cassandra Latimore |
 | 123 | 586 | Duane Ficara |
-| 124 | 577 | Gloria Ininahazwe |
-| 125 | 577 | Simmone T. Kadiri |
+| 124 | 577 | Simmone T. Kadiri |
+| 125 | 577 | Gloria Ininahazwe |
 | 126 | 574 | Muhammad |
 | 127 | 573 | Big rick !!! |
 | 128 | 567 | Robert Everett |
@@ -148,8 +148,8 @@
 | 140 | 519 | Crafty Dash |
 | 141 | 514 | Heather Bell |
 | 142 | 487 | Ashley Olson |
-| 143 | 484 | Joy Bloodworth |
-| 144 | 484 | Giddy Balancepiece |
+| 143 | 484 | Giddy Balancepiece |
+| 144 | 484 | Joy Bloodworth |
 | 145 | 480 | James Burda |
 | 146 | 479 | Legendary |
 | 147 | 469 | Tatiyana Holm |
@@ -180,10 +180,10 @@
 | 172 | 367 | Dramatic Tiger |
 | 173 | 362 | Erin Halleman |
 | 174 | 361 | Desiree Jenson |
-| 175 | 360 | Diamond Madison |
-| 176 | 360 | Brandy Ridgeway |
-| 177 | 359 | TotoCherue |
-| 178 | 359 | Marianne Louise West |
+| 175 | 360 | Brandy Ridgeway |
+| 176 | 360 | Diamond Madison |
+| 177 | 359 | Marianne Louise West |
+| 178 | 359 | TotoCherue |
 | 179 | 358 | Tammy Lamb |
 | 180 | 356 | Rennon Scott Wilson |
 | 181 | 355 | Paul Stafford |
@@ -192,31 +192,31 @@
 | 184 | 353 | Jess Rose |
 | 185 | 353 | Angelina Maldonado |
 | 186 | 350 | Aden Moss |
-| 187 | 342 | Jeremy Stiltner |
-| 188 | 340 | 1_Roxanne_3 |
-| 189 | 339 | Andrew Coulter |
+| 187 | 346 | Andrew Coulter |
+| 188 | 342 | Jeremy Stiltner |
+| 189 | 340 | 1_Roxanne_3 |
 | 190 | 336 | Jasmine Riley |
 | 191 | 331 | jenna |
 | 192 | 329 | Jr_420 |
 | 193 | 328 | Thorpedo |
 | 194 | 326 | Bouncy Wipeout |
 | 195 | 323 | Allena Craft |
-| 196 | 320 | Amh |
-| 197 | 320 | Shiny Shiftspin |
+| 196 | 320 | Shiny Shiftspin |
+| 197 | 320 | Amh |
 | 198 | 318 | Fatima Washington |
 | 199 | 317 | Mykal Burton |
 | 200 | 313 | Bryan Temple |
-| 201 | 312 | Matthew Bunn |
-| 202 | 312 | Macy Williams |
-| 203 | 312 | Jena Overall Prescott |
+| 201 | 312 | Macy Williams |
+| 202 | 312 | Jena Overall Prescott |
+| 203 | 312 | Matthew Bunn |
 | 204 | 309 | Dawn Hoffman |
 | 205 | 307 | Stephanie Myers |
 | 206 | 304 | Ern2burn |
 | 207 | 302 | Justin Feingold |
 | 208 | 301 | Huskymom |
-| 209 | 300 | Angel Mendez |
+| 209 | 300 | Noelle Cicchillo |
 | 210 | 300 | Shannon Ferrari |
-| 211 | 300 | Noelle Cicchillo |
+| 211 | 300 | Angel Mendez |
 | 212 | 299 | Kris Koepke |
 | 213 | 299 | Wacky Balancer |
 | 214 | 298 | Jodi Fichter |
@@ -227,17 +227,17 @@
 | 219 | 291 | Crafty Tilebuilder |
 | 220 | 288 | Hasbro Bros |
 | 221 | 287 | TexasLise |
-| 222 | 286 | Marshell Harris |
+| 222 | 286 | Randall Sykes |
 | 223 | 286 | Jonnelle Partin |
-| 224 | 286 | Randall Sykes |
+| 224 | 286 | Marshell Harris |
 | 225 | 285 | Sharisse Baltimore |
 | 226 | 283 | bea |
 | 227 | 282 | Lavender |
 | 228 | 281 | Death |
 | 229 | 280 | TRCuse |
 | 230 | 279 | Lilyandstuff |
-| 231 | 278 | Patti Rone |
-| 232 | 278 | Sabra Fisher |
+| 231 | 278 | Sabra Fisher |
+| 232 | 278 | Patti Rone |
 | 233 | 273 | Ellie Bein |
 | 234 | 272 | Velvet Rarick |
 | 235 | 269 | SpunkyStriker |
@@ -330,25 +330,25 @@
 | 322 | 185 | Rebekah LeiAnn Bonsell |
 | 323 | 184 | Mufi25 |
 | 324 | 184 | HugeLoad |
-| 325 | 182 | Brandon Zachary Anderson |
-| 326 | 182 | Scott Smith |
-| 327 | 182 | Ecami |
+| 325 | 183 | Ecami |
+| 326 | 182 | Brandon Zachary Anderson |
+| 327 | 182 | Scott Smith |
 | 328 | 182 | Gdiguy |
 | 329 | 181 | David Rojas |
 | 330 | 180 | Robert Benito |
 | 331 | 180 | Kimmy White |
-| 332 | 180 | Grace Kelly |
-| 333 | 180 | Allen Matthies |
+| 332 | 180 | Allen Matthies |
+| 333 | 180 | Grace Kelly |
 | 334 | 179 | Chris |
 | 335 | 179 | DoodleBug |
 | 336 | 177 | Lexx Oliver |
 | 337 | 176 | Jason Hawk |
 | 338 | 176 | Andrew Duron |
 | 339 | 175 | Hhholmesjr |
-| 340 | 174 | Flashy Rotator |
-| 341 | 173 | Josh Twilley |
-| 342 | 173 | Cynthia Petz |
-| 343 | 172 | Jason Cunningham |
+| 340 | 175 | Jason Cunningham |
+| 341 | 174 | Flashy Rotator |
+| 342 | 173 | Josh Twilley |
+| 343 | 173 | Cynthia Petz |
 | 344 | 172 | SpaceCase085 |
 | 345 | 171 | Holly Hinkle |
 | 346 | 171 | Bearman |
@@ -371,8 +371,8 @@
 | 363 | 160 | Boldy Clicky |
 | 364 | 160 | Caitlin Zakrzewski |
 | 365 | 160 | Dee |
-| 366 | 160 | Hannah Carter |
-| 367 | 160 | Florna Primrose |
+| 366 | 160 | Florna Primrose |
+| 367 | 160 | Hannah Carter |
 | 368 | 160 | Ed Bullen |
 | 369 | 159 | Gabriel Archer |
 | 370 | 159 | Bribrobra |
@@ -382,9 +382,9 @@
 | 374 | 158 | Bink |
 | 375 | 158 | Crystal Rosen |
 | 376 | 156 | George Ljr |
-| 377 | 155 | Margo Fenton |
-| 378 | 155 | Erin Green |
-| 379 | 154 | Silly Ziggy |
+| 377 | 156 | Silly Ziggy |
+| 378 | 155 | Margo Fenton |
+| 379 | 155 | Erin Green |
 | 380 | 154 | Armoni |
 | 381 | 153 | Shekita Gibbs |
 | 382 | 153 | Wulfbyte |
