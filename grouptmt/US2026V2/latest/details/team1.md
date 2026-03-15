@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 23:06:43 UTC
+# Standings for team1 as of 2026-03-15 23:07:22 UTC
 
 **Total Participants:** 2453
 
@@ -9,7 +9,7 @@
 | 1 | 22487 | Ariel |
 | 2 | 13475 | Donna Wilkinson |
 | 3 | 13156 | Scott Lindsay |
-| 4 | 10683 | Bryan Stockwell |
+| 4 | 10750 | Bryan Stockwell |
 | 5 | 8547 | Dizzy Stagger |
 | 6 | 7857 | Devinlee Brown |
 | 7 | 6654 | Robert Jansen |
@@ -37,7 +37,7 @@
 | 29 | 3327 | Megan Klinkner |
 | 30 | 3289 | Cody Walther |
 | 31 | 3240 | Troy Gussler |
-| 32 | 3194 | Amanda Sheppard |
+| 32 | 3213 | Amanda Sheppard |
 | 33 | 3143 | Selena Rollin |
 | 34 | 2611 | Fayro |
 | 35 | 2608 | Katie Daniels |
@@ -49,8 +49,8 @@
 | 41 | 2433 | Jordan W Hamilton |
 | 42 | 2400 | Angel Smith |
 | 43 | 2299 | Melissa Kay Gibson |
-| 44 | 2275 | Bigmoco |
-| 45 | 2266 | Xande NO Lie Williams |
+| 44 | 2286 | Xande NO Lie Williams |
+| 45 | 2275 | Bigmoco |
 | 46 | 2155 | Joshua Dye |
 | 47 | 2148 | Amanda Patterson |
 | 48 | 2138 | phrmblk24 |
@@ -457,12 +457,12 @@
 | 449 | 215 | Jennie Lee Huntley |
 | 450 | 214 | Carly |
 | 451 | 213 | Wulfbyte |
-| 452 | 211 | Kimmy White |
-| 453 | 210 | Crystal Claypool |
-| 454 | 210 | Laci Hutson |
-| 455 | 209 | Ma Shwe Myint |
-| 456 | 209 | Armoni |
-| 457 | 209 | Anthony Scarberry |
+| 452 | 212 | Anthony Scarberry |
+| 453 | 211 | Kimmy White |
+| 454 | 210 | Crystal Claypool |
+| 455 | 210 | Laci Hutson |
+| 456 | 209 | Ma Shwe Myint |
+| 457 | 209 | Armoni |
 | 458 | 208 | Poppy Builderline |
 | 459 | 208 | Chill Matchzone |
 | 460 | 208 | Erica Catherine |
@@ -565,23 +565,23 @@
 | 557 | 173 | Slinky Dashpiece |
 | 558 | 173 | Leah LaShomb |
 | 559 | 172 | Vergie Michael |
-| 560 | 172 | Anthony Bryan Riva |
-| 561 | 172 | Lee Sipelii |
-| 562 | 171 | Jester |
+| 560 | 172 | Pauline Cortez |
+| 561 | 172 | Anthony Bryan Riva |
+| 562 | 172 | Lee Sipelii |
 | 563 | 171 | Kay Alifi |
 | 564 | 171 | Ren Mc |
-| 565 | 171 | Glitzy Builderline |
-| 566 | 171 | Nicole Plummer |
-| 567 | 170 | SAP |
-| 568 | 170 | Luke Evans |
-| 569 | 170 | J. |
-| 570 | 170 | Rebecca Martin |
-| 571 | 170 | Jose Olivo |
-| 572 | 170 | Dapper Twistline |
-| 573 | 170 | Noah |
-| 574 | 169 | Epic Fallzone |
-| 575 | 169 | mbij21 |
-| 576 | 169 | Pauline Cortez |
+| 565 | 171 | Jester |
+| 566 | 171 | Glitzy Builderline |
+| 567 | 171 | Nicole Plummer |
+| 568 | 170 | SAP |
+| 569 | 170 | Luke Evans |
+| 570 | 170 | J. |
+| 571 | 170 | Rebecca Martin |
+| 572 | 170 | Jose Olivo |
+| 573 | 170 | Dapper Twistline |
+| 574 | 170 | Noah |
+| 575 | 169 | Epic Fallzone |
+| 576 | 169 | mbij21 |
 | 577 | 168 | SLAPNUTZ |
 | 578 | 168 | Ruby Sandberg |
 | 579 | 168 | Amanda Pauldo-Ivy |
@@ -1271,49 +1271,49 @@
 | 1263 | 67 | Bouncy Clicker |
 | 1264 | 67 | Sunny Frame |
 | 1265 | 66 | Meagan Canipe |
-| 1266 | 66 | Petty Petty |
-| 1267 | 66 | Banzhaf |
+| 1266 | 66 | Banzhaf |
+| 1267 | 66 | Petty Petty |
 | 1268 | 66 | Jessica |
 | 1269 | 66 | Nicole Fields |
 | 1270 | 66 | Robyn Massey |
-| 1271 | 66 | Danelle Sulentic |
-| 1272 | 66 | Bailey Morgan |
-| 1273 | 65 | Rubi |
-| 1274 | 65 | Meli |
-| 1275 | 65 | Renee |
-| 1276 | 65 | ChaCha |
-| 1277 | 65 | Chipper Slide |
-| 1278 | 65 | TexasLeaguer |
-| 1279 | 65 | Mercedes Gates |
-| 1280 | 65 | Rebecca Fitch |
-| 1281 | 65 | Bouncy Linefit |
-| 1282 | 65 | Alex Gibney |
-| 1283 | 65 | BeeDub |
-| 1284 | 65 | Britney Nelson Coy |
-| 1285 | 64 | Vetz Squad |
-| 1286 | 64 | Kat Kath |
-| 1287 | 64 | Lulu C Harp |
-| 1288 | 64 | Happy Snapline |
-| 1289 | 64 | Ernie Guyette |
+| 1271 | 66 | Bailey Morgan |
+| 1272 | 66 | Danelle Sulentic |
+| 1273 | 65 | Meli |
+| 1274 | 65 | Scarlett |
+| 1275 | 65 | Bouncy Linefit |
+| 1276 | 65 | BeeDub |
+| 1277 | 65 | Alex Gibney |
+| 1278 | 65 | Rebecca Fitch |
+| 1279 | 65 | Britney Nelson Coy |
+| 1280 | 65 | Chipper Slide |
+| 1281 | 65 | TexasLeaguer |
+| 1282 | 65 | Mercedes Gates |
+| 1283 | 65 | ChaCha |
+| 1284 | 65 | Renee |
+| 1285 | 65 | Rubi |
+| 1286 | 64 | Happy Snapline |
+| 1287 | 64 | Ernie Guyette |
+| 1288 | 64 | Kat Kath |
+| 1289 | 64 | Vetz Squad |
 | 1290 | 64 | Sunny Linkpiece |
 | 1291 | 64 | Rebecca Gillespie |
-| 1292 | 64 | Jennifer Traywick |
-| 1293 | 64 | rance |
-| 1294 | 64 | Scarlett |
-| 1295 | 64 | SkullKng |
-| 1296 | 64 | Oscar Ferguson |
+| 1292 | 64 | Oscar Ferguson |
+| 1293 | 64 | Jennifer Traywick |
+| 1294 | 64 | rance |
+| 1295 | 64 | Lulu C Harp |
+| 1296 | 64 | SkullKng |
 | 1297 | 63 | key |
-| 1298 | 63 | Nicole Williams |
-| 1299 | 63 | Rachelle Wimpey |
+| 1298 | 63 | Rachelle Wimpey |
+| 1299 | 63 | Nicole Williams |
 | 1300 | 63 | Aden Beeck |
-| 1301 | 63 | Vivian Cobb |
-| 1302 | 63 | Michelle Roberts |
-| 1303 | 63 | Meghan Chalke |
-| 1304 | 63 | Aaron Arenivaz |
-| 1305 | 63 | Omgitsmomma |
+| 1301 | 63 | Michelle Roberts |
+| 1302 | 63 | Meghan Chalke |
+| 1303 | 63 | Aaron Arenivaz |
+| 1304 | 63 | Omgitsmomma |
+| 1305 | 63 | Vivian Cobb |
 | 1306 | 62 | Bouncy Bouncer |
-| 1307 | 62 | zachidious1 |
-| 1308 | 62 | Offspring |
+| 1307 | 62 | Offspring |
+| 1308 | 62 | zachidious1 |
 | 1309 | 62 | SoL |
 | 1310 | 62 | Groovy Builder |
 | 1311 | 62 | Roberta da Silva-Lowery |
