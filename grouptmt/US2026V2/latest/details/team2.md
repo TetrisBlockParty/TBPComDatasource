@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 08:42:19 UTC
+# Standings for team2 as of 2026-03-15 08:42:41 UTC
 
 **Total Participants:** 2172
 
@@ -121,10 +121,10 @@
 | 113 | 699 | Lisa Neal |
 | 114 | 698 | nickle109 |
 | 115 | 686 | Danielle Mogg |
-| 116 | 660 | Lateisha Morris |
-| 117 | 659 | Ania |
-| 118 | 645 | Grace Rubalcada |
-| 119 | 644 | Adam Charles |
+| 116 | 674 | Adam Charles |
+| 117 | 660 | Lateisha Morris |
+| 118 | 659 | Ania |
+| 119 | 645 | Grace Rubalcada |
 | 120 | 644 | Dandy Crasher |
 | 121 | 636 | Qing DG |
 | 122 | 634 | Nathaniel Hardy |
@@ -1598,130 +1598,130 @@
 | 1590 | 27 | Rachael Village |
 | 1591 | 27 | Dandy Glider |
 | 1592 | 27 | Chilly Shatterfit |
-| 1593 | 27 | Giggy Zonepiece |
-| 1594 | 27 | Sarah Moyer |
-| 1595 | 27 | Dawn Michelle Scheible |
-| 1596 | 27 | Parker Demarest |
-| 1597 | 27 | Cheeky Dashgrid |
-| 1598 | 27 | Chrystyne |
-| 1599 | 27 | Karmabunny |
+| 1593 | 27 | Parker Demarest |
+| 1594 | 27 | Cheeky Dashgrid |
+| 1595 | 27 | Chrystyne |
+| 1596 | 27 | Giggy Zonepiece |
+| 1597 | 27 | Stacey Renee |
+| 1598 | 27 | Kayla |
+| 1599 | 27 | Dreamy Line |
 | 1600 | 27 | Major Pain |
-| 1601 | 27 | Dreamy Line |
-| 1602 | 27 | Kayla |
-| 1603 | 27 | Fuzzy |
-| 1604 | 27 | StephyCue |
-| 1605 | 27 | Chirpy Grabber |
-| 1606 | 27 | Mellinese Nicole King |
-| 1607 | 26 | Shirley Petty |
-| 1608 | 26 | Marie Elena |
-| 1609 | 26 | Rebecca Frango |
-| 1610 | 26 | Erika Vause |
-| 1611 | 26 | Hoppy Fallmatch |
-| 1612 | 26 | simonsays420 |
-| 1613 | 26 | Fancy Builderfit |
-| 1614 | 26 | SuzAnne |
-| 1615 | 26 | Manny Diaz |
-| 1616 | 26 | acb345 |
-| 1617 | 26 | Catherine Powers |
-| 1618 | 26 | Tiffany Bruursema |
-| 1619 | 26 | Kershawna Aten |
-| 1620 | 26 | Twisty Piecefit |
-| 1621 | 26 | Kelly Mcdaniel |
-| 1622 | 26 | Elizabeth Miller |
+| 1601 | 27 | Karmabunny |
+| 1602 | 27 | Sarah Moyer |
+| 1603 | 27 | Dawn Michelle Scheible |
+| 1604 | 27 | Fuzzy |
+| 1605 | 27 | StephyCue |
+| 1606 | 27 | Chirpy Grabber |
+| 1607 | 27 | Mellinese Nicole King |
+| 1608 | 26 | Shirley Petty |
+| 1609 | 26 | Marie Elena |
+| 1610 | 26 | Rebecca Frango |
+| 1611 | 26 | acb345 |
+| 1612 | 26 | Manny Diaz |
+| 1613 | 26 | Tiffany Bruursema |
+| 1614 | 26 | Catherine Powers |
+| 1615 | 26 | SuzAnne |
+| 1616 | 26 | Twisty Piecefit |
+| 1617 | 26 | Fancy Builderfit |
+| 1618 | 26 | simonsays420 |
+| 1619 | 26 | Jackie Avila |
+| 1620 | 26 | Erika Vause |
+| 1621 | 26 | Hoppy Fallmatch |
+| 1622 | 26 | Joan Du |
 | 1623 | 26 | LadiStrigoi |
-| 1624 | 26 | Joan Du |
-| 1625 | 26 | Jackie Avila |
-| 1626 | 25 | Cranky Party |
-| 1627 | 25 | Ashley Mahala |
-| 1628 | 25 | aja |
-| 1629 | 25 | JSP |
-| 1630 | 25 | Swanky Bridgepiece |
-| 1631 | 25 | BigTim042069 |
-| 1632 | 25 | Snippy Fall |
-| 1633 | 25 | Jackie Thomlison Schroeder |
-| 1634 | 25 | Julie Renee Long |
-| 1635 | 25 | Johnboom317 |
-| 1636 | 25 | Mindy Stephens |
-| 1637 | 25 | Candice Bertie |
-| 1638 | 25 | Tamika Williams |
-| 1639 | 25 | Bettie Amiel |
-| 1640 | 25 | Cheyenne Waller |
-| 1641 | 25 | Natasha Magathan |
-| 1642 | 25 | Earl Beamer |
-| 1643 | 25 | Anthony Intrabartolo |
-| 1644 | 25 | Quirky Dash |
-| 1645 | 25 | Cassie Moeller |
-| 1646 | 25 | Chirpy Zoney |
-| 1647 | 25 | Morgan Hirzel |
-| 1648 | 25 | Lazy Balancepiece |
-| 1649 | 25 | Chasity Johnson |
-| 1650 | 25 | Wacky Columnbuilder |
-| 1651 | 25 | Lush Matchgrid |
-| 1652 | 25 | Poppy Linkpiece |
-| 1653 | 24 | Nyaa Love |
-| 1654 | 24 | Malcolm Annias Flamer |
-| 1655 | 24 | Mike Stevens |
-| 1656 | 24 | Annette Henderson |
+| 1624 | 26 | Kershawna Aten |
+| 1625 | 26 | Elizabeth Miller |
+| 1626 | 26 | Kelly Mcdaniel |
+| 1627 | 25 | Cranky Party |
+| 1628 | 25 | Swanky Bridgepiece |
+| 1629 | 25 | Cassie Moeller |
+| 1630 | 25 | aja |
+| 1631 | 25 | Snippy Fall |
+| 1632 | 25 | Ashley Mahala |
+| 1633 | 25 | BigTim042069 |
+| 1634 | 25 | Jackie Thomlison Schroeder |
+| 1635 | 25 | Cheyenne Waller |
+| 1636 | 25 | Julie Renee Long |
+| 1637 | 25 | Johnboom317 |
+| 1638 | 25 | Lazy Balancepiece |
+| 1639 | 25 | JSP |
+| 1640 | 25 | Morgan Hirzel |
+| 1641 | 25 | Mindy Stephens |
+| 1642 | 25 | Bettie Amiel |
+| 1643 | 25 | Candice Bertie |
+| 1644 | 25 | Tamika Williams |
+| 1645 | 25 | Chirpy Zoney |
+| 1646 | 25 | Quirky Dash |
+| 1647 | 25 | Anthony Intrabartolo |
+| 1648 | 25 | Earl Beamer |
+| 1649 | 25 | Natasha Magathan |
+| 1650 | 25 | Chasity Johnson |
+| 1651 | 25 | Wacky Columnbuilder |
+| 1652 | 25 | Lush Matchgrid |
+| 1653 | 25 | Poppy Linkpiece |
+| 1654 | 24 | Nyaa Love |
+| 1655 | 24 | Malcolm Annias Flamer |
+| 1656 | 24 | Boldy Twistfit |
 | 1657 | 24 | Sydney |
-| 1658 | 24 | Amy |
-| 1659 | 24 | Melissa Jackson |
-| 1660 | 24 | Boldy Twistfit |
-| 1661 | 24 | John Mathis |
-| 1662 | 24 | Jude |
-| 1663 | 24 | Douglas Stam |
-| 1664 | 24 | Darin Benning |
+| 1658 | 24 | Melissa Jackson |
+| 1659 | 24 | Amy |
+| 1660 | 24 | Annette Henderson |
+| 1661 | 24 | BouncyAries |
+| 1662 | 24 | John Mathis |
+| 1663 | 24 | Jude |
+| 1664 | 24 | Douglas Stam |
 | 1665 | 24 | carzyspinner |
-| 1666 | 24 | BouncyAries |
-| 1667 | 23 | Playtray |
-| 1668 | 23 | Mrkimcheeman |
-| 1669 | 23 | Daniella K |
-| 1670 | 23 | Doodle |
-| 1671 | 23 | Ash |
-| 1672 | 23 | Reese Crystal |
-| 1673 | 23 | Snappy Clusterline |
-| 1674 | 23 | Lisa |
-| 1675 | 23 | Kiisha |
-| 1676 | 23 | Jen Hawes |
-| 1677 | 23 | Flashy Slam |
-| 1678 | 23 | Cranky Riserbuilder |
-| 1679 | 23 | Leshea L Brandi |
-| 1680 | 23 | James Tankersley |
-| 1681 | 23 | Lien |
-| 1682 | 23 | Ashley Grace |
-| 1683 | 23 | Zany Blockfall |
-| 1684 | 23 | Kari Thompson Rock |
-| 1685 | 23 | Crafty Edgefit |
-| 1686 | 22 | Bash Bandit |
-| 1687 | 22 | Gravytrain |
-| 1688 | 22 | Nikki Zdany |
-| 1689 | 22 | Andy Barrett |
-| 1690 | 22 | Marlene Espinosa |
+| 1666 | 24 | Darin Benning |
+| 1667 | 24 | Mike Stevens |
+| 1668 | 23 | Jen Hawes |
+| 1669 | 23 | Kiisha |
+| 1670 | 23 | Lisa |
+| 1671 | 23 | Flashy Slam |
+| 1672 | 23 | Snappy Clusterline |
+| 1673 | 23 | Playtray |
+| 1674 | 23 | Reese Crystal |
+| 1675 | 23 | Doodle |
+| 1676 | 23 | Cranky Riserbuilder |
+| 1677 | 23 | Leshea L Brandi |
+| 1678 | 23 | Ash |
+| 1679 | 23 | Daniella K |
+| 1680 | 23 | Mrkimcheeman |
+| 1681 | 23 | James Tankersley |
+| 1682 | 23 | Lien |
+| 1683 | 23 | Ashley Grace |
+| 1684 | 23 | Zany Blockfall |
+| 1685 | 23 | Kari Thompson Rock |
+| 1686 | 23 | Crafty Edgefit |
+| 1687 | 22 | Bash Bandit |
+| 1688 | 22 | Gravytrain |
+| 1689 | 22 | Nikki Zdany |
+| 1690 | 22 | Andy Barrett |
 | 1691 | 22 | ytho |
-| 1692 | 22 | Misty Altice |
+| 1692 | 22 | Aryn Thacker |
 | 1693 | 22 | Mango |
 | 1694 | 22 | Nellie Cummings |
 | 1695 | 22 | Goofy Buildgrid |
 | 1696 | 22 | Tre |
-| 1697 | 22 | Eda Mcboyle Ordoñez |
+| 1697 | 22 | Trell Sweeting |
 | 1698 | 22 | Meep |
-| 1699 | 22 | Trell Sweeting |
+| 1699 | 22 | Misty Altice |
 | 1700 | 22 | Krystyna Hernandez |
 | 1701 | 22 | Kimberly Christine Sherwood |
-| 1702 | 22 | Aryn Thacker |
+| 1702 | 22 | Christa Ybarra |
 | 1703 | 22 | Abby Bluteau |
-| 1704 | 22 | Christa Ybarra |
-| 1705 | 22 | Betty Boop |
-| 1706 | 21 | Kristen Tucker |
-| 1707 | 21 | Poppy Twister |
-| 1708 | 21 | Brooke Parkin |
+| 1704 | 22 | Betty Boop |
+| 1705 | 22 | Marlene Espinosa |
+| 1706 | 22 | Eda Mcboyle Ordoñez |
+| 1707 | 21 | Brooke Parkin |
+| 1708 | 21 | Poppy Twister |
 | 1709 | 21 | Cheeky Cornerfall |
-| 1710 | 21 | Emily Ackley |
-| 1711 | 21 | Tiara Alexander |
-| 1712 | 21 | Snippy Piecebuilder |
-| 1713 | 21 | Stephanie Saranko Cummings |
-| 1714 | 21 | Brian Schaefer |
-| 1715 | 21 | Jeremy Barry |
-| 1716 | 21 | Stacey Renee |
+| 1710 | 21 | Kristen Tucker |
+| 1711 | 21 | Emily Ackley |
+| 1712 | 21 | Tiara Alexander |
+| 1713 | 21 | Snippy Piecebuilder |
+| 1714 | 21 | Stephanie Saranko Cummings |
+| 1715 | 21 | Brian Schaefer |
+| 1716 | 21 | Jeremy Barry |
 | 1717 | 21 | Cozy Shatterfit |
 | 1718 | 21 | Bentley Welsh |
 | 1719 | 21 | Kayla Southern |
