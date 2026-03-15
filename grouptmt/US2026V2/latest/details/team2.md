@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 05:52:19 UTC
+# Standings for team2 as of 2026-03-15 05:52:37 UTC
 
 **Total Participants:** 2120
 
@@ -207,9 +207,9 @@
 | 199 | 335 | Plucky Snaplink |
 | 200 | 333 | Emily Wooden |
 | 201 | 332 | Tommy Proctor |
-| 202 | 329 | Jay |
-| 203 | 326 | Kyesha Goodyear |
-| 204 | 324 | YAE |
+| 202 | 330 | YAE |
+| 203 | 329 | Jay |
+| 204 | 326 | Kyesha Goodyear |
 | 205 | 323 | CharalaAnn |
 | 206 | 319 | BluBae |
 | 207 | 318 | Danielle Weikel |
@@ -861,11 +861,11 @@
 | 853 | 70 | Sunny Blockline |
 | 854 | 70 | Savvlexx |
 | 855 | 70 | Nicole Archuleta |
-| 856 | 70 | Mandy |
-| 857 | 70 | Happy Link |
-| 858 | 70 | Amanda Colwell |
-| 859 | 70 | ZeldaCat |
-| 860 | 70 | Rod Grayll |
+| 856 | 70 | Happy Link |
+| 857 | 70 | Mandy |
+| 858 | 70 | ZeldaCat |
+| 859 | 70 | Rod Grayll |
+| 860 | 70 | Amanda Colwell |
 | 861 | 70 | Snazzy Wipepiece |
 | 862 | 70 | Caitlyn Brown |
 | 863 | 70 | Sara Knapp |
@@ -878,18 +878,18 @@
 | 870 | 69 | Jake Ching |
 | 871 | 69 | Jelessa Locklear |
 | 872 | 69 | Smiley |
-| 873 | 69 | Timothy Poole |
-| 874 | 69 | Incandescent hatchet fish |
+| 873 | 69 | Billi Jo Gorsuch |
+| 874 | 69 | Timothy Poole |
 | 875 | 69 | Frisky Riseclear |
-| 876 | 68 | Billi Jo Gorsuch |
-| 877 | 68 | Amanda Martinez |
-| 878 | 68 | Snappy McName |
+| 876 | 69 | Incandescent hatchet fish |
+| 877 | 68 | Ariel Whittington |
+| 878 | 68 | Jada Tims |
 | 879 | 68 | Jazzy Nat |
-| 880 | 68 | Ariel Whittington |
-| 881 | 68 | Jada Tims |
-| 882 | 68 | Old Man |
-| 883 | 68 | Stacey Sanders |
-| 884 | 68 | 00022Denny |
+| 880 | 68 | Old Man |
+| 881 | 68 | Snappy McName |
+| 882 | 68 | Stacey Sanders |
+| 883 | 68 | 00022Denny |
+| 884 | 68 | Amanda Martinez |
 | 885 | 68 | Cozy Clearbuilder |
 | 886 | 68 | Lisa Duncan |
 | 887 | 68 | D3TROITB0RN74 |
@@ -900,9 +900,9 @@
 | 892 | 68 | Elizabeth Smith |
 | 893 | 67 | Ieisha Scruggs Webb |
 | 894 | 67 | Chipper Puzzler |
-| 895 | 67 | Allen Spurlock |
-| 896 | 67 | Hyper Shatterbuilder |
-| 897 | 67 | Katie Coyle |
+| 895 | 67 | Katie Coyle |
+| 896 | 67 | Allen Spurlock |
+| 897 | 67 | Hyper Shatterbuilder |
 | 898 | 67 | Tipsy Towerpiece |
 | 899 | 67 | Shannon Lynn Goddard |
 | 900 | 67 | JamMY-YamMy |
