@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 02:20:19 UTC
+# Standings for team2 as of 2026-03-15 02:20:42 UTC
 
 **Total Participants:** 2002
 
@@ -192,11 +192,11 @@
 | 184 | 318 | Elizabeth Mauri |
 | 185 | 318 | Winner |
 | 186 | 315 | Snappy Tiley |
-| 187 | 314 | YAE |
-| 188 | 313 | Jumpy Smasher |
-| 189 | 311 | Rusty Davis |
-| 190 | 309 | Christy Merriman Addison |
-| 191 | 309 | Connie Mohler-Fair |
+| 187 | 314 | Connie Mohler-Fair |
+| 188 | 314 | YAE |
+| 189 | 313 | Jumpy Smasher |
+| 190 | 311 | Rusty Davis |
+| 191 | 309 | Christy Merriman Addison |
 | 192 | 308 | Bouncy Swiper |
 | 193 | 306 | Jt Home |
 | 194 | 306 | Slippery Clam |
@@ -205,17 +205,17 @@
 | 197 | 303 | CharalaAnn |
 | 198 | 302 | Amanda Segura |
 | 199 | 301 | Jo Frohwein |
-| 200 | 298 | Anna Faulkner |
-| 201 | 295 | Junang Herowanto |
-| 202 | 294 | Leticia Martinez Kelley |
-| 203 | 291 | Dreamy Clicky |
-| 204 | 288 | 1RiRi1 |
-| 205 | 288 | Dreamer |
-| 206 | 286 | Jamie Mclean |
-| 207 | 286 | hyper Zip |
-| 208 | 282 | Ruby Anne |
-| 209 | 282 | Khalysta |
-| 210 | 280 | Danielle Weikel |
+| 200 | 299 | Danielle Weikel |
+| 201 | 298 | Anna Faulkner |
+| 202 | 295 | Junang Herowanto |
+| 203 | 294 | Leticia Martinez Kelley |
+| 204 | 291 | Dreamy Clicky |
+| 205 | 288 | 1RiRi1 |
+| 206 | 288 | Dreamer |
+| 207 | 286 | Jamie Mclean |
+| 208 | 286 | hyper Zip |
+| 209 | 282 | Ruby Anne |
+| 210 | 282 | Khalysta |
 | 211 | 280 | Breeana Bennett |
 | 212 | 280 | Smiley Shatter |
 | 213 | 279 | BluBae |
@@ -243,19 +243,19 @@
 | 235 | 255 | Pixie |
 | 236 | 253 | Melissa Bergin |
 | 237 | 253 | Carlton Unfiltered |
-| 238 | 252 | Ella Marzano |
-| 239 | 252 | Kit Dennett |
+| 238 | 252 | Kit Dennett |
+| 239 | 252 | Ella Marzano |
 | 240 | 251 | Topsannah Topsannah |
 | 241 | 251 | Shelly |
 | 242 | 250 | LML |
 | 243 | 250 | Ramone Armstrong |
 | 244 | 248 | Mcg |
 | 245 | 247 | Guillaume Clermont |
-| 246 | 245 | Elaine Webb Graves |
-| 247 | 242 | Maureen Winter |
+| 246 | 245 | Mandy |
+| 247 | 245 | Elaine Webb Graves |
 | 248 | 242 | Katie Lynn |
-| 249 | 241 | Monica Galli |
-| 250 | 241 | Mandy |
+| 249 | 242 | Maureen Winter |
+| 250 | 241 | Monica Galli |
 | 251 | 240 | candypants |
 | 252 | 240 | Sandra Safford |
 | 253 | 238 | nickle109 |
@@ -285,8 +285,8 @@
 | 277 | 209 | Tig’o Biggie |
 | 278 | 208 | Jaz Sky |
 | 279 | 208 | Koipod |
-| 280 | 207 | Brenda Bell |
-| 281 | 207 | Fbai |
+| 280 | 207 | Fbai |
+| 281 | 207 | Brenda Bell |
 | 282 | 205 | Allison L Tiffany |
 | 283 | 205 | Cynthia Prouse |
 | 284 | 205 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
@@ -295,8 +295,8 @@
 | 287 | 200 | Susan Dunn |
 | 288 | 200 | Nerdy Blockpiece |
 | 289 | 200 | Rhonda Prince |
-| 290 | 199 | Olivia Gwin |
-| 291 | 199 | titrissss |
+| 290 | 199 | titrissss |
+| 291 | 199 | Olivia Gwin |
 | 292 | 199 | Tra Barnum |
 | 293 | 199 | David V. Bowers |
 | 294 | 199 | Chummy Linkgrid |
@@ -331,9 +331,9 @@
 | 323 | 181 | Lora |
 | 324 | 181 | Blockyboyyy |
 | 325 | 181 | Mighty Zone |
-| 326 | 180 | Michelle |
-| 327 | 180 | Bea Miles |
-| 328 | 180 | Blaze Sexton |
+| 326 | 180 | Blaze Sexton |
+| 327 | 180 | Michelle |
+| 328 | 180 | Bea Miles |
 | 329 | 180 | Abimbola Bimbo |
 | 330 | 179 | Buisanito |
 | 331 | 178 | Derrell W. Barron |
@@ -1619,24 +1619,24 @@
 | 1611 | 20 | Jolly Blockroll |
 | 1612 | 20 | Annmarie Gilreath |
 | 1613 | 20 | Mike Kremen |
-| 1614 | 20 | Andrew Yates |
-| 1615 | 20 | Cassie Moeller |
+| 1614 | 20 | Cassie Moeller |
+| 1615 | 20 | Andrew Yates |
 | 1616 | 20 | Jessica Walder |
 | 1617 | 20 | Tony Hooker |
-| 1618 | 20 | Jenna McGeorge |
-| 1619 | 20 | Julie Lane |
+| 1618 | 20 | Julie Lane |
+| 1619 | 20 | Jenna McGeorge |
 | 1620 | 20 | Yasmin Veliz |
 | 1621 | 19 | Joe |
-| 1622 | 19 | Truesuperwoman |
-| 1623 | 19 | Dellalynn |
+| 1622 | 19 | Dellalynn |
+| 1623 | 19 | Truesuperwoman |
 | 1624 | 19 | Dawn Burton |
 | 1625 | 19 | Anthony Starks |
 | 1626 | 19 | Joshua Cross |
-| 1627 | 19 | Anastacia Young |
-| 1628 | 19 | Jude |
-| 1629 | 19 | Paul Squier |
-| 1630 | 19 | Gillian Hiltbold |
-| 1631 | 19 | Lickity Split |
+| 1627 | 19 | Paul Squier |
+| 1628 | 19 | Anastacia Young |
+| 1629 | 19 | Jude |
+| 1630 | 19 | Lickity Split |
+| 1631 | 19 | Gillian Hiltbold |
 | 1632 | 19 | Cranky Bouncer |
 | 1633 | 19 | John Garza |
 | 1634 | 19 | simonsays420 |
@@ -1652,47 +1652,47 @@
 | 1644 | 18 | Zesty Faller |
 | 1645 | 18 | Somthin |
 | 1646 | 18 | Cheery Lift |
-| 1647 | 18 | Ash |
-| 1648 | 18 | Sweetyam22 |
+| 1647 | 18 | Sweetyam22 |
+| 1648 | 18 | Ash |
 | 1649 | 18 | Buddy Howell |
 | 1650 | 18 | Hyper Twisterfit |
 | 1651 | 18 | Cranky Riserbuilder |
 | 1652 | 18 | Brave Builderline |
-| 1653 | 18 | David Ysidron |
-| 1654 | 18 | Becky Wilson |
-| 1655 | 18 | Rosie |
-| 1656 | 18 | Rebekah G Ray |
-| 1657 | 18 | Halstead47K |
-| 1658 | 18 | Dreamy Snapzone |
-| 1659 | 17 | MrsPass |
-| 1660 | 17 | Julio Chen-Ramos |
-| 1661 | 17 | Cassie Patterson |
-| 1662 | 17 | Jacob Rosencutter |
-| 1663 | 17 | Farrah KS Deloney |
+| 1653 | 18 | Twisty Towerbuilder |
+| 1654 | 18 | David Ysidron |
+| 1655 | 18 | Becky Wilson |
+| 1656 | 18 | Rosie |
+| 1657 | 18 | Rebekah G Ray |
+| 1658 | 18 | Halstead47K |
+| 1659 | 18 | Dreamy Snapzone |
+| 1660 | 17 | MrsPass |
+| 1661 | 17 | Julio Chen-Ramos |
+| 1662 | 17 | Cassie Patterson |
+| 1663 | 17 | Jacob Rosencutter |
 | 1664 | 17 | Lazy Swiper |
-| 1665 | 17 | Jenn |
-| 1666 | 17 | LatinaLover |
-| 1667 | 17 | VectorZero |
-| 1668 | 17 | Brad Campbell |
-| 1669 | 17 | Jamocha Mieka Muldrow-Wright |
-| 1670 | 17 | Anthony Parks |
+| 1665 | 17 | Farrah KS Deloney |
+| 1666 | 17 | Jenn |
+| 1667 | 17 | Meg |
+| 1668 | 17 | LatinaLover |
+| 1669 | 17 | jaebae |
+| 1670 | 17 | VectorZero |
 | 1671 | 17 | Chummy Brickfit |
-| 1672 | 17 | jaebae |
-| 1673 | 17 | Meg |
-| 1674 | 17 | Terry Partain |
-| 1675 | 17 | Jim Kelly |
-| 1676 | 17 | Dapper Stacker |
-| 1677 | 16 | Emily Price |
-| 1678 | 16 | Cheeky Brickfit |
-| 1679 | 16 | John Mathis |
-| 1680 | 16 | Twisty Towerbuilder |
-| 1681 | 16 | Poppy Balancepiece |
-| 1682 | 16 | Angelia Twedell |
-| 1683 | 16 | Liz Scott |
-| 1684 | 16 | DieM Flood |
-| 1685 | 16 | Barb Swartzendruber |
-| 1686 | 16 | Brianna Nicole Goodman |
-| 1687 | 16 | Yo |
+| 1672 | 17 | Anthony Parks |
+| 1673 | 17 | Jamocha Mieka Muldrow-Wright |
+| 1674 | 17 | Brad Campbell |
+| 1675 | 17 | Terry Partain |
+| 1676 | 17 | Jim Kelly |
+| 1677 | 17 | Dapper Stacker |
+| 1678 | 16 | Emily Price |
+| 1679 | 16 | Cheeky Brickfit |
+| 1680 | 16 | Yo |
+| 1681 | 16 | Barb Swartzendruber |
+| 1682 | 16 | Liz Scott |
+| 1683 | 16 | Angelia Twedell |
+| 1684 | 16 | John Mathis |
+| 1685 | 16 | Poppy Balancepiece |
+| 1686 | 16 | DieM Flood |
+| 1687 | 16 | Brianna Nicole Goodman |
 | 1688 | 16 | kittomom |
 | 1689 | 16 | Goofy Snapfit |
 | 1690 | 16 | Sam |
