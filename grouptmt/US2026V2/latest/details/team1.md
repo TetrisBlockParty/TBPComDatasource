@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 05:02:19 UTC
+# Standings for team1 as of 2026-03-15 05:02:42 UTC
 
 **Total Participants:** 2119
 
@@ -132,10 +132,10 @@
 | 124 | 612 | Amanda Diegel |
 | 125 | 609 | Ann Carrie |
 | 126 | 605 | Matt Aguilar |
-| 127 | 599 | nameno |
-| 128 | 597 | Velvet Rarick |
-| 129 | 595 | Chris Wanner |
-| 130 | 594 | Shaynna Garza |
+| 127 | 600 | Shaynna Garza |
+| 128 | 599 | nameno |
+| 129 | 597 | Velvet Rarick |
+| 130 | 595 | Chris Wanner |
 | 131 | 590 | Cassandra Latimore |
 | 132 | 586 | Duane Ficara |
 | 133 | 583 | Big rick !!! |
@@ -143,12 +143,12 @@
 | 135 | 577 | Simmone T. Kadiri |
 | 136 | 577 | Gloria Ininahazwe |
 | 137 | 567 | Sarah Stanonik |
-| 138 | 561 | Marie Helman |
-| 139 | 546 | Al Smith Jr |
-| 140 | 540 | Alezandra Smith |
-| 141 | 538 | Ramona Gulledge |
-| 142 | 536 | Bouncy Framezone |
-| 143 | 536 | 1_Roxanne_3 |
+| 138 | 566 | Al Smith Jr |
+| 139 | 561 | Marie Helman |
+| 140 | 551 | 1_Roxanne_3 |
+| 141 | 540 | Alezandra Smith |
+| 142 | 538 | Ramona Gulledge |
+| 143 | 536 | Bouncy Framezone |
 | 144 | 535 | BrownNinj |
 | 145 | 531 | Johnathan Rasmussen |
 | 146 | 529 | PhatWI41 |
@@ -503,29 +503,29 @@
 | 495 | 121 | Erica Catherine |
 | 496 | 121 | Suzan Frazier |
 | 497 | 121 | La'Shonda N Williams |
-| 498 | 120 | Candace Esposito |
-| 499 | 120 | Noah |
-| 500 | 120 | Karmyst |
-| 501 | 120 | Ann Brock LaPorte |
-| 502 | 119 | Swalshy |
-| 503 | 119 | Tractor Houston |
+| 498 | 120 | Ann Brock LaPorte |
+| 499 | 120 | Karmyst |
+| 500 | 120 | Noah |
+| 501 | 120 | Candace Esposito |
+| 502 | 119 | Tractor Houston |
+| 503 | 119 | Swalshy |
 | 504 | 119 | Bouncy Tilerpiece |
-| 505 | 118 | Teresa Wolf |
-| 506 | 118 | Ash Galvan |
-| 507 | 118 | Hoppy Buildgrid |
-| 508 | 118 | Aprill Bolton |
-| 509 | 117 | Witty Clusterfit |
-| 510 | 117 | Danielle Kollias |
-| 511 | 116 | Jeff Brian Gates |
-| 512 | 116 | l |
-| 513 | 116 | Heather Bowser |
-| 514 | 116 | Petahboi |
-| 515 | 115 | Maju Restini |
-| 516 | 114 | Rebecca Martin |
-| 517 | 114 | Bennett Hunter |
-| 518 | 114 | Rebecca Wilson |
-| 519 | 114 | Crazy12 |
-| 520 | 114 | Pauline Cortez |
+| 505 | 118 | Hoppy Buildgrid |
+| 506 | 118 | Teresa Wolf |
+| 507 | 118 | Aprill Bolton |
+| 508 | 118 | Ash Galvan |
+| 509 | 117 | Pauline Cortez |
+| 510 | 117 | Witty Clusterfit |
+| 511 | 117 | Danielle Kollias |
+| 512 | 116 | Jeff Brian Gates |
+| 513 | 116 | l |
+| 514 | 116 | Heather Bowser |
+| 515 | 116 | Petahboi |
+| 516 | 115 | Maju Restini |
+| 517 | 114 | Rebecca Martin |
+| 518 | 114 | Bennett Hunter |
+| 519 | 114 | Rebecca Wilson |
+| 520 | 114 | Crazy12 |
 | 521 | 113 | Tawny Mo |
 | 522 | 113 | Peppy Brickclear |
 | 523 | 112 | Ciara Nunez |
@@ -1278,138 +1278,138 @@
 | 1270 | 40 | Mickey |
 | 1271 | 40 | Stephanie Holman |
 | 1272 | 40 | Casey Jordan |
-| 1273 | 40 | Nun YA |
-| 1274 | 40 | smitch |
-| 1275 | 40 | Christi Burley |
-| 1276 | 40 | Bird Reed |
-| 1277 | 40 | Shaunie Miller |
-| 1278 | 40 | Wayne Kentarski |
-| 1279 | 40 | Jesus Garcia |
-| 1280 | 40 | Melody Quinn |
-| 1281 | 40 | Ron Poindexter |
-| 1282 | 40 | Larry Jackson |
-| 1283 | 40 | Lisa Gayle Skinner |
-| 1284 | 40 | MomOf2Angels |
-| 1285 | 40 | Faith Dupuis |
-| 1286 | 40 | Nena |
+| 1273 | 40 | Donna Hatfield Napier |
+| 1274 | 40 | Nun YA |
+| 1275 | 40 | smitch |
+| 1276 | 40 | Christi Burley |
+| 1277 | 40 | Bird Reed |
+| 1278 | 40 | Shaunie Miller |
+| 1279 | 40 | Wayne Kentarski |
+| 1280 | 40 | Jesus Garcia |
+| 1281 | 40 | Melody Quinn |
+| 1282 | 40 | Ron Poindexter |
+| 1283 | 40 | Larry Jackson |
+| 1284 | 40 | Lisa Gayle Skinner |
+| 1285 | 40 | MomOf2Angels |
+| 1286 | 40 | Faith Dupuis |
 | 1287 | 40 | Slinky Towerer |
-| 1288 | 39 | Berenice |
-| 1289 | 39 | Jennifer Rhea |
-| 1290 | 39 | Jason Dickess |
+| 1288 | 40 | Nena |
+| 1289 | 39 | Berenice |
+| 1290 | 39 | Hecate Trimora |
 | 1291 | 39 | Hoppy Shatterfit |
-| 1292 | 39 | Amy Niemeier |
-| 1293 | 39 | Paul Osborne |
-| 1294 | 39 | Michael Hain |
-| 1295 | 39 | Nunet Amen-Ra |
-| 1296 | 39 | mindgames |
-| 1297 | 39 | ldm |
-| 1298 | 39 | Goob277 |
+| 1292 | 39 | Jennifer Rhea |
+| 1293 | 39 | Jason Dickess |
+| 1294 | 39 | Amy Niemeier |
+| 1295 | 39 | Paul Osborne |
+| 1296 | 39 | Michael Hain |
+| 1297 | 39 | Nunet Amen-Ra |
+| 1298 | 39 | mindgames |
 | 1299 | 39 | Speedy Dropmatch |
-| 1300 | 39 | Aaron Wright |
-| 1301 | 39 | Hecate Trimora |
-| 1302 | 39 | Gloria Barton |
-| 1303 | 39 | Daniel McKay |
+| 1300 | 39 | ldm |
+| 1301 | 39 | Goob277 |
+| 1302 | 39 | Aaron Wright |
+| 1303 | 39 | Gloria Barton |
 | 1304 | 39 | Flashy Wipeblock |
-| 1305 | 38 | Rik |
-| 1306 | 38 | Caitlin Baylor |
-| 1307 | 38 | Starlight |
+| 1305 | 39 | Daniel McKay |
+| 1306 | 38 | Groovy Builder |
+| 1307 | 38 | Loony Glider |
 | 1308 | 38 | Nikki Eaton |
-| 1309 | 38 | Loony Glider |
-| 1310 | 38 | Ronald Przytulski |
-| 1311 | 38 | Quirky Crawler |
-| 1312 | 38 | Chirpy Glidebuilder |
-| 1313 | 38 | Tony McCormick |
-| 1314 | 38 | Audrey Abreast |
-| 1315 | 38 | Araceli Gomez |
+| 1309 | 38 | Starlight |
+| 1310 | 38 | Quirky Crawler |
+| 1311 | 38 | Chirpy Glidebuilder |
+| 1312 | 38 | Offspring |
+| 1313 | 38 | Audrey Abreast |
+| 1314 | 38 | Dennis Eitler |
+| 1315 | 38 | Anne Oliver |
 | 1316 | 38 | Grace Leigh |
-| 1317 | 38 | Offspring |
-| 1318 | 38 | Anne Oliver |
-| 1319 | 38 | Dennis Eitler |
-| 1320 | 38 | Groovy Builder |
-| 1321 | 38 | Kelli Marie |
+| 1317 | 38 | Caitlin Baylor |
+| 1318 | 38 | Rik |
+| 1319 | 38 | Kelli Marie |
+| 1320 | 38 | Ronald Przytulski |
+| 1321 | 38 | Shelly Cunningham |
 | 1322 | 38 | Christina Davis |
-| 1323 | 38 | Shelly Cunningham |
+| 1323 | 38 | Araceli Gomez |
 | 1324 | 38 | Tipsy Shuffler |
-| 1325 | 37 | Michelle Pritchard |
-| 1326 | 37 | Cristian Ramirez Lazaro |
-| 1327 | 37 | Adrien M Roberson |
-| 1328 | 37 | Any Michelle Kounou |
-| 1329 | 37 | Sunny Frame |
+| 1325 | 38 | Tony McCormick |
+| 1326 | 37 | Michelle Pritchard |
+| 1327 | 37 | Cristian Ramirez Lazaro |
+| 1328 | 37 | Big mama 2010 |
+| 1329 | 37 | Marisa Tesch |
 | 1330 | 37 | James Martin |
-| 1331 | 37 | Angie Dotson |
-| 1332 | 37 | Leonna Bianchi |
-| 1333 | 37 | Jennifer Wilt |
-| 1334 | 37 | Marisa Tesch |
-| 1335 | 37 | Kelsey Cook |
-| 1336 | 37 | Tipsy Buildgrid |
-| 1337 | 37 | Big mama 2010 |
-| 1338 | 36 | Katie Martin |
-| 1339 | 36 | Thomcatt |
-| 1340 | 36 | Epic Glider |
-| 1341 | 36 | Donna Hatfield Napier |
-| 1342 | 36 | Neomi Perdue |
-| 1343 | 36 | Angela Nipple |
-| 1344 | 36 | Stacey Delane Sumner |
-| 1345 | 36 | Ella Brown |
-| 1346 | 36 | Andrea Clippert |
-| 1347 | 36 | Oats |
+| 1331 | 37 | Leonna Bianchi |
+| 1332 | 37 | Sunny Frame |
+| 1333 | 37 | Any Michelle Kounou |
+| 1334 | 37 | Adrien M Roberson |
+| 1335 | 37 | Jennifer Wilt |
+| 1336 | 37 | Kelsey Cook |
+| 1337 | 37 | Angie Dotson |
+| 1338 | 37 | Tipsy Buildgrid |
+| 1339 | 36 | ChaosNCatHair |
+| 1340 | 36 | Oats |
+| 1341 | 36 | Sassyshell |
+| 1342 | 36 | Angela Nipple |
+| 1343 | 36 | Epic Glider |
+| 1344 | 36 | Neomi Perdue |
+| 1345 | 36 | Thomcatt |
+| 1346 | 36 | Bald head b |
+| 1347 | 36 | Ella Brown |
 | 1348 | 36 | Chirpy Blockroll |
-| 1349 | 36 | Chris JonesSr |
-| 1350 | 36 | Jessica Franz |
-| 1351 | 36 | Michael Espinosa Ulibarri Jr. |
-| 1352 | 36 | Sassyshell |
-| 1353 | 36 | Natalie Wilson |
-| 1354 | 36 | ChaosNCatHair |
-| 1355 | 36 | Bald head b |
-| 1356 | 36 | meh |
-| 1357 | 35 | Quinn Craig |
-| 1358 | 35 | EspyBlue |
-| 1359 | 35 | Benjamin Ford |
-| 1360 | 35 | Richard Cranium |
-| 1361 | 35 | Kristie Ballestin |
-| 1362 | 35 | Flashy Clicker |
-| 1363 | 35 | rance |
-| 1364 | 35 | Luis Guzman |
-| 1365 | 35 | Reshi |
-| 1366 | 35 | Johnnette Kruse |
-| 1367 | 35 | Dizzy Tiler |
-| 1368 | 35 | Crystal Conklin |
-| 1369 | 35 | MJ Beca Good |
+| 1349 | 36 | Jessica Franz |
+| 1350 | 36 | Michael Espinosa Ulibarri Jr. |
+| 1351 | 36 | Stacey Delane Sumner |
+| 1352 | 36 | Chris JonesSr |
+| 1353 | 36 | Katie Martin |
+| 1354 | 36 | Andrea Clippert |
+| 1355 | 36 | meh |
+| 1356 | 36 | Natalie Wilson |
+| 1357 | 35 | Benjamin Ford |
+| 1358 | 35 | Luis Guzman |
+| 1359 | 35 | EspyBlue |
+| 1360 | 35 | Flashy Clicker |
+| 1361 | 35 | Reshi |
+| 1362 | 35 | rance |
+| 1363 | 35 | Pam Jennings Herzog |
+| 1364 | 35 | Richard Cranium |
+| 1365 | 35 | Samantha Turzak Baker |
+| 1366 | 35 | Kristie Ballestin |
+| 1367 | 35 | NewMe Shortie Rodriguez |
+| 1368 | 35 | Kimberly Amburn |
+| 1369 | 35 | Quinn Craig |
 | 1370 | 35 | Jenny Lynn Hiles |
-| 1371 | 35 | Samantha Turzak Baker |
-| 1372 | 35 | Pam Jennings Herzog |
-| 1373 | 35 | Lasey Rands |
-| 1374 | 35 | Kimberly Amburn |
-| 1375 | 35 | NewMe Shortie Rodriguez |
-| 1376 | 35 | Christopher Wesley |
+| 1371 | 35 | Lasey Rands |
+| 1372 | 35 | MJ Beca Good |
+| 1373 | 35 | Crystal Conklin |
+| 1374 | 35 | Dizzy Tiler |
+| 1375 | 35 | Christopher Wesley |
+| 1376 | 35 | Johnnette Kruse |
 | 1377 | 35 | Lynn Adams |
 | 1378 | 35 | Connie Bond |
-| 1379 | 34 | Lentoya Jackson |
-| 1380 | 34 | Crystal Jaggars |
+| 1379 | 34 | Cheryl Spriggs |
+| 1380 | 34 | Michael Palmer |
 | 1381 | 34 | Sassy Curvetile |
-| 1382 | 34 | Cheryl Spriggs |
-| 1383 | 34 | key |
-| 1384 | 34 | Jolly Buildgrid |
-| 1385 | 34 | Michael Palmer |
-| 1386 | 34 | Dicfitzwel |
-| 1387 | 34 | Tina Jett |
-| 1388 | 34 | Jeremy Lake |
-| 1389 | 34 | Jennifer Bunker |
-| 1390 | 34 | Junior |
-| 1391 | 34 | Zesty Edgepiece |
-| 1392 | 34 | Captain Geoff |
-| 1393 | 34 | Venus Daniels |
-| 1394 | 34 | Carl Leonard |
-| 1395 | 34 | Dave Myers |
-| 1396 | 34 | Tierra |
-| 1397 | 33 | Ashley Adams |
-| 1398 | 33 | Bouncy Catcher |
-| 1399 | 33 | Tandi Bush |
+| 1382 | 34 | Dicfitzwel |
+| 1383 | 34 | Jolly Buildgrid |
+| 1384 | 34 | Lentoya Jackson |
+| 1385 | 34 | Tina Jett |
+| 1386 | 34 | Jennifer Bunker |
+| 1387 | 34 | key |
+| 1388 | 34 | Venus Daniels |
+| 1389 | 34 | Tierra |
+| 1390 | 34 | Carl Leonard |
+| 1391 | 34 | Crystal Jaggars |
+| 1392 | 34 | Dave Myers |
+| 1393 | 34 | Junior |
+| 1394 | 34 | Jeremy Lake |
+| 1395 | 34 | Captain Geoff |
+| 1396 | 34 | Zesty Edgepiece |
+| 1397 | 33 | Cheeks |
+| 1398 | 33 | Ashley Adams |
+| 1399 | 33 | Bouncy Catcher |
 | 1400 | 33 | Kristen Martin |
-| 1401 | 33 | Steve Pacheco |
-| 1402 | 33 | Sherri Drews |
-| 1403 | 33 | Ronald M Blansit Jr. |
-| 1404 | 33 | Cheeks |
+| 1401 | 33 | Tandi Bush |
+| 1402 | 33 | Steve Pacheco |
+| 1403 | 33 | Sherri Drews |
+| 1404 | 33 | Ronald M Blansit Jr. |
 | 1405 | 33 | Montez Montez |
 | 1406 | 33 | Delzie J Leigh |
 | 1407 | 33 | Michael Meyer |
