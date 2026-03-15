@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 08:54:20 UTC
+# Standings for team2 as of 2026-03-15 08:54:42 UTC
 
 **Total Participants:** 2172
 
@@ -207,8 +207,8 @@
 | 199 | 363 | CharalaAnn |
 | 200 | 358 | Elizabeth Mauri |
 | 201 | 356 | Connie Mohler-Fair |
-| 202 | 355 | Jumpy Breaker |
-| 203 | 355 | Shelly |
+| 202 | 355 | Shelly |
+| 203 | 355 | Jumpy Breaker |
 | 204 | 355 | Nick Kozik |
 | 205 | 352 | Jay |
 | 206 | 349 | Liz Wambsgans |
@@ -242,8 +242,8 @@
 | 234 | 305 | ddd |
 | 235 | 305 | Abby Jensen |
 | 236 | 303 | Snippy Towerpiece |
-| 237 | 302 | Leticia Martinez Kelley |
-| 238 | 302 | Amanda Segura |
+| 237 | 302 | Amanda Segura |
+| 238 | 302 | Leticia Martinez Kelley |
 | 239 | 301 | Jo Frohwein |
 | 240 | 301 | Jennifer Haton Kreighbaum |
 | 241 | 301 | Ruby Anne |
@@ -279,8 +279,8 @@
 | 271 | 262 | Layle Miranda Madsen |
 | 272 | 262 | nina |
 | 273 | 261 | Christine Lin |
-| 274 | 260 | Tony Tran |
-| 275 | 260 | Charde Parnell |
+| 274 | 260 | Charde Parnell |
+| 275 | 260 | Tony Tran |
 | 276 | 260 | Jason Briggs |
 | 277 | 259 | eMzzz |
 | 278 | 256 | 🍏 Green apple |
