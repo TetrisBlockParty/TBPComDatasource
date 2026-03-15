@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 10:32:19 UTC
+# Standings for team2 as of 2026-03-15 10:32:41 UTC
 
 **Total Participants:** 2193
 
@@ -1534,10 +1534,10 @@
 | 1526 | 32 | Slinky Shifter |
 | 1527 | 32 | Nerdy Crusher |
 | 1528 | 32 | Rachel Hathcock |
-| 1529 | 31 | Totoxx2 |
-| 1530 | 31 | Smiley Shuffler |
-| 1531 | 31 | squarish |
-| 1532 | 31 | tee |
+| 1529 | 32 | tee |
+| 1530 | 31 | Totoxx2 |
+| 1531 | 31 | Smiley Shuffler |
+| 1532 | 31 | squarish |
 | 1533 | 31 | Smags |
 | 1534 | 31 | Brave Tilebuilder |
 | 1535 | 31 | Ashley V Arnold |
