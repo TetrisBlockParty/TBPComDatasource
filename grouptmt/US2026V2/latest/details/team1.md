@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 09:24:40 UTC
+# Standings for team1 as of 2026-03-15 09:25:21 UTC
 
 **Total Participants:** 2186
 
@@ -67,25 +67,25 @@
 | 59 | 1501 | Sherri Drews |
 | 60 | 1490 | Katherine Walton |
 | 61 | 1426 | Ramon Salazar |
-| 62 | 1350 | Howard Forest |
-| 63 | 1340 | Christie |
-| 64 | 1326 | Hellsin |
-| 65 | 1316 | Dom The Great |
-| 66 | 1303 | Goober |
-| 67 | 1272 | Kesha Brady |
-| 68 | 1218 | wildMan |
-| 69 | 1202 | Velt Richardson |
-| 70 | 1198 | Jodie Peterson |
-| 71 | 1188 | Ryry |
-| 72 | 1187 | Cheeky Crusher |
-| 73 | 1121 | Nancy |
-| 74 | 1080 | Yolanda M Harris |
-| 75 | 1067 | Jeremy Stiltner |
-| 76 | 1053 | Crawford Candice |
-| 77 | 1042 | Giddy Cascade |
-| 78 | 1031 | Jason Rogers |
-| 79 | 1025 | Fluffy |
-| 80 | 1023 | Joshua Dye |
+| 62 | 1390 | Joshua Dye |
+| 63 | 1350 | Howard Forest |
+| 64 | 1340 | Christie |
+| 65 | 1326 | Hellsin |
+| 66 | 1316 | Dom The Great |
+| 67 | 1303 | Goober |
+| 68 | 1272 | Kesha Brady |
+| 69 | 1218 | wildMan |
+| 70 | 1202 | Velt Richardson |
+| 71 | 1198 | Jodie Peterson |
+| 72 | 1188 | Ryry |
+| 73 | 1187 | Cheeky Crusher |
+| 74 | 1121 | Nancy |
+| 75 | 1080 | Yolanda M Harris |
+| 76 | 1067 | Jeremy Stiltner |
+| 77 | 1053 | Crawford Candice |
+| 78 | 1042 | Giddy Cascade |
+| 79 | 1031 | Jason Rogers |
+| 80 | 1025 | Fluffy |
 | 81 | 1021 | Amee Schnarrs |
 | 82 | 1010 | Sarah Durmer |
 | 83 | 1000 | Walter Beltran |
@@ -97,8 +97,8 @@
 | 89 | 957 | TotoCherue |
 | 90 | 941 | Kris Hudelson |
 | 91 | 934 | Jay Aye |
-| 92 | 914 | Zach Thompson |
-| 93 | 914 | Trisha Gallagher |
+| 92 | 914 | Trisha Gallagher |
+| 93 | 914 | Zach Thompson |
 | 94 | 878 | Elyse YL |
 | 95 | 868 | Renee Weedling |
 | 96 | 866 | Walker Patterson |
@@ -112,8 +112,8 @@
 | 104 | 809 | Donald Nguyen |
 | 105 | 804 | Tom |
 | 106 | 794 | @n@luvmakin |
-| 107 | 792 | L3sli3 |
-| 108 | 792 | Tim Raper |
+| 107 | 792 | Tim Raper |
+| 108 | 792 | L3sli3 |
 | 109 | 790 | Michael DeRosa |
 | 110 | 778 | Amy R Clinton |
 | 111 | 772 | Andy Harris |
@@ -200,10 +200,10 @@
 | 192 | 416 | Tisha Cammack |
 | 193 | 408 | beep |
 | 194 | 401 | Marie Shakinah |
-| 195 | 393 | Erich EMac McIntosh |
-| 196 | 392 | Haley Anne |
-| 197 | 389 | Twisty Snapfit |
-| 198 | 387 | Matt Coons |
+| 195 | 399 | Matt Coons |
+| 196 | 393 | Erich EMac McIntosh |
+| 197 | 392 | Haley Anne |
+| 198 | 389 | Twisty Snapfit |
 | 199 | 385 | Jason Cunningham |
 | 200 | 381 | Pamela Marie Tyler |
 | 201 | 380 | Dude |
@@ -216,16 +216,16 @@
 | 208 | 365 | La'Shonda N Williams |
 | 209 | 362 | Erin Halleman |
 | 210 | 361 | Desiree Jenson |
-| 211 | 360 | Scott Napper |
-| 212 | 360 | Amh |
+| 211 | 360 | Amh |
+| 212 | 360 | Scott Napper |
 | 213 | 360 | Brandy Ridgeway |
-| 214 | 358 | Tammy Lamb |
-| 215 | 358 | Jasmine Riley |
+| 214 | 358 | Jasmine Riley |
+| 215 | 358 | Tammy Lamb |
 | 216 | 358 | Liliana Pena |
 | 217 | 355 | Mahman |
 | 218 | 355 | Paul Stafford |
-| 219 | 353 | Angelina Maldonado |
-| 220 | 353 | Jess Rose |
+| 219 | 353 | Jess Rose |
+| 220 | 353 | Angelina Maldonado |
 | 221 | 350 | Aden Moss |
 | 222 | 348 | jenna |
 | 223 | 346 | Krystal Mccoy |
@@ -235,8 +235,8 @@
 | 227 | 338 | Matthew Bunn |
 | 228 | 337 | Beka |
 | 229 | 334 | Wacky Balancer |
-| 230 | 331 | Jr_420 |
-| 231 | 331 | Natalia RX Beyer |
+| 230 | 331 | Natalia RX Beyer |
+| 231 | 331 | Jr_420 |
 | 232 | 329 | Yvette Cooper |
 | 233 | 328 | Thorpedo |
 | 234 | 326 | Bouncy Wipeout |
@@ -254,15 +254,15 @@
 | 246 | 312 | Macy Williams |
 | 247 | 309 | Dawn Hoffman |
 | 248 | 308 | Jason Whitehair |
-| 249 | 307 | TexasLise |
-| 250 | 307 | Stephanie Myers |
-| 251 | 302 | TetrisWoo |
-| 252 | 302 | Hasbro Bros |
-| 253 | 302 | Evy |
+| 249 | 307 | Stephanie Myers |
+| 250 | 307 | TexasLise |
+| 251 | 302 | Evy |
+| 252 | 302 | TetrisWoo |
+| 253 | 302 | Hasbro Bros |
 | 254 | 301 | Huskymom |
-| 255 | 300 | Noelle Cicchillo |
-| 256 | 300 | Angel Mendez |
-| 257 | 300 | Shannon Ferrari |
+| 255 | 300 | Shannon Ferrari |
+| 256 | 300 | Noelle Cicchillo |
+| 257 | 300 | Angel Mendez |
 | 258 | 298 | Jodi Fichter |
 | 259 | 296 | Sharisse Baltimore |
 | 260 | 295 | Aaron Higdon |
@@ -450,27 +450,27 @@
 | 442 | 158 | Philippines |
 | 443 | 158 | Crystal Rosen |
 | 444 | 158 | SitHazy |
-| 445 | 157 | Dawgofwar |
-| 446 | 156 | Sassy Pivotfall |
-| 447 | 156 | George Ljr |
-| 448 | 155 | Lori Dutton |
-| 449 | 155 | Jaay |
-| 450 | 155 | Erin Green |
-| 451 | 155 | Tausha Mathews |
+| 445 | 157 | Thomas Susi |
+| 446 | 157 | Dawgofwar |
+| 447 | 156 | Sassy Pivotfall |
+| 448 | 156 | George Ljr |
+| 449 | 155 | Lori Dutton |
+| 450 | 155 | Jaay |
+| 451 | 155 | Erin Green |
 | 452 | 155 | Margo Fenton |
 | 453 | 155 | Shekita Gibbs |
-| 454 | 154 | Maxwell Hall |
-| 455 | 154 | AngelVoice JB |
-| 456 | 154 | Chill Matchzone |
-| 457 | 154 | Armoni |
-| 458 | 153 | Jessica |
-| 459 | 153 | J. |
-| 460 | 153 | Wulfbyte |
-| 461 | 153 | Thomas Susi |
+| 454 | 155 | Tausha Mathews |
+| 455 | 154 | Maxwell Hall |
+| 456 | 154 | AngelVoice JB |
+| 457 | 154 | Chill Matchzone |
+| 458 | 154 | Armoni |
+| 459 | 153 | Jessica |
+| 460 | 153 | J. |
+| 461 | 153 | Wulfbyte |
 | 462 | 152 | Ruby Sandberg |
-| 463 | 151 | Joyce Harrell-chavis |
+| 463 | 151 | Breezy Wiper |
 | 464 | 151 | Julie Moore |
-| 465 | 151 | Breezy Wiper |
+| 465 | 151 | Joyce Harrell-chavis |
 | 466 | 148 | Natasha King |
 | 467 | 148 | mrkw |
 | 468 | 147 | Spicy Twister |
@@ -660,11 +660,11 @@
 | 652 | 99 | Lakie Fogle |
 | 653 | 99 | Amy Sanford |
 | 654 | 99 | GinjaNinja |
-| 655 | 99 | Carrie E Lamb Neal |
-| 656 | 98 | Misstery |
-| 657 | 97 | Amy Hollinger |
-| 658 | 97 | Jacob Phillips |
-| 659 | 97 | Dizzy Stackbuilder |
+| 655 | 99 | Dizzy Stackbuilder |
+| 656 | 99 | Carrie E Lamb Neal |
+| 657 | 98 | Misstery |
+| 658 | 97 | Amy Hollinger |
+| 659 | 97 | Jacob Phillips |
 | 660 | 97 | Sean Dickey |
 | 661 | 97 | Abcmasters12 |
 | 662 | 96 | Matt Mullinax |
