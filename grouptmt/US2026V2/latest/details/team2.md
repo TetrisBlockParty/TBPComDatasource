@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 09:06:20 UTC
+# Standings for team2 as of 2026-03-15 09:06:41 UTC
 
 **Total Participants:** 2173
 
@@ -319,13 +319,13 @@
 | 311 | 229 | Ann Jessica |
 | 312 | 229 | Ess |
 | 313 | 227 | Koipod |
-| 314 | 227 | Randy Jansen |
-| 315 | 227 | Fbai |
+| 314 | 227 | Fbai |
+| 315 | 227 | Randy Jansen |
 | 316 | 226 | Arisvet Garcia |
 | 317 | 226 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 318 | 225 | Zippy Zoney |
-| 319 | 223 | Dondon Cheng |
-| 320 | 223 | Stacy Evans |
+| 319 | 223 | Stacy Evans |
+| 320 | 223 | Dondon Cheng |
 | 321 | 222 | Mighty Zone |
 | 322 | 222 | Zippy Tile |
 | 323 | 220 | Abimbola Bimbo |
@@ -336,21 +336,21 @@
 | 328 | 218 | Allison L Tiffany |
 | 329 | 217 | Robyn Coleman Sadler |
 | 330 | 216 | Berklie Apedaile |
-| 331 | 215 | Zany Rotater |
+| 331 | 216 | Twisty Balanceblock |
 | 332 | 215 | Jonathan Vee Jay |
-| 333 | 213 | Bouncy Zoner |
-| 334 | 212 | Gael |
-| 335 | 212 | Taghrid Ebeid |
-| 336 | 211 | Susan Dunn |
-| 337 | 211 | Cleopatra Daniels |
-| 338 | 210 | Isabella Blanco |
-| 339 | 209 | HarleyJane |
-| 340 | 209 | Tig’o Biggie |
-| 341 | 208 | Jenn Dandle |
-| 342 | 207 | Brenda Bell |
-| 343 | 206 | Desi Desporte |
+| 333 | 215 | Zany Rotater |
+| 334 | 213 | Bouncy Zoner |
+| 335 | 212 | Gael |
+| 336 | 212 | Taghrid Ebeid |
+| 337 | 211 | Susan Dunn |
+| 338 | 211 | Cleopatra Daniels |
+| 339 | 210 | Isabella Blanco |
+| 340 | 209 | HarleyJane |
+| 341 | 209 | Tig’o Biggie |
+| 342 | 208 | Jenn Dandle |
+| 343 | 207 | Brenda Bell |
 | 344 | 206 | Mike Davis |
-| 345 | 206 | Twisty Balanceblock |
+| 345 | 206 | Desi Desporte |
 | 346 | 205 | Cynthia Prouse |
 | 347 | 203 | Giddy Gridmatch |
 | 348 | 202 | Dally Hunt |
@@ -360,8 +360,8 @@
 | 352 | 201 | Eugenio Moquete |
 | 353 | 201 | Ashley Leonard |
 | 354 | 200 | Nerdy Blockpiece |
-| 355 | 200 | Trice Sodames |
-| 356 | 200 | Rhonda Prince |
+| 355 | 200 | Rhonda Prince |
+| 356 | 200 | Trice Sodames |
 | 357 | 200 | Tammi Crnza |
 | 358 | 199 | titrissss |
 | 359 | 199 | David V. Bowers |
