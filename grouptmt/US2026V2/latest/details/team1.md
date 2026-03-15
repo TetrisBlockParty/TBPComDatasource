@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 09:28:42 UTC
+# Standings for team1 as of 2026-03-15 09:29:20 UTC
 
 **Total Participants:** 2187
 
@@ -172,35 +172,35 @@
 | 164 | 519 | Crafty Dash |
 | 165 | 515 | Giddy Balancepiece |
 | 166 | 514 | Heather Bell |
-| 167 | 487 | Ashley Olson |
-| 168 | 485 | Austin |
-| 169 | 483 | Sonotjelly |
-| 170 | 481 | DeeBee |
-| 171 | 480 | StankyP |
-| 172 | 473 | Alicia Sheckler |
-| 173 | 469 | Tatiyana Holm |
-| 174 | 466 | Justin Jerome |
-| 175 | 465 | Alex Hennigh |
-| 176 | 459 | Loony Towerpiece |
-| 177 | 458 | Christina Costantino |
-| 178 | 456 | Stefanie Champion |
-| 179 | 449 | Penny Morrical |
-| 180 | 442 | Jme |
-| 181 | 441 | Courtney Leigh Deiber |
-| 182 | 438 | Dizzy Pattern |
-| 183 | 433 | Snippy Stacky |
-| 184 | 431 | Sassy Cascadepiece |
-| 185 | 428 | Marianne Louise West |
-| 186 | 425 | Jaime Barrett Nelson |
-| 187 | 424 | Mighty Patternbuilder |
-| 188 | 423 | Shawn Kelso |
-| 189 | 422 | Andrew Coulter |
-| 190 | 419 | Loony Brickmatch |
-| 191 | 416 | Tisha Cammack |
+| 167 | 493 | Snippy Stacky |
+| 168 | 487 | Ashley Olson |
+| 169 | 485 | Austin |
+| 170 | 483 | Sonotjelly |
+| 171 | 481 | DeeBee |
+| 172 | 480 | StankyP |
+| 173 | 473 | Alicia Sheckler |
+| 174 | 469 | Tatiyana Holm |
+| 175 | 466 | Justin Jerome |
+| 176 | 465 | Alex Hennigh |
+| 177 | 459 | Loony Towerpiece |
+| 178 | 458 | Christina Costantino |
+| 179 | 456 | Stefanie Champion |
+| 180 | 449 | Penny Morrical |
+| 181 | 442 | Jme |
+| 182 | 441 | Courtney Leigh Deiber |
+| 183 | 438 | Dizzy Pattern |
+| 184 | 437 | Matt Coons |
+| 185 | 431 | Sassy Cascadepiece |
+| 186 | 428 | Marianne Louise West |
+| 187 | 425 | Jaime Barrett Nelson |
+| 188 | 424 | Mighty Patternbuilder |
+| 189 | 423 | Shawn Kelso |
+| 190 | 422 | Andrew Coulter |
+| 191 | 419 | Loony Brickmatch |
 | 192 | 416 | Frilly Climber |
-| 193 | 408 | beep |
-| 194 | 401 | Marie Shakinah |
-| 195 | 399 | Matt Coons |
+| 193 | 416 | Tisha Cammack |
+| 194 | 408 | beep |
+| 195 | 401 | Marie Shakinah |
 | 196 | 393 | Erich EMac McIntosh |
 | 197 | 392 | Haley Anne |
 | 198 | 389 | Twisty Snapfit |
@@ -216,12 +216,12 @@
 | 208 | 365 | La'Shonda N Williams |
 | 209 | 362 | Erin Halleman |
 | 210 | 361 | Desiree Jenson |
-| 211 | 360 | Brandy Ridgeway |
-| 212 | 360 | Scott Napper |
+| 211 | 360 | Scott Napper |
+| 212 | 360 | Brandy Ridgeway |
 | 213 | 360 | Amh |
 | 214 | 358 | Jasmine Riley |
-| 215 | 358 | Liliana Pena |
-| 216 | 358 | Tammy Lamb |
+| 215 | 358 | Tammy Lamb |
+| 216 | 358 | Liliana Pena |
 | 217 | 355 | Paul Stafford |
 | 218 | 355 | Mahman |
 | 219 | 353 | Angelina Maldonado |
@@ -231,8 +231,8 @@
 | 223 | 346 | Krystal Mccoy |
 | 224 | 344 | Justin Feingold |
 | 225 | 340 | Dicfitzwel |
-| 226 | 338 | Matthew Bunn |
-| 227 | 338 | Bryan Temple |
+| 226 | 338 | Bryan Temple |
+| 227 | 338 | Matthew Bunn |
 | 228 | 337 | Beka |
 | 229 | 334 | Wacky Balancer |
 | 230 | 331 | Jr_420 |
@@ -241,8 +241,8 @@
 | 233 | 328 | Thorpedo |
 | 234 | 326 | Bouncy Wipeout |
 | 235 | 325 | Kayla Marie Stevenson |
-| 236 | 323 | Allena Craft |
-| 237 | 323 | Lexx Oliver |
+| 236 | 323 | Lexx Oliver |
+| 237 | 323 | Allena Craft |
 | 238 | 320 | Fatima Washington |
 | 239 | 320 | Shiny Shiftspin |
 | 240 | 318 | Slinky Dashgrid |
@@ -423,29 +423,29 @@
 | 415 | 168 | Jennifer L Rutherford |
 | 416 | 168 | Kellia S Johnson |
 | 417 | 167 | Kay Alifi |
-| 418 | 166 | Rat666 |
+| 418 | 166 | Angela Brown Babin |
 | 419 | 166 | Keri Smith |
-| 420 | 165 | Michelle Cummings |
-| 421 | 165 | Chilly Faller |
-| 422 | 165 | Happy Shatterfit |
-| 423 | 164 | Boldy Clicky |
+| 420 | 166 | Rat666 |
+| 421 | 165 | Michelle Cummings |
+| 422 | 165 | Chilly Faller |
+| 423 | 165 | Happy Shatterfit |
 | 424 | 164 | Alexis Garcia |
 | 425 | 164 | Jennifer Lynn |
-| 426 | 163 | Angela Brown Babin |
+| 426 | 164 | Boldy Clicky |
 | 427 | 162 | Bribrobra |
 | 428 | 162 | Albert Josef Toves Means Jr. |
 | 429 | 161 | Melanie Kelley |
 | 430 | 161 | Lablaze |
 | 431 | 161 | DreamyMoon |
 | 432 | 161 | Rocky |
-| 433 | 160 | Tee Tee Greene |
-| 434 | 160 | Caitlin Zakrzewski |
+| 433 | 160 | Caitlin Zakrzewski |
+| 434 | 160 | Tee Tee Greene |
 | 435 | 160 | Ed Bullen |
 | 436 | 160 | Dee |
 | 437 | 160 | pjbeta |
 | 438 | 160 | Florna Primrose |
-| 439 | 159 | Mary Boo |
-| 440 | 159 | mbij21 |
+| 439 | 159 | mbij21 |
+| 440 | 159 | Mary Boo |
 | 441 | 158 | SitHazy |
 | 442 | 158 | Crystal Rosen |
 | 443 | 158 | Philippines |
