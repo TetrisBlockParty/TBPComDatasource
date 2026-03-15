@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 21:34:20 UTC
+# Standings for team2 as of 2026-03-15 21:34:46 UTC
 
 **Total Participants:** 2432
 
@@ -1739,9 +1739,9 @@
 | 1731 | 35 | Heather Hilferty |
 | 1732 | 35 | Tina Rollins Bethay |
 | 1733 | 35 | Kristina Sandoval |
-| 1734 | 35 | Archimedean |
-| 1735 | 35 | Sydney |
-| 1736 | 35 | Amber Rochelle |
+| 1734 | 35 | Amber Rochelle |
+| 1735 | 35 | Archimedean |
+| 1736 | 35 | Sydney |
 | 1737 | 35 | Sheila Massey Dotson |
 | 1738 | 35 | Brave Rotator |
 | 1739 | 35 | Jo Jo |
@@ -1753,9 +1753,9 @@
 | 1745 | 35 | MaBarker42 |
 | 1746 | 35 | Nerdy Clusterfit |
 | 1747 | 35 | Malikah Coleman |
-| 1748 | 35 | Bubbl3s |
-| 1749 | 35 | Jan |
-| 1750 | 35 | Cozy Shatterfit |
+| 1748 | 35 | Jan |
+| 1749 | 35 | Cozy Shatterfit |
+| 1750 | 35 | Bubbl3s |
 | 1751 | 35 | Adam McClellan |
 | 1752 | 35 | Elizabeth Churning |
 | 1753 | 35 | Cranky Caster |
@@ -1763,56 +1763,56 @@
 | 1755 | 34 | KAP |
 | 1756 | 34 | Carrie Panzeter |
 | 1757 | 34 | Whitney Mudge |
-| 1758 | 34 | Antzy |
-| 1759 | 34 | Tiarra Swan |
-| 1760 | 34 | ShadowKush |
-| 1761 | 34 | Robert Harold Bowling |
-| 1762 | 34 | Crystal |
-| 1763 | 34 | Smellygirl |
-| 1764 | 34 | Lenitia Curley |
-| 1765 | 34 | Melissa K Smith |
-| 1766 | 34 | Charity Dirkman |
-| 1767 | 34 | Janet Sims - Martin |
-| 1768 | 34 | Minnie |
-| 1769 | 34 | Margo |
-| 1770 | 34 | Aleasha M Brown |
-| 1771 | 34 | Brittani La Rae |
-| 1772 | 34 | Jenni |
-| 1773 | 34 | Dizzy Linkpiece |
-| 1774 | 34 | ACE |
-| 1775 | 34 | Joshua Cross |
-| 1776 | 34 | Madia Quick |
-| 1777 | 33 | Kershawna Aten |
-| 1778 | 33 | Natasha Magathan |
-| 1779 | 33 | Jennifer Pleasant |
-| 1780 | 33 | ed |
-| 1781 | 33 | Melinda Davis |
+| 1758 | 34 | Janet Sims - Martin |
+| 1759 | 34 | Crystal |
+| 1760 | 34 | Smellygirl |
+| 1761 | 34 | Lenitia Curley |
+| 1762 | 34 | ShadowKush |
+| 1763 | 34 | Robert Harold Bowling |
+| 1764 | 34 | iamjustgaming |
+| 1765 | 34 | Charity Dirkman |
+| 1766 | 34 | Tiarra Swan |
+| 1767 | 34 | Brittani La Rae |
+| 1768 | 34 | Jenni |
+| 1769 | 34 | Dizzy Linkpiece |
+| 1770 | 34 | Joshua Cross |
+| 1771 | 34 | Madia Quick |
+| 1772 | 34 | Antzy |
+| 1773 | 34 | Minnie |
+| 1774 | 34 | Margo |
+| 1775 | 34 | ACE |
+| 1776 | 34 | Aleasha M Brown |
+| 1777 | 34 | Melissa K Smith |
+| 1778 | 33 | Jeremiah Rayborn |
+| 1779 | 33 | ed |
+| 1780 | 33 | Melinda Davis |
+| 1781 | 33 | Kershawna Aten |
 | 1782 | 33 | Jenn Nichols |
-| 1783 | 33 | Jeremiah Rayborn |
-| 1784 | 33 | Amber Wright |
-| 1785 | 32 | Peachy Pusher |
-| 1786 | 32 | Salvador Garcia |
-| 1787 | 32 | Slinky Shifter |
-| 1788 | 32 | Cheyenne Taylor |
-| 1789 | 32 | Rachel Hathcock |
-| 1790 | 32 | Jackie Avila |
-| 1791 | 32 | FlopsandDors |
+| 1783 | 33 | Jennifer Pleasant |
+| 1784 | 33 | Natasha Magathan |
+| 1785 | 33 | Amber Wright |
+| 1786 | 32 | Peachy Pusher |
+| 1787 | 32 | Salvador Garcia |
+| 1788 | 32 | Slinky Shifter |
+| 1789 | 32 | Cheyenne Taylor |
+| 1790 | 32 | Rachel Hathcock |
+| 1791 | 32 | Jackie Avila |
 | 1792 | 32 | Jennifer Moynihan Lawton |
 | 1793 | 32 | xxlonewolfxx |
-| 1794 | 32 | Suaveelo |
-| 1795 | 32 | Bartleby Tickletits |
-| 1796 | 32 | iamjustgaming |
-| 1797 | 32 | Erika Vause |
-| 1798 | 32 | Bubbly Spinzone |
-| 1799 | 31 | Dreamy Line |
-| 1800 | 31 | Jackie Thomlison Schroeder |
-| 1801 | 31 | Totoxx2 |
-| 1802 | 31 | Ashley V Arnold |
-| 1803 | 31 | squarish |
-| 1804 | 31 | Ram |
+| 1794 | 32 | Bubbly Spinzone |
+| 1795 | 32 | Suaveelo |
+| 1796 | 32 | Erika Vause |
+| 1797 | 32 | Bartleby Tickletits |
+| 1798 | 32 | FlopsandDors |
+| 1799 | 31 | Totoxx2 |
+| 1800 | 31 | Ram |
+| 1801 | 31 | squarish |
+| 1802 | 31 | Jackie Thomlison Schroeder |
+| 1803 | 31 | Dreamy Line |
+| 1804 | 31 | Ashley V Arnold |
 | 1805 | 31 | Smiley Shuffler |
-| 1806 | 30 | Breezy Cluster |
-| 1807 | 30 | Beets |
+| 1806 | 30 | Beets |
+| 1807 | 30 | Breezy Cluster |
 | 1808 | 30 | Autumn Kumzi |
 | 1809 | 30 | Foggy |
 | 1810 | 30 | Bindi |
