@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 09:30:41 UTC
+# Standings for team1 as of 2026-03-15 09:31:21 UTC
 
 **Total Participants:** 2187
 
@@ -14,7 +14,7 @@
 | 6 | 6167 | William George Weglage III |
 | 7 | 6046 | Hyper |
 | 8 | 5712 | Dizzy Stagger |
-| 9 | 5243 | Krystal McPherson |
+| 9 | 5287 | Krystal McPherson |
 | 10 | 4995 | Vistabrat |
 | 11 | 4897 | Tashanna Harvey |
 | 12 | 4381 | Jayna Anoc |
@@ -275,7 +275,7 @@
 | 267 | 292 | Marianne Lopez |
 | 268 | 292 | Angela Phillips Kean |
 | 269 | 291 | QueenBee |
-| 270 | 288 | Lilyandstuff |
+| 270 | 290 | Lilyandstuff |
 | 271 | 288 | bea |
 | 272 | 288 | Mahmudul Hasan |
 | 273 | 287 | Marshell Harris |
