@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 08:46:43 UTC
+# Standings for team2 as of 2026-03-15 08:47:20 UTC
 
 **Total Participants:** 2172
 
@@ -122,9 +122,9 @@
 | 114 | 698 | nickle109 |
 | 115 | 694 | Adam Charles |
 | 116 | 686 | Danielle Mogg |
-| 117 | 660 | Lateisha Morris |
-| 118 | 659 | Ania |
-| 119 | 658 | Grace Rubalcada |
+| 117 | 677 | Grace Rubalcada |
+| 118 | 660 | Lateisha Morris |
+| 119 | 659 | Ania |
 | 120 | 644 | Dandy Crasher |
 | 121 | 636 | Qing DG |
 | 122 | 634 | Nathaniel Hardy |
@@ -222,9 +222,9 @@
 | 214 | 330 | Jazzy Piecebuilder |
 | 215 | 330 | BluBae |
 | 216 | 330 | Jt Home |
-| 217 | 326 | Kyesha Goodyear |
-| 218 | 321 | Laura Smith |
-| 219 | 321 | Michelle Allers |
+| 217 | 328 | Michelle Allers |
+| 218 | 326 | Kyesha Goodyear |
+| 219 | 321 | Laura Smith |
 | 220 | 318 | Winner |
 | 221 | 318 | Danielle Weikel |
 | 222 | 316 | Cheery Dropper |
@@ -446,24 +446,24 @@
 | 438 | 157 | Frisky Riserbuilder |
 | 439 | 157 | John De Guzman Sydiongco |
 | 440 | 156 | Cheeky Dashy |
-| 441 | 156 | Dreamy Snapbuilder |
-| 442 | 156 | SuZee |
-| 443 | 154 | Jess Ortiz |
-| 444 | 154 | Morgan Anne Witty |
-| 445 | 154 | Brandy Hayhurst |
+| 441 | 156 | SuZee |
+| 442 | 156 | Dreamy Snapbuilder |
+| 443 | 154 | Brandy Hayhurst |
+| 444 | 154 | Jess Ortiz |
+| 445 | 154 | Morgan Anne Witty |
 | 446 | 154 | Alexander Zamora |
 | 447 | 153 | Lucy Honer |
 | 448 | 153 | Christy Green |
 | 449 | 152 | Anthony Magaraci |
-| 450 | 151 | Ashley Danielle |
-| 451 | 151 | Lemon Bar |
+| 450 | 151 | Lemon Bar |
+| 451 | 151 | Ashley Danielle |
 | 452 | 151 | Luna |
 | 453 | 150 | Tracey Whetstone |
 | 454 | 150 | Brave Fallzone |
 | 455 | 150 | Sherry Jones |
-| 456 | 150 | Marinara |
+| 456 | 150 | LaChalle Shay |
 | 457 | 150 | Breanna Lemus |
-| 458 | 150 | LaChalle Shay |
+| 458 | 150 | Marinara |
 | 459 | 150 | Glitzy Rollblock |
 | 460 | 150 | May May |
 | 461 | 149 | Lizzie Marie |
@@ -472,45 +472,45 @@
 | 464 | 149 | Tyler Bechtel |
 | 465 | 147 | Jenny Carrier |
 | 466 | 147 | Jazzy Hitter |
-| 467 | 146 | Jen Robinson |
-| 468 | 146 | Elizabeth Blankenship |
-| 469 | 146 | Chill Builder |
-| 470 | 145 | Goofy Towerer |
+| 467 | 146 | Elizabeth Blankenship |
+| 468 | 146 | Chill Builder |
+| 469 | 146 | Twisty Balanceblock |
+| 470 | 146 | Jen Robinson |
 | 471 | 145 | Steady Treal |
-| 472 | 145 | Kelly Williams |
-| 473 | 145 | Paula Little |
-| 474 | 144 | JTH |
-| 475 | 144 | Candy Brooks |
-| 476 | 144 | Mandi Mayweather |
-| 477 | 144 | Wishabishwood |
+| 472 | 145 | Goofy Towerer |
+| 473 | 145 | Kelly Williams |
+| 474 | 145 | Paula Little |
+| 475 | 144 | JTH |
+| 476 | 144 | Candy Brooks |
+| 477 | 144 | Mandi Mayweather |
 | 478 | 144 | Marc Abney |
 | 479 | 144 | Juana |
-| 480 | 144 | Brandon Maxey |
-| 481 | 142 | Kirsten Hanes Gasper |
-| 482 | 142 | Prette Qui |
-| 483 | 142 | Nicole Lynnette Mahurin |
-| 484 | 142 | Montiette Mcglown |
-| 485 | 141 | Tee Jaleesa |
-| 486 | 141 | Mona Sharma |
-| 487 | 141 | MrMais89 |
-| 488 | 141 | Twisty Balanceblock |
+| 480 | 144 | Wishabishwood |
+| 481 | 144 | Brandon Maxey |
+| 482 | 142 | Kirsten Hanes Gasper |
+| 483 | 142 | Prette Qui |
+| 484 | 142 | Nicole Lynnette Mahurin |
+| 485 | 142 | Montiette Mcglown |
+| 486 | 141 | Tee Jaleesa |
+| 487 | 141 | Mona Sharma |
+| 488 | 141 | MrMais89 |
 | 489 | 141 | Jessica Petersen |
 | 490 | 141 | Darlene Simmons |
-| 491 | 140 | Spicy Strikerbuilder |
-| 492 | 140 | Giggity boots |
-| 493 | 140 | Brenda Lee Vander Molen |
-| 494 | 140 | Zany Dashgrid |
-| 495 | 140 | Quitito1014 |
-| 496 | 140 | Rackemwillie34 |
-| 497 | 140 | Tanya Abernathy Jackson |
+| 491 | 140 | Quitito1014 |
+| 492 | 140 | Rackemwillie34 |
+| 493 | 140 | Zany Dashgrid |
+| 494 | 140 | Tanya Abernathy Jackson |
+| 495 | 140 | Giggity boots |
+| 496 | 140 | Brenda Lee Vander Molen |
+| 497 | 140 | Spicy Strikerbuilder |
 | 498 | 140 | Theodore Vincent |
 | 499 | 140 | Paula Marcus Delsigne |
 | 500 | 140 | Joy Young |
 | 501 | 139 | Kristi Riley |
 | 502 | 139 | bigdad |
 | 503 | 139 | Lively Builderfit |
-| 504 | 138 | Christina Freeman |
-| 505 | 138 | Slinky Linkgrid |
+| 504 | 138 | Slinky Linkgrid |
+| 505 | 138 | Christina Freeman |
 | 506 | 137 | Helen |
 | 507 | 136 | Yloponom Gamez |
 | 508 | 136 | Lawan Dixon |
@@ -1860,15 +1860,15 @@
 | 1852 | 16 | Goofy Snapfit |
 | 1853 | 16 | Liz Scott |
 | 1854 | 15 | Elizabeth Hepler |
-| 1855 | 15 | Michael McCarron |
-| 1856 | 15 | Rachel Zortman |
-| 1857 | 15 | Giddy Mover |
-| 1858 | 15 | James Smith |
-| 1859 | 15 | Chastity Speight |
-| 1860 | 15 | Sarah Hanneken |
-| 1861 | 15 | Malcolm Ferguson |
-| 1862 | 15 | Jerry Gift Jr. |
-| 1863 | 15 | Jason Wallig |
+| 1855 | 15 | Rachel Zortman |
+| 1856 | 15 | Giddy Mover |
+| 1857 | 15 | James Smith |
+| 1858 | 15 | Chastity Speight |
+| 1859 | 15 | Sarah Hanneken |
+| 1860 | 15 | Malcolm Ferguson |
+| 1861 | 15 | Jerry Gift Jr. |
+| 1862 | 15 | Jason Wallig |
+| 1863 | 15 | Carmen Anaya |
 | 1864 | 15 | Snippy Blast |
 | 1865 | 15 | Michael Slater |
 | 1866 | 15 | Rita Nerone |
@@ -1878,45 +1878,45 @@
 | 1870 | 15 | Crystal |
 | 1871 | 15 | Layne Dejean |
 | 1872 | 15 | Shiny Patternblock |
-| 1873 | 15 | Maria Teresa |
-| 1874 | 15 | Mary Love |
-| 1875 | 15 | Breezy Patternfall |
-| 1876 | 15 | Jenny |
-| 1877 | 15 | Chill Fitzone |
-| 1878 | 15 | Shalonda Robinson |
+| 1873 | 15 | Breezy Patternfall |
+| 1874 | 15 | Maria Teresa |
+| 1875 | 15 | Mary Love |
+| 1876 | 15 | Chill Fitzone |
+| 1877 | 15 | Jenny |
+| 1878 | 15 | Michael McCarron |
 | 1879 | 15 | Amber Simpson |
-| 1880 | 15 | Loony Shatterfit |
-| 1881 | 15 | swaggysteph |
-| 1882 | 15 | Peppy Twistslam |
+| 1880 | 15 | Shalonda Robinson |
+| 1881 | 15 | Loony Shatterfit |
+| 1882 | 15 | swaggysteph |
 | 1883 | 15 | Bubbly Twistline |
 | 1884 | 15 | Joni Walczak |
-| 1885 | 15 | Perky Filler |
-| 1886 | 15 | Bartleby Tickletits |
-| 1887 | 15 | Faithful Akiroso |
-| 1888 | 15 | Carol Champion-Taylor |
-| 1889 | 15 | RoRo5 |
-| 1890 | 15 | Laura Delia Avila |
-| 1891 | 15 | Katy Timmons |
-| 1892 | 15 | Nyiesha Aikens |
-| 1893 | 15 | Adrienne Son |
-| 1894 | 14 | Abigail Stratton |
-| 1895 | 14 | Joseph Ferranto |
-| 1896 | 14 | Poppy Liney |
-| 1897 | 14 | Frilly Dropmatch |
-| 1898 | 14 | Mel |
-| 1899 | 14 | JadeJay |
-| 1900 | 14 | Kita A Jackson |
-| 1901 | 14 | Cool Tilerpiece |
-| 1902 | 14 | Bigg Kee |
-| 1903 | 14 | Carmen Anaya |
-| 1904 | 14 | Gaberiel Torres |
-| 1905 | 14 | Rachel Hathcock |
-| 1906 | 14 | Ami Linda Merrick |
-| 1907 | 14 | Angela Boles |
-| 1908 | 14 | Stacie Wolf Rademacher |
-| 1909 | 14 | Mandy Parker |
-| 1910 | 14 | MiriVigo |
-| 1911 | 14 | Jax Guillory |
+| 1885 | 15 | Peppy Twistslam |
+| 1886 | 15 | Perky Filler |
+| 1887 | 15 | Bartleby Tickletits |
+| 1888 | 15 | Faithful Akiroso |
+| 1889 | 15 | Carol Champion-Taylor |
+| 1890 | 15 | RoRo5 |
+| 1891 | 15 | Laura Delia Avila |
+| 1892 | 15 | Katy Timmons |
+| 1893 | 15 | Nyiesha Aikens |
+| 1894 | 15 | Adrienne Son |
+| 1895 | 14 | Abigail Stratton |
+| 1896 | 14 | Joseph Ferranto |
+| 1897 | 14 | Poppy Liney |
+| 1898 | 14 | Frilly Dropmatch |
+| 1899 | 14 | Mel |
+| 1900 | 14 | JadeJay |
+| 1901 | 14 | Kita A Jackson |
+| 1902 | 14 | Cool Tilerpiece |
+| 1903 | 14 | Bigg Kee |
+| 1904 | 14 | Stacie Wolf Rademacher |
+| 1905 | 14 | Gaberiel Torres |
+| 1906 | 14 | Rachel Hathcock |
+| 1907 | 14 | Ami Linda Merrick |
+| 1908 | 14 | Mandy Parker |
+| 1909 | 14 | MiriVigo |
+| 1910 | 14 | Jax Guillory |
+| 1911 | 14 | Angela Boles |
 | 1912 | 14 | Ellie Cook |
 | 1913 | 14 | Steven L Robinson Jr |
 | 1914 | 14 | BlockHead12 |

@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-15 08:46:43 UTC
+# Standings for team3 as of 2026-03-15 08:47:20 UTC
 
 **Total Participants:** 3368
 
@@ -216,10 +216,10 @@
 | 208 | 555 | Clever Patternblock |
 | 209 | 549 | Becky Weeks-Garry |
 | 210 | 549 | fred |
-| 211 | 540 | Alex Dye |
-| 212 | 540 | Sue Peake |
-| 213 | 539 | Josiah Fam |
-| 214 | 528 | Kennisha Fuller |
+| 211 | 546 | Kennisha Fuller |
+| 212 | 540 | Alex Dye |
+| 213 | 540 | Sue Peake |
+| 214 | 539 | Josiah Fam |
 | 215 | 527 | Bean |
 | 216 | 525 | Amber Baker |
 | 217 | 524 | Sunshine Party |
@@ -349,10 +349,10 @@
 | 341 | 300 | Debbie Davis |
 | 342 | 299 | Gee_Baybee |
 | 343 | 299 | Sassy Column |
-| 344 | 297 | Lisa Rachelle Blackmonson |
-| 345 | 297 | Harley Scot Cederquist |
-| 346 | 296 | Xela |
-| 347 | 296 | Michelle Siriani |
+| 344 | 298 | Michelle Siriani |
+| 345 | 297 | Lisa Rachelle Blackmonson |
+| 346 | 297 | Harley Scot Cederquist |
+| 347 | 296 | Xela |
 | 348 | 294 | Lucy Lu Green |
 | 349 | 293 | Nubian1 |
 | 350 | 292 | Kayla Jo Piper |
@@ -380,8 +380,8 @@
 | 372 | 273 | Leonard Vann |
 | 373 | 272 | Matt Josephs |
 | 374 | 271 | Tma |
-| 375 | 271 | Spunky Snapzone |
-| 376 | 271 | Christopherk |
+| 375 | 271 | Christopherk |
+| 376 | 271 | Spunky Snapzone |
 | 377 | 270 | May Miller |
 | 378 | 269 | Ashley Aycock Kennedy |
 | 379 | 268 | Joni Richard |
@@ -1145,20 +1145,20 @@
 | 1137 | 83 | Michael Moore |
 | 1138 | 83 | Tasha Thompson |
 | 1139 | 83 | Danielle Beaunoyer Jean |
-| 1140 | 83 | Kristyne McPhail |
-| 1141 | 83 | Røsê Mïrïndie |
-| 1142 | 83 | Roxanne Biron |
-| 1143 | 83 | Staci Renee James |
-| 1144 | 83 | Perky Crusher |
-| 1145 | 82 | Bold Patterner |
-| 1146 | 82 | Stacie Perales |
-| 1147 | 82 | Terry Hickman Fort |
-| 1148 | 82 | GirlBossing2Close2Sun |
-| 1149 | 82 | Kayla Commons |
-| 1150 | 82 | Tiffany Wright |
-| 1151 | 82 | Donna M Carter |
-| 1152 | 82 | Kristina Devers |
-| 1153 | 82 | Spunky Clearzone |
+| 1140 | 83 | Spunky Clearzone |
+| 1141 | 83 | Kristyne McPhail |
+| 1142 | 83 | Røsê Mïrïndie |
+| 1143 | 83 | Roxanne Biron |
+| 1144 | 83 | Staci Renee James |
+| 1145 | 83 | Perky Crusher |
+| 1146 | 82 | Bold Patterner |
+| 1147 | 82 | Stacie Perales |
+| 1148 | 82 | Terry Hickman Fort |
+| 1149 | 82 | GirlBossing2Close2Sun |
+| 1150 | 82 | Kayla Commons |
+| 1151 | 82 | Tiffany Wright |
+| 1152 | 82 | Donna M Carter |
+| 1153 | 82 | Kristina Devers |
 | 1154 | 82 | Niyah |
 | 1155 | 82 | Michael Willett |
 | 1156 | 82 | Teena K Macon |
