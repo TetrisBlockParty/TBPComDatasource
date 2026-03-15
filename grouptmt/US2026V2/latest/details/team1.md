@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 04:42:17 UTC
+# Standings for team1 as of 2026-03-15 04:42:38 UTC
 
 **Total Participants:** 2108
 
@@ -738,11 +738,11 @@
 | 730 | 79 | iceman |
 | 731 | 79 | Chin lock |
 | 732 | 78 | Penny Clark |
-| 733 | 78 | Purple Pixie |
-| 734 | 78 | Texastytest |
-| 735 | 78 | Melissa Arrellano |
-| 736 | 78 | Leo Davis |
-| 737 | 77 | Thomas Carlisle |
+| 733 | 78 | Thomas Carlisle |
+| 734 | 78 | Purple Pixie |
+| 735 | 78 | Texastytest |
+| 736 | 78 | Melissa Arrellano |
+| 737 | 78 | Leo Davis |
 | 738 | 77 | Vickie Valdez-Lopez |
 | 739 | 77 | Curt Larson |
 | 740 | 77 | Maximusprime |
