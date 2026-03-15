@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 18:20:21 UTC
+# Standings for team2 as of 2026-03-15 18:20:45 UTC
 
 **Total Participants:** 2358
 
@@ -199,11 +199,11 @@
 | 191 | 450 | Quirky Matchfit |
 | 192 | 449 | Jazzy Hitter |
 | 193 | 445 | Dreamy Towerbuilder |
-| 194 | 444 | Kyesha Goodyear |
-| 195 | 443 | 🍏 Green apple |
-| 196 | 443 | Pixie |
-| 197 | 442 | Dreamer |
-| 198 | 440 | Sandy Aragon |
+| 194 | 445 | Sandy Aragon |
+| 195 | 444 | Kyesha Goodyear |
+| 196 | 443 | 🍏 Green apple |
+| 197 | 443 | Pixie |
+| 198 | 442 | Dreamer |
 | 199 | 439 | SterlingTeri |
 | 200 | 438 | Johanna Massaro |
 | 201 | 438 | Peaches |
@@ -546,18 +546,18 @@
 | 538 | 163 | Lively Blockroll |
 | 539 | 163 | Mel |
 | 540 | 162 | Sylvie Lemoine |
-| 541 | 162 | Sarah Marie |
-| 542 | 161 | Scott Martinson |
-| 543 | 161 | Austin Vice |
-| 544 | 160 | Rileyy Rocket |
-| 545 | 160 | Lauren Bailey |
-| 546 | 160 | Ashley Moore |
-| 547 | 160 | Adrianne Elliott |
-| 548 | 160 | Joshua Madinger |
-| 549 | 159 | Brittany Backus |
-| 550 | 159 | btchboy |
-| 551 | 159 | Carla Roberson |
-| 552 | 159 | Iliveformygirlz Smith |
+| 541 | 162 | Joshua Madinger |
+| 542 | 162 | Sarah Marie |
+| 543 | 161 | Scott Martinson |
+| 544 | 161 | Austin Vice |
+| 545 | 160 | Rileyy Rocket |
+| 546 | 160 | Lauren Bailey |
+| 547 | 160 | Ashley Moore |
+| 548 | 160 | Adrianne Elliott |
+| 549 | 159 | Carla Roberson |
+| 550 | 159 | Iliveformygirlz Smith |
+| 551 | 159 | Brittany Backus |
+| 552 | 159 | btchboy |
 | 553 | 158 | Incandescent hatchet fish |
 | 554 | 157 | John De Guzman Sydiongco |
 | 555 | 157 | Shaun Talbot |
@@ -1177,40 +1177,40 @@
 | 1169 | 64 | Moneygirl |
 | 1170 | 64 | Kristine Salinas |
 | 1171 | 64 | Kaycie Brieanne |
-| 1172 | 64 | Janellexoxo_ |
-| 1173 | 64 | Monica Daley |
+| 1172 | 64 | Monica Daley |
+| 1173 | 64 | Janellexoxo_ |
 | 1174 | 64 | Juan Bonilla |
 | 1175 | 64 | Pamela Togun |
 | 1176 | 63 | Jonviea Dewalt |
-| 1177 | 63 | Pam |
-| 1178 | 63 | JaneWacky Balancefit |
-| 1179 | 63 | Lisa Parr |
-| 1180 | 63 | Kristen Tucker |
-| 1181 | 63 | Skeetris |
-| 1182 | 63 | Staybutterfly |
-| 1183 | 63 | Frothy Grid |
-| 1184 | 63 | Waya |
-| 1185 | 62 | Cool Riser |
-| 1186 | 62 | ilikeitcleen |
-| 1187 | 62 | Loopy Curve |
-| 1188 | 62 | Frank |
-| 1189 | 62 | pickle girl |
-| 1190 | 62 | Gam Gam |
-| 1191 | 62 | Christin VanNorman |
-| 1192 | 62 | CuteSharkz |
-| 1193 | 62 | Chandra |
-| 1194 | 62 | Uuinner |
-| 1195 | 62 | Goredo |
-| 1196 | 62 | Doodle |
-| 1197 | 61 | Alicia Lux Arnst |
-| 1198 | 61 | Cherie Lee Heid |
-| 1199 | 61 | Ashley Cope |
-| 1200 | 61 | Groovy Builder |
-| 1201 | 61 | Jessylynn |
-| 1202 | 61 | Twisty Corner |
-| 1203 | 61 | Chris Watson |
-| 1204 | 61 | PrincessDonut |
-| 1205 | 61 | Boldy Rollzone |
+| 1177 | 63 | Frothy Grid |
+| 1178 | 63 | Staybutterfly |
+| 1179 | 63 | Skeetris |
+| 1180 | 63 | Boldy Rollzone |
+| 1181 | 63 | Kristen Tucker |
+| 1182 | 63 | Lisa Parr |
+| 1183 | 63 | JaneWacky Balancefit |
+| 1184 | 63 | Pam |
+| 1185 | 63 | Waya |
+| 1186 | 62 | Cool Riser |
+| 1187 | 62 | CuteSharkz |
+| 1188 | 62 | Christin VanNorman |
+| 1189 | 62 | Gam Gam |
+| 1190 | 62 | Loopy Curve |
+| 1191 | 62 | ilikeitcleen |
+| 1192 | 62 | Frank |
+| 1193 | 62 | pickle girl |
+| 1194 | 62 | Chandra |
+| 1195 | 62 | Doodle |
+| 1196 | 62 | Goredo |
+| 1197 | 62 | Uuinner |
+| 1198 | 61 | Twisty Corner |
+| 1199 | 61 | Jessylynn |
+| 1200 | 61 | Chris Watson |
+| 1201 | 61 | PrincessDonut |
+| 1202 | 61 | Groovy Builder |
+| 1203 | 61 | Ashley Cope |
+| 1204 | 61 | Cherie Lee Heid |
+| 1205 | 61 | Alicia Lux Arnst |
 | 1206 | 61 | Elaina Temple |
 | 1207 | 61 | Hannibal Musa |
 | 1208 | 60 | Bow Babe |
@@ -1218,16 +1218,16 @@
 | 1210 | 60 | lou28 |
 | 1211 | 60 | Susan Larson |
 | 1212 | 60 | Janet Eberhard |
-| 1213 | 60 | CLA |
-| 1214 | 60 | Johnboom317 |
-| 1215 | 60 | Glitzy Blockpiece |
-| 1216 | 60 | Renée Tilley-Goyette |
+| 1213 | 60 | Kara Adams |
+| 1214 | 60 | Tplank |
+| 1215 | 60 | Nice queen |
+| 1216 | 60 | Goobette |
 | 1217 | 60 | Megan Earp |
-| 1218 | 60 | Goobette |
-| 1219 | 60 | Nice queen |
-| 1220 | 60 | Kara Adams |
-| 1221 | 60 | Niamh |
-| 1222 | 60 | Tplank |
+| 1218 | 60 | Niamh |
+| 1219 | 60 | Renée Tilley-Goyette |
+| 1220 | 60 | Glitzy Blockpiece |
+| 1221 | 60 | CLA |
+| 1222 | 60 | Johnboom317 |
 | 1223 | 60 | Brian Wangler |
 | 1224 | 60 | Kandi Lopez |
 | 1225 | 60 | Whitney M Hannah |
