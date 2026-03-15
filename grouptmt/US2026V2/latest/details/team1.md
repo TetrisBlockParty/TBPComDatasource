@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 07:28:20 UTC
+# Standings for team1 as of 2026-03-15 07:28:42 UTC
 
 **Total Participants:** 2159
 
@@ -439,83 +439,83 @@
 | 431 | 155 | Erin Green |
 | 432 | 155 | Margo Fenton |
 | 433 | 155 | Tausha Mathews |
-| 434 | 154 | Chill Matchzone |
-| 435 | 154 | Maxwell Hall |
-| 436 | 154 | AngelVoice JB |
+| 434 | 154 | Maxwell Hall |
+| 435 | 154 | AngelVoice JB |
+| 436 | 154 | Chill Matchzone |
 | 437 | 154 | Armoni |
-| 438 | 153 | Alexis Garcia |
-| 439 | 153 | Shekita Gibbs |
-| 440 | 153 | Jessica |
-| 441 | 153 | Wulfbyte |
+| 438 | 153 | Wulfbyte |
+| 439 | 153 | Alexis Garcia |
+| 440 | 153 | Shekita Gibbs |
+| 441 | 153 | Jessica |
 | 442 | 152 | Ruby Sandberg |
 | 443 | 151 | Joyce Harrell-chavis |
 | 444 | 151 | Julie Moore |
 | 445 | 151 | Breezy Wiper |
 | 446 | 151 | Angela Brown Babin |
 | 447 | 149 | Ciara Nunez |
-| 448 | 148 | Michelle Lee |
-| 449 | 148 | mrkw |
-| 450 | 148 | Cannaman710 |
-| 451 | 148 | Natasha King |
-| 452 | 148 | Marianne Lopez |
+| 448 | 148 | Cannaman710 |
+| 449 | 148 | Natasha King |
+| 450 | 148 | Michelle Lee |
+| 451 | 148 | Marianne Lopez |
+| 452 | 148 | mrkw |
 | 453 | 147 | Spicy Twister |
-| 454 | 146 | Armin Muhamed |
-| 455 | 146 | Thomas Susi |
+| 454 | 146 | Thomas Susi |
+| 455 | 146 | Armin Muhamed |
 | 456 | 145 | Hoppy Buildgrid |
 | 457 | 145 | Bingo Wingo |
 | 458 | 144 | Jaay |
-| 459 | 144 | John Gardner |
-| 460 | 144 | Gina Annese |
+| 459 | 144 | Gina Annese |
+| 460 | 144 | John Gardner |
 | 461 | 143 | Laura Morrison |
 | 462 | 143 | PennyCandee |
-| 463 | 141 | Roberta Arnold |
-| 464 | 141 | Lil'A |
+| 463 | 141 | Lil'A |
+| 464 | 141 | Roberta Arnold |
 | 465 | 141 | Poppy Fallzone |
-| 466 | 140 | Vergie Michael |
+| 466 | 140 | Chris Kelly |
 | 467 | 140 | Porkobello |
-| 468 | 140 | Chris Kelly |
+| 468 | 140 | Vergie Michael |
 | 469 | 140 | Teddy Marshall |
 | 470 | 140 | Snippy Risebuilder |
-| 471 | 139 | Swalshy |
-| 472 | 139 | Kakalina Thayer |
+| 471 | 139 | Kakalina Thayer |
+| 472 | 139 | Swalshy |
 | 473 | 138 | Scott Disedare |
 | 474 | 138 | Ophelia Rae |
 | 475 | 138 | MisfitH |
-| 476 | 137 | Fancy Cascadebuilder |
-| 477 | 137 | Peachy Curvetile |
-| 478 | 136 | Althea Louise |
-| 479 | 134 | Yvonne Buie |
+| 476 | 138 | Jason Nathaniel Caniff |
+| 477 | 137 | Fancy Cascadebuilder |
+| 478 | 137 | Peachy Curvetile |
+| 479 | 136 | Althea Louise |
 | 480 | 134 | Greenbayfan |
-| 481 | 133 | Julie Miller |
-| 482 | 133 | Nicole Plummer |
-| 483 | 133 | Pheezy |
-| 484 | 132 | Christina Rentz-Lane |
-| 485 | 131 | Sarah Perry Cook |
-| 486 | 131 | Megan Treacy |
-| 487 | 131 | Dizzy Glidebuilder |
-| 488 | 131 | LT |
-| 489 | 131 | DeJuan Green |
-| 490 | 130 | Britters |
-| 491 | 130 | Melody Rene |
-| 492 | 130 | Trevor J Armstrong |
-| 493 | 130 | Erin Hodges Plumb |
-| 494 | 130 | Chiquita Spears |
-| 495 | 129 | Nate Funk |
-| 496 | 129 | Jennifer Negrete |
-| 497 | 129 | Amanda Pauldo-Ivy |
-| 498 | 129 | Cheeky Snaplink |
+| 481 | 134 | Yvonne Buie |
+| 482 | 133 | Julie Miller |
+| 483 | 133 | Nicole Plummer |
+| 484 | 133 | Pheezy |
+| 485 | 132 | Christina Rentz-Lane |
+| 486 | 131 | DeJuan Green |
+| 487 | 131 | Sarah Perry Cook |
+| 488 | 131 | Dizzy Glidebuilder |
+| 489 | 131 | LT |
+| 490 | 131 | Megan Treacy |
+| 491 | 130 | Britters |
+| 492 | 130 | Chiquita Spears |
+| 493 | 130 | Trevor J Armstrong |
+| 494 | 130 | Melody Rene |
+| 495 | 130 | Erin Hodges Plumb |
+| 496 | 129 | Nate Funk |
+| 497 | 129 | Jennifer Negrete |
+| 498 | 129 | Amanda Pauldo-Ivy |
 | 499 | 129 | Damion Woods |
 | 500 | 129 | Karmyst |
-| 501 | 128 | Laci Hutson |
-| 502 | 128 | Cool Base |
-| 503 | 127 | Jason Nathaniel Caniff |
-| 504 | 127 | Charles Herbert |
+| 501 | 129 | Cheeky Snaplink |
+| 502 | 128 | Laci Hutson |
+| 503 | 128 | Cool Base |
+| 504 | 127 | Jennifer L Rutherford |
 | 505 | 127 | Carly |
-| 506 | 127 | Jennifer L Rutherford |
+| 506 | 127 | Charles Herbert |
 | 507 | 126 | Dī Kuykendall |
-| 508 | 125 | Maju Restini |
-| 509 | 125 | Mandy Stevenson |
-| 510 | 125 | Tamara Brown |
+| 508 | 125 | Tamara Brown |
+| 509 | 125 | Maju Restini |
+| 510 | 125 | Mandy Stevenson |
 | 511 | 125 | Jennifer Grubbs |
 | 512 | 125 | Terrance Williams |
 | 513 | 124 | Chin lock |
@@ -523,8 +523,8 @@
 | 515 | 124 | Matthew Allan |
 | 516 | 124 | Andie Galindo |
 | 517 | 124 | Dusti Byrd |
-| 518 | 124 | Zippy Cascadezone |
-| 519 | 124 | Connor Jurzynski |
+| 518 | 124 | Connor Jurzynski |
+| 519 | 124 | Zippy Cascadezone |
 | 520 | 123 | Jonathan Morgan-Hoare |
 | 521 | 123 | Stormy May |
 | 522 | 123 | Tanya Carpenter-Reynolds |
