@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 11:00:43 UTC
+# Standings for team2 as of 2026-03-15 11:01:19 UTC
 
 **Total Participants:** 2203
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 15587 | Payton Auberry |
+| 1 | 16837 | Payton Auberry |
 | 2 | 12637 | Mochi |
 | 3 | 11729 | 赵珞涵 |
 | 4 | 8339 | Justablock |
@@ -250,16 +250,16 @@
 | 242 | 303 | Snippy Towerpiece |
 | 243 | 302 | Leticia Martinez Kelley |
 | 244 | 302 | Amanda Segura |
-| 245 | 301 | Jennifer Haton Kreighbaum |
+| 245 | 301 | 🍏 Green apple |
 | 246 | 301 | Ruby Anne |
-| 247 | 300 | Sandra Safford |
-| 248 | 299 | Sammy |
-| 249 | 295 | Jocelyn Jauregui |
+| 247 | 301 | Jennifer Haton Kreighbaum |
+| 248 | 300 | Sandra Safford |
+| 249 | 299 | Sammy |
 | 250 | 295 | Junang Herowanto |
-| 251 | 291 | Dreamy Clicky |
-| 252 | 290 | Sandra McNab |
-| 253 | 287 | MauaStorm |
-| 254 | 286 | 🍏 Green apple |
+| 251 | 295 | Jocelyn Jauregui |
+| 252 | 291 | Dreamy Clicky |
+| 253 | 290 | Sandra McNab |
+| 254 | 287 | MauaStorm |
 | 255 | 286 | Jasmine Kenney |
 | 256 | 282 | Angela Mindiola |
 | 257 | 280 | LML |
@@ -635,33 +635,33 @@
 | 627 | 111 | Amy Jur Falk |
 | 628 | 111 | Austin Vice |
 | 629 | 111 | Bethany H. Tunison |
-| 630 | 110 | Chyrisse Norton |
-| 631 | 110 | Karent524 |
-| 632 | 110 | Diana Fowler |
-| 633 | 110 | Taizia Raeshell |
-| 634 | 110 | Sleepy Otter |
-| 635 | 110 | Cozmo |
-| 636 | 110 | Rachy77 |
-| 637 | 109 | Scruffy Rose |
-| 638 | 109 | JZoya  Scott |
-| 639 | 109 | kitykat |
-| 640 | 109 | cat |
-| 641 | 109 | Rigoberto Sanchez Jr. |
-| 642 | 109 | Unicorn |
-| 643 | 108 | Shakena Tuggle |
-| 644 | 108 | Funky Stackzone |
-| 645 | 108 | Diane Louise |
-| 646 | 108 | Sarah Somers Gray |
-| 647 | 108 | BendersMomma |
-| 648 | 108 | Cee_me |
-| 649 | 107 | Dana Hicks |
-| 650 | 107 | Kathy Allen |
-| 651 | 107 | Chirpy Dash |
-| 652 | 107 | bubbles |
-| 653 | 107 | Roberta Nelson |
-| 654 | 106 | JjB |
-| 655 | 106 | ANIM3KNIGHT |
-| 656 | 106 | Sha45 |
+| 630 | 111 | Sha45 |
+| 631 | 110 | Chyrisse Norton |
+| 632 | 110 | Karent524 |
+| 633 | 110 | Diana Fowler |
+| 634 | 110 | Taizia Raeshell |
+| 635 | 110 | Sleepy Otter |
+| 636 | 110 | Cozmo |
+| 637 | 110 | Rachy77 |
+| 638 | 109 | Scruffy Rose |
+| 639 | 109 | JZoya  Scott |
+| 640 | 109 | kitykat |
+| 641 | 109 | cat |
+| 642 | 109 | Rigoberto Sanchez Jr. |
+| 643 | 109 | Unicorn |
+| 644 | 108 | Shakena Tuggle |
+| 645 | 108 | Funky Stackzone |
+| 646 | 108 | Diane Louise |
+| 647 | 108 | Sarah Somers Gray |
+| 648 | 108 | BendersMomma |
+| 649 | 108 | Cee_me |
+| 650 | 107 | Dana Hicks |
+| 651 | 107 | Kathy Allen |
+| 652 | 107 | Chirpy Dash |
+| 653 | 107 | bubbles |
+| 654 | 107 | Roberta Nelson |
+| 655 | 106 | JjB |
+| 656 | 106 | ANIM3KNIGHT |
 | 657 | 106 | Luna Locke |
 | 658 | 106 | Happy Twistfit |
 | 659 | 106 | Skhan |
@@ -725,32 +725,32 @@
 | 717 | 95 | Tonya Hadsell |
 | 718 | 94 | Staci George Fitzsimmons |
 | 719 | 94 | Plucky Glide |
-| 720 | 94 | Cathleena Giusto |
-| 721 | 94 | Jumpy Tiley |
-| 722 | 94 | James Heilman |
-| 723 | 94 | Billi Jo Gorsuch |
-| 724 | 94 | Toni Codynah |
-| 725 | 94 | Katie |
-| 726 | 94 | Melissa Rodriguez |
-| 727 | 94 | Lively Blockroll |
-| 728 | 94 | Stef Hu |
-| 729 | 93 | Rachel Eliza |
-| 730 | 93 | BusyBee11 |
+| 720 | 94 | Toni Codynah |
+| 721 | 94 | James Heilman |
+| 722 | 94 | Billi Jo Gorsuch |
+| 723 | 94 | Jumpy Tiley |
+| 724 | 94 | Katie |
+| 725 | 94 | Melissa Rodriguez |
+| 726 | 94 | Lively Blockroll |
+| 727 | 94 | Stef Hu |
+| 728 | 94 | Cathleena Giusto |
+| 729 | 93 | BusyBee11 |
+| 730 | 93 | Rachel Eliza |
 | 731 | 93 | Kennady Griffin |
-| 732 | 93 | Trista Duguay |
-| 733 | 93 | Stitch Aura |
+| 732 | 93 | Stitch Aura |
+| 733 | 93 | Trista Duguay |
 | 734 | 93 | Ashley Marie Pierce |
 | 735 | 93 | JoJo |
 | 736 | 92 | Tiffany Banks Jennings |
 | 737 | 92 | Witty Twistslam |
 | 738 | 92 | Weeping Angel |
-| 739 | 92 | MiniLinni |
+| 739 | 92 | Amanda Mason Scott |
 | 740 | 92 | Cheery Riserpiece |
 | 741 | 92 | illegal impulse |
-| 742 | 92 | Amanda Mason Scott |
-| 743 | 91 | Jolly Towerpiece |
-| 744 | 91 | Mrcasper Royalbee Mbstcys |
-| 745 | 91 | JinxxedMozzerella |
+| 742 | 92 | MiniLinni |
+| 743 | 91 | Mrcasper Royalbee Mbstcys |
+| 744 | 91 | JinxxedMozzerella |
+| 745 | 91 | Jolly Towerpiece |
 | 746 | 91 | gymjim |
 | 747 | 91 | Arson Fox |
 | 748 | 91 | Lora Allen |
@@ -760,43 +760,43 @@
 | 752 | 90 | Sonceria Ingram-Ford |
 | 753 | 90 | Tori Bowers |
 | 754 | 90 | Bridgett |
-| 755 | 90 | Daring Fall |
-| 756 | 90 | Leslie Clark |
-| 757 | 90 | Chefbj Ventress |
-| 758 | 90 | Lauren Bailey |
-| 759 | 90 | Katie Hughes |
-| 760 | 90 | Sharon Navarrete |
-| 761 | 89 | Amy Leonard |
+| 755 | 90 | Leslie Clark |
+| 756 | 90 | Katie Hughes |
+| 757 | 90 | Daring Fall |
+| 758 | 90 | Chefbj Ventress |
+| 759 | 90 | Sharon Navarrete |
+| 760 | 90 | Lauren Bailey |
+| 761 | 89 | Jessica Prewitt |
 | 762 | 89 | Monroy Juana |
 | 763 | 89 | squareMel |
-| 764 | 89 | Jessica Prewitt |
+| 764 | 89 | Amy Leonard |
 | 765 | 89 | Cheeky Grabber |
 | 766 | 88 | Jazmin Santos |
 | 767 | 88 | Jason Gibbs |
 | 768 | 88 | Ann May June |
-| 769 | 88 | Rebecca Goforth |
-| 770 | 88 | Chalanda Jefferies |
+| 769 | 88 | Chalanda Jefferies |
+| 770 | 88 | Rebecca Goforth |
 | 771 | 87 | Dawn Alexander |
-| 772 | 87 | Davery Spencer Adair |
+| 772 | 87 | Yusuf Barnes |
 | 773 | 87 | Christine Kelly-Sarni |
 | 774 | 87 | Jo |
-| 775 | 87 | Hasty Pivoty |
-| 776 | 87 | Snippy Framezone |
-| 777 | 87 | jay |
-| 778 | 86 | Crystal Harbeson |
-| 779 | 86 | scott |
-| 780 | 86 | Halstead47K |
-| 781 | 86 | Chipper Clicky |
-| 782 | 86 | Tipsy Towerpiece |
-| 783 | 86 | Michael Parsons |
-| 784 | 85 | Angela Srubar-Norman |
-| 785 | 85 | Montano-Espinoza Chacha |
-| 786 | 85 | Karen Usrykitchens |
-| 787 | 85 | Epic Wipebuilder |
+| 775 | 87 | Davery Spencer Adair |
+| 776 | 87 | Hasty Pivoty |
+| 777 | 87 | Snippy Framezone |
+| 778 | 87 | jay |
+| 779 | 86 | Crystal Harbeson |
+| 780 | 86 | scott |
+| 781 | 86 | Halstead47K |
+| 782 | 86 | Chipper Clicky |
+| 783 | 86 | Tipsy Towerpiece |
+| 784 | 86 | Michael Parsons |
+| 785 | 85 | Angela Srubar-Norman |
+| 786 | 85 | Montano-Espinoza Chacha |
+| 787 | 85 | Karen Usrykitchens |
 | 788 | 85 | Tipsy Clearbuilder |
-| 789 | 85 | Jaylene Lawrence |
-| 790 | 85 | Briaa Williams |
-| 791 | 85 | Yusuf Barnes |
+| 789 | 85 | Epic Wipebuilder |
+| 790 | 85 | Jaylene Lawrence |
+| 791 | 85 | Briaa Williams |
 | 792 | 84 | Bibbit |
 | 793 | 84 | Karina Rodriguez |
 | 794 | 84 | Heather Kelley |
