@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-15 09:30:20 UTC
+# Standings for team1 as of 2026-03-15 09:30:41 UTC
 
 **Total Participants:** 2187
 
@@ -254,31 +254,31 @@
 | 246 | 312 | Macy Williams |
 | 247 | 309 | Dawn Hoffman |
 | 248 | 308 | Jason Whitehair |
-| 249 | 307 | Stephanie Myers |
-| 250 | 307 | TexasLise |
-| 251 | 302 | TetrisWoo |
-| 252 | 302 | Evy |
+| 249 | 307 | TexasLise |
+| 250 | 307 | Stephanie Myers |
+| 251 | 302 | raffyG |
+| 252 | 302 | TetrisWoo |
 | 253 | 302 | Hasbro Bros |
-| 254 | 301 | Huskymom |
-| 255 | 300 | Noelle Cicchillo |
-| 256 | 300 | Shannon Ferrari |
+| 254 | 302 | Evy |
+| 255 | 301 | Huskymom |
+| 256 | 301 | Poppy Fallzone |
 | 257 | 300 | Angel Mendez |
-| 258 | 298 | Jodi Fichter |
-| 259 | 297 | raffyG |
-| 260 | 296 | Sharisse Baltimore |
-| 261 | 296 | Elizabeth Hughes |
-| 262 | 295 | Melissa Goerner |
-| 263 | 295 | Aaron Higdon |
-| 264 | 292 | Angela Phillips Kean |
-| 265 | 292 | Marianne Lopez |
+| 258 | 300 | Noelle Cicchillo |
+| 259 | 300 | Shannon Ferrari |
+| 260 | 298 | Jodi Fichter |
+| 261 | 296 | Sharisse Baltimore |
+| 262 | 296 | Elizabeth Hughes |
+| 263 | 295 | Melissa Goerner |
+| 264 | 295 | Aaron Higdon |
+| 265 | 292 | Beth Anderson |
 | 266 | 292 | Jessi Sauer |
-| 267 | 292 | Beth Anderson |
-| 268 | 291 | QueenBee |
-| 269 | 288 | bea |
+| 267 | 292 | Marianne Lopez |
+| 268 | 292 | Angela Phillips Kean |
+| 269 | 291 | QueenBee |
 | 270 | 288 | Lilyandstuff |
-| 271 | 288 | Mahmudul Hasan |
-| 272 | 287 | Marshell Harris |
-| 273 | 287 | Poppy Fallzone |
+| 271 | 288 | bea |
+| 272 | 288 | Mahmudul Hasan |
+| 273 | 287 | Marshell Harris |
 | 274 | 286 | Jonnelle Partin |
 | 275 | 286 | Randall Sykes |
 | 276 | 285 | Cesar Morelos |
@@ -286,8 +286,8 @@
 | 278 | 284 | TRCuse |
 | 279 | 282 | Lavender |
 | 280 | 281 | Death |
-| 281 | 281 | Sabra Fisher |
-| 282 | 281 | Kathy Karjala |
+| 281 | 281 | Kathy Karjala |
+| 282 | 281 | Sabra Fisher |
 | 283 | 281 | Mama Becky |
 | 284 | 278 | Patti Rone |
 | 285 | 274 | JV Yu |
@@ -536,38 +536,38 @@
 | 528 | 124 | Dusti Byrd |
 | 529 | 124 | Zippy Cascadezone |
 | 530 | 124 | Andie Galindo |
-| 531 | 124 | Chin lock |
-| 532 | 124 | Ash Galvan |
+| 531 | 124 | Ash Galvan |
+| 532 | 124 | Chin lock |
 | 533 | 124 | Connor Jurzynski |
 | 534 | 124 | Matthew Allan |
 | 535 | 124 | Adam McMakin |
 | 536 | 123 | Jonathan Morgan-Hoare |
-| 537 | 123 | Tanya Carpenter-Reynolds |
-| 538 | 123 | MWFreddy |
-| 539 | 123 | Stormy May |
-| 540 | 123 | Jennie Lee Huntley |
-| 541 | 122 | Giggy Snaplink |
+| 537 | 123 | Leo Davis |
+| 538 | 123 | Tanya Carpenter-Reynolds |
+| 539 | 123 | MWFreddy |
+| 540 | 123 | Stormy May |
+| 541 | 123 | Jennie Lee Huntley |
 | 542 | 122 | Pig02 |
 | 543 | 122 | Kehlyn King |
-| 544 | 122 | SLAPNUTZ |
+| 544 | 122 | Giggy Snaplink |
 | 545 | 122 | Fancy Tilefall |
-| 546 | 122 | Fairrun James |
-| 547 | 122 | tay |
-| 548 | 121 | Suzan Frazier |
-| 549 | 121 | Erica Catherine |
-| 550 | 121 | Pauline Cortez |
-| 551 | 120 | Ann Brock LaPorte |
-| 552 | 120 | Noah |
-| 553 | 120 | Candace Esposito |
-| 554 | 120 | Lindsay Coit Phillips |
-| 555 | 119 | Bouncy Tilerpiece |
-| 556 | 119 | Leo Davis |
+| 546 | 122 | SLAPNUTZ |
+| 547 | 122 | Fairrun James |
+| 548 | 122 | tay |
+| 549 | 121 | Pauline Cortez |
+| 550 | 121 | Erica Catherine |
+| 551 | 121 | Suzan Frazier |
+| 552 | 120 | Lindsay Coit Phillips |
+| 553 | 120 | Noah |
+| 554 | 120 | Ann Brock LaPorte |
+| 555 | 120 | Candace Esposito |
+| 556 | 119 | Bouncy Tilerpiece |
 | 557 | 119 | Tractor Houston |
 | 558 | 118 | Aprill Bolton |
 | 559 | 118 | Teresa Wolf |
 | 560 | 118 | Sharon Panoski |
-| 561 | 117 | Danielle Kollias |
-| 562 | 117 | Witty Clusterfit |
+| 561 | 117 | Witty Clusterfit |
+| 562 | 117 | Danielle Kollias |
 | 563 | 116 | l |
 | 564 | 116 | Megan Phillips |
 | 565 | 116 | Petahboi |
