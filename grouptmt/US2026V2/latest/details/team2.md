@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 09:36:42 UTC
+# Standings for team2 as of 2026-03-15 09:37:21 UTC
 
 **Total Participants:** 2183
 
@@ -252,40 +252,40 @@
 | 244 | 295 | Junang Herowanto |
 | 245 | 295 | Jocelyn Jauregui |
 | 246 | 291 | Dreamy Clicky |
-| 247 | 287 | MauaStorm |
-| 248 | 286 | Jasmine Kenney |
-| 249 | 282 | Angela Mindiola |
-| 250 | 280 | LML |
-| 251 | 280 | Breeana Bennett |
-| 252 | 280 | Sandra Safford |
-| 253 | 280 | Smiley Shatter |
-| 254 | 278 | Starr |
-| 255 | 277 | Jenni Garcia-Vogelhut |
-| 256 | 277 | Mandy |
-| 257 | 277 | Ella Marzano |
-| 258 | 276 | Ben Dove |
-| 259 | 276 | Ashley Marie |
-| 260 | 275 | Amelia Anderson |
-| 261 | 275 | SD Temple |
-| 262 | 275 | Camila Gerow |
-| 263 | 274 | Tipsy Glidezone |
-| 264 | 273 | Yoyareese |
-| 265 | 272 | Courtney Cicoria |
-| 266 | 270 | Slinky Towerer |
-| 267 | 270 | Tony Tran |
-| 268 | 270 | Sandra McNab |
+| 247 | 290 | Sandra McNab |
+| 248 | 287 | MauaStorm |
+| 249 | 286 | Jasmine Kenney |
+| 250 | 282 | Angela Mindiola |
+| 251 | 280 | LML |
+| 252 | 280 | Breeana Bennett |
+| 253 | 280 | Sandra Safford |
+| 254 | 280 | Smiley Shatter |
+| 255 | 278 | Starr |
+| 256 | 277 | Jenni Garcia-Vogelhut |
+| 257 | 277 | Mandy |
+| 258 | 277 | Ella Marzano |
+| 259 | 276 | Ben Dove |
+| 260 | 276 | Ashley Marie |
+| 261 | 275 | Amelia Anderson |
+| 262 | 275 | SD Temple |
+| 263 | 275 | Camila Gerow |
+| 264 | 274 | Tipsy Glidezone |
+| 265 | 273 | Yoyareese |
+| 266 | 272 | Courtney Cicoria |
+| 267 | 270 | Slinky Towerer |
+| 268 | 270 | Tony Tran |
 | 269 | 269 | Pixie |
-| 270 | 264 | Krish Shah |
-| 271 | 264 | Jen |
-| 272 | 263 | Joeyalan Sullivan |
-| 273 | 262 | Layle Miranda Madsen |
-| 274 | 262 | nina |
-| 275 | 261 | Christine Lin |
-| 276 | 260 | Charde Parnell |
-| 277 | 260 | Jason Briggs |
-| 278 | 259 | eMzzz |
-| 279 | 256 | 🍏 Green apple |
-| 280 | 256 | Lesha |
+| 270 | 265 | Lesha |
+| 271 | 264 | Krish Shah |
+| 272 | 264 | Jen |
+| 273 | 263 | Joeyalan Sullivan |
+| 274 | 262 | Layle Miranda Madsen |
+| 275 | 262 | nina |
+| 276 | 261 | Christine Lin |
+| 277 | 260 | Charde Parnell |
+| 278 | 260 | Jason Briggs |
+| 279 | 259 | eMzzz |
+| 280 | 256 | 🍏 Green apple |
 | 281 | 256 | Faith Meade |
 | 282 | 255 | Natasha |
 | 283 | 254 | Spunky Snapfit |
@@ -332,8 +332,8 @@
 | 324 | 220 | Abimbola Bimbo |
 | 325 | 220 | Ryan Parson |
 | 326 | 219 | Summer Richardson |
-| 327 | 219 | Jennifer Galadik |
-| 328 | 219 | Angel Hunnewell |
+| 327 | 219 | Angel Hunnewell |
+| 328 | 219 | Jennifer Galadik |
 | 329 | 218 | Allison L Tiffany |
 | 330 | 217 | Robyn Coleman Sadler |
 | 331 | 216 | Berklie Apedaile |
@@ -416,23 +416,23 @@
 | 408 | 173 | Elizabeth Diraffaele |
 | 409 | 173 | Hyper Pop |
 | 410 | 173 | Madison Sweere |
-| 411 | 172 | Dineisha Carpenter |
-| 412 | 171 | Sam Hall |
-| 413 | 171 | Shea Ladynick Henderson |
-| 414 | 171 | SigmaWinchester |
-| 415 | 170 | Melissa Boldt |
-| 416 | 170 | Jimmy Xim |
-| 417 | 170 | Berling Gil |
-| 418 | 170 | Desiree Anderson |
-| 419 | 169 | Jason McCloy |
-| 420 | 169 | David Duncan |
-| 421 | 169 | Troy |
-| 422 | 169 | Bryanna Whitman |
-| 423 | 168 | Nikki Speer |
-| 424 | 168 | Cheeky Dashy |
+| 411 | 172 | Cheeky Dashy |
+| 412 | 172 | Dineisha Carpenter |
+| 413 | 171 | Sam Hall |
+| 414 | 171 | Shea Ladynick Henderson |
+| 415 | 171 | SigmaWinchester |
+| 416 | 170 | Melissa Boldt |
+| 417 | 170 | Jimmy Xim |
+| 418 | 170 | Berling Gil |
+| 419 | 170 | Desiree Anderson |
+| 420 | 169 | Jason McCloy |
+| 421 | 169 | David Duncan |
+| 422 | 169 | Troy |
+| 423 | 169 | Bryanna Whitman |
+| 424 | 168 | Nikki Speer |
 | 425 | 168 | Zesty Link |
-| 426 | 166 | Deborah Potts |
-| 427 | 166 | Nilla |
+| 426 | 166 | Nilla |
+| 427 | 166 | Deborah Potts |
 | 428 | 166 | NoShoesNation |
 | 429 | 165 | LaChalle Shay |
 | 430 | 165 | Debbie Gerlib-Molinari Leigh |
@@ -454,15 +454,15 @@
 | 446 | 158 | Brittany Backus |
 | 447 | 157 | John De Guzman Sydiongco |
 | 448 | 157 | Frisky Riserbuilder |
-| 449 | 156 | SuZee |
-| 450 | 156 | Dreamy Snapbuilder |
-| 451 | 154 | Brandy Hayhurst |
-| 452 | 154 | Jess Ortiz |
-| 453 | 154 | Morgan Anne Witty |
-| 454 | 154 | Alexander Zamora |
-| 455 | 153 | Christy Green |
-| 456 | 152 | Anthony Magaraci |
-| 457 | 152 | Daniel Moore |
+| 449 | 156 | Daniel Moore |
+| 450 | 156 | SuZee |
+| 451 | 156 | Dreamy Snapbuilder |
+| 452 | 154 | Brandy Hayhurst |
+| 453 | 154 | Jess Ortiz |
+| 454 | 154 | Morgan Anne Witty |
+| 455 | 154 | Alexander Zamora |
+| 456 | 153 | Christy Green |
+| 457 | 152 | Anthony Magaraci |
 | 458 | 151 | Ashley Danielle |
 | 459 | 151 | Lemon Bar |
 | 460 | 150 | Marinara |
