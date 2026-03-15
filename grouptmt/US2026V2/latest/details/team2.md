@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 05:02:42 UTC
+# Standings for team2 as of 2026-03-15 05:03:20 UTC
 
 **Total Participants:** 2095
 
@@ -60,9 +60,9 @@
 | 52 | 1293 | Emarie |
 | 53 | 1289 | Snippy Basepiece |
 | 54 | 1287 | Amanda Young |
-| 55 | 1262 | Richard Butler |
-| 56 | 1250 | Peppy Zone |
-| 57 | 1245 | Dreamy Linkbuilder |
+| 55 | 1264 | Dreamy Linkbuilder |
+| 56 | 1262 | Richard Butler |
+| 57 | 1250 | Peppy Zone |
 | 58 | 1226 | Bubbly Twistpiece |
 | 59 | 1221 | kaijujitsu |
 | 60 | 1206 | pooda |
@@ -82,24 +82,24 @@
 | 74 | 888 | Raven Smith |
 | 75 | 885 | Brave Matchfit |
 | 76 | 884 | Liana Spikes |
-| 77 | 860 | Nick Jensen |
-| 78 | 859 | Neet |
-| 79 | 853 | Spice Ginger |
-| 80 | 845 | Autumn Leslie |
-| 81 | 843 | TreeWee |
-| 82 | 831 | Dreamy Clicker |
-| 83 | 828 | Topsannah Topsannah |
-| 84 | 824 | Dee Kay |
-| 85 | 821 | Peachy Matchgrid |
-| 86 | 820 | Andrey Sharov |
-| 87 | 807 | Julio Alejandro Rodriguez |
-| 88 | 802 | Chipper Matchclear |
-| 89 | 796 | sweet lil miss |
-| 90 | 788 | Jennifer Golub |
-| 91 | 764 | Adrienne Fisher |
-| 92 | 759 | Robert Martinez |
-| 93 | 759 | p3ttyboop |
-| 94 | 757 | Sheena Herskovic |
+| 77 | 873 | Autumn Leslie |
+| 78 | 860 | Nick Jensen |
+| 79 | 859 | Neet |
+| 80 | 857 | Sheena Herskovic |
+| 81 | 853 | Spice Ginger |
+| 82 | 843 | TreeWee |
+| 83 | 831 | Dreamy Clicker |
+| 84 | 828 | Topsannah Topsannah |
+| 85 | 824 | Dee Kay |
+| 86 | 821 | Peachy Matchgrid |
+| 87 | 820 | Andrey Sharov |
+| 88 | 807 | Julio Alejandro Rodriguez |
+| 89 | 802 | Chipper Matchclear |
+| 90 | 796 | sweet lil miss |
+| 91 | 788 | Jennifer Golub |
+| 92 | 764 | Adrienne Fisher |
+| 93 | 759 | Robert Martinez |
+| 94 | 759 | p3ttyboop |
 | 95 | 756 | John Matson |
 | 96 | 744 | Jenny Derby |
 | 97 | 740 | Peppy Slice |
@@ -155,9 +155,9 @@
 | 147 | 474 | Tausha Colella |
 | 148 | 471 | Michelle Douglas Bridges |
 | 149 | 467 | Brandy Belton |
-| 150 | 465 | Sara Morgan |
-| 151 | 457 | Chelsea Clark |
-| 152 | 456 | Marc |
+| 150 | 467 | Marc |
+| 151 | 465 | Sara Morgan |
+| 152 | 457 | Chelsea Clark |
 | 153 | 450 | Quirky Matchfit |
 | 154 | 447 | Anna Faulkner |
 | 155 | 443 | Buisanito |
@@ -166,7 +166,7 @@
 | 158 | 433 | Jess |
 | 159 | 429 | Michael H. M. Skropka |
 | 160 | 428 | Jen Roe |
-| 161 | 424 | Looloo |
+| 161 | 425 | Looloo |
 | 162 | 423 | Jami Howard |
 | 163 | 421 | DJ Bincent |
 | 164 | 418 | Mcg |
@@ -1358,89 +1358,89 @@
 | 1350 | 36 | Zesty Dasher |
 | 1351 | 36 | Sudaien |
 | 1352 | 36 | sweetpea |
-| 1353 | 36 | Smitters |
-| 1354 | 36 | Rarejewel Green |
-| 1355 | 35 | Glenn Samantha Grove |
-| 1356 | 35 | Cranky Caster |
-| 1357 | 35 | MaeMae |
-| 1358 | 35 | Elizabeth Churning |
-| 1359 | 35 | Adam McClellan |
-| 1360 | 35 | Claudia Baez |
-| 1361 | 35 | Chipper Stacky |
-| 1362 | 35 | Snippy Framezone |
-| 1363 | 35 | Brave Rotator |
-| 1364 | 35 | Sheila Massey Dotson |
-| 1365 | 35 | Cheery Clearfit |
-| 1366 | 35 | Amber Fore |
-| 1367 | 35 | Tina Rollins Bethay |
-| 1368 | 35 | CLA |
-| 1369 | 35 | Nerdy Clusterfit |
-| 1370 | 35 | Spunky Gridmatch |
-| 1371 | 35 | Twisty Towerbuilder |
-| 1372 | 35 | Whitney Douglas |
-| 1373 | 35 | Amber Rochelle |
-| 1374 | 35 | jaebae |
-| 1375 | 35 | Jennifer |
-| 1376 | 35 | Archimedean |
-| 1377 | 35 | SSM3128 |
-| 1378 | 35 | Matthew Heffran |
-| 1379 | 35 | Loony Snapper |
-| 1380 | 35 | Witty Twistpiece |
-| 1381 | 35 | Giddy Shatterbuilder |
-| 1382 | 35 | Tasha Willing |
-| 1383 | 35 | Heather Hilferty |
-| 1384 | 35 | Amanda King |
-| 1385 | 35 | Pam Green |
-| 1386 | 35 | Jan |
-| 1387 | 35 | Steven Bell |
-| 1388 | 34 | Lydia Greenman |
-| 1389 | 34 | Suzy |
-| 1390 | 34 | Monica Daley |
-| 1391 | 34 | Yusuf Barnes |
-| 1392 | 34 | Petty |
-| 1393 | 34 | Madia Quick |
-| 1394 | 34 | CuteSharkz |
-| 1395 | 34 | Janet Sims - Martin |
-| 1396 | 34 | Heidi Miller Caponigro |
-| 1397 | 34 | Terrence McClain |
-| 1398 | 34 | Melanie Klump |
-| 1399 | 34 | Brittani La Rae |
-| 1400 | 34 | Minnie |
-| 1401 | 34 | Drew Kim |
-| 1402 | 34 | Charity Dirkman |
-| 1403 | 34 | ShadowKush |
-| 1404 | 34 | Melissa K Smith |
-| 1405 | 34 | GBR |
-| 1406 | 33 | Cheeky Snapfit |
-| 1407 | 33 | Keri Hough |
-| 1408 | 33 | Michele Baucom |
-| 1409 | 33 | Melinda Davis |
-| 1410 | 33 | Jeremiah Rayborn |
-| 1411 | 33 | ed |
-| 1412 | 33 | Nutty Cluster |
-| 1413 | 33 | Brooke Ransom |
-| 1414 | 33 | Jennifer Pleasant |
-| 1415 | 33 | Jenn Nichols |
-| 1416 | 33 | Billi Jo Gorsuch |
-| 1417 | 33 | Marlisa Clark |
-| 1418 | 33 | Kendra Hahn |
-| 1419 | 33 | Jenny Edwards Wells |
-| 1420 | 33 | Lively Stacky |
-| 1421 | 33 | Baker835 |
-| 1422 | 33 | ts |
-| 1423 | 33 | Riane Sussman |
-| 1424 | 33 | Quinn Csuk |
-| 1425 | 32 | Christina Stimson |
-| 1426 | 32 | Peachy Pusher |
-| 1427 | 32 | Slinky Tile |
-| 1428 | 32 | Lazy Twistline |
-| 1429 | 32 | Bubbly Spinzone |
-| 1430 | 32 | Jennifer Moynihan Lawton |
-| 1431 | 32 | Slinky Shifter |
-| 1432 | 32 | Lenox |
-| 1433 | 32 | Lisa Nixon |
-| 1434 | 32 | xxlonewolfxx |
-| 1435 | 32 | Jennifer Monroe Kelly |
+| 1353 | 36 | Jennifer Monroe Kelly |
+| 1354 | 36 | Smitters |
+| 1355 | 36 | Rarejewel Green |
+| 1356 | 35 | Glenn Samantha Grove |
+| 1357 | 35 | Cranky Caster |
+| 1358 | 35 | MaeMae |
+| 1359 | 35 | Elizabeth Churning |
+| 1360 | 35 | Adam McClellan |
+| 1361 | 35 | Claudia Baez |
+| 1362 | 35 | Chipper Stacky |
+| 1363 | 35 | Snippy Framezone |
+| 1364 | 35 | Brave Rotator |
+| 1365 | 35 | Sheila Massey Dotson |
+| 1366 | 35 | Cheery Clearfit |
+| 1367 | 35 | Amber Fore |
+| 1368 | 35 | Tina Rollins Bethay |
+| 1369 | 35 | CLA |
+| 1370 | 35 | Nerdy Clusterfit |
+| 1371 | 35 | Spunky Gridmatch |
+| 1372 | 35 | Twisty Towerbuilder |
+| 1373 | 35 | Whitney Douglas |
+| 1374 | 35 | Amber Rochelle |
+| 1375 | 35 | jaebae |
+| 1376 | 35 | Jennifer |
+| 1377 | 35 | Archimedean |
+| 1378 | 35 | SSM3128 |
+| 1379 | 35 | Matthew Heffran |
+| 1380 | 35 | Loony Snapper |
+| 1381 | 35 | Witty Twistpiece |
+| 1382 | 35 | Giddy Shatterbuilder |
+| 1383 | 35 | Tasha Willing |
+| 1384 | 35 | Heather Hilferty |
+| 1385 | 35 | Amanda King |
+| 1386 | 35 | Pam Green |
+| 1387 | 35 | Jan |
+| 1388 | 35 | Steven Bell |
+| 1389 | 34 | Lydia Greenman |
+| 1390 | 34 | Suzy |
+| 1391 | 34 | Monica Daley |
+| 1392 | 34 | Yusuf Barnes |
+| 1393 | 34 | Petty |
+| 1394 | 34 | Madia Quick |
+| 1395 | 34 | CuteSharkz |
+| 1396 | 34 | Janet Sims - Martin |
+| 1397 | 34 | Heidi Miller Caponigro |
+| 1398 | 34 | Terrence McClain |
+| 1399 | 34 | Melanie Klump |
+| 1400 | 34 | Brittani La Rae |
+| 1401 | 34 | Minnie |
+| 1402 | 34 | Drew Kim |
+| 1403 | 34 | Charity Dirkman |
+| 1404 | 34 | ShadowKush |
+| 1405 | 34 | Melissa K Smith |
+| 1406 | 34 | GBR |
+| 1407 | 33 | Cheeky Snapfit |
+| 1408 | 33 | Keri Hough |
+| 1409 | 33 | Michele Baucom |
+| 1410 | 33 | Melinda Davis |
+| 1411 | 33 | Jeremiah Rayborn |
+| 1412 | 33 | ed |
+| 1413 | 33 | Nutty Cluster |
+| 1414 | 33 | Brooke Ransom |
+| 1415 | 33 | Jennifer Pleasant |
+| 1416 | 33 | Jenn Nichols |
+| 1417 | 33 | Billi Jo Gorsuch |
+| 1418 | 33 | Marlisa Clark |
+| 1419 | 33 | Kendra Hahn |
+| 1420 | 33 | Jenny Edwards Wells |
+| 1421 | 33 | Lively Stacky |
+| 1422 | 33 | Baker835 |
+| 1423 | 33 | ts |
+| 1424 | 33 | Riane Sussman |
+| 1425 | 33 | Quinn Csuk |
+| 1426 | 32 | Christina Stimson |
+| 1427 | 32 | Peachy Pusher |
+| 1428 | 32 | Slinky Tile |
+| 1429 | 32 | Lazy Twistline |
+| 1430 | 32 | Bubbly Spinzone |
+| 1431 | 32 | Jennifer Moynihan Lawton |
+| 1432 | 32 | Slinky Shifter |
+| 1433 | 32 | Lenox |
+| 1434 | 32 | Lisa Nixon |
+| 1435 | 32 | xxlonewolfxx |
 | 1436 | 31 | Kasheba Y Bowens |
 | 1437 | 31 | squarish |
 | 1438 | 31 | Ashley V Arnold |
