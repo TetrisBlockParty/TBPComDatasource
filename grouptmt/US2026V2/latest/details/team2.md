@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 08:44:20 UTC
+# Standings for team2 as of 2026-03-15 08:44:42 UTC
 
 **Total Participants:** 2172
 
@@ -120,8 +120,8 @@
 | 112 | 699 | Lisa Neal |
 | 113 | 699 | Arthe3rd |
 | 114 | 698 | nickle109 |
-| 115 | 686 | Danielle Mogg |
-| 116 | 674 | Adam Charles |
+| 115 | 694 | Adam Charles |
+| 116 | 686 | Danielle Mogg |
 | 117 | 660 | Lateisha Morris |
 | 118 | 659 | Ania |
 | 119 | 658 | Grace Rubalcada |
