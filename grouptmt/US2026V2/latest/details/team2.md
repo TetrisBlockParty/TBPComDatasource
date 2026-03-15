@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-15 13:32:44 UTC
+# Standings for team2 as of 2026-03-15 13:33:20 UTC
 
 **Total Participants:** 2241
 
@@ -20,8 +20,8 @@
 | 12 | 4500 | Emilie Dodge |
 | 13 | 3872 | Abigail Kate Fernandez |
 | 14 | 3630 | Shandrea Crawford |
-| 15 | 3523 | Baleria Ruedas Pantoja |
-| 16 | 3494 | Rosemadder |
+| 15 | 3594 | Rosemadder |
+| 16 | 3523 | Baleria Ruedas Pantoja |
 | 17 | 3351 | Katie Wisecarver |
 | 18 | 3162 | Joshua Carter |
 | 19 | 3126 | Kori Beth Babb |
@@ -128,7 +128,7 @@
 | 120 | 699 | Arthe3rd |
 | 121 | 698 | nickle109 |
 | 122 | 686 | Danielle Mogg |
-| 123 | 667 | Ania |
+| 123 | 671 | Ania |
 | 124 | 660 | Lateisha Morris |
 | 125 | 644 | Dandy Crasher |
 | 126 | 636 | Qing DG |
@@ -203,12 +203,12 @@
 | 195 | 407 | Jamie Mclean |
 | 196 | 404 | Toph |
 | 197 | 399 | Katrina Schroeder |
-| 198 | 396 | Carmilita Burpo Jordan |
-| 199 | 396 | Connie Mohler-Fair |
-| 200 | 395 | Sheena Hachmann |
-| 201 | 395 | Jay |
-| 202 | 389 | Jjza |
-| 203 | 386 | Plucky Snaplink |
+| 198 | 398 | Plucky Snaplink |
+| 199 | 396 | Carmilita Burpo Jordan |
+| 200 | 396 | Connie Mohler-Fair |
+| 201 | 395 | Sheena Hachmann |
+| 202 | 395 | Jay |
+| 203 | 389 | Jjza |
 | 204 | 382 | Kacee Conrad Bock |
 | 205 | 380 | Michelle Allers |
 | 206 | 380 | Sandy Aragon |
@@ -293,7 +293,7 @@
 | 285 | 270 | Tony Tran |
 | 286 | 270 | Slinky Towerer |
 | 287 | 269 | Pixie |
-| 288 | 264 | KEILANIU |
+| 288 | 267 | KEILANIU |
 | 289 | 264 | Krish Shah |
 | 290 | 264 | Jen |
 | 291 | 263 | Joeyalan Sullivan |
@@ -433,15 +433,15 @@
 | 425 | 187 | Kelly Williams |
 | 426 | 186 | Tina Cano |
 | 427 | 185 | Sondra Kenny |
-| 428 | 184 | Beth Smith |
-| 429 | 184 | Cheeky Dashy |
-| 430 | 182 | Paul Beeman |
-| 431 | 182 | Tatyahna Cameron |
-| 432 | 182 | Flashy Tetriblast |
-| 433 | 182 | infinimom |
-| 434 | 181 | LD1 |
-| 435 | 181 | Stitch Aura |
-| 436 | 181 | Dizzy Brickline |
+| 428 | 185 | Dizzy Brickline |
+| 429 | 184 | Beth Smith |
+| 430 | 184 | Cheeky Dashy |
+| 431 | 182 | Paul Beeman |
+| 432 | 182 | Tatyahna Cameron |
+| 433 | 182 | Flashy Tetriblast |
+| 434 | 182 | infinimom |
+| 435 | 181 | LD1 |
+| 436 | 181 | Stitch Aura |
 | 437 | 181 | Frances Hui |
 | 438 | 181 | Blockyboyyy |
 | 439 | 181 | Daring Rotator |
@@ -520,20 +520,20 @@
 | 512 | 149 | Emilie Creswell |
 | 513 | 149 | Lizzie Marie |
 | 514 | 149 | Jessi |
-| 515 | 147 | Cathleena Giusto |
+| 515 | 148 | jess |
 | 516 | 147 | Jenny Carrier |
-| 517 | 146 | Kasheba Y Bowens |
+| 517 | 147 | Cathleena Giusto |
 | 518 | 146 | Elizabeth Blankenship |
 | 519 | 146 | Jen Robinson |
-| 520 | 145 | Goofy Towerer |
-| 521 | 145 | Steady Treal |
-| 522 | 145 | Paula Little |
-| 523 | 145 | jess |
-| 524 | 144 | Sha45 |
-| 525 | 144 | JTH |
-| 526 | 144 | Juana |
-| 527 | 144 | Alexandria Farrey |
-| 528 | 144 | Brandon Maxey |
+| 520 | 146 | Kasheba Y Bowens |
+| 521 | 145 | Paula Little |
+| 522 | 145 | Goofy Towerer |
+| 523 | 145 | Steady Treal |
+| 524 | 144 | Juana |
+| 525 | 144 | Alexandria Farrey |
+| 526 | 144 | Brandon Maxey |
+| 527 | 144 | Sha45 |
+| 528 | 144 | JTH |
 | 529 | 143 | TinaMarie Montone |
 | 530 | 143 | Jeremy Steines |
 | 531 | 142 | Nicole Lynnette Mahurin |
@@ -760,44 +760,44 @@
 | 752 | 97 | Arv |
 | 753 | 97 | Hyper Gridpiece |
 | 754 | 97 | Carlos Landin |
-| 755 | 97 | Robert Fenton |
-| 756 | 97 | Briaa Williams |
+| 755 | 97 | Briaa Williams |
+| 756 | 97 | BendyBones |
 | 757 | 97 | Katie |
 | 758 | 97 | Andrew Mathis |
-| 759 | 97 | BendyBones |
-| 760 | 96 | Allen Spurlock |
-| 761 | 96 | Dan Smith |
-| 762 | 96 | Jolly Towerpiece |
-| 763 | 96 | Nate Price |
+| 759 | 97 | Robert Fenton |
+| 760 | 96 | Dan Smith |
+| 761 | 96 | Jolly Towerpiece |
+| 762 | 96 | Nate Price |
+| 763 | 96 | Allen Spurlock |
 | 764 | 96 | Joseph Guzman |
 | 765 | 95 | Keyata Wright |
 | 766 | 95 | Lavella Tburg |
 | 767 | 95 | Tonya Hadsell |
-| 768 | 95 | Stephany Patton |
-| 769 | 95 | Quintis Steemer |
-| 770 | 94 | Stef Hu |
+| 768 | 95 | Quintis Steemer |
+| 769 | 95 | Stephanie Harrington |
+| 770 | 95 | Stephany Patton |
 | 771 | 94 | Lively Blockroll |
 | 772 | 94 | Jumpy Tiley |
-| 773 | 94 | Toni Codynah |
-| 774 | 94 | Billi Jo Gorsuch |
-| 775 | 94 | James Heilman |
-| 776 | 94 | Staci George Fitzsimmons |
-| 777 | 94 | Plucky Glide |
-| 778 | 94 | Bubbly Blockmatch |
-| 779 | 93 | Ashley Marie Pierce |
-| 780 | 93 | JoJo |
-| 781 | 93 | Witty Cascadefit |
-| 782 | 93 | TeeLee |
-| 783 | 93 | Trista Duguay |
-| 784 | 93 | BusyBee11 |
-| 785 | 93 | Rachel Eliza |
-| 786 | 93 | ZeldaCat |
-| 787 | 93 | Bibbit |
-| 788 | 92 | Andrew McCafferty |
-| 789 | 92 | illegal impulse |
+| 773 | 94 | Stef Hu |
+| 774 | 94 | Toni Codynah |
+| 775 | 94 | Billi Jo Gorsuch |
+| 776 | 94 | James Heilman |
+| 777 | 94 | Staci George Fitzsimmons |
+| 778 | 94 | Plucky Glide |
+| 779 | 94 | Bubbly Blockmatch |
+| 780 | 93 | Ashley Marie Pierce |
+| 781 | 93 | JoJo |
+| 782 | 93 | Witty Cascadefit |
+| 783 | 93 | TeeLee |
+| 784 | 93 | Trista Duguay |
+| 785 | 93 | ZeldaCat |
+| 786 | 93 | Bibbit |
+| 787 | 93 | BusyBee11 |
+| 788 | 93 | Rachel Eliza |
+| 789 | 92 | Andrew McCafferty |
 | 790 | 92 | Cheery Riserpiece |
-| 791 | 92 | Stephanie Harrington |
-| 792 | 92 | MiniLinni |
+| 791 | 92 | MiniLinni |
+| 792 | 92 | illegal impulse |
 | 793 | 92 | Brickh4us |
 | 794 | 92 | Tiffany Banks Jennings |
 | 795 | 92 | Weeping Angel |
@@ -805,32 +805,32 @@
 | 797 | 91 | Lora Allen |
 | 798 | 91 | Arson Fox |
 | 799 | 91 | Mrcasper Royalbee Mbstcys |
-| 800 | 91 | gymjim |
-| 801 | 91 | JinxxedMozzerella |
-| 802 | 90 | Katie Hughes |
-| 803 | 90 | Chefbj Ventress |
-| 804 | 90 | Janai Vrabel |
-| 805 | 90 | Leslie Clark |
+| 800 | 91 | JinxxedMozzerella |
+| 801 | 91 | gymjim |
+| 802 | 90 | Leslie Clark |
+| 803 | 90 | Katie Hughes |
+| 804 | 90 | Chefbj Ventress |
+| 805 | 90 | Janai Vrabel |
 | 806 | 90 | Marla Erin Salas |
 | 807 | 90 | Sonceria Ingram-Ford |
 | 808 | 90 | Bridgett |
 | 809 | 90 | Tori Bowers |
 | 810 | 90 | Tipsy Riseclear |
 | 811 | 89 | Cheeky Grabber |
-| 812 | 89 | Jessica Prewitt |
-| 813 | 89 | Amy Leonard |
-| 814 | 89 | Monroy Juana |
-| 815 | 89 | squareMel |
+| 812 | 89 | Monroy Juana |
+| 813 | 89 | squareMel |
+| 814 | 89 | Jessica Prewitt |
+| 815 | 89 | Amy Leonard |
 | 816 | 88 | Barb Lower |
 | 817 | 88 | Rebecca Goforth |
 | 818 | 88 | Jazmin Santos |
 | 819 | 88 | Ann May June |
 | 820 | 87 | Snippy Framezone |
 | 821 | 87 | Hasty Pivoty |
-| 822 | 87 | Dawn Alexander |
-| 823 | 87 | Yusuf Barnes |
-| 824 | 87 | Davery Spencer Adair |
-| 825 | 87 | Christine Kelly-Sarni |
+| 822 | 87 | Yusuf Barnes |
+| 823 | 87 | Davery Spencer Adair |
+| 824 | 87 | Christine Kelly-Sarni |
+| 825 | 87 | Dawn Alexander |
 | 826 | 87 | Marciala Pineda Juarez |
 | 827 | 86 | Heather Kelley |
 | 828 | 86 | Halstead47K |
@@ -1972,19 +1972,19 @@
 | 1964 | 15 | Amber Simpson |
 | 1965 | 15 | Loony Shatterfit |
 | 1966 | 15 | Sherry Barnes |
-| 1967 | 15 | swaggysteph |
-| 1968 | 15 | Crystal |
+| 1967 | 15 | Sarah Arnold |
+| 1968 | 15 | swaggysteph |
 | 1969 | 15 | Jerry Gift Jr. |
-| 1970 | 15 | Lynda Griffieth |
+| 1970 | 15 | Crystal |
 | 1971 | 15 | Snippy Blast |
-| 1972 | 15 | Carmen Anaya |
-| 1973 | 14 | Stacie Wolf Rademacher |
-| 1974 | 14 | Ami Linda Merrick |
-| 1975 | 14 | Mandy Parker |
-| 1976 | 14 | Dymarie Watkins |
-| 1977 | 14 | Gaberiel Torres |
-| 1978 | 14 | Ellie Cook |
-| 1979 | 14 | Sarah Arnold |
+| 1972 | 15 | Lynda Griffieth |
+| 1973 | 15 | Carmen Anaya |
+| 1974 | 14 | Stacie Wolf Rademacher |
+| 1975 | 14 | Ami Linda Merrick |
+| 1976 | 14 | Mandy Parker |
+| 1977 | 14 | Dymarie Watkins |
+| 1978 | 14 | Gaberiel Torres |
+| 1979 | 14 | Ellie Cook |
 | 1980 | 14 | Steven L Robinson Jr |
 | 1981 | 14 | Poppy Liney |
 | 1982 | 14 | MiriVigo |
@@ -2229,24 +2229,24 @@
 | 2221 | 5 | Kristi Neal |
 | 2222 | 5 | Aaron Waite |
 | 2223 | 5 | Victor Jones |
-| 2224 | 5 | Debbie Greaux |
-| 2225 | 5 | xoxo |
-| 2226 | 5 | Cindy Mims |
-| 2227 | 5 | Sandy Nickol Schadler Reagan |
-| 2228 | 5 | Tammy Kirby Bingel |
-| 2229 | 5 | Ashley Patrice London |
-| 2230 | 5 | Leeann Couch |
-| 2231 | 5 | babbs |
-| 2232 | 5 | Alexandria Shannon |
-| 2233 | 5 | Regan Anderson |
-| 2234 | 5 | Perky Piecegrid |
-| 2235 | 5 | Jeanna Gordon |
-| 2236 | 5 | Andrea Velasco Dela Cruz |
-| 2237 | 5 | Maggie Parr |
-| 2238 | 5 | Kerry Lee Powell |
-| 2239 | 5 | Amy Patterson |
-| 2240 | 5 | Summer Raymer |
-| 2241 | 5 | Alisha Shelton |
+| 2224 | 5 | xoxo |
+| 2225 | 5 | Cindy Mims |
+| 2226 | 5 | Sandy Nickol Schadler Reagan |
+| 2227 | 5 | Tammy Kirby Bingel |
+| 2228 | 5 | Ashley Patrice London |
+| 2229 | 5 | Leeann Couch |
+| 2230 | 5 | babbs |
+| 2231 | 5 | Alexandria Shannon |
+| 2232 | 5 | Regan Anderson |
+| 2233 | 5 | Jeanna Gordon |
+| 2234 | 5 | Andrea Velasco Dela Cruz |
+| 2235 | 5 | Maggie Parr |
+| 2236 | 5 | Kerry Lee Powell |
+| 2237 | 5 | Amy Patterson |
+| 2238 | 5 | Summer Raymer |
+| 2239 | 5 | Alisha Shelton |
+| 2240 | 5 | Debbie Greaux |
+| 2241 | 5 | Perky Piecegrid |
 
 ---
 *Standings created by tournaments datasource generation tool*
