@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 08:20:42 UTC
+# Standings for team1 as of 2026-03-16 08:21:20 UTC
 
 **Total Participants:** 2647
 
@@ -125,8 +125,8 @@
 | 117 | 1053 | Crawford Candice |
 | 118 | 1051 | Charis Stoner |
 | 119 | 1048 | Big rick !!! |
-| 120 | 1026 | Bold Zonegrid |
-| 121 | 1023 | TotoCherue |
+| 120 | 1030 | TotoCherue |
+| 121 | 1026 | Bold Zonegrid |
 | 122 | 1020 | Justin Jerome |
 | 123 | 994 | Nanan Nanan |
 | 124 | 989 | Donavon Krahn |
@@ -158,9 +158,9 @@
 | 150 | 843 | Beth Anderson |
 | 151 | 842 | Fancy Ziggy |
 | 152 | 819 | Ken McDonald |
-| 153 | 809 | Lavender |
+| 153 | 815 | Stefanie Champion |
 | 154 | 809 | Donald Nguyen |
-| 155 | 807 | Stefanie Champion |
+| 155 | 809 | Lavender |
 | 156 | 802 | Lexx Oliver |
 | 157 | 801 | Tina Blessed Cage |
 | 158 | 800 | Velvet Rarick |
@@ -198,14 +198,14 @@
 | 190 | 645 | Alicia Parrish |
 | 191 | 641 | Crafty Dash |
 | 192 | 638 | Chrys Peters |
-| 193 | 630 | Ramona Gulledge |
-| 194 | 629 | Melissa Goerner |
-| 195 | 629 | Fairrun James |
-| 196 | 622 | Mighty Patternbuilder |
-| 197 | 621 | Dizzy Pattern |
-| 198 | 619 | Kris Koepke |
-| 199 | 615 | Alex Hennigh |
-| 200 | 613 | Amanda Richardson |
+| 193 | 631 | Amanda Richardson |
+| 194 | 630 | Ramona Gulledge |
+| 195 | 629 | Melissa Goerner |
+| 196 | 629 | Fairrun James |
+| 197 | 622 | Mighty Patternbuilder |
+| 198 | 621 | Dizzy Pattern |
+| 199 | 619 | Kris Koepke |
+| 200 | 615 | Alex Hennigh |
 | 201 | 608 | Jme |
 | 202 | 598 | Alezandra Smith |
 | 203 | 589 | Bouncy Framezone |
@@ -243,7 +243,7 @@
 | 235 | 501 | Erich EMac McIntosh |
 | 236 | 499 | Liliana Pena |
 | 237 | 492 | Tisha Cammack |
-| 238 | 489 | Marianne Louise West |
+| 238 | 490 | Marianne Louise West |
 | 239 | 488 | Desiree Jenson |
 | 240 | 485 | April Carroll |
 | 241 | 485 | Elizabeth Hughes |
@@ -398,7 +398,7 @@
 | 390 | 305 | Spicy Twister |
 | 391 | 305 | 🗝️🗝️ Key |
 | 392 | 305 | Charles Herbert |
-| 393 | 303 | Boldy Clicky |
+| 393 | 304 | Boldy Clicky |
 | 394 | 303 | shelly |
 | 395 | 302 | Sabra Fisher |
 | 396 | 301 | Nutty Cascadefit |

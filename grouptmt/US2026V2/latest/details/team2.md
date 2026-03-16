@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 08:20:42 UTC
+# Standings for team2 as of 2026-03-16 08:21:20 UTC
 
 **Total Participants:** 2656
 
@@ -60,7 +60,7 @@
 | 52 | 1917 | Andrey Sharov |
 | 53 | 1906 | Tanya Smith |
 | 54 | 1896 | Joshua Hopkins |
-| 55 | 1784 | Bubbly Twistpiece |
+| 55 | 1786 | Bubbly Twistpiece |
 | 56 | 1754 | Nick Jensen |
 | 57 | 1684 | Ultramarine |
 | 58 | 1675 | Peppy Slice |
@@ -1173,119 +1173,119 @@
 | 1165 | 91 | Mamagamer |
 | 1166 | 91 | Brandi Quick |
 | 1167 | 91 | Emily Jo Baranowski |
-| 1168 | 91 | Steph Otruba |
-| 1169 | 91 | Nina Kela |
-| 1170 | 90 | Jessica Venable |
-| 1171 | 90 | Peyton Mclaughlin |
-| 1172 | 90 | Kaagyugaq Jessica |
-| 1173 | 90 | Avi Quijada |
+| 1168 | 91 | Nina Kela |
+| 1169 | 91 | Steph Otruba |
+| 1170 | 90 | Avi Quijada |
+| 1171 | 90 | Jessica Venable |
+| 1172 | 90 | Peyton Mclaughlin |
+| 1173 | 90 | Demitrick Chaney |
 | 1174 | 90 | Loopy Curve |
 | 1175 | 90 | Matthew Heffran |
-| 1176 | 90 | Demitrick Chaney |
+| 1176 | 90 | Kaagyugaq Jessica |
 | 1177 | 90 | Slugger26 |
 | 1178 | 90 | Sonceria Ingram-Ford |
 | 1179 | 89 | Cheeky Grabber |
-| 1180 | 89 | Marisa Sanders |
+| 1180 | 89 | Owitty |
 | 1181 | 89 | Jessica Prewitt |
-| 1182 | 89 | Monay Sutherland |
-| 1183 | 89 | Owitty |
-| 1184 | 89 | croshay |
-| 1185 | 89 | Danielle Barker |
+| 1182 | 89 | Danielle Barker |
+| 1183 | 89 | Monay Sutherland |
+| 1184 | 89 | Marisa Sanders |
+| 1185 | 89 | croshay |
 | 1186 | 89 | Tatiana Rae Robinson |
-| 1187 | 88 | Dapper Winder |
+| 1187 | 88 | Smiley Linkfall |
 | 1188 | 88 | Nutty Linkgrid |
 | 1189 | 88 | Giggy Tilt |
 | 1190 | 88 | Ann May June |
-| 1191 | 88 | Neva Blum |
-| 1192 | 88 | Smiley Linkfall |
-| 1193 | 88 | Ruchi Smit |
+| 1191 | 88 | Ruchi Smit |
+| 1192 | 88 | Dapper Winder |
+| 1193 | 88 | Neva Blum |
 | 1194 | 88 | Grovenia Joy Perryman |
 | 1195 | 88 | Stabitha Christie |
 | 1196 | 88 | Mackenzie Forrester |
 | 1197 | 87 | Lamarr Drayton |
-| 1198 | 87 | Lady Love |
-| 1199 | 87 | Jamocha Mieka Muldrow-Wright |
-| 1200 | 87 | Christine Kelly-Sarni |
-| 1201 | 87 | Dawn Alexander |
-| 1202 | 87 | Yusuf Barnes |
+| 1198 | 87 | Yusuf Barnes |
+| 1199 | 87 | Christine Kelly-Sarni |
+| 1200 | 87 | Dawn Alexander |
+| 1201 | 87 | Jamocha Mieka Muldrow-Wright |
+| 1202 | 87 | Lady Love |
 | 1203 | 87 | Pete Stacknick |
 | 1204 | 87 | Playtray |
 | 1205 | 87 | Poppy Jumper |
-| 1206 | 86 | scott |
-| 1207 | 86 | Goofy Twistline |
-| 1208 | 86 | Laurie McGregor |
-| 1209 | 86 | Pam Green |
-| 1210 | 86 | Volley |
+| 1206 | 86 | Goofy Twistline |
+| 1207 | 86 | scott |
+| 1208 | 86 | Pam Green |
+| 1209 | 86 | Volley |
+| 1210 | 86 | Laurie McGregor |
 | 1211 | 86 | Nicole Maboloc |
 | 1212 | 86 | Layne Dejean |
 | 1213 | 86 | Kitty tet |
-| 1214 | 85 | Brian Wangler |
-| 1215 | 85 | Angie Maddox |
-| 1216 | 85 | bruggy |
-| 1217 | 85 | aja |
-| 1218 | 85 | Bobbi Griepentrog |
+| 1214 | 85 | Stacey Sanders |
+| 1215 | 85 | bruggy |
+| 1216 | 85 | aja |
+| 1217 | 85 | Bobbi Griepentrog |
+| 1218 | 85 | Angie Maddox |
 | 1219 | 85 | Cathy Bitters |
 | 1220 | 85 | Serenity Gail |
-| 1221 | 85 | Elizabeth Hepler |
-| 1222 | 85 | PartyStarter |
-| 1223 | 85 | RzrbkParty |
-| 1224 | 85 | Stacey Sanders |
-| 1225 | 84 | Suaveelo |
+| 1221 | 85 | Brian Wangler |
+| 1222 | 85 | Elizabeth Hepler |
+| 1223 | 85 | PartyStarter |
+| 1224 | 85 | RzrbkParty |
+| 1225 | 84 | Paul Islas |
 | 1226 | 84 | Brave Matchfit |
-| 1227 | 84 | Paul Islas |
-| 1228 | 84 | Dai Bo |
+| 1227 | 84 | Dai Bo |
+| 1228 | 84 | Suaveelo |
 | 1229 | 84 | Becky Short |
 | 1230 | 84 | Liz Scott |
 | 1231 | 84 | Derek Jarvis |
 | 1232 | 84 | Tinkerbell_79 |
-| 1233 | 84 | Bold Linkpiece |
-| 1234 | 84 | Dizzy Linkpiece |
+| 1233 | 84 | Dizzy Linkpiece |
+| 1234 | 84 | Bold Linkpiece |
 | 1235 | 84 | Chasity Winters |
 | 1236 | 84 | Mzjudged Niteowl |
 | 1237 | 83 | Daring Spinzone |
-| 1238 | 83 | Ryan |
-| 1239 | 83 | Marie Kirkland |
-| 1240 | 83 | Juan Bonilla |
-| 1241 | 83 | Kiana Serrao |
-| 1242 | 83 | Doodle |
-| 1243 | 83 | Cool Blockline |
-| 1244 | 83 | Breezy Cascader |
-| 1245 | 83 | Mary Ann Pabukis |
-| 1246 | 83 | Staybutterfly |
-| 1247 | 83 | Jonviea Dewalt |
-| 1248 | 83 | Janet Sims - Martin |
-| 1249 | 83 | birdie |
-| 1250 | 83 | Twisty Tiler |
-| 1251 | 83 | cherry 🍒pie |
-| 1252 | 83 | Jeremy Null |
-| 1253 | 83 | Timothy Poole |
-| 1254 | 83 | Kelly Cox |
-| 1255 | 82 | Loony Gridder |
-| 1256 | 82 | Bumblebee |
-| 1257 | 82 | Liz Waagmeester |
+| 1238 | 83 | Marie Kirkland |
+| 1239 | 83 | Ryan |
+| 1240 | 83 | Kiana Serrao |
+| 1241 | 83 | Juan Bonilla |
+| 1242 | 83 | Liz Waagmeester |
+| 1243 | 83 | Doodle |
+| 1244 | 83 | Kelly Cox |
+| 1245 | 83 | Cool Blockline |
+| 1246 | 83 | Breezy Cascader |
+| 1247 | 83 | Mary Ann Pabukis |
+| 1248 | 83 | Staybutterfly |
+| 1249 | 83 | Timothy Poole |
+| 1250 | 83 | birdie |
+| 1251 | 83 | Jonviea Dewalt |
+| 1252 | 83 | Janet Sims - Martin |
+| 1253 | 83 | Twisty Tiler |
+| 1254 | 83 | cherry 🍒pie |
+| 1255 | 83 | Jeremy Null |
+| 1256 | 82 | Loony Gridder |
+| 1257 | 82 | GoblinHatcher |
 | 1258 | 82 | Lien |
-| 1259 | 82 | Brandon Bergfield |
-| 1260 | 82 | GoblinHatcher |
-| 1261 | 82 | bestme |
-| 1262 | 81 | Marlon Reed |
-| 1263 | 81 | Jasone Justice |
-| 1264 | 81 | Amanda Eakin |
-| 1265 | 81 | Kimberly Ryan |
-| 1266 | 81 | WD6DAL |
-| 1267 | 81 | Cozy Clearbuilder |
-| 1268 | 81 | Jenny Edwards Wells |
+| 1259 | 82 | bestme |
+| 1260 | 82 | Brandon Bergfield |
+| 1261 | 82 | Bumblebee |
+| 1262 | 81 | Cozy Clearbuilder |
+| 1263 | 81 | WD6DAL |
+| 1264 | 81 | Jasone Justice |
+| 1265 | 81 | Marlon Reed |
+| 1266 | 81 | Jenny Edwards Wells |
+| 1267 | 81 | Kimberly Ryan |
+| 1268 | 81 | Amanda Eakin |
 | 1269 | 81 | Anthony Quick |
 | 1270 | 81 | Tracy Berry |
 | 1271 | 80 | OneTwenty Livin |
-| 1272 | 80 | Shiny Patternline |
-| 1273 | 80 | Kandi Lopez |
-| 1274 | 80 | Goobette |
-| 1275 | 80 | Nutty Splitter |
-| 1276 | 80 | Janet Eberhard |
-| 1277 | 80 | Megan Earp |
+| 1272 | 80 | Kandi Lopez |
+| 1273 | 80 | Nutty Splitter |
+| 1274 | 80 | Janet Eberhard |
+| 1275 | 80 | Blocksy |
+| 1276 | 80 | Shiny Patternline |
+| 1277 | 80 | Goobette |
 | 1278 | 80 | FallenStar |
-| 1279 | 80 | Susan Valentino |
-| 1280 | 80 | Blocksy |
+| 1279 | 80 | Megan Earp |
+| 1280 | 80 | Susan Valentino |
 | 1281 | 80 | Elizabeth Hinkens |
 | 1282 | 80 | Mandy |
 | 1283 | 80 | Plucky Rollblock |
