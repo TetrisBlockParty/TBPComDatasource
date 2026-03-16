@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 06:51:22 UTC
+# Standings for team2 as of 2026-03-16 06:52:18 UTC
 
 **Total Participants:** 2637
 
@@ -269,8 +269,8 @@
 | 261 | 430 | ElayneTrekand |
 | 262 | 425 | Faith Meade |
 | 263 | 425 | Zippy Tile |
-| 264 | 422 | Slippery Clam |
-| 265 | 421 | Plucky Snaplink |
+| 264 | 425 | Plucky Snaplink |
+| 265 | 422 | Slippery Clam |
 | 266 | 420 | Sandra Safford |
 | 267 | 420 | Mel |
 | 268 | 420 | LML |
