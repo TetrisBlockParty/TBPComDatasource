@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 06:36:19 UTC
+# Standings for team2 as of 2026-03-16 06:36:43 UTC
 
 **Total Participants:** 2634
 
@@ -254,8 +254,8 @@
 | 246 | 455 | Krys Brown |
 | 247 | 454 | eMzzz |
 | 248 | 450 | Quirky Matchfit |
-| 249 | 450 | nina |
-| 250 | 450 | Tiffany Smith |
+| 249 | 450 | Tiffany Smith |
+| 250 | 450 | nina |
 | 251 | 448 | Elizabeth Mauri |
 | 252 | 447 | Tiff Vs Tiffany |
 | 253 | 445 | Jt Home |
@@ -263,47 +263,47 @@
 | 255 | 443 | Pixie |
 | 256 | 439 | SterlingTeri |
 | 257 | 439 | Megan Simpson |
-| 258 | 433 | Melissa Bergin |
-| 259 | 433 | Jess |
+| 258 | 433 | Jess |
+| 259 | 433 | Melissa Bergin |
 | 260 | 432 | Jjza |
-| 261 | 425 | Faith Meade |
-| 262 | 425 | Zippy Tile |
+| 261 | 425 | Zippy Tile |
+| 262 | 425 | Faith Meade |
 | 263 | 422 | Slippery Clam |
 | 264 | 421 | Plucky Snaplink |
-| 265 | 420 | Jason Allen |
-| 266 | 420 | Sandra Safford |
+| 265 | 420 | Sandra Safford |
+| 266 | 420 | LML |
 | 267 | 420 | Mel |
-| 268 | 420 | LML |
+| 268 | 420 | Jason Allen |
 | 269 | 416 | Toph |
 | 270 | 413 | Kennady Griffin |
 | 271 | 413 | YAE |
-| 272 | 410 | Dreamy Clicky |
-| 273 | 409 | Snappy Tiley |
-| 274 | 406 | Jennifer Osmer Carruth |
-| 275 | 405 | Dee Doubleyou |
-| 276 | 405 | Christy Merriman Addison |
-| 277 | 405 | Nick Kozik |
-| 278 | 404 | Jasmine Kenney |
-| 279 | 402 | Kate |
-| 280 | 401 | Halstead47K |
-| 281 | 400 | Ramone Armstrong |
-| 282 | 392 | Sammy |
-| 283 | 391 | Brenda A |
-| 284 | 388 | Destiny Brady |
-| 285 | 386 | Kristie |
-| 286 | 385 | Jocelyn Jauregui |
-| 287 | 383 | Jumpy Breaker |
-| 288 | 383 | Tammi Crnza |
-| 289 | 383 | Bouncy Swiper |
-| 290 | 382 | Sandra McNab |
-| 291 | 378 | Sondra Kenny |
-| 292 | 378 | 1RiRi1 |
-| 293 | 376 | HarleyJane |
-| 294 | 376 | Lazy Twistline |
-| 295 | 375 | infinimom |
-| 296 | 373 | Charde Parnell |
-| 297 | 370 | BYM4L |
-| 298 | 370 | ElayneTrekand |
+| 272 | 410 | ElayneTrekand |
+| 273 | 410 | Dreamy Clicky |
+| 274 | 409 | Snappy Tiley |
+| 275 | 406 | Jennifer Osmer Carruth |
+| 276 | 405 | Dee Doubleyou |
+| 277 | 405 | Christy Merriman Addison |
+| 278 | 405 | Nick Kozik |
+| 279 | 404 | Jasmine Kenney |
+| 280 | 402 | Kate |
+| 281 | 401 | Halstead47K |
+| 282 | 400 | Ramone Armstrong |
+| 283 | 392 | Sammy |
+| 284 | 391 | Brenda A |
+| 285 | 388 | Destiny Brady |
+| 286 | 386 | Kristie |
+| 287 | 385 | Jocelyn Jauregui |
+| 288 | 383 | Jumpy Breaker |
+| 289 | 383 | Tammi Crnza |
+| 290 | 383 | Bouncy Swiper |
+| 291 | 382 | Sandra McNab |
+| 292 | 378 | Sondra Kenny |
+| 293 | 378 | 1RiRi1 |
+| 294 | 376 | HarleyJane |
+| 295 | 376 | Lazy Twistline |
+| 296 | 375 | infinimom |
+| 297 | 373 | Charde Parnell |
+| 298 | 370 | BYM4L |
 | 299 | 370 | Jazzy Piecebuilder |
 | 300 | 370 | Jo Frohwein |
 | 301 | 369 | Snippy Towerpiece |
@@ -387,18 +387,18 @@
 | 379 | 298 | Dimitra Zazara |
 | 380 | 298 | Starr |
 | 381 | 297 | Angel Hunnewell |
-| 382 | 295 | Jenn Dandle |
-| 383 | 295 | Tatyahna Cameron |
-| 384 | 295 | Albany Broadway |
+| 382 | 295 | Albany Broadway |
+| 383 | 295 | Jenn Dandle |
+| 384 | 295 | Tatyahna Cameron |
 | 385 | 295 | Arisvet Garcia |
 | 386 | 294 | Brenda Lee Vander Molen |
 | 387 | 293 | Abimbola Bimbo |
 | 388 | 293 | Mighty Zone |
-| 389 | 292 | Tig’o Biggie |
-| 390 | 292 | Frisky Gridpiece |
-| 391 | 291 | Natasha |
-| 392 | 291 | Desi Desporte |
-| 393 | 291 | nklstl |
+| 389 | 292 | Frisky Gridpiece |
+| 390 | 292 | Tig’o Biggie |
+| 391 | 291 | Desi Desporte |
+| 392 | 291 | nklstl |
+| 393 | 291 | Natasha |
 | 394 | 290 | Lora |
 | 395 | 290 | Alexsa Crespo |
 | 396 | 287 | Susan Dunn |
@@ -407,37 +407,37 @@
 | 399 | 285 | Angela Mindiola |
 | 400 | 284 | Kit Dennett |
 | 401 | 282 | Goofy Towerer |
-| 402 | 280 | Zippy Zoney |
+| 402 | 280 | Samantha Bagent |
 | 403 | 280 | Theodore Vincent |
 | 404 | 280 | Rackemwillie34 |
-| 405 | 280 | Samantha Bagent |
-| 406 | 279 | btchboy |
-| 407 | 279 | Jeff Lewis |
-| 408 | 279 | David V. Bowers |
-| 409 | 278 | SuZee |
-| 410 | 277 | Jackson Karen |
-| 411 | 277 | Ess |
-| 412 | 276 | Ben Dove |
+| 405 | 280 | Zippy Zoney |
+| 406 | 280 | Krista Roberts |
+| 407 | 279 | David V. Bowers |
+| 408 | 279 | Jeff Lewis |
+| 409 | 279 | btchboy |
+| 410 | 278 | SuZee |
+| 411 | 277 | Jackson Karen |
+| 412 | 277 | Ess |
 | 413 | 276 | Amanda Thomas |
-| 414 | 275 | Giovanni Distefano |
-| 415 | 275 | Cookie |
-| 416 | 275 | Christine Soltis |
-| 417 | 275 | Phredda Compton |
-| 418 | 275 | Camila Gerow |
-| 419 | 274 | Jean Yap |
+| 414 | 276 | Ben Dove |
+| 415 | 275 | Camila Gerow |
+| 416 | 275 | Giovanni Distefano |
+| 417 | 275 | Christine Soltis |
+| 418 | 275 | Phredda Compton |
+| 419 | 275 | Cookie |
 | 420 | 274 | Christina Ramirez |
-| 421 | 273 | Elizabeth Diraffaele |
-| 422 | 273 | Amanda Mason Scott |
-| 423 | 272 | Torie Snyder |
-| 424 | 271 | Marcia Jones |
-| 425 | 271 | Tipsy Clearbuilder |
-| 426 | 271 | Loony Snapbuild |
-| 427 | 271 | Vanessa Nguyen |
-| 428 | 270 | Spicy Patternbuilder |
-| 429 | 270 | Tony Tran |
-| 430 | 270 | Slinky Towerer |
-| 431 | 270 | Layle Miranda Madsen |
-| 432 | 270 | Krista Roberts |
+| 421 | 274 | Jean Yap |
+| 422 | 273 | Elizabeth Diraffaele |
+| 423 | 273 | Amanda Mason Scott |
+| 424 | 272 | Torie Snyder |
+| 425 | 271 | Loony Snapbuild |
+| 426 | 271 | Vanessa Nguyen |
+| 427 | 271 | Marcia Jones |
+| 428 | 271 | Tipsy Clearbuilder |
+| 429 | 270 | Spicy Patternbuilder |
+| 430 | 270 | Tony Tran |
+| 431 | 270 | Slinky Towerer |
+| 432 | 270 | Layle Miranda Madsen |
 | 433 | 269 | Iris Ortiz |
 | 434 | 267 | Smiley Match |
 | 435 | 267 | Jolly Clicky |
@@ -445,13 +445,13 @@
 | 437 | 265 | Bryanna Whitman |
 | 438 | 265 | olympichero |
 | 439 | 265 | Ashley Leonard |
-| 440 | 262 | Rachel |
-| 441 | 262 | Fbai |
+| 440 | 262 | Fbai |
+| 441 | 262 | Rachel |
 | 442 | 261 | Tyler Bechtel |
 | 443 | 261 | Isabella Blanco |
 | 444 | 260 | Trice Sodames |
-| 445 | 260 | Daring Fall |
-| 446 | 260 | Berling Gil |
+| 445 | 260 | Berling Gil |
+| 446 | 260 | Daring Fall |
 | 447 | 260 | Tanya Bullert |
 | 448 | 260 | Nerdy Blockpiece |
 | 449 | 259 | Melissa Boldt |

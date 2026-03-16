@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 06:36:19 UTC
+# Standings for team1 as of 2026-03-16 06:36:43 UTC
 
 **Total Participants:** 2625
 
@@ -189,8 +189,8 @@
 | 181 | 667 | TexasLise |
 | 182 | 660 | Darci Cline |
 | 183 | 656 | Shawn Kelso |
-| 184 | 653 | Crafty Tilebuilder |
-| 185 | 653 | Snippy Stacky |
+| 184 | 653 | Snippy Stacky |
+| 185 | 653 | Crafty Tilebuilder |
 | 186 | 652 | Chris Wanner |
 | 187 | 650 | Sassy Cascadepiece |
 | 188 | 649 | DeeBee |
@@ -219,8 +219,8 @@
 | 211 | 558 | Rennon Scott Wilson |
 | 212 | 557 | Ancient Intuition |
 | 213 | 555 | Erin Halleman |
-| 214 | 554 | Allena Craft |
-| 215 | 554 | Austin |
+| 214 | 554 | Austin |
+| 215 | 554 | Allena Craft |
 | 216 | 553 | Haley Anne |
 | 217 | 551 | Victoria Davis Torie |
 | 218 | 550 | Frilly Climber |
@@ -228,32 +228,32 @@
 | 220 | 547 | La'Shonda N Williams |
 | 221 | 546 | Bubbly Staggerpiece |
 | 222 | 540 | Jevon Griffith |
-| 223 | 538 | Alicia Sheckler |
-| 224 | 538 | Diamond Madison |
+| 223 | 538 | Diamond Madison |
+| 224 | 538 | Alicia Sheckler |
 | 225 | 536 | Matthew Bunn |
 | 226 | 533 | Mahmudul Hasan |
 | 227 | 531 | TetrisWoo |
 | 228 | 530 | Sheree Twiddy Thornton |
 | 229 | 529 | Jaime Barrett Nelson |
-| 230 | 515 | Thorpedo |
-| 231 | 499 | Cheeky Blocky |
-| 232 | 492 | Tisha Cammack |
-| 233 | 488 | Desiree Jenson |
-| 234 | 485 | April Carroll |
-| 235 | 483 | Sonotjelly |
-| 236 | 481 | Marianne Louise West |
+| 230 | 524 | Jessica Ritter |
+| 231 | 515 | Thorpedo |
+| 232 | 499 | Cheeky Blocky |
+| 233 | 492 | Tisha Cammack |
+| 234 | 488 | Desiree Jenson |
+| 235 | 485 | April Carroll |
+| 236 | 483 | Sonotjelly |
 | 237 | 481 | Pamela Marie Tyler |
-| 238 | 479 | Hannah Carter |
-| 239 | 477 | Lemonberry |
-| 240 | 475 | Jessica Ritter |
+| 238 | 481 | Marianne Louise West |
+| 239 | 479 | Hannah Carter |
+| 240 | 477 | Lemonberry |
 | 241 | 474 | Krystal Mccoy |
 | 242 | 472 | Liliana Pena |
 | 243 | 471 | Ma Shwe Myint |
 | 244 | 469 | Tatiyana Holm |
 | 245 | 467 | Elizabeth Hughes |
 | 246 | 465 | Bouncy Wipeout |
-| 247 | 464 | Dish19 |
-| 248 | 464 | Jess Rose |
+| 247 | 464 | Jess Rose |
+| 248 | 464 | Dish19 |
 | 249 | 463 | Kelly Owens |
 | 250 | 462 | Rat666 |
 | 251 | 460 | Amh |
@@ -276,8 +276,8 @@
 | 268 | 430 | Mufi25 |
 | 269 | 430 | TRCuse |
 | 270 | 430 | Aaron Higdon |
-| 271 | 422 | Amber McDonald |
-| 272 | 422 | Katie Alexander |
+| 271 | 422 | Katie Alexander |
+| 272 | 422 | Amber McDonald |
 | 273 | 418 | Jodi Fichter |
 | 274 | 417 | Nancy Reid |
 | 275 | 416 | Yvette Cooper |
@@ -291,30 +291,30 @@
 | 283 | 400 | Dude |
 | 284 | 399 | CoolHand |
 | 285 | 397 | Beka |
-| 286 | 393 | Amers |
-| 287 | 392 | Bribrobra |
-| 288 | 390 | Sissy Lowery Davis |
-| 289 | 390 | Julie A Hutchinson |
-| 290 | 390 | Kay Francois |
-| 291 | 389 | Twisty Snapfit |
-| 292 | 388 | Hasty Towerpiece |
-| 293 | 388 | JV Yu |
-| 294 | 387 | Mykal Burton |
-| 295 | 385 | Jena Overall Prescott |
-| 296 | 384 | raffyG |
-| 297 | 382 | Jennifer Campbell |
-| 298 | 381 | Jasmine Riley |
+| 286 | 394 | Kay Francois |
+| 287 | 393 | Amers |
+| 288 | 393 | Jasmine Riley |
+| 289 | 392 | Bribrobra |
+| 290 | 390 | Sissy Lowery Davis |
+| 291 | 390 | Julie A Hutchinson |
+| 292 | 389 | Twisty Snapfit |
+| 293 | 388 | Hasty Towerpiece |
+| 294 | 388 | JV Yu |
+| 295 | 387 | Mykal Burton |
+| 296 | 385 | Jena Overall Prescott |
+| 297 | 384 | raffyG |
+| 298 | 382 | Jennifer Campbell |
 | 299 | 380 | Antonia Wyche |
 | 300 | 379 | Dawn Hoffman |
 | 301 | 379 | Kathy Karjala |
 | 302 | 376 | Margaret Rose |
-| 303 | 375 | SitHazy |
-| 304 | 375 | Giddy Brickclear |
+| 303 | 375 | Giddy Brickclear |
+| 304 | 375 | SitHazy |
 | 305 | 375 | Ern2burn |
 | 306 | 373 | Silly Ziggy |
-| 307 | 370 | Boldy Clear |
-| 308 | 370 | Cesar Morelos |
-| 309 | 370 | Sullivan Tamara |
+| 307 | 370 | Sullivan Tamara |
+| 308 | 370 | Boldy Clear |
+| 309 | 370 | Cesar Morelos |
 | 310 | 370 | Justin Feingold |
 | 311 | 366 | Marshell Harris |
 | 312 | 364 | Jonnelle Partin |
@@ -1362,12 +1362,12 @@
 | 1354 | 72 | Danielle Sperry |
 | 1355 | 72 | Katy Schuster |
 | 1356 | 72 | peach |
-| 1357 | 72 | Jacob Lee Grinvalds |
-| 1358 | 72 | Anthony Ross |
-| 1359 | 71 | Britney Nelson Coy |
-| 1360 | 71 | Kevin Munkel |
-| 1361 | 71 | Gfly |
-| 1362 | 71 | Lakesha Jackson- Anderson |
+| 1357 | 72 | Lakesha Jackson- Anderson |
+| 1358 | 72 | Jacob Lee Grinvalds |
+| 1359 | 72 | Anthony Ross |
+| 1360 | 71 | Britney Nelson Coy |
+| 1361 | 71 | Kevin Munkel |
+| 1362 | 71 | Gfly |
 | 1363 | 71 | Crystal Eubanks |
 | 1364 | 71 | Crystal Conklin |
 | 1365 | 71 | ldm |
