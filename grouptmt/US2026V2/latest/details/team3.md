@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-16 08:54:20 UTC
+# Standings for team3 as of 2026-03-16 08:54:38 UTC
 
 **Total Participants:** 4169
 
@@ -26,7 +26,7 @@
 | 18 | 4456 | Epic Patternfall |
 | 19 | 4231 | Kate M. Murdock |
 | 20 | 3987 | Doowop40 |
-| 21 | 3914 | BreakingSigns |
+| 21 | 3920 | BreakingSigns |
 | 22 | 3902 | Laura Melton |
 | 23 | 3706 | Cheeky Lifter |
 | 24 | 3701 | Reydoma |
@@ -1950,39 +1950,39 @@
 | 1942 | 84 | Swanky Wipebuilder |
 | 1943 | 84 | Tetrisdemon1 |
 | 1944 | 84 | Lee Wojcik |
-| 1945 | 84 | Trice Frost |
-| 1946 | 84 | CainAnd Kate |
-| 1947 | 84 | Sillyfuntimes |
-| 1948 | 84 | Wesley Drew Barnes |
-| 1949 | 83 | Michael Moore |
-| 1950 | 83 | Wacky Rollblock |
-| 1951 | 83 | Angie Garcia |
-| 1952 | 83 | Perky Crusher |
-| 1953 | 83 | Stacey |
-| 1954 | 83 | Lonnie Burgess |
-| 1955 | 83 | Chill Dasher |
-| 1956 | 83 | Kristen Larsen |
-| 1957 | 83 | Jennifer Revells |
-| 1958 | 83 | Tyler Lynn |
-| 1959 | 83 | momma b |
-| 1960 | 83 | Amber Groover Taylor |
-| 1961 | 83 | Heidi Young |
-| 1962 | 83 | Kitty 210 |
-| 1963 | 83 | Nicole Clavette |
-| 1964 | 83 | Juanita Thomas |
-| 1965 | 82 | Goofy Linefit |
-| 1966 | 82 | MamaK |
+| 1945 | 84 | Dreamy Dashgrid |
+| 1946 | 84 | Trice Frost |
+| 1947 | 84 | CainAnd Kate |
+| 1948 | 84 | Sillyfuntimes |
+| 1949 | 84 | Wesley Drew Barnes |
+| 1950 | 83 | Michael Moore |
+| 1951 | 83 | Wacky Rollblock |
+| 1952 | 83 | Angie Garcia |
+| 1953 | 83 | Perky Crusher |
+| 1954 | 83 | Stacey |
+| 1955 | 83 | Jennifer Revells |
+| 1956 | 83 | Lonnie Burgess |
+| 1957 | 83 | Chill Dasher |
+| 1958 | 83 | Kristen Larsen |
+| 1959 | 83 | Tyler Lynn |
+| 1960 | 83 | momma b |
+| 1961 | 83 | Amber Groover Taylor |
+| 1962 | 83 | Heidi Young |
+| 1963 | 83 | Kitty 210 |
+| 1964 | 83 | Nicole Clavette |
+| 1965 | 83 | Juanita Thomas |
+| 1966 | 82 | Goofy Linefit |
 | 1967 | 82 | Daniel Frye |
 | 1968 | 82 | yna |
 | 1969 | 82 | MamaK |
 | 1970 | 82 | Renee Scott |
 | 1971 | 82 | Kristina Devers |
 | 1972 | 82 | Lolo Retta |
-| 1973 | 82 | Chad Atchley |
-| 1974 | 82 | Maher Fawzy |
-| 1975 | 82 | Dreamy Dashgrid |
-| 1976 | 82 | Stacie Perales |
-| 1977 | 82 | Kayla Commons |
+| 1973 | 82 | Kayla Commons |
+| 1974 | 82 | MamaK |
+| 1975 | 82 | Chad Atchley |
+| 1976 | 82 | Maher Fawzy |
+| 1977 | 82 | Stacie Perales |
 | 1978 | 82 | Frothy Tiltpiece |
 | 1979 | 82 | Lupe Reyes |
 | 1980 | 82 | JoAnna Canter |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 08:54:20 UTC
+# Standings for team2 as of 2026-03-16 08:54:38 UTC
 
 **Total Participants:** 2662
 
@@ -674,21 +674,21 @@
 | 666 | 177 | Nicole Lynnette Mahurin |
 | 667 | 176 | Teri Oehlke |
 | 668 | 176 | Nate Price |
-| 669 | 175 | Cristina Black |
-| 670 | 175 | Shane Gann |
+| 669 | 175 | Shane Gann |
+| 670 | 175 | Cristina Black |
 | 671 | 175 | Frisky Riseclear |
 | 672 | 174 | Chipper Clicky |
 | 673 | 174 | Debbie Gerlib-Molinari Leigh |
-| 674 | 174 | Mindy Phelps |
-| 675 | 174 | JamMY-YamMy |
-| 676 | 174 | Ashley Marie Pierce |
+| 674 | 174 | Ashley Marie Pierce |
+| 675 | 174 | Mindy Phelps |
+| 676 | 174 | JamMY-YamMy |
 | 677 | 174 | Melanie Corum Reynolds |
 | 678 | 173 | Bubbly Blockmatch |
 | 679 | 173 | Armand Drayton |
 | 680 | 172 | Selena Combee |
-| 681 | 172 | Nerdy Rollzone |
-| 682 | 172 | Katie Hughes |
-| 683 | 172 | Dineisha Carpenter |
+| 681 | 172 | Dineisha Carpenter |
+| 682 | 172 | Nerdy Rollzone |
+| 683 | 172 | Katie Hughes |
 | 684 | 171 | BusyBee11 |
 | 685 | 171 | SigmaWinchester |
 | 686 | 170 | Niamh |
@@ -698,13 +698,13 @@
 | 690 | 170 | Sarah Somers Gray |
 | 691 | 170 | Quitito1014 |
 | 692 | 170 | Lauren Bailey |
-| 693 | 170 | Nerdy Clearer |
-| 694 | 170 | Sunny Blockline |
-| 695 | 170 | Marcie McLain Dodd |
-| 696 | 169 | Corgi Mama |
-| 697 | 169 | Rileyy Rocket |
-| 698 | 168 | Chalanda Jefferies |
-| 699 | 168 | Bridgett |
+| 693 | 170 | Sunny Blockline |
+| 694 | 170 | Marcie McLain Dodd |
+| 695 | 170 | Nerdy Clearer |
+| 696 | 169 | Rileyy Rocket |
+| 697 | 169 | Corgi Mama |
+| 698 | 168 | Bridgett |
+| 699 | 168 | Chalanda Jefferies |
 | 700 | 168 | Ms. Blue |
 | 701 | 167 | BugMansMom |
 | 702 | 166 | Joe Smith |
@@ -713,31 +713,31 @@
 | 705 | 166 | Sha45 |
 | 706 | 165 | Giggly Shiftsnap |
 | 707 | 165 | Happy Columnbuilder |
-| 708 | 165 | Steady Treal |
-| 709 | 165 | Marshall Renee |
+| 708 | 165 | BendersMomma |
+| 709 | 165 | Steady Treal |
 | 710 | 165 | Amy Jur Falk |
 | 711 | 165 | Alice Greene |
-| 712 | 164 | MrMais89 |
-| 713 | 164 | Amykins |
+| 712 | 165 | Marshall Renee |
+| 713 | 164 | MrMais89 |
 | 714 | 164 | Old Man |
-| 715 | 163 | Rebecca Goforth |
+| 715 | 164 | Amykins |
 | 716 | 163 | Gi Na |
-| 717 | 163 | BendersMomma |
-| 718 | 162 | Martinez Jacobo |
-| 719 | 162 | Betty Jo Cyphert |
-| 720 | 162 | Sylvie Lemoine |
-| 721 | 162 | ANIM3KNIGHT |
-| 722 | 162 | Confused Kitty |
-| 723 | 161 | Jen Louie |
-| 724 | 161 | Cheery Clearfit |
+| 717 | 163 | Rebecca Goforth |
+| 718 | 162 | Confused Kitty |
+| 719 | 162 | Sylvie Lemoine |
+| 720 | 162 | ANIM3KNIGHT |
+| 721 | 162 | Martinez Jacobo |
+| 722 | 162 | Betty Jo Cyphert |
+| 723 | 161 | Cheery Clearfit |
+| 724 | 161 | Jen Louie |
 | 725 | 161 | Tdg Boyt |
-| 726 | 161 | Jessica Petersen |
-| 727 | 161 | Elizabeth Reliford |
+| 726 | 161 | Elizabeth Reliford |
+| 727 | 161 | Jessica Petersen |
 | 728 | 160 | Joy Young |
-| 729 | 160 | Jumpy Cascadeclear |
+| 729 | 160 | Adrianne Elliott |
 | 730 | 160 | Ashley Moore |
-| 731 | 160 | Paula Martin |
-| 732 | 160 | Adrianne Elliott |
+| 731 | 160 | Jumpy Cascadeclear |
+| 732 | 160 | Paula Martin |
 | 733 | 160 | Aldo Hernandez |
 | 734 | 160 | Shelly Marie Lloyd |
 | 735 | 160 | Twisty Shatter |
@@ -1903,13 +1903,13 @@
 | 1895 | 40 | Kindra Ramsey Bray |
 | 1896 | 40 | Brian Marsico |
 | 1897 | 40 | Funky Twistpiece |
-| 1898 | 40 | Breanna Holtman |
-| 1899 | 40 | Riley Hall |
+| 1898 | 40 | Riley Hall |
+| 1899 | 40 | Breanna Holtman |
 | 1900 | 40 | Scott Smith |
 | 1901 | 40 | Sarah Arnold |
 | 1902 | 40 | carzyspinner |
-| 1903 | 40 | PuppaT |
-| 1904 | 40 | Stacy Warren |
+| 1903 | 40 | Stacy Warren |
+| 1904 | 40 | PuppaT |
 | 1905 | 40 | Somthin |
 | 1906 | 40 | Shea |
 | 1907 | 39 | Evelyn Ens Paul |
@@ -1924,87 +1924,87 @@
 | 1916 | 39 | Rachel Nicole |
 | 1917 | 39 | Tashasky |
 | 1918 | 39 | Megan Choina |
-| 1919 | 39 | jaebae |
-| 1920 | 39 | Loopy Shatterclear |
-| 1921 | 39 | Dominiquè Conerly-Trejo |
-| 1922 | 39 | Julie Lane |
-| 1923 | 39 | Kita A Jackson |
-| 1924 | 39 | Felicia Edmonds |
-| 1925 | 39 | Toxx Strizak |
-| 1926 | 39 | Dreamy Brickroll |
-| 1927 | 39 | Angel Niomi Munoz |
-| 1928 | 39 | Nici |
-| 1929 | 38 | Rose Clark |
-| 1930 | 38 | Giggy Slam |
-| 1931 | 38 | babbs |
-| 1932 | 38 | katie |
-| 1933 | 38 | Lashes |
-| 1934 | 38 | Reco Merritt |
-| 1935 | 38 | Danielle Phillips Bedingfield |
-| 1936 | 38 | Cranky Bouncer |
-| 1937 | 38 | BockyTea |
-| 1938 | 38 | Zany Puzzle |
-| 1939 | 38 | FrankyThumbs |
-| 1940 | 37 | StephyCue |
-| 1941 | 37 | Charlie Author Richardson |
-| 1942 | 37 | Jeremy Moats |
-| 1943 | 37 | Paula Jean Purcell |
-| 1944 | 37 | Sadie |
-| 1945 | 37 | Goofy Fall |
+| 1919 | 39 | Kita A Jackson |
+| 1920 | 39 | Toxx Strizak |
+| 1921 | 39 | Nici |
+| 1922 | 39 | Dominiquè Conerly-Trejo |
+| 1923 | 39 | Dreamy Brickroll |
+| 1924 | 39 | Angel Niomi Munoz |
+| 1925 | 39 | Felicia Edmonds |
+| 1926 | 39 | Loopy Shatterclear |
+| 1927 | 39 | jaebae |
+| 1928 | 39 | Julie Lane |
+| 1929 | 38 | Danielle Phillips Bedingfield |
+| 1930 | 38 | Reco Merritt |
+| 1931 | 38 | FrankyThumbs |
+| 1932 | 38 | Rose Clark |
+| 1933 | 38 | Giggy Slam |
+| 1934 | 38 | babbs |
+| 1935 | 38 | katie |
+| 1936 | 38 | Lashes |
+| 1937 | 38 | Cranky Bouncer |
+| 1938 | 38 | Cozy Stagger |
+| 1939 | 38 | Zany Puzzle |
+| 1940 | 38 | BockyTea |
+| 1941 | 37 | Jeremy Moats |
+| 1942 | 37 | Paula Jean Purcell |
+| 1943 | 37 | Sadie |
+| 1944 | 37 | Goofy Fall |
+| 1945 | 37 | Charlie Author Richardson |
 | 1946 | 37 | Estefa The Architect |
 | 1947 | 37 | Ninamaye Newcomb |
-| 1948 | 37 | Marlene Espinosa |
+| 1948 | 37 | StephyCue |
 | 1949 | 37 | Andre Simpson |
-| 1950 | 37 | Charity Ann Nally |
-| 1951 | 37 | JustLessie |
-| 1952 | 37 | Kadi Rappold |
-| 1953 | 37 | Teaser |
-| 1954 | 37 | Tre |
-| 1955 | 37 | Cool Snapzone |
-| 1956 | 36 | Brave Tilebuilder |
-| 1957 | 36 | Sandra Schmidt |
-| 1958 | 36 | Twisty Shift |
-| 1959 | 36 | Sherice Amber |
-| 1960 | 36 | Perky Wipefit |
-| 1961 | 36 | Mandy Parker |
-| 1962 | 36 | Andrew Price |
-| 1963 | 36 | Lisa Hart |
-| 1964 | 36 | Joshua Cross |
-| 1965 | 36 | Kaobe Schmeer |
-| 1966 | 36 | Rarejewel Green |
-| 1967 | 36 | Erica Lewis |
-| 1968 | 36 | Zitro |
+| 1950 | 37 | Marlene Espinosa |
+| 1951 | 37 | Charity Ann Nally |
+| 1952 | 37 | JustLessie |
+| 1953 | 37 | Kadi Rappold |
+| 1954 | 37 | Teaser |
+| 1955 | 37 | Tre |
+| 1956 | 37 | Cool Snapzone |
+| 1957 | 36 | Brave Tilebuilder |
+| 1958 | 36 | Sandra Schmidt |
+| 1959 | 36 | Twisty Shift |
+| 1960 | 36 | Sherice Amber |
+| 1961 | 36 | Perky Wipefit |
+| 1962 | 36 | Mandy Parker |
+| 1963 | 36 | Andrew Price |
+| 1964 | 36 | Lisa Hart |
+| 1965 | 36 | Joshua Cross |
+| 1966 | 36 | Kaobe Schmeer |
+| 1967 | 36 | Rarejewel Green |
+| 1968 | 36 | Erica Lewis |
 | 1969 | 36 | Crystal23 |
-| 1970 | 36 | Jody King |
-| 1971 | 36 | Sandra Parker |
-| 1972 | 36 | Dapper Stacker |
-| 1973 | 36 | Elizabeth Miller |
-| 1974 | 36 | Chill Patternblock |
-| 1975 | 36 | Cranky Party |
-| 1976 | 36 | Zesty Dasher |
-| 1977 | 35 | Brittany Ditzler |
-| 1978 | 35 | Guy Incognito |
-| 1979 | 35 | Bubbl3s |
+| 1970 | 36 | Zitro |
+| 1971 | 36 | Jody King |
+| 1972 | 36 | Sandra Parker |
+| 1973 | 36 | Chill Patternblock |
+| 1974 | 36 | Dapper Stacker |
+| 1975 | 36 | Elizabeth Miller |
+| 1976 | 36 | Cranky Party |
+| 1977 | 36 | Zesty Dasher |
+| 1978 | 35 | Brittany Ditzler |
+| 1979 | 35 | Tina Rollins Bethay |
 | 1980 | 35 | Amanda Conaghan |
 | 1981 | 35 | Ti Pi |
-| 1982 | 35 | Tasha Willing |
-| 1983 | 35 | Witty Twistpiece |
-| 1984 | 35 | Tina Rollins Bethay |
-| 1985 | 35 | Kristina Sandoval |
-| 1986 | 35 | Jo Jo |
-| 1987 | 35 | MaBarker42 |
-| 1988 | 35 | Carla Newton |
+| 1982 | 35 | Witty Twistpiece |
+| 1983 | 35 | Tasha Willing |
+| 1984 | 35 | Kristina Sandoval |
+| 1985 | 35 | Guy Incognito |
+| 1986 | 35 | Cassia Ann Carrasquillo |
+| 1987 | 35 | Carla Newton |
+| 1988 | 35 | MaBarker42 |
 | 1989 | 35 | Sheila Massey Dotson |
 | 1990 | 35 | Archimedean |
-| 1991 | 35 | Cranky Balancepiece |
-| 1992 | 35 | Nerdy Clusterfit |
-| 1993 | 35 | Steven Sailor |
-| 1994 | 35 | Jan |
-| 1995 | 35 | Malikah Coleman |
+| 1991 | 35 | Nerdy Clusterfit |
+| 1992 | 35 | Steven Sailor |
+| 1993 | 35 | Jan |
+| 1994 | 35 | Malikah Coleman |
+| 1995 | 35 | Cranky Balancepiece |
 | 1996 | 35 | Jenna Salzer |
-| 1997 | 35 | Cozy Stagger |
-| 1998 | 35 | FlopsandDors |
-| 1999 | 35 | Cassia Ann Carrasquillo |
+| 1997 | 35 | FlopsandDors |
+| 1998 | 35 | Jo Jo |
+| 1999 | 35 | Bubbl3s |
 | 2000 | 35 | Kevin Leary |
 | 2001 | 35 | Adam McClellan |
 | 2002 | 35 | Cranky Caster |
@@ -2022,8 +2022,8 @@
 | 2014 | 34 | Malcolm Ferguson |
 | 2015 | 34 | Crystal |
 | 2016 | 34 | Robert Harold Bowling |
-| 2017 | 34 | ACE |
-| 2018 | 34 | Gaberiel Torres |
+| 2017 | 34 | Gaberiel Torres |
+| 2018 | 34 | ACE |
 | 2019 | 34 | Tipsy Stagger |
 | 2020 | 34 | Brittani La Rae |
 | 2021 | 34 | Glitzy Snapbuilder |
