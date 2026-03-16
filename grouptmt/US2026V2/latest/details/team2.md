@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 10:10:43 UTC
+# Standings for team2 as of 2026-03-16 10:11:21 UTC
 
 **Total Participants:** 2675
 
@@ -117,7 +117,7 @@
 | 109 | 993 | Autumn Leslie |
 | 110 | 966 | Arnae Draughon |
 | 111 | 964 | Gael |
-| 112 | 960 | Jumpy Filler |
+| 112 | 964 | Jumpy Filler |
 | 113 | 956 | ddd |
 | 114 | 956 | Dandy Crasher |
 | 115 | 955 | Liana Spikes |
@@ -169,27 +169,27 @@
 | 161 | 700 | Veronica Martin Trinkle |
 | 162 | 698 | Rafael Valentin |
 | 163 | 697 | Kacee Conrad Bock |
-| 164 | 684 | Tess Shaheen |
-| 165 | 676 | Carmilita Burpo Jordan |
-| 166 | 671 | Connie Mohler-Fair |
-| 167 | 670 | Amanda Segura |
-| 168 | 660 | Amanda Sullivan |
-| 169 | 660 | Lateisha Morris |
-| 170 | 660 | Madia Quick |
-| 171 | 656 | Jazzy Hitter |
-| 172 | 654 | Looloo |
-| 173 | 652 | Zesty Link |
-| 174 | 646 | Gracie Back |
-| 175 | 644 | Jayme Hamil |
-| 176 | 642 | Buisanito |
-| 177 | 642 | Sheena Harris |
-| 178 | 633 | Devin |
-| 179 | 631 | Paul Hudak |
-| 180 | 630 | Kristy Monk |
-| 181 | 629 | Elizabeth Ostrom |
-| 182 | 626 | Shelly |
-| 183 | 621 | Lori Schlachter Segui |
-| 184 | 620 | Alexandria Farrey |
+| 164 | 694 | Alexandria Farrey |
+| 165 | 684 | Tess Shaheen |
+| 166 | 676 | Carmilita Burpo Jordan |
+| 167 | 671 | Connie Mohler-Fair |
+| 168 | 670 | Amanda Segura |
+| 169 | 660 | Amanda Sullivan |
+| 170 | 660 | Lateisha Morris |
+| 171 | 660 | Madia Quick |
+| 172 | 656 | Jazzy Hitter |
+| 173 | 654 | Looloo |
+| 174 | 652 | Zesty Link |
+| 175 | 646 | Gracie Back |
+| 176 | 644 | Jayme Hamil |
+| 177 | 642 | Buisanito |
+| 178 | 642 | Sheena Harris |
+| 179 | 633 | Devin |
+| 180 | 631 | Paul Hudak |
+| 181 | 630 | Kristy Monk |
+| 182 | 629 | Elizabeth Ostrom |
+| 183 | 626 | Shelly |
+| 184 | 621 | Lori Schlachter Segui |
 | 185 | 618 | Dreamy Towerbuilder |
 | 186 | 616 | Jocelynn Marie |
 | 187 | 616 | Cw |
@@ -202,12 +202,12 @@
 | 194 | 589 | Foxy |
 | 195 | 586 | Christina Ramirez |
 | 196 | 581 | Amber Lashbrook |
-| 197 | 580 | CSOTYS |
-| 198 | 580 | Faith Adrienne Verret Page |
-| 199 | 578 | DanesMama |
-| 200 | 578 | 🍏 Green apple |
-| 201 | 570 | MOMOF5 |
-| 202 | 570 | Dre Man |
+| 197 | 580 | Faith Adrienne Verret Page |
+| 198 | 580 | CSOTYS |
+| 199 | 578 | 🍏 Green apple |
+| 200 | 578 | DanesMama |
+| 201 | 570 | Dre Man |
+| 202 | 570 | MOMOF5 |
 | 203 | 569 | Jeff Lewis |
 | 204 | 568 | Dawn Woosley Bowes |
 | 205 | 564 | Katrina Schroeder |
