@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 07:28:21 UTC
+# Standings for team2 as of 2026-03-16 07:28:46 UTC
 
 **Total Participants:** 2649
 
@@ -11,8 +11,8 @@
 | 3 | 12637 | Mochi |
 | 4 | 11729 | 赵珞涵 |
 | 5 | 10398 | Justablock |
-| 6 | 9575 | Denise Nardoni |
-| 7 | 9230 | 1nonlyreal1 |
+| 6 | 10230 | 1nonlyreal1 |
+| 7 | 9575 | Denise Nardoni |
 | 8 | 9157 | Kelly Kihe |
 | 9 | 8189 | MzBerry |
 | 10 | 7954 | MelzWrld |
@@ -525,33 +525,33 @@
 | 517 | 227 | Jess Ortiz |
 | 518 | 226 | Sarah Marie |
 | 519 | 226 | cat |
-| 520 | 225 | Robert Fenton |
-| 521 | 223 | Marie Shroyer |
-| 522 | 223 | Roberta Nelson |
-| 523 | 223 | Julia Freeman |
-| 524 | 222 | Cari Hogan |
-| 525 | 222 | Tracey Cox |
+| 520 | 225 | Diane Louise |
+| 521 | 225 | Robert Fenton |
+| 522 | 223 | Marie Shroyer |
+| 523 | 223 | Roberta Nelson |
+| 524 | 223 | Julia Freeman |
+| 525 | 222 | Cari Hogan |
 | 526 | 222 | Dally Hunt |
-| 527 | 222 | JTH |
-| 528 | 222 | Brandy Hayhurst |
-| 529 | 222 | Candy Brooks |
-| 530 | 222 | Zappy Strikerpiece |
-| 531 | 221 | Frothy Chiseler |
-| 532 | 220 | Kristi Riley |
-| 533 | 220 | NDPeanut |
-| 534 | 220 | Michelle |
-| 535 | 220 | Mjhays |
-| 536 | 219 | Danielle Davis Speir |
-| 537 | 219 | May May |
-| 538 | 219 | Debra D. Herbert |
-| 539 | 219 | Marinara |
-| 540 | 218 | Loony Puzzle |
+| 527 | 222 | Tracey Cox |
+| 528 | 222 | JTH |
+| 529 | 222 | Brandy Hayhurst |
+| 530 | 222 | Candy Brooks |
+| 531 | 222 | Zappy Strikerpiece |
+| 532 | 221 | Frothy Chiseler |
+| 533 | 220 | Kristi Riley |
+| 534 | 220 | NDPeanut |
+| 535 | 220 | Michelle |
+| 536 | 220 | Mjhays |
+| 537 | 219 | Danielle Davis Speir |
+| 538 | 219 | May May |
+| 539 | 219 | Debra D. Herbert |
+| 540 | 219 | Marinara |
 | 541 | 218 | Poppy |
-| 542 | 218 | Lizzie Marie |
-| 543 | 218 | Flashy Tetriblast |
-| 544 | 218 | Jolie Hatfield |
-| 545 | 217 | Chummy Linkgrid |
-| 546 | 217 | Diane Louise |
+| 542 | 218 | Loony Puzzle |
+| 543 | 218 | Lizzie Marie |
+| 544 | 218 | Flashy Tetriblast |
+| 545 | 218 | Jolie Hatfield |
+| 546 | 217 | Chummy Linkgrid |
 | 547 | 217 | Summer D Blakeley |
 | 548 | 216 | Karen Usrykitchens |
 | 549 | 215 | Breanna Lemus |
@@ -985,46 +985,46 @@
 | 977 | 113 | Bryan Bishop |
 | 978 | 113 | Matthew Fedor |
 | 979 | 113 | Lisa Beckort |
-| 980 | 112 | Cee_me |
-| 981 | 112 | Steven Bell |
-| 982 | 112 | AarshiyasMommy |
-| 983 | 112 | Groovy Combofall |
-| 984 | 112 | Giddy Twistslam |
-| 985 | 112 | Katie Hughes |
-| 986 | 112 | Witty Cascadefit |
-| 987 | 111 | Douglas Stam |
-| 988 | 111 | Jes Lynn |
-| 989 | 111 | So I o Sue |
-| 990 | 111 | Silly Brickline |
-| 991 | 111 | Michelle Sager |
+| 980 | 112 | Giddy Twistslam |
+| 981 | 112 | Katie Hughes |
+| 982 | 112 | Steven Bell |
+| 983 | 112 | AarshiyasMommy |
+| 984 | 112 | Amy Leonard |
+| 985 | 112 | Cee_me |
+| 986 | 112 | Groovy Combofall |
+| 987 | 112 | Witty Cascadefit |
+| 988 | 111 | Plucky Blockpiece |
+| 989 | 111 | Jolly Towerpiece |
+| 990 | 111 | Stacy |
+| 991 | 111 | Douglas Stam |
 | 992 | 111 | Kiorah Blaze |
-| 993 | 111 | Barb Lower |
-| 994 | 111 | Ashley Sweet-Hart |
+| 993 | 111 | Michelle Sager |
+| 994 | 111 | Silly Brickline |
 | 995 | 111 | Lizz |
-| 996 | 111 | Jolly Towerpiece |
-| 997 | 111 | Plucky Blockpiece |
-| 998 | 111 | Stacy |
-| 999 | 110 | Jake Ching |
-| 1000 | 110 | Elegant banana |
-| 1001 | 110 | gymjim |
-| 1002 | 110 | Cozmo |
-| 1003 | 110 | Broketraveler |
-| 1004 | 110 | Beets |
-| 1005 | 110 | Lisa Parr |
-| 1006 | 110 | Witty Twistslam |
+| 996 | 111 | So I o Sue |
+| 997 | 111 | Jes Lynn |
+| 998 | 111 | Ashley Sweet-Hart |
+| 999 | 111 | Barb Lower |
+| 1000 | 110 | gymjim |
+| 1001 | 110 | Cozmo |
+| 1002 | 110 | Elegant banana |
+| 1003 | 110 | Jake Ching |
+| 1004 | 110 | Broketraveler |
+| 1005 | 110 | Beets |
+| 1006 | 110 | Susan Larson |
 | 1007 | 110 | Slinky Wipeout |
-| 1008 | 110 | Susan Larson |
-| 1009 | 110 | Caitlyn Brown |
-| 1010 | 109 | Cuttermonk |
-| 1011 | 109 | Shannon Lynn Goddard |
-| 1012 | 109 | Miguel Teixeira |
+| 1008 | 110 | Lisa Parr |
+| 1009 | 110 | Witty Twistslam |
+| 1010 | 110 | Caitlyn Brown |
+| 1011 | 109 | Miguel Teixeira |
+| 1012 | 109 | Shannon Lynn Goddard |
 | 1013 | 109 | TruAmber |
 | 1014 | 109 | Boomboom |
-| 1015 | 108 | Sara Knapp |
-| 1016 | 108 | Jumpy Tiley |
-| 1017 | 108 | Jam4 |
-| 1018 | 108 | Denise |
-| 1019 | 108 | Amy Leonard |
+| 1015 | 109 | Cuttermonk |
+| 1016 | 108 | Sara Knapp |
+| 1017 | 108 | Jumpy Tiley |
+| 1018 | 108 | Jam4 |
+| 1019 | 108 | Denise |
 | 1020 | 108 | Miranda Taylor |
 | 1021 | 107 | Adam W Johnson |
 | 1022 | 107 | Stéphanie Bissonnette |
@@ -1637,9 +1637,9 @@
 | 1629 | 54 | Summer_time |
 | 1630 | 54 | Denise Bailey |
 | 1631 | 54 | msconfused80 |
-| 1632 | 54 | Otf Johnta |
-| 1633 | 54 | Jolly Riserpiece |
-| 1634 | 54 | BEANS |
+| 1632 | 54 | BEANS |
+| 1633 | 54 | Otf Johnta |
+| 1634 | 54 | Jolly Riserpiece |
 | 1635 | 54 | Natoshya Rae Ramsey |
 | 1636 | 53 | Chad Watson |
 | 1637 | 53 | Chastity Speight |
@@ -1650,29 +1650,29 @@
 | 1642 | 53 | Brooklyn DeLong |
 | 1643 | 53 | Sade Ebanks |
 | 1644 | 53 | Drew Kim |
-| 1645 | 53 | Ashley Grace |
-| 1646 | 53 | Heather Estle |
-| 1647 | 53 | Tiny Redbeard |
-| 1648 | 53 | Quita |
-| 1649 | 53 | Dawn Michelle Scheible |
+| 1645 | 53 | Dawn Michelle Scheible |
+| 1646 | 53 | Ashley Grace |
+| 1647 | 53 | Heather Estle |
+| 1648 | 53 | Tiny Redbeard |
+| 1649 | 53 | Quita |
 | 1650 | 53 | MOK |
 | 1651 | 53 | Elizabeth Washburn |
-| 1652 | 53 | Nindesaster |
-| 1653 | 53 | Kirk Maxon |
-| 1654 | 52 | Liz Franke |
-| 1655 | 52 | Mariah SanCartier |
-| 1656 | 52 | silla |
-| 1657 | 52 | Jessica Santana |
-| 1658 | 52 | Cece Ibarra |
-| 1659 | 52 | Amy Reed |
-| 1660 | 52 | Giggly Winder |
-| 1661 | 52 | Amy Pike |
-| 1662 | 52 | Lush Clusterfit |
-| 1663 | 52 | Slinky Tile |
-| 1664 | 52 | ChristSoldier4421 |
-| 1665 | 52 | Chrystyne |
-| 1666 | 52 | ace |
-| 1667 | 52 | Terta Manz |
+| 1652 | 53 | Terta Manz |
+| 1653 | 53 | Nindesaster |
+| 1654 | 53 | Kirk Maxon |
+| 1655 | 52 | Liz Franke |
+| 1656 | 52 | Mariah SanCartier |
+| 1657 | 52 | silla |
+| 1658 | 52 | Jessica Santana |
+| 1659 | 52 | Cece Ibarra |
+| 1660 | 52 | Amy Reed |
+| 1661 | 52 | Giggly Winder |
+| 1662 | 52 | Amy Pike |
+| 1663 | 52 | Lush Clusterfit |
+| 1664 | 52 | Slinky Tile |
+| 1665 | 52 | ChristSoldier4421 |
+| 1666 | 52 | Chrystyne |
+| 1667 | 52 | ace |
 | 1668 | 52 | Stern |
 | 1669 | 52 | Hosifa Yasin |
 | 1670 | 51 | itzame |
