@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 08:47:20 UTC
+# Standings for team2 as of 2026-03-16 08:48:18 UTC
 
 **Total Participants:** 2660
 
@@ -235,10 +235,10 @@
 | 227 | 508 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 228 | 504 | Berklie Apedaile |
 | 229 | 500 | Johanna Massaro |
-| 230 | 498 | Peaches |
-| 231 | 495 | Jen Roe |
-| 232 | 492 | Julie Renee Long |
-| 233 | 491 | BluBae |
+| 230 | 499 | BluBae |
+| 231 | 498 | Peaches |
+| 232 | 495 | Jen Roe |
+| 233 | 492 | Julie Renee Long |
 | 234 | 491 | Michelle Allers |
 | 235 | 491 | Jamie Mclean |
 | 236 | 486 | Epic Liner |
@@ -1006,48 +1006,48 @@
 | 998 | 111 | Silly Brickline |
 | 999 | 111 | Lizz |
 | 1000 | 111 | So I o Sue |
-| 1001 | 111 | Ashley Sweet-Hart |
-| 1002 | 111 | Nathan William |
-| 1003 | 111 | Douglas Stam |
-| 1004 | 111 | Kiorah Blaze |
-| 1005 | 111 | Michelle Sager |
-| 1006 | 110 | Jake Ching |
-| 1007 | 110 | Susan Larson |
-| 1008 | 110 | Beets |
-| 1009 | 110 | Bucks Joe |
-| 1010 | 110 | Slinky Wipeout |
-| 1011 | 110 | Cozmo |
-| 1012 | 110 | Witty Twistslam |
-| 1013 | 110 | gymjim |
-| 1014 | 110 | Lisa Parr |
-| 1015 | 110 | Broketraveler |
-| 1016 | 110 | Caitlyn Brown |
-| 1017 | 109 | TruAmber |
+| 1001 | 111 | Chummy Blockline |
+| 1002 | 111 | Ashley Sweet-Hart |
+| 1003 | 111 | Nathan William |
+| 1004 | 111 | Douglas Stam |
+| 1005 | 111 | Kiorah Blaze |
+| 1006 | 111 | Michelle Sager |
+| 1007 | 110 | Jake Ching |
+| 1008 | 110 | Susan Larson |
+| 1009 | 110 | Beets |
+| 1010 | 110 | Bucks Joe |
+| 1011 | 110 | Slinky Wipeout |
+| 1012 | 110 | Cozmo |
+| 1013 | 110 | Witty Twistslam |
+| 1014 | 110 | gymjim |
+| 1015 | 110 | Lisa Parr |
+| 1016 | 110 | Broketraveler |
+| 1017 | 110 | Caitlyn Brown |
 | 1018 | 109 | Miguel Teixeira |
-| 1019 | 109 | Boomboom |
-| 1020 | 109 | Cuttermonk |
+| 1019 | 109 | Cuttermonk |
+| 1020 | 109 | TruAmber |
 | 1021 | 109 | Shannon Lynn Goddard |
-| 1022 | 108 | Jam4 |
-| 1023 | 108 | Miranda Taylor |
-| 1024 | 108 | Jumpy Tiley |
-| 1025 | 108 | Sara Knapp |
-| 1026 | 107 | Stéphanie Bissonnette |
-| 1027 | 107 | Bridgett Walker |
-| 1028 | 107 | Cheery Lift |
-| 1029 | 107 | Adam W Johnson |
-| 1030 | 107 | Tony Maple |
-| 1031 | 107 | Chummy Blockline |
-| 1032 | 106 | John Johnson |
-| 1033 | 106 | Peppy Spinfit |
+| 1022 | 109 | Boomboom |
+| 1023 | 108 | Jumpy Tiley |
+| 1024 | 108 | Sara Knapp |
+| 1025 | 108 | Jam4 |
+| 1026 | 108 | Miranda Taylor |
+| 1027 | 107 | Tony Maple |
+| 1028 | 107 | Adam W Johnson |
+| 1029 | 107 | Cheery Lift |
+| 1030 | 107 | Stéphanie Bissonnette |
+| 1031 | 107 | Bridgett Walker |
+| 1032 | 106 | Peppy Spinfit |
+| 1033 | 106 | John Johnson |
 | 1034 | 106 | Tonya Hadsell |
 | 1035 | 106 | Karina Rodriguez |
-| 1036 | 105 | Monica Martinez |
-| 1037 | 105 | Rose |
-| 1038 | 105 | Zane |
-| 1039 | 105 | Tammy |
-| 1040 | 105 | Groovy Stacker |
+| 1036 | 105 | Zane |
+| 1037 | 105 | Monica Martinez |
+| 1038 | 105 | Lorrie Landry |
+| 1039 | 105 | Rose |
+| 1040 | 105 | Tammy |
 | 1041 | 105 | Terrie Swift |
-| 1042 | 105 | Lorrie Landry |
+| 1042 | 105 | Groovy Stacker |
 | 1043 | 105 | Savvlexx |
 | 1044 | 105 | D3TROITB0RN74 |
 | 1045 | 105 | Ron Marriedtoglo |
@@ -2430,31 +2430,31 @@
 | 2422 | 14 | Ruby |
 | 2423 | 14 | Chilly Mover |
 | 2424 | 14 | Izabella Anntonitte |
-| 2425 | 14 | Bigg Kee |
-| 2426 | 14 | Abigail Stratton |
-| 2427 | 13 | Teresa Kinsley |
-| 2428 | 13 | Loony Glide |
-| 2429 | 13 | Frilly Clearpiece |
-| 2430 | 13 | Mel Parker |
-| 2431 | 13 | Spunky Line |
-| 2432 | 13 | Spencer John |
-| 2433 | 13 | Kujuanna Hammon |
-| 2434 | 13 | A.J. Hicks |
-| 2435 | 13 | Poppa Drew |
-| 2436 | 13 | BarkyRoot |
-| 2437 | 13 | Christopher Mastropietro |
-| 2438 | 13 | Bearra |
-| 2439 | 13 | Adonis |
-| 2440 | 13 | Peppy Snapfit |
-| 2441 | 13 | MsThick Ness |
-| 2442 | 13 | mythicmoth |
-| 2443 | 12 | Jon Marshall |
-| 2444 | 12 | Smiley Block |
+| 2425 | 14 | Gracie Olmstead |
+| 2426 | 14 | Bigg Kee |
+| 2427 | 14 | Abigail Stratton |
+| 2428 | 13 | Teresa Kinsley |
+| 2429 | 13 | Loony Glide |
+| 2430 | 13 | Frilly Clearpiece |
+| 2431 | 13 | Mel Parker |
+| 2432 | 13 | Spunky Line |
+| 2433 | 13 | Spencer John |
+| 2434 | 13 | Kujuanna Hammon |
+| 2435 | 13 | A.J. Hicks |
+| 2436 | 13 | Poppa Drew |
+| 2437 | 13 | BarkyRoot |
+| 2438 | 13 | Christopher Mastropietro |
+| 2439 | 13 | Bearra |
+| 2440 | 13 | Adonis |
+| 2441 | 13 | Peppy Snapfit |
+| 2442 | 13 | MsThick Ness |
+| 2443 | 13 | mythicmoth |
+| 2444 | 12 | Jon Marshall |
 | 2445 | 12 | Cassandra Baldwin |
 | 2446 | 12 | Maizin |
 | 2447 | 12 | JnnGin |
-| 2448 | 12 | Loopy Lee |
-| 2449 | 12 | Gracie Olmstead |
+| 2448 | 12 | Smiley Block |
+| 2449 | 12 | Loopy Lee |
 | 2450 | 12 | Gary Teeters |
 | 2451 | 12 | Daniel N Phian |
 | 2452 | 12 | Marcello Dominik |
