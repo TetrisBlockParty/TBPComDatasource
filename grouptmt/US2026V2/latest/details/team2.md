@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 08:08:43 UTC
+# Standings for team2 as of 2026-03-16 08:09:21 UTC
 
 **Total Participants:** 2654
 
@@ -158,34 +158,34 @@
 | 150 | 721 | Ariel Pearson |
 | 151 | 720 | Dane Roy |
 | 152 | 720 | Ania |
-| 153 | 704 | Sheena Hachmann |
-| 154 | 704 | Joshua |
-| 155 | 704 | Emily Wooden |
-| 156 | 700 | Veronica Martin Trinkle |
-| 157 | 698 | Rafael Valentin |
-| 158 | 697 | Kacee Conrad Bock |
-| 159 | 686 | Blaze Sexton |
-| 160 | 684 | Tess Shaheen |
-| 161 | 671 | Connie Mohler-Fair |
-| 162 | 670 | Amanda Segura |
-| 163 | 670 | Carmilita Burpo Jordan |
-| 164 | 666 | Hp Gold |
-| 165 | 660 | Madia Quick |
-| 166 | 660 | Lateisha Morris |
+| 153 | 717 | Cranky Gridder |
+| 154 | 704 | Sheena Hachmann |
+| 155 | 704 | Joshua |
+| 156 | 704 | Emily Wooden |
+| 157 | 700 | Veronica Martin Trinkle |
+| 158 | 698 | Rafael Valentin |
+| 159 | 697 | Kacee Conrad Bock |
+| 160 | 686 | Blaze Sexton |
+| 161 | 684 | Tess Shaheen |
+| 162 | 671 | Connie Mohler-Fair |
+| 163 | 670 | Amanda Segura |
+| 164 | 670 | Carmilita Burpo Jordan |
+| 165 | 666 | Hp Gold |
+| 166 | 660 | Madia Quick |
 | 167 | 660 | Amanda Sullivan |
-| 168 | 656 | Jazzy Hitter |
-| 169 | 654 | Looloo |
-| 170 | 652 | Zesty Link |
-| 171 | 646 | Gracie Back |
-| 172 | 642 | Buisanito |
+| 168 | 660 | Lateisha Morris |
+| 169 | 656 | Jazzy Hitter |
+| 170 | 654 | Looloo |
+| 171 | 652 | Zesty Link |
+| 172 | 646 | Gracie Back |
 | 173 | 642 | Sheena Harris |
-| 174 | 633 | Devin |
-| 175 | 631 | Paul Hudak |
-| 176 | 630 | Kristy Monk |
-| 177 | 629 | Elizabeth Ostrom |
-| 178 | 621 | Lori Schlachter Segui |
-| 179 | 618 | Dreamy Towerbuilder |
-| 180 | 617 | Cranky Gridder |
+| 174 | 642 | Buisanito |
+| 175 | 633 | Devin |
+| 176 | 631 | Paul Hudak |
+| 177 | 630 | Kristy Monk |
+| 178 | 629 | Elizabeth Ostrom |
+| 179 | 621 | Lori Schlachter Segui |
+| 180 | 618 | Dreamy Towerbuilder |
 | 181 | 616 | Cw |
 | 182 | 616 | Jocelynn Marie |
 | 183 | 608 | Jesse Olive |
@@ -209,11 +209,11 @@
 | 201 | 558 | Snappy Bridgepiece |
 | 202 | 553 | Elaine Webb Graves |
 | 203 | 553 | Christina Graham |
-| 204 | 549 | Jason McCloy |
-| 205 | 547 | Carson Goldminc |
-| 206 | 545 | Tausha Colella |
-| 207 | 545 | Bia |
-| 208 | 542 | Frisky Gridpiece |
+| 204 | 552 | Frisky Gridpiece |
+| 205 | 549 | Jason McCloy |
+| 206 | 547 | Carson Goldminc |
+| 207 | 545 | Tausha Colella |
+| 208 | 545 | Bia |
 | 209 | 540 | Jjj |
 | 210 | 540 | Ashley Marie |
 | 211 | 535 | Ding Adventurer |
@@ -1167,16 +1167,16 @@
 | 1159 | 92 | Reginald Harvey |
 | 1160 | 92 | Tiffany Banks Jennings |
 | 1161 | 91 | Corina |
-| 1162 | 91 | Nina Kela |
-| 1163 | 91 | Mamagamer |
-| 1164 | 91 | Emily Jo Baranowski |
-| 1165 | 91 | Arson Fox |
-| 1166 | 91 | Poppy Balancepiece |
+| 1162 | 91 | Poppy Balancepiece |
+| 1163 | 91 | Nina Kela |
+| 1164 | 91 | Arson Fox |
+| 1165 | 91 | Mamagamer |
+| 1166 | 91 | Emily Jo Baranowski |
 | 1167 | 91 | Brandi Quick |
-| 1168 | 91 | Chewy Chewy |
-| 1169 | 91 | Steph Otruba |
-| 1170 | 90 | Avi Quijada |
-| 1171 | 90 | Demitrick Chaney |
+| 1168 | 91 | Steph Otruba |
+| 1169 | 91 | Chewy Chewy |
+| 1170 | 90 | Demitrick Chaney |
+| 1171 | 90 | Avi Quijada |
 | 1172 | 90 | Matthew Heffran |
 | 1173 | 90 | Peyton Mclaughlin |
 | 1174 | 90 | Kaagyugaq Jessica |
@@ -1185,45 +1185,45 @@
 | 1177 | 90 | Sonceria Ingram-Ford |
 | 1178 | 90 | Slugger26 |
 | 1179 | 89 | Cheeky Grabber |
-| 1180 | 89 | Danielle Barker |
-| 1181 | 89 | Jessica Prewitt |
-| 1182 | 89 | Owitty |
+| 1180 | 89 | Owitty |
+| 1181 | 89 | Danielle Barker |
+| 1182 | 89 | Jessica Prewitt |
 | 1183 | 89 | Monay Sutherland |
 | 1184 | 89 | Tatiana Rae Robinson |
 | 1185 | 89 | Marisa Sanders |
 | 1186 | 89 | croshay |
 | 1187 | 88 | Dapper Winder |
-| 1188 | 88 | Smiley Linkfall |
-| 1189 | 88 | Ruchi Smit |
-| 1190 | 88 | Nutty Linkgrid |
+| 1188 | 88 | Giggy Tilt |
+| 1189 | 88 | Neva Blum |
+| 1190 | 88 | Ann May June |
 | 1191 | 88 | Grovenia Joy Perryman |
 | 1192 | 88 | Stabitha Christie |
-| 1193 | 88 | Neva Blum |
-| 1194 | 88 | Ann May June |
-| 1195 | 88 | Giggy Tilt |
+| 1193 | 88 | Nutty Linkgrid |
+| 1194 | 88 | Ruchi Smit |
+| 1195 | 88 | Smiley Linkfall |
 | 1196 | 88 | Mackenzie Forrester |
-| 1197 | 87 | Playtray |
-| 1198 | 87 | Yusuf Barnes |
-| 1199 | 87 | Pete Stacknick |
-| 1200 | 87 | Dawn Alexander |
-| 1201 | 87 | Lady Love |
-| 1202 | 87 | Jamocha Mieka Muldrow-Wright |
-| 1203 | 87 | Lamarr Drayton |
-| 1204 | 87 | Christine Kelly-Sarni |
-| 1205 | 86 | Nicole Maboloc |
-| 1206 | 86 | Laurie McGregor |
-| 1207 | 86 | Volley |
-| 1208 | 86 | Pam Green |
+| 1197 | 87 | Yusuf Barnes |
+| 1198 | 87 | Playtray |
+| 1199 | 87 | Poppy Jumper |
+| 1200 | 87 | Pete Stacknick |
+| 1201 | 87 | Dawn Alexander |
+| 1202 | 87 | Lady Love |
+| 1203 | 87 | Jamocha Mieka Muldrow-Wright |
+| 1204 | 87 | Lamarr Drayton |
+| 1205 | 87 | Christine Kelly-Sarni |
+| 1206 | 86 | Nicole Maboloc |
+| 1207 | 86 | Laurie McGregor |
+| 1208 | 86 | Volley |
 | 1209 | 86 | Goofy Twistline |
-| 1210 | 86 | Layne Dejean |
-| 1211 | 86 | scott |
-| 1212 | 86 | Kitty tet |
-| 1213 | 85 | Bobbi Griepentrog |
-| 1214 | 85 | PartyStarter |
-| 1215 | 85 | Angie Maddox |
-| 1216 | 85 | Cathy Bitters |
-| 1217 | 85 | RzrbkParty |
-| 1218 | 85 | Poppy Jumper |
+| 1210 | 86 | Pam Green |
+| 1211 | 86 | Layne Dejean |
+| 1212 | 86 | scott |
+| 1213 | 86 | Kitty tet |
+| 1214 | 85 | Bobbi Griepentrog |
+| 1215 | 85 | PartyStarter |
+| 1216 | 85 | Angie Maddox |
+| 1217 | 85 | Cathy Bitters |
+| 1218 | 85 | RzrbkParty |
 | 1219 | 85 | Elizabeth Hepler |
 | 1220 | 85 | Brian Wangler |
 | 1221 | 85 | Serenity Gail |
