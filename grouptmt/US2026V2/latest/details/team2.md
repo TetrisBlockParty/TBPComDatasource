@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 11:48:43 UTC
+# Standings for team2 as of 2026-03-16 11:49:21 UTC
 
 **Total Participants:** 2688
 
@@ -427,15 +427,15 @@
 | 419 | 284 | Kit Dennett |
 | 420 | 284 | Frances Hui |
 | 421 | 282 | Goofy Towerer |
-| 422 | 280 | Samantha Bagent |
-| 423 | 280 | Zippy Zoney |
-| 424 | 280 | Theodore Vincent |
-| 425 | 279 | btchboy |
-| 426 | 279 | David V. Bowers |
-| 427 | 278 | Iris Ortiz |
-| 428 | 278 | SuZee |
-| 429 | 278 | Mjhays |
-| 430 | 277 | Lora Allen |
+| 422 | 282 | Lora Allen |
+| 423 | 280 | Samantha Bagent |
+| 424 | 280 | Zippy Zoney |
+| 425 | 280 | Theodore Vincent |
+| 426 | 279 | btchboy |
+| 427 | 279 | David V. Bowers |
+| 428 | 278 | Iris Ortiz |
+| 429 | 278 | SuZee |
+| 430 | 278 | Mjhays |
 | 431 | 277 | Ess |
 | 432 | 277 | Jackson Karen |
 | 433 | 276 | Matt |
