@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 08:38:18 UTC
+# Standings for team1 as of 2026-03-16 08:38:43 UTC
 
 **Total Participants:** 2648
 
@@ -1392,89 +1392,89 @@
 | 1384 | 72 | Katy Schuster |
 | 1385 | 72 | Goofy Riserfit |
 | 1386 | 72 | Jacob Lee Grinvalds |
-| 1387 | 72 | Tammy Griffee |
+| 1387 | 72 | Anthony Ross |
 | 1388 | 72 | mischee |
-| 1389 | 72 | Anthony Ross |
-| 1390 | 71 | Crystal Eubanks |
-| 1391 | 71 | ldm |
-| 1392 | 71 | Kevin Munkel |
-| 1393 | 71 | Gfly |
-| 1394 | 71 | Crystal Conklin |
-| 1395 | 71 | Sammie Hightower |
-| 1396 | 71 | Lentoya Jackson |
-| 1397 | 70 | Melody Quinn |
-| 1398 | 70 | JBond007 |
-| 1399 | 70 | Happy Gridclear |
-| 1400 | 70 | Amber Johnson |
-| 1401 | 70 | Melissa Bires Hussar |
-| 1402 | 70 | No Strings Attached Ra |
-| 1403 | 70 | Christy Brown |
-| 1404 | 70 | Faith Dupuis |
-| 1405 | 70 | CL Meyer |
-| 1406 | 70 | Petrona |
-| 1407 | 70 | Valerie Lasseter |
-| 1408 | 70 | Greenie |
-| 1409 | 70 | Binh Ha |
-| 1410 | 70 | Elena Sanchez Damian |
-| 1411 | 70 | Jay Will |
-| 1412 | 70 | Christopher L Crites |
+| 1389 | 72 | Tammy Griffee |
+| 1390 | 71 | Crystal Conklin |
+| 1391 | 71 | Gfly |
+| 1392 | 71 | Sammie Hightower |
+| 1393 | 71 | Kevin Munkel |
+| 1394 | 71 | Lentoya Jackson |
+| 1395 | 71 | Crystal Eubanks |
+| 1396 | 71 | ldm |
+| 1397 | 70 | Melissa Bires Hussar |
+| 1398 | 70 | Amber Johnson |
+| 1399 | 70 | Valerie Lasseter |
+| 1400 | 70 | Faith Dupuis |
+| 1401 | 70 | Happy Gridclear |
+| 1402 | 70 | CL Meyer |
+| 1403 | 70 | Binh Ha |
+| 1404 | 70 | Greenie |
+| 1405 | 70 | JBond007 |
+| 1406 | 70 | Christopher L Crites |
+| 1407 | 70 | No Strings Attached Ra |
+| 1408 | 70 | Amy Hepler |
+| 1409 | 70 | Christy Brown |
+| 1410 | 70 | Petrona |
+| 1411 | 70 | Elena Sanchez Damian |
+| 1412 | 70 | Jay Will |
 | 1413 | 70 | Sarah McIntosh |
-| 1414 | 70 | Lori Abney |
-| 1415 | 70 | Deborah Fowler |
-| 1416 | 69 | Audrey Abreast |
-| 1417 | 69 | Ryan Carr |
-| 1418 | 69 | R |
-| 1419 | 69 | Swanky Shatterblock |
-| 1420 | 69 | Robyn Ruland |
-| 1421 | 69 | Jennifer Hardman |
-| 1422 | 69 | Nancy Burnside |
-| 1423 | 69 | Nutty Glide |
-| 1424 | 69 | Lush Riseclear |
-| 1425 | 69 | RaeSea |
-| 1426 | 69 | Samantha Millar |
-| 1427 | 69 | Melodie Hill |
-| 1428 | 69 | Leonna Bianchi |
+| 1414 | 70 | Deborah Fowler |
+| 1415 | 70 | Melody Quinn |
+| 1416 | 70 | Lori Abney |
+| 1417 | 69 | Nancy Burnside |
+| 1418 | 69 | Jennifer Hardman |
+| 1419 | 69 | Robyn Ruland |
+| 1420 | 69 | Swanky Shatterblock |
+| 1421 | 69 | Audrey Abreast |
+| 1422 | 69 | Ryan Carr |
+| 1423 | 69 | R |
+| 1424 | 69 | Samantha Millar |
+| 1425 | 69 | rance |
+| 1426 | 69 | Nutty Glide |
+| 1427 | 69 | Lush Riseclear |
+| 1428 | 69 | RaeSea |
 | 1429 | 69 | Breezy Glidepiece |
-| 1430 | 69 | rance |
-| 1431 | 68 | Amy Hepler |
-| 1432 | 68 | Tina Kocher Zimmerman |
-| 1433 | 68 | Victoria Montenegro Martinez |
-| 1434 | 68 | Pam Salsman |
-| 1435 | 68 | Clever Spinblock |
-| 1436 | 68 | Bouncy Bricky |
-| 1437 | 67 | Nicole Fields |
-| 1438 | 67 | Marcia Crumpton |
-| 1439 | 67 | Jenny Hughes |
-| 1440 | 67 | Bouncy Clicker |
-| 1441 | 67 | Tristen Glass |
-| 1442 | 67 | Samantha Valdez |
-| 1443 | 67 | Saucy Block |
-| 1444 | 67 | Sloop Betty |
-| 1445 | 67 | Karon Miller Hammond |
-| 1446 | 67 | PRICHARD |
-| 1447 | 67 | Cranky Linefit |
-| 1448 | 67 | Tre'von Davis |
-| 1449 | 67 | Hyper Drop |
-| 1450 | 67 | Hyper Clear |
+| 1430 | 69 | Melodie Hill |
+| 1431 | 69 | Leonna Bianchi |
+| 1432 | 68 | Clever Spinblock |
+| 1433 | 68 | Pam Salsman |
+| 1434 | 68 | Bouncy Bricky |
+| 1435 | 68 | Victoria Montenegro Martinez |
+| 1436 | 68 | Tina Kocher Zimmerman |
+| 1437 | 67 | Hyper Clear |
+| 1438 | 67 | Tre'von Davis |
+| 1439 | 67 | Samantha Valdez |
+| 1440 | 67 | PRICHARD |
+| 1441 | 67 | Bouncy Clicker |
+| 1442 | 67 | Cranky Linefit |
+| 1443 | 67 | Tristen Glass |
+| 1444 | 67 | Karon Miller Hammond |
+| 1445 | 67 | Bartek Nieznane |
+| 1446 | 67 | Jenny Hughes |
+| 1447 | 67 | Hyper Drop |
+| 1448 | 67 | Nicole Fields |
+| 1449 | 67 | Saucy Block |
+| 1450 | 67 | Sloop Betty |
 | 1451 | 67 | Melissa Hart |
-| 1452 | 67 | Bartek Nieznane |
-| 1453 | 66 | Wacky Brickster |
-| 1454 | 66 | Jpapi |
+| 1452 | 67 | Marcia Crumpton |
+| 1453 | 66 | DynamicQuail10 |
+| 1454 | 66 | Wacky Brickster |
 | 1455 | 66 | Petty Petty |
 | 1456 | 66 | Gracie |
 | 1457 | 66 | Quirky Crawler |
-| 1458 | 66 | DynamicQuail10 |
-| 1459 | 66 | Funky Smasher |
-| 1460 | 66 | Emanuel Velazquez |
-| 1461 | 66 | Kelly Ann Willis |
-| 1462 | 66 | Banzhaf |
-| 1463 | 66 | Nutty Tumbler |
-| 1464 | 65 | belinda rocky |
-| 1465 | 65 | TexasLeaguer |
-| 1466 | 65 | Daisy Sunny |
-| 1467 | 65 | Annette Bamburg |
-| 1468 | 65 | Bouncy Linefit |
-| 1469 | 65 | ChaCha |
+| 1458 | 66 | Funky Smasher |
+| 1459 | 66 | Emanuel Velazquez |
+| 1460 | 66 | Kelly Ann Willis |
+| 1461 | 66 | Banzhaf |
+| 1462 | 66 | Nutty Tumbler |
+| 1463 | 66 | Jpapi |
+| 1464 | 65 | ChaCha |
+| 1465 | 65 | belinda rocky |
+| 1466 | 65 | TexasLeaguer |
+| 1467 | 65 | Daisy Sunny |
+| 1468 | 65 | Annette Bamburg |
+| 1469 | 65 | Bouncy Linefit |
 | 1470 | 65 | Sonya Harris Combs |
 | 1471 | 65 | Emily Menard Lam |
 | 1472 | 65 | Alex Gibney |
