@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 11:08:21 UTC
+# Standings for team1 as of 2026-03-16 11:08:45 UTC
 
 **Total Participants:** 2663
 
@@ -59,8 +59,8 @@
 | 51 | 2274 | phrmblk24 |
 | 52 | 2268 | Fluffy |
 | 53 | 2174 | Joshua Dye |
-| 54 | 2148 | Amanda Patterson |
-| 55 | 2108 | Velt Richardson |
+| 54 | 2168 | Velt Richardson |
+| 55 | 2148 | Amanda Patterson |
 | 56 | 2101 | Kimberly Howell-Henley |
 | 57 | 2093 | Poppy |
 | 58 | 2089 | Hellsin |
@@ -228,8 +228,8 @@
 | 220 | 558 | Rennon Scott Wilson |
 | 221 | 557 | Ancient Intuition |
 | 222 | 555 | Erin Halleman |
-| 223 | 554 | Austin |
-| 224 | 554 | Allena Craft |
+| 223 | 554 | Allena Craft |
+| 224 | 554 | Austin |
 | 225 | 553 | Haley Anne |
 | 226 | 552 | Ren Mc |
 | 227 | 551 | Victoria Davis Torie |
@@ -262,29 +262,29 @@
 | 254 | 483 | Sonotjelly |
 | 255 | 481 | Pamela Marie Tyler |
 | 256 | 480 | Brandy Ridgeway |
-| 257 | 479 | Hannah Carter |
-| 258 | 477 | Lemonberry |
-| 259 | 474 | Boldy Clear |
-| 260 | 471 | Ma Shwe Myint |
-| 261 | 469 | Tatiyana Holm |
-| 262 | 467 | Amh |
-| 263 | 466 | Sherri Drews |
-| 264 | 465 | Bouncy Wipeout |
-| 265 | 464 | Dish19 |
-| 266 | 463 | Kelly Owens |
-| 267 | 462 | Rat666 |
-| 268 | 457 | Lisa Marie Sansom |
-| 269 | 453 | Angelina Maldonado |
-| 270 | 451 | Aaron Higdon |
-| 271 | 450 | Jason Cunningham |
-| 272 | 450 | April McGuffie |
-| 273 | 449 | Penny Morrical |
-| 274 | 445 | beep |
-| 275 | 444 | Lynn Perkins |
-| 276 | 443 | Eric Hoffman |
+| 257 | 479 | Marianne Lopez |
+| 258 | 479 | Hannah Carter |
+| 259 | 477 | Lemonberry |
+| 260 | 474 | Boldy Clear |
+| 261 | 471 | Ma Shwe Myint |
+| 262 | 469 | Tatiyana Holm |
+| 263 | 467 | Amh |
+| 264 | 466 | Sherri Drews |
+| 265 | 465 | Bouncy Wipeout |
+| 266 | 464 | Dish19 |
+| 267 | 463 | Kelly Owens |
+| 268 | 462 | Rat666 |
+| 269 | 457 | Lisa Marie Sansom |
+| 270 | 453 | Angelina Maldonado |
+| 271 | 451 | Aaron Higdon |
+| 272 | 450 | Jason Cunningham |
+| 273 | 450 | April McGuffie |
+| 274 | 449 | Penny Morrical |
+| 275 | 445 | beep |
+| 276 | 444 | Lynn Perkins |
 | 277 | 443 | Mike Mendoza |
-| 278 | 441 | Courtney Leigh Deiber |
-| 279 | 440 | Marianne Lopez |
+| 278 | 443 | Eric Hoffman |
+| 279 | 441 | Courtney Leigh Deiber |
 | 280 | 439 | Poppy Fallzone |
 | 281 | 437 | Andrew Coulter |
 | 282 | 433 | SitHazy |
@@ -1240,49 +1240,49 @@
 | 1232 | 90 | Zappy Strike |
 | 1233 | 90 | Mean Melly |
 | 1234 | 90 | Gunzo Ramires |
-| 1235 | 90 | Roary Danner |
-| 1236 | 90 | Chelsey Ann |
+| 1235 | 90 | Chelsey Ann |
+| 1236 | 90 | Witty Shatterline |
 | 1237 | 90 | Casey Jordan |
-| 1238 | 90 | Witty Shatterline |
+| 1238 | 90 | Roary Danner |
 | 1239 | 89 | Amy Niemeier |
 | 1240 | 89 | Smelly |
 | 1241 | 89 | Aigner Monae |
 | 1242 | 89 | William Bowers |
-| 1243 | 88 | Crruth |
-| 1244 | 88 | Bouncy Patternzone |
-| 1245 | 88 | Shawntae Mccary |
-| 1246 | 88 | Richard Cranium |
+| 1243 | 88 | Richard Cranium |
+| 1244 | 88 | Crruth |
+| 1245 | 88 | Bouncy Patternzone |
+| 1246 | 88 | Shawntae Mccary |
 | 1247 | 88 | Iang Nozil |
 | 1248 | 88 | Alexandria Ritch |
-| 1249 | 87 | Mariah Cornell |
-| 1250 | 87 | S Gale Holton |
-| 1251 | 87 | Alexandra Karavias |
-| 1252 | 87 | Lacey Renee Dietz |
-| 1253 | 87 | Anny Johnson |
-| 1254 | 87 | Tran Tran |
-| 1255 | 86 | Neomi Perdue |
-| 1256 | 86 | Itn |
-| 1257 | 86 | Angie Dotson |
-| 1258 | 86 | Dale |
-| 1259 | 86 | Funky Smasher |
-| 1260 | 86 | KingSteve |
-| 1261 | 86 | LaTisha Stillsmilin Hudson |
-| 1262 | 85 | Dandy Snapper |
+| 1249 | 87 | S Gale Holton |
+| 1250 | 87 | Alexandra Karavias |
+| 1251 | 87 | Lacey Renee Dietz |
+| 1252 | 87 | Anny Johnson |
+| 1253 | 87 | Tran Tran |
+| 1254 | 87 | Andrea Clippert |
+| 1255 | 87 | Mariah Cornell |
+| 1256 | 86 | Angie Dotson |
+| 1257 | 86 | Dale |
+| 1258 | 86 | LaTisha Stillsmilin Hudson |
+| 1259 | 86 | KingSteve |
+| 1260 | 86 | Funky Smasher |
+| 1261 | 86 | Neomi Perdue |
+| 1262 | 86 | Itn |
 | 1263 | 85 | RainbowOwl |
 | 1264 | 85 | Amanda Falta |
-| 1265 | 85 | Mo Mulah |
-| 1266 | 85 | Nikki Eaton |
-| 1267 | 85 | Snippy Builderpiece |
-| 1268 | 85 | Tabitha Rose Stone |
-| 1269 | 85 | Baretta Scott |
-| 1270 | 85 | Tracey Wilson |
-| 1271 | 85 | ImStupid |
-| 1272 | 85 | Bree Prine |
-| 1273 | 85 | Dottie Jones |
-| 1274 | 84 | Bob Sitts |
-| 1275 | 84 | Steven Andrew |
-| 1276 | 84 | iceman |
-| 1277 | 84 | Andrea Clippert |
+| 1265 | 85 | Baretta Scott |
+| 1266 | 85 | Mo Mulah |
+| 1267 | 85 | Nikki Eaton |
+| 1268 | 85 | Snippy Builderpiece |
+| 1269 | 85 | Tabitha Rose Stone |
+| 1270 | 85 | Dandy Snapper |
+| 1271 | 85 | Tracey Wilson |
+| 1272 | 85 | ImStupid |
+| 1273 | 85 | Bree Prine |
+| 1274 | 85 | Dottie Jones |
+| 1275 | 84 | Bob Sitts |
+| 1276 | 84 | Steven Andrew |
+| 1277 | 84 | iceman |
 | 1278 | 84 | Matthew Foley |
 | 1279 | 84 | Luna |
 | 1280 | 84 | Stacy Patterson |
