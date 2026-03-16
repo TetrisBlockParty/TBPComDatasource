@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 08:16:43 UTC
+# Standings for team2 as of 2026-03-16 08:17:21 UTC
 
 **Total Participants:** 2655
 
@@ -193,16 +193,16 @@
 | 185 | 603 | Liss Lint |
 | 186 | 598 | Jami Howard |
 | 187 | 594 | LolaSmilez |
-| 188 | 589 | Foxy |
-| 189 | 587 | Chassy Horton |
-| 190 | 586 | Christina Ramirez |
-| 191 | 584 | Jayme Hamil |
-| 192 | 581 | Amber Lashbrook |
-| 193 | 580 | CSOTYS |
-| 194 | 580 | Faith Adrienne Verret Page |
-| 195 | 578 | 🍏 Green apple |
-| 196 | 578 | DanesMama |
-| 197 | 572 | Frisky Gridpiece |
+| 188 | 592 | Frisky Gridpiece |
+| 189 | 589 | Foxy |
+| 190 | 587 | Chassy Horton |
+| 191 | 586 | Christina Ramirez |
+| 192 | 584 | Jayme Hamil |
+| 193 | 581 | Amber Lashbrook |
+| 194 | 580 | CSOTYS |
+| 195 | 580 | Faith Adrienne Verret Page |
+| 196 | 578 | 🍏 Green apple |
+| 197 | 578 | DanesMama |
 | 198 | 570 | MOMOF5 |
 | 199 | 570 | Dre Man |
 | 200 | 568 | Dawn Woosley Bowes |
@@ -528,9 +528,9 @@
 | 520 | 227 | John De Guzman Sydiongco |
 | 521 | 227 | Jess Ortiz |
 | 522 | 226 | Sarah Marie |
-| 523 | 226 | cat |
-| 524 | 225 | Robert Fenton |
-| 525 | 224 | Yloponom Gamez |
+| 523 | 226 | Yloponom Gamez |
+| 524 | 226 | cat |
+| 525 | 225 | Robert Fenton |
 | 526 | 223 | Marinara |
 | 527 | 223 | Marie Shroyer |
 | 528 | 223 | Roberta Nelson |
@@ -736,47 +736,47 @@
 | 728 | 160 | Twisty Shatter |
 | 729 | 160 | Paula Martin |
 | 730 | 160 | Shelly Marie Lloyd |
-| 731 | 159 | JZoya  Scott |
+| 731 | 159 | Victoria Barkefelt |
 | 732 | 159 | Circuit8 |
 | 733 | 159 | Slinky Align |
-| 734 | 159 | Iliveformygirlz Smith |
-| 735 | 159 | BendersMomma |
-| 736 | 159 | Victoria Barkefelt |
+| 734 | 159 | JZoya  Scott |
+| 735 | 159 | Iliveformygirlz Smith |
+| 736 | 159 | BendersMomma |
 | 737 | 159 | Brittany Backus |
 | 738 | 157 | Shaun Talbot |
 | 739 | 157 | BendyBones |
-| 740 | 157 | Zesty Dropzone |
-| 741 | 157 | Marciala Pineda Juarez |
-| 742 | 156 | Haley Bell |
-| 743 | 156 | Amanda Martinez |
-| 744 | 156 | Kirsten Hanes Gasper |
-| 745 | 156 | Yany |
-| 746 | 156 | kitykat |
+| 740 | 157 | Marciala Pineda Juarez |
+| 741 | 157 | Zesty Dropzone |
+| 742 | 156 | Amanda Martinez |
+| 743 | 156 | Haley Bell |
+| 744 | 156 | Yany |
+| 745 | 156 | kitykat |
+| 746 | 156 | Kirsten Hanes Gasper |
 | 747 | 155 | Angela Srubar-Norman |
 | 748 | 155 | Amber Fore |
-| 749 | 154 | Danielle Smith |
-| 750 | 154 | Alexander Zamora |
-| 751 | 154 | Anika Strawberryz Smith |
-| 752 | 154 | Lisa Duncan |
-| 753 | 154 | Brickh4us |
-| 754 | 153 | Montiette Mcglown |
+| 749 | 154 | Gi Na |
+| 750 | 154 | Brickh4us |
+| 751 | 154 | Lisa Duncan |
+| 752 | 154 | Danielle Smith |
+| 753 | 154 | Alexander Zamora |
+| 754 | 154 | Anika Strawberryz Smith |
 | 755 | 153 | Ivan Burgess |
-| 756 | 153 | Toni Codynah |
-| 757 | 153 | Glitzy Bricky |
-| 758 | 153 | Amy Villalpando |
-| 759 | 152 | Carlos Landin |
+| 756 | 153 | Montiette Mcglown |
+| 757 | 153 | Toni Codynah |
+| 758 | 153 | Glitzy Bricky |
+| 759 | 153 | Amy Villalpando |
 | 760 | 152 | Star Hart |
-| 761 | 152 | Brittney Marie Wyrick |
-| 762 | 152 | Shankee mgee |
-| 763 | 152 | Bobbie Miller |
-| 764 | 151 | Gi Na |
-| 765 | 151 | Anthony Intrabartolo |
+| 761 | 152 | Shankee mgee |
+| 762 | 152 | Bobbie Miller |
+| 763 | 152 | Brittney Marie Wyrick |
+| 764 | 152 | Carlos Landin |
+| 765 | 151 | Swanky Tile |
 | 766 | 151 | Heather Kelley |
-| 767 | 151 | Swanky Tile |
-| 768 | 150 | Kathy Allen |
+| 767 | 151 | Anthony Intrabartolo |
+| 768 | 150 | Brittani Suzanne Jelks |
 | 769 | 150 | Tracey Whetstone |
-| 770 | 150 | Brittani Suzanne Jelks |
-| 771 | 150 | Sherry Jones |
+| 770 | 150 | Sherry Jones |
+| 771 | 150 | Kathy Allen |
 | 772 | 150 | Tyler Werts |
 | 773 | 150 | Katie Hughes |
 | 774 | 150 | Brave Fallzone |
