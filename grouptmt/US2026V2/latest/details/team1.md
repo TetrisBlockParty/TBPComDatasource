@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 00:12:20 UTC
+# Standings for team1 as of 2026-03-16 00:12:45 UTC
 
 **Total Participants:** 2474
 
@@ -90,9 +90,9 @@
 | 82 | 1318 | Elyse YL |
 | 83 | 1309 | Breezy Ivy |
 | 84 | 1303 | Goober |
-| 85 | 1265 | Jodie Peterson |
-| 86 | 1248 | Tim Raper |
-| 87 | 1229 | Renee Weedling |
+| 85 | 1272 | Renee Weedling |
+| 86 | 1265 | Jodie Peterson |
+| 87 | 1248 | Tim Raper |
 | 88 | 1202 | Trisha Gallagher |
 | 89 | 1198 | Giddy Cascade |
 | 90 | 1196 | Tom |
@@ -121,14 +121,14 @@
 | 113 | 989 | Donavon Krahn |
 | 114 | 987 | Kris Hudelson |
 | 115 | 979 | Legendary |
-| 116 | 966 | Gloria Ininahazwe |
-| 117 | 952 | Walker Patterson |
-| 118 | 952 | Andy Harris |
-| 119 | 934 | Jay Aye |
-| 120 | 931 | Hasty Cascader |
-| 121 | 921 | L3sli3 |
-| 122 | 910 | Nanan Nanan |
-| 123 | 895 | Bold Clear |
+| 116 | 972 | L3sli3 |
+| 117 | 966 | Gloria Ininahazwe |
+| 118 | 952 | Walker Patterson |
+| 119 | 952 | Andy Harris |
+| 120 | 934 | Jay Aye |
+| 121 | 931 | Hasty Cascader |
+| 122 | 925 | Bold Clear |
+| 123 | 910 | Nanan Nanan |
 | 124 | 894 | Sarah Stanonik |
 | 125 | 890 | Matt Coons |
 | 126 | 888 | paupau |
@@ -171,24 +171,24 @@
 | 163 | 679 | Dustin Rouse |
 | 164 | 677 | Duane Ficara |
 | 165 | 677 | Matt Aguilar |
-| 166 | 666 | Amanda Diegel |
-| 167 | 660 | Darci Cline |
-| 168 | 653 | Snippy Stacky |
-| 169 | 650 | Sassy Cascadepiece |
-| 170 | 650 | James Burda |
-| 171 | 645 | Alicia Parrish |
-| 172 | 644 | Giddy Balancepiece |
-| 173 | 641 | Crafty Dash |
-| 174 | 629 | StankyP |
-| 175 | 621 | Macy Williams |
-| 176 | 615 | Mighty Patternbuilder |
-| 177 | 613 | Dramatic Tiger |
-| 178 | 608 | Jme |
-| 179 | 598 | Alezandra Smith |
-| 180 | 595 | Chris Wanner |
-| 181 | 591 | Hut Des |
-| 182 | 590 | Dizzy Pattern |
-| 183 | 589 | PhatWI41 |
+| 166 | 669 | PhatWI41 |
+| 167 | 666 | Amanda Diegel |
+| 168 | 660 | Darci Cline |
+| 169 | 653 | Snippy Stacky |
+| 170 | 650 | Sassy Cascadepiece |
+| 171 | 650 | James Burda |
+| 172 | 645 | Alicia Parrish |
+| 173 | 644 | Giddy Balancepiece |
+| 174 | 641 | Crafty Dash |
+| 175 | 629 | StankyP |
+| 176 | 621 | Macy Williams |
+| 177 | 615 | Mighty Patternbuilder |
+| 178 | 613 | Dramatic Tiger |
+| 179 | 608 | Jme |
+| 180 | 598 | Alezandra Smith |
+| 181 | 595 | Chris Wanner |
+| 182 | 591 | Hut Des |
+| 183 | 590 | Dizzy Pattern |
 | 184 | 588 | Crafty Tilebuilder |
 | 185 | 587 | Loony Brickmatch |
 | 186 | 586 | Bryan Temple |
@@ -196,8 +196,8 @@
 | 188 | 582 | Ramona Gulledge |
 | 189 | 582 | BrownNinj |
 | 190 | 578 | Chalandra Donahue |
-| 191 | 577 | Simmone T. Kadiri |
-| 192 | 577 | Kris Koepke |
+| 191 | 577 | Kris Koepke |
+| 192 | 577 | Simmone T. Kadiri |
 | 193 | 570 | Johnathan Rasmussen |
 | 194 | 566 | Chrys Peters |
 | 195 | 554 | Allena Craft |
@@ -462,8 +462,8 @@
 | 454 | 217 | Hasty Lift |
 | 455 | 216 | Joe Andrew Jackson |
 | 456 | 216 | Gabriel Morales |
-| 457 | 215 | Jennie Lee Huntley |
-| 458 | 214 | Michelle Cummings |
+| 457 | 216 | Michelle Cummings |
+| 458 | 215 | Jennie Lee Huntley |
 | 459 | 214 | Carly |
 | 460 | 213 | Wulfbyte |
 | 461 | 211 | Kimmy White |
@@ -478,9 +478,9 @@
 | 470 | 207 | Jonathan Gaffaney |
 | 471 | 207 | Jessica Butler |
 | 472 | 206 | Dizzy Glidebuilder |
-| 473 | 206 | Jennifer L Rutherford |
-| 474 | 206 | Deb Horwath |
-| 475 | 204 | Mighty Clear |
+| 473 | 206 | Mighty Clear |
+| 474 | 206 | Jennifer L Rutherford |
+| 475 | 206 | Deb Horwath |
 | 476 | 202 | Amy Sanford |
 | 477 | 202 | Dizzy Stackbuilder |
 | 478 | 201 | Candace Esposito |
