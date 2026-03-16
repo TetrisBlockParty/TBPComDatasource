@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 10:02:44 UTC
+# Standings for team1 as of 2026-03-16 10:03:21 UTC
 
 **Total Participants:** 2657
 
@@ -11,7 +11,7 @@
 | 3 | 13156 | Scott Lindsay |
 | 4 | 11643 | Jayna Anoc |
 | 5 | 10988 | Bryan Stockwell |
-| 6 | 10598 | Grace Kelly |
+| 6 | 10805 | Grace Kelly |
 | 7 | 9778 | Nathaniel Hughes |
 | 8 | 8662 | Dizzy Stagger |
 | 9 | 7921 | Devinlee Brown |
