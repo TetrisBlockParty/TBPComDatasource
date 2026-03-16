@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 11:40:41 UTC
+# Standings for team2 as of 2026-03-16 11:41:20 UTC
 
 **Total Participants:** 2687
 
@@ -37,8 +37,8 @@
 | 29 | 3351 | Katie Wisecarver |
 | 30 | 3313 | Snippy Basepiece |
 | 31 | 3262 | Joshua Carter |
-| 32 | 3147 | Fae-Bulous |
-| 33 | 3143 | Pixie |
+| 32 | 3182 | Pixie |
+| 33 | 3147 | Fae-Bulous |
 | 34 | 3126 | Linda Lively |
 | 35 | 3069 | hyper Zip |
 | 36 | 2931 | Carrie Mitchell |
@@ -127,8 +127,8 @@
 | 119 | 951 | Minxy |
 | 120 | 947 | Neet |
 | 121 | 947 | Khalysta |
-| 122 | 923 | Lisa Neal |
-| 123 | 906 | DJ Bincent |
+| 122 | 946 | DJ Bincent |
+| 123 | 923 | Lisa Neal |
 | 124 | 891 | Dreamy Clicker |
 | 125 | 885 | Kasheba Y Bowens |
 | 126 | 882 | Elizabeth Stanley |
@@ -146,7 +146,7 @@
 | 138 | 798 | John Matson |
 | 139 | 797 | Shelly Babie |
 | 140 | 795 | Nathaniel Hardy |
-| 141 | 780 | Rafael Valentin |
+| 141 | 792 | Rafael Valentin |
 | 142 | 773 | Koipod |
 | 143 | 764 | Chassy Horton |
 | 144 | 762 | Sass |
@@ -836,73 +836,73 @@
 | 828 | 144 | spriege |
 | 829 | 144 | Glitzy Blockpiece |
 | 830 | 144 | Becki Lynne Corinthos |
-| 831 | 144 | Ryan Martin |
+| 831 | 144 | Quags |
 | 832 | 144 | Twisty Risebuilder |
-| 833 | 144 | Quags |
+| 833 | 144 | Ryan Martin |
 | 834 | 143 | Steve |
-| 835 | 142 | Alexx Anaya |
+| 835 | 143 | Laura Buckley |
 | 836 | 142 | Enigma |
-| 837 | 142 | Denise |
-| 838 | 142 | JinxxedMozzerella |
-| 839 | 142 | Kiisha |
-| 840 | 141 | Holly Jolly |
-| 841 | 141 | Happy Twistfit |
-| 842 | 141 | Shauna Hansen |
-| 843 | 141 | SassyCarebear |
-| 844 | 141 | Dana Hicks |
-| 845 | 141 | Frances Deem |
-| 846 | 140 | IG Gutierrez |
-| 847 | 140 | Lucas J Sutton |
-| 848 | 140 | Staci George Fitzsimmons |
-| 849 | 140 | GirlMom5 |
-| 850 | 140 | Jenna McGeorge |
-| 851 | 139 | Frisky Twistslam |
+| 837 | 142 | Alexx Anaya |
+| 838 | 142 | Kiisha |
+| 839 | 142 | JinxxedMozzerella |
+| 840 | 142 | Denise |
+| 841 | 141 | SassyCarebear |
+| 842 | 141 | Holly Jolly |
+| 843 | 141 | Dana Hicks |
+| 844 | 141 | Frances Deem |
+| 845 | 141 | Shauna Hansen |
+| 846 | 141 | Happy Twistfit |
+| 847 | 140 | Jenna McGeorge |
+| 848 | 140 | GirlMom5 |
+| 849 | 140 | Lucas J Sutton |
+| 850 | 140 | Staci George Fitzsimmons |
+| 851 | 140 | IG Gutierrez |
 | 852 | 139 | Breezy |
-| 853 | 139 | Stefanie Bilello Burlew |
-| 854 | 139 | Brenda Arbaugh |
-| 855 | 139 | Kira Hugar |
-| 856 | 139 | Plucky Glide |
-| 857 | 138 | Denise Wilson |
+| 853 | 139 | Frisky Twistslam |
+| 854 | 139 | Stefanie Bilello Burlew |
+| 855 | 139 | Brenda Arbaugh |
+| 856 | 139 | Kira Hugar |
+| 857 | 139 | Plucky Glide |
 | 858 | 138 | Slinky Linkgrid |
-| 859 | 138 | Jenn |
-| 860 | 138 | Kari Thompson Rock |
-| 861 | 137 | Tiffany Riccio |
-| 862 | 137 | bubbles |
-| 863 | 136 | Chummy Strikerbuilder |
-| 864 | 136 | Sandra Belk |
-| 865 | 136 | Casandra Alisa Rocker |
-| 866 | 136 | Hyper Gridpiece |
-| 867 | 136 | Alboo |
-| 868 | 136 | Audrey Jones |
-| 869 | 135 | Kristy Mullins |
-| 870 | 135 | Shakena Tuggle |
-| 871 | 135 | Elliana |
-| 872 | 135 | Poppy Matchclear |
-| 873 | 135 | Diana Fowler |
-| 874 | 134 | Swanky Shiftsnap |
-| 875 | 134 | Giggy Zonepiece |
-| 876 | 134 | Deb Rose-Bridinger |
+| 859 | 138 | Denise Wilson |
+| 860 | 138 | Jenn |
+| 861 | 138 | Kari Thompson Rock |
+| 862 | 137 | Tiffany Riccio |
+| 863 | 137 | bubbles |
+| 864 | 136 | Chummy Strikerbuilder |
+| 865 | 136 | Sandra Belk |
+| 866 | 136 | Casandra Alisa Rocker |
+| 867 | 136 | Hyper Gridpiece |
+| 868 | 136 | Alboo |
+| 869 | 136 | Audrey Jones |
+| 870 | 135 | Diana Fowler |
+| 871 | 135 | Kristy Mullins |
+| 872 | 135 | Shakena Tuggle |
+| 873 | 135 | Poppy Matchclear |
+| 874 | 135 | Elliana |
+| 875 | 134 | Deb Rose-Bridinger |
+| 876 | 134 | Giggy Zonepiece |
 | 877 | 134 | MyMahdi Estrada |
-| 878 | 134 | Lisa Parr |
-| 879 | 134 | Anita Johnson |
-| 880 | 133 | Roxana Shaffer Goff |
+| 878 | 134 | Swanky Shiftsnap |
+| 879 | 134 | Lisa Parr |
+| 880 | 134 | Anita Johnson |
 | 881 | 133 | Trisha Balmer |
-| 882 | 133 | LaQuetta Faith Hines |
-| 883 | 133 | Laura Buckley |
+| 882 | 133 | Roxana Shaffer Goff |
+| 883 | 133 | LaQuetta Faith Hines |
 | 884 | 132 | Scruffy Rose |
 | 885 | 132 | TeeLee |
-| 886 | 132 | Tammie Anderson |
-| 887 | 132 | Roll1000 |
-| 888 | 132 | April |
+| 886 | 132 | Roll1000 |
+| 887 | 132 | April |
+| 888 | 132 | Tammie Anderson |
 | 889 | 132 | Swanky Builderpiece |
 | 890 | 132 | Giggly Shatterline |
-| 891 | 131 | Katie |
-| 892 | 131 | Stephany Patton |
-| 893 | 131 | Cweej |
-| 894 | 131 | Weevil |
-| 895 | 131 | Honu Noste |
-| 896 | 131 | Sarah Moyer |
-| 897 | 131 | Beckii Beckford |
+| 891 | 131 | Honu Noste |
+| 892 | 131 | Cweej |
+| 893 | 131 | Katie |
+| 894 | 131 | Sarah Moyer |
+| 895 | 131 | Weevil |
+| 896 | 131 | Beckii Beckford |
+| 897 | 131 | Stephany Patton |
 | 898 | 130 | Fely |
 | 899 | 130 | Vicke Patterson |
 | 900 | 130 | Montano-Espinoza Chacha |
