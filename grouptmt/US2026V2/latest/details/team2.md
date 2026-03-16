@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 07:22:44 UTC
+# Standings for team2 as of 2026-03-16 07:23:21 UTC
 
 **Total Participants:** 2647
 
@@ -42,7 +42,7 @@
 | 34 | 3069 | hyper Zip |
 | 35 | 2931 | Carrie Mitchell |
 | 36 | 2914 | Speedy Spinblock |
-| 37 | 2731 | Miranda Rush |
+| 37 | 2734 | Miranda Rush |
 | 38 | 2614 | Cynthia Ward |
 | 39 | 2582 | Giggy Strikerpiece |
 | 40 | 2521 | Jenny Derby |
@@ -56,7 +56,7 @@
 | 48 | 2090 | Kelley Ann |
 | 49 | 2018 | Crafty Matchfit |
 | 50 | 2010 | Carlos Torres |
-| 51 | 1926 | lovethedana |
+| 51 | 1941 | lovethedana |
 | 52 | 1917 | Andrey Sharov |
 | 53 | 1906 | Tanya Smith |
 | 54 | 1896 | Joshua Hopkins |
@@ -109,10 +109,10 @@
 | 101 | 1025 | Anna Faulkner |
 | 102 | 1018 | TreeWee |
 | 103 | 1004 | Grace Rubalcada |
-| 104 | 999 | Jennifer Golub |
-| 105 | 997 | Marianthe Bagensie |
-| 106 | 993 | Autumn Leslie |
-| 107 | 989 | Giggly Clearzone |
+| 104 | 999 | Giggly Clearzone |
+| 105 | 999 | Jennifer Golub |
+| 106 | 997 | Marianthe Bagensie |
+| 107 | 993 | Autumn Leslie |
 | 108 | 966 | Arnae Draughon |
 | 109 | 964 | Gael |
 | 110 | 956 | ddd |
@@ -552,15 +552,15 @@
 | 544 | 218 | Poppy |
 | 545 | 217 | Summer D Blakeley |
 | 546 | 217 | Chummy Linkgrid |
-| 547 | 216 | Karen Usrykitchens |
-| 548 | 215 | Robin |
-| 549 | 215 | Breanna Lemus |
-| 550 | 213 | Ashley Danielle |
-| 551 | 212 | Shawna McKinney |
-| 552 | 211 | Austin Vice |
-| 553 | 211 | Jacques Frenette |
-| 554 | 211 | Kelly Williams |
-| 555 | 211 | Diane Louise |
+| 547 | 217 | Diane Louise |
+| 548 | 216 | Karen Usrykitchens |
+| 549 | 215 | Robin |
+| 550 | 215 | Breanna Lemus |
+| 551 | 213 | Ashley Danielle |
+| 552 | 212 | Shawna McKinney |
+| 553 | 211 | Austin Vice |
+| 554 | 211 | Jacques Frenette |
+| 555 | 211 | Kelly Williams |
 | 556 | 211 | Rigoberto Sanchez Jr. |
 | 557 | 210 | Michael E Whitejr |
 | 558 | 210 | Trista Duguay |
@@ -1633,114 +1633,114 @@
 | 1625 | 54 | Justin Freeman |
 | 1626 | 54 | Anna Dalton |
 | 1627 | 54 | Otf Johnta |
-| 1628 | 54 | BEANS |
-| 1629 | 54 | Natoshya Rae Ramsey |
-| 1630 | 54 | msconfused80 |
+| 1628 | 54 | Natoshya Rae Ramsey |
+| 1629 | 54 | msconfused80 |
+| 1630 | 54 | Donnella Corey |
 | 1631 | 54 | Jay Jarrells |
-| 1632 | 54 | Donnella Corey |
-| 1633 | 54 | Genevia Wylie |
-| 1634 | 54 | Peppy Twistslam |
-| 1635 | 54 | Denise Bailey |
-| 1636 | 53 | Heather Estle |
-| 1637 | 53 | Elizabeth Reed |
+| 1632 | 54 | Genevia Wylie |
+| 1633 | 54 | Peppy Twistslam |
+| 1634 | 54 | Denise Bailey |
+| 1635 | 54 | BEANS |
+| 1636 | 53 | Elizabeth Reed |
+| 1637 | 53 | Drew Kim |
 | 1638 | 53 | Chad Watson |
 | 1639 | 53 | Sade Ebanks |
-| 1640 | 53 | Elizabeth Washburn |
-| 1641 | 53 | Chastity Speight |
-| 1642 | 53 | Quita |
-| 1643 | 53 | BouncyAries |
+| 1640 | 53 | Heather Estle |
+| 1641 | 53 | Quita |
+| 1642 | 53 | BouncyAries |
+| 1643 | 53 | Elizabeth Washburn |
 | 1644 | 53 | MOK |
 | 1645 | 53 | Nindesaster |
-| 1646 | 53 | Lenox |
-| 1647 | 53 | Drew Kim |
-| 1648 | 53 | Baker835 |
-| 1649 | 53 | Dawn Michelle Scheible |
-| 1650 | 53 | Brooklyn DeLong |
-| 1651 | 53 | Tiny Redbeard |
-| 1652 | 53 | Ashley Grace |
+| 1646 | 53 | Chastity Speight |
+| 1647 | 53 | Ashley Grace |
+| 1648 | 53 | Tiny Redbeard |
+| 1649 | 53 | Brooklyn DeLong |
+| 1650 | 53 | Dawn Michelle Scheible |
+| 1651 | 53 | Baker835 |
+| 1652 | 53 | Lenox |
 | 1653 | 53 | Kirk Maxon |
 | 1654 | 52 | Liz Franke |
-| 1655 | 52 | ChristSoldier4421 |
-| 1656 | 52 | Slinky Tile |
-| 1657 | 52 | Amy Reed |
-| 1658 | 52 | Cece Ibarra |
-| 1659 | 52 | Jessica Santana |
-| 1660 | 52 | Amy Pike |
-| 1661 | 52 | ace |
+| 1655 | 52 | Terta Manz |
+| 1656 | 52 | Jessica Santana |
+| 1657 | 52 | Cece Ibarra |
+| 1658 | 52 | Amy Pike |
+| 1659 | 52 | Amy Reed |
+| 1660 | 52 | ace |
+| 1661 | 52 | Slinky Tile |
 | 1662 | 52 | Chrystyne |
 | 1663 | 52 | Hosifa Yasin |
-| 1664 | 52 | Lush Clusterfit |
-| 1665 | 52 | Stern |
+| 1664 | 52 | ChristSoldier4421 |
+| 1665 | 52 | Lush Clusterfit |
 | 1666 | 52 | silla |
-| 1667 | 52 | Giggly Winder |
-| 1668 | 52 | Mariah SanCartier |
-| 1669 | 51 | itzame |
-| 1670 | 51 | Gypsy |
-| 1671 | 51 | Bubbly Clearbuilder |
-| 1672 | 51 | Robert Waagmeester |
-| 1673 | 51 | Morob |
-| 1674 | 51 | Lynn Sweetman |
-| 1675 | 51 | Penny Palmer |
-| 1676 | 51 | Gigi McCue |
-| 1677 | 51 | SassyLlam |
-| 1678 | 51 | Ellie |
-| 1679 | 51 | Jason Wallig |
-| 1680 | 51 | Schie |
-| 1681 | 51 | Joni Walczak |
-| 1682 | 51 | Spicy Bridgepiece |
-| 1683 | 51 | Peaches |
-| 1684 | 51 | Lora Sikorski |
-| 1685 | 51 | Yuck Fou |
-| 1686 | 51 | Ashley Covais |
-| 1687 | 51 | BluSkyes |
-| 1688 | 50 | bschilke128 |
-| 1689 | 50 | Jason Pence |
-| 1690 | 50 | April C Theriault Foote |
-| 1691 | 50 | Julie Elizabeth |
-| 1692 | 50 | Faithful Akiroso |
-| 1693 | 50 | Ash |
-| 1694 | 50 | Beth Hurst Ruiz |
-| 1695 | 50 | Amy Yearta |
-| 1696 | 50 | Leshea L Brandi |
-| 1697 | 50 | Snippy Fall |
-| 1698 | 50 | MrsNutt |
-| 1699 | 50 | Tee Tee Nicole |
-| 1700 | 50 | Sarah McAuley |
-| 1701 | 50 | Hoppy Fallmatch |
-| 1702 | 50 | Peppy Piecebuilder |
-| 1703 | 50 | Sam Martinez |
-| 1704 | 50 | Norma Jean |
-| 1705 | 50 | Brave Swiper |
-| 1706 | 50 | Terta Manz |
-| 1707 | 50 | Loony Snapper |
-| 1708 | 50 | Giddy Shatterbuilder |
-| 1709 | 50 | Hyper Stackbuilder |
-| 1710 | 50 | Poppy Linkpiece |
-| 1711 | 50 | J Cleveland Payne |
-| 1712 | 50 | Lush Matchgrid |
-| 1713 | 50 | Parker Demarest |
-| 1714 | 49 | Trina Perry |
-| 1715 | 49 | Witty Tilemaker |
-| 1716 | 49 | Veronica Uribe |
-| 1717 | 49 | Jillane Barbee |
-| 1718 | 49 | KAP |
-| 1719 | 49 | Susan L. Brown |
-| 1720 | 49 | CocoKatt |
-| 1721 | 49 | Hediyuda |
-| 1722 | 49 | Sherri Morgan |
-| 1723 | 49 | Chilly Towerfall |
-| 1724 | 49 | Heather Hilferty |
-| 1725 | 49 | Zachary Corcoran |
-| 1726 | 49 | Kelly Shelffo |
-| 1727 | 49 | Zesty Dashy |
-| 1728 | 49 | Spunky Catcher |
-| 1729 | 49 | Giddy Mover |
-| 1730 | 48 | Fart |
-| 1731 | 48 | Lydell Webb |
-| 1732 | 48 | Keri Hough |
-| 1733 | 48 | Heather G Cooley |
-| 1734 | 48 | Medusa Koldheart |
-| 1735 | 48 | DieM Flood |
+| 1667 | 52 | Mariah SanCartier |
+| 1668 | 52 | Stern |
+| 1669 | 52 | Giggly Winder |
+| 1670 | 51 | Jason Wallig |
+| 1671 | 51 | Lynn Sweetman |
+| 1672 | 51 | Gypsy |
+| 1673 | 51 | Robert Waagmeester |
+| 1674 | 51 | Peaches |
+| 1675 | 51 | Gigi McCue |
+| 1676 | 51 | Ellie |
+| 1677 | 51 | Spicy Bridgepiece |
+| 1678 | 51 | Ashley Covais |
+| 1679 | 51 | Schie |
+| 1680 | 51 | Penny Palmer |
+| 1681 | 51 | Bubbly Clearbuilder |
+| 1682 | 51 | Morob |
+| 1683 | 51 | Lora Sikorski |
+| 1684 | 51 | SassyLlam |
+| 1685 | 51 | itzame |
+| 1686 | 51 | Joni Walczak |
+| 1687 | 51 | Yuck Fou |
+| 1688 | 51 | BluSkyes |
+| 1689 | 50 | bschilke128 |
+| 1690 | 50 | Jason Pence |
+| 1691 | 50 | April C Theriault Foote |
+| 1692 | 50 | J Cleveland Payne |
+| 1693 | 50 | Parker Demarest |
+| 1694 | 50 | Julie Elizabeth |
+| 1695 | 50 | Faithful Akiroso |
+| 1696 | 50 | Brave Swiper |
+| 1697 | 50 | Beth Hurst Ruiz |
+| 1698 | 50 | Hyper Stackbuilder |
+| 1699 | 50 | Amy Yearta |
+| 1700 | 50 | Leshea L Brandi |
+| 1701 | 50 | Snippy Fall |
+| 1702 | 50 | MrsNutt |
+| 1703 | 50 | Tee Tee Nicole |
+| 1704 | 50 | Ash |
+| 1705 | 50 | Lush Matchgrid |
+| 1706 | 50 | Giddy Shatterbuilder |
+| 1707 | 50 | Norma Jean |
+| 1708 | 50 | Sarah McAuley |
+| 1709 | 50 | Loony Snapper |
+| 1710 | 50 | Hoppy Fallmatch |
+| 1711 | 50 | Peppy Piecebuilder |
+| 1712 | 50 | Sam Martinez |
+| 1713 | 50 | Poppy Linkpiece |
+| 1714 | 49 | KAP |
+| 1715 | 49 | Hediyuda |
+| 1716 | 49 | Witty Tilemaker |
+| 1717 | 49 | Veronica Uribe |
+| 1718 | 49 | Sherri Morgan |
+| 1719 | 49 | Chilly Towerfall |
+| 1720 | 49 | Trina Perry |
+| 1721 | 49 | Susan L. Brown |
+| 1722 | 49 | Jillane Barbee |
+| 1723 | 49 | CocoKatt |
+| 1724 | 49 | Zachary Corcoran |
+| 1725 | 49 | Kelly Shelffo |
+| 1726 | 49 | Zesty Dashy |
+| 1727 | 49 | Spunky Catcher |
+| 1728 | 49 | Giddy Mover |
+| 1729 | 49 | Heather Hilferty |
+| 1730 | 48 | DieM Flood |
+| 1731 | 48 | Medusa Koldheart |
+| 1732 | 48 | Heather G Cooley |
+| 1733 | 48 | Lydell Webb |
+| 1734 | 48 | Fart |
+| 1735 | 48 | Keri Hough |
 | 1736 | 48 | Frilly Basegrid |
 | 1737 | 48 | Ryan Delaney |
 | 1738 | 48 | Thomas Harmon |
