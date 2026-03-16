@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 11:00:43 UTC
+# Standings for team2 as of 2026-03-16 11:01:20 UTC
 
 **Total Participants:** 2679
 
@@ -303,10 +303,10 @@
 | 295 | 409 | Snappy Tiley |
 | 296 | 405 | Christy Merriman Addison |
 | 297 | 405 | Dee Doubleyou |
-| 298 | 402 | Kate |
-| 299 | 401 | Halstead47K |
-| 300 | 400 | Ramone Armstrong |
-| 301 | 400 | Brenda A |
+| 298 | 403 | Brenda A |
+| 299 | 402 | Kate |
+| 300 | 401 | Halstead47K |
+| 301 | 400 | Ramone Armstrong |
 | 302 | 398 | Jason Briggs |
 | 303 | 395 | Giggly Frame |
 | 304 | 393 | Jumpy Breaker |
@@ -510,8 +510,8 @@
 | 502 | 240 | Ryan Parson |
 | 503 | 240 | Twisty Shatter |
 | 504 | 240 | Bea Miles |
-| 505 | 240 | Adrian Ribellia |
-| 506 | 240 | Tipsy Riseclear |
+| 505 | 240 | Tipsy Riseclear |
+| 506 | 240 | Adrian Ribellia |
 | 507 | 239 | Morgan Anne Witty |
 | 508 | 239 | Spunky Balancefit |
 | 509 | 239 | Kelly Mcdaniel |
@@ -522,36 +522,36 @@
 | 514 | 235 | Cari Barnes |
 | 515 | 235 | Jason Gibbs |
 | 516 | 235 | David Duncan |
-| 517 | 235 | Tiffany Dawn Caldwell |
-| 518 | 235 | Yo Momma |
-| 519 | 235 | Dizzy Brickline |
+| 517 | 235 | Yo Momma |
+| 518 | 235 | Dizzy Brickline |
+| 519 | 235 | Tiffany Dawn Caldwell |
 | 520 | 235 | Hyper Pop |
-| 521 | 234 | Troy |
+| 521 | 234 | Summer Richardson |
 | 522 | 234 | Kristina Hill Perez |
-| 523 | 234 | Summer Richardson |
+| 523 | 234 | Troy |
 | 524 | 233 | Jessi |
-| 525 | 232 | Brenda Bell |
-| 526 | 231 | Kristina Coleman |
+| 525 | 233 | Jo |
+| 526 | 232 | Brenda Bell |
 | 527 | 231 | Nikki Speer |
-| 528 | 230 | Aobregon01 |
-| 529 | 230 | Jimmy Xim |
-| 530 | 229 | Cleopatra Daniels |
-| 531 | 229 | jess |
-| 532 | 228 | Lindsay Lucas |
-| 533 | 228 | Beth Smith |
-| 534 | 227 | Jess Ortiz |
+| 528 | 231 | Kristina Coleman |
+| 529 | 230 | Aobregon01 |
+| 530 | 230 | Jimmy Xim |
+| 531 | 229 | Cleopatra Daniels |
+| 532 | 229 | jess |
+| 533 | 228 | Lindsay Lucas |
+| 534 | 228 | Beth Smith |
 | 535 | 227 | John De Guzman Sydiongco |
-| 536 | 227 | Martinez Jacobo |
-| 537 | 227 | Rachel Zortman |
-| 538 | 227 | Karen Usrykitchens |
-| 539 | 227 | Jo |
+| 536 | 227 | Jess Ortiz |
+| 537 | 227 | Martinez Jacobo |
+| 538 | 227 | Rachel Zortman |
+| 539 | 227 | Karen Usrykitchens |
 | 540 | 226 | Sarah Marie |
 | 541 | 225 | Robert Fenton |
 | 542 | 225 | 503BZ |
 | 543 | 223 | Marie Shroyer |
 | 544 | 223 | Marinara |
-| 545 | 223 | Julia Freeman |
-| 546 | 223 | Roberta Nelson |
+| 545 | 223 | Roberta Nelson |
+| 546 | 223 | Julia Freeman |
 | 547 | 222 | Zappy Strikerpiece |
 | 548 | 222 | Candy Brooks |
 | 549 | 222 | JTH |
@@ -562,16 +562,16 @@
 | 554 | 221 | Frothy Chiseler |
 | 555 | 220 | Karent524 |
 | 556 | 220 | Michelle |
-| 557 | 220 | Kristi Riley |
-| 558 | 220 | NDPeanut |
+| 557 | 220 | NDPeanut |
+| 558 | 220 | Kristi Riley |
 | 559 | 219 | Debra D. Herbert |
 | 560 | 219 | May May |
 | 561 | 219 | Danielle Davis Speir |
 | 562 | 218 | Jolie Hatfield |
-| 563 | 218 | Lizzie Marie |
-| 564 | 218 | Loony Puzzle |
-| 565 | 218 | Flashy Tetriblast |
-| 566 | 218 | Poppy |
+| 563 | 218 | Flashy Tetriblast |
+| 564 | 218 | Lizzie Marie |
+| 565 | 218 | Poppy |
+| 566 | 218 | Loony Puzzle |
 | 567 | 217 | Chummy Linkgrid |
 | 568 | 217 | Zesty Balancefit |
 | 569 | 215 | Breanna Lemus |
