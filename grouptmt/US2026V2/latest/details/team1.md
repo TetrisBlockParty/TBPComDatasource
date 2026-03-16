@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 03:55:22 UTC
+# Standings for team1 as of 2026-03-16 03:56:39 UTC
 
 **Total Participants:** 2565
 
@@ -113,7 +113,7 @@
 | 105 | 1091 | Sarah Durmer |
 | 106 | 1084 | Sleepypanda67 |
 | 107 | 1072 | Zach Thompson |
-| 108 | 1063 | Letson Melissa |
+| 108 | 1064 | Letson Melissa |
 | 109 | 1053 | Crawford Candice |
 | 110 | 1051 | Charis Stoner |
 | 111 | 1049 | Jay Aye |
@@ -123,9 +123,9 @@
 | 115 | 1020 | Justin Jerome |
 | 116 | 1000 | Legendary |
 | 117 | 994 | Nanan Nanan |
-| 118 | 989 | Donavon Krahn |
-| 119 | 987 | Kris Hudelson |
-| 120 | 985 | Porshe Garthwaite |
+| 118 | 990 | Porshe Garthwaite |
+| 119 | 989 | Donavon Krahn |
+| 120 | 987 | Kris Hudelson |
 | 121 | 985 | PhatWI41 |
 | 122 | 975 | Matt Coons |
 | 123 | 972 | L3sli3 |
@@ -205,9 +205,9 @@
 | 197 | 587 | Loony Brickmatch |
 | 198 | 586 | Bryan Temple |
 | 199 | 584 | Heather Bell |
-| 200 | 582 | Kris Koepke |
+| 200 | 583 | Chrys Peters |
 | 201 | 582 | BrownNinj |
-| 202 | 573 | Chrys Peters |
+| 202 | 582 | Kris Koepke |
 | 203 | 570 | Johnathan Rasmussen |
 | 204 | 568 | Loony Towerpiece |
 | 205 | 558 | Rennon Scott Wilson |
@@ -219,27 +219,27 @@
 | 211 | 551 | Victoria Davis Torie |
 | 212 | 550 | Frilly Climber |
 | 213 | 547 | La'Shonda N Williams |
-| 214 | 540 | Jevon Griffith |
-| 215 | 538 | Alicia Sheckler |
-| 216 | 538 | Diamond Madison |
-| 217 | 536 | Matthew Bunn |
-| 218 | 533 | Mahmudul Hasan |
-| 219 | 530 | Sheree Twiddy Thornton |
-| 220 | 529 | Jaime Barrett Nelson |
-| 221 | 515 | Thorpedo |
-| 222 | 504 | Austin |
-| 223 | 499 | Cheeky Blocky |
-| 224 | 497 | Shawna Fender Dennis |
-| 225 | 492 | Tisha Cammack |
-| 226 | 488 | Desiree Jenson |
-| 227 | 483 | Sonotjelly |
-| 228 | 481 | Pamela Marie Tyler |
-| 229 | 479 | Hannah Carter |
-| 230 | 478 | Ecami |
+| 214 | 545 | Ecami |
+| 215 | 540 | Jevon Griffith |
+| 216 | 538 | Alicia Sheckler |
+| 217 | 538 | Diamond Madison |
+| 218 | 536 | Matthew Bunn |
+| 219 | 533 | Mahmudul Hasan |
+| 220 | 530 | Sheree Twiddy Thornton |
+| 221 | 529 | Jaime Barrett Nelson |
+| 222 | 515 | Thorpedo |
+| 223 | 504 | Austin |
+| 224 | 499 | Cheeky Blocky |
+| 225 | 497 | Shawna Fender Dennis |
+| 226 | 492 | Tisha Cammack |
+| 227 | 488 | Desiree Jenson |
+| 228 | 483 | Sonotjelly |
+| 229 | 481 | Pamela Marie Tyler |
+| 230 | 479 | Hannah Carter |
 | 231 | 474 | Krystal Mccoy |
 | 232 | 472 | Liliana Pena |
-| 233 | 471 | Ma Shwe Myint |
-| 234 | 471 | Lemonberry |
+| 233 | 471 | Lemonberry |
+| 234 | 471 | Ma Shwe Myint |
 | 235 | 469 | Tatiyana Holm |
 | 236 | 465 | Alex Hennigh |
 | 237 | 464 | Jess Rose |
@@ -249,12 +249,12 @@
 | 241 | 458 | Bouncy Wipeout |
 | 242 | 457 | Lisa Marie Sansom |
 | 243 | 454 | Marianne Louise West |
-| 244 | 450 | Jason Cunningham |
-| 245 | 450 | April McGuffie |
+| 244 | 450 | April McGuffie |
+| 245 | 450 | Jason Cunningham |
 | 246 | 449 | Penny Morrical |
 | 247 | 447 | Smashanator |
-| 248 | 445 | beep |
-| 249 | 445 | Fatima Washington |
+| 248 | 445 | Fatima Washington |
+| 249 | 445 | beep |
 | 250 | 444 | Lynn Perkins |
 | 251 | 441 | Courtney Leigh Deiber |
 | 252 | 437 | Andrew Coulter |
@@ -263,12 +263,12 @@
 | 255 | 432 | TetrisWoo |
 | 256 | 431 | April Carroll |
 | 257 | 431 | Marie Shakinah |
-| 258 | 430 | TRCuse |
-| 259 | 430 | Aaron Higdon |
+| 258 | 430 | Aaron Higdon |
+| 259 | 430 | TRCuse |
 | 260 | 426 | Erich EMac McIntosh |
-| 261 | 422 | Katie Alexander |
-| 262 | 422 | Poppy Fallzone |
-| 263 | 422 | Amber McDonald |
+| 261 | 422 | Amber McDonald |
+| 262 | 422 | Katie Alexander |
+| 263 | 422 | Poppy Fallzone |
 | 264 | 418 | Jodi Fichter |
 | 265 | 417 | Nancy Reid |
 | 266 | 414 | Wacky Balancer |
