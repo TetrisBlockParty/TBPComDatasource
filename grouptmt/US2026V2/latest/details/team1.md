@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 07:36:44 UTC
+# Standings for team1 as of 2026-03-16 07:37:21 UTC
 
 **Total Participants:** 2639
 
@@ -630,107 +630,107 @@
 | 622 | 186 | Yolanda Quinn |
 | 623 | 186 | Aponk |
 | 624 | 186 | Quirky_placer |
-| 625 | 185 | Dreamy Matchclear |
-| 626 | 185 | Brandi Huntington |
-| 627 | 185 | Jason Lerch |
-| 628 | 185 | Ren Mc |
-| 629 | 184 | Natasha King |
+| 625 | 185 | Brandi Huntington |
+| 626 | 185 | Jason Lerch |
+| 627 | 185 | Ren Mc |
+| 628 | 185 | Dreamy Matchclear |
+| 629 | 184 | Epic Fallzone |
 | 630 | 184 | Blondie |
-| 631 | 184 | Epic Fallzone |
-| 632 | 183 | Laidene Joseph |
-| 633 | 183 | UltraMAGA |
-| 634 | 183 | Jamie Hebert |
+| 631 | 184 | Natasha King |
+| 632 | 183 | UltraMAGA |
+| 633 | 183 | Jamie Hebert |
+| 634 | 183 | Laidene Joseph |
 | 635 | 183 | Angela Renea Lester |
-| 636 | 182 | Snippy Risebuilder |
-| 637 | 182 | Ellen Durfee |
-| 638 | 182 | Jolly Buildgrid |
+| 636 | 182 | Ellen Durfee |
+| 637 | 182 | Jolly Buildgrid |
+| 638 | 182 | Gdiguy |
 | 639 | 182 | Rebecca Martin |
-| 640 | 182 | Gdiguy |
-| 641 | 181 | Jeff Brian Gates |
-| 642 | 181 | Pheezy |
-| 643 | 181 | Gabriel Archer |
-| 644 | 180 | Jeff Frandsen |
-| 645 | 180 | Marie Fox |
-| 646 | 180 | Curtis Kuffel |
-| 647 | 180 | Dan Sessa |
-| 648 | 180 | Jessica Russell |
-| 649 | 180 | Blake Gee |
+| 640 | 182 | Snippy Risebuilder |
+| 641 | 181 | Fancy Cascadebuilder |
+| 642 | 181 | Jeff Brian Gates |
+| 643 | 181 | Pheezy |
+| 644 | 181 | Gabriel Archer |
+| 645 | 180 | Curtis Kuffel |
+| 646 | 180 | Marie Fox |
+| 647 | 180 | Jeff Frandsen |
+| 648 | 180 | Dan Sessa |
+| 649 | 180 | Jessica Russell |
 | 650 | 180 | Kay Alifi |
-| 651 | 179 | ssr |
-| 652 | 178 | Snazzy Rotater |
-| 653 | 178 | Kakalina Thayer |
-| 654 | 178 | Fancy Cascadebuilder |
+| 651 | 180 | Blake Gee |
+| 652 | 179 | ssr |
+| 653 | 178 | Snazzy Rotater |
+| 654 | 178 | Kakalina Thayer |
 | 655 | 178 | Jessica |
 | 656 | 178 | Peachy Curvetile |
 | 657 | 178 | Vergie Michael |
 | 658 | 177 | Logan McFarland |
 | 659 | 177 | Speedy Liney |
-| 660 | 176 | Christina Davis |
+| 660 | 176 | Dennis Eitler |
 | 661 | 176 | Candace Fielder |
-| 662 | 175 | Alexis Vogel |
+| 662 | 176 | Christina Davis |
 | 663 | 175 | Carl Leonard |
-| 664 | 175 | Cynthia Herrmann Egland |
-| 665 | 175 | Erin Green |
-| 666 | 175 | Shaunie Miller |
-| 667 | 174 | Connor Jurzynski |
-| 668 | 174 | Jeremy Mitchell |
-| 669 | 174 | Dusti Byrd |
+| 664 | 175 | Alexis Vogel |
+| 665 | 175 | Shaunie Miller |
+| 666 | 175 | Erin Green |
+| 667 | 175 | Cynthia Herrmann Egland |
+| 668 | 174 | Dusti Byrd |
+| 669 | 174 | Jeremy Mitchell |
 | 670 | 174 | Bouncy Tilerpiece |
-| 671 | 174 | Lee Sipelii |
-| 672 | 173 | Leah LaShomb |
-| 673 | 173 | dustin b |
-| 674 | 173 | Adam McMakin |
-| 675 | 173 | Berenice |
-| 676 | 173 | Hobson Lopes |
-| 677 | 172 | Kirstian Taylor Grimsley |
-| 678 | 172 | Yang Desu |
-| 679 | 172 | Adele Rahman |
-| 680 | 171 | Heather Bowser |
-| 681 | 171 | Will Fulmer |
+| 671 | 174 | Connor Jurzynski |
+| 672 | 174 | Lee Sipelii |
+| 673 | 173 | Adam McMakin |
+| 674 | 173 | Leah LaShomb |
+| 675 | 173 | dustin b |
+| 676 | 173 | Berenice |
+| 677 | 173 | Hobson Lopes |
+| 678 | 172 | Kirstian Taylor Grimsley |
+| 679 | 172 | Yang Desu |
+| 680 | 172 | Adele Rahman |
+| 681 | 171 | Heather Bowser |
 | 682 | 171 | BostonCrypto |
-| 683 | 171 | Glitzy Builderline |
-| 684 | 171 | Lisa Klockenga |
-| 685 | 171 | Jester |
-| 686 | 170 | Christi Ames |
-| 687 | 170 | Ernesto Chavera |
-| 688 | 170 | Justin Reed |
-| 689 | 170 | J. |
-| 690 | 169 | Damion Woods |
-| 691 | 169 | Joshua Lipscomb |
-| 692 | 169 | Dennis Eitler |
-| 693 | 169 | Stacy Rodriguez |
-| 694 | 168 | Bubba_C59 |
-| 695 | 168 | Amanda Pauldo-Ivy |
-| 696 | 168 | LaRon R. Gadlen |
-| 697 | 168 | SLAPNUTZ |
-| 698 | 168 | Scarlett |
+| 683 | 171 | Will Fulmer |
+| 684 | 171 | Glitzy Builderline |
+| 685 | 171 | Lisa Klockenga |
+| 686 | 171 | Jester |
+| 687 | 170 | Christi Ames |
+| 688 | 170 | Ernesto Chavera |
+| 689 | 170 | Justin Reed |
+| 690 | 170 | J. |
+| 691 | 169 | Stacy Rodriguez |
+| 692 | 169 | Joshua Lipscomb |
+| 693 | 169 | Damion Woods |
+| 694 | 168 | SLAPNUTZ |
+| 695 | 168 | Scarlett |
+| 696 | 168 | Amanda Pauldo-Ivy |
+| 697 | 168 | Bubba_C59 |
+| 698 | 168 | LaRon R. Gadlen |
 | 699 | 167 | Jacob Phillips |
-| 700 | 165 | Matt Morrow |
+| 700 | 167 | Greenbayfan |
 | 701 | 165 | Jessi Godsey |
-| 702 | 164 | tay |
-| 703 | 164 | Shay J Duval |
+| 702 | 165 | Matt Morrow |
+| 703 | 164 | Lauren Bond |
 | 704 | 164 | Terika Rodriguez |
-| 705 | 164 | Alexis Garcia |
-| 706 | 164 | Ambrosia Natas Danu |
-| 707 | 164 | Lauren Bond |
-| 708 | 164 | WEIRDINO |
-| 709 | 163 | Tracie Corbett |
-| 710 | 163 | Twisty Blockmatch |
-| 711 | 163 | Happy Snapbuild |
-| 712 | 163 | Christian Smith |
-| 713 | 162 | Mandy Kachenmeister |
-| 714 | 162 | Sarah Perry Cook |
-| 715 | 162 | Lazy Dashpiece |
-| 716 | 162 | Itspaigebro |
-| 717 | 162 | Albert Josef Toves Means Jr. |
-| 718 | 162 | Kendra Newton |
-| 719 | 161 | Greenbayfan |
+| 705 | 164 | tay |
+| 706 | 164 | Shay J Duval |
+| 707 | 164 | WEIRDINO |
+| 708 | 164 | Ambrosia Natas Danu |
+| 709 | 164 | Alexis Garcia |
+| 710 | 163 | Tracie Corbett |
+| 711 | 163 | Christian Smith |
+| 712 | 163 | Twisty Blockmatch |
+| 713 | 163 | Happy Snapbuild |
+| 714 | 162 | Lazy Dashpiece |
+| 715 | 162 | Mandy Kachenmeister |
+| 716 | 162 | Sarah Perry Cook |
+| 717 | 162 | Itspaigebro |
+| 718 | 162 | Albert Josef Toves Means Jr. |
+| 719 | 162 | Kendra Newton |
 | 720 | 161 | Terry Dill |
 | 721 | 161 | Bucknut420 |
 | 722 | 161 | Amega |
 | 723 | 161 | Lablaze |
-| 724 | 161 | DreamyMoon |
-| 725 | 161 | Dustin Curtis |
+| 724 | 161 | Dustin Curtis |
+| 725 | 161 | DreamyMoon |
 | 726 | 161 | Megan Treacy |
 | 727 | 160 | Jessica Marie Long |
 | 728 | 160 | Britters |
