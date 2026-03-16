@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 17:02:41 UTC
+# Standings for team1 as of 2026-03-16 17:03:20 UTC
 
 **Total Participants:** 2731
 
@@ -213,9 +213,9 @@
 | 205 | 675 | Ma Shwe Myint |
 | 206 | 672 | Sassy Cascadepiece |
 | 207 | 669 | Bryan Temple |
-| 208 | 668 | Simmone T. Kadiri |
-| 209 | 667 | TexasLise |
-| 210 | 666 | Matthew Bunn |
+| 208 | 669 | Matthew Bunn |
+| 209 | 668 | Simmone T. Kadiri |
+| 210 | 667 | TexasLise |
 | 211 | 657 | Margaret Rose |
 | 212 | 656 | Shawn Kelso |
 | 213 | 652 | Chris Wanner |
@@ -261,11 +261,11 @@
 | 253 | 562 | Rennon Scott Wilson |
 | 254 | 559 | Elizabeth Hughes |
 | 255 | 559 | Chris Kelly |
-| 256 | 557 | Ecami |
-| 257 | 557 | Ancient Intuition |
-| 258 | 555 | Liliana Pena |
-| 259 | 555 | Erin Halleman |
-| 260 | 554 | Austin |
+| 256 | 558 | Austin |
+| 257 | 557 | Ecami |
+| 258 | 557 | Ancient Intuition |
+| 259 | 555 | Liliana Pena |
+| 260 | 555 | Erin Halleman |
 | 261 | 554 | Jess Rose |
 | 262 | 554 | JV Yu |
 | 263 | 554 | Allena Craft |
@@ -663,59 +663,59 @@
 | 655 | 219 | Margo Fenton |
 | 656 | 219 | Aaron M Luna |
 | 657 | 218 | Matthew Laudico |
-| 658 | 218 | Michael Bruck |
-| 659 | 218 | Betty Bóò |
-| 660 | 218 | Crystal Rosen |
-| 661 | 218 | Matthew Boudah |
+| 658 | 218 | Crystal Rosen |
+| 659 | 218 | Michael Bruck |
+| 660 | 218 | Matthew Boudah |
+| 661 | 218 | Betty Bóò |
 | 662 | 217 | Michelle Cummings |
 | 663 | 217 | Loony Dropzone |
 | 664 | 216 | Joe Andrew Jackson |
 | 665 | 215 | Kim Robinson |
 | 666 | 214 | Breezy Wiper |
 | 667 | 214 | Terrance Williams |
-| 668 | 214 | Melodie Hill |
-| 669 | 214 | bounce back |
-| 670 | 213 | Jacob Phillips |
-| 671 | 213 | Joshua Lipscomb |
-| 672 | 213 | Medic205 |
-| 673 | 213 | Buster Goots |
-| 674 | 213 | Pauline Cortez |
-| 675 | 213 | Steven Ray Real |
-| 676 | 212 | Ziggy Csah |
-| 677 | 212 | Dawgofwar |
-| 678 | 212 | Bucknut420 |
-| 679 | 212 | ssr |
-| 680 | 212 | Jennifer Grubbs |
+| 668 | 214 | bounce back |
+| 669 | 214 | Melodie Hill |
+| 670 | 213 | Natasha King |
+| 671 | 213 | Buster Goots |
+| 672 | 213 | Pauline Cortez |
+| 673 | 213 | Jacob Phillips |
+| 674 | 213 | Steven Ray Real |
+| 675 | 213 | Joshua Lipscomb |
+| 676 | 213 | Medic205 |
+| 677 | 212 | ssr |
+| 678 | 212 | Dawgofwar |
+| 679 | 212 | Bucknut420 |
+| 680 | 212 | Ziggy Csah |
 | 681 | 212 | Lynn Adams |
-| 682 | 211 | Lori Dutton |
-| 683 | 210 | Krazykat💋❤️💋 |
-| 684 | 210 | Dunlap Loretta |
-| 685 | 209 | Sue Foreman |
-| 686 | 209 | Kimberly Amburn |
-| 687 | 208 | Natasha King |
+| 682 | 212 | Jennifer Grubbs |
+| 683 | 211 | Lori Dutton |
+| 684 | 210 | Krazykat💋❤️💋 |
+| 685 | 210 | Dunlap Loretta |
+| 686 | 209 | Sue Foreman |
+| 687 | 209 | Kimberly Amburn |
 | 688 | 208 | Philippines |
 | 689 | 208 | Teresa Wolf |
-| 690 | 207 | Gabriel Archer |
-| 691 | 207 | Israel Lane |
-| 692 | 206 | Jennifer L Rutherford |
-| 693 | 206 | Beavis715 |
+| 690 | 207 | Israel Lane |
+| 691 | 207 | Gabriel Archer |
+| 692 | 206 | Beavis715 |
+| 693 | 206 | Jennifer L Rutherford |
 | 694 | 204 | Snippy Line |
 | 695 | 204 | Yolanda Quinn |
 | 696 | 203 | Holly Hinkle |
 | 697 | 203 | Louise Parker |
 | 698 | 202 | NunYa |
-| 699 | 202 | Nate Funk |
-| 700 | 202 | Tanya Carpenter-Reynolds |
-| 701 | 202 | Rosanna Atria-Schnickel |
-| 702 | 202 | Epic Fallzone |
+| 699 | 202 | Epic Fallzone |
+| 700 | 202 | Nate Funk |
+| 701 | 202 | Tanya Carpenter-Reynolds |
+| 702 | 202 | Rosanna Atria-Schnickel |
 | 703 | 202 | Mary Cerciello |
 | 704 | 201 | Nicole Plummer |
-| 705 | 201 | Nerdy Shatterline |
-| 706 | 201 | Blake Gee |
-| 707 | 200 | Deandre Young |
+| 705 | 201 | Blake Gee |
+| 706 | 201 | Nerdy Shatterline |
+| 707 | 200 | Happy Feet |
 | 708 | 200 | Marie Fox |
 | 709 | 200 | Tina Jett |
-| 710 | 200 | Happy Feet |
+| 710 | 200 | Deandre Young |
 | 711 | 200 | Rebecca Wilson |
 | 712 | 200 | LT |
 | 713 | 200 | Tony Lighthizer |
@@ -726,17 +726,17 @@
 | 718 | 199 | NeNe Hazel |
 | 719 | 199 | Tracie Corbett |
 | 720 | 199 | MWFreddy |
-| 721 | 198 | Lora Mae Spindler Young |
-| 722 | 198 | Lee Sipelii |
-| 723 | 198 | John Ham |
-| 724 | 197 | ZhenZhen |
-| 725 | 197 | Tessa N Davis |
-| 726 | 196 | Michelle Pike |
-| 727 | 196 | Bennett Hunter |
-| 728 | 195 | Erin Green |
-| 729 | 195 | Greenbayfan |
-| 730 | 195 | Jessi Godsey |
-| 731 | 195 | TileDestroyer |
+| 721 | 199 | TileDestroyer |
+| 722 | 198 | Lora Mae Spindler Young |
+| 723 | 198 | Lee Sipelii |
+| 724 | 198 | John Ham |
+| 725 | 197 | ZhenZhen |
+| 726 | 197 | Tessa N Davis |
+| 727 | 196 | Michelle Pike |
+| 728 | 196 | Bennett Hunter |
+| 729 | 195 | Erin Green |
+| 730 | 195 | Greenbayfan |
+| 731 | 195 | Jessi Godsey |
 | 732 | 194 | Aries Lyn |
 | 733 | 194 | Lauren Bond |
 | 734 | 194 | Tara Lawson |
