@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 15:56:44 UTC
+# Standings for team1 as of 2026-03-16 15:57:22 UTC
 
 **Total Participants:** 2713
 
@@ -89,19 +89,19 @@
 | 81 | 1543 | Spunky Snapfit |
 | 82 | 1528 | Amee Schnarrs |
 | 83 | 1525 | Sherri Drews |
-| 84 | 1490 | Walter Beltran |
-| 85 | 1490 | Tom |
+| 84 | 1490 | Tom |
+| 85 | 1490 | Walter Beltran |
 | 86 | 1476 | Trisha Gallagher |
 | 87 | 1466 | Gloria Ininahazwe |
 | 88 | 1448 | Giddy Cascade |
 | 89 | 1421 | Shaynna Garza |
-| 90 | 1404 | Mary Pelley |
-| 91 | 1388 | jenna |
-| 92 | 1386 | Legendary |
-| 93 | 1373 | Sleepypanda67 |
-| 94 | 1351 | Ellie Bein |
-| 95 | 1342 | Walker Patterson |
-| 96 | 1342 | Kesha Brady |
+| 90 | 1411 | Ellie Bein |
+| 91 | 1404 | Mary Pelley |
+| 92 | 1388 | jenna |
+| 93 | 1386 | Legendary |
+| 94 | 1373 | Sleepypanda67 |
+| 95 | 1342 | Kesha Brady |
+| 96 | 1342 | Walker Patterson |
 | 97 | 1340 | Christie |
 | 98 | 1340 | Dom The Great |
 | 99 | 1339 | Nancy |
@@ -171,16 +171,16 @@
 | 163 | 822 | Tina Blessed Cage |
 | 164 | 821 | Hut Des |
 | 165 | 819 | Ken McDonald |
-| 166 | 809 | Lavender |
-| 167 | 809 | Donald Nguyen |
-| 168 | 802 | Lexx Oliver |
-| 169 | 800 | Velvet Rarick |
-| 170 | 789 | sent2bless34 |
-| 171 | 787 | nameno |
-| 172 | 779 | Bubbly Staggerpiece |
-| 173 | 773 | Crafty Tilebuilder |
-| 174 | 772 | Chalandra Donahue |
-| 175 | 768 | Nutty Cascadefit |
+| 166 | 816 | Nutty Cascadefit |
+| 167 | 809 | Lavender |
+| 168 | 809 | Donald Nguyen |
+| 169 | 802 | Lexx Oliver |
+| 170 | 800 | Velvet Rarick |
+| 171 | 789 | sent2bless34 |
+| 172 | 787 | nameno |
+| 173 | 779 | Bubbly Staggerpiece |
+| 174 | 773 | Crafty Tilebuilder |
+| 175 | 772 | Chalandra Donahue |
 | 176 | 767 | Kris Koepke |
 | 177 | 761 | Duane Ficara |
 | 178 | 760 | Jevon Griffith |
@@ -953,59 +953,59 @@
 | 945 | 140 | Fredricka Cole |
 | 946 | 140 | Kat Fisher |
 | 947 | 140 | Santana Lantana |
-| 948 | 140 | Happy Clicker |
-| 949 | 140 | Tawny Mo |
-| 950 | 140 | JustMeNonna |
-| 951 | 140 | Jay Tressler |
-| 952 | 139 | Cheeky Snaplink |
-| 953 | 139 | Katelyn Dorman |
-| 954 | 139 | Steven Taylor |
-| 955 | 139 | Chummy Risebuilder |
-| 956 | 139 | Komikeh White |
-| 957 | 139 | Amber Wolfe |
-| 958 | 139 | Christi Bouten-Harmon |
-| 959 | 138 | Melsap #8284 |
-| 960 | 138 | 420 but ion smoke |
-| 961 | 138 | Melinda Perry Frazier |
+| 948 | 140 | JustMeNonna |
+| 949 | 140 | Jay Tressler |
+| 950 | 140 | Tawny Mo |
+| 951 | 140 | Happy Clicker |
+| 952 | 139 | Amber Wolfe |
+| 953 | 139 | Christi Bouten-Harmon |
+| 954 | 139 | Katelyn Dorman |
+| 955 | 139 | Steven Taylor |
+| 956 | 139 | Chummy Risebuilder |
+| 957 | 139 | Komikeh White |
+| 958 | 139 | Cheeky Snaplink |
+| 959 | 138 | Melinda Perry Frazier |
+| 960 | 138 | Melsap #8284 |
+| 961 | 138 | 420 but ion smoke |
 | 962 | 138 | Robert Earl Harper III |
 | 963 | 138 | Jennifer Bunker |
 | 964 | 137 | Shannon Tannehill |
 | 965 | 137 | Zany Glidepiece |
 | 966 | 137 | Kevin Russell |
 | 967 | 136 | Ashley Kostek |
-| 968 | 136 | Dandy Snapper |
-| 969 | 136 | Cool Base |
-| 970 | 136 | Kaitlyn Dean |
-| 971 | 136 | Slinky Stacky |
-| 972 | 135 | Larry Jackson |
-| 973 | 135 | Aly Sheehan |
-| 974 | 135 | Wanda L Flanagan |
-| 975 | 135 | Kindra Sinclair |
-| 976 | 135 | cac |
-| 977 | 135 | Juan Pena |
-| 978 | 135 | Katie Martin |
-| 979 | 135 | Gwenda Wright |
-| 980 | 135 | Robert |
-| 981 | 134 | Luis Silva |
+| 968 | 136 | Kaitlyn Dean |
+| 969 | 136 | Mykel Mcbreen |
+| 970 | 136 | Slinky Stacky |
+| 971 | 136 | Cool Base |
+| 972 | 136 | Dandy Snapper |
+| 973 | 135 | Wanda L Flanagan |
+| 974 | 135 | Larry Jackson |
+| 975 | 135 | Robert |
+| 976 | 135 | Katie Martin |
+| 977 | 135 | Aly Sheehan |
+| 978 | 135 | Juan Pena |
+| 979 | 135 | cac |
+| 980 | 135 | Gwenda Wright |
+| 981 | 135 | Kindra Sinclair |
 | 982 | 134 | BriAna Nicole Adams |
-| 983 | 134 | Sabrina Mansfield |
-| 984 | 134 | Carrie E Lamb Neal |
-| 985 | 134 | Paul Brian Angelo Egango |
-| 986 | 134 | Nutty Matcher |
-| 987 | 133 | Margie Olivas |
+| 983 | 134 | Paul Brian Angelo Egango |
+| 984 | 134 | Luis Silva |
+| 985 | 134 | Sabrina Mansfield |
+| 986 | 134 | Carrie E Lamb Neal |
+| 987 | 134 | Nutty Matcher |
 | 988 | 133 | Brittany Singleton |
-| 989 | 133 | Going Gone |
+| 989 | 133 | Margie Olivas |
 | 990 | 133 | Jonathan Morgan-Hoare |
-| 991 | 132 | Daniel Lopez |
+| 991 | 133 | Going Gone |
 | 992 | 132 | Happy Blocky |
-| 993 | 132 | Britney Nelson Coy |
-| 994 | 132 | millcitykid |
-| 995 | 132 | Ashlee Carnes |
-| 996 | 132 | Sandy Linders Higgins |
-| 997 | 132 | smitch |
-| 998 | 132 | Donna |
-| 999 | 132 | svsninja |
-| 1000 | 131 | Mykel Mcbreen |
+| 993 | 132 | Daniel Lopez |
+| 994 | 132 | Britney Nelson Coy |
+| 995 | 132 | millcitykid |
+| 996 | 132 | Ashlee Carnes |
+| 997 | 132 | Sandy Linders Higgins |
+| 998 | 132 | smitch |
+| 999 | 132 | Donna |
+| 1000 | 132 | svsninja |
 | 1001 | 131 | Angela |
 | 1002 | 131 | DeJuan Green |
 | 1003 | 131 | Natasha Velasquez Gabriel |
@@ -1294,97 +1294,97 @@
 | 1286 | 92 | Cheeks |
 | 1287 | 92 | Jenny Stratton Cozart |
 | 1288 | 92 | bricked |
-| 1289 | 91 | Susan Kilgore |
-| 1290 | 91 | Breezy Party |
-| 1291 | 91 | Mila Harper |
-| 1292 | 91 | Jason Dickess |
-| 1293 | 91 | Victoria Montenegro Martinez |
-| 1294 | 91 | Nancy Foster |
-| 1295 | 91 | Goob277 |
-| 1296 | 91 | Dale |
-| 1297 | 91 | Cheryl Villa |
-| 1298 | 91 | Erica Wynne |
-| 1299 | 91 | Jai |
-| 1300 | 91 | Becca Gatrell Barton |
+| 1289 | 91 | Breezy Party |
+| 1290 | 91 | Jason Dickess |
+| 1291 | 91 | Erica Wynne |
+| 1292 | 91 | Jai |
+| 1293 | 91 | Cheryl Villa |
+| 1294 | 91 | Victoria Montenegro Martinez |
+| 1295 | 91 | Dale |
+| 1296 | 91 | Nancy Foster |
+| 1297 | 91 | Goob277 |
+| 1298 | 91 | Mila Harper |
+| 1299 | 91 | crash |
+| 1300 | 91 | Susan Kilgore |
 | 1301 | 91 | Lisa Franks |
-| 1302 | 91 | Kimmy Newman |
-| 1303 | 91 | crash |
+| 1302 | 91 | Becca Gatrell Barton |
+| 1303 | 91 | Kimmy Newman |
 | 1304 | 90 | Casey Jordan |
-| 1305 | 90 | Matt Metzler |
-| 1306 | 90 | Ellen Maxwell Capstaff |
+| 1305 | 90 | Ellen Maxwell Capstaff |
+| 1306 | 90 | Bouncy Bricky |
 | 1307 | 90 | F3MM3F4T4L3 |
-| 1308 | 90 | Mean Melly |
-| 1309 | 90 | Nutty Glide |
-| 1310 | 90 | Chelsey Ann |
-| 1311 | 90 | Bouncy Bricky |
-| 1312 | 90 | Amber Jolene |
-| 1313 | 90 | Mckenzie Morris |
-| 1314 | 90 | Conklin Laura |
-| 1315 | 90 | Johnson Aryonda |
-| 1316 | 90 | Swanky Cascadezone |
-| 1317 | 90 | Bon Welch |
-| 1318 | 90 | Witty Shatterline |
-| 1319 | 90 | MetalBrickLayer |
+| 1308 | 90 | Amber Jolene |
+| 1309 | 90 | Chelsey Ann |
+| 1310 | 90 | Mean Melly |
+| 1311 | 90 | Nutty Glide |
+| 1312 | 90 | MetalBrickLayer |
+| 1313 | 90 | Johnson Aryonda |
+| 1314 | 90 | Mckenzie Morris |
+| 1315 | 90 | Matt Metzler |
+| 1316 | 90 | Conklin Laura |
+| 1317 | 90 | Swanky Cascadezone |
+| 1318 | 90 | Bon Welch |
+| 1319 | 90 | Witty Shatterline |
 | 1320 | 89 | Amy Niemeier |
-| 1321 | 89 | Smelly |
-| 1322 | 89 | Aigner Monae |
+| 1321 | 89 | Aigner Monae |
+| 1322 | 89 | Smelly |
 | 1323 | 88 | Crruth |
 | 1324 | 88 | Felisha Marie |
 | 1325 | 88 | Aspen Campos |
-| 1326 | 88 | Alexandria Ritch |
-| 1327 | 88 | Iang Nozil |
+| 1326 | 88 | Iang Nozil |
+| 1327 | 88 | Alexandria Ritch |
 | 1328 | 87 | Alexandra Karavias |
-| 1329 | 87 | S Gale Holton |
-| 1330 | 87 | Dizzy Tiler |
-| 1331 | 87 | Lacey Renee Dietz |
-| 1332 | 87 | Tran Tran |
-| 1333 | 87 | Chilly Pop |
-| 1334 | 87 | Vivian Cobb |
-| 1335 | 87 | Mariah Cornell |
+| 1329 | 87 | Dizzy Tiler |
+| 1330 | 87 | Mariah Cornell |
+| 1331 | 87 | S Gale Holton |
+| 1332 | 87 | Lacey Renee Dietz |
+| 1333 | 87 | Tran Tran |
+| 1334 | 87 | Chilly Pop |
+| 1335 | 87 | Vivian Cobb |
 | 1336 | 87 | Anny Johnson |
 | 1337 | 86 | Jennifer Hackmann |
-| 1338 | 86 | Sotirios Giaouridis |
+| 1338 | 86 | KingSteve |
 | 1339 | 86 | Angie Dotson |
-| 1340 | 86 | KingSteve |
-| 1341 | 86 | Itn |
-| 1342 | 86 | Funky Smasher |
-| 1343 | 86 | LaTisha Stillsmilin Hudson |
-| 1344 | 85 | Poppy Lift |
-| 1345 | 85 | Nikki Eaton |
+| 1340 | 86 | Funky Smasher |
+| 1341 | 86 | Sotirios Giaouridis |
+| 1342 | 86 | LaTisha Stillsmilin Hudson |
+| 1343 | 86 | Itn |
+| 1344 | 85 | Duna Tats |
+| 1345 | 85 | Tabitha Rose Stone |
 | 1346 | 85 | Amanda Falta |
 | 1347 | 85 | Tracey Wilson |
-| 1348 | 85 | Dottie Jones |
-| 1349 | 85 | Sarah McIntosh |
-| 1350 | 85 | Duna Tats |
-| 1351 | 85 | RainbowOwl |
-| 1352 | 85 | Mo Mulah |
-| 1353 | 85 | Tabitha Rose Stone |
-| 1354 | 84 | Nunya |
-| 1355 | 84 | Matthew Foley |
-| 1356 | 84 | iceman |
-| 1357 | 84 | Stacy Patterson |
-| 1358 | 84 | Steven Andrew |
-| 1359 | 84 | Angi Martinez |
-| 1360 | 84 | Luna |
-| 1361 | 84 | Bob Sitts |
-| 1362 | 83 | p |
-| 1363 | 83 | Aj Fredenburg |
-| 1364 | 83 | Pretty Eyes |
-| 1365 | 83 | Elizabeth A Cobuccio |
-| 1366 | 83 | Aden Beeck |
-| 1367 | 83 | Erica Ann |
-| 1368 | 83 | Shaun Waddell |
-| 1369 | 83 | Renee |
+| 1348 | 85 | Nikki Eaton |
+| 1349 | 85 | Poppy Lift |
+| 1350 | 85 | Dottie Jones |
+| 1351 | 85 | Mo Mulah |
+| 1352 | 85 | Sarah McIntosh |
+| 1353 | 85 | RainbowOwl |
+| 1354 | 84 | Bob Sitts |
+| 1355 | 84 | Stacy Patterson |
+| 1356 | 84 | Steven Andrew |
+| 1357 | 84 | Angi Martinez |
+| 1358 | 84 | iceman |
+| 1359 | 84 | Luna |
+| 1360 | 84 | Matthew Foley |
+| 1361 | 84 | Zippy Slamdrop |
+| 1362 | 84 | Nunya |
+| 1363 | 83 | p |
+| 1364 | 83 | Aj Fredenburg |
+| 1365 | 83 | Pretty Eyes |
+| 1366 | 83 | Elizabeth A Cobuccio |
+| 1367 | 83 | Aden Beeck |
+| 1368 | 83 | Erica Ann |
+| 1369 | 83 | Shaun Waddell |
 | 1370 | 83 | Vicky Shull |
 | 1371 | 83 | Quaheem Brown-Riley |
-| 1372 | 82 | David Campbell |
-| 1373 | 82 | Jen Sartain |
-| 1374 | 82 | Bubbly Blast |
-| 1375 | 82 | Shellybobellers |
-| 1376 | 82 | Bartek Nieznane |
-| 1377 | 82 | Zippy Slamdrop |
-| 1378 | 82 | ThunderSword |
-| 1379 | 82 | Cranky Swipe |
+| 1372 | 83 | Renee |
+| 1373 | 82 | Cranky Swipe |
+| 1374 | 82 | ThunderSword |
+| 1375 | 82 | Bartek Nieznane |
+| 1376 | 82 | Shellybobellers |
+| 1377 | 82 | Bubbly Blast |
+| 1378 | 82 | Jen Sartain |
+| 1379 | 82 | David Campbell |
 | 1380 | 82 | Susan Lokerse |
 | 1381 | 82 | Yoga Jones |
 | 1382 | 82 | Tony McCormick |
@@ -1457,12 +1457,12 @@
 | 1449 | 76 | Jeremy Lake |
 | 1450 | 76 | Brandi Daigle |
 | 1451 | 76 | Tammy Kunai |
-| 1452 | 76 | Bouncy Clicker |
-| 1453 | 75 | Saucy Block |
-| 1454 | 75 | Perky Glidebuilder |
-| 1455 | 75 | Larry Fritzinger |
-| 1456 | 75 | Shannon Green |
-| 1457 | 75 | Marcia Crumpton |
+| 1452 | 76 | Marcia Crumpton |
+| 1453 | 76 | Bouncy Clicker |
+| 1454 | 75 | Saucy Block |
+| 1455 | 75 | Perky Glidebuilder |
+| 1456 | 75 | Larry Fritzinger |
+| 1457 | 75 | Shannon Green |
 | 1458 | 75 | Ethan Cox |
 | 1459 | 75 | red |
 | 1460 | 75 | Frothy Dashpiece |
