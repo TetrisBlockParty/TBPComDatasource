@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 08:18:22 UTC
+# Standings for team2 as of 2026-03-16 08:18:44 UTC
 
 **Total Participants:** 2655
 
@@ -736,49 +736,49 @@
 | 728 | 160 | Twisty Shatter |
 | 729 | 160 | Paula Martin |
 | 730 | 160 | Shelly Marie Lloyd |
-| 731 | 159 | Victoria Barkefelt |
-| 732 | 159 | Circuit8 |
+| 731 | 160 | Katie Hughes |
+| 732 | 159 | Victoria Barkefelt |
 | 733 | 159 | Slinky Align |
-| 734 | 159 | JZoya  Scott |
-| 735 | 159 | Iliveformygirlz Smith |
-| 736 | 159 | BendersMomma |
-| 737 | 159 | Brittany Backus |
-| 738 | 157 | Shaun Talbot |
+| 734 | 159 | BendersMomma |
+| 735 | 159 | JZoya  Scott |
+| 736 | 159 | Iliveformygirlz Smith |
+| 737 | 159 | Circuit8 |
+| 738 | 159 | Brittany Backus |
 | 739 | 157 | BendyBones |
 | 740 | 157 | Marciala Pineda Juarez |
 | 741 | 157 | Zesty Dropzone |
-| 742 | 156 | Amanda Martinez |
-| 743 | 156 | Haley Bell |
-| 744 | 156 | Yany |
-| 745 | 156 | kitykat |
-| 746 | 156 | Kirsten Hanes Gasper |
-| 747 | 155 | Angela Srubar-Norman |
-| 748 | 155 | Amber Fore |
-| 749 | 154 | Gi Na |
-| 750 | 154 | Brickh4us |
+| 742 | 157 | Shaun Talbot |
+| 743 | 156 | Amanda Martinez |
+| 744 | 156 | Haley Bell |
+| 745 | 156 | Yany |
+| 746 | 156 | kitykat |
+| 747 | 156 | Kirsten Hanes Gasper |
+| 748 | 155 | Angela Srubar-Norman |
+| 749 | 155 | Amber Fore |
+| 750 | 154 | Gi Na |
 | 751 | 154 | Lisa Duncan |
 | 752 | 154 | Danielle Smith |
 | 753 | 154 | Alexander Zamora |
 | 754 | 154 | Anika Strawberryz Smith |
-| 755 | 153 | Ivan Burgess |
-| 756 | 153 | Montiette Mcglown |
-| 757 | 153 | Toni Codynah |
-| 758 | 153 | Glitzy Bricky |
-| 759 | 153 | Amy Villalpando |
-| 760 | 152 | Star Hart |
-| 761 | 152 | Shankee mgee |
-| 762 | 152 | Bobbie Miller |
-| 763 | 152 | Brittney Marie Wyrick |
-| 764 | 152 | Carlos Landin |
-| 765 | 151 | Swanky Tile |
-| 766 | 151 | Heather Kelley |
-| 767 | 151 | Anthony Intrabartolo |
-| 768 | 150 | Brittani Suzanne Jelks |
+| 755 | 154 | Brickh4us |
+| 756 | 153 | Ivan Burgess |
+| 757 | 153 | Montiette Mcglown |
+| 758 | 153 | Toni Codynah |
+| 759 | 153 | Glitzy Bricky |
+| 760 | 153 | Amy Villalpando |
+| 761 | 152 | Carlos Landin |
+| 762 | 152 | Shankee mgee |
+| 763 | 152 | Bobbie Miller |
+| 764 | 152 | Brittney Marie Wyrick |
+| 765 | 152 | Star Hart |
+| 766 | 151 | Swanky Tile |
+| 767 | 151 | Heather Kelley |
+| 768 | 151 | Anthony Intrabartolo |
 | 769 | 150 | Tracey Whetstone |
-| 770 | 150 | Sherry Jones |
+| 770 | 150 | Tyler Werts |
 | 771 | 150 | Kathy Allen |
-| 772 | 150 | Tyler Werts |
-| 773 | 150 | Katie Hughes |
+| 772 | 150 | Brittani Suzanne Jelks |
+| 773 | 150 | Sherry Jones |
 | 774 | 150 | Brave Fallzone |
 | 775 | 150 | Sleepy Otter |
 | 776 | 150 | Marla Erin Salas |
