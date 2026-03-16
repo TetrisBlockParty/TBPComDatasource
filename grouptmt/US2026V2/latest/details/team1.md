@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 08:36:38 UTC
+# Standings for team1 as of 2026-03-16 08:37:17 UTC
 
 **Total Participants:** 2647
 
@@ -387,8 +387,8 @@
 | 379 | 316 | George Ljr |
 | 380 | 313 | Andrew Duron |
 | 381 | 313 | Mama Becky |
-| 382 | 311 | Suzan Frazier |
-| 383 | 311 | Boldy Clicky |
+| 382 | 312 | Boldy Clicky |
+| 383 | 311 | Suzan Frazier |
 | 384 | 310 | Flashy Stacky |
 | 385 | 310 | Dapper Twistline |
 | 386 | 309 | Cannaman710 |
@@ -759,41 +759,41 @@
 | 751 | 157 | Meagan Nicole |
 | 752 | 157 | Tyler Terrific |
 | 753 | 156 | Ophelia Rae |
-| 754 | 156 | Felise Bee |
-| 755 | 156 | Maverick McGowan |
-| 756 | 156 | Loony Dropzone |
-| 757 | 156 | Flashy Wipeblock |
-| 758 | 155 | Scott Disedare |
-| 759 | 155 | Rosanna Atria-Schnickel |
-| 760 | 155 | Robert A. Horne |
-| 761 | 155 | Maria Lopez |
+| 754 | 156 | Flashy Wipeblock |
+| 755 | 156 | Felise Bee |
+| 756 | 156 | Maverick McGowan |
+| 757 | 156 | Loony Dropzone |
+| 758 | 156 | Jessica |
+| 759 | 155 | Robert A. Horne |
+| 760 | 155 | Tabetha Craddock |
+| 761 | 155 | Shekita Gibbs |
 | 762 | 155 | mikey |
-| 763 | 155 | Shekita Gibbs |
-| 764 | 155 | Tabetha Craddock |
-| 765 | 154 | Vicki Dougie |
-| 766 | 154 | Nathan Sealander |
-| 767 | 154 | Barbara Miller |
-| 768 | 154 | b430 |
-| 769 | 154 | KMart |
-| 770 | 153 | Karmyst |
-| 771 | 153 | LucasEveryday |
-| 772 | 153 | Jessica |
+| 763 | 155 | Rosanna Atria-Schnickel |
+| 764 | 155 | Scott Disedare |
+| 765 | 155 | Maria Lopez |
+| 766 | 154 | b430 |
+| 767 | 154 | Vicki Dougie |
+| 768 | 154 | Nathan Sealander |
+| 769 | 154 | Barbara Miller |
+| 770 | 154 | KMart |
+| 771 | 153 | Karmyst |
+| 772 | 153 | LucasEveryday |
 | 773 | 152 | Sasha Farnsworth |
 | 774 | 152 | Chipper Matcher |
-| 775 | 152 | Christina Rentz-Lane |
-| 776 | 152 | Christie Love |
+| 775 | 152 | Christie Love |
+| 776 | 152 | Christina Rentz-Lane |
 | 777 | 152 | Austin Wilson |
-| 778 | 151 | Steffi Chris Dacones |
-| 779 | 151 | Dunlap Loretta |
+| 778 | 151 | Dunlap Loretta |
+| 779 | 151 | Steffi Chris Dacones |
 | 780 | 150 | Peachy Snaplink |
 | 781 | 150 | Eric Wren |
 | 782 | 150 | MaegenMarie Jones |
-| 783 | 149 | Loopy Edge |
+| 783 | 149 | Chummy Rollzone |
 | 784 | 149 | Randy Bowers |
-| 785 | 149 | Chummy Rollzone |
-| 786 | 148 | Mel Fab |
+| 785 | 149 | Loopy Edge |
+| 786 | 148 | TileDestroyer |
 | 787 | 148 | Zippy Cascadezone |
-| 788 | 148 | TileDestroyer |
+| 788 | 148 | Mel Fab |
 | 789 | 147 | TheBiz2 |
 | 790 | 147 | Beavis715 |
 | 791 | 146 | Chuck Williams |
