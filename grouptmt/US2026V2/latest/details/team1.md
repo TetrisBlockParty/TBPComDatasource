@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 10:46:42 UTC
+# Standings for team1 as of 2026-03-16 10:47:20 UTC
 
 **Total Participants:** 2661
 
@@ -142,8 +142,8 @@
 | 134 | 965 | Bold Clear |
 | 135 | 953 | Snippy Piecegrid |
 | 136 | 952 | Andy Harris |
-| 137 | 918 | @n@luvmakin |
-| 138 | 912 | Amy R Clinton |
+| 137 | 943 | Amy R Clinton |
+| 138 | 918 | @n@luvmakin |
 | 139 | 906 | Joy Bloodworth |
 | 140 | 899 | Irene Medina |
 | 141 | 894 | Sarah Stanonik |
@@ -596,7 +596,7 @@
 | 588 | 206 | Tabitha Cornelious |
 | 589 | 206 | Jennifer L Rutherford |
 | 590 | 206 | Steven Ray Real |
-| 591 | 205 | Jessica Marie Long |
+| 591 | 206 | Jessica Marie Long |
 | 592 | 205 | anshu |
 | 593 | 204 | Amy Sanford |
 | 594 | 204 | bounce back |
@@ -2415,49 +2415,49 @@
 | 2407 | 14 | Melody Cuevas |
 | 2408 | 14 | Jasmyne Moreno |
 | 2409 | 14 | Bri Nicole Cox |
-| 2410 | 14 | Will Sargent |
-| 2411 | 14 | DiQuarto Tom |
-| 2412 | 14 | April Moore |
+| 2410 | 14 | April Moore |
+| 2411 | 14 | Will Sargent |
+| 2412 | 14 | DiQuarto Tom |
 | 2413 | 14 | prittywittyladi |
-| 2414 | 14 | KissedbyKinny |
-| 2415 | 14 | LaTanya Summers |
-| 2416 | 14 | KathyMcKrasherson |
-| 2417 | 14 | Cindy Lee Johnson |
-| 2418 | 14 | Haykid14 |
-| 2419 | 13 | Richard Johansen |
-| 2420 | 13 | Marchae Cody |
-| 2421 | 13 | Dev |
-| 2422 | 13 | Olivia Ledger |
-| 2423 | 13 | Cheeky Bridgepiece |
-| 2424 | 13 | Al Wannasee Rieh |
-| 2425 | 13 | Giggly Rotator |
+| 2414 | 14 | Sarah Ward |
+| 2415 | 14 | KissedbyKinny |
+| 2416 | 14 | LaTanya Summers |
+| 2417 | 14 | KathyMcKrasherson |
+| 2418 | 14 | Cindy Lee Johnson |
+| 2419 | 14 | Haykid14 |
+| 2420 | 13 | Richard Johansen |
+| 2421 | 13 | Olivia Ledger |
+| 2422 | 13 | Marchae Cody |
+| 2423 | 13 | Dev |
+| 2424 | 13 | Cheeky Bridgepiece |
+| 2425 | 13 | Al Wannasee Rieh |
 | 2426 | 13 | Disha Chaudhari |
-| 2427 | 13 | Memorie Galarneau |
-| 2428 | 13 | Ansley Godoy |
-| 2429 | 13 | T.j. Evans |
-| 2430 | 13 | Chchet Jackson |
-| 2431 | 13 | Sirenzkiss |
-| 2432 | 13 | Evojaz |
+| 2427 | 13 | Giggly Rotator |
+| 2428 | 13 | Jolly Joy |
+| 2429 | 13 | Ansley Godoy |
+| 2430 | 13 | T.j. Evans |
+| 2431 | 13 | Chchet Jackson |
+| 2432 | 13 | Sirenzkiss |
 | 2433 | 13 | Helen Rox |
-| 2434 | 13 | Jolly Joy |
-| 2435 | 12 | PAB |
-| 2436 | 12 | Peachy Brickline |
-| 2437 | 12 | Ray Masslieno |
-| 2438 | 12 | BLS |
-| 2439 | 12 | Saucy curvr |
-| 2440 | 12 | Alynie Sam |
-| 2441 | 12 | Mike Drake |
+| 2434 | 13 | Evojaz |
+| 2435 | 13 | Memorie Galarneau |
+| 2436 | 12 | Ray Masslieno |
+| 2437 | 12 | PAB |
+| 2438 | 12 | Peachy Brickline |
+| 2439 | 12 | Alynie Sam |
+| 2440 | 12 | BLS |
+| 2441 | 12 | Saucy curvr |
 | 2442 | 12 | Blockface |
-| 2443 | 12 | Victoria Harrell |
-| 2444 | 12 | Sassy Gridmatch |
-| 2445 | 12 | Tracy M Deak |
-| 2446 | 12 | Debra Reynolds |
-| 2447 | 12 | Yonkas |
-| 2448 | 12 | PizzaGG |
-| 2449 | 12 | M |
-| 2450 | 12 | britqueen |
-| 2451 | 12 | Giggy Stacky |
-| 2452 | 12 | Sarah Ward |
+| 2443 | 12 | Mike Drake |
+| 2444 | 12 | Victoria Harrell |
+| 2445 | 12 | Sassy Gridmatch |
+| 2446 | 12 | Tracy M Deak |
+| 2447 | 12 | Debra Reynolds |
+| 2448 | 12 | Yonkas |
+| 2449 | 12 | PizzaGG |
+| 2450 | 12 | M |
+| 2451 | 12 | britqueen |
+| 2452 | 12 | Giggy Stacky |
 | 2453 | 12 | Robaire |
 | 2454 | 12 | Amanda Jean Gray |
 | 2455 | 12 | Lush Dasher |
