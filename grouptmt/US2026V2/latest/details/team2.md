@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 08:00:43 UTC
+# Standings for team2 as of 2026-03-16 08:01:20 UTC
 
 **Total Participants:** 2653
 
@@ -101,9 +101,9 @@
 | 93 | 1219 | Giggly Clearzone |
 | 94 | 1199 | Giggy Matchpiece |
 | 95 | 1141 | sweet lil miss |
-| 96 | 1101 | Chipper Matchclear |
-| 97 | 1084 | Nicole Cannon |
-| 98 | 1077 | Pikake Medeiros |
+| 96 | 1127 | Pikake Medeiros |
+| 97 | 1101 | Chipper Matchclear |
+| 98 | 1084 | Nicole Cannon |
 | 99 | 1064 | Sheena Herskovic |
 | 100 | 1050 | Christine Lin |
 | 101 | 1050 | Peachy Matchgrid |
@@ -258,8 +258,8 @@
 | 250 | 455 | Krys Brown |
 | 251 | 455 | Olivia Gwin |
 | 252 | 454 | eMzzz |
-| 253 | 450 | Quirky Matchfit |
-| 254 | 450 | Tiffany Smith |
+| 253 | 450 | Tiffany Smith |
+| 254 | 450 | Quirky Matchfit |
 | 255 | 450 | nina |
 | 256 | 449 | Krista Roberts |
 | 257 | 448 | Elizabeth Mauri |
@@ -270,15 +270,15 @@
 | 262 | 443 | Pixie |
 | 263 | 439 | SterlingTeri |
 | 264 | 439 | Megan Simpson |
-| 265 | 433 | Jess |
+| 265 | 435 | illegal impulse |
 | 266 | 433 | Melissa Bergin |
-| 267 | 432 | Jjza |
-| 268 | 430 | ElayneTrekand |
-| 269 | 429 | Plucky Snaplink |
-| 270 | 426 | Sammy |
-| 271 | 426 | Eugenio Moquete |
-| 272 | 425 | Faith Meade |
-| 273 | 425 | illegal impulse |
+| 267 | 433 | Jess |
+| 268 | 432 | Jjza |
+| 269 | 430 | ElayneTrekand |
+| 270 | 429 | Plucky Snaplink |
+| 271 | 426 | Sammy |
+| 272 | 426 | Eugenio Moquete |
+| 273 | 425 | Faith Meade |
 | 274 | 425 | LML |
 | 275 | 425 | Zippy Tile |
 | 276 | 422 | Slippery Clam |
@@ -450,11 +450,11 @@
 | 442 | 265 | olympichero |
 | 443 | 265 | Bryanna Whitman |
 | 444 | 265 | Ashley Leonard |
-| 445 | 262 | Rachel |
-| 446 | 262 | Fbai |
-| 447 | 261 | Isabella Blanco |
-| 448 | 261 | Tyler Bechtel |
-| 449 | 260 | Smags |
+| 445 | 263 | Smags |
+| 446 | 262 | Rachel |
+| 447 | 262 | Fbai |
+| 448 | 261 | Isabella Blanco |
+| 449 | 261 | Tyler Bechtel |
 | 450 | 260 | Trice Sodames |
 | 451 | 260 | Daring Fall |
 | 452 | 260 | Tanya Bullert |
@@ -1349,17 +1349,17 @@
 | 1341 | 75 | Lab2dablock |
 | 1342 | 75 | De Hawkins |
 | 1343 | 75 | BEB |
-| 1344 | 75 | Wendy Gathings |
-| 1345 | 75 | Pam |
-| 1346 | 75 | Jude |
-| 1347 | 75 | Loneell Hyland |
-| 1348 | 75 | Leah-Perle Bloomenstein |
-| 1349 | 75 | Angie Jacobs |
-| 1350 | 75 | Chipper Stacky |
-| 1351 | 74 | Ryan LaCasse |
-| 1352 | 74 | Sam Sam |
-| 1353 | 74 | Jimmy Bowden |
-| 1354 | 74 | Liz Waagmeester |
+| 1344 | 75 | Liz Waagmeester |
+| 1345 | 75 | Wendy Gathings |
+| 1346 | 75 | Pam |
+| 1347 | 75 | Jude |
+| 1348 | 75 | Loneell Hyland |
+| 1349 | 75 | Leah-Perle Bloomenstein |
+| 1350 | 75 | Angie Jacobs |
+| 1351 | 75 | Chipper Stacky |
+| 1352 | 74 | Ryan LaCasse |
+| 1353 | 74 | Sam Sam |
+| 1354 | 74 | Jimmy Bowden |
 | 1355 | 74 | tippytappy |
 | 1356 | 74 | Nicole Henely |
 | 1357 | 74 | Amber Rochelle |
