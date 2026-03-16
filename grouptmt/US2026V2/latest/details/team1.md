@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 06:14:18 UTC
+# Standings for team1 as of 2026-03-16 06:14:42 UTC
 
 **Total Participants:** 2618
 
@@ -137,24 +137,24 @@
 | 129 | 952 | Andy Harris |
 | 130 | 950 | Witty Wipegrid |
 | 131 | 943 | Hasty Cascader |
-| 132 | 906 | Joy Bloodworth |
-| 133 | 894 | Sarah Stanonik |
-| 134 | 892 | @n@luvmakin |
-| 135 | 883 | Spicy Buildsnap |
-| 136 | 882 | Amy R Clinton |
-| 137 | 876 | Jumpy Spinblock |
-| 138 | 868 | James Burda |
-| 139 | 866 | Al Smith Jr |
-| 140 | 860 | Michael Powers |
-| 141 | 859 | Shaynna Garza |
-| 142 | 854 | Irene Medina |
-| 143 | 852 | Sunny Swiper |
-| 144 | 851 | Tyle Armstead |
-| 145 | 850 | Death |
-| 146 | 845 | Nikita Nelson |
-| 147 | 843 | Beth Anderson |
-| 148 | 842 | Fancy Ziggy |
-| 149 | 840 | Denise Edwards |
+| 132 | 940 | Denise Edwards |
+| 133 | 906 | Joy Bloodworth |
+| 134 | 894 | Sarah Stanonik |
+| 135 | 892 | @n@luvmakin |
+| 136 | 883 | Spicy Buildsnap |
+| 137 | 882 | Amy R Clinton |
+| 138 | 876 | Jumpy Spinblock |
+| 139 | 868 | James Burda |
+| 140 | 866 | Al Smith Jr |
+| 141 | 860 | Michael Powers |
+| 142 | 859 | Shaynna Garza |
+| 143 | 854 | Irene Medina |
+| 144 | 852 | Sunny Swiper |
+| 145 | 851 | Tyle Armstead |
+| 146 | 850 | Death |
+| 147 | 845 | Nikita Nelson |
+| 148 | 843 | Beth Anderson |
+| 149 | 842 | Fancy Ziggy |
 | 150 | 823 | Ana Fernanda Sanchez |
 | 151 | 819 | Ken McDonald |
 | 152 | 817 | Ashley Olson |
@@ -795,20 +795,20 @@
 | 787 | 143 | Randy Clevenger |
 | 788 | 143 | Nance Jeano |
 | 789 | 143 | Pupcup |
-| 790 | 143 | Buster Goots |
-| 791 | 143 | Groovy Cascadefit |
-| 792 | 142 | Kimberly Goncalves |
-| 793 | 142 | Selena Shaw |
-| 794 | 142 | Kristen Hall |
-| 795 | 142 | Goofy Linkblock |
-| 796 | 142 | Peppy Brickclear |
-| 797 | 142 | Snapdragon |
-| 798 | 141 | Randy Bowers |
-| 799 | 141 | Damion Woods |
-| 800 | 141 | Zion Hadley |
+| 790 | 143 | primus |
+| 791 | 143 | Buster Goots |
+| 792 | 143 | Groovy Cascadefit |
+| 793 | 142 | Kimberly Goncalves |
+| 794 | 142 | Selena Shaw |
+| 795 | 142 | Kristen Hall |
+| 796 | 142 | Goofy Linkblock |
+| 797 | 142 | Peppy Brickclear |
+| 798 | 142 | Snapdragon |
+| 799 | 141 | Randy Bowers |
+| 800 | 141 | Damion Woods |
 | 801 | 141 | Brat |
-| 802 | 140 | Jennifer Negrete |
-| 803 | 140 | Happy Clicker |
+| 802 | 141 | Zion Hadley |
+| 803 | 140 | Jennifer Negrete |
 | 804 | 140 | Ash |
 | 805 | 140 | cheeryPrincess |
 | 806 | 140 | Kat Fisher |
@@ -816,33 +816,33 @@
 | 808 | 140 | Betty Bóò |
 | 809 | 140 | Fredricka Cole |
 | 810 | 140 | Santana Lantana |
-| 811 | 139 | Christi Bouten-Harmon |
-| 812 | 139 | Cheeky Snaplink |
-| 813 | 138 | Missy Lynn |
-| 814 | 138 | Robert Earl Harper III |
-| 815 | 138 | Chipper Balancepiece |
-| 816 | 138 | Melsap #8284 |
-| 817 | 137 | Loony Spinzone |
-| 818 | 137 | Ruhshikuh Lakor |
-| 819 | 137 | Jason Wreggitt |
+| 811 | 140 | Happy Clicker |
+| 812 | 139 | Christi Bouten-Harmon |
+| 813 | 139 | Cheeky Snaplink |
+| 814 | 138 | Missy Lynn |
+| 815 | 138 | Robert Earl Harper III |
+| 816 | 138 | Chipper Balancepiece |
+| 817 | 138 | Melsap #8284 |
+| 818 | 137 | Loony Spinzone |
+| 819 | 137 | Ruhshikuh Lakor |
 | 820 | 137 | Shannon Tannehill |
-| 821 | 136 | Ashley Kostek |
-| 822 | 136 | 030Synner |
-| 823 | 135 | cac |
-| 824 | 135 | Michael-Melissa Markham |
-| 825 | 135 | Michael Phillips |
-| 826 | 135 | Juan Pena |
-| 827 | 135 | BugsMama |
-| 828 | 135 | Robert |
+| 821 | 137 | Jason Wreggitt |
+| 822 | 136 | Ashley Kostek |
+| 823 | 136 | 030Synner |
+| 824 | 135 | cac |
+| 825 | 135 | Michael-Melissa Markham |
+| 826 | 135 | Michael Phillips |
+| 827 | 135 | Juan Pena |
+| 828 | 135 | BugsMama |
 | 829 | 135 | Gwenda Wright |
-| 830 | 135 | Larry Jackson |
-| 831 | 135 | April Bennett |
-| 832 | 135 | Alana Susan Hanley |
-| 833 | 134 | Travis Taylor |
-| 834 | 134 | Chin lock |
+| 830 | 135 | Robert |
+| 831 | 135 | Larry Jackson |
+| 832 | 135 | April Bennett |
+| 833 | 135 | Alana Susan Hanley |
+| 834 | 134 | Travis Taylor |
 | 835 | 134 | Sabrina Mansfield |
-| 836 | 134 | Greenbayfan |
-| 837 | 134 | primus |
+| 836 | 134 | Chin lock |
+| 837 | 134 | Greenbayfan |
 | 838 | 134 | Dan Engelhard |
 | 839 | 134 | David Lowe |
 | 840 | 134 | OneBuke FollowMe |
