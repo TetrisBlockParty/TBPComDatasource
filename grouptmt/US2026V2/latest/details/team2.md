@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 08:50:22 UTC
+# Standings for team2 as of 2026-03-16 08:51:18 UTC
 
 **Total Participants:** 2661
 
@@ -234,8 +234,8 @@
 | 226 | 509 | Shelly |
 | 227 | 508 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 228 | 504 | Berklie Apedaile |
-| 229 | 500 | Johanna Massaro |
-| 230 | 499 | BluBae |
+| 229 | 501 | BluBae |
+| 230 | 500 | Johanna Massaro |
 | 231 | 498 | Peaches |
 | 232 | 495 | Jen Roe |
 | 233 | 492 | Julie Renee Long |
@@ -546,11 +546,11 @@
 | 538 | 222 | Tracey Cox |
 | 539 | 222 | Candy Brooks |
 | 540 | 221 | Frothy Chiseler |
-| 541 | 220 | Kristi Riley |
-| 542 | 220 | NDPeanut |
-| 543 | 220 | Michelle |
-| 544 | 220 | Mjhays |
-| 545 | 219 | Summer D Blakeley |
+| 541 | 220 | Summer D Blakeley |
+| 542 | 220 | Kristi Riley |
+| 543 | 220 | NDPeanut |
+| 544 | 220 | Michelle |
+| 545 | 220 | Mjhays |
 | 546 | 219 | May May |
 | 547 | 219 | Debra D. Herbert |
 | 548 | 219 | Danielle Davis Speir |
@@ -705,12 +705,12 @@
 | 697 | 169 | Rileyy Rocket |
 | 698 | 168 | Chalanda Jefferies |
 | 699 | 168 | Bridgett |
-| 700 | 167 | BugMansMom |
-| 701 | 166 | Joe Smith |
-| 702 | 166 | Jesse Saville |
-| 703 | 166 | TinaMarie Montone |
-| 704 | 166 | Sha45 |
-| 705 | 165 | Ms. Blue |
+| 700 | 168 | Ms. Blue |
+| 701 | 167 | BugMansMom |
+| 702 | 166 | Joe Smith |
+| 703 | 166 | Jesse Saville |
+| 704 | 166 | TinaMarie Montone |
+| 705 | 166 | Sha45 |
 | 706 | 165 | Giggly Shiftsnap |
 | 707 | 165 | Happy Columnbuilder |
 | 708 | 165 | Steady Treal |
@@ -722,14 +722,14 @@
 | 714 | 164 | Old Man |
 | 715 | 163 | Rebecca Goforth |
 | 716 | 163 | Gi Na |
-| 717 | 162 | Martinez Jacobo |
-| 718 | 162 | Betty Jo Cyphert |
-| 719 | 162 | Sylvie Lemoine |
-| 720 | 162 | ANIM3KNIGHT |
-| 721 | 162 | Confused Kitty |
-| 722 | 161 | Jen Louie |
-| 723 | 161 | Cheery Clearfit |
-| 724 | 161 | BendersMomma |
+| 717 | 163 | BendersMomma |
+| 718 | 162 | Martinez Jacobo |
+| 719 | 162 | Betty Jo Cyphert |
+| 720 | 162 | Sylvie Lemoine |
+| 721 | 162 | ANIM3KNIGHT |
+| 722 | 162 | Confused Kitty |
+| 723 | 161 | Jen Louie |
+| 724 | 161 | Cheery Clearfit |
 | 725 | 161 | Tdg Boyt |
 | 726 | 161 | Jessica Petersen |
 | 727 | 161 | Elizabeth Reliford |
@@ -887,18 +887,18 @@
 | 879 | 129 | Kenerria Danielle |
 | 880 | 129 | Sharon Navarrete |
 | 881 | 129 | Brooke Ransom |
-| 882 | 128 | Roll1000 |
-| 883 | 128 | Truesuperwoman |
-| 884 | 128 | blockbustinbecky |
-| 885 | 128 | Trish Newell |
-| 886 | 127 | Elaina Temple |
-| 887 | 127 | Happy Link |
-| 888 | 127 | Rod Grayll |
-| 889 | 127 | エリカ エンフバヤル |
-| 890 | 127 | Tipsy Blockfall |
-| 891 | 126 | Robert Benjamin |
-| 892 | 126 | Shanny Anny |
-| 893 | 126 | Jenn Leigh |
+| 882 | 129 | Jenn Leigh |
+| 883 | 128 | Roll1000 |
+| 884 | 128 | Truesuperwoman |
+| 885 | 128 | blockbustinbecky |
+| 886 | 128 | Trish Newell |
+| 887 | 127 | Elaina Temple |
+| 888 | 127 | Happy Link |
+| 889 | 127 | Rod Grayll |
+| 890 | 127 | エリカ エンフバヤル |
+| 891 | 127 | Tipsy Blockfall |
+| 892 | 126 | Robert Benjamin |
+| 893 | 126 | Shanny Anny |
 | 894 | 126 | Twisty Frame |
 | 895 | 126 | Dandy Towerer |
 | 896 | 126 | JoJo |
