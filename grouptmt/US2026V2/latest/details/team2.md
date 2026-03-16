@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 05:18:45 UTC
+# Standings for team2 as of 2026-03-16 05:19:18 UTC
 
 **Total Participants:** 2615
 
@@ -1537,26 +1537,26 @@
 | 1529 | 60 | Hyper Snap |
 | 1530 | 59 | Lush Linkgrid |
 | 1531 | 59 | Shiny Zonegrid |
-| 1532 | 59 | Funky Blockpiece |
-| 1533 | 59 | Jude |
-| 1534 | 59 | Brianna Nicole Goodman |
-| 1535 | 59 | Aly San |
-| 1536 | 59 | swaggysteph |
-| 1537 | 59 | Kristalyn Schrank |
-| 1538 | 59 | Smith Nita |
-| 1539 | 59 | Bobbi Griepentrog |
+| 1532 | 59 | Bobbi Griepentrog |
+| 1533 | 59 | Melissa Manser |
+| 1534 | 59 | Jude |
+| 1535 | 59 | Brianna Nicole Goodman |
+| 1536 | 59 | Aly San |
+| 1537 | 59 | swaggysteph |
+| 1538 | 59 | Kristalyn Schrank |
+| 1539 | 59 | Smith Nita |
 | 1540 | 59 | Peppy Rollzone |
 | 1541 | 59 | Snippy Framezone |
 | 1542 | 59 | Odessa Scott |
 | 1543 | 59 | Chill Tumbler |
 | 1544 | 59 | ts |
 | 1545 | 59 | Kourtney Zarback |
-| 1546 | 58 | lynni |
-| 1547 | 58 | Jeremy Barry |
-| 1548 | 58 | Joshua |
-| 1549 | 58 | boycat3 |
-| 1550 | 58 | Bryan De Guzman |
-| 1551 | 58 | Melissa Manser |
+| 1546 | 59 | Funky Blockpiece |
+| 1547 | 58 | Bryan De Guzman |
+| 1548 | 58 | lynni |
+| 1549 | 58 | Jeremy Barry |
+| 1550 | 58 | Joshua |
+| 1551 | 58 | boycat3 |
 | 1552 | 58 | Bubbly Stacker |
 | 1553 | 58 | Michael Reavis |
 | 1554 | 58 | Marty Bittner |
