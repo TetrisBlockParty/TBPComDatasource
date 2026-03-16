@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 07:06:39 UTC
+# Standings for team2 as of 2026-03-16 07:07:18 UTC
 
 **Total Participants:** 2642
 
@@ -61,7 +61,7 @@
 | 53 | 1906 | Tanya Smith |
 | 54 | 1896 | Joshua Hopkins |
 | 55 | 1754 | Nick Jensen |
-| 56 | 1746 | Bubbly Twistpiece |
+| 56 | 1752 | Bubbly Twistpiece |
 | 57 | 1684 | Ultramarine |
 | 58 | 1675 | Peppy Slice |
 | 59 | 1648 | Rob Riggin |
@@ -285,13 +285,13 @@
 | 277 | 409 | Snappy Tiley |
 | 278 | 409 | Krista Roberts |
 | 279 | 406 | Jennifer Osmer Carruth |
-| 280 | 405 | Christy Merriman Addison |
-| 281 | 405 | Dee Doubleyou |
-| 282 | 405 | Nick Kozik |
-| 283 | 402 | Kate |
-| 284 | 401 | Halstead47K |
-| 285 | 400 | Ramone Armstrong |
-| 286 | 392 | Sammy |
+| 280 | 406 | Sammy |
+| 281 | 405 | Christy Merriman Addison |
+| 282 | 405 | Dee Doubleyou |
+| 283 | 405 | Nick Kozik |
+| 284 | 402 | Kate |
+| 285 | 401 | Halstead47K |
+| 286 | 400 | Ramone Armstrong |
 | 287 | 391 | Brenda A |
 | 288 | 389 | Winner |
 | 289 | 388 | Destiny Brady |
