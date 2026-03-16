@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 08:28:39 UTC
+# Standings for team1 as of 2026-03-16 08:29:17 UTC
 
 **Total Participants:** 2647
 
@@ -173,7 +173,7 @@
 | 165 | 755 | tttttttt |
 | 166 | 742 | Dramatic Tiger |
 | 167 | 736 | Amanda Diegel |
-| 168 | 723 | Duane Ficara |
+| 168 | 732 | Duane Ficara |
 | 169 | 723 | Gigglelymomof2 |
 | 170 | 720 | Darci Cline |
 | 171 | 720 | StankyP |
@@ -1466,43 +1466,43 @@
 | 1458 | 66 | DynamicQuail10 |
 | 1459 | 66 | Quirky Crawler |
 | 1460 | 66 | Emanuel Velazquez |
-| 1461 | 65 | Sonya Harris Combs |
-| 1462 | 65 | MrsBrown |
-| 1463 | 65 | Annette Bamburg |
-| 1464 | 65 | Chipper Slide |
-| 1465 | 65 | Bouncy Linefit |
-| 1466 | 65 | ChaCha |
+| 1461 | 65 | MrsBrown |
+| 1462 | 65 | Annette Bamburg |
+| 1463 | 65 | Chipper Slide |
+| 1464 | 65 | Bouncy Linefit |
+| 1465 | 65 | ChaCha |
+| 1466 | 65 | Rubi |
 | 1467 | 65 | TexasLeaguer |
 | 1468 | 65 | Emily Menard Lam |
-| 1469 | 65 | Rubi |
-| 1470 | 65 | Daisy Sunny |
-| 1471 | 65 | 805 |
+| 1469 | 65 | Daisy Sunny |
+| 1470 | 65 | 805 |
+| 1471 | 65 | Mercedes Gates |
 | 1472 | 65 | Alex Gibney |
-| 1473 | 65 | Mercedes Gates |
-| 1474 | 65 | belinda rocky |
+| 1473 | 65 | belinda rocky |
+| 1474 | 65 | Sonya Harris Combs |
 | 1475 | 64 | Kat Kath |
 | 1476 | 64 | Shane Thon |
-| 1477 | 64 | Lulu C Harp |
-| 1478 | 64 | Oscar Ferguson |
-| 1479 | 64 | Benjamin Ford |
+| 1477 | 64 | Benjamin Ford |
+| 1478 | 64 | Amy Hepler |
+| 1479 | 64 | Lulu C Harp |
 | 1480 | 64 | Kenneth Madden |
-| 1481 | 64 | Jennifer Traywick |
-| 1482 | 64 | Happy Snapline |
-| 1483 | 64 | SkullKng |
+| 1481 | 64 | Oscar Ferguson |
+| 1482 | 64 | Jennifer Traywick |
+| 1483 | 64 | Happy Snapline |
 | 1484 | 64 | Vetz Squad |
-| 1485 | 64 | Fred Dodson |
-| 1486 | 64 | Ernie Guyette |
-| 1487 | 63 | Perky Matchpiece |
-| 1488 | 63 | Amy Hepler |
-| 1489 | 63 | Linda Mccratic |
-| 1490 | 63 | Aaron Arenivaz |
-| 1491 | 63 | Rachelle Wimpey |
+| 1485 | 64 | SkullKng |
+| 1486 | 64 | Fred Dodson |
+| 1487 | 64 | Ernie Guyette |
+| 1488 | 63 | Perky Matchpiece |
+| 1489 | 63 | Rachelle Wimpey |
+| 1490 | 63 | Linda Mccratic |
+| 1491 | 63 | Aaron Arenivaz |
 | 1492 | 63 | Nicole Williams |
 | 1493 | 63 | Jeremy Wells |
-| 1494 | 63 | key |
-| 1495 | 63 | Angela Nipple |
-| 1496 | 63 | Omgitsmomma |
-| 1497 | 63 | Trish11479 |
+| 1494 | 63 | Angela Nipple |
+| 1495 | 63 | key |
+| 1496 | 63 | Trish11479 |
+| 1497 | 63 | Omgitsmomma |
 | 1498 | 63 | Belle Olguin |
 | 1499 | 63 | Vivian Cobb |
 | 1500 | 63 | Marisa Tesch |
@@ -1510,8 +1510,8 @@
 | 1502 | 63 | Lisa |
 | 1503 | 62 | SoL |
 | 1504 | 62 | GoobaGoo67 |
-| 1505 | 62 | cool kat |
-| 1506 | 62 | atomictrin |
+| 1505 | 62 | atomictrin |
+| 1506 | 62 | cool kat |
 | 1507 | 62 | zachidious1 |
 | 1508 | 62 | Princess |
 | 1509 | 62 | Whittney Nichole Malone |

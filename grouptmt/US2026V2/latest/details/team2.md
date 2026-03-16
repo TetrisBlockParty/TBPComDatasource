@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 08:28:39 UTC
+# Standings for team2 as of 2026-03-16 08:29:17 UTC
 
 **Total Participants:** 2658
 
@@ -229,17 +229,17 @@
 | 221 | 515 | Kyesha Goodyear |
 | 222 | 513 | Stacy Evans |
 | 223 | 510 | Mcg |
-| 224 | 509 | Shelly |
-| 225 | 509 | Liz Wambsgans |
-| 226 | 508 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 227 | 504 | Berklie Apedaile |
-| 228 | 500 | Johanna Massaro |
-| 229 | 498 | Peaches |
-| 230 | 495 | Jen Roe |
-| 231 | 492 | Julie Renee Long |
-| 232 | 491 | Jamie Mclean |
-| 233 | 491 | Michelle Allers |
-| 234 | 490 | Alexsa Crespo |
+| 224 | 510 | Alexsa Crespo |
+| 225 | 509 | Shelly |
+| 226 | 509 | Liz Wambsgans |
+| 227 | 508 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 228 | 504 | Berklie Apedaile |
+| 229 | 500 | Johanna Massaro |
+| 230 | 498 | Peaches |
+| 231 | 495 | Jen Roe |
+| 232 | 492 | Julie Renee Long |
+| 233 | 491 | Jamie Mclean |
+| 234 | 491 | Michelle Allers |
 | 235 | 486 | Epic Liner |
 | 236 | 485 | Jay |
 | 237 | 482 | BluBae |
@@ -304,14 +304,14 @@
 | 296 | 389 | Winner |
 | 297 | 388 | Destiny Brady |
 | 298 | 386 | Kristie |
-| 299 | 385 | Jocelyn Jauregui |
-| 300 | 383 | Tammi Crnza |
-| 301 | 383 | Jumpy Breaker |
-| 302 | 383 | Bouncy Swiper |
-| 303 | 378 | Sondra Kenny |
-| 304 | 378 | 1RiRi1 |
-| 305 | 376 | HarleyJane |
-| 306 | 376 | Lazy Twistline |
+| 299 | 386 | Lazy Twistline |
+| 300 | 385 | Jocelyn Jauregui |
+| 301 | 383 | Tammi Crnza |
+| 302 | 383 | Jumpy Breaker |
+| 303 | 383 | Bouncy Swiper |
+| 304 | 378 | Sondra Kenny |
+| 305 | 378 | 1RiRi1 |
+| 306 | 376 | HarleyJane |
 | 307 | 375 | infinimom |
 | 308 | 373 | Charde Parnell |
 | 309 | 370 | BYM4L |
@@ -646,61 +646,61 @@
 | 638 | 185 | Carla Roberson |
 | 639 | 185 | Shiny Gridmatch |
 | 640 | 185 | Joe England |
-| 641 | 185 | Marc Anthony Lopez |
-| 642 | 185 | Nilla |
+| 641 | 185 | Nilla |
+| 642 | 185 | Marc Anthony Lopez |
 | 643 | 185 | Nicole Elise |
-| 644 | 185 | Rachy77 |
-| 645 | 185 | Lewis Sturgeon |
+| 644 | 185 | Lewis Sturgeon |
+| 645 | 185 | Rachy77 |
 | 646 | 184 | Daniel Moore |
-| 647 | 183 | Luna Locke |
+| 647 | 183 | Tee Jaleesa |
 | 648 | 183 | Jess Meyers |
-| 649 | 183 | Tee Jaleesa |
+| 649 | 183 | Luna Locke |
 | 650 | 182 | Henry Lanier |
 | 651 | 182 | Prette Qui |
 | 652 | 181 | Blockyboyyy |
 | 653 | 181 | Skhan |
-| 654 | 180 | Stormy Anguish |
-| 655 | 180 | Krista Carpenter |
-| 656 | 180 | Tony Hooker |
-| 657 | 179 | Comedian Gdane |
-| 658 | 179 | KT CAT |
-| 659 | 179 | lou28 |
-| 660 | 177 | Elizabeth Blankenship |
-| 661 | 177 | Allen Spurlock |
-| 662 | 177 | Incandescent hatchet fish |
-| 663 | 177 | Nicole Lynnette Mahurin |
-| 664 | 176 | Nate Price |
+| 654 | 180 | Tony Hooker |
+| 655 | 180 | Stormy Anguish |
+| 656 | 180 | Krista Carpenter |
+| 657 | 179 | lou28 |
+| 658 | 179 | Comedian Gdane |
+| 659 | 179 | KT CAT |
+| 660 | 177 | Allen Spurlock |
+| 661 | 177 | kal |
+| 662 | 177 | Elizabeth Blankenship |
+| 663 | 177 | Incandescent hatchet fish |
+| 664 | 177 | Nicole Lynnette Mahurin |
 | 665 | 176 | Teri Oehlke |
-| 666 | 175 | Shane Gann |
-| 667 | 175 | Frisky Riseclear |
-| 668 | 175 | Cristina Black |
-| 669 | 174 | JamMY-YamMy |
-| 670 | 174 | Debbie Gerlib-Molinari Leigh |
-| 671 | 174 | Melanie Corum Reynolds |
-| 672 | 174 | Chipper Clicky |
+| 666 | 176 | Nate Price |
+| 667 | 175 | Shane Gann |
+| 668 | 175 | Frisky Riseclear |
+| 669 | 175 | Cristina Black |
+| 670 | 174 | JamMY-YamMy |
+| 671 | 174 | Debbie Gerlib-Molinari Leigh |
+| 672 | 174 | Melanie Corum Reynolds |
 | 673 | 174 | Mindy Phelps |
 | 674 | 174 | Ashley Marie Pierce |
-| 675 | 173 | Bubbly Blockmatch |
-| 676 | 173 | Armand Drayton |
-| 677 | 172 | Katie Hughes |
-| 678 | 172 | Dineisha Carpenter |
-| 679 | 172 | Nerdy Rollzone |
-| 680 | 172 | Selena Combee |
-| 681 | 171 | BusyBee11 |
+| 675 | 174 | Chipper Clicky |
+| 676 | 173 | Bubbly Blockmatch |
+| 677 | 173 | Armand Drayton |
+| 678 | 172 | Katie Hughes |
+| 679 | 172 | Selena Combee |
+| 680 | 172 | Nerdy Rollzone |
+| 681 | 172 | Dineisha Carpenter |
 | 682 | 171 | SigmaWinchester |
-| 683 | 170 | Sarah Somers Gray |
-| 684 | 170 | Quitito1014 |
-| 685 | 170 | Mookie |
-| 686 | 170 | Sunny Blockline |
-| 687 | 170 | ImmortelT |
-| 688 | 170 | Nerdy Clearer |
-| 689 | 170 | Lauren Bailey |
-| 690 | 170 | Niamh |
-| 691 | 170 | Marcie McLain Dodd |
-| 692 | 170 | Rhonda Winn Hohman |
-| 693 | 169 | Rileyy Rocket |
-| 694 | 169 | Corgi Mama |
-| 695 | 168 | kal |
+| 683 | 171 | BusyBee11 |
+| 684 | 170 | Rhonda Winn Hohman |
+| 685 | 170 | Niamh |
+| 686 | 170 | Lauren Bailey |
+| 687 | 170 | Nerdy Clearer |
+| 688 | 170 | Marcie McLain Dodd |
+| 689 | 170 | ImmortelT |
+| 690 | 170 | Sunny Blockline |
+| 691 | 170 | Mookie |
+| 692 | 170 | Quitito1014 |
+| 693 | 170 | Sarah Somers Gray |
+| 694 | 169 | Rileyy Rocket |
+| 695 | 169 | Corgi Mama |
 | 696 | 168 | Bridgett |
 | 697 | 168 | Chalanda Jefferies |
 | 698 | 167 | BugMansMom |
