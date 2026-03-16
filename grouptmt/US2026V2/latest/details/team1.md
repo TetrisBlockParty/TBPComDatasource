@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 06:42:20 UTC
+# Standings for team1 as of 2026-03-16 06:43:24 UTC
 
 **Total Participants:** 2626
 
@@ -43,8 +43,8 @@
 | 35 | 3300 | Angel Smith |
 | 36 | 3289 | Cody Walther |
 | 37 | 2949 | Justin Parker |
-| 38 | 2773 | Grace Kelly |
-| 39 | 2719 | Jordan W Hamilton |
+| 38 | 2793 | Jordan W Hamilton |
+| 39 | 2773 | Grace Kelly |
 | 40 | 2611 | Fayro |
 | 41 | 2591 | Clever Linebuilder |
 | 42 | 2579 | Stacey Larkin |
@@ -439,10 +439,10 @@
 | 431 | 266 | Julie Miller |
 | 432 | 265 | Brenda Stewart |
 | 433 | 264 | Giggy Snaplink |
-| 434 | 262 | Jaay |
-| 435 | 262 | Rob Chebetar |
-| 436 | 261 | Sallie Sanborn |
-| 437 | 261 | Anthony Scarberry |
+| 434 | 263 | Anthony Scarberry |
+| 435 | 262 | Jaay |
+| 436 | 262 | Rob Chebetar |
+| 437 | 261 | Sallie Sanborn |
 | 438 | 259 | Snappy Linkroll |
 | 439 | 259 | Swalshy |
 | 440 | 259 | Chris Alexinas |
@@ -2125,87 +2125,87 @@
 | 2117 | 26 | Poppy Snapbuild |
 | 2118 | 26 | Derrick See |
 | 2119 | 26 | Lisa Stidum |
-| 2120 | 25 | Chyrl Gerke |
-| 2121 | 25 | Farts Mcgee |
+| 2120 | 25 | Farts Mcgee |
+| 2121 | 25 | Rick Haverty |
 | 2122 | 25 | Glitzy Clear |
 | 2123 | 25 | Lori Thames |
-| 2124 | 25 | Topanga Kisman |
+| 2124 | 25 | Leon |
 | 2125 | 25 | Autry Netta |
-| 2126 | 25 | Rick Haverty |
-| 2127 | 25 | giantpanduh |
-| 2128 | 25 | AK Thor |
-| 2129 | 25 | Stephanie Elizabeth Blake |
-| 2130 | 25 | Ody |
+| 2126 | 25 | Topanga Kisman |
+| 2127 | 25 | Chyrl Gerke |
+| 2128 | 25 | giantpanduh |
+| 2129 | 25 | AK Thor |
+| 2130 | 25 | Stephanie Elizabeth Blake |
 | 2131 | 25 | Francisco Ledesma |
-| 2132 | 25 | KyleBee |
-| 2133 | 25 | Cara Baca Duarte |
-| 2134 | 25 | Cameron Burke |
-| 2135 | 25 | TheBandit |
-| 2136 | 25 | Plucky Tetriblast |
-| 2137 | 25 | Angela Newbeginings |
-| 2138 | 25 | Nerdbomb |
-| 2139 | 25 | Kandie Marie |
-| 2140 | 25 | Jessica Lang |
-| 2141 | 25 | Duaine Robinson |
-| 2142 | 25 | Tristan Taylor |
-| 2143 | 25 | Erykah |
-| 2144 | 25 | Jennifer Brown |
-| 2145 | 25 | Taquita Robinson |
-| 2146 | 25 | TOP DOG |
-| 2147 | 25 | Cecilia Thompson |
-| 2148 | 25 | Anita Miles |
-| 2149 | 24 | AsianTurtles |
-| 2150 | 24 | Peachy Linkfall |
-| 2151 | 24 | Kristen Orr |
+| 2132 | 25 | Ody |
+| 2133 | 25 | KyleBee |
+| 2134 | 25 | Cara Baca Duarte |
+| 2135 | 25 | Cameron Burke |
+| 2136 | 25 | Anita Miles |
+| 2137 | 25 | TheBandit |
+| 2138 | 25 | Cecilia Thompson |
+| 2139 | 25 | Plucky Tetriblast |
+| 2140 | 25 | TOP DOG |
+| 2141 | 25 | Angela Newbeginings |
+| 2142 | 25 | Nerdbomb |
+| 2143 | 25 | Taquita Robinson |
+| 2144 | 25 | Kandie Marie |
+| 2145 | 25 | Jennifer Brown |
+| 2146 | 25 | Erykah |
+| 2147 | 25 | Tristan Taylor |
+| 2148 | 25 | Jessica Lang |
+| 2149 | 25 | Duaine Robinson |
+| 2150 | 24 | Lazy Blockline |
+| 2151 | 24 | Jess |
 | 2152 | 24 | Justwinginit4now |
-| 2153 | 24 | Amber Bisinger |
-| 2154 | 24 | Joyce Conlin |
-| 2155 | 24 | Jess |
-| 2156 | 24 | Orlando Gdotlee Kelly |
-| 2157 | 24 | Lazy Blockline |
-| 2158 | 24 | Chirpy Setter |
-| 2159 | 24 | Sergio Salgado |
-| 2160 | 24 | Seymour Christy |
-| 2161 | 23 | Chipper Tumbler |
-| 2162 | 23 | 4girls |
-| 2163 | 23 | Lindsey Smith |
-| 2164 | 23 | Spicy Tiley |
-| 2165 | 23 | Tazz |
-| 2166 | 23 | Ashley Miller |
-| 2167 | 23 | Jill Goff |
-| 2168 | 23 | Amanda Stevens |
-| 2169 | 23 | Cucumber Melondrops |
-| 2170 | 23 | Nutty Liney |
-| 2171 | 23 | Rachel D Sellars |
-| 2172 | 23 | maddihatter |
-| 2173 | 23 | Summer Moore |
-| 2174 | 23 | Dc |
-| 2175 | 23 | Loopy Bridger |
-| 2176 | 23 | YF Luna |
-| 2177 | 22 | Pasha |
-| 2178 | 22 | Frank Smith |
-| 2179 | 22 | Jerry D Byrd |
-| 2180 | 22 | Anne Garcia |
-| 2181 | 22 | Lesley Leanne Houston |
-| 2182 | 22 | Cassie Wilson |
-| 2183 | 22 | Brave Piecebuilder |
-| 2184 | 22 | Peppy Dashpiece |
-| 2185 | 22 | Karissa McDannel |
-| 2186 | 22 | Perky Twisterfit |
-| 2187 | 22 | Amber Jackson |
-| 2188 | 22 | Leon |
+| 2153 | 24 | Kristen Orr |
+| 2154 | 24 | AsianTurtles |
+| 2155 | 24 | Peachy Linkfall |
+| 2156 | 24 | Amber Bisinger |
+| 2157 | 24 | Joyce Conlin |
+| 2158 | 24 | Orlando Gdotlee Kelly |
+| 2159 | 24 | Chirpy Setter |
+| 2160 | 24 | Sergio Salgado |
+| 2161 | 24 | Seymour Christy |
+| 2162 | 23 | Chipper Tumbler |
+| 2163 | 23 | 4girls |
+| 2164 | 23 | Lindsey Smith |
+| 2165 | 23 | Spicy Tiley |
+| 2166 | 23 | Tazz |
+| 2167 | 23 | Ashley Miller |
+| 2168 | 23 | Jill Goff |
+| 2169 | 23 | Amanda Stevens |
+| 2170 | 23 | Cucumber Melondrops |
+| 2171 | 23 | Nutty Liney |
+| 2172 | 23 | Rachel D Sellars |
+| 2173 | 23 | maddihatter |
+| 2174 | 23 | Summer Moore |
+| 2175 | 23 | Dc |
+| 2176 | 23 | Loopy Bridger |
+| 2177 | 23 | YF Luna |
+| 2178 | 22 | Karissa McDannel |
+| 2179 | 22 | Pasha |
+| 2180 | 22 | Brave Piecebuilder |
+| 2181 | 22 | Frank Smith |
+| 2182 | 22 | Jerry D Byrd |
+| 2183 | 22 | Anne Garcia |
+| 2184 | 22 | Lesley Leanne Houston |
+| 2185 | 22 | Peppy Dashpiece |
+| 2186 | 22 | Cassie Wilson |
+| 2187 | 22 | Perky Twisterfit |
+| 2188 | 22 | Amber Jackson |
 | 2189 | 22 | Kriket |
 | 2190 | 22 | Christine Delack |
-| 2191 | 21 | Rex Max |
-| 2192 | 21 | Slinky Tumbler |
-| 2193 | 21 | pinkmom |
-| 2194 | 21 | Frothy Shatterfit |
-| 2195 | 21 | Henry Henry |
-| 2196 | 21 | Nicole Casey Langley |
-| 2197 | 21 | Tommy April Rodriguez |
-| 2198 | 21 | Scott Hein |
-| 2199 | 21 | Octavia Bryson |
-| 2200 | 21 | Tracy Day |
+| 2191 | 21 | pinkmom |
+| 2192 | 21 | Rex Max |
+| 2193 | 21 | Slinky Tumbler |
+| 2194 | 21 | Tracy Day |
+| 2195 | 21 | Frothy Shatterfit |
+| 2196 | 21 | Henry Henry |
+| 2197 | 21 | Nicole Casey Langley |
+| 2198 | 21 | Tommy April Rodriguez |
+| 2199 | 21 | Scott Hein |
+| 2200 | 21 | Octavia Bryson |
 | 2201 | 21 | Debie Reid |
 | 2202 | 21 | Ethan Cox |
 | 2203 | 21 | Mary Finn |
@@ -2215,15 +2215,15 @@
 | 2207 | 21 | Lori Mccool |
 | 2208 | 21 | Kevin Reese |
 | 2209 | 21 | Giggy Balancer |
-| 2210 | 20 | Michael Anthony |
+| 2210 | 20 | Susan Kathleen |
 | 2211 | 20 | Nutty Brickbuilder |
-| 2212 | 20 | Cass Simpson |
+| 2212 | 20 | Str8jaKkeT |
 | 2213 | 20 | Kenya Anderson |
-| 2214 | 20 | Str8jaKkeT |
+| 2214 | 20 | Cass Simpson |
 | 2215 | 20 | Gary Kyle |
 | 2216 | 20 | Michele Kleven-Simon |
 | 2217 | 20 | Frothy Cascade |
-| 2218 | 20 | Susan Kathleen |
+| 2218 | 20 | Michael Anthony |
 | 2219 | 20 | Flashy Wipeblock |
 | 2220 | 20 | Fareti |
 | 2221 | 20 | Milton Jenkins Jr. |
