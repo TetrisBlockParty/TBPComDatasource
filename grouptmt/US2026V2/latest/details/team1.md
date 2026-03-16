@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 08:49:21 UTC
+# Standings for team1 as of 2026-03-16 08:50:22 UTC
 
 **Total Participants:** 2649
 
@@ -106,19 +106,19 @@
 | 98 | 1202 | Mary Pelley |
 | 99 | 1193 | FancyPants |
 | 100 | 1183 | Jess Dearborn |
-| 101 | 1180 | Amber Zeller Rice |
-| 102 | 1180 | Michael DeRosa |
+| 101 | 1180 | Michael DeRosa |
+| 102 | 1180 | Amber Zeller Rice |
 | 103 | 1165 | Porshe Garthwaite |
 | 104 | 1151 | Jeremy Stiltner |
 | 105 | 1149 | Jay Aye |
 | 106 | 1146 | Cassandra Latimore |
-| 107 | 1124 | Mikitta Calvin |
-| 108 | 1120 | Walker Patterson |
-| 109 | 1118 | Ellie Bein |
-| 110 | 1108 | Zach Thompson |
-| 111 | 1100 | Shannon Ferrari |
-| 112 | 1091 | Sarah Durmer |
-| 113 | 1088 | Sleepypanda67 |
+| 107 | 1136 | Sleepypanda67 |
+| 108 | 1124 | Mikitta Calvin |
+| 109 | 1120 | Walker Patterson |
+| 110 | 1118 | Ellie Bein |
+| 111 | 1108 | Zach Thompson |
+| 112 | 1100 | Shannon Ferrari |
+| 113 | 1091 | Sarah Durmer |
 | 114 | 1076 | 1_Roxanne_3 |
 | 115 | 1071 | Letson Melissa |
 | 116 | 1064 | Macy Williams |
@@ -185,24 +185,24 @@
 | 177 | 693 | Kat Mfm Kaul |
 | 178 | 690 | Giddy Balancepiece |
 | 179 | 687 | Matt Aguilar |
-| 180 | 683 | Dustin Rouse |
-| 181 | 683 | Kim Bays |
-| 182 | 682 | Perky Shatterline |
-| 183 | 668 | Simmone T. Kadiri |
-| 184 | 667 | TexasLise |
-| 185 | 656 | Shawn Kelso |
-| 186 | 653 | Snippy Stacky |
+| 180 | 684 | Kris Koepke |
+| 181 | 683 | Dustin Rouse |
+| 182 | 683 | Kim Bays |
+| 183 | 682 | Perky Shatterline |
+| 184 | 668 | Simmone T. Kadiri |
+| 185 | 667 | TexasLise |
+| 186 | 656 | Shawn Kelso |
 | 187 | 653 | Crafty Tilebuilder |
-| 188 | 652 | Chris Wanner |
-| 189 | 650 | Sassy Cascadepiece |
-| 190 | 649 | DeeBee |
-| 191 | 645 | Alicia Parrish |
-| 192 | 641 | Crafty Dash |
-| 193 | 638 | Chrys Peters |
-| 194 | 630 | Ramona Gulledge |
-| 195 | 629 | Fairrun James |
-| 196 | 629 | Melissa Goerner |
-| 197 | 623 | Kris Koepke |
+| 188 | 653 | Snippy Stacky |
+| 189 | 652 | Chris Wanner |
+| 190 | 650 | Sassy Cascadepiece |
+| 191 | 649 | DeeBee |
+| 192 | 645 | Alicia Parrish |
+| 193 | 641 | Crafty Dash |
+| 194 | 638 | Chrys Peters |
+| 195 | 630 | Ramona Gulledge |
+| 196 | 629 | Fairrun James |
+| 197 | 629 | Melissa Goerner |
 | 198 | 622 | Mighty Patternbuilder |
 | 199 | 621 | Dizzy Pattern |
 | 200 | 615 | Alex Hennigh |
@@ -301,11 +301,11 @@
 | 293 | 393 | Jasmine Riley |
 | 294 | 393 | Amers |
 | 295 | 392 | Bribrobra |
-| 296 | 390 | Sissy Lowery Davis |
-| 297 | 390 | Hasty Towerpiece |
-| 298 | 389 | Twisty Snapfit |
-| 299 | 389 | John Gardner |
-| 300 | 388 | Boldy Clear |
+| 296 | 391 | Boldy Clear |
+| 297 | 390 | Sissy Lowery Davis |
+| 298 | 390 | Hasty Towerpiece |
+| 299 | 389 | Twisty Snapfit |
+| 300 | 389 | John Gardner |
 | 301 | 388 | JV Yu |
 | 302 | 387 | Mykal Burton |
 | 303 | 385 | Jena Overall Prescott |
@@ -662,64 +662,64 @@
 | 654 | 180 | Kay Alifi |
 | 655 | 180 | Jessica Russell |
 | 656 | 179 | ssr |
-| 657 | 178 | Peachy Curvetile |
+| 657 | 178 | Jessica |
 | 658 | 178 | Kakalina Thayer |
-| 659 | 178 | Jessica |
+| 659 | 178 | Peachy Curvetile |
 | 660 | 178 | Vergie Michael |
 | 661 | 178 | Snazzy Rotater |
 | 662 | 177 | Logan McFarland |
 | 663 | 177 | Speedy Liney |
-| 664 | 176 | cheeryPrincess |
-| 665 | 176 | Christina Davis |
+| 664 | 176 | Christina Davis |
+| 665 | 176 | cheeryPrincess |
 | 666 | 176 | Candace Fielder |
 | 667 | 175 | Shaunie Miller |
 | 668 | 175 | Erin Green |
-| 669 | 175 | Cynthia Herrmann Egland |
-| 670 | 175 | Alexis Vogel |
+| 669 | 175 | Alexis Vogel |
+| 670 | 175 | Cynthia Herrmann Egland |
 | 671 | 175 | Carl Leonard |
-| 672 | 174 | Lee Sipelii |
-| 673 | 174 | Jeremy Mitchell |
-| 674 | 174 | Dusti Byrd |
-| 675 | 174 | Bouncy Tilerpiece |
-| 676 | 174 | BostonCrypto |
-| 677 | 174 | Connor Jurzynski |
-| 678 | 173 | dustin b |
-| 679 | 173 | Hobson Lopes |
+| 672 | 174 | Jeremy Mitchell |
+| 673 | 174 | Jessica |
+| 674 | 174 | Lee Sipelii |
+| 675 | 174 | Dusti Byrd |
+| 676 | 174 | Bouncy Tilerpiece |
+| 677 | 174 | BostonCrypto |
+| 678 | 174 | Connor Jurzynski |
+| 679 | 173 | dustin b |
 | 680 | 173 | Leah LaShomb |
-| 681 | 173 | Adam McMakin |
-| 682 | 173 | Berenice |
-| 683 | 173 | Carl Hampton |
-| 684 | 172 | Kirstian Taylor Grimsley |
-| 685 | 172 | Nick Kozdron |
-| 686 | 172 | Yang Desu |
-| 687 | 172 | Bubba_C59 |
-| 688 | 172 | Adele Rahman |
-| 689 | 171 | Jester |
-| 690 | 171 | Will Fulmer |
-| 691 | 171 | Jessica |
-| 692 | 171 | Glitzy Builderline |
-| 693 | 171 | Heather Bowser |
-| 694 | 171 | Lisa Klockenga |
-| 695 | 170 | Ernesto Chavera |
+| 681 | 173 | Hobson Lopes |
+| 682 | 173 | Adam McMakin |
+| 683 | 173 | Berenice |
+| 684 | 173 | Carl Hampton |
+| 685 | 172 | Kirstian Taylor Grimsley |
+| 686 | 172 | Nick Kozdron |
+| 687 | 172 | Yang Desu |
+| 688 | 172 | Bubba_C59 |
+| 689 | 172 | Adele Rahman |
+| 690 | 171 | Lisa Klockenga |
+| 691 | 171 | Jester |
+| 692 | 171 | Will Fulmer |
+| 693 | 171 | Glitzy Builderline |
+| 694 | 171 | Heather Bowser |
+| 695 | 170 | J. |
 | 696 | 170 | Justin Reed |
-| 697 | 170 | J. |
+| 697 | 170 | Ernesto Chavera |
 | 698 | 170 | Christi Ames |
 | 699 | 169 | Joshua Lipscomb |
 | 700 | 169 | Damion Woods |
 | 701 | 169 | Stacy Rodriguez |
 | 702 | 168 | LaRon R. Gadlen |
-| 703 | 168 | Amanda Pauldo-Ivy |
-| 704 | 168 | Scarlett |
-| 705 | 168 | SLAPNUTZ |
+| 703 | 168 | SLAPNUTZ |
+| 704 | 168 | Amanda Pauldo-Ivy |
+| 705 | 168 | Scarlett |
 | 706 | 167 | Jacob Phillips |
 | 707 | 166 | Cozy Cascader |
 | 708 | 165 | Matt Morrow |
 | 709 | 165 | Jessi Godsey |
-| 710 | 164 | tay |
-| 711 | 164 | Lauren Bond |
-| 712 | 164 | Ambrosia Natas Danu |
-| 713 | 164 | Shay J Duval |
-| 714 | 164 | Terika Rodriguez |
+| 710 | 164 | Shay J Duval |
+| 711 | 164 | Ambrosia Natas Danu |
+| 712 | 164 | Lauren Bond |
+| 713 | 164 | Terika Rodriguez |
+| 714 | 164 | tay |
 | 715 | 164 | Alexis Garcia |
 | 716 | 164 | WEIRDINO |
 | 717 | 163 | Happy Snapbuild |
@@ -843,42 +843,42 @@
 | 835 | 138 | Robert Earl Harper III |
 | 836 | 138 | Christopher Cunningham |
 | 837 | 138 | Melsap #8284 |
-| 838 | 137 | Ruhshikuh Lakor |
-| 839 | 137 | Shannon Tannehill |
-| 840 | 137 | Jason Wreggitt |
-| 841 | 137 | Loony Spinzone |
-| 842 | 136 | Ashley Kostek |
-| 843 | 136 | Slinky Stacky |
-| 844 | 135 | Gwenda Wright |
+| 838 | 137 | Shannon Tannehill |
+| 839 | 137 | Ruhshikuh Lakor |
+| 840 | 137 | Matt Mullinax |
+| 841 | 137 | Jason Wreggitt |
+| 842 | 137 | Loony Spinzone |
+| 843 | 136 | Ashley Kostek |
+| 844 | 136 | Slinky Stacky |
 | 845 | 135 | Larry Jackson |
-| 846 | 135 | April Bennett |
-| 847 | 135 | Michael Phillips |
-| 848 | 135 | Juan Pena |
-| 849 | 135 | Bigd486 |
-| 850 | 135 | BugsMama |
-| 851 | 135 | Robert |
-| 852 | 135 | Michael-Melissa Markham |
-| 853 | 135 | Matt Mullinax |
-| 854 | 135 | cac |
-| 855 | 135 | Alana Susan Hanley |
+| 846 | 135 | Michael Phillips |
+| 847 | 135 | April Bennett |
+| 848 | 135 | Gwenda Wright |
+| 849 | 135 | Juan Pena |
+| 850 | 135 | Bigd486 |
+| 851 | 135 | BugsMama |
+| 852 | 135 | Robert |
+| 853 | 135 | cac |
+| 854 | 135 | Alana Susan Hanley |
+| 855 | 135 | Michael-Melissa Markham |
 | 856 | 134 | David Lowe |
-| 857 | 134 | Travis Taylor |
-| 858 | 134 | Chin lock |
+| 857 | 134 | Katelyn B. Pritchard |
+| 858 | 134 | Dan Engelhard |
 | 859 | 134 | Sabrina Mansfield |
-| 860 | 134 | Dan Engelhard |
-| 861 | 134 | Katelyn B. Pritchard |
-| 862 | 133 | Tim Doxtator |
+| 860 | 134 | Travis Taylor |
+| 861 | 134 | Chin lock |
+| 862 | 133 | Going Gone |
 | 863 | 133 | Jonathan Morgan-Hoare |
-| 864 | 133 | Going Gone |
-| 865 | 132 | Paul Brian Angelo Egango |
-| 866 | 132 | Boldy Twisterfit |
+| 864 | 133 | Tim Doxtator |
+| 865 | 132 | Boldy Twisterfit |
+| 866 | 132 | Donna |
 | 867 | 132 | svsninja |
-| 868 | 132 | Donna |
+| 868 | 132 | Paul Brian Angelo Egango |
 | 869 | 132 | Happy Blocky |
 | 870 | 132 | Melissa Arrellano |
 | 871 | 132 | Cool Base |
-| 872 | 131 | Brittney Groler |
-| 873 | 131 | Angela |
+| 872 | 131 | Angela |
+| 873 | 131 | Brittney Groler |
 | 874 | 131 | Tim Slone |
 | 875 | 131 | DeJuan Green |
 | 876 | 131 | Alex Nicol |
