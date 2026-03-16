@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 07:00:40 UTC
+# Standings for team1 as of 2026-03-16 07:01:20 UTC
 
 **Total Participants:** 2631
 
@@ -441,11 +441,11 @@
 | 433 | 266 | Kehlyn King |
 | 434 | 265 | Brenda Stewart |
 | 435 | 264 | Giggy Snaplink |
-| 436 | 263 | Anthony Scarberry |
-| 437 | 262 | Rob Chebetar |
-| 438 | 262 | Jaay |
-| 439 | 262 | Rose Anna |
-| 440 | 261 | Epic Rollbuilder |
+| 436 | 263 | Epic Rollbuilder |
+| 437 | 263 | Anthony Scarberry |
+| 438 | 262 | Rob Chebetar |
+| 439 | 262 | Jaay |
+| 440 | 262 | Rose Anna |
 | 441 | 261 | Sallie Sanborn |
 | 442 | 259 | Cassi Owens |
 | 443 | 259 | Swalshy |
@@ -464,15 +464,15 @@
 | 456 | 253 | Julie Seal |
 | 457 | 252 | Tausha Mathews |
 | 458 | 252 | Jonathan Gaffaney |
-| 459 | 251 | Andie Galindo |
-| 460 | 251 | PennyCandee |
+| 459 | 251 | PennyCandee |
+| 460 | 251 | Andie Galindo |
 | 461 | 251 | David Zeimer |
 | 462 | 250 | Jimmy Shannon |
 | 463 | 250 | Noah |
 | 464 | 249 | Loopy Brickmatch |
 | 465 | 249 | Hasty Lift |
-| 466 | 248 | Bink |
-| 467 | 248 | Chilly Faller |
+| 466 | 248 | Chilly Faller |
+| 467 | 248 | Bink |
 | 468 | 247 | Bearman |
 | 469 | 247 | freakyjoe |
 | 470 | 246 | Dizzy Glidebuilder |
@@ -485,13 +485,13 @@
 | 477 | 241 | Sassy Pivotfall |
 | 478 | 240 | Brenda L. Bunce |
 | 479 | 240 | Ash Galvan |
-| 480 | 240 | Fancy Towerfall |
-| 481 | 239 | Christie Lucas |
+| 480 | 240 | Maxwell Hall |
+| 481 | 240 | Fancy Towerfall |
 | 482 | 239 | Random |
-| 483 | 239 | Peachy Brick |
-| 484 | 239 | Stormy May |
-| 485 | 239 | Donna McGowan |
-| 486 | 237 | Maxwell Hall |
+| 483 | 239 | Christie Lucas |
+| 484 | 239 | Peachy Brick |
+| 485 | 239 | Stormy May |
+| 486 | 239 | Donna McGowan |
 | 487 | 237 | Joyce Harrell-chavis |
 | 488 | 237 | Zany Mover |
 | 489 | 236 | Raheem Young |
@@ -1134,12 +1134,12 @@
 | 1126 | 95 | Frilly T-spin |
 | 1127 | 95 | Sasha Priddy |
 | 1128 | 95 | Tasha Jasmin |
-| 1129 | 94 | Franky |
-| 1130 | 94 | Mechelle Bailum |
-| 1131 | 94 | Bill Frederick |
-| 1132 | 94 | Jennifer Bunker |
-| 1133 | 94 | Shelly Cunningham |
-| 1134 | 94 | Danielle Longoria |
+| 1129 | 95 | Danielle Longoria |
+| 1130 | 94 | Franky |
+| 1131 | 94 | Mechelle Bailum |
+| 1132 | 94 | Bill Frederick |
+| 1133 | 94 | Jennifer Bunker |
+| 1134 | 94 | Shelly Cunningham |
 | 1135 | 94 | Jordan Ward |
 | 1136 | 94 | Johnnette Kruse |
 | 1137 | 94 | Katie Stenblom |
