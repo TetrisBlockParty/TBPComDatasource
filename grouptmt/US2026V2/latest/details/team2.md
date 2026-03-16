@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 10:18:44 UTC
+# Standings for team2 as of 2026-03-16 10:19:21 UTC
 
 **Total Participants:** 2675
 
@@ -96,7 +96,7 @@
 | 88 | 1296 | Jumpy Smasher |
 | 89 | 1293 | Emarie |
 | 90 | 1289 | Adam Charles |
-| 91 | 1282 | Suffia Alexander |
+| 91 | 1288 | Suffia Alexander |
 | 92 | 1267 | Cheery Dropper |
 | 93 | 1256 | Goofy Linkmatch |
 | 94 | 1253 | TETRIS |
@@ -117,8 +117,8 @@
 | 109 | 993 | Autumn Leslie |
 | 110 | 967 | Jumpy Filler |
 | 111 | 966 | Arnae Draughon |
-| 112 | 964 | Gael |
-| 113 | 959 | Liana Spikes |
+| 112 | 964 | Liana Spikes |
+| 113 | 964 | Gael |
 | 114 | 956 | ddd |
 | 115 | 956 | Dandy Crasher |
 | 116 | 953 | Sara Morgan |
@@ -193,18 +193,18 @@
 | 185 | 618 | Dreamy Towerbuilder |
 | 186 | 616 | Jocelynn Marie |
 | 187 | 616 | Cw |
-| 188 | 608 | Jesse Olive |
-| 189 | 605 | Ebo Got-Time |
-| 190 | 603 | Liss Lint |
-| 191 | 602 | Frisky Gridpiece |
-| 192 | 598 | Jami Howard |
-| 193 | 594 | LolaSmilez |
-| 194 | 589 | Foxy |
-| 195 | 586 | Christina Ramirez |
-| 196 | 581 | Amber Lashbrook |
-| 197 | 580 | CSOTYS |
-| 198 | 580 | Faith Adrienne Verret Page |
-| 199 | 579 | Jeff Lewis |
+| 188 | 609 | Jeff Lewis |
+| 189 | 608 | Jesse Olive |
+| 190 | 605 | Ebo Got-Time |
+| 191 | 603 | Liss Lint |
+| 192 | 602 | Frisky Gridpiece |
+| 193 | 598 | Jami Howard |
+| 194 | 594 | LolaSmilez |
+| 195 | 589 | Foxy |
+| 196 | 586 | Christina Ramirez |
+| 197 | 581 | Amber Lashbrook |
+| 198 | 580 | CSOTYS |
+| 199 | 580 | Faith Adrienne Verret Page |
 | 200 | 578 | 🍏 Green apple |
 | 201 | 578 | DanesMama |
 | 202 | 570 | Dre Man |
@@ -593,28 +593,28 @@
 | 585 | 205 | Frisky Zonepiece |
 | 586 | 205 | Sam Hall |
 | 587 | 205 | Emilie Creswell |
-| 588 | 204 | Lively Blockroll |
-| 589 | 204 | Pippa45 |
-| 590 | 204 | Rachel Anne |
-| 591 | 204 | Leslie Clark |
-| 592 | 204 | Ash Whitley |
-| 593 | 204 | Weeping Angel |
-| 594 | 203 | Witty T-spin |
-| 595 | 203 | Anthony Magaraci |
-| 596 | 203 | Nicole McLean |
-| 597 | 203 | Melissa M Wolfe |
-| 598 | 203 | Daniel Moore |
-| 599 | 202 | Crystal Brown-Miles |
+| 588 | 204 | Daniel Moore |
+| 589 | 204 | Lively Blockroll |
+| 590 | 204 | Pippa45 |
+| 591 | 204 | Rachel Anne |
+| 592 | 204 | Weeping Angel |
+| 593 | 204 | Ash Whitley |
+| 594 | 204 | Leslie Clark |
+| 595 | 204 | Lora Allen |
+| 596 | 203 | Witty T-spin |
+| 597 | 203 | Anthony Magaraci |
+| 598 | 203 | Nicole McLean |
+| 599 | 203 | Melissa M Wolfe |
 | 600 | 202 | Wishabishwood |
-| 601 | 200 | DeathToBizzle |
-| 602 | 200 | Cheeky Dashy |
-| 603 | 200 | Rhonda Prince |
+| 601 | 202 | Crystal Brown-Miles |
+| 602 | 200 | DeathToBizzle |
+| 603 | 200 | Cheeky Dashy |
 | 604 | 200 | Epic Wipebuilder |
-| 605 | 200 | Kristin Montoya |
-| 606 | 200 | Paula Marcus Delsigne |
-| 607 | 199 | Cheeky Clearbuilder |
-| 608 | 198 | Danielle Thompkins |
-| 609 | 198 | Lora Allen |
+| 605 | 200 | Rhonda Prince |
+| 606 | 200 | Kristin Montoya |
+| 607 | 200 | Paula Marcus Delsigne |
+| 608 | 199 | Cheeky Clearbuilder |
+| 609 | 198 | Danielle Thompkins |
 | 610 | 198 | Lindsay Parenti |
 | 611 | 198 | BendersMomma |
 | 612 | 197 | Cathleena Giusto |

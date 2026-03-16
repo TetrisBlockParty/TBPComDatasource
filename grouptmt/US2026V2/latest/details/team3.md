@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-16 10:18:44 UTC
+# Standings for team3 as of 2026-03-16 10:19:21 UTC
 
 **Total Participants:** 4187
 
@@ -289,9 +289,9 @@
 | 281 | 696 | FurryRanger |
 | 282 | 688 | Jim Hetherington |
 | 283 | 683 | Gee_Baybee |
-| 284 | 676 | AISlop |
-| 285 | 675 | Latisha Davis |
-| 286 | 674 | Cleo Sims |
+| 284 | 677 | Cleo Sims |
+| 285 | 676 | AISlop |
+| 286 | 675 | Latisha Davis |
 | 287 | 670 | diz |
 | 288 | 669 | Xarandom |
 | 289 | 668 | Trodogg |
@@ -312,8 +312,8 @@
 | 304 | 629 | Shelby |
 | 305 | 628 | abe |
 | 306 | 628 | Quirky Liney |
-| 307 | 623 | Barbara Champayne Sanford |
-| 308 | 623 | Annette R Fraire-Martinez |
+| 307 | 623 | Annette R Fraire-Martinez |
+| 308 | 623 | Barbara Champayne Sanford |
 | 309 | 618 | Crystal Priest |
 | 310 | 603 | Jason West |
 | 311 | 601 | Dreamy Shifter |
@@ -784,14 +784,14 @@
 | 776 | 230 | Tony Davis |
 | 777 | 229 | Abigail Julian |
 | 778 | 229 | fitzyboy |
-| 779 | 228 | Breezy Clusterer |
-| 780 | 228 | ktothet |
-| 781 | 228 | party pooch |
-| 782 | 228 | Dawn L Washington-Feuquay |
-| 783 | 227 | James Nelms |
-| 784 | 227 | Shellyann Bond |
-| 785 | 227 | Kendra Tacker |
-| 786 | 227 | Sunny Zoney |
+| 779 | 229 | James Nelms |
+| 780 | 228 | party pooch |
+| 781 | 228 | Dawn L Washington-Feuquay |
+| 782 | 228 | Breezy Clusterer |
+| 783 | 228 | ktothet |
+| 784 | 227 | Kendra Tacker |
+| 785 | 227 | Sunny Zoney |
+| 786 | 227 | Shellyann Bond |
 | 787 | 226 | Haven Davis |
 | 788 | 226 | Brittany Lynn Sass |
 | 789 | 226 | LeahSlayah |
@@ -817,15 +817,15 @@
 | 809 | 221 | Linda L Gilbert |
 | 810 | 221 | Brianne Kubeczka |
 | 811 | 221 | Mikes Girl |
-| 812 | 220 | Silly Patterner |
-| 813 | 220 | Ronald Brown Jr. |
-| 814 | 220 | Cindy Cronin |
-| 815 | 220 | Zachera Jta |
-| 816 | 220 | Anni |
-| 817 | 220 | Peachy Tiltpiece |
-| 818 | 220 | Courtney |
-| 819 | 220 | lashanda |
-| 820 | 220 | Clever Snapfall |
+| 812 | 220 | Cindy Cronin |
+| 813 | 220 | Zachera Jta |
+| 814 | 220 | Anni |
+| 815 | 220 | Peachy Tiltpiece |
+| 816 | 220 | Courtney |
+| 817 | 220 | lashanda |
+| 818 | 220 | Clever Snapfall |
+| 819 | 220 | Silly Patterner |
+| 820 | 220 | Ronald Brown Jr. |
 | 821 | 219 | Tammy Martinez |
 | 822 | 219 | Earvin Smiley |
 | 823 | 219 | Rachel Nilles |
@@ -2354,137 +2354,137 @@
 | 2346 | 64 | Tatiana Marie |
 | 2347 | 64 | Mahdi J Bey |
 | 2348 | 64 | Cassandra Curl |
-| 2349 | 63 | Chance Brown |
-| 2350 | 63 | CoachG |
+| 2349 | 63 | CoachG |
+| 2350 | 63 | Chance Brown |
 | 2351 | 63 | Bambi Jones |
 | 2352 | 63 | Llewej Rekab |
 | 2353 | 63 | Cali |
 | 2354 | 63 | Lorena Guerrero-Barron |
 | 2355 | 63 | Happy Lift |
-| 2356 | 63 | Sheryl |
-| 2357 | 63 | Montana |
+| 2356 | 63 | Maggie Switzer |
+| 2357 | 63 | Sheryl |
 | 2358 | 63 | Pandora Massey McLendon |
-| 2359 | 63 | Kelly Hall Whitt |
-| 2360 | 63 | Eric Quan |
-| 2361 | 63 | Leslie Ann |
-| 2362 | 63 | Becky Crooms |
-| 2363 | 63 | Blondie |
-| 2364 | 63 | Leena |
-| 2365 | 63 | Sal Lei Johnson |
-| 2366 | 63 | Sherri Shattuck Sigmund |
-| 2367 | 63 | Mandy Hanford |
-| 2368 | 63 | Fancy Twist |
-| 2369 | 63 | CraftyChick |
-| 2370 | 63 | Dawne Bailey |
-| 2371 | 63 | Marcey Peneaux |
-| 2372 | 63 | Gibs |
-| 2373 | 63 | Bouncy Linkroll |
-| 2374 | 62 | Jolly Strikerbuilder |
-| 2375 | 62 | windy257 |
-| 2376 | 62 | Rachel Gamble |
-| 2377 | 62 | Rvyasis |
-| 2378 | 62 | Giddy Gridlock |
-| 2379 | 62 | Mya Johnson |
-| 2380 | 62 | Brittany Jorgensen |
-| 2381 | 62 | Julie Sigmon |
-| 2382 | 62 | Hoppy Brickline |
-| 2383 | 62 | Twisty Tiler |
-| 2384 | 62 | Mighty Spinfit |
-| 2385 | 62 | Speedy Tetriblast |
-| 2386 | 62 | Brittney Harp |
-| 2387 | 62 | Jermell Beatty |
-| 2388 | 62 | Kathy Murphy |
-| 2389 | 62 | Dandy Cascadebuilder |
-| 2390 | 62 | Tiziana Pedone |
-| 2391 | 62 | Lindsey Black |
-| 2392 | 62 | Dena Nagel Manley |
-| 2393 | 61 | Tyleah Longmire |
-| 2394 | 61 | Kane |
-| 2395 | 61 | 4llycat26 |
-| 2396 | 61 | Polo Jeffries |
-| 2397 | 61 | Lauren Conners |
-| 2398 | 61 | Ashley Eiler |
-| 2399 | 61 | Taylor Sutherland |
-| 2400 | 61 | Melissa |
-| 2401 | 61 | Alberta Beaudion |
-| 2402 | 61 | countrymomma2 |
-| 2403 | 61 | beebee |
-| 2404 | 61 | Giddy Spinbuilder |
-| 2405 | 61 | cbarrera102 |
-| 2406 | 60 | Clever Linkbuilder |
-| 2407 | 60 | Trina T |
+| 2359 | 63 | Montana |
+| 2360 | 63 | Kelly Hall Whitt |
+| 2361 | 63 | Eric Quan |
+| 2362 | 63 | Leslie Ann |
+| 2363 | 63 | Becky Crooms |
+| 2364 | 63 | Blondie |
+| 2365 | 63 | Leena |
+| 2366 | 63 | Sal Lei Johnson |
+| 2367 | 63 | Sherri Shattuck Sigmund |
+| 2368 | 63 | Mandy Hanford |
+| 2369 | 63 | Fancy Twist |
+| 2370 | 63 | CraftyChick |
+| 2371 | 63 | Dawne Bailey |
+| 2372 | 63 | Marcey Peneaux |
+| 2373 | 63 | Gibs |
+| 2374 | 63 | Bouncy Linkroll |
+| 2375 | 62 | Jolly Strikerbuilder |
+| 2376 | 62 | windy257 |
+| 2377 | 62 | Rachel Gamble |
+| 2378 | 62 | Rvyasis |
+| 2379 | 62 | Giddy Gridlock |
+| 2380 | 62 | Mya Johnson |
+| 2381 | 62 | Brittany Jorgensen |
+| 2382 | 62 | Julie Sigmon |
+| 2383 | 62 | Hoppy Brickline |
+| 2384 | 62 | Twisty Tiler |
+| 2385 | 62 | Mighty Spinfit |
+| 2386 | 62 | Speedy Tetriblast |
+| 2387 | 62 | Brittney Harp |
+| 2388 | 62 | Jermell Beatty |
+| 2389 | 62 | Kathy Murphy |
+| 2390 | 62 | Dandy Cascadebuilder |
+| 2391 | 62 | Tiziana Pedone |
+| 2392 | 62 | Lindsey Black |
+| 2393 | 62 | Dena Nagel Manley |
+| 2394 | 61 | Tyleah Longmire |
+| 2395 | 61 | Kane |
+| 2396 | 61 | 4llycat26 |
+| 2397 | 61 | Polo Jeffries |
+| 2398 | 61 | Lauren Conners |
+| 2399 | 61 | Ashley Eiler |
+| 2400 | 61 | Taylor Sutherland |
+| 2401 | 61 | Melissa |
+| 2402 | 61 | Alberta Beaudion |
+| 2403 | 61 | countrymomma2 |
+| 2404 | 61 | beebee |
+| 2405 | 61 | Giddy Spinbuilder |
+| 2406 | 61 | cbarrera102 |
+| 2407 | 60 | Clever Linkbuilder |
 | 2408 | 60 | Jeanie Pendergrast |
-| 2409 | 60 | Lush Link |
-| 2410 | 60 | Becky Intrabartolo |
-| 2411 | 60 | Ben Erwin |
-| 2412 | 60 | MELAKNEE |
-| 2413 | 60 | Momma Bair |
-| 2414 | 60 | Bobo |
-| 2415 | 60 | wewoo |
-| 2416 | 60 | Katie Reece Mosley |
-| 2417 | 60 | Big kris |
-| 2418 | 60 | Tinkywitch2003 |
-| 2419 | 60 | Jessica Betz |
-| 2420 | 60 | Rose Luvisi |
-| 2421 | 60 | Kara Tolbert |
-| 2422 | 60 | Dreams |
-| 2423 | 60 | Amanda Schweitzer |
-| 2424 | 60 | Chilly Bridgepiece |
-| 2425 | 60 | Clever Strikesnap |
-| 2426 | 60 | Roberta Cookson |
-| 2427 | 60 | Jay Blain |
-| 2428 | 60 | MamaCe216 |
-| 2429 | 60 | Meg |
-| 2430 | 60 | Rick Capo |
-| 2431 | 60 | Erin Ervin |
-| 2432 | 60 | Kilo Wilzon |
-| 2433 | 60 | Silly Striker |
-| 2434 | 60 | Roxann Preece |
-| 2435 | 60 | SithLord |
-| 2436 | 60 | Rebecca Dondlinger |
-| 2437 | 60 | Samantha Rowe |
-| 2438 | 60 | Tina Winger |
-| 2439 | 60 | Tina Lopez |
-| 2440 | 60 | Kasandra Giamporcaro |
-| 2441 | 60 | Mike Medlin |
-| 2442 | 60 | Althaea Frost Ambrose |
-| 2443 | 60 | Joe Spingler |
-| 2444 | 60 | Melissa Bellamy |
-| 2445 | 60 | Kisha Fish Gripp |
-| 2446 | 60 | Amber Dawn Laird |
-| 2447 | 60 | Snazzy Dashy |
-| 2448 | 60 | Seraphina Childress |
-| 2449 | 60 | Dave Gowan |
-| 2450 | 60 | MamaT |
-| 2451 | 60 | squirrel |
-| 2452 | 60 | Carrie Huskey |
-| 2453 | 60 | Seanky tiler |
-| 2454 | 60 | Stacy C. Privott |
-| 2455 | 60 | Alicia West |
-| 2456 | 60 | Patty Case Shaffer |
-| 2457 | 60 | sunnypinktink |
-| 2458 | 60 | River |
-| 2459 | 60 | Dan Warnken |
-| 2460 | 59 | Kaymxo |
-| 2461 | 59 | Amanda Besancon |
-| 2462 | 59 | CeeCeeOnna |
-| 2463 | 59 | Penelope |
-| 2464 | 59 | Danielle O'Donnell |
-| 2465 | 59 | Jordan Nicole |
-| 2466 | 59 | Cheeky Slammer |
-| 2467 | 59 | Melissa Keller |
-| 2468 | 59 | Martin Dillon |
-| 2469 | 59 | Char Pretty Mills |
-| 2470 | 59 | Hannah Marie |
-| 2471 | 59 | Plucky Linkgrid |
-| 2472 | 59 | Steven |
-| 2473 | 59 | Risha |
-| 2474 | 59 | Bouncy Splitter |
-| 2475 | 59 | Shelley Costlow |
-| 2476 | 59 | Jessica Lynn Faulknor |
-| 2477 | 59 | Kelsey Mackenzie |
+| 2409 | 60 | Katie Reece Mosley |
+| 2410 | 60 | Lush Link |
+| 2411 | 60 | Momma Bair |
+| 2412 | 60 | Trina T |
+| 2413 | 60 | Becky Intrabartolo |
+| 2414 | 60 | Ben Erwin |
+| 2415 | 60 | MELAKNEE |
+| 2416 | 60 | Bobo |
+| 2417 | 60 | wewoo |
+| 2418 | 60 | Big kris |
+| 2419 | 60 | Tinkywitch2003 |
+| 2420 | 60 | Jessica Betz |
+| 2421 | 60 | Rose Luvisi |
+| 2422 | 60 | Kara Tolbert |
+| 2423 | 60 | Dreams |
+| 2424 | 60 | Amanda Schweitzer |
+| 2425 | 60 | Chilly Bridgepiece |
+| 2426 | 60 | Clever Strikesnap |
+| 2427 | 60 | Roberta Cookson |
+| 2428 | 60 | Jay Blain |
+| 2429 | 60 | MamaCe216 |
+| 2430 | 60 | Meg |
+| 2431 | 60 | Rick Capo |
+| 2432 | 60 | Erin Ervin |
+| 2433 | 60 | Kilo Wilzon |
+| 2434 | 60 | Silly Striker |
+| 2435 | 60 | Roxann Preece |
+| 2436 | 60 | SithLord |
+| 2437 | 60 | Rebecca Dondlinger |
+| 2438 | 60 | Samantha Rowe |
+| 2439 | 60 | Tina Winger |
+| 2440 | 60 | Tina Lopez |
+| 2441 | 60 | Kasandra Giamporcaro |
+| 2442 | 60 | Mike Medlin |
+| 2443 | 60 | Althaea Frost Ambrose |
+| 2444 | 60 | Joe Spingler |
+| 2445 | 60 | Melissa Bellamy |
+| 2446 | 60 | Kisha Fish Gripp |
+| 2447 | 60 | Amber Dawn Laird |
+| 2448 | 60 | Snazzy Dashy |
+| 2449 | 60 | Seraphina Childress |
+| 2450 | 60 | Dave Gowan |
+| 2451 | 60 | MamaT |
+| 2452 | 60 | squirrel |
+| 2453 | 60 | Carrie Huskey |
+| 2454 | 60 | Seanky tiler |
+| 2455 | 60 | Stacy C. Privott |
+| 2456 | 60 | Alicia West |
+| 2457 | 60 | Patty Case Shaffer |
+| 2458 | 60 | sunnypinktink |
+| 2459 | 60 | River |
+| 2460 | 60 | Dan Warnken |
+| 2461 | 59 | Kaymxo |
+| 2462 | 59 | Amanda Besancon |
+| 2463 | 59 | CeeCeeOnna |
+| 2464 | 59 | Penelope |
+| 2465 | 59 | Danielle O'Donnell |
+| 2466 | 59 | Jordan Nicole |
+| 2467 | 59 | Cheeky Slammer |
+| 2468 | 59 | Melissa Keller |
+| 2469 | 59 | Martin Dillon |
+| 2470 | 59 | Char Pretty Mills |
+| 2471 | 59 | Hannah Marie |
+| 2472 | 59 | Plucky Linkgrid |
+| 2473 | 59 | Steven |
+| 2474 | 59 | Risha |
+| 2475 | 59 | Jessica Lynn Faulknor |
+| 2476 | 59 | Shelley Costlow |
+| 2477 | 59 | Bouncy Splitter |
 | 2478 | 59 | Toddand Christina Troutman |
-| 2479 | 59 | Maggie Switzer |
+| 2479 | 59 | Kelsey Mackenzie |
 | 2480 | 59 | Petty Bethy |
 | 2481 | 59 | Talitha Stephens |
 | 2482 | 58 | Jennifer White |
@@ -2500,13 +2500,13 @@
 | 2492 | 58 | MamaLord689 |
 | 2493 | 58 | Patience Marie |
 | 2494 | 58 | Bold Slammer |
-| 2495 | 58 | Ashia Marie |
-| 2496 | 58 | Giddy Shatterfit |
-| 2497 | 58 | Jennifer Burns |
+| 2495 | 58 | Jennifer Burns |
+| 2496 | 58 | Ashia Marie |
+| 2497 | 58 | Giddy Shatterfit |
 | 2498 | 58 | Michelle |
-| 2499 | 58 | Rondell Burton |
-| 2500 | 58 | David Sardo |
-| 2501 | 58 | Rebekah Jones |
+| 2499 | 58 | Rebekah Jones |
+| 2500 | 58 | Rondell Burton |
+| 2501 | 58 | David Sardo |
 | 2502 | 58 | Sarahs Livingherlife |
 | 2503 | 58 | Jessica Lemaster |
 | 2504 | 57 | Sandy Jones |
