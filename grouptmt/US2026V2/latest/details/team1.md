@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 06:58:41 UTC
+# Standings for team1 as of 2026-03-16 06:59:20 UTC
 
 **Total Participants:** 2631
 
@@ -542,20 +542,20 @@
 | 534 | 215 | Kim Robinson |
 | 535 | 215 | NolaGal |
 | 536 | 215 | Shawna Days |
-| 537 | 214 | Breezy Wiper |
-| 538 | 214 | Gina Annese |
-| 539 | 214 | Terrance Williams |
-| 540 | 213 | Brandon Green |
-| 541 | 212 | Dawgofwar |
-| 542 | 212 | Matthew Boudah |
-| 543 | 212 | Chris Bernstein |
-| 544 | 211 | Lori Dutton |
+| 537 | 214 | Sabrina Frazier |
+| 538 | 214 | Breezy Wiper |
+| 539 | 214 | Gina Annese |
+| 540 | 214 | Terrance Williams |
+| 541 | 213 | Brandon Green |
+| 542 | 212 | Dawgofwar |
+| 543 | 212 | Matthew Boudah |
+| 544 | 212 | Chris Bernstein |
 | 545 | 211 | Kimmy White |
-| 546 | 210 | Crystal Claypool |
-| 547 | 209 | Dizzy Stackbuilder |
-| 548 | 209 | Jennifer Lynn |
-| 549 | 209 | Tig |
-| 550 | 209 | Sabrina Frazier |
+| 546 | 211 | Lori Dutton |
+| 547 | 210 | Crystal Claypool |
+| 548 | 209 | Dizzy Stackbuilder |
+| 549 | 209 | Jennifer Lynn |
+| 550 | 209 | Tig |
 | 551 | 209 | Ty's Spot |
 | 552 | 208 | Pig02 |
 | 553 | 208 | Erica Catherine |
