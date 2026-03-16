@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 04:26:41 UTC
+# Standings for team2 as of 2026-03-16 04:27:20 UTC
 
 **Total Participants:** 2601
 
@@ -32,9 +32,9 @@
 | 24 | 3407 | Sheesh M |
 | 25 | 3405 | Nicole Grochow |
 | 26 | 3351 | Katie Wisecarver |
-| 27 | 3262 | Joshua Carter |
-| 28 | 3261 | Eckoman518 |
-| 29 | 3257 | Snippy Basepiece |
+| 27 | 3297 | Snippy Basepiece |
+| 28 | 3262 | Joshua Carter |
+| 29 | 3261 | Eckoman518 |
 | 30 | 3147 | Fae-Bulous |
 | 31 | 3126 | Linda Lively |
 | 32 | 3109 | Elizabeth Crowder Pelton |
@@ -672,12 +672,12 @@
 | 664 | 166 | TinaMarie Montone |
 | 665 | 166 | Sha45 |
 | 666 | 166 | Joe Smith |
-| 667 | 165 | Happy Columnbuilder |
-| 668 | 165 | Steady Treal |
-| 669 | 165 | Amy Jur Falk |
-| 670 | 165 | Giggly Shiftsnap |
-| 671 | 164 | MrMais89 |
-| 672 | 164 | Tia Simmons |
+| 667 | 165 | Tia Simmons |
+| 668 | 165 | Happy Columnbuilder |
+| 669 | 165 | Steady Treal |
+| 670 | 165 | Amy Jur Falk |
+| 671 | 165 | Giggly Shiftsnap |
+| 672 | 164 | MrMais89 |
 | 673 | 164 | Rachel Anne |
 | 674 | 164 | Old Man |
 | 675 | 163 | Rebecca Goforth |
@@ -699,10 +699,10 @@
 | 691 | 160 | Paula Martin |
 | 692 | 160 | Twisty Shatter |
 | 693 | 160 | Karent524 |
-| 694 | 160 | Joy Young |
-| 695 | 160 | Shelly Marie Lloyd |
-| 696 | 159 | Brittany Backus |
-| 697 | 159 | btchboy |
+| 694 | 160 | Shelly Marie Lloyd |
+| 695 | 160 | Joy Young |
+| 696 | 159 | btchboy |
+| 697 | 159 | Brittany Backus |
 | 698 | 159 | Slinky Align |
 | 699 | 159 | Jess Ortiz |
 | 700 | 159 | JZoya  Scott |
@@ -786,28 +786,28 @@
 | 778 | 142 | JinxxedMozzerella |
 | 779 | 142 | Enigma |
 | 780 | 142 | Kiisha |
-| 781 | 141 | Holly Jolly |
-| 782 | 141 | Dana Hicks |
-| 783 | 141 | Happy Twistfit |
-| 784 | 141 | Frances Deem |
-| 785 | 140 | Frisky Zonepiece |
-| 786 | 140 | Staci George Fitzsimmons |
-| 787 | 140 | Annmarie Gilreath |
-| 788 | 140 | Amber Fore |
-| 789 | 140 | GirlMom5 |
-| 790 | 140 | Jenna McGeorge |
-| 791 | 140 | jay |
-| 792 | 139 | Brenda Arbaugh |
-| 793 | 139 | Gi Na |
-| 794 | 139 | Plucky Glide |
-| 795 | 139 | Kira Hugar |
-| 796 | 138 | Denise Wilson |
-| 797 | 138 | Jenn |
-| 798 | 138 | Slinky Linkgrid |
-| 799 | 138 | Kari Thompson Rock |
-| 800 | 137 | Kell Cinn |
+| 781 | 142 | Haley Bell |
+| 782 | 141 | Holly Jolly |
+| 783 | 141 | Dana Hicks |
+| 784 | 141 | Happy Twistfit |
+| 785 | 141 | Frances Deem |
+| 786 | 140 | Frisky Zonepiece |
+| 787 | 140 | Staci George Fitzsimmons |
+| 788 | 140 | Annmarie Gilreath |
+| 789 | 140 | Amber Fore |
+| 790 | 140 | GirlMom5 |
+| 791 | 140 | Jenna McGeorge |
+| 792 | 140 | jay |
+| 793 | 139 | Brenda Arbaugh |
+| 794 | 139 | Gi Na |
+| 795 | 139 | Plucky Glide |
+| 796 | 139 | Kira Hugar |
+| 797 | 138 | Denise Wilson |
+| 798 | 138 | Jenn |
+| 799 | 138 | Slinky Linkgrid |
+| 800 | 138 | Kari Thompson Rock |
 | 801 | 137 | Tiffany Riccio |
-| 802 | 137 | Haley Bell |
+| 802 | 137 | Kell Cinn |
 | 803 | 137 | Jo |
 | 804 | 137 | bubbles |
 | 805 | 136 | Casandra Alisa Rocker |
@@ -979,8 +979,8 @@
 | 971 | 110 | Lisa Parr |
 | 972 | 110 | Ashley Jayne Phillips |
 | 973 | 110 | Rachy77 |
-| 974 | 110 | Caitlyn Brown |
-| 975 | 110 | Jake Ching |
+| 974 | 110 | Jake Ching |
+| 975 | 110 | Caitlyn Brown |
 | 976 | 109 | Boomboom |
 | 977 | 109 | Miguel Teixeira |
 | 978 | 109 | Cuttermonk |
