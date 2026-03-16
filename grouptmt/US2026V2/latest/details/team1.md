@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 07:44:44 UTC
+# Standings for team1 as of 2026-03-16 07:45:23 UTC
 
 **Total Participants:** 2640
 
@@ -908,143 +908,143 @@
 | 900 | 126 | Moemoe Jackson |
 | 901 | 126 | Garrett Newman |
 | 902 | 126 | l |
-| 903 | 125 | Mindy Leigh Head |
-| 904 | 125 | Dean Gaboury |
-| 905 | 125 | Bree Cordell Tremain |
-| 906 | 125 | Nicole Brown |
-| 907 | 125 | Shelby Bryson |
-| 908 | 125 | Courtney Jones |
-| 909 | 125 | Brandy Ann |
-| 910 | 124 | Nicole Ashley Roy |
-| 911 | 124 | Las Carolina |
-| 912 | 124 | Shelly Fannon |
-| 913 | 124 | Natalia Lynee Leggett |
-| 914 | 124 | Eric Montgomery |
-| 915 | 123 | Abcmasters12 |
-| 916 | 123 | PSD |
-| 917 | 123 | Kristopher Daniels |
+| 903 | 125 | Dean Gaboury |
+| 904 | 125 | Mindy Leigh Head |
+| 905 | 125 | Shelby Bryson |
+| 906 | 125 | Bree Cordell Tremain |
+| 907 | 125 | Nicole Brown |
+| 908 | 125 | Brandy Ann |
+| 909 | 125 | Courtney Jones |
+| 910 | 124 | Happy Buildsnap |
+| 911 | 124 | Eric Montgomery |
+| 912 | 124 | Las Carolina |
+| 913 | 124 | Nicole Ashley Roy |
+| 914 | 124 | Shelly Fannon |
+| 915 | 124 | Natalia Lynee Leggett |
+| 916 | 123 | Kristopher Daniels |
+| 917 | 123 | PSD |
 | 918 | 123 | Dakota Thomas |
-| 919 | 122 | Ramona Shaver |
+| 919 | 123 | Abcmasters12 |
 | 920 | 122 | Sylvia Black |
 | 921 | 122 | Slatt Aint Going |
 | 922 | 122 | Bigd486 |
 | 923 | 122 | Saucy Tilemaker |
-| 924 | 121 | Epic Glider |
-| 925 | 121 | Dizzy Matchzone |
-| 926 | 121 | Maximusprime |
-| 927 | 120 | Manuel Ceniceros |
+| 924 | 122 | Ramona Shaver |
+| 925 | 121 | Maximusprime |
+| 926 | 121 | Dizzy Matchzone |
+| 927 | 121 | Epic Glider |
 | 928 | 120 | Kat |
-| 929 | 120 | Crystal Parker Bryant |
-| 930 | 120 | Rik |
+| 929 | 120 | Manuel Ceniceros |
+| 930 | 120 | Crystal Parker Bryant |
 | 931 | 120 | DaRascal |
-| 932 | 119 | Kristina Smith |
-| 933 | 119 | Katelyn Dorman |
-| 934 | 119 | Phrank |
-| 935 | 119 | John DeMoss |
-| 936 | 118 | Sharon Panoski |
+| 932 | 120 | Rik |
+| 933 | 119 | Phrank |
+| 934 | 119 | Kristina Smith |
+| 935 | 119 | Katelyn Dorman |
+| 936 | 119 | John DeMoss |
 | 937 | 118 | TaRcY |
-| 938 | 118 | Kevin Russell |
-| 939 | 118 | Heather Skillern |
-| 940 | 118 | Zany Glidepiece |
-| 941 | 118 | sobercocoa |
-| 942 | 117 | Komikeh White |
+| 938 | 118 | sobercocoa |
+| 939 | 118 | Sharon Panoski |
+| 940 | 118 | Heather Skillern |
+| 941 | 118 | Zany Glidepiece |
+| 942 | 118 | Kevin Russell |
 | 943 | 117 | Kelli Marie |
-| 944 | 117 | millcitykid |
-| 945 | 117 | Melissa Stephens D Tenorio |
-| 946 | 117 | Dave Emig |
-| 947 | 117 | Bailey Morgan |
-| 948 | 116 | Anne Oliver |
-| 949 | 116 | Robin Burress |
-| 950 | 116 | Tim Slone |
+| 944 | 117 | Dave Emig |
+| 945 | 117 | millcitykid |
+| 946 | 117 | Komikeh White |
+| 947 | 117 | Melissa Stephens D Tenorio |
+| 948 | 117 | Bailey Morgan |
+| 949 | 116 | Daring Edge |
+| 950 | 116 | Robin Burress |
 | 951 | 116 | Petahboi |
-| 952 | 116 | Daring Edge |
-| 953 | 116 | Megan Phillips |
-| 954 | 116 | Frilly Breaker |
-| 955 | 115 | Jennifer Obrien |
+| 952 | 116 | Frilly Breaker |
+| 953 | 116 | Tim Slone |
+| 954 | 116 | Megan Phillips |
+| 955 | 116 | Anne Oliver |
 | 956 | 115 | Wings |
-| 957 | 115 | Texastytest |
-| 958 | 115 | Gary Ustica |
-| 959 | 115 | Smiley Clicky |
-| 960 | 114 | Michael Palmer |
-| 961 | 114 | Tara Spencer |
-| 962 | 114 | Ashlee Carnes |
-| 963 | 114 | Jesse Young |
-| 964 | 114 | Breezy Stackbuilder |
-| 965 | 114 | Hoppy Builderpiece |
-| 966 | 114 | David Wright |
-| 967 | 114 | Ramona Powell |
-| 968 | 113 | Tara Lawson |
-| 969 | 113 | Wanda L Flanagan |
+| 957 | 115 | Jennifer Obrien |
+| 958 | 115 | Smiley Clicky |
+| 959 | 115 | Texastytest |
+| 960 | 115 | Gary Ustica |
+| 961 | 114 | Breezy Stackbuilder |
+| 962 | 114 | David Wright |
+| 963 | 114 | Ramona Powell |
+| 964 | 114 | Hoppy Builderpiece |
+| 965 | 114 | Jesse Young |
+| 966 | 114 | Tara Spencer |
+| 967 | 114 | Ashlee Carnes |
+| 968 | 114 | Michael Palmer |
+| 969 | 113 | Summer R Delgado |
 | 970 | 113 | Groovy Holder |
-| 971 | 113 | Summer R Delgado |
-| 972 | 113 | Trishatta YoungDiva Watkins |
-| 973 | 113 | Monet Laronda Wilson |
-| 974 | 113 | Ashley Munn |
-| 975 | 112 | Augie Ortega |
-| 976 | 112 | Tipsy Shuffler |
-| 977 | 112 | Giddy Clearbuilder |
-| 978 | 112 | Dapper Snaplink |
-| 979 | 112 | LadyKuSh |
-| 980 | 111 | Billy |
-| 981 | 111 | Becky Coker |
-| 982 | 111 | Jamie Jury |
-| 983 | 111 | Joyce Fees |
-| 984 | 111 | Trish Podann |
-| 985 | 111 | Samantha Vidaurri |
-| 986 | 111 | Here Nisie |
-| 987 | 111 | Angie Scott |
-| 988 | 111 | Tammy Straka |
-| 989 | 110 | Cjsinger9289 |
-| 990 | 110 | Alyssa Bruce |
-| 991 | 110 | Kindra Sinclair |
-| 992 | 110 | Kara Diamond |
-| 993 | 110 | Kristy Burch Sells |
-| 994 | 110 | Duc Donger |
-| 995 | 110 | JustMeNonna |
-| 996 | 110 | Cooldamalley |
-| 997 | 110 | Stephanie Holman |
-| 998 | 110 | Dave Myers |
-| 999 | 110 | Nifty |
-| 1000 | 110 | Tiffany |
-| 1001 | 109 | Crystal Swigart |
+| 971 | 113 | Ashley Munn |
+| 972 | 113 | Wanda L Flanagan |
+| 973 | 113 | Tara Lawson |
+| 974 | 113 | Trishatta YoungDiva Watkins |
+| 975 | 113 | Monet Laronda Wilson |
+| 976 | 112 | Augie Ortega |
+| 977 | 112 | Tipsy Shuffler |
+| 978 | 112 | Giddy Clearbuilder |
+| 979 | 112 | Dapper Snaplink |
+| 980 | 112 | LadyKuSh |
+| 981 | 111 | Here Nisie |
+| 982 | 111 | Joyce Fees |
+| 983 | 111 | Trish Podann |
+| 984 | 111 | Becky Coker |
+| 985 | 111 | Jamie Jury |
+| 986 | 111 | Samantha Vidaurri |
+| 987 | 111 | Tammy Straka |
+| 988 | 111 | Billy |
+| 989 | 111 | Angie Scott |
+| 990 | 110 | Dave Myers |
+| 991 | 110 | Cjsinger9289 |
+| 992 | 110 | JustMeNonna |
+| 993 | 110 | Duc Donger |
+| 994 | 110 | Kristy Burch Sells |
+| 995 | 110 | Kara Diamond |
+| 996 | 110 | Alyssa Bruce |
+| 997 | 110 | Tiffany |
+| 998 | 110 | Kindra Sinclair |
+| 999 | 110 | Stephanie Holman |
+| 1000 | 110 | Cooldamalley |
+| 1001 | 110 | Nifty |
 | 1002 | 109 | Countryboy Will Survive |
 | 1003 | 109 | Megan Bennett |
-| 1004 | 109 | Jenny Weidman Perrotta |
-| 1005 | 109 | Taquilla Branch |
-| 1006 | 109 | Slinky Stacky |
-| 1007 | 109 | Kawaui2003 |
-| 1008 | 109 | Jolly Piecebuilder |
-| 1009 | 109 | Ben Barkley |
-| 1010 | 109 | Chummy Risebuilder |
-| 1011 | 109 | Esav Castro |
-| 1012 | 109 | Edward White |
-| 1013 | 109 | Blkfroggy |
-| 1014 | 108 | MG Alice |
-| 1015 | 108 | Tripp Loc |
-| 1016 | 108 | Giggly Builderline |
-| 1017 | 108 | Melinda Perry Frazier |
-| 1018 | 108 | munchalot |
-| 1019 | 108 | Purple Pixie |
-| 1020 | 108 | Sassy Wrecker |
-| 1021 | 107 | Cynthia Mann |
-| 1022 | 107 | Loony Stagger |
-| 1023 | 107 | Crystal Talbert |
-| 1024 | 107 | Timothy Long |
-| 1025 | 107 | Jennifer Stone |
-| 1026 | 107 | Margie Olivas |
-| 1027 | 107 | Christal Peltier |
-| 1028 | 107 | Dominic G Terriaca |
-| 1029 | 107 | Quirky Caster |
-| 1030 | 106 | b430 |
-| 1031 | 106 | Snow Neumann |
-| 1032 | 106 | Steven Taylor |
-| 1033 | 106 | Brandi Poulisse Knippling |
-| 1034 | 106 | Mamabear924 |
-| 1035 | 106 | Shay Upshaw |
-| 1036 | 106 | Aly Sheehan |
-| 1037 | 105 | momme |
-| 1038 | 105 | Denice Dee |
-| 1039 | 105 | Happy Buildsnap |
+| 1004 | 109 | Taquilla Branch |
+| 1005 | 109 | Ben Barkley |
+| 1006 | 109 | Chummy Risebuilder |
+| 1007 | 109 | Esav Castro |
+| 1008 | 109 | Jenny Weidman Perrotta |
+| 1009 | 109 | Crystal Swigart |
+| 1010 | 109 | Jolly Piecebuilder |
+| 1011 | 109 | Slinky Stacky |
+| 1012 | 109 | Blkfroggy |
+| 1013 | 109 | Edward White |
+| 1014 | 109 | Kawaui2003 |
+| 1015 | 108 | Sassy Wrecker |
+| 1016 | 108 | munchalot |
+| 1017 | 108 | MG Alice |
+| 1018 | 108 | Purple Pixie |
+| 1019 | 108 | Melinda Perry Frazier |
+| 1020 | 108 | Tripp Loc |
+| 1021 | 108 | Giggly Builderline |
+| 1022 | 107 | Margie Olivas |
+| 1023 | 107 | Christal Peltier |
+| 1024 | 107 | Dominic G Terriaca |
+| 1025 | 107 | Timothy Long |
+| 1026 | 107 | Crystal Talbert |
+| 1027 | 107 | Cynthia Mann |
+| 1028 | 107 | Loony Stagger |
+| 1029 | 107 | Jennifer Stone |
+| 1030 | 107 | Quirky Caster |
+| 1031 | 106 | Steven Taylor |
+| 1032 | 106 | Brandi Poulisse Knippling |
+| 1033 | 106 | Mamabear924 |
+| 1034 | 106 | Shay Upshaw |
+| 1035 | 106 | Aly Sheehan |
+| 1036 | 106 | b430 |
+| 1037 | 106 | Snow Neumann |
+| 1038 | 105 | momme |
+| 1039 | 105 | Denice Dee |
 | 1040 | 105 | Nerdy Shatterline |
 | 1041 | 105 | Stephen Lockman |
 | 1042 | 105 | FireHawk |
