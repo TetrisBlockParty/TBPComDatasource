@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 12:22:21 UTC
+# Standings for team2 as of 2026-03-16 12:22:45 UTC
 
 **Total Participants:** 2694
 
@@ -160,11 +160,11 @@
 | 152 | 741 | Tash Bell |
 | 153 | 740 | Jamie Lang |
 | 154 | 737 | Marc |
-| 155 | 735 | Tess Shaheen |
-| 156 | 735 | Joy LaJeunesse |
+| 155 | 735 | Joy LaJeunesse |
+| 156 | 735 | Tess Shaheen |
 | 157 | 730 | Shawn Haines |
-| 158 | 726 | Blaze Sexton |
-| 159 | 726 | Connie Mohler-Fair |
+| 158 | 726 | Connie Mohler-Fair |
+| 159 | 726 | Blaze Sexton |
 | 160 | 724 | Derrell W. Barron |
 | 161 | 722 | Mary Reeves |
 | 162 | 721 | Ariel Pearson |
@@ -173,8 +173,8 @@
 | 165 | 708 | Hp Gold |
 | 166 | 707 | Elaine Webb Graves |
 | 167 | 704 | Sheena Hachmann |
-| 168 | 704 | Joshua |
-| 169 | 704 | Berklie Apedaile |
+| 168 | 704 | Berklie Apedaile |
+| 169 | 704 | Joshua |
 | 170 | 704 | Emily Wooden |
 | 171 | 699 | Jeff Lewis |
 | 172 | 697 | Kacee Conrad Bock |
@@ -182,16 +182,16 @@
 | 174 | 671 | Lori Schlachter Segui |
 | 175 | 670 | Amanda Segura |
 | 176 | 661 | Paul Hudak |
-| 177 | 660 | Amanda Sullivan |
-| 178 | 660 | Lateisha Morris |
-| 179 | 660 | Madia Quick |
+| 177 | 660 | Madia Quick |
+| 178 | 660 | Amanda Sullivan |
+| 179 | 660 | Lateisha Morris |
 | 180 | 656 | Jazzy Hitter |
 | 181 | 654 | Looloo |
 | 182 | 652 | Zesty Link |
 | 183 | 646 | Gracie Back |
 | 184 | 644 | Jayme Hamil |
-| 185 | 642 | Buisanito |
-| 186 | 642 | Sheena Harris |
+| 185 | 642 | Sheena Harris |
+| 186 | 642 | Buisanito |
 | 187 | 633 | Devin |
 | 188 | 630 | Kristy Monk |
 | 189 | 629 | Elizabeth Ostrom |
@@ -210,41 +210,41 @@
 | 202 | 594 | LolaSmilez |
 | 203 | 589 | Foxy |
 | 204 | 586 | Christina Ramirez |
-| 205 | 580 | Faith Adrienne Verret Page |
-| 206 | 580 | CSOTYS |
-| 207 | 578 | DanesMama |
-| 208 | 578 | 🍏 Green apple |
-| 209 | 570 | Dre Man |
-| 210 | 570 | MOMOF5 |
-| 211 | 568 | Dawn Woosley Bowes |
-| 212 | 566 | Mcg |
-| 213 | 564 | Katrina Schroeder |
-| 214 | 561 | Kristie |
+| 205 | 580 | CSOTYS |
+| 206 | 580 | Faith Adrienne Verret Page |
+| 207 | 578 | 🍏 Green apple |
+| 208 | 578 | DanesMama |
+| 209 | 571 | Kristie |
+| 210 | 570 | Dre Man |
+| 211 | 570 | MOMOF5 |
+| 212 | 568 | Dawn Woosley Bowes |
+| 213 | 566 | Mcg |
+| 214 | 564 | Katrina Schroeder |
 | 215 | 553 | Christina Graham |
 | 216 | 549 | Jason McCloy |
 | 217 | 547 | Carson Goldminc |
-| 218 | 545 | Bia |
-| 219 | 545 | Jay |
-| 220 | 540 | Ashley Marie |
-| 221 | 540 | Jjj |
-| 222 | 537 | Jason Allen |
-| 223 | 536 | Dreamer |
-| 224 | 536 | joe |
-| 225 | 535 | Ding Adventurer |
-| 226 | 532 | BluBae |
-| 227 | 532 | MJ1234 |
-| 228 | 531 | Clever Roll |
-| 229 | 530 | Danielle Weikel |
-| 230 | 522 | Chelsea Clark |
-| 231 | 521 | Marvin Lou Martin |
-| 232 | 521 | LD1 |
+| 218 | 545 | Jay |
+| 219 | 545 | Bia |
+| 220 | 541 | LD1 |
+| 221 | 540 | Ashley Marie |
+| 222 | 540 | Jjj |
+| 223 | 537 | Jason Allen |
+| 224 | 536 | Dreamer |
+| 225 | 536 | joe |
+| 226 | 535 | Ding Adventurer |
+| 227 | 532 | BluBae |
+| 228 | 532 | MJ1234 |
+| 229 | 531 | Clever Roll |
+| 230 | 530 | Danielle Weikel |
+| 231 | 522 | Chelsea Clark |
+| 232 | 521 | Marvin Lou Martin |
 | 233 | 518 | Michelle Douglas Bridges |
 | 234 | 517 | Leticia Martinez Kelley |
 | 235 | 515 | Kyesha Goodyear |
 | 236 | 513 | Stacy Evans |
 | 237 | 510 | Alexsa Crespo |
-| 238 | 509 | Liz Wambsgans |
-| 239 | 509 | ElayneTrekand |
+| 238 | 509 | ElayneTrekand |
+| 239 | 509 | Liz Wambsgans |
 | 240 | 508 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 241 | 502 | Sandra McNab |
 | 242 | 500 | Johanna Massaro |
@@ -642,8 +642,8 @@
 | 634 | 197 | Cathleena Giusto |
 | 635 | 197 | Speedy Balance |
 | 636 | 197 | BEANS |
-| 637 | 197 | Nicole Lynnette Mahurin |
-| 638 | 197 | Bethany H. Tunison |
+| 637 | 197 | Bethany H. Tunison |
+| 638 | 197 | Nicole Lynnette Mahurin |
 | 639 | 196 | Chirpy Dash |
 | 640 | 196 | Colin Morgan |
 | 641 | 196 | Mike Hromowyk |
@@ -1025,8 +1025,8 @@
 | 1017 | 113 | Hannah Joplin |
 | 1018 | 113 | Hector Gutierrez |
 | 1019 | 113 | Bryan Bishop |
-| 1020 | 113 | Swanky Matchpiece |
-| 1021 | 113 | Arv |
+| 1020 | 113 | Arv |
+| 1021 | 113 | Swanky Matchpiece |
 | 1022 | 113 | Cool Cornerfall |
 | 1023 | 112 | Witty Cascadefit |
 | 1024 | 112 | Cee_me |
@@ -1231,8 +1231,8 @@
 | 1223 | 90 | Loopy Curve |
 | 1224 | 90 | Kaagyugaq Jessica |
 | 1225 | 90 | Petty |
-| 1226 | 90 | Sonceria Ingram-Ford |
-| 1227 | 90 | Slugger26 |
+| 1226 | 90 | Slugger26 |
+| 1227 | 90 | Sonceria Ingram-Ford |
 | 1228 | 89 | Cheeky Grabber |
 | 1229 | 89 | Tatiana Rae Robinson |
 | 1230 | 89 | croshay |
@@ -1401,14 +1401,14 @@
 | 1393 | 75 | Angie Jacobs |
 | 1394 | 75 | Pam |
 | 1395 | 75 | CLA |
-| 1396 | 75 | Chipper Stacky |
-| 1397 | 74 | Sam Sam |
-| 1398 | 74 | Ryan LaCasse |
-| 1399 | 74 | Amber Rochelle |
-| 1400 | 74 | brii |
-| 1401 | 74 | Any Slm |
-| 1402 | 74 | Jolly Riserpiece |
-| 1403 | 74 | Amanda Mackay |
+| 1396 | 75 | Amanda Mackay |
+| 1397 | 75 | Chipper Stacky |
+| 1398 | 74 | Sam Sam |
+| 1399 | 74 | Ryan LaCasse |
+| 1400 | 74 | Amber Rochelle |
+| 1401 | 74 | brii |
+| 1402 | 74 | Any Slm |
+| 1403 | 74 | Jolly Riserpiece |
 | 1404 | 74 | Denise McKenzie |
 | 1405 | 74 | Gravytrain |
 | 1406 | 74 | Twisty Corner |
@@ -1504,9 +1504,9 @@
 | 1496 | 68 | Medusa Koldheart |
 | 1497 | 68 | Lora Loya |
 | 1498 | 68 | Joseph Ferranto |
-| 1499 | 67 | Fuzzy |
-| 1500 | 67 | Chipper Puzzler |
-| 1501 | 67 | Chill Tilefall |
+| 1499 | 67 | Chipper Puzzler |
+| 1500 | 67 | Chill Tilefall |
+| 1501 | 67 | Fuzzy |
 | 1502 | 67 | Barb Swartzendruber |
 | 1503 | 67 | yuppers |
 | 1504 | 67 | Reese Crystal |
@@ -1617,8 +1617,8 @@
 | 1609 | 60 | VectorZero |
 | 1610 | 60 | Samantha Massey |
 | 1611 | 60 | Hyper Snap |
-| 1612 | 59 | Lush Linkgrid |
-| 1613 | 59 | Shiny Zonegrid |
+| 1612 | 59 | Shiny Zonegrid |
+| 1613 | 59 | Lush Linkgrid |
 | 1614 | 59 | Kristalyn Schrank |
 | 1615 | 59 | Peppy Rollzone |
 | 1616 | 59 | ts |
@@ -1746,9 +1746,9 @@
 | 1738 | 51 | itzame |
 | 1739 | 51 | Luna Serrano |
 | 1740 | 51 | BluSkyes |
-| 1741 | 50 | April C Theriault Foote |
-| 1742 | 50 | bschilke128 |
-| 1743 | 50 | Jason Pence |
+| 1741 | 50 | Jason Pence |
+| 1742 | 50 | April C Theriault Foote |
+| 1743 | 50 | bschilke128 |
 | 1744 | 50 | Giddy Shatterbuilder |
 | 1745 | 50 | Andrew Price |
 | 1746 | 50 | Beth Hurst Ruiz |
@@ -1828,8 +1828,8 @@
 | 1820 | 46 | Cindy Nieves |
 | 1821 | 46 | Cheyenne Waller |
 | 1822 | 46 | Speedy Curvebuilder |
-| 1823 | 46 | Zany Blockfall |
-| 1824 | 46 | Whitney Mudge |
+| 1823 | 46 | Whitney Mudge |
+| 1824 | 46 | Zany Blockfall |
 | 1825 | 46 | Michelle Price-Dye |
 | 1826 | 45 | Anthony Jolly |
 | 1827 | 45 | tee |
@@ -1905,9 +1905,9 @@
 | 1897 | 42 | Chill Edgefit |
 | 1898 | 42 | Amber Wright |
 | 1899 | 42 | Marta Savchuk |
-| 1900 | 41 | Amanda |
-| 1901 | 41 | Somthin |
-| 1902 | 41 | Lindsey Anderson |
+| 1900 | 41 | Somthin |
+| 1901 | 41 | Lindsey Anderson |
+| 1902 | 41 | Amanda |
 | 1903 | 41 | Jen Hawes |
 | 1904 | 41 | Francisco Lovechild |
 | 1905 | 41 | Funky Dropper |
@@ -2048,11 +2048,11 @@
 | 2040 | 35 | Tina Rollins Bethay |
 | 2041 | 35 | Carla Newton |
 | 2042 | 35 | Cheryl Eisiliones |
-| 2043 | 35 | Cranky Caster |
-| 2044 | 35 | Nyiesha Aikens |
-| 2045 | 35 | Kevin Leary |
-| 2046 | 35 | Elizabeth Churning |
-| 2047 | 35 | Adam McClellan |
+| 2043 | 35 | Adam McClellan |
+| 2044 | 35 | Elizabeth Churning |
+| 2045 | 35 | Cranky Caster |
+| 2046 | 35 | Kevin Leary |
+| 2047 | 35 | Nyiesha Aikens |
 | 2048 | 34 | Minnie |
 | 2049 | 34 | FoxesPrey |
 | 2050 | 34 | JadeJay |
@@ -2113,9 +2113,9 @@
 | 2105 | 31 | Totoxx2 |
 | 2106 | 31 | Joan Du |
 | 2107 | 31 | Kristin Smith |
-| 2108 | 30 | David Smith |
-| 2109 | 30 | Katy Timmons |
-| 2110 | 30 | Diane D-block Wade |
+| 2108 | 30 | Katy Timmons |
+| 2109 | 30 | Diane D-block Wade |
+| 2110 | 30 | David Smith |
 | 2111 | 30 | Cladius O Atkinson |
 | 2112 | 30 | Bold Gridclear |
 | 2113 | 30 | Jevonna Handy |
@@ -2200,8 +2200,8 @@
 | 2192 | 27 | Zappy Gridlock |
 | 2193 | 27 | Will Harris |
 | 2194 | 27 | Dandy Glider |
-| 2195 | 27 | Mellinese Nicole King |
-| 2196 | 27 | Chirpy Grabber |
+| 2195 | 27 | Chirpy Grabber |
+| 2196 | 27 | Mellinese Nicole King |
 | 2197 | 26 | Marie Elena |
 | 2198 | 26 | LadiStrigoi |
 | 2199 | 26 | Fancy Builderfit |
