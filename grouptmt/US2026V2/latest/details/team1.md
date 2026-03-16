@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 05:34:18 UTC
+# Standings for team1 as of 2026-03-16 05:34:43 UTC
 
 **Total Participants:** 2602
 
@@ -75,10 +75,10 @@
 | 67 | 1806 | Carrie Trigg |
 | 68 | 1713 | Audicia Bailey |
 | 69 | 1684 | Fancy Shuffler |
-| 70 | 1672 | Brandon Hill |
-| 71 | 1669 | Goober |
-| 72 | 1660 | Renee Weedling |
-| 73 | 1660 | Velt Richardson |
+| 70 | 1680 | Velt Richardson |
+| 71 | 1672 | Brandon Hill |
+| 72 | 1669 | Goober |
+| 73 | 1660 | Renee Weedling |
 | 74 | 1592 | Ramon Salazar |
 | 75 | 1550 | Ryry |
 | 76 | 1543 | Spunky Snapfit |
@@ -90,8 +90,8 @@
 | 82 | 1388 | jenna |
 | 83 | 1378 | Elyse YL |
 | 84 | 1342 | Kesha Brady |
-| 85 | 1340 | Dom The Great |
-| 86 | 1340 | Christie |
+| 85 | 1340 | Christie |
+| 86 | 1340 | Dom The Great |
 | 87 | 1339 | Nancy |
 | 88 | 1265 | Jodie Peterson |
 | 89 | 1265 | Tim Raper |
@@ -343,9 +343,9 @@
 | 335 | 343 | Kathy Karjala |
 | 336 | 342 | Evy |
 | 337 | 340 | Ed Bullen |
-| 338 | 337 | Stephanie Myers |
-| 339 | 336 | Mighty Clear |
-| 340 | 335 | Kay Francois |
+| 338 | 337 | Kay Francois |
+| 339 | 337 | Stephanie Myers |
+| 340 | 336 | Mighty Clear |
 | 341 | 334 | Flashy Rotator |
 | 342 | 333 | Josh Twilley |
 | 343 | 333 | John Gardner |
