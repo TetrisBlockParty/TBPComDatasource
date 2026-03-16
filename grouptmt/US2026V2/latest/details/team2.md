@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 14:10:21 UTC
+# Standings for team2 as of 2026-03-16 14:10:45 UTC
 
 **Total Participants:** 2710
 
@@ -520,8 +520,8 @@
 | 512 | 250 | Hyper Pop |
 | 513 | 249 | Tina Cano |
 | 514 | 249 | LaChalle Shay |
-| 515 | 249 | Jen Robinson |
-| 516 | 248 | Juana |
+| 515 | 249 | Juana |
+| 516 | 249 | Jen Robinson |
 | 517 | 248 | Tyler StaySnappin Old'Page |
 | 518 | 247 | Kristin Montoya |
 | 519 | 247 | Cozy Shatterblock |
@@ -572,76 +572,76 @@
 | 564 | 233 | Jessi |
 | 565 | 233 | Rigoberto Sanchez Jr. |
 | 566 | 232 | Brenda Bell |
-| 567 | 231 | Sarah Marie |
-| 568 | 231 | Nikki Speer |
-| 569 | 230 | April Sams |
+| 567 | 231 | Nikki Speer |
+| 568 | 231 | Sarah Marie |
+| 569 | 230 | Jimmy Xim |
 | 570 | 230 | Aobregon01 |
-| 571 | 230 | Jimmy Xim |
+| 571 | 230 | April Sams |
 | 572 | 229 | Cleopatra Daniels |
 | 573 | 229 | jess |
 | 574 | 229 | Lewis Sturgeon |
 | 575 | 228 | Lindsay Lucas |
 | 576 | 228 | Kristi Riley |
-| 577 | 227 | Rachel Zortman |
-| 578 | 227 | Martinez Jacobo |
-| 579 | 227 | Jess Ortiz |
-| 580 | 227 | John De Guzman Sydiongco |
+| 577 | 227 | Martinez Jacobo |
+| 578 | 227 | Jess Ortiz |
+| 579 | 227 | John De Guzman Sydiongco |
+| 580 | 227 | Rachel Zortman |
 | 581 | 227 | Karen Usrykitchens |
 | 582 | 225 | Bridgett |
-| 583 | 225 | 503BZ |
-| 584 | 225 | Robert Fenton |
+| 583 | 225 | Robert Fenton |
+| 584 | 225 | 503BZ |
 | 585 | 224 | Libby |
 | 586 | 223 | Marinara |
-| 587 | 223 | Julia Freeman |
-| 588 | 223 | Marie Shroyer |
+| 587 | 223 | Marie Shroyer |
+| 588 | 223 | Julia Freeman |
 | 589 | 223 | Leslie Nicole |
 | 590 | 223 | Roberta Nelson |
-| 591 | 222 | Sassy Queen |
-| 592 | 222 | Brandy Hayhurst |
-| 593 | 222 | Cari Hogan |
-| 594 | 222 | Dally Hunt |
-| 595 | 222 | Candy Brooks |
-| 596 | 222 | Zappy Strikerpiece |
+| 591 | 222 | Candy Brooks |
+| 592 | 222 | Sassy Queen |
+| 593 | 222 | Zappy Strikerpiece |
+| 594 | 222 | Cari Hogan |
+| 595 | 222 | Dally Hunt |
+| 596 | 222 | Brandy Hayhurst |
 | 597 | 220 | Karent524 |
-| 598 | 220 | Michelle |
-| 599 | 220 | Rachel Anne |
+| 598 | 220 | Rachel Anne |
+| 599 | 220 | Michelle |
 | 600 | 220 | Quitito1014 |
 | 601 | 219 | Leslie Clark |
 | 602 | 219 | Debra D. Herbert |
-| 603 | 219 | Danielle Davis Speir |
-| 604 | 219 | May May |
-| 605 | 218 | Flashy Tetriblast |
-| 606 | 218 | Jolie Hatfield |
-| 607 | 218 | Lizzie Marie |
-| 608 | 218 | Poppy |
-| 609 | 217 | Chummy Linkgrid |
-| 610 | 216 | Elyssa Lowery |
+| 603 | 219 | May May |
+| 604 | 219 | Danielle Davis Speir |
+| 605 | 218 | Poppy |
+| 606 | 218 | Lizzie Marie |
+| 607 | 218 | Jolie Hatfield |
+| 608 | 218 | sofiiya the forst |
+| 609 | 218 | Flashy Tetriblast |
+| 610 | 217 | Chummy Linkgrid |
 | 611 | 216 | Chirpy Dash |
-| 612 | 215 | Marc Anthony Lopez |
+| 612 | 216 | Elyssa Lowery |
 | 613 | 215 | Robin |
-| 614 | 215 | Daniel Moore |
-| 615 | 214 | DeathToBizzle |
-| 616 | 214 | Joe Smith |
-| 617 | 213 | Γωγώ Τσιρόγκα |
-| 618 | 213 | Joshua Madinger |
-| 619 | 212 | Shawna McKinney |
-| 620 | 211 | Kelly Williams |
+| 614 | 215 | Marc Anthony Lopez |
+| 615 | 215 | Daniel Moore |
+| 616 | 214 | DeathToBizzle |
+| 617 | 214 | Joe Smith |
+| 618 | 213 | Γωγώ Τσιρόγκα |
+| 619 | 213 | Joshua Madinger |
+| 620 | 212 | Shawna McKinney |
 | 621 | 211 | Jacques Frenette |
 | 622 | 211 | Arkei Luster |
-| 623 | 210 | BendersMomma |
-| 624 | 210 | Trista Duguay |
-| 625 | 210 | Michael E Whitejr |
-| 626 | 209 | Stitch Aura |
+| 623 | 211 | Kelly Williams |
+| 624 | 210 | Michael E Whitejr |
+| 625 | 210 | Trista Duguay |
+| 626 | 210 | BendersMomma |
 | 627 | 209 | Lively Builderfit |
 | 628 | 209 | Helen |
-| 629 | 209 | sofiiya the forst |
+| 629 | 209 | Stitch Aura |
 | 630 | 208 | em |
 | 631 | 208 | Keyata Wright |
 | 632 | 207 | Michael |
 | 633 | 207 | James Ramirez |
 | 634 | 206 | Nicci |
-| 635 | 205 | Sam Hall |
-| 636 | 205 | Witty T-spin |
+| 635 | 205 | Witty T-spin |
+| 636 | 205 | Sam Hall |
 | 637 | 205 | KT CAT |
 | 638 | 205 | Frisky Zonepiece |
 | 639 | 205 | Janelle Edgecombe |
@@ -649,11 +649,11 @@
 | 641 | 205 | Epic Wipebuilder |
 | 642 | 204 | Weeping Angel |
 | 643 | 204 | Lively Blockroll |
-| 644 | 204 | Pippa45 |
-| 645 | 204 | Ash Whitley |
-| 646 | 203 | Anthony Magaraci |
-| 647 | 203 | Nicole McLean |
-| 648 | 203 | Heather Kelley |
+| 644 | 204 | Heather Kelley |
+| 645 | 204 | Pippa45 |
+| 646 | 204 | Ash Whitley |
+| 647 | 203 | Anthony Magaraci |
+| 648 | 203 | Nicole McLean |
 | 649 | 203 | Alice Greene |
 | 650 | 203 | Melissa M Wolfe |
 | 651 | 202 | Crystal Brown-Miles |
@@ -666,8 +666,8 @@
 | 658 | 198 | Ms. Blue |
 | 659 | 198 | Lindsay Parenti |
 | 660 | 198 | Danielle Thompkins |
-| 661 | 197 | BEANS |
-| 662 | 197 | Joyce Murff |
+| 661 | 197 | Joyce Murff |
+| 662 | 197 | BEANS |
 | 663 | 197 | Nicole Lynnette Mahurin |
 | 664 | 197 | Speedy Balance |
 | 665 | 197 | Cathleena Giusto |
