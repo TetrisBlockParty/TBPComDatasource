@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 10:08:42 UTC
+# Standings for team2 as of 2026-03-16 10:09:20 UTC
 
 **Total Participants:** 2675
 
@@ -60,7 +60,7 @@
 | 52 | 2010 | Carlos Torres |
 | 53 | 1986 | Naomii Seton |
 | 54 | 1967 | Andrey Sharov |
-| 55 | 1910 | Bubbly Twistpiece |
+| 55 | 1914 | Bubbly Twistpiece |
 | 56 | 1906 | Tanya Smith |
 | 57 | 1903 | Julio Alejandro Rodriguez |
 | 58 | 1896 | Joshua Hopkins |
@@ -208,12 +208,12 @@
 | 200 | 578 | 🍏 Green apple |
 | 201 | 570 | MOMOF5 |
 | 202 | 570 | Dre Man |
-| 203 | 568 | Dawn Woosley Bowes |
-| 204 | 564 | Katrina Schroeder |
-| 205 | 558 | Snappy Bridgepiece |
-| 206 | 553 | Elaine Webb Graves |
-| 207 | 553 | Christina Graham |
-| 208 | 549 | Jeff Lewis |
+| 203 | 569 | Jeff Lewis |
+| 204 | 568 | Dawn Woosley Bowes |
+| 205 | 564 | Katrina Schroeder |
+| 206 | 558 | Snappy Bridgepiece |
+| 207 | 553 | Elaine Webb Graves |
+| 208 | 553 | Christina Graham |
 | 209 | 549 | Jason McCloy |
 | 210 | 547 | Carson Goldminc |
 | 211 | 545 | Tausha Colella |
