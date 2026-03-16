@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 09:40:43 UTC
+# Standings for team2 as of 2026-03-16 09:41:21 UTC
 
 **Total Participants:** 2673
 
@@ -55,9 +55,9 @@
 | 47 | 2097 | Kevin Watson |
 | 48 | 2094 | Becky McClure |
 | 49 | 2090 | Kelley Ann |
-| 50 | 2018 | Crafty Matchfit |
-| 51 | 2010 | Carlos Torres |
-| 52 | 1982 | Nick Jensen |
+| 50 | 2082 | Nick Jensen |
+| 51 | 2018 | Crafty Matchfit |
+| 52 | 2010 | Carlos Torres |
 | 53 | 1967 | Andrey Sharov |
 | 54 | 1906 | Tanya Smith |
 | 55 | 1903 | Julio Alejandro Rodriguez |
@@ -483,42 +483,42 @@
 | 475 | 246 | Twisty Balanceblock |
 | 476 | 246 | Dbabe |
 | 477 | 246 | Matt |
-| 478 | 245 | LD1 |
-| 479 | 245 | Summer D Blakeley |
-| 480 | 245 | Dda |
-| 481 | 245 | Lemon Bar |
-| 482 | 245 | Bouncy Zoner |
-| 483 | 245 | De Yske |
-| 484 | 244 | Jessica Miles |
-| 485 | 243 | Shea Ladynick Henderson |
-| 486 | 242 | Yloponom Gamez |
-| 487 | 242 | Twisty Spinbuilder |
-| 488 | 242 | Christopher Jam |
-| 489 | 242 | Lucy Honer |
-| 490 | 242 | Kennedy Sandifer |
+| 478 | 246 | Yloponom Gamez |
+| 479 | 245 | LD1 |
+| 480 | 245 | Summer D Blakeley |
+| 481 | 245 | Dda |
+| 482 | 245 | Lemon Bar |
+| 483 | 245 | Bouncy Zoner |
+| 484 | 245 | De Yske |
+| 485 | 244 | Jessica Miles |
+| 486 | 243 | Shea Ladynick Henderson |
+| 487 | 242 | Christopher Jam |
+| 488 | 242 | Lucy Honer |
+| 489 | 242 | Kennedy Sandifer |
+| 490 | 242 | Twisty Spinbuilder |
 | 491 | 241 | Ramona Marie Eruera |
-| 492 | 241 | Paula Little |
+| 492 | 241 | Jen Robinson |
 | 493 | 241 | Ann Jessica |
-| 494 | 241 | Jen Robinson |
+| 494 | 241 | Paula Little |
 | 495 | 241 | ZeldaCat |
-| 496 | 240 | Bea Miles |
-| 497 | 240 | Ryan Parson |
-| 498 | 240 | Adrian Ribellia |
+| 496 | 240 | Ryan Parson |
+| 497 | 240 | Adrian Ribellia |
+| 498 | 240 | Bea Miles |
 | 499 | 239 | Kelly Mcdaniel |
 | 500 | 239 | Morgan Anne Witty |
 | 501 | 238 | Brady Riessen |
 | 502 | 237 | Giddy Gridmatch |
-| 503 | 235 | Cari Barnes |
-| 504 | 235 | Jason Gibbs |
+| 503 | 235 | Tiffany Dawn Caldwell |
+| 504 | 235 | Cari Barnes |
 | 505 | 235 | Yo Momma |
 | 506 | 235 | David Duncan |
-| 507 | 235 | Dizzy Brickline |
-| 508 | 235 | Tiffany Dawn Caldwell |
-| 509 | 235 | Carey Kyle |
+| 507 | 235 | Jason Gibbs |
+| 508 | 235 | Carey Kyle |
+| 509 | 235 | Dizzy Brickline |
 | 510 | 235 | Hyper Pop |
-| 511 | 234 | Troy |
+| 511 | 234 | Kristina Hill Perez |
 | 512 | 234 | Summer Richardson |
-| 513 | 234 | Kristina Hill Perez |
+| 513 | 234 | Troy |
 | 514 | 233 | Jessi |
 | 515 | 232 | Brenda Bell |
 | 516 | 232 | Tipsy Riseclear |
@@ -530,18 +530,18 @@
 | 522 | 229 | Cleopatra Daniels |
 | 523 | 228 | Lindsay Lucas |
 | 524 | 228 | Beth Smith |
-| 525 | 227 | Rachel Zortman |
-| 526 | 227 | John De Guzman Sydiongco |
-| 527 | 227 | Jess Ortiz |
-| 528 | 226 | cat |
-| 529 | 226 | Sarah Marie |
+| 525 | 227 | Jess Ortiz |
+| 526 | 227 | Rachel Zortman |
+| 527 | 227 | John De Guzman Sydiongco |
+| 528 | 226 | Sarah Marie |
+| 529 | 226 | cat |
 | 530 | 225 | Robert Fenton |
 | 531 | 223 | Julia Freeman |
 | 532 | 223 | Marie Shroyer |
 | 533 | 223 | Marinara |
 | 534 | 223 | Roberta Nelson |
-| 535 | 222 | Cari Hogan |
-| 536 | 222 | Dally Hunt |
+| 535 | 222 | Dally Hunt |
+| 536 | 222 | Cari Hogan |
 | 537 | 222 | Brandy Hayhurst |
 | 538 | 222 | JTH |
 | 539 | 222 | Tracey Cox |
@@ -2333,69 +2333,69 @@
 | 2325 | 19 | Anthony Starks |
 | 2326 | 19 | Esperanza Lyne |
 | 2327 | 19 | Stacie Martel |
-| 2328 | 19 | Sunny Tile |
-| 2329 | 19 | Amber Leitzke |
-| 2330 | 19 | John Garza |
-| 2331 | 19 | Lickity Split |
-| 2332 | 19 | Joe |
-| 2333 | 19 | Shiny Patternblock |
+| 2328 | 19 | Shiny Patternblock |
+| 2329 | 19 | John Garza |
+| 2330 | 19 | Sunny Tile |
+| 2331 | 19 | Joe |
+| 2332 | 19 | Amber Leitzke |
+| 2333 | 19 | Lickity Split |
 | 2334 | 19 | Jess |
 | 2335 | 19 | Janelle Rose Durr |
 | 2336 | 19 | Alayna Guzman |
 | 2337 | 18 | Jamee Seymour |
-| 2338 | 18 | Hyper Twisterfit |
+| 2338 | 18 | Fox |
 | 2339 | 18 | Janice Mccafferty |
 | 2340 | 18 | Brave Builderline |
 | 2341 | 18 | Rosario Zendejas |
 | 2342 | 18 | Courtney Leigh |
-| 2343 | 18 | Fox |
-| 2344 | 18 | Tonya Cramlet-hughell |
+| 2343 | 18 | Tonya Cramlet-hughell |
+| 2344 | 18 | Hyper Twisterfit |
 | 2345 | 18 | Mbwdndi |
-| 2346 | 18 | Rachel Robertson |
-| 2347 | 18 | Adrienne Son |
-| 2348 | 18 | Zesty Slam |
+| 2346 | 18 | Adrienne Son |
+| 2347 | 18 | Plucky Clusterer |
+| 2348 | 18 | Becky Wilson |
 | 2349 | 18 | Jen N Shawn Ragonese |
-| 2350 | 18 | Garry Burgett |
-| 2351 | 18 | Alecia Ann McCarty |
-| 2352 | 18 | Buddy Howell |
-| 2353 | 18 | Rebekah G Ray |
-| 2354 | 18 | Becky Wilson |
-| 2355 | 17 | Jose Gerena |
-| 2356 | 17 | Loretta Green Jordan |
-| 2357 | 17 | Cozy Crusher |
-| 2358 | 17 | Danielle Barthelme |
-| 2359 | 17 | Brad Campbell |
-| 2360 | 17 | LatinaLover |
-| 2361 | 17 | Candida Driskill Pearson |
-| 2362 | 17 | Cleophus Scutchings |
-| 2363 | 17 | Jacob Rosencutter |
-| 2364 | 17 | Star |
-| 2365 | 17 | Oheema |
-| 2366 | 17 | Jazzy Dasher |
-| 2367 | 17 | Big Papa |
-| 2368 | 17 | Fred Yslas |
-| 2369 | 17 | Eugene Thompson Jr. |
+| 2350 | 18 | Zesty Slam |
+| 2351 | 18 | Rachel Robertson |
+| 2352 | 18 | Garry Burgett |
+| 2353 | 18 | Alecia Ann McCarty |
+| 2354 | 18 | Buddy Howell |
+| 2355 | 18 | Rebekah G Ray |
+| 2356 | 17 | LatinaLover |
+| 2357 | 17 | Danielle Barthelme |
+| 2358 | 17 | Brad Campbell |
+| 2359 | 17 | Cozy Crusher |
+| 2360 | 17 | Jose Gerena |
+| 2361 | 17 | Loretta Green Jordan |
+| 2362 | 17 | Candida Driskill Pearson |
+| 2363 | 17 | Cleophus Scutchings |
+| 2364 | 17 | Jacob Rosencutter |
+| 2365 | 17 | Star |
+| 2366 | 17 | Oheema |
+| 2367 | 17 | Jazzy Dasher |
+| 2368 | 17 | Big Papa |
+| 2369 | 17 | Fred Yslas |
 | 2370 | 17 | Anthony Parks |
-| 2371 | 17 | Ruby |
-| 2372 | 17 | Maria Teresa |
-| 2373 | 17 | Nerdy Linebuilder |
-| 2374 | 16 | Chipper Spinblock |
+| 2371 | 17 | Eugene Thompson Jr. |
+| 2372 | 17 | Ruby |
+| 2373 | 17 | Maria Teresa |
+| 2374 | 17 | Nerdy Linebuilder |
 | 2375 | 16 | kittomom |
 | 2376 | 16 | Frilly Risegrid |
-| 2377 | 16 | Cheei |
+| 2377 | 16 | Jennifer Duttry |
 | 2378 | 16 | xxlonixx |
-| 2379 | 16 | Plucky Clusterer |
-| 2380 | 16 | Nutty Shatterclear |
-| 2381 | 16 | Valerie Eileen |
-| 2382 | 16 | Giggly Stack |
-| 2383 | 16 | Tweaky |
-| 2384 | 16 | Jennifer Duttry |
-| 2385 | 16 | Heather Stratos |
-| 2386 | 16 | Emily Price |
-| 2387 | 16 | Dawn 🌅 |
-| 2388 | 16 | Sam |
-| 2389 | 15 | Elizabeth A. Lisa Short |
-| 2390 | 15 | Sarah Hanneken |
+| 2379 | 16 | Nutty Shatterclear |
+| 2380 | 16 | Valerie Eileen |
+| 2381 | 16 | Giggly Stack |
+| 2382 | 16 | Cheei |
+| 2383 | 16 | Chipper Spinblock |
+| 2384 | 16 | Heather Stratos |
+| 2385 | 16 | Emily Price |
+| 2386 | 16 | Dawn 🌅 |
+| 2387 | 16 | Sam |
+| 2388 | 16 | Tweaky |
+| 2389 | 15 | Sarah Hanneken |
+| 2390 | 15 | Elizabeth A. Lisa Short |
 | 2391 | 15 | Shalonda Robinson |
 | 2392 | 15 | Marcel Perzhu |
 | 2393 | 15 | Lush Chiseler |
