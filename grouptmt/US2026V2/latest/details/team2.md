@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 08:38:43 UTC
+# Standings for team2 as of 2026-03-16 08:39:20 UTC
 
 **Total Participants:** 2660
 
@@ -36,8 +36,8 @@
 | 28 | 3313 | Snippy Basepiece |
 | 29 | 3262 | Joshua Carter |
 | 30 | 3261 | Eckoman518 |
-| 31 | 3147 | Fae-Bulous |
-| 32 | 3138 | Elizabeth Crowder Pelton |
+| 31 | 3224 | Elizabeth Crowder Pelton |
+| 32 | 3147 | Fae-Bulous |
 | 33 | 3126 | Linda Lively |
 | 34 | 3069 | hyper Zip |
 | 35 | 2931 | Carrie Mitchell |
