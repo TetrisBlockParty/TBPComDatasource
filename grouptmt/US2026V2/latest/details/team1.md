@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 07:10:19 UTC
+# Standings for team1 as of 2026-03-16 07:11:23 UTC
 
 **Total Participants:** 2631
 
@@ -185,9 +185,9 @@
 | 177 | 683 | Dustin Rouse |
 | 178 | 683 | Kim Bays |
 | 179 | 682 | Perky Shatterline |
-| 180 | 668 | Simmone T. Kadiri |
-| 181 | 667 | TexasLise |
-| 182 | 660 | Darci Cline |
+| 180 | 680 | Darci Cline |
+| 181 | 668 | Simmone T. Kadiri |
+| 182 | 667 | TexasLise |
 | 183 | 656 | Shawn Kelso |
 | 184 | 653 | Snippy Stacky |
 | 185 | 653 | Crafty Tilebuilder |
@@ -350,7 +350,7 @@
 | 342 | 346 | Crystal Sara E |
 | 343 | 342 | Evy |
 | 344 | 340 | Ed Bullen |
-| 345 | 338 | AngelVoice JB |
+| 345 | 339 | AngelVoice JB |
 | 346 | 337 | Stephanie Myers |
 | 347 | 336 | Mighty Clear |
 | 348 | 334 | Flashy Rotator |
@@ -762,92 +762,92 @@
 | 754 | 155 | Shekita Gibbs |
 | 755 | 155 | Tabetha Craddock |
 | 756 | 155 | Robert A. Horne |
-| 757 | 155 | Scott Disedare |
+| 757 | 155 | mikey |
 | 758 | 155 | Rosanna Atria-Schnickel |
-| 759 | 155 | mikey |
-| 760 | 154 | Nathan Sealander |
-| 761 | 154 | Barbara Miller |
-| 762 | 154 | Vicki Dougie |
-| 763 | 154 | KMart |
+| 759 | 155 | Scott Disedare |
+| 760 | 154 | KMart |
+| 761 | 154 | Nathan Sealander |
+| 762 | 154 | Barbara Miller |
+| 763 | 154 | Vicki Dougie |
 | 764 | 153 | LucasEveryday |
 | 765 | 153 | Karmyst |
-| 766 | 152 | Christie Love |
-| 767 | 152 | Christina Rentz-Lane |
+| 766 | 152 | Christina Rentz-Lane |
+| 767 | 152 | Christie Love |
 | 768 | 152 | Austin Wilson |
 | 769 | 152 | Chipper Matcher |
 | 770 | 152 | Sasha Farnsworth |
 | 771 | 151 | Dunlap Loretta |
-| 772 | 150 | MaegenMarie Jones |
-| 773 | 150 | Eric Wren |
-| 774 | 150 | Peachy Snaplink |
+| 772 | 150 | Eric Wren |
+| 773 | 150 | Peachy Snaplink |
+| 774 | 150 | MaegenMarie Jones |
 | 775 | 149 | Chummy Rollzone |
 | 776 | 149 | Loopy Edge |
 | 777 | 148 | Mel Fab |
-| 778 | 148 | Zippy Cascadezone |
-| 779 | 148 | Carl Hampton |
-| 780 | 147 | Beavis715 |
-| 781 | 147 | TheBiz2 |
-| 782 | 146 | ZhenZhen |
+| 778 | 148 | Carl Hampton |
+| 779 | 148 | Zippy Cascadezone |
+| 780 | 147 | TheBiz2 |
+| 781 | 147 | Beavis715 |
+| 782 | 146 | Cozy Builderfit |
 | 783 | 146 | Chuck Williams |
 | 784 | 146 | Misstery |
-| 785 | 146 | Cozy Builderfit |
-| 786 | 146 | Denise Vardy Vanlanker |
-| 787 | 145 | kito23 |
-| 788 | 145 | Amber LR Sutter |
-| 789 | 145 | Selena Shaw |
-| 790 | 145 | Cool Slice |
+| 785 | 146 | Denise Vardy Vanlanker |
+| 786 | 146 | ZhenZhen |
+| 787 | 145 | Amber LR Sutter |
+| 788 | 145 | kito23 |
+| 789 | 145 | Cool Slice |
+| 790 | 145 | Selena Shaw |
 | 791 | 145 | TileDestroyer |
-| 792 | 144 | William Ramirez |
-| 793 | 144 | Thomas Carlisle |
+| 792 | 144 | Thomas Carlisle |
+| 793 | 144 | William Ramirez |
 | 794 | 144 | OzzyFan4Life |
-| 795 | 143 | Randy Clevenger |
-| 796 | 143 | Wren#3 |
-| 797 | 143 | Nance Jeano |
-| 798 | 143 | Buster Goots |
-| 799 | 143 | primus |
-| 800 | 143 | Nuga |
-| 801 | 143 | Groovy Cascadefit |
-| 802 | 143 | Pupcup |
-| 803 | 143 | Spunky Matchfit |
-| 804 | 142 | Kimberly Goncalves |
+| 795 | 143 | Randy Bowers |
+| 796 | 143 | primus |
+| 797 | 143 | Wren#3 |
+| 798 | 143 | Nance Jeano |
+| 799 | 143 | Buster Goots |
+| 800 | 143 | Randy Clevenger |
+| 801 | 143 | Nuga |
+| 802 | 143 | Groovy Cascadefit |
+| 803 | 143 | Pupcup |
+| 804 | 143 | Spunky Matchfit |
 | 805 | 142 | Goofy Linkblock |
-| 806 | 142 | Kristen Hall |
-| 807 | 142 | Peppy Brickclear |
-| 808 | 142 | Snapdragon |
-| 809 | 141 | Brat |
-| 810 | 141 | Zion Hadley |
-| 811 | 141 | Randy Bowers |
+| 806 | 142 | Kimberly Goncalves |
+| 807 | 142 | Kristen Hall |
+| 808 | 142 | Peppy Brickclear |
+| 809 | 142 | Snapdragon |
+| 810 | 141 | Brat |
+| 811 | 141 | Zion Hadley |
 | 812 | 140 | Betty Bóò |
 | 813 | 140 | Fredricka Cole |
-| 814 | 140 | cheeryPrincess |
+| 814 | 140 | Kat Fisher |
 | 815 | 140 | Santana Lantana |
 | 816 | 140 | Black Rubix |
 | 817 | 140 | Ash |
 | 818 | 140 | Happy Clicker |
-| 819 | 140 | Kat Fisher |
-| 820 | 140 | Jennifer Negrete |
-| 821 | 140 | Chipper Balancepiece |
+| 819 | 140 | Jennifer Negrete |
+| 820 | 140 | Chipper Balancepiece |
+| 821 | 140 | cheeryPrincess |
 | 822 | 139 | Christi Bouten-Harmon |
 | 823 | 139 | Cheeky Snaplink |
 | 824 | 138 | Missy Lynn |
 | 825 | 138 | Melsap #8284 |
 | 826 | 138 | Robert Earl Harper III |
-| 827 | 137 | Shannon Tannehill |
-| 828 | 137 | Jason Wreggitt |
-| 829 | 137 | Ruhshikuh Lakor |
-| 830 | 137 | Loony Spinzone |
+| 827 | 137 | Jason Wreggitt |
+| 828 | 137 | Ruhshikuh Lakor |
+| 829 | 137 | Loony Spinzone |
+| 830 | 137 | Shannon Tannehill |
 | 831 | 136 | Ashley Kostek |
-| 832 | 135 | Larry Jackson |
-| 833 | 135 | Michael Phillips |
-| 834 | 135 | cac |
-| 835 | 135 | Juan Pena |
-| 836 | 135 | Gwenda Wright |
-| 837 | 135 | Robert |
-| 838 | 135 | BugsMama |
-| 839 | 135 | April Bennett |
-| 840 | 135 | Alana Susan Hanley |
-| 841 | 135 | Michael-Melissa Markham |
-| 842 | 134 | Greenbayfan |
+| 832 | 136 | Greenbayfan |
+| 833 | 135 | Larry Jackson |
+| 834 | 135 | Juan Pena |
+| 835 | 135 | Michael Phillips |
+| 836 | 135 | cac |
+| 837 | 135 | Gwenda Wright |
+| 838 | 135 | Robert |
+| 839 | 135 | BugsMama |
+| 840 | 135 | April Bennett |
+| 841 | 135 | Alana Susan Hanley |
+| 842 | 135 | Michael-Melissa Markham |
 | 843 | 134 | Chin lock |
 | 844 | 134 | OneBuke FollowMe |
 | 845 | 134 | Dan Engelhard |
