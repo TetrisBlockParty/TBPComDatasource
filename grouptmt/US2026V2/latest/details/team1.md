@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 04:24:18 UTC
+# Standings for team1 as of 2026-03-16 04:24:40 UTC
 
 **Total Participants:** 2578
 
@@ -408,27 +408,27 @@
 | 400 | 276 | Flashy Stacky |
 | 401 | 275 | lefty |
 | 402 | 274 | Daring Shuffler |
-| 403 | 273 | Sandra Link-Gable |
-| 404 | 272 | Rachel Ballard |
-| 405 | 270 | Shiny Patternblock |
-| 406 | 269 | Erin Hodges Plumb |
+| 403 | 273 | John Gardner |
+| 404 | 273 | Sandra Link-Gable |
+| 405 | 272 | Rachel Ballard |
+| 406 | 270 | Shiny Patternblock |
 | 407 | 269 | SpunkyStriker |
-| 408 | 268 | Mandy Stevenson |
-| 409 | 267 | Tractor Houston |
-| 410 | 267 | Jaame Courtney |
-| 411 | 266 | Foulplay176 |
+| 408 | 269 | Erin Hodges Plumb |
+| 409 | 268 | Mandy Stevenson |
+| 410 | 267 | Tractor Houston |
+| 411 | 267 | Jaame Courtney |
 | 412 | 266 | Kehlyn King |
-| 413 | 265 | Brenda Stewart |
-| 414 | 264 | Giggy Snaplink |
+| 413 | 266 | Foulplay176 |
+| 414 | 265 | Brenda Stewart |
 | 415 | 264 | Crazy12 |
-| 416 | 263 | John Gardner |
+| 416 | 264 | Giggy Snaplink |
 | 417 | 262 | Rob Chebetar |
 | 418 | 261 | Sallie Sanborn |
 | 419 | 259 | Chris Alexinas |
 | 420 | 259 | Snappy Linkroll |
 | 421 | 259 | Jaay |
-| 422 | 258 | MisfitH |
-| 423 | 258 | Chill Matchzone |
+| 422 | 258 | Chill Matchzone |
+| 423 | 258 | MisfitH |
 | 424 | 257 | Jason Hawk |
 | 425 | 257 | Bingo Wingo |
 | 426 | 257 | Lively Patternfall |
@@ -505,29 +505,29 @@
 | 497 | 221 | Ash Galvan |
 | 498 | 220 | Michelle Lee |
 | 499 | 220 | Wulfbyte |
-| 500 | 218 | Crystal Rosen |
-| 501 | 218 | Brandon McDonald |
-| 502 | 218 | Matthew Laudico |
+| 500 | 218 | Melanie Kelley |
+| 501 | 218 | Crystal Rosen |
+| 502 | 218 | Brandon McDonald |
 | 503 | 218 | Kelli Pazour |
-| 504 | 218 | Melanie Kelley |
+| 504 | 218 | Matthew Laudico |
 | 505 | 217 | Michelle Cummings |
-| 506 | 217 | Poppy Builderline |
-| 507 | 216 | gucci |
-| 508 | 216 | Joe Andrew Jackson |
-| 509 | 215 | Kim Robinson |
-| 510 | 215 | Shawna Days |
-| 511 | 214 | Terrance Williams |
-| 512 | 213 | Brandon Green |
-| 513 | 211 | Rose Anna |
-| 514 | 211 | Kimmy White |
-| 515 | 210 | Crystal Claypool |
-| 516 | 209 | Porkobello |
-| 517 | 209 | Dizzy Stackbuilder |
-| 518 | 208 | Erica Catherine |
-| 519 | 208 | Philippines |
-| 520 | 208 | Pig02 |
-| 521 | 207 | Dawgofwar |
-| 522 | 207 | Cassi Owens |
+| 506 | 217 | Cassi Owens |
+| 507 | 217 | Poppy Builderline |
+| 508 | 216 | gucci |
+| 509 | 216 | Joe Andrew Jackson |
+| 510 | 215 | Kim Robinson |
+| 511 | 215 | Shawna Days |
+| 512 | 214 | Terrance Williams |
+| 513 | 213 | Brandon Green |
+| 514 | 211 | Rose Anna |
+| 515 | 211 | Kimmy White |
+| 516 | 210 | Crystal Claypool |
+| 517 | 209 | Porkobello |
+| 518 | 209 | Dizzy Stackbuilder |
+| 519 | 208 | Erica Catherine |
+| 520 | 208 | Philippines |
+| 521 | 208 | Pig02 |
+| 522 | 207 | Dawgofwar |
 | 523 | 207 | SAP |
 | 524 | 206 | Kellia S Johnson |
 | 525 | 206 | Deb Horwath |
@@ -1162,102 +1162,102 @@
 | 1154 | 89 | William Bowers |
 | 1155 | 89 | Amy Niemeier |
 | 1156 | 89 | Eddie Morales |
-| 1157 | 88 | Crruth |
+| 1157 | 88 | Richard Cranium |
 | 1158 | 88 | Lasey Rands |
-| 1159 | 88 | Richard Cranium |
+| 1159 | 88 | Crruth |
 | 1160 | 87 | S Gale Holton |
 | 1161 | 87 | Matt Morrow |
 | 1162 | 87 | Anny Johnson |
-| 1163 | 87 | Alexandra Karavias |
-| 1164 | 87 | Tara |
-| 1165 | 87 | Lacey Renee Dietz |
-| 1166 | 86 | Itn |
-| 1167 | 86 | LaTisha Stillsmilin Hudson |
-| 1168 | 86 | KingSteve |
-| 1169 | 86 | Neomi Perdue |
-| 1170 | 86 | Angie Dotson |
-| 1171 | 86 | April Mancuosso |
+| 1163 | 87 | Lacey Renee Dietz |
+| 1164 | 87 | Alexandra Karavias |
+| 1165 | 87 | Tara |
+| 1166 | 86 | April Mancuosso |
+| 1167 | 86 | Angie Dotson |
+| 1168 | 86 | Neomi Perdue |
+| 1169 | 86 | KingSteve |
+| 1170 | 86 | LaTisha Stillsmilin Hudson |
+| 1171 | 86 | Itn |
 | 1172 | 85 | Baretta Scott |
-| 1173 | 85 | RainbowOwl |
+| 1173 | 85 | Nikki Eaton |
 | 1174 | 85 | Amanda Falta |
-| 1175 | 85 | ImStupid |
-| 1176 | 85 | Nikki Eaton |
-| 1177 | 85 | Happy Buildsnap |
+| 1175 | 85 | RainbowOwl |
+| 1176 | 85 | ImStupid |
+| 1177 | 85 | Tabitha Rose Stone |
 | 1178 | 85 | Bri037 |
-| 1179 | 85 | Tabitha Rose Stone |
-| 1180 | 85 | Dandy Snapper |
+| 1179 | 85 | Dandy Snapper |
+| 1180 | 85 | Happy Buildsnap |
 | 1181 | 85 | Scott Baum |
 | 1182 | 85 | Mo Mulah |
 | 1183 | 85 | Tracey Wilson |
 | 1184 | 85 | Snippy Builderpiece |
 | 1185 | 85 | Tim Slone |
 | 1186 | 84 | Stacy Patterson |
-| 1187 | 84 | Rebecca Fitch |
-| 1188 | 84 | Matthew Foley |
-| 1189 | 84 | Dale |
-| 1190 | 84 | Tara Spencer |
+| 1187 | 84 | Dale |
+| 1188 | 84 | iceman |
+| 1189 | 84 | Rebecca Fitch |
+| 1190 | 84 | Nunya |
 | 1191 | 84 | Bob Sitts |
 | 1192 | 84 | James Alexander Gonzales |
-| 1193 | 84 | Nunya |
-| 1194 | 84 | iceman |
-| 1195 | 83 | Aj Fredenburg |
-| 1196 | 83 | Vicky Shull |
-| 1197 | 83 | Bill Frederick |
-| 1198 | 83 | Christine Sheridan |
-| 1199 | 83 | Quaheem Brown-Riley |
-| 1200 | 83 | Elizabeth A Cobuccio |
-| 1201 | 83 | Pretty Eyes |
-| 1202 | 83 | p |
-| 1203 | 83 | sobercocoa |
-| 1204 | 83 | Joey Burns |
-| 1205 | 83 | Renee |
-| 1206 | 82 | Tetrist |
-| 1207 | 82 | Tracie Corbett |
-| 1208 | 82 | Zesty Balancepiece |
-| 1209 | 82 | Tony McCormick |
-| 1210 | 82 | Meredith Ann |
-| 1211 | 82 | Karissa Hull |
-| 1212 | 82 | KingRoss |
-| 1213 | 82 | Bubbly Blast |
-| 1214 | 82 | Zippy Slamdrop |
-| 1215 | 82 | Yoga Jones |
-| 1216 | 81 | Loony Stagger |
-| 1217 | 81 | Laura Lewis |
-| 1218 | 81 | LuLa |
+| 1193 | 84 | Tara Spencer |
+| 1194 | 84 | Matthew Foley |
+| 1195 | 84 | Steven Andrew |
+| 1196 | 83 | Aj Fredenburg |
+| 1197 | 83 | Vicky Shull |
+| 1198 | 83 | Quaheem Brown-Riley |
+| 1199 | 83 | Christine Sheridan |
+| 1200 | 83 | sobercocoa |
+| 1201 | 83 | Elizabeth A Cobuccio |
+| 1202 | 83 | Pretty Eyes |
+| 1203 | 83 | p |
+| 1204 | 83 | Renee |
+| 1205 | 83 | Joey Burns |
+| 1206 | 83 | Bill Frederick |
+| 1207 | 82 | Tetrist |
+| 1208 | 82 | Yoga Jones |
+| 1209 | 82 | Zesty Balancepiece |
+| 1210 | 82 | Tony McCormick |
+| 1211 | 82 | Zippy Slamdrop |
+| 1212 | 82 | Meredith Ann |
+| 1213 | 82 | Karissa Hull |
+| 1214 | 82 | Tracie Corbett |
+| 1215 | 82 | KingRoss |
+| 1216 | 82 | Bubbly Blast |
+| 1217 | 81 | Loony Stagger |
+| 1218 | 81 | Laura Lewis |
 | 1219 | 81 | Michelle Roberts |
-| 1220 | 81 | Duna Tats |
-| 1221 | 80 | Christi Burley |
-| 1222 | 80 | Matthew Graves D.C. |
-| 1223 | 80 | Stellar |
-| 1224 | 80 | BIGOONS |
-| 1225 | 80 | BeeDub |
-| 1226 | 80 | Emzmom13 |
-| 1227 | 80 | MrsW |
-| 1228 | 80 | BDubb |
-| 1229 | 80 | Mel Esquibel Brostoski |
-| 1230 | 80 | Aseven Elements |
-| 1231 | 80 | Katelyn B. Pritchard |
-| 1232 | 80 | Breezy Tilebuilder |
+| 1220 | 81 | LuLa |
+| 1221 | 81 | Duna Tats |
+| 1222 | 80 | Christi Burley |
+| 1223 | 80 | Matthew Graves D.C. |
+| 1224 | 80 | Stellar |
+| 1225 | 80 | BIGOONS |
+| 1226 | 80 | BeeDub |
+| 1227 | 80 | Emzmom13 |
+| 1228 | 80 | MrsW |
+| 1229 | 80 | Aseven Elements |
+| 1230 | 80 | BDubb |
+| 1231 | 80 | Mel Esquibel Brostoski |
+| 1232 | 80 | Katelyn B. Pritchard |
 | 1233 | 80 | Ricardo Ferreira |
-| 1234 | 80 | Jumpy Winder |
-| 1235 | 80 | LovelyGem0610 |
-| 1236 | 80 | Angela |
+| 1234 | 80 | Breezy Tilebuilder |
+| 1235 | 80 | Jumpy Winder |
+| 1236 | 80 | LovelyGem0610 |
 | 1237 | 80 | MomOf2Angels |
 | 1238 | 80 | Swift |
 | 1239 | 80 | Kathy Searles |
-| 1240 | 80 | Dan Capellan |
-| 1241 | 80 | Katt Brown-Thomas |
-| 1242 | 80 | BKLYN.BOY |
-| 1243 | 80 | Connie Bond |
-| 1244 | 79 | Jordan Leach |
-| 1245 | 79 | Aira Rangel |
-| 1246 | 79 | Tracy Priceless Gholston |
-| 1247 | 79 | Glitzy Linkpiece |
-| 1248 | 79 | Aaron M Luna |
-| 1249 | 79 | Christie Reynolds |
-| 1250 | 78 | Steven Andrew |
-| 1251 | 78 | Andrea Clippert |
-| 1252 | 78 | StarlessRevenge |
+| 1240 | 80 | Angela |
+| 1241 | 80 | Dan Capellan |
+| 1242 | 80 | Katt Brown-Thomas |
+| 1243 | 80 | BKLYN.BOY |
+| 1244 | 80 | Connie Bond |
+| 1245 | 79 | Jordan Leach |
+| 1246 | 79 | Aira Rangel |
+| 1247 | 79 | Tracy Priceless Gholston |
+| 1248 | 79 | Glitzy Linkpiece |
+| 1249 | 79 | Aaron M Luna |
+| 1250 | 79 | Christie Reynolds |
+| 1251 | 78 | StarlessRevenge |
+| 1252 | 78 | Andrea Clippert |
 | 1253 | 78 | Penny Clark |
 | 1254 | 78 | Ronald Przytulski |
 | 1255 | 78 | Jessa Short-Burkhart |
