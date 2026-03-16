@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 08:30:21 UTC
+# Standings for team2 as of 2026-03-16 08:31:17 UTC
 
 **Total Participants:** 2658
 
@@ -108,70 +108,70 @@
 | 100 | 1050 | Christine Lin |
 | 101 | 1050 | Peachy Matchgrid |
 | 102 | 1046 | nickle109 |
-| 103 | 1025 | Anna Faulkner |
-| 104 | 1018 | TreeWee |
-| 105 | 1004 | Grace Rubalcada |
-| 106 | 1001 | Jennifer Golub |
-| 107 | 997 | Marianthe Bagensie |
-| 108 | 993 | Autumn Leslie |
-| 109 | 966 | Arnae Draughon |
-| 110 | 964 | Gael |
-| 111 | 956 | Jumpy Filler |
-| 112 | 956 | ddd |
-| 113 | 955 | Liana Spikes |
-| 114 | 953 | Sara Morgan |
-| 115 | 953 | Raven Smith |
-| 116 | 948 | Minxy |
-| 117 | 947 | Neet |
-| 118 | 947 | Khalysta |
-| 119 | 923 | Lisa Neal |
-| 120 | 896 | DJ Bincent |
-| 121 | 891 | Dreamy Clicker |
-| 122 | 885 | Kasheba Y Bowens |
-| 123 | 882 | Elizabeth Stanley |
-| 124 | 873 | Topsannah Topsannah |
-| 125 | 869 | Antoinette Griffin |
-| 126 | 866 | Michael H. M. Skropka |
-| 127 | 855 | Robert Martinez |
-| 128 | 838 | Adrienne Fisher |
-| 129 | 832 | Dapper Gridclear |
-| 130 | 819 | Dylan Toy |
-| 131 | 800 | Deb Wasano |
-| 132 | 799 | Giggity boots |
-| 133 | 798 | John Matson |
-| 134 | 797 | Shelly Babie |
-| 135 | 795 | Nathaniel Hardy |
-| 136 | 762 | Sass |
-| 137 | 752 | Qing DG |
-| 138 | 750 | Danielle Mogg |
-| 139 | 749 | Frothy Linker |
-| 140 | 748 | Mike Carden |
-| 141 | 743 | Dandy Crasher |
-| 142 | 741 | Tash Bell |
-| 143 | 740 | Jamie Lang |
-| 144 | 737 | Marc |
-| 145 | 735 | Joy LaJeunesse |
-| 146 | 732 | CharalaAnn |
-| 147 | 730 | Shawn Haines |
-| 148 | 726 | Blaze Sexton |
-| 149 | 724 | Derrell W. Barron |
-| 150 | 722 | Mary Reeves |
-| 151 | 721 | Ariel Pearson |
-| 152 | 720 | Dane Roy |
-| 153 | 720 | Ania |
-| 154 | 717 | Cranky Gridder |
-| 155 | 704 | Joshua |
-| 156 | 704 | Sheena Hachmann |
-| 157 | 704 | Hp Gold |
-| 158 | 704 | Emily Wooden |
-| 159 | 700 | Veronica Martin Trinkle |
-| 160 | 698 | Rafael Valentin |
-| 161 | 697 | Kacee Conrad Bock |
-| 162 | 684 | Tess Shaheen |
-| 163 | 676 | Carmilita Burpo Jordan |
-| 164 | 671 | Connie Mohler-Fair |
-| 165 | 670 | Amanda Segura |
-| 166 | 667 | Pixie |
+| 103 | 1028 | Pixie |
+| 104 | 1025 | Anna Faulkner |
+| 105 | 1018 | TreeWee |
+| 106 | 1004 | Grace Rubalcada |
+| 107 | 1001 | Jennifer Golub |
+| 108 | 997 | Marianthe Bagensie |
+| 109 | 993 | Autumn Leslie |
+| 110 | 966 | Arnae Draughon |
+| 111 | 964 | Gael |
+| 112 | 956 | Jumpy Filler |
+| 113 | 956 | ddd |
+| 114 | 955 | Liana Spikes |
+| 115 | 953 | Sara Morgan |
+| 116 | 953 | Raven Smith |
+| 117 | 948 | Minxy |
+| 118 | 947 | Neet |
+| 119 | 947 | Khalysta |
+| 120 | 923 | Lisa Neal |
+| 121 | 896 | DJ Bincent |
+| 122 | 891 | Dreamy Clicker |
+| 123 | 885 | Kasheba Y Bowens |
+| 124 | 882 | Elizabeth Stanley |
+| 125 | 873 | Topsannah Topsannah |
+| 126 | 869 | Antoinette Griffin |
+| 127 | 866 | Michael H. M. Skropka |
+| 128 | 855 | Robert Martinez |
+| 129 | 838 | Adrienne Fisher |
+| 130 | 832 | Dapper Gridclear |
+| 131 | 819 | Dylan Toy |
+| 132 | 800 | Deb Wasano |
+| 133 | 799 | Giggity boots |
+| 134 | 798 | John Matson |
+| 135 | 797 | Shelly Babie |
+| 136 | 795 | Nathaniel Hardy |
+| 137 | 762 | Sass |
+| 138 | 752 | Qing DG |
+| 139 | 750 | Danielle Mogg |
+| 140 | 749 | Frothy Linker |
+| 141 | 748 | Mike Carden |
+| 142 | 743 | Dandy Crasher |
+| 143 | 741 | Tash Bell |
+| 144 | 740 | Jamie Lang |
+| 145 | 737 | Marc |
+| 146 | 735 | Joy LaJeunesse |
+| 147 | 732 | CharalaAnn |
+| 148 | 730 | Shawn Haines |
+| 149 | 726 | Blaze Sexton |
+| 150 | 724 | Derrell W. Barron |
+| 151 | 722 | Mary Reeves |
+| 152 | 721 | Ariel Pearson |
+| 153 | 720 | Dane Roy |
+| 154 | 720 | Ania |
+| 155 | 717 | Cranky Gridder |
+| 156 | 704 | Joshua |
+| 157 | 704 | Sheena Hachmann |
+| 158 | 704 | Hp Gold |
+| 159 | 704 | Emily Wooden |
+| 160 | 700 | Veronica Martin Trinkle |
+| 161 | 698 | Rafael Valentin |
+| 162 | 697 | Kacee Conrad Bock |
+| 163 | 684 | Tess Shaheen |
+| 164 | 676 | Carmilita Burpo Jordan |
+| 165 | 671 | Connie Mohler-Fair |
+| 166 | 670 | Amanda Segura |
 | 167 | 660 | Amanda Sullivan |
 | 168 | 660 | Lateisha Morris |
 | 169 | 660 | Madia Quick |
@@ -913,14 +913,14 @@
 | 905 | 124 | Ariel |
 | 906 | 124 | DrMichelle Richardson |
 | 907 | 124 | Crystal Ali |
-| 908 | 124 | JjB |
-| 909 | 123 | Laura Buckley |
-| 910 | 123 | Kara Ann Cray |
-| 911 | 123 | Gam Gam |
-| 912 | 123 | Dizzy Edgefit |
-| 913 | 123 | Twisty Piecefit |
-| 914 | 122 | Dandy Buildsnap |
-| 915 | 122 | Jenn Leigh |
+| 908 | 124 | Jenn Leigh |
+| 909 | 124 | JjB |
+| 910 | 123 | Laura Buckley |
+| 911 | 123 | Kara Ann Cray |
+| 912 | 123 | Gam Gam |
+| 913 | 123 | Dizzy Edgefit |
+| 914 | 123 | Twisty Piecefit |
+| 915 | 122 | Dandy Buildsnap |
 | 916 | 122 | Bold Brickzone |
 | 917 | 122 | Funky Stackzone |
 | 918 | 121 | Jennifer Monroe Kelly |
