@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-16 07:08:19 UTC
+# Standings for team3 as of 2026-03-16 07:08:44 UTC
 
 **Total Participants:** 4144
 
@@ -316,32 +316,32 @@
 | 308 | 592 | Arlene Joy Belicina |
 | 309 | 589 | Ty Quarles |
 | 310 | 579 | Nicki Vogus |
-| 311 | 574 | Alkaben Fortunato |
-| 312 | 571 | Denise Rickman |
+| 311 | 577 | Sherly Hy |
+| 312 | 574 | Alkaben Fortunato |
 | 313 | 571 | Ash |
-| 314 | 568 | Hannah Conlon |
-| 315 | 566 | Rin |
-| 316 | 565 | Christine Maximo |
-| 317 | 564 | Tawna Curry |
+| 314 | 571 | Denise Rickman |
+| 315 | 568 | Hannah Conlon |
+| 316 | 566 | Rin |
+| 317 | 565 | Christine Maximo |
 | 318 | 564 | Giggy Cornerfall |
-| 319 | 560 | MarvelousMe |
-| 320 | 560 | Christy Garris Patterson |
-| 321 | 559 | Connie Perry-Menahem |
-| 322 | 554 | Monique Harvey |
-| 323 | 552 | Shanae Taylor |
-| 324 | 552 | Michelle Drew |
-| 325 | 552 | Dre Brown |
-| 326 | 550 | Olivia Walker |
-| 327 | 541 | Joyce Johnson Vaughn |
-| 328 | 540 | Moist_B-hole |
-| 329 | 537 | Jimeka Turner |
-| 330 | 535 | Lady-Cris Shirley-Harden |
-| 331 | 533 | Erez Yosef |
-| 332 | 533 | Stephanie Keasling |
-| 333 | 531 | Tam |
-| 334 | 529 | Valley Valentino |
-| 335 | 528 | Hoppy Patternline |
-| 336 | 527 | Sherly Hy |
+| 319 | 564 | Tawna Curry |
+| 320 | 560 | MarvelousMe |
+| 321 | 560 | Christy Garris Patterson |
+| 322 | 559 | Connie Perry-Menahem |
+| 323 | 554 | Monique Harvey |
+| 324 | 552 | Shanae Taylor |
+| 325 | 552 | Michelle Drew |
+| 326 | 552 | Dre Brown |
+| 327 | 550 | Olivia Walker |
+| 328 | 541 | Joyce Johnson Vaughn |
+| 329 | 540 | Moist_B-hole |
+| 330 | 537 | Jimeka Turner |
+| 331 | 535 | Lady-Cris Shirley-Harden |
+| 332 | 533 | Erez Yosef |
+| 333 | 533 | Stephanie Keasling |
+| 334 | 531 | Tam |
+| 335 | 529 | Valley Valentino |
+| 336 | 528 | Hoppy Patternline |
 | 337 | 527 | Annie Kim |
 | 338 | 526 | Dena Gandhi |
 | 339 | 525 | Michelle Peters |
