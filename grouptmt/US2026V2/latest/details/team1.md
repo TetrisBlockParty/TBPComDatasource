@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 09:50:44 UTC
+# Standings for team1 as of 2026-03-16 09:51:20 UTC
 
 **Total Participants:** 2655
 
@@ -68,8 +68,8 @@
 | 60 | 1970 | Christina Costantino |
 | 61 | 1969 | C Wing Chu |
 | 62 | 1923 | Tanya Bailey |
-| 63 | 1922 | Quirky Twistline |
-| 64 | 1922 | Robert Everett |
+| 63 | 1922 | Robert Everett |
+| 64 | 1922 | Quirky Twistline |
 | 65 | 1891 | Fancy Shuffler |
 | 66 | 1872 | Kevin Sees |
 | 67 | 1872 | Breezy Ivy |
@@ -80,7 +80,7 @@
 | 72 | 1672 | Brandon Hill |
 | 73 | 1669 | Goober |
 | 74 | 1660 | Renee Weedling |
-| 75 | 1552 | Jason Rogers |
+| 75 | 1563 | Jason Rogers |
 | 76 | 1550 | Ryry |
 | 77 | 1543 | Spunky Snapfit |
 | 78 | 1525 | Sherri Drews |
@@ -187,20 +187,20 @@
 | 179 | 693 | Kat Mfm Kaul |
 | 180 | 690 | Giddy Balancepiece |
 | 181 | 687 | Matt Aguilar |
-| 182 | 683 | Dustin Rouse |
-| 183 | 683 | Kim Bays |
+| 182 | 683 | Kim Bays |
+| 183 | 683 | Dustin Rouse |
 | 184 | 682 | Perky Shatterline |
 | 185 | 668 | Simmone T. Kadiri |
 | 186 | 667 | TexasLise |
-| 187 | 656 | Shawn Kelso |
-| 188 | 653 | Crafty Tilebuilder |
-| 189 | 653 | Snippy Stacky |
-| 190 | 652 | Marianne Louise West |
-| 191 | 652 | Chris Wanner |
-| 192 | 650 | Sassy Cascadepiece |
-| 193 | 649 | DeeBee |
-| 194 | 645 | Alicia Parrish |
-| 195 | 642 | Thorpedo |
+| 187 | 662 | Thorpedo |
+| 188 | 656 | Shawn Kelso |
+| 189 | 653 | Crafty Tilebuilder |
+| 190 | 653 | Snippy Stacky |
+| 191 | 652 | Marianne Louise West |
+| 192 | 652 | Chris Wanner |
+| 193 | 650 | Sassy Cascadepiece |
+| 194 | 649 | DeeBee |
+| 195 | 645 | Alicia Parrish |
 | 196 | 641 | Crafty Dash |
 | 197 | 638 | Chrys Peters |
 | 198 | 630 | Ramona Gulledge |
@@ -224,8 +224,8 @@
 | 216 | 558 | Rennon Scott Wilson |
 | 217 | 557 | Ancient Intuition |
 | 218 | 555 | Erin Halleman |
-| 219 | 554 | Austin |
-| 220 | 554 | Allena Craft |
+| 219 | 554 | Allena Craft |
+| 220 | 554 | Austin |
 | 221 | 553 | Haley Anne |
 | 222 | 551 | Victoria Davis Torie |
 | 223 | 550 | Frilly Climber |
@@ -236,21 +236,21 @@
 | 228 | 540 | Flashy Rotator |
 | 229 | 540 | Jevon Griffith |
 | 230 | 538 | Alicia Sheckler |
-| 231 | 536 | Matthew Bunn |
-| 232 | 533 | Desiree Jenson |
-| 233 | 531 | TetrisWoo |
-| 234 | 530 | Sheree Twiddy Thornton |
-| 235 | 529 | Jaime Barrett Nelson |
-| 236 | 524 | Jessica Ritter |
-| 237 | 521 | Julie A Hutchinson |
+| 231 | 536 | Julie A Hutchinson |
+| 232 | 536 | Matthew Bunn |
+| 233 | 533 | Desiree Jenson |
+| 234 | 531 | TetrisWoo |
+| 235 | 530 | Sheree Twiddy Thornton |
+| 236 | 529 | Jaime Barrett Nelson |
+| 237 | 524 | Jessica Ritter |
 | 238 | 518 | KK |
 | 239 | 509 | Cheeky Blocky |
 | 240 | 508 | Erich EMac McIntosh |
 | 241 | 499 | Liliana Pena |
 | 242 | 496 | Fatima Washington |
 | 243 | 494 | Chris Kelly |
-| 244 | 492 | Elizabeth Hughes |
-| 245 | 492 | Tisha Cammack |
+| 244 | 492 | Tisha Cammack |
+| 245 | 492 | Elizabeth Hughes |
 | 246 | 490 | Krystal Mccoy |
 | 247 | 485 | April Carroll |
 | 248 | 483 | Sonotjelly |
@@ -788,71 +788,71 @@
 | 780 | 154 | Nathan Sealander |
 | 781 | 154 | Barbara Miller |
 | 782 | 154 | Vicki Dougie |
-| 783 | 153 | Karmyst |
-| 784 | 153 | LucasEveryday |
-| 785 | 152 | Chipper Matcher |
-| 786 | 152 | Christina Rentz-Lane |
-| 787 | 152 | Austin Wilson |
-| 788 | 152 | Christie Love |
-| 789 | 152 | Sasha Farnsworth |
-| 790 | 151 | Steffi Chris Dacones |
+| 783 | 153 | LucasEveryday |
+| 784 | 153 | Karmyst |
+| 785 | 152 | Sasha Farnsworth |
+| 786 | 152 | Christie Love |
+| 787 | 152 | Chipper Matcher |
+| 788 | 152 | Christina Rentz-Lane |
+| 789 | 152 | Austin Wilson |
+| 790 | 151 | Jason Wreggitt |
 | 791 | 151 | Dunlap Loretta |
-| 792 | 150 | MaegenMarie Jones |
+| 792 | 151 | Steffi Chris Dacones |
 | 793 | 150 | Peachy Snaplink |
-| 794 | 150 | Eric Wren |
-| 795 | 149 | Loopy Edge |
-| 796 | 149 | Chummy Rollzone |
+| 794 | 150 | MaegenMarie Jones |
+| 795 | 150 | Eric Wren |
+| 796 | 149 | Loopy Edge |
 | 797 | 149 | Randy Bowers |
-| 798 | 148 | Courtney Jones |
-| 799 | 148 | TileDestroyer |
-| 800 | 148 | Zippy Cascadezone |
-| 801 | 148 | Mel Fab |
-| 802 | 147 | TheBiz2 |
-| 803 | 147 | Beavis715 |
-| 804 | 146 | Misstery |
-| 805 | 146 | Denise Vardy Vanlanker |
-| 806 | 146 | Chuck Williams |
-| 807 | 146 | BugsMama |
-| 808 | 146 | ZhenZhen |
-| 809 | 146 | Cozy Builderfit |
-| 810 | 145 | kito23 |
-| 811 | 145 | Cool Slice |
-| 812 | 145 | Amber LR Sutter |
-| 813 | 145 | Speedy Blockbuilder |
+| 798 | 149 | Chummy Rollzone |
+| 799 | 148 | Mel Fab |
+| 800 | 148 | TileDestroyer |
+| 801 | 148 | Zippy Cascadezone |
+| 802 | 148 | Courtney Jones |
+| 803 | 147 | TheBiz2 |
+| 804 | 147 | Beavis715 |
+| 805 | 146 | Misstery |
+| 806 | 146 | Denise Vardy Vanlanker |
+| 807 | 146 | Chuck Williams |
+| 808 | 146 | BugsMama |
+| 809 | 146 | ZhenZhen |
+| 810 | 146 | Cozy Builderfit |
+| 811 | 145 | kito23 |
+| 812 | 145 | Cool Slice |
+| 813 | 145 | Amber LR Sutter |
 | 814 | 145 | Selena Shaw |
-| 815 | 144 | Thomas Carlisle |
+| 815 | 145 | Speedy Blockbuilder |
 | 816 | 144 | OzzyFan4Life |
-| 817 | 144 | William Ramirez |
+| 817 | 144 | Thomas Carlisle |
 | 818 | 144 | Peppy Brickclear |
-| 819 | 143 | Buster Goots |
-| 820 | 143 | Wren#3 |
-| 821 | 143 | Randy Clevenger |
+| 819 | 144 | William Ramirez |
+| 820 | 143 | Buster Goots |
+| 821 | 143 | Wren#3 |
 | 822 | 143 | Groovy Cascadefit |
-| 823 | 143 | Pupcup |
-| 824 | 143 | primus |
+| 823 | 143 | Randy Clevenger |
+| 824 | 143 | Pupcup |
 | 825 | 143 | Nance Jeano |
-| 826 | 143 | Spunky Matchfit |
-| 827 | 143 | Nuga |
-| 828 | 142 | Kristen Hall |
-| 829 | 142 | Goofy Linkblock |
-| 830 | 142 | Jason Wreggitt |
-| 831 | 142 | Kimberly Goncalves |
+| 826 | 143 | primus |
+| 827 | 143 | Spunky Matchfit |
+| 828 | 143 | Nuga |
+| 829 | 142 | Kimberly Goncalves |
+| 830 | 142 | Goofy Linkblock |
+| 831 | 142 | Kristen Hall |
 | 832 | 142 | Snapdragon |
-| 833 | 141 | OneBuke FollowMe |
-| 834 | 141 | Brat |
+| 833 | 141 | Brat |
+| 834 | 141 | OneBuke FollowMe |
 | 835 | 141 | Zion Hadley |
-| 836 | 140 | Black Rubix |
+| 836 | 140 | Kat Fisher |
 | 837 | 140 | Loverlylove |
 | 838 | 140 | Betty Bóò |
 | 839 | 140 | Happy Clicker |
 | 840 | 140 | Tawny Mo |
 | 841 | 140 | Santana Lantana |
-| 842 | 140 | Kat Fisher |
+| 842 | 140 | Ash |
 | 843 | 140 | Chipper Balancepiece |
 | 844 | 140 | Roxanne Stoeckel |
 | 845 | 140 | Jennifer Negrete |
-| 846 | 140 | Fredricka Cole |
-| 847 | 140 | Ash |
+| 846 | 140 | Black Rubix |
+| 847 | 140 | Fredricka Cole |
 | 848 | 139 | Cheeky Snaplink |
 | 849 | 139 | Christi Bouten-Harmon |
 | 850 | 138 | Robert Earl Harper III |
@@ -1360,10 +1360,10 @@
 | 1352 | 77 | Kjnals Wall |
 | 1353 | 77 | Vivian Cobb |
 | 1354 | 77 | Samantha Turzak Baker |
-| 1355 | 76 | Poppy Lift |
-| 1356 | 76 | Jeremy Lake |
-| 1357 | 76 | Brandi Daigle |
-| 1358 | 76 | Rebecca Gillespie |
+| 1355 | 77 | Rebecca Gillespie |
+| 1356 | 76 | Poppy Lift |
+| 1357 | 76 | Jeremy Lake |
+| 1358 | 76 | Brandi Daigle |
 | 1359 | 76 | Jack Mattiace |
 | 1360 | 76 | AcidSandwich |
 | 1361 | 76 | Nerdy Bridger |
@@ -1609,16 +1609,16 @@
 | 1601 | 57 | minnie |
 | 1602 | 57 | Zesty Shatterline |
 | 1603 | 57 | Zesty Piececlear |
-| 1604 | 57 | Jen Sartain |
-| 1605 | 57 | Chris Sigurdson |
-| 1606 | 57 | Paul Osborne |
-| 1607 | 57 | Ant |
-| 1608 | 57 | Jesus Garcia |
+| 1604 | 57 | Nikki |
+| 1605 | 57 | Jen Sartain |
+| 1606 | 57 | Chris Sigurdson |
+| 1607 | 57 | Paul Osborne |
+| 1608 | 57 | Ant |
 | 1609 | 57 | Frisky Glidebuilder |
-| 1610 | 57 | Yolanda Odgers |
-| 1611 | 57 | Ramona Dumas |
-| 1612 | 57 | Tania Flores |
-| 1613 | 56 | Mighty Piececlear |
+| 1610 | 57 | Jesus Garcia |
+| 1611 | 57 | Yolanda Odgers |
+| 1612 | 57 | Ramona Dumas |
+| 1613 | 57 | Tania Flores |
 | 1614 | 56 | Noah Lalonde |
 | 1615 | 56 | Dana McLelland |
 | 1616 | 56 | Smiley Combo |
@@ -1627,9 +1627,9 @@
 | 1619 | 56 | Jayj |
 | 1620 | 56 | Dilpik |
 | 1621 | 56 | Phoenix Garrett |
-| 1622 | 56 | Nikki |
-| 1623 | 56 | Bryant Rodriguez |
-| 1624 | 56 | Rissa |
+| 1622 | 56 | Bryant Rodriguez |
+| 1623 | 56 | Rissa |
+| 1624 | 56 | Mighty Piececlear |
 | 1625 | 56 | Cozy Patternbuilder |
 | 1626 | 56 | Funky Strikerbuilder |
 | 1627 | 56 | bam |
@@ -1637,8 +1637,8 @@
 | 1629 | 56 | Zesty Piececlear |
 | 1630 | 56 | Michele Walker |
 | 1631 | 56 | Sabrina Wilkerson |
-| 1632 | 55 | Bill Sayed |
-| 1633 | 55 | Giggly Twistslam |
+| 1632 | 55 | Giggly Twistslam |
+| 1633 | 55 | Bill Sayed |
 | 1634 | 55 | Speedy Dropmatch |
 | 1635 | 55 | Kenzo Leigh Stout |
 | 1636 | 55 | Kim Manning Miles |
