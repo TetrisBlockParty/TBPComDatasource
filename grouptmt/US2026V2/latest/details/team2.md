@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 05:38:40 UTC
+# Standings for team2 as of 2026-03-16 05:39:17 UTC
 
 **Total Participants:** 2624
 
@@ -120,9 +120,9 @@
 | 112 | 947 | Neet |
 | 113 | 946 | nickle109 |
 | 114 | 915 | Lisa Neal |
-| 115 | 900 | Khalysta |
-| 116 | 896 | DJ Bincent |
-| 117 | 894 | Gael |
+| 115 | 909 | Gael |
+| 116 | 900 | Khalysta |
+| 117 | 896 | DJ Bincent |
 | 118 | 891 | Dreamy Clicker |
 | 119 | 885 | Kasheba Y Bowens |
 | 120 | 885 | Brave Matchfit |
@@ -212,10 +212,10 @@
 | 204 | 530 | Danielle Weikel |
 | 205 | 527 | joe |
 | 206 | 527 | Pikake Medeiros |
-| 207 | 522 | Clever Roll |
-| 208 | 522 | Chelsea Clark |
-| 209 | 521 | Marvin Lou Martin |
-| 210 | 520 | MJ1234 |
+| 207 | 526 | MJ1234 |
+| 208 | 522 | Clever Roll |
+| 209 | 522 | Chelsea Clark |
+| 210 | 521 | Marvin Lou Martin |
 | 211 | 518 | Michelle Douglas Bridges |
 | 212 | 517 | Leticia Martinez Kelley |
 | 213 | 515 | Kyesha Goodyear |
@@ -271,9 +271,9 @@
 | 263 | 416 | Toph |
 | 264 | 413 | Kennady Griffin |
 | 265 | 413 | YAE |
-| 266 | 410 | Dreamy Clicky |
-| 267 | 409 | Snappy Tiley |
-| 268 | 406 | Jt Home |
+| 266 | 411 | Jt Home |
+| 267 | 410 | Dreamy Clicky |
+| 268 | 409 | Snappy Tiley |
 | 269 | 406 | Jennifer Osmer Carruth |
 | 270 | 405 | Dee Doubleyou |
 | 271 | 405 | Nick Kozik |
