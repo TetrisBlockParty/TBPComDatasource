@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 10:32:44 UTC
+# Standings for team2 as of 2026-03-16 10:33:22 UTC
 
 **Total Participants:** 2677
 
@@ -62,15 +62,15 @@
 | 54 | 2010 | Carlos Torres |
 | 55 | 1986 | Naomii Seton |
 | 56 | 1967 | Andrey Sharov |
-| 57 | 1950 | Bubbly Twistpiece |
+| 57 | 1958 | Bubbly Twistpiece |
 | 58 | 1906 | Tanya Smith |
 | 59 | 1903 | Julio Alejandro Rodriguez |
 | 60 | 1896 | Joshua Hopkins |
 | 61 | 1684 | Ultramarine |
 | 62 | 1675 | Peppy Slice |
-| 63 | 1644 | Richard Butler |
-| 64 | 1644 | Dreamy Linkbuilder |
-| 65 | 1638 | TreeWee |
+| 63 | 1658 | TreeWee |
+| 64 | 1644 | Richard Butler |
+| 65 | 1644 | Dreamy Linkbuilder |
 | 66 | 1628 | opf |
 | 67 | 1619 | Elissa S-k |
 | 68 | 1570 | Spice Ginger |
@@ -803,15 +803,15 @@
 | 795 | 149 | Lisa Kline |
 | 796 | 149 | Jackie Avila |
 | 797 | 149 | MinorMAjOR |
-| 798 | 148 | Zappy Pop |
-| 799 | 148 | Kris Owls |
-| 800 | 148 | GBR |
-| 801 | 148 | Halie Geesey |
-| 802 | 148 | Stacey Kauppi |
-| 803 | 148 | Nathan William |
-| 804 | 148 | Laura Harrington |
-| 805 | 148 | Nice queen |
-| 806 | 147 | Wes Ross |
+| 798 | 149 | Wes Ross |
+| 799 | 148 | Zappy Pop |
+| 800 | 148 | Kris Owls |
+| 801 | 148 | GBR |
+| 802 | 148 | Halie Geesey |
+| 803 | 148 | Stacey Kauppi |
+| 804 | 148 | Nathan William |
+| 805 | 148 | Laura Harrington |
+| 806 | 148 | Nice queen |
 | 807 | 147 | Joyce |
 | 808 | 146 | JesusIsLove |
 | 809 | 146 | Mahdi Evans |
