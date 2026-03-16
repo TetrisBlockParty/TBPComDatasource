@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 07:26:45 UTC
+# Standings for team2 as of 2026-03-16 07:27:21 UTC
 
 **Total Participants:** 2647
 
@@ -21,7 +21,7 @@
 | 13 | 5257 | Dizzy Zonegrid |
 | 14 | 5237 | Emilie Dodge |
 | 15 | 4964 | Abigail Kate Fernandez |
-| 16 | 4761 | Aaron Garnett |
+| 16 | 4811 | Aaron Garnett |
 | 17 | 4752 | Dee Kay |
 | 18 | 4489 | Rosemadder |
 | 19 | 4429 | Kat |
@@ -49,8 +49,8 @@
 | 41 | 2488 | Ramen Noodle |
 | 42 | 2327 | Breezy Towerfall |
 | 43 | 2319 | Caitlin Johnson |
-| 44 | 2143 | Toni Lynn |
-| 45 | 2114 | Snippy Clearbuilder |
+| 44 | 2207 | Snippy Clearbuilder |
+| 45 | 2143 | Toni Lynn |
 | 46 | 2097 | Kevin Watson |
 | 47 | 2094 | Becky McClure |
 | 48 | 2090 | Kelley Ann |
@@ -151,9 +151,9 @@
 | 143 | 737 | Marc |
 | 144 | 735 | Joy LaJeunesse |
 | 145 | 730 | Shawn Haines |
-| 146 | 724 | Derrell W. Barron |
-| 147 | 722 | Mary Reeves |
-| 148 | 722 | CharalaAnn |
+| 146 | 725 | CharalaAnn |
+| 147 | 724 | Derrell W. Barron |
+| 148 | 722 | Mary Reeves |
 | 149 | 721 | Ariel Pearson |
 | 150 | 720 | Ania |
 | 151 | 720 | Dane Roy |
@@ -382,31 +382,31 @@
 | 374 | 311 | Yoyareese |
 | 375 | 311 | Rusty Davis |
 | 376 | 309 | Katie Lynn |
-| 377 | 308 | Lakeisha Webb Briggs |
-| 378 | 305 | Zany Rotater |
-| 379 | 303 | Angela Bonquiqui Dinish |
-| 380 | 303 | Mike Davis |
-| 381 | 303 | Desi Desporte |
-| 382 | 300 | Glitzy Dash |
-| 383 | 299 | Ella Marzano |
-| 384 | 299 | JustYvette IsFine |
-| 385 | 298 | Dimitra Zazara |
-| 386 | 298 | Kassandra Carlan |
-| 387 | 298 | Starr |
-| 388 | 297 | Angel Hunnewell |
-| 389 | 295 | Tatyahna Cameron |
-| 390 | 295 | Albany Broadway |
-| 391 | 295 | Jenn Dandle |
-| 392 | 295 | Arisvet Garcia |
-| 393 | 294 | Brenda Lee Vander Molen |
-| 394 | 293 | Abimbola Bimbo |
-| 395 | 293 | Mighty Zone |
-| 396 | 292 | Tig’o Biggie |
-| 397 | 291 | Natasha |
-| 398 | 291 | nklstl |
-| 399 | 290 | Alexsa Crespo |
-| 400 | 290 | Lora |
-| 401 | 288 | Giggly Frame |
+| 377 | 308 | Giggly Frame |
+| 378 | 308 | Lakeisha Webb Briggs |
+| 379 | 305 | Zany Rotater |
+| 380 | 303 | Angela Bonquiqui Dinish |
+| 381 | 303 | Mike Davis |
+| 382 | 303 | Desi Desporte |
+| 383 | 300 | Glitzy Dash |
+| 384 | 299 | Ella Marzano |
+| 385 | 299 | JustYvette IsFine |
+| 386 | 298 | Dimitra Zazara |
+| 387 | 298 | Kassandra Carlan |
+| 388 | 298 | Starr |
+| 389 | 297 | Angel Hunnewell |
+| 390 | 295 | Tatyahna Cameron |
+| 391 | 295 | Albany Broadway |
+| 392 | 295 | Jenn Dandle |
+| 393 | 295 | Arisvet Garcia |
+| 394 | 294 | Brenda Lee Vander Molen |
+| 395 | 293 | Abimbola Bimbo |
+| 396 | 293 | Mighty Zone |
+| 397 | 292 | Tig’o Biggie |
+| 398 | 291 | Natasha |
+| 399 | 291 | nklstl |
+| 400 | 290 | Alexsa Crespo |
+| 401 | 290 | Lora |
 | 402 | 287 | Susan Dunn |
 | 403 | 286 | Jonathan Vee Jay |
 | 404 | 286 | Smitters |
@@ -2236,15 +2236,15 @@
 | 2228 | 23 | Athena D Connell |
 | 2229 | 23 | Daniella K |
 | 2230 | 23 | James Tankersley |
-| 2231 | 22 | Micheal Mellen |
-| 2232 | 22 | Jenna Combel |
-| 2233 | 22 | Debbie Greaux |
-| 2234 | 22 | Kimberly Christine Sherwood |
-| 2235 | 22 | Penny Cantrelle |
-| 2236 | 22 | izzy |
-| 2237 | 22 | Eda Mcboyle Ordoñez |
-| 2238 | 22 | Mango |
-| 2239 | 22 | GrooveyRoyal |
+| 2231 | 23 | GrooveyRoyal |
+| 2232 | 22 | Micheal Mellen |
+| 2233 | 22 | Jenna Combel |
+| 2234 | 22 | Debbie Greaux |
+| 2235 | 22 | Kimberly Christine Sherwood |
+| 2236 | 22 | Penny Cantrelle |
+| 2237 | 22 | izzy |
+| 2238 | 22 | Eda Mcboyle Ordoñez |
+| 2239 | 22 | Mango |
 | 2240 | 22 | Goofy Buildgrid |
 | 2241 | 22 | Bash Bandit |
 | 2242 | 22 | Misty Altice |
