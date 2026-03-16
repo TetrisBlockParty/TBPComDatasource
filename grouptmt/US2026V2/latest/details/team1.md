@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 08:26:21 UTC
+# Standings for team1 as of 2026-03-16 08:27:21 UTC
 
 **Total Participants:** 2647
 
@@ -88,8 +88,8 @@
 | 80 | 1461 | Amee Schnarrs |
 | 81 | 1448 | Giddy Cascade |
 | 82 | 1388 | jenna |
-| 83 | 1378 | Elyse YL |
-| 84 | 1376 | Legendary |
+| 83 | 1386 | Legendary |
+| 84 | 1378 | Elyse YL |
 | 85 | 1342 | Kesha Brady |
 | 86 | 1340 | Dom The Great |
 | 87 | 1340 | Christie |
@@ -1619,17 +1619,17 @@
 | 1611 | 56 | bam |
 | 1612 | 56 | Sabrina Wilkerson |
 | 1613 | 56 | Smiley Combo |
-| 1614 | 56 | Dana McLelland |
-| 1615 | 56 | Jayj |
-| 1616 | 55 | Speedy Dropmatch |
-| 1617 | 55 | Chazzmin Piper |
-| 1618 | 55 | Bill Sayed |
-| 1619 | 55 | Kenzo Leigh Stout |
-| 1620 | 55 | Giggly Twistslam |
-| 1621 | 55 | Leche |
-| 1622 | 55 | Speedy Edge |
-| 1623 | 55 | slim |
-| 1624 | 55 | Rick Haverty |
+| 1614 | 56 | Rick Haverty |
+| 1615 | 56 | Dana McLelland |
+| 1616 | 56 | Jayj |
+| 1617 | 55 | Speedy Dropmatch |
+| 1618 | 55 | Chazzmin Piper |
+| 1619 | 55 | Bill Sayed |
+| 1620 | 55 | Kenzo Leigh Stout |
+| 1621 | 55 | Giggly Twistslam |
+| 1622 | 55 | Leche |
+| 1623 | 55 | Speedy Edge |
+| 1624 | 55 | slim |
 | 1625 | 55 | Justin Tariq |
 | 1626 | 55 | Danita Banks |
 | 1627 | 55 | Elliot |
@@ -1935,79 +1935,79 @@
 | 1927 | 37 | Big mama 2010 |
 | 1928 | 37 | sadi |
 | 1929 | 37 | Michelle Pritchard |
-| 1930 | 37 | Any Michelle Kounou |
-| 1931 | 37 | Spicy Builderfit |
+| 1930 | 37 | Spicy Builderfit |
+| 1931 | 37 | Any Michelle Kounou |
 | 1932 | 36 | Eric Allison |
-| 1933 | 36 | Brian Spotts |
-| 1934 | 36 | Jesica Eade |
-| 1935 | 36 | Sara Klein |
-| 1936 | 36 | Dacotah Robinson |
-| 1937 | 36 | Olivia Gwyn Daniel |
-| 1938 | 36 | Jessica Franz |
-| 1939 | 36 | Mone't King |
-| 1940 | 36 | Chirpy Blockroll |
+| 1933 | 36 | Olivia Gwyn Daniel |
+| 1934 | 36 | Jessica Franz |
+| 1935 | 36 | Dacotah Robinson |
+| 1936 | 36 | Mone't King |
+| 1937 | 36 | Sara Klein |
+| 1938 | 36 | Jesica Eade |
+| 1939 | 36 | Chirpy Blockroll |
+| 1940 | 36 | Stacey Delane Sumner |
 | 1941 | 36 | Oats |
-| 1942 | 36 | Stacey Delane Sumner |
+| 1942 | 36 | Brooklyn Red |
 | 1943 | 36 | Zoesters |
-| 1944 | 36 | Brooklyn Red |
+| 1944 | 36 | Liz M Durfee |
 | 1945 | 36 | Debbie Ward |
-| 1946 | 36 | Liz M Durfee |
-| 1947 | 35 | m.taha |
-| 1948 | 35 | Shaun Patrick Allsopp |
-| 1949 | 35 | Kyle Kennedy |
+| 1946 | 36 | Brian Spotts |
+| 1947 | 35 | NewMe Shortie Rodriguez |
+| 1948 | 35 | Stephanie Jones |
+| 1949 | 35 | teezybe25 |
 | 1950 | 35 | Matthew Zimmerly |
-| 1951 | 35 | Stephanie Jones |
-| 1952 | 35 | NewMe Shortie Rodriguez |
-| 1953 | 35 | teezybe25 |
-| 1954 | 35 | Ian Silva |
-| 1955 | 35 | Loony Spinblock |
-| 1956 | 35 | Tbuzz |
-| 1957 | 35 | Brad Werner |
-| 1958 | 35 | Reshi |
-| 1959 | 35 | Bean |
-| 1960 | 35 | Travette Milner |
-| 1961 | 35 | MissySai TooRude Ladson |
-| 1962 | 35 | Michael A Malone |
+| 1951 | 35 | Kyle Kennedy |
+| 1952 | 35 | Loony Spinblock |
+| 1953 | 35 | Shaun Patrick Allsopp |
+| 1954 | 35 | m.taha |
+| 1955 | 35 | Brad Werner |
+| 1956 | 35 | Michael A Malone |
+| 1957 | 35 | Reshi |
+| 1958 | 35 | Breezy Linkgrid |
+| 1959 | 35 | MissySai TooRude Ladson |
+| 1960 | 35 | Anthony Froelick |
+| 1961 | 35 | Zany Gridroll |
+| 1962 | 35 | Gwendy S Cutter |
 | 1963 | 35 | Christa Niederriter |
-| 1964 | 35 | Anthony Froelick |
-| 1965 | 35 | LeeAnn Thompson Saxon |
-| 1966 | 35 | Zany Gridroll |
-| 1967 | 35 | Gwendy S Cutter |
-| 1968 | 34 | Zesty Edgepiece |
-| 1969 | 34 | James Robert |
+| 1964 | 35 | LeeAnn Thompson Saxon |
+| 1965 | 35 | Travette Milner |
+| 1966 | 35 | Bean |
+| 1967 | 35 | Ian Silva |
+| 1968 | 35 | Tbuzz |
+| 1969 | 34 | Michelle Caudillo |
 | 1970 | 34 | gag |
-| 1971 | 34 | Michelle Caudillo |
-| 1972 | 34 | Tierra |
-| 1973 | 34 | Cozy Spinfit |
-| 1974 | 34 | Robin Sharp Earle |
-| 1975 | 34 | Nantai |
-| 1976 | 34 | Troy Anderson Nicholas |
-| 1977 | 34 | Breezy Linkgrid |
-| 1978 | 34 | Zany Patternfit |
+| 1971 | 34 | James Robert |
+| 1972 | 34 | Zesty Edgepiece |
+| 1973 | 34 | Tierra |
+| 1974 | 34 | Cozy Spinfit |
+| 1975 | 34 | Troy Anderson Nicholas |
+| 1976 | 34 | Nantai |
+| 1977 | 34 | Zany Patternfit |
+| 1978 | 34 | Robin Sharp Earle |
 | 1979 | 34 | Junior |
 | 1980 | 34 | Bigg Guy |
-| 1981 | 33 | Judith Avery |
-| 1982 | 33 | Maria Maloney |
-| 1983 | 33 | Teddy Alexander |
-| 1984 | 33 | Zany Gridlock |
-| 1985 | 33 | Witty Fallzone |
-| 1986 | 33 | Jojo Bennett |
+| 1981 | 33 | Jessica |
+| 1982 | 33 | Kristen Martin |
+| 1983 | 33 | Judith Avery |
+| 1984 | 33 | Teddy Alexander |
+| 1985 | 33 | Zany Gridlock |
+| 1986 | 33 | Witty Fallzone |
 | 1987 | 33 | Cheery Fitline |
-| 1988 | 33 | Dreamy Staggerpiece |
-| 1989 | 33 | Christine Perkins |
-| 1990 | 33 | Kristen Martin |
-| 1991 | 33 | Jessica |
+| 1988 | 33 | Jojo Bennett |
+| 1989 | 33 | Dreamy Staggerpiece |
+| 1990 | 33 | Christine Perkins |
+| 1991 | 33 | Ronald M Blansit Jr. |
 | 1992 | 33 | Lively Hitter |
-| 1993 | 33 | Ronald M Blansit Jr. |
-| 1994 | 33 | Seanna Mae |
-| 1995 | 33 | Eugene Barnes |
+| 1993 | 33 | Maria Maloney |
+| 1994 | 33 | Eugene Barnes |
+| 1995 | 33 | Seanna Mae |
 | 1996 | 33 | William Searcy |
 | 1997 | 33 | Jo Ann Wolff |
 | 1998 | 33 | Bouncy Catcher |
 | 1999 | 33 | Giggy Brickmatch |
-| 2000 | 33 | Angela Payne |
-| 2001 | 33 | Izzie Ramirez-Ford |
-| 2002 | 33 | Nadomus Palmer |
+| 2000 | 33 | Nadomus Palmer |
+| 2001 | 33 | Angela Payne |
+| 2002 | 33 | Izzie Ramirez-Ford |
 | 2003 | 32 | Anna Bickford |
 | 2004 | 32 | Chill Pivot |
 | 2005 | 32 | Theresa Franklin Stevens |
