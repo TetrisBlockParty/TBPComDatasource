@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 19:20:44 UTC
+# Standings for team2 as of 2026-03-16 19:21:21 UTC
 
 **Total Participants:** 2770
 
@@ -156,13 +156,13 @@
 | 148 | 874 | Alexandria Farrey |
 | 149 | 851 | Rafael Valentin |
 | 150 | 848 | Desiree Anderson |
-| 151 | 838 | Adrienne Fisher |
-| 152 | 837 | Deb Wasano |
-| 153 | 834 | Jazzy Hitter |
-| 154 | 831 | Madia Quick |
-| 155 | 830 | Amber Lashbrook |
-| 156 | 828 | Abby Jensen |
-| 157 | 819 | Dylan Toy |
+| 151 | 842 | Dylan Toy |
+| 152 | 838 | Adrienne Fisher |
+| 153 | 837 | Deb Wasano |
+| 154 | 834 | Jazzy Hitter |
+| 155 | 831 | Madia Quick |
+| 156 | 830 | Amber Lashbrook |
+| 157 | 828 | Abby Jensen |
 | 158 | 799 | Giggity boots |
 | 159 | 798 | John Matson |
 | 160 | 798 | Tess Shaheen |
@@ -883,35 +883,35 @@
 | 875 | 158 | Laura Buckley |
 | 876 | 158 | Fely |
 | 877 | 158 | Christopher Kissiah |
-| 878 | 157 | Steve Ouellet |
+| 878 | 157 | Lucretia Candy Ross |
 | 879 | 157 | BendyBones |
 | 880 | 157 | Shaun Talbot |
-| 881 | 157 | Aaron Dill |
-| 882 | 157 | Matthew Hall |
-| 883 | 157 | Lucretia Candy Ross |
+| 881 | 157 | Matthew Hall |
+| 882 | 157 | Aaron Dill |
+| 883 | 157 | Steve Ouellet |
 | 884 | 156 | Kirsten Hanes Gasper |
-| 885 | 155 | Lizzy44@ |
-| 886 | 155 | Halie Geesey |
-| 887 | 155 | Gin Klingenberg |
-| 888 | 155 | Shiny Framezone |
+| 885 | 155 | Halie Geesey |
+| 886 | 155 | Gin Klingenberg |
+| 887 | 155 | Shiny Framezone |
+| 888 | 155 | Lizzy44@ |
 | 889 | 155 | Sharon Cail |
 | 890 | 155 | Quirky Swiper |
-| 891 | 154 | Brickh4us |
-| 892 | 154 | Alexander Zamora |
+| 891 | 154 | Alexander Zamora |
+| 892 | 154 | Brickh4us |
 | 893 | 154 | Tiffany Riccio |
 | 894 | 153 | Amy Villalpando |
-| 895 | 153 | rumpadump |
-| 896 | 153 | Brittney Marie Wyrick |
-| 897 | 153 | Montiette Mcglown |
-| 898 | 153 | Ivan Burgess |
-| 899 | 153 | Janai Vrabel |
+| 895 | 153 | Brittney Marie Wyrick |
+| 896 | 153 | Ivan Burgess |
+| 897 | 153 | rumpadump |
+| 898 | 153 | Janai Vrabel |
+| 899 | 153 | Montiette Mcglown |
 | 900 | 152 | John Johnson |
 | 901 | 152 | JjB |
 | 902 | 152 | Melissa Rodriguez |
-| 903 | 152 | Star Hart |
-| 904 | 152 | Spectikl Mchapp |
-| 905 | 151 | Ashley Sweet-Hart |
-| 906 | 151 | Anthony Intrabartolo |
+| 903 | 152 | Spectikl Mchapp |
+| 904 | 152 | Star Hart |
+| 905 | 151 | Anthony Intrabartolo |
+| 906 | 151 | Ashley Sweet-Hart |
 | 907 | 151 | Swanky Tile |
 | 908 | 150 | Tracey Whetstone |
 | 909 | 150 | Tyler Werts |
@@ -925,8 +925,8 @@
 | 917 | 150 | Kathy Allen |
 | 918 | 150 | Josie Fig |
 | 919 | 149 | Jackie Avila |
-| 920 | 149 | Misty Payne Maddox |
-| 921 | 149 | MinorMAjOR |
+| 920 | 149 | MinorMAjOR |
+| 921 | 149 | Misty Payne Maddox |
 | 922 | 149 | Zesty Edgefit |
 | 923 | 149 | Teresa Longwell |
 | 924 | 149 | Cassie Moeller |
@@ -942,33 +942,33 @@
 | 934 | 147 | Volley |
 | 935 | 146 | JesusIsLove |
 | 936 | 146 | Alicia Lux Arnst |
-| 937 | 145 | FallenStar |
-| 938 | 145 | T.j. Swinney |
-| 939 | 144 | Brenda Arbaugh |
-| 940 | 144 | Twisty Risebuilder |
+| 937 | 146 | Danessa Lynn Jenkins |
+| 938 | 145 | FallenStar |
+| 939 | 145 | T.j. Swinney |
+| 940 | 144 | Snazzy Cascade |
 | 941 | 144 | Becki Lynne Corinthos |
-| 942 | 144 | Quags |
-| 943 | 144 | Glitzy Blockpiece |
+| 942 | 144 | Glitzy Blockpiece |
+| 943 | 144 | Brenda Arbaugh |
 | 944 | 144 | Lisa Parr |
 | 945 | 144 | spriege |
-| 946 | 144 | Unicorn |
-| 947 | 144 | JoJo |
-| 948 | 144 | Snazzy Cascade |
-| 949 | 143 | Seven Overby |
-| 950 | 143 | Danessa Lynn Jenkins |
-| 951 | 143 | Aryn Thacker |
-| 952 | 143 | Katie |
-| 953 | 143 | Bryan Bishop |
-| 954 | 143 | Steve |
-| 955 | 143 | WD6DAL |
-| 956 | 143 | Mary Love |
-| 957 | 142 | blockbustinbecky |
-| 958 | 142 | Denise |
-| 959 | 142 | Kiisha |
-| 960 | 142 | Alexx Anaya |
-| 961 | 142 | JinxxedMozzerella |
-| 962 | 141 | Bibbit |
-| 963 | 141 | SassyCarebear |
+| 946 | 144 | Quags |
+| 947 | 144 | Unicorn |
+| 948 | 144 | JoJo |
+| 949 | 144 | Twisty Risebuilder |
+| 950 | 143 | Aryn Thacker |
+| 951 | 143 | Katie |
+| 952 | 143 | Bryan Bishop |
+| 953 | 143 | Steve |
+| 954 | 143 | WD6DAL |
+| 955 | 143 | Mary Love |
+| 956 | 143 | Seven Overby |
+| 957 | 142 | Alexx Anaya |
+| 958 | 142 | JinxxedMozzerella |
+| 959 | 142 | blockbustinbecky |
+| 960 | 142 | Denise |
+| 961 | 142 | Kiisha |
+| 962 | 141 | SassyCarebear |
+| 963 | 141 | Bibbit |
 | 964 | 141 | Holly Jolly |
 | 965 | 141 | Frances Deem |
 | 966 | 141 | bestme |
