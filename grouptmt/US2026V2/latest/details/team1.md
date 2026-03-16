@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 12:22:45 UTC
+# Standings for team1 as of 2026-03-16 12:23:21 UTC
 
 **Total Participants:** 2670
 
@@ -20,7 +20,7 @@
 | 12 | 6991 | Amy Dial Brown |
 | 13 | 6861 | Robert Jansen |
 | 14 | 6653 | Amy Jerman |
-| 15 | 6264 | Katie Daniels |
+| 15 | 6284 | Katie Daniels |
 | 16 | 6178 | William George Weglage III |
 | 17 | 5999 | Krystal McPherson |
 | 18 | 5575 | Venechia Berry |
@@ -78,7 +78,7 @@
 | 70 | 1836 | Carrie Trigg |
 | 71 | 1812 | Katherine Walton |
 | 72 | 1713 | Audicia Bailey |
-| 73 | 1695 | Brandon Hill |
+| 73 | 1705 | Brandon Hill |
 | 74 | 1669 | Goober |
 | 75 | 1660 | Renee Weedling |
 | 76 | 1575 | Jason Rogers |
@@ -359,8 +359,8 @@
 | 351 | 351 | Laura Morrison |
 | 352 | 350 | Aden Moss |
 | 353 | 350 | Jason Nathaniel Caniff |
-| 354 | 350 | Jamilah Abdul-Hakeem |
-| 355 | 350 | Trina Gee |
+| 354 | 350 | Trina Gee |
+| 355 | 350 | Jamilah Abdul-Hakeem |
 | 356 | 348 | Ciara Nunez |
 | 357 | 348 | Dicfitzwel |
 | 358 | 347 | Boldy Clicky |
@@ -374,27 +374,27 @@
 | 366 | 338 | Crazy12 |
 | 367 | 336 | George Ljr |
 | 368 | 336 | Mighty Clear |
-| 369 | 333 | Raheem Young |
-| 370 | 333 | Kelly Miller Williams |
-| 371 | 331 | Bubba |
-| 372 | 331 | Bingo Wingo |
-| 373 | 331 | Mel Fab |
-| 374 | 331 | Chiquita Spears |
-| 375 | 331 | Carly |
-| 376 | 330 | Cassie Lathem |
+| 369 | 334 | Yvonne Buie |
+| 370 | 333 | Raheem Young |
+| 371 | 333 | Kelly Miller Williams |
+| 372 | 331 | Mel Fab |
+| 373 | 331 | Chiquita Spears |
+| 374 | 331 | Carly |
+| 375 | 331 | Bubba |
+| 376 | 331 | Bingo Wingo |
 | 377 | 330 | Cozy Twistbuilder |
-| 378 | 329 | Jason Whitehair |
+| 378 | 330 | Cassie Lathem |
 | 379 | 329 | Chris |
 | 380 | 329 | Allen Scott |
-| 381 | 328 | Lilyandstuff |
-| 382 | 328 | juicyred |
-| 383 | 327 | Tara |
-| 384 | 327 | Seaira Allen |
-| 385 | 326 | Lively Rollfit |
-| 386 | 326 | Ken Wada Jr. |
+| 381 | 329 | Jason Whitehair |
+| 382 | 328 | Lilyandstuff |
+| 383 | 328 | juicyred |
+| 384 | 327 | Tara |
+| 385 | 327 | Seaira Allen |
+| 386 | 326 | Lively Rollfit |
 | 387 | 326 | Hasbro Bros |
-| 388 | 325 | Kayla Marie Stevenson |
-| 389 | 325 | Yvonne Buie |
+| 388 | 326 | Ken Wada Jr. |
+| 389 | 325 | Kayla Marie Stevenson |
 | 390 | 324 | Foulplay176 |
 | 391 | 323 | Rebekah LeiAnn Bonsell |
 | 392 | 323 | Amber Lingerfelt |
@@ -2423,66 +2423,66 @@
 | 2415 | 14 | Renee Smith |
 | 2416 | 14 | LaTanya Summers |
 | 2417 | 14 | Sherlyn Zavala |
-| 2418 | 14 | f |
-| 2419 | 14 | Poppy Lift |
-| 2420 | 14 | Jasmyne Moreno |
-| 2421 | 14 | Seth Rogan |
-| 2422 | 14 | Haykid14 |
-| 2423 | 14 | Melody Cuevas |
-| 2424 | 14 | Chill Basepiece |
-| 2425 | 14 | prittywittyladi |
-| 2426 | 14 | Cindy Lee Johnson |
-| 2427 | 14 | April Moore |
-| 2428 | 14 | KissedbyKinny |
-| 2429 | 14 | Will Sargent |
-| 2430 | 14 | Sarah Ward |
+| 2418 | 14 | Will Sargent |
+| 2419 | 14 | KissedbyKinny |
+| 2420 | 14 | prittywittyladi |
+| 2421 | 14 | Melody Cuevas |
+| 2422 | 14 | Cindy Lee Johnson |
+| 2423 | 14 | Poppy Lift |
+| 2424 | 14 | April Moore |
+| 2425 | 14 | Chill Basepiece |
+| 2426 | 14 | Sarah Ward |
+| 2427 | 14 | Jasmyne Moreno |
+| 2428 | 14 | Dapper Brickmatch |
+| 2429 | 14 | Seth Rogan |
+| 2430 | 14 | Spunky Zone |
 | 2431 | 14 | Freddie Alicea |
-| 2432 | 14 | Dapper Brickmatch |
-| 2433 | 14 | MarLa Alioto |
-| 2434 | 14 | Tara Taylor |
-| 2435 | 14 | Spunky Zone |
-| 2436 | 13 | Disha Chaudhari |
-| 2437 | 13 | Jolly Joy |
-| 2438 | 13 | Sirenzkiss |
-| 2439 | 13 | Richard Johansen |
-| 2440 | 13 | Olivia Ledger |
-| 2441 | 13 | Helen Rox |
-| 2442 | 13 | Cheeky Bridgepiece |
+| 2432 | 14 | MarLa Alioto |
+| 2433 | 14 | Tara Taylor |
+| 2434 | 14 | Haykid14 |
+| 2435 | 14 | f |
+| 2436 | 13 | Cheeky Bridgepiece |
+| 2437 | 13 | Ralph |
+| 2438 | 13 | Jolly Joy |
+| 2439 | 13 | Helen Rox |
+| 2440 | 13 | Richard Johansen |
+| 2441 | 13 | Sirenzkiss |
+| 2442 | 13 | Olivia Ledger |
 | 2443 | 13 | Giggly Rotator |
-| 2444 | 13 | T.j. Evans |
-| 2445 | 13 | Evojaz |
-| 2446 | 13 | Ansley Godoy |
-| 2447 | 13 | Chchet Jackson |
-| 2448 | 13 | Memorie Galarneau |
-| 2449 | 13 | Marchae Cody |
-| 2450 | 13 | Dev |
-| 2451 | 13 | Al Wannasee Rieh |
-| 2452 | 12 | Mike Drake |
+| 2444 | 13 | Disha Chaudhari |
+| 2445 | 13 | T.j. Evans |
+| 2446 | 13 | Evojaz |
+| 2447 | 13 | Ansley Godoy |
+| 2448 | 13 | Chchet Jackson |
+| 2449 | 13 | Memorie Galarneau |
+| 2450 | 13 | Marchae Cody |
+| 2451 | 13 | Dev |
+| 2452 | 13 | Al Wannasee Rieh |
 | 2453 | 12 | Giggy Stacky |
 | 2454 | 12 | Saucy curvr |
-| 2455 | 12 | Sassy Gridmatch |
-| 2456 | 12 | britqueen |
-| 2457 | 12 | BLS |
+| 2455 | 12 | britqueen |
+| 2456 | 12 | BLS |
+| 2457 | 12 | Mike Drake |
 | 2458 | 12 | Sue Carpenter |
-| 2459 | 12 | Ray Masslieno |
-| 2460 | 12 | Alynie Sam |
-| 2461 | 12 | PAB |
-| 2462 | 12 | Lush Dasher |
-| 2463 | 12 | Debra Reynolds |
-| 2464 | 12 | Tracy M Deak |
-| 2465 | 12 | Robaire |
-| 2466 | 12 | Blockface |
-| 2467 | 12 | Yonkas |
-| 2468 | 12 | PizzaGG |
-| 2469 | 12 | M |
-| 2470 | 12 | Victoria Harrell |
-| 2471 | 12 | Peachy Brickline |
-| 2472 | 12 | Amanda Jean Gray |
-| 2473 | 11 | Happy Brickclear |
-| 2474 | 11 | Meghan Tregunno-Stamp |
+| 2459 | 12 | Sassy Gridmatch |
+| 2460 | 12 | PAB |
+| 2461 | 12 | Ray Masslieno |
+| 2462 | 12 | Alynie Sam |
+| 2463 | 12 | Lush Dasher |
+| 2464 | 12 | Debra Reynolds |
+| 2465 | 12 | Tracy M Deak |
+| 2466 | 12 | Robaire |
+| 2467 | 12 | Amanda Jean Gray |
+| 2468 | 12 | Blockface |
+| 2469 | 12 | Yonkas |
+| 2470 | 12 | PizzaGG |
+| 2471 | 12 | M |
+| 2472 | 12 | Victoria Harrell |
+| 2473 | 12 | Peachy Brickline |
+| 2474 | 11 | Happy Brickclear |
 | 2475 | 11 | Karrie Schowerth |
 | 2476 | 11 | Swanky Tetrisline |
-| 2477 | 11 | Ralph |
+| 2477 | 11 | Meghan Tregunno-Stamp |
 | 2478 | 11 | Phyllis Odister |
 | 2479 | 11 | Carman Holden |
 | 2480 | 11 | Vincent Cic Mgds |
