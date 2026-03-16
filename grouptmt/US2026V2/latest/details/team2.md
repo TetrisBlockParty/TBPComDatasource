@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 07:40:43 UTC
+# Standings for team2 as of 2026-03-16 07:41:21 UTC
 
 **Total Participants:** 2650
 
@@ -150,7 +150,7 @@
 | 142 | 740 | Qing DG |
 | 143 | 737 | Marc |
 | 144 | 735 | Joy LaJeunesse |
-| 145 | 730 | CharalaAnn |
+| 145 | 732 | CharalaAnn |
 | 146 | 730 | Shawn Haines |
 | 147 | 724 | Derrell W. Barron |
 | 148 | 722 | Mary Reeves |
@@ -838,84 +838,84 @@
 | 830 | 137 | Jo |
 | 831 | 136 | Casandra Alisa Rocker |
 | 832 | 136 | Sandra Belk |
-| 833 | 136 | Alboo |
+| 833 | 136 | Chummy Strikerbuilder |
 | 834 | 136 | Audrey Jones |
 | 835 | 136 | Josie Fig |
 | 836 | 136 | Charleen Beyer |
-| 837 | 136 | Chummy Strikerbuilder |
-| 838 | 135 | Shakena Tuggle |
-| 839 | 135 | Diana Fowler |
+| 837 | 136 | Alboo |
+| 838 | 135 | Diana Fowler |
+| 839 | 135 | Poppy Matchclear |
 | 840 | 135 | Kristy Mullins |
-| 841 | 135 | Elliana |
-| 842 | 135 | Poppy Matchclear |
-| 843 | 134 | Swanky Shiftsnap |
+| 841 | 135 | Shakena Tuggle |
+| 842 | 135 | Elliana |
+| 843 | 134 | Deb Rose-Bridinger |
 | 844 | 134 | Danielle Smith |
-| 845 | 134 | Deb Rose-Bridinger |
-| 846 | 134 | MyMahdi Estrada |
+| 845 | 134 | MyMahdi Estrada |
+| 846 | 134 | Swanky Shiftsnap |
 | 847 | 133 | Trisha Balmer |
 | 848 | 133 | LaQuetta Faith Hines |
 | 849 | 133 | Roxana Shaffer Goff |
-| 850 | 132 | Tammie Anderson |
-| 851 | 132 | TeeLee |
-| 852 | 132 | Giggly Shatterline |
-| 853 | 132 | April |
+| 850 | 132 | TeeLee |
+| 851 | 132 | April |
+| 852 | 132 | Tammie Anderson |
+| 853 | 132 | Giggly Shatterline |
 | 854 | 132 | Scruffy Rose |
 | 855 | 132 | Shiny Framezone |
-| 856 | 131 | Sarah Moyer |
-| 857 | 131 | Stephany Patton |
-| 858 | 131 | Katie |
-| 859 | 131 | Weevil |
-| 860 | 131 | Honu Noste |
-| 861 | 131 | Beckii Beckford |
-| 862 | 130 | Phanatic2008 |
-| 863 | 130 | Wes Ross |
+| 856 | 131 | Katie |
+| 857 | 131 | Sarah Moyer |
+| 858 | 131 | Stephany Patton |
+| 859 | 131 | Beckii Beckford |
+| 860 | 131 | Weevil |
+| 861 | 131 | Honu Noste |
+| 862 | 130 | Stephanie Reust Camp |
+| 863 | 130 | Phanatic2008 |
 | 864 | 130 | Jeremiah Mell |
 | 865 | 130 | Hyper Gridpiece |
 | 866 | 130 | Fely |
-| 867 | 130 | Montano-Espinoza Chacha |
-| 868 | 130 | Vicke Patterson |
-| 869 | 130 | Stephanie Reust Camp |
-| 870 | 129 | Sharon Navarrete |
-| 871 | 129 | Matthew Hall |
-| 872 | 129 | Cweej |
-| 873 | 129 | Brooke Ransom |
-| 874 | 128 | Truesuperwoman |
-| 875 | 128 | Roll1000 |
+| 867 | 130 | Wes Ross |
+| 868 | 130 | Montano-Espinoza Chacha |
+| 869 | 130 | Vicke Patterson |
+| 870 | 129 | Brooke Ransom |
+| 871 | 129 | Kenerria Danielle |
+| 872 | 129 | Matthew Hall |
+| 873 | 129 | Sharon Navarrete |
+| 874 | 129 | Cweej |
+| 875 | 128 | blockbustinbecky |
 | 876 | 128 | Trish Newell |
-| 877 | 128 | blockbustinbecky |
-| 878 | 127 | Happy Link |
-| 879 | 127 | Rod Grayll |
-| 880 | 127 | Elaina Temple |
+| 877 | 128 | Truesuperwoman |
+| 878 | 128 | Roll1000 |
+| 879 | 127 | Stefanie Bilello Burlew |
+| 880 | 127 | Rod Grayll |
 | 881 | 127 | エリカ エンフバヤル |
-| 882 | 127 | Stefanie Bilello Burlew |
-| 883 | 127 | Tipsy Blockfall |
-| 884 | 126 | Dandy Towerer |
-| 885 | 126 | Kenerria Danielle |
-| 886 | 126 | Shanny Anny |
-| 887 | 126 | Twisty Frame |
-| 888 | 126 | JoJo |
-| 889 | 126 | Robert Benjamin |
-| 890 | 126 | Kendra KJ Joyner |
+| 882 | 127 | Tipsy Blockfall |
+| 883 | 127 | Happy Link |
+| 884 | 127 | Elaina Temple |
+| 885 | 126 | Shanny Anny |
+| 886 | 126 | Kendra KJ Joyner |
+| 887 | 126 | Dandy Towerer |
+| 888 | 126 | Twisty Frame |
+| 889 | 126 | JoJo |
+| 890 | 126 | Robert Benjamin |
 | 891 | 125 | Γωγώ Τσιρόγκα |
 | 892 | 125 | Chefbj Ventress |
-| 893 | 125 | Alice Petterborg Barberich |
-| 894 | 125 | Trouble |
-| 895 | 125 | Ashlee Pappaconstantinou |
+| 893 | 125 | Ashlee Pappaconstantinou |
+| 894 | 125 | Alice Petterborg Barberich |
+| 895 | 125 | Trouble |
 | 896 | 125 | Zack Theisen |
 | 897 | 125 | Kevin Stultz |
-| 898 | 124 | Ashley Sandlin |
-| 899 | 124 | Ariel |
+| 898 | 124 | Ariel |
+| 899 | 124 | Ashley Sandlin |
 | 900 | 124 | Crystal Ali |
 | 901 | 124 | JjB |
 | 902 | 124 | Sonya Gail Goodman |
 | 903 | 124 | DrMichelle Richardson |
-| 904 | 123 | Kara Ann Cray |
-| 905 | 123 | Laura Buckley |
+| 904 | 123 | Gam Gam |
+| 905 | 123 | Kara Ann Cray |
 | 906 | 123 | Twisty Piecefit |
-| 907 | 123 | Gam Gam |
-| 908 | 123 | Dizzy Edgefit |
-| 909 | 122 | Dandy Buildsnap |
-| 910 | 122 | Bold Brickzone |
+| 907 | 123 | Dizzy Edgefit |
+| 908 | 123 | Laura Buckley |
+| 909 | 122 | Bold Brickzone |
+| 910 | 122 | Dandy Buildsnap |
 | 911 | 122 | Denise |
 | 912 | 122 | Funky Stackzone |
 | 913 | 121 | Jennifer Monroe Kelly |
