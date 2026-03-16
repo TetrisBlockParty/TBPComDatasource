@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 10:18:20 UTC
+# Standings for team2 as of 2026-03-16 10:18:44 UTC
 
 **Total Participants:** 2675
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 18976 | Payton Auberry |
-| 2 | 17962 | 赵珞涵 |
+| 2 | 18294 | 赵珞涵 |
 | 3 | 16628 | THEMAN |
 | 4 | 15648 | Mochi |
 | 5 | 13230 | 1nonlyreal1 |
@@ -61,7 +61,7 @@
 | 53 | 1986 | Naomii Seton |
 | 54 | 1967 | Andrey Sharov |
 | 55 | 1967 | Pixie |
-| 56 | 1922 | Bubbly Twistpiece |
+| 56 | 1928 | Bubbly Twistpiece |
 | 57 | 1906 | Tanya Smith |
 | 58 | 1903 | Julio Alejandro Rodriguez |
 | 59 | 1896 | Joshua Hopkins |
@@ -1346,18 +1346,18 @@
 | 1338 | 77 | Spectikl Mchapp |
 | 1339 | 77 | Lela Berklund |
 | 1340 | 77 | Kalleigh Randall |
-| 1341 | 77 | Mariah Wiese |
-| 1342 | 77 | Amanda |
-| 1343 | 77 | Quirky Rollblock |
-| 1344 | 77 | Nek |
-| 1345 | 77 | Miss253 |
-| 1346 | 77 | Ak Kendall |
-| 1347 | 76 | Suzy |
-| 1348 | 76 | Durand Douglas |
-| 1349 | 76 | Erichalyn |
-| 1350 | 76 | simonsays420 |
-| 1351 | 76 | Chaurese Brooks |
-| 1352 | 76 | Cozy Tiltpiece |
+| 1341 | 77 | Cozy Tiltpiece |
+| 1342 | 77 | Mariah Wiese |
+| 1343 | 77 | Amanda |
+| 1344 | 77 | Quirky Rollblock |
+| 1345 | 77 | Nek |
+| 1346 | 77 | Miss253 |
+| 1347 | 77 | Ak Kendall |
+| 1348 | 76 | Suzy |
+| 1349 | 76 | Durand Douglas |
+| 1350 | 76 | Erichalyn |
+| 1351 | 76 | simonsays420 |
+| 1352 | 76 | Chaurese Brooks |
 | 1353 | 76 | Amandalorian |
 | 1354 | 76 | Ruffrider27 |
 | 1355 | 76 | Nerdy Risebuilder |
