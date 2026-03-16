@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 11:16:20 UTC
+# Standings for team2 as of 2026-03-16 11:16:44 UTC
 
 **Total Participants:** 2682
 
@@ -97,7 +97,7 @@
 | 89 | 1329 | p3ttyboop |
 | 90 | 1296 | Jumpy Smasher |
 | 91 | 1293 | Emarie |
-| 92 | 1284 | Cheery Dropper |
+| 92 | 1287 | Cheery Dropper |
 | 93 | 1256 | Goofy Linkmatch |
 | 94 | 1253 | TETRIS |
 | 95 | 1245 | Brave Matchfit |
