@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 06:00:40 UTC
+# Standings for team2 as of 2026-03-16 06:01:19 UTC
 
 **Total Participants:** 2630
 
@@ -65,7 +65,7 @@
 | 57 | 1648 | Rob Riggin |
 | 58 | 1644 | Richard Butler |
 | 59 | 1644 | Dreamy Linkbuilder |
-| 60 | 1638 | Bubbly Twistpiece |
+| 60 | 1640 | Bubbly Twistpiece |
 | 61 | 1628 | opf |
 | 62 | 1619 | Elissa S-k |
 | 63 | 1570 | Spice Ginger |
@@ -120,7 +120,7 @@
 | 112 | 948 | Minxy |
 | 113 | 947 | Khalysta |
 | 114 | 947 | Neet |
-| 115 | 934 | Gael |
+| 115 | 939 | Gael |
 | 116 | 915 | Lisa Neal |
 | 117 | 896 | DJ Bincent |
 | 118 | 891 | Dreamy Clicker |
@@ -157,8 +157,8 @@
 | 149 | 720 | Dane Roy |
 | 150 | 720 | Ania |
 | 151 | 704 | Sheena Hachmann |
-| 152 | 704 | Joshua |
-| 153 | 704 | Emily Wooden |
+| 152 | 704 | Emily Wooden |
+| 153 | 704 | Joshua |
 | 154 | 702 | CharalaAnn |
 | 155 | 700 | Veronica Martin Trinkle |
 | 156 | 698 | Rafael Valentin |
@@ -822,8 +822,8 @@
 | 814 | 138 | Slinky Linkgrid |
 | 815 | 138 | Denise Wilson |
 | 816 | 138 | Kari Thompson Rock |
-| 817 | 137 | Tiffany Riccio |
-| 818 | 137 | Kell Cinn |
+| 817 | 137 | Kell Cinn |
+| 818 | 137 | Tiffany Riccio |
 | 819 | 137 | bubbles |
 | 820 | 137 | Jo |
 | 821 | 136 | BendersMomma |
@@ -1939,51 +1939,51 @@
 | 1931 | 37 | Jeremy Moats |
 | 1932 | 37 | Goofy Fall |
 | 1933 | 37 | Charity Ann Nally |
-| 1934 | 37 | Paula Jean Purcell |
-| 1935 | 37 | Speedy Curvebuilder |
-| 1936 | 37 | Sadie |
-| 1937 | 37 | Cool Snapzone |
-| 1938 | 36 | Brave Tilebuilder |
-| 1939 | 36 | Zesty Dasher |
-| 1940 | 36 | Erica Lewis |
-| 1941 | 36 | Elizabeth Miller |
-| 1942 | 36 | Jody King |
-| 1943 | 36 | Sandra Schmidt |
-| 1944 | 36 | Lisa Hart |
-| 1945 | 36 | Crystal23 |
-| 1946 | 36 | Dapper Stacker |
-| 1947 | 36 | Kaobe Schmeer |
-| 1948 | 36 | Zitro |
-| 1949 | 36 | Mandy Parker |
-| 1950 | 36 | Kelly Lamoureux |
-| 1951 | 36 | Andrew Price |
-| 1952 | 36 | Chill Patternblock |
-| 1953 | 36 | Rarejewel Green |
+| 1934 | 37 | Andre Simpson |
+| 1935 | 37 | Paula Jean Purcell |
+| 1936 | 37 | Speedy Curvebuilder |
+| 1937 | 37 | Sadie |
+| 1938 | 37 | Cool Snapzone |
+| 1939 | 36 | Brave Tilebuilder |
+| 1940 | 36 | Zesty Dasher |
+| 1941 | 36 | Erica Lewis |
+| 1942 | 36 | Elizabeth Miller |
+| 1943 | 36 | Jody King |
+| 1944 | 36 | Sandra Schmidt |
+| 1945 | 36 | Lisa Hart |
+| 1946 | 36 | Crystal23 |
+| 1947 | 36 | Dapper Stacker |
+| 1948 | 36 | Kaobe Schmeer |
+| 1949 | 36 | Zitro |
+| 1950 | 36 | Mandy Parker |
+| 1951 | 36 | Kelly Lamoureux |
+| 1952 | 36 | Andrew Price |
+| 1953 | 36 | Chill Patternblock |
 | 1954 | 36 | Sherice Amber |
 | 1955 | 36 | Joshua Cross |
-| 1956 | 36 | Cranky Party |
-| 1957 | 36 | Twisty Shift |
-| 1958 | 35 | Cassia Ann Carrasquillo |
-| 1959 | 35 | FlopsandDors |
-| 1960 | 35 | Guy Incognito |
-| 1961 | 35 | Jenna Salzer |
-| 1962 | 35 | Tina Rollins Bethay |
-| 1963 | 35 | MaBarker42 |
-| 1964 | 35 | Jo Jo |
-| 1965 | 35 | Kristina Sandoval |
-| 1966 | 35 | Ti Pi |
-| 1967 | 35 | Nerdy Clusterfit |
-| 1968 | 35 | Tasha Willing |
-| 1969 | 35 | Malikah Coleman |
-| 1970 | 35 | Jan |
-| 1971 | 35 | Sheila Massey Dotson |
-| 1972 | 35 | Witty Twistpiece |
+| 1956 | 36 | Rarejewel Green |
+| 1957 | 36 | Cranky Party |
+| 1958 | 36 | Twisty Shift |
+| 1959 | 35 | Cassia Ann Carrasquillo |
+| 1960 | 35 | FlopsandDors |
+| 1961 | 35 | Guy Incognito |
+| 1962 | 35 | Jenna Salzer |
+| 1963 | 35 | Tina Rollins Bethay |
+| 1964 | 35 | MaBarker42 |
+| 1965 | 35 | Witty Twistpiece |
+| 1966 | 35 | Kristina Sandoval |
+| 1967 | 35 | Ti Pi |
+| 1968 | 35 | Nerdy Clusterfit |
+| 1969 | 35 | Tasha Willing |
+| 1970 | 35 | Malikah Coleman |
+| 1971 | 35 | Jan |
+| 1972 | 35 | Sheila Massey Dotson |
 | 1973 | 35 | Archimedean |
-| 1974 | 35 | Bubbl3s |
+| 1974 | 35 | Jo Jo |
 | 1975 | 35 | Amanda Conaghan |
-| 1976 | 35 | Cranky Balancepiece |
-| 1977 | 35 | Steven Sailor |
-| 1978 | 35 | Andre Simpson |
+| 1976 | 35 | Bubbl3s |
+| 1977 | 35 | Cranky Balancepiece |
+| 1978 | 35 | Steven Sailor |
 | 1979 | 35 | Adam McClellan |
 | 1980 | 35 | Cranky Caster |
 | 1981 | 35 | Kevin Leary |
