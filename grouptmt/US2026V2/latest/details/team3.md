@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-16 09:16:42 UTC
+# Standings for team3 as of 2026-03-16 09:17:21 UTC
 
 **Total Participants:** 4173
 
@@ -1455,97 +1455,97 @@
 | 1447 | 122 | Peppy Brickster |
 | 1448 | 121 | Twisty Clearpiece |
 | 1449 | 121 | Spicychicky |
-| 1450 | 121 | Ananda Mendez |
-| 1451 | 121 | Jess Bissett |
-| 1452 | 121 | Cassy Sheehan |
-| 1453 | 120 | Terrell Bailey |
-| 1454 | 120 | Constance Risner |
-| 1455 | 120 | Spicy Snapfit |
-| 1456 | 120 | Grace |
-| 1457 | 120 | Stefanie LaPointe |
-| 1458 | 120 | Allison Crabb |
-| 1459 | 120 | Jenni-Bug |
-| 1460 | 120 | Keerstin Moniz |
-| 1461 | 120 | Moving Sale |
-| 1462 | 120 | Daryne Ligon |
-| 1463 | 120 | Karen Tam |
+| 1450 | 121 | Cassy Sheehan |
+| 1451 | 121 | Ananda Mendez |
+| 1452 | 121 | Jess Bissett |
+| 1453 | 120 | Grace |
+| 1454 | 120 | Jenni-Bug |
+| 1455 | 120 | Allison Crabb |
+| 1456 | 120 | Spicy Snapfit |
+| 1457 | 120 | Keerstin Moniz |
+| 1458 | 120 | Constance Risner |
+| 1459 | 120 | Moving Sale |
+| 1460 | 120 | Daryne Ligon |
+| 1461 | 120 | Traci73 |
+| 1462 | 120 | Karen Tam |
+| 1463 | 120 | Stefanie LaPointe |
 | 1464 | 120 | Sunny Filler |
-| 1465 | 120 | Traci73 |
-| 1466 | 120 | Shannon Wilson |
+| 1465 | 120 | Shannon Wilson |
+| 1466 | 120 | Terrell Bailey |
 | 1467 | 120 | Cindy Agee Sparks |
 | 1468 | 120 | Tiara T Debrah |
 | 1469 | 120 | Spunky Cascader |
 | 1470 | 119 | Speedy Wrecker |
 | 1471 | 119 | Samantha Kimes |
 | 1472 | 119 | Spunky Cascadeclear |
-| 1473 | 119 | Chris Sylvain |
-| 1474 | 119 | Saucy Swiper |
-| 1475 | 119 | Daye Williamson |
-| 1476 | 119 | Scott Jameson |
-| 1477 | 119 | Funky Tee |
-| 1478 | 119 | Michele Parrish |
-| 1479 | 119 | Erin McGinnis |
-| 1480 | 119 | Jamie Moore |
-| 1481 | 118 | Flashy Pop |
-| 1482 | 118 | Epic Fill |
-| 1483 | 118 | Eddie Perez |
-| 1484 | 118 | Ashton Marie |
+| 1473 | 119 | Daye Williamson |
+| 1474 | 119 | Scott Jameson |
+| 1475 | 119 | Saucy Swiper |
+| 1476 | 119 | Michele Parrish |
+| 1477 | 119 | Jamie Moore |
+| 1478 | 119 | TinyRick |
+| 1479 | 119 | Funky Tee |
+| 1480 | 119 | Chris Sylvain |
+| 1481 | 119 | Erin McGinnis |
+| 1482 | 118 | Flashy Pop |
+| 1483 | 118 | Kimberly Blais |
+| 1484 | 118 | Melissa Primm Hatfield |
 | 1485 | 118 | mrstlh |
-| 1486 | 118 | Melissa Primm Hatfield |
+| 1486 | 118 | Epic Fill |
 | 1487 | 118 | Kimberly Bickling |
-| 1488 | 118 | Kimberly Blais |
-| 1489 | 118 | Witty Slammer |
-| 1490 | 117 | Tipsy Tilebuilder |
-| 1491 | 117 | Zany Gridpiece |
-| 1492 | 117 | Cozy Clearer |
-| 1493 | 117 | Amber Aubrey |
-| 1494 | 117 | Cupcake |
-| 1495 | 117 | Dreamy Dashgrid |
-| 1496 | 117 | Anna Hernandez |
-| 1497 | 117 | Mighty Tilebuilder |
-| 1498 | 117 | jazzzy |
-| 1499 | 116 | pitapocket |
-| 1500 | 116 | Tasha Stanley |
-| 1501 | 116 | Mary Crisp |
-| 1502 | 116 | Millie Williams |
+| 1488 | 118 | Ashton Marie |
+| 1489 | 118 | Eddie Perez |
+| 1490 | 118 | Witty Slammer |
+| 1491 | 117 | Tipsy Tilebuilder |
+| 1492 | 117 | Cupcake |
+| 1493 | 117 | Anna Hernandez |
+| 1494 | 117 | Cozy Clearer |
+| 1495 | 117 | Mighty Tilebuilder |
+| 1496 | 117 | Dreamy Dashgrid |
+| 1497 | 117 | Zany Gridpiece |
+| 1498 | 117 | Amber Aubrey |
+| 1499 | 117 | jazzzy |
+| 1500 | 116 | pitapocket |
+| 1501 | 116 | Tasha Stanley |
+| 1502 | 116 | Mary Crisp |
 | 1503 | 116 | Stacy Nicole Reed |
-| 1504 | 116 | gert |
-| 1505 | 116 | Jamie Bloxom Svoboda |
+| 1504 | 116 | Millie Williams |
+| 1505 | 116 | gert |
 | 1506 | 116 | TinyLegoRose |
 | 1507 | 116 | Cyril Israel |
-| 1508 | 115 | Postman |
-| 1509 | 115 | Ruben Gonzalez |
-| 1510 | 115 | Danni |
-| 1511 | 115 | byrd |
-| 1512 | 115 | Mimi Pidou |
-| 1513 | 115 | Dandy Patterner |
-| 1514 | 115 | Rachel |
-| 1515 | 115 | Kimberlee Jan Beckstead |
-| 1516 | 115 | Bouncy Spinfit |
-| 1517 | 115 | Tre Johnson |
-| 1518 | 115 | Svetlana Laudermilch |
-| 1519 | 115 | Ang Mathis |
-| 1520 | 115 | Mieshia Tucker |
-| 1521 | 114 | Ana Maria Placa |
-| 1522 | 114 | Aj Koch |
-| 1523 | 114 | Shannon Crule |
-| 1524 | 114 | Perky Strikerbuilder |
-| 1525 | 114 | Jessica Altobelli |
-| 1526 | 114 | Priscilla S. Bawner |
-| 1527 | 114 | Shameca Smith |
-| 1528 | 114 | TinyRick |
-| 1529 | 114 | cherry chip |
-| 1530 | 114 | Charice Mcclinton |
-| 1531 | 114 | Kevin Sheets |
-| 1532 | 114 | Kimmy Smith |
+| 1508 | 116 | Jamie Bloxom Svoboda |
+| 1509 | 115 | Dandy Patterner |
+| 1510 | 115 | byrd |
+| 1511 | 115 | Danni |
+| 1512 | 115 | Ruben Gonzalez |
+| 1513 | 115 | Mimi Pidou |
+| 1514 | 115 | Kimberlee Jan Beckstead |
+| 1515 | 115 | Postman |
+| 1516 | 115 | Rachel |
+| 1517 | 115 | Bouncy Spinfit |
+| 1518 | 115 | Tre Johnson |
+| 1519 | 115 | Svetlana Laudermilch |
+| 1520 | 115 | Ang Mathis |
+| 1521 | 115 | Mieshia Tucker |
+| 1522 | 114 | Ana Maria Placa |
+| 1523 | 114 | Aj Koch |
+| 1524 | 114 | Shannon Crule |
+| 1525 | 114 | Perky Strikerbuilder |
+| 1526 | 114 | Jessica Altobelli |
+| 1527 | 114 | Priscilla S. Bawner |
+| 1528 | 114 | Shameca Smith |
+| 1529 | 114 | Charice Mcclinton |
+| 1530 | 114 | cherry chip |
+| 1531 | 114 | Kimmy Smith |
+| 1532 | 114 | Kevin Sheets |
 | 1533 | 114 | Bob Tom |
-| 1534 | 114 | Clever Patterner |
-| 1535 | 114 | ItsLPyo |
+| 1534 | 114 | ItsLPyo |
+| 1535 | 114 | Clever Patterner |
 | 1536 | 114 | C |
-| 1537 | 113 | Speedy Shatterline |
+| 1537 | 113 | Josh Gibson |
 | 1538 | 113 | Bitsybear |
 | 1539 | 113 | Natalie Ann Ludwig |
-| 1540 | 113 | Josh Gibson |
+| 1540 | 113 | Speedy Shatterline |
 | 1541 | 113 | Snippy Brickster |
 | 1542 | 113 | Vautris |
 | 1543 | 113 | Liz Currier |
