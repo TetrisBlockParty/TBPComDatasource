@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 08:10:41 UTC
+# Standings for team2 as of 2026-03-16 08:11:20 UTC
 
 **Total Participants:** 2655
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 18976 | Payton Auberry |
 | 2 | 16628 | THEMAN |
-| 3 | 13837 | Mochi |
+| 3 | 14447 | Mochi |
 | 4 | 13230 | 1nonlyreal1 |
 | 5 | 11729 | 赵珞涵 |
 | 6 | 10398 | Justablock |
@@ -167,10 +167,10 @@
 | 159 | 697 | Kacee Conrad Bock |
 | 160 | 686 | Blaze Sexton |
 | 161 | 684 | Tess Shaheen |
-| 162 | 671 | Connie Mohler-Fair |
-| 163 | 670 | Amanda Segura |
-| 164 | 670 | Carmilita Burpo Jordan |
-| 165 | 666 | Hp Gold |
+| 162 | 681 | Hp Gold |
+| 163 | 671 | Connie Mohler-Fair |
+| 164 | 670 | Amanda Segura |
+| 165 | 670 | Carmilita Burpo Jordan |
 | 166 | 660 | Madia Quick |
 | 167 | 660 | Amanda Sullivan |
 | 168 | 660 | Lateisha Morris |
@@ -838,10 +838,10 @@
 | 830 | 137 | Mary Love |
 | 831 | 137 | bubbles |
 | 832 | 137 | Jo |
-| 833 | 136 | Charleen Beyer |
+| 833 | 136 | Casandra Alisa Rocker |
 | 834 | 136 | Alboo |
 | 835 | 136 | Audrey Jones |
-| 836 | 136 | Casandra Alisa Rocker |
+| 836 | 136 | Charleen Beyer |
 | 837 | 136 | Chummy Strikerbuilder |
 | 838 | 136 | Josie Fig |
 | 839 | 136 | Sandra Belk |
@@ -855,63 +855,63 @@
 | 847 | 134 | MyMahdi Estrada |
 | 848 | 134 | Swanky Shiftsnap |
 | 849 | 133 | LaQuetta Faith Hines |
-| 850 | 133 | Roxana Shaffer Goff |
-| 851 | 133 | Trisha Balmer |
+| 850 | 133 | Trisha Balmer |
+| 851 | 133 | Roxana Shaffer Goff |
 | 852 | 132 | Scruffy Rose |
-| 853 | 132 | Giggly Shatterline |
-| 854 | 132 | TeeLee |
-| 855 | 132 | April |
+| 853 | 132 | Swanky Builderpiece |
+| 854 | 132 | Giggly Shatterline |
+| 855 | 132 | TeeLee |
 | 856 | 132 | Tammie Anderson |
-| 857 | 132 | Shiny Framezone |
-| 858 | 131 | Stephany Patton |
-| 859 | 131 | Honu Noste |
+| 857 | 132 | April |
+| 858 | 132 | Shiny Framezone |
+| 859 | 131 | Stephany Patton |
 | 860 | 131 | Beckii Beckford |
-| 861 | 131 | Katie |
-| 862 | 131 | Sarah Moyer |
-| 863 | 131 | Weevil |
-| 864 | 130 | Montano-Espinoza Chacha |
-| 865 | 130 | Wes Ross |
-| 866 | 130 | Stephanie Reust Camp |
-| 867 | 130 | Hyper Gridpiece |
-| 868 | 130 | Armand Drayton |
-| 869 | 130 | Fely |
-| 870 | 130 | Vicke Patterson |
-| 871 | 130 | Jeremiah Mell |
-| 872 | 130 | Phanatic2008 |
-| 873 | 129 | Matthew Hall |
-| 874 | 129 | Cweej |
+| 861 | 131 | Sarah Moyer |
+| 862 | 131 | Katie |
+| 863 | 131 | Honu Noste |
+| 864 | 131 | Weevil |
+| 865 | 130 | Stephanie Reust Camp |
+| 866 | 130 | Phanatic2008 |
+| 867 | 130 | Jeremiah Mell |
+| 868 | 130 | Vicke Patterson |
+| 869 | 130 | Montano-Espinoza Chacha |
+| 870 | 130 | Wes Ross |
+| 871 | 130 | Hyper Gridpiece |
+| 872 | 130 | Armand Drayton |
+| 873 | 130 | Fely |
+| 874 | 129 | Brooke Ransom |
 | 875 | 129 | Sharon Navarrete |
-| 876 | 129 | Kenerria Danielle |
-| 877 | 129 | Brooke Ransom |
-| 878 | 128 | Roll1000 |
+| 876 | 129 | Matthew Hall |
+| 877 | 129 | Kenerria Danielle |
+| 878 | 129 | Cweej |
 | 879 | 128 | Truesuperwoman |
-| 880 | 128 | Trish Newell |
-| 881 | 128 | blockbustinbecky |
-| 882 | 127 | Elaina Temple |
-| 883 | 127 | Happy Link |
-| 884 | 127 | エリカ エンフバヤル |
-| 885 | 127 | Tipsy Blockfall |
-| 886 | 127 | Rod Grayll |
-| 887 | 126 | JoJo |
-| 888 | 126 | Robert Benjamin |
-| 889 | 126 | Twisty Frame |
-| 890 | 126 | Kendra KJ Joyner |
-| 891 | 126 | Dandy Towerer |
-| 892 | 126 | Swanky Builderpiece |
+| 880 | 128 | Roll1000 |
+| 881 | 128 | Trish Newell |
+| 882 | 128 | blockbustinbecky |
+| 883 | 127 | Tipsy Blockfall |
+| 884 | 127 | Elaina Temple |
+| 885 | 127 | エリカ エンフバヤル |
+| 886 | 127 | Happy Link |
+| 887 | 127 | Rod Grayll |
+| 888 | 126 | Dandy Towerer |
+| 889 | 126 | Kendra KJ Joyner |
+| 890 | 126 | Twisty Frame |
+| 891 | 126 | Robert Benjamin |
+| 892 | 126 | JoJo |
 | 893 | 126 | Shanny Anny |
 | 894 | 125 | Chefbj Ventress |
-| 895 | 125 | Γωγώ Τσιρόγκα |
-| 896 | 125 | Trouble |
-| 897 | 125 | Ashlee Pappaconstantinou |
-| 898 | 125 | Alice Petterborg Barberich |
+| 895 | 125 | Trouble |
+| 896 | 125 | Ashlee Pappaconstantinou |
+| 897 | 125 | Alice Petterborg Barberich |
+| 898 | 125 | Γωγώ Τσιρόγκα |
 | 899 | 125 | Zack Theisen |
 | 900 | 125 | Kevin Stultz |
-| 901 | 124 | Sonya Gail Goodman |
-| 902 | 124 | DrMichelle Richardson |
+| 901 | 124 | Crystal Ali |
+| 902 | 124 | Ashley Sandlin |
 | 903 | 124 | JjB |
-| 904 | 124 | Ashley Sandlin |
-| 905 | 124 | Crystal Ali |
-| 906 | 124 | Ariel |
+| 904 | 124 | Sonya Gail Goodman |
+| 905 | 124 | Ariel |
+| 906 | 124 | DrMichelle Richardson |
 | 907 | 123 | Kara Ann Cray |
 | 908 | 123 | Dizzy Edgefit |
 | 909 | 123 | Laura Buckley |
