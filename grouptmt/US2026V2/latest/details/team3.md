@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-16 05:24:18 UTC
+# Standings for team3 as of 2026-03-16 05:24:41 UTC
 
 **Total Participants:** 4105
 
@@ -98,7 +98,7 @@
 | 90 | 1563 | Josée Robert |
 | 91 | 1560 | Abby |
 | 92 | 1550 | Kari Noland |
-| 93 | 1492 | Peachy Spinbuilder |
+| 93 | 1502 | Peachy Spinbuilder |
 | 94 | 1475 | Marlanna Johnson Wells |
 | 95 | 1474 | Chanell Marie Howell Martinez |
 | 96 | 1468 | Daniel OKoniewski |
@@ -2106,52 +2106,52 @@
 | 2098 | 71 | Snazzy Linkgrid |
 | 2099 | 71 | JoAnna Canter |
 | 2100 | 70 | Des Angel |
-| 2101 | 70 | Dapper Tilt |
-| 2102 | 70 | Paris Madlock |
-| 2103 | 70 | Witty Balancepiece |
-| 2104 | 70 | Karan999 |
-| 2105 | 70 | Lawanda Michelle |
-| 2106 | 70 | Sherrise J Figueroa |
-| 2107 | 70 | Joshp420 |
-| 2108 | 70 | Princesst |
-| 2109 | 70 | Jennifer Cox |
-| 2110 | 70 | Bethany Flores |
-| 2111 | 70 | Margarita Martinez |
-| 2112 | 70 | Giddy Fallgrid |
-| 2113 | 70 | Dreamy Snapper |
-| 2114 | 70 | Amanda Marshel |
-| 2115 | 70 | Courtney Luther |
-| 2116 | 70 | Summer Alexis |
-| 2117 | 70 | Glitzy Zigzag |
-| 2118 | 70 | Becky Fritz-Schweitzer |
-| 2119 | 70 | 23 |
-| 2120 | 70 | Leah Keesling |
-| 2121 | 70 | Giggly Twister |
-| 2122 | 70 | biggstan |
-| 2123 | 70 | Quirky Dropzone |
-| 2124 | 69 | Ann Matzkanin |
-| 2125 | 69 | Mary Elizabeth Jenkins |
-| 2126 | 69 | Angelica Strelak |
-| 2127 | 69 | Gordon Haroldson |
-| 2128 | 69 | Cindy Scott |
-| 2129 | 69 | William Yockey |
-| 2130 | 69 | Alcarl |
-| 2131 | 69 | MamaK |
-| 2132 | 69 | Lynn Marie |
-| 2133 | 69 | Saucy Linkgrid |
-| 2134 | 69 | Giddy Gridpiece |
-| 2135 | 69 | Jods |
-| 2136 | 69 | Chilly |
-| 2137 | 69 | CrazyOne |
-| 2138 | 69 | Christina Shepperd |
-| 2139 | 69 | Fallawn Stout-Peete |
-| 2140 | 69 | Seg Z Nig Ah |
-| 2141 | 69 | Freda |
-| 2142 | 69 | Tim Galle |
-| 2143 | 69 | Tiffany MizTeebabie Brown |
-| 2144 | 69 | Dreamy Glider |
-| 2145 | 69 | Puddin |
-| 2146 | 69 | Ang Mathis |
+| 2101 | 70 | Ang Mathis |
+| 2102 | 70 | Dapper Tilt |
+| 2103 | 70 | Paris Madlock |
+| 2104 | 70 | Witty Balancepiece |
+| 2105 | 70 | Karan999 |
+| 2106 | 70 | Lawanda Michelle |
+| 2107 | 70 | Sherrise J Figueroa |
+| 2108 | 70 | Joshp420 |
+| 2109 | 70 | Princesst |
+| 2110 | 70 | Jennifer Cox |
+| 2111 | 70 | Bethany Flores |
+| 2112 | 70 | Margarita Martinez |
+| 2113 | 70 | Giddy Fallgrid |
+| 2114 | 70 | Dreamy Snapper |
+| 2115 | 70 | Amanda Marshel |
+| 2116 | 70 | Courtney Luther |
+| 2117 | 70 | Summer Alexis |
+| 2118 | 70 | Glitzy Zigzag |
+| 2119 | 70 | Becky Fritz-Schweitzer |
+| 2120 | 70 | 23 |
+| 2121 | 70 | Leah Keesling |
+| 2122 | 70 | Giggly Twister |
+| 2123 | 70 | biggstan |
+| 2124 | 70 | Quirky Dropzone |
+| 2125 | 69 | Ann Matzkanin |
+| 2126 | 69 | Mary Elizabeth Jenkins |
+| 2127 | 69 | Angelica Strelak |
+| 2128 | 69 | Gordon Haroldson |
+| 2129 | 69 | Cindy Scott |
+| 2130 | 69 | William Yockey |
+| 2131 | 69 | Alcarl |
+| 2132 | 69 | MamaK |
+| 2133 | 69 | Lynn Marie |
+| 2134 | 69 | Saucy Linkgrid |
+| 2135 | 69 | Giddy Gridpiece |
+| 2136 | 69 | Jods |
+| 2137 | 69 | Chilly |
+| 2138 | 69 | CrazyOne |
+| 2139 | 69 | Christina Shepperd |
+| 2140 | 69 | Fallawn Stout-Peete |
+| 2141 | 69 | Seg Z Nig Ah |
+| 2142 | 69 | Freda |
+| 2143 | 69 | Tim Galle |
+| 2144 | 69 | Tiffany MizTeebabie Brown |
+| 2145 | 69 | Dreamy Glider |
+| 2146 | 69 | Puddin |
 | 2147 | 69 | Bri Valeda |
 | 2148 | 69 | Crystal Huber |
 | 2149 | 69 | Donna Hughes |
