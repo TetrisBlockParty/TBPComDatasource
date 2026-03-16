@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 20:26:43 UTC
+# Standings for team2 as of 2026-03-16 20:27:21 UTC
 
 **Total Participants:** 2782
 
@@ -229,9 +229,9 @@
 | 221 | 639 | Elizabeth Ostrom |
 | 222 | 638 | DanesMama |
 | 223 | 633 | Devin |
-| 224 | 627 | Kristina Coleman |
-| 225 | 626 | Shelly |
-| 226 | 620 | Tausha Colella |
+| 224 | 630 | Tausha Colella |
+| 225 | 627 | Kristina Coleman |
+| 226 | 626 | Shelly |
 | 227 | 618 | Dreamy Towerbuilder |
 | 228 | 618 | Spunky Gridmatch |
 | 229 | 616 | Cw |
@@ -322,9 +322,9 @@
 | 314 | 449 | Krista Roberts |
 | 315 | 448 | Shelbs |
 | 316 | 445 | Nick Kozik |
-| 317 | 444 | Halstead47K |
-| 318 | 444 | João Paulo |
-| 319 | 442 | Plucky Snaplink |
+| 317 | 445 | Plucky Snaplink |
+| 318 | 444 | Halstead47K |
+| 319 | 444 | João Paulo |
 | 320 | 440 | Joy Young |
 | 321 | 440 | Jazzy Piecebuilder |
 | 322 | 440 | Slippery Clam |
@@ -356,8 +356,8 @@
 | 348 | 407 | Zak Dunn |
 | 349 | 406 | Scott Martinson |
 | 350 | 405 | Dee Doubleyou |
-| 351 | 402 | Abimbola Bimbo |
-| 352 | 401 | Jessica Miles |
+| 351 | 404 | Jessica Miles |
+| 352 | 402 | Abimbola Bimbo |
 | 353 | 401 | Paul Beeman |
 | 354 | 401 | Jason Briggs |
 | 355 | 400 | Nerdy Blockpiece |
@@ -807,130 +807,130 @@
 | 799 | 182 | Henry Lanier |
 | 800 | 182 | Prette Qui |
 | 801 | 181 | Skhan |
-| 802 | 181 | Shakena Tuggle |
-| 803 | 181 | bubbles |
-| 804 | 181 | Carlos Landin |
+| 802 | 181 | Carlos Landin |
+| 803 | 181 | Shakena Tuggle |
+| 804 | 181 | bubbles |
 | 805 | 181 | Cristina Black |
-| 806 | 180 | Jen Louie |
+| 806 | 180 | Scruffy Rose |
 | 807 | 180 | Marcie McLain Dodd |
-| 808 | 180 | Krista Carpenter |
-| 809 | 180 | Tony Hooker |
-| 810 | 180 | Stormy Anguish |
-| 811 | 180 | Scruffy Rose |
-| 812 | 179 | Tina Eggert |
-| 813 | 179 | bruggy |
-| 814 | 178 | Josie Fig |
-| 815 | 178 | Tatiana Rae Robinson |
+| 808 | 180 | Stormy Anguish |
+| 809 | 180 | Krista Carpenter |
+| 810 | 180 | Jen Louie |
+| 811 | 180 | Tony Hooker |
+| 812 | 179 | bruggy |
+| 813 | 179 | Tina Eggert |
+| 814 | 178 | Tatiana Rae Robinson |
+| 815 | 178 | Josie Fig |
 | 816 | 177 | Elizabeth Blankenship |
 | 817 | 177 | JZoya  Scott |
-| 818 | 176 | Selena Combee |
-| 819 | 176 | DrMichelle Richardson |
-| 820 | 176 | Amber Fore |
-| 821 | 176 | JjB |
-| 822 | 174 | Valhammer |
+| 818 | 176 | DrMichelle Richardson |
+| 819 | 176 | Valhammer |
+| 820 | 176 | JjB |
+| 821 | 176 | Selena Combee |
+| 822 | 176 | Amber Fore |
 | 823 | 174 | Jumpy Tiley |
-| 824 | 174 | Anika Strawberryz Smith |
-| 825 | 174 | Debbie Gerlib-Molinari Leigh |
+| 824 | 174 | Debbie Gerlib-Molinari Leigh |
+| 825 | 174 | Anika Strawberryz Smith |
 | 826 | 174 | Tiffany Riccio |
-| 827 | 173 | Kris Owls |
-| 828 | 173 | Tonya Hadsell |
-| 829 | 172 | Marshall Renee |
-| 830 | 172 | Giddy Twistslam |
-| 831 | 171 | Snippy Framezone |
-| 832 | 171 | Twisty Frame |
-| 833 | 171 | Happy Twistfit |
-| 834 | 171 | 00022Denny |
-| 835 | 171 | Arv |
-| 836 | 171 | SigmaWinchester |
+| 827 | 173 | Tonya Hadsell |
+| 828 | 173 | Kris Owls |
+| 829 | 172 | Giddy Twistslam |
+| 830 | 172 | Marshall Renee |
+| 831 | 171 | 00022Denny |
+| 832 | 171 | Happy Twistfit |
+| 833 | 171 | Snippy Framezone |
+| 834 | 171 | Arv |
+| 835 | 171 | SigmaWinchester |
+| 836 | 171 | Twisty Frame |
 | 837 | 170 | Niamh |
-| 838 | 170 | Fancy Columnbuilder |
-| 839 | 170 | Zesty Edgefit |
-| 840 | 170 | Mookie |
-| 841 | 169 | Phanatic2008 |
-| 842 | 169 | Rod Grayll |
+| 838 | 170 | Becki Lynne Corinthos |
+| 839 | 170 | Fancy Columnbuilder |
+| 840 | 170 | Zesty Edgefit |
+| 841 | 170 | Mookie |
+| 842 | 169 | Phanatic2008 |
 | 843 | 169 | Peppy Spinfit |
-| 844 | 169 | Lisa Kline |
-| 845 | 168 | Robert Benjamin |
-| 846 | 168 | Becki Lynne Corinthos |
-| 847 | 168 | Marla Erin Salas |
-| 848 | 168 | Leah-Perle Bloomenstein |
+| 844 | 169 | Rod Grayll |
+| 845 | 169 | Lisa Kline |
+| 846 | 168 | Zane |
+| 847 | 168 | Leah-Perle Bloomenstein |
+| 848 | 168 | Marla Erin Salas |
 | 849 | 168 | Chalanda Jefferies |
-| 850 | 168 | Zane |
+| 850 | 168 | Robert Benjamin |
 | 851 | 167 | Jolly Towerpiece |
-| 852 | 166 | Cweej |
-| 853 | 166 | Katie Coyle |
-| 854 | 166 | Jesse Saville |
-| 855 | 166 | Gin Klingenberg |
+| 852 | 166 | Jesse Saville |
+| 853 | 166 | Cweej |
+| 854 | 166 | Gin Klingenberg |
+| 855 | 166 | Katie Coyle |
 | 856 | 165 | Angela Gay |
 | 857 | 165 | Happy Columnbuilder |
-| 858 | 165 | Weevil |
-| 859 | 165 | Stephanie Harrington |
+| 858 | 165 | Stephanie Harrington |
+| 859 | 165 | Weevil |
 | 860 | 164 | Amykins |
 | 861 | 164 | MrMais89 |
 | 862 | 164 | Old Man |
 | 863 | 163 | Ann Marie Humphries |
-| 864 | 163 | Rebecca Goforth |
-| 865 | 163 | Plucky Blockpiece |
+| 864 | 163 | Plucky Blockpiece |
+| 865 | 163 | Rebecca Goforth |
 | 866 | 162 | Snazzy Cascade |
-| 867 | 162 | Hector Gutierrez |
-| 868 | 162 | Douglas Stam |
-| 869 | 162 | Andrew McCafferty |
-| 870 | 162 | Betty Jo Cyphert |
-| 871 | 161 | Jessica Petersen |
-| 872 | 161 | Tdg Boyt |
-| 873 | 161 | Wes Ross |
-| 874 | 161 | Shauna Hansen |
+| 867 | 162 | Andrew McCafferty |
+| 868 | 162 | Betty Jo Cyphert |
+| 869 | 162 | Douglas Stam |
+| 870 | 162 | Hector Gutierrez |
+| 871 | 161 | Tdg Boyt |
+| 872 | 161 | Shauna Hansen |
+| 873 | 161 | Jessica Petersen |
+| 874 | 161 | Wes Ross |
 | 875 | 161 | Aaron Dill |
-| 876 | 160 | Paula Martin |
-| 877 | 160 | Tristan Lamothe |
+| 876 | 160 | Shelly Marie Lloyd |
+| 877 | 160 | Ashley Jayne Phillips |
 | 878 | 160 | BuzyBee |
-| 879 | 160 | Ashley Moore |
-| 880 | 160 | Aldo Hernandez |
-| 881 | 160 | Jumpy Cascadeclear |
-| 882 | 160 | Elliana |
-| 883 | 160 | Shelly Marie Lloyd |
+| 879 | 160 | Aldo Hernandez |
+| 880 | 160 | Elliana |
+| 881 | 160 | Tristan Lamothe |
+| 882 | 160 | Paula Martin |
+| 883 | 160 | Jumpy Cascadeclear |
 | 884 | 160 | Megan Earp |
-| 885 | 160 | Ashley Jayne Phillips |
-| 886 | 159 | Nutty Snapper |
+| 885 | 160 | Ashley Moore |
+| 886 | 159 | Tammie Anderson |
 | 887 | 159 | Slinky Align |
-| 888 | 159 | Brittany Backus |
-| 889 | 159 | Circuit8 |
-| 890 | 159 | Matthew Fedor |
-| 891 | 159 | Kari Thompson Rock |
-| 892 | 159 | Victoria Barkefelt |
-| 893 | 159 | Iliveformygirlz Smith |
-| 894 | 159 | Tammie Anderson |
-| 895 | 158 | Ryan Martin |
-| 896 | 158 | Laura Buckley |
+| 888 | 159 | Matthew Fedor |
+| 889 | 159 | Nutty Snapper |
+| 890 | 159 | Circuit8 |
+| 891 | 159 | Victoria Barkefelt |
+| 892 | 159 | Kari Thompson Rock |
+| 893 | 159 | Brittany Backus |
+| 894 | 159 | Iliveformygirlz Smith |
+| 895 | 158 | Laura Buckley |
+| 896 | 158 | Ryan Martin |
 | 897 | 158 | Christopher Kissiah |
 | 898 | 158 | Fely |
-| 899 | 157 | Steve Ouellet |
-| 900 | 157 | Matthew Hall |
-| 901 | 157 | BendyBones |
-| 902 | 157 | FallenStar |
-| 903 | 157 | Melissa Rodriguez |
-| 904 | 157 | Shaun Talbot |
+| 899 | 157 | Matthew Hall |
+| 900 | 157 | BendyBones |
+| 901 | 157 | Steve Ouellet |
+| 902 | 157 | Shaun Talbot |
+| 903 | 157 | FallenStar |
+| 904 | 157 | Melissa Rodriguez |
 | 905 | 156 | Kirsten Hanes Gasper |
 | 906 | 155 | Shiny Framezone |
-| 907 | 155 | Quirky Swiper |
-| 908 | 155 | Lizzy44@ |
-| 909 | 155 | Halie Geesey |
-| 910 | 154 | Alexander Zamora |
+| 907 | 155 | Lizzy44@ |
+| 908 | 155 | Halie Geesey |
+| 909 | 155 | Quirky Swiper |
+| 910 | 154 | Brickh4us |
 | 911 | 154 | Brave Fallzone |
-| 912 | 154 | Brickh4us |
-| 913 | 153 | rumpadump |
-| 914 | 153 | Janai Vrabel |
-| 915 | 153 | Brittney Marie Wyrick |
-| 916 | 153 | Montiette Mcglown |
-| 917 | 153 | Ivan Burgess |
+| 912 | 154 | Alexander Zamora |
+| 913 | 153 | Ivan Burgess |
+| 914 | 153 | Montiette Mcglown |
+| 915 | 153 | rumpadump |
+| 916 | 153 | Brittney Marie Wyrick |
+| 917 | 153 | Janai Vrabel |
 | 918 | 153 | Amy Villalpando |
-| 919 | 152 | Spectikl Mchapp |
-| 920 | 152 | Star Hart |
-| 921 | 152 | John Johnson |
-| 922 | 151 | Ashley Sweet-Hart |
-| 923 | 151 | melis |
-| 924 | 151 | Anthony Intrabartolo |
-| 925 | 151 | Swanky Tile |
+| 919 | 152 | Star Hart |
+| 920 | 152 | John Johnson |
+| 921 | 152 | Spectikl Mchapp |
+| 922 | 151 | Anthony Intrabartolo |
+| 923 | 151 | Swanky Tile |
+| 924 | 151 | melis |
+| 925 | 151 | Ashley Sweet-Hart |
 | 926 | 150 | Zany Climber |
 | 927 | 150 | Sherry Jones |
 | 928 | 150 | Jackie Miller |
