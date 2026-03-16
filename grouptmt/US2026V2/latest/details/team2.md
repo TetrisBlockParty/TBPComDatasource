@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 10:56:20 UTC
+# Standings for team2 as of 2026-03-16 10:56:43 UTC
 
 **Total Participants:** 2678
 
@@ -431,26 +431,26 @@
 | 423 | 279 | btchboy |
 | 424 | 278 | Iris Ortiz |
 | 425 | 278 | SuZee |
-| 426 | 277 | Ess |
-| 427 | 277 | Jackson Karen |
-| 428 | 276 | Amanda Thomas |
-| 429 | 276 | Ben Dove |
-| 430 | 275 | Giovanni Distefano |
-| 431 | 275 | Phredda Compton |
-| 432 | 275 | Cookie |
-| 433 | 275 | Camila Gerow |
-| 434 | 274 | Jean Yap |
-| 435 | 273 | Amanda Mason Scott |
-| 436 | 272 | Torie Snyder |
-| 437 | 271 | Vanessa Nguyen |
-| 438 | 271 | Diane Louise |
-| 439 | 271 | Marcia Jones |
-| 440 | 271 | Tipsy Clearbuilder |
-| 441 | 270 | Tony Tran |
-| 442 | 270 | Layle Miranda Madsen |
-| 443 | 270 | Slinky Towerer |
-| 444 | 270 | Spicy Patternbuilder |
-| 445 | 270 | Mjhays |
+| 426 | 278 | Mjhays |
+| 427 | 277 | Ess |
+| 428 | 277 | Jackson Karen |
+| 429 | 276 | Amanda Thomas |
+| 430 | 276 | Ben Dove |
+| 431 | 275 | Giovanni Distefano |
+| 432 | 275 | Phredda Compton |
+| 433 | 275 | Cookie |
+| 434 | 275 | Camila Gerow |
+| 435 | 274 | Jean Yap |
+| 436 | 273 | Amanda Mason Scott |
+| 437 | 272 | Torie Snyder |
+| 438 | 271 | Vanessa Nguyen |
+| 439 | 271 | Diane Louise |
+| 440 | 271 | Marcia Jones |
+| 441 | 271 | Tipsy Clearbuilder |
+| 442 | 270 | Tony Tran |
+| 443 | 270 | Layle Miranda Madsen |
+| 444 | 270 | Slinky Towerer |
+| 445 | 270 | Spicy Patternbuilder |
 | 446 | 270 | Kimberly Garcia |
 | 447 | 269 | Carey Kyle |
 | 448 | 267 | Smiley Match |
