@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-16 08:44:39 UTC
+# Standings for team3 as of 2026-03-16 08:45:21 UTC
 
 **Total Participants:** 4166
 
@@ -520,21 +520,21 @@
 | 512 | 341 | Mel Murr |
 | 513 | 340 | Andrea Jamieson |
 | 514 | 340 | Francine-frankie Ritzio-Rizzo |
-| 515 | 339 | Peachy Breaker |
-| 516 | 339 | Beelow Bently |
-| 517 | 338 | Kimberly Wright |
-| 518 | 338 | Josh Hernandez |
-| 519 | 337 | Happy Winder |
-| 520 | 337 | Og Johnson |
-| 521 | 337 | CupCake |
-| 522 | 337 | Desiree Watson |
-| 523 | 336 | LaPrecious Williams |
-| 524 | 336 | LadybugChaos |
-| 525 | 335 | Debra Wagner |
-| 526 | 335 | Sunny Breaker |
-| 527 | 334 | lilseasonz |
-| 528 | 334 | Quietzone |
-| 529 | 334 | Chelsea Hall |
+| 515 | 339 | Chelsea Hall |
+| 516 | 339 | Peachy Breaker |
+| 517 | 339 | Beelow Bently |
+| 518 | 338 | Kimberly Wright |
+| 519 | 338 | Josh Hernandez |
+| 520 | 337 | Happy Winder |
+| 521 | 337 | Og Johnson |
+| 522 | 337 | CupCake |
+| 523 | 337 | Desiree Watson |
+| 524 | 336 | LaPrecious Williams |
+| 525 | 336 | LadybugChaos |
+| 526 | 335 | Debra Wagner |
+| 527 | 335 | Sunny Breaker |
+| 528 | 334 | lilseasonz |
+| 529 | 334 | Quietzone |
 | 530 | 333 | Jamie Fulmore |
 | 531 | 333 | Gerald Richard Franke |
 | 532 | 333 | Irie |

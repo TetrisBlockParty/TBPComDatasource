@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-16 08:44:39 UTC
+# Standings for team2 as of 2026-03-16 08:45:21 UTC
 
 **Total Participants:** 2660
 
@@ -98,9 +98,9 @@
 | 90 | 1253 | TETRIS |
 | 91 | 1245 | Brave Matchfit |
 | 92 | 1239 | Giggly Clearzone |
-| 93 | 1221 | kaijujitsu |
-| 94 | 1199 | Giggy Matchpiece |
-| 95 | 1193 | Pixie |
+| 93 | 1238 | Pixie |
+| 94 | 1221 | kaijujitsu |
+| 95 | 1199 | Giggy Matchpiece |
 | 96 | 1141 | sweet lil miss |
 | 97 | 1127 | Pikake Medeiros |
 | 98 | 1101 | Chipper Matchclear |
@@ -152,7 +152,7 @@
 | 144 | 740 | Jamie Lang |
 | 145 | 737 | Marc |
 | 146 | 735 | Joy LaJeunesse |
-| 147 | 732 | CharalaAnn |
+| 147 | 735 | CharalaAnn |
 | 148 | 730 | Shawn Haines |
 | 149 | 726 | Blaze Sexton |
 | 150 | 724 | Derrell W. Barron |
