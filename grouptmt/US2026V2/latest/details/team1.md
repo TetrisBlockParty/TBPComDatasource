@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 23:10:46 UTC
+# Standings for team1 as of 2026-03-16 23:11:23 UTC
 
 **Total Participants:** 2810
 
@@ -34,9 +34,9 @@
 | 26 | 4750 | Selena Rollin |
 | 27 | 4604 | Natalia RX Beyer |
 | 28 | 4536 | Erica Lepisto Anderson |
-| 29 | 4463 | Amy Roche |
-| 30 | 4453 | Elyse YL |
-| 31 | 4450 | Angel Smith |
+| 29 | 4500 | Angel Smith |
+| 30 | 4463 | Amy Roche |
+| 31 | 4453 | Elyse YL |
 | 32 | 4407 | Amanda Sheppard |
 | 33 | 4280 | Rosey |
 | 34 | 3869 | Justin Parker |
@@ -148,11 +148,11 @@
 | 140 | 1076 | 1_Roxanne_3 |
 | 141 | 1053 | Crawford Candice |
 | 142 | 1053 | Hasty Cascader |
-| 143 | 1032 | Sunny Swiper |
-| 144 | 1030 | Hyper Blocky |
-| 145 | 1029 | Bold Clear |
-| 146 | 1026 | Dramatic Tiger |
-| 147 | 1025 | paupau |
+| 143 | 1040 | paupau |
+| 144 | 1032 | Sunny Swiper |
+| 145 | 1030 | Hyper Blocky |
+| 146 | 1029 | Bold Clear |
+| 147 | 1026 | Dramatic Tiger |
 | 148 | 1013 | Snippy Stacky |
 | 149 | 1009 | Amy R Clinton |
 | 150 | 989 | Donavon Krahn |
@@ -584,36 +584,36 @@
 | 576 | 285 | Boldy Twisterfit |
 | 577 | 285 | Anthony Bryan Riva |
 | 578 | 284 | Heatherly |
-| 579 | 283 | Travette Milner |
+| 579 | 283 | anshu |
 | 580 | 283 | Gabriel Archer |
-| 581 | 283 | anshu |
+| 581 | 283 | Travette Milner |
 | 582 | 282 | Tracie Corbett |
 | 583 | 282 | Lauren Bond |
-| 584 | 281 | Jessica Shubert |
-| 585 | 281 | Kimberly Amburn |
+| 584 | 281 | Kimberly Amburn |
+| 585 | 281 | Jessica Shubert |
 | 586 | 281 | Wendy Griffith |
-| 587 | 280 | Casey Babb |
-| 588 | 280 | Robert Earl Harper III |
+| 587 | 280 | Robert Earl Harper III |
+| 588 | 280 | Casey Babb |
 | 589 | 280 | Teddy Marshall |
 | 590 | 280 | Blaster007 |
 | 591 | 278 | Snappy Linkroll |
 | 592 | 278 | LT |
-| 593 | 277 | Giggy Snaplink |
-| 594 | 277 | Christina Davis |
+| 593 | 277 | Christina Davis |
+| 594 | 277 | Giggy Snaplink |
 | 595 | 276 | Anthony Scarberry |
 | 596 | 275 | Dani Giles |
 | 597 | 274 | Lisa Reynolds Adair |
 | 598 | 274 | Jessica Butler |
 | 599 | 274 | Jessica Marie Long |
-| 600 | 273 | Tractor Houston |
-| 601 | 272 | Sabrina Frazier |
-| 602 | 272 | Rachel Ballard |
-| 603 | 272 | Michelle Mendoza |
-| 604 | 271 | Renee Elam |
+| 600 | 273 | Happy Shatterfit |
+| 601 | 273 | Tractor Houston |
+| 602 | 272 | Sabrina Frazier |
+| 603 | 272 | Rachel Ballard |
+| 604 | 272 | Michelle Mendoza |
 | 605 | 271 | Mary McGhee |
-| 606 | 270 | Happy Shatterfit |
-| 607 | 270 | Alex Nicol |
-| 608 | 270 | Tee Tee Greene |
+| 606 | 271 | Renee Elam |
+| 607 | 270 | Tee Tee Greene |
+| 608 | 270 | Alex Nicol |
 | 609 | 269 | SpunkyStriker |
 | 610 | 268 | Michelle Lee |
 | 611 | 267 | Matthew Allan |
@@ -732,34 +732,34 @@
 | 724 | 227 | Dawgofwar |
 | 725 | 226 | jeh |
 | 726 | 226 | Pauline Cortez |
-| 727 | 225 | Freya |
-| 728 | 225 | MaegenMarie Jones |
-| 729 | 224 | Scott Smith |
-| 730 | 224 | Wulfbyte |
-| 731 | 224 | Jennifer Grubbs |
-| 732 | 223 | Sue Foreman |
-| 733 | 223 | Jacob Phillips |
-| 734 | 222 | Eddie Morales |
-| 735 | 222 | Lisa Klockenga |
-| 736 | 222 | Jessica |
-| 737 | 222 | mikey |
-| 738 | 222 | NunYa |
-| 739 | 222 | Kelli Pazour |
-| 740 | 221 | Dusti Byrd |
-| 741 | 221 | Zippy Slamdrop |
+| 727 | 225 | Kim Robinson |
+| 728 | 225 | Freya |
+| 729 | 225 | MaegenMarie Jones |
+| 730 | 224 | Scott Smith |
+| 731 | 224 | Wulfbyte |
+| 732 | 224 | Jennifer Grubbs |
+| 733 | 223 | Sue Foreman |
+| 734 | 223 | Jacob Phillips |
+| 735 | 222 | Eddie Morales |
+| 736 | 222 | Lisa Klockenga |
+| 737 | 222 | Jessica |
+| 738 | 222 | mikey |
+| 739 | 222 | NunYa |
+| 740 | 222 | Kelli Pazour |
+| 741 | 221 | Dusti Byrd |
 | 742 | 221 | Natasha King |
-| 743 | 220 | Sabrina Hardrick |
-| 744 | 220 | Kim Robinson |
+| 743 | 221 | Zippy Slamdrop |
+| 744 | 220 | Sabrina Hardrick |
 | 745 | 220 | Dizzy Catcher |
 | 746 | 220 | snazzyseahorse |
 | 747 | 220 | Tina Jett |
 | 748 | 219 | Yolanda Quinn |
 | 749 | 219 | Margo Fenton |
 | 750 | 219 | Aaron M Luna |
-| 751 | 218 | Michael Bruck |
+| 751 | 218 | Crystal Rosen |
 | 752 | 218 | Matthew Laudico |
 | 753 | 218 | a |
-| 754 | 218 | Crystal Rosen |
+| 754 | 218 | Michael Bruck |
 | 755 | 218 | Steven Ray Real |
 | 756 | 218 | Betty Bóò |
 | 757 | 217 | Michelle Cummings |
