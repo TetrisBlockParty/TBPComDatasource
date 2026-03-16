@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-16 10:16:43 UTC
+# Standings for team1 as of 2026-03-16 10:17:21 UTC
 
 **Total Participants:** 2659
 
@@ -25,7 +25,7 @@
 | 17 | 5575 | Venechia Berry |
 | 18 | 5261 | Tashanna Harvey |
 | 19 | 5018 | Vistabrat |
-| 20 | 4860 | Katie Daniels |
+| 20 | 4890 | Katie Daniels |
 | 21 | 4565 | Paul Smiar |
 | 22 | 4536 | Erica Lepisto Anderson |
 | 23 | 4463 | Amy Roche |
@@ -122,8 +122,8 @@
 | 114 | 1091 | Sarah Durmer |
 | 115 | 1076 | 1_Roxanne_3 |
 | 116 | 1071 | Letson Melissa |
-| 117 | 1064 | Macy Williams |
-| 118 | 1058 | Witty Wipegrid |
+| 117 | 1068 | Witty Wipegrid |
+| 118 | 1064 | Macy Williams |
 | 119 | 1053 | Crawford Candice |
 | 120 | 1051 | Charis Stoner |
 | 121 | 1048 | Big rick !!! |
@@ -145,7 +145,7 @@
 | 137 | 906 | Joy Bloodworth |
 | 138 | 899 | Irene Medina |
 | 139 | 894 | Sarah Stanonik |
-| 140 | 886 | Jumpy Spinblock |
+| 140 | 887 | Jumpy Spinblock |
 | 141 | 883 | Spicy Buildsnap |
 | 142 | 882 | Amy R Clinton |
 | 143 | 880 | Michael Powers |
@@ -280,8 +280,8 @@
 | 272 | 443 | Mike Mendoza |
 | 273 | 441 | Courtney Leigh Deiber |
 | 274 | 439 | Poppy Fallzone |
-| 275 | 437 | Andrew Coulter |
-| 276 | 437 | Boldy Clear |
+| 275 | 439 | Boldy Clear |
+| 276 | 437 | Andrew Coulter |
 | 277 | 433 | Eric Hoffman |
 | 278 | 432 | raffyG |
 | 279 | 431 | Marie Shakinah |
@@ -475,25 +475,25 @@
 | 467 | 257 | Lively Patternfall |
 | 468 | 256 | SpaceCase085 |
 | 469 | 256 | Shukee Lo |
-| 470 | 255 | Melissa Madison |
-| 471 | 255 | David Rojas |
-| 472 | 255 | Quirky Dashy |
-| 473 | 254 | Armoni |
-| 474 | 254 | CelticTraveler |
-| 475 | 254 | Fancy Cascadebuilder |
-| 476 | 254 | gucci |
-| 477 | 253 | Sabrina Frazier |
-| 478 | 253 | Giggy Twistpiece |
-| 479 | 253 | Julie Seal |
-| 480 | 252 | Tausha Mathews |
-| 481 | 252 | Jonathan Gaffaney |
-| 482 | 251 | David Zeimer |
+| 470 | 256 | Julie Seal |
+| 471 | 255 | Melissa Madison |
+| 472 | 255 | David Rojas |
+| 473 | 255 | Quirky Dashy |
+| 474 | 254 | Armoni |
+| 475 | 254 | Raheem Young |
+| 476 | 254 | CelticTraveler |
+| 477 | 254 | gucci |
+| 478 | 254 | Fancy Cascadebuilder |
+| 479 | 253 | Sabrina Frazier |
+| 480 | 253 | Giggy Twistpiece |
+| 481 | 252 | Tausha Mathews |
+| 482 | 252 | Jonathan Gaffaney |
 | 483 | 251 | Andie Galindo |
-| 484 | 250 | Jimmy Shannon |
-| 485 | 249 | Hasty Lift |
-| 486 | 248 | Bink |
+| 484 | 251 | David Zeimer |
+| 485 | 250 | Jimmy Shannon |
+| 486 | 249 | Hasty Lift |
 | 487 | 248 | Chilly Faller |
-| 488 | 248 | Raheem Young |
+| 488 | 248 | Bink |
 | 489 | 247 | Bearman |
 | 490 | 246 | Dizzy Glidebuilder |
 | 491 | 246 | Maju Restini |
@@ -1226,81 +1226,81 @@
 | 1218 | 90 | Ellen Maxwell Capstaff |
 | 1219 | 90 | Christian Pham |
 | 1220 | 90 | Bon Welch |
-| 1221 | 90 | Gunzo Ramires |
-| 1222 | 90 | Casey Jordan |
-| 1223 | 90 | Kristen Rhoads |
-| 1224 | 90 | Bouncy Crawler |
-| 1225 | 89 | Amy Niemeier |
-| 1226 | 89 | William Bowers |
-| 1227 | 89 | INENAPOM |
+| 1221 | 90 | Bouncy Crawler |
+| 1222 | 90 | Gunzo Ramires |
+| 1223 | 90 | Casey Jordan |
+| 1224 | 90 | Kristen Rhoads |
+| 1225 | 89 | INENAPOM |
+| 1226 | 89 | Amy Niemeier |
+| 1227 | 89 | William Bowers |
 | 1228 | 89 | Smelly |
 | 1229 | 89 | Aigner Monae |
-| 1230 | 88 | Bouncy Patternzone |
-| 1231 | 88 | Crruth |
-| 1232 | 88 | Alexandria Ritch |
-| 1233 | 88 | Iang Nozil |
-| 1234 | 88 | Shawntae Mccary |
+| 1230 | 88 | Crruth |
+| 1231 | 88 | Shawntae Mccary |
+| 1232 | 88 | Bouncy Patternzone |
+| 1233 | 88 | Alexandria Ritch |
+| 1234 | 88 | Iang Nozil |
 | 1235 | 88 | Richard Cranium |
-| 1236 | 87 | Anny Johnson |
-| 1237 | 87 | Tran Tran |
-| 1238 | 87 | S Gale Holton |
-| 1239 | 87 | Lacey Renee Dietz |
-| 1240 | 87 | Alexandra Karavias |
+| 1236 | 87 | Lacey Renee Dietz |
+| 1237 | 87 | Anny Johnson |
+| 1238 | 87 | Alexandra Karavias |
+| 1239 | 87 | S Gale Holton |
+| 1240 | 87 | Tran Tran |
 | 1241 | 86 | Dale |
-| 1242 | 86 | Angie Dotson |
-| 1243 | 86 | Neomi Perdue |
-| 1244 | 86 | LaTisha Stillsmilin Hudson |
-| 1245 | 86 | Itn |
-| 1246 | 86 | KingSteve |
-| 1247 | 86 | Funky Smasher |
-| 1248 | 86 | Rebecca Fitch |
-| 1249 | 85 | RainbowOwl |
-| 1250 | 85 | Dottie Jones |
-| 1251 | 85 | Mariah Cornell |
-| 1252 | 85 | ImStupid |
-| 1253 | 85 | Mo Mulah |
-| 1254 | 85 | Baretta Scott |
-| 1255 | 85 | Amanda Falta |
-| 1256 | 85 | Snippy Builderpiece |
-| 1257 | 85 | Nikki Eaton |
-| 1258 | 85 | Bree Prine |
-| 1259 | 85 | Tracey Wilson |
-| 1260 | 85 | Tabitha Rose Stone |
-| 1261 | 85 | Dandy Snapper |
-| 1262 | 84 | Steven Andrew |
-| 1263 | 84 | James Alexander Gonzales |
-| 1264 | 84 | iceman |
-| 1265 | 84 | Matthew Foley |
-| 1266 | 84 | Nunya |
-| 1267 | 84 | Luna |
-| 1268 | 84 | Stacy Patterson |
-| 1269 | 84 | Bob Sitts |
-| 1270 | 83 | Renee |
-| 1271 | 83 | Winky |
-| 1272 | 83 | Christine Sheridan |
-| 1273 | 83 | Aj Fredenburg |
-| 1274 | 83 | Shaun Waddell |
-| 1275 | 83 | Joey Burns |
-| 1276 | 83 | Elizabeth A Cobuccio |
+| 1242 | 86 | Funky Smasher |
+| 1243 | 86 | Itn |
+| 1244 | 86 | Jamie Nicole Lattymer |
+| 1245 | 86 | Angie Dotson |
+| 1246 | 86 | Neomi Perdue |
+| 1247 | 86 | LaTisha Stillsmilin Hudson |
+| 1248 | 86 | KingSteve |
+| 1249 | 86 | Rebecca Fitch |
+| 1250 | 85 | RainbowOwl |
+| 1251 | 85 | Dottie Jones |
+| 1252 | 85 | Mariah Cornell |
+| 1253 | 85 | ImStupid |
+| 1254 | 85 | Dandy Snapper |
+| 1255 | 85 | Tabitha Rose Stone |
+| 1256 | 85 | Nikki Eaton |
+| 1257 | 85 | Snippy Builderpiece |
+| 1258 | 85 | Tracey Wilson |
+| 1259 | 85 | Bree Prine |
+| 1260 | 85 | Mo Mulah |
+| 1261 | 85 | Baretta Scott |
+| 1262 | 85 | Amanda Falta |
+| 1263 | 84 | iceman |
+| 1264 | 84 | Nunya |
+| 1265 | 84 | Bob Sitts |
+| 1266 | 84 | Stacy Patterson |
+| 1267 | 84 | Matthew Foley |
+| 1268 | 84 | James Alexander Gonzales |
+| 1269 | 84 | Steven Andrew |
+| 1270 | 84 | Luna |
+| 1271 | 83 | Pretty Eyes |
+| 1272 | 83 | Winky |
+| 1273 | 83 | Elizabeth A Cobuccio |
+| 1274 | 83 | Aj Fredenburg |
+| 1275 | 83 | Renee |
+| 1276 | 83 | p |
 | 1277 | 83 | Quaheem Brown-Riley |
-| 1278 | 83 | Rebecca Gillespie |
-| 1279 | 83 | Vicky Shull |
-| 1280 | 83 | Jamie Nicole Lattymer |
-| 1281 | 83 | Pretty Eyes |
-| 1282 | 83 | p |
-| 1283 | 82 | Karissa Hull |
-| 1284 | 82 | Zesty Balancepiece |
-| 1285 | 82 | Susan Lokerse |
-| 1286 | 82 | Shaneeka Morrissette |
+| 1278 | 83 | Joey Burns |
+| 1279 | 83 | Rebecca Gillespie |
+| 1280 | 83 | Shaun Waddell |
+| 1281 | 83 | Vicky Shull |
+| 1282 | 83 | Christine Sheridan |
+| 1283 | 82 | Susan Lokerse |
+| 1284 | 82 | Shaneeka Morrissette |
+| 1285 | 82 | Zesty Balancepiece |
+| 1286 | 82 | KingRoss |
 | 1287 | 82 | Yoga Jones |
-| 1288 | 82 | KingRoss |
-| 1289 | 82 | Bubbly Blast |
-| 1290 | 82 | Lavana Erpelding |
-| 1291 | 82 | Tony McCormick |
-| 1292 | 82 | Cranky Swipe |
-| 1293 | 82 | Zippy Slamdrop |
-| 1294 | 82 | Tetrist |
-| 1295 | 82 | Shellybobellers |
+| 1288 | 82 | Cranky Swipe |
+| 1289 | 82 | Karissa Hull |
+| 1290 | 82 | Shellybobellers |
+| 1291 | 82 | Lavana Erpelding |
+| 1292 | 82 | Bubbly Blast |
+| 1293 | 82 | Tetrist |
+| 1294 | 82 | Zippy Slamdrop |
+| 1295 | 82 | Tony McCormick |
 | 1296 | 81 | BriAna Nicole Adams |
 | 1297 | 81 | Michelle Roberts |
 | 1298 | 81 | Laura Lewis |
