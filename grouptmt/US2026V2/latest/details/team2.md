@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 08:38:38 UTC
+# Standings for team2 as of 2026-03-17 08:39:18 UTC
 
 **Total Participants:** 2967
 
@@ -156,7 +156,7 @@
 | 148 | 1025 | Krista Roberts |
 | 149 | 1021 | Christina Ramirez |
 | 150 | 1018 | Ania |
-| 151 | 1014 | Jumpy Filler |
+| 151 | 1017 | Jumpy Filler |
 | 152 | 1009 | Mary Reeves |
 | 153 | 1006 | Christina Graham |
 | 154 | 1000 | Dandy Crasher |
@@ -1040,13 +1040,13 @@
 | 1032 | 167 | Alicia Lux Arnst |
 | 1033 | 166 | JesusIsLove |
 | 1034 | 166 | Jesse Saville |
-| 1035 | 165 | EKS |
-| 1036 | 165 | Lenitia Curley |
-| 1037 | 165 | Weevil |
-| 1038 | 165 | Mary Love |
-| 1039 | 165 | Burnita Heard |
-| 1040 | 164 | Halie Geesey |
-| 1041 | 164 | Shannon Lynn Goddard |
+| 1035 | 165 | Shannon Lynn Goddard |
+| 1036 | 165 | EKS |
+| 1037 | 165 | Lenitia Curley |
+| 1038 | 165 | Weevil |
+| 1039 | 165 | Mary Love |
+| 1040 | 165 | Burnita Heard |
+| 1041 | 164 | Halie Geesey |
 | 1042 | 164 | Meme |
 | 1043 | 164 | Anita Johnson |
 | 1044 | 164 | Trish Newell |
@@ -1587,54 +1587,54 @@
 | 1579 | 91 | Wendy DeBoard |
 | 1580 | 91 | Gypsy |
 | 1581 | 91 | Sassy Stacker |
-| 1582 | 90 | Angel Niomi Munoz |
-| 1583 | 90 | Plucky Clusterer |
-| 1584 | 90 | Shannon Nichole |
-| 1585 | 90 | Wendy Gathings |
-| 1586 | 90 | Sonceria Ingram-Ford |
-| 1587 | 90 | Amy Yearta |
-| 1588 | 90 | Petty |
-| 1589 | 90 | Brenda Nelson-noles |
-| 1590 | 90 | Gravytrain |
-| 1591 | 90 | Denise Bailey |
-| 1592 | 90 | Avi Quijada |
-| 1593 | 90 | Dapper Stacker |
-| 1594 | 90 | Alex Andi Sulistio |
-| 1595 | 90 | Shanon Klair |
-| 1596 | 90 | Stella Gordon |
-| 1597 | 90 | Goofy Basegrid |
-| 1598 | 90 | Poppy Jumper |
-| 1599 | 90 | Frilly Slider |
-| 1600 | 89 | Shaylene Craig |
-| 1601 | 89 | Troy Joseph Soucy |
-| 1602 | 89 | Sarah Count-it All-Joy |
-| 1603 | 89 | VegasV |
-| 1604 | 89 | Christina Stimson |
-| 1605 | 89 | Marisa Sanders |
-| 1606 | 89 | Cara Rena Hurst |
-| 1607 | 89 | Jason Wallig |
-| 1608 | 89 | Heather Hilferty |
-| 1609 | 89 | Kristalyn Schrank |
-| 1610 | 89 | Jessica Culbertson |
-| 1611 | 89 | Marisa |
-| 1612 | 88 | Ruchi Smit |
-| 1613 | 88 | Stabitha Christie |
-| 1614 | 88 | Dapper Winder |
-| 1615 | 88 | Shiny Zonegrid |
-| 1616 | 88 | Giggy Tilt |
-| 1617 | 88 | Jevonna Handy |
-| 1618 | 88 | Zesty Dasher |
-| 1619 | 88 | Wacky Brickclear |
-| 1620 | 88 | Malikah Coleman |
-| 1621 | 88 | Brandi Roberts-Yartz |
-| 1622 | 88 | Ann May June |
-| 1623 | 87 | Christine Kelly-Sarni |
-| 1624 | 87 | Terry Partain |
-| 1625 | 87 | Amber Starr Drinnon |
-| 1626 | 87 | Cozy Clearbuilder |
-| 1627 | 87 | Yusuf Barnes |
-| 1628 | 87 | Dawn Alexander |
-| 1629 | 87 | Cupcake |
+| 1582 | 91 | Cupcake |
+| 1583 | 90 | Angel Niomi Munoz |
+| 1584 | 90 | Plucky Clusterer |
+| 1585 | 90 | Shannon Nichole |
+| 1586 | 90 | Wendy Gathings |
+| 1587 | 90 | Sonceria Ingram-Ford |
+| 1588 | 90 | Amy Yearta |
+| 1589 | 90 | Petty |
+| 1590 | 90 | Brenda Nelson-noles |
+| 1591 | 90 | Gravytrain |
+| 1592 | 90 | Denise Bailey |
+| 1593 | 90 | Avi Quijada |
+| 1594 | 90 | Dapper Stacker |
+| 1595 | 90 | Alex Andi Sulistio |
+| 1596 | 90 | Shanon Klair |
+| 1597 | 90 | Stella Gordon |
+| 1598 | 90 | Goofy Basegrid |
+| 1599 | 90 | Poppy Jumper |
+| 1600 | 90 | Frilly Slider |
+| 1601 | 89 | Shaylene Craig |
+| 1602 | 89 | Troy Joseph Soucy |
+| 1603 | 89 | Sarah Count-it All-Joy |
+| 1604 | 89 | VegasV |
+| 1605 | 89 | Christina Stimson |
+| 1606 | 89 | Marisa Sanders |
+| 1607 | 89 | Cara Rena Hurst |
+| 1608 | 89 | Jason Wallig |
+| 1609 | 89 | Heather Hilferty |
+| 1610 | 89 | Kristalyn Schrank |
+| 1611 | 89 | Jessica Culbertson |
+| 1612 | 89 | Marisa |
+| 1613 | 88 | Ruchi Smit |
+| 1614 | 88 | Stabitha Christie |
+| 1615 | 88 | Dapper Winder |
+| 1616 | 88 | Shiny Zonegrid |
+| 1617 | 88 | Giggy Tilt |
+| 1618 | 88 | Jevonna Handy |
+| 1619 | 88 | Zesty Dasher |
+| 1620 | 88 | Wacky Brickclear |
+| 1621 | 88 | Malikah Coleman |
+| 1622 | 88 | Brandi Roberts-Yartz |
+| 1623 | 88 | Ann May June |
+| 1624 | 87 | Christine Kelly-Sarni |
+| 1625 | 87 | Terry Partain |
+| 1626 | 87 | Amber Starr Drinnon |
+| 1627 | 87 | Cozy Clearbuilder |
+| 1628 | 87 | Yusuf Barnes |
+| 1629 | 87 | Dawn Alexander |
 | 1630 | 86 | Laurie McGregor |
 | 1631 | 86 | Jeremy Barry |
 | 1632 | 86 | Dizzy Linkpiece |
