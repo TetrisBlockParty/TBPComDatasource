@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 09:04:19 UTC
+# Standings for team1 as of 2026-03-17 09:04:47 UTC
 
 **Total Participants:** 2965
 
@@ -1591,63 +1591,63 @@
 | 1583 | 91 | Dale |
 | 1584 | 91 | Cheryl Villa |
 | 1585 | 91 | Bradley Geiter |
-| 1586 | 91 | Penny Clark |
-| 1587 | 91 | Lisa Franks |
+| 1586 | 91 | Lisa Franks |
+| 1587 | 91 | Penny Clark |
 | 1588 | 91 | Sabrina Wilkerson |
 | 1589 | 91 | Lex |
 | 1590 | 90 | Samantha Millar |
 | 1591 | 90 | Michael Anthony |
 | 1592 | 90 | Brad Werner |
 | 1593 | 90 | Jerry Ruff |
-| 1594 | 90 | Mean Melly |
-| 1595 | 90 | Ant |
+| 1594 | 90 | Ant |
+| 1595 | 90 | Mean Melly |
 | 1596 | 90 | Witty Shatterline |
 | 1597 | 90 | Breezy Tilebuilder |
 | 1598 | 90 | MetalBrickLayer |
-| 1599 | 90 | Johnson Aryonda |
-| 1600 | 90 | Mckenzie Morris |
-| 1601 | 90 | Amber Jolene |
-| 1602 | 90 | Elena Sanchez Damian |
-| 1603 | 90 | Samantha Turzak Baker |
-| 1604 | 90 | BDubb |
-| 1605 | 90 | Vivian Cobb |
-| 1606 | 90 | Moo |
-| 1607 | 90 | Vickie Valdez-Lopez |
+| 1599 | 90 | Vickie Valdez-Lopez |
+| 1600 | 90 | Johnson Aryonda |
+| 1601 | 90 | Mckenzie Morris |
+| 1602 | 90 | Amber Jolene |
+| 1603 | 90 | Moo |
+| 1604 | 90 | Vivian Cobb |
+| 1605 | 90 | Elena Sanchez Damian |
+| 1606 | 90 | BDubb |
+| 1607 | 90 | Samantha Turzak Baker |
 | 1608 | 90 | Hunt Joe |
-| 1609 | 89 | Pam Salsman |
-| 1610 | 89 | Nutty Tumbler |
-| 1611 | 89 | Mighty Patternfall |
-| 1612 | 89 | Matthew Foley |
-| 1613 | 88 | Noah Lalonde |
-| 1614 | 88 | Randy Masao Hilbrant |
+| 1609 | 89 | Matthew Foley |
+| 1610 | 89 | Mighty Patternfall |
+| 1611 | 89 | Pam Salsman |
+| 1612 | 89 | Nutty Tumbler |
+| 1613 | 89 | Lomi |
+| 1614 | 88 | Noah Lalonde |
 | 1615 | 88 | Candy Jones |
 | 1616 | 88 | Mighty Combofall |
-| 1617 | 88 | Marlena McAllister |
-| 1618 | 88 | Poppy Lift |
-| 1619 | 87 | Susan D. Gray |
-| 1620 | 87 | Stellar |
-| 1621 | 87 | Vetz Squad |
-| 1622 | 87 | Lively Catcher |
-| 1623 | 87 | SkullKng |
-| 1624 | 87 | Carolyn MacFarland |
-| 1625 | 87 | Jesus Garcia |
-| 1626 | 86 | KingSteve |
-| 1627 | 86 | Itn |
-| 1628 | 86 | Tony McCormick |
-| 1629 | 86 | Richard Brady |
+| 1617 | 88 | Poppy Lift |
+| 1618 | 88 | Randy Masao Hilbrant |
+| 1619 | 88 | Marlena McAllister |
+| 1620 | 87 | Susan D. Gray |
+| 1621 | 87 | Stellar |
+| 1622 | 87 | Vetz Squad |
+| 1623 | 87 | Lively Catcher |
+| 1624 | 87 | SkullKng |
+| 1625 | 87 | Carolyn MacFarland |
+| 1626 | 87 | Jesus Garcia |
+| 1627 | 86 | Richard Brady |
+| 1628 | 86 | Itn |
+| 1629 | 86 | Tony McCormick |
 | 1630 | 86 | DiLek Karabacak |
 | 1631 | 86 | Dark Werewolf |
 | 1632 | 86 | Funky Smasher |
 | 1633 | 86 | Spunky Zoney |
-| 1634 | 85 | Lomi |
-| 1635 | 85 | Gregory Craig |
-| 1636 | 85 | Bubbly Blast |
+| 1634 | 86 | KingSteve |
+| 1635 | 85 | Bubbly Blast |
+| 1636 | 85 | Gregory Craig |
 | 1637 | 85 | Jeyson |
 | 1638 | 85 | Tia Smith |
-| 1639 | 85 | Tabitha Rose Stone |
-| 1640 | 85 | Texas Sass |
-| 1641 | 85 | Spunky |
-| 1642 | 85 | Tracey Wilson |
+| 1639 | 85 | Texas Sass |
+| 1640 | 85 | Spunky |
+| 1641 | 85 | Tracey Wilson |
+| 1642 | 85 | Tabitha Rose Stone |
 | 1643 | 85 | Mo Mulah |
 | 1644 | 85 | Gerald Benoitjr |
 | 1645 | 84 | Wacky Ziggy |
