@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 09:00:45 UTC
+# Standings for team1 as of 2026-03-17 09:01:22 UTC
 
 **Total Participants:** 2965
 
@@ -864,14 +864,14 @@
 | 856 | 222 | Slinky Stacky |
 | 857 | 221 | Joe Andrew Jackson |
 | 858 | 221 | MWFreddy |
-| 859 | 220 | Tina Jett |
-| 860 | 220 | MG Alice |
-| 861 | 220 | snazzyseahorse |
-| 862 | 220 | WakeUpCakeUp |
-| 863 | 220 | Amber Wolfe |
-| 864 | 219 | Jazzy Bridgepiece |
-| 865 | 219 | Aaron M Luna |
-| 866 | 218 | Bouncy Crawler |
+| 859 | 221 | Bouncy Crawler |
+| 860 | 220 | Tina Jett |
+| 861 | 220 | MG Alice |
+| 862 | 220 | snazzyseahorse |
+| 863 | 220 | WakeUpCakeUp |
+| 864 | 220 | Amber Wolfe |
+| 865 | 219 | Jazzy Bridgepiece |
+| 866 | 219 | Aaron M Luna |
 | 867 | 218 | a |
 | 868 | 218 | Hoppy Buildgrid |
 | 869 | 218 | Matthew Laudico |
@@ -2349,7 +2349,7 @@
 | 2341 | 35 | Loopy Brickline |
 | 2342 | 35 | Zesty Roll |
 | 2343 | 35 | Karen Guy |
-| 2344 | 34 | Chummy Stackbuilder |
+| 2344 | 35 | Chummy Stackbuilder |
 | 2345 | 34 | Latoya Roberts |
 | 2346 | 34 | Tierra |
 | 2347 | 34 | Belinda Girard |
@@ -2383,8 +2383,8 @@
 | 2375 | 33 | Frothy Tetrisline |
 | 2376 | 33 | Krystyna Ann Conley |
 | 2377 | 33 | Jacky Maree Reynolds |
-| 2378 | 32 | Jessica Bennett |
-| 2379 | 32 | Joann Flores |
+| 2378 | 32 | Joann Flores |
+| 2379 | 32 | Jessica Bennett |
 | 2380 | 32 | Eternity Paulley |
 | 2381 | 32 | INURGURL8R |
 | 2382 | 32 | Abbynormal |
@@ -2479,10 +2479,10 @@
 | 2471 | 28 | Jamie Henson Barnes |
 | 2472 | 28 | shesthestorm |
 | 2473 | 28 | Jessica Danielle Holifield |
-| 2474 | 28 | dolla bill |
-| 2475 | 28 | JustJodi |
-| 2476 | 28 | Michelle Lawson |
-| 2477 | 28 | Happy Lifter |
+| 2474 | 28 | Michelle Lawson |
+| 2475 | 28 | Happy Lifter |
+| 2476 | 28 | JustJodi |
+| 2477 | 28 | dolla bill |
 | 2478 | 28 | Nutty Shiftsnap |
 | 2479 | 27 | Pooh |
 | 2480 | 27 | Brave Linebuilder |
