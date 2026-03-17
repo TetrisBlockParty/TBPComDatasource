@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 16:34:45 UTC
+# Standings for team2 as of 2026-03-17 16:35:23 UTC
 
 **Total Participants:** 3037
 
@@ -74,7 +74,7 @@
 | 66 | 2319 | Caitlin Johnson |
 | 67 | 2213 | Naomii Seton |
 | 68 | 2161 | Belle |
-| 69 | 2115 | Dreamy Linkbuilder |
+| 69 | 2125 | Dreamy Linkbuilder |
 | 70 | 2106 | Nicole Cannon |
 | 71 | 2105 | Joshua Hopkins |
 | 72 | 2010 | Carlos Torres |
@@ -225,11 +225,11 @@
 | 217 | 811 | Katie Lynn |
 | 218 | 810 | Shawn Haines |
 | 219 | 807 | BluBae |
-| 220 | 806 | Jocelynn Marie |
-| 221 | 806 | Sandra McNab |
+| 220 | 806 | Sandra McNab |
+| 221 | 806 | Jocelynn Marie |
 | 222 | 805 | Dane Roy |
-| 223 | 799 | Giggity boots |
-| 224 | 799 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 223 | 799 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 224 | 799 | Giggity boots |
 | 225 | 798 | Craig Lander |
 | 226 | 790 | Cw |
 | 227 | 788 | Jay |
@@ -237,16 +237,16 @@
 | 229 | 784 | Emily Wooden |
 | 230 | 782 | Mike Carden |
 | 231 | 781 | Stacy Evans |
-| 232 | 771 | Chassy Horton |
-| 233 | 750 | DanesMama |
-| 234 | 749 | Frothy Linker |
-| 235 | 748 | Mcg |
-| 236 | 748 | Sunny Blockline |
-| 237 | 747 | Snappy Bridgepiece |
-| 238 | 745 | LML |
-| 239 | 735 | Joy LaJeunesse |
-| 240 | 735 | Kit Dennett |
-| 241 | 733 | Amelia Anderson |
+| 232 | 773 | Amelia Anderson |
+| 233 | 771 | Chassy Horton |
+| 234 | 750 | DanesMama |
+| 235 | 749 | Frothy Linker |
+| 236 | 748 | Mcg |
+| 237 | 748 | Sunny Blockline |
+| 238 | 747 | Snappy Bridgepiece |
+| 239 | 745 | LML |
+| 240 | 735 | Joy LaJeunesse |
+| 241 | 735 | Kit Dennett |
 | 242 | 730 | Danielle Weikel |
 | 243 | 729 | Tommy Proctor |
 | 244 | 725 | Elizabeth Ostrom |
@@ -400,16 +400,16 @@
 | 392 | 470 | Susan Dunn |
 | 393 | 470 | Athena D Connell |
 | 394 | 469 | Tori Bowers |
-| 395 | 468 | squareMel |
-| 396 | 468 | Tipsy Riseclear |
-| 397 | 467 | YAE |
-| 398 | 467 | Brandy Belton |
-| 399 | 466 | Jen Robinson |
-| 400 | 466 | Bouncy Zoner |
-| 401 | 466 | Christy Merriman Addison |
-| 402 | 464 | Maureen Winter |
-| 403 | 464 | btchboy |
-| 404 | 463 | Poppy |
+| 395 | 469 | Poppy |
+| 396 | 468 | squareMel |
+| 397 | 468 | Tipsy Riseclear |
+| 398 | 467 | YAE |
+| 399 | 467 | Brandy Belton |
+| 400 | 466 | Jen Robinson |
+| 401 | 466 | Bouncy Zoner |
+| 402 | 466 | Christy Merriman Addison |
+| 403 | 464 | Maureen Winter |
+| 404 | 464 | btchboy |
 | 405 | 462 | Anthony Magaraci |
 | 406 | 462 | Taghrid Ebeid |
 | 407 | 461 | Scott Martinson |
@@ -1603,8 +1603,8 @@
 | 1595 | 98 | Karmabunny |
 | 1596 | 98 | Victor Jones |
 | 1597 | 98 | lynni |
-| 1598 | 98 | Giggy Slam |
-| 1599 | 97 | Chlo |
+| 1598 | 98 | Chlo |
+| 1599 | 98 | Giggy Slam |
 | 1600 | 97 | Octavia Parker Ford |
 | 1601 | 97 | SuzAnne |
 | 1602 | 97 | Chris Jammey |
@@ -2735,50 +2735,50 @@
 | 2727 | 18 | Kabrina Snell Lester |
 | 2728 | 18 | netta |
 | 2729 | 18 | Lush Risebuilder |
-| 2730 | 18 | kev |
-| 2731 | 18 | Kathleen Nicholas Likens |
-| 2732 | 18 | Ernestine Shegog |
-| 2733 | 17 | Jacada |
-| 2734 | 17 | Star |
-| 2735 | 17 | Rebecca L Monroe |
-| 2736 | 17 | Elizabeth Sayers |
-| 2737 | 17 | Carmen |
-| 2738 | 17 | Oheema |
-| 2739 | 17 | LatinaLover |
-| 2740 | 17 | Maria Teresa |
-| 2741 | 17 | Ruby |
-| 2742 | 17 | Eugene Thompson Jr. |
-| 2743 | 17 | Rhonda Engle |
-| 2744 | 17 | Cozy Crusher |
-| 2745 | 17 | Jacob Rosencutter |
-| 2746 | 16 | Spicy Pattern |
-| 2747 | 16 | Theresa Marie Chiaravalli |
-| 2748 | 16 | Nutty Shatterclear |
-| 2749 | 16 | Sam |
-| 2750 | 16 | Emily Price |
-| 2751 | 16 | Tweaky |
-| 2752 | 16 | kittomom |
-| 2753 | 16 | Alan AndRoberta Mast |
-| 2754 | 16 | Belle |
-| 2755 | 16 | Giggly Stack |
-| 2756 | 16 | Stephanie Christensen |
-| 2757 | 16 | Hoppy Column |
-| 2758 | 16 | Arnold McDaniel |
-| 2759 | 16 | Sassy Fallgrid |
-| 2760 | 16 | Nilsa Velez |
-| 2761 | 16 | Dawn 🌅 |
-| 2762 | 16 | Jasmine R Johnson |
-| 2763 | 16 | Jennifer Duttry |
-| 2764 | 16 | Happysappy7 |
-| 2765 | 15 | Lively Drop |
-| 2766 | 15 | Julie Bledsoe |
-| 2767 | 15 | Miranda |
-| 2768 | 15 | Ricky Stacey John |
-| 2769 | 15 | Active |
-| 2770 | 15 | Peachy Wobbler |
-| 2771 | 15 | cjmae |
-| 2772 | 15 | Wesley Haigh |
-| 2773 | 15 | Lucky7 |
+| 2730 | 18 | Hoppy Column |
+| 2731 | 18 | kev |
+| 2732 | 18 | Kathleen Nicholas Likens |
+| 2733 | 18 | Ernestine Shegog |
+| 2734 | 17 | Jacada |
+| 2735 | 17 | Carmen |
+| 2736 | 17 | Star |
+| 2737 | 17 | Rebecca L Monroe |
+| 2738 | 17 | Elizabeth Sayers |
+| 2739 | 17 | Oheema |
+| 2740 | 17 | LatinaLover |
+| 2741 | 17 | Maria Teresa |
+| 2742 | 17 | Ruby |
+| 2743 | 17 | Eugene Thompson Jr. |
+| 2744 | 17 | Rhonda Engle |
+| 2745 | 17 | Cozy Crusher |
+| 2746 | 17 | Jacob Rosencutter |
+| 2747 | 16 | Spicy Pattern |
+| 2748 | 16 | Theresa Marie Chiaravalli |
+| 2749 | 16 | Nutty Shatterclear |
+| 2750 | 16 | Sam |
+| 2751 | 16 | Emily Price |
+| 2752 | 16 | Tweaky |
+| 2753 | 16 | kittomom |
+| 2754 | 16 | Alan AndRoberta Mast |
+| 2755 | 16 | Belle |
+| 2756 | 16 | Giggly Stack |
+| 2757 | 16 | Stephanie Christensen |
+| 2758 | 16 | Dawn 🌅 |
+| 2759 | 16 | Nilsa Velez |
+| 2760 | 16 | Happysappy7 |
+| 2761 | 16 | Sassy Fallgrid |
+| 2762 | 16 | Jennifer Duttry |
+| 2763 | 16 | Jasmine R Johnson |
+| 2764 | 16 | Arnold McDaniel |
+| 2765 | 15 | Miranda |
+| 2766 | 15 | Ricky Stacey John |
+| 2767 | 15 | Active |
+| 2768 | 15 | Lively Drop |
+| 2769 | 15 | Peachy Wobbler |
+| 2770 | 15 | Julie Bledsoe |
+| 2771 | 15 | Wesley Haigh |
+| 2772 | 15 | Lucky7 |
+| 2773 | 15 | cjmae |
 | 2774 | 15 | MzKilla Umadyet Miller |
 | 2775 | 15 | RoRo5 |
 | 2776 | 15 | Sunny |
@@ -2807,21 +2807,21 @@
 | 2799 | 14 | Angela Boles |
 | 2800 | 14 | Chilly Mover |
 | 2801 | 14 | Giddy Zonebuilder |
-| 2802 | 14 | Creamy Clam |
-| 2803 | 14 | OmeeMyBloxx |
-| 2804 | 14 | Izabella Anntonitte |
-| 2805 | 14 | Twisty Curve |
-| 2806 | 14 | Samantha Jo Slocum |
-| 2807 | 14 | Poppy Cascade |
-| 2808 | 14 | Epic Zonegrid |
-| 2809 | 14 | Lauren Hummel |
+| 2802 | 14 | OmeeMyBloxx |
+| 2803 | 14 | Izabella Anntonitte |
+| 2804 | 14 | Twisty Curve |
+| 2805 | 14 | Samantha Jo Slocum |
+| 2806 | 14 | Poppy Cascade |
+| 2807 | 14 | Lauren Hummel |
+| 2808 | 14 | Creamy Clam |
+| 2809 | 14 | Epic Zonegrid |
 | 2810 | 14 | Peachy Pop |
-| 2811 | 13 | Letisia Rodriguez |
-| 2812 | 13 | Suzie Wonorski |
-| 2813 | 13 | Kujuanna Hammon |
-| 2814 | 13 | Cheeky Snapfit |
-| 2815 | 13 | Frisky Balancefit |
-| 2816 | 13 | marsh |
+| 2811 | 13 | Frisky Balancefit |
+| 2812 | 13 | Kujuanna Hammon |
+| 2813 | 13 | Cheeky Snapfit |
+| 2814 | 13 | Suzie Wonorski |
+| 2815 | 13 | marsh |
+| 2816 | 13 | Letisia Rodriguez |
 | 2817 | 13 | Tamara Garza |
 | 2818 | 13 | Donte Lester |
 | 2819 | 13 | MsThick Ness |
@@ -2849,12 +2849,12 @@
 | 2841 | 12 | Loopy Lee |
 | 2842 | 12 | Jacqueline Hobbs |
 | 2843 | 12 | Dubb |
-| 2844 | 12 | Alisha Bartholomew |
+| 2844 | 12 | Melton Jmcm |
 | 2845 | 12 | Philip Andrew Alvarez |
-| 2846 | 12 | Melton Jmcm |
-| 2847 | 12 | Sheena Marie Murphy |
-| 2848 | 12 | Sandra Pyles |
-| 2849 | 12 | Llib Snave |
+| 2846 | 12 | Sandra Pyles |
+| 2847 | 12 | Alisha Bartholomew |
+| 2848 | 12 | Llib Snave |
+| 2849 | 12 | Sheena Marie Murphy |
 | 2850 | 12 | Kim Hoster |
 | 2851 | 12 | Leslie Means |
 | 2852 | 12 | Sarah Reimer |
