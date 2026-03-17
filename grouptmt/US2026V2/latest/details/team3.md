@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-17 07:40:46 UTC
+# Standings for team3 as of 2026-03-17 07:41:23 UTC
 
 **Total Participants:** 4651
 
@@ -50,7 +50,7 @@
 | 42 | 3646 | Ashley Ingram |
 | 43 | 3640 | Funky Edgepiece |
 | 44 | 3607 | Stacey Arsenault |
-| 45 | 3511 | smalls |
+| 45 | 3514 | smalls |
 | 46 | 3464 | Britney Lynch Caylor |
 | 47 | 3454 | Beth Belanger |
 | 48 | 3451 | Funky Piecegrid |
@@ -234,24 +234,24 @@
 | 226 | 1109 | Cam Smeaton |
 | 227 | 1108 | Beck Nicole |
 | 228 | 1107 | Belu |
-| 229 | 1094 | Michelle Mouser |
-| 230 | 1094 | Sherly Hy |
-| 231 | 1090 | Lanika Jackson |
-| 232 | 1084 | Kimmy |
-| 233 | 1078 | Ash |
-| 234 | 1074 | Leslie Meyer |
-| 235 | 1071 | Lauren d |
-| 236 | 1071 | Connie Perry-Menahem |
-| 237 | 1070 | Klo |
-| 238 | 1066 | Frilly Tiley |
+| 229 | 1106 | Frilly Tiley |
+| 230 | 1094 | Michelle Mouser |
+| 231 | 1094 | Sherly Hy |
+| 232 | 1090 | Lanika Jackson |
+| 233 | 1084 | Kimmy |
+| 234 | 1078 | Ash |
+| 235 | 1074 | Leslie Meyer |
+| 236 | 1071 | Lauren d |
+| 237 | 1071 | Connie Perry-Menahem |
+| 238 | 1070 | Klo |
 | 239 | 1063 | Emily DeLuca |
 | 240 | 1060 | Peace |
 | 241 | 1054 | Michelle Peters |
 | 242 | 1053 | Goofy Clearfit |
 | 243 | 1050 | Clever Matchgrid |
 | 244 | 1047 | Lori Sainato |
-| 245 | 1046 | Judy Venuto |
-| 246 | 1046 | Teleah Allen |
+| 245 | 1046 | Teleah Allen |
+| 246 | 1046 | Judy Venuto |
 | 247 | 1046 | Amanda Summey Schoemer |
 | 248 | 1043 | Camille Glass |
 | 249 | 1038 | April Gravitt |
@@ -2089,28 +2089,28 @@
 | 2081 | 122 | Slinky Bricky |
 | 2082 | 122 | Tasha Kaeb |
 | 2083 | 121 | Chill Builderpiece |
-| 2084 | 121 | Morricia Dee Chesterfield |
-| 2085 | 121 | Antoinette Arellano |
-| 2086 | 121 | Bold Zoney |
-| 2087 | 121 | Tina Kinney |
-| 2088 | 120 | Maria Baez Medina |
-| 2089 | 120 | Princess Pea |
-| 2090 | 120 | Grace |
-| 2091 | 120 | Kara Mitton |
-| 2092 | 120 | Cassy Knotts |
-| 2093 | 120 | Jenni-Bug |
-| 2094 | 120 | Spring Clark |
-| 2095 | 120 | Smiley Pivot |
-| 2096 | 120 | Monique Liston |
-| 2097 | 120 | Kindra Gonzalez |
-| 2098 | 120 | Jennie Rebecca O'Brien |
-| 2099 | 120 | Allison Crabb |
-| 2100 | 120 | Spunky Cascader |
-| 2101 | 120 | Karen Bastin |
-| 2102 | 120 | Snippy Matchgrid |
-| 2103 | 119 | Tamara Feazell |
-| 2104 | 119 | Samantha Rene'e Cody |
-| 2105 | 119 | Jennifer Heaney |
+| 2084 | 121 | Snippy Matchgrid |
+| 2085 | 121 | Morricia Dee Chesterfield |
+| 2086 | 121 | Antoinette Arellano |
+| 2087 | 121 | Bold Zoney |
+| 2088 | 121 | Tina Kinney |
+| 2089 | 120 | Maria Baez Medina |
+| 2090 | 120 | Princess Pea |
+| 2091 | 120 | Grace |
+| 2092 | 120 | Kara Mitton |
+| 2093 | 120 | Cassy Knotts |
+| 2094 | 120 | Jenni-Bug |
+| 2095 | 120 | Spring Clark |
+| 2096 | 120 | Smiley Pivot |
+| 2097 | 120 | Monique Liston |
+| 2098 | 120 | Kindra Gonzalez |
+| 2099 | 120 | Jennie Rebecca O'Brien |
+| 2100 | 120 | Allison Crabb |
+| 2101 | 120 | Spunky Cascader |
+| 2102 | 120 | Karen Bastin |
+| 2103 | 119 | Samantha Rene'e Cody |
+| 2104 | 119 | Jennifer Heaney |
+| 2105 | 119 | Tamara Feazell |
 | 2106 | 119 | Lateria C. |
 | 2107 | 119 | LaJuana Fowler |
 | 2108 | 119 | Dawn Kelley |
@@ -2121,10 +2121,10 @@
 | 2113 | 118 | NightOwl |
 | 2114 | 118 | Epic Fill |
 | 2115 | 118 | Marion Williams |
-| 2116 | 118 | Seana Johnson-Nishimura |
-| 2117 | 118 | Nicholas Sample |
-| 2118 | 118 | Jombie |
-| 2119 | 118 | Cozy Tetriblast |
+| 2116 | 118 | Nicholas Sample |
+| 2117 | 118 | Jombie |
+| 2118 | 118 | Cozy Tetriblast |
+| 2119 | 118 | Seana Johnson-Nishimura |
 | 2120 | 118 | chich55 |
 | 2121 | 118 | Patti Ward |
 | 2122 | 118 | MauveArcher |
@@ -2861,31 +2861,31 @@
 | 2853 | 69 | Bouncy Splitter |
 | 2854 | 69 | Zappy Spinblock |
 | 2855 | 69 | Miguel Cashtro |
-| 2856 | 69 | Bouncy Piecefit |
-| 2857 | 69 | Derrica Dustin |
-| 2858 | 69 | Melissa Wood |
-| 2859 | 69 | Mary Elizabeth Jenkins |
-| 2860 | 69 | Meg |
-| 2861 | 69 | Saucy Linkgrid |
-| 2862 | 69 | Leann Clarkson |
-| 2863 | 69 | Kenadi |
-| 2864 | 69 | Tiffany MizTeebabie Brown |
-| 2865 | 69 | Samantha Rowe |
-| 2866 | 69 | Peaches |
-| 2867 | 69 | Jods |
-| 2868 | 69 | Seg Z Nig Ah |
-| 2869 | 69 | Christina Shepperd |
-| 2870 | 69 | Penelope |
-| 2871 | 69 | Jerry Loveday |
-| 2872 | 69 | Crystal Huber |
-| 2873 | 68 | Cody Bingamon |
-| 2874 | 68 | Loopy Bouncer |
-| 2875 | 68 | Emily Shodrock |
-| 2876 | 68 | Kristin MacDonald |
-| 2877 | 68 | Daring dan |
-| 2878 | 68 | Llewej Rekab |
-| 2879 | 68 | Rondell Burton |
-| 2880 | 68 | Headrick Chelly Greeneyes |
+| 2856 | 69 | Headrick Chelly Greeneyes |
+| 2857 | 69 | Bouncy Piecefit |
+| 2858 | 69 | Derrica Dustin |
+| 2859 | 69 | Melissa Wood |
+| 2860 | 69 | Mary Elizabeth Jenkins |
+| 2861 | 69 | Meg |
+| 2862 | 69 | Saucy Linkgrid |
+| 2863 | 69 | Leann Clarkson |
+| 2864 | 69 | Kenadi |
+| 2865 | 69 | Tiffany MizTeebabie Brown |
+| 2866 | 69 | Samantha Rowe |
+| 2867 | 69 | Peaches |
+| 2868 | 69 | Jods |
+| 2869 | 69 | Seg Z Nig Ah |
+| 2870 | 69 | Christina Shepperd |
+| 2871 | 69 | Penelope |
+| 2872 | 69 | Jerry Loveday |
+| 2873 | 69 | Crystal Huber |
+| 2874 | 68 | Cody Bingamon |
+| 2875 | 68 | Loopy Bouncer |
+| 2876 | 68 | Emily Shodrock |
+| 2877 | 68 | Kristin MacDonald |
+| 2878 | 68 | Daring dan |
+| 2879 | 68 | Llewej Rekab |
+| 2880 | 68 | Rondell Burton |
 | 2881 | 68 | Kelly Hall Whitt |
 | 2882 | 68 | Ashlee Marie |
 | 2883 | 68 | Chris |
