@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 16:14:44 UTC
+# Standings for team1 as of 2026-03-17 16:15:22 UTC
 
 **Total Participants:** 3027
 
@@ -211,7 +211,7 @@
 | 203 | 947 | April Carroll |
 | 204 | 945 | Althea Louise |
 | 205 | 944 | Stefanie Champion |
-| 206 | 938 | Dizzy Pattern |
+| 206 | 942 | Dizzy Pattern |
 | 207 | 934 | Matthew Bunn |
 | 208 | 934 | Mighty Patternbuilder |
 | 209 | 928 | Beth Anderson |
@@ -780,14 +780,14 @@
 | 772 | 270 | Yolanda Quinn |
 | 773 | 270 | Kakalina Thayer |
 | 774 | 270 | dustin b |
-| 775 | 269 | SpunkyStriker |
-| 776 | 269 | Olympia |
-| 777 | 268 | Michelle Lee |
-| 778 | 267 | Gina Annese |
-| 779 | 267 | Lively Patternfall |
-| 780 | 267 | Peachy Curvetile |
-| 781 | 266 | Prometheus |
-| 782 | 266 | Mandy Faye Jackson |
+| 775 | 269 | Mandy Faye Jackson |
+| 776 | 269 | SpunkyStriker |
+| 777 | 269 | Olympia |
+| 778 | 268 | Michelle Lee |
+| 779 | 267 | Gina Annese |
+| 780 | 267 | Lively Patternfall |
+| 781 | 267 | Peachy Curvetile |
+| 782 | 266 | Prometheus |
 | 783 | 266 | LucasEveryday |
 | 784 | 265 | Rebecca Wilson |
 | 785 | 264 | cheeryPrincess |
@@ -982,51 +982,51 @@
 | 974 | 205 | Loony Stagger |
 | 975 | 205 | Connie Bond |
 | 976 | 204 | Daniel Lopez |
-| 977 | 204 | Bouncy Tilerpiece |
-| 978 | 204 | Sapp |
-| 979 | 203 | Adam McMakin |
+| 977 | 204 | Sapp |
+| 978 | 204 | Bouncy Tilerpiece |
+| 979 | 203 | Louise Parker |
 | 980 | 203 | Phrank |
-| 981 | 203 | Louise Parker |
-| 982 | 202 | Michael Palmer |
+| 981 | 203 | Adam McMakin |
+| 982 | 202 | Bird Reed |
 | 983 | 202 | momme |
-| 984 | 202 | Thomas Susi |
-| 985 | 202 | Mary Cerciello |
-| 986 | 202 | Sharon Panoski |
-| 987 | 202 | Leo Davis |
-| 988 | 202 | Bird Reed |
-| 989 | 202 | Tanya Carpenter-Reynolds |
-| 990 | 201 | Goofy Linkblock |
-| 991 | 201 | April Mancuosso |
-| 992 | 201 | Lush Buildout |
-| 993 | 201 | Travis Taylor |
-| 994 | 201 | PSD |
-| 995 | 200 | Joyce Dimitt Horn |
-| 996 | 200 | Michael Almacen |
-| 997 | 200 | Christal Peltier |
-| 998 | 200 | Jazzy Stagger |
-| 999 | 200 | Christine Sheridan |
-| 1000 | 200 | Marie Fox |
-| 1001 | 200 | Alana Susan Hanley |
-| 1002 | 200 | Mykel Mcbreen |
-| 1003 | 200 | JustMeNonna |
-| 1004 | 199 | Lakie Fogle |
-| 1005 | 199 | NeNe Hazel |
-| 1006 | 199 | Della Angle |
+| 984 | 202 | Tanya Carpenter-Reynolds |
+| 985 | 202 | Thomas Susi |
+| 986 | 202 | Leo Davis |
+| 987 | 202 | Mary Cerciello |
+| 988 | 202 | Michael Palmer |
+| 989 | 202 | Sharon Panoski |
+| 990 | 201 | Lush Buildout |
+| 991 | 201 | Travis Taylor |
+| 992 | 201 | PSD |
+| 993 | 201 | April Mancuosso |
+| 994 | 201 | Goofy Linkblock |
+| 995 | 200 | Mykel Mcbreen |
+| 996 | 200 | Christal Peltier |
+| 997 | 200 | Marie Fox |
+| 998 | 200 | Michael Almacen |
+| 999 | 200 | JustMeNonna |
+| 1000 | 200 | Christine Sheridan |
+| 1001 | 200 | Jazzy Stagger |
+| 1002 | 200 | Joyce Dimitt Horn |
+| 1003 | 200 | Alana Susan Hanley |
+| 1004 | 199 | NeNe Hazel |
+| 1005 | 199 | Della Angle |
+| 1006 | 199 | Lakie Fogle |
 | 1007 | 199 | Cedesbabii |
-| 1008 | 198 | sam |
-| 1009 | 198 | Moemoe Jackson |
-| 1010 | 198 | Jennifer Obrien |
-| 1011 | 198 | Lora Mae Spindler Young |
+| 1008 | 198 | Lora Mae Spindler Young |
+| 1009 | 198 | sam |
+| 1010 | 198 | Moemoe Jackson |
+| 1011 | 198 | Jennifer Obrien |
 | 1012 | 197 | Dean Gaboury |
 | 1013 | 197 | Shaunie Miller |
-| 1014 | 197 | John DeMoss |
-| 1015 | 197 | Cozy Matchpiece |
+| 1014 | 197 | Cozy Matchpiece |
+| 1015 | 197 | John DeMoss |
 | 1016 | 197 | ZhenZhen |
-| 1017 | 196 | Michelle Pike |
-| 1018 | 196 | Bennett Hunter |
-| 1019 | 195 | Taquilla Branch |
+| 1017 | 196 | Komikeh White |
+| 1018 | 196 | Michelle Pike |
+| 1019 | 196 | Bennett Hunter |
 | 1020 | 195 | Erin Green |
-| 1021 | 194 | Komikeh White |
+| 1021 | 195 | Taquilla Branch |
 | 1022 | 193 | Brave Twistpiece |
 | 1023 | 193 | Karmyst |
 | 1024 | 193 | Geno Bankroll McGill |
