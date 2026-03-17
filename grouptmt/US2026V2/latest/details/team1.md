@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 09:32:19 UTC
+# Standings for team1 as of 2026-03-17 09:32:44 UTC
 
 **Total Participants:** 2967
 
@@ -256,49 +256,49 @@
 | 248 | 745 | Antonia Wyche |
 | 249 | 738 | Kayla Marie Stevenson |
 | 250 | 737 | Lynn Perkins |
-| 251 | 723 | Sarah Perry Cook |
-| 252 | 722 | Patti Rone |
-| 253 | 719 | Amanda Huckstep |
-| 254 | 714 | Sassy Cascadepiece |
-| 255 | 708 | Cynthia Petz |
-| 256 | 704 | Chris Alexinas |
+| 251 | 729 | Sharisse Baltimore |
+| 252 | 723 | Sarah Perry Cook |
+| 253 | 722 | Patti Rone |
+| 254 | 719 | Amanda Huckstep |
+| 255 | 714 | Sassy Cascadepiece |
+| 256 | 708 | Cynthia Petz |
 | 257 | 704 | Roary Danner |
-| 258 | 703 | KK |
-| 259 | 702 | Heather Bell |
-| 260 | 701 | Crafty Dash |
-| 261 | 692 | Frilly Climber |
-| 262 | 688 | Randy Masao Hilbrant |
-| 263 | 687 | BrownNinj |
-| 264 | 682 | Witty Spinblock |
-| 265 | 679 | Marianne Lopez |
+| 258 | 704 | Chris Alexinas |
+| 259 | 703 | KK |
+| 260 | 702 | Heather Bell |
+| 261 | 701 | Crafty Dash |
+| 262 | 692 | Frilly Climber |
+| 263 | 688 | Randy Masao Hilbrant |
+| 264 | 687 | BrownNinj |
+| 265 | 682 | Witty Spinblock |
 | 266 | 679 | Erin Halleman |
-| 267 | 678 | Rocky |
-| 268 | 677 | Lil'A |
-| 269 | 676 | Chris Kelly |
-| 270 | 674 | Bryan Temple |
-| 271 | 668 | Austin |
-| 272 | 664 | Happy Tilerpiece |
-| 273 | 662 | Jason Cunningham |
-| 274 | 660 | Michael Espinosa Ulibarri Jr. |
-| 275 | 658 | beep |
-| 276 | 655 | Ecami |
-| 277 | 652 | Boldy Clear |
+| 267 | 679 | Marianne Lopez |
+| 268 | 678 | Rocky |
+| 269 | 677 | Lil'A |
+| 270 | 676 | Chris Kelly |
+| 271 | 674 | Bryan Temple |
+| 272 | 668 | Austin |
+| 273 | 664 | Happy Tilerpiece |
+| 274 | 662 | Jason Cunningham |
+| 275 | 660 | Michael Espinosa Ulibarri Jr. |
+| 276 | 658 | beep |
+| 277 | 655 | Ecami |
 | 278 | 652 | Chris Wanner |
-| 279 | 649 | Alicia Sheckler |
-| 280 | 647 | Ancient Intuition |
-| 281 | 645 | Alicia Parrish |
-| 282 | 644 | kito23 |
-| 283 | 643 | Jessica Ritter |
-| 284 | 638 | Diamond Madison |
-| 285 | 637 | Charles Herbert |
+| 279 | 652 | Boldy Clear |
+| 280 | 649 | Alicia Sheckler |
+| 281 | 647 | Ancient Intuition |
+| 282 | 645 | Alicia Parrish |
+| 283 | 644 | kito23 |
+| 284 | 643 | Jessica Ritter |
+| 285 | 638 | Diamond Madison |
 | 286 | 637 | Ren Mc |
-| 287 | 633 | Ruby Sandberg |
-| 288 | 632 | Krystal Mccoy |
-| 289 | 631 | TetrisWoo |
-| 290 | 631 | Johnathan Rasmussen |
-| 291 | 626 | Slinky Dashgrid |
-| 292 | 626 | Elizabeth Hughes |
-| 293 | 624 | Sharisse Baltimore |
+| 287 | 637 | Charles Herbert |
+| 288 | 633 | Ruby Sandberg |
+| 289 | 632 | Krystal Mccoy |
+| 290 | 631 | TetrisWoo |
+| 291 | 631 | Johnathan Rasmussen |
+| 292 | 626 | Slinky Dashgrid |
+| 293 | 626 | Elizabeth Hughes |
 | 294 | 624 | Victoria Davis Torie |
 | 295 | 624 | Angela Renea Lester |
 | 296 | 623 | raffyG |
@@ -306,8 +306,8 @@
 | 298 | 620 | John Gardner |
 | 299 | 618 | Rennon Scott Wilson |
 | 300 | 617 | Teddy Alexander |
-| 301 | 615 | Alex Hennigh |
-| 302 | 615 | Ziggy Csah |
+| 301 | 615 | Ziggy Csah |
+| 302 | 615 | Alex Hennigh |
 | 303 | 615 | Loony Towerpiece |
 | 304 | 614 | Eric Hoffman |
 | 305 | 613 | Tisha Cammack |
@@ -609,12 +609,12 @@
 | 601 | 317 | mrkw |
 | 602 | 317 | Trey Petty |
 | 603 | 317 | Sarah Ploughe |
-| 604 | 316 | Maria Lopez |
-| 605 | 316 | Berenice |
-| 606 | 315 | Kevin Tate |
-| 607 | 314 | Quirky_placer |
-| 608 | 314 | Giggly Rotate |
-| 609 | 313 | Keri Smith |
+| 604 | 316 | Keri Smith |
+| 605 | 316 | Maria Lopez |
+| 606 | 316 | Berenice |
+| 607 | 315 | Kevin Tate |
+| 608 | 314 | Quirky_placer |
+| 609 | 314 | Giggly Rotate |
 | 610 | 313 | Andrew Duron |
 | 611 | 313 | Nate Funk |
 | 612 | 312 | Tig |
