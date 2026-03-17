@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 09:21:19 UTC
+# Standings for team2 as of 2026-03-17 09:22:18 UTC
 
 **Total Participants:** 2970
 
@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 22848 | Mochi |
-| 2 | 20305 | Payton Auberry |
-| 3 | 20134 | THEMAN |
+| 2 | 20476 | THEMAN |
+| 3 | 20305 | Payton Auberry |
 | 4 | 18294 | 赵珞涵 |
 | 5 | 17230 | 1nonlyreal1 |
 | 6 | 12813 | Justablock |
@@ -64,7 +64,7 @@
 | 56 | 2521 | Jenny Derby |
 | 57 | 2513 | Kelley Ann |
 | 58 | 2468 | opf |
-| 59 | 2455 | Adam Charles |
+| 59 | 2460 | Adam Charles |
 | 60 | 2424 | Kevin Watson |
 | 61 | 2373 | Hp Gold |
 | 62 | 2361 | Peppy Slice |
@@ -1227,118 +1227,118 @@
 | 1219 | 136 | Audrey Jones |
 | 1220 | 136 | Amy Leonard |
 | 1221 | 136 | Fart |
-| 1222 | 136 | Jess |
-| 1223 | 135 | Sabrina Cearley |
-| 1224 | 135 | Trell Sweeting |
-| 1225 | 135 | Nina Kela |
-| 1226 | 135 | Amandalorian |
-| 1227 | 135 | Diana Fowler |
-| 1228 | 134 | Swanky Shiftsnap |
-| 1229 | 134 | Ariel Whittington |
-| 1230 | 134 | Juan Bonilla |
-| 1231 | 134 | Brave Cascadeclear |
-| 1232 | 134 | Danielle Barker |
-| 1233 | 134 | croshay |
-| 1234 | 134 | Kenerria Danielle |
-| 1235 | 134 | Smellygirl |
-| 1236 | 134 | Witty Twistslam |
-| 1237 | 134 | Dizzy Edgefit |
-| 1238 | 134 | Tanisha Foster |
-| 1239 | 133 | Trisha Balmer |
-| 1240 | 133 | Liz Waagmeester |
-| 1241 | 133 | Brandi Quick |
-| 1242 | 133 | Stephanie Carpenter |
-| 1243 | 132 | Giggly Shatterline |
-| 1244 | 132 | Giddy Fallzone |
-| 1245 | 132 | Katie Bolich |
-| 1246 | 132 | Joey Albright |
-| 1247 | 132 | April |
-| 1248 | 132 | Chelle |
-| 1249 | 132 | Mzjudged Niteowl |
-| 1250 | 131 | Christina Nabrizny |
-| 1251 | 131 | Daring Spinzone |
-| 1252 | 131 | Honu Noste |
-| 1253 | 131 | Beckii Beckford |
-| 1254 | 131 | Stephany Patton |
-| 1255 | 131 | Lamarr Drayton |
-| 1256 | 130 | Ash |
-| 1257 | 130 | Sharon Navarrete |
-| 1258 | 130 | Squiggle Squish |
-| 1259 | 130 | Tiffany Bruursema |
-| 1260 | 130 | Annette Ostrander |
-| 1261 | 130 | Boldy Rollzone |
-| 1262 | 130 | D3TROITB0RN74 |
-| 1263 | 130 | Yasmin Veliz |
-| 1264 | 130 | Matthew Franklin Sr. |
-| 1265 | 130 | Witty Cascadefit |
-| 1266 | 130 | Chyrisse Norton |
-| 1267 | 130 | Enid |
-| 1268 | 130 | Kaagyugaq Jessica |
-| 1269 | 130 | Kita A Jackson |
-| 1270 | 130 | KayB |
-| 1271 | 130 | Elizabeth Smith |
-| 1272 | 129 | Amanda Mackay |
-| 1273 | 129 | Spicy Siren |
-| 1274 | 129 | Roxie Garza |
-| 1275 | 129 | krae |
-| 1276 | 129 | Frisky Blocky |
-| 1277 | 129 | Lavella Tburg |
-| 1278 | 129 | Smiley |
-| 1279 | 129 | Branden Morris |
-| 1280 | 129 | Wacky Shuffler |
-| 1281 | 128 | Lorrie Landry |
-| 1282 | 128 | Doris Wilson |
-| 1283 | 127 | Nyaa Love |
-| 1284 | 127 | C.B |
-| 1285 | 127 | Hyper Shatterbuilder |
-| 1286 | 127 | Tipsy Blockfall |
-| 1287 | 127 | Dawn Joub |
-| 1288 | 127 | April Jones |
-| 1289 | 126 | Cranky Holder |
-| 1290 | 126 | Lush Twisterfit |
-| 1291 | 126 | Chummy Blockline |
-| 1292 | 126 | Jodi Young |
-| 1293 | 126 | Tplank |
-| 1294 | 126 | Dandy Towerer |
-| 1295 | 126 | Dusti Holbrook |
-| 1296 | 125 | jimjamflimflam |
-| 1297 | 125 | De Hawkins |
-| 1298 | 125 | Nerdy Crusher |
-| 1299 | 125 | Tonya Amen |
-| 1300 | 125 | Greg Clouse |
-| 1301 | 125 | Epic Wipepiece |
-| 1302 | 125 | Pam Green |
-| 1303 | 124 | Goofy Brickzone |
-| 1304 | 124 | Amber Rochelle |
-| 1305 | 124 | MrsNutt |
-| 1306 | 124 | Bow Babe |
-| 1307 | 124 | Christina Harman Kinard |
-| 1308 | 124 | Silly Brickline |
-| 1309 | 124 | Hannah Joplin |
-| 1310 | 124 | Sonya Gail Goodman |
-| 1311 | 124 | Hasty Pivoty |
-| 1312 | 124 | itzame |
-| 1313 | 123 | Cupcake |
-| 1314 | 123 | Mark Blanton |
-| 1315 | 123 | Brooke Parkin |
-| 1316 | 123 | Malcolm Annias Flamer |
-| 1317 | 123 | Brian Wangler |
-| 1318 | 123 | Brianna Nicole Goodman |
-| 1319 | 123 | Tiarra Swan |
-| 1320 | 123 | Jennifer Lopez |
-| 1321 | 123 | Muva |
-| 1322 | 122 | Mighty Matchpiece |
-| 1323 | 122 | Crystal Renee Plush |
-| 1324 | 122 | Stacy |
-| 1325 | 122 | Shiny Patternline |
-| 1326 | 122 | Dandy Buildsnap |
-| 1327 | 122 | Funky Stackzone |
-| 1328 | 121 | Ellen Frye |
-| 1329 | 121 | Jaylene Lawrence |
-| 1330 | 121 | Chaurese Brooks |
-| 1331 | 121 | Ashley Cope |
-| 1332 | 121 | Lizz |
-| 1333 | 121 | Quirky Linkbuilder |
+| 1222 | 136 | Quirky Linkbuilder |
+| 1223 | 136 | Jess |
+| 1224 | 135 | Sabrina Cearley |
+| 1225 | 135 | Trell Sweeting |
+| 1226 | 135 | Nina Kela |
+| 1227 | 135 | Amandalorian |
+| 1228 | 135 | Diana Fowler |
+| 1229 | 134 | Swanky Shiftsnap |
+| 1230 | 134 | Ariel Whittington |
+| 1231 | 134 | Juan Bonilla |
+| 1232 | 134 | Brave Cascadeclear |
+| 1233 | 134 | Danielle Barker |
+| 1234 | 134 | croshay |
+| 1235 | 134 | Kenerria Danielle |
+| 1236 | 134 | Smellygirl |
+| 1237 | 134 | Witty Twistslam |
+| 1238 | 134 | Dizzy Edgefit |
+| 1239 | 134 | Tanisha Foster |
+| 1240 | 133 | Trisha Balmer |
+| 1241 | 133 | Liz Waagmeester |
+| 1242 | 133 | Brandi Quick |
+| 1243 | 133 | Stephanie Carpenter |
+| 1244 | 132 | Giggly Shatterline |
+| 1245 | 132 | Giddy Fallzone |
+| 1246 | 132 | Katie Bolich |
+| 1247 | 132 | Joey Albright |
+| 1248 | 132 | April |
+| 1249 | 132 | Chelle |
+| 1250 | 132 | Mzjudged Niteowl |
+| 1251 | 131 | Christina Nabrizny |
+| 1252 | 131 | Daring Spinzone |
+| 1253 | 131 | Honu Noste |
+| 1254 | 131 | Beckii Beckford |
+| 1255 | 131 | Stephany Patton |
+| 1256 | 131 | Lamarr Drayton |
+| 1257 | 130 | Ash |
+| 1258 | 130 | Sharon Navarrete |
+| 1259 | 130 | Squiggle Squish |
+| 1260 | 130 | Tiffany Bruursema |
+| 1261 | 130 | Annette Ostrander |
+| 1262 | 130 | Boldy Rollzone |
+| 1263 | 130 | D3TROITB0RN74 |
+| 1264 | 130 | Yasmin Veliz |
+| 1265 | 130 | Matthew Franklin Sr. |
+| 1266 | 130 | Witty Cascadefit |
+| 1267 | 130 | Chyrisse Norton |
+| 1268 | 130 | Enid |
+| 1269 | 130 | Kaagyugaq Jessica |
+| 1270 | 130 | Kita A Jackson |
+| 1271 | 130 | KayB |
+| 1272 | 130 | Elizabeth Smith |
+| 1273 | 129 | Amanda Mackay |
+| 1274 | 129 | Spicy Siren |
+| 1275 | 129 | Roxie Garza |
+| 1276 | 129 | krae |
+| 1277 | 129 | Frisky Blocky |
+| 1278 | 129 | Lavella Tburg |
+| 1279 | 129 | Smiley |
+| 1280 | 129 | Branden Morris |
+| 1281 | 129 | Wacky Shuffler |
+| 1282 | 128 | Lorrie Landry |
+| 1283 | 128 | Doris Wilson |
+| 1284 | 127 | Nyaa Love |
+| 1285 | 127 | C.B |
+| 1286 | 127 | Hyper Shatterbuilder |
+| 1287 | 127 | Tipsy Blockfall |
+| 1288 | 127 | Dawn Joub |
+| 1289 | 127 | April Jones |
+| 1290 | 126 | Cranky Holder |
+| 1291 | 126 | Lush Twisterfit |
+| 1292 | 126 | Chummy Blockline |
+| 1293 | 126 | Jodi Young |
+| 1294 | 126 | Tplank |
+| 1295 | 126 | Dandy Towerer |
+| 1296 | 126 | Dusti Holbrook |
+| 1297 | 125 | jimjamflimflam |
+| 1298 | 125 | De Hawkins |
+| 1299 | 125 | Nerdy Crusher |
+| 1300 | 125 | Tonya Amen |
+| 1301 | 125 | Greg Clouse |
+| 1302 | 125 | Epic Wipepiece |
+| 1303 | 125 | Pam Green |
+| 1304 | 124 | Goofy Brickzone |
+| 1305 | 124 | Amber Rochelle |
+| 1306 | 124 | MrsNutt |
+| 1307 | 124 | Bow Babe |
+| 1308 | 124 | Christina Harman Kinard |
+| 1309 | 124 | Silly Brickline |
+| 1310 | 124 | Hannah Joplin |
+| 1311 | 124 | Sonya Gail Goodman |
+| 1312 | 124 | Hasty Pivoty |
+| 1313 | 124 | Mark Blanton |
+| 1314 | 124 | itzame |
+| 1315 | 123 | Cupcake |
+| 1316 | 123 | Brooke Parkin |
+| 1317 | 123 | Malcolm Annias Flamer |
+| 1318 | 123 | Brian Wangler |
+| 1319 | 123 | Brianna Nicole Goodman |
+| 1320 | 123 | Tiarra Swan |
+| 1321 | 123 | Jennifer Lopez |
+| 1322 | 123 | Muva |
+| 1323 | 122 | Mighty Matchpiece |
+| 1324 | 122 | Crystal Renee Plush |
+| 1325 | 122 | Stacy |
+| 1326 | 122 | Shiny Patternline |
+| 1327 | 122 | Dandy Buildsnap |
+| 1328 | 122 | Funky Stackzone |
+| 1329 | 121 | Ellen Frye |
+| 1330 | 121 | Jaylene Lawrence |
+| 1331 | 121 | Chaurese Brooks |
+| 1332 | 121 | Ashley Cope |
+| 1333 | 121 | Lizz |
 | 1334 | 120 | Twisty Brickfit |
 | 1335 | 120 | Stephon Void |
 | 1336 | 120 | Snazzy Wipepiece |
@@ -1591,8 +1591,8 @@
 | 1583 | 91 | Gypsy |
 | 1584 | 91 | Sassy Stacker |
 | 1585 | 90 | Shannon Nichole |
-| 1586 | 90 | Angel Niomi Munoz |
-| 1587 | 90 | Plucky Clusterer |
+| 1586 | 90 | Plucky Clusterer |
+| 1587 | 90 | Angel Niomi Munoz |
 | 1588 | 90 | Dapper Stacker |
 | 1589 | 90 | Gravytrain |
 | 1590 | 90 | Brenda Nelson-noles |
@@ -1621,7 +1621,7 @@
 | 1613 | 89 | Dreamy Stacky |
 | 1614 | 89 | Marisa |
 | 1615 | 89 | Jessica Culbertson |
-| 1616 | 88 | DeAnne Geier Wade |
+| 1616 | 89 | DeAnne Geier Wade |
 | 1617 | 88 | Ruchi Smit |
 | 1618 | 88 | Brandi Roberts-Yartz |
 | 1619 | 88 | Dapper Winder |
