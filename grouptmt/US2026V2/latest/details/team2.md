@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 23:32:44 UTC
+# Standings for team2 as of 2026-03-17 23:33:22 UTC
 
 **Total Participants:** 3151
 
@@ -30,9 +30,9 @@
 | 22 | 5278 | Kat |
 | 23 | 5257 | Dizzy Zonegrid |
 | 24 | 4900 | Leah Gorsuch |
-| 25 | 4768 | Cynthia Ward |
-| 26 | 4639 | Baleria Ruedas Pantoja |
-| 27 | 4626 | Nick Jensen |
+| 25 | 4876 | Nick Jensen |
+| 26 | 4768 | Cynthia Ward |
+| 27 | 4639 | Baleria Ruedas Pantoja |
 | 28 | 4501 | Elizabeth Crowder Pelton |
 | 29 | 4489 | Rosemadder |
 | 30 | 4367 | Rob Riggin |
@@ -50,7 +50,7 @@
 | 42 | 3452 | Toni Lynn |
 | 43 | 3351 | Katie Wisecarver |
 | 44 | 3328 | Snippy Basepiece |
-| 45 | 3228 | Hp Gold |
+| 45 | 3266 | Hp Gold |
 | 46 | 3195 | lovethedana |
 | 47 | 3133 | Snippy Clearbuilder |
 | 48 | 3126 | Linda Lively |
@@ -96,7 +96,7 @@
 | 88 | 1899 | Spice Ginger |
 | 89 | 1864 | Robert Martinez |
 | 90 | 1859 | Richard Butler |
-| 91 | 1809 | Julie Renee Long |
+| 91 | 1829 | Julie Renee Long |
 | 92 | 1788 | Olivia Gwin |
 | 93 | 1754 | Jumpy Smasher |
 | 94 | 1744 | Ultramarine |
@@ -197,8 +197,8 @@
 | 189 | 950 | Jason Allen |
 | 190 | 947 | Neet |
 | 191 | 947 | Khalysta |
-| 192 | 942 | Elizabeth Stanley |
-| 193 | 940 | CharalaAnn |
+| 192 | 944 | CharalaAnn |
+| 193 | 942 | Elizabeth Stanley |
 | 194 | 940 | Derrell W. Barron |
 | 195 | 938 | Dreamer |
 | 196 | 922 | Giggly Frame |
@@ -226,19 +226,19 @@
 | 218 | 859 | Jjj |
 | 219 | 857 | Cranky Gridder |
 | 220 | 844 | Katie Lynn |
-| 221 | 844 | Jazzy Hitter |
-| 222 | 842 | Ruby Anne |
-| 223 | 839 | Michael |
-| 224 | 838 | BluBae |
-| 225 | 836 | Jocelynn Marie |
+| 221 | 844 | Jocelynn Marie |
+| 222 | 844 | Jazzy Hitter |
+| 223 | 842 | Ruby Anne |
+| 224 | 839 | Michael |
+| 225 | 838 | BluBae |
 | 226 | 835 | Looloo |
-| 227 | 833 | LolaSmilez |
-| 228 | 833 | Jason Gibbs |
+| 227 | 833 | Jason Gibbs |
+| 228 | 833 | LolaSmilez |
 | 229 | 833 | Amelia Anderson |
 | 230 | 829 | Frothy Linker |
-| 231 | 821 | Elaine Webb Graves |
-| 232 | 821 | Mindy Phelps |
-| 233 | 821 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 231 | 821 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 232 | 821 | Elaine Webb Graves |
+| 233 | 821 | Mindy Phelps |
 | 234 | 820 | Emily Wooden |
 | 235 | 818 | Cw |
 | 236 | 813 | Jami Howard |
@@ -277,8 +277,8 @@
 | 269 | 716 | Laura |
 | 270 | 714 | Joeyalan Sullivan |
 | 271 | 712 | Jasmine Kenney |
-| 272 | 710 | Trista Duguay |
-| 273 | 710 | Kimmie Zimmerman-Rocha |
+| 272 | 710 | Kimmie Zimmerman-Rocha |
+| 273 | 710 | Trista Duguay |
 | 274 | 707 | Sheena Harris |
 | 275 | 706 | Epic Liner |
 | 276 | 705 | Bia |
@@ -948,41 +948,41 @@
 | 940 | 223 | Briana Hargett |
 | 941 | 222 | Amanda Howard |
 | 942 | 222 | Crafty Twistbuilder |
-| 943 | 221 | D3TROITB0RN74 |
-| 944 | 220 | Jeremiah Gensler |
-| 945 | 220 | Valhammer |
-| 946 | 220 | Susan Valentino |
-| 947 | 220 | Marlisa Clark |
-| 948 | 219 | Stephanie Harrington |
-| 949 | 219 | Armand Drayton |
-| 950 | 219 | Bumblebee |
-| 951 | 219 | Bubbly Blockmatch |
-| 952 | 219 | Bold Brickzone |
-| 953 | 219 | scott |
-| 954 | 219 | Danielle Davis Speir |
-| 955 | 219 | Nicole Archuleta |
-| 956 | 219 | Anthony Intrabartolo |
-| 957 | 219 | Dellalynn |
-| 958 | 219 | JZoya  Scott |
-| 959 | 219 | Katie Coyle |
-| 960 | 218 | MinorMAjOR |
-| 961 | 218 | Crystal Brown-Miles |
-| 962 | 218 | melis |
-| 963 | 218 | Christopher Kissiah |
+| 943 | 221 | Bold Brickzone |
+| 944 | 221 | D3TROITB0RN74 |
+| 945 | 220 | Jeremiah Gensler |
+| 946 | 220 | Valhammer |
+| 947 | 220 | Susan Valentino |
+| 948 | 220 | Marlisa Clark |
+| 949 | 219 | Bumblebee |
+| 950 | 219 | Katie Coyle |
+| 951 | 219 | scott |
+| 952 | 219 | Bubbly Blockmatch |
+| 953 | 219 | Armand Drayton |
+| 954 | 219 | Stephanie Harrington |
+| 955 | 219 | Danielle Davis Speir |
+| 956 | 219 | Nicole Archuleta |
+| 957 | 219 | JZoya  Scott |
+| 958 | 219 | Dellalynn |
+| 959 | 219 | Anthony Intrabartolo |
+| 960 | 218 | Crystal Brown-Miles |
+| 961 | 218 | melis |
+| 962 | 218 | Christopher Kissiah |
+| 963 | 218 | MinorMAjOR |
 | 964 | 217 | Angela Gay |
-| 965 | 217 | Glenn Samantha Grove |
+| 965 | 217 | Luna Locke |
 | 966 | 217 | Chummy Linkgrid |
-| 967 | 217 | Luna Locke |
+| 967 | 217 | Glenn Samantha Grove |
 | 968 | 216 | Gin Klingenberg |
-| 969 | 216 | Amanda |
-| 970 | 216 | Selena Combee |
+| 969 | 216 | Selena Combee |
+| 970 | 216 | Amanda |
 | 971 | 215 | Lisa Kline |
 | 972 | 215 | Robin |
 | 973 | 215 | Adrianne Traylor |
 | 974 | 214 | Halie Geesey |
 | 975 | 214 | Abby Bluteau |
-| 976 | 213 | Staybutterfly |
-| 977 | 213 | Dana Hicks |
+| 976 | 213 | Dana Hicks |
+| 977 | 213 | Staybutterfly |
 | 978 | 213 | Logan Abbott |
 | 979 | 212 | Chewy Chewy |
 | 980 | 212 | Mango |
