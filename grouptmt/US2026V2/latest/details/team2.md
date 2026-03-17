@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 11:38:42 UTC
+# Standings for team2 as of 2026-03-17 11:39:18 UTC
 
 **Total Participants:** 2986
 
@@ -139,9 +139,9 @@
 | 131 | 1132 | Christy Green |
 | 132 | 1124 | Melissa Bergin |
 | 133 | 1119 | Sass |
-| 134 | 1101 | Grace Rubalcada |
-| 135 | 1099 | Tash Bell |
-| 136 | 1098 | Liana Spikes |
+| 134 | 1107 | Liana Spikes |
+| 135 | 1101 | Grace Rubalcada |
+| 136 | 1099 | Tash Bell |
 | 137 | 1089 | Leticia Martinez Kelley |
 | 138 | 1070 | Lisa Neal |
 | 139 | 1065 | Paul Hudak |
@@ -1860,145 +1860,145 @@
 | 1852 | 68 | Joseph Ferranto |
 | 1853 | 68 | Jazzy Nat |
 | 1854 | 68 | Nerdy Balanceblock |
-| 1855 | 68 | Morgan Hirzel |
+| 1855 | 68 | GoddessCandy |
 | 1856 | 68 | 22 ultra |
-| 1857 | 68 | alix1818 |
-| 1858 | 68 | Brave Tilebuilder |
-| 1859 | 68 | GoddessCandy |
+| 1857 | 68 | Michelle Sharpe |
+| 1858 | 68 | Morgan Hirzel |
+| 1859 | 68 | Brave Tilebuilder |
 | 1860 | 68 | Clever Snapgrid |
-| 1861 | 68 | Michelle Sharpe |
-| 1862 | 68 | Melissa |
-| 1863 | 68 | Zappy Zoney |
+| 1861 | 68 | alix1818 |
+| 1862 | 68 | Zappy Zoney |
+| 1863 | 68 | Melissa |
 | 1864 | 68 | Chill Spinblock |
-| 1865 | 67 | Aura |
-| 1866 | 67 | Zesty Faller |
-| 1867 | 67 | Chipper Puzzler |
-| 1868 | 67 | Virginia Walker |
-| 1869 | 67 | Ieisha Scruggs Webb |
-| 1870 | 67 | Zesty Slam |
-| 1871 | 67 | Sonya Milbourne |
-| 1872 | 67 | Shayy |
+| 1865 | 67 | Zesty Faller |
+| 1866 | 67 | Virginia Walker |
+| 1867 | 67 | Zesty Slam |
+| 1868 | 67 | Ieisha Scruggs Webb |
+| 1869 | 67 | Sonya Milbourne |
+| 1870 | 67 | Aura |
+| 1871 | 67 | Chipper Puzzler |
+| 1872 | 67 | Nicole Cox King |
 | 1873 | 67 | Giggly Winder |
-| 1874 | 67 | Nicole Cox King |
-| 1875 | 67 | Zachary Corcoran |
+| 1874 | 67 | Zachary Corcoran |
+| 1875 | 67 | Shayy |
 | 1876 | 67 | Frilly Match |
 | 1877 | 66 | Gmo Lopez |
 | 1878 | 66 | MamaJen |
 | 1879 | 66 | Danielle Wright |
-| 1880 | 66 | Hannibal Musa |
-| 1881 | 66 | Rachel Sadowski |
-| 1882 | 66 | Jenni |
-| 1883 | 66 | Lora Sikorski |
+| 1880 | 66 | ts |
+| 1881 | 66 | Peppy Twistslam |
+| 1882 | 66 | Lora Sikorski |
+| 1883 | 66 | Rachel Sadowski |
 | 1884 | 66 | Chill Tumbler |
 | 1885 | 66 | Erika Vause |
-| 1886 | 66 | ts |
-| 1887 | 66 | Peppy Twistslam |
-| 1888 | 65 | Cheri Rose |
-| 1889 | 65 | Erin CP |
-| 1890 | 65 | Viktorya Elizabeth |
-| 1891 | 65 | Iris RL |
-| 1892 | 65 | ace |
-| 1893 | 65 | Hoppy Fallmatch |
-| 1894 | 65 | Lively Stacky |
-| 1895 | 65 | Kershawna Aten |
-| 1896 | 65 | Will Chamberlain |
-| 1897 | 65 | Angel Raya |
-| 1898 | 65 | Brandon Cruse |
-| 1899 | 65 | Perky Shiftspin |
-| 1900 | 65 | Sozail Enfluanza |
-| 1901 | 65 | Giggy Slam |
-| 1902 | 65 | Smith Nita |
-| 1903 | 65 | fay |
-| 1904 | 65 | Sweetyam22 |
+| 1886 | 66 | Jenni |
+| 1887 | 66 | Hannibal Musa |
+| 1888 | 65 | Perky Shiftspin |
+| 1889 | 65 | Brandon Cruse |
+| 1890 | 65 | Will Chamberlain |
+| 1891 | 65 | Erin CP |
+| 1892 | 65 | Kershawna Aten |
+| 1893 | 65 | Lively Stacky |
+| 1894 | 65 | Cheri Rose |
+| 1895 | 65 | Viktorya Elizabeth |
+| 1896 | 65 | ace |
+| 1897 | 65 | Iris RL |
+| 1898 | 65 | Angel Raya |
+| 1899 | 65 | Sweetyam22 |
+| 1900 | 65 | fay |
+| 1901 | 65 | Smith Nita |
+| 1902 | 65 | Sozail Enfluanza |
+| 1903 | 65 | Giggy Slam |
+| 1904 | 65 | Hoppy Fallmatch |
 | 1905 | 65 | BIGDP |
 | 1906 | 65 | Stephanie Lemerond |
-| 1907 | 64 | Amy |
-| 1908 | 64 | Sherice Amber |
-| 1909 | 64 | Melissa K Smith |
-| 1910 | 64 | Kaycie Brieanne |
-| 1911 | 64 | Lenox |
-| 1912 | 64 | Ti Pi |
-| 1913 | 64 | Candice Bertie |
-| 1914 | 64 | Antzy |
-| 1915 | 64 | Pamela Togun |
-| 1916 | 64 | Monica Daley |
-| 1917 | 64 | Veronica Uribe |
-| 1918 | 64 | Muffins Hbf |
-| 1919 | 64 | Novice123 |
-| 1920 | 64 | Sticherella |
-| 1921 | 64 | Linda Taylor |
-| 1922 | 64 | Kristine Salinas |
-| 1923 | 63 | FuzzyKay |
+| 1907 | 64 | Novice123 |
+| 1908 | 64 | Lenox |
+| 1909 | 64 | Kaycie Brieanne |
+| 1910 | 64 | Kristine Salinas |
+| 1911 | 64 | Amy |
+| 1912 | 64 | Antzy |
+| 1913 | 64 | Pamela Togun |
+| 1914 | 64 | Muffins Hbf |
+| 1915 | 64 | Monica Daley |
+| 1916 | 64 | Melissa K Smith |
+| 1917 | 64 | Sticherella |
+| 1918 | 64 | Sherice Amber |
+| 1919 | 64 | Candice Bertie |
+| 1920 | 64 | Ti Pi |
+| 1921 | 64 | Veronica Uribe |
+| 1922 | 64 | Linda Taylor |
+| 1923 | 63 | Natalie Jane |
 | 1924 | 63 | Melissa Courville |
 | 1925 | 63 | Kristie Simonds Gaydos |
-| 1926 | 63 | Tiny Redbeard |
-| 1927 | 63 | Tre |
-| 1928 | 63 | Natalie Jane |
+| 1926 | 63 | FuzzyKay |
+| 1927 | 63 | Ma Ri |
+| 1928 | 63 | Tiny Redbeard |
 | 1929 | 63 | Jenni Mfb |
 | 1930 | 63 | Kimberly Krass |
-| 1931 | 63 | Ma Ri |
-| 1932 | 63 | Misty |
-| 1933 | 63 | Chastity Speight |
-| 1934 | 63 | Jaimie Lynn Casias |
-| 1935 | 62 | Zesty Wipeout |
-| 1936 | 62 | Melissa Manser |
-| 1937 | 62 | Melanie Klump |
-| 1938 | 62 | Lobsta |
+| 1931 | 63 | Tre |
+| 1932 | 63 | Peachy Pusher |
+| 1933 | 63 | Misty |
+| 1934 | 63 | Chastity Speight |
+| 1935 | 63 | Jaimie Lynn Casias |
+| 1936 | 62 | Zesty Wipeout |
+| 1937 | 62 | Lobsta |
+| 1938 | 62 | Melanie Klump |
 | 1939 | 62 | Christin VanNorman |
-| 1940 | 62 | Cool Riser |
-| 1941 | 62 | Uuinner |
-| 1942 | 62 | LiseePooh |
-| 1943 | 62 | Chandra |
-| 1944 | 62 | Jennifer Young |
-| 1945 | 62 | Frank |
+| 1940 | 62 | Melissa Manser |
+| 1941 | 62 | Cool Riser |
+| 1942 | 62 | Uuinner |
+| 1943 | 62 | pickle girl |
+| 1944 | 62 | LiseePooh |
+| 1945 | 62 | Jennifer Young |
 | 1946 | 62 | Sierra Spencer |
-| 1947 | 62 | John Wick |
+| 1947 | 62 | Snappy Risebuilder |
 | 1948 | 62 | Goredo |
-| 1949 | 62 | Snappy Risebuilder |
-| 1950 | 62 | pickle girl |
-| 1951 | 62 | Heidi Miller Caponigro |
-| 1952 | 61 | Cherie Lee Heid |
-| 1953 | 61 | Monique love |
-| 1954 | 61 | CG2026 |
-| 1955 | 61 | DeAnna Jones |
+| 1949 | 62 | Chandra |
+| 1950 | 62 | John Wick |
+| 1951 | 62 | Frank |
+| 1952 | 62 | Heidi Miller Caponigro |
+| 1953 | 61 | Cranky Party |
+| 1954 | 61 | Jessylynn |
+| 1955 | 61 | Cherie Lee Heid |
 | 1956 | 61 | Claudia Baez |
-| 1957 | 61 | Jessylynn |
-| 1958 | 61 | Cranky Party |
-| 1959 | 61 | Andre Boyce |
-| 1960 | 61 | Carla B Linker |
-| 1961 | 61 | Hosifa Yasin |
-| 1962 | 61 | sas |
+| 1957 | 61 | CG2026 |
+| 1958 | 61 | Hosifa Yasin |
+| 1959 | 61 | Monique love |
+| 1960 | 61 | DeAnna Jones |
+| 1961 | 61 | Hasty Tiler |
+| 1962 | 61 | Andre Boyce |
 | 1963 | 61 | PrincessDonut |
-| 1964 | 61 | Hasty Tiler |
-| 1965 | 61 | Loony Stacky |
-| 1966 | 61 | Quirky Crawler |
-| 1967 | 60 | Marsha Tyler |
-| 1968 | 60 | Karyn Yurcho Dooley |
-| 1969 | 60 | Christine Martin |
-| 1970 | 60 | Happy Wiper |
-| 1971 | 60 | Nyiesha Aikens |
-| 1972 | 60 | Funky Twistpiece |
-| 1973 | 60 | Chance Strickland |
-| 1974 | 60 | Linda A Cowles |
+| 1964 | 61 | Carla B Linker |
+| 1965 | 61 | sas |
+| 1966 | 61 | Loony Stacky |
+| 1967 | 61 | Quirky Crawler |
+| 1968 | 60 | Marsha Tyler |
+| 1969 | 60 | Karyn Yurcho Dooley |
+| 1970 | 60 | Christine Martin |
+| 1971 | 60 | Happy Wiper |
+| 1972 | 60 | Dizzy Dash |
+| 1973 | 60 | DirtDiggler |
+| 1974 | 60 | Willie Phister |
 | 1975 | 60 | Terry Perez |
-| 1976 | 60 | Willie Phister |
-| 1977 | 60 | B1tch |
-| 1978 | 60 | MaryAnn Metz |
-| 1979 | 60 | Dizzy Dash |
-| 1980 | 60 | Whitney M Hannah |
-| 1981 | 60 | Peachy Pusher |
-| 1982 | 60 | Kristin Lensing |
-| 1983 | 60 | Dreamy Climber |
-| 1984 | 60 | Billy Paul |
-| 1985 | 60 | Brenda Chouinard |
-| 1986 | 60 | Snippy Fall |
-| 1987 | 60 | Lush Edgepiece |
-| 1988 | 60 | Summer_time |
-| 1989 | 60 | Misty Hollibaugh |
-| 1990 | 60 | Brad Campbell |
-| 1991 | 60 | Hyedie Badie |
-| 1992 | 60 | iamjustgaming |
-| 1993 | 60 | DirtDiggler |
+| 1976 | 60 | Funky Twistpiece |
+| 1977 | 60 | Nyiesha Aikens |
+| 1978 | 60 | Chance Strickland |
+| 1979 | 60 | Linda A Cowles |
+| 1980 | 60 | B1tch |
+| 1981 | 60 | iamjustgaming |
+| 1982 | 60 | Lush Edgepiece |
+| 1983 | 60 | Whitney M Hannah |
+| 1984 | 60 | Kristin Lensing |
+| 1985 | 60 | Hyedie Badie |
+| 1986 | 60 | Dreamy Climber |
+| 1987 | 60 | Brad Campbell |
+| 1988 | 60 | Billy Paul |
+| 1989 | 60 | MaryAnn Metz |
+| 1990 | 60 | Snippy Fall |
+| 1991 | 60 | Misty Hollibaugh |
+| 1992 | 60 | Brenda Chouinard |
+| 1993 | 60 | Summer_time |
 | 1994 | 59 | Funky Blockpiece |
 | 1995 | 59 | Alex Alex |
 | 1996 | 59 | Cryptomeg |
