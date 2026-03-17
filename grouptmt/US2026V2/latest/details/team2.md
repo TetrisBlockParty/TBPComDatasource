@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 03:52:20 UTC
+# Standings for team2 as of 2026-03-17 03:52:47 UTC
 
 **Total Participants:** 2917
 
@@ -161,14 +161,14 @@
 | 153 | 966 | Arnae Draughon |
 | 154 | 965 | Lori Schlachter Segui |
 | 155 | 956 | ddd |
-| 156 | 955 | Connie Mohler-Fair |
-| 157 | 948 | Christina Ramirez |
-| 158 | 947 | Khalysta |
+| 156 | 955 | Jayme Hamil |
+| 157 | 955 | Connie Mohler-Fair |
+| 158 | 948 | Christina Ramirez |
 | 159 | 947 | Neet |
-| 160 | 942 | Elizabeth Stanley |
-| 161 | 941 | Shelly Babie |
-| 162 | 940 | Derrell W. Barron |
-| 163 | 933 | Jayme Hamil |
+| 160 | 947 | Khalysta |
+| 161 | 942 | Elizabeth Stanley |
+| 162 | 941 | Shelly Babie |
+| 163 | 940 | Derrell W. Barron |
 | 164 | 925 | Kimyatta Cavin |
 | 165 | 915 | Ariel Pearson |
 | 166 | 914 | Michelle |
@@ -2821,108 +2821,108 @@
 | 2813 | 9 | Deb |
 | 2814 | 9 | Stormy |
 | 2815 | 9 | Tyler Whitley |
-| 2816 | 8 | ThatGuy |
-| 2817 | 8 | justme |
-| 2818 | 8 | Rebecca Norcross |
-| 2819 | 8 | Shannon Grisson |
-| 2820 | 8 | Ponytail113 |
-| 2821 | 8 | Kristen Jones Gathright |
-| 2822 | 8 | Giddy Zonebuilder |
-| 2823 | 8 | Carebear420 |
-| 2824 | 8 | Brandi Gericke |
-| 2825 | 8 | Psst |
-| 2826 | 8 | Rach |
-| 2827 | 8 | Zakk Bennett |
-| 2828 | 8 | Freddie Rodriguez |
-| 2829 | 8 | Frothy Twisterfit |
-| 2830 | 8 | pooh |
-| 2831 | 8 | Sunny Swipe |
-| 2832 | 8 | Swanky Matchfit |
-| 2833 | 8 | Chill Align |
-| 2834 | 8 | Cheeky Blockroll |
-| 2835 | 8 | Snappy Towerer |
-| 2836 | 8 | Jonathan Myers |
-| 2837 | 8 | Jo |
-| 2838 | 8 | Loony Brickmatch |
-| 2839 | 8 | Tessa |
-| 2840 | 8 | Reneé Morris |
-| 2841 | 8 | Joanne Cheng |
-| 2842 | 8 | Frothy Clusterfit |
-| 2843 | 8 | Cozy Racker |
-| 2844 | 7 | Virginia Lynn McAbee |
-| 2845 | 7 | Jamie Price |
-| 2846 | 7 | Al |
-| 2847 | 7 | Frilly Corner |
-| 2848 | 7 | Shyanne Marie |
-| 2849 | 7 | Bbjudy |
-| 2850 | 7 | Will Blain |
-| 2851 | 7 | Cindy Gale Lees |
-| 2852 | 7 | Jacks0614 |
-| 2853 | 7 | Tim Harris |
-| 2854 | 7 | Zappy Drop |
-| 2855 | 7 | Bold Zonebuilder |
-| 2856 | 7 | Peachy Snapmatch |
-| 2857 | 7 | Lil Red |
-| 2858 | 7 | PhairMason |
-| 2859 | 7 | Kgp |
-| 2860 | 7 | Cassidy Cade |
-| 2861 | 7 | DeAnna Lyn Taite |
-| 2862 | 7 | Angelique Taylor |
-| 2863 | 7 | Teresa Keefer |
-| 2864 | 7 | Shaunna Armstrong |
-| 2865 | 7 | TheBeast Tori |
-| 2866 | 7 | Cris Gatling |
-| 2867 | 7 | Chilly Gridlock |
-| 2868 | 7 | Dayna Coslow |
-| 2869 | 7 | rocklen |
-| 2870 | 7 | Tamara Tarver |
-| 2871 | 7 | Ace |
-| 2872 | 7 | Melissa Williams Blevins |
-| 2873 | 7 | Crystal Calderon |
-| 2874 | 7 | mala |
-| 2875 | 7 | Giggly Buildsnap |
-| 2876 | 7 | Kaitlin Hood |
-| 2877 | 6 | CyndiHope |
-| 2878 | 6 | Nerdy Gridpiece |
-| 2879 | 6 | Melanie Brock |
-| 2880 | 6 | Nutty Stacky |
-| 2881 | 6 | Ana Marie Shelton |
-| 2882 | 6 | Lazy Gridroll |
-| 2883 | 6 | Nanci Westnedge |
-| 2884 | 6 | Giggy Pop |
-| 2885 | 6 | Michelle Garner |
-| 2886 | 6 | ConservativeMomma |
-| 2887 | 6 | Kelroy Barnes |
-| 2888 | 6 | Jennifer Turner |
-| 2889 | 6 | SweetMomma |
-| 2890 | 6 | Glitter Fairy |
-| 2891 | 6 | Ravary |
-| 2892 | 6 | Rae Henderson |
-| 2893 | 5 | Cool Zonegrid |
-| 2894 | 5 | Kelly Gause |
-| 2895 | 5 | Aaron Waite |
-| 2896 | 5 | Summer Raymer |
-| 2897 | 5 | Beep Pie |
-| 2898 | 5 | Chrissa Brady |
-| 2899 | 5 | Kristi Neal |
-| 2900 | 5 | Kerry Lee Powell |
-| 2901 | 5 | Tiffy |
-| 2902 | 5 | Zappy Hitter |
-| 2903 | 5 | Leeann Couch |
-| 2904 | 5 | Ashley Patrice London |
-| 2905 | 5 | wendy |
-| 2906 | 5 | xoxo |
-| 2907 | 5 | Chasity Meredith |
-| 2908 | 5 | Sandy Nickol Schadler Reagan |
-| 2909 | 5 | Jeanna Gordon |
-| 2910 | 5 | Maggie Parr |
-| 2911 | 5 | Christine Ross |
-| 2912 | 5 | Rebecca Maino |
-| 2913 | 5 | Cindy Mims |
-| 2914 | 5 | Regan Anderson |
-| 2915 | 5 | Alexandria Shannon |
-| 2916 | 5 | Perky Piecegrid |
-| 2917 | 5 | Kris Sot |
+| 2816 | 9 | Joanne Cheng |
+| 2817 | 8 | Frothy Clusterfit |
+| 2818 | 8 | Cozy Racker |
+| 2819 | 8 | ThatGuy |
+| 2820 | 8 | justme |
+| 2821 | 8 | Rebecca Norcross |
+| 2822 | 8 | Shannon Grisson |
+| 2823 | 8 | Ponytail113 |
+| 2824 | 8 | Kristen Jones Gathright |
+| 2825 | 8 | Giddy Zonebuilder |
+| 2826 | 8 | Carebear420 |
+| 2827 | 8 | Brandi Gericke |
+| 2828 | 8 | Psst |
+| 2829 | 8 | Rach |
+| 2830 | 8 | Zakk Bennett |
+| 2831 | 8 | Freddie Rodriguez |
+| 2832 | 8 | Frothy Twisterfit |
+| 2833 | 8 | pooh |
+| 2834 | 8 | Sunny Swipe |
+| 2835 | 8 | Swanky Matchfit |
+| 2836 | 8 | Chill Align |
+| 2837 | 8 | Cheeky Blockroll |
+| 2838 | 8 | Snappy Towerer |
+| 2839 | 8 | Jonathan Myers |
+| 2840 | 8 | Jo |
+| 2841 | 8 | Loony Brickmatch |
+| 2842 | 8 | Tessa |
+| 2843 | 8 | Reneé Morris |
+| 2844 | 7 | Tim Harris |
+| 2845 | 7 | Zappy Drop |
+| 2846 | 7 | Bold Zonebuilder |
+| 2847 | 7 | Peachy Snapmatch |
+| 2848 | 7 | Lil Red |
+| 2849 | 7 | PhairMason |
+| 2850 | 7 | Kgp |
+| 2851 | 7 | Cassidy Cade |
+| 2852 | 7 | DeAnna Lyn Taite |
+| 2853 | 7 | Angelique Taylor |
+| 2854 | 7 | Teresa Keefer |
+| 2855 | 7 | Shaunna Armstrong |
+| 2856 | 7 | TheBeast Tori |
+| 2857 | 7 | Cris Gatling |
+| 2858 | 7 | Chilly Gridlock |
+| 2859 | 7 | Dayna Coslow |
+| 2860 | 7 | rocklen |
+| 2861 | 7 | Tamara Tarver |
+| 2862 | 7 | Ace |
+| 2863 | 7 | Melissa Williams Blevins |
+| 2864 | 7 | Crystal Calderon |
+| 2865 | 7 | mala |
+| 2866 | 7 | Giggly Buildsnap |
+| 2867 | 7 | Kaitlin Hood |
+| 2868 | 7 | Virginia Lynn McAbee |
+| 2869 | 7 | Jamie Price |
+| 2870 | 7 | Al |
+| 2871 | 7 | Frilly Corner |
+| 2872 | 7 | Shyanne Marie |
+| 2873 | 7 | Bbjudy |
+| 2874 | 7 | Will Blain |
+| 2875 | 7 | Cindy Gale Lees |
+| 2876 | 7 | Jacks0614 |
+| 2877 | 6 | Kelroy Barnes |
+| 2878 | 6 | Jennifer Turner |
+| 2879 | 6 | SweetMomma |
+| 2880 | 6 | Glitter Fairy |
+| 2881 | 6 | Ravary |
+| 2882 | 6 | Rae Henderson |
+| 2883 | 6 | CyndiHope |
+| 2884 | 6 | Nerdy Gridpiece |
+| 2885 | 6 | Melanie Brock |
+| 2886 | 6 | Nutty Stacky |
+| 2887 | 6 | Ana Marie Shelton |
+| 2888 | 6 | Lazy Gridroll |
+| 2889 | 6 | Nanci Westnedge |
+| 2890 | 6 | Giggy Pop |
+| 2891 | 6 | Michelle Garner |
+| 2892 | 6 | ConservativeMomma |
+| 2893 | 5 | Kelly Gause |
+| 2894 | 5 | Aaron Waite |
+| 2895 | 5 | Summer Raymer |
+| 2896 | 5 | Beep Pie |
+| 2897 | 5 | Chrissa Brady |
+| 2898 | 5 | Kristi Neal |
+| 2899 | 5 | Kerry Lee Powell |
+| 2900 | 5 | Tiffy |
+| 2901 | 5 | Zappy Hitter |
+| 2902 | 5 | Leeann Couch |
+| 2903 | 5 | Ashley Patrice London |
+| 2904 | 5 | wendy |
+| 2905 | 5 | xoxo |
+| 2906 | 5 | Chasity Meredith |
+| 2907 | 5 | Sandy Nickol Schadler Reagan |
+| 2908 | 5 | Jeanna Gordon |
+| 2909 | 5 | Maggie Parr |
+| 2910 | 5 | Christine Ross |
+| 2911 | 5 | Rebecca Maino |
+| 2912 | 5 | Cindy Mims |
+| 2913 | 5 | Regan Anderson |
+| 2914 | 5 | Alexandria Shannon |
+| 2915 | 5 | Perky Piecegrid |
+| 2916 | 5 | Kris Sot |
+| 2917 | 5 | Cool Zonegrid |
 
 ---
 *Standings created by tournaments datasource generation tool*
