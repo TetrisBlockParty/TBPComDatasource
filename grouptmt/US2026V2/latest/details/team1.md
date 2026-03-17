@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 07:34:48 UTC
+# Standings for team1 as of 2026-03-17 07:35:23 UTC
 
 **Total Participants:** 2958
 
@@ -239,7 +239,7 @@
 | 231 | 795 | Chalandra Donahue |
 | 232 | 793 | Chrys Peters |
 | 233 | 787 | nameno |
-| 234 | 774 | Kat Mfm Kaul |
+| 234 | 776 | Kat Mfm Kaul |
 | 235 | 768 | Donna |
 | 236 | 766 | Jaame Courtney |
 | 237 | 762 | Poppy Fallzone |
@@ -337,7 +337,7 @@
 | 329 | 558 | Rocky |
 | 330 | 556 | Cozy Twistbuilder |
 | 331 | 555 | Liliana Pena |
-| 332 | 553 | Kay Francois |
+| 332 | 555 | Kay Francois |
 | 333 | 552 | La'Shonda N Williams |
 | 334 | 550 | Scott Napper |
 | 335 | 548 | April McGuffie |
@@ -377,24 +377,24 @@
 | 369 | 507 | Aaron Higdon |
 | 370 | 503 | Donna McGowan |
 | 371 | 496 | Amber McDonald |
-| 372 | 490 | Hannah Carter |
-| 373 | 488 | Chiquita Spears |
-| 374 | 488 | Roberta Arnold |
-| 375 | 486 | Kathy Karjala |
-| 376 | 484 | Spicy Twister |
-| 377 | 483 | Kehlyn King |
-| 378 | 483 | Sonotjelly |
-| 379 | 483 | Sandra Link-Gable |
-| 380 | 480 | Flashy Stacky |
-| 381 | 480 | Allen Matthies |
-| 382 | 478 | Dan Sessa |
-| 383 | 478 | Swalshy |
-| 384 | 475 | Shiny Patternblock |
-| 385 | 474 | Katie Alexander |
-| 386 | 473 | Cannaman710 |
-| 387 | 472 | George Ljr |
-| 388 | 468 | Marie Shakinah |
-| 389 | 465 | Mufi25 |
+| 372 | 494 | Mufi25 |
+| 373 | 490 | Hannah Carter |
+| 374 | 488 | Chiquita Spears |
+| 375 | 488 | Roberta Arnold |
+| 376 | 486 | Kathy Karjala |
+| 377 | 484 | Spicy Twister |
+| 378 | 483 | Kehlyn King |
+| 379 | 483 | Sonotjelly |
+| 380 | 483 | Sandra Link-Gable |
+| 381 | 480 | Flashy Stacky |
+| 382 | 480 | Allen Matthies |
+| 383 | 478 | Dan Sessa |
+| 384 | 478 | Swalshy |
+| 385 | 475 | Shiny Patternblock |
+| 386 | 474 | Katie Alexander |
+| 387 | 473 | Cannaman710 |
+| 388 | 472 | George Ljr |
+| 389 | 468 | Marie Shakinah |
 | 390 | 465 | Bearman |
 | 391 | 464 | Brenda L. Bunce |
 | 392 | 462 | Jeff Brian Gates |
