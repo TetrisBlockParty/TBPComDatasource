@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-17 08:46:45 UTC
+# Standings for team3 as of 2026-03-17 08:47:20 UTC
 
 **Total Participants:** 4662
 
@@ -849,47 +849,47 @@
 | 841 | 328 | Marty Hernandez |
 | 842 | 327 | Magoo Backpack |
 | 843 | 327 | Danielle R LP |
-| 844 | 326 | Kyrie Cleasby |
-| 845 | 325 | Michelle Maurice-Albert |
-| 846 | 325 | luluraine |
-| 847 | 325 | rosy |
-| 848 | 325 | Wendy Spearman |
-| 849 | 325 | Carrah J Bowens |
-| 850 | 325 | Allyj |
-| 851 | 324 | Jalissa Monique |
-| 852 | 324 | Marsheka Williamson |
-| 853 | 323 | Speedy Snaplink |
-| 854 | 323 | Sunny Zoney |
-| 855 | 323 | Jay Holladay |
-| 856 | 323 | Xela |
-| 857 | 322 | Ashley Parker |
-| 858 | 320 | Amandacolle |
-| 859 | 320 | COMFORT |
-| 860 | 320 | Brave Gridzone |
-| 861 | 320 | Sarah Starr Fitzenrider |
-| 862 | 319 | Rosie32 |
-| 863 | 317 | Desiray Priest |
-| 864 | 317 | Jay H. Escobar |
-| 865 | 317 | Shiny Match |
-| 866 | 317 | Dizzy Mover |
-| 867 | 316 | Colton |
-| 868 | 316 | Shelly Griggs |
-| 869 | 316 | Laura Jacobsen |
-| 870 | 315 | Jessica Supinski |
-| 871 | 315 | Taylor Bogarin |
-| 872 | 315 | Amy Jackson |
-| 873 | 314 | Jessica Laurie |
-| 874 | 314 | Teenie |
-| 875 | 314 | Boldy Tower |
-| 876 | 313 | Bobbie Harrell |
-| 877 | 313 | Sheryl Davis |
-| 878 | 313 | studyofself |
-| 879 | 313 | phaded |
-| 880 | 312 | Samantha Gotham |
-| 881 | 312 | shonaberry |
-| 882 | 312 | Meleray Wheeler |
-| 883 | 312 | Dizzy Zigzag |
-| 884 | 311 | Marlo Hone |
+| 844 | 326 | Marlo Hone |
+| 845 | 326 | Kyrie Cleasby |
+| 846 | 325 | Michelle Maurice-Albert |
+| 847 | 325 | luluraine |
+| 848 | 325 | rosy |
+| 849 | 325 | Wendy Spearman |
+| 850 | 325 | Carrah J Bowens |
+| 851 | 325 | Allyj |
+| 852 | 324 | Jalissa Monique |
+| 853 | 324 | Marsheka Williamson |
+| 854 | 323 | Speedy Snaplink |
+| 855 | 323 | Sunny Zoney |
+| 856 | 323 | Jay Holladay |
+| 857 | 323 | Xela |
+| 858 | 322 | Ashley Parker |
+| 859 | 320 | Amandacolle |
+| 860 | 320 | COMFORT |
+| 861 | 320 | Brave Gridzone |
+| 862 | 320 | Sarah Starr Fitzenrider |
+| 863 | 319 | Rosie32 |
+| 864 | 317 | Desiray Priest |
+| 865 | 317 | Jay H. Escobar |
+| 866 | 317 | Shiny Match |
+| 867 | 317 | Dizzy Mover |
+| 868 | 316 | Colton |
+| 869 | 316 | Shelly Griggs |
+| 870 | 316 | Laura Jacobsen |
+| 871 | 315 | Jessica Supinski |
+| 872 | 315 | Taylor Bogarin |
+| 873 | 315 | Amy Jackson |
+| 874 | 314 | Jessica Laurie |
+| 875 | 314 | Teenie |
+| 876 | 314 | Boldy Tower |
+| 877 | 313 | Bobbie Harrell |
+| 878 | 313 | Sheryl Davis |
+| 879 | 313 | studyofself |
+| 880 | 313 | phaded |
+| 881 | 312 | Samantha Gotham |
+| 882 | 312 | shonaberry |
+| 883 | 312 | Meleray Wheeler |
+| 884 | 312 | Dizzy Zigzag |
 | 885 | 311 | Hyper Buildsnap |
 | 886 | 310 | Nerdy Tiltpiece |
 | 887 | 310 | lashanda |
@@ -2883,46 +2883,46 @@
 | 2875 | 69 | Kenadi |
 | 2876 | 69 | Tiffany MizTeebabie Brown |
 | 2877 | 69 | Jerry Loveday |
-| 2878 | 69 | Samantha Rowe |
+| 2878 | 69 | Jods |
 | 2879 | 69 | Mary Elizabeth Jenkins |
-| 2880 | 69 | Penelope |
-| 2881 | 69 | Crystal Huber |
-| 2882 | 69 | Meg |
-| 2883 | 69 | Saucy Linkgrid |
-| 2884 | 69 | Seg Z Nig Ah |
-| 2885 | 69 | Jods |
-| 2886 | 69 | Peaches |
-| 2887 | 68 | Cody Bingamon |
-| 2888 | 68 | Loopy Bouncer |
-| 2889 | 68 | Kristin MacDonald |
-| 2890 | 68 | Emily Shodrock |
-| 2891 | 68 | Kelly Hall Whitt |
-| 2892 | 68 | Rondell Burton |
-| 2893 | 68 | Dapper Balancefit |
-| 2894 | 68 | Daring dan |
-| 2895 | 68 | Chris |
-| 2896 | 68 | Ashlee Marie |
-| 2897 | 68 | Llewej Rekab |
-| 2898 | 67 | MoonChild87 |
-| 2899 | 67 | Morgan Cox |
-| 2900 | 67 | Cranky Pivot |
-| 2901 | 67 | Fuges |
-| 2902 | 67 | Sarah Dunagan |
-| 2903 | 67 | Ki Ki |
-| 2904 | 67 | Sherise Miller |
-| 2905 | 67 | Lively Matcher |
-| 2906 | 67 | Golden Dream |
-| 2907 | 67 | Cece Davis |
-| 2908 | 67 | Robert Stew |
-| 2909 | 67 | era |
-| 2910 | 67 | Casspadge33 |
-| 2911 | 67 | Glitzy Brickfit |
-| 2912 | 67 | Erik Hesner |
-| 2913 | 67 | Craig Avena |
-| 2914 | 67 | Alberta Beaudion |
-| 2915 | 66 | Melody |
+| 2880 | 69 | Samantha Rowe |
+| 2881 | 69 | Saucy Linkgrid |
+| 2882 | 69 | Peaches |
+| 2883 | 69 | Seg Z Nig Ah |
+| 2884 | 69 | Meg |
+| 2885 | 69 | Crystal Huber |
+| 2886 | 69 | Penelope |
+| 2887 | 68 | Kristin MacDonald |
+| 2888 | 68 | Samantha Michelle |
+| 2889 | 68 | Emily Shodrock |
+| 2890 | 68 | Loopy Bouncer |
+| 2891 | 68 | Cody Bingamon |
+| 2892 | 68 | Kelly Hall Whitt |
+| 2893 | 68 | Rondell Burton |
+| 2894 | 68 | Dapper Balancefit |
+| 2895 | 68 | Daring dan |
+| 2896 | 68 | Chris |
+| 2897 | 68 | Ashlee Marie |
+| 2898 | 68 | Llewej Rekab |
+| 2899 | 67 | MoonChild87 |
+| 2900 | 67 | Morgan Cox |
+| 2901 | 67 | Cranky Pivot |
+| 2902 | 67 | Fuges |
+| 2903 | 67 | Sarah Dunagan |
+| 2904 | 67 | Ki Ki |
+| 2905 | 67 | Sherise Miller |
+| 2906 | 67 | Lively Matcher |
+| 2907 | 67 | Golden Dream |
+| 2908 | 67 | Cece Davis |
+| 2909 | 67 | Robert Stew |
+| 2910 | 67 | era |
+| 2911 | 67 | Casspadge33 |
+| 2912 | 67 | Glitzy Brickfit |
+| 2913 | 67 | Erik Hesner |
+| 2914 | 67 | Craig Avena |
+| 2915 | 67 | Alberta Beaudion |
 | 2916 | 66 | Auburngal |
-| 2917 | 66 | Samantha Michelle |
+| 2917 | 66 | Melody |
 | 2918 | 66 | Nicole Braciliano |
 | 2919 | 66 | Tina Anne Witman |
 | 2920 | 66 | Alexis Smith |
