@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 09:53:22 UTC
+# Standings for team2 as of 2026-03-17 09:54:22 UTC
 
 **Total Participants:** 2973
 
@@ -59,7 +59,7 @@
 | 51 | 2651 | Julio Alejandro Rodriguez |
 | 52 | 2612 | Crafty Matchfit |
 | 53 | 2606 | Breezy Towerfall |
-| 54 | 2590 | Adam Charles |
+| 54 | 2595 | Adam Charles |
 | 55 | 2583 | Toni Lynn |
 | 56 | 2550 | Peppy Zone |
 | 57 | 2521 | Jenny Derby |
@@ -563,11 +563,11 @@
 | 555 | 321 | Laura Smith |
 | 556 | 320 | Jenna McGeorge |
 | 557 | 319 | btchboy |
-| 558 | 318 | Sbs |
-| 559 | 317 | Heather Kelley |
-| 560 | 317 | Jolly Towerpiece |
-| 561 | 317 | Zesty Balancefit |
-| 562 | 317 | SportyRabbit51 |
+| 558 | 319 | SportyRabbit51 |
+| 559 | 318 | Sbs |
+| 560 | 317 | Heather Kelley |
+| 561 | 317 | Jolly Towerpiece |
+| 562 | 317 | Zesty Balancefit |
 | 563 | 316 | Carey Kyle |
 | 564 | 316 | Frisky Riserbuilder |
 | 565 | 316 | Chad Meyers |
@@ -1005,37 +1005,37 @@
 | 997 | 178 | Tdg Boyt |
 | 998 | 178 | Queen |
 | 999 | 177 | Jeanine Macrina |
-| 1000 | 176 | jay |
-| 1001 | 176 | Crystal Harbeson |
-| 1002 | 175 | Aldo Hernandez |
-| 1003 | 174 | Angela Gay |
-| 1004 | 174 | Debbie Gerlib-Molinari Leigh |
-| 1005 | 174 | Michael Parsons |
-| 1006 | 174 | spriege |
-| 1007 | 174 | Shiny Framezone |
-| 1008 | 174 | Old Man |
-| 1009 | 174 | Bubbly Stacker |
-| 1010 | 173 | Cool Blockline |
-| 1011 | 173 | Michelle Gnouilaphi |
-| 1012 | 173 | Tonya Hadsell |
-| 1013 | 173 | Abby Bluteau |
-| 1014 | 173 | Amanda Howard |
-| 1015 | 172 | Layne Dejean |
-| 1016 | 172 | Giddy Twistslam |
-| 1017 | 172 | Cheyenne Taylor |
-| 1018 | 172 | Greg Lovensheimer |
-| 1019 | 171 | Robert Benjamin |
-| 1020 | 171 | Amanda |
-| 1021 | 171 | Brave Fallzone |
-| 1022 | 171 | Steve Ouellet |
-| 1023 | 171 | Amanda |
-| 1024 | 171 | SigmaWinchester |
-| 1025 | 170 | Amanda Dorlan |
-| 1026 | 170 | Tina Mead |
-| 1027 | 170 | Stephanie Harrington |
-| 1028 | 169 | Elliana |
-| 1029 | 169 | Phanatic2008 |
-| 1030 | 169 | Clever Tiltbuilder |
+| 1000 | 177 | Clever Tiltbuilder |
+| 1001 | 176 | jay |
+| 1002 | 176 | Crystal Harbeson |
+| 1003 | 175 | Aldo Hernandez |
+| 1004 | 174 | Angela Gay |
+| 1005 | 174 | Debbie Gerlib-Molinari Leigh |
+| 1006 | 174 | Michael Parsons |
+| 1007 | 174 | spriege |
+| 1008 | 174 | Shiny Framezone |
+| 1009 | 174 | Old Man |
+| 1010 | 174 | Bubbly Stacker |
+| 1011 | 173 | Cool Blockline |
+| 1012 | 173 | Michelle Gnouilaphi |
+| 1013 | 173 | Tonya Hadsell |
+| 1014 | 173 | Abby Bluteau |
+| 1015 | 173 | Amanda Howard |
+| 1016 | 172 | Layne Dejean |
+| 1017 | 172 | Giddy Twistslam |
+| 1018 | 172 | Cheyenne Taylor |
+| 1019 | 172 | Greg Lovensheimer |
+| 1020 | 171 | Robert Benjamin |
+| 1021 | 171 | Amanda |
+| 1022 | 171 | Brave Fallzone |
+| 1023 | 171 | Steve Ouellet |
+| 1024 | 171 | Amanda |
+| 1025 | 171 | SigmaWinchester |
+| 1026 | 170 | Amanda Dorlan |
+| 1027 | 170 | Tina Mead |
+| 1028 | 170 | Stephanie Harrington |
+| 1029 | 169 | Elliana |
+| 1030 | 169 | Phanatic2008 |
 | 1031 | 168 | Slinky Linkgrid |
 | 1032 | 168 | Shannon Lynn Goddard |
 | 1033 | 168 | Stacey Kauppi |
@@ -1990,8 +1990,8 @@
 | 1982 | 60 | Willie Phister |
 | 1983 | 60 | Funky Twistpiece |
 | 1984 | 60 | Kristin Lensing |
-| 1985 | 59 | Alex Alex |
-| 1986 | 59 | Brad Campbell |
+| 1985 | 60 | Brad Campbell |
+| 1986 | 59 | Alex Alex |
 | 1987 | 59 | Odessa Scott |
 | 1988 | 59 | Cryptomeg |
 | 1989 | 59 | Funky Blockpiece |
