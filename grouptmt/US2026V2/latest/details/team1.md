@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 13:57:25 UTC
+# Standings for team1 as of 2026-03-17 13:58:22 UTC
 
 **Total Participants:** 3000
 
@@ -175,12 +175,12 @@
 | 167 | 1079 | Ken McDonald |
 | 168 | 1076 | Ma Shwe Myint |
 | 169 | 1067 | Bold Clear |
-| 170 | 1063 | LaNette Morgan |
-| 171 | 1063 | Hasty Cascader |
+| 170 | 1063 | Hasty Cascader |
+| 171 | 1063 | LaNette Morgan |
 | 172 | 1053 | Crawford Candice |
 | 173 | 1052 | Sunny Swiper |
-| 174 | 1047 | Ann Carrie |
-| 175 | 1043 | Matt Aguilar |
+| 174 | 1049 | Matt Aguilar |
+| 175 | 1047 | Ann Carrie |
 | 176 | 1015 | Joy Bloodworth |
 | 177 | 1013 | Marianne Louise West |
 | 178 | 1000 | Marie Helman |
@@ -229,7 +229,7 @@
 | 221 | 855 | TRCuse |
 | 222 | 848 | KathyandPhillip Woolard |
 | 223 | 837 | Mahmudul Hasan |
-| 224 | 830 | Thorpedo |
+| 224 | 832 | Thorpedo |
 | 225 | 824 | Jaame Courtney |
 | 226 | 822 | Chrys Peters |
 | 227 | 818 | Jodi Fichter |
@@ -812,53 +812,53 @@
 | 804 | 248 | Jamie Hebert |
 | 805 | 248 | Garrett Newman |
 | 806 | 248 | Kakalina Thayer |
-| 807 | 248 | TaRcY |
-| 808 | 248 | a |
-| 809 | 248 | Buffy Medina |
-| 810 | 248 | Bink |
+| 807 | 248 | a |
+| 808 | 248 | TaRcY |
+| 809 | 248 | Bink |
+| 810 | 248 | Buffy Medina |
 | 811 | 247 | Gina Annese |
 | 812 | 247 | Jonathan Carter |
 | 813 | 247 | Larry Fritzinger |
 | 814 | 247 | Loony Dropzone |
 | 815 | 246 | Felipa Jo Johnson |
 | 816 | 246 | Bouncy Patternzone |
-| 817 | 245 | Bucknut420 |
-| 818 | 245 | Dawg |
-| 819 | 245 | Jessi Godsey |
-| 820 | 245 | Missy Lynn |
-| 821 | 245 | Natasha King |
-| 822 | 245 | Lori Dutton |
-| 823 | 244 | Nicole Brown |
-| 824 | 244 | Angela |
-| 825 | 244 | Sue Foreman |
-| 826 | 243 | Aldona Figiel |
-| 827 | 243 | Tina Jett |
-| 828 | 243 | Rebecca Martin |
-| 829 | 243 | Jennifer Lynn |
-| 830 | 242 | Peachy Curvetile |
-| 831 | 242 | Kimmy White |
-| 832 | 242 | Chummy Curvebuilder |
-| 833 | 242 | Laidene Joseph |
-| 834 | 242 | Courtney Jones |
-| 835 | 241 | Shane Thon |
-| 836 | 241 | mbij21 |
-| 837 | 241 | Christi Ames |
-| 838 | 241 | Belle Olguin |
+| 817 | 246 | Belle Olguin |
+| 818 | 245 | Bucknut420 |
+| 819 | 245 | Dawg |
+| 820 | 245 | Jessi Godsey |
+| 821 | 245 | Missy Lynn |
+| 822 | 245 | Natasha King |
+| 823 | 245 | Lori Dutton |
+| 824 | 244 | Nicole Brown |
+| 825 | 244 | Angela |
+| 826 | 244 | Sue Foreman |
+| 827 | 243 | Aldona Figiel |
+| 828 | 243 | Tina Jett |
+| 829 | 243 | Rebecca Martin |
+| 830 | 243 | Jennifer Lynn |
+| 831 | 242 | Peachy Curvetile |
+| 832 | 242 | Kimmy White |
+| 833 | 242 | Chummy Curvebuilder |
+| 834 | 242 | Laidene Joseph |
+| 835 | 242 | Courtney Jones |
+| 836 | 241 | Christi Ames |
+| 837 | 241 | mbij21 |
+| 838 | 241 | Shane Thon |
 | 839 | 240 | Deandre Young |
 | 840 | 240 | PurpleSnow |
 | 841 | 240 | Jeff Frandsen |
-| 842 | 240 | Fancy Towerfall |
-| 843 | 240 | Spam |
-| 844 | 239 | Stormy May |
-| 845 | 239 | Frilly T-spin |
-| 846 | 238 | Medic205 |
-| 847 | 238 | MaegenMarie Jones |
-| 848 | 238 | Matthew Boudah |
-| 849 | 237 | Zany Mover |
+| 842 | 240 | Blake Gee |
+| 843 | 240 | Fancy Towerfall |
+| 844 | 240 | Spam |
+| 845 | 239 | Stormy May |
+| 846 | 239 | Frilly T-spin |
+| 847 | 238 | Medic205 |
+| 848 | 238 | MaegenMarie Jones |
+| 849 | 238 | Matthew Boudah |
 | 850 | 237 | Tara Lawson |
 | 851 | 237 | Brandon Zachary Anderson |
 | 852 | 237 | Yolanda Quinn |
-| 853 | 237 | Blake Gee |
+| 853 | 237 | Zany Mover |
 | 854 | 236 | Danelle Sulentic |
 | 855 | 236 | Gdiguy |
 | 856 | 236 | Tim Doxtator |
@@ -1191,19 +1191,19 @@
 | 1183 | 157 | Meagan Nicole |
 | 1184 | 156 | Lacey Davis |
 | 1185 | 156 | Sassyshell |
-| 1186 | 156 | StarlessRevenge |
-| 1187 | 155 | Santana Lantana |
-| 1188 | 155 | Kelli Marie |
+| 1186 | 156 | Jason Dickess |
+| 1187 | 156 | StarlessRevenge |
+| 1188 | 155 | Santana Lantana |
 | 1189 | 155 | tox |
-| 1190 | 154 | Nancy Burnside |
-| 1191 | 154 | e |
-| 1192 | 154 | Bri Jackson |
-| 1193 | 153 | Dizzy Tiler |
-| 1194 | 153 | Bryant Rodriguez |
-| 1195 | 153 | Dave Emig |
-| 1196 | 153 | Cheery Wipeblock |
-| 1197 | 153 | Ashley Munn |
-| 1198 | 153 | Jason Dickess |
+| 1190 | 155 | Kelli Marie |
+| 1191 | 154 | Nancy Burnside |
+| 1192 | 154 | e |
+| 1193 | 154 | Bri Jackson |
+| 1194 | 153 | Dizzy Tiler |
+| 1195 | 153 | Bryant Rodriguez |
+| 1196 | 153 | Dave Emig |
+| 1197 | 153 | Cheery Wipeblock |
+| 1198 | 153 | Ashley Munn |
 | 1199 | 153 | Selena Rodriguez |
 | 1200 | 153 | Christi Bouten-Harmon |
 | 1201 | 153 | Joyce Fees |
