@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 08:02:22 UTC
+# Standings for team2 as of 2026-03-17 08:03:22 UTC
 
 **Total Participants:** 2963
 
@@ -249,10 +249,10 @@
 | 241 | 676 | Laura |
 | 242 | 669 | Dondon Cheng |
 | 243 | 669 | Jenni Garcia-Vogelhut |
-| 244 | 668 | Kimmie Zimmerman-Rocha |
-| 245 | 664 | Tausha Colella |
-| 246 | 663 | LolaSmilez |
-| 247 | 660 | Jay |
+| 244 | 669 | Jay |
+| 245 | 668 | Kimmie Zimmerman-Rocha |
+| 246 | 664 | Tausha Colella |
+| 247 | 663 | LolaSmilez |
 | 248 | 659 | Charde Parnell |
 | 249 | 654 | Angela Bonquiqui Dinish |
 | 250 | 653 | Elizabeth Ostrom |
@@ -1633,30 +1633,30 @@
 | 1625 | 87 | Terry Partain |
 | 1626 | 86 | Dizzy Linkpiece |
 | 1627 | 86 | Laurie McGregor |
-| 1628 | 86 | Rosie |
+| 1628 | 86 | Moneygirl |
 | 1629 | 86 | Jeremy Barry |
-| 1630 | 86 | Kitty tet |
+| 1630 | 86 | Rosie |
 | 1631 | 86 | Daquan Rovira |
-| 1632 | 86 | Groovy Builder |
-| 1633 | 85 | Heather Estle |
-| 1634 | 85 | Sarah Arnold |
-| 1635 | 85 | Cozy Clearbuilder |
-| 1636 | 85 | Stacey Sanders |
-| 1637 | 85 | Ys Muhammed |
-| 1638 | 85 | RzrbkParty |
-| 1639 | 85 | Staci Walker |
-| 1640 | 85 | Fred Yslas |
-| 1641 | 85 | DeAnne Geier Wade |
-| 1642 | 84 | Dreamy Puzzler |
-| 1643 | 84 | Jessica Lawson |
-| 1644 | 84 | Brian Marsico |
-| 1645 | 84 | Chill Tilefall |
-| 1646 | 84 | Samantha Massey |
-| 1647 | 84 | Tinkerbell_79 |
-| 1648 | 84 | Shalonda Robinson |
-| 1649 | 84 | Bold Linkpiece |
-| 1650 | 83 | Twisty Tiler |
-| 1651 | 83 | Moneygirl |
+| 1632 | 86 | Kitty tet |
+| 1633 | 86 | Groovy Builder |
+| 1634 | 85 | Heather Estle |
+| 1635 | 85 | Sarah Arnold |
+| 1636 | 85 | Cozy Clearbuilder |
+| 1637 | 85 | Stacey Sanders |
+| 1638 | 85 | Ys Muhammed |
+| 1639 | 85 | RzrbkParty |
+| 1640 | 85 | Staci Walker |
+| 1641 | 85 | Fred Yslas |
+| 1642 | 85 | DeAnne Geier Wade |
+| 1643 | 84 | Dreamy Puzzler |
+| 1644 | 84 | Jessica Lawson |
+| 1645 | 84 | Brian Marsico |
+| 1646 | 84 | Chill Tilefall |
+| 1647 | 84 | Samantha Massey |
+| 1648 | 84 | Tinkerbell_79 |
+| 1649 | 84 | Shalonda Robinson |
+| 1650 | 84 | Bold Linkpiece |
+| 1651 | 83 | Twisty Tiler |
 | 1652 | 83 | Breezy Cascader |
 | 1653 | 83 | gaby |
 | 1654 | 82 | Peppy Zigzag |
@@ -1892,14 +1892,14 @@
 | 1884 | 65 | Cheri Rose |
 | 1885 | 65 | Stephanie Lemerond |
 | 1886 | 65 | BIGDP |
-| 1887 | 64 | Kaycie Brieanne |
+| 1887 | 64 | Monica Daley |
 | 1888 | 64 | Amy |
 | 1889 | 64 | Muffins Hbf |
 | 1890 | 64 | Melissa K Smith |
 | 1891 | 64 | Pamela Togun |
 | 1892 | 64 | Antzy |
 | 1893 | 64 | Candice Bertie |
-| 1894 | 64 | Monica Daley |
+| 1894 | 64 | Kaycie Brieanne |
 | 1895 | 64 | Veronica Uribe |
 | 1896 | 64 | Lenox |
 | 1897 | 64 | Sherice Amber |
@@ -1910,29 +1910,29 @@
 | 1902 | 63 | Kristie Simonds Gaydos |
 | 1903 | 63 | Hannibal Musa |
 | 1904 | 63 | Kimberly Krass |
-| 1905 | 63 | Tre |
-| 1906 | 63 | Tiny Redbeard |
+| 1905 | 63 | Tiny Redbeard |
+| 1906 | 63 | Tre |
 | 1907 | 63 | Melissa Courville |
 | 1908 | 63 | Ma Ri |
-| 1909 | 63 | Jenni Mfb |
-| 1910 | 63 | FuzzyKay |
+| 1909 | 63 | FuzzyKay |
+| 1910 | 63 | Jenni Mfb |
 | 1911 | 63 | Misty |
-| 1912 | 62 | Lobsta |
+| 1912 | 62 | Elizabeth A. Lisa Short |
 | 1913 | 62 | Cool Riser |
-| 1914 | 62 | Frank |
-| 1915 | 62 | Elizabeth A. Lisa Short |
+| 1914 | 62 | Goredo |
+| 1915 | 62 | Frank |
 | 1916 | 62 | Melissa Manser |
-| 1917 | 62 | John Wick |
-| 1918 | 62 | Heidi Miller Caponigro |
-| 1919 | 62 | Snappy Risebuilder |
-| 1920 | 62 | pickle girl |
-| 1921 | 62 | Goredo |
-| 1922 | 62 | LiseePooh |
-| 1923 | 62 | Sierra Spencer |
-| 1924 | 62 | Jennifer Young |
-| 1925 | 62 | Melanie Klump |
-| 1926 | 62 | Chandra |
-| 1927 | 62 | Uuinner |
+| 1917 | 62 | Lobsta |
+| 1918 | 62 | John Wick |
+| 1919 | 62 | Heidi Miller Caponigro |
+| 1920 | 62 | Snappy Risebuilder |
+| 1921 | 62 | pickle girl |
+| 1922 | 62 | Sierra Spencer |
+| 1923 | 62 | Jennifer Young |
+| 1924 | 62 | Melanie Klump |
+| 1925 | 62 | Chandra |
+| 1926 | 62 | Uuinner |
+| 1927 | 62 | LiseePooh |
 | 1928 | 62 | Christin VanNorman |
 | 1929 | 62 | Zesty Wipeout |
 | 1930 | 61 | Loony Stacky |
@@ -1941,9 +1941,9 @@
 | 1933 | 61 | CG2026 |
 | 1934 | 61 | Jody King |
 | 1935 | 61 | Cherie Lee Heid |
-| 1936 | 61 | Kourtney Zarback |
-| 1937 | 61 | DeAnna Jones |
-| 1938 | 61 | Carla B Linker |
+| 1936 | 61 | Carla B Linker |
+| 1937 | 61 | Kourtney Zarback |
+| 1938 | 61 | DeAnna Jones |
 | 1939 | 61 | Hasty Tiler |
 | 1940 | 61 | sas |
 | 1941 | 61 | Claudia Baez |
@@ -1967,55 +1967,55 @@
 | 1959 | 60 | Funky Twistpiece |
 | 1960 | 60 | Brenda Chouinard |
 | 1961 | 60 | DirtDiggler |
-| 1962 | 60 | Misty Hollibaugh |
-| 1963 | 60 | Summer_time |
-| 1964 | 60 | Peachy Pusher |
-| 1965 | 60 | Nyiesha Aikens |
-| 1966 | 60 | Billy Paul |
-| 1967 | 60 | Whitney M Hannah |
-| 1968 | 60 | B1tch |
+| 1962 | 60 | B1tch |
+| 1963 | 60 | Whitney M Hannah |
+| 1964 | 60 | Nyiesha Aikens |
+| 1965 | 60 | Peachy Pusher |
+| 1966 | 60 | Misty Hollibaugh |
+| 1967 | 60 | Summer_time |
+| 1968 | 60 | Billy Paul |
 | 1969 | 60 | iamjustgaming |
 | 1970 | 60 | Nathen Ro Tron |
 | 1971 | 60 | Karyn Yurcho Dooley |
 | 1972 | 60 | Marsha Tyler |
 | 1973 | 60 | Christine Martin |
 | 1974 | 59 | Dre Diehl |
-| 1975 | 59 | Funky Blockpiece |
-| 1976 | 59 | Alex Alex |
-| 1977 | 59 | Cryptomeg |
-| 1978 | 59 | Jumpy Tiler |
-| 1979 | 59 | Odessa Scott |
-| 1980 | 59 | Mindy Stephens |
-| 1981 | 59 | Veronica Duncan |
-| 1982 | 58 | Giggly Winder |
-| 1983 | 58 | cynthia |
-| 1984 | 58 | Jillane Barbee |
-| 1985 | 58 | Marty Bittner |
-| 1986 | 58 | Zany Puzzle |
-| 1987 | 58 | Bryan De Guzman |
-| 1988 | 58 | tee |
-| 1989 | 58 | Joshua |
+| 1975 | 59 | Jumpy Tiler |
+| 1976 | 59 | Mindy Stephens |
+| 1977 | 59 | Veronica Duncan |
+| 1978 | 59 | Odessa Scott |
+| 1979 | 59 | Alex Alex |
+| 1980 | 59 | Cryptomeg |
+| 1981 | 59 | Funky Blockpiece |
+| 1982 | 58 | tee |
+| 1983 | 58 | Zany Puzzle |
+| 1984 | 58 | Giggly Winder |
+| 1985 | 58 | Jillane Barbee |
+| 1986 | 58 | Marty Bittner |
+| 1987 | 58 | Joshua |
+| 1988 | 58 | Bryan De Guzman |
+| 1989 | 58 | cynthia |
 | 1990 | 58 | Cheeky Cascadepiece |
 | 1991 | 58 | Lilly Frost |
 | 1992 | 57 | Tristen Haddock |
 | 1993 | 57 | Dina Mcguire |
-| 1994 | 57 | hellyee |
+| 1994 | 57 | Maria Winston |
 | 1995 | 57 | Elaina Marie Decesare |
-| 1996 | 57 | Lora Sikorski |
-| 1997 | 57 | Dragon Queen |
-| 1998 | 57 | Jumpy Fitblock |
-| 1999 | 57 | Mike Stevens |
-| 2000 | 57 | StephyCue |
-| 2001 | 57 | Maria Winston |
-| 2002 | 57 | Brave Rotator |
-| 2003 | 57 | pTarah |
-| 2004 | 57 | Emily Ackley |
-| 2005 | 57 | Loony Snapper |
-| 2006 | 56 | Lashes |
-| 2007 | 56 | Perky Wipefit |
-| 2008 | 56 | Kendra Hahn |
-| 2009 | 56 | Sudaien |
-| 2010 | 56 | Loony Cascade |
+| 1996 | 57 | hellyee |
+| 1997 | 57 | Lora Sikorski |
+| 1998 | 57 | StephyCue |
+| 1999 | 57 | Jumpy Fitblock |
+| 2000 | 57 | Mike Stevens |
+| 2001 | 57 | Brave Rotator |
+| 2002 | 57 | Dragon Queen |
+| 2003 | 57 | Loony Snapper |
+| 2004 | 57 | pTarah |
+| 2005 | 57 | Emily Ackley |
+| 2006 | 56 | Loony Cascade |
+| 2007 | 56 | Sudaien |
+| 2008 | 56 | Lashes |
+| 2009 | 56 | Perky Wipefit |
+| 2010 | 56 | Kendra Hahn |
 | 2011 | 56 | Nina Donahue |
 | 2012 | 56 | MelQ |
 | 2013 | 56 | Andreas Sanchez |
@@ -2023,36 +2023,36 @@
 | 2015 | 56 | Frisky Blockpiece |
 | 2016 | 55 | Phil |
 | 2017 | 55 | Lyndsi Cirba |
-| 2018 | 55 | Jody Baker |
-| 2019 | 55 | Marcel Perzhu |
-| 2020 | 55 | Poppy Linkpiece |
-| 2021 | 55 | Hyper Stackbuilder |
-| 2022 | 55 | Whitney Douglas |
+| 2018 | 55 | Elizabeth Strickland |
+| 2019 | 55 | Poppy Linkpiece |
+| 2020 | 55 | Katie Wood |
+| 2021 | 55 | Whitney Douglas |
+| 2022 | 55 | Dandy Crasher |
 | 2023 | 55 | Step White |
-| 2024 | 55 | Elizabeth Strickland |
-| 2025 | 55 | Katie Wood |
+| 2024 | 55 | Hyper Stackbuilder |
+| 2025 | 55 | Jody Baker |
 | 2026 | 55 | Chloe S |
-| 2027 | 55 | Tasha Willing |
+| 2027 | 55 | BisquitBandit |
 | 2028 | 55 | Brad Campbell |
-| 2029 | 55 | BisquitBandit |
-| 2030 | 55 | Dandy Crasher |
-| 2031 | 54 | Kindra Ramsey Bray |
-| 2032 | 54 | Robyn Miller |
-| 2033 | 54 | Genevia Wylie |
-| 2034 | 54 | Leshea L Brandi |
-| 2035 | 54 | Wayne Brawley |
-| 2036 | 54 | Andy Barrett |
-| 2037 | 54 | Lisa Hart |
-| 2038 | 54 | Tiffany Hood |
-| 2039 | 54 | Amber Wright |
-| 2040 | 54 | Jo Jo |
-| 2041 | 54 | Natoshya Rae Ramsey |
-| 2042 | 54 | Jay Jarrells |
-| 2043 | 54 | Anna Dalton |
+| 2029 | 55 | Marcel Perzhu |
+| 2030 | 55 | Tasha Willing |
+| 2031 | 54 | Robyn Miller |
+| 2032 | 54 | Tiffany Hood |
+| 2033 | 54 | Lisa Hart |
+| 2034 | 54 | Jay Jarrells |
+| 2035 | 54 | Kindra Ramsey Bray |
+| 2036 | 54 | Meow Meow |
+| 2037 | 54 | Wayne Brawley |
+| 2038 | 54 | Andy Barrett |
+| 2039 | 54 | Darin Benning |
+| 2040 | 54 | Amber Wright |
+| 2041 | 54 | Jo Jo |
+| 2042 | 54 | Leshea L Brandi |
+| 2043 | 54 | Alejandra Tomasa Garcia-ramirez |
 | 2044 | 54 | Luna Serrano |
-| 2045 | 54 | Darin Benning |
-| 2046 | 54 | Alejandra Tomasa Garcia-ramirez |
-| 2047 | 54 | Meow Meow |
+| 2045 | 54 | Natoshya Rae Ramsey |
+| 2046 | 54 | Anna Dalton |
+| 2047 | 54 | Genevia Wylie |
 | 2048 | 54 | Spicy Matchpiece |
 | 2049 | 54 | Justin Freeman |
 | 2050 | 54 | Jaimie Lynn Casias |
@@ -2060,76 +2060,76 @@
 | 2052 | 54 | Darr Darr |
 | 2053 | 54 | Gracie Olmstead |
 | 2054 | 54 | Johndayi Graves |
-| 2055 | 53 | MOK |
-| 2056 | 53 | Dawn Michelle Scheible |
-| 2057 | 53 | Kelly Shelffo |
-| 2058 | 53 | Cozy Shatterfit |
-| 2059 | 53 | Undeniable pogo |
-| 2060 | 53 | Hediyuda |
-| 2061 | 53 | BlockHead12 |
-| 2062 | 53 | Sade Ebanks |
-| 2063 | 53 | Baker835 |
-| 2064 | 53 | Goofy Filler |
-| 2065 | 53 | Chad Watson |
-| 2066 | 53 | Drew Kim |
-| 2067 | 53 | Elizabeth Washburn |
-| 2068 | 52 | Jason Pence |
-| 2069 | 52 | Slinky Tile |
-| 2070 | 52 | Cheei |
-| 2071 | 52 | Kimberly Christine Sherwood |
-| 2072 | 52 | Lush Clusterfit |
-| 2073 | 52 | Donna Brooks |
-| 2074 | 52 | Jessica Santana |
-| 2075 | 52 | Tim HyunWoo Lee |
+| 2055 | 53 | Cozy Shatterfit |
+| 2056 | 53 | Undeniable pogo |
+| 2057 | 53 | Hediyuda |
+| 2058 | 53 | Drew Kim |
+| 2059 | 53 | BlockHead12 |
+| 2060 | 53 | Chad Watson |
+| 2061 | 53 | Dawn Michelle Scheible |
+| 2062 | 53 | MOK |
+| 2063 | 53 | Sade Ebanks |
+| 2064 | 53 | Elizabeth Washburn |
+| 2065 | 53 | Kelly Shelffo |
+| 2066 | 53 | Baker835 |
+| 2067 | 53 | Goofy Filler |
+| 2068 | 52 | Kimberly Christine Sherwood |
+| 2069 | 52 | Jason Pence |
+| 2070 | 52 | Lush Clusterfit |
+| 2071 | 52 | Liz Pollock |
+| 2072 | 52 | Cheei |
+| 2073 | 52 | Jessica Santana |
+| 2074 | 52 | Tim HyunWoo Lee |
+| 2075 | 52 | Donna Brooks |
 | 2076 | 52 | silla |
-| 2077 | 52 | Heather Gallick |
-| 2078 | 51 | Moose |
-| 2079 | 51 | Rob Graves |
-| 2080 | 51 | Peaches |
-| 2081 | 51 | Jenny Gingrich Fuentes |
-| 2082 | 51 | Lynn Nevins-Landry |
-| 2083 | 51 | Flashy Blast |
-| 2084 | 51 | Penny Palmer |
-| 2085 | 51 | Schie |
-| 2086 | 51 | Bubbly Clearbuilder |
-| 2087 | 51 | Diane D-block Wade |
-| 2088 | 51 | Ellie |
-| 2089 | 51 | Anthony Jolly |
-| 2090 | 51 | Yuck Fou |
-| 2091 | 51 | Ashley Covais |
+| 2077 | 52 | Slinky Tile |
+| 2078 | 52 | Heather Gallick |
+| 2079 | 51 | Moose |
+| 2080 | 51 | Rob Graves |
+| 2081 | 51 | Flashy Blast |
+| 2082 | 51 | Penny Palmer |
+| 2083 | 51 | Schie |
+| 2084 | 51 | Yuck Fou |
+| 2085 | 51 | Bubbly Clearbuilder |
+| 2086 | 51 | Ashley Covais |
+| 2087 | 51 | Lynn Nevins-Landry |
+| 2088 | 51 | Diane D-block Wade |
+| 2089 | 51 | Peaches |
+| 2090 | 51 | Ellie |
+| 2091 | 51 | Anthony Jolly |
 | 2092 | 51 | SassyLlam |
-| 2093 | 50 | Cladius O Atkinson |
-| 2094 | 50 | Katy Timmons |
-| 2095 | 50 | Tee Tee Nicole |
-| 2096 | 50 | Glitzy Matchbuilder |
-| 2097 | 50 | Sam Martinez |
+| 2093 | 51 | Jenny Gingrich Fuentes |
+| 2094 | 50 | Cladius O Atkinson |
+| 2095 | 50 | Glitzy Matchbuilder |
+| 2096 | 50 | Norma Jean |
+| 2097 | 50 | Cassia Ann Carrasquillo |
 | 2098 | 50 | David Ysidron |
-| 2099 | 50 | Cassia Ann Carrasquillo |
-| 2100 | 50 | Norma Jean |
-| 2101 | 50 | Shaunda Thompson |
-| 2102 | 50 | April C Theriault Foote |
-| 2103 | 50 | nogo |
-| 2104 | 50 | Lynette Manning |
+| 2099 | 50 | Shaunda Thompson |
+| 2100 | 50 | April C Theriault Foote |
+| 2101 | 50 | Sam Martinez |
+| 2102 | 50 | nogo |
+| 2103 | 50 | Lynette Manning |
+| 2104 | 50 | Tee Tee Nicole |
 | 2105 | 50 | Brittany Ditzler |
-| 2106 | 50 | Giddy Shatterbuilder |
-| 2107 | 50 | Peppy Piecebuilder |
-| 2108 | 50 | Jonathon Michaels |
-| 2109 | 50 | Desiree Cochran-Norfolk |
-| 2110 | 49 | MsFrizzle |
-| 2111 | 49 | Estefa The Architect |
-| 2112 | 49 | Zesty Dashy |
+| 2106 | 50 | Peppy Piecebuilder |
+| 2107 | 50 | Giddy Shatterbuilder |
+| 2108 | 50 | Katy Timmons |
+| 2109 | 50 | Jonathon Michaels |
+| 2110 | 50 | Desiree Cochran-Norfolk |
+| 2111 | 49 | MsFrizzle |
+| 2112 | 49 | Estefa The Architect |
 | 2113 | 49 | Scarlet Dusosky |
-| 2114 | 49 | Trina Perry |
-| 2115 | 49 | Misty Altice |
-| 2116 | 49 | Spunky Catcher |
-| 2117 | 49 | KAP |
-| 2118 | 49 | Witty Tilemaker |
-| 2119 | 49 | Boldy Columnbuilder |
-| 2120 | 49 | Chilly Towerfall |
-| 2121 | 49 | Liz Pollock |
-| 2122 | 48 | Heather G Cooley |
-| 2123 | 48 | Nicholas Bednarz |
-| 2124 | 48 | Ryan Delaney |
+| 2114 | 49 | Zesty Dashy |
+| 2115 | 49 | KAP |
+| 2116 | 49 | Witty Tilemaker |
+| 2117 | 49 | Chilly Towerfall |
+| 2118 | 49 | Boldy Columnbuilder |
+| 2119 | 49 | Spunky Catcher |
+| 2120 | 49 | Misty Altice |
+| 2121 | 49 | Trina Perry |
+| 2122 | 48 | Ryan Delaney |
+| 2123 | 48 | Heather G Cooley |
+| 2124 | 48 | Nicholas Bednarz |
 | 2125 | 48 | Farrah KS Deloney |
 | 2126 | 48 | Frilly Dropmatch |
 | 2127 | 48 | Shiny Zonepiece |
