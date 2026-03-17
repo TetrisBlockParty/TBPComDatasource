@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 09:13:19 UTC
+# Standings for team1 as of 2026-03-17 09:14:23 UTC
 
 **Total Participants:** 2965
 
@@ -176,8 +176,8 @@
 | 168 | 1032 | Sunny Swiper |
 | 169 | 1019 | Amy R Clinton |
 | 170 | 1015 | Joy Bloodworth |
-| 171 | 1013 | Snippy Stacky |
-| 172 | 1011 | Marianne Louise West |
+| 171 | 1013 | Marianne Louise West |
+| 172 | 1013 | Snippy Stacky |
 | 173 | 998 | Nyki Marie |
 | 174 | 993 | Matt Aguilar |
 | 175 | 989 | Donavon Krahn |
@@ -366,8 +366,8 @@
 | 358 | 525 | Cheeky Blocky |
 | 359 | 525 | Lisa Marie Sansom |
 | 360 | 523 | Mandy Stevenson |
-| 361 | 522 | Megan Phillips |
-| 362 | 520 | Boldy Clicky |
+| 361 | 522 | Boldy Clicky |
+| 362 | 522 | Megan Phillips |
 | 363 | 520 | Allen Scott |
 | 364 | 519 | Randy Clevenger |
 | 365 | 517 | Black Rubix |
@@ -1193,25 +1193,25 @@
 | 1185 | 146 | Dandy Snapper |
 | 1186 | 146 | Branden Blanch |
 | 1187 | 145 | Cool Slice |
-| 1188 | 145 | GoobaGoo67 |
+| 1188 | 145 | Pazerjonez |
 | 1189 | 145 | Countryboy Will Survive |
-| 1190 | 145 | Perky Clusterbuilder |
+| 1190 | 145 | GoobaGoo67 |
 | 1191 | 145 | Lakesha Jackson- Anderson |
-| 1192 | 145 | Rudas |
-| 1193 | 144 | Pazerjonez |
+| 1192 | 145 | Perky Clusterbuilder |
+| 1193 | 145 | Rudas |
 | 1194 | 144 | Taquita Robinson |
 | 1195 | 144 | Aigner Monae |
 | 1196 | 144 | Sassyshell |
 | 1197 | 143 | Mike Collar |
 | 1198 | 143 | Victoria Montenegro Martinez |
 | 1199 | 143 | Crystal Conklin |
-| 1200 | 142 | Tara Spencer |
+| 1200 | 142 | Ramona Powell |
 | 1201 | 142 | Tania Flores |
 | 1202 | 142 | Smiley Clicky |
 | 1203 | 142 | rance |
-| 1204 | 142 | Snapdragon |
-| 1205 | 142 | Daring Blockmatch |
-| 1206 | 142 | Ramona Powell |
+| 1204 | 142 | Tara Spencer |
+| 1205 | 142 | Snapdragon |
+| 1206 | 142 | Daring Blockmatch |
 | 1207 | 141 | Flashy Dasher |
 | 1208 | 141 | Purple Pixie |
 | 1209 | 141 | Conklin Laura |
@@ -1867,153 +1867,153 @@
 | 1859 | 65 | Larry McRae |
 | 1860 | 65 | Tbuzz |
 | 1861 | 65 | Grace Leigh |
-| 1862 | 65 | TexasLeaguer |
-| 1863 | 65 | Mercedes Gates |
-| 1864 | 65 | belinda rocky |
-| 1865 | 65 | Alex Gibney |
+| 1862 | 65 | Mercedes Gates |
+| 1863 | 65 | Alex Gibney |
+| 1864 | 65 | TexasLeaguer |
+| 1865 | 65 | belinda rocky |
 | 1866 | 64 | Gerold Folk Haddock |
-| 1867 | 64 | key |
-| 1868 | 64 | Oscar Ferguson |
-| 1869 | 64 | Nikki |
-| 1870 | 64 | Fred Dodson |
-| 1871 | 64 | Nena |
-| 1872 | 64 | Kat Kath |
-| 1873 | 64 | Shrimp0711 |
-| 1874 | 64 | Bouncy Catcher |
-| 1875 | 64 | Tipsy Rotate |
-| 1876 | 64 | Chastity Nicole |
+| 1867 | 64 | Tipsy Rotate |
+| 1868 | 64 | Chastity Nicole |
+| 1869 | 64 | Nena |
+| 1870 | 64 | Kat Kath |
+| 1871 | 64 | key |
+| 1872 | 64 | Oscar Ferguson |
+| 1873 | 64 | Bouncy Catcher |
+| 1874 | 64 | Nikki |
+| 1875 | 64 | Shrimp0711 |
+| 1876 | 64 | Fred Dodson |
 | 1877 | 64 | Krista Banks |
 | 1878 | 63 | Schwing! |
-| 1879 | 63 | Breezy Linkgrid |
-| 1880 | 63 | Annette Jordan |
-| 1881 | 63 | Jaime Wilson |
+| 1879 | 63 | Marisa Tesch |
+| 1880 | 63 | flip |
+| 1881 | 63 | HAWAIIANPUNCCH |
 | 1882 | 63 | Witty Dasher |
-| 1883 | 63 | HAWAIIANPUNCCH |
-| 1884 | 63 | flip |
-| 1885 | 63 | Bubbly Corner |
-| 1886 | 63 | Linda Mccratic |
-| 1887 | 63 | frasls |
-| 1888 | 63 | Danielle Alexis |
-| 1889 | 63 | Nathanul Vogel |
-| 1890 | 63 | ChaosNCatHair |
+| 1883 | 63 | Linda Mccratic |
+| 1884 | 63 | Annette Jordan |
+| 1885 | 63 | ChaosNCatHair |
+| 1886 | 63 | Bubbly Corner |
+| 1887 | 63 | Breezy Linkgrid |
+| 1888 | 63 | frasls |
+| 1889 | 63 | Jaime Wilson |
+| 1890 | 63 | Giggy Brickmatch |
 | 1891 | 63 | Nicole Williams |
-| 1892 | 63 | Marisa Tesch |
-| 1893 | 63 | Giggy Brickmatch |
-| 1894 | 62 | kjo |
+| 1892 | 63 | Nathanul Vogel |
+| 1893 | 63 | Danielle Alexis |
+| 1894 | 62 | Funky Strikerbuilder |
 | 1895 | 62 | Andrew Saltonstall |
-| 1896 | 62 | Roberta da Silva-Lowery |
-| 1897 | 62 | Giddy Catcher |
-| 1898 | 62 | 4HisGlory43 |
-| 1899 | 62 | Tabby |
-| 1900 | 62 | AJ |
-| 1901 | 62 | Joyce Dimitt Horn |
-| 1902 | 62 | SoL |
-| 1903 | 62 | Dacotah Robinson |
-| 1904 | 62 | Funky Strikerbuilder |
-| 1905 | 62 | Phoenix Garrett |
-| 1906 | 62 | cool kat |
-| 1907 | 62 | Seymour Christy |
-| 1908 | 62 | Smin |
+| 1896 | 62 | Tabby |
+| 1897 | 62 | AJ |
+| 1898 | 62 | Roberta da Silva-Lowery |
+| 1899 | 62 | Giddy Catcher |
+| 1900 | 62 | 4HisGlory43 |
+| 1901 | 62 | Seymour Christy |
+| 1902 | 62 | Phoenix Garrett |
+| 1903 | 62 | Joyce Dimitt Horn |
+| 1904 | 62 | cool kat |
+| 1905 | 62 | SoL |
+| 1906 | 62 | Dacotah Robinson |
+| 1907 | 62 | Smin |
+| 1908 | 62 | kjo |
 | 1909 | 62 | Hoppy Balanceblock |
-| 1910 | 61 | Sunny Glidebuilder |
-| 1911 | 61 | Hoppy Tiltpiece |
-| 1912 | 61 | Hi |
-| 1913 | 61 | ChasingZen |
-| 1914 | 61 | Blata |
-| 1915 | 61 | colt |
-| 1916 | 61 | Joanne Marie |
+| 1910 | 61 | Kiley |
+| 1911 | 61 | Sunny Glidebuilder |
+| 1912 | 61 | ChasingZen |
+| 1913 | 61 | Blata |
+| 1914 | 61 | Hoppy Tiltpiece |
+| 1915 | 61 | Hi |
+| 1916 | 61 | Heidee |
 | 1917 | 61 | Zesty Piececlear |
-| 1918 | 61 | Ryan Cabler |
-| 1919 | 61 | Hyper Corner |
-| 1920 | 61 | Kiley |
-| 1921 | 61 | Rob Taylor |
-| 1922 | 61 | Montez Montez |
-| 1923 | 61 | Heidee |
-| 1924 | 61 | Sherlyn Zavala |
+| 1918 | 61 | Sherlyn Zavala |
+| 1919 | 61 | Montez Montez |
+| 1920 | 61 | Ryan Cabler |
+| 1921 | 61 | Hyper Corner |
+| 1922 | 61 | Rob Taylor |
+| 1923 | 61 | Joanne Marie |
+| 1924 | 61 | colt |
 | 1925 | 61 | Y ve |
 | 1926 | 61 | Tracy Marino |
-| 1927 | 60 | Iliana Figueroa |
-| 1928 | 60 | Natalie Wilson |
+| 1927 | 60 | Christina Spencer |
+| 1928 | 60 | Cleopatra Sims |
 | 1929 | 60 | Christopher Cutler |
-| 1930 | 60 | Shiny Pivoty |
-| 1931 | 60 | Christina Spencer |
-| 1932 | 60 | Shannel Keaton Boedecker |
-| 1933 | 60 | Cleopatra Sims |
-| 1934 | 60 | Crafty Twistslam |
-| 1935 | 60 | Alvin White |
-| 1936 | 60 | Christina Rodriguez |
-| 1937 | 60 | Witty Towerfit |
-| 1938 | 60 | James Martin |
-| 1939 | 60 | Franklin Danner |
-| 1940 | 60 | Memphis Kash |
-| 1941 | 60 | Heather Walters |
-| 1942 | 60 | EspyBlue |
-| 1943 | 60 | Dan Haskins |
-| 1944 | 60 | Tazz |
-| 1945 | 60 | Dick J Bohle |
-| 1946 | 60 | Goofy Cluster |
-| 1947 | 60 | Michele Kleven-Simon |
+| 1930 | 60 | Witty Towerfit |
+| 1931 | 60 | Goofy Cluster |
+| 1932 | 60 | Tazz |
+| 1933 | 60 | Natalie Wilson |
+| 1934 | 60 | Iliana Figueroa |
+| 1935 | 60 | Shiny Pivoty |
+| 1936 | 60 | Shannel Keaton Boedecker |
+| 1937 | 60 | Dan Haskins |
+| 1938 | 60 | Memphis Kash |
+| 1939 | 60 | Heather Walters |
+| 1940 | 60 | Michele Kleven-Simon |
+| 1941 | 60 | Alvin White |
+| 1942 | 60 | Christina Rodriguez |
+| 1943 | 60 | James Martin |
+| 1944 | 60 | Franklin Danner |
+| 1945 | 60 | Crafty Twistslam |
+| 1946 | 60 | Dick J Bohle |
+| 1947 | 60 | EspyBlue |
 | 1948 | 60 | Angel Pham |
 | 1949 | 59 | Penelope Jones |
 | 1950 | 59 | Shiny Caster |
-| 1951 | 59 | al |
-| 1952 | 59 | Speedy Towerzone |
+| 1951 | 59 | Jeffrey Adams |
+| 1952 | 59 | Peter HM Han |
 | 1953 | 59 | Loony Spinblock |
-| 1954 | 59 | Rocky Papaboy |
-| 1955 | 59 | Cool Dasher |
-| 1956 | 59 | Allison JG |
-| 1957 | 59 | Ruthann Perry |
-| 1958 | 59 | Peter HM Han |
-| 1959 | 59 | Angie Ferris |
-| 1960 | 59 | GoatHimothy |
-| 1961 | 59 | Zappy Snapper |
-| 1962 | 59 | Billiejo Bowling |
-| 1963 | 58 | Christopher Tilley |
+| 1954 | 59 | Allison JG |
+| 1955 | 59 | Speedy Towerzone |
+| 1956 | 59 | Angie Ferris |
+| 1957 | 59 | GoatHimothy |
+| 1958 | 59 | Billiejo Bowling |
+| 1959 | 59 | Zappy Snapper |
+| 1960 | 59 | al |
+| 1961 | 59 | Ruthann Perry |
+| 1962 | 59 | Cool Dasher |
+| 1963 | 59 | Rocky Papaboy |
 | 1964 | 58 | Magic Meli |
 | 1965 | 58 | Clever Linkroll |
-| 1966 | 58 | Adam A-Boogie |
-| 1967 | 58 | Clifford Greeniv |
-| 1968 | 58 | Krystal Schaefer |
-| 1969 | 57 | Carrie Goodrich |
-| 1970 | 57 | Thejonesman |
-| 1971 | 57 | mindgames |
-| 1972 | 57 | Nicole Casey Langley |
-| 1973 | 57 | Jeffrey Adams |
-| 1974 | 57 | Spicy Builderfit |
-| 1975 | 57 | Nestor san |
-| 1976 | 57 | Zesty Piececlear |
-| 1977 | 57 | Octavia Bryson |
+| 1966 | 58 | Christopher Tilley |
+| 1967 | 58 | Adam A-Boogie |
+| 1968 | 58 | Clifford Greeniv |
+| 1969 | 58 | Krystal Schaefer |
+| 1970 | 57 | Carrie Goodrich |
+| 1971 | 57 | Thejonesman |
+| 1972 | 57 | Octavia Bryson |
+| 1973 | 57 | Zesty Piececlear |
+| 1974 | 57 | mindgames |
+| 1975 | 57 | Bubbly Chiseler |
+| 1976 | 57 | Martel DeAndre |
+| 1977 | 57 | Frisky Glidebuilder |
 | 1978 | 57 | Theresa Franklin Stevens |
-| 1979 | 57 | Frisky Glidebuilder |
-| 1980 | 57 | Bubbly Chiseler |
-| 1981 | 57 | Martel DeAndre |
-| 1982 | 57 | Tabitha Calvin |
-| 1983 | 56 | Dana McLelland |
-| 1984 | 56 | Dilpik |
-| 1985 | 56 | Mario Cab |
-| 1986 | 56 | TrillVille |
+| 1979 | 57 | Tabitha Calvin |
+| 1980 | 57 | Nestor san |
+| 1981 | 57 | Spicy Builderfit |
+| 1982 | 57 | Nicole Casey Langley |
+| 1983 | 56 | Rissa |
+| 1984 | 56 | TrillVille |
+| 1985 | 56 | Dana McLelland |
+| 1986 | 56 | Speedy Rollpiece |
 | 1987 | 56 | Kaitlyn Mambro |
-| 1988 | 56 | Rissa |
-| 1989 | 56 | Smiley Combo |
-| 1990 | 56 | Lively Clusterfit |
-| 1991 | 56 | bam |
-| 1992 | 56 | Cozy Patternbuilder |
-| 1993 | 56 | Speedy Rollpiece |
+| 1988 | 56 | Dilpik |
+| 1989 | 56 | Lively Clusterfit |
+| 1990 | 56 | Mario Cab |
+| 1991 | 56 | Cozy Patternbuilder |
+| 1992 | 56 | bam |
+| 1993 | 56 | Smiley Combo |
 | 1994 | 56 | Sarah Jean |
 | 1995 | 55 | Speedy Patternfit |
-| 1996 | 55 | Giggly Twistslam |
-| 1997 | 55 | Danita Banks |
-| 1998 | 55 | Shena Cunningham |
-| 1999 | 55 | Venus Daniels |
-| 2000 | 55 | Alexus Goncalo |
-| 2001 | 55 | Jason S |
-| 2002 | 55 | slim |
-| 2003 | 55 | Deborah |
-| 2004 | 55 | Bridgette Ramey |
-| 2005 | 55 | Kenzo Leigh Stout |
-| 2006 | 55 | Laura DeWitt |
-| 2007 | 55 | teezybe25 |
-| 2008 | 55 | Dionie Pina |
+| 1996 | 55 | Danita Banks |
+| 1997 | 55 | Dionie Pina |
+| 1998 | 55 | Alexus Goncalo |
+| 1999 | 55 | Jason S |
+| 2000 | 55 | Giggly Twistslam |
+| 2001 | 55 | slim |
+| 2002 | 55 | Bridgette Ramey |
+| 2003 | 55 | Kenzo Leigh Stout |
+| 2004 | 55 | teezybe25 |
+| 2005 | 55 | Laura DeWitt |
+| 2006 | 55 | Deborah |
+| 2007 | 55 | Venus Daniels |
+| 2008 | 55 | Shena Cunningham |
 | 2009 | 54 | Bumpy Morris |
 | 2010 | 54 | Fancy Cluster |
 | 2011 | 54 | Justin Harmon |
