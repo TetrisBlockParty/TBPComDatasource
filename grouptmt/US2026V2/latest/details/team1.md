@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 09:30:21 UTC
+# Standings for team1 as of 2026-03-17 09:30:45 UTC
 
 **Total Participants:** 2967
 
@@ -193,18 +193,18 @@
 | 185 | 948 | Bigg Guy |
 | 186 | 947 | Smashanator |
 | 187 | 938 | April Carroll |
-| 188 | 934 | Matthew Bunn |
-| 189 | 932 | LeeAnn Martindale |
-| 190 | 930 | Jess Rose |
-| 191 | 926 | Al Smith Jr |
-| 192 | 925 | Tyle Armstead |
-| 193 | 916 | Kelly Owens |
-| 194 | 916 | Beth Anderson |
-| 195 | 913 | Nick Kozdron |
-| 196 | 908 | Marie Helman |
-| 197 | 906 | Irene Medina |
-| 198 | 906 | Bubbly Staggerpiece |
-| 199 | 904 | Stefanie Champion |
+| 188 | 934 | Stefanie Champion |
+| 189 | 934 | Matthew Bunn |
+| 190 | 932 | LeeAnn Martindale |
+| 191 | 930 | Jess Rose |
+| 192 | 926 | Al Smith Jr |
+| 193 | 925 | Tyle Armstead |
+| 194 | 916 | Kelly Owens |
+| 195 | 916 | Beth Anderson |
+| 196 | 913 | Nick Kozdron |
+| 197 | 908 | Marie Helman |
+| 198 | 906 | Irene Medina |
+| 199 | 906 | Bubbly Staggerpiece |
 | 200 | 901 | Jumpy Spinblock |
 | 201 | 898 | Nikita Nelson |
 | 202 | 895 | Mighty Patternbuilder |
@@ -407,40 +407,40 @@
 | 399 | 462 | Jeff Brian Gates |
 | 400 | 462 | Wacky Balancer |
 | 401 | 461 | Trina Gee |
-| 402 | 459 | Stephanie M Dabson |
-| 403 | 459 | Josh Barringer |
+| 402 | 459 | Josh Barringer |
+| 403 | 459 | Stephanie M Dabson |
 | 404 | 457 | Erica Catherine |
 | 405 | 456 | freakyjoe |
-| 406 | 455 | QueenBee |
-| 407 | 455 | DoodleBug |
+| 406 | 455 | DoodleBug |
+| 407 | 455 | QueenBee |
 | 408 | 455 | Armin Muhamed |
 | 409 | 454 | Marshell Harris |
 | 410 | 452 | Jason Hawk |
-| 411 | 452 | Amber LR Sutter |
-| 412 | 452 | Aponk |
+| 411 | 452 | Aponk |
+| 412 | 452 | Amber LR Sutter |
 | 413 | 446 | Jonnelle Partin |
 | 414 | 445 | Ciara Nunez |
-| 415 | 444 | Chris Bernstein |
-| 416 | 444 | Melissa Arrellano |
-| 417 | 442 | Moretattsdenscars |
-| 418 | 442 | Jasmine Riley |
-| 419 | 441 | Nicole Plummer |
-| 420 | 441 | Courtney Leigh Deiber |
+| 415 | 444 | Melissa Arrellano |
+| 416 | 444 | Chris Bernstein |
+| 417 | 442 | Jasmine Riley |
+| 418 | 442 | Moretattsdenscars |
+| 419 | 441 | Courtney Leigh Deiber |
+| 420 | 441 | Nicole Plummer |
 | 421 | 440 | Dude |
 | 422 | 438 | Groovy Glidepiece |
 | 423 | 431 | KoDaK |
 | 424 | 430 | Mama Becky |
-| 425 | 428 | Hasty Lift |
-| 426 | 428 | Amber Lingerfelt |
+| 425 | 428 | Amber Lingerfelt |
+| 426 | 428 | Hasty Lift |
 | 427 | 427 | Giggly Brickroll |
 | 428 | 426 | Quirky Crawler |
 | 429 | 424 | Mighty Clear |
 | 430 | 424 | Dennis Eitler |
 | 431 | 421 | Lazy Dashpiece |
 | 432 | 420 | Dapper Twistline |
-| 433 | 418 | bounce back |
+| 433 | 418 | Laura Morrison |
 | 434 | 418 | Chill Matchzone |
-| 435 | 418 | Laura Morrison |
+| 435 | 418 | bounce back |
 | 436 | 418 | Peachy Snaplink |
 | 437 | 415 | Tina Kocher Zimmerman |
 | 438 | 414 | Casey Babb |
@@ -452,57 +452,57 @@
 | 444 | 406 | Nathan Sealander |
 | 445 | 405 | Hasty Towerpiece |
 | 446 | 405 | tazd0629 |
-| 447 | 404 | Bingo Wingo |
-| 448 | 404 | Kristie Ballestin |
+| 447 | 404 | Kristie Ballestin |
+| 448 | 404 | Bingo Wingo |
 | 449 | 402 | Lee Sipelii |
-| 450 | 401 | Michael Meyer |
-| 451 | 401 | Tausha Mathews |
-| 452 | 399 | Julie Seal |
-| 453 | 399 | Stephen Glaze |
-| 454 | 399 | Foulplay176 |
-| 455 | 399 | Jason Nathaniel Caniff |
+| 450 | 401 | Tausha Mathews |
+| 451 | 401 | Michael Meyer |
+| 452 | 399 | Foulplay176 |
+| 453 | 399 | Jason Nathaniel Caniff |
+| 454 | 399 | Stephen Glaze |
+| 455 | 399 | Julie Seal |
 | 456 | 398 | Ken Wada Jr. |
 | 457 | 398 | Chipper Balancepiece |
 | 458 | 398 | Cassie Lathem |
 | 459 | 397 | Quirky Dashy |
-| 460 | 397 | Kay Alifi |
-| 461 | 397 | Beka |
-| 462 | 396 | Vergie Michael |
-| 463 | 396 | Jr_420 |
-| 464 | 395 | Tiffany McLeod |
-| 465 | 394 | Stacy Rodriguez |
-| 466 | 394 | Daring Shuffler |
-| 467 | 392 | Evy |
-| 468 | 390 | Sissy Lowery Davis |
-| 469 | 389 | Twisty Snapfit |
+| 460 | 397 | Beka |
+| 461 | 397 | Fancy Cascadebuilder |
+| 462 | 397 | Kay Alifi |
+| 463 | 396 | Vergie Michael |
+| 464 | 396 | Jr_420 |
+| 465 | 395 | Tiffany McLeod |
+| 466 | 394 | Stacy Rodriguez |
+| 467 | 394 | Daring Shuffler |
+| 468 | 392 | Evy |
+| 469 | 390 | Sissy Lowery Davis |
 | 470 | 389 | Shiny Shiftspin |
-| 471 | 389 | Fancy Cascadebuilder |
-| 472 | 389 | Jessica Butler |
-| 473 | 389 | Sunny Linkpiece |
+| 471 | 389 | Sunny Linkpiece |
+| 472 | 389 | Twisty Snapfit |
+| 473 | 389 | Jessica Butler |
 | 474 | 389 | Dizzy Glidebuilder |
 | 475 | 387 | BostonCrypto |
 | 476 | 387 | Dī Kuykendall |
 | 477 | 385 | SpaceCase085 |
 | 478 | 384 | Erin Hodges Plumb |
 | 479 | 381 | Ambrosia Natas Danu |
-| 480 | 380 | Ash |
-| 481 | 380 | Noah |
+| 480 | 380 | Noah |
+| 481 | 380 | Ash |
 | 482 | 379 | Ernesto Chavera |
 | 483 | 379 | Kendra Newton |
 | 484 | 377 | Taco Taco |
 | 485 | 376 | Samantha Crowley |
 | 486 | 376 | Dicfitzwel |
 | 487 | 374 | Sabra Fisher |
-| 488 | 373 | shelly |
-| 489 | 373 | BingoStarr |
+| 488 | 373 | BingoStarr |
+| 489 | 373 | shelly |
 | 490 | 372 | Boldy Twisterfit |
-| 491 | 370 | Snippy Line |
-| 492 | 370 | Zachary Moran |
+| 491 | 370 | Zachary Moran |
+| 492 | 370 | Snippy Line |
 | 493 | 368 | Happy Shatterfit |
 | 494 | 367 | Connor Jurzynski |
-| 495 | 367 | Kelly Miller Williams |
-| 496 | 367 | Jennie Lee Huntley |
-| 497 | 367 | Breezy Wiper |
+| 495 | 367 | Jennie Lee Huntley |
+| 496 | 367 | Breezy Wiper |
+| 497 | 367 | Kelly Miller Williams |
 | 498 | 366 | Joyce Harrell-chavis |
 | 499 | 366 | MammaCass |
 | 500 | 366 | Dizzy Stackbuilder |
@@ -1131,12 +1131,12 @@
 | 1123 | 159 | Mathhew Tompkins |
 | 1124 | 159 | Melissa Stephens D Tenorio |
 | 1125 | 159 | Jenny Stratton Cozart |
-| 1126 | 159 | Happy Blocky |
-| 1127 | 159 | Monet Laronda Wilson |
-| 1128 | 158 | Kristy Burch Sells |
-| 1129 | 158 | DeJuan Green |
-| 1130 | 158 | Jordan Ward |
-| 1131 | 158 | Silly Strikerbuilder |
+| 1126 | 159 | Silly Strikerbuilder |
+| 1127 | 159 | Happy Blocky |
+| 1128 | 159 | Monet Laronda Wilson |
+| 1129 | 158 | Kristy Burch Sells |
+| 1130 | 158 | DeJuan Green |
+| 1131 | 158 | Jordan Ward |
 | 1132 | 158 | Christie Love |
 | 1133 | 157 | Isabel Ocasio |
 | 1134 | 157 | Kora Catherine |

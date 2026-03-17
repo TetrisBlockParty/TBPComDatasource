@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 09:30:21 UTC
+# Standings for team2 as of 2026-03-17 09:30:45 UTC
 
 **Total Participants:** 2970
 
@@ -827,9 +827,9 @@
 | 819 | 226 | Wishabishwood |
 | 820 | 226 | Deborah Potts |
 | 821 | 226 | Sandra Belk |
-| 822 | 225 | Robert Fenton |
-| 823 | 225 | Nice queen |
-| 824 | 225 | Bubbl3s |
+| 822 | 225 | Bubbl3s |
+| 823 | 225 | Robert Fenton |
+| 824 | 225 | Nice queen |
 | 825 | 224 | Lisa Parr |
 | 826 | 224 | Goofy Snapfit |
 | 827 | 224 | Haley Bell |
@@ -839,29 +839,29 @@
 | 831 | 223 | Swanky Tile |
 | 832 | 222 | Jennifer Monroe Kelly |
 | 833 | 222 | Jeremy Steines |
-| 834 | 222 | MrMais89 |
-| 835 | 221 | Elizabeth Reliford |
-| 836 | 220 | Ashley Grace |
-| 837 | 220 | Jeremiah Gensler |
-| 838 | 220 | Susan Valentino |
-| 839 | 220 | Stephanie Reust Camp |
+| 834 | 222 | bruggy |
+| 835 | 222 | MrMais89 |
+| 836 | 221 | Elizabeth Reliford |
+| 837 | 220 | Ashley Grace |
+| 838 | 220 | Jeremiah Gensler |
+| 839 | 220 | Susan Valentino |
 | 840 | 220 | Leah-Perle Bloomenstein |
-| 841 | 219 | Katie Coyle |
-| 842 | 219 | Danielle Davis Speir |
-| 843 | 219 | May May |
-| 844 | 218 | bruggy |
-| 845 | 218 | Steady Treal |
-| 846 | 218 | Nerdy Stacky |
+| 841 | 220 | Stephanie Reust Camp |
+| 842 | 219 | May May |
+| 843 | 219 | Danielle Davis Speir |
+| 844 | 219 | Katie Coyle |
+| 845 | 218 | Nerdy Stacky |
+| 846 | 218 | Steady Treal |
 | 847 | 217 | Chummy Linkgrid |
 | 848 | 217 | Luna Locke |
-| 849 | 216 | Briana Hargett |
-| 850 | 216 | Tamara Cordero |
+| 849 | 216 | Zany Climber |
+| 850 | 216 | Chirpy Dash |
 | 851 | 216 | TinaMarie Montone |
-| 852 | 216 | Zany Climber |
-| 853 | 216 | Chirpy Dash |
+| 852 | 216 | Tamara Cordero |
+| 853 | 216 | Briana Hargett |
 | 854 | 215 | Daniel Moore |
-| 855 | 215 | Robin |
-| 856 | 215 | Elegant banana |
+| 855 | 215 | Elegant banana |
+| 856 | 215 | Robin |
 | 857 | 214 | Ariel |
 | 858 | 213 | Dana Hicks |
 | 859 | 213 | Poppy Matchclear |
@@ -1005,15 +1005,15 @@
 | 997 | 177 | Jeanine Macrina |
 | 998 | 176 | jay |
 | 999 | 176 | Crystal Harbeson |
-| 1000 | 175 | Aldo Hernandez |
-| 1001 | 174 | Shiny Framezone |
-| 1002 | 174 | Michael Parsons |
-| 1003 | 174 | spriege |
-| 1004 | 174 | Debbie Gerlib-Molinari Leigh |
-| 1005 | 174 | Old Man |
-| 1006 | 174 | Angela Gay |
-| 1007 | 174 | Bubbly Stacker |
-| 1008 | 174 | Zesty Edgefit |
+| 1000 | 176 | Zesty Edgefit |
+| 1001 | 175 | Aldo Hernandez |
+| 1002 | 174 | Shiny Framezone |
+| 1003 | 174 | Michael Parsons |
+| 1004 | 174 | spriege |
+| 1005 | 174 | Debbie Gerlib-Molinari Leigh |
+| 1006 | 174 | Old Man |
+| 1007 | 174 | Angela Gay |
+| 1008 | 174 | Bubbly Stacker |
 | 1009 | 173 | Abby Bluteau |
 | 1010 | 173 | Amanda Howard |
 | 1011 | 173 | Michelle Gnouilaphi |
@@ -1263,25 +1263,25 @@
 | 1255 | 131 | Beckii Beckford |
 | 1256 | 131 | Lamarr Drayton |
 | 1257 | 131 | Stephany Patton |
-| 1258 | 130 | Yasmin Veliz |
-| 1259 | 130 | Chyrisse Norton |
-| 1260 | 130 | Matthew Franklin Sr. |
-| 1261 | 130 | Elizabeth Smith |
-| 1262 | 130 | Tiffany Bruursema |
-| 1263 | 130 | Kita A Jackson |
-| 1264 | 130 | Kaagyugaq Jessica |
-| 1265 | 130 | Witty Cascadefit |
-| 1266 | 130 | Annette Ostrander |
-| 1267 | 130 | Squiggle Squish |
-| 1268 | 130 | D3TROITB0RN74 |
-| 1269 | 130 | Ash |
-| 1270 | 130 | Sharon Navarrete |
-| 1271 | 130 | Enid |
-| 1272 | 130 | Mrcasper Royalbee Mbstcys |
-| 1273 | 130 | KayB |
-| 1274 | 130 | Boldy Rollzone |
-| 1275 | 130 | Mark Blanton |
-| 1276 | 129 | Cupcake |
+| 1258 | 131 | Cupcake |
+| 1259 | 130 | Mark Blanton |
+| 1260 | 130 | Yasmin Veliz |
+| 1261 | 130 | Chyrisse Norton |
+| 1262 | 130 | Matthew Franklin Sr. |
+| 1263 | 130 | Elizabeth Smith |
+| 1264 | 130 | Tiffany Bruursema |
+| 1265 | 130 | Kita A Jackson |
+| 1266 | 130 | Kaagyugaq Jessica |
+| 1267 | 130 | Witty Cascadefit |
+| 1268 | 130 | Annette Ostrander |
+| 1269 | 130 | Squiggle Squish |
+| 1270 | 130 | D3TROITB0RN74 |
+| 1271 | 130 | Ash |
+| 1272 | 130 | Sharon Navarrete |
+| 1273 | 130 | Enid |
+| 1274 | 130 | Mrcasper Royalbee Mbstcys |
+| 1275 | 130 | KayB |
+| 1276 | 130 | Boldy Rollzone |
 | 1277 | 129 | Amanda Mackay |
 | 1278 | 129 | Frisky Blocky |
 | 1279 | 129 | Smiley |
@@ -1408,8 +1408,8 @@
 | 1400 | 113 | carzyspinner |
 | 1401 | 113 | Savvlexx |
 | 1402 | 113 | Cool Cornerfall |
-| 1403 | 113 | Ward Leandrea |
-| 1404 | 113 | Nicole Hogue |
+| 1403 | 113 | Nicole Hogue |
+| 1404 | 113 | Ward Leandrea |
 | 1405 | 112 | Nerdy Blockbuilder |
 | 1406 | 112 | Groovy Combofall |
 | 1407 | 112 | Steven Bell |
@@ -1436,8 +1436,8 @@
 | 1428 | 110 | Christy Krissie |
 | 1429 | 110 | Jake Ching |
 | 1430 | 110 | gymjim |
-| 1431 | 110 | Alice Ball |
-| 1432 | 110 | Lazy Edgefit |
+| 1431 | 110 | Lazy Edgefit |
+| 1432 | 110 | Alice Ball |
 | 1433 | 109 | Krista Robinson |
 | 1434 | 109 | Anthony Quick |
 | 1435 | 109 | Jolly Riserpiece |
@@ -1589,10 +1589,10 @@
 | 1581 | 91 | Gypsy |
 | 1582 | 91 | Daniel N Phian |
 | 1583 | 91 | Wendy DeBoard |
-| 1584 | 91 | Sassy Stacker |
-| 1585 | 91 | DeAnne Geier Wade |
-| 1586 | 90 | Shannon Nichole |
-| 1587 | 90 | Plucky Clusterer |
+| 1584 | 91 | DeAnne Geier Wade |
+| 1585 | 91 | Sassy Stacker |
+| 1586 | 90 | Plucky Clusterer |
+| 1587 | 90 | Shannon Nichole |
 | 1588 | 90 | Angel Niomi Munoz |
 | 1589 | 90 | Denise Bailey |
 | 1590 | 90 | Petty |
