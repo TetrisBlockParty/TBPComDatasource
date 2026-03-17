@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 08:14:47 UTC
+# Standings for team2 as of 2026-03-17 08:15:23 UTC
 
 **Total Participants:** 2965
 
@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 22848 | Mochi |
-| 2 | 20134 | THEMAN |
-| 3 | 20118 | Payton Auberry |
+| 2 | 20305 | Payton Auberry |
+| 3 | 20134 | THEMAN |
 | 4 | 18294 | 赵珞涵 |
 | 5 | 17230 | 1nonlyreal1 |
 | 6 | 12813 | Justablock |
@@ -330,30 +330,30 @@
 | 322 | 520 | Nerdy Blockpiece |
 | 323 | 518 | Jaz Sky |
 | 324 | 517 | LeVeL27 |
-| 325 | 515 | Toph |
-| 326 | 512 | Twisty Spinbuilder |
-| 327 | 512 | SuZee |
-| 328 | 512 | 1RiRi1 |
-| 329 | 511 | Jt Home |
-| 330 | 511 | Jen Roe |
-| 331 | 510 | Dreamy Clicky |
-| 332 | 508 | SterlingTeri |
-| 333 | 504 | Lush Linkgrid |
-| 334 | 504 | Yoyareese |
-| 335 | 503 | Bouncy Swiper |
-| 336 | 503 | Ashley Danielle |
-| 337 | 501 | Jason Gibbs |
-| 338 | 501 | Phredda Compton |
+| 325 | 516 | Yoyareese |
+| 326 | 515 | Toph |
+| 327 | 512 | Twisty Spinbuilder |
+| 328 | 512 | SuZee |
+| 329 | 512 | 1RiRi1 |
+| 330 | 511 | Jt Home |
+| 331 | 511 | Jen Roe |
+| 332 | 510 | Dreamy Clicky |
+| 333 | 508 | SterlingTeri |
+| 334 | 504 | Lush Linkgrid |
+| 335 | 503 | Ashley Danielle |
+| 336 | 503 | Bouncy Swiper |
+| 337 | 501 | Phredda Compton |
+| 338 | 501 | Jason Gibbs |
 | 339 | 500 | Tatyahna Cameron |
-| 340 | 500 | Kate |
-| 341 | 500 | Rackemwillie34 |
+| 340 | 500 | Rackemwillie34 |
+| 341 | 500 | Kate |
 | 342 | 497 | Sista |
 | 343 | 496 | Michelle Allers |
 | 344 | 493 | Annmarie Gilreath |
 | 345 | 491 | Spicy Patternbuilder |
-| 346 | 486 | Jen |
-| 347 | 486 | Tra Barnum |
-| 348 | 484 | Giovanni Distefano |
+| 346 | 488 | Giovanni Distefano |
+| 347 | 486 | Jen |
+| 348 | 486 | Tra Barnum |
 | 349 | 480 | Joy Young |
 | 350 | 475 | Jennifer Osmer Carruth |
 | 351 | 474 | Robyn Coleman Sadler |
@@ -362,31 +362,31 @@
 | 354 | 472 | Rhonda Winn Hohman |
 | 355 | 472 | Jjza |
 | 356 | 471 | Plucky Snaplink |
-| 357 | 470 | Jazzy Piecebuilder |
-| 358 | 470 | Matt |
+| 357 | 470 | Matt |
+| 358 | 470 | Jazzy Piecebuilder |
 | 359 | 469 | Tori Bowers |
 | 360 | 468 | Tipsy Riseclear |
 | 361 | 467 | Brenda A |
 | 362 | 467 | Brandy Belton |
 | 363 | 466 | Slippery Clam |
 | 364 | 462 | Anthony Magaraci |
-| 365 | 459 | Brandie Marie Miles |
-| 366 | 459 | Sammy |
+| 365 | 459 | Sammy |
+| 366 | 459 | Brandie Marie Miles |
 | 367 | 458 | Randy Jansen |
-| 368 | 458 | Ashley Marie Pierce |
-| 369 | 458 | Desi Desporte |
+| 368 | 458 | Desi Desporte |
+| 369 | 458 | Ashley Marie Pierce |
 | 370 | 457 | YAE |
-| 371 | 456 | Ashley Leonard |
-| 372 | 456 | Snappy Tiley |
+| 371 | 456 | Snappy Tiley |
+| 372 | 456 | Ashley Leonard |
 | 373 | 454 | Maureen Winter |
-| 374 | 453 | Alexx Anaya |
-| 375 | 453 | Destiny Brady |
-| 376 | 453 | Lazy Twistline |
-| 377 | 453 | João Paulo |
+| 374 | 453 | Destiny Brady |
+| 375 | 453 | Lazy Twistline |
+| 376 | 453 | João Paulo |
+| 377 | 453 | Alexx Anaya |
 | 378 | 452 | Loony Snapbuild |
-| 379 | 450 | Nick Kozik |
-| 380 | 450 | Quirky Matchfit |
-| 381 | 450 | Tiffany Smith |
+| 379 | 450 | Quirky Matchfit |
+| 380 | 450 | Tiffany Smith |
+| 381 | 450 | Nick Kozik |
 | 382 | 449 | Halstead47K |
 | 383 | 449 | Traci Bond |
 | 384 | 444 | Zak Dunn |
@@ -1058,20 +1058,20 @@
 | 1050 | 162 | Teresa Longwell |
 | 1051 | 162 | Wacky Twisterfit |
 | 1052 | 161 | Tdg Boyt |
-| 1053 | 160 | Goofy Block |
-| 1054 | 160 | Megan Earp |
-| 1055 | 160 | Julie Elizabeth |
-| 1056 | 160 | Jumpy Crawler |
-| 1057 | 160 | Andrew Bowen |
-| 1058 | 160 | Janet Eberhard |
-| 1059 | 160 | Ashley Moore |
-| 1060 | 159 | Brittany Backus |
-| 1061 | 159 | Kari Thompson Rock |
-| 1062 | 159 | Iliveformygirlz Smith |
-| 1063 | 159 | Jada Tims |
-| 1064 | 159 | Shanny Anny |
-| 1065 | 158 | Lush Matchgrid |
-| 1066 | 158 | Shannon Lynn Goddard |
+| 1053 | 161 | Shannon Lynn Goddard |
+| 1054 | 160 | Goofy Block |
+| 1055 | 160 | Megan Earp |
+| 1056 | 160 | Julie Elizabeth |
+| 1057 | 160 | Jumpy Crawler |
+| 1058 | 160 | Andrew Bowen |
+| 1059 | 160 | Janet Eberhard |
+| 1060 | 160 | Ashley Moore |
+| 1061 | 159 | Brittany Backus |
+| 1062 | 159 | Kari Thompson Rock |
+| 1063 | 159 | Iliveformygirlz Smith |
+| 1064 | 159 | Jada Tims |
+| 1065 | 159 | Shanny Anny |
+| 1066 | 158 | Lush Matchgrid |
 | 1067 | 158 | rumpadump |
 | 1068 | 158 | Ryan Martin |
 | 1069 | 158 | Loopy Curve |
