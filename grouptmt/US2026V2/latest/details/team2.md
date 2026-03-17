@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 09:44:19 UTC
+# Standings for team2 as of 2026-03-17 09:44:45 UTC
 
 **Total Participants:** 2972
 
@@ -101,8 +101,8 @@
 | 93 | 1540 | Peachy Matchgrid |
 | 94 | 1531 | Alyssa Cox |
 | 95 | 1529 | Brave Matchfit |
-| 96 | 1511 | Giggy Brickmatch |
-| 97 | 1504 | Julie Renee Long |
+| 96 | 1514 | Julie Renee Long |
+| 97 | 1511 | Giggy Brickmatch |
 | 98 | 1504 | Alan George LaRage |
 | 99 | 1498 | Laura McPheeters |
 | 100 | 1454 | Kristy Monk |
