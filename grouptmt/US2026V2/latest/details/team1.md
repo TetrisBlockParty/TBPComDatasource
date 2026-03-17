@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 07:16:45 UTC
+# Standings for team1 as of 2026-03-17 07:17:24 UTC
 
 **Total Participants:** 2955
 
@@ -347,43 +347,43 @@
 | 339 | 542 | Yvette Cooper |
 | 340 | 541 | Rose Anna |
 | 341 | 540 | Sullivan Tamara |
-| 342 | 540 | Mahman |
-| 343 | 540 | Dee |
-| 344 | 538 | CoolHand |
-| 345 | 536 | Kay Francois |
-| 346 | 536 | Dottie Jones |
-| 347 | 533 | Silly Ziggy |
-| 348 | 530 | Sheree Twiddy Thornton |
-| 349 | 528 | Giddy Brickclear |
-| 350 | 528 | HugeLoad |
-| 351 | 525 | Lisa Marie Sansom |
-| 352 | 525 | Cheeky Blocky |
-| 353 | 524 | Roary Danner |
-| 354 | 523 | Mandy Stevenson |
-| 355 | 522 | Megan Phillips |
-| 356 | 520 | Allen Scott |
-| 357 | 517 | Tami Luce Martin |
-| 358 | 517 | Black Rubix |
-| 359 | 516 | Andrew Coulter |
-| 360 | 515 | Lemonberry |
-| 361 | 515 | Adele Rahman |
-| 362 | 513 | Bribrobra |
-| 363 | 509 | Bubba |
-| 364 | 509 | Boldy Clicky |
-| 365 | 509 | Dawn Hoffman |
-| 366 | 509 | Amy Sanford |
-| 367 | 507 | Aaron Higdon |
-| 368 | 503 | Donna McGowan |
-| 369 | 496 | Amber McDonald |
-| 370 | 490 | Hannah Carter |
-| 371 | 488 | Chiquita Spears |
-| 372 | 488 | Roberta Arnold |
-| 373 | 486 | Kathy Karjala |
-| 374 | 484 | Spicy Twister |
-| 375 | 483 | Kehlyn King |
-| 376 | 483 | Sonotjelly |
-| 377 | 483 | Sandra Link-Gable |
-| 378 | 480 | Brandy Ridgeway |
+| 342 | 540 | Brandy Ridgeway |
+| 343 | 540 | Mahman |
+| 344 | 540 | Dee |
+| 345 | 538 | CoolHand |
+| 346 | 536 | Kay Francois |
+| 347 | 536 | Dottie Jones |
+| 348 | 533 | Silly Ziggy |
+| 349 | 530 | Sheree Twiddy Thornton |
+| 350 | 528 | Giddy Brickclear |
+| 351 | 528 | HugeLoad |
+| 352 | 525 | Lisa Marie Sansom |
+| 353 | 525 | Cheeky Blocky |
+| 354 | 524 | Roary Danner |
+| 355 | 523 | Mandy Stevenson |
+| 356 | 522 | Megan Phillips |
+| 357 | 520 | Allen Scott |
+| 358 | 517 | Tami Luce Martin |
+| 359 | 517 | Black Rubix |
+| 360 | 516 | Andrew Coulter |
+| 361 | 515 | Lemonberry |
+| 362 | 515 | Adele Rahman |
+| 363 | 513 | Bribrobra |
+| 364 | 509 | Bubba |
+| 365 | 509 | Boldy Clicky |
+| 366 | 509 | Dawn Hoffman |
+| 367 | 509 | Amy Sanford |
+| 368 | 507 | Aaron Higdon |
+| 369 | 503 | Donna McGowan |
+| 370 | 496 | Amber McDonald |
+| 371 | 490 | Hannah Carter |
+| 372 | 488 | Chiquita Spears |
+| 373 | 488 | Roberta Arnold |
+| 374 | 486 | Kathy Karjala |
+| 375 | 484 | Spicy Twister |
+| 376 | 483 | Sandra Link-Gable |
+| 377 | 483 | Sonotjelly |
+| 378 | 483 | Kehlyn King |
 | 379 | 480 | Allen Matthies |
 | 380 | 480 | Flashy Stacky |
 | 381 | 478 | Swalshy |
@@ -1386,87 +1386,87 @@
 | 1378 | 115 | Brian Spotts |
 | 1379 | 115 | Nutty Glide |
 | 1380 | 115 | Erica Wynne |
-| 1381 | 114 | Saucy Block |
-| 1382 | 114 | Jerome Gunst |
-| 1383 | 114 | Mighty Piececlear |
-| 1384 | 113 | Bree Prine |
-| 1385 | 113 | Kawaui2003 |
-| 1386 | 113 | Amanda Falta |
-| 1387 | 113 | poopoo |
-| 1388 | 113 | Ellen Maxwell Capstaff |
-| 1389 | 112 | Spooky Lil Mama |
-| 1390 | 112 | Gidget |
-| 1391 | 112 | Valerie Jean |
-| 1392 | 112 | Shaun Waddell |
-| 1393 | 112 | LadyKuSh |
-| 1394 | 112 | Crazy Blocker |
-| 1395 | 112 | Michele Walker |
-| 1396 | 112 | Dapper Snaplink |
-| 1397 | 112 | Antoinette Rhinesmith |
-| 1398 | 111 | Angie Scott |
-| 1399 | 111 | Timothy Lott |
-| 1400 | 111 | Samantha Vidaurri |
-| 1401 | 111 | Hyper Risepiece |
-| 1402 | 111 | Tammy Straka |
-| 1403 | 111 | Jamie Jury |
-| 1404 | 111 | Zesty Balancepiece |
-| 1405 | 111 | Bald head b |
-| 1406 | 110 | Kara Diamond |
-| 1407 | 110 | Courtney Cassidy |
-| 1408 | 110 | Nifty |
-| 1409 | 110 | KyngKliff |
-| 1410 | 110 | Alyssa Bruce |
-| 1411 | 110 | Connie Bond |
-| 1412 | 110 | Chelsey Ann |
-| 1413 | 110 | Duc Donger |
-| 1414 | 109 | Jenny Hughes |
-| 1415 | 109 | Jenny Weidman Perrotta |
-| 1416 | 109 | Meredith Ann |
-| 1417 | 108 | S Gale Holton |
-| 1418 | 108 | Laura Lewis |
-| 1419 | 108 | 4girls |
-| 1420 | 108 | Sandy Rivera |
-| 1421 | 108 | Cheeks |
-| 1422 | 108 | Chirpy Twistpiece |
-| 1423 | 108 | Sassy Wrecker |
-| 1424 | 108 | Kim Manning Miles |
-| 1425 | 107 | Twisty Fill |
-| 1426 | 107 | ajx |
-| 1427 | 107 | Candace Lin Ladner |
-| 1428 | 107 | Angie Dotson |
-| 1429 | 107 | Alexandra Karavias |
-| 1430 | 106 | Kandie Marie |
-| 1431 | 106 | Clever Spinblock |
-| 1432 | 106 | Crystal Conklin |
-| 1433 | 106 | Nerdy Builder |
-| 1434 | 106 | Lush Frame |
-| 1435 | 106 | Nayyirah Hariyyan |
-| 1436 | 105 | Rubi |
-| 1437 | 105 | Shane Caskey |
-| 1438 | 105 | Greenie |
-| 1439 | 105 | Christian Pham |
-| 1440 | 105 | Emily Menard Lam |
-| 1441 | 105 | Ray Vankirk |
-| 1442 | 105 | Loony Blockfall |
-| 1443 | 104 | KayStaylit LionessByron |
-| 1444 | 104 | Anthony Ward |
-| 1445 | 104 | eightball119 |
-| 1446 | 104 | Moe Thought |
-| 1447 | 104 | David |
-| 1448 | 104 | Alexandria Ritch |
-| 1449 | 104 | Ernie Guyette |
-| 1450 | 103 | MrsBrown |
-| 1451 | 103 | Tandi Bush |
-| 1452 | 103 | James Alexander Gonzales |
-| 1453 | 103 | Quirky Curvebuilder |
-| 1454 | 103 | Tammy Griffee |
-| 1455 | 103 | Mylo James |
-| 1456 | 103 | Sam Steig |
-| 1457 | 103 | Jeremy Wells |
-| 1458 | 103 | Bobbie Duty |
-| 1459 | 103 | Lasey Rands |
-| 1460 | 103 | Beatrice Williams |
-| 1461 | 103 | Toni Miller |
+| 1381 | 115 | Toni Miller |
+| 1382 | 114 | Saucy Block |
+| 1383 | 114 | Jerome Gunst |
+| 1384 | 114 | Mighty Piececlear |
+| 1385 | 113 | Bree Prine |
+| 1386 | 113 | Kawaui2003 |
+| 1387 | 113 | Amanda Falta |
+| 1388 | 113 | poopoo |
+| 1389 | 113 | Ellen Maxwell Capstaff |
+| 1390 | 112 | Spooky Lil Mama |
+| 1391 | 112 | Gidget |
+| 1392 | 112 | Valerie Jean |
+| 1393 | 112 | Shaun Waddell |
+| 1394 | 112 | LadyKuSh |
+| 1395 | 112 | Crazy Blocker |
+| 1396 | 112 | Michele Walker |
+| 1397 | 112 | Dapper Snaplink |
+| 1398 | 112 | Antoinette Rhinesmith |
+| 1399 | 111 | Angie Scott |
+| 1400 | 111 | Timothy Lott |
+| 1401 | 111 | Samantha Vidaurri |
+| 1402 | 111 | Hyper Risepiece |
+| 1403 | 111 | Tammy Straka |
+| 1404 | 111 | Jamie Jury |
+| 1405 | 111 | Zesty Balancepiece |
+| 1406 | 111 | Bald head b |
+| 1407 | 110 | Kara Diamond |
+| 1408 | 110 | Courtney Cassidy |
+| 1409 | 110 | Nifty |
+| 1410 | 110 | KyngKliff |
+| 1411 | 110 | Alyssa Bruce |
+| 1412 | 110 | Connie Bond |
+| 1413 | 110 | Chelsey Ann |
+| 1414 | 110 | Duc Donger |
+| 1415 | 109 | Jenny Hughes |
+| 1416 | 109 | Jenny Weidman Perrotta |
+| 1417 | 109 | Meredith Ann |
+| 1418 | 108 | S Gale Holton |
+| 1419 | 108 | Laura Lewis |
+| 1420 | 108 | 4girls |
+| 1421 | 108 | Sandy Rivera |
+| 1422 | 108 | Cheeks |
+| 1423 | 108 | Chirpy Twistpiece |
+| 1424 | 108 | Sassy Wrecker |
+| 1425 | 108 | Kim Manning Miles |
+| 1426 | 107 | Twisty Fill |
+| 1427 | 107 | ajx |
+| 1428 | 107 | Candace Lin Ladner |
+| 1429 | 107 | Angie Dotson |
+| 1430 | 107 | Alexandra Karavias |
+| 1431 | 106 | Kandie Marie |
+| 1432 | 106 | Clever Spinblock |
+| 1433 | 106 | Crystal Conklin |
+| 1434 | 106 | Nerdy Builder |
+| 1435 | 106 | Lush Frame |
+| 1436 | 106 | Nayyirah Hariyyan |
+| 1437 | 105 | Rubi |
+| 1438 | 105 | Shane Caskey |
+| 1439 | 105 | Greenie |
+| 1440 | 105 | Christian Pham |
+| 1441 | 105 | Emily Menard Lam |
+| 1442 | 105 | Ray Vankirk |
+| 1443 | 105 | Loony Blockfall |
+| 1444 | 104 | KayStaylit LionessByron |
+| 1445 | 104 | Anthony Ward |
+| 1446 | 104 | eightball119 |
+| 1447 | 104 | Moe Thought |
+| 1448 | 104 | David |
+| 1449 | 104 | Alexandria Ritch |
+| 1450 | 104 | Ernie Guyette |
+| 1451 | 103 | MrsBrown |
+| 1452 | 103 | Tandi Bush |
+| 1453 | 103 | James Alexander Gonzales |
+| 1454 | 103 | Quirky Curvebuilder |
+| 1455 | 103 | Tammy Griffee |
+| 1456 | 103 | Mylo James |
+| 1457 | 103 | Sam Steig |
+| 1458 | 103 | Jeremy Wells |
+| 1459 | 103 | Bobbie Duty |
+| 1460 | 103 | Lasey Rands |
+| 1461 | 103 | Beatrice Williams |
 | 1462 | 102 | Alex Wilson Wilson |
 | 1463 | 102 | Brian Schneider |
 | 1464 | 102 | Bill Frederick |
