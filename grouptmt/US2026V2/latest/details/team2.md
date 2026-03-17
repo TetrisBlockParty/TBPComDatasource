@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 09:28:43 UTC
+# Standings for team2 as of 2026-03-17 09:29:19 UTC
 
 **Total Participants:** 2970
 
@@ -20,8 +20,8 @@
 | 12 | 7761 | Eckoman518 |
 | 13 | 7620 | Pixie |
 | 14 | 6929 | Kori Beth Babb |
-| 15 | 6846 | Abigail Kate Fernandez |
-| 16 | 6751 | Aaron Garnett |
+| 15 | 6851 | Aaron Garnett |
+| 16 | 6846 | Abigail Kate Fernandez |
 | 17 | 6525 | Kristen Sceurman |
 | 18 | 6385 | Emilie Dodge |
 | 19 | 5667 | Dee Kay |
@@ -68,7 +68,7 @@
 | 60 | 2424 | Kevin Watson |
 | 61 | 2373 | Hp Gold |
 | 62 | 2361 | Peppy Slice |
-| 63 | 2359 | Bubbly Twistpiece |
+| 63 | 2360 | Bubbly Twistpiece |
 | 64 | 2334 | Becky McClure |
 | 65 | 2319 | Caitlin Johnson |
 | 66 | 2217 | Andrey Sharov |
@@ -220,8 +220,8 @@
 | 212 | 801 | Carmilita Burpo Jordan |
 | 213 | 799 | Giggity boots |
 | 214 | 795 | Nathaniel Hardy |
-| 215 | 784 | Emily Wooden |
-| 216 | 783 | BluBae |
+| 215 | 786 | BluBae |
+| 216 | 784 | Emily Wooden |
 | 217 | 781 | Stacy Evans |
 | 218 | 772 | Mike Carden |
 | 219 | 771 | Chassy Horton |
