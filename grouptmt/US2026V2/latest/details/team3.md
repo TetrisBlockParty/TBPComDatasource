@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-17 08:16:49 UTC
+# Standings for team3 as of 2026-03-17 08:17:23 UTC
 
 **Total Participants:** 4658
 
@@ -1283,16 +1283,16 @@
 | 1275 | 224 | Kasandra Giamporcaro |
 | 1276 | 223 | MamaBearTiff |
 | 1277 | 222 | Glitzy Rollpiece |
-| 1278 | 221 | Erin Murphy |
-| 1279 | 221 | Lenora Price |
-| 1280 | 221 | Camille Graves Havard |
-| 1281 | 221 | She-She Myers |
-| 1282 | 220 | Daffodil Glitter Toes |
-| 1283 | 220 | Seraphina Childress |
-| 1284 | 220 | wewoo |
-| 1285 | 220 | Witty Builderfit |
-| 1286 | 220 | LongLive Peace |
-| 1287 | 220 | yna |
+| 1278 | 222 | yna |
+| 1279 | 221 | Erin Murphy |
+| 1280 | 221 | Lenora Price |
+| 1281 | 221 | Camille Graves Havard |
+| 1282 | 221 | She-She Myers |
+| 1283 | 220 | Daffodil Glitter Toes |
+| 1284 | 220 | Seraphina Childress |
+| 1285 | 220 | wewoo |
+| 1286 | 220 | Witty Builderfit |
+| 1287 | 220 | LongLive Peace |
 | 1288 | 219 | Matt Nadeau |
 | 1289 | 219 | Marisa Lin |
 | 1290 | 218 | Becky Intrabartolo |
