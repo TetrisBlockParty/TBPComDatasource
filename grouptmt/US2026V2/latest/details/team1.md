@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 14:20:45 UTC
+# Standings for team1 as of 2026-03-17 14:21:21 UTC
 
 **Total Participants:** 3007
 
@@ -106,7 +106,7 @@
 | 98 | 1688 | Caitlin Zakrzewski |
 | 99 | 1683 | Yvonne Buie |
 | 100 | 1650 | Walker Patterson |
-| 101 | 1637 | Tom |
+| 101 | 1646 | Tom |
 | 102 | 1621 | Trisha Gallagher |
 | 103 | 1616 | sent2bless34 |
 | 104 | 1602 | Kesha Brady |
@@ -562,43 +562,43 @@
 | 554 | 355 | Luke Evans |
 | 555 | 354 | Tameka Brown |
 | 556 | 354 | Crazy12 |
-| 557 | 354 | Berenice |
-| 558 | 353 | Lively Rollfit |
-| 559 | 353 | Teddy Marshall |
-| 560 | 352 | Dizzy Matchzone |
-| 561 | 352 | Angela Brown Babin |
-| 562 | 352 | Keri Smith |
-| 563 | 351 | Glauf |
-| 564 | 351 | Maju Restini |
-| 565 | 351 | Brandon McDonald |
-| 566 | 351 | cac |
-| 567 | 350 | Aden Moss |
-| 568 | 350 | knightdragon9 |
+| 557 | 354 | Tee Tee Wil |
+| 558 | 354 | Berenice |
+| 559 | 353 | Lively Rollfit |
+| 560 | 353 | Teddy Marshall |
+| 561 | 352 | Dizzy Matchzone |
+| 562 | 352 | Angela Brown Babin |
+| 563 | 352 | Keri Smith |
+| 564 | 351 | Glauf |
+| 565 | 351 | cac |
+| 566 | 351 | Brandon McDonald |
+| 567 | 351 | Maju Restini |
+| 568 | 350 | Aden Moss |
 | 569 | 350 | Dreamy Matchclear |
-| 570 | 349 | Shukee Lo |
-| 571 | 349 | Vicki Dougie |
+| 570 | 350 | knightdragon9 |
+| 571 | 349 | Shukee Lo |
 | 572 | 349 | Christian Smith |
-| 573 | 349 | Tee Tee Wil |
+| 573 | 349 | Vicki Dougie |
 | 574 | 347 | Chummy Towerzone |
 | 575 | 346 | Angel Pham |
 | 576 | 346 | AngelVoice JB |
 | 577 | 346 | juicyred |
 | 578 | 345 | Mindy Leigh Head |
 | 579 | 343 | PennyCandee |
-| 580 | 343 | SAP |
-| 581 | 343 | Melody Rene |
-| 582 | 343 | Greenbayfan |
+| 580 | 343 | Greenbayfan |
+| 581 | 343 | SAP |
+| 582 | 343 | Melody Rene |
 | 583 | 343 | Chris |
 | 584 | 342 | Crystal Rosen |
 | 585 | 341 | Jason Whitehair |
-| 586 | 341 | Mel Fab |
-| 587 | 341 | Florna Primrose |
+| 586 | 341 | Florna Primrose |
+| 587 | 341 | Mel Fab |
 | 588 | 340 | Ed Bullen |
-| 589 | 340 | Sabrina Hardrick |
+| 589 | 340 | Misstery |
 | 590 | 340 | Sylvia Black |
-| 591 | 340 | Lalo Enriquez |
+| 591 | 340 | Sabrina Hardrick |
 | 592 | 340 | Bobby |
-| 593 | 340 | Misstery |
+| 593 | 340 | Lalo Enriquez |
 | 594 | 339 | Ryne Pinkston |
 | 595 | 339 | Raheem Young |
 | 596 | 337 | Carrie Beth |
@@ -912,45 +912,45 @@
 | 904 | 222 | Heather Burroughs |
 | 905 | 222 | Quaheem Brown-Riley |
 | 906 | 221 | MWFreddy |
-| 907 | 221 | Joe Andrew Jackson |
-| 908 | 221 | Tammy Kunai |
+| 907 | 221 | Tammy Kunai |
+| 908 | 221 | Joe Andrew Jackson |
 | 909 | 220 | Amber Wolfe |
 | 910 | 220 | Danielle Sperry |
-| 911 | 219 | Robert A. Horne |
+| 911 | 219 | Nance Jeano |
 | 912 | 219 | Chummy Risebuilder |
-| 913 | 219 | Nance Jeano |
+| 913 | 219 | Loopy Edge |
 | 914 | 219 | Aaron M Luna |
-| 915 | 219 | Loopy Edge |
-| 916 | 218 | Jennifer Bunker |
+| 915 | 219 | Robert A. Horne |
+| 916 | 218 | Matthew Laudico |
 | 917 | 218 | Hoppy Buildgrid |
-| 918 | 218 | Matthew Laudico |
-| 919 | 217 | Melsap #8284 |
-| 920 | 217 | Jennifer Negrete |
-| 921 | 216 | Katelyn B. Pritchard |
-| 922 | 216 | Cranky Swipe |
+| 918 | 218 | Jennifer Bunker |
+| 919 | 217 | Jennifer Negrete |
+| 920 | 217 | Melsap #8284 |
+| 921 | 216 | Cranky Swipe |
+| 922 | 216 | Katelyn B. Pritchard |
 | 923 | 214 | Trish11479 |
 | 924 | 214 | Anna Lasley |
-| 925 | 213 | Mandy Faye Jackson |
+| 925 | 213 | Loony Spinzone |
 | 926 | 213 | Katy Schuster |
-| 927 | 213 | Loony Spinzone |
-| 928 | 212 | Silly Strikerbuilder |
-| 929 | 212 | Here Nisie |
+| 927 | 213 | Mandy Faye Jackson |
+| 928 | 212 | Here Nisie |
+| 929 | 212 | Silly Strikerbuilder |
 | 930 | 212 | Jack Mattiace |
-| 931 | 211 | Aira Rangel |
-| 932 | 211 | Kevin Russell |
-| 933 | 211 | Sunny Frame |
-| 934 | 211 | Chipper Matcher |
-| 935 | 210 | Pazerjonez |
-| 936 | 210 | TheBiz2 |
+| 931 | 211 | Kevin Russell |
+| 932 | 211 | Sunny Frame |
+| 933 | 211 | Chipper Matcher |
+| 934 | 211 | Aira Rangel |
+| 935 | 210 | Blondie |
+| 936 | 210 | Chummy Rollzone |
 | 937 | 210 | Eric Montgomery |
-| 938 | 210 | Chummy Rollzone |
-| 939 | 210 | Blondie |
-| 940 | 209 | Wren#3 |
+| 938 | 210 | Pazerjonez |
+| 939 | 210 | TheBiz2 |
+| 940 | 209 | Luis Silva |
 | 941 | 209 | Sabrina Wilkerson |
-| 942 | 209 | Speedy Edge |
-| 943 | 209 | WEIRDINO |
-| 944 | 208 | Kimmy Newman |
-| 945 | 208 | Luis Silva |
+| 942 | 209 | WEIRDINO |
+| 943 | 209 | Wren#3 |
+| 944 | 209 | Speedy Edge |
+| 945 | 208 | Kimmy Newman |
 | 946 | 208 | Speedy Liney |
 | 947 | 207 | Monica Blu |
 | 948 | 206 | Snippy Risebuilder |
