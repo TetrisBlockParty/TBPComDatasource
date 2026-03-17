@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 09:16:19 UTC
+# Standings for team2 as of 2026-03-17 09:17:21 UTC
 
 **Total Participants:** 2970
 
@@ -135,9 +135,9 @@
 | 127 | 1156 | Jennifer Golub |
 | 128 | 1134 | Rafael Valentin |
 | 129 | 1132 | Christy Green |
-| 130 | 1123 | Sharon Cail |
-| 131 | 1119 | Sass |
-| 132 | 1104 | Melissa Bergin |
+| 130 | 1124 | Melissa Bergin |
+| 131 | 1123 | Sharon Cail |
+| 132 | 1119 | Sass |
 | 133 | 1101 | Grace Rubalcada |
 | 134 | 1093 | Liana Spikes |
 | 135 | 1089 | Leticia Martinez Kelley |
@@ -434,21 +434,21 @@
 | 426 | 412 | Lakeisha Webb Briggs |
 | 427 | 411 | Tosha Gonzales |
 | 428 | 410 | Scott Martinson |
-| 429 | 408 | Tony Tran |
+| 429 | 408 | Ashley Brandon Hall |
 | 430 | 408 | Lizzie Marie |
-| 431 | 408 | Ashley Brandon Hall |
+| 431 | 408 | Tony Tran |
 | 432 | 408 | Dreamy Snapbuilder |
 | 433 | 407 | Corgi Mama |
 | 434 | 407 | Susan Dunn |
-| 435 | 405 | Christian A. Pollard |
+| 435 | 405 | Jocelyn Jauregui |
 | 436 | 405 | Dee Doubleyou |
 | 437 | 405 | NoShoesNation |
-| 438 | 405 | Jocelyn Jauregui |
-| 439 | 402 | Nikki Speer |
-| 440 | 402 | Abimbola Bimbo |
+| 438 | 405 | Christian A. Pollard |
+| 439 | 402 | Abimbola Bimbo |
+| 440 | 402 | Nikki Speer |
 | 441 | 401 | Taghrid Ebeid |
-| 442 | 400 | Glitzy Dash |
-| 443 | 400 | Lindsay Lucas |
+| 442 | 400 | Lindsay Lucas |
+| 443 | 400 | Glitzy Dash |
 | 444 | 400 | Trice Sodames |
 | 445 | 399 | Smiley Match |
 | 446 | 398 | SassyCarebear |
@@ -469,31 +469,31 @@
 | 461 | 380 | MyMahdi Estrada |
 | 462 | 379 | Jess Meyers |
 | 463 | 378 | Brenda Lee Vander Molen |
-| 464 | 378 | Sondra Kenny |
-| 465 | 377 | Zappy Strikerpiece |
-| 466 | 376 | Mike Davis |
-| 467 | 376 | Brandy Hayhurst |
-| 468 | 375 | Yloponom Gamez |
-| 469 | 374 | Lora |
-| 470 | 373 | Sunny Blockline |
-| 471 | 373 | Glitzy Rollblock |
-| 472 | 371 | Ramona Marie Eruera |
-| 473 | 370 | Jennifer |
-| 474 | 370 | Brady Riessen |
-| 475 | 369 | Jen Kanakry Faria |
-| 476 | 367 | LeNae TwoBarbie McEachin |
-| 477 | 366 | Zany Rotater |
-| 478 | 366 | Breanna Lemus |
-| 479 | 365 | Layle Miranda Madsen |
-| 480 | 363 | Allen Spurlock |
+| 464 | 378 | Alyssa Graham |
+| 465 | 378 | Sondra Kenny |
+| 466 | 377 | Zappy Strikerpiece |
+| 467 | 376 | Mike Davis |
+| 468 | 376 | Brandy Hayhurst |
+| 469 | 375 | Yloponom Gamez |
+| 470 | 374 | Lora |
+| 471 | 373 | Sunny Blockline |
+| 472 | 373 | Glitzy Rollblock |
+| 473 | 371 | Ramona Marie Eruera |
+| 474 | 370 | Jennifer |
+| 475 | 370 | Brady Riessen |
+| 476 | 369 | Jen Kanakry Faria |
+| 477 | 367 | LeNae TwoBarbie McEachin |
+| 478 | 366 | Zany Rotater |
+| 479 | 366 | Breanna Lemus |
+| 480 | 365 | Layle Miranda Madsen |
 | 481 | 363 | Joe Smith |
-| 482 | 361 | Lea Gann |
-| 483 | 361 | Miguel Teixeira |
-| 484 | 361 | Austin Vice |
-| 485 | 360 | NDPeanut |
+| 482 | 363 | Allen Spurlock |
+| 483 | 361 | Lea Gann |
+| 484 | 361 | Miguel Teixeira |
+| 485 | 361 | Austin Vice |
 | 486 | 360 | Tee Jaleesa |
-| 487 | 357 | Junang Herowanto |
-| 488 | 357 | Alyssa Graham |
+| 487 | 360 | NDPeanut |
+| 488 | 357 | Junang Herowanto |
 | 489 | 357 | Jessi |
 | 490 | 356 | Diane Louise |
 | 491 | 356 | Andrew Mathis |
