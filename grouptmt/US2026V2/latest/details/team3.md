@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-17 11:20:19 UTC
+# Standings for team3 as of 2026-03-17 11:20:46 UTC
 
 **Total Participants:** 4685
 
@@ -730,15 +730,15 @@
 | 722 | 393 | Jenny McMullin |
 | 723 | 392 | Jazzmen Hollaman |
 | 724 | 392 | Esther Dolores Reinhard |
-| 725 | 391 | Witty Builderfit |
-| 726 | 391 | Trish Love |
-| 727 | 390 | Spicy Stagger |
-| 728 | 388 | Jessica Laurie |
-| 729 | 388 | Charles McVay |
-| 730 | 387 | Kayla Jo Piper |
-| 731 | 387 | coleksquad |
-| 732 | 387 | David Gross |
-| 733 | 386 | Brenda Utphall |
+| 725 | 391 | Brenda Utphall |
+| 726 | 391 | Witty Builderfit |
+| 727 | 391 | Trish Love |
+| 728 | 390 | Spicy Stagger |
+| 729 | 388 | Jessica Laurie |
+| 730 | 388 | Charles McVay |
+| 731 | 387 | Kayla Jo Piper |
+| 732 | 387 | coleksquad |
+| 733 | 387 | David Gross |
 | 734 | 386 | Marlo Hone |
 | 735 | 385 | Breanna Zayas |
 | 736 | 385 | Giggly Blockzone |
@@ -986,16 +986,16 @@
 | 978 | 297 | Sith Lord |
 | 979 | 296 | Brett Peters |
 | 980 | 296 | Madbull |
-| 981 | 296 | Kristi Smith Hatton |
-| 982 | 296 | MoneyMom |
-| 983 | 296 | Spunky Cascadeclear |
-| 984 | 295 | Amanda Woodward |
-| 985 | 295 | Lorena Guerrero-Barron |
-| 986 | 295 | Shanice Cook |
-| 987 | 294 | Nakeia Green |
-| 988 | 294 | GumboJoe |
-| 989 | 294 | Tessina Dewey-Mancino |
-| 990 | 294 | Rachel Carlson |
+| 981 | 296 | Rachel Carlson |
+| 982 | 296 | Kristi Smith Hatton |
+| 983 | 296 | MoneyMom |
+| 984 | 296 | Spunky Cascadeclear |
+| 985 | 295 | Amanda Woodward |
+| 986 | 295 | Lorena Guerrero-Barron |
+| 987 | 295 | Shanice Cook |
+| 988 | 294 | Nakeia Green |
+| 989 | 294 | GumboJoe |
+| 990 | 294 | Tessina Dewey-Mancino |
 | 991 | 294 | Eeeeeeeeee |
 | 992 | 294 | Alisha P Clark |
 | 993 | 293 | Shawn Matter |
