@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 09:38:19 UTC
+# Standings for team2 as of 2026-03-17 09:38:41 UTC
 
 **Total Participants:** 2972
 
@@ -240,9 +240,9 @@
 | 232 | 713 | Jami Howard |
 | 233 | 709 | Ebo Got-Time |
 | 234 | 708 | Dawn Woosley Bowes |
-| 235 | 704 | LD1 |
-| 236 | 704 | Lateisha Morris |
-| 237 | 704 | Joshua |
+| 235 | 704 | Joshua |
+| 236 | 704 | LD1 |
+| 237 | 704 | Lateisha Morris |
 | 238 | 697 | Sheena Harris |
 | 239 | 697 | Snappy Bridgepiece |
 | 240 | 692 | Carly Ann Maxwell |
@@ -250,13 +250,13 @@
 | 242 | 678 | Bia |
 | 243 | 677 | Peaches |
 | 244 | 676 | Laura |
-| 245 | 669 | Jenni Garcia-Vogelhut |
-| 246 | 669 | Dondon Cheng |
+| 245 | 669 | Dondon Cheng |
+| 246 | 669 | Jenni Garcia-Vogelhut |
 | 247 | 668 | Kimmie Zimmerman-Rocha |
 | 248 | 665 | Smags |
 | 249 | 664 | Tausha Colella |
-| 250 | 663 | 🍏 Green apple |
-| 251 | 663 | LolaSmilez |
+| 250 | 663 | LolaSmilez |
+| 251 | 663 | 🍏 Green apple |
 | 252 | 659 | Charde Parnell |
 | 253 | 654 | Angela Bonquiqui Dinish |
 | 254 | 653 | Elizabeth Ostrom |
@@ -282,8 +282,8 @@
 | 274 | 608 | Elizabeth Mauri |
 | 275 | 605 | James Hurley Jr. |
 | 276 | 604 | Dineisha Carpenter |
-| 277 | 603 | Liss Lint |
-| 278 | 603 | Alexsa Crespo |
+| 277 | 603 | Alexsa Crespo |
+| 278 | 603 | Liss Lint |
 | 279 | 597 | MauaStorm |
 | 280 | 594 | David Duncan |
 | 281 | 591 | Brooke Sunderhaus |
@@ -296,10 +296,10 @@
 | 288 | 584 | Faith Adrienne Verret Page |
 | 289 | 582 | Happy Brickbuilder |
 | 290 | 580 | CSOTYS |
-| 291 | 578 | Yo Momma |
-| 292 | 574 | Joeyalan Sullivan |
-| 293 | 573 | Niamh |
-| 294 | 569 | Jason McCloy |
+| 291 | 579 | Jason McCloy |
+| 292 | 578 | Yo Momma |
+| 293 | 574 | Joeyalan Sullivan |
+| 294 | 573 | Niamh |
 | 295 | 567 | Ruby Anne |
 | 296 | 565 | Theodore Vincent |
 | 297 | 565 | Kyesha Goodyear |
@@ -314,11 +314,11 @@
 | 306 | 550 | Ramone Armstrong |
 | 307 | 548 | Michelle Douglas Bridges |
 | 308 | 547 | Carson Goldminc |
-| 309 | 545 | LML |
-| 310 | 545 | Rachel Eliza |
+| 309 | 545 | Rachel Eliza |
+| 310 | 545 | LML |
 | 311 | 544 | KEILANIU |
-| 312 | 543 | HarleyJane |
-| 313 | 543 | Scott Treadway |
+| 312 | 543 | Scott Treadway |
+| 313 | 543 | HarleyJane |
 | 314 | 540 | Michelle Allers |
 | 315 | 534 | Faith Meade |
 | 316 | 532 | Johanna Massaro |
@@ -330,9 +330,9 @@
 | 322 | 527 | ElayneTrekand |
 | 323 | 524 | Jaz Sky |
 | 324 | 523 | Sarah Somers Gray |
-| 325 | 521 | Tyler StaySnappin Old'Page |
-| 326 | 521 | Yoyareese |
-| 327 | 521 | Jamie Mclean |
+| 325 | 521 | Jamie Mclean |
+| 326 | 521 | Tyler StaySnappin Old'Page |
+| 327 | 521 | Yoyareese |
 | 328 | 520 | Nerdy Blockpiece |
 | 329 | 517 | LeVeL27 |
 | 330 | 515 | Toph |
@@ -1579,18 +1579,18 @@
 | 1571 | 93 | Annette Henderson |
 | 1572 | 93 | Bleu Grubb |
 | 1573 | 93 | lynni |
-| 1574 | 93 | Alishia Robbins |
-| 1575 | 92 | Perky Rollfit |
-| 1576 | 92 | Paul Kapusinski |
-| 1577 | 92 | Wambo |
-| 1578 | 92 | Melissa Jackson |
-| 1579 | 92 | Perky Fitclear |
-| 1580 | 92 | Loony Gridder |
-| 1581 | 92 | Ruffrider27 |
-| 1582 | 91 | Gypsy |
-| 1583 | 91 | Wendy DeBoard |
-| 1584 | 91 | Daniel N Phian |
-| 1585 | 91 | Sassy Stacker |
+| 1574 | 93 | Sassy Stacker |
+| 1575 | 93 | Alishia Robbins |
+| 1576 | 92 | Perky Rollfit |
+| 1577 | 92 | Paul Kapusinski |
+| 1578 | 92 | Wambo |
+| 1579 | 92 | Melissa Jackson |
+| 1580 | 92 | Perky Fitclear |
+| 1581 | 92 | Loony Gridder |
+| 1582 | 92 | Ruffrider27 |
+| 1583 | 91 | Gypsy |
+| 1584 | 91 | Wendy DeBoard |
+| 1585 | 91 | Daniel N Phian |
 | 1586 | 91 | DeAnne Geier Wade |
 | 1587 | 90 | Plucky Clusterer |
 | 1588 | 90 | Angel Niomi Munoz |

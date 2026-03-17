@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-17 09:38:19 UTC
+# Standings for team3 as of 2026-03-17 09:38:41 UTC
 
 **Total Participants:** 4671
 
@@ -1292,8 +1292,8 @@
 | 1284 | 225 | Zappy Chiseler |
 | 1285 | 224 | DJ Hebert |
 | 1286 | 224 | Deanna Judd |
-| 1287 | 224 | Benita Carroll |
-| 1288 | 224 | Kasandra Giamporcaro |
+| 1287 | 224 | Kasandra Giamporcaro |
+| 1288 | 224 | Benita Carroll |
 | 1289 | 223 | MamaBearTiff |
 | 1290 | 222 | Glitzy Rollpiece |
 | 1291 | 222 | Suzette Bozwell |
@@ -1305,17 +1305,17 @@
 | 1297 | 220 | LongLive Peace |
 | 1298 | 220 | Witty Builderfit |
 | 1299 | 220 | Daffodil Glitter Toes |
-| 1300 | 220 | Seraphina Childress |
-| 1301 | 220 | wewoo |
+| 1300 | 220 | wewoo |
+| 1301 | 220 | Seraphina Childress |
 | 1302 | 219 | Etoya Son |
 | 1303 | 219 | Matt Nadeau |
 | 1304 | 219 | Benjamin Sanabria |
 | 1305 | 219 | Marisa Lin |
-| 1306 | 218 | Heather Woods |
-| 1307 | 218 | Beeshbo |
+| 1306 | 218 | Beeshbo |
+| 1307 | 218 | Heather Woods |
 | 1308 | 218 | Becky Intrabartolo |
-| 1309 | 217 | Tamara Wooten |
-| 1310 | 217 | Svetlana Laudermilch |
+| 1309 | 217 | Svetlana Laudermilch |
+| 1310 | 217 | Tamara Wooten |
 | 1311 | 217 | Michelle Andrea |
 | 1312 | 217 | Christina Burns |
 | 1313 | 217 | Norma JulieMay |
@@ -1326,10 +1326,10 @@
 | 1318 | 216 | Dorothy White |
 | 1319 | 216 | Twilight |
 | 1320 | 216 | Fancy Twister |
-| 1321 | 215 | sarbea |
-| 1322 | 215 | Les Bell |
-| 1323 | 215 | Quita Clark |
-| 1324 | 215 | Jessica Madrid |
+| 1321 | 215 | Quita Clark |
+| 1322 | 215 | Jessica Madrid |
+| 1323 | 215 | sarbea |
+| 1324 | 215 | Les Bell |
 | 1325 | 215 | Jordan Kristine Avila |
 | 1326 | 215 | Chiquita Gillard |
 | 1327 | 215 | B.C.J |
@@ -1349,8 +1349,8 @@
 | 1341 | 212 | Crystol |
 | 1342 | 212 | Kimberly Bickling |
 | 1343 | 212 | Deshonett Rogers |
-| 1344 | 212 | Witty Slammer |
-| 1345 | 212 | Cassie Michaux |
+| 1344 | 212 | Cassie Michaux |
+| 1345 | 212 | Witty Slammer |
 | 1346 | 211 | Amber Groover Taylor |
 | 1347 | 211 | Glenda Renea Hensley |
 | 1348 | 211 | Stephanie Ann |
@@ -1379,47 +1379,47 @@
 | 1371 | 207 | Saucy Swiper |
 | 1372 | 207 | Kate Farok |
 | 1373 | 207 | Alice Biggs |
-| 1374 | 206 | Christy Ford |
-| 1375 | 206 | Lynn Williams |
-| 1376 | 205 | Paul Larsen |
-| 1377 | 205 | Kristin Carter |
-| 1378 | 204 | Zany Snap |
-| 1379 | 204 | Sherra Burg |
-| 1380 | 204 | Yavo Espn |
-| 1381 | 204 | laylei12 |
-| 1382 | 204 | Jose Domenech |
-| 1383 | 204 | Amelia Gibson |
-| 1384 | 204 | Hannah Marie |
-| 1385 | 204 | Anne Marie Ross Brown |
-| 1386 | 203 | Persephone |
-| 1387 | 203 | Michelle Totten |
-| 1388 | 203 | Dorothy Sweeden |
-| 1389 | 203 | Spicy Snapfit |
-| 1390 | 203 | Diana Lara Rodriguez |
-| 1391 | 202 | Victoria Moore-Smith |
-| 1392 | 202 | Garrett Burket |
-| 1393 | 202 | Jamie Bloxom Svoboda |
-| 1394 | 202 | Kim Bollinger |
-| 1395 | 202 | Jumpy Swiper |
-| 1396 | 202 | Wacky Shift |
-| 1397 | 202 | Gillian Kinna |
-| 1398 | 201 | Aiida Valentin |
-| 1399 | 201 | Melissa Bellamy |
-| 1400 | 201 | Big Bovice |
-| 1401 | 200 | Rhiannon Holmes |
-| 1402 | 200 | Sharron N Johnny Wetzel |
-| 1403 | 200 | Zesty Fall |
-| 1404 | 200 | Ashley M'Rynn Wideman |
-| 1405 | 200 | Breezy Towerzone |
-| 1406 | 200 | Lindsay Ackerman |
-| 1407 | 200 | Rachel |
-| 1408 | 200 | Roger Aschbrenner |
-| 1409 | 200 | zesty ricecak |
-| 1410 | 200 | Veronica Archambeau |
+| 1374 | 207 | Shamica Watley |
+| 1375 | 206 | Christy Ford |
+| 1376 | 206 | Lynn Williams |
+| 1377 | 205 | Paul Larsen |
+| 1378 | 205 | Kristin Carter |
+| 1379 | 204 | Zany Snap |
+| 1380 | 204 | Sherra Burg |
+| 1381 | 204 | Yavo Espn |
+| 1382 | 204 | laylei12 |
+| 1383 | 204 | Jose Domenech |
+| 1384 | 204 | Amelia Gibson |
+| 1385 | 204 | Hannah Marie |
+| 1386 | 204 | Anne Marie Ross Brown |
+| 1387 | 203 | Persephone |
+| 1388 | 203 | Michelle Totten |
+| 1389 | 203 | Dorothy Sweeden |
+| 1390 | 203 | Spicy Snapfit |
+| 1391 | 203 | Diana Lara Rodriguez |
+| 1392 | 202 | Victoria Moore-Smith |
+| 1393 | 202 | Garrett Burket |
+| 1394 | 202 | Jamie Bloxom Svoboda |
+| 1395 | 202 | Kim Bollinger |
+| 1396 | 202 | Jumpy Swiper |
+| 1397 | 202 | Wacky Shift |
+| 1398 | 202 | Gillian Kinna |
+| 1399 | 201 | Aiida Valentin |
+| 1400 | 201 | Melissa Bellamy |
+| 1401 | 201 | Big Bovice |
+| 1402 | 200 | Rhiannon Holmes |
+| 1403 | 200 | Sharron N Johnny Wetzel |
+| 1404 | 200 | Zesty Fall |
+| 1405 | 200 | Ashley M'Rynn Wideman |
+| 1406 | 200 | Breezy Towerzone |
+| 1407 | 200 | Lindsay Ackerman |
+| 1408 | 200 | Rachel |
+| 1409 | 200 | Roger Aschbrenner |
+| 1410 | 200 | zesty ricecak |
 | 1411 | 200 | Jasmine Nicole |
-| 1412 | 200 | Kathy Murphy |
-| 1413 | 200 | nee |
-| 1414 | 200 | Shamica Watley |
+| 1412 | 200 | Veronica Archambeau |
+| 1413 | 200 | Kathy Murphy |
+| 1414 | 200 | nee |
 | 1415 | 199 | Loopy Crasher |
 | 1416 | 199 | Ezeb |
 | 1417 | 199 | No mercy |
@@ -1440,8 +1440,8 @@
 | 1432 | 196 | Shelly Davids |
 | 1433 | 196 | Rebakay |
 | 1434 | 196 | Daicia Person |
-| 1435 | 196 | Lauraa |
-| 1436 | 196 | Swanky Zonegrid |
+| 1435 | 196 | Swanky Zonegrid |
+| 1436 | 196 | Lauraa |
 | 1437 | 195 | Angela Elizabeth Melito |
 | 1438 | 195 | Jennifer Benoit |
 | 1439 | 195 | Mieshia Tucker |
