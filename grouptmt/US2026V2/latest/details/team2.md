@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 08:34:44 UTC
+# Standings for team2 as of 2026-03-17 08:35:18 UTC
 
 **Total Participants:** 2967
 
@@ -156,7 +156,7 @@
 | 148 | 1025 | Krista Roberts |
 | 149 | 1021 | Christina Ramirez |
 | 150 | 1018 | Ania |
-| 151 | 1013 | Jumpy Filler |
+| 151 | 1014 | Jumpy Filler |
 | 152 | 1009 | Mary Reeves |
 | 153 | 1006 | Christina Graham |
 | 154 | 1000 | Dandy Crasher |
@@ -204,7 +204,7 @@
 | 196 | 829 | Kennady Griffin |
 | 197 | 828 | Abby Jensen |
 | 198 | 824 | illegal impulse |
-| 199 | 819 | Elaine Webb Graves |
+| 199 | 821 | Elaine Webb Graves |
 | 200 | 814 | Looloo |
 | 201 | 813 | Chipper Linkmatch |
 | 202 | 812 | Cranky Gridder |
