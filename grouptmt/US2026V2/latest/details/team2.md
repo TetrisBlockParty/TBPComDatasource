@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 08:42:19 UTC
+# Standings for team2 as of 2026-03-17 08:42:40 UTC
 
 **Total Participants:** 2967
 
@@ -69,7 +69,7 @@
 | 61 | 2361 | Peppy Slice |
 | 62 | 2334 | Becky McClure |
 | 63 | 2319 | Caitlin Johnson |
-| 64 | 2257 | Bubbly Twistpiece |
+| 64 | 2271 | Bubbly Twistpiece |
 | 65 | 2217 | Andrey Sharov |
 | 66 | 2197 | joe |
 | 67 | 2108 | Naomii Seton |
