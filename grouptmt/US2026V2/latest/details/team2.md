@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 05:50:45 UTC
+# Standings for team2 as of 2026-03-17 05:51:23 UTC
 
 **Total Participants:** 2946
 
@@ -694,96 +694,96 @@
 | 686 | 262 | Cari Barnes |
 | 687 | 261 | Loony Puzzle |
 | 688 | 261 | Snippy Framezone |
-| 689 | 260 | Paula Marcus Delsigne |
-| 690 | 260 | Chiran Xu |
+| 689 | 260 | Chiran Xu |
+| 690 | 260 | Nerdy Clearer |
 | 691 | 260 | Tanya Bullert |
-| 692 | 260 | Quirky Swiper |
-| 693 | 260 | Candy Brooks |
-| 694 | 260 | Shelly Marie Lloyd |
-| 695 | 260 | Daring Fall |
-| 696 | 260 | Nerdy Clearer |
+| 692 | 260 | Paula Marcus Delsigne |
+| 693 | 260 | Quirky Swiper |
+| 694 | 260 | Candy Brooks |
+| 695 | 260 | Shelly Marie Lloyd |
+| 696 | 260 | Daring Fall |
 | 697 | 259 | Chummy Strikerbuilder |
 | 698 | 259 | JamMY-YamMy |
-| 699 | 259 | Frothy Chiseler |
-| 700 | 259 | Danessa Lynn Jenkins |
+| 699 | 259 | Danessa Lynn Jenkins |
+| 700 | 259 | Frothy Chiseler |
 | 701 | 258 | Lucretia Candy Ross |
 | 702 | 257 | Flashy Tetriblast |
-| 703 | 256 | Ann Jessica |
-| 704 | 256 | Sylvie Lemoine |
-| 705 | 256 | Amy Jur Falk |
-| 706 | 255 | smoke1 |
-| 707 | 255 | Chefbj Ventress |
+| 703 | 256 | Amy Jur Falk |
+| 704 | 256 | Ann Jessica |
+| 705 | 256 | Sylvie Lemoine |
+| 706 | 255 | Chefbj Ventress |
+| 707 | 255 | smoke1 |
 | 708 | 255 | Marisa-Jamie Anderson |
-| 709 | 254 | Peppy Spinfit |
-| 710 | 254 | Pippa45 |
-| 711 | 254 | Speedy Balance |
+| 709 | 254 | Cozy Tiley |
+| 710 | 254 | Speedy Balance |
+| 711 | 254 | Cami Jones |
 | 712 | 254 | Ron Marriedtoglo |
-| 713 | 254 | Staci George Fitzsimmons |
-| 714 | 254 | Cami Jones |
-| 715 | 254 | Cozy Tiley |
+| 713 | 254 | Peppy Spinfit |
+| 714 | 254 | Pippa45 |
+| 715 | 254 | Staci George Fitzsimmons |
 | 716 | 253 | Sam Hall |
 | 717 | 253 | Roberta Nelson |
 | 718 | 253 | Mike Hromowyk |
 | 719 | 252 | Melanie Corum Reynolds |
-| 720 | 251 | Bouncy Piececlear |
-| 721 | 251 | Chipper Smasher |
-| 722 | 250 | Summer D Blakeley |
-| 723 | 250 | Hyper Pop |
-| 724 | 250 | Lisa420 |
-| 725 | 250 | Rhonda Prince |
-| 726 | 250 | Jimmy Xim |
-| 727 | 250 | Cristina Black |
+| 720 | 251 | Chipper Smasher |
+| 721 | 251 | Summer D Blakeley |
+| 722 | 251 | Bouncy Piececlear |
+| 723 | 250 | Rhonda Prince |
+| 724 | 250 | Hyper Pop |
+| 725 | 250 | Cristina Black |
+| 726 | 250 | Lisa420 |
+| 727 | 250 | Jimmy Xim |
 | 728 | 249 | LaChalle Shay |
 | 729 | 249 | Douglas Stam |
-| 730 | 248 | Chalanda Jefferies |
-| 731 | 248 | Lisa Duncan |
-| 732 | 248 | Tipsy Stagger |
+| 730 | 248 | Lisa Duncan |
+| 731 | 248 | Tipsy Stagger |
+| 732 | 248 | Chalanda Jefferies |
 | 733 | 247 | Danielle Thompkins |
-| 734 | 247 | Mahdi Evans |
-| 735 | 247 | Seven Overby |
-| 736 | 246 | Dbabe |
-| 737 | 246 | kal |
-| 738 | 246 | Twisty Balanceblock |
-| 739 | 246 | Keyata Wright |
-| 740 | 246 | Terrie Swift |
-| 741 | 246 | Darlene Simmons |
-| 742 | 245 | Truesuperwoman |
-| 743 | 245 | Isabelle Heineck |
-| 744 | 245 | John De Guzman Sydiongco |
+| 734 | 247 | Seven Overby |
+| 735 | 247 | Mahdi Evans |
+| 736 | 246 | Keyata Wright |
+| 737 | 246 | Terrie Swift |
+| 738 | 246 | kal |
+| 739 | 246 | Twisty Balanceblock |
+| 740 | 246 | Darlene Simmons |
+| 741 | 246 | Dbabe |
+| 742 | 245 | John De Guzman Sydiongco |
+| 743 | 245 | Truesuperwoman |
+| 744 | 245 | Isabelle Heineck |
 | 745 | 244 | Laura Harrington |
-| 746 | 244 | Jumpy Tiley |
-| 747 | 244 | Marinara |
+| 746 | 244 | Marinara |
+| 747 | 244 | Jumpy Tiley |
 | 748 | 243 | BusyBee11 |
 | 749 | 243 | Cuttermonk |
 | 750 | 242 | Happy Columnbuilder |
-| 751 | 242 | Kiana Serrao |
-| 752 | 242 | lou28 |
-| 753 | 242 | Janai Vrabel |
-| 754 | 241 | Rachel Zortman |
-| 755 | 241 | Kristi Riley |
+| 751 | 242 | Janai Vrabel |
+| 752 | 242 | Kiana Serrao |
+| 753 | 242 | lou28 |
+| 754 | 241 | Kristi Riley |
+| 755 | 241 | Rachel Zortman |
 | 756 | 241 | Michael E Whitejr |
 | 757 | 240 | Sarah Moyer |
-| 758 | 240 | Bea Miles |
-| 759 | 240 | Kaela Ferguson |
+| 758 | 240 | Kaela Ferguson |
+| 759 | 240 | Bea Miles |
 | 760 | 240 | ImperialQueen |
-| 761 | 240 | Mike Kremen |
-| 762 | 240 | Tristan Lamothe |
-| 763 | 239 | Ashley Sandlin |
-| 764 | 239 | Morgan Anne Witty |
-| 765 | 239 | April Sams |
-| 766 | 239 | Cathleena Giusto |
-| 767 | 239 | Holly Jolly |
-| 768 | 239 | Kelly Mcdaniel |
-| 769 | 239 | Unicorn |
+| 761 | 240 | Tristan Lamothe |
+| 762 | 240 | Mike Kremen |
+| 763 | 239 | April Sams |
+| 764 | 239 | Cathleena Giusto |
+| 765 | 239 | Unicorn |
+| 766 | 239 | Kelly Mcdaniel |
+| 767 | 239 | Ashley Sandlin |
+| 768 | 239 | Holly Jolly |
+| 769 | 239 | Morgan Anne Witty |
 | 770 | 237 | Giddy Gridmatch |
 | 771 | 236 | Yany |
 | 772 | 236 | Stefanie Bilello Burlew |
-| 773 | 235 | 503BZ |
-| 774 | 235 | Tiffany Dawn Caldwell |
-| 775 | 235 | KT CAT |
-| 776 | 235 | Leslie Nicole |
-| 777 | 235 | Happy Twistfit |
-| 778 | 235 | Shane Gann |
+| 773 | 235 | Shane Gann |
+| 774 | 235 | Happy Twistfit |
+| 775 | 235 | Leslie Nicole |
+| 776 | 235 | KT CAT |
+| 777 | 235 | Tiffany Dawn Caldwell |
+| 778 | 235 | 503BZ |
 | 779 | 235 | Shiny Fill |
 | 780 | 234 | Summer Richardson |
 | 781 | 234 | Libby |
