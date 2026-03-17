@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 05:55:25 UTC
+# Standings for team2 as of 2026-03-17 05:56:43 UTC
 
 **Total Participants:** 2946
 
@@ -640,8 +640,8 @@
 | 632 | 281 | Zesty Dropzone |
 | 633 | 281 | Twisty Risebuilder |
 | 634 | 281 | Aimee Byrom |
-| 635 | 280 | Susan Larson |
-| 636 | 280 | Ryan Parson |
+| 635 | 280 | Ryan Parson |
+| 636 | 280 | Susan Larson |
 | 637 | 279 | Jenn Leigh |
 | 638 | 279 | Tammie Anderson |
 | 639 | 279 | Bryanna Whitman |
@@ -657,14 +657,14 @@
 | 649 | 276 | ZeldaCat |
 | 650 | 276 | LeVeL27 |
 | 651 | 275 | Cookie |
-| 652 | 274 | Dizzy Dasher |
-| 653 | 272 | Rcw |
-| 654 | 272 | Joe Smith |
-| 655 | 272 | LaQuetta Faith Hines |
-| 656 | 271 | Miranda Taylor |
-| 657 | 271 | BendersMomma |
-| 658 | 271 | Marcia Jones |
-| 659 | 271 | ANIM3KNIGHT |
+| 652 | 275 | ANIM3KNIGHT |
+| 653 | 274 | Dizzy Dasher |
+| 654 | 272 | Rcw |
+| 655 | 272 | Joe Smith |
+| 656 | 272 | LaQuetta Faith Hines |
+| 657 | 271 | Miranda Taylor |
+| 658 | 271 | BendersMomma |
+| 659 | 271 | Marcia Jones |
 | 660 | 271 | Giggy Zonepiece |
 | 661 | 270 | Quitito1014 |
 | 662 | 270 | Slinky Towerer |
@@ -1827,42 +1827,42 @@
 | 1819 | 68 | Zappy Zoney |
 | 1820 | 68 | alix1818 |
 | 1821 | 68 | Gina Nicotra |
-| 1822 | 67 | Aura |
-| 1823 | 67 | Chipper Puzzler |
-| 1824 | 67 | Zesty Faller |
-| 1825 | 67 | Stern |
-| 1826 | 67 | Zachary Corcoran |
-| 1827 | 67 | Sonya Milbourne |
-| 1828 | 67 | Reese Crystal |
-| 1829 | 67 | Ieisha Scruggs Webb |
-| 1830 | 67 | Nicole Cox King |
-| 1831 | 67 | Shayy |
-| 1832 | 67 | Virginia Walker |
-| 1833 | 66 | Peppy Twistslam |
-| 1834 | 66 | Rachel Sadowski |
+| 1822 | 67 | Reese Crystal |
+| 1823 | 67 | Virginia Walker |
+| 1824 | 67 | Alexandria Shannon |
+| 1825 | 67 | Shayy |
+| 1826 | 67 | Nicole Cox King |
+| 1827 | 67 | Ieisha Scruggs Webb |
+| 1828 | 67 | Sonya Milbourne |
+| 1829 | 67 | Zachary Corcoran |
+| 1830 | 67 | Stern |
+| 1831 | 67 | Zesty Faller |
+| 1832 | 67 | Chipper Puzzler |
+| 1833 | 67 | Aura |
+| 1834 | 66 | Peppy Twistslam |
 | 1835 | 66 | Lazy Swiper |
 | 1836 | 66 | Danielle Wright |
-| 1837 | 66 | Jenni |
+| 1837 | 66 | Rachel Sadowski |
 | 1838 | 66 | PuppaT |
 | 1839 | 66 | Erika Vause |
-| 1840 | 66 | Gmo Lopez |
-| 1841 | 66 | Frilly Match |
-| 1842 | 66 | MamaJen |
-| 1843 | 65 | Stephanie Lemerond |
-| 1844 | 65 | Brandon Cruse |
-| 1845 | 65 | Angel Raya |
-| 1846 | 65 | Giggy Slam |
-| 1847 | 65 | Ys Muhammed |
-| 1848 | 65 | Kershawna Aten |
-| 1849 | 65 | Smith Nita |
-| 1850 | 65 | Hoppy Fallmatch |
-| 1851 | 65 | Sweetyam22 |
-| 1852 | 65 | Cheri Rose |
-| 1853 | 65 | Chill Tumbler |
-| 1854 | 65 | Perky Shiftspin |
-| 1855 | 65 | Will Chamberlain |
-| 1856 | 65 | Alexandria Shannon |
-| 1857 | 65 | Viktorya Elizabeth |
+| 1840 | 66 | Jenni |
+| 1841 | 66 | Gmo Lopez |
+| 1842 | 66 | Frilly Match |
+| 1843 | 66 | MamaJen |
+| 1844 | 65 | Stephanie Lemerond |
+| 1845 | 65 | Sweetyam22 |
+| 1846 | 65 | Viktorya Elizabeth |
+| 1847 | 65 | Will Chamberlain |
+| 1848 | 65 | Perky Shiftspin |
+| 1849 | 65 | Chill Tumbler |
+| 1850 | 65 | Cheri Rose |
+| 1851 | 65 | Brandon Cruse |
+| 1852 | 65 | Hoppy Fallmatch |
+| 1853 | 65 | Smith Nita |
+| 1854 | 65 | Kershawna Aten |
+| 1855 | 65 | Ys Muhammed |
+| 1856 | 65 | Giggy Slam |
+| 1857 | 65 | Angel Raya |
 | 1858 | 65 | Iris RL |
 | 1859 | 65 | BIGDP |
 | 1860 | 65 | Erin CP |
