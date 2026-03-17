@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 09:20:19 UTC
+# Standings for team2 as of 2026-03-17 09:20:41 UTC
 
 **Total Participants:** 2970
 
@@ -72,8 +72,8 @@
 | 64 | 2334 | Becky McClure |
 | 65 | 2319 | Caitlin Johnson |
 | 66 | 2217 | Andrey Sharov |
-| 67 | 2108 | Naomii Seton |
-| 68 | 2106 | Belle |
+| 67 | 2136 | Belle |
+| 68 | 2108 | Naomii Seton |
 | 69 | 2105 | Joshua Hopkins |
 | 70 | 2065 | Dreamy Linkbuilder |
 | 71 | 2010 | Carlos Torres |
@@ -1794,149 +1794,149 @@
 | 1786 | 72 | Tara Hansen |
 | 1787 | 72 | elsi |
 | 1788 | 71 | Wacky Matchgrid |
-| 1789 | 71 | Becky Wilson |
-| 1790 | 71 | Amy Pike |
-| 1791 | 71 | Chirpy Base |
-| 1792 | 71 | Hasty Ziggy |
-| 1793 | 71 | Saucy Snap |
-| 1794 | 71 | Black Pharaoh |
-| 1795 | 71 | Kristy Willis |
-| 1796 | 71 | Mark Norris |
-| 1797 | 71 | Amanda |
-| 1798 | 71 | Lazy Swiper |
-| 1799 | 71 | jardo |
-| 1800 | 71 | bschilke128 |
+| 1789 | 71 | Amy Pike |
+| 1790 | 71 | Lazy Swiper |
+| 1791 | 71 | bschilke128 |
+| 1792 | 71 | Becky Wilson |
+| 1793 | 71 | jardo |
+| 1794 | 71 | Hasty Ziggy |
+| 1795 | 71 | Black Pharaoh |
+| 1796 | 71 | Chirpy Base |
+| 1797 | 71 | Saucy Snap |
+| 1798 | 71 | Mark Norris |
+| 1799 | 71 | Kristy Willis |
+| 1800 | 71 | Amanda |
 | 1801 | 71 | Laura McCoy |
-| 1802 | 70 | Morob |
-| 1803 | 70 | Amanda Colwell |
-| 1804 | 70 | Riley Hall |
-| 1805 | 70 | Stevon Green |
-| 1806 | 70 | Carla Newton |
-| 1807 | 70 | Brave Swiper |
-| 1808 | 70 | Nellie Cummings |
-| 1809 | 70 | Mariah SanCartier |
-| 1810 | 70 | Charity Dirkman |
-| 1811 | 70 | John Anderson |
-| 1812 | 70 | Keri Hough |
-| 1813 | 70 | Mike Esparza |
-| 1814 | 70 | Shelby Rodriguez Coburn |
-| 1815 | 70 | Peachy Buildsnap |
+| 1802 | 70 | John Anderson |
+| 1803 | 70 | Carla Newton |
+| 1804 | 70 | Keri Hough |
+| 1805 | 70 | Morob |
+| 1806 | 70 | Mike Esparza |
+| 1807 | 70 | Stevon Green |
+| 1808 | 70 | Shelby Rodriguez Coburn |
+| 1809 | 70 | Amanda Colwell |
+| 1810 | 70 | Peachy Buildsnap |
+| 1811 | 70 | Riley Hall |
+| 1812 | 70 | Brave Swiper |
+| 1813 | 70 | Nellie Cummings |
+| 1814 | 70 | Mariah SanCartier |
+| 1815 | 70 | Charity Dirkman |
 | 1816 | 70 | Chlo |
 | 1817 | 70 | Seniia |
 | 1818 | 70 | Cheryl Eisiliones |
 | 1819 | 69 | Angie Waters |
-| 1820 | 69 | Robert Waagmeester |
-| 1821 | 69 | Carol Rogers |
-| 1822 | 69 | Paula Jean Purcell |
-| 1823 | 69 | Jelessa Locklear |
-| 1824 | 69 | Wanda Yvette Daniels |
-| 1825 | 69 | Jumpy Dashfit |
-| 1826 | 69 | Slimee Dorris Jean |
-| 1827 | 69 | Chris Jammey |
-| 1828 | 69 | April Elise |
-| 1829 | 69 | Katie Curr |
-| 1830 | 69 | Snazzy Twistpiece |
-| 1831 | 68 | Melissa |
-| 1832 | 68 | Chill Spinblock |
-| 1833 | 68 | Joseph Ferranto |
-| 1834 | 68 | Melinda Davis |
-| 1835 | 68 | Zesty Cascadeclear |
-| 1836 | 68 | Kirin Su |
-| 1837 | 68 | Nerdy Balanceblock |
-| 1838 | 68 | Jazzy Nat |
-| 1839 | 68 | Zappy Zoney |
-| 1840 | 68 | funhon2829 |
-| 1841 | 68 | Jeff Paschen |
-| 1842 | 68 | Clever Snapgrid |
-| 1843 | 68 | Brave Tilebuilder |
-| 1844 | 68 | Michelle Sharpe |
-| 1845 | 68 | GoddessCandy |
-| 1846 | 68 | Morgan Hirzel |
-| 1847 | 68 | 22 ultra |
-| 1848 | 68 | BurntSinai |
-| 1849 | 68 | alix1818 |
-| 1850 | 68 | Lora Loya |
-| 1851 | 68 | J Cleveland Payne |
-| 1852 | 67 | Nicole Cox King |
-| 1853 | 67 | Zachary Corcoran |
-| 1854 | 67 | Shayy |
-| 1855 | 67 | Chipper Puzzler |
-| 1856 | 67 | Sonya Milbourne |
-| 1857 | 67 | Stern |
-| 1858 | 67 | Aura |
-| 1859 | 67 | Virginia Walker |
+| 1820 | 69 | Katie Curr |
+| 1821 | 69 | Snazzy Twistpiece |
+| 1822 | 69 | Jumpy Dashfit |
+| 1823 | 69 | Wanda Yvette Daniels |
+| 1824 | 69 | April Elise |
+| 1825 | 69 | Jelessa Locklear |
+| 1826 | 69 | Robert Waagmeester |
+| 1827 | 69 | Carol Rogers |
+| 1828 | 69 | Paula Jean Purcell |
+| 1829 | 69 | Chris Jammey |
+| 1830 | 69 | Slimee Dorris Jean |
+| 1831 | 68 | Jeff Paschen |
+| 1832 | 68 | Nerdy Balanceblock |
+| 1833 | 68 | Zesty Cascadeclear |
+| 1834 | 68 | Brave Tilebuilder |
+| 1835 | 68 | Joseph Ferranto |
+| 1836 | 68 | Chill Spinblock |
+| 1837 | 68 | Melinda Davis |
+| 1838 | 68 | Clever Snapgrid |
+| 1839 | 68 | Kirin Su |
+| 1840 | 68 | Morgan Hirzel |
+| 1841 | 68 | Michelle Sharpe |
+| 1842 | 68 | alix1818 |
+| 1843 | 68 | BurntSinai |
+| 1844 | 68 | J Cleveland Payne |
+| 1845 | 68 | Melissa |
+| 1846 | 68 | Lora Loya |
+| 1847 | 68 | Jazzy Nat |
+| 1848 | 68 | Zappy Zoney |
+| 1849 | 68 | funhon2829 |
+| 1850 | 68 | 22 ultra |
+| 1851 | 68 | GoddessCandy |
+| 1852 | 67 | Sonya Milbourne |
+| 1853 | 67 | Stern |
+| 1854 | 67 | Zesty Faller |
+| 1855 | 67 | Aura |
+| 1856 | 67 | Virginia Walker |
+| 1857 | 67 | Shayy |
+| 1858 | 67 | Nicole Cox King |
+| 1859 | 67 | Zachary Corcoran |
 | 1860 | 67 | Ieisha Scruggs Webb |
-| 1861 | 67 | Zesty Faller |
+| 1861 | 67 | Chipper Puzzler |
 | 1862 | 67 | Frilly Match |
 | 1863 | 66 | Gmo Lopez |
 | 1864 | 66 | MamaJen |
-| 1865 | 66 | ts |
-| 1866 | 66 | Erika Vause |
-| 1867 | 66 | Rachel Sadowski |
-| 1868 | 66 | Danielle Wright |
-| 1869 | 66 | Peppy Twistslam |
+| 1865 | 66 | Rachel Sadowski |
+| 1866 | 66 | Peppy Twistslam |
+| 1867 | 66 | Jess |
+| 1868 | 66 | ts |
+| 1869 | 66 | Lora Sikorski |
 | 1870 | 66 | Jenni |
-| 1871 | 66 | Jess |
-| 1872 | 66 | Lora Sikorski |
-| 1873 | 65 | Sozail Enfluanza |
+| 1871 | 66 | Chill Tumbler |
+| 1872 | 66 | Danielle Wright |
+| 1873 | 66 | Erika Vause |
 | 1874 | 65 | Erin CP |
 | 1875 | 65 | Kershawna Aten |
-| 1876 | 65 | Cheri Rose |
-| 1877 | 65 | Will Chamberlain |
-| 1878 | 65 | Chill Tumbler |
-| 1879 | 65 | Hoppy Fallmatch |
-| 1880 | 65 | Giggy Slam |
-| 1881 | 65 | Sweetyam22 |
-| 1882 | 65 | Angel Raya |
-| 1883 | 65 | Brandon Cruse |
-| 1884 | 65 | Iris RL |
-| 1885 | 65 | Smith Nita |
+| 1876 | 65 | Sozail Enfluanza |
+| 1877 | 65 | Cheri Rose |
+| 1878 | 65 | Perky Shiftspin |
+| 1879 | 65 | Sweetyam22 |
+| 1880 | 65 | Hoppy Fallmatch |
+| 1881 | 65 | Giggy Slam |
+| 1882 | 65 | Brandon Cruse |
+| 1883 | 65 | Iris RL |
+| 1884 | 65 | Smith Nita |
+| 1885 | 65 | Will Chamberlain |
 | 1886 | 65 | Viktorya Elizabeth |
 | 1887 | 65 | ace |
-| 1888 | 65 | fay |
-| 1889 | 65 | Lively Stacky |
-| 1890 | 65 | Perky Shiftspin |
+| 1888 | 65 | Angel Raya |
+| 1889 | 65 | fay |
+| 1890 | 65 | Lively Stacky |
 | 1891 | 65 | Stephanie Lemerond |
 | 1892 | 65 | BIGDP |
-| 1893 | 64 | Ti Pi |
-| 1894 | 64 | Veronica Uribe |
-| 1895 | 64 | Kristine Salinas |
-| 1896 | 64 | Pamela Togun |
-| 1897 | 64 | Candice Bertie |
-| 1898 | 64 | Sticherella |
-| 1899 | 64 | Amy |
-| 1900 | 64 | Monica Daley |
-| 1901 | 64 | Kaycie Brieanne |
-| 1902 | 64 | Lenox |
-| 1903 | 64 | Sherice Amber |
-| 1904 | 64 | Antzy |
-| 1905 | 64 | Melissa K Smith |
-| 1906 | 64 | Muffins Hbf |
-| 1907 | 63 | Chastity Speight |
-| 1908 | 63 | FuzzyKay |
-| 1909 | 63 | Melissa Courville |
+| 1893 | 64 | Sticherella |
+| 1894 | 64 | Candice Bertie |
+| 1895 | 64 | Pamela Togun |
+| 1896 | 64 | Veronica Uribe |
+| 1897 | 64 | Amy |
+| 1898 | 64 | Monica Daley |
+| 1899 | 64 | Kaycie Brieanne |
+| 1900 | 64 | Lenox |
+| 1901 | 64 | Ti Pi |
+| 1902 | 64 | Kristine Salinas |
+| 1903 | 64 | Antzy |
+| 1904 | 64 | Melissa K Smith |
+| 1905 | 64 | Muffins Hbf |
+| 1906 | 64 | Sherice Amber |
+| 1907 | 63 | Misty |
+| 1908 | 63 | Kristie Simonds Gaydos |
+| 1909 | 63 | Chastity Speight |
 | 1910 | 63 | Kimberly Krass |
-| 1911 | 63 | Tre |
-| 1912 | 63 | Tiny Redbeard |
-| 1913 | 63 | Misty |
-| 1914 | 63 | Ma Ri |
-| 1915 | 63 | Kristie Simonds Gaydos |
-| 1916 | 63 | Jenni Mfb |
-| 1917 | 63 | Hannibal Musa |
+| 1911 | 63 | FuzzyKay |
+| 1912 | 63 | Melissa Courville |
+| 1913 | 63 | Jenni Mfb |
+| 1914 | 63 | Tre |
+| 1915 | 63 | Tiny Redbeard |
+| 1916 | 63 | Hannibal Musa |
+| 1917 | 63 | Ma Ri |
 | 1918 | 63 | Jaimie Lynn Casias |
 | 1919 | 62 | Zesty Wipeout |
-| 1920 | 62 | Snappy Risebuilder |
-| 1921 | 62 | Heidi Miller Caponigro |
+| 1920 | 62 | Lobsta |
+| 1921 | 62 | Goredo |
 | 1922 | 62 | Chandra |
-| 1923 | 62 | Lobsta |
-| 1924 | 62 | Goredo |
-| 1925 | 62 | Melissa Manser |
-| 1926 | 62 | Uuinner |
-| 1927 | 62 | LiseePooh |
-| 1928 | 62 | Elizabeth A. Lisa Short |
-| 1929 | 62 | pickle girl |
-| 1930 | 62 | Jennifer Young |
-| 1931 | 62 | Melanie Klump |
+| 1923 | 62 | Heidi Miller Caponigro |
+| 1924 | 62 | Melissa Manser |
+| 1925 | 62 | Uuinner |
+| 1926 | 62 | LiseePooh |
+| 1927 | 62 | Elizabeth A. Lisa Short |
+| 1928 | 62 | pickle girl |
+| 1929 | 62 | Jennifer Young |
+| 1930 | 62 | Melanie Klump |
+| 1931 | 62 | Snappy Risebuilder |
 | 1932 | 62 | Cool Riser |
 | 1933 | 62 | Christin VanNorman |
 | 1934 | 62 | John Wick |
