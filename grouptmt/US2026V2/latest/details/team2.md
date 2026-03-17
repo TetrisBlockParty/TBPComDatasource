@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 16:18:45 UTC
+# Standings for team2 as of 2026-03-17 16:19:23 UTC
 
 **Total Participants:** 3034
 
@@ -138,8 +138,8 @@
 | 130 | 1186 | Sass |
 | 131 | 1177 | Leticia Martinez Kelley |
 | 132 | 1174 | Rafael Valentin |
-| 133 | 1161 | Jennifer Golub |
-| 134 | 1160 | Paul Hudak |
+| 133 | 1170 | Paul Hudak |
+| 134 | 1161 | Jennifer Golub |
 | 135 | 1140 | Sharon Cail |
 | 136 | 1132 | Christy Green |
 | 137 | 1124 | Melissa Bergin |
@@ -363,21 +363,21 @@
 | 355 | 517 | LeVeL27 |
 | 356 | 516 | Tyler Bechtel |
 | 357 | 515 | Jocelyn Jauregui |
-| 358 | 512 | Halstead47K |
-| 359 | 512 | SuZee |
-| 360 | 511 | Jen Roe |
-| 361 | 510 | Dreamy Clicky |
-| 362 | 508 | Zak Dunn |
-| 363 | 508 | SterlingTeri |
-| 364 | 505 | Jazzy Piecebuilder |
-| 365 | 504 | Lush Linkgrid |
-| 366 | 503 | Ashley Danielle |
-| 367 | 501 | Phredda Compton |
-| 368 | 500 | Kate |
-| 369 | 500 | Plucky Snaplink |
+| 358 | 513 | Plucky Snaplink |
+| 359 | 512 | Halstead47K |
+| 360 | 512 | SuZee |
+| 361 | 511 | Jen Roe |
+| 362 | 510 | Dreamy Clicky |
+| 363 | 508 | Zak Dunn |
+| 364 | 508 | SterlingTeri |
+| 365 | 505 | Jazzy Piecebuilder |
+| 366 | 504 | Lush Linkgrid |
+| 367 | 503 | Ashley Danielle |
+| 368 | 501 | Phredda Compton |
+| 369 | 500 | Kate |
 | 370 | 500 | Tatyahna Cameron |
-| 371 | 497 | Ashley Leonard |
-| 372 | 497 | Snappy Tiley |
+| 371 | 497 | Snappy Tiley |
+| 372 | 497 | Ashley Leonard |
 | 373 | 497 | Traci Bond |
 | 374 | 494 | Lazy Twistline |
 | 375 | 492 | Desi Desporte |
@@ -945,64 +945,64 @@
 | 937 | 205 | Janelle Edgecombe |
 | 938 | 205 | Wes Ross |
 | 939 | 205 | Shiny Framezone |
-| 940 | 205 | Hector Gutierrez |
-| 941 | 205 | Kari Thompson Rock |
-| 942 | 204 | Steve Ouellet |
-| 943 | 204 | Ashley Jayne Phillips |
+| 940 | 205 | Kari Thompson Rock |
+| 941 | 205 | Hector Gutierrez |
+| 942 | 204 | Ashley Jayne Phillips |
+| 943 | 204 | Steve Ouellet |
 | 944 | 203 | James Smith |
 | 945 | 203 | Jackie Miller |
-| 946 | 203 | Zack Theisen |
+| 946 | 203 | Brittany Backus |
 | 947 | 203 | Melissa M Wolfe |
-| 948 | 203 | Brittany Backus |
-| 949 | 202 | Giddy Twistslam |
-| 950 | 202 | Nicole Lynnette Mahurin |
-| 951 | 202 | Christina Freeman |
-| 952 | 202 | Salvador Garcia |
-| 953 | 202 | Crystal Brown-Miles |
-| 954 | 202 | Bold Brickzone |
-| 955 | 201 | Monroy Juana |
-| 956 | 201 | Goats Poe |
-| 957 | 201 | bubbles |
-| 958 | 201 | Bridgett Walker |
-| 959 | 201 | Jessica Petersen |
-| 960 | 200 | Jes Lynn |
-| 961 | 200 | Amber Fore |
-| 962 | 200 | Becki Lynne Corinthos |
-| 963 | 200 | Nindesaster |
-| 964 | 200 | Rachy77 |
-| 965 | 200 | Jaadd |
-| 966 | 200 | Adam W Johnson |
-| 967 | 200 | Jessica Walder |
+| 948 | 203 | Zack Theisen |
+| 949 | 202 | Crystal Brown-Miles |
+| 950 | 202 | Salvador Garcia |
+| 951 | 202 | Bold Brickzone |
+| 952 | 202 | Amber Fore |
+| 953 | 202 | Christina Freeman |
+| 954 | 202 | Nicole Lynnette Mahurin |
+| 955 | 202 | Giddy Twistslam |
+| 956 | 201 | Monroy Juana |
+| 957 | 201 | Goats Poe |
+| 958 | 201 | bubbles |
+| 959 | 201 | Bridgett Walker |
+| 960 | 201 | Jessica Petersen |
+| 961 | 200 | Jes Lynn |
+| 962 | 200 | Jaadd |
+| 963 | 200 | Jessica Walder |
+| 964 | 200 | Adam W Johnson |
+| 965 | 200 | Rachy77 |
+| 966 | 200 | Nindesaster |
+| 967 | 200 | Becki Lynne Corinthos |
 | 968 | 200 | Jaci Marie |
-| 969 | 199 | Melissa Rodriguez |
+| 969 | 199 | Christopher Kissiah |
 | 970 | 199 | 00022Denny |
-| 971 | 199 | Jody King |
-| 972 | 199 | Christopher Kissiah |
+| 971 | 199 | Melissa Rodriguez |
+| 972 | 199 | Jody King |
 | 973 | 198 | Amanda |
-| 974 | 197 | Slinky Align |
-| 975 | 197 | BEANS |
-| 976 | 197 | Jeanine Macrina |
-| 977 | 197 | Cee_me |
-| 978 | 197 | Robert Benjamin |
-| 979 | 197 | Bethany H. Tunison |
-| 980 | 196 | Brenda Arbaugh |
-| 981 | 196 | Rachael Village |
-| 982 | 196 | Ashlee Pappaconstantinou |
-| 983 | 196 | Colin Morgan |
-| 984 | 195 | Swanky Builderpiece |
-| 985 | 195 | Bumblebee |
-| 986 | 195 | Alice Petterborg Barberich |
-| 987 | 195 | BugMansMom |
+| 974 | 197 | Cee_me |
+| 975 | 197 | Bethany H. Tunison |
+| 976 | 197 | Slinky Align |
+| 977 | 197 | Jeanine Macrina |
+| 978 | 197 | BEANS |
+| 979 | 197 | Robert Benjamin |
+| 980 | 196 | Colin Morgan |
+| 981 | 196 | Brenda Arbaugh |
+| 982 | 196 | Rachael Village |
+| 983 | 196 | Ashlee Pappaconstantinou |
+| 984 | 195 | Bumblebee |
+| 985 | 195 | Alice Petterborg Barberich |
+| 986 | 195 | BugMansMom |
+| 987 | 195 | Swanky Builderpiece |
 | 988 | 194 | JZoya  Scott |
-| 989 | 194 | Danielle Smith |
-| 990 | 194 | Layne Dejean |
-| 991 | 194 | Faithful Akiroso |
+| 989 | 194 | Faithful Akiroso |
+| 990 | 194 | Danielle Smith |
+| 991 | 194 | Layne Dejean |
 | 992 | 194 | Brendi Richardson |
 | 993 | 193 | Bubbly Blockmatch |
 | 994 | 193 | Joni Walczak |
 | 995 | 193 | Fancy Columnbuilder |
-| 996 | 193 | Edward Krohn |
-| 997 | 193 | Ann Marie Humphries |
+| 996 | 193 | Ann Marie Humphries |
+| 997 | 193 | Edward Krohn |
 | 998 | 192 | Nina Kela |
 | 999 | 192 | Vicke Patterson |
 | 1000 | 192 | Scott Siple |
@@ -1213,11 +1213,11 @@
 | 1205 | 149 | Marlon Reed |
 | 1206 | 149 | Tiarra Swan |
 | 1207 | 149 | Kira Hugar |
-| 1208 | 148 | Taizia Raeshell |
-| 1209 | 148 | Swanky Matchpiece |
-| 1210 | 148 | Chyrisse Norton |
-| 1211 | 148 | Grovenia Joy Perryman |
-| 1212 | 147 | Trouble |
+| 1208 | 148 | Trouble |
+| 1209 | 148 | Taizia Raeshell |
+| 1210 | 148 | Swanky Matchpiece |
+| 1211 | 148 | Chyrisse Norton |
+| 1212 | 148 | Grovenia Joy Perryman |
 | 1213 | 147 | Tiffany Leon |
 | 1214 | 147 | Hyper Gridpiece |
 | 1215 | 147 | Cece Ibarra |
