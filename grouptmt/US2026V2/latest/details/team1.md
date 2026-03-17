@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 09:36:45 UTC
+# Standings for team1 as of 2026-03-17 09:37:19 UTC
 
 **Total Participants:** 2969
 
@@ -988,8 +988,8 @@
 | 980 | 190 | Witty Clusterfit |
 | 981 | 190 | Komikeh White |
 | 982 | 190 | Rick Haverty |
-| 983 | 189 | Ðirt |
-| 984 | 189 | WEIRDINO |
+| 983 | 189 | WEIRDINO |
+| 984 | 189 | Ðirt |
 | 985 | 189 | Matthew Graves D.C. |
 | 986 | 189 | Loopy Edge |
 | 987 | 189 | Chummy Risebuilder |
@@ -1003,31 +1003,31 @@
 | 995 | 186 | Groovy Cascadefit |
 | 996 | 186 | Kristen Hall |
 | 997 | 186 | Nutty Matcher |
-| 998 | 186 | Amy Hollinger |
-| 999 | 185 | Brandi Huntington |
-| 1000 | 184 | Dace Zoltners |
+| 998 | 186 | Leo Davis |
+| 999 | 186 | Amy Hollinger |
+| 1000 | 185 | Brandi Huntington |
 | 1001 | 184 | Giggly Shatterer |
 | 1002 | 184 | Denice Dee |
 | 1003 | 184 | Breezy Stackbuilder |
-| 1004 | 184 | Cynthia Mann |
-| 1005 | 183 | Tibor Vincepap |
+| 1004 | 184 | Dace Zoltners |
+| 1005 | 184 | Cynthia Mann |
 | 1006 | 183 | Mykel Mcbreen |
 | 1007 | 183 | SLAPNUTZ |
-| 1008 | 183 | Dakota Thomas |
-| 1009 | 183 | Leo Davis |
+| 1008 | 183 | Tibor Vincepap |
+| 1009 | 183 | Dakota Thomas |
 | 1010 | 183 | Ronald Przytulski |
 | 1011 | 183 | Taquilla Branch |
 | 1012 | 183 | Jennifer Bunker |
 | 1013 | 182 | Chin lock |
 | 1014 | 182 | Texastytest |
-| 1015 | 182 | Eddie Biernacki |
-| 1016 | 182 | Jolly Buildgrid |
+| 1015 | 182 | Jolly Buildgrid |
+| 1016 | 182 | Eddie Biernacki |
 | 1017 | 181 | Groovy Holder |
 | 1018 | 181 | Sharon Panoski |
-| 1019 | 180 | Curtis Kuffel |
+| 1019 | 180 | pjbeta |
 | 1020 | 180 | Christal Peltier |
-| 1021 | 180 | tay |
-| 1022 | 180 | pjbeta |
+| 1021 | 180 | Curtis Kuffel |
+| 1022 | 180 | tay |
 | 1023 | 180 | John DeMoss |
 | 1024 | 180 | Cozy Matchpiece |
 | 1025 | 179 | Duna Tats |
