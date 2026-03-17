@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 02:12:22 UTC
+# Standings for team1 as of 2026-03-17 02:12:43 UTC
 
 **Total Participants:** 2864
 
@@ -103,11 +103,11 @@
 | 95 | 1577 | Trisha Gallagher |
 | 96 | 1577 | Yolanda M Harris |
 | 97 | 1576 | Walker Patterson |
-| 98 | 1543 | Spunky Snapfit |
-| 99 | 1525 | Sherri Drews |
-| 100 | 1521 | Darci Cline |
-| 101 | 1515 | Mary Pelley |
-| 102 | 1508 | Caitlin Zakrzewski |
+| 98 | 1568 | Caitlin Zakrzewski |
+| 99 | 1543 | Spunky Snapfit |
+| 100 | 1525 | Sherri Drews |
+| 101 | 1521 | Darci Cline |
+| 102 | 1515 | Mary Pelley |
 | 103 | 1487 | Amber Zeller Rice |
 | 104 | 1466 | Gloria Ininahazwe |
 | 105 | 1437 | Fancy Ziggy |
@@ -138,8 +138,8 @@
 | 130 | 1218 | Nanan Nanan |
 | 131 | 1200 | Death |
 | 132 | 1198 | Justin Jerome |
-| 133 | 1183 | Letson Melissa |
-| 134 | 1183 | Jess Dearborn |
+| 133 | 1183 | Jess Dearborn |
+| 134 | 1183 | Letson Melissa |
 | 135 | 1180 | Michael DeRosa |
 | 136 | 1178 | Big rick !!! |
 | 137 | 1163 | Zach Thompson |
@@ -201,8 +201,8 @@
 | 193 | 842 | Althea Louise |
 | 194 | 842 | Stefanie Champion |
 | 195 | 837 | Duane Ficara |
-| 196 | 830 | Thorpedo |
-| 197 | 827 | DeeBee |
+| 196 | 832 | DeeBee |
+| 197 | 830 | Thorpedo |
 | 198 | 823 | Loony Brickmatch |
 | 199 | 821 | Hut Des |
 | 200 | 815 | Brittney Groler |
@@ -275,31 +275,31 @@
 | 267 | 622 | Mykal Burton |
 | 268 | 615 | Alex Hennigh |
 | 269 | 614 | Eric Hoffman |
-| 270 | 613 | Tisha Cammack |
-| 271 | 613 | Lynn Perkins |
+| 270 | 613 | Lynn Perkins |
+| 271 | 613 | Tisha Cammack |
 | 272 | 612 | Stephanie Myers |
-| 273 | 611 | Pamela Marie Tyler |
-| 274 | 609 | Amers |
-| 275 | 605 | raffyG |
-| 276 | 603 | Nancy Reid |
-| 277 | 603 | Jena Overall Prescott |
-| 278 | 601 | Rennon Scott Wilson |
-| 279 | 600 | Angela Renea Lester |
-| 280 | 598 | Michael Espinosa Ulibarri Jr. |
-| 281 | 598 | Alezandra Smith |
-| 282 | 597 | Desiree Jenson |
-| 283 | 595 | beep |
-| 284 | 594 | Allena Craft |
-| 285 | 593 | Kristina Smith |
-| 286 | 591 | Frilly Breaker |
-| 287 | 588 | Diamond Madison |
-| 288 | 588 | Tammy Lamb |
-| 289 | 588 | Bouncy Wipeout |
-| 290 | 577 | Suzan Frazier |
-| 291 | 575 | Shawna Fender Dennis |
-| 292 | 575 | Angelina Maldonado |
-| 293 | 574 | Stephanie Lawrence |
-| 294 | 573 | Antonia Wyche |
+| 273 | 612 | Antonia Wyche |
+| 274 | 611 | Pamela Marie Tyler |
+| 275 | 609 | Amers |
+| 276 | 605 | raffyG |
+| 277 | 603 | Nancy Reid |
+| 278 | 603 | Jena Overall Prescott |
+| 279 | 601 | Rennon Scott Wilson |
+| 280 | 600 | Angela Renea Lester |
+| 281 | 598 | Michael Espinosa Ulibarri Jr. |
+| 282 | 598 | Alezandra Smith |
+| 283 | 597 | Desiree Jenson |
+| 284 | 595 | beep |
+| 285 | 594 | Allena Craft |
+| 286 | 593 | Kristina Smith |
+| 287 | 591 | Frilly Breaker |
+| 288 | 588 | Diamond Madison |
+| 289 | 588 | Tammy Lamb |
+| 290 | 588 | Bouncy Wipeout |
+| 291 | 577 | Suzan Frazier |
+| 292 | 575 | Shawna Fender Dennis |
+| 293 | 575 | Angelina Maldonado |
+| 294 | 574 | Stephanie Lawrence |
 | 295 | 572 | Jamilah Abdul-Hakeem |
 | 296 | 569 | Tatiyana Holm |
 | 297 | 568 | Loony Towerpiece |
@@ -1037,47 +1037,47 @@
 | 1029 | 161 | Megan Treacy |
 | 1030 | 161 | Lablaze |
 | 1031 | 161 | Mariah Todd |
-| 1032 | 161 | David Wright |
-| 1033 | 161 | Danielle Kollias |
+| 1032 | 161 | DreamyMoon |
+| 1033 | 161 | Danielle Sperry |
 | 1034 | 161 | Giggly Builderline |
-| 1035 | 161 | DreamyMoon |
-| 1036 | 161 | Danielle Sperry |
+| 1035 | 161 | David Wright |
+| 1036 | 161 | Danielle Kollias |
 | 1037 | 160 | Shant |
 | 1038 | 160 | Dominic G Terriaca |
-| 1039 | 160 | Aseven Elements |
-| 1040 | 160 | Agustin Duarte Orozco |
-| 1041 | 160 | Zappy Strike |
-| 1042 | 160 | Hoppy Builderpiece |
-| 1043 | 159 | Mathhew Tompkins |
-| 1044 | 159 | Tamara Brown |
-| 1045 | 159 | Jenny Stratton Cozart |
-| 1046 | 159 | Monet Laronda Wilson |
+| 1039 | 160 | Agustin Duarte Orozco |
+| 1040 | 160 | Hoppy Builderpiece |
+| 1041 | 160 | Aseven Elements |
+| 1042 | 160 | Zappy Strike |
+| 1043 | 159 | Monet Laronda Wilson |
+| 1044 | 159 | Jenny Stratton Cozart |
+| 1045 | 159 | Tamara Brown |
+| 1046 | 159 | Mathhew Tompkins |
 | 1047 | 158 | DeJuan Green |
 | 1048 | 158 | Christie Love |
-| 1049 | 157 | Tyler Terrific |
-| 1050 | 157 | Meagan Nicole |
-| 1051 | 156 | Flashy Wipeblock |
+| 1049 | 157 | Meagan Nicole |
+| 1050 | 157 | Tyler Terrific |
+| 1051 | 156 | Denise Vardy Vanlanker |
 | 1052 | 156 | StarlessRevenge |
-| 1053 | 156 | Felise Bee |
-| 1054 | 155 | Shekita Gibbs |
-| 1055 | 155 | Margie Olivas |
-| 1056 | 155 | Nicole Brown |
-| 1057 | 155 | Kelli Marie |
-| 1058 | 155 | Tabetha Craddock |
-| 1059 | 154 | Denise Vardy Vanlanker |
+| 1053 | 156 | Flashy Wipeblock |
+| 1054 | 156 | Felise Bee |
+| 1055 | 155 | Kelli Marie |
+| 1056 | 155 | Tabetha Craddock |
+| 1057 | 155 | Nicole Brown |
+| 1058 | 155 | Shekita Gibbs |
+| 1059 | 155 | Margie Olivas |
 | 1060 | 154 | Nancy Burnside |
 | 1061 | 154 | Kora Catherine |
 | 1062 | 154 | Wings |
 | 1063 | 153 | Cheery Wipeblock |
 | 1064 | 153 | Nuga |
-| 1065 | 153 | Ashley Munn |
-| 1066 | 153 | Joyce Fees |
-| 1067 | 153 | Bryant Rodriguez |
+| 1065 | 153 | Joyce Fees |
+| 1066 | 153 | Bryant Rodriguez |
+| 1067 | 153 | Ashley Munn |
 | 1068 | 152 | Glitzy Spinfit |
 | 1069 | 152 | Bouncy Bouncer |
 | 1070 | 152 | Ernest Jordan |
-| 1071 | 151 | Larry Fritzinger |
-| 1072 | 151 | Blockface |
+| 1071 | 151 | Blockface |
+| 1072 | 151 | Larry Fritzinger |
 | 1073 | 151 | Becca Gatrell Barton |
 | 1074 | 151 | Samantha Bugg Stitcher |
 | 1075 | 151 | Summer Moore |
