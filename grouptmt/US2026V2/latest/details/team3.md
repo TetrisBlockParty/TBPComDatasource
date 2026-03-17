@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-17 07:36:47 UTC
+# Standings for team3 as of 2026-03-17 07:37:22 UTC
 
 **Total Participants:** 4651
 
@@ -361,21 +361,21 @@
 | 353 | 763 | Christine Niles |
 | 354 | 762 | Block head |
 | 355 | 761 | Jessica Ramey |
-| 356 | 760 | Chris Sladoje |
-| 357 | 760 | Moist_B-hole |
+| 356 | 760 | Moist_B-hole |
+| 357 | 760 | Chris Sladoje |
 | 358 | 759 | Deanna Grilli |
 | 359 | 758 | Kaleb Sprenger |
 | 360 | 754 | Cariad Woodard |
 | 361 | 752 | Olivia Walker |
-| 362 | 750 | Ashley Clary |
-| 363 | 750 | Christy Garris Patterson |
+| 362 | 750 | Christy Garris Patterson |
+| 363 | 750 | Ashley Clary |
 | 364 | 745 | Amy Richard |
 | 365 | 740 | Veronica Leigh Sullivan |
 | 366 | 735 | Alex Dye |
 | 367 | 732 | KayM |
 | 368 | 728 | Samantha |
-| 369 | 727 | Gazoo |
-| 370 | 727 | David Bardo |
+| 369 | 727 | David Bardo |
+| 370 | 727 | Gazoo |
 | 371 | 723 | Turk Montana |
 | 372 | 720 | Jenna Ingersoll |
 | 373 | 718 | Lillian Mehler |
@@ -385,8 +385,8 @@
 | 377 | 715 | James Fuller |
 | 378 | 709 | Abigail Boyle |
 | 379 | 707 | Alysia Etheridge |
-| 380 | 705 | Nicki Vogus |
-| 381 | 705 | Amber Baker |
+| 380 | 705 | Amber Baker |
+| 381 | 705 | Nicki Vogus |
 | 382 | 704 | Bette Prieto |
 | 383 | 703 | Gerald Richard Franke |
 | 384 | 702 | Dena Gandhi |
@@ -399,8 +399,8 @@
 | 391 | 686 | Rin |
 | 392 | 685 | Tiffany Wright |
 | 393 | 682 | May Miller |
-| 394 | 681 | Adrian Atkins |
-| 395 | 681 | Nerdy Tile |
+| 394 | 681 | Nerdy Tile |
+| 395 | 681 | Adrian Atkins |
 | 396 | 680 | Alkaben Fortunato |
 | 397 | 680 | MJN |
 | 398 | 679 | yajji |
@@ -411,8 +411,8 @@
 | 403 | 665 | Paula Murtonen |
 | 404 | 663 | Nena Boss Ladi Meyers |
 | 405 | 660 | Smiley Blockmatch |
-| 406 | 651 | Yup |
-| 407 | 651 | Dreamy Shifter |
+| 406 | 651 | Dreamy Shifter |
+| 407 | 651 | Yup |
 | 408 | 648 | Mikes Girl |
 | 409 | 647 | Trilliad |
 | 410 | 645 | Sheryl Watts |
@@ -433,15 +433,15 @@
 | 425 | 620 | Andrea Jamieson |
 | 426 | 620 | Tina Marie |
 | 427 | 617 | Wisely Samantha |
-| 428 | 613 | Cool Blockroll |
-| 429 | 613 | Collette Frank |
-| 430 | 611 | Matthew Bayley-Hay |
-| 431 | 608 | Andre Love |
+| 428 | 616 | Andre Love |
+| 429 | 613 | Cool Blockroll |
+| 430 | 613 | Collette Frank |
+| 431 | 611 | Matthew Bayley-Hay |
 | 432 | 604 | TaRa1234 |
 | 433 | 602 | Melissa Moshtael |
 | 434 | 600 | Zippy Tiley |
-| 435 | 597 | LiterallyJustDave |
-| 436 | 597 | Brittany Rosales |
+| 435 | 597 | Brittany Rosales |
+| 436 | 597 | LiterallyJustDave |
 | 437 | 596 | Kylene Vigil |
 | 438 | 596 | Lisa Davis |
 | 439 | 594 | Rima Mackelburger |
@@ -452,23 +452,23 @@
 | 444 | 588 | Lauren |
 | 445 | 586 | Cranky Brickzone |
 | 446 | 585 | Raycheen Guy |
-| 447 | 584 | Janet Brown |
+| 447 | 584 | Kristen Meyer |
 | 448 | 584 | Wesley Drew Barnes |
-| 449 | 584 | Kristen Meyer |
-| 450 | 584 | Mary Collins |
+| 449 | 584 | Mary Collins |
+| 450 | 584 | Janet Brown |
 | 451 | 583 | James Nelms |
 | 452 | 580 | Kelsey Sullivan |
 | 453 | 579 | Robby Roberts |
-| 454 | 577 | Wade Lorensen |
-| 455 | 577 | Jessica Hannibal |
+| 454 | 577 | Jessica Hannibal |
+| 455 | 577 | Wade Lorensen |
 | 456 | 576 | Stephanie Whealy |
 | 457 | 576 | AS110203 |
 | 458 | 575 | D.N. Kat |
 | 459 | 575 | Spicy Edgepiece |
 | 460 | 575 | Bucky Dent |
 | 461 | 573 | Elaine Elaine |
-| 462 | 571 | Denise Rickman |
-| 463 | 571 | Sassy Column |
+| 462 | 571 | Sassy Column |
+| 463 | 571 | Denise Rickman |
 | 464 | 568 | E.J. Wallace |
 | 465 | 562 | Hoppy Patternline |
 | 466 | 562 | Danielle Beaunoyer Jean |
@@ -502,8 +502,8 @@
 | 494 | 532 | Ashley Aycock Kennedy |
 | 495 | 531 | Daryn Elliott |
 | 496 | 530 | M Rock |
-| 497 | 529 | Shelley Ford Bisterfelt |
-| 498 | 529 | Veronica Gutierrez |
+| 497 | 529 | Veronica Gutierrez |
+| 498 | 529 | Shelley Ford Bisterfelt |
 | 499 | 527 | Michelle Barnes |
 | 500 | 527 | Anni |
 | 501 | 527 | MD |
