@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 10:36:44 UTC
+# Standings for team2 as of 2026-03-17 10:37:19 UTC
 
 **Total Participants:** 2976
 
@@ -421,11 +421,11 @@
 | 413 | 424 | Jenn Dandle |
 | 414 | 423 | Tyler Bechtel |
 | 415 | 423 | Angela Srubar-Norman |
-| 416 | 420 | Mel |
-| 417 | 420 | Mona Sharma |
-| 418 | 420 | Kassandra Carlan |
-| 419 | 419 | NoShoesNation |
-| 420 | 419 | Christine Soltis |
+| 416 | 421 | Christine Soltis |
+| 417 | 420 | Mel |
+| 418 | 420 | Mona Sharma |
+| 419 | 420 | Kassandra Carlan |
+| 420 | 419 | NoShoesNation |
 | 421 | 419 | Lora Allen |
 | 422 | 417 | Kelly Elizabeth Clark |
 | 423 | 417 | Lesha |
