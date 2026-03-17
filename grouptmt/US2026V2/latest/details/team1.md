@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 08:00:44 UTC
+# Standings for team1 as of 2026-03-17 08:01:22 UTC
 
 **Total Participants:** 2960
 
@@ -91,10 +91,10 @@
 | 83 | 1923 | Tanya Bailey |
 | 84 | 1885 | Spunky Snapfit |
 | 85 | 1876 | Brandon Hill |
-| 86 | 1836 | Carrie Trigg |
-| 87 | 1827 | Ryry |
-| 88 | 1816 | Snippy Piecegrid |
-| 89 | 1814 | Matt Coons |
+| 86 | 1849 | Matt Coons |
+| 87 | 1836 | Carrie Trigg |
+| 88 | 1827 | Ryry |
+| 89 | 1816 | Snippy Piecegrid |
 | 90 | 1756 | Giddy Cascade |
 | 91 | 1751 | Ellie Bein |
 | 92 | 1718 | Amber Zeller Rice |
