@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 10:54:19 UTC
+# Standings for team2 as of 2026-03-17 10:54:41 UTC
 
 **Total Participants:** 2979
 
@@ -233,10 +233,10 @@
 | 225 | 747 | Snappy Bridgepiece |
 | 226 | 736 | DanesMama |
 | 227 | 735 | Joy LaJeunesse |
-| 228 | 730 | Danielle Weikel |
-| 229 | 729 | Tommy Proctor |
-| 230 | 727 | Berklie Apedaile |
-| 231 | 721 | Dreamer |
+| 228 | 731 | Dreamer |
+| 229 | 730 | Danielle Weikel |
+| 230 | 729 | Tommy Proctor |
+| 231 | 727 | Berklie Apedaile |
 | 232 | 714 | Kit Dennett |
 | 233 | 713 | Jami Howard |
 | 234 | 709 | Ebo Got-Time |
@@ -297,8 +297,8 @@
 | 289 | 584 | Faith Adrienne Verret Page |
 | 290 | 580 | CSOTYS |
 | 291 | 579 | Jason McCloy |
-| 292 | 578 | Yo Momma |
-| 293 | 577 | Jasmine Kenney |
+| 292 | 579 | Jasmine Kenney |
+| 293 | 578 | Yo Momma |
 | 294 | 574 | Joeyalan Sullivan |
 | 295 | 573 | Niamh |
 | 296 | 567 | Ruby Anne |
@@ -389,14 +389,14 @@
 | 381 | 453 | Lazy Twistline |
 | 382 | 453 | Alexx Anaya |
 | 383 | 453 | Destiny Brady |
-| 384 | 450 | Quirky Matchfit |
-| 385 | 450 | Tiffany Smith |
-| 386 | 449 | Jumpy Breaker |
-| 387 | 449 | Halstead47K |
-| 388 | 449 | Traci Bond |
-| 389 | 447 | Starr |
-| 390 | 447 | Christy Merriman Addison |
-| 391 | 446 | Taghrid Ebeid |
+| 384 | 450 | Taghrid Ebeid |
+| 385 | 450 | Quirky Matchfit |
+| 386 | 450 | Tiffany Smith |
+| 387 | 449 | Jumpy Breaker |
+| 388 | 449 | Halstead47K |
+| 389 | 449 | Traci Bond |
+| 390 | 447 | Starr |
+| 391 | 447 | Christy Merriman Addison |
 | 392 | 444 | Zak Dunn |
 | 393 | 444 | titrissss |
 | 394 | 437 | S7ephavs |
@@ -460,8 +460,8 @@
 | 452 | 396 | Lucy Honer |
 | 453 | 396 | Denise |
 | 454 | 393 | Brady Riessen |
-| 455 | 392 | Elizabeth Diraffaele |
-| 456 | 392 | MyMahdi Estrada |
+| 455 | 393 | MyMahdi Estrada |
+| 456 | 392 | Elizabeth Diraffaele |
 | 457 | 390 | jess |
 | 458 | 388 | Tina Cano |
 | 459 | 388 | Alyssa Graham |
@@ -1158,13 +1158,13 @@
 | 1150 | 149 | Marlon Reed |
 | 1151 | 149 | S05 |
 | 1152 | 149 | MinorMAjOR |
-| 1153 | 148 | GBR |
-| 1154 | 148 | Taizia Raeshell |
-| 1155 | 148 | Bold Brickzone |
-| 1156 | 148 | Swanky Matchpiece |
-| 1157 | 148 | Grovenia Joy Perryman |
-| 1158 | 148 | Chipper Clearzone |
-| 1159 | 148 | Doris Wilson |
+| 1153 | 149 | Doris Wilson |
+| 1154 | 148 | GBR |
+| 1155 | 148 | Taizia Raeshell |
+| 1156 | 148 | Bold Brickzone |
+| 1157 | 148 | Swanky Matchpiece |
+| 1158 | 148 | Grovenia Joy Perryman |
+| 1159 | 148 | Chipper Clearzone |
 | 1160 | 147 | Cece Ibarra |
 | 1161 | 147 | Hyper Gridpiece |
 | 1162 | 147 | Trouble |
@@ -1227,21 +1227,21 @@
 | 1219 | 137 | Serenity Gail |
 | 1220 | 137 | Kimberly Ryan |
 | 1221 | 137 | yammin |
-| 1222 | 137 | Kalleigh Randall |
-| 1223 | 137 | Lilykye |
-| 1224 | 137 | Smiley Linkfall |
-| 1225 | 137 | Rebecca S. Cornwell |
-| 1226 | 137 | Douggie Fresh |
-| 1227 | 137 | Lela Berklund |
-| 1228 | 137 | Alison Welsh |
-| 1229 | 137 | Davery Spencer Adair |
-| 1230 | 136 | Matthew Franklin Sr. |
+| 1222 | 137 | Kara Ann Cray |
+| 1223 | 137 | Kalleigh Randall |
+| 1224 | 137 | Lilykye |
+| 1225 | 137 | Smiley Linkfall |
+| 1226 | 137 | Rebecca S. Cornwell |
+| 1227 | 137 | Douggie Fresh |
+| 1228 | 137 | Lela Berklund |
+| 1229 | 137 | Alison Welsh |
+| 1230 | 137 | Davery Spencer Adair |
 | 1231 | 136 | Audrey Jones |
-| 1232 | 136 | Alboo |
+| 1232 | 136 | Matthew Franklin Sr. |
 | 1233 | 136 | Ashley Cope |
 | 1234 | 136 | Amy Leonard |
-| 1235 | 136 | Fart |
-| 1236 | 136 | Kara Ann Cray |
+| 1235 | 136 | Alboo |
+| 1236 | 136 | Fart |
 | 1237 | 136 | Quirky Linkbuilder |
 | 1238 | 136 | Jess |
 | 1239 | 135 | Sabrina Cearley |
