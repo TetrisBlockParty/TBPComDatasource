@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 08:40:38 UTC
+# Standings for team2 as of 2026-03-17 08:41:19 UTC
 
 **Total Participants:** 2967
 
@@ -184,20 +184,20 @@
 | 176 | 907 | Snappy Link |
 | 177 | 906 | Dylan Toy |
 | 178 | 905 | Alexandria Farrey |
-| 179 | 898 | Dreamy Towerbuilder |
-| 180 | 890 | Topsannah Topsannah |
-| 181 | 886 | Amanda Segura |
-| 182 | 885 | Kasheba Y Bowens |
-| 183 | 884 | Deb Wasano |
-| 184 | 879 | Adrienne Fisher |
-| 185 | 878 | John Matson |
-| 186 | 874 | Foxy |
-| 187 | 873 | cat |
-| 188 | 861 | CharalaAnn |
-| 189 | 857 | Jesse Olive |
-| 190 | 852 | Desiree Anderson |
-| 191 | 848 | Tess Shaheen |
-| 192 | 846 | Melissa Bergin |
+| 179 | 903 | cat |
+| 180 | 898 | Dreamy Towerbuilder |
+| 181 | 890 | Topsannah Topsannah |
+| 182 | 886 | Amanda Segura |
+| 183 | 885 | Kasheba Y Bowens |
+| 184 | 884 | Deb Wasano |
+| 185 | 879 | Adrienne Fisher |
+| 186 | 878 | John Matson |
+| 187 | 874 | Foxy |
+| 188 | 864 | Melissa Bergin |
+| 189 | 861 | CharalaAnn |
+| 190 | 857 | Jesse Olive |
+| 191 | 852 | Desiree Anderson |
+| 192 | 848 | Tess Shaheen |
 | 193 | 842 | Mandi Mayweather |
 | 194 | 834 | Jazzy Hitter |
 | 195 | 831 | Madia Quick |
@@ -235,8 +235,8 @@
 | 227 | 729 | Tommy Proctor |
 | 228 | 727 | Berklie Apedaile |
 | 229 | 721 | Dreamer |
-| 230 | 714 | Kit Dennett |
-| 231 | 713 | Jay |
+| 230 | 715 | Jay |
+| 231 | 714 | Kit Dennett |
 | 232 | 713 | Jami Howard |
 | 233 | 709 | Ebo Got-Time |
 | 234 | 708 | Dawn Woosley Bowes |
