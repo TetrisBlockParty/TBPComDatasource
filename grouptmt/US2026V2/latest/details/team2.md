@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 07:52:46 UTC
+# Standings for team2 as of 2026-03-17 07:53:23 UTC
 
 **Total Participants:** 2961
 
@@ -261,9 +261,9 @@
 | 253 | 647 | Jason Allen |
 | 254 | 647 | Dre Man |
 | 255 | 646 | Gracie Back |
-| 256 | 642 | Christopher Jam |
-| 257 | 640 | Sandy Aragon |
-| 258 | 640 | Jay |
+| 256 | 642 | Jay |
+| 257 | 642 | Christopher Jam |
+| 258 | 640 | Sandy Aragon |
 | 259 | 638 | Peaches |
 | 260 | 635 | Craig Lander |
 | 261 | 630 | Jessica Miles |
@@ -594,12 +594,12 @@
 | 586 | 305 | Kennedy Sandifer |
 | 587 | 305 | Lemon Bar |
 | 588 | 304 | Nerdy Rollzone |
-| 589 | 302 | Chill Builder |
-| 590 | 302 | Jacques Frenette |
-| 591 | 302 | BuzyBee |
-| 592 | 302 | Trista Duguay |
-| 593 | 301 | Enigma |
-| 594 | 301 | Chipper Clicky |
+| 589 | 302 | Chipper Clicky |
+| 590 | 302 | Chill Builder |
+| 591 | 302 | Jacques Frenette |
+| 592 | 302 | BuzyBee |
+| 593 | 302 | Trista Duguay |
+| 594 | 301 | Enigma |
 | 595 | 301 | Jonviea Dewalt |
 | 596 | 300 | Adrianne Elliott |
 | 597 | 299 | Joe Andrews |
@@ -1307,13 +1307,13 @@
 | 1299 | 124 | Silly Brickline |
 | 1300 | 124 | Christina Harman Kinard |
 | 1301 | 124 | MrsNutt |
-| 1302 | 123 | Brian Wangler |
-| 1303 | 123 | Tiarra Swan |
-| 1304 | 123 | Muva |
-| 1305 | 123 | Brianna Nicole Goodman |
-| 1306 | 123 | Brooke Parkin |
-| 1307 | 123 | Malcolm Annias Flamer |
-| 1308 | 123 | Jennifer Lopez |
+| 1302 | 123 | Jennifer Lopez |
+| 1303 | 123 | Brian Wangler |
+| 1304 | 123 | Tiarra Swan |
+| 1305 | 123 | Muva |
+| 1306 | 123 | Brianna Nicole Goodman |
+| 1307 | 123 | Brooke Parkin |
+| 1308 | 123 | Malcolm Annias Flamer |
 | 1309 | 122 | Funky Stackzone |
 | 1310 | 122 | Crystal Renee Plush |
 | 1311 | 122 | Dandy Buildsnap |
@@ -1330,11 +1330,11 @@
 | 1322 | 120 | Kara E. Butler |
 | 1323 | 120 | Blubrry Sprnklz |
 | 1324 | 120 | Elizabeth Hepler |
-| 1325 | 120 | Terta Manz |
-| 1326 | 120 | MissS |
+| 1325 | 120 | MissS |
+| 1326 | 120 | Terta Manz |
 | 1327 | 120 | Amanda King |
-| 1328 | 120 | Abigayle Hanson |
-| 1329 | 120 | Jamie Wolfe |
+| 1328 | 120 | Jamie Wolfe |
+| 1329 | 120 | Abigayle Hanson |
 | 1330 | 120 | Cathy Bitters |
 | 1331 | 120 | Jake Bell |
 | 1332 | 120 | Twisty Brickfit |
@@ -1343,101 +1343,101 @@
 | 1335 | 119 | simonsays420 |
 | 1336 | 119 | Nicole Maboloc |
 | 1337 | 119 | Christine Boone |
-| 1338 | 119 | Blacc Blac |
-| 1339 | 119 | Michael Kreutzer Jr |
-| 1340 | 119 | Erica Parker |
+| 1338 | 119 | JustLessie |
+| 1339 | 119 | Nugget |
+| 1340 | 119 | Paul Gurwitz |
 | 1341 | 119 | Deanna J Legaspi |
-| 1342 | 119 | Paul Gurwitz |
-| 1343 | 119 | Nugget |
-| 1344 | 118 | CocoKatt |
-| 1345 | 118 | Graciela Garcia |
-| 1346 | 118 | Billi Jo Gorsuch |
+| 1342 | 119 | Erica Parker |
+| 1343 | 119 | Michael Kreutzer Jr |
+| 1344 | 119 | Blacc Blac |
+| 1345 | 118 | Billi Jo Gorsuch |
+| 1346 | 118 | MamaBear04 |
 | 1347 | 118 | Timothy Poole |
-| 1348 | 118 | MamaBear04 |
-| 1349 | 118 | Demon |
-| 1350 | 117 | itzame |
-| 1351 | 117 | Donnie Crowe |
-| 1352 | 117 | Quita |
-| 1353 | 117 | Blu |
+| 1348 | 118 | Graciela Garcia |
+| 1349 | 118 | CocoKatt |
+| 1350 | 118 | Demon |
+| 1351 | 117 | itzame |
+| 1352 | 117 | Donnie Crowe |
+| 1353 | 117 | Gigi McCue |
 | 1354 | 117 | Steph Otruba |
-| 1355 | 117 | Gigi McCue |
-| 1356 | 117 | Greg Shekailo |
-| 1357 | 117 | Zesty Clear |
-| 1358 | 117 | Brooklyn DeLong |
-| 1359 | 117 | Rachael Village |
+| 1355 | 117 | Blu |
+| 1356 | 117 | Quita |
+| 1357 | 117 | Greg Shekailo |
+| 1358 | 117 | Zesty Clear |
+| 1359 | 117 | Brooklyn DeLong |
 | 1360 | 117 | Kayla |
-| 1361 | 116 | JustLessie |
-| 1362 | 116 | Zany Linkblock |
+| 1361 | 117 | Rachael Village |
+| 1362 | 116 | Emily Elizabeth |
 | 1363 | 116 | Susan L. Brown |
-| 1364 | 116 | Monica Martinez |
+| 1364 | 116 | Zany Linkblock |
 | 1365 | 116 | AL |
-| 1366 | 116 | Emily Elizabeth |
-| 1367 | 116 | Cheyenne Waller |
+| 1366 | 116 | Cheyenne Waller |
+| 1367 | 116 | Monica Martinez |
 | 1368 | 116 | Plucky Rollblock |
-| 1369 | 115 | Pamela Knapp |
-| 1370 | 115 | Lenitia Curley |
-| 1371 | 115 | Shay Mc |
+| 1369 | 115 | Theresa Crawford |
+| 1370 | 115 | Michele Baucom |
+| 1371 | 115 | VectorZero |
 | 1372 | 115 | Snippy Framezone |
-| 1373 | 115 | Chill Fitzone |
-| 1374 | 115 | Theresa Crawford |
-| 1375 | 115 | VectorZero |
-| 1376 | 115 | Michele Baucom |
-| 1377 | 114 | Lilypop |
-| 1378 | 114 | Mel Thomas-Young |
-| 1379 | 114 | Poppy Snap |
-| 1380 | 114 | Breezy Patternzone |
-| 1381 | 114 | Cheeky Grabber |
-| 1382 | 114 | Brandi Fuller Cason |
-| 1383 | 114 | Brittany Gent |
-| 1384 | 113 | Savvlexx |
+| 1373 | 115 | Lenitia Curley |
+| 1374 | 115 | Pamela Knapp |
+| 1375 | 115 | Shay Mc |
+| 1376 | 115 | Chill Fitzone |
+| 1377 | 114 | Poppy Snap |
+| 1378 | 114 | Lilypop |
+| 1379 | 114 | Cheeky Grabber |
+| 1380 | 114 | Brandi Fuller Cason |
+| 1381 | 114 | Brittany Gent |
+| 1382 | 114 | Mel Thomas-Young |
+| 1383 | 114 | Breezy Patternzone |
+| 1384 | 113 | Cool Cornerfall |
 | 1385 | 113 | carzyspinner |
-| 1386 | 113 | Cool Cornerfall |
+| 1386 | 113 | Savvlexx |
 | 1387 | 113 | Andrea Velasco Dela Cruz |
 | 1388 | 113 | Nicole Hogue |
 | 1389 | 113 | Mark Blanton |
 | 1390 | 113 | Ward Leandrea |
 | 1391 | 112 | Nerdy Blockbuilder |
-| 1392 | 112 | Groovy Combofall |
+| 1392 | 112 | Steven Bell |
 | 1393 | 112 | Reginald Harvey |
-| 1394 | 112 | Steven Bell |
-| 1395 | 112 | aja |
-| 1396 | 112 | Asia M Kerr |
-| 1397 | 111 | Jenn Nichols |
-| 1398 | 111 | Alexia Boston |
-| 1399 | 111 | Emily Potter |
-| 1400 | 111 | k8y |
-| 1401 | 111 | Cranky Bouncer |
+| 1394 | 112 | Groovy Combofall |
+| 1395 | 112 | Asia M Kerr |
+| 1396 | 112 | aja |
+| 1397 | 111 | k8y |
+| 1398 | 111 | Jenn Nichols |
+| 1399 | 111 | Alexia Boston |
+| 1400 | 111 | Cranky Bouncer |
+| 1401 | 111 | Emily Potter |
 | 1402 | 111 | Autumn Lenhart |
 | 1403 | 110 | gymjim |
-| 1404 | 110 | Jelani Blackford |
-| 1405 | 110 | Anthony Heavens |
-| 1406 | 110 | Bindi |
-| 1407 | 110 | Renée Tilley-Goyette |
+| 1404 | 110 | Christa Ybarra |
+| 1405 | 110 | Broketraveler |
+| 1406 | 110 | Anthony Heavens |
+| 1407 | 110 | Bindi |
 | 1408 | 110 | Jake Ching |
-| 1409 | 110 | Christa Ybarra |
-| 1410 | 110 | Broketraveler |
-| 1411 | 110 | Marie Kirkland |
-| 1412 | 110 | Michael Reavis |
-| 1413 | 110 | SWAMPTHANG |
-| 1414 | 110 | Christy Krissie |
-| 1415 | 110 | Mrcasper Royalbee Mbstcys |
-| 1416 | 110 | Bold Gridclear |
-| 1417 | 110 | Aly San |
-| 1418 | 110 | Meals'n Melodies |
+| 1409 | 110 | Michael Reavis |
+| 1410 | 110 | Mrcasper Royalbee Mbstcys |
+| 1411 | 110 | Christy Krissie |
+| 1412 | 110 | Aly San |
+| 1413 | 110 | Renée Tilley-Goyette |
+| 1414 | 110 | SWAMPTHANG |
+| 1415 | 110 | Bold Gridclear |
+| 1416 | 110 | Jelani Blackford |
+| 1417 | 110 | Meals'n Melodies |
+| 1418 | 110 | Marie Kirkland |
 | 1419 | 110 | Alice Ball |
 | 1420 | 110 | Lazy Edgefit |
-| 1421 | 109 | Boomboom |
-| 1422 | 109 | Waya |
-| 1423 | 109 | Sugar |
+| 1421 | 109 | Waya |
+| 1422 | 109 | Boomboom |
+| 1423 | 109 | Denise McKenzie |
 | 1424 | 109 | Juliana Stiles |
 | 1425 | 109 | Jolly Riserpiece |
-| 1426 | 109 | BluSkyes |
-| 1427 | 109 | Anthony Quick |
-| 1428 | 109 | Owitty |
+| 1426 | 109 | Anthony Quick |
+| 1427 | 109 | Krista Robinson |
+| 1428 | 109 | Aubrey Campie |
 | 1429 | 109 | Crafty Twistbuilder |
-| 1430 | 109 | Denise McKenzie |
-| 1431 | 109 | Aubrey Campie |
-| 1432 | 109 | Krista Robinson |
+| 1430 | 109 | Owitty |
+| 1431 | 109 | BluSkyes |
+| 1432 | 109 | Sugar |
 | 1433 | 108 | Shiny Patternline |
 | 1434 | 108 | Chasity Winters |
 | 1435 | 108 | Cassandra King Tyler |

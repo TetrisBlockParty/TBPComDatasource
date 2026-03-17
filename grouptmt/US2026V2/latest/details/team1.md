@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 07:52:46 UTC
+# Standings for team1 as of 2026-03-17 07:53:23 UTC
 
 **Total Participants:** 2958
 
@@ -94,7 +94,7 @@
 | 86 | 1836 | Carrie Trigg |
 | 87 | 1827 | Ryry |
 | 88 | 1816 | Snippy Piecegrid |
-| 89 | 1784 | Matt Coons |
+| 89 | 1804 | Matt Coons |
 | 90 | 1756 | Giddy Cascade |
 | 91 | 1751 | Ellie Bein |
 | 92 | 1718 | Amber Zeller Rice |
@@ -348,8 +348,8 @@
 | 340 | 545 | Cesar Morelos |
 | 341 | 545 | Gabriel Morales |
 | 342 | 544 | Amh |
-| 343 | 542 | Yvette Cooper |
-| 344 | 541 | Rose Anna |
+| 343 | 543 | Rose Anna |
+| 344 | 542 | Yvette Cooper |
 | 345 | 540 | Brandy Ridgeway |
 | 346 | 540 | Dee |
 | 347 | 540 | Sullivan Tamara |
@@ -485,13 +485,13 @@
 | 477 | 380 | Ash |
 | 478 | 379 | Kendra Newton |
 | 479 | 379 | Ernesto Chavera |
-| 480 | 376 | Samantha Crowley |
-| 481 | 374 | Sabra Fisher |
-| 482 | 373 | BingoStarr |
-| 483 | 373 | shelly |
-| 484 | 370 | Snippy Line |
-| 485 | 370 | Zachary Moran |
-| 486 | 368 | Chill Matchzone |
+| 480 | 378 | Chill Matchzone |
+| 481 | 376 | Samantha Crowley |
+| 482 | 374 | Sabra Fisher |
+| 483 | 373 | BingoStarr |
+| 484 | 373 | shelly |
+| 485 | 370 | Snippy Line |
+| 486 | 370 | Zachary Moran |
 | 487 | 368 | Happy Shatterfit |
 | 488 | 367 | lefty |
 | 489 | 367 | Connor Jurzynski |
