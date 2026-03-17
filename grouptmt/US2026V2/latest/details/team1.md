@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 19:04:44 UTC
+# Standings for team1 as of 2026-03-17 19:05:22 UTC
 
 **Total Participants:** 3060
 
@@ -514,13 +514,13 @@
 | 506 | 411 | BingoStarr |
 | 507 | 410 | Megan Treacy |
 | 508 | 410 | Jessica Butler |
-| 509 | 410 | Jason Garnatz |
-| 510 | 409 | Kendra Newton |
-| 511 | 409 | Julie Seal |
-| 512 | 408 | Dreamy Matchclear |
-| 513 | 408 | Britney Nelson Coy |
-| 514 | 407 | Terrance Williams |
-| 515 | 407 | Seaira Allen |
+| 509 | 410 | Seaira Allen |
+| 510 | 410 | Jason Garnatz |
+| 511 | 409 | Kendra Newton |
+| 512 | 409 | Julie Seal |
+| 513 | 408 | Dreamy Matchclear |
+| 514 | 408 | Britney Nelson Coy |
+| 515 | 407 | Terrance Williams |
 | 516 | 407 | Kay Alifi |
 | 517 | 406 | Jennie Lee Huntley |
 | 518 | 406 | Crystal Sara E |
@@ -755,48 +755,48 @@
 | 747 | 289 | Brandi Poulisse Knippling |
 | 748 | 288 | David Rojas |
 | 749 | 288 | MisfitH |
-| 750 | 287 | Zany Glidepiece |
+| 750 | 287 | Mandy Faye Jackson |
 | 751 | 287 | Cozy Cascader |
-| 752 | 287 | Mandy Faye Jackson |
-| 753 | 286 | Chris JonesSr |
-| 754 | 286 | Jen |
-| 755 | 286 | Kimmy White |
-| 756 | 286 | Randall Sykes |
-| 757 | 286 | MaegenMarie Jones |
+| 752 | 287 | Zany Glidepiece |
+| 753 | 286 | Kimmy White |
+| 754 | 286 | MaegenMarie Jones |
+| 755 | 286 | Randall Sykes |
+| 756 | 286 | Jen |
+| 757 | 286 | Chris JonesSr |
 | 758 | 285 | Cynthia Herrmann Egland |
-| 759 | 284 | Tractor Houston |
-| 760 | 284 | Savannah Tanielle |
-| 761 | 283 | Shaneeka Morrissette |
-| 762 | 282 | Betty Bóò |
-| 763 | 282 | Jennifer Negrete |
-| 764 | 282 | Gina Annese |
-| 765 | 281 | Jacob Phillips |
-| 766 | 281 | Nick R Johnson |
-| 767 | 281 | Joshua Lipscomb |
-| 768 | 281 | Tana |
-| 769 | 280 | Rebecca Wilson |
+| 759 | 284 | Savannah Tanielle |
+| 760 | 284 | Tractor Houston |
+| 761 | 283 | Stormy May |
+| 762 | 283 | Shaneeka Morrissette |
+| 763 | 282 | Betty Bóò |
+| 764 | 282 | Jennifer Negrete |
+| 765 | 282 | Gina Annese |
+| 766 | 281 | Jacob Phillips |
+| 767 | 281 | Nick R Johnson |
+| 768 | 281 | Joshua Lipscomb |
+| 769 | 281 | Tana |
 | 770 | 280 | Tee Tee Greene |
 | 771 | 280 | Aseven Elements |
-| 772 | 280 | Robert Earl Harper III |
-| 773 | 280 | Fareti |
-| 774 | 279 | Amy Hollinger |
-| 775 | 278 | Stephen Lockman |
-| 776 | 278 | LT |
-| 777 | 278 | Kakalina Thayer |
-| 778 | 278 | Andie Galindo |
-| 779 | 277 | Christina Davis |
-| 780 | 277 | Mt Shirley |
-| 781 | 276 | Cassi Owens |
-| 782 | 276 | Anne Oliver |
-| 783 | 276 | Qoo |
-| 784 | 276 | Peachy Curvetile |
-| 785 | 275 | Heather Burroughs |
+| 772 | 280 | Fareti |
+| 773 | 280 | Robert Earl Harper III |
+| 774 | 280 | Rebecca Wilson |
+| 775 | 279 | Amy Hollinger |
+| 776 | 278 | Stephen Lockman |
+| 777 | 278 | LT |
+| 778 | 278 | Kakalina Thayer |
+| 779 | 278 | Andie Galindo |
+| 780 | 277 | Christina Davis |
+| 781 | 277 | Mt Shirley |
+| 782 | 276 | Qoo |
+| 783 | 276 | Anne Oliver |
+| 784 | 276 | Cassi Owens |
+| 785 | 276 | Peachy Curvetile |
 | 786 | 275 | Crystal Claypool |
 | 787 | 275 | Daring Edge |
-| 788 | 275 | Ryan Cabler |
-| 789 | 274 | dustin b |
-| 790 | 274 | Shelly Fannon |
-| 791 | 274 | Stormy May |
+| 788 | 275 | Heather Burroughs |
+| 789 | 275 | Ryan Cabler |
+| 790 | 274 | dustin b |
+| 791 | 274 | Shelly Fannon |
 | 792 | 272 | Peppy Brickclear |
 | 793 | 271 | Mary McGhee |
 | 794 | 271 | Christie Lucas |
@@ -1246,64 +1246,64 @@
 | 1238 | 156 | StarlessRevenge |
 | 1239 | 156 | ccharngles |
 | 1240 | 155 | tox |
-| 1241 | 155 | Santana Lantana |
-| 1242 | 155 | Kelli Marie |
+| 1241 | 155 | Kelli Marie |
+| 1242 | 155 | Santana Lantana |
 | 1243 | 154 | Nancy Burnside |
 | 1244 | 154 | Darcy |
-| 1245 | 153 | Dizzy Tiler |
-| 1246 | 153 | Bryant Rodriguez |
-| 1247 | 153 | Cheery Wipeblock |
+| 1245 | 153 | Bryant Rodriguez |
+| 1246 | 153 | Cheery Wipeblock |
+| 1247 | 153 | Dave Emig |
 | 1248 | 153 | Bouncy Bricky |
 | 1249 | 153 | Selena Rodriguez |
-| 1250 | 153 | Sandy Linders Higgins |
-| 1251 | 153 | Yoga Jones |
-| 1252 | 153 | Ashley Munn |
-| 1253 | 153 | Dave Emig |
-| 1254 | 152 | Bailey Morgan |
-| 1255 | 152 | Chelsey Ann |
-| 1256 | 152 | Jolly Piecebuilder |
+| 1250 | 153 | Ashley Munn |
+| 1251 | 153 | Sandy Linders Higgins |
+| 1252 | 153 | Yoga Jones |
+| 1253 | 153 | Dizzy Tiler |
+| 1254 | 152 | Chelsey Ann |
+| 1255 | 152 | ghxsty |
+| 1256 | 152 | Bailey Morgan |
 | 1257 | 152 | Robin Sharp Earle |
-| 1258 | 152 | ghxsty |
-| 1259 | 151 | Kelsey Cook |
-| 1260 | 151 | Summer Moore |
-| 1261 | 151 | Becca Gatrell Barton |
-| 1262 | 151 | Daniel R Morgan |
+| 1258 | 152 | Jolly Piecebuilder |
+| 1259 | 151 | Daniel R Morgan |
+| 1260 | 151 | Kelsey Cook |
+| 1261 | 151 | Summer Moore |
+| 1262 | 151 | Becca Gatrell Barton |
 | 1263 | 151 | Lively Clusterfit |
-| 1264 | 150 | Elena Sanchez Damian |
-| 1265 | 150 | Angi Martinez |
-| 1266 | 150 | Melissa Bires Hussar |
-| 1267 | 150 | Snazzy Tilemaker |
-| 1268 | 150 | Jay Tressler |
+| 1264 | 150 | Angi Martinez |
+| 1265 | 150 | Elena Sanchez Damian |
+| 1266 | 150 | Snazzy Tilemaker |
+| 1267 | 150 | Melissa Bires Hussar |
+| 1268 | 150 | Kristi Catron |
 | 1269 | 150 | Angela Nipple |
 | 1270 | 150 | Saucy Tilemaker |
-| 1271 | 150 | Melissa Hart |
-| 1272 | 149 | Amy Niemeier |
+| 1271 | 150 | Jay Tressler |
+| 1272 | 150 | Melissa Hart |
 | 1273 | 149 | Jeremy Lake |
-| 1274 | 149 | Rebecca Gillespie |
-| 1275 | 149 | Dolly Marie Parsons |
-| 1276 | 149 | D7capt |
+| 1274 | 149 | Amy Niemeier |
+| 1275 | 149 | Rebecca Gillespie |
+| 1276 | 149 | Dolly Marie Parsons |
 | 1277 | 149 | poopsmagee |
-| 1278 | 148 | Kristi Catron |
+| 1278 | 149 | D7capt |
 | 1279 | 148 | Nicole McCune |
-| 1280 | 148 | Crystal Swigart |
-| 1281 | 148 | Thomcatt |
-| 1282 | 148 | Kat |
+| 1280 | 148 | Thomcatt |
+| 1281 | 148 | Kat |
+| 1282 | 148 | Katie Martin |
 | 1283 | 148 | Aly Sheehan |
-| 1284 | 148 | Neomi Perdue |
-| 1285 | 148 | Katie Martin |
+| 1284 | 148 | Crystal Swigart |
+| 1285 | 148 | Neomi Perdue |
 | 1286 | 147 | Paul Brian Angelo Egango |
-| 1287 | 147 | Shiny Party |
+| 1287 | 147 | MJ Beca Good |
 | 1288 | 147 | TacoLover13 |
-| 1289 | 147 | MJ Beca Good |
+| 1289 | 147 | Shiny Party |
 | 1290 | 146 | Cozy Builderfit |
 | 1291 | 146 | Crystal Talbert |
-| 1292 | 145 | Lacey Renee Dietz |
+| 1292 | 145 | Sassy Wrecker |
 | 1293 | 145 | Perky Clusterbuilder |
-| 1294 | 145 | Rudas |
-| 1295 | 145 | Lakesha Jackson- Anderson |
+| 1294 | 145 | Lacey Renee Dietz |
+| 1295 | 145 | Countryboy Will Survive |
 | 1296 | 145 | Nicole Fields |
-| 1297 | 145 | Countryboy Will Survive |
-| 1298 | 145 | Sassy Wrecker |
+| 1297 | 145 | Lakesha Jackson- Anderson |
+| 1298 | 145 | Rudas |
 | 1299 | 144 | Taquita Robinson |
 | 1300 | 144 | Aigner Monae |
 | 1301 | 143 | Whittney Nichole Malone |
