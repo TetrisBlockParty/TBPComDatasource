@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 12:04:43 UTC
+# Standings for team1 as of 2026-03-17 12:05:23 UTC
 
 **Total Participants:** 2987
 
@@ -33,7 +33,7 @@
 | 25 | 5835 | Amanda Sheppard |
 | 26 | 5700 | Jessica Sheehan |
 | 27 | 5694 | Tashanna Harvey |
-| 28 | 5516 | Selena Rollin |
+| 28 | 5546 | Selena Rollin |
 | 29 | 5465 | Paul Smiar |
 | 30 | 5280 | Brad Oneill |
 | 31 | 5176 | Elyse YL |
@@ -99,8 +99,8 @@
 | 91 | 1756 | Giddy Cascade |
 | 92 | 1751 | Ellie Bein |
 | 93 | 1718 | Amber Zeller Rice |
-| 94 | 1713 | FancyPants |
-| 95 | 1712 | Shaynna Garza |
+| 94 | 1718 | Shaynna Garza |
+| 95 | 1713 | FancyPants |
 | 96 | 1688 | Caitlin Zakrzewski |
 | 97 | 1683 | Yvonne Buie |
 | 98 | 1634 | Walker Patterson |
@@ -278,8 +278,8 @@
 | 270 | 680 | Tisha Cammack |
 | 271 | 679 | Erin Halleman |
 | 272 | 677 | Lil'A |
-| 273 | 674 | Bryan Temple |
-| 274 | 673 | Boldy Clear |
+| 273 | 676 | Boldy Clear |
+| 274 | 674 | Bryan Temple |
 | 275 | 668 | Austin |
 | 276 | 667 | Elizabeth Hughes |
 | 277 | 665 | Eric Hoffman |
@@ -1528,32 +1528,32 @@
 | 1520 | 101 | Tee Widmer |
 | 1521 | 101 | CHR |
 | 1522 | 101 | Gregg Scott |
-| 1523 | 100 | Sonya Harris Combs |
-| 1524 | 100 | Breezy Spinner |
-| 1525 | 100 | Frothy Cascade |
-| 1526 | 100 | Wesley Smith |
-| 1527 | 100 | Queen of Nonsense |
-| 1528 | 100 | Jennifer Hackmann |
-| 1529 | 100 | Dan Baines |
-| 1530 | 100 | Kelli Skeen |
-| 1531 | 100 | Ron Poindexter |
-| 1532 | 100 | Shiny Stacky |
-| 1533 | 100 | Deborah Fowler |
-| 1534 | 100 | Winky |
-| 1535 | 100 | Rabecca Rangel |
-| 1536 | 99 | Jordan Leach |
-| 1537 | 99 | wombat |
-| 1538 | 99 | Shawn Shelby |
-| 1539 | 99 | Christopher James Cienfuegos |
-| 1540 | 99 | Bouncy Dropper |
-| 1541 | 99 | Jai |
-| 1542 | 99 | Matthew Foley |
-| 1543 | 99 | Captain Geoff |
-| 1544 | 99 | Katie Batoosingh |
-| 1545 | 99 | Jessa Short-Burkhart |
-| 1546 | 99 | Glitzy Clear |
-| 1547 | 99 | Scott Gunn |
-| 1548 | 98 | Lynn Abraham |
+| 1523 | 101 | Lynn Abraham |
+| 1524 | 100 | Sonya Harris Combs |
+| 1525 | 100 | Breezy Spinner |
+| 1526 | 100 | Frothy Cascade |
+| 1527 | 100 | Wesley Smith |
+| 1528 | 100 | Queen of Nonsense |
+| 1529 | 100 | Jennifer Hackmann |
+| 1530 | 100 | Dan Baines |
+| 1531 | 100 | Kelli Skeen |
+| 1532 | 100 | Ron Poindexter |
+| 1533 | 100 | Shiny Stacky |
+| 1534 | 100 | Deborah Fowler |
+| 1535 | 100 | Winky |
+| 1536 | 100 | Rabecca Rangel |
+| 1537 | 99 | Jordan Leach |
+| 1538 | 99 | wombat |
+| 1539 | 99 | Shawn Shelby |
+| 1540 | 99 | Christopher James Cienfuegos |
+| 1541 | 99 | Bouncy Dropper |
+| 1542 | 99 | Jai |
+| 1543 | 99 | Matthew Foley |
+| 1544 | 99 | Captain Geoff |
+| 1545 | 99 | Katie Batoosingh |
+| 1546 | 99 | Jessa Short-Burkhart |
+| 1547 | 99 | Glitzy Clear |
+| 1548 | 99 | Scott Gunn |
 | 1549 | 98 | Aspen Campos |
 | 1550 | 98 | Lori Abney |
 | 1551 | 98 | Sassy Curvetile |
