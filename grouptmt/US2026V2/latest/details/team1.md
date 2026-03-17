@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 09:26:40 UTC
+# Standings for team1 as of 2026-03-17 09:27:18 UTC
 
 **Total Participants:** 2965
 
@@ -261,8 +261,8 @@
 | 253 | 717 | Gabriel Morales |
 | 254 | 714 | Sassy Cascadepiece |
 | 255 | 708 | Cynthia Petz |
-| 256 | 704 | Roary Danner |
-| 257 | 704 | Chris Alexinas |
+| 256 | 704 | Chris Alexinas |
+| 257 | 704 | Roary Danner |
 | 258 | 703 | KK |
 | 259 | 702 | Heather Bell |
 | 260 | 701 | Crafty Dash |
@@ -270,8 +270,8 @@
 | 262 | 688 | Randy Masao Hilbrant |
 | 263 | 687 | BrownNinj |
 | 264 | 682 | Witty Spinblock |
-| 265 | 679 | Marianne Lopez |
-| 266 | 679 | Erin Halleman |
+| 265 | 679 | Erin Halleman |
+| 266 | 679 | Marianne Lopez |
 | 267 | 678 | Rocky |
 | 268 | 677 | Lil'A |
 | 269 | 676 | Chris Kelly |
@@ -290,18 +290,18 @@
 | 282 | 644 | kito23 |
 | 283 | 643 | Jessica Ritter |
 | 284 | 638 | Diamond Madison |
-| 285 | 637 | Ren Mc |
-| 286 | 637 | Charles Herbert |
+| 285 | 637 | Charles Herbert |
+| 286 | 637 | Ren Mc |
 | 287 | 633 | Ruby Sandberg |
-| 288 | 631 | Johnathan Rasmussen |
+| 288 | 632 | Krystal Mccoy |
 | 289 | 631 | TetrisWoo |
-| 290 | 626 | Slinky Dashgrid |
+| 290 | 631 | Johnathan Rasmussen |
 | 291 | 626 | Elizabeth Hughes |
-| 292 | 624 | Angela Renea Lester |
-| 293 | 624 | Sharisse Baltimore |
-| 294 | 624 | Victoria Davis Torie |
-| 295 | 623 | raffyG |
-| 296 | 622 | Krystal Mccoy |
+| 292 | 626 | Slinky Dashgrid |
+| 293 | 624 | Victoria Davis Torie |
+| 294 | 624 | Angela Renea Lester |
+| 295 | 624 | Sharisse Baltimore |
+| 296 | 623 | raffyG |
 | 297 | 622 | Mykal Burton |
 | 298 | 620 | John Gardner |
 | 299 | 618 | Rennon Scott Wilson |
@@ -476,12 +476,12 @@
 | 468 | 390 | Sissy Lowery Davis |
 | 469 | 389 | Dizzy Glidebuilder |
 | 470 | 389 | Sunny Linkpiece |
-| 471 | 389 | Twisty Snapfit |
-| 472 | 389 | Jessica Butler |
-| 473 | 389 | Shiny Shiftspin |
-| 474 | 387 | BostonCrypto |
+| 471 | 389 | Fancy Cascadebuilder |
+| 472 | 389 | Twisty Snapfit |
+| 473 | 389 | Jessica Butler |
+| 474 | 389 | Shiny Shiftspin |
 | 475 | 387 | Dī Kuykendall |
-| 476 | 387 | Fancy Cascadebuilder |
+| 476 | 387 | BostonCrypto |
 | 477 | 385 | SpaceCase085 |
 | 478 | 384 | Erin Hodges Plumb |
 | 479 | 381 | Ambrosia Natas Danu |
@@ -644,9 +644,9 @@
 | 636 | 301 | Huskymom |
 | 637 | 301 | Pamela Morgan |
 | 638 | 301 | Dino |
-| 639 | 300 | DaRascal |
-| 640 | 300 | Slinky Dashpiece |
-| 641 | 300 | Peachy Brick |
+| 639 | 301 | Peachy Brick |
+| 640 | 300 | DaRascal |
+| 641 | 300 | Slinky Dashpiece |
 | 642 | 300 | Happy Snapbuild |
 | 643 | 300 | Agustin Duarte Orozco |
 | 644 | 300 | Blaster007 |
@@ -1133,20 +1133,20 @@
 | 1125 | 159 | Jenny Stratton Cozart |
 | 1126 | 158 | Kristy Burch Sells |
 | 1127 | 158 | Christie Love |
-| 1128 | 158 | Jordan Ward |
-| 1129 | 158 | DeJuan Green |
-| 1130 | 157 | Isabel Ocasio |
-| 1131 | 157 | Meagan Nicole |
-| 1132 | 157 | Kora Catherine |
-| 1133 | 157 | Mariah Cornell |
-| 1134 | 156 | StarlessRevenge |
-| 1135 | 156 | Lacey Davis |
-| 1136 | 156 | Flashy Wipeblock |
-| 1137 | 155 | Tabetha Craddock |
-| 1138 | 155 | bricked |
-| 1139 | 155 | Kelli Marie |
-| 1140 | 155 | Margie Olivas |
-| 1141 | 155 | Silly Strikerbuilder |
+| 1128 | 158 | Silly Strikerbuilder |
+| 1129 | 158 | Jordan Ward |
+| 1130 | 158 | DeJuan Green |
+| 1131 | 157 | Isabel Ocasio |
+| 1132 | 157 | Meagan Nicole |
+| 1133 | 157 | Kora Catherine |
+| 1134 | 157 | Mariah Cornell |
+| 1135 | 156 | StarlessRevenge |
+| 1136 | 156 | Lacey Davis |
+| 1137 | 156 | Flashy Wipeblock |
+| 1138 | 155 | Tabetha Craddock |
+| 1139 | 155 | bricked |
+| 1140 | 155 | Kelli Marie |
+| 1141 | 155 | Margie Olivas |
 | 1142 | 154 | e |
 | 1143 | 154 | Bri Jackson |
 | 1144 | 154 | Nancy Burnside |
