@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 08:42:40 UTC
+# Standings for team2 as of 2026-03-17 08:43:19 UTC
 
 **Total Participants:** 2967
 
@@ -154,9 +154,9 @@
 | 146 | 1038 | Koipod |
 | 147 | 1026 | Katrina Schroeder |
 | 148 | 1025 | Krista Roberts |
-| 149 | 1021 | Christina Ramirez |
-| 150 | 1018 | Ania |
-| 151 | 1017 | Jumpy Filler |
+| 149 | 1021 | Jumpy Filler |
+| 150 | 1021 | Christina Ramirez |
+| 151 | 1018 | Ania |
 | 152 | 1009 | Mary Reeves |
 | 153 | 1006 | Christina Graham |
 | 154 | 1000 | Dandy Crasher |
@@ -240,11 +240,11 @@
 | 232 | 713 | Jami Howard |
 | 233 | 709 | Ebo Got-Time |
 | 234 | 708 | Dawn Woosley Bowes |
-| 235 | 704 | Lateisha Morris |
-| 236 | 704 | LD1 |
-| 237 | 704 | Joshua |
-| 238 | 697 | Snappy Bridgepiece |
-| 239 | 697 | Sheena Harris |
+| 235 | 704 | Joshua |
+| 236 | 704 | Lateisha Morris |
+| 237 | 704 | LD1 |
+| 238 | 697 | Sheena Harris |
+| 239 | 697 | Snappy Bridgepiece |
 | 240 | 692 | Carly Ann Maxwell |
 | 241 | 678 | Bia |
 | 242 | 676 | Laura |
@@ -252,19 +252,19 @@
 | 244 | 669 | Jenni Garcia-Vogelhut |
 | 245 | 669 | Dondon Cheng |
 | 246 | 668 | Kimmie Zimmerman-Rocha |
-| 247 | 664 | Tausha Colella |
-| 248 | 663 | LolaSmilez |
-| 249 | 659 | Charde Parnell |
-| 250 | 654 | Angela Bonquiqui Dinish |
-| 251 | 653 | Elizabeth Ostrom |
-| 252 | 651 | Cw |
-| 253 | 651 | Devin |
-| 254 | 651 | 🍏 Green apple |
-| 255 | 647 | Dre Man |
+| 247 | 665 | Smags |
+| 248 | 664 | Tausha Colella |
+| 249 | 663 | LolaSmilez |
+| 250 | 659 | Charde Parnell |
+| 251 | 654 | Angela Bonquiqui Dinish |
+| 252 | 653 | Elizabeth Ostrom |
+| 253 | 651 | 🍏 Green apple |
+| 254 | 651 | Devin |
+| 255 | 651 | Cw |
 | 256 | 647 | Jason Allen |
-| 257 | 646 | Gracie Back |
-| 258 | 642 | Christopher Jam |
-| 259 | 641 | Smags |
+| 257 | 647 | Dre Man |
+| 258 | 646 | Gracie Back |
+| 259 | 642 | Christopher Jam |
 | 260 | 640 | Sandy Aragon |
 | 261 | 635 | Craig Lander |
 | 262 | 630 | Jessica Miles |
@@ -274,8 +274,8 @@
 | 266 | 620 | Spunky Gridmatch |
 | 267 | 614 | Zippy Tile |
 | 268 | 613 | Ding Adventurer |
-| 269 | 611 | Monica Galli |
-| 270 | 611 | Megan Simpson |
+| 269 | 611 | Megan Simpson |
+| 270 | 611 | Monica Galli |
 | 271 | 610 | Ashley Marie |
 | 272 | 608 | Elizabeth Mauri |
 | 273 | 607 | Mcg |
@@ -286,8 +286,8 @@
 | 278 | 594 | David Duncan |
 | 279 | 591 | Brooke Sunderhaus |
 | 280 | 587 | yuppers |
-| 281 | 586 | Marc Abney |
-| 282 | 586 | Tammi Crnza |
+| 281 | 586 | Tammi Crnza |
+| 282 | 586 | Marc Abney |
 | 283 | 585 | Marvin Lou Martin |
 | 284 | 585 | Breeana Bennett |
 | 285 | 584 | Faith Adrienne Verret Page |
@@ -302,8 +302,8 @@
 | 294 | 562 | Chelsea Clark |
 | 295 | 560 | Alexsa Crespo |
 | 296 | 557 | Jasmine Kenney |
-| 297 | 554 | Clever Roll |
-| 298 | 554 | eMzzz |
+| 297 | 554 | eMzzz |
+| 298 | 554 | Clever Roll |
 | 299 | 553 | MJ1234 |
 | 300 | 553 | Paul Beeman |
 | 301 | 551 | Krish Shah |
@@ -1576,18 +1576,18 @@
 | 1568 | 93 | izzy |
 | 1569 | 93 | Nutty Linkgrid |
 | 1570 | 93 | Alishia Robbins |
-| 1571 | 92 | Melissa Jackson |
-| 1572 | 92 | Perky Fitclear |
-| 1573 | 92 | Loony Gridder |
-| 1574 | 92 | Paul Kapusinski |
-| 1575 | 92 | Perky Rollfit |
-| 1576 | 92 | Wambo |
-| 1577 | 92 | Ruffrider27 |
-| 1578 | 91 | Daniel N Phian |
-| 1579 | 91 | Wendy DeBoard |
-| 1580 | 91 | Gypsy |
-| 1581 | 91 | Sassy Stacker |
-| 1582 | 91 | Cupcake |
+| 1571 | 93 | Cupcake |
+| 1572 | 92 | Melissa Jackson |
+| 1573 | 92 | Perky Fitclear |
+| 1574 | 92 | Loony Gridder |
+| 1575 | 92 | Paul Kapusinski |
+| 1576 | 92 | Perky Rollfit |
+| 1577 | 92 | Wambo |
+| 1578 | 92 | Ruffrider27 |
+| 1579 | 91 | Daniel N Phian |
+| 1580 | 91 | Wendy DeBoard |
+| 1581 | 91 | Gypsy |
+| 1582 | 91 | Sassy Stacker |
 | 1583 | 90 | Angel Niomi Munoz |
 | 1584 | 90 | Plucky Clusterer |
 | 1585 | 90 | Shannon Nichole |

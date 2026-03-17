@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-17 08:42:40 UTC
+# Standings for team3 as of 2026-03-17 08:43:19 UTC
 
 **Total Participants:** 4662
 
@@ -50,7 +50,7 @@
 | 42 | 3684 | Liv77 |
 | 43 | 3646 | Ashley Ingram |
 | 44 | 3640 | Funky Edgepiece |
-| 45 | 3622 | smalls |
+| 45 | 3631 | smalls |
 | 46 | 3607 | Stacey Arsenault |
 | 47 | 3481 | Beth Belanger |
 | 48 | 3451 | Funky Piecegrid |
@@ -1156,11 +1156,11 @@
 | 1148 | 249 | Rosalie Call Kehlenbeck |
 | 1149 | 249 | Thomas J |
 | 1150 | 249 | Theresa Opell Gartner |
-| 1151 | 248 | Amber Clark |
-| 1152 | 248 | Goofy T-spin |
-| 1153 | 247 | Kristi Gray |
-| 1154 | 247 | Snappy Shatterfit |
-| 1155 | 247 | yna |
+| 1151 | 248 | yna |
+| 1152 | 248 | Amber Clark |
+| 1153 | 248 | Goofy T-spin |
+| 1154 | 247 | Kristi Gray |
+| 1155 | 247 | Snappy Shatterfit |
 | 1156 | 247 | Scouty |
 | 1157 | 247 | platocracy |
 | 1158 | 247 | ReRe Ruiz |
@@ -1185,44 +1185,44 @@
 | 1177 | 244 | Dorian |
 | 1178 | 244 | Rachel S Wilson |
 | 1179 | 244 | Zappy Blockfall |
-| 1180 | 244 | Frisky Balance |
-| 1181 | 244 | Chirpy Towerfall |
+| 1180 | 244 | Chirpy Towerfall |
+| 1181 | 244 | Frisky Balance |
 | 1182 | 244 | Swanky Wobbler |
 | 1183 | 244 | Danise Palmer |
 | 1184 | 243 | Boldy Jumper |
 | 1185 | 243 | Erica Manning |
-| 1186 | 243 | Shy Ryan |
-| 1187 | 243 | Ashley Jean Maxa |
-| 1188 | 243 | Monique Beasley |
-| 1189 | 242 | Romano |
+| 1186 | 243 | Monique Beasley |
+| 1187 | 243 | Shy Ryan |
+| 1188 | 243 | Ashley Jean Maxa |
+| 1189 | 242 | Jessica Altobelli |
 | 1190 | 242 | byrd |
-| 1191 | 242 | Speedy Hitter |
-| 1192 | 242 | Jessica Altobelli |
+| 1191 | 242 | Romano |
+| 1192 | 242 | Speedy Hitter |
 | 1193 | 242 | Hilda Marie Arreola |
-| 1194 | 241 | Tamara Deherrera |
-| 1195 | 241 | Susan Buckner |
-| 1196 | 240 | Ashley Tookes |
-| 1197 | 240 | Cozy Dashgrid |
-| 1198 | 240 | Blakkha Brown |
-| 1199 | 240 | Jamise Brown |
-| 1200 | 240 | Lush Pattern |
-| 1201 | 240 | Mer Maid |
-| 1202 | 240 | Kayla Pugh |
-| 1203 | 240 | Røsê Mïrïndie |
-| 1204 | 239 | Pam Holt Powell |
-| 1205 | 239 | Pauly Smuks |
-| 1206 | 238 | Louie Biff Lafloor |
-| 1207 | 238 | kushii |
-| 1208 | 238 | Bobby Buccellato |
-| 1209 | 238 | Miriam Arzola |
-| 1210 | 237 | Jasmine Sparks |
-| 1211 | 237 | Cindy Cronin |
-| 1212 | 236 | Emily Barbour |
-| 1213 | 236 | Larry Tilton |
-| 1214 | 236 | Dreamy Twistline |
-| 1215 | 235 | Stephanie Lafalce |
-| 1216 | 235 | Renae M. Dupuis |
-| 1217 | 235 | KaelibsMom |
+| 1194 | 241 | Susan Buckner |
+| 1195 | 241 | Tamara Deherrera |
+| 1196 | 240 | Lush Pattern |
+| 1197 | 240 | KaelibsMom |
+| 1198 | 240 | Jamise Brown |
+| 1199 | 240 | Blakkha Brown |
+| 1200 | 240 | Cozy Dashgrid |
+| 1201 | 240 | Ashley Tookes |
+| 1202 | 240 | Mer Maid |
+| 1203 | 240 | Kayla Pugh |
+| 1204 | 240 | Røsê Mïrïndie |
+| 1205 | 239 | Pam Holt Powell |
+| 1206 | 239 | Pauly Smuks |
+| 1207 | 238 | Louie Biff Lafloor |
+| 1208 | 238 | kushii |
+| 1209 | 238 | Bobby Buccellato |
+| 1210 | 238 | Miriam Arzola |
+| 1211 | 237 | Jasmine Sparks |
+| 1212 | 237 | Cindy Cronin |
+| 1213 | 236 | Emily Barbour |
+| 1214 | 236 | Larry Tilton |
+| 1215 | 236 | Dreamy Twistline |
+| 1216 | 235 | Stephanie Lafalce |
+| 1217 | 235 | Renae M. Dupuis |
 | 1218 | 235 | Peachy Tiltpiece |
 | 1219 | 235 | Patty Lynn Allison |
 | 1220 | 235 | Ada |
