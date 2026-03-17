@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 08:24:23 UTC
+# Standings for team2 as of 2026-03-17 08:25:22 UTC
 
 **Total Participants:** 2967
 
@@ -242,7 +242,7 @@
 | 234 | 704 | LD1 |
 | 235 | 704 | Joshua |
 | 236 | 704 | Lateisha Morris |
-| 237 | 698 | Jay |
+| 237 | 701 | Jay |
 | 238 | 697 | Snappy Bridgepiece |
 | 239 | 697 | Sheena Harris |
 | 240 | 692 | Carly Ann Maxwell |
@@ -331,10 +331,10 @@
 | 323 | 519 | Yoyareese |
 | 324 | 518 | Jaz Sky |
 | 325 | 517 | LeVeL27 |
-| 326 | 515 | Toph |
-| 327 | 512 | Twisty Spinbuilder |
-| 328 | 512 | SuZee |
-| 329 | 512 | 1RiRi1 |
+| 326 | 516 | 1RiRi1 |
+| 327 | 515 | Toph |
+| 328 | 512 | Twisty Spinbuilder |
+| 329 | 512 | SuZee |
 | 330 | 511 | Jt Home |
 | 331 | 511 | Jen Roe |
 | 332 | 510 | Dreamy Clicky |
@@ -1366,54 +1366,54 @@
 | 1358 | 117 | Zesty Clear |
 | 1359 | 117 | Rachael Village |
 | 1360 | 117 | Greg Shekailo |
-| 1361 | 117 | Steph Otruba |
-| 1362 | 117 | Gigi McCue |
-| 1363 | 117 | Blu |
-| 1364 | 117 | Quita |
-| 1365 | 117 | Brooklyn DeLong |
-| 1366 | 117 | Kayla |
-| 1367 | 116 | Plucky Rollblock |
-| 1368 | 116 | Monica Martinez |
-| 1369 | 116 | Emily Elizabeth |
-| 1370 | 116 | Zany Linkblock |
-| 1371 | 116 | Susan L. Brown |
-| 1372 | 116 | Cheyenne Waller |
-| 1373 | 116 | AL |
-| 1374 | 115 | Snippy Framezone |
-| 1375 | 115 | Michael Reavis |
-| 1376 | 115 | Theresa Crawford |
-| 1377 | 115 | Chill Fitzone |
-| 1378 | 115 | Shay Mc |
-| 1379 | 115 | Pamela Knapp |
-| 1380 | 115 | VectorZero |
-| 1381 | 115 | Michele Baucom |
-| 1382 | 114 | Brittany Gent |
-| 1383 | 114 | PuppaT |
+| 1361 | 117 | Quita |
+| 1362 | 117 | Kayla |
+| 1363 | 117 | Brooklyn DeLong |
+| 1364 | 117 | Gigi McCue |
+| 1365 | 117 | Steph Otruba |
+| 1366 | 117 | Blu |
+| 1367 | 116 | Zany Linkblock |
+| 1368 | 116 | AL |
+| 1369 | 116 | Susan L. Brown |
+| 1370 | 116 | Cheyenne Waller |
+| 1371 | 116 | Monica Martinez |
+| 1372 | 116 | Emily Elizabeth |
+| 1373 | 116 | PuppaT |
+| 1374 | 116 | Plucky Rollblock |
+| 1375 | 115 | VectorZero |
+| 1376 | 115 | Chill Fitzone |
+| 1377 | 115 | Michele Baucom |
+| 1378 | 115 | Snippy Framezone |
+| 1379 | 115 | Theresa Crawford |
+| 1380 | 115 | Pamela Knapp |
+| 1381 | 115 | Shay Mc |
+| 1382 | 115 | Michael Reavis |
+| 1383 | 114 | Poppy Snap |
 | 1384 | 114 | Lilypop |
-| 1385 | 114 | Poppy Snap |
-| 1386 | 114 | Cheeky Grabber |
+| 1385 | 114 | Brittany Gent |
+| 1386 | 114 | Breezy Patternzone |
 | 1387 | 114 | Mel Thomas-Young |
-| 1388 | 114 | Brandi Fuller Cason |
-| 1389 | 114 | Breezy Patternzone |
-| 1390 | 113 | carzyspinner |
-| 1391 | 113 | Andrea Velasco Dela Cruz |
-| 1392 | 113 | Savvlexx |
-| 1393 | 113 | Cool Cornerfall |
+| 1388 | 114 | Cheeky Grabber |
+| 1389 | 114 | Brandi Fuller Cason |
+| 1390 | 113 | Cool Cornerfall |
+| 1391 | 113 | carzyspinner |
+| 1392 | 113 | Andrea Velasco Dela Cruz |
+| 1393 | 113 | Savvlexx |
 | 1394 | 113 | Mark Blanton |
 | 1395 | 113 | Ward Leandrea |
 | 1396 | 113 | Nicole Hogue |
 | 1397 | 112 | Nerdy Blockbuilder |
-| 1398 | 112 | aja |
+| 1398 | 112 | Asia M Kerr |
 | 1399 | 112 | Steven Bell |
-| 1400 | 112 | Groovy Combofall |
-| 1401 | 112 | Reginald Harvey |
-| 1402 | 112 | Asia M Kerr |
-| 1403 | 111 | Cranky Bouncer |
-| 1404 | 111 | k8y |
-| 1405 | 111 | Autumn Lenhart |
-| 1406 | 111 | Jenn Nichols |
-| 1407 | 111 | Emily Potter |
-| 1408 | 111 | Alexia Boston |
+| 1400 | 112 | aja |
+| 1401 | 112 | Groovy Combofall |
+| 1402 | 112 | Reginald Harvey |
+| 1403 | 111 | Alexia Boston |
+| 1404 | 111 | Emily Potter |
+| 1405 | 111 | Jenn Nichols |
+| 1406 | 111 | Autumn Lenhart |
+| 1407 | 111 | Cranky Bouncer |
+| 1408 | 111 | k8y |
 | 1409 | 110 | Jelani Blackford |
 | 1410 | 110 | Aly San |
 | 1411 | 110 | Marie Kirkland |
@@ -1974,12 +1974,12 @@
 | 1966 | 60 | Brenda Chouinard |
 | 1967 | 60 | Willie Phister |
 | 1968 | 60 | Billy Paul |
-| 1969 | 60 | Happy Wiper |
-| 1970 | 60 | Karyn Yurcho Dooley |
-| 1971 | 60 | Marsha Tyler |
-| 1972 | 60 | Nathen Ro Tron |
-| 1973 | 60 | Christine Martin |
-| 1974 | 59 | Jaimie Lynn Casias |
+| 1969 | 60 | Karyn Yurcho Dooley |
+| 1970 | 60 | Jaimie Lynn Casias |
+| 1971 | 60 | Happy Wiper |
+| 1972 | 60 | Marsha Tyler |
+| 1973 | 60 | Nathen Ro Tron |
+| 1974 | 60 | Christine Martin |
 | 1975 | 59 | Dre Diehl |
 | 1976 | 59 | Jumpy Tiler |
 | 1977 | 59 | Cryptomeg |
@@ -2017,11 +2017,11 @@
 | 2009 | 56 | Kendra Hahn |
 | 2010 | 56 | Sudaien |
 | 2011 | 56 | Loony Cascade |
-| 2012 | 56 | Robert Burnsworth |
-| 2013 | 56 | MelQ |
-| 2014 | 56 | Andreas Sanchez |
-| 2015 | 56 | Nina Donahue |
-| 2016 | 56 | Frisky Blockpiece |
+| 2012 | 56 | Frisky Blockpiece |
+| 2013 | 56 | Robert Burnsworth |
+| 2014 | 56 | MelQ |
+| 2015 | 56 | Andreas Sanchez |
+| 2016 | 56 | Nina Donahue |
 | 2017 | 55 | Phil |
 | 2018 | 55 | Lyndsi Cirba |
 | 2019 | 55 | Jody Baker |
@@ -2054,8 +2054,8 @@
 | 2046 | 54 | Jay Jarrells |
 | 2047 | 54 | Alejandra Tomasa Garcia-ramirez |
 | 2048 | 54 | Jo Jo |
-| 2049 | 54 | Justin Freeman |
-| 2050 | 54 | Gracie Olmstead |
+| 2049 | 54 | Gracie Olmstead |
+| 2050 | 54 | Justin Freeman |
 | 2051 | 54 | Johndayi Graves |
 | 2052 | 54 | Michael Skinner |
 | 2053 | 54 | Darr Darr |
