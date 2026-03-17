@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 23:02:45 UTC
+# Standings for team1 as of 2026-03-17 23:03:23 UTC
 
 **Total Participants:** 3102
 
@@ -993,52 +993,52 @@
 | 985 | 222 | Selena Shaw |
 | 986 | 222 | Glitzy Spinfit |
 | 987 | 221 | MWFreddy |
-| 988 | 220 | Loony Spinzone |
+| 988 | 220 | Thomas Hopper |
 | 989 | 220 | Groovy Cascadefit |
-| 990 | 220 | Thomas Hopper |
+| 990 | 220 | Loony Spinzone |
 | 991 | 219 | Loopy Edge |
 | 992 | 219 | Komikeh White |
-| 993 | 218 | KayStaylit LionessByron |
-| 994 | 218 | Matthew Laudico |
+| 993 | 218 | Matthew Laudico |
+| 994 | 218 | KayStaylit LionessByron |
 | 995 | 217 | Wren#3 |
-| 996 | 217 | Moemoe Jackson |
-| 997 | 217 | Goob277 |
-| 998 | 217 | Melsap #8284 |
-| 999 | 216 | Katelyn B. Pritchard |
-| 1000 | 216 | Loony Stagger |
-| 1001 | 216 | Cranky Swipe |
-| 1002 | 215 | Kindra Sinclair |
-| 1003 | 214 | Savannah Dennison |
+| 996 | 217 | Goob277 |
+| 997 | 217 | Melsap #8284 |
+| 998 | 217 | Moemoe Jackson |
+| 999 | 216 | Loony Stagger |
+| 1000 | 216 | Cranky Swipe |
+| 1001 | 216 | Katelyn B. Pritchard |
+| 1002 | 216 | Tanya Carpenter-Reynolds |
+| 1003 | 215 | Kindra Sinclair |
 | 1004 | 214 | Heather Bowser |
-| 1005 | 214 | Anna Lasley |
+| 1005 | 214 | Savannah Dennison |
 | 1006 | 214 | Kristi Catron |
-| 1007 | 213 | Santana Valeri |
-| 1008 | 213 | Katy Schuster |
-| 1009 | 213 | Della Angle |
-| 1010 | 213 | Speedy Liney |
-| 1011 | 212 | Pinky Hunt |
-| 1012 | 212 | Silly Strikerbuilder |
-| 1013 | 212 | Edda-Jo Wenneman Dobbs |
-| 1014 | 212 | Ashlee Carnes |
-| 1015 | 212 | Witty Snapmatch |
-| 1016 | 211 | Chipper Matcher |
-| 1017 | 211 | Aira Rangel |
-| 1018 | 211 | Sunny Frame |
-| 1019 | 211 | Scarlett |
+| 1007 | 214 | Anna Lasley |
+| 1008 | 213 | Santana Valeri |
+| 1009 | 213 | Speedy Liney |
+| 1010 | 213 | Della Angle |
+| 1011 | 213 | Katy Schuster |
+| 1012 | 212 | Witty Snapmatch |
+| 1013 | 212 | Pinky Hunt |
+| 1014 | 212 | Edda-Jo Wenneman Dobbs |
+| 1015 | 212 | Ashlee Carnes |
+| 1016 | 212 | Silly Strikerbuilder |
+| 1017 | 211 | Scarlett |
+| 1018 | 211 | Aira Rangel |
+| 1019 | 211 | Sunny Frame |
 | 1020 | 211 | Kevin Russell |
-| 1021 | 210 | Chummy Rollzone |
-| 1022 | 210 | Britters |
+| 1021 | 211 | Chipper Matcher |
+| 1022 | 210 | Chummy Rollzone |
 | 1023 | 210 | Blondie |
-| 1024 | 209 | Ricardo Ferreira |
-| 1025 | 209 | Joyce Dimitt Horn |
-| 1026 | 209 | Sabrina Wilkerson |
-| 1027 | 209 | PSD |
-| 1028 | 209 | Goofy Linkblock |
-| 1029 | 208 | Tanya Carpenter-Reynolds |
+| 1024 | 210 | Britters |
+| 1025 | 209 | PSD |
+| 1026 | 209 | Goofy Linkblock |
+| 1027 | 209 | Joyce Dimitt Horn |
+| 1028 | 209 | Ricardo Ferreira |
+| 1029 | 209 | Sabrina Wilkerson |
 | 1030 | 208 | Matt Morrow |
 | 1031 | 208 | Neomi Perdue |
-| 1032 | 207 | April Mancuosso |
-| 1033 | 207 | Tawny Mo |
+| 1032 | 207 | Tawny Mo |
+| 1033 | 207 | April Mancuosso |
 | 1034 | 207 | Boldy Towerfall |
 | 1035 | 207 | Karissa Hull |
 | 1036 | 206 | Beavis715 |
@@ -1047,26 +1047,26 @@
 | 1039 | 205 | Kathy Searles |
 | 1040 | 204 | Bouncy Tilerpiece |
 | 1041 | 204 | Sapp |
-| 1042 | 203 | Louise Parker |
-| 1043 | 203 | Tyler Terrific |
-| 1044 | 203 | Phrank |
-| 1045 | 203 | Adam McMakin |
-| 1046 | 203 | Kirstian Taylor Grimsley |
-| 1047 | 203 | Brave Twistpiece |
+| 1042 | 203 | Brave Twistpiece |
+| 1043 | 203 | Kirstian Taylor Grimsley |
+| 1044 | 203 | Tyler Terrific |
+| 1045 | 203 | Louise Parker |
+| 1046 | 203 | Phrank |
+| 1047 | 203 | Adam McMakin |
 | 1048 | 203 | Nayyirah Hariyyan |
-| 1049 | 202 | Thomas Susi |
-| 1050 | 202 | Eddie Biernacki |
-| 1051 | 202 | Sharon Panoski |
-| 1052 | 202 | Michael Palmer |
-| 1053 | 202 | Mary Cerciello |
-| 1054 | 202 | tay |
+| 1049 | 202 | Michael Palmer |
+| 1050 | 202 | Mary Cerciello |
+| 1051 | 202 | Eddie Biernacki |
+| 1052 | 202 | tay |
+| 1053 | 202 | Thomas Susi |
+| 1054 | 202 | Leo Davis |
 | 1055 | 202 | Dizzy Pivoty |
-| 1056 | 202 | Tibor Vincepap |
-| 1057 | 202 | Leo Davis |
-| 1058 | 200 | Shaunie Miller |
-| 1059 | 200 | Christal Peltier |
+| 1056 | 202 | Sharon Panoski |
+| 1057 | 202 | Tibor Vincepap |
+| 1058 | 200 | Christal Peltier |
+| 1059 | 200 | Mykel Mcbreen |
 | 1060 | 200 | Ella Brown |
-| 1061 | 200 | Mykel Mcbreen |
+| 1061 | 200 | Shaunie Miller |
 | 1062 | 200 | John DeMoss |
 | 1063 | 200 | Michael Almacen |
 | 1064 | 200 | Alana Susan Hanley |
@@ -1263,38 +1263,38 @@
 | 1255 | 160 | Jeremy Lake |
 | 1256 | 160 | Amanda Jean Gray |
 | 1257 | 160 | Jennifer Hackmann |
-| 1258 | 160 | FireHawk |
-| 1259 | 160 | Snow Neumann |
-| 1260 | 160 | Deborah Fowler |
-| 1261 | 160 | Kim Pabalan |
-| 1262 | 159 | Jenn Lunsford |
-| 1263 | 159 | Darcy |
-| 1264 | 159 | Monet Laronda Wilson |
-| 1265 | 159 | Christopher James Cienfuegos |
-| 1266 | 159 | Jenny Stratton Cozart |
-| 1267 | 158 | Cara Leonard |
-| 1268 | 158 | Christie Love |
-| 1269 | 158 | Sotirios Giaouridis |
-| 1270 | 158 | Jordan Ward |
-| 1271 | 158 | Christi Bouten-Harmon |
-| 1272 | 158 | Phoenix Garrett |
+| 1258 | 160 | Phoenix Garrett |
+| 1259 | 160 | FireHawk |
+| 1260 | 160 | Snow Neumann |
+| 1261 | 160 | Deborah Fowler |
+| 1262 | 160 | Kim Pabalan |
+| 1263 | 159 | Jenn Lunsford |
+| 1264 | 159 | Darcy |
+| 1265 | 159 | Monet Laronda Wilson |
+| 1266 | 159 | Christopher James Cienfuegos |
+| 1267 | 159 | Jenny Stratton Cozart |
+| 1268 | 158 | Cara Leonard |
+| 1269 | 158 | Christie Love |
+| 1270 | 158 | Sotirios Giaouridis |
+| 1271 | 158 | Jordan Ward |
+| 1272 | 158 | Christi Bouten-Harmon |
 | 1273 | 158 | Paul Brian Angelo Egango |
 | 1274 | 157 | Tammy Watson |
 | 1275 | 157 | Bouncy Bouncer |
-| 1276 | 156 | Sassyshell |
-| 1277 | 156 | GoobaGoo67 |
-| 1278 | 156 | Kaitlyn Dean |
-| 1279 | 156 | Lacey Davis |
-| 1280 | 156 | Angi Martinez |
-| 1281 | 156 | Snazzy Tilemaker |
-| 1282 | 156 | ccharngles |
-| 1283 | 155 | Santana Lantana |
-| 1284 | 155 | Kelli Marie |
-| 1285 | 155 | Stephanie Elizabeth Blake |
-| 1286 | 155 | tox |
-| 1287 | 154 | atomictrin |
-| 1288 | 154 | Nancy Burnside |
-| 1289 | 154 | Katie Martin |
+| 1276 | 157 | Katie Martin |
+| 1277 | 156 | Sassyshell |
+| 1278 | 156 | GoobaGoo67 |
+| 1279 | 156 | Kaitlyn Dean |
+| 1280 | 156 | Lacey Davis |
+| 1281 | 156 | Angi Martinez |
+| 1282 | 156 | Snazzy Tilemaker |
+| 1283 | 156 | ccharngles |
+| 1284 | 155 | Santana Lantana |
+| 1285 | 155 | Kelli Marie |
+| 1286 | 155 | Stephanie Elizabeth Blake |
+| 1287 | 155 | tox |
+| 1288 | 154 | atomictrin |
+| 1289 | 154 | Nancy Burnside |
 | 1290 | 154 | Jerome Gunst |
 | 1291 | 154 | Jesica Eade |
 | 1292 | 153 | Dizzy Tiler |
