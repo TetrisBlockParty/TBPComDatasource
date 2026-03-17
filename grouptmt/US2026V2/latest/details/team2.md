@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 08:34:18 UTC
+# Standings for team2 as of 2026-03-17 08:34:44 UTC
 
 **Total Participants:** 2967
 
@@ -323,13 +323,13 @@
 | 315 | 530 | Lewis Sturgeon |
 | 316 | 529 | Joyce |
 | 317 | 527 | ElayneTrekand |
-| 318 | 523 | Sarah Somers Gray |
-| 319 | 521 | Yoyareese |
-| 320 | 521 | Jamie Mclean |
-| 321 | 521 | Shelbs |
-| 322 | 521 | Tyler StaySnappin Old'Page |
-| 323 | 520 | Nerdy Blockpiece |
-| 324 | 519 | 1RiRi1 |
+| 318 | 526 | 1RiRi1 |
+| 319 | 523 | Sarah Somers Gray |
+| 320 | 521 | Yoyareese |
+| 321 | 521 | Jamie Mclean |
+| 322 | 521 | Shelbs |
+| 323 | 521 | Tyler StaySnappin Old'Page |
+| 324 | 520 | Nerdy Blockpiece |
 | 325 | 518 | Jaz Sky |
 | 326 | 517 | LeVeL27 |
 | 327 | 515 | Toph |
@@ -2084,8 +2084,8 @@
 | 2076 | 52 | Kimberly Christine Sherwood |
 | 2077 | 52 | Jason Pence |
 | 2078 | 52 | Heather Gallick |
-| 2079 | 51 | Rob Graves |
-| 2080 | 51 | Moose |
+| 2079 | 51 | Moose |
+| 2080 | 51 | Rob Graves |
 | 2081 | 51 | Anthony Jolly |
 | 2082 | 51 | Peaches |
 | 2083 | 51 | Penny Palmer |
@@ -2137,8 +2137,8 @@
 | 2129 | 48 | Zappy Gridlock |
 | 2130 | 48 | Heather G Cooley |
 | 2131 | 48 | Nicholas Bednarz |
-| 2132 | 48 | Dave Lesher |
-| 2133 | 48 | Dandy Matcher |
+| 2132 | 48 | Dandy Matcher |
+| 2133 | 48 | Dave Lesher |
 | 2134 | 47 | Bartleby Tickletits |
 | 2135 | 47 | Celeste Houchin-truxton |
 | 2136 | 47 | Spunky Cascadeclear |
@@ -2164,10 +2164,10 @@
 | 2156 | 46 | Zany Blockfall |
 | 2157 | 46 | Raquel |
 | 2158 | 46 | FunMom |
-| 2159 | 45 | Jeremiah Bedwell |
-| 2160 | 45 | Fox |
-| 2161 | 45 | kracee |
-| 2162 | 45 | Marie |
+| 2159 | 45 | Marie |
+| 2160 | 45 | kracee |
+| 2161 | 45 | Jeremiah Bedwell |
+| 2162 | 45 | Fox |
 | 2163 | 45 | Giggly Bridgepiece |
 | 2164 | 45 | Ferita Henderson |
 | 2165 | 45 | Crystal |
@@ -2194,8 +2194,8 @@
 | 2186 | 44 | Shanitra WomanafterGod'sownheart Johnson |
 | 2187 | 44 | Solita A Jones |
 | 2188 | 44 | Fredena Denise Wooten |
-| 2189 | 44 | BreeZnDaTrap |
-| 2190 | 44 | Johnte |
+| 2189 | 44 | Johnte |
+| 2190 | 44 | BreeZnDaTrap |
 | 2191 | 43 | Dev |
 | 2192 | 43 | Lively Patternline |
 | 2193 | 43 | Shannon Berg |
@@ -2222,58 +2222,58 @@
 | 2214 | 42 | Jacquie Nash Mccarvel |
 | 2215 | 42 | Marta Savchuk |
 | 2216 | 42 | Dapper Basegrid |
-| 2217 | 42 | Rich Phillips |
-| 2218 | 42 | Daring Riser |
-| 2219 | 42 | Karla Haddock |
-| 2220 | 42 | Mel |
+| 2217 | 42 | Karla Haddock |
+| 2218 | 42 | Mel |
+| 2219 | 42 | Rich Phillips |
+| 2220 | 42 | Daring Riser |
 | 2221 | 42 | HeartBlock |
-| 2222 | 41 | Aquia |
+| 2222 | 41 | Chelsie Shreve |
 | 2223 | 41 | Brandy Finucane |
-| 2224 | 41 | Yari |
-| 2225 | 41 | Dandy Combofall |
-| 2226 | 41 | Micheal Mellen |
-| 2227 | 41 | Rhiannon |
-| 2228 | 41 | Jen Hawes |
-| 2229 | 41 | Funky Dropper |
-| 2230 | 41 | Francisco Lovechild |
-| 2231 | 41 | Lindsey Anderson |
-| 2232 | 40 | Nicolle Danielle |
-| 2233 | 40 | Jenny Davis |
-| 2234 | 40 | Shea |
-| 2235 | 40 | Stacy Warren |
-| 2236 | 40 | Aprilrose Gomez |
-| 2237 | 40 | Tinkershell |
-| 2238 | 40 | Shanon R Jackson |
-| 2239 | 40 | Cosmosis |
-| 2240 | 40 | Dreamy Climber |
-| 2241 | 40 | Deb Brustman |
-| 2242 | 40 | Shawna Lewis |
-| 2243 | 40 | Carli Jean |
-| 2244 | 40 | Jumpy tilemaker |
-| 2245 | 40 | Mover |
-| 2246 | 40 | Groovy Patternfit |
-| 2247 | 40 | Andre Simpson |
-| 2248 | 40 | Ashley V Arnold |
-| 2249 | 40 | Shanae Grant |
-| 2250 | 40 | Zappy Dashy |
-| 2251 | 40 | Denver |
-| 2252 | 40 | Spicy Patterner |
-| 2253 | 40 | Scott Smith |
-| 2254 | 40 | Shan |
-| 2255 | 40 | Breanna Holtman |
-| 2256 | 40 | Shawna Long |
-| 2257 | 40 | Dandy Framezone |
-| 2258 | 40 | Loopy Slam |
-| 2259 | 40 | Shandi Jones |
-| 2260 | 40 | Steven Sailor |
-| 2261 | 40 | Justin Hains |
-| 2262 | 40 | Chelsie Shreve |
+| 2224 | 41 | Aquia |
+| 2225 | 41 | Yari |
+| 2226 | 41 | Dandy Combofall |
+| 2227 | 41 | Micheal Mellen |
+| 2228 | 41 | Rhiannon |
+| 2229 | 41 | Jen Hawes |
+| 2230 | 41 | Funky Dropper |
+| 2231 | 41 | Francisco Lovechild |
+| 2232 | 41 | Lindsey Anderson |
+| 2233 | 40 | Nicolle Danielle |
+| 2234 | 40 | Jenny Davis |
+| 2235 | 40 | Shea |
+| 2236 | 40 | Stacy Warren |
+| 2237 | 40 | Aprilrose Gomez |
+| 2238 | 40 | Tinkershell |
+| 2239 | 40 | Shanon R Jackson |
+| 2240 | 40 | Cosmosis |
+| 2241 | 40 | Dreamy Climber |
+| 2242 | 40 | Deb Brustman |
+| 2243 | 40 | Shawna Lewis |
+| 2244 | 40 | Carli Jean |
+| 2245 | 40 | Jumpy tilemaker |
+| 2246 | 40 | Mover |
+| 2247 | 40 | Groovy Patternfit |
+| 2248 | 40 | Andre Simpson |
+| 2249 | 40 | Ashley V Arnold |
+| 2250 | 40 | Shanae Grant |
+| 2251 | 40 | Zappy Dashy |
+| 2252 | 40 | Denver |
+| 2253 | 40 | Spicy Patterner |
+| 2254 | 40 | Scott Smith |
+| 2255 | 40 | Shan |
+| 2256 | 40 | Breanna Holtman |
+| 2257 | 40 | Shawna Long |
+| 2258 | 40 | Dandy Framezone |
+| 2259 | 40 | Loopy Slam |
+| 2260 | 40 | Shandi Jones |
+| 2261 | 40 | Steven Sailor |
+| 2262 | 40 | Justin Hains |
 | 2263 | 40 | Lynette Phillips |
 | 2264 | 40 | Sherilan Santiago |
-| 2265 | 40 | Casey Lane |
-| 2266 | 40 | Lexie Jones |
-| 2267 | 39 | AriesEvv |
-| 2268 | 39 | Dizzy Clearpiece |
+| 2265 | 40 | Lexie Jones |
+| 2266 | 40 | Casey Lane |
+| 2267 | 39 | Dizzy Clearpiece |
+| 2268 | 39 | AriesEvv |
 | 2269 | 39 | Groovy Stackbuilder |
 | 2270 | 39 | Nici |
 | 2271 | 39 | Loopy Shatterclear |
@@ -2306,8 +2306,8 @@
 | 2298 | 38 | BockyTea |
 | 2299 | 38 | geno |
 | 2300 | 38 | Booo |
-| 2301 | 37 | Gappy Chic |
-| 2302 | 37 | Zay Stroble |
+| 2301 | 37 | Zay Stroble |
+| 2302 | 37 | Gappy Chic |
 | 2303 | 37 | Jason Beaber |
 | 2304 | 37 | Sharon Stevens |
 | 2305 | 37 | Charity Ann Nally |
@@ -2338,10 +2338,10 @@
 | 2330 | 36 | Rarejewel Green |
 | 2331 | 36 | Mandy Parker |
 | 2332 | 36 | Joan Du |
-| 2333 | 36 | Lisa Donovan |
-| 2334 | 36 | Mary Punzo |
-| 2335 | 36 | Zesty Clicker |
-| 2336 | 36 | Deborah T Paradis |
+| 2333 | 36 | Deborah T Paradis |
+| 2334 | 36 | Lisa Donovan |
+| 2335 | 36 | Mary Punzo |
+| 2336 | 36 | Zesty Clicker |
 | 2337 | 35 | Blocky bull |
 | 2338 | 35 | Archimedean |
 | 2339 | 35 | Adam McClellan |
