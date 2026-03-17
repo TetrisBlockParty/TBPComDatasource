@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 09:00:18 UTC
+# Standings for team1 as of 2026-03-17 09:00:45 UTC
 
 **Total Participants:** 2965
 
@@ -117,9 +117,9 @@
 | 109 | 1431 | paupau |
 | 110 | 1430 | Timothy Long |
 | 111 | 1422 | Sleepypanda67 |
-| 112 | 1405 | jenna |
-| 113 | 1396 | Shannon Ferrari |
-| 114 | 1389 | Yvonne Buie |
+| 112 | 1409 | Yvonne Buie |
+| 113 | 1405 | jenna |
+| 114 | 1396 | Shannon Ferrari |
 | 115 | 1388 | Jodie Peterson |
 | 116 | 1386 | Legendary |
 | 117 | 1382 | Denise Edwards |
@@ -254,11 +254,11 @@
 | 246 | 745 | Antonia Wyche |
 | 247 | 738 | Kayla Marie Stevenson |
 | 248 | 737 | Lynn Perkins |
-| 249 | 723 | Sarah Perry Cook |
-| 250 | 722 | Patti Rone |
-| 251 | 719 | Amanda Huckstep |
-| 252 | 714 | Sassy Cascadepiece |
-| 253 | 711 | SitHazy |
+| 249 | 731 | SitHazy |
+| 250 | 723 | Sarah Perry Cook |
+| 251 | 722 | Patti Rone |
+| 252 | 719 | Amanda Huckstep |
+| 253 | 714 | Sassy Cascadepiece |
 | 254 | 708 | Cynthia Petz |
 | 255 | 704 | Roary Danner |
 | 256 | 704 | Chris Alexinas |
@@ -1275,15 +1275,15 @@
 | 1267 | 134 | Bobbie Freeman |
 | 1268 | 134 | Summer R Delgado |
 | 1269 | 134 | Carrie E Lamb Neal |
-| 1270 | 133 | Bouncy Clicker |
-| 1271 | 133 | Cara Leonard |
-| 1272 | 133 | Going Gone |
-| 1273 | 133 | Jonathan Morgan-Hoare |
-| 1274 | 133 | Melanie Abshire |
-| 1275 | 132 | smitch |
-| 1276 | 132 | Mamabear924 |
-| 1277 | 132 | Ashlee Carnes |
-| 1278 | 132 | Annette Bamburg |
+| 1270 | 133 | Annette Bamburg |
+| 1271 | 133 | Bouncy Clicker |
+| 1272 | 133 | Cara Leonard |
+| 1273 | 133 | Going Gone |
+| 1274 | 133 | Jonathan Morgan-Hoare |
+| 1275 | 133 | Melanie Abshire |
+| 1276 | 132 | smitch |
+| 1277 | 132 | Mamabear924 |
+| 1278 | 132 | Ashlee Carnes |
 | 1279 | 132 | Bouncy Bricky |
 | 1280 | 132 | svsninja |
 | 1281 | 131 | ALFD |
