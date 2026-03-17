@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 08:30:46 UTC
+# Standings for team2 as of 2026-03-17 08:31:23 UTC
 
 **Total Participants:** 2967
 
@@ -196,9 +196,9 @@
 | 188 | 857 | Jesse Olive |
 | 189 | 852 | Desiree Anderson |
 | 190 | 848 | Tess Shaheen |
-| 191 | 842 | Mandi Mayweather |
-| 192 | 834 | Jazzy Hitter |
-| 193 | 833 | cat |
+| 191 | 843 | cat |
+| 192 | 842 | Mandi Mayweather |
+| 193 | 834 | Jazzy Hitter |
 | 194 | 831 | Madia Quick |
 | 195 | 830 | Jjj |
 | 196 | 829 | Kennady Griffin |
