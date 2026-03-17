@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-17 10:58:19 UTC
+# Standings for team3 as of 2026-03-17 10:58:44 UTC
 
 **Total Participants:** 4679
 
@@ -2162,10 +2162,10 @@
 | 2154 | 119 | Dawn Kelley |
 | 2155 | 119 | LaJuana Fowler |
 | 2156 | 118 | NightOwl |
-| 2157 | 118 | Epic Fill |
-| 2158 | 118 | John Marin |
+| 2157 | 118 | John Marin |
+| 2158 | 118 | Cranky Blockbuilder |
 | 2159 | 118 | Snappy Snapzone |
-| 2160 | 118 | Cranky Blockbuilder |
+| 2160 | 118 | Epic Fill |
 | 2161 | 118 | Lorrie Lane Cummings |
 | 2162 | 118 | Cozy Tetriblast |
 | 2163 | 118 | Marion Williams |
@@ -2186,55 +2186,55 @@
 | 2178 | 117 | Cupcake |
 | 2179 | 117 | Anna Hernandez |
 | 2180 | 117 | Lemon Juice |
-| 2181 | 117 | Amber Aubrey |
-| 2182 | 117 | Monique Adame Rosas |
-| 2183 | 117 | Michelle Brickey-Friley |
-| 2184 | 116 | Germar2 |
-| 2185 | 116 | Silly Blockroll |
-| 2186 | 116 | Sandy Lyn |
-| 2187 | 116 | Giddy Blockmatch |
-| 2188 | 116 | Corina Greathouse |
-| 2189 | 116 | Krysta Renfro |
-| 2190 | 116 | Erica Nichols |
-| 2191 | 116 | Tasha Stanley |
-| 2192 | 116 | Kataylee |
-| 2193 | 116 | Dawn Jacobs |
-| 2194 | 116 | Dapper Stackbuilder |
-| 2195 | 116 | Mark Hicks |
-| 2196 | 115 | Sandy Jones |
-| 2197 | 115 | Petty Bethy |
+| 2181 | 117 | anessa |
+| 2182 | 117 | Amber Aubrey |
+| 2183 | 117 | Monique Adame Rosas |
+| 2184 | 117 | Michelle Brickey-Friley |
+| 2185 | 116 | Germar2 |
+| 2186 | 116 | Silly Blockroll |
+| 2187 | 116 | Sandy Lyn |
+| 2188 | 116 | Giddy Blockmatch |
+| 2189 | 116 | Corina Greathouse |
+| 2190 | 116 | Krysta Renfro |
+| 2191 | 116 | Erica Nichols |
+| 2192 | 116 | Tasha Stanley |
+| 2193 | 116 | Kataylee |
+| 2194 | 116 | Dawn Jacobs |
+| 2195 | 116 | Dapper Stackbuilder |
+| 2196 | 116 | Mark Hicks |
+| 2197 | 115 | Sandy Jones |
 | 2198 | 115 | Taylor Sutherland |
-| 2199 | 115 | Amanda Nickerson |
+| 2199 | 115 | Ruben Gonzalez |
 | 2200 | 115 | Jaine Sonntag |
-| 2201 | 115 | Amelia Dennis |
-| 2202 | 115 | Ruben Gonzalez |
-| 2203 | 115 | Bouncy Spinfit |
-| 2204 | 115 | Jumpy Fit |
-| 2205 | 115 | Aseret Redmon |
-| 2206 | 114 | Bobbi Jangles |
-| 2207 | 114 | Ash Mabrey |
-| 2208 | 114 | Freda |
-| 2209 | 114 | Jennifer Walsifer |
-| 2210 | 114 | Tonia Harris Taylor |
-| 2211 | 114 | Mya Johnson |
-| 2212 | 114 | Happy Lift |
-| 2213 | 114 | Charice Mcclinton |
-| 2214 | 113 | Sarahs Livingherlife |
-| 2215 | 113 | Catherine Gomez |
-| 2216 | 113 | Amanda Epperson |
-| 2217 | 113 | Brooke Heinz |
-| 2218 | 113 | Giggly Cascadefit |
-| 2219 | 113 | Snippy Brickster |
-| 2220 | 113 | Leena |
-| 2221 | 113 | Tabitha Wymbs |
-| 2222 | 113 | anessa |
-| 2223 | 113 | Slinky Grabber |
-| 2224 | 113 | Brandi Bowman |
-| 2225 | 112 | Corrine Campbell |
-| 2226 | 112 | Charles Rainey |
-| 2227 | 112 | Plucky Snapline |
+| 2201 | 115 | Amanda Nickerson |
+| 2202 | 115 | Amelia Dennis |
+| 2203 | 115 | Petty Bethy |
+| 2204 | 115 | Bouncy Spinfit |
+| 2205 | 115 | Jumpy Fit |
+| 2206 | 115 | Aseret Redmon |
+| 2207 | 114 | Bobbi Jangles |
+| 2208 | 114 | Ash Mabrey |
+| 2209 | 114 | Freda |
+| 2210 | 114 | Jennifer Walsifer |
+| 2211 | 114 | Tonia Harris Taylor |
+| 2212 | 114 | Mya Johnson |
+| 2213 | 114 | Happy Lift |
+| 2214 | 114 | Charice Mcclinton |
+| 2215 | 113 | Sarahs Livingherlife |
+| 2216 | 113 | Catherine Gomez |
+| 2217 | 113 | Amanda Epperson |
+| 2218 | 113 | Brooke Heinz |
+| 2219 | 113 | Giggly Cascadefit |
+| 2220 | 113 | Snippy Brickster |
+| 2221 | 113 | Leena |
+| 2222 | 113 | Tabitha Wymbs |
+| 2223 | 113 | Brandi Bowman |
+| 2224 | 113 | Slinky Grabber |
+| 2225 | 112 | Cozy Slice |
+| 2226 | 112 | Corrine Campbell |
+| 2227 | 112 | Charles Rainey |
 | 2228 | 112 | Ashley |
-| 2229 | 112 | Cozy Slice |
+| 2229 | 112 | Plucky Snapline |
 | 2230 | 112 | Alexandria Fritch |
 | 2231 | 112 | Wacky Tiltpiece |
 | 2232 | 112 | Riz |
@@ -2248,22 +2248,22 @@
 | 2240 | 111 | Tipsy Curver |
 | 2241 | 111 | Tasha Vandewarker |
 | 2242 | 111 | Courtney Jean |
-| 2243 | 111 | Beverly Tallmadge |
-| 2244 | 111 | Camille Egnor |
-| 2245 | 111 | Patty Case Shaffer |
-| 2246 | 111 | Bobby Garsa |
-| 2247 | 111 | Krista Bartlett |
-| 2248 | 111 | Makis Denis |
+| 2243 | 111 | Makis Denis |
+| 2244 | 111 | Randi Benedict McMunigal |
+| 2245 | 111 | Smiley Builderfit |
+| 2246 | 111 | Fallawn Stout-Peete |
+| 2247 | 111 | Camille Egnor |
+| 2248 | 111 | Patty Case Shaffer |
 | 2249 | 111 | Lazy Swiper |
-| 2250 | 111 | Fallawn Stout-Peete |
-| 2251 | 111 | Smiley Builderfit |
-| 2252 | 111 | Randi Benedict McMunigal |
-| 2253 | 110 | Lee Wojcik |
-| 2254 | 110 | Tyler Watson |
-| 2255 | 110 | Chipper Clearbuilder |
-| 2256 | 110 | Jennifer Brooks |
-| 2257 | 110 | Silly Fallmatch |
-| 2258 | 110 | Yin Yee |
+| 2250 | 111 | Bobby Garsa |
+| 2251 | 111 | Krista Bartlett |
+| 2252 | 111 | Beverly Tallmadge |
+| 2253 | 110 | Chipper Clearbuilder |
+| 2254 | 110 | Jennifer Brooks |
+| 2255 | 110 | Lee Wojcik |
+| 2256 | 110 | Silly Fallmatch |
+| 2257 | 110 | Yin Yee |
+| 2258 | 110 | Tyler Watson |
 | 2259 | 110 | Nerdy Slice |
 | 2260 | 110 | Rick Capo |
 | 2261 | 110 | Lawanda Michelle |

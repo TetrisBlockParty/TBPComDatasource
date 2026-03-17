@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 10:58:19 UTC
+# Standings for team2 as of 2026-03-17 10:58:44 UTC
 
 **Total Participants:** 2979
 
@@ -219,10 +219,10 @@
 | 211 | 806 | Jocelynn Marie |
 | 212 | 805 | Dane Roy |
 | 213 | 801 | Carmilita Burpo Jordan |
-| 214 | 799 | Giggity boots |
-| 215 | 795 | BluBae |
-| 216 | 784 | Emily Wooden |
-| 217 | 782 | Mandy |
+| 214 | 800 | Mandy |
+| 215 | 799 | Giggity boots |
+| 216 | 795 | BluBae |
+| 217 | 784 | Emily Wooden |
 | 218 | 781 | Stacy Evans |
 | 219 | 772 | Mike Carden |
 | 220 | 771 | Chassy Horton |
