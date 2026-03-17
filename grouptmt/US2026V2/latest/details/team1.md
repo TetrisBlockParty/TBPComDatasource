@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 08:20:46 UTC
+# Standings for team1 as of 2026-03-17 08:21:22 UTC
 
 **Total Participants:** 2962
 
@@ -425,16 +425,16 @@
 | 417 | 441 | Nicole Plummer |
 | 418 | 440 | Dude |
 | 419 | 438 | Groovy Glidepiece |
-| 420 | 431 | KoDaK |
+| 420 | 438 | Randy Clevenger |
 | 421 | 431 | Ciara Nunez |
-| 422 | 430 | Mama Becky |
-| 423 | 428 | Hasty Lift |
-| 424 | 428 | Amber Lingerfelt |
-| 425 | 427 | Giggly Brickroll |
-| 426 | 426 | Quirky Crawler |
-| 427 | 424 | Mighty Clear |
-| 428 | 424 | Dennis Eitler |
-| 429 | 423 | Randy Clevenger |
+| 422 | 431 | KoDaK |
+| 423 | 430 | Mama Becky |
+| 424 | 428 | Hasty Lift |
+| 425 | 428 | Amber Lingerfelt |
+| 426 | 427 | Giggly Brickroll |
+| 427 | 426 | Quirky Crawler |
+| 428 | 424 | Mighty Clear |
+| 429 | 424 | Dennis Eitler |
 | 430 | 421 | Lazy Dashpiece |
 | 431 | 418 | Laura Morrison |
 | 432 | 418 | Chill Matchzone |
@@ -466,8 +466,8 @@
 | 458 | 397 | Beka |
 | 459 | 396 | Vergie Michael |
 | 460 | 396 | Jr_420 |
-| 461 | 395 | Tiffany McLeod |
-| 462 | 395 | tazd0629 |
+| 461 | 396 | tazd0629 |
+| 462 | 395 | Tiffany McLeod |
 | 463 | 394 | Stacy Rodriguez |
 | 464 | 394 | Casey Babb |
 | 465 | 394 | Daring Shuffler |
@@ -1767,59 +1767,59 @@
 | 1759 | 73 | PoundSound |
 | 1760 | 73 | Giddy Swiper |
 | 1761 | 73 | LMP |
-| 1762 | 72 | Patrick Cordova |
-| 1763 | 72 | Ashley Adams |
+| 1762 | 73 | Michael Anthony |
+| 1763 | 72 | Patrick Cordova |
 | 1764 | 72 | Hyper Drop |
-| 1765 | 72 | Silly Crawler |
-| 1766 | 72 | Ramona Dumas |
-| 1767 | 72 | ReggieDugaler |
-| 1768 | 72 | Goofy Riserfit |
-| 1769 | 72 | Chipper Dropmatch |
-| 1770 | 72 | Cozy Clearpiece |
-| 1771 | 72 | Jacob Lee Grinvalds |
-| 1772 | 72 | Vivian Bunnell Myers |
-| 1773 | 72 | Purple |
-| 1774 | 72 | Joe Mcleod |
-| 1775 | 72 | Robert Coulter |
-| 1776 | 71 | Kim Morgan Henderson |
-| 1777 | 71 | ldm |
-| 1778 | 71 | Lentoya Jackson |
-| 1779 | 71 | Michael Anthony |
-| 1780 | 71 | Kevin Munkel |
-| 1781 | 71 | Danny Ortiz |
-| 1782 | 71 | Judith Avery |
-| 1783 | 71 | Crystal Eubanks |
-| 1784 | 71 | Jay Hahn |
-| 1785 | 71 | John McCarthy II |
-| 1786 | 70 | Lynette Tamlin |
-| 1787 | 70 | CaSondra Harris-Garrison |
-| 1788 | 70 | Candace Roach |
-| 1789 | 70 | Swanky Tetrisline |
-| 1790 | 70 | Bill Sayed |
-| 1791 | 70 | Faith Dupuis |
-| 1792 | 70 | Nerdbomb |
-| 1793 | 70 | Tate Sonnier |
-| 1794 | 70 | Frothy Tetrisline |
-| 1795 | 70 | JBond007 |
-| 1796 | 70 | Christopher L Crites |
-| 1797 | 70 | Happy Snapline |
-| 1798 | 70 | Frisky Climber |
-| 1799 | 70 | Twisted Fish |
-| 1800 | 69 | Lush Riseclear |
-| 1801 | 69 | Leonna Bianchi |
-| 1802 | 69 | Michael Hain |
-| 1803 | 69 | minnie |
-| 1804 | 69 | Ryan Carr |
+| 1765 | 72 | Ashley Adams |
+| 1766 | 72 | Silly Crawler |
+| 1767 | 72 | minnie |
+| 1768 | 72 | Ramona Dumas |
+| 1769 | 72 | ReggieDugaler |
+| 1770 | 72 | Goofy Riserfit |
+| 1771 | 72 | Chipper Dropmatch |
+| 1772 | 72 | Cozy Clearpiece |
+| 1773 | 72 | Jacob Lee Grinvalds |
+| 1774 | 72 | Vivian Bunnell Myers |
+| 1775 | 72 | Purple |
+| 1776 | 72 | Joe Mcleod |
+| 1777 | 72 | Robert Coulter |
+| 1778 | 71 | Kim Morgan Henderson |
+| 1779 | 71 | ldm |
+| 1780 | 71 | Lentoya Jackson |
+| 1781 | 71 | Kevin Munkel |
+| 1782 | 71 | Danny Ortiz |
+| 1783 | 71 | Judith Avery |
+| 1784 | 71 | Crystal Eubanks |
+| 1785 | 71 | Jay Hahn |
+| 1786 | 71 | John McCarthy II |
+| 1787 | 70 | Lynette Tamlin |
+| 1788 | 70 | CaSondra Harris-Garrison |
+| 1789 | 70 | Candace Roach |
+| 1790 | 70 | Swanky Tetrisline |
+| 1791 | 70 | Bill Sayed |
+| 1792 | 70 | Faith Dupuis |
+| 1793 | 70 | Nerdbomb |
+| 1794 | 70 | Tate Sonnier |
+| 1795 | 70 | Frothy Tetrisline |
+| 1796 | 70 | JBond007 |
+| 1797 | 70 | Christopher L Crites |
+| 1798 | 70 | Twisted Fish |
+| 1799 | 70 | Frisky Climber |
+| 1800 | 70 | Happy Snapline |
+| 1801 | 69 | Lush Riseclear |
+| 1802 | 69 | Leonna Bianchi |
+| 1803 | 69 | Ryan Carr |
+| 1804 | 69 | Michael Hain |
 | 1805 | 69 | Jimmy Walker |
-| 1806 | 68 | Hardrunner |
-| 1807 | 68 | Tionna Rose Alderson |
-| 1808 | 68 | Shiny Crawler |
-| 1809 | 68 | Jake |
-| 1810 | 68 | Ddb |
-| 1811 | 68 | zachidious1 |
-| 1812 | 68 | Earnest R Nichols |
-| 1813 | 68 | Herm Junior |
-| 1814 | 68 | Bill St.peter |
+| 1806 | 68 | Earnest R Nichols |
+| 1807 | 68 | Herm Junior |
+| 1808 | 68 | Jake |
+| 1809 | 68 | Tionna Rose Alderson |
+| 1810 | 68 | Hardrunner |
+| 1811 | 68 | Shiny Crawler |
+| 1812 | 68 | Bill St.peter |
+| 1813 | 68 | Ddb |
+| 1814 | 68 | zachidious1 |
 | 1815 | 68 | Zac Brubaker |
 | 1816 | 68 | Santana Valeri |
 | 1817 | 68 | Adrianna Drake-Aubuchon |
