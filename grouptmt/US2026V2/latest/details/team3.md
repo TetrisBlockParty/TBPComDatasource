@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-17 08:44:44 UTC
+# Standings for team3 as of 2026-03-17 08:45:19 UTC
 
 **Total Participants:** 4662
 
@@ -50,7 +50,7 @@
 | 42 | 3684 | Liv77 |
 | 43 | 3646 | Ashley Ingram |
 | 44 | 3640 | Funky Edgepiece |
-| 45 | 3631 | smalls |
+| 45 | 3637 | smalls |
 | 46 | 3607 | Stacey Arsenault |
 | 47 | 3481 | Beth Belanger |
 | 48 | 3451 | Funky Piecegrid |
