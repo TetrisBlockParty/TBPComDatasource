@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 11:02:51 UTC
+# Standings for team2 as of 2026-03-17 11:03:19 UTC
 
 **Total Participants:** 2981
 
@@ -492,8 +492,8 @@
 | 484 | 370 | Jennifer |
 | 485 | 369 | Jen Kanakry Faria |
 | 486 | 367 | LeNae TwoBarbie McEachin |
-| 487 | 366 | Zany Rotater |
-| 488 | 366 | Breanna Lemus |
+| 487 | 366 | Breanna Lemus |
+| 488 | 366 | Zany Rotater |
 | 489 | 365 | Layle Miranda Madsen |
 | 490 | 364 | Ash Whitley |
 | 491 | 363 | Allen Spurlock |
@@ -503,116 +503,116 @@
 | 495 | 360 | Tee Jaleesa |
 | 496 | 357 | Junang Herowanto |
 | 497 | 357 | Jessi |
-| 498 | 356 | Andrew Mathis |
-| 499 | 356 | Diane Louise |
+| 498 | 356 | Diane Louise |
+| 499 | 356 | Andrew Mathis |
 | 500 | 355 | Marc Anthony Lopez |
 | 501 | 353 | Giggly Shiftsnap |
 | 502 | 353 | Jen Louie |
 | 503 | 353 | Glitzy Blockpiece |
-| 504 | 352 | Haley Lynn Agers |
+| 504 | 352 | Kimberly Garcia |
 | 505 | 352 | JTH |
-| 506 | 352 | Kimberly Garcia |
+| 506 | 352 | Haley Lynn Agers |
 | 507 | 351 | Cari Hogan |
 | 508 | 351 | Witty T-spin |
-| 509 | 350 | LaTonya Myers |
-| 510 | 350 | Goofy Towerer |
-| 511 | 349 | Jennifer Haton Kreighbaum |
-| 512 | 349 | Daring Rotator |
-| 513 | 348 | Lively Builderfit |
+| 509 | 350 | Goofy Towerer |
+| 510 | 350 | LaTonya Myers |
+| 511 | 349 | Daring Rotator |
+| 512 | 349 | Jennifer Haton Kreighbaum |
+| 513 | 348 | Mjhays |
 | 514 | 348 | Emilie Creswell |
-| 515 | 348 | Mjhays |
+| 515 | 348 | Lively Builderfit |
 | 516 | 348 | Chummy Brickfit |
 | 517 | 347 | Ess |
-| 518 | 346 | Sarah Marie |
+| 518 | 346 | Sha45 |
 | 519 | 346 | Shea Ladynick Henderson |
-| 520 | 343 | Ella Marzano |
-| 521 | 343 | Jess Ortiz |
-| 522 | 342 | Nicole McLean |
-| 523 | 341 | Rigoberto Sanchez Jr. |
+| 520 | 346 | Sarah Marie |
+| 521 | 343 | Ella Marzano |
+| 522 | 343 | Jess Ortiz |
+| 523 | 342 | Nicole McLean |
 | 524 | 341 | Jean Yap |
-| 525 | 341 | Kevin Blevins |
-| 526 | 340 | GirlMom5 |
-| 527 | 340 | Lucas J Sutton |
-| 528 | 338 | Torie Snyder |
-| 529 | 338 | Spunky Snapfit |
-| 530 | 338 | Fbai |
-| 531 | 338 | Joshua Madinger |
-| 532 | 337 | Josie Fig |
-| 533 | 336 | Amanda Martinez |
-| 534 | 336 | Vanessa Nguyen |
-| 535 | 335 | Arisvet Garcia |
-| 536 | 335 | Alexis Seath |
-| 537 | 333 | Zany Dashgrid |
-| 538 | 332 | sofiiya the forst |
-| 539 | 332 | Guillaume Clermont |
-| 540 | 332 | Angel Hunnewell |
-| 541 | 330 | Frisky Zonepiece |
+| 525 | 341 | Rigoberto Sanchez Jr. |
+| 526 | 341 | Kevin Blevins |
+| 527 | 340 | GirlMom5 |
+| 528 | 340 | Lucas J Sutton |
+| 529 | 338 | Torie Snyder |
+| 530 | 338 | Spunky Snapfit |
+| 531 | 338 | Fbai |
+| 532 | 338 | Joshua Madinger |
+| 533 | 337 | Josie Fig |
+| 534 | 336 | Amanda Martinez |
+| 535 | 336 | Vanessa Nguyen |
+| 536 | 335 | Arisvet Garcia |
+| 537 | 335 | Alexis Seath |
+| 538 | 333 | Zany Dashgrid |
+| 539 | 332 | Angel Hunnewell |
+| 540 | 332 | Guillaume Clermont |
+| 541 | 332 | sofiiya the forst |
 | 542 | 330 | olympichero |
-| 543 | 328 | Daria Rycewicz |
-| 544 | 328 | Troy |
-| 545 | 328 | Bouncy Zoner |
-| 546 | 328 | Brooke Ransom |
-| 547 | 327 | Porsche' Nicole |
-| 548 | 327 | SportyRabbit51 |
-| 549 | 326 | Jackson Karen |
-| 550 | 326 | Tracey Cox |
-| 551 | 326 | Twisty Frame |
-| 552 | 326 | Tammy |
-| 553 | 325 | Spunky Balancefit |
-| 554 | 324 | Amanda Mason Scott |
-| 555 | 323 | Epic Wipebuilder |
-| 556 | 322 | Kristy Mullins |
+| 543 | 330 | Frisky Zonepiece |
+| 544 | 328 | Daria Rycewicz |
+| 545 | 328 | Brooke Ransom |
+| 546 | 328 | Bouncy Zoner |
+| 547 | 328 | Troy |
+| 548 | 327 | Porsche' Nicole |
+| 549 | 327 | SportyRabbit51 |
+| 550 | 326 | Twisty Frame |
+| 551 | 326 | Jackson Karen |
+| 552 | 326 | Tracey Cox |
+| 553 | 326 | Tammy |
+| 554 | 325 | Spunky Balancefit |
+| 555 | 324 | Amanda Mason Scott |
+| 556 | 323 | Epic Wipebuilder |
 | 557 | 322 | Teri Oehlke |
 | 558 | 322 | Mighty Zone |
-| 559 | 321 | Krista Carpenter |
+| 559 | 322 | Kristy Mullins |
 | 560 | 321 | Laura Smith |
-| 561 | 320 | Zippy Zoney |
+| 561 | 321 | Krista Carpenter |
 | 562 | 320 | Jenna McGeorge |
-| 563 | 320 | Sha45 |
+| 563 | 320 | Zippy Zoney |
 | 564 | 319 | btchboy |
 | 565 | 318 | Sbs |
-| 566 | 317 | Zesty Balancefit |
-| 567 | 317 | Heather Kelley |
-| 568 | 317 | Jolly Towerpiece |
-| 569 | 316 | Frisky Riserbuilder |
+| 566 | 317 | Heather Kelley |
+| 567 | 317 | Jolly Towerpiece |
+| 568 | 317 | Zesty Balancefit |
+| 569 | 316 | Chad Meyers |
 | 570 | 316 | Carey Kyle |
-| 571 | 316 | Chad Meyers |
-| 572 | 316 | Alice Greene |
+| 571 | 316 | Alice Greene |
+| 572 | 316 | Frisky Riserbuilder |
 | 573 | 315 | SD Temple |
 | 574 | 315 | Camila Gerow |
 | 575 | 314 | Anika Strawberryz Smith |
 | 576 | 313 | Deb Rose-Bridinger |
 | 577 | 313 | Zesty Dropzone |
 | 578 | 313 | Aobregon01 |
-| 579 | 313 | Aryn Thacker |
+| 579 | 313 | Lindsay Parenti |
 | 580 | 313 | Cheeky Clearbuilder |
-| 581 | 313 | Lindsay Parenti |
-| 582 | 313 | Carlton Unfiltered |
+| 581 | 313 | Carlton Unfiltered |
+| 582 | 313 | Aryn Thacker |
 | 583 | 312 | Smitters |
 | 584 | 311 | Rusty Davis |
 | 585 | 311 | Jolie Hatfield |
 | 586 | 310 | Frances Hui |
-| 587 | 309 | Lawan Dixon |
-| 588 | 309 | Lydia Greenman |
-| 589 | 308 | Glitzy Bricky |
+| 587 | 309 | Lydia Greenman |
+| 588 | 309 | Lawan Dixon |
+| 589 | 308 | Charleen Beyer |
 | 590 | 308 | Shankee mgee |
-| 591 | 308 | Luna |
-| 592 | 308 | Beth Smith |
-| 593 | 308 | Rachel Anne |
-| 594 | 308 | Charleen Beyer |
+| 591 | 308 | Glitzy Bricky |
+| 592 | 308 | Rachel Anne |
+| 593 | 308 | Luna |
+| 594 | 308 | Beth Smith |
 | 595 | 308 | Cushalee Howard |
-| 596 | 306 | Amanda Thomas |
-| 597 | 306 | lou28 |
-| 598 | 305 | QueenSheida |
-| 599 | 305 | Chipper Clicky |
+| 596 | 306 | lou28 |
+| 597 | 306 | Amanda Thomas |
+| 598 | 305 | Chipper Clicky |
+| 599 | 305 | QueenSheida |
 | 600 | 305 | Lemon Bar |
 | 601 | 305 | Kennedy Sandifer |
 | 602 | 304 | Nerdy Rollzone |
 | 603 | 302 | BuzyBee |
-| 604 | 302 | Jacques Frenette |
-| 605 | 302 | Trista Duguay |
-| 606 | 302 | bigdad |
-| 607 | 302 | Chill Builder |
+| 604 | 302 | bigdad |
+| 605 | 302 | Chill Builder |
+| 606 | 302 | Trista Duguay |
+| 607 | 302 | Jacques Frenette |
 | 608 | 301 | Γωγώ Τσιρόγκα |
 | 609 | 301 | Jonviea Dewalt |
 | 610 | 301 | Enigma |
@@ -1142,16 +1142,16 @@
 | 1134 | 151 | Janet Sims - Martin |
 | 1135 | 151 | Ashley Sweet-Hart |
 | 1136 | 151 | T.j. Swinney |
-| 1137 | 150 | Tyler Werts |
-| 1138 | 150 | Moki |
-| 1139 | 150 | Caitlyn Brown |
-| 1140 | 150 | Frances Deem |
-| 1141 | 150 | Brittani Suzanne Jelks |
-| 1142 | 150 | Cheery Riserpiece |
-| 1143 | 150 | Sleepy Otter |
-| 1144 | 150 | Sherry Jones |
-| 1145 | 150 | Tracey Whetstone |
-| 1146 | 150 | Doris Wilson |
+| 1137 | 151 | Doris Wilson |
+| 1138 | 150 | Tyler Werts |
+| 1139 | 150 | Moki |
+| 1140 | 150 | Caitlyn Brown |
+| 1141 | 150 | Frances Deem |
+| 1142 | 150 | Brittani Suzanne Jelks |
+| 1143 | 150 | Cheery Riserpiece |
+| 1144 | 150 | Sleepy Otter |
+| 1145 | 150 | Sherry Jones |
+| 1146 | 150 | Tracey Whetstone |
 | 1147 | 149 | Jackie Avila |
 | 1148 | 149 | S05 |
 | 1149 | 149 | MinorMAjOR |
