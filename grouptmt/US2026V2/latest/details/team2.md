@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 06:54:43 UTC
+# Standings for team2 as of 2026-03-17 06:55:24 UTC
 
 **Total Participants:** 2955
 
@@ -313,14 +313,14 @@
 | 305 | 532 | Johanna Massaro |
 | 306 | 530 | Lewis Sturgeon |
 | 307 | 530 | BYM4L |
-| 308 | 529 | Joyce |
-| 309 | 527 | ElayneTrekand |
-| 310 | 523 | Sarah Somers Gray |
-| 311 | 521 | Tyler StaySnappin Old'Page |
-| 312 | 521 | Shelbs |
-| 313 | 521 | Jamie Mclean |
-| 314 | 520 | Nerdy Blockpiece |
-| 315 | 520 | KEILANIU |
+| 308 | 529 | KEILANIU |
+| 309 | 529 | Joyce |
+| 310 | 527 | ElayneTrekand |
+| 311 | 523 | Sarah Somers Gray |
+| 312 | 521 | Tyler StaySnappin Old'Page |
+| 313 | 521 | Shelbs |
+| 314 | 521 | Jamie Mclean |
+| 315 | 520 | Nerdy Blockpiece |
 | 316 | 518 | Jaz Sky |
 | 317 | 515 | Marc Abney |
 | 318 | 515 | Toph |
@@ -823,10 +823,10 @@
 | 815 | 224 | Haley Bell |
 | 816 | 224 | Tiffany Banks Jennings |
 | 817 | 223 | Swanky Tile |
-| 818 | 222 | Jennifer Monroe Kelly |
-| 819 | 222 | MrMais89 |
-| 820 | 221 | Elizabeth Reliford |
-| 821 | 221 | Tony Maple |
+| 818 | 223 | Tony Maple |
+| 819 | 222 | Jennifer Monroe Kelly |
+| 820 | 222 | MrMais89 |
+| 821 | 221 | Elizabeth Reliford |
 | 822 | 220 | Susan Valentino |
 | 823 | 220 | Stephanie Reust Camp |
 | 824 | 220 | Leah-Perle Bloomenstein |
