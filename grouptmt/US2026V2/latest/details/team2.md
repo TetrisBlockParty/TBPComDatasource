@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 09:24:18 UTC
+# Standings for team2 as of 2026-03-17 09:24:39 UTC
 
 **Total Participants:** 2970
 
@@ -63,8 +63,8 @@
 | 55 | 2536 | joe |
 | 56 | 2521 | Jenny Derby |
 | 57 | 2513 | Kelley Ann |
-| 58 | 2468 | opf |
-| 59 | 2460 | Adam Charles |
+| 58 | 2475 | Adam Charles |
+| 59 | 2468 | opf |
 | 60 | 2424 | Kevin Watson |
 | 61 | 2373 | Hp Gold |
 | 62 | 2361 | Peppy Slice |
