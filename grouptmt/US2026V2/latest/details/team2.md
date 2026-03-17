@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 15:24:45 UTC
+# Standings for team2 as of 2026-03-17 15:25:23 UTC
 
 **Total Participants:** 3023
 
@@ -30,7 +30,7 @@
 | 22 | 5257 | Dizzy Zonegrid |
 | 23 | 4900 | Leah Gorsuch |
 | 24 | 4872 | hyper Zip |
-| 25 | 4518 | Cynthia Ward |
+| 25 | 4668 | Cynthia Ward |
 | 26 | 4489 | Rosemadder |
 | 27 | 4419 | Elizabeth Crowder Pelton |
 | 28 | 4263 | Sheesh M |
@@ -381,21 +381,21 @@
 | 373 | 480 | Joy Young |
 | 374 | 480 | Jazzy Piecebuilder |
 | 375 | 477 | Angel Hunnewell |
-| 376 | 476 | Slippery Clam |
-| 377 | 476 | Sammy |
-| 378 | 474 | Carmen Jnvm |
-| 379 | 474 | Jonathan Vee Jay |
-| 380 | 474 | Robyn Coleman Sadler |
-| 381 | 473 | Krys Brown |
-| 382 | 472 | Loony Snapbuild |
-| 383 | 472 | Jjza |
-| 384 | 471 | Plucky Snaplink |
-| 385 | 471 | Jennifer Haton Kreighbaum |
-| 386 | 470 | Athena D Connell |
-| 387 | 469 | Tori Bowers |
-| 388 | 468 | squareMel |
-| 389 | 468 | Tipsy Riseclear |
-| 390 | 468 | Traci Bond |
+| 376 | 477 | Traci Bond |
+| 377 | 476 | Slippery Clam |
+| 378 | 476 | Sammy |
+| 379 | 474 | Carmen Jnvm |
+| 380 | 474 | Jonathan Vee Jay |
+| 381 | 474 | Robyn Coleman Sadler |
+| 382 | 473 | Krys Brown |
+| 383 | 472 | Loony Snapbuild |
+| 384 | 472 | Jjza |
+| 385 | 471 | Plucky Snaplink |
+| 386 | 471 | Jennifer Haton Kreighbaum |
+| 387 | 470 | Athena D Connell |
+| 388 | 469 | Tori Bowers |
+| 389 | 468 | squareMel |
+| 390 | 468 | Tipsy Riseclear |
 | 391 | 467 | Brandy Belton |
 | 392 | 467 | YAE |
 | 393 | 464 | btchboy |
@@ -787,17 +787,17 @@
 | 779 | 250 | Rhonda Prince |
 | 780 | 250 | Lisa420 |
 | 781 | 249 | Kaela Ferguson |
-| 782 | 249 | LaChalle Shay |
-| 783 | 249 | Douglas Stam |
+| 782 | 249 | Douglas Stam |
+| 783 | 249 | LaChalle Shay |
 | 784 | 248 | Tipsy Stagger |
 | 785 | 248 | Chalanda Jefferies |
 | 786 | 247 | Daniel Moore |
-| 787 | 246 | Twisty Balanceblock |
-| 788 | 246 | Darlene Simmons |
+| 787 | 247 | Jumpy Tiley |
+| 788 | 246 | Twisty Balanceblock |
 | 789 | 246 | Dbabe |
 | 790 | 246 | Rachel Zortman |
 | 791 | 246 | Terrie Swift |
-| 792 | 246 | Jumpy Tiley |
+| 792 | 246 | Darlene Simmons |
 | 793 | 246 | kal |
 | 794 | 245 | Cathleena Giusto |
 | 795 | 245 | Isabelle Heineck |
@@ -2264,13 +2264,13 @@
 | 2256 | 43 | Sunny Basegrid |
 | 2257 | 43 | Kelly Lamoureux |
 | 2258 | 43 | SidneyBeanz |
-| 2259 | 42 | Dapper Basegrid |
+| 2259 | 42 | Scott Betson |
 | 2260 | 42 | Kyle |
 | 2261 | 42 | Oxygène Liberté |
 | 2262 | 42 | Nai Saeteurn |
 | 2263 | 42 | Malcolm Ferguson |
 | 2264 | 42 | Marlene Espinosa |
-| 2265 | 42 | Scott Betson |
+| 2265 | 42 | Dapper Basegrid |
 | 2266 | 42 | Chipper Rollfit |
 | 2267 | 42 | Jacquie Nash Mccarvel |
 | 2268 | 42 | Lisa Nixon |
@@ -2285,38 +2285,38 @@
 | 2277 | 41 | Cecil W Pxn |
 | 2278 | 41 | Yari |
 | 2279 | 41 | Aquia |
-| 2280 | 41 | Francisco Lovechild |
+| 2280 | 41 | Funky Dropper |
 | 2281 | 41 | Jen Hawes |
 | 2282 | 41 | Micheal Mellen |
-| 2283 | 41 | Lindsey Anderson |
-| 2284 | 41 | Dandy Combofall |
-| 2285 | 41 | Rhiannon |
-| 2286 | 41 | Funky Dropper |
-| 2287 | 40 | Shanae Grant |
-| 2288 | 40 | Dandy Framezone |
-| 2289 | 40 | Andre Simpson |
+| 2283 | 41 | Patricia Mosso |
+| 2284 | 41 | Lindsey Anderson |
+| 2285 | 41 | Dandy Combofall |
+| 2286 | 41 | Francisco Lovechild |
+| 2287 | 41 | Rhiannon |
+| 2288 | 40 | Andre Simpson |
+| 2289 | 40 | Shanae Grant |
 | 2290 | 40 | Carli Jean |
-| 2291 | 40 | Shea |
-| 2292 | 40 | Cosmosis |
-| 2293 | 40 | Aprilrose Gomez |
-| 2294 | 40 | Jumpy tilemaker |
+| 2291 | 40 | Cosmosis |
+| 2292 | 40 | Aprilrose Gomez |
+| 2293 | 40 | Jumpy tilemaker |
+| 2294 | 40 | Shea |
 | 2295 | 40 | Deb Brustman |
 | 2296 | 40 | Steven Sailor |
-| 2297 | 40 | Shandi Jones |
-| 2298 | 40 | Mover |
-| 2299 | 40 | Breanna Holtman |
-| 2300 | 40 | Shanon R Jackson |
-| 2301 | 40 | Scott Smith |
-| 2302 | 40 | Jenny Davis |
-| 2303 | 40 | Zappy Dashy |
-| 2304 | 40 | Denver |
-| 2305 | 40 | Ashley V Arnold |
-| 2306 | 40 | Shawna Long |
-| 2307 | 40 | Spicy Patterner |
-| 2308 | 40 | Stacy Warren |
-| 2309 | 40 | Tinkershell |
-| 2310 | 40 | Shan |
-| 2311 | 40 | Patricia Mosso |
+| 2297 | 40 | Dandy Framezone |
+| 2298 | 40 | Shandi Jones |
+| 2299 | 40 | Mover |
+| 2300 | 40 | Breanna Holtman |
+| 2301 | 40 | Shanon R Jackson |
+| 2302 | 40 | Scott Smith |
+| 2303 | 40 | Jenny Davis |
+| 2304 | 40 | Zappy Dashy |
+| 2305 | 40 | Denver |
+| 2306 | 40 | Ashley V Arnold |
+| 2307 | 40 | Shawna Long |
+| 2308 | 40 | Spicy Patterner |
+| 2309 | 40 | Stacy Warren |
+| 2310 | 40 | Tinkershell |
+| 2311 | 40 | Shan |
 | 2312 | 40 | Loopy Slam |
 | 2313 | 40 | Amanda Lawless |
 | 2314 | 40 | Casey Lane |
