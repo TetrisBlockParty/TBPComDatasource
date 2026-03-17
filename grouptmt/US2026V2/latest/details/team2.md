@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 10:14:44 UTC
+# Standings for team2 as of 2026-03-17 10:15:22 UTC
 
 **Total Participants:** 2975
 
@@ -11,7 +11,7 @@
 | 3 | 20305 | Payton Auberry |
 | 4 | 18294 | 赵珞涵 |
 | 5 | 17230 | 1nonlyreal1 |
-| 6 | 12813 | Justablock |
+| 6 | 12823 | Justablock |
 | 7 | 11375 | Denise Nardoni |
 | 8 | 11289 | MzBerry |
 | 9 | 9883 | Dreamy Clicker |
@@ -374,11 +374,11 @@
 | 366 | 466 | Slippery Clam |
 | 367 | 465 | Nick Kozik |
 | 368 | 462 | Anthony Magaraci |
-| 369 | 459 | Sammy |
-| 370 | 459 | Brandie Marie Miles |
+| 369 | 459 | Brandie Marie Miles |
+| 370 | 459 | Sammy |
 | 371 | 458 | Randy Jansen |
-| 372 | 458 | Ashley Marie Pierce |
-| 373 | 458 | Desi Desporte |
+| 372 | 458 | Desi Desporte |
+| 373 | 458 | Ashley Marie Pierce |
 | 374 | 457 | YAE |
 | 375 | 456 | Snappy Tiley |
 | 376 | 456 | Ashley Leonard |
@@ -388,82 +388,82 @@
 | 380 | 453 | Alexx Anaya |
 | 381 | 453 | Lazy Twistline |
 | 382 | 452 | Loony Snapbuild |
-| 383 | 450 | Tiffany Smith |
-| 384 | 450 | Quirky Matchfit |
+| 383 | 450 | Quirky Matchfit |
+| 384 | 450 | Tiffany Smith |
 | 385 | 449 | Halstead47K |
 | 386 | 449 | Traci Bond |
 | 387 | 447 | Starr |
 | 388 | 445 | Athena D Connell |
-| 389 | 444 | titrissss |
-| 390 | 444 | Zak Dunn |
+| 389 | 444 | Zak Dunn |
+| 390 | 444 | titrissss |
 | 391 | 439 | Jumpy Breaker |
 | 392 | 437 | S7ephavs |
 | 393 | 435 | Mary Ann Pabukis |
 | 394 | 435 | infinimom |
 | 395 | 434 | Tipsy Glidezone |
-| 396 | 433 | Kiki Moore |
-| 397 | 433 | Jo Frohwein |
-| 398 | 433 | Amelia Anderson |
-| 399 | 433 | Jess |
-| 400 | 432 | Chilly Fallgrid |
-| 401 | 432 | Jeremy Null |
-| 402 | 431 | Jen Robinson |
-| 403 | 431 | Slinky Rollpiece |
-| 404 | 431 | Jason Briggs |
-| 405 | 430 | Shiny Gridmatch |
-| 406 | 429 | Winner |
-| 407 | 429 | Christy Merriman Addison |
+| 396 | 433 | Jo Frohwein |
+| 397 | 433 | Jess |
+| 398 | 433 | Kiki Moore |
+| 399 | 433 | Amelia Anderson |
+| 400 | 433 | Christy Merriman Addison |
+| 401 | 432 | Chilly Fallgrid |
+| 402 | 432 | Jeremy Null |
+| 403 | 431 | Jason Briggs |
+| 404 | 431 | Jen Robinson |
+| 405 | 431 | Slinky Rollpiece |
+| 406 | 430 | Shiny Gridmatch |
+| 407 | 429 | Winner |
 | 408 | 427 | Cynthia Prouse |
 | 409 | 426 | Eugenio Moquete |
-| 410 | 424 | Jo |
+| 410 | 424 | Jenn Dandle |
 | 411 | 424 | Comedian Gdane |
-| 412 | 424 | Jenn Dandle |
+| 412 | 424 | Jo |
 | 413 | 423 | Angela Srubar-Norman |
 | 414 | 423 | Tyler Bechtel |
-| 415 | 420 | Kassandra Carlan |
+| 415 | 420 | Mel |
 | 416 | 420 | Mona Sharma |
-| 417 | 420 | Mel |
-| 418 | 419 | Christine Soltis |
-| 419 | 419 | Lora Allen |
-| 420 | 417 | Lesha |
-| 421 | 417 | Kelly Elizabeth Clark |
-| 422 | 415 | Poppy |
-| 423 | 415 | squareMel |
-| 424 | 415 | Courtney Cicoria |
-| 425 | 414 | JustYvette IsFine |
-| 426 | 413 | Madison Sweere |
-| 427 | 412 | Lakeisha Webb Briggs |
-| 428 | 411 | Tosha Gonzales |
-| 429 | 410 | Scott Martinson |
-| 430 | 408 | Dreamy Snapbuilder |
-| 431 | 408 | Ashley Brandon Hall |
-| 432 | 408 | Tony Tran |
-| 433 | 408 | Lizzie Marie |
-| 434 | 407 | Susan Dunn |
-| 435 | 407 | Corgi Mama |
-| 436 | 405 | NoShoesNation |
+| 417 | 420 | Kassandra Carlan |
+| 418 | 419 | Lora Allen |
+| 419 | 419 | NoShoesNation |
+| 420 | 419 | Christine Soltis |
+| 421 | 417 | Lesha |
+| 422 | 417 | Kelly Elizabeth Clark |
+| 423 | 415 | Courtney Cicoria |
+| 424 | 415 | squareMel |
+| 425 | 415 | Poppy |
+| 426 | 414 | JustYvette IsFine |
+| 427 | 413 | Madison Sweere |
+| 428 | 412 | Lakeisha Webb Briggs |
+| 429 | 411 | Tosha Gonzales |
+| 430 | 410 | Scott Martinson |
+| 431 | 408 | Dreamy Snapbuilder |
+| 432 | 408 | Ashley Brandon Hall |
+| 433 | 408 | Tony Tran |
+| 434 | 408 | Lizzie Marie |
+| 435 | 407 | Susan Dunn |
+| 436 | 407 | Corgi Mama |
 | 437 | 405 | Christian A. Pollard |
-| 438 | 405 | Jocelyn Jauregui |
-| 439 | 405 | Dee Doubleyou |
-| 440 | 402 | Nikki Speer |
-| 441 | 402 | Abimbola Bimbo |
-| 442 | 402 | Joe Smith |
-| 443 | 401 | Taghrid Ebeid |
-| 444 | 400 | Trice Sodames |
+| 438 | 405 | Dee Doubleyou |
+| 439 | 405 | Jocelyn Jauregui |
+| 440 | 404 | Miguel Teixeira |
+| 441 | 402 | Nikki Speer |
+| 442 | 402 | Abimbola Bimbo |
+| 443 | 402 | Joe Smith |
+| 444 | 401 | Taghrid Ebeid |
 | 445 | 400 | Glitzy Dash |
 | 446 | 400 | Lindsay Lucas |
-| 447 | 399 | Smiley Match |
-| 448 | 398 | SassyCarebear |
-| 449 | 397 | Mindy Phelps |
-| 450 | 396 | Miguel Teixeira |
+| 447 | 400 | Trice Sodames |
+| 448 | 399 | Smiley Match |
+| 449 | 398 | SassyCarebear |
+| 450 | 397 | Mindy Phelps |
 | 451 | 396 | Lucy Honer |
 | 452 | 393 | Brady Riessen |
 | 453 | 392 | Elizabeth Diraffaele |
 | 454 | 388 | Tina Cano |
 | 455 | 388 | DeathToBizzle |
 | 456 | 388 | Alyssa Graham |
-| 457 | 387 | Kristin Montoya |
-| 458 | 387 | Berling Gil |
+| 457 | 387 | Berling Gil |
+| 458 | 387 | Kristin Montoya |
 | 459 | 387 | Michael |
 | 460 | 384 | Dizzy Brickline |
 | 461 | 384 | Jenny Carrier |
@@ -1611,11 +1611,11 @@
 | 1603 | 90 | Goofy Basegrid |
 | 1604 | 90 | Poppy Jumper |
 | 1605 | 90 | Stella Gordon |
-| 1606 | 90 | Brenda Nelson-noles |
-| 1607 | 90 | Sonceria Ingram-Ford |
-| 1608 | 90 | Gravytrain |
-| 1609 | 89 | Loony Snapper |
-| 1610 | 89 | Gina Nicotra |
+| 1606 | 90 | Gina Nicotra |
+| 1607 | 90 | Brenda Nelson-noles |
+| 1608 | 90 | Sonceria Ingram-Ford |
+| 1609 | 90 | Gravytrain |
+| 1610 | 89 | Loony Snapper |
 | 1611 | 89 | Heather Hilferty |
 | 1612 | 89 | Kristalyn Schrank |
 | 1613 | 89 | Cara Rena Hurst |
