@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 08:19:21 UTC
+# Standings for team1 as of 2026-03-17 08:20:46 UTC
 
 **Total Participants:** 2962
 
@@ -132,15 +132,15 @@
 | 124 | 1287 | Charis Stoner |
 | 125 | 1281 | Bold Zonegrid |
 | 126 | 1277 | Katrina Palmo |
-| 127 | 1265 | Tim Raper |
-| 128 | 1265 | Brenda Stewart |
+| 127 | 1265 | Brenda Stewart |
+| 128 | 1265 | Tim Raper |
 | 129 | 1265 | Amanda Richardson |
-| 130 | 1262 | Dramatic Tiger |
-| 131 | 1262 | Bouncy Framezone |
-| 132 | 1255 | Kris Hudelson |
+| 130 | 1262 | Bouncy Framezone |
+| 131 | 1262 | Dramatic Tiger |
+| 132 | 1258 | @n@luvmakin |
 | 133 | 1255 | Jevon Griffith |
-| 134 | 1244 | PhatWI41 |
-| 135 | 1243 | @n@luvmakin |
+| 134 | 1255 | Kris Hudelson |
+| 135 | 1244 | PhatWI41 |
 | 136 | 1242 | Jay Aye |
 | 137 | 1235 | Porshe Garthwaite |
 | 138 | 1218 | Nanan Nanan |
@@ -299,16 +299,16 @@
 | 291 | 622 | Mykal Burton |
 | 292 | 620 | John Gardner |
 | 293 | 618 | Rennon Scott Wilson |
-| 294 | 615 | Alex Hennigh |
-| 295 | 615 | Loony Towerpiece |
-| 296 | 614 | Eric Hoffman |
-| 297 | 613 | Tisha Cammack |
-| 298 | 612 | Jamilah Abdul-Hakeem |
-| 299 | 612 | Stephanie Myers |
-| 300 | 611 | Pamela Marie Tyler |
-| 301 | 609 | Amers |
-| 302 | 609 | Penny Morrical |
-| 303 | 608 | raffyG |
+| 294 | 617 | raffyG |
+| 295 | 615 | Alex Hennigh |
+| 296 | 615 | Loony Towerpiece |
+| 297 | 614 | Eric Hoffman |
+| 298 | 613 | Tisha Cammack |
+| 299 | 612 | Jamilah Abdul-Hakeem |
+| 300 | 612 | Stephanie Myers |
+| 301 | 611 | Pamela Marie Tyler |
+| 302 | 609 | Amers |
+| 303 | 609 | Penny Morrical |
 | 304 | 605 | Desiree Jenson |
 | 305 | 605 | Peppy Matchclear |
 | 306 | 603 | Jena Overall Prescott |
@@ -320,8 +320,8 @@
 | 312 | 593 | Kristina Smith |
 | 313 | 591 | Frilly Breaker |
 | 314 | 589 | Austin |
-| 315 | 588 | Bouncy Wipeout |
-| 316 | 588 | Tammy Lamb |
+| 315 | 588 | Tammy Lamb |
+| 316 | 588 | Bouncy Wipeout |
 | 317 | 583 | King D |
 | 318 | 580 | Ziggy Csah |
 | 319 | 578 | Julie Moore |
@@ -976,28 +976,28 @@
 | 968 | 192 | Scarlett |
 | 969 | 191 | Tammy Kunai |
 | 970 | 191 | Dizzy Pivoty |
-| 971 | 190 | Komikeh White |
-| 972 | 190 | Witty Clusterfit |
+| 971 | 190 | Witty Clusterfit |
+| 972 | 190 | Komikeh White |
 | 973 | 189 | Matthew Graves D.C. |
-| 974 | 189 | Ðirt |
+| 974 | 189 | WEIRDINO |
 | 975 | 189 | Loopy Edge |
-| 976 | 189 | WEIRDINO |
-| 977 | 188 | Brave Twistpiece |
-| 978 | 188 | Damion Woods |
-| 979 | 188 | Jose Olivo |
-| 980 | 188 | Tyler Terrific |
-| 981 | 187 | Jennifer Obrien |
-| 982 | 187 | Pinky Hunt |
-| 983 | 187 | Austin Wilson |
-| 984 | 187 | Kirstian Taylor Grimsley |
-| 985 | 186 | Nutty Matcher |
+| 976 | 189 | Ðirt |
+| 977 | 188 | Tyler Terrific |
+| 978 | 188 | Shekita Gibbs |
+| 979 | 188 | Damion Woods |
+| 980 | 188 | Jose Olivo |
+| 981 | 188 | Brave Twistpiece |
+| 982 | 187 | Austin Wilson |
+| 983 | 187 | Pinky Hunt |
+| 984 | 187 | Jennifer Obrien |
+| 985 | 187 | Kirstian Taylor Grimsley |
 | 986 | 186 | Edward White |
-| 987 | 186 | Kristen Hall |
-| 988 | 186 | Groovy Cascadefit |
-| 989 | 186 | Bouncy Patternzone |
-| 990 | 186 | Amy Hollinger |
-| 991 | 185 | Brandi Huntington |
-| 992 | 185 | Shekita Gibbs |
+| 987 | 186 | Nutty Matcher |
+| 988 | 186 | Kristen Hall |
+| 989 | 186 | Groovy Cascadefit |
+| 990 | 186 | Bouncy Patternzone |
+| 991 | 186 | Amy Hollinger |
+| 992 | 185 | Brandi Huntington |
 | 993 | 184 | Breezy Stackbuilder |
 | 994 | 184 | Dace Zoltners |
 | 995 | 184 | Denice Dee |
