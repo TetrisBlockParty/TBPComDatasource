@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 08:48:19 UTC
+# Standings for team1 as of 2026-03-17 08:48:44 UTC
 
 **Total Participants:** 2963
 
@@ -12,7 +12,7 @@
 | 4 | 16071 | Scott Lindsay |
 | 5 | 16021 | Diane |
 | 6 | 14578 | Nathaniel Hughes |
-| 7 | 11796 | Grace Kelly |
+| 7 | 11896 | Grace Kelly |
 | 8 | 11713 | Bryan Stockwell |
 | 9 | 10222 | Katie Daniels |
 | 10 | 9996 | Dizzy Stagger |
