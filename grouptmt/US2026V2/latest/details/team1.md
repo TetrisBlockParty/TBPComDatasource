@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 07:24:46 UTC
+# Standings for team1 as of 2026-03-17 07:25:23 UTC
 
 **Total Participants:** 2957
 
@@ -340,20 +340,20 @@
 | 332 | 550 | Scott Napper |
 | 333 | 548 | April McGuffie |
 | 334 | 546 | Fatima Washington |
-| 335 | 545 | Julie A Hutchinson |
+| 335 | 545 | Cesar Morelos |
 | 336 | 545 | Gabriel Morales |
-| 337 | 545 | Cesar Morelos |
+| 337 | 545 | Julie A Hutchinson |
 | 338 | 544 | Roary Danner |
 | 339 | 544 | Amh |
 | 340 | 542 | Yvette Cooper |
 | 341 | 541 | Rose Anna |
-| 342 | 540 | Mahman |
-| 343 | 540 | Sullivan Tamara |
+| 342 | 540 | Kay Francois |
+| 343 | 540 | Brandy Ridgeway |
 | 344 | 540 | Dee |
-| 345 | 540 | Brandy Ridgeway |
-| 346 | 538 | CoolHand |
-| 347 | 536 | Dottie Jones |
-| 348 | 536 | Kay Francois |
+| 345 | 540 | Sullivan Tamara |
+| 346 | 540 | Mahman |
+| 347 | 538 | CoolHand |
+| 348 | 536 | Dottie Jones |
 | 349 | 533 | Silly Ziggy |
 | 350 | 530 | Sheree Twiddy Thornton |
 | 351 | 528 | Giddy Brickclear |
@@ -853,38 +853,38 @@
 | 845 | 222 | Selena Shaw |
 | 846 | 222 | Epic Fallzone |
 | 847 | 222 | Heather Burroughs |
-| 848 | 221 | Joe Andrew Jackson |
-| 849 | 221 | MWFreddy |
-| 850 | 220 | Amber Wolfe |
-| 851 | 220 | Tina Jett |
-| 852 | 220 | MG Alice |
-| 853 | 220 | snazzyseahorse |
-| 854 | 219 | Jazzy Bridgepiece |
-| 855 | 219 | Aaron M Luna |
-| 856 | 218 | Hoppy Buildgrid |
-| 857 | 218 | Matthew Laudico |
-| 858 | 218 | Betty Bóò |
-| 859 | 218 | Bouncy Crawler |
-| 860 | 218 | a |
-| 861 | 217 | Jennifer Negrete |
+| 848 | 222 | Shay J Duval |
+| 849 | 221 | Joe Andrew Jackson |
+| 850 | 221 | MWFreddy |
+| 851 | 220 | Amber Wolfe |
+| 852 | 220 | Tina Jett |
+| 853 | 220 | MG Alice |
+| 854 | 220 | snazzyseahorse |
+| 855 | 219 | Jazzy Bridgepiece |
+| 856 | 219 | Aaron M Luna |
+| 857 | 218 | a |
+| 858 | 218 | Matthew Laudico |
+| 859 | 218 | Hoppy Buildgrid |
+| 860 | 218 | Betty Bóò |
+| 861 | 218 | Bouncy Crawler |
 | 862 | 217 | Mt Shirley |
-| 863 | 217 | Melsap #8284 |
-| 864 | 216 | Felipa Jo Johnson |
-| 865 | 216 | Tim Doxtator |
-| 866 | 215 | Nicole Brown |
-| 867 | 214 | Shay J Duval |
-| 868 | 214 | Laidene Joseph |
-| 869 | 214 | Anna Lasley |
-| 870 | 214 | Trish11479 |
-| 871 | 213 | Matt Mullinax |
+| 863 | 217 | Jennifer Negrete |
+| 864 | 217 | Melsap #8284 |
+| 865 | 216 | Felipa Jo Johnson |
+| 866 | 216 | Tim Doxtator |
+| 867 | 215 | Nicole Brown |
+| 868 | 214 | Trish11479 |
+| 869 | 214 | Laidene Joseph |
+| 870 | 214 | Anna Lasley |
+| 871 | 213 | Medic205 |
 | 872 | 213 | Mandy Faye Jackson |
-| 873 | 213 | Dizzy Matchzone |
-| 874 | 213 | Medic205 |
+| 873 | 213 | Matt Mullinax |
+| 874 | 213 | Dizzy Matchzone |
 | 875 | 212 | Teresa Wolf |
 | 876 | 211 | Kevin Russell |
-| 877 | 211 | Chipper Matcher |
-| 878 | 211 | Aira Rangel |
-| 879 | 211 | Sunny Frame |
+| 877 | 211 | Aira Rangel |
+| 878 | 211 | Sunny Frame |
+| 879 | 211 | Chipper Matcher |
 | 880 | 210 | Dunlap Loretta |
 | 881 | 210 | Eric Montgomery |
 | 882 | 210 | Chummy Rollzone |
@@ -1152,41 +1152,41 @@
 | 1144 | 151 | Larry Fritzinger |
 | 1145 | 151 | Kecia Bright |
 | 1146 | 150 | Melissa Bires Hussar |
-| 1147 | 150 | Melody Quinn |
-| 1148 | 150 | Sotirios Giaouridis |
-| 1149 | 150 | Saucy Tilemaker |
-| 1150 | 149 | sgt baby |
+| 1147 | 150 | Snazzy Tilemaker |
+| 1148 | 150 | Saucy Tilemaker |
+| 1149 | 150 | Sotirios Giaouridis |
+| 1150 | 150 | Melody Quinn |
 | 1151 | 149 | Sandy Linders Higgins |
-| 1152 | 149 | Speedy Edge |
-| 1153 | 149 | Jeremy Lake |
-| 1154 | 149 | D7capt |
-| 1155 | 149 | Richard Cranium |
+| 1152 | 149 | D7capt |
+| 1153 | 149 | Dolly Marie Parsons |
+| 1154 | 149 | Richard Cranium |
+| 1155 | 149 | sgt baby |
 | 1156 | 149 | poopsmagee |
-| 1157 | 149 | Dolly Marie Parsons |
+| 1157 | 149 | Jeremy Lake |
 | 1158 | 149 | Brandon Blanchard |
-| 1159 | 148 | Nicole McCune |
+| 1159 | 149 | Speedy Edge |
 | 1160 | 148 | Thomcatt |
-| 1161 | 148 | Yoga Jones |
+| 1161 | 148 | Nicole McCune |
 | 1162 | 148 | Aly Sheehan |
-| 1163 | 148 | Kristi Catron |
-| 1164 | 148 | Crystal Swigart |
-| 1165 | 147 | Paul Brian Angelo Egango |
+| 1163 | 148 | Crystal Swigart |
+| 1164 | 148 | Yoga Jones |
+| 1165 | 148 | Kristi Catron |
 | 1166 | 147 | Benjamin Ford |
-| 1167 | 147 | tox |
-| 1168 | 147 | Goob277 |
-| 1169 | 146 | Branden Blanch |
+| 1167 | 147 | Paul Brian Angelo Egango |
+| 1168 | 147 | tox |
+| 1169 | 147 | Goob277 |
 | 1170 | 146 | Crystal Talbert |
-| 1171 | 146 | Luis Silva |
-| 1172 | 146 | Dandy Snapper |
-| 1173 | 146 | Cozy Builderfit |
-| 1174 | 145 | e |
-| 1175 | 145 | Cool Slice |
+| 1171 | 146 | Branden Blanch |
+| 1172 | 146 | Luis Silva |
+| 1173 | 146 | Dandy Snapper |
+| 1174 | 146 | Cozy Builderfit |
+| 1175 | 145 | e |
 | 1176 | 145 | Perky Clusterbuilder |
-| 1177 | 145 | Countryboy Will Survive |
-| 1178 | 145 | GoobaGoo67 |
-| 1179 | 145 | Rudas |
-| 1180 | 145 | Lakesha Jackson- Anderson |
-| 1181 | 145 | Snazzy Tilemaker |
+| 1177 | 145 | Cool Slice |
+| 1178 | 145 | Countryboy Will Survive |
+| 1179 | 145 | GoobaGoo67 |
+| 1180 | 145 | Rudas |
+| 1181 | 145 | Lakesha Jackson- Anderson |
 | 1182 | 144 | Taquita Robinson |
 | 1183 | 144 | Raynsera |
 | 1184 | 144 | jabba |
