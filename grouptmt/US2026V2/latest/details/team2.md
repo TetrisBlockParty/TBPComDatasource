@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 19:12:46 UTC
+# Standings for team2 as of 2026-03-17 19:13:24 UTC
 
 **Total Participants:** 3081
 
@@ -11,7 +11,7 @@
 | 3 | 20832 | THEMAN |
 | 4 | 19737 | 赵珞涵 |
 | 5 | 17230 | 1nonlyreal1 |
-| 6 | 13564 | Justablock |
+| 6 | 13628 | Justablock |
 | 7 | 12574 | Denise Nardoni |
 | 8 | 12184 | MzBerry |
 | 9 | 11483 | Dreamy Clicker |
@@ -165,7 +165,7 @@
 | 157 | 1043 | Krista Roberts |
 | 158 | 1041 | Connie Mohler-Fair |
 | 159 | 1040 | Abby Jensen |
-| 160 | 1028 | Shelly Babie |
+| 160 | 1030 | Shelly Babie |
 | 161 | 1027 | Christina Ramirez |
 | 162 | 1023 | Lori Schlachter Segui |
 | 163 | 1018 | Amanda Sullivan |
@@ -363,9 +363,9 @@
 | 355 | 539 | Kate |
 | 356 | 537 | Tyler Bechtel |
 | 357 | 537 | Yoyareese |
-| 358 | 536 | ElayneTrekand |
-| 359 | 535 | Jen |
-| 360 | 533 | Jennifer Osmer Carruth |
+| 358 | 536 | Jennifer Osmer Carruth |
+| 359 | 536 | ElayneTrekand |
+| 360 | 535 | Jen |
 | 361 | 532 | Johanna Massaro |
 | 362 | 532 | Plucky Snaplink |
 | 363 | 531 | Snippy Towerpiece |
@@ -924,26 +924,26 @@
 | 916 | 218 | Jesse Saville |
 | 917 | 217 | Chummy Linkgrid |
 | 918 | 217 | Angela Gay |
-| 919 | 217 | Valhammer |
-| 920 | 217 | Luna Locke |
-| 921 | 216 | Jake Bell |
-| 922 | 216 | Tamara Cordero |
-| 923 | 215 | Lisa Kline |
-| 924 | 215 | Robin |
-| 925 | 215 | Andrew McCafferty |
-| 926 | 215 | Elegant banana |
-| 927 | 214 | Halie Geesey |
-| 928 | 213 | Staybutterfly |
-| 929 | 213 | Logan Abbott |
-| 930 | 213 | Dana Hicks |
-| 931 | 213 | Nicole Hogue |
-| 932 | 212 | Giggly Shatterline |
-| 933 | 211 | jay |
-| 934 | 211 | Elizabeth Blankenship |
-| 935 | 211 | Michelle Gnouilaphi |
-| 936 | 211 | Arv |
-| 937 | 211 | Angie Maddox |
-| 938 | 211 | Glenn Samantha Grove |
+| 919 | 217 | Glenn Samantha Grove |
+| 920 | 217 | Valhammer |
+| 921 | 217 | Luna Locke |
+| 922 | 216 | Jake Bell |
+| 923 | 216 | Tamara Cordero |
+| 924 | 215 | Lisa Kline |
+| 925 | 215 | Robin |
+| 926 | 215 | Andrew McCafferty |
+| 927 | 215 | Elegant banana |
+| 928 | 214 | Halie Geesey |
+| 929 | 213 | Staybutterfly |
+| 930 | 213 | Logan Abbott |
+| 931 | 213 | Dana Hicks |
+| 932 | 213 | Nicole Hogue |
+| 933 | 212 | Giggly Shatterline |
+| 934 | 211 | jay |
+| 935 | 211 | Elizabeth Blankenship |
+| 936 | 211 | Michelle Gnouilaphi |
+| 937 | 211 | Arv |
+| 938 | 211 | Angie Maddox |
 | 939 | 211 | Peyton Mclaughlin |
 | 940 | 210 | Rebecca Goforth |
 | 941 | 210 | SpiritSpeaker |
@@ -1115,15 +1115,15 @@
 | 1107 | 171 | Susan L. Brown |
 | 1108 | 171 | SigmaWinchester |
 | 1109 | 171 | krae |
-| 1110 | 170 | Meme |
-| 1111 | 170 | sweetpea |
-| 1112 | 170 | kippykay |
-| 1113 | 170 | Amanda Dorlan |
-| 1114 | 170 | Slinky Wipeout |
-| 1115 | 170 | Trouble |
-| 1116 | 170 | Tina Mead |
-| 1117 | 170 | Pete Stacknick |
-| 1118 | 170 | Kate |
+| 1110 | 171 | Kate |
+| 1111 | 170 | Meme |
+| 1112 | 170 | sweetpea |
+| 1113 | 170 | kippykay |
+| 1114 | 170 | Amanda Dorlan |
+| 1115 | 170 | Slinky Wipeout |
+| 1116 | 170 | Trouble |
+| 1117 | 170 | Tina Mead |
+| 1118 | 170 | Pete Stacknick |
 | 1119 | 169 | goatmaster |
 | 1120 | 169 | Spectikl Mchapp |
 | 1121 | 169 | Anita Johnson |
@@ -1797,29 +1797,29 @@
 | 1789 | 80 | Loony Curvebuilder |
 | 1790 | 80 | Amy Siebenhaar |
 | 1791 | 80 | Any Slm |
-| 1792 | 80 | OneTwenty Livin |
-| 1793 | 80 | Black Pharaoh |
-| 1794 | 80 | Theo Pinnow |
-| 1795 | 80 | Justin Hains |
-| 1796 | 80 | Shera |
+| 1792 | 80 | Veronica Duncan |
+| 1793 | 80 | Theo Pinnow |
+| 1794 | 80 | OneTwenty Livin |
+| 1795 | 80 | boogadee |
+| 1796 | 80 | Black Pharaoh |
 | 1797 | 80 | Theresa Vandenbos |
-| 1798 | 80 | boogadee |
-| 1799 | 80 | Veronica Duncan |
+| 1798 | 80 | Justin Hains |
+| 1799 | 80 | Shera |
 | 1800 | 80 | Cheez2Go |
 | 1801 | 79 | Tenika Higgins |
-| 1802 | 79 | Jazzy Pivoty |
-| 1803 | 79 | Gabby |
-| 1804 | 79 | Ram |
-| 1805 | 79 | Dreamy Snapgrid |
-| 1806 | 79 | Dave Behnen |
-| 1807 | 78 | Nicole Henely |
-| 1808 | 78 | Jazzy Dasher |
-| 1809 | 78 | Mighty Slide |
-| 1810 | 78 | Lynn Sweetman |
-| 1811 | 78 | Leshea L Brandi |
-| 1812 | 78 | Kali |
-| 1813 | 78 | brii |
-| 1814 | 78 | Claudia Baez |
+| 1802 | 79 | Dave Behnen |
+| 1803 | 79 | Dreamy Snapgrid |
+| 1804 | 79 | Gabby |
+| 1805 | 79 | Jazzy Pivoty |
+| 1806 | 79 | Claudia Baez |
+| 1807 | 79 | Ram |
+| 1808 | 78 | Nicole Henely |
+| 1809 | 78 | Jazzy Dasher |
+| 1810 | 78 | Mighty Slide |
+| 1811 | 78 | Lynn Sweetman |
+| 1812 | 78 | Leshea L Brandi |
+| 1813 | 78 | Kali |
+| 1814 | 78 | brii |
 | 1815 | 78 | Kimberly Ann |
 | 1816 | 78 | Cecil W Pxn |
 | 1817 | 78 | Mel |
@@ -2177,40 +2177,40 @@
 | 2169 | 52 | Fredena Denise Wooten |
 | 2170 | 52 | Potato |
 | 2171 | 52 | Tim HyunWoo Lee |
-| 2172 | 52 | Bubbly Smasher |
-| 2173 | 51 | Rob Graves |
-| 2174 | 51 | Yuck Fou |
-| 2175 | 51 | Jessica Lane |
-| 2176 | 51 | Peaches |
-| 2177 | 51 | Crystal23 |
-| 2178 | 51 | Flashy Blast |
-| 2179 | 51 | Schie |
-| 2180 | 51 | Ellie |
-| 2181 | 51 | Ashley Covais |
-| 2182 | 51 | SassyLlam |
-| 2183 | 51 | Diane D-block Wade |
-| 2184 | 51 | Lynn Nevins-Landry |
-| 2185 | 51 | Bubbly Clearbuilder |
-| 2186 | 51 | Jenny Gingrich Fuentes |
-| 2187 | 51 | Penny Palmer |
-| 2188 | 51 | MrsPass |
-| 2189 | 50 | Peppy Piecebuilder |
-| 2190 | 50 | Sam Martinez |
-| 2191 | 50 | Norma Jean |
-| 2192 | 50 | Tee Tee Nicole |
-| 2193 | 50 | nogo |
-| 2194 | 50 | Cassia Ann Carrasquillo |
-| 2195 | 50 | David Ysidron |
-| 2196 | 50 | Brittany Ditzler |
-| 2197 | 50 | Glitzy Matchbuilder |
-| 2198 | 50 | Giddy Shatterbuilder |
-| 2199 | 50 | Cladius O Atkinson |
-| 2200 | 50 | April C Theriault Foote |
-| 2201 | 50 | Peachy Clusterfit |
-| 2202 | 50 | Desiree Cochran-Norfolk |
-| 2203 | 50 | Roxana Alvarado |
-| 2204 | 50 | Jonathon Michaels |
-| 2205 | 49 | Raquel |
+| 2172 | 52 | Raquel |
+| 2173 | 52 | Bubbly Smasher |
+| 2174 | 51 | Rob Graves |
+| 2175 | 51 | Yuck Fou |
+| 2176 | 51 | Jessica Lane |
+| 2177 | 51 | Peaches |
+| 2178 | 51 | Crystal23 |
+| 2179 | 51 | Flashy Blast |
+| 2180 | 51 | Schie |
+| 2181 | 51 | Ellie |
+| 2182 | 51 | Ashley Covais |
+| 2183 | 51 | SassyLlam |
+| 2184 | 51 | Diane D-block Wade |
+| 2185 | 51 | Lynn Nevins-Landry |
+| 2186 | 51 | Bubbly Clearbuilder |
+| 2187 | 51 | Jenny Gingrich Fuentes |
+| 2188 | 51 | Penny Palmer |
+| 2189 | 51 | MrsPass |
+| 2190 | 50 | Peppy Piecebuilder |
+| 2191 | 50 | Sam Martinez |
+| 2192 | 50 | Norma Jean |
+| 2193 | 50 | Tee Tee Nicole |
+| 2194 | 50 | nogo |
+| 2195 | 50 | Cassia Ann Carrasquillo |
+| 2196 | 50 | David Ysidron |
+| 2197 | 50 | Brittany Ditzler |
+| 2198 | 50 | Glitzy Matchbuilder |
+| 2199 | 50 | Giddy Shatterbuilder |
+| 2200 | 50 | Cladius O Atkinson |
+| 2201 | 50 | April C Theriault Foote |
+| 2202 | 50 | Peachy Clusterfit |
+| 2203 | 50 | Desiree Cochran-Norfolk |
+| 2204 | 50 | Roxana Alvarado |
+| 2205 | 50 | Jonathon Michaels |
 | 2206 | 49 | LisaEast937 |
 | 2207 | 49 | MsFrizzle |
 | 2208 | 49 | Chilly Towerfall |
@@ -2259,12 +2259,12 @@
 | 2251 | 46 | Michael Slater |
 | 2252 | 46 | Marcello Dominik |
 | 2253 | 46 | Jasmine Keith |
-| 2254 | 45 | Mollijoy Carter |
+| 2254 | 45 | Fox |
 | 2255 | 45 | Jeremiah Bedwell |
 | 2256 | 45 | Christian Werndl |
 | 2257 | 45 | kracee |
 | 2258 | 45 | Mary Punzo |
-| 2259 | 45 | Fox |
+| 2259 | 45 | Mollijoy Carter |
 | 2260 | 45 | Wacky Hitter |
 | 2261 | 45 | Sydney |
 | 2262 | 45 | Giggly Bridgepiece |
