@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 10:20:46 UTC
+# Standings for team2 as of 2026-03-17 10:21:21 UTC
 
 **Total Participants:** 2975
 
@@ -1239,44 +1239,44 @@
 | 1231 | 136 | Fart |
 | 1232 | 136 | Kara Ann Cray |
 | 1233 | 136 | Matthew Franklin Sr. |
-| 1234 | 136 | Jess |
-| 1235 | 136 | Quirky Linkbuilder |
-| 1236 | 135 | Amandalorian |
-| 1237 | 135 | Trell Sweeting |
-| 1238 | 135 | Sabrina Cearley |
-| 1239 | 135 | krae |
-| 1240 | 135 | Diana Fowler |
-| 1241 | 134 | croshay |
-| 1242 | 134 | Smellygirl |
-| 1243 | 134 | Danielle Barker |
-| 1244 | 134 | Juan Bonilla |
-| 1245 | 134 | Kenerria Danielle |
-| 1246 | 134 | Ariel Whittington |
-| 1247 | 134 | Witty Twistslam |
-| 1248 | 134 | Swanky Shiftsnap |
-| 1249 | 134 | Brave Cascadeclear |
-| 1250 | 134 | Dizzy Edgefit |
-| 1251 | 134 | Tanisha Foster |
-| 1252 | 133 | Brandi Quick |
-| 1253 | 133 | Stephanie Carpenter |
-| 1254 | 133 | Liz Waagmeester |
-| 1255 | 133 | Trisha Balmer |
-| 1256 | 132 | Mzjudged Niteowl |
-| 1257 | 132 | Chelle |
-| 1258 | 132 | Joey Albright |
-| 1259 | 132 | Katie Bolich |
-| 1260 | 132 | Giddy Fallzone |
-| 1261 | 132 | Epic Wipepiece |
-| 1262 | 132 | April |
-| 1263 | 132 | Giggly Shatterline |
-| 1264 | 132 | Doris Wilson |
-| 1265 | 131 | Cupcake |
-| 1266 | 131 | Daring Spinzone |
-| 1267 | 131 | Stephany Patton |
-| 1268 | 131 | Beckii Beckford |
-| 1269 | 131 | Honu Noste |
-| 1270 | 131 | Lamarr Drayton |
-| 1271 | 131 | Christina Nabrizny |
+| 1234 | 136 | Quirky Linkbuilder |
+| 1235 | 136 | Doris Wilson |
+| 1236 | 136 | Jess |
+| 1237 | 135 | Amandalorian |
+| 1238 | 135 | Trell Sweeting |
+| 1239 | 135 | Sabrina Cearley |
+| 1240 | 135 | krae |
+| 1241 | 135 | Diana Fowler |
+| 1242 | 134 | croshay |
+| 1243 | 134 | Smellygirl |
+| 1244 | 134 | Danielle Barker |
+| 1245 | 134 | Juan Bonilla |
+| 1246 | 134 | Kenerria Danielle |
+| 1247 | 134 | Ariel Whittington |
+| 1248 | 134 | Witty Twistslam |
+| 1249 | 134 | Swanky Shiftsnap |
+| 1250 | 134 | Brave Cascadeclear |
+| 1251 | 134 | Dizzy Edgefit |
+| 1252 | 134 | Tanisha Foster |
+| 1253 | 133 | Brandi Quick |
+| 1254 | 133 | Stephanie Carpenter |
+| 1255 | 133 | Liz Waagmeester |
+| 1256 | 133 | Trisha Balmer |
+| 1257 | 132 | Mzjudged Niteowl |
+| 1258 | 132 | Chelle |
+| 1259 | 132 | Joey Albright |
+| 1260 | 132 | Katie Bolich |
+| 1261 | 132 | Giddy Fallzone |
+| 1262 | 132 | Epic Wipepiece |
+| 1263 | 132 | April |
+| 1264 | 132 | Giggly Shatterline |
+| 1265 | 131 | Daring Spinzone |
+| 1266 | 131 | Stephany Patton |
+| 1267 | 131 | Beckii Beckford |
+| 1268 | 131 | Honu Noste |
+| 1269 | 131 | Lamarr Drayton |
+| 1270 | 131 | Christina Nabrizny |
+| 1271 | 131 | Cupcake |
 | 1272 | 130 | Squiggle Squish |
 | 1273 | 130 | KayB |
 | 1274 | 130 | Boldy Rollzone |
