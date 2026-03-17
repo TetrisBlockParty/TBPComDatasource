@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-17 09:03:19 UTC
+# Standings for team3 as of 2026-03-17 09:04:19 UTC
 
 **Total Participants:** 4662
 
@@ -108,12 +108,12 @@
 | 100 | 1982 | Bryon D Tann |
 | 101 | 1963 | Frilly Patternbuilder |
 | 102 | 1939 | Lady-Cris Shirley-Harden |
-| 103 | 1921 | Maria Wilson |
-| 104 | 1914 | Elizabeth Coover |
-| 105 | 1891 | Zesty Brickfit |
-| 106 | 1877 | key |
-| 107 | 1871 | Michelle Crawford |
-| 108 | 1870 | Cindy Le |
+| 103 | 1930 | Cindy Le |
+| 104 | 1921 | Maria Wilson |
+| 105 | 1914 | Elizabeth Coover |
+| 106 | 1891 | Zesty Brickfit |
+| 107 | 1877 | key |
+| 108 | 1871 | Michelle Crawford |
 | 109 | 1866 | Kennedi Crowe |
 | 110 | 1862 | Mistypanda |
 | 111 | 1860 | Daniel OKoniewski |
@@ -372,9 +372,9 @@
 | 364 | 752 | Olivia Walker |
 | 365 | 750 | Ashley Clary |
 | 366 | 750 | Christy Garris Patterson |
-| 367 | 743 | Tipsy Riserfit |
-| 368 | 740 | Veronica Leigh Sullivan |
-| 369 | 739 | Dreamy Roll |
+| 367 | 746 | Dreamy Roll |
+| 368 | 743 | Tipsy Riserfit |
+| 369 | 740 | Veronica Leigh Sullivan |
 | 370 | 735 | Alex Dye |
 | 371 | 732 | KayM |
 | 372 | 731 | Jenna Ingersoll |
@@ -432,7 +432,7 @@
 | 424 | 625 | Melissa Moshtael |
 | 425 | 625 | Lisa Rachelle Blackmonson |
 | 426 | 623 | Shanae Taylor |
-| 427 | 621 | Andre Love |
+| 427 | 622 | Andre Love |
 | 428 | 621 | Mmma |
 | 429 | 621 | Cathie Brady |
 | 430 | 620 | Andrea Jamieson |
