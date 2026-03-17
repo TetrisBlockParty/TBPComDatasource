@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 11:08:23 UTC
+# Standings for team2 as of 2026-03-17 11:09:22 UTC
 
 **Total Participants:** 2981
 
@@ -131,8 +131,8 @@
 | 123 | 1207 | Christine Lin |
 | 124 | 1191 | Blaze Sexton |
 | 125 | 1176 | Kristie |
-| 126 | 1173 | nickle109 |
-| 127 | 1170 | Rafael Valentin |
+| 126 | 1174 | Rafael Valentin |
+| 127 | 1173 | nickle109 |
 | 128 | 1156 | Jennifer Golub |
 | 129 | 1141 | Olivia Gwin |
 | 130 | 1132 | Christy Green |
@@ -315,47 +315,47 @@
 | 307 | 551 | Krish Shah |
 | 308 | 550 | Ramone Armstrong |
 | 309 | 548 | Michelle Douglas Bridges |
-| 310 | 547 | Carson Goldminc |
-| 311 | 545 | LML |
-| 312 | 545 | Rachel Eliza |
-| 313 | 543 | Scott Treadway |
-| 314 | 543 | HarleyJane |
-| 315 | 541 | Toph |
-| 316 | 534 | Faith Meade |
-| 317 | 532 | Johanna Massaro |
-| 318 | 531 | Snippy Towerpiece |
-| 319 | 531 | Liz Wambsgans |
-| 320 | 530 | BYM4L |
-| 321 | 530 | Lewis Sturgeon |
-| 322 | 529 | Joyce |
-| 323 | 527 | ElayneTrekand |
-| 324 | 524 | Jaz Sky |
-| 325 | 523 | Sarah Somers Gray |
-| 326 | 521 | Tyler StaySnappin Old'Page |
-| 327 | 521 | Jamie Mclean |
-| 328 | 521 | Yoyareese |
-| 329 | 520 | Nerdy Blockpiece |
-| 330 | 518 | Spicy Patternbuilder |
+| 310 | 548 | Spicy Patternbuilder |
+| 311 | 547 | Carson Goldminc |
+| 312 | 545 | LML |
+| 313 | 545 | Rachel Eliza |
+| 314 | 543 | Scott Treadway |
+| 315 | 543 | HarleyJane |
+| 316 | 541 | Toph |
+| 317 | 534 | Faith Meade |
+| 318 | 532 | Johanna Massaro |
+| 319 | 531 | Snippy Towerpiece |
+| 320 | 531 | Liz Wambsgans |
+| 321 | 530 | BYM4L |
+| 322 | 530 | Lewis Sturgeon |
+| 323 | 529 | Joyce |
+| 324 | 527 | ElayneTrekand |
+| 325 | 524 | Jaz Sky |
+| 326 | 523 | Sarah Somers Gray |
+| 327 | 521 | Tyler StaySnappin Old'Page |
+| 328 | 521 | Jamie Mclean |
+| 329 | 521 | Yoyareese |
+| 330 | 520 | Nerdy Blockpiece |
 | 331 | 517 | LeVeL27 |
-| 332 | 512 | Twisty Spinbuilder |
-| 333 | 512 | SuZee |
-| 334 | 511 | Jen Roe |
-| 335 | 511 | Jt Home |
+| 332 | 512 | SuZee |
+| 333 | 512 | Twisty Spinbuilder |
+| 334 | 511 | Jt Home |
+| 335 | 511 | Jen Roe |
 | 336 | 510 | Dreamy Clicky |
 | 337 | 508 | SterlingTeri |
 | 338 | 504 | Lush Linkgrid |
-| 339 | 503 | Bouncy Swiper |
-| 340 | 503 | Ashley Danielle |
-| 341 | 501 | Phredda Compton |
-| 342 | 501 | Jason Gibbs |
+| 339 | 503 | Ashley Danielle |
+| 340 | 503 | Bouncy Swiper |
+| 341 | 501 | Jason Gibbs |
+| 342 | 501 | Phredda Compton |
 | 343 | 500 | Kate |
 | 344 | 500 | Rackemwillie34 |
 | 345 | 500 | Tatyahna Cameron |
 | 346 | 497 | Sista |
 | 347 | 493 | Annmarie Gilreath |
 | 348 | 492 | Desi Desporte |
-| 349 | 488 | Albany Broadway |
-| 350 | 488 | Giovanni Distefano |
+| 349 | 488 | Giovanni Distefano |
+| 350 | 488 | Albany Broadway |
 | 351 | 486 | Jen |
 | 352 | 486 | Tra Barnum |
 | 353 | 480 | Joy Young |
@@ -364,27 +364,27 @@
 | 356 | 474 | Carmen Jnvm |
 | 357 | 474 | Robyn Coleman Sadler |
 | 358 | 473 | Krys Brown |
-| 359 | 472 | Jjza |
-| 360 | 472 | Rhonda Winn Hohman |
+| 359 | 472 | Rhonda Winn Hohman |
+| 360 | 472 | Jjza |
 | 361 | 471 | Plucky Snaplink |
 | 362 | 470 | Matt |
 | 363 | 470 | Jazzy Piecebuilder |
 | 364 | 469 | Tori Bowers |
 | 365 | 468 | Lazy Twistline |
 | 366 | 468 | Tipsy Riseclear |
-| 367 | 467 | Brenda A |
-| 368 | 467 | Brandy Belton |
+| 367 | 467 | Brandy Belton |
+| 368 | 467 | Brenda A |
 | 369 | 466 | Athena D Connell |
 | 370 | 462 | Anthony Magaraci |
 | 371 | 460 | Nick Kozik |
-| 372 | 459 | Loony Snapbuild |
-| 373 | 459 | Brandie Marie Miles |
-| 374 | 459 | Sammy |
-| 375 | 458 | Ashley Marie Pierce |
-| 376 | 458 | Randy Jansen |
+| 372 | 459 | Sammy |
+| 373 | 459 | Loony Snapbuild |
+| 374 | 459 | Brandie Marie Miles |
+| 375 | 458 | Randy Jansen |
+| 376 | 458 | Ashley Marie Pierce |
 | 377 | 457 | YAE |
-| 378 | 456 | Ashley Leonard |
-| 379 | 456 | Snappy Tiley |
+| 378 | 456 | Snappy Tiley |
+| 379 | 456 | Ashley Leonard |
 | 380 | 455 | João Paulo |
 | 381 | 454 | Maureen Winter |
 | 382 | 453 | Alexx Anaya |
@@ -397,8 +397,8 @@
 | 389 | 449 | Jumpy Breaker |
 | 390 | 449 | Traci Bond |
 | 391 | 448 | Lora Allen |
-| 392 | 447 | Starr |
-| 393 | 447 | Christy Merriman Addison |
+| 392 | 447 | Christy Merriman Addison |
+| 393 | 447 | Starr |
 | 394 | 444 | Zak Dunn |
 | 395 | 437 | S7ephavs |
 | 396 | 436 | Comedian Gdane |
@@ -411,10 +411,10 @@
 | 403 | 433 | Amelia Anderson |
 | 404 | 433 | Kiki Moore |
 | 405 | 432 | Chilly Fallgrid |
-| 406 | 432 | Jeremy Null |
-| 407 | 431 | Slinky Rollpiece |
+| 406 | 432 | Yloponom Gamez |
+| 407 | 432 | Jeremy Null |
 | 408 | 431 | Jen Robinson |
-| 409 | 431 | Yloponom Gamez |
+| 409 | 431 | Slinky Rollpiece |
 | 410 | 431 | Jason Briggs |
 | 411 | 430 | Shiny Gridmatch |
 | 412 | 429 | Winner |
@@ -424,14 +424,14 @@
 | 416 | 424 | Jenn Dandle |
 | 417 | 423 | Angela Srubar-Norman |
 | 418 | 423 | Tyler Bechtel |
-| 419 | 420 | Mel |
+| 419 | 420 | Mona Sharma |
 | 420 | 420 | Kassandra Carlan |
 | 421 | 420 | jess |
-| 422 | 420 | Mona Sharma |
+| 422 | 420 | Mel |
 | 423 | 419 | NoShoesNation |
 | 424 | 418 | Sondra Kenny |
-| 425 | 417 | Kelly Elizabeth Clark |
-| 426 | 417 | Lesha |
+| 425 | 417 | Lesha |
+| 426 | 417 | Kelly Elizabeth Clark |
 | 427 | 415 | Courtney Cicoria |
 | 428 | 415 | Poppy |
 | 429 | 415 | squareMel |
@@ -1109,23 +1109,23 @@
 | 1101 | 157 | Saucy Slide |
 | 1102 | 157 | PuppaT |
 | 1103 | 157 | Donnie Crowe |
-| 1104 | 156 | Ownlane Rico |
-| 1105 | 156 | Tiara Alexander |
-| 1106 | 156 | Lien |
-| 1107 | 156 | Poppy Balancepiece |
-| 1108 | 155 | blockbustinbecky |
-| 1109 | 155 | goatmaster |
-| 1110 | 155 | Jeremiah Mell |
-| 1111 | 155 | Becky Short |
-| 1112 | 154 | Chipper Clearzone |
-| 1113 | 154 | Brickh4us |
-| 1114 | 154 | Jerry Gift Jr. |
-| 1115 | 154 | Katie |
-| 1116 | 154 | justMe |
-| 1117 | 154 | Alexander Zamora |
-| 1118 | 154 | Nathan William |
-| 1119 | 154 | Frisky Slider |
-| 1120 | 154 | Doris Wilson |
+| 1104 | 156 | Doris Wilson |
+| 1105 | 156 | Ownlane Rico |
+| 1106 | 156 | Tiara Alexander |
+| 1107 | 156 | Lien |
+| 1108 | 156 | Poppy Balancepiece |
+| 1109 | 155 | blockbustinbecky |
+| 1110 | 155 | goatmaster |
+| 1111 | 155 | Jeremiah Mell |
+| 1112 | 155 | Becky Short |
+| 1113 | 154 | Chipper Clearzone |
+| 1114 | 154 | Brickh4us |
+| 1115 | 154 | Jerry Gift Jr. |
+| 1116 | 154 | Katie |
+| 1117 | 154 | justMe |
+| 1118 | 154 | Alexander Zamora |
+| 1119 | 154 | Nathan William |
+| 1120 | 154 | Frisky Slider |
 | 1121 | 154 | Kenedy Smith |
 | 1122 | 153 | Alicia Harris |
 | 1123 | 153 | Hyper Snap |
