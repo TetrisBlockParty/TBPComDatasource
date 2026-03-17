@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 08:56:23 UTC
+# Standings for team2 as of 2026-03-17 08:57:19 UTC
 
 **Total Participants:** 2967
 
@@ -146,17 +146,17 @@
 | 138 | 1061 | Olivia Gwin |
 | 139 | 1057 | Antoinette Griffin |
 | 140 | 1050 | MOMOF5 |
-| 141 | 1047 | Kacee Conrad Bock |
-| 142 | 1046 | Michael H. M. Skropka |
-| 143 | 1040 | Robert Martinez |
-| 144 | 1039 | Marc |
-| 145 | 1039 | Paul Hudak |
-| 146 | 1038 | Koipod |
-| 147 | 1026 | Katrina Schroeder |
-| 148 | 1025 | Krista Roberts |
-| 149 | 1021 | Jumpy Filler |
-| 150 | 1021 | Christina Ramirez |
-| 151 | 1018 | Amber Lashbrook |
+| 141 | 1048 | Amber Lashbrook |
+| 142 | 1047 | Kacee Conrad Bock |
+| 143 | 1046 | Michael H. M. Skropka |
+| 144 | 1040 | Robert Martinez |
+| 145 | 1039 | Marc |
+| 146 | 1039 | Paul Hudak |
+| 147 | 1038 | Koipod |
+| 148 | 1026 | Katrina Schroeder |
+| 149 | 1025 | Krista Roberts |
+| 150 | 1021 | Jumpy Filler |
+| 151 | 1021 | Christina Ramirez |
 | 152 | 1018 | Ania |
 | 153 | 1009 | Mary Reeves |
 | 154 | 1006 | Christina Graham |
@@ -224,13 +224,13 @@
 | 216 | 779 | Qing DG |
 | 217 | 772 | Mike Carden |
 | 218 | 771 | Chassy Horton |
-| 219 | 759 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 220 | 759 | Katie Lynn |
+| 219 | 759 | Katie Lynn |
+| 220 | 759 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 221 | 749 | Frothy Linker |
 | 222 | 742 | Mandy |
-| 223 | 736 | DanesMama |
-| 224 | 735 | Joy LaJeunesse |
-| 225 | 733 | BluBae |
+| 223 | 737 | BluBae |
+| 224 | 736 | DanesMama |
+| 225 | 735 | Joy LaJeunesse |
 | 226 | 733 | Jay |
 | 227 | 730 | Danielle Weikel |
 | 228 | 729 | Tommy Proctor |
@@ -240,30 +240,30 @@
 | 232 | 713 | Jami Howard |
 | 233 | 709 | Ebo Got-Time |
 | 234 | 708 | Dawn Woosley Bowes |
-| 235 | 704 | Lateisha Morris |
-| 236 | 704 | Joshua |
+| 235 | 704 | Joshua |
+| 236 | 704 | Lateisha Morris |
 | 237 | 704 | LD1 |
-| 238 | 697 | Sheena Harris |
-| 239 | 697 | Snappy Bridgepiece |
+| 238 | 697 | Snappy Bridgepiece |
+| 239 | 697 | Sheena Harris |
 | 240 | 692 | Carly Ann Maxwell |
 | 241 | 678 | Bia |
 | 242 | 676 | Laura |
 | 243 | 675 | Peaches |
-| 244 | 669 | Jenni Garcia-Vogelhut |
-| 245 | 669 | Dondon Cheng |
+| 244 | 669 | Dondon Cheng |
+| 245 | 669 | Jenni Garcia-Vogelhut |
 | 246 | 668 | Kimmie Zimmerman-Rocha |
 | 247 | 665 | Smags |
 | 248 | 664 | Tausha Colella |
-| 249 | 663 | Mcg |
-| 250 | 663 | LolaSmilez |
+| 249 | 663 | LolaSmilez |
+| 250 | 663 | Mcg |
 | 251 | 659 | Charde Parnell |
 | 252 | 654 | Angela Bonquiqui Dinish |
 | 253 | 653 | Elizabeth Ostrom |
 | 254 | 651 | 🍏 Green apple |
 | 255 | 651 | Devin |
 | 256 | 651 | Cw |
-| 257 | 647 | Dre Man |
-| 258 | 647 | Jason Allen |
+| 257 | 647 | Jason Allen |
+| 258 | 647 | Dre Man |
 | 259 | 646 | Gracie Back |
 | 260 | 642 | Christopher Jam |
 | 261 | 640 | Sandy Aragon |
@@ -288,8 +288,8 @@
 | 280 | 588 | Marc Abney |
 | 281 | 587 | yuppers |
 | 282 | 586 | Tammi Crnza |
-| 283 | 585 | Breeana Bennett |
-| 284 | 585 | Marvin Lou Martin |
+| 283 | 585 | Marvin Lou Martin |
+| 284 | 585 | Breeana Bennett |
 | 285 | 584 | Faith Adrienne Verret Page |
 | 286 | 582 | Happy Brickbuilder |
 | 287 | 580 | CSOTYS |
@@ -818,10 +818,10 @@
 | 810 | 231 | Ms. Blue |
 | 811 | 229 | Cleopatra Daniels |
 | 812 | 228 | Marie Shroyer |
-| 813 | 227 | Breezy |
-| 814 | 227 | Demitrick Chaney |
-| 815 | 227 | Kimmie Gargano |
-| 816 | 226 | Steve |
+| 813 | 227 | Steve |
+| 814 | 227 | Breezy |
+| 815 | 227 | Demitrick Chaney |
+| 816 | 227 | Kimmie Gargano |
 | 817 | 226 | Deborah Potts |
 | 818 | 226 | Sandra Belk |
 | 819 | 226 | Denise Wilson |
