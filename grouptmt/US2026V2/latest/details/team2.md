@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 09:22:18 UTC
+# Standings for team2 as of 2026-03-17 09:22:39 UTC
 
 **Total Participants:** 2970
 
@@ -601,65 +601,65 @@
 | 593 | 305 | Kennedy Sandifer |
 | 594 | 304 | Nerdy Rollzone |
 | 595 | 302 | Jacques Frenette |
-| 596 | 302 | Chill Builder |
+| 596 | 302 | Trista Duguay |
 | 597 | 302 | BuzyBee |
-| 598 | 302 | Trista Duguay |
+| 598 | 302 | Chill Builder |
 | 599 | 301 | Enigma |
 | 600 | 301 | Jonviea Dewalt |
 | 601 | 300 | Adrianne Elliott |
 | 602 | 299 | Joe Andrews |
-| 603 | 298 | Kristina Hill Perez |
-| 604 | 298 | Marcie McLain Dodd |
-| 605 | 298 | Dimitra Zazara |
-| 606 | 297 | Samantha Bagent |
-| 607 | 297 | Jenn Leigh |
-| 608 | 297 | bigdad |
-| 609 | 297 | Sha45 |
-| 610 | 297 | Nutty Cluster |
-| 611 | 296 | kitykat |
-| 612 | 295 | Fely |
-| 613 | 295 | Kevin Stultz |
-| 614 | 295 | Christian Caro |
+| 603 | 298 | Dimitra Zazara |
+| 604 | 298 | Kristina Hill Perez |
+| 605 | 298 | Marcie McLain Dodd |
+| 606 | 297 | Jenn Leigh |
+| 607 | 297 | Sha45 |
+| 608 | 297 | Chris Leasure |
+| 609 | 297 | Nutty Cluster |
+| 610 | 297 | Samantha Bagent |
+| 611 | 297 | bigdad |
+| 612 | 296 | kitykat |
+| 613 | 295 | Fely |
+| 614 | 295 | Kevin Stultz |
 | 615 | 295 | Confused Kitty |
-| 616 | 294 | Pogo 2.0 |
-| 617 | 294 | Karen Usrykitchens |
-| 618 | 293 | Glitzy Blockpiece |
-| 619 | 292 | Happy Shatterbuilder |
-| 620 | 291 | Tifatot |
-| 621 | 291 | Casandra Alisa Rocker |
+| 616 | 295 | Christian Caro |
+| 617 | 294 | Pogo 2.0 |
+| 618 | 294 | Karen Usrykitchens |
+| 619 | 293 | Glitzy Blockpiece |
+| 620 | 292 | Happy Shatterbuilder |
+| 621 | 291 | Tifatot |
 | 622 | 291 | nklstl |
 | 623 | 291 | Natasha |
-| 624 | 290 | Karent524 |
-| 625 | 290 | candypants |
-| 626 | 288 | Arkei Luster |
-| 627 | 287 | Jumpy Cascadeclear |
+| 624 | 291 | Casandra Alisa Rocker |
+| 625 | 290 | Karent524 |
+| 626 | 290 | candypants |
+| 627 | 288 | Arkei Luster |
 | 628 | 287 | ANIM3KNIGHT |
-| 629 | 287 | Shawna McKinney |
-| 630 | 287 | Joyce Murff |
-| 631 | 287 | Jolly Clicky |
-| 632 | 287 | Chris Leasure |
-| 633 | 286 | Cozy Shatterblock |
-| 634 | 286 | TiffanyJ |
+| 629 | 287 | Jumpy Cascadeclear |
+| 630 | 287 | Shawna McKinney |
+| 631 | 287 | Joyce Murff |
+| 632 | 287 | Jolly Clicky |
+| 633 | 286 | TiffanyJ |
+| 634 | 286 | Cozy Shatterblock |
 | 635 | 286 | lou28 |
 | 636 | 286 | Lively Blockroll |
 | 637 | 285 | Jennifer Galadik |
 | 638 | 285 | Allison L Tiffany |
 | 639 | 285 | Skhan |
-| 640 | 284 | Leslie Clark |
-| 641 | 284 | Ash Whitley |
-| 642 | 284 | Γωγώ Τσιρόγκα |
-| 643 | 284 | Zappy Pop |
-| 644 | 283 | ImmortelT |
-| 645 | 283 | De Yske |
+| 640 | 284 | Ash Whitley |
+| 641 | 284 | Γωγώ Τσιρόγκα |
+| 642 | 284 | Zappy Pop |
+| 643 | 284 | Leslie Clark |
+| 644 | 283 | De Yske |
+| 645 | 283 | ImmortelT |
 | 646 | 282 | Spunky Balancefit |
 | 647 | 281 | Aimee Byrom |
 | 648 | 281 | Twisty Risebuilder |
-| 649 | 280 | Susan Larson |
-| 650 | 280 | Ryan Parson |
+| 649 | 280 | Ryan Parson |
+| 650 | 280 | Susan Larson |
 | 651 | 279 | Bryanna Whitman |
 | 652 | 279 | Melissa Boldt |
-| 653 | 279 | Tammie Anderson |
-| 654 | 279 | David V. Bowers |
+| 653 | 279 | David V. Bowers |
+| 654 | 279 | Tammie Anderson |
 | 655 | 278 | Cheery Clearfit |
 | 656 | 278 | Kathy Allen |
 | 657 | 278 | Ben Dove |

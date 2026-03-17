@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 09:22:18 UTC
+# Standings for team1 as of 2026-03-17 09:22:39 UTC
 
 **Total Participants:** 2965
 
@@ -215,11 +215,11 @@
 | 207 | 880 | Althea Louise |
 | 208 | 872 | TexasLise |
 | 209 | 861 | Lavender |
-| 210 | 855 | TRCuse |
-| 211 | 849 | Muhammad |
-| 212 | 848 | KathyandPhillip Woolard |
-| 213 | 846 | Tina Blessed Cage |
-| 214 | 842 | Stefanie Champion |
+| 210 | 857 | Stefanie Champion |
+| 211 | 855 | TRCuse |
+| 212 | 849 | Muhammad |
+| 213 | 848 | KathyandPhillip Woolard |
+| 214 | 846 | Tina Blessed Cage |
 | 215 | 837 | Duane Ficara |
 | 216 | 830 | Thorpedo |
 | 217 | 818 | Jodi Fichter |
