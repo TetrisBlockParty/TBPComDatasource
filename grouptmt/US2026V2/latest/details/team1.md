@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 06:46:45 UTC
+# Standings for team1 as of 2026-03-17 06:47:23 UTC
 
 **Total Participants:** 2946
 
@@ -870,16 +870,16 @@
 | 862 | 216 | Tim Doxtator |
 | 863 | 215 | Nicole Brown |
 | 864 | 214 | Anna Lasley |
-| 865 | 214 | Shay J Duval |
-| 866 | 214 | Trish11479 |
-| 867 | 213 | Matt Mullinax |
-| 868 | 213 | Medic205 |
-| 869 | 213 | Mandy Faye Jackson |
-| 870 | 213 | Dizzy Matchzone |
-| 871 | 213 | Dizzy Linkgrid |
-| 872 | 212 | Teresa Wolf |
-| 873 | 211 | Chipper Matcher |
-| 874 | 211 | Laidene Joseph |
+| 865 | 214 | Laidene Joseph |
+| 866 | 214 | Shay J Duval |
+| 867 | 214 | Trish11479 |
+| 868 | 213 | Matt Mullinax |
+| 869 | 213 | Medic205 |
+| 870 | 213 | Mandy Faye Jackson |
+| 871 | 213 | Dizzy Matchzone |
+| 872 | 213 | Dizzy Linkgrid |
+| 873 | 212 | Teresa Wolf |
+| 874 | 211 | Chipper Matcher |
 | 875 | 211 | Sunny Frame |
 | 876 | 211 | Aira Rangel |
 | 877 | 211 | Kevin Russell |
