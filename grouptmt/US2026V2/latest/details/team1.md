@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-17 14:34:44 UTC
+# Standings for team1 as of 2026-03-17 14:35:26 UTC
 
 **Total Participants:** 3010
 
@@ -136,9 +136,9 @@
 | 128 | 1350 | Death |
 | 129 | 1348 | Mikitta Calvin |
 | 130 | 1347 | Cheeky Crusher |
-| 131 | 1334 | Bold Zonegrid |
-| 132 | 1331 | Nanan Nanan |
-| 133 | 1327 | @n@luvmakin |
+| 131 | 1336 | @n@luvmakin |
+| 132 | 1334 | Bold Zonegrid |
+| 133 | 1331 | Nanan Nanan |
 | 134 | 1318 | Charis Stoner |
 | 135 | 1277 | Katrina Palmo |
 | 136 | 1265 | Brenda Stewart |
