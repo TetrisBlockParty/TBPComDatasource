@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-17 08:04:46 UTC
+# Standings for team2 as of 2026-03-17 08:05:22 UTC
 
 **Total Participants:** 2963
 
@@ -72,8 +72,8 @@
 | 64 | 2217 | Andrey Sharov |
 | 65 | 2197 | joe |
 | 66 | 2108 | Naomii Seton |
-| 67 | 2065 | Dreamy Linkbuilder |
-| 68 | 2045 | Hp Gold |
+| 67 | 2087 | Hp Gold |
+| 68 | 2065 | Dreamy Linkbuilder |
 | 69 | 2038 | Belle |
 | 70 | 2010 | Carlos Torres |
 | 71 | 1994 | Nicole Cannon |
@@ -204,7 +204,7 @@
 | 196 | 828 | Abby Jensen |
 | 197 | 824 | illegal impulse |
 | 198 | 823 | cat |
-| 199 | 813 | Elaine Webb Graves |
+| 199 | 819 | Elaine Webb Graves |
 | 200 | 813 | Chipper Linkmatch |
 | 201 | 812 | Cranky Gridder |
 | 202 | 812 | Looloo |
