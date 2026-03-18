@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 10:12:19 UTC
+# Standings for team2 as of 2026-03-18 10:12:43 UTC
 
 **Total Participants:** 3286
 
@@ -638,26 +638,26 @@
 | 630 | 366 | Dda |
 | 631 | 366 | David V. Bowers |
 | 632 | 366 | Zany Rotater |
-| 633 | 365 | Marc Anthony Lopez |
-| 634 | 364 | Ash Whitley |
-| 635 | 363 | Shea Ladynick Henderson |
-| 636 | 363 | Joe Andrews |
-| 637 | 363 | Shawna McKinney |
-| 638 | 362 | Jacques Frenette |
-| 639 | 362 | Chefbj Ventress |
-| 640 | 361 | Henry Lanier |
-| 641 | 359 | Bobbie Miller |
-| 642 | 358 | Carla Roberson |
-| 643 | 358 | Spunky Balancefit |
+| 633 | 365 | Spunky Balancefit |
+| 634 | 365 | Marc Anthony Lopez |
+| 635 | 364 | Ash Whitley |
+| 636 | 363 | Shea Ladynick Henderson |
+| 637 | 363 | Joe Andrews |
+| 638 | 363 | Shawna McKinney |
+| 639 | 362 | Jacques Frenette |
+| 640 | 362 | Chefbj Ventress |
+| 641 | 361 | Henry Lanier |
+| 642 | 359 | Bobbie Miller |
+| 643 | 358 | Carla Roberson |
 | 644 | 358 | Scarlet Dusosky |
 | 645 | 357 | Smitters |
 | 646 | 357 | Robert Benjamin |
 | 647 | 357 | Jolie Hatfield |
 | 648 | 356 | Melissa Boldt |
-| 649 | 355 | Jackson Karen |
-| 650 | 355 | ANIM3KNIGHT |
+| 649 | 355 | Nerdy Clearer |
+| 650 | 355 | Jackson Karen |
 | 651 | 355 | 00022Denny |
-| 652 | 355 | Nerdy Clearer |
+| 652 | 355 | ANIM3KNIGHT |
 | 653 | 354 | Jenn |
 | 654 | 354 | kitykat |
 | 655 | 354 | Sam Hall |
@@ -1234,8 +1234,8 @@
 | 1226 | 180 | Stormy Anguish |
 | 1227 | 180 | Janet Eberhard |
 | 1228 | 180 | Dickie Rice |
-| 1229 | 180 | Beth Maxwell |
-| 1230 | 180 | yammin |
+| 1229 | 180 | yammin |
+| 1230 | 180 | Beth Maxwell |
 | 1231 | 179 | Crystal Weaver |
 | 1232 | 179 | Lush Matchgrid |
 | 1233 | 179 | Amykins |
@@ -1269,69 +1269,69 @@
 | 1261 | 175 | Amanda Dorlan |
 | 1262 | 175 | Phanatic2008 |
 | 1263 | 175 | msconfused80 |
-| 1264 | 174 | Emily Potter |
-| 1265 | 174 | Plucky Blockpiece |
-| 1266 | 174 | Amanda Mackay |
-| 1267 | 174 | Maria Lee Ardoin |
-| 1268 | 174 | Groovy Stacker |
-| 1269 | 174 | Kara Adams |
-| 1270 | 174 | Michael Parsons |
-| 1271 | 173 | Mamagamer |
-| 1272 | 173 | Frisky Slider |
-| 1273 | 173 | Shanny Anny |
-| 1274 | 173 | Goofy Blockbuilder |
-| 1275 | 173 | Stephanie Carpenter |
-| 1276 | 172 | Pam Green |
-| 1277 | 172 | Witty Cascadefit |
-| 1278 | 171 | Susan L. Brown |
-| 1279 | 171 | Sophia Marie |
-| 1280 | 171 | Rebecca S. Cornwell |
-| 1281 | 171 | Hasty Pivoty |
-| 1282 | 171 | simonsays420 |
-| 1283 | 171 | SigmaWinchester |
-| 1284 | 171 | MrsNutt |
-| 1285 | 171 | Matt Cinelli |
-| 1286 | 170 | De Hawkins |
-| 1287 | 170 | Yasmin Veliz |
-| 1288 | 170 | Spicy Siren |
-| 1289 | 170 | Trouble |
-| 1290 | 170 | Slinky Wipeout |
-| 1291 | 170 | sweetpea |
-| 1292 | 170 | Lilly Rather |
-| 1293 | 170 | Twisty Brickfit |
-| 1294 | 170 | Janet Sims - Martin |
-| 1295 | 170 | Pete Stacknick |
-| 1296 | 170 | Marsha Tyler |
-| 1297 | 169 | Monica Martinez |
-| 1298 | 169 | Spectikl Mchapp |
-| 1299 | 169 | Chasity Winters |
-| 1300 | 169 | Brian Wangler |
-| 1301 | 169 | Burnita Heard |
-| 1302 | 169 | Chipper Clearzone |
-| 1303 | 168 | Slinky Linkgrid |
-| 1304 | 168 | Waya |
-| 1305 | 168 | Corina |
-| 1306 | 168 | Glitzy Towerfit |
-| 1307 | 167 | Jessica Prewitt |
-| 1308 | 167 | EKS |
-| 1309 | 167 | Cassandra King Tyler |
-| 1310 | 167 | Jo Jo |
-| 1311 | 166 | Kara Ann Cray |
-| 1312 | 166 | Tiara Alexander |
-| 1313 | 166 | Kiorah Blaze |
-| 1314 | 166 | Roxana Shaffer Goff |
-| 1315 | 166 | Giddy Fallzone |
-| 1316 | 166 | Audrey Jones |
-| 1317 | 165 | Barb Lower |
-| 1318 | 165 | Nicole Maboloc |
-| 1319 | 165 | Liz Waagmeester |
-| 1320 | 164 | Trish Newell |
-| 1321 | 164 | Kimberly Ryan |
-| 1322 | 164 | Tiffany Bruursema |
-| 1323 | 164 | Nutty Splitter |
-| 1324 | 164 | Brandi Fuller Cason |
-| 1325 | 164 | AChaneys |
-| 1326 | 164 | Jessica Lynn Cutlip |
+| 1264 | 174 | Jessica Lynn Cutlip |
+| 1265 | 174 | Emily Potter |
+| 1266 | 174 | Plucky Blockpiece |
+| 1267 | 174 | Amanda Mackay |
+| 1268 | 174 | Maria Lee Ardoin |
+| 1269 | 174 | Groovy Stacker |
+| 1270 | 174 | Kara Adams |
+| 1271 | 174 | Michael Parsons |
+| 1272 | 173 | Mamagamer |
+| 1273 | 173 | Frisky Slider |
+| 1274 | 173 | Shanny Anny |
+| 1275 | 173 | Goofy Blockbuilder |
+| 1276 | 173 | Stephanie Carpenter |
+| 1277 | 172 | Pam Green |
+| 1278 | 172 | Witty Cascadefit |
+| 1279 | 171 | Susan L. Brown |
+| 1280 | 171 | Sophia Marie |
+| 1281 | 171 | Rebecca S. Cornwell |
+| 1282 | 171 | Hasty Pivoty |
+| 1283 | 171 | simonsays420 |
+| 1284 | 171 | SigmaWinchester |
+| 1285 | 171 | MrsNutt |
+| 1286 | 171 | Matt Cinelli |
+| 1287 | 170 | De Hawkins |
+| 1288 | 170 | Yasmin Veliz |
+| 1289 | 170 | Spicy Siren |
+| 1290 | 170 | Trouble |
+| 1291 | 170 | Slinky Wipeout |
+| 1292 | 170 | sweetpea |
+| 1293 | 170 | Lilly Rather |
+| 1294 | 170 | Twisty Brickfit |
+| 1295 | 170 | Janet Sims - Martin |
+| 1296 | 170 | Pete Stacknick |
+| 1297 | 170 | Marsha Tyler |
+| 1298 | 169 | Monica Martinez |
+| 1299 | 169 | Spectikl Mchapp |
+| 1300 | 169 | Chasity Winters |
+| 1301 | 169 | Brian Wangler |
+| 1302 | 169 | Burnita Heard |
+| 1303 | 169 | Chipper Clearzone |
+| 1304 | 168 | Slinky Linkgrid |
+| 1305 | 168 | Waya |
+| 1306 | 168 | Corina |
+| 1307 | 168 | Glitzy Towerfit |
+| 1308 | 167 | Jessica Prewitt |
+| 1309 | 167 | EKS |
+| 1310 | 167 | Cassandra King Tyler |
+| 1311 | 167 | Jo Jo |
+| 1312 | 166 | Kara Ann Cray |
+| 1313 | 166 | Tiara Alexander |
+| 1314 | 166 | Kiorah Blaze |
+| 1315 | 166 | Roxana Shaffer Goff |
+| 1316 | 166 | Giddy Fallzone |
+| 1317 | 166 | Audrey Jones |
+| 1318 | 165 | Barb Lower |
+| 1319 | 165 | Nicole Maboloc |
+| 1320 | 165 | Liz Waagmeester |
+| 1321 | 164 | Trish Newell |
+| 1322 | 164 | Kimberly Ryan |
+| 1323 | 164 | Tiffany Bruursema |
+| 1324 | 164 | Nutty Splitter |
+| 1325 | 164 | Brandi Fuller Cason |
+| 1326 | 164 | AChaneys |
 | 1327 | 164 | Jess |
 | 1328 | 163 | Ivan Burgess |
 | 1329 | 162 | Amy Villalpando |
