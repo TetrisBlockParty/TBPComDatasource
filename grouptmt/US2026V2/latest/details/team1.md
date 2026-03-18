@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 09:54:52 UTC
+# Standings for team1 as of 2026-03-18 09:55:27 UTC
 
 **Total Participants:** 3241
 
@@ -114,18 +114,18 @@
 | 106 | 1893 | Justin Jerome |
 | 107 | 1873 | FancyPants |
 | 108 | 1871 | Ellie Bein |
-| 109 | 1842 | Shaynna Garza |
-| 110 | 1829 | Amber Zeller Rice |
-| 111 | 1828 | Mikitta Calvin |
-| 112 | 1819 | Nancy |
-| 113 | 1816 | 1_Roxanne_3 |
-| 114 | 1814 | Yolanda M Harris |
-| 115 | 1797 | Giddy Cascade |
-| 116 | 1788 | Tom |
-| 117 | 1786 | Dom The Great |
-| 118 | 1782 | Walker Patterson |
-| 119 | 1772 | Chummy Towerzone |
-| 120 | 1767 | Yvonne Buie |
+| 109 | 1847 | Yvonne Buie |
+| 110 | 1842 | Shaynna Garza |
+| 111 | 1829 | Amber Zeller Rice |
+| 112 | 1828 | Mikitta Calvin |
+| 113 | 1819 | Nancy |
+| 114 | 1816 | 1_Roxanne_3 |
+| 115 | 1814 | Yolanda M Harris |
+| 116 | 1797 | Giddy Cascade |
+| 117 | 1788 | Tom |
+| 118 | 1786 | Dom The Great |
+| 119 | 1782 | Walker Patterson |
+| 120 | 1772 | Chummy Towerzone |
 | 121 | 1751 | Witty Wipegrid |
 | 122 | 1742 | Kesha Brady |
 | 123 | 1733 | Dish19 |
@@ -301,16 +301,16 @@
 | 293 | 789 | Sassy Cascadepiece |
 | 294 | 786 | Mufi25 |
 | 295 | 785 | April McGuffie |
-| 296 | 781 | Will Fulmer |
-| 297 | 779 | tttttttt |
-| 298 | 778 | Goofy Linkblock |
+| 296 | 782 | Goofy Linkblock |
+| 297 | 781 | Will Fulmer |
+| 298 | 779 | tttttttt |
 | 299 | 773 | 🗝️🗝️ Key |
 | 300 | 772 | Mrsjcraw18 |
 | 301 | 768 | Mykal Burton |
 | 302 | 768 | Randy Masao Hilbrant |
 | 303 | 764 | Mahman |
-| 304 | 761 | Tammy Lamb |
-| 305 | 761 | Michael Espinosa Ulibarri Jr. |
+| 304 | 761 | Michael Espinosa Ulibarri Jr. |
+| 305 | 761 | Tammy Lamb |
 | 306 | 759 | Erin Halleman |
 | 307 | 759 | Swalshy |
 | 308 | 757 | Elizabeth Hughes |
@@ -356,15 +356,15 @@
 | 348 | 676 | Teddy Alexander |
 | 349 | 676 | raffyG |
 | 350 | 674 | Bryan Temple |
-| 351 | 671 | Pamela Marie Tyler |
+| 351 | 671 | Deandre Young |
 | 352 | 671 | John Gardner |
-| 353 | 669 | Amh |
-| 354 | 663 | Greenbayfan |
-| 355 | 661 | Ancient Intuition |
-| 356 | 660 | Bouncy Wipeout |
-| 357 | 657 | Boldy Clicky |
-| 358 | 656 | Amers |
-| 359 | 651 | Deandre Young |
+| 353 | 671 | Pamela Marie Tyler |
+| 354 | 669 | Amh |
+| 355 | 663 | Greenbayfan |
+| 356 | 661 | Ancient Intuition |
+| 357 | 660 | Bouncy Wipeout |
+| 358 | 657 | Boldy Clicky |
+| 359 | 656 | Amers |
 | 360 | 650 | Peppy Matchclear |
 | 361 | 647 | Kay Francois |
 | 362 | 646 | Terri Beran |
