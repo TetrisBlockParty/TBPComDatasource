@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 10:05:21 UTC
+# Standings for team2 as of 2026-03-18 10:06:21 UTC
 
 **Total Participants:** 3286
 
@@ -483,17 +483,17 @@
 | 475 | 485 | Nick Kozik |
 | 476 | 484 | Eugenio Moquete |
 | 477 | 480 | Trice Sodames |
-| 478 | 475 | Troy |
-| 479 | 475 | Sondra Kenny |
-| 480 | 474 | Carmen Jnvm |
-| 481 | 469 | Jo Frohwein |
-| 482 | 469 | Tori Bowers |
-| 483 | 468 | Tipsy Riseclear |
-| 484 | 468 | Jean Yap |
-| 485 | 468 | Giggly Shiftsnap |
-| 486 | 468 | Alisha Shelton |
-| 487 | 468 | Cushalee Howard |
-| 488 | 467 | Jen Louie |
+| 478 | 475 | Jen Louie |
+| 479 | 475 | Troy |
+| 480 | 475 | Sondra Kenny |
+| 481 | 474 | Carmen Jnvm |
+| 482 | 471 | Alisha Shelton |
+| 483 | 469 | Jo Frohwein |
+| 484 | 469 | Tori Bowers |
+| 485 | 468 | Tipsy Riseclear |
+| 486 | 468 | Jean Yap |
+| 487 | 468 | Giggly Shiftsnap |
+| 488 | 468 | Cushalee Howard |
 | 489 | 467 | Alyssa Graham |
 | 490 | 464 | Courtney Cicoria |
 | 491 | 464 | Toohotwifey4u2 |
