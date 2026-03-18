@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 12:22:48 UTC
+# Standings for team1 as of 2026-03-18 12:23:23 UTC
 
 **Total Participants:** 3263
 
@@ -32,7 +32,7 @@
 | 24 | 6777 | Tashanna Harvey |
 | 25 | 6636 | Spicy Buildsnap |
 | 26 | 6371 | Vistabrat |
-| 27 | 6295 | Selena Rollin |
+| 27 | 6325 | Selena Rollin |
 | 28 | 6280 | Brad Oneill |
 | 29 | 6267 | Krystal McPherson |
 | 30 | 6060 | Venechia Berry |
@@ -152,10 +152,10 @@
 | 144 | 1511 | Sharisse Baltimore |
 | 145 | 1503 | Silly Ziggy |
 | 146 | 1496 | Katrina Palmo |
-| 147 | 1474 | Letson Melissa |
-| 148 | 1460 | Nanan Nanan |
-| 149 | 1459 | LaNette Morgan |
-| 150 | 1458 | Big rick !!! |
+| 147 | 1486 | Big rick !!! |
+| 148 | 1474 | Letson Melissa |
+| 149 | 1460 | Nanan Nanan |
+| 150 | 1459 | LaNette Morgan |
 | 151 | 1457 | Sleepypanda67 |
 | 152 | 1437 | Gabriel Morales |
 | 153 | 1433 | Zach Thompson |
@@ -606,57 +606,57 @@
 | 598 | 420 | Kat |
 | 599 | 419 | Daniel James Man |
 | 600 | 418 | Giggy Snaplink |
-| 601 | 418 | Dizzy Glidebuilder |
+| 601 | 418 | Natasha Velasquez Gabriel |
 | 602 | 418 | Tig |
-| 603 | 417 | Logan McFarland |
-| 604 | 417 | Dī Kuykendall |
-| 605 | 416 | Panda Rog |
-| 606 | 415 | Shant |
-| 607 | 414 | Tabitha Cornelious |
-| 608 | 413 | MammaCass |
-| 609 | 413 | Dizzy Stackbuilder |
-| 610 | 412 | Mel Fab |
+| 603 | 418 | Dizzy Glidebuilder |
+| 604 | 417 | Logan McFarland |
+| 605 | 417 | Dī Kuykendall |
+| 606 | 416 | Panda Rog |
+| 607 | 415 | Shant |
+| 608 | 414 | Tabitha Cornelious |
+| 609 | 413 | MammaCass |
+| 610 | 413 | Dizzy Stackbuilder |
 | 611 | 412 | Tran Tran |
-| 612 | 411 | Kelly Miller Williams |
-| 613 | 409 | Shukee Lo |
-| 614 | 408 | Courtney Jones |
-| 615 | 408 | Kjnals Wall |
-| 616 | 408 | Britney Nelson Coy |
-| 617 | 408 | Brandon Zachary Anderson |
-| 618 | 407 | Bri Jackson |
-| 619 | 406 | Crystal Sara E |
-| 620 | 404 | Ryne Pinkston |
-| 621 | 402 | Pamela Morgan |
-| 622 | 401 | Cassie Lathem |
-| 623 | 401 | Pazerjonez |
-| 624 | 401 | Chilly Faller |
-| 625 | 401 | Michael Meyer |
-| 626 | 400 | Sabrina Hardrick |
-| 627 | 399 | mrkw |
-| 628 | 398 | Carl Leonard |
-| 629 | 397 | Betty Bóò |
-| 630 | 397 | BostonCrypto |
-| 631 | 397 | Gwenda Wright |
-| 632 | 397 | Anthony Bryan Riva |
-| 633 | 395 | Quirky Catcher |
-| 634 | 395 | Itspaigebro |
+| 612 | 412 | Mel Fab |
+| 613 | 411 | Kelly Miller Williams |
+| 614 | 409 | Shukee Lo |
+| 615 | 408 | Brandon Zachary Anderson |
+| 616 | 408 | Kjnals Wall |
+| 617 | 408 | Courtney Jones |
+| 618 | 408 | Britney Nelson Coy |
+| 619 | 407 | Bri Jackson |
+| 620 | 406 | Crystal Sara E |
+| 621 | 404 | Ryne Pinkston |
+| 622 | 402 | Pamela Morgan |
+| 623 | 401 | Cassie Lathem |
+| 624 | 401 | Pazerjonez |
+| 625 | 401 | Chilly Faller |
+| 626 | 401 | Michael Meyer |
+| 627 | 400 | Sabrina Hardrick |
+| 628 | 399 | mrkw |
+| 629 | 398 | Carl Leonard |
+| 630 | 397 | Anthony Bryan Riva |
+| 631 | 397 | BostonCrypto |
+| 632 | 397 | Betty Bóò |
+| 633 | 397 | Gwenda Wright |
+| 634 | 395 | Quirky Catcher |
 | 635 | 395 | Melissa Madison |
-| 636 | 394 | Ophelia Rae |
-| 637 | 392 | PRICHARD |
-| 638 | 391 | Florna Primrose |
-| 639 | 390 | Ash Galvan |
+| 636 | 395 | Itspaigebro |
+| 637 | 394 | Ophelia Rae |
+| 638 | 392 | PRICHARD |
+| 639 | 391 | Florna Primrose |
 | 640 | 390 | Ben Barkley |
-| 641 | 389 | Twisty Snapfit |
-| 642 | 389 | Dusti Byrd |
+| 641 | 390 | Ash Galvan |
+| 642 | 389 | Twisty Snapfit |
 | 643 | 389 | Steven Ray Real |
-| 644 | 388 | Raheem Young |
-| 645 | 388 | Natasha Velasquez Gabriel |
+| 644 | 389 | Dusti Byrd |
+| 645 | 388 | Raheem Young |
 | 646 | 388 | Lil H |
 | 647 | 385 | Hoppy Balancer |
 | 648 | 384 | Trey Petty |
 | 649 | 384 | Angie Dotson |
-| 650 | 383 | shelly |
-| 651 | 383 | Julie Miller |
+| 650 | 383 | Julie Miller |
+| 651 | 383 | shelly |
 | 652 | 382 | Rosanna Atria-Schnickel |
 | 653 | 382 | Hoppy Builderpiece |
 | 654 | 382 | John Ham |
