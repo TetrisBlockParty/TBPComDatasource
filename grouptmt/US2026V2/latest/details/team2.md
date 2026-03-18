@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 09:26:40 UTC
+# Standings for team2 as of 2026-03-18 09:27:21 UTC
 
 **Total Participants:** 3285
 
@@ -115,15 +115,15 @@
 | 107 | 1663 | Craig Lander |
 | 108 | 1662 | Susan Fazio Edwards |
 | 109 | 1657 | Arthe3rd |
-| 110 | 1631 | Kristina Coleman |
-| 111 | 1603 | Sara Morgan |
-| 112 | 1591 | Veronica Martin Trinkle |
-| 113 | 1573 | Nathaniel Hardy |
-| 114 | 1570 | Sharon Cail |
-| 115 | 1568 | cat |
-| 116 | 1555 | Brave Matchfit |
-| 117 | 1551 | Blaze Sexton |
-| 118 | 1549 | sweet lil miss |
+| 110 | 1649 | sweet lil miss |
+| 111 | 1631 | Kristina Coleman |
+| 112 | 1603 | Sara Morgan |
+| 113 | 1591 | Veronica Martin Trinkle |
+| 114 | 1573 | Nathaniel Hardy |
+| 115 | 1570 | Sharon Cail |
+| 116 | 1568 | cat |
+| 117 | 1555 | Brave Matchfit |
+| 118 | 1551 | Blaze Sexton |
 | 119 | 1536 | Goofy Linkmatch |
 | 120 | 1511 | Giggy Brickmatch |
 | 121 | 1510 | Alan George LaRage |
@@ -2697,13 +2697,13 @@
 | 2689 | 32 | Danny Chavira |
 | 2690 | 32 | Brittney Weatherston Shiley |
 | 2691 | 32 | Brave Tiltgrid |
-| 2692 | 32 | Epic Kitten |
-| 2693 | 32 | Bubbly Spinzone |
-| 2694 | 31 | squarish |
-| 2695 | 31 | Totoxx2 |
+| 2692 | 32 | Bubbly Spinzone |
+| 2693 | 32 | Epic Kitten |
+| 2694 | 31 | Totoxx2 |
+| 2695 | 31 | Crafty Edgefit |
 | 2696 | 31 | Katastrophy |
-| 2697 | 31 | Krysti Rodriguez |
-| 2698 | 31 | Crafty Edgefit |
+| 2697 | 31 | squarish |
+| 2698 | 31 | Krysti Rodriguez |
 | 2699 | 31 | GrooveyRoyal |
 | 2700 | 31 | Tamara Garza |
 | 2701 | 31 | Becky Riggs |
@@ -2728,22 +2728,22 @@
 | 2720 | 30 | Alyssa |
 | 2721 | 30 | Daring Twistpiece |
 | 2722 | 30 | Rosie Soto Hemphill |
-| 2723 | 30 | Matt Sabotka |
-| 2724 | 30 | John Williams |
-| 2725 | 30 | Michael McCarron |
-| 2726 | 30 | Warren Mathews |
-| 2727 | 30 | David Smith |
-| 2728 | 30 | Laura Delia Avila |
-| 2729 | 30 | MiriVigo |
-| 2730 | 30 | Sam Hazlewood |
-| 2731 | 30 | latte |
-| 2732 | 30 | Melis |
-| 2733 | 30 | Smiley Block |
-| 2734 | 30 | Chirpy Grabber |
+| 2723 | 30 | Chirpy Grabber |
+| 2724 | 30 | Sam Hazlewood |
+| 2725 | 30 | latte |
+| 2726 | 30 | MiriVigo |
+| 2727 | 30 | Laura Delia Avila |
+| 2728 | 30 | Warren Mathews |
+| 2729 | 30 | Michael McCarron |
+| 2730 | 30 | John Williams |
+| 2731 | 30 | David Smith |
+| 2732 | 30 | Matt Sabotka |
+| 2733 | 30 | Melis |
+| 2734 | 30 | Smiley Block |
 | 2735 | 29 | Marie Fauntleroy |
-| 2736 | 29 | Hayley |
+| 2736 | 29 | Steven L Robinson Jr |
 | 2737 | 29 | Loretta M Welch |
-| 2738 | 29 | Steven L Robinson Jr |
+| 2738 | 29 | Hayley |
 | 2739 | 29 | Lovelace |
 | 2740 | 29 | Katie |
 | 2741 | 29 | Steve Daily |
@@ -2769,15 +2769,15 @@
 | 2761 | 28 | Korn |
 | 2762 | 28 | Salik Jameson |
 | 2763 | 28 | Babigirl |
-| 2764 | 28 | Sissy Locklear |
-| 2765 | 28 | ytho |
-| 2766 | 28 | Bubbly Crusher |
-| 2767 | 27 | Goofy Frame |
-| 2768 | 27 | Goofy Snap |
+| 2764 | 28 | Bubbly Crusher |
+| 2765 | 28 | Sissy Locklear |
+| 2766 | 28 | LatinaLover |
+| 2767 | 28 | ytho |
+| 2768 | 27 | Goofy Frame |
 | 2769 | 27 | Amy Patterson |
 | 2770 | 27 | Ron Brubaker |
 | 2771 | 27 | Lickity Split |
-| 2772 | 27 | LatinaLover |
+| 2772 | 27 | Goofy Snap |
 | 2773 | 27 | Anthony Parks |
 | 2774 | 27 | Brittni Jae Church |
 | 2775 | 27 | Rosanna Trevino Creeks |
@@ -2797,25 +2797,25 @@
 | 2789 | 26 | FireMermaid |
 | 2790 | 26 | Tabitha Henson |
 | 2791 | 26 | Snazzy Spinfit |
-| 2792 | 26 | MistyBayou |
-| 2793 | 26 | acb345 |
-| 2794 | 26 | Snippy Snapgrid |
-| 2795 | 26 | Shirley Petty |
-| 2796 | 26 | Mel |
-| 2797 | 26 | Manny Diaz |
-| 2798 | 26 | Marie Elena |
-| 2799 | 26 | JSP |
-| 2800 | 26 | Chill Link |
-| 2801 | 25 | BigTim042069 |
-| 2802 | 25 | Tamika Williams |
-| 2803 | 25 | Earl Beamer |
-| 2804 | 25 | Soggy Walrus |
+| 2792 | 26 | Snippy Snapgrid |
+| 2793 | 26 | Chill Link |
+| 2794 | 26 | MistyBayou |
+| 2795 | 26 | acb345 |
+| 2796 | 26 | Shirley Petty |
+| 2797 | 26 | Mel |
+| 2798 | 26 | Manny Diaz |
+| 2799 | 26 | Marie Elena |
+| 2800 | 26 | JSP |
+| 2801 | 25 | Bettie Amiel |
+| 2802 | 25 | Kaitlin Hood |
+| 2803 | 25 | Lazy Balancepiece |
+| 2804 | 25 | Freddie Rodriguez |
 | 2805 | 25 | Big Papa |
-| 2806 | 25 | Lazy Balancepiece |
-| 2807 | 25 | Kaitlin Hood |
-| 2808 | 25 | Freddie Rodriguez |
-| 2809 | 25 | twentyeight |
-| 2810 | 25 | Bettie Amiel |
+| 2806 | 25 | Earl Beamer |
+| 2807 | 25 | BigTim042069 |
+| 2808 | 25 | twentyeight |
+| 2809 | 25 | Tamika Williams |
+| 2810 | 25 | Soggy Walrus |
 | 2811 | 25 | Devyn Hanzich |
 | 2812 | 25 | MoMoney20 |
 | 2813 | 25 | Matthew Jenkins |
