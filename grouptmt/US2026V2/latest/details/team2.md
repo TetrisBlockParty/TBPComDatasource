@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 08:54:52 UTC
+# Standings for team2 as of 2026-03-18 08:55:24 UTC
 
 **Total Participants:** 3280
 
@@ -229,13 +229,13 @@
 | 221 | 924 | Mandi Mayweather |
 | 222 | 919 | Lively Builderfit |
 | 223 | 919 | Topsannah Topsannah |
-| 224 | 916 | John Matson |
-| 225 | 913 | Adrienne Fisher |
-| 226 | 907 | Snappy Link |
-| 227 | 907 | Dre Man |
-| 228 | 906 | Dylan Toy |
-| 229 | 904 | Chipper Linkmatch |
-| 230 | 901 | Elaine Webb Graves |
+| 224 | 916 | Elaine Webb Graves |
+| 225 | 916 | John Matson |
+| 226 | 913 | Adrienne Fisher |
+| 227 | 907 | Snappy Link |
+| 228 | 907 | Dre Man |
+| 229 | 906 | Dylan Toy |
+| 230 | 904 | Chipper Linkmatch |
 | 231 | 900 | Sandra Safford |
 | 232 | 892 | Alexsa Crespo |
 | 233 | 891 | Desiree Anderson |
@@ -2891,69 +2891,69 @@
 | 2883 | 21 | Nerdy Gridpiece |
 | 2884 | 20 | Shelly Marshall |
 | 2885 | 20 | Mary Mickens |
-| 2886 | 20 | Re Re |
+| 2886 | 20 | Sunny Strikerpiece |
 | 2887 | 20 | Funky Builderfit |
 | 2888 | 20 | Lively Tetrisline |
 | 2889 | 20 | Joanne Cheng |
 | 2890 | 20 | Goofy Swipe |
-| 2891 | 20 | Keegan Ann Lyn |
-| 2892 | 20 | Terry Spencer |
-| 2893 | 20 | Vedat Ekmekci |
-| 2894 | 20 | Michelle Mc |
-| 2895 | 20 | Christi Gumber |
-| 2896 | 20 | Rhoda Baretsky |
-| 2897 | 20 | Christine Durrbeck |
-| 2898 | 20 | ScaryGirl |
-| 2899 | 20 | Heide Shree |
-| 2900 | 20 | vixen |
-| 2901 | 20 | Marie Riley |
-| 2902 | 20 | Jolly Blockroll |
-| 2903 | 20 | Giggy Lifter |
-| 2904 | 20 | Stephanie Soto |
-| 2905 | 20 | Plucky Brickmatch |
-| 2906 | 20 | Amber Simpson |
-| 2907 | 20 | Cassie Patterson |
-| 2908 | 20 | Blockhead |
-| 2909 | 20 | Loony Rotater |
-| 2910 | 20 | Dlauryn |
-| 2911 | 20 | Amanda Smith Begley |
-| 2912 | 20 | deltagrizzy |
-| 2913 | 20 | Plucky Patternfit |
-| 2914 | 20 | Gina Kern |
-| 2915 | 19 | Shiny Patternblock |
-| 2916 | 19 | Hasty Wiper |
-| 2917 | 19 | Joe |
-| 2918 | 19 | bob |
-| 2919 | 19 | Anthony Starks |
-| 2920 | 19 | Amber Leitzke |
-| 2921 | 19 | John Garza |
-| 2922 | 19 | Omolura Marie Noah |
-| 2923 | 19 | merry |
-| 2924 | 19 | Lianne Lopez |
-| 2925 | 19 | Gerald Maddox |
+| 2891 | 20 | Re Re |
+| 2892 | 20 | Vedat Ekmekci |
+| 2893 | 20 | ScaryGirl |
+| 2894 | 20 | Keegan Ann Lyn |
+| 2895 | 20 | Heide Shree |
+| 2896 | 20 | Christine Durrbeck |
+| 2897 | 20 | Rhoda Baretsky |
+| 2898 | 20 | Christi Gumber |
+| 2899 | 20 | Michelle Mc |
+| 2900 | 20 | Terry Spencer |
+| 2901 | 20 | vixen |
+| 2902 | 20 | Marie Riley |
+| 2903 | 20 | Jolly Blockroll |
+| 2904 | 20 | Giggy Lifter |
+| 2905 | 20 | Stephanie Soto |
+| 2906 | 20 | Plucky Brickmatch |
+| 2907 | 20 | Amber Simpson |
+| 2908 | 20 | Cassie Patterson |
+| 2909 | 20 | Blockhead |
+| 2910 | 20 | Loony Rotater |
+| 2911 | 20 | Dlauryn |
+| 2912 | 20 | Amanda Smith Begley |
+| 2913 | 20 | deltagrizzy |
+| 2914 | 20 | Plucky Patternfit |
+| 2915 | 20 | Gina Kern |
+| 2916 | 19 | Shiny Patternblock |
+| 2917 | 19 | Hasty Wiper |
+| 2918 | 19 | Joe |
+| 2919 | 19 | bob |
+| 2920 | 19 | Anthony Starks |
+| 2921 | 19 | Amber Leitzke |
+| 2922 | 19 | John Garza |
+| 2923 | 19 | Omolura Marie Noah |
+| 2924 | 19 | merry |
+| 2925 | 19 | Susan Lott Gray |
 | 2926 | 19 | Becca Boo |
-| 2927 | 19 | Susan Lott Gray |
-| 2928 | 19 | John Yost Jr. |
-| 2929 | 19 | DeadEmøtions FrøxzenTrust |
-| 2930 | 19 | Stacie Martel |
-| 2931 | 19 | slice |
-| 2932 | 19 | Amanda Kinman |
-| 2933 | 19 | Juan Nigel Douglas |
-| 2934 | 19 | Sunny Tile |
+| 2927 | 19 | Lianne Lopez |
+| 2928 | 19 | DeadEmøtions FrøxzenTrust |
+| 2929 | 19 | Stacie Martel |
+| 2930 | 19 | John Yost Jr. |
+| 2931 | 19 | Gerald Maddox |
+| 2932 | 19 | slice |
+| 2933 | 19 | Amanda Kinman |
+| 2934 | 19 | Juan Nigel Douglas |
 | 2935 | 19 | Michael Banks |
 | 2936 | 19 | Plucky Matchgrid |
-| 2937 | 19 | Sunny Strikerpiece |
+| 2937 | 19 | Sunny Tile |
 | 2938 | 18 | Tonya Cramlet-hughell |
-| 2939 | 18 | MackGz0224 |
+| 2939 | 18 | Sandra Pyles |
 | 2940 | 18 | Chill Patternzone |
-| 2941 | 18 | netta |
+| 2941 | 18 | MackGz0224 |
 | 2942 | 18 | starry night |
 | 2943 | 18 | Lush Risebuilder |
 | 2944 | 18 | Jason Benitez |
 | 2945 | 18 | Groovy Snapfall |
-| 2946 | 18 | Cranky Liner |
-| 2947 | 18 | Jen N Shawn Ragonese |
-| 2948 | 18 | Sandra Pyles |
+| 2946 | 18 | netta |
+| 2947 | 18 | Cranky Liner |
+| 2948 | 18 | Jen N Shawn Ragonese |
 | 2949 | 18 | Vamp |
 | 2950 | 18 | Alecia Ann McCarty |
 | 2951 | 18 | Brave Builderline |
@@ -2972,15 +2972,15 @@
 | 2964 | 17 | Oheema |
 | 2965 | 17 | Rhonda Engle |
 | 2966 | 17 | Jacob Rosencutter |
-| 2967 | 17 | Elizabeth Sayers |
-| 2968 | 17 | Ruby |
+| 2967 | 17 | Ruby |
+| 2968 | 17 | Jacada |
 | 2969 | 17 | Beth McBriney |
-| 2970 | 17 | Jacada |
-| 2971 | 17 | Jennileigh Rogers |
-| 2972 | 17 | ThatGuy |
-| 2973 | 17 | Star |
-| 2974 | 17 | Glitter Fairy |
-| 2975 | 17 | Eugene Thompson Jr. |
+| 2970 | 17 | Jennileigh Rogers |
+| 2971 | 17 | ThatGuy |
+| 2972 | 17 | Star |
+| 2973 | 17 | Glitter Fairy |
+| 2974 | 17 | Eugene Thompson Jr. |
+| 2975 | 17 | Elizabeth Sayers |
 | 2976 | 17 | Rebecca L Monroe |
 | 2977 | 16 | IMAQT |
 | 2978 | 16 | Maggie Mccardle |
