@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 11:30:20 UTC
+# Standings for team2 as of 2026-03-18 11:30:46 UTC
 
 **Total Participants:** 3293
 
@@ -1882,45 +1882,45 @@
 | 1874 | 90 | Angel Niomi Munoz |
 | 1875 | 90 | Denise Bailey |
 | 1876 | 89 | Marisa |
-| 1877 | 89 | Theresa Vandenbos |
-| 1878 | 89 | VegasV |
-| 1879 | 89 | Rachel Robertson |
-| 1880 | 89 | Nellie Cummings |
-| 1881 | 89 | J Cleveland Payne |
-| 1882 | 89 | Nikki Leanne |
-| 1883 | 89 | Heather Hilferty |
-| 1884 | 89 | Shaylene Craig |
-| 1885 | 88 | Whitney Douglas |
-| 1886 | 88 | Ashley V Arnold |
-| 1887 | 88 | Giggy Tilt |
-| 1888 | 88 | Ann May June |
-| 1889 | 88 | Brandi Roberts-Yartz |
-| 1890 | 88 | Zany Puzzle |
-| 1891 | 88 | Amy Pike |
-| 1892 | 88 | DirtDiggler |
-| 1893 | 88 | Ruchi Smit |
-| 1894 | 88 | Dapper Winder |
-| 1895 | 88 | sas |
-| 1896 | 88 | FunMom |
-| 1897 | 87 | Perky Shiftspin |
-| 1898 | 87 | Tim Valdez |
-| 1899 | 87 | Gmo Lopez |
-| 1900 | 87 | Michelle |
-| 1901 | 87 | Maria Winston |
-| 1902 | 87 | Terry Partain |
-| 1903 | 87 | Dawn Alexander |
-| 1904 | 87 | Hannibal Musa |
-| 1905 | 86 | Lisa Hart |
-| 1906 | 86 | Mike Esparza |
-| 1907 | 86 | Gabby |
-| 1908 | 86 | Darin Benning |
-| 1909 | 86 | Jamie Hicks |
-| 1910 | 86 | Groovy Builder |
-| 1911 | 86 | Epic Brickfit |
-| 1912 | 86 | Marcel Perzhu |
-| 1913 | 86 | Kristen M Gorsuch |
-| 1914 | 86 | Laurie McGregor |
-| 1915 | 86 | Ashley Ballou |
+| 1877 | 89 | Ashley Ballou |
+| 1878 | 89 | Theresa Vandenbos |
+| 1879 | 89 | VegasV |
+| 1880 | 89 | Rachel Robertson |
+| 1881 | 89 | Nellie Cummings |
+| 1882 | 89 | J Cleveland Payne |
+| 1883 | 89 | Nikki Leanne |
+| 1884 | 89 | Heather Hilferty |
+| 1885 | 89 | Shaylene Craig |
+| 1886 | 88 | Whitney Douglas |
+| 1887 | 88 | Ashley V Arnold |
+| 1888 | 88 | Giggy Tilt |
+| 1889 | 88 | Ann May June |
+| 1890 | 88 | Brandi Roberts-Yartz |
+| 1891 | 88 | Zany Puzzle |
+| 1892 | 88 | Amy Pike |
+| 1893 | 88 | DirtDiggler |
+| 1894 | 88 | Ruchi Smit |
+| 1895 | 88 | Dapper Winder |
+| 1896 | 88 | sas |
+| 1897 | 88 | FunMom |
+| 1898 | 87 | Perky Shiftspin |
+| 1899 | 87 | Tim Valdez |
+| 1900 | 87 | Gmo Lopez |
+| 1901 | 87 | Michelle |
+| 1902 | 87 | Maria Winston |
+| 1903 | 87 | Terry Partain |
+| 1904 | 87 | Dawn Alexander |
+| 1905 | 87 | Hannibal Musa |
+| 1906 | 86 | Lisa Hart |
+| 1907 | 86 | Mike Esparza |
+| 1908 | 86 | Gabby |
+| 1909 | 86 | Darin Benning |
+| 1910 | 86 | Jamie Hicks |
+| 1911 | 86 | Groovy Builder |
+| 1912 | 86 | Epic Brickfit |
+| 1913 | 86 | Marcel Perzhu |
+| 1914 | 86 | Kristen M Gorsuch |
+| 1915 | 86 | Laurie McGregor |
 | 1916 | 86 | Lillian Maier-martin |
 | 1917 | 86 | mars |
 | 1918 | 85 | Bubbly Smasher |
