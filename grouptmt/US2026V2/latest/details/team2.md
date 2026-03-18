@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 09:30:20 UTC
+# Standings for team2 as of 2026-03-18 09:30:45 UTC
 
 **Total Participants:** 3286
 
@@ -580,14 +580,14 @@
 | 572 | 403 | Emilie Creswell |
 | 573 | 403 | Cozy Shatterblock |
 | 574 | 403 | Tig’o Biggie |
-| 575 | 402 | Heather Kelley |
-| 576 | 401 | Ramona Marie Eruera |
-| 577 | 401 | Jennifer |
-| 578 | 401 | Diane Louise |
-| 579 | 400 | Adrianne Elliott |
-| 580 | 400 | Lisa420 |
-| 581 | 398 | Ella Marzano |
-| 582 | 398 | Alexandria Shannon |
+| 575 | 402 | Alexandria Shannon |
+| 576 | 402 | Heather Kelley |
+| 577 | 401 | Ramona Marie Eruera |
+| 578 | 401 | Jennifer |
+| 579 | 401 | Diane Louise |
+| 580 | 400 | Adrianne Elliott |
+| 581 | 400 | Lisa420 |
+| 582 | 398 | Ella Marzano |
 | 583 | 397 | Berling Gil |
 | 584 | 397 | Enigma |
 | 585 | 396 | Pogo 2.0 |
@@ -1365,67 +1365,67 @@
 | 1357 | 155 | Shaunda Thompson |
 | 1358 | 155 | Playtray |
 | 1359 | 155 | Elle Mors |
-| 1360 | 154 | Witty Twistslam |
-| 1361 | 154 | justMe |
-| 1362 | 154 | Swanky Matchpiece |
-| 1363 | 154 | Brickh4us |
-| 1364 | 154 | Jerry Gift Jr. |
-| 1365 | 154 | Danielle Barker |
-| 1366 | 153 | Kathleen Morgan |
-| 1367 | 153 | Montiette Mcglown |
-| 1368 | 153 | Brooklyn DeLong |
-| 1369 | 153 | Brittney Marie Wyrick |
-| 1370 | 153 | Michael Hissong |
-| 1371 | 153 | MxPenguin |
-| 1372 | 153 | Nathen Ro Tron |
-| 1373 | 152 | Star Hart |
-| 1374 | 152 | 1MadCat |
-| 1375 | 152 | Greg Shekailo |
-| 1376 | 152 | John Johnson |
-| 1377 | 152 | Beets |
-| 1378 | 152 | Summer_time |
-| 1379 | 151 | Paul Gurwitz |
-| 1380 | 151 | Frisky Blocky |
-| 1381 | 151 | AL |
-| 1382 | 150 | Tyler Werts |
-| 1383 | 150 | Yoemi Rivera Perez |
-| 1384 | 150 | Boldy Rollzone |
-| 1385 | 150 | Abigayle Hanson |
-| 1386 | 150 | Sherry Jones |
-| 1387 | 150 | Brittani Suzanne Jelks |
-| 1388 | 150 | Britton Gilreath |
-| 1389 | 150 | Squiggle Squish |
-| 1390 | 150 | Silly Brickline |
-| 1391 | 150 | Tracey Whetstone |
-| 1392 | 150 | SSM3128 |
-| 1393 | 150 | Jacquelyn Auman |
-| 1394 | 149 | Jumpy Tiler |
-| 1395 | 149 | Jay |
-| 1396 | 149 | Marlon Reed |
-| 1397 | 149 | Kira Hugar |
-| 1398 | 149 | S05 |
-| 1399 | 149 | Tiarra Swan |
-| 1400 | 148 | MamaBear04 |
-| 1401 | 148 | Grovenia Joy Perryman |
-| 1402 | 148 | VectorZero |
-| 1403 | 148 | April Jones |
-| 1404 | 148 | AChaneys |
-| 1405 | 147 | Jodi Young |
-| 1406 | 147 | Kadi Rappold |
-| 1407 | 147 | Terta Manz |
-| 1408 | 147 | PartyStarter |
-| 1409 | 147 | aja |
-| 1410 | 147 | Fuzzy |
-| 1411 | 146 | Linda Marie Pankow |
-| 1412 | 146 | Danielle Barthelme |
-| 1413 | 146 | Bold Spinblock |
-| 1414 | 145 | Phil |
-| 1415 | 145 | Dominiquè Conerly-Trejo |
-| 1416 | 145 | Plucky Rollblock |
-| 1417 | 145 | Tracy Butler |
-| 1418 | 145 | Ys Muhammed |
-| 1419 | 145 | Christina Stimson |
-| 1420 | 145 | Erica Parker |
+| 1360 | 154 | AChaneys |
+| 1361 | 154 | Witty Twistslam |
+| 1362 | 154 | justMe |
+| 1363 | 154 | Swanky Matchpiece |
+| 1364 | 154 | Brickh4us |
+| 1365 | 154 | Jerry Gift Jr. |
+| 1366 | 154 | Danielle Barker |
+| 1367 | 153 | Kathleen Morgan |
+| 1368 | 153 | Montiette Mcglown |
+| 1369 | 153 | Brooklyn DeLong |
+| 1370 | 153 | Brittney Marie Wyrick |
+| 1371 | 153 | Michael Hissong |
+| 1372 | 153 | MxPenguin |
+| 1373 | 153 | Nathen Ro Tron |
+| 1374 | 152 | Star Hart |
+| 1375 | 152 | 1MadCat |
+| 1376 | 152 | Greg Shekailo |
+| 1377 | 152 | John Johnson |
+| 1378 | 152 | Beets |
+| 1379 | 152 | Summer_time |
+| 1380 | 151 | Paul Gurwitz |
+| 1381 | 151 | Frisky Blocky |
+| 1382 | 151 | AL |
+| 1383 | 150 | Tyler Werts |
+| 1384 | 150 | Yoemi Rivera Perez |
+| 1385 | 150 | Boldy Rollzone |
+| 1386 | 150 | Abigayle Hanson |
+| 1387 | 150 | Sherry Jones |
+| 1388 | 150 | Brittani Suzanne Jelks |
+| 1389 | 150 | Britton Gilreath |
+| 1390 | 150 | Squiggle Squish |
+| 1391 | 150 | Silly Brickline |
+| 1392 | 150 | Tracey Whetstone |
+| 1393 | 150 | SSM3128 |
+| 1394 | 150 | Jacquelyn Auman |
+| 1395 | 149 | Jumpy Tiler |
+| 1396 | 149 | Jay |
+| 1397 | 149 | Marlon Reed |
+| 1398 | 149 | Kira Hugar |
+| 1399 | 149 | S05 |
+| 1400 | 149 | Tiarra Swan |
+| 1401 | 148 | MamaBear04 |
+| 1402 | 148 | Grovenia Joy Perryman |
+| 1403 | 148 | VectorZero |
+| 1404 | 148 | April Jones |
+| 1405 | 147 | Kadi Rappold |
+| 1406 | 147 | Terta Manz |
+| 1407 | 147 | PartyStarter |
+| 1408 | 147 | aja |
+| 1409 | 147 | Fuzzy |
+| 1410 | 147 | Jodi Young |
+| 1411 | 146 | Bold Spinblock |
+| 1412 | 146 | Linda Marie Pankow |
+| 1413 | 146 | Danielle Barthelme |
+| 1414 | 145 | Plucky Rollblock |
+| 1415 | 145 | Tracy Butler |
+| 1416 | 145 | Ys Muhammed |
+| 1417 | 145 | Christina Stimson |
+| 1418 | 145 | Erica Parker |
+| 1419 | 145 | Phil |
+| 1420 | 145 | Dominiquè Conerly-Trejo |
 | 1421 | 144 | Joseph Guzman |
 | 1422 | 144 | Melanie Klump |
 | 1423 | 144 | Snippy Framezone |
