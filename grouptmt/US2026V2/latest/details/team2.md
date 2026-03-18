@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 04:28:46 UTC
+# Standings for team2 as of 2026-03-18 04:29:24 UTC
 
 **Total Participants:** 3242
 
@@ -111,8 +111,8 @@
 | 103 | 1663 | Craig Lander |
 | 104 | 1662 | Susan Fazio Edwards |
 | 105 | 1657 | Arthe3rd |
-| 106 | 1625 | Jumpy Filler |
-| 107 | 1611 | Kristina Coleman |
+| 106 | 1632 | Jumpy Filler |
+| 107 | 1631 | Kristina Coleman |
 | 108 | 1603 | Sara Morgan |
 | 109 | 1573 | Nathaniel Hardy |
 | 110 | 1568 | cat |
@@ -281,9 +281,9 @@
 | 273 | 749 | Peaches |
 | 274 | 748 | Sunny Blockline |
 | 275 | 747 | Snappy Bridgepiece |
-| 276 | 742 | Dawn Woosley Bowes |
-| 277 | 740 | Angela Bonquiqui Dinish |
-| 278 | 740 | Bia |
+| 276 | 744 | Bia |
+| 277 | 742 | Dawn Woosley Bowes |
+| 278 | 740 | Angela Bonquiqui Dinish |
 | 279 | 739 | Trista Duguay |
 | 280 | 738 | 🍏 Green apple |
 | 281 | 738 | Jessica Miles |
@@ -311,7 +311,7 @@
 | 303 | 696 | Tipsy Glidezone |
 | 304 | 692 | Carly Ann Maxwell |
 | 305 | 686 | Shelly |
-| 306 | 683 | Christian Caro |
+| 306 | 684 | Christian Caro |
 | 307 | 682 | Zappy Strikerpiece |
 | 308 | 680 | Whitney Butler |
 | 309 | 680 | Twisty Shatter |
@@ -1178,29 +1178,29 @@
 | 1170 | 184 | Shaun Talbot |
 | 1171 | 183 | Theresa Crawford |
 | 1172 | 183 | Tonya Hadsell |
-| 1173 | 182 | Alex Andi Sulistio |
-| 1174 | 182 | Dusti Holbrook |
-| 1175 | 182 | KayB |
-| 1176 | 181 | Carlos Landin |
-| 1177 | 181 | Saucy Slide |
-| 1178 | 181 | Jam4 |
-| 1179 | 181 | Laurie Raynor |
+| 1173 | 182 | Dusti Holbrook |
+| 1174 | 182 | Alex Andi Sulistio |
+| 1175 | 182 | Jai Sweetz |
+| 1176 | 182 | KayB |
+| 1177 | 181 | Laurie Raynor |
+| 1178 | 181 | Carlos Landin |
+| 1179 | 181 | Jam4 |
 | 1180 | 181 | Tonya Amen |
-| 1181 | 180 | Cheery Riserpiece |
-| 1182 | 180 | Janet Eberhard |
-| 1183 | 180 | Dickie Rice |
-| 1184 | 180 | Elizabeth Smith |
-| 1185 | 180 | Elliana |
-| 1186 | 180 | Ashley Moore |
-| 1187 | 180 | Stormy Anguish |
-| 1188 | 180 | Smellygirl |
-| 1189 | 180 | yammin |
-| 1190 | 179 | Lush Matchgrid |
+| 1181 | 181 | Saucy Slide |
+| 1182 | 180 | Dickie Rice |
+| 1183 | 180 | Janet Eberhard |
+| 1184 | 180 | Cheery Riserpiece |
+| 1185 | 180 | Elizabeth Smith |
+| 1186 | 180 | Elliana |
+| 1187 | 180 | Ashley Moore |
+| 1188 | 180 | Stormy Anguish |
+| 1189 | 180 | Smellygirl |
+| 1190 | 180 | yammin |
 | 1191 | 179 | Gracie Ann Taylor |
-| 1192 | 179 | birdie |
-| 1193 | 179 | Crystal Weaver |
-| 1194 | 179 | Amykins |
-| 1195 | 179 | Jai Sweetz |
+| 1192 | 179 | Lush Matchgrid |
+| 1193 | 179 | birdie |
+| 1194 | 179 | Crystal Weaver |
+| 1195 | 179 | Amykins |
 | 1196 | 178 | Wacky Shuffler |
 | 1197 | 178 | JinxxedMozzerella |
 | 1198 | 178 | Tdg Boyt |
@@ -2195,20 +2195,20 @@
 | 2187 | 60 | Terry Perez |
 | 2188 | 60 | Cozy Shatterfit |
 | 2189 | 60 | Somthin |
-| 2190 | 59 | Scott Betson |
-| 2191 | 59 | Odessa Scott |
-| 2192 | 59 | Froggie81 |
-| 2193 | 59 | Aleea Six |
-| 2194 | 59 | Dre Diehl |
-| 2195 | 59 | Zesty Clicker |
-| 2196 | 59 | Darr Darr |
-| 2197 | 59 | FoxesPrey |
-| 2198 | 58 | Cheeky Cascadepiece |
-| 2199 | 58 | Elizabeth Rose Fallon |
-| 2200 | 58 | Justin Freeman |
-| 2201 | 58 | Corrine Morrow |
-| 2202 | 58 | Nerdy Glidebuilder |
-| 2203 | 58 | Terrence McClain |
+| 2190 | 60 | Terrence McClain |
+| 2191 | 59 | Scott Betson |
+| 2192 | 59 | Odessa Scott |
+| 2193 | 59 | Froggie81 |
+| 2194 | 59 | Aleea Six |
+| 2195 | 59 | Dre Diehl |
+| 2196 | 59 | Zesty Clicker |
+| 2197 | 59 | Darr Darr |
+| 2198 | 59 | FoxesPrey |
+| 2199 | 58 | Cheeky Cascadepiece |
+| 2200 | 58 | Elizabeth Rose Fallon |
+| 2201 | 58 | Justin Freeman |
+| 2202 | 58 | Corrine Morrow |
+| 2203 | 58 | Nerdy Glidebuilder |
 | 2204 | 58 | Bryan De Guzman |
 | 2205 | 58 | Joshua |
 | 2206 | 58 | tee |
