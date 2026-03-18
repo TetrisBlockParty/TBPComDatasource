@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 18:42:51 UTC
+# Standings for team1 as of 2026-03-18 18:43:23 UTC
 
 **Total Participants:** 3344
 
@@ -1202,8 +1202,8 @@
 | 1194 | 212 | Cheat |
 | 1195 | 211 | SuperCass |
 | 1196 | 211 | Claudia Vidrio |
-| 1197 | 211 | Aira Rangel |
-| 1198 | 211 | Chipper Matcher |
+| 1197 | 211 | Chipper Matcher |
+| 1198 | 211 | Aira Rangel |
 | 1199 | 211 | Louise Parker |
 | 1200 | 211 | Matt Morrow |
 | 1201 | 211 | Rose Schweizer |
@@ -1219,9 +1219,9 @@
 | 1211 | 207 | Mykel Mcbreen |
 | 1212 | 207 | Zachary Diener |
 | 1213 | 207 | Sharon Panoski |
-| 1214 | 207 | Sotirios Giaouridis |
-| 1215 | 207 | April Mancuosso |
-| 1216 | 207 | Karissa Hull |
+| 1214 | 207 | Karissa Hull |
+| 1215 | 207 | Sotirios Giaouridis |
+| 1216 | 207 | April Mancuosso |
 | 1217 | 207 | Bill Willard |
 | 1218 | 206 | Kristy Howell |
 | 1219 | 206 | BriAna Nicole Adams |
@@ -1233,35 +1233,35 @@
 | 1225 | 204 | Jennifer Stone |
 | 1226 | 204 | Smelly |
 | 1227 | 204 | poopoo |
-| 1228 | 204 | Sapp |
-| 1229 | 204 | Emily Adelaide Wheatley |
-| 1230 | 204 | Joyce Todd |
-| 1231 | 204 | Giddy Dashy |
-| 1232 | 203 | Christine Foley |
-| 1233 | 203 | Nayyirah Hariyyan |
-| 1234 | 203 | Phoenix Garrett |
-| 1235 | 203 | Tyler Terrific |
-| 1236 | 203 | Adam McMakin |
-| 1237 | 203 | Kirstian Taylor Grimsley |
-| 1238 | 202 | Swanky Shatterblock |
-| 1239 | 202 | Thomas Susi |
-| 1240 | 202 | Alex Wilson Wilson |
-| 1241 | 202 | Sarah Lombardo |
-| 1242 | 202 | Kristy Burch Sells |
-| 1243 | 202 | Eddie Biernacki |
-| 1244 | 202 | Meagan Nicole |
-| 1245 | 201 | Heather Howard Thompson |
-| 1246 | 201 | BeeDub |
-| 1247 | 201 | Tabetha Craddock |
-| 1248 | 201 | Glenda Inthimat |
-| 1249 | 201 | Joyce Fees |
+| 1228 | 204 | Joyce Fees |
+| 1229 | 204 | Sapp |
+| 1230 | 204 | Emily Adelaide Wheatley |
+| 1231 | 204 | Joyce Todd |
+| 1232 | 204 | Giddy Dashy |
+| 1233 | 203 | Christine Foley |
+| 1234 | 203 | Nayyirah Hariyyan |
+| 1235 | 203 | Phoenix Garrett |
+| 1236 | 203 | Tyler Terrific |
+| 1237 | 203 | Adam McMakin |
+| 1238 | 203 | Kirstian Taylor Grimsley |
+| 1239 | 202 | Swanky Shatterblock |
+| 1240 | 202 | Thomas Susi |
+| 1241 | 202 | Alex Wilson Wilson |
+| 1242 | 202 | Sarah Lombardo |
+| 1243 | 202 | Kristy Burch Sells |
+| 1244 | 202 | Eddie Biernacki |
+| 1245 | 202 | Meagan Nicole |
+| 1246 | 201 | Heather Howard Thompson |
+| 1247 | 201 | BeeDub |
+| 1248 | 201 | Tabetha Craddock |
+| 1249 | 201 | Glenda Inthimat |
 | 1250 | 200 | Deborah Fowler |
 | 1251 | 200 | Maegen Ripley |
 | 1252 | 200 | Danielle Kollias |
 | 1253 | 200 | Goofy Balanceblock |
-| 1254 | 199 | Cedesbabii |
-| 1255 | 199 | Colleen McFadden Moldenhauer |
-| 1256 | 199 | NeNe Hazel |
+| 1254 | 199 | NeNe Hazel |
+| 1255 | 199 | Cedesbabii |
+| 1256 | 199 | Colleen McFadden Moldenhauer |
 | 1257 | 199 | Michael Phillips |
 | 1258 | 198 | Brandon Blanchard |
 | 1259 | 198 | Lora Mae Spindler Young |
