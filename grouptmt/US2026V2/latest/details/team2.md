@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 23:54:47 UTC
+# Standings for team2 as of 2026-03-18 23:55:26 UTC
 
 **Total Participants:** 3457
 
@@ -84,7 +84,7 @@
 | 76 | 2550 | Peppy Zone |
 | 77 | 2490 | Jamie Lang |
 | 78 | 2458 | Rusty Davis |
-| 79 | 2420 | Jennifer Gartland |
+| 79 | 2430 | Jennifer Gartland |
 | 80 | 2395 | Belle |
 | 81 | 2319 | Caitlin Johnson |
 | 82 | 2257 | Joshua Hopkins |
@@ -397,31 +397,31 @@
 | 389 | 630 | Brooke Sunderhaus |
 | 390 | 630 | ElayneTrekand |
 | 391 | 630 | Lewis Sturgeon |
-| 392 | 629 | Corgi Mama |
-| 393 | 629 | Jumpy Breaker |
+| 392 | 629 | Jumpy Breaker |
+| 393 | 629 | Corgi Mama |
 | 394 | 629 | Jody King |
 | 395 | 627 | Nutty Cluster |
-| 396 | 624 | Debra D. Herbert |
-| 397 | 620 | Heather Kelley |
-| 398 | 619 | Elizabeth Diraffaele |
-| 399 | 618 | Joyce |
-| 400 | 617 | Chummy Brickfit |
-| 401 | 616 | Megan Simpson |
-| 402 | 613 | Annmarie Gilreath |
-| 403 | 611 | SuZee |
-| 404 | 610 | Michelle Allers |
+| 396 | 626 | Denise |
+| 397 | 624 | Debra D. Herbert |
+| 398 | 620 | Heather Kelley |
+| 399 | 619 | Elizabeth Diraffaele |
+| 400 | 618 | Joyce |
+| 401 | 617 | Chummy Brickfit |
+| 402 | 616 | Megan Simpson |
+| 403 | 613 | Annmarie Gilreath |
+| 404 | 611 | SuZee |
 | 405 | 610 | Yoyareese |
-| 406 | 607 | smoke1 |
+| 406 | 610 | Michelle Allers |
 | 407 | 607 | Maureen Winter |
-| 408 | 606 | Kelly Elizabeth Clark |
-| 409 | 606 | Rebecca Doughman |
-| 410 | 603 | Liss Lint |
-| 411 | 601 | Jonviea Dewalt |
-| 412 | 601 | Bouncy Swiper |
-| 413 | 599 | Jazzy Piecebuilder |
-| 414 | 596 | Jen |
+| 408 | 607 | smoke1 |
+| 409 | 606 | Kelly Elizabeth Clark |
+| 410 | 606 | Rebecca Doughman |
+| 411 | 603 | Liss Lint |
+| 412 | 601 | Jonviea Dewalt |
+| 413 | 601 | Bouncy Swiper |
+| 414 | 599 | Jazzy Piecebuilder |
 | 415 | 596 | Desi Desporte |
-| 416 | 596 | Denise |
+| 416 | 596 | Jen |
 | 417 | 595 | bestme |
 | 418 | 594 | Halstead47K |
 | 419 | 594 | JTH |
@@ -446,8 +446,8 @@
 | 438 | 574 | Jenn Dandle |
 | 439 | 572 | LeNae TwoBarbie McEachin |
 | 440 | 571 | Jocelyn Jauregui |
-| 441 | 569 | Lucy Honer |
-| 442 | 569 | Charleen Beyer |
+| 441 | 569 | Charleen Beyer |
+| 442 | 569 | Lucy Honer |
 | 443 | 567 | Giggly Shiftsnap |
 | 444 | 567 | Kate |
 | 445 | 566 | Troy |
@@ -611,10 +611,10 @@
 | 603 | 440 | Jaci Marie |
 | 604 | 440 | candypants |
 | 605 | 440 | Witty T-spin |
-| 606 | 438 | Nicole McLean |
-| 607 | 438 | DeathToBizzle |
-| 608 | 435 | Frisky Zonepiece |
-| 609 | 435 | Dizzy Brickline |
+| 606 | 439 | Dizzy Brickline |
+| 607 | 438 | Nicole McLean |
+| 608 | 438 | DeathToBizzle |
+| 609 | 435 | Frisky Zonepiece |
 | 610 | 435 | Christopher Lee Martinez |
 | 611 | 434 | Glitzy Rollblock |
 | 612 | 433 | Jess |
@@ -704,15 +704,15 @@
 | 696 | 380 | Lucas J Sutton |
 | 697 | 379 | Amy Yearta |
 | 698 | 378 | De Yske |
-| 699 | 378 | Steve |
-| 700 | 375 | Tracy Glesmann |
-| 701 | 375 | Zany Rotater |
-| 702 | 374 | SportyRabbit51 |
-| 703 | 373 | Nutty Snapper |
-| 704 | 373 | BuzyBee |
-| 705 | 372 | Wes Ross |
-| 706 | 372 | Dda |
-| 707 | 371 | Melissa Boldt |
+| 699 | 378 | Melissa Boldt |
+| 700 | 378 | Steve |
+| 701 | 375 | Tracy Glesmann |
+| 702 | 375 | Zany Rotater |
+| 703 | 374 | SportyRabbit51 |
+| 704 | 373 | Nutty Snapper |
+| 705 | 373 | BuzyBee |
+| 706 | 372 | Wes Ross |
+| 707 | 372 | Dda |
 | 708 | 371 | Porsche' Nicole |
 | 709 | 371 | Luna |
 | 710 | 370 | Cheeky Clearbuilder |
@@ -1617,83 +1617,83 @@
 | 1609 | 138 | gymjim |
 | 1610 | 138 | Parker Demarest |
 | 1611 | 138 | Cozmo |
-| 1612 | 137 | Jeremiah Rayborn |
-| 1613 | 137 | BouncyAries |
-| 1614 | 137 | DieM Flood |
-| 1615 | 137 | Steven Bell |
-| 1616 | 137 | Jennifer Lopez |
-| 1617 | 137 | Lilykye |
-| 1618 | 137 | Chrystyne |
-| 1619 | 137 | Danielle Beaupre |
-| 1620 | 137 | Dreamy Stacky |
-| 1621 | 136 | Fart |
-| 1622 | 136 | Samuel George |
-| 1623 | 136 | Bold Gridclear |
-| 1624 | 136 | Alboo |
-| 1625 | 136 | Jennifer Pleasant |
-| 1626 | 136 | Angel Raya |
-| 1627 | 136 | Ellen Frye |
-| 1628 | 135 | CLA |
-| 1629 | 135 | Jessica Venable |
-| 1630 | 135 | Dizzy Linkpiece |
-| 1631 | 135 | Christina Nabrizny |
-| 1632 | 135 | Diana Fowler |
-| 1633 | 135 | Spohnkiller |
-| 1634 | 135 | Lazy Edgefit |
-| 1635 | 135 | Elizabeth Reynolds |
-| 1636 | 135 | Malinda Dickson Lilly |
-| 1637 | 135 | Swanky Snapmatch |
-| 1638 | 134 | Tipsy Blockline |
-| 1639 | 134 | Mine Mine |
-| 1640 | 134 | Ariel Whittington |
-| 1641 | 134 | Major Pain |
-| 1642 | 134 | Reginald Harvey |
-| 1643 | 134 | Dai Bo |
-| 1644 | 134 | Tosha Whitted |
-| 1645 | 134 | Lazy Balancepiece |
-| 1646 | 134 | MusicMaster |
-| 1647 | 134 | Alejandra Tomasa Garcia-ramirez |
-| 1648 | 133 | Chris Watson |
-| 1649 | 133 | Cozy Clearbuilder |
-| 1650 | 133 | GoblinHatcher |
-| 1651 | 133 | Amanda Conaghan |
-| 1652 | 133 | Shiny Zonegrid |
-| 1653 | 133 | Alexia Boston |
-| 1654 | 133 | Trisha Balmer |
-| 1655 | 133 | Brandi Quick |
-| 1656 | 133 | Jeronica Jamerson |
-| 1657 | 132 | Loony Gridder |
-| 1658 | 132 | Ferita Henderson |
-| 1659 | 132 | Lush Edgepiece |
-| 1660 | 132 | Katie Bolich |
-| 1661 | 132 | April |
-| 1662 | 132 | Twisty Corner |
-| 1663 | 132 | Ellie Cook |
-| 1664 | 131 | Beckii Beckford |
-| 1665 | 131 | Brave Tilebuilder |
-| 1666 | 131 | k8y |
-| 1667 | 131 | Honu Noste |
-| 1668 | 131 | Lab2dablock |
-| 1669 | 131 | Michelle |
-| 1670 | 131 | Meals'n Melodies |
-| 1671 | 131 | Carla B Linker |
-| 1672 | 131 | nogo |
-| 1673 | 130 | Tonya |
-| 1674 | 130 | Hope Evans-Jansen |
-| 1675 | 130 | Cranky Holder |
-| 1676 | 130 | Helen Smith |
-| 1677 | 130 | Rose Clark |
-| 1678 | 130 | Natasha Magathan |
-| 1679 | 130 | Stevon Green |
-| 1680 | 130 | Krystyna Hernandez |
-| 1681 | 130 | Tina Franklin |
-| 1682 | 130 | Goofy Basegrid |
-| 1683 | 129 | Wanda Yvette Daniels |
-| 1684 | 129 | Lavella Tburg |
-| 1685 | 129 | Giddy Mover |
-| 1686 | 129 | Roxie Garza |
-| 1687 | 129 | Michael Reavis |
-| 1688 | 129 | andylanddd |
+| 1612 | 138 | Mine Mine |
+| 1613 | 137 | Danielle Beaupre |
+| 1614 | 137 | Dreamy Stacky |
+| 1615 | 137 | Jeremiah Rayborn |
+| 1616 | 137 | BouncyAries |
+| 1617 | 137 | DieM Flood |
+| 1618 | 137 | Steven Bell |
+| 1619 | 137 | Jennifer Lopez |
+| 1620 | 137 | Lilykye |
+| 1621 | 137 | Chrystyne |
+| 1622 | 136 | Alboo |
+| 1623 | 136 | Jennifer Pleasant |
+| 1624 | 136 | Angel Raya |
+| 1625 | 136 | Ellen Frye |
+| 1626 | 136 | Fart |
+| 1627 | 136 | Samuel George |
+| 1628 | 136 | Bold Gridclear |
+| 1629 | 135 | Spohnkiller |
+| 1630 | 135 | Lazy Edgefit |
+| 1631 | 135 | Elizabeth Reynolds |
+| 1632 | 135 | Malinda Dickson Lilly |
+| 1633 | 135 | Swanky Snapmatch |
+| 1634 | 135 | CLA |
+| 1635 | 135 | Jessica Venable |
+| 1636 | 135 | Dizzy Linkpiece |
+| 1637 | 135 | Christina Nabrizny |
+| 1638 | 135 | Diana Fowler |
+| 1639 | 134 | Ariel Whittington |
+| 1640 | 134 | Major Pain |
+| 1641 | 134 | Reginald Harvey |
+| 1642 | 134 | Dai Bo |
+| 1643 | 134 | Tosha Whitted |
+| 1644 | 134 | Lazy Balancepiece |
+| 1645 | 134 | MusicMaster |
+| 1646 | 134 | Alejandra Tomasa Garcia-ramirez |
+| 1647 | 134 | Tipsy Blockline |
+| 1648 | 133 | Jeronica Jamerson |
+| 1649 | 133 | Chris Watson |
+| 1650 | 133 | Cozy Clearbuilder |
+| 1651 | 133 | GoblinHatcher |
+| 1652 | 133 | Amanda Conaghan |
+| 1653 | 133 | Shiny Zonegrid |
+| 1654 | 133 | Alexia Boston |
+| 1655 | 133 | Trisha Balmer |
+| 1656 | 133 | Brandi Quick |
+| 1657 | 132 | Katie Bolich |
+| 1658 | 132 | April |
+| 1659 | 132 | Twisty Corner |
+| 1660 | 132 | Ellie Cook |
+| 1661 | 132 | Loony Gridder |
+| 1662 | 132 | Ferita Henderson |
+| 1663 | 132 | Lush Edgepiece |
+| 1664 | 131 | Michelle |
+| 1665 | 131 | Meals'n Melodies |
+| 1666 | 131 | Carla B Linker |
+| 1667 | 131 | nogo |
+| 1668 | 131 | Beckii Beckford |
+| 1669 | 131 | Brave Tilebuilder |
+| 1670 | 131 | k8y |
+| 1671 | 131 | Honu Noste |
+| 1672 | 131 | Lab2dablock |
+| 1673 | 130 | Rose Clark |
+| 1674 | 130 | Natasha Magathan |
+| 1675 | 130 | Stevon Green |
+| 1676 | 130 | Krystyna Hernandez |
+| 1677 | 130 | Tina Franklin |
+| 1678 | 130 | Goofy Basegrid |
+| 1679 | 130 | Tonya |
+| 1680 | 130 | Hope Evans-Jansen |
+| 1681 | 130 | Cranky Holder |
+| 1682 | 130 | Helen Smith |
+| 1683 | 129 | Roxie Garza |
+| 1684 | 129 | Michael Reavis |
+| 1685 | 129 | andylanddd |
+| 1686 | 129 | Wanda Yvette Daniels |
+| 1687 | 129 | Lavella Tburg |
+| 1688 | 129 | Giddy Mover |
 | 1689 | 128 | Lynette Manning |
 | 1690 | 128 | CocoKatt |
 | 1691 | 128 | Lorrie Landry |
