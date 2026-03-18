@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 10:44:52 UTC
+# Standings for team2 as of 2026-03-18 10:45:29 UTC
 
 **Total Participants:** 3287
 
@@ -108,7 +108,7 @@
 | 100 | 1752 | Cheery Dropper |
 | 101 | 1752 | Joeyalan Sullivan |
 | 102 | 1748 | Kristina Custer |
-| 103 | 1718 | Jumpy Filler |
+| 103 | 1724 | Jumpy Filler |
 | 104 | 1714 | Dapper Gridclear |
 | 105 | 1678 | Minxy |
 | 106 | 1677 | Susan Fazio Edwards |
@@ -1084,8 +1084,8 @@
 | 1076 | 214 | Ryan Martin |
 | 1077 | 213 | Staybutterfly |
 | 1078 | 213 | Logan Abbott |
-| 1079 | 212 | bubbles |
-| 1080 | 212 | Chewy Chewy |
+| 1079 | 212 | Chewy Chewy |
+| 1080 | 212 | bubbles |
 | 1081 | 212 | Kell Cinn |
 | 1082 | 211 | Christa Ybarra |
 | 1083 | 211 | Lizzy44@ |
@@ -1098,11 +1098,11 @@
 | 1090 | 209 | Queen |
 | 1091 | 209 | Stitch Aura |
 | 1092 | 209 | Danielle Smith |
-| 1093 | 208 | Erica |
-| 1094 | 208 | em |
-| 1095 | 208 | Scruffy Rose |
-| 1096 | 207 | Lori Bales |
-| 1097 | 206 | Chipper Clearzone |
+| 1093 | 209 | Chipper Clearzone |
+| 1094 | 208 | Erica |
+| 1095 | 208 | em |
+| 1096 | 208 | Scruffy Rose |
+| 1097 | 207 | Lori Bales |
 | 1098 | 206 | Gillian Hiltbold |
 | 1099 | 206 | Jazmin Santos |
 | 1100 | 206 | Katie |
@@ -1656,43 +1656,43 @@
 | 1648 | 117 | Quintis Steemer |
 | 1649 | 117 | Krystyna Hernandez |
 | 1650 | 117 | Shanon Klair |
-| 1651 | 117 | Giggy Grid |
-| 1652 | 117 | Zesty Faller |
-| 1653 | 117 | Brenda Nelson-noles |
+| 1651 | 117 | Amanda Conaghan |
+| 1652 | 117 | Giggy Grid |
+| 1653 | 117 | Zesty Faller |
 | 1654 | 117 | Sarah |
-| 1655 | 117 | Fred Yslas |
-| 1656 | 116 | Giggy Slam |
-| 1657 | 116 | Samuel George |
-| 1658 | 116 | Katrina Flatten |
-| 1659 | 116 | Heather Gallick |
-| 1660 | 116 | Chill Tilefall |
-| 1661 | 116 | Zany Blockfall |
-| 1662 | 116 | Arson Fox |
-| 1663 | 116 | Danielle Carle |
+| 1655 | 117 | Brenda Nelson-noles |
+| 1656 | 117 | Fred Yslas |
+| 1657 | 116 | Giggy Slam |
+| 1658 | 116 | Samuel George |
+| 1659 | 116 | Katrina Flatten |
+| 1660 | 116 | Heather Gallick |
+| 1661 | 116 | Chill Tilefall |
+| 1662 | 116 | Zany Blockfall |
+| 1663 | 116 | Arson Fox |
 | 1664 | 116 | carole57 |
 | 1665 | 116 | Robert Waagmeester |
-| 1666 | 115 | Amanda Conaghan |
-| 1667 | 115 | Pamela Knapp |
-| 1668 | 115 | Shay Mc |
+| 1666 | 116 | Danielle Carle |
+| 1667 | 115 | Shay Mc |
+| 1668 | 115 | Pamela Knapp |
 | 1669 | 114 | Lilypop |
-| 1670 | 114 | Poppy Snap |
-| 1671 | 114 | Breezy Patternzone |
-| 1672 | 114 | Annette Henderson |
-| 1673 | 114 | Brian Marsico |
-| 1674 | 114 | Brittany Gent |
-| 1675 | 114 | Jeremiah Rayborn |
-| 1676 | 114 | Rosie |
+| 1670 | 114 | Jeremiah Rayborn |
+| 1671 | 114 | Poppy Snap |
+| 1672 | 114 | Breezy Patternzone |
+| 1673 | 114 | Brittany Gent |
+| 1674 | 114 | Brian Marsico |
+| 1675 | 114 | Rosie |
+| 1676 | 114 | Annette Henderson |
 | 1677 | 114 | Janelle Rose Durr |
 | 1678 | 113 | Kristen Tucker |
-| 1679 | 113 | Cool Cornerfall |
-| 1680 | 113 | Savvlexx |
-| 1681 | 113 | Johnboom317 |
+| 1679 | 113 | Johnboom317 |
+| 1680 | 113 | Cool Cornerfall |
+| 1681 | 113 | cherry 🍒pie |
 | 1682 | 113 | boycat3 |
-| 1683 | 113 | cherry 🍒pie |
-| 1684 | 112 | gymjim |
-| 1685 | 112 | Stacey Sanders |
+| 1683 | 113 | Savvlexx |
+| 1684 | 112 | Malikah Coleman |
+| 1685 | 112 | gymjim |
 | 1686 | 112 | Mighty Slide |
-| 1687 | 112 | Malikah Coleman |
+| 1687 | 112 | Stacey Sanders |
 | 1688 | 112 | Loony Gridder |
 | 1689 | 112 | Keysha White |
 | 1690 | 112 | Speedy Curvebuilder |
