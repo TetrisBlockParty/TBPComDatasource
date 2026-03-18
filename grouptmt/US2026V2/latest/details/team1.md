@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 09:10:19 UTC
+# Standings for team1 as of 2026-03-18 09:10:47 UTC
 
 **Total Participants:** 3240
 
@@ -102,15 +102,15 @@
 | 94 | 2124 | Darci Cline |
 | 95 | 2089 | Ryry |
 | 96 | 2077 | Robert Everett |
-| 97 | 2018 | Fancy Shuffler |
+| 97 | 2038 | Fancy Shuffler |
 | 98 | 1979 | Chrys Peters |
 | 99 | 1970 | Christina Costantino |
 | 100 | 1959 | Brandon Hill |
 | 101 | 1955 | Carrie Trigg |
 | 102 | 1928 | Amy R Clinton |
 | 103 | 1923 | Tanya Bailey |
-| 104 | 1906 | Spunky Snapfit |
-| 105 | 1906 | Amanda Richardson |
+| 104 | 1906 | Amanda Richardson |
+| 105 | 1906 | Spunky Snapfit |
 | 106 | 1893 | Justin Jerome |
 | 107 | 1873 | FancyPants |
 | 108 | 1871 | Ellie Bein |
@@ -141,8 +141,8 @@
 | 133 | 1600 | Annie B. |
 | 134 | 1597 | Timothy Long |
 | 135 | 1564 | Mikitta Calvin |
-| 136 | 1559 | Chalandra Donahue |
-| 137 | 1559 | Joy Bloodworth |
+| 136 | 1559 | Joy Bloodworth |
+| 137 | 1559 | Chalandra Donahue |
 | 138 | 1554 | Jodie Peterson |
 | 139 | 1537 | Legendary |
 | 140 | 1532 | Charis Stoner |
@@ -170,10 +170,10 @@
 | 162 | 1353 | Velvet Rarick |
 | 163 | 1352 | Michael DeRosa |
 | 164 | 1350 | Nyki Marie |
-| 165 | 1315 | Jevon Griffith |
-| 166 | 1314 | Sarah Durmer |
-| 167 | 1306 | Porshe Garthwaite |
-| 168 | 1298 | Kris Hudelson |
+| 165 | 1346 | Kris Hudelson |
+| 166 | 1315 | Jevon Griffith |
+| 167 | 1314 | Sarah Durmer |
+| 168 | 1306 | Porshe Garthwaite |
 | 169 | 1283 | TotoCherue |
 | 170 | 1279 | Ken McDonald |
 | 171 | 1277 | Ma Shwe Myint |
@@ -719,76 +719,76 @@
 | 711 | 343 | Qoo |
 | 712 | 343 | Mandy Kachenmeister |
 | 713 | 343 | Dawn Fike |
-| 714 | 343 | Melody Rene |
-| 715 | 343 | Izzie Ramirez-Ford |
-| 716 | 342 | Crystal Rosen |
-| 717 | 342 | Lauren Bond |
-| 718 | 341 | Epic Rollbuilder |
-| 719 | 341 | Tracie Corbett |
-| 720 | 341 | Nate Funk |
-| 721 | 341 | Jason Whitehair |
-| 722 | 340 | Jonathan Carter |
-| 723 | 340 | Aseven Elements |
+| 714 | 343 | Izzie Ramirez-Ford |
+| 715 | 343 | Melody Rene |
+| 716 | 342 | Lauren Bond |
+| 717 | 342 | Crystal Rosen |
+| 718 | 341 | Jason Whitehair |
+| 719 | 341 | Epic Rollbuilder |
+| 720 | 341 | Tracie Corbett |
+| 721 | 341 | Nate Funk |
+| 722 | 340 | Aseven Elements |
+| 723 | 340 | Jonathan Carter |
 | 724 | 340 | NoIdeaWhatsGoingOn |
 | 725 | 340 | Ed Bullen |
-| 726 | 339 | Ashley Cox |
-| 727 | 339 | Eric Wren |
-| 728 | 338 | OzzyFan4Life |
-| 729 | 338 | Scott Disedare |
+| 726 | 339 | Eric Wren |
+| 727 | 339 | Ashley Cox |
+| 728 | 338 | Scott Disedare |
+| 729 | 338 | OzzyFan4Life |
 | 730 | 337 | Carrie Beth |
 | 731 | 337 | Lisa Klockenga |
 | 732 | 336 | Jen |
-| 733 | 335 | Kian Lee Goins |
-| 734 | 335 | Kimberly Amburn |
-| 735 | 334 | Tee Tee Greene |
-| 736 | 334 | M |
+| 733 | 335 | Kimberly Amburn |
+| 734 | 335 | Kian Lee Goins |
+| 735 | 334 | M |
+| 736 | 334 | Tee Tee Greene |
 | 737 | 333 | Christi Ames |
-| 738 | 332 | primus |
-| 739 | 332 | Misty Blanchard |
-| 740 | 331 | Abcmasters12 |
-| 741 | 331 | Ian Silva |
-| 742 | 330 | Lilyandstuff |
-| 743 | 330 | LovelyGem0610 |
+| 738 | 332 | Misty Blanchard |
+| 739 | 332 | primus |
+| 740 | 331 | Ian Silva |
+| 741 | 331 | Abcmasters12 |
+| 742 | 330 | LovelyGem0610 |
+| 743 | 330 | Matthew Allan |
 | 744 | 330 | Jessica Russell |
-| 745 | 330 | Matthew Allan |
+| 745 | 330 | Lilyandstuff |
 | 746 | 329 | Ellen Durfee |
-| 747 | 328 | Sassy Pivotfall |
-| 748 | 328 | Olympia |
-| 749 | 328 | Tessa N Davis |
+| 747 | 328 | Tessa N Davis |
+| 748 | 328 | Sassy Pivotfall |
+| 749 | 328 | Olympia |
 | 750 | 327 | Anthony Scarberry |
 | 751 | 327 | Lively Patternfall |
 | 752 | 326 | Jennifer Grubbs |
 | 753 | 326 | Hasbro Bros |
 | 754 | 326 | Quaheem Brown-Riley |
-| 755 | 325 | Melinda Perry Frazier |
-| 756 | 325 | Kevin Tate |
-| 757 | 325 | Astrid C-l |
+| 755 | 325 | Astrid C-l |
+| 756 | 325 | Melinda Perry Frazier |
+| 757 | 325 | Kevin Tate |
 | 758 | 324 | Brandi Poulisse Knippling |
 | 759 | 323 | PRICHARD |
 | 760 | 323 | Chase Bristow |
-| 761 | 322 | Bigd486 |
-| 762 | 322 | Cassi Owens |
-| 763 | 322 | Armoni |
-| 764 | 322 | mikey |
+| 761 | 322 | Cassi Owens |
+| 762 | 322 | ThunderSword |
+| 763 | 322 | mikey |
+| 764 | 322 | Armoni |
 | 765 | 322 | Jessica |
-| 766 | 322 | ThunderSword |
+| 766 | 322 | Bigd486 |
 | 767 | 320 | Poppy Builderline |
-| 768 | 320 | Agustin Duarte Orozco |
-| 769 | 320 | NunYa |
-| 770 | 319 | Noelle Cicchillo |
-| 771 | 319 | Jolly Buildgrid |
+| 768 | 320 | NunYa |
+| 769 | 320 | Agustin Duarte Orozco |
+| 770 | 319 | Jolly Buildgrid |
+| 771 | 319 | Noelle Cicchillo |
 | 772 | 317 | Shaneeka Morrissette |
 | 773 | 317 | Flashy Dasher |
-| 774 | 316 | Maria Lopez |
-| 775 | 316 | Heather Burroughs |
-| 776 | 316 | jeh |
-| 777 | 315 | Tiffani J West |
+| 774 | 317 | Cozy Cascader |
+| 775 | 316 | jeh |
+| 776 | 316 | Maria Lopez |
+| 777 | 316 | Heather Burroughs |
 | 778 | 315 | Jessi Godsey |
-| 779 | 315 | Courtney Jones |
-| 780 | 315 | b430 |
-| 781 | 315 | Cozy Cascader |
-| 782 | 314 | Giggly Rotate |
-| 783 | 314 | Sabrina Mansfield |
+| 779 | 315 | Tiffani J West |
+| 780 | 315 | Courtney Jones |
+| 781 | 315 | b430 |
+| 782 | 314 | Sabrina Mansfield |
+| 783 | 314 | Giggly Rotate |
 | 784 | 314 | Sue Foreman |
 | 785 | 313 | Epic Fallzone |
 | 786 | 313 | Andrew Duron |
@@ -2888,8 +2888,8 @@
 | 2880 | 20 | Lacey Wilson |
 | 2881 | 20 | Stephanie Hutchinson |
 | 2882 | 20 | Redyps Oner |
-| 2883 | 20 | Sylvia L. Vasquez |
-| 2884 | 20 | Day Key |
+| 2883 | 20 | Day Key |
+| 2884 | 20 | Sylvia L. Vasquez |
 | 2885 | 20 | Home Plate |
 | 2886 | 20 | Jennifer O Robinson |
 | 2887 | 20 | Eric A Sabino |
@@ -2929,44 +2929,44 @@
 | 2921 | 19 | Juju |
 | 2922 | 19 | Cardman Kman |
 | 2923 | 19 | Kristin Bailey |
-| 2924 | 19 | Nikkip |
-| 2925 | 19 | Frisky Tiltpiece |
-| 2926 | 19 | Chirpy Glidezone |
-| 2927 | 19 | Zodiak55 |
-| 2928 | 18 | Dorian Alexander Wisniewski |
+| 2924 | 19 | Captain Gman |
+| 2925 | 19 | Nikkip |
+| 2926 | 19 | Frisky Tiltpiece |
+| 2927 | 19 | Chirpy Glidezone |
+| 2928 | 19 | Zodiak55 |
 | 2929 | 18 | Darryl W Nauck Jr. |
 | 2930 | 18 | Loopy Stackzone |
-| 2931 | 18 | Michael Brady |
-| 2932 | 18 | Kim Burnside |
-| 2933 | 18 | Heather Hanak |
-| 2934 | 18 | Sheila Davis |
-| 2935 | 18 | Gee Hill |
-| 2936 | 18 | Holly Julian |
-| 2937 | 18 | Aaron |
-| 2938 | 18 | Helani Kihe |
-| 2939 | 18 | Idaho |
-| 2940 | 18 | N2 |
-| 2941 | 18 | om |
-| 2942 | 18 | Pat Weast |
-| 2943 | 18 | Cuddie28 |
-| 2944 | 18 | Jolly Joy |
-| 2945 | 18 | Trixster |
-| 2946 | 18 | Candice Carasiti |
-| 2947 | 17 | Laya38 |
-| 2948 | 17 | Larry |
-| 2949 | 17 | Wayne Yando |
-| 2950 | 17 | Frank Prince |
-| 2951 | 17 | Brennin Osenbaugh |
-| 2952 | 17 | Toni Forbus |
-| 2953 | 17 | Teresa Dison |
-| 2954 | 17 | Tiffnay Burts |
-| 2955 | 17 | Captain Gman |
+| 2931 | 18 | Dorian Alexander Wisniewski |
+| 2932 | 18 | Michael Brady |
+| 2933 | 18 | Sheila Davis |
+| 2934 | 18 | Heather Hanak |
+| 2935 | 18 | Kim Burnside |
+| 2936 | 18 | Gee Hill |
+| 2937 | 18 | Holly Julian |
+| 2938 | 18 | Aaron |
+| 2939 | 18 | Helani Kihe |
+| 2940 | 18 | Idaho |
+| 2941 | 18 | N2 |
+| 2942 | 18 | om |
+| 2943 | 18 | Pat Weast |
+| 2944 | 18 | Cuddie28 |
+| 2945 | 18 | Jolly Joy |
+| 2946 | 18 | Trixster |
+| 2947 | 18 | Candice Carasiti |
+| 2948 | 17 | Laya38 |
+| 2949 | 17 | Larry |
+| 2950 | 17 | Wayne Yando |
+| 2951 | 17 | Frank Prince |
+| 2952 | 17 | Brennin Osenbaugh |
+| 2953 | 17 | Toni Forbus |
+| 2954 | 17 | Teresa Dison |
+| 2955 | 17 | Tiffnay Burts |
 | 2956 | 17 | LaChrisha Baugh |
 | 2957 | 17 | Peppy Linkbuilder |
-| 2958 | 16 | Steven |
-| 2959 | 16 | Adma |
-| 2960 | 16 | Josh Blevins |
-| 2961 | 16 | Ramona Kelley |
+| 2958 | 16 | Ramona Kelley |
+| 2959 | 16 | Josh Blevins |
+| 2960 | 16 | Steven |
+| 2961 | 16 | Adma |
 | 2962 | 16 | DeeDee Donaldson |
 | 2963 | 16 | QueenBea13 |
 | 2964 | 16 | Joe Dardar |
@@ -2999,10 +2999,10 @@
 | 2991 | 15 | WasagaSqueezer |
 | 2992 | 15 | Samie |
 | 2993 | 15 | Sunny Tumbler |
-| 2994 | 15 | Wendy Brock |
-| 2995 | 15 | Kathy Harvill Smith |
+| 2994 | 15 | Brandon Cornett |
+| 2995 | 15 | Wendy Brock |
 | 2996 | 15 | Bob Bowers |
-| 2997 | 15 | Brandon Cornett |
+| 2997 | 15 | Kathy Harvill Smith |
 | 2998 | 15 | Nicole Eastman |
 | 2999 | 15 | Deedee Dum |
 | 3000 | 15 | eddy34471 |
