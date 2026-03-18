@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 09:30:45 UTC
+# Standings for team2 as of 2026-03-18 09:31:21 UTC
 
 **Total Participants:** 3286
 
@@ -746,81 +746,81 @@
 | 738 | 318 | Lady Love |
 | 739 | 318 | Sbs |
 | 740 | 317 | Brave Swiper |
-| 741 | 316 | Miranda Taylor |
-| 742 | 316 | Kristina Hill Perez |
-| 743 | 316 | Cristina Black |
-| 744 | 316 | Carey Kyle |
+| 741 | 316 | Cristina Black |
+| 742 | 316 | Carey Kyle |
+| 743 | 316 | Kristina Hill Perez |
+| 744 | 316 | Miranda Taylor |
 | 745 | 316 | Iris Ortiz |
 | 746 | 315 | Sassy Queen |
 | 747 | 315 | SD Temple |
-| 748 | 314 | Lydia Greenman |
-| 749 | 314 | Frances Hui |
-| 750 | 313 | Carlton Unfiltered |
-| 751 | 313 | Cheeky Clearbuilder |
+| 748 | 314 | Frances Hui |
+| 749 | 314 | Lydia Greenman |
+| 750 | 313 | Cheeky Clearbuilder |
+| 751 | 313 | Carlton Unfiltered |
 | 752 | 313 | Chiran Xu |
-| 753 | 312 | Casandra Alisa Rocker |
-| 754 | 312 | Toni Codynah |
-| 755 | 312 | Lemon Bar |
-| 756 | 311 | Tony Maple |
-| 757 | 310 | Susan Larson |
-| 758 | 310 | Dimitra Zazara |
+| 753 | 312 | Toni Codynah |
+| 754 | 312 | Melanie Corum Reynolds |
+| 755 | 312 | Casandra Alisa Rocker |
+| 756 | 312 | Lemon Bar |
+| 757 | 311 | Tony Maple |
+| 758 | 310 | Susan Larson |
 | 759 | 310 | SpiritSpeaker |
-| 760 | 310 | Tanya Bullert |
-| 761 | 309 | Melanie Corum Reynolds |
+| 760 | 310 | Dimitra Zazara |
+| 761 | 310 | Tanya Bullert |
 | 762 | 309 | David V. Bowers |
-| 763 | 308 | Volley |
-| 764 | 308 | Marcie McLain Dodd |
-| 765 | 308 | Glitzy Bricky |
+| 763 | 308 | Marcie McLain Dodd |
+| 764 | 308 | Glitzy Bricky |
+| 765 | 308 | Volley |
 | 766 | 308 | Dizzy Brickbuilder |
 | 767 | 307 | Ownlane Rico |
 | 768 | 306 | Happy Link |
 | 769 | 305 | Joe England |
 | 770 | 304 | Nerdy Rollzone |
-| 771 | 303 | Sara Knapp |
-| 772 | 303 | Halie Geesey |
+| 771 | 303 | Halie Geesey |
+| 772 | 303 | Sara Knapp |
 | 773 | 302 | Cami Jones |
 | 774 | 302 | BuzyBee |
 | 775 | 302 | Rcw |
 | 776 | 301 | Chirpy Zoney |
 | 777 | 300 | Kevin Stultz |
 | 778 | 300 | TiffanyJ |
-| 779 | 299 | Weeping Angel |
-| 780 | 299 | Morgan Anne Witty |
+| 779 | 299 | Morgan Anne Witty |
+| 780 | 299 | Weeping Angel |
 | 781 | 299 | Isabelle Heineck |
 | 782 | 298 | Staci George Fitzsimmons |
-| 783 | 298 | Snippy Framezone |
+| 783 | 298 | Ariel |
 | 784 | 298 | Deborah Potts |
-| 785 | 298 | Ariel |
-| 786 | 297 | Twisty Risebuilder |
-| 787 | 297 | Ms. Blue |
-| 788 | 297 | Ashby Ray |
-| 789 | 297 | Snazzy Cascade |
+| 785 | 298 | Snippy Framezone |
+| 786 | 297 | Ashby Ray |
+| 787 | 297 | Snazzy Cascade |
+| 788 | 297 | Twisty Risebuilder |
+| 789 | 297 | Ms. Blue |
 | 790 | 296 | Yany |
-| 791 | 295 | Colin Morgan |
-| 792 | 295 | Hyper Pop |
-| 793 | 294 | Katie Hughes |
-| 794 | 294 | Leslie Clark |
-| 795 | 293 | Circuit8 |
-| 796 | 293 | Cheery Clearfit |
-| 797 | 292 | Sarah Moyer |
-| 798 | 292 | Giggly Shatterline |
-| 799 | 291 | エリカ エンフバヤル |
-| 800 | 291 | Terrie Swift |
-| 801 | 291 | Janai Vrabel |
+| 791 | 295 | Hyper Pop |
+| 792 | 295 | Colin Morgan |
+| 793 | 294 | Leslie Clark |
+| 794 | 294 | Katie Hughes |
+| 795 | 293 | Cheery Clearfit |
+| 796 | 293 | Circuit8 |
+| 797 | 292 | Giggly Shatterline |
+| 798 | 292 | Sarah Moyer |
+| 799 | 291 | Terrie Swift |
+| 800 | 291 | Janai Vrabel |
+| 801 | 291 | nklstl |
 | 802 | 291 | Natasha |
-| 803 | 291 | nklstl |
+| 803 | 291 | エリカ エンフバヤル |
 | 804 | 291 | Tifatot |
 | 805 | 291 | Cari Barnes |
-| 806 | 290 | Heather Watson |
-| 807 | 290 | Paula Little |
+| 806 | 290 | Adrian Ribellia |
+| 807 | 290 | Heather Watson |
 | 808 | 290 | AarshiyasMommy |
 | 809 | 290 | Paula Marcus Delsigne |
-| 810 | 290 | Adrian Ribellia |
+| 810 | 290 | Paula Little |
 | 811 | 289 | Quags |
 | 812 | 287 | Joyce Murff |
 | 813 | 287 | Marcus Todd |
-| 814 | 287 | Neva Blum |
-| 815 | 287 | Star |
+| 814 | 287 | Star |
+| 815 | 287 | Neva Blum |
 | 816 | 287 | Poppy Matchclear |
 | 817 | 286 | Wes Ross |
 | 818 | 286 | Holly Jolly |

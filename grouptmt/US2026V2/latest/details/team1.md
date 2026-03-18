@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 09:30:45 UTC
+# Standings for team1 as of 2026-03-18 09:31:21 UTC
 
 **Total Participants:** 3241
 
@@ -1981,81 +1981,81 @@
 | 1973 | 80 | ppp |
 | 1974 | 80 | Ellen |
 | 1975 | 80 | Zesty Curvebuilder |
-| 1976 | 79 | Swanky Tiltpiece |
-| 1977 | 79 | Swanky Tetrisline |
-| 1978 | 79 | Gfly |
-| 1979 | 79 | Ethan Balling |
+| 1976 | 79 | Ethan Balling |
+| 1977 | 79 | Gfly |
+| 1978 | 79 | Swanky Tetrisline |
+| 1979 | 79 | Swanky Tiltpiece |
 | 1980 | 79 | Glitzy Linkpiece |
 | 1981 | 79 | Saucy curvr |
-| 1982 | 79 | Marcia Crumpton |
-| 1983 | 79 | Happy Snapline |
-| 1984 | 78 | Brandi Taylor |
-| 1985 | 78 | Sue Carpenter |
-| 1986 | 78 | Alex Johnson-nelson |
-| 1987 | 78 | Lisa Gayle Skinner |
-| 1988 | 78 | sadi |
-| 1989 | 78 | Nora Smith |
-| 1990 | 78 | Snippy Base |
-| 1991 | 78 | Witty Towerfit |
+| 1982 | 79 | Happy Snapline |
+| 1983 | 79 | Marcia Crumpton |
+| 1984 | 78 | Snippy Base |
+| 1985 | 78 | Witty Towerfit |
+| 1986 | 78 | Nora Smith |
+| 1987 | 78 | sadi |
+| 1988 | 78 | Sue Carpenter |
+| 1989 | 78 | Lisa Gayle Skinner |
+| 1990 | 78 | Alex Johnson-nelson |
+| 1991 | 78 | Brandi Taylor |
 | 1992 | 78 | boomsday |
 | 1993 | 77 | Justwinginit4now |
-| 1994 | 76 | Lentoya Jackson |
-| 1995 | 76 | Tabitha Collens |
-| 1996 | 76 | Brandi Daigle |
-| 1997 | 76 | Linda Clement |
-| 1998 | 75 | Frothy Dashpiece |
-| 1999 | 75 | Jennifer Brown |
-| 2000 | 75 | Chase Hermès Bakken |
+| 1994 | 76 | Tabitha Collens |
+| 1995 | 76 | Brandi Daigle |
+| 1996 | 76 | Linda Clement |
+| 1997 | 76 | Lentoya Jackson |
+| 1998 | 75 | Jennifer Brown |
+| 1999 | 75 | Tbuzz |
+| 2000 | 75 | Daynj |
 | 2001 | 75 | Dan Haskins |
-| 2002 | 75 | Ethan Cox |
-| 2003 | 75 | Speedy Towerzone |
-| 2004 | 75 | Tbuzz |
-| 2005 | 75 | Shannon Green |
-| 2006 | 75 | Jess |
-| 2007 | 75 | Cecilia Thompson |
-| 2008 | 75 | Joanne Marie |
-| 2009 | 75 | Lupiness |
-| 2010 | 75 | Speedy Glider |
-| 2011 | 75 | Mighty Strike |
-| 2012 | 75 | Perky Glidebuilder |
-| 2013 | 74 | Nicole Williams |
-| 2014 | 74 | Loopy Zonepiece |
-| 2015 | 74 | Candace Levan |
-| 2016 | 74 | Nikki Robinson |
+| 2002 | 75 | Shannon Green |
+| 2003 | 75 | Jess |
+| 2004 | 75 | Cecilia Thompson |
+| 2005 | 75 | Joanne Marie |
+| 2006 | 75 | Speedy Towerzone |
+| 2007 | 75 | Chase Hermès Bakken |
+| 2008 | 75 | Lupiness |
+| 2009 | 75 | Speedy Glider |
+| 2010 | 75 | Perky Glidebuilder |
+| 2011 | 75 | Ethan Cox |
+| 2012 | 75 | Mighty Strike |
+| 2013 | 75 | Frothy Dashpiece |
+| 2014 | 74 | kelso |
+| 2015 | 74 | Nikki Robinson |
+| 2016 | 74 | Daniel Babb |
 | 2017 | 74 | Christy Marshall |
-| 2018 | 74 | kelso |
-| 2019 | 74 | Daniel Babb |
-| 2020 | 74 | Chirpy Blockroll |
-| 2021 | 74 | Sara Klein |
-| 2022 | 74 | Mandi Marie |
-| 2023 | 73 | CalBear |
-| 2024 | 73 | Cozy Buildout |
+| 2018 | 74 | Nicole Williams |
+| 2019 | 74 | Loopy Zonepiece |
+| 2020 | 74 | Candace Levan |
+| 2021 | 74 | Chirpy Blockroll |
+| 2022 | 74 | Sara Klein |
+| 2023 | 74 | Mandi Marie |
+| 2024 | 73 | Bean |
 | 2025 | 73 | frasls |
-| 2026 | 73 | Liz M Durfee |
-| 2027 | 73 | Michelle Pritchard |
-| 2028 | 73 | Betty Ann Saavedra |
-| 2029 | 73 | Bean |
-| 2030 | 73 | Nutty Liney |
-| 2031 | 73 | Ellieshay |
-| 2032 | 73 | Anna Mifsud |
-| 2033 | 73 | Daring Tile |
-| 2034 | 73 | kube |
-| 2035 | 72 | Ashley Adams |
-| 2036 | 72 | Cameron Burke |
+| 2026 | 73 | Michelle Pritchard |
+| 2027 | 73 | Ellieshay |
+| 2028 | 73 | Nutty Liney |
+| 2029 | 73 | Betty Ann Saavedra |
+| 2030 | 73 | Liz M Durfee |
+| 2031 | 73 | Cozy Buildout |
+| 2032 | 73 | CalBear |
+| 2033 | 73 | Anna Mifsud |
+| 2034 | 73 | Daring Tile |
+| 2035 | 73 | kube |
+| 2036 | 72 | Derrick See |
 | 2037 | 72 | Jacob Lee Grinvalds |
 | 2038 | 72 | Michael Ehrich |
 | 2039 | 72 | Bubbly Corner |
-| 2040 | 72 | Derrick See |
-| 2041 | 72 | Dizzy Snapper |
-| 2042 | 72 | dave420 |
-| 2043 | 72 | Patrick Cordova |
-| 2044 | 72 | Kaitlyn Mambro |
+| 2040 | 72 | Ashley Adams |
+| 2041 | 72 | Patrick Cordova |
+| 2042 | 72 | Cameron Burke |
+| 2043 | 72 | Dizzy Snapper |
+| 2044 | 72 | dave420 |
 | 2045 | 72 | Tristen Glass |
-| 2046 | 72 | George Biddle |
-| 2047 | 72 | Chipper Snapfit |
-| 2048 | 72 | Belinda Girard |
-| 2049 | 71 | ohmoogirl |
-| 2050 | 71 | Daynj |
+| 2046 | 72 | Kaitlyn Mambro |
+| 2047 | 72 | George Biddle |
+| 2048 | 72 | Chipper Snapfit |
+| 2049 | 72 | Belinda Girard |
+| 2050 | 71 | ohmoogirl |
 | 2051 | 71 | ibtsoom |
 | 2052 | 71 | Giggly Clearfit |
 | 2053 | 71 | John McCarthy II |
