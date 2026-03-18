@@ -1,11 +1,11 @@
-# Tournament Statement as of 2026-03-18 15:58:43 UTC
+# Tournament Statement as of 2026-03-18 15:59:24 UTC
 
 | Rank | Score | Name |  |
 | :- | -: | :- | :- |
-| 1 | 5023429 | team4 | [details](details/team4.md) |
-| 2 | 1868537 | team3 | [details](details/team3.md) |
-| 3 | 1345496 | team1 | [details](details/team1.md) |
-| 4 | 1225924 | team2 | [details](details/team2.md) |
+| 1 | 5023739 | team4 | [details](details/team4.md) |
+| 2 | 1868665 | team3 | [details](details/team3.md) |
+| 3 | 1345622 | team1 | [details](details/team1.md) |
+| 4 | 1226045 | team2 | [details](details/team2.md) |
 
 ---
 *Standings created by tournaments datasource generation tool*
