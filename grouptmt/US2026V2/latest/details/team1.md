@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 07:34:48 UTC
+# Standings for team1 as of 2026-03-18 07:35:23 UTC
 
 **Total Participants:** 3228
 
@@ -358,8 +358,8 @@
 | 350 | 664 | 🗝️🗝️ Key |
 | 351 | 661 | Ancient Intuition |
 | 352 | 660 | Bouncy Wipeout |
-| 353 | 656 | Greenbayfan |
-| 354 | 656 | Amers |
+| 353 | 656 | Amers |
+| 354 | 656 | Greenbayfan |
 | 355 | 651 | Deandre Young |
 | 356 | 650 | Peppy Matchclear |
 | 357 | 647 | Kay Francois |
@@ -368,20 +368,20 @@
 | 360 | 643 | Jena Overall Prescott |
 | 361 | 638 | Amy Sanford |
 | 362 | 637 | Jennifer Campbell |
-| 363 | 635 | Michael-Melissa Markham |
-| 364 | 635 | Johnathan Rasmussen |
+| 363 | 635 | Johnathan Rasmussen |
+| 364 | 635 | Michael-Melissa Markham |
 | 365 | 634 | Tee Tee Wil |
-| 366 | 632 | Krystal Mccoy |
-| 367 | 632 | Suzan Frazier |
+| 366 | 632 | Suzan Frazier |
+| 367 | 632 | Krystal Mccoy |
 | 368 | 631 | Stephanie Myers |
 | 369 | 627 | Nancy Reid |
-| 370 | 624 | Victoria Davis Torie |
-| 371 | 621 | Foulplay176 |
+| 370 | 624 | Boldy Clicky |
+| 371 | 624 | Victoria Davis Torie |
 | 372 | 621 | CoolHand |
-| 373 | 620 | Ann Brock LaPorte |
-| 374 | 620 | Dee |
-| 375 | 620 | Mandy Stevenson |
-| 376 | 620 | Boldy Clicky |
+| 373 | 621 | Foulplay176 |
+| 374 | 620 | Ann Brock LaPorte |
+| 375 | 620 | Dee |
+| 376 | 620 | Mandy Stevenson |
 | 377 | 620 | Brandy Ridgeway |
 | 378 | 617 | JV Yu |
 | 379 | 617 | Tami Luce Martin |
@@ -1343,35 +1343,35 @@
 | 1335 | 163 | Epic Glider |
 | 1336 | 163 | Tasha Jasmin |
 | 1337 | 163 | Carrie E Lamb Neal |
-| 1338 | 163 | DeJuan Green |
-| 1339 | 163 | Kayleen Balbaneda |
-| 1340 | 162 | anastacia |
+| 1338 | 163 | Bradley Geiter |
+| 1339 | 163 | DeJuan Green |
+| 1340 | 163 | Kayleen Balbaneda |
 | 1341 | 162 | CupcakeEyes |
-| 1342 | 162 | Chipper Tumbler |
-| 1343 | 162 | Brad Wilson |
-| 1344 | 162 | Giggly Slide |
-| 1345 | 162 | red |
-| 1346 | 162 | Lacey Renee Dietz |
-| 1347 | 162 | Albert Josef Toves Means Jr. |
-| 1348 | 162 | Crystal Wells Hickman |
-| 1349 | 161 | Amega |
-| 1350 | 161 | DreamyMoon |
-| 1351 | 161 | Lablaze |
-| 1352 | 161 | Bradley Geiter |
+| 1342 | 162 | anastacia |
+| 1343 | 162 | Chipper Tumbler |
+| 1344 | 162 | Brad Wilson |
+| 1345 | 162 | Giggly Slide |
+| 1346 | 162 | red |
+| 1347 | 162 | Lacey Renee Dietz |
+| 1348 | 162 | Albert Josef Toves Means Jr. |
+| 1349 | 162 | Crystal Wells Hickman |
+| 1350 | 161 | Amega |
+| 1351 | 161 | DreamyMoon |
+| 1352 | 161 | Lablaze |
 | 1353 | 161 | 4girls |
-| 1354 | 160 | Deborah Fowler |
+| 1354 | 160 | Amanda Jean Gray |
 | 1355 | 160 | Snow Neumann |
 | 1356 | 160 | Danita Banks |
 | 1357 | 160 | Jennifer Hackmann |
 | 1358 | 160 | Kim Pabalan |
-| 1359 | 160 | Amanda Jean Gray |
-| 1360 | 160 | Elena Sanchez Damian |
-| 1361 | 160 | Mel Esquibel Brostoski |
+| 1359 | 160 | Deborah Fowler |
+| 1360 | 160 | Mel Esquibel Brostoski |
+| 1361 | 160 | Elena Sanchez Damian |
 | 1362 | 159 | Casey Jordan |
-| 1363 | 159 | GoobaGoo67 |
-| 1364 | 159 | Jenn Lunsford |
+| 1363 | 159 | Christopher James Cienfuegos |
+| 1364 | 159 | GoobaGoo67 |
 | 1365 | 159 | Monet Laronda Wilson |
-| 1366 | 159 | Christopher James Cienfuegos |
+| 1366 | 159 | Jenn Lunsford |
 | 1367 | 159 | Darcy |
 | 1368 | 159 | Jenny Stratton Cozart |
 | 1369 | 158 | Christie Love |
