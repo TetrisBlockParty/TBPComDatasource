@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 09:33:24 UTC
+# Standings for team1 as of 2026-03-18 09:34:20 UTC
 
 **Total Participants:** 3241
 
@@ -91,7 +91,7 @@
 | 83 | 2430 | Breezy Ivy |
 | 84 | 2337 | Matt Coons |
 | 85 | 2325 | Macy Williams |
-| 86 | 2294 | Audicia Bailey |
+| 86 | 2312 | Audicia Bailey |
 | 87 | 2255 | Snippy Piecegrid |
 | 88 | 2227 | Goober |
 | 89 | 2194 | Jason Rogers |
@@ -103,14 +103,14 @@
 | 95 | 2089 | Ryry |
 | 96 | 2088 | Fancy Shuffler |
 | 97 | 2077 | Robert Everett |
-| 98 | 1979 | Chrys Peters |
-| 99 | 1970 | Christina Costantino |
-| 100 | 1959 | Brandon Hill |
-| 101 | 1955 | Carrie Trigg |
-| 102 | 1928 | Amy R Clinton |
-| 103 | 1923 | Tanya Bailey |
-| 104 | 1906 | Spunky Snapfit |
-| 105 | 1906 | Amanda Richardson |
+| 98 | 2037 | Amanda Richardson |
+| 99 | 1979 | Chrys Peters |
+| 100 | 1970 | Christina Costantino |
+| 101 | 1959 | Brandon Hill |
+| 102 | 1955 | Carrie Trigg |
+| 103 | 1928 | Amy R Clinton |
+| 104 | 1923 | Tanya Bailey |
+| 105 | 1906 | Spunky Snapfit |
 | 106 | 1893 | Justin Jerome |
 | 107 | 1873 | FancyPants |
 | 108 | 1871 | Ellie Bein |
@@ -242,8 +242,8 @@
 | 234 | 970 | Kehlyn King |
 | 235 | 968 | Beth Anderson |
 | 236 | 956 | Hut Des |
-| 237 | 951 | Mighty Patternbuilder |
-| 238 | 949 | Jaime Barrett Nelson |
+| 237 | 955 | Jaime Barrett Nelson |
+| 238 | 951 | Mighty Patternbuilder |
 | 239 | 948 | Bigg Guy |
 | 240 | 944 | Stefanie Champion |
 | 241 | 938 | Jodi Fichter |
@@ -631,44 +631,44 @@
 | 623 | 389 | Twisty Snapfit |
 | 624 | 389 | Dusti Byrd |
 | 625 | 388 | Raheem Young |
-| 626 | 385 | Anthony Bryan Riva |
-| 627 | 385 | Hoppy Balancer |
-| 628 | 384 | Angie Dotson |
-| 629 | 384 | Trey Petty |
-| 630 | 383 | Julie Miller |
-| 631 | 383 | shelly |
-| 632 | 382 | John Ham |
-| 633 | 382 | Hoppy Builderpiece |
-| 634 | 382 | Rosanna Atria-Schnickel |
-| 635 | 381 | Christian Smith |
+| 626 | 387 | Speedy Blockbuilder |
+| 627 | 385 | Anthony Bryan Riva |
+| 628 | 385 | Hoppy Balancer |
+| 629 | 384 | Angie Dotson |
+| 630 | 384 | Trey Petty |
+| 631 | 383 | Julie Miller |
+| 632 | 383 | shelly |
+| 633 | 382 | John Ham |
+| 634 | 382 | Hoppy Builderpiece |
+| 635 | 382 | Rosanna Atria-Schnickel |
 | 636 | 381 | Melanie Kelley |
-| 637 | 381 | Mandy Faye Jackson |
-| 638 | 380 | Jacob Phillips |
-| 639 | 379 | Dizzy Matchzone |
-| 640 | 379 | TaRcY |
-| 641 | 378 | Mindy Leigh Head |
+| 637 | 381 | Christian Smith |
+| 638 | 381 | Mandy Faye Jackson |
+| 639 | 380 | Jacob Phillips |
+| 640 | 379 | Dizzy Matchzone |
+| 641 | 379 | TaRcY |
 | 642 | 378 | Dizzy Catcher |
-| 643 | 378 | Lil H |
-| 644 | 377 | Shannon Tannehill |
-| 645 | 377 | TileDestroyer |
-| 646 | 377 | Sylvia Black |
-| 647 | 376 | ssr |
-| 648 | 375 | Steven Ray Real |
-| 649 | 375 | Ryan N. Mason |
-| 650 | 375 | Itspaigebro |
-| 651 | 375 | Sabrina Frazier |
-| 652 | 374 | Cooldamalley |
+| 643 | 378 | Mindy Leigh Head |
+| 644 | 378 | Lil H |
+| 645 | 377 | Shannon Tannehill |
+| 646 | 377 | TileDestroyer |
+| 647 | 377 | Sylvia Black |
+| 648 | 376 | ssr |
+| 649 | 375 | Itspaigebro |
+| 650 | 375 | Sabrina Frazier |
+| 651 | 375 | Ryan N. Mason |
+| 652 | 375 | Steven Ray Real |
 | 653 | 374 | Wulfbyte |
-| 654 | 374 | Sabra Fisher |
-| 655 | 373 | Dave Myers |
-| 656 | 373 | 030Synner |
-| 657 | 372 | Berenice |
-| 658 | 371 | Lively Rollfit |
-| 659 | 371 | Jimmy Shannon |
-| 660 | 371 | Speedy Blockbuilder |
+| 654 | 374 | Cooldamalley |
+| 655 | 374 | Sabra Fisher |
+| 656 | 373 | Dave Myers |
+| 657 | 373 | 030Synner |
+| 658 | 372 | Berenice |
+| 659 | 371 | Lively Rollfit |
+| 660 | 371 | Jimmy Shannon |
 | 661 | 370 | Tabitha Cornelious |
-| 662 | 370 | bea |
-| 663 | 370 | Bobby |
+| 662 | 370 | Bobby |
+| 663 | 370 | bea |
 | 664 | 369 | Slinky Dashpiece |
 | 665 | 369 | Vicki Dougie |
 | 666 | 368 | Bucknut420 |
@@ -678,11 +678,11 @@
 | 670 | 367 | Esav Castro |
 | 671 | 366 | Joyce Harrell-chavis |
 | 672 | 365 | Maxwell Hall |
-| 673 | 365 | Pam Jennings Herzog |
-| 674 | 365 | Jennifer L Rutherford |
-| 675 | 363 | Happy Snapbuild |
-| 676 | 363 | Tara |
-| 677 | 363 | Aldona Figiel |
+| 673 | 365 | Jennifer L Rutherford |
+| 674 | 365 | Pam Jennings Herzog |
+| 675 | 363 | Aldona Figiel |
+| 676 | 363 | Happy Snapbuild |
+| 677 | 363 | Tara |
 | 678 | 362 | Random |
 | 679 | 362 | Fancy Tilefall |
 | 680 | 362 | Pig02 |
@@ -1877,110 +1877,110 @@
 | 1869 | 90 | Hunt Joe |
 | 1870 | 90 | CHOSEN1 |
 | 1871 | 90 | Sarah Jean |
-| 1872 | 90 | ChaosNCatHair |
-| 1873 | 90 | Brad Shelton |
-| 1874 | 90 | Brad Werner |
-| 1875 | 90 | Omgitsmomma |
-| 1876 | 90 | Crafty Twistslam |
-| 1877 | 90 | Breezy Tilebuilder |
-| 1878 | 90 | Frisky Climber |
-| 1879 | 90 | MetalBrickLayer |
-| 1880 | 90 | Shawn Septer |
-| 1881 | 90 | Vickie Valdez-Lopez |
-| 1882 | 90 | BIGOONS |
-| 1883 | 90 | Witty Shatterline |
-| 1884 | 90 | Ronald D. Beatty |
-| 1885 | 89 | Colleen Shanley |
-| 1886 | 89 | LMP |
-| 1887 | 89 | Stellar |
-| 1888 | 89 | Christopher Tilley |
-| 1889 | 89 | Mighty Patternfall |
-| 1890 | 88 | Poppy Lift |
-| 1891 | 88 | Steven Andrew |
-| 1892 | 88 | Glenda Inthimat |
-| 1893 | 88 | Cozy Spinfit |
-| 1894 | 88 | Katie Esquivel |
-| 1895 | 88 | imalil |
-| 1896 | 88 | meh |
-| 1897 | 88 | Ramona Dumas |
-| 1898 | 88 | Josie Juliette Eos Bastet - Roque |
-| 1899 | 88 | Dapper Clearfit |
-| 1900 | 87 | Frank Smith |
-| 1901 | 87 | Nathanul Vogel |
-| 1902 | 87 | Ashley Espeut |
-| 1903 | 87 | Grace Leigh |
-| 1904 | 87 | Vetz Squad |
-| 1905 | 87 | Destiny Lightle Needles |
-| 1906 | 87 | flip |
-| 1907 | 86 | Kelly Ann |
-| 1908 | 86 | j and k |
-| 1909 | 86 | KingSteve |
-| 1910 | 86 | Michael Hain |
-| 1911 | 86 | Itn |
-| 1912 | 86 | Wacky Brickster |
-| 1913 | 86 | BigMe83 |
-| 1914 | 86 | Josh Richards |
-| 1915 | 85 | Karen Guy |
-| 1916 | 85 | Gerald Benoitjr |
-| 1917 | 85 | Cole Karim |
-| 1918 | 85 | Sam |
-| 1919 | 85 | Jamie |
-| 1920 | 85 | Bubbly Blast |
-| 1921 | 85 | Gregory Craig |
-| 1922 | 85 | Jessica Quinones |
-| 1923 | 85 | Tabitha Rose Stone |
-| 1924 | 84 | Chirpy Pusher |
-| 1925 | 84 | Nicole Casey Langley |
-| 1926 | 84 | Jay Will |
-| 1927 | 84 | Stacy Patterson |
-| 1928 | 84 | iceman |
-| 1929 | 84 | Dede |
-| 1930 | 84 | Nunya |
-| 1931 | 84 | Mikki Nesbit Andriola |
-| 1932 | 83 | Latoya Caston Davis |
-| 1933 | 83 | Krystyna Ann Conley |
-| 1934 | 83 | Ani |
-| 1935 | 83 | Debbie Ward |
-| 1936 | 83 | Loony Spinblock |
-| 1937 | 83 | Jennifer Traywick |
-| 1938 | 82 | Tetrist |
-| 1939 | 82 | MrsW |
-| 1940 | 82 | Susan Lokerse |
-| 1941 | 82 | LeeAnn Thompson Saxon |
-| 1942 | 82 | Shellybobellers |
-| 1943 | 82 | Vivian Bunnell Myers |
-| 1944 | 82 | KingRoss |
-| 1945 | 82 | James Martin |
-| 1946 | 82 | Sandman |
-| 1947 | 82 | Bartek Nieznane |
-| 1948 | 82 | Mike Winn |
-| 1949 | 82 | Nicole Kolodzieski |
-| 1950 | 82 | Cody Peterson |
-| 1951 | 81 | Chet Boggs |
-| 1952 | 81 | Giggy Brickmatch |
-| 1953 | 81 | Danny Ortiz |
-| 1954 | 81 | LuLa |
-| 1955 | 81 | Yolanda Odgers |
-| 1956 | 81 | Bubbly Chiseler |
-| 1957 | 81 | Bryan Dickerson |
-| 1958 | 80 | Dionie Pina |
-| 1959 | 80 | Ne'Chaun Curtis |
-| 1960 | 80 | Amber Johnson |
-| 1961 | 80 | Rita Sunshyne |
-| 1962 | 80 | Katt Brown-Thomas |
-| 1963 | 80 | Amanda Alt Caplinger |
-| 1964 | 80 | Swift |
-| 1965 | 80 | Jumpy Winder |
-| 1966 | 80 | Meiche Penn |
-| 1967 | 80 | çushy |
-| 1968 | 80 | LiL jen |
-| 1969 | 80 | Otohime |
-| 1970 | 80 | Nerdy Bridger |
-| 1971 | 80 | Nikita T Miller |
-| 1972 | 80 | Cheeky Tilemaker |
-| 1973 | 80 | Christi Burley |
-| 1974 | 80 | ppp |
-| 1975 | 80 | Ellen |
+| 1872 | 90 | Ellen |
+| 1873 | 90 | ChaosNCatHair |
+| 1874 | 90 | Brad Shelton |
+| 1875 | 90 | Brad Werner |
+| 1876 | 90 | Omgitsmomma |
+| 1877 | 90 | Crafty Twistslam |
+| 1878 | 90 | Breezy Tilebuilder |
+| 1879 | 90 | Frisky Climber |
+| 1880 | 90 | MetalBrickLayer |
+| 1881 | 90 | Shawn Septer |
+| 1882 | 90 | Vickie Valdez-Lopez |
+| 1883 | 90 | BIGOONS |
+| 1884 | 90 | Witty Shatterline |
+| 1885 | 90 | Ronald D. Beatty |
+| 1886 | 89 | Colleen Shanley |
+| 1887 | 89 | LMP |
+| 1888 | 89 | Stellar |
+| 1889 | 89 | Christopher Tilley |
+| 1890 | 89 | Mighty Patternfall |
+| 1891 | 88 | Poppy Lift |
+| 1892 | 88 | Steven Andrew |
+| 1893 | 88 | Glenda Inthimat |
+| 1894 | 88 | Cozy Spinfit |
+| 1895 | 88 | Katie Esquivel |
+| 1896 | 88 | imalil |
+| 1897 | 88 | meh |
+| 1898 | 88 | Ramona Dumas |
+| 1899 | 88 | Josie Juliette Eos Bastet - Roque |
+| 1900 | 88 | Dapper Clearfit |
+| 1901 | 87 | Frank Smith |
+| 1902 | 87 | Nathanul Vogel |
+| 1903 | 87 | Ashley Espeut |
+| 1904 | 87 | Grace Leigh |
+| 1905 | 87 | Vetz Squad |
+| 1906 | 87 | Destiny Lightle Needles |
+| 1907 | 87 | flip |
+| 1908 | 86 | Kelly Ann |
+| 1909 | 86 | j and k |
+| 1910 | 86 | KingSteve |
+| 1911 | 86 | Michael Hain |
+| 1912 | 86 | Itn |
+| 1913 | 86 | Wacky Brickster |
+| 1914 | 86 | BigMe83 |
+| 1915 | 86 | Josh Richards |
+| 1916 | 85 | Karen Guy |
+| 1917 | 85 | Gerald Benoitjr |
+| 1918 | 85 | Cole Karim |
+| 1919 | 85 | Sam |
+| 1920 | 85 | Jamie |
+| 1921 | 85 | Bubbly Blast |
+| 1922 | 85 | Gregory Craig |
+| 1923 | 85 | Jessica Quinones |
+| 1924 | 85 | Tabitha Rose Stone |
+| 1925 | 84 | Chirpy Pusher |
+| 1926 | 84 | Nicole Casey Langley |
+| 1927 | 84 | Jay Will |
+| 1928 | 84 | Stacy Patterson |
+| 1929 | 84 | iceman |
+| 1930 | 84 | Dede |
+| 1931 | 84 | Nunya |
+| 1932 | 84 | Mikki Nesbit Andriola |
+| 1933 | 83 | Latoya Caston Davis |
+| 1934 | 83 | Krystyna Ann Conley |
+| 1935 | 83 | Ani |
+| 1936 | 83 | Debbie Ward |
+| 1937 | 83 | Loony Spinblock |
+| 1938 | 83 | Jennifer Traywick |
+| 1939 | 82 | Tetrist |
+| 1940 | 82 | MrsW |
+| 1941 | 82 | Susan Lokerse |
+| 1942 | 82 | LeeAnn Thompson Saxon |
+| 1943 | 82 | Shellybobellers |
+| 1944 | 82 | Vivian Bunnell Myers |
+| 1945 | 82 | KingRoss |
+| 1946 | 82 | James Martin |
+| 1947 | 82 | Sandman |
+| 1948 | 82 | Bartek Nieznane |
+| 1949 | 82 | Mike Winn |
+| 1950 | 82 | Nicole Kolodzieski |
+| 1951 | 82 | Cody Peterson |
+| 1952 | 81 | Chet Boggs |
+| 1953 | 81 | Giggy Brickmatch |
+| 1954 | 81 | Danny Ortiz |
+| 1955 | 81 | LuLa |
+| 1956 | 81 | Yolanda Odgers |
+| 1957 | 81 | Bubbly Chiseler |
+| 1958 | 81 | Bryan Dickerson |
+| 1959 | 80 | Dionie Pina |
+| 1960 | 80 | Ne'Chaun Curtis |
+| 1961 | 80 | Amber Johnson |
+| 1962 | 80 | Rita Sunshyne |
+| 1963 | 80 | Katt Brown-Thomas |
+| 1964 | 80 | Amanda Alt Caplinger |
+| 1965 | 80 | Swift |
+| 1966 | 80 | Jumpy Winder |
+| 1967 | 80 | Meiche Penn |
+| 1968 | 80 | çushy |
+| 1969 | 80 | LiL jen |
+| 1970 | 80 | Otohime |
+| 1971 | 80 | Nerdy Bridger |
+| 1972 | 80 | Nikita T Miller |
+| 1973 | 80 | Cheeky Tilemaker |
+| 1974 | 80 | Christi Burley |
+| 1975 | 80 | ppp |
 | 1976 | 79 | Ethan Balling |
 | 1977 | 79 | Gfly |
 | 1978 | 79 | Swanky Tetrisline |
