@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 21:24:46 UTC
+# Standings for team2 as of 2026-03-18 21:25:24 UTC
 
 **Total Participants:** 3411
 
@@ -548,37 +548,37 @@
 | 540 | 468 | Cushalee Howard |
 | 541 | 466 | Torie Snyder |
 | 542 | 466 | Mike Davis |
-| 543 | 465 | Tosha Gonzales |
-| 544 | 465 | Joe England |
-| 545 | 464 | Quirky Swiper |
-| 546 | 464 | Courtney Cicoria |
-| 547 | 464 | Toohotwifey4u2 |
-| 548 | 463 | Nikki Speer |
-| 549 | 462 | SassyCarebear |
-| 550 | 462 | Brenda Lee Vander Molen |
+| 543 | 465 | Brenda Lee Vander Molen |
+| 544 | 465 | Tosha Gonzales |
+| 545 | 465 | Joe England |
+| 546 | 464 | Quirky Swiper |
+| 547 | 464 | Courtney Cicoria |
+| 548 | 464 | Toohotwifey4u2 |
+| 549 | 463 | Nikki Speer |
+| 550 | 462 | SassyCarebear |
 | 551 | 462 | Alexx Anaya |
-| 552 | 460 | Mike Kremen |
-| 553 | 460 | Glitzy Dash |
-| 554 | 460 | Shelly Marie Lloyd |
+| 552 | 460 | Shelly Marie Lloyd |
+| 553 | 460 | Mike Kremen |
+| 554 | 460 | Glitzy Dash |
 | 555 | 460 | Jenna McGeorge |
-| 556 | 458 | Martinez Jacobo |
-| 557 | 458 | Joe Smith |
-| 558 | 457 | JjB |
-| 559 | 457 | Haley Bell |
-| 560 | 457 | S7ephavs |
+| 556 | 458 | Joe Smith |
+| 557 | 458 | Martinez Jacobo |
+| 558 | 457 | Haley Bell |
+| 559 | 457 | S7ephavs |
+| 560 | 457 | JjB |
 | 561 | 456 | Shankee mgee |
 | 562 | 456 | Tipsy Clearbuilder |
 | 563 | 456 | Daring Rotator |
 | 564 | 455 | titrissss |
 | 565 | 455 | Frances Hui |
-| 566 | 454 | Berling Gil |
-| 567 | 454 | Rachel Anne |
+| 566 | 454 | Rachel Anne |
+| 567 | 454 | Berling Gil |
 | 568 | 453 | Nerdy Clearer |
 | 569 | 452 | Haley Lynn Agers |
-| 570 | 450 | Quirky Matchfit |
-| 571 | 450 | Jimmy Xim |
-| 572 | 447 | Cozy Shatterblock |
-| 573 | 447 | Lawan Dixon |
+| 570 | 450 | Jimmy Xim |
+| 571 | 450 | Quirky Matchfit |
+| 572 | 447 | Lawan Dixon |
+| 573 | 447 | Cozy Shatterblock |
 | 574 | 446 | Lesha |
 | 575 | 445 | Tudy Irvin |
 | 576 | 445 | Ownlane Rico |
@@ -651,10 +651,10 @@
 | 643 | 401 | Kevin Stultz |
 | 644 | 401 | Marciala Pineda Juarez |
 | 645 | 400 | Adrianne Elliott |
-| 646 | 399 | Cathleena Giusto |
-| 647 | 397 | Allison Ahrndt |
-| 648 | 396 | Pogo 2.0 |
-| 649 | 395 | Zesty Balancefit |
+| 646 | 399 | Zesty Balancefit |
+| 647 | 399 | Cathleena Giusto |
+| 648 | 397 | Allison Ahrndt |
+| 649 | 396 | Pogo 2.0 |
 | 650 | 395 | Toxic Troll |
 | 651 | 394 | Shea Ladynick Henderson |
 | 652 | 394 | Anika Strawberryz Smith |
