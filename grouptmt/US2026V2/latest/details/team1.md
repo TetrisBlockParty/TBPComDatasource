@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 06:52:48 UTC
+# Standings for team1 as of 2026-03-18 06:53:23 UTC
 
 **Total Participants:** 3221
 
@@ -347,9 +347,9 @@
 | 339 | 677 | Sallie Sanborn |
 | 340 | 677 | Penny Morrical |
 | 341 | 674 | Bryan Temple |
-| 342 | 671 | Pamela Marie Tyler |
-| 343 | 671 | John Gardner |
-| 344 | 670 | Teddy Alexander |
+| 342 | 672 | Teddy Alexander |
+| 343 | 671 | Pamela Marie Tyler |
+| 344 | 671 | John Gardner |
 | 345 | 669 | Amh |
 | 346 | 667 | raffyG |
 | 347 | 665 | Cesar Morelos |
@@ -391,26 +391,26 @@
 | 383 | 607 | Angelina Maldonado |
 | 384 | 607 | HugeLoad |
 | 385 | 605 | Dani Giles |
-| 386 | 602 | bounce back |
-| 387 | 600 | Dude |
-| 388 | 598 | Alezandra Smith |
-| 389 | 598 | Jonathan Gaffaney |
-| 390 | 596 | Jasmine Riley |
-| 391 | 595 | Liliana Pena |
-| 392 | 594 | Hhholmesjr |
+| 386 | 604 | Hhholmesjr |
+| 387 | 602 | bounce back |
+| 388 | 600 | Dude |
+| 389 | 598 | Alezandra Smith |
+| 390 | 598 | Jonathan Gaffaney |
+| 391 | 596 | Jasmine Riley |
+| 392 | 595 | Liliana Pena |
 | 393 | 594 | Dawn Hoffman |
 | 394 | 593 | Teddy Marshall |
-| 395 | 591 | Donna McGowan |
-| 396 | 591 | Frilly Breaker |
+| 395 | 591 | Frilly Breaker |
+| 396 | 591 | Donna McGowan |
 | 397 | 589 | Tony Lighthizer |
 | 398 | 589 | Fatima Washington |
 | 399 | 586 | Dottie Jones |
 | 400 | 583 | Lemonberry |
 | 401 | 581 | Kathy Karjala |
 | 402 | 581 | Tiffany McLeod |
-| 403 | 580 | Freya |
-| 404 | 580 | Julie A Hutchinson |
-| 405 | 580 | Allen Matthies |
+| 403 | 580 | Allen Matthies |
+| 404 | 580 | Freya |
+| 405 | 580 | Julie A Hutchinson |
 | 406 | 578 | knightdragon9 |
 | 407 | 577 | Black Rubix |
 | 408 | 575 | Adele Rahman |
@@ -3024,48 +3024,48 @@
 | 3016 | 12 | Joey Coleman |
 | 3017 | 12 | Frilly Brickclear |
 | 3018 | 12 | Mckenzie Houston |
-| 3019 | 12 | Brad Olson |
-| 3020 | 12 | Mayroj |
-| 3021 | 12 | Cece305 |
-| 3022 | 12 | Debra Reynolds |
-| 3023 | 12 | Vanessa Armour |
-| 3024 | 12 | PAB |
-| 3025 | 12 | Peachy Brickline |
-| 3026 | 12 | Robaire |
-| 3027 | 12 | Wacky Twistbuilder |
-| 3028 | 12 | Alynie Sam |
-| 3029 | 12 | Lush Dasher |
-| 3030 | 12 | Giggy Stacky |
-| 3031 | 12 | BLS |
-| 3032 | 12 | Kyla Hood |
-| 3033 | 12 | Tracy M Deak |
-| 3034 | 11 | Spaceypenguin |
-| 3035 | 11 | Robert A. Mixon Jr. |
-| 3036 | 11 | Laura Harnage |
-| 3037 | 11 | Tiffany Greene |
-| 3038 | 11 | Vincent Cic Mgds |
-| 3039 | 11 | Happy Fitline |
-| 3040 | 11 | Happy Brickclear |
-| 3041 | 11 | Lisa Petersen Bloecher |
-| 3042 | 11 | Loopy Setter |
-| 3043 | 11 | Jumpy Blockbuilder |
-| 3044 | 11 | Miguel Sanchez |
-| 3045 | 10 | Braska Williams Jr |
-| 3046 | 10 | WyoHawk |
-| 3047 | 10 | Amanda Johnson |
-| 3048 | 10 | Hasty Zone |
-| 3049 | 10 | wonder woman 158 |
-| 3050 | 10 | Spicy Wipebuilder |
-| 3051 | 10 | Eileen Rivera |
-| 3052 | 10 | Witty Clearzone |
-| 3053 | 10 | Marlena Byers |
-| 3054 | 10 | Bunny |
-| 3055 | 10 | Brad Lewis |
-| 3056 | 10 | jessab37 |
-| 3057 | 10 | AllyG |
-| 3058 | 10 | Kris Walker |
-| 3059 | 10 | Zeeby Hicks |
-| 3060 | 10 | Mandy Alcina |
+| 3019 | 12 | jessab37 |
+| 3020 | 12 | Brad Olson |
+| 3021 | 12 | Mayroj |
+| 3022 | 12 | Cece305 |
+| 3023 | 12 | Debra Reynolds |
+| 3024 | 12 | Vanessa Armour |
+| 3025 | 12 | PAB |
+| 3026 | 12 | Peachy Brickline |
+| 3027 | 12 | Robaire |
+| 3028 | 12 | Wacky Twistbuilder |
+| 3029 | 12 | Alynie Sam |
+| 3030 | 12 | Lush Dasher |
+| 3031 | 12 | Giggy Stacky |
+| 3032 | 12 | BLS |
+| 3033 | 12 | Kyla Hood |
+| 3034 | 12 | Tracy M Deak |
+| 3035 | 11 | Spaceypenguin |
+| 3036 | 11 | Robert A. Mixon Jr. |
+| 3037 | 11 | Laura Harnage |
+| 3038 | 11 | Tiffany Greene |
+| 3039 | 11 | Vincent Cic Mgds |
+| 3040 | 11 | Happy Fitline |
+| 3041 | 11 | Happy Brickclear |
+| 3042 | 11 | Lisa Petersen Bloecher |
+| 3043 | 11 | Loopy Setter |
+| 3044 | 11 | Jumpy Blockbuilder |
+| 3045 | 11 | Miguel Sanchez |
+| 3046 | 10 | Mandy Alcina |
+| 3047 | 10 | WyoHawk |
+| 3048 | 10 | Amanda Johnson |
+| 3049 | 10 | Hasty Zone |
+| 3050 | 10 | Braska Williams Jr |
+| 3051 | 10 | Spicy Wipebuilder |
+| 3052 | 10 | Eileen Rivera |
+| 3053 | 10 | Witty Clearzone |
+| 3054 | 10 | wonder woman 158 |
+| 3055 | 10 | Bunny |
+| 3056 | 10 | Brad Lewis |
+| 3057 | 10 | Marlena Byers |
+| 3058 | 10 | AllyG |
+| 3059 | 10 | Kris Walker |
+| 3060 | 10 | Zeeby Hicks |
 | 3061 | 10 | Paola Jordan |
 | 3062 | 10 | Scotty Davis |
 | 3063 | 10 | QueenTM |
@@ -3165,8 +3165,8 @@
 | 3157 | 7 | waylow |
 | 3158 | 7 | Cleer-Par178 |
 | 3159 | 7 | Jessica Hughes-Brighton |
-| 3160 | 7 | Cozy Strikesnap |
-| 3161 | 7 | Katelyn Ryals |
+| 3160 | 7 | Katelyn Ryals |
+| 3161 | 7 | Cozy Strikesnap |
 | 3162 | 7 | Brandon Potter |
 | 3163 | 7 | Bogard |
 | 3164 | 7 | La Morena |
