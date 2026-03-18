@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 01:00:47 UTC
+# Standings for team1 as of 2026-03-18 01:01:22 UTC
 
 **Total Participants:** 3137
 
@@ -113,10 +113,10 @@
 | 105 | 1786 | Dom The Great |
 | 106 | 1762 | Amber Zeller Rice |
 | 107 | 1736 | Sherri Drews |
-| 108 | 1728 | Walker Patterson |
-| 109 | 1728 | Sarah Perry Cook |
-| 110 | 1713 | FancyPants |
-| 111 | 1708 | Caitlin Zakrzewski |
+| 108 | 1728 | Caitlin Zakrzewski |
+| 109 | 1728 | Walker Patterson |
+| 110 | 1728 | Sarah Perry Cook |
+| 111 | 1713 | FancyPants |
 | 112 | 1683 | Yvonne Buie |
 | 113 | 1677 | Tom |
 | 114 | 1675 | Amy R Clinton |
@@ -2140,32 +2140,32 @@
 | 2132 | 60 | Alvin White |
 | 2133 | 60 | Christina Rodriguez |
 | 2134 | 60 | Tazz |
-| 2135 | 60 | Smiley Clearpiece |
-| 2136 | 59 | Natasha Jackson |
-| 2137 | 59 | Penelope Jones |
-| 2138 | 59 | Shiny Caster |
-| 2139 | 59 | TheKBr0 |
-| 2140 | 59 | Ralph |
-| 2141 | 59 | Rocky Papaboy |
-| 2142 | 59 | Loony Spinblock |
-| 2143 | 59 | Peter HM Han |
-| 2144 | 59 | Lorie Atwood |
-| 2145 | 59 | Speedy Towerzone |
-| 2146 | 59 | Will Sargent |
-| 2147 | 59 | Lesley Leanne Houston |
-| 2148 | 59 | Henry Henry |
-| 2149 | 59 | Ruthann Perry |
-| 2150 | 59 | Gabriella Tamayo |
-| 2151 | 59 | Eternity Paulley |
-| 2152 | 59 | GoatHimothy |
-| 2153 | 58 | Clifford Greeniv |
-| 2154 | 58 | Chill Balanceblock |
-| 2155 | 58 | Scott Hein |
-| 2156 | 58 | Magic Meli |
-| 2157 | 58 | Teresa S Mccrimon |
-| 2158 | 58 | Clever Linkroll |
-| 2159 | 58 | Krystal Schaefer |
-| 2160 | 58 | Jennifer Jones |
+| 2135 | 60 | Jennifer Jones |
+| 2136 | 60 | Smiley Clearpiece |
+| 2137 | 59 | Natasha Jackson |
+| 2138 | 59 | Penelope Jones |
+| 2139 | 59 | Shiny Caster |
+| 2140 | 59 | TheKBr0 |
+| 2141 | 59 | Ralph |
+| 2142 | 59 | Rocky Papaboy |
+| 2143 | 59 | Loony Spinblock |
+| 2144 | 59 | Peter HM Han |
+| 2145 | 59 | Lorie Atwood |
+| 2146 | 59 | Speedy Towerzone |
+| 2147 | 59 | Will Sargent |
+| 2148 | 59 | Lesley Leanne Houston |
+| 2149 | 59 | Henry Henry |
+| 2150 | 59 | Ruthann Perry |
+| 2151 | 59 | Gabriella Tamayo |
+| 2152 | 59 | Eternity Paulley |
+| 2153 | 59 | GoatHimothy |
+| 2154 | 58 | Clifford Greeniv |
+| 2155 | 58 | Chill Balanceblock |
+| 2156 | 58 | Scott Hein |
+| 2157 | 58 | Magic Meli |
+| 2158 | 58 | Teresa S Mccrimon |
+| 2159 | 58 | Clever Linkroll |
+| 2160 | 58 | Krystal Schaefer |
 | 2161 | 58 | Giggly Clearfit |
 | 2162 | 57 | Giggy Swipe |
 | 2163 | 57 | Megan Robinson |
