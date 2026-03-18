@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 19:26:43 UTC
+# Standings for team2 as of 2026-03-18 19:27:24 UTC
 
 **Total Participants:** 3386
 
@@ -71,14 +71,14 @@
 | 63 | 2939 | Dreamy Linkbuilder |
 | 64 | 2914 | Becky McClure |
 | 65 | 2873 | Bubbly Twistpiece |
-| 66 | 2838 | Peppy Slice |
+| 66 | 2868 | Peppy Slice |
 | 67 | 2761 | Jenny Derby |
-| 68 | 2720 | Nicole Cannon |
+| 68 | 2753 | Nicole Cannon |
 | 69 | 2694 | Kevin Watson |
 | 70 | 2676 | Pikake Medeiros |
-| 71 | 2671 | Breezy Towerfall |
-| 72 | 2625 | Raven Smith |
-| 73 | 2620 | opf |
+| 71 | 2674 | opf |
+| 72 | 2671 | Breezy Towerfall |
+| 73 | 2625 | Raven Smith |
 | 74 | 2550 | Peppy Zone |
 | 75 | 2490 | Jamie Lang |
 | 76 | 2397 | Naomii Seton |
@@ -251,7 +251,7 @@
 | 243 | 902 | Dondon Cheng |
 | 244 | 900 | Sandra Safford |
 | 245 | 894 | Sandra McNab |
-| 246 | 893 | Mindy Phelps |
+| 246 | 894 | Mindy Phelps |
 | 247 | 892 | Alexsa Crespo |
 | 248 | 891 | Desiree Anderson |
 | 249 | 890 | Shawn Haines |
@@ -611,15 +611,15 @@
 | 603 | 421 | Ramona Marie Eruera |
 | 604 | 420 | Mel |
 | 605 | 420 | Tony Hooker |
-| 606 | 418 | Alexis Seath |
-| 607 | 418 | Jolie Hatfield |
-| 608 | 418 | Shankee mgee |
-| 609 | 418 | Ashley Sandlin |
+| 606 | 420 | Jolie Hatfield |
+| 607 | 418 | Alexis Seath |
+| 608 | 418 | Ashley Sandlin |
+| 609 | 418 | Shankee mgee |
 | 610 | 418 | Debbie Gerlib-Molinari Leigh |
 | 611 | 418 | Krista Carpenter |
-| 612 | 417 | Zany Dashgrid |
-| 613 | 417 | Amanda Mason Scott |
-| 614 | 417 | Kristy Mullins |
+| 612 | 417 | Kristy Mullins |
+| 613 | 417 | Zany Dashgrid |
+| 614 | 417 | Amanda Mason Scott |
 | 615 | 417 | Scarlet Dusosky |
 | 616 | 416 | QueenSheida |
 | 617 | 415 | Mjhays |
@@ -640,8 +640,8 @@
 | 632 | 402 | Jacques Frenette |
 | 633 | 401 | Kevin Stultz |
 | 634 | 401 | Twisty Frame |
-| 635 | 401 | Jennifer |
-| 636 | 401 | Marciala Pineda Juarez |
+| 635 | 401 | Marciala Pineda Juarez |
+| 636 | 401 | Jennifer |
 | 637 | 400 | Adrianne Elliott |
 | 638 | 400 | Robert Benjamin |
 | 639 | 397 | Allison Ahrndt |
@@ -890,11 +890,11 @@
 | 882 | 286 | Sylvie Lemoine |
 | 883 | 285 | Fancy Columnbuilder |
 | 884 | 284 | Andrew McCafferty |
-| 885 | 284 | Cool Blockline |
-| 886 | 284 | Chris |
-| 887 | 284 | Frilly Basegrid |
-| 888 | 283 | James Smith |
-| 889 | 282 | Plucky Glide |
+| 885 | 284 | Plucky Glide |
+| 886 | 284 | Cool Blockline |
+| 887 | 284 | Chris |
+| 888 | 284 | Frilly Basegrid |
+| 889 | 283 | James Smith |
 | 890 | 282 | Jennifer Monroe Kelly |
 | 891 | 282 | Zesty Edgefit |
 | 892 | 281 | bruggy |
