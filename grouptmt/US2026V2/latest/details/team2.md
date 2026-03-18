@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 09:28:46 UTC
+# Standings for team2 as of 2026-03-18 09:29:20 UTC
 
 **Total Participants:** 3285
 
@@ -394,46 +394,46 @@
 | 386 | 568 | Jen |
 | 387 | 563 | LeVeL27 |
 | 388 | 563 | Jaz Sky |
-| 389 | 557 | Ashley Danielle |
-| 390 | 556 | Bouncy Swiper |
-| 391 | 556 | Lucy Honer |
-| 392 | 554 | Plucky Snaplink |
-| 393 | 553 | Nicole Hogue |
-| 394 | 551 | Jt Home |
-| 395 | 551 | Jenn Leigh |
-| 396 | 549 | Nutty Cluster |
-| 397 | 549 | Cozy Stagger |
-| 398 | 548 | Juan Bonilla |
-| 399 | 545 | Rachel Eliza |
-| 400 | 545 | Desi Desporte |
-| 401 | 544 | Traci Bond |
-| 402 | 542 | Kristin Montoya |
-| 403 | 542 | Chummy Brickfit |
-| 404 | 540 | Nerdy Blockpiece |
-| 405 | 539 | Kate |
-| 406 | 539 | Robyn Coleman Sadler |
-| 407 | 539 | Julia Freeman |
-| 408 | 538 | Johanna Massaro |
-| 409 | 537 | Bea Miles |
-| 410 | 534 | Rhonda Milstead |
-| 411 | 534 | Taghrid Ebeid |
-| 412 | 532 | JTH |
-| 413 | 531 | Liz Wambsgans |
-| 414 | 531 | Nicci |
-| 415 | 530 | Jazzy Piecebuilder |
-| 416 | 528 | Krys Brown |
-| 417 | 528 | Yloponom Gamez |
-| 418 | 527 | Jo |
-| 419 | 526 | Smiley Match |
-| 420 | 525 | Susan Dunn |
-| 421 | 524 | Debra D. Herbert |
+| 389 | 557 | Yloponom Gamez |
+| 390 | 557 | Ashley Danielle |
+| 391 | 556 | Bouncy Swiper |
+| 392 | 556 | Lucy Honer |
+| 393 | 554 | Plucky Snaplink |
+| 394 | 553 | Nicole Hogue |
+| 395 | 551 | Jt Home |
+| 396 | 551 | Jenn Leigh |
+| 397 | 549 | Nutty Cluster |
+| 398 | 549 | Cozy Stagger |
+| 399 | 548 | Juan Bonilla |
+| 400 | 545 | Rachel Eliza |
+| 401 | 545 | Desi Desporte |
+| 402 | 544 | Traci Bond |
+| 403 | 542 | Kristin Montoya |
+| 404 | 542 | Chummy Brickfit |
+| 405 | 540 | Nerdy Blockpiece |
+| 406 | 539 | Kate |
+| 407 | 539 | Robyn Coleman Sadler |
+| 408 | 539 | Julia Freeman |
+| 409 | 539 | Debra D. Herbert |
+| 410 | 538 | Johanna Massaro |
+| 411 | 537 | Bea Miles |
+| 412 | 534 | Taghrid Ebeid |
+| 413 | 534 | Rhonda Milstead |
+| 414 | 532 | JTH |
+| 415 | 531 | Nicci |
+| 416 | 531 | Liz Wambsgans |
+| 417 | 530 | Jazzy Piecebuilder |
+| 418 | 528 | Krys Brown |
+| 419 | 527 | Jo |
+| 420 | 526 | Smiley Match |
+| 421 | 525 | Susan Dunn |
 | 422 | 524 | Randy Jansen |
 | 423 | 523 | Brandie Marie Miles |
 | 424 | 522 | kippykay |
 | 425 | 522 | Zane |
 | 426 | 522 | Ashley Leonard |
-| 427 | 521 | Nice queen |
-| 428 | 521 | Jenn Dandle |
+| 427 | 521 | Jenn Dandle |
+| 428 | 521 | Nice queen |
 | 429 | 520 | Poppy |
 | 430 | 520 | btchboy |
 | 431 | 520 | Dreamy Clicky |
@@ -451,14 +451,14 @@
 | 443 | 510 | Angela Mindiola |
 | 444 | 509 | Sammy |
 | 445 | 509 | Jen Kanakry Faria |
-| 446 | 508 | Tina Cano |
-| 447 | 508 | Phredda Compton |
+| 446 | 508 | Phredda Compton |
+| 447 | 508 | Tina Cano |
 | 448 | 506 | Slippery Clam |
 | 449 | 504 | Goofy Towerer |
-| 450 | 503 | Rhonda Winn Hohman |
-| 451 | 503 | YAE |
-| 452 | 502 | Sarah Marie |
-| 453 | 502 | Jen Robinson |
+| 450 | 503 | YAE |
+| 451 | 503 | Rhonda Winn Hohman |
+| 452 | 502 | Jen Robinson |
+| 453 | 502 | Sarah Marie |
 | 454 | 501 | Tiffany Smith |
 | 455 | 501 | Kiki Moore |
 | 456 | 501 | Jennifer Haton Kreighbaum |
@@ -593,11 +593,11 @@
 | 585 | 396 | Pogo 2.0 |
 | 586 | 396 | Mjhays |
 | 587 | 396 | Deb Rose-Bridinger |
-| 588 | 395 | Toxic Troll |
-| 589 | 394 | Haley Lynn Agers |
-| 590 | 393 | Glitzy Blockpiece |
-| 591 | 393 | Cheeky Dashy |
-| 592 | 392 | Zany Dashgrid |
+| 588 | 395 | Zany Dashgrid |
+| 589 | 395 | Toxic Troll |
+| 590 | 394 | Haley Lynn Agers |
+| 591 | 393 | Glitzy Blockpiece |
+| 592 | 393 | Cheeky Dashy |
 | 593 | 391 | Josie Fig |
 | 594 | 387 | Junang Herowanto |
 | 595 | 386 | Karent524 |
