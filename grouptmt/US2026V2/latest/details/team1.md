@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 09:28:20 UTC
+# Standings for team1 as of 2026-03-18 09:28:46 UTC
 
 **Total Participants:** 3241
 
@@ -194,20 +194,20 @@
 | 186 | 1178 | Kayla Marie Stevenson |
 | 187 | 1174 | JonCorry Story |
 | 188 | 1171 | CL Meyer |
-| 189 | 1148 | Ruby Sandberg |
-| 190 | 1136 | Snippy Stacky |
-| 191 | 1131 | Ana Fernanda Sanchez |
-| 192 | 1131 | Crafty Dash |
-| 193 | 1129 | Bold Clear |
-| 194 | 1125 | Mike Mendoza |
-| 195 | 1119 | Matthew Bunn |
-| 196 | 1116 | Gigglelymomof2 |
-| 197 | 1111 | Sarah Stanonik |
-| 198 | 1110 | April Carroll |
-| 199 | 1104 | Hasty Cascader |
-| 200 | 1102 | Andy Harris |
-| 201 | 1102 | Erich EMac McIntosh |
-| 202 | 1100 | Sharisse Baltimore |
+| 189 | 1151 | Sharisse Baltimore |
+| 190 | 1148 | Ruby Sandberg |
+| 191 | 1136 | Snippy Stacky |
+| 192 | 1131 | Ana Fernanda Sanchez |
+| 193 | 1131 | Crafty Dash |
+| 194 | 1129 | Bold Clear |
+| 195 | 1125 | Mike Mendoza |
+| 196 | 1119 | Matthew Bunn |
+| 197 | 1116 | Gigglelymomof2 |
+| 198 | 1111 | Sarah Stanonik |
+| 199 | 1110 | April Carroll |
+| 200 | 1104 | Hasty Cascader |
+| 201 | 1102 | Andy Harris |
+| 202 | 1102 | Erich EMac McIntosh |
 | 203 | 1099 | Kris Koepke |
 | 204 | 1092 | Duane Ficara |
 | 205 | 1091 | Matt Aguilar |
@@ -244,13 +244,13 @@
 | 236 | 956 | Hut Des |
 | 237 | 951 | Mighty Patternbuilder |
 | 238 | 948 | Bigg Guy |
-| 239 | 944 | Stefanie Champion |
-| 240 | 938 | Ramona Gulledge |
-| 241 | 938 | Tyle Armstead |
-| 242 | 938 | Jodi Fichter |
-| 243 | 934 | Fairrun James |
-| 244 | 930 | Rat666 |
-| 245 | 930 | Jaime Barrett Nelson |
+| 239 | 947 | Jaime Barrett Nelson |
+| 240 | 944 | Stefanie Champion |
+| 241 | 938 | Ramona Gulledge |
+| 242 | 938 | Tyle Armstead |
+| 243 | 938 | Jodi Fichter |
+| 244 | 934 | Fairrun James |
+| 245 | 930 | Rat666 |
 | 246 | 927 | Shiny Patternblock |
 | 247 | 923 | Kim Bays |
 | 248 | 916 | TRCuse |
@@ -269,9 +269,9 @@
 | 261 | 891 | Donald Nguyen |
 | 262 | 887 | Michael Zates |
 | 263 | 883 | Chris |
-| 264 | 873 | Jaame Courtney |
-| 265 | 870 | Mahmudul Hasan |
-| 266 | 866 | SitHazy |
+| 264 | 880 | SitHazy |
+| 265 | 873 | Jaame Courtney |
+| 266 | 870 | Mahmudul Hasan |
 | 267 | 859 | Patti Rone |
 | 268 | 857 | Brittney Groler |
 | 269 | 856 | Dustin Rouse |
@@ -954,46 +954,46 @@
 | 946 | 257 | Dizzy Pivoty |
 | 947 | 257 | Larry Fritzinger |
 | 948 | 257 | Loony Dropzone |
-| 949 | 256 | Michael Worthman |
-| 950 | 256 | Hoppy Buildgrid |
-| 951 | 255 | Dawg |
-| 952 | 255 | Blake Gee |
-| 953 | 255 | Bouncy Patternzone |
-| 954 | 255 | Tim Doxtator |
-| 955 | 255 | Maverick McGowan |
-| 956 | 255 | Trish Podann |
-| 957 | 255 | Connie Bond |
-| 958 | 254 | CelticTraveler |
-| 959 | 254 | Here Nisie |
-| 960 | 254 | Leah LaShomb |
-| 961 | 254 | Texastytest |
-| 962 | 253 | Giggy Twistpiece |
-| 963 | 253 | Buster Goots |
-| 964 | 252 | Israel Lane |
-| 965 | 252 | Giddy Clearbuilder |
-| 966 | 251 | Samantha Vidaurri |
-| 967 | 251 | Tinker71 |
-| 968 | 251 | Tyler Hertzog |
-| 969 | 251 | Meli |
-| 970 | 251 | Jack Mattiace |
-| 971 | 251 | Melsap #8284 |
-| 972 | 251 | Dace Zoltners |
-| 973 | 250 | bricked |
-| 974 | 250 | Katy Schuster |
-| 975 | 249 | Travis Taylor |
-| 976 | 249 | Wren#3 |
-| 977 | 249 | Zippy Cascadezone |
-| 978 | 249 | Danelle Sulentic |
-| 979 | 249 | Karmyst |
-| 980 | 249 | Tanya Carpenter-Reynolds |
-| 981 | 249 | Sammie Hightower |
-| 982 | 248 | Carl Hampton |
-| 983 | 248 | Bink |
-| 984 | 248 | Jamie Hebert |
-| 985 | 248 | Gwenda Wright |
-| 986 | 248 | Benjamin Ford |
-| 987 | 248 | Leche |
-| 988 | 248 | Daniel James Man |
+| 949 | 257 | Daniel James Man |
+| 950 | 256 | Michael Worthman |
+| 951 | 256 | Hoppy Buildgrid |
+| 952 | 255 | Dawg |
+| 953 | 255 | Blake Gee |
+| 954 | 255 | Bouncy Patternzone |
+| 955 | 255 | Tim Doxtator |
+| 956 | 255 | Maverick McGowan |
+| 957 | 255 | Trish Podann |
+| 958 | 255 | Connie Bond |
+| 959 | 254 | CelticTraveler |
+| 960 | 254 | Here Nisie |
+| 961 | 254 | Leah LaShomb |
+| 962 | 254 | Texastytest |
+| 963 | 253 | Giggy Twistpiece |
+| 964 | 253 | Buster Goots |
+| 965 | 252 | Israel Lane |
+| 966 | 252 | Giddy Clearbuilder |
+| 967 | 251 | Samantha Vidaurri |
+| 968 | 251 | Tinker71 |
+| 969 | 251 | Tyler Hertzog |
+| 970 | 251 | Meli |
+| 971 | 251 | Jack Mattiace |
+| 972 | 251 | Melsap #8284 |
+| 973 | 251 | Dace Zoltners |
+| 974 | 250 | bricked |
+| 975 | 250 | Katy Schuster |
+| 976 | 249 | Travis Taylor |
+| 977 | 249 | Wren#3 |
+| 978 | 249 | Zippy Cascadezone |
+| 979 | 249 | Danelle Sulentic |
+| 980 | 249 | Karmyst |
+| 981 | 249 | Tanya Carpenter-Reynolds |
+| 982 | 249 | Sammie Hightower |
+| 983 | 248 | Carl Hampton |
+| 984 | 248 | Bink |
+| 985 | 248 | Jamie Hebert |
+| 986 | 248 | Gwenda Wright |
+| 987 | 248 | Benjamin Ford |
+| 988 | 248 | Leche |
 | 989 | 248 | Justin Woods |
 | 990 | 247 | Selena Shaw |
 | 991 | 247 | Crafty Clearfit |
@@ -2055,23 +2055,23 @@
 | 2047 | 72 | Chipper Snapfit |
 | 2048 | 72 | Patrick Cordova |
 | 2049 | 71 | ibtsoom |
-| 2050 | 71 | ohmoogirl |
-| 2051 | 71 | Giggly Clearfit |
-| 2052 | 71 | John McCarthy II |
-| 2053 | 70 | Lynette Tamlin |
-| 2054 | 70 | GuttaAce |
-| 2055 | 70 | Faith Dupuis |
-| 2056 | 70 | Theresa Stanley |
-| 2057 | 70 | John Cruz |
-| 2058 | 70 | Bill Sayed |
-| 2059 | 70 | Annette Jordan |
-| 2060 | 70 | Sherlyn Zavala |
-| 2061 | 70 | Josh Ferguson |
-| 2062 | 70 | Twisted Fish |
-| 2063 | 70 | JBond007 |
-| 2064 | 70 | Heather Walters |
-| 2065 | 70 | Frothy Tetrisline |
-| 2066 | 70 | Daynj |
+| 2050 | 71 | Daynj |
+| 2051 | 71 | ohmoogirl |
+| 2052 | 71 | Giggly Clearfit |
+| 2053 | 71 | John McCarthy II |
+| 2054 | 70 | Lynette Tamlin |
+| 2055 | 70 | GuttaAce |
+| 2056 | 70 | Faith Dupuis |
+| 2057 | 70 | Theresa Stanley |
+| 2058 | 70 | John Cruz |
+| 2059 | 70 | Bill Sayed |
+| 2060 | 70 | Annette Jordan |
+| 2061 | 70 | Sherlyn Zavala |
+| 2062 | 70 | Josh Ferguson |
+| 2063 | 70 | Twisted Fish |
+| 2064 | 70 | JBond007 |
+| 2065 | 70 | Heather Walters |
+| 2066 | 70 | Frothy Tetrisline |
 | 2067 | 70 | Nerdbomb |
 | 2068 | 70 | Theresa Franklin Stevens |
 | 2069 | 69 | pretty kitty |
