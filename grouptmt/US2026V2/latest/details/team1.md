@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 06:30:46 UTC
+# Standings for team1 as of 2026-03-18 06:31:23 UTC
 
 **Total Participants:** 3220
 
@@ -13,7 +13,7 @@
 | 5 | 16978 | Nathaniel Hughes |
 | 6 | 16556 | Scott Lindsay |
 | 7 | 13754 | Amy Dial Brown |
-| 8 | 13595 | Bryan Stockwell |
+| 8 | 13614 | Bryan Stockwell |
 | 9 | 12596 | Grace Kelly |
 | 10 | 12139 | Hyper |
 | 11 | 11348 | Dizzy Stagger |
@@ -179,8 +179,8 @@
 | 171 | 1256 | Giddy Balancepiece |
 | 172 | 1255 | Kris Hudelson |
 | 173 | 1254 | Nick Kozdron |
-| 174 | 1250 | Jess Dearborn |
-| 175 | 1248 | Nyki Marie |
+| 174 | 1250 | Nyki Marie |
+| 175 | 1250 | Jess Dearborn |
 | 176 | 1244 | PhatWI41 |
 | 177 | 1242 | Jay Aye |
 | 178 | 1236 | Eric Hoffman |
@@ -515,45 +515,45 @@
 | 507 | 462 | KoDaK |
 | 508 | 462 | Lee Sipelii |
 | 509 | 462 | Amber LR Sutter |
-| 510 | 461 | Mama Becky |
-| 511 | 460 | Zachary Moran |
-| 512 | 460 | NolaGal |
+| 510 | 462 | Andrea Clippert |
+| 511 | 461 | Mama Becky |
+| 512 | 460 | Zachary Moran |
 | 513 | 460 | Snappy Linkroll |
-| 514 | 459 | Josh Barringer |
-| 515 | 457 | Andrea Clippert |
+| 514 | 460 | NolaGal |
+| 515 | 459 | Josh Barringer |
 | 516 | 457 | Quirky Dashy |
-| 517 | 456 | Denise Potter |
-| 518 | 456 | freakyjoe |
+| 517 | 456 | freakyjoe |
+| 518 | 456 | Denise Potter |
 | 519 | 454 | Tausha Mathews |
 | 520 | 454 | Angel Pham |
 | 521 | 453 | Jason Nathaniel Caniff |
 | 522 | 452 | Dizzy Linkgrid |
-| 523 | 451 | Ambrosia Natas Danu |
-| 524 | 451 | Carly |
+| 523 | 451 | Carly |
+| 524 | 451 | Ambrosia Natas Danu |
 | 525 | 450 | Nicole Plummer |
 | 526 | 450 | Chipper Balancepiece |
 | 527 | 448 | Belle Olguin |
 | 528 | 447 | Kay Alifi |
 | 529 | 446 | Jonnelle Partin |
-| 530 | 445 | Paul Stafford |
+| 530 | 445 | Terrance Williams |
 | 531 | 445 | tazd0629 |
-| 532 | 445 | Terrance Williams |
+| 532 | 445 | Paul Stafford |
 | 533 | 442 | Seaira Allen |
-| 534 | 441 | Courtney Leigh Deiber |
-| 535 | 441 | Fancy Cascadebuilder |
-| 536 | 440 | Samantha Crowley |
+| 534 | 441 | Fancy Cascadebuilder |
+| 535 | 441 | Courtney Leigh Deiber |
+| 536 | 440 | BugsMama |
 | 537 | 440 | Ash |
-| 538 | 440 | BugsMama |
+| 538 | 440 | Samantha Crowley |
 | 539 | 439 | Stephen Glaze |
 | 540 | 437 | Angela |
 | 541 | 435 | Lynn Adams |
 | 542 | 434 | Spunky Matchfit |
 | 543 | 433 | Dreamy Matchclear |
-| 544 | 432 | Snippy Line |
-| 545 | 432 | Binh Ha |
-| 546 | 431 | Sunny Linkpiece |
-| 547 | 431 | anshu |
-| 548 | 431 | Greg Hart |
+| 544 | 432 | Binh Ha |
+| 545 | 432 | Snippy Line |
+| 546 | 431 | Greg Hart |
+| 547 | 431 | Sunny Linkpiece |
+| 548 | 431 | anshu |
 | 549 | 429 | Maju Restini |
 | 550 | 429 | Tim Slone |
 | 551 | 428 | Hobson Lopes |
@@ -1206,26 +1206,26 @@
 | 1198 | 190 | Moo |
 | 1199 | 190 | Chilly Pop |
 | 1200 | 190 | FireHawk |
-| 1201 | 190 | poopoo |
-| 1202 | 190 | Cheat |
-| 1203 | 189 | Dandy Snapper |
+| 1201 | 190 | Annette Bamburg |
+| 1202 | 190 | poopoo |
+| 1203 | 190 | Cheat |
 | 1204 | 189 | Ðirt |
-| 1205 | 188 | James Simms III |
-| 1206 | 188 | Sasha Priddy |
-| 1207 | 187 | Tabetha Craddock |
-| 1208 | 186 | BeeDub |
-| 1209 | 186 | Nutty Matcher |
+| 1205 | 189 | Dandy Snapper |
+| 1206 | 188 | James Simms III |
+| 1207 | 188 | Sasha Priddy |
+| 1208 | 187 | Tabetha Craddock |
+| 1209 | 186 | BeeDub |
 | 1210 | 186 | Christopher Wesley |
-| 1211 | 185 | Annette Bamburg |
-| 1212 | 185 | Brandi Huntington |
-| 1213 | 185 | Crystal Talbert |
-| 1214 | 185 | Zac Brubaker |
-| 1215 | 185 | Cool Base |
-| 1216 | 185 | Bouncy Bouncer |
-| 1217 | 184 | Cynthia Mann |
-| 1218 | 184 | Barbara Miller |
-| 1219 | 184 | Denice Dee |
-| 1220 | 184 | Giggly Shatterer |
+| 1211 | 186 | Nutty Matcher |
+| 1212 | 185 | Cool Base |
+| 1213 | 185 | Zac Brubaker |
+| 1214 | 185 | Crystal Talbert |
+| 1215 | 185 | Bouncy Bouncer |
+| 1216 | 185 | Brandi Huntington |
+| 1217 | 184 | Giggly Shatterer |
+| 1218 | 184 | Cynthia Mann |
+| 1219 | 184 | Barbara Miller |
+| 1220 | 184 | Denice Dee |
 | 1221 | 184 | Hasty Builderpiece |
 | 1222 | 183 | Tia Smith |
 | 1223 | 183 | SLAPNUTZ |
