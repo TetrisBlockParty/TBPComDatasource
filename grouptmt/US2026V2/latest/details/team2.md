@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 07:46:47 UTC
+# Standings for team2 as of 2026-03-18 07:47:24 UTC
 
 **Total Participants:** 3272
 
@@ -963,100 +963,100 @@
 | 955 | 238 | funhon2829 |
 | 956 | 238 | Marie Shroyer |
 | 957 | 237 | Doodle |
-| 958 | 237 | Luna Locke |
-| 959 | 237 | Giddy Gridmatch |
+| 958 | 237 | Giddy Gridmatch |
+| 959 | 237 | Luna Locke |
 | 960 | 237 | Brendi Richardson |
 | 961 | 236 | Iliveformygirlz Smith |
-| 962 | 236 | Jeremy Steines |
-| 963 | 236 | jimjamflimflam |
-| 964 | 236 | Stefanie Bilello Burlew |
-| 965 | 236 | Tia Simmons |
-| 966 | 236 | Lien |
-| 967 | 235 | Tamara Cordero |
+| 962 | 236 | Tia Simmons |
+| 963 | 236 | Lien |
+| 964 | 236 | jimjamflimflam |
+| 965 | 236 | Stefanie Bilello Burlew |
+| 966 | 236 | Jeremy Steines |
+| 967 | 235 | Tiffany Dawn Caldwell |
 | 968 | 235 | Amanda Howard |
-| 969 | 235 | Tiffany Dawn Caldwell |
+| 969 | 235 | Ashley Grace |
 | 970 | 235 | Andrew McCafferty |
-| 971 | 235 | Ashley Grace |
+| 971 | 235 | Tamara Cordero |
 | 972 | 235 | Shiny Fill |
-| 973 | 234 | Jesse Saville |
-| 974 | 234 | D3TROITB0RN74 |
-| 975 | 234 | Summer Richardson |
-| 976 | 234 | Rod Grayll |
-| 977 | 233 | Rebecca Goforth |
-| 978 | 233 | TruAmber |
+| 973 | 234 | Rod Grayll |
+| 974 | 234 | Jesse Saville |
+| 975 | 234 | D3TROITB0RN74 |
+| 976 | 234 | Summer Richardson |
+| 977 | 233 | TruAmber |
+| 978 | 233 | Rebecca Goforth |
 | 979 | 233 | Dellalynn |
 | 980 | 232 | Helen |
 | 981 | 232 | Michelle Gnouilaphi |
 | 982 | 231 | Bold Brickzone |
-| 983 | 231 | Janelle Edgecombe |
+| 983 | 231 | Breezy |
 | 984 | 231 | BugMansMom |
-| 985 | 231 | Breezy |
-| 986 | 231 | Cool Blockline |
-| 987 | 231 | Bumblebee |
-| 988 | 230 | Rachy77 |
-| 989 | 230 | Shannon Lynn Goddard |
-| 990 | 230 | Megan Earp |
-| 991 | 230 | Chelle |
-| 992 | 230 | Jake Bell |
-| 993 | 230 | Monroy Juana |
+| 985 | 231 | Cool Blockline |
+| 986 | 231 | Bumblebee |
+| 987 | 231 | Janelle Edgecombe |
+| 988 | 230 | Megan Earp |
+| 989 | 230 | Chelle |
+| 990 | 230 | Shannon Lynn Goddard |
+| 991 | 230 | Monroy Juana |
+| 992 | 230 | Rachy77 |
+| 993 | 230 | Jake Bell |
 | 994 | 230 | Quirky Linkbuilder |
 | 995 | 230 | Bubbly Stacker |
-| 996 | 229 | Cleopatra Daniels |
-| 997 | 229 | Brandon Maxey |
-| 998 | 228 | Christina Freeman |
-| 999 | 228 | JZoya  Scott |
-| 1000 | 228 | Clarence Ward |
-| 1001 | 228 | Marla Erin Salas |
-| 1002 | 228 | Joey Albright |
-| 1003 | 228 | Briana Hargett |
-| 1004 | 228 | melis |
-| 1005 | 226 | Brenda Arbaugh |
+| 996 | 229 | Brandon Maxey |
+| 997 | 229 | Angie Maddox |
+| 998 | 229 | Cleopatra Daniels |
+| 999 | 228 | Christina Freeman |
+| 1000 | 228 | JZoya  Scott |
+| 1001 | 228 | Clarence Ward |
+| 1002 | 228 | Briana Hargett |
+| 1003 | 228 | Joey Albright |
+| 1004 | 228 | Marla Erin Salas |
+| 1005 | 228 | melis |
 | 1006 | 226 | Sonya Gail Goodman |
-| 1007 | 226 | Angie Maddox |
+| 1007 | 226 | Brenda Arbaugh |
 | 1008 | 226 | Anthony Intrabartolo |
-| 1009 | 225 | Elliana |
-| 1010 | 225 | Stephanie Harrington |
-| 1011 | 225 | Mary Love |
+| 1009 | 225 | Stephanie Harrington |
+| 1010 | 225 | Mary Love |
+| 1011 | 225 | Elliana |
 | 1012 | 225 | Bubbl3s |
 | 1013 | 225 | Adrianne Traylor |
 | 1014 | 224 | Nicole Archuleta |
 | 1015 | 224 | Lisa Parr |
-| 1016 | 223 | Swanky Tile |
-| 1017 | 223 | Bryan Bishop |
-| 1018 | 223 | Valhammer |
-| 1019 | 222 | Vicke Patterson |
-| 1020 | 222 | croshay |
-| 1021 | 222 | jay |
-| 1022 | 222 | scott |
+| 1016 | 223 | Valhammer |
+| 1017 | 223 | Swanky Tile |
+| 1018 | 223 | Bryan Bishop |
+| 1019 | 222 | scott |
+| 1020 | 222 | jay |
+| 1021 | 222 | Vicke Patterson |
+| 1022 | 222 | croshay |
 | 1023 | 222 | Crafty Twistbuilder |
 | 1024 | 220 | Zesty Edgefit |
-| 1025 | 220 | Susan Valentino |
-| 1026 | 220 | Jeremiah Gensler |
-| 1027 | 220 | Marlisa Clark |
+| 1025 | 220 | Jeremiah Gensler |
+| 1026 | 220 | Marlisa Clark |
+| 1027 | 220 | Susan Valentino |
 | 1028 | 220 | MissS |
 | 1029 | 220 | Taizia Raeshell |
-| 1030 | 219 | Danielle Davis Speir |
-| 1031 | 219 | Marshall Renee |
-| 1032 | 219 | Bubbly Blockmatch |
-| 1033 | 219 | Katie Coyle |
-| 1034 | 219 | KAP |
+| 1030 | 219 | KAP |
+| 1031 | 219 | Bubbly Blockmatch |
+| 1032 | 219 | Marshall Renee |
+| 1033 | 219 | Danielle Davis Speir |
+| 1034 | 219 | Katie Coyle |
 | 1035 | 218 | Brave Cascadeclear |
-| 1036 | 218 | MinorMAjOR |
-| 1037 | 218 | Bethany H. Tunison |
+| 1036 | 218 | Bethany H. Tunison |
+| 1037 | 218 | MinorMAjOR |
 | 1038 | 218 | spriege |
 | 1039 | 218 | Christopher Kissiah |
 | 1040 | 218 | Ryan |
-| 1041 | 217 | Angela Gay |
-| 1042 | 217 | Chummy Linkgrid |
-| 1043 | 217 | Glenn Samantha Grove |
-| 1044 | 216 | Theresa Crawford |
-| 1045 | 216 | Mango |
-| 1046 | 216 | Gin Klingenberg |
-| 1047 | 216 | Amanda |
+| 1041 | 217 | Chummy Linkgrid |
+| 1042 | 217 | Glenn Samantha Grove |
+| 1043 | 217 | Angela Gay |
+| 1044 | 216 | Amanda |
+| 1045 | 216 | Theresa Crawford |
+| 1046 | 216 | Mango |
+| 1047 | 216 | Gin Klingenberg |
 | 1048 | 215 | Robin |
 | 1049 | 215 | Elizabeth Blankenship |
-| 1050 | 215 | Kourtney Zarback |
-| 1051 | 215 | Swanky Shiftsnap |
+| 1050 | 215 | Swanky Shiftsnap |
+| 1051 | 215 | Kourtney Zarback |
 | 1052 | 215 | Frilly Basegrid |
 | 1053 | 215 | Bobbi Griepentrog |
 | 1054 | 214 | Ryan Martin |

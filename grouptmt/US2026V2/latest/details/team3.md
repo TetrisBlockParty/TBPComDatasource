@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-18 07:46:47 UTC
+# Standings for team3 as of 2026-03-18 07:47:24 UTC
 
 **Total Participants:** 5091
 
@@ -617,13 +617,13 @@
 | 609 | 575 | Hoppy Patternline |
 | 610 | 575 | Veronica Gutierrez |
 | 611 | 575 | Jay H. Escobar |
-| 612 | 571 | Twisty Blockpiece |
-| 613 | 571 | Denise Rickman |
-| 614 | 570 | Kayla |
-| 615 | 569 | Blocked |
-| 616 | 568 | Meganator42 |
-| 617 | 567 | Daryn Elliott |
-| 618 | 567 | Jasmine Sparks |
+| 612 | 572 | Blocked |
+| 613 | 571 | Twisty Blockpiece |
+| 614 | 571 | Denise Rickman |
+| 615 | 570 | Kayla |
+| 616 | 568 | Jasmine Sparks |
+| 617 | 568 | Meganator42 |
+| 618 | 567 | Daryn Elliott |
 | 619 | 566 | Leonard Vann |
 | 620 | 566 | Dapper Pusher |
 | 621 | 566 | Sunny Lift |
@@ -1359,22 +1359,22 @@
 | 1351 | 270 | Plucky Linebuilder |
 | 1352 | 270 | Cool Catcher |
 | 1353 | 269 | Monica Dodge Nicholas |
-| 1354 | 269 | Tianna Marie Abram |
-| 1355 | 269 | Plantmom |
-| 1356 | 269 | Garrett Burket |
-| 1357 | 269 | Snazzy Blockpiece |
-| 1358 | 269 | Larry Tilton |
-| 1359 | 268 | CàrMel D'liTe |
-| 1360 | 268 | Nate Marse |
-| 1361 | 268 | Snowbunny |
-| 1362 | 268 | Ada |
-| 1363 | 268 | Chirpy Towerfall |
-| 1364 | 268 | Louie Biff Lafloor |
-| 1365 | 268 | Kacy Ramsey |
-| 1366 | 268 | Goofy T-spin |
-| 1367 | 268 | Brittany T |
-| 1368 | 267 | Tasha Syers |
-| 1369 | 267 | Ashley Patricia Hilson |
+| 1354 | 269 | Ashley Patricia Hilson |
+| 1355 | 269 | Tianna Marie Abram |
+| 1356 | 269 | Plantmom |
+| 1357 | 269 | Garrett Burket |
+| 1358 | 269 | Snazzy Blockpiece |
+| 1359 | 269 | Larry Tilton |
+| 1360 | 268 | CàrMel D'liTe |
+| 1361 | 268 | Nate Marse |
+| 1362 | 268 | Snowbunny |
+| 1363 | 268 | Ada |
+| 1364 | 268 | Chirpy Towerfall |
+| 1365 | 268 | Louie Biff Lafloor |
+| 1366 | 268 | Kacy Ramsey |
+| 1367 | 268 | Goofy T-spin |
+| 1368 | 268 | Brittany T |
+| 1369 | 267 | Tasha Syers |
 | 1370 | 267 | Ally |
 | 1371 | 267 | Mary Tripp |
 | 1372 | 266 | Rachel S Wilson |
@@ -3329,16 +3329,16 @@
 | 3321 | 65 | Keisha Stewart |
 | 3322 | 65 | Amybaby |
 | 3323 | 65 | Danielle Jamie |
-| 3324 | 65 | des |
+| 3324 | 65 | TripsAhoy |
 | 3325 | 65 | Ttirb |
 | 3326 | 65 | Brandi Duncan |
 | 3327 | 65 | Sabrina Ashley |
-| 3328 | 65 | TripsAhoy |
-| 3329 | 65 | Sarah Hallenius |
+| 3328 | 65 | Sarah Hallenius |
+| 3329 | 65 | des |
 | 3330 | 65 | Ohhy Catchy |
-| 3331 | 65 | Amanda Duropan |
-| 3332 | 65 | Tiisha |
-| 3333 | 65 | Nerdy Staggerpiece |
+| 3331 | 65 | Tiisha |
+| 3332 | 65 | Nerdy Staggerpiece |
+| 3333 | 65 | Amanda Duropan |
 | 3334 | 65 | Jaizen Fav-kahoonei |
 | 3335 | 65 | Jamie Frank Karolyi |
 | 3336 | 65 | Ashley |
@@ -3362,44 +3362,44 @@
 | 3354 | 63 | KiKi Marley |
 | 3355 | 63 | Speedy Linkfall |
 | 3356 | 63 | Snippy Patternfit |
-| 3357 | 63 | Stacy L Cortez Gonzalez |
-| 3358 | 63 | Kendra Gull |
+| 3357 | 63 | Silly Twister |
+| 3358 | 63 | Roger Taylor |
 | 3359 | 63 | Brookie Ellen |
-| 3360 | 63 | Casey Musselman |
-| 3361 | 63 | Carly Brown |
-| 3362 | 63 | Tiffany Grezinski |
-| 3363 | 63 | Roger Taylor |
+| 3360 | 63 | Kendra Gull |
+| 3361 | 63 | Casey Musselman |
+| 3362 | 63 | Carly Brown |
+| 3363 | 63 | Tiffany Grezinski |
 | 3364 | 63 | Tammy Pike |
-| 3365 | 63 | Pamela Ritter Stemple |
-| 3366 | 63 | Shelly Sunnie Miller |
-| 3367 | 63 | Ashley Danielle Caldwell |
-| 3368 | 63 | Clever Slamdrop |
-| 3369 | 63 | Toddand Christina Troutman |
+| 3365 | 63 | Stacy L Cortez Gonzalez |
+| 3366 | 63 | Pamela Ritter Stemple |
+| 3367 | 63 | Shelly Sunnie Miller |
+| 3368 | 63 | Ashley Danielle Caldwell |
+| 3369 | 63 | Clever Slamdrop |
 | 3370 | 63 | sparklefartss |
-| 3371 | 63 | Deborah White |
-| 3372 | 62 | Tracy Born |
-| 3373 | 62 | Blockster |
-| 3374 | 62 | Valerie Pretty Pink |
-| 3375 | 62 | Brittney Harp |
-| 3376 | 62 | Stephanie Smolky Faulk |
-| 3377 | 62 | yurp |
-| 3378 | 62 | Bess Aine Kelley |
-| 3379 | 62 | windy257 |
-| 3380 | 62 | aku2020 |
-| 3381 | 62 | vampireslayer12 |
-| 3382 | 62 | DemonSlayingDarkEmpath |
-| 3383 | 62 | LoveBayou |
-| 3384 | 62 | Julie Sigmon |
-| 3385 | 62 | Myrtia Vs Tia |
-| 3386 | 61 | Hoppy Dropmatch |
-| 3387 | 61 | wiLLLL |
-| 3388 | 61 | Polo Jeffries |
-| 3389 | 61 | Tyleah Longmire |
-| 3390 | 61 | Bash |
-| 3391 | 61 | Coleen Engeriser |
-| 3392 | 61 | Nerdy Shuffler |
-| 3393 | 61 | Kennita Leach Woodard |
-| 3394 | 61 | Silly Twister |
+| 3371 | 63 | Toddand Christina Troutman |
+| 3372 | 63 | Deborah White |
+| 3373 | 62 | Valerie Pretty Pink |
+| 3374 | 62 | Blockster |
+| 3375 | 62 | Tracy Born |
+| 3376 | 62 | Brittney Harp |
+| 3377 | 62 | Stephanie Smolky Faulk |
+| 3378 | 62 | yurp |
+| 3379 | 62 | Bess Aine Kelley |
+| 3380 | 62 | windy257 |
+| 3381 | 62 | aku2020 |
+| 3382 | 62 | vampireslayer12 |
+| 3383 | 62 | DemonSlayingDarkEmpath |
+| 3384 | 62 | LoveBayou |
+| 3385 | 62 | Julie Sigmon |
+| 3386 | 62 | Myrtia Vs Tia |
+| 3387 | 61 | Hoppy Dropmatch |
+| 3388 | 61 | wiLLLL |
+| 3389 | 61 | Polo Jeffries |
+| 3390 | 61 | Tyleah Longmire |
+| 3391 | 61 | Bash |
+| 3392 | 61 | Coleen Engeriser |
+| 3393 | 61 | Nerdy Shuffler |
+| 3394 | 61 | Kennita Leach Woodard |
 | 3395 | 61 | Derrell Coppage |
 | 3396 | 61 | Victoria Smith |
 | 3397 | 61 | Nick M Luke |
