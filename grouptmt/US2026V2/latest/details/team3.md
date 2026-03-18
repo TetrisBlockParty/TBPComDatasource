@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-18 10:42:44 UTC
+# Standings for team3 as of 2026-03-18 10:43:21 UTC
 
 **Total Participants:** 5122
 
@@ -408,9 +408,9 @@
 | 400 | 856 | Atlantalindi |
 | 401 | 856 | Giggy Cornerfall |
 | 402 | 856 | Jenna Fullerton |
-| 403 | 849 | Zappy Curvetile |
-| 404 | 848 | Sweetea623 |
-| 405 | 848 | Dottie Turbeville Creel |
+| 403 | 855 | Dottie Turbeville Creel |
+| 404 | 849 | Zappy Curvetile |
+| 405 | 848 | Sweetea623 |
 | 406 | 845 | Jimeka Turner |
 | 407 | 843 | Cool Blockroll |
 | 408 | 842 | Melissa Matlock Calvin |
@@ -1033,17 +1033,17 @@
 | 1025 | 364 | Heather Beckmeier |
 | 1026 | 363 | Deanna Judd |
 | 1027 | 363 | lashanda |
-| 1028 | 362 | MissJoy |
-| 1029 | 362 | Bernadette Sanchez |
-| 1030 | 362 | Tonia Harris Taylor |
-| 1031 | 361 | Bobby Buccellato |
-| 1032 | 361 | Stacy M Price |
-| 1033 | 361 | Juan Pablo Ortiz |
+| 1028 | 362 | Juan Pablo Ortiz |
+| 1029 | 362 | MissJoy |
+| 1030 | 362 | Bernadette Sanchez |
+| 1031 | 362 | Tonia Harris Taylor |
+| 1032 | 361 | Bobby Buccellato |
+| 1033 | 361 | Stacy M Price |
 | 1034 | 361 | Siria Vanessa Grant |
 | 1035 | 361 | Tim Sidebottom |
 | 1036 | 361 | Tracy Dawn |
-| 1037 | 360 | Buggy Julks |
-| 1038 | 360 | Keerstin Moniz |
+| 1037 | 360 | Keerstin Moniz |
+| 1038 | 360 | Buggy Julks |
 | 1039 | 360 | Victoria Chyenne |
 | 1040 | 360 | Jumpy Snapper |
 | 1041 | 360 | Veronica Archambeau |
@@ -1058,19 +1058,19 @@
 | 1050 | 357 | Gage |
 | 1051 | 357 | Bobbie Harrell |
 | 1052 | 357 | Isaiah Perez |
-| 1053 | 357 | Tabitha Lynn |
-| 1054 | 357 | .running. |
-| 1055 | 357 | Toni M. Brown |
-| 1056 | 357 | Chrissy Slepicka |
-| 1057 | 357 | Sar |
-| 1058 | 357 | kb |
+| 1053 | 357 | kb |
+| 1054 | 357 | Sar |
+| 1055 | 357 | .running. |
+| 1056 | 357 | Toni M. Brown |
+| 1057 | 357 | Chrissy Slepicka |
+| 1058 | 357 | Tabitha Lynn |
 | 1059 | 356 | Linda L Gilbert |
 | 1060 | 356 | Chelle Sid |
 | 1061 | 356 | Xela |
 | 1062 | 356 | yayaph |
 | 1063 | 355 | Michelle Beres |
-| 1064 | 355 | Brett Peters |
-| 1065 | 355 | FuzzyNavel |
+| 1064 | 355 | FuzzyNavel |
+| 1065 | 355 | Brett Peters |
 | 1066 | 355 | Jessica Supinski |
 | 1067 | 354 | Jasmine Glover |
 | 1068 | 354 | Unicorn |
@@ -1078,11 +1078,11 @@
 | 1070 | 353 | party pooch |
 | 1071 | 353 | Sara Dunn |
 | 1072 | 353 | Nakeia Green |
-| 1073 | 353 | Cris |
+| 1073 | 353 | Carolina Bittar |
 | 1074 | 353 | Sam Swearingen |
-| 1075 | 353 | Carolina Bittar |
-| 1076 | 352 | Robu80HD |
-| 1077 | 352 | Maritza Martinez |
+| 1075 | 353 | Cris |
+| 1076 | 352 | Maritza Martinez |
+| 1077 | 352 | Robu80HD |
 | 1078 | 352 | Edwina Kimble |
 | 1079 | 352 | Beth Cherry |
 | 1080 | 351 | Victoria Cooper |
@@ -1171,12 +1171,12 @@
 | 1163 | 324 | Kenya Johnson |
 | 1164 | 324 | Ashley Tookes |
 | 1165 | 324 | Melissa Blackburn |
-| 1166 | 323 | BŘŰŤİÇŨŚ |
+| 1166 | 323 | Dani Peasnall |
 | 1167 | 323 | studyofself |
 | 1168 | 323 | Fallawn Stout-Peete |
-| 1169 | 323 | Dani Peasnall |
-| 1170 | 323 | Christina Marie Beall-Schmidt |
-| 1171 | 323 | Speedy Snaplink |
+| 1169 | 323 | Christina Marie Beall-Schmidt |
+| 1170 | 323 | Speedy Snaplink |
+| 1171 | 323 | BŘŰŤİÇŨŚ |
 | 1172 | 323 | Lush Tiley |
 | 1173 | 322 | Stacy Nicole Reed |
 | 1174 | 322 | Ang Mathis |
@@ -1190,8 +1190,8 @@
 | 1182 | 320 | Clever Snapfall |
 | 1183 | 320 | SteFunkyy |
 | 1184 | 320 | Purple Dolphin |
-| 1185 | 319 | Jody Texeira |
-| 1186 | 319 | Roxanne Biron |
+| 1185 | 319 | Roxanne Biron |
+| 1186 | 319 | Jody Texeira |
 | 1187 | 318 | rebel4lyfe |
 | 1188 | 318 | Nerdy Rotator |
 | 1189 | 317 | Shiny Match |
@@ -1202,13 +1202,13 @@
 | 1194 | 317 | Latifah Shari Graham |
 | 1195 | 317 | Crafty Tile |
 | 1196 | 317 | Courtney |
-| 1197 | 316 | Zachera Jta |
-| 1198 | 316 | Gloria Parker |
-| 1199 | 316 | Trenkler Ray |
-| 1200 | 316 | Stacie Natasha Verdun |
+| 1197 | 316 | Stacie Natasha Verdun |
+| 1198 | 316 | Trenkler Ray |
+| 1199 | 316 | Gloria Parker |
+| 1200 | 316 | Zachera Jta |
 | 1201 | 316 | Giddy Climber |
-| 1202 | 315 | Angela Williams |
-| 1203 | 315 | Amber Jones |
+| 1202 | 315 | Amber Jones |
+| 1203 | 315 | Angela Williams |
 | 1204 | 315 | sarbea |
 | 1205 | 314 | Mary Crisp |
 | 1206 | 314 | Dandy Brickclear |
@@ -1223,16 +1223,16 @@
 | 1215 | 311 | Kendra Oswald Pearson |
 | 1216 | 311 | Shan Marie |
 | 1217 | 311 | GirlBossing2Close2Sun |
-| 1218 | 311 | Donald Calcutt |
-| 1219 | 311 | Giggy Setter |
-| 1220 | 310 | Victoria Lexis Dyer |
-| 1221 | 310 | Jason Leaf-Garrett |
-| 1222 | 310 | Cherrelle Romulus |
-| 1223 | 310 | Richard Kent |
-| 1224 | 309 | hckymomma |
-| 1225 | 309 | Ananda Mendez |
-| 1226 | 309 | Katie Smith |
-| 1227 | 308 | Speedy Shatterline |
+| 1218 | 311 | Speedy Shatterline |
+| 1219 | 311 | Donald Calcutt |
+| 1220 | 311 | Giggy Setter |
+| 1221 | 310 | Victoria Lexis Dyer |
+| 1222 | 310 | Jason Leaf-Garrett |
+| 1223 | 310 | Cherrelle Romulus |
+| 1224 | 310 | Richard Kent |
+| 1225 | 309 | hckymomma |
+| 1226 | 309 | Ananda Mendez |
+| 1227 | 309 | Katie Smith |
 | 1228 | 308 | Jazzy Blockzone |
 | 1229 | 308 | Deanna Woodley |
 | 1230 | 308 | Lyteskin Greeneyez |
@@ -1253,15 +1253,15 @@
 | 1245 | 304 | Paul Gates |
 | 1246 | 304 | Pam |
 | 1247 | 304 | Witty Capricorn |
-| 1248 | 303 | Amanda Neal |
-| 1249 | 303 | Chirpy Towerfall |
+| 1248 | 303 | Chirpy Towerfall |
+| 1249 | 303 | Amanda Neal |
 | 1250 | 302 | Twisty Dashgrid |
 | 1251 | 302 | Lelia Lamirande |
 | 1252 | 301 | J Ro |
 | 1253 | 301 | Shelly Garay |
 | 1254 | 301 | Røsê Mïrïndie |
-| 1255 | 301 | Helena Smith |
-| 1256 | 301 | Brittany Marie |
+| 1255 | 301 | Brittany Marie |
+| 1256 | 301 | Helena Smith |
 | 1257 | 300 | Heather M Purcell |
 | 1258 | 300 | BadazzzWayde |
 | 1259 | 300 | Haley |
@@ -1298,8 +1298,8 @@
 | 1290 | 292 | Slinky Risepiece |
 | 1291 | 292 | Patti Ward |
 | 1292 | 292 | LongLive Peace |
-| 1293 | 292 | Kimberly Bickling |
-| 1294 | 292 | Larry Tilton |
+| 1293 | 292 | Larry Tilton |
+| 1294 | 292 | Kimberly Bickling |
 | 1295 | 292 | Bussy Bay |
 | 1296 | 291 | Snicks |
 | 1297 | 290 | Evie Ward |
@@ -1307,28 +1307,28 @@
 | 1299 | 289 | Ashley Patricia Hilson |
 | 1300 | 288 | Shamica Watley |
 | 1301 | 288 | Amanda Faye |
-| 1302 | 288 | Daisy Fireworks |
-| 1303 | 288 | Kristol |
-| 1304 | 288 | Dorothy Sweeden |
+| 1302 | 288 | Kristol |
+| 1303 | 288 | Dorothy Sweeden |
+| 1304 | 288 | Daisy Fireworks |
 | 1305 | 288 | Adria Meeks |
 | 1306 | 288 | Snowkitt |
 | 1307 | 287 | Michael Mercier |
-| 1308 | 287 | Lush Pattern |
-| 1309 | 287 | Lucille Byrden |
-| 1310 | 287 | Tammy Renee Wicker |
+| 1308 | 287 | Lucille Byrden |
+| 1309 | 287 | Tammy Renee Wicker |
+| 1310 | 287 | Lush Pattern |
 | 1311 | 286 | Man of Steel |
 | 1312 | 286 | Cool Patternzone |
 | 1313 | 286 | Smiley Spinzone |
 | 1314 | 285 | Jordan Brooks |
 | 1315 | 285 | Jessica Altobelli |
-| 1316 | 285 | La Rhonda Cossette |
-| 1317 | 285 | Brittany Lynn Sass |
+| 1316 | 285 | Brittany Lynn Sass |
+| 1317 | 285 | La Rhonda Cossette |
 | 1318 | 284 | Mighty Dashpiece |
 | 1319 | 284 | Amber Clark |
 | 1320 | 284 | Monica Gaines |
 | 1321 | 283 | Ashley 'Wilson' Winter |
-| 1322 | 283 | Kate Farok |
-| 1323 | 283 | Flashy Pop |
+| 1322 | 283 | Flashy Pop |
+| 1323 | 283 | Kate Farok |
 | 1324 | 282 | Leanne Summerall |
 | 1325 | 282 | Glitzy Rollpiece |
 | 1326 | 281 | Thomas J |
