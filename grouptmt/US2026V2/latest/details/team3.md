@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-18 10:40:19 UTC
+# Standings for team3 as of 2026-03-18 10:40:41 UTC
 
 **Total Participants:** 5122
 
@@ -834,8 +834,8 @@
 | 826 | 451 | Trish Love |
 | 827 | 450 | Valerie Woodall |
 | 828 | 450 | Divine_fate |
-| 829 | 449 | Josh Gibson |
-| 830 | 449 | Mellaniie Fader |
+| 829 | 449 | Mellaniie Fader |
+| 830 | 449 | Josh Gibson |
 | 831 | 449 | Kathy |
 | 832 | 446 | Amanda Lea |
 | 833 | 445 | Boricua64 |
@@ -848,8 +848,8 @@
 | 840 | 443 | Amanda Koon |
 | 841 | 442 | Kari Smith |
 | 842 | 442 | Luyza Villanueva |
-| 843 | 442 | Amy Mascherini |
-| 844 | 442 | Frothy Wipebuilder |
+| 843 | 442 | Frothy Wipebuilder |
+| 844 | 442 | Amy Mascherini |
 | 845 | 440 | Noel Hill Hoose |
 | 846 | 440 | Miguel Cashtro |
 | 847 | 437 | Etoya Son |
@@ -865,83 +865,83 @@
 | 857 | 432 | Cesar Mendez |
 | 858 | 432 | Basment Living |
 | 859 | 431 | Nope Young |
-| 860 | 430 | MommaMangold |
-| 861 | 430 | Nick Blythe |
-| 862 | 430 | Jerry Bassett |
-| 863 | 429 | Cheeky Wobbler |
-| 864 | 429 | Kay |
+| 860 | 430 | Nick Blythe |
+| 861 | 430 | Tiffany Jones |
+| 862 | 430 | MommaMangold |
+| 863 | 430 | Jerry Bassett |
+| 864 | 429 | Cheeky Wobbler |
 | 865 | 429 | Lolisea LovedbyMe Wade |
-| 866 | 428 | Suleiman Hassouneh |
-| 867 | 427 | Felicia Williams |
-| 868 | 427 | Natalie Ann Ludwig |
-| 869 | 427 | Kayla Jo Piper |
-| 870 | 427 | Meh |
-| 871 | 426 | Eden Sharp |
-| 872 | 426 | Scott Brown |
-| 873 | 425 | Rugrat Angi Bechstein |
-| 874 | 425 | Chiquita Gillard |
-| 875 | 424 | Kyrie Cleasby |
-| 876 | 424 | Nerdy Stacky |
-| 877 | 423 | Stephanie |
-| 878 | 422 | Tracey Lodge |
-| 879 | 422 | Charise McGee |
-| 880 | 422 | Lisa Taylor Amancio |
-| 881 | 421 | Michael Willett |
-| 882 | 421 | Bethany Alnajjar |
-| 883 | 421 | Amanda Marie |
-| 884 | 420 | Amandacolle |
-| 885 | 420 | Dorothy Rudolech |
-| 886 | 420 | yna |
-| 887 | 420 | Irie |
-| 888 | 420 | Rachel Taylor |
-| 889 | 419 | Stephanie BeenGone |
-| 890 | 419 | Mandy Hanford |
-| 891 | 418 | Marty Hernandez |
-| 892 | 418 | Sassy Wipeblock |
+| 866 | 429 | Kay |
+| 867 | 428 | Suleiman Hassouneh |
+| 868 | 427 | Felicia Williams |
+| 869 | 427 | Natalie Ann Ludwig |
+| 870 | 427 | Kayla Jo Piper |
+| 871 | 427 | Meh |
+| 872 | 426 | Eden Sharp |
+| 873 | 426 | Scott Brown |
+| 874 | 425 | Rugrat Angi Bechstein |
+| 875 | 425 | Chiquita Gillard |
+| 876 | 424 | Kyrie Cleasby |
+| 877 | 424 | Nerdy Stacky |
+| 878 | 423 | Stephanie |
+| 879 | 422 | Tracey Lodge |
+| 880 | 422 | Charise McGee |
+| 881 | 422 | Lisa Taylor Amancio |
+| 882 | 421 | Michael Willett |
+| 883 | 421 | Bethany Alnajjar |
+| 884 | 421 | Amanda Marie |
+| 885 | 420 | Amandacolle |
+| 886 | 420 | Dorothy Rudolech |
+| 887 | 420 | yna |
+| 888 | 420 | Irie |
+| 889 | 420 | Rachel Taylor |
+| 890 | 419 | Stephanie BeenGone |
+| 891 | 419 | Mandy Hanford |
+| 892 | 418 | Marty Hernandez |
 | 893 | 418 | Stephanie Lafalce |
-| 894 | 417 | Josh Hernandez |
-| 895 | 417 | Seda Highlyfavour |
-| 896 | 416 | Amber Hart |
-| 897 | 415 | Nicole JC |
-| 898 | 414 | Michelle L Vibberts |
-| 899 | 414 | Mimi Pidou |
-| 900 | 413 | Why Mae |
-| 901 | 413 | Plucky Gridclear |
-| 902 | 413 | Christina M Arroyo |
-| 903 | 413 | Unapologetic' |
-| 904 | 412 | Magoo Backpack |
-| 905 | 412 | Sherrie Greulich |
-| 906 | 411 | Larina Cherie Johnson |
-| 907 | 411 | Shelly Davids |
-| 908 | 410 | Misty Lynn Callahan |
-| 909 | 410 | Leonor Ramos-Chavez |
+| 894 | 418 | Sassy Wipeblock |
+| 895 | 417 | Josh Hernandez |
+| 896 | 417 | Seda Highlyfavour |
+| 897 | 416 | Amber Hart |
+| 898 | 415 | Nicole JC |
+| 899 | 414 | Michelle L Vibberts |
+| 900 | 414 | Mimi Pidou |
+| 901 | 413 | Why Mae |
+| 902 | 413 | Plucky Gridclear |
+| 903 | 413 | Christina M Arroyo |
+| 904 | 413 | Unapologetic' |
+| 905 | 412 | Magoo Backpack |
+| 906 | 412 | Sherrie Greulich |
+| 907 | 411 | Larina Cherie Johnson |
+| 908 | 411 | Shelly Davids |
+| 909 | 410 | Misty Lynn Callahan |
 | 910 | 410 | Alexandra Heater |
-| 911 | 409 | Wacky Setter |
-| 912 | 409 | Earvin Smiley |
-| 913 | 409 | Jamie Fulmore |
-| 914 | 408 | Coleen Yoder |
-| 915 | 408 | Renee Marty |
-| 916 | 407 | MarkyMark Will Jr. |
-| 917 | 407 | Michael Kimbro |
-| 918 | 407 | Joy Smith |
-| 919 | 406 | Karen Jones |
-| 920 | 406 | Brenda Utphall |
-| 921 | 404 | Aronall Ynnej |
-| 922 | 404 | Katraya Dansby |
-| 923 | 404 | Sarita Ford |
-| 924 | 403 | Natalie Sandoval |
-| 925 | 402 | JScharger20 |
-| 926 | 402 | Boldy Jumper |
-| 927 | 401 | Jacqueline Williams |
-| 928 | 400 | Calista Maurer Blaylock |
-| 929 | 400 | Alicia J Rodriguez |
-| 930 | 400 | Jose Alvarado |
-| 931 | 400 | Tifftank |
-| 932 | 399 | Jalissa Monique |
-| 933 | 398 | luluraine |
-| 934 | 397 | Danielle Newell |
-| 935 | 397 | Romano |
-| 936 | 397 | Tiffany Jones |
+| 911 | 410 | Leonor Ramos-Chavez |
+| 912 | 409 | Wacky Setter |
+| 913 | 409 | Earvin Smiley |
+| 914 | 409 | Jamie Fulmore |
+| 915 | 408 | Coleen Yoder |
+| 916 | 408 | Renee Marty |
+| 917 | 407 | MarkyMark Will Jr. |
+| 918 | 407 | Michael Kimbro |
+| 919 | 407 | Joy Smith |
+| 920 | 406 | Karen Jones |
+| 921 | 406 | Brenda Utphall |
+| 922 | 404 | Aronall Ynnej |
+| 923 | 404 | Katraya Dansby |
+| 924 | 404 | Sarita Ford |
+| 925 | 403 | Natalie Sandoval |
+| 926 | 402 | JScharger20 |
+| 927 | 402 | Boldy Jumper |
+| 928 | 401 | Jacqueline Williams |
+| 929 | 400 | Calista Maurer Blaylock |
+| 930 | 400 | Alicia J Rodriguez |
+| 931 | 400 | Jose Alvarado |
+| 932 | 400 | Tifftank |
+| 933 | 399 | Jalissa Monique |
+| 934 | 398 | luluraine |
+| 935 | 397 | Danielle Newell |
+| 936 | 397 | Romano |
 | 937 | 396 | Sara Krueger Walch |
 | 938 | 395 | Pinky |
 | 939 | 395 | Meowsa |
@@ -1226,9 +1226,9 @@
 | 1218 | 311 | Giggy Setter |
 | 1219 | 311 | Donald Calcutt |
 | 1220 | 310 | Victoria Lexis Dyer |
-| 1221 | 310 | Cherrelle Romulus |
-| 1222 | 310 | Richard Kent |
-| 1223 | 309 | Jason Leaf-Garrett |
+| 1221 | 310 | Jason Leaf-Garrett |
+| 1222 | 310 | Cherrelle Romulus |
+| 1223 | 310 | Richard Kent |
 | 1224 | 309 | hckymomma |
 | 1225 | 309 | Katie Smith |
 | 1226 | 309 | Ananda Mendez |
@@ -2257,22 +2257,22 @@
 | 2249 | 148 | Chilly Match |
 | 2250 | 148 | Sheryl |
 | 2251 | 148 | Twisty Zone |
-| 2252 | 148 | RaShelle Pitmon |
-| 2253 | 148 | Rachel Gamble |
-| 2254 | 148 | Lynn Marie |
-| 2255 | 148 | Shiree McFann |
-| 2256 | 148 | Jenni-Bug |
-| 2257 | 147 | Chucky |
-| 2258 | 147 | Kelly Brackman Shook |
-| 2259 | 147 | Ben Erwin |
-| 2260 | 147 | Ana |
-| 2261 | 147 | ShadowMage22 |
-| 2262 | 147 | Travis Bass |
-| 2263 | 147 | dwarfman |
-| 2264 | 146 | Sassy Rumbler |
-| 2265 | 146 | Smiley Slide |
-| 2266 | 146 | Cheryl Luttenegger |
-| 2267 | 146 | Truepyt |
+| 2252 | 148 | Ana |
+| 2253 | 148 | RaShelle Pitmon |
+| 2254 | 148 | Rachel Gamble |
+| 2255 | 148 | Lynn Marie |
+| 2256 | 148 | Shiree McFann |
+| 2257 | 148 | Jenni-Bug |
+| 2258 | 147 | Chucky |
+| 2259 | 147 | Kelly Brackman Shook |
+| 2260 | 147 | Travis Bass |
+| 2261 | 147 | dwarfman |
+| 2262 | 147 | ShadowMage22 |
+| 2263 | 147 | Ben Erwin |
+| 2264 | 146 | Smiley Slide |
+| 2265 | 146 | Cheryl Luttenegger |
+| 2266 | 146 | Truepyt |
+| 2267 | 146 | Sassy Rumbler |
 | 2268 | 146 | TheSmC |
 | 2269 | 146 | brittannie |
 | 2270 | 146 | Cee Moss |
@@ -2281,19 +2281,19 @@
 | 2273 | 145 | Stephanie MacMaster |
 | 2274 | 145 | Serena Shimony |
 | 2275 | 145 | Shante Cook |
-| 2276 | 145 | Tiny Lewis |
-| 2277 | 145 | CATFISH |
-| 2278 | 145 | Amanda Marshel |
-| 2279 | 145 | MauveArcher |
-| 2280 | 145 | Nicole Kathleen |
+| 2276 | 145 | Amanda Marshel |
+| 2277 | 145 | Tiny Lewis |
+| 2278 | 145 | CATFISH |
+| 2279 | 145 | Nicole Kathleen |
+| 2280 | 145 | MauveArcher |
 | 2281 | 144 | Beverly Tallmadge |
 | 2282 | 144 | EM |
 | 2283 | 144 | Nichole Papin |
-| 2284 | 144 | Krista Hathaway |
-| 2285 | 144 | Giggly Dashpiece |
+| 2284 | 144 | Giggly Dashpiece |
+| 2285 | 144 | Krista Hathaway |
 | 2286 | 144 | Zesty Catcher |
-| 2287 | 144 | Leesa Schamble |
-| 2288 | 144 | Adleec |
+| 2287 | 144 | Adleec |
+| 2288 | 144 | Leesa Schamble |
 | 2289 | 144 | Vanesa Colon |
 | 2290 | 144 | countrymomma2 |
 | 2291 | 144 | Diana Anderson |
@@ -2302,8 +2302,8 @@
 | 2294 | 143 | Kristin Townsend |
 | 2295 | 143 | Hillary Whittington |
 | 2296 | 143 | Destiny Cox |
-| 2297 | 142 | Rachel Lafoon |
-| 2298 | 142 | Amanda And Scott Lauger |
+| 2297 | 142 | Amanda And Scott Lauger |
+| 2298 | 142 | Rachel Lafoon |
 | 2299 | 142 | Marsha Arellano |
 | 2300 | 142 | Mya Johnson |
 | 2301 | 142 | GeriBlocks |
