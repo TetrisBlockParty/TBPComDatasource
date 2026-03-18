@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 05:38:45 UTC
+# Standings for team2 as of 2026-03-18 05:39:24 UTC
 
 **Total Participants:** 3258
 
@@ -13,7 +13,7 @@
 | 5 | 19230 | 1nonlyreal1 |
 | 6 | 16010 | Justablock |
 | 7 | 13047 | MzBerry |
-| 8 | 12774 | Denise Nardoni |
+| 8 | 12874 | Denise Nardoni |
 | 9 | 11483 | Dreamy Clicker |
 | 10 | 9718 | Kori Beth Babb |
 | 11 | 9309 | Kelly Kihe |
@@ -221,8 +221,8 @@
 | 213 | 928 | Sarah Fehring |
 | 214 | 927 | Tiff Vs Tiffany |
 | 215 | 925 | Zesty Link |
-| 216 | 924 | Mandi Mayweather |
-| 217 | 922 | BluBae |
+| 216 | 924 | BluBae |
+| 217 | 924 | Mandi Mayweather |
 | 218 | 919 | Lively Builderfit |
 | 219 | 919 | Topsannah Topsannah |
 | 220 | 916 | John Matson |
@@ -516,15 +516,15 @@
 | 508 | 443 | Lora |
 | 509 | 442 | Slinky Rollpiece |
 | 510 | 441 | Kena Suzanne |
-| 511 | 440 | Glitzy Dash |
-| 512 | 439 | Daring Rotator |
-| 513 | 439 | Tipsy Clearbuilder |
-| 514 | 439 | Jody King |
-| 515 | 438 | Lesha |
-| 516 | 437 | Martinez Jacobo |
-| 517 | 436 | Denise |
-| 518 | 435 | Christian A. Pollard |
-| 519 | 434 | Brady Riessen |
+| 511 | 441 | Brady Riessen |
+| 512 | 440 | Glitzy Dash |
+| 513 | 439 | Daring Rotator |
+| 514 | 439 | Tipsy Clearbuilder |
+| 515 | 439 | Jody King |
+| 516 | 438 | Lesha |
+| 517 | 437 | Martinez Jacobo |
+| 518 | 436 | Denise |
+| 519 | 435 | Christian A. Pollard |
 | 520 | 433 | Jess |
 | 521 | 431 | Brittany Backus |
 | 522 | 431 | Mary Love |
