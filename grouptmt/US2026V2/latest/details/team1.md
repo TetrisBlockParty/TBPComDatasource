@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 07:24:47 UTC
+# Standings for team1 as of 2026-03-18 07:25:23 UTC
 
 **Total Participants:** 3228
 
@@ -365,9 +365,9 @@
 | 357 | 645 | Alicia Parrish |
 | 358 | 644 | gucci |
 | 359 | 643 | Jena Overall Prescott |
-| 360 | 638 | Amy Sanford |
-| 361 | 637 | Jennifer Campbell |
-| 362 | 636 | Greenbayfan |
+| 360 | 641 | Greenbayfan |
+| 361 | 638 | Amy Sanford |
+| 362 | 637 | Jennifer Campbell |
 | 363 | 635 | Michael-Melissa Markham |
 | 364 | 635 | Johnathan Rasmussen |
 | 365 | 634 | Tee Tee Wil |
@@ -381,10 +381,10 @@
 | 373 | 620 | Ann Brock LaPorte |
 | 374 | 620 | Mandy Stevenson |
 | 375 | 620 | Brandy Ridgeway |
-| 376 | 617 | JV Yu |
-| 377 | 617 | Tami Luce Martin |
-| 378 | 616 | Hhholmesjr |
-| 379 | 616 | Boldy Clicky |
+| 376 | 618 | Boldy Clicky |
+| 377 | 617 | JV Yu |
+| 378 | 617 | Tami Luce Martin |
+| 379 | 616 | Hhholmesjr |
 | 380 | 615 | Alex Hennigh |
 | 381 | 614 | Allena Craft |
 | 382 | 613 | Jennie Lee Huntley |
@@ -915,9 +915,9 @@
 | 907 | 266 | LucasEveryday |
 | 908 | 266 | mbij21 |
 | 909 | 266 | momme |
-| 910 | 265 | Kristen Hall |
-| 911 | 265 | D7capt |
-| 912 | 265 | Lindsey Ross |
+| 910 | 266 | Lindsey Ross |
+| 911 | 265 | Kristen Hall |
+| 912 | 265 | D7capt |
 | 913 | 264 | Felise Bee |
 | 914 | 264 | Kim Robinson |
 | 915 | 264 | Dawgofwar |
@@ -2865,14 +2865,14 @@
 | 2857 | 20 | Jennifer Dineen |
 | 2858 | 20 | Loony Wipegrid |
 | 2859 | 20 | Day Key |
-| 2860 | 20 | Redyps Oner |
-| 2861 | 20 | Carlos White |
+| 2860 | 20 | Sylvia L. Vasquez |
+| 2861 | 20 | Ellen K Glassmyer |
 | 2862 | 20 | Kewi Lowe |
-| 2863 | 20 | Lacey Wilson |
-| 2864 | 20 | Stephanie Hutchinson |
-| 2865 | 20 | Ellen K Glassmyer |
-| 2866 | 20 | Casey Hintenach |
-| 2867 | 20 | Sylvia L. Vasquez |
+| 2863 | 20 | Carlos White |
+| 2864 | 20 | Redyps Oner |
+| 2865 | 20 | Casey Hintenach |
+| 2866 | 20 | Stephanie Hutchinson |
+| 2867 | 20 | Lacey Wilson |
 | 2868 | 20 | Etta Thompson |
 | 2869 | 20 | Home Plate |
 | 2870 | 20 | Flashy Wipeblock |
@@ -2911,19 +2911,19 @@
 | 2903 | 19 | Hasty Blockline |
 | 2904 | 19 | Jude |
 | 2905 | 19 | Lazy Cascader |
-| 2906 | 19 | Nikkip |
-| 2907 | 19 | Kristin Bailey |
-| 2908 | 19 | Zodiak55 |
-| 2909 | 19 | Chirpy Glidezone |
-| 2910 | 19 | Frisky Tiltpiece |
-| 2911 | 18 | Sunny Gridroll |
-| 2912 | 18 | Swanky Corner |
-| 2913 | 18 | Michael Brady |
-| 2914 | 18 | Darryl W Nauck Jr. |
-| 2915 | 18 | Dorian Alexander Wisniewski |
-| 2916 | 18 | Sheila Davis |
-| 2917 | 18 | Heather Hanak |
-| 2918 | 18 | Loopy Stackzone |
+| 2906 | 19 | Frisky Tiltpiece |
+| 2907 | 19 | Zodiak55 |
+| 2908 | 19 | Kristin Bailey |
+| 2909 | 19 | Nikkip |
+| 2910 | 19 | Chirpy Glidezone |
+| 2911 | 18 | Sheila Davis |
+| 2912 | 18 | Heather Hanak |
+| 2913 | 18 | Dorian Alexander Wisniewski |
+| 2914 | 18 | Swanky Corner |
+| 2915 | 18 | Michael Brady |
+| 2916 | 18 | Loopy Stackzone |
+| 2917 | 18 | Darryl W Nauck Jr. |
+| 2918 | 18 | Sunny Gridroll |
 | 2919 | 18 | Trixster |
 | 2920 | 18 | Cuddie28 |
 | 2921 | 18 | Gee Hill |
@@ -2944,54 +2944,54 @@
 | 2936 | 17 | Brennin Osenbaugh |
 | 2937 | 17 | Wayne Yando |
 | 2938 | 17 | Frank Prince |
-| 2939 | 17 | LaChrisha Baugh |
-| 2940 | 17 | Zesty Stackzone |
-| 2941 | 17 | Peppy Linkbuilder |
-| 2942 | 16 | Josh Blevins |
-| 2943 | 16 | Steven |
-| 2944 | 16 | Adma |
-| 2945 | 16 | Ramona Kelley |
-| 2946 | 16 | triplesauce |
-| 2947 | 16 | Brandi Myers |
-| 2948 | 16 | Wacky Balancer |
-| 2949 | 16 | Cheesus |
-| 2950 | 16 | Hoppy Gridder |
-| 2951 | 16 | MarLa Alioto |
-| 2952 | 16 | Ashanty Paulino |
-| 2953 | 16 | QueenBea13 |
-| 2954 | 16 | Vicky Cain Boyd |
-| 2955 | 16 | Emmanuel Diaz Herrera |
-| 2956 | 16 | Fancy Piecebuilder |
-| 2957 | 16 | Laurel |
-| 2958 | 16 | Gina Angeles Libunao Rondez |
-| 2959 | 16 | Joe Dardar |
-| 2960 | 16 | DeeDee Donaldson |
-| 2961 | 15 | Loopy Striker |
-| 2962 | 15 | Alexia Polanco |
-| 2963 | 15 | Jasmine Stansell |
-| 2964 | 15 | Tipsy Buildout |
-| 2965 | 15 | Flashy Buildgrid |
-| 2966 | 15 | Zesty Fitclear |
-| 2967 | 15 | Adam Stephanie Parker |
-| 2968 | 15 | MrsTracy Johnson Jones |
-| 2969 | 15 | Samie |
-| 2970 | 15 | Ray Masslieno |
-| 2971 | 15 | SamanthaJo Apthorpe |
-| 2972 | 15 | Giggy Tetrisline |
-| 2973 | 15 | WasagaSqueezer |
-| 2974 | 15 | Angela Johnson |
-| 2975 | 15 | Talasia |
-| 2976 | 15 | ali74 |
-| 2977 | 15 | Jonathan McAlister |
-| 2978 | 15 | Wendy Brock |
-| 2979 | 15 | Nicole Eastman |
-| 2980 | 15 | Chris |
-| 2981 | 15 | eddy34471 |
-| 2982 | 15 | Brandon Cornett |
-| 2983 | 15 | Deedee Dum |
-| 2984 | 15 | Bob Bowers |
-| 2985 | 15 | Kathy Harvill Smith |
-| 2986 | 15 | Skarred23 |
+| 2939 | 17 | Peppy Linkbuilder |
+| 2940 | 17 | LaChrisha Baugh |
+| 2941 | 17 | Zesty Stackzone |
+| 2942 | 16 | Ramona Kelley |
+| 2943 | 16 | Josh Blevins |
+| 2944 | 16 | Steven |
+| 2945 | 16 | Adma |
+| 2946 | 16 | Skarred23 |
+| 2947 | 16 | triplesauce |
+| 2948 | 16 | Brandi Myers |
+| 2949 | 16 | Wacky Balancer |
+| 2950 | 16 | Cheesus |
+| 2951 | 16 | Hoppy Gridder |
+| 2952 | 16 | MarLa Alioto |
+| 2953 | 16 | Ashanty Paulino |
+| 2954 | 16 | QueenBea13 |
+| 2955 | 16 | Vicky Cain Boyd |
+| 2956 | 16 | Emmanuel Diaz Herrera |
+| 2957 | 16 | Fancy Piecebuilder |
+| 2958 | 16 | Laurel |
+| 2959 | 16 | Gina Angeles Libunao Rondez |
+| 2960 | 16 | Joe Dardar |
+| 2961 | 16 | DeeDee Donaldson |
+| 2962 | 15 | Loopy Striker |
+| 2963 | 15 | Alexia Polanco |
+| 2964 | 15 | Jasmine Stansell |
+| 2965 | 15 | Tipsy Buildout |
+| 2966 | 15 | Flashy Buildgrid |
+| 2967 | 15 | Zesty Fitclear |
+| 2968 | 15 | Adam Stephanie Parker |
+| 2969 | 15 | MrsTracy Johnson Jones |
+| 2970 | 15 | Samie |
+| 2971 | 15 | Ray Masslieno |
+| 2972 | 15 | SamanthaJo Apthorpe |
+| 2973 | 15 | Giggy Tetrisline |
+| 2974 | 15 | WasagaSqueezer |
+| 2975 | 15 | Angela Johnson |
+| 2976 | 15 | Talasia |
+| 2977 | 15 | ali74 |
+| 2978 | 15 | Jonathan McAlister |
+| 2979 | 15 | Wendy Brock |
+| 2980 | 15 | eddy34471 |
+| 2981 | 15 | Chris |
+| 2982 | 15 | Nicole Eastman |
+| 2983 | 15 | Brandon Cornett |
+| 2984 | 15 | Deedee Dum |
+| 2985 | 15 | Bob Bowers |
+| 2986 | 15 | Kathy Harvill Smith |
 | 2987 | 15 | Sunny Tumbler |
 | 2988 | 14 | Quirky Stackbuilder |
 | 2989 | 14 | Yolanda Jensen |
