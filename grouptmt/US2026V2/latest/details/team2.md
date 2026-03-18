@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 06:06:48 UTC
+# Standings for team2 as of 2026-03-18 06:07:23 UTC
 
 **Total Participants:** 3263
 
@@ -156,21 +156,21 @@
 | 148 | 1233 | Dreamer |
 | 149 | 1218 | Leticia Martinez Kelley |
 | 150 | 1209 | Rafael Valentin |
-| 151 | 1200 | Ramone Armstrong |
-| 152 | 1199 | Connie Mohler-Fair |
-| 153 | 1189 | Sheena Hachmann |
-| 154 | 1168 | Ebo Got-Time |
-| 155 | 1168 | Kacee Conrad Bock |
-| 156 | 1158 | Dreamy Towerbuilder |
-| 157 | 1155 | Carson Goldminc |
-| 158 | 1151 | Christy Green |
-| 159 | 1142 | Buisanito |
-| 160 | 1141 | Christina Ramirez |
-| 161 | 1139 | Antoinette Griffin |
-| 162 | 1138 | Katrina Schroeder |
-| 163 | 1130 | MOMOF5 |
-| 164 | 1127 | Liana Spikes |
-| 165 | 1124 | Marvin Lou Martin |
+| 151 | 1209 | Marvin Lou Martin |
+| 152 | 1200 | Ramone Armstrong |
+| 153 | 1199 | Connie Mohler-Fair |
+| 154 | 1189 | Sheena Hachmann |
+| 155 | 1168 | Ebo Got-Time |
+| 156 | 1168 | Kacee Conrad Bock |
+| 157 | 1158 | Dreamy Towerbuilder |
+| 158 | 1155 | Carson Goldminc |
+| 159 | 1151 | Christy Green |
+| 160 | 1142 | Buisanito |
+| 161 | 1141 | Christina Ramirez |
+| 162 | 1139 | Antoinette Griffin |
+| 163 | 1138 | Katrina Schroeder |
+| 164 | 1130 | MOMOF5 |
+| 165 | 1127 | Liana Spikes |
 | 166 | 1114 | Grace Rubalcada |
 | 167 | 1112 | Marc |
 | 168 | 1111 | Michael H. M. Skropka |
@@ -886,28 +886,28 @@
 | 878 | 259 | Giddy Clicker |
 | 879 | 259 | Rebecca Danielle |
 | 880 | 258 | Tipsy Stagger |
-| 881 | 256 | Ashley Sandlin |
+| 881 | 256 | Crystal Brown-Miles |
 | 882 | 256 | Kimmie Gargano |
 | 883 | 256 | Kris Owls |
-| 884 | 256 | Crystal Brown-Miles |
+| 884 | 256 | Ashley Sandlin |
 | 885 | 256 | Robert Fenton |
 | 886 | 255 | Jes Lynn |
-| 887 | 255 | Lisa Kline |
-| 888 | 255 | Shiny Framezone |
-| 889 | 255 | Chalanda Jefferies |
-| 890 | 255 | Briaa Williams |
+| 887 | 255 | Shiny Framezone |
+| 888 | 255 | Briaa Williams |
+| 889 | 255 | Lisa Kline |
+| 890 | 255 | Chalanda Jefferies |
 | 891 | 254 | Shauna Hansen |
 | 892 | 252 | Chirpy Gridroll |
-| 893 | 251 | Chipper Smasher |
-| 894 | 251 | swaggysteph |
-| 895 | 251 | Nilla |
-| 896 | 251 | Karina Rodriguez |
+| 893 | 251 | Karina Rodriguez |
+| 894 | 251 | Chipper Smasher |
+| 895 | 251 | swaggysteph |
+| 896 | 251 | Nilla |
 | 897 | 250 | Selena Combee |
-| 898 | 250 | Rhonda Prince |
-| 899 | 250 | Stephanie Reust Camp |
+| 898 | 250 | Stephanie Reust Camp |
+| 899 | 250 | Rhonda Prince |
 | 900 | 250 | Mahdi Evans |
-| 901 | 249 | Cece Ibarra |
-| 902 | 249 | TinaMarie Montone |
+| 901 | 249 | TinaMarie Montone |
+| 902 | 249 | Cece Ibarra |
 | 903 | 249 | Tanisha Foster |
 | 904 | 248 | Armand Drayton |
 | 905 | 248 | Matthew Heffran |
@@ -922,11 +922,11 @@
 | 914 | 246 | kal |
 | 915 | 246 | Darlene Simmons |
 | 916 | 246 | Rachel Zortman |
-| 917 | 246 | Dbabe |
-| 918 | 246 | Elizabeth Reliford |
-| 919 | 245 | Prette Qui |
-| 920 | 245 | April Sams |
-| 921 | 245 | bruggy |
+| 917 | 246 | Elizabeth Reliford |
+| 918 | 246 | Dbabe |
+| 919 | 245 | April Sams |
+| 920 | 245 | bruggy |
+| 921 | 245 | Prette Qui |
 | 922 | 245 | Wes Ross |
 | 923 | 245 | Alice Petterborg Barberich |
 | 924 | 244 | Stacy |
@@ -936,56 +936,56 @@
 | 928 | 243 | Chris |
 | 929 | 242 | Tanya Abernathy Jackson |
 | 930 | 242 | Happy Columnbuilder |
-| 931 | 241 | Kari Thompson Rock |
-| 932 | 241 | Nate Price |
+| 931 | 241 | Nate Price |
+| 932 | 241 | Kari Thompson Rock |
 | 933 | 241 | Blockyboyyy |
-| 934 | 241 | Michael E Whitejr |
-| 935 | 240 | Shakey Bakey |
-| 936 | 240 | Mookie |
-| 937 | 240 | Tristan Lamothe |
-| 938 | 240 | Sleepy Otter |
-| 939 | 240 | Becky Short |
-| 940 | 240 | Chirpy Dash |
-| 941 | 240 | Fancy Columnbuilder |
+| 934 | 241 | Serenity Gail |
+| 935 | 241 | Michael E Whitejr |
+| 936 | 240 | Shakey Bakey |
+| 937 | 240 | Mookie |
+| 938 | 240 | Tristan Lamothe |
+| 939 | 240 | Sleepy Otter |
+| 940 | 240 | Becky Short |
+| 941 | 240 | Chirpy Dash |
 | 942 | 240 | Shane Gann |
-| 943 | 239 | Unicorn |
-| 944 | 239 | Zany Climber |
-| 945 | 238 | funhon2829 |
+| 943 | 240 | Fancy Columnbuilder |
+| 944 | 239 | Unicorn |
+| 945 | 239 | Zany Climber |
 | 946 | 238 | Groovy Dashy |
-| 947 | 237 | Giddy Gridmatch |
-| 948 | 237 | Luna Locke |
+| 947 | 238 | funhon2829 |
+| 948 | 237 | Giddy Gridmatch |
 | 949 | 237 | Doodle |
-| 950 | 237 | Serenity Gail |
-| 951 | 236 | jimjamflimflam |
-| 952 | 236 | Jeremy Steines |
-| 953 | 236 | Stefanie Bilello Burlew |
-| 954 | 236 | Lien |
-| 955 | 236 | Iliveformygirlz Smith |
-| 956 | 236 | Tia Simmons |
-| 957 | 235 | Tamara Cordero |
-| 958 | 235 | Amanda Howard |
-| 959 | 235 | Ashley Grace |
+| 950 | 237 | Luna Locke |
+| 951 | 236 | Jeremy Steines |
+| 952 | 236 | Stefanie Bilello Burlew |
+| 953 | 236 | Iliveformygirlz Smith |
+| 954 | 236 | Tia Simmons |
+| 955 | 236 | Lien |
+| 956 | 236 | jimjamflimflam |
+| 957 | 235 | Tiffany Dawn Caldwell |
+| 958 | 235 | Tamara Cordero |
+| 959 | 235 | Amanda Howard |
 | 960 | 235 | Andrew McCafferty |
-| 961 | 235 | Tiffany Dawn Caldwell |
+| 961 | 235 | Ashley Grace |
 | 962 | 235 | Shiny Fill |
-| 963 | 234 | Rod Grayll |
-| 964 | 234 | Jesse Saville |
-| 965 | 234 | Summer Richardson |
-| 966 | 234 | D3TROITB0RN74 |
+| 963 | 234 | D3TROITB0RN74 |
+| 964 | 234 | Summer Richardson |
+| 965 | 234 | Jesse Saville |
+| 966 | 234 | Rod Grayll |
 | 967 | 233 | TruAmber |
 | 968 | 233 | Dellalynn |
-| 969 | 232 | Michelle Gnouilaphi |
-| 970 | 232 | Helen |
-| 971 | 231 | Janelle Edgecombe |
-| 972 | 231 | Bold Brickzone |
+| 969 | 232 | Helen |
+| 970 | 232 | Michelle Gnouilaphi |
+| 971 | 231 | BugMansMom |
+| 972 | 231 | Janelle Edgecombe |
 | 973 | 231 | Bumblebee |
-| 974 | 231 | BugMansMom |
+| 974 | 231 | Bold Brickzone |
 | 975 | 231 | Cool Blockline |
 | 976 | 231 | Breezy |
 | 977 | 230 | Monroy Juana |
 | 978 | 230 | Chelle |
-| 979 | 230 | Shannon Lynn Goddard |
-| 980 | 230 | Jake Bell |
+| 979 | 230 | Jake Bell |
+| 980 | 230 | Shannon Lynn Goddard |
 | 981 | 230 | Megan Earp |
 | 982 | 230 | Quirky Linkbuilder |
 | 983 | 229 | Cleopatra Daniels |
