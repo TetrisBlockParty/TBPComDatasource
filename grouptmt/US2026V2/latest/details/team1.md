@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 12:46:45 UTC
+# Standings for team1 as of 2026-03-18 12:47:23 UTC
 
 **Total Participants:** 3266
 
@@ -1079,10 +1079,10 @@
 | 1071 | 233 | Ricardo Ferreira |
 | 1072 | 232 | Sophia Kelly |
 | 1073 | 232 | Robin Burress |
-| 1074 | 232 | Juice |
-| 1075 | 231 | Silly Builderline |
-| 1076 | 231 | Tionna Rose Alderson |
-| 1077 | 231 | Snippy Risebuilder |
+| 1074 | 232 | Snippy Risebuilder |
+| 1075 | 232 | Juice |
+| 1076 | 231 | Silly Builderline |
+| 1077 | 231 | Tionna Rose Alderson |
 | 1078 | 230 | JustMeNonna |
 | 1079 | 230 | Britters |
 | 1080 | 230 | Meghan Chalke |
@@ -1359,31 +1359,31 @@
 | 1351 | 168 | Herm Junior |
 | 1352 | 168 | Oscar Ferguson |
 | 1353 | 168 | Boldy Grabber |
-| 1354 | 168 | Bob Sitts |
-| 1355 | 168 | Amanda Pauldo-Ivy |
+| 1354 | 168 | Amanda Pauldo-Ivy |
+| 1355 | 168 | Bob Sitts |
 | 1356 | 167 | Blockface |
 | 1357 | 167 | Happy Buildsnap |
 | 1358 | 167 | Maximusprime |
 | 1359 | 167 | Speedy Patternfit |
-| 1360 | 166 | Branden Blanch |
+| 1360 | 166 | atomictrin |
 | 1361 | 166 | Mechelle Bailum |
 | 1362 | 166 | Wendy De Kam |
 | 1363 | 166 | Michelle Sanchez |
 | 1364 | 166 | Cozy Builderfit |
-| 1365 | 166 | anastacia |
+| 1365 | 166 | Branden Blanch |
 | 1366 | 166 | Zachary Diener |
-| 1367 | 166 | Daniel R Morgan |
-| 1368 | 165 | Sandy Linders Higgins |
-| 1369 | 165 | Katie Batoosingh |
-| 1370 | 165 | Melissa Stephens D Tenorio |
-| 1371 | 164 | Erica Wynne |
-| 1372 | 164 | atomictrin |
+| 1367 | 166 | anastacia |
+| 1368 | 166 | Daniel R Morgan |
+| 1369 | 165 | Renee |
+| 1370 | 165 | Katie Batoosingh |
+| 1371 | 165 | Melissa Stephens D Tenorio |
+| 1372 | 165 | Sandy Linders Higgins |
 | 1373 | 164 | Smiley Lifter |
 | 1374 | 164 | munchalot |
 | 1375 | 164 | Nuga |
 | 1376 | 164 | Bobbie Freeman |
 | 1377 | 164 | Alexis Garcia |
-| 1378 | 163 | Renee |
+| 1378 | 164 | Erica Wynne |
 | 1379 | 163 | Lively Catcher |
 | 1380 | 163 | Carrie E Lamb Neal |
 | 1381 | 163 | DeJuan Green |
