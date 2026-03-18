@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 08:18:42 UTC
+# Standings for team2 as of 2026-03-18 08:19:25 UTC
 
 **Total Participants:** 3276
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 25548 | Mochi |
 | 2 | 24920 | THEMAN |
-| 3 | 22191 | Payton Auberry |
+| 3 | 22428 | Payton Auberry |
 | 4 | 21230 | 1nonlyreal1 |
 | 5 | 19737 | 赵珞涵 |
 | 6 | 16010 | Justablock |
@@ -327,8 +327,8 @@
 | 319 | 677 | Athena D Connell |
 | 320 | 671 | Shelbs |
 | 321 | 666 | Devin |
-| 322 | 665 | Kyesha Goodyear |
-| 323 | 665 | Bouncy Zoner |
+| 322 | 666 | Bouncy Zoner |
+| 323 | 665 | Kyesha Goodyear |
 | 324 | 663 | MJ1234 |
 | 325 | 663 | TJ Hire |
 | 326 | 662 | Tyler StaySnappin Old'Page |
@@ -350,23 +350,23 @@
 | 342 | 631 | Yo Momma |
 | 343 | 631 | Happy Brickbuilder |
 | 344 | 625 | Clever Roll |
-| 345 | 622 | Snappy Tiley |
-| 346 | 622 | Brandy Belton |
-| 347 | 620 | Michelle Douglas Bridges |
-| 348 | 619 | KEILANIU |
-| 349 | 617 | Angel Hunnewell |
-| 350 | 617 | Faith Meade |
-| 351 | 616 | Megan Simpson |
-| 352 | 616 | Albany Broadway |
-| 353 | 613 | Snippy Towerpiece |
-| 354 | 613 | Kennedy Sandifer |
-| 355 | 611 | SuZee |
-| 356 | 609 | Jason McCloy |
-| 357 | 606 | 1RiRi1 |
-| 358 | 606 | Brooke Sunderhaus |
-| 359 | 605 | Jennifer Osmer Carruth |
-| 360 | 604 | Dineisha Carpenter |
-| 361 | 604 | Sista |
+| 345 | 623 | Sista |
+| 346 | 622 | Snappy Tiley |
+| 347 | 622 | Brandy Belton |
+| 348 | 620 | Michelle Douglas Bridges |
+| 349 | 619 | KEILANIU |
+| 350 | 617 | Angel Hunnewell |
+| 351 | 617 | Faith Meade |
+| 352 | 616 | Megan Simpson |
+| 353 | 616 | Albany Broadway |
+| 354 | 613 | Snippy Towerpiece |
+| 355 | 613 | Kennedy Sandifer |
+| 356 | 611 | SuZee |
+| 357 | 609 | Jason McCloy |
+| 358 | 606 | 1RiRi1 |
+| 359 | 606 | Brooke Sunderhaus |
+| 360 | 605 | Jennifer Osmer Carruth |
+| 361 | 604 | Dineisha Carpenter |
 | 362 | 603 | Liss Lint |
 | 363 | 601 | Joyce |
 | 364 | 601 | Jonviea Dewalt |
@@ -1608,10 +1608,10 @@
 | 1600 | 120 | Graciela Garcia |
 | 1601 | 120 | Hyedie Badie |
 | 1602 | 120 | Symore Buttz |
-| 1603 | 119 | Dizzy |
+| 1603 | 119 | Daquan Rovira |
 | 1604 | 119 | MusicMaster |
 | 1605 | 119 | Nugget |
-| 1606 | 119 | Daquan Rovira |
+| 1606 | 119 | Dizzy |
 | 1607 | 119 | Kevin Leary |
 | 1608 | 119 | Deanna J Legaspi |
 | 1609 | 119 | Cheeky Grabber |
@@ -1626,21 +1626,21 @@
 | 1618 | 118 | Timothy Poole |
 | 1619 | 118 | Elizabeth DeMarco Kuhn |
 | 1620 | 118 | ChristSoldier4421 |
-| 1621 | 118 | CocoKatt |
-| 1622 | 118 | Cranky Bouncer |
-| 1623 | 118 | Twisty Corner |
-| 1624 | 118 | Lively Tiler |
-| 1625 | 117 | Krystyna Hernandez |
+| 1621 | 118 | Lively Tiler |
+| 1622 | 118 | CocoKatt |
+| 1623 | 118 | Cranky Bouncer |
+| 1624 | 118 | Twisty Corner |
+| 1625 | 117 | Black Pharaoh |
 | 1626 | 117 | Shanon Klair |
-| 1627 | 117 | Black Pharaoh |
-| 1628 | 117 | Gigi McCue |
-| 1629 | 117 | Kayla |
-| 1630 | 117 | Zesty Clear |
-| 1631 | 117 | Sarah |
-| 1632 | 117 | Brenda Nelson-noles |
-| 1633 | 117 | Zesty Faller |
-| 1634 | 117 | Quintis Steemer |
-| 1635 | 117 | Giggy Grid |
+| 1627 | 117 | Gigi McCue |
+| 1628 | 117 | Kayla |
+| 1629 | 117 | Zesty Clear |
+| 1630 | 117 | Krystyna Hernandez |
+| 1631 | 117 | Quintis Steemer |
+| 1632 | 117 | Sarah |
+| 1633 | 117 | Brenda Nelson-noles |
+| 1634 | 117 | Giggy Grid |
+| 1635 | 117 | Zesty Faller |
 | 1636 | 117 | Fredena Denise Wooten |
 | 1637 | 117 | Fred Yslas |
 | 1638 | 116 | Samuel George |
@@ -1648,29 +1648,29 @@
 | 1640 | 116 | Giggy Slam |
 | 1641 | 116 | Katrina Flatten |
 | 1642 | 116 | carole57 |
-| 1643 | 116 | Arson Fox |
-| 1644 | 116 | Chill Tilefall |
-| 1645 | 116 | Zany Blockfall |
-| 1646 | 115 | Shay Mc |
-| 1647 | 115 | Pamela Knapp |
-| 1648 | 115 | Lab2dablock |
-| 1649 | 114 | Breezy Patternzone |
-| 1650 | 114 | Rosie |
-| 1651 | 114 | Poppy Snap |
-| 1652 | 114 | Annette Henderson |
-| 1653 | 114 | Lilypop |
-| 1654 | 114 | Brittany Gent |
+| 1643 | 116 | Chill Tilefall |
+| 1644 | 116 | Zany Blockfall |
+| 1645 | 116 | Robert Waagmeester |
+| 1646 | 116 | Arson Fox |
+| 1647 | 115 | Lab2dablock |
+| 1648 | 115 | Shay Mc |
+| 1649 | 115 | Pamela Knapp |
+| 1650 | 114 | Lilypop |
+| 1651 | 114 | Annette Henderson |
+| 1652 | 114 | Poppy Snap |
+| 1653 | 114 | Brittany Gent |
+| 1654 | 114 | Rosie |
 | 1655 | 114 | Jeremiah Rayborn |
-| 1656 | 114 | Novice123 |
-| 1657 | 114 | Janelle Rose Durr |
-| 1658 | 113 | Cool Cornerfall |
-| 1659 | 113 | Savvlexx |
-| 1660 | 113 | Kristen Tucker |
-| 1661 | 113 | boycat3 |
-| 1662 | 113 | Johnboom317 |
-| 1663 | 113 | cherry 🍒pie |
-| 1664 | 112 | Mighty Slide |
-| 1665 | 112 | Robert Waagmeester |
+| 1656 | 114 | Breezy Patternzone |
+| 1657 | 114 | Novice123 |
+| 1658 | 114 | Janelle Rose Durr |
+| 1659 | 113 | Cool Cornerfall |
+| 1660 | 113 | Savvlexx |
+| 1661 | 113 | Kristen Tucker |
+| 1662 | 113 | boycat3 |
+| 1663 | 113 | Johnboom317 |
+| 1664 | 113 | cherry 🍒pie |
+| 1665 | 112 | Mighty Slide |
 | 1666 | 112 | Malikah Coleman |
 | 1667 | 112 | Stacey Sanders |
 | 1668 | 112 | Chris Watson |
