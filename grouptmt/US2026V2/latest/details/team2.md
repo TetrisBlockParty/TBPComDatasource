@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 04:46:48 UTC
+# Standings for team2 as of 2026-03-18 04:47:24 UTC
 
 **Total Participants:** 3245
 
@@ -151,8 +151,8 @@
 | 143 | 1241 | Jennifer Golub |
 | 144 | 1241 | Paul Hudak |
 | 145 | 1233 | Dreamer |
-| 146 | 1218 | Leticia Martinez Kelley |
-| 147 | 1217 | Sass |
+| 146 | 1223 | Sass |
+| 147 | 1218 | Leticia Martinez Kelley |
 | 148 | 1209 | Rafael Valentin |
 | 149 | 1199 | Connie Mohler-Fair |
 | 150 | 1184 | Sheena Hachmann |
@@ -164,19 +164,19 @@
 | 156 | 1142 | Buisanito |
 | 157 | 1139 | Antoinette Griffin |
 | 158 | 1138 | Katrina Schroeder |
-| 159 | 1130 | MOMOF5 |
-| 160 | 1127 | Liana Spikes |
-| 161 | 1121 | Jjj |
-| 162 | 1114 | Grace Rubalcada |
-| 163 | 1112 | Marc |
-| 164 | 1111 | Michael H. M. Skropka |
-| 165 | 1109 | Tash Bell |
-| 166 | 1104 | Smags |
-| 167 | 1103 | Epic Wipepiece |
-| 168 | 1093 | Danielle Weikel |
-| 169 | 1080 | Arnae Draughon |
-| 170 | 1077 | Lisa Neal |
-| 171 | 1073 | Christina Ramirez |
+| 159 | 1132 | Christina Ramirez |
+| 160 | 1130 | MOMOF5 |
+| 161 | 1127 | Liana Spikes |
+| 162 | 1121 | Jjj |
+| 163 | 1114 | Grace Rubalcada |
+| 164 | 1112 | Marc |
+| 165 | 1111 | Michael H. M. Skropka |
+| 166 | 1109 | Tash Bell |
+| 167 | 1104 | Smags |
+| 168 | 1103 | Epic Wipepiece |
+| 169 | 1093 | Danielle Weikel |
+| 170 | 1080 | Arnae Draughon |
+| 171 | 1077 | Lisa Neal |
 | 172 | 1070 | Mary Reeves |
 | 173 | 1064 | Sheena Herskovic |
 | 174 | 1061 | Amanda Sullivan |
@@ -184,8 +184,8 @@
 | 176 | 1059 | Ania |
 | 177 | 1058 | Amber Lashbrook |
 | 178 | 1058 | Koipod |
-| 179 | 1050 | Shelly Babie |
-| 180 | 1050 | Ramone Armstrong |
+| 179 | 1050 | Ramone Armstrong |
+| 180 | 1050 | Shelly Babie |
 | 181 | 1044 | illegal impulse |
 | 182 | 1043 | Mandy |
 | 183 | 1043 | Krista Roberts |
@@ -246,9 +246,9 @@
 | 238 | 858 | Jocelynn Marie |
 | 239 | 855 | Looloo |
 | 240 | 853 | Katie Lynn |
-| 241 | 843 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 242 | 839 | Michael |
-| 243 | 838 | BluBae |
+| 241 | 848 | BluBae |
+| 242 | 843 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 243 | 839 | Michael |
 | 244 | 836 | Emily Wooden |
 | 245 | 833 | Amelia Anderson |
 | 246 | 822 | Mcg |
