@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 11:04:41 UTC
+# Standings for team2 as of 2026-03-18 11:05:25 UTC
 
 **Total Participants:** 3291
 
@@ -81,7 +81,7 @@
 | 73 | 2368 | Raven Smith |
 | 74 | 2358 | Rusty Davis |
 | 75 | 2319 | Caitlin Johnson |
-| 76 | 2305 | Naomii Seton |
+| 76 | 2308 | Naomii Seton |
 | 77 | 2267 | Belle |
 | 78 | 2223 | Nicole Cannon |
 | 79 | 2122 | Joshua Hopkins |
@@ -173,8 +173,8 @@
 | 165 | 1142 | Buisanito |
 | 166 | 1140 | Tiff Vs Tiffany |
 | 167 | 1138 | Katrina Schroeder |
-| 168 | 1130 | MOMOF5 |
-| 169 | 1127 | Liana Spikes |
+| 168 | 1137 | Liana Spikes |
+| 169 | 1130 | MOMOF5 |
 | 170 | 1119 | Khalysta |
 | 171 | 1115 | Michael H. M. Skropka |
 | 172 | 1114 | Grace Rubalcada |
@@ -462,25 +462,25 @@
 | 454 | 503 | Rhonda Winn Hohman |
 | 455 | 502 | Sarah Marie |
 | 456 | 502 | Jen Robinson |
-| 457 | 501 | Kiki Moore |
+| 457 | 501 | Tiffany Smith |
 | 458 | 501 | Jennifer Haton Kreighbaum |
-| 459 | 501 | Tiffany Smith |
+| 459 | 501 | Kiki Moore |
 | 460 | 500 | Scott Martinson |
 | 461 | 500 | Tatyahna Cameron |
 | 462 | 498 | Mona Sharma |
 | 463 | 497 | Abimbola Bimbo |
 | 464 | 497 | Loony Snapbuild |
 | 465 | 495 | bestme |
-| 466 | 494 | Lakeisha Webb Briggs |
-| 467 | 494 | Jonathan Vee Jay |
-| 468 | 494 | Lazy Twistline |
+| 466 | 494 | Lazy Twistline |
+| 467 | 494 | Lakeisha Webb Briggs |
+| 468 | 494 | Guy Incognito |
 | 469 | 494 | Comedian Gdane |
-| 470 | 492 | Kimberly Garcia |
-| 471 | 491 | Madison Sweere |
-| 472 | 490 | Christy Merriman Addison |
-| 473 | 489 | Guy Incognito |
-| 474 | 487 | Lora Allen |
-| 475 | 487 | infinimom |
+| 470 | 494 | Jonathan Vee Jay |
+| 471 | 492 | Kimberly Garcia |
+| 472 | 491 | Madison Sweere |
+| 473 | 490 | Christy Merriman Addison |
+| 474 | 487 | infinimom |
+| 475 | 487 | Lora Allen |
 | 476 | 485 | LaTonya Myers |
 | 477 | 485 | Nick Kozik |
 | 478 | 485 | Jjza |
@@ -825,32 +825,32 @@
 | 817 | 289 | Quags |
 | 818 | 288 | Wishabishwood |
 | 819 | 287 | Marcus Todd |
-| 820 | 287 | Star |
-| 821 | 287 | Neva Blum |
-| 822 | 287 | Joyce Murff |
+| 820 | 287 | Neva Blum |
+| 821 | 287 | Joyce Murff |
+| 822 | 287 | Shiny Framezone |
 | 823 | 287 | Poppy Matchclear |
-| 824 | 286 | Amy Yearta |
-| 825 | 286 | Bridgett |
-| 826 | 286 | Sylvie Lemoine |
-| 827 | 285 | Chipper Stacky |
-| 828 | 285 | TeeLee |
-| 829 | 285 | Amy Jur Falk |
-| 830 | 284 | Matthew Fedor |
-| 831 | 283 | Shiny Framezone |
-| 832 | 283 | Cuttermonk |
-| 833 | 283 | James Smith |
+| 824 | 287 | Star |
+| 825 | 286 | Sylvie Lemoine |
+| 826 | 286 | Amy Yearta |
+| 827 | 286 | Bridgett |
+| 828 | 285 | Amy Jur Falk |
+| 829 | 285 | Chipper Stacky |
+| 830 | 285 | TeeLee |
+| 831 | 284 | Matthew Fedor |
+| 832 | 283 | James Smith |
+| 833 | 283 | Cuttermonk |
 | 834 | 282 | KT CAT |
-| 835 | 282 | Jennifer Monroe Kelly |
-| 836 | 282 | Juana |
+| 835 | 282 | Juana |
+| 836 | 282 | Jennifer Monroe Kelly |
 | 837 | 281 | Elaina Temple |
 | 838 | 281 | Lisa Duncan |
-| 839 | 280 | Douglas Stam |
-| 840 | 280 | Ryan Parson |
+| 839 | 280 | Ryan Parson |
+| 840 | 280 | Douglas Stam |
 | 841 | 280 | ImperialQueen |
 | 842 | 279 | Ben Dove |
-| 843 | 279 | Elyssa Lowery |
-| 844 | 279 | Marinara |
-| 845 | 279 | Pippa45 |
+| 843 | 279 | Pippa45 |
+| 844 | 279 | Elyssa Lowery |
+| 845 | 279 | Marinara |
 | 846 | 279 | Bryanna Whitman |
 | 847 | 278 | Tatiana Rae Robinson |
 | 848 | 276 | Tiffany Banks Jennings |
