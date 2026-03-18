@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 10:24:20 UTC
+# Standings for team2 as of 2026-03-18 10:24:47 UTC
 
 **Total Participants:** 3287
 
@@ -254,7 +254,7 @@
 | 246 | 858 | Jocelynn Marie |
 | 247 | 857 | Sunny Blockline |
 | 248 | 855 | Looloo |
-| 249 | 850 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
+| 249 | 852 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
 | 250 | 850 | Dondon Cheng |
 | 251 | 839 | Michael |
 | 252 | 839 | Krish Shah |
