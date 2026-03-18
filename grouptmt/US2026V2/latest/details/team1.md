@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 06:58:46 UTC
+# Standings for team1 as of 2026-03-18 06:59:24 UTC
 
 **Total Participants:** 3222
 
@@ -283,9 +283,9 @@
 | 275 | 838 | Diamond Madison |
 | 276 | 836 | Lynn Perkins |
 | 277 | 834 | Noah |
-| 278 | 821 | Jessi Sauer |
-| 279 | 819 | Rebecca Martin |
-| 280 | 817 | Jaime Barrett Nelson |
+| 278 | 827 | Jaime Barrett Nelson |
+| 279 | 821 | Jessi Sauer |
+| 280 | 819 | Rebecca Martin |
 | 281 | 807 | Cheeky Blocky |
 | 282 | 804 | kito23 |
 | 283 | 801 | Margaret Rose |
@@ -333,23 +333,23 @@
 | 325 | 698 | Austin |
 | 326 | 697 | Pat Padgett |
 | 327 | 697 | Frilly Climber |
-| 328 | 695 | Taco Taco |
-| 329 | 695 | Shay J Duval |
-| 330 | 694 | Crazy12 |
-| 331 | 694 | Stephanie Lawrence |
+| 328 | 695 | Shay J Duval |
+| 329 | 695 | Taco Taco |
+| 330 | 694 | Stephanie Lawrence |
+| 331 | 694 | Crazy12 |
 | 332 | 692 | Yvette Cooper |
-| 333 | 689 | Angela Renea Lester |
-| 334 | 689 | Goofy Linkblock |
+| 333 | 689 | Goofy Linkblock |
+| 334 | 689 | Angela Renea Lester |
 | 335 | 682 | Bribrobra |
 | 336 | 679 | Ziggy Csah |
 | 337 | 678 | Julie Moore |
-| 338 | 677 | Penny Morrical |
-| 339 | 677 | Sarah Ploughe |
-| 340 | 677 | Sallie Sanborn |
+| 338 | 677 | Sallie Sanborn |
+| 339 | 677 | Penny Morrical |
+| 340 | 677 | Sarah Ploughe |
 | 341 | 674 | Bryan Temple |
 | 342 | 672 | Teddy Alexander |
-| 343 | 671 | John Gardner |
-| 344 | 671 | Pamela Marie Tyler |
+| 343 | 671 | Pamela Marie Tyler |
+| 344 | 671 | John Gardner |
 | 345 | 669 | Amh |
 | 346 | 667 | raffyG |
 | 347 | 665 | Cesar Morelos |
@@ -364,11 +364,11 @@
 | 356 | 643 | Jena Overall Prescott |
 | 357 | 638 | Amy Sanford |
 | 358 | 637 | Jennifer Campbell |
-| 359 | 635 | Johnathan Rasmussen |
-| 360 | 635 | Michael-Melissa Markham |
+| 359 | 635 | Michael-Melissa Markham |
+| 360 | 635 | Johnathan Rasmussen |
 | 361 | 634 | Tee Tee Wil |
-| 362 | 632 | Krystal Mccoy |
-| 363 | 632 | Suzan Frazier |
+| 362 | 632 | Suzan Frazier |
+| 363 | 632 | Krystal Mccoy |
 | 364 | 631 | Stephanie Myers |
 | 365 | 628 | Kay Francois |
 | 366 | 627 | Nancy Reid |
@@ -380,22 +380,22 @@
 | 372 | 620 | Dee |
 | 373 | 617 | JV Yu |
 | 374 | 617 | Tami Luce Martin |
-| 375 | 615 | Alex Hennigh |
-| 376 | 614 | Allena Craft |
-| 377 | 613 | Foulplay176 |
+| 375 | 616 | Hhholmesjr |
+| 376 | 615 | Alex Hennigh |
+| 377 | 614 | Allena Craft |
 | 378 | 613 | Jennie Lee Huntley |
 | 379 | 613 | Boldy Clicky |
-| 380 | 610 | Casey Babb |
-| 381 | 609 | Megan Phillips |
+| 380 | 613 | Foulplay176 |
+| 381 | 610 | Casey Babb |
 | 382 | 609 | Curtis Kuffel |
-| 383 | 607 | HugeLoad |
+| 383 | 609 | Megan Phillips |
 | 384 | 607 | Angelina Maldonado |
-| 385 | 606 | Hhholmesjr |
+| 385 | 607 | HugeLoad |
 | 386 | 605 | Dani Giles |
 | 387 | 602 | bounce back |
 | 388 | 600 | Dude |
-| 389 | 598 | Alezandra Smith |
-| 390 | 598 | Jonathan Gaffaney |
+| 389 | 598 | Jonathan Gaffaney |
+| 390 | 598 | Alezandra Smith |
 | 391 | 596 | Jasmine Riley |
 | 392 | 595 | Liliana Pena |
 | 393 | 594 | Dawn Hoffman |
@@ -541,13 +541,13 @@
 | 533 | 445 | Terrance Williams |
 | 534 | 443 | Sunny Linkpiece |
 | 535 | 442 | Seaira Allen |
-| 536 | 441 | Fancy Cascadebuilder |
-| 537 | 441 | Courtney Leigh Deiber |
-| 538 | 440 | Ash |
-| 539 | 440 | Samantha Crowley |
-| 540 | 440 | BugsMama |
-| 541 | 439 | Stephen Glaze |
-| 542 | 437 | Lisa Reynolds Adair |
+| 536 | 442 | Lisa Reynolds Adair |
+| 537 | 441 | Fancy Cascadebuilder |
+| 538 | 441 | Courtney Leigh Deiber |
+| 539 | 440 | Ash |
+| 540 | 440 | Samantha Crowley |
+| 541 | 440 | BugsMama |
+| 542 | 439 | Stephen Glaze |
 | 543 | 437 | Angela |
 | 544 | 435 | Lynn Adams |
 | 545 | 434 | Mrsjcraw18 |
@@ -1115,15 +1115,15 @@
 | 1107 | 212 | Witty Snapmatch |
 | 1108 | 211 | Chipper Matcher |
 | 1109 | 211 | Dapper Snaplink |
-| 1110 | 211 | Aira Rangel |
+| 1110 | 211 | Rebecca Fitch |
 | 1111 | 211 | Matt Morrow |
-| 1112 | 210 | Silly Builderline |
-| 1113 | 210 | Gidget |
-| 1114 | 210 | Breezy Stackbuilder |
-| 1115 | 210 | ZhenZhen |
-| 1116 | 209 | Zuul Gatekeeper |
-| 1117 | 209 | Rebecca Fitch |
-| 1118 | 209 | Ella Brown |
+| 1112 | 211 | Aira Rangel |
+| 1113 | 210 | Silly Builderline |
+| 1114 | 210 | Gidget |
+| 1115 | 210 | Breezy Stackbuilder |
+| 1116 | 210 | ZhenZhen |
+| 1117 | 209 | Ella Brown |
+| 1118 | 209 | Zuul Gatekeeper |
 | 1119 | 209 | Aly Sheehan |
 | 1120 | 208 | Happy Blocky |
 | 1121 | 207 | April Mancuosso |
@@ -1138,8 +1138,8 @@
 | 1130 | 206 | Alana Susan Hanley |
 | 1131 | 205 | Jason Wreggitt |
 | 1132 | 205 | Brandy Ann |
-| 1133 | 204 | James Green |
-| 1134 | 204 | Sapp |
+| 1133 | 204 | Sapp |
+| 1134 | 204 | James Green |
 | 1135 | 204 | Funky Fitzone |
 | 1136 | 204 | Jennifer Stone |
 | 1137 | 204 | tay |
@@ -1595,11 +1595,11 @@
 | 1587 | 123 | Candace Lin Ladner |
 | 1588 | 123 | Lush Frame |
 | 1589 | 123 | Bald head b |
-| 1590 | 123 | Betty |
-| 1591 | 123 | Speedy Dropmatch |
-| 1592 | 123 | Kristopher Daniels |
-| 1593 | 122 | Anthony Ross |
-| 1594 | 122 | Bradley Geiter |
+| 1590 | 123 | Bradley Geiter |
+| 1591 | 123 | Betty |
+| 1592 | 123 | Speedy Dropmatch |
+| 1593 | 123 | Kristopher Daniels |
+| 1594 | 122 | Anthony Ross |
 | 1595 | 122 | Loony Blockfall |
 | 1596 | 122 | Bobbie Duty |
 | 1597 | 122 | Michael Wood |
