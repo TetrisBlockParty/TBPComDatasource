@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 17:04:43 UTC
+# Standings for team2 as of 2026-03-18 17:05:24 UTC
 
 **Total Participants:** 3364
 
@@ -151,9 +151,9 @@
 | 143 | 1322 | Jami Howard |
 | 144 | 1321 | Christina Graham |
 | 145 | 1309 | Giggy Matchpiece |
-| 146 | 1301 | Jjj |
-| 147 | 1300 | Christina Ramirez |
-| 148 | 1298 | Leticia Martinez Kelley |
+| 146 | 1304 | Leticia Martinez Kelley |
+| 147 | 1301 | Jjj |
+| 148 | 1300 | Christina Ramirez |
 | 149 | 1297 | Jennifer Golub |
 | 150 | 1293 | Emarie |
 | 151 | 1290 | Christine Lin |
@@ -505,56 +505,56 @@
 | 497 | 489 | Jo Frohwein |
 | 498 | 487 | infinimom |
 | 499 | 487 | Lora Allen |
-| 500 | 485 | Jjza |
-| 501 | 485 | LaTonya Myers |
+| 500 | 485 | LaTonya Myers |
+| 501 | 485 | Jjza |
 | 502 | 484 | Eugenio Moquete |
 | 503 | 481 | Layle Miranda Madsen |
 | 504 | 480 | Lindsay Parenti |
 | 505 | 480 | Alisha Shelton |
 | 506 | 478 | Fredena Denise Wooten |
-| 507 | 478 | Dreamy Snapbuilder |
-| 508 | 478 | Jean Yap |
+| 507 | 478 | Jean Yap |
+| 508 | 478 | Dreamy Snapbuilder |
 | 509 | 477 | Ess |
 | 510 | 475 | Sondra Kenny |
 | 511 | 474 | Carmen Jnvm |
 | 512 | 474 | Suaveelo |
 | 513 | 469 | Tori Bowers |
-| 514 | 468 | Incandescent hatchet fish |
+| 514 | 468 | Tipsy Riseclear |
 | 515 | 468 | Starr |
-| 516 | 468 | Tipsy Riseclear |
+| 516 | 468 | Incandescent hatchet fish |
 | 517 | 468 | Cushalee Howard |
 | 518 | 467 | ZeldaCat |
 | 519 | 465 | Mike Davis |
-| 520 | 464 | Courtney Cicoria |
-| 521 | 464 | Quirky Swiper |
+| 520 | 464 | Quirky Swiper |
+| 521 | 464 | Courtney Cicoria |
 | 522 | 464 | Toohotwifey4u2 |
 | 523 | 463 | Nikki Speer |
-| 524 | 462 | SassyCarebear |
+| 524 | 462 | Anthony Magaraci |
 | 525 | 462 | Alexx Anaya |
-| 526 | 462 | Anthony Magaraci |
-| 527 | 460 | Shelly Marie Lloyd |
-| 528 | 460 | Mike Kremen |
-| 529 | 460 | Glitzy Dash |
-| 530 | 460 | GirlMom5 |
-| 531 | 460 | Jenna McGeorge |
-| 532 | 460 | NDPeanut |
+| 526 | 462 | SassyCarebear |
+| 527 | 460 | Mike Kremen |
+| 528 | 460 | Glitzy Dash |
+| 529 | 460 | Shelly Marie Lloyd |
+| 530 | 460 | NDPeanut |
+| 531 | 460 | GirlMom5 |
+| 532 | 460 | Jenna McGeorge |
 | 533 | 459 | Brenda Lee Vander Molen |
 | 534 | 458 | Martinez Jacobo |
 | 535 | 458 | Joe Smith |
-| 536 | 457 | Haley Bell |
-| 537 | 457 | S7ephavs |
-| 538 | 457 | Kelly Elizabeth Clark |
+| 536 | 457 | S7ephavs |
+| 537 | 457 | Kelly Elizabeth Clark |
+| 538 | 457 | Haley Bell |
 | 539 | 457 | LeNae TwoBarbie McEachin |
 | 540 | 457 | Zesty Dropzone |
 | 541 | 456 | Brady Riessen |
 | 542 | 456 | Tipsy Clearbuilder |
 | 543 | 455 | titrissss |
 | 544 | 455 | Frances Hui |
-| 545 | 454 | Rachel Anne |
-| 546 | 454 | Berling Gil |
+| 545 | 454 | Berling Gil |
+| 546 | 454 | Rachel Anne |
 | 547 | 450 | Quirky Matchfit |
-| 548 | 450 | Lindsay Lucas |
-| 549 | 450 | Jimmy Xim |
+| 548 | 450 | Jimmy Xim |
+| 549 | 450 | Lindsay Lucas |
 | 550 | 447 | Lawan Dixon |
 | 551 | 446 | Lesha |
 | 552 | 444 | Jeremy Null |
@@ -565,35 +565,35 @@
 | 557 | 441 | Henry Lanier |
 | 558 | 440 | candypants |
 | 559 | 439 | Daring Rotator |
-| 560 | 438 | DeathToBizzle |
-| 561 | 438 | Haley Lynn Agers |
+| 560 | 438 | Haley Lynn Agers |
+| 561 | 438 | DeathToBizzle |
 | 562 | 437 | Brandy Hayhurst |
 | 563 | 435 | Christian A. Pollard |
-| 564 | 435 | Breanna Lemus |
-| 565 | 435 | Dizzy Brickline |
+| 564 | 435 | Dizzy Brickline |
+| 565 | 435 | Breanna Lemus |
 | 566 | 435 | Christopher Lee Martinez |
 | 567 | 434 | Glitzy Rollblock |
 | 568 | 433 | Tudy Irvin |
 | 569 | 433 | Jess |
 | 570 | 432 | Jolly Towerpiece |
-| 571 | 431 | Brittany Backus |
-| 572 | 431 | Mary Love |
+| 571 | 431 | Mary Love |
+| 572 | 431 | Deb Rose-Bridinger |
 | 573 | 431 | Arkei Luster |
-| 574 | 431 | Deb Rose-Bridinger |
-| 575 | 431 | JjB |
-| 576 | 430 | Witty T-spin |
+| 574 | 431 | JjB |
+| 575 | 431 | Brittany Backus |
+| 576 | 430 | Nicole McLean |
 | 577 | 430 | Diane Louise |
-| 578 | 430 | Nicole McLean |
+| 578 | 430 | Witty T-spin |
 | 579 | 429 | Winner |
 | 580 | 429 | NoShoesNation |
 | 581 | 429 | Enigma |
-| 582 | 428 | Tig’o Biggie |
+| 582 | 428 | Torie Snyder |
 | 583 | 428 | Carla Roberson |
-| 584 | 428 | Torie Snyder |
+| 584 | 428 | Tig’o Biggie |
 | 585 | 427 | Allison L Tiffany |
 | 586 | 427 | Kassandra Carlan |
-| 587 | 426 | Lea Gann |
-| 588 | 426 | Jessi |
+| 587 | 426 | Jessi |
+| 588 | 426 | Lea Gann |
 | 589 | 425 | Guillaume Clermont |
 | 590 | 425 | Tosha Gonzales |
 | 591 | 422 | Emilie Creswell |
@@ -604,75 +604,75 @@
 | 596 | 418 | Krista Carpenter |
 | 597 | 418 | Shankee mgee |
 | 598 | 417 | Zany Dashgrid |
-| 599 | 417 | Roman Lavochnik |
-| 600 | 417 | Kristy Mullins |
-| 601 | 417 | Amanda Mason Scott |
+| 599 | 417 | Amanda Mason Scott |
+| 600 | 417 | Roman Lavochnik |
+| 601 | 417 | Kristy Mullins |
 | 602 | 417 | Scarlet Dusosky |
 | 603 | 415 | Mjhays |
-| 604 | 415 | Ella Marzano |
-| 605 | 415 | Camila Gerow |
+| 604 | 415 | Camila Gerow |
+| 605 | 415 | Ella Marzano |
 | 606 | 414 | Teri Oehlke |
 | 607 | 412 | Allen Spurlock |
 | 608 | 411 | Shakena Tuggle |
-| 609 | 410 | Rigoberto Sanchez Jr. |
-| 610 | 409 | Wacky Brickclear |
-| 611 | 409 | Tammy |
-| 612 | 408 | Alice Greene |
+| 609 | 410 | Alice Greene |
+| 610 | 410 | Rigoberto Sanchez Jr. |
+| 611 | 409 | Wacky Brickclear |
+| 612 | 409 | Tammy |
 | 613 | 408 | Γωγώ Τσιρόγκα |
 | 614 | 408 | Debbie Gerlib-Molinari Leigh |
 | 615 | 408 | Tipsy Stagger |
 | 616 | 407 | Michael Artis |
 | 617 | 407 | Jolie Hatfield |
-| 618 | 406 | Alexis Seath |
-| 619 | 406 | Kelly Williams |
+| 618 | 406 | Kelly Williams |
+| 619 | 406 | Alexis Seath |
 | 620 | 405 | Frisky Zonepiece |
 | 621 | 405 | Cozy Tiley |
 | 622 | 404 | bigdad |
-| 623 | 401 | Twisty Frame |
-| 624 | 401 | Marciala Pineda Juarez |
-| 625 | 401 | Jennifer |
-| 626 | 401 | Kevin Stultz |
-| 627 | 400 | QueenSheida |
+| 623 | 401 | Kevin Stultz |
+| 624 | 401 | Jennifer |
+| 625 | 401 | Twisty Frame |
+| 626 | 401 | Marciala Pineda Juarez |
+| 627 | 400 | Robert Benjamin |
 | 628 | 400 | Adrianne Elliott |
-| 629 | 400 | Robert Benjamin |
-| 630 | 399 | Tracey Cox |
-| 631 | 399 | Aobregon01 |
+| 629 | 400 | QueenSheida |
+| 630 | 399 | Aobregon01 |
+| 631 | 399 | Tracey Cox |
 | 632 | 397 | Allison Ahrndt |
 | 633 | 397 | Sassy Queen |
-| 634 | 396 | Pogo 2.0 |
-| 635 | 396 | Josie Fig |
+| 634 | 396 | Josie Fig |
+| 635 | 396 | Pogo 2.0 |
 | 636 | 395 | Toxic Troll |
-| 637 | 394 | Anika Strawberryz Smith |
-| 638 | 394 | Ashley Jayne Phillips |
+| 637 | 394 | Ashley Jayne Phillips |
+| 638 | 394 | Anika Strawberryz Smith |
 | 639 | 393 | Cheeky Dashy |
 | 640 | 393 | Glitzy Blockpiece |
 | 641 | 389 | Clever Tiltbuilder |
 | 642 | 388 | lou28 |
 | 643 | 387 | Junang Herowanto |
-| 644 | 386 | Ashley Sandlin |
-| 645 | 386 | Karent524 |
+| 644 | 386 | Karent524 |
+| 645 | 386 | Ashley Sandlin |
 | 646 | 386 | Rileyy Rocket |
 | 647 | 385 | Zippy Zoney |
 | 648 | 385 | JoJo |
 | 649 | 383 | Fbai |
-| 650 | 382 | Amanda Martinez |
-| 651 | 382 | Kelly Mcdaniel |
-| 652 | 382 | kitykat |
+| 650 | 382 | kitykat |
+| 651 | 382 | Amanda Martinez |
+| 652 | 382 | Kelly Mcdaniel |
 | 653 | 381 | Aimee Byrom |
 | 654 | 381 | Spunky Balancefit |
 | 655 | 380 | Lucas J Sutton |
 | 656 | 379 | Amy Yearta |
-| 657 | 378 | Confused Kitty |
-| 658 | 378 | Steve |
+| 657 | 378 | Steve |
+| 658 | 378 | Confused Kitty |
 | 659 | 377 | ANIM3KNIGHT |
-| 660 | 376 | Fely |
-| 661 | 376 | Andrew Mathis |
+| 660 | 376 | Andrew Mathis |
+| 661 | 376 | Fely |
 | 662 | 376 | Joshua Madinger |
 | 663 | 376 | De Yske |
-| 664 | 374 | Shea Ladynick Henderson |
-| 665 | 374 | Jackson Karen |
-| 666 | 374 | Chill Builder |
-| 667 | 374 | Zesty Balancefit |
+| 664 | 374 | Chill Builder |
+| 665 | 374 | Zesty Balancefit |
+| 666 | 374 | Jackson Karen |
+| 667 | 374 | Shea Ladynick Henderson |
 | 668 | 374 | SportyRabbit51 |
 | 669 | 373 | BuzyBee |
 | 670 | 372 | Joe Andrews |
@@ -698,8 +698,8 @@
 | 690 | 364 | ImmortelT |
 | 691 | 364 | Ash Whitley |
 | 692 | 363 | Shawna McKinney |
-| 693 | 362 | Jacques Frenette |
-| 694 | 362 | Chris Leasure |
+| 693 | 362 | Chris Leasure |
+| 694 | 362 | Jacques Frenette |
 | 695 | 362 | Chefbj Ventress |
 | 696 | 362 | Keyata Wright |
 | 697 | 360 | Amanda |
