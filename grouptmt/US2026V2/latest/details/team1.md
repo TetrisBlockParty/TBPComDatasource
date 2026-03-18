@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 07:05:24 UTC
+# Standings for team1 as of 2026-03-18 07:06:45 UTC
 
 **Total Participants:** 3222
 
@@ -418,9 +418,9 @@
 | 410 | 574 | Anthony Ward |
 | 411 | 574 | Blaster007 |
 | 412 | 569 | Tatiyana Holm |
-| 413 | 564 | Spicy Twister |
-| 414 | 562 | Randy Clevenger |
-| 415 | 561 | Greenbayfan |
+| 413 | 566 | Greenbayfan |
+| 414 | 564 | Spicy Twister |
+| 415 | 562 | Randy Clevenger |
 | 416 | 558 | Lori Dutton |
 | 417 | 558 | Bubba |
 | 418 | 556 | Cozy Twistbuilder |
@@ -1088,25 +1088,25 @@
 | 1080 | 219 | Groovy Holder |
 | 1081 | 219 | Kenneth Madden |
 | 1082 | 219 | Snappy Gridclear |
-| 1083 | 218 | Matthew Laudico |
-| 1084 | 218 | Matt Metzler |
+| 1083 | 218 | Matt Metzler |
+| 1084 | 218 | Matthew Laudico |
 | 1085 | 217 | Goob277 |
 | 1086 | 217 | Alexandra Karavias |
 | 1087 | 215 | Ray Vankirk |
 | 1088 | 215 | Jennifer Obrien |
-| 1089 | 215 | Michelle Pike |
-| 1090 | 215 | Blondie |
-| 1091 | 215 | Kindra Sinclair |
-| 1092 | 214 | Anna Lasley |
-| 1093 | 214 | Savannah Dennison |
-| 1094 | 214 | Scarlett |
-| 1095 | 214 | Joyce Dimitt Horn |
-| 1096 | 213 | Jesse Young |
+| 1089 | 215 | Blondie |
+| 1090 | 215 | Rebecca Fitch |
+| 1091 | 215 | Michelle Pike |
+| 1092 | 215 | Kindra Sinclair |
+| 1093 | 214 | Anna Lasley |
+| 1094 | 214 | Savannah Dennison |
+| 1095 | 214 | Scarlett |
+| 1096 | 214 | Joyce Dimitt Horn |
 | 1097 | 213 | Meli |
-| 1098 | 213 | Sarah McIntosh |
-| 1099 | 213 | Speedy Liney |
-| 1100 | 213 | Santana Valeri |
-| 1101 | 213 | Rebecca Fitch |
+| 1098 | 213 | Jesse Young |
+| 1099 | 213 | Sarah McIntosh |
+| 1100 | 213 | Speedy Liney |
+| 1101 | 213 | Santana Valeri |
 | 1102 | 213 | Dizzy Tiler |
 | 1103 | 212 | Ashlee Carnes |
 | 1104 | 212 | Lakesha Jackson- Anderson |
@@ -1537,79 +1537,79 @@
 | 1529 | 132 | Chad |
 | 1530 | 132 | svsninja |
 | 1531 | 132 | Mamabear924 |
-| 1532 | 131 | Sara Galyon |
-| 1533 | 131 | Shawntae Mccary |
+| 1532 | 131 | Shawntae Mccary |
+| 1533 | 131 | Sara Galyon |
 | 1534 | 131 | Jessica Earp |
-| 1535 | 130 | Trevor J Armstrong |
-| 1536 | 130 | Rebecca Rognerud |
-| 1537 | 130 | Tate Sonnier |
+| 1535 | 130 | Tate Sonnier |
+| 1536 | 130 | Trevor J Armstrong |
+| 1537 | 130 | Rebecca Rognerud |
 | 1538 | 130 | Bouncy Dropper |
 | 1539 | 130 | Stephanie Holman |
 | 1540 | 130 | Greenie |
 | 1541 | 129 | Heather Ann |
-| 1542 | 129 | James Alexander Gonzales |
-| 1543 | 129 | Breezy Glidepiece |
+| 1542 | 129 | Giddy Swiper |
+| 1543 | 129 | James Alexander Gonzales |
 | 1544 | 129 | Bouncy Linefit |
-| 1545 | 129 | Giddy Swiper |
+| 1545 | 129 | Breezy Glidepiece |
 | 1546 | 128 | Zachery Caldwell |
-| 1547 | 128 | Mylo James |
-| 1548 | 128 | PoundSound |
+| 1547 | 128 | PoundSound |
+| 1548 | 128 | Mylo James |
 | 1549 | 128 | Melissa Acera Baker |
-| 1550 | 128 | Samantha Valdez |
-| 1551 | 128 | Spunky Zoney |
-| 1552 | 128 | Cheeks |
+| 1550 | 128 | Spunky Zoney |
+| 1551 | 128 | Cheeks |
+| 1552 | 128 | Samantha Valdez |
 | 1553 | 128 | MamaPhee |
-| 1554 | 127 | Offspring |
-| 1555 | 127 | Andretta Wilder |
+| 1554 | 127 | Andretta Wilder |
+| 1555 | 127 | Offspring |
 | 1556 | 127 | Tipsy Tetrisline |
 | 1557 | 127 | SkullKng |
-| 1558 | 127 | Brave Linebuilder |
-| 1559 | 127 | Nerdy Patternline |
-| 1560 | 126 | RyGo |
-| 1561 | 126 | l |
-| 1562 | 126 | Marlena McAllister |
-| 1563 | 126 | Elliot |
-| 1564 | 126 | Trevor Towle |
-| 1565 | 126 | Chirpy Twistpiece |
-| 1566 | 126 | Pam Salsman |
-| 1567 | 126 | Aden Beeck |
-| 1568 | 126 | Shiny Stacky |
-| 1569 | 126 | Brooklyn Red |
-| 1570 | 126 | Wesley Smith |
-| 1571 | 126 | Jerry Ruff |
-| 1572 | 126 | Rainbow brite |
-| 1573 | 126 | Goofy Twistslam |
-| 1574 | 125 | Christina Laughlin |
+| 1558 | 127 | Bradley Geiter |
+| 1559 | 127 | Brave Linebuilder |
+| 1560 | 127 | Nerdy Patternline |
+| 1561 | 126 | RyGo |
+| 1562 | 126 | Pam Salsman |
+| 1563 | 126 | Shiny Stacky |
+| 1564 | 126 | Marlena McAllister |
+| 1565 | 126 | Aden Beeck |
+| 1566 | 126 | Chirpy Twistpiece |
+| 1567 | 126 | l |
+| 1568 | 126 | Trevor Towle |
+| 1569 | 126 | Elliot |
+| 1570 | 126 | Brooklyn Red |
+| 1571 | 126 | Wesley Smith |
+| 1572 | 126 | Jerry Ruff |
+| 1573 | 126 | Rainbow brite |
+| 1574 | 126 | Goofy Twistslam |
 | 1575 | 125 | Bill Frederick |
 | 1576 | 125 | Breezy Party |
-| 1577 | 125 | Zappy Snapper |
-| 1578 | 124 | Natalia Lynee Leggett |
-| 1579 | 124 | Bradley Geiter |
-| 1580 | 124 | Edwards Dave |
-| 1581 | 124 | Las Carolina |
-| 1582 | 124 | Giggy Balancer |
-| 1583 | 124 | Nicole Ashley Roy |
+| 1577 | 125 | Christina Laughlin |
+| 1578 | 125 | Zappy Snapper |
+| 1579 | 125 | Joni Patterson |
+| 1580 | 124 | Sam |
+| 1581 | 124 | Natalia Lynee Leggett |
+| 1582 | 124 | Nicole Ashley Roy |
+| 1583 | 124 | Giggy Balancer |
 | 1584 | 124 | Cjsinger9289 |
-| 1585 | 124 | Sam |
-| 1586 | 123 | Joni Patterson |
-| 1587 | 123 | Christina Morales |
-| 1588 | 123 | Tee Mac |
-| 1589 | 123 | Bald head b |
-| 1590 | 123 | Lush Frame |
-| 1591 | 123 | Betty |
-| 1592 | 123 | Candace Lin Ladner |
-| 1593 | 123 | Kristopher Daniels |
-| 1594 | 123 | Speedy Dropmatch |
-| 1595 | 122 | Anthony Ross |
-| 1596 | 122 | Loony Blockfall |
-| 1597 | 122 | Michael Wood |
-| 1598 | 122 | Bobbie Duty |
-| 1599 | 122 | Elizabeth A Cobuccio |
-| 1600 | 122 | Devon Rae |
-| 1601 | 122 | Bree Prine |
-| 1602 | 122 | Jenny Lynn Hiles |
-| 1603 | 122 | Happy Gridclear |
-| 1604 | 122 | cherish |
+| 1585 | 124 | Edwards Dave |
+| 1586 | 124 | Las Carolina |
+| 1587 | 123 | Lush Frame |
+| 1588 | 123 | Speedy Dropmatch |
+| 1589 | 123 | Kristopher Daniels |
+| 1590 | 123 | Betty |
+| 1591 | 123 | Candace Lin Ladner |
+| 1592 | 123 | Bald head b |
+| 1593 | 123 | Christina Morales |
+| 1594 | 123 | Tee Mac |
+| 1595 | 122 | cherish |
+| 1596 | 122 | Michael Wood |
+| 1597 | 122 | Anthony Ross |
+| 1598 | 122 | Loony Blockfall |
+| 1599 | 122 | Bobbie Duty |
+| 1600 | 122 | Elizabeth A Cobuccio |
+| 1601 | 122 | Devon Rae |
+| 1602 | 122 | Bree Prine |
+| 1603 | 122 | Jenny Lynn Hiles |
+| 1604 | 122 | Happy Gridclear |
 | 1605 | 121 | Jenny Hughes |
 | 1606 | 121 | Saucy Tetriblast |
 | 1607 | 121 | Jumpy Dasher |
@@ -1661,8 +1661,8 @@
 | 1653 | 114 | Loony Match |
 | 1654 | 114 | Franklin Danner |
 | 1655 | 114 | Karl |
-| 1656 | 113 | Paul Osborne |
-| 1657 | 113 | Lush Riseclear |
+| 1656 | 114 | Lush Riseclear |
+| 1657 | 113 | Paul Osborne |
 | 1658 | 113 | Jeyson |
 | 1659 | 113 | Jordan Leach |
 | 1660 | 113 | Zesty Shatterline |
