@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 08:16:44 UTC
+# Standings for team2 as of 2026-03-18 08:17:24 UTC
 
 **Total Participants:** 3276
 
@@ -328,7 +328,7 @@
 | 320 | 671 | Shelbs |
 | 321 | 666 | Devin |
 | 322 | 665 | Kyesha Goodyear |
-| 323 | 664 | Bouncy Zoner |
+| 323 | 665 | Bouncy Zoner |
 | 324 | 663 | MJ1234 |
 | 325 | 663 | TJ Hire |
 | 326 | 662 | Tyler StaySnappin Old'Page |
@@ -1844,9 +1844,9 @@
 | 1836 | 92 | Ruffrider27 |
 | 1837 | 92 | Step White |
 | 1838 | 92 | Hediyuda |
-| 1839 | 91 | CG2026 |
+| 1839 | 91 | Lilly Frost |
 | 1840 | 91 | Ernest Troutman |
-| 1841 | 91 | Lilly Frost |
+| 1841 | 91 | CG2026 |
 | 1842 | 91 | DeAnne Geier Wade |
 | 1843 | 91 | Mariah SanCartier |
 | 1844 | 91 | Loony Snapper |
@@ -1862,12 +1862,12 @@
 | 1854 | 90 | Avi Quijada |
 | 1855 | 90 | Tina Franklin |
 | 1856 | 90 | Sonceria Ingram-Ford |
-| 1857 | 90 | Denise Bailey |
-| 1858 | 90 | Plucky Clusterer |
-| 1859 | 90 | Angel Niomi Munoz |
-| 1860 | 90 | Terry Fabian |
-| 1861 | 90 | Zesty Tiler |
-| 1862 | 90 | Frilly Slider |
+| 1857 | 90 | Terry Fabian |
+| 1858 | 90 | Denise Bailey |
+| 1859 | 90 | Frilly Slider |
+| 1860 | 90 | Plucky Clusterer |
+| 1861 | 90 | Angel Niomi Munoz |
+| 1862 | 90 | Zesty Tiler |
 | 1863 | 89 | Christian Werndl |
 | 1864 | 89 | Marisa |
 | 1865 | 89 | Rachel Robertson |
@@ -1898,8 +1898,8 @@
 | 1890 | 87 | Michelle |
 | 1891 | 86 | Kristen M Gorsuch |
 | 1892 | 86 | mars |
-| 1893 | 86 | Lillian Maier-martin |
-| 1894 | 86 | Laurie McGregor |
+| 1893 | 86 | Laurie McGregor |
+| 1894 | 86 | Lillian Maier-martin |
 | 1895 | 86 | Mike Esparza |
 | 1896 | 86 | Lisa Hart |
 | 1897 | 86 | Groovy Builder |
@@ -1931,11 +1931,11 @@
 | 1923 | 83 | Jumpy Fitblock |
 | 1924 | 83 | Jennifer Young |
 | 1925 | 83 | FuzzyKay |
-| 1926 | 83 | Crafty Glidepiece |
-| 1927 | 83 | Lush Edgepiece |
-| 1928 | 83 | Dev |
-| 1929 | 82 | Stephanie Laine Myers |
-| 1930 | 82 | SueB3 |
+| 1926 | 83 | Lush Edgepiece |
+| 1927 | 83 | Dev |
+| 1928 | 83 | Crafty Glidepiece |
+| 1929 | 82 | SueB3 |
+| 1930 | 82 | Stephanie Laine Myers |
 | 1931 | 82 | Anastacia Young |
 | 1932 | 82 | Marlene Espinosa |
 | 1933 | 82 | Brandon Bergfield |
@@ -1947,38 +1947,38 @@
 | 1939 | 81 | Fancy Builderfit |
 | 1940 | 81 | David Ysidron |
 | 1941 | 81 | Zappy Zoney |
-| 1942 | 81 | MOK |
-| 1943 | 81 | Frilly Match |
-| 1944 | 81 | Quirky Crawler |
-| 1945 | 80 | Hope Evans-Jansen |
-| 1946 | 80 | Shawn Darryl Butler |
-| 1947 | 80 | Cheez2Go |
-| 1948 | 80 | Casey Lane |
-| 1949 | 80 | Beth Maxwell |
-| 1950 | 80 | MelQ |
-| 1951 | 80 | Loony Curvebuilder |
-| 1952 | 80 | Justin Hains |
-| 1953 | 80 | Goobette |
-| 1954 | 80 | Brenda Chouinard |
-| 1955 | 80 | Elizabeth Hinkens |
-| 1956 | 80 | Meow Meow |
-| 1957 | 80 | boogadee |
-| 1958 | 80 | Glitzy Matchbuilder |
-| 1959 | 80 | OneTwenty Livin |
-| 1960 | 80 | Shera |
-| 1961 | 80 | GoddessCandy |
-| 1962 | 80 | Theo Pinnow |
-| 1963 | 80 | Rachel Mitchell |
-| 1964 | 79 | Jazzy Pivoty |
-| 1965 | 79 | Elizabeth Donovan |
-| 1966 | 79 | MaryAnn Metz |
-| 1967 | 79 | Dave Behnen |
-| 1968 | 79 | Dizzy Piececlear |
-| 1969 | 79 | Dreamy Snapgrid |
-| 1970 | 79 | Sugar Shack |
+| 1942 | 81 | Quirky Crawler |
+| 1943 | 81 | MOK |
+| 1944 | 81 | Frilly Match |
+| 1945 | 80 | Cheez2Go |
+| 1946 | 80 | Marie |
+| 1947 | 80 | Shawn Darryl Butler |
+| 1948 | 80 | Hope Evans-Jansen |
+| 1949 | 80 | MelQ |
+| 1950 | 80 | Beth Maxwell |
+| 1951 | 80 | Casey Lane |
+| 1952 | 80 | Loony Curvebuilder |
+| 1953 | 80 | Justin Hains |
+| 1954 | 80 | Goobette |
+| 1955 | 80 | Brenda Chouinard |
+| 1956 | 80 | Elizabeth Hinkens |
+| 1957 | 80 | Meow Meow |
+| 1958 | 80 | boogadee |
+| 1959 | 80 | Glitzy Matchbuilder |
+| 1960 | 80 | OneTwenty Livin |
+| 1961 | 80 | Shera |
+| 1962 | 80 | GoddessCandy |
+| 1963 | 80 | Theo Pinnow |
+| 1964 | 80 | Rachel Mitchell |
+| 1965 | 79 | Jazzy Pivoty |
+| 1966 | 79 | Elizabeth Donovan |
+| 1967 | 79 | MaryAnn Metz |
+| 1968 | 79 | Dave Behnen |
+| 1969 | 79 | Dizzy Piececlear |
+| 1970 | 79 | Dreamy Snapgrid |
 | 1971 | 79 | Crystal Kennett |
 | 1972 | 79 | Tenika Higgins |
-| 1973 | 78 | Marie |
+| 1973 | 79 | Sugar Shack |
 | 1974 | 78 | Cecil W Pxn |
 | 1975 | 78 | Jazzy Dasher |
 | 1976 | 78 | brii |
@@ -1993,8 +1993,8 @@
 | 1985 | 77 | Kirk Maxon |
 | 1986 | 77 | Heather Bouchard |
 | 1987 | 77 | Bryon Leippi |
-| 1988 | 76 | Ashley Ballou |
-| 1989 | 76 | Marianita Garcia |
+| 1988 | 76 | Marianita Garcia |
+| 1989 | 76 | Ashley Ballou |
 | 1990 | 76 | Sherri Morgan |
 | 1991 | 76 | Sandra Parker |
 | 1992 | 76 | PrincessDonut |
@@ -2029,8 +2029,8 @@
 | 2021 | 73 | Liz Pollock |
 | 2022 | 73 | KaTosha Holloway |
 | 2023 | 73 | Frothy Grid |
-| 2024 | 73 | Karyn Yurcho Dooley |
-| 2025 | 73 | Sassy Fallgrid |
+| 2024 | 73 | Sassy Fallgrid |
+| 2025 | 73 | Karyn Yurcho Dooley |
 | 2026 | 73 | Nerdy Balanceblock |
 | 2027 | 73 | FunMom |
 | 2028 | 72 | Tara Hansen |
