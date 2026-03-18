@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 10:14:47 UTC
+# Standings for team2 as of 2026-03-18 10:15:19 UTC
 
 **Total Participants:** 3286
 
@@ -278,7 +278,7 @@
 | 270 | 788 | Toph |
 | 271 | 785 | LML |
 | 272 | 783 | Chassy Horton |
-| 273 | 780 | Ashley Marie |
+| 273 | 781 | Ashley Marie |
 | 274 | 780 | Destiny Brady |
 | 275 | 780 | DanesMama |
 | 276 | 773 | Laura |
@@ -347,10 +347,10 @@
 | 339 | 646 | Gracie Back |
 | 340 | 645 | Ashley Marie Pierce |
 | 341 | 640 | Joy Young |
-| 342 | 636 | Alex Alex |
-| 343 | 635 | Mary Ann Pabukis |
-| 344 | 633 | Niamh |
-| 345 | 633 | Sista |
+| 342 | 638 | Sista |
+| 343 | 636 | Alex Alex |
+| 344 | 635 | Mary Ann Pabukis |
+| 345 | 633 | Niamh |
 | 346 | 631 | Happy Brickbuilder |
 | 347 | 630 | ElayneTrekand |
 | 348 | 625 | Theodore Vincent |
@@ -413,8 +413,8 @@
 | 405 | 544 | Traci Bond |
 | 406 | 542 | Chummy Brickfit |
 | 407 | 542 | Kristin Montoya |
-| 408 | 540 | Nerdy Blockpiece |
-| 409 | 540 | Randy Jansen |
+| 408 | 541 | Randy Jansen |
+| 409 | 540 | Nerdy Blockpiece |
 | 410 | 539 | Robyn Coleman Sadler |
 | 411 | 539 | Kate |
 | 412 | 537 | Bea Miles |
@@ -768,19 +768,19 @@
 | 760 | 310 | Susan Larson |
 | 761 | 310 | SpiritSpeaker |
 | 762 | 310 | Dimitra Zazara |
-| 763 | 308 | Volley |
-| 764 | 308 | Marcie McLain Dodd |
+| 763 | 308 | Marcie McLain Dodd |
+| 764 | 308 | Volley |
 | 765 | 308 | Glitzy Bricky |
 | 766 | 308 | Dizzy Brickbuilder |
 | 767 | 307 | Ownlane Rico |
-| 768 | 306 | Happy Link |
-| 769 | 305 | Joe England |
-| 770 | 304 | Nerdy Rollzone |
-| 771 | 304 | Heather Watson |
+| 768 | 306 | Heather Watson |
+| 769 | 306 | Happy Link |
+| 770 | 305 | Joe England |
+| 771 | 304 | Nerdy Rollzone |
 | 772 | 303 | Halie Geesey |
 | 773 | 303 | Sara Knapp |
-| 774 | 302 | BuzyBee |
-| 775 | 302 | Cami Jones |
+| 774 | 302 | Cami Jones |
+| 775 | 302 | BuzyBee |
 | 776 | 302 | Rcw |
 | 777 | 301 | Chirpy Zoney |
 | 778 | 300 | TiffanyJ |

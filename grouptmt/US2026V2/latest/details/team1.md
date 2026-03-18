@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 10:14:47 UTC
+# Standings for team1 as of 2026-03-18 10:15:19 UTC
 
 **Total Participants:** 3244
 
@@ -112,9 +112,9 @@
 | 104 | 1923 | Tanya Bailey |
 | 105 | 1906 | Spunky Snapfit |
 | 106 | 1893 | Justin Jerome |
-| 107 | 1873 | FancyPants |
-| 108 | 1871 | Ellie Bein |
-| 109 | 1854 | Yolanda M Harris |
+| 107 | 1878 | Yolanda M Harris |
+| 108 | 1873 | FancyPants |
+| 109 | 1871 | Ellie Bein |
 | 110 | 1847 | Yvonne Buie |
 | 111 | 1842 | Shaynna Garza |
 | 112 | 1829 | Amber Zeller Rice |
@@ -360,14 +360,14 @@
 | 352 | 671 | Deandre Young |
 | 353 | 671 | Pamela Marie Tyler |
 | 354 | 669 | Amh |
-| 355 | 663 | Greenbayfan |
-| 356 | 661 | Ancient Intuition |
-| 357 | 660 | Bouncy Wipeout |
-| 358 | 657 | Boldy Clicky |
-| 359 | 656 | Amers |
-| 360 | 650 | Peppy Matchclear |
-| 361 | 647 | Kay Francois |
-| 362 | 647 | Angelina Maldonado |
+| 355 | 668 | Angelina Maldonado |
+| 356 | 663 | Greenbayfan |
+| 357 | 661 | Ancient Intuition |
+| 358 | 660 | Bouncy Wipeout |
+| 359 | 657 | Boldy Clicky |
+| 360 | 656 | Amers |
+| 361 | 650 | Peppy Matchclear |
+| 362 | 647 | Kay Francois |
 | 363 | 646 | Terri Beran |
 | 364 | 645 | Alicia Parrish |
 | 365 | 643 | Jena Overall Prescott |
@@ -562,10 +562,10 @@
 | 554 | 438 | Speedy Blockbuilder |
 | 555 | 437 | Jaay |
 | 556 | 437 | Angela |
-| 557 | 435 | Lynn Adams |
-| 558 | 434 | Gabriel Archer |
-| 559 | 433 | Julie Seal |
-| 560 | 433 | Wendy Griffith |
+| 557 | 435 | Wendy Griffith |
+| 558 | 435 | Lynn Adams |
+| 559 | 434 | Gabriel Archer |
+| 560 | 433 | Julie Seal |
 | 561 | 433 | Dreamy Matchclear |
 | 562 | 432 | Brandon McDonald |
 | 563 | 432 | Maju Restini |
@@ -3042,47 +3042,47 @@
 | 3034 | 13 | Lisa Rizzo |
 | 3035 | 13 | Slot-Champ |
 | 3036 | 12 | Brad Olson |
-| 3037 | 12 | Frilly Brickclear |
-| 3038 | 12 | Mckenzie Houston |
-| 3039 | 12 | Joey Coleman |
-| 3040 | 12 | Mayroj |
-| 3041 | 12 | Heather Carter |
-| 3042 | 12 | Cece305 |
-| 3043 | 12 | Tracy M Deak |
-| 3044 | 12 | Debra Reynolds |
-| 3045 | 12 | Giggy Stacky |
-| 3046 | 12 | Robaire |
-| 3047 | 12 | Wacky Twistbuilder |
-| 3048 | 12 | Kyla Hood |
-| 3049 | 12 | Peachy Brickline |
-| 3050 | 12 | BLS |
-| 3051 | 12 | Lush Dasher |
-| 3052 | 12 | PAB |
-| 3053 | 12 | Alynie Sam |
-| 3054 | 12 | Vanessa Armour |
-| 3055 | 11 | Happy Brickclear |
-| 3056 | 11 | Spaceypenguin |
-| 3057 | 11 | Robert A. Mixon Jr. |
-| 3058 | 11 | Tiffany Greene |
-| 3059 | 11 | Laura Harnage |
-| 3060 | 11 | Vincent Cic Mgds |
-| 3061 | 11 | Happy Fitline |
-| 3062 | 11 | Loopy Setter |
-| 3063 | 11 | Brian White |
-| 3064 | 11 | Jumpy Blockbuilder |
-| 3065 | 11 | Lisa Petersen Bloecher |
+| 3037 | 12 | Brian White |
+| 3038 | 12 | Frilly Brickclear |
+| 3039 | 12 | Mckenzie Houston |
+| 3040 | 12 | Joey Coleman |
+| 3041 | 12 | Mayroj |
+| 3042 | 12 | Heather Carter |
+| 3043 | 12 | Cece305 |
+| 3044 | 12 | Tracy M Deak |
+| 3045 | 12 | Debra Reynolds |
+| 3046 | 12 | Giggy Stacky |
+| 3047 | 12 | Robaire |
+| 3048 | 12 | Wacky Twistbuilder |
+| 3049 | 12 | Kyla Hood |
+| 3050 | 12 | Peachy Brickline |
+| 3051 | 12 | BLS |
+| 3052 | 12 | Lush Dasher |
+| 3053 | 12 | PAB |
+| 3054 | 12 | Alynie Sam |
+| 3055 | 12 | Vanessa Armour |
+| 3056 | 11 | Happy Brickclear |
+| 3057 | 11 | Spaceypenguin |
+| 3058 | 11 | Robert A. Mixon Jr. |
+| 3059 | 11 | Tiffany Greene |
+| 3060 | 11 | Laura Harnage |
+| 3061 | 11 | Vincent Cic Mgds |
+| 3062 | 11 | Happy Fitline |
+| 3063 | 11 | Jumpy Blockbuilder |
+| 3064 | 11 | Lisa Petersen Bloecher |
+| 3065 | 11 | Loopy Setter |
 | 3066 | 11 | Nicole Cole |
 | 3067 | 11 | Miguel Sanchez |
-| 3068 | 10 | Spicy Wipebuilder |
+| 3068 | 10 | Amanda Johnson |
 | 3069 | 10 | Hasty Zone |
 | 3070 | 10 | Moldy B0ner |
-| 3071 | 10 | Kris Walker |
-| 3072 | 10 | Amanda Johnson |
+| 3071 | 10 | Spicy Wipebuilder |
+| 3072 | 10 | Zeeby Hicks |
 | 3073 | 10 | Bunny |
 | 3074 | 10 | Braska Williams Jr |
 | 3075 | 10 | Mandy Alcina |
 | 3076 | 10 | Eileen Rivera |
-| 3077 | 10 | Zeeby Hicks |
+| 3077 | 10 | Kris Walker |
 | 3078 | 10 | Brad Lewis |
 | 3079 | 10 | AllyG |
 | 3080 | 10 | WyoHawk |
