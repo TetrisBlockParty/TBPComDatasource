@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 20:22:43 UTC
+# Standings for team2 as of 2026-03-18 20:23:24 UTC
 
 **Total Participants:** 3400
 
@@ -11,7 +11,7 @@
 | 3 | 22674 | Payton Auberry |
 | 4 | 21236 | 赵珞涵 |
 | 5 | 21230 | 1nonlyreal1 |
-| 6 | 17885 | Justablock |
+| 6 | 17905 | Justablock |
 | 7 | 14299 | Denise Nardoni |
 | 8 | 13817 | MzBerry |
 | 9 | 11483 | Dreamy Clicker |
@@ -249,9 +249,9 @@
 | 241 | 906 | Dylan Toy |
 | 242 | 904 | Chipper Linkmatch |
 | 243 | 903 | Cranky Gridder |
-| 244 | 902 | Dondon Cheng |
-| 245 | 900 | Sandra Safford |
-| 246 | 900 | Mindy Phelps |
+| 244 | 903 | Mindy Phelps |
+| 245 | 902 | Dondon Cheng |
+| 246 | 900 | Sandra Safford |
 | 247 | 899 | Kennady Griffin |
 | 248 | 897 | Sandra McNab |
 | 249 | 893 | Looloo |
@@ -1689,8 +1689,8 @@
 | 1681 | 123 | Andrea Velasco Dela Cruz |
 | 1682 | 123 | Groovy Combofall |
 | 1683 | 123 | Meri |
-| 1684 | 123 | Nina Donahue |
-| 1685 | 123 | Oxygène Liberté |
+| 1684 | 123 | Oxygène Liberté |
+| 1685 | 123 | Nina Donahue |
 | 1686 | 122 | Dandy Buildsnap |
 | 1687 | 122 | Autumn Kumzi |
 | 1688 | 122 | Funky Stackzone |
@@ -1704,17 +1704,17 @@
 | 1696 | 121 | Amy Reed |
 | 1697 | 121 | Kelly Cox |
 | 1698 | 121 | k8y |
-| 1699 | 121 | Adrienne Schnell-Traylor |
+| 1699 | 121 | Bubbly Smasher |
 | 1700 | 121 | SlothyVengeance |
-| 1701 | 121 | Bubbly Smasher |
-| 1702 | 121 | James Gardner |
-| 1703 | 120 | Perky Wipefit |
-| 1704 | 120 | Jeremiah Bedwell |
-| 1705 | 120 | Crystal Williams |
-| 1706 | 120 | Cranky Rotator |
-| 1707 | 120 | Stephon Void |
-| 1708 | 120 | Bubbly Shift |
-| 1709 | 120 | ShyRONNIE |
+| 1701 | 121 | James Gardner |
+| 1702 | 121 | Adrienne Schnell-Traylor |
+| 1703 | 120 | Stephon Void |
+| 1704 | 120 | ShyRONNIE |
+| 1705 | 120 | Cranky Rotator |
+| 1706 | 120 | Crystal Williams |
+| 1707 | 120 | Perky Wipefit |
+| 1708 | 120 | Jeremiah Bedwell |
+| 1709 | 120 | Bubbly Shift |
 | 1710 | 120 | Fred Yslas |
 | 1711 | 120 | Symore Buttz |
 | 1712 | 120 | FunMom |
@@ -1736,8 +1736,8 @@
 | 1728 | 119 | Zany Linkblock |
 | 1729 | 119 | Nugget |
 | 1730 | 119 | Stella Gordon |
-| 1731 | 119 | Zesty Splitter |
-| 1732 | 119 | Christine Boone |
+| 1731 | 119 | Christine Boone |
+| 1732 | 119 | Zesty Splitter |
 | 1733 | 118 | Demon |
 | 1734 | 118 | Stephanie Laine Myers |
 | 1735 | 118 | Cranky Bouncer |
@@ -1754,10 +1754,10 @@
 | 1746 | 117 | Quintis Steemer |
 | 1747 | 117 | Keysha White |
 | 1748 | 117 | Ernest Troutman |
-| 1749 | 116 | Giggy Slam |
+| 1749 | 116 | Katrina Flatten |
 | 1750 | 116 | BurntSinai |
-| 1751 | 116 | Videovixen Storm |
-| 1752 | 116 | Katrina Flatten |
+| 1751 | 116 | Giggy Slam |
+| 1752 | 116 | Videovixen Storm |
 | 1753 | 116 | Chill Tilefall |
 | 1754 | 116 | Arson Fox |
 | 1755 | 116 | carole57 |
@@ -1770,10 +1770,10 @@
 | 1762 | 115 | Shay Mc |
 | 1763 | 115 | Shawn Darryl Butler |
 | 1764 | 115 | Tamara Hagen |
-| 1765 | 114 | CG2026 |
-| 1766 | 114 | Shantina Lee |
-| 1767 | 114 | Brian Marsico |
-| 1768 | 114 | Poppy Snap |
+| 1765 | 114 | Shantina Lee |
+| 1766 | 114 | CG2026 |
+| 1767 | 114 | Poppy Snap |
+| 1768 | 114 | Brian Marsico |
 | 1769 | 114 | Jennifer Young |
 | 1770 | 114 | Cheeky Cornerfall |
 | 1771 | 114 | Brittany Gent |
@@ -1787,81 +1787,81 @@
 | 1779 | 113 | Ma Ri |
 | 1780 | 113 | Kristen Tucker |
 | 1781 | 113 | Bash |
-| 1782 | 112 | Speedy Curvebuilder |
-| 1783 | 112 | Peachy Clusterfit |
-| 1784 | 112 | Moose |
-| 1785 | 112 | Stacey Sanders |
-| 1786 | 112 | Diana |
-| 1787 | 111 | Smiley Shuffler |
-| 1788 | 111 | Amanda Eakin |
-| 1789 | 111 | Peppy Zigzag |
-| 1790 | 111 | Brave Brickroll |
-| 1791 | 111 | Kali |
-| 1792 | 111 | Derek Jarvis |
-| 1793 | 111 | Autumn Lenhart |
-| 1794 | 111 | Lynn Sweetman |
-| 1795 | 110 | Jaden Smith |
-| 1796 | 110 | Alice Ball |
-| 1797 | 110 | Tim Valdez |
-| 1798 | 110 | Justin Hains |
-| 1799 | 110 | Aly San |
-| 1800 | 110 | Mandy |
-| 1801 | 110 | Broketraveler |
-| 1802 | 110 | Jake Ching |
-| 1803 | 109 | Anthony Quick |
-| 1804 | 109 | Andy Barrett |
-| 1805 | 109 | Krista Robinson |
-| 1806 | 109 | BluSkyes |
-| 1807 | 109 | Jolly Riserpiece |
-| 1808 | 109 | Jessica Culbertson |
-| 1809 | 109 | Sugar |
-| 1810 | 109 | Juliana Stiles |
-| 1811 | 108 | Desiree Cochran-Norfolk |
-| 1812 | 108 | Lilly Frost |
+| 1782 | 113 | mars |
+| 1783 | 112 | Speedy Curvebuilder |
+| 1784 | 112 | Peachy Clusterfit |
+| 1785 | 112 | Moose |
+| 1786 | 112 | Stacey Sanders |
+| 1787 | 112 | Diana |
+| 1788 | 111 | Smiley Shuffler |
+| 1789 | 111 | Amanda Eakin |
+| 1790 | 111 | Peppy Zigzag |
+| 1791 | 111 | Brave Brickroll |
+| 1792 | 111 | Kali |
+| 1793 | 111 | Derek Jarvis |
+| 1794 | 111 | Autumn Lenhart |
+| 1795 | 111 | Lynn Sweetman |
+| 1796 | 110 | Jaden Smith |
+| 1797 | 110 | Alice Ball |
+| 1798 | 110 | Tim Valdez |
+| 1799 | 110 | Justin Hains |
+| 1800 | 110 | Aly San |
+| 1801 | 110 | Mandy |
+| 1802 | 110 | Broketraveler |
+| 1803 | 110 | Jake Ching |
+| 1804 | 109 | Anthony Quick |
+| 1805 | 109 | Andy Barrett |
+| 1806 | 109 | Krista Robinson |
+| 1807 | 109 | BluSkyes |
+| 1808 | 109 | Jolly Riserpiece |
+| 1809 | 109 | Jessica Culbertson |
+| 1810 | 109 | Sugar |
+| 1811 | 109 | Juliana Stiles |
+| 1812 | 108 | Desiree Cochran-Norfolk |
 | 1813 | 108 | Frilly Match |
-| 1814 | 108 | lynni |
-| 1815 | 108 | GoblinHatcher |
-| 1816 | 108 | Ruffrider27 |
-| 1817 | 108 | Meep |
-| 1818 | 108 | Nutty Linkgrid |
-| 1819 | 108 | Mellinese Nicole King |
-| 1820 | 108 | Leshea L Brandi |
-| 1821 | 108 | Chill Spinblock |
-| 1822 | 107 | Barb Swartzendruber |
-| 1823 | 107 | Stéphanie Bissonnette |
-| 1824 | 107 | Sarah Arnold |
-| 1825 | 107 | Wambo |
-| 1826 | 107 | John Leonard |
-| 1827 | 107 | Cheery Lift |
-| 1828 | 107 | Joe Frazier |
-| 1829 | 107 | Vamp |
+| 1814 | 108 | Lilly Frost |
+| 1815 | 108 | lynni |
+| 1816 | 108 | GoblinHatcher |
+| 1817 | 108 | Ruffrider27 |
+| 1818 | 108 | Meep |
+| 1819 | 108 | Nutty Linkgrid |
+| 1820 | 108 | Mellinese Nicole King |
+| 1821 | 108 | Leshea L Brandi |
+| 1822 | 108 | Chill Spinblock |
+| 1823 | 107 | Barb Swartzendruber |
+| 1824 | 107 | Stéphanie Bissonnette |
+| 1825 | 107 | Sarah Arnold |
+| 1826 | 107 | Wambo |
+| 1827 | 107 | John Leonard |
+| 1828 | 107 | Cheery Lift |
+| 1829 | 107 | Joe Frazier |
 | 1830 | 107 | BEB |
 | 1831 | 107 | Jaimie Lynn Casias |
-| 1832 | 106 | Lisa Reid |
-| 1833 | 105 | Happy Drop |
-| 1834 | 105 | Dreamy Puzzler |
-| 1835 | 105 | Makayla Lindsay |
-| 1836 | 105 | Foggy |
-| 1837 | 105 | Kitty tet |
-| 1838 | 105 | Rose |
-| 1839 | 105 | Melinda Davis |
-| 1840 | 105 | Sticherella |
-| 1841 | 104 | Marisa Sanders |
-| 1842 | 104 | Bartleby Tickletits |
-| 1843 | 104 | Estefa The Architect |
-| 1844 | 104 | Jamie Hicks |
-| 1845 | 104 | Lazy Balancepiece |
-| 1846 | 104 | Whitney Douglas |
-| 1847 | 104 | Dizzy Piececlear |
-| 1848 | 104 | mars |
-| 1849 | 104 | Sunny Wipefit |
-| 1850 | 104 | Zesty Slam |
-| 1851 | 104 | Daring Riser |
-| 1852 | 104 | Cool Caster |
+| 1832 | 107 | Vamp |
+| 1833 | 106 | Lisa Reid |
+| 1834 | 105 | Happy Drop |
+| 1835 | 105 | Dreamy Puzzler |
+| 1836 | 105 | Makayla Lindsay |
+| 1837 | 105 | Foggy |
+| 1838 | 105 | Kitty tet |
+| 1839 | 105 | Rose |
+| 1840 | 105 | Melinda Davis |
+| 1841 | 105 | Sticherella |
+| 1842 | 104 | Marisa Sanders |
+| 1843 | 104 | Bartleby Tickletits |
+| 1844 | 104 | Estefa The Architect |
+| 1845 | 104 | Jamie Hicks |
+| 1846 | 104 | Lazy Balancepiece |
+| 1847 | 104 | Whitney Douglas |
+| 1848 | 104 | Dizzy Piececlear |
+| 1849 | 104 | Cool Caster |
+| 1850 | 104 | Goofy Twistline |
+| 1851 | 104 | Sunny Wipefit |
+| 1852 | 104 | Zesty Slam |
 | 1853 | 104 | Peppy Rollzone |
-| 1854 | 104 | Goofy Twistline |
-| 1855 | 103 | kimmy |
-| 1856 | 103 | Dev |
+| 1854 | 104 | Daring Riser |
+| 1855 | 103 | Dev |
+| 1856 | 103 | kimmy |
 | 1857 | 103 | Priscilla Dae Jones |
 | 1858 | 103 | Dawn Burton |
 | 1859 | 103 | Amber Starr Drinnon |
@@ -1887,18 +1887,18 @@
 | 1879 | 100 | Nyiesha Aikens |
 | 1880 | 100 | Jenny Edwards Wells |
 | 1881 | 100 | MrsPass |
-| 1882 | 100 | Tee |
-| 1883 | 100 | EscapedChaos |
-| 1884 | 100 | Lisa McClarin |
-| 1885 | 100 | Shannon Nichole |
-| 1886 | 100 | Kirashilo |
-| 1887 | 99 | Cedric Mendiola |
-| 1888 | 99 | Mollijoy Carter |
-| 1889 | 99 | Plucky Framezone |
-| 1890 | 99 | Kristen M Gorsuch |
-| 1891 | 99 | Bearra |
-| 1892 | 99 | Ram |
-| 1893 | 99 | MOK |
+| 1882 | 100 | EscapedChaos |
+| 1883 | 100 | Shannon Nichole |
+| 1884 | 100 | Kirashilo |
+| 1885 | 100 | Tee |
+| 1886 | 100 | Lisa McClarin |
+| 1887 | 99 | Bearra |
+| 1888 | 99 | MOK |
+| 1889 | 99 | Ram |
+| 1890 | 99 | Mollijoy Carter |
+| 1891 | 99 | Plucky Framezone |
+| 1892 | 99 | Kristen M Gorsuch |
+| 1893 | 99 | Cedric Mendiola |
 | 1894 | 99 | Jimmy Bowden |
 | 1895 | 99 | Nek |
 | 1896 | 99 | Luna Serrano |
@@ -1913,8 +1913,8 @@
 | 1905 | 98 | Destiny Riding |
 | 1906 | 98 | Heather Estle |
 | 1907 | 98 | Perky Fitclear |
-| 1908 | 97 | kev |
-| 1909 | 97 | Bryon Leippi |
+| 1908 | 97 | Bryon Leippi |
+| 1909 | 97 | kev |
 | 1910 | 97 | Ying Pate Wong |
 | 1911 | 97 | RzrbkParty |
 | 1912 | 97 | Octavia Parker Ford |
@@ -1932,8 +1932,8 @@
 | 1924 | 96 | Paul Squier |
 | 1925 | 96 | Lora Sikorski |
 | 1926 | 96 | PatsyGSD4eva |
-| 1927 | 96 | M3M3 |
-| 1928 | 96 | Hasty Tiler |
+| 1927 | 96 | Hasty Tiler |
+| 1928 | 96 | M3M3 |
 | 1929 | 95 | Carla Newton |
 | 1930 | 95 | Carla B Linker |
 | 1931 | 95 | Amy Siebenhaar |
