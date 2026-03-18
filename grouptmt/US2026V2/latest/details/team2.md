@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 14:34:45 UTC
+# Standings for team2 as of 2026-03-18 14:35:24 UTC
 
 **Total Participants:** 3332
 
@@ -878,44 +878,44 @@
 | 870 | 277 | Matthew Heffran |
 | 871 | 276 | Tiffany Banks Jennings |
 | 872 | 276 | Zesty Edgefit |
-| 873 | 275 | John De Guzman Sydiongco |
-| 874 | 275 | Laura Harrington |
-| 875 | 275 | Cookie |
-| 876 | 275 | Andrew McCafferty |
-| 877 | 275 | FallenStar |
-| 878 | 274 | Dizzy Dasher |
-| 879 | 274 | Kaela Ferguson |
-| 880 | 274 | LaChalle Shay |
-| 881 | 273 | BusyBee11 |
-| 882 | 273 | Steady Treal |
-| 883 | 273 | Brave Matchfit |
-| 884 | 272 | Michelle Sager |
-| 885 | 272 | Becki Lynne Corinthos |
-| 886 | 272 | Jumpy Tiley |
-| 887 | 272 | Suaveelo |
-| 888 | 271 | Brendi Richardson |
-| 889 | 271 | Marcia Jones |
-| 890 | 271 | Giggy Zonepiece |
-| 891 | 270 | Kimmie Gargano |
-| 892 | 270 | Slinky Towerer |
-| 893 | 269 | DrMichelle Richardson |
-| 894 | 269 | Buffy |
-| 895 | 268 | Happy Twistfit |
-| 896 | 268 | Elegant banana |
-| 897 | 268 | Ann Jessica |
-| 898 | 268 | Doodle |
-| 899 | 268 | MrMais89 |
-| 900 | 267 | Plucky Glide |
-| 901 | 267 | TinaMarie Montone |
-| 902 | 266 | Candy Brooks |
-| 903 | 266 | Faithful Akiroso |
-| 904 | 266 | Spicy Strikerbuilder |
-| 905 | 266 | Denise Wilson |
-| 906 | 265 | Adam W Johnson |
-| 907 | 265 | Breezy |
-| 908 | 265 | Jes Lynn |
-| 909 | 265 | Prette Qui |
-| 910 | 265 | Giggy Twistbuilder |
+| 873 | 275 | Giggy Twistbuilder |
+| 874 | 275 | John De Guzman Sydiongco |
+| 875 | 275 | Laura Harrington |
+| 876 | 275 | Cookie |
+| 877 | 275 | Andrew McCafferty |
+| 878 | 275 | FallenStar |
+| 879 | 274 | Dizzy Dasher |
+| 880 | 274 | Kaela Ferguson |
+| 881 | 274 | LaChalle Shay |
+| 882 | 273 | BusyBee11 |
+| 883 | 273 | Steady Treal |
+| 884 | 273 | Brave Matchfit |
+| 885 | 272 | Michelle Sager |
+| 886 | 272 | Becki Lynne Corinthos |
+| 887 | 272 | Jumpy Tiley |
+| 888 | 272 | Suaveelo |
+| 889 | 271 | Brendi Richardson |
+| 890 | 271 | Marcia Jones |
+| 891 | 271 | Giggy Zonepiece |
+| 892 | 270 | Kimmie Gargano |
+| 893 | 270 | Slinky Towerer |
+| 894 | 269 | DrMichelle Richardson |
+| 895 | 269 | Buffy |
+| 896 | 268 | Happy Twistfit |
+| 897 | 268 | Elegant banana |
+| 898 | 268 | Ann Jessica |
+| 899 | 268 | Doodle |
+| 900 | 268 | MrMais89 |
+| 901 | 267 | Plucky Glide |
+| 902 | 267 | TinaMarie Montone |
+| 903 | 266 | Candy Brooks |
+| 904 | 266 | Faithful Akiroso |
+| 905 | 266 | Spicy Strikerbuilder |
+| 906 | 266 | Denise Wilson |
+| 907 | 265 | Adam W Johnson |
+| 908 | 265 | Breezy |
+| 909 | 265 | Jes Lynn |
+| 910 | 265 | Prette Qui |
 | 911 | 264 | Nerdy Stacky |
 | 912 | 264 | Bibbit |
 | 913 | 262 | Rachel |
@@ -1374,10 +1374,10 @@
 | 1366 | 161 | Novice123 |
 | 1367 | 161 | blockbustinbecky |
 | 1368 | 161 | Snazzy Wipepiece |
-| 1369 | 161 | Smith Nita |
-| 1370 | 161 | Smiley |
-| 1371 | 161 | Ashley Sweet-Hart |
-| 1372 | 160 | PartyStarter |
+| 1369 | 161 | PartyStarter |
+| 1370 | 161 | Smith Nita |
+| 1371 | 161 | Smiley |
+| 1372 | 161 | Ashley Sweet-Hart |
 | 1373 | 160 | Caden Reinhardt |
 | 1374 | 160 | Kaagyugaq Jessica |
 | 1375 | 160 | Sabrina Cearley |
