@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 11:36:21 UTC
+# Standings for team1 as of 2026-03-18 11:37:20 UTC
 
 **Total Participants:** 3253
 
@@ -35,8 +35,8 @@
 | 27 | 6280 | Brad Oneill |
 | 28 | 6267 | Krystal McPherson |
 | 29 | 6060 | Venechia Berry |
-| 30 | 6014 | Elyse YL |
-| 31 | 6005 | Selena Rollin |
+| 30 | 6025 | Selena Rollin |
+| 31 | 6014 | Elyse YL |
 | 32 | 5947 | Amanda Sheppard |
 | 33 | 5742 | Erica Lepisto Anderson |
 | 34 | 5465 | Paul Smiar |
@@ -604,8 +604,8 @@
 | 596 | 417 | Logan McFarland |
 | 597 | 417 | Dī Kuykendall |
 | 598 | 416 | Panda Rog |
-| 599 | 415 | Shant |
-| 600 | 415 | Daniel James Man |
+| 599 | 416 | Daniel James Man |
+| 600 | 415 | Shant |
 | 601 | 414 | Tabitha Cornelious |
 | 602 | 413 | MammaCass |
 | 603 | 412 | Tran Tran |
