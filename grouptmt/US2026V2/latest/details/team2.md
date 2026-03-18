@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 09:10:47 UTC
+# Standings for team2 as of 2026-03-18 09:11:19 UTC
 
 **Total Participants:** 3283
 
@@ -240,8 +240,8 @@
 | 232 | 892 | Alexsa Crespo |
 | 233 | 891 | Desiree Anderson |
 | 234 | 890 | Shawn Haines |
-| 235 | 889 | Frothy Linker |
-| 236 | 889 | Kennady Griffin |
+| 235 | 889 | Kennady Griffin |
+| 236 | 889 | Frothy Linker |
 | 237 | 884 | Cranky Gridder |
 | 238 | 883 | Chilly Fallgrid |
 | 239 | 881 | Carmilita Burpo Jordan |
@@ -256,8 +256,8 @@
 | 248 | 850 | Dondon Cheng |
 | 249 | 846 | Emily Wooden |
 | 250 | 843 | ᚢᚨᛚᛖᚾᛏᛁᚾᚨ ᚦᛖ ᚷᚱᛖᚨᛏ |
-| 251 | 839 | Krish Shah |
-| 252 | 839 | Michael |
+| 251 | 839 | Michael |
+| 252 | 839 | Krish Shah |
 | 253 | 835 | Mark Blanton |
 | 254 | 833 | Amelia Anderson |
 | 255 | 831 | Mindy Phelps |
@@ -276,24 +276,24 @@
 | 268 | 788 | Toph |
 | 269 | 785 | LML |
 | 270 | 783 | Chassy Horton |
-| 271 | 780 | DanesMama |
+| 271 | 780 | Ashley Marie |
 | 272 | 780 | Destiny Brady |
-| 273 | 780 | Ashley Marie |
-| 274 | 773 | Laura |
-| 275 | 771 | Peaches |
-| 276 | 771 | Jessica Miles |
-| 277 | 767 | jess |
-| 278 | 765 | Marc Abney |
-| 279 | 765 | MauaStorm |
-| 280 | 764 | Spicy Patternbuilder |
-| 281 | 760 | Chelsea Clark |
-| 282 | 760 | 🍏 Green apple |
-| 283 | 758 | Tommy Proctor |
-| 284 | 757 | Zack Theisen |
-| 285 | 754 | Tausha Colella |
-| 286 | 747 | Snappy Bridgepiece |
-| 287 | 744 | Bia |
-| 288 | 740 | Twisty Shatter |
+| 273 | 780 | DanesMama |
+| 274 | 780 | Twisty Shatter |
+| 275 | 773 | Laura |
+| 276 | 771 | Peaches |
+| 277 | 771 | Jessica Miles |
+| 278 | 767 | jess |
+| 279 | 765 | Marc Abney |
+| 280 | 765 | MauaStorm |
+| 281 | 764 | Spicy Patternbuilder |
+| 282 | 760 | Chelsea Clark |
+| 283 | 760 | 🍏 Green apple |
+| 284 | 758 | Tommy Proctor |
+| 285 | 757 | Zack Theisen |
+| 286 | 754 | Tausha Colella |
+| 287 | 747 | Snappy Bridgepiece |
+| 288 | 744 | Bia |
 | 289 | 740 | Angela Bonquiqui Dinish |
 | 290 | 739 | Jasmine Kenney |
 | 291 | 739 | Trista Duguay |
@@ -310,8 +310,8 @@
 | 302 | 709 | Charde Parnell |
 | 303 | 708 | Jen Roe |
 | 304 | 707 | Sheena Harris |
-| 305 | 705 | James Hurley Jr. |
-| 306 | 705 | Christian Caro |
+| 305 | 705 | Christian Caro |
+| 306 | 705 | James Hurley Jr. |
 | 307 | 704 | Joshua |
 | 308 | 700 | Danielle Thompkins |
 | 309 | 700 | Sandy Aragon |
@@ -332,15 +332,15 @@
 | 324 | 666 | Devin |
 | 325 | 665 | Kyesha Goodyear |
 | 326 | 663 | Sha45 |
-| 327 | 663 | MJ1234 |
-| 328 | 663 | TJ Hire |
+| 327 | 663 | TJ Hire |
+| 328 | 663 | MJ1234 |
 | 329 | 662 | Tyler StaySnappin Old'Page |
 | 330 | 660 | Chad Meyers |
 | 331 | 660 | Spunky Gridmatch |
 | 332 | 657 | MyMahdi Estrada |
 | 333 | 653 | Ding Adventurer |
-| 334 | 649 | Jamie Mclean |
-| 335 | 649 | June E Hanson |
+| 334 | 649 | June E Hanson |
+| 335 | 649 | Jamie Mclean |
 | 336 | 648 | Faith Adrienne Verret Page |
 | 337 | 646 | Gracie Back |
 | 338 | 645 | Ashley Marie Pierce |
@@ -384,8 +384,8 @@
 | 376 | 582 | Twisty Spinbuilder |
 | 377 | 582 | Tra Barnum |
 | 378 | 581 | Brenda A |
-| 379 | 580 | CSOTYS |
-| 380 | 580 | Halstead47K |
+| 379 | 580 | Halstead47K |
+| 380 | 580 | CSOTYS |
 | 381 | 577 | Yoyareese |
 | 382 | 573 | Annmarie Gilreath |
 | 383 | 572 | Lizzie Marie |
@@ -431,22 +431,22 @@
 | 423 | 522 | kippykay |
 | 424 | 522 | Yloponom Gamez |
 | 425 | 522 | Ashley Leonard |
-| 426 | 521 | Jenn Dandle |
-| 427 | 521 | Nice queen |
-| 428 | 520 | btchboy |
-| 429 | 520 | Dreamy Clicky |
-| 430 | 520 | Tony Tran |
-| 431 | 520 | Poppy |
-| 432 | 519 | Charleen Beyer |
-| 433 | 519 | Jumpy Breaker |
+| 426 | 521 | Nice queen |
+| 427 | 521 | Jenn Dandle |
+| 428 | 520 | Poppy |
+| 429 | 520 | Tony Tran |
+| 430 | 520 | Dreamy Clicky |
+| 431 | 520 | btchboy |
+| 432 | 519 | Jumpy Breaker |
+| 433 | 519 | Charleen Beyer |
 | 434 | 517 | Angela Srubar-Norman |
 | 435 | 515 | Shiny Gridmatch |
 | 436 | 514 | João Paulo |
 | 437 | 513 | squareMel |
-| 438 | 512 | Christine Soltis |
-| 439 | 512 | SterlingTeri |
-| 440 | 510 | Angela Mindiola |
-| 441 | 509 | Jess Meyers |
+| 438 | 512 | SterlingTeri |
+| 439 | 512 | Christine Soltis |
+| 440 | 511 | Jess Meyers |
+| 441 | 510 | Angela Mindiola |
 | 442 | 509 | Debra D. Herbert |
 | 443 | 509 | Sammy |
 | 444 | 509 | Jen Kanakry Faria |
