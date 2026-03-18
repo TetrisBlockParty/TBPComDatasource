@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 09:56:22 UTC
+# Standings for team1 as of 2026-03-18 09:56:47 UTC
 
 **Total Participants:** 3241
 
@@ -915,41 +915,41 @@
 | 907 | 272 | Christopher Cunningham |
 | 908 | 271 | Frilly T-spin |
 | 909 | 270 | Israel Lane |
-| 910 | 270 | Spam |
-| 911 | 270 | Lively Rollfit |
-| 912 | 269 | Laci Hutson |
-| 913 | 269 | Loopy Edge |
-| 914 | 269 | SpunkyStriker |
-| 915 | 268 | Phrank |
-| 916 | 268 | Amber Nicole |
-| 917 | 268 | Christopher Wesley |
-| 918 | 268 | Robert A. Horne |
-| 919 | 268 | Michelle Lee |
-| 920 | 266 | LucasEveryday |
-| 921 | 266 | mbij21 |
+| 910 | 270 | WakeUpCakeUp |
+| 911 | 270 | Spam |
+| 912 | 270 | Lively Rollfit |
+| 913 | 269 | Laci Hutson |
+| 914 | 269 | Loopy Edge |
+| 915 | 269 | SpunkyStriker |
+| 916 | 268 | Christopher Wesley |
+| 917 | 268 | Amber Nicole |
+| 918 | 268 | Michelle Lee |
+| 919 | 268 | Robert A. Horne |
+| 920 | 268 | Phrank |
+| 921 | 266 | LucasEveryday |
 | 922 | 266 | TheBiz2 |
-| 923 | 266 | Robert |
-| 924 | 266 | OneBuke FollowMe |
-| 925 | 266 | momme |
-| 926 | 265 | Felipa Jo Johnson |
-| 927 | 265 | D7capt |
-| 928 | 265 | Kristen Hall |
-| 929 | 264 | Kim Robinson |
-| 930 | 264 | Aries Lyn |
-| 931 | 264 | Nerdy Shatterline |
-| 932 | 263 | Natasha King |
-| 933 | 262 | Ty's Spot |
-| 934 | 262 | Rick Haverty |
-| 935 | 262 | Ronald Przytulski |
-| 936 | 262 | Rob Chebetar |
-| 937 | 261 | Kecia Bright |
-| 938 | 260 | Dean Gaboury |
-| 939 | 260 | Tara Lawson |
-| 940 | 260 | WakeUpCakeUp |
+| 923 | 266 | mbij21 |
+| 924 | 266 | Robert |
+| 925 | 266 | OneBuke FollowMe |
+| 926 | 266 | momme |
+| 927 | 265 | Felipa Jo Johnson |
+| 928 | 265 | D7capt |
+| 929 | 265 | Kristen Hall |
+| 930 | 264 | Kim Robinson |
+| 931 | 264 | Aries Lyn |
+| 932 | 264 | Nerdy Shatterline |
+| 933 | 263 | Natasha King |
+| 934 | 262 | Ty's Spot |
+| 935 | 262 | Rick Haverty |
+| 936 | 262 | Ronald Przytulski |
+| 937 | 262 | Rob Chebetar |
+| 938 | 261 | Kecia Bright |
+| 939 | 260 | Dean Gaboury |
+| 940 | 260 | Tara Lawson |
 | 941 | 260 | Cristian Ramirez Lazaro |
 | 942 | 260 | Bree Cordell Tremain |
-| 943 | 259 | Jazzy Bridgepiece |
-| 944 | 259 | Jennifer Lynn |
+| 943 | 259 | Jennifer Lynn |
+| 944 | 259 | Jazzy Bridgepiece |
 | 945 | 259 | Pupcup |
 | 946 | 259 | April Bennett |
 | 947 | 258 | Kimmy Newman |
@@ -1051,56 +1051,56 @@
 | 1043 | 232 | Juice |
 | 1044 | 231 | Tionna Rose Alderson |
 | 1045 | 231 | Snippy Risebuilder |
-| 1046 | 230 | JustMeNonna |
-| 1047 | 230 | Luis Silva |
-| 1048 | 230 | Britters |
+| 1046 | 230 | Rebecca Fitch |
+| 1047 | 230 | Meghan Chalke |
+| 1048 | 230 | Nicole G Simms |
 | 1049 | 230 | Chill Shiftspin |
 | 1050 | 230 | Eric Montgomery |
-| 1051 | 230 | Teresa Wolf |
-| 1052 | 230 | Nicole G Simms |
-| 1053 | 230 | Meghan Chalke |
-| 1054 | 230 | Rebecca Fitch |
-| 1055 | 229 | Michelle Roberts |
+| 1051 | 230 | JustMeNonna |
+| 1052 | 230 | Teresa Wolf |
+| 1053 | 230 | Luis Silva |
+| 1054 | 230 | Britters |
+| 1055 | 229 | Delzie J Leigh |
 | 1056 | 229 | Tracy Priceless Gholston |
-| 1057 | 229 | Delzie J Leigh |
-| 1058 | 228 | Salena Pardue |
-| 1059 | 228 | Chummy Rollzone |
-| 1060 | 228 | Trish11479 |
+| 1057 | 229 | John DeMoss |
+| 1058 | 229 | Michelle Roberts |
+| 1059 | 228 | Salena Pardue |
+| 1060 | 228 | Ricardo Ferreira |
 | 1061 | 228 | Jodie Andring |
-| 1062 | 228 | Ricardo Ferreira |
+| 1062 | 228 | Trish11479 |
 | 1063 | 228 | Sunny Frame |
-| 1064 | 227 | Jose Olivo |
-| 1065 | 227 | Moemoe Jackson |
-| 1066 | 227 | Monica Blu |
-| 1067 | 227 | Larry Jackson |
-| 1068 | 227 | Andrew Lauterborn |
-| 1069 | 227 | Cartier |
-| 1070 | 226 | Speedy Edge |
-| 1071 | 226 | Joe Andrew Jackson |
-| 1072 | 226 | Silly Strikerbuilder |
-| 1073 | 226 | Neomi Perdue |
-| 1074 | 225 | Baretta Scott |
-| 1075 | 225 | Amber Wolfe |
-| 1076 | 225 | Sasha Farnsworth |
-| 1077 | 224 | Christine Sheridan |
-| 1078 | 224 | Sassy Curvetile |
-| 1079 | 224 | Raynsera |
-| 1080 | 224 | Scott Smith |
-| 1081 | 224 | Alexis Vogel |
-| 1082 | 224 | Edward White |
-| 1083 | 223 | John DeMoss |
-| 1084 | 222 | Swanky Cascadezone |
-| 1085 | 221 | Samantha Bugg Stitcher |
-| 1086 | 221 | Groovy Cascadefit |
+| 1064 | 228 | Chummy Rollzone |
+| 1065 | 227 | Monica Blu |
+| 1066 | 227 | Cartier |
+| 1067 | 227 | Andrew Lauterborn |
+| 1068 | 227 | Jose Olivo |
+| 1069 | 227 | Moemoe Jackson |
+| 1070 | 227 | Larry Jackson |
+| 1071 | 226 | Speedy Edge |
+| 1072 | 226 | Joe Andrew Jackson |
+| 1073 | 226 | Silly Strikerbuilder |
+| 1074 | 226 | Neomi Perdue |
+| 1075 | 225 | Baretta Scott |
+| 1076 | 225 | Amber Wolfe |
+| 1077 | 225 | Sasha Farnsworth |
+| 1078 | 224 | Thomas Hopper |
+| 1079 | 224 | Christine Sheridan |
+| 1080 | 224 | Sassy Curvetile |
+| 1081 | 224 | Raynsera |
+| 1082 | 224 | Scott Smith |
+| 1083 | 224 | Alexis Vogel |
+| 1084 | 224 | Edward White |
+| 1085 | 222 | Swanky Cascadezone |
+| 1086 | 221 | Samantha Bugg Stitcher |
 | 1087 | 221 | MWFreddy |
-| 1088 | 220 | Duc Donger |
-| 1089 | 220 | Thomas Hopper |
+| 1088 | 221 | Groovy Cascadefit |
+| 1089 | 220 | Duc Donger |
 | 1090 | 220 | Geno Bankroll McGill |
-| 1091 | 219 | Sabrina Wilkerson |
+| 1091 | 219 | rance |
 | 1092 | 219 | Matthew Graves D.C. |
-| 1093 | 219 | rance |
-| 1094 | 219 | Cozy Matchpiece |
-| 1095 | 219 | Kenneth Madden |
+| 1093 | 219 | Cozy Matchpiece |
+| 1094 | 219 | Kenneth Madden |
+| 1095 | 219 | Sabrina Wilkerson |
 | 1096 | 219 | Groovy Holder |
 | 1097 | 219 | Snappy Gridclear |
 | 1098 | 218 | Matthew Laudico |
@@ -1108,9 +1108,9 @@
 | 1100 | 217 | Alexandra Karavias |
 | 1101 | 217 | Goob277 |
 | 1102 | 216 | Duna Tats |
-| 1103 | 215 | Ray Vankirk |
+| 1103 | 215 | Kindra Sinclair |
 | 1104 | 215 | Jennifer Obrien |
-| 1105 | 215 | Kindra Sinclair |
+| 1105 | 215 | Ray Vankirk |
 | 1106 | 215 | Michelle Pike |
 | 1107 | 215 | Blondie |
 | 1108 | 215 | Crystal Swigart |
