@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 18:46:43 UTC
+# Standings for team1 as of 2026-03-18 18:47:23 UTC
 
 **Total Participants:** 3345
 
@@ -20,7 +20,7 @@
 | 12 | 11465 | Dizzy Stagger |
 | 13 | 10370 | Katie Daniels |
 | 14 | 10350 | Amy Jerman |
-| 15 | 9651 | Robert Jansen |
+| 15 | 9652 | Robert Jansen |
 | 16 | 9539 | Angel Smith |
 | 17 | 9451 | William George Weglage III |
 | 18 | 8667 | Devinlee Brown |
@@ -338,8 +338,8 @@
 | 330 | 756 | Ren Mc |
 | 331 | 749 | Rose Anna |
 | 332 | 748 | Jason Cunningham |
-| 333 | 743 | juicyred |
-| 334 | 740 | John Gardner |
+| 333 | 746 | John Gardner |
+| 334 | 743 | juicyred |
 | 335 | 738 | Jamilah Abdul-Hakeem |
 | 336 | 737 | Michael-Melissa Markham |
 | 337 | 737 | BrownNinj |
@@ -742,12 +742,12 @@
 | 734 | 361 | Mary Boo |
 | 735 | 360 | Lalo Enriquez |
 | 736 | 360 | Poppy Builderline |
-| 737 | 358 | Shaneeka Morrissette |
-| 738 | 358 | StarlessRevenge |
-| 739 | 358 | Fabyy |
-| 740 | 357 | Joshua Lipscomb |
-| 741 | 357 | Ruhshikuh Lakor |
-| 742 | 356 | Spunky Rollblock |
+| 737 | 358 | Spunky Rollblock |
+| 738 | 358 | Shaneeka Morrissette |
+| 739 | 358 | StarlessRevenge |
+| 740 | 358 | Fabyy |
+| 741 | 357 | Joshua Lipscomb |
+| 742 | 357 | Ruhshikuh Lakor |
 | 743 | 355 | Michael Bruck |
 | 744 | 355 | Gina Annese |
 | 745 | 354 | Tameka Brown |
@@ -2879,14 +2879,14 @@
 | 2871 | 27 | Cheryl Netos |
 | 2872 | 27 | Cranky Swiper |
 | 2873 | 26 | Mauretta A. Akers |
-| 2874 | 26 | Ryuzaki Duncan |
-| 2875 | 26 | Nicole Cole |
-| 2876 | 26 | Dandy Shatterbuilder |
-| 2877 | 26 | Michael Brady |
-| 2878 | 26 | Angel Butler |
-| 2879 | 26 | Mark Wayne |
-| 2880 | 26 | Oscar Lopez |
-| 2881 | 26 | Brandon Binion |
+| 2874 | 26 | Nicole Cole |
+| 2875 | 26 | Ryuzaki Duncan |
+| 2876 | 26 | Michael Brady |
+| 2877 | 26 | Dandy Shatterbuilder |
+| 2878 | 26 | Brandon Binion |
+| 2879 | 26 | Angel Butler |
+| 2880 | 26 | Mark Wayne |
+| 2881 | 26 | Oscar Lopez |
 | 2882 | 26 | Peachy Linkfall |
 | 2883 | 26 | Silly Riserbuilder |
 | 2884 | 26 | Justina Sunderman |
@@ -2912,12 +2912,12 @@
 | 2904 | 25 | Chuck McClarren |
 | 2905 | 25 | TOP DOG |
 | 2906 | 25 | Kayla MacDougall |
-| 2907 | 25 | Echo Zoller |
-| 2908 | 25 | Lively Bridgepiece |
+| 2907 | 25 | Lively Bridgepiece |
+| 2908 | 25 | Echo Zoller |
 | 2909 | 25 | Lively Matchpiece |
 | 2910 | 25 | Poppy Glidepiece |
-| 2911 | 24 | Shelby |
-| 2912 | 24 | Joslyn Phillips-Decess |
+| 2911 | 24 | Joslyn Phillips-Decess |
+| 2912 | 24 | Shelby |
 | 2913 | 24 | LaChina Thomas |
 | 2914 | 24 | Cooper Duane |
 | 2915 | 24 | Jessica Powell Snyder |
@@ -2937,47 +2937,47 @@
 | 2929 | 23 | Anastacia |
 | 2930 | 23 | Jill Goff |
 | 2931 | 23 | David Paul Boysen |
-| 2932 | 23 | Aaron Nelson |
-| 2933 | 23 | Ryu |
-| 2934 | 23 | Melissa Crutcher |
-| 2935 | 23 | Ramona Kelley |
-| 2936 | 22 | Jennifer Freeman |
-| 2937 | 22 | Netty Perkins |
-| 2938 | 22 | Jennifer Schwed |
-| 2939 | 22 | Charlène Gauthier |
-| 2940 | 22 | DiQuarto Tom |
-| 2941 | 22 | Jerry D Byrd |
-| 2942 | 22 | Colena Davenport |
-| 2943 | 22 | Sonya Yost |
-| 2944 | 22 | Peppy Dashpiece |
-| 2945 | 22 | Perky Twisterfit |
-| 2946 | 22 | Anne Garcia |
-| 2947 | 22 | Lydia Reed |
-| 2948 | 22 | Brave Piecebuilder |
-| 2949 | 22 | Dandy Filler |
-| 2950 | 22 | Kriket |
-| 2951 | 22 | Eddie Salas |
-| 2952 | 22 | Christine Delack |
-| 2953 | 21 | Joe Dardar |
-| 2954 | 21 | Jazzy Blockfall |
-| 2955 | 21 | Renee Tomlinson |
-| 2956 | 21 | Lily |
-| 2957 | 21 | Daniel Golden |
-| 2958 | 21 | Frothy Shatterfit |
-| 2959 | 21 | Tommy April Rodriguez |
-| 2960 | 21 | Tonya Conner |
-| 2961 | 21 | Memorie Galarneau |
-| 2962 | 21 | Lori Mccool |
-| 2963 | 21 | Hallo Nite |
-| 2964 | 21 | JulyGuy85 |
-| 2965 | 21 | Dawn Meraz Ochoa |
-| 2966 | 21 | Frothy Stackbuilder |
+| 2932 | 23 | Frothy Stackbuilder |
+| 2933 | 23 | Aaron Nelson |
+| 2934 | 23 | Ryu |
+| 2935 | 23 | Melissa Crutcher |
+| 2936 | 23 | Ramona Kelley |
+| 2937 | 22 | Jennifer Freeman |
+| 2938 | 22 | Netty Perkins |
+| 2939 | 22 | Jennifer Schwed |
+| 2940 | 22 | Charlène Gauthier |
+| 2941 | 22 | DiQuarto Tom |
+| 2942 | 22 | Jerry D Byrd |
+| 2943 | 22 | Colena Davenport |
+| 2944 | 22 | Sonya Yost |
+| 2945 | 22 | Peppy Dashpiece |
+| 2946 | 22 | Perky Twisterfit |
+| 2947 | 22 | Anne Garcia |
+| 2948 | 22 | Lydia Reed |
+| 2949 | 22 | Brave Piecebuilder |
+| 2950 | 22 | Dandy Filler |
+| 2951 | 22 | Kriket |
+| 2952 | 22 | Eddie Salas |
+| 2953 | 22 | Christine Delack |
+| 2954 | 21 | Joe Dardar |
+| 2955 | 21 | Jazzy Blockfall |
+| 2956 | 21 | Renee Tomlinson |
+| 2957 | 21 | Lily |
+| 2958 | 21 | Daniel Golden |
+| 2959 | 21 | Frothy Shatterfit |
+| 2960 | 21 | Tommy April Rodriguez |
+| 2961 | 21 | Tonya Conner |
+| 2962 | 21 | Memorie Galarneau |
+| 2963 | 21 | Lori Mccool |
+| 2964 | 21 | Hallo Nite |
+| 2965 | 21 | JulyGuy85 |
+| 2966 | 21 | Dawn Meraz Ochoa |
 | 2967 | 21 | Cheryl Benjamin |
 | 2968 | 20 | Sylvia L. Vasquez |
 | 2969 | 20 | Christiné Terry Hovi |
 | 2970 | 20 | Kevin Busch |
-| 2971 | 20 | Kewi Lowe |
-| 2972 | 20 | Haven McCain |
+| 2971 | 20 | Haven McCain |
+| 2972 | 20 | Kewi Lowe |
 | 2973 | 20 | Ellen K Glassmyer |
 | 2974 | 20 | Carlos White |
 | 2975 | 20 | Poppy Brickzone |
