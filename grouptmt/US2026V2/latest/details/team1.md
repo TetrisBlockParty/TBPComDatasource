@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 14:00:24 UTC
+# Standings for team1 as of 2026-03-18 14:01:23 UTC
 
 **Total Participants:** 3280
 
@@ -254,16 +254,16 @@
 | 246 | 956 | Hut Des |
 | 247 | 948 | Bigg Guy |
 | 248 | 944 | Stefanie Champion |
-| 249 | 938 | Jodi Fichter |
-| 250 | 934 | Fairrun James |
-| 251 | 933 | KathyandPhillip Woolard |
+| 249 | 940 | TRCuse |
+| 250 | 938 | Jodi Fichter |
+| 251 | 934 | Fairrun James |
 | 252 | 933 | Shay J Duval |
-| 253 | 930 | Rat666 |
-| 254 | 923 | Kim Bays |
-| 255 | 920 | TRCuse |
+| 253 | 933 | KathyandPhillip Woolard |
+| 254 | 930 | Rat666 |
+| 255 | 923 | Kim Bays |
 | 256 | 917 | Lavender |
-| 257 | 914 | Poppy Fallzone |
-| 258 | 914 | Muhammad |
+| 257 | 914 | Muhammad |
+| 258 | 914 | Poppy Fallzone |
 | 259 | 913 | Heather Bell |
 | 260 | 912 | Chris Kelly |
 | 261 | 910 | Crafty Tilebuilder |
@@ -272,8 +272,8 @@
 | 264 | 904 | Angela Lucille |
 | 265 | 898 | Nikita Nelson |
 | 266 | 893 | Beka |
-| 267 | 891 | Donald Nguyen |
-| 268 | 891 | SitHazy |
+| 267 | 891 | SitHazy |
+| 268 | 891 | Donald Nguyen |
 | 269 | 887 | Michael Zates |
 | 270 | 883 | Chris |
 | 271 | 879 | Mahmudul Hasan |
@@ -953,14 +953,14 @@
 | 945 | 273 | Dominic G Terriaca |
 | 946 | 272 | mbij21 |
 | 947 | 272 | Kelli Pazour |
-| 948 | 272 | Christopher Cunningham |
-| 949 | 271 | Frilly T-spin |
-| 950 | 271 | Tim Doxtator |
-| 951 | 270 | Teresa Wolf |
-| 952 | 270 | Lively Rollfit |
-| 953 | 269 | SpunkyStriker |
-| 954 | 269 | Laci Hutson |
-| 955 | 268 | Bouncy Patternzone |
+| 948 | 272 | Bouncy Patternzone |
+| 949 | 272 | Christopher Cunningham |
+| 950 | 271 | Frilly T-spin |
+| 951 | 271 | Tim Doxtator |
+| 952 | 270 | Teresa Wolf |
+| 953 | 270 | Lively Rollfit |
+| 954 | 269 | SpunkyStriker |
+| 955 | 269 | Laci Hutson |
 | 956 | 268 | Phrank |
 | 957 | 268 | Robert A. Horne |
 | 958 | 268 | Michelle Lee |
@@ -1037,12 +1037,12 @@
 | 1029 | 248 | Justin Woods |
 | 1030 | 247 | Komikeh White |
 | 1031 | 247 | Selena Shaw |
-| 1032 | 247 | Loony Spinzone |
-| 1033 | 246 | Christine Sheridan |
-| 1034 | 246 | Michael Almacen |
-| 1035 | 246 | Laidene Joseph |
-| 1036 | 245 | Katelyn B. Pritchard |
-| 1037 | 245 | Robin Burress |
+| 1032 | 247 | Robin Burress |
+| 1033 | 247 | Loony Spinzone |
+| 1034 | 246 | Christine Sheridan |
+| 1035 | 246 | Michael Almacen |
+| 1036 | 246 | Laidene Joseph |
+| 1037 | 245 | Katelyn B. Pritchard |
 | 1038 | 244 | Mariah Todd |
 | 1039 | 244 | Brittany Singleton |
 | 1040 | 243 | Nicole G Simms |
@@ -1639,8 +1639,8 @@
 | 1631 | 125 | Breezy Party |
 | 1632 | 124 | Edwards Dave |
 | 1633 | 124 | Cjsinger9289 |
-| 1634 | 124 | Giggy Balancer |
-| 1635 | 124 | Las Carolina |
+| 1634 | 124 | Las Carolina |
+| 1635 | 124 | Giggy Balancer |
 | 1636 | 124 | Sonya Harris Combs |
 | 1637 | 124 | Natalia Lynee Leggett |
 | 1638 | 123 | Bald head b |
@@ -1648,42 +1648,42 @@
 | 1640 | 123 | Candace Lin Ladner |
 | 1641 | 123 | Betty |
 | 1642 | 123 | Speedy Dropmatch |
-| 1643 | 122 | Bree Prine |
-| 1644 | 122 | Anthony Ross |
-| 1645 | 122 | Jenny Lynn Hiles |
-| 1646 | 122 | Loony Blockfall |
-| 1647 | 122 | Happy Gridclear |
-| 1648 | 122 | Elizabeth A Cobuccio |
-| 1649 | 122 | Witty Dasher |
+| 1643 | 123 | Witty Dasher |
+| 1644 | 122 | Bree Prine |
+| 1645 | 122 | Anthony Ross |
+| 1646 | 122 | Jenny Lynn Hiles |
+| 1647 | 122 | Loony Blockfall |
+| 1648 | 122 | Happy Gridclear |
+| 1649 | 122 | Elizabeth A Cobuccio |
 | 1650 | 122 | Devon Rae |
 | 1651 | 122 | Josh Richards |
 | 1652 | 122 | Eugenié Stephenson |
 | 1653 | 121 | Michele Chesser |
-| 1654 | 121 | Kensho |
-| 1655 | 121 | Felisha Marie |
-| 1656 | 121 | Saucy Tetriblast |
-| 1657 | 121 | Jenny Hughes |
+| 1654 | 121 | Jenny Hughes |
+| 1655 | 121 | Saucy Tetriblast |
+| 1656 | 121 | Felisha Marie |
+| 1657 | 121 | Kensho |
 | 1658 | 121 | Jumpy Dasher |
-| 1659 | 120 | Curtis T Cirno |
-| 1660 | 120 | David Campbell |
-| 1661 | 120 | Breezy Spinner |
-| 1662 | 120 | Frisky Climber |
+| 1659 | 120 | David Campbell |
+| 1660 | 120 | Breezy Spinner |
+| 1661 | 120 | Frisky Climber |
+| 1662 | 120 | Curtis T Cirno |
 | 1663 | 120 | Anthony Froelick |
 | 1664 | 120 | Amanda Ellison |
-| 1665 | 119 | Ras David |
-| 1666 | 119 | MrsBrown |
-| 1667 | 119 | R |
-| 1668 | 119 | Spicy Builderfit |
-| 1669 | 119 | Matthew Foley |
+| 1665 | 119 | R |
+| 1666 | 119 | Ras David |
+| 1667 | 119 | Spicy Builderfit |
+| 1668 | 119 | Matthew Foley |
+| 1669 | 119 | MrsBrown |
 | 1670 | 119 | Nikki Eaton |
-| 1671 | 118 | Samantha Turzak Baker |
-| 1672 | 118 | Susan Marsh |
+| 1671 | 118 | Susan Marsh |
+| 1672 | 118 | Petrona |
 | 1673 | 118 | Pastel |
-| 1674 | 118 | Snappy Blockfall |
+| 1674 | 118 | Samantha Turzak Baker |
 | 1675 | 118 | Connie Lepore-Mann |
-| 1676 | 118 | Scott Baum |
-| 1677 | 118 | Petrona |
-| 1678 | 118 | Emily Adelaide Wheatley |
+| 1676 | 118 | Emily Adelaide Wheatley |
+| 1677 | 118 | Scott Baum |
+| 1678 | 118 | Snappy Blockfall |
 | 1679 | 118 | Chet Boggs |
 | 1680 | 117 | mingo624 |
 | 1681 | 117 | Dizzy Match |
@@ -1691,11 +1691,11 @@
 | 1683 | 117 | Dave Bremme |
 | 1684 | 117 | HAWAIIANPUNCCH |
 | 1685 | 117 | Leonna Bianchi |
-| 1686 | 117 | Josh Redmon |
+| 1686 | 117 | Justin Harmon |
 | 1687 | 117 | Linda Mccratic |
-| 1688 | 117 | Justin Harmon |
-| 1689 | 117 | Liz M Durfee |
-| 1690 | 117 | Ant |
+| 1688 | 117 | Josh Redmon |
+| 1689 | 117 | Ant |
+| 1690 | 117 | Liz M Durfee |
 | 1691 | 116 | Johnson Aryonda |
 | 1692 | 116 | Spunky |
 | 1693 | 116 | Katie Stenblom |
@@ -2812,31 +2812,31 @@
 | 2804 | 27 | Donetta Brown |
 | 2805 | 26 | Brandon Binion |
 | 2806 | 26 | Mauretta A. Akers |
-| 2807 | 26 | Oscar Lopez |
-| 2808 | 26 | Dandy Shatterbuilder |
-| 2809 | 26 | Nonna Jamie Watt |
-| 2810 | 26 | Tesia Echauri |
-| 2811 | 26 | Riley Chance |
-| 2812 | 26 | Rachel Cook |
-| 2813 | 26 | Peachy Linkfall |
-| 2814 | 26 | Justina Sunderman |
-| 2815 | 26 | Spicy Clearpiece |
-| 2816 | 26 | Keegan King-steele |
-| 2817 | 26 | Nancy |
-| 2818 | 26 | Silly Riserbuilder |
-| 2819 | 26 | Twisty Blast |
-| 2820 | 25 | Farts Mcgee |
-| 2821 | 25 | Chuck McClarren |
-| 2822 | 25 | TOP DOG |
-| 2823 | 25 | Juju |
-| 2824 | 25 | TheBandit |
-| 2825 | 25 | Katrina Cuffe |
-| 2826 | 25 | giantpanduh |
-| 2827 | 25 | Benny |
-| 2828 | 25 | Plucky Tetriblast |
-| 2829 | 25 | Loopy Pivoty |
-| 2830 | 25 | Cara Baca Duarte |
-| 2831 | 25 | Alberto Carlos Rodriguez Alvarez |
+| 2807 | 26 | Alberto Carlos Rodriguez Alvarez |
+| 2808 | 26 | Oscar Lopez |
+| 2809 | 26 | Dandy Shatterbuilder |
+| 2810 | 26 | Nonna Jamie Watt |
+| 2811 | 26 | Tesia Echauri |
+| 2812 | 26 | Riley Chance |
+| 2813 | 26 | Rachel Cook |
+| 2814 | 26 | Peachy Linkfall |
+| 2815 | 26 | Justina Sunderman |
+| 2816 | 26 | Spicy Clearpiece |
+| 2817 | 26 | Keegan King-steele |
+| 2818 | 26 | Nancy |
+| 2819 | 26 | Silly Riserbuilder |
+| 2820 | 26 | Twisty Blast |
+| 2821 | 25 | Farts Mcgee |
+| 2822 | 25 | Chuck McClarren |
+| 2823 | 25 | TOP DOG |
+| 2824 | 25 | Juju |
+| 2825 | 25 | TheBandit |
+| 2826 | 25 | Katrina Cuffe |
+| 2827 | 25 | giantpanduh |
+| 2828 | 25 | Benny |
+| 2829 | 25 | Plucky Tetriblast |
+| 2830 | 25 | Loopy Pivoty |
+| 2831 | 25 | Cara Baca Duarte |
 | 2832 | 25 | Barry Mac'Ockner |
 | 2833 | 25 | Lively Bridgepiece |
 | 2834 | 25 | Echo Zoller |
