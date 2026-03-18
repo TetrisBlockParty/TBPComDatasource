@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 09:57:22 UTC
+# Standings for team2 as of 2026-03-18 09:58:21 UTC
 
 **Total Participants:** 3286
 
@@ -231,7 +231,7 @@
 | 223 | 919 | Lively Builderfit |
 | 224 | 919 | Topsannah Topsannah |
 | 225 | 916 | John Matson |
-| 226 | 914 | Adrienne Fisher |
+| 226 | 915 | Adrienne Fisher |
 | 227 | 907 | Snappy Link |
 | 228 | 907 | Dre Man |
 | 229 | 906 | Dylan Toy |
@@ -377,10 +377,10 @@
 | 369 | 601 | Brenda A |
 | 370 | 601 | Jonviea Dewalt |
 | 371 | 601 | Joyce |
-| 372 | 599 | Zak Dunn |
-| 373 | 596 | Lewis Sturgeon |
-| 374 | 594 | Michelle Allers |
-| 375 | 590 | Julia Freeman |
+| 372 | 600 | Julia Freeman |
+| 373 | 599 | Zak Dunn |
+| 374 | 596 | Lewis Sturgeon |
+| 375 | 594 | Michelle Allers |
 | 376 | 588 | Johanna Massaro |
 | 377 | 588 | Corgi Mama |
 | 378 | 587 | yuppers |
@@ -388,11 +388,11 @@
 | 380 | 584 | eMzzz |
 | 381 | 582 | Tra Barnum |
 | 382 | 582 | Twisty Spinbuilder |
-| 383 | 580 | CSOTYS |
-| 384 | 580 | Halstead47K |
+| 383 | 580 | Halstead47K |
+| 384 | 580 | CSOTYS |
 | 385 | 577 | Yoyareese |
-| 386 | 572 | Maureen Winter |
-| 387 | 572 | Lizzie Marie |
+| 386 | 572 | Lizzie Marie |
+| 387 | 572 | Maureen Winter |
 | 388 | 571 | Jocelyn Jauregui |
 | 389 | 568 | Jen |
 | 390 | 566 | Yloponom Gamez |
@@ -414,31 +414,31 @@
 | 406 | 542 | Chummy Brickfit |
 | 407 | 542 | Kristin Montoya |
 | 408 | 540 | Nerdy Blockpiece |
-| 409 | 539 | Kate |
-| 410 | 539 | Robyn Coleman Sadler |
+| 409 | 539 | Robyn Coleman Sadler |
+| 410 | 539 | Kate |
 | 411 | 537 | Bea Miles |
-| 412 | 534 | Rhonda Milstead |
-| 413 | 534 | Taghrid Ebeid |
+| 412 | 534 | Taghrid Ebeid |
+| 413 | 534 | Rhonda Milstead |
 | 414 | 534 | Randy Jansen |
 | 415 | 532 | JTH |
-| 416 | 531 | Liz Wambsgans |
-| 417 | 531 | Nicci |
-| 418 | 530 | Boomboom |
-| 419 | 530 | Jazzy Piecebuilder |
+| 416 | 531 | Nicci |
+| 417 | 531 | Liz Wambsgans |
+| 418 | 530 | Jazzy Piecebuilder |
+| 419 | 530 | Boomboom |
 | 420 | 528 | Krys Brown |
 | 421 | 527 | Jo |
-| 422 | 526 | Smiley Match |
-| 423 | 526 | Susan Dunn |
-| 424 | 523 | Brandie Marie Miles |
-| 425 | 522 | Ashley Leonard |
-| 426 | 522 | kippykay |
-| 427 | 522 | Zane |
-| 428 | 521 | Nice queen |
-| 429 | 521 | Jason Briggs |
-| 430 | 521 | Jenn Dandle |
-| 431 | 520 | Poppy |
-| 432 | 520 | Tony Tran |
-| 433 | 520 | btchboy |
+| 422 | 526 | Susan Dunn |
+| 423 | 526 | Smiley Match |
+| 424 | 524 | Jason Briggs |
+| 425 | 523 | Brandie Marie Miles |
+| 426 | 522 | Ashley Leonard |
+| 427 | 522 | kippykay |
+| 428 | 522 | Zane |
+| 429 | 521 | Jenn Dandle |
+| 430 | 521 | Nice queen |
+| 431 | 520 | btchboy |
+| 432 | 520 | Poppy |
+| 433 | 520 | Tony Tran |
 | 434 | 520 | Dreamy Clicky |
 | 435 | 519 | Charleen Beyer |
 | 436 | 519 | Jumpy Breaker |
@@ -482,15 +482,15 @@
 | 474 | 485 | LaTonya Myers |
 | 475 | 484 | Eugenio Moquete |
 | 476 | 480 | Trice Sodames |
-| 477 | 477 | Scott Martinson |
+| 477 | 480 | Scott Martinson |
 | 478 | 475 | Sondra Kenny |
 | 479 | 475 | Troy |
 | 480 | 474 | Carmen Jnvm |
 | 481 | 469 | Tori Bowers |
 | 482 | 469 | Jo Frohwein |
-| 483 | 468 | Jean Yap |
+| 483 | 468 | Giggly Shiftsnap |
 | 484 | 468 | Tipsy Riseclear |
-| 485 | 468 | Giggly Shiftsnap |
+| 485 | 468 | Jean Yap |
 | 486 | 468 | Cushalee Howard |
 | 487 | 467 | Alyssa Graham |
 | 488 | 467 | Jen Louie |
@@ -505,18 +505,18 @@
 | 497 | 460 | GirlMom5 |
 | 498 | 457 | LeNae TwoBarbie McEachin |
 | 499 | 457 | Kelly Elizabeth Clark |
-| 500 | 457 | S7ephavs |
-| 501 | 457 | Martinez Jacobo |
+| 500 | 457 | Martinez Jacobo |
+| 501 | 457 | S7ephavs |
 | 502 | 456 | Tipsy Clearbuilder |
 | 503 | 456 | Heather Stratos |
-| 504 | 455 | titrissss |
-| 505 | 455 | Elizabeth Diraffaele |
-| 506 | 450 | Alisha Shelton |
-| 507 | 450 | Quirky Matchfit |
-| 508 | 450 | NDPeanut |
+| 504 | 455 | Elizabeth Diraffaele |
+| 505 | 455 | titrissss |
+| 506 | 453 | Alisha Shelton |
+| 507 | 450 | NDPeanut |
+| 508 | 450 | Quirky Matchfit |
 | 509 | 448 | Dreamy Snapbuilder |
-| 510 | 447 | Cynthia Prouse |
-| 511 | 447 | Starr |
+| 510 | 447 | Starr |
+| 511 | 447 | Cynthia Prouse |
 | 512 | 447 | Nikki Speer |
 | 513 | 447 | Ess |
 | 514 | 447 | Lawan Dixon |
@@ -591,33 +591,33 @@
 | 583 | 398 | Ella Marzano |
 | 584 | 397 | Berling Gil |
 | 585 | 397 | Enigma |
-| 586 | 396 | Deb Rose-Bridinger |
-| 587 | 396 | Mjhays |
+| 586 | 396 | Mjhays |
+| 587 | 396 | Deb Rose-Bridinger |
 | 588 | 396 | Pogo 2.0 |
 | 589 | 395 | Toxic Troll |
 | 590 | 394 | Haley Lynn Agers |
 | 591 | 393 | Glitzy Blockpiece |
 | 592 | 393 | Cheeky Dashy |
 | 593 | 391 | Josie Fig |
-| 594 | 388 | lou28 |
-| 595 | 387 | Junang Herowanto |
-| 596 | 386 | Rileyy Rocket |
-| 597 | 386 | Karent524 |
-| 598 | 386 | Twisty Frame |
-| 599 | 385 | JoJo |
+| 594 | 389 | Guy Incognito |
+| 595 | 388 | lou28 |
+| 596 | 387 | Junang Herowanto |
+| 597 | 386 | Twisty Frame |
+| 598 | 386 | Rileyy Rocket |
+| 599 | 386 | Karent524 |
 | 600 | 385 | Aobregon01 |
-| 601 | 385 | Zippy Zoney |
-| 602 | 383 | Fbai |
-| 603 | 382 | Amanda Martinez |
-| 604 | 381 | Aimee Byrom |
-| 605 | 381 | ZeldaCat |
-| 606 | 380 | Lucas J Sutton |
-| 607 | 380 | Michael Artis |
-| 608 | 379 | Tammy |
-| 609 | 379 | Guy Incognito |
+| 601 | 385 | JoJo |
+| 602 | 385 | Zippy Zoney |
+| 603 | 383 | Fbai |
+| 604 | 382 | Amanda Martinez |
+| 605 | 381 | Aimee Byrom |
+| 606 | 381 | ZeldaCat |
+| 607 | 380 | Lucas J Sutton |
+| 608 | 380 | Michael Artis |
+| 609 | 379 | Tammy |
 | 610 | 378 | Confused Kitty |
-| 611 | 378 | Steve |
-| 612 | 378 | Amanda Mason Scott |
+| 611 | 378 | Amanda Mason Scott |
+| 612 | 378 | Steve |
 | 613 | 376 | Fely |
 | 614 | 376 | Andrew Mathis |
 | 615 | 375 | Haley Bell |
@@ -1536,18 +1536,18 @@
 | 1528 | 130 | Elizabeth Hepler |
 | 1529 | 130 | Stevon Green |
 | 1530 | 130 | Rose Clark |
-| 1531 | 130 | Cranky Holder |
-| 1532 | 130 | Jessica Lawson |
-| 1533 | 129 | Michael Reavis |
-| 1534 | 129 | Wendy Gathings |
-| 1535 | 129 | Chill Fitzone |
-| 1536 | 129 | Alexandra Sucar |
-| 1537 | 129 | Lavella Tburg |
-| 1538 | 129 | Roxie Garza |
-| 1539 | 128 | Lynette Manning |
-| 1540 | 128 | Twisty Tiler |
-| 1541 | 128 | Lorrie Landry |
-| 1542 | 128 | Natasha Magathan |
+| 1531 | 130 | Natasha Magathan |
+| 1532 | 130 | Cranky Holder |
+| 1533 | 130 | Jessica Lawson |
+| 1534 | 129 | Michael Reavis |
+| 1535 | 129 | Wendy Gathings |
+| 1536 | 129 | Chill Fitzone |
+| 1537 | 129 | Alexandra Sucar |
+| 1538 | 129 | Lavella Tburg |
+| 1539 | 129 | Roxie Garza |
+| 1540 | 128 | Lynette Manning |
+| 1541 | 128 | Twisty Tiler |
+| 1542 | 128 | Lorrie Landry |
 | 1543 | 128 | Alishia Robbins |
 | 1544 | 128 | TJ |
 | 1545 | 127 | Ashley Lynn Skaar |
