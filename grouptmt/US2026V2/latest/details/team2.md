@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 11:26:44 UTC
+# Standings for team2 as of 2026-03-18 11:27:20 UTC
 
 **Total Participants:** 3293
 
@@ -115,10 +115,10 @@
 | 107 | 1677 | Arthe3rd |
 | 108 | 1669 | p3ttyboop |
 | 109 | 1663 | Craig Lander |
-| 110 | 1649 | sweet lil miss |
-| 111 | 1631 | Kristina Coleman |
-| 112 | 1603 | Sara Morgan |
-| 113 | 1591 | Veronica Martin Trinkle |
+| 110 | 1652 | Veronica Martin Trinkle |
+| 111 | 1649 | sweet lil miss |
+| 112 | 1631 | Kristina Coleman |
+| 113 | 1603 | Sara Morgan |
 | 114 | 1573 | Nathaniel Hardy |
 | 115 | 1570 | Sharon Cail |
 | 116 | 1568 | cat |
@@ -141,7 +141,7 @@
 | 133 | 1400 | Chipper Matchclear |
 | 134 | 1398 | Madia Quick |
 | 135 | 1384 | Marianthe Bagensie |
-| 136 | 1369 | Paul Hudak |
+| 136 | 1374 | Paul Hudak |
 | 137 | 1353 | TETRIS |
 | 138 | 1342 | kaijujitsu |
 | 139 | 1321 | Christina Graham |
@@ -331,7 +331,7 @@
 | 323 | 682 | Zappy Strikerpiece |
 | 324 | 680 | Whitney Butler |
 | 325 | 679 | Paul Beeman |
-| 326 | 677 | Bouncy Zoner |
+| 326 | 678 | Bouncy Zoner |
 | 327 | 677 | Athena D Connell |
 | 328 | 671 | Shelbs |
 | 329 | 670 | Julia Freeman |
@@ -393,16 +393,16 @@
 | 385 | 582 | Tra Barnum |
 | 386 | 580 | CSOTYS |
 | 387 | 580 | Halstead47K |
-| 388 | 576 | Yloponom Gamez |
-| 389 | 572 | Lizzie Marie |
-| 390 | 572 | Maureen Winter |
-| 391 | 571 | Jocelyn Jauregui |
-| 392 | 568 | Jen |
-| 393 | 563 | LeVeL27 |
-| 394 | 563 | Jaz Sky |
-| 395 | 561 | Lucy Honer |
-| 396 | 560 | Desi Desporte |
-| 397 | 558 | Plucky Snaplink |
+| 388 | 578 | Desi Desporte |
+| 389 | 576 | Yloponom Gamez |
+| 390 | 572 | Lizzie Marie |
+| 391 | 572 | Maureen Winter |
+| 392 | 571 | Jocelyn Jauregui |
+| 393 | 568 | Jen |
+| 394 | 563 | Plucky Snaplink |
+| 395 | 563 | LeVeL27 |
+| 396 | 563 | Jaz Sky |
+| 397 | 561 | Lucy Honer |
 | 398 | 557 | Ashley Danielle |
 | 399 | 556 | Bouncy Swiper |
 | 400 | 554 | Cozy Stagger |
@@ -878,24 +878,24 @@
 | 870 | 269 | DrMichelle Richardson |
 | 871 | 269 | Buffy |
 | 872 | 268 | MrMais89 |
-| 873 | 268 | Happy Twistfit |
-| 874 | 268 | Ann Jessica |
-| 875 | 268 | Elegant banana |
-| 876 | 267 | Plucky Glide |
-| 877 | 266 | Denise Wilson |
-| 878 | 266 | Faithful Akiroso |
-| 879 | 266 | Candy Brooks |
-| 880 | 266 | Spicy Strikerbuilder |
-| 881 | 265 | Jes Lynn |
-| 882 | 265 | Prette Qui |
+| 873 | 268 | Doodle |
+| 874 | 268 | Happy Twistfit |
+| 875 | 268 | Ann Jessica |
+| 876 | 268 | Elegant banana |
+| 877 | 267 | Plucky Glide |
+| 878 | 266 | Denise Wilson |
+| 879 | 266 | Faithful Akiroso |
+| 880 | 266 | Candy Brooks |
+| 881 | 266 | Spicy Strikerbuilder |
+| 882 | 265 | Jes Lynn |
 | 883 | 265 | Adam W Johnson |
-| 884 | 265 | Giggy Twistbuilder |
-| 885 | 264 | Bibbit |
-| 886 | 264 | Kaela Ferguson |
-| 887 | 264 | Nerdy Stacky |
-| 888 | 263 | BusyBee11 |
-| 889 | 262 | Kiana Serrao |
-| 890 | 262 | Doodle |
+| 884 | 265 | Prette Qui |
+| 885 | 265 | Giggy Twistbuilder |
+| 886 | 264 | Bibbit |
+| 887 | 264 | Kaela Ferguson |
+| 888 | 264 | Nerdy Stacky |
+| 889 | 263 | BusyBee11 |
+| 890 | 262 | Kiana Serrao |
 | 891 | 262 | Paula Martin |
 | 892 | 262 | Stacy |
 | 893 | 262 | Rachel |
@@ -1422,10 +1422,10 @@
 | 1414 | 148 | April Jones |
 | 1415 | 148 | Grovenia Joy Perryman |
 | 1416 | 148 | VectorZero |
-| 1417 | 148 | MamaBear04 |
-| 1418 | 147 | Fuzzy |
-| 1419 | 147 | aja |
-| 1420 | 147 | Terta Manz |
+| 1417 | 148 | Terta Manz |
+| 1418 | 148 | MamaBear04 |
+| 1419 | 147 | Fuzzy |
+| 1420 | 147 | aja |
 | 1421 | 147 | PartyStarter |
 | 1422 | 147 | Kadi Rappold |
 | 1423 | 147 | Jodi Young |
