@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 21:20:44 UTC
+# Standings for team2 as of 2026-03-18 21:21:22 UTC
 
 **Total Participants:** 3411
 
@@ -6,8 +6,8 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 26188 | THEMAN |
-| 2 | 25548 | Mochi |
+| 1 | 26748 | Mochi |
+| 2 | 26188 | THEMAN |
 | 3 | 22674 | Payton Auberry |
 | 4 | 21236 | 赵珞涵 |
 | 5 | 21230 | 1nonlyreal1 |
@@ -54,8 +54,8 @@
 | 46 | 3500 | Cubs1918 |
 | 47 | 3490 | Adam Charles |
 | 48 | 3462 | Toni Lynn |
-| 49 | 3406 | Miranda Rush |
-| 50 | 3371 | Katie Wisecarver |
+| 49 | 3415 | Katie Wisecarver |
+| 50 | 3406 | Miranda Rush |
 | 51 | 3367 | Andrey Sharov |
 | 52 | 3329 | Kelley Ann |
 | 53 | 3323 | Crafty Matchfit |
@@ -342,15 +342,15 @@
 | 334 | 704 | Joshua |
 | 335 | 700 | Lush Linkgrid |
 | 336 | 696 | Tipsy Glidezone |
-| 337 | 694 | TJ Hire |
-| 338 | 694 | Albany Broadway |
-| 339 | 690 | Slinky Rollpiece |
-| 340 | 689 | Sha45 |
-| 341 | 685 | Jamie Mclean |
-| 342 | 685 | Christine Soltis |
-| 343 | 683 | Zippy Tile |
-| 344 | 680 | Whitney Butler |
-| 345 | 679 | Sarah Marie |
+| 337 | 694 | Sarah Marie |
+| 338 | 694 | TJ Hire |
+| 339 | 694 | Albany Broadway |
+| 340 | 690 | Slinky Rollpiece |
+| 341 | 689 | Sha45 |
+| 342 | 685 | Jamie Mclean |
+| 343 | 685 | Christine Soltis |
+| 344 | 683 | Zippy Tile |
+| 345 | 680 | Whitney Butler |
 | 346 | 678 | Jenn Leigh |
 | 347 | 676 | Eboni G. |
 | 348 | 675 | Spunky Gridmatch |
@@ -654,12 +654,12 @@
 | 646 | 399 | Cathleena Giusto |
 | 647 | 397 | Allison Ahrndt |
 | 648 | 396 | Pogo 2.0 |
-| 649 | 395 | Toxic Troll |
-| 650 | 394 | Anika Strawberryz Smith |
-| 651 | 393 | Cheeky Dashy |
-| 652 | 393 | Shea Ladynick Henderson |
-| 653 | 393 | Fbai |
-| 654 | 393 | Zesty Balancefit |
+| 649 | 395 | Zesty Balancefit |
+| 650 | 395 | Toxic Troll |
+| 651 | 394 | Shea Ladynick Henderson |
+| 652 | 394 | Anika Strawberryz Smith |
+| 653 | 393 | Cheeky Dashy |
+| 654 | 393 | Fbai |
 | 655 | 393 | Glitzy Blockpiece |
 | 656 | 392 | Jackson Karen |
 | 657 | 389 | Rachael Marie |
@@ -773,13 +773,13 @@
 | 765 | 336 | Danessa Lynn Jenkins |
 | 766 | 335 | Samantha Bagent |
 | 767 | 335 | Frisky Twistslam |
-| 768 | 334 | Ron Marriedtoglo |
-| 769 | 333 | Kelly Amos |
-| 770 | 332 | Ashley Ballou |
-| 771 | 332 | Flashy Tetriblast |
-| 772 | 332 | Brenda Bell |
-| 773 | 332 | sofiiya the forst |
-| 774 | 332 | Bridgett |
+| 768 | 334 | Bridgett |
+| 769 | 334 | Ron Marriedtoglo |
+| 770 | 333 | Kelly Amos |
+| 771 | 332 | Ashley Ballou |
+| 772 | 332 | Flashy Tetriblast |
+| 773 | 332 | Brenda Bell |
+| 774 | 332 | sofiiya the forst |
 | 775 | 332 | Lydia Greenman |
 | 776 | 332 | Chiran Xu |
 | 777 | 331 | Chipper Clicky |
@@ -2249,18 +2249,18 @@
 | 2241 | 66 | Dandy Crasher |
 | 2242 | 66 | Mike Christina McCarty |
 | 2243 | 66 | ace |
-| 2244 | 66 | Jesse L. Bobbitt III |
-| 2245 | 66 | Jake Morris |
-| 2246 | 66 | Tipsy Snapclear |
-| 2247 | 66 | cj53p |
+| 2244 | 66 | MamaJen |
+| 2245 | 66 | Tipsy Snapclear |
+| 2246 | 66 | Jesse L. Bobbitt III |
+| 2247 | 66 | Jake Morris |
 | 2248 | 66 | Falisa Bell |
-| 2249 | 66 | Crafty Clusterline |
-| 2250 | 66 | MamaJen |
-| 2251 | 65 | Epic Fallmatch |
-| 2252 | 65 | Chelsie Shreve |
-| 2253 | 65 | Dork Storkenstein |
+| 2249 | 66 | cj53p |
+| 2250 | 66 | Crafty Clusterline |
+| 2251 | 65 | Esperanza Lyne |
+| 2252 | 65 | Dork Storkenstein |
+| 2253 | 65 | Chelsie Shreve |
 | 2254 | 65 | tilley |
-| 2255 | 65 | Esperanza Lyne |
+| 2255 | 65 | Epic Fallmatch |
 | 2256 | 65 | Hoppy Fallmatch |
 | 2257 | 65 | Cheri Rose |
 | 2258 | 65 | fay |
@@ -2276,20 +2276,20 @@
 | 2268 | 64 | Muffins Hbf |
 | 2269 | 64 | Lenox |
 | 2270 | 64 | Kristine Salinas |
-| 2271 | 64 | Mighty Spinfit |
+| 2271 | 64 | Sammi |
 | 2272 | 64 | Michael Skinner |
-| 2273 | 64 | Pamela Togun |
-| 2274 | 64 | Sammi |
-| 2275 | 64 | Waki Wakinita |
-| 2276 | 64 | Veronica Uribe |
-| 2277 | 64 | Carmen |
-| 2278 | 64 | Zay Stroble |
-| 2279 | 63 | Flashy Blast |
+| 2273 | 64 | Zay Stroble |
+| 2274 | 64 | Waki Wakinita |
+| 2275 | 64 | Veronica Uribe |
+| 2276 | 64 | Carmen |
+| 2277 | 64 | Pamela Togun |
+| 2278 | 64 | Mighty Spinfit |
+| 2279 | 63 | Happy Wiper |
 | 2280 | 63 | Tiny Redbeard |
-| 2281 | 63 | Kaiy |
-| 2282 | 63 | Swanky Frame |
-| 2283 | 63 | Happy Wiper |
-| 2284 | 63 | Elizabeth Strickland |
+| 2281 | 63 | Flashy Blast |
+| 2282 | 63 | Elizabeth Strickland |
+| 2283 | 63 | Swanky Frame |
+| 2284 | 63 | Kaiy |
 | 2285 | 63 | Melissa Courville |
 | 2286 | 63 | Michelle Price-Dye |
 | 2287 | 63 | Natalie Jane |
@@ -2307,37 +2307,37 @@
 | 2299 | 62 | Dreamy Snapzone |
 | 2300 | 62 | Uuinner |
 | 2301 | 62 | Cool Riser |
-| 2302 | 62 | Taimir Colón |
-| 2303 | 62 | Anna Lynch |
-| 2304 | 62 | Chill Matchfit |
-| 2305 | 62 | Zesty Wipeout |
-| 2306 | 62 | Rob Graves |
-| 2307 | 62 | Lobsta |
-| 2308 | 62 | Melissa Manser |
-| 2309 | 61 | Loony Stacky |
-| 2310 | 61 | Corrine Morrow |
-| 2311 | 61 | Twylla |
-| 2312 | 61 | TaraS |
-| 2313 | 61 | Frilly Corner |
-| 2314 | 61 | Dandy Framezone |
-| 2315 | 61 | Hosifa Yasin |
-| 2316 | 61 | Giggly Bridgepiece |
-| 2317 | 61 | Andre Boyce |
-| 2318 | 61 | Cherie Lee Heid |
-| 2319 | 61 | Bubbly Twistline |
-| 2320 | 61 | Wacky Columnbuilder |
-| 2321 | 61 | Jessylynn |
-| 2322 | 60 | Cozy Shatterfit |
-| 2323 | 60 | Billy Paul |
-| 2324 | 60 | Erica Lewis |
-| 2325 | 60 | Shandi Jones |
-| 2326 | 60 | Terrence McClain |
-| 2327 | 60 | Somthin |
-| 2328 | 60 | Michael Misty Crossley |
-| 2329 | 60 | Terry Perez |
-| 2330 | 60 | Swanky Builderpiece |
-| 2331 | 60 | Snappy Rotator |
-| 2332 | 60 | Becky Riggs |
+| 2302 | 62 | Rob Graves |
+| 2303 | 62 | Zesty Wipeout |
+| 2304 | 62 | Melissa Manser |
+| 2305 | 62 | Chill Matchfit |
+| 2306 | 62 | Lobsta |
+| 2307 | 62 | Anna Lynch |
+| 2308 | 62 | Taimir Colón |
+| 2309 | 61 | TaraS |
+| 2310 | 61 | Becky Riggs |
+| 2311 | 61 | Corrine Morrow |
+| 2312 | 61 | Dandy Framezone |
+| 2313 | 61 | Loony Stacky |
+| 2314 | 61 | Twylla |
+| 2315 | 61 | Frilly Corner |
+| 2316 | 61 | Hosifa Yasin |
+| 2317 | 61 | Giggly Bridgepiece |
+| 2318 | 61 | Andre Boyce |
+| 2319 | 61 | Cherie Lee Heid |
+| 2320 | 61 | Bubbly Twistline |
+| 2321 | 61 | Wacky Columnbuilder |
+| 2322 | 61 | Jessylynn |
+| 2323 | 60 | Cozy Shatterfit |
+| 2324 | 60 | Billy Paul |
+| 2325 | 60 | Erica Lewis |
+| 2326 | 60 | Shandi Jones |
+| 2327 | 60 | Terrence McClain |
+| 2328 | 60 | Somthin |
+| 2329 | 60 | Michael Misty Crossley |
+| 2330 | 60 | Terry Perez |
+| 2331 | 60 | Swanky Builderpiece |
+| 2332 | 60 | Snappy Rotator |
 | 2333 | 60 | red |
 | 2334 | 60 | Jasmine Keith |
 | 2335 | 60 | Kristen Renee |
