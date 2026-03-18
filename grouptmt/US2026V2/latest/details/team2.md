@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 07:14:46 UTC
+# Standings for team2 as of 2026-03-18 07:15:24 UTC
 
 **Total Participants:** 3269
 
@@ -440,10 +440,10 @@
 | 432 | 512 | SterlingTeri |
 | 433 | 511 | Lucy Honer |
 | 434 | 509 | Christine Soltis |
-| 435 | 509 | Sammy |
-| 436 | 509 | Jen Kanakry Faria |
-| 437 | 508 | Tina Cano |
-| 438 | 508 | Randy Jansen |
+| 435 | 509 | Randy Jansen |
+| 436 | 509 | Sammy |
+| 437 | 509 | Jen Kanakry Faria |
+| 438 | 508 | Tina Cano |
 | 439 | 508 | Phredda Compton |
 | 440 | 506 | Slippery Clam |
 | 441 | 506 | Ashley Danielle |
