@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 17:54:44 UTC
+# Standings for team2 as of 2026-03-18 17:55:24 UTC
 
 **Total Participants:** 3371
 
@@ -168,8 +168,8 @@
 | 160 | 1250 | Ramone Armstrong |
 | 161 | 1249 | Lisa Neal |
 | 162 | 1247 | Dandy Crasher |
-| 163 | 1229 | Marvin Lou Martin |
-| 164 | 1217 | MyMahdi Estrada |
+| 163 | 1237 | MyMahdi Estrada |
+| 164 | 1229 | Marvin Lou Martin |
 | 165 | 1193 | Sheena Hachmann |
 | 166 | 1179 | Liana Spikes |
 | 167 | 1177 | Antoinette Griffin |
@@ -198,11 +198,11 @@
 | 190 | 1104 | Smags |
 | 191 | 1096 | Jesse Olive |
 | 192 | 1093 | Danielle Weikel |
-| 193 | 1088 | BluBae |
-| 194 | 1081 | Mary Reeves |
-| 195 | 1080 | Arnae Draughon |
-| 196 | 1077 | Giggity boots |
-| 197 | 1071 | Epic Liner |
+| 193 | 1090 | Epic Liner |
+| 194 | 1088 | BluBae |
+| 195 | 1081 | Mary Reeves |
+| 196 | 1080 | Arnae Draughon |
+| 197 | 1077 | Giggity boots |
 | 198 | 1070 | Amanda Segura |
 | 199 | 1064 | Sheena Herskovic |
 | 200 | 1060 | Jazzy Hitter |
@@ -212,16 +212,16 @@
 | 204 | 1044 | illegal impulse |
 | 205 | 1038 | Ariel Pearson |
 | 206 | 1036 | Scott Treadway |
-| 207 | 1034 | Smiley Shatter |
-| 208 | 1034 | Michelle |
+| 207 | 1034 | Michelle |
+| 208 | 1034 | Smiley Shatter |
 | 209 | 1017 | Kasheba Y Bowens |
 | 210 | 1015 | Breeana Bennett |
 | 211 | 1002 | John Matson |
 | 212 | 1000 | James Hurley Jr. |
 | 213 | 994 | Jason Gibbs |
 | 214 | 991 | Elaine Webb Graves |
-| 215 | 985 | CharalaAnn |
-| 216 | 985 | Sarah Fehring |
+| 215 | 985 | Sarah Fehring |
+| 216 | 985 | CharalaAnn |
 | 217 | 980 | Mandi Mayweather |
 | 218 | 978 | Zesty Link |
 | 219 | 976 | Tess Shaheen |
@@ -289,9 +289,9 @@
 | 281 | 806 | Trista Duguay |
 | 282 | 800 | Mike Carden |
 | 283 | 799 | Dineisha Carpenter |
-| 284 | 797 | Tausha Colella |
+| 284 | 797 | Angela Bonquiqui Dinish |
 | 285 | 797 | Christopher Jam |
-| 286 | 797 | Angela Bonquiqui Dinish |
+| 286 | 797 | Tausha Colella |
 | 287 | 794 | Tammi Crnza |
 | 288 | 791 | Jessica Miles |
 | 289 | 786 | Destiny Brady |
@@ -302,8 +302,8 @@
 | 294 | 780 | Marc Abney |
 | 295 | 779 | Jasmine Kenney |
 | 296 | 779 | Yo Momma |
-| 297 | 778 | MauaStorm |
-| 298 | 778 | Tommy Proctor |
+| 297 | 778 | Tommy Proctor |
+| 298 | 778 | MauaStorm |
 | 299 | 777 | Zack Theisen |
 | 300 | 772 | 🍏 Green apple |
 | 301 | 770 | Sandy Aragon |
@@ -475,7 +475,7 @@
 | 467 | 515 | infinimom |
 | 468 | 515 | Shiny Gridmatch |
 | 469 | 513 | squareMel |
-| 470 | 512 | Kelly Elizabeth Clark |
+| 470 | 513 | Kelly Elizabeth Clark |
 | 471 | 511 | Smitters |
 | 472 | 510 | Lazy Twistline |
 | 473 | 510 | Angela Mindiola |
@@ -658,12 +658,12 @@
 | 650 | 386 | Rileyy Rocket |
 | 651 | 385 | Zippy Zoney |
 | 652 | 385 | JoJo |
-| 653 | 382 | kitykat |
-| 654 | 382 | Joshua Madinger |
-| 655 | 382 | Kelly Mcdaniel |
-| 656 | 382 | Amanda Martinez |
-| 657 | 381 | Aimee Byrom |
-| 658 | 381 | Spunky Balancefit |
+| 653 | 384 | Spunky Balancefit |
+| 654 | 382 | kitykat |
+| 655 | 382 | Joshua Madinger |
+| 656 | 382 | Kelly Mcdaniel |
+| 657 | 382 | Amanda Martinez |
+| 658 | 381 | Aimee Byrom |
 | 659 | 380 | Lucas J Sutton |
 | 660 | 379 | Amy Yearta |
 | 661 | 378 | Confused Kitty |
@@ -2293,64 +2293,64 @@
 | 2285 | 61 | Giggly Bridgepiece |
 | 2286 | 61 | Smiley Shuffler |
 | 2287 | 61 | Cherie Lee Heid |
-| 2288 | 60 | Michael Misty Crossley |
+| 2288 | 60 | Erica Lewis |
 | 2289 | 60 | Billy Paul |
-| 2290 | 60 | Cozy Shatterfit |
-| 2291 | 60 | Terrence McClain |
-| 2292 | 60 | Shandi Jones |
-| 2293 | 60 | Somthin |
-| 2294 | 60 | Terry Perez |
-| 2295 | 60 | Christine Martin |
-| 2296 | 60 | Roxana Alvarado |
-| 2297 | 60 | red |
-| 2298 | 60 | B1tch |
-| 2299 | 60 | iamjustgaming |
-| 2300 | 60 | Alejandrina Ayala Villa |
-| 2301 | 60 | Kristen Renee |
-| 2302 | 60 | Jasmine Keith |
-| 2303 | 60 | Basil |
-| 2304 | 60 | Dizzy Dash |
-| 2305 | 60 | Snappy Rotator |
-| 2306 | 59 | Darr Darr |
-| 2307 | 59 | Jb |
-| 2308 | 59 | FoxesPrey |
-| 2309 | 59 | Zany Clicker |
-| 2310 | 59 | Dre Diehl |
-| 2311 | 59 | Wacky Columnbuilder |
-| 2312 | 59 | Odessa Scott |
-| 2313 | 59 | Scott Betson |
-| 2314 | 59 | Aleea Six |
-| 2315 | 58 | Joshua |
-| 2316 | 58 | Jillane Barbee |
-| 2317 | 58 | Bigg Kee |
-| 2318 | 58 | Alayna Guzman |
-| 2319 | 58 | Bryan De Guzman |
-| 2320 | 58 | Jaime Ore Norcross |
-| 2321 | 58 | Marty Bittner |
-| 2322 | 58 | tee |
-| 2323 | 58 | Justin Freeman |
-| 2324 | 58 | Corrine Morrow |
-| 2325 | 58 | Poegostick |
-| 2326 | 58 | Cheeky Cascadepiece |
-| 2327 | 58 | Nerdy Glidebuilder |
-| 2328 | 58 | Blockboi Hess |
-| 2329 | 57 | Sunny Basegrid |
-| 2330 | 57 | Tristen Haddock |
-| 2331 | 57 | Ericka Missingmybrother Watson |
-| 2332 | 57 | Elaina Marie Decesare |
-| 2333 | 57 | StephyCue |
+| 2290 | 60 | Terry Perez |
+| 2291 | 60 | Michael Misty Crossley |
+| 2292 | 60 | Cozy Shatterfit |
+| 2293 | 60 | Terrence McClain |
+| 2294 | 60 | Shandi Jones |
+| 2295 | 60 | Somthin |
+| 2296 | 60 | Christine Martin |
+| 2297 | 60 | Roxana Alvarado |
+| 2298 | 60 | red |
+| 2299 | 60 | B1tch |
+| 2300 | 60 | iamjustgaming |
+| 2301 | 60 | Alejandrina Ayala Villa |
+| 2302 | 60 | Kristen Renee |
+| 2303 | 60 | Jasmine Keith |
+| 2304 | 60 | Basil |
+| 2305 | 60 | Dizzy Dash |
+| 2306 | 60 | Snappy Rotator |
+| 2307 | 59 | Darr Darr |
+| 2308 | 59 | Jb |
+| 2309 | 59 | FoxesPrey |
+| 2310 | 59 | Zany Clicker |
+| 2311 | 59 | Dre Diehl |
+| 2312 | 59 | Wacky Columnbuilder |
+| 2313 | 59 | Aleea Six |
+| 2314 | 59 | Odessa Scott |
+| 2315 | 59 | Scott Betson |
+| 2316 | 58 | tee |
+| 2317 | 58 | Jaime Ore Norcross |
+| 2318 | 58 | Joshua |
+| 2319 | 58 | Jillane Barbee |
+| 2320 | 58 | Bigg Kee |
+| 2321 | 58 | Bryan De Guzman |
+| 2322 | 58 | Marty Bittner |
+| 2323 | 58 | Alayna Guzman |
+| 2324 | 58 | Justin Freeman |
+| 2325 | 58 | Corrine Morrow |
+| 2326 | 58 | Poegostick |
+| 2327 | 58 | Cheeky Cascadepiece |
+| 2328 | 58 | Nerdy Glidebuilder |
+| 2329 | 58 | Blockboi Hess |
+| 2330 | 57 | Sunny Basegrid |
+| 2331 | 57 | Tristen Haddock |
+| 2332 | 57 | Ericka Missingmybrother Watson |
+| 2333 | 57 | Elaina Marie Decesare |
 | 2334 | 57 | Brave Rotator |
-| 2335 | 57 | Kaila Robinson |
-| 2336 | 57 | Nerdy Clear |
-| 2337 | 57 | xxlonixx |
-| 2338 | 57 | pTarah |
-| 2339 | 57 | Erica Lewis |
+| 2335 | 57 | pTarah |
+| 2336 | 57 | xxlonixx |
+| 2337 | 57 | Nerdy Clear |
+| 2338 | 57 | Kaila Robinson |
+| 2339 | 57 | StephyCue |
 | 2340 | 56 | Loony Cascade |
-| 2341 | 56 | Kendra Hahn |
-| 2342 | 56 | Genius |
-| 2343 | 56 | Lashes |
-| 2344 | 56 | Jennifer Adair |
-| 2345 | 56 | Sudaien |
+| 2341 | 56 | Genius |
+| 2342 | 56 | Lashes |
+| 2343 | 56 | Kendra Hahn |
+| 2344 | 56 | Sudaien |
+| 2345 | 56 | Jennifer Adair |
 | 2346 | 56 | Ashley Jaques |
 | 2347 | 56 | Han Jisung |
 | 2348 | 56 | Leslie Wood |
