@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 11:15:22 UTC
+# Standings for team2 as of 2026-03-18 11:16:21 UTC
 
 **Total Participants:** 3292
 
@@ -95,9 +95,9 @@
 | 87 | 2010 | Carlos Torres |
 | 88 | 2008 | Anna Faulkner |
 | 89 | 2000 | Julie Renee Long |
-| 90 | 1953 | Erica Davis |
-| 91 | 1940 | Jayme Hamil |
-| 92 | 1927 | Pikake Medeiros |
+| 90 | 1992 | Pikake Medeiros |
+| 91 | 1953 | Erica Davis |
+| 92 | 1940 | Jayme Hamil |
 | 93 | 1913 | Peachy Matchgrid |
 | 94 | 1862 | Richard Butler |
 | 95 | 1814 | Jumpy Smasher |
@@ -392,7 +392,7 @@
 | 384 | 582 | Tra Barnum |
 | 385 | 580 | Halstead47K |
 | 386 | 580 | CSOTYS |
-| 387 | 577 | Yoyareese |
+| 387 | 579 | Yoyareese |
 | 388 | 576 | Yloponom Gamez |
 | 389 | 572 | Lizzie Marie |
 | 390 | 572 | Maureen Winter |
@@ -516,16 +516,16 @@
 | 508 | 455 | Elizabeth Diraffaele |
 | 509 | 455 | titrissss |
 | 510 | 450 | Quirky Matchfit |
-| 511 | 450 | NDPeanut |
-| 512 | 448 | Dreamy Snapbuilder |
-| 513 | 447 | Ess |
-| 514 | 447 | Cynthia Prouse |
-| 515 | 447 | Starr |
-| 516 | 447 | Lawan Dixon |
-| 517 | 446 | Rachel Anne |
-| 518 | 445 | Brenda Lee Vander Molen |
-| 519 | 444 | Mike Davis |
-| 520 | 444 | Alexandria Shannon |
+| 511 | 450 | Alexandria Shannon |
+| 512 | 450 | NDPeanut |
+| 513 | 448 | Dreamy Snapbuilder |
+| 514 | 447 | Ess |
+| 515 | 447 | Cynthia Prouse |
+| 516 | 447 | Starr |
+| 517 | 447 | Lawan Dixon |
+| 518 | 446 | Rachel Anne |
+| 519 | 445 | Brenda Lee Vander Molen |
+| 520 | 444 | Mike Davis |
 | 521 | 444 | Jeremy Null |
 | 522 | 443 | Lora |
 | 523 | 443 | Brady Riessen |
@@ -655,24 +655,24 @@
 | 647 | 358 | Carla Roberson |
 | 648 | 358 | Chill Builder |
 | 649 | 358 | Scarlet Dusosky |
-| 650 | 357 | Robert Benjamin |
-| 651 | 357 | Smitters |
-| 652 | 356 | Melissa Boldt |
-| 653 | 355 | 00022Denny |
-| 654 | 355 | Jackson Karen |
-| 655 | 355 | Nerdy Clearer |
-| 656 | 355 | ANIM3KNIGHT |
-| 657 | 354 | Alice Greene |
-| 658 | 354 | Sam Hall |
-| 659 | 354 | Jenn |
-| 660 | 354 | Ashley Jayne Phillips |
-| 661 | 354 | Vanessa Nguyen |
-| 662 | 353 | Roberta Nelson |
-| 663 | 353 | Γωγώ Τσιρόγκα |
-| 664 | 353 | Mighty Zone |
-| 665 | 352 | Nutty Snapper |
-| 666 | 352 | Marisa-Jamie Anderson |
-| 667 | 351 | SportyRabbit51 |
+| 650 | 357 | SportyRabbit51 |
+| 651 | 357 | Robert Benjamin |
+| 652 | 357 | Smitters |
+| 653 | 356 | Melissa Boldt |
+| 654 | 355 | 00022Denny |
+| 655 | 355 | Jackson Karen |
+| 656 | 355 | Nerdy Clearer |
+| 657 | 355 | ANIM3KNIGHT |
+| 658 | 354 | Alice Greene |
+| 659 | 354 | Sam Hall |
+| 660 | 354 | Jenn |
+| 661 | 354 | Ashley Jayne Phillips |
+| 662 | 354 | Vanessa Nguyen |
+| 663 | 353 | Roberta Nelson |
+| 664 | 353 | Γωγώ Τσιρόγκα |
+| 665 | 353 | Mighty Zone |
+| 666 | 352 | Nutty Snapper |
+| 667 | 352 | Marisa-Jamie Anderson |
 | 668 | 351 | Libby |
 | 669 | 350 | olympichero |
 | 670 | 350 | Quitito1014 |
@@ -816,8 +816,8 @@
 | 808 | 291 | Natasha |
 | 809 | 291 | エリカ エンフバヤル |
 | 810 | 291 | Terrie Swift |
-| 811 | 291 | Tifatot |
-| 812 | 291 | Cari Barnes |
+| 811 | 291 | Cari Barnes |
+| 812 | 291 | Tifatot |
 | 813 | 290 | Adrian Ribellia |
 | 814 | 290 | Paula Marcus Delsigne |
 | 815 | 290 | AarshiyasMommy |
@@ -855,8 +855,8 @@
 | 847 | 279 | Bryanna Whitman |
 | 848 | 278 | Tatiana Rae Robinson |
 | 849 | 276 | Tiffany Banks Jennings |
-| 850 | 276 | Clever Tiltbuilder |
-| 851 | 276 | Zesty Edgefit |
+| 850 | 276 | Zesty Edgefit |
+| 851 | 276 | Clever Tiltbuilder |
 | 852 | 275 | Greg Shekailo |
 | 853 | 275 | John De Guzman Sydiongco |
 | 854 | 275 | Frothy Chiseler |
@@ -953,8 +953,8 @@
 | 945 | 244 | Kourtney Zarback |
 | 946 | 243 | Teresa Longwell |
 | 947 | 243 | Aaron Dill |
-| 948 | 243 | Chris |
-| 949 | 243 | Nancy Lovelle Carlisle |
+| 948 | 243 | Nancy Lovelle Carlisle |
+| 949 | 243 | Chris |
 | 950 | 242 | Happy Columnbuilder |
 | 951 | 241 | Blockyboyyy |
 | 952 | 241 | Esme |
@@ -1162,8 +1162,8 @@
 | 1154 | 198 | Joni Walczak |
 | 1155 | 198 | Brave Fallzone |
 | 1156 | 198 | Bleu Grubb |
-| 1157 | 198 | Mitch Mitchell |
-| 1158 | 198 | Chlo |
+| 1157 | 198 | Chlo |
+| 1158 | 198 | Mitch Mitchell |
 | 1159 | 197 | Slinky Align |
 | 1160 | 197 | BEANS |
 | 1161 | 197 | Steph Otruba |
@@ -1194,8 +1194,8 @@
 | 1186 | 190 | Julie Elizabeth |
 | 1187 | 190 | Jelani Blackford |
 | 1188 | 190 | Jo NewmindNewfocus Bell |
-| 1189 | 190 | Kate |
-| 1190 | 190 | Swanky Dashgrid |
+| 1189 | 190 | Swanky Dashgrid |
+| 1190 | 190 | Kate |
 | 1191 | 189 | Tina Eggert |
 | 1192 | 189 | GBR |
 | 1193 | 189 | Kiisha |
@@ -1242,8 +1242,8 @@
 | 1234 | 180 | Cheery Riserpiece |
 | 1235 | 180 | Jeremiah Mell |
 | 1236 | 180 | Beth Maxwell |
-| 1237 | 180 | Dickie Rice |
-| 1238 | 180 | yammin |
+| 1237 | 180 | yammin |
+| 1238 | 180 | Dickie Rice |
 | 1239 | 179 | Lush Matchgrid |
 | 1240 | 179 | Amykins |
 | 1241 | 179 | Dawn Joub |
@@ -1311,8 +1311,8 @@
 | 1303 | 170 | Yasmin Veliz |
 | 1304 | 170 | Marsha Tyler |
 | 1305 | 170 | Pete Stacknick |
-| 1306 | 169 | Monica Martinez |
-| 1307 | 169 | Spectikl Mchapp |
+| 1306 | 169 | Spectikl Mchapp |
+| 1307 | 169 | Monica Martinez |
 | 1308 | 169 | Chasity Winters |
 | 1309 | 169 | Burnita Heard |
 | 1310 | 169 | Brian Wangler |
@@ -1338,9 +1338,9 @@
 | 1330 | 164 | Trish Newell |
 | 1331 | 164 | Kimberly Ryan |
 | 1332 | 164 | Brandi Fuller Cason |
-| 1333 | 164 | Jess |
-| 1334 | 164 | AChaneys |
-| 1335 | 164 | Jessica Lane |
+| 1333 | 164 | AChaneys |
+| 1334 | 164 | Jessica Lane |
+| 1335 | 164 | Jess |
 | 1336 | 163 | Ivan Burgess |
 | 1337 | 162 | Amy Villalpando |
 | 1338 | 162 | Erika Vause |
@@ -1358,8 +1358,8 @@
 | 1350 | 160 | Kaagyugaq Jessica |
 | 1351 | 160 | Sabrina Cearley |
 | 1352 | 160 | Caden Reinhardt |
-| 1353 | 160 | Bindi |
-| 1354 | 160 | Cheryl Eisiliones |
+| 1353 | 160 | Cheryl Eisiliones |
+| 1354 | 160 | Bindi |
 | 1355 | 159 | Cara Rena Hurst |
 | 1356 | 159 | Amanda King |
 | 1357 | 159 | Branden Morris |
@@ -1391,10 +1391,10 @@
 | 1383 | 153 | Brooklyn DeLong |
 | 1384 | 153 | Brittney Marie Wyrick |
 | 1385 | 153 | Kathleen Morgan |
-| 1386 | 153 | Michael Hissong |
-| 1387 | 153 | Nathen Ro Tron |
-| 1388 | 153 | MxPenguin |
-| 1389 | 153 | Patrycja Włodarczyk |
+| 1386 | 153 | MxPenguin |
+| 1387 | 153 | Patrycja Włodarczyk |
+| 1388 | 153 | Nathen Ro Tron |
+| 1389 | 153 | Michael Hissong |
 | 1390 | 152 | Star Hart |
 | 1391 | 152 | Summer_time |
 | 1392 | 152 | 1MadCat |
@@ -3079,9 +3079,9 @@
 | 3071 | 13 | Martin Sanchez |
 | 3072 | 13 | Philip Andrew Alvarez |
 | 3073 | 13 | Poppa Drew |
-| 3074 | 12 | Alisha Bartholomew |
-| 3075 | 12 | Happy Builderline |
-| 3076 | 12 | Swanky Snapmatch |
+| 3074 | 13 | Swanky Snapmatch |
+| 3075 | 12 | Alisha Bartholomew |
+| 3076 | 12 | Happy Builderline |
 | 3077 | 12 | Frothy Zonegrid |
 | 3078 | 12 | Sheena Marie Murphy |
 | 3079 | 12 | Johnny Saiz |
