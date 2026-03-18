@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 22:02:46 UTC
+# Standings for team1 as of 2026-03-18 22:03:25 UTC
 
 **Total Participants:** 3385
 
@@ -18,7 +18,7 @@
 | 10 | 13596 | Grace Kelly |
 | 11 | 11500 | Jessica Sheehan |
 | 12 | 11471 | Dizzy Stagger |
-| 13 | 10419 | Amy Jerman |
+| 13 | 10441 | Amy Jerman |
 | 14 | 10370 | Katie Daniels |
 | 15 | 9728 | Robert Jansen |
 | 16 | 9539 | Angel Smith |
@@ -217,27 +217,27 @@
 | 209 | 1138 | Althea Louise |
 | 210 | 1136 | Snippy Stacky |
 | 211 | 1131 | Crafty Dash |
-| 212 | 1131 | Marie Helman |
-| 213 | 1131 | Tisha Cammack |
+| 212 | 1131 | Tisha Cammack |
+| 213 | 1131 | Marie Helman |
 | 214 | 1123 | Kris Koepke |
 | 215 | 1119 | April Carroll |
 | 216 | 1116 | Gigglelymomof2 |
 | 217 | 1115 | Michael Zates |
-| 218 | 1104 | Hasty Cascader |
-| 219 | 1104 | Haley Anne |
+| 218 | 1104 | Haley Anne |
+| 219 | 1104 | Hasty Cascader |
 | 220 | 1102 | Andy Harris |
 | 221 | 1101 | Alicia Parrish |
 | 222 | 1098 | Lil'A |
-| 223 | 1098 | Tina Blessed Cage |
-| 224 | 1098 | Michael Powers |
+| 223 | 1098 | Michael Powers |
+| 224 | 1098 | Tina Blessed Cage |
 | 225 | 1098 | nameno |
 | 226 | 1095 | Marianne Louise West |
 | 227 | 1089 | Irene Medina |
 | 228 | 1089 | Perky Shatterline |
 | 229 | 1083 | Thorpedo |
 | 230 | 1071 | Shiny Patternblock |
-| 231 | 1070 | Melody Quinn |
-| 232 | 1070 | Dizzy Pattern |
+| 231 | 1070 | Dizzy Pattern |
+| 232 | 1070 | Melody Quinn |
 | 233 | 1069 | StankyP |
 | 234 | 1066 | Tyle Armstead |
 | 235 | 1054 | Shawn Kelso |
@@ -247,19 +247,19 @@
 | 239 | 1038 | Giggly Brickroll |
 | 240 | 1033 | Loony Towerpiece |
 | 241 | 1031 | Bubbly Staggerpiece |
-| 242 | 1021 | Al Smith Jr |
-| 243 | 1018 | Jaime Barrett Nelson |
-| 244 | 1016 | Ramona Gulledge |
-| 245 | 1015 | Mighty Patternbuilder |
-| 246 | 1013 | Jumpy Spinblock |
-| 247 | 1002 | Beth Anderson |
-| 248 | 1001 | TRCuse |
-| 249 | 998 | 🗝️🗝️ Key |
-| 250 | 990 | Kehlyn King |
-| 251 | 990 | Noah |
-| 252 | 989 | Donavon Krahn |
-| 253 | 988 | Diamond Madison |
-| 254 | 981 | TetrisWoo |
+| 242 | 1027 | TetrisWoo |
+| 243 | 1021 | Al Smith Jr |
+| 244 | 1018 | Jaime Barrett Nelson |
+| 245 | 1016 | Ramona Gulledge |
+| 246 | 1015 | Mighty Patternbuilder |
+| 247 | 1013 | Jumpy Spinblock |
+| 248 | 1002 | Beth Anderson |
+| 249 | 1001 | TRCuse |
+| 250 | 998 | 🗝️🗝️ Key |
+| 251 | 990 | Kehlyn King |
+| 252 | 990 | Noah |
+| 253 | 989 | Donavon Krahn |
+| 254 | 988 | Diamond Madison |
 | 255 | 980 | Josh L Swyers Sr. |
 | 256 | 970 | Hut Des |
 | 257 | 960 | SitHazy |
@@ -300,11 +300,11 @@
 | 292 | 870 | Sallie Sanborn |
 | 293 | 866 | Flashy Rotator |
 | 294 | 866 | Simmone T. Kadiri |
-| 295 | 865 | Rebecca Martin |
-| 296 | 859 | Mary Cerciello |
-| 297 | 857 | Brittney Groler |
-| 298 | 856 | Dustin Rouse |
-| 299 | 856 | Jason Cunningham |
+| 295 | 865 | Jason Cunningham |
+| 296 | 865 | Rebecca Martin |
+| 297 | 859 | Mary Cerciello |
+| 298 | 857 | Brittney Groler |
+| 299 | 856 | Dustin Rouse |
 | 300 | 855 | Cesar Morelos |
 | 301 | 854 | Chris Alexinas |
 | 302 | 853 | Kat Mfm Kaul |
