@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 09:59:23 UTC
+# Standings for team2 as of 2026-03-18 10:00:22 UTC
 
 **Total Participants:** 3286
 
@@ -499,33 +499,33 @@
 | 491 | 463 | Layle Miranda Madsen |
 | 492 | 462 | Anthony Magaraci |
 | 493 | 462 | Alexx Anaya |
-| 494 | 460 | Glitzy Dash |
-| 495 | 460 | SassyCarebear |
-| 496 | 460 | Shelly Marie Lloyd |
-| 497 | 460 | GirlMom5 |
-| 498 | 457 | LeNae TwoBarbie McEachin |
-| 499 | 457 | Kelly Elizabeth Clark |
-| 500 | 457 | Martinez Jacobo |
-| 501 | 457 | S7ephavs |
-| 502 | 456 | Tipsy Clearbuilder |
-| 503 | 456 | Heather Stratos |
-| 504 | 455 | Elizabeth Diraffaele |
+| 494 | 462 | Alisha Shelton |
+| 495 | 460 | Glitzy Dash |
+| 496 | 460 | SassyCarebear |
+| 497 | 460 | Shelly Marie Lloyd |
+| 498 | 460 | GirlMom5 |
+| 499 | 457 | LeNae TwoBarbie McEachin |
+| 500 | 457 | Kelly Elizabeth Clark |
+| 501 | 457 | Martinez Jacobo |
+| 502 | 457 | S7ephavs |
+| 503 | 456 | Tipsy Clearbuilder |
+| 504 | 456 | Heather Stratos |
 | 505 | 455 | titrissss |
-| 506 | 453 | Alisha Shelton |
+| 506 | 455 | Elizabeth Diraffaele |
 | 507 | 450 | NDPeanut |
 | 508 | 450 | Quirky Matchfit |
 | 509 | 448 | Dreamy Snapbuilder |
-| 510 | 447 | Starr |
+| 510 | 447 | Lawan Dixon |
 | 511 | 447 | Cynthia Prouse |
 | 512 | 447 | Nikki Speer |
-| 513 | 447 | Ess |
-| 514 | 447 | Lawan Dixon |
+| 513 | 447 | Starr |
+| 514 | 447 | Ess |
 | 515 | 446 | Denise |
 | 516 | 446 | Rachel Anne |
 | 517 | 445 | Brenda Lee Vander Molen |
 | 518 | 444 | Mike Davis |
-| 519 | 444 | Jeremy Null |
-| 520 | 444 | Alexandria Shannon |
+| 519 | 444 | Alexandria Shannon |
+| 520 | 444 | Jeremy Null |
 | 521 | 443 | Lora |
 | 522 | 443 | Brady Riessen |
 | 523 | 442 | Slinky Rollpiece |
@@ -679,24 +679,24 @@
 | 671 | 347 | Chris Leasure |
 | 672 | 346 | Lucretia Candy Ross |
 | 673 | 345 | Kathy Allen |
-| 674 | 344 | Wacky Brickclear |
-| 675 | 344 | Spunky Snapfit |
-| 676 | 344 | Bouncy Piececlear |
-| 677 | 343 | Luna |
-| 678 | 342 | Tammie Anderson |
-| 679 | 342 | Truesuperwoman |
-| 680 | 341 | Dally Hunt |
-| 681 | 341 | Kevin Blevins |
-| 682 | 341 | Arisvet Garcia |
-| 683 | 340 | Mike Hromowyk |
-| 684 | 340 | Tony Hooker |
-| 685 | 340 | Chill Builder |
-| 686 | 340 | LaQuetta Faith Hines |
-| 687 | 340 | bigdad |
-| 688 | 339 | Loony Puzzle |
-| 689 | 339 | ImmortelT |
-| 690 | 339 | Γωγώ Τσιρόγκα |
-| 691 | 339 | Christopher Lee Martinez |
+| 674 | 345 | Christopher Lee Martinez |
+| 675 | 344 | Wacky Brickclear |
+| 676 | 344 | Spunky Snapfit |
+| 677 | 344 | Bouncy Piececlear |
+| 678 | 343 | Luna |
+| 679 | 342 | Tammie Anderson |
+| 680 | 342 | Truesuperwoman |
+| 681 | 341 | Dally Hunt |
+| 682 | 341 | Kevin Blevins |
+| 683 | 341 | Arisvet Garcia |
+| 684 | 340 | Mike Hromowyk |
+| 685 | 340 | Tony Hooker |
+| 686 | 340 | Chill Builder |
+| 687 | 340 | LaQuetta Faith Hines |
+| 688 | 340 | bigdad |
+| 689 | 339 | Loony Puzzle |
+| 690 | 339 | ImmortelT |
+| 691 | 339 | Γωγώ Τσιρόγκα |
 | 692 | 338 | Gi Na |
 | 693 | 338 | James Ramirez |
 | 694 | 338 | JamMY-YamMy |
