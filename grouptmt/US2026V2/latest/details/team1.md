@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 04:50:48 UTC
+# Standings for team1 as of 2026-03-18 04:51:23 UTC
 
 **Total Participants:** 3198
 
@@ -25,7 +25,7 @@
 | 17 | 7550 | Angel Smith |
 | 18 | 7184 | Marianne Elizabeth Mills |
 | 19 | 7158 | Hyper Blocky |
-| 20 | 6700 | Jessica Sheehan |
+| 20 | 7100 | Jessica Sheehan |
 | 21 | 6613 | Spicy Buildsnap |
 | 22 | 6494 | butterface |
 | 23 | 6371 | Vistabrat |
@@ -120,10 +120,10 @@
 | 112 | 1786 | Dom The Great |
 | 113 | 1764 | Walker Patterson |
 | 114 | 1756 | 1_Roxanne_3 |
-| 115 | 1742 | Kesha Brady |
-| 116 | 1733 | Dish19 |
-| 117 | 1728 | Sarah Perry Cook |
-| 118 | 1711 | Justin Jerome |
+| 115 | 1754 | Justin Jerome |
+| 116 | 1742 | Kesha Brady |
+| 117 | 1733 | Dish19 |
+| 118 | 1728 | Sarah Perry Cook |
 | 119 | 1707 | Witty Wipegrid |
 | 120 | 1704 | Tom |
 | 121 | 1690 | Gloria Ininahazwe |
@@ -1804,11 +1804,11 @@
 | 1796 | 94 | Silly Crawler |
 | 1797 | 94 | m.taha |
 | 1798 | 94 | Bumpy Morris |
-| 1799 | 94 | Tracey Wilson |
-| 1800 | 94 | Cool Dasher |
+| 1799 | 94 | Cool Dasher |
+| 1800 | 94 | Tracey Wilson |
 | 1801 | 94 | Dreamy Staggerpiece |
-| 1802 | 93 | 805 |
-| 1803 | 93 | Tabby |
+| 1802 | 93 | Tabby |
+| 1803 | 93 | 805 |
 | 1804 | 93 | DirtyJoe |
 | 1805 | 93 | Michael Anthony |
 | 1806 | 93 | Camille Winzalevitch |
@@ -1822,30 +1822,30 @@
 | 1814 | 92 | Richi Ricardo Anderson |
 | 1815 | 92 | Hyper Drop |
 | 1816 | 92 | Luna |
-| 1817 | 91 | Texas Sass |
-| 1818 | 91 | Bouncy Catcher |
-| 1819 | 91 | Poppy Snapbuild |
-| 1820 | 91 | Dale |
-| 1821 | 91 | Bradley Geiter |
-| 1822 | 91 | Mike Zec II |
-| 1823 | 91 | Becky Sell |
-| 1824 | 91 | Cozy Clearpiece |
-| 1825 | 91 | al |
+| 1817 | 91 | Poppy Snapbuild |
+| 1818 | 91 | Dale |
+| 1819 | 91 | Texas Sass |
+| 1820 | 91 | Bradley Geiter |
+| 1821 | 91 | Mike Zec II |
+| 1822 | 91 | Becky Sell |
+| 1823 | 91 | Cozy Clearpiece |
+| 1824 | 91 | al |
+| 1825 | 91 | Bouncy Catcher |
 | 1826 | 91 | Jen Sartain |
 | 1827 | 91 | Lisa Franks |
-| 1828 | 91 | Penny Clark |
-| 1829 | 91 | Cheryl Villa |
+| 1828 | 91 | Cheryl Villa |
+| 1829 | 91 | Penny Clark |
 | 1830 | 90 | Vivian Cobb |
 | 1831 | 90 | Shawn Septer |
 | 1832 | 90 | Breezy Tilebuilder |
 | 1833 | 90 | MetalBrickLayer |
 | 1834 | 90 | Zesty Piececlear |
 | 1835 | 90 | Witty Shatterline |
-| 1836 | 90 | Frisky Climber |
-| 1837 | 90 | Crafty Twistslam |
-| 1838 | 90 | ChaosNCatHair |
+| 1836 | 90 | Crafty Twistslam |
+| 1837 | 90 | ChaosNCatHair |
+| 1838 | 90 | Brad Shelton |
 | 1839 | 90 | Ronald D. Beatty |
-| 1840 | 90 | Brad Shelton |
+| 1840 | 90 | Frisky Climber |
 | 1841 | 90 | BIGOONS |
 | 1842 | 90 | Vickie Valdez-Lopez |
 | 1843 | 90 | Brad Werner |
@@ -1873,8 +1873,8 @@
 | 1865 | 87 | Frank Smith |
 | 1866 | 87 | Ashley Espeut |
 | 1867 | 86 | Michael Hain |
-| 1868 | 86 | Itn |
-| 1869 | 86 | KingSteve |
+| 1868 | 86 | KingSteve |
+| 1869 | 86 | Itn |
 | 1870 | 86 | Wacky Brickster |
 | 1871 | 86 | Kelly Ann |
 | 1872 | 86 | Richard Brady |
@@ -1886,10 +1886,10 @@
 | 1878 | 85 | Sam |
 | 1879 | 85 | Mo Mulah |
 | 1880 | 85 | Tabitha Rose Stone |
-| 1881 | 85 | Gregory Craig |
-| 1882 | 85 | Jessica Quinones |
-| 1883 | 85 | Jamie |
-| 1884 | 85 | Bubbly Blast |
+| 1881 | 85 | Bubbly Blast |
+| 1882 | 85 | Gregory Craig |
+| 1883 | 85 | Jessica Quinones |
+| 1884 | 85 | Jamie |
 | 1885 | 84 | Nunya |
 | 1886 | 84 | Stacy Patterson |
 | 1887 | 84 | Jay Will |
@@ -1897,22 +1897,22 @@
 | 1889 | 84 | Mikki Nesbit Andriola |
 | 1890 | 83 | Krystyna Ann Conley |
 | 1891 | 83 | Latoya Caston Davis |
-| 1892 | 83 | Glenda Inthimat |
+| 1892 | 83 | Debbie Ward |
 | 1893 | 83 | Ani |
-| 1894 | 83 | Debbie Ward |
+| 1894 | 83 | Glenda Inthimat |
 | 1895 | 83 | Jennifer Traywick |
-| 1896 | 82 | Vivian Bunnell Myers |
+| 1896 | 82 | LeeAnn Thompson Saxon |
 | 1897 | 82 | Tetrist |
-| 1898 | 82 | LeeAnn Thompson Saxon |
+| 1898 | 82 | Vivian Bunnell Myers |
 | 1899 | 82 | Mike Winn |
 | 1900 | 82 | Susan Lokerse |
 | 1901 | 82 | Zany Gridroll |
 | 1902 | 82 | MrsW |
-| 1903 | 82 | KingRoss |
-| 1904 | 82 | James Martin |
+| 1903 | 82 | James Martin |
+| 1904 | 82 | KingRoss |
 | 1905 | 82 | Sandman |
-| 1906 | 82 | Shellybobellers |
-| 1907 | 82 | Bartek Nieznane |
+| 1906 | 82 | Bartek Nieznane |
+| 1907 | 82 | Shellybobellers |
 | 1908 | 82 | Cody Peterson |
 | 1909 | 81 | Chet Boggs |
 | 1910 | 81 | Bryan Dickerson |
@@ -1922,8 +1922,8 @@
 | 1914 | 81 | Yolanda Odgers |
 | 1915 | 80 | Amanda Alt Caplinger |
 | 1916 | 80 | Christi Burley |
-| 1917 | 80 | Ne'Chaun Curtis |
-| 1918 | 80 | Nikita T Miller |
+| 1917 | 80 | Nikita T Miller |
+| 1918 | 80 | Ne'Chaun Curtis |
 | 1919 | 80 | Rita Sunshyne |
 | 1920 | 80 | Katt Brown-Thomas |
 | 1921 | 80 | Dionie Pina |
@@ -1937,48 +1937,48 @@
 | 1929 | 80 | LiL jen |
 | 1930 | 80 | Swift |
 | 1931 | 80 | Amber Johnson |
-| 1932 | 80 | Jumpy Winder |
-| 1933 | 79 | Swanky Tetrisline |
-| 1934 | 79 | Lesley Leanne Houston |
-| 1935 | 79 | Ethan Balling |
-| 1936 | 79 | Gfly |
-| 1937 | 79 | Happy Snapline |
-| 1938 | 79 | Glitzy Linkpiece |
-| 1939 | 79 | Marcia Crumpton |
-| 1940 | 79 | Saucy curvr |
-| 1941 | 79 | Swanky Tiltpiece |
-| 1942 | 79 | Cole Karim |
-| 1943 | 78 | boomsday |
-| 1944 | 78 | Dede |
-| 1945 | 78 | Alex Johnson-nelson |
-| 1946 | 78 | Sue Carpenter |
-| 1947 | 78 | Nora Smith |
-| 1948 | 78 | sadi |
-| 1949 | 78 | Brandi Taylor |
-| 1950 | 78 | Snippy Base |
+| 1932 | 80 | Dede |
+| 1933 | 80 | Jumpy Winder |
+| 1934 | 79 | Swanky Tetrisline |
+| 1935 | 79 | Lesley Leanne Houston |
+| 1936 | 79 | Ethan Balling |
+| 1937 | 79 | Gfly |
+| 1938 | 79 | Happy Snapline |
+| 1939 | 79 | Glitzy Linkpiece |
+| 1940 | 79 | Marcia Crumpton |
+| 1941 | 79 | Saucy curvr |
+| 1942 | 79 | Swanky Tiltpiece |
+| 1943 | 79 | Cole Karim |
+| 1944 | 78 | boomsday |
+| 1945 | 78 | Snippy Base |
+| 1946 | 78 | Alex Johnson-nelson |
+| 1947 | 78 | Sue Carpenter |
+| 1948 | 78 | Nora Smith |
+| 1949 | 78 | sadi |
+| 1950 | 78 | Brandi Taylor |
 | 1951 | 78 | Omgitsmomma |
-| 1952 | 78 | Witty Towerfit |
+| 1952 | 78 | Nathanul Vogel |
 | 1953 | 78 | Okdyeller |
-| 1954 | 78 | Nathanul Vogel |
-| 1955 | 78 | Lisa Gayle Skinner |
-| 1956 | 77 | j and k |
+| 1954 | 78 | Lisa Gayle Skinner |
+| 1955 | 78 | Witty Towerfit |
+| 1956 | 77 | Oscar Ferguson |
 | 1957 | 77 | Justwinginit4now |
-| 1958 | 77 | Oscar Ferguson |
-| 1959 | 76 | Tabitha Collens |
-| 1960 | 76 | AcidSandwich |
+| 1958 | 77 | j and k |
+| 1959 | 76 | Brandi Daigle |
+| 1960 | 76 | Lentoya Jackson |
 | 1961 | 76 | Linda Clement |
-| 1962 | 76 | Lentoya Jackson |
-| 1963 | 76 | Brandi Daigle |
-| 1964 | 75 | Joanne Marie |
-| 1965 | 75 | Chase Hermès Bakken |
-| 1966 | 75 | Tbuzz |
-| 1967 | 75 | Mighty Strike |
-| 1968 | 75 | Ethan Cox |
+| 1962 | 76 | AcidSandwich |
+| 1963 | 76 | Tabitha Collens |
+| 1964 | 75 | Tbuzz |
+| 1965 | 75 | Mighty Strike |
+| 1966 | 75 | Joanne Marie |
+| 1967 | 75 | Ethan Cox |
+| 1968 | 75 | Chase Hermès Bakken |
 | 1969 | 75 | Cecilia Thompson |
 | 1970 | 75 | Frothy Dashpiece |
 | 1971 | 75 | Perky Glidebuilder |
-| 1972 | 75 | Lupiness |
-| 1973 | 75 | Dan Haskins |
+| 1972 | 75 | Dan Haskins |
+| 1973 | 75 | Lupiness |
 | 1974 | 75 | Jess |
 | 1975 | 75 | Goofy Riserfit |
 | 1976 | 75 | Speedy Towerzone |
