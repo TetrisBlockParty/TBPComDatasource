@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 07:44:48 UTC
+# Standings for team1 as of 2026-03-18 07:45:23 UTC
 
 **Total Participants:** 3230
 
@@ -230,8 +230,8 @@
 | 222 | 995 | Althea Louise |
 | 223 | 994 | Dizzy Pattern |
 | 224 | 993 | Jumpy Spinblock |
-| 225 | 989 | Donavon Krahn |
-| 226 | 988 | Irene Medina |
+| 225 | 991 | Irene Medina |
+| 226 | 989 | Donavon Krahn |
 | 227 | 987 | Thorpedo |
 | 228 | 981 | TetrisWoo |
 | 229 | 974 | Bubbly Staggerpiece |
@@ -1309,12 +1309,12 @@
 | 1301 | 169 | Nutty Glide |
 | 1302 | 169 | Crystal Conklin |
 | 1303 | 169 | sgt baby |
-| 1304 | 168 | Sassyshell |
+| 1304 | 168 | Christina Rentz-Lane |
 | 1305 | 168 | Bob Sitts |
-| 1306 | 168 | Christina Rentz-Lane |
-| 1307 | 168 | Blkfroggy |
-| 1308 | 168 | Amanda Pauldo-Ivy |
-| 1309 | 168 | Boldy Grabber |
+| 1306 | 168 | Sassyshell |
+| 1307 | 168 | Boldy Grabber |
+| 1308 | 168 | Blkfroggy |
+| 1309 | 168 | Amanda Pauldo-Ivy |
 | 1310 | 167 | Jesus Garcia |
 | 1311 | 167 | Tammy Watson |
 | 1312 | 167 | MJ Beca Good |
@@ -1327,25 +1327,25 @@
 | 1319 | 166 | Justin Tariq |
 | 1320 | 166 | Mechelle Bailum |
 | 1321 | 166 | Wendy De Kam |
-| 1322 | 166 | Michelle Sanchez |
-| 1323 | 166 | Branden Blanch |
+| 1322 | 166 | Zachary Diener |
+| 1323 | 166 | Michelle Sanchez |
 | 1324 | 166 | Cozy Builderfit |
-| 1325 | 166 | Zachary Diener |
+| 1325 | 166 | Branden Blanch |
 | 1326 | 165 | Melissa Stephens D Tenorio |
 | 1327 | 165 | Tandi Hinson Basham |
-| 1328 | 165 | Sandy Linders Higgins |
-| 1329 | 165 | Chill Basepiece |
-| 1330 | 164 | Bobbie Freeman |
-| 1331 | 164 | Erica Wynne |
-| 1332 | 164 | Alexis Garcia |
-| 1333 | 164 | munchalot |
-| 1334 | 164 | Smiley Lifter |
-| 1335 | 164 | Nuga |
-| 1336 | 163 | Phyllis Odister |
-| 1337 | 163 | Tasha Jasmin |
-| 1338 | 163 | Carrie E Lamb Neal |
+| 1328 | 165 | Chill Basepiece |
+| 1329 | 165 | Sandy Linders Higgins |
+| 1330 | 165 | Phyllis Odister |
+| 1331 | 164 | Bobbie Freeman |
+| 1332 | 164 | Erica Wynne |
+| 1333 | 164 | Alexis Garcia |
+| 1334 | 164 | munchalot |
+| 1335 | 164 | Smiley Lifter |
+| 1336 | 164 | Nuga |
+| 1337 | 163 | Carrie E Lamb Neal |
+| 1338 | 163 | Epic Glider |
 | 1339 | 163 | DeJuan Green |
-| 1340 | 163 | Epic Glider |
+| 1340 | 163 | Tasha Jasmin |
 | 1341 | 163 | Kayleen Balbaneda |
 | 1342 | 162 | Chipper Tumbler |
 | 1343 | 162 | Lacey Renee Dietz |
@@ -1362,23 +1362,23 @@
 | 1354 | 161 | DreamyMoon |
 | 1355 | 160 | Kim Pabalan |
 | 1356 | 160 | Danita Banks |
-| 1357 | 160 | Mel Esquibel Brostoski |
-| 1358 | 160 | Elena Sanchez Damian |
-| 1359 | 160 | Snow Neumann |
-| 1360 | 160 | Deborah Fowler |
-| 1361 | 160 | Jennifer Hackmann |
-| 1362 | 160 | Amanda Jean Gray |
-| 1363 | 159 | GoobaGoo67 |
-| 1364 | 159 | Monet Laronda Wilson |
+| 1357 | 160 | Elena Sanchez Damian |
+| 1358 | 160 | Snow Neumann |
+| 1359 | 160 | Amanda Jean Gray |
+| 1360 | 160 | Jennifer Hackmann |
+| 1361 | 160 | Deborah Fowler |
+| 1362 | 160 | Mel Esquibel Brostoski |
+| 1363 | 159 | Darcy |
+| 1364 | 159 | Jenny Stratton Cozart |
 | 1365 | 159 | Casey Jordan |
-| 1366 | 159 | Darcy |
-| 1367 | 159 | Jenny Stratton Cozart |
-| 1368 | 159 | Jenn Lunsford |
-| 1369 | 159 | Christopher James Cienfuegos |
+| 1366 | 159 | Jenn Lunsford |
+| 1367 | 159 | Monet Laronda Wilson |
+| 1368 | 159 | Christopher James Cienfuegos |
+| 1369 | 159 | GoobaGoo67 |
 | 1370 | 158 | Thomcatt |
-| 1371 | 158 | Renee |
+| 1371 | 158 | Christie Love |
 | 1372 | 158 | Christi Bouten-Harmon |
-| 1373 | 158 | Christie Love |
+| 1373 | 158 | Renee |
 | 1374 | 158 | Michele Walker |
 | 1375 | 158 | BunzzHoney |
 | 1376 | 157 | atomictrin |
