@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 10:24:47 UTC
+# Standings for team1 as of 2026-03-18 10:25:24 UTC
 
 **Total Participants:** 3246
 
@@ -217,10 +217,10 @@
 | 209 | 1077 | Michael Powers |
 | 210 | 1072 | Thorpedo |
 | 211 | 1060 | Jess Rose |
-| 212 | 1054 | Shawn Kelso |
-| 213 | 1053 | Crawford Candice |
-| 214 | 1046 | Irene Medina |
-| 215 | 1046 | Marie Helman |
+| 212 | 1056 | Marie Helman |
+| 213 | 1054 | Shawn Kelso |
+| 214 | 1053 | Crawford Candice |
+| 215 | 1046 | Irene Medina |
 | 216 | 1045 | nameno |
 | 217 | 1044 | beep |
 | 218 | 1037 | Happy Tilerpiece |
