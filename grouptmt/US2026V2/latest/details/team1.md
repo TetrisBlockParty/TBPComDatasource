@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 09:00:19 UTC
+# Standings for team1 as of 2026-03-18 09:00:50 UTC
 
 **Total Participants:** 3239
 
@@ -997,27 +997,27 @@
 | 989 | 246 | Laidene Joseph |
 | 990 | 245 | Rick Haverty |
 | 991 | 245 | Katelyn B. Pritchard |
-| 992 | 244 | Brittany Singleton |
-| 993 | 244 | Mariah Todd |
-| 994 | 243 | Loony Stagger |
-| 995 | 243 | Medic205 |
-| 996 | 243 | Tina Jett |
-| 997 | 243 | Kristen Rhoads |
-| 998 | 242 | Mathhew Tompkins |
-| 999 | 242 | Krista Banks |
-| 1000 | 241 | Luis Guzman |
-| 1001 | 241 | Komikeh White |
-| 1002 | 241 | Stacy Painter |
-| 1003 | 241 | Shane Thon |
-| 1004 | 241 | Flashy Wipeblock |
-| 1005 | 241 | Michael Almacen |
-| 1006 | 240 | Fancy Towerfall |
-| 1007 | 240 | Daniel Lopez |
-| 1008 | 240 | Slatt Aint Going |
-| 1009 | 240 | PurpleSnow |
-| 1010 | 239 | Chummy Risebuilder |
-| 1011 | 239 | Bri037 |
-| 1012 | 239 | Daniel James Man |
+| 992 | 245 | Daniel James Man |
+| 993 | 244 | Brittany Singleton |
+| 994 | 244 | Mariah Todd |
+| 995 | 243 | Loony Stagger |
+| 996 | 243 | Medic205 |
+| 997 | 243 | Tina Jett |
+| 998 | 243 | Kristen Rhoads |
+| 999 | 242 | Mathhew Tompkins |
+| 1000 | 242 | Krista Banks |
+| 1001 | 241 | Luis Guzman |
+| 1002 | 241 | Komikeh White |
+| 1003 | 241 | Stacy Painter |
+| 1004 | 241 | Shane Thon |
+| 1005 | 241 | Flashy Wipeblock |
+| 1006 | 241 | Michael Almacen |
+| 1007 | 240 | Fancy Towerfall |
+| 1008 | 240 | Daniel Lopez |
+| 1009 | 240 | Slatt Aint Going |
+| 1010 | 240 | PurpleSnow |
+| 1011 | 239 | Chummy Risebuilder |
+| 1012 | 239 | Bri037 |
 | 1013 | 238 | Damion Woods |
 | 1014 | 238 | Tripp Loc |
 | 1015 | 237 | Bird Reed |
@@ -1827,68 +1827,68 @@
 | 1819 | 95 | Okdyeller |
 | 1820 | 95 | pinkmom |
 | 1821 | 95 | Shiny Twistslam |
-| 1822 | 94 | Lizzy Bea |
-| 1823 | 94 | Silly Crawler |
-| 1824 | 94 | Spicy Builderfit |
-| 1825 | 94 | Bumpy Morris |
-| 1826 | 94 | Tracey Wilson |
-| 1827 | 94 | Dreamy Staggerpiece |
-| 1828 | 94 | Cool Dasher |
-| 1829 | 94 | Vivian Cobb |
-| 1830 | 94 | m.taha |
-| 1831 | 93 | 805 |
-| 1832 | 93 | Tabby |
-| 1833 | 93 | Kevin Munkel |
-| 1834 | 93 | DirtyJoe |
-| 1835 | 93 | Camille Winzalevitch |
-| 1836 | 93 | Mo Mulah |
-| 1837 | 93 | Michael Anthony |
-| 1838 | 93 | Cheery Fitline |
-| 1839 | 93 | kulbeans |
-| 1840 | 93 | Juju |
-| 1841 | 92 | Haleigh Clay |
-| 1842 | 92 | Dave Bremme |
-| 1843 | 92 | Luna |
-| 1844 | 92 | Hyper Drop |
-| 1845 | 92 | Richi Ricardo Anderson |
-| 1846 | 92 | Lex |
-| 1847 | 92 | pinksplatt |
-| 1848 | 91 | Lisa Franks |
-| 1849 | 91 | Cheryl Villa |
-| 1850 | 91 | Poppy Snapbuild |
-| 1851 | 91 | Jen Sartain |
-| 1852 | 91 | Texas Sass |
-| 1853 | 91 | Dale |
-| 1854 | 91 | Becky Sell |
-| 1855 | 91 | Mike Zec II |
-| 1856 | 91 | al |
-| 1857 | 91 | Cozy Clearpiece |
-| 1858 | 91 | Fun 50 |
-| 1859 | 91 | librarian |
-| 1860 | 90 | Hunt Joe |
-| 1861 | 90 | Sarah Jean |
-| 1862 | 90 | CHOSEN1 |
-| 1863 | 90 | Omgitsmomma |
-| 1864 | 90 | ChaosNCatHair |
-| 1865 | 90 | BIGOONS |
-| 1866 | 90 | Vickie Valdez-Lopez |
-| 1867 | 90 | Brad Shelton |
-| 1868 | 90 | Crafty Twistslam |
-| 1869 | 90 | Frisky Climber |
-| 1870 | 90 | MetalBrickLayer |
-| 1871 | 90 | Breezy Tilebuilder |
-| 1872 | 90 | Ronald D. Beatty |
-| 1873 | 90 | Shawn Septer |
-| 1874 | 90 | Brad Werner |
-| 1875 | 90 | Witty Shatterline |
-| 1876 | 89 | Christopher Tilley |
-| 1877 | 89 | LMP |
-| 1878 | 89 | Mighty Patternfall |
-| 1879 | 89 | Colleen Shanley |
-| 1880 | 89 | Stellar |
-| 1881 | 89 | Cheeko |
-| 1882 | 89 | Jimmy Walker |
-| 1883 | 89 | Brenden Norwood |
+| 1822 | 95 | Brenden Norwood |
+| 1823 | 94 | Lizzy Bea |
+| 1824 | 94 | Silly Crawler |
+| 1825 | 94 | Spicy Builderfit |
+| 1826 | 94 | Bumpy Morris |
+| 1827 | 94 | Tracey Wilson |
+| 1828 | 94 | Dreamy Staggerpiece |
+| 1829 | 94 | Cool Dasher |
+| 1830 | 94 | Vivian Cobb |
+| 1831 | 94 | m.taha |
+| 1832 | 93 | 805 |
+| 1833 | 93 | Tabby |
+| 1834 | 93 | Kevin Munkel |
+| 1835 | 93 | DirtyJoe |
+| 1836 | 93 | Camille Winzalevitch |
+| 1837 | 93 | Mo Mulah |
+| 1838 | 93 | Michael Anthony |
+| 1839 | 93 | Cheery Fitline |
+| 1840 | 93 | kulbeans |
+| 1841 | 93 | Juju |
+| 1842 | 92 | Haleigh Clay |
+| 1843 | 92 | Dave Bremme |
+| 1844 | 92 | Luna |
+| 1845 | 92 | Hyper Drop |
+| 1846 | 92 | Richi Ricardo Anderson |
+| 1847 | 92 | Lex |
+| 1848 | 92 | pinksplatt |
+| 1849 | 91 | Lisa Franks |
+| 1850 | 91 | Cheryl Villa |
+| 1851 | 91 | Poppy Snapbuild |
+| 1852 | 91 | Jen Sartain |
+| 1853 | 91 | Texas Sass |
+| 1854 | 91 | Dale |
+| 1855 | 91 | Becky Sell |
+| 1856 | 91 | Mike Zec II |
+| 1857 | 91 | al |
+| 1858 | 91 | Cozy Clearpiece |
+| 1859 | 91 | Fun 50 |
+| 1860 | 91 | librarian |
+| 1861 | 90 | Hunt Joe |
+| 1862 | 90 | Sarah Jean |
+| 1863 | 90 | CHOSEN1 |
+| 1864 | 90 | Omgitsmomma |
+| 1865 | 90 | ChaosNCatHair |
+| 1866 | 90 | BIGOONS |
+| 1867 | 90 | Vickie Valdez-Lopez |
+| 1868 | 90 | Brad Shelton |
+| 1869 | 90 | Crafty Twistslam |
+| 1870 | 90 | Frisky Climber |
+| 1871 | 90 | MetalBrickLayer |
+| 1872 | 90 | Breezy Tilebuilder |
+| 1873 | 90 | Ronald D. Beatty |
+| 1874 | 90 | Shawn Septer |
+| 1875 | 90 | Brad Werner |
+| 1876 | 90 | Witty Shatterline |
+| 1877 | 89 | Christopher Tilley |
+| 1878 | 89 | LMP |
+| 1879 | 89 | Mighty Patternfall |
+| 1880 | 89 | Colleen Shanley |
+| 1881 | 89 | Stellar |
+| 1882 | 89 | Cheeko |
+| 1883 | 89 | Jimmy Walker |
 | 1884 | 88 | Josie Juliette Eos Bastet - Roque |
 | 1885 | 88 | Dapper Clearfit |
 | 1886 | 88 | Glenda Inthimat |
@@ -2833,19 +2833,19 @@
 | 2825 | 23 | Melissa Crutcher |
 | 2826 | 23 | Cranky Swiper |
 | 2827 | 23 | Aaron Nelson |
-| 2828 | 23 | Happy Walnut |
-| 2829 | 23 | Alberto Carlos Rodriguez Alvarez |
-| 2830 | 23 | Ryu |
-| 2831 | 23 | 420Master |
-| 2832 | 23 | David Paul Boysen |
-| 2833 | 22 | Jennifer Freeman |
-| 2834 | 22 | Cynthia Cruell |
-| 2835 | 22 | Rudy Loera |
-| 2836 | 22 | Roni Thecenter Bruce |
-| 2837 | 22 | Jennifer Schwed |
-| 2838 | 22 | Cranky Striker |
-| 2839 | 22 | Netty Perkins |
-| 2840 | 22 | Melanie Melanie |
+| 2828 | 23 | Melanie Melanie |
+| 2829 | 23 | Happy Walnut |
+| 2830 | 23 | Alberto Carlos Rodriguez Alvarez |
+| 2831 | 23 | Ryu |
+| 2832 | 23 | 420Master |
+| 2833 | 23 | David Paul Boysen |
+| 2834 | 22 | Jennifer Freeman |
+| 2835 | 22 | Cynthia Cruell |
+| 2836 | 22 | Rudy Loera |
+| 2837 | 22 | Roni Thecenter Bruce |
+| 2838 | 22 | Jennifer Schwed |
+| 2839 | 22 | Cranky Striker |
+| 2840 | 22 | Netty Perkins |
 | 2841 | 22 | Charlène Gauthier |
 | 2842 | 22 | Eddie Salas |
 | 2843 | 22 | Colena Davenport |
