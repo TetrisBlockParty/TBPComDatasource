@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 09:14:45 UTC
+# Standings for team2 as of 2026-03-18 09:15:20 UTC
 
 **Total Participants:** 3284
 
@@ -426,8 +426,8 @@
 | 418 | 526 | Smiley Match |
 | 419 | 525 | Susan Dunn |
 | 420 | 524 | Randy Jansen |
-| 421 | 523 | Brandie Marie Miles |
-| 422 | 522 | Yloponom Gamez |
+| 421 | 524 | Yloponom Gamez |
+| 422 | 523 | Brandie Marie Miles |
 | 423 | 522 | kippykay |
 | 424 | 522 | Ashley Leonard |
 | 425 | 522 | Zane |
@@ -1079,21 +1079,21 @@
 | 1071 | 212 | bubbles |
 | 1072 | 212 | Chewy Chewy |
 | 1073 | 211 | JesusIsLove |
-| 1074 | 211 | Christa Ybarra |
-| 1075 | 211 | Jamocha Mieka Muldrow-Wright |
-| 1076 | 211 | Lizzy44@ |
-| 1077 | 210 | Crystal Ali |
-| 1078 | 210 | So I o Sue |
-| 1079 | 210 | Sonya Milbourne |
-| 1080 | 210 | Caitlyn Brown |
-| 1081 | 209 | Danielle Smith |
-| 1082 | 209 | Stitch Aura |
-| 1083 | 209 | Queen |
-| 1084 | 208 | Scruffy Rose |
-| 1085 | 208 | Lauren Bailey |
-| 1086 | 208 | Erica |
-| 1087 | 208 | em |
-| 1088 | 207 | Lisa Beckort |
+| 1074 | 211 | Lisa Beckort |
+| 1075 | 211 | Christa Ybarra |
+| 1076 | 211 | Jamocha Mieka Muldrow-Wright |
+| 1077 | 211 | Lizzy44@ |
+| 1078 | 210 | Crystal Ali |
+| 1079 | 210 | So I o Sue |
+| 1080 | 210 | Sonya Milbourne |
+| 1081 | 210 | Caitlyn Brown |
+| 1082 | 209 | Danielle Smith |
+| 1083 | 209 | Stitch Aura |
+| 1084 | 209 | Queen |
+| 1085 | 208 | Scruffy Rose |
+| 1086 | 208 | Lauren Bailey |
+| 1087 | 208 | Erica |
+| 1088 | 208 | em |
 | 1089 | 207 | Lori Bales |
 | 1090 | 206 | Katie |
 | 1091 | 206 | Cheyenne Taylor |
@@ -1786,10 +1786,10 @@
 | 1778 | 99 | Ram |
 | 1779 | 99 | Nek |
 | 1780 | 99 | Ma Ri |
-| 1781 | 99 | Sarah Arnold |
-| 1782 | 99 | Jude |
-| 1783 | 99 | Reese Crystal |
-| 1784 | 99 | Christopher Jaylen Castillo |
+| 1781 | 99 | Christopher Jaylen Castillo |
+| 1782 | 99 | Sarah Arnold |
+| 1783 | 99 | Jude |
+| 1784 | 99 | Reese Crystal |
 | 1785 | 99 | Lydell Webb |
 | 1786 | 98 | Poppy Jumper |
 | 1787 | 98 | Angie Jacobs |
@@ -1809,8 +1809,8 @@
 | 1801 | 97 | Sovereign Grace |
 | 1802 | 97 | Barb Swartzendruber |
 | 1803 | 96 | Zesty Dasher |
-| 1804 | 96 | Claudia Baez |
-| 1805 | 96 | Crystal Jeffers |
+| 1804 | 96 | Crystal Jeffers |
+| 1805 | 96 | Claudia Baez |
 | 1806 | 96 | Danielle Carle |
 | 1807 | 96 | Dan Smith |
 | 1808 | 96 | Cheeky Cornerfall |
@@ -1821,51 +1821,51 @@
 | 1813 | 95 | Goofy Twistline |
 | 1814 | 95 | Carla B Linker |
 | 1815 | 95 | Poppy Linkpiece |
-| 1816 | 95 | Tasha Willing |
-| 1817 | 95 | Amy Siebenhaar |
-| 1818 | 95 | Sheila Massey Dotson |
+| 1816 | 95 | Jimmy Bowden |
+| 1817 | 95 | Sheila Massey Dotson |
+| 1818 | 95 | Tasha Willing |
 | 1819 | 95 | Goofy Basegrid |
-| 1820 | 95 | Jimmy Bowden |
-| 1821 | 94 | Melissa |
-| 1822 | 94 | James Heilman |
-| 1823 | 94 | Chrystyne |
-| 1824 | 94 | Candice Bertie |
-| 1825 | 94 | Loony Towerzone |
-| 1826 | 94 | Tipsy Towerpiece |
-| 1827 | 94 | Rebecca Frango |
-| 1828 | 94 | Cheeky Brickfit |
+| 1820 | 95 | Amy Siebenhaar |
+| 1821 | 94 | Loony Towerzone |
+| 1822 | 94 | Chill Tumbler |
+| 1823 | 94 | Cheeky Brickfit |
+| 1824 | 94 | Tipsy Towerpiece |
+| 1825 | 94 | Candice Bertie |
+| 1826 | 94 | Melissa |
+| 1827 | 94 | James Heilman |
+| 1828 | 94 | Rebecca Frango |
 | 1829 | 94 | Brian Marsico |
-| 1830 | 94 | Angie Waters |
-| 1831 | 93 | OmeeMyBloxx |
-| 1832 | 93 | izzy |
+| 1830 | 94 | Chrystyne |
+| 1831 | 94 | Angie Waters |
+| 1832 | 93 | OmeeMyBloxx |
 | 1833 | 93 | Riane Sussman |
-| 1834 | 93 | Kimberly Ann |
+| 1834 | 93 | izzy |
 | 1835 | 93 | PatsyGSD4eva |
 | 1836 | 93 | Durand Douglas |
-| 1837 | 92 | Leshea L Brandi |
-| 1838 | 92 | Chill Tumbler |
-| 1839 | 92 | Sarah Count-it All-Joy |
-| 1840 | 92 | Ruffrider27 |
-| 1841 | 92 | Step White |
+| 1837 | 93 | Kimberly Ann |
+| 1838 | 92 | Ruffrider27 |
+| 1839 | 92 | Step White |
+| 1840 | 92 | Leshea L Brandi |
+| 1841 | 92 | Sarah Count-it All-Joy |
 | 1842 | 92 | Hediyuda |
 | 1843 | 91 | CG2026 |
 | 1844 | 91 | Lilly Frost |
 | 1845 | 91 | Ernest Troutman |
 | 1846 | 91 | DeAnne Geier Wade |
-| 1847 | 91 | Gypsy |
-| 1848 | 91 | Nerdy Risebuilder |
-| 1849 | 91 | Loony Snapper |
-| 1850 | 91 | Virginia Walker |
-| 1851 | 91 | Erichalyn |
-| 1852 | 91 | Mariah SanCartier |
-| 1853 | 91 | Jennifer Moynihan Lawton |
-| 1854 | 90 | Stabitha Christie |
+| 1847 | 91 | Jennifer Moynihan Lawton |
+| 1848 | 91 | Virginia Walker |
+| 1849 | 91 | Mariah SanCartier |
+| 1850 | 91 | Nerdy Risebuilder |
+| 1851 | 91 | Gypsy |
+| 1852 | 91 | Erichalyn |
+| 1853 | 91 | Loony Snapper |
+| 1854 | 90 | Avi Quijada |
 | 1855 | 90 | Skeetris |
 | 1856 | 90 | Sonceria Ingram-Ford |
-| 1857 | 90 | Alysia Clare |
-| 1858 | 90 | Gina Nicotra |
-| 1859 | 90 | Tina Franklin |
-| 1860 | 90 | Avi Quijada |
+| 1857 | 90 | Gina Nicotra |
+| 1858 | 90 | Tina Franklin |
+| 1859 | 90 | Stabitha Christie |
+| 1860 | 90 | Alysia Clare |
 | 1861 | 90 | Denise Bailey |
 | 1862 | 90 | Angel Niomi Munoz |
 | 1863 | 90 | Frilly Slider |
@@ -1874,25 +1874,25 @@
 | 1866 | 90 | Terry Fabian |
 | 1867 | 89 | Marisa |
 | 1868 | 89 | Christian Werndl |
-| 1869 | 89 | J Cleveland Payne |
-| 1870 | 89 | Nikki Leanne |
-| 1871 | 89 | Theresa Vandenbos |
-| 1872 | 89 | Shaylene Craig |
-| 1873 | 89 | Rachel Robertson |
+| 1869 | 89 | Theresa Vandenbos |
+| 1870 | 89 | Shaylene Craig |
+| 1871 | 89 | Rachel Robertson |
+| 1872 | 89 | Nellie Cummings |
+| 1873 | 89 | Nikki Leanne |
 | 1874 | 89 | VegasV |
-| 1875 | 89 | Nellie Cummings |
-| 1876 | 89 | Heather Hilferty |
-| 1877 | 88 | Dapper Winder |
+| 1875 | 89 | Heather Hilferty |
+| 1876 | 89 | J Cleveland Payne |
+| 1877 | 88 | DirtDiggler |
 | 1878 | 88 | Whitney Douglas |
-| 1879 | 88 | DirtDiggler |
-| 1880 | 88 | Ashley V Arnold |
-| 1881 | 88 | Ruchi Smit |
-| 1882 | 88 | Zany Puzzle |
+| 1879 | 88 | Dapper Winder |
+| 1880 | 88 | Ann May June |
+| 1881 | 88 | Ashley V Arnold |
+| 1882 | 88 | Ruchi Smit |
 | 1883 | 88 | Brandi Roberts-Yartz |
-| 1884 | 88 | Amy Pike |
-| 1885 | 88 | sas |
+| 1884 | 88 | Zany Puzzle |
+| 1885 | 88 | Amy Pike |
 | 1886 | 88 | Giggy Tilt |
-| 1887 | 88 | Ann May June |
+| 1887 | 88 | sas |
 | 1888 | 87 | Maria Winston |
 | 1889 | 87 | Terry Partain |
 | 1890 | 87 | Dawn Alexander |
