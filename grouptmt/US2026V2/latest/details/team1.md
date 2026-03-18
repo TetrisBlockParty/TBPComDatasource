@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 09:29:20 UTC
+# Standings for team1 as of 2026-03-18 09:30:20 UTC
 
 **Total Participants:** 3241
 
@@ -64,8 +64,8 @@
 | 56 | 3327 | Megan Klinkner |
 | 57 | 3242 | Caitlin Zakrzewski |
 | 58 | 3194 | Justin Feingold |
-| 59 | 3162 | Itz Kevo |
-| 60 | 3162 | Sarah Henniker |
+| 59 | 3162 | Sarah Henniker |
+| 60 | 3162 | Itz Kevo |
 | 61 | 3102 | Hellsin |
 | 62 | 3049 | Walter Beltran |
 | 63 | 2992 | Lexx Oliver |
@@ -129,10 +129,10 @@
 | 121 | 1742 | Kesha Brady |
 | 122 | 1733 | Dish19 |
 | 123 | 1729 | Chris Wanner |
-| 124 | 1728 | Sarah Perry Cook |
-| 125 | 1690 | Gloria Ininahazwe |
-| 126 | 1673 | Loony Brickmatch |
-| 127 | 1668 | Mikitta Calvin |
+| 124 | 1728 | Mikitta Calvin |
+| 125 | 1728 | Sarah Perry Cook |
+| 126 | 1690 | Gloria Ininahazwe |
+| 127 | 1673 | Loony Brickmatch |
 | 128 | 1659 | Cheeky Crusher |
 | 129 | 1654 | Trisha Gallagher |
 | 130 | 1653 | Denise Edwards |
@@ -141,8 +141,8 @@
 | 133 | 1611 | Mary Pelley |
 | 134 | 1600 | Annie B. |
 | 135 | 1597 | Timothy Long |
-| 136 | 1559 | Joy Bloodworth |
-| 137 | 1559 | Chalandra Donahue |
+| 136 | 1559 | Chalandra Donahue |
+| 137 | 1559 | Joy Bloodworth |
 | 138 | 1554 | Jodie Peterson |
 | 139 | 1537 | Legendary |
 | 140 | 1532 | Charis Stoner |
@@ -153,14 +153,14 @@
 | 145 | 1460 | Nanan Nanan |
 | 146 | 1459 | LaNette Morgan |
 | 147 | 1457 | Sleepypanda67 |
-| 148 | 1437 | Gabriel Morales |
-| 149 | 1429 | jenna |
-| 150 | 1424 | Jessica Ritter |
-| 151 | 1409 | @n@luvmakin |
-| 152 | 1403 | Big rick !!! |
-| 153 | 1400 | Death |
-| 154 | 1399 | DeeBee |
-| 155 | 1396 | Kris Hudelson |
+| 148 | 1446 | Kris Hudelson |
+| 149 | 1437 | Gabriel Morales |
+| 150 | 1429 | jenna |
+| 151 | 1424 | Jessica Ritter |
+| 152 | 1409 | @n@luvmakin |
+| 153 | 1403 | Big rick !!! |
+| 154 | 1400 | Death |
+| 155 | 1399 | DeeBee |
 | 156 | 1393 | Zach Thompson |
 | 157 | 1391 | Cassandra Latimore |
 | 158 | 1386 | Ann Carrie |
@@ -243,12 +243,12 @@
 | 235 | 968 | Beth Anderson |
 | 236 | 956 | Hut Des |
 | 237 | 951 | Mighty Patternbuilder |
-| 238 | 948 | Bigg Guy |
-| 239 | 947 | Jaime Barrett Nelson |
+| 238 | 949 | Jaime Barrett Nelson |
+| 239 | 948 | Bigg Guy |
 | 240 | 944 | Stefanie Champion |
-| 241 | 938 | Ramona Gulledge |
+| 241 | 938 | Jodi Fichter |
 | 242 | 938 | Tyle Armstead |
-| 243 | 938 | Jodi Fichter |
+| 243 | 938 | Ramona Gulledge |
 | 244 | 934 | Fairrun James |
 | 245 | 930 | Rat666 |
 | 246 | 927 | Shiny Patternblock |
@@ -264,8 +264,8 @@
 | 256 | 902 | Rennon Scott Wilson |
 | 257 | 898 | Nikita Nelson |
 | 258 | 894 | KK |
-| 259 | 893 | KathyandPhillip Woolard |
-| 260 | 893 | Beka |
+| 259 | 893 | Beka |
+| 260 | 893 | KathyandPhillip Woolard |
 | 261 | 891 | Donald Nguyen |
 | 262 | 887 | Michael Zates |
 | 263 | 883 | Chris |
@@ -288,14 +288,14 @@
 | 280 | 834 | Noah |
 | 281 | 827 | Antonia Wyche |
 | 282 | 821 | Jessi Sauer |
-| 283 | 819 | Rebecca Martin |
-| 284 | 819 | Aprill Bolton |
+| 283 | 820 | Aprill Bolton |
+| 284 | 819 | Rebecca Martin |
 | 285 | 807 | Cheeky Blocky |
 | 286 | 804 | kito23 |
 | 287 | 801 | Margaret Rose |
 | 288 | 798 | Cynthia Petz |
-| 289 | 796 | Alicia Sheckler |
-| 290 | 796 | Flashy Rotator |
+| 289 | 796 | Flashy Rotator |
+| 290 | 796 | Alicia Sheckler |
 | 291 | 791 | Desiree Jenson |
 | 292 | 789 | Sassy Cascadepiece |
 | 293 | 786 | Mufi25 |
@@ -303,11 +303,11 @@
 | 295 | 779 | tttttttt |
 | 296 | 772 | Mrsjcraw18 |
 | 297 | 771 | Will Fulmer |
-| 298 | 768 | Randy Masao Hilbrant |
-| 299 | 768 | Mykal Burton |
+| 298 | 768 | Mykal Burton |
+| 299 | 768 | Randy Masao Hilbrant |
 | 300 | 764 | Mahman |
-| 301 | 761 | Michael Espinosa Ulibarri Jr. |
-| 302 | 761 | Tammy Lamb |
+| 301 | 761 | Tammy Lamb |
+| 302 | 761 | Michael Espinosa Ulibarri Jr. |
 | 303 | 759 | Erin Halleman |
 | 304 | 759 | Swalshy |
 | 305 | 757 | Elizabeth Hughes |
@@ -486,8 +486,8 @@
 | 478 | 503 | Katie Alexander |
 | 479 | 503 | Trina Gee |
 | 480 | 502 | Ern2burn |
-| 481 | 500 | Lee Sipelii |
-| 482 | 499 | Stephanie M Dabson |
+| 481 | 501 | Stephanie M Dabson |
+| 482 | 500 | Lee Sipelii |
 | 483 | 499 | Dennis Eitler |
 | 484 | 497 | Crystal Jaggars |
 | 485 | 496 | Laura Morrison |
@@ -1531,9 +1531,9 @@
 | 1523 | 135 | Pat K Ellis |
 | 1524 | 135 | Saucy Block |
 | 1525 | 135 | Rubi |
-| 1526 | 135 | Latoya Mayne |
-| 1527 | 135 | Emanuel Velazquez |
-| 1528 | 135 | Brian Spotts |
+| 1526 | 135 | Emanuel Velazquez |
+| 1527 | 135 | Brian Spotts |
+| 1528 | 135 | Latoya Mayne |
 | 1529 | 135 | Lulu C Harp |
 | 1530 | 135 | Elliot |
 | 1531 | 135 | Toni Miller |
@@ -1541,28 +1541,28 @@
 | 1533 | 134 | Mighty Piececlear |
 | 1534 | 134 | The Chef |
 | 1535 | 134 | Deanna L Hermanson |
-| 1536 | 133 | LouiBandz |
-| 1537 | 133 | Cecil Gordon Wadkins |
-| 1538 | 133 | Going Gone |
-| 1539 | 133 | Laura Hosford |
+| 1536 | 133 | Laura Hosford |
+| 1537 | 133 | LouiBandz |
+| 1538 | 133 | Cecil Gordon Wadkins |
+| 1539 | 133 | Going Gone |
 | 1540 | 133 | Christina Morales |
-| 1541 | 132 | svsninja |
-| 1542 | 132 | Aspen Campos |
-| 1543 | 132 | Mamabear924 |
-| 1544 | 132 | Pasha |
-| 1545 | 132 | Taiesha Jones |
-| 1546 | 132 | Chad |
+| 1541 | 132 | Taiesha Jones |
+| 1542 | 132 | Chad |
+| 1543 | 132 | svsninja |
+| 1544 | 132 | Mamabear924 |
+| 1545 | 132 | Pasha |
+| 1546 | 132 | Aspen Campos |
 | 1547 | 131 | Penny Clark |
-| 1548 | 131 | Shawntae Mccary |
-| 1549 | 131 | Cristian Ramirez Lazaro |
-| 1550 | 131 | Sara Galyon |
-| 1551 | 131 | Jessica Earp |
-| 1552 | 130 | Sam |
-| 1553 | 130 | Tate Sonnier |
-| 1554 | 130 | Stephanie Holman |
+| 1548 | 131 | Zappy Snapper |
+| 1549 | 131 | Shawntae Mccary |
+| 1550 | 131 | Cristian Ramirez Lazaro |
+| 1551 | 131 | Sara Galyon |
+| 1552 | 131 | Jessica Earp |
+| 1553 | 130 | Sam |
+| 1554 | 130 | Tate Sonnier |
 | 1555 | 130 | Greenie |
-| 1556 | 130 | Bouncy Dropper |
-| 1557 | 130 | Zappy Snapper |
+| 1556 | 130 | Stephanie Holman |
+| 1557 | 130 | Bouncy Dropper |
 | 1558 | 130 | Trevor J Armstrong |
 | 1559 | 130 | Rebecca Rognerud |
 | 1560 | 129 | Bouncy Linefit |
