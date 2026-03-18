@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 07:48:46 UTC
+# Standings for team1 as of 2026-03-18 07:49:23 UTC
 
 **Total Participants:** 3231
 
@@ -562,12 +562,12 @@
 | 554 | 432 | Brandon McDonald |
 | 555 | 431 | anshu |
 | 556 | 431 | Greg Hart |
-| 557 | 429 | Tim Slone |
-| 558 | 428 | Hobson Lopes |
-| 559 | 425 | Jaay |
-| 560 | 424 | Dicfitzwel |
-| 561 | 424 | Gabriel Archer |
-| 562 | 423 | Candace Fielder |
+| 557 | 431 | Candace Fielder |
+| 558 | 429 | Tim Slone |
+| 559 | 428 | Hobson Lopes |
+| 560 | 425 | Jaay |
+| 561 | 424 | Dicfitzwel |
+| 562 | 424 | Gabriel Archer |
 | 563 | 423 | Brandon Green |
 | 564 | 423 | Wendy Griffith |
 | 565 | 422 | Peachy Snaplink |
@@ -594,11 +594,11 @@
 | 586 | 411 | Eichwife78 |
 | 587 | 408 | Glauf |
 | 588 | 408 | Kjnals Wall |
-| 589 | 408 | Brandon Zachary Anderson |
-| 590 | 408 | Britney Nelson Coy |
-| 591 | 407 | Bri Jackson |
-| 592 | 406 | Dizzy Stackbuilder |
-| 593 | 406 | Savannah Tanielle |
+| 589 | 408 | Savannah Tanielle |
+| 590 | 408 | Brandon Zachary Anderson |
+| 591 | 408 | Britney Nelson Coy |
+| 592 | 407 | Bri Jackson |
+| 593 | 406 | Dizzy Stackbuilder |
 | 594 | 406 | Crystal Sara E |
 | 595 | 404 | Ryne Pinkston |
 | 596 | 404 | Luke Evans |
