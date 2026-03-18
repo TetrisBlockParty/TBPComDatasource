@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 06:46:46 UTC
+# Standings for team1 as of 2026-03-18 06:47:23 UTC
 
 **Total Participants:** 3221
 
@@ -30,9 +30,9 @@
 | 22 | 6613 | Spicy Buildsnap |
 | 23 | 6371 | Vistabrat |
 | 24 | 6246 | Krystal McPherson |
-| 25 | 6060 | Venechia Berry |
-| 26 | 6053 | Michael Texidor |
-| 27 | 6016 | Tashanna Harvey |
+| 25 | 6216 | Tashanna Harvey |
+| 26 | 6060 | Venechia Berry |
+| 27 | 6053 | Michael Texidor |
 | 28 | 6005 | Selena Rollin |
 | 29 | 5988 | Rosey |
 | 30 | 5954 | Elyse YL |
@@ -311,10 +311,10 @@
 | 303 | 753 | King D |
 | 304 | 748 | Jason Cunningham |
 | 305 | 747 | La'Shonda N Williams |
-| 306 | 736 | Charles Herbert |
-| 307 | 733 | Chuck Williams |
-| 308 | 731 | Aaron M Luna |
-| 309 | 728 | juicyred |
+| 306 | 743 | juicyred |
+| 307 | 736 | Charles Herbert |
+| 308 | 733 | Chuck Williams |
+| 309 | 731 | Aaron M Luna |
 | 310 | 724 | Roary Danner |
 | 311 | 723 | Marianne Lopez |
 | 312 | 722 | Megan Treacy |
@@ -452,11 +452,11 @@
 | 444 | 528 | Giddy Brickclear |
 | 445 | 527 | QueenBee |
 | 446 | 527 | Hasty Lift |
-| 447 | 526 | Andrew Coulter |
-| 448 | 524 | Bearman |
-| 449 | 522 | Wacky Balancer |
-| 450 | 522 | SAP |
-| 451 | 521 | gucci |
+| 447 | 526 | gucci |
+| 448 | 526 | Andrew Coulter |
+| 449 | 524 | Bearman |
+| 450 | 522 | Wacky Balancer |
+| 451 | 522 | SAP |
 | 452 | 520 | Porkobello |
 | 453 | 520 | Dapper Twistline |
 | 454 | 520 | Allen Scott |
@@ -540,8 +540,8 @@
 | 532 | 445 | Terrance Williams |
 | 533 | 445 | tazd0629 |
 | 534 | 442 | Seaira Allen |
-| 535 | 441 | Fancy Cascadebuilder |
-| 536 | 441 | Sunny Linkpiece |
+| 535 | 442 | Sunny Linkpiece |
+| 536 | 441 | Fancy Cascadebuilder |
 | 537 | 441 | Courtney Leigh Deiber |
 | 538 | 440 | BugsMama |
 | 539 | 440 | Samantha Crowley |
@@ -1617,35 +1617,35 @@
 | 1609 | 120 | David Campbell |
 | 1610 | 120 | Anthony Froelick |
 | 1611 | 120 | Yacousin |
-| 1612 | 119 | Cristian Ramirez Lazaro |
-| 1613 | 119 | R |
-| 1614 | 119 | Nikki Eaton |
-| 1615 | 119 | Matthew Foley |
-| 1616 | 119 | MrsBrown |
-| 1617 | 119 | Ras David |
-| 1618 | 119 | Purple |
-| 1619 | 119 | Schwing! |
-| 1620 | 118 | Eugenié Stephenson |
-| 1621 | 118 | Susan Marsh |
-| 1622 | 118 | Petrona |
-| 1623 | 118 | Pastel |
-| 1624 | 118 | Samantha Turzak Baker |
-| 1625 | 118 | Scott Baum |
-| 1626 | 118 | Connie Lepore-Mann |
-| 1627 | 118 | Snappy Blockfall |
-| 1628 | 117 | HAWAIIANPUNCCH |
-| 1629 | 117 | Justin Harmon |
-| 1630 | 117 | Leonna Bianchi |
-| 1631 | 117 | Ant |
-| 1632 | 117 | Josh Redmon |
-| 1633 | 117 | Linda Mccratic |
-| 1634 | 117 | Dizzy Match |
-| 1635 | 117 | mingo624 |
-| 1636 | 116 | brandi |
-| 1637 | 116 | Scotty James |
+| 1612 | 120 | Bradley Geiter |
+| 1613 | 119 | Cristian Ramirez Lazaro |
+| 1614 | 119 | R |
+| 1615 | 119 | Nikki Eaton |
+| 1616 | 119 | Matthew Foley |
+| 1617 | 119 | MrsBrown |
+| 1618 | 119 | Ras David |
+| 1619 | 119 | Purple |
+| 1620 | 119 | Schwing! |
+| 1621 | 118 | Eugenié Stephenson |
+| 1622 | 118 | Susan Marsh |
+| 1623 | 118 | Petrona |
+| 1624 | 118 | Snappy Blockfall |
+| 1625 | 118 | Pastel |
+| 1626 | 118 | Samantha Turzak Baker |
+| 1627 | 118 | Scott Baum |
+| 1628 | 118 | Connie Lepore-Mann |
+| 1629 | 117 | HAWAIIANPUNCCH |
+| 1630 | 117 | Linda Mccratic |
+| 1631 | 117 | Josh Redmon |
+| 1632 | 117 | Ant |
+| 1633 | 117 | Leonna Bianchi |
+| 1634 | 117 | Justin Harmon |
+| 1635 | 117 | Dizzy Match |
+| 1636 | 117 | mingo624 |
+| 1637 | 116 | brandi |
 | 1638 | 116 | Johnson Aryonda |
-| 1639 | 116 | Bradley Geiter |
-| 1640 | 116 | Jessa Short-Burkhart |
+| 1639 | 116 | Jessa Short-Burkhart |
+| 1640 | 116 | Scotty James |
 | 1641 | 116 | mischee |
 | 1642 | 116 | Katie Stenblom |
 | 1643 | 115 | Matthew Zimmerly |
@@ -2221,20 +2221,20 @@
 | 2213 | 58 | Krystal Schaefer |
 | 2214 | 58 | Hasty Wipegrid |
 | 2215 | 58 | Chill Balanceblock |
-| 2216 | 58 | Clever Linkroll |
-| 2217 | 58 | Magic Meli |
-| 2218 | 58 | Teresa S Mccrimon |
-| 2219 | 58 | Venus Daniels |
-| 2220 | 58 | Clifford Greeniv |
-| 2221 | 58 | Scott Hein |
-| 2222 | 57 | Amanda Fisher |
-| 2223 | 57 | Ansley Godoy |
-| 2224 | 57 | mindgames |
-| 2225 | 57 | Martel DeAndre |
-| 2226 | 57 | Laura R. Lloyd |
-| 2227 | 57 | Nestor san |
-| 2228 | 57 | Dandy Spinfit |
-| 2229 | 57 | NewMe Shortie Rodriguez |
+| 2216 | 58 | NewMe Shortie Rodriguez |
+| 2217 | 58 | Clever Linkroll |
+| 2218 | 58 | Magic Meli |
+| 2219 | 58 | Teresa S Mccrimon |
+| 2220 | 58 | Venus Daniels |
+| 2221 | 58 | Clifford Greeniv |
+| 2222 | 58 | Scott Hein |
+| 2223 | 57 | Amanda Fisher |
+| 2224 | 57 | Ansley Godoy |
+| 2225 | 57 | mindgames |
+| 2226 | 57 | Martel DeAndre |
+| 2227 | 57 | Laura R. Lloyd |
+| 2228 | 57 | Nestor san |
+| 2229 | 57 | Dandy Spinfit |
 | 2230 | 57 | Octavia Bryson |
 | 2231 | 57 | Tabitha Calvin |
 | 2232 | 57 | Zesty Piececlear |
@@ -2392,9 +2392,9 @@
 | 2384 | 46 | Lively Fitblock |
 | 2385 | 46 | Lazy Linkfall |
 | 2386 | 46 | Oh mommy |
-| 2387 | 46 | Kristine Krissy Raymond |
-| 2388 | 46 | Dayz |
-| 2389 | 46 | Mystikal72 |
+| 2387 | 46 | Mystikal72 |
+| 2388 | 46 | Kristine Krissy Raymond |
+| 2389 | 46 | Dayz |
 | 2390 | 46 | Darla Moore Gallant |
 | 2391 | 46 | Mookie Nealey |
 | 2392 | 46 | James Robert |
@@ -2456,13 +2456,13 @@
 | 2448 | 43 | Giddy Towerzone |
 | 2449 | 43 | CowboyFromHell |
 | 2450 | 43 | Darlene |
-| 2451 | 43 | Dreamy Swipe |
-| 2452 | 43 | tcking |
-| 2453 | 42 | Speedy Pivoty |
-| 2454 | 42 | Giggy Linkblock |
-| 2455 | 42 | Juju |
-| 2456 | 42 | Allen Henley Jr. |
-| 2457 | 42 | William Page |
+| 2451 | 43 | tcking |
+| 2452 | 43 | Dreamy Swipe |
+| 2453 | 42 | Giggy Linkblock |
+| 2454 | 42 | William Page |
+| 2455 | 42 | Allen Henley Jr. |
+| 2456 | 42 | Juju |
+| 2457 | 42 | Speedy Pivoty |
 | 2458 | 42 | Giddy Tilefall |
 | 2459 | 42 | Rachel D Sellars |
 | 2460 | 42 | INURGURL8R |
@@ -2498,11 +2498,11 @@
 | 2490 | 41 | Alexandra Grant |
 | 2491 | 41 | Christopher Lucarelli |
 | 2492 | 41 | Scott Clark |
-| 2493 | 41 | Shawn Sigley |
-| 2494 | 40 | TiWil |
-| 2495 | 40 | Chummy Gridder |
-| 2496 | 40 | Damon Malagarie |
-| 2497 | 40 | 232 |
+| 2493 | 41 | 232 |
+| 2494 | 41 | Shawn Sigley |
+| 2495 | 40 | TiWil |
+| 2496 | 40 | Chummy Gridder |
+| 2497 | 40 | Damon Malagarie |
 | 2498 | 40 | Flashy Dropzone |
 | 2499 | 40 | Heather |
 | 2500 | 40 | Mat Matienzo |
