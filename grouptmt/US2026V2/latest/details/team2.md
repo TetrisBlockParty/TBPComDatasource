@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 07:25:23 UTC
+# Standings for team2 as of 2026-03-18 07:26:46 UTC
 
 **Total Participants:** 3271
 
@@ -162,15 +162,15 @@
 | 154 | 1209 | Rafael Valentin |
 | 155 | 1189 | Sheena Hachmann |
 | 156 | 1174 | Ruby Anne |
-| 157 | 1168 | Kacee Conrad Bock |
-| 158 | 1168 | Ebo Got-Time |
-| 159 | 1158 | Dreamy Towerbuilder |
-| 160 | 1155 | Carson Goldminc |
-| 161 | 1151 | Christy Green |
-| 162 | 1142 | Buisanito |
-| 163 | 1139 | Antoinette Griffin |
-| 164 | 1138 | Katrina Schroeder |
-| 165 | 1131 | Krista Roberts |
+| 157 | 1171 | Krista Roberts |
+| 158 | 1168 | Kacee Conrad Bock |
+| 159 | 1168 | Ebo Got-Time |
+| 160 | 1158 | Dreamy Towerbuilder |
+| 161 | 1155 | Carson Goldminc |
+| 162 | 1151 | Christy Green |
+| 163 | 1142 | Buisanito |
+| 164 | 1139 | Antoinette Griffin |
+| 165 | 1138 | Katrina Schroeder |
 | 166 | 1130 | MOMOF5 |
 | 167 | 1127 | Liana Spikes |
 | 168 | 1119 | Khalysta |
@@ -414,32 +414,32 @@
 | 406 | 536 | Robyn Coleman Sadler |
 | 407 | 534 | Taghrid Ebeid |
 | 408 | 534 | Rhonda Milstead |
-| 409 | 532 | JTH |
-| 410 | 531 | Liz Wambsgans |
-| 411 | 530 | Jazzy Piecebuilder |
-| 412 | 528 | Krys Brown |
-| 413 | 527 | Jo |
-| 414 | 526 | Smiley Match |
-| 415 | 524 | Susan Dunn |
-| 416 | 523 | Brandie Marie Miles |
-| 417 | 522 | kippykay |
-| 418 | 522 | Zane |
-| 419 | 522 | Ashley Leonard |
-| 420 | 521 | Nice queen |
-| 421 | 521 | Nicci |
-| 422 | 521 | Jenn Dandle |
-| 423 | 520 | Dreamy Clicky |
-| 424 | 520 | Poppy |
-| 425 | 520 | btchboy |
-| 426 | 519 | Ashley Danielle |
+| 409 | 533 | Ashley Danielle |
+| 410 | 532 | JTH |
+| 411 | 531 | Liz Wambsgans |
+| 412 | 530 | Jazzy Piecebuilder |
+| 413 | 528 | Krys Brown |
+| 414 | 527 | Jo |
+| 415 | 526 | Smiley Match |
+| 416 | 524 | Susan Dunn |
+| 417 | 523 | Brandie Marie Miles |
+| 418 | 522 | kippykay |
+| 419 | 522 | Zane |
+| 420 | 522 | Ashley Leonard |
+| 421 | 521 | Nice queen |
+| 422 | 521 | Nicci |
+| 423 | 521 | Jenn Dandle |
+| 424 | 520 | Dreamy Clicky |
+| 425 | 520 | Poppy |
+| 426 | 520 | btchboy |
 | 427 | 519 | Jumpy Breaker |
-| 428 | 517 | Tony Tran |
-| 429 | 517 | Angela Srubar-Norman |
-| 430 | 515 | Shiny Gridmatch |
-| 431 | 514 | João Paulo |
-| 432 | 513 | squareMel |
-| 433 | 512 | SterlingTeri |
-| 434 | 512 | Charleen Beyer |
+| 428 | 518 | Charleen Beyer |
+| 429 | 517 | Tony Tran |
+| 430 | 517 | Angela Srubar-Norman |
+| 431 | 515 | Shiny Gridmatch |
+| 432 | 514 | João Paulo |
+| 433 | 513 | squareMel |
+| 434 | 512 | SterlingTeri |
 | 435 | 512 | Randy Jansen |
 | 436 | 511 | Lucy Honer |
 | 437 | 509 | Christine Soltis |
@@ -482,22 +482,22 @@
 | 474 | 475 | Troy |
 | 475 | 474 | Eugenio Moquete |
 | 476 | 474 | Carmen Jnvm |
-| 477 | 469 | Jo Frohwein |
-| 478 | 469 | Tori Bowers |
+| 477 | 469 | Tori Bowers |
+| 478 | 469 | Jo Frohwein |
 | 479 | 468 | Tipsy Riseclear |
 | 480 | 468 | Jean Yap |
 | 481 | 468 | Giggly Shiftsnap |
 | 482 | 468 | Cushalee Howard |
-| 483 | 467 | Alyssa Graham |
-| 484 | 465 | Jen Louie |
+| 483 | 467 | Jen Louie |
+| 484 | 467 | Alyssa Graham |
 | 485 | 465 | Jess Meyers |
 | 486 | 464 | Courtney Cicoria |
 | 487 | 464 | Toohotwifey4u2 |
 | 488 | 463 | Layle Miranda Madsen |
 | 489 | 462 | Alexx Anaya |
 | 490 | 462 | Anthony Magaraci |
-| 491 | 460 | SassyCarebear |
-| 492 | 460 | GirlMom5 |
+| 491 | 460 | GirlMom5 |
+| 492 | 460 | SassyCarebear |
 | 493 | 460 | Shelly Marie Lloyd |
 | 494 | 457 | LeNae TwoBarbie McEachin |
 | 495 | 457 | Kelly Elizabeth Clark |
@@ -508,15 +508,15 @@
 | 500 | 450 | Quirky Matchfit |
 | 501 | 450 | NDPeanut |
 | 502 | 448 | Dreamy Snapbuilder |
-| 503 | 447 | Cynthia Prouse |
-| 504 | 447 | Lawan Dixon |
-| 505 | 447 | Starr |
-| 506 | 447 | Nikki Speer |
-| 507 | 447 | Ess |
+| 503 | 447 | Lawan Dixon |
+| 504 | 447 | Nikki Speer |
+| 505 | 447 | Ess |
+| 506 | 447 | Cynthia Prouse |
+| 507 | 447 | Starr |
 | 508 | 446 | Rachel Anne |
 | 509 | 445 | Brenda Lee Vander Molen |
-| 510 | 444 | Mike Davis |
-| 511 | 444 | Jeremy Null |
+| 510 | 444 | Jeremy Null |
+| 511 | 444 | Mike Davis |
 | 512 | 443 | Lora |
 | 513 | 443 | Brady Riessen |
 | 514 | 442 | Slinky Rollpiece |
@@ -531,14 +531,14 @@
 | 523 | 435 | Breanna Lemus |
 | 524 | 435 | Christian A. Pollard |
 | 525 | 433 | Jess |
-| 526 | 431 | Elizabeth Diraffaele |
+| 526 | 431 | Arkei Luster |
 | 527 | 431 | Mary Love |
-| 528 | 431 | Arkei Luster |
+| 528 | 431 | Elizabeth Diraffaele |
 | 529 | 431 | Brittany Backus |
 | 530 | 430 | Nicole McLean |
-| 531 | 429 | NoShoesNation |
-| 532 | 429 | smoke1 |
-| 533 | 429 | Winner |
+| 531 | 429 | smoke1 |
+| 532 | 429 | Winner |
+| 533 | 429 | NoShoesNation |
 | 534 | 428 | Joe Smith |
 | 535 | 427 | Torie Snyder |
 | 536 | 427 | Allison L Tiffany |
@@ -1801,10 +1801,10 @@
 | 1793 | 97 | Barb Swartzendruber |
 | 1794 | 97 | RzrbkParty |
 | 1795 | 96 | Paul Squier |
-| 1796 | 96 | Zesty Dasher |
-| 1797 | 96 | Cheeky Cornerfall |
-| 1798 | 96 | Danielle Carle |
-| 1799 | 96 | Crystal Jeffers |
+| 1796 | 96 | Cheeky Cornerfall |
+| 1797 | 96 | Zesty Dasher |
+| 1798 | 96 | Crystal Jeffers |
+| 1799 | 96 | Danielle Carle |
 | 1800 | 96 | Lazy Swiper |
 | 1801 | 96 | Dapper Stacker |
 | 1802 | 96 | Dan Smith |
@@ -1814,9 +1814,9 @@
 | 1806 | 95 | Carla B Linker |
 | 1807 | 95 | Jeremiah Bedwell |
 | 1808 | 95 | Jaimie Lynn Casias |
-| 1809 | 95 | Sheila Massey Dotson |
-| 1810 | 95 | Amy Siebenhaar |
-| 1811 | 95 | Goofy Basegrid |
+| 1809 | 95 | Goofy Basegrid |
+| 1810 | 95 | Sheila Massey Dotson |
+| 1811 | 95 | Amy Siebenhaar |
 | 1812 | 95 | Jimmy Bowden |
 | 1813 | 95 | Tasha Willing |
 | 1814 | 95 | Poppy Linkpiece |
@@ -1825,39 +1825,39 @@
 | 1817 | 94 | Rebecca Frango |
 | 1818 | 94 | Loony Towerzone |
 | 1819 | 94 | Chrystyne |
-| 1820 | 94 | Cheeky Brickfit |
-| 1821 | 94 | Brian Marsico |
-| 1822 | 94 | Melissa |
-| 1823 | 94 | Angie Waters |
-| 1824 | 93 | Kimberly Ann |
-| 1825 | 93 | PatsyGSD4eva |
-| 1826 | 93 | Durand Douglas |
+| 1820 | 94 | Candice Bertie |
+| 1821 | 94 | Cheeky Brickfit |
+| 1822 | 94 | Brian Marsico |
+| 1823 | 94 | Melissa |
+| 1824 | 94 | Angie Waters |
+| 1825 | 93 | Kimberly Ann |
+| 1826 | 93 | PatsyGSD4eva |
 | 1827 | 93 | Riane Sussman |
-| 1828 | 93 | izzy |
-| 1829 | 92 | Step White |
-| 1830 | 92 | Leshea L Brandi |
-| 1831 | 92 | Sarah Count-it All-Joy |
-| 1832 | 92 | Ruffrider27 |
-| 1833 | 92 | Hediyuda |
-| 1834 | 91 | Lilly Frost |
-| 1835 | 91 | CG2026 |
-| 1836 | 91 | Ernest Troutman |
-| 1837 | 91 | DeAnne Geier Wade |
-| 1838 | 91 | Erichalyn |
-| 1839 | 91 | Loony Snapper |
-| 1840 | 91 | Nerdy Risebuilder |
-| 1841 | 91 | Mariah SanCartier |
-| 1842 | 91 | Virginia Walker |
-| 1843 | 91 | Jennifer Moynihan Lawton |
-| 1844 | 91 | Gypsy |
-| 1845 | 91 | Candice Bertie |
+| 1828 | 93 | Durand Douglas |
+| 1829 | 93 | izzy |
+| 1830 | 92 | Step White |
+| 1831 | 92 | Leshea L Brandi |
+| 1832 | 92 | Sarah Count-it All-Joy |
+| 1833 | 92 | Ruffrider27 |
+| 1834 | 92 | Hediyuda |
+| 1835 | 91 | Lilly Frost |
+| 1836 | 91 | CG2026 |
+| 1837 | 91 | Ernest Troutman |
+| 1838 | 91 | DeAnne Geier Wade |
+| 1839 | 91 | Erichalyn |
+| 1840 | 91 | Loony Snapper |
+| 1841 | 91 | Nerdy Risebuilder |
+| 1842 | 91 | Mariah SanCartier |
+| 1843 | 91 | Virginia Walker |
+| 1844 | 91 | Jennifer Moynihan Lawton |
+| 1845 | 91 | Gypsy |
 | 1846 | 90 | Skeetris |
-| 1847 | 90 | Alysia Clare |
-| 1848 | 90 | Avi Quijada |
+| 1847 | 90 | Gina Nicotra |
+| 1848 | 90 | Alysia Clare |
 | 1849 | 90 | Sonceria Ingram-Ford |
 | 1850 | 90 | Tina Franklin |
-| 1851 | 90 | Gina Nicotra |
-| 1852 | 90 | Stabitha Christie |
+| 1851 | 90 | Stabitha Christie |
+| 1852 | 90 | Avi Quijada |
 | 1853 | 90 | Terry Fabian |
 | 1854 | 90 | Plucky Clusterer |
 | 1855 | 90 | Zesty Tiler |
