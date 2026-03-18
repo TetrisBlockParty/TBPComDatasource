@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 11:30:46 UTC
+# Standings for team1 as of 2026-03-18 11:31:23 UTC
 
 **Total Participants:** 3252
 
@@ -18,7 +18,7 @@
 | 10 | 12596 | Grace Kelly |
 | 11 | 11500 | Jessica Sheehan |
 | 12 | 11348 | Dizzy Stagger |
-| 13 | 10341 | Katie Daniels |
+| 13 | 10361 | Katie Daniels |
 | 14 | 9993 | Amy Jerman |
 | 15 | 9640 | Robert Jansen |
 | 16 | 9539 | Angel Smith |
@@ -325,14 +325,14 @@
 | 317 | 734 | Marianne Lopez |
 | 318 | 733 | Chuck Williams |
 | 319 | 731 | Aaron M Luna |
-| 320 | 726 | gucci |
-| 321 | 725 | Cesar Morelos |
-| 322 | 724 | Roary Danner |
-| 323 | 722 | Megan Treacy |
-| 324 | 720 | Dee |
-| 325 | 720 | Jamilah Abdul-Hakeem |
-| 326 | 719 | Amanda Huckstep |
-| 327 | 718 | Armin Muhamed |
+| 320 | 728 | Armin Muhamed |
+| 321 | 726 | gucci |
+| 322 | 725 | Cesar Morelos |
+| 323 | 724 | Roary Danner |
+| 324 | 722 | Megan Treacy |
+| 325 | 720 | Dee |
+| 326 | 720 | Jamilah Abdul-Hakeem |
+| 327 | 719 | Amanda Huckstep |
 | 328 | 717 | Boldy Clear |
 | 329 | 710 | Rose Anna |
 | 330 | 707 | BrownNinj |
@@ -563,16 +563,16 @@
 | 555 | 443 | Sunny Linkpiece |
 | 556 | 442 | Seaira Allen |
 | 557 | 441 | Courtney Leigh Deiber |
-| 558 | 440 | Ash |
-| 559 | 440 | BugsMama |
-| 560 | 440 | Samantha Crowley |
-| 561 | 440 | Eichwife78 |
-| 562 | 439 | anshu |
-| 563 | 439 | Speedy Blockbuilder |
+| 558 | 440 | Wendy Griffith |
+| 559 | 440 | Ash |
+| 560 | 440 | BugsMama |
+| 561 | 440 | Samantha Crowley |
+| 562 | 440 | Eichwife78 |
+| 563 | 439 | anshu |
 | 564 | 439 | Stephen Glaze |
-| 565 | 437 | Wendy Griffith |
-| 566 | 437 | Jaay |
-| 567 | 437 | Angela |
+| 565 | 439 | Speedy Blockbuilder |
+| 566 | 437 | Angela |
+| 567 | 437 | Jaay |
 | 568 | 435 | Lynn Adams |
 | 569 | 434 | Gabriel Archer |
 | 570 | 433 | Dreamy Matchclear |
@@ -1971,47 +1971,47 @@
 | 1963 | 81 | Danny Ortiz |
 | 1964 | 81 | Bryan Dickerson |
 | 1965 | 81 | LuLa |
-| 1966 | 81 | Yolanda Odgers |
-| 1967 | 81 | Bubbly Chiseler |
-| 1968 | 80 | çushy |
-| 1969 | 80 | Swift |
+| 1966 | 81 | Bubbly Chiseler |
+| 1967 | 81 | Yolanda Odgers |
+| 1968 | 80 | Swift |
+| 1969 | 80 | Rita Sunshyne |
 | 1970 | 80 | Meiche Penn |
 | 1971 | 80 | NewMe Shortie Rodriguez |
-| 1972 | 80 | Katt Brown-Thomas |
-| 1973 | 80 | Ne'Chaun Curtis |
-| 1974 | 80 | Rita Sunshyne |
-| 1975 | 80 | Otohime |
-| 1976 | 80 | Nikita T Miller |
-| 1977 | 80 | Nerdy Bridger |
-| 1978 | 80 | LiL jen |
-| 1979 | 80 | Michele Kleven-Simon |
-| 1980 | 80 | Christi Burley |
-| 1981 | 80 | Cheeky Tilemaker |
-| 1982 | 80 | Amanda Alt Caplinger |
-| 1983 | 80 | Amber Johnson |
+| 1972 | 80 | Chill Pivot |
+| 1973 | 80 | Katt Brown-Thomas |
+| 1974 | 80 | Ne'Chaun Curtis |
+| 1975 | 80 | çushy |
+| 1976 | 80 | Otohime |
+| 1977 | 80 | Nikita T Miller |
+| 1978 | 80 | Nerdy Bridger |
+| 1979 | 80 | LiL jen |
+| 1980 | 80 | Michele Kleven-Simon |
+| 1981 | 80 | Christi Burley |
+| 1982 | 80 | Cheeky Tilemaker |
+| 1983 | 80 | Amanda Alt Caplinger |
 | 1984 | 80 | ppp |
-| 1985 | 80 | Jumpy Winder |
-| 1986 | 80 | Dionie Pina |
-| 1987 | 80 | GuttaAce |
-| 1988 | 79 | Gfly |
-| 1989 | 79 | Swanky Tetrisline |
-| 1990 | 79 | Swanky Tiltpiece |
-| 1991 | 79 | Nikka |
-| 1992 | 79 | Marcia Crumpton |
-| 1993 | 79 | Glitzy Linkpiece |
-| 1994 | 79 | Happy Snapline |
-| 1995 | 79 | Ethan Balling |
-| 1996 | 79 | Saucy curvr |
-| 1997 | 78 | Michael Ehrich |
-| 1998 | 78 | Lisa Gayle Skinner |
-| 1999 | 78 | Nora Smith |
-| 2000 | 78 | Witty Towerfit |
-| 2001 | 78 | Henry Henry |
-| 2002 | 78 | sadi |
-| 2003 | 78 | Brandi Taylor |
+| 1985 | 80 | Dionie Pina |
+| 1986 | 80 | Jumpy Winder |
+| 1987 | 80 | Amber Johnson |
+| 1988 | 80 | GuttaAce |
+| 1989 | 79 | Nikka |
+| 1990 | 79 | Swanky Tetrisline |
+| 1991 | 79 | Saucy curvr |
+| 1992 | 79 | Gfly |
+| 1993 | 79 | Happy Snapline |
+| 1994 | 79 | Swanky Tiltpiece |
+| 1995 | 79 | Marcia Crumpton |
+| 1996 | 79 | Glitzy Linkpiece |
+| 1997 | 79 | Ethan Balling |
+| 1998 | 78 | Michael Ehrich |
+| 1999 | 78 | Brandi Taylor |
+| 2000 | 78 | Henry Henry |
+| 2001 | 78 | Witty Towerfit |
+| 2002 | 78 | Nora Smith |
+| 2003 | 78 | Lisa Gayle Skinner |
 | 2004 | 78 | Sue Carpenter |
 | 2005 | 78 | Alex Johnson-nelson |
-| 2006 | 78 | Chill Pivot |
+| 2006 | 78 | sadi |
 | 2007 | 78 | boomsday |
 | 2008 | 77 | Justwinginit4now |
 | 2009 | 77 | Shiny Crawler |
@@ -2019,13 +2019,13 @@
 | 2011 | 76 | Brandi Daigle |
 | 2012 | 76 | Tabitha Collens |
 | 2013 | 76 | Lentoya Jackson |
-| 2014 | 75 | Jess |
-| 2015 | 75 | Dan Haskins |
-| 2016 | 75 | Speedy Glider |
-| 2017 | 75 | Lupiness |
-| 2018 | 75 | Frothy Dashpiece |
-| 2019 | 75 | Mighty Strike |
-| 2020 | 75 | Cecilia Thompson |
+| 2014 | 75 | Cecilia Thompson |
+| 2015 | 75 | Frothy Dashpiece |
+| 2016 | 75 | Lupiness |
+| 2017 | 75 | Dan Haskins |
+| 2018 | 75 | Speedy Glider |
+| 2019 | 75 | Jess |
+| 2020 | 75 | Mighty Strike |
 | 2021 | 75 | Speedy Towerzone |
 | 2022 | 75 | Jennifer Brown |
 | 2023 | 75 | Joanne Marie |
@@ -2086,22 +2086,22 @@
 | 2078 | 70 | Nerdbomb |
 | 2079 | 70 | Faith Dupuis |
 | 2080 | 70 | Heather Walters |
-| 2081 | 70 | Twisted Fish |
-| 2082 | 70 | Theresa Franklin Stevens |
-| 2083 | 69 | Drifter76 |
-| 2084 | 69 | Ric Hard Hernandez |
-| 2085 | 69 | pretty kitty |
-| 2086 | 69 | Ryan Carr |
-| 2087 | 69 | Nutty Shiftsnap |
-| 2088 | 69 | Monica Gonzalez Rios |
-| 2089 | 69 | Krystalyn Newman |
-| 2090 | 69 | ace |
-| 2091 | 68 | Earnest R Nichols |
-| 2092 | 68 | Zany Blockzone |
-| 2093 | 68 | Roo |
-| 2094 | 68 | Cool Blocker |
-| 2095 | 68 | dolla bill |
-| 2096 | 68 | Flashy Snapper |
+| 2081 | 70 | Flashy Snapper |
+| 2082 | 70 | Twisted Fish |
+| 2083 | 70 | Theresa Franklin Stevens |
+| 2084 | 69 | Drifter76 |
+| 2085 | 69 | Ric Hard Hernandez |
+| 2086 | 69 | pretty kitty |
+| 2087 | 69 | Ryan Carr |
+| 2088 | 69 | Nutty Shiftsnap |
+| 2089 | 69 | Monica Gonzalez Rios |
+| 2090 | 69 | Krystalyn Newman |
+| 2091 | 69 | ace |
+| 2092 | 68 | Earnest R Nichols |
+| 2093 | 68 | Zany Blockzone |
+| 2094 | 68 | Roo |
+| 2095 | 68 | Cool Blocker |
+| 2096 | 68 | dolla bill |
 | 2097 | 68 | Teela Downs |
 | 2098 | 68 | Jennifer Brandle |
 | 2099 | 68 | Tedashi |
