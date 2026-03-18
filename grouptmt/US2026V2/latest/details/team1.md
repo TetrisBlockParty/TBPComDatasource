@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 09:06:30 UTC
+# Standings for team1 as of 2026-03-18 09:07:19 UTC
 
 **Total Participants:** 3240
 
@@ -68,7 +68,7 @@
 | 60 | 3162 | Sarah Henniker |
 | 61 | 3102 | Hellsin |
 | 62 | 3049 | Walter Beltran |
-| 63 | 2988 | Lexx Oliver |
+| 63 | 2989 | Lexx Oliver |
 | 64 | 2961 | Sherri Drews |
 | 65 | 2912 | Howard Forest |
 | 66 | 2886 | Jeremy Stiltner |
@@ -245,8 +245,8 @@
 | 237 | 951 | Mighty Patternbuilder |
 | 238 | 948 | Bigg Guy |
 | 239 | 944 | Stefanie Champion |
-| 240 | 938 | Ramona Gulledge |
-| 241 | 938 | Tyle Armstead |
+| 240 | 938 | Tyle Armstead |
+| 241 | 938 | Ramona Gulledge |
 | 242 | 938 | Jodi Fichter |
 | 243 | 934 | Fairrun James |
 | 244 | 930 | Rat666 |
@@ -254,12 +254,12 @@
 | 246 | 923 | Kim Bays |
 | 247 | 916 | TRCuse |
 | 248 | 914 | Muhammad |
-| 249 | 913 | Heather Bell |
+| 249 | 914 | Poppy Fallzone |
 | 250 | 913 | Lavender |
-| 251 | 909 | Loopy Brickmatch |
-| 252 | 904 | Angela Lucille |
-| 253 | 902 | Rennon Scott Wilson |
-| 254 | 900 | Poppy Fallzone |
+| 251 | 913 | Heather Bell |
+| 252 | 909 | Loopy Brickmatch |
+| 253 | 904 | Angela Lucille |
+| 254 | 902 | Rennon Scott Wilson |
 | 255 | 898 | Nikita Nelson |
 | 256 | 897 | Chris Kelly |
 | 257 | 894 | KK |
@@ -1306,27 +1306,27 @@
 | 1298 | 172 | tox |
 | 1299 | 172 | Bryant Rodriguez |
 | 1300 | 172 | Bobbie Duty |
-| 1301 | 171 | Cara Leonard |
-| 1302 | 171 | Jessica |
+| 1301 | 171 | Stephanie Elizabeth Blake |
+| 1302 | 171 | Cara Leonard |
 | 1303 | 171 | Phyllis Odister |
-| 1304 | 170 | BDubb |
+| 1304 | 171 | Jessica |
 | 1305 | 170 | Jason Dickess |
 | 1306 | 170 | J. |
-| 1307 | 169 | Meagan Nicole |
-| 1308 | 169 | Nutty Glide |
-| 1309 | 169 | sgt baby |
-| 1310 | 169 | Crystal Conklin |
-| 1311 | 169 | Jerome Gunst |
-| 1312 | 169 | Dave Emig |
-| 1313 | 169 | Peppy Dropmatch |
-| 1314 | 169 | Stephanie Elizabeth Blake |
-| 1315 | 168 | Boldy Grabber |
+| 1307 | 170 | BDubb |
+| 1308 | 169 | Crystal Conklin |
+| 1309 | 169 | Jerome Gunst |
+| 1310 | 169 | Dave Emig |
+| 1311 | 169 | Peppy Dropmatch |
+| 1312 | 169 | sgt baby |
+| 1313 | 169 | Nutty Glide |
+| 1314 | 169 | Meagan Nicole |
+| 1315 | 168 | Blkfroggy |
 | 1316 | 168 | Oscar Ferguson |
 | 1317 | 168 | Amanda Pauldo-Ivy |
 | 1318 | 168 | Bob Sitts |
 | 1319 | 168 | Christina Rentz-Lane |
 | 1320 | 168 | Sassyshell |
-| 1321 | 168 | Blkfroggy |
+| 1321 | 168 | Boldy Grabber |
 | 1322 | 167 | Mariah Cornell |
 | 1323 | 167 | Tammy Watson |
 | 1324 | 167 | Blockface |
@@ -1994,81 +1994,81 @@
 | 1986 | 78 | boomsday |
 | 1987 | 77 | j and k |
 | 1988 | 77 | Justwinginit4now |
-| 1989 | 76 | Brandi Daigle |
-| 1990 | 76 | Linda Clement |
-| 1991 | 76 | Tabitha Collens |
-| 1992 | 76 | Lentoya Jackson |
+| 1989 | 76 | Linda Clement |
+| 1990 | 76 | Brandi Daigle |
+| 1991 | 76 | Lentoya Jackson |
+| 1992 | 76 | Tabitha Collens |
 | 1993 | 75 | Shannon Green |
-| 1994 | 75 | Speedy Towerzone |
-| 1995 | 75 | Jennifer Brown |
-| 1996 | 75 | Cecilia Thompson |
-| 1997 | 75 | Lupiness |
-| 1998 | 75 | Dan Haskins |
+| 1994 | 75 | Mighty Strike |
+| 1995 | 75 | Speedy Towerzone |
+| 1996 | 75 | Nicole Casey Langley |
+| 1997 | 75 | Jennifer Brown |
+| 1998 | 75 | Cecilia Thompson |
 | 1999 | 75 | Tbuzz |
 | 2000 | 75 | Chase Hermès Bakken |
 | 2001 | 75 | Frothy Dashpiece |
 | 2002 | 75 | Perky Glidebuilder |
-| 2003 | 75 | Speedy Glider |
+| 2003 | 75 | Lupiness |
 | 2004 | 75 | Joanne Marie |
 | 2005 | 75 | Ethan Cox |
 | 2006 | 75 | Jess |
-| 2007 | 75 | Nicole Casey Langley |
-| 2008 | 75 | Mighty Strike |
-| 2009 | 74 | Sara Klein |
-| 2010 | 74 | Christy Marshall |
-| 2011 | 74 | Loopy Zonepiece |
-| 2012 | 74 | Chirpy Blockroll |
-| 2013 | 74 | kelso |
+| 2007 | 75 | Dan Haskins |
+| 2008 | 75 | Speedy Glider |
+| 2009 | 74 | Nikki Robinson |
+| 2010 | 74 | kelso |
+| 2011 | 74 | Chirpy Blockroll |
+| 2012 | 74 | Sara Klein |
+| 2013 | 74 | Christy Marshall |
 | 2014 | 74 | Nicole Williams |
-| 2015 | 74 | Candace Levan |
-| 2016 | 74 | Nikki Robinson |
-| 2017 | 74 | Mandi Marie |
-| 2018 | 74 | Daniel Babb |
-| 2019 | 73 | Ellieshay |
+| 2015 | 74 | Loopy Zonepiece |
+| 2016 | 74 | Mandi Marie |
+| 2017 | 74 | Daniel Babb |
+| 2018 | 74 | Candace Levan |
+| 2019 | 73 | Michelle Pritchard |
 | 2020 | 73 | Liz M Durfee |
-| 2021 | 73 | Bean |
-| 2022 | 73 | CalBear |
-| 2023 | 73 | Michelle Pritchard |
+| 2021 | 73 | CalBear |
+| 2022 | 73 | frasls |
+| 2023 | 73 | Betty Ann Saavedra |
 | 2024 | 73 | Nutty Liney |
-| 2025 | 73 | Betty Ann Saavedra |
-| 2026 | 73 | frasls |
+| 2025 | 73 | Ellieshay |
+| 2026 | 73 | Bean |
 | 2027 | 73 | Anna Mifsud |
 | 2028 | 73 | kube |
 | 2029 | 73 | Daring Tile |
-| 2030 | 72 | Belinda Girard |
-| 2031 | 72 | Michael Ehrich |
+| 2030 | 72 | Jacob Lee Grinvalds |
+| 2031 | 72 | Kaitlyn Mambro |
 | 2032 | 72 | Derrick See |
-| 2033 | 72 | Kaitlyn Mambro |
-| 2034 | 72 | Ashley Adams |
-| 2035 | 72 | dave420 |
-| 2036 | 72 | Patrick Cordova |
-| 2037 | 72 | Bubbly Corner |
-| 2038 | 72 | Tristen Glass |
-| 2039 | 72 | Jacob Lee Grinvalds |
-| 2040 | 72 | George Biddle |
-| 2041 | 72 | Dizzy Snapper |
-| 2042 | 72 | Chipper Snapfit |
-| 2043 | 72 | Cameron Burke |
-| 2044 | 71 | ibtsoom |
+| 2033 | 72 | Michael Ehrich |
+| 2034 | 72 | dave420 |
+| 2035 | 72 | Cameron Burke |
+| 2036 | 72 | Jessica Pender |
+| 2037 | 72 | Chipper Snapfit |
+| 2038 | 72 | Dizzy Snapper |
+| 2039 | 72 | George Biddle |
+| 2040 | 72 | Patrick Cordova |
+| 2041 | 72 | Belinda Girard |
+| 2042 | 72 | Tristen Glass |
+| 2043 | 72 | Ashley Adams |
+| 2044 | 72 | Bubbly Corner |
 | 2045 | 71 | ohmoogirl |
-| 2046 | 71 | John McCarthy II |
-| 2047 | 71 | Giggly Clearfit |
-| 2048 | 70 | GuttaAce |
-| 2049 | 70 | Lynette Tamlin |
-| 2050 | 70 | Theresa Franklin Stevens |
-| 2051 | 70 | Bill Sayed |
+| 2046 | 71 | ibtsoom |
+| 2047 | 71 | John McCarthy II |
+| 2048 | 71 | Giggly Clearfit |
+| 2049 | 70 | GuttaAce |
+| 2050 | 70 | Lynette Tamlin |
+| 2051 | 70 | Frothy Tetrisline |
 | 2052 | 70 | Twisted Fish |
-| 2053 | 70 | Frothy Tetrisline |
-| 2054 | 70 | Theresa Stanley |
-| 2055 | 70 | Heather Walters |
-| 2056 | 70 | Faith Dupuis |
-| 2057 | 70 | Sherlyn Zavala |
-| 2058 | 70 | Annette Jordan |
-| 2059 | 70 | Josh Ferguson |
-| 2060 | 70 | JBond007 |
-| 2061 | 70 | John Cruz |
-| 2062 | 70 | Nerdbomb |
-| 2063 | 69 | Jessica Pender |
+| 2053 | 70 | Theresa Franklin Stevens |
+| 2054 | 70 | Bill Sayed |
+| 2055 | 70 | Theresa Stanley |
+| 2056 | 70 | Heather Walters |
+| 2057 | 70 | Faith Dupuis |
+| 2058 | 70 | Sherlyn Zavala |
+| 2059 | 70 | Annette Jordan |
+| 2060 | 70 | Josh Ferguson |
+| 2061 | 70 | JBond007 |
+| 2062 | 70 | John Cruz |
+| 2063 | 70 | Nerdbomb |
 | 2064 | 69 | Ryan Carr |
 | 2065 | 69 | pretty kitty |
 | 2066 | 69 | Drifter76 |
