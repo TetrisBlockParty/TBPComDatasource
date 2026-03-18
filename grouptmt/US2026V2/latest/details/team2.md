@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-18 09:00:50 UTC
+# Standings for team2 as of 2026-03-18 09:01:31 UTC
 
 **Total Participants:** 3280
 
@@ -907,44 +907,44 @@
 | 899 | 256 | Kimmie Gargano |
 | 900 | 256 | Crystal Brown-Miles |
 | 901 | 256 | Robert Fenton |
-| 902 | 255 | Shane Gann |
-| 903 | 255 | Lisa Kline |
-| 904 | 255 | Shiny Framezone |
-| 905 | 255 | Briaa Williams |
-| 906 | 255 | Chalanda Jefferies |
-| 907 | 254 | Shauna Hansen |
-| 908 | 252 | Bucks Joe |
-| 909 | 251 | Chipper Smasher |
-| 910 | 251 | Nilla |
-| 911 | 251 | swaggysteph |
-| 912 | 251 | Karina Rodriguez |
-| 913 | 250 | Mahdi Evans |
-| 914 | 250 | Selena Combee |
-| 915 | 250 | Stephanie Reust Camp |
-| 916 | 250 | Rhonda Prince |
-| 917 | 249 | Cece Ibarra |
-| 918 | 249 | TinaMarie Montone |
-| 919 | 249 | Steve Ouellet |
-| 920 | 249 | Tanisha Foster |
-| 921 | 248 | Armand Drayton |
-| 922 | 248 | Matthew Heffran |
-| 923 | 247 | Kelly |
-| 924 | 247 | Cathleena Giusto |
-| 925 | 247 | Jeanine Macrina |
-| 926 | 247 | Daniel Moore |
-| 927 | 247 | Amandalorian |
-| 928 | 247 | Hector Gutierrez |
-| 929 | 246 | Dbabe |
-| 930 | 246 | Twisty Balanceblock |
-| 931 | 246 | Rachel Zortman |
-| 932 | 246 | Elizabeth Reliford |
-| 933 | 246 | Darlene Simmons |
-| 934 | 245 | April Sams |
-| 935 | 245 | Alice Petterborg Barberich |
-| 936 | 245 | bruggy |
-| 937 | 243 | Aaron Dill |
-| 938 | 243 | Teresa Longwell |
-| 939 | 243 | Brendi Richardson |
+| 902 | 256 | Brendi Richardson |
+| 903 | 255 | Shane Gann |
+| 904 | 255 | Lisa Kline |
+| 905 | 255 | Shiny Framezone |
+| 906 | 255 | Briaa Williams |
+| 907 | 255 | Chalanda Jefferies |
+| 908 | 254 | Shauna Hansen |
+| 909 | 252 | Bucks Joe |
+| 910 | 251 | Chipper Smasher |
+| 911 | 251 | Nilla |
+| 912 | 251 | swaggysteph |
+| 913 | 251 | Karina Rodriguez |
+| 914 | 250 | Mahdi Evans |
+| 915 | 250 | Selena Combee |
+| 916 | 250 | Stephanie Reust Camp |
+| 917 | 250 | Rhonda Prince |
+| 918 | 249 | Cece Ibarra |
+| 919 | 249 | TinaMarie Montone |
+| 920 | 249 | Steve Ouellet |
+| 921 | 249 | Tanisha Foster |
+| 922 | 248 | Armand Drayton |
+| 923 | 248 | Matthew Heffran |
+| 924 | 247 | Kelly |
+| 925 | 247 | Cathleena Giusto |
+| 926 | 247 | Jeanine Macrina |
+| 927 | 247 | Daniel Moore |
+| 928 | 247 | Amandalorian |
+| 929 | 247 | Hector Gutierrez |
+| 930 | 246 | Dbabe |
+| 931 | 246 | Twisty Balanceblock |
+| 932 | 246 | Rachel Zortman |
+| 933 | 246 | Elizabeth Reliford |
+| 934 | 246 | Darlene Simmons |
+| 935 | 245 | April Sams |
+| 936 | 245 | Alice Petterborg Barberich |
+| 937 | 245 | bruggy |
+| 938 | 243 | Aaron Dill |
+| 939 | 243 | Teresa Longwell |
 | 940 | 243 | Nancy Lovelle Carlisle |
 | 941 | 243 | Chris |
 | 942 | 242 | Tanya Abernathy Jackson |
@@ -1216,52 +1216,52 @@
 | 1208 | 182 | Jai Sweetz |
 | 1209 | 182 | Dusti Holbrook |
 | 1210 | 182 | KayB |
-| 1211 | 181 | Laurie Raynor |
-| 1212 | 181 | Jam4 |
-| 1213 | 181 | Tiffany Leon |
-| 1214 | 181 | Carlos Landin |
-| 1215 | 180 | Ashley Moore |
-| 1216 | 180 | carzyspinner |
-| 1217 | 180 | Elizabeth Smith |
-| 1218 | 180 | Janet Eberhard |
-| 1219 | 180 | Stormy Anguish |
-| 1220 | 180 | Cheery Riserpiece |
-| 1221 | 180 | Dickie Rice |
-| 1222 | 180 | yammin |
-| 1223 | 179 | Amykins |
-| 1224 | 179 | Gracie Ann Taylor |
-| 1225 | 179 | Lush Matchgrid |
-| 1226 | 179 | Crystal Weaver |
-| 1227 | 179 | Dawn Joub |
-| 1228 | 178 | Wacky Shuffler |
-| 1229 | 178 | Cozy Tiltpiece |
-| 1230 | 178 | Perky Rollfit |
-| 1231 | 178 | Twisty Piecefit |
-| 1232 | 178 | JinxxedMozzerella |
-| 1233 | 178 | Roll1000 |
-| 1234 | 178 | Tdg Boyt |
-| 1235 | 177 | Hannah Joplin |
-| 1236 | 177 | Dragon Queen |
-| 1237 | 177 | Stacey Kauppi |
-| 1238 | 177 | Hyper Snap |
-| 1239 | 177 | Donnie Crowe |
-| 1240 | 177 | Witty Puzzler |
-| 1241 | 176 | Megan Choina |
-| 1242 | 176 | Lamarr Drayton |
-| 1243 | 176 | Melissa Jackson |
-| 1244 | 176 | Alicia Lux Arnst |
-| 1245 | 176 | Crystal Harbeson |
-| 1246 | 176 | CuteSharkz |
-| 1247 | 176 | Thomas Harmon |
-| 1248 | 176 | Alexander Zamora |
-| 1249 | 176 | Anita Johnson |
-| 1250 | 175 | Kita A Jackson |
-| 1251 | 175 | Jumpy Crawler |
-| 1252 | 175 | Phanatic2008 |
-| 1253 | 175 | Annette Ostrander |
-| 1254 | 175 | PuppaT |
-| 1255 | 175 | Amanda Dorlan |
-| 1256 | 175 | Cupcake |
+| 1211 | 181 | Cupcake |
+| 1212 | 181 | Laurie Raynor |
+| 1213 | 181 | Jam4 |
+| 1214 | 181 | Tiffany Leon |
+| 1215 | 181 | Carlos Landin |
+| 1216 | 180 | Ashley Moore |
+| 1217 | 180 | carzyspinner |
+| 1218 | 180 | Elizabeth Smith |
+| 1219 | 180 | Janet Eberhard |
+| 1220 | 180 | Stormy Anguish |
+| 1221 | 180 | Cheery Riserpiece |
+| 1222 | 180 | Dickie Rice |
+| 1223 | 180 | yammin |
+| 1224 | 179 | Amykins |
+| 1225 | 179 | Gracie Ann Taylor |
+| 1226 | 179 | Lush Matchgrid |
+| 1227 | 179 | Crystal Weaver |
+| 1228 | 179 | Dawn Joub |
+| 1229 | 178 | Wacky Shuffler |
+| 1230 | 178 | Cozy Tiltpiece |
+| 1231 | 178 | Perky Rollfit |
+| 1232 | 178 | Twisty Piecefit |
+| 1233 | 178 | JinxxedMozzerella |
+| 1234 | 178 | Roll1000 |
+| 1235 | 178 | Tdg Boyt |
+| 1236 | 177 | Hannah Joplin |
+| 1237 | 177 | Dragon Queen |
+| 1238 | 177 | Stacey Kauppi |
+| 1239 | 177 | Hyper Snap |
+| 1240 | 177 | Donnie Crowe |
+| 1241 | 177 | Witty Puzzler |
+| 1242 | 176 | Megan Choina |
+| 1243 | 176 | Lamarr Drayton |
+| 1244 | 176 | Melissa Jackson |
+| 1245 | 176 | Alicia Lux Arnst |
+| 1246 | 176 | Crystal Harbeson |
+| 1247 | 176 | CuteSharkz |
+| 1248 | 176 | Thomas Harmon |
+| 1249 | 176 | Alexander Zamora |
+| 1250 | 176 | Anita Johnson |
+| 1251 | 175 | Kita A Jackson |
+| 1252 | 175 | Jumpy Crawler |
+| 1253 | 175 | Phanatic2008 |
+| 1254 | 175 | Annette Ostrander |
+| 1255 | 175 | PuppaT |
+| 1256 | 175 | Amanda Dorlan |
 | 1257 | 175 | msconfused80 |
 | 1258 | 174 | Kara Adams |
 | 1259 | 174 | Maria Lee Ardoin |
