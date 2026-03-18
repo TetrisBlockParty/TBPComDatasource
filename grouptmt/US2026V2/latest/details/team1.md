@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 14:18:46 UTC
+# Standings for team1 as of 2026-03-18 14:19:23 UTC
 
 **Total Participants:** 3287
 
@@ -738,67 +738,67 @@
 | 730 | 351 | Margo Fenton |
 | 731 | 350 | Aden Moss |
 | 732 | 350 | Jazzy Stagger |
-| 733 | 348 | Misstery |
-| 734 | 348 | David Rojas |
-| 735 | 348 | Mandy Kachenmeister |
-| 736 | 346 | Jennifer Grubbs |
-| 737 | 346 | AngelVoice JB |
+| 733 | 348 | Mandy Kachenmeister |
+| 734 | 348 | Misstery |
+| 735 | 348 | David Rojas |
+| 736 | 346 | Tammy Kunai |
+| 737 | 346 | Jennifer Grubbs |
 | 738 | 346 | Stormy May |
-| 739 | 345 | Pupcup |
-| 740 | 345 | Sonny Gomez |
-| 741 | 343 | Izzie Ramirez-Ford |
-| 742 | 343 | Melody Rene |
+| 739 | 346 | AngelVoice JB |
+| 740 | 345 | Pupcup |
+| 741 | 345 | Sonny Gomez |
+| 742 | 343 | Izzie Ramirez-Ford |
 | 743 | 343 | Qoo |
-| 744 | 342 | Crystal Rosen |
-| 745 | 341 | Nick R Johnson |
-| 746 | 341 | Kian Lee Goins |
+| 744 | 343 | Melody Rene |
+| 745 | 342 | Crystal Rosen |
+| 746 | 341 | Nick R Johnson |
 | 747 | 341 | Jason Whitehair |
 | 748 | 341 | Epic Rollbuilder |
-| 749 | 341 | Tracie Corbett |
-| 750 | 341 | Nate Funk |
-| 751 | 340 | NoIdeaWhatsGoingOn |
-| 752 | 340 | Ed Bullen |
-| 753 | 340 | Happy Clicker |
-| 754 | 340 | Jonathan Carter |
-| 755 | 340 | Jessica Russell |
-| 756 | 339 | Eric Wren |
-| 757 | 339 | Ellen Durfee |
-| 758 | 338 | Philippines |
-| 759 | 338 | Eddie Morales |
-| 760 | 338 | OzzyFan4Life |
-| 761 | 337 | Carrie Beth |
-| 762 | 337 | Lisa Klockenga |
-| 763 | 336 | Matthew Allan |
+| 749 | 341 | Kian Lee Goins |
+| 750 | 341 | Tracie Corbett |
+| 751 | 341 | Nate Funk |
+| 752 | 340 | NoIdeaWhatsGoingOn |
+| 753 | 340 | Ed Bullen |
+| 754 | 340 | Happy Clicker |
+| 755 | 340 | Jonathan Carter |
+| 756 | 340 | Jessica Russell |
+| 757 | 339 | Eric Wren |
+| 758 | 339 | Ellen Durfee |
+| 759 | 338 | Philippines |
+| 760 | 338 | Eddie Morales |
+| 761 | 338 | OzzyFan4Life |
+| 762 | 337 | Carrie Beth |
+| 763 | 337 | Lisa Klockenga |
 | 764 | 336 | Jennifer Negrete |
-| 765 | 336 | Jen |
-| 766 | 335 | Kimberly Amburn |
-| 767 | 335 | Yang Desu |
-| 768 | 334 | Melinda Perry Frazier |
-| 769 | 334 | M |
-| 770 | 333 | Christi Ames |
-| 771 | 332 | Justin Tariq |
-| 772 | 332 | Misty Blanchard |
-| 773 | 331 | Abcmasters12 |
-| 774 | 331 | Ian Silva |
-| 775 | 330 | Lilyandstuff |
-| 776 | 330 | LovelyGem0610 |
-| 777 | 330 | Spam |
-| 778 | 330 | Cozy Cascader |
-| 779 | 328 | Tessa N Davis |
-| 780 | 328 | Sassy Pivotfall |
-| 781 | 328 | Olympia |
-| 782 | 327 | Shaneeka Morrissette |
-| 783 | 327 | Anthony Scarberry |
-| 784 | 327 | Thomas Carlisle |
-| 785 | 327 | Lively Patternfall |
-| 786 | 326 | Hasbro Bros |
-| 787 | 326 | Quaheem Brown-Riley |
-| 788 | 326 | Tammy Kunai |
+| 765 | 336 | Matthew Allan |
+| 766 | 336 | Jen |
+| 767 | 335 | Kimberly Amburn |
+| 768 | 335 | Yang Desu |
+| 769 | 334 | Melinda Perry Frazier |
+| 770 | 334 | M |
+| 771 | 333 | Christi Ames |
+| 772 | 332 | Justin Tariq |
+| 773 | 332 | Misty Blanchard |
+| 774 | 331 | Abcmasters12 |
+| 775 | 331 | Ian Silva |
+| 776 | 330 | Lilyandstuff |
+| 777 | 330 | LovelyGem0610 |
+| 778 | 330 | Spam |
+| 779 | 330 | Cozy Cascader |
+| 780 | 328 | Tessa N Davis |
+| 781 | 328 | Sassy Pivotfall |
+| 782 | 328 | Olympia |
+| 783 | 327 | Lively Patternfall |
+| 784 | 327 | Anthony Scarberry |
+| 785 | 327 | Thomas Carlisle |
+| 786 | 327 | Shaneeka Morrissette |
+| 787 | 326 | Hasbro Bros |
+| 788 | 326 | Quaheem Brown-Riley |
 | 789 | 325 | Astrid C-l |
 | 790 | 324 | Brandi Poulisse Knippling |
 | 791 | 323 | Peppy Brickclear |
-| 792 | 323 | Amber Nicole |
-| 793 | 323 | Snippy Risebuilder |
+| 792 | 323 | Snippy Risebuilder |
+| 793 | 323 | Amber Nicole |
 | 794 | 323 | Chase Bristow |
 | 795 | 322 | Rob Chebetar |
 | 796 | 322 | Bigd486 |
@@ -3185,70 +3185,70 @@
 | 3177 | 9 | ElizaThornberry |
 | 3178 | 8 | Mike Flores |
 | 3179 | 8 | Jay Smooth |
-| 3180 | 8 | Jenny Cox |
-| 3181 | 8 | Boldy Spinbuilder |
-| 3182 | 8 | Mandy Cain |
-| 3183 | 8 | Sam |
-| 3184 | 8 | Jason Gonzales |
-| 3185 | 8 | Detroit |
-| 3186 | 8 | Tina Launius Turner |
-| 3187 | 8 | Cheeky Clusterfit |
-| 3188 | 8 | Anraí S Rountree |
-| 3189 | 8 | Charles Bates |
-| 3190 | 8 | Jose Arteaga |
-| 3191 | 8 | Brittany Nichole |
-| 3192 | 8 | Swanky Risegrid |
-| 3193 | 8 | MyKai Ting |
-| 3194 | 8 | Brandy Yates |
-| 3195 | 8 | Savvy Narmore |
-| 3196 | 8 | Amanda Leonard |
-| 3197 | 7 | Kuboom Pickup |
-| 3198 | 7 | Don M Gilbert |
-| 3199 | 7 | James Gonzales |
-| 3200 | 7 | Beaker |
-| 3201 | 7 | Mina Gonzales |
-| 3202 | 7 | Mdj |
-| 3203 | 7 | Lynn Dawson Moss |
-| 3204 | 7 | waylow |
-| 3205 | 7 | Yehor |
-| 3206 | 7 | Tanya Laflash |
-| 3207 | 7 | Titus |
-| 3208 | 7 | Jennifer Kime |
-| 3209 | 7 | Dizzy Blockpiece |
-| 3210 | 7 | Gary Maialetti |
-| 3211 | 7 | Orthan Blockthorn |
-| 3212 | 7 | Dizzy Fallzone |
-| 3213 | 7 | Giddy Strikesnap |
-| 3214 | 7 | Benjamin Russell Garren |
-| 3215 | 7 | Joshua Franklin Kluna |
-| 3216 | 7 | Quickyvicky |
-| 3217 | 7 | Jessica Hughes-Brighton |
-| 3218 | 7 | Daphane Harris |
-| 3219 | 7 | Jason Kwan |
-| 3220 | 7 | Flashy Setter |
-| 3221 | 7 | AceMaster |
-| 3222 | 7 | Cleer-Par178 |
-| 3223 | 7 | DG Moyt |
-| 3224 | 7 | Brster |
-| 3225 | 7 | Speedy Towerfall |
-| 3226 | 7 | SunUp665 |
-| 3227 | 7 | Boldy Tile |
-| 3228 | 7 | Loony Brick |
-| 3229 | 7 | Happy Glidebuilder |
-| 3230 | 7 | Katelyn Ryals |
-| 3231 | 7 | Jennifer Adams |
-| 3232 | 7 | Bouncy Patternfall |
-| 3233 | 7 | Saucy Gridder |
-| 3234 | 7 | Bold Shiftsnap |
+| 3180 | 8 | Steph Murray |
+| 3181 | 8 | Jenny Cox |
+| 3182 | 8 | Boldy Spinbuilder |
+| 3183 | 8 | Mandy Cain |
+| 3184 | 8 | Sam |
+| 3185 | 8 | Jason Gonzales |
+| 3186 | 8 | Detroit |
+| 3187 | 8 | Tina Launius Turner |
+| 3188 | 8 | Cheeky Clusterfit |
+| 3189 | 8 | Anraí S Rountree |
+| 3190 | 8 | Charles Bates |
+| 3191 | 8 | Jose Arteaga |
+| 3192 | 8 | Brittany Nichole |
+| 3193 | 8 | Swanky Risegrid |
+| 3194 | 8 | MyKai Ting |
+| 3195 | 8 | Brandy Yates |
+| 3196 | 8 | Savvy Narmore |
+| 3197 | 8 | Amanda Leonard |
+| 3198 | 7 | Kuboom Pickup |
+| 3199 | 7 | Don M Gilbert |
+| 3200 | 7 | James Gonzales |
+| 3201 | 7 | Beaker |
+| 3202 | 7 | Mina Gonzales |
+| 3203 | 7 | Mdj |
+| 3204 | 7 | Lynn Dawson Moss |
+| 3205 | 7 | waylow |
+| 3206 | 7 | Yehor |
+| 3207 | 7 | Tanya Laflash |
+| 3208 | 7 | Titus |
+| 3209 | 7 | Jennifer Kime |
+| 3210 | 7 | Dizzy Blockpiece |
+| 3211 | 7 | Gary Maialetti |
+| 3212 | 7 | Orthan Blockthorn |
+| 3213 | 7 | Dizzy Fallzone |
+| 3214 | 7 | Giddy Strikesnap |
+| 3215 | 7 | Benjamin Russell Garren |
+| 3216 | 7 | Joshua Franklin Kluna |
+| 3217 | 7 | Quickyvicky |
+| 3218 | 7 | Jessica Hughes-Brighton |
+| 3219 | 7 | Daphane Harris |
+| 3220 | 7 | Jason Kwan |
+| 3221 | 7 | Flashy Setter |
+| 3222 | 7 | AceMaster |
+| 3223 | 7 | Cleer-Par178 |
+| 3224 | 7 | DG Moyt |
+| 3225 | 7 | Brster |
+| 3226 | 7 | Speedy Towerfall |
+| 3227 | 7 | SunUp665 |
+| 3228 | 7 | Boldy Tile |
+| 3229 | 7 | Loony Brick |
+| 3230 | 7 | Happy Glidebuilder |
+| 3231 | 7 | Katelyn Ryals |
+| 3232 | 7 | Jennifer Adams |
+| 3233 | 7 | Bouncy Patternfall |
+| 3234 | 7 | Chill Blockline |
 | 3235 | 7 | Genevieve TheQueen Heroux |
-| 3236 | 7 | Steph Murray |
-| 3237 | 7 | La Morena |
-| 3238 | 7 | Amanda Stilwell |
-| 3239 | 7 | Brandon Potter |
-| 3240 | 7 | fluffy boi |
-| 3241 | 7 | Silly Splitter |
-| 3242 | 7 | Bogard |
-| 3243 | 7 | Chill Blockline |
+| 3236 | 7 | La Morena |
+| 3237 | 7 | Amanda Stilwell |
+| 3238 | 7 | Brandon Potter |
+| 3239 | 7 | fluffy boi |
+| 3240 | 7 | Silly Splitter |
+| 3241 | 7 | Bogard |
+| 3242 | 7 | Bold Shiftsnap |
+| 3243 | 7 | Saucy Gridder |
 | 3244 | 6 | Witty Linkbuilder |
 | 3245 | 6 | Daring Dingus |
 | 3246 | 6 | Truus Van Der Wetering |
