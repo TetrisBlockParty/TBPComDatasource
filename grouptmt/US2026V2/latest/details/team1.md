@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-18 08:40:23 UTC
+# Standings for team1 as of 2026-03-18 08:41:26 UTC
 
 **Total Participants:** 3236
 
@@ -126,9 +126,9 @@
 | 118 | 1742 | Kesha Brady |
 | 119 | 1734 | Witty Wipegrid |
 | 120 | 1733 | Dish19 |
-| 121 | 1729 | Chris Wanner |
-| 122 | 1728 | Sarah Perry Cook |
-| 123 | 1716 | Yvonne Buie |
+| 121 | 1731 | Yvonne Buie |
+| 122 | 1729 | Chris Wanner |
+| 123 | 1728 | Sarah Perry Cook |
 | 124 | 1704 | Tom |
 | 125 | 1690 | Gloria Ininahazwe |
 | 126 | 1673 | Loony Brickmatch |
@@ -461,9 +461,9 @@
 | 453 | 529 | Terry Dill |
 | 454 | 528 | Chiquita Spears |
 | 455 | 528 | Giddy Brickclear |
-| 456 | 527 | QueenBee |
-| 457 | 527 | Hasty Lift |
-| 458 | 526 | Hasty Towerpiece |
+| 456 | 527 | Hasty Towerpiece |
+| 457 | 527 | QueenBee |
+| 458 | 527 | Hasty Lift |
 | 459 | 526 | Andrew Coulter |
 | 460 | 524 | Bearman |
 | 461 | 522 | Wacky Balancer |
@@ -674,16 +674,16 @@
 | 666 | 365 | Pam Jennings Herzog |
 | 667 | 365 | Maxwell Hall |
 | 668 | 365 | Jennifer L Rutherford |
-| 669 | 363 | Aldona Figiel |
-| 670 | 363 | Happy Snapbuild |
+| 669 | 363 | Happy Snapbuild |
+| 670 | 363 | Aldona Figiel |
 | 671 | 363 | Tara |
 | 672 | 362 | Random |
 | 673 | 362 | Fancy Tilefall |
 | 674 | 362 | Pig02 |
 | 675 | 361 | Steffi Chris Dacones |
 | 676 | 361 | Mary Boo |
-| 677 | 360 | Mindy Leigh Head |
-| 678 | 360 | Lalo Enriquez |
+| 677 | 360 | Lalo Enriquez |
+| 678 | 360 | Mindy Leigh Head |
 | 679 | 359 | Twisty Blockmatch |
 | 680 | 359 | Regina Jones |
 | 681 | 359 | GinjaNinja |
@@ -700,16 +700,16 @@
 | 692 | 354 | Tameka Brown |
 | 693 | 353 | PennyCandee |
 | 694 | 353 | Natasha Velasquez Gabriel |
-| 695 | 351 | Joshua Lipscomb |
-| 696 | 351 | WEIRDINO |
-| 697 | 351 | cac |
-| 698 | 351 | Bubba_C59 |
+| 695 | 351 | WEIRDINO |
+| 696 | 351 | cac |
+| 697 | 351 | Bubba_C59 |
+| 698 | 351 | Joshua Lipscomb |
 | 699 | 351 | Margo Fenton |
 | 700 | 350 | Aden Moss |
 | 701 | 350 | Jazzy Stagger |
 | 702 | 349 | John Ham |
-| 703 | 348 | David Rojas |
-| 704 | 348 | Misstery |
+| 703 | 348 | Misstery |
+| 704 | 348 | David Rojas |
 | 705 | 346 | AngelVoice JB |
 | 706 | 346 | Stormy May |
 | 707 | 344 | Jeremy Mitchell |
@@ -718,37 +718,37 @@
 | 710 | 343 | Melody Rene |
 | 711 | 343 | Izzie Ramirez-Ford |
 | 712 | 343 | Dawn Fike |
-| 713 | 342 | Crystal Rosen |
-| 714 | 342 | Lauren Bond |
-| 715 | 341 | Nate Funk |
-| 716 | 341 | Jason Whitehair |
-| 717 | 341 | Epic Rollbuilder |
-| 718 | 341 | Tracie Corbett |
-| 719 | 340 | Ed Bullen |
-| 720 | 340 | Aseven Elements |
+| 713 | 342 | Quirky_placer |
+| 714 | 342 | Crystal Rosen |
+| 715 | 342 | Lauren Bond |
+| 716 | 341 | Nate Funk |
+| 717 | 341 | Jason Whitehair |
+| 718 | 341 | Epic Rollbuilder |
+| 719 | 341 | Tracie Corbett |
+| 720 | 340 | Jonathan Carter |
 | 721 | 340 | NoIdeaWhatsGoingOn |
-| 722 | 340 | Jonathan Carter |
-| 723 | 339 | Eric Wren |
-| 724 | 339 | Ashley Cox |
-| 725 | 338 | OzzyFan4Life |
+| 722 | 340 | Ed Bullen |
+| 723 | 340 | Aseven Elements |
+| 724 | 339 | Eric Wren |
+| 725 | 339 | Ashley Cox |
 | 726 | 338 | Scott Disedare |
-| 727 | 337 | Lisa Klockenga |
+| 727 | 338 | OzzyFan4Life |
 | 728 | 337 | Carrie Beth |
-| 729 | 336 | Jen |
-| 730 | 336 | Quirky_placer |
+| 729 | 337 | Lisa Klockenga |
+| 730 | 336 | Jen |
 | 731 | 335 | Kian Lee Goins |
 | 732 | 335 | Kimberly Amburn |
 | 733 | 334 | M |
 | 734 | 334 | Tee Tee Greene |
 | 735 | 333 | Christi Ames |
-| 736 | 332 | Misty Blanchard |
-| 737 | 332 | primus |
+| 736 | 332 | primus |
+| 737 | 332 | Misty Blanchard |
 | 738 | 331 | Ian Silva |
 | 739 | 331 | Abcmasters12 |
-| 740 | 330 | Lilyandstuff |
-| 741 | 330 | Jessica Russell |
-| 742 | 330 | LovelyGem0610 |
-| 743 | 330 | Matthew Allan |
+| 740 | 330 | Matthew Allan |
+| 741 | 330 | LovelyGem0610 |
+| 742 | 330 | Lilyandstuff |
+| 743 | 330 | Jessica Russell |
 | 744 | 329 | Ellen Durfee |
 | 745 | 328 | Tessa N Davis |
 | 746 | 328 | Olympia |
@@ -756,21 +756,21 @@
 | 748 | 327 | Lively Patternfall |
 | 749 | 327 | Anthony Scarberry |
 | 750 | 326 | Quaheem Brown-Riley |
-| 751 | 326 | Hasbro Bros |
-| 752 | 326 | Jennifer Grubbs |
-| 753 | 325 | Kevin Tate |
+| 751 | 326 | Jennifer Grubbs |
+| 752 | 326 | Hasbro Bros |
+| 753 | 325 | Astrid C-l |
 | 754 | 325 | Melinda Perry Frazier |
-| 755 | 325 | Astrid C-l |
+| 755 | 325 | Kevin Tate |
 | 756 | 325 | Roxanne Stoeckel |
 | 757 | 324 | Brandi Poulisse Knippling |
 | 758 | 323 | PRICHARD |
 | 759 | 323 | Chase Bristow |
-| 760 | 322 | Bigd486 |
-| 761 | 322 | Cassi Owens |
+| 760 | 322 | Cassi Owens |
+| 761 | 322 | Bigd486 |
 | 762 | 322 | Jessica |
-| 763 | 322 | Armoni |
-| 764 | 322 | mikey |
-| 765 | 322 | ThunderSword |
+| 763 | 322 | mikey |
+| 764 | 322 | ThunderSword |
+| 765 | 322 | Armoni |
 | 766 | 320 | Poppy Builderline |
 | 767 | 320 | Agustin Duarte Orozco |
 | 768 | 320 | NunYa |
@@ -1668,73 +1668,73 @@
 | 1660 | 114 | Zany Gridroll |
 | 1661 | 114 | Cassie Wilson |
 | 1662 | 114 | Franklin Danner |
-| 1663 | 114 | Dustin Derby |
-| 1664 | 114 | Sonya Harris Combs |
+| 1663 | 114 | Sonya Harris Combs |
+| 1664 | 114 | Dustin Derby |
 | 1665 | 114 | Lush Riseclear |
-| 1666 | 114 | Karl |
-| 1667 | 114 | Loony Match |
-| 1668 | 113 | Jeyson |
-| 1669 | 113 | Jordan Leach |
-| 1670 | 113 | Mighty Combofall |
-| 1671 | 113 | Paul Osborne |
-| 1672 | 113 | Nutty Twister |
-| 1673 | 113 | Zesty Shatterline |
-| 1674 | 113 | Felix Briseno |
-| 1675 | 112 | Samantha Cain |
-| 1676 | 112 | Crazy Blocker |
+| 1666 | 114 | Loony Match |
+| 1667 | 114 | Karl |
+| 1668 | 113 | Jordan Leach |
+| 1669 | 113 | Mighty Combofall |
+| 1670 | 113 | Felisha Marie |
+| 1671 | 113 | Jeyson |
+| 1672 | 113 | Paul Osborne |
+| 1673 | 113 | Nutty Twister |
+| 1674 | 113 | Zesty Shatterline |
+| 1675 | 113 | Felix Briseno |
+| 1676 | 112 | Samantha Cain |
 | 1677 | 112 | Danielle Longoria |
 | 1678 | 112 | Spooky Lil Mama |
-| 1679 | 112 | Angie Ferris |
-| 1680 | 112 | LadyKuSh |
-| 1681 | 112 | Deborah |
-| 1682 | 112 | Lively Catcher |
-| 1683 | 112 | Cozy Patternbuilder |
-| 1684 | 111 | Zesty Balancepiece |
-| 1685 | 111 | Audrey Abreast |
-| 1686 | 111 | Angie Scott |
-| 1687 | 111 | Jamie Jury |
-| 1688 | 111 | S Gale Holton |
-| 1689 | 110 | Chipper Slide |
+| 1679 | 112 | Crazy Blocker |
+| 1680 | 112 | Angie Ferris |
+| 1681 | 112 | LadyKuSh |
+| 1682 | 112 | Deborah |
+| 1683 | 112 | Lively Catcher |
+| 1684 | 112 | Cozy Patternbuilder |
+| 1685 | 111 | Zesty Balancepiece |
+| 1686 | 111 | Audrey Abreast |
+| 1687 | 111 | Angie Scott |
+| 1688 | 111 | Jamie Jury |
+| 1689 | 111 | S Gale Holton |
 | 1690 | 110 | KyngKliff |
 | 1691 | 110 | Jenna Keen |
 | 1692 | 110 | Alyssa Bruce |
 | 1693 | 110 | Chris |
 | 1694 | 110 | Amber Jolene |
-| 1695 | 110 | Christopher Cutler |
+| 1695 | 110 | Chipper Slide |
 | 1696 | 110 | Joe Mcleod |
-| 1697 | 110 | Felisha Marie |
-| 1698 | 110 | Kara Diamond |
-| 1699 | 110 | Kevin Ring |
-| 1700 | 110 | Nifty |
+| 1697 | 110 | Kevin Ring |
+| 1698 | 110 | Nifty |
+| 1699 | 110 | Kara Diamond |
+| 1700 | 110 | Christopher Cutler |
 | 1701 | 110 | Shiny Pivoty |
 | 1702 | 110 | Jennifer Jones |
-| 1703 | 109 | Evojaz |
+| 1703 | 109 | Bruno |
 | 1704 | 109 | Lomi |
-| 1705 | 109 | Bruno |
-| 1706 | 108 | Kimberly Schultz Quinn |
-| 1707 | 108 | kjo |
-| 1708 | 108 | Lori L. Tucker |
-| 1709 | 108 | Seymour Christy |
-| 1710 | 108 | Sandy Rivera |
-| 1711 | 108 | Tizzylish |
-| 1712 | 108 | Herm Junior |
+| 1705 | 109 | Evojaz |
+| 1706 | 108 | kjo |
+| 1707 | 108 | Herm Junior |
+| 1708 | 108 | Sandy Rivera |
+| 1709 | 108 | Kimberly Schultz Quinn |
+| 1710 | 108 | Tizzylish |
+| 1711 | 108 | Seymour Christy |
+| 1712 | 108 | Lori L. Tucker |
 | 1713 | 108 | Amy Humphreys |
 | 1714 | 107 | Frilly Smasher |
-| 1715 | 107 | Twisty Fill |
-| 1716 | 107 | Kim M. James |
-| 1717 | 107 | Rob Taylor |
+| 1715 | 107 | Rob Taylor |
+| 1716 | 107 | Nerdy Fall |
+| 1717 | 107 | Twisty Fill |
 | 1718 | 107 | Goofy Riserfit |
-| 1719 | 107 | Nerdy Fall |
+| 1719 | 107 | Kim M. James |
 | 1720 | 106 | Cheryl Spriggs |
 | 1721 | 106 | Wacky Ziggy |
-| 1722 | 106 | Kandie Marie |
-| 1723 | 106 | Susan D. Gray |
+| 1722 | 106 | Susan D. Gray |
+| 1723 | 106 | Kandie Marie |
 | 1724 | 106 | Lori Abney |
 | 1725 | 106 | Kimberly Haug |
-| 1726 | 105 | Kim Morgan Henderson |
+| 1726 | 105 | Melody Cuevas |
 | 1727 | 105 | Robert Coulter |
-| 1728 | 105 | Melody Cuevas |
-| 1729 | 105 | Samantha Millar |
+| 1728 | 105 | Samantha Millar |
+| 1729 | 105 | Kim Morgan Henderson |
 | 1730 | 105 | Wish YaKnee |
 | 1731 | 105 | Emily Menard Lam |
 | 1732 | 105 | Chris Sigurdson |
