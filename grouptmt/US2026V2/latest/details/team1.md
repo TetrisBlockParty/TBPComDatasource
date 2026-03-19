@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 08:50:45 UTC
+# Standings for team1 as of 2026-03-19 08:51:25 UTC
 
 **Total Participants:** 3530
 
@@ -75,13 +75,13 @@
 | 67 | 3242 | Breezy Ivy |
 | 68 | 3201 | Katherine Walton |
 | 69 | 3076 | Amee Schnarrs |
-| 70 | 3062 | Joshua Dye |
-| 71 | 3027 | Lexx Oliver |
-| 72 | 3012 | Howard Forest |
-| 73 | 3012 | Katrina Palmo |
-| 74 | 3003 | Jordan W Hamilton |
-| 75 | 3000 | Jeremy Stiltner |
-| 76 | 2991 | Sherri Drews |
+| 70 | 3071 | Sherri Drews |
+| 71 | 3062 | Joshua Dye |
+| 72 | 3027 | Lexx Oliver |
+| 73 | 3012 | Howard Forest |
+| 74 | 3012 | Katrina Palmo |
+| 75 | 3003 | Jordan W Hamilton |
+| 76 | 3000 | Jeremy Stiltner |
 | 77 | 2899 | phrmblk24 |
 | 78 | 2805 | Justin Jerome |
 | 79 | 2784 | Renee Weedling |
@@ -103,8 +103,8 @@
 | 95 | 2450 | Sarah Durmer |
 | 96 | 2424 | Audicia Bailey |
 | 97 | 2394 | Witty Wipegrid |
-| 98 | 2346 | Shannon Ferrari |
-| 99 | 2346 | Smashanator |
+| 98 | 2346 | Smashanator |
+| 99 | 2346 | Shannon Ferrari |
 | 100 | 2342 | Kris Hudelson |
 | 101 | 2338 | Silly Ziggy |
 | 102 | 2333 | Kevin Sees |
@@ -162,8 +162,8 @@
 | 154 | 1699 | Ann Carrie |
 | 155 | 1691 | Letson Melissa |
 | 156 | 1676 | Big rick !!! |
-| 157 | 1653 | L3sli3 |
-| 158 | 1653 | Denise Edwards |
+| 157 | 1653 | Denise Edwards |
+| 158 | 1653 | L3sli3 |
 | 159 | 1646 | Freya |
 | 160 | 1641 | Charis Stoner |
 | 161 | 1620 | Sharisse Baltimore |
@@ -174,8 +174,8 @@
 | 166 | 1560 | Duane Ficara |
 | 167 | 1525 | Sherri Drews |
 | 168 | 1521 | Bold Zonegrid |
-| 169 | 1519 | James Burda |
-| 170 | 1519 | Bigg Guy |
+| 169 | 1519 | Bigg Guy |
+| 170 | 1519 | James Burda |
 | 171 | 1509 | Dee |
 | 172 | 1506 | @n@luvmakin |
 | 173 | 1506 | Cassandra Latimore |
@@ -186,13 +186,13 @@
 | 178 | 1478 | Kayla Marie Stevenson |
 | 179 | 1467 | Josh Twilley |
 | 180 | 1464 | Irene Medina |
-| 181 | 1453 | Velvet Rarick |
+| 181 | 1457 | Velvet Rarick |
 | 182 | 1451 | Jessica Ritter |
 | 183 | 1440 | Erich EMac McIntosh |
 | 184 | 1428 | Mike Mendoza |
 | 185 | 1425 | TexasLise |
-| 186 | 1400 | Michael DeRosa |
-| 187 | 1400 | Death |
+| 186 | 1400 | Death |
+| 187 | 1400 | Michael DeRosa |
 | 188 | 1398 | SitHazy |
 | 189 | 1392 | Althea Louise |
 | 190 | 1386 | Charles Herbert |
@@ -207,8 +207,8 @@
 | 199 | 1344 | LeeAnn Martindale |
 | 200 | 1342 | Jevon Griffith |
 | 201 | 1333 | beep |
-| 202 | 1332 | Porshe Garthwaite |
-| 203 | 1332 | Ashley Munn |
+| 202 | 1332 | Ashley Munn |
+| 203 | 1332 | Porshe Garthwaite |
 | 204 | 1321 | Michael Zates |
 | 205 | 1320 | Haley Anne |
 | 206 | 1312 | Ashley Olson |
@@ -349,8 +349,8 @@
 | 341 | 813 | Margaret Rose |
 | 342 | 811 | Tammy Lamb |
 | 343 | 810 | Angela Renea Lester |
-| 344 | 808 | Ecami |
-| 345 | 807 | bounce back |
+| 344 | 809 | bounce back |
+| 345 | 808 | Ecami |
 | 346 | 804 | kito23 |
 | 347 | 804 | Will Fulmer |
 | 348 | 803 | Tionna Rose Alderson |
@@ -489,59 +489,59 @@
 | 481 | 598 | Alezandra Smith |
 | 482 | 596 | Kat Fisher |
 | 483 | 596 | Ciara Nunez |
-| 484 | 594 | Lisa Reynolds Adair |
-| 485 | 591 | Moretattsdenscars |
-| 486 | 591 | Frilly Breaker |
-| 487 | 591 | Donna McGowan |
-| 488 | 591 | SpaceCase085 |
-| 489 | 590 | SAP |
+| 484 | 595 | Angela |
+| 485 | 594 | Lisa Reynolds Adair |
+| 486 | 591 | Moretattsdenscars |
+| 487 | 591 | Frilly Breaker |
+| 488 | 591 | Donna McGowan |
+| 489 | 591 | SpaceCase085 |
 | 490 | 590 | Shawna Days |
-| 491 | 589 | Snappy Linkroll |
-| 492 | 587 | Lori Dutton |
-| 493 | 587 | Kathy Karjala |
-| 494 | 585 | Randy Clevenger |
+| 491 | 590 | SAP |
+| 492 | 589 | Snappy Linkroll |
+| 493 | 587 | Lori Dutton |
+| 494 | 587 | Kathy Karjala |
 | 495 | 585 | Fancy Cascadebuilder |
-| 496 | 585 | Rebecca Hetherington |
-| 497 | 583 | cheeryPrincess |
-| 498 | 582 | Crystal Eubanks |
-| 499 | 580 | Laura Morrison |
+| 496 | 585 | Randy Clevenger |
+| 497 | 585 | Rebecca Hetherington |
+| 498 | 583 | cheeryPrincess |
+| 499 | 582 | Crystal Eubanks |
 | 500 | 580 | Julie A Hutchinson |
 | 501 | 580 | David Larter |
-| 502 | 579 | Binh Ha |
-| 503 | 578 | Hasty Lift |
+| 502 | 580 | Laura Morrison |
+| 503 | 579 | Binh Ha |
 | 504 | 578 | Ernesto Chavera |
-| 505 | 577 | Hasty Towerpiece |
+| 505 | 578 | Hasty Lift |
 | 506 | 577 | Aponk |
-| 507 | 577 | Aaron Higdon |
-| 508 | 575 | Shawna Fender Dennis |
-| 509 | 573 | Jason Hawk |
-| 510 | 571 | Erica Catherine |
+| 507 | 577 | Hasty Towerpiece |
+| 508 | 577 | Aaron Higdon |
+| 509 | 575 | Shawna Fender Dennis |
+| 510 | 573 | Jason Hawk |
 | 511 | 571 | Spunky Matchfit |
-| 512 | 570 | Vergie Michael |
-| 513 | 570 | Zachary Moran |
-| 514 | 569 | Bearman |
-| 515 | 569 | Jonathan Morgan-Hoare |
-| 516 | 569 | Tatiyana Holm |
-| 517 | 567 | Giddy Brickclear |
-| 518 | 566 | Pig02 |
-| 519 | 565 | Flashy Stacky |
-| 520 | 564 | Ambrosia Natas Danu |
-| 521 | 563 | Breezy Wiper |
-| 522 | 563 | Hannah Carter |
-| 523 | 559 | Dennis Eitler |
-| 524 | 558 | Angela |
+| 512 | 571 | Erica Catherine |
+| 513 | 570 | Vergie Michael |
+| 514 | 570 | Zachary Moran |
+| 515 | 569 | Tatiyana Holm |
+| 516 | 569 | Bearman |
+| 517 | 569 | Jonathan Morgan-Hoare |
+| 518 | 567 | Giddy Brickclear |
+| 519 | 566 | Pig02 |
+| 520 | 565 | Flashy Stacky |
+| 521 | 564 | Ambrosia Natas Danu |
+| 522 | 563 | Breezy Wiper |
+| 523 | 563 | Hannah Carter |
+| 524 | 559 | Dennis Eitler |
 | 525 | 557 | Kay Alifi |
 | 526 | 556 | Cozy Twistbuilder |
 | 527 | 551 | Brenda L. Bunce |
 | 528 | 549 | Dave Myers |
 | 529 | 548 | Trina Gee |
 | 530 | 548 | David Zeimer |
-| 531 | 547 | KoDaK |
+| 531 | 547 | Chill Basepiece |
 | 532 | 547 | Dizzy Glidebuilder |
-| 533 | 547 | Chill Basepiece |
+| 533 | 547 | KoDaK |
 | 534 | 546 | Angela Brown Babin |
-| 535 | 544 | Daring Shuffler |
-| 536 | 544 | Chilly Matchbuilder |
+| 535 | 544 | Chilly Matchbuilder |
+| 536 | 544 | Daring Shuffler |
 | 537 | 543 | Wacky Balancer |
 | 538 | 543 | Mama Becky |
 | 539 | 543 | Groovy Glidepiece |
@@ -2047,11 +2047,11 @@
 | 2039 | 98 | Jose Thillet |
 | 2040 | 98 | Polataivao Aunai |
 | 2041 | 97 | CoralCori Tabor |
-| 2042 | 97 | Vinny |
-| 2043 | 97 | Dizzy Zigzag |
-| 2044 | 97 | Jeremy Buckley |
-| 2045 | 97 | Zesty Piececlear |
-| 2046 | 96 | Susan Kathleen |
+| 2042 | 97 | Susan Kathleen |
+| 2043 | 97 | Vinny |
+| 2044 | 97 | Dizzy Zigzag |
+| 2045 | 97 | Jeremy Buckley |
+| 2046 | 97 | Zesty Piececlear |
 | 2047 | 96 | Okdyeller |
 | 2048 | 96 | Kerryann Morrah |
 | 2049 | 96 | Henry Henry |
