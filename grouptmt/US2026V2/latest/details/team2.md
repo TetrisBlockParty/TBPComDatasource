@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-19 21:50:50 UTC
+# Standings for team2 as of 2026-03-19 21:51:24 UTC
 
 **Total Participants:** 3690
 
@@ -86,7 +86,7 @@
 | 78 | 2994 | Becky McClure |
 | 79 | 2980 | Kristina Custer |
 | 80 | 2944 | Bubbly Twistpiece |
-| 81 | 2910 | Jumpy Filler |
+| 81 | 2911 | Jumpy Filler |
 | 82 | 2901 | Sass |
 | 83 | 2861 | Jamie Lang |
 | 84 | 2826 | Belle |
@@ -593,13 +593,13 @@
 | 585 | 650 | Lisa420 |
 | 586 | 649 | June E Hanson |
 | 587 | 648 | Faith Adrienne Verret Page |
-| 588 | 646 | Gracie Back |
-| 589 | 646 | Jerry Gift Jr. |
-| 590 | 645 | Lakeisha Webb Briggs |
-| 591 | 645 | Mary Ann Pabukis |
-| 592 | 645 | Loony Snapbuild |
-| 593 | 644 | Brenda A |
-| 594 | 644 | Jenn Dandle |
+| 588 | 648 | Jenn Dandle |
+| 589 | 646 | Gracie Back |
+| 590 | 646 | Jerry Gift Jr. |
+| 591 | 645 | Lakeisha Webb Briggs |
+| 592 | 645 | Mary Ann Pabukis |
+| 593 | 645 | Loony Snapbuild |
+| 594 | 644 | Brenda A |
 | 595 | 644 | Mel |
 | 596 | 643 | Kimmie Gargano |
 | 597 | 642 | Anthony Magaraci |
@@ -1663,43 +1663,43 @@
 | 1655 | 185 | Jamie Jacques |
 | 1656 | 185 | Janelle Rose Durr |
 | 1657 | 184 | AChaneys |
-| 1658 | 184 | Jenny Davis |
+| 1658 | 184 | Alexia Boston |
 | 1659 | 184 | Sovereign Grace |
-| 1660 | 184 | Alexia Boston |
+| 1660 | 184 | Jenny Davis |
 | 1661 | 184 | Brickh4us |
 | 1662 | 183 | Cleophus Scutchings |
-| 1663 | 183 | Tamara Hagen |
+| 1663 | 183 | Barb Rice |
 | 1664 | 183 | Crystal |
-| 1665 | 182 | Alex Andi Sulistio |
-| 1666 | 182 | KayB |
-| 1667 | 182 | Billi Jo Gorsuch |
-| 1668 | 182 | Dusti Holbrook |
-| 1669 | 182 | Marlene Espinosa |
-| 1670 | 182 | Hyper Snap |
-| 1671 | 182 | Rosie |
-| 1672 | 182 | Liz Franke |
-| 1673 | 181 | Carlos Landin |
-| 1674 | 181 | Aubrey Campie |
-| 1675 | 181 | Frilly Gridclear |
-| 1676 | 180 | Nerdy Blockbuilder |
-| 1677 | 180 | Crystal Williams |
-| 1678 | 180 | Daring Twistpiece |
-| 1679 | 180 | Dickie Rice |
-| 1680 | 180 | Mine Mine |
-| 1681 | 180 | Paula Jean Purcell |
-| 1682 | 180 | Twisty Tiler |
-| 1683 | 180 | Cheery Riserpiece |
-| 1684 | 180 | carzyspinner |
-| 1685 | 180 | Michele Baucom |
-| 1686 | 179 | Chasity Winters |
-| 1687 | 179 | Amber Rochelle |
-| 1688 | 179 | Savvlexx |
-| 1689 | 179 | Kita A Jackson |
-| 1690 | 179 | Carla B Linker |
-| 1691 | 179 | Queen |
-| 1692 | 179 | Cherry |
-| 1693 | 178 | Nat Vincent |
-| 1694 | 178 | Barb Rice |
+| 1665 | 183 | Tamara Hagen |
+| 1666 | 182 | Alex Andi Sulistio |
+| 1667 | 182 | KayB |
+| 1668 | 182 | Billi Jo Gorsuch |
+| 1669 | 182 | Dusti Holbrook |
+| 1670 | 182 | Marlene Espinosa |
+| 1671 | 182 | Hyper Snap |
+| 1672 | 182 | Rosie |
+| 1673 | 182 | Liz Franke |
+| 1674 | 181 | Carlos Landin |
+| 1675 | 181 | Aubrey Campie |
+| 1676 | 181 | Frilly Gridclear |
+| 1677 | 180 | Nerdy Blockbuilder |
+| 1678 | 180 | Mine Mine |
+| 1679 | 180 | Crystal Williams |
+| 1680 | 180 | Dickie Rice |
+| 1681 | 180 | Daring Twistpiece |
+| 1682 | 180 | Paula Jean Purcell |
+| 1683 | 180 | Twisty Tiler |
+| 1684 | 180 | Cheery Riserpiece |
+| 1685 | 180 | carzyspinner |
+| 1686 | 180 | Michele Baucom |
+| 1687 | 179 | Chasity Winters |
+| 1688 | 179 | Amber Rochelle |
+| 1689 | 179 | Savvlexx |
+| 1690 | 179 | Kita A Jackson |
+| 1691 | 179 | Carla B Linker |
+| 1692 | 179 | Queen |
+| 1693 | 179 | Cherry |
+| 1694 | 178 | Nat Vincent |
 | 1695 | 178 | Lisa Finley Blocker |
 | 1696 | 178 | Glitzy Towerfit |
 | 1697 | 177 | Dragon Queen |
@@ -1728,8 +1728,8 @@
 | 1720 | 172 | Sherri Morgan |
 | 1721 | 172 | Roxana Shaffer Goff |
 | 1722 | 172 | Shanon Klair |
-| 1723 | 172 | Peachy Clusterfit |
-| 1724 | 172 | Jess |
+| 1723 | 172 | Jess |
+| 1724 | 172 | Peachy Clusterfit |
 | 1725 | 171 | Dreamy Puzzler |
 | 1726 | 171 | Michael Hissong |
 | 1727 | 171 | itzame |
