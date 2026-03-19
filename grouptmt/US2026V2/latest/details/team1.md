@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 08:48:41 UTC
+# Standings for team1 as of 2026-03-19 08:49:26 UTC
 
 **Total Participants:** 3530
 
@@ -15,7 +15,7 @@
 | 7 | 17242 | Scott Lindsay |
 | 8 | 16552 | Amy Dial Brown |
 | 9 | 15940 | Bryan Stockwell |
-| 10 | 14696 | Grace Kelly |
+| 10 | 14896 | Grace Kelly |
 | 11 | 14200 | Jessica Sheehan |
 | 12 | 12342 | Dizzy Stagger |
 | 13 | 10451 | Amy Jerman |
@@ -155,7 +155,7 @@
 | 147 | 1802 | Ruby Sandberg |
 | 148 | 1800 | Annie B. |
 | 149 | 1798 | Chummy Towerzone |
-| 150 | 1724 | Legendary |
+| 150 | 1733 | Legendary |
 | 151 | 1710 | Mary Pelley |
 | 152 | 1707 | Trisha Gallagher |
 | 153 | 1703 | Timothy Long |
@@ -631,46 +631,46 @@
 | 623 | 475 | Steven Taylor |
 | 624 | 474 | WEIRDINO |
 | 625 | 471 | Stacy Rodriguez |
-| 626 | 470 | Amber Nicole |
-| 627 | 470 | Shukee Lo |
-| 628 | 469 | PRICHARD |
-| 629 | 468 | Crystal Sara E |
-| 630 | 468 | Mel Fab |
-| 631 | 468 | Chilly Risegrid |
-| 632 | 467 | Sunny Linkpiece |
-| 633 | 466 | Pazerjonez |
-| 634 | 465 | 030Synner |
-| 635 | 465 | Luis Guzman |
-| 636 | 464 | Julie Miller |
-| 637 | 464 | John Ham |
-| 638 | 463 | Aldona Figiel |
-| 639 | 463 | mrkw |
-| 640 | 463 | Boldy Twisterfit |
-| 641 | 463 | Greg Hart |
-| 642 | 462 | Mary Boo |
-| 643 | 462 | Amber LR Sutter |
-| 644 | 461 | Panda Rog |
-| 645 | 461 | Trey Petty |
-| 646 | 460 | Snippy Line |
-| 647 | 460 | Tabitha Cornelious |
-| 648 | 460 | NoIdeaWhatsGoingOn |
-| 649 | 459 | Melanie Kelley |
-| 650 | 459 | Kim Manning Miles |
-| 651 | 459 | Berenice |
-| 652 | 459 | Josh Barringer |
-| 653 | 458 | Cassie Lathem |
-| 654 | 457 | Dapper Snaplink |
-| 655 | 457 | Stormy May |
-| 656 | 456 | TaRcY |
-| 657 | 456 | freakyjoe |
-| 658 | 454 | Brat |
-| 659 | 454 | Tausha Mathews |
-| 660 | 454 | Jamie Merritt |
-| 661 | 453 | Rosanna Atria-Schnickel |
-| 662 | 452 | Tiffani J West |
-| 663 | 451 | Quirky_placer |
-| 664 | 451 | Julie Seal |
-| 665 | 451 | Josh Richards |
+| 626 | 471 | Josh Richards |
+| 627 | 470 | Amber Nicole |
+| 628 | 470 | Shukee Lo |
+| 629 | 469 | PRICHARD |
+| 630 | 468 | Crystal Sara E |
+| 631 | 468 | Mel Fab |
+| 632 | 468 | Chilly Risegrid |
+| 633 | 467 | Sunny Linkpiece |
+| 634 | 466 | Pazerjonez |
+| 635 | 465 | 030Synner |
+| 636 | 465 | Luis Guzman |
+| 637 | 464 | Julie Miller |
+| 638 | 464 | John Ham |
+| 639 | 463 | Aldona Figiel |
+| 640 | 463 | mrkw |
+| 641 | 463 | Boldy Twisterfit |
+| 642 | 463 | Greg Hart |
+| 643 | 462 | Mary Boo |
+| 644 | 462 | Amber LR Sutter |
+| 645 | 461 | Panda Rog |
+| 646 | 461 | Trey Petty |
+| 647 | 460 | Snippy Line |
+| 648 | 460 | Tabitha Cornelious |
+| 649 | 460 | NoIdeaWhatsGoingOn |
+| 650 | 459 | Melanie Kelley |
+| 651 | 459 | Kim Manning Miles |
+| 652 | 459 | Berenice |
+| 653 | 459 | Josh Barringer |
+| 654 | 458 | Cassie Lathem |
+| 655 | 457 | Dapper Snaplink |
+| 656 | 457 | Stormy May |
+| 657 | 456 | TaRcY |
+| 658 | 456 | freakyjoe |
+| 659 | 454 | Brat |
+| 660 | 454 | Tausha Mathews |
+| 661 | 454 | Jamie Merritt |
+| 662 | 453 | Rosanna Atria-Schnickel |
+| 663 | 452 | Tiffani J West |
+| 664 | 451 | Quirky_placer |
+| 665 | 451 | Julie Seal |
 | 666 | 450 | Jazzy Stagger |
 | 667 | 450 | Sissy Lowery Davis |
 | 668 | 450 | MammaCass |
@@ -1505,10 +1505,10 @@
 | 1497 | 178 | Garry Junior Davis |
 | 1498 | 178 | Nicole Fields |
 | 1499 | 178 | Dede |
-| 1500 | 177 | Steven Johnson |
-| 1501 | 177 | Kim Burnside |
-| 1502 | 176 | Quirky Caster |
-| 1503 | 176 | Conklin Laura |
+| 1500 | 177 | Conklin Laura |
+| 1501 | 177 | Steven Johnson |
+| 1502 | 177 | Kim Burnside |
+| 1503 | 176 | Quirky Caster |
 | 1504 | 176 | Valerie Jean |
 | 1505 | 176 | Bouncy Bricky |
 | 1506 | 175 | Shena Cunningham |
