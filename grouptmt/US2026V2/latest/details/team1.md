@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 21:52:48 UTC
+# Standings for team1 as of 2026-03-19 21:53:26 UTC
 
 **Total Participants:** 3636
 
@@ -250,8 +250,8 @@
 | 242 | 1407 | Ren Mc |
 | 243 | 1400 | Michael DeRosa |
 | 244 | 1400 | Death |
-| 245 | 1392 | Althea Louise |
-| 246 | 1386 | Jaime Barrett Nelson |
+| 245 | 1392 | Jaime Barrett Nelson |
+| 246 | 1392 | Althea Louise |
 | 247 | 1386 | Nyki Marie |
 | 248 | 1386 | Bubbly Staggerpiece |
 | 249 | 1386 | Charles Herbert |
@@ -603,27 +603,27 @@
 | 595 | 679 | Jonathan Morgan-Hoare |
 | 596 | 677 | Ash Galvan |
 | 597 | 677 | Sarah Ploughe |
-| 598 | 673 | Matthew Boudah |
-| 599 | 673 | Jaay |
-| 600 | 673 | Tim Doxtator |
+| 598 | 675 | Matthew Boudah |
+| 599 | 673 | Tim Doxtator |
+| 600 | 673 | Jaay |
 | 601 | 672 | Terri Beran |
 | 602 | 671 | Deandre Young |
 | 603 | 670 | Blaster007 |
 | 604 | 670 | Savannah Dennison |
 | 605 | 669 | Stormy May |
-| 606 | 667 | Paul Stafford |
+| 606 | 667 | Andrea Clippert |
 | 607 | 667 | Joshua Lipscomb |
-| 608 | 663 | munchalot |
-| 609 | 662 | John DeMoss |
+| 608 | 667 | Paul Stafford |
+| 609 | 663 | munchalot |
 | 610 | 662 | Rob Chebetar |
 | 611 | 662 | Frilly T-spin |
-| 612 | 661 | Brandon McDonald |
-| 613 | 659 | Sarah McIntosh |
-| 614 | 658 | Steven Ray Real |
-| 615 | 658 | Tina Kocher Zimmerman |
-| 616 | 657 | Ella Brown |
-| 617 | 657 | Nicky Chappell |
-| 618 | 657 | Andrea Clippert |
+| 612 | 662 | John DeMoss |
+| 613 | 661 | Brandon McDonald |
+| 614 | 659 | Sarah McIntosh |
+| 615 | 658 | Steven Ray Real |
+| 616 | 658 | Tina Kocher Zimmerman |
+| 617 | 657 | Ella Brown |
+| 618 | 657 | Nicky Chappell |
 | 619 | 657 | Plucky Brickline |
 | 620 | 657 | Ellen |
 | 621 | 654 | Zappy Snapper |
@@ -1534,22 +1534,22 @@
 | 1526 | 227 | Ashlee Carnes |
 | 1527 | 227 | Jessica Pender |
 | 1528 | 227 | Austin Wilson |
-| 1529 | 227 | Sandy Linders Higgins |
-| 1530 | 227 | Blossom |
+| 1529 | 227 | YooooitsKee |
+| 1530 | 227 | Sandy Linders Higgins |
 | 1531 | 227 | Dark Werewolf |
-| 1532 | 226 | Cozy Builderfit |
-| 1533 | 226 | Joe Andrew Jackson |
-| 1534 | 226 | Snow Neumann |
-| 1535 | 226 | Dizzy Zigzag |
-| 1536 | 226 | Jumpy Dropper |
-| 1537 | 225 | Santana Lantana |
-| 1538 | 225 | Valerie Lasseter |
-| 1539 | 225 | Cedesbabii |
-| 1540 | 224 | Melanie Abshire |
-| 1541 | 224 | Groovy Holder |
-| 1542 | 224 | Cheery Brickclear |
-| 1543 | 223 | Tee Mac |
-| 1544 | 223 | YooooitsKee |
+| 1532 | 227 | Blossom |
+| 1533 | 226 | Cozy Builderfit |
+| 1534 | 226 | Joe Andrew Jackson |
+| 1535 | 226 | Snow Neumann |
+| 1536 | 226 | Dizzy Zigzag |
+| 1537 | 226 | Jumpy Dropper |
+| 1538 | 225 | Santana Lantana |
+| 1539 | 225 | Valerie Lasseter |
+| 1540 | 225 | Cedesbabii |
+| 1541 | 224 | Melanie Abshire |
+| 1542 | 224 | Groovy Holder |
+| 1543 | 224 | Cheery Brickclear |
+| 1544 | 223 | Tee Mac |
 | 1545 | 223 | Robyn Massey |
 | 1546 | 222 | Trevor Towle |
 | 1547 | 222 | Joey Burns |
