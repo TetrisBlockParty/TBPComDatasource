@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-19 08:14:49 UTC
+# Standings for team2 as of 2026-03-19 08:15:26 UTC
 
 **Total Participants:** 3571
 
@@ -87,8 +87,8 @@
 | 79 | 2490 | Jamie Lang |
 | 80 | 2471 | Belle |
 | 81 | 2430 | Jennifer Gartland |
-| 82 | 2319 | Caitlin Johnson |
-| 83 | 2308 | Giggly Clearzone |
+| 82 | 2321 | Giggly Clearzone |
+| 83 | 2319 | Caitlin Johnson |
 | 84 | 2263 | Peachy Matchgrid |
 | 85 | 2260 | Erica Davis |
 | 86 | 2257 | Joshua Hopkins |
@@ -192,8 +192,8 @@
 | 184 | 1263 | Lori Schlachter Segui |
 | 185 | 1263 | Kit Dennett |
 | 186 | 1259 | Kacee Conrad Bock |
-| 187 | 1250 | Ramone Armstrong |
-| 188 | 1244 | Tash Bell |
+| 187 | 1252 | Tash Bell |
+| 188 | 1250 | Ramone Armstrong |
 | 189 | 1242 | Buisanito |
 | 190 | 1221 | Christy Green |
 | 191 | 1193 | Sheena Hachmann |
@@ -293,8 +293,8 @@
 | 285 | 869 | Paul Beeman |
 | 286 | 867 | Mcg |
 | 287 | 860 | Trista Duguay |
-| 288 | 853 | Jay |
-| 289 | 853 | Jo |
+| 288 | 855 | Jo |
+| 289 | 853 | Jay |
 | 290 | 852 | Giovanni Distefano |
 | 291 | 847 | Snappy Bridgepiece |
 | 292 | 846 | Yo Momma |
