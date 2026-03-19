@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 08:59:27 UTC
+# Standings for team1 as of 2026-03-19 09:00:43 UTC
 
 **Total Participants:** 3531
 
@@ -73,8 +73,8 @@
 | 65 | 3336 | Megan Klinkner |
 | 66 | 3285 | Macy Williams |
 | 67 | 3242 | Breezy Ivy |
-| 68 | 3201 | Katherine Walton |
-| 69 | 3091 | Sherri Drews |
+| 68 | 3238 | Sherri Drews |
+| 69 | 3201 | Katherine Walton |
 | 70 | 3076 | Amee Schnarrs |
 | 71 | 3062 | Joshua Dye |
 | 72 | 3027 | Lexx Oliver |
@@ -195,8 +195,8 @@
 | 187 | 1400 | Death |
 | 188 | 1398 | SitHazy |
 | 189 | 1392 | Althea Louise |
-| 190 | 1386 | Charles Herbert |
-| 191 | 1386 | Nyki Marie |
+| 190 | 1386 | Nyki Marie |
+| 191 | 1386 | Charles Herbert |
 | 192 | 1376 | Eric Hoffman |
 | 193 | 1374 | Mary Cerciello |
 | 194 | 1360 | Rennon Scott Wilson |
@@ -207,8 +207,8 @@
 | 199 | 1344 | LeeAnn Martindale |
 | 200 | 1342 | Jevon Griffith |
 | 201 | 1333 | beep |
-| 202 | 1332 | Ashley Munn |
-| 203 | 1332 | Porshe Garthwaite |
+| 202 | 1332 | Porshe Garthwaite |
+| 203 | 1332 | Ashley Munn |
 | 204 | 1321 | Michael Zates |
 | 205 | 1320 | Haley Anne |
 | 206 | 1312 | Ashley Olson |
@@ -462,9 +462,9 @@
 | 454 | 637 | Tami Luce Martin |
 | 455 | 637 | Nathan Sealander |
 | 456 | 634 | Wendy Griffith |
-| 457 | 633 | Andrea Clippert |
-| 458 | 632 | crunchy panda |
-| 459 | 631 | anshu |
+| 457 | 634 | anshu |
+| 458 | 633 | Andrea Clippert |
+| 459 | 632 | crunchy panda |
 | 460 | 630 | Jennifer L Rutherford |
 | 461 | 628 | Denise Potter |
 | 462 | 627 | Nancy Reid |
@@ -535,9 +535,9 @@
 | 527 | 556 | Cozy Twistbuilder |
 | 528 | 551 | Brenda L. Bunce |
 | 529 | 549 | Dave Myers |
-| 530 | 548 | Trina Gee |
-| 531 | 548 | David Zeimer |
-| 532 | 547 | Angela Brown Babin |
+| 530 | 548 | Angela Brown Babin |
+| 531 | 548 | Trina Gee |
+| 532 | 548 | David Zeimer |
 | 533 | 547 | Chill Basepiece |
 | 534 | 547 | Dizzy Glidebuilder |
 | 535 | 547 | KoDaK |
@@ -674,10 +674,10 @@
 | 666 | 450 | Jazzy Stagger |
 | 667 | 450 | Sissy Lowery Davis |
 | 668 | 450 | MammaCass |
-| 669 | 449 | Hoppy Builderpiece |
-| 670 | 448 | Peachy Snaplink |
-| 671 | 446 | Jonnelle Partin |
-| 672 | 445 | Hobson Lopes |
+| 669 | 450 | Hobson Lopes |
+| 670 | 449 | Hoppy Builderpiece |
+| 671 | 448 | Peachy Snaplink |
+| 672 | 446 | Jonnelle Partin |
 | 673 | 445 | Kevin Tate |
 | 674 | 445 | Pam Jennings Herzog |
 | 675 | 444 | Dreamy Matchclear |
@@ -1042,17 +1042,17 @@
 | 1034 | 293 | Shelby Bryson |
 | 1035 | 293 | Teresa Wolf |
 | 1036 | 293 | Kim Robinson |
-| 1037 | 292 | Amy Hollinger |
-| 1038 | 292 | Cristian Ramirez Lazaro |
-| 1039 | 292 | Silly Builderline |
-| 1040 | 292 | MJ Beca Good |
-| 1041 | 292 | Angela Phillips Kean |
-| 1042 | 291 | Michael Almacen |
-| 1043 | 291 | Damion Woods |
-| 1044 | 291 | Sasha Priddy |
-| 1045 | 291 | Anne Oliver |
-| 1046 | 291 | poopsmagee |
-| 1047 | 291 | Ashley Robinson |
+| 1037 | 293 | Ashley Robinson |
+| 1038 | 292 | Amy Hollinger |
+| 1039 | 292 | Cristian Ramirez Lazaro |
+| 1040 | 292 | Silly Builderline |
+| 1041 | 292 | MJ Beca Good |
+| 1042 | 292 | Angela Phillips Kean |
+| 1043 | 291 | Michael Almacen |
+| 1044 | 291 | Damion Woods |
+| 1045 | 291 | Sasha Priddy |
+| 1046 | 291 | Anne Oliver |
+| 1047 | 291 | poopsmagee |
 | 1048 | 290 | Ryan Cabler |
 | 1049 | 289 | Loverlylove |
 | 1050 | 288 | Stephen Lockman |
@@ -1319,43 +1319,43 @@
 | 1311 | 215 | Jason Wreggitt |
 | 1312 | 215 | Danielle Maner |
 | 1313 | 215 | BriAna Nicole Adams |
-| 1314 | 214 | Anna Lasley |
-| 1315 | 214 | Rose Schweizer |
-| 1316 | 214 | Savannah Dennison |
-| 1317 | 213 | Crystal Talbert |
-| 1318 | 213 | Deanna L Hermanson |
-| 1319 | 213 | Adam McMakin |
-| 1320 | 213 | ajx |
-| 1321 | 212 | smitch |
-| 1322 | 212 | kjo |
-| 1323 | 212 | Lively Pivotfall |
-| 1324 | 212 | Chevy Escalera |
-| 1325 | 212 | Loony Brick |
-| 1326 | 211 | Kayleen Balbaneda |
-| 1327 | 211 | Claudia Vidrio |
-| 1328 | 211 | Chirpy Swiper |
-| 1329 | 211 | Louise Parker |
-| 1330 | 211 | Gunzo Ramires |
-| 1331 | 210 | Yoga Jones |
-| 1332 | 210 | Dick J Bohle |
-| 1333 | 210 | Robert Coulter |
-| 1334 | 210 | Breezy Stackbuilder |
-| 1335 | 209 | Zuul Gatekeeper |
-| 1336 | 209 | Nancy Burnside |
-| 1337 | 209 | Maximusprime |
-| 1338 | 209 | Giggly Slide |
-| 1339 | 209 | Ramona Powell |
-| 1340 | 209 | Jolly Piecebuilder |
-| 1341 | 209 | Giddy Dashy |
-| 1342 | 208 | Zac Brubaker |
-| 1343 | 208 | Dapper Matchfit |
-| 1344 | 207 | Mykel Mcbreen |
-| 1345 | 207 | Jennifer Hackmann |
-| 1346 | 207 | Sotirios Giaouridis |
-| 1347 | 207 | Tabetha Craddock |
-| 1348 | 207 | Epic Glider |
-| 1349 | 207 | Bill Willard |
-| 1350 | 207 | Samantha Kelly |
+| 1314 | 215 | Samantha Kelly |
+| 1315 | 214 | Anna Lasley |
+| 1316 | 214 | Rose Schweizer |
+| 1317 | 214 | Savannah Dennison |
+| 1318 | 213 | Crystal Talbert |
+| 1319 | 213 | Deanna L Hermanson |
+| 1320 | 213 | Adam McMakin |
+| 1321 | 213 | ajx |
+| 1322 | 212 | smitch |
+| 1323 | 212 | kjo |
+| 1324 | 212 | Lively Pivotfall |
+| 1325 | 212 | Chevy Escalera |
+| 1326 | 212 | Loony Brick |
+| 1327 | 211 | Kayleen Balbaneda |
+| 1328 | 211 | Claudia Vidrio |
+| 1329 | 211 | Chirpy Swiper |
+| 1330 | 211 | Louise Parker |
+| 1331 | 211 | Gunzo Ramires |
+| 1332 | 210 | Yoga Jones |
+| 1333 | 210 | Dick J Bohle |
+| 1334 | 210 | Robert Coulter |
+| 1335 | 210 | Breezy Stackbuilder |
+| 1336 | 209 | Zuul Gatekeeper |
+| 1337 | 209 | Nancy Burnside |
+| 1338 | 209 | Maximusprime |
+| 1339 | 209 | Giggly Slide |
+| 1340 | 209 | Ramona Powell |
+| 1341 | 209 | Jolly Piecebuilder |
+| 1342 | 209 | Giddy Dashy |
+| 1343 | 208 | Zac Brubaker |
+| 1344 | 208 | Dapper Matchfit |
+| 1345 | 207 | Mykel Mcbreen |
+| 1346 | 207 | Jennifer Hackmann |
+| 1347 | 207 | Sotirios Giaouridis |
+| 1348 | 207 | Tabetha Craddock |
+| 1349 | 207 | Epic Glider |
+| 1350 | 207 | Bill Willard |
 | 1351 | 206 | Cozy Builderfit |
 | 1352 | 206 | Lavana Erpelding |
 | 1353 | 206 | Wendy De Kam |
