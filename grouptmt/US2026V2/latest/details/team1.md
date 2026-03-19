@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 06:36:26 UTC
+# Standings for team1 as of 2026-03-19 06:37:25 UTC
 
 **Total Participants:** 3511
 
@@ -12,7 +12,7 @@
 | 4 | 20643 | Jayna Anoc |
 | 5 | 19378 | Nathaniel Hughes |
 | 6 | 17242 | Scott Lindsay |
-| 7 | 16799 | Hyper |
+| 7 | 16999 | Hyper |
 | 8 | 16552 | Amy Dial Brown |
 | 9 | 15933 | Bryan Stockwell |
 | 10 | 13596 | Grace Kelly |
@@ -384,7 +384,7 @@
 | 376 | 738 | Curtis Kuffel |
 | 377 | 737 | Michael-Melissa Markham |
 | 378 | 735 | Erin Hodges Plumb |
-| 379 | 733 | Boldy Clear |
+| 379 | 735 | Boldy Clear |
 | 380 | 733 | Chuck Williams |
 | 381 | 731 | Tee Tee Wil |
 | 382 | 731 | Carly |
@@ -431,8 +431,8 @@
 | 423 | 671 | Deandre Young |
 | 424 | 670 | Blaster007 |
 | 425 | 669 | Snappy Gridclear |
-| 426 | 667 | Paul Stafford |
-| 427 | 664 | Anthony Ward |
+| 426 | 667 | Anthony Ward |
+| 427 | 667 | Paul Stafford |
 | 428 | 663 | Greenbayfan |
 | 429 | 658 | Tina Kocher Zimmerman |
 | 430 | 655 | Foulplay176 |
@@ -497,19 +497,19 @@
 | 489 | 585 | Rebecca Hetherington |
 | 490 | 583 | cheeryPrincess |
 | 491 | 582 | Crystal Eubanks |
-| 492 | 580 | Laura Morrison |
-| 493 | 580 | Julie A Hutchinson |
+| 492 | 580 | Julie A Hutchinson |
+| 493 | 580 | Laura Morrison |
 | 494 | 580 | David Larter |
 | 495 | 580 | Fancy Cascadebuilder |
 | 496 | 579 | Binh Ha |
-| 497 | 578 | Hasty Lift |
-| 498 | 578 | Ernesto Chavera |
-| 499 | 577 | Hasty Towerpiece |
-| 500 | 577 | Aaron Higdon |
-| 501 | 577 | Aponk |
-| 502 | 576 | Kat Fisher |
-| 503 | 575 | Shawna Fender Dennis |
-| 504 | 573 | Lisa Reynolds Adair |
+| 497 | 579 | Lisa Reynolds Adair |
+| 498 | 578 | Hasty Lift |
+| 499 | 578 | Ernesto Chavera |
+| 500 | 577 | Hasty Towerpiece |
+| 501 | 577 | Aaron Higdon |
+| 502 | 577 | Aponk |
+| 503 | 576 | Kat Fisher |
+| 504 | 575 | Shawna Fender Dennis |
 | 505 | 571 | Erica Catherine |
 | 506 | 570 | Zachary Moran |
 | 507 | 569 | Jonathan Morgan-Hoare |
@@ -760,20 +760,20 @@
 | 752 | 390 | Jennifer Grubbs |
 | 753 | 390 | LovelyGem0610 |
 | 754 | 390 | Fabyy |
-| 755 | 389 | Jose Olivo |
-| 756 | 389 | Twisty Snapfit |
-| 757 | 389 | Candace Esposito |
+| 755 | 389 | Candace Esposito |
+| 756 | 389 | Jose Olivo |
+| 757 | 389 | John Ham |
 | 758 | 389 | Aj Fredenburg |
-| 759 | 388 | BKLYN.BOY |
+| 759 | 389 | Twisty Snapfit |
 | 760 | 388 | Melody Rene |
-| 761 | 387 | Connor Jurzynski |
+| 761 | 388 | BKLYN.BOY |
 | 762 | 387 | Jennifer Negrete |
-| 763 | 385 | cac |
-| 764 | 384 | Tee Tee Greene |
-| 765 | 384 | Felise Bee |
-| 766 | 383 | Sylvia Black |
-| 767 | 383 | Randall Sykes |
-| 768 | 382 | John Ham |
+| 763 | 387 | Connor Jurzynski |
+| 764 | 385 | cac |
+| 765 | 384 | Tee Tee Greene |
+| 766 | 384 | Felise Bee |
+| 767 | 383 | Sylvia Black |
+| 768 | 383 | Randall Sykes |
 | 769 | 381 | Lively Rollfit |
 | 770 | 381 | Jen |
 | 771 | 381 | F3MM3F4T4L3 |
@@ -1211,11 +1211,11 @@
 | 1203 | 240 | Jodie Andring |
 | 1204 | 240 | Britters |
 | 1205 | 240 | Duna Tats |
-| 1206 | 240 | Ray Vankirk |
-| 1207 | 240 | Crystal Swigart |
-| 1208 | 240 | Christal Peltier |
-| 1209 | 239 | Tawny Mo |
-| 1210 | 239 | Tyler Terrific |
+| 1206 | 240 | Tyler Terrific |
+| 1207 | 240 | Ray Vankirk |
+| 1208 | 240 | Crystal Swigart |
+| 1209 | 240 | Christal Peltier |
+| 1210 | 239 | Tawny Mo |
 | 1211 | 239 | Delzie J Leigh |
 | 1212 | 239 | rance |
 | 1213 | 239 | Latoya Mayne |
@@ -2554,8 +2554,8 @@
 | 2546 | 54 | Erik LaCoss |
 | 2547 | 53 | Patricia Sabbs |
 | 2548 | 53 | Dapper Wiper |
-| 2549 | 53 | Barry Mac'Ockner |
-| 2550 | 53 | Ralph Kalvin Sharette |
+| 2549 | 53 | Ralph Kalvin Sharette |
+| 2550 | 53 | Barry Mac'Ockner |
 | 2551 | 53 | Spring rain |
 | 2552 | 53 | Lacey Palatka |
 | 2553 | 53 | Patricia Rivas |
@@ -2576,45 +2576,45 @@
 | 2568 | 52 | Daniel McKay |
 | 2569 | 52 | Ramona Kelley |
 | 2570 | 52 | TeeRo |
-| 2571 | 52 | Lively Matchpiece |
-| 2572 | 52 | Jennifer Wilkins |
-| 2573 | 52 | Tammy |
-| 2574 | 51 | Cathrine Norris |
-| 2575 | 51 | Eljis |
-| 2576 | 51 | Luneycrap |
-| 2577 | 51 | Plucky Dashgrid |
-| 2578 | 51 | Fancy Wobbler |
-| 2579 | 51 | James Robert |
-| 2580 | 51 | Tasha Nicole |
-| 2581 | 51 | Giddy Tilefall |
-| 2582 | 51 | JLC |
-| 2583 | 51 | Jessica Lang |
-| 2584 | 50 | Tristan Taylor |
-| 2585 | 50 | Karrie Schowerth |
-| 2586 | 50 | Carla Valenzisi |
-| 2587 | 50 | Rex Max |
-| 2588 | 50 | Corentin W. Comeaux |
-| 2589 | 50 | Nancy |
-| 2590 | 50 | Pintobug |
-| 2591 | 50 | Tracy Wells |
-| 2592 | 50 | jessed |
-| 2593 | 50 | Gary Francis Schaffer Jr |
-| 2594 | 50 | Disco Stu |
-| 2595 | 50 | Tj Albright |
-| 2596 | 50 | Chill Match |
-| 2597 | 50 | Francisco Ledesma |
-| 2598 | 50 | crazyjosh |
-| 2599 | 50 | Laura Buntich |
-| 2600 | 50 | Cool Cascade |
-| 2601 | 50 | Trapp Starr |
-| 2602 | 50 | Kristine Kroll |
-| 2603 | 50 | Joann Flores |
-| 2604 | 50 | Daring Linkroll |
-| 2605 | 49 | Tracy Young Holbert |
-| 2606 | 49 | Jessica Bennett |
-| 2607 | 49 | Champagne Mamii |
-| 2608 | 49 | Aries |
-| 2609 | 49 | Angel Surles |
+| 2571 | 52 | Daring Linkroll |
+| 2572 | 52 | Lively Matchpiece |
+| 2573 | 52 | Jennifer Wilkins |
+| 2574 | 52 | Tammy |
+| 2575 | 51 | Cathrine Norris |
+| 2576 | 51 | Eljis |
+| 2577 | 51 | Luneycrap |
+| 2578 | 51 | Plucky Dashgrid |
+| 2579 | 51 | Fancy Wobbler |
+| 2580 | 51 | James Robert |
+| 2581 | 51 | Tasha Nicole |
+| 2582 | 51 | Giddy Tilefall |
+| 2583 | 51 | JLC |
+| 2584 | 51 | Jessica Lang |
+| 2585 | 50 | Tristan Taylor |
+| 2586 | 50 | Karrie Schowerth |
+| 2587 | 50 | Carla Valenzisi |
+| 2588 | 50 | Rex Max |
+| 2589 | 50 | Corentin W. Comeaux |
+| 2590 | 50 | Nancy |
+| 2591 | 50 | Pintobug |
+| 2592 | 50 | Tracy Wells |
+| 2593 | 50 | jessed |
+| 2594 | 50 | Gary Francis Schaffer Jr |
+| 2595 | 50 | Disco Stu |
+| 2596 | 50 | Tj Albright |
+| 2597 | 50 | Chill Match |
+| 2598 | 50 | Francisco Ledesma |
+| 2599 | 50 | crazyjosh |
+| 2600 | 50 | Laura Buntich |
+| 2601 | 50 | Cool Cascade |
+| 2602 | 50 | Trapp Starr |
+| 2603 | 50 | Kristine Kroll |
+| 2604 | 50 | Joann Flores |
+| 2605 | 49 | Jessica Bennett |
+| 2606 | 49 | Champagne Mamii |
+| 2607 | 49 | Aries |
+| 2608 | 49 | Angel Surles |
+| 2609 | 49 | Tracy Young Holbert |
 | 2610 | 49 | Cranky Towerpiece |
 | 2611 | 49 | Tams2307 |
 | 2612 | 49 | Kimberly Anderson |
