@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-19 21:18:48 UTC
+# Standings for team2 as of 2026-03-19 21:19:25 UTC
 
 **Total Participants:** 3683
 
@@ -1336,8 +1336,8 @@
 | 1328 | 261 | Lela Berklund |
 | 1329 | 261 | Nilla |
 | 1330 | 261 | Lush Edgepiece |
-| 1331 | 261 | Dev |
-| 1332 | 260 | Cass |
+| 1331 | 261 | Cass |
+| 1332 | 261 | Dev |
 | 1333 | 260 | Boldy Rollzone |
 | 1334 | 260 | Jeremy Steines |
 | 1335 | 260 | PuppaT |
@@ -1482,92 +1482,92 @@
 | 1474 | 224 | Lisa Parr |
 | 1475 | 224 | Shanny Anny |
 | 1476 | 224 | jardo |
-| 1477 | 224 | Elizabeth DeMarco Kuhn |
-| 1478 | 224 | Jessica Lynn Cutlip |
-| 1479 | 223 | Kiisha |
-| 1480 | 223 | Elizabeth Hepler |
-| 1481 | 222 | scott |
-| 1482 | 222 | Paul Gurwitz |
-| 1483 | 222 | Pete Stacknick |
-| 1484 | 222 | Jennifer Blair-Butler |
-| 1485 | 222 | Snazzy Linkroll |
-| 1486 | 221 | Malikah Coleman |
-| 1487 | 221 | Kenerria Danielle |
-| 1488 | 221 | Daquan Rovira |
-| 1489 | 220 | Jessica Walder |
-| 1490 | 220 | Frisky Blocky |
-| 1491 | 220 | Funky Twistpiece |
-| 1492 | 220 | Marie Kirkland |
-| 1493 | 220 | Cheeky Pivot |
-| 1494 | 220 | Mike Esparza |
+| 1477 | 224 | Patrycja Włodarczyk |
+| 1478 | 224 | Elizabeth DeMarco Kuhn |
+| 1479 | 224 | Jessica Lynn Cutlip |
+| 1480 | 223 | Kiisha |
+| 1481 | 223 | Elizabeth Hepler |
+| 1482 | 222 | scott |
+| 1483 | 222 | Paul Gurwitz |
+| 1484 | 222 | Pete Stacknick |
+| 1485 | 222 | Jennifer Blair-Butler |
+| 1486 | 222 | Snazzy Linkroll |
+| 1487 | 221 | Malikah Coleman |
+| 1488 | 221 | Kenerria Danielle |
+| 1489 | 221 | Daquan Rovira |
+| 1490 | 220 | Jessica Walder |
+| 1491 | 220 | Frisky Blocky |
+| 1492 | 220 | Funky Twistpiece |
+| 1493 | 220 | Marie Kirkland |
+| 1494 | 220 | Cheeky Pivot |
 | 1495 | 220 | Dreamy Stacky |
-| 1496 | 219 | Mighty Spinfit |
-| 1497 | 219 | Danielle Davis Speir |
-| 1498 | 219 | Fancy Builderfit |
-| 1499 | 218 | Sabrina Cearley |
-| 1500 | 218 | Frothy Glidebuilder |
-| 1501 | 218 | Kalleigh Randall |
-| 1502 | 218 | Tonya |
-| 1503 | 217 | So I o Sue |
-| 1504 | 217 | Melissa Jackson |
-| 1505 | 217 | Chummy Linkgrid |
-| 1506 | 217 | Smiley Linkfall |
-| 1507 | 217 | Hasty Pivoty |
-| 1508 | 217 | Twisty Brickfit |
-| 1509 | 217 | Tiffany Riccio |
-| 1510 | 216 | Anita Johnson |
-| 1511 | 216 | Veronica Duncan |
-| 1512 | 216 | Ashlee Pappaconstantinou |
-| 1513 | 216 | Mamagamer |
-| 1514 | 216 | Douggie Fresh |
-| 1515 | 215 | Quita |
+| 1496 | 220 | Mike Esparza |
+| 1497 | 219 | Mighty Spinfit |
+| 1498 | 219 | Danielle Davis Speir |
+| 1499 | 219 | Fancy Builderfit |
+| 1500 | 218 | Sabrina Cearley |
+| 1501 | 218 | Frothy Glidebuilder |
+| 1502 | 218 | Kalleigh Randall |
+| 1503 | 218 | Tonya |
+| 1504 | 217 | So I o Sue |
+| 1505 | 217 | Melissa Jackson |
+| 1506 | 217 | Chummy Linkgrid |
+| 1507 | 217 | Smiley Linkfall |
+| 1508 | 217 | Hasty Pivoty |
+| 1509 | 217 | Twisty Brickfit |
+| 1510 | 217 | Tiffany Riccio |
+| 1511 | 216 | Anita Johnson |
+| 1512 | 216 | Veronica Duncan |
+| 1513 | 216 | Ashlee Pappaconstantinou |
+| 1514 | 216 | Mamagamer |
+| 1515 | 216 | Douggie Fresh |
 | 1516 | 215 | Silly Matchclear |
-| 1517 | 215 | Robin |
-| 1518 | 215 | Harley Q |
-| 1519 | 215 | Loony Snapper |
-| 1520 | 215 | Lush Matchgrid |
-| 1521 | 215 | Blu |
-| 1522 | 214 | Amanda Conaghan |
-| 1523 | 214 | Tasha Willing |
-| 1524 | 214 | Ryan Martin |
-| 1525 | 214 | Slugger26 |
-| 1526 | 214 | Mzjudged Niteowl |
-| 1527 | 214 | Christine Kelly-Sarni |
-| 1528 | 214 | Bindi |
-| 1529 | 214 | Twisty Piecefit |
-| 1530 | 213 | Victoria Barkefelt |
-| 1531 | 212 | Black Pharaoh |
-| 1532 | 212 | Dreamy Line |
-| 1533 | 212 | Will Harris |
-| 1534 | 211 | Denise Janssen |
-| 1535 | 211 | JesusIsLove |
-| 1536 | 211 | Jam4 |
-| 1537 | 211 | Cweej |
-| 1538 | 211 | Alexandra Sucar |
-| 1539 | 211 | Scruffy Rose |
-| 1540 | 210 | Smiley |
-| 1541 | 210 | Caitlyn Brown |
-| 1542 | 210 | Cozy Snapmatch |
-| 1543 | 210 | msconfused80 |
-| 1544 | 209 | Robert Waagmeester |
-| 1545 | 209 | Goofy Blockbuilder |
-| 1546 | 209 | Monica Daley |
-| 1547 | 209 | Stitch Aura |
-| 1548 | 209 | Sarah McAuley |
-| 1549 | 208 | Jennifer Pleasant |
-| 1550 | 208 | SuzAnne |
-| 1551 | 208 | em |
-| 1552 | 207 | Karmabunny |
-| 1553 | 207 | Emily Potter |
-| 1554 | 206 | Amy Leonard |
-| 1555 | 206 | Jazmin Santos |
-| 1556 | 206 | Gillian Hiltbold |
-| 1557 | 206 | Sharon Navarrete |
-| 1558 | 206 | Shawn Darryl Butler |
-| 1559 | 205 | Cara Rena Hurst |
-| 1560 | 205 | Jumpy Crawler |
-| 1561 | 204 | Phanatic2008 |
-| 1562 | 204 | Patrycja Włodarczyk |
+| 1517 | 215 | Quita |
+| 1518 | 215 | Robin |
+| 1519 | 215 | Harley Q |
+| 1520 | 215 | Loony Snapper |
+| 1521 | 215 | Lush Matchgrid |
+| 1522 | 215 | Blu |
+| 1523 | 214 | Amanda Conaghan |
+| 1524 | 214 | Tasha Willing |
+| 1525 | 214 | Ryan Martin |
+| 1526 | 214 | Slugger26 |
+| 1527 | 214 | Mzjudged Niteowl |
+| 1528 | 214 | Christine Kelly-Sarni |
+| 1529 | 214 | Bindi |
+| 1530 | 214 | Twisty Piecefit |
+| 1531 | 213 | Victoria Barkefelt |
+| 1532 | 212 | Black Pharaoh |
+| 1533 | 212 | Dreamy Line |
+| 1534 | 212 | Will Harris |
+| 1535 | 211 | Denise Janssen |
+| 1536 | 211 | JesusIsLove |
+| 1537 | 211 | Jam4 |
+| 1538 | 211 | Cweej |
+| 1539 | 211 | Alexandra Sucar |
+| 1540 | 211 | Scruffy Rose |
+| 1541 | 210 | Smiley |
+| 1542 | 210 | Caitlyn Brown |
+| 1543 | 210 | Cozy Snapmatch |
+| 1544 | 210 | msconfused80 |
+| 1545 | 209 | Robert Waagmeester |
+| 1546 | 209 | Goofy Blockbuilder |
+| 1547 | 209 | Monica Daley |
+| 1548 | 209 | Stitch Aura |
+| 1549 | 209 | Sarah McAuley |
+| 1550 | 208 | Jennifer Pleasant |
+| 1551 | 208 | SuzAnne |
+| 1552 | 208 | em |
+| 1553 | 207 | Karmabunny |
+| 1554 | 207 | Emily Potter |
+| 1555 | 206 | Amy Leonard |
+| 1556 | 206 | Jazmin Santos |
+| 1557 | 206 | Gillian Hiltbold |
+| 1558 | 206 | Sharon Navarrete |
+| 1559 | 206 | Shawn Darryl Butler |
+| 1560 | 205 | Cara Rena Hurst |
+| 1561 | 205 | Jumpy Crawler |
+| 1562 | 204 | Phanatic2008 |
 | 1563 | 204 | Slimee Dorris Jean |
 | 1564 | 203 | Andrew Yates |
 | 1565 | 203 | Trouble |
@@ -1586,10 +1586,10 @@
 | 1578 | 200 | Jaylene Lawrence |
 | 1579 | 200 | Jai Sweetz |
 | 1580 | 200 | Andrew Bowen |
-| 1581 | 200 | Katie |
-| 1582 | 200 | Felicia Joy Brentnall |
-| 1583 | 200 | Embay |
-| 1584 | 200 | Tinkershell |
+| 1581 | 200 | Felicia Joy Brentnall |
+| 1582 | 200 | Embay |
+| 1583 | 200 | Tinkershell |
+| 1584 | 200 | Katie |
 | 1585 | 199 | Sn |
 | 1586 | 199 | Swanky Spinzone |
 | 1587 | 199 | Trell Sweeting |
@@ -1608,9 +1608,9 @@
 | 1600 | 196 | Jenn Nichols |
 | 1601 | 196 | Jennifer Young |
 | 1602 | 196 | Kimberly Banes |
-| 1603 | 195 | Desiree Cochran-Norfolk |
-| 1604 | 195 | James McLemore |
-| 1605 | 195 | Monica Martinez |
+| 1603 | 195 | Monica Martinez |
+| 1604 | 195 | Desiree Cochran-Norfolk |
+| 1605 | 195 | James McLemore |
 | 1606 | 195 | Tipsy Blockfall |
 | 1607 | 195 | CLA |
 | 1608 | 195 | Swanky Builderpiece |
@@ -1651,18 +1651,18 @@
 | 1643 | 187 | Fuzzy |
 | 1644 | 186 | Crystal Harbeson |
 | 1645 | 185 | Ann May June |
-| 1646 | 185 | Keysha White |
-| 1647 | 185 | Jamie Jacques |
-| 1648 | 185 | Janelle Rose Durr |
-| 1649 | 185 | Frilly Corner |
-| 1650 | 184 | Sovereign Grace |
-| 1651 | 184 | AChaneys |
-| 1652 | 184 | Jenny Davis |
+| 1646 | 185 | Janelle Rose Durr |
+| 1647 | 185 | Keysha White |
+| 1648 | 185 | Frilly Corner |
+| 1649 | 185 | Jamie Jacques |
+| 1650 | 184 | Jenny Davis |
+| 1651 | 184 | Sovereign Grace |
+| 1652 | 184 | AChaneys |
 | 1653 | 184 | Alexia Boston |
 | 1654 | 184 | Brickh4us |
 | 1655 | 183 | Tamara Hagen |
-| 1656 | 183 | Crystal |
-| 1657 | 183 | Cleophus Scutchings |
+| 1656 | 183 | Cleophus Scutchings |
+| 1657 | 183 | Crystal |
 | 1658 | 182 | KayB |
 | 1659 | 182 | Alex Andi Sulistio |
 | 1660 | 182 | Liz Franke |
@@ -1678,11 +1678,11 @@
 | 1670 | 180 | carzyspinner |
 | 1671 | 180 | Twisty Tiler |
 | 1672 | 180 | Paula Jean Purcell |
-| 1673 | 180 | Daring Twistpiece |
-| 1674 | 180 | Nerdy Blockbuilder |
-| 1675 | 180 | Dickie Rice |
-| 1676 | 180 | Mine Mine |
-| 1677 | 180 | Crystal Williams |
+| 1673 | 180 | Mine Mine |
+| 1674 | 180 | Dickie Rice |
+| 1675 | 180 | Crystal Williams |
+| 1676 | 180 | Nerdy Blockbuilder |
+| 1677 | 180 | Daring Twistpiece |
 | 1678 | 179 | Cherry |
 | 1679 | 179 | Queen |
 | 1680 | 179 | Carla B Linker |
