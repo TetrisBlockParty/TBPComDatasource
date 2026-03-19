@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 00:38:49 UTC
+# Standings for team1 as of 2026-03-19 00:39:25 UTC
 
 **Total Participants:** 3423
 
@@ -212,15 +212,15 @@
 | 204 | 1218 | Dizzy Pattern |
 | 205 | 1194 | Tina Blessed Cage |
 | 206 | 1187 | Bold Clear |
-| 207 | 1185 | Matt Aguilar |
-| 208 | 1182 | Angela Lucille |
-| 209 | 1178 | Kayla Marie Stevenson |
-| 210 | 1178 | JonCorry Story |
-| 211 | 1175 | Jess Rose |
-| 212 | 1175 | Erich EMac McIntosh |
-| 213 | 1170 | Kehlyn King |
-| 214 | 1168 | TetrisWoo |
-| 215 | 1166 | Irene Medina |
+| 207 | 1186 | Irene Medina |
+| 208 | 1185 | Matt Aguilar |
+| 209 | 1182 | Angela Lucille |
+| 210 | 1178 | Kayla Marie Stevenson |
+| 211 | 1178 | JonCorry Story |
+| 212 | 1175 | Jess Rose |
+| 213 | 1175 | Erich EMac McIntosh |
+| 214 | 1170 | Kehlyn King |
+| 215 | 1168 | TetrisWoo |
 | 216 | 1164 | Happy Tilerpiece |
 | 217 | 1153 | Tisha Cammack |
 | 218 | 1145 | Matthew Bunn |
@@ -280,8 +280,8 @@
 | 272 | 944 | Stefanie Champion |
 | 273 | 943 | Kim Bays |
 | 274 | 939 | Shay J Duval |
-| 275 | 933 | KathyandPhillip Woolard |
-| 276 | 930 | Rebecca Martin |
+| 275 | 933 | Rebecca Martin |
+| 276 | 933 | KathyandPhillip Woolard |
 | 277 | 929 | Poppy Fallzone |
 | 278 | 928 | Antonia Wyche |
 | 279 | 926 | Nikita Nelson |
@@ -524,9 +524,9 @@
 | 516 | 528 | Jessica Butler |
 | 517 | 528 | Chiquita Spears |
 | 518 | 528 | Angela Brown Babin |
-| 519 | 527 | Stephanie M Dabson |
-| 520 | 527 | Crystal Jaggars |
-| 521 | 525 | Maju Restini |
+| 519 | 527 | Maju Restini |
+| 520 | 527 | Stephanie M Dabson |
+| 521 | 527 | Crystal Jaggars |
 | 522 | 524 | Tran Tran |
 | 523 | 524 | Candace Fielder |
 | 524 | 524 | Spunky Matchfit |
@@ -797,8 +797,8 @@
 | 789 | 350 | Nate Funk |
 | 790 | 349 | Rachel Ballard |
 | 791 | 347 | Epic Fallzone |
-| 792 | 346 | AngelVoice JB |
-| 793 | 346 | PSD |
+| 792 | 347 | PSD |
+| 793 | 346 | AngelVoice JB |
 | 794 | 345 | Jennifer Negrete |
 | 795 | 345 | Aj Fredenburg |
 | 796 | 345 | Flashy Dasher |
@@ -1309,46 +1309,46 @@
 | 1301 | 201 | Heather Howard Thompson |
 | 1302 | 201 | chris2firm |
 | 1303 | 201 | Glenda Inthimat |
-| 1304 | 200 | kjo |
-| 1305 | 200 | Frothy Cascade |
-| 1306 | 200 | Deborah Fowler |
-| 1307 | 200 | Kat |
-| 1308 | 200 | Danielle Kollias |
-| 1309 | 200 | Gracie |
-| 1310 | 199 | Cedesbabii |
-| 1311 | 199 | jabba |
-| 1312 | 199 | NeNe Hazel |
-| 1313 | 199 | Jeremy Lake |
-| 1314 | 199 | Colleen McFadden Moldenhauer |
-| 1315 | 199 | Frilly Smasher |
-| 1316 | 198 | Victoria Montenegro Martinez |
-| 1317 | 198 | Brandon Blanchard |
-| 1318 | 198 | Loony Match |
-| 1319 | 198 | Lora Mae Spindler Young |
-| 1320 | 198 | Branden Blanch |
-| 1321 | 198 | Sassyshell |
-| 1322 | 197 | Bailey Morgan |
-| 1323 | 197 | Boldy Grabber |
-| 1324 | 196 | Loverlylove |
-| 1325 | 196 | Gunzo Ramires |
-| 1326 | 196 | Rudas |
-| 1327 | 196 | Richard Cranium |
-| 1328 | 196 | Joey Burns |
-| 1329 | 196 | Candace Roach |
-| 1330 | 196 | Lavana Erpelding |
-| 1331 | 196 | Bennett Hunter |
-| 1332 | 196 | Speedy Patternfit |
-| 1333 | 196 | Schwing! |
-| 1334 | 195 | David Wright |
-| 1335 | 195 | Jessica |
-| 1336 | 195 | Rik |
-| 1337 | 195 | Chilly Pop |
-| 1338 | 195 | Taquilla Branch |
-| 1339 | 195 | Giggy Brickmatch |
-| 1340 | 194 | Renee |
-| 1341 | 194 | Cynthia Mann |
-| 1342 | 194 | Noah Lalonde |
-| 1343 | 194 | Samantha Cain |
+| 1304 | 201 | Samantha Cain |
+| 1305 | 200 | kjo |
+| 1306 | 200 | Frothy Cascade |
+| 1307 | 200 | Deborah Fowler |
+| 1308 | 200 | Kat |
+| 1309 | 200 | Danielle Kollias |
+| 1310 | 200 | Gracie |
+| 1311 | 199 | Cedesbabii |
+| 1312 | 199 | jabba |
+| 1313 | 199 | NeNe Hazel |
+| 1314 | 199 | Jeremy Lake |
+| 1315 | 199 | Colleen McFadden Moldenhauer |
+| 1316 | 199 | Frilly Smasher |
+| 1317 | 198 | Victoria Montenegro Martinez |
+| 1318 | 198 | Brandon Blanchard |
+| 1319 | 198 | Loony Match |
+| 1320 | 198 | Lora Mae Spindler Young |
+| 1321 | 198 | Branden Blanch |
+| 1322 | 198 | Sassyshell |
+| 1323 | 197 | Bailey Morgan |
+| 1324 | 197 | Boldy Grabber |
+| 1325 | 196 | Loverlylove |
+| 1326 | 196 | Gunzo Ramires |
+| 1327 | 196 | Rudas |
+| 1328 | 196 | Richard Cranium |
+| 1329 | 196 | Joey Burns |
+| 1330 | 196 | Candace Roach |
+| 1331 | 196 | Lavana Erpelding |
+| 1332 | 196 | Bennett Hunter |
+| 1333 | 196 | Speedy Patternfit |
+| 1334 | 196 | Schwing! |
+| 1335 | 195 | David Wright |
+| 1336 | 195 | Jessica |
+| 1337 | 195 | Rik |
+| 1338 | 195 | Chilly Pop |
+| 1339 | 195 | Taquilla Branch |
+| 1340 | 195 | Giggy Brickmatch |
+| 1341 | 194 | Renee |
+| 1342 | 194 | Cynthia Mann |
+| 1343 | 194 | Noah Lalonde |
 | 1344 | 193 | Billy |
 | 1345 | 193 | Blkfroggy |
 | 1346 | 193 | F3MM3F4T4L3 |
@@ -1400,44 +1400,44 @@
 | 1392 | 182 | Shaun Waddell |
 | 1393 | 182 | Mechelle Bailum |
 | 1394 | 182 | Jessica Shiloh Anderson |
-| 1395 | 182 | Dustin Curtis |
-| 1396 | 182 | Chin lock |
-| 1397 | 182 | Julieth Rose |
-| 1398 | 182 | tox |
-| 1399 | 182 | Kayleen Balbaneda |
-| 1400 | 181 | Mario Cab |
-| 1401 | 181 | Tasha Jasmin |
-| 1402 | 181 | Yoga Jones |
-| 1403 | 181 | Spicy Blockclear |
-| 1404 | 181 | Aspen Campos |
-| 1405 | 181 | Summer R Delgado |
-| 1406 | 180 | viennie |
-| 1407 | 180 | Ashley Kostek |
-| 1408 | 180 | Christy Brown |
-| 1409 | 180 | Latoya Caston Davis |
-| 1410 | 179 | Shaun Patrick Allsopp |
-| 1411 | 179 | Swanky Tetrisline |
-| 1412 | 179 | Zion Hadley |
-| 1413 | 179 | Giggly Builderline |
-| 1414 | 179 | Tandi Hinson Basham |
-| 1415 | 179 | Katelyn Dorman |
-| 1416 | 179 | Shawn Shelby |
-| 1417 | 178 | Lisa Stidum |
-| 1418 | 178 | Heather Skillern |
-| 1419 | 178 | Nicole Fields |
-| 1420 | 178 | Garry Junior Davis |
-| 1421 | 178 | Darcy |
-| 1422 | 177 | Steven Johnson |
-| 1423 | 177 | Christina Morales |
-| 1424 | 176 | Timothy Lott |
+| 1395 | 182 | Julieth Rose |
+| 1396 | 182 | Dustin Curtis |
+| 1397 | 182 | tox |
+| 1398 | 182 | Chin lock |
+| 1399 | 182 | Swanky Tetrisline |
+| 1400 | 182 | Kayleen Balbaneda |
+| 1401 | 181 | Spicy Blockclear |
+| 1402 | 181 | Mario Cab |
+| 1403 | 181 | Tasha Jasmin |
+| 1404 | 181 | Yoga Jones |
+| 1405 | 181 | Aspen Campos |
+| 1406 | 181 | Summer R Delgado |
+| 1407 | 180 | viennie |
+| 1408 | 180 | Ashley Kostek |
+| 1409 | 180 | Christy Brown |
+| 1410 | 180 | Latoya Caston Davis |
+| 1411 | 179 | Tandi Hinson Basham |
+| 1412 | 179 | Giggly Builderline |
+| 1413 | 179 | Zion Hadley |
+| 1414 | 179 | Katelyn Dorman |
+| 1415 | 179 | Shawn Shelby |
+| 1416 | 179 | Shaun Patrick Allsopp |
+| 1417 | 178 | KMart |
+| 1418 | 178 | Lisa Stidum |
+| 1419 | 178 | Garry Junior Davis |
+| 1420 | 178 | Nicole Fields |
+| 1421 | 178 | Heather Skillern |
+| 1422 | 178 | Darcy |
+| 1423 | 177 | Steven Johnson |
+| 1424 | 177 | Christina Morales |
 | 1425 | 176 | Nicole McCune |
-| 1426 | 176 | Valerie Jean |
-| 1427 | 176 | Quirky Caster |
+| 1426 | 176 | Timothy Lott |
+| 1427 | 176 | Valerie Jean |
 | 1428 | 176 | Cozy Builderfit |
-| 1429 | 176 | Bouncy Bricky |
-| 1430 | 176 | Danielle Maner |
-| 1431 | 176 | Erica Wynne |
-| 1432 | 176 | KMart |
+| 1429 | 176 | Quirky Caster |
+| 1430 | 176 | Bouncy Bricky |
+| 1431 | 176 | Danielle Maner |
+| 1432 | 176 | Erica Wynne |
 | 1433 | 175 | Valerie Lasseter |
 | 1434 | 175 | Jai |
 | 1435 | 175 | Stacey Delane Sumner |
@@ -1447,10 +1447,10 @@
 | 1439 | 174 | Tee Mac |
 | 1440 | 174 | Jerome Gunst |
 | 1441 | 174 | Trevor Towle |
-| 1442 | 173 | MissySai TooRude Ladson |
+| 1442 | 173 | Groovy Builder |
 | 1443 | 173 | Paul Brian Angelo Egango |
 | 1444 | 173 | anastacia |
-| 1445 | 173 | Groovy Builder |
+| 1445 | 173 | MissySai TooRude Ladson |
 | 1446 | 173 | Shawntae Mccary |
 | 1447 | 172 | Shay Upshaw |
 | 1448 | 172 | Amanda Jean Gray |
@@ -2085,14 +2085,14 @@
 | 2077 | 85 | Cole Karim |
 | 2078 | 85 | Sam Lema |
 | 2079 | 85 | Jamie |
-| 2080 | 85 | Bubbly Blast |
-| 2081 | 85 | Tabitha Rose Stone |
-| 2082 | 85 | Gregory Craig |
-| 2083 | 84 | Swanky Tiltpiece |
-| 2084 | 84 | Gabriella Tamayo |
-| 2085 | 84 | Nunya |
-| 2086 | 84 | dave420 |
-| 2087 | 84 | Flashy Snapper |
+| 2080 | 85 | Flashy Snapper |
+| 2081 | 85 | Bubbly Blast |
+| 2082 | 85 | Tabitha Rose Stone |
+| 2083 | 85 | Gregory Craig |
+| 2084 | 84 | Swanky Tiltpiece |
+| 2085 | 84 | Gabriella Tamayo |
+| 2086 | 84 | Nunya |
+| 2087 | 84 | dave420 |
 | 2088 | 84 | Stacy Patterson |
 | 2089 | 84 | Nicole Casey Langley |
 | 2090 | 84 | Daynj |
