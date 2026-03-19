@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 08:39:25 UTC
+# Standings for team1 as of 2026-03-19 08:40:42 UTC
 
 **Total Participants:** 3529
 
@@ -16,7 +16,7 @@
 | 8 | 16552 | Amy Dial Brown |
 | 9 | 15940 | Bryan Stockwell |
 | 10 | 14396 | Grace Kelly |
-| 11 | 13800 | Jessica Sheehan |
+| 11 | 14200 | Jessica Sheehan |
 | 12 | 12342 | Dizzy Stagger |
 | 13 | 10451 | Amy Jerman |
 | 14 | 10370 | Katie Daniels |
@@ -312,11 +312,11 @@
 | 304 | 934 | Muhammad |
 | 305 | 934 | Rebecca Martin |
 | 306 | 933 | KathyandPhillip Woolard |
-| 307 | 926 | Savannah Tanielle |
-| 308 | 925 | Donna |
-| 309 | 924 | KK |
-| 310 | 920 | Patti Rone |
-| 311 | 919 | Pat Padgett |
+| 307 | 928 | Savannah Tanielle |
+| 308 | 927 | Pat Padgett |
+| 309 | 925 | Donna |
+| 310 | 924 | KK |
+| 311 | 920 | Patti Rone |
 | 312 | 916 | John Gardner |
 | 313 | 914 | Rocky |
 | 314 | 913 | Donald Nguyen |
@@ -1166,18 +1166,18 @@
 | 1158 | 253 | Giggy Twistpiece |
 | 1159 | 253 | Brave Twistpiece |
 | 1160 | 253 | Karissa Hull |
-| 1161 | 252 | wombat |
-| 1162 | 252 | Jesse Young |
-| 1163 | 252 | Edda-Jo Wenneman Dobbs |
-| 1164 | 252 | Angi Martinez |
-| 1165 | 251 | Tyler Hertzog |
-| 1166 | 251 | ZhenZhen |
-| 1167 | 251 | Goob277 |
-| 1168 | 251 | Tinker71 |
-| 1169 | 250 | Blondie |
-| 1170 | 250 | Kindra Sinclair |
-| 1171 | 250 | Edward White |
-| 1172 | 250 | Breezy Towerfit |
+| 1161 | 253 | Breezy Towerfit |
+| 1162 | 252 | wombat |
+| 1163 | 252 | Jesse Young |
+| 1164 | 252 | Edda-Jo Wenneman Dobbs |
+| 1165 | 252 | Angi Martinez |
+| 1166 | 251 | Tyler Hertzog |
+| 1167 | 251 | ZhenZhen |
+| 1168 | 251 | Goob277 |
+| 1169 | 251 | Tinker71 |
+| 1170 | 250 | Blondie |
+| 1171 | 250 | Kindra Sinclair |
+| 1172 | 250 | Edward White |
 | 1173 | 249 | Michael Phillips |
 | 1174 | 249 | Sammie Hightower |
 | 1175 | 248 | Andrew Lauterborn |
@@ -2054,26 +2054,26 @@
 | 2046 | 96 | Kerryann Morrah |
 | 2047 | 96 | Trapp Starr |
 | 2048 | 96 | Amy Amy |
-| 2049 | 95 | Shiny Twistslam |
-| 2050 | 95 | Tulio Andreli |
-| 2051 | 95 | Okdyeller |
-| 2052 | 95 | Grace Leigh |
-| 2053 | 95 | John Cruz |
-| 2054 | 95 | Daisy Sunny |
-| 2055 | 95 | Anny Johnson |
-| 2056 | 95 | Karissa McDannel |
-| 2057 | 95 | Judith Avery |
-| 2058 | 95 | Hyper Drop |
-| 2059 | 94 | Vivian Cobb |
-| 2060 | 94 | Mike |
-| 2061 | 94 | Bumpy Morris |
-| 2062 | 94 | Oscar Love Mariah |
-| 2063 | 94 | Cool Dasher |
-| 2064 | 94 | Derrick See |
-| 2065 | 94 | Michelle Pritchard |
-| 2066 | 94 | Tracey Wilson |
-| 2067 | 94 | kube |
-| 2068 | 94 | Jose Hernandez |
+| 2049 | 96 | Jose Hernandez |
+| 2050 | 95 | Shiny Twistslam |
+| 2051 | 95 | Tulio Andreli |
+| 2052 | 95 | Okdyeller |
+| 2053 | 95 | Grace Leigh |
+| 2054 | 95 | John Cruz |
+| 2055 | 95 | Daisy Sunny |
+| 2056 | 95 | Anny Johnson |
+| 2057 | 95 | Karissa McDannel |
+| 2058 | 95 | Judith Avery |
+| 2059 | 95 | Hyper Drop |
+| 2060 | 94 | Vivian Cobb |
+| 2061 | 94 | Mike |
+| 2062 | 94 | Bumpy Morris |
+| 2063 | 94 | Oscar Love Mariah |
+| 2064 | 94 | Cool Dasher |
+| 2065 | 94 | Derrick See |
+| 2066 | 94 | Michelle Pritchard |
+| 2067 | 94 | Tracey Wilson |
+| 2068 | 94 | kube |
 | 2069 | 94 | Cozy Brickzone |
 | 2070 | 94 | Lizzy Bea |
 | 2071 | 94 | Eric Dozier |
@@ -2431,14 +2431,14 @@
 | 2423 | 63 | Jaime Wilson |
 | 2424 | 63 | Maricia Coleman |
 | 2425 | 63 | Kyle R. Sorbo |
-| 2426 | 62 | cool kat |
-| 2427 | 62 | Nonna Jamie Watt |
-| 2428 | 62 | Steve Pacheco |
-| 2429 | 62 | Kyle Kennedy |
-| 2430 | 62 | Smin |
-| 2431 | 62 | Dacotah Robinson |
-| 2432 | 62 | Funky Strikerbuilder |
-| 2433 | 62 | Thaddeus Harrison |
+| 2426 | 63 | Thaddeus Harrison |
+| 2427 | 62 | cool kat |
+| 2428 | 62 | Nonna Jamie Watt |
+| 2429 | 62 | Steve Pacheco |
+| 2430 | 62 | Kyle Kennedy |
+| 2431 | 62 | Smin |
+| 2432 | 62 | Dacotah Robinson |
+| 2433 | 62 | Funky Strikerbuilder |
 | 2434 | 62 | SoL |
 | 2435 | 62 | Floor It |
 | 2436 | 62 | Heather Carsten |
@@ -2994,18 +2994,18 @@
 | 2986 | 30 | Fancy Shatterbuilder |
 | 2987 | 30 | Dreamy Twister |
 | 2988 | 30 | Britnie Razorjake McNulty |
-| 2989 | 30 | Nutty Frame |
-| 2990 | 30 | Cranky Striker |
-| 2991 | 30 | Adma |
-| 2992 | 30 | Thomas Tyrone |
-| 2993 | 30 | John Goff |
+| 2989 | 30 | Kalisha Washington |
+| 2990 | 30 | Nutty Frame |
+| 2991 | 30 | Cranky Striker |
+| 2992 | 30 | Adma |
+| 2993 | 30 | Thomas Tyrone |
 | 2994 | 30 | Witty Linkpiece |
-| 2995 | 29 | Cindyb |
-| 2996 | 29 | Rome |
-| 2997 | 29 | Smiley |
-| 2998 | 29 | Poppy Glidepiece |
-| 2999 | 29 | Lyneshia Brumfield |
-| 3000 | 29 | Kalisha Washington |
+| 2995 | 30 | John Goff |
+| 2996 | 29 | Cindyb |
+| 2997 | 29 | Rome |
+| 2998 | 29 | Smiley |
+| 2999 | 29 | Poppy Glidepiece |
+| 3000 | 29 | Lyneshia Brumfield |
 | 3001 | 29 | Justin Roberts |
 | 3002 | 29 | Jeff Hooper |
 | 3003 | 29 | Ali Ward |
@@ -3214,30 +3214,30 @@
 | 3206 | 17 | Bouncy Brickclear |
 | 3207 | 17 | Brad Olson |
 | 3208 | 17 | Lisa Rizzo |
-| 3209 | 17 | LaChrisha Baugh |
-| 3210 | 17 | Toni Forbus |
-| 3211 | 17 | Tiffnay Burts |
-| 3212 | 17 | Robaire |
-| 3213 | 17 | Micky Knoxx |
-| 3214 | 17 | Samie |
-| 3215 | 17 | Laya38 |
-| 3216 | 17 | Frank Prince |
-| 3217 | 17 | Teresa Dison |
-| 3218 | 16 | Fancy Piecebuilder |
-| 3219 | 16 | Wacky Balancer |
-| 3220 | 16 | MarLa Alioto |
-| 3221 | 16 | DeeDee Donaldson |
-| 3222 | 16 | Laurel |
-| 3223 | 16 | QueenBea13 |
-| 3224 | 16 | Cheesus |
-| 3225 | 16 | Vicky Cain Boyd |
-| 3226 | 16 | Gina Angeles Libunao Rondez |
-| 3227 | 16 | Hoppy Gridder |
-| 3228 | 16 | Valerie |
+| 3209 | 17 | Clever Clear |
+| 3210 | 17 | LaChrisha Baugh |
+| 3211 | 17 | Toni Forbus |
+| 3212 | 17 | Tiffnay Burts |
+| 3213 | 17 | Robaire |
+| 3214 | 17 | Micky Knoxx |
+| 3215 | 17 | Samie |
+| 3216 | 17 | Laya38 |
+| 3217 | 17 | Frank Prince |
+| 3218 | 17 | Teresa Dison |
+| 3219 | 16 | Fancy Piecebuilder |
+| 3220 | 16 | Wacky Balancer |
+| 3221 | 16 | MarLa Alioto |
+| 3222 | 16 | DeeDee Donaldson |
+| 3223 | 16 | Laurel |
+| 3224 | 16 | QueenBea13 |
+| 3225 | 16 | Cheesus |
+| 3226 | 16 | Vicky Cain Boyd |
+| 3227 | 16 | Gina Angeles Libunao Rondez |
+| 3228 | 16 | Hoppy Gridder |
 | 3229 | 16 | Amy Fleagle |
 | 3230 | 16 | Natasha Marks |
 | 3231 | 16 | Latoya Smith |
-| 3232 | 16 | Clever Clear |
+| 3232 | 16 | Valerie |
 | 3233 | 16 | Josh Blevins |
 | 3234 | 16 | Sarchiapone D James |
 | 3235 | 16 | Steven |
