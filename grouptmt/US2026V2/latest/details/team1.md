@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 09:50:48 UTC
+# Standings for team1 as of 2026-03-19 09:51:25 UTC
 
 **Total Participants:** 3541
 
@@ -363,13 +363,13 @@
 | 355 | 792 | Roxanne Stoeckel |
 | 356 | 790 | Elizabeth Hughes |
 | 357 | 780 | Noelle Cicchillo |
-| 358 | 778 | Krystal Mccoy |
-| 359 | 775 | Dani Giles |
-| 360 | 775 | Boldy Clear |
-| 361 | 774 | raffyG |
-| 362 | 772 | Bouncy Wipeout |
-| 363 | 769 | Taco Taco |
-| 364 | 769 | Josh Richards |
+| 358 | 779 | Josh Richards |
+| 359 | 778 | Krystal Mccoy |
+| 360 | 775 | Dani Giles |
+| 361 | 775 | Boldy Clear |
+| 362 | 774 | raffyG |
+| 363 | 772 | Bouncy Wipeout |
+| 364 | 769 | Taco Taco |
 | 365 | 768 | Randy Masao Hilbrant |
 | 366 | 767 | Ziggy Csah |
 | 367 | 767 | Ren Mc |
@@ -390,10 +390,10 @@
 | 382 | 747 | Austin |
 | 383 | 742 | Jonathan Gaffaney |
 | 384 | 742 | Jennie Lee Huntley |
-| 385 | 739 | Liliana Pena |
-| 386 | 739 | Kay Francois |
-| 387 | 738 | Curtis Kuffel |
-| 388 | 738 | Marianne Lopez |
+| 385 | 739 | Kay Francois |
+| 386 | 739 | Liliana Pena |
+| 387 | 738 | Marianne Lopez |
+| 388 | 738 | Curtis Kuffel |
 | 389 | 737 | Michael-Melissa Markham |
 | 390 | 735 | Erin Hodges Plumb |
 | 391 | 731 | Tee Tee Wil |
@@ -407,14 +407,14 @@
 | 399 | 720 | Betty Bóò |
 | 400 | 719 | Amanda Huckstep |
 | 401 | 718 | Stephen Glaze |
-| 402 | 716 | Mighty Clear |
-| 403 | 714 | Stephanie Lawrence |
-| 404 | 714 | Black Rubix |
-| 405 | 713 | Mandy Stevenson |
-| 406 | 710 | Porkobello |
-| 407 | 709 | Chris Bernstein |
-| 408 | 709 | Slinky Dashgrid |
-| 409 | 708 | Tim Slone |
+| 402 | 717 | Tim Slone |
+| 403 | 716 | Mighty Clear |
+| 404 | 714 | Stephanie Lawrence |
+| 405 | 714 | Black Rubix |
+| 406 | 713 | Mandy Stevenson |
+| 407 | 710 | Porkobello |
+| 408 | 709 | Chris Bernstein |
+| 409 | 709 | Slinky Dashgrid |
 | 410 | 706 | Fatima Washington |
 | 411 | 705 | Johnathan Rasmussen |
 | 412 | 701 | Hasty Balance |
@@ -1210,32 +1210,32 @@
 | 1202 | 243 | Michelle Sanchez |
 | 1203 | 243 | Jennifer Bunker |
 | 1204 | 243 | crash |
-| 1205 | 243 | Santana Valeri |
-| 1206 | 242 | Boldy Grabber |
-| 1207 | 242 | Jesus Garcia |
-| 1208 | 242 | MWFreddy |
-| 1209 | 241 | Tracy Priceless Gholston |
-| 1210 | 241 | Aira Rangel |
-| 1211 | 241 | Wings |
-| 1212 | 241 | Heather Skillern |
-| 1213 | 241 | Flashy Wipeblock |
-| 1214 | 241 | Shane Thon |
-| 1215 | 241 | Joyce Todd |
-| 1216 | 240 | Duna Tats |
-| 1217 | 240 | Christy Brown |
-| 1218 | 240 | Bouncy Linefit |
-| 1219 | 240 | poopoo |
-| 1220 | 240 | Jodie Andring |
-| 1221 | 240 | Fancy Towerfall |
-| 1222 | 240 | Christal Peltier |
-| 1223 | 240 | Britters |
-| 1224 | 239 | Tawny Mo |
-| 1225 | 239 | Latoya Mayne |
-| 1226 | 239 | rance |
-| 1227 | 239 | Delzie J Leigh |
-| 1228 | 239 | Matt Morrow |
-| 1229 | 239 | ccharngles |
-| 1230 | 238 | Giggly Slide |
+| 1205 | 243 | Giggly Slide |
+| 1206 | 243 | Santana Valeri |
+| 1207 | 242 | Boldy Grabber |
+| 1208 | 242 | Jesus Garcia |
+| 1209 | 242 | MWFreddy |
+| 1210 | 241 | Tracy Priceless Gholston |
+| 1211 | 241 | Aira Rangel |
+| 1212 | 241 | Wings |
+| 1213 | 241 | Heather Skillern |
+| 1214 | 241 | Flashy Wipeblock |
+| 1215 | 241 | Shane Thon |
+| 1216 | 241 | Joyce Todd |
+| 1217 | 240 | Duna Tats |
+| 1218 | 240 | Christy Brown |
+| 1219 | 240 | Bouncy Linefit |
+| 1220 | 240 | poopoo |
+| 1221 | 240 | Jodie Andring |
+| 1222 | 240 | Fancy Towerfall |
+| 1223 | 240 | Christal Peltier |
+| 1224 | 240 | Britters |
+| 1225 | 239 | Tawny Mo |
+| 1226 | 239 | Latoya Mayne |
+| 1227 | 239 | rance |
+| 1228 | 239 | Delzie J Leigh |
+| 1229 | 239 | Matt Morrow |
+| 1230 | 239 | ccharngles |
 | 1231 | 238 | sam |
 | 1232 | 238 | Sunny Frame |
 | 1233 | 237 | Zany Mover |
@@ -1307,13 +1307,13 @@
 | 1299 | 220 | Tibor Vincepap |
 | 1300 | 220 | Zachary Diener |
 | 1301 | 220 | James Simms III |
-| 1302 | 219 | Matthew Graves D.C. |
-| 1303 | 219 | BeeDub |
-| 1304 | 219 | Samantha Kelly |
-| 1305 | 219 | Kristy Howell |
-| 1306 | 218 | Tommy Casillas |
-| 1307 | 218 | ReggieDugaler |
-| 1308 | 218 | Rose Schweizer |
+| 1302 | 220 | Rose Schweizer |
+| 1303 | 219 | Matthew Graves D.C. |
+| 1304 | 219 | BeeDub |
+| 1305 | 219 | Samantha Kelly |
+| 1306 | 219 | Kristy Howell |
+| 1307 | 218 | Tommy Casillas |
+| 1308 | 218 | ReggieDugaler |
 | 1309 | 218 | Matthew Laudico |
 | 1310 | 218 | Kora Catherine |
 | 1311 | 217 | jabba |
