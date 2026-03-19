@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 09:04:46 UTC
+# Standings for team1 as of 2026-03-19 09:05:24 UTC
 
 **Total Participants:** 3533
 
@@ -610,10 +610,10 @@
 | 602 | 495 | Pheezy |
 | 603 | 494 | Angel Pham |
 | 604 | 493 | Belle Olguin |
-| 605 | 491 | Quaheem Brown-Riley |
-| 606 | 491 | Anthony Bryan Riva |
-| 607 | 490 | jeh |
-| 608 | 490 | Daniel James Man |
+| 605 | 492 | Daniel James Man |
+| 606 | 491 | Quaheem Brown-Riley |
+| 607 | 491 | Anthony Bryan Riva |
+| 608 | 490 | jeh |
 | 609 | 488 | Christian Smith |
 | 610 | 487 | Jason Garnatz |
 | 611 | 487 | Kristie Ballestin |
@@ -1446,29 +1446,29 @@
 | 1438 | 189 | Crystal Wells Hickman |
 | 1439 | 189 | Ðirt |
 | 1440 | 189 | Dreamy Staggerpiece |
-| 1441 | 189 | Tammy Griffee |
-| 1442 | 189 | Nicole McCune |
+| 1441 | 189 | Nicole McCune |
+| 1442 | 189 | Tammy Griffee |
 | 1443 | 188 | Christi Bouten-Harmon |
-| 1444 | 188 | Daniel R Morgan |
-| 1445 | 188 | anastacia |
+| 1444 | 188 | KMart |
+| 1445 | 188 | Andretta Wilder |
 | 1446 | 188 | Wacky Brickster |
-| 1447 | 188 | Andretta Wilder |
-| 1448 | 188 | KMart |
-| 1449 | 187 | Pat K Ellis |
-| 1450 | 187 | Alexandria Ritch |
-| 1451 | 187 | Michele Walker |
-| 1452 | 187 | Swanky Tetrisline |
-| 1453 | 186 | Kaitlyn Dean |
-| 1454 | 186 | Nutty Matcher |
-| 1455 | 186 | Tasha Jasmin |
-| 1456 | 186 | Sam |
-| 1457 | 185 | Brandi Huntington |
-| 1458 | 185 | Robin Sharp Earle |
-| 1459 | 185 | Flashy Clicker |
-| 1460 | 185 | Ernie Guyette |
-| 1461 | 185 | Anthony Froelick |
-| 1462 | 185 | Sassy Wrecker |
-| 1463 | 184 | Stephanie Elizabeth Blake |
+| 1447 | 188 | anastacia |
+| 1448 | 188 | Daniel R Morgan |
+| 1449 | 187 | Swanky Tetrisline |
+| 1450 | 187 | Michele Walker |
+| 1451 | 187 | Alexandria Ritch |
+| 1452 | 187 | Pat K Ellis |
+| 1453 | 186 | Tasha Jasmin |
+| 1454 | 186 | Kaitlyn Dean |
+| 1455 | 186 | Stephanie Elizabeth Blake |
+| 1456 | 186 | Nutty Matcher |
+| 1457 | 186 | Sam |
+| 1458 | 185 | Brandi Huntington |
+| 1459 | 185 | Robin Sharp Earle |
+| 1460 | 185 | Flashy Clicker |
+| 1461 | 185 | Ernie Guyette |
+| 1462 | 185 | Anthony Froelick |
+| 1463 | 185 | Sassy Wrecker |
 | 1464 | 184 | Emily Menard Lam |
 | 1465 | 184 | Nikki Eaton |
 | 1466 | 184 | Denice Dee |
