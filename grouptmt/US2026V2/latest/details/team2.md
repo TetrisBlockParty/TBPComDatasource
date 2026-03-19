@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-19 18:54:49 UTC
+# Standings for team2 as of 2026-03-19 18:55:25 UTC
 
 **Total Participants:** 3655
 
@@ -45,9 +45,9 @@
 | 37 | 5257 | Dizzy Zonegrid |
 | 38 | 5249 | opf |
 | 39 | 5104 | lovethedana |
-| 40 | 5071 | Carrie Mitchell |
-| 41 | 4966 | Giggy Strikerpiece |
-| 42 | 4927 | nina |
+| 40 | 5095 | nina |
+| 41 | 5071 | Carrie Mitchell |
+| 42 | 4966 | Giggy Strikerpiece |
 | 43 | 4851 | Elizabeth Crowder Pelton |
 | 44 | 4777 | Elizabeth Sallas |
 | 45 | 4754 | Toni Lynn |
@@ -97,13 +97,13 @@
 | 89 | 2656 | Jayme Hamil |
 | 90 | 2561 | Smags |
 | 91 | 2548 | Jumpy Filler |
-| 92 | 2430 | Jennifer Gartland |
-| 93 | 2423 | Peachy Matchgrid |
-| 94 | 2360 | Danielle Mogg |
-| 95 | 2355 | Giggly Clearzone |
-| 96 | 2349 | Ania |
-| 97 | 2319 | Caitlin Johnson |
-| 98 | 2306 | Dondon Cheng |
+| 92 | 2445 | Dondon Cheng |
+| 93 | 2430 | Jennifer Gartland |
+| 94 | 2423 | Peachy Matchgrid |
+| 95 | 2360 | Danielle Mogg |
+| 96 | 2355 | Giggly Clearzone |
+| 97 | 2349 | Ania |
+| 98 | 2319 | Caitlin Johnson |
 | 99 | 2298 | Ashley Brandon Hall |
 | 100 | 2281 | Erica Davis |
 | 101 | 2258 | Melissa Bergin |
@@ -234,9 +234,9 @@
 | 226 | 1353 | TETRIS |
 | 227 | 1351 | Leticia Martinez Kelley |
 | 228 | 1348 | Ebo Got-Time |
-| 229 | 1338 | Koipod |
-| 230 | 1336 | Jjj |
-| 231 | 1322 | Michelle Allers |
+| 229 | 1344 | Michelle Allers |
+| 230 | 1338 | Koipod |
+| 231 | 1336 | Jjj |
 | 232 | 1314 | Cozy Shatterblock |
 | 233 | 1310 | Krish Shah |
 | 234 | 1309 | Paul Beeman |
@@ -283,10 +283,10 @@
 | 275 | 1127 | Incandescent hatchet fish |
 | 276 | 1120 | Ashley Leonard |
 | 277 | 1119 | Snappy Bridgepiece |
-| 278 | 1109 | T.j. Swinney |
-| 279 | 1106 | Dane Roy |
-| 280 | 1097 | AL |
-| 281 | 1095 | James Hurley Jr. |
+| 278 | 1110 | James Hurley Jr. |
+| 279 | 1109 | T.j. Swinney |
+| 280 | 1106 | Dane Roy |
+| 281 | 1097 | AL |
 | 282 | 1091 | Eugenio Moquete |
 | 283 | 1090 | Ariel Pearson |
 | 284 | 1090 | Chilly Fallgrid |
@@ -848,9 +848,9 @@
 | 840 | 440 | Isabella Blanco |
 | 841 | 440 | candypants |
 | 842 | 440 | Scarlet Dusosky |
-| 843 | 438 | elsi |
-| 844 | 438 | Oxygène Liberté |
-| 845 | 437 | Happy Drop |
+| 843 | 438 | Happy Drop |
+| 844 | 438 | elsi |
+| 845 | 438 | Oxygène Liberté |
 | 846 | 437 | Chelle |
 | 847 | 437 | James Ramirez |
 | 848 | 436 | Adrianne Traylor |
@@ -1263,8 +1263,8 @@
 | 1255 | 273 | Brave Matchfit |
 | 1256 | 273 | Danielle Smith |
 | 1257 | 273 | yammin |
-| 1258 | 272 | Han Jisung |
-| 1259 | 272 | melis |
+| 1258 | 272 | melis |
+| 1259 | 272 | Han Jisung |
 | 1260 | 272 | Malcolm Annias Flamer |
 | 1261 | 271 | DieM Flood |
 | 1262 | 271 | birdie |
@@ -1280,8 +1280,8 @@
 | 1272 | 268 | Mackenzie Forrester |
 | 1273 | 268 | Ann Jessica |
 | 1274 | 267 | Michael E Whitejr |
-| 1275 | 267 | Theresa Crawford |
-| 1276 | 267 | JustLessie |
+| 1275 | 267 | JustLessie |
+| 1276 | 267 | Theresa Crawford |
 | 1277 | 266 | Chirpy Dash |
 | 1278 | 265 | Shakey Bakey |
 | 1279 | 265 | Prette Qui |
@@ -1300,29 +1300,29 @@
 | 1292 | 261 | Britton Gilreath |
 | 1293 | 261 | Lush Edgepiece |
 | 1294 | 261 | Dev |
-| 1295 | 260 | Vic |
-| 1296 | 260 | Jeremy Steines |
-| 1297 | 260 | Susan Valentino |
-| 1298 | 260 | Aldo Hernandez |
-| 1299 | 260 | Boldy Rollzone |
-| 1300 | 260 | PuppaT |
-| 1301 | 260 | Daring Fall |
-| 1302 | 260 | Briaa Williams |
-| 1303 | 259 | Brandon Maxey |
-| 1304 | 259 | Angel Niomi Munoz |
-| 1305 | 259 | Rebecca Danielle |
-| 1306 | 258 | Briana Hargett |
-| 1307 | 258 | Jessica Anne-Marie Newsome |
-| 1308 | 258 | Ashley Grace |
-| 1309 | 258 | Jessica Petersen |
-| 1310 | 258 | Gracie Ann Taylor |
-| 1311 | 258 | Teresa Longwell |
-| 1312 | 257 | Hector Gutierrez |
-| 1313 | 257 | Yo |
-| 1314 | 257 | Pam Green |
-| 1315 | 257 | Michael Kreutzer Jr |
+| 1295 | 260 | Froggie81 |
+| 1296 | 260 | Vic |
+| 1297 | 260 | Jeremy Steines |
+| 1298 | 260 | Susan Valentino |
+| 1299 | 260 | Aldo Hernandez |
+| 1300 | 260 | Boldy Rollzone |
+| 1301 | 260 | PuppaT |
+| 1302 | 260 | Daring Fall |
+| 1303 | 260 | Briaa Williams |
+| 1304 | 259 | Brandon Maxey |
+| 1305 | 259 | Angel Niomi Munoz |
+| 1306 | 259 | Rebecca Danielle |
+| 1307 | 258 | Briana Hargett |
+| 1308 | 258 | Jessica Anne-Marie Newsome |
+| 1309 | 258 | Ashley Grace |
+| 1310 | 258 | Jessica Petersen |
+| 1311 | 258 | Gracie Ann Taylor |
+| 1312 | 258 | Teresa Longwell |
+| 1313 | 257 | Hector Gutierrez |
+| 1314 | 257 | Yo |
+| 1315 | 257 | Pam Green |
 | 1316 | 257 | Steph Otruba |
-| 1317 | 256 | Froggie81 |
+| 1317 | 257 | Michael Kreutzer Jr |
 | 1318 | 256 | Corina |
 | 1319 | 256 | Crystal Brown-Miles |
 | 1320 | 255 | Dizzy |
@@ -1330,8 +1330,8 @@
 | 1322 | 254 | Queen |
 | 1323 | 254 | Lynette Manning |
 | 1324 | 254 | Hoppy Match |
-| 1325 | 252 | Ailina |
-| 1326 | 252 | Edward Krohn |
+| 1325 | 252 | Edward Krohn |
+| 1326 | 252 | Ailina |
 | 1327 | 251 | Cheyenne Taylor |
 | 1328 | 251 | Sophia Marie |
 | 1329 | 251 | Poppy Balancepiece |
@@ -1352,8 +1352,8 @@
 | 1344 | 247 | Nindesaster |
 | 1345 | 247 | Daniel Moore |
 | 1346 | 247 | Cathy Reeves |
-| 1347 | 247 | James Gardner |
-| 1348 | 247 | Erica |
+| 1347 | 247 | Erica |
+| 1348 | 247 | James Gardner |
 | 1349 | 246 | Twisty Balanceblock |
 | 1350 | 246 | Dbabe |
 | 1351 | 246 | Alison Welsh |
@@ -1365,9 +1365,9 @@
 | 1357 | 243 | Danielle Carle |
 | 1358 | 243 | Bryan Bishop |
 | 1359 | 243 | Piero Gonzalez |
-| 1360 | 242 | Marianita Garcia |
-| 1361 | 242 | Michelle |
-| 1362 | 242 | Scott Horn |
+| 1360 | 242 | Michelle |
+| 1361 | 242 | Scott Horn |
+| 1362 | 242 | Marianita Garcia |
 | 1363 | 242 | Elizabeth Reed |
 | 1364 | 242 | Ash |
 | 1365 | 242 | Jamocha Mieka Muldrow-Wright |
@@ -1383,8 +1383,8 @@
 | 1375 | 240 | Megan Earp |
 | 1376 | 240 | Jessica Lawson |
 | 1377 | 240 | Yasmin Veliz |
-| 1378 | 239 | Donnie Crowe |
-| 1379 | 239 | Joni Walczak |
+| 1378 | 239 | Joni Walczak |
+| 1379 | 239 | Donnie Crowe |
 | 1380 | 239 | Cass |
 | 1381 | 239 | Scott Siple |
 | 1382 | 239 | Chyrisse Norton |
@@ -1397,13 +1397,13 @@
 | 1389 | 237 | Ward Leandrea |
 | 1390 | 237 | Giddy Gridmatch |
 | 1391 | 237 | Waya |
-| 1392 | 236 | Witty Patternzone |
-| 1393 | 236 | Janelle Edgecombe |
-| 1394 | 236 | Stefanie Bilello Burlew |
-| 1395 | 235 | Rachy77 |
-| 1396 | 235 | Frilly Twist |
-| 1397 | 235 | Shiny Fill |
-| 1398 | 235 | Cedric Mendiola |
+| 1392 | 236 | Stefanie Bilello Burlew |
+| 1393 | 236 | Witty Patternzone |
+| 1394 | 236 | Janelle Edgecombe |
+| 1395 | 235 | Shiny Fill |
+| 1396 | 235 | Rachy77 |
+| 1397 | 235 | Cedric Mendiola |
+| 1398 | 235 | Frilly Twist |
 | 1399 | 235 | Alysia Clare |
 | 1400 | 235 | Tiffany Dawn Caldwell |
 | 1401 | 235 | Lush Twisterfit |
