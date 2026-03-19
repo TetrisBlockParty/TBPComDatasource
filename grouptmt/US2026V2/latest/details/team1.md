@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 19:54:52 UTC
+# Standings for team1 as of 2026-03-19 19:55:23 UTC
 
 **Total Participants:** 3614
 
@@ -255,7 +255,7 @@
 | 247 | 1350 | TotoCherue |
 | 248 | 1342 | Jevon Griffith |
 | 249 | 1340 | Michael Espinosa Ulibarri Jr. |
-| 250 | 1334 | KK |
+| 250 | 1339 | KK |
 | 251 | 1332 | Stephen Glaze |
 | 252 | 1332 | Ashley Munn |
 | 253 | 1328 | Jaime Barrett Nelson |
@@ -1437,8 +1437,8 @@
 | 1429 | 246 | Jennifer Obrien |
 | 1430 | 246 | Laidene Joseph |
 | 1431 | 246 | Christine Sheridan |
-| 1432 | 246 | Kayleen Balbaneda |
-| 1433 | 246 | Kevin Carmack |
+| 1432 | 246 | Kevin Carmack |
+| 1433 | 246 | Kayleen Balbaneda |
 | 1434 | 245 | Ray Vankirk |
 | 1435 | 245 | Boldy Towerfall |
 | 1436 | 245 | Katelyn B. Pritchard |
@@ -1536,8 +1536,8 @@
 | 1528 | 222 | Trevor Towle |
 | 1529 | 222 | Joey Burns |
 | 1530 | 222 | Witty Tilemaker |
-| 1531 | 221 | Samantha Cain |
-| 1532 | 221 | Tee Mac |
+| 1531 | 221 | Tee Mac |
+| 1532 | 221 | Samantha Cain |
 | 1533 | 221 | Steven Johnson |
 | 1534 | 220 | Zachary Diener |
 | 1535 | 220 | Kim Pabalan |
@@ -1546,9 +1546,9 @@
 | 1538 | 220 | Brandy Ann |
 | 1539 | 220 | Beth Craft |
 | 1540 | 219 | BeeDub |
-| 1541 | 219 | John Absher |
-| 1542 | 219 | Kristy Howell |
-| 1543 | 219 | Jessica Marie Coleman |
+| 1541 | 219 | Jessica Marie Coleman |
+| 1542 | 219 | John Absher |
+| 1543 | 219 | Kristy Howell |
 | 1544 | 218 | Tommy Casillas |
 | 1545 | 218 | ReggieDugaler |
 | 1546 | 218 | Matthew Laudico |
@@ -1563,8 +1563,8 @@
 | 1555 | 214 | Anna Lasley |
 | 1556 | 214 | Kevin Ring |
 | 1557 | 213 | ajx |
-| 1558 | 213 | Eugenié Stephenson |
-| 1559 | 213 | Amanda Spurlock |
+| 1558 | 213 | Amanda Spurlock |
+| 1559 | 213 | Eugenié Stephenson |
 | 1560 | 212 | Chevy Escalera |
 | 1561 | 212 | Lively Pivotfall |
 | 1562 | 212 | smitch |
@@ -1599,37 +1599,37 @@
 | 1591 | 204 | Katie Martin |
 | 1592 | 204 | tay |
 | 1593 | 204 | Shaun Patrick Allsopp |
-| 1594 | 203 | Cheryl Spriggs |
-| 1595 | 203 | Snazzy Tilemaker |
-| 1596 | 203 | Jai |
-| 1597 | 203 | Christine Foley |
-| 1598 | 203 | Shawna Love |
-| 1599 | 202 | Sam |
-| 1600 | 202 | Defiant Des |
-| 1601 | 202 | Thomas Susi |
-| 1602 | 202 | Sarah Lombardo |
-| 1603 | 202 | Whittney Nichole Malone |
-| 1604 | 202 | Victoria Montenegro Martinez |
-| 1605 | 202 | Kristy Burch Sells |
-| 1606 | 201 | Jordan Leach |
-| 1607 | 201 | Nicole Kolodzieski |
-| 1608 | 201 | YooooitsKee |
-| 1609 | 201 | Glenda Inthimat |
-| 1610 | 201 | Dave Emig |
-| 1611 | 201 | boomsday |
-| 1612 | 200 | Chris McBlockster |
+| 1594 | 204 | Christine White-Almony |
+| 1595 | 203 | Christine Foley |
+| 1596 | 203 | Shawna Love |
+| 1597 | 203 | Cheryl Spriggs |
+| 1598 | 203 | Snazzy Tilemaker |
+| 1599 | 203 | Jai |
+| 1600 | 202 | Thomas Susi |
+| 1601 | 202 | Sarah Lombardo |
+| 1602 | 202 | Whittney Nichole Malone |
+| 1603 | 202 | Victoria Montenegro Martinez |
+| 1604 | 202 | Kristy Burch Sells |
+| 1605 | 202 | Sam |
+| 1606 | 202 | Defiant Des |
+| 1607 | 201 | boomsday |
+| 1608 | 201 | Jordan Leach |
+| 1609 | 201 | Nicole Kolodzieski |
+| 1610 | 201 | YooooitsKee |
+| 1611 | 201 | Glenda Inthimat |
+| 1612 | 201 | Dave Emig |
 | 1613 | 200 | Frothy Cascade |
 | 1614 | 200 | Danielle Kollias |
 | 1615 | 200 | Kat |
-| 1616 | 199 | Perky Matchfit |
-| 1617 | 199 | NeNe Hazel |
-| 1618 | 199 | Cedesbabii |
-| 1619 | 199 | Jerome Gunst |
-| 1620 | 199 | Jeremy Lake |
-| 1621 | 198 | Lora Mae Spindler Young |
-| 1622 | 198 | Daniel R Morgan |
-| 1623 | 198 | Patsy Thacker |
-| 1624 | 198 | Christine White-Almony |
+| 1616 | 200 | Chris McBlockster |
+| 1617 | 199 | Perky Matchfit |
+| 1618 | 199 | NeNe Hazel |
+| 1619 | 199 | Cedesbabii |
+| 1620 | 199 | Jerome Gunst |
+| 1621 | 199 | Jeremy Lake |
+| 1622 | 198 | Lora Mae Spindler Young |
+| 1623 | 198 | Daniel R Morgan |
+| 1624 | 198 | Patsy Thacker |
 | 1625 | 198 | Chipper Balance |
 | 1626 | 197 | Bailey Morgan |
 | 1627 | 197 | Mariah Cornell |
@@ -1683,8 +1683,8 @@
 | 1675 | 185 | Ernie Guyette |
 | 1676 | 185 | Sassy Wrecker |
 | 1677 | 185 | Brandi Huntington |
-| 1678 | 185 | Alexandra Grant |
-| 1679 | 185 | Hoppy Faller |
+| 1678 | 185 | Hoppy Faller |
+| 1679 | 185 | Alexandra Grant |
 | 1680 | 184 | T Christina Morales |
 | 1681 | 184 | Nikki Eaton |
 | 1682 | 184 | Emily Menard Lam |
@@ -1738,9 +1738,9 @@
 | 1730 | 173 | Amanda Falta |
 | 1731 | 173 | MissySai TooRude Ladson |
 | 1732 | 173 | Jenny Weidman Perrotta |
-| 1733 | 173 | Chaunchey Marie Luisen |
-| 1734 | 173 | Smiley Rollfit |
-| 1735 | 173 | Amanda Stilwell |
+| 1733 | 173 | Amanda Stilwell |
+| 1734 | 173 | Chaunchey Marie Luisen |
+| 1735 | 173 | Smiley Rollfit |
 | 1736 | 172 | Rickie Rando |
 | 1737 | 172 | Meredith Ann |
 | 1738 | 172 | Offspring |
@@ -1750,9 +1750,9 @@
 | 1742 | 170 | J. |
 | 1743 | 170 | BDubb |
 | 1744 | 170 | Clever Spinblock |
-| 1745 | 170 | Jennifer Jones |
-| 1746 | 170 | Giggy Linkblock |
-| 1747 | 170 | Graham Graham |
+| 1745 | 170 | Giggy Linkblock |
+| 1746 | 170 | Graham Graham |
+| 1747 | 170 | Jennifer Jones |
 | 1748 | 169 | Steve |
 | 1749 | 169 | Lacey Renee Dietz |
 | 1750 | 169 | pretty kitty |
@@ -1801,9 +1801,9 @@
 | 1793 | 162 | Chipper Tumbler |
 | 1794 | 162 | Spooky Lil Mama |
 | 1795 | 162 | kube |
-| 1796 | 161 | Wackadoo |
-| 1797 | 161 | Danny FaJohn |
-| 1798 | 161 | Donetta Brown |
+| 1796 | 161 | Danny FaJohn |
+| 1797 | 161 | Donetta Brown |
+| 1798 | 161 | Wackadoo |
 | 1799 | 161 | Amega |
 | 1800 | 161 | Ellen Maxwell Capstaff |
 | 1801 | 161 | ldm |
@@ -1817,10 +1817,10 @@
 | 1809 | 160 | Mamabear924 |
 | 1810 | 160 | Gregg Scott |
 | 1811 | 160 | Curtis T Cirno |
-| 1812 | 160 | Braska Williams Jr |
-| 1813 | 160 | Ant Colunga |
-| 1814 | 159 | Ron Haney |
-| 1815 | 159 | Cheery Brickclear |
+| 1812 | 160 | Ant Colunga |
+| 1813 | 160 | Braska Williams Jr |
+| 1814 | 159 | Cheery Brickclear |
+| 1815 | 159 | Ron Haney |
 | 1816 | 159 | Vivian Bunnell Myers |
 | 1817 | 159 | Speedy Glider |
 | 1818 | 159 | Audrey Abreast |
