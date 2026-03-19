@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-19 07:52:49 UTC
+# Standings for team3 as of 2026-03-19 07:53:24 UTC
 
 **Total Participants:** 5515
 
@@ -615,11 +615,11 @@
 | 607 | 686 | UPBEATPANDA |
 | 608 | 685 | Speedy Clicky |
 | 609 | 685 | Felicia Williams |
-| 610 | 682 | Happy Winder |
-| 611 | 682 | Janel Almanza |
-| 612 | 681 | Bucky Dent |
-| 613 | 676 | AISlop |
-| 614 | 674 | Phoenyx Tyger |
+| 610 | 684 | Phoenyx Tyger |
+| 611 | 682 | Happy Winder |
+| 612 | 682 | Janel Almanza |
+| 613 | 681 | Bucky Dent |
+| 614 | 676 | AISlop |
 | 615 | 672 | Danielle Beaunoyer Jean |
 | 616 | 671 | Mmma |
 | 617 | 670 | Angie Piel |
@@ -1015,8 +1015,8 @@
 | 1007 | 446 | Jessica Chapman |
 | 1008 | 446 | Tee Jay Altringer |
 | 1009 | 445 | Sherrie Greulich |
-| 1010 | 445 | Rebekah Hamby |
-| 1011 | 445 | Mer Maid |
+| 1010 | 445 | Mer Maid |
+| 1011 | 445 | Rebekah Hamby |
 | 1012 | 445 | Silly Clearfit |
 | 1013 | 444 | Unicorn |
 | 1014 | 444 | Brittany T |
@@ -1027,18 +1027,18 @@
 | 1019 | 442 | Jessica Supinski |
 | 1020 | 442 | Kari Smith |
 | 1021 | 441 | Kyrie Cleasby |
-| 1022 | 441 | Isaiah Perez |
-| 1023 | 440 | MrsKing |
-| 1024 | 439 | Sarah Starr Fitzenrider |
-| 1025 | 439 | Angelica Strelak |
-| 1026 | 439 | Jaxson |
-| 1027 | 439 | Earvin Smiley |
-| 1028 | 439 | Peppy Zoney |
-| 1029 | 438 | Michelle L Vibberts |
-| 1030 | 438 | Katraya Dansby |
-| 1031 | 438 | Lorena Guerrero-Barron |
-| 1032 | 438 | Snappy Gridclear |
-| 1033 | 437 | Charles Bagwell Jr. |
+| 1022 | 441 | Charles Bagwell Jr. |
+| 1023 | 441 | Isaiah Perez |
+| 1024 | 440 | MrsKing |
+| 1025 | 439 | Sarah Starr Fitzenrider |
+| 1026 | 439 | Angelica Strelak |
+| 1027 | 439 | Jaxson |
+| 1028 | 439 | Earvin Smiley |
+| 1029 | 439 | Peppy Zoney |
+| 1030 | 438 | Michelle L Vibberts |
+| 1031 | 438 | Katraya Dansby |
+| 1032 | 438 | Lorena Guerrero-Barron |
+| 1033 | 438 | Snappy Gridclear |
 | 1034 | 436 | Victoria Chyenne |
 | 1035 | 435 | Sandra Childress |
 | 1036 | 435 | sarbea |
