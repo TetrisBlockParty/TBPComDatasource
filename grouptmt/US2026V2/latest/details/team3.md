@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-19 21:30:49 UTC
+# Standings for team3 as of 2026-03-19 21:31:26 UTC
 
 **Total Participants:** 5708
 
@@ -347,8 +347,8 @@
 | 339 | 1467 | Mikes Girl |
 | 340 | 1467 | Twilight |
 | 341 | 1465 | Andrea Hurt |
-| 342 | 1453 | Jessie Walsh |
-| 343 | 1452 | Cleo Sims |
+| 342 | 1455 | Cleo Sims |
+| 343 | 1453 | Jessie Walsh |
 | 344 | 1450 | Klo |
 | 345 | 1444 | Tma |
 | 346 | 1444 | Wacky Tiltpiece |
@@ -971,10 +971,10 @@
 | 963 | 625 | Jodi Messere |
 | 964 | 624 | Amanda L Almond |
 | 965 | 624 | Misty Lynn Callahan |
-| 966 | 623 | Crystal Cheresnowsky |
-| 967 | 623 | Jailyn Stern |
-| 968 | 622 | Cari Brown Cady |
-| 969 | 621 | Ang Mathis |
+| 966 | 624 | Ang Mathis |
+| 967 | 623 | Crystal Cheresnowsky |
+| 968 | 623 | Jailyn Stern |
+| 969 | 622 | Cari Brown Cady |
 | 970 | 620 | Jennifer Peachey |
 | 971 | 620 | LiterallyJustDave |
 | 972 | 619 | Julie Hamilton |
@@ -1096,14 +1096,14 @@
 | 1088 | 560 | Nikita Ainsworth |
 | 1089 | 559 | Renae M. Dupuis |
 | 1090 | 559 | John Perry |
-| 1091 | 558 | Renee |
-| 1092 | 557 | Angela Sawin |
-| 1093 | 556 | Summer Alexis |
-| 1094 | 556 | Justin Ernst |
-| 1095 | 555 | Nerdy Tiltpiece |
-| 1096 | 555 | Jennifer Brooks |
-| 1097 | 555 | Molly Dunlavy |
-| 1098 | 554 | All |
+| 1091 | 559 | All |
+| 1092 | 558 | Renee |
+| 1093 | 557 | Angela Sawin |
+| 1094 | 556 | Summer Alexis |
+| 1095 | 556 | Justin Ernst |
+| 1096 | 555 | Nerdy Tiltpiece |
+| 1097 | 555 | Jennifer Brooks |
+| 1098 | 555 | Molly Dunlavy |
 | 1099 | 554 | Boldy Jumper |
 | 1100 | 554 | Michelle Selig Weeks |
 | 1101 | 554 | Monique Adame Rosas |
@@ -1343,15 +1343,15 @@
 | 1335 | 464 | Jamie Davis |
 | 1336 | 463 | Crafty Curvebuilder |
 | 1337 | 463 | Kayla Nicole |
-| 1338 | 462 | Amy Mascherini |
-| 1339 | 462 | Rachel Davies |
-| 1340 | 462 | Crafty Fitzone |
-| 1341 | 462 | Spunky Cascadeclear |
-| 1342 | 462 | Mikell Jenkins |
-| 1343 | 461 | Juan Pablo Ortiz |
-| 1344 | 461 | Zappy Blockfall |
-| 1345 | 461 | Chrissy Slepicka |
-| 1346 | 461 | party pooch |
+| 1338 | 463 | Spunky Cascadeclear |
+| 1339 | 462 | Mikell Jenkins |
+| 1340 | 462 | Amy Mascherini |
+| 1341 | 462 | Rachel Davies |
+| 1342 | 462 | Crafty Fitzone |
+| 1343 | 461 | Zappy Blockfall |
+| 1344 | 461 | Chrissy Slepicka |
+| 1345 | 461 | party pooch |
+| 1346 | 461 | Juan Pablo Ortiz |
 | 1347 | 460 | River |
 | 1348 | 460 | Veronica Archambeau |
 | 1349 | 460 | Cheery Bridgepiece |
@@ -1633,13 +1633,13 @@
 | 1625 | 371 | ruvol23 |
 | 1626 | 370 | Christina Anderson |
 | 1627 | 370 | Megan Helton |
-| 1628 | 369 | Tessina Dewey-Mancino |
-| 1629 | 369 | Darla Silva |
-| 1630 | 369 | Edwina Kimble |
-| 1631 | 369 | Fancy T-spin |
-| 1632 | 368 | Bussy Bay |
-| 1633 | 368 | Jada Mckinneyy |
-| 1634 | 367 | Tyler N Kerri Silva |
+| 1628 | 369 | Tyler N Kerri Silva |
+| 1629 | 369 | Tessina Dewey-Mancino |
+| 1630 | 369 | Darla Silva |
+| 1631 | 369 | Edwina Kimble |
+| 1632 | 369 | Fancy T-spin |
+| 1633 | 368 | Bussy Bay |
+| 1634 | 368 | Jada Mckinneyy |
 | 1635 | 367 | Tasha Syers |
 | 1636 | 367 | PinkyBish |
 | 1637 | 366 | Spring Clark |
@@ -2160,27 +2160,27 @@
 | 2152 | 254 | Brave Shatterblock |
 | 2153 | 253 | Kamryn |
 | 2154 | 253 | Lori Thornton Stegal |
-| 2155 | 253 | Rosalie Call Kehlenbeck |
-| 2156 | 253 | Scott Jameson |
-| 2157 | 253 | Margarita Martinez |
-| 2158 | 253 | Allie Leedom |
-| 2159 | 252 | Melissa Rathbun |
-| 2160 | 252 | Rebecca Mawby |
-| 2161 | 252 | Carrie Huskey |
-| 2162 | 252 | Prilly |
-| 2163 | 252 | Hushpuppie |
-| 2164 | 251 | Groovy Rollblock |
-| 2165 | 251 | Daffodil Glitter Toes |
-| 2166 | 251 | Cristina |
-| 2167 | 251 | Erin Murphy |
-| 2168 | 251 | Tammi Larson |
-| 2169 | 251 | Breezy Clusterer |
-| 2170 | 251 | Matt Gering |
-| 2171 | 250 | Keayn Smith |
-| 2172 | 250 | lazy cow |
-| 2173 | 250 | Denette Brents |
-| 2174 | 250 | Ky Sullivan |
-| 2175 | 250 | Carol |
+| 2155 | 253 | Carol |
+| 2156 | 253 | Rosalie Call Kehlenbeck |
+| 2157 | 253 | Scott Jameson |
+| 2158 | 253 | Margarita Martinez |
+| 2159 | 253 | Allie Leedom |
+| 2160 | 252 | Melissa Rathbun |
+| 2161 | 252 | Rebecca Mawby |
+| 2162 | 252 | Carrie Huskey |
+| 2163 | 252 | Prilly |
+| 2164 | 252 | Hushpuppie |
+| 2165 | 251 | Groovy Rollblock |
+| 2166 | 251 | Daffodil Glitter Toes |
+| 2167 | 251 | Cristina |
+| 2168 | 251 | Erin Murphy |
+| 2169 | 251 | Tammi Larson |
+| 2170 | 251 | Breezy Clusterer |
+| 2171 | 251 | Matt Gering |
+| 2172 | 250 | Keayn Smith |
+| 2173 | 250 | lazy cow |
+| 2174 | 250 | Denette Brents |
+| 2175 | 250 | Ky Sullivan |
 | 2176 | 249 | Priscilla S. Bawner |
 | 2177 | 249 | Alma Tais Cardenas |
 | 2178 | 249 | Theresa Opell Gartner |
@@ -3811,34 +3811,34 @@
 | 3803 | 74 | Alcenia Ruby Curry |
 | 3804 | 74 | Jaelyn Hopkins |
 | 3805 | 74 | Porshe Sade Blackmon |
-| 3806 | 74 | Wacky Pivoty |
-| 3807 | 74 | Rae Jean Dunn |
-| 3808 | 74 | Cenetra Denise |
-| 3809 | 74 | Nutty Rollpiece |
-| 3810 | 74 | Perky Gridlock |
-| 3811 | 74 | Crafty Ziggy |
-| 3812 | 74 | Derrick Hill |
-| 3813 | 74 | Judy Jackson |
-| 3814 | 74 | Garrick Wilfork |
-| 3815 | 73 | Sunny Puzzle |
-| 3816 | 73 | Cody Bingamon |
-| 3817 | 73 | Firedancer97 |
-| 3818 | 73 | Lynn Davis-Bell |
-| 3819 | 73 | Melanie Hazelwood |
-| 3820 | 73 | Kitkat |
-| 3821 | 73 | Dreamy Crasher |
-| 3822 | 73 | Autumn Leaves |
-| 3823 | 73 | LillithFirefox |
+| 3806 | 74 | SAM |
+| 3807 | 74 | Wacky Pivoty |
+| 3808 | 74 | Rae Jean Dunn |
+| 3809 | 74 | Cenetra Denise |
+| 3810 | 74 | Nutty Rollpiece |
+| 3811 | 74 | Perky Gridlock |
+| 3812 | 74 | Crafty Ziggy |
+| 3813 | 74 | Derrick Hill |
+| 3814 | 74 | Judy Jackson |
+| 3815 | 74 | Garrick Wilfork |
+| 3816 | 73 | Sunny Puzzle |
+| 3817 | 73 | Cody Bingamon |
+| 3818 | 73 | Firedancer97 |
+| 3819 | 73 | Lynn Davis-Bell |
+| 3820 | 73 | Melanie Hazelwood |
+| 3821 | 73 | Kitkat |
+| 3822 | 73 | Dreamy Crasher |
+| 3823 | 73 | Autumn Leaves |
 | 3824 | 73 | Stark |
 | 3825 | 73 | Stacy Kidd |
 | 3826 | 73 | Silly Twister |
-| 3827 | 73 | Rikki Rikki |
+| 3827 | 73 | LillithFirefox |
 | 3828 | 73 | Dizzy Cascade |
-| 3829 | 72 | R |
-| 3830 | 72 | Ro Ro |
-| 3831 | 72 | Samantha Sipe |
-| 3832 | 72 | Dave Boone |
-| 3833 | 72 | SAM |
+| 3829 | 73 | Rikki Rikki |
+| 3830 | 72 | R |
+| 3831 | 72 | Ro Ro |
+| 3832 | 72 | Samantha Sipe |
+| 3833 | 72 | Dave Boone |
 | 3834 | 72 | Zany Stacker |
 | 3835 | 72 | Laura Baker |
 | 3836 | 72 | Lorena Hernandez |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 21:30:49 UTC
+# Standings for team1 as of 2026-03-19 21:31:26 UTC
 
 **Total Participants:** 3632
 
@@ -215,9 +215,9 @@
 | 207 | 1601 | Hut Des |
 | 208 | 1598 | Nanan Nanan |
 | 209 | 1595 | Ken McDonald |
-| 210 | 1585 | Duane Ficara |
-| 211 | 1583 | Jennie Lee Huntley |
-| 212 | 1573 | Irene Medina |
+| 210 | 1589 | Irene Medina |
+| 211 | 1585 | Duane Ficara |
+| 212 | 1583 | Jennie Lee Huntley |
 | 213 | 1573 | Pazerjonez |
 | 214 | 1566 | Chuck Williams |
 | 215 | 1563 | Erich EMac McIntosh |
@@ -591,12 +591,12 @@
 | 583 | 690 | Jamie Hebert |
 | 584 | 689 | Amy Sanford |
 | 585 | 688 | Wacky Brickster |
-| 586 | 682 | Foulplay176 |
-| 587 | 681 | Michael Bruck |
-| 588 | 680 | Lee Sipelii |
-| 589 | 680 | Krazykat💋❤️💋 |
-| 590 | 679 | Jonathan Morgan-Hoare |
-| 591 | 678 | Snappy Gridclear |
+| 586 | 688 | Snappy Gridclear |
+| 587 | 682 | Foulplay176 |
+| 588 | 681 | Michael Bruck |
+| 589 | 680 | Lee Sipelii |
+| 590 | 680 | Krazykat💋❤️💋 |
+| 591 | 679 | Jonathan Morgan-Hoare |
 | 592 | 677 | Ash Galvan |
 | 593 | 677 | Sarah Ploughe |
 | 594 | 674 | David Lowe |
@@ -779,8 +779,8 @@
 | 771 | 523 | lefty |
 | 772 | 522 | Lindsay Coit Phillips |
 | 773 | 522 | Rebekah LeiAnn Bonsell |
-| 774 | 521 | Natasha Velasquez Gabriel |
-| 775 | 521 | Della Angle |
+| 774 | 521 | Della Angle |
+| 775 | 521 | Natasha Velasquez Gabriel |
 | 776 | 520 | Allen Scott |
 | 777 | 520 | Sabrina Hardrick |
 | 778 | 520 | Jenna Keen |
@@ -788,31 +788,31 @@
 | 780 | 519 | Daniel James Man |
 | 781 | 518 | Amber McDonald |
 | 782 | 517 | Mel Fab |
-| 783 | 517 | Regina Jones |
+| 783 | 517 | Quirky Dashy |
 | 784 | 517 | Shelly Fannon |
-| 785 | 517 | Quirky Dashy |
-| 786 | 516 | Marie Shakinah |
+| 785 | 517 | Regina Jones |
+| 786 | 516 | Sharon Panoski |
 | 787 | 516 | Loony Spinzone |
-| 788 | 516 | Angie Dotson |
-| 789 | 516 | Sharon Panoski |
+| 788 | 516 | Marie Shakinah |
+| 789 | 516 | Angie Dotson |
 | 790 | 516 | Brave Linebuilder |
 | 791 | 515 | Dandy Snapper |
 | 792 | 512 | Evy |
 | 793 | 512 | LineSchniff |
-| 794 | 511 | Dizzy Catcher |
-| 795 | 510 | Nicole Plummer |
-| 796 | 509 | Tracey Daniels |
-| 797 | 508 | Larry Fritzinger |
+| 794 | 511 | Felipa Jo Johnson |
+| 795 | 511 | Dizzy Catcher |
+| 796 | 510 | Nicole Plummer |
+| 797 | 509 | Tracey Daniels |
 | 798 | 508 | Robyn Ruland |
-| 799 | 507 | Colleen Shanley |
-| 800 | 505 | Lynn Adams |
-| 801 | 505 | Felipa Jo Johnson |
+| 799 | 508 | Larry Fritzinger |
+| 800 | 507 | Colleen Shanley |
+| 801 | 505 | Lynn Adams |
 | 802 | 505 | Kristie Ballestin |
-| 803 | 504 | OzzyFan4Life |
-| 804 | 504 | Esav Castro |
+| 803 | 504 | Esav Castro |
+| 804 | 504 | OzzyFan4Life |
 | 805 | 504 | Snippy Builderpiece |
-| 806 | 503 | Shiny Shiftspin |
-| 807 | 503 | Swanky Cascadezone |
+| 806 | 503 | Swanky Cascadezone |
+| 807 | 503 | Shiny Shiftspin |
 | 808 | 502 | Hoppy Balancer |
 | 809 | 501 | Kecia Bright |
 | 810 | 500 | Natasha King |
@@ -822,38 +822,38 @@
 | 814 | 498 | Robert |
 | 815 | 497 | Bink |
 | 816 | 497 | FireHawk |
-| 817 | 496 | Shukee Lo |
-| 818 | 496 | Chill Matchzone |
+| 817 | 496 | Chill Matchzone |
+| 818 | 496 | Shukee Lo |
 | 819 | 495 | Bingo Wingo |
 | 820 | 495 | Erin Green |
-| 821 | 495 | Pheezy |
-| 822 | 495 | Tasha Jasmin |
-| 823 | 494 | Crystal Claypool |
-| 824 | 494 | Speedy Edge |
+| 821 | 495 | Tasha Jasmin |
+| 822 | 495 | Pheezy |
+| 823 | 494 | Speedy Edge |
+| 824 | 494 | Crystal Claypool |
 | 825 | 494 | Angel Pham |
-| 826 | 493 | bea |
-| 827 | 493 | Berenice |
+| 826 | 493 | Berenice |
+| 827 | 493 | bea |
 | 828 | 492 | Tiffani J West |
-| 829 | 491 | Epic Rollbuilder |
-| 830 | 491 | Anthony Bryan Riva |
-| 831 | 490 | jeh |
-| 832 | 490 | Brandon Zachary Anderson |
-| 833 | 490 | Laura Hosford |
+| 829 | 491 | Anthony Bryan Riva |
+| 830 | 491 | Epic Rollbuilder |
+| 831 | 490 | Laura Hosford |
+| 832 | 490 | jeh |
+| 833 | 490 | Brandon Zachary Anderson |
 | 834 | 489 | Agustin Duarte Orozco |
 | 835 | 487 | Chris JonesSr |
 | 836 | 487 | Chummy Curvebuilder |
 | 837 | 485 | Amber Lingerfelt |
 | 838 | 485 | Kevin Tate |
 | 839 | 484 | Pam Jennings Herzog |
-| 840 | 483 | Sonotjelly |
-| 841 | 483 | Giggy Brickmatch |
-| 842 | 482 | Luke Evans |
+| 840 | 483 | Giggy Brickmatch |
+| 841 | 483 | Sonotjelly |
+| 842 | 482 | Pink |
 | 843 | 482 | Linda Mccratic |
-| 844 | 482 | Pink |
+| 844 | 482 | Luke Evans |
 | 845 | 482 | Jamie Merritt |
 | 846 | 481 | Samantha Vidaurri |
-| 847 | 480 | Lalo Enriquez |
-| 848 | 480 | Jeff Frandsen |
+| 847 | 480 | Jeff Frandsen |
+| 848 | 480 | Lalo Enriquez |
 | 849 | 480 | Jason Nathaniel Caniff |
 | 850 | 479 | BugsMama |
 | 851 | 479 | Summer R Delgado |
@@ -3610,17 +3610,17 @@
 | 3602 | 6 | Hoppy Clear |
 | 3603 | 6 | Daring Dingus |
 | 3604 | 6 | Katrina S. West |
-| 3605 | 6 | Magalie Ruiz |
-| 3606 | 6 | Carol Deem Ours |
-| 3607 | 5 | Nancy Johnson |
-| 3608 | 5 | Breezy Tilt |
-| 3609 | 5 | Ann |
-| 3610 | 5 | Smiley Framezone |
-| 3611 | 5 | Brave Zigzag |
-| 3612 | 5 | Cheeky Shuffler |
-| 3613 | 5 | Kim Fowler |
-| 3614 | 5 | Luccid |
-| 3615 | 5 | irishangel |
+| 3605 | 6 | irishangel |
+| 3606 | 6 | Magalie Ruiz |
+| 3607 | 6 | Carol Deem Ours |
+| 3608 | 5 | Nancy Johnson |
+| 3609 | 5 | Breezy Tilt |
+| 3610 | 5 | Ann |
+| 3611 | 5 | Smiley Framezone |
+| 3612 | 5 | Brave Zigzag |
+| 3613 | 5 | Cheeky Shuffler |
+| 3614 | 5 | Kim Fowler |
+| 3615 | 5 | Luccid |
 | 3616 | 5 | Alicia Murch |
 | 3617 | 5 | Shawna McCauley |
 | 3618 | 5 | Denise Poploskie |
