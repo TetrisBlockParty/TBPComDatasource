@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 08:43:25 UTC
+# Standings for team1 as of 2026-03-19 08:44:46 UTC
 
 **Total Participants:** 3530
 
@@ -143,9 +143,9 @@
 | 135 | 1926 | Shaynna Garza |
 | 136 | 1923 | Tanya Bailey |
 | 137 | 1917 | Chris Wanner |
-| 138 | 1901 | Joy Bloodworth |
-| 139 | 1900 | paupau |
-| 140 | 1894 | Sarah Perry Cook |
+| 138 | 1911 | Sarah Perry Cook |
+| 139 | 1901 | Joy Bloodworth |
+| 140 | 1900 | paupau |
 | 141 | 1888 | Mikitta Calvin |
 | 142 | 1878 | Walker Patterson |
 | 143 | 1826 | Tom |
@@ -521,10 +521,10 @@
 | 513 | 569 | Tatiyana Holm |
 | 514 | 569 | Jonathan Morgan-Hoare |
 | 515 | 569 | Bearman |
-| 516 | 567 | Giddy Brickclear |
-| 517 | 566 | Pig02 |
-| 518 | 565 | Flashy Stacky |
-| 519 | 564 | Vergie Michael |
+| 516 | 567 | Vergie Michael |
+| 517 | 567 | Giddy Brickclear |
+| 518 | 566 | Pig02 |
+| 519 | 565 | Flashy Stacky |
 | 520 | 564 | Ambrosia Natas Danu |
 | 521 | 563 | Breezy Wiper |
 | 522 | 563 | Hannah Carter |
@@ -676,20 +676,20 @@
 | 668 | 449 | Hoppy Builderpiece |
 | 669 | 448 | Peachy Snaplink |
 | 670 | 446 | Jonnelle Partin |
-| 671 | 445 | Kevin Tate |
-| 672 | 445 | Hobson Lopes |
-| 673 | 445 | Pam Jennings Herzog |
-| 674 | 444 | Dreamy Matchclear |
-| 675 | 444 | Juice |
-| 676 | 443 | Luke Evans |
-| 677 | 443 | Epic Rollbuilder |
-| 678 | 442 | Gwenda Wright |
-| 679 | 442 | Raheem Young |
-| 680 | 441 | Dizzy Stackbuilder |
-| 681 | 440 | Jr_420 |
-| 682 | 440 | Bucknut420 |
-| 683 | 440 | Alex Nicol |
-| 684 | 440 | Josh Richards |
+| 671 | 446 | Josh Richards |
+| 672 | 445 | Kevin Tate |
+| 673 | 445 | Hobson Lopes |
+| 674 | 445 | Pam Jennings Herzog |
+| 675 | 444 | Dreamy Matchclear |
+| 676 | 444 | Juice |
+| 677 | 443 | Luke Evans |
+| 678 | 443 | Epic Rollbuilder |
+| 679 | 442 | Gwenda Wright |
+| 680 | 442 | Raheem Young |
+| 681 | 441 | Dizzy Stackbuilder |
+| 682 | 440 | Jr_420 |
+| 683 | 440 | Bucknut420 |
+| 684 | 440 | Alex Nicol |
 | 685 | 438 | Chris Ortiz |
 | 686 | 437 | Logan McFarland |
 | 687 | 437 | Benjamin Ford |
@@ -802,11 +802,11 @@
 | 794 | 374 | Sabra Fisher |
 | 795 | 374 | Eric Wren |
 | 796 | 373 | Gina Annese |
-| 797 | 372 | Shaneeka Morrissette |
-| 798 | 371 | Tammy Kunai |
-| 799 | 371 | Nick R Johnson |
-| 800 | 370 | Poppy Builderline |
-| 801 | 370 | Silly Strikerbuilder |
+| 797 | 373 | Silly Strikerbuilder |
+| 798 | 372 | Shaneeka Morrissette |
+| 799 | 371 | Tammy Kunai |
+| 800 | 371 | Nick R Johnson |
+| 801 | 370 | Poppy Builderline |
 | 802 | 370 | Cynthia Herrmann Egland |
 | 803 | 370 | bea |
 | 804 | 370 | Kian Lee Goins |
@@ -1399,18 +1399,18 @@
 | 1391 | 197 | Timothy Lott |
 | 1392 | 196 | Patsy Thacker |
 | 1393 | 196 | Bennett Hunter |
-| 1394 | 196 | Rudas |
-| 1395 | 196 | Candace Roach |
-| 1396 | 196 | Richard Cranium |
-| 1397 | 196 | Joey Burns |
-| 1398 | 196 | Ras David |
-| 1399 | 196 | Schwing! |
-| 1400 | 195 | Dapper Clearfit |
-| 1401 | 195 | Wesley Smith |
-| 1402 | 195 | Ashley Espeut |
+| 1394 | 196 | Stacey Delane Sumner |
+| 1395 | 196 | Rudas |
+| 1396 | 196 | Candace Roach |
+| 1397 | 196 | Richard Cranium |
+| 1398 | 196 | Joey Burns |
+| 1399 | 196 | Ras David |
+| 1400 | 196 | Schwing! |
+| 1401 | 195 | Dapper Clearfit |
+| 1402 | 195 | Wesley Smith |
 | 1403 | 195 | Jessica |
-| 1404 | 195 | David Wright |
-| 1405 | 195 | Stacey Delane Sumner |
+| 1404 | 195 | Ashley Espeut |
+| 1405 | 195 | David Wright |
 | 1406 | 195 | Chilly Pop |
 | 1407 | 195 | Billy |
 | 1408 | 195 | Taquilla Branch |
@@ -1522,17 +1522,17 @@
 | 1514 | 173 | Shawntae Mccary |
 | 1515 | 173 | Ant |
 | 1516 | 173 | MissySai TooRude Ladson |
-| 1517 | 173 | Lasey Rands |
-| 1518 | 172 | Offspring |
+| 1517 | 173 | Conklin Laura |
+| 1518 | 173 | Lasey Rands |
 | 1519 | 172 | Amanda Jean Gray |
 | 1520 | 172 | Bobbie Duty |
-| 1521 | 170 | Graham Graham |
-| 1522 | 170 | Summer Moore |
+| 1521 | 172 | Offspring |
+| 1522 | 170 | Graham Graham |
 | 1523 | 170 | Tate Sonnier |
 | 1524 | 170 | BDubb |
-| 1525 | 170 | Clever Spinblock |
-| 1526 | 170 | Ruby Gonzales |
-| 1527 | 170 | Conklin Laura |
+| 1525 | 170 | Summer Moore |
+| 1526 | 170 | Clever Spinblock |
+| 1527 | 170 | Ruby Gonzales |
 | 1528 | 170 | J. |
 | 1529 | 170 | Jennifer Jones |
 | 1530 | 169 | pretty kitty |
@@ -1890,8 +1890,8 @@
 | 1882 | 117 | always |
 | 1883 | 117 | Dave Bremme |
 | 1884 | 117 | William Page |
-| 1885 | 116 | Peep |
-| 1886 | 116 | Happy Blast |
+| 1885 | 116 | Happy Blast |
+| 1886 | 116 | Peep |
 | 1887 | 116 | Steph |
 | 1888 | 116 | Smiley Strike |
 | 1889 | 116 | Johnson Aryonda |
@@ -1906,8 +1906,8 @@
 | 1898 | 115 | Quinn Craig |
 | 1899 | 115 | 805 |
 | 1900 | 115 | Misty Lewis-Sims |
-| 1901 | 115 | Rashae Sheets |
-| 1902 | 115 | Jumpy Twisterfit |
+| 1901 | 115 | Jumpy Twisterfit |
+| 1902 | 115 | Rashae Sheets |
 | 1903 | 114 | Cozy Strikesnap |
 | 1904 | 114 | Billiejo Bowling |
 | 1905 | 114 | Richard Brady |
@@ -2027,33 +2027,33 @@
 | 2019 | 100 | Josh Ferguson |
 | 2020 | 100 | John Morris |
 | 2021 | 100 | Cynthia Cruell |
-| 2022 | 99 | Alexandra Grant |
-| 2023 | 99 | Scott Gunn |
-| 2024 | 99 | Brad Shelton |
-| 2025 | 99 | Bubbly Chiseler |
-| 2026 | 99 | Omgitsmomma |
-| 2027 | 99 | Ansley Godoy |
-| 2028 | 98 | Yolanda Odgers |
-| 2029 | 98 | Eric A Sabino |
-| 2030 | 98 | m.taha |
-| 2031 | 98 | Chipper Dropmatch |
-| 2032 | 98 | Kelly Marie Hennig |
-| 2033 | 98 | TrillVille |
-| 2034 | 98 | Erica Liebler |
-| 2035 | 98 | ElizaThornberry |
-| 2036 | 98 | Athena |
-| 2037 | 98 | Brenden Norwood |
-| 2038 | 98 | Polataivao Aunai |
-| 2039 | 98 | Jose Thillet |
-| 2040 | 97 | CoralCori Tabor |
-| 2041 | 97 | Jeremy Buckley |
-| 2042 | 97 | Dizzy Zigzag |
-| 2043 | 97 | Zesty Piececlear |
-| 2044 | 97 | Vinny |
-| 2045 | 96 | Henry Henry |
-| 2046 | 96 | Kerryann Morrah |
-| 2047 | 96 | Trapp Starr |
-| 2048 | 96 | Jose Hernandez |
+| 2022 | 100 | Jose Hernandez |
+| 2023 | 99 | Alexandra Grant |
+| 2024 | 99 | Scott Gunn |
+| 2025 | 99 | Brad Shelton |
+| 2026 | 99 | Bubbly Chiseler |
+| 2027 | 99 | Omgitsmomma |
+| 2028 | 99 | Ansley Godoy |
+| 2029 | 98 | Yolanda Odgers |
+| 2030 | 98 | Eric A Sabino |
+| 2031 | 98 | m.taha |
+| 2032 | 98 | Chipper Dropmatch |
+| 2033 | 98 | Kelly Marie Hennig |
+| 2034 | 98 | TrillVille |
+| 2035 | 98 | Erica Liebler |
+| 2036 | 98 | ElizaThornberry |
+| 2037 | 98 | Athena |
+| 2038 | 98 | Brenden Norwood |
+| 2039 | 98 | Polataivao Aunai |
+| 2040 | 98 | Jose Thillet |
+| 2041 | 97 | CoralCori Tabor |
+| 2042 | 97 | Jeremy Buckley |
+| 2043 | 97 | Dizzy Zigzag |
+| 2044 | 97 | Zesty Piececlear |
+| 2045 | 97 | Vinny |
+| 2046 | 96 | Henry Henry |
+| 2047 | 96 | Kerryann Morrah |
+| 2048 | 96 | Trapp Starr |
 | 2049 | 96 | Amy Amy |
 | 2050 | 95 | Shiny Twistslam |
 | 2051 | 95 | Grace Leigh |
@@ -2074,14 +2074,14 @@
 | 2066 | 94 | Tracey Wilson |
 | 2067 | 94 | Oscar Love Mariah |
 | 2068 | 94 | kube |
-| 2069 | 94 | Lizzy Bea |
-| 2070 | 94 | Cozy Brickzone |
-| 2071 | 94 | Eric Dozier |
+| 2069 | 94 | Eric Dozier |
+| 2070 | 94 | Lizzy Bea |
+| 2071 | 94 | Cozy Brickzone |
 | 2072 | 93 | Jumpy Dropper |
-| 2073 | 93 | Phil Burke |
-| 2074 | 93 | Chirpy Shiftsnap |
-| 2075 | 93 | Roo |
-| 2076 | 93 | kulbeans |
+| 2073 | 93 | kulbeans |
+| 2074 | 93 | Roo |
+| 2075 | 93 | Chirpy Shiftsnap |
+| 2076 | 93 | Phil Burke |
 | 2077 | 93 | Michael Anthony |
 | 2078 | 93 | Nutty Liney |
 | 2079 | 93 | Cheery Fitline |
@@ -2095,13 +2095,13 @@
 | 2087 | 92 | Luna |
 | 2088 | 92 | Lex |
 | 2089 | 92 | Ric Hard Hernandez |
-| 2090 | 92 | Amy Lynn Willis |
+| 2090 | 92 | Loopy Brickline |
 | 2091 | 92 | Haha Buckner |
-| 2092 | 92 | Loopy Brickline |
+| 2092 | 92 | Amy Lynn Willis |
 | 2093 | 92 | Brave Riser |
 | 2094 | 91 | Daring Linkroll |
-| 2095 | 91 | Krystalyn Newman |
-| 2096 | 91 | prettygirl |
+| 2095 | 91 | prettygirl |
+| 2096 | 91 | Krystalyn Newman |
 | 2097 | 91 | librarian |
 | 2098 | 91 | Fun 50 |
 | 2099 | 91 | John Absher |
