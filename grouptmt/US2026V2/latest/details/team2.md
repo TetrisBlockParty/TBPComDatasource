@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-19 08:32:46 UTC
+# Standings for team2 as of 2026-03-19 08:33:25 UTC
 
 **Total Participants:** 3574
 
@@ -149,10 +149,10 @@
 | 141 | 1551 | Chipper Matchclear |
 | 142 | 1533 | Dreamer |
 | 143 | 1533 | Ruby Anne |
-| 144 | 1511 | Giggy Brickmatch |
-| 145 | 1486 | kaijujitsu |
-| 146 | 1484 | Paul Hudak |
-| 147 | 1475 | Christina Ramirez |
+| 144 | 1525 | Christina Ramirez |
+| 145 | 1511 | Giggy Brickmatch |
+| 146 | 1486 | kaijujitsu |
+| 147 | 1484 | Paul Hudak |
 | 148 | 1461 | Suffia Alexander |
 | 149 | 1455 | Carson Goldminc |
 | 150 | 1446 | nickle109 |
@@ -289,9 +289,9 @@
 | 281 | 882 | Stacy Evans |
 | 282 | 877 | Emily Wooden |
 | 283 | 871 | KEILANIU |
-| 284 | 870 | Jocelynn Marie |
-| 285 | 869 | Paul Beeman |
-| 286 | 869 | Jo |
+| 284 | 871 | Jo |
+| 285 | 870 | Jocelynn Marie |
+| 286 | 869 | Paul Beeman |
 | 287 | 867 | Mcg |
 | 288 | 860 | Trista Duguay |
 | 289 | 853 | Jay |
@@ -335,12 +335,12 @@
 | 327 | 779 | Bia |
 | 328 | 779 | Jody King |
 | 329 | 777 | Zack Theisen |
-| 330 | 774 | Shelbs |
-| 331 | 769 | Jason McCloy |
-| 332 | 767 | Lateisha Morris |
-| 333 | 765 | Lush Linkgrid |
-| 334 | 765 | Tipsy Glidezone |
-| 335 | 764 | Kash Kaylani |
+| 330 | 776 | Kash Kaylani |
+| 331 | 774 | Shelbs |
+| 332 | 769 | Jason McCloy |
+| 333 | 767 | Lateisha Morris |
+| 334 | 765 | Lush Linkgrid |
+| 335 | 765 | Tipsy Glidezone |
 | 336 | 762 | Bouncy Zoner |
 | 337 | 757 | Troy |
 | 338 | 757 | Athena D Connell |
@@ -1141,20 +1141,20 @@
 | 1133 | 244 | Tia Simmons |
 | 1134 | 243 | Blacc Blac |
 | 1135 | 243 | Bryan Bishop |
-| 1136 | 242 | Ash |
-| 1137 | 242 | D3TROITB0RN74 |
-| 1138 | 242 | bubbles |
-| 1139 | 242 | Tonya Amen |
-| 1140 | 242 | Happy Columnbuilder |
-| 1141 | 242 | RicanJesus69 |
-| 1142 | 242 | Elizabeth Reed |
-| 1143 | 241 | Kari Thompson Rock |
-| 1144 | 241 | Amanda Howard |
-| 1145 | 241 | MrsNutt |
-| 1146 | 241 | Britton Gilreath |
-| 1147 | 241 | Peyton Mclaughlin |
-| 1148 | 241 | Jo NewmindNewfocus Bell |
-| 1149 | 240 | Tito Divyn |
+| 1136 | 243 | Tito Divyn |
+| 1137 | 242 | Ash |
+| 1138 | 242 | D3TROITB0RN74 |
+| 1139 | 242 | bubbles |
+| 1140 | 242 | Tonya Amen |
+| 1141 | 242 | Happy Columnbuilder |
+| 1142 | 242 | RicanJesus69 |
+| 1143 | 242 | Elizabeth Reed |
+| 1144 | 241 | Kari Thompson Rock |
+| 1145 | 241 | Amanda Howard |
+| 1146 | 241 | MrsNutt |
+| 1147 | 241 | Britton Gilreath |
+| 1148 | 241 | Peyton Mclaughlin |
+| 1149 | 241 | Jo NewmindNewfocus Bell |
 | 1150 | 240 | Angel Niomi Munoz |
 | 1151 | 240 | Chipper Clearzone |
 | 1152 | 240 | Jessica Lawson |
@@ -1980,37 +1980,37 @@
 | 1972 | 106 | Any Slm |
 | 1973 | 106 | Zappy Gridlock |
 | 1974 | 106 | Priscilla Dae Jones |
-| 1975 | 106 | Goofy Twistline |
-| 1976 | 106 | Lisa Reid |
-| 1977 | 105 | Hollywuud |
-| 1978 | 105 | Michelle Rene Brettmann |
-| 1979 | 105 | Dreamy Puzzler |
-| 1980 | 105 | Ruby |
-| 1981 | 105 | Rose |
-| 1982 | 105 | Foggy |
-| 1983 | 105 | DeAnna Jones |
-| 1984 | 105 | Gary Teeters |
-| 1985 | 105 | Kitty tet |
-| 1986 | 104 | Whitney Douglas |
-| 1987 | 104 | Dizzy Piececlear |
-| 1988 | 104 | Zesty Slam |
-| 1989 | 104 | Snappy Rotator |
-| 1990 | 104 | Peppy Rollzone |
-| 1991 | 104 | Matt Knowles |
-| 1992 | 104 | Loopy Slice |
-| 1993 | 104 | Sunny Wipefit |
-| 1994 | 104 | Estefa The Architect |
-| 1995 | 104 | Cedric Mendiola |
-| 1996 | 103 | Shalonda Robinson |
+| 1975 | 106 | Giddy Clear |
+| 1976 | 106 | Goofy Twistline |
+| 1977 | 106 | Lisa Reid |
+| 1978 | 105 | Hollywuud |
+| 1979 | 105 | Michelle Rene Brettmann |
+| 1980 | 105 | Dreamy Puzzler |
+| 1981 | 105 | Ruby |
+| 1982 | 105 | Rose |
+| 1983 | 105 | Foggy |
+| 1984 | 105 | DeAnna Jones |
+| 1985 | 105 | Gary Teeters |
+| 1986 | 105 | Kitty tet |
+| 1987 | 104 | Whitney Douglas |
+| 1988 | 104 | Dizzy Piececlear |
+| 1989 | 104 | Peppy Rollzone |
+| 1990 | 104 | Zesty Slam |
+| 1991 | 104 | Snappy Rotator |
+| 1992 | 104 | Matt Knowles |
+| 1993 | 104 | Estefa The Architect |
+| 1994 | 104 | Loopy Slice |
+| 1995 | 104 | Sunny Wipefit |
+| 1996 | 104 | Cedric Mendiola |
 | 1997 | 103 | kragen |
-| 1998 | 103 | Carol Rogers |
-| 1999 | 103 | Lisa McClarin |
-| 2000 | 103 | Rachel Hathcock |
-| 2001 | 103 | kimmy |
-| 2002 | 103 | Dawn Burton |
-| 2003 | 103 | Amber Starr Drinnon |
-| 2004 | 102 | ace |
-| 2005 | 102 | Giddy Clear |
+| 1998 | 103 | Shalonda Robinson |
+| 1999 | 103 | Carol Rogers |
+| 2000 | 103 | Lisa McClarin |
+| 2001 | 103 | Rachel Hathcock |
+| 2002 | 103 | kimmy |
+| 2003 | 103 | Dawn Burton |
+| 2004 | 103 | Amber Starr Drinnon |
+| 2005 | 102 | ace |
 | 2006 | 102 | Kimberly Ann |
 | 2007 | 102 | Blocksy |
 | 2008 | 102 | Yusuf Barnes |
