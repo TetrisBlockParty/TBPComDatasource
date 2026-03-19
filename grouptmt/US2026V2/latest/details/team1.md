@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 08:18:51 UTC
+# Standings for team1 as of 2026-03-19 08:19:24 UTC
 
 **Total Participants:** 3526
 
@@ -1640,28 +1640,28 @@
 | 1632 | 153 | Witty Fallzone |
 | 1633 | 153 | Jenny Weidman Perrotta |
 | 1634 | 153 | Sadie Hill |
-| 1635 | 152 | ace |
-| 1636 | 152 | Chelsey Ann |
-| 1637 | 152 | Shiny Stacky |
-| 1638 | 152 | Daring Blockmatch |
-| 1639 | 151 | Cheeky Snaplink |
-| 1640 | 151 | Kelsey Cook |
-| 1641 | 151 | Mike Zec II |
-| 1642 | 151 | Hobohustle |
-| 1643 | 151 | Gary Ustica |
-| 1644 | 151 | Ashley Espeut |
-| 1645 | 151 | Chris |
-| 1646 | 150 | RainbowOwl |
-| 1647 | 150 | Janet Snipes Kimmel |
-| 1648 | 150 | Donarae Mejia |
-| 1649 | 150 | Franky |
-| 1650 | 149 | Dustin Derby |
-| 1651 | 149 | Jayj |
-| 1652 | 149 | Rebecca Gillespie |
-| 1653 | 149 | Dolly Marie Parsons |
-| 1654 | 149 | Shantel Lynn |
-| 1655 | 149 | Cheery Brickclear |
-| 1656 | 148 | Danny FaJohn |
+| 1635 | 152 | Danny FaJohn |
+| 1636 | 152 | ace |
+| 1637 | 152 | Chelsey Ann |
+| 1638 | 152 | Shiny Stacky |
+| 1639 | 152 | Daring Blockmatch |
+| 1640 | 151 | Cheeky Snaplink |
+| 1641 | 151 | Kelsey Cook |
+| 1642 | 151 | Mike Zec II |
+| 1643 | 151 | Hobohustle |
+| 1644 | 151 | Gary Ustica |
+| 1645 | 151 | Ashley Espeut |
+| 1646 | 151 | Chris |
+| 1647 | 150 | RainbowOwl |
+| 1648 | 150 | Janet Snipes Kimmel |
+| 1649 | 150 | Donarae Mejia |
+| 1650 | 150 | Franky |
+| 1651 | 149 | Dustin Derby |
+| 1652 | 149 | Jayj |
+| 1653 | 149 | Rebecca Gillespie |
+| 1654 | 149 | Dolly Marie Parsons |
+| 1655 | 149 | Shantel Lynn |
+| 1656 | 149 | Cheery Brickclear |
 | 1657 | 148 | Codi McClain Watson |
 | 1658 | 148 | Franklin Danner |
 | 1659 | 148 | imalil |
@@ -2154,19 +2154,19 @@
 | 2146 | 88 | Zesty Stackzone |
 | 2147 | 88 | Josie Juliette Eos Bastet - Roque |
 | 2148 | 87 | Bubbly Linkfall |
-| 2149 | 87 | Frank Smith |
-| 2150 | 87 | Vetz Squad |
-| 2151 | 87 | Nathanul Vogel |
-| 2152 | 87 | Jennifer Brandle |
-| 2153 | 87 | Michael Ehrich |
-| 2154 | 86 | Itn |
-| 2155 | 86 | j and k |
-| 2156 | 86 | Str8jaKkeT |
-| 2157 | 86 | Snippy Base |
-| 2158 | 86 | KingSteve |
-| 2159 | 86 | M3rk |
-| 2160 | 86 | Jaycee Sena |
-| 2161 | 86 | Bouncy Riser |
+| 2149 | 87 | Bouncy Riser |
+| 2150 | 87 | Frank Smith |
+| 2151 | 87 | Vetz Squad |
+| 2152 | 87 | Nathanul Vogel |
+| 2153 | 87 | Jennifer Brandle |
+| 2154 | 87 | Michael Ehrich |
+| 2155 | 86 | Itn |
+| 2156 | 86 | j and k |
+| 2157 | 86 | Str8jaKkeT |
+| 2158 | 86 | Snippy Base |
+| 2159 | 86 | KingSteve |
+| 2160 | 86 | M3rk |
+| 2161 | 86 | Jaycee Sena |
 | 2162 | 86 | Mystikal72 |
 | 2163 | 85 | Gerald Benoitjr |
 | 2164 | 85 | Sam |
