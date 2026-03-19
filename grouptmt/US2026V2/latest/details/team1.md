@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 06:56:49 UTC
+# Standings for team1 as of 2026-03-19 06:57:24 UTC
 
 **Total Participants:** 3517
 
@@ -138,14 +138,14 @@
 | 130 | 1955 | Chalandra Donahue |
 | 131 | 1950 | Dom The Great |
 | 132 | 1946 | Yvonne Buie |
-| 133 | 1926 | Shaynna Garza |
-| 134 | 1923 | Tanya Bailey |
-| 135 | 1917 | Chris Wanner |
-| 136 | 1910 | Witty Spinblock |
-| 137 | 1901 | Joy Bloodworth |
-| 138 | 1900 | paupau |
-| 139 | 1894 | Sarah Perry Cook |
-| 140 | 1892 | Kris Hudelson |
+| 133 | 1942 | Kris Hudelson |
+| 134 | 1926 | Shaynna Garza |
+| 135 | 1923 | Tanya Bailey |
+| 136 | 1917 | Chris Wanner |
+| 137 | 1910 | Witty Spinblock |
+| 138 | 1901 | Joy Bloodworth |
+| 139 | 1900 | paupau |
+| 140 | 1894 | Sarah Perry Cook |
 | 141 | 1888 | Mikitta Calvin |
 | 142 | 1878 | Walker Patterson |
 | 143 | 1826 | Tom |
@@ -237,8 +237,8 @@
 | 229 | 1182 | Angela Lucille |
 | 230 | 1180 | April McGuffie |
 | 231 | 1180 | Mahman |
-| 232 | 1178 | JonCorry Story |
-| 233 | 1178 | Gigglelymomof2 |
+| 232 | 1178 | Gigglelymomof2 |
+| 233 | 1178 | JonCorry Story |
 | 234 | 1175 | Jess Rose |
 | 235 | 1170 | Kehlyn King |
 | 236 | 1168 | TetrisWoo |
@@ -248,18 +248,18 @@
 | 240 | 1149 | Matthew Bunn |
 | 241 | 1147 | Dottie Jones |
 | 242 | 1144 | Marie Helman |
-| 243 | 1138 | nameno |
-| 244 | 1138 | Diamond Madison |
+| 243 | 1138 | Diamond Madison |
+| 244 | 1138 | nameno |
 | 245 | 1136 | Snippy Stacky |
 | 246 | 1132 | Goofy Linkblock |
 | 247 | 1131 | Crafty Dash |
 | 248 | 1118 | Amanda Diegel |
 | 249 | 1117 | Lavender |
 | 250 | 1113 | Lil'A |
-| 251 | 1104 | Shawn Kelso |
-| 252 | 1104 | Hasty Cascader |
-| 253 | 1102 | Andy Harris |
-| 254 | 1102 | Jumpy Spinblock |
+| 251 | 1104 | Hasty Cascader |
+| 252 | 1104 | Shawn Kelso |
+| 253 | 1102 | Jumpy Spinblock |
+| 254 | 1102 | Andy Harris |
 | 255 | 1100 | Michael Powers |
 | 256 | 1089 | Antonia Wyche |
 | 257 | 1089 | Perky Shatterline |
@@ -292,10 +292,10 @@
 | 284 | 959 | Loopy Brickmatch |
 | 285 | 959 | Marshell Harris |
 | 286 | 956 | Rat666 |
-| 287 | 955 | Sallie Sanborn |
-| 288 | 955 | Jason Cunningham |
-| 289 | 953 | Heather Bell |
-| 290 | 953 | Alicia Sheckler |
+| 287 | 955 | Jason Cunningham |
+| 288 | 955 | Sallie Sanborn |
+| 289 | 953 | Alicia Sheckler |
+| 290 | 953 | Heather Bell |
 | 291 | 946 | Poppy Fallzone |
 | 292 | 944 | Stefanie Champion |
 | 293 | 944 | Michael Espinosa Ulibarri Jr. |
@@ -303,17 +303,17 @@
 | 295 | 937 | Mufi25 |
 | 296 | 936 | Lynn Perkins |
 | 297 | 936 | Nikita Nelson |
-| 298 | 934 | Muhammad |
-| 299 | 934 | Crazy12 |
-| 300 | 934 | Rebecca Martin |
+| 298 | 934 | Rebecca Martin |
+| 299 | 934 | Muhammad |
+| 300 | 934 | Crazy12 |
 | 301 | 933 | KathyandPhillip Woolard |
-| 302 | 931 | Aprill Bolton |
-| 303 | 925 | Donna |
-| 304 | 924 | KK |
-| 305 | 920 | Patti Rone |
-| 306 | 916 | John Gardner |
-| 307 | 914 | Rocky |
-| 308 | 913 | Swalshy |
+| 302 | 933 | Swalshy |
+| 303 | 931 | Aprill Bolton |
+| 304 | 925 | Donna |
+| 305 | 924 | KK |
+| 306 | 920 | Patti Rone |
+| 307 | 916 | John Gardner |
+| 308 | 914 | Rocky |
 | 309 | 910 | Crafty Tilebuilder |
 | 310 | 910 | Scott Napper |
 | 311 | 903 | Mahmudul Hasan |
@@ -337,14 +337,14 @@
 | 329 | 829 | Jeff Brian Gates |
 | 330 | 829 | Aaron M Luna |
 | 331 | 827 | Eichwife78 |
-| 332 | 820 | Bribrobra |
-| 333 | 820 | Jena Overall Prescott |
+| 332 | 820 | Jena Overall Prescott |
+| 333 | 820 | Bribrobra |
 | 334 | 813 | Margaret Rose |
 | 335 | 810 | Angela Renea Lester |
 | 336 | 808 | Ecami |
 | 337 | 807 | bounce back |
-| 338 | 804 | Will Fulmer |
-| 339 | 804 | kito23 |
+| 338 | 804 | kito23 |
+| 339 | 804 | Will Fulmer |
 | 340 | 803 | Tionna Rose Alderson |
 | 341 | 801 | Sassy Cascadepiece |
 | 342 | 800 | Pat Padgett |
@@ -367,9 +367,9 @@
 | 359 | 766 | JV Yu |
 | 360 | 765 | Julie Moore |
 | 361 | 764 | Spicy Twister |
-| 362 | 761 | Tammy Lamb |
-| 363 | 761 | juicyred |
-| 364 | 761 | Boldy Clear |
+| 362 | 763 | Boldy Clear |
+| 363 | 761 | Tammy Lamb |
+| 364 | 761 | juicyred |
 | 365 | 761 | Lemonberry |
 | 366 | 760 | King D |
 | 367 | 760 | Ann Brock LaPorte |
