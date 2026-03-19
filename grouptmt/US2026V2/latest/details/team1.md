@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 08:16:52 UTC
+# Standings for team1 as of 2026-03-19 08:17:24 UTC
 
 **Total Participants:** 3524
 
@@ -198,14 +198,14 @@
 | 190 | 1386 | Charles Herbert |
 | 191 | 1376 | Eric Hoffman |
 | 192 | 1374 | Mary Cerciello |
-| 193 | 1358 | Bubbly Staggerpiece |
-| 194 | 1355 | Nick Kozdron |
-| 195 | 1355 | Rennon Scott Wilson |
-| 196 | 1353 | Marianne Louise West |
-| 197 | 1350 | TotoCherue |
-| 198 | 1344 | LeeAnn Martindale |
-| 199 | 1342 | Jevon Griffith |
-| 200 | 1341 | Erich EMac McIntosh |
+| 193 | 1362 | Erich EMac McIntosh |
+| 194 | 1358 | Bubbly Staggerpiece |
+| 195 | 1355 | Nick Kozdron |
+| 196 | 1355 | Rennon Scott Wilson |
+| 197 | 1353 | Marianne Louise West |
+| 198 | 1350 | TotoCherue |
+| 199 | 1344 | LeeAnn Martindale |
+| 200 | 1342 | Jevon Griffith |
 | 201 | 1333 | beep |
 | 202 | 1332 | Ashley Munn |
 | 203 | 1332 | Porshe Garthwaite |
@@ -1598,92 +1598,92 @@
 | 1590 | 160 | Susan Kilgore |
 | 1591 | 160 | Steven Iles |
 | 1592 | 160 | Curtis T Cirno |
-| 1593 | 160 | Pretty Eyes |
-| 1594 | 160 | Dan Baines |
+| 1593 | 160 | Dan Baines |
+| 1594 | 160 | Pretty Eyes |
 | 1595 | 160 | Zesty Balancepiece |
 | 1596 | 160 | Ant Colunga |
-| 1597 | 159 | ldm |
-| 1598 | 159 | Speedy Glider |
-| 1599 | 159 | Christopher James Cienfuegos |
-| 1600 | 159 | Jenny Stratton Cozart |
-| 1601 | 159 | Vivian Bunnell Myers |
+| 1597 | 159 | Speedy Glider |
+| 1598 | 159 | Christopher James Cienfuegos |
+| 1599 | 159 | Conklin Laura |
+| 1600 | 159 | ldm |
+| 1601 | 159 | Lulu C Harp |
 | 1602 | 159 | Candy Jones |
-| 1603 | 159 | Lulu C Harp |
-| 1604 | 158 | Thomcatt |
-| 1605 | 158 | Christian Pham |
-| 1606 | 158 | Christie Love |
-| 1607 | 157 | Linda Mccratic |
-| 1608 | 157 | krazymama89 |
+| 1603 | 159 | Jenny Stratton Cozart |
+| 1604 | 159 | Vivian Bunnell Myers |
+| 1605 | 158 | Thomcatt |
+| 1606 | 158 | Christian Pham |
+| 1607 | 158 | Christie Love |
+| 1608 | 157 | Linda Mccratic |
 | 1609 | 157 | Connie Lepore-Mann |
-| 1610 | 157 | Dan Capellan |
-| 1611 | 157 | Monica Gonzalez Rios |
-| 1612 | 156 | Shiny Pivoty |
-| 1613 | 156 | Chummy Gridder |
-| 1614 | 156 | Kooterbug |
-| 1615 | 156 | Bouncy Dropper |
+| 1610 | 157 | krazymama89 |
+| 1611 | 157 | Dan Capellan |
+| 1612 | 157 | Monica Gonzalez Rios |
+| 1613 | 156 | Shiny Pivoty |
+| 1614 | 156 | Chummy Gridder |
+| 1615 | 156 | Kooterbug |
 | 1616 | 156 | Naomi Sosa |
-| 1617 | 156 | Conklin Laura |
+| 1617 | 156 | Bouncy Dropper |
 | 1618 | 156 | Lacey Davis |
 | 1619 | 155 | Meredith Ann |
 | 1620 | 155 | T Christina Morales |
 | 1621 | 154 | Goofy Gridlock |
-| 1622 | 154 | Bouncy Clicker |
-| 1623 | 154 | Jesica Eade |
-| 1624 | 154 | Witty Dasher |
-| 1625 | 154 | Thomas Chas Felts |
-| 1626 | 154 | Aigner Monae |
-| 1627 | 153 | Jenny Weidman Perrotta |
+| 1622 | 154 | Thomas Chas Felts |
+| 1623 | 154 | Witty Dasher |
+| 1624 | 154 | Jesica Eade |
+| 1625 | 154 | Aigner Monae |
+| 1626 | 154 | Bouncy Clicker |
+| 1627 | 153 | Gloria Barton |
 | 1628 | 153 | Brian Spotts |
 | 1629 | 153 | TacoLover13 |
-| 1630 | 153 | Rickie Rando |
-| 1631 | 153 | Aden Beeck |
-| 1632 | 153 | Witty Fallzone |
-| 1633 | 153 | Gloria Barton |
+| 1630 | 153 | Witty Fallzone |
+| 1631 | 153 | Jenny Weidman Perrotta |
+| 1632 | 153 | Aden Beeck |
+| 1633 | 153 | Rickie Rando |
 | 1634 | 153 | Sadie Hill |
 | 1635 | 152 | ace |
-| 1636 | 152 | Chelsey Ann |
-| 1637 | 152 | Daring Blockmatch |
+| 1636 | 152 | Daring Blockmatch |
+| 1637 | 152 | Chelsey Ann |
 | 1638 | 152 | Shiny Stacky |
-| 1639 | 151 | Cheeky Snaplink |
-| 1640 | 151 | Mike Zec II |
-| 1641 | 151 | Kelsey Cook |
-| 1642 | 151 | Ashley Espeut |
-| 1643 | 151 | Chris |
-| 1644 | 151 | Gary Ustica |
-| 1645 | 151 | Hobohustle |
-| 1646 | 150 | Janet Snipes Kimmel |
-| 1647 | 150 | Donarae Mejia |
-| 1648 | 150 | RainbowOwl |
+| 1639 | 151 | Ashley Espeut |
+| 1640 | 151 | Cheeky Snaplink |
+| 1641 | 151 | Mike Zec II |
+| 1642 | 151 | Kelsey Cook |
+| 1643 | 151 | Gary Ustica |
+| 1644 | 151 | Hobohustle |
+| 1645 | 151 | Chris |
+| 1646 | 150 | RainbowOwl |
+| 1647 | 150 | Janet Snipes Kimmel |
+| 1648 | 150 | Donarae Mejia |
 | 1649 | 150 | Franky |
 | 1650 | 149 | Rebecca Gillespie |
-| 1651 | 149 | Dustin Derby |
-| 1652 | 149 | Dolly Marie Parsons |
-| 1653 | 149 | Jayj |
+| 1651 | 149 | Dolly Marie Parsons |
+| 1652 | 149 | Jayj |
+| 1653 | 149 | Dustin Derby |
 | 1654 | 149 | Cheery Brickclear |
 | 1655 | 148 | Danny FaJohn |
 | 1656 | 148 | Codi McClain Watson |
-| 1657 | 148 | imalil |
-| 1658 | 148 | Franklin Danner |
-| 1659 | 148 | Jeremy Wells |
-| 1660 | 148 | Shantel Lynn |
-| 1661 | 148 | Audrey Abreast |
-| 1662 | 148 | Candace Lin Ladner |
-| 1663 | 148 | Rob Taylor |
-| 1664 | 147 | Kevin Munkel |
-| 1665 | 147 | Chill Pivot |
+| 1657 | 148 | Jeremy Wells |
+| 1658 | 148 | Shantel Lynn |
+| 1659 | 148 | Candace Lin Ladner |
+| 1660 | 148 | Franklin Danner |
+| 1661 | 148 | Rob Taylor |
+| 1662 | 148 | Audrey Abreast |
+| 1663 | 148 | imalil |
+| 1664 | 147 | Emanuel Velazquez |
+| 1665 | 147 | Shiny Party |
 | 1666 | 147 | Las Carolina |
-| 1667 | 147 | Shiny Party |
-| 1668 | 147 | Emanuel Velazquez |
-| 1669 | 147 | Gavin Carr |
+| 1667 | 147 | Kevin Munkel |
+| 1668 | 147 | Gavin Carr |
+| 1669 | 147 | Chill Pivot |
 | 1670 | 147 | Katy Davis Sensky |
 | 1671 | 146 | Mike Hamblin |
-| 1672 | 146 | Jonathon Jones |
-| 1673 | 146 | eightball119 |
-| 1674 | 146 | Christie Reynolds |
+| 1672 | 146 | eightball119 |
+| 1673 | 146 | Christie Reynolds |
+| 1674 | 146 | Jonathon Jones |
 | 1675 | 146 | Belinda Girard |
-| 1676 | 145 | Countryboy Will Survive |
-| 1677 | 145 | Jordan Leach |
-| 1678 | 145 | Bree Prine |
+| 1676 | 145 | Jordan Leach |
+| 1677 | 145 | Bree Prine |
+| 1678 | 145 | Countryboy Will Survive |
 | 1679 | 144 | Tania Flores |
 | 1680 | 144 | Witty Towerfit |
 | 1681 | 144 | Gennylicious |
@@ -1701,18 +1701,18 @@
 | 1693 | 142 | Nerdy Patternline |
 | 1694 | 142 | Zany Blockzone |
 | 1695 | 141 | Nancy Foster |
-| 1696 | 141 | p |
-| 1697 | 141 | Kensho |
-| 1698 | 141 | Purple Pixie |
-| 1699 | 141 | The Chef |
-| 1700 | 141 | Edna Clinton |
-| 1701 | 140 | BIGOONS |
-| 1702 | 140 | Christopher Cutler |
+| 1696 | 141 | Edna Clinton |
+| 1697 | 141 | p |
+| 1698 | 141 | Kensho |
+| 1699 | 141 | Purple Pixie |
+| 1700 | 141 | The Chef |
+| 1701 | 140 | Christopher Cutler |
+| 1702 | 140 | BIGOONS |
 | 1703 | 140 | ppp |
 | 1704 | 140 | Trevor J Armstrong |
 | 1705 | 140 | Geneva Mixon |
-| 1706 | 140 | Winky |
-| 1707 | 140 | Christi Burley |
+| 1706 | 140 | Christi Burley |
+| 1707 | 140 | Winky |
 | 1708 | 140 | Deborah |
 | 1709 | 140 | pinkmom |
 | 1710 | 140 | Tams |
@@ -1846,41 +1846,41 @@
 | 1838 | 122 | Elizabeth A Cobuccio |
 | 1839 | 122 | Devon Rae |
 | 1840 | 122 | Josh Redmon |
-| 1841 | 121 | Jenny Hughes |
-| 1842 | 121 | Saucy Tetriblast |
-| 1843 | 121 | Jumpy Dasher |
-| 1844 | 121 | Poppy Snapbuild |
-| 1845 | 121 | Michele Chesser |
-| 1846 | 121 | Danny Ortiz |
-| 1847 | 121 | Amy Humphreys |
-| 1848 | 120 | Rachelle Wimpey |
-| 1849 | 120 | ChaosNCatHair |
-| 1850 | 120 | Jenna Keen |
-| 1851 | 120 | Samantha Millar |
-| 1852 | 120 | Snippy Builderpiece |
-| 1853 | 120 | Nora Smith |
-| 1854 | 119 | Dark Werewolf |
-| 1855 | 119 | Will Sargent |
-| 1856 | 119 | AJ |
-| 1857 | 119 | Zulma |
-| 1858 | 119 | Harvey Filskov |
-| 1859 | 118 | Chet Boggs |
-| 1860 | 118 | Daring Tile |
-| 1861 | 118 | Sassy Clearzone |
-| 1862 | 118 | Angie Ferris |
-| 1863 | 118 | Samantha Turzak Baker |
-| 1864 | 118 | Colleen Shanley |
-| 1865 | 118 | Rachel Heck |
+| 1841 | 121 | Jeyson |
+| 1842 | 121 | Jenny Hughes |
+| 1843 | 121 | Saucy Tetriblast |
+| 1844 | 121 | Jumpy Dasher |
+| 1845 | 121 | Poppy Snapbuild |
+| 1846 | 121 | Michele Chesser |
+| 1847 | 121 | Danny Ortiz |
+| 1848 | 121 | Amy Humphreys |
+| 1849 | 120 | Rachelle Wimpey |
+| 1850 | 120 | ChaosNCatHair |
+| 1851 | 120 | Jenna Keen |
+| 1852 | 120 | Samantha Millar |
+| 1853 | 120 | Snippy Builderpiece |
+| 1854 | 120 | Nora Smith |
+| 1855 | 119 | Zulma |
+| 1856 | 119 | Dark Werewolf |
+| 1857 | 119 | Will Sargent |
+| 1858 | 119 | AJ |
+| 1859 | 119 | Harvey Filskov |
+| 1860 | 118 | Chet Boggs |
+| 1861 | 118 | Daring Tile |
+| 1862 | 118 | Sassy Clearzone |
+| 1863 | 118 | Rachel Heck |
+| 1864 | 118 | Rita Sunshyne |
+| 1865 | 118 | Angie Ferris |
 | 1866 | 118 | Sandy Rivera |
-| 1867 | 118 | Rita Sunshyne |
-| 1868 | 118 | Pastel |
+| 1867 | 118 | Pastel |
+| 1868 | 118 | Colleen Shanley |
 | 1869 | 118 | Jamie |
-| 1870 | 117 | Jessica Monroe |
-| 1871 | 117 | Breezy Snapclear |
-| 1872 | 117 | Leonna Bianchi |
-| 1873 | 117 | Dar Ferguson |
-| 1874 | 117 | always |
-| 1875 | 117 | Jeyson |
+| 1870 | 118 | Samantha Turzak Baker |
+| 1871 | 117 | Jessica Monroe |
+| 1872 | 117 | Breezy Snapclear |
+| 1873 | 117 | Leonna Bianchi |
+| 1874 | 117 | Dar Ferguson |
+| 1875 | 117 | always |
 | 1876 | 117 | Kimberly Schultz Quinn |
 | 1877 | 117 | Tabby |
 | 1878 | 117 | iceman |
