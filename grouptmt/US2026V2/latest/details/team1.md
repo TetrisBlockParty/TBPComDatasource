@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 07:54:49 UTC
+# Standings for team1 as of 2026-03-19 07:55:26 UTC
 
 **Total Participants:** 3521
 
@@ -185,7 +185,7 @@
 | 177 | 1478 | Kayla Marie Stevenson |
 | 178 | 1467 | Josh Twilley |
 | 179 | 1466 | Duane Ficara |
-| 180 | 1454 | Irene Medina |
+| 180 | 1464 | Irene Medina |
 | 181 | 1451 | Jessica Ritter |
 | 182 | 1449 | Velvet Rarick |
 | 183 | 1428 | Mike Mendoza |
@@ -420,9 +420,9 @@
 | 412 | 693 | Stephanie Myers |
 | 413 | 689 | Amh |
 | 414 | 689 | Amy Sanford |
-| 415 | 681 | Tim Slone |
-| 416 | 680 | Lee Sipelii |
-| 417 | 680 | Teddy Alexander |
+| 415 | 682 | Teddy Alexander |
+| 416 | 681 | Tim Slone |
+| 417 | 680 | Lee Sipelii |
 | 418 | 680 | Krazykat💋❤️💋 |
 | 419 | 680 | CoolHand |
 | 420 | 678 | Peppy Matchclear |
@@ -774,15 +774,15 @@
 | 766 | 387 | Connor Jurzynski |
 | 767 | 387 | Jennifer Negrete |
 | 768 | 385 | cac |
-| 769 | 384 | Tee Tee Greene |
-| 770 | 384 | Felise Bee |
-| 771 | 383 | Randall Sykes |
-| 772 | 381 | Jen |
-| 773 | 381 | Lively Rollfit |
-| 774 | 381 | F3MM3F4T4L3 |
-| 775 | 380 | Nicky Chappell |
-| 776 | 380 | Samantha Vidaurri |
-| 777 | 380 | Josh Richards |
+| 769 | 385 | Josh Richards |
+| 770 | 384 | Tee Tee Greene |
+| 771 | 384 | Felise Bee |
+| 772 | 383 | Randall Sykes |
+| 773 | 381 | Jen |
+| 774 | 381 | Lively Rollfit |
+| 775 | 381 | F3MM3F4T4L3 |
+| 776 | 380 | Nicky Chappell |
+| 777 | 380 | Samantha Vidaurri |
 | 778 | 379 | Sassy Pivotfall |
 | 779 | 379 | Sabrina Frazier |
 | 780 | 379 | Olympia |
