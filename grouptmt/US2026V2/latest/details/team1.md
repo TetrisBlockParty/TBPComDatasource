@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 00:36:46 UTC
+# Standings for team1 as of 2026-03-19 00:37:25 UTC
 
 **Total Participants:** 3423
 
@@ -24,7 +24,7 @@
 | 16 | 9539 | Angel Smith |
 | 17 | 9456 | William George Weglage III |
 | 18 | 8849 | Spicy Buildsnap |
-| 19 | 8703 | Devinlee Brown |
+| 19 | 8705 | Devinlee Brown |
 | 20 | 7966 | Michael Texidor |
 | 21 | 7865 | Paul Smiar |
 | 22 | 7785 | Elyse YL |
@@ -100,12 +100,12 @@
 | 92 | 2309 | Jason Rogers |
 | 93 | 2266 | Witty Wipegrid |
 | 94 | 2255 | Snippy Piecegrid |
-| 95 | 2230 | Ryry |
-| 96 | 2227 | Goober |
-| 97 | 2224 | Yolanda M Harris |
-| 98 | 2218 | Fancy Shuffler |
-| 99 | 2214 | Jme |
-| 100 | 2189 | Silly Ziggy |
+| 95 | 2238 | Silly Ziggy |
+| 96 | 2230 | Ryry |
+| 97 | 2227 | Goober |
+| 98 | 2224 | Yolanda M Harris |
+| 99 | 2218 | Fancy Shuffler |
+| 100 | 2214 | Jme |
 | 101 | 2170 | Zach Thompson |
 | 102 | 2146 | Shannon Ferrari |
 | 103 | 2139 | Robert Benito |
@@ -137,7 +137,7 @@
 | 129 | 1923 | Tanya Bailey |
 | 130 | 1910 | Witty Spinblock |
 | 131 | 1894 | Sarah Perry Cook |
-| 132 | 1871 | Joy Bloodworth |
+| 132 | 1881 | Joy Bloodworth |
 | 133 | 1865 | Walker Patterson |
 | 134 | 1831 | Brenda Stewart |
 | 135 | 1828 | Mikitta Calvin |
@@ -160,7 +160,7 @@
 | 152 | 1622 | paupau |
 | 153 | 1618 | Jodie Peterson |
 | 154 | 1616 | Sarah Durmer |
-| 155 | 1615 | Letson Melissa |
+| 155 | 1616 | Letson Melissa |
 | 156 | 1590 | Nanan Nanan |
 | 157 | 1575 | Sharisse Baltimore |
 | 158 | 1570 | Ann Carrie |
@@ -275,10 +275,10 @@
 | 267 | 958 | April McGuffie |
 | 268 | 956 | Rat666 |
 | 269 | 953 | Heather Bell |
-| 270 | 949 | Mahman |
-| 271 | 944 | Stefanie Champion |
-| 272 | 943 | Kim Bays |
-| 273 | 942 | Chris Kelly |
+| 270 | 952 | Chris Kelly |
+| 271 | 949 | Mahman |
+| 272 | 944 | Stefanie Champion |
+| 273 | 943 | Kim Bays |
 | 274 | 939 | Shay J Duval |
 | 275 | 933 | KathyandPhillip Woolard |
 | 276 | 930 | Rebecca Martin |
@@ -289,7 +289,7 @@
 | 281 | 919 | Loopy Brickmatch |
 | 282 | 919 | Lavender |
 | 283 | 917 | Patti Rone |
-| 284 | 916 | Aprill Bolton |
+| 284 | 917 | Aprill Bolton |
 | 285 | 914 | Muhammad |
 | 286 | 910 | Crafty Tilebuilder |
 | 287 | 910 | Michael Espinosa Ulibarri Jr. |
@@ -636,14 +636,14 @@
 | 628 | 445 | 030Synner |
 | 629 | 445 | Kevin Tate |
 | 630 | 444 | Dreamy Matchclear |
-| 631 | 442 | Gwenda Wright |
-| 632 | 442 | Quirky_placer |
-| 633 | 441 | Courtney Leigh Deiber |
-| 634 | 441 | Dizzy Stackbuilder |
-| 635 | 440 | Jr_420 |
-| 636 | 440 | Peachy Snaplink |
-| 637 | 440 | Luke Evans |
-| 638 | 440 | Raheem Young |
+| 631 | 443 | Luke Evans |
+| 632 | 442 | Raheem Young |
+| 633 | 442 | Gwenda Wright |
+| 634 | 442 | Quirky_placer |
+| 635 | 441 | Courtney Leigh Deiber |
+| 636 | 441 | Dizzy Stackbuilder |
+| 637 | 440 | Jr_420 |
+| 638 | 440 | Peachy Snaplink |
 | 639 | 440 | Alex Nicol |
 | 640 | 439 | jeh |
 | 641 | 439 | Jolly Buildgrid |
@@ -798,14 +798,14 @@
 | 790 | 349 | Rachel Ballard |
 | 791 | 347 | Epic Fallzone |
 | 792 | 346 | AngelVoice JB |
-| 793 | 345 | Slinky Stacky |
-| 794 | 345 | Flashy Dasher |
-| 795 | 345 | Aj Fredenburg |
-| 796 | 345 | Pupcup |
-| 797 | 345 | Sonny Gomez |
-| 798 | 344 | Ellen Durfee |
-| 799 | 344 | Jessica Russell |
-| 800 | 344 | PSD |
+| 793 | 346 | PSD |
+| 794 | 345 | Slinky Stacky |
+| 795 | 345 | Flashy Dasher |
+| 796 | 345 | Aj Fredenburg |
+| 797 | 345 | Pupcup |
+| 798 | 345 | Sonny Gomez |
+| 799 | 344 | Ellen Durfee |
+| 800 | 344 | Jessica Russell |
 | 801 | 343 | Qoo |
 | 802 | 343 | Izzie Ramirez-Ford |
 | 803 | 342 | Jennifer Negrete |
@@ -969,28 +969,28 @@
 | 961 | 297 | Pink |
 | 962 | 296 | Kristen Rhoads |
 | 963 | 296 | Dan Engelhard |
-| 964 | 296 | Zappy Strike |
+| 964 | 296 | Selena Rodriguez |
 | 965 | 296 | Ronald Przytulski |
-| 966 | 295 | Tim Doxtator |
-| 967 | 295 | Kelli Pazour |
-| 968 | 295 | Becky Coker |
-| 969 | 295 | Michelle Pike |
-| 970 | 294 | MG Alice |
-| 971 | 294 | Happy Feet |
-| 972 | 294 | Christopher Cunningham |
-| 973 | 294 | Tripp Loc |
-| 974 | 294 | Dizzy Pivoty |
-| 975 | 293 | Kim Robinson |
-| 976 | 293 | Dawgofwar |
-| 977 | 293 | Teresa Wolf |
-| 978 | 293 | Selena Rodriguez |
+| 966 | 296 | Zappy Strike |
+| 967 | 295 | Tim Doxtator |
+| 968 | 295 | Kelli Pazour |
+| 969 | 295 | Becky Coker |
+| 970 | 295 | Michelle Pike |
+| 971 | 294 | MG Alice |
+| 972 | 294 | Happy Feet |
+| 973 | 294 | Christopher Cunningham |
+| 974 | 294 | Tripp Loc |
+| 975 | 294 | Dizzy Pivoty |
+| 976 | 293 | Kim Robinson |
+| 977 | 293 | Dawgofwar |
+| 978 | 293 | Teresa Wolf |
 | 979 | 293 | UltraMAGA |
 | 980 | 293 | Cool Edgefit |
 | 981 | 292 | Matt Metzler |
 | 982 | 292 | Angela Phillips Kean |
-| 983 | 291 | Tamara Brown |
-| 984 | 291 | Kathy Searles |
-| 985 | 291 | momme |
+| 983 | 291 | Kathy Searles |
+| 984 | 291 | momme |
+| 985 | 291 | Tamara Brown |
 | 986 | 291 | Michael Almacen |
 | 987 | 291 | poopsmagee |
 | 988 | 291 | Anne Oliver |
@@ -1001,8 +1001,8 @@
 | 993 | 289 | Shelby Bryson |
 | 994 | 288 | Bri037 |
 | 995 | 288 | Carl Hampton |
-| 996 | 288 | Stephen Lockman |
-| 997 | 288 | MisfitH |
+| 996 | 288 | MisfitH |
+| 997 | 288 | Stephen Lockman |
 | 998 | 287 | Shawn Septer |
 | 999 | 286 | MaegenMarie Jones |
 | 1000 | 286 | LucasEveryday |
@@ -1436,16 +1436,16 @@
 | 1428 | 176 | Cozy Builderfit |
 | 1429 | 176 | Erica Wynne |
 | 1430 | 176 | Bouncy Bricky |
-| 1431 | 175 | Valerie Lasseter |
-| 1432 | 175 | Jai |
-| 1433 | 175 | Stacey Delane Sumner |
-| 1434 | 175 | Stephanie Elizabeth Blake |
-| 1435 | 175 | Becca Gatrell Barton |
-| 1436 | 175 | Nikki Eaton |
-| 1437 | 175 | BunzzHoney |
-| 1438 | 174 | Tee Mac |
-| 1439 | 174 | Jerome Gunst |
-| 1440 | 174 | KMart |
+| 1431 | 176 | KMart |
+| 1432 | 175 | Valerie Lasseter |
+| 1433 | 175 | Jai |
+| 1434 | 175 | Stacey Delane Sumner |
+| 1435 | 175 | Stephanie Elizabeth Blake |
+| 1436 | 175 | Becca Gatrell Barton |
+| 1437 | 175 | Nikki Eaton |
+| 1438 | 175 | BunzzHoney |
+| 1439 | 174 | Tee Mac |
+| 1440 | 174 | Jerome Gunst |
 | 1441 | 174 | Trevor Towle |
 | 1442 | 173 | MissySai TooRude Ladson |
 | 1443 | 173 | Groovy Builder |
@@ -2094,13 +2094,13 @@
 | 2086 | 84 | Daynj |
 | 2087 | 84 | Nicole Casey Langley |
 | 2088 | 84 | Stacy Patterson |
-| 2089 | 84 | Nunya |
-| 2090 | 84 | Jay Will |
-| 2091 | 84 | Swanky Tiltpiece |
-| 2092 | 84 | Thejonesman |
-| 2093 | 83 | Krystyna Ann Conley |
-| 2094 | 83 | Debbie Ward |
-| 2095 | 83 | Flashy Snapper |
+| 2089 | 84 | Flashy Snapper |
+| 2090 | 84 | Nunya |
+| 2091 | 84 | Jay Will |
+| 2092 | 84 | Swanky Tiltpiece |
+| 2093 | 84 | Thejonesman |
+| 2094 | 83 | Krystyna Ann Conley |
+| 2095 | 83 | Debbie Ward |
 | 2096 | 83 | Vinny |
 | 2097 | 83 | Jennifer Traywick |
 | 2098 | 83 | Loony Spinblock |
