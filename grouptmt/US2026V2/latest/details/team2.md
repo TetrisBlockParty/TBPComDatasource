@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-19 20:20:50 UTC
+# Standings for team2 as of 2026-03-19 20:21:27 UTC
 
 **Total Participants:** 3671
 
@@ -147,8 +147,8 @@
 | 139 | 1889 | Michelle |
 | 140 | 1881 | Happy Brickbuilder |
 | 141 | 1871 | Jumpy Smasher |
-| 142 | 1860 | Amanda Segura |
-| 143 | 1856 | Cheery Dropper |
+| 142 | 1861 | Cheery Dropper |
+| 143 | 1860 | Amanda Segura |
 | 144 | 1846 | Yo Momma |
 | 145 | 1840 | Marc |
 | 146 | 1840 | MOMOF5 |
@@ -694,20 +694,20 @@
 | 686 | 554 | Mike Davis |
 | 687 | 554 | Jason Briggs |
 | 688 | 554 | BouncyAries |
-| 689 | 553 | Funky Matcher |
-| 690 | 551 | Brian Wangler |
-| 691 | 551 | Confused Kitty |
-| 692 | 550 | Nellie Cummings |
-| 693 | 550 | Phredda Compton |
-| 694 | 550 | Dandy Matcher |
-| 695 | 549 | Joe Smith |
-| 696 | 547 | Bold Brickzone |
-| 697 | 547 | MrsPass |
-| 698 | 545 | Rachel Eliza |
-| 699 | 545 | Gin Klingenberg |
-| 700 | 543 | Tatyahna Cameron |
-| 701 | 542 | Comedian Gdane |
-| 702 | 542 | Dreamy Dashpiece |
+| 689 | 553 | Tatyahna Cameron |
+| 690 | 553 | Funky Matcher |
+| 691 | 551 | Brian Wangler |
+| 692 | 551 | Confused Kitty |
+| 693 | 550 | Nellie Cummings |
+| 694 | 550 | Phredda Compton |
+| 695 | 550 | Dandy Matcher |
+| 696 | 549 | Joe Smith |
+| 697 | 547 | Bold Brickzone |
+| 698 | 547 | MrsPass |
+| 699 | 545 | Rachel Eliza |
+| 700 | 545 | Gin Klingenberg |
+| 701 | 542 | Dreamy Dashpiece |
+| 702 | 542 | Comedian Gdane |
 | 703 | 540 | Krys Brown |
 | 704 | 539 | Nutty Snapper |
 | 705 | 538 | Marisa-Jamie Anderson |
@@ -1568,28 +1568,28 @@
 | 1560 | 201 | Smiley |
 | 1561 | 201 | Bridgett Walker |
 | 1562 | 200 | Caden Reinhardt |
-| 1563 | 200 | Jai Sweetz |
+| 1563 | 200 | Karmabunny |
 | 1564 | 200 | Andrew Bowen |
-| 1565 | 200 | Stacy |
+| 1565 | 200 | Jai Sweetz |
 | 1566 | 200 | Jaylene Lawrence |
 | 1567 | 200 | Weevil |
-| 1568 | 200 | Katie |
-| 1569 | 200 | Felicia Joy Brentnall |
-| 1570 | 200 | Tinkershell |
-| 1571 | 200 | Embay |
-| 1572 | 199 | Swanky Spinzone |
-| 1573 | 199 | Sn |
-| 1574 | 199 | Trell Sweeting |
-| 1575 | 199 | Melissa Rodriguez |
+| 1568 | 200 | Stacy |
+| 1569 | 200 | Katie |
+| 1570 | 200 | Felicia Joy Brentnall |
+| 1571 | 200 | Tinkershell |
+| 1572 | 200 | Embay |
+| 1573 | 199 | Swanky Spinzone |
+| 1574 | 199 | Sn |
+| 1575 | 199 | Trell Sweeting |
 | 1576 | 199 | Barb Lower |
-| 1577 | 199 | Lydell Webb |
-| 1578 | 198 | Cee_me |
-| 1579 | 198 | Smellygirl |
-| 1580 | 198 | Clever Snapgrid |
-| 1581 | 198 | Linda Taylor |
-| 1582 | 197 | Blockboi Hess |
-| 1583 | 197 | Susan L. Brown |
-| 1584 | 197 | Karmabunny |
+| 1577 | 199 | Melissa Rodriguez |
+| 1578 | 199 | Lydell Webb |
+| 1579 | 198 | Cee_me |
+| 1580 | 198 | Smellygirl |
+| 1581 | 198 | Clever Snapgrid |
+| 1582 | 198 | Linda Taylor |
+| 1583 | 197 | Blockboi Hess |
+| 1584 | 197 | Susan L. Brown |
 | 1585 | 197 | BEANS |
 | 1586 | 196 | Elizabeth Smith |
 | 1587 | 196 | Jenn Nichols |
