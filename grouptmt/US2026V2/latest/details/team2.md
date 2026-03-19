@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-19 08:02:51 UTC
+# Standings for team2 as of 2026-03-19 08:03:24 UTC
 
 **Total Participants:** 3569
 
@@ -87,7 +87,7 @@
 | 79 | 2471 | Belle |
 | 80 | 2430 | Jennifer Gartland |
 | 81 | 2319 | Caitlin Johnson |
-| 82 | 2302 | Giggly Clearzone |
+| 82 | 2304 | Giggly Clearzone |
 | 83 | 2263 | Peachy Matchgrid |
 | 84 | 2260 | Erica Davis |
 | 85 | 2257 | Joshua Hopkins |
@@ -842,26 +842,26 @@
 | 834 | 337 | Elegant banana |
 | 835 | 337 | Chiran Xu |
 | 836 | 337 | Jeanine Macrina |
-| 837 | 336 | Snippy Framezone |
-| 838 | 336 | Flashy Tetriblast |
-| 839 | 335 | Lien |
-| 840 | 334 | Bridgett |
-| 841 | 334 | Becky Short |
-| 842 | 333 | Poppy Matchclear |
-| 843 | 333 | Elaina Temple |
-| 844 | 332 | Cheery Clearfit |
-| 845 | 332 | sofiiya the forst |
-| 846 | 332 | Giggly Shatterline |
-| 847 | 331 | Chipper Clicky |
-| 848 | 330 | Juana |
-| 849 | 329 | Elliana |
-| 850 | 329 | Branden Morris |
-| 851 | 329 | Audrey Jones |
-| 852 | 329 | Melissa M Wolfe |
-| 853 | 329 | Vero |
-| 854 | 328 | Holly Jolly |
-| 855 | 328 | Volley |
-| 856 | 327 | Lenitia Curley |
+| 837 | 337 | Lenitia Curley |
+| 838 | 336 | Snippy Framezone |
+| 839 | 336 | Flashy Tetriblast |
+| 840 | 335 | Lien |
+| 841 | 334 | Bridgett |
+| 842 | 334 | Becky Short |
+| 843 | 333 | Poppy Matchclear |
+| 844 | 333 | Elaina Temple |
+| 845 | 332 | Cheery Clearfit |
+| 846 | 332 | sofiiya the forst |
+| 847 | 332 | Giggly Shatterline |
+| 848 | 331 | Chipper Clicky |
+| 849 | 330 | Juana |
+| 850 | 329 | Elliana |
+| 851 | 329 | Branden Morris |
+| 852 | 329 | Audrey Jones |
+| 853 | 329 | Melissa M Wolfe |
+| 854 | 329 | Vero |
+| 855 | 328 | Holly Jolly |
+| 856 | 328 | Volley |
 | 857 | 326 | Lady5oh |
 | 858 | 325 | Staci George Fitzsimmons |
 | 859 | 325 | Chipper Stacky |
@@ -878,8 +878,8 @@
 | 870 | 322 | Casandra Alisa Rocker |
 | 871 | 322 | Chirpy Zoney |
 | 872 | 321 | Chirpy Gridroll |
-| 873 | 320 | ImperialQueen |
-| 874 | 320 | Summer D Blakeley |
+| 873 | 320 | Summer D Blakeley |
+| 874 | 320 | ImperialQueen |
 | 875 | 320 | Star |
 | 876 | 320 | Jaadd |
 | 877 | 320 | Gam Gam |
@@ -1441,9 +1441,9 @@
 | 1433 | 180 | Dickie Rice |
 | 1434 | 180 | Ivan Belon |
 | 1435 | 180 | Jeremiah Bedwell |
-| 1436 | 179 | Carla B Linker |
-| 1437 | 179 | Queen |
-| 1438 | 179 | Denise McKenzie |
+| 1436 | 180 | Denise McKenzie |
+| 1437 | 179 | Carla B Linker |
+| 1438 | 179 | Queen |
 | 1439 | 179 | Amber Rochelle |
 | 1440 | 179 | Sticherella |
 | 1441 | 179 | Kita A Jackson |
