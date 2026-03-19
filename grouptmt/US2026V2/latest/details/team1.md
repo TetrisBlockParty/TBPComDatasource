@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 06:00:43 UTC
+# Standings for team1 as of 2026-03-19 06:01:26 UTC
 
 **Total Participants:** 3506
 
@@ -209,7 +209,7 @@
 | 201 | 1301 | Kristina Smith |
 | 202 | 1294 | Giddy Balancepiece |
 | 203 | 1293 | Beka |
-| 204 | 1288 | Marianne Louise West |
+| 204 | 1292 | Marianne Louise West |
 | 205 | 1282 | Jay Aye |
 | 206 | 1278 | Debbie Buchanan |
 | 207 | 1269 | Dizzy Pattern |
@@ -494,31 +494,31 @@
 | 486 | 585 | Randy Clevenger |
 | 487 | 585 | Rebecca Hetherington |
 | 488 | 582 | Crystal Eubanks |
-| 489 | 580 | Laura Morrison |
-| 490 | 580 | Julie A Hutchinson |
-| 491 | 580 | David Larter |
+| 489 | 580 | David Larter |
+| 490 | 580 | Laura Morrison |
+| 491 | 580 | Julie A Hutchinson |
 | 492 | 579 | Binh Ha |
 | 493 | 578 | Hasty Lift |
 | 494 | 578 | Ernesto Chavera |
-| 495 | 577 | Aponk |
-| 496 | 577 | Hasty Towerpiece |
+| 495 | 577 | Hasty Towerpiece |
+| 496 | 577 | Aponk |
 | 497 | 577 | Aaron Higdon |
 | 498 | 576 | Kat Fisher |
 | 499 | 575 | Shawna Fender Dennis |
 | 500 | 573 | Lisa Reynolds Adair |
 | 501 | 571 | Erica Catherine |
 | 502 | 570 | Zachary Moran |
-| 503 | 569 | Bearman |
-| 504 | 569 | Tatiyana Holm |
-| 505 | 569 | Jonathan Morgan-Hoare |
+| 503 | 569 | Tatiyana Holm |
+| 504 | 569 | Jonathan Morgan-Hoare |
+| 505 | 569 | Bearman |
 | 506 | 567 | Jason Hawk |
 | 507 | 566 | Pig02 |
-| 508 | 566 | Tractor Houston |
-| 509 | 565 | Flashy Stacky |
-| 510 | 564 | Ambrosia Natas Danu |
-| 511 | 563 | Hannah Carter |
-| 512 | 563 | Breezy Wiper |
-| 513 | 563 | Fancy Cascadebuilder |
+| 508 | 566 | Fancy Cascadebuilder |
+| 509 | 566 | Tractor Houston |
+| 510 | 565 | Flashy Stacky |
+| 511 | 564 | Ambrosia Natas Danu |
+| 512 | 563 | Hannah Carter |
+| 513 | 563 | Breezy Wiper |
 | 514 | 561 | Giddy Brickclear |
 | 515 | 557 | Kay Alifi |
 | 516 | 556 | Cozy Twistbuilder |
@@ -526,8 +526,8 @@
 | 518 | 551 | Brenda L. Bunce |
 | 519 | 550 | Jennifer L Rutherford |
 | 520 | 549 | Dave Myers |
-| 521 | 548 | David Zeimer |
-| 522 | 548 | Trina Gee |
+| 521 | 548 | Trina Gee |
+| 522 | 548 | David Zeimer |
 | 523 | 547 | KoDaK |
 | 524 | 546 | Angela Brown Babin |
 | 525 | 544 | Chilly Matchbuilder |
@@ -538,40 +538,40 @@
 | 530 | 541 | BingoStarr |
 | 531 | 541 | Courtney Leigh Deiber |
 | 532 | 540 | snazzyseahorse |
-| 533 | 540 | Sullivan Tamara |
+| 533 | 540 | Angel Mendez |
 | 534 | 540 | Kat |
-| 535 | 540 | Angel Mendez |
+| 535 | 540 | Sullivan Tamara |
 | 536 | 539 | Seaira Allen |
 | 537 | 538 | Sheree Twiddy Thornton |
-| 538 | 538 | Spunky Matchfit |
-| 539 | 538 | Jessica Butler |
-| 540 | 536 | Twisty Blockmatch |
-| 541 | 533 | Jacob Phillips |
+| 538 | 538 | Jessica Butler |
+| 539 | 538 | Spunky Matchfit |
+| 540 | 536 | Crystal Jaggars |
+| 541 | 536 | Twisty Blockmatch |
 | 542 | 533 | Jaay |
-| 543 | 531 | Dennis Eitler |
+| 543 | 533 | Jacob Phillips |
 | 544 | 531 | Brandon McDonald |
-| 545 | 530 | Shant |
-| 546 | 529 | Melodie Hill |
+| 545 | 531 | Dennis Eitler |
+| 546 | 530 | Shant |
 | 547 | 529 | Ern2burn |
-| 548 | 528 | Chiquita Spears |
-| 549 | 527 | Crystal Jaggars |
+| 548 | 529 | Melodie Hill |
+| 549 | 528 | Chiquita Spears |
 | 550 | 527 | Stephanie M Dabson |
 | 551 | 526 | Glauf |
 | 552 | 525 | Quirky Crawler |
-| 553 | 524 | Tran Tran |
-| 554 | 524 | Candace Fielder |
+| 553 | 524 | Candace Fielder |
+| 554 | 524 | Tran Tran |
 | 555 | 523 | lefty |
 | 556 | 522 | Mary McGhee |
 | 557 | 522 | Rebekah LeiAnn Bonsell |
 | 558 | 521 | Natasha Velasquez Gabriel |
 | 559 | 520 | Allen Scott |
 | 560 | 519 | Chase Bristow |
-| 561 | 518 | Katie Alexander |
-| 562 | 518 | Mama Becky |
+| 561 | 518 | Mama Becky |
+| 562 | 518 | Katie Alexander |
 | 563 | 517 | Quirky Dashy |
 | 564 | 516 | Dizzy Linkgrid |
-| 565 | 515 | Gabriel Archer |
-| 566 | 515 | Angela |
+| 565 | 515 | Angela |
+| 566 | 515 | Gabriel Archer |
 | 567 | 512 | Evy |
 | 568 | 512 | Amber McDonald |
 | 569 | 511 | NolaGal |
@@ -579,19 +579,19 @@
 | 571 | 509 | Tracey Daniels |
 | 572 | 508 | Robyn Ruland |
 | 573 | 506 | Angie Dotson |
-| 574 | 505 | Giggy Snaplink |
-| 575 | 505 | Lynn Adams |
-| 576 | 504 | primus |
-| 577 | 504 | Esav Castro |
+| 574 | 505 | Lynn Adams |
+| 575 | 505 | Giggy Snaplink |
+| 576 | 504 | Esav Castro |
+| 577 | 504 | primus |
 | 578 | 503 | Shiny Shiftspin |
 | 579 | 503 | Ellen |
-| 580 | 502 | Samantha Crowley |
-| 581 | 502 | Slinky Dashpiece |
-| 582 | 502 | Dizzy Catcher |
-| 583 | 502 | Kelli Marie |
+| 580 | 502 | Kelli Marie |
+| 581 | 502 | Samantha Crowley |
+| 582 | 502 | Slinky Dashpiece |
+| 583 | 502 | Dizzy Catcher |
 | 584 | 501 | Nicole Plummer |
-| 585 | 500 | Dizzy Glidebuilder |
-| 586 | 500 | Terrance Williams |
+| 585 | 500 | Terrance Williams |
+| 586 | 500 | Dizzy Glidebuilder |
 | 587 | 500 | Aseven Elements |
 | 588 | 498 | tazd0629 |
 | 589 | 498 | Snazzy Rotater |
@@ -1522,27 +1522,27 @@
 | 1514 | 170 | J. |
 | 1515 | 169 | sgt baby |
 | 1516 | 169 | Lacey Renee Dietz |
-| 1517 | 169 | Bobbie Freeman |
-| 1518 | 169 | Crystal Conklin |
-| 1519 | 169 | Daniel R Morgan |
-| 1520 | 169 | pretty kitty |
-| 1521 | 168 | Herm Junior |
-| 1522 | 168 | Bob Sitts |
-| 1523 | 168 | Mone't King |
-| 1524 | 168 | Christina Rentz-Lane |
-| 1525 | 168 | Amanda Pauldo-Ivy |
-| 1526 | 168 | Spunky Zoney |
-| 1527 | 168 | Oscar Ferguson |
-| 1528 | 168 | 420 but ion smoke |
-| 1529 | 168 | Cozy Patternbuilder |
-| 1530 | 168 | Princess |
-| 1531 | 168 | KyngKliff |
-| 1532 | 167 | Happy Buildsnap |
-| 1533 | 167 | Laura Hosford |
-| 1534 | 167 | Mighty Piececlear |
-| 1535 | 167 | Melissa Acera Baker |
-| 1536 | 167 | MrsBrown |
-| 1537 | 167 | Nutty Twister |
+| 1517 | 169 | Nutty Twister |
+| 1518 | 169 | Bobbie Freeman |
+| 1519 | 169 | Crystal Conklin |
+| 1520 | 169 | Daniel R Morgan |
+| 1521 | 169 | pretty kitty |
+| 1522 | 168 | Herm Junior |
+| 1523 | 168 | Bob Sitts |
+| 1524 | 168 | Mone't King |
+| 1525 | 168 | Christina Rentz-Lane |
+| 1526 | 168 | Amanda Pauldo-Ivy |
+| 1527 | 168 | Spunky Zoney |
+| 1528 | 168 | Oscar Ferguson |
+| 1529 | 168 | 420 but ion smoke |
+| 1530 | 168 | Cozy Patternbuilder |
+| 1531 | 168 | Princess |
+| 1532 | 168 | KyngKliff |
+| 1533 | 167 | Happy Buildsnap |
+| 1534 | 167 | Laura Hosford |
+| 1535 | 167 | Mighty Piececlear |
+| 1536 | 167 | Melissa Acera Baker |
+| 1537 | 167 | MrsBrown |
 | 1538 | 167 | HAWAIIANPUNCCH |
 | 1539 | 167 | Bean |
 | 1540 | 166 | l |
@@ -1569,8 +1569,8 @@
 | 1561 | 163 | Truus Van Der Wetering |
 | 1562 | 162 | Kimberly Haug |
 | 1563 | 162 | MaPlease |
-| 1564 | 162 | Krystle Raye Green |
-| 1565 | 162 | Spooky Lil Mama |
+| 1564 | 162 | Spooky Lil Mama |
+| 1565 | 162 | Krystle Raye Green |
 | 1566 | 162 | Amy Hepler |
 | 1567 | 162 | Chipper Tumbler |
 | 1568 | 162 | Albert Josef Toves Means Jr. |
