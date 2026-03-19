@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 13:00:59 UTC
+# Standings for team1 as of 2026-03-19 13:01:26 UTC
 
 **Total Participants:** 3565
 
@@ -242,10 +242,10 @@
 | 234 | 1220 | Ana Fernanda Sanchez |
 | 235 | 1219 | Happy Tilerpiece |
 | 236 | 1219 | Spunky Matchfit |
-| 237 | 1215 | Al Smith Jr |
-| 238 | 1213 | Matthew Bunn |
-| 239 | 1210 | Melody Quinn |
-| 240 | 1205 | Bold Clear |
+| 237 | 1216 | Bold Clear |
+| 238 | 1215 | Al Smith Jr |
+| 239 | 1213 | Matthew Bunn |
+| 240 | 1210 | Melody Quinn |
 | 241 | 1202 | Cannaman710 |
 | 242 | 1201 | Tina Blessed Cage |
 | 243 | 1198 | Matt Aguilar |
@@ -538,13 +538,13 @@
 | 530 | 608 | Frilly T-spin |
 | 531 | 604 | John McCarthy II |
 | 532 | 603 | Boldy Twisterfit |
-| 533 | 600 | Dave Myers |
-| 534 | 599 | Dawn Hoffman |
-| 535 | 598 | Alezandra Smith |
-| 536 | 597 | MaPlease |
-| 537 | 596 | Kat Fisher |
-| 538 | 596 | Ciara Nunez |
-| 539 | 595 | Glauf |
+| 533 | 601 | Glauf |
+| 534 | 600 | Dave Myers |
+| 535 | 599 | Dawn Hoffman |
+| 536 | 598 | Alezandra Smith |
+| 537 | 597 | MaPlease |
+| 538 | 596 | Kat Fisher |
+| 539 | 596 | Ciara Nunez |
 | 540 | 594 | Lisa Reynolds Adair |
 | 541 | 594 | Matthew Helton |
 | 542 | 591 | Moretattsdenscars |
@@ -2216,51 +2216,51 @@
 | 2208 | 86 | Mystikal72 |
 | 2209 | 86 | Jaycee Sena |
 | 2210 | 86 | M3rk |
-| 2211 | 85 | Karen Guy |
-| 2212 | 85 | Cole Karim |
-| 2213 | 85 | Shawna Love |
-| 2214 | 85 | Sam |
-| 2215 | 85 | Silly Rollfit |
-| 2216 | 85 | Gerald Benoitjr |
-| 2217 | 85 | Smiley Clearpiece |
-| 2218 | 85 | Bubbly Blast |
-| 2219 | 85 | Sam Lema |
-| 2220 | 85 | Tabitha Rose Stone |
-| 2221 | 85 | Scott Reynolds |
-| 2222 | 85 | Gregory Craig |
-| 2223 | 85 | Lisa Gayle Skinner |
-| 2224 | 84 | Nikka |
-| 2225 | 84 | dave420 |
-| 2226 | 84 | Nunya |
-| 2227 | 84 | Stacy Patterson |
-| 2228 | 84 | Swanky Tiltpiece |
-| 2229 | 84 | Nicole Casey Langley |
-| 2230 | 84 | Jay Will |
-| 2231 | 84 | Brandy Landis |
-| 2232 | 84 | rosasz |
-| 2233 | 84 | Thejonesman |
-| 2234 | 83 | Smiley |
-| 2235 | 83 | Krystyna Ann Conley |
-| 2236 | 83 | Tazz |
-| 2237 | 83 | Jennifer Traywick |
-| 2238 | 83 | Marisa Tesch |
-| 2239 | 83 | Debbie Ward |
-| 2240 | 83 | Zany Gridlock |
-| 2241 | 83 | Loony Spinblock |
-| 2242 | 82 | Ashley Adams |
-| 2243 | 82 | Susan Lokerse |
-| 2244 | 82 | Bartek Nieznane |
-| 2245 | 82 | Mike Winn |
-| 2246 | 82 | LeeAnn Thompson Saxon |
-| 2247 | 82 | Andrew Saltonstall |
-| 2248 | 82 | Sandman |
-| 2249 | 82 | NewMe Shortie Rodriguez |
-| 2250 | 82 | KingRoss |
-| 2251 | 82 | Quirky Balance |
-| 2252 | 82 | Tetrist |
-| 2253 | 82 | Shellybobellers |
-| 2254 | 82 | Jude |
-| 2255 | 82 | Dolly Harrelson |
+| 2211 | 86 | Dolly Harrelson |
+| 2212 | 85 | Karen Guy |
+| 2213 | 85 | Cole Karim |
+| 2214 | 85 | Shawna Love |
+| 2215 | 85 | Sam |
+| 2216 | 85 | Silly Rollfit |
+| 2217 | 85 | Gerald Benoitjr |
+| 2218 | 85 | Smiley Clearpiece |
+| 2219 | 85 | Bubbly Blast |
+| 2220 | 85 | Sam Lema |
+| 2221 | 85 | Tabitha Rose Stone |
+| 2222 | 85 | Scott Reynolds |
+| 2223 | 85 | Gregory Craig |
+| 2224 | 85 | Lisa Gayle Skinner |
+| 2225 | 84 | Nikka |
+| 2226 | 84 | dave420 |
+| 2227 | 84 | Nunya |
+| 2228 | 84 | Stacy Patterson |
+| 2229 | 84 | Swanky Tiltpiece |
+| 2230 | 84 | Nicole Casey Langley |
+| 2231 | 84 | Jay Will |
+| 2232 | 84 | Brandy Landis |
+| 2233 | 84 | rosasz |
+| 2234 | 84 | Thejonesman |
+| 2235 | 83 | Smiley |
+| 2236 | 83 | Krystyna Ann Conley |
+| 2237 | 83 | Tazz |
+| 2238 | 83 | Jennifer Traywick |
+| 2239 | 83 | Marisa Tesch |
+| 2240 | 83 | Debbie Ward |
+| 2241 | 83 | Zany Gridlock |
+| 2242 | 83 | Loony Spinblock |
+| 2243 | 82 | Ashley Adams |
+| 2244 | 82 | Susan Lokerse |
+| 2245 | 82 | Bartek Nieznane |
+| 2246 | 82 | Mike Winn |
+| 2247 | 82 | LeeAnn Thompson Saxon |
+| 2248 | 82 | Andrew Saltonstall |
+| 2249 | 82 | Sandman |
+| 2250 | 82 | NewMe Shortie Rodriguez |
+| 2251 | 82 | KingRoss |
+| 2252 | 82 | Quirky Balance |
+| 2253 | 82 | Tetrist |
+| 2254 | 82 | Shellybobellers |
+| 2255 | 82 | Jude |
 | 2256 | 82 | Cody Peterson |
 | 2257 | 81 | Donetta Brown |
 | 2258 | 81 | Cozy Buildout |
@@ -2284,15 +2284,15 @@
 | 2276 | 80 | Iliana Figueroa |
 | 2277 | 80 | Ne'Chaun Curtis |
 | 2278 | 80 | Dionie Pina |
-| 2279 | 80 | Doug Stephenson |
-| 2280 | 80 | Brandy Mcelfresh |
-| 2281 | 80 | Jennifer Dineen |
-| 2282 | 80 | Willo Dement |
-| 2283 | 80 | Yolanda Robertson |
-| 2284 | 80 | GuttaAce |
-| 2285 | 79 | Todd Tessler |
-| 2286 | 79 | Giggly Clearfit |
-| 2287 | 79 | The Element |
+| 2279 | 80 | Brandy Mcelfresh |
+| 2280 | 80 | Doug Stephenson |
+| 2281 | 80 | Willo Dement |
+| 2282 | 80 | Jennifer Dineen |
+| 2283 | 80 | GuttaAce |
+| 2284 | 80 | Yolanda Robertson |
+| 2285 | 79 | The Element |
+| 2286 | 79 | Todd Tessler |
+| 2287 | 79 | Giggly Clearfit |
 | 2288 | 79 | Angela Payne |
 | 2289 | 79 | Chase Hermès Bakken |
 | 2290 | 79 | Marcia Crumpton |
@@ -2322,11 +2322,11 @@
 | 2314 | 76 | Shiny Pivoty |
 | 2315 | 76 | dmadigan15 |
 | 2316 | 76 | Dayz |
-| 2317 | 76 | Austin Carol |
-| 2318 | 76 | GrimJones43 |
+| 2317 | 76 | GrimJones43 |
+| 2318 | 76 | Austin Carol |
 | 2319 | 75 | Michael Brady |
-| 2320 | 75 | Mixxx |
-| 2321 | 75 | Spicy Meats |
+| 2320 | 75 | Spicy Meats |
+| 2321 | 75 | Mixxx |
 | 2322 | 75 | Dan Haskins |
 | 2323 | 75 | Jessi Gooch |
 | 2324 | 75 | Tbuzz |
@@ -2347,8 +2347,8 @@
 | 2339 | 74 | Nikki Robinson |
 | 2340 | 74 | Christy Marshall |
 | 2341 | 74 | Ddb |
-| 2342 | 74 | Speedy Snapmatch |
-| 2343 | 74 | Brian Duncan |
+| 2342 | 74 | Brian Duncan |
+| 2343 | 74 | Speedy Snapmatch |
 | 2344 | 73 | Danielle Alexis |
 | 2345 | 73 | Ellieshay |
 | 2346 | 73 | Aaron Arenivaz |
@@ -2385,11 +2385,11 @@
 | 2377 | 70 | Theresa Franklin Stevens |
 | 2378 | 70 | Fancy Rotator |
 | 2379 | 70 | Champagne Mamii |
-| 2380 | 70 | Frothy Clearer |
-| 2381 | 70 | Yellow Mech |
+| 2380 | 70 | Yvonne Osuji |
+| 2381 | 70 | Frothy Clearer |
 | 2382 | 70 | BlockXBlock |
 | 2383 | 70 | Flashy Dropzone |
-| 2384 | 70 | Yvonne Osuji |
+| 2384 | 70 | Yellow Mech |
 | 2385 | 70 | Lacey Quinton |
 | 2386 | 70 | Lynette Tamlin |
 | 2387 | 70 | Braska Williams Jr |
