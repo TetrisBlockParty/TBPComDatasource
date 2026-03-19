@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 08:28:42 UTC
+# Standings for team1 as of 2026-03-19 08:29:25 UTC
 
 **Total Participants:** 3527
 
@@ -685,8 +685,8 @@
 | 677 | 442 | Gwenda Wright |
 | 678 | 442 | Raheem Young |
 | 679 | 441 | Dizzy Stackbuilder |
-| 680 | 440 | Jr_420 |
-| 681 | 440 | Alex Nicol |
+| 680 | 440 | Alex Nicol |
+| 681 | 440 | Jr_420 |
 | 682 | 440 | Bucknut420 |
 | 683 | 438 | Chris Ortiz |
 | 684 | 437 | Benjamin Ford |
@@ -701,26 +701,26 @@
 | 693 | 433 | Ophelia Rae |
 | 694 | 433 | Quirky Catcher |
 | 695 | 432 | Slinky Stacky |
-| 696 | 431 | Della Angle |
-| 697 | 431 | Thomas Carlisle |
-| 698 | 431 | Mandy Kachenmeister |
+| 696 | 431 | Thomas Carlisle |
+| 697 | 431 | Mandy Kachenmeister |
+| 698 | 431 | Della Angle |
 | 699 | 425 | Kelly Miller Williams |
-| 700 | 424 | Joshua Lipscomb |
-| 701 | 424 | Dicfitzwel |
-| 702 | 423 | Glitzy Builderline |
-| 703 | 423 | Ben Barkley |
-| 704 | 422 | Steffi Chris Dacones |
-| 705 | 422 | Izzie Ramirez-Ford |
-| 706 | 421 | StarlessRevenge |
-| 707 | 420 | Bri Jackson |
+| 700 | 425 | Steven Ray Real |
+| 701 | 424 | Joshua Lipscomb |
+| 702 | 424 | Dicfitzwel |
+| 703 | 423 | Glitzy Builderline |
+| 704 | 423 | Ben Barkley |
+| 705 | 422 | Steffi Chris Dacones |
+| 706 | 422 | Izzie Ramirez-Ford |
+| 707 | 421 | StarlessRevenge |
 | 708 | 420 | Cassi Owens |
-| 709 | 420 | Sabrina Hardrick |
-| 710 | 420 | Florna Primrose |
-| 711 | 419 | Lisa Klockenga |
-| 712 | 419 | Mandy Faye Jackson |
-| 713 | 417 | Chilly Faller |
-| 714 | 416 | OzzyFan4Life |
-| 715 | 416 | Steven Ray Real |
+| 709 | 420 | Bri Jackson |
+| 710 | 420 | Sabrina Hardrick |
+| 711 | 420 | Florna Primrose |
+| 712 | 419 | Lisa Klockenga |
+| 713 | 419 | Mandy Faye Jackson |
+| 714 | 417 | Chilly Faller |
+| 715 | 416 | OzzyFan4Life |
 | 716 | 415 | Dusti Byrd |
 | 717 | 414 | Jeremy Mitchell |
 | 718 | 414 | Kjnals Wall |
@@ -1438,28 +1438,28 @@
 | 1430 | 190 | Barbara Miller |
 | 1431 | 190 | Brittany Lynn Cullen-Lyons |
 | 1432 | 190 | viennie |
-| 1433 | 190 | Lori L. Tucker |
-| 1434 | 190 | Nuga |
+| 1433 | 190 | Nuga |
+| 1434 | 190 | Lori L. Tucker |
 | 1435 | 190 | Melissa Bires Hussar |
 | 1436 | 190 | Hoppy Pattern |
 | 1437 | 189 | Nicole McCune |
 | 1438 | 189 | Tammy Griffee |
 | 1439 | 189 | Ðirt |
 | 1440 | 189 | Crystal Wells Hickman |
-| 1441 | 189 | Dreamy Staggerpiece |
-| 1442 | 188 | Andretta Wilder |
-| 1443 | 188 | Christi Bouten-Harmon |
-| 1444 | 188 | KMart |
-| 1445 | 188 | anastacia |
-| 1446 | 188 | Daniel R Morgan |
-| 1447 | 188 | Wacky Brickster |
-| 1448 | 187 | Michele Walker |
+| 1441 | 189 | Stacey Delane Sumner |
+| 1442 | 189 | Dreamy Staggerpiece |
+| 1443 | 188 | Daniel R Morgan |
+| 1444 | 188 | Christi Bouten-Harmon |
+| 1445 | 188 | Andretta Wilder |
+| 1446 | 188 | KMart |
+| 1447 | 188 | anastacia |
+| 1448 | 188 | Wacky Brickster |
 | 1449 | 187 | Swanky Tetrisline |
-| 1450 | 187 | Alexandria Ritch |
-| 1451 | 187 | Pat K Ellis |
-| 1452 | 186 | Nutty Matcher |
+| 1450 | 187 | Michele Walker |
+| 1451 | 187 | Alexandria Ritch |
+| 1452 | 187 | Pat K Ellis |
 | 1453 | 186 | Kaitlyn Dean |
-| 1454 | 186 | Stacey Delane Sumner |
+| 1454 | 186 | Nutty Matcher |
 | 1455 | 186 | Tasha Jasmin |
 | 1456 | 186 | Sam |
 | 1457 | 185 | Flashy Clicker |
@@ -1619,15 +1619,15 @@
 | 1611 | 157 | krazymama89 |
 | 1612 | 157 | Dan Capellan |
 | 1613 | 157 | Connie Lepore-Mann |
-| 1614 | 157 | Monica Gonzalez Rios |
-| 1615 | 156 | Chummy Gridder |
-| 1616 | 156 | Shiny Pivoty |
-| 1617 | 156 | Naomi Sosa |
-| 1618 | 156 | Lacey Davis |
-| 1619 | 156 | Kooterbug |
-| 1620 | 155 | Meredith Ann |
-| 1621 | 155 | T Christina Morales |
-| 1622 | 154 | Danny FaJohn |
+| 1614 | 157 | Danny FaJohn |
+| 1615 | 157 | Monica Gonzalez Rios |
+| 1616 | 156 | Chummy Gridder |
+| 1617 | 156 | Shiny Pivoty |
+| 1618 | 156 | Naomi Sosa |
+| 1619 | 156 | Lacey Davis |
+| 1620 | 156 | Kooterbug |
+| 1621 | 155 | Meredith Ann |
+| 1622 | 155 | T Christina Morales |
 | 1623 | 154 | Goofy Gridlock |
 | 1624 | 154 | Witty Dasher |
 | 1625 | 154 | Bouncy Clicker |
