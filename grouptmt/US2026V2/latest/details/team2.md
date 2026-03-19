@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-19 04:18:47 UTC
+# Standings for team2 as of 2026-03-19 04:19:24 UTC
 
 **Total Participants:** 3527
 
@@ -54,7 +54,7 @@
 | 46 | 3857 | Joshua Carter |
 | 47 | 3855 | Adam Charles |
 | 48 | 3767 | Andrey Sharov |
-| 49 | 3653 | Peppy Slice |
+| 49 | 3673 | Peppy Slice |
 | 50 | 3630 | Shandrea Crawford |
 | 51 | 3579 | Katie Wisecarver |
 | 52 | 3556 | DJ Bincent |
@@ -81,8 +81,8 @@
 | 73 | 2717 | opf |
 | 74 | 2700 | Kevin Watson |
 | 75 | 2672 | Minxy |
-| 76 | 2550 | Peppy Zone |
-| 77 | 2548 | Rusty Davis |
+| 76 | 2578 | Rusty Davis |
+| 77 | 2550 | Peppy Zone |
 | 78 | 2490 | Jamie Lang |
 | 79 | 2430 | Jennifer Gartland |
 | 80 | 2419 | Belle |
@@ -464,11 +464,11 @@
 | 456 | 586 | Crystal Brouner-Langlois |
 | 457 | 583 | Kate |
 | 458 | 583 | Plucky Snaplink |
-| 459 | 582 | Arkei Luster |
-| 460 | 580 | Guy Incognito |
-| 461 | 580 | CSOTYS |
-| 462 | 579 | Lucy Honer |
-| 463 | 577 | Sammy |
+| 459 | 583 | Sammy |
+| 460 | 582 | Arkei Luster |
+| 461 | 580 | Guy Incognito |
+| 462 | 580 | CSOTYS |
+| 463 | 579 | Lucy Honer |
 | 464 | 576 | Dreamy Clicky |
 | 465 | 575 | Smiley Match |
 | 466 | 573 | Lora |
@@ -1728,32 +1728,32 @@
 | 1720 | 134 | GoblinHatcher |
 | 1721 | 134 | MusicMaster |
 | 1722 | 134 | Dai Bo |
-| 1723 | 133 | Giddy Mover |
-| 1724 | 133 | Shiny Zonegrid |
-| 1725 | 133 | Alexia Boston |
-| 1726 | 133 | Trisha Balmer |
+| 1723 | 133 | Alexia Boston |
+| 1724 | 133 | Trisha Balmer |
+| 1725 | 133 | Giddy Mover |
+| 1726 | 133 | Shiny Zonegrid |
 | 1727 | 133 | Brandi Quick |
-| 1728 | 132 | Ellie Cook |
-| 1729 | 132 | Katie Bolich |
+| 1728 | 132 | April |
+| 1729 | 132 | Ellie Cook |
 | 1730 | 132 | Twisty Corner |
-| 1731 | 132 | April |
+| 1731 | 132 | Katie Bolich |
 | 1732 | 132 | Ferita Henderson |
 | 1733 | 132 | Breezy Crawler |
 | 1734 | 132 | Lush Edgepiece |
 | 1735 | 132 | Loony Gridder |
 | 1736 | 131 | Elizabeth Donovan |
 | 1737 | 131 | nogo |
-| 1738 | 131 | Honu Noste |
+| 1738 | 131 | Brave Tilebuilder |
 | 1739 | 131 | k8y |
-| 1740 | 131 | Angie Jacobs |
-| 1741 | 131 | Beckii Beckford |
-| 1742 | 131 | Brave Tilebuilder |
-| 1743 | 131 | CocoKatt |
+| 1740 | 131 | Honu Noste |
+| 1741 | 131 | CocoKatt |
+| 1742 | 131 | Angie Jacobs |
+| 1743 | 131 | Beckii Beckford |
 | 1744 | 131 | Brooke Parkin |
-| 1745 | 130 | Goofy Basegrid |
-| 1746 | 130 | Autumn Lenhart |
-| 1747 | 130 | Krystyna Hernandez |
-| 1748 | 130 | Natasha Magathan |
+| 1745 | 130 | Autumn Lenhart |
+| 1746 | 130 | Goofy Basegrid |
+| 1747 | 130 | Natasha Magathan |
+| 1748 | 130 | Krystyna Hernandez |
 | 1749 | 130 | Cranky Holder |
 | 1750 | 130 | Tonya |
 | 1751 | 130 | Helen Smith |
@@ -1779,8 +1779,8 @@
 | 1771 | 126 | Dandy Towerer |
 | 1772 | 126 | Chummy Blockline |
 | 1773 | 126 | Blocksy |
-| 1774 | 126 | Mellinese Nicole King |
-| 1775 | 126 | Lazy Swiper |
+| 1774 | 126 | Lazy Swiper |
+| 1775 | 126 | Mellinese Nicole King |
 | 1776 | 126 | Adrienne Schnell-Traylor |
 | 1777 | 126 | Zesty Clicker |
 | 1778 | 126 | Basil |
@@ -1801,10 +1801,10 @@
 | 1793 | 124 | Angie Waters |
 | 1794 | 124 | Nerdy Blockbuilder |
 | 1795 | 123 | Meri |
-| 1796 | 123 | Whitney Mudge |
-| 1797 | 123 | Groovy Combofall |
+| 1796 | 123 | Cranky Bouncer |
+| 1797 | 123 | Whitney Mudge |
 | 1798 | 123 | Andrea Velasco Dela Cruz |
-| 1799 | 123 | Cranky Bouncer |
+| 1799 | 123 | Groovy Combofall |
 | 1800 | 122 | Jasone Justice |
 | 1801 | 122 | Wambo |
 | 1802 | 122 | Funky Stackzone |
@@ -1817,76 +1817,76 @@
 | 1809 | 121 | SlothyVengeance |
 | 1810 | 121 | Hasty Curvetile |
 | 1811 | 121 | Dapper Stacker |
-| 1812 | 121 | LiseePooh |
-| 1813 | 121 | Kelly Cox |
-| 1814 | 120 | Snappy Risebuilder |
-| 1815 | 120 | Graciela Garcia |
-| 1816 | 120 | Jamie Wolfe |
-| 1817 | 120 | gaby |
-| 1818 | 120 | Cranky Rotator |
-| 1819 | 120 | Rainey Felton |
-| 1820 | 120 | Symore Buttz |
-| 1821 | 120 | Blubrry Sprnklz |
-| 1822 | 120 | Bubbly Shift |
-| 1823 | 120 | Perky Wipefit |
-| 1824 | 120 | Crystal Williams |
-| 1825 | 120 | ShyRONNIE |
-| 1826 | 120 | Lilith Luna |
-| 1827 | 120 | Brandon Cruse |
-| 1828 | 119 | Mighty Spinfit |
-| 1829 | 119 | Stella Gordon |
-| 1830 | 119 | Christine Boone |
-| 1831 | 119 | Dapper Bouncer |
-| 1832 | 119 | Marisa Sanders |
-| 1833 | 119 | Kevin Leary |
-| 1834 | 119 | Cheeky Grabber |
-| 1835 | 119 | Heather Hilferty |
-| 1836 | 119 | Nugget |
-| 1837 | 119 | Daquan Rovira |
+| 1812 | 121 | Loony Snapper |
+| 1813 | 121 | LiseePooh |
+| 1814 | 121 | Kelly Cox |
+| 1815 | 120 | Jamie Wolfe |
+| 1816 | 120 | Snappy Risebuilder |
+| 1817 | 120 | Graciela Garcia |
+| 1818 | 120 | gaby |
+| 1819 | 120 | Cranky Rotator |
+| 1820 | 120 | Rainey Felton |
+| 1821 | 120 | Symore Buttz |
+| 1822 | 120 | Blubrry Sprnklz |
+| 1823 | 120 | Bubbly Shift |
+| 1824 | 120 | Perky Wipefit |
+| 1825 | 120 | Crystal Williams |
+| 1826 | 120 | ShyRONNIE |
+| 1827 | 120 | Lilith Luna |
+| 1828 | 120 | Brandon Cruse |
+| 1829 | 119 | Mighty Spinfit |
+| 1830 | 119 | Stella Gordon |
+| 1831 | 119 | Christine Boone |
+| 1832 | 119 | Dapper Bouncer |
+| 1833 | 119 | Jolly Riserpiece |
+| 1834 | 119 | Stacey Sanders |
+| 1835 | 119 | Zany Linkblock |
+| 1836 | 119 | Kevin Leary |
+| 1837 | 119 | Deanna J Legaspi |
 | 1838 | 119 | Bartleby Tickletits |
-| 1839 | 119 | Deanna J Legaspi |
-| 1840 | 119 | Jolly Riserpiece |
-| 1841 | 119 | Zany Linkblock |
-| 1842 | 119 | Stacey Sanders |
-| 1843 | 118 | Zany Puzzle |
-| 1844 | 118 | Timothy Poole |
-| 1845 | 118 | Twisty Towerbuilder |
-| 1846 | 118 | Lively Tiler |
-| 1847 | 118 | cherry 🍒pie |
-| 1848 | 118 | sas |
-| 1849 | 118 | Stephanie Laine Myers |
-| 1850 | 118 | Demon |
-| 1851 | 118 | Kristin Lensing |
-| 1852 | 117 | Dapper Towerpiece |
-| 1853 | 117 | Peppy Zigzag |
-| 1854 | 117 | Gigi McCue |
-| 1855 | 117 | John Leonard |
-| 1856 | 117 | Step White |
-| 1857 | 117 | Zesty Faller |
-| 1858 | 117 | Jude |
-| 1859 | 117 | Secret Buzz |
-| 1860 | 117 | Jennifer Young |
-| 1861 | 117 | Nellie Cummings |
-| 1862 | 116 | Chill Tilefall |
-| 1863 | 116 | Arson Fox |
-| 1864 | 116 | carole57 |
-| 1865 | 116 | Crystal Kennett |
-| 1866 | 116 | Witty Patternzone |
-| 1867 | 116 | Giggy Slam |
-| 1868 | 116 | BurntSinai |
-| 1869 | 116 | Katrina Flatten |
-| 1870 | 115 | Mia Casa |
-| 1871 | 115 | Marianita Garcia |
-| 1872 | 115 | Broketraveler |
-| 1873 | 115 | Bunny |
-| 1874 | 115 | Pamela Knapp |
-| 1875 | 115 | Chill Tumbler |
-| 1876 | 115 | Loony Snapper |
+| 1839 | 119 | Daquan Rovira |
+| 1840 | 119 | Nugget |
+| 1841 | 119 | Heather Hilferty |
+| 1842 | 119 | Cheeky Grabber |
+| 1843 | 119 | Marisa Sanders |
+| 1844 | 118 | Zany Puzzle |
+| 1845 | 118 | Timothy Poole |
+| 1846 | 118 | Twisty Towerbuilder |
+| 1847 | 118 | sas |
+| 1848 | 118 | Lively Tiler |
+| 1849 | 118 | cherry 🍒pie |
+| 1850 | 118 | Stephanie Laine Myers |
+| 1851 | 118 | Demon |
+| 1852 | 118 | Kristin Lensing |
+| 1853 | 117 | Dapper Towerpiece |
+| 1854 | 117 | Jennifer Young |
+| 1855 | 117 | Zesty Faller |
+| 1856 | 117 | Jude |
+| 1857 | 117 | Secret Buzz |
+| 1858 | 117 | Nellie Cummings |
+| 1859 | 117 | Peppy Zigzag |
+| 1860 | 117 | Step White |
+| 1861 | 117 | John Leonard |
+| 1862 | 117 | Gigi McCue |
+| 1863 | 116 | carole57 |
+| 1864 | 116 | Arson Fox |
+| 1865 | 116 | Chill Tilefall |
+| 1866 | 116 | Crystal Kennett |
+| 1867 | 116 | Witty Patternzone |
+| 1868 | 116 | Giggy Slam |
+| 1869 | 116 | BurntSinai |
+| 1870 | 116 | Katrina Flatten |
+| 1871 | 115 | Mia Casa |
+| 1872 | 115 | Marianita Garcia |
+| 1873 | 115 | Broketraveler |
+| 1874 | 115 | Bunny |
+| 1875 | 115 | Zitro |
+| 1876 | 115 | Pamela Knapp |
 | 1877 | 115 | Jamie Hicks |
-| 1878 | 115 | Zitro |
-| 1879 | 114 | Lilypop |
-| 1880 | 114 | Cheeky Cornerfall |
-| 1881 | 114 | Brittany Gent |
+| 1878 | 115 | Chill Tumbler |
+| 1879 | 114 | Brittany Gent |
+| 1880 | 114 | Lilypop |
+| 1881 | 114 | Cheeky Cornerfall |
 | 1882 | 114 | CG2026 |
 | 1883 | 114 | Poppy Snap |
 | 1884 | 114 | Denise Bailey |
@@ -1898,14 +1898,14 @@
 | 1890 | 113 | David Torres Jr. |
 | 1891 | 113 | Bash |
 | 1892 | 113 | Lillian Maier-martin |
-| 1893 | 113 | Kristen Tucker |
+| 1893 | 113 | Cool Cornerfall |
 | 1894 | 113 | Johnboom317 |
-| 1895 | 113 | Cool Cornerfall |
+| 1895 | 113 | Kristen Tucker |
 | 1896 | 112 | Jenny Edwards Wells |
 | 1897 | 112 | Peachy Clusterfit |
 | 1898 | 111 | Lynn Sweetman |
-| 1899 | 111 | Derek Jarvis |
-| 1900 | 111 | RzrbkParty |
+| 1899 | 111 | RzrbkParty |
+| 1900 | 111 | Derek Jarvis |
 | 1901 | 111 | Nerdy Risebuilder |
 | 1902 | 111 | Melinda Davis |
 | 1903 | 111 | Smiley Shuffler |
