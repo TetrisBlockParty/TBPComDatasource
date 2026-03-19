@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-19 08:26:47 UTC
+# Standings for team2 as of 2026-03-19 08:27:28 UTC
 
 **Total Participants:** 3573
 
@@ -1485,11 +1485,11 @@
 | 1477 | 172 | Staci Walker |
 | 1478 | 172 | Roxana Shaffer Goff |
 | 1479 | 172 | Dreamy Stacky |
-| 1480 | 171 | Michael Hissong |
-| 1481 | 171 | Medusa Koldheart |
+| 1480 | 171 | itzame |
+| 1481 | 171 | Keysha White |
 | 1482 | 171 | Nathen Ro Tron |
-| 1483 | 171 | Keysha White |
-| 1484 | 171 | itzame |
+| 1483 | 171 | Medusa Koldheart |
+| 1484 | 171 | Michael Hissong |
 | 1485 | 171 | Chaurese Brooks |
 | 1486 | 171 | Rebecca S. Cornwell |
 | 1487 | 171 | SigmaWinchester |
@@ -1501,51 +1501,51 @@
 | 1493 | 170 | Kandi Lopez |
 | 1494 | 170 | Marsha Tyler |
 | 1495 | 170 | Robert Waagmeester |
-| 1496 | 169 | Brittani Suzanne Jelks |
-| 1497 | 169 | Chastity Speight |
-| 1498 | 169 | Owitty |
-| 1499 | 169 | S05 |
-| 1500 | 169 | Burnita Heard |
-| 1501 | 169 | Jenn Tyler |
-| 1502 | 169 | Parker Demarest |
-| 1503 | 169 | Amy Pike |
-| 1504 | 169 | Chasity Winters |
-| 1505 | 168 | Paul Kapusinski |
-| 1506 | 168 | Quintis Steemer |
-| 1507 | 168 | FrankyThumbs |
-| 1508 | 168 | MamaBear04 |
-| 1509 | 168 | Elizabeth DeMarco Kuhn |
-| 1510 | 167 | Kimberly Ryan |
-| 1511 | 167 | Carrie Bailey |
-| 1512 | 167 | Ariel Whittington |
-| 1513 | 167 | Emily Elizabeth |
-| 1514 | 167 | Jessica Prewitt |
-| 1515 | 166 | Kara Ann Cray |
-| 1516 | 166 | Paul Islas |
-| 1517 | 166 | Brittney Marie Wyrick |
-| 1518 | 166 | Jason Wallig |
-| 1519 | 166 | Ryan LaCasse |
-| 1520 | 166 | Quita |
-| 1521 | 166 | Kelly Lenahan |
-| 1522 | 166 | Ernest Troutman |
-| 1523 | 166 | Jay |
+| 1496 | 169 | Michelle |
+| 1497 | 169 | Brittani Suzanne Jelks |
+| 1498 | 169 | Chastity Speight |
+| 1499 | 169 | Owitty |
+| 1500 | 169 | S05 |
+| 1501 | 169 | Burnita Heard |
+| 1502 | 169 | Jenn Tyler |
+| 1503 | 169 | Parker Demarest |
+| 1504 | 169 | Amy Pike |
+| 1505 | 169 | Chasity Winters |
+| 1506 | 168 | Paul Kapusinski |
+| 1507 | 168 | Quintis Steemer |
+| 1508 | 168 | FrankyThumbs |
+| 1509 | 168 | MamaBear04 |
+| 1510 | 168 | Elizabeth DeMarco Kuhn |
+| 1511 | 167 | Kimberly Ryan |
+| 1512 | 167 | Carrie Bailey |
+| 1513 | 167 | Ariel Whittington |
+| 1514 | 167 | Emily Elizabeth |
+| 1515 | 167 | Jessica Prewitt |
+| 1516 | 166 | Kara Ann Cray |
+| 1517 | 166 | Paul Islas |
+| 1518 | 166 | Brittney Marie Wyrick |
+| 1519 | 166 | Jason Wallig |
+| 1520 | 166 | Ryan LaCasse |
+| 1521 | 166 | Quita |
+| 1522 | 166 | Kelly Lenahan |
+| 1523 | 166 | Ernest Troutman |
 | 1524 | 166 | Dina Mcguire |
-| 1525 | 165 | Alysia Clare |
-| 1526 | 165 | Meghan Weaver |
+| 1525 | 166 | Jay |
+| 1526 | 165 | Alysia Clare |
 | 1527 | 165 | Hope Evans-Jansen |
-| 1528 | 165 | Chris Watson |
-| 1529 | 165 | John Mathis |
-| 1530 | 165 | Harley Q |
-| 1531 | 165 | Dizzy Linkpiece |
-| 1532 | 165 | Spicy Bridgepiece |
-| 1533 | 164 | John Johnson |
-| 1534 | 164 | Cheyenne Waller |
-| 1535 | 164 | Trish Newell |
-| 1536 | 164 | Lydell Webb |
-| 1537 | 164 | Michelle |
+| 1528 | 165 | Meghan Weaver |
+| 1529 | 165 | Chris Watson |
+| 1530 | 165 | John Mathis |
+| 1531 | 165 | Harley Q |
+| 1532 | 165 | Dizzy Linkpiece |
+| 1533 | 165 | Spicy Bridgepiece |
+| 1534 | 164 | John Johnson |
+| 1535 | 164 | Cheyenne Waller |
+| 1536 | 164 | Trish Newell |
+| 1537 | 164 | Lydell Webb |
 | 1538 | 164 | Jess |
-| 1539 | 163 | Lisa Finley Blocker |
-| 1540 | 163 | Ivan Burgess |
+| 1539 | 163 | Ivan Burgess |
+| 1540 | 163 | Lisa Finley Blocker |
 | 1541 | 163 | Crystal23 |
 | 1542 | 162 | Lazy Balancepiece |
 | 1543 | 162 | Erica Parker |
@@ -1566,11 +1566,11 @@
 | 1558 | 160 | Tina Franklin |
 | 1559 | 160 | Darin Benning |
 | 1560 | 160 | Diana |
-| 1561 | 160 | Jess |
-| 1562 | 160 | Cheeky Pivot |
-| 1563 | 160 | Meals'n Melodies |
-| 1564 | 160 | Kaagyugaq Jessica |
-| 1565 | 160 | Embay |
+| 1561 | 160 | Cheeky Pivot |
+| 1562 | 160 | Embay |
+| 1563 | 160 | Jess |
+| 1564 | 160 | Meals'n Melodies |
+| 1565 | 160 | Kaagyugaq Jessica |
 | 1566 | 160 | Beets |
 | 1567 | 160 | Weston Taylor |
 | 1568 | 159 | ChristSoldier4421 |
@@ -1980,12 +1980,12 @@
 | 1972 | 106 | Melissa |
 | 1973 | 106 | Priscilla Dae Jones |
 | 1974 | 106 | Any Slm |
-| 1975 | 106 | Goofy Twistline |
-| 1976 | 106 | Lisa Reid |
-| 1977 | 105 | Michelle Rene Brettmann |
+| 1975 | 106 | Lisa Reid |
+| 1976 | 106 | Goofy Twistline |
+| 1977 | 105 | Hollywuud |
 | 1978 | 105 | Dreamy Puzzler |
 | 1979 | 105 | Ruby |
-| 1980 | 105 | Hollywuud |
+| 1980 | 105 | Michelle Rene Brettmann |
 | 1981 | 105 | Foggy |
 | 1982 | 105 | Gary Teeters |
 | 1983 | 105 | Kitty tet |
@@ -1993,29 +1993,29 @@
 | 1985 | 105 | Rose |
 | 1986 | 104 | Dizzy Piececlear |
 | 1987 | 104 | Whitney Douglas |
-| 1988 | 104 | Loopy Slice |
-| 1989 | 104 | Matt Knowles |
-| 1990 | 104 | Zesty Slam |
-| 1991 | 104 | Snappy Rotator |
-| 1992 | 104 | Peppy Rollzone |
-| 1993 | 104 | Cedric Mendiola |
-| 1994 | 104 | Estefa The Architect |
-| 1995 | 104 | Sunny Wipefit |
-| 1996 | 103 | Rachel Hathcock |
+| 1988 | 104 | Cedric Mendiola |
+| 1989 | 104 | Peppy Rollzone |
+| 1990 | 104 | Snappy Rotator |
+| 1991 | 104 | Estefa The Architect |
+| 1992 | 104 | Zesty Slam |
+| 1993 | 104 | Sunny Wipefit |
+| 1994 | 104 | Matt Knowles |
+| 1995 | 104 | Loopy Slice |
+| 1996 | 103 | kragen |
 | 1997 | 103 | Carol Rogers |
-| 1998 | 103 | Lisa McClarin |
-| 1999 | 103 | kimmy |
-| 2000 | 103 | Shalonda Robinson |
-| 2001 | 103 | Dawn Burton |
-| 2002 | 103 | Amber Starr Drinnon |
-| 2003 | 102 | ace |
-| 2004 | 102 | Swanky Builderpiece |
-| 2005 | 102 | Yusuf Barnes |
-| 2006 | 102 | Kimberly Ann |
-| 2007 | 102 | Blocksy |
-| 2008 | 101 | kissykisses |
-| 2009 | 101 | Giddy Clear |
-| 2010 | 101 | kragen |
+| 1998 | 103 | Rachel Hathcock |
+| 1999 | 103 | Lisa McClarin |
+| 2000 | 103 | kimmy |
+| 2001 | 103 | Shalonda Robinson |
+| 2002 | 103 | Dawn Burton |
+| 2003 | 103 | Amber Starr Drinnon |
+| 2004 | 102 | ace |
+| 2005 | 102 | Swanky Builderpiece |
+| 2006 | 102 | Yusuf Barnes |
+| 2007 | 102 | Kimberly Ann |
+| 2008 | 102 | Blocksy |
+| 2009 | 101 | kissykisses |
+| 2010 | 101 | Giddy Clear |
 | 2011 | 101 | Chappy Fullzone |
 | 2012 | 101 | Rachel Sadowski |
 | 2013 | 101 | Manny Diaz |
@@ -2037,11 +2037,11 @@
 | 2029 | 100 | Carla Newton |
 | 2030 | 100 | Giggly Slamdrop |
 | 2031 | 100 | EscapedChaos |
-| 2032 | 100 | Breezy Cluster |
-| 2033 | 100 | Kirashilo |
+| 2032 | 100 | Kirashilo |
+| 2033 | 100 | Breezy Cluster |
 | 2034 | 99 | Mollijoy Carter |
-| 2035 | 99 | MOK |
-| 2036 | 99 | Kristen M Gorsuch |
+| 2035 | 99 | Kristen M Gorsuch |
+| 2036 | 99 | MOK |
 | 2037 | 99 | Ram |
 | 2038 | 99 | Leslie Tyler |
 | 2039 | 99 | Bearra |
@@ -2549,51 +2549,51 @@
 | 2541 | 55 | Spunky Piecebuilder |
 | 2542 | 55 | Amanda Lawless |
 | 2543 | 55 | Candace Jones |
-| 2544 | 55 | Steph Smith 89 |
-| 2545 | 55 | Chloe S |
-| 2546 | 55 | Samantha Pulley |
-| 2547 | 55 | Jody Baker |
-| 2548 | 55 | Katie Wood |
-| 2549 | 54 | Diane D-block Wade |
-| 2550 | 54 | Chill Patternblock |
-| 2551 | 54 | Genevia Wylie |
-| 2552 | 54 | Stacy Warren |
-| 2553 | 54 | Slinky Tile |
-| 2554 | 54 | Tiffany Hood |
-| 2555 | 54 | Natoshya Rae Ramsey |
-| 2556 | 54 | Farrah KS Deloney |
-| 2557 | 54 | Raybourne223 |
-| 2558 | 54 | Kim Hoster |
-| 2559 | 54 | Witty Tilemaker |
-| 2560 | 54 | Spicy Matchpiece |
-| 2561 | 54 | Barb Rice |
-| 2562 | 54 | Kimmy |
-| 2563 | 54 | Nerdy Gridpiece |
+| 2544 | 55 | MiamiMitch |
+| 2545 | 55 | Steph Smith 89 |
+| 2546 | 55 | Chloe S |
+| 2547 | 55 | Samantha Pulley |
+| 2548 | 55 | Jody Baker |
+| 2549 | 55 | Katie Wood |
+| 2550 | 54 | Diane D-block Wade |
+| 2551 | 54 | Chill Patternblock |
+| 2552 | 54 | Genevia Wylie |
+| 2553 | 54 | Stacy Warren |
+| 2554 | 54 | Slinky Tile |
+| 2555 | 54 | Tiffany Hood |
+| 2556 | 54 | Natoshya Rae Ramsey |
+| 2557 | 54 | Farrah KS Deloney |
+| 2558 | 54 | Raybourne223 |
+| 2559 | 54 | Kim Hoster |
+| 2560 | 54 | Witty Tilemaker |
+| 2561 | 54 | Spicy Matchpiece |
+| 2562 | 54 | Barb Rice |
+| 2563 | 54 | Kimmy |
 | 2564 | 54 | Chill Patternzone |
-| 2565 | 54 | Wayne Brawley |
+| 2565 | 54 | Nerdy Gridpiece |
 | 2566 | 54 | Boldy Towerzone |
-| 2567 | 53 | Eddy Lyons |
-| 2568 | 53 | ACE |
-| 2569 | 53 | Undeniable pogo |
-| 2570 | 53 | Candy Chapman |
-| 2571 | 53 | Jodi Kaczynski-O'Dowd |
-| 2572 | 53 | Alexis Smith |
-| 2573 | 53 | Tomika Littles |
-| 2574 | 53 | Johnte |
-| 2575 | 53 | Reaper |
-| 2576 | 53 | Geno Cushen |
-| 2577 | 53 | Sylvia Velez |
-| 2578 | 53 | Psst |
-| 2579 | 53 | Kelly Shelffo |
-| 2580 | 53 | Drew Kim |
-| 2581 | 53 | Sade Ebanks |
-| 2582 | 53 | Cindy Nieves |
-| 2583 | 53 | Dawn Michelle Scheible |
-| 2584 | 52 | Lush Clusterfit |
-| 2585 | 52 | Shanitra WomanafterGod'sownheart Johnson |
-| 2586 | 52 | Kristin Smith |
-| 2587 | 52 | Melissa Dunkleberger |
-| 2588 | 52 | MiamiMitch |
+| 2567 | 54 | Wayne Brawley |
+| 2568 | 53 | Eddy Lyons |
+| 2569 | 53 | ACE |
+| 2570 | 53 | Undeniable pogo |
+| 2571 | 53 | Candy Chapman |
+| 2572 | 53 | Jodi Kaczynski-O'Dowd |
+| 2573 | 53 | Alexis Smith |
+| 2574 | 53 | Tomika Littles |
+| 2575 | 53 | Johnte |
+| 2576 | 53 | Reaper |
+| 2577 | 53 | Geno Cushen |
+| 2578 | 53 | Sylvia Velez |
+| 2579 | 53 | Psst |
+| 2580 | 53 | Kelly Shelffo |
+| 2581 | 53 | Drew Kim |
+| 2582 | 53 | Sade Ebanks |
+| 2583 | 53 | Cindy Nieves |
+| 2584 | 53 | Dawn Michelle Scheible |
+| 2585 | 52 | Lush Clusterfit |
+| 2586 | 52 | Shanitra WomanafterGod'sownheart Johnson |
+| 2587 | 52 | Kristin Smith |
+| 2588 | 52 | Melissa Dunkleberger |
 | 2589 | 52 | Cynthia Robinson |
 | 2590 | 52 | Creamy Clam |
 | 2591 | 52 | Garry Burgett |
