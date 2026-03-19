@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 02:58:47 UTC
+# Standings for team1 as of 2026-03-19 02:59:23 UTC
 
 **Total Participants:** 3465
 
@@ -98,8 +98,8 @@
 | 90 | 2500 | Robert Benito |
 | 91 | 2450 | Sarah Durmer |
 | 92 | 2424 | Audicia Bailey |
-| 93 | 2394 | Witty Wipegrid |
-| 94 | 2390 | Matt Coons |
+| 93 | 2398 | Matt Coons |
+| 94 | 2394 | Witty Wipegrid |
 | 95 | 2346 | Smashanator |
 | 96 | 2338 | Silly Ziggy |
 | 97 | 2333 | Kevin Sees |
@@ -503,7 +503,7 @@
 | 495 | 563 | Justin Tariq |
 | 496 | 563 | Hannah Carter |
 | 497 | 561 | Giddy Brickclear |
-| 498 | 559 | Melissa Arrellano |
+| 498 | 561 | Melissa Arrellano |
 | 499 | 557 | Kay Alifi |
 | 500 | 556 | Cozy Twistbuilder |
 | 501 | 554 | Vergie Michael |
@@ -535,11 +535,11 @@
 | 527 | 531 | Dennis Eitler |
 | 528 | 531 | Groovy Glidepiece |
 | 529 | 530 | Shant |
-| 530 | 528 | Chiquita Spears |
-| 531 | 528 | Angela Brown Babin |
-| 532 | 528 | Jessica Butler |
-| 533 | 527 | Stephanie M Dabson |
-| 534 | 527 | Melodie Hill |
+| 530 | 529 | Melodie Hill |
+| 531 | 528 | Chiquita Spears |
+| 532 | 528 | Angela Brown Babin |
+| 533 | 528 | Jessica Butler |
+| 534 | 527 | Stephanie M Dabson |
 | 535 | 527 | Crystal Jaggars |
 | 536 | 526 | Glauf |
 | 537 | 525 | Laura Morrison |
@@ -695,12 +695,12 @@
 | 687 | 418 | Giggy Snaplink |
 | 688 | 417 | Dī Kuykendall |
 | 689 | 417 | Chilly Faller |
-| 690 | 416 | OzzyFan4Life |
-| 691 | 415 | Dusti Byrd |
-| 692 | 414 | Cooldamalley |
-| 693 | 414 | Kjnals Wall |
-| 694 | 413 | Michael Bruck |
-| 695 | 413 | Tionna Rose Alderson |
+| 690 | 416 | Tionna Rose Alderson |
+| 691 | 416 | OzzyFan4Life |
+| 692 | 415 | Dusti Byrd |
+| 693 | 414 | Cooldamalley |
+| 694 | 414 | Kjnals Wall |
+| 695 | 413 | Michael Bruck |
 | 696 | 412 | Bri Jackson |
 | 697 | 412 | Lil H |
 | 698 | 411 | Random |
@@ -1334,53 +1334,53 @@
 | 1326 | 202 | Thomas Susi |
 | 1327 | 202 | Whittney Nichole Malone |
 | 1328 | 202 | Angi Martinez |
-| 1329 | 202 | Kristy Burch Sells |
-| 1330 | 202 | Sarah Lombardo |
-| 1331 | 202 | Frilly Smasher |
-| 1332 | 201 | Glenda Inthimat |
-| 1333 | 200 | Frothy Cascade |
-| 1334 | 200 | Gracie |
-| 1335 | 200 | Kat |
-| 1336 | 200 | Danielle Kollias |
-| 1337 | 200 | Valerie Lasseter |
-| 1338 | 200 | Deborah Fowler |
-| 1339 | 199 | Nutty Glide |
-| 1340 | 199 | Cedesbabii |
-| 1341 | 199 | Jeremy Lake |
-| 1342 | 199 | NeNe Hazel |
-| 1343 | 199 | jabba |
-| 1344 | 199 | Shawn Shelby |
-| 1345 | 198 | Loony Match |
+| 1329 | 202 | Victoria Montenegro Martinez |
+| 1330 | 202 | Kristy Burch Sells |
+| 1331 | 202 | Sarah Lombardo |
+| 1332 | 202 | Frilly Smasher |
+| 1333 | 201 | Glenda Inthimat |
+| 1334 | 200 | Frothy Cascade |
+| 1335 | 200 | Gracie |
+| 1336 | 200 | Kat |
+| 1337 | 200 | Danielle Kollias |
+| 1338 | 200 | Valerie Lasseter |
+| 1339 | 200 | Deborah Fowler |
+| 1340 | 199 | jabba |
+| 1341 | 199 | NeNe Hazel |
+| 1342 | 199 | Jeremy Lake |
+| 1343 | 199 | Nutty Glide |
+| 1344 | 199 | Cedesbabii |
+| 1345 | 199 | Shawn Shelby |
 | 1346 | 198 | Branden Blanch |
-| 1347 | 198 | Victoria Montenegro Martinez |
-| 1348 | 198 | Brandon Blanchard |
-| 1349 | 198 | Michelle Sanchez |
+| 1347 | 198 | Brandon Blanchard |
+| 1348 | 198 | Loony Match |
+| 1349 | 198 | Lora Mae Spindler Young |
 | 1350 | 198 | Sassyshell |
-| 1351 | 198 | Lora Mae Spindler Young |
+| 1351 | 198 | Michelle Sanchez |
 | 1352 | 197 | Timothy Lott |
 | 1353 | 197 | Bailey Morgan |
-| 1354 | 196 | Rudas |
-| 1355 | 196 | Lavana Erpelding |
-| 1356 | 196 | Candace Roach |
+| 1354 | 196 | Candace Roach |
+| 1355 | 196 | Rudas |
+| 1356 | 196 | Lavana Erpelding |
 | 1357 | 196 | Richard Cranium |
 | 1358 | 196 | Joey Burns |
 | 1359 | 196 | Bennett Hunter |
 | 1360 | 196 | Schwing! |
 | 1361 | 195 | Dapper Clearfit |
-| 1362 | 195 | Taquilla Branch |
-| 1363 | 195 | Jessica |
-| 1364 | 195 | Billy |
+| 1362 | 195 | Jessica |
+| 1363 | 195 | Billy |
+| 1364 | 195 | Taquilla Branch |
 | 1365 | 195 | Chilly Pop |
 | 1366 | 195 | David Wright |
 | 1367 | 194 | Noah Lalonde |
 | 1368 | 194 | Cynthia Mann |
 | 1369 | 193 | 4girls |
 | 1370 | 193 | Jenn Lunsford |
-| 1371 | 193 | F3MM3F4T4L3 |
-| 1372 | 193 | Blockface |
-| 1373 | 193 | Blkfroggy |
-| 1374 | 192 | Shaun Waddell |
-| 1375 | 192 | Patsy Thacker |
+| 1371 | 193 | Blkfroggy |
+| 1372 | 193 | F3MM3F4T4L3 |
+| 1373 | 193 | Blockface |
+| 1374 | 192 | Patsy Thacker |
+| 1375 | 192 | Shaun Waddell |
 | 1376 | 192 | Jester |
 | 1377 | 192 | Joni Patterson |
 | 1378 | 191 | Danielle Maner |
@@ -2330,8 +2330,8 @@
 | 2322 | 66 | Isabella Demiris |
 | 2323 | 66 | Danny FaJohn |
 | 2324 | 66 | Spicy Meats |
-| 2325 | 65 | JustJodi |
-| 2326 | 65 | Ryuzaki Duncan |
+| 2325 | 65 | Ryuzaki Duncan |
+| 2326 | 65 | JustJodi |
 | 2327 | 65 | Mc molly |
 | 2328 | 65 | Debie Reid |
 | 2329 | 65 | Scot Linsin |
@@ -2355,9 +2355,9 @@
 | 2347 | 64 | f |
 | 2348 | 64 | Kelley Yates |
 | 2349 | 64 | Alee Kay |
-| 2350 | 63 | Danielle Alexis |
-| 2351 | 63 | Channing Burgess |
-| 2352 | 63 | Dvlton Hardison |
+| 2350 | 63 | Dvlton Hardison |
+| 2351 | 63 | Danielle Alexis |
+| 2352 | 63 | Channing Burgess |
 | 2353 | 63 | Crafty Slice |
 | 2354 | 63 | Kyle R. Sorbo |
 | 2355 | 63 | Jaime Wilson |
@@ -2371,48 +2371,48 @@
 | 2363 | 62 | Kyle Kennedy |
 | 2364 | 62 | Smin |
 | 2365 | 62 | Dacotah Robinson |
-| 2366 | 62 | Doug Stephenson |
-| 2367 | 62 | Floor It |
+| 2366 | 62 | Floor It |
+| 2367 | 62 | Doug Stephenson |
 | 2368 | 62 | Heather Carsten |
-| 2369 | 61 | Braxton Latandra Alexander |
-| 2370 | 61 | Nerdy Snapzone |
-| 2371 | 61 | John Absher |
-| 2372 | 61 | Mia Real |
-| 2373 | 61 | Hi |
-| 2374 | 61 | colt |
-| 2375 | 61 | Blata |
-| 2376 | 61 | Michelle Caudillo |
-| 2377 | 61 | Montez Montez |
-| 2378 | 61 | Kiley |
-| 2379 | 61 | Bluegiokilla |
-| 2380 | 61 | Hyper Corner |
-| 2381 | 61 | Jessica Franz |
-| 2382 | 61 | Sunny Glidebuilder |
-| 2383 | 61 | Lorie Atwood |
-| 2384 | 61 | Hoppy Tiltpiece |
-| 2385 | 61 | Y ve |
-| 2386 | 61 | Hopee |
-| 2387 | 61 | Heidee |
-| 2388 | 60 | Shele Casey |
-| 2389 | 60 | Mindy Ray |
-| 2390 | 60 | Milton Jenkins Jr. |
-| 2391 | 60 | Memphis Kash |
-| 2392 | 60 | Shannel Keaton Boedecker |
-| 2393 | 60 | Mat Matienzo |
-| 2394 | 60 | Goofy Cluster |
-| 2395 | 60 | Christina Rodriguez |
-| 2396 | 60 | Tazz |
-| 2397 | 60 | Natalie Wilson |
-| 2398 | 60 | Tiffany D. Green |
-| 2399 | 60 | Christina Spencer |
-| 2400 | 60 | Joey Rosas |
-| 2401 | 60 | SMSMris |
-| 2402 | 60 | Cleopatra Sims |
-| 2403 | 60 | Glitzy Blocker |
-| 2404 | 60 | Kimberly Gonzales |
-| 2405 | 60 | Andrea St Aubin |
-| 2406 | 60 | EspyBlue |
-| 2407 | 60 | Yellow Mech |
+| 2369 | 61 | Mia Real |
+| 2370 | 61 | John Absher |
+| 2371 | 61 | Braxton Latandra Alexander |
+| 2372 | 61 | Nerdy Snapzone |
+| 2373 | 61 | Yellow Mech |
+| 2374 | 61 | Hi |
+| 2375 | 61 | colt |
+| 2376 | 61 | Blata |
+| 2377 | 61 | Michelle Caudillo |
+| 2378 | 61 | Montez Montez |
+| 2379 | 61 | Kiley |
+| 2380 | 61 | Bluegiokilla |
+| 2381 | 61 | Hyper Corner |
+| 2382 | 61 | Jessica Franz |
+| 2383 | 61 | Sunny Glidebuilder |
+| 2384 | 61 | Lorie Atwood |
+| 2385 | 61 | Hoppy Tiltpiece |
+| 2386 | 61 | Y ve |
+| 2387 | 61 | Hopee |
+| 2388 | 61 | Heidee |
+| 2389 | 60 | Shele Casey |
+| 2390 | 60 | Mindy Ray |
+| 2391 | 60 | Milton Jenkins Jr. |
+| 2392 | 60 | Memphis Kash |
+| 2393 | 60 | Shannel Keaton Boedecker |
+| 2394 | 60 | Mat Matienzo |
+| 2395 | 60 | Goofy Cluster |
+| 2396 | 60 | Christina Rodriguez |
+| 2397 | 60 | Tazz |
+| 2398 | 60 | Natalie Wilson |
+| 2399 | 60 | Tiffany D. Green |
+| 2400 | 60 | Christina Spencer |
+| 2401 | 60 | Joey Rosas |
+| 2402 | 60 | SMSMris |
+| 2403 | 60 | Cleopatra Sims |
+| 2404 | 60 | Glitzy Blocker |
+| 2405 | 60 | Kimberly Gonzales |
+| 2406 | 60 | Andrea St Aubin |
+| 2407 | 60 | EspyBlue |
 | 2408 | 60 | Cynthia Cruell |
 | 2409 | 60 | Nutty Clearzone |
 | 2410 | 60 | Bold Blockclear |
@@ -2439,10 +2439,10 @@
 | 2431 | 58 | David Mcmillenm |
 | 2432 | 58 | Krystal Schaefer |
 | 2433 | 58 | Speedy Pivoty |
-| 2434 | 57 | Carrie Goodrich |
-| 2435 | 57 | Tabatha Rusher |
-| 2436 | 57 | Giggy Swipe |
-| 2437 | 57 | Damon Malagarie |
+| 2434 | 57 | Damon Malagarie |
+| 2435 | 57 | Carrie Goodrich |
+| 2436 | 57 | Tabatha Rusher |
+| 2437 | 57 | Giggy Swipe |
 | 2438 | 57 | Megan Robinson |
 | 2439 | 57 | Jessica Jenkins |
 | 2440 | 57 | Glitterpuppy |
