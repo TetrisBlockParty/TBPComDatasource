@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-03-19 09:00:43 UTC
+# Standings for team4 as of 2026-03-19 09:01:26 UTC
 
 **Total Participants:** 13908
 
@@ -224,7 +224,7 @@
 | 216 | 3508 | Jolly Pivot |
 | 217 | 3507 | Nutty T-spin |
 | 218 | 3503 | Lewis Harris |
-| 219 | 3488 | Amber DeMar |
+| 219 | 3496 | Amber DeMar |
 | 220 | 3485 | Taylor Culver |
 | 221 | 3475 | Cam Bradley |
 | 222 | 3474 | Travis Messerschmidt |
@@ -2172,8 +2172,8 @@
 | 2164 | 498 | Jose Nino |
 | 2165 | 498 | Goofy Tetrisline |
 | 2166 | 497 | Cheeky Piececlear |
-| 2167 | 497 | Crafty Pusher |
-| 2168 | 497 | Reds Bella |
+| 2167 | 497 | Reds Bella |
+| 2168 | 497 | Crafty Pusher |
 | 2169 | 497 | JianXiang Jimmy Lee |
 | 2170 | 497 | Sassy Linkroll |
 | 2171 | 497 | Erick Campos |
@@ -2186,15 +2186,15 @@
 | 2178 | 496 | Christine Bollig |
 | 2179 | 496 | Epic Stackzone |
 | 2180 | 496 | Pixyy |
-| 2181 | 495 | Snappy Shatterbuilder |
-| 2182 | 495 | Angel Okpalor |
-| 2183 | 494 | Paige Kittles |
-| 2184 | 494 | Hope Olivia Schreier |
-| 2185 | 494 | Joe Sprague |
-| 2186 | 494 | Lynn Wheaton |
-| 2187 | 493 | Cheeky Brickbuilder |
-| 2188 | 493 | Miranda Johnson |
-| 2189 | 493 | Em Harlow |
+| 2181 | 495 | Cheeky Brickbuilder |
+| 2182 | 495 | Snappy Shatterbuilder |
+| 2183 | 495 | Angel Okpalor |
+| 2184 | 494 | Paige Kittles |
+| 2185 | 494 | Hope Olivia Schreier |
+| 2186 | 494 | Joe Sprague |
+| 2187 | 494 | Lynn Wheaton |
+| 2188 | 493 | Em Harlow |
+| 2189 | 493 | Miranda Johnson |
 | 2190 | 493 | Tony Threlkeld |
 | 2191 | 493 | Maggie Jackson Bass |
 | 2192 | 493 | Dodi Peterson |
@@ -2215,11 +2215,11 @@
 | 2207 | 489 | build master |
 | 2208 | 489 | Pluto |
 | 2209 | 488 | Lush Blockpiece |
-| 2210 | 488 | Hey@ |
-| 2211 | 488 | Amethyst Beux |
-| 2212 | 488 | Matthew Gawlowski |
-| 2213 | 488 | Chastity Batts |
-| 2214 | 488 | Tina Luthi |
+| 2210 | 488 | Chastity Batts |
+| 2211 | 488 | Hey@ |
+| 2212 | 488 | Amethyst Beux |
+| 2213 | 488 | Tina Luthi |
+| 2214 | 488 | Matthew Gawlowski |
 | 2215 | 488 | Lieutenant Briggz |
 | 2216 | 488 | Brianne Schumacher |
 | 2217 | 488 | Anthony Collins |
@@ -2240,8 +2240,8 @@
 | 2232 | 485 | Teke |
 | 2233 | 485 | Letisha Breland |
 | 2234 | 485 | Lush Wipeout |
-| 2235 | 485 | Iesha Cupil |
-| 2236 | 485 | Chris Duran |
+| 2235 | 485 | Chris Duran |
+| 2236 | 485 | Iesha Cupil |
 | 2237 | 484 | Jason Hedler |
 | 2238 | 484 | Gabby Devant |
 | 2239 | 484 | Alexis Roberts |
@@ -2328,60 +2328,60 @@
 | 2320 | 471 | Mik Alama |
 | 2321 | 471 | Avery Lauren Leigh |
 | 2322 | 471 | Jenn Morin |
-| 2323 | 471 | Linda Guinnip |
-| 2324 | 471 | Arlet Alba |
-| 2325 | 471 | Shiny T-spin |
-| 2326 | 471 | Tammy Jean |
+| 2323 | 471 | Shiny T-spin |
+| 2324 | 471 | Linda Guinnip |
+| 2325 | 471 | Tammy Jean |
+| 2326 | 471 | Arlet Alba |
 | 2327 | 471 | Boldy Bridgepiece |
 | 2328 | 471 | Joseph Cooper |
 | 2329 | 470 | Cheeky Brickmatch |
 | 2330 | 470 | Walsh |
 | 2331 | 470 | Leah Lee |
 | 2332 | 470 | Scott Perriman |
-| 2333 | 469 | William Hunt |
-| 2334 | 469 | Denise Piccari |
-| 2335 | 469 | Mommabear |
-| 2336 | 469 | excelion |
-| 2337 | 469 | Jessica Alicea Cruz |
-| 2338 | 469 | Scott Jackson |
-| 2339 | 469 | Syniya Jackson |
-| 2340 | 469 | Angel Widdoes |
-| 2341 | 468 | Gridiron Dub Dnb |
-| 2342 | 468 | Save McIntosh |
-| 2343 | 467 | Thalia Jaradi |
-| 2344 | 467 | Jessica Hebert-Glover |
-| 2345 | 467 | Carrie Resler |
-| 2346 | 467 | tora |
-| 2347 | 467 | Antonia Martinez |
+| 2333 | 469 | Matthew Bentley |
+| 2334 | 469 | William Hunt |
+| 2335 | 469 | Denise Piccari |
+| 2336 | 469 | Mommabear |
+| 2337 | 469 | excelion |
+| 2338 | 469 | Jessica Alicea Cruz |
+| 2339 | 469 | Scott Jackson |
+| 2340 | 469 | Syniya Jackson |
+| 2341 | 469 | Angel Widdoes |
+| 2342 | 468 | Gridiron Dub Dnb |
+| 2343 | 468 | Save McIntosh |
+| 2344 | 467 | Thalia Jaradi |
+| 2345 | 467 | Jessica Hebert-Glover |
+| 2346 | 467 | Carrie Resler |
+| 2347 | 467 | tora |
 | 2348 | 467 | Dylan Shaffer |
-| 2349 | 467 | Lawrence A Harding |
-| 2350 | 466 | Cool Riser |
-| 2351 | 466 | Toni Sagenbrecht |
-| 2352 | 466 | Geoffrey Josefowicz |
-| 2353 | 465 | Michael Bradfield |
-| 2354 | 465 | Sabrina |
-| 2355 | 465 | Ryan Slauter |
-| 2356 | 465 | Jason Jones |
-| 2357 | 464 | Lacey Jo Lones-Harding |
-| 2358 | 464 | Jenea Lewis |
-| 2359 | 464 | Chris Hobs |
-| 2360 | 464 | Keith Ware |
-| 2361 | 464 | Chris Mullins |
-| 2362 | 463 | Lonna Matthews |
-| 2363 | 463 | Jennifer Eddy |
-| 2364 | 463 | Jacqueta Robertson |
-| 2365 | 463 | Judeatude |
-| 2366 | 463 | Laura Dominguez |
-| 2367 | 463 | Megan Miller |
-| 2368 | 463 | Jacquelyn Tate |
-| 2369 | 462 | Matthew Acton |
-| 2370 | 462 | Christina McMartin |
-| 2371 | 462 | Shilo Epenesa |
-| 2372 | 462 | Joyce Ella Paquin Landry-Hurlbutt |
-| 2373 | 462 | Mike Aprilliano |
-| 2374 | 461 | Nikki Fridley |
-| 2375 | 461 | Annie Hebdon |
-| 2376 | 461 | Matthew Bentley |
+| 2349 | 467 | Antonia Martinez |
+| 2350 | 467 | Lawrence A Harding |
+| 2351 | 466 | Cool Riser |
+| 2352 | 466 | Toni Sagenbrecht |
+| 2353 | 466 | Geoffrey Josefowicz |
+| 2354 | 465 | Michael Bradfield |
+| 2355 | 465 | Sabrina |
+| 2356 | 465 | Ryan Slauter |
+| 2357 | 465 | Jason Jones |
+| 2358 | 464 | Lacey Jo Lones-Harding |
+| 2359 | 464 | Jenea Lewis |
+| 2360 | 464 | Chris Hobs |
+| 2361 | 464 | Keith Ware |
+| 2362 | 464 | Chris Mullins |
+| 2363 | 463 | Lonna Matthews |
+| 2364 | 463 | Jennifer Eddy |
+| 2365 | 463 | Jacqueta Robertson |
+| 2366 | 463 | Judeatude |
+| 2367 | 463 | Laura Dominguez |
+| 2368 | 463 | Megan Miller |
+| 2369 | 463 | Jacquelyn Tate |
+| 2370 | 462 | Matthew Acton |
+| 2371 | 462 | Christina McMartin |
+| 2372 | 462 | Shilo Epenesa |
+| 2373 | 462 | Joyce Ella Paquin Landry-Hurlbutt |
+| 2374 | 462 | Mike Aprilliano |
+| 2375 | 461 | Nikki Fridley |
+| 2376 | 461 | Annie Hebdon |
 | 2377 | 461 | Chasity White |
 | 2378 | 461 | Flashy Snapline |
 | 2379 | 461 | Julian Garcia |
@@ -4132,27 +4132,27 @@
 | 4124 | 263 | Nanyamka LeosRule Patterson |
 | 4125 | 263 | Giggles |
 | 4126 | 263 | Lulu |
-| 4127 | 263 | Francine Cardello |
-| 4128 | 263 | Rochelle Blackmon |
-| 4129 | 263 | Lively Filler |
-| 4130 | 263 | Snappy Linkroll |
-| 4131 | 263 | Zippora Marzett |
-| 4132 | 263 | Jessica S Flecha |
-| 4133 | 263 | Jessica Miller |
-| 4134 | 263 | Salem Haze |
-| 4135 | 263 | Empress |
-| 4136 | 263 | shathead |
-| 4137 | 262 | Darby Giannattasio |
-| 4138 | 262 | Elie Pean |
-| 4139 | 262 | Snappy Crasher |
-| 4140 | 262 | Kassidy Kelsey |
-| 4141 | 262 | Johnathan Dillian Decker |
-| 4142 | 262 | David Fergie Ferguson |
-| 4143 | 262 | Danielle Riffe |
-| 4144 | 262 | MeMeMandi |
-| 4145 | 262 | Wendy Brown |
-| 4146 | 262 | Royain Harriott Jr |
-| 4147 | 262 | ICECUBE |
+| 4127 | 263 | ICECUBE |
+| 4128 | 263 | Francine Cardello |
+| 4129 | 263 | Rochelle Blackmon |
+| 4130 | 263 | Lively Filler |
+| 4131 | 263 | Snappy Linkroll |
+| 4132 | 263 | Zippora Marzett |
+| 4133 | 263 | Jessica S Flecha |
+| 4134 | 263 | Jessica Miller |
+| 4135 | 263 | Salem Haze |
+| 4136 | 263 | Empress |
+| 4137 | 263 | shathead |
+| 4138 | 262 | Darby Giannattasio |
+| 4139 | 262 | Elie Pean |
+| 4140 | 262 | Snappy Crasher |
+| 4141 | 262 | Kassidy Kelsey |
+| 4142 | 262 | Johnathan Dillian Decker |
+| 4143 | 262 | David Fergie Ferguson |
+| 4144 | 262 | Danielle Riffe |
+| 4145 | 262 | MeMeMandi |
+| 4146 | 262 | Wendy Brown |
+| 4147 | 262 | Royain Harriott Jr |
 | 4148 | 262 | Giddy Strikerbuilder |
 | 4149 | 262 | Cheery Blockbuilder |
 | 4150 | 262 | Tara Nicole Church |
