@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-19 07:42:50 UTC
+# Standings for team2 as of 2026-03-19 07:43:27 UTC
 
 **Total Participants:** 3567
 
@@ -838,11 +838,11 @@
 | 830 | 339 | Hyper Pop |
 | 831 | 339 | Lisa Duncan |
 | 832 | 339 | Brenda Bell |
-| 833 | 337 | Chiran Xu |
-| 834 | 337 | Jeanine Macrina |
-| 835 | 336 | Snippy Framezone |
-| 836 | 336 | Flashy Tetriblast |
-| 837 | 335 | CuteSharkz |
+| 833 | 337 | CuteSharkz |
+| 834 | 337 | Chiran Xu |
+| 835 | 337 | Jeanine Macrina |
+| 836 | 336 | Snippy Framezone |
+| 837 | 336 | Flashy Tetriblast |
 | 838 | 335 | Lien |
 | 839 | 334 | Becky Short |
 | 840 | 334 | Bridgett |
