@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 08:54:46 UTC
+# Standings for team1 as of 2026-03-19 08:55:25 UTC
 
 **Total Participants:** 3530
 
@@ -15,7 +15,7 @@
 | 7 | 17242 | Scott Lindsay |
 | 8 | 16552 | Amy Dial Brown |
 | 9 | 15940 | Bryan Stockwell |
-| 10 | 14896 | Grace Kelly |
+| 10 | 15196 | Grace Kelly |
 | 11 | 14200 | Jessica Sheehan |
 | 12 | 12342 | Dizzy Stagger |
 | 13 | 10451 | Amy Jerman |
@@ -634,36 +634,36 @@
 | 626 | 471 | Stacy Rodriguez |
 | 627 | 470 | Amber Nicole |
 | 628 | 470 | Shukee Lo |
-| 629 | 469 | PRICHARD |
-| 630 | 469 | Sunny Linkpiece |
+| 629 | 469 | Sunny Linkpiece |
+| 630 | 469 | PRICHARD |
 | 631 | 468 | Crystal Sara E |
 | 632 | 468 | Mel Fab |
 | 633 | 468 | Chilly Risegrid |
 | 634 | 466 | Pazerjonez |
-| 635 | 465 | 030Synner |
-| 636 | 465 | Luis Guzman |
+| 635 | 465 | Luis Guzman |
+| 636 | 465 | 030Synner |
 | 637 | 464 | Julie Miller |
 | 638 | 464 | John Ham |
 | 639 | 463 | mrkw |
-| 640 | 463 | Boldy Twisterfit |
+| 640 | 463 | Stormy May |
 | 641 | 463 | Greg Hart |
 | 642 | 463 | Aldona Figiel |
-| 643 | 462 | Mary Boo |
+| 643 | 463 | Boldy Twisterfit |
 | 644 | 462 | Amber LR Sutter |
-| 645 | 461 | Trey Petty |
+| 645 | 462 | Mary Boo |
 | 646 | 461 | Panda Rog |
-| 647 | 460 | Tabitha Cornelious |
+| 647 | 461 | Trey Petty |
 | 648 | 460 | Snippy Line |
 | 649 | 460 | NoIdeaWhatsGoingOn |
-| 650 | 459 | Melanie Kelley |
-| 651 | 459 | Kim Manning Miles |
+| 650 | 460 | Tabitha Cornelious |
+| 651 | 459 | Melanie Kelley |
 | 652 | 459 | Berenice |
 | 653 | 459 | Josh Barringer |
-| 654 | 458 | Cassie Lathem |
-| 655 | 457 | Dapper Snaplink |
-| 656 | 457 | Stormy May |
-| 657 | 456 | TaRcY |
-| 658 | 456 | freakyjoe |
+| 654 | 459 | Kim Manning Miles |
+| 655 | 458 | Cassie Lathem |
+| 656 | 457 | Dapper Snaplink |
+| 657 | 456 | freakyjoe |
+| 658 | 456 | TaRcY |
 | 659 | 454 | Brat |
 | 660 | 454 | Tausha Mathews |
 | 661 | 454 | Jamie Merritt |
@@ -1472,39 +1472,39 @@
 | 1464 | 184 | Nikki Eaton |
 | 1465 | 184 | Denice Dee |
 | 1466 | 183 | Kristopher Daniels |
-| 1467 | 183 | Erica Wynne |
-| 1468 | 183 | SLAPNUTZ |
-| 1469 | 183 | Carolyn MacFarland |
-| 1470 | 183 | Zion Hadley |
-| 1471 | 183 | Perky Matchpiece |
-| 1472 | 182 | Dustin Curtis |
-| 1473 | 182 | Lisa Stidum |
-| 1474 | 182 | Chin lock |
-| 1475 | 182 | Julieth Rose |
-| 1476 | 182 | tox |
-| 1477 | 182 | Mechelle Bailum |
-| 1478 | 182 | No Strings Attached Ra |
-| 1479 | 182 | Jessica Shiloh Anderson |
-| 1480 | 182 | Snapdragon |
-| 1481 | 182 | Dizzy Match |
-| 1482 | 181 | Summer R Delgado |
+| 1467 | 183 | Carolyn MacFarland |
+| 1468 | 183 | Zion Hadley |
+| 1469 | 183 | Perky Matchpiece |
+| 1470 | 183 | SLAPNUTZ |
+| 1471 | 183 | Erica Wynne |
+| 1472 | 182 | Snapdragon |
+| 1473 | 182 | No Strings Attached Ra |
+| 1474 | 182 | Mechelle Bailum |
+| 1475 | 182 | Stephanie Elizabeth Blake |
+| 1476 | 182 | Jessica Shiloh Anderson |
+| 1477 | 182 | tox |
+| 1478 | 182 | Julieth Rose |
+| 1479 | 182 | Chin lock |
+| 1480 | 182 | Lisa Stidum |
+| 1481 | 182 | Dustin Curtis |
+| 1482 | 182 | Dizzy Match |
 | 1483 | 181 | Aspen Campos |
-| 1484 | 181 | Spicy Blockclear |
-| 1485 | 181 | Giddy Blast |
-| 1486 | 180 | CupcakeEyes |
-| 1487 | 180 | Mel Esquibel Brostoski |
-| 1488 | 180 | Samantha Valdez |
-| 1489 | 180 | Ashley Kostek |
-| 1490 | 180 | Latoya Caston Davis |
-| 1491 | 179 | mingo624 |
-| 1492 | 179 | Giggly Builderline |
-| 1493 | 179 | Laura Hosford |
-| 1494 | 179 | Stephanie Elizabeth Blake |
-| 1495 | 179 | Katelyn Dorman |
+| 1484 | 181 | Summer R Delgado |
+| 1485 | 181 | Spicy Blockclear |
+| 1486 | 181 | Giddy Blast |
+| 1487 | 180 | CupcakeEyes |
+| 1488 | 180 | Ashley Kostek |
+| 1489 | 180 | Mel Esquibel Brostoski |
+| 1490 | 180 | Samantha Valdez |
+| 1491 | 180 | Latoya Caston Davis |
+| 1492 | 179 | mingo624 |
+| 1493 | 179 | Katelyn Dorman |
+| 1494 | 179 | Laura Hosford |
+| 1495 | 179 | Giggly Builderline |
 | 1496 | 178 | Courtney Cassidy |
-| 1497 | 178 | Garry Junior Davis |
+| 1497 | 178 | Dede |
 | 1498 | 178 | Nicole Fields |
-| 1499 | 178 | Dede |
+| 1499 | 178 | Garry Junior Davis |
 | 1500 | 177 | Conklin Laura |
 | 1501 | 177 | Steven Johnson |
 | 1502 | 177 | Kim Burnside |
@@ -2017,10 +2017,10 @@
 | 2009 | 101 | Joanne Marie |
 | 2010 | 101 | Laura R. Lloyd |
 | 2011 | 101 | Steve Barringer |
-| 2012 | 100 | Ron Poindexter |
-| 2013 | 100 | Mean Melly |
-| 2014 | 100 | Susan Kathleen |
-| 2015 | 100 | Queen of Nonsense |
+| 2012 | 100 | Queen of Nonsense |
+| 2013 | 100 | Ron Poindexter |
+| 2014 | 100 | Mean Melly |
+| 2015 | 100 | Susan Kathleen |
 | 2016 | 100 | Kelli Skeen |
 | 2017 | 100 | Rabecca Rangel |
 | 2018 | 100 | Destiny Lightle Needles |
@@ -2033,27 +2033,27 @@
 | 2025 | 99 | Alexandra Grant |
 | 2026 | 99 | Scott Gunn |
 | 2027 | 99 | Ansley Godoy |
-| 2028 | 99 | Brad Shelton |
-| 2029 | 99 | Omgitsmomma |
-| 2030 | 99 | Bubbly Chiseler |
-| 2031 | 98 | Eric A Sabino |
-| 2032 | 98 | Yolanda Odgers |
-| 2033 | 98 | Chipper Dropmatch |
-| 2034 | 98 | m.taha |
-| 2035 | 98 | TrillVille |
-| 2036 | 98 | Kelly Marie Hennig |
-| 2037 | 98 | Athena |
-| 2038 | 98 | Brenden Norwood |
-| 2039 | 98 | Erica Liebler |
-| 2040 | 98 | ElizaThornberry |
-| 2041 | 98 | Jose Thillet |
-| 2042 | 98 | Polataivao Aunai |
-| 2043 | 97 | CoralCori Tabor |
-| 2044 | 97 | Vinny |
-| 2045 | 97 | Dizzy Zigzag |
-| 2046 | 97 | Jeremy Buckley |
-| 2047 | 97 | Zesty Piececlear |
-| 2048 | 96 | Okdyeller |
+| 2028 | 99 | Omgitsmomma |
+| 2029 | 99 | Bubbly Chiseler |
+| 2030 | 99 | Brad Shelton |
+| 2031 | 98 | Okdyeller |
+| 2032 | 98 | Eric A Sabino |
+| 2033 | 98 | Yolanda Odgers |
+| 2034 | 98 | Chipper Dropmatch |
+| 2035 | 98 | m.taha |
+| 2036 | 98 | TrillVille |
+| 2037 | 98 | Kelly Marie Hennig |
+| 2038 | 98 | Athena |
+| 2039 | 98 | Brenden Norwood |
+| 2040 | 98 | Erica Liebler |
+| 2041 | 98 | ElizaThornberry |
+| 2042 | 98 | Jose Thillet |
+| 2043 | 98 | Polataivao Aunai |
+| 2044 | 97 | CoralCori Tabor |
+| 2045 | 97 | Vinny |
+| 2046 | 97 | Dizzy Zigzag |
+| 2047 | 97 | Jeremy Buckley |
+| 2048 | 97 | Zesty Piececlear |
 | 2049 | 96 | Kerryann Morrah |
 | 2050 | 96 | Henry Henry |
 | 2051 | 96 | Amy Amy |

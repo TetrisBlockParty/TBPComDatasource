@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-19 08:54:46 UTC
+# Standings for team2 as of 2026-03-19 08:55:25 UTC
 
 **Total Participants:** 3578
 
@@ -30,15 +30,15 @@
 | 22 | 6070 | Dee Kay |
 | 23 | 6036 | Baleria Ruedas Pantoja |
 | 24 | 5580 | Nick Jensen |
-| 25 | 5497 | Hp Gold |
+| 25 | 5507 | Hp Gold |
 | 26 | 5468 | Cynthia Ward |
 | 27 | 5257 | Dizzy Zonegrid |
 | 28 | 5236 | joe |
 | 29 | 5158 | Elissa S-k |
 | 30 | 5071 | Carrie Mitchell |
 | 31 | 4966 | Giggy Strikerpiece |
-| 32 | 4900 | Leah Gorsuch |
-| 33 | 4897 | Stef Hu |
+| 32 | 4911 | Stef Hu |
+| 33 | 4900 | Leah Gorsuch |
 | 34 | 4851 | Elizabeth Crowder Pelton |
 | 35 | 4819 | lovethedana |
 | 36 | 4754 | Toni Lynn |
@@ -645,29 +645,29 @@
 | 637 | 446 | bigdad |
 | 638 | 445 | kal |
 | 639 | 441 | Aimee Byrom |
-| 640 | 441 | Jessi |
-| 641 | 441 | Miguel Teixeira |
+| 640 | 441 | Demitrick Chaney |
+| 641 | 441 | Jessi |
 | 642 | 441 | Henry Lanier |
-| 643 | 441 | Kena Suzanne |
-| 644 | 440 | Jaci Marie |
-| 645 | 440 | Scarlet Dusosky |
-| 646 | 440 | JoJo |
+| 643 | 441 | Miguel Teixeira |
+| 644 | 441 | Kena Suzanne |
+| 645 | 440 | Jaci Marie |
+| 646 | 440 | Scarlet Dusosky |
 | 647 | 440 | candypants |
-| 648 | 438 | Nicole McLean |
-| 649 | 438 | Dda |
-| 650 | 438 | Shawna McKinney |
-| 651 | 437 | Goofy Snapfit |
+| 648 | 440 | JoJo |
+| 649 | 438 | Nicole McLean |
+| 650 | 438 | Dda |
+| 651 | 438 | Shawna McKinney |
 | 652 | 437 | Chris Leasure |
-| 653 | 437 | Chelle |
-| 654 | 436 | Bibbit |
-| 655 | 436 | Adrianne Traylor |
-| 656 | 434 | Glitzy Rollblock |
-| 657 | 434 | Jennifer |
-| 658 | 433 | Guillaume Clermont |
-| 659 | 433 | Jess |
-| 660 | 433 | 00022Denny |
-| 661 | 431 | Zany Dashgrid |
-| 662 | 431 | Demitrick Chaney |
+| 653 | 437 | Goofy Snapfit |
+| 654 | 437 | Chelle |
+| 655 | 436 | Bibbit |
+| 656 | 436 | Adrianne Traylor |
+| 657 | 434 | Glitzy Rollblock |
+| 658 | 434 | Jennifer |
+| 659 | 433 | Guillaume Clermont |
+| 660 | 433 | Jess |
+| 661 | 433 | 00022Denny |
+| 662 | 431 | Zany Dashgrid |
 | 663 | 431 | Mary Love |
 | 664 | 429 | NoShoesNation |
 | 665 | 429 | Winner |
