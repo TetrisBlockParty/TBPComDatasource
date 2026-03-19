@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-03-19 08:40:42 UTC
+# Standings for team3 as of 2026-03-19 08:41:24 UTC
 
 **Total Participants:** 5527
 
@@ -187,13 +187,13 @@
 | 179 | 1994 | Rheta Roberts |
 | 180 | 1974 | Dylan Thomason |
 | 181 | 1930 | Marvin Martian |
-| 182 | 1906 | Amanda Maize |
-| 183 | 1884 | Brenda Gum |
-| 184 | 1884 | Rebecca Herrington |
-| 185 | 1882 | Kiki |
-| 186 | 1862 | Lizabeth Fox |
-| 187 | 1856 | Samantha Corey |
-| 188 | 1856 | Sharp pinata |
+| 182 | 1921 | Lizabeth Fox |
+| 183 | 1906 | Amanda Maize |
+| 184 | 1884 | Brenda Gum |
+| 185 | 1884 | Rebecca Herrington |
+| 186 | 1882 | Kiki |
+| 187 | 1856 | Sharp pinata |
+| 188 | 1856 | Samantha Corey |
 | 189 | 1849 | Sashay Tapae Simpson |
 | 190 | 1846 | Lilahnarcisa Morrow |
 | 191 | 1845 | BoB |
@@ -1424,20 +1424,20 @@
 | 1416 | 320 | Andrew Kosloskey Sr. |
 | 1417 | 320 | nee |
 | 1418 | 320 | Cherrelle Romulus |
-| 1419 | 320 | Groovy Brickclear |
-| 1420 | 319 | Shilo Ziemer |
-| 1421 | 319 | Jody Texeira |
-| 1422 | 319 | Laurie LeCroy |
-| 1423 | 318 | Tameka Alverson |
-| 1424 | 317 | Brittany Wheeler |
-| 1425 | 317 | Princess |
-| 1426 | 317 | Daniel Wong |
-| 1427 | 317 | Giggly Gridzone |
-| 1428 | 317 | Saucy Fall |
-| 1429 | 316 | Maria Devont |
-| 1430 | 316 | Eric Quan |
-| 1431 | 316 | Paul Larsen |
-| 1432 | 316 | LongLive Peace |
+| 1419 | 320 | LongLive Peace |
+| 1420 | 320 | Groovy Brickclear |
+| 1421 | 319 | Shilo Ziemer |
+| 1422 | 319 | Jody Texeira |
+| 1423 | 319 | Laurie LeCroy |
+| 1424 | 318 | Tameka Alverson |
+| 1425 | 317 | Brittany Wheeler |
+| 1426 | 317 | Princess |
+| 1427 | 317 | Daniel Wong |
+| 1428 | 317 | Giggly Gridzone |
+| 1429 | 317 | Saucy Fall |
+| 1430 | 316 | Maria Devont |
+| 1431 | 316 | Eric Quan |
+| 1432 | 316 | Paul Larsen |
 | 1433 | 315 | Angela Williams |
 | 1434 | 314 | Estrella Nataly Guzman |
 | 1435 | 314 | Groovy Snapmatch |
