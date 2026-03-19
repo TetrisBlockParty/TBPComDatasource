@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-03-19 09:22:48 UTC
+# Standings for team2 as of 2026-03-19 09:23:24 UTC
 
 **Total Participants:** 3579
 
@@ -382,36 +382,36 @@
 | 374 | 704 | Bea Miles |
 | 375 | 704 | Joshua |
 | 376 | 701 | Denise |
-| 377 | 695 | Christine Soltis |
-| 378 | 695 | Clever Roll |
-| 379 | 692 | 1RiRi1 |
-| 380 | 691 | Guy Incognito |
-| 381 | 691 | Sista |
-| 382 | 690 | Slinky Rollpiece |
-| 383 | 685 | Randy Jansen |
-| 384 | 683 | Zippy Tile |
-| 385 | 681 | JTH |
-| 386 | 680 | Spunky Gridmatch |
-| 387 | 680 | Whitney Butler |
-| 388 | 680 | Kimberly Garcia |
-| 389 | 680 | Kate |
-| 390 | 679 | Angela Srubar-Norman |
-| 391 | 678 | Jenn Leigh |
-| 392 | 671 | Sammy |
-| 393 | 670 | Julia Freeman |
-| 394 | 669 | Jazzy Piecebuilder |
-| 395 | 667 | Twisty Spinbuilder |
-| 396 | 666 | Kelly Williams |
-| 397 | 665 | Snappy Tiley |
-| 398 | 665 | Chad Meyers |
-| 399 | 664 | Nutty Cluster |
-| 400 | 657 | Brave Swiper |
-| 401 | 656 | Tee Jaleesa |
-| 402 | 656 | Jean Yap |
-| 403 | 655 | Michelle Douglas Bridges |
-| 404 | 653 | btchboy |
-| 405 | 653 | Ding Adventurer |
-| 406 | 652 | Jaz Sky |
+| 377 | 699 | Kate |
+| 378 | 695 | Christine Soltis |
+| 379 | 695 | Clever Roll |
+| 380 | 692 | 1RiRi1 |
+| 381 | 691 | Guy Incognito |
+| 382 | 691 | Sista |
+| 383 | 690 | Slinky Rollpiece |
+| 384 | 685 | Randy Jansen |
+| 385 | 683 | Zippy Tile |
+| 386 | 682 | Jaz Sky |
+| 387 | 681 | JTH |
+| 388 | 680 | Spunky Gridmatch |
+| 389 | 680 | Kimberly Garcia |
+| 390 | 680 | Whitney Butler |
+| 391 | 679 | Angela Srubar-Norman |
+| 392 | 678 | Jenn Leigh |
+| 393 | 671 | Sammy |
+| 394 | 670 | Julia Freeman |
+| 395 | 669 | Jazzy Piecebuilder |
+| 396 | 667 | Twisty Spinbuilder |
+| 397 | 666 | Kelly Williams |
+| 398 | 665 | Snappy Tiley |
+| 399 | 665 | Chad Meyers |
+| 400 | 664 | Nutty Cluster |
+| 401 | 657 | Brave Swiper |
+| 402 | 656 | Tee Jaleesa |
+| 403 | 656 | Jean Yap |
+| 404 | 655 | Michelle Douglas Bridges |
+| 405 | 653 | btchboy |
+| 406 | 653 | Ding Adventurer |
 | 407 | 649 | June E Hanson |
 | 408 | 648 | Faith Adrienne Verret Page |
 | 409 | 647 | Jennifer Osmer Carruth |
@@ -1560,143 +1560,143 @@
 | 1552 | 162 | Betty Jo Cyphert |
 | 1553 | 162 | Oxygène Liberté |
 | 1554 | 161 | Dev |
-| 1555 | 161 | Chill Fitzone |
-| 1556 | 161 | Muva |
-| 1557 | 161 | Shiny Patternline |
-| 1558 | 161 | Smith Nita |
-| 1559 | 161 | Petty |
-| 1560 | 161 | Alejandra Tomasa Garcia-ramirez |
-| 1561 | 161 | Bold Linkpiece |
-| 1562 | 161 | Nerdy Crusher |
-| 1563 | 160 | Diana |
-| 1564 | 160 | Kat Foreman |
-| 1565 | 160 | Tina Franklin |
-| 1566 | 160 | Darin Benning |
-| 1567 | 160 | Embay |
-| 1568 | 160 | Meals'n Melodies |
-| 1569 | 160 | Kaagyugaq Jessica |
-| 1570 | 160 | Weston Taylor |
-| 1571 | 160 | Jess |
-| 1572 | 160 | Cheeky Pivot |
-| 1573 | 160 | Beets |
-| 1574 | 159 | ChristSoldier4421 |
+| 1555 | 161 | Virginia Walker |
+| 1556 | 161 | Chill Fitzone |
+| 1557 | 161 | Muva |
+| 1558 | 161 | Shiny Patternline |
+| 1559 | 161 | Smith Nita |
+| 1560 | 161 | Petty |
+| 1561 | 161 | Alejandra Tomasa Garcia-ramirez |
+| 1562 | 161 | Bold Linkpiece |
+| 1563 | 161 | Nerdy Crusher |
+| 1564 | 160 | Diana |
+| 1565 | 160 | Kat Foreman |
+| 1566 | 160 | Tina Franklin |
+| 1567 | 160 | Darin Benning |
+| 1568 | 160 | Embay |
+| 1569 | 160 | Meals'n Melodies |
+| 1570 | 160 | Kaagyugaq Jessica |
+| 1571 | 160 | Weston Taylor |
+| 1572 | 160 | Jess |
+| 1573 | 160 | Cheeky Pivot |
+| 1574 | 160 | Beets |
 | 1575 | 159 | Shawn Darryl Butler |
-| 1576 | 159 | Danielle Barthelme |
-| 1577 | 159 | April Jones |
-| 1578 | 158 | Snappy McName |
-| 1579 | 158 | SuzAnne |
-| 1580 | 158 | Sherri Morgan |
-| 1581 | 158 | Playtray |
-| 1582 | 158 | JaiJoh |
+| 1576 | 159 | ChristSoldier4421 |
+| 1577 | 159 | Danielle Barthelme |
+| 1578 | 159 | April Jones |
+| 1579 | 158 | Snappy McName |
+| 1580 | 158 | SuzAnne |
+| 1581 | 158 | Sherri Morgan |
+| 1582 | 158 | Playtray |
 | 1583 | 158 | Brenda Nelson-noles |
-| 1584 | 157 | Michael Reavis |
-| 1585 | 157 | Asia M Kerr |
-| 1586 | 157 | Lela Berklund |
-| 1587 | 157 | Brandi Quick |
-| 1588 | 157 | BendyBones |
-| 1589 | 157 | Brooklyn DeLong |
-| 1590 | 156 | Matthew Franklin Sr. |
-| 1591 | 156 | Danielle Barker |
-| 1592 | 156 | Wendy Gathings |
-| 1593 | 156 | Tenika Higgins |
+| 1584 | 158 | JaiJoh |
+| 1585 | 157 | Michael Reavis |
+| 1586 | 157 | Asia M Kerr |
+| 1587 | 157 | Lela Berklund |
+| 1588 | 157 | Brandi Quick |
+| 1589 | 157 | BendyBones |
+| 1590 | 157 | Brooklyn DeLong |
+| 1591 | 156 | Matthew Franklin Sr. |
+| 1592 | 156 | Danielle Barker |
+| 1593 | 156 | Wendy Gathings |
 | 1594 | 156 | Jodi Young |
-| 1595 | 155 | Seniia |
+| 1595 | 156 | Tenika Higgins |
 | 1596 | 155 | Shaunda Thompson |
-| 1597 | 155 | Will Chamberlain |
-| 1598 | 155 | Joseph Guzman |
-| 1599 | 155 | Hyper Shatterbuilder |
-| 1600 | 155 | JaneWacky Balancefit |
-| 1601 | 155 | Paul Gurwitz |
-| 1602 | 154 | Witty Twistslam |
-| 1603 | 154 | Linda Marie Pankow |
-| 1604 | 154 | Veronica Duncan |
-| 1605 | 154 | Lab2dablock |
-| 1606 | 154 | Christina Harman Kinard |
-| 1607 | 153 | Christy Krissie |
-| 1608 | 153 | Montiette Mcglown |
-| 1609 | 153 | Renée Tilley-Goyette |
-| 1610 | 153 | Patrycja Włodarczyk |
-| 1611 | 152 | Wendy DeBoard |
-| 1612 | 152 | Star Hart |
-| 1613 | 152 | 1MadCat |
-| 1614 | 152 | Cryptomeg |
-| 1615 | 152 | Jessica Lynn French |
-| 1616 | 151 | Jeremy Barry |
-| 1617 | 151 | Shay Mc |
-| 1618 | 151 | Elizabeth Reynolds |
-| 1619 | 150 | FunMom |
-| 1620 | 150 | Jacquelyn Auman |
-| 1621 | 150 | Happy Drop |
-| 1622 | 150 | Mine Mine |
-| 1623 | 150 | ts |
-| 1624 | 150 | Silly Brickline |
-| 1625 | 150 | Tee Tee Nicole |
-| 1626 | 150 | Kali |
-| 1627 | 150 | Sherry Jones |
-| 1628 | 150 | Zesty Clear |
-| 1629 | 150 | ThriftySpice |
-| 1630 | 150 | Laura McCoy |
-| 1631 | 150 | Slugger26 |
-| 1632 | 150 | Yoemi Rivera Perez |
-| 1633 | 150 | Melody Santiago |
-| 1634 | 150 | Tracey Whetstone |
-| 1635 | 149 | Dreamy Line |
-| 1636 | 149 | Mighty Matchpiece |
-| 1637 | 149 | Kira Hugar |
-| 1638 | 149 | Jumpy Tiler |
-| 1639 | 148 | Gary Teeters |
-| 1640 | 148 | Stacey Sanders |
-| 1641 | 148 | Grovenia Joy Perryman |
-| 1642 | 148 | Christina Nabrizny |
-| 1643 | 148 | Giggy Grid |
-| 1644 | 148 | Blocksy |
-| 1645 | 148 | Annette Henderson |
-| 1646 | 147 | Kadi Rappold |
-| 1647 | 147 | Jeremiah Rayborn |
-| 1648 | 147 | aja |
-| 1649 | 147 | Speedy Splitter |
-| 1650 | 147 | Brooks |
+| 1597 | 155 | Seniia |
+| 1598 | 155 | Will Chamberlain |
+| 1599 | 155 | Joseph Guzman |
+| 1600 | 155 | Hyper Shatterbuilder |
+| 1601 | 155 | JaneWacky Balancefit |
+| 1602 | 155 | Paul Gurwitz |
+| 1603 | 154 | Witty Twistslam |
+| 1604 | 154 | Linda Marie Pankow |
+| 1605 | 154 | Veronica Duncan |
+| 1606 | 154 | Lab2dablock |
+| 1607 | 154 | Christina Harman Kinard |
+| 1608 | 153 | Christy Krissie |
+| 1609 | 153 | Montiette Mcglown |
+| 1610 | 153 | Renée Tilley-Goyette |
+| 1611 | 153 | Patrycja Włodarczyk |
+| 1612 | 152 | Wendy DeBoard |
+| 1613 | 152 | Star Hart |
+| 1614 | 152 | 1MadCat |
+| 1615 | 152 | Cryptomeg |
+| 1616 | 152 | Jessica Lynn French |
+| 1617 | 151 | Jeremy Barry |
+| 1618 | 151 | Shay Mc |
+| 1619 | 151 | Elizabeth Reynolds |
+| 1620 | 150 | Mine Mine |
+| 1621 | 150 | Jacquelyn Auman |
+| 1622 | 150 | Happy Drop |
+| 1623 | 150 | FunMom |
+| 1624 | 150 | ts |
+| 1625 | 150 | Silly Brickline |
+| 1626 | 150 | Tee Tee Nicole |
+| 1627 | 150 | Kali |
+| 1628 | 150 | Sherry Jones |
+| 1629 | 150 | Zesty Clear |
+| 1630 | 150 | ThriftySpice |
+| 1631 | 150 | Laura McCoy |
+| 1632 | 150 | Slugger26 |
+| 1633 | 150 | Yoemi Rivera Perez |
+| 1634 | 150 | Melody Santiago |
+| 1635 | 150 | Tracey Whetstone |
+| 1636 | 149 | Dreamy Line |
+| 1637 | 149 | Mighty Matchpiece |
+| 1638 | 149 | Kira Hugar |
+| 1639 | 149 | Jumpy Tiler |
+| 1640 | 148 | Gary Teeters |
+| 1641 | 148 | Stacey Sanders |
+| 1642 | 148 | Grovenia Joy Perryman |
+| 1643 | 148 | Christina Nabrizny |
+| 1644 | 148 | Giggy Grid |
+| 1645 | 148 | Blocksy |
+| 1646 | 148 | Annette Henderson |
+| 1647 | 147 | Kadi Rappold |
+| 1648 | 147 | Jeremiah Rayborn |
+| 1649 | 147 | aja |
+| 1650 | 147 | Breezy Crawler |
 | 1651 | 147 | Cool Caster |
-| 1652 | 147 | Breezy Crawler |
-| 1653 | 146 | Terry Fabian |
+| 1652 | 147 | Speedy Splitter |
+| 1653 | 147 | Brooks |
 | 1654 | 146 | Bold Gridclear |
-| 1655 | 146 | Rose Clark |
-| 1656 | 146 | Mel Thomas-Young |
-| 1657 | 146 | Brave Brickroll |
-| 1658 | 145 | Breezy Patternzone |
-| 1659 | 145 | CLA |
-| 1660 | 145 | Monica Daley |
-| 1661 | 145 | Peachy Pusher |
-| 1662 | 145 | Dominiquè Conerly-Trejo |
-| 1663 | 145 | Janice Mccafferty |
-| 1664 | 145 | cj53p |
-| 1665 | 145 | Ti Pi |
-| 1666 | 144 | Peppy Snapfit |
-| 1667 | 144 | Alishia Robbins |
-| 1668 | 144 | Rosie |
-| 1669 | 144 | Julie Lane |
-| 1670 | 144 | Geetara |
-| 1671 | 144 | Boldy Match |
-| 1672 | 144 | Snippy Framezone |
-| 1673 | 144 | Melanie Klump |
-| 1674 | 144 | Shanon Klair |
-| 1675 | 143 | WD6DAL |
-| 1676 | 143 | Carmen Anaya |
-| 1677 | 143 | Crystal |
-| 1678 | 143 | Perky Fitclear |
-| 1679 | 142 | Chill Matchfit |
-| 1680 | 142 | TheRexT |
-| 1681 | 142 | Christopher Reed |
-| 1682 | 142 | Cozy Clearbuilder |
-| 1683 | 141 | Keri Hough |
-| 1684 | 141 | Amanda Conaghan |
-| 1685 | 141 | Brianna Nicole Goodman |
-| 1686 | 141 | Liz Scott |
-| 1687 | 141 | Virginia Walker |
+| 1655 | 146 | Terry Fabian |
+| 1656 | 146 | Rose Clark |
+| 1657 | 146 | Mel Thomas-Young |
+| 1658 | 146 | Brave Brickroll |
+| 1659 | 145 | Breezy Patternzone |
+| 1660 | 145 | CLA |
+| 1661 | 145 | Monica Daley |
+| 1662 | 145 | Peachy Pusher |
+| 1663 | 145 | Dominiquè Conerly-Trejo |
+| 1664 | 145 | Janice Mccafferty |
+| 1665 | 145 | cj53p |
+| 1666 | 145 | Ti Pi |
+| 1667 | 144 | Peppy Snapfit |
+| 1668 | 144 | Alishia Robbins |
+| 1669 | 144 | Rosie |
+| 1670 | 144 | Julie Lane |
+| 1671 | 144 | Geetara |
+| 1672 | 144 | Boldy Match |
+| 1673 | 144 | Snippy Framezone |
+| 1674 | 144 | Melanie Klump |
+| 1675 | 144 | Shanon Klair |
+| 1676 | 143 | WD6DAL |
+| 1677 | 143 | Carmen Anaya |
+| 1678 | 143 | Crystal |
+| 1679 | 143 | Perky Fitclear |
+| 1680 | 142 | Chill Matchfit |
+| 1681 | 142 | TheRexT |
+| 1682 | 142 | Christopher Reed |
+| 1683 | 142 | Cozy Clearbuilder |
+| 1684 | 141 | Keri Hough |
+| 1685 | 141 | Amanda Conaghan |
+| 1686 | 141 | Brianna Nicole Goodman |
+| 1687 | 141 | Liz Scott |
 | 1688 | 141 | Victor Jones |
-| 1689 | 141 | Speedy Twistbuilder |
+| 1689 | 141 | Adrienne Schnell-Traylor |
 | 1690 | 141 | Reese Crystal |
-| 1691 | 141 | Adrienne Schnell-Traylor |
+| 1691 | 141 | Speedy Twistbuilder |
 | 1692 | 141 | Fred Yslas |
 | 1693 | 140 | Enid |
 | 1694 | 140 | Stephanie Elsaid |
