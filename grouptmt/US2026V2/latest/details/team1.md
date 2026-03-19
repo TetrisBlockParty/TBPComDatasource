@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-19 07:40:49 UTC
+# Standings for team1 as of 2026-03-19 07:41:24 UTC
 
 **Total Participants:** 3520
 
@@ -305,8 +305,8 @@
 | 297 | 936 | Lynn Perkins |
 | 298 | 936 | Nikita Nelson |
 | 299 | 934 | Crazy12 |
-| 300 | 934 | Muhammad |
-| 301 | 934 | Rebecca Martin |
+| 300 | 934 | Rebecca Martin |
+| 301 | 934 | Muhammad |
 | 302 | 933 | KathyandPhillip Woolard |
 | 303 | 931 | Aprill Bolton |
 | 304 | 926 | Savannah Tanielle |
@@ -315,30 +315,30 @@
 | 307 | 920 | Patti Rone |
 | 308 | 916 | John Gardner |
 | 309 | 914 | Rocky |
-| 310 | 910 | Crafty Tilebuilder |
-| 311 | 910 | Scott Napper |
+| 310 | 910 | Scott Napper |
+| 311 | 910 | Crafty Tilebuilder |
 | 312 | 903 | Mahmudul Hasan |
 | 313 | 902 | Boldy Clicky |
 | 314 | 891 | Donald Nguyen |
 | 315 | 885 | Simmone T. Kadiri |
 | 316 | 884 | Bribrobra |
-| 317 | 883 | Chris |
-| 318 | 878 | Jessi Sauer |
-| 319 | 875 | Brittney Groler |
-| 320 | 873 | Jaame Courtney |
-| 321 | 868 | Kat Mfm Kaul |
-| 322 | 866 | Flashy Rotator |
-| 323 | 860 | Desiree Jenson |
-| 324 | 858 | Pamela Marie Tyler |
-| 325 | 856 | Dustin Rouse |
-| 326 | 854 | Chris Alexinas |
-| 327 | 853 | Keri Smith |
+| 317 | 883 | Keri Smith |
+| 318 | 883 | Chris |
+| 319 | 878 | Jessi Sauer |
+| 320 | 875 | Brittney Groler |
+| 321 | 873 | Jaame Courtney |
+| 322 | 868 | Kat Mfm Kaul |
+| 323 | 866 | Flashy Rotator |
+| 324 | 860 | Desiree Jenson |
+| 325 | 858 | Pamela Marie Tyler |
+| 326 | 856 | Dustin Rouse |
+| 327 | 854 | Chris Alexinas |
 | 328 | 848 | Bryan Temple |
 | 329 | 845 | Jamilah Abdul-Hakeem |
 | 330 | 838 | Armin Muhamed |
 | 331 | 836 | Mykal Burton |
-| 332 | 829 | Jeff Brian Gates |
-| 333 | 829 | Aaron M Luna |
+| 332 | 829 | Aaron M Luna |
+| 333 | 829 | Jeff Brian Gates |
 | 334 | 827 | Eichwife78 |
 | 335 | 824 | Spicy Twister |
 | 336 | 820 | Jena Overall Prescott |
@@ -410,15 +410,15 @@
 | 402 | 706 | Fatima Washington |
 | 403 | 705 | Johnathan Rasmussen |
 | 404 | 701 | Yvette Cooper |
-| 405 | 700 | Roberta Arnold |
-| 406 | 700 | Courtney Jones |
-| 407 | 699 | Tony Lighthizer |
-| 408 | 697 | Frilly Climber |
-| 409 | 695 | Angelina Maldonado |
-| 410 | 695 | Justin Tariq |
+| 405 | 700 | Courtney Jones |
+| 406 | 700 | Roberta Arnold |
+| 407 | 700 | Justin Tariq |
+| 408 | 699 | Tony Lighthizer |
+| 409 | 697 | Frilly Climber |
+| 410 | 695 | Angelina Maldonado |
 | 411 | 693 | Stephanie Myers |
-| 412 | 689 | Amy Sanford |
-| 413 | 689 | Amh |
+| 412 | 689 | Amh |
+| 413 | 689 | Amy Sanford |
 | 414 | 681 | Tim Slone |
 | 415 | 680 | Krazykat💋❤️💋 |
 | 416 | 680 | Teddy Alexander |
@@ -935,34 +935,34 @@
 | 927 | 320 | WakeUpCakeUp |
 | 928 | 320 | Jack Mattiace |
 | 929 | 320 | FireHawk |
-| 930 | 319 | Melissa Hart |
-| 931 | 318 | Jennifer Lynn |
-| 932 | 317 | Kelli Pazour |
-| 933 | 317 | Israel Lane |
+| 930 | 320 | Zippy Cascadezone |
+| 931 | 319 | Melissa Hart |
+| 932 | 318 | Jennifer Lynn |
+| 933 | 317 | Kelli Pazour |
 | 934 | 317 | Glitzy Spinfit |
-| 935 | 316 | Maria Lopez |
-| 936 | 316 | Kimmy White |
-| 937 | 316 | Hyper Risepiece |
-| 938 | 315 | Matthew Boudah |
-| 939 | 315 | Jessi Godsey |
-| 940 | 315 | b430 |
-| 941 | 315 | Bryant Rodriguez |
+| 935 | 317 | Israel Lane |
+| 936 | 316 | Hyper Risepiece |
+| 937 | 316 | Maria Lopez |
+| 938 | 316 | Kimmy White |
+| 939 | 315 | b430 |
+| 940 | 315 | Bryant Rodriguez |
+| 941 | 315 | Jessi Godsey |
 | 942 | 315 | Renee Elam |
-| 943 | 314 | Giggly Rotate |
+| 943 | 315 | Matthew Boudah |
 | 944 | 314 | Swanky Cascadezone |
-| 945 | 313 | Trish11479 |
+| 945 | 314 | Giggly Rotate |
 | 946 | 313 | Andrew Duron |
-| 947 | 313 | Loony Spinzone |
-| 948 | 313 | Mila Harper |
-| 949 | 312 | Peg |
+| 947 | 313 | Trish11479 |
+| 948 | 313 | Loony Spinzone |
+| 949 | 313 | Mila Harper |
 | 950 | 312 | Mary Therese Benden Cole |
-| 951 | 312 | Josh Riemer |
-| 952 | 312 | Peachy Brick |
-| 953 | 312 | Rubi |
-| 954 | 312 | Mckenzie Morris |
-| 955 | 311 | Natasha King |
-| 956 | 311 | Danelle Sulentic |
-| 957 | 311 | Zippy Cascadezone |
+| 951 | 312 | Peg |
+| 952 | 312 | Josh Riemer |
+| 953 | 312 | Peachy Brick |
+| 954 | 312 | Rubi |
+| 955 | 312 | Mckenzie Morris |
+| 956 | 311 | Natasha King |
+| 957 | 311 | Danelle Sulentic |
 | 958 | 311 | dustin b |
 | 959 | 311 | Moemoe Jackson |
 | 960 | 311 | Garrett Newman |
@@ -2187,50 +2187,50 @@
 | 2179 | 84 | Thejonesman |
 | 2180 | 84 | rosasz |
 | 2181 | 83 | Krystyna Ann Conley |
-| 2182 | 83 | Jennifer Traywick |
-| 2183 | 83 | Debbie Ward |
-| 2184 | 83 | Loony Spinblock |
-| 2185 | 83 | Marisa Tesch |
-| 2186 | 83 | Zany Gridlock |
-| 2187 | 83 | Tazz |
-| 2188 | 82 | Tetrist |
-| 2189 | 82 | Sandman |
-| 2190 | 82 | Susan Lokerse |
-| 2191 | 82 | Quirky Balance |
-| 2192 | 82 | Shellybobellers |
-| 2193 | 82 | LeeAnn Thompson Saxon |
-| 2194 | 82 | Bartek Nieznane |
-| 2195 | 82 | Mike Winn |
-| 2196 | 82 | NewMe Shortie Rodriguez |
-| 2197 | 82 | Ashley Adams |
-| 2198 | 82 | KingRoss |
-| 2199 | 82 | Cody Peterson |
-| 2200 | 81 | Donetta Brown |
-| 2201 | 81 | Bryan Dickerson |
-| 2202 | 81 | Cozy Buildout |
-| 2203 | 81 | Giddy Towerbuilder |
-| 2204 | 81 | LuLa |
-| 2205 | 80 | Hecate Trimora |
-| 2206 | 80 | Nerdy Bridger |
-| 2207 | 80 | Nikita T Miller |
-| 2208 | 80 | Cheeky Tilemaker |
-| 2209 | 80 | Jumpy Winder |
-| 2210 | 80 | Zappy Patternfit |
-| 2211 | 80 | Iliana Figueroa |
-| 2212 | 80 | Tyrell Harvin |
-| 2213 | 80 | Katt Brown-Thomas |
-| 2214 | 80 | Amanda Alt Caplinger |
-| 2215 | 80 | Swift |
-| 2216 | 80 | Zesty Edgepiece |
-| 2217 | 80 | Dionie Pina |
-| 2218 | 80 | Kaitlyn Mambro |
-| 2219 | 80 | Amber Johnson |
-| 2220 | 80 | Ne'Chaun Curtis |
-| 2221 | 80 | Ray Spaulding |
-| 2222 | 80 | Bouncy Riser |
-| 2223 | 80 | GuttaAce |
-| 2224 | 80 | Yolanda Robertson |
-| 2225 | 80 | Clarence Grable |
+| 2182 | 83 | Clarence Grable |
+| 2183 | 83 | Jennifer Traywick |
+| 2184 | 83 | Debbie Ward |
+| 2185 | 83 | Loony Spinblock |
+| 2186 | 83 | Marisa Tesch |
+| 2187 | 83 | Zany Gridlock |
+| 2188 | 83 | Tazz |
+| 2189 | 82 | Tetrist |
+| 2190 | 82 | Sandman |
+| 2191 | 82 | Susan Lokerse |
+| 2192 | 82 | Quirky Balance |
+| 2193 | 82 | Shellybobellers |
+| 2194 | 82 | LeeAnn Thompson Saxon |
+| 2195 | 82 | Bartek Nieznane |
+| 2196 | 82 | Mike Winn |
+| 2197 | 82 | NewMe Shortie Rodriguez |
+| 2198 | 82 | Ashley Adams |
+| 2199 | 82 | KingRoss |
+| 2200 | 82 | Cody Peterson |
+| 2201 | 81 | Donetta Brown |
+| 2202 | 81 | Bryan Dickerson |
+| 2203 | 81 | Cozy Buildout |
+| 2204 | 81 | Giddy Towerbuilder |
+| 2205 | 81 | LuLa |
+| 2206 | 80 | Hecate Trimora |
+| 2207 | 80 | Nerdy Bridger |
+| 2208 | 80 | Nikita T Miller |
+| 2209 | 80 | Cheeky Tilemaker |
+| 2210 | 80 | Jumpy Winder |
+| 2211 | 80 | Zappy Patternfit |
+| 2212 | 80 | Iliana Figueroa |
+| 2213 | 80 | Tyrell Harvin |
+| 2214 | 80 | Katt Brown-Thomas |
+| 2215 | 80 | Amanda Alt Caplinger |
+| 2216 | 80 | Swift |
+| 2217 | 80 | Zesty Edgepiece |
+| 2218 | 80 | Dionie Pina |
+| 2219 | 80 | Kaitlyn Mambro |
+| 2220 | 80 | Amber Johnson |
+| 2221 | 80 | Ne'Chaun Curtis |
+| 2222 | 80 | Ray Spaulding |
+| 2223 | 80 | Bouncy Riser |
+| 2224 | 80 | GuttaAce |
+| 2225 | 80 | Yolanda Robertson |
 | 2226 | 80 | Brandy Mcelfresh |
 | 2227 | 79 | Todd Tessler |
 | 2228 | 79 | Giggly Clearfit |
