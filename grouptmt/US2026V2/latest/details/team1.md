@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-20 01:18:49 UTC
+# Standings for team1 as of 2026-03-20 01:19:25 UTC
 
 **Total Participants:** 3682
 
@@ -187,7 +187,7 @@
 | 179 | 1902 | Cheeky Blocky |
 | 180 | 1901 | Joy Bloodworth |
 | 181 | 1886 | Gloria Ininahazwe |
-| 182 | 1863 | Matt Aguilar |
+| 182 | 1869 | Matt Aguilar |
 | 183 | 1850 | Kehlyn King |
 | 184 | 1846 | Ann Carrie |
 | 185 | 1826 | Tom |
@@ -205,8 +205,8 @@
 | 197 | 1710 | Jodi Fichter |
 | 198 | 1689 | Bribrobra |
 | 199 | 1676 | Big rick !!! |
-| 200 | 1675 | Irene Medina |
-| 201 | 1675 | Megan Treacy |
+| 200 | 1675 | Megan Treacy |
+| 201 | 1675 | Irene Medina |
 | 202 | 1674 | Will Fulmer |
 | 203 | 1671 | Cassandra Latimore |
 | 204 | 1659 | jenna |
@@ -216,8 +216,8 @@
 | 208 | 1634 | StankyP |
 | 209 | 1620 | Sharisse Baltimore |
 | 210 | 1618 | Jodie Peterson |
-| 211 | 1602 | Mufi25 |
-| 212 | 1602 | Duane Ficara |
+| 211 | 1602 | Duane Ficara |
+| 212 | 1602 | Mufi25 |
 | 213 | 1601 | Jennie Lee Huntley |
 | 214 | 1601 | Hut Des |
 | 215 | 1598 | Nanan Nanan |
@@ -237,9 +237,9 @@
 | 229 | 1506 | @n@luvmakin |
 | 230 | 1503 | Savannah Tanielle |
 | 231 | 1503 | Ancient Intuition |
-| 232 | 1493 | Ren Mc |
-| 233 | 1484 | Spicy Twister |
-| 234 | 1479 | KK |
+| 232 | 1494 | KK |
+| 233 | 1493 | Ren Mc |
+| 234 | 1484 | Spicy Twister |
 | 235 | 1478 | Kayla Marie Stevenson |
 | 236 | 1475 | Mandy Stevenson |
 | 237 | 1469 | Antonia Wyche |
@@ -726,22 +726,22 @@
 | 718 | 587 | pjbeta |
 | 719 | 585 | Randy Clevenger |
 | 720 | 585 | Aaron Higdon |
-| 721 | 582 | Crystal Eubanks |
-| 722 | 582 | TaRcY |
-| 723 | 582 | GoatHimothy |
-| 724 | 580 | Julie A Hutchinson |
-| 725 | 580 | Shawn Shelby |
-| 726 | 580 | Deborah Fowler |
-| 727 | 580 | Texastytest |
-| 728 | 578 | Hasty Lift |
+| 721 | 584 | Glitzy Builderline |
+| 722 | 582 | Crystal Eubanks |
+| 723 | 582 | TaRcY |
+| 724 | 582 | GoatHimothy |
+| 725 | 580 | Julie A Hutchinson |
+| 726 | 580 | Shawn Shelby |
+| 727 | 580 | Deborah Fowler |
+| 728 | 580 | Texastytest |
 | 729 | 578 | Crystal Talbert |
-| 730 | 577 | LovelyGem0610 |
+| 730 | 578 | Hasty Lift |
 | 731 | 577 | Aponk |
-| 732 | 576 | Glitzy Builderline |
+| 732 | 577 | LovelyGem0610 |
 | 733 | 576 | Kelli Marie |
 | 734 | 576 | Brave Linebuilder |
-| 735 | 575 | Thomas Carlisle |
-| 736 | 575 | Shawna Fender Dennis |
+| 735 | 575 | Shawna Fender Dennis |
+| 736 | 575 | Thomas Carlisle |
 | 737 | 574 | Regina Jones |
 | 738 | 574 | Angie Dotson |
 | 739 | 574 | Ambrosia Natas Danu |
@@ -765,29 +765,29 @@
 | 757 | 560 | Sabrina Hardrick |
 | 758 | 560 | Kimberly Haug |
 | 759 | 559 | Dennis Eitler |
-| 760 | 558 | Rosanna Atria-Schnickel |
-| 761 | 558 | Bri Jackson |
-| 762 | 558 | Ryne Pinkston |
+| 760 | 558 | Bri Jackson |
+| 761 | 558 | Ryne Pinkston |
+| 762 | 558 | Rosanna Atria-Schnickel |
 | 763 | 558 | Dapper Clearfit |
-| 764 | 556 | MammaCass |
-| 765 | 556 | Cozy Twistbuilder |
+| 764 | 556 | Cozy Twistbuilder |
+| 765 | 556 | MammaCass |
 | 766 | 555 | Silly Strikerbuilder |
-| 767 | 554 | Trey Petty |
+| 767 | 554 | Samantha Crowley |
 | 768 | 554 | Trina Gee |
-| 769 | 554 | Samantha Crowley |
+| 769 | 554 | Trey Petty |
 | 770 | 553 | Justin Reed |
 | 771 | 553 | Berenice |
 | 772 | 553 | CHOSEN1 |
-| 773 | 551 | Christian Smith |
-| 774 | 551 | Brenda L. Bunce |
-| 775 | 551 | Samantha Vidaurri |
+| 773 | 551 | Samantha Vidaurri |
+| 774 | 551 | Christian Smith |
+| 775 | 551 | Brenda L. Bunce |
 | 776 | 550 | Mama Becky |
 | 777 | 548 | David Zeimer |
 | 778 | 548 | Allen Scott |
 | 779 | 544 | Chilly Matchbuilder |
 | 780 | 543 | Wacky Balancer |
-| 781 | 541 | Courtney Leigh Deiber |
-| 782 | 541 | BingoStarr |
+| 781 | 541 | BingoStarr |
+| 782 | 541 | Courtney Leigh Deiber |
 | 783 | 541 | Brandon Green |
 | 784 | 540 | Sullivan Tamara |
 | 785 | 538 | Sheree Twiddy Thornton |
@@ -796,8 +796,8 @@
 | 788 | 536 | Speedy Dropmatch |
 | 789 | 534 | ThunderSword |
 | 790 | 534 | Katie Alexander |
-| 791 | 533 | Jacob Phillips |
-| 792 | 533 | Felipa Jo Johnson |
+| 791 | 533 | Felipa Jo Johnson |
+| 792 | 533 | Jacob Phillips |
 | 793 | 532 | Ophelia Rae |
 | 794 | 531 | Mandy Kachenmeister |
 | 795 | 530 | Shawntae Mccary |
@@ -1048,22 +1048,22 @@
 | 1040 | 395 | Christina Laughlin |
 | 1041 | 395 | Renee |
 | 1042 | 392 | Joyce Dimitt Horn |
-| 1043 | 391 | brandi |
-| 1044 | 390 | Rachel Ballard |
+| 1043 | 392 | Jonathan Carter |
+| 1044 | 391 | brandi |
 | 1045 | 390 | Mathhew Tompkins |
-| 1046 | 389 | Tabetha Craddock |
-| 1047 | 389 | Twisty Snapfit |
-| 1048 | 388 | Shelby Bryson |
-| 1049 | 388 | Cozy Patternbuilder |
-| 1050 | 385 | Olympia |
-| 1051 | 385 | Swanky Shatterblock |
-| 1052 | 385 | Goofy Twistslam |
-| 1053 | 385 | sobercocoa |
-| 1054 | 385 | Moemoe Jackson |
-| 1055 | 385 | Rebecca Rognerud |
-| 1056 | 384 | Tee Tee Greene |
+| 1046 | 390 | Rachel Ballard |
+| 1047 | 389 | Tabetha Craddock |
+| 1048 | 389 | Twisty Snapfit |
+| 1049 | 388 | Shelby Bryson |
+| 1050 | 388 | Cozy Patternbuilder |
+| 1051 | 385 | Olympia |
+| 1052 | 385 | Swanky Shatterblock |
+| 1053 | 385 | Goofy Twistslam |
+| 1054 | 385 | sobercocoa |
+| 1055 | 385 | Moemoe Jackson |
+| 1056 | 385 | Rebecca Rognerud |
 | 1057 | 384 | Felise Bee |
-| 1058 | 384 | Jonathan Carter |
+| 1058 | 384 | Tee Tee Greene |
 | 1059 | 384 | Jessica Earp |
 | 1060 | 383 | Harvey Filskov |
 | 1061 | 383 | Randall Sykes |
