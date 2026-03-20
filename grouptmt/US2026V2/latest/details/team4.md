@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-03-20 03:02:33 UTC
+# Standings for team4 as of 2026-03-20 03:03:11 UTC
 
 **Total Participants:** 14710
 
@@ -10287,15 +10287,15 @@
 | 10279 | 63 | Drey Harris |
 | 10280 | 63 | Goose |
 | 10281 | 63 | Brandy Driggers |
-| 10282 | 63 | Simone Porter |
-| 10283 | 63 | Ryan Barrett |
-| 10284 | 63 | Eclipse |
-| 10285 | 63 | FurrBurger |
-| 10286 | 63 | Hasty Splitter |
-| 10287 | 63 | XWingKatana |
-| 10288 | 63 | Julesap73 |
-| 10289 | 63 | Snippy Wrecker |
-| 10290 | 63 | Bold Matchpiece |
+| 10282 | 63 | Snippy Wrecker |
+| 10283 | 63 | XWingKatana |
+| 10284 | 63 | Julesap73 |
+| 10285 | 63 | Eclipse |
+| 10286 | 63 | Simone Porter |
+| 10287 | 63 | Ryan Barrett |
+| 10288 | 63 | FurrBurger |
+| 10289 | 63 | Bold Matchpiece |
+| 10290 | 63 | Hasty Splitter |
 | 10291 | 63 | Damitra A Jennings |
 | 10292 | 63 | Roxanne Allen |
 | 10293 | 63 | Bodmonx |
@@ -10332,178 +10332,178 @@
 | 10324 | 62 | Funky Bricky |
 | 10325 | 62 | Jumpy Shift |
 | 10326 | 62 | Christine Navarro |
-| 10327 | 62 | Andrew Feinberg |
-| 10328 | 62 | Hannah Ingram |
-| 10329 | 62 | Rasta Ivey |
-| 10330 | 62 | Queen D |
-| 10331 | 62 | Amy Haynes |
-| 10332 | 62 | Wendi Rowell Fuller |
+| 10327 | 62 | Amy Haynes |
+| 10328 | 62 | Alyssa Danielle Hopkins |
+| 10329 | 62 | Hannah Ingram |
+| 10330 | 62 | Gloriana A. Mendoza |
+| 10331 | 62 | Andrew Feinberg |
+| 10332 | 62 | Queen D |
 | 10333 | 62 | Thomas Lortie |
-| 10334 | 62 | Gloriana A. Mendoza |
-| 10335 | 62 | Trysten Hansen |
-| 10336 | 62 | Alyssa Danielle Hopkins |
+| 10334 | 62 | Trysten Hansen |
+| 10335 | 62 | Wendi Rowell Fuller |
+| 10336 | 62 | Rasta Ivey |
 | 10337 | 61 | Cool Racker |
-| 10338 | 61 | Niki Love |
-| 10339 | 61 | Teresa Overbey |
-| 10340 | 61 | Judy Smith |
-| 10341 | 61 | Daring Brickzone |
-| 10342 | 61 | Roque' Moore |
-| 10343 | 61 | Lee Longman |
-| 10344 | 61 | Barbie Tucker |
-| 10345 | 61 | Daphne Earnhardt |
-| 10346 | 61 | Kd Dguez |
-| 10347 | 61 | Tabitha Cruz |
-| 10348 | 61 | Frilly Towerpiece |
-| 10349 | 61 | Poppy T-spin |
-| 10350 | 61 | Breezy Cornerfall |
-| 10351 | 61 | Betty Rosa Phillips |
-| 10352 | 61 | Slinky Dashpiece |
-| 10353 | 61 | N.J. King |
-| 10354 | 61 | Ty'erra Wiggins |
-| 10355 | 61 | HAha |
-| 10356 | 61 | Bootchy |
-| 10357 | 61 | Derricka Parker |
-| 10358 | 61 | Jay Hoskins |
-| 10359 | 61 | Jaime S Urenda |
-| 10360 | 61 | Pixel |
-| 10361 | 61 | Loopy Zonebuilder |
-| 10362 | 61 | Wood Pine |
-| 10363 | 61 | Zakia Foster |
-| 10364 | 61 | Sierra Guthrie-shove |
-| 10365 | 61 | Kath |
-| 10366 | 61 | Randi Degges Coppinger |
-| 10367 | 61 | Henry Hoang |
-| 10368 | 61 | Joshsolive |
-| 10369 | 61 | Bryan Beasley |
-| 10370 | 61 | Phrangk |
-| 10371 | 61 | Candice Ortiz |
-| 10372 | 61 | Isaiah Guerrido |
-| 10373 | 61 | Melissa Mundahl |
-| 10374 | 61 | Giggle Gems |
-| 10375 | 61 | Brave Riserpiece |
-| 10376 | 61 | Jessica Molletti |
-| 10377 | 61 | Giggy Fit |
-| 10378 | 61 | Frothy Shuffler |
-| 10379 | 61 | Ng Wayne |
-| 10380 | 61 | SusieQue |
-| 10381 | 60 | Scott Lorenz |
-| 10382 | 60 | Gianni |
-| 10383 | 60 | The Murphy |
-| 10384 | 60 | Cozy Clusterbuilder |
-| 10385 | 60 | zyvana |
-| 10386 | 60 | Kymnbel Bywater |
-| 10387 | 60 | TSlover |
-| 10388 | 60 | Javyjavz |
-| 10389 | 60 | Leondres Learosshea Jordan |
-| 10390 | 60 | Cathy Barone Beese |
-| 10391 | 60 | Lisa Wohlrab |
-| 10392 | 60 | Amber Brown |
-| 10393 | 60 | Khabib nuragomedov |
-| 10394 | 60 | Cindy Petty |
-| 10395 | 60 | Hoppy Gridclear |
-| 10396 | 60 | Drakoz Howard |
-| 10397 | 60 | Kaykalifa Lovett |
-| 10398 | 60 | Steph Marie |
-| 10399 | 60 | Beverly Chamroeun |
-| 10400 | 60 | Perky Bouncer |
-| 10401 | 60 | Happy Shatterblock |
-| 10402 | 60 | Lindsay Larson |
-| 10403 | 60 | Kristine J Wright |
-| 10404 | 60 | Cozy Balanceblock |
-| 10405 | 60 | MoWest |
-| 10406 | 60 | Kemisha Hollingsworth |
-| 10407 | 60 | Josie Mason |
-| 10408 | 60 | Kaylon Trustnone Anthony |
-| 10409 | 60 | Crunchiees |
-| 10410 | 60 | Amanda Davis |
-| 10411 | 60 | Sierra Portis |
-| 10412 | 60 | Catarina Quello |
-| 10413 | 60 | China White |
-| 10414 | 60 | Sissy Burrows Hathaway |
-| 10415 | 60 | Lonny Lewis |
-| 10416 | 60 | Loony Zigzag |
-| 10417 | 60 | Jessica Heim |
-| 10418 | 60 | Jessica Church |
-| 10419 | 60 | Tori Lynn Nunez-Bayhi |
-| 10420 | 60 | Michelle Owens |
-| 10421 | 60 | Oscar Bernie |
-| 10422 | 60 | Joe |
-| 10423 | 60 | Brave Glidepiece |
+| 10338 | 61 | Teresa Overbey |
+| 10339 | 61 | Roque' Moore |
+| 10340 | 61 | Barbie Tucker |
+| 10341 | 61 | Lee Longman |
+| 10342 | 61 | Niki Love |
+| 10343 | 61 | Daring Brickzone |
+| 10344 | 61 | Judy Smith |
+| 10345 | 61 | Raine |
+| 10346 | 61 | Daphne Earnhardt |
+| 10347 | 61 | Kd Dguez |
+| 10348 | 61 | Tabitha Cruz |
+| 10349 | 61 | Frilly Towerpiece |
+| 10350 | 61 | Poppy T-spin |
+| 10351 | 61 | Breezy Cornerfall |
+| 10352 | 61 | Betty Rosa Phillips |
+| 10353 | 61 | Slinky Dashpiece |
+| 10354 | 61 | N.J. King |
+| 10355 | 61 | Ty'erra Wiggins |
+| 10356 | 61 | HAha |
+| 10357 | 61 | Bootchy |
+| 10358 | 61 | Derricka Parker |
+| 10359 | 61 | Jay Hoskins |
+| 10360 | 61 | Jaime S Urenda |
+| 10361 | 61 | Pixel |
+| 10362 | 61 | Loopy Zonebuilder |
+| 10363 | 61 | Wood Pine |
+| 10364 | 61 | Zakia Foster |
+| 10365 | 61 | Sierra Guthrie-shove |
+| 10366 | 61 | Kath |
+| 10367 | 61 | Randi Degges Coppinger |
+| 10368 | 61 | Henry Hoang |
+| 10369 | 61 | Joshsolive |
+| 10370 | 61 | Bryan Beasley |
+| 10371 | 61 | Phrangk |
+| 10372 | 61 | Candice Ortiz |
+| 10373 | 61 | Isaiah Guerrido |
+| 10374 | 61 | Melissa Mundahl |
+| 10375 | 61 | Giggle Gems |
+| 10376 | 61 | Brave Riserpiece |
+| 10377 | 61 | Jessica Molletti |
+| 10378 | 61 | Giggy Fit |
+| 10379 | 61 | Frothy Shuffler |
+| 10380 | 61 | Ng Wayne |
+| 10381 | 61 | SusieQue |
+| 10382 | 60 | Scott Lorenz |
+| 10383 | 60 | Gianni |
+| 10384 | 60 | The Murphy |
+| 10385 | 60 | Cozy Clusterbuilder |
+| 10386 | 60 | zyvana |
+| 10387 | 60 | Kymnbel Bywater |
+| 10388 | 60 | TSlover |
+| 10389 | 60 | Javyjavz |
+| 10390 | 60 | Leondres Learosshea Jordan |
+| 10391 | 60 | Cathy Barone Beese |
+| 10392 | 60 | Lisa Wohlrab |
+| 10393 | 60 | Amber Brown |
+| 10394 | 60 | Khabib nuragomedov |
+| 10395 | 60 | Cindy Petty |
+| 10396 | 60 | Hoppy Gridclear |
+| 10397 | 60 | Drakoz Howard |
+| 10398 | 60 | Kaykalifa Lovett |
+| 10399 | 60 | Steph Marie |
+| 10400 | 60 | Beverly Chamroeun |
+| 10401 | 60 | Perky Bouncer |
+| 10402 | 60 | Happy Shatterblock |
+| 10403 | 60 | Lindsay Larson |
+| 10404 | 60 | Kristine J Wright |
+| 10405 | 60 | Cozy Balanceblock |
+| 10406 | 60 | MoWest |
+| 10407 | 60 | Kemisha Hollingsworth |
+| 10408 | 60 | Josie Mason |
+| 10409 | 60 | Kaylon Trustnone Anthony |
+| 10410 | 60 | Crunchiees |
+| 10411 | 60 | Amanda Davis |
+| 10412 | 60 | Sierra Portis |
+| 10413 | 60 | Catarina Quello |
+| 10414 | 60 | China White |
+| 10415 | 60 | Jessica Church |
+| 10416 | 60 | Lonny Lewis |
+| 10417 | 60 | Chipper Smasher |
+| 10418 | 60 | Kayla Joy |
+| 10419 | 60 | Sissy Burrows Hathaway |
+| 10420 | 60 | Amanda Arnold |
+| 10421 | 60 | LaicoosBargains Ln |
+| 10422 | 60 | Brave Glidepiece |
+| 10423 | 60 | Giggly Lift |
 | 10424 | 60 | Hay Haye |
-| 10425 | 60 | Giggly Lift |
-| 10426 | 60 | LaicoosBargains Ln |
-| 10427 | 60 | Amanda Arnold |
-| 10428 | 60 | Kayla Joy |
-| 10429 | 60 | Chipper Smasher |
-| 10430 | 60 | Zach Horn |
-| 10431 | 60 | Stark Lee David |
-| 10432 | 60 | Olivia Guidry |
-| 10433 | 60 | Anthony Dale Roberts |
-| 10434 | 60 | Nutty Spinblock |
-| 10435 | 60 | Fancy Slam |
-| 10436 | 60 | smiles crasher |
-| 10437 | 60 | Cris Ramos |
-| 10438 | 60 | Shanna Leeann |
-| 10439 | 60 | Tuga BakeShop |
-| 10440 | 60 | MRB1G3 |
-| 10441 | 60 | Queenn Mursic |
-| 10442 | 60 | Jazzy Slamdrop |
-| 10443 | 60 | Cassandra Ruth |
-| 10444 | 60 | Toni Lichty |
-| 10445 | 60 | Hunter Shoup Jines |
-| 10446 | 60 | Michelle Dixon |
-| 10447 | 60 | Khushkismet Singh Grewal |
-| 10448 | 60 | Chanona Williams |
-| 10449 | 60 | Jumpy Zigzag |
-| 10450 | 60 | Da'Fanesse Smith |
-| 10451 | 60 | Wieke Rosalina |
-| 10452 | 60 | Swanky Riserfit |
-| 10453 | 60 | Rob Booker |
-| 10454 | 60 | Joseph Harmon |
-| 10455 | 60 | Eric Lyle Patterson |
-| 10456 | 60 | LaTavia Demore |
-| 10457 | 60 | Xavier Rivas |
-| 10458 | 60 | Cassandra-Jacklyn Gorton |
-| 10459 | 60 | Nae Jackson |
-| 10460 | 60 | AnitaMann |
-| 10461 | 60 | Humyai |
-| 10462 | 60 | LaTrice Malone-Hubert |
-| 10463 | 60 | Chillmode |
-| 10464 | 60 | Falicia Smith |
-| 10465 | 60 | Chilly Cascadeclear |
-| 10466 | 60 | Glitzy Zonegrid |
-| 10467 | 60 | Bree Jones |
-| 10468 | 60 | Giggy Tetrisline |
-| 10469 | 60 | Kristen Longmire |
-| 10470 | 60 | Khaos Seevers |
-| 10471 | 60 | Long |
-| 10472 | 60 | Dara Henry |
-| 10473 | 60 | Granny2003 |
-| 10474 | 60 | Hoopy |
-| 10475 | 60 | WhatAreThose69 |
-| 10476 | 60 | Carlos Hernandez |
-| 10477 | 60 | Bob Decker |
-| 10478 | 60 | SUPREME |
-| 10479 | 59 | Bernell King Eborn |
-| 10480 | 59 | Bouncy Pivoty |
-| 10481 | 59 | Denise Britt |
-| 10482 | 59 | Breezy Gridmatch |
-| 10483 | 59 | Witty Match |
-| 10484 | 59 | lilfashionkilla |
-| 10485 | 59 | Quinton Barrett Anoai |
-| 10486 | 59 | HashSkittles |
-| 10487 | 59 | nativelink |
-| 10488 | 59 | Enceetsun |
-| 10489 | 59 | Katie Wickstrom |
-| 10490 | 59 | Lively Matchclear |
-| 10491 | 59 | Meena |
-| 10492 | 59 | Raine |
-| 10493 | 59 | Beto Dinero |
-| 10494 | 59 | Matt Johnson |
-| 10495 | 59 | BkLuscious |
-| 10496 | 59 | Wanda Johnson |
-| 10497 | 59 | Christopher Holloway II |
-| 10498 | 59 | Syrena VanWyk |
+| 10425 | 60 | Tori Lynn Nunez-Bayhi |
+| 10426 | 60 | Michelle Owens |
+| 10427 | 60 | Oscar Bernie |
+| 10428 | 60 | Joe |
+| 10429 | 60 | Loony Zigzag |
+| 10430 | 60 | Nutty Spinblock |
+| 10431 | 60 | smiles crasher |
+| 10432 | 60 | Cris Ramos |
+| 10433 | 60 | Shanna Leeann |
+| 10434 | 60 | Tuga BakeShop |
+| 10435 | 60 | MRB1G3 |
+| 10436 | 60 | Queenn Mursic |
+| 10437 | 60 | Fancy Slam |
+| 10438 | 60 | Jazzy Slamdrop |
+| 10439 | 60 | Cassandra Ruth |
+| 10440 | 60 | Toni Lichty |
+| 10441 | 60 | Hunter Shoup Jines |
+| 10442 | 60 | Michelle Dixon |
+| 10443 | 60 | Anthony Dale Roberts |
+| 10444 | 60 | Olivia Guidry |
+| 10445 | 60 | Stark Lee David |
+| 10446 | 60 | Jessica Heim |
+| 10447 | 60 | Zach Horn |
+| 10448 | 60 | Khushkismet Singh Grewal |
+| 10449 | 60 | Chanona Williams |
+| 10450 | 60 | Jumpy Zigzag |
+| 10451 | 60 | Da'Fanesse Smith |
+| 10452 | 60 | Wieke Rosalina |
+| 10453 | 60 | Swanky Riserfit |
+| 10454 | 60 | Rob Booker |
+| 10455 | 60 | Joseph Harmon |
+| 10456 | 60 | Eric Lyle Patterson |
+| 10457 | 60 | LaTavia Demore |
+| 10458 | 60 | Xavier Rivas |
+| 10459 | 60 | Cassandra-Jacklyn Gorton |
+| 10460 | 60 | Nae Jackson |
+| 10461 | 60 | AnitaMann |
+| 10462 | 60 | Humyai |
+| 10463 | 60 | LaTrice Malone-Hubert |
+| 10464 | 60 | Chillmode |
+| 10465 | 60 | Falicia Smith |
+| 10466 | 60 | Chilly Cascadeclear |
+| 10467 | 60 | Glitzy Zonegrid |
+| 10468 | 60 | Bree Jones |
+| 10469 | 60 | Giggy Tetrisline |
+| 10470 | 60 | Kristen Longmire |
+| 10471 | 60 | Khaos Seevers |
+| 10472 | 60 | Long |
+| 10473 | 60 | Dara Henry |
+| 10474 | 60 | Granny2003 |
+| 10475 | 60 | Hoopy |
+| 10476 | 60 | WhatAreThose69 |
+| 10477 | 60 | Carlos Hernandez |
+| 10478 | 60 | Bob Decker |
+| 10479 | 60 | SUPREME |
+| 10480 | 59 | Bernell King Eborn |
+| 10481 | 59 | Bouncy Pivoty |
+| 10482 | 59 | Denise Britt |
+| 10483 | 59 | Breezy Gridmatch |
+| 10484 | 59 | Witty Match |
+| 10485 | 59 | lilfashionkilla |
+| 10486 | 59 | Quinton Barrett Anoai |
+| 10487 | 59 | HashSkittles |
+| 10488 | 59 | nativelink |
+| 10489 | 59 | Enceetsun |
+| 10490 | 59 | Katie Wickstrom |
+| 10491 | 59 | Syrena VanWyk |
+| 10492 | 59 | Beto Dinero |
+| 10493 | 59 | Lively Matchclear |
+| 10494 | 59 | Meena |
+| 10495 | 59 | Matt Johnson |
+| 10496 | 59 | BkLuscious |
+| 10497 | 59 | Wanda Johnson |
+| 10498 | 59 | Christopher Holloway II |
 | 10499 | 59 | Ecurb Ecallaw |
 | 10500 | 59 | Anthony Lister |
 | 10501 | 59 | Poopboy |
