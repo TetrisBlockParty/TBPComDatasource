@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-03-20 01:30:47 UTC
+# Standings for team1 as of 2026-03-20 01:31:25 UTC
 
 **Total Participants:** 3684
 
@@ -149,7 +149,7 @@
 | 141 | 2180 | Dee |
 | 142 | 2178 | Spunky Snapfit |
 | 143 | 2170 | Zach Thompson |
-| 144 | 2147 | Shaynna Garza |
+| 144 | 2149 | Shaynna Garza |
 | 145 | 2135 | sent2bless34 |
 | 146 | 2129 | DeeBee |
 | 147 | 2108 | La'Shonda N Williams |
@@ -1023,12 +1023,12 @@
 | 1015 | 407 | Hoppy Buildgrid |
 | 1016 | 407 | Christi Ames |
 | 1017 | 407 | Wanda Honey |
-| 1018 | 405 | Mathhew Tompkins |
-| 1019 | 405 | Dunlap Loretta |
-| 1020 | 404 | Scott Reynolds |
-| 1021 | 403 | Shuzer |
-| 1022 | 403 | Misstery |
-| 1023 | 402 | Andie Galindo |
+| 1018 | 406 | Andie Galindo |
+| 1019 | 405 | Mathhew Tompkins |
+| 1020 | 405 | Dunlap Loretta |
+| 1021 | 404 | Scott Reynolds |
+| 1022 | 403 | Shuzer |
+| 1023 | 403 | Misstery |
 | 1024 | 402 | Taquilla Branch |
 | 1025 | 402 | Chill Pivot |
 | 1026 | 402 | Jonathan Carter |
@@ -1185,45 +1185,45 @@
 | 1177 | 337 | Shawn Septer |
 | 1178 | 336 | Shiny Twistslam |
 | 1179 | 335 | Selena Shaw |
-| 1180 | 335 | greggr13 |
-| 1181 | 335 | Candace Roach |
-| 1182 | 334 | Melinda Perry Frazier |
-| 1183 | 334 | Maegen Ripley |
+| 1180 | 335 | Candace Roach |
+| 1181 | 335 | Connie Bond |
+| 1182 | 335 | greggr13 |
+| 1183 | 334 | Melinda Perry Frazier |
 | 1184 | 334 | mbij21 |
-| 1185 | 334 | Nicole Fields |
-| 1186 | 333 | Mila Harper |
+| 1185 | 334 | Maegen Ripley |
+| 1186 | 334 | Nicole Fields |
 | 1187 | 333 | Daring Edge |
-| 1188 | 333 | Neomi Perdue |
-| 1189 | 333 | Joyce Fees |
-| 1190 | 333 | Richard Hertz |
-| 1191 | 332 | Misty Blanchard |
-| 1192 | 331 | Peachy Brick |
-| 1193 | 331 | Starlight |
-| 1194 | 331 | Kelli Pazour |
-| 1195 | 330 | Vinny |
-| 1196 | 330 | James Green |
-| 1197 | 329 | Breezy Party |
-| 1198 | 328 | Michelle Roberts |
-| 1199 | 328 | Lively Clusterfit |
-| 1200 | 327 | Spunky |
-| 1201 | 327 | Bouncy Patternzone |
-| 1202 | 327 | Jennifer Lynn |
-| 1203 | 327 | Lively Patternfall |
-| 1204 | 327 | Nicole G Simms |
-| 1205 | 326 | Kevin Russell |
-| 1206 | 326 | Hasbro Bros |
-| 1207 | 325 | Matt Metzler |
-| 1208 | 325 | Connie Bond |
+| 1188 | 333 | Joyce Fees |
+| 1189 | 333 | Neomi Perdue |
+| 1190 | 333 | Mila Harper |
+| 1191 | 333 | Richard Hertz |
+| 1192 | 332 | Misty Blanchard |
+| 1193 | 331 | Kelli Pazour |
+| 1194 | 331 | Starlight |
+| 1195 | 331 | Peachy Brick |
+| 1196 | 330 | Vinny |
+| 1197 | 330 | James Green |
+| 1198 | 329 | Breezy Party |
+| 1199 | 328 | Michelle Roberts |
+| 1200 | 328 | Lively Clusterfit |
+| 1201 | 327 | Spunky |
+| 1202 | 327 | Bouncy Patternzone |
+| 1203 | 327 | Jennifer Lynn |
+| 1204 | 327 | Lively Patternfall |
+| 1205 | 327 | Nicole G Simms |
+| 1206 | 326 | Kevin Russell |
+| 1207 | 326 | Hasbro Bros |
+| 1208 | 325 | Matt Metzler |
 | 1209 | 325 | Tiffany |
 | 1210 | 325 | Baretta Scott |
 | 1211 | 325 | ZhenZhen |
 | 1212 | 324 | Breezy Glidepiece |
 | 1213 | 323 | Rebecca Wilson |
-| 1214 | 323 | Mckenzie Morris |
-| 1215 | 323 | Crafty Clearfit |
-| 1216 | 322 | Jessica |
-| 1217 | 322 | 805 |
-| 1218 | 322 | Meli |
+| 1214 | 323 | Crafty Clearfit |
+| 1215 | 323 | Mckenzie Morris |
+| 1216 | 322 | 805 |
+| 1217 | 322 | Meli |
+| 1218 | 322 | Jessica |
 | 1219 | 322 | Armoni |
 | 1220 | 322 | Randy Bowers |
 | 1221 | 322 | Bubbly Linkfall |
@@ -1588,8 +1588,8 @@
 | 1580 | 224 | Cheery Brickclear |
 | 1581 | 223 | Tee Mac |
 | 1582 | 223 | Robyn Massey |
-| 1583 | 222 | Laura R. Lloyd |
-| 1584 | 221 | Witty Dasher |
+| 1583 | 222 | Witty Dasher |
+| 1584 | 222 | Laura R. Lloyd |
 | 1585 | 221 | Steven Johnson |
 | 1586 | 220 | Ron Poindexter |
 | 1587 | 220 | Kim Pabalan |
@@ -1760,13 +1760,13 @@
 | 1752 | 181 | Katie Batoosingh |
 | 1753 | 181 | Kandie Marie |
 | 1754 | 181 | Lindsey Smith |
-| 1755 | 180 | Mel Esquibel Brostoski |
-| 1756 | 180 | Smiley Lifter |
-| 1757 | 180 | Crystal Conklin |
-| 1758 | 179 | l |
-| 1759 | 179 | ChasingZen |
-| 1760 | 179 | Katelyn Dorman |
-| 1761 | 178 | David |
+| 1755 | 180 | David |
+| 1756 | 180 | Mel Esquibel Brostoski |
+| 1757 | 180 | Smiley Lifter |
+| 1758 | 180 | Crystal Conklin |
+| 1759 | 179 | l |
+| 1760 | 179 | ChasingZen |
+| 1761 | 179 | Katelyn Dorman |
 | 1762 | 178 | Nicole Ashley Roy |
 | 1763 | 178 | Garry Junior Davis |
 | 1764 | 178 | Courtney Cassidy |
@@ -2095,25 +2095,25 @@
 | 2087 | 122 | Anthony Ross |
 | 2088 | 122 | Amanda Ellison |
 | 2089 | 122 | Devon Rae |
-| 2090 | 122 | Eternity Paulley |
-| 2091 | 122 | Chazzmin Piper |
-| 2092 | 122 | Jenny Lynn Hiles |
-| 2093 | 122 | Jeremy Buckley |
-| 2094 | 122 | tcking |
-| 2095 | 122 | Todd Tessler |
-| 2096 | 121 | Amy Humphreys |
-| 2097 | 121 | Danny Ortiz |
-| 2098 | 121 | Rebecca Tanner |
-| 2099 | 121 | Michele Chesser |
-| 2100 | 121 | Rashae Sheets |
-| 2101 | 121 | Saucy Tetriblast |
-| 2102 | 121 | Happy Snapline |
-| 2103 | 120 | Milton Jenkins Jr. |
+| 2090 | 122 | Tony McCormick |
+| 2091 | 122 | Eternity Paulley |
+| 2092 | 122 | Chazzmin Piper |
+| 2093 | 122 | Jenny Lynn Hiles |
+| 2094 | 122 | Jeremy Buckley |
+| 2095 | 122 | tcking |
+| 2096 | 122 | Todd Tessler |
+| 2097 | 121 | Amy Humphreys |
+| 2098 | 121 | Danny Ortiz |
+| 2099 | 121 | Rebecca Tanner |
+| 2100 | 121 | Michele Chesser |
+| 2101 | 121 | Rashae Sheets |
+| 2102 | 121 | Saucy Tetriblast |
+| 2103 | 121 | Happy Snapline |
 | 2104 | 120 | Kelli Skeen |
 | 2105 | 120 | Rachelle Wimpey |
-| 2106 | 120 | Karissa McDannel |
-| 2107 | 120 | ChaosNCatHair |
-| 2108 | 120 | Tony McCormick |
+| 2106 | 120 | ChaosNCatHair |
+| 2107 | 120 | Karissa McDannel |
+| 2108 | 120 | Milton Jenkins Jr. |
 | 2109 | 120 | Queen of Nonsense |
 | 2110 | 119 | Lazy Drop |
 | 2111 | 119 | Sloop Betty |
