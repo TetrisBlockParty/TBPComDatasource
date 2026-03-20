@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-03-20 03:11:10 UTC
+# Standings for team4 as of 2026-03-20 03:12:12 UTC
 
 **Total Participants:** 14710
 
@@ -1188,8 +1188,8 @@
 | 1180 | 1229 | Nicole Naasz |
 | 1181 | 1229 | Marina Thomas |
 | 1182 | 1228 | Jenn Lauder |
-| 1183 | 1227 | Dave Nance |
-| 1184 | 1227 | Justine Mitchell |
+| 1183 | 1227 | Justine Mitchell |
+| 1184 | 1227 | Dave Nance |
 | 1185 | 1226 | Rosemary Springs |
 | 1186 | 1226 | Rams Mahshi |
 | 1187 | 1220 | Brandie Gallegos |
@@ -1436,9 +1436,9 @@
 | 1428 | 1052 | Aries |
 | 1429 | 1052 | Suzy Moody |
 | 1430 | 1051 | Ashley Katzmarek |
-| 1431 | 1050 | Jasmine L Rice |
+| 1431 | 1050 | HugePPBT |
 | 1432 | 1050 | Manda |
-| 1433 | 1050 | HugePPBT |
+| 1433 | 1050 | Jasmine L Rice |
 | 1434 | 1050 | Dovakin |
 | 1435 | 1050 | Foti |
 | 1436 | 1050 | Joe Sprague |
@@ -1660,8 +1660,8 @@
 | 1652 | 930 | Dee Sun |
 | 1653 | 930 | Kelly Ann |
 | 1654 | 929 | Kari Parrish |
-| 1655 | 929 | Zenah Cole |
-| 1656 | 929 | Shanice Lee |
+| 1655 | 929 | Shanice Lee |
+| 1656 | 929 | Zenah Cole |
 | 1657 | 929 | Brianna Oliver |
 | 1658 | 929 | Helen Belaigorod |
 | 1659 | 928 | rise |
@@ -1848,8 +1848,8 @@
 | 1840 | 858 | Lazy Drop |
 | 1841 | 857 | Matthew See |
 | 1842 | 856 | Quiltygirl |
-| 1843 | 856 | Nikki Rae Newton |
-| 1844 | 856 | Lotus |
+| 1843 | 856 | Lotus |
+| 1844 | 856 | Nikki Rae Newton |
 | 1845 | 855 | Paul Hanes |
 | 1846 | 855 | Bold Piecegrid |
 | 1847 | 855 | Mart Small |
@@ -1972,56 +1972,56 @@
 | 1964 | 816 | Crystal Mozuch |
 | 1965 | 816 | Spicyy Dulces |
 | 1966 | 816 | DENOTS42OSPOT |
-| 1967 | 816 | knudz3n89 |
-| 1968 | 816 | Jacobi Mann |
+| 1967 | 816 | Jacobi Mann |
+| 1968 | 816 | knudz3n89 |
 | 1969 | 816 | Donavon White |
 | 1970 | 815 | Cozy Drop |
 | 1971 | 815 | Silly Stackzone |
 | 1972 | 815 | Jamie Kelley |
-| 1973 | 814 | Keith Butta Justice |
+| 1973 | 815 | Tina Brown |
 | 1974 | 814 | Eglacia Quinn |
-| 1975 | 814 | Bonita Kee |
-| 1976 | 812 | Michael Fanella II |
-| 1977 | 812 | Lori Carpentier |
-| 1978 | 811 | John Gibson |
-| 1979 | 811 | Glitzy Piecegrid |
-| 1980 | 811 | Sonya Munoz |
-| 1981 | 811 | Annette Hockenbroch |
-| 1982 | 811 | duddy |
-| 1983 | 811 | Ashley Marie Cox |
-| 1984 | 810 | Sherilyn Huie |
-| 1985 | 810 | Alyssa Marie |
-| 1986 | 810 | Shari Lynn |
-| 1987 | 810 | Beazel75 |
-| 1988 | 810 | Caterina Maria Tivolinni |
-| 1989 | 810 | Lupo Lupo |
-| 1990 | 810 | Jennifer CRossow |
-| 1991 | 809 | Jenn Stewart |
-| 1992 | 809 | Kari M Enbody |
-| 1993 | 809 | Chill Patternzone |
-| 1994 | 807 | Usernotfound Usernotfound |
-| 1995 | 807 | Maria Sexton |
-| 1996 | 806 | Stacy Gayle |
-| 1997 | 806 | Ncjwjbc |
-| 1998 | 806 | Lori Lea Sween |
-| 1999 | 806 | Scott Jung |
-| 2000 | 806 | Gridlock |
-| 2001 | 804 | Sam Lee |
-| 2002 | 804 | Ruby Rose |
-| 2003 | 804 | Sheila K. Lindsay Gordon |
-| 2004 | 803 | Corey A Marlatt |
-| 2005 | 803 | Melissa Adams |
-| 2006 | 803 | Sunny Spivey |
-| 2007 | 803 | Loony Slamdrop |
-| 2008 | 802 | Daring Lift |
-| 2009 | 802 | Zargnut |
-| 2010 | 801 | Samantha Richardson |
-| 2011 | 800 | James Beckwith |
-| 2012 | 800 | Greg Virden |
-| 2013 | 800 | Rebekah Satterfield |
-| 2014 | 799 | CTHULHU |
-| 2015 | 799 | Miracle |
-| 2016 | 798 | Tina Brown |
+| 1975 | 814 | Keith Butta Justice |
+| 1976 | 814 | Bonita Kee |
+| 1977 | 812 | Michael Fanella II |
+| 1978 | 812 | Lori Carpentier |
+| 1979 | 811 | John Gibson |
+| 1980 | 811 | Glitzy Piecegrid |
+| 1981 | 811 | Sonya Munoz |
+| 1982 | 811 | Annette Hockenbroch |
+| 1983 | 811 | duddy |
+| 1984 | 811 | Ashley Marie Cox |
+| 1985 | 810 | Sherilyn Huie |
+| 1986 | 810 | Alyssa Marie |
+| 1987 | 810 | Shari Lynn |
+| 1988 | 810 | Beazel75 |
+| 1989 | 810 | Caterina Maria Tivolinni |
+| 1990 | 810 | Lupo Lupo |
+| 1991 | 810 | Jennifer CRossow |
+| 1992 | 809 | Jenn Stewart |
+| 1993 | 809 | Kari M Enbody |
+| 1994 | 809 | Chill Patternzone |
+| 1995 | 807 | Usernotfound Usernotfound |
+| 1996 | 807 | Maria Sexton |
+| 1997 | 806 | Stacy Gayle |
+| 1998 | 806 | Ncjwjbc |
+| 1999 | 806 | Lori Lea Sween |
+| 2000 | 806 | Scott Jung |
+| 2001 | 806 | Gridlock |
+| 2002 | 804 | Sam Lee |
+| 2003 | 804 | Ruby Rose |
+| 2004 | 804 | Sheila K. Lindsay Gordon |
+| 2005 | 803 | Corey A Marlatt |
+| 2006 | 803 | Melissa Adams |
+| 2007 | 803 | Sunny Spivey |
+| 2008 | 803 | Loony Slamdrop |
+| 2009 | 802 | Daring Lift |
+| 2010 | 802 | Zargnut |
+| 2011 | 801 | Samantha Richardson |
+| 2012 | 800 | James Beckwith |
+| 2013 | 800 | Greg Virden |
+| 2014 | 800 | Rebekah Satterfield |
+| 2015 | 799 | CTHULHU |
+| 2016 | 799 | Miracle |
 | 2017 | 798 | Cassius Quinn |
 | 2018 | 797 | Silas Scott |
 | 2019 | 797 | BiGdAdDyGrEeK |
