@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-03 10:34:09 UTC
+# Standings for team1 as of 2026-06-03 10:35:11 UTC
 
-**Total Participants:** 4
+**Total Participants:** 5
 
 ## Participant Scores
 
@@ -8,8 +8,9 @@
 | :- | :- | :- |
 | 1 | 8590 | Mary |
 | 2 | 5976 | Маркус Вік |
-| 3 | 14 | Breezy Rumbler |
-| 4 | 10 | Wacky Patternfit |
+| 3 | 32 | Marta Savchuk |
+| 4 | 14 | Breezy Rumbler |
+| 5 | 10 | Wacky Patternfit |
 
 ---
 *Standings created by tournaments datasource generation tool*
