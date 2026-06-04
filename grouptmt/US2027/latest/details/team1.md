@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-04 12:18:11 UTC
+# Standings for team1 as of 2026-06-04 12:18:34 UTC
 
 **Total Participants:** 5
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 9711 | Mary |
-| 2 | 7313 | Маркус Вік |
+| 2 | 7719 | Маркус Вік |
 | 3 | 62 | Marta Savchuk |
 | 4 | 14 | Breezy Rumbler |
 | 5 | 10 | Wacky Patternfit |
