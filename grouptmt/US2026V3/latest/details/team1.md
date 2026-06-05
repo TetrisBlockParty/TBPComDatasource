@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 22:06:15 UTC
+# Standings for team1 as of 2026-06-05 22:06:36 UTC
 
 **Total Participants:** 544
 
@@ -345,8 +345,8 @@
 | 337 | 20 | Sha Harris |
 | 338 | 20 | Cynthia Bradley |
 | 339 | 20 | Trina Greenwood |
-| 340 | 20 | Clever Fitblock |
-| 341 | 20 | Tee Spinks |
+| 340 | 20 | Tee Spinks |
+| 341 | 20 | Clever Fitblock |
 | 342 | 20 | Danny M GR |
 | 343 | 20 | Tamara Johnson-Carter |
 | 344 | 20 | Dorian Griffin |
@@ -362,58 +362,58 @@
 | 354 | 19 | Michele Simpson |
 | 355 | 19 | Stephen Providenti |
 | 356 | 19 | Lisa Müller |
-| 357 | 19 | Jeremy Pope |
-| 358 | 19 | Lozuna |
-| 359 | 19 | Saucy Tile |
-| 360 | 19 | NastyFriend |
-| 361 | 18 | Moomoo |
-| 362 | 18 | AleahKCH |
+| 357 | 19 | Lawreniesha Burkley |
+| 358 | 19 | Jeremy Pope |
+| 359 | 19 | Lozuna |
+| 360 | 19 | Saucy Tile |
+| 361 | 19 | NastyFriend |
+| 362 | 18 | Moomoo |
 | 363 | 18 | Ounquan Wright |
 | 364 | 18 | Azeiare Ziare |
-| 365 | 18 | Tyree Tman Shinette |
+| 365 | 18 | AleahKCH |
 | 366 | 18 | Darrel Pemberton |
-| 367 | 18 | Oaklonboy mike |
-| 368 | 18 | Anissa Williams |
-| 369 | 18 | Jolly Dropzone |
-| 370 | 18 | Sunny Clicky |
-| 371 | 18 | Una |
-| 372 | 18 | Jeremy Myers |
-| 373 | 17 | Rikki Moran |
-| 374 | 17 | Jb Mzresilience |
-| 375 | 17 | Elizabeth Vega Coreano |
+| 367 | 18 | Jolly Dropzone |
+| 368 | 18 | Sunny Clicky |
+| 369 | 18 | Una |
+| 370 | 18 | Jeremy Myers |
+| 371 | 18 | Anissa Williams |
+| 372 | 18 | Tyree Tman Shinette |
+| 373 | 18 | Oaklonboy mike |
+| 374 | 17 | Mikayla |
+| 375 | 17 | Richelle Beck |
 | 376 | 17 | Lisa Fletcher |
-| 377 | 17 | Mikayla |
+| 377 | 17 | Elizabeth Vega Coreano |
 | 378 | 17 | Andre Rivera |
-| 379 | 16 | Squaw Ki Ng |
-| 380 | 16 | Latoya Carson |
-| 381 | 16 | Dawn Basemore |
-| 382 | 16 | Poppy Smasher |
-| 383 | 16 | GracefulOwl808 |
-| 384 | 16 | Tanisha Robinson |
-| 385 | 16 | Sammie Walker |
-| 386 | 16 | Symonne 'Monnie' Pierce |
-| 387 | 16 | Sunny Tumbler |
-| 388 | 16 | MsBobby Patrick |
-| 389 | 16 | Richelle Beck |
-| 390 | 15 | b |
-| 391 | 15 | Lit757 |
-| 392 | 15 | Lawreniesha Burkley |
-| 393 | 15 | Tami Spence |
-| 394 | 15 | kitten |
+| 379 | 17 | Rikki Moran |
+| 380 | 17 | Jb Mzresilience |
+| 381 | 16 | Poppy Smasher |
+| 382 | 16 | Dawn Basemore |
+| 383 | 16 | Latoya Carson |
+| 384 | 16 | Squaw Ki Ng |
+| 385 | 16 | GracefulOwl808 |
+| 386 | 16 | Tanisha Robinson |
+| 387 | 16 | Symonne 'Monnie' Pierce |
+| 388 | 16 | Sammie Walker |
+| 389 | 16 | MsBobby Patrick |
+| 390 | 16 | Sunny Tumbler |
+| 391 | 15 | Delitra Perkins Hatter |
+| 392 | 15 | Cece Fowler |
+| 393 | 15 | Haley Bell |
+| 394 | 15 | Lit757 |
 | 395 | 15 | Elaine Youmans |
-| 396 | 15 | DeAngelo Sorrells |
-| 397 | 15 | Nicole Freeman |
-| 398 | 15 | Delitra Perkins Hatter |
-| 399 | 15 | Dana Hawes |
-| 400 | 15 | Laura Long |
-| 401 | 15 | Shameka Thrasher |
-| 402 | 15 | Jess |
-| 403 | 15 | Haley Bell |
-| 404 | 15 | Cheery Clusterbuilder |
-| 405 | 15 | Amy Lynn Leifheit |
-| 406 | 15 | LaToya Chambers |
-| 407 | 15 | Hasty Match |
-| 408 | 15 | Cece Fowler |
+| 396 | 15 | Nicole Freeman |
+| 397 | 15 | Tami Spence |
+| 398 | 15 | kitten |
+| 399 | 15 | DeAngelo Sorrells |
+| 400 | 15 | Hasty Match |
+| 401 | 15 | b |
+| 402 | 15 | Shameka Thrasher |
+| 403 | 15 | Laura Long |
+| 404 | 15 | Amy Lynn Leifheit |
+| 405 | 15 | Jess |
+| 406 | 15 | Cheery Clusterbuilder |
+| 407 | 15 | Dana Hawes |
+| 408 | 15 | LaToya Chambers |
 | 409 | 14 | No_Other_Choice |
 | 410 | 14 | La'Chae Nickole |
 | 411 | 14 | Alyssa Rae |
