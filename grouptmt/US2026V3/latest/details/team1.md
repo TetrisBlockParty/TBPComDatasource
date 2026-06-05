@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:44:14 UTC
+# Standings for team1 as of 2026-06-05 15:44:34 UTC
 
 **Total Participants:** 258
 
@@ -112,16 +112,16 @@
 | 104 | 35 | Lilly Brown |
 | 105 | 35 | Yashica Smith |
 | 106 | 35 | KoolKimJay |
-| 107 | 34 | sasha |
-| 108 | 33 | Block King |
-| 109 | 33 | Sashaleo |
-| 110 | 33 | Chris Nelson |
-| 111 | 32 | Melvin Simpson |
-| 112 | 32 | Tobey Marberry |
-| 113 | 32 | Richard Flex |
-| 114 | 31 | Miera Nicole |
-| 115 | 31 | Boldy Pivoty |
-| 116 | 31 | Dandy Brickfit |
+| 107 | 35 | Dandy Brickfit |
+| 108 | 34 | sasha |
+| 109 | 33 | Block King |
+| 110 | 33 | Sashaleo |
+| 111 | 33 | Chris Nelson |
+| 112 | 32 | Melvin Simpson |
+| 113 | 32 | Tobey Marberry |
+| 114 | 32 | Richard Flex |
+| 115 | 31 | Miera Nicole |
+| 116 | 31 | Boldy Pivoty |
 | 117 | 31 | Calvin Green |
 | 118 | 30 | Lester Malone |
 | 119 | 30 | Casey Chapman |
@@ -129,16 +129,16 @@
 | 121 | 30 | Jack Vlasak |
 | 122 | 30 | Andi McGreevy |
 | 123 | 30 | Saucy Faller |
-| 124 | 29 | hope |
-| 125 | 29 | JesusSaves 😇 |
+| 124 | 29 | JesusSaves 😇 |
+| 125 | 29 | hope |
 | 126 | 28 | John Staub |
 | 127 | 28 | Jazzy Bridger |
 | 128 | 27 | Mighty Dropper |
 | 129 | 27 | Charlene Baltimore |
 | 130 | 27 | Jae Thompson-Tyus |
 | 131 | 27 | Zany Breaker |
-| 132 | 26 | Nerdy Snapfall |
-| 133 | 26 | Xrandomx |
+| 132 | 26 | Xrandomx |
+| 133 | 26 | Nerdy Snapfall |
 | 134 | 25 | Tyrone Porter |
 | 135 | 25 | Eric Mcgaughy |
 | 136 | 25 | Hasty Pivoty |
@@ -257,13 +257,13 @@
 | 249 | 5 | Temeshia Brooks Washington |
 | 250 | 5 | KeeKee Williams |
 | 251 | 5 | Lil T |
-| 252 | 5 | DirtiestofMikes |
-| 253 | 5 | Kidgib5 |
-| 254 | 5 | Jennifer Moore |
-| 255 | 5 | Vernon Hoyt |
-| 256 | 5 | Shawn Himes |
-| 257 | 5 | Zappy Clearfit |
-| 258 | 5 | Stephanie Zuniga Tullock |
+| 252 | 5 | Stephanie Zuniga Tullock |
+| 253 | 5 | DirtiestofMikes |
+| 254 | 5 | Kidgib5 |
+| 255 | 5 | Jennifer Moore |
+| 256 | 5 | Vernon Hoyt |
+| 257 | 5 | Shawn Himes |
+| 258 | 5 | Zappy Clearfit |
 
 ---
 *Standings created by tournaments datasource generation tool*
