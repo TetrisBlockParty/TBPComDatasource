@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 15:48:13 UTC
+# Standings for team2 as of 2026-06-05 15:48:38 UTC
 
 **Total Participants:** 268
 
@@ -28,8 +28,8 @@
 | 20 | 175 | Betty Barrett |
 | 21 | 173 | Jamie Jones |
 | 22 | 160 | Bea Bee |
-| 23 | 158 | Amy Nicole McCanne |
-| 24 | 158 | Nettrainer |
+| 23 | 158 | Nettrainer |
+| 24 | 158 | Amy Nicole McCanne |
 | 25 | 153 | Vistabrat |
 | 26 | 149 | Amber |
 | 27 | 126 | Nathan Walker |
@@ -38,70 +38,70 @@
 | 30 | 104 | NickandJess Reynolds |
 | 31 | 100 | LEW |
 | 32 | 99 | Melissa Abbott |
-| 33 | 89 | Angie BBlock |
-| 34 | 89 | Chipper Stackbuilder |
+| 33 | 89 | Chipper Stackbuilder |
+| 34 | 89 | Angie BBlock |
 | 35 | 88 | Spunky Cascadeclear |
 | 36 | 85 | Quirky Catcher |
 | 37 | 83 | Ashley Voelz |
 | 38 | 82 | Sandra Pursell |
 | 39 | 81 | Alissa Ary |
-| 40 | 80 | AcardBoardBox |
-| 41 | 80 | Skye Ehret |
-| 42 | 76 | Jamie Fenyus |
+| 40 | 80 | Skye Ehret |
+| 41 | 80 | AcardBoardBox |
+| 42 | 80 | Christina Jambard Sampier |
 | 43 | 76 | Jenni LeBlanc |
-| 44 | 75 | Angeleye A James |
-| 45 | 73 | LittleHippoEars |
+| 44 | 76 | Jamie Fenyus |
+| 45 | 75 | Angeleye A James |
 | 46 | 73 | Theresa Hollinger |
-| 47 | 70 | Amanda Sikes |
-| 48 | 63 | Zarah Kettler |
-| 49 | 61 | Bubbly Dash |
-| 50 | 61 | Jessica Perkins |
-| 51 | 61 | Charley Bedford |
-| 52 | 60 | Elizabeth Cornelius |
+| 47 | 73 | LittleHippoEars |
+| 48 | 70 | Amanda Sikes |
+| 49 | 63 | Zarah Kettler |
+| 50 | 61 | Bubbly Dash |
+| 51 | 61 | Jessica Perkins |
+| 52 | 61 | Charley Bedford |
 | 53 | 60 | Courtney Madison Hart |
-| 54 | 59 | April Addis |
-| 55 | 58 | Chipper Towerzone |
-| 56 | 58 | Sara Perkins |
-| 57 | 57 | Jumpy Dashpiece |
-| 58 | 57 | Zany Wrecker |
-| 59 | 54 | Cool Balancer |
-| 60 | 52 | Rick |
-| 61 | 51 | Loretta Crow |
-| 62 | 50 | Justin Stark |
-| 63 | 50 | Amber Salazar |
-| 64 | 50 | Shiny Spinfit |
-| 65 | 50 | Martha Lynn Wiggins |
-| 66 | 48 | Tango Sierra |
-| 67 | 48 | Dizzy Dropzone |
-| 68 | 48 | Spicy Basepiece |
-| 69 | 45 | Michelle Anne |
+| 54 | 60 | Elizabeth Cornelius |
+| 55 | 59 | April Addis |
+| 56 | 58 | Chipper Towerzone |
+| 57 | 58 | Sara Perkins |
+| 58 | 57 | Jumpy Dashpiece |
+| 59 | 57 | Zany Wrecker |
+| 60 | 54 | Cool Balancer |
+| 61 | 52 | Rick |
+| 62 | 51 | Loretta Crow |
+| 63 | 50 | Shiny Spinfit |
+| 64 | 50 | Martha Lynn Wiggins |
+| 65 | 50 | Justin Stark |
+| 66 | 50 | Amber Salazar |
+| 67 | 48 | Spicy Basepiece |
+| 68 | 48 | Tango Sierra |
+| 69 | 48 | Dizzy Dropzone |
 | 70 | 45 | Lively Twisterfit |
-| 71 | 44 | Dani Newton |
-| 72 | 44 | A.j. Langley |
-| 73 | 44 | Zaniya Brown |
-| 74 | 43 | SEH |
+| 71 | 45 | Michelle Anne |
+| 72 | 44 | Dani Newton |
+| 73 | 44 | A.j. Langley |
+| 74 | 44 | Zaniya Brown |
 | 75 | 43 | Peter Fogg |
-| 76 | 43 | Brenda Jones |
-| 77 | 42 | Snazzy Smasher |
-| 78 | 42 | Bri St Peter |
-| 79 | 42 | Charity Hauser |
-| 80 | 42 | Heather Vircik |
-| 81 | 42 | Henny Henny |
-| 82 | 42 | Christina Jambard Sampier |
+| 76 | 43 | SEH |
+| 77 | 43 | Brenda Jones |
+| 78 | 42 | Charity Hauser |
+| 79 | 42 | Bri St Peter |
+| 80 | 42 | Henny Henny |
+| 81 | 42 | Snazzy Smasher |
+| 82 | 42 | Heather Vircik |
 | 83 | 41 | Jenny Coffer |
 | 84 | 41 | Ava Speedy |
-| 85 | 40 | Bon Lynn |
-| 86 | 40 | Larry Cross |
-| 87 | 40 | Kevin Mccoy |
+| 85 | 40 | Sherry Ann |
+| 86 | 40 | Bon Lynn |
+| 87 | 40 | Dane Marko |
 | 88 | 40 | Nicole Chestnut |
-| 89 | 40 | Dane Marko |
-| 90 | 40 | Sherry Ann |
-| 91 | 39 | Jason Lamporte |
-| 92 | 39 | Xandrea Jones |
+| 89 | 40 | Kevin Mccoy |
+| 90 | 40 | Larry Cross |
+| 91 | 39 | Xandrea Jones |
+| 92 | 39 | Jason Lamporte |
 | 93 | 39 | Becca Marie |
-| 94 | 38 | Harper |
+| 94 | 38 | Jason P. Schwartz |
 | 95 | 38 | Nicole Hogue |
-| 96 | 38 | Jason P. Schwartz |
+| 96 | 38 | Harper |
 | 97 | 37 | Suki Jacobs |
 | 98 | 37 | James Ward |
 | 99 | 36 | Mtnblzr |
@@ -117,9 +117,9 @@
 | 109 | 32 | Sandra Belk |
 | 110 | 32 | Jgato |
 | 111 | 31 | Michael Carmichael |
-| 112 | 30 | Wacky Holder |
+| 112 | 30 | Mama G |
 | 113 | 30 | Nora Buchan |
-| 114 | 30 | Mama G |
+| 114 | 30 | Wacky Holder |
 | 115 | 30 | Paula Haskins |
 | 116 | 30 | Patti Ward |
 | 117 | 30 | Sarah Jane Gorsuch |
