@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 19:42:37 UTC
+# Standings for team1 as of 2026-06-05 19:43:14 UTC
 
 **Total Participants:** 447
 
@@ -71,25 +71,25 @@
 | 63 | 103 | KenpachisGirl |
 | 64 | 100 | Cool Bridger |
 | 65 | 100 | Jessica Carter |
-| 66 | 100 | Asani CHumba |
-| 67 | 96 | Cortaz Lawrie |
-| 68 | 95 | Nate Myers |
-| 69 | 90 | 신재호 |
-| 70 | 88 | QueenShay AllGood |
-| 71 | 88 | Eric Mcgaughy |
-| 72 | 84 | Simone Bailey |
-| 73 | 84 | Ciera Peace |
-| 74 | 82 | David Fuentes |
-| 75 | 81 | Mafio SO |
-| 76 | 81 | Robyn Caldwell |
-| 77 | 81 | Lively Riserpiece |
-| 78 | 80 | Felicia Cain |
-| 79 | 80 | Felicia Williams |
-| 80 | 80 | Charles Johnson |
-| 81 | 80 | Carolyn Smith |
-| 82 | 80 | Jazzy Dashpiece |
-| 83 | 80 | Rachel Zimmerman |
-| 84 | 80 | Char |
+| 66 | 100 | Char |
+| 67 | 100 | Asani CHumba |
+| 68 | 96 | Cortaz Lawrie |
+| 69 | 95 | Nate Myers |
+| 70 | 90 | 신재호 |
+| 71 | 88 | QueenShay AllGood |
+| 72 | 88 | Eric Mcgaughy |
+| 73 | 84 | Simone Bailey |
+| 74 | 84 | Ciera Peace |
+| 75 | 82 | David Fuentes |
+| 76 | 81 | Mafio SO |
+| 77 | 81 | Robyn Caldwell |
+| 78 | 81 | Lively Riserpiece |
+| 79 | 80 | Felicia Cain |
+| 80 | 80 | Felicia Williams |
+| 81 | 80 | Charles Johnson |
+| 82 | 80 | Carolyn Smith |
+| 83 | 80 | Jazzy Dashpiece |
+| 84 | 80 | Rachel Zimmerman |
 | 85 | 79 | Mimi 1.0 |
 | 86 | 79 | Shanell Thomas |
 | 87 | 79 | GrkGdess |
@@ -424,35 +424,35 @@
 | 416 | 6 | Analesia Taylor |
 | 417 | 6 | Allison Baxter |
 | 418 | 6 | Telisha Mims |
-| 419 | 6 | Cece Fowler |
-| 420 | 6 | Frances Davis |
-| 421 | 6 | Brittnay Wright |
-| 422 | 6 | NEM0228 |
-| 423 | 6 | Christopher Wallace |
-| 424 | 5 | Temeshia Brooks Washington |
-| 425 | 5 | KeeKee Williams |
-| 426 | 5 | Tito Divyn |
-| 427 | 5 | Wacky Towerer |
-| 428 | 5 | Lil T |
-| 429 | 5 | Jenni Hardman |
-| 430 | 5 | Stephanie Zuniga Tullock |
-| 431 | 5 | Chill Linkroll |
-| 432 | 5 | Shakuria Cortia Burney |
-| 433 | 5 | Witty Clear |
-| 434 | 5 | Derek Beverly |
-| 435 | 5 | Tamika Fisher |
-| 436 | 5 | Saucy Linkgrid |
-| 437 | 5 | Shawn Himes |
-| 438 | 5 | DirtiestofMikes |
-| 439 | 5 | Andre Sanon |
-| 440 | 5 | Barbramerri Tarboro |
-| 441 | 5 | Kidgib5 |
-| 442 | 5 | Jennifer Moore |
-| 443 | 5 | pooh |
-| 444 | 5 | Jjhandsome |
-| 445 | 5 | Rieshelda Marie White |
-| 446 | 5 | Vernon Hoyt |
-| 447 | 5 | Zappy Clearfit |
+| 419 | 6 | Christopher Wallace |
+| 420 | 6 | Brittnay Wright |
+| 421 | 6 | Cece Fowler |
+| 422 | 6 | Frances Davis |
+| 423 | 6 | NEM0228 |
+| 424 | 5 | Barbramerri Tarboro |
+| 425 | 5 | Stephanie Zuniga Tullock |
+| 426 | 5 | Jenni Hardman |
+| 427 | 5 | Tito Divyn |
+| 428 | 5 | Temeshia Brooks Washington |
+| 429 | 5 | KeeKee Williams |
+| 430 | 5 | Derek Beverly |
+| 431 | 5 | Wacky Towerer |
+| 432 | 5 | Lil T |
+| 433 | 5 | Saucy Linkgrid |
+| 434 | 5 | Chill Linkroll |
+| 435 | 5 | Shakuria Cortia Burney |
+| 436 | 5 | Shawn Himes |
+| 437 | 5 | Kidgib5 |
+| 438 | 5 | Jennifer Moore |
+| 439 | 5 | pooh |
+| 440 | 5 | Jjhandsome |
+| 441 | 5 | Rieshelda Marie White |
+| 442 | 5 | Andre Sanon |
+| 443 | 5 | Vernon Hoyt |
+| 444 | 5 | Zappy Clearfit |
+| 445 | 5 | Tamika Fisher |
+| 446 | 5 | DirtiestofMikes |
+| 447 | 5 | Witty Clear |
 
 ---
 *Standings created by tournaments datasource generation tool*
