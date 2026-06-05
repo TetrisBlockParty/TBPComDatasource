@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 12:18:34 UTC
+# Standings for team4 as of 2026-06-05 12:19:12 UTC
 
 **Total Participants:** 23
 
@@ -26,7 +26,7 @@
 | 18 | 10 | Janae Harris |
 | 19 | 10 | Shiny Brick |
 | 20 | 9 | Hotstuff |
-| 21 | 8 | smarty |
+| 21 | 9 | smarty |
 | 22 | 7 | Hasty Dropzone |
 | 23 | 5 | Cflixer |
 

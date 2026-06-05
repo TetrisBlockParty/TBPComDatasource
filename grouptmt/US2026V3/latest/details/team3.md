@@ -1,6 +1,6 @@
-# Standings for team3 as of 2026-06-05 12:18:34 UTC
+# Standings for team3 as of 2026-06-05 12:19:12 UTC
 
-**Total Participants:** 33
+**Total Participants:** 35
 
 ## Participant Scores
 
@@ -13,32 +13,34 @@
 | 5 | 104 | Perach Alima Shoa |
 | 6 | 100 | Bee |
 | 7 | 58 | Alex Celio |
-| 8 | 30 | Jerome Carlile |
-| 9 | 28 | Carolyn Smith |
-| 10 | 28 | SteffXx |
-| 11 | 26 | Kevin C. Moe |
-| 12 | 23 | Lively Matchpiece |
-| 13 | 20 | Paul Hudak |
-| 14 | 18 | Alison Gomes |
-| 15 | 17 | Dedicated |
-| 16 | 17 | Rebecca Alidre Holmes-Anderson |
-| 17 | 15 | Quirky Curve |
-| 18 | 12 | Violet |
-| 19 | 12 | Robby Beltran |
-| 20 | 11 | Carrie Ness |
-| 21 | 9 | Angie Rodriguez |
-| 22 | 9 | Lisa Stone |
-| 23 | 9 | Jess Jess |
-| 24 | 9 | Raven Rogue |
-| 25 | 9 | Tnaughty |
-| 26 | 8 | Jonathan Russell |
-| 27 | 8 | Sarah Jane |
-| 28 | 7 | David Glisson |
-| 29 | 6 | kendra |
-| 30 | 6 | Denice Myers |
+| 8 | 32 | Dedicated |
+| 9 | 30 | Adam Bronk |
+| 10 | 30 | Jerome Carlile |
+| 11 | 28 | SteffXx |
+| 12 | 28 | Carolyn Smith |
+| 13 | 26 | Kevin C. Moe |
+| 14 | 23 | Lively Matchpiece |
+| 15 | 20 | Paul Hudak |
+| 16 | 18 | Alison Gomes |
+| 17 | 17 | Rebecca Alidre Holmes-Anderson |
+| 18 | 15 | Quirky Curve |
+| 19 | 13 | Raven Rogue |
+| 20 | 12 | Violet |
+| 21 | 12 | Robby Beltran |
+| 22 | 11 | Carrie Ness |
+| 23 | 9 | Tnaughty |
+| 24 | 9 | Lisa Stone |
+| 25 | 9 | Angie Rodriguez |
+| 26 | 9 | Jess Jess |
+| 27 | 8 | Jonathan Russell |
+| 28 | 8 | Sarah Jane |
+| 29 | 7 | Charles Love |
+| 30 | 7 | David Glisson |
 | 31 | 6 | Nonni |
-| 32 | 6 | Crystal Carlson |
+| 32 | 6 | Denice Myers |
 | 33 | 6 | Happy Balancer |
+| 34 | 6 | kendra |
+| 35 | 6 | Crystal Carlson |
 
 ---
 *Standings created by tournaments datasource generation tool*
