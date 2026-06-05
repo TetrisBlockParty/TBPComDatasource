@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 12:24:34 UTC
+# Standings for team1 as of 2026-06-05 12:25:12 UTC
 
-**Total Participants:** 28
+**Total Participants:** 29
 
 ## Participant Scores
 
@@ -21,19 +21,20 @@
 | 13 | 23 | Saucy Crusher |
 | 14 | 22 | Tanisha Taylor |
 | 15 | 20 | Robyn Caldwell |
-| 16 | 17 | Jai |
-| 17 | 16 | Jenni |
+| 16 | 19 | Jenni |
+| 17 | 17 | Jai |
 | 18 | 16 | Mafio SO |
 | 19 | 15 | Tami Spence |
 | 20 | 12 | Angela R Wilson |
 | 21 | 12 | Kimmie Gargano |
 | 22 | 11 | Desiree Ryder |
 | 23 | 10 | Shontanese Adams |
-| 24 | 10 | Sarah Marie |
-| 25 | 8 | Zany Breaker |
-| 26 | 7 | Mary2 |
-| 27 | 7 | Tina Criam |
-| 28 | 7 | Kendra McIntyre |
+| 24 | 10 | Tishauna Virgo |
+| 25 | 10 | Sarah Marie |
+| 26 | 8 | Zany Breaker |
+| 27 | 7 | Mary2 |
+| 28 | 7 | Tina Criam |
+| 29 | 7 | Kendra McIntyre |
 
 ---
 *Standings created by tournaments datasource generation tool*
