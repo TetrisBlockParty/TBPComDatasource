@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 16:31:14 UTC
+# Standings for team1 as of 2026-06-05 16:32:13 UTC
 
 **Total Participants:** 293
 
@@ -30,8 +30,8 @@
 | 22 | 238 | Holly Jolly |
 | 23 | 237 | Leebo Slice |
 | 24 | 234 | Pdubbl3 |
-| 25 | 220 | Rayya Kiser |
-| 26 | 219 | Ashley MyBeauty Daniels |
+| 25 | 223 | Ashley MyBeauty Daniels |
+| 26 | 220 | Rayya Kiser |
 | 27 | 215 | Abraham Espaillat |
 | 28 | 185 | COSA303 |
 | 29 | 185 | Jennifer To |
@@ -88,8 +88,8 @@
 | 80 | 57 | Erin Sabol |
 | 81 | 57 | Tosha Michelle |
 | 82 | 56 | Dena Marie Lee |
-| 83 | 54 | Lauraly |
-| 84 | 51 | Hasty Pivoty |
+| 83 | 55 | Hasty Pivoty |
+| 84 | 54 | Lauraly |
 | 85 | 51 | Comedian Gdane |
 | 86 | 50 | Slinky Party |
 | 87 | 50 | Teresa Yanira Cepeda |
