@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 19:06:14 UTC
+# Standings for team2 as of 2026-06-05 19:06:36 UTC
 
 **Total Participants:** 432
 
@@ -42,7 +42,7 @@
 | 34 | 230 | Frilly Match |
 | 35 | 221 | Vistabrat |
 | 36 | 219 | Block Dog |
-| 37 | 215 | La chulis |
+| 37 | 216 | La chulis |
 | 38 | 213 | Angie BBlock |
 | 39 | 208 | Bon Lynn |
 | 40 | 199 | Stella |
@@ -259,16 +259,16 @@
 | 251 | 23 | Shirley Bates |
 | 252 | 22 | Marii |
 | 253 | 22 | Melissa Nash |
-| 254 | 22 | Funky Blockmatch |
+| 254 | 22 | Amber-leigh Williams |
 | 255 | 22 | Ashley Diana |
 | 256 | 22 | Jeff Pottgether |
 | 257 | 22 | Pamela Gambrell |
 | 258 | 22 | Seamus |
 | 259 | 22 | Norma Ortiz |
-| 260 | 21 | Amber-leigh Williams |
-| 261 | 21 | Lindsey Ford |
-| 262 | 21 | Deborah Lint Odom |
-| 263 | 21 | Brooke Kaune |
+| 260 | 22 | Funky Blockmatch |
+| 261 | 21 | Brooke Kaune |
+| 262 | 21 | Lindsey Ford |
+| 263 | 21 | Deborah Lint Odom |
 | 264 | 21 | Instak1ll |
 | 265 | 21 | Epic Framezone |
 | 266 | 21 | Maria Ward |
@@ -420,24 +420,24 @@
 | 412 | 7 | Kelli Pazour |
 | 413 | 7 | Elizabeth Elaine Coursey |
 | 414 | 7 | Lacie B |
-| 415 | 6 | Joannah Capilitan |
+| 415 | 6 | Fluffypuffin |
 | 416 | 6 | Lavenda Nettles |
 | 417 | 6 | Cheeky Dashpiece |
-| 418 | 6 | Fluffypuffin |
+| 418 | 6 | Joannah Capilitan |
 | 419 | 6 | Kelly Christine Trimmer |
-| 420 | 6 | Fran Gerebics |
-| 421 | 6 | Emily |
+| 420 | 6 | Emily |
+| 421 | 6 | Fran Gerebics |
 | 422 | 6 | Denise Morehart |
 | 423 | 5 | Mercedes Lowery |
-| 424 | 5 | Slinky Glidezone |
-| 425 | 5 | Crafty Slice |
-| 426 | 5 | Pjrobinsonnn |
-| 427 | 5 | Newtwidebody |
-| 428 | 5 | Agnes Gable |
-| 429 | 5 | Amy Lea Hamilton |
-| 430 | 5 | Joni Michelle Morgan |
-| 431 | 5 | Poppy Zonepiece |
-| 432 | 5 | Momi Kamohai |
+| 424 | 5 | Crafty Slice |
+| 425 | 5 | Pjrobinsonnn |
+| 426 | 5 | Newtwidebody |
+| 427 | 5 | Agnes Gable |
+| 428 | 5 | Joni Michelle Morgan |
+| 429 | 5 | Poppy Zonepiece |
+| 430 | 5 | Momi Kamohai |
+| 431 | 5 | Amy Lea Hamilton |
+| 432 | 5 | Slinky Glidezone |
 
 ---
 *Standings created by tournaments datasource generation tool*
