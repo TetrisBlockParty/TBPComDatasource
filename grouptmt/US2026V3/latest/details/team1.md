@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 21:04:38 UTC
+# Standings for team1 as of 2026-06-05 21:05:15 UTC
 
 **Total Participants:** 503
 
@@ -479,36 +479,36 @@
 | 471 | 6 | Jeffrey Barrows |
 | 472 | 6 | Wacky Towerer |
 | 473 | 6 | Gael Quintana |
-| 474 | 6 | Wu May |
-| 475 | 6 | Christopher Wallace |
-| 476 | 6 | Betsy B. Yohan |
-| 477 | 6 | Brittnay Wright |
+| 474 | 6 | Brittnay Wright |
+| 475 | 6 | Wu May |
+| 476 | 6 | Christopher Wallace |
+| 477 | 6 | Betsy B. Yohan |
 | 478 | 6 | NEM0228 |
 | 479 | 6 | Frances Davis |
-| 480 | 5 | Jennifer Moore |
-| 481 | 5 | Saucy Linkgrid |
-| 482 | 5 | Kidgib5 |
-| 483 | 5 | Lil T |
-| 484 | 5 | DirtiestofMikes |
-| 485 | 5 | Rieshelda Marie White |
-| 486 | 5 | KeeKee Williams |
-| 487 | 5 | Shawn Himes |
-| 488 | 5 | Temeshia Brooks Washington |
-| 489 | 5 | Derek Beverly |
+| 480 | 5 | Kidgib5 |
+| 481 | 5 | Chill Linkroll |
+| 482 | 5 | Lil T |
+| 483 | 5 | DirtiestofMikes |
+| 484 | 5 | Rieshelda Marie White |
+| 485 | 5 | KeeKee Williams |
+| 486 | 5 | Saucy Linkgrid |
+| 487 | 5 | Temeshia Brooks Washington |
+| 488 | 5 | Derek Beverly |
+| 489 | 5 | Shawn Himes |
 | 490 | 5 | Stephanie Zuniga Tullock |
-| 491 | 5 | Chill Linkroll |
+| 491 | 5 | Jennifer Moore |
 | 492 | 5 | Logan Frost |
-| 493 | 5 | Tamika Fisher |
-| 494 | 5 | Zappy Clearfit |
-| 495 | 5 | Tito Divyn |
-| 496 | 5 | Andre Sanon |
-| 497 | 5 | Barbramerri Tarboro |
+| 493 | 5 | Kelvin Cook |
+| 494 | 5 | the guy |
+| 495 | 5 | Shakuria Cortia Burney |
+| 496 | 5 | Vernon Hoyt |
+| 497 | 5 | Jjhandsome |
 | 498 | 5 | pooh |
-| 499 | 5 | Jjhandsome |
-| 500 | 5 | Vernon Hoyt |
-| 501 | 5 | Shakuria Cortia Burney |
-| 502 | 5 | the guy |
-| 503 | 5 | Kelvin Cook |
+| 499 | 5 | Barbramerri Tarboro |
+| 500 | 5 | Andre Sanon |
+| 501 | 5 | Tito Divyn |
+| 502 | 5 | Zappy Clearfit |
+| 503 | 5 | Tamika Fisher |
 
 ---
 *Standings created by tournaments datasource generation tool*
