@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-06-05 12:52:37 UTC
+# Standings for team4 as of 2026-06-05 12:53:12 UTC
 
-**Total Participants:** 69
+**Total Participants:** 70
 
 ## Participant Scores
 
@@ -10,8 +10,8 @@
 | 2 | 700 | Carly Stempien |
 | 3 | 597 | Cinny |
 | 4 | 352 | Lynn Grimes |
-| 5 | 107 | Shayna Vaigneur-Hall |
-| 6 | 107 | Ryan Paul Clark-Ramsey |
+| 5 | 121 | Ryan Paul Clark-Ramsey |
+| 6 | 107 | Shayna Vaigneur-Hall |
 | 7 | 101 | Giggy Matchpiece |
 | 8 | 100 | Chaz Duncan |
 | 9 | 90 | Gloria Nunley Trussell |
@@ -25,8 +25,8 @@
 | 17 | 50 | Keys Tome |
 | 18 | 50 | Jesse Olive |
 | 19 | 48 | Blockcrusher |
-| 20 | 38 | Jonathan Hewitt |
-| 21 | 38 | Charity Thomas |
+| 20 | 38 | Charity Thomas |
+| 21 | 38 | Jonathan Hewitt |
 | 22 | 34 | jojo |
 | 23 | 32 | Shiny Brick |
 | 24 | 30 | Will E Ayala |
@@ -34,47 +34,48 @@
 | 26 | 28 | Laurie Patrick |
 | 27 | 26 | Dana Fontanez |
 | 28 | 25 | Маркус Вік |
-| 29 | 23 | Melissa Quinn |
-| 30 | 23 | Stasia |
-| 31 | 22 | smarty |
-| 32 | 22 | Saul Fajardo |
-| 33 | 21 | Keesha Muro |
-| 34 | 21 | Playa |
-| 35 | 20 | Erica Pompey |
-| 36 | 20 | Magz |
-| 37 | 19 | Mrs |
-| 38 | 18 | Iforget |
-| 39 | 18 | Jasmine Marie |
+| 29 | 23 | Stasia |
+| 30 | 23 | Melissa Quinn |
+| 31 | 22 | Saul Fajardo |
+| 32 | 22 | smarty |
+| 33 | 21 | Playa |
+| 34 | 21 | Keesha Muro |
+| 35 | 20 | Magz |
+| 36 | 20 | Jasmine Marie |
+| 37 | 20 | Erica Pompey |
+| 38 | 19 | Mrs |
+| 39 | 18 | Iforget |
 | 40 | 17 | Zippy Snaplink |
 | 41 | 16 | Swanky Matchfit |
 | 42 | 15 | Joshua Garner |
 | 43 | 15 | Perry Ransom |
 | 44 | 13 | Nancy McCalla Abercrombie |
-| 45 | 13 | Cherry |
-| 46 | 13 | Karen Rodriguez |
+| 45 | 13 | Karen Rodriguez |
+| 46 | 13 | Cherry |
 | 47 | 12 | Alizabeth Garcia |
-| 48 | 11 | Breezy Blockzone |
-| 49 | 10 | Buchanon Bossingup Jadrienne |
-| 50 | 10 | Jonelle Jacobs |
-| 51 | 10 | Lateasha Wildman |
-| 52 | 10 | Catherine Garza |
-| 53 | 10 | Hasty Dropzone |
-| 54 | 10 | Justin Michael |
-| 55 | 9 | Hotstuff |
+| 48 | 12 | Breezy Blockzone |
+| 49 | 12 | Sandra O'Reilly |
+| 50 | 10 | Lateasha Wildman |
+| 51 | 10 | Jonelle Jacobs |
+| 52 | 10 | Justin Michael |
+| 53 | 10 | Catherine Garza |
+| 54 | 10 | Buchanon Bossingup Jadrienne |
+| 55 | 10 | Hasty Dropzone |
 | 56 | 9 | Snippy Grid |
-| 57 | 8 | Sisi RedVelvet Reneè |
-| 58 | 7 | George Palacios |
+| 57 | 9 | Hotstuff |
+| 58 | 8 | Sisi RedVelvet Reneè |
 | 59 | 7 | Henry Lanier |
-| 60 | 6 | Deb 07 |
-| 61 | 6 | Colin |
-| 62 | 6 | Dizzy |
-| 63 | 5 | Mighty1 |
-| 64 | 5 | Jason Garnatz |
-| 65 | 5 | Zappy Matchgrid |
-| 66 | 5 | Lively Cascadeclear |
-| 67 | 5 | Jeremy Barry |
-| 68 | 5 | Swanky Zigzag |
-| 69 | 5 | Cflixer |
+| 60 | 7 | George Palacios |
+| 61 | 6 | Dizzy |
+| 62 | 6 | Deb 07 |
+| 63 | 6 | Colin |
+| 64 | 5 | Jeremy Barry |
+| 65 | 5 | Lively Cascadeclear |
+| 66 | 5 | Cflixer |
+| 67 | 5 | Swanky Zigzag |
+| 68 | 5 | Zappy Matchgrid |
+| 69 | 5 | Mighty1 |
+| 70 | 5 | Jason Garnatz |
 
 ---
 *Standings created by tournaments datasource generation tool*

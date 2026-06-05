@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 12:52:37 UTC
+# Standings for team2 as of 2026-06-05 12:53:12 UTC
 
 **Total Participants:** 66
 
@@ -19,59 +19,59 @@
 | 11 | 70 | Amanda Sikes |
 | 12 | 70 | Ashley Voelz |
 | 13 | 58 | Chipper Towerzone |
-| 14 | 45 | Michelle Anne |
-| 15 | 44 | Zaniya Brown |
-| 16 | 40 | Kevin Mccoy |
+| 14 | 48 | Spicy Basepiece |
+| 15 | 45 | Michelle Anne |
+| 16 | 44 | Zaniya Brown |
 | 17 | 40 | LittleHippoEars |
-| 18 | 38 | Spicy Basepiece |
+| 18 | 40 | Kevin Mccoy |
 | 19 | 37 | Jumpy Dashpiece |
 | 20 | 33 | Tango Sierra |
 | 21 | 30 | Jason Cunningham |
 | 22 | 30 | Patti Ward |
-| 23 | 28 | Sara BlueEyes |
-| 24 | 28 | April Addis |
+| 23 | 28 | April Addis |
+| 24 | 28 | Sara BlueEyes |
 | 25 | 27 | Michael Carmichael |
 | 26 | 26 | Quina Jesse Fejaran |
-| 27 | 26 | Rachel Huber |
-| 28 | 26 | Ariel Gundersen |
+| 27 | 26 | Ariel Gundersen |
+| 28 | 26 | Rachel Huber |
 | 29 | 25 | Jgato |
 | 30 | 24 | A.j. Langley |
 | 31 | 24 | Dayna Messer-Thelen |
-| 32 | 23 | Damion Morrison |
-| 33 | 23 | IncrediDragon |
-| 34 | 20 | AcardBoardBox |
-| 35 | 20 | ChefDeb |
-| 36 | 18 | Tracey Cox |
-| 37 | 18 | Rick |
+| 32 | 23 | IncrediDragon |
+| 33 | 23 | Damion Morrison |
+| 34 | 20 | ChefDeb |
+| 35 | 20 | AcardBoardBox |
+| 36 | 19 | Rick |
+| 37 | 18 | Tracey Cox |
 | 38 | 16 | Peter Fogg |
-| 39 | 14 | Martha Lynn Wiggins |
-| 40 | 14 | Kenzie |
+| 39 | 14 | Kenzie |
+| 40 | 14 | Martha Lynn Wiggins |
 | 41 | 12 | Chirpy Grid |
 | 42 | 12 | Mary |
 | 43 | 12 | Stacey Loretta Wallace |
 | 44 | 11 | Thy Bui |
 | 45 | 11 | Lora Via |
-| 46 | 10 | Twisty Snapmatch |
-| 47 | 10 | Gill |
-| 48 | 10 | Thomas Johnstone |
-| 49 | 10 | Bon Lynn |
-| 50 | 10 | Joyce Galloway |
-| 51 | 10 | Berta Hurley |
-| 52 | 10 | Justin Furne |
-| 53 | 9 | Giggly Spinblock |
-| 54 | 9 | Princess Cucumber |
-| 55 | 9 | Darla Ragsdale |
-| 56 | 9 | Mama G |
-| 57 | 9 | Kelly |
-| 58 | 9 | Henny Henny |
+| 46 | 10 | Gill |
+| 47 | 10 | Berta Hurley |
+| 48 | 10 | Joyce Galloway |
+| 49 | 10 | Twisty Snapmatch |
+| 50 | 10 | Justin Furne |
+| 51 | 10 | Bon Lynn |
+| 52 | 10 | Thomas Johnstone |
+| 53 | 9 | Henny Henny |
+| 54 | 9 | Mama G |
+| 55 | 9 | Kelly |
+| 56 | 9 | Darla Ragsdale |
+| 57 | 9 | Princess Cucumber |
+| 58 | 9 | Giggly Spinblock |
 | 59 | 7 | Cherica Taylor |
 | 60 | 7 | nova |
 | 61 | 6 | Kelly Christine Trimmer |
 | 62 | 6 | fancypants |
 | 63 | 5 | Tashamonique Puckey |
 | 64 | 5 | Devon |
-| 65 | 5 | Epic Framezone |
-| 66 | 5 | Allison Peterson |
+| 65 | 5 | Allison Peterson |
+| 66 | 5 | Epic Framezone |
 
 ---
 *Standings created by tournaments datasource generation tool*
