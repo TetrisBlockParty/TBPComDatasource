@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 16:40:36 UTC
+# Standings for team1 as of 2026-06-05 16:41:13 UTC
 
 **Total Participants:** 303
 
@@ -33,12 +33,12 @@
 | 25 | 223 | Ashley MyBeauty Daniels |
 | 26 | 220 | Rayya Kiser |
 | 27 | 215 | Abraham Espaillat |
-| 28 | 185 | Jennifer To |
-| 29 | 185 | COSA303 |
-| 30 | 178 | Cassidy Butler |
-| 31 | 178 | Gotcha |
-| 32 | 177 | Chris Sladoje |
-| 33 | 173 | Spicy Balancer |
+| 28 | 185 | COSA303 |
+| 29 | 185 | Jennifer To |
+| 30 | 183 | Spicy Balancer |
+| 31 | 178 | Cassidy Butler |
+| 32 | 178 | Gotcha |
+| 33 | 177 | Chris Sladoje |
 | 34 | 165 | Davionte DaeDae Hopson-Rodriguez |
 | 35 | 162 | Markeeta Lipscomb |
 | 36 | 151 | Dacia Hicks |
@@ -46,40 +46,40 @@
 | 38 | 140 | JoJo |
 | 39 | 135 | Jawaun Daniels |
 | 40 | 126 | Cee Emm |
-| 41 | 123 | Blockhead |
+| 41 | 124 | Blockhead |
 | 42 | 111 | Shalena Marie Humphrey |
 | 43 | 103 | KenpachisGirl |
-| 44 | 100 | Cool Bridger |
-| 45 | 100 | Asani CHumba |
+| 44 | 100 | Asani CHumba |
+| 45 | 100 | Cool Bridger |
 | 46 | 96 | Cortaz Lawrie |
 | 47 | 90 | 신재호 |
 | 48 | 86 | SPNLover24 |
 | 49 | 84 | Ciera Peace |
-| 50 | 81 | Mafio SO |
-| 51 | 81 | Robyn Caldwell |
+| 50 | 81 | Robyn Caldwell |
+| 51 | 81 | Mafio SO |
 | 52 | 80 | Jazzy Dashpiece |
 | 53 | 80 | Rachel Zimmerman |
-| 54 | 80 | Carolyn Smith |
+| 54 | 80 | Felicia Williams |
 | 55 | 80 | Char |
-| 56 | 80 | Felicia Williams |
+| 56 | 80 | Carolyn Smith |
 | 57 | 77 | Amber Wilson |
 | 58 | 76 | Giggly Shatterline |
-| 59 | 75 | Katrina Ramey |
-| 60 | 75 | Dizzy Dashy |
-| 61 | 74 | Tonya McElroy |
-| 62 | 74 | ♈️ Ariesbaby |
-| 63 | 72 | David Fuentes |
-| 64 | 70 | $hort Dog |
-| 65 | 69 | AF Cruz |
-| 66 | 67 | Michele Elizabeth McKay-Johnson |
-| 67 | 66 | Shontanese Adams |
-| 68 | 65 | Latore Maxie |
-| 69 | 65 | Shanell Thomas |
-| 70 | 65 | Frisky Fall |
-| 71 | 63 | Carrie English |
-| 72 | 62 | Hasty Pivoty |
-| 73 | 62 | Cheeky Pop |
-| 74 | 62 | Mic Balew |
+| 59 | 75 | Dizzy Dashy |
+| 60 | 75 | Katrina Ramey |
+| 61 | 74 | ♈️ Ariesbaby |
+| 62 | 74 | Tonya McElroy |
+| 63 | 72 | Mic Balew |
+| 64 | 72 | David Fuentes |
+| 65 | 70 | $hort Dog |
+| 66 | 69 | AF Cruz |
+| 67 | 67 | Michele Elizabeth McKay-Johnson |
+| 68 | 66 | Shontanese Adams |
+| 69 | 65 | Latore Maxie |
+| 70 | 65 | Shanell Thomas |
+| 71 | 65 | Frisky Fall |
+| 72 | 63 | Hasty Pivoty |
+| 73 | 63 | Carrie English |
+| 74 | 62 | Cheeky Pop |
 | 75 | 61 | Cozy Edge |
 | 76 | 61 | Angela R Wilson |
 | 77 | 60 | Christian Pham |
@@ -92,30 +92,30 @@
 | 84 | 54 | Lauraly |
 | 85 | 51 | Comedian Gdane |
 | 86 | 50 | Dai Bo |
-| 87 | 50 | Teresa Yanira Cepeda |
-| 88 | 50 | Slinky Party |
-| 89 | 50 | Donna Payne |
-| 90 | 50 | Yazz |
+| 87 | 50 | Donna Payne |
+| 88 | 50 | Yazz |
+| 89 | 50 | Teresa Yanira Cepeda |
+| 90 | 50 | Slinky Party |
 | 91 | 49 | Sanjuro |
 | 92 | 47 | Christopher Dreamsareality McEachin |
 | 93 | 45 | Guy Incognito |
 | 94 | 45 | Jayjay Rich |
 | 95 | 44 | Andi McGreevy |
 | 96 | 43 | Block |
-| 97 | 42 | sasha |
-| 98 | 42 | Songne Arif |
+| 97 | 42 | Songne Arif |
+| 98 | 42 | sasha |
 | 99 | 41 | Jessica Russell |
-| 100 | 40 | Jean Regis |
+| 100 | 40 | Flashy Slam |
 | 101 | 40 | Leavon Smith |
-| 102 | 40 | Rackemwillie34 |
-| 103 | 40 | Heather Aurelia |
-| 104 | 40 | Nate Myers |
-| 105 | 40 | Flashy Slam |
+| 102 | 40 | Jean Regis |
+| 103 | 40 | Rackemwillie34 |
+| 104 | 40 | Heather Aurelia |
+| 105 | 40 | Nate Myers |
 | 106 | 39 | Sabrina Wilkerson |
 | 107 | 39 | JesusSaves 😇 |
 | 108 | 38 | Nerdy Snapfall |
-| 109 | 38 | Kahliah Baker |
-| 110 | 38 | rls |
+| 109 | 38 | rls |
+| 110 | 38 | Kahliah Baker |
 | 111 | 37 | Cranky Fall |
 | 112 | 37 | Steve Reno |
 | 113 | 37 | Calvin Green |
