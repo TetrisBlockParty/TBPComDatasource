@@ -1,6 +1,6 @@
-# Standings for team3 as of 2026-06-05 13:16:13 UTC
+# Standings for team3 as of 2026-06-05 13:16:35 UTC
 
-**Total Participants:** 192
+**Total Participants:** 193
 
 ## Participant Scores
 
@@ -45,13 +45,13 @@
 | 37 | 66 | Loony Strikesnap |
 | 38 | 63 | Karina Cortes |
 | 39 | 62 | Tiesha Janay |
-| 40 | 60 | Cozy Twistbuilder |
-| 41 | 60 | Mammy_hammy |
+| 40 | 60 | Mammy_hammy |
+| 41 | 60 | Cozy Twistbuilder |
 | 42 | 53 | Christina M Arroyo |
-| 43 | 50 | Adam Bronk |
+| 43 | 50 | Barb Hicks |
 | 44 | 50 | Gypsy Woodall |
-| 45 | 50 | Ian Burns |
-| 46 | 50 | Barb Hicks |
+| 45 | 50 | Adam Bronk |
+| 46 | 50 | Ian Burns |
 | 47 | 49 | creepy paper |
 | 48 | 47 | Fran Kutz |
 | 49 | 46 | Skye Zuma |
@@ -59,14 +59,14 @@
 | 51 | 45 | Hero Tree |
 | 52 | 44 | Laura Slusher Updike |
 | 53 | 43 | Fancy Wobbler |
-| 54 | 41 | Antkc Petebrick |
-| 55 | 41 | Crystal Carlson |
-| 56 | 40 | Jason VeganDude Arment |
-| 57 | 40 | Naomi Horn |
-| 58 | 40 | Cari Hogan |
+| 54 | 41 | Crystal Carlson |
+| 55 | 41 | Antkc Petebrick |
+| 56 | 40 | Cari Hogan |
+| 57 | 40 | Jason VeganDude Arment |
+| 58 | 40 | Naomi Horn |
 | 59 | 40 | Jennifer Brewer |
-| 60 | 39 | Megan Roseberry |
-| 61 | 39 | Beth Varieur |
+| 60 | 39 | Beth Varieur |
+| 61 | 39 | Megan Roseberry |
 | 62 | 37 | Brosoroni |
 | 63 | 36 | Peachy Towerfall |
 | 64 | 35 | Johnny Hewitt |
@@ -74,130 +74,131 @@
 | 66 | 35 | Steven |
 | 67 | 35 | Rebecca Alidre Holmes-Anderson |
 | 68 | 35 | Amber F |
-| 69 | 34 | jaded |
+| 69 | 34 | Dizzy Staggerpiece |
 | 70 | 34 | Gary |
-| 71 | 33 | Andrea Snider |
+| 71 | 34 | jaded |
 | 72 | 33 | Raya |
-| 73 | 32 | Dedicated |
-| 74 | 32 | Sarah Jane |
-| 75 | 32 | Dizzy Staggerpiece |
+| 73 | 33 | Andrea Snider |
+| 74 | 32 | Dedicated |
+| 75 | 32 | Sarah Jane |
 | 76 | 31 | Boldy Cornerfall |
-| 77 | 30 | Christopher Kissiah |
-| 78 | 30 | Raymond J Turnbull |
-| 79 | 30 | Jvo |
-| 80 | 30 | Jazmin Oquendo |
+| 77 | 30 | Jvo |
+| 78 | 30 | Christopher Kissiah |
+| 79 | 30 | Jazmin Oquendo |
+| 80 | 30 | Raymond J Turnbull |
 | 81 | 29 | Funky Fall |
-| 82 | 28 | Kristina Courtney |
-| 83 | 28 | VOID EDGE |
-| 84 | 28 | Marcia Mauldin |
-| 85 | 28 | Pj Marshall |
-| 86 | 28 | Carolyn Smith |
+| 82 | 28 | Pj Marshall |
+| 83 | 28 | Carolyn Smith |
+| 84 | 28 | VOID EDGE |
+| 85 | 28 | Marcia Mauldin |
+| 86 | 28 | Kristina Courtney |
 | 87 | 28 | Daran Miranda |
 | 88 | 27 | Flashy Cluster |
-| 89 | 26 | Lilcash1500 |
-| 90 | 26 | David Gross |
-| 91 | 26 | Kevin C. Moe |
-| 92 | 25 | chey |
-| 93 | 25 | Kite Kelly |
-| 94 | 25 | Patricia Kelley |
-| 95 | 25 | Zappy Twister |
-| 96 | 25 | Garrett Hofmann |
-| 97 | 24 | Bren Stahl |
-| 98 | 24 | Megan Jones |
-| 99 | 24 | skyguy26 |
-| 100 | 24 | Groovy Linkroll |
-| 101 | 23 | Charles Love |
-| 102 | 22 | Daniel Stolt |
+| 89 | 26 | Kevin C. Moe |
+| 90 | 26 | PopcornersRLife |
+| 91 | 26 | David Gross |
+| 92 | 26 | Lilcash1500 |
+| 93 | 25 | Zappy Twister |
+| 94 | 25 | chey |
+| 95 | 25 | Patricia Kelley |
+| 96 | 25 | Kite Kelly |
+| 97 | 25 | Garrett Hofmann |
+| 98 | 24 | skyguy26 |
+| 99 | 24 | Groovy Linkroll |
+| 100 | 24 | Megan Jones |
+| 101 | 24 | Bren Stahl |
+| 102 | 23 | Charles Love |
 | 103 | 22 | Khalyia Monroe |
-| 104 | 22 | Avias |
-| 105 | 22 | Jonathan Harvey |
-| 106 | 21 | G |
-| 107 | 20 | Teresa Jackson |
-| 108 | 20 | Lisa Stone |
-| 109 | 20 | Thearen |
-| 110 | 20 | Icekube83 |
-| 111 | 20 | Cheery Wipepiece |
-| 112 | 20 | Matt Cox |
-| 113 | 20 | Alyssa Sauceda |
-| 114 | 20 | Poppy Clearer |
-| 115 | 20 | Julie Davis |
-| 116 | 20 | Kimm Fulmer |
-| 117 | 20 | Adam Kerley |
-| 118 | 20 | Zippy Rollblock |
-| 119 | 19 | Unicorn0723 |
-| 120 | 19 | Goofy Matchclear |
-| 121 | 19 | Sabrina34 |
-| 122 | 19 | Randi LeSueur |
-| 123 | 19 | Ashley Dilsaver |
-| 124 | 18 | Kyle Thompson |
-| 125 | 18 | ToxicTrinity |
-| 126 | 18 | Alison Gomes |
+| 104 | 22 | Jonathan Harvey |
+| 105 | 22 | Daniel Stolt |
+| 106 | 22 | Avias |
+| 107 | 21 | G |
+| 108 | 21 | Christy Cabrera |
+| 109 | 20 | Kimm Fulmer |
+| 110 | 20 | Lisa Stone |
+| 111 | 20 | Alyssa Sauceda |
+| 112 | 20 | Poppy Clearer |
+| 113 | 20 | Julie Davis |
+| 114 | 20 | Thearen |
+| 115 | 20 | Teresa Jackson |
+| 116 | 20 | Icekube83 |
+| 117 | 20 | Zippy Rollblock |
+| 118 | 20 | Adam Kerley |
+| 119 | 20 | Matt Cox |
+| 120 | 20 | Cheery Wipepiece |
+| 121 | 19 | Goofy Matchclear |
+| 122 | 19 | Sabrina34 |
+| 123 | 19 | Randi LeSueur |
+| 124 | 19 | Unicorn0723 |
+| 125 | 19 | Ashley Dilsaver |
+| 126 | 18 | Nathan Gould |
 | 127 | 18 | Blendon Silva |
-| 128 | 18 | Nathan Gould |
-| 129 | 18 | Colt Wilson |
-| 130 | 17 | Manda Mumea |
-| 131 | 16 | PopcornersRLife |
-| 132 | 15 | Melinda Flugga |
-| 133 | 15 | Brandy Painter |
-| 134 | 15 | kittensden |
-| 135 | 15 | Tytin |
-| 136 | 15 | Quirky Curve |
-| 137 | 15 | Breanna Stenberg |
-| 138 | 14 | Briana Lowell |
+| 128 | 18 | Colt Wilson |
+| 129 | 18 | ToxicTrinity |
+| 130 | 18 | Alison Gomes |
+| 131 | 18 | Kyle Thompson |
+| 132 | 17 | Manda Mumea |
+| 133 | 15 | Tytin |
+| 134 | 15 | Quirky Curve |
+| 135 | 15 | Brandy Painter |
+| 136 | 15 | Breanna Stenberg |
+| 137 | 15 | kittensden |
+| 138 | 15 | Melinda Flugga |
 | 139 | 14 | Jolly Twister |
-| 140 | 14 | Sara Pederson |
-| 141 | 13 | DShark72 |
-| 142 | 13 | Bellawells |
-| 143 | 13 | Raven Rogue |
-| 144 | 12 | blockbusterr |
-| 145 | 12 | Sunny Snapline |
-| 146 | 12 | Nonni |
-| 147 | 12 | Folk Jay |
+| 140 | 14 | Briana Lowell |
+| 141 | 14 | Sara Pederson |
+| 142 | 13 | Raven Rogue |
+| 143 | 13 | DShark72 |
+| 144 | 13 | Bellawells |
+| 145 | 12 | Wacky Catcher |
+| 146 | 12 | Folk Jay |
+| 147 | 12 | blockbusterr |
 | 148 | 12 | Nette Babi |
-| 149 | 12 | Wacky Catcher |
+| 149 | 12 | Nonni |
 | 150 | 12 | Jonathan Russell |
-| 151 | 12 | Violet |
-| 152 | 12 | Robby Beltran |
-| 153 | 11 | Carrie Ness |
-| 154 | 11 | Klaudia Lester |
-| 155 | 11 | Happy Balancer |
-| 156 | 11 | David Glisson |
-| 157 | 10 | Sheri Read |
-| 158 | 10 | Casey Kincheloe |
-| 159 | 10 | Kandy McDaniel |
-| 160 | 10 | Shabae |
+| 151 | 12 | Robby Beltran |
+| 152 | 12 | Sunny Snapline |
+| 153 | 12 | Violet |
+| 154 | 11 | Carrie Ness |
+| 155 | 11 | David Glisson |
+| 156 | 11 | Klaudia Lester |
+| 157 | 11 | Happy Balancer |
+| 158 | 10 | Shabae |
+| 159 | 10 | Casey Kincheloe |
+| 160 | 10 | Sheri Read |
 | 161 | 10 | Stacy Manchester |
 | 162 | 10 | Jenni Torres |
 | 163 | 10 | Giddy Shift |
-| 164 | 10 | Jacqueline Muellerleile |
-| 165 | 9 | ciscokid81 |
-| 166 | 9 | Angie Rodriguez |
-| 167 | 9 | Sarah Cruthirds |
-| 168 | 9 | Jess Jess |
-| 169 | 9 | Tnaughty |
-| 170 | 9 | Tracy Fuller |
-| 171 | 9 | Natasha Silva |
-| 172 | 9 | Salky |
-| 173 | 8 | Fam |
-| 174 | 8 | Funky Pivoty |
-| 175 | 8 | Brett W. Bouvia |
-| 176 | 7 | Loony Rollfit |
-| 177 | 6 | bt |
-| 178 | 6 | SPARKLES999 |
-| 179 | 6 | Brenda Pyne |
-| 180 | 6 | Landon Holman |
-| 181 | 6 | Kathy Siano |
-| 182 | 6 | Nese |
-| 183 | 5 | Giggly Breaker |
-| 184 | 5 | fizzy girl |
-| 185 | 5 | Kd90 |
-| 186 | 5 | Tori Morgan |
-| 187 | 5 | Jeremy Spohn |
-| 188 | 5 | KAR |
-| 189 | 5 | James Larrison |
-| 190 | 5 | Snippy Cornerfall |
-| 191 | 5 | Victoria Lofquist |
-| 192 | 5 | Da'Shamika |
+| 164 | 10 | Kandy McDaniel |
+| 165 | 10 | Jacqueline Muellerleile |
+| 166 | 9 | ciscokid81 |
+| 167 | 9 | Angie Rodriguez |
+| 168 | 9 | Sarah Cruthirds |
+| 169 | 9 | Jess Jess |
+| 170 | 9 | Tnaughty |
+| 171 | 9 | Tracy Fuller |
+| 172 | 9 | Natasha Silva |
+| 173 | 9 | Salky |
+| 174 | 8 | Fam |
+| 175 | 8 | Funky Pivoty |
+| 176 | 8 | Brett W. Bouvia |
+| 177 | 7 | Loony Rollfit |
+| 178 | 6 | bt |
+| 179 | 6 | SPARKLES999 |
+| 180 | 6 | Brenda Pyne |
+| 181 | 6 | Landon Holman |
+| 182 | 6 | Kathy Siano |
+| 183 | 6 | Nese |
+| 184 | 5 | Giggly Breaker |
+| 185 | 5 | fizzy girl |
+| 186 | 5 | Kd90 |
+| 187 | 5 | Tori Morgan |
+| 188 | 5 | Jeremy Spohn |
+| 189 | 5 | KAR |
+| 190 | 5 | James Larrison |
+| 191 | 5 | Snippy Cornerfall |
+| 192 | 5 | Victoria Lofquist |
+| 193 | 5 | Da'Shamika |
 
 ---
 *Standings created by tournaments datasource generation tool*

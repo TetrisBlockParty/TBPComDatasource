@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 13:16:13 UTC
+# Standings for team4 as of 2026-06-05 13:16:35 UTC
 
 **Total Participants:** 86
 
@@ -8,9 +8,9 @@
 | :- | :- | :- |
 | 1 | 2000 | Destiny Dyer |
 | 2 | 1800 | Candice Driver |
-| 3 | 1074 | Cinny |
+| 3 | 1169 | Cinny |
 | 4 | 700 | Carly Stempien |
-| 5 | 552 | Lynn Grimes |
+| 5 | 559 | Lynn Grimes |
 | 6 | 240 | Chaz Duncan |
 | 7 | 174 | Heather Preston |
 | 8 | 148 | Colin |
