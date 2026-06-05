@@ -1,13 +1,13 @@
-# Standings for team4 as of 2026-06-05 12:31:12 UTC
+# Standings for team4 as of 2026-06-05 12:32:12 UTC
 
-**Total Participants:** 39
+**Total Participants:** 43
 
 ## Participant Scores
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 800 | Candice Driver |
-| 2 | 360 | Carly Stempien |
+| 1 | 900 | Candice Driver |
+| 2 | 380 | Carly Stempien |
 | 3 | 327 | Lynn Grimes |
 | 4 | 205 | Cinny |
 | 5 | 97 | Shayna Vaigneur-Hall |
@@ -17,34 +17,38 @@
 | 9 | 50 | Keys Tome |
 | 10 | 46 | Janae Harris |
 | 11 | 41 | Giggy Matchpiece |
-| 12 | 38 | Charity Thomas |
-| 13 | 34 | jojo |
-| 14 | 28 | Melissa Schwager |
-| 15 | 26 | Dana Fontanez |
-| 16 | 25 | Shiny Brick |
-| 17 | 25 | Маркус Вік |
-| 18 | 21 | Keesha Muro |
-| 19 | 21 | Kim |
-| 20 | 20 | smarty |
-| 21 | 15 | Perry Ransom |
-| 22 | 14 | Jonathan Hewitt |
-| 23 | 13 | Nancy McCalla Abercrombie |
-| 24 | 13 | Cherry |
-| 25 | 12 | Erica Pompey |
-| 26 | 12 | Blockcrusher |
+| 12 | 38 | Jonathan Hewitt |
+| 13 | 38 | Charity Thomas |
+| 14 | 34 | jojo |
+| 15 | 28 | Melissa Schwager |
+| 16 | 27 | Kim |
+| 17 | 26 | Dana Fontanez |
+| 18 | 25 | Маркус Вік |
+| 19 | 25 | Shiny Brick |
+| 20 | 21 | Keesha Muro |
+| 21 | 20 | smarty |
+| 22 | 15 | Perry Ransom |
+| 23 | 13 | Cherry |
+| 24 | 13 | Nancy McCalla Abercrombie |
+| 25 | 12 | Blockcrusher |
+| 26 | 12 | Erica Pompey |
 | 27 | 12 | Jasmine Marie |
-| 28 | 10 | Buchanon Bossingup Jadrienne |
-| 29 | 10 | Hasty Dropzone |
-| 30 | 9 | Hotstuff |
-| 31 | 8 | Iforget |
-| 32 | 7 | George Palacios |
-| 33 | 6 | Dizzy |
-| 34 | 6 | Zippy Snaplink |
-| 35 | 5 | Mighty1 |
-| 36 | 5 | Cflixer |
-| 37 | 5 | Jonelle Jacobs |
-| 38 | 5 | Laurie Patrick |
+| 28 | 10 | Hasty Dropzone |
+| 29 | 10 | Buchanon Bossingup Jadrienne |
+| 30 | 10 | Iforget |
+| 31 | 10 | Magz |
+| 32 | 9 | Hotstuff |
+| 33 | 8 | Melissa Quinn |
+| 34 | 7 | George Palacios |
+| 35 | 6 | Jonelle Jacobs |
+| 36 | 6 | Dizzy |
+| 37 | 6 | Zippy Snaplink |
+| 38 | 6 | Gloria Nunley Trussell |
 | 39 | 5 | Jason Garnatz |
+| 40 | 5 | Laurie Patrick |
+| 41 | 5 | Cflixer |
+| 42 | 5 | Swanky Zigzag |
+| 43 | 5 | Mighty1 |
 
 ---
 *Standings created by tournaments datasource generation tool*
