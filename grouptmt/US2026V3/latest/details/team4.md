@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-06-05 14:26:13 UTC
+# Standings for team4 as of 2026-06-05 14:26:38 UTC
 
-**Total Participants:** 147
+**Total Participants:** 148
 
 ## Participant Scores
 
@@ -23,8 +23,8 @@
 | 15 | 161 | Giggy Matchpiece |
 | 16 | 149 | Danny Ortiz |
 | 17 | 148 | Colin |
-| 18 | 141 | Kim |
-| 19 | 141 | Gloria Nunley Trussell |
+| 18 | 141 | Gloria Nunley Trussell |
+| 19 | 141 | Kim |
 | 20 | 121 | Ryan Paul Clark-Ramsey |
 | 21 | 107 | Shayna Vaigneur-Hall |
 | 22 | 107 | Real Talk Vibes |
@@ -33,15 +33,15 @@
 | 25 | 78 | Tawna Curry |
 | 26 | 77 | Lush Fitblock |
 | 27 | 75 | June Hoffman |
-| 28 | 71 | Justin Michael |
-| 29 | 71 | Chris Covington |
+| 28 | 71 | Chris Covington |
+| 29 | 71 | Justin Michael |
 | 30 | 70 | Janae Harris |
 | 31 | 68 | Keys Tome |
 | 32 | 67 | Limbo |
 | 33 | 65 | ktothet |
-| 34 | 60 | Blockcrusher |
-| 35 | 60 | Fran Aaron-Ring |
-| 36 | 60 | Magz |
+| 34 | 60 | Fran Aaron-Ring |
+| 35 | 60 | Magz |
+| 36 | 60 | Blockcrusher |
 | 37 | 58 | Jenn Fitzgerald |
 | 38 | 56 | Henry Lanier |
 | 39 | 52 | Chirpy Link |
@@ -51,108 +51,109 @@
 | 43 | 40 | Tyra Brooke Everman Forest |
 | 44 | 40 | SweetChaos |
 | 45 | 39 | Anthony Kollar |
-| 46 | 38 | Charity Thomas |
-| 47 | 38 | Jonathan Hewitt |
-| 48 | 37 | Dana Fontanez |
+| 46 | 38 | Jonathan Hewitt |
+| 47 | 38 | Charity Thomas |
+| 48 | 38 | Jojo Ann |
 | 49 | 37 | Cail |
-| 50 | 36 | Mrs |
+| 50 | 37 | Dana Fontanez |
 | 51 | 36 | Laurie Patrick |
-| 52 | 36 | Futrell Brent |
-| 53 | 35 | Tactical_B |
-| 54 | 34 | jojo |
-| 55 | 34 | Clashy |
-| 56 | 33 | Lul Babie |
+| 52 | 36 | Mrs |
+| 53 | 36 | Futrell Brent |
+| 54 | 35 | Tactical_B |
+| 55 | 34 | jojo |
+| 56 | 34 | Clashy |
 | 57 | 33 | blockhead |
-| 58 | 31 | Jasmine Marie |
-| 59 | 30 | Nicole Colby McCloskey |
-| 60 | 30 | Sarah Berry Stevens |
-| 61 | 30 | Will E Ayala |
-| 62 | 29 | Joseph Hunter |
-| 63 | 28 | Melissa Schwager |
+| 58 | 33 | Lul Babie |
+| 59 | 31 | Jasmine Marie |
+| 60 | 30 | Nicole Colby McCloskey |
+| 61 | 30 | Sarah Berry Stevens |
+| 62 | 30 | Will E Ayala |
+| 63 | 29 | Joseph Hunter |
 | 64 | 28 | Sandra O'Reilly |
-| 65 | 28 | Jojo Ann |
+| 65 | 28 | Melissa Schwager |
 | 66 | 28 | Tina Thomas |
 | 67 | 26 | Taz |
 | 68 | 26 | Lisa Ferriero-Daudin |
 | 69 | 25 | Andrea Dre Lomeli |
 | 70 | 24 | smarty |
-| 71 | 23 | Stasia |
-| 72 | 23 | Zippy Snaplink |
-| 73 | 23 | Melissa Quinn |
-| 74 | 22 | Karen Rodriguez |
-| 75 | 22 | Saul Fajardo |
-| 76 | 21 | Keesha Muro |
-| 77 | 21 | Playa |
-| 78 | 20 | Mexican130 |
-| 79 | 20 | Silly Risegrid |
-| 80 | 20 | Betsy Froemming |
-| 81 | 20 | Erica Pompey |
+| 71 | 23 | Zippy Snaplink |
+| 72 | 23 | Melissa Quinn |
+| 73 | 23 | Stasia |
+| 74 | 22 | Saul Fajardo |
+| 75 | 22 | Karen Rodriguez |
+| 76 | 21 | Playa |
+| 77 | 21 | Keesha Muro |
+| 78 | 20 | woopa 716 |
+| 79 | 20 | Betsy Froemming |
+| 80 | 20 | Mexican130 |
+| 81 | 20 | Silly Risegrid |
 | 82 | 20 | Maurice DeJean |
-| 83 | 20 | woopa 716 |
-| 84 | 19 | Becky McCool |
-| 85 | 19 | Swanky Matchfit |
-| 86 | 18 | Nancy McCalla Abercrombie |
+| 83 | 20 | Erica Pompey |
+| 84 | 19 | Swanky Matchfit |
+| 85 | 19 | Becky McCool |
+| 86 | 18 | Kimyatta Cavin |
 | 87 | 18 | Iforget |
-| 88 | 18 | Kimyatta Cavin |
-| 89 | 17 | Breezy Blockzone |
-| 90 | 17 | Cindy |
-| 91 | 16 | Queen B |
+| 88 | 18 | Nancy McCalla Abercrombie |
+| 89 | 17 | Cindy |
+| 90 | 17 | Breezy Blockzone |
+| 91 | 16 | George Palacios |
 | 92 | 16 | Ross Bryant |
-| 93 | 16 | George Palacios |
-| 94 | 15 | Perry Ransom |
-| 95 | 15 | BusterBear56 |
-| 96 | 15 | Hasty Dropzone |
-| 97 | 15 | Jason Garnatz |
+| 93 | 16 | Queen B |
+| 94 | 15 | Hasty Dropzone |
+| 95 | 15 | Jason Garnatz |
+| 96 | 15 | Perry Ransom |
+| 97 | 15 | BusterBear56 |
 | 98 | 15 | Jonelle Jacobs |
 | 99 | 15 | Joshua Garner |
-| 100 | 13 | Catherine Garza |
-| 101 | 13 | GingaNinja |
-| 102 | 13 | Cherry |
-| 103 | 12 | chuck |
-| 104 | 12 | Alizabeth Garcia |
-| 105 | 12 | Fancy Tilefall |
-| 106 | 11 | Wacky Brick |
-| 107 | 11 | Marina |
-| 108 | 11 | Dolores Falco |
+| 100 | 13 | Cherry |
+| 101 | 13 | Catherine Garza |
+| 102 | 13 | GingaNinja |
+| 103 | 12 | Fancy Tilefall |
+| 104 | 12 | chuck |
+| 105 | 12 | Alizabeth Garcia |
+| 106 | 11 | Marina |
+| 107 | 11 | Dolores Falco |
+| 108 | 11 | Wacky Brick |
 | 109 | 11 | Samara Garcia |
-| 110 | 10 | John Wertz |
-| 111 | 10 | DanceAngel |
-| 112 | 10 | Britney Kitora |
-| 113 | 10 | Valerie Silva |
-| 114 | 10 | Nicole |
+| 110 | 10 | Loony Edge |
+| 111 | 10 | Britney Kitora |
+| 112 | 10 | Buchanon Bossingup Jadrienne |
+| 113 | 10 | DanceAngel |
+| 114 | 10 | JP Chua |
 | 115 | 10 | Miguel Teixeira |
-| 116 | 10 | Lateasha Wildman |
-| 117 | 10 | Buchanon Bossingup Jadrienne |
-| 118 | 10 | JP Chua |
-| 119 | 10 | Loony Edge |
-| 120 | 9 | Hotstuff |
-| 121 | 9 | Esmond Johnson IV |
-| 122 | 9 | Dheeh Robles |
+| 116 | 10 | Nicole |
+| 117 | 10 | John Wertz |
+| 118 | 10 | Valerie Silva |
+| 119 | 10 | Lateasha Wildman |
+| 120 | 9 | Esmond Johnson IV |
+| 121 | 9 | Dheeh Robles |
+| 122 | 9 | Hotstuff |
 | 123 | 9 | Frothy Riseclear |
 | 124 | 9 | Cheeky Fallzone |
 | 125 | 9 | Angela Adamo-Tash |
 | 126 | 8 | Sisi RedVelvet Reneè |
-| 127 | 7 | Lisa Garcia |
-| 128 | 7 | Chipper Hitter |
-| 129 | 7 | Erica Armstrong Baz |
-| 130 | 6 | Dizzy |
-| 131 | 6 | Rachel |
+| 127 | 7 | Chipper Hitter |
+| 128 | 7 | Erica Armstrong Baz |
+| 129 | 7 | Lisa Garcia |
+| 130 | 6 | Solace Grace |
+| 131 | 6 | Dizzy |
 | 132 | 6 | Scamp Jones |
-| 133 | 6 | Deb 07 |
-| 134 | 5 | Winter Moon |
-| 135 | 5 | Socorro Arredondo |
-| 136 | 5 | Zappy Matchgrid |
-| 137 | 5 | Cflixer |
-| 138 | 5 | Kendall Rhodie |
-| 139 | 5 | Mighty1 |
-| 140 | 5 | Rosy Perez |
-| 141 | 5 | Tippet |
-| 142 | 5 | Swanky Zigzag |
-| 143 | 5 | Ricky Colvin |
+| 133 | 6 | Rachel |
+| 134 | 6 | Deb 07 |
+| 135 | 5 | Ali Nicole |
+| 136 | 5 | Kellz M Bee |
+| 137 | 5 | Mighty1 |
+| 138 | 5 | Ricky Colvin |
+| 139 | 5 | Zappy Matchgrid |
+| 140 | 5 | Winter Moon |
+| 141 | 5 | Swanky Zigzag |
+| 142 | 5 | Rosy Perez |
+| 143 | 5 | Socorro Arredondo |
 | 144 | 5 | Lively Cascadeclear |
-| 145 | 5 | Kellz M Bee |
-| 146 | 5 | Jeremy Barry |
-| 147 | 5 | Ali Nicole |
+| 145 | 5 | Jeremy Barry |
+| 146 | 5 | Kendall Rhodie |
+| 147 | 5 | Tippet |
+| 148 | 5 | Cflixer |
 
 ---
 *Standings created by tournaments datasource generation tool*
