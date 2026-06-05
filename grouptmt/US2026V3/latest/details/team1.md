@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:10:14 UTC
+# Standings for team1 as of 2026-06-05 15:10:35 UTC
 
 **Total Participants:** 222
 
@@ -32,11 +32,11 @@
 | 24 | 151 | Dacia Hicks |
 | 25 | 150 | Jennifer To |
 | 26 | 141 | Debbie Carswell |
-| 27 | 135 | Ashley MyBeauty Daniels |
-| 28 | 128 | Cassidy Butler |
-| 29 | 126 | Cee Emm |
-| 30 | 115 | Jawaun Daniels |
-| 31 | 100 | Rayya Kiser |
+| 27 | 140 | Rayya Kiser |
+| 28 | 137 | Ashley MyBeauty Daniels |
+| 29 | 128 | Cassidy Butler |
+| 30 | 126 | Cee Emm |
+| 31 | 115 | Jawaun Daniels |
 | 32 | 100 | JoJo |
 | 33 | 100 | Asani CHumba |
 | 34 | 99 | Kellie Hall |
