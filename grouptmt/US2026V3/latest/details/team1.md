@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 22:00:14 UTC
+# Standings for team1 as of 2026-06-05 22:00:37 UTC
 
 **Total Participants:** 537
 
@@ -72,8 +72,8 @@
 | 64 | 138 | Eric Mcgaughy |
 | 65 | 137 | BlackQueen105 |
 | 66 | 136 | Anthony Washington |
-| 67 | 135 | Voice |
-| 68 | 135 | Jawaun Daniels |
+| 67 | 135 | Jawaun Daniels |
+| 68 | 135 | Voice |
 | 69 | 132 | Robyn Caldwell |
 | 70 | 130 | Helen Smith |
 | 71 | 130 | Lashaunda |
@@ -83,16 +83,16 @@
 | 75 | 121 | D'Andra Stewart |
 | 76 | 118 | Hasty Pivoty |
 | 77 | 116 | Eartha Brown |
-| 78 | 115 | Tamara N Lee |
-| 79 | 114 | Mimi 1.0 |
-| 80 | 111 | Shalena Marie Humphrey |
-| 81 | 110 | Atlantalindi |
-| 82 | 107 | TBABYJ |
-| 83 | 105 | Katrina Ramey |
-| 84 | 104 | Frisky Fall |
-| 85 | 103 | KenpachisGirl |
-| 86 | 103 | David Fuentes |
-| 87 | 101 | Jason Mungin |
+| 78 | 116 | Jason Mungin |
+| 79 | 115 | Tamara N Lee |
+| 80 | 114 | Mimi 1.0 |
+| 81 | 111 | Shalena Marie Humphrey |
+| 82 | 110 | Atlantalindi |
+| 83 | 107 | TBABYJ |
+| 84 | 105 | Katrina Ramey |
+| 85 | 104 | Frisky Fall |
+| 86 | 103 | KenpachisGirl |
+| 87 | 103 | David Fuentes |
 | 88 | 100 | Zippy Lifter |
 | 89 | 100 | Jessica Carter |
 | 90 | 100 | Char |
