@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 22:48:15 UTC
+# Standings for team1 as of 2026-06-05 22:48:38 UTC
 
 **Total Participants:** 572
 
@@ -203,32 +203,32 @@
 | 195 | 45 | Slinky Clearzone |
 | 196 | 44 | Andi McGreevy |
 | 197 | 44 | Breezy Catcher |
-| 198 | 43 | Brenda Malachi-butler |
-| 199 | 43 | IThinkNot |
-| 200 | 43 | Byron Mario Cawthon |
-| 201 | 43 | Brittany Fells |
-| 202 | 43 | Rachel Renae Bettis |
-| 203 | 43 | Block |
+| 198 | 43 | IThinkNot |
+| 199 | 43 | Block |
+| 200 | 43 | Brittany Fells |
+| 201 | 43 | Rachel Renae Bettis |
+| 202 | 43 | Byron Mario Cawthon |
+| 203 | 43 | Brenda Malachi-butler |
 | 204 | 42 | sasha |
 | 205 | 42 | Dandy Brickfit |
 | 206 | 41 | Cranky Fall |
-| 207 | 40 | Devin West |
-| 208 | 40 | Rackemwillie34 |
-| 209 | 40 | Nisha Sunshine Jenkins |
-| 210 | 40 | Larina Cherie Johnson |
+| 207 | 40 | Kimberly Hernandez |
+| 208 | 40 | Devin West |
+| 209 | 40 | Larina Cherie Johnson |
+| 210 | 40 | Nisha Sunshine Jenkins |
 | 211 | 40 | Jean Regis |
-| 212 | 40 | Kamilya Rembert |
-| 213 | 40 | Stephen Providenti |
-| 214 | 40 | Flashy Slam |
-| 215 | 40 | Tori Carter |
-| 216 | 40 | Leavon Smith |
-| 217 | 40 | Nutty Spinblock |
-| 218 | 40 | HarleyJane |
-| 219 | 40 | Heather Aurelia |
-| 220 | 39 | JesusSaves 😇 |
-| 221 | 39 | Sabrina Wilkerson |
+| 212 | 40 | Rackemwillie34 |
+| 213 | 40 | Kamilya Rembert |
+| 214 | 40 | Stephen Providenti |
+| 215 | 40 | Flashy Slam |
+| 216 | 40 | Tori Carter |
+| 217 | 40 | Leavon Smith |
+| 218 | 40 | Nutty Spinblock |
+| 219 | 40 | HarleyJane |
+| 220 | 40 | Heather Aurelia |
+| 221 | 39 | JesusSaves 😇 |
 | 222 | 39 | Jae Thompson-Tyus |
-| 223 | 39 | Kimberly Hernandez |
+| 223 | 39 | Sabrina Wilkerson |
 | 224 | 39 | Lexx Robins |
 | 225 | 39 | Elizabeth Green |
 | 226 | 38 | Lawreniesha Burkley |
@@ -512,36 +512,36 @@
 | 504 | 9 | Shakmar |
 | 505 | 8 | Rixo Blax |
 | 506 | 8 | Ferocity |
-| 507 | 8 | Tanesha Ga'sFinest Corbett |
-| 508 | 8 | jus_ry |
-| 509 | 8 | Brenda Brogden |
-| 510 | 8 | Cm |
-| 511 | 8 | Mahagony Small |
-| 512 | 8 | Joseph Vs Cap |
-| 513 | 8 | Caitlin Michele |
-| 514 | 8 | Ashley Davis |
-| 515 | 8 | Nerdy Twistline |
-| 516 | 8 | Teresa Bean |
-| 517 | 8 | Sarah Barnum |
-| 518 | 8 | Chevonne Huggins |
-| 519 | 8 | Shawna Passwater |
-| 520 | 7 | Jayson |
-| 521 | 7 | Mary2 |
-| 522 | 7 | wmedina67 |
-| 523 | 7 | Kendra McIntyre |
-| 524 | 7 | Shane Brucewayne |
-| 525 | 7 | whatever |
-| 526 | 7 | Analesia Taylor |
-| 527 | 7 | Andrew Harris |
-| 528 | 7 | C Lo Green |
-| 529 | 7 | Lakiesha Crawford |
-| 530 | 6 | Novaa |
-| 531 | 6 | Daring Riserfit |
-| 532 | 6 | Jelyfish |
-| 533 | 6 | Jeffrey Barrows |
-| 534 | 6 | Boricua64 |
-| 535 | 6 | Gael Quintana |
-| 536 | 6 | Wacky Towerer |
+| 507 | 8 | Cm |
+| 508 | 8 | Caitlin Michele |
+| 509 | 8 | Joseph Vs Cap |
+| 510 | 8 | Ashley Davis |
+| 511 | 8 | Nerdy Twistline |
+| 512 | 8 | Brenda Brogden |
+| 513 | 8 | Teresa Bean |
+| 514 | 8 | Mahagony Small |
+| 515 | 8 | Chevonne Huggins |
+| 516 | 8 | Shawna Passwater |
+| 517 | 8 | jus_ry |
+| 518 | 8 | Tanesha Ga'sFinest Corbett |
+| 519 | 8 | Sarah Barnum |
+| 520 | 7 | wmedina67 |
+| 521 | 7 | Kendra McIntyre |
+| 522 | 7 | whatever |
+| 523 | 7 | Mary2 |
+| 524 | 7 | Analesia Taylor |
+| 525 | 7 | Shane Brucewayne |
+| 526 | 7 | Lakiesha Crawford |
+| 527 | 7 | C Lo Green |
+| 528 | 7 | Jayson |
+| 529 | 7 | Andrew Harris |
+| 530 | 6 | Daring Riserfit |
+| 531 | 6 | Boricua64 |
+| 532 | 6 | Novaa |
+| 533 | 6 | Jelyfish |
+| 534 | 6 | Jeffrey Barrows |
+| 535 | 6 | Wacky Towerer |
+| 536 | 6 | Gael Quintana |
 | 537 | 6 | NEM0228 |
 | 538 | 6 | Frances Davis |
 | 539 | 6 | Allison Baxter |
@@ -551,27 +551,27 @@
 | 543 | 6 | Wu May |
 | 544 | 6 | Janine Hunter |
 | 545 | 5 | KeeKee Williams |
-| 546 | 5 | Rieshelda Marie White |
-| 547 | 5 | Saucy Linkgrid |
-| 548 | 5 | Quirky Fallgrid |
-| 549 | 5 | Stephanie Zuniga Tullock |
-| 550 | 5 | Temeshia Brooks Washington |
-| 551 | 5 | Jjhandsome |
-| 552 | 5 | Jasmine Hariston-Estis |
-| 553 | 5 | Derek Beverly |
-| 554 | 5 | Lil T |
-| 555 | 5 | Hasty Brickzone |
-| 556 | 5 | DirtiestofMikes |
-| 557 | 5 | Chill Linkroll |
-| 558 | 5 | the guy |
-| 559 | 5 | Kidgib5 |
-| 560 | 5 | Jennifer Moore |
-| 561 | 5 | Vernon Hoyt |
+| 546 | 5 | Temeshia Brooks Washington |
+| 547 | 5 | Rieshelda Marie White |
+| 548 | 5 | Saucy Linkgrid |
+| 549 | 5 | Quirky Fallgrid |
+| 550 | 5 | Stephanie Zuniga Tullock |
+| 551 | 5 | Andre Sanon |
+| 552 | 5 | Jjhandsome |
+| 553 | 5 | Jasmine Hariston-Estis |
+| 554 | 5 | Derek Beverly |
+| 555 | 5 | Lil T |
+| 556 | 5 | Hasty Brickzone |
+| 557 | 5 | DirtiestofMikes |
+| 558 | 5 | Chill Linkroll |
+| 559 | 5 | the guy |
+| 560 | 5 | Kidgib5 |
+| 561 | 5 | Jennifer Moore |
 | 562 | 5 | Shakuria Cortia Burney |
 | 563 | 5 | Tito Divyn |
-| 564 | 5 | pooh |
-| 565 | 5 | Barbramerri Tarboro |
-| 566 | 5 | Andre Sanon |
+| 564 | 5 | Vernon Hoyt |
+| 565 | 5 | pooh |
+| 566 | 5 | Barbramerri Tarboro |
 | 567 | 5 | Logan Frost |
 | 568 | 5 | Duckey |
 | 569 | 5 | Zappy Clearfit |
