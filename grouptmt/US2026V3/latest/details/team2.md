@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 21:08:16 UTC
+# Standings for team2 as of 2026-06-05 21:08:36 UTC
 
 **Total Participants:** 542
 
@@ -14,7 +14,7 @@
 | 6 | 3355 | Crystal M Sowden |
 | 7 | 3283 | Jewels |
 | 8 | 3100 | Mocha |
-| 9 | 2456 | Christina Shell |
+| 9 | 2496 | Christina Shell |
 | 10 | 1900 | boblawboblaw |
 | 11 | 1800 | Mochi |
 | 12 | 1627 | Charles Varca |
