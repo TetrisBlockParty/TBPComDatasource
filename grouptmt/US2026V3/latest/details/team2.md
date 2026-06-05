@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 16:28:35 UTC
+# Standings for team2 as of 2026-06-05 16:29:14 UTC
 
 **Total Participants:** 300
 
@@ -17,14 +17,14 @@
 | 9 | 1900 | boblawboblaw |
 | 10 | 1100 | Kathleen M Cox |
 | 11 | 850 | Bobbi |
-| 12 | 663 | Logan Basham |
-| 13 | 561 | Bea Bee |
-| 14 | 557 | Amber Triguero |
-| 15 | 515 | Loony Faller |
-| 16 | 503 | Jamie Jones |
-| 17 | 445 | Amy Gale |
-| 18 | 392 | Brandon Link |
-| 19 | 300 | Anthony Lilley |
+| 12 | 700 | Anthony Lilley |
+| 13 | 663 | Logan Basham |
+| 14 | 561 | Bea Bee |
+| 15 | 557 | Amber Triguero |
+| 16 | 515 | Loony Faller |
+| 17 | 503 | Jamie Jones |
+| 18 | 445 | Amy Gale |
+| 19 | 392 | Brandon Link |
 | 20 | 280 | Julie Trede Amerson |
 | 21 | 221 | Vistabrat |
 | 22 | 219 | Block Dog |
@@ -118,65 +118,65 @@
 | 110 | 38 | Harper |
 | 111 | 37 | James Ward |
 | 112 | 36 | Mtnblzr |
-| 113 | 35 | Jackie Walker |
-| 114 | 35 | Josie Mendivil |
-| 115 | 35 | Jason Cunningham |
-| 116 | 35 | Kelly |
-| 117 | 34 | Marylin Eacker |
+| 113 | 35 | Kelly |
+| 114 | 35 | Jason Cunningham |
+| 115 | 35 | Josie Mendivil |
+| 116 | 35 | Jackie Walker |
+| 117 | 34 | H |
 | 118 | 34 | Funway998 |
-| 119 | 34 | H |
+| 119 | 34 | Marylin Eacker |
 | 120 | 33 | Kenzie |
 | 121 | 33 | Alexis Meyers |
-| 122 | 32 | Jgato |
-| 123 | 32 | Sandra Belk |
+| 122 | 32 | Sandra Belk |
+| 123 | 32 | Jgato |
 | 124 | 32 | Jazzy Faller |
 | 125 | 31 | Michael Carmichael |
-| 126 | 30 | Patti Ward |
-| 127 | 30 | Mama G |
-| 128 | 30 | Wacky Holder |
-| 129 | 30 | Paula Haskins |
-| 130 | 30 | Christina Shell |
-| 131 | 30 | Nora Buchan |
-| 132 | 30 | Buddy |
-| 133 | 29 | Laverne Ellis Blair |
+| 126 | 30 | Paula Haskins |
+| 127 | 30 | Christina Shell |
+| 128 | 30 | Nora Buchan |
+| 129 | 30 | Mama G |
+| 130 | 30 | Wacky Holder |
+| 131 | 30 | Buddy |
+| 132 | 30 | Patti Ward |
+| 133 | 29 | Brandy Wallace |
 | 134 | 29 | Nikki Hayes |
-| 135 | 29 | Brandy Wallace |
+| 135 | 29 | Laverne Ellis Blair |
 | 136 | 28 | Carole Brown |
 | 137 | 28 | Sara BlueEyes |
-| 138 | 27 | Missy Stevens |
-| 139 | 27 | Kim |
-| 140 | 26 | Ariel Gundersen |
+| 138 | 27 | Kim |
+| 139 | 27 | Missy Stevens |
+| 140 | 26 | Darlene Russell |
 | 141 | 26 | rageking |
-| 142 | 26 | Darlene Russell |
-| 143 | 26 | Rachel Huber |
+| 142 | 26 | Rachel Huber |
+| 143 | 26 | Jat |
 | 144 | 26 | Quina Jesse Fejaran |
-| 145 | 25 | Heather Burgett |
+| 145 | 26 | Ariel Gundersen |
 | 146 | 25 | Raymond Dawson |
-| 147 | 25 | Tamara Whiteley |
+| 147 | 25 | Heather Burgett |
 | 148 | 25 | Andre Love |
-| 149 | 25 | Slinky Winder |
-| 150 | 25 | ChefDeb |
-| 151 | 24 | Natalie M. Arredondo |
-| 152 | 24 | Nicole |
-| 153 | 24 | REE4 |
-| 154 | 24 | SunnySquare |
-| 155 | 24 | Ashley Green |
-| 156 | 24 | Dayna Messer-Thelen |
-| 157 | 23 | Damion Morrison |
+| 149 | 25 | Tamara Whiteley |
+| 150 | 25 | Slinky Winder |
+| 151 | 25 | ChefDeb |
+| 152 | 24 | Natalie M. Arredondo |
+| 153 | 24 | Nicole |
+| 154 | 24 | REE4 |
+| 155 | 24 | SunnySquare |
+| 156 | 24 | Ashley Green |
+| 157 | 24 | Dayna Messer-Thelen |
 | 158 | 23 | IncrediDragon |
-| 159 | 23 | Brittni Lawrence |
-| 160 | 23 | Shirley Bates |
-| 161 | 22 | Jeff Pottgether |
-| 162 | 22 | Marii |
-| 163 | 22 | Seamus |
-| 164 | 22 | Silly Tiltbuilder |
-| 165 | 22 | Ashley Diana |
-| 166 | 21 | Thy Bui |
-| 167 | 21 | Brooke Kaune |
-| 168 | 21 | Lively Curve |
-| 169 | 21 | Maria Ward |
-| 170 | 20 | Allison Peterson |
-| 171 | 20 | Jat |
+| 159 | 23 | Shirley Bates |
+| 160 | 23 | Brittni Lawrence |
+| 161 | 23 | Damion Morrison |
+| 162 | 22 | Jeff Pottgether |
+| 163 | 22 | Marii |
+| 164 | 22 | Seamus |
+| 165 | 22 | Silly Tiltbuilder |
+| 166 | 22 | Ashley Diana |
+| 167 | 21 | Thy Bui |
+| 168 | 21 | Brooke Kaune |
+| 169 | 21 | Lively Curve |
+| 170 | 21 | Maria Ward |
+| 171 | 20 | Allison Peterson |
 | 172 | 20 | Bonita Alexander |
 | 173 | 20 | Dana Wilson |
 | 174 | 20 | Annie Hebdon |
