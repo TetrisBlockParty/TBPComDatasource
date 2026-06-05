@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 20:22:14 UTC
+# Standings for team1 as of 2026-06-05 20:22:37 UTC
 
 **Total Participants:** 473
 
@@ -306,108 +306,108 @@
 | 298 | 20 | Nyhlah Patterson |
 | 299 | 20 | Dorian Griffin |
 | 300 | 20 | Devin West |
-| 301 | 20 | Rayshawn Cohen |
-| 302 | 20 | Trina Greenwood |
+| 301 | 20 | Tipsy Linkroll |
+| 302 | 20 | Tamara Johnson-Carter |
 | 303 | 20 | Ace Hardware |
-| 304 | 20 | Tipsy Linkroll |
-| 305 | 20 | Cynthia Bradley |
-| 306 | 19 | Witty Clear |
-| 307 | 19 | Lozuna |
-| 308 | 19 | Michele Simpson |
-| 309 | 19 | Saucy Tile |
-| 310 | 19 | Amanda Woodruff |
-| 311 | 18 | Darrel Pemberton |
-| 312 | 18 | Jeremy Myers |
-| 313 | 18 | AleahKCH |
-| 314 | 18 | Ounquan Wright |
-| 315 | 18 | Una |
-| 316 | 18 | Sunny Clicky |
-| 317 | 18 | Danny M GR |
+| 304 | 20 | Trina Greenwood |
+| 305 | 20 | Rayshawn Cohen |
+| 306 | 20 | Cynthia Bradley |
+| 307 | 19 | Michele Simpson |
+| 308 | 19 | Saucy Tile |
+| 309 | 19 | Witty Clear |
+| 310 | 19 | Lozuna |
+| 311 | 19 | Amanda Woodruff |
+| 312 | 18 | AleahKCH |
+| 313 | 18 | Sunny Clicky |
+| 314 | 18 | Jeremy Myers |
+| 315 | 18 | Darrel Pemberton |
+| 316 | 18 | Ounquan Wright |
+| 317 | 18 | Una |
 | 318 | 18 | Tyree Tman Shinette |
-| 319 | 17 | Rikki Moran |
-| 320 | 17 | Mikayla |
-| 321 | 17 | Andre Rivera |
-| 322 | 17 | Lisa Fletcher |
+| 319 | 18 | Danny M GR |
+| 320 | 17 | NastyFriend |
+| 321 | 17 | Rikki Moran |
+| 322 | 17 | Kimberly Linares Hernandez |
 | 323 | 17 | Elizabeth Vega Coreano |
-| 324 | 17 | Kimberly Linares Hernandez |
-| 325 | 17 | NastyFriend |
-| 326 | 16 | Dawn Basemore |
-| 327 | 16 | MsBobby Patrick |
+| 324 | 17 | Lisa Fletcher |
+| 325 | 17 | Mikayla |
+| 326 | 17 | Andre Rivera |
+| 327 | 16 | Symonne 'Monnie' Pierce |
 | 328 | 16 | Sunny Tumbler |
-| 329 | 16 | Sammie Walker |
-| 330 | 16 | Desiree Ryder |
-| 331 | 16 | Tanisha Robinson |
-| 332 | 16 | Squaw Ki Ng |
-| 333 | 16 | Symonne 'Monnie' Pierce |
-| 334 | 15 | b |
-| 335 | 15 | Nicole Freeman |
+| 329 | 16 | MsBobby Patrick |
+| 330 | 16 | Dawn Basemore |
+| 331 | 16 | Squaw Ki Ng |
+| 332 | 16 | Sammie Walker |
+| 333 | 16 | Desiree Ryder |
+| 334 | 16 | Tanisha Robinson |
+| 335 | 15 | b |
 | 336 | 15 | Lit757 |
-| 337 | 15 | Jess |
-| 338 | 15 | Amy Lynn Leifheit |
-| 339 | 15 | Slinky Clearzone |
-| 340 | 15 | Delitra Perkins Hatter |
-| 341 | 15 | Hasty Match |
-| 342 | 15 | Dana Hawes |
-| 343 | 15 | Clever Fitblock |
-| 344 | 15 | Tami Spence |
-| 345 | 15 | Elaine Youmans |
+| 337 | 15 | Slinky Clearzone |
+| 338 | 15 | Nicole Freeman |
+| 339 | 15 | Jess |
+| 340 | 15 | Amy Lynn Leifheit |
+| 341 | 15 | Delitra Perkins Hatter |
+| 342 | 15 | Hasty Match |
+| 343 | 15 | Elaine Youmans |
+| 344 | 15 | Shameka Thrasher |
+| 345 | 15 | Clever Fitblock |
 | 346 | 15 | Cheery Clusterbuilder |
-| 347 | 15 | Shameka Thrasher |
-| 348 | 14 | Alyssa Rae |
-| 349 | 14 | Zachary Colegrove |
-| 350 | 14 | Jerrone Epps |
-| 351 | 14 | No_Other_Choice |
-| 352 | 14 | Stephen Providenti |
-| 353 | 14 | La'Chae Nickole |
-| 354 | 14 | Zany Pivot |
-| 355 | 14 | FunTime |
-| 356 | 14 | Vivian Bunnell Myers |
-| 357 | 13 | Leah Ingram |
-| 358 | 13 | Oaklonboy mike |
-| 359 | 13 | Abby |
-| 360 | 13 | Keke |
-| 361 | 13 | Cathy Young |
-| 362 | 13 | John Spath |
-| 363 | 13 | Emma Adams |
+| 347 | 15 | Tami Spence |
+| 348 | 15 | Dana Hawes |
+| 349 | 14 | Stephen Providenti |
+| 350 | 14 | No_Other_Choice |
+| 351 | 14 | Zachary Colegrove |
+| 352 | 14 | Zany Pivot |
+| 353 | 14 | Alyssa Rae |
+| 354 | 14 | La'Chae Nickole |
+| 355 | 14 | Vivian Bunnell Myers |
+| 356 | 14 | FunTime |
+| 357 | 14 | Jerrone Epps |
+| 358 | 13 | Emma Adams |
+| 359 | 13 | Frothy Zoney |
+| 360 | 13 | Abby |
+| 361 | 13 | Keke |
+| 362 | 13 | Oaklonboy mike |
+| 363 | 13 | Cathy Young |
 | 364 | 13 | Bold Clusterer |
-| 365 | 13 | Frothy Zoney |
-| 366 | 12 | Shauntai Holiday |
-| 367 | 12 | Just2Play$ |
+| 365 | 13 | Leah Ingram |
+| 366 | 13 | John Spath |
+| 367 | 12 | Mumitt |
 | 368 | 12 | Andra Ward |
-| 369 | 12 | Cameo Tweed |
+| 369 | 12 | Soubletzy |
 | 370 | 12 | Abigail Newman Sweet |
-| 371 | 12 | Outspoken Sirchristopher |
-| 372 | 12 | Lillie Blossom Dixon |
-| 373 | 12 | Soubletzy |
-| 374 | 12 | Rachael Bakowicz Edwards |
-| 375 | 12 | Mumitt |
-| 376 | 12 | BigMike |
+| 371 | 12 | Just2Play$ |
+| 372 | 12 | Cameo Tweed |
+| 373 | 12 | Outspoken Sirchristopher |
+| 374 | 12 | Lillie Blossom Dixon |
+| 375 | 12 | Haley Bell |
+| 376 | 12 | Rachael Bakowicz Edwards |
 | 377 | 12 | Vontii Blades |
-| 378 | 12 | Haley Bell |
-| 379 | 11 | Taz Ballard |
+| 378 | 12 | BigMike |
+| 379 | 12 | Shauntai Holiday |
 | 380 | 11 | Frilly Shatterline |
 | 381 | 11 | Jenni Hardman |
-| 382 | 11 | Ebony Waynes-robinson |
-| 383 | 10 | Chenell Gillard |
-| 384 | 10 | Bubbly Piececlear |
-| 385 | 10 | Tishauna Virgo |
-| 386 | 10 | Brittanie Wardlow |
-| 387 | 10 | Sherri Keys |
-| 388 | 10 | Hoppy Rumbler |
-| 389 | 10 | Catara Renae Oliver |
-| 390 | 10 | Anntionette Sotire |
-| 391 | 10 | Kenny 'Tailormade' Boyd |
-| 392 | 10 | Tamara Johnson-Carter |
-| 393 | 10 | Heru Ogun Yeshua EL |
-| 394 | 10 | Christian Whittaker |
-| 395 | 10 | Marie Wilson |
-| 396 | 10 | Daddy |
-| 397 | 10 | Shannon Carriger |
-| 398 | 10 | Megan Payette |
-| 399 | 10 | Tessa Gaskin |
-| 400 | 10 | Tina Mitchell |
-| 401 | 9 | Kortney Adams |
-| 402 | 9 | Clifford Petroske |
+| 382 | 11 | Taz Ballard |
+| 383 | 11 | Ebony Waynes-robinson |
+| 384 | 10 | Tishauna Virgo |
+| 385 | 10 | Catara Renae Oliver |
+| 386 | 10 | Anntionette Sotire |
+| 387 | 10 | Tessa Gaskin |
+| 388 | 10 | Heru Ogun Yeshua EL |
+| 389 | 10 | Christian Whittaker |
+| 390 | 10 | Marie Wilson |
+| 391 | 10 | Tina Mitchell |
+| 392 | 10 | Chenell Gillard |
+| 393 | 10 | Megan Payette |
+| 394 | 10 | Shannon Carriger |
+| 395 | 10 | Daddy |
+| 396 | 10 | Kenny 'Tailormade' Boyd |
+| 397 | 10 | Hoppy Rumbler |
+| 398 | 10 | Sherri Keys |
+| 399 | 10 | Brittanie Wardlow |
+| 400 | 10 | Bubbly Piececlear |
+| 401 | 9 | Clifford Petroske |
+| 402 | 9 | Kortney Adams |
 | 403 | 9 | Shakmar |
 | 404 | 9 | Joka NoTime ForHataz |
 | 405 | 9 | DellaLucretia Thomas |

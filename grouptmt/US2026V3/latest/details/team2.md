@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 20:22:14 UTC
+# Standings for team2 as of 2026-06-05 20:22:37 UTC
 
 **Total Participants:** 505
 
@@ -47,8 +47,8 @@
 | 39 | 309 | Happy Pivotfall |
 | 40 | 282 | La chulis |
 | 41 | 280 | Julie Trede Amerson |
-| 42 | 259 | Jennifer Smith |
-| 43 | 259 | Amber Miller Wirick |
+| 42 | 259 | Amber Miller Wirick |
+| 43 | 259 | Jennifer Smith |
 | 44 | 256 | Monica Galli |
 | 45 | 250 | Wmk Rathbun |
 | 46 | 246 | Giddy Slamdrop |
@@ -58,48 +58,48 @@
 | 50 | 220 | Mom |
 | 51 | 219 | Bon Lynn |
 | 52 | 201 | Snappy Combo |
-| 53 | 199 | Dane Marko |
+| 53 | 200 | Sarah Grundisch |
 | 54 | 199 | Stella |
-| 55 | 190 | Kellie Sharp Godfrey |
-| 56 | 183 | Steven Craig |
-| 57 | 177 | Lindsay Klemp |
-| 58 | 170 | Dapper Rollout |
-| 59 | 166 | Nathan Walker |
-| 60 | 165 | Ackerman 85 |
-| 61 | 162 | Renee Weedling |
-| 62 | 159 | Michelle Rich Burkhart |
-| 63 | 159 | Marquetta Johnson |
-| 64 | 158 | Amy Nicole McCanne |
-| 65 | 158 | Nettrainer |
-| 66 | 155 | Milad Arzani |
-| 67 | 153 | Helen Thomas |
-| 68 | 150 | Cara Rivera |
-| 69 | 145 | Brandy Chinelle |
-| 70 | 145 | Judy Long |
-| 71 | 141 | Melisa |
-| 72 | 140 | Iesha Cupil |
-| 73 | 140 | Curly Windbreaker |
-| 74 | 140 | Billie Jensen |
-| 75 | 138 | NickandJess Reynolds |
-| 76 | 131 | Santara Ferguson |
-| 77 | 130 | Precious Womack |
-| 78 | 123 | Lily |
-| 79 | 122 | Amanda Sikes |
-| 80 | 120 | Zany Blockclear |
-| 81 | 120 | Sarah Grundisch |
+| 55 | 199 | Dane Marko |
+| 56 | 190 | Kellie Sharp Godfrey |
+| 57 | 183 | Steven Craig |
+| 58 | 177 | Lindsay Klemp |
+| 59 | 170 | Dapper Rollout |
+| 60 | 166 | Nathan Walker |
+| 61 | 165 | Ackerman 85 |
+| 62 | 162 | Renee Weedling |
+| 63 | 159 | Michelle Rich Burkhart |
+| 64 | 159 | Marquetta Johnson |
+| 65 | 158 | Amy Nicole McCanne |
+| 66 | 158 | Nettrainer |
+| 67 | 155 | Milad Arzani |
+| 68 | 153 | Helen Thomas |
+| 69 | 150 | Cara Rivera |
+| 70 | 145 | Brandy Chinelle |
+| 71 | 145 | Judy Long |
+| 72 | 141 | Melisa |
+| 73 | 140 | Iesha Cupil |
+| 74 | 140 | Curly Windbreaker |
+| 75 | 140 | Billie Jensen |
+| 76 | 138 | NickandJess Reynolds |
+| 77 | 131 | Santara Ferguson |
+| 78 | 130 | Precious Womack |
+| 79 | 123 | Lily |
+| 80 | 122 | Amanda Sikes |
+| 81 | 120 | Zany Blockclear |
 | 82 | 120 | Linda Guay |
 | 83 | 117 | Marge Cromer |
 | 84 | 116 | Amber Cogdill |
-| 85 | 110 | Kelly Vedder |
-| 86 | 110 | marsam |
-| 87 | 110 | Nichole Wilson |
+| 85 | 110 | marsam |
+| 86 | 110 | Nichole Wilson |
+| 87 | 110 | Kelly Vedder |
 | 88 | 105 | Larry Cross |
 | 89 | 103 | Spunky Cascadeclear |
 | 90 | 102 | Alissa Ary |
 | 91 | 101 | Zarah Kettler |
-| 92 | 100 | AcardBoardBox |
-| 93 | 100 | Sara Perkins |
-| 94 | 100 | LEW |
+| 92 | 100 | Sara Perkins |
+| 93 | 100 | LEW |
+| 94 | 100 | AcardBoardBox |
 | 95 | 99 | Melissa Abbott |
 | 96 | 98 | Tango Sierra |
 | 97 | 95 | Wacky Holder |
@@ -109,8 +109,8 @@
 | 101 | 90 | Crystal Allen |
 | 102 | 89 | Chipper Stackbuilder |
 | 103 | 87 | Brittni Lawrence |
-| 104 | 85 | MegaPooh |
-| 105 | 85 | Tina Marie |
+| 104 | 85 | Tina Marie |
+| 105 | 85 | MegaPooh |
 | 106 | 84 | Jamie Fenyus |
 | 107 | 83 | Ashley Voelz |
 | 108 | 83 | Kim Hunt |
@@ -179,23 +179,23 @@
 | 171 | 50 | Jennifer Wymer |
 | 172 | 50 | Ashley Green |
 | 173 | 49 | Tammy Roth |
-| 174 | 49 | Traci Abern |
-| 175 | 48 | Wendy McKee |
-| 176 | 48 | Joannah Capilitan |
-| 177 | 48 | Spicy Basepiece |
-| 178 | 48 | Dizzy Dropzone |
-| 179 | 47 | Sarah Jane Gorsuch |
-| 180 | 47 | Carole Brown |
-| 181 | 47 | Renee Siems |
-| 182 | 47 | REE4 |
-| 183 | 46 | Dani Newton |
-| 184 | 46 | Funky Blockmatch |
-| 185 | 46 | Andre Love |
+| 174 | 49 | Andre Love |
+| 175 | 49 | Traci Abern |
+| 176 | 48 | Wendy McKee |
+| 177 | 48 | Joannah Capilitan |
+| 178 | 48 | Spicy Basepiece |
+| 179 | 48 | Dizzy Dropzone |
+| 180 | 47 | Sarah Jane Gorsuch |
+| 181 | 47 | Carole Brown |
+| 182 | 47 | Renee Siems |
+| 183 | 47 | REE4 |
+| 184 | 46 | Dani Newton |
+| 185 | 46 | Funky Blockmatch |
 | 186 | 46 | Christina Nycol |
 | 187 | 46 | Denna Marteney |
-| 188 | 45 | Hillary Frank |
-| 189 | 45 | Jason Cunningham |
-| 190 | 45 | Michelle Anne |
+| 188 | 45 | Jason Cunningham |
+| 189 | 45 | Michelle Anne |
+| 190 | 45 | Hillary Frank |
 | 191 | 44 | Julibeth Wells |
 | 192 | 44 | Zaniya Brown |
 | 193 | 44 | Chill Line |
@@ -252,43 +252,43 @@
 | 244 | 34 | Lively Curve |
 | 245 | 33 | Kaycie Shaffer |
 | 246 | 32 | Raine |
-| 247 | 32 | Mary Carriere |
-| 248 | 32 | Tracey Cox |
+| 247 | 32 | Tracey Cox |
+| 248 | 32 | Mary Carriere |
 | 249 | 31 | Trinni Hansen |
 | 250 | 31 | Nikki Sadler |
 | 251 | 31 | IncrediDragon |
 | 252 | 31 | Pamela Raye |
 | 253 | 30 | Brittany Kay |
-| 254 | 30 | Nora Buchan |
-| 255 | 30 | Marquita Toliver |
-| 256 | 30 | Sandy Justus |
-| 257 | 30 | Stacey Loretta Wallace |
-| 258 | 30 | Patti Ward |
-| 259 | 30 | Maria Ward |
-| 260 | 30 | Madonna Ash |
-| 261 | 30 | Paula Haskins |
-| 262 | 30 | Teresa Mandich |
+| 254 | 30 | DayDreamer79 |
+| 255 | 30 | Nora Buchan |
+| 256 | 30 | Marquita Toliver |
+| 257 | 30 | Sandy Justus |
+| 258 | 30 | Stacey Loretta Wallace |
+| 259 | 30 | Patti Ward |
+| 260 | 30 | Maria Ward |
+| 261 | 30 | Madonna Ash |
+| 262 | 30 | Paula Haskins |
 | 263 | 30 | Ashley Eneboe |
-| 264 | 29 | Linzy Ratliff |
-| 265 | 29 | Jackie Moran Tiller |
-| 266 | 29 | Brandy Wallace |
+| 264 | 30 | Teresa Mandich |
+| 265 | 29 | Brandy Wallace |
+| 266 | 29 | Linzy Ratliff |
 | 267 | 29 | Brandy Westfall-panchari |
-| 268 | 28 | Lashanda Bertram |
-| 269 | 28 | Sara BlueEyes |
-| 270 | 28 | Damion Morrison |
+| 268 | 29 | Jackie Moran Tiller |
+| 269 | 28 | Lashanda Bertram |
+| 270 | 28 | Sara BlueEyes |
 | 271 | 28 | Cassandra Green |
-| 272 | 27 | Kim |
-| 273 | 27 | DayDreamer79 |
+| 272 | 28 | Damion Morrison |
+| 273 | 27 | Billy Pittman |
 | 274 | 27 | Missy Stevens |
-| 275 | 27 | Sunny Tiltbuilder |
-| 276 | 27 | Billy Pittman |
-| 277 | 27 | Brian Karr |
-| 278 | 26 | BugMansMom |
-| 279 | 26 | nova |
-| 280 | 26 | Krisanne Kesner-Lonsby |
-| 281 | 26 | Quina Jesse Fejaran |
-| 282 | 26 | Rachel Huber |
-| 283 | 26 | Darlene Russell |
+| 275 | 27 | Kim |
+| 276 | 27 | Brian Karr |
+| 277 | 27 | Sunny Tiltbuilder |
+| 278 | 26 | Darlene Russell |
+| 279 | 26 | Quina Jesse Fejaran |
+| 280 | 26 | Rachel Huber |
+| 281 | 26 | Krisanne Kesner-Lonsby |
+| 282 | 26 | nova |
+| 283 | 26 | BugMansMom |
 | 284 | 25 | Ginger Nesbitt |
 | 285 | 25 | ChefDeb |
 | 286 | 25 | Mandy Van Laningham Bishop |
