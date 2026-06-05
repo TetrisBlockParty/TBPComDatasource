@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 18:28:15 UTC
+# Standings for team1 as of 2026-06-05 18:28:38 UTC
 
 **Total Participants:** 384
 
@@ -25,9 +25,9 @@
 | 17 | 351 | AF Cruz |
 | 18 | 350 | Ryan Meilleur |
 | 19 | 345 | Brian Bohanon II |
-| 20 | 292 | Sarah Marie |
-| 21 | 280 | Bre Maugh |
-| 22 | 279 | Kellie Hall |
+| 20 | 309 | Kellie Hall |
+| 21 | 292 | Sarah Marie |
+| 22 | 280 | Bre Maugh |
 | 23 | 260 | Carolynne Walker-Bell |
 | 24 | 249 | Ashley MyBeauty Daniels |
 | 25 | 244 | Tammye Turner |

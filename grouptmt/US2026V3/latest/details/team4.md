@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 18:28:15 UTC
+# Standings for team4 as of 2026-06-05 18:28:38 UTC
 
 **Total Participants:** 358
 
@@ -109,55 +109,55 @@
 | 101 | 59 | Futrell Brent |
 | 102 | 58 | Jenn Fitzgerald |
 | 103 | 58 | Lisa Garcia |
-| 104 | 56 | Homie |
-| 105 | 54 | Kay |
-| 106 | 52 | Jj Johnson |
-| 107 | 51 | Shiny Brick |
+| 104 | 57 | Giggly Tilt |
+| 105 | 56 | Homie |
+| 106 | 54 | Kay |
+| 107 | 52 | Jj Johnson |
 | 108 | 51 | Amanda Snow |
-| 109 | 51 | Cindy |
-| 110 | 50 | Sarah Berry Stevens |
-| 111 | 50 | Nova Kain |
-| 112 | 50 | CorieBe |
-| 113 | 49 | Маркус Вік |
-| 114 | 49 | smarty |
-| 115 | 49 | Daring Brickbuilder |
-| 116 | 48 | Joseph Hunter |
-| 117 | 46 | Bouncy |
-| 118 | 46 | Phil Peterson |
-| 119 | 44 | Lul Babie |
-| 120 | 43 | Karen Rodriguez |
+| 109 | 51 | Shiny Brick |
+| 110 | 51 | Cindy |
+| 111 | 50 | CorieBe |
+| 112 | 50 | Sarah Berry Stevens |
+| 113 | 50 | Nova Kain |
+| 114 | 49 | Маркус Вік |
+| 115 | 49 | smarty |
+| 116 | 49 | Daring Brickbuilder |
+| 117 | 48 | Joseph Hunter |
+| 118 | 46 | Bouncy |
+| 119 | 46 | Phil Peterson |
+| 120 | 44 | Lul Babie |
 | 121 | 43 | Tipsy Zonebuilder |
-| 122 | 42 | Stacy Brown |
+| 122 | 43 | Karen Rodriguez |
 | 123 | 42 | Mrs |
-| 124 | 41 | kellie |
-| 125 | 40 | Mint Marquez |
-| 126 | 40 | Leslie Bamonte |
-| 127 | 40 | Destiny Starr LeValdo |
-| 128 | 40 | Giggly Tilt |
-| 129 | 40 | Tyra Brooke Everman Forest |
-| 130 | 40 | Cinta Marie |
-| 131 | 40 | SweetChaos |
-| 132 | 40 | Cool Risepiece |
+| 124 | 42 | Stacy Brown |
+| 125 | 41 | kellie |
+| 126 | 40 | Tyra Brooke Everman Forest |
+| 127 | 40 | SweetChaos |
+| 128 | 40 | Cinta Marie |
+| 129 | 40 | Mint Marquez |
+| 130 | 40 | Cool Risepiece |
+| 131 | 40 | Leslie Bamonte |
+| 132 | 40 | Destiny Starr LeValdo |
 | 133 | 39 | Anna Gribble |
 | 134 | 39 | Playa |
 | 135 | 39 | Anthony Kollar |
-| 136 | 39 | Nicole |
-| 137 | 38 | Piece of Cake |
-| 138 | 38 | Jonathan Hewitt |
-| 139 | 38 | Happy Shatterfit |
-| 140 | 38 | Charity Thomas |
-| 141 | 37 | Dana Fontanez |
-| 142 | 37 | Tanya AfricanQueen Savage |
-| 143 | 37 | jaz |
+| 136 | 39 | Scamp Jones |
+| 137 | 39 | Nicole |
+| 138 | 38 | Charity Thomas |
+| 139 | 38 | Piece of Cake |
+| 140 | 38 | Jonathan Hewitt |
+| 141 | 38 | Happy Shatterfit |
+| 142 | 37 | Dana Fontanez |
+| 143 | 37 | Tanya AfricanQueen Savage |
 | 144 | 37 | Cail |
-| 145 | 36 | Taz |
+| 145 | 37 | jaz |
 | 146 | 36 | Laurie Patrick |
-| 147 | 35 | Scamp Jones |
-| 148 | 35 | Joshua Hunt |
+| 147 | 36 | Taz |
+| 148 | 35 | MattJennifer Marie Ericson |
 | 149 | 35 | Joe Win |
 | 150 | 35 | EmBem |
-| 151 | 35 | Tactical_B |
-| 152 | 35 | MattJennifer Marie Ericson |
+| 151 | 35 | Joshua Hunt |
+| 152 | 35 | Tactical_B |
 | 153 | 35 | The Jazziest |
 | 154 | 34 | jojo |
 | 155 | 34 | Clashy |
@@ -165,14 +165,14 @@
 | 157 | 33 | PL GR |
 | 158 | 32 | Saul Fajardo |
 | 159 | 32 | Loony Towerer |
-| 160 | 31 | Jasmine Marie |
-| 161 | 31 | Sweetfire |
-| 162 | 31 | Irene Arreguin |
-| 163 | 30 | Lmg |
-| 164 | 30 | Dapper Strikerpiece |
-| 165 | 30 | Stasia |
+| 160 | 31 | Irene Arreguin |
+| 161 | 31 | Jasmine Marie |
+| 162 | 31 | Sweetfire |
+| 163 | 30 | Chill Snapclear |
+| 164 | 30 | Stasia |
+| 165 | 30 | Lmg |
 | 166 | 30 | Will E Ayala |
-| 167 | 30 | Chill Snapclear |
+| 167 | 30 | Dapper Strikerpiece |
 | 168 | 30 | Loopy Wipeout |
 | 169 | 30 | Lala |
 | 170 | 30 | Jennifer Garcia |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 18:28:15 UTC
+# Standings for team2 as of 2026-06-05 18:28:38 UTC
 
 **Total Participants:** 403
 
@@ -19,7 +19,7 @@
 | 11 | 1128 | Jennifer Corder |
 | 12 | 1100 | Kathleen M Cox |
 | 13 | 1050 | Bobbi |
-| 14 | 911 | Christina Shell |
+| 14 | 922 | Christina Shell |
 | 15 | 700 | Anthony Lilley |
 | 16 | 663 | Logan Basham |
 | 17 | 623 | Bea Bee |
@@ -45,7 +45,7 @@
 | 37 | 208 | Bon Lynn |
 | 38 | 199 | Stella |
 | 39 | 190 | Kellie Sharp Godfrey |
-| 40 | 183 | La chulis |
+| 40 | 186 | La chulis |
 | 41 | 183 | Steven Craig |
 | 42 | 177 | Lindsay Klemp |
 | 43 | 175 | Betty Barrett |
