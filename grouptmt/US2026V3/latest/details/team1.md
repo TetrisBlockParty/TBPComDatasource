@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 23:04:37 UTC
+# Standings for team1 as of 2026-06-05 23:05:15 UTC
 
 **Total Participants:** 580
 
@@ -104,10 +104,10 @@
 | 96 | 100 | Cool Bridger |
 | 97 | 100 | Jessica Carter |
 | 98 | 100 | Char |
-| 99 | 99 | 신재호 |
-| 100 | 99 | Kelli Couture |
-| 101 | 96 | Cortaz Lawrie |
-| 102 | 96 | Simone Bailey |
+| 99 | 99 | Simone Bailey |
+| 100 | 99 | 신재호 |
+| 101 | 99 | Kelli Couture |
+| 102 | 96 | Cortaz Lawrie |
 | 103 | 95 | Songne Arif |
 | 104 | 95 | Nate Myers |
 | 105 | 93 | Lesley Brunkus Cianfaglione |
@@ -395,83 +395,83 @@
 | 387 | 18 | Tyree Tman Shinette |
 | 388 | 18 | Moomoo |
 | 389 | 18 | Ounquan Wright |
-| 390 | 18 | Jeremy Myers |
-| 391 | 18 | Oaklonboy mike |
-| 392 | 18 | Una |
-| 393 | 18 | AleahKCH |
-| 394 | 18 | Keke |
-| 395 | 18 | Zachary Colegrove |
-| 396 | 18 | Richelle Beck |
-| 397 | 18 | Azeiare Ziare |
-| 398 | 18 | Anissa Williams |
-| 399 | 17 | Vivian Bunnell Myers |
-| 400 | 17 | Hyedie Badie |
-| 401 | 17 | Andre Rivera |
-| 402 | 17 | Mikayla |
-| 403 | 17 | Jb Mzresilience |
-| 404 | 17 | Rikki Moran |
-| 405 | 17 | Pastors Du Bose |
-| 406 | 16 | Stephen Glaze |
-| 407 | 16 | Poppy Smasher |
-| 408 | 16 | Dawn Basemore |
-| 409 | 16 | MsBobby Patrick |
-| 410 | 16 | Sammie Walker |
+| 390 | 18 | Oaklonboy mike |
+| 391 | 18 | Richelle Beck |
+| 392 | 18 | AleahKCH |
+| 393 | 18 | Keke |
+| 394 | 18 | Jeremy Myers |
+| 395 | 18 | Una |
+| 396 | 18 | Azeiare Ziare |
+| 397 | 18 | Anissa Williams |
+| 398 | 18 | Zachary Colegrove |
+| 399 | 17 | Andre Rivera |
+| 400 | 17 | Vivian Bunnell Myers |
+| 401 | 17 | Hyedie Badie |
+| 402 | 17 | Pastors Du Bose |
+| 403 | 17 | Mikayla |
+| 404 | 17 | C Lo Green |
+| 405 | 17 | Jb Mzresilience |
+| 406 | 17 | Rikki Moran |
+| 407 | 16 | MsBobby Patrick |
+| 408 | 16 | Poppy Smasher |
+| 409 | 16 | Stephen Glaze |
+| 410 | 16 | Dawn Basemore |
 | 411 | 16 | Latoya Carson |
 | 412 | 16 | Tanisha Robinson |
 | 413 | 16 | Symonne 'Monnie' Pierce |
 | 414 | 16 | GracefulOwl808 |
 | 415 | 16 | Sunny Tumbler |
-| 416 | 16 | C Lo Green |
-| 417 | 15 | Tami Spence |
-| 418 | 15 | kitten |
-| 419 | 15 | DeAngelo Sorrells |
-| 420 | 15 | Amy Lynn Leifheit |
-| 421 | 15 | Haley Bell |
-| 422 | 15 | Laura Long |
-| 423 | 15 | Jess |
-| 424 | 15 | Angelique Talbot |
-| 425 | 15 | Delitra Perkins Hatter |
-| 426 | 15 | Lit757 |
-| 427 | 15 | Hasty Match |
+| 416 | 16 | Sammie Walker |
+| 417 | 15 | Angelique Talbot |
+| 418 | 15 | Jess |
+| 419 | 15 | Delitra Perkins Hatter |
+| 420 | 15 | Haley Bell |
+| 421 | 15 | Tami Spence |
+| 422 | 15 | kitten |
+| 423 | 15 | DeAngelo Sorrells |
+| 424 | 15 | Amy Lynn Leifheit |
+| 425 | 15 | Laura Long |
+| 426 | 15 | Happy Blocky |
+| 427 | 15 | Lit757 |
 | 428 | 15 | Elaine Youmans |
 | 429 | 15 | Shameka Thrasher |
-| 430 | 15 | Dana Hawes |
-| 431 | 15 | LaToya Chambers |
-| 432 | 15 | b |
-| 433 | 15 | Cheery Clusterbuilder |
+| 430 | 15 | Hasty Match |
+| 431 | 15 | Dana Hawes |
+| 432 | 15 | LaToya Chambers |
+| 433 | 15 | b |
 | 434 | 15 | Nicole Freeman |
-| 435 | 14 | Zany Pivot |
-| 436 | 14 | Twisty Cascadeclear |
-| 437 | 14 | Aaron Hartmann |
-| 438 | 14 | FunTime |
-| 439 | 14 | No_Other_Choice |
-| 440 | 14 | La'Chae Nickole |
-| 441 | 14 | Rissa Rozay |
+| 435 | 15 | Cheery Clusterbuilder |
+| 436 | 14 | Zany Pivot |
+| 437 | 14 | Twisty Cascadeclear |
+| 438 | 14 | Aaron Hartmann |
+| 439 | 14 | FunTime |
+| 440 | 14 | No_Other_Choice |
+| 441 | 14 | La'Chae Nickole |
 | 442 | 14 | Alyssa Rae |
-| 443 | 14 | Jerrone Epps |
-| 444 | 13 | Cathy Young |
-| 445 | 13 | Leah Ingram |
-| 446 | 13 | John Spath |
-| 447 | 13 | Jumpy Striker |
-| 448 | 13 | Happy Blocky |
+| 443 | 14 | Rissa Rozay |
+| 444 | 14 | Jerrone Epps |
+| 445 | 13 | Cathy Young |
+| 446 | 13 | Jumpy Striker |
+| 447 | 13 | John Spath |
+| 448 | 13 | Leah Ingram |
 | 449 | 13 | Abby |
 | 450 | 13 | Emma Adams |
-| 451 | 12 | Cameo Tweed |
+| 451 | 12 | Jovy |
 | 452 | 12 | Just2Play$ |
 | 453 | 12 | Outspoken Sirchristopher |
 | 454 | 12 | Betsy B. Yohan |
-| 455 | 12 | Andra Ward |
-| 456 | 12 | Soubletzy |
-| 457 | 12 | Cynthia Cruell |
-| 458 | 12 | Mumitt |
-| 459 | 12 | Kate Hancock Malicek |
-| 460 | 12 | Shauntai Holiday |
-| 461 | 12 | Lillie Blossom Dixon |
-| 462 | 12 | BigMike |
-| 463 | 12 | Vontii Blades |
-| 464 | 12 | Clever Blocker |
+| 455 | 12 | Soubletzy |
+| 456 | 12 | Andra Ward |
+| 457 | 12 | Mumitt |
+| 458 | 12 | Cynthia Cruell |
+| 459 | 12 | Cameo Tweed |
+| 460 | 12 | BigMike |
+| 461 | 12 | Kate Hancock Malicek |
+| 462 | 12 | Shauntai Holiday |
+| 463 | 12 | Lillie Blossom Dixon |
+| 464 | 12 | Vontii Blades |
 | 465 | 12 | Michael Jones |
-| 466 | 12 | Jovy |
+| 466 | 12 | Clever Blocker |
 | 467 | 11 | Frilly Shatterline |
 | 468 | 11 | Ivan Israel |
 | 469 | 11 | Ebony Waynes-robinson |
@@ -479,8 +479,8 @@
 | 471 | 11 | Giddy Twistslam |
 | 472 | 11 | Telisha Mims |
 | 473 | 10 | Missy Myvette |
-| 474 | 10 | Mikemike Zonethree |
-| 475 | 10 | Diva shrock |
+| 474 | 10 | Diva shrock |
+| 475 | 10 | Mikemike Zonethree |
 | 476 | 10 | Meeee |
 | 477 | 10 | Mark Steven Pichler |
 | 478 | 10 | TRUBBLE45 |
@@ -577,15 +577,15 @@
 | 569 | 5 | Jennifer Moore |
 | 570 | 5 | the guy |
 | 571 | 5 | Mommy Frank |
-| 572 | 5 | Shakuria Cortia Burney |
-| 573 | 5 | Barbramerri Tarboro |
-| 574 | 5 | Andre Sanon |
-| 575 | 5 | Logan Frost |
+| 572 | 5 | Tito Divyn |
+| 573 | 5 | Shawn Himes |
+| 574 | 5 | Tamika Fisher |
+| 575 | 5 | Zappy Clearfit |
 | 576 | 5 | Duckey |
-| 577 | 5 | Zappy Clearfit |
-| 578 | 5 | Tamika Fisher |
-| 579 | 5 | Shawn Himes |
-| 580 | 5 | Tito Divyn |
+| 577 | 5 | Logan Frost |
+| 578 | 5 | Andre Sanon |
+| 579 | 5 | Barbramerri Tarboro |
+| 580 | 5 | Shakuria Cortia Burney |
 
 ---
 *Standings created by tournaments datasource generation tool*
