@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 12:10:35 UTC
+# Standings for team2 as of 2026-06-05 12:11:11 UTC
 
 **Total Participants:** 9
 
@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 194 | Logan Basham |
-| 2 | 30 | Patti Ward |
-| 3 | 30 | Tango Sierra |
+| 2 | 30 | Tango Sierra |
+| 3 | 30 | Patti Ward |
 | 4 | 12 | Mary |
 | 5 | 10 | Jgato |
 | 6 | 8 | Damion Morrison |
