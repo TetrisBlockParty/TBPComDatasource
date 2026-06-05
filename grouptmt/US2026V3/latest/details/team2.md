@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 16:13:13 UTC
+# Standings for team2 as of 2026-06-05 16:14:14 UTC
 
 **Total Participants:** 289
 
@@ -69,10 +69,10 @@
 | 61 | 60 | Kim Hunt |
 | 62 | 59 | April Addis |
 | 63 | 58 | Sara Perkins |
-| 64 | 58 | Chipper Towerzone |
-| 65 | 57 | Jumpy Dashpiece |
-| 66 | 57 | Zany Wrecker |
-| 67 | 56 | La chulis |
+| 64 | 58 | La chulis |
+| 65 | 58 | Chipper Towerzone |
+| 66 | 57 | Jumpy Dashpiece |
+| 67 | 57 | Zany Wrecker |
 | 68 | 55 | Rick |
 | 69 | 54 | Suki Jacobs |
 | 70 | 54 | Cool Balancer |
@@ -137,15 +137,15 @@
 | 129 | 28 | Sara BlueEyes |
 | 130 | 27 | Missy Stevens |
 | 131 | 27 | Kim |
-| 132 | 26 | Quina Jesse Fejaran |
-| 133 | 26 | rageking |
-| 134 | 26 | Ariel Gundersen |
-| 135 | 26 | Darlene Russell |
+| 132 | 26 | Buddy |
+| 133 | 26 | Quina Jesse Fejaran |
+| 134 | 26 | rageking |
+| 135 | 26 | Ariel Gundersen |
 | 136 | 26 | Rachel Huber |
-| 137 | 25 | Buddy |
-| 138 | 25 | Brittany Nichole Ellenburg |
-| 139 | 25 | Heather Burgett |
-| 140 | 25 | Slinky Winder |
+| 137 | 26 | Darlene Russell |
+| 138 | 25 | Slinky Winder |
+| 139 | 25 | Brittany Nichole Ellenburg |
+| 140 | 25 | Heather Burgett |
 | 141 | 25 | Andre Love |
 | 142 | 25 | ChefDeb |
 | 143 | 25 | Tamara Whiteley |
@@ -154,9 +154,9 @@
 | 146 | 24 | SunnySquare |
 | 147 | 24 | Ashley Green |
 | 148 | 23 | Damion Morrison |
-| 149 | 23 | Shirley Bates |
-| 150 | 23 | Brittni Lawrence |
-| 151 | 23 | IncrediDragon |
+| 149 | 23 | IncrediDragon |
+| 150 | 23 | Shirley Bates |
+| 151 | 23 | Brittni Lawrence |
 | 152 | 22 | Ashley Diana |
 | 153 | 22 | Jeff Pottgether |
 | 154 | 22 | Jazzy Faller |
