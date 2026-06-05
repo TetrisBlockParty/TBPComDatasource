@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 23:44:15 UTC
+# Standings for team2 as of 2026-06-05 23:44:37 UTC
 
 **Total Participants:** 674
 
@@ -535,46 +535,46 @@
 | 527 | 13 | Bubbly Strikerpiece |
 | 528 | 13 | latte |
 | 529 | 13 | Kathryn |
-| 530 | 13 | Lexi Chouinard |
-| 531 | 13 | Newtwidebody |
-| 532 | 13 | bigdog |
-| 533 | 13 | Michelle M Braley |
-| 534 | 13 | Dreamy Wipepiece |
-| 535 | 13 | Jill Gelhausen |
-| 536 | 12 | Sindy08 |
-| 537 | 12 | Lu Wallace |
-| 538 | 12 | Samantha Morrison |
-| 539 | 12 | T-Rex Ricky Lee Dieumegarde Jr. |
-| 540 | 12 | Julie Vargas |
+| 530 | 13 | Dreamy Wipepiece |
+| 531 | 13 | Lexi Chouinard |
+| 532 | 13 | Michelle M Braley |
+| 533 | 13 | Newtwidebody |
+| 534 | 13 | Jill Gelhausen |
+| 535 | 13 | Michael Delozier |
+| 536 | 13 | bigdog |
+| 537 | 12 | Samantha Morrison |
+| 538 | 12 | T-Rex Ricky Lee Dieumegarde Jr. |
+| 539 | 12 | Julie Vargas |
+| 540 | 12 | Sindy08 |
 | 541 | 12 | Brandi Thompson |
-| 542 | 12 | Mary |
-| 543 | 12 | BlockBreaker |
-| 544 | 12 | ReiRei |
-| 545 | 12 | Kris Dusza Dodus |
-| 546 | 12 | Jessica Bowman |
-| 547 | 11 | Lora Via |
-| 548 | 11 | Josephina |
-| 549 | 11 | Yany |
+| 542 | 12 | Kris Dusza Dodus |
+| 543 | 12 | Mary |
+| 544 | 12 | Jessica Bowman |
+| 545 | 12 | ReiRei |
+| 546 | 12 | BlockBreaker |
+| 547 | 12 | Lu Wallace |
+| 548 | 11 | Lora Via |
+| 549 | 11 | Josephina |
 | 550 | 11 | Robert E Tracy |
 | 551 | 11 | Amanda Neal |
-| 552 | 10 | Jolene Hull Hearn |
-| 553 | 10 | Laura Turner |
-| 554 | 10 | Erin Marie Smith |
-| 555 | 10 | Twisty Snapclear |
-| 556 | 10 | Perky Linebuilder |
-| 557 | 10 | Angie Rose |
-| 558 | 10 | Lacey Johnson |
-| 559 | 10 | Ollie |
-| 560 | 10 | Spicy Snapclear |
-| 561 | 10 | Lisa Schwobe |
-| 562 | 10 | Beachmama |
-| 563 | 10 | Doowop40 |
-| 564 | 10 | Cardisa Hall |
-| 565 | 10 | Becky Kennon |
-| 566 | 10 | Jennifer Chapel |
-| 567 | 10 | Ashley Gracelynn Tiner |
-| 568 | 10 | Angela Hogan |
-| 569 | 10 | Michael Delozier |
+| 552 | 11 | Yany |
+| 553 | 10 | Perky Linebuilder |
+| 554 | 10 | Twisty Snapclear |
+| 555 | 10 | Ollie |
+| 556 | 10 | Angie Rose |
+| 557 | 10 | Jolene Hull Hearn |
+| 558 | 10 | Erin Marie Smith |
+| 559 | 10 | Laura Turner |
+| 560 | 10 | Lacey Johnson |
+| 561 | 10 | Spicy Snapclear |
+| 562 | 10 | Lisa Schwobe |
+| 563 | 10 | Beachmama |
+| 564 | 10 | Doowop40 |
+| 565 | 10 | Cardisa Hall |
+| 566 | 10 | Becky Kennon |
+| 567 | 10 | Jennifer Chapel |
+| 568 | 10 | Ashley Gracelynn Tiner |
+| 569 | 10 | Angela Hogan |
 | 570 | 10 | Twisty Snapmatch |
 | 571 | 10 | Mouh Med |
 | 572 | 10 | Jennifer Bell |
