@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 14:12:13 UTC
+# Standings for team1 as of 2026-06-05 14:12:36 UTC
 
 **Total Participants:** 150
 
@@ -149,13 +149,13 @@
 | 141 | 6 | Ashley Espeut |
 | 142 | 6 | Jayjay Rich |
 | 143 | 5 | Derek Beverly |
-| 144 | 5 | Nobles Brandon |
-| 145 | 5 | Christian Whittaker |
-| 146 | 5 | Jennifer Moore |
-| 147 | 5 | Kidgib5 |
-| 148 | 5 | DirtiestofMikes |
-| 149 | 5 | Lil T |
-| 150 | 5 | Tamika Fisher |
+| 144 | 5 | Tamika Fisher |
+| 145 | 5 | Nobles Brandon |
+| 146 | 5 | Christian Whittaker |
+| 147 | 5 | Jennifer Moore |
+| 148 | 5 | Kidgib5 |
+| 149 | 5 | DirtiestofMikes |
+| 150 | 5 | Lil T |
 
 ---
 *Standings created by tournaments datasource generation tool*
