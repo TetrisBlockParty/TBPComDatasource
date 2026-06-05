@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 23:10:14 UTC
+# Standings for team1 as of 2026-06-05 23:10:38 UTC
 
 **Total Participants:** 583
 
@@ -35,8 +35,8 @@
 | 27 | 411 | Ivana Schmidt |
 | 28 | 363 | Sha Harris |
 | 29 | 360 | She Higgy |
-| 30 | 357 | Sarah Marie |
-| 31 | 353 | AF Cruz |
+| 30 | 357 | AF Cruz |
+| 31 | 357 | Sarah Marie |
 | 32 | 348 | Brian Bohanon II |
 | 33 | 325 | JoJo |
 | 34 | 319 | Shell Lewis |
@@ -314,108 +314,108 @@
 | 306 | 28 | Charise McGee |
 | 307 | 28 | Kimberly Linares Hernandez |
 | 308 | 28 | Nerdy Climber |
-| 309 | 27 | Zany Breaker |
-| 310 | 27 | Eugina Slater |
-| 311 | 27 | Clever Fitblock |
-| 312 | 27 | Heather Wilson |
-| 313 | 27 | MamushiOh |
-| 314 | 27 | Mighty Dropper |
-| 315 | 27 | Brave Balanceblock |
-| 316 | 27 | Yadira Salgado |
-| 317 | 27 | Lisa Fletcher |
-| 318 | 27 | Koi |
-| 319 | 27 | Tamara Johnson-Carter |
-| 320 | 27 | Lady Scorpio |
-| 321 | 26 | Nona Harriel |
-| 322 | 26 | Xrandomx |
+| 309 | 27 | Tamara Johnson-Carter |
+| 310 | 27 | Mighty Dropper |
+| 311 | 27 | Yadira Salgado |
+| 312 | 27 | Brave Balanceblock |
+| 313 | 27 | Zany Breaker |
+| 314 | 27 | Koi |
+| 315 | 27 | Heather Wilson |
+| 316 | 27 | Clever Fitblock |
+| 317 | 27 | Eugina Slater |
+| 318 | 27 | Lady Scorpio |
+| 319 | 27 | MamushiOh |
+| 320 | 27 | Lisa Fletcher |
+| 321 | 26 | Giggy Tower |
+| 322 | 26 | Nona Harriel |
 | 323 | 26 | SnazzySnippet |
-| 324 | 26 | Giggy Tower |
-| 325 | 26 | Linzie Marie |
-| 326 | 26 | Manda Allen |
-| 327 | 25 | ELM |
-| 328 | 25 | Smiley Tilebuilder |
-| 329 | 25 | Tremaine Hiler |
-| 330 | 25 | Jenni |
+| 324 | 26 | Xrandomx |
+| 325 | 26 | Manda Allen |
+| 326 | 26 | Linzie Marie |
+| 327 | 25 | Mary Phillippi Blanton |
+| 328 | 25 | ELM |
+| 329 | 25 | Witty Clear |
+| 330 | 25 | Tremaine Hiler |
 | 331 | 25 | Kimmie Gargano |
-| 332 | 25 | Tony P Burke |
+| 332 | 25 | Brandy Jaszewski |
 | 333 | 25 | Karebear |
-| 334 | 25 | Kyle Conley |
-| 335 | 25 | Mary Phillippi Blanton |
-| 336 | 25 | Brandy Jaszewski |
-| 337 | 25 | Smiley Clearpiece |
-| 338 | 25 | Witty Clear |
-| 339 | 25 | Bold Clusterer |
-| 340 | 25 | Quirky Fallgrid |
-| 341 | 25 | Victoria Smith |
-| 342 | 24 | Dirty Deeds |
-| 343 | 24 | DellaLucretia Thomas |
-| 344 | 24 | Mrs |
-| 345 | 24 | Taneka Howell |
-| 346 | 24 | Tanisha Taylor |
+| 334 | 25 | Smiley Tilebuilder |
+| 335 | 25 | Smiley Clearpiece |
+| 336 | 25 | Quirky Fallgrid |
+| 337 | 25 | Bold Clusterer |
+| 338 | 25 | Victoria Smith |
+| 339 | 25 | Jenni |
+| 340 | 25 | Kyle Conley |
+| 341 | 25 | Tony P Burke |
+| 342 | 24 | Abigail Newman Sweet |
+| 343 | 24 | Dirty Deeds |
+| 344 | 24 | DellaLucretia Thomas |
+| 345 | 24 | Tanisha Taylor |
+| 346 | 24 | Taneka Howell |
 | 347 | 24 | Shaun Anderson |
-| 348 | 24 | AshMo |
-| 349 | 24 | Abigail Newman Sweet |
-| 350 | 24 | Shanaa Germany Crittenden |
-| 351 | 24 | Zayy Wavyy |
-| 352 | 23 | Adrian Harris |
-| 353 | 23 | Penee Wiggins |
-| 354 | 23 | Tee Spinks |
-| 355 | 23 | Hardtohandle91 |
-| 356 | 23 | Khatyrah Burnette |
-| 357 | 23 | Jamie Lea Popp |
-| 358 | 23 | Tabitha Dupre-Allen |
-| 359 | 22 | Kimberly Anderson |
-| 360 | 22 | Mikayla |
-| 361 | 22 | Ad Doctor |
-| 362 | 22 | Rufus |
-| 363 | 21 | Li-Li Ratliff |
-| 364 | 21 | Desiree Ryder |
-| 365 | 21 | Jason Saputo |
-| 366 | 21 | Kevin Turner |
-| 367 | 21 | Lisa Müller |
-| 368 | 21 | Jessie N Michael Silvers |
-| 369 | 21 | Alyssa H |
-| 370 | 21 | Shanjerrica Taylor Rosell |
-| 371 | 20 | Zachary Colegrove |
-| 372 | 20 | Cynthia Bradley |
-| 373 | 20 | Phillip White |
-| 374 | 20 | Rayshawn Cohen |
-| 375 | 20 | Kenneth Hefney |
-| 376 | 20 | SherylU |
-| 377 | 20 | Spotlight |
-| 378 | 20 | Nyhlah Patterson |
-| 379 | 20 | Erika Windom |
-| 380 | 20 | Jai |
-| 381 | 20 | Ace Hardware |
+| 348 | 24 | Zayy Wavyy |
+| 349 | 24 | Mrs |
+| 350 | 24 | AshMo |
+| 351 | 24 | Shanaa Germany Crittenden |
+| 352 | 23 | Penee Wiggins |
+| 353 | 23 | Tabitha Dupre-Allen |
+| 354 | 23 | Jamie Lea Popp |
+| 355 | 23 | Khatyrah Burnette |
+| 356 | 23 | Hardtohandle91 |
+| 357 | 23 | Adrian Harris |
+| 358 | 23 | Tee Spinks |
+| 359 | 22 | Mikayla |
+| 360 | 22 | Kimberly Anderson |
+| 361 | 22 | C Lo Green |
+| 362 | 22 | Ad Doctor |
+| 363 | 22 | Rufus |
+| 364 | 21 | Li-Li Ratliff |
+| 365 | 21 | Shanjerrica Taylor Rosell |
+| 366 | 21 | Lisa Müller |
+| 367 | 21 | Kevin Turner |
+| 368 | 21 | Alyssa H |
+| 369 | 21 | Desiree Ryder |
+| 370 | 21 | Jason Saputo |
+| 371 | 21 | Jessie N Michael Silvers |
+| 372 | 20 | Spotlight |
+| 373 | 20 | SherylU |
+| 374 | 20 | Phillip White |
+| 375 | 20 | Nyhlah Patterson |
+| 376 | 20 | Erika Windom |
+| 377 | 20 | Jai |
+| 378 | 20 | Ace Hardware |
+| 379 | 20 | Rayshawn Cohen |
+| 380 | 20 | Cynthia Bradley |
+| 381 | 20 | Kenneth Hefney |
 | 382 | 20 | Danny M GR |
 | 383 | 20 | Eric Spencer Whitaker |
-| 384 | 19 | NastyFriend |
-| 385 | 19 | Lozuna |
+| 384 | 20 | Zachary Colegrove |
+| 385 | 19 | NastyFriend |
 | 386 | 19 | Jeremy Pope |
 | 387 | 19 | Michele Simpson |
-| 388 | 19 | Saucy Tile |
+| 388 | 19 | Lozuna |
 | 389 | 19 | Amanda Woodruff |
-| 390 | 18 | C Lo Green |
-| 391 | 18 | Oaklonboy mike |
-| 392 | 18 | Keke |
-| 393 | 18 | Ounquan Wright |
-| 394 | 18 | Tyree Tman Shinette |
-| 395 | 18 | AleahKCH |
+| 390 | 19 | Saucy Tile |
+| 391 | 18 | AleahKCH |
+| 392 | 18 | Oaklonboy mike |
+| 393 | 18 | Tyree Tman Shinette |
+| 394 | 18 | Azeiare Ziare |
+| 395 | 18 | Moomoo |
 | 396 | 18 | Anissa Williams |
-| 397 | 18 | Una |
-| 398 | 18 | Azeiare Ziare |
+| 397 | 18 | Keke |
+| 398 | 18 | Una |
 | 399 | 18 | Richelle Beck |
-| 400 | 18 | Jeremy Myers |
-| 401 | 18 | Moomoo |
-| 402 | 17 | Pastors Du Bose |
+| 400 | 18 | Ounquan Wright |
+| 401 | 18 | Jeremy Myers |
+| 402 | 17 | Andre Rivera |
 | 403 | 17 | Rikki Moran |
-| 404 | 17 | Hyedie Badie |
-| 405 | 17 | Andre Rivera |
-| 406 | 17 | Vivian Bunnell Myers |
+| 404 | 17 | Vivian Bunnell Myers |
+| 405 | 17 | Pastors Du Bose |
+| 406 | 17 | Hyedie Badie |
 | 407 | 17 | Jb Mzresilience |
-| 408 | 16 | Sammie Walker |
+| 408 | 16 | Stephen Glaze |
 | 409 | 16 | Dawn Basemore |
-| 410 | 16 | Stephen Glaze |
+| 410 | 16 | Sammie Walker |
 | 411 | 16 | GracefulOwl808 |
 | 412 | 16 | Sunny Tumbler |
 | 413 | 16 | MsBobby Patrick |
