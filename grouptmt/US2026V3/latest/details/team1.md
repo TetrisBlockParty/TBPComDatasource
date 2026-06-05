@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 19:06:36 UTC
+# Standings for team1 as of 2026-06-05 19:07:14 UTC
 
 **Total Participants:** 411
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 12000 | Ariel |
 | 2 | 2905 | Timothy Robert |
-| 3 | 1938 | Cozy Edge |
+| 3 | 2222 | Cozy Edge |
 | 4 | 1733 | Tracy Cohen |
 | 5 | 1050 | jaimie |
 | 6 | 1008 | Dyane Leah Ware |
@@ -132,10 +132,10 @@
 | 124 | 50 | Skippy |
 | 125 | 50 | Yazz |
 | 126 | 49 | LexiiSamayaa |
-| 127 | 47 | Derrius SeriousLee Burks |
-| 128 | 47 | Christopher Dreamsareality McEachin |
-| 129 | 45 | Renee J. Thomas |
-| 130 | 45 | Joana Thompson |
+| 127 | 48 | Joana Thompson |
+| 128 | 47 | Derrius SeriousLee Burks |
+| 129 | 47 | Christopher Dreamsareality McEachin |
+| 130 | 45 | Renee J. Thomas |
 | 131 | 45 | Guy Incognito |
 | 132 | 44 | Andi McGreevy |
 | 133 | 43 | Block |
@@ -371,25 +371,25 @@
 | 363 | 8 | Ferocity |
 | 364 | 8 | Tonny Williams |
 | 365 | 8 | Brika Brika |
-| 366 | 8 | Tanesha Ga'sFinest Corbett |
-| 367 | 8 | Ashley Davis |
+| 366 | 8 | Clever Wrecker |
+| 367 | 8 | Tanesha Ga'sFinest Corbett |
 | 368 | 8 | jus_ry |
 | 369 | 8 | Teresa Bean |
 | 370 | 8 | Brenda Brogden |
 | 371 | 8 | Caitlin Michele |
-| 372 | 8 | Cm |
-| 373 | 7 | whatever |
-| 374 | 7 | wmedina67 |
-| 375 | 7 | Kendra McIntyre |
-| 376 | 7 | Andrew Harris |
-| 377 | 7 | Mary2 |
-| 378 | 7 | Shane Brucewayne |
-| 379 | 6 | Janine Hunter |
+| 372 | 8 | Ashley Davis |
+| 373 | 8 | Cm |
+| 374 | 7 | whatever |
+| 375 | 7 | wmedina67 |
+| 376 | 7 | Kendra McIntyre |
+| 377 | 7 | Andrew Harris |
+| 378 | 7 | Mary2 |
+| 379 | 7 | Shane Brucewayne |
 | 380 | 6 | Boricua64 |
-| 381 | 6 | Jeffrey Barrows |
-| 382 | 6 | Allison Baxter |
+| 381 | 6 | Janine Hunter |
+| 382 | 6 | Jeffrey Barrows |
 | 383 | 6 | Jelyfish |
-| 384 | 6 | Clever Wrecker |
+| 384 | 6 | Allison Baxter |
 | 385 | 6 | Gael Quintana |
 | 386 | 6 | NEM0228 |
 | 387 | 6 | Christopher Wallace |
@@ -415,8 +415,8 @@
 | 407 | 5 | pooh |
 | 408 | 5 | Jennifer Moore |
 | 409 | 5 | Kidgib5 |
-| 410 | 5 | Barbramerri Tarboro |
-| 411 | 5 | Andre Sanon |
+| 410 | 5 | Andre Sanon |
+| 411 | 5 | Barbramerri Tarboro |
 
 ---
 *Standings created by tournaments datasource generation tool*
