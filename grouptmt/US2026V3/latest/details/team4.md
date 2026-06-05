@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 13:31:13 UTC
+# Standings for team4 as of 2026-06-05 13:32:12 UTC
 
 **Total Participants:** 96
 
@@ -15,8 +15,8 @@
 | 7 | 200 | Kathy Brookins |
 | 8 | 174 | Heather Preston |
 | 9 | 148 | Colin |
-| 10 | 121 | Ryan Paul Clark-Ramsey |
-| 11 | 117 | Kim |
+| 10 | 123 | Kim |
+| 11 | 121 | Ryan Paul Clark-Ramsey |
 | 12 | 107 | Shayna Vaigneur-Hall |
 | 13 | 101 | Giggy Matchpiece |
 | 14 | 95 | Gloria Nunley Trussell |
@@ -68,14 +68,14 @@
 | 60 | 17 | Breezy Blockzone |
 | 61 | 15 | Hasty Dropzone |
 | 62 | 15 | Joshua Garner |
-| 63 | 15 | Perry Ransom |
-| 64 | 15 | Jonelle Jacobs |
-| 65 | 14 | Luna |
+| 63 | 15 | Jonelle Jacobs |
+| 64 | 15 | Perry Ransom |
+| 65 | 14 | Nancy McCalla Abercrombie |
 | 66 | 14 | Nicole Colby McCloskey |
-| 67 | 13 | Nancy McCalla Abercrombie |
-| 68 | 13 | Cherry |
-| 69 | 13 | Karen Rodriguez |
-| 70 | 13 | Catherine Garza |
+| 67 | 14 | Luna |
+| 68 | 13 | Karen Rodriguez |
+| 69 | 13 | Catherine Garza |
+| 70 | 13 | Cherry |
 | 71 | 12 | Alizabeth Garcia |
 | 72 | 12 | Fancy Tilefall |
 | 73 | 11 | Samara Garcia |

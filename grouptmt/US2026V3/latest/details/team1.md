@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 13:31:13 UTC
+# Standings for team1 as of 2026-06-05 13:32:12 UTC
 
-**Total Participants:** 112
+**Total Participants:** 113
 
 ## Participant Scores
 
@@ -53,25 +53,25 @@
 | 45 | 35 | Lilly Brown |
 | 46 | 35 | Dai Bo |
 | 47 | 32 | Tobey Marberry |
-| 48 | 30 | Cheeky Pop |
+| 48 | 30 | Yashica Smith |
 | 49 | 30 | Saucy Faller |
-| 50 | 30 | Brian Bohanon II |
-| 51 | 30 | Yashica Smith |
-| 52 | 30 | Lester Malone |
+| 50 | 30 | Cheeky Pop |
+| 51 | 30 | Lester Malone |
+| 52 | 30 | Brian Bohanon II |
 | 53 | 28 | John Staub |
 | 54 | 28 | Casey Chapman |
 | 55 | 27 | Zany Breaker |
 | 56 | 27 | Angela R Wilson |
-| 57 | 27 | Jae Thompson-Tyus |
-| 58 | 27 | Charlene Baltimore |
+| 57 | 27 | Charlene Baltimore |
+| 58 | 27 | Jae Thompson-Tyus |
 | 59 | 25 | Tyrone Porter |
 | 60 | 25 | Hasty Pivoty |
 | 61 | 23 | Poppy Twister |
 | 62 | 22 | Tanisha Taylor |
 | 63 | 21 | Brave Balanceblock |
 | 64 | 20 | Kimmie Gargano |
-| 65 | 20 | Trina Greenwood |
-| 66 | 20 | Chevalier Burley |
+| 65 | 20 | Chevalier Burley |
+| 66 | 20 | Trina Greenwood |
 | 67 | 20 | Tony P Burke |
 | 68 | 20 | Jai |
 | 69 | 19 | Jenni |
@@ -81,43 +81,44 @@
 | 73 | 18 | AleahKCH |
 | 74 | 18 | Tyree Tman Shinette |
 | 75 | 18 | Sunny Clicky |
-| 76 | 17 | Rikki Moran |
-| 77 | 17 | Kimberly Red |
-| 78 | 16 | Sylvia Offically A Mcgowan |
-| 79 | 16 | MsBobby Patrick |
+| 76 | 17 | Kimberly Red |
+| 77 | 17 | Rikki Moran |
+| 78 | 16 | MsBobby Patrick |
+| 79 | 16 | Sylvia Offically A Mcgowan |
 | 80 | 15 | Tami Spence |
-| 81 | 15 | Ashley MyBeauty Daniels |
-| 82 | 15 | Una |
-| 83 | 14 | Alyssa Rae |
-| 84 | 14 | David A Alvino |
+| 81 | 15 | Una |
+| 82 | 15 | Ashley MyBeauty Daniels |
+| 83 | 14 | David A Alvino |
+| 84 | 14 | Alyssa Rae |
 | 85 | 13 | Oaklonboy mike |
-| 86 | 12 | Kimberly Hernandez |
-| 87 | 12 | Boldy Pivoty |
+| 86 | 12 | Boldy Pivoty |
+| 87 | 12 | Kimberly Hernandez |
 | 88 | 11 | Desiree Ryder |
-| 89 | 10 | Megan Payette |
-| 90 | 10 | 신재호 |
+| 89 | 10 | Flashy Slam |
+| 90 | 10 | Tishauna Virgo |
 | 91 | 10 | Sarah Marie |
-| 92 | 10 | Kenny 'Tailormade' Boyd |
-| 93 | 10 | Keke |
-| 94 | 10 | Daddy |
-| 95 | 10 | Tishauna Virgo |
-| 96 | 9 | Tamara N Lee |
-| 97 | 9 | Tina Criam |
+| 92 | 10 | Megan Payette |
+| 93 | 10 | Kenny 'Tailormade' Boyd |
+| 94 | 10 | Keke |
+| 95 | 10 | Daddy |
+| 96 | 10 | 신재호 |
+| 97 | 9 | IThinkNot |
 | 98 | 9 | Shakmar |
-| 99 | 9 | IThinkNot |
-| 100 | 8 | Brika Brika |
-| 101 | 8 | Sammie Walker |
-| 102 | 8 | Jessie N Michael Silvers |
-| 103 | 7 | Kendra McIntyre |
-| 104 | 7 | Mary2 |
-| 105 | 6 | Janine Hunter |
-| 106 | 6 | Taz Ballard |
-| 107 | 6 | Ashley Espeut |
-| 108 | 6 | Jayjay Rich |
-| 109 | 5 | DirtiestofMikes |
-| 110 | 5 | Jennifer Moore |
-| 111 | 5 | Tamika Fisher |
-| 112 | 5 | Derek Beverly |
+| 99 | 9 | Tina Criam |
+| 100 | 9 | Tamara N Lee |
+| 101 | 8 | Brika Brika |
+| 102 | 8 | Sammie Walker |
+| 103 | 8 | Jessie N Michael Silvers |
+| 104 | 7 | Kendra McIntyre |
+| 105 | 7 | Mary2 |
+| 106 | 6 | Janine Hunter |
+| 107 | 6 | Taz Ballard |
+| 108 | 6 | Ashley Espeut |
+| 109 | 6 | Jayjay Rich |
+| 110 | 5 | DirtiestofMikes |
+| 111 | 5 | Jennifer Moore |
+| 112 | 5 | Tamika Fisher |
+| 113 | 5 | Derek Beverly |
 
 ---
 *Standings created by tournaments datasource generation tool*
