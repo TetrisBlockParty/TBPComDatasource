@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 12:12:36 UTC
+# Standings for team4 as of 2026-06-05 12:13:12 UTC
 
 **Total Participants:** 15
 
@@ -7,15 +7,15 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 86 | Cinny |
-| 2 | 80 | Carly Stempien |
-| 3 | 40 | Keys Tome |
-| 4 | 39 | Shayna Vaigneur-Hall |
-| 5 | 28 | Melissa Schwager |
-| 6 | 26 | Dana Fontanez |
-| 7 | 25 | Маркус Вік |
-| 8 | 24 | jojo |
-| 9 | 20 | Charity Thomas |
-| 10 | 16 | Lynn Grimes |
+| 2 | 81 | Lynn Grimes |
+| 3 | 80 | Carly Stempien |
+| 4 | 40 | Keys Tome |
+| 5 | 39 | Shayna Vaigneur-Hall |
+| 6 | 28 | Melissa Schwager |
+| 7 | 26 | Dana Fontanez |
+| 8 | 25 | Маркус Вік |
+| 9 | 24 | jojo |
+| 10 | 20 | Charity Thomas |
 | 11 | 14 | Jonathan Hewitt |
 | 12 | 10 | Shiny Brick |
 | 13 | 9 | Hotstuff |
