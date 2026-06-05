@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 21:38:15 UTC
+# Standings for team2 as of 2026-06-05 21:38:37 UTC
 
 **Total Participants:** 571
 
@@ -51,8 +51,8 @@
 | 43 | 337 | Christina Jambard Sampier |
 | 44 | 299 | Amber Miller Wirick |
 | 45 | 292 | La chulis |
-| 46 | 280 | Julie Trede Amerson |
-| 47 | 268 | Dane Marko |
+| 46 | 288 | Dane Marko |
+| 47 | 280 | Julie Trede Amerson |
 | 48 | 259 | Jennifer Smith |
 | 49 | 258 | Branden Frankowski |
 | 50 | 250 | Wmk Rathbun |
@@ -473,8 +473,8 @@
 | 465 | 11 | Josephina |
 | 466 | 11 | Lora Via |
 | 467 | 11 | Amanda Neal |
-| 468 | 10 | Ollie |
-| 469 | 10 | Laura Turner |
+| 468 | 10 | Laura Turner |
+| 469 | 10 | Carlos J Blas |
 | 470 | 10 | Perky Linebuilder |
 | 471 | 10 | Donna Casey |
 | 472 | 10 | TyShantelle |
@@ -486,97 +486,97 @@
 | 478 | 10 | Amanda Bottorff |
 | 479 | 10 | Elnaz Mokleh |
 | 480 | 10 | Amanda Fields |
-| 481 | 10 | Happy Riseclear |
-| 482 | 10 | Carlos J Blas |
-| 483 | 10 | Lisa Schwobe |
-| 484 | 10 | Angie Rose |
-| 485 | 10 | Twisty Snapmatch |
-| 486 | 10 | Justin Furne |
-| 487 | 10 | Audrey Wood |
-| 488 | 10 | Saucy Wrecker |
-| 489 | 10 | Tito Garcia |
+| 481 | 10 | Ollie |
+| 482 | 10 | Lisa Schwobe |
+| 483 | 10 | Angie Rose |
+| 484 | 10 | Twisty Snapmatch |
+| 485 | 10 | Justin Furne |
+| 486 | 10 | Audrey Wood |
+| 487 | 10 | Saucy Wrecker |
+| 488 | 10 | Tito Garcia |
+| 489 | 10 | Happy Riseclear |
 | 490 | 10 | Gina Leal |
 | 491 | 10 | Crystal Owen Yocolano |
 | 492 | 10 | Spicy Snapclear |
-| 493 | 10 | Ashley Miller |
-| 494 | 10 | Debra Henry |
-| 495 | 10 | Cortney Coleman |
-| 496 | 10 | Leigh Wilkerson |
+| 493 | 10 | Brenda Zona |
+| 494 | 10 | Jennifer Bell |
+| 495 | 10 | Berta Hurley |
+| 496 | 10 | Debra Henry |
 | 497 | 10 | Naomi Jaynes |
-| 498 | 10 | Jennifer Bell |
+| 498 | 10 | Ashley Miller |
 | 499 | 10 | Becky Kennon |
-| 500 | 10 | Berta Hurley |
-| 501 | 10 | Beachmama |
-| 502 | 10 | Brenda Zona |
-| 503 | 9 | Tabitha Porter |
-| 504 | 9 | Michele Stewart |
-| 505 | 9 | Rhonda Driskill |
-| 506 | 9 | Kylee Pruitt |
-| 507 | 9 | Jazzy |
-| 508 | 9 | Armordguy |
-| 509 | 9 | Angelique Matzke Starns |
-| 510 | 9 | David Skelton |
-| 511 | 9 | Darla Ragsdale |
-| 512 | 9 | Teddy Williams |
-| 513 | 9 | April Wright |
-| 514 | 9 | Lindsey Butler |
-| 515 | 9 | Kristi K Milner |
-| 516 | 9 | Cary M. Fong |
-| 517 | 9 | Glowing Earthy Embers |
-| 518 | 9 | Rydin Dirt |
-| 519 | 9 | Giggly Spinblock |
-| 520 | 8 | Jackie Hayslip |
-| 521 | 8 | Amber Carpenter |
-| 522 | 8 | Jill Goff |
+| 500 | 10 | Beachmama |
+| 501 | 10 | Leigh Wilkerson |
+| 502 | 10 | Cortney Coleman |
+| 503 | 9 | Rhonda Driskill |
+| 504 | 9 | Kylee Pruitt |
+| 505 | 9 | David Skelton |
+| 506 | 9 | Teddy Williams |
+| 507 | 9 | Darla Ragsdale |
+| 508 | 9 | Tabitha Porter |
+| 509 | 9 | Jazzy |
+| 510 | 9 | Angelique Matzke Starns |
+| 511 | 9 | Glowing Earthy Embers |
+| 512 | 9 | Michele Stewart |
+| 513 | 9 | Armordguy |
+| 514 | 9 | Cary M. Fong |
+| 515 | 9 | Rydin Dirt |
+| 516 | 9 | Giggly Spinblock |
+| 517 | 9 | Kristi K Milner |
+| 518 | 9 | Lindsey Butler |
+| 519 | 9 | April Wright |
+| 520 | 8 | Witty Riser |
+| 521 | 8 | Jenna Thorn |
+| 522 | 8 | Amber Carpenter |
 | 523 | 8 | Crystal Robinson |
-| 524 | 8 | Alimae |
-| 525 | 8 | Gabrielle Wilson |
-| 526 | 8 | Joni Michelle Morgan |
-| 527 | 8 | Witty Riser |
-| 528 | 8 | Jenna Thorn |
-| 529 | 8 | Loony Ziggy |
-| 530 | 8 | Stephanie |
-| 531 | 8 | Terie Safrit |
-| 532 | 7 | Shane Peavey |
-| 533 | 7 | Nina-Christina Cusyck |
-| 534 | 7 | Lacie B |
-| 535 | 7 | Bouncy Cluster |
-| 536 | 7 | Mike Honcho |
-| 537 | 7 | Clever Balancefit |
-| 538 | 7 | Tina |
-| 539 | 7 | Flashy Cascadeclear |
-| 540 | 7 | michael |
-| 541 | 7 | Happy Curvebuilder |
-| 542 | 7 | Kelli Pazour |
-| 543 | 7 | Loopy Tower |
-| 544 | 7 | Sam Blinn |
-| 545 | 7 | Rae |
-| 546 | 7 | Elizabeth Elaine Coursey |
+| 524 | 8 | Joni Michelle Morgan |
+| 525 | 8 | Jackie Hayslip |
+| 526 | 8 | Gabrielle Wilson |
+| 527 | 8 | Stephanie |
+| 528 | 8 | Alimae |
+| 529 | 8 | Terie Safrit |
+| 530 | 8 | Jill Goff |
+| 531 | 8 | Loony Ziggy |
+| 532 | 7 | Sam Blinn |
+| 533 | 7 | michael |
+| 534 | 7 | Mike Honcho |
+| 535 | 7 | Nina-Christina Cusyck |
+| 536 | 7 | Happy Curvebuilder |
+| 537 | 7 | Bouncy Cluster |
+| 538 | 7 | Kelli Pazour |
+| 539 | 7 | Clever Balancefit |
+| 540 | 7 | Loopy Tower |
+| 541 | 7 | Rae |
+| 542 | 7 | Tina |
+| 543 | 7 | Shane Peavey |
+| 544 | 7 | Elizabeth Elaine Coursey |
+| 545 | 7 | Flashy Cascadeclear |
+| 546 | 7 | Lacie B |
 | 547 | 7 | Tashamonique Puckey |
-| 548 | 6 | Fran Gerebics |
-| 549 | 6 | Kelly Christine Trimmer |
-| 550 | 6 | Partin |
-| 551 | 6 | Debbie Embry |
+| 548 | 7 | Witty Clearbuilder |
+| 549 | 6 | Partin |
+| 550 | 6 | Emily |
+| 551 | 6 | Lavenda Nettles |
 | 552 | 6 | Shelby Wilson |
-| 553 | 6 | Lavenda Nettles |
+| 553 | 6 | Debbie Embry |
 | 554 | 6 | Cheeky Dashpiece |
-| 555 | 6 | Denise Morehart |
-| 556 | 6 | Fluffypuffin |
-| 557 | 6 | Emily |
-| 558 | 5 | Chirpy Towerer |
-| 559 | 5 | Slinky Glidezone |
-| 560 | 5 | Nolife |
-| 561 | 5 | Jennifer Mauler Schmidt |
-| 562 | 5 | Mercedes Lowery |
-| 563 | 5 | Pjrobinsonnn |
-| 564 | 5 | Momi Kamohai |
-| 565 | 5 | Deborah Fowler |
-| 566 | 5 | Agnes Gable |
-| 567 | 5 | Witty Clearbuilder |
-| 568 | 5 | Poppy Zonepiece |
-| 569 | 5 | Crafty Slice |
-| 570 | 5 | Nicole Hjelmen |
-| 571 | 5 | Charles E Mccardell |
+| 555 | 6 | Fluffypuffin |
+| 556 | 6 | Fran Gerebics |
+| 557 | 6 | Kelly Christine Trimmer |
+| 558 | 6 | Denise Morehart |
+| 559 | 5 | Chirpy Towerer |
+| 560 | 5 | Slinky Glidezone |
+| 561 | 5 | Charles E Mccardell |
+| 562 | 5 | Nicole Hjelmen |
+| 563 | 5 | Crafty Slice |
+| 564 | 5 | Poppy Zonepiece |
+| 565 | 5 | Agnes Gable |
+| 566 | 5 | Deborah Fowler |
+| 567 | 5 | Momi Kamohai |
+| 568 | 5 | Nolife |
+| 569 | 5 | Pjrobinsonnn |
+| 570 | 5 | Mercedes Lowery |
+| 571 | 5 | Jennifer Mauler Schmidt |
 
 ---
 *Standings created by tournaments datasource generation tool*
