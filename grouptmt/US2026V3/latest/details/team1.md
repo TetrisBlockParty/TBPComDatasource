@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:04:35 UTC
+# Standings for team1 as of 2026-06-05 17:05:14 UTC
 
 **Total Participants:** 321
 
@@ -28,17 +28,17 @@
 | 20 | 260 | Carolynne Walker-Bell |
 | 21 | 244 | Tammye Turner |
 | 22 | 241 | Ivana Schmidt |
-| 23 | 239 | Kellie Hall |
-| 24 | 238 | Holly Jolly |
-| 25 | 237 | Leebo Slice |
-| 26 | 234 | Pdubbl3 |
-| 27 | 223 | Ashley MyBeauty Daniels |
-| 28 | 220 | Rayya Kiser |
-| 29 | 215 | Abraham Espaillat |
-| 30 | 193 | Spicy Balancer |
-| 31 | 185 | Jennifer To |
-| 32 | 185 | COSA303 |
-| 33 | 180 | IamJust Neyamijah Washington Sr. |
+| 23 | 240 | IamJust Neyamijah Washington Sr. |
+| 24 | 239 | Kellie Hall |
+| 25 | 238 | Holly Jolly |
+| 26 | 237 | Leebo Slice |
+| 27 | 234 | Pdubbl3 |
+| 28 | 223 | Ashley MyBeauty Daniels |
+| 29 | 220 | Rayya Kiser |
+| 30 | 215 | Abraham Espaillat |
+| 31 | 193 | Spicy Balancer |
+| 32 | 185 | Jennifer To |
+| 33 | 185 | COSA303 |
 | 34 | 178 | Cassidy Butler |
 | 35 | 178 | Gotcha |
 | 36 | 177 | Chris Sladoje |
@@ -207,20 +207,20 @@
 | 199 | 21 | Sylvia Offically A Mcgowan |
 | 200 | 21 | Loopy Risepiece |
 | 201 | 21 | Shanjerrica Taylor Rosell |
-| 202 | 20 | Jai |
-| 203 | 20 | Trina Greenwood |
-| 204 | 20 | Dirty Deeds |
-| 205 | 20 | Kenneth Hefney |
-| 206 | 20 | Chevalier Burley |
-| 207 | 20 | Larina Cherie Johnson |
-| 208 | 20 | Epic Snapfall |
-| 209 | 20 | SnazzySnippet |
-| 210 | 20 | Nyhlah Patterson |
-| 211 | 20 | Dorian Griffin |
-| 212 | 20 | Devin West |
-| 213 | 19 | Amanda Woodruff |
-| 214 | 19 | Lozuna |
-| 215 | 19 | Witty Blockpiece |
+| 202 | 21 | Witty Blockpiece |
+| 203 | 20 | Jai |
+| 204 | 20 | Trina Greenwood |
+| 205 | 20 | Dirty Deeds |
+| 206 | 20 | Kenneth Hefney |
+| 207 | 20 | Chevalier Burley |
+| 208 | 20 | Larina Cherie Johnson |
+| 209 | 20 | Epic Snapfall |
+| 210 | 20 | SnazzySnippet |
+| 211 | 20 | Nyhlah Patterson |
+| 212 | 20 | Dorian Griffin |
+| 213 | 20 | Devin West |
+| 214 | 19 | Amanda Woodruff |
+| 215 | 19 | Lozuna |
 | 216 | 19 | Brenda Malachi-butler |
 | 217 | 19 | LAhoneybun82 |
 | 218 | 19 | Michele Simpson |
