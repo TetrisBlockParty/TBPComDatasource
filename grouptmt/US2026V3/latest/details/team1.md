@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 16:16:14 UTC
+# Standings for team1 as of 2026-06-05 16:16:35 UTC
 
 **Total Participants:** 285
 
@@ -31,14 +31,14 @@
 | 23 | 234 | Pdubbl3 |
 | 24 | 223 | Leebo Slice |
 | 25 | 220 | Rayya Kiser |
-| 26 | 195 | Ashley MyBeauty Daniels |
-| 27 | 185 | Jennifer To |
-| 28 | 180 | COSA303 |
-| 29 | 178 | Cassidy Butler |
-| 30 | 178 | Gotcha |
-| 31 | 177 | Chris Sladoje |
-| 32 | 173 | Spicy Balancer |
-| 33 | 169 | Abraham Espaillat |
+| 26 | 215 | Abraham Espaillat |
+| 27 | 195 | Ashley MyBeauty Daniels |
+| 28 | 185 | Jennifer To |
+| 29 | 180 | COSA303 |
+| 30 | 178 | Cassidy Butler |
+| 31 | 178 | Gotcha |
+| 32 | 177 | Chris Sladoje |
+| 33 | 173 | Spicy Balancer |
 | 34 | 165 | Davionte DaeDae Hopson-Rodriguez |
 | 35 | 162 | Markeeta Lipscomb |
 | 36 | 151 | Dacia Hicks |
