@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 21:22:38 UTC
+# Standings for team1 as of 2026-06-05 21:23:15 UTC
 
 **Total Participants:** 515
 
@@ -77,7 +77,7 @@
 | 69 | 130 | Emily Wright |
 | 70 | 127 | SPNLover24 |
 | 71 | 126 | Cee Emm |
-| 72 | 117 | Hasty Pivoty |
+| 72 | 118 | Hasty Pivoty |
 | 73 | 116 | Eartha Brown |
 | 74 | 115 | Tamara N Lee |
 | 75 | 113 | Po Marley |
@@ -199,75 +199,75 @@
 | 191 | 40 | HarleyJane |
 | 192 | 40 | Nutty Spinblock |
 | 193 | 40 | Tori Carter |
-| 194 | 39 | JesusSaves 😇 |
-| 195 | 39 | Lexx Robins |
-| 196 | 39 | Clever Wrecker |
-| 197 | 39 | Sabrina Wilkerson |
-| 198 | 39 | Jae Thompson-Tyus |
-| 199 | 38 | rls |
-| 200 | 38 | Raquel Ortiz |
-| 201 | 38 | hope |
-| 202 | 38 | Kahliah Baker |
-| 203 | 38 | Earl Williams |
-| 204 | 38 | Steve Reno |
+| 194 | 40 | BabyCakes |
+| 195 | 39 | JesusSaves 😇 |
+| 196 | 39 | Lexx Robins |
+| 197 | 39 | Jae Thompson-Tyus |
+| 198 | 39 | Clever Wrecker |
+| 199 | 39 | Sabrina Wilkerson |
+| 200 | 38 | rls |
+| 201 | 38 | Raquel Ortiz |
+| 202 | 38 | hope |
+| 203 | 38 | Kahliah Baker |
+| 204 | 38 | Earl Williams |
 | 205 | 38 | Tonya Thomas |
-| 206 | 37 | Calvin Green |
-| 207 | 37 | Jojo M |
-| 208 | 37 | Jackytrain52 |
-| 209 | 37 | Lootch |
-| 210 | 36 | Sunny Riserbuilder |
+| 206 | 38 | Steve Reno |
+| 207 | 37 | Calvin Green |
+| 208 | 37 | Lootch |
+| 209 | 37 | Jojo M |
+| 210 | 37 | Jackytrain52 |
 | 211 | 36 | Wild Out Nai |
-| 212 | 36 | Lynnette WheelerBushnell |
-| 213 | 35 | Wacky Stackbuilder |
-| 214 | 35 | messyboots |
-| 215 | 35 | Yashica Smith |
-| 216 | 35 | Glitzy Clusterer |
-| 217 | 35 | Jumpy Gridlock |
-| 218 | 35 | Saucy Crusher |
-| 219 | 35 | Sashaleo |
-| 220 | 35 | Jolly Tilefall |
-| 221 | 35 | HBTone |
-| 222 | 35 | Kimberly Red |
-| 223 | 34 | Breezy Catcher |
+| 212 | 36 | Sunny Riserbuilder |
+| 213 | 36 | Lynnette WheelerBushnell |
+| 214 | 35 | Jumpy Gridlock |
+| 215 | 35 | Glitzy Clusterer |
+| 216 | 35 | Yashica Smith |
+| 217 | 35 | messyboots |
+| 218 | 35 | Wacky Stackbuilder |
+| 219 | 35 | HBTone |
+| 220 | 35 | Saucy Crusher |
+| 221 | 35 | Kimberly Red |
+| 222 | 35 | Jolly Tilefall |
+| 223 | 35 | Sashaleo |
 | 224 | 34 | Elizabeth Hopkins |
-| 225 | 33 | Rene Hicks |
-| 226 | 33 | Richard Flex |
-| 227 | 33 | Tonny Williams |
-| 228 | 33 | Krose Byers |
+| 225 | 34 | Breezy Catcher |
+| 226 | 33 | Chris Nelson |
+| 227 | 33 | Mom3granny2 |
+| 228 | 33 | Tonny Williams |
 | 229 | 33 | Block King |
-| 230 | 33 | Chris Nelson |
-| 231 | 33 | Mom3granny2 |
-| 232 | 32 | Kimberly Hernandez |
-| 233 | 32 | Tomme Poliwka |
-| 234 | 32 | Maribel Vasquez |
-| 235 | 32 | Melvin Simpson |
-| 236 | 32 | BabyCakes |
-| 237 | 32 | Dee McCool |
-| 238 | 32 | Sylvia Offically A Mcgowan |
-| 239 | 32 | Tyrone Porter |
-| 240 | 31 | Anthony |
-| 241 | 31 | Boldy Pivoty |
-| 242 | 31 | Vannie G |
-| 243 | 31 | Miera Nicole |
-| 244 | 31 | The DUBZ |
-| 245 | 31 | Casey Chapman |
-| 246 | 30 | Kp |
+| 230 | 33 | Rene Hicks |
+| 231 | 33 | Krose Byers |
+| 232 | 33 | Richard Flex |
+| 233 | 32 | Maribel Vasquez |
+| 234 | 32 | Tomme Poliwka |
+| 235 | 32 | Tyrone Porter |
+| 236 | 32 | Dee McCool |
+| 237 | 32 | Sylvia Offically A Mcgowan |
+| 238 | 32 | Kimberly Hernandez |
+| 239 | 32 | Melvin Simpson |
+| 240 | 31 | Boldy Pivoty |
+| 241 | 31 | The DUBZ |
+| 242 | 31 | Casey Chapman |
+| 243 | 31 | Vannie G |
+| 244 | 31 | Miera Nicole |
+| 245 | 31 | Anthony |
+| 246 | 30 | Jaida De'Anne Cox |
 | 247 | 30 | Sarah Guarino |
-| 248 | 30 | Brittanie Wardlow |
-| 249 | 30 | Kashh |
-| 250 | 30 | Witty Blockpiece |
-| 251 | 30 | Lester Malone |
-| 252 | 30 | Jaida De'Anne Cox |
-| 253 | 30 | Jes Marie |
-| 254 | 30 | Saucy Faller |
-| 255 | 30 | Amy Villalpando |
-| 256 | 30 | Wayne Savannah |
-| 257 | 30 | Bouncy Glide |
-| 258 | 30 | SeanSanchez |
-| 259 | 30 | Ta'Kaiyah M. Spann |
-| 260 | 30 | Nobles Brandon |
-| 261 | 30 | Gabriela Hernandez |
-| 262 | 30 | Rhianna Dinki Austin |
+| 248 | 30 | Kp |
+| 249 | 30 | Witty Blockpiece |
+| 250 | 30 | Gabriela Hernandez |
+| 251 | 30 | Amy Villalpando |
+| 252 | 30 | Bouncy Glide |
+| 253 | 30 | SeanSanchez |
+| 254 | 30 | Ta'Kaiyah M. Spann |
+| 255 | 30 | Nobles Brandon |
+| 256 | 30 | Rhianna Dinki Austin |
+| 257 | 30 | Kashh |
+| 258 | 30 | Wayne Savannah |
+| 259 | 30 | Brittanie Wardlow |
+| 260 | 30 | Lester Malone |
+| 261 | 30 | Saucy Faller |
+| 262 | 30 | Jes Marie |
 | 263 | 29 | LAhoneybun82 |
 | 264 | 29 | Jenni Hardman |
 | 265 | 28 | Will Stanton |
@@ -491,36 +491,36 @@
 | 483 | 6 | Wacky Towerer |
 | 484 | 6 | Allison Baxter |
 | 485 | 6 | Gael Quintana |
-| 486 | 6 | Brittnay Wright |
-| 487 | 6 | Frances Davis |
-| 488 | 6 | NEM0228 |
-| 489 | 6 | Betsy B. Yohan |
-| 490 | 6 | Christopher Wallace |
-| 491 | 6 | Wu May |
-| 492 | 5 | Temeshia Brooks Washington |
-| 493 | 5 | KeeKee Williams |
-| 494 | 5 | Saucy Linkgrid |
-| 495 | 5 | Stephanie Zuniga Tullock |
-| 496 | 5 | Derek Beverly |
+| 486 | 6 | Wu May |
+| 487 | 6 | Christopher Wallace |
+| 488 | 6 | Betsy B. Yohan |
+| 489 | 6 | Brittnay Wright |
+| 490 | 6 | NEM0228 |
+| 491 | 6 | Frances Davis |
+| 492 | 5 | Saucy Linkgrid |
+| 493 | 5 | Jennifer Moore |
+| 494 | 5 | Kidgib5 |
+| 495 | 5 | Lil T |
+| 496 | 5 | DirtiestofMikes |
 | 497 | 5 | Rieshelda Marie White |
-| 498 | 5 | Lil T |
-| 499 | 5 | DirtiestofMikes |
-| 500 | 5 | Kidgib5 |
-| 501 | 5 | Jennifer Moore |
-| 502 | 5 | Tito Divyn |
-| 503 | 5 | Shawn Himes |
-| 504 | 5 | Chill Linkroll |
+| 498 | 5 | Derek Beverly |
+| 499 | 5 | Shawn Himes |
+| 500 | 5 | KeeKee Williams |
+| 501 | 5 | Temeshia Brooks Washington |
+| 502 | 5 | Stephanie Zuniga Tullock |
+| 503 | 5 | Vernon Hoyt |
+| 504 | 5 | Tito Divyn |
 | 505 | 5 | Tamika Fisher |
 | 506 | 5 | Zappy Clearfit |
 | 507 | 5 | Kelvin Cook |
 | 508 | 5 | Logan Frost |
 | 509 | 5 | Andre Sanon |
-| 510 | 5 | pooh |
-| 511 | 5 | Vernon Hoyt |
-| 512 | 5 | the guy |
+| 510 | 5 | Barbramerri Tarboro |
+| 511 | 5 | pooh |
+| 512 | 5 | Jjhandsome |
 | 513 | 5 | Shakuria Cortia Burney |
-| 514 | 5 | Jjhandsome |
-| 515 | 5 | Barbramerri Tarboro |
+| 514 | 5 | the guy |
+| 515 | 5 | Chill Linkroll |
 
 ---
 *Standings created by tournaments datasource generation tool*
