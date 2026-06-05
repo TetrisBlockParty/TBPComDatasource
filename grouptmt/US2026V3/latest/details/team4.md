@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 20:52:16 UTC
+# Standings for team4 as of 2026-06-05 20:52:36 UTC
 
 **Total Participants:** 441
 
@@ -10,7 +10,7 @@
 | 2 | 3600 | Candice Driver |
 | 3 | 3150 | Destiny Dyer |
 | 4 | 2775 | Jerald Jones |
-| 5 | 2425 | Lyza |
+| 5 | 2435 | Lyza |
 | 6 | 1853 | Daring Ziggy |
 | 7 | 1657 | delilahbelle |
 | 8 | 1169 | Cinny |
@@ -28,9 +28,9 @@
 | 20 | 389 | Ning Quiambao |
 | 21 | 383 | Crissy Hoffman |
 | 22 | 379 | Snippy Grid |
-| 23 | 360 | Chaz Duncan |
-| 24 | 346 | Alexis Cor |
-| 25 | 334 | Kayla Fuentes |
+| 23 | 364 | Kayla Fuentes |
+| 24 | 360 | Chaz Duncan |
+| 25 | 346 | Alexis Cor |
 | 26 | 331 | Caitlyn Wang |
 | 27 | 324 | Heather Preston |
 | 28 | 318 | Nia Mayfield |

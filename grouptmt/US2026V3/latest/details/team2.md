@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 20:52:16 UTC
+# Standings for team2 as of 2026-06-05 20:52:36 UTC
 
 **Total Participants:** 528
 
@@ -72,18 +72,18 @@
 | 64 | 166 | Nathan Walker |
 | 65 | 165 | Ackerman 85 |
 | 66 | 162 | Renee Weedling |
-| 67 | 159 | Michelle Rich Burkhart |
-| 68 | 159 | Marquetta Johnson |
-| 69 | 158 | Nettrainer |
-| 70 | 158 | Amy Nicole McCanne |
-| 71 | 153 | Helen Thomas |
-| 72 | 150 | Cara Rivera |
-| 73 | 145 | Brandy Chinelle |
+| 67 | 160 | Dsabrina Maxey |
+| 68 | 159 | Michelle Rich Burkhart |
+| 69 | 159 | Marquetta Johnson |
+| 70 | 158 | Nettrainer |
+| 71 | 158 | Amy Nicole McCanne |
+| 72 | 153 | Helen Thomas |
+| 73 | 150 | Cara Rivera |
 | 74 | 145 | Judy Long |
-| 75 | 145 | Dsabrina Maxey |
+| 75 | 145 | Brandy Chinelle |
 | 76 | 141 | Melisa |
-| 77 | 140 | Iesha Cupil |
-| 78 | 140 | marsam |
+| 77 | 140 | marsam |
+| 78 | 140 | Iesha Cupil |
 | 79 | 140 | Billie Jensen |
 | 80 | 140 | Curly Windbreaker |
 | 81 | 138 | NickandJess Reynolds |
@@ -447,93 +447,93 @@
 | 439 | 10 | Lacey Johnson |
 | 440 | 10 | Spicy Snapclear |
 | 441 | 10 | Ollie |
-| 442 | 10 | Ashley Miller |
-| 443 | 10 | Beachmama |
-| 444 | 10 | Angie Rose |
-| 445 | 10 | Crystal Owen Yocolano |
-| 446 | 10 | Gina Leal |
-| 447 | 10 | Naomi Jaynes |
-| 448 | 10 | Becky Kennon |
-| 449 | 10 | Carlos J Blas |
-| 450 | 10 | Elnaz Mokleh |
-| 451 | 10 | Jennifer Bell |
-| 452 | 10 | Happy Riseclear |
-| 453 | 10 | Tito Garcia |
-| 454 | 10 | Audrey Wood |
-| 455 | 10 | Saucy Wrecker |
-| 456 | 10 | Justin Furne |
-| 457 | 10 | Amanda Fields |
-| 458 | 10 | bigdog |
-| 459 | 10 | Perky Linebuilder |
-| 460 | 10 | Leigh Wilkerson |
-| 461 | 10 | Twisty Snapclear |
-| 462 | 10 | Aubrey Gates |
-| 463 | 10 | Jennifer Chapel |
-| 464 | 10 | Miggy Gonzalez |
-| 465 | 10 | Brenda Zona |
-| 466 | 10 | TyShantelle |
-| 467 | 10 | Donna Casey |
-| 468 | 10 | Laura Turner |
-| 469 | 10 | Berta Hurley |
-| 470 | 9 | Lindsey Butler |
-| 471 | 9 | Jazzy |
-| 472 | 9 | Michele Stewart |
-| 473 | 9 | Angelique Matzke Starns |
-| 474 | 9 | Tabitha Porter |
-| 475 | 9 | David Skelton |
-| 476 | 9 | April Wright |
-| 477 | 9 | Armordguy |
-| 478 | 9 | Rhonda Driskill |
-| 479 | 9 | Cary M. Fong |
-| 480 | 9 | Giggly Spinblock |
-| 481 | 9 | Kristi K Milner |
-| 482 | 9 | Sillyk |
-| 483 | 9 | Darla Ragsdale |
-| 484 | 9 | Kylee Pruitt |
-| 485 | 8 | Stephanie |
-| 486 | 8 | Witty Riser |
-| 487 | 8 | Jenna Thorn |
+| 442 | 10 | Gina Leal |
+| 443 | 10 | Amanda Fields |
+| 444 | 10 | Justin Furne |
+| 445 | 10 | Saucy Wrecker |
+| 446 | 10 | Perky Linebuilder |
+| 447 | 10 | Elnaz Mokleh |
+| 448 | 10 | Audrey Wood |
+| 449 | 10 | Tito Garcia |
+| 450 | 10 | Jennifer Bell |
+| 451 | 10 | Happy Riseclear |
+| 452 | 10 | Crystal Owen Yocolano |
+| 453 | 10 | Carlos J Blas |
+| 454 | 10 | Angie Rose |
+| 455 | 10 | Twisty Snapclear |
+| 456 | 10 | Becky Kennon |
+| 457 | 10 | Beachmama |
+| 458 | 10 | Naomi Jaynes |
+| 459 | 10 | Laura Turner |
+| 460 | 10 | bigdog |
+| 461 | 10 | Donna Casey |
+| 462 | 10 | Jennifer Chapel |
+| 463 | 10 | TyShantelle |
+| 464 | 10 | Aubrey Gates |
+| 465 | 10 | Miggy Gonzalez |
+| 466 | 10 | Brenda Zona |
+| 467 | 10 | Leigh Wilkerson |
+| 468 | 10 | Berta Hurley |
+| 469 | 10 | Ashley Miller |
+| 470 | 9 | April Wright |
+| 471 | 9 | Cary M. Fong |
+| 472 | 9 | Kylee Pruitt |
+| 473 | 9 | Armordguy |
+| 474 | 9 | Lindsey Butler |
+| 475 | 9 | Tabitha Porter |
+| 476 | 9 | Michele Stewart |
+| 477 | 9 | David Skelton |
+| 478 | 9 | Angelique Matzke Starns |
+| 479 | 9 | Giggly Spinblock |
+| 480 | 9 | Rhonda Driskill |
+| 481 | 9 | Darla Ragsdale |
+| 482 | 9 | Jazzy |
+| 483 | 9 | Kristi K Milner |
+| 484 | 9 | Sillyk |
+| 485 | 8 | Jenna Thorn |
+| 486 | 8 | Amber Carpenter |
+| 487 | 8 | Crystal Robinson |
 | 488 | 8 | Alimae |
-| 489 | 8 | Jackie Hayslip |
-| 490 | 8 | Gabrielle Wilson |
-| 491 | 8 | Terie Safrit |
-| 492 | 8 | Crystal Robinson |
-| 493 | 8 | Amber Carpenter |
-| 494 | 8 | Loony Ziggy |
+| 489 | 8 | Stephanie |
+| 490 | 8 | Loony Ziggy |
+| 491 | 8 | Gabrielle Wilson |
+| 492 | 8 | Jackie Hayslip |
+| 493 | 8 | Witty Riser |
+| 494 | 8 | Terie Safrit |
 | 495 | 8 | Jill Goff |
-| 496 | 7 | Tashamonique Puckey |
-| 497 | 7 | Elizabeth Elaine Coursey |
-| 498 | 7 | Sam Blinn |
-| 499 | 7 | Nina-Christina Cusyck |
-| 500 | 7 | Tina |
-| 501 | 7 | Rae |
-| 502 | 7 | Mike Honcho |
-| 503 | 7 | Shane Peavey |
-| 504 | 7 | Flashy Cascadeclear |
-| 505 | 7 | Lacie B |
-| 506 | 7 | Kelli Pazour |
-| 507 | 7 | michael |
-| 508 | 7 | Loopy Tower |
-| 509 | 7 | Happy Curvebuilder |
-| 510 | 6 | Emily |
-| 511 | 6 | Partin |
-| 512 | 6 | Fran Gerebics |
-| 513 | 6 | Shelby Wilson |
-| 514 | 6 | Kelly Christine Trimmer |
-| 515 | 6 | Cheeky Dashpiece |
-| 516 | 6 | Fluffypuffin |
-| 517 | 6 | Denise Morehart |
-| 518 | 6 | Lavenda Nettles |
-| 519 | 5 | Pjrobinsonnn |
-| 520 | 5 | Joni Michelle Morgan |
-| 521 | 5 | Poppy Zonepiece |
+| 496 | 7 | michael |
+| 497 | 7 | Happy Curvebuilder |
+| 498 | 7 | Flashy Cascadeclear |
+| 499 | 7 | Rae |
+| 500 | 7 | Kelli Pazour |
+| 501 | 7 | Loopy Tower |
+| 502 | 7 | Elizabeth Elaine Coursey |
+| 503 | 7 | Nina-Christina Cusyck |
+| 504 | 7 | Shane Peavey |
+| 505 | 7 | Tashamonique Puckey |
+| 506 | 7 | Lacie B |
+| 507 | 7 | Tina |
+| 508 | 7 | Mike Honcho |
+| 509 | 7 | Sam Blinn |
+| 510 | 6 | Cheeky Dashpiece |
+| 511 | 6 | Emily |
+| 512 | 6 | Lavenda Nettles |
+| 513 | 6 | Partin |
+| 514 | 6 | Fran Gerebics |
+| 515 | 6 | Shelby Wilson |
+| 516 | 6 | Kelly Christine Trimmer |
+| 517 | 6 | Fluffypuffin |
+| 518 | 6 | Denise Morehart |
+| 519 | 5 | Crafty Slice |
+| 520 | 5 | Slinky Glidezone |
+| 521 | 5 | Agnes Gable |
 | 522 | 5 | Nicole Hjelmen |
 | 523 | 5 | Chirpy Towerer |
-| 524 | 5 | Crafty Slice |
-| 525 | 5 | Slinky Glidezone |
-| 526 | 5 | Mercedes Lowery |
-| 527 | 5 | Agnes Gable |
-| 528 | 5 | Momi Kamohai |
+| 524 | 5 | Pjrobinsonnn |
+| 525 | 5 | Poppy Zonepiece |
+| 526 | 5 | Momi Kamohai |
+| 527 | 5 | Mercedes Lowery |
+| 528 | 5 | Joni Michelle Morgan |
 
 ---
 *Standings created by tournaments datasource generation tool*
