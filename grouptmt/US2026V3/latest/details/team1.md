@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 21:46:14 UTC
+# Standings for team1 as of 2026-06-05 21:46:37 UTC
 
 **Total Participants:** 523
 
@@ -107,16 +107,16 @@
 | 99 | 86 | Jack Vlasak |
 | 100 | 84 | Ciera Peace |
 | 101 | 84 | Franklin Sotelo |
-| 102 | 82 | Poppy Buildout |
-| 103 | 81 | Mafio SO |
-| 104 | 80 | Jazzy Dashpiece |
-| 105 | 80 | Chevalier Burley |
-| 106 | 80 | Carolyn Smith |
-| 107 | 80 | Rachel Zimmerman |
-| 108 | 80 | Charles Johnson |
-| 109 | 80 | Felicia Williams |
-| 110 | 79 | Shanell Thomas |
-| 111 | 77 | Amber Wilson |
+| 102 | 84 | Amber Wilson |
+| 103 | 82 | Poppy Buildout |
+| 104 | 81 | Mafio SO |
+| 105 | 80 | Rachel Zimmerman |
+| 106 | 80 | Felicia Williams |
+| 107 | 80 | Charles Johnson |
+| 108 | 80 | Carolyn Smith |
+| 109 | 80 | Chevalier Burley |
+| 110 | 80 | Jazzy Dashpiece |
+| 111 | 79 | Shanell Thomas |
 | 112 | 76 | Giggly Shatterline |
 | 113 | 76 | Mic Balew |
 | 114 | 75 | Dizzy Dashy |
@@ -471,24 +471,24 @@
 | 463 | 8 | Rixo Blax |
 | 464 | 8 | Ferocity |
 | 465 | 8 | Tanesha Ga'sFinest Corbett |
-| 466 | 8 | Cm |
-| 467 | 8 | Mahagony Small |
-| 468 | 8 | jus_ry |
+| 466 | 8 | jus_ry |
+| 467 | 8 | Cm |
+| 468 | 8 | Mahagony Small |
 | 469 | 8 | Caitlin Michele |
-| 470 | 8 | Nerdy Twistline |
-| 471 | 8 | Teresa Bean |
-| 472 | 8 | Terrie |
-| 473 | 8 | Brenda Brogden |
+| 470 | 8 | Brenda Brogden |
+| 471 | 8 | Nerdy Twistline |
+| 472 | 8 | Teresa Bean |
+| 473 | 8 | Terrie |
 | 474 | 8 | Brika Brika |
-| 475 | 8 | Shawna Passwater |
-| 476 | 8 | Ashley Davis |
-| 477 | 7 | Analesia Taylor |
+| 475 | 8 | Ashley Davis |
+| 476 | 8 | Shawna Passwater |
+| 477 | 7 | Kendra McIntyre |
 | 478 | 7 | Andrew Harris |
-| 479 | 7 | Kendra McIntyre |
-| 480 | 7 | Mary2 |
-| 481 | 7 | Shane Brucewayne |
-| 482 | 7 | wmedina67 |
-| 483 | 7 | whatever |
+| 479 | 7 | Analesia Taylor |
+| 480 | 7 | Shane Brucewayne |
+| 481 | 7 | wmedina67 |
+| 482 | 7 | whatever |
+| 483 | 7 | Mary2 |
 | 484 | 6 | Betsy B. Yohan |
 | 485 | 6 | Jelyfish |
 | 486 | 6 | Boricua64 |
@@ -507,12 +507,12 @@
 | 499 | 5 | Rieshelda Marie White |
 | 500 | 5 | Saucy Linkgrid |
 | 501 | 5 | KeeKee Williams |
-| 502 | 5 | Temeshia Brooks Washington |
-| 503 | 5 | Stephanie Zuniga Tullock |
-| 504 | 5 | Vernon Hoyt |
-| 505 | 5 | Barbramerri Tarboro |
-| 506 | 5 | pooh |
-| 507 | 5 | Jjhandsome |
+| 502 | 5 | Stephanie Zuniga Tullock |
+| 503 | 5 | Vernon Hoyt |
+| 504 | 5 | Temeshia Brooks Washington |
+| 505 | 5 | pooh |
+| 506 | 5 | Jjhandsome |
+| 507 | 5 | Jasmine Hariston-Estis |
 | 508 | 5 | DirtiestofMikes |
 | 509 | 5 | Derek Beverly |
 | 510 | 5 | Lil T |
@@ -520,15 +520,15 @@
 | 512 | 5 | Jennifer Moore |
 | 513 | 5 | Chill Linkroll |
 | 514 | 5 | the guy |
-| 515 | 5 | Shakuria Cortia Burney |
-| 516 | 5 | Mommy Frank |
-| 517 | 5 | Tito Divyn |
-| 518 | 5 | Shawn Himes |
-| 519 | 5 | Tamika Fisher |
-| 520 | 5 | Zappy Clearfit |
-| 521 | 5 | Logan Frost |
-| 522 | 5 | Andre Sanon |
-| 523 | 5 | Jasmine Hariston-Estis |
+| 515 | 5 | Mommy Frank |
+| 516 | 5 | Barbramerri Tarboro |
+| 517 | 5 | Andre Sanon |
+| 518 | 5 | Logan Frost |
+| 519 | 5 | Zappy Clearfit |
+| 520 | 5 | Tamika Fisher |
+| 521 | 5 | Shawn Himes |
+| 522 | 5 | Tito Divyn |
+| 523 | 5 | Shakuria Cortia Burney |
 
 ---
 *Standings created by tournaments datasource generation tool*

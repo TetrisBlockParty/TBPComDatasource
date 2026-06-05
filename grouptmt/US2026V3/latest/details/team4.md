@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 21:46:14 UTC
+# Standings for team4 as of 2026-06-05 21:46:37 UTC
 
 **Total Participants:** 480
 
@@ -15,24 +15,24 @@
 | 7 | 1853 | Daring Ziggy |
 | 8 | 1703 | delilahbelle |
 | 9 | 1169 | Cinny |
-| 10 | 906 | Fruitpunch |
-| 11 | 876 | SMV |
-| 12 | 862 | Irene Arreguin |
+| 10 | 1019 | Irene Arreguin |
+| 11 | 906 | Fruitpunch |
+| 12 | 876 | SMV |
 | 13 | 734 | Lisa Cullum |
 | 14 | 700 | Carly Stempien |
-| 15 | 600 | Caitlin Johnson |
-| 16 | 560 | Kathy Brookins |
+| 15 | 640 | Kathy Brookins |
+| 16 | 600 | Caitlin Johnson |
 | 17 | 559 | Lynn Grimes |
 | 18 | 549 | Nia Mayfield |
-| 19 | 494 | Blind Bette |
-| 20 | 477 | Malik Thompson |
-| 21 | 474 | Jeremy Lopez |
-| 22 | 466 | Krysten Danielle Richard |
-| 23 | 465 | Fancy Crasher |
-| 24 | 417 | Kayla Fuentes |
-| 25 | 392 | Blayne Kole |
-| 26 | 389 | Ning Quiambao |
-| 27 | 384 | ktothet |
+| 19 | 532 | ktothet |
+| 20 | 494 | Blind Bette |
+| 21 | 477 | Malik Thompson |
+| 22 | 474 | Jeremy Lopez |
+| 23 | 466 | Krysten Danielle Richard |
+| 24 | 465 | Fancy Crasher |
+| 25 | 417 | Kayla Fuentes |
+| 26 | 392 | Blayne Kole |
+| 27 | 389 | Ning Quiambao |
 | 28 | 383 | Crissy Hoffman |
 | 29 | 379 | Snippy Grid |
 | 30 | 360 | Chaz Duncan |
