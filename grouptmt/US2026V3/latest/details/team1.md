@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:47:14 UTC
+# Standings for team1 as of 2026-06-05 17:48:13 UTC
 
 **Total Participants:** 353
 
@@ -318,47 +318,47 @@
 | 310 | 8 | Rixo Blax |
 | 311 | 8 | Brika Brika |
 | 312 | 8 | Jessie N Michael Silvers |
-| 313 | 8 | Brenda Brogden |
+| 313 | 8 | Breezy Catcher |
 | 314 | 8 | Tanesha Ga'sFinest Corbett |
-| 315 | 8 | Breezy Catcher |
+| 315 | 8 | Ashley Davis |
 | 316 | 8 | Caitlin Michele |
 | 317 | 8 | Taz Ballard |
-| 318 | 8 | Ashley Davis |
-| 319 | 8 | Cm |
-| 320 | 7 | Andra Ward |
-| 321 | 7 | Mary2 |
-| 322 | 7 | Shane Brucewayne |
-| 323 | 7 | Kendra McIntyre |
-| 324 | 7 | Lillie Blossom Dixon |
-| 325 | 7 | whatever |
+| 318 | 8 | Cm |
+| 319 | 8 | Brenda Brogden |
+| 320 | 7 | Shane Brucewayne |
+| 321 | 7 | wmedina67 |
+| 322 | 7 | Kendra McIntyre |
+| 323 | 7 | Andra Ward |
+| 324 | 7 | Mary2 |
+| 325 | 7 | Lillie Blossom Dixon |
 | 326 | 7 | Andrew Harris |
-| 327 | 7 | wmedina67 |
-| 328 | 6 | Jelyfish |
-| 329 | 6 | Gael Quintana |
+| 327 | 7 | whatever |
+| 328 | 6 | Janine Hunter |
+| 329 | 6 | Cece Fowler |
 | 330 | 6 | Jeffrey Barrows |
-| 331 | 6 | NEM0228 |
-| 332 | 6 | Frances Davis |
-| 333 | 6 | Cece Fowler |
+| 331 | 6 | Christopher Wallace |
+| 332 | 6 | Allison Baxter |
+| 333 | 6 | Jelyfish |
 | 334 | 6 | Brittnay Wright |
-| 335 | 6 | Allison Baxter |
-| 336 | 6 | Christopher Wallace |
-| 337 | 6 | Janine Hunter |
+| 335 | 6 | Gael Quintana |
+| 336 | 6 | NEM0228 |
+| 337 | 6 | Frances Davis |
 | 338 | 5 | Andre Sanon |
-| 339 | 5 | KeeKee Williams |
-| 340 | 5 | Stephanie Zuniga Tullock |
-| 341 | 5 | Temeshia Brooks Washington |
-| 342 | 5 | Jjhandsome |
-| 343 | 5 | Derek Beverly |
-| 344 | 5 | Lil T |
-| 345 | 5 | Vernon Hoyt |
-| 346 | 5 | Shawn Himes |
-| 347 | 5 | Tamika Fisher |
-| 348 | 5 | DirtiestofMikes |
-| 349 | 5 | Zappy Clearfit |
-| 350 | 5 | Kidgib5 |
-| 351 | 5 | Jennifer Moore |
-| 352 | 5 | Barbramerri Tarboro |
-| 353 | 5 | pooh |
+| 339 | 5 | Stephanie Zuniga Tullock |
+| 340 | 5 | Temeshia Brooks Washington |
+| 341 | 5 | Barbramerri Tarboro |
+| 342 | 5 | KeeKee Williams |
+| 343 | 5 | Vernon Hoyt |
+| 344 | 5 | Jjhandsome |
+| 345 | 5 | pooh |
+| 346 | 5 | Jennifer Moore |
+| 347 | 5 | Kidgib5 |
+| 348 | 5 | Zappy Clearfit |
+| 349 | 5 | DirtiestofMikes |
+| 350 | 5 | Tamika Fisher |
+| 351 | 5 | Shawn Himes |
+| 352 | 5 | Lil T |
+| 353 | 5 | Derek Beverly |
 
 ---
 *Standings created by tournaments datasource generation tool*
