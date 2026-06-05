@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 23:16:35 UTC
+# Standings for team1 as of 2026-06-05 23:17:15 UTC
 
 **Total Participants:** 587
 
@@ -27,10 +27,10 @@
 | 19 | 576 | Ashley Espeut |
 | 20 | 550 | Brian Stackhouse |
 | 21 | 540 | Kellie Hall |
-| 22 | 505 | Jennifer To |
-| 23 | 485 | Whitney Butler |
-| 24 | 482 | Cj Gorman |
-| 25 | 463 | Sha Harris |
+| 22 | 513 | Sha Harris |
+| 23 | 505 | Jennifer To |
+| 24 | 485 | Whitney Butler |
+| 25 | 482 | Cj Gorman |
 | 26 | 438 | Ryan Meilleur |
 | 27 | 431 | Hunter Rayborn |
 | 28 | 411 | Ivana Schmidt |
@@ -42,8 +42,8 @@
 | 34 | 319 | Shell Lewis |
 | 35 | 280 | Bre Maugh |
 | 36 | 280 | IamJust Neyamijah Washington Sr. |
-| 37 | 260 | Carolynne Walker-Bell |
-| 38 | 260 | John Staub |
+| 37 | 260 | John Staub |
+| 38 | 260 | Carolynne Walker-Bell |
 | 39 | 252 | Pdubbl3 |
 | 40 | 249 | Ashley MyBeauty Daniels |
 | 41 | 248 | Debbie Carswell |
@@ -60,7 +60,7 @@
 | 52 | 206 | Tiana Moore |
 | 53 | 197 | Spicy Balancer |
 | 54 | 196 | COSA303 |
-| 55 | 191 | Blockhead |
+| 55 | 193 | Blockhead |
 | 56 | 189 | Gotcha |
 | 57 | 185 | Teddy Davis |
 | 58 | 184 | Voice |
@@ -192,56 +192,56 @@
 | 184 | 50 | Skippy |
 | 185 | 50 | Yazz |
 | 186 | 49 | LexiiSamayaa |
-| 187 | 48 | Sonia Binti Mfalme |
+| 187 | 48 | Comedian Prince Paul |
 | 188 | 48 | Sunny Clicky |
-| 189 | 48 | Comedian Prince Paul |
+| 189 | 48 | Sonia Binti Mfalme |
 | 190 | 48 | BYM4L |
-| 191 | 47 | Terrie |
-| 192 | 47 | Christopher Dreamsareality McEachin |
+| 191 | 47 | Cece Fowler |
+| 192 | 47 | Poppy Twister |
 | 193 | 47 | Derrius SeriousLee Burks |
-| 194 | 47 | Cece Fowler |
-| 195 | 47 | Poppy Twister |
+| 194 | 47 | Terrie |
+| 195 | 47 | Christopher Dreamsareality McEachin |
 | 196 | 46 | Kimberly Hernandez |
 | 197 | 46 | David A Alvino |
-| 198 | 45 | Renee J. Thomas |
-| 199 | 45 | Slinky Clearzone |
-| 200 | 45 | Marlainia Boyd |
-| 201 | 45 | Tishauna Virgo |
+| 198 | 45 | Tishauna Virgo |
+| 199 | 45 | Marlainia Boyd |
+| 200 | 45 | Slinky Clearzone |
+| 201 | 45 | Daris Swearington |
 | 202 | 45 | Guy Incognito |
-| 203 | 45 | Daris Swearington |
+| 203 | 45 | Renee J. Thomas |
 | 204 | 44 | Andi McGreevy |
-| 205 | 43 | IThinkNot |
-| 206 | 43 | Byron Mario Cawthon |
+| 205 | 43 | Brittany Fells |
+| 206 | 43 | Rachel Renae Bettis |
 | 207 | 43 | Brenda Malachi-butler |
-| 208 | 43 | Block |
-| 209 | 43 | Brittany Fells |
-| 210 | 43 | Rachel Renae Bettis |
+| 208 | 43 | IThinkNot |
+| 209 | 43 | Byron Mario Cawthon |
+| 210 | 43 | Block |
 | 211 | 42 | Dandy Brickfit |
 | 212 | 42 | sasha |
 | 213 | 41 | Slinky Brickmatch |
-| 214 | 41 | Cranky Fall |
-| 215 | 40 | Larina Cherie Johnson |
-| 216 | 40 | Jean Regis |
-| 217 | 40 | Wild Out Nai |
-| 218 | 40 | Leavon Smith |
-| 219 | 40 | Kamilya Rembert |
-| 220 | 40 | Tori Carter |
-| 221 | 40 | Nisha Sunshine Jenkins |
-| 222 | 40 | Rackemwillie34 |
-| 223 | 40 | HarleyJane |
-| 224 | 40 | Nutty Spinblock |
-| 225 | 40 | Flashy Slam |
-| 226 | 40 | Devin West |
-| 227 | 40 | Heather Aurelia |
-| 228 | 39 | Lynnette WheelerBushnell |
-| 229 | 39 | Elizabeth Green |
-| 230 | 39 | Jae Thompson-Tyus |
-| 231 | 39 | JesusSaves 😇 |
-| 232 | 39 | Sabrina Wilkerson |
-| 233 | 39 | Lexx Robins |
-| 234 | 38 | Tonya Thomas |
-| 235 | 38 | Kahliah Baker |
-| 236 | 38 | Frothy Zoney |
+| 214 | 41 | Frothy Zoney |
+| 215 | 41 | Cranky Fall |
+| 216 | 40 | Wild Out Nai |
+| 217 | 40 | Leavon Smith |
+| 218 | 40 | Jean Regis |
+| 219 | 40 | Larina Cherie Johnson |
+| 220 | 40 | Kamilya Rembert |
+| 221 | 40 | Tori Carter |
+| 222 | 40 | Nisha Sunshine Jenkins |
+| 223 | 40 | Rackemwillie34 |
+| 224 | 40 | HarleyJane |
+| 225 | 40 | Nutty Spinblock |
+| 226 | 40 | Flashy Slam |
+| 227 | 40 | Devin West |
+| 228 | 40 | Heather Aurelia |
+| 229 | 39 | JesusSaves 😇 |
+| 230 | 39 | Elizabeth Green |
+| 231 | 39 | Jae Thompson-Tyus |
+| 232 | 39 | Lynnette WheelerBushnell |
+| 233 | 39 | Sabrina Wilkerson |
+| 234 | 39 | Lexx Robins |
+| 235 | 38 | Tonya Thomas |
+| 236 | 38 | Kahliah Baker |
 | 237 | 38 | hope |
 | 238 | 38 | Kayel Good |
 | 239 | 38 | Raquel Ortiz |
@@ -582,17 +582,17 @@
 | 574 | 5 | Chill Linkroll |
 | 575 | 5 | Kidgib5 |
 | 576 | 5 | Jennifer Moore |
-| 577 | 5 | the guy |
-| 578 | 5 | Shakuria Cortia Burney |
-| 579 | 5 | Mommy Frank |
-| 580 | 5 | Tito Divyn |
-| 581 | 5 | Shawn Himes |
-| 582 | 5 | Tamika Fisher |
+| 577 | 5 | Shakuria Cortia Burney |
+| 578 | 5 | the guy |
+| 579 | 5 | Barbramerri Tarboro |
+| 580 | 5 | Andre Sanon |
+| 581 | 5 | Logan Frost |
+| 582 | 5 | Duckey |
 | 583 | 5 | Zappy Clearfit |
-| 584 | 5 | Duckey |
-| 585 | 5 | Logan Frost |
-| 586 | 5 | Andre Sanon |
-| 587 | 5 | Barbramerri Tarboro |
+| 584 | 5 | Tamika Fisher |
+| 585 | 5 | Shawn Himes |
+| 586 | 5 | Tito Divyn |
+| 587 | 5 | Mommy Frank |
 
 ---
 *Standings created by tournaments datasource generation tool*
