@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 17:20:13 UTC
+# Standings for team2 as of 2026-06-05 17:20:34 UTC
 
 **Total Participants:** 337
 
@@ -217,46 +217,46 @@
 | 209 | 20 | Chesney |
 | 210 | 20 | Reign Hustler |
 | 211 | 20 | Raffa |
-| 212 | 20 | Bigbb |
-| 213 | 20 | Dana Wilson |
-| 214 | 20 | Wendy McKee |
+| 212 | 20 | Wendy McKee |
+| 213 | 20 | Bigbb |
+| 214 | 20 | Dana Wilson |
 | 215 | 20 | phamous1 |
-| 216 | 19 | Jackie Tupper |
+| 216 | 19 | Avie Lou |
 | 217 | 19 | Quirky Piecegrid |
-| 218 | 19 | Avie Lou |
-| 219 | 19 | YldBoar |
-| 220 | 18 | Tracey Cox |
-| 221 | 18 | Connie Breeden |
-| 222 | 18 | TNGal |
-| 223 | 18 | Billy Pittman |
-| 224 | 18 | Twisty Matchfit |
+| 218 | 19 | YldBoar |
+| 219 | 19 | Jackie Tupper |
+| 220 | 18 | TNGal |
+| 221 | 18 | Tracey Cox |
+| 222 | 18 | Twisty Matchfit |
+| 223 | 18 | Connie Breeden |
+| 224 | 18 | Billy Pittman |
 | 225 | 17 | Debra May |
-| 226 | 16 | Elliot |
-| 227 | 16 | Danielle Lyons |
-| 228 | 16 | Dallas Runyan |
-| 229 | 16 | CK Hancock |
-| 230 | 16 | Funky Blockmatch |
-| 231 | 16 | Natasha Schatte |
-| 232 | 15 | Jolly Twisterfit |
-| 233 | 15 | Devon |
-| 234 | 15 | MaddieCherie |
-| 235 | 15 | Cherica Taylor |
-| 236 | 15 | Poppy Slice |
-| 237 | 15 | Frilly Dashfit |
-| 238 | 14 | Missy Savage-Justice |
-| 239 | 14 | Nicky Steigerwalt |
-| 240 | 13 | Dreamy Wipepiece |
-| 241 | 13 | Boldy Fitclear |
-| 242 | 13 | Staci Walker |
-| 243 | 13 | Lexi Chouinard |
-| 244 | 13 | Melmel |
-| 245 | 12 | Chirpy Grid |
+| 226 | 17 | Melmel |
+| 227 | 16 | Elliot |
+| 228 | 16 | Danielle Lyons |
+| 229 | 16 | Dallas Runyan |
+| 230 | 16 | CK Hancock |
+| 231 | 16 | Funky Blockmatch |
+| 232 | 16 | Natasha Schatte |
+| 233 | 15 | MaddieCherie |
+| 234 | 15 | Jolly Twisterfit |
+| 235 | 15 | Devon |
+| 236 | 15 | Cherica Taylor |
+| 237 | 15 | Poppy Slice |
+| 238 | 15 | Frilly Dashfit |
+| 239 | 14 | Missy Savage-Justice |
+| 240 | 14 | Nicky Steigerwalt |
+| 241 | 13 | Dreamy Wipepiece |
+| 242 | 13 | Boldy Fitclear |
+| 243 | 13 | Staci Walker |
+| 244 | 13 | Lexi Chouinard |
+| 245 | 12 | Princess Cucumber |
 | 246 | 12 | Diamond Balotje |
-| 247 | 12 | Kris Dusza Dodus |
+| 247 | 12 | Roe Sarmiento |
 | 248 | 12 | Samantha Morrison |
 | 249 | 12 | Brandi Thompson |
-| 250 | 12 | Roe Sarmiento |
-| 251 | 12 | Princess Cucumber |
+| 250 | 12 | Kris Dusza Dodus |
+| 251 | 12 | Chirpy Grid |
 | 252 | 12 | Melissa Thomas |
 | 253 | 12 | Stephen Gillam |
 | 254 | 12 | Mary |
@@ -336,13 +336,13 @@
 | 328 | 6 | Mary Carriere |
 | 329 | 5 | Slinky Glidezone |
 | 330 | 5 | Pjrobinsonnn |
-| 331 | 5 | Cara Rivera |
-| 332 | 5 | Poppy Zonepiece |
-| 333 | 5 | Joni Michelle Morgan |
+| 331 | 5 | Agnes Gable |
+| 332 | 5 | Lindsey Ford |
+| 333 | 5 | Frothy Roll |
 | 334 | 5 | Mercedes Lowery |
-| 335 | 5 | Frothy Roll |
-| 336 | 5 | Lindsey Ford |
-| 337 | 5 | Agnes Gable |
+| 335 | 5 | Cara Rivera |
+| 336 | 5 | Joni Michelle Morgan |
+| 337 | 5 | Poppy Zonepiece |
 
 ---
 *Standings created by tournaments datasource generation tool*
