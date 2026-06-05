@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 19:38:15 UTC
+# Standings for team1 as of 2026-06-05 19:38:38 UTC
 
 **Total Participants:** 442
 
@@ -9,7 +9,7 @@
 | 1 | 12000 | Ariel |
 | 2 | 3010 | Timothy Robert |
 | 3 | 2427 | Cozy Edge |
-| 4 | 1733 | Tracy Cohen |
+| 4 | 1890 | Tracy Cohen |
 | 5 | 1202 | Dyane Leah Ware |
 | 6 | 1050 | jaimie |
 | 7 | 950 | Chandler Spencer |
@@ -22,7 +22,7 @@
 | 14 | 500 | Brian Stackhouse |
 | 15 | 485 | Whitney Butler |
 | 16 | 482 | Cj Gorman |
-| 17 | 429 | Kellie Hall |
+| 17 | 448 | Kellie Hall |
 | 18 | 356 | Jacoby E Fleming |
 | 19 | 351 | AF Cruz |
 | 20 | 350 | Ryan Meilleur |

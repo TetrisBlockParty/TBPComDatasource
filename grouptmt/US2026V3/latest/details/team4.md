@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 19:38:15 UTC
+# Standings for team4 as of 2026-06-05 19:38:38 UTC
 
 **Total Participants:** 400
 
@@ -233,16 +233,16 @@
 | 225 | 25 | EJ Frazier |
 | 226 | 25 | BusterBear56 |
 | 227 | 25 | Vergie Michael |
-| 228 | 24 | Lana Tran |
-| 229 | 24 | Socorro Arredondo |
-| 230 | 24 | Spicy Peach |
-| 231 | 24 | Katiana Gonzalez |
-| 232 | 24 | Megan Vick |
-| 233 | 24 | JP |
-| 234 | 24 | Dawn Phelps |
-| 235 | 23 | Genger |
-| 236 | 23 | Sonya |
-| 237 | 23 | ButterfliesRFree |
+| 228 | 25 | ButterfliesRFree |
+| 229 | 24 | Lana Tran |
+| 230 | 24 | Socorro Arredondo |
+| 231 | 24 | Spicy Peach |
+| 232 | 24 | Katiana Gonzalez |
+| 233 | 24 | Megan Vick |
+| 234 | 24 | JP |
+| 235 | 24 | Dawn Phelps |
+| 236 | 23 | Genger |
+| 237 | 23 | Sonya |
 | 238 | 23 | Melissa Quinn |
 | 239 | 23 | Kristen Wallace |
 | 240 | 23 | Melika Zeheb |
