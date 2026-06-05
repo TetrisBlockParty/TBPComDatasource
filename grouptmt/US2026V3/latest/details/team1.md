@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:29:12 UTC
+# Standings for team1 as of 2026-06-05 13:30:13 UTC
 
 **Total Participants:** 112
 
@@ -54,19 +54,19 @@
 | 46 | 35 | Dai Bo |
 | 47 | 32 | Tobey Marberry |
 | 48 | 30 | Lester Malone |
-| 49 | 30 | Saucy Faller |
-| 50 | 30 | Brian Bohanon II |
-| 51 | 30 | Yashica Smith |
-| 52 | 28 | John Staub |
-| 53 | 27 | Zany Breaker |
-| 54 | 27 | Angela R Wilson |
-| 55 | 27 | Jae Thompson-Tyus |
-| 56 | 27 | Charlene Baltimore |
-| 57 | 25 | Tyrone Porter |
-| 58 | 25 | Cheeky Pop |
-| 59 | 24 | Casey Chapman |
-| 60 | 23 | Poppy Twister |
-| 61 | 23 | Hasty Pivoty |
+| 49 | 30 | Cheeky Pop |
+| 50 | 30 | Saucy Faller |
+| 51 | 30 | Brian Bohanon II |
+| 52 | 30 | Yashica Smith |
+| 53 | 28 | John Staub |
+| 54 | 28 | Casey Chapman |
+| 55 | 27 | Zany Breaker |
+| 56 | 27 | Angela R Wilson |
+| 57 | 27 | Jae Thompson-Tyus |
+| 58 | 27 | Charlene Baltimore |
+| 59 | 25 | Tyrone Porter |
+| 60 | 25 | Hasty Pivoty |
+| 61 | 23 | Poppy Twister |
 | 62 | 22 | Tanisha Taylor |
 | 63 | 21 | Brave Balanceblock |
 | 64 | 20 | Kimmie Gargano |
@@ -106,17 +106,17 @@
 | 98 | 9 | IThinkNot |
 | 99 | 9 | Tina Criam |
 | 100 | 8 | Brika Brika |
-| 101 | 8 | Jessie N Michael Silvers |
-| 102 | 8 | Sammie Walker |
-| 103 | 7 | Mary2 |
-| 104 | 7 | Kendra McIntyre |
+| 101 | 8 | Sammie Walker |
+| 102 | 8 | Jessie N Michael Silvers |
+| 103 | 7 | Kendra McIntyre |
+| 104 | 7 | Mary2 |
 | 105 | 6 | Janine Hunter |
-| 106 | 6 | Jayjay Rich |
+| 106 | 6 | Taz Ballard |
 | 107 | 6 | Ashley Espeut |
-| 108 | 6 | Taz Ballard |
-| 109 | 5 | Tamika Fisher |
+| 108 | 6 | Jayjay Rich |
+| 109 | 5 | DirtiestofMikes |
 | 110 | 5 | Jennifer Moore |
-| 111 | 5 | DirtiestofMikes |
+| 111 | 5 | Tamika Fisher |
 | 112 | 5 | Derek Beverly |
 
 ---
