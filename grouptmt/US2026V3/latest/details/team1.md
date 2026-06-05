@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 16:22:13 UTC
+# Standings for team1 as of 2026-06-05 16:22:35 UTC
 
 **Total Participants:** 288
 
@@ -180,9 +180,9 @@
 | 172 | 20 | Jai |
 | 173 | 20 | Dorian Griffin |
 | 174 | 20 | Larina Cherie Johnson |
-| 175 | 20 | Nyhlah Patterson |
-| 176 | 20 | Nona Harriel |
-| 177 | 20 | Kenneth Hefney |
+| 175 | 20 | Kenneth Hefney |
+| 176 | 20 | Nyhlah Patterson |
+| 177 | 20 | Nona Harriel |
 | 178 | 20 | Epic Snapfall |
 | 179 | 20 | Heather Aurelia |
 | 180 | 20 | Mic Balew |
@@ -195,37 +195,37 @@
 | 187 | 19 | Amanda Woodruff |
 | 188 | 19 | Saucy Tile |
 | 189 | 19 | Lozuna |
-| 190 | 19 | LAhoneybun82 |
-| 191 | 19 | Jenni |
+| 190 | 19 | Jenni |
+| 191 | 19 | LAhoneybun82 |
 | 192 | 18 | Tyree Tman Shinette |
 | 193 | 18 | AleahKCH |
 | 194 | 18 | Danny M GR |
 | 195 | 18 | Li-Li Ratliff |
 | 196 | 18 | Sunny Clicky |
-| 197 | 17 | Kimberly Red |
-| 198 | 17 | Elizabeth Vega Coreano |
+| 197 | 17 | Elizabeth Vega Coreano |
+| 198 | 17 | Kimberly Red |
 | 199 | 17 | Rikki Moran |
-| 200 | 16 | Desiree Ryder |
-| 201 | 16 | Jason Mungin |
-| 202 | 16 | MsBobby Patrick |
+| 200 | 16 | MsBobby Patrick |
+| 201 | 16 | Desiree Ryder |
+| 202 | 16 | Jason Mungin |
 | 203 | 16 | Sunny Tumbler |
-| 204 | 15 | Clever Fitblock |
-| 205 | 15 | Una |
-| 206 | 15 | Lit757 |
-| 207 | 15 | Jess |
-| 208 | 15 | Delitra Perkins Hatter |
+| 204 | 15 | Una |
+| 205 | 15 | Elaine Youmans |
+| 206 | 15 | Delitra Perkins Hatter |
+| 207 | 15 | Clever Fitblock |
+| 208 | 15 | Lit757 |
 | 209 | 15 | Tami Spence |
-| 210 | 15 | Elaine Youmans |
-| 211 | 15 | NastyFriend |
-| 212 | 14 | Sunny Riserbuilder |
-| 213 | 14 | Jerrone Epps |
+| 210 | 15 | NastyFriend |
+| 211 | 15 | Jess |
+| 212 | 14 | Jerrone Epps |
+| 213 | 14 | Alyssa Rae |
 | 214 | 14 | No_Other_Choice |
-| 215 | 14 | Zachary Colegrove |
-| 216 | 14 | Alyssa Rae |
-| 217 | 14 | David A Alvino |
-| 218 | 14 | Vivian Bunnell Myers |
-| 219 | 13 | Frothy Zoney |
-| 220 | 13 | Oaklonboy mike |
+| 215 | 14 | Vivian Bunnell Myers |
+| 216 | 14 | David A Alvino |
+| 217 | 14 | Zachary Colegrove |
+| 218 | 14 | Sunny Riserbuilder |
+| 219 | 13 | Oaklonboy mike |
+| 220 | 13 | Frothy Zoney |
 | 221 | 13 | Heather Wilson |
 | 222 | 12 | Kimberly Hernandez |
 | 223 | 12 | Soubletzy |
@@ -233,39 +233,39 @@
 | 225 | 12 | W.A. Simpson |
 | 226 | 12 | Yadira Salgado |
 | 227 | 12 | messyboots |
-| 228 | 10 | Just2Play$ |
+| 228 | 12 | BigMike |
 | 229 | 10 | Bouncy Glide |
-| 230 | 10 | Daddy |
+| 230 | 10 | Just2Play$ |
 | 231 | 10 | Shannon Carriger |
-| 232 | 10 | Megan Payette |
-| 233 | 10 | Tishauna Virgo |
-| 234 | 10 | Brittanie Wardlow |
-| 235 | 10 | Hoppy Rumbler |
-| 236 | 10 | Kenny 'Tailormade' Boyd |
-| 237 | 10 | Keke |
-| 238 | 10 | Po Marley |
-| 239 | 10 | Christian Whittaker |
-| 240 | 9 | Ta'Kaiyah M. Spann |
+| 232 | 10 | Daddy |
+| 233 | 10 | Po Marley |
+| 234 | 10 | Keke |
+| 235 | 10 | Kenny 'Tailormade' Boyd |
+| 236 | 10 | Hoppy Rumbler |
+| 237 | 10 | Brittanie Wardlow |
+| 238 | 10 | Tishauna Virgo |
+| 239 | 10 | Megan Payette |
+| 240 | 10 | Christian Whittaker |
 | 241 | 9 | Clifford Petroske |
-| 242 | 9 | Jamie Lea Popp |
-| 243 | 9 | Poppy Buildout |
-| 244 | 9 | Rissa Rozay |
+| 242 | 9 | Ta'Kaiyah M. Spann |
+| 243 | 9 | Jamie Lea Popp |
+| 244 | 9 | Poppy Buildout |
 | 245 | 9 | Noni |
 | 246 | 9 | Tina Criam |
-| 247 | 9 | BigMike |
-| 248 | 9 | Abby |
-| 249 | 9 | Joka NoTime ForHataz |
-| 250 | 9 | DellaLucretia Thomas |
-| 251 | 9 | Shakmar |
-| 252 | 8 | Caitlin Michele |
-| 253 | 8 | Tanesha Ga'sFinest Corbett |
-| 254 | 8 | Taz Ballard |
+| 247 | 9 | Abby |
+| 248 | 9 | Joka NoTime ForHataz |
+| 249 | 9 | DellaLucretia Thomas |
+| 250 | 9 | Shakmar |
+| 251 | 9 | Rissa Rozay |
+| 252 | 8 | Brika Brika |
+| 253 | 8 | Keke Ferguson |
+| 254 | 8 | Sammie Walker |
 | 255 | 8 | Rixo Blax |
-| 256 | 8 | Jessie N Michael Silvers |
-| 257 | 8 | Breezy Catcher |
-| 258 | 8 | Brika Brika |
-| 259 | 8 | Sammie Walker |
-| 260 | 8 | Keke Ferguson |
+| 256 | 8 | Taz Ballard |
+| 257 | 8 | Caitlin Michele |
+| 258 | 8 | Tanesha Ga'sFinest Corbett |
+| 259 | 8 | Jessie N Michael Silvers |
+| 260 | 8 | Breezy Catcher |
 | 261 | 7 | wmedina67 |
 | 262 | 7 | whatever |
 | 263 | 7 | Kendra McIntyre |
