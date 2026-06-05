@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 20:58:14 UTC
+# Standings for team1 as of 2026-06-05 20:58:37 UTC
 
 **Total Participants:** 498
 
@@ -77,22 +77,22 @@
 | 69 | 126 | Cee Emm |
 | 70 | 124 | Hunter Rayborn |
 | 71 | 116 | Eartha Brown |
-| 72 | 113 | Po Marley |
-| 73 | 111 | Shalena Marie Humphrey |
-| 74 | 108 | Hasty Pivoty |
-| 75 | 107 | TBABYJ |
-| 76 | 105 | Katrina Ramey |
-| 77 | 103 | KenpachisGirl |
-| 78 | 103 | Atlantalindi |
-| 79 | 103 | David Fuentes |
-| 80 | 102 | Mimi 1.0 |
-| 81 | 100 | Char |
-| 82 | 100 | Zippy Lifter |
-| 83 | 100 | Jessica Carter |
+| 72 | 115 | Tamara N Lee |
+| 73 | 113 | Po Marley |
+| 74 | 111 | Shalena Marie Humphrey |
+| 75 | 108 | Hasty Pivoty |
+| 76 | 107 | TBABYJ |
+| 77 | 105 | Katrina Ramey |
+| 78 | 103 | KenpachisGirl |
+| 79 | 103 | Atlantalindi |
+| 80 | 103 | David Fuentes |
+| 81 | 102 | Mimi 1.0 |
+| 82 | 100 | Char |
+| 83 | 100 | Zippy Lifter |
 | 84 | 100 | Cool Bridger |
-| 85 | 99 | 신재호 |
-| 86 | 96 | Simone Bailey |
-| 87 | 96 | Tamara N Lee |
+| 85 | 100 | Jessica Carter |
+| 86 | 99 | 신재호 |
+| 87 | 96 | Simone Bailey |
 | 88 | 96 | Cortaz Lawrie |
 | 89 | 95 | Nate Myers |
 | 90 | 88 | QueenShay AllGood |
@@ -492,18 +492,18 @@
 | 484 | 5 | Jennifer Moore |
 | 485 | 5 | Shawn Himes |
 | 486 | 5 | Kelvin Cook |
-| 487 | 5 | Logan Frost |
-| 488 | 5 | Tito Divyn |
-| 489 | 5 | Tamika Fisher |
-| 490 | 5 | Zappy Clearfit |
-| 491 | 5 | Andre Sanon |
-| 492 | 5 | Barbramerri Tarboro |
-| 493 | 5 | pooh |
-| 494 | 5 | Jjhandsome |
-| 495 | 5 | Shakuria Cortia Burney |
-| 496 | 5 | Vernon Hoyt |
-| 497 | 5 | the guy |
-| 498 | 5 | Chill Linkroll |
+| 487 | 5 | Tito Divyn |
+| 488 | 5 | Tamika Fisher |
+| 489 | 5 | Zappy Clearfit |
+| 490 | 5 | Andre Sanon |
+| 491 | 5 | Barbramerri Tarboro |
+| 492 | 5 | pooh |
+| 493 | 5 | Jjhandsome |
+| 494 | 5 | Shakuria Cortia Burney |
+| 495 | 5 | Vernon Hoyt |
+| 496 | 5 | the guy |
+| 497 | 5 | Chill Linkroll |
+| 498 | 5 | Logan Frost |
 
 ---
 *Standings created by tournaments datasource generation tool*
