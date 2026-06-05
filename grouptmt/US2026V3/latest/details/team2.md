@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-05 12:37:12 UTC
+# Standings for team2 as of 2026-06-05 12:38:12 UTC
 
-**Total Participants:** 46
+**Total Participants:** 48
 
 ## Participant Scores
 
@@ -9,9 +9,9 @@
 | 1 | 1702 | Puce guide 9156 |
 | 2 | 1100 | Kathleen M Cox |
 | 3 | 474 | Logan Basham |
-| 4 | 247 | Jewels |
-| 5 | 232 | Amy Gale |
-| 6 | 100 | Mocha |
+| 4 | 300 | Mocha |
+| 5 | 247 | Jewels |
+| 6 | 232 | Amy Gale |
 | 7 | 75 | Angeleye A James |
 | 8 | 70 | Amanda Sikes |
 | 9 | 59 | Stella |
@@ -20,38 +20,40 @@
 | 12 | 40 | LittleHippoEars |
 | 13 | 37 | Jumpy Dashpiece |
 | 14 | 33 | Tango Sierra |
-| 15 | 30 | Patti Ward |
-| 16 | 30 | Jason Cunningham |
+| 15 | 30 | Jason Cunningham |
+| 16 | 30 | Patti Ward |
 | 17 | 27 | Michael Carmichael |
-| 18 | 26 | Rachel Huber |
-| 19 | 26 | Ariel Gundersen |
+| 18 | 26 | Ariel Gundersen |
+| 19 | 26 | Rachel Huber |
 | 20 | 25 | Jgato |
 | 21 | 25 | April Addis |
-| 22 | 23 | Damion Morrison |
-| 23 | 23 | IncrediDragon |
-| 24 | 18 | Sara BlueEyes |
+| 22 | 23 | IncrediDragon |
+| 23 | 23 | Damion Morrison |
+| 24 | 21 | Zaniya Brown |
 | 25 | 18 | Tracey Cox |
-| 26 | 12 | Stacey Loretta Wallace |
-| 27 | 12 | Mary |
-| 28 | 11 | Lora Via |
-| 29 | 11 | Thy Bui |
-| 30 | 10 | Berta Hurley |
-| 31 | 10 | Joyce Galloway |
+| 26 | 18 | Sara BlueEyes |
+| 27 | 12 | Stacey Loretta Wallace |
+| 28 | 12 | A.j. Langley |
+| 29 | 12 | Mary |
+| 30 | 11 | Lora Via |
+| 31 | 11 | Thy Bui |
 | 32 | 10 | Bon Lynn |
 | 33 | 10 | Gill |
 | 34 | 10 | Twisty Snapmatch |
-| 35 | 10 | Spicy Basepiece |
-| 36 | 9 | Darla Ragsdale |
-| 37 | 9 | Mama G |
-| 38 | 9 | Giggly Spinblock |
-| 39 | 7 | Peter Fogg |
-| 40 | 7 | Cherica Taylor |
-| 41 | 6 | Kelly Christine Trimmer |
-| 42 | 6 | fancypants |
-| 43 | 5 | Devon |
-| 44 | 5 | Princess Cucumber |
-| 45 | 5 | Allison Peterson |
+| 35 | 10 | Joyce Galloway |
+| 36 | 10 | Berta Hurley |
+| 37 | 10 | Spicy Basepiece |
+| 38 | 9 | Princess Cucumber |
+| 39 | 9 | Giggly Spinblock |
+| 40 | 9 | Mama G |
+| 41 | 9 | Darla Ragsdale |
+| 42 | 7 | Cherica Taylor |
+| 43 | 7 | Peter Fogg |
+| 44 | 6 | Kelly Christine Trimmer |
+| 45 | 6 | fancypants |
 | 46 | 5 | Tashamonique Puckey |
+| 47 | 5 | Allison Peterson |
+| 48 | 5 | Devon |
 
 ---
 *Standings created by tournaments datasource generation tool*
