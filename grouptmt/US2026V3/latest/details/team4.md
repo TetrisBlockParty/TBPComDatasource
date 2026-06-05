@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 13:05:13 UTC
+# Standings for team4 as of 2026-06-05 13:06:13 UTC
 
 **Total Participants:** 77
 
@@ -17,8 +17,8 @@
 | 9 | 101 | Giggy Matchpiece |
 | 10 | 100 | Kathy Brookins |
 | 11 | 95 | Gloria Nunley Trussell |
-| 12 | 85 | Kim |
-| 13 | 85 | Colin |
+| 12 | 85 | Colin |
+| 13 | 85 | Kim |
 | 14 | 78 | Tawna Curry |
 | 15 | 75 | June Hoffman |
 | 16 | 71 | Chris Covington |
@@ -31,58 +31,58 @@
 | 23 | 49 | Snippy Grid |
 | 24 | 45 | Justin Michael |
 | 25 | 40 | Tyra Brooke Everman Forest |
-| 26 | 38 | Charity Thomas |
-| 27 | 38 | Jonathan Hewitt |
+| 26 | 38 | Jonathan Hewitt |
+| 27 | 38 | Charity Thomas |
 | 28 | 34 | jojo |
 | 29 | 32 | Shiny Brick |
-| 30 | 30 | Will E Ayala |
-| 31 | 28 | Mrs |
-| 32 | 28 | Melissa Schwager |
-| 33 | 28 | Laurie Patrick |
+| 30 | 31 | Mrs |
+| 31 | 30 | Will E Ayala |
+| 32 | 28 | Laurie Patrick |
+| 33 | 28 | Melissa Schwager |
 | 34 | 26 | Dana Fontanez |
 | 35 | 25 | Маркус Вік |
-| 36 | 23 | Stasia |
+| 36 | 24 | smarty |
 | 37 | 23 | Melissa Quinn |
-| 38 | 23 | Zippy Snaplink |
-| 39 | 22 | smarty |
+| 38 | 23 | Stasia |
+| 39 | 23 | Zippy Snaplink |
 | 40 | 22 | Saul Fajardo |
-| 41 | 21 | Playa |
-| 42 | 21 | Keesha Muro |
-| 43 | 20 | Fran Aaron-Ring |
-| 44 | 20 | Erica Pompey |
-| 45 | 20 | Magz |
-| 46 | 20 | Jasmine Marie |
-| 47 | 19 | Becky McCool |
-| 48 | 19 | Swanky Matchfit |
-| 49 | 18 | Iforget |
-| 50 | 18 | Sandra O'Reilly |
+| 41 | 21 | Keesha Muro |
+| 42 | 21 | Playa |
+| 43 | 20 | Erica Pompey |
+| 44 | 20 | Fran Aaron-Ring |
+| 45 | 20 | Jasmine Marie |
+| 46 | 20 | Magz |
+| 47 | 19 | Swanky Matchfit |
+| 48 | 19 | Becky McCool |
+| 49 | 18 | Sandra O'Reilly |
+| 50 | 18 | Iforget |
 | 51 | 17 | Breezy Blockzone |
 | 52 | 15 | Perry Ransom |
 | 53 | 15 | Joshua Garner |
-| 54 | 13 | Catherine Garza |
-| 55 | 13 | Cherry |
-| 56 | 13 | Nancy McCalla Abercrombie |
-| 57 | 13 | Karen Rodriguez |
-| 58 | 12 | Fancy Tilefall |
-| 59 | 12 | Alizabeth Garcia |
-| 60 | 10 | Buchanon Bossingup Jadrienne |
-| 61 | 10 | Lateasha Wildman |
-| 62 | 10 | Hasty Dropzone |
-| 63 | 10 | JP Chua |
-| 64 | 10 | Jonelle Jacobs |
+| 54 | 13 | Nancy McCalla Abercrombie |
+| 55 | 13 | Karen Rodriguez |
+| 56 | 13 | Cherry |
+| 57 | 13 | Catherine Garza |
+| 58 | 12 | Alizabeth Garcia |
+| 59 | 12 | Fancy Tilefall |
+| 60 | 10 | Jonelle Jacobs |
+| 61 | 10 | JP Chua |
+| 62 | 10 | Buchanon Bossingup Jadrienne |
+| 63 | 10 | Hasty Dropzone |
+| 64 | 10 | Lateasha Wildman |
 | 65 | 9 | Hotstuff |
 | 66 | 8 | Sisi RedVelvet Reneè |
 | 67 | 7 | George Palacios |
-| 68 | 6 | Dizzy |
-| 69 | 6 | Deb 07 |
-| 70 | 5 | Lively Cascadeclear |
-| 71 | 5 | Tippet |
-| 72 | 5 | Cflixer |
-| 73 | 5 | Zappy Matchgrid |
-| 74 | 5 | Jason Garnatz |
-| 75 | 5 | Mighty1 |
-| 76 | 5 | Jeremy Barry |
-| 77 | 5 | Swanky Zigzag |
+| 68 | 6 | Deb 07 |
+| 69 | 6 | Dizzy |
+| 70 | 5 | Swanky Zigzag |
+| 71 | 5 | Jeremy Barry |
+| 72 | 5 | Lively Cascadeclear |
+| 73 | 5 | Cflixer |
+| 74 | 5 | Tippet |
+| 75 | 5 | Jason Garnatz |
+| 76 | 5 | Mighty1 |
+| 77 | 5 | Zappy Matchgrid |
 
 ---
 *Standings created by tournaments datasource generation tool*
