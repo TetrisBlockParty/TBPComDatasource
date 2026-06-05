@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-06-05 13:51:12 UTC
+# Standings for team4 as of 2026-06-05 13:52:13 UTC
 
-**Total Participants:** 109
+**Total Participants:** 110
 
 ## Participant Scores
 
@@ -42,79 +42,80 @@
 | 34 | 39 | Anthony Kollar |
 | 35 | 38 | Jonathan Hewitt |
 | 36 | 38 | Charity Thomas |
-| 37 | 37 | Dana Fontanez |
-| 38 | 36 | Mrs |
-| 39 | 35 | Tactical_B |
-| 40 | 34 | Clashy |
+| 37 | 37 | Cail |
+| 38 | 37 | Dana Fontanez |
+| 39 | 36 | Mrs |
+| 40 | 35 | Tactical_B |
 | 41 | 34 | jojo |
-| 42 | 33 | Lul Babie |
-| 43 | 31 | Jasmine Marie |
-| 44 | 30 | Will E Ayala |
+| 42 | 34 | Clashy |
+| 43 | 33 | Lul Babie |
+| 44 | 31 | Jasmine Marie |
 | 45 | 30 | Sarah Berry Stevens |
 | 46 | 30 | Nicole Colby McCloskey |
-| 47 | 29 | Joseph Hunter |
-| 48 | 28 | Sandra O'Reilly |
-| 49 | 28 | Melissa Schwager |
-| 50 | 28 | Laurie Patrick |
-| 51 | 25 | Andrea Dre Lomeli |
-| 52 | 25 | Маркус Вік |
-| 53 | 24 | smarty |
-| 54 | 23 | Zippy Snaplink |
-| 55 | 23 | Melissa Quinn |
+| 47 | 30 | Will E Ayala |
+| 48 | 29 | Joseph Hunter |
+| 49 | 28 | Laurie Patrick |
+| 50 | 28 | Melissa Schwager |
+| 51 | 28 | Sandra O'Reilly |
+| 52 | 27 | ktothet |
+| 53 | 25 | Маркус Вік |
+| 54 | 25 | Andrea Dre Lomeli |
+| 55 | 24 | smarty |
 | 56 | 23 | Stasia |
-| 57 | 22 | Cail |
-| 58 | 22 | Saul Fajardo |
-| 59 | 21 | Playa |
-| 60 | 21 | Keesha Muro |
-| 61 | 20 | Magz |
-| 62 | 20 | Erica Pompey |
-| 63 | 20 | Betsy Froemming |
-| 64 | 20 | Taz |
+| 57 | 23 | Zippy Snaplink |
+| 58 | 23 | Melissa Quinn |
+| 59 | 22 | Saul Fajardo |
+| 60 | 21 | Playa |
+| 61 | 21 | Keesha Muro |
+| 62 | 20 | Magz |
+| 63 | 20 | Taz |
+| 64 | 20 | Betsy Froemming |
 | 65 | 20 | Mexican130 |
-| 66 | 19 | Swanky Matchfit |
-| 67 | 19 | Becky McCool |
-| 68 | 18 | Iforget |
+| 66 | 20 | Erica Pompey |
+| 67 | 19 | Swanky Matchfit |
+| 68 | 19 | Becky McCool |
 | 69 | 18 | Nancy McCalla Abercrombie |
-| 70 | 17 | Breezy Blockzone |
-| 71 | 16 | George Palacios |
-| 72 | 15 | Hasty Dropzone |
+| 70 | 18 | Iforget |
+| 71 | 17 | Breezy Blockzone |
+| 72 | 16 | George Palacios |
 | 73 | 15 | Perry Ransom |
-| 74 | 15 | Lush Fitblock |
-| 75 | 15 | Joshua Garner |
-| 76 | 15 | Jonelle Jacobs |
-| 77 | 13 | Catherine Garza |
-| 78 | 13 | Karen Rodriguez |
-| 79 | 13 | Cherry |
-| 80 | 12 | Alizabeth Garcia |
+| 74 | 15 | Hasty Dropzone |
+| 75 | 15 | Lush Fitblock |
+| 76 | 15 | Joshua Garner |
+| 77 | 15 | Jonelle Jacobs |
+| 78 | 13 | Catherine Garza |
+| 79 | 13 | Karen Rodriguez |
+| 80 | 13 | Cherry |
 | 81 | 12 | Fancy Tilefall |
-| 82 | 11 | Samara Garcia |
-| 83 | 10 | Britney Kitora |
-| 84 | 10 | JP Chua |
-| 85 | 10 | John Wertz |
-| 86 | 10 | Miguel Teixeira |
-| 87 | 10 | Loony Edge |
-| 88 | 10 | Lateasha Wildman |
-| 89 | 10 | Buchanon Bossingup Jadrienne |
-| 90 | 9 | Esmond Johnson IV |
-| 91 | 9 | Dheeh Robles |
+| 82 | 12 | Alizabeth Garcia |
+| 83 | 11 | Samara Garcia |
+| 84 | 10 | Britney Kitora |
+| 85 | 10 | Loony Edge |
+| 86 | 10 | JP Chua |
+| 87 | 10 | Miguel Teixeira |
+| 88 | 10 | Buchanon Bossingup Jadrienne |
+| 89 | 10 | Lateasha Wildman |
+| 90 | 10 | John Wertz |
+| 91 | 9 | Esmond Johnson IV |
 | 92 | 9 | Hotstuff |
-| 93 | 9 | Cheeky Fallzone |
+| 93 | 9 | Dheeh Robles |
 | 94 | 9 | Angela Adamo-Tash |
-| 95 | 8 | Sisi RedVelvet Reneè |
-| 96 | 7 | Erica Armstrong Baz |
-| 97 | 6 | Dizzy |
-| 98 | 6 | Deb 07 |
-| 99 | 5 | Lively Cascadeclear |
-| 100 | 5 | Jeremy Barry |
-| 101 | 5 | Rachel |
-| 102 | 5 | Ricky Colvin |
-| 103 | 5 | Tippet |
-| 104 | 5 | SweetChaos |
-| 105 | 5 | Jason Garnatz |
-| 106 | 5 | Mighty1 |
-| 107 | 5 | Cflixer |
-| 108 | 5 | Zappy Matchgrid |
-| 109 | 5 | Swanky Zigzag |
+| 95 | 9 | Cheeky Fallzone |
+| 96 | 8 | Sisi RedVelvet Reneè |
+| 97 | 7 | Erica Armstrong Baz |
+| 98 | 6 | Dizzy |
+| 99 | 6 | Deb 07 |
+| 100 | 5 | Lively Cascadeclear |
+| 101 | 5 | Ricky Colvin |
+| 102 | 5 | SweetChaos |
+| 103 | 5 | Rachel |
+| 104 | 5 | Swanky Zigzag |
+| 105 | 5 | Zappy Matchgrid |
+| 106 | 5 | Cflixer |
+| 107 | 5 | Mighty1 |
+| 108 | 5 | Jeremy Barry |
+| 109 | 5 | Jason Garnatz |
+| 110 | 5 | Tippet |
 
 ---
 *Standings created by tournaments datasource generation tool*
