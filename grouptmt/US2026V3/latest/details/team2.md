@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 21:54:39 UTC
+# Standings for team2 as of 2026-06-05 21:55:14 UTC
 
 **Total Participants:** 586
 
@@ -40,10 +40,10 @@
 | 32 | 538 | Kathleen Dumbazz |
 | 33 | 526 | Block Dog |
 | 34 | 515 | Loony Faller |
-| 35 | 503 | Charley Bedford |
-| 36 | 503 | Jamie Jones |
-| 37 | 494 | Shandrea Crawford |
-| 38 | 461 | Angie BBlock |
+| 35 | 504 | Angie BBlock |
+| 36 | 503 | Charley Bedford |
+| 37 | 503 | Jamie Jones |
+| 38 | 494 | Shandrea Crawford |
 | 39 | 445 | Amy Gale |
 | 40 | 411 | Brandon Link |
 | 41 | 374 | Mikki Torres |
@@ -539,59 +539,59 @@
 | 531 | 9 | Lindsey Butler |
 | 532 | 9 | Rydin Dirt |
 | 533 | 9 | Giggly Spinblock |
-| 534 | 8 | Joni Michelle Morgan |
+| 534 | 8 | Jackie Hayslip |
 | 535 | 8 | Terie Safrit |
-| 536 | 8 | Jill Goff |
-| 537 | 8 | Witty Riser |
-| 538 | 8 | Jackie Hayslip |
-| 539 | 8 | Elodie Deveyer |
-| 540 | 8 | Amber Carpenter |
-| 541 | 8 | Loony Ziggy |
-| 542 | 8 | Stephanie |
-| 543 | 8 | Gabrielle Wilson |
-| 544 | 8 | Witty Clearbuilder |
-| 545 | 8 | Crystal Robinson |
-| 546 | 8 | Jenna Thorn |
-| 547 | 7 | Elizabeth Elaine Coursey |
-| 548 | 7 | Rae |
-| 549 | 7 | Happy Curvebuilder |
-| 550 | 7 | michael |
-| 551 | 7 | Flashy Cascadeclear |
-| 552 | 7 | Clever Balancefit |
-| 553 | 7 | Kelli Pazour |
-| 554 | 7 | Nina-Christina Cusyck |
-| 555 | 7 | Loopy Tower |
-| 556 | 7 | Mike Honcho |
-| 557 | 7 | Bouncy Cluster |
-| 558 | 7 | Lacie B |
-| 559 | 7 | Tina |
-| 560 | 7 | Tashamonique Puckey |
-| 561 | 7 | Sam Blinn |
-| 562 | 7 | Shane Peavey |
-| 563 | 6 | MUMBLES |
+| 536 | 8 | Witty Clearbuilder |
+| 537 | 8 | Stephanie |
+| 538 | 8 | Elodie Deveyer |
+| 539 | 8 | Joni Michelle Morgan |
+| 540 | 8 | Witty Riser |
+| 541 | 8 | Jill Goff |
+| 542 | 8 | Amber Carpenter |
+| 543 | 8 | Loony Ziggy |
+| 544 | 8 | Gabrielle Wilson |
+| 545 | 8 | Jenna Thorn |
+| 546 | 8 | Crystal Robinson |
+| 547 | 7 | Sam Blinn |
+| 548 | 7 | Flashy Cascadeclear |
+| 549 | 7 | michael |
+| 550 | 7 | Kelli Pazour |
+| 551 | 7 | Happy Curvebuilder |
+| 552 | 7 | Loopy Tower |
+| 553 | 7 | Rae |
+| 554 | 7 | Tashamonique Puckey |
+| 555 | 7 | Bouncy Cluster |
+| 556 | 7 | Shane Peavey |
+| 557 | 7 | Tina |
+| 558 | 7 | Elizabeth Elaine Coursey |
+| 559 | 7 | Clever Balancefit |
+| 560 | 7 | Nina-Christina Cusyck |
+| 561 | 7 | Lacie B |
+| 562 | 7 | Mike Honcho |
+| 563 | 6 | Cheeky Dashpiece |
 | 564 | 6 | Debbie Embry |
 | 565 | 6 | Emily |
-| 566 | 6 | Kelly Christine Trimmer |
-| 567 | 6 | Shelby Wilson |
-| 568 | 6 | Lavenda Nettles |
-| 569 | 6 | Fran Gerebics |
+| 566 | 6 | Lavenda Nettles |
+| 567 | 6 | Fran Gerebics |
+| 568 | 6 | MUMBLES |
+| 569 | 6 | Kelly Christine Trimmer |
 | 570 | 6 | Denise Morehart |
 | 571 | 6 | Fluffypuffin |
-| 572 | 6 | Cheeky Dashpiece |
-| 573 | 6 | Partin |
+| 572 | 6 | Partin |
+| 573 | 6 | Shelby Wilson |
 | 574 | 5 | Deborah Fowler |
-| 575 | 5 | Agnes Gable |
-| 576 | 5 | Nicole Hjelmen |
-| 577 | 5 | Pjrobinsonnn |
-| 578 | 5 | Nolife |
-| 579 | 5 | Jennifer Mauler Schmidt |
-| 580 | 5 | Slinky Glidezone |
-| 581 | 5 | Mercedes Lowery |
-| 582 | 5 | Chirpy Towerer |
-| 583 | 5 | Momi Kamohai |
+| 575 | 5 | Slinky Glidezone |
+| 576 | 5 | Pjrobinsonnn |
+| 577 | 5 | Nolife |
+| 578 | 5 | Nicole Hjelmen |
+| 579 | 5 | Charles E Mccardell |
+| 580 | 5 | Jennifer Mauler Schmidt |
+| 581 | 5 | Chirpy Towerer |
+| 582 | 5 | Agnes Gable |
+| 583 | 5 | Crafty Slice |
 | 584 | 5 | Poppy Zonepiece |
-| 585 | 5 | Crafty Slice |
-| 586 | 5 | Charles E Mccardell |
+| 585 | 5 | Momi Kamohai |
+| 586 | 5 | Mercedes Lowery |
 
 ---
 *Standings created by tournaments datasource generation tool*
