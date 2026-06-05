@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-05 23:26:14 UTC
+# Standings for team3 as of 2026-06-05 23:26:37 UTC
 
 **Total Participants:** 2066
 
@@ -29,9 +29,9 @@
 | 21 | 2257 | Justablock |
 | 22 | 2209 | Geena Cole |
 | 23 | 2043 | Megan N Slone |
-| 24 | 1963 | Flashy Blockline |
-| 25 | 1846 | Vivalajxcy |
-| 26 | 1816 | Jessica Jelks |
+| 24 | 2007 | Jessica Jelks |
+| 25 | 1963 | Flashy Blockline |
+| 26 | 1846 | Vivalajxcy |
 | 27 | 1666 | Brooke Burns |
 | 28 | 1637 | Chubb Cuhz |
 | 29 | 1486 | Nuke Morris |
@@ -70,10 +70,10 @@
 | 62 | 666 | Megan Ashe |
 | 63 | 664 | Amanda Van Alyne |
 | 64 | 655 | Amber Reum |
-| 65 | 620 | Nikki |
-| 66 | 603 | Ashley Lamboy |
-| 67 | 601 | Tami Czenkus |
-| 68 | 600 | Blockhead |
+| 65 | 640 | Blockhead |
+| 66 | 620 | Nikki |
+| 67 | 603 | Ashley Lamboy |
+| 68 | 601 | Tami Czenkus |
 | 69 | 600 | Teresa Jensen |
 | 70 | 599 | Carla Wright |
 | 71 | 590 | Mighty Snapclear |
@@ -81,8 +81,8 @@
 | 73 | 572 | Holly Gilbert |
 | 74 | 568 | Brad LaRance |
 | 75 | 557 | Snappy Balancer |
-| 76 | 550 | Dyllan Milashoski |
-| 77 | 550 | Jake Yamasaki |
+| 76 | 550 | Jake Yamasaki |
+| 77 | 550 | Dyllan Milashoski |
 | 78 | 532 | Ashley Grant |
 | 79 | 520 | Poppy Glidezone |
 | 80 | 520 | Sassy Snaplink |
@@ -100,10 +100,10 @@
 | 92 | 451 | Brenda Yonke |
 | 93 | 442 | Epic Clusterbuilder |
 | 94 | 441 | Barbara Wilson |
-| 95 | 436 | Bee |
-| 96 | 435 | TSizzle |
-| 97 | 431 | Dapper Patternline |
-| 98 | 407 | Happy Bridgepiece |
+| 95 | 436 | Happy Bridgepiece |
+| 96 | 436 | Bee |
+| 97 | 435 | TSizzle |
+| 98 | 431 | Dapper Patternline |
 | 99 | 406 | Diana Pham |
 | 100 | 400 | Melanie Cook |
 | 101 | 400 | David Neff |
@@ -113,39 +113,39 @@
 | 105 | 390 | Mama |
 | 106 | 385 | Giggly Tetriblast |
 | 107 | 370 | Tiffany Griffin |
-| 108 | 367 | allie |
-| 109 | 367 | Edda-Jo Wenneman Dobbs |
+| 108 | 367 | Edda-Jo Wenneman Dobbs |
+| 109 | 367 | allie |
 | 110 | 360 | Kim Graves |
 | 111 | 353 | JW Workman |
-| 112 | 345 | Felicia Marie Avanzi Smith |
-| 113 | 345 | Robby Beltran |
+| 112 | 345 | Robby Beltran |
+| 113 | 345 | Felicia Marie Avanzi Smith |
 | 114 | 344 | Soddy |
 | 115 | 340 | Glitzy Matchline |
 | 116 | 333 | Perky Basepiece |
 | 117 | 331 | Andrea Brock |
 | 118 | 326 | Hasty Holder |
 | 119 | 323 | Zesty Pivot |
-| 120 | 320 | batsy |
-| 121 | 320 | Aldrany BayBay Willis |
+| 120 | 320 | Aldrany BayBay Willis |
+| 121 | 320 | batsy |
 | 122 | 317 | Juanita Mitchell |
-| 123 | 313 | Geneva E Montgomery |
-| 124 | 313 | Twisty Clicker |
+| 123 | 316 | Twisty Clicker |
+| 124 | 313 | Geneva E Montgomery |
 | 125 | 312 | Stoner420 |
-| 126 | 311 | Kaylin Torres |
-| 127 | 311 | Jem |
-| 128 | 310 | Annie Kim |
-| 129 | 310 | Timothy Long |
+| 126 | 311 | Jem |
+| 127 | 311 | Kaylin Torres |
+| 128 | 310 | Timothy Long |
+| 129 | 310 | Annie Kim |
 | 130 | 309 | Anna Nicole White |
 | 131 | 308 | Chummy Clusterline |
 | 132 | 302 | Veena Pan |
-| 133 | 300 | Kanisha Goldsmith |
-| 134 | 300 | Terese Hurst |
-| 135 | 300 | Patricia Cox |
+| 133 | 300 | Patricia Cox |
+| 134 | 300 | Kanisha Goldsmith |
+| 135 | 300 | Terese Hurst |
 | 136 | 297 | coure |
 | 137 | 295 | Mitch727 |
 | 138 | 294 | Leonel Duran |
-| 139 | 291 | Heather Rauner |
-| 140 | 291 | Shanice Kenon |
+| 139 | 291 | Shanice Kenon |
+| 140 | 291 | Heather Rauner |
 | 141 | 287 | Sarah Cruthirds |
 | 142 | 285 | Kite Kelly |
 | 143 | 284 | Dani Miller |
@@ -160,47 +160,47 @@
 | 152 | 263 | Bill Hilbert |
 | 153 | 262 | Jay Lee |
 | 154 | 260 | Laura |
-| 155 | 258 | Alexandria Shoberg |
-| 156 | 258 | Sabrina Velasquez |
+| 155 | 258 | Sabrina Velasquez |
+| 156 | 258 | Alexandria Shoberg |
 | 157 | 252 | Tipsy Blockmatch |
 | 158 | 251 | Kimberly Cupp Nolan |
 | 159 | 250 | BBLLOP |
 | 160 | 248 | Summer Munroe |
 | 161 | 246 | Cheyanne Rightmire |
-| 162 | 243 | Kathie Naylor |
-| 163 | 241 | Michele Turner |
-| 164 | 241 | Queen |
-| 165 | 240 | Death |
-| 166 | 237 | Southpaw |
-| 167 | 234 | Melissa D'Amico |
-| 168 | 233 | MzPac Muzic |
-| 169 | 227 | Melissa House |
-| 170 | 227 | Elle Beck |
-| 171 | 226 | Jessica Biggs |
-| 172 | 223 | Max Steel |
-| 173 | 222 | Sharri Letkowski |
-| 174 | 220 | Chris Pezner |
-| 175 | 220 | Josalyn Floyd Rowe |
-| 176 | 220 | Emmy Althea Guizzetti |
-| 177 | 220 | Zesty Slider |
-| 178 | 219 | Kim Rose |
-| 179 | 219 | Jonathan Harvey |
-| 180 | 218 | Brandon Mccorkle Ellis |
-| 181 | 215 | davis13 |
-| 182 | 214 | Minxy |
-| 183 | 213 | Lanisha Thomas |
-| 184 | 210 | Shabae |
-| 185 | 209 | Becca Pharel |
+| 162 | 244 | Cranky Cascadepiece |
+| 163 | 243 | Kathie Naylor |
+| 164 | 241 | Michele Turner |
+| 165 | 241 | Queen |
+| 166 | 240 | Death |
+| 167 | 237 | Southpaw |
+| 168 | 234 | Melissa D'Amico |
+| 169 | 233 | MzPac Muzic |
+| 170 | 227 | Melissa House |
+| 171 | 227 | Elle Beck |
+| 172 | 226 | Jessica Biggs |
+| 173 | 223 | Max Steel |
+| 174 | 222 | Sharri Letkowski |
+| 175 | 220 | Emmy Althea Guizzetti |
+| 176 | 220 | Josalyn Floyd Rowe |
+| 177 | 220 | Chris Pezner |
+| 178 | 220 | Zesty Slider |
+| 179 | 219 | Kim Rose |
+| 180 | 219 | Jonathan Harvey |
+| 181 | 218 | Brandon Mccorkle Ellis |
+| 182 | 215 | davis13 |
+| 183 | 214 | Minxy |
+| 184 | 213 | Lanisha Thomas |
+| 185 | 210 | Shabae |
 | 186 | 209 | Sarah-Ashley Gantt |
-| 187 | 206 | Keisi |
-| 188 | 202 | Mammy_hammy |
-| 189 | 202 | Sara Leuenberger |
-| 190 | 200 | Large Loca Marge |
-| 191 | 200 | Sean Bayley |
-| 192 | 200 | Mike Heim |
+| 187 | 209 | Becca Pharel |
+| 188 | 206 | Keisi |
+| 189 | 202 | Mammy_hammy |
+| 190 | 202 | Sara Leuenberger |
+| 191 | 200 | Mike Heim |
+| 192 | 200 | Sean Bayley |
 | 193 | 200 | AL Ferrari |
-| 194 | 199 | Naomi Horn |
-| 195 | 198 | Cranky Cascadepiece |
+| 194 | 200 | Large Loca Marge |
+| 195 | 199 | Naomi Horn |
 | 196 | 198 | Chipper Clusterbuilder |
 | 197 | 195 | Meagan Fling |
 | 198 | 193 | Danny Zamasu |
@@ -217,14 +217,14 @@
 | 209 | 182 | Austin Bulson |
 | 210 | 181 | High |
 | 211 | 181 | kooter |
-| 212 | 180 | Woodrow Weatherford |
-| 213 | 180 | Steph Bug Peterson |
+| 212 | 180 | Steph Bug Peterson |
+| 213 | 180 | Woodrow Weatherford |
 | 214 | 178 | Blue Jay |
-| 215 | 176 | Lisa Pease |
-| 216 | 176 | kendra |
+| 215 | 176 | kendra |
+| 216 | 176 | Lisa Pease |
 | 217 | 175 | Didi NV |
-| 218 | 173 | April Martin |
-| 219 | 173 | Klaudia Lester |
+| 218 | 173 | Klaudia Lester |
+| 219 | 173 | April Martin |
 | 220 | 172 | Waterford CT |
 | 221 | 170 | Daring Spinfit |
 | 222 | 169 | Susan Brazen |

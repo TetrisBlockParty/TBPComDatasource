@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 23:26:14 UTC
+# Standings for team2 as of 2026-06-05 23:26:37 UTC
 
 **Total Participants:** 658
 
@@ -513,15 +513,15 @@
 | 505 | 15 | Daring Pivotfall |
 | 506 | 15 | Liseth Vasquez |
 | 507 | 14 | Christopher Pulley |
-| 508 | 14 | MiMi’26 |
-| 509 | 14 | WhitS |
-| 510 | 14 | YAKO |
-| 511 | 14 | Randi Moore |
-| 512 | 14 | Anthony Kordich |
-| 513 | 13 | Dreamy Wipepiece |
-| 514 | 13 | Kathryn |
-| 515 | 13 | Bubbly Strikerpiece |
-| 516 | 13 | Gabrielle Wilson |
+| 508 | 14 | Gabrielle Wilson |
+| 509 | 14 | MiMi’26 |
+| 510 | 14 | WhitS |
+| 511 | 14 | YAKO |
+| 512 | 14 | Randi Moore |
+| 513 | 14 | Anthony Kordich |
+| 514 | 13 | Dreamy Wipepiece |
+| 515 | 13 | Kathryn |
+| 516 | 13 | Bubbly Strikerpiece |
 | 517 | 13 | latte |
 | 518 | 13 | Sean Rippa |
 | 519 | 13 | bigdog |
