@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-06-05 12:14:34 UTC
+# Standings for team4 as of 2026-06-05 12:15:12 UTC
 
-**Total Participants:** 16
+**Total Participants:** 19
 
 ## Participant Scores
 
@@ -12,16 +12,19 @@
 | 4 | 40 | Keys Tome |
 | 5 | 39 | Shayna Vaigneur-Hall |
 | 6 | 29 | Charity Thomas |
-| 7 | 28 | Melissa Schwager |
-| 8 | 26 | Dana Fontanez |
-| 9 | 25 | Маркус Вік |
-| 10 | 24 | jojo |
-| 11 | 14 | Keesha Muro |
-| 12 | 14 | Jonathan Hewitt |
-| 13 | 11 | Cherry |
-| 14 | 10 | Shiny Brick |
-| 15 | 9 | Nancy McCalla Abercrombie |
-| 16 | 9 | Hotstuff |
+| 7 | 28 | Ryan Paul Clark-Ramsey |
+| 8 | 28 | Melissa Schwager |
+| 9 | 26 | Dana Fontanez |
+| 10 | 25 | Маркус Вік |
+| 11 | 24 | jojo |
+| 12 | 14 | Keesha Muro |
+| 13 | 14 | Jonathan Hewitt |
+| 14 | 11 | Cherry |
+| 15 | 10 | Janae Harris |
+| 16 | 10 | Shiny Brick |
+| 17 | 9 | Nancy McCalla Abercrombie |
+| 18 | 9 | Hotstuff |
+| 19 | 8 | smarty |
 
 ---
 *Standings created by tournaments datasource generation tool*
