@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 14:10:37 UTC
+# Standings for team1 as of 2026-06-05 14:11:13 UTC
 
 **Total Participants:** 149
 
@@ -28,111 +28,111 @@
 | 20 | 81 | Mafio SO |
 | 21 | 81 | Robyn Caldwell |
 | 22 | 80 | Felicia Williams |
-| 23 | 80 | Rachel Zimmerman |
-| 24 | 80 | Jazzy Dashpiece |
-| 25 | 77 | Amber Wilson |
-| 26 | 74 | ♈️ Ariesbaby |
-| 27 | 72 | Dacia Hicks |
-| 28 | 67 | Michele Elizabeth McKay-Johnson |
-| 29 | 66 | Shontanese Adams |
-| 30 | 65 | Shanell Thomas |
-| 31 | 65 | Dizzy Dashy |
-| 32 | 63 | Carrie English |
-| 33 | 60 | Christian Pham |
-| 34 | 59 | Cj Gorman |
-| 35 | 57 | Tosha Michelle |
-| 36 | 54 | Lauraly |
-| 37 | 51 | David Fuentes |
-| 38 | 50 | Yazz |
+| 23 | 80 | JoJo |
+| 24 | 80 | Rachel Zimmerman |
+| 25 | 80 | Jazzy Dashpiece |
+| 26 | 77 | Amber Wilson |
+| 27 | 74 | ♈️ Ariesbaby |
+| 28 | 72 | Dacia Hicks |
+| 29 | 67 | Michele Elizabeth McKay-Johnson |
+| 30 | 66 | Shontanese Adams |
+| 31 | 65 | Shanell Thomas |
+| 32 | 65 | Dizzy Dashy |
+| 33 | 63 | Carrie English |
+| 34 | 60 | Christian Pham |
+| 35 | 59 | Cj Gorman |
+| 36 | 57 | Tosha Michelle |
+| 37 | 54 | Lauraly |
+| 38 | 51 | David Fuentes |
 | 39 | 50 | Donna Payne |
 | 40 | 50 | Slinky Party |
-| 41 | 45 | Katrina Ramey |
-| 42 | 44 | Ashley MyBeauty Daniels |
-| 43 | 43 | Block |
-| 44 | 43 | KenpachisGirl |
-| 45 | 42 | Frisky Fall |
-| 46 | 41 | Jessica Russell |
-| 47 | 40 | Cheeky Pop |
-| 48 | 40 | Jean Regis |
-| 49 | 40 | JoJo |
-| 50 | 40 | Char |
-| 51 | 40 | $hort Dog |
-| 52 | 40 | Leavon Smith |
+| 41 | 50 | Yazz |
+| 42 | 45 | Katrina Ramey |
+| 43 | 44 | Ashley MyBeauty Daniels |
+| 44 | 43 | Block |
+| 45 | 43 | KenpachisGirl |
+| 46 | 42 | Frisky Fall |
+| 47 | 41 | Jessica Russell |
+| 48 | 40 | Leavon Smith |
+| 49 | 40 | $hort Dog |
+| 50 | 40 | Jean Regis |
+| 51 | 40 | Char |
+| 52 | 40 | Cheeky Pop |
 | 53 | 40 | Flashy Slam |
 | 54 | 38 | rls |
-| 55 | 37 | Lootch |
-| 56 | 37 | Steve Reno |
-| 57 | 35 | Saucy Crusher |
-| 58 | 35 | Yashica Smith |
+| 55 | 37 | Steve Reno |
+| 56 | 37 | Lootch |
+| 57 | 35 | KoolKimJay |
+| 58 | 35 | Lilly Brown |
 | 59 | 35 | Dai Bo |
-| 60 | 35 | KoolKimJay |
-| 61 | 35 | Lilly Brown |
+| 60 | 35 | Saucy Crusher |
+| 61 | 35 | Yashica Smith |
 | 62 | 33 | Sashaleo |
-| 63 | 32 | Melvin Simpson |
-| 64 | 32 | Tobey Marberry |
-| 65 | 30 | Casey Chapman |
-| 66 | 30 | Jack Vlasak |
-| 67 | 30 | Brian Bohanon II |
-| 68 | 30 | Lester Malone |
-| 69 | 30 | Andi McGreevy |
+| 63 | 32 | Tobey Marberry |
+| 64 | 32 | Melvin Simpson |
+| 65 | 30 | Brian Bohanon II |
+| 66 | 30 | Andi McGreevy |
+| 67 | 30 | Jack Vlasak |
+| 68 | 30 | Casey Chapman |
+| 69 | 30 | Lester Malone |
 | 70 | 30 | Saucy Faller |
 | 71 | 29 | Sarah Marie |
 | 72 | 29 | hope |
 | 73 | 28 | John Staub |
-| 74 | 27 | Boldy Pivoty |
-| 75 | 27 | Zany Breaker |
-| 76 | 27 | Jae Thompson-Tyus |
-| 77 | 27 | Angela R Wilson |
-| 78 | 27 | Charlene Baltimore |
-| 79 | 27 | Mighty Dropper |
-| 80 | 25 | Hasty Pivoty |
-| 81 | 25 | Tyrone Porter |
+| 74 | 27 | Zany Breaker |
+| 75 | 27 | Mighty Dropper |
+| 76 | 27 | Angela R Wilson |
+| 77 | 27 | Charlene Baltimore |
+| 78 | 27 | Boldy Pivoty |
+| 79 | 27 | Jae Thompson-Tyus |
+| 80 | 25 | Tyrone Porter |
+| 81 | 25 | Hasty Pivoty |
 | 82 | 24 | TBABYJ |
 | 83 | 23 | Poppy Twister |
 | 84 | 22 | Tanisha Taylor |
 | 85 | 21 | Brave Balanceblock |
 | 86 | 20 | Trina Greenwood |
-| 87 | 20 | Jai |
-| 88 | 20 | Kimmie Gargano |
+| 87 | 20 | Kimmie Gargano |
+| 88 | 20 | Jai |
 | 89 | 20 | Tony P Burke |
 | 90 | 20 | Chevalier Burley |
-| 91 | 19 | Amanda Woodruff |
-| 92 | 19 | Saucy Tile |
+| 91 | 19 | Brenda Malachi-butler |
+| 92 | 19 | Shanjerrica Taylor Rosell |
 | 93 | 19 | Jenni |
-| 94 | 19 | Shanjerrica Taylor Rosell |
-| 95 | 19 | Brenda Malachi-butler |
-| 96 | 18 | AleahKCH |
-| 97 | 18 | Sunny Clicky |
-| 98 | 18 | Tyree Tman Shinette |
-| 99 | 17 | Kimberly Red |
-| 100 | 17 | AF Cruz |
-| 101 | 17 | Rikki Moran |
-| 102 | 16 | Sylvia Offically A Mcgowan |
-| 103 | 16 | MsBobby Patrick |
-| 104 | 15 | Delitra Perkins Hatter |
+| 94 | 19 | Amanda Woodruff |
+| 95 | 19 | Saucy Tile |
+| 96 | 18 | Tyree Tman Shinette |
+| 97 | 18 | AleahKCH |
+| 98 | 18 | Sunny Clicky |
+| 99 | 17 | AF Cruz |
+| 100 | 17 | Rikki Moran |
+| 101 | 17 | Kimberly Red |
+| 102 | 16 | MsBobby Patrick |
+| 103 | 16 | Sylvia Offically A Mcgowan |
+| 104 | 15 | Jess |
 | 105 | 15 | Una |
-| 106 | 15 | Jess |
+| 106 | 15 | Delitra Perkins Hatter |
 | 107 | 15 | Tami Spence |
-| 108 | 14 | Alyssa Rae |
+| 108 | 14 | David A Alvino |
 | 109 | 14 | No_Other_Choice |
-| 110 | 14 | David A Alvino |
+| 110 | 14 | Alyssa Rae |
 | 111 | 13 | Oaklonboy mike |
-| 112 | 12 | Kimberly Hernandez |
-| 113 | 12 | NastyFriend |
-| 114 | 11 | Desiree Ryder |
-| 115 | 11 | Tamara N Lee |
+| 112 | 12 | NastyFriend |
+| 113 | 12 | Kimberly Hernandez |
+| 114 | 11 | Tamara N Lee |
+| 115 | 11 | Desiree Ryder |
 | 116 | 11 | Kp |
-| 117 | 10 | Hoppy Rumbler |
-| 118 | 10 | Kenny 'Tailormade' Boyd |
-| 119 | 10 | Keke |
-| 120 | 10 | Daddy |
-| 121 | 10 | Tishauna Virgo |
-| 122 | 10 | Megan Payette |
-| 123 | 10 | 신재호 |
-| 124 | 9 | JesusSaves 😇 |
-| 125 | 9 | IThinkNot |
-| 126 | 9 | Tina Criam |
-| 127 | 9 | Shakmar |
+| 117 | 10 | Daddy |
+| 118 | 10 | Hoppy Rumbler |
+| 119 | 10 | Tishauna Virgo |
+| 120 | 10 | Kenny 'Tailormade' Boyd |
+| 121 | 10 | 신재호 |
+| 122 | 10 | Keke |
+| 123 | 10 | Megan Payette |
+| 124 | 9 | Shakmar |
+| 125 | 9 | Tina Criam |
+| 126 | 9 | IThinkNot |
+| 127 | 9 | JesusSaves 😇 |
 | 128 | 8 | Brika Brika |
 | 129 | 8 | Zachary Colegrove |
 | 130 | 8 | Jessie N Michael Silvers |
