@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 13:33:14 UTC
+# Standings for team1 as of 2026-06-05 13:34:13 UTC
 
-**Total Participants:** 113
+**Total Participants:** 114
 
 ## Participant Scores
 
@@ -11,7 +11,7 @@
 | 3 | 749 | Aviv Zehavi |
 | 4 | 523 | Charnay Peacock |
 | 5 | 513 | Chris Russell |
-| 6 | 373 | jaimie |
+| 6 | 433 | jaimie |
 | 7 | 366 | Tracy Cohen |
 | 8 | 303 | Brian Stackhouse |
 | 9 | 241 | Ivana Schmidt |
@@ -31,8 +31,8 @@
 | 23 | 74 | ♈️ Ariesbaby |
 | 24 | 67 | Michele Elizabeth McKay-Johnson |
 | 25 | 66 | Shontanese Adams |
-| 26 | 65 | Shanell Thomas |
-| 27 | 65 | Dizzy Dashy |
+| 26 | 65 | Dizzy Dashy |
+| 27 | 65 | Shanell Thomas |
 | 28 | 63 | Carrie English |
 | 29 | 60 | Asani CHumba |
 | 30 | 60 | Christian Pham |
@@ -49,76 +49,77 @@
 | 41 | 37 | Lootch |
 | 42 | 37 | Steve Reno |
 | 43 | 35 | Saucy Crusher |
-| 44 | 35 | KoolKimJay |
-| 45 | 35 | Lilly Brown |
-| 46 | 35 | Dai Bo |
+| 44 | 35 | Lilly Brown |
+| 45 | 35 | Dai Bo |
+| 46 | 35 | KoolKimJay |
 | 47 | 32 | Tobey Marberry |
 | 48 | 31 | Yashica Smith |
-| 49 | 30 | Saucy Faller |
+| 49 | 30 | Cheeky Pop |
 | 50 | 30 | Casey Chapman |
-| 51 | 30 | Cheeky Pop |
-| 52 | 30 | Lester Malone |
-| 53 | 30 | Brian Bohanon II |
+| 51 | 30 | Lester Malone |
+| 52 | 30 | Brian Bohanon II |
+| 53 | 30 | Saucy Faller |
 | 54 | 28 | John Staub |
-| 55 | 27 | Zany Breaker |
-| 56 | 27 | Angela R Wilson |
+| 55 | 27 | Jae Thompson-Tyus |
+| 56 | 27 | Zany Breaker |
 | 57 | 27 | Charlene Baltimore |
-| 58 | 27 | Jae Thompson-Tyus |
+| 58 | 27 | Angela R Wilson |
 | 59 | 25 | Tyrone Porter |
 | 60 | 25 | Hasty Pivoty |
 | 61 | 23 | Poppy Twister |
 | 62 | 22 | Tanisha Taylor |
 | 63 | 21 | Brave Balanceblock |
-| 64 | 20 | Kimmie Gargano |
-| 65 | 20 | Chevalier Burley |
-| 66 | 20 | Trina Greenwood |
-| 67 | 20 | Tony P Burke |
+| 64 | 20 | Tony P Burke |
+| 65 | 20 | Kimmie Gargano |
+| 66 | 20 | Chevalier Burley |
+| 67 | 20 | Trina Greenwood |
 | 68 | 20 | Jai |
-| 69 | 19 | Jenni |
-| 70 | 19 | Brenda Malachi-butler |
-| 71 | 19 | Amanda Woodruff |
-| 72 | 19 | Shanjerrica Taylor Rosell |
-| 73 | 18 | AleahKCH |
+| 69 | 19 | Amanda Woodruff |
+| 70 | 19 | Jenni |
+| 71 | 19 | Saucy Tile |
+| 72 | 19 | Brenda Malachi-butler |
+| 73 | 19 | Shanjerrica Taylor Rosell |
 | 74 | 18 | Tyree Tman Shinette |
-| 75 | 18 | Sunny Clicky |
-| 76 | 17 | Kimberly Red |
-| 77 | 17 | Rikki Moran |
-| 78 | 16 | MsBobby Patrick |
+| 75 | 18 | AleahKCH |
+| 76 | 18 | Sunny Clicky |
+| 77 | 17 | Kimberly Red |
+| 78 | 17 | Rikki Moran |
 | 79 | 16 | Sylvia Offically A Mcgowan |
-| 80 | 15 | Tami Spence |
-| 81 | 15 | Una |
+| 80 | 16 | Boldy Pivoty |
+| 81 | 16 | MsBobby Patrick |
 | 82 | 15 | Ashley MyBeauty Daniels |
-| 83 | 14 | David A Alvino |
-| 84 | 14 | Alyssa Rae |
-| 85 | 13 | Oaklonboy mike |
-| 86 | 12 | Boldy Pivoty |
-| 87 | 12 | Kimberly Hernandez |
-| 88 | 11 | Desiree Ryder |
-| 89 | 10 | Flashy Slam |
-| 90 | 10 | Tishauna Virgo |
-| 91 | 10 | Sarah Marie |
-| 92 | 10 | Megan Payette |
-| 93 | 10 | Kenny 'Tailormade' Boyd |
-| 94 | 10 | Keke |
+| 83 | 15 | Tami Spence |
+| 84 | 15 | Una |
+| 85 | 14 | Alyssa Rae |
+| 86 | 14 | David A Alvino |
+| 87 | 13 | Oaklonboy mike |
+| 88 | 12 | Kimberly Hernandez |
+| 89 | 11 | Desiree Ryder |
+| 90 | 10 | Sarah Marie |
+| 91 | 10 | Kenny 'Tailormade' Boyd |
+| 92 | 10 | Keke |
+| 93 | 10 | Flashy Slam |
+| 94 | 10 | Megan Payette |
 | 95 | 10 | Daddy |
-| 96 | 10 | 신재호 |
-| 97 | 9 | IThinkNot |
+| 96 | 10 | Tishauna Virgo |
+| 97 | 10 | 신재호 |
 | 98 | 9 | Shakmar |
 | 99 | 9 | Tina Criam |
-| 100 | 9 | Tamara N Lee |
-| 101 | 8 | Brika Brika |
-| 102 | 8 | Sammie Walker |
-| 103 | 8 | Jessie N Michael Silvers |
-| 104 | 7 | Kendra McIntyre |
-| 105 | 7 | Mary2 |
-| 106 | 6 | Janine Hunter |
-| 107 | 6 | Taz Ballard |
-| 108 | 6 | Ashley Espeut |
-| 109 | 6 | Jayjay Rich |
-| 110 | 5 | DirtiestofMikes |
-| 111 | 5 | Jennifer Moore |
-| 112 | 5 | Tamika Fisher |
-| 113 | 5 | Derek Beverly |
+| 100 | 9 | IThinkNot |
+| 101 | 9 | Tamara N Lee |
+| 102 | 8 | Brika Brika |
+| 103 | 8 | Sammie Walker |
+| 104 | 8 | Jessie N Michael Silvers |
+| 105 | 7 | Kendra McIntyre |
+| 106 | 7 | Mary2 |
+| 107 | 6 | Janine Hunter |
+| 108 | 6 | Taz Ballard |
+| 109 | 6 | Ashley Espeut |
+| 110 | 6 | Jayjay Rich |
+| 111 | 5 | DirtiestofMikes |
+| 112 | 5 | Jennifer Moore |
+| 113 | 5 | Tamika Fisher |
+| 114 | 5 | Derek Beverly |
 
 ---
 *Standings created by tournaments datasource generation tool*
