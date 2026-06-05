@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 14:52:38 UTC
+# Standings for team1 as of 2026-06-05 14:53:13 UTC
 
 **Total Participants:** 205
 
@@ -138,12 +138,12 @@
 | 130 | 18 | Danny M GR |
 | 131 | 18 | AleahKCH |
 | 132 | 18 | Sunny Clicky |
-| 133 | 17 | Byron Mario Cawthon |
-| 134 | 17 | Rikki Moran |
-| 135 | 17 | Kimberly Red |
-| 136 | 16 | Tamara N Lee |
-| 137 | 16 | Sylvia Offically A Mcgowan |
-| 138 | 16 | Khatyrah Burnette |
+| 133 | 18 | Khatyrah Burnette |
+| 134 | 17 | Byron Mario Cawthon |
+| 135 | 17 | Rikki Moran |
+| 136 | 17 | Kimberly Red |
+| 137 | 16 | Tamara N Lee |
+| 138 | 16 | Sylvia Offically A Mcgowan |
 | 139 | 16 | MsBobby Patrick |
 | 140 | 16 | Sunny Tumbler |
 | 141 | 15 | Una |
@@ -165,52 +165,52 @@
 | 157 | 12 | Yadira Salgado |
 | 158 | 11 | Dena Marie Lee |
 | 159 | 11 | Kp |
-| 160 | 11 | Desiree Ryder |
-| 161 | 10 | Keke |
-| 162 | 10 | Shannon Carriger |
-| 163 | 10 | Daddy |
-| 164 | 10 | Christian Whittaker |
-| 165 | 10 | Megan Payette |
-| 166 | 10 | Po Marley |
-| 167 | 10 | Kenny 'Tailormade' Boyd |
-| 168 | 10 | Hoppy Rumbler |
-| 169 | 10 | Tishauna Virgo |
-| 170 | 9 | Clifford Petroske |
-| 171 | 9 | Tina Criam |
-| 172 | 9 | Ta'Kaiyah M. Spann |
-| 173 | 9 | Sanjuro |
+| 160 | 11 | Sanjuro |
+| 161 | 11 | Desiree Ryder |
+| 162 | 10 | Keke |
+| 163 | 10 | Shannon Carriger |
+| 164 | 10 | Daddy |
+| 165 | 10 | Christian Whittaker |
+| 166 | 10 | Megan Payette |
+| 167 | 10 | Po Marley |
+| 168 | 10 | Kenny 'Tailormade' Boyd |
+| 169 | 10 | Hoppy Rumbler |
+| 170 | 10 | Tishauna Virgo |
+| 171 | 9 | Clifford Petroske |
+| 172 | 9 | Tina Criam |
+| 173 | 9 | Ta'Kaiyah M. Spann |
 | 174 | 9 | Shakmar |
 | 175 | 9 | DellaLucretia Thomas |
 | 176 | 8 | Brika Brika |
-| 177 | 8 | Sammie Walker |
-| 178 | 8 | Breezy Catcher |
-| 179 | 8 | Jessie N Michael Silvers |
-| 180 | 8 | Tanesha Ga'sFinest Corbett |
+| 177 | 8 | Tanesha Ga'sFinest Corbett |
+| 178 | 8 | Sammie Walker |
+| 179 | 8 | Breezy Catcher |
+| 180 | 8 | Jessie N Michael Silvers |
 | 181 | 7 | Mary2 |
 | 182 | 7 | Kendra McIntyre |
 | 183 | 7 | whatever |
-| 184 | 6 | Allison Baxter |
-| 185 | 6 | Jeffrey Barrows |
-| 186 | 6 | Cece Fowler |
-| 187 | 6 | Janine Hunter |
+| 184 | 6 | Christopher Wallace |
+| 185 | 6 | Jumpy Gridlock |
+| 186 | 6 | Allison Baxter |
+| 187 | 6 | Jeffrey Barrows |
 | 188 | 6 | Dandy Brickfit |
-| 189 | 6 | Taz Ballard |
-| 190 | 6 | Jumpy Gridlock |
-| 191 | 6 | Christopher Wallace |
-| 192 | 5 | Temeshia Brooks Washington |
-| 193 | 5 | KeeKee Williams |
-| 194 | 5 | Elaine Youmans |
-| 195 | 5 | Vernon Hoyt |
-| 196 | 5 | Rixo Blax |
-| 197 | 5 | Guy Incognito |
-| 198 | 5 | Tamika Fisher |
-| 199 | 5 | Jennifer Moore |
-| 200 | 5 | Kidgib5 |
-| 201 | 5 | Shawn Himes |
-| 202 | 5 | DirtiestofMikes |
-| 203 | 5 | Stephanie Zuniga Tullock |
-| 204 | 5 | Lil T |
-| 205 | 5 | Derek Beverly |
+| 189 | 6 | Cece Fowler |
+| 190 | 6 | Taz Ballard |
+| 191 | 6 | Janine Hunter |
+| 192 | 5 | Tamika Fisher |
+| 193 | 5 | Rixo Blax |
+| 194 | 5 | Derek Beverly |
+| 195 | 5 | Temeshia Brooks Washington |
+| 196 | 5 | KeeKee Williams |
+| 197 | 5 | Lil T |
+| 198 | 5 | Vernon Hoyt |
+| 199 | 5 | DirtiestofMikes |
+| 200 | 5 | Shawn Himes |
+| 201 | 5 | Kidgib5 |
+| 202 | 5 | Jennifer Moore |
+| 203 | 5 | Elaine Youmans |
+| 204 | 5 | Guy Incognito |
+| 205 | 5 | Stephanie Zuniga Tullock |
 
 ---
 *Standings created by tournaments datasource generation tool*
