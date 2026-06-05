@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 16:34:14 UTC
+# Standings for team1 as of 2026-06-05 16:34:38 UTC
 
 **Total Participants:** 296
 
@@ -46,7 +46,7 @@
 | 38 | 140 | JoJo |
 | 39 | 135 | Jawaun Daniels |
 | 40 | 126 | Cee Emm |
-| 41 | 120 | Blockhead |
+| 41 | 121 | Blockhead |
 | 42 | 111 | Shalena Marie Humphrey |
 | 43 | 103 | KenpachisGirl |
 | 44 | 100 | Cool Bridger |
@@ -295,13 +295,13 @@
 | 287 | 5 | KeeKee Williams |
 | 288 | 5 | Stephanie Zuniga Tullock |
 | 289 | 5 | Lil T |
-| 290 | 5 | DirtiestofMikes |
-| 291 | 5 | Kidgib5 |
-| 292 | 5 | Jennifer Moore |
-| 293 | 5 | Shawn Himes |
-| 294 | 5 | Vernon Hoyt |
-| 295 | 5 | Tamika Fisher |
-| 296 | 5 | pooh |
+| 290 | 5 | pooh |
+| 291 | 5 | DirtiestofMikes |
+| 292 | 5 | Kidgib5 |
+| 293 | 5 | Jennifer Moore |
+| 294 | 5 | Shawn Himes |
+| 295 | 5 | Vernon Hoyt |
+| 296 | 5 | Tamika Fisher |
 
 ---
 *Standings created by tournaments datasource generation tool*
