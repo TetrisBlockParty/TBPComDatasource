@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 19:24:13 UTC
+# Standings for team2 as of 2026-06-05 19:24:36 UTC
 
 **Total Participants:** 450
 
@@ -18,17 +18,17 @@
 | 10 | 1800 | Mochi |
 | 11 | 1243 | Christina Shell |
 | 12 | 1128 | Jennifer Corder |
-| 13 | 1100 | Kathleen M Cox |
-| 14 | 1100 | Bobbi |
+| 13 | 1100 | Bobbi |
+| 14 | 1100 | Kathleen M Cox |
 | 15 | 937 | Bea Bee |
 | 16 | 862 | Traci Elizabeth |
 | 17 | 700 | Anthony Lilley |
 | 18 | 663 | Logan Basham |
 | 19 | 557 | Amber Triguero |
 | 20 | 515 | Loony Faller |
-| 21 | 503 | Quirky Catcher |
-| 22 | 503 | Jamie Jones |
-| 23 | 503 | Charley Bedford |
+| 21 | 503 | Jamie Jones |
+| 22 | 503 | Charley Bedford |
+| 23 | 503 | Quirky Catcher |
 | 24 | 494 | Shandrea Crawford |
 | 25 | 445 | Amy Gale |
 | 26 | 420 | Kathleen Dumbazz |
