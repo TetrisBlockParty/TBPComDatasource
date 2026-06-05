@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 12:30:13 UTC
+# Standings for team4 as of 2026-06-05 12:30:36 UTC
 
 **Total Participants:** 38
 
@@ -15,23 +15,23 @@
 | 7 | 77 | Ryan Paul Clark-Ramsey |
 | 8 | 51 | Real Talk Vibes |
 | 9 | 50 | Keys Tome |
-| 10 | 41 | Giggy Matchpiece |
-| 11 | 38 | Charity Thomas |
-| 12 | 34 | jojo |
-| 13 | 30 | Janae Harris |
+| 10 | 46 | Janae Harris |
+| 11 | 41 | Giggy Matchpiece |
+| 12 | 38 | Charity Thomas |
+| 13 | 34 | jojo |
 | 14 | 28 | Melissa Schwager |
 | 15 | 26 | Dana Fontanez |
-| 16 | 25 | Маркус Вік |
-| 17 | 25 | Shiny Brick |
+| 16 | 25 | Shiny Brick |
+| 17 | 25 | Маркус Вік |
 | 18 | 21 | Keesha Muro |
 | 19 | 21 | Kim |
-| 20 | 16 | smarty |
+| 20 | 20 | smarty |
 | 21 | 15 | Perry Ransom |
 | 22 | 14 | Jonathan Hewitt |
 | 23 | 13 | Nancy McCalla Abercrombie |
 | 24 | 13 | Cherry |
-| 25 | 12 | Erica Pompey |
-| 26 | 12 | Blockcrusher |
+| 25 | 12 | Blockcrusher |
+| 26 | 12 | Erica Pompey |
 | 27 | 12 | Jasmine Marie |
 | 28 | 10 | Hasty Dropzone |
 | 29 | 10 | Buchanon Bossingup Jadrienne |
@@ -40,10 +40,10 @@
 | 32 | 7 | George Palacios |
 | 33 | 6 | Dizzy |
 | 34 | 6 | Zippy Snaplink |
-| 35 | 5 | Jason Garnatz |
-| 36 | 5 | Laurie Patrick |
-| 37 | 5 | Cflixer |
-| 38 | 5 | Jonelle Jacobs |
+| 35 | 5 | Jonelle Jacobs |
+| 36 | 5 | Jason Garnatz |
+| 37 | 5 | Laurie Patrick |
+| 38 | 5 | Cflixer |
 
 ---
 *Standings created by tournaments datasource generation tool*
