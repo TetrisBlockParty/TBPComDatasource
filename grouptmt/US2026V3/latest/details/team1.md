@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 16:20:14 UTC
+# Standings for team1 as of 2026-06-05 16:20:37 UTC
 
 **Total Participants:** 285
 
@@ -177,31 +177,31 @@
 | 169 | 21 | Brave Balanceblock |
 | 170 | 21 | Sylvia Offically A Mcgowan |
 | 171 | 20 | Jai |
-| 172 | 20 | Dorian Griffin |
-| 173 | 20 | Epic Snapfall |
-| 174 | 20 | Heather Aurelia |
-| 175 | 20 | Nona Harriel |
-| 176 | 20 | Nyhlah Patterson |
-| 177 | 20 | Devin West |
+| 172 | 20 | Kenneth Hefney |
+| 173 | 20 | Dorian Griffin |
+| 174 | 20 | Epic Snapfall |
+| 175 | 20 | Heather Aurelia |
+| 176 | 20 | Nona Harriel |
+| 177 | 20 | Chevalier Burley |
 | 178 | 20 | Trina Greenwood |
-| 179 | 20 | Chevalier Burley |
-| 180 | 19 | Amanda Woodruff |
-| 181 | 19 | Saucy Tile |
-| 182 | 19 | Shanjerrica Taylor Rosell |
-| 183 | 19 | Michele Simpson |
-| 184 | 19 | Mimi 1.0 |
-| 185 | 19 | Jenni |
-| 186 | 19 | Brenda Malachi-butler |
+| 179 | 20 | Devin West |
+| 180 | 20 | Nyhlah Patterson |
+| 181 | 19 | Jenni |
+| 182 | 19 | Saucy Tile |
+| 183 | 19 | Shanjerrica Taylor Rosell |
+| 184 | 19 | Michele Simpson |
+| 185 | 19 | Amanda Woodruff |
+| 186 | 19 | Mimi 1.0 |
 | 187 | 19 | LAhoneybun82 |
-| 188 | 19 | Lozuna |
-| 189 | 18 | Sunny Clicky |
+| 188 | 19 | Brenda Malachi-butler |
+| 189 | 19 | Lozuna |
 | 190 | 18 | AleahKCH |
-| 191 | 18 | Tyree Tman Shinette |
-| 192 | 18 | Danny M GR |
-| 193 | 18 | Li-Li Ratliff |
-| 194 | 18 | Kenneth Hefney |
-| 195 | 17 | Kimberly Red |
-| 196 | 17 | Elizabeth Vega Coreano |
+| 191 | 18 | Sunny Clicky |
+| 192 | 18 | Tyree Tman Shinette |
+| 193 | 18 | Danny M GR |
+| 194 | 18 | Li-Li Ratliff |
+| 195 | 17 | Elizabeth Vega Coreano |
+| 196 | 17 | Kimberly Red |
 | 197 | 17 | Rikki Moran |
 | 198 | 16 | Sunny Tumbler |
 | 199 | 16 | Jason Mungin |
@@ -278,19 +278,19 @@
 | 270 | 6 | Christopher Wallace |
 | 271 | 6 | Brittnay Wright |
 | 272 | 5 | Tamika Fisher |
-| 273 | 5 | Stephanie Zuniga Tullock |
-| 274 | 5 | Temeshia Brooks Washington |
-| 275 | 5 | KeeKee Williams |
-| 276 | 5 | Derek Beverly |
-| 277 | 5 | pooh |
-| 278 | 5 | Queenie Perry |
-| 279 | 5 | DirtiestofMikes |
-| 280 | 5 | Kidgib5 |
-| 281 | 5 | Jennifer Moore |
-| 282 | 5 | Vernon Hoyt |
-| 283 | 5 | Shawn Himes |
-| 284 | 5 | Zappy Clearfit |
-| 285 | 5 | Lil T |
+| 273 | 5 | Zappy Clearfit |
+| 274 | 5 | Stephanie Zuniga Tullock |
+| 275 | 5 | Temeshia Brooks Washington |
+| 276 | 5 | KeeKee Williams |
+| 277 | 5 | Derek Beverly |
+| 278 | 5 | pooh |
+| 279 | 5 | Lil T |
+| 280 | 5 | DirtiestofMikes |
+| 281 | 5 | Kidgib5 |
+| 282 | 5 | Jennifer Moore |
+| 283 | 5 | Vernon Hoyt |
+| 284 | 5 | Shawn Himes |
+| 285 | 5 | Queenie Perry |
 
 ---
 *Standings created by tournaments datasource generation tool*
