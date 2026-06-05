@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 23:12:16 UTC
+# Standings for team4 as of 2026-06-05 23:12:37 UTC
 
 **Total Participants:** 540
 
@@ -332,63 +332,63 @@
 | 324 | 25 | Meghan Etchells |
 | 325 | 25 | ButterfliesRFree |
 | 326 | 25 | Andrea Dre Lomeli |
-| 327 | 25 | EJ Frazier |
-| 328 | 25 | Boldy Rumbler |
-| 329 | 24 | Socorro Arredondo |
-| 330 | 24 | Smiley Gridzone |
-| 331 | 24 | Nikcole Alexis Bryan |
-| 332 | 24 | Nancy McCalla Abercrombie |
-| 333 | 24 | Keesha Muro |
-| 334 | 24 | Spicy Peach |
-| 335 | 24 | Tony Clark |
-| 336 | 24 | EvoKitty |
-| 337 | 24 | Katiana Gonzalez |
-| 338 | 24 | Lana Tran |
-| 339 | 23 | Anna Ryan |
+| 327 | 25 | Boldy Rumbler |
+| 328 | 25 | EJ Frazier |
+| 329 | 24 | Cheery Risegrid |
+| 330 | 24 | Nikcole Alexis Bryan |
+| 331 | 24 | Socorro Arredondo |
+| 332 | 24 | Smiley Gridzone |
+| 333 | 24 | Spicy Peach |
+| 334 | 24 | Nancy McCalla Abercrombie |
+| 335 | 24 | Keesha Muro |
+| 336 | 24 | Tony Clark |
+| 337 | 24 | EvoKitty |
+| 338 | 24 | Katiana Gonzalez |
+| 339 | 24 | Lana Tran |
 | 340 | 23 | Sonya |
 | 341 | 23 | Kayla Haddenham |
-| 342 | 23 | Kristen Wallace |
+| 342 | 23 | Anna Ryan |
 | 343 | 23 | Genger |
-| 344 | 22 | ariel |
+| 344 | 23 | Kristen Wallace |
 | 345 | 22 | Jonelle Jacobs |
 | 346 | 22 | Alex Dawn |
-| 347 | 21 | Swanky Matchfit |
+| 347 | 22 | ariel |
 | 348 | 21 | Jacqueline Wright |
-| 349 | 21 | SandyEva |
-| 350 | 21 | Cheery Risegrid |
+| 349 | 21 | Swanky Matchfit |
+| 350 | 21 | SandyEva |
 | 351 | 21 | LilithMoon |
 | 352 | 21 | Dheeh Robles |
-| 353 | 20 | Ashley DuVall |
-| 354 | 20 | Tipsy Patternfit |
-| 355 | 20 | Carla Woodard |
-| 356 | 20 | Jerett Coplin |
-| 357 | 20 | Mexican130 |
-| 358 | 20 | Deanne Silverdahl |
+| 353 | 20 | Margie Thomas |
+| 354 | 20 | Joha Mldo Castillo |
+| 355 | 20 | Deanne Silverdahl |
+| 356 | 20 | Mexican130 |
+| 357 | 20 | Spidaman86 |
+| 358 | 20 | Erika Rubio |
 | 359 | 20 | Silly Risegrid |
-| 360 | 20 | Erika Rubio |
-| 361 | 20 | Margie Thomas |
-| 362 | 20 | BethB |
-| 363 | 20 | Spidaman86 |
+| 360 | 20 | Jerett Coplin |
+| 361 | 20 | Carla Woodard |
+| 362 | 20 | Tipsy Patternfit |
+| 363 | 20 | Aisha Estrada |
 | 364 | 20 | Dizzy Slammer |
-| 365 | 20 | Clever Patterner |
-| 366 | 20 | Stacy G |
+| 365 | 20 | Erica Pompey |
+| 366 | 20 | Natalie Ohrtman Strand |
 | 367 | 20 | Jeremy Barry |
-| 368 | 20 | Natalie Ohrtman Strand |
-| 369 | 20 | Kimberly Devon |
-| 370 | 20 | Hasty Dropzone |
-| 371 | 20 | Erica Pompey |
-| 372 | 20 | Aisha Estrada |
-| 373 | 20 | Joha Mldo Castillo |
-| 374 | 19 | Breezy Blockzone |
-| 375 | 19 | Gigi5 |
-| 376 | 19 | Nicole Ambrose |
-| 377 | 19 | Diana Fernandez |
-| 378 | 19 | Perry Ransom |
-| 379 | 19 | Gary Smallwood |
-| 380 | 19 | Alizabeth Garcia |
-| 381 | 19 | Linda Miltenburg |
-| 382 | 19 | Cheeky Fallzone |
-| 383 | 19 | LandO |
+| 368 | 20 | Stacy G |
+| 369 | 20 | Hasty Dropzone |
+| 370 | 20 | BethB |
+| 371 | 20 | Kimberly Devon |
+| 372 | 20 | Ashley DuVall |
+| 373 | 20 | Clever Patterner |
+| 374 | 19 | LandO |
+| 375 | 19 | Nicole Ambrose |
+| 376 | 19 | Cheeky Fallzone |
+| 377 | 19 | Linda Miltenburg |
+| 378 | 19 | Alizabeth Garcia |
+| 379 | 19 | Perry Ransom |
+| 380 | 19 | Gigi5 |
+| 381 | 19 | Breezy Blockzone |
+| 382 | 19 | Gary Smallwood |
+| 383 | 19 | Diana Fernandez |
 | 384 | 18 | Happy Strikerpiece |
 | 385 | 18 | Stacia Marie |
 | 386 | 18 | Rhonda Dowling |

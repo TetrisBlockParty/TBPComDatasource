@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 23:12:16 UTC
+# Standings for team1 as of 2026-06-05 23:12:37 UTC
 
 **Total Participants:** 586
 
@@ -35,8 +35,8 @@
 | 27 | 411 | Ivana Schmidt |
 | 28 | 363 | Sha Harris |
 | 29 | 360 | She Higgy |
-| 30 | 357 | Sarah Marie |
-| 31 | 357 | AF Cruz |
+| 30 | 359 | AF Cruz |
+| 31 | 357 | Sarah Marie |
 | 32 | 348 | Brian Bohanon II |
 | 33 | 325 | JoJo |
 | 34 | 319 | Shell Lewis |
