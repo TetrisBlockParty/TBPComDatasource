@@ -1,6 +1,6 @@
-# Standings for team3 as of 2026-06-05 12:11:11 UTC
+# Standings for team3 as of 2026-06-05 12:12:12 UTC
 
-**Total Participants:** 16
+**Total Participants:** 20
 
 ## Participant Scores
 
@@ -10,18 +10,22 @@
 | 2 | 140 | Woodrow Weatherford |
 | 3 | 60 | AL Ferrari |
 | 4 | 60 | Bee |
-| 5 | 26 | Kevin C. Moe |
-| 6 | 20 | Paul Hudak |
-| 7 | 18 | Alex Celio |
-| 8 | 15 | Lively Matchpiece |
-| 9 | 15 | Quirky Curve |
-| 10 | 12 | Robby Beltran |
-| 11 | 10 | Dedicated |
-| 12 | 9 | Angie Rodriguez |
-| 13 | 9 | Tnaughty |
-| 14 | 8 | Violet |
-| 15 | 7 | David Glisson |
-| 16 | 5 | Sarah Jane |
+| 5 | 28 | Carolyn Smith |
+| 6 | 28 | Alex Celio |
+| 7 | 27 | Jerome Carlile |
+| 8 | 26 | Kevin C. Moe |
+| 9 | 22 | Lively Matchpiece |
+| 10 | 20 | Paul Hudak |
+| 11 | 15 | Quirky Curve |
+| 12 | 14 | SteffXx |
+| 13 | 13 | Dedicated |
+| 14 | 12 | Robby Beltran |
+| 15 | 11 | Carrie Ness |
+| 16 | 9 | Tnaughty |
+| 17 | 9 | Angie Rodriguez |
+| 18 | 8 | Violet |
+| 19 | 7 | Sarah Jane |
+| 20 | 7 | David Glisson |
 
 ---
 *Standings created by tournaments datasource generation tool*
