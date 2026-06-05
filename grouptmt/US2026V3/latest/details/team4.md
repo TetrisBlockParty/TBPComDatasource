@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 19:58:15 UTC
+# Standings for team4 as of 2026-06-05 19:58:36 UTC
 
 **Total Participants:** 412
 
@@ -68,64 +68,64 @@
 | 60 | 107 | Shayna Vaigneur-Hall |
 | 61 | 104 | Tawna Curry |
 | 62 | 101 | Fruitpunch |
-| 63 | 101 | Lush Fitblock |
-| 64 | 100 | woopa 716 |
-| 65 | 100 | Cal Renee |
-| 66 | 99 | Shelby |
-| 67 | 99 | Lani |
-| 68 | 95 | Маркус Вік |
-| 69 | 95 | Daryn Elliott |
-| 70 | 93 | ktothet |
-| 71 | 91 | Dayna Arthurs |
-| 72 | 90 | Lisa Garcia |
-| 73 | 89 | Waxboss |
-| 74 | 87 | Limbo |
-| 75 | 87 | Anna Gribble |
-| 76 | 86 | Phil Peterson |
+| 63 | 101 | Phil Peterson |
+| 64 | 101 | Lush Fitblock |
+| 65 | 100 | woopa 716 |
+| 66 | 100 | Cal Renee |
+| 67 | 99 | Shelby |
+| 68 | 99 | Lani |
+| 69 | 95 | Маркус Вік |
+| 70 | 95 | Daryn Elliott |
+| 71 | 93 | ktothet |
+| 72 | 91 | Dayna Arthurs |
+| 73 | 90 | Lisa Garcia |
+| 74 | 89 | Waxboss |
+| 75 | 87 | Limbo |
+| 76 | 87 | Anna Gribble |
 | 77 | 86 | Rachel Lemos |
 | 78 | 85 | Renee Sapp |
-| 79 | 84 | Hwanger Land |
-| 80 | 84 | Rae Saunders |
+| 79 | 84 | Rae Saunders |
+| 80 | 84 | Hwanger Land |
 | 81 | 83 | Tiffany Loree Tiffany Oneill |
 | 82 | 82 | Codey Haffner |
 | 83 | 81 | Dominique Melendez |
-| 84 | 80 | Krista Diaz |
-| 85 | 80 | 626 |
-| 86 | 80 | MrLoner Stoner |
-| 87 | 80 | Sarah Berry Stevens |
-| 88 | 79 | Luna |
-| 89 | 79 | Joyce Myers |
+| 84 | 80 | Sarah Berry Stevens |
+| 85 | 80 | MrLoner Stoner |
+| 86 | 80 | 626 |
+| 87 | 80 | Krista Diaz |
+| 88 | 79 | Joyce Myers |
+| 89 | 79 | Luna |
 | 90 | 78 | Tina Thomas |
 | 91 | 76 | Justin Michael |
 | 92 | 75 | June Hoffman |
 | 93 | 74 | Goofy Riser |
-| 94 | 73 | Mark Fitch Jr. |
+| 94 | 73 | Taz |
 | 95 | 73 | Troy Zanelli |
-| 96 | 73 | Taz |
-| 97 | 71 | King |
-| 98 | 71 | Chris Covington |
-| 99 | 71 | Lady |
+| 96 | 73 | Mark Fitch Jr. |
+| 97 | 71 | Chris Covington |
+| 98 | 71 | Lady |
+| 99 | 71 | King |
 | 100 | 71 | Stasia |
 | 101 | 70 | Janae Harris |
-| 102 | 70 | Josh Keith Travierso |
-| 103 | 70 | Leigh Pierce |
-| 104 | 68 | Keys Tome |
+| 102 | 70 | Leigh Pierce |
+| 103 | 70 | Josh Keith Travierso |
+| 104 | 68 | Homie |
 | 105 | 68 | Chirpy Link |
-| 106 | 68 | Homie |
+| 106 | 68 | Keys Tome |
 | 107 | 67 | Alma López Morales |
 | 108 | 67 | Henry Lanier |
-| 109 | 66 | Shiny Brick |
-| 110 | 66 | Jonathan Hewitt |
-| 111 | 66 | Jennifer Garcia |
+| 109 | 66 | Jennifer Garcia |
+| 110 | 66 | Shiny Brick |
+| 111 | 66 | Jonathan Hewitt |
 | 112 | 65 | JuicyJuice |
 | 113 | 65 | Domo Dpn |
 | 114 | 64 | Stef |
 | 115 | 63 | Ana Ruiz |
-| 116 | 60 | Fran Aaron-Ring |
-| 117 | 60 | Blockcrusher |
-| 118 | 60 | George Marshburn |
-| 119 | 60 | Amandacolle |
-| 120 | 60 | DexterDobbins |
+| 116 | 60 | DexterDobbins |
+| 117 | 60 | Amandacolle |
+| 118 | 60 | Blockcrusher |
+| 119 | 60 | Fran Aaron-Ring |
+| 120 | 60 | George Marshburn |
 | 121 | 60 | Jason Allen |
 | 122 | 60 | Chris Rowe |
 | 123 | 60 | Jumpy Builderpiece |
