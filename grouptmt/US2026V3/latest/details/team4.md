@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 21:44:16 UTC
+# Standings for team4 as of 2026-06-05 21:44:36 UTC
 
 **Total Participants:** 480
 
@@ -69,8 +69,8 @@
 | 61 | 143 | RotatedWrongAgain |
 | 62 | 139 | Damon Gaston |
 | 63 | 138 | Adam J Leong |
-| 64 | 135 | Renee Sapp |
-| 65 | 135 | 626 |
+| 64 | 135 | 626 |
+| 65 | 135 | Renee Sapp |
 | 66 | 125 | Leslie Ann Carter |
 | 67 | 124 | Chilly Pivot |
 | 68 | 123 | Anna Gribble |
@@ -84,9 +84,9 @@
 | 76 | 104 | Tawna Curry |
 | 77 | 101 | Lush Fitblock |
 | 78 | 100 | Cal Renee |
-| 79 | 100 | Lisa Garcia |
-| 80 | 100 | woopa 716 |
-| 81 | 100 | CorieBe |
+| 79 | 100 | CorieBe |
+| 80 | 100 | Lisa Garcia |
+| 81 | 100 | woopa 716 |
 | 82 | 99 | Simone |
 | 83 | 99 | Shelby |
 | 84 | 99 | Lani |
@@ -101,8 +101,8 @@
 | 93 | 88 | Loony Rotater |
 | 94 | 87 | Limbo |
 | 95 | 87 | BCO22 |
-| 96 | 86 | Rachel Lemos |
-| 97 | 86 | gabs |
+| 96 | 86 | gabs |
+| 97 | 86 | Rachel Lemos |
 | 98 | 84 | No Time |
 | 99 | 84 | Rae Saunders |
 | 100 | 84 | Hwanger Land |
@@ -125,27 +125,27 @@
 | 117 | 75 | Sarah Perry Cook |
 | 118 | 74 | Goofy Riser |
 | 119 | 74 | Lady |
-| 120 | 73 | Loopy Clusterline |
-| 121 | 73 | Troy Zanelli |
-| 122 | 73 | Mark Fitch Jr. |
+| 120 | 73 | Mark Fitch Jr. |
+| 121 | 73 | Loopy Clusterline |
+| 122 | 73 | Troy Zanelli |
 | 123 | 72 | Slinky Stackzone |
 | 124 | 71 | Chris Covington |
-| 125 | 71 | Stasia |
-| 126 | 71 | King |
+| 125 | 71 | King |
+| 126 | 71 | Stasia |
 | 127 | 70 | Josh Keith Travierso |
 | 128 | 68 | Erika Seaton |
-| 129 | 68 | Keys Tome |
-| 130 | 68 | Chirpy Link |
+| 129 | 68 | Chirpy Link |
+| 130 | 68 | Keys Tome |
 | 131 | 68 | Homie |
 | 132 | 67 | Henry Lanier |
 | 133 | 67 | Alma López Morales |
 | 134 | 66 | Laguya |
 | 135 | 66 | Shiny Brick |
-| 136 | 66 | Jennifer Garcia |
-| 137 | 66 | Mann Manson |
-| 138 | 65 | Cool Risepiece |
-| 139 | 65 | JuicyJuice |
-| 140 | 65 | Domo Dpn |
+| 136 | 66 | Mann Manson |
+| 137 | 66 | Jennifer Garcia |
+| 138 | 65 | JuicyJuice |
+| 139 | 65 | Domo Dpn |
+| 140 | 65 | Cool Risepiece |
 | 141 | 64 | Stef |
 | 142 | 63 | Ana Ruiz |
 | 143 | 63 | Kay |
@@ -154,8 +154,8 @@
 | 146 | 60 | Fran Aaron-Ring |
 | 147 | 60 | Magz |
 | 148 | 60 | Chris Rowe |
-| 149 | 60 | George Marshburn |
-| 150 | 60 | Megan Vick |
+| 149 | 60 | Megan Vick |
+| 150 | 60 | George Marshburn |
 | 151 | 60 | Amandacolle |
 | 152 | 59 | Futrell Brent |
 | 153 | 59 | Paula Renee McCracken |
@@ -397,49 +397,49 @@
 | 389 | 14 | Dolores Falco |
 | 390 | 13 | Deborah Ayliffe |
 | 391 | 13 | Kristie ML SneekaPuff |
-| 392 | 13 | Jen Roe |
-| 393 | 13 | shonaberry |
-| 394 | 12 | my my |
+| 392 | 13 | Blessedmom865 |
+| 393 | 13 | Jen Roe |
+| 394 | 13 | shonaberry |
 | 395 | 12 | Silly Fallzone |
 | 396 | 12 | Shelly Jackson |
-| 397 | 12 | Peterson Cottontail |
-| 398 | 12 | Rebecca Renaud |
-| 399 | 12 | Vicente Bolaños Jr. |
-| 400 | 12 | Fancy Tilefall |
-| 401 | 11 | Cas Gio |
-| 402 | 11 | Dizzy |
-| 403 | 11 | Marina |
-| 404 | 11 | Name |
-| 405 | 11 | Michellee Lewis |
-| 406 | 10 | Monika Webb |
-| 407 | 10 | Lisa Jones |
-| 408 | 10 | taya |
-| 409 | 10 | Loony Edge |
-| 410 | 10 | Jeri Anne Stormo-Toman |
-| 411 | 10 | San |
+| 397 | 12 | my my |
+| 398 | 12 | Khiem Hernandez |
+| 399 | 12 | Rebecca Renaud |
+| 400 | 12 | Vicente Bolaños Jr. |
+| 401 | 12 | Fancy Tilefall |
+| 402 | 12 | Peterson Cottontail |
+| 403 | 11 | Dizzy |
+| 404 | 11 | Marina |
+| 405 | 11 | Cas Gio |
+| 406 | 11 | Michellee Lewis |
+| 407 | 11 | Name |
+| 408 | 10 | Valerie Silva |
+| 409 | 10 | Monika Webb |
+| 410 | 10 | Lisa Jones |
+| 411 | 10 | DanceAngel |
 | 412 | 10 | medicjessi |
-| 413 | 10 | Miguel Teixeira |
-| 414 | 10 | DanceAngel |
-| 415 | 10 | Valerie Silva |
-| 416 | 10 | JP Chua |
-| 417 | 10 | Has2brat |
-| 418 | 10 | Khiem Hernandez |
-| 419 | 10 | Nick Graber |
-| 420 | 10 | Squirrel Donkey |
+| 413 | 10 | Has2brat |
+| 414 | 10 | Miguel Teixeira |
+| 415 | 10 | JP Chua |
+| 416 | 10 | Jeri Anne Stormo-Toman |
+| 417 | 10 | San |
+| 418 | 10 | Loony Edge |
+| 419 | 10 | taya |
+| 420 | 10 | Susan Stofberg Beltran |
 | 421 | 10 | Buchanon Bossingup Jadrienne |
 | 422 | 10 | Brianne Stull |
-| 423 | 10 | Susan Stofberg Beltran |
-| 424 | 9 | Esmond Johnson IV |
-| 425 | 9 | Stotty |
-| 426 | 9 | Hotstuff |
-| 427 | 9 | Scrumptious |
-| 428 | 9 | Tana-Marie Lynn McCarty-Rolf |
-| 429 | 9 | fmp |
-| 430 | 9 | Alex Dawn |
-| 431 | 9 | Blessedmom865 |
-| 432 | 9 | Chirpy Snapclear |
-| 433 | 9 | Allysonjo Varela |
-| 434 | 9 | Corie A. Brinson |
+| 423 | 10 | Nick Graber |
+| 424 | 10 | Squirrel Donkey |
+| 425 | 9 | Esmond Johnson IV |
+| 426 | 9 | Scrumptious |
+| 427 | 9 | Hotstuff |
+| 428 | 9 | Stotty |
+| 429 | 9 | Tana-Marie Lynn McCarty-Rolf |
+| 430 | 9 | fmp |
+| 431 | 9 | Allysonjo Varela |
+| 432 | 9 | Alex Dawn |
+| 433 | 9 | Corie A. Brinson |
+| 434 | 9 | Chirpy Snapclear |
 | 435 | 9 | DuvaDova Ahava |
 | 436 | 9 | nanaz86 |
 | 437 | 9 | Todd Hamilton |
@@ -449,14 +449,14 @@
 | 441 | 8 | tj |
 | 442 | 8 | Manolo Canety |
 | 443 | 8 | Mac James |
-| 444 | 8 | Glitzy Crasher |
-| 445 | 8 | Stephanie Williams |
+| 444 | 8 | Stephanie Williams |
+| 445 | 8 | Glitzy Crasher |
 | 446 | 8 | Jason Moves |
 | 447 | 8 | Matthew Wilcox |
 | 448 | 7 | Erica Armstrong Baz |
-| 449 | 7 | Christy Petty |
+| 449 | 7 | Crystal Parker Bryant |
 | 450 | 7 | Sharron Mullins |
-| 451 | 7 | Crystal Parker Bryant |
+| 451 | 7 | Christy Petty |
 | 452 | 7 | John Brandon Kinney |
 | 453 | 7 | Chipper Hitter |
 | 454 | 7 | Lacey Decker |
@@ -469,15 +469,15 @@
 | 461 | 6 | Delashawne Hodgson |
 | 462 | 6 | GETBOXED! |
 | 463 | 6 | Deb 07 |
-| 464 | 6 | Shepreneur Sade |
-| 465 | 6 | Slinky Snapfit |
-| 466 | 5 | Purple Queen |
-| 467 | 5 | Ali Nicole |
-| 468 | 5 | Yvette Johnson |
-| 469 | 5 | Mighty1 |
-| 470 | 5 | Tahira Patrice |
-| 471 | 5 | Cheery Twister |
-| 472 | 5 | Lolita Nettles |
+| 464 | 6 | Slinky Snapfit |
+| 465 | 6 | Shepreneur Sade |
+| 466 | 5 | Ali Nicole |
+| 467 | 5 | Tahira Patrice |
+| 468 | 5 | Lolita Nettles |
+| 469 | 5 | Cheery Twister |
+| 470 | 5 | Purple Queen |
+| 471 | 5 | Yvette Johnson |
+| 472 | 5 | Mighty1 |
 | 473 | 5 | Lively Cascadeclear |
 | 474 | 5 | Kellz M Bee |
 | 475 | 5 | Danny Frausto |
