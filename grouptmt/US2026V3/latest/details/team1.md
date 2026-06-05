@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:50:33 UTC
+# Standings for team1 as of 2026-06-05 13:51:12 UTC
 
 **Total Participants:** 130
 
@@ -10,7 +10,7 @@
 | 2 | 800 | Chandler Spencer |
 | 3 | 749 | Aviv Zehavi |
 | 4 | 653 | jaimie |
-| 5 | 585 | Chris Russell |
+| 5 | 625 | Chris Russell |
 | 6 | 523 | Charnay Peacock |
 | 7 | 453 | Brian Stackhouse |
 | 8 | 366 | Tracy Cohen |
@@ -56,20 +56,20 @@
 | 48 | 35 | Lilly Brown |
 | 49 | 35 | KoolKimJay |
 | 50 | 35 | Yashica Smith |
-| 51 | 32 | Tobey Marberry |
-| 52 | 30 | Casey Chapman |
-| 53 | 30 | Saucy Faller |
-| 54 | 30 | Brian Bohanon II |
+| 51 | 32 | Melvin Simpson |
+| 52 | 32 | Tobey Marberry |
+| 53 | 30 | Casey Chapman |
+| 54 | 30 | Saucy Faller |
 | 55 | 30 | Lester Malone |
-| 56 | 29 | hope |
-| 57 | 28 | Flashy Slam |
-| 58 | 28 | John Staub |
-| 59 | 27 | Jae Thompson-Tyus |
-| 60 | 27 | Angela R Wilson |
-| 61 | 27 | Zany Breaker |
-| 62 | 27 | Charlene Baltimore |
-| 63 | 25 | Hasty Pivoty |
-| 64 | 25 | Melvin Simpson |
+| 56 | 30 | Brian Bohanon II |
+| 57 | 29 | hope |
+| 58 | 28 | Flashy Slam |
+| 59 | 28 | John Staub |
+| 60 | 27 | Jae Thompson-Tyus |
+| 61 | 27 | Angela R Wilson |
+| 62 | 27 | Zany Breaker |
+| 63 | 27 | Charlene Baltimore |
+| 64 | 25 | Hasty Pivoty |
 | 65 | 25 | Tyrone Porter |
 | 66 | 23 | Poppy Twister |
 | 67 | 22 | Tanisha Taylor |
@@ -106,8 +106,8 @@
 | 98 | 11 | Desiree Ryder |
 | 99 | 11 | Tamara N Lee |
 | 100 | 11 | Kp |
-| 101 | 10 | 신재호 |
-| 102 | 10 | No_Other_Choice |
+| 101 | 11 | No_Other_Choice |
+| 102 | 10 | 신재호 |
 | 103 | 10 | Keke |
 | 104 | 10 | Daddy |
 | 105 | 10 | Tishauna Virgo |
@@ -129,13 +129,13 @@
 | 121 | 6 | Jayjay Rich |
 | 122 | 6 | Taz Ballard |
 | 123 | 6 | Janine Hunter |
-| 124 | 5 | Christian Whittaker |
-| 125 | 5 | Jennifer Moore |
-| 126 | 5 | Kidgib5 |
-| 127 | 5 | Derek Beverly |
-| 128 | 5 | DirtiestofMikes |
-| 129 | 5 | Katrina Ramey |
-| 130 | 5 | Tamika Fisher |
+| 124 | 5 | Tamika Fisher |
+| 125 | 5 | Christian Whittaker |
+| 126 | 5 | Jennifer Moore |
+| 127 | 5 | Kidgib5 |
+| 128 | 5 | Derek Beverly |
+| 129 | 5 | DirtiestofMikes |
+| 130 | 5 | Katrina Ramey |
 
 ---
 *Standings created by tournaments datasource generation tool*
