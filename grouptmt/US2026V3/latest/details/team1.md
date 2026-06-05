@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 19:59:16 UTC
+# Standings for team1 as of 2026-06-05 20:00:13 UTC
 
 **Total Participants:** 458
 
@@ -64,8 +64,8 @@
 | 56 | 140 | Felicia Cain |
 | 57 | 137 | BlackQueen105 |
 | 58 | 136 | Anthony Washington |
-| 59 | 135 | Voice |
-| 60 | 135 | Jawaun Daniels |
+| 59 | 135 | Jawaun Daniels |
+| 60 | 135 | Voice |
 | 61 | 130 | Lashaunda |
 | 62 | 127 | SPNLover24 |
 | 63 | 126 | Cee Emm |
@@ -75,34 +75,34 @@
 | 67 | 111 | Shalena Marie Humphrey |
 | 68 | 108 | Hasty Pivoty |
 | 69 | 103 | KenpachisGirl |
-| 70 | 100 | Char |
-| 71 | 100 | Cool Bridger |
+| 70 | 100 | Zippy Lifter |
+| 71 | 100 | Char |
 | 72 | 100 | Jessica Carter |
-| 73 | 100 | Zippy Lifter |
-| 74 | 96 | Cortaz Lawrie |
-| 75 | 96 | Simone Bailey |
-| 76 | 96 | David Fuentes |
+| 73 | 100 | Cool Bridger |
+| 74 | 97 | David Fuentes |
+| 75 | 96 | Cortaz Lawrie |
+| 76 | 96 | Simone Bailey |
 | 77 | 95 | Nate Myers |
 | 78 | 90 | 신재호 |
-| 79 | 88 | Eric Mcgaughy |
+| 79 | 89 | TBABYJ |
 | 80 | 88 | QueenShay AllGood |
-| 81 | 84 | Ciera Peace |
-| 82 | 82 | Juan Kandiss Escobedo Irwin |
-| 83 | 81 | Lively Riserpiece |
-| 84 | 81 | Mafio SO |
-| 85 | 80 | Charles Johnson |
-| 86 | 80 | Jazzy Dashpiece |
-| 87 | 80 | Chevalier Burley |
-| 88 | 80 | Rachel Zimmerman |
-| 89 | 80 | Felicia Williams |
-| 90 | 80 | Carolyn Smith |
-| 91 | 79 | TBABYJ |
-| 92 | 79 | Mimi 1.0 |
-| 93 | 79 | Shanell Thomas |
+| 81 | 88 | Eric Mcgaughy |
+| 82 | 84 | Ciera Peace |
+| 83 | 82 | Juan Kandiss Escobedo Irwin |
+| 84 | 81 | Lively Riserpiece |
+| 85 | 81 | Mafio SO |
+| 86 | 80 | Rachel Zimmerman |
+| 87 | 80 | Jazzy Dashpiece |
+| 88 | 80 | Charles Johnson |
+| 89 | 80 | Chevalier Burley |
+| 90 | 80 | Felicia Williams |
+| 91 | 80 | Carolyn Smith |
+| 92 | 79 | Shanell Thomas |
+| 93 | 79 | Mimi 1.0 |
 | 94 | 77 | Amber Wilson |
 | 95 | 76 | Giggly Shatterline |
-| 96 | 75 | Katrina Ramey |
-| 97 | 75 | Dizzy Dashy |
+| 96 | 75 | Dizzy Dashy |
+| 97 | 75 | Katrina Ramey |
 | 98 | 74 | Tonya McElroy |
 | 99 | 74 | ♈️ Ariesbaby |
 | 100 | 72 | Mic Balew |
@@ -113,8 +113,8 @@
 | 105 | 65 | Latore Maxie |
 | 106 | 65 | Frisky Fall |
 | 107 | 65 | Jazzy Bridger |
-| 108 | 62 | Cheeky Pop |
-| 109 | 62 | Sanjuro |
+| 108 | 62 | Sanjuro |
+| 109 | 62 | Cheeky Pop |
 | 110 | 61 | Angela R Wilson |
 | 111 | 60 | CJ Robinson |
 | 112 | 60 | Christian Pham |
@@ -355,60 +355,60 @@
 | 347 | 13 | Tori Carter |
 | 348 | 13 | Emma Adams |
 | 349 | 13 | Witty Clear |
-| 350 | 13 | Bold Clusterer |
-| 351 | 13 | Abby |
+| 350 | 13 | John Spath |
+| 351 | 13 | Bold Clusterer |
 | 352 | 13 | Keke |
-| 353 | 13 | Frothy Zoney |
-| 354 | 13 | John Spath |
+| 353 | 13 | Abby |
+| 354 | 13 | Frothy Zoney |
 | 355 | 13 | Oaklonboy mike |
-| 356 | 12 | Rachael Bakowicz Edwards |
+| 356 | 12 | Just2Play$ |
 | 357 | 12 | Andra Ward |
 | 358 | 12 | Cameo Tweed |
 | 359 | 12 | Outspoken Sirchristopher |
-| 360 | 12 | Haley Bell |
-| 361 | 12 | Just2Play$ |
+| 360 | 12 | Rachael Bakowicz Edwards |
+| 361 | 12 | Haley Bell |
 | 362 | 12 | Vontii Blades |
 | 363 | 12 | Soubletzy |
-| 364 | 12 | Abigail Newman Sweet |
-| 365 | 12 | Lillie Blossom Dixon |
-| 366 | 12 | BigMike |
-| 367 | 12 | Mumitt |
-| 368 | 12 | Shauntai Holiday |
-| 369 | 11 | Frilly Shatterline |
-| 370 | 11 | Taz Ballard |
-| 371 | 10 | Chenell Gillard |
+| 364 | 12 | Sonia Binti Mfalme |
+| 365 | 12 | Abigail Newman Sweet |
+| 366 | 12 | Lillie Blossom Dixon |
+| 367 | 12 | Shauntai Holiday |
+| 368 | 12 | Mumitt |
+| 369 | 12 | BigMike |
+| 370 | 11 | Frilly Shatterline |
+| 371 | 11 | Taz Ballard |
 | 372 | 10 | Kenny 'Tailormade' Boyd |
-| 373 | 10 | Bubbly Piececlear |
-| 374 | 10 | Brittanie Wardlow |
-| 375 | 10 | Catara Renae Oliver |
-| 376 | 10 | Tina Mitchell |
-| 377 | 10 | Tessa Gaskin |
-| 378 | 10 | Sonia Binti Mfalme |
-| 379 | 10 | Tishauna Virgo |
-| 380 | 10 | Daddy |
-| 381 | 10 | Shannon Carriger |
-| 382 | 10 | Christian Whittaker |
-| 383 | 10 | Anntionette Sotire |
-| 384 | 10 | Megan Payette |
-| 385 | 10 | Hoppy Rumbler |
-| 386 | 10 | Heru Ogun Yeshua EL |
-| 387 | 10 | Sherri Keys |
-| 388 | 10 | Marie Wilson |
-| 389 | 9 | Rissa Rozay |
-| 390 | 9 | Laura Long |
-| 391 | 9 | Noni |
-| 392 | 9 | Kortney Adams |
-| 393 | 9 | Clifford Petroske |
-| 394 | 9 | Joka NoTime ForHataz |
-| 395 | 9 | Poppy Buildout |
-| 396 | 9 | ummm |
-| 397 | 9 | DellaLucretia Thomas |
-| 398 | 9 | Douglas Price |
-| 399 | 9 | Sherry D Singleton |
-| 400 | 9 | Tina Criam |
-| 401 | 9 | Dana |
-| 402 | 9 | Shakmar |
-| 403 | 9 | Crtjstr |
+| 373 | 10 | Tina Mitchell |
+| 374 | 10 | Christian Whittaker |
+| 375 | 10 | Hoppy Rumbler |
+| 376 | 10 | Chenell Gillard |
+| 377 | 10 | Sherri Keys |
+| 378 | 10 | Marie Wilson |
+| 379 | 10 | Brittanie Wardlow |
+| 380 | 10 | Catara Renae Oliver |
+| 381 | 10 | Bubbly Piececlear |
+| 382 | 10 | Daddy |
+| 383 | 10 | Tessa Gaskin |
+| 384 | 10 | Tishauna Virgo |
+| 385 | 10 | Heru Ogun Yeshua EL |
+| 386 | 10 | Megan Payette |
+| 387 | 10 | Anntionette Sotire |
+| 388 | 10 | Shannon Carriger |
+| 389 | 9 | Sherry D Singleton |
+| 390 | 9 | Kortney Adams |
+| 391 | 9 | Shakmar |
+| 392 | 9 | Douglas Price |
+| 393 | 9 | Crtjstr |
+| 394 | 9 | Laura Long |
+| 395 | 9 | Noni |
+| 396 | 9 | Dana |
+| 397 | 9 | Joka NoTime ForHataz |
+| 398 | 9 | DellaLucretia Thomas |
+| 399 | 9 | Rissa Rozay |
+| 400 | 9 | Clifford Petroske |
+| 401 | 9 | Tina Criam |
+| 402 | 9 | ummm |
+| 403 | 9 | Poppy Buildout |
 | 404 | 8 | Rixo Blax |
 | 405 | 8 | Ferocity |
 | 406 | 8 | Tanesha Ga'sFinest Corbett |

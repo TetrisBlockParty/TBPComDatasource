@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 19:59:16 UTC
+# Standings for team4 as of 2026-06-05 20:00:13 UTC
 
 **Total Participants:** 413
 
@@ -38,7 +38,7 @@
 | 30 | 241 | Giggy Matchpiece |
 | 31 | 240 | Jojo Ann |
 | 32 | 240 | Michele Walker |
-| 33 | 229 | Krysten Danielle Richard |
+| 33 | 234 | Krysten Danielle Richard |
 | 34 | 214 | Sisi RedVelvet Reneè |
 | 35 | 208 | vag1974 |
 | 36 | 203 | Patrick Alley |
@@ -177,12 +177,12 @@
 | 169 | 39 | Stefanie Street |
 | 170 | 38 | Swanky Snapgrid |
 | 171 | 38 | Charity Thomas |
-| 172 | 38 | Happy Shatterfit |
-| 173 | 37 | jaz |
-| 174 | 37 | Tanya AfricanQueen Savage |
-| 175 | 37 | Dana Fontanez |
-| 176 | 37 | Laurie Patrick |
-| 177 | 35 | Gorica Prusina |
+| 172 | 38 | Gorica Prusina |
+| 173 | 38 | Happy Shatterfit |
+| 174 | 37 | jaz |
+| 175 | 37 | Tanya AfricanQueen Savage |
+| 176 | 37 | Dana Fontanez |
+| 177 | 37 | Laurie Patrick |
 | 178 | 35 | Knijur Callins |
 | 179 | 35 | Diane Obungu |
 | 180 | 35 | Joshua Hunt |
@@ -220,55 +220,55 @@
 | 212 | 30 | Maurice DeJean |
 | 213 | 29 | Lilo |
 | 214 | 29 | Michael Cruz |
-| 215 | 28 | Deva Marie Barber |
-| 216 | 28 | Melissa Schwager |
-| 217 | 28 | Shanna Fragen |
-| 218 | 28 | Sandra O'Reilly |
-| 219 | 27 | Shirley A. Godfrey |
-| 220 | 27 | 94Blockhead |
-| 221 | 27 | Rose Anna Safi |
-| 222 | 27 | Snappy Stack |
-| 223 | 26 | Jenn Norcross |
+| 215 | 28 | Sandra O'Reilly |
+| 216 | 28 | Shanna Fragen |
+| 217 | 28 | Melissa Schwager |
+| 218 | 28 | Deva Marie Barber |
+| 219 | 27 | Rose Anna Safi |
+| 220 | 27 | Snappy Stack |
+| 221 | 27 | 94Blockhead |
+| 222 | 27 | Shirley A. Godfrey |
+| 223 | 26 | Lisa Ferriero-Daudin |
 | 224 | 26 | Alyson M Kehler |
-| 225 | 26 | Sonia Cordero-Martinez |
-| 226 | 26 | Lisa Ferriero-Daudin |
-| 227 | 26 | Cherrel M. Causey |
-| 228 | 26 | Zippy Snaplink |
-| 229 | 26 | Poppy |
-| 230 | 26 | Mann Manson |
-| 231 | 25 | Vergie Michael |
-| 232 | 25 | ButterfliesRFree |
-| 233 | 25 | Andrea Dre Lomeli |
-| 234 | 25 | BusterBear56 |
-| 235 | 25 | EJ Frazier |
-| 236 | 24 | Megan Vick |
-| 237 | 24 | Socorro Arredondo |
-| 238 | 24 | Lana Tran |
-| 239 | 24 | JP |
-| 240 | 24 | Dawn Phelps |
+| 225 | 26 | Jenn Norcross |
+| 226 | 26 | Sonia Cordero-Martinez |
+| 227 | 26 | Mann Manson |
+| 228 | 26 | Simone |
+| 229 | 26 | Cherrel M. Causey |
+| 230 | 26 | Zippy Snaplink |
+| 231 | 26 | Poppy |
+| 232 | 25 | Vergie Michael |
+| 233 | 25 | ButterfliesRFree |
+| 234 | 25 | Andrea Dre Lomeli |
+| 235 | 25 | BusterBear56 |
+| 236 | 25 | Zappy Matchgrid |
+| 237 | 25 | EJ Frazier |
+| 238 | 24 | Megan Vick |
+| 239 | 24 | Socorro Arredondo |
+| 240 | 24 | Lana Tran |
 | 241 | 24 | Spicy Peach |
 | 242 | 24 | Katiana Gonzalez |
-| 243 | 23 | Genger |
-| 244 | 23 | Kristen Wallace |
-| 245 | 23 | Melika Zeheb |
+| 243 | 24 | Dawn Phelps |
+| 244 | 24 | JP |
+| 245 | 23 | Kristen Wallace |
 | 246 | 23 | Sonya |
-| 247 | 22 | Jonelle Jacobs |
-| 248 | 22 | Leslie Marie WarClub |
+| 247 | 23 | Genger |
+| 248 | 23 | Melika Zeheb |
 | 249 | 22 | Joab Gonzalez |
-| 250 | 22 | Nancy McCalla Abercrombie |
-| 251 | 21 | Zappy Matchgrid |
-| 252 | 21 | Darren Miguel |
-| 253 | 21 | Keesha Muro |
-| 254 | 21 | Dheeh Robles |
+| 250 | 22 | Jonelle Jacobs |
+| 251 | 22 | Leslie Marie WarClub |
+| 252 | 22 | Nancy McCalla Abercrombie |
+| 253 | 21 | Dheeh Robles |
+| 254 | 21 | Keesha Muro |
 | 255 | 21 | SandyEva |
 | 256 | 21 | LilithMoon |
-| 257 | 20 | Natalie Ohrtman Strand |
-| 258 | 20 | ariel |
-| 259 | 20 | Silly Risegrid |
-| 260 | 20 | Erika Rubio |
-| 261 | 20 | Margie Thomas |
-| 262 | 20 | Joha Mldo Castillo |
-| 263 | 20 | Simone |
+| 257 | 21 | Darren Miguel |
+| 258 | 20 | Natalie Ohrtman Strand |
+| 259 | 20 | ariel |
+| 260 | 20 | Silly Risegrid |
+| 261 | 20 | Erika Rubio |
+| 262 | 20 | Margie Thomas |
+| 263 | 20 | Joha Mldo Castillo |
 | 264 | 20 | Tipsy Patternfit |
 | 265 | 20 | Mexican130 |
 | 266 | 20 | Hasty Dropzone |
