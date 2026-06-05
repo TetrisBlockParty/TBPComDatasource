@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 16:46:13 UTC
+# Standings for team1 as of 2026-06-05 16:46:36 UTC
 
 **Total Participants:** 307
 
@@ -33,9 +33,9 @@
 | 25 | 223 | Ashley MyBeauty Daniels |
 | 26 | 220 | Rayya Kiser |
 | 27 | 215 | Abraham Espaillat |
-| 28 | 185 | COSA303 |
-| 29 | 185 | Jennifer To |
-| 30 | 183 | Spicy Balancer |
+| 28 | 193 | Spicy Balancer |
+| 29 | 185 | COSA303 |
+| 30 | 185 | Jennifer To |
 | 31 | 178 | Cassidy Butler |
 | 32 | 178 | Gotcha |
 | 33 | 177 | Chris Sladoje |
@@ -277,42 +277,42 @@
 | 269 | 9 | Shakmar |
 | 270 | 8 | Brika Brika |
 | 271 | 8 | Rixo Blax |
-| 272 | 8 | Tanesha Ga'sFinest Corbett |
-| 273 | 8 | Jessie N Michael Silvers |
-| 274 | 8 | Breezy Catcher |
-| 275 | 8 | Caitlin Michele |
-| 276 | 8 | Taz Ballard |
-| 277 | 8 | Sammie Walker |
-| 278 | 7 | Jumpy Gridlock |
-| 279 | 7 | wmedina67 |
-| 280 | 7 | Lillie Blossom Dixon |
-| 281 | 7 | whatever |
-| 282 | 7 | Kendra McIntyre |
-| 283 | 7 | Lynnette WheelerBushnell |
-| 284 | 7 | Mary2 |
-| 285 | 7 | Shane Brucewayne |
-| 286 | 6 | Jeffrey Barrows |
-| 287 | 6 | Allison Baxter |
-| 288 | 6 | Janine Hunter |
-| 289 | 6 | Jelyfish |
-| 290 | 6 | Frances Davis |
-| 291 | 6 | Cece Fowler |
+| 272 | 8 | Sammie Walker |
+| 273 | 8 | Breezy Catcher |
+| 274 | 8 | Jessie N Michael Silvers |
+| 275 | 8 | Tanesha Ga'sFinest Corbett |
+| 276 | 8 | Caitlin Michele |
+| 277 | 8 | Taz Ballard |
+| 278 | 7 | Mary2 |
+| 279 | 7 | Kendra McIntyre |
+| 280 | 7 | wmedina67 |
+| 281 | 7 | Lynnette WheelerBushnell |
+| 282 | 7 | Shane Brucewayne |
+| 283 | 7 | Lillie Blossom Dixon |
+| 284 | 7 | whatever |
+| 285 | 7 | Jumpy Gridlock |
+| 286 | 6 | Cece Fowler |
+| 287 | 6 | Frances Davis |
+| 288 | 6 | Jelyfish |
+| 289 | 6 | Brittnay Wright |
+| 290 | 6 | Allison Baxter |
+| 291 | 6 | Jeffrey Barrows |
 | 292 | 6 | Christopher Wallace |
-| 293 | 6 | Brittnay Wright |
-| 294 | 5 | Barbramerri Tarboro |
-| 295 | 5 | Stephanie Zuniga Tullock |
-| 296 | 5 | Temeshia Brooks Washington |
-| 297 | 5 | KeeKee Williams |
-| 298 | 5 | Derek Beverly |
-| 299 | 5 | Lil T |
-| 300 | 5 | pooh |
-| 301 | 5 | DirtiestofMikes |
-| 302 | 5 | Shawn Himes |
-| 303 | 5 | Kidgib5 |
-| 304 | 5 | Jennifer Moore |
-| 305 | 5 | Vernon Hoyt |
-| 306 | 5 | Tamika Fisher |
-| 307 | 5 | Zappy Clearfit |
+| 293 | 6 | Janine Hunter |
+| 294 | 5 | Vernon Hoyt |
+| 295 | 5 | KeeKee Williams |
+| 296 | 5 | pooh |
+| 297 | 5 | Barbramerri Tarboro |
+| 298 | 5 | Temeshia Brooks Washington |
+| 299 | 5 | Zappy Clearfit |
+| 300 | 5 | Stephanie Zuniga Tullock |
+| 301 | 5 | Derek Beverly |
+| 302 | 5 | Lil T |
+| 303 | 5 | DirtiestofMikes |
+| 304 | 5 | Shawn Himes |
+| 305 | 5 | Kidgib5 |
+| 306 | 5 | Jennifer Moore |
+| 307 | 5 | Tamika Fisher |
 
 ---
 *Standings created by tournaments datasource generation tool*
