@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 23:30:14 UTC
+# Standings for team1 as of 2026-06-05 23:30:40 UTC
 
 **Total Participants:** 591
 
@@ -577,26 +577,26 @@
 | 569 | 5 | Saucy Linkgrid |
 | 570 | 5 | Spunky Strikerbuilder |
 | 571 | 5 | Andre Sanon |
-| 572 | 5 | Barbramerri Tarboro |
-| 573 | 5 | Jasmine Hariston-Estis |
-| 574 | 5 | Derek Beverly |
-| 575 | 5 | Lil T |
-| 576 | 5 | Hasty Brickzone |
-| 577 | 5 | Sara |
-| 578 | 5 | DirtiestofMikes |
-| 579 | 5 | Chill Linkroll |
-| 580 | 5 | Kidgib5 |
-| 581 | 5 | Jennifer Moore |
-| 582 | 5 | Shakuria Cortia Burney |
-| 583 | 5 | the guy |
-| 584 | 5 | Logan Frost |
-| 585 | 5 | Sheila Burnham |
-| 586 | 5 | Duckey |
-| 587 | 5 | Zappy Clearfit |
-| 588 | 5 | Tamika Fisher |
-| 589 | 5 | Shawn Himes |
-| 590 | 5 | Tito Divyn |
-| 591 | 5 | Mommy Frank |
+| 572 | 5 | Jasmine Hariston-Estis |
+| 573 | 5 | Derek Beverly |
+| 574 | 5 | Lil T |
+| 575 | 5 | Hasty Brickzone |
+| 576 | 5 | Sara |
+| 577 | 5 | DirtiestofMikes |
+| 578 | 5 | Chill Linkroll |
+| 579 | 5 | Kidgib5 |
+| 580 | 5 | Jennifer Moore |
+| 581 | 5 | the guy |
+| 582 | 5 | Mommy Frank |
+| 583 | 5 | Shakuria Cortia Burney |
+| 584 | 5 | Barbramerri Tarboro |
+| 585 | 5 | Logan Frost |
+| 586 | 5 | Sheila Burnham |
+| 587 | 5 | Duckey |
+| 588 | 5 | Zappy Clearfit |
+| 589 | 5 | Tamika Fisher |
+| 590 | 5 | Shawn Himes |
+| 591 | 5 | Tito Divyn |
 
 ---
 *Standings created by tournaments datasource generation tool*
