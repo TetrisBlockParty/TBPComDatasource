@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:56:13 UTC
+# Standings for team1 as of 2026-06-05 13:56:34 UTC
 
 **Total Participants:** 131
 
@@ -44,40 +44,40 @@
 | 36 | 42 | Frisky Fall |
 | 37 | 41 | Jessica Russell |
 | 38 | 40 | Leavon Smith |
-| 39 | 40 | Jean Regis |
-| 40 | 40 | Char |
+| 39 | 40 | Char |
+| 40 | 40 | Jean Regis |
 | 41 | 40 | Cheeky Pop |
 | 42 | 38 | rls |
 | 43 | 38 | Ashley MyBeauty Daniels |
 | 44 | 37 | Lootch |
 | 45 | 37 | Steve Reno |
 | 46 | 35 | KoolKimJay |
-| 47 | 35 | Dai Bo |
-| 48 | 35 | Saucy Crusher |
-| 49 | 35 | Yashica Smith |
-| 50 | 35 | Lilly Brown |
+| 47 | 35 | Yashica Smith |
+| 48 | 35 | Lilly Brown |
+| 49 | 35 | Saucy Crusher |
+| 50 | 35 | Dai Bo |
 | 51 | 34 | Flashy Slam |
-| 52 | 32 | Melvin Simpson |
-| 53 | 32 | Tobey Marberry |
-| 54 | 30 | Saucy Faller |
+| 52 | 33 | Sashaleo |
+| 53 | 32 | Melvin Simpson |
+| 54 | 32 | Tobey Marberry |
 | 55 | 30 | Lester Malone |
-| 56 | 30 | Brian Bohanon II |
-| 57 | 30 | Casey Chapman |
-| 58 | 29 | hope |
-| 59 | 28 | John Staub |
-| 60 | 27 | Jae Thompson-Tyus |
-| 61 | 27 | Charlene Baltimore |
-| 62 | 27 | Zany Breaker |
+| 56 | 30 | Saucy Faller |
+| 57 | 30 | Brian Bohanon II |
+| 58 | 30 | Casey Chapman |
+| 59 | 29 | hope |
+| 60 | 28 | John Staub |
+| 61 | 27 | Jae Thompson-Tyus |
+| 62 | 27 | Charlene Baltimore |
 | 63 | 27 | Angela R Wilson |
-| 64 | 25 | Sashaleo |
+| 64 | 27 | Zany Breaker |
 | 65 | 25 | Hasty Pivoty |
 | 66 | 25 | Tyrone Porter |
 | 67 | 24 | TBABYJ |
 | 68 | 23 | Poppy Twister |
 | 69 | 22 | Boldy Pivoty |
 | 70 | 22 | Tanisha Taylor |
-| 71 | 21 | Brave Balanceblock |
-| 72 | 21 | Sarah Marie |
+| 71 | 21 | Sarah Marie |
+| 72 | 21 | Brave Balanceblock |
 | 73 | 20 | Yazz |
 | 74 | 20 | Trina Greenwood |
 | 75 | 20 | Chevalier Burley |
@@ -124,19 +124,19 @@
 | 116 | 8 | Sammie Walker |
 | 117 | 7 | Mary2 |
 | 118 | 7 | Kendra McIntyre |
-| 119 | 6 | JesusSaves 😇 |
+| 119 | 6 | Jayjay Rich |
 | 120 | 6 | Christopher Wallace |
 | 121 | 6 | Ashley Espeut |
-| 122 | 6 | Jayjay Rich |
-| 123 | 6 | Taz Ballard |
-| 124 | 6 | Janine Hunter |
+| 122 | 6 | Taz Ballard |
+| 123 | 6 | Janine Hunter |
+| 124 | 6 | JesusSaves 😇 |
 | 125 | 5 | Christian Whittaker |
-| 126 | 5 | Jennifer Moore |
-| 127 | 5 | Kidgib5 |
-| 128 | 5 | Derek Beverly |
-| 129 | 5 | DirtiestofMikes |
-| 130 | 5 | Katrina Ramey |
-| 131 | 5 | Tamika Fisher |
+| 126 | 5 | Tamika Fisher |
+| 127 | 5 | Jennifer Moore |
+| 128 | 5 | Kidgib5 |
+| 129 | 5 | Derek Beverly |
+| 130 | 5 | DirtiestofMikes |
+| 131 | 5 | Katrina Ramey |
 
 ---
 *Standings created by tournaments datasource generation tool*
