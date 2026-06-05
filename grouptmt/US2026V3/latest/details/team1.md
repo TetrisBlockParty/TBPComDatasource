@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 23:16:15 UTC
+# Standings for team1 as of 2026-06-05 23:16:35 UTC
 
 **Total Participants:** 587
 
@@ -303,14 +303,14 @@
 | 295 | 30 | Kashh |
 | 296 | 30 | SeanSanchez |
 | 297 | 30 | Jes Marie |
-| 298 | 30 | Brittanie Wardlow |
-| 299 | 30 | Dorian Griffin |
-| 300 | 30 | Lester Malone |
-| 301 | 30 | Sarah Guarino |
-| 302 | 30 | Linzie Marie |
-| 303 | 30 | Bouncy Glide |
-| 304 | 29 | Darrel Pemberton |
-| 305 | 29 | Kimberly Linares Hernandez |
+| 298 | 30 | Kimberly Linares Hernandez |
+| 299 | 30 | Brittanie Wardlow |
+| 300 | 30 | Dorian Griffin |
+| 301 | 30 | Lester Malone |
+| 302 | 30 | Sarah Guarino |
+| 303 | 30 | Linzie Marie |
+| 304 | 30 | Bouncy Glide |
+| 305 | 29 | Darrel Pemberton |
 | 306 | 29 | Jenni Hardman |
 | 307 | 28 | Elizabeth Vega Coreano |
 | 308 | 28 | Will Stanton |
@@ -582,17 +582,17 @@
 | 574 | 5 | Chill Linkroll |
 | 575 | 5 | Kidgib5 |
 | 576 | 5 | Jennifer Moore |
-| 577 | 5 | Shakuria Cortia Burney |
-| 578 | 5 | the guy |
-| 579 | 5 | Barbramerri Tarboro |
-| 580 | 5 | Andre Sanon |
-| 581 | 5 | Logan Frost |
-| 582 | 5 | Duckey |
+| 577 | 5 | the guy |
+| 578 | 5 | Shakuria Cortia Burney |
+| 579 | 5 | Mommy Frank |
+| 580 | 5 | Tito Divyn |
+| 581 | 5 | Shawn Himes |
+| 582 | 5 | Tamika Fisher |
 | 583 | 5 | Zappy Clearfit |
-| 584 | 5 | Tamika Fisher |
-| 585 | 5 | Shawn Himes |
-| 586 | 5 | Tito Divyn |
-| 587 | 5 | Mommy Frank |
+| 584 | 5 | Duckey |
+| 585 | 5 | Logan Frost |
+| 586 | 5 | Andre Sanon |
+| 587 | 5 | Barbramerri Tarboro |
 
 ---
 *Standings created by tournaments datasource generation tool*
