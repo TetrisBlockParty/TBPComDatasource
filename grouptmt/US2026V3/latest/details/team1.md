@@ -1,14 +1,14 @@
-# Standings for team1 as of 2026-06-05 12:26:12 UTC
+# Standings for team1 as of 2026-06-05 12:26:34 UTC
 
-**Total Participants:** 33
+**Total Participants:** 34
 
 ## Participant Scores
 
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 1100 | Timothy Robert |
-| 2 | 749 | Aviv Zehavi |
-| 3 | 600 | Chandler Spencer |
+| 2 | 800 | Chandler Spencer |
+| 3 | 749 | Aviv Zehavi |
 | 4 | 164 | Gotcha |
 | 5 | 90 | Debbie Carswell |
 | 6 | 80 | Rachel Zimmerman |
@@ -39,6 +39,7 @@
 | 31 | 7 | Mary2 |
 | 32 | 7 | Kendra McIntyre |
 | 33 | 6 | Brave Balanceblock |
+| 34 | 5 | Cheeky Pop |
 
 ---
 *Standings created by tournaments datasource generation tool*

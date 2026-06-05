@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 12:26:12 UTC
+# Standings for team2 as of 2026-06-05 12:26:34 UTC
 
 **Total Participants:** 37
 
@@ -9,7 +9,7 @@
 | 1 | 1402 | Puce guide 9156 |
 | 2 | 394 | Logan Basham |
 | 3 | 200 | Kathleen M Cox |
-| 4 | 82 | Amy Gale |
+| 4 | 182 | Amy Gale |
 | 5 | 64 | Angeleye A James |
 | 6 | 60 | Jewels |
 | 7 | 40 | Michelle Anne |
