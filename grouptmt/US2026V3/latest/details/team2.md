@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 13:48:33 UTC
+# Standings for team2 as of 2026-06-05 13:49:13 UTC
 
 **Total Participants:** 121
 
@@ -18,7 +18,7 @@
 | 10 | 437 | Amy Gale |
 | 11 | 199 | Stella |
 | 12 | 158 | Amy Nicole McCanne |
-| 13 | 118 | Nathan Walker |
+| 13 | 126 | Nathan Walker |
 | 14 | 89 | Chipper Stackbuilder |
 | 15 | 83 | Ashley Voelz |
 | 16 | 81 | Brandon Link |
@@ -33,33 +33,33 @@
 | 25 | 50 | Rick |
 | 26 | 48 | Spicy Basepiece |
 | 27 | 45 | Michelle Anne |
-| 28 | 44 | Jessica Perkins |
+| 28 | 45 | Jessica Perkins |
 | 29 | 44 | Zaniya Brown |
-| 30 | 42 | Snazzy Smasher |
-| 31 | 42 | Henny Henny |
+| 30 | 42 | Henny Henny |
+| 31 | 42 | Snazzy Smasher |
 | 32 | 41 | Bubbly Dash |
-| 33 | 40 | Bon Lynn |
-| 34 | 40 | Kevin Mccoy |
-| 35 | 38 | Harper |
+| 33 | 41 | Sara Perkins |
+| 34 | 40 | Bon Lynn |
+| 35 | 40 | Kevin Mccoy |
 | 36 | 38 | Justin Stark |
-| 37 | 37 | Jumpy Dashpiece |
-| 38 | 35 | Jason Cunningham |
-| 39 | 34 | Funway998 |
-| 40 | 33 | Tango Sierra |
-| 41 | 33 | Sara Perkins |
+| 37 | 38 | Harper |
+| 38 | 37 | Jumpy Dashpiece |
+| 39 | 35 | Jason Cunningham |
+| 40 | 34 | Funway998 |
+| 41 | 33 | Tango Sierra |
 | 42 | 33 | Kelly |
 | 43 | 32 | Sandra Belk |
 | 44 | 31 | Lindsay Klemp |
 | 45 | 31 | Kenzie |
-| 46 | 30 | Patti Ward |
-| 47 | 30 | Peter Fogg |
+| 46 | 30 | Peter Fogg |
+| 47 | 30 | Patti Ward |
 | 48 | 28 | Sara BlueEyes |
 | 49 | 27 | Michael Carmichael |
-| 50 | 26 | Ariel Gundersen |
-| 51 | 26 | Quina Jesse Fejaran |
-| 52 | 26 | Rachel Huber |
-| 53 | 25 | Jgato |
-| 54 | 25 | James Ward |
+| 50 | 26 | Quina Jesse Fejaran |
+| 51 | 26 | Rachel Huber |
+| 52 | 26 | Ariel Gundersen |
+| 53 | 25 | James Ward |
+| 54 | 25 | Jgato |
 | 55 | 25 | NickandJess Reynolds |
 | 56 | 24 | Dayna Messer-Thelen |
 | 57 | 24 | A.j. Langley |
