@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:14:12 UTC
+# Standings for team1 as of 2026-06-05 13:14:33 UTC
 
 **Total Participants:** 102
 
@@ -102,8 +102,8 @@
 | 94 | 8 | Sammie Walker |
 | 95 | 7 | Kendra McIntyre |
 | 96 | 7 | Mary2 |
-| 97 | 6 | Jayjay Rich |
-| 98 | 6 | Janine Hunter |
+| 97 | 6 | Janine Hunter |
+| 98 | 6 | Jayjay Rich |
 | 99 | 5 | Jennifer Moore |
 | 100 | 5 | Cheeky Pop |
 | 101 | 5 | Derek Beverly |
