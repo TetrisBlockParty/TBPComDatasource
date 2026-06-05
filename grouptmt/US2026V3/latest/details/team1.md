@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:52:36 UTC
+# Standings for team1 as of 2026-06-05 15:53:13 UTC
 
 **Total Participants:** 259
 
@@ -235,36 +235,36 @@
 | 227 | 8 | Brika Brika |
 | 228 | 8 | Sammie Walker |
 | 229 | 8 | Breezy Catcher |
-| 230 | 8 | Jessie N Michael Silvers |
-| 231 | 8 | Tanesha Ga'sFinest Corbett |
-| 232 | 8 | Taz Ballard |
+| 230 | 8 | Taz Ballard |
+| 231 | 8 | Jessie N Michael Silvers |
+| 232 | 8 | Tanesha Ga'sFinest Corbett |
 | 233 | 8 | Epic Snapfall |
 | 234 | 7 | Jumpy Gridlock |
 | 235 | 7 | Shane Brucewayne |
 | 236 | 7 | Mary2 |
 | 237 | 7 | Kendra McIntyre |
-| 238 | 7 | wmedina67 |
-| 239 | 7 | whatever |
-| 240 | 6 | Cece Fowler |
+| 238 | 7 | whatever |
+| 239 | 7 | wmedina67 |
+| 240 | 6 | Christopher Wallace |
 | 241 | 6 | Allison Baxter |
-| 242 | 6 | Jelyfish |
-| 243 | 6 | Brittnay Wright |
-| 244 | 6 | Christopher Wallace |
-| 245 | 6 | Jeffrey Barrows |
+| 242 | 6 | Jeffrey Barrows |
+| 243 | 6 | Jelyfish |
+| 244 | 6 | Cece Fowler |
+| 245 | 6 | Brittnay Wright |
 | 246 | 6 | Janine Hunter |
-| 247 | 5 | Shawn Himes |
-| 248 | 5 | Rixo Blax |
-| 249 | 5 | Temeshia Brooks Washington |
-| 250 | 5 | KeeKee Williams |
-| 251 | 5 | Derek Beverly |
-| 252 | 5 | Lil T |
-| 253 | 5 | Stephanie Zuniga Tullock |
-| 254 | 5 | DirtiestofMikes |
-| 255 | 5 | Vernon Hoyt |
-| 256 | 5 | Kidgib5 |
-| 257 | 5 | Zappy Clearfit |
-| 258 | 5 | Tamika Fisher |
-| 259 | 5 | Jennifer Moore |
+| 247 | 5 | DirtiestofMikes |
+| 248 | 5 | Zappy Clearfit |
+| 249 | 5 | Rixo Blax |
+| 250 | 5 | Derek Beverly |
+| 251 | 5 | Temeshia Brooks Washington |
+| 252 | 5 | KeeKee Williams |
+| 253 | 5 | Lil T |
+| 254 | 5 | Stephanie Zuniga Tullock |
+| 255 | 5 | Kidgib5 |
+| 256 | 5 | Jennifer Moore |
+| 257 | 5 | Vernon Hoyt |
+| 258 | 5 | Shawn Himes |
+| 259 | 5 | Tamika Fisher |
 
 ---
 *Standings created by tournaments datasource generation tool*
