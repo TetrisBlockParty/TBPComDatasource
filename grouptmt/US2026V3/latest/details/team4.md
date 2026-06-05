@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 16:00:14 UTC
+# Standings for team4 as of 2026-06-05 16:00:36 UTC
 
 **Total Participants:** 249
 
@@ -88,7 +88,7 @@
 | 80 | 44 | Lul Babie |
 | 81 | 42 | Mrs |
 | 82 | 42 | Shiny Brick |
-| 83 | 41 | Karen Rodriguez |
+| 83 | 42 | Karen Rodriguez |
 | 84 | 40 | Jeremy Lopez |
 | 85 | 40 | Tyra Brooke Everman Forest |
 | 86 | 40 | Mint Marquez |
