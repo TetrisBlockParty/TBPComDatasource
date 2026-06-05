@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:04:14 UTC
+# Standings for team1 as of 2026-06-05 17:04:35 UTC
 
 **Total Participants:** 321
 
@@ -77,8 +77,8 @@
 | 69 | 74 | Cozy Edge |
 | 70 | 72 | Mic Balew |
 | 71 | 72 | David Fuentes |
-| 72 | 70 | $hort Dog |
-| 73 | 67 | Nerdy Snapfall |
+| 72 | 70 | Nerdy Snapfall |
+| 73 | 70 | $hort Dog |
 | 74 | 67 | Michele Elizabeth McKay-Johnson |
 | 75 | 66 | Shontanese Adams |
 | 76 | 65 | Shanell Thomas |
