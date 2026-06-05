@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 16:08:14 UTC
+# Standings for team1 as of 2026-06-05 16:08:36 UTC
 
 **Total Participants:** 275
 
@@ -268,19 +268,19 @@
 | 260 | 6 | Janine Hunter |
 | 261 | 6 | Brittnay Wright |
 | 262 | 5 | Zappy Clearfit |
-| 263 | 5 | Tamika Fisher |
-| 264 | 5 | Derek Beverly |
-| 265 | 5 | Temeshia Brooks Washington |
-| 266 | 5 | KeeKee Williams |
-| 267 | 5 | Stephanie Zuniga Tullock |
-| 268 | 5 | pooh |
-| 269 | 5 | DirtiestofMikes |
-| 270 | 5 | Lil T |
-| 271 | 5 | Kidgib5 |
-| 272 | 5 | Vernon Hoyt |
-| 273 | 5 | Jennifer Moore |
-| 274 | 5 | Shawn Himes |
-| 275 | 5 | Rissa Rozay |
+| 263 | 5 | Derek Beverly |
+| 264 | 5 | Temeshia Brooks Washington |
+| 265 | 5 | KeeKee Williams |
+| 266 | 5 | Stephanie Zuniga Tullock |
+| 267 | 5 | pooh |
+| 268 | 5 | Rissa Rozay |
+| 269 | 5 | Lil T |
+| 270 | 5 | Kidgib5 |
+| 271 | 5 | Vernon Hoyt |
+| 272 | 5 | Jennifer Moore |
+| 273 | 5 | Shawn Himes |
+| 274 | 5 | Tamika Fisher |
+| 275 | 5 | DirtiestofMikes |
 
 ---
 *Standings created by tournaments datasource generation tool*
