@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 14:44:13 UTC
+# Standings for team1 as of 2026-06-05 14:44:38 UTC
 
 **Total Participants:** 200
 
@@ -30,41 +30,41 @@
 | 22 | 141 | Debbie Carswell |
 | 23 | 126 | Cee Emm |
 | 24 | 114 | Dacia Hicks |
-| 25 | 100 | JoJo |
-| 26 | 100 | Asani CHumba |
+| 25 | 100 | Asani CHumba |
+| 26 | 100 | JoJo |
 | 27 | 99 | Kellie Hall |
 | 28 | 95 | Jawaun Daniels |
-| 29 | 89 | Ashley MyBeauty Daniels |
+| 29 | 91 | Ashley MyBeauty Daniels |
 | 30 | 86 | SPNLover24 |
 | 31 | 81 | Robyn Caldwell |
 | 32 | 81 | Mafio SO |
-| 33 | 80 | Bre Maugh |
-| 34 | 80 | Felicia Williams |
-| 35 | 80 | Rayya Kiser |
+| 33 | 80 | Felicia Williams |
+| 34 | 80 | Rayya Kiser |
+| 35 | 80 | Bre Maugh |
 | 36 | 80 | Rachel Zimmerman |
 | 37 | 80 | Jazzy Dashpiece |
-| 38 | 77 | Amber Wilson |
-| 39 | 75 | Katrina Ramey |
-| 40 | 74 | ♈️ Ariesbaby |
-| 41 | 74 | Tonya McElroy |
-| 42 | 72 | David Fuentes |
-| 43 | 69 | AF Cruz |
-| 44 | 67 | Michele Elizabeth McKay-Johnson |
-| 45 | 66 | Shontanese Adams |
-| 46 | 65 | Frisky Fall |
-| 47 | 65 | Shanell Thomas |
-| 48 | 65 | Dizzy Dashy |
-| 49 | 65 | Jennifer To |
-| 50 | 63 | Carrie English |
-| 51 | 60 | Christian Pham |
-| 52 | 57 | Tosha Michelle |
-| 53 | 56 | Cortaz Lawrie |
-| 54 | 54 | Lauraly |
-| 55 | 51 | Comedian Gdane |
-| 56 | 50 | Yazz |
-| 57 | 50 | $hort Dog |
-| 58 | 50 | Donna Payne |
-| 59 | 50 | Char |
+| 38 | 80 | Char |
+| 39 | 77 | Amber Wilson |
+| 40 | 75 | Katrina Ramey |
+| 41 | 74 | ♈️ Ariesbaby |
+| 42 | 74 | Tonya McElroy |
+| 43 | 72 | David Fuentes |
+| 44 | 69 | AF Cruz |
+| 45 | 67 | Michele Elizabeth McKay-Johnson |
+| 46 | 66 | Shontanese Adams |
+| 47 | 65 | Frisky Fall |
+| 48 | 65 | Shanell Thomas |
+| 49 | 65 | Dizzy Dashy |
+| 50 | 65 | Jennifer To |
+| 51 | 63 | Carrie English |
+| 52 | 60 | Christian Pham |
+| 53 | 57 | Tosha Michelle |
+| 54 | 56 | Cortaz Lawrie |
+| 55 | 54 | Lauraly |
+| 56 | 51 | Comedian Gdane |
+| 57 | 50 | Yazz |
+| 58 | 50 | $hort Dog |
+| 59 | 50 | Donna Payne |
 | 60 | 50 | Slinky Party |
 | 61 | 45 | Jayjay Rich |
 | 62 | 43 | Block |

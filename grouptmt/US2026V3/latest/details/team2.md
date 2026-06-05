@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 14:44:13 UTC
+# Standings for team2 as of 2026-06-05 14:44:38 UTC
 
 **Total Participants:** 193
 
@@ -92,30 +92,30 @@
 | 84 | 26 | Rachel Huber |
 | 85 | 26 | Ariel Gundersen |
 | 86 | 26 | Quina Jesse Fejaran |
-| 87 | 25 | Alexis Meyers |
-| 88 | 24 | Dayna Messer-Thelen |
-| 89 | 24 | SunnySquare |
-| 90 | 24 | A.j. Langley |
-| 91 | 23 | Damion Morrison |
-| 92 | 23 | IncrediDragon |
-| 93 | 23 | Brittni Lawrence |
-| 94 | 23 | Shirley Bates |
-| 95 | 22 | Andre Love |
-| 96 | 22 | Dizzy Dropzone |
-| 97 | 22 | Jeff Pottgether |
-| 98 | 22 | Ashley Diana |
-| 99 | 21 | Thy Bui |
-| 100 | 21 | Heather Burgett |
-| 101 | 21 | Sherry Ann |
-| 102 | 21 | Lively Curve |
-| 103 | 21 | Maria Ward |
-| 104 | 21 | Nicole |
-| 105 | 21 | Jason Lamporte |
-| 106 | 20 | Chesney |
-| 107 | 20 | ChefDeb |
-| 108 | 20 | Kelly Hall Whitt |
-| 109 | 20 | Bonita Alexander |
-| 110 | 20 | Bigbb |
+| 87 | 25 | Jason Lamporte |
+| 88 | 25 | Alexis Meyers |
+| 89 | 24 | Dayna Messer-Thelen |
+| 90 | 24 | SunnySquare |
+| 91 | 24 | A.j. Langley |
+| 92 | 23 | Damion Morrison |
+| 93 | 23 | IncrediDragon |
+| 94 | 23 | Brittni Lawrence |
+| 95 | 23 | Shirley Bates |
+| 96 | 22 | Andre Love |
+| 97 | 22 | Dizzy Dropzone |
+| 98 | 22 | Jeff Pottgether |
+| 99 | 22 | Ashley Diana |
+| 100 | 21 | Thy Bui |
+| 101 | 21 | Heather Burgett |
+| 102 | 21 | Sherry Ann |
+| 103 | 21 | Lively Curve |
+| 104 | 21 | Maria Ward |
+| 105 | 21 | Nicole |
+| 106 | 20 | ChefDeb |
+| 107 | 20 | Kelly Hall Whitt |
+| 108 | 20 | Bonita Alexander |
+| 109 | 20 | Bigbb |
+| 110 | 20 | Chesney |
 | 111 | 20 | Amanda Mason Scott |
 | 112 | 20 | Nettrainer |
 | 113 | 20 | Wendy McKee |
@@ -134,17 +134,17 @@
 | 126 | 14 | Missy Savage-Justice |
 | 127 | 13 | Dreamy Wipepiece |
 | 128 | 13 | Lexi Chouinard |
-| 129 | 12 | Frilly Match |
-| 130 | 12 | Liseth Vasquez |
-| 131 | 12 | Stacey Loretta Wallace |
-| 132 | 12 | Chirpy Grid |
-| 133 | 12 | Diamond Balotje |
-| 134 | 12 | Melissa Thomas |
-| 135 | 12 | Mary |
+| 129 | 12 | Stacey Loretta Wallace |
+| 130 | 12 | Frilly Match |
+| 131 | 12 | Liseth Vasquez |
+| 132 | 12 | Mary |
+| 133 | 12 | Melissa Thomas |
+| 134 | 12 | Chirpy Grid |
+| 135 | 12 | Diamond Balotje |
 | 136 | 12 | Lily |
-| 137 | 11 | CK Hancock |
-| 138 | 11 | Staci Walker |
-| 139 | 11 | Jazzy Faller |
+| 137 | 11 | Staci Walker |
+| 138 | 11 | Jazzy Faller |
+| 139 | 11 | CK Hancock |
 | 140 | 11 | Lora Via |
 | 141 | 11 | Yany |
 | 142 | 10 | Gill |
