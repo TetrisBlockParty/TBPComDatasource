@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 19:12:37 UTC
+# Standings for team1 as of 2026-06-05 19:13:15 UTC
 
-**Total Participants:** 416
+**Total Participants:** 417
 
 ## Participant Scores
 
@@ -108,32 +108,32 @@
 | 100 | 61 | Tarnisha Neicy Jones |
 | 101 | 60 | Queenie Perry |
 | 102 | 60 | CJ Robinson |
-| 103 | 60 | Marcheta Cervantez |
-| 104 | 60 | Christian Pham |
-| 105 | 60 | Lilly Brown |
-| 106 | 60 | Boldy Liner |
-| 107 | 60 | Valerie Alexander |
+| 103 | 60 | Valerie Alexander |
+| 104 | 60 | Marcheta Cervantez |
+| 105 | 60 | Christian Pham |
+| 106 | 60 | Lilly Brown |
+| 107 | 60 | Boldy Liner |
 | 108 | 59 | Lauraly |
-| 109 | 57 | Erin Sabol |
-| 110 | 57 | Tosha Michelle |
+| 109 | 57 | Tosha Michelle |
+| 110 | 57 | Erin Sabol |
 | 111 | 56 | Dena Marie Lee |
-| 112 | 55 | KoolKimJay |
-| 113 | 55 | Kyle Franklin |
-| 114 | 54 | Kristie |
-| 115 | 53 | MamaBear |
-| 116 | 53 | Jayjay Rich |
-| 117 | 52 | Keke Ferguson |
-| 118 | 52 | Loopy Risepiece |
-| 119 | 51 | Comedian Gdane |
-| 120 | 50 | Dai Bo |
-| 121 | 50 | Antoinette Jones |
+| 112 | 55 | Kyle Franklin |
+| 113 | 55 | KoolKimJay |
+| 114 | 54 | Joana Thompson |
+| 115 | 54 | Kristie |
+| 116 | 53 | MamaBear |
+| 117 | 53 | Jayjay Rich |
+| 118 | 52 | Keke Ferguson |
+| 119 | 52 | Loopy Risepiece |
+| 120 | 51 | Comedian Gdane |
+| 121 | 50 | Dai Bo |
 | 122 | 50 | Teresa Yanira Cepeda |
 | 123 | 50 | Skippy |
-| 124 | 50 | Slinky Party |
-| 125 | 50 | Yazz |
-| 126 | 50 | Donna Payne |
-| 127 | 49 | LexiiSamayaa |
-| 128 | 48 | Joana Thompson |
+| 124 | 50 | Antoinette Jones |
+| 125 | 50 | Slinky Party |
+| 126 | 50 | Yazz |
+| 127 | 50 | Donna Payne |
+| 128 | 49 | LexiiSamayaa |
 | 129 | 47 | Christopher Dreamsareality McEachin |
 | 130 | 47 | Derrius SeriousLee Burks |
 | 131 | 45 | Guy Incognito |
@@ -373,55 +373,56 @@
 | 365 | 9 | Karebear |
 | 366 | 8 | Rixo Blax |
 | 367 | 8 | Ferocity |
-| 368 | 8 | Tonny Williams |
-| 369 | 8 | Tanesha Ga'sFinest Corbett |
-| 370 | 8 | Ashley Davis |
-| 371 | 8 | Cm |
-| 372 | 8 | Caitlin Michele |
-| 373 | 8 | Teresa Bean |
-| 374 | 8 | Brenda Brogden |
-| 375 | 8 | jus_ry |
-| 376 | 8 | Brika Brika |
-| 377 | 7 | Andrew Harris |
-| 378 | 7 | Mary2 |
-| 379 | 7 | Shane Brucewayne |
-| 380 | 7 | Mikayla |
-| 381 | 7 | whatever |
-| 382 | 7 | Kendra McIntyre |
+| 368 | 8 | Brenda Brogden |
+| 369 | 8 | Cm |
+| 370 | 8 | Tanesha Ga'sFinest Corbett |
+| 371 | 8 | jus_ry |
+| 372 | 8 | Tonny Williams |
+| 373 | 8 | Brika Brika |
+| 374 | 8 | Ashley Davis |
+| 375 | 8 | Teresa Bean |
+| 376 | 8 | Caitlin Michele |
+| 377 | 7 | Mary2 |
+| 378 | 7 | whatever |
+| 379 | 7 | Mikayla |
+| 380 | 7 | Shane Brucewayne |
+| 381 | 7 | Kendra McIntyre |
+| 382 | 7 | Andrew Harris |
 | 383 | 7 | wmedina67 |
 | 384 | 6 | Boricua64 |
-| 385 | 6 | Allison Baxter |
-| 386 | 6 | Jeffrey Barrows |
-| 387 | 6 | Janine Hunter |
+| 385 | 6 | NEM0228 |
+| 386 | 6 | Gael Quintana |
+| 387 | 6 | Cece Fowler |
 | 388 | 6 | Jelyfish |
-| 389 | 6 | Gael Quintana |
-| 390 | 6 | NEM0228 |
-| 391 | 6 | Frances Davis |
-| 392 | 6 | Christopher Wallace |
-| 393 | 6 | Laura Long |
-| 394 | 6 | Brittnay Wright |
-| 395 | 6 | Cece Fowler |
-| 396 | 5 | DirtiestofMikes |
-| 397 | 5 | Stephanie Zuniga Tullock |
-| 398 | 5 | Jenni Hardman |
-| 399 | 5 | Temeshia Brooks Washington |
-| 400 | 5 | KeeKee Williams |
-| 401 | 5 | Wacky Towerer |
-| 402 | 5 | Derek Beverly |
-| 403 | 5 | Lil T |
-| 404 | 5 | Chill Linkroll |
-| 405 | 5 | Shawn Himes |
-| 406 | 5 | Rieshelda Marie White |
-| 407 | 5 | Tamika Fisher |
-| 408 | 5 | Vernon Hoyt |
-| 409 | 5 | Saucy Linkgrid |
-| 410 | 5 | Zappy Clearfit |
-| 411 | 5 | Jjhandsome |
-| 412 | 5 | pooh |
-| 413 | 5 | Jennifer Moore |
+| 389 | 6 | Jeffrey Barrows |
+| 390 | 6 | Frances Davis |
+| 391 | 6 | Allison Baxter |
+| 392 | 6 | Brittnay Wright |
+| 393 | 6 | Charise McGee |
+| 394 | 6 | Laura Long |
+| 395 | 6 | Christopher Wallace |
+| 396 | 6 | Janine Hunter |
+| 397 | 5 | Wacky Towerer |
+| 398 | 5 | KeeKee Williams |
+| 399 | 5 | Barbramerri Tarboro |
+| 400 | 5 | Temeshia Brooks Washington |
+| 401 | 5 | Andre Sanon |
+| 402 | 5 | Stephanie Zuniga Tullock |
+| 403 | 5 | Jjhandsome |
+| 404 | 5 | Jenni Hardman |
+| 405 | 5 | Derek Beverly |
+| 406 | 5 | Lil T |
+| 407 | 5 | Chill Linkroll |
+| 408 | 5 | Shawn Himes |
+| 409 | 5 | Rieshelda Marie White |
+| 410 | 5 | Tamika Fisher |
+| 411 | 5 | Saucy Linkgrid |
+| 412 | 5 | Zappy Clearfit |
+| 413 | 5 | DirtiestofMikes |
 | 414 | 5 | Kidgib5 |
-| 415 | 5 | Andre Sanon |
-| 416 | 5 | Barbramerri Tarboro |
+| 415 | 5 | Jennifer Moore |
+| 416 | 5 | pooh |
+| 417 | 5 | Vernon Hoyt |
 
 ---
 *Standings created by tournaments datasource generation tool*
