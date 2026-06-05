@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 19:16:13 UTC
+# Standings for team2 as of 2026-06-05 19:16:40 UTC
 
 **Total Participants:** 443
 
@@ -44,7 +44,7 @@
 | 36 | 246 | Giddy Slamdrop |
 | 37 | 237 | Sarah Griffey |
 | 38 | 230 | Frilly Match |
-| 39 | 223 | La chulis |
+| 39 | 226 | La chulis |
 | 40 | 221 | Vistabrat |
 | 41 | 220 | Mom |
 | 42 | 219 | Bon Lynn |
@@ -121,113 +121,113 @@
 | 113 | 65 | Brandy Chinelle |
 | 114 | 64 | Victoria Pale |
 | 115 | 64 | Momof2wigglebutts |
-| 116 | 62 | Brenda Jones |
-| 117 | 62 | Breezy |
-| 118 | 61 | Bubbly Dash |
-| 119 | 61 | Jessica Perkins |
-| 120 | 60 | Courtney Madison Hart |
+| 116 | 62 | Breezy |
+| 117 | 62 | Brenda Jones |
+| 118 | 61 | Jessica Perkins |
+| 119 | 61 | Bubbly Dash |
+| 120 | 60 | Billie Jensen |
 | 121 | 60 | Leticia Tillman |
-| 122 | 60 | Snippy Shifter |
+| 122 | 60 | Courtney Madison Hart |
 | 123 | 60 | Dawn Kroptavich |
-| 124 | 60 | Elizabeth Cornelius |
-| 125 | 60 | Amber Salazar |
-| 126 | 59 | April Addis |
-| 127 | 58 | Rick |
+| 124 | 60 | Amber Salazar |
+| 125 | 60 | Elizabeth Cornelius |
+| 126 | 60 | Snippy Shifter |
+| 127 | 59 | April Addis |
 | 128 | 58 | Zany Wrecker |
-| 129 | 58 | Chipper Towerzone |
-| 130 | 57 | Sully |
+| 129 | 58 | Rick |
+| 130 | 58 | Chipper Towerzone |
 | 131 | 57 | Kenzie |
-| 132 | 57 | Xandrea Jones |
-| 133 | 56 | Alonzo Reed |
-| 134 | 55 | Silly Tiltbuilder |
+| 132 | 57 | Sully |
+| 133 | 57 | Xandrea Jones |
+| 134 | 56 | Alonzo Reed |
 | 135 | 55 | Jackie Tupper |
-| 136 | 54 | Eva Lopez |
-| 137 | 54 | Lively Twisterfit |
+| 136 | 55 | Silly Tiltbuilder |
+| 137 | 54 | Eva Lopez |
 | 138 | 54 | Funway998 |
-| 139 | 54 | Cool Balancer |
-| 140 | 53 | Maurii93 |
-| 141 | 51 | Martha Lynn Wiggins |
-| 142 | 51 | Loretta Crow |
-| 143 | 51 | Mama G |
-| 144 | 50 | rageking |
-| 145 | 50 | Justin Stark |
-| 146 | 50 | Christine James |
-| 147 | 50 | Jennifer Wymer |
-| 148 | 50 | Whitt |
-| 149 | 48 | Spicy Basepiece |
-| 150 | 48 | Wendy McKee |
-| 151 | 48 | Dizzy Dropzone |
-| 152 | 47 | Carole Brown |
-| 153 | 47 | REE4 |
-| 154 | 47 | Sandra Belk |
-| 155 | 46 | Lindsey Ford |
-| 156 | 46 | Dani Newton |
-| 157 | 46 | Melissa Nash |
-| 158 | 45 | Jason Cunningham |
-| 159 | 45 | Hillary Frank |
+| 139 | 54 | Lively Twisterfit |
+| 140 | 54 | Cool Balancer |
+| 141 | 53 | Maurii93 |
+| 142 | 51 | Mama G |
+| 143 | 51 | Martha Lynn Wiggins |
+| 144 | 51 | Loretta Crow |
+| 145 | 50 | rageking |
+| 146 | 50 | Whitt |
+| 147 | 50 | Christine James |
+| 148 | 50 | Jennifer Wymer |
+| 149 | 50 | Justin Stark |
+| 150 | 48 | Dizzy Dropzone |
+| 151 | 48 | Spicy Basepiece |
+| 152 | 48 | Wendy McKee |
+| 153 | 47 | Sandra Belk |
+| 154 | 47 | Carole Brown |
+| 155 | 47 | REE4 |
+| 156 | 46 | Melissa Nash |
+| 157 | 46 | Dani Newton |
+| 158 | 46 | Lindsey Ford |
+| 159 | 45 | Jason Cunningham |
 | 160 | 45 | Michelle Anne |
-| 161 | 44 | Laverne Ellis Blair |
-| 162 | 44 | Zaniya Brown |
-| 163 | 44 | Julibeth Wells |
-| 164 | 43 | Peter Fogg |
-| 165 | 43 | Amber Simonton |
+| 161 | 45 | Hillary Frank |
+| 162 | 44 | Laverne Ellis Blair |
+| 163 | 44 | Zaniya Brown |
+| 164 | 44 | Julibeth Wells |
+| 165 | 43 | Peter Fogg |
 | 166 | 43 | SEH |
-| 167 | 42 | Henny Henny |
-| 168 | 42 | Snazzy Smasher |
-| 169 | 42 | Bri St Peter |
-| 170 | 42 | Heather Vircik |
-| 171 | 42 | Shylo Bryant-Brunson |
-| 172 | 42 | Charity Hauser |
-| 173 | 42 | Renee Siems |
+| 167 | 43 | Amber Simonton |
+| 168 | 42 | Shylo Bryant-Brunson |
+| 169 | 42 | Snazzy Smasher |
+| 170 | 42 | Charity Hauser |
+| 171 | 42 | Henny Henny |
+| 172 | 42 | Renee Siems |
+| 173 | 42 | Bri St Peter |
 | 174 | 42 | Brittany Nichole Ellenburg |
-| 175 | 41 | Chill Line |
+| 175 | 42 | Heather Vircik |
 | 176 | 41 | Becca Marie |
-| 177 | 41 | Jenny Coffer |
+| 177 | 41 | Chill Line |
 | 178 | 41 | Michelle Fry-Cash |
 | 179 | 41 | Ava Speedy |
-| 180 | 40 | Sherry Ann |
-| 181 | 40 | Spicy Balanceblock |
-| 182 | 40 | Billie Jensen |
-| 183 | 40 | Jat |
-| 184 | 40 | Cathy Tippett |
-| 185 | 40 | Nicole Chestnut |
-| 186 | 40 | Kevin Mccoy |
-| 187 | 40 | Charith Lorelle Watson |
-| 188 | 40 | Loopy Dropper |
-| 189 | 40 | marsam |
-| 190 | 39 | Tamara Whiteley |
-| 191 | 39 | Alexis Meyers |
-| 192 | 39 | Michael James |
+| 180 | 41 | Jenny Coffer |
+| 181 | 40 | Kevin Mccoy |
+| 182 | 40 | Loopy Dropper |
+| 183 | 40 | Nicole Chestnut |
+| 184 | 40 | Sherry Ann |
+| 185 | 40 | Spicy Balanceblock |
+| 186 | 40 | marsam |
+| 187 | 40 | Cathy Tippett |
+| 188 | 40 | Charith Lorelle Watson |
+| 189 | 40 | Jat |
+| 190 | 39 | Jason Lamporte |
+| 191 | 39 | Michael James |
+| 192 | 39 | Alexis Meyers |
 | 193 | 39 | Lush Party |
-| 194 | 39 | Nikki Hayes |
-| 195 | 39 | Jason Lamporte |
-| 196 | 38 | Melmel |
-| 197 | 38 | Harper |
-| 198 | 38 | Nicole Hogue |
-| 199 | 38 | Sarah Jane Gorsuch |
+| 194 | 39 | Tamara Whiteley |
+| 195 | 39 | Nikki Hayes |
+| 196 | 38 | Harper |
+| 197 | 38 | Melmel |
+| 198 | 38 | Sarah Jane Gorsuch |
+| 199 | 38 | Nicole Hogue |
 | 200 | 38 | Jason P. Schwartz |
 | 201 | 37 | James Ward |
 | 202 | 37 | Michael Carmichael |
 | 203 | 37 | Andre Love |
 | 204 | 37 | Logan Duffey |
-| 205 | 36 | Ashley Green |
-| 206 | 36 | Mtnblzr |
-| 207 | 35 | Natalie M. Arredondo |
+| 205 | 36 | Mtnblzr |
+| 206 | 36 | Ashley Green |
+| 207 | 35 | Thomas Johnstone |
 | 208 | 35 | Jackie Walker |
-| 209 | 35 | Thomas Johnstone |
-| 210 | 35 | Kelly |
-| 211 | 35 | Josie Mendivil |
+| 209 | 35 | Kelly |
+| 210 | 35 | Josie Mendivil |
+| 211 | 35 | Natalie M. Arredondo |
 | 212 | 34 | TetrisMama |
 | 213 | 34 | Marylin Eacker |
-| 214 | 32 | Tracey Cox |
+| 214 | 32 | Mary Carriere |
 | 215 | 32 | Jgato |
-| 216 | 32 | Mary Carriere |
+| 216 | 32 | Tracey Cox |
 | 217 | 31 | Nikki Sadler |
 | 218 | 31 | Trinni Hansen |
 | 219 | 31 | IncrediDragon |
-| 220 | 30 | Buddy |
+| 220 | 30 | Marquita Toliver |
 | 221 | 30 | Nora Buchan |
-| 222 | 30 | Marquita Toliver |
+| 222 | 30 | Buddy |
 | 223 | 30 | Stacey Loretta Wallace |
 | 224 | 30 | Madonna Ash |
 | 225 | 30 | Teresa Mandich |
