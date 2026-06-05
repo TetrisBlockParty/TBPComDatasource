@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-05 16:48:35 UTC
+# Standings for team2 as of 2026-06-05 16:49:13 UTC
 
-**Total Participants:** 314
+**Total Participants:** 315
 
 ## Participant Scores
 
@@ -46,9 +46,9 @@
 | 38 | 103 | Spunky Cascadeclear |
 | 39 | 100 | LEW |
 | 40 | 99 | Melissa Abbott |
-| 41 | 93 | Tango Sierra |
-| 42 | 93 | Ariel Gundersen |
-| 43 | 91 | La chulis |
+| 41 | 93 | La chulis |
+| 42 | 93 | Tango Sierra |
+| 43 | 93 | Ariel Gundersen |
 | 44 | 89 | Chipper Stackbuilder |
 | 45 | 86 | Jazzy Faller |
 | 46 | 83 | Ashley Voelz |
@@ -262,64 +262,65 @@
 | 254 | 10 | Carlos J Blas |
 | 255 | 10 | Leticia Tillman |
 | 256 | 10 | Jennifer Chapel |
-| 257 | 10 | Jennifer Bell |
-| 258 | 10 | Justin Furne |
-| 259 | 10 | Katie Jones |
-| 260 | 10 | Twisty Snapmatch |
-| 261 | 10 | Happy Riseclear |
-| 262 | 10 | Brenda Zona |
-| 263 | 10 | Twisty Snapclear |
-| 264 | 10 | Gill |
-| 265 | 9 | Cary M. Fong |
-| 266 | 9 | bigdog |
-| 267 | 9 | Giggly Spinblock |
-| 268 | 9 | Michele Stewart |
-| 269 | 9 | Darla Ragsdale |
-| 270 | 9 | Angelique Matzke Starns |
-| 271 | 9 | Rhonda Driskill |
-| 272 | 9 | Holly Huval |
-| 273 | 9 | Chirpy Clearpiece |
-| 274 | 9 | David Skelton |
-| 275 | 9 | Lindsey Butler |
-| 276 | 9 | Tabitha Porter |
-| 277 | 8 | Stephanie |
-| 278 | 8 | Amber Carpenter |
-| 279 | 8 | Alimae |
-| 280 | 8 | Rhonda Diebold |
-| 281 | 8 | DayDreamer79 |
-| 282 | 8 | Chelsea Frye |
-| 283 | 8 | Renee Weedling |
-| 284 | 8 | Bubbly Strikerpiece |
-| 285 | 7 | Tashamonique Puckey |
-| 286 | 7 | Jackie Hayslip |
-| 287 | 7 | Rae |
-| 288 | 7 | Shane Peavey |
-| 289 | 7 | Elizabeth Elaine Coursey |
-| 290 | 7 | Kelli Pazour |
-| 291 | 7 | Flashy Cascadeclear |
-| 292 | 7 | Nova Nova |
-| 293 | 7 | Cherica Taylor |
-| 294 | 7 | michael |
-| 295 | 7 | Happy Curvebuilder |
-| 296 | 6 | fancypants |
-| 297 | 6 | Mary Carriere |
-| 298 | 6 | Kelly Christine Trimmer |
-| 299 | 6 | Cheeky Dashpiece |
-| 300 | 6 | Jeanna Mendez |
-| 301 | 6 | Emily |
-| 302 | 6 | Fran Gerebics |
-| 303 | 6 | Sarah Griffey |
-| 304 | 6 | Gina Leal |
-| 305 | 6 | Denise Morehart |
-| 306 | 5 | Mercedes Lowery |
-| 307 | 5 | Poppy Zonepiece |
-| 308 | 5 | Joni Michelle Morgan |
-| 309 | 5 | Pjrobinsonnn |
-| 310 | 5 | Agnes Gable |
-| 311 | 5 | Slinky Glidezone |
-| 312 | 5 | Lindsey Ford |
-| 313 | 5 | Marquetta Johnson |
-| 314 | 5 | Jolly Twisterfit |
+| 257 | 10 | Helen Thomas |
+| 258 | 10 | Jennifer Bell |
+| 259 | 10 | Justin Furne |
+| 260 | 10 | Katie Jones |
+| 261 | 10 | Twisty Snapmatch |
+| 262 | 10 | Happy Riseclear |
+| 263 | 10 | Brenda Zona |
+| 264 | 10 | Twisty Snapclear |
+| 265 | 10 | Gill |
+| 266 | 9 | Cary M. Fong |
+| 267 | 9 | bigdog |
+| 268 | 9 | Giggly Spinblock |
+| 269 | 9 | Michele Stewart |
+| 270 | 9 | Darla Ragsdale |
+| 271 | 9 | Angelique Matzke Starns |
+| 272 | 9 | Rhonda Driskill |
+| 273 | 9 | Holly Huval |
+| 274 | 9 | Chirpy Clearpiece |
+| 275 | 9 | David Skelton |
+| 276 | 9 | Lindsey Butler |
+| 277 | 9 | Tabitha Porter |
+| 278 | 8 | Stephanie |
+| 279 | 8 | Amber Carpenter |
+| 280 | 8 | Alimae |
+| 281 | 8 | Rhonda Diebold |
+| 282 | 8 | DayDreamer79 |
+| 283 | 8 | Chelsea Frye |
+| 284 | 8 | Renee Weedling |
+| 285 | 8 | Bubbly Strikerpiece |
+| 286 | 7 | Tashamonique Puckey |
+| 287 | 7 | Jackie Hayslip |
+| 288 | 7 | Rae |
+| 289 | 7 | Shane Peavey |
+| 290 | 7 | Elizabeth Elaine Coursey |
+| 291 | 7 | Kelli Pazour |
+| 292 | 7 | Flashy Cascadeclear |
+| 293 | 7 | Nova Nova |
+| 294 | 7 | Cherica Taylor |
+| 295 | 7 | michael |
+| 296 | 7 | Happy Curvebuilder |
+| 297 | 6 | fancypants |
+| 298 | 6 | Mary Carriere |
+| 299 | 6 | Kelly Christine Trimmer |
+| 300 | 6 | Cheeky Dashpiece |
+| 301 | 6 | Jeanna Mendez |
+| 302 | 6 | Emily |
+| 303 | 6 | Fran Gerebics |
+| 304 | 6 | Sarah Griffey |
+| 305 | 6 | Gina Leal |
+| 306 | 6 | Denise Morehart |
+| 307 | 5 | Mercedes Lowery |
+| 308 | 5 | Poppy Zonepiece |
+| 309 | 5 | Joni Michelle Morgan |
+| 310 | 5 | Pjrobinsonnn |
+| 311 | 5 | Agnes Gable |
+| 312 | 5 | Slinky Glidezone |
+| 313 | 5 | Lindsey Ford |
+| 314 | 5 | Marquetta Johnson |
+| 315 | 5 | Jolly Twisterfit |
 
 ---
 *Standings created by tournaments datasource generation tool*
