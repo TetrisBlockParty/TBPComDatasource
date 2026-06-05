@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:12:34 UTC
+# Standings for team1 as of 2026-06-05 13:13:13 UTC
 
 **Total Participants:** 102
 
@@ -34,8 +34,8 @@
 | 26 | 63 | Carrie English |
 | 27 | 60 | Asani CHumba |
 | 28 | 60 | Christian Pham |
-| 29 | 50 | Slinky Party |
-| 30 | 46 | SPNLover24 |
+| 29 | 55 | SPNLover24 |
+| 30 | 50 | Slinky Party |
 | 31 | 43 | Block |
 | 32 | 42 | Frisky Fall |
 | 33 | 41 | Jessica Russell |
