@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 13:27:13 UTC
+# Standings for team4 as of 2026-06-05 13:28:13 UTC
 
 **Total Participants:** 92
 
@@ -16,7 +16,7 @@
 | 8 | 174 | Heather Preston |
 | 9 | 148 | Colin |
 | 10 | 121 | Ryan Paul Clark-Ramsey |
-| 11 | 109 | Kim |
+| 11 | 117 | Kim |
 | 12 | 107 | Shayna Vaigneur-Hall |
 | 13 | 101 | Giggy Matchpiece |
 | 14 | 95 | Gloria Nunley Trussell |
@@ -24,8 +24,8 @@
 | 16 | 78 | Tawna Curry |
 | 17 | 75 | June Hoffman |
 | 18 | 74 | Snippy Grid |
-| 19 | 71 | Justin Michael |
-| 20 | 71 | Chris Covington |
+| 19 | 71 | Chris Covington |
+| 20 | 71 | Justin Michael |
 | 21 | 70 | Janae Harris |
 | 22 | 60 | Blockcrusher |
 | 23 | 60 | Fran Aaron-Ring |
@@ -35,8 +35,8 @@
 | 27 | 50 | Jesse Olive |
 | 28 | 41 | delilahbelle |
 | 29 | 40 | Tyra Brooke Everman Forest |
-| 30 | 38 | Charity Thomas |
-| 31 | 38 | Jonathan Hewitt |
+| 30 | 38 | Jonathan Hewitt |
+| 31 | 38 | Charity Thomas |
 | 32 | 36 | Shiny Brick |
 | 33 | 36 | Mrs |
 | 34 | 35 | Tactical_B |
@@ -48,38 +48,38 @@
 | 40 | 28 | Melissa Schwager |
 | 41 | 28 | Laurie Patrick |
 | 42 | 26 | Dana Fontanez |
-| 43 | 25 | Andrea Dre Lomeli |
-| 44 | 25 | Маркус Вік |
+| 43 | 25 | Маркус Вік |
+| 44 | 25 | Andrea Dre Lomeli |
 | 45 | 24 | smarty |
 | 46 | 24 | Sandra O'Reilly |
-| 47 | 23 | Stasia |
-| 48 | 23 | Zippy Snaplink |
+| 47 | 23 | Zippy Snaplink |
+| 48 | 23 | Stasia |
 | 49 | 23 | Melissa Quinn |
 | 50 | 22 | Saul Fajardo |
 | 51 | 21 | Keesha Muro |
 | 52 | 21 | Playa |
-| 53 | 20 | Magz |
-| 54 | 20 | Erica Pompey |
-| 55 | 20 | Betsy Froemming |
+| 53 | 20 | Betsy Froemming |
+| 54 | 20 | Magz |
+| 55 | 20 | Erica Pompey |
 | 56 | 19 | Becky McCool |
 | 57 | 19 | Swanky Matchfit |
 | 58 | 18 | Iforget |
 | 59 | 17 | Breezy Blockzone |
-| 60 | 15 | Jonelle Jacobs |
+| 60 | 15 | Hasty Dropzone |
 | 61 | 15 | Joshua Garner |
 | 62 | 15 | Perry Ransom |
-| 63 | 15 | Hasty Dropzone |
-| 64 | 13 | Nancy McCalla Abercrombie |
-| 65 | 13 | Cherry |
+| 63 | 15 | Jonelle Jacobs |
+| 64 | 13 | Cherry |
+| 65 | 13 | Nancy McCalla Abercrombie |
 | 66 | 13 | Karen Rodriguez |
 | 67 | 13 | Catherine Garza |
-| 68 | 12 | Alizabeth Garcia |
-| 69 | 12 | Fancy Tilefall |
+| 68 | 12 | Fancy Tilefall |
+| 69 | 12 | Alizabeth Garcia |
 | 70 | 11 | Samara Garcia |
 | 71 | 10 | Miguel Teixeira |
-| 72 | 10 | Lateasha Wildman |
-| 73 | 10 | JP Chua |
-| 74 | 10 | Buchanon Bossingup Jadrienne |
+| 72 | 10 | Buchanon Bossingup Jadrienne |
+| 73 | 10 | Lateasha Wildman |
+| 74 | 10 | JP Chua |
 | 75 | 9 | Hotstuff |
 | 76 | 9 | Esmond Johnson IV |
 | 77 | 9 | Dheeh Robles |
@@ -94,10 +94,10 @@
 | 86 | 5 | Lively Cascadeclear |
 | 87 | 5 | Ricky Colvin |
 | 88 | 5 | Angela Adamo-Tash |
-| 89 | 5 | Swanky Zigzag |
-| 90 | 5 | Jason Garnatz |
-| 91 | 5 | Mighty1 |
-| 92 | 5 | Cflixer |
+| 89 | 5 | Jason Garnatz |
+| 90 | 5 | Mighty1 |
+| 91 | 5 | Cflixer |
+| 92 | 5 | Swanky Zigzag |
 
 ---
 *Standings created by tournaments datasource generation tool*
