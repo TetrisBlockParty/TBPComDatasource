@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:10:36 UTC
+# Standings for team1 as of 2026-06-05 17:11:14 UTC
 
 **Total Participants:** 323
 
@@ -33,8 +33,8 @@
 | 25 | 239 | Kellie Hall |
 | 26 | 238 | Holly Jolly |
 | 27 | 237 | Leebo Slice |
-| 28 | 234 | Pdubbl3 |
-| 29 | 229 | Ashley MyBeauty Daniels |
+| 28 | 235 | Ashley MyBeauty Daniels |
+| 29 | 234 | Pdubbl3 |
 | 30 | 228 | Cassidy Butler |
 | 31 | 220 | Rayya Kiser |
 | 32 | 215 | Abraham Espaillat |
@@ -293,41 +293,41 @@
 | 285 | 9 | Crtjstr |
 | 286 | 8 | Rixo Blax |
 | 287 | 8 | Brika Brika |
-| 288 | 8 | Sammie Walker |
-| 289 | 8 | Breezy Catcher |
-| 290 | 8 | Jessie N Michael Silvers |
-| 291 | 8 | Tanesha Ga'sFinest Corbett |
-| 292 | 8 | Caitlin Michele |
-| 293 | 8 | Taz Ballard |
-| 294 | 7 | Mary2 |
-| 295 | 7 | Kendra McIntyre |
-| 296 | 7 | wmedina67 |
-| 297 | 7 | Shane Brucewayne |
-| 298 | 7 | Lillie Blossom Dixon |
-| 299 | 7 | whatever |
-| 300 | 7 | Andrew Harris |
-| 301 | 6 | Cece Fowler |
-| 302 | 6 | Frances Davis |
-| 303 | 6 | Jelyfish |
-| 304 | 6 | Brittnay Wright |
-| 305 | 6 | Jeffrey Barrows |
-| 306 | 6 | Allison Baxter |
-| 307 | 6 | Christopher Wallace |
-| 308 | 6 | Janine Hunter |
-| 309 | 5 | KeeKee Williams |
+| 288 | 8 | Tanesha Ga'sFinest Corbett |
+| 289 | 8 | Caitlin Michele |
+| 290 | 8 | Taz Ballard |
+| 291 | 8 | Sammie Walker |
+| 292 | 8 | Breezy Catcher |
+| 293 | 8 | Jessie N Michael Silvers |
+| 294 | 7 | Shane Brucewayne |
+| 295 | 7 | Mary2 |
+| 296 | 7 | Andrew Harris |
+| 297 | 7 | Kendra McIntyre |
+| 298 | 7 | whatever |
+| 299 | 7 | Lillie Blossom Dixon |
+| 300 | 7 | wmedina67 |
+| 301 | 6 | Frances Davis |
+| 302 | 6 | Jelyfish |
+| 303 | 6 | Jeffrey Barrows |
+| 304 | 6 | Allison Baxter |
+| 305 | 6 | Janine Hunter |
+| 306 | 6 | Christopher Wallace |
+| 307 | 6 | Cece Fowler |
+| 308 | 6 | Brittnay Wright |
+| 309 | 5 | Barbramerri Tarboro |
 | 310 | 5 | Stephanie Zuniga Tullock |
-| 311 | 5 | Jjhandsome |
-| 312 | 5 | pooh |
-| 313 | 5 | Barbramerri Tarboro |
-| 314 | 5 | Temeshia Brooks Washington |
-| 315 | 5 | Zappy Clearfit |
-| 316 | 5 | Vernon Hoyt |
-| 317 | 5 | Derek Beverly |
-| 318 | 5 | Lil T |
-| 319 | 5 | DirtiestofMikes |
-| 320 | 5 | Shawn Himes |
-| 321 | 5 | Kidgib5 |
-| 322 | 5 | Jennifer Moore |
+| 311 | 5 | Temeshia Brooks Washington |
+| 312 | 5 | KeeKee Williams |
+| 313 | 5 | Derek Beverly |
+| 314 | 5 | Lil T |
+| 315 | 5 | Jjhandsome |
+| 316 | 5 | pooh |
+| 317 | 5 | Zappy Clearfit |
+| 318 | 5 | DirtiestofMikes |
+| 319 | 5 | Shawn Himes |
+| 320 | 5 | Kidgib5 |
+| 321 | 5 | Jennifer Moore |
+| 322 | 5 | Vernon Hoyt |
 | 323 | 5 | Tamika Fisher |
 
 ---
