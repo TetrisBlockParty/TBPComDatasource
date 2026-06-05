@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-06-05 12:54:13 UTC
+# Standings for team4 as of 2026-06-05 12:54:36 UTC
 
-**Total Participants:** 70
+**Total Participants:** 72
 
 ## Participant Scores
 
@@ -22,60 +22,62 @@
 | 14 | 71 | Chris Covington |
 | 15 | 70 | Janae Harris |
 | 16 | 51 | Real Talk Vibes |
-| 17 | 50 | Keys Tome |
-| 18 | 50 | Jesse Olive |
+| 17 | 50 | Jesse Olive |
+| 18 | 50 | Keys Tome |
 | 19 | 48 | Blockcrusher |
-| 20 | 38 | Charity Thomas |
-| 21 | 38 | Jonathan Hewitt |
-| 22 | 36 | Henry Lanier |
-| 23 | 34 | jojo |
-| 24 | 32 | Shiny Brick |
-| 25 | 30 | Will E Ayala |
-| 26 | 28 | Melissa Schwager |
-| 27 | 28 | Laurie Patrick |
-| 28 | 26 | Dana Fontanez |
-| 29 | 25 | Маркус Вік |
-| 30 | 23 | Stasia |
-| 31 | 23 | Melissa Quinn |
-| 32 | 23 | Zippy Snaplink |
-| 33 | 22 | Saul Fajardo |
-| 34 | 22 | smarty |
-| 35 | 21 | Keesha Muro |
-| 36 | 21 | Playa |
-| 37 | 20 | Magz |
-| 38 | 20 | Erica Pompey |
-| 39 | 20 | Jasmine Marie |
-| 40 | 19 | Mrs |
-| 41 | 18 | Iforget |
-| 42 | 16 | Swanky Matchfit |
-| 43 | 15 | Joshua Garner |
+| 20 | 40 | Kathy Brookins |
+| 21 | 38 | Charity Thomas |
+| 22 | 38 | Jonathan Hewitt |
+| 23 | 36 | Henry Lanier |
+| 24 | 34 | jojo |
+| 25 | 32 | Shiny Brick |
+| 26 | 30 | Will E Ayala |
+| 27 | 28 | Melissa Schwager |
+| 28 | 28 | Laurie Patrick |
+| 29 | 26 | Dana Fontanez |
+| 30 | 25 | Mrs |
+| 31 | 25 | Маркус Вік |
+| 32 | 23 | Melissa Quinn |
+| 33 | 23 | Stasia |
+| 34 | 23 | Zippy Snaplink |
+| 35 | 22 | Saul Fajardo |
+| 36 | 22 | smarty |
+| 37 | 21 | Keesha Muro |
+| 38 | 21 | Playa |
+| 39 | 20 | Magz |
+| 40 | 20 | Erica Pompey |
+| 41 | 20 | Jasmine Marie |
+| 42 | 18 | Iforget |
+| 43 | 16 | Swanky Matchfit |
 | 44 | 15 | Justin Michael |
 | 45 | 15 | Perry Ransom |
-| 46 | 13 | Cherry |
-| 47 | 13 | Nancy McCalla Abercrombie |
-| 48 | 13 | Karen Rodriguez |
-| 49 | 12 | Breezy Blockzone |
-| 50 | 12 | Alizabeth Garcia |
-| 51 | 12 | Sandra O'Reilly |
-| 52 | 10 | Buchanon Bossingup Jadrienne |
-| 53 | 10 | Catherine Garza |
-| 54 | 10 | Jonelle Jacobs |
-| 55 | 10 | Lateasha Wildman |
+| 46 | 15 | Joshua Garner |
+| 47 | 13 | Catherine Garza |
+| 48 | 13 | Nancy McCalla Abercrombie |
+| 49 | 13 | Karen Rodriguez |
+| 50 | 13 | Cherry |
+| 51 | 12 | Breezy Blockzone |
+| 52 | 12 | Fancy Tilefall |
+| 53 | 12 | Alizabeth Garcia |
+| 54 | 12 | Sandra O'Reilly |
+| 55 | 10 | Jonelle Jacobs |
 | 56 | 10 | Hasty Dropzone |
-| 57 | 9 | Hotstuff |
-| 58 | 9 | Snippy Grid |
-| 59 | 8 | Sisi RedVelvet Reneè |
-| 60 | 7 | George Palacios |
-| 61 | 6 | Dizzy |
-| 62 | 6 | Colin |
+| 57 | 10 | Buchanon Bossingup Jadrienne |
+| 58 | 10 | Lateasha Wildman |
+| 59 | 9 | Snippy Grid |
+| 60 | 9 | Hotstuff |
+| 61 | 8 | Sisi RedVelvet Reneè |
+| 62 | 7 | George Palacios |
 | 63 | 6 | Deb 07 |
-| 64 | 5 | Jason Garnatz |
-| 65 | 5 | Jeremy Barry |
-| 66 | 5 | Zappy Matchgrid |
-| 67 | 5 | Lively Cascadeclear |
-| 68 | 5 | Cflixer |
-| 69 | 5 | Swanky Zigzag |
+| 64 | 6 | Colin |
+| 65 | 6 | Dizzy |
+| 66 | 5 | Lively Cascadeclear |
+| 67 | 5 | Cflixer |
+| 68 | 5 | Jeremy Barry |
+| 69 | 5 | Jason Garnatz |
 | 70 | 5 | Mighty1 |
+| 71 | 5 | Swanky Zigzag |
+| 72 | 5 | Zappy Matchgrid |
 
 ---
 *Standings created by tournaments datasource generation tool*

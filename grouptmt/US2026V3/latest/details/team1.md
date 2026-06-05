@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 12:54:13 UTC
+# Standings for team1 as of 2026-06-05 12:54:36 UTC
 
-**Total Participants:** 83
+**Total Participants:** 84
 
 ## Participant Scores
 
@@ -26,8 +26,8 @@
 | 18 | 63 | Carrie English |
 | 19 | 60 | Asani CHumba |
 | 20 | 59 | Kellie Hall |
-| 21 | 50 | Slinky Party |
-| 22 | 50 | Jazzy Dashpiece |
+| 21 | 50 | Jazzy Dashpiece |
+| 22 | 50 | Slinky Party |
 | 23 | 41 | Jessica Russell |
 | 24 | 40 | Leavon Smith |
 | 25 | 40 | Lauraly |
@@ -47,48 +47,49 @@
 | 39 | 22 | Zany Breaker |
 | 40 | 22 | Tanisha Taylor |
 | 41 | 21 | Brave Balanceblock |
-| 42 | 20 | Trina Greenwood |
-| 43 | 20 | Jai |
+| 42 | 20 | Jai |
+| 43 | 20 | Trina Greenwood |
 | 44 | 19 | Jenni |
 | 45 | 19 | Amanda Woodruff |
-| 46 | 19 | Shanjerrica Taylor Rosell |
-| 47 | 19 | SPNLover24 |
+| 46 | 19 | SPNLover24 |
+| 47 | 19 | Shanjerrica Taylor Rosell |
 | 48 | 18 | Dizzy Dashy |
-| 49 | 17 | Kimberly Red |
-| 50 | 17 | Rikki Moran |
+| 49 | 17 | Rikki Moran |
+| 50 | 17 | Kimberly Red |
 | 51 | 16 | Sylvia Offically A Mcgowan |
-| 52 | 15 | Steve Reno |
-| 53 | 15 | Janet Cooke |
-| 54 | 15 | Charlene Baltimore |
+| 52 | 15 | Una |
+| 53 | 15 | Steve Reno |
+| 54 | 15 | Tami Spence |
 | 55 | 15 | Ashley MyBeauty Daniels |
 | 56 | 15 | Christian Pham |
-| 57 | 15 | Una |
-| 58 | 15 | Tami Spence |
-| 59 | 14 | Alyssa Rae |
-| 60 | 14 | Brian Bohanon II |
+| 57 | 15 | Charlene Baltimore |
+| 58 | 15 | Janet Cooke |
+| 59 | 14 | Brian Bohanon II |
+| 60 | 14 | Alyssa Rae |
 | 61 | 13 | Oaklonboy mike |
 | 62 | 12 | Kimmie Gargano |
 | 63 | 11 | Desiree Ryder |
 | 64 | 10 | Frisky Fall |
-| 65 | 10 | Sarah Marie |
-| 66 | 10 | Megan Payette |
-| 67 | 10 | Daddy |
-| 68 | 10 | Tishauna Virgo |
-| 69 | 10 | 신재호 |
-| 70 | 10 | Brian Stackhouse |
-| 71 | 9 | Tina Criam |
-| 72 | 9 | IThinkNot |
-| 73 | 9 | Brenda Malachi-butler |
-| 74 | 9 | Tyree Tman Shinette |
-| 75 | 8 | Tammye Turner |
-| 76 | 8 | Brika Brika |
-| 77 | 8 | Sammie Walker |
-| 78 | 7 | Kendra McIntyre |
-| 79 | 7 | Yashica Smith |
+| 65 | 10 | Megan Payette |
+| 66 | 10 | Brian Stackhouse |
+| 67 | 10 | Sarah Marie |
+| 68 | 10 | 신재호 |
+| 69 | 10 | Tishauna Virgo |
+| 70 | 10 | Daddy |
+| 71 | 10 | Yashica Smith |
+| 72 | 9 | Brenda Malachi-butler |
+| 73 | 9 | Tyree Tman Shinette |
+| 74 | 9 | Tina Criam |
+| 75 | 9 | IThinkNot |
+| 76 | 8 | Tammye Turner |
+| 77 | 8 | Brika Brika |
+| 78 | 8 | Sammie Walker |
+| 79 | 7 | Kendra McIntyre |
 | 80 | 7 | Mary2 |
-| 81 | 5 | Jennifer Moore |
-| 82 | 5 | Shakmar |
-| 83 | 5 | Cheeky Pop |
+| 81 | 5 | Cheeky Pop |
+| 82 | 5 | Jennifer Moore |
+| 83 | 5 | Shakmar |
+| 84 | 5 | Kimberly Hernandez |
 
 ---
 *Standings created by tournaments datasource generation tool*
