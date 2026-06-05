@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 12:33:13 UTC
+# Standings for team1 as of 2026-06-05 12:34:12 UTC
 
-**Total Participants:** 47
+**Total Participants:** 50
 
 ## Participant Scores
 
@@ -12,47 +12,50 @@
 | 4 | 177 | Chris Sladoje |
 | 5 | 164 | Gotcha |
 | 6 | 142 | Ivana Schmidt |
-| 7 | 97 | Chris Russell |
-| 8 | 96 | Debbie Carswell |
+| 7 | 141 | Debbie Carswell |
+| 8 | 97 | Chris Russell |
 | 9 | 80 | Rachel Zimmerman |
 | 10 | 72 | Amber Wilson |
 | 11 | 67 | Robyn Caldwell |
-| 12 | 60 | Asani CHumba |
-| 13 | 52 | jaimie |
-| 14 | 50 | Slinky Party |
-| 15 | 50 | Shontanese Adams |
-| 16 | 49 | ♈️ Ariesbaby |
+| 12 | 65 | ♈️ Ariesbaby |
+| 13 | 60 | Asani CHumba |
+| 14 | 52 | jaimie |
+| 15 | 50 | Slinky Party |
+| 16 | 50 | Shontanese Adams |
 | 17 | 40 | Leavon Smith |
 | 18 | 40 | Jean Regis |
 | 19 | 30 | Lester Malone |
-| 20 | 25 | KoolKimJay |
-| 21 | 25 | Tyrone Porter |
+| 20 | 25 | Tyrone Porter |
+| 21 | 25 | KoolKimJay |
 | 22 | 23 | Saucy Crusher |
 | 23 | 22 | Tanisha Taylor |
-| 24 | 20 | Trina Greenwood |
-| 25 | 19 | Jenni |
-| 26 | 19 | Amanda Woodruff |
-| 27 | 18 | Dizzy Dashy |
-| 28 | 17 | Jai |
-| 29 | 16 | Sylvia Offically A Mcgowan |
-| 30 | 16 | Mafio SO |
-| 31 | 15 | Tami Spence |
-| 32 | 14 | Ashley MyBeauty Daniels |
-| 33 | 12 | Angela R Wilson |
-| 34 | 12 | Kimmie Gargano |
-| 35 | 11 | Desiree Ryder |
-| 36 | 10 | Sarah Marie |
-| 37 | 10 | Tishauna Virgo |
-| 38 | 9 | IThinkNot |
-| 39 | 9 | Tina Criam |
-| 40 | 9 | Brave Balanceblock |
-| 41 | 8 | John Staub |
-| 42 | 8 | Zany Breaker |
-| 43 | 7 | Saucy Faller |
-| 44 | 7 | Mary2 |
-| 45 | 7 | Rikki Moran |
-| 46 | 7 | Kendra McIntyre |
-| 47 | 5 | Cheeky Pop |
+| 24 | 20 | Kellie Hall |
+| 25 | 20 | Trina Greenwood |
+| 26 | 19 | Jenni |
+| 27 | 19 | Amanda Woodruff |
+| 28 | 18 | Dizzy Dashy |
+| 29 | 18 | Brave Balanceblock |
+| 30 | 17 | Jai |
+| 31 | 16 | Saucy Faller |
+| 32 | 16 | Mafio SO |
+| 33 | 16 | Sylvia Offically A Mcgowan |
+| 34 | 15 | Tami Spence |
+| 35 | 14 | Ashley MyBeauty Daniels |
+| 36 | 12 | Kimmie Gargano |
+| 37 | 12 | Angela R Wilson |
+| 38 | 11 | Desiree Ryder |
+| 39 | 10 | Frisky Fall |
+| 40 | 10 | Tishauna Virgo |
+| 41 | 10 | Sarah Marie |
+| 42 | 9 | Tina Criam |
+| 43 | 9 | IThinkNot |
+| 44 | 8 | Zany Breaker |
+| 45 | 8 | John Staub |
+| 46 | 7 | Mary2 |
+| 47 | 7 | Rikki Moran |
+| 48 | 7 | Kendra McIntyre |
+| 49 | 5 | Shanjerrica Taylor Rosell |
+| 50 | 5 | Cheeky Pop |
 
 ---
 *Standings created by tournaments datasource generation tool*
