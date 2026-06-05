@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:17:14 UTC
+# Standings for team1 as of 2026-06-05 17:18:15 UTC
 
 **Total Participants:** 330
 
@@ -39,8 +39,8 @@
 | 31 | 220 | Rayya Kiser |
 | 32 | 215 | Abraham Espaillat |
 | 33 | 193 | Spicy Balancer |
-| 34 | 185 | COSA303 |
-| 35 | 185 | Jennifer To |
+| 34 | 185 | Jennifer To |
+| 35 | 185 | COSA303 |
 | 36 | 178 | Gotcha |
 | 37 | 177 | Chris Sladoje |
 | 38 | 165 | Davionte DaeDae Hopson-Rodriguez |
@@ -49,31 +49,31 @@
 | 41 | 141 | Debbie Carswell |
 | 42 | 140 | Ann Chung |
 | 43 | 140 | JoJo |
-| 44 | 137 | BlackQueen105 |
-| 45 | 135 | Jawaun Daniels |
-| 46 | 129 | Blockhead |
-| 47 | 126 | Cee Emm |
-| 48 | 119 | AF Cruz |
+| 44 | 139 | AF Cruz |
+| 45 | 137 | BlackQueen105 |
+| 46 | 135 | Jawaun Daniels |
+| 47 | 129 | Blockhead |
+| 48 | 126 | Cee Emm |
 | 49 | 117 | Teddy Davis |
 | 50 | 111 | Shalena Marie Humphrey |
 | 51 | 103 | KenpachisGirl |
-| 52 | 100 | Asani CHumba |
-| 53 | 100 | She Higgy |
-| 54 | 100 | Cool Bridger |
+| 52 | 100 | She Higgy |
+| 53 | 100 | Cool Bridger |
+| 54 | 100 | Asani CHumba |
 | 55 | 96 | Cortaz Lawrie |
 | 56 | 90 | 신재호 |
 | 57 | 86 | SPNLover24 |
-| 58 | 85 | Nate Myers |
-| 59 | 84 | Ciera Peace |
-| 60 | 81 | Hasty Pivoty |
-| 61 | 81 | Mafio SO |
+| 58 | 85 | Nerdy Snapfall |
+| 59 | 85 | Nate Myers |
+| 60 | 84 | Ciera Peace |
+| 61 | 82 | Hasty Pivoty |
 | 62 | 81 | Robyn Caldwell |
-| 63 | 80 | Jazzy Dashpiece |
-| 64 | 80 | Char |
+| 63 | 81 | Mafio SO |
+| 64 | 80 | Carolyn Smith |
 | 65 | 80 | Rachel Zimmerman |
-| 66 | 80 | Carolyn Smith |
+| 66 | 80 | Jazzy Dashpiece |
 | 67 | 80 | Felicia Williams |
-| 68 | 79 | Nerdy Snapfall |
+| 68 | 80 | Char |
 | 69 | 77 | Amber Wilson |
 | 70 | 76 | Giggly Shatterline |
 | 71 | 76 | Jessica Russell |
@@ -104,20 +104,20 @@
 | 96 | 55 | Kyle Franklin |
 | 97 | 54 | Lauraly |
 | 98 | 52 | Keke Ferguson |
-| 99 | 51 | Comedian Gdane |
-| 100 | 50 | Teresa Yanira Cepeda |
-| 101 | 50 | Slinky Party |
-| 102 | 50 | Donna Payne |
-| 103 | 50 | Yazz |
-| 104 | 50 | Dai Bo |
-| 105 | 50 | Antoinette Jones |
-| 106 | 49 | LexiiSamayaa |
-| 107 | 48 | Kristie |
+| 99 | 51 | Kristie |
+| 100 | 51 | Comedian Gdane |
+| 101 | 50 | Teresa Yanira Cepeda |
+| 102 | 50 | Slinky Party |
+| 103 | 50 | Donna Payne |
+| 104 | 50 | Antoinette Jones |
+| 105 | 50 | Yazz |
+| 106 | 50 | Dai Bo |
+| 107 | 49 | LexiiSamayaa |
 | 108 | 48 | Eric Mcgaughy |
 | 109 | 47 | Derrius SeriousLee Burks |
 | 110 | 47 | Christopher Dreamsareality McEachin |
-| 111 | 45 | Renee J. Thomas |
-| 112 | 45 | Jayjay Rich |
+| 111 | 45 | Jayjay Rich |
+| 112 | 45 | Renee J. Thomas |
 | 113 | 45 | Guy Incognito |
 | 114 | 44 | Andi McGreevy |
 | 115 | 43 | Block |
