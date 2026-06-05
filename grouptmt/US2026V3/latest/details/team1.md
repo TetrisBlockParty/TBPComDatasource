@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 18:20:35 UTC
+# Standings for team1 as of 2026-06-05 18:21:14 UTC
 
 **Total Participants:** 382
 
@@ -352,42 +352,42 @@
 | 344 | 8 | Jessie N Michael Silvers |
 | 345 | 7 | wmedina67 |
 | 346 | 7 | Ferocity |
-| 347 | 7 | Shane Brucewayne |
-| 348 | 7 | Mary2 |
-| 349 | 7 | Kendra McIntyre |
-| 350 | 7 | Andrew Harris |
-| 351 | 7 | whatever |
-| 352 | 7 | Lillie Blossom Dixon |
+| 347 | 7 | Andrew Harris |
+| 348 | 7 | Kendra McIntyre |
+| 349 | 7 | Shane Brucewayne |
+| 350 | 7 | whatever |
+| 351 | 7 | Lillie Blossom Dixon |
+| 352 | 7 | Mary2 |
 | 353 | 6 | Janine Hunter |
-| 354 | 6 | Allison Baxter |
-| 355 | 6 | Boricua64 |
-| 356 | 6 | Jeffrey Barrows |
-| 357 | 6 | Jelyfish |
-| 358 | 6 | Gael Quintana |
-| 359 | 6 | NEM0228 |
-| 360 | 6 | Frances Davis |
-| 361 | 6 | Cece Fowler |
-| 362 | 6 | Christopher Wallace |
-| 363 | 6 | Brittnay Wright |
-| 364 | 5 | Stephanie Zuniga Tullock |
-| 365 | 5 | Jennifer Moore |
-| 366 | 5 | Temeshia Brooks Washington |
-| 367 | 5 | KeeKee Williams |
-| 368 | 5 | Jenni Hardman |
-| 369 | 5 | Wacky Towerer |
-| 370 | 5 | Derek Beverly |
-| 371 | 5 | Andre Sanon |
-| 372 | 5 | Lil T |
-| 373 | 5 | Vernon Hoyt |
-| 374 | 5 | Rieshelda Marie White |
-| 375 | 5 | Jjhandsome |
-| 376 | 5 | pooh |
-| 377 | 5 | Barbramerri Tarboro |
-| 378 | 5 | DirtiestofMikes |
-| 379 | 5 | Shawn Himes |
-| 380 | 5 | Kidgib5 |
+| 354 | 6 | Jelyfish |
+| 355 | 6 | Jeffrey Barrows |
+| 356 | 6 | Gael Quintana |
+| 357 | 6 | NEM0228 |
+| 358 | 6 | Frances Davis |
+| 359 | 6 | Cece Fowler |
+| 360 | 6 | Boricua64 |
+| 361 | 6 | Brittnay Wright |
+| 362 | 6 | Allison Baxter |
+| 363 | 6 | Christopher Wallace |
+| 364 | 5 | Wacky Towerer |
+| 365 | 5 | KeeKee Williams |
+| 366 | 5 | Andre Sanon |
+| 367 | 5 | Temeshia Brooks Washington |
+| 368 | 5 | Stephanie Zuniga Tullock |
+| 369 | 5 | Vernon Hoyt |
+| 370 | 5 | Jjhandsome |
+| 371 | 5 | pooh |
+| 372 | 5 | Jenni Hardman |
+| 373 | 5 | Derek Beverly |
+| 374 | 5 | Lil T |
+| 375 | 5 | Rieshelda Marie White |
+| 376 | 5 | DirtiestofMikes |
+| 377 | 5 | Shawn Himes |
+| 378 | 5 | Kidgib5 |
+| 379 | 5 | Jennifer Moore |
+| 380 | 5 | Tamika Fisher |
 | 381 | 5 | Zappy Clearfit |
-| 382 | 5 | Tamika Fisher |
+| 382 | 5 | Barbramerri Tarboro |
 
 ---
 *Standings created by tournaments datasource generation tool*
