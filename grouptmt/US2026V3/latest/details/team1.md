@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:30:36 UTC
+# Standings for team1 as of 2026-06-05 17:31:15 UTC
 
 **Total Participants:** 336
 
@@ -310,38 +310,38 @@
 | 302 | 8 | Brenda Brogden |
 | 303 | 8 | Caitlin Michele |
 | 304 | 8 | Taz Ballard |
-| 305 | 7 | wmedina67 |
-| 306 | 7 | Lillie Blossom Dixon |
+| 305 | 7 | whatever |
+| 306 | 7 | wmedina67 |
 | 307 | 7 | Kendra McIntyre |
-| 308 | 7 | whatever |
-| 309 | 7 | Andrew Harris |
-| 310 | 7 | Mary2 |
-| 311 | 7 | Shane Brucewayne |
-| 312 | 6 | Douglas Price |
-| 313 | 6 | Allison Baxter |
-| 314 | 6 | Jeffrey Barrows |
-| 315 | 6 | Christopher Wallace |
-| 316 | 6 | Jelyfish |
-| 317 | 6 | Janine Hunter |
-| 318 | 6 | Frances Davis |
-| 319 | 6 | Brittnay Wright |
-| 320 | 6 | Frilly Shatterline |
+| 308 | 7 | Lillie Blossom Dixon |
+| 309 | 7 | Frilly Shatterline |
+| 310 | 7 | Andrew Harris |
+| 311 | 7 | Mary2 |
+| 312 | 7 | Shane Brucewayne |
+| 313 | 6 | Janine Hunter |
+| 314 | 6 | Douglas Price |
+| 315 | 6 | Jeffrey Barrows |
+| 316 | 6 | Allison Baxter |
+| 317 | 6 | Jelyfish |
+| 318 | 6 | Christopher Wallace |
+| 319 | 6 | Frances Davis |
+| 320 | 6 | Brittnay Wright |
 | 321 | 6 | Cece Fowler |
-| 322 | 5 | Barbramerri Tarboro |
-| 323 | 5 | Stephanie Zuniga Tullock |
-| 324 | 5 | Temeshia Brooks Washington |
-| 325 | 5 | KeeKee Williams |
-| 326 | 5 | Derek Beverly |
-| 327 | 5 | Lil T |
-| 328 | 5 | DirtiestofMikes |
-| 329 | 5 | Kidgib5 |
-| 330 | 5 | Vernon Hoyt |
-| 331 | 5 | Jennifer Moore |
-| 332 | 5 | Tamika Fisher |
-| 333 | 5 | Zappy Clearfit |
-| 334 | 5 | Jjhandsome |
-| 335 | 5 | pooh |
-| 336 | 5 | Shawn Himes |
+| 322 | 5 | pooh |
+| 323 | 5 | Barbramerri Tarboro |
+| 324 | 5 | Stephanie Zuniga Tullock |
+| 325 | 5 | Temeshia Brooks Washington |
+| 326 | 5 | KeeKee Williams |
+| 327 | 5 | Derek Beverly |
+| 328 | 5 | Lil T |
+| 329 | 5 | DirtiestofMikes |
+| 330 | 5 | Shawn Himes |
+| 331 | 5 | Kidgib5 |
+| 332 | 5 | Jennifer Moore |
+| 333 | 5 | Vernon Hoyt |
+| 334 | 5 | Tamika Fisher |
+| 335 | 5 | Zappy Clearfit |
+| 336 | 5 | Jjhandsome |
 
 ---
 *Standings created by tournaments datasource generation tool*
