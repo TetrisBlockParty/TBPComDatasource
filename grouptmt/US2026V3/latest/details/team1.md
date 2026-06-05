@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:44:34 UTC
+# Standings for team1 as of 2026-06-05 15:45:14 UTC
 
 **Total Participants:** 258
 
@@ -27,9 +27,9 @@
 | 19 | 237 | Tammye Turner |
 | 20 | 234 | Pdubbl3 |
 | 21 | 220 | Rayya Kiser |
-| 22 | 185 | Jennifer To |
-| 23 | 181 | Ashley Espeut |
-| 24 | 179 | Kellie Hall |
+| 22 | 189 | Kellie Hall |
+| 23 | 185 | Jennifer To |
+| 24 | 181 | Ashley Espeut |
 | 25 | 178 | Gotcha |
 | 26 | 178 | Cassidy Butler |
 | 27 | 177 | Chris Sladoje |
@@ -133,12 +133,12 @@
 | 125 | 29 | hope |
 | 126 | 28 | John Staub |
 | 127 | 28 | Jazzy Bridger |
-| 128 | 27 | Mighty Dropper |
-| 129 | 27 | Charlene Baltimore |
-| 130 | 27 | Jae Thompson-Tyus |
-| 131 | 27 | Zany Breaker |
-| 132 | 26 | Xrandomx |
-| 133 | 26 | Nerdy Snapfall |
+| 128 | 27 | Nerdy Snapfall |
+| 129 | 27 | Mighty Dropper |
+| 130 | 27 | Charlene Baltimore |
+| 131 | 27 | Jae Thompson-Tyus |
+| 132 | 27 | Zany Breaker |
+| 133 | 26 | Xrandomx |
 | 134 | 25 | Tyrone Porter |
 | 135 | 25 | Eric Mcgaughy |
 | 136 | 25 | Hasty Pivoty |
@@ -252,18 +252,18 @@
 | 244 | 6 | Brittnay Wright |
 | 245 | 6 | Janine Hunter |
 | 246 | 5 | Tamika Fisher |
-| 247 | 5 | Rixo Blax |
-| 248 | 5 | Derek Beverly |
-| 249 | 5 | Temeshia Brooks Washington |
-| 250 | 5 | KeeKee Williams |
-| 251 | 5 | Lil T |
-| 252 | 5 | Stephanie Zuniga Tullock |
-| 253 | 5 | DirtiestofMikes |
-| 254 | 5 | Kidgib5 |
-| 255 | 5 | Jennifer Moore |
-| 256 | 5 | Vernon Hoyt |
-| 257 | 5 | Shawn Himes |
-| 258 | 5 | Zappy Clearfit |
+| 247 | 5 | Zappy Clearfit |
+| 248 | 5 | Rixo Blax |
+| 249 | 5 | Derek Beverly |
+| 250 | 5 | Temeshia Brooks Washington |
+| 251 | 5 | KeeKee Williams |
+| 252 | 5 | Lil T |
+| 253 | 5 | Stephanie Zuniga Tullock |
+| 254 | 5 | DirtiestofMikes |
+| 255 | 5 | Kidgib5 |
+| 256 | 5 | Jennifer Moore |
+| 257 | 5 | Vernon Hoyt |
+| 258 | 5 | Shawn Himes |
 
 ---
 *Standings created by tournaments datasource generation tool*
