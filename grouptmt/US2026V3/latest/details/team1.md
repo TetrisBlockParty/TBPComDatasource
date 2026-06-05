@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 22:32:38 UTC
+# Standings for team1 as of 2026-06-05 22:33:14 UTC
 
 **Total Participants:** 564
 
@@ -186,111 +186,111 @@
 | 178 | 48 | Sonia Binti Mfalme |
 | 179 | 48 | Comedian Prince Paul |
 | 180 | 48 | BYM4L |
-| 181 | 47 | Derrius SeriousLee Burks |
-| 182 | 47 | Christopher Dreamsareality McEachin |
-| 183 | 47 | Terrie |
-| 184 | 47 | Cece Fowler |
-| 185 | 47 | Poppy Twister |
+| 181 | 47 | Cece Fowler |
+| 182 | 47 | Derrius SeriousLee Burks |
+| 183 | 47 | Poppy Twister |
+| 184 | 47 | Christopher Dreamsareality McEachin |
+| 185 | 47 | Terrie |
 | 186 | 46 | David A Alvino |
 | 187 | 45 | Guy Incognito |
-| 188 | 45 | Renee J. Thomas |
-| 189 | 45 | Steve Reno |
-| 190 | 45 | Daris Swearington |
-| 191 | 45 | Slinky Clearzone |
+| 188 | 45 | Daris Swearington |
+| 189 | 45 | Slinky Clearzone |
+| 190 | 45 | Steve Reno |
+| 191 | 45 | Renee J. Thomas |
 | 192 | 44 | Breezy Catcher |
 | 193 | 44 | Andi McGreevy |
-| 194 | 43 | IThinkNot |
-| 195 | 43 | Rachel Renae Bettis |
-| 196 | 43 | Block |
-| 197 | 43 | Byron Mario Cawthon |
-| 198 | 43 | Brittany Fells |
+| 194 | 43 | Rachel Renae Bettis |
+| 195 | 43 | Sunny Clicky |
+| 196 | 43 | IThinkNot |
+| 197 | 43 | Brittany Fells |
+| 198 | 43 | Block |
 | 199 | 43 | Brenda Malachi-butler |
-| 200 | 43 | Sunny Clicky |
-| 201 | 42 | sasha |
-| 202 | 42 | Dandy Brickfit |
+| 200 | 43 | Byron Mario Cawthon |
+| 201 | 42 | Dandy Brickfit |
+| 202 | 42 | sasha |
 | 203 | 41 | Cranky Fall |
-| 204 | 40 | Larina Cherie Johnson |
-| 205 | 40 | Heather Aurelia |
-| 206 | 40 | Rackemwillie34 |
-| 207 | 40 | Flashy Slam |
-| 208 | 40 | Kamilya Rembert |
-| 209 | 40 | Jean Regis |
-| 210 | 40 | Tori Carter |
-| 211 | 40 | Nutty Spinblock |
-| 212 | 40 | HarleyJane |
-| 213 | 40 | Devin West |
-| 214 | 40 | Nisha Sunshine Jenkins |
-| 215 | 40 | Leavon Smith |
-| 216 | 39 | Jae Thompson-Tyus |
+| 204 | 40 | Flashy Slam |
+| 205 | 40 | Kamilya Rembert |
+| 206 | 40 | Heather Aurelia |
+| 207 | 40 | Tori Carter |
+| 208 | 40 | Rackemwillie34 |
+| 209 | 40 | Devin West |
+| 210 | 40 | HarleyJane |
+| 211 | 40 | Nisha Sunshine Jenkins |
+| 212 | 40 | Leavon Smith |
+| 213 | 40 | Larina Cherie Johnson |
+| 214 | 40 | Jean Regis |
+| 215 | 40 | Nutty Spinblock |
+| 216 | 39 | JesusSaves 😇 |
 | 217 | 39 | Sabrina Wilkerson |
-| 218 | 39 | JesusSaves 😇 |
-| 219 | 39 | Lexx Robins |
-| 220 | 38 | Raquel Ortiz |
-| 221 | 38 | Tonya Thomas |
-| 222 | 38 | LAhoneybun82 |
-| 223 | 38 | Kahliah Baker |
-| 224 | 38 | hope |
-| 225 | 38 | Earl Williams |
-| 226 | 37 | GamerQueenDS |
-| 227 | 37 | Jackytrain52 |
-| 228 | 37 | Jojo M |
-| 229 | 37 | Lootch |
-| 230 | 37 | Calvin Green |
-| 231 | 36 | Wild Out Nai |
+| 218 | 39 | Lexx Robins |
+| 219 | 39 | Jae Thompson-Tyus |
+| 220 | 38 | Earl Williams |
+| 221 | 38 | Kahliah Baker |
+| 222 | 38 | Tonya Thomas |
+| 223 | 38 | hope |
+| 224 | 38 | Raquel Ortiz |
+| 225 | 38 | LAhoneybun82 |
+| 226 | 37 | Jackytrain52 |
+| 227 | 37 | Lootch |
+| 228 | 37 | Calvin Green |
+| 229 | 37 | Jojo M |
+| 230 | 37 | GamerQueenDS |
+| 231 | 36 | Lynnette WheelerBushnell |
 | 232 | 36 | Sunny Riserbuilder |
-| 233 | 36 | Lynnette WheelerBushnell |
-| 234 | 35 | messyboots |
-| 235 | 35 | Sashaleo |
-| 236 | 35 | HBTone |
-| 237 | 35 | Saucy Crusher |
-| 238 | 35 | Jumpy Gridlock |
-| 239 | 35 | Jolly Tilefall |
-| 240 | 35 | Wacky Stackbuilder |
-| 241 | 35 | Stephen Providenti |
-| 242 | 35 | Elizabeth Green |
-| 243 | 35 | Glitzy Clusterer |
+| 233 | 36 | Wild Out Nai |
+| 234 | 35 | Sashaleo |
+| 235 | 35 | Saucy Crusher |
+| 236 | 35 | Glitzy Clusterer |
+| 237 | 35 | HBTone |
+| 238 | 35 | Jolly Tilefall |
+| 239 | 35 | Jumpy Gridlock |
+| 240 | 35 | messyboots |
+| 241 | 35 | Wacky Stackbuilder |
+| 242 | 35 | Stephen Providenti |
+| 243 | 35 | Elizabeth Green |
 | 244 | 35 | Kimberly Red |
 | 245 | 34 | Elizabeth Hopkins |
-| 246 | 33 | Block King |
-| 247 | 33 | Tonny Williams |
-| 248 | 33 | Richard Flex |
-| 249 | 33 | Chris Nelson |
-| 250 | 33 | Charlene Baltimore |
-| 251 | 33 | Karen Denen |
-| 252 | 33 | Mom3granny2 |
-| 253 | 33 | Krose Byers |
-| 254 | 33 | Rene Hicks |
-| 255 | 33 | Crtjstr |
-| 256 | 32 | Maribel Vasquez |
-| 257 | 32 | Dee McCool |
-| 258 | 32 | Kimberly Hernandez |
-| 259 | 32 | Tomme Poliwka |
-| 260 | 32 | Tyrone Porter |
-| 261 | 32 | Melvin Simpson |
-| 262 | 32 | Slinky Brickmatch |
+| 246 | 33 | Chris Nelson |
+| 247 | 33 | Rene Hicks |
+| 248 | 33 | Krose Byers |
+| 249 | 33 | Lawreniesha Burkley |
+| 250 | 33 | Karen Denen |
+| 251 | 33 | Richard Flex |
+| 252 | 33 | Crtjstr |
+| 253 | 33 | Block King |
+| 254 | 33 | Tonny Williams |
+| 255 | 33 | Charlene Baltimore |
+| 256 | 33 | Mom3granny2 |
+| 257 | 32 | Tyrone Porter |
+| 258 | 32 | Dee McCool |
+| 259 | 32 | Maribel Vasquez |
+| 260 | 32 | Tomme Poliwka |
+| 261 | 32 | Kimberly Hernandez |
+| 262 | 32 | Melvin Simpson |
 | 263 | 32 | Sylvia Offically A Mcgowan |
-| 264 | 31 | Tipsy Linkroll |
+| 264 | 32 | Slinky Brickmatch |
 | 265 | 31 | Casey Chapman |
-| 266 | 31 | Vannie G |
-| 267 | 31 | Boldy Pivoty |
-| 268 | 31 | Kelvin Cook |
-| 269 | 31 | Anthony |
-| 270 | 31 | Reginald Frank |
-| 271 | 31 | Miera Nicole |
-| 272 | 30 | Lester Malone |
-| 273 | 30 | Jaida De'Anne Cox |
-| 274 | 30 | Wayne Savannah |
-| 275 | 30 | Rhianna Dinki Austin |
-| 276 | 30 | Lawreniesha Burkley |
+| 266 | 31 | Tipsy Linkroll |
+| 267 | 31 | Vannie G |
+| 268 | 31 | Boldy Pivoty |
+| 269 | 31 | Kelvin Cook |
+| 270 | 31 | Anthony |
+| 271 | 31 | Reginald Frank |
+| 272 | 31 | Miera Nicole |
+| 273 | 30 | Jes Marie |
+| 274 | 30 | Jaida De'Anne Cox |
+| 275 | 30 | Wayne Savannah |
+| 276 | 30 | Rhianna Dinki Austin |
 | 277 | 30 | Bouncy Glide |
-| 278 | 30 | Kp |
-| 279 | 30 | SeanSanchez |
+| 278 | 30 | SeanSanchez |
+| 279 | 30 | Kp |
 | 280 | 30 | Witty Blockpiece |
-| 281 | 30 | Jes Marie |
+| 281 | 30 | Lester Malone |
 | 282 | 30 | Kashh |
 | 283 | 30 | Sarah Guarino |
-| 284 | 30 | Amy Villalpando |
-| 285 | 30 | Saucy Faller |
+| 284 | 30 | Saucy Faller |
+| 285 | 30 | Amy Villalpando |
 | 286 | 30 | Ta'Kaiyah M. Spann |
 | 287 | 30 | Brittanie Wardlow |
 | 288 | 29 | Jenni Hardman |
