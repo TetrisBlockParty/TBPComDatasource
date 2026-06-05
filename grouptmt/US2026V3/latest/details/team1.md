@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 18:22:14 UTC
+# Standings for team1 as of 2026-06-05 18:22:37 UTC
 
 **Total Participants:** 382
 
@@ -179,44 +179,44 @@
 | 171 | 31 | Daris Swearington |
 | 172 | 31 | Boldy Pivoty |
 | 173 | 31 | Miera Nicole |
-| 174 | 30 | Bouncy Glide |
-| 175 | 30 | Saucy Faller |
-| 176 | 30 | SeanSanchez |
-| 177 | 30 | Jack Vlasak |
-| 178 | 30 | Witty Blockpiece |
-| 179 | 30 | Casey Chapman |
-| 180 | 30 | Sarah Guarino |
+| 174 | 30 | Saucy Faller |
+| 175 | 30 | SeanSanchez |
+| 176 | 30 | Jack Vlasak |
+| 177 | 30 | Witty Blockpiece |
+| 178 | 30 | Casey Chapman |
+| 179 | 30 | Sarah Guarino |
+| 180 | 30 | Breezy Catcher |
 | 181 | 30 | Lester Malone |
-| 182 | 30 | Jes Marie |
-| 183 | 30 | Kp |
-| 184 | 30 | Amy Villalpando |
-| 185 | 29 | Dee McCool |
-| 186 | 28 | Jazzy Bridger |
-| 187 | 28 | Will Stanton |
-| 188 | 28 | Earl Williams |
-| 189 | 28 | John Staub |
-| 190 | 27 | Charlene Baltimore |
+| 182 | 30 | Bouncy Glide |
+| 183 | 30 | Jes Marie |
+| 184 | 30 | Kp |
+| 185 | 30 | Amy Villalpando |
+| 186 | 29 | Dee McCool |
+| 187 | 28 | John Staub |
+| 188 | 28 | Jazzy Bridger |
+| 189 | 28 | Will Stanton |
+| 190 | 28 | Earl Williams |
 | 191 | 27 | Mighty Dropper |
-| 192 | 27 | Brave Balanceblock |
-| 193 | 27 | Zany Breaker |
-| 194 | 26 | Xrandomx |
-| 195 | 26 | SnazzySnippet |
-| 196 | 26 | messyboots |
-| 197 | 26 | Nona Harriel |
-| 198 | 25 | Tony P Burke |
+| 192 | 27 | Charlene Baltimore |
+| 193 | 27 | Brave Balanceblock |
+| 194 | 27 | Zany Breaker |
+| 195 | 26 | Xrandomx |
+| 196 | 26 | SnazzySnippet |
+| 197 | 26 | messyboots |
+| 198 | 26 | Nona Harriel |
 | 199 | 25 | Skippy |
 | 200 | 25 | Kimmie Gargano |
 | 201 | 25 | Kyle Conley |
 | 202 | 25 | Lynnette WheelerBushnell |
-| 203 | 24 | Nobles Brandon |
-| 204 | 24 | Brittany Fells |
-| 205 | 24 | AshMo |
-| 206 | 24 | Taneka Howell |
-| 207 | 24 | Breezy Catcher |
-| 208 | 24 | TBABYJ |
-| 209 | 24 | Mrs |
-| 210 | 23 | Tamara N Lee |
-| 211 | 23 | Adrian Harris |
+| 203 | 25 | Tony P Burke |
+| 204 | 24 | Mrs |
+| 205 | 24 | TBABYJ |
+| 206 | 24 | Nobles Brandon |
+| 207 | 24 | Taneka Howell |
+| 208 | 24 | AshMo |
+| 209 | 24 | Brittany Fells |
+| 210 | 23 | Adrian Harris |
+| 211 | 23 | Tamara N Lee |
 | 212 | 23 | Tabitha Dupre-Allen |
 | 213 | 23 | Nerdy Climber |
 | 214 | 23 | Khatyrah Burnette |
@@ -352,42 +352,42 @@
 | 344 | 8 | Jessie N Michael Silvers |
 | 345 | 7 | wmedina67 |
 | 346 | 7 | Ferocity |
-| 347 | 7 | Kendra McIntyre |
-| 348 | 7 | Andrew Harris |
-| 349 | 7 | Shane Brucewayne |
-| 350 | 7 | whatever |
-| 351 | 7 | Lillie Blossom Dixon |
-| 352 | 7 | Mary2 |
-| 353 | 6 | Jelyfish |
-| 354 | 6 | Gael Quintana |
-| 355 | 6 | NEM0228 |
-| 356 | 6 | Frances Davis |
-| 357 | 6 | Jeffrey Barrows |
-| 358 | 6 | Cece Fowler |
-| 359 | 6 | Boricua64 |
-| 360 | 6 | Brittnay Wright |
-| 361 | 6 | Allison Baxter |
+| 347 | 7 | Shane Brucewayne |
+| 348 | 7 | Mary2 |
+| 349 | 7 | Kendra McIntyre |
+| 350 | 7 | Andrew Harris |
+| 351 | 7 | whatever |
+| 352 | 7 | Lillie Blossom Dixon |
+| 353 | 6 | Janine Hunter |
+| 354 | 6 | Allison Baxter |
+| 355 | 6 | Boricua64 |
+| 356 | 6 | Jeffrey Barrows |
+| 357 | 6 | Jelyfish |
+| 358 | 6 | Gael Quintana |
+| 359 | 6 | NEM0228 |
+| 360 | 6 | Frances Davis |
+| 361 | 6 | Cece Fowler |
 | 362 | 6 | Christopher Wallace |
-| 363 | 6 | Janine Hunter |
-| 364 | 5 | KeeKee Williams |
-| 365 | 5 | Andre Sanon |
+| 363 | 6 | Brittnay Wright |
+| 364 | 5 | Tamika Fisher |
+| 365 | 5 | Stephanie Zuniga Tullock |
 | 366 | 5 | Temeshia Brooks Washington |
-| 367 | 5 | Stephanie Zuniga Tullock |
-| 368 | 5 | Vernon Hoyt |
+| 367 | 5 | KeeKee Williams |
+| 368 | 5 | Jenni Hardman |
 | 369 | 5 | Wacky Towerer |
-| 370 | 5 | pooh |
-| 371 | 5 | Jjhandsome |
-| 372 | 5 | Jenni Hardman |
-| 373 | 5 | Derek Beverly |
-| 374 | 5 | Lil T |
-| 375 | 5 | Rieshelda Marie White |
-| 376 | 5 | DirtiestofMikes |
-| 377 | 5 | Shawn Himes |
-| 378 | 5 | Kidgib5 |
-| 379 | 5 | Jennifer Moore |
-| 380 | 5 | Tamika Fisher |
-| 381 | 5 | Zappy Clearfit |
-| 382 | 5 | Barbramerri Tarboro |
+| 370 | 5 | Derek Beverly |
+| 371 | 5 | Andre Sanon |
+| 372 | 5 | Lil T |
+| 373 | 5 | Rieshelda Marie White |
+| 374 | 5 | Jennifer Moore |
+| 375 | 5 | Vernon Hoyt |
+| 376 | 5 | Zappy Clearfit |
+| 377 | 5 | Kidgib5 |
+| 378 | 5 | Shawn Himes |
+| 379 | 5 | DirtiestofMikes |
+| 380 | 5 | Barbramerri Tarboro |
+| 381 | 5 | pooh |
+| 382 | 5 | Jjhandsome |
 
 ---
 *Standings created by tournaments datasource generation tool*
