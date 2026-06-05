@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 19:05:14 UTC
+# Standings for team4 as of 2026-06-05 19:06:14 UTC
 
 **Total Participants:** 387
 
@@ -43,10 +43,10 @@
 | 35 | 193 | Andrew Dang |
 | 36 | 169 | Kimyatta Cavin |
 | 37 | 163 | Kim |
-| 38 | 160 | Shmeedo |
-| 39 | 159 | iiPurgeV2 |
-| 40 | 153 | Brandy Lynn |
-| 41 | 152 | Giggly Tilt |
+| 38 | 162 | Giggly Tilt |
+| 39 | 160 | Shmeedo |
+| 40 | 159 | iiPurgeV2 |
+| 41 | 153 | Brandy Lynn |
 | 42 | 149 | Danny Ortiz |
 | 43 | 148 | Colin |
 | 44 | 146 | Becky McCool |
