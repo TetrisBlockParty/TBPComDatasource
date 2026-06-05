@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 22:56:39 UTC
+# Standings for team1 as of 2026-06-05 22:57:14 UTC
 
 **Total Participants:** 575
 
@@ -434,23 +434,23 @@
 | 426 | 15 | Dana Hawes |
 | 427 | 15 | b |
 | 428 | 15 | Tami Spence |
-| 429 | 15 | Cheery Clusterbuilder |
-| 430 | 15 | Elaine Youmans |
-| 431 | 14 | La'Chae Nickole |
+| 429 | 15 | Elaine Youmans |
+| 430 | 15 | Cheery Clusterbuilder |
+| 431 | 14 | Twisty Cascadeclear |
 | 432 | 14 | Alyssa Rae |
 | 433 | 14 | Jerrone Epps |
 | 434 | 14 | No_Other_Choice |
-| 435 | 14 | Zany Pivot |
-| 436 | 14 | Aaron Hartmann |
+| 435 | 14 | Aaron Hartmann |
+| 436 | 14 | Zany Pivot |
 | 437 | 14 | FunTime |
-| 438 | 14 | Rissa Rozay |
-| 439 | 14 | Vivian Bunnell Myers |
-| 440 | 13 | Leah Ingram |
+| 438 | 14 | La'Chae Nickole |
+| 439 | 14 | Rissa Rozay |
+| 440 | 14 | Vivian Bunnell Myers |
 | 441 | 13 | Abby |
 | 442 | 13 | John Spath |
-| 443 | 13 | Cathy Young |
-| 444 | 13 | Emma Adams |
-| 445 | 13 | Twisty Cascadeclear |
+| 443 | 13 | Leah Ingram |
+| 444 | 13 | Cathy Young |
+| 445 | 13 | Emma Adams |
 | 446 | 12 | Andra Ward |
 | 447 | 12 | Betsy B. Yohan |
 | 448 | 12 | Just2Play$ |
