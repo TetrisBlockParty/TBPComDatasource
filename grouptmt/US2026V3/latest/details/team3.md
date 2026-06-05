@@ -1,6 +1,6 @@
-# Standings for team3 as of 2026-06-05 12:12:12 UTC
+# Standings for team3 as of 2026-06-05 12:12:36 UTC
 
-**Total Participants:** 20
+**Total Participants:** 21
 
 ## Participant Scores
 
@@ -8,10 +8,10 @@
 | :- | :- | :- |
 | 1 | 444 | Alan George LaRage |
 | 2 | 140 | Woodrow Weatherford |
-| 3 | 60 | AL Ferrari |
-| 4 | 60 | Bee |
-| 5 | 28 | Carolyn Smith |
-| 6 | 28 | Alex Celio |
+| 3 | 60 | Bee |
+| 4 | 60 | AL Ferrari |
+| 5 | 28 | Alex Celio |
+| 6 | 28 | Carolyn Smith |
 | 7 | 27 | Jerome Carlile |
 | 8 | 26 | Kevin C. Moe |
 | 9 | 22 | Lively Matchpiece |
@@ -21,11 +21,12 @@
 | 13 | 13 | Dedicated |
 | 14 | 12 | Robby Beltran |
 | 15 | 11 | Carrie Ness |
-| 16 | 9 | Tnaughty |
-| 17 | 9 | Angie Rodriguez |
-| 18 | 8 | Violet |
+| 16 | 10 | Violet |
+| 17 | 9 | Tnaughty |
+| 18 | 9 | Angie Rodriguez |
 | 19 | 7 | Sarah Jane |
 | 20 | 7 | David Glisson |
+| 21 | 5 | Lisa Stone |
 
 ---
 *Standings created by tournaments datasource generation tool*
