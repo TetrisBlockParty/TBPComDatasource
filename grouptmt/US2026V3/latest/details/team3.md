@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-05 12:36:12 UTC
+# Standings for team3 as of 2026-06-05 12:36:35 UTC
 
 **Total Participants:** 69
 
@@ -9,7 +9,7 @@
 | 1 | 1627 | George Michaels |
 | 2 | 1004 | Alan George LaRage |
 | 3 | 645 | Tom Borja |
-| 4 | 333 | Lindsey Gardner |
+| 4 | 448 | Lindsey Gardner |
 | 5 | 200 | AL Ferrari |
 | 6 | 178 | Tami Czenkus |
 | 7 | 160 | Woodrow Weatherford |

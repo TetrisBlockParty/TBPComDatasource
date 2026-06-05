@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 12:36:12 UTC
+# Standings for team2 as of 2026-06-05 12:36:35 UTC
 
 **Total Participants:** 46
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 1702 | Puce guide 9156 |
-| 2 | 800 | Kathleen M Cox |
+| 2 | 1100 | Kathleen M Cox |
 | 3 | 474 | Logan Basham |
 | 4 | 247 | Jewels |
 | 5 | 232 | Amy Gale |
