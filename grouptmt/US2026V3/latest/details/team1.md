@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:22:35 UTC
+# Standings for team1 as of 2026-06-05 15:23:13 UTC
 
 **Total Participants:** 241
 
@@ -7,13 +7,13 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 1705 | Timothy Robert |
-| 2 | 1050 | jaimie |
-| 3 | 825 | Chris Russell |
-| 4 | 800 | Chandler Spencer |
-| 5 | 749 | Aviv Zehavi |
-| 6 | 594 | Tracy Cohen |
-| 7 | 523 | Charnay Peacock |
-| 8 | 500 | Ariel |
+| 2 | 1500 | Ariel |
+| 3 | 1050 | jaimie |
+| 4 | 825 | Chris Russell |
+| 5 | 800 | Chandler Spencer |
+| 6 | 749 | Aviv Zehavi |
+| 7 | 594 | Tracy Cohen |
+| 8 | 523 | Charnay Peacock |
 | 9 | 485 | Whitney Butler |
 | 10 | 482 | Cj Gorman |
 | 11 | 467 | Brian Stackhouse |
@@ -33,7 +33,7 @@
 | 25 | 177 | Chris Sladoje |
 | 26 | 170 | Janet Cooke |
 | 27 | 162 | Markeeta Lipscomb |
-| 28 | 155 | Ashley MyBeauty Daniels |
+| 28 | 161 | Ashley MyBeauty Daniels |
 | 29 | 151 | Dacia Hicks |
 | 30 | 141 | Debbie Carswell |
 | 31 | 140 | JoJo |
@@ -124,14 +124,14 @@
 | 116 | 28 | Jazzy Bridger |
 | 117 | 27 | Zany Breaker |
 | 118 | 27 | Jae Thompson-Tyus |
-| 119 | 27 | Mighty Dropper |
-| 120 | 27 | Charlene Baltimore |
-| 121 | 26 | Xrandomx |
-| 122 | 25 | Tyrone Porter |
-| 123 | 25 | Teresa Yanira Cepeda |
-| 124 | 25 | Hasty Pivoty |
-| 125 | 25 | Kimmie Gargano |
-| 126 | 25 | JesusSaves 😇 |
+| 119 | 27 | JesusSaves 😇 |
+| 120 | 27 | Mighty Dropper |
+| 121 | 27 | Charlene Baltimore |
+| 122 | 26 | Xrandomx |
+| 123 | 25 | Tyrone Porter |
+| 124 | 25 | Teresa Yanira Cepeda |
+| 125 | 25 | Hasty Pivoty |
+| 126 | 25 | Kimmie Gargano |
 | 127 | 25 | Skippy |
 | 128 | 25 | Wacky Stackbuilder |
 | 129 | 24 | TBABYJ |
@@ -140,78 +140,78 @@
 | 132 | 23 | Tabitha Dupre-Allen |
 | 133 | 23 | Calvin Green |
 | 134 | 23 | Khatyrah Burnette |
-| 135 | 22 | Ad Doctor |
-| 136 | 22 | Tanisha Taylor |
+| 135 | 22 | Tanisha Taylor |
+| 136 | 22 | Ad Doctor |
 | 137 | 22 | Blockhead |
 | 138 | 21 | Brave Balanceblock |
 | 139 | 20 | Chevalier Burley |
 | 140 | 20 | Nyhlah Patterson |
 | 141 | 20 | Jai |
 | 142 | 20 | Devin West |
-| 143 | 20 | Trina Greenwood |
-| 144 | 20 | Tony P Burke |
-| 145 | 19 | Michele Simpson |
-| 146 | 19 | Tamara N Lee |
-| 147 | 19 | Mimi 1.0 |
-| 148 | 19 | Brenda Malachi-butler |
-| 149 | 19 | Jenni |
-| 150 | 19 | Saucy Tile |
-| 151 | 19 | Latore Maxie |
-| 152 | 19 | Shanjerrica Taylor Rosell |
-| 153 | 19 | Amanda Woodruff |
+| 143 | 20 | Tony P Burke |
+| 144 | 20 | Trina Greenwood |
+| 145 | 19 | Amanda Woodruff |
+| 146 | 19 | Brenda Malachi-butler |
+| 147 | 19 | Tamara N Lee |
+| 148 | 19 | Mimi 1.0 |
+| 149 | 19 | Michele Simpson |
+| 150 | 19 | Jenni |
+| 151 | 19 | Saucy Tile |
+| 152 | 19 | Latore Maxie |
+| 153 | 19 | Shanjerrica Taylor Rosell |
 | 154 | 18 | Tyree Tman Shinette |
-| 155 | 18 | AleahKCH |
-| 156 | 18 | Danny M GR |
-| 157 | 18 | Sunny Clicky |
-| 158 | 17 | Kimberly Red |
-| 159 | 17 | Byron Mario Cawthon |
+| 155 | 18 | Sunny Clicky |
+| 156 | 18 | AleahKCH |
+| 157 | 18 | Danny M GR |
+| 158 | 17 | Nerdy Snapfall |
+| 159 | 17 | Elizabeth Vega Coreano |
 | 160 | 17 | Rikki Moran |
-| 161 | 17 | Elizabeth Vega Coreano |
-| 162 | 16 | MsBobby Patrick |
-| 163 | 16 | Leebo Slice |
-| 164 | 16 | Sylvia Offically A Mcgowan |
-| 165 | 16 | Sunny Tumbler |
-| 166 | 15 | Tami Spence |
-| 167 | 15 | Mom3granny2 |
-| 168 | 15 | sasha |
-| 169 | 15 | Una |
-| 170 | 15 | Jess |
-| 171 | 15 | Eric Mcgaughy |
-| 172 | 15 | Delitra Perkins Hatter |
+| 161 | 17 | Kimberly Red |
+| 162 | 17 | Byron Mario Cawthon |
+| 163 | 16 | Sylvia Offically A Mcgowan |
+| 164 | 16 | Sunny Tumbler |
+| 165 | 16 | MsBobby Patrick |
+| 166 | 16 | Leebo Slice |
+| 167 | 15 | sasha |
+| 168 | 15 | Mom3granny2 |
+| 169 | 15 | Jess |
+| 170 | 15 | Una |
+| 171 | 15 | Tami Spence |
+| 172 | 15 | Eric Mcgaughy |
 | 173 | 15 | Elaine Youmans |
-| 174 | 15 | NastyFriend |
-| 175 | 14 | David A Alvino |
-| 176 | 14 | Alyssa Rae |
-| 177 | 14 | Zachary Colegrove |
-| 178 | 14 | No_Other_Choice |
-| 179 | 14 | Jerrone Epps |
-| 180 | 13 | Nerdy Snapfall |
-| 181 | 13 | Heather Wilson |
-| 182 | 13 | Oaklonboy mike |
-| 183 | 12 | Clever Fitblock |
-| 184 | 12 | Abigail Newman Sweet |
+| 174 | 15 | Delitra Perkins Hatter |
+| 175 | 15 | NastyFriend |
+| 176 | 14 | No_Other_Choice |
+| 177 | 14 | Alyssa Rae |
+| 178 | 14 | Vivian Bunnell Myers |
+| 179 | 14 | David A Alvino |
+| 180 | 14 | Zachary Colegrove |
+| 181 | 14 | Jerrone Epps |
+| 182 | 13 | Heather Wilson |
+| 183 | 13 | Oaklonboy mike |
+| 184 | 12 | Yadira Salgado |
 | 185 | 12 | Kimberly Hernandez |
-| 186 | 12 | Vivian Bunnell Myers |
-| 187 | 12 | Yadira Salgado |
+| 186 | 12 | Clever Fitblock |
+| 187 | 12 | Abigail Newman Sweet |
 | 188 | 11 | Kp |
-| 189 | 11 | Brittany Fells |
-| 190 | 11 | Desiree Ryder |
-| 191 | 10 | Kenny 'Tailormade' Boyd |
-| 192 | 10 | Christian Whittaker |
-| 193 | 10 | Hoppy Rumbler |
-| 194 | 10 | Shannon Carriger |
-| 195 | 10 | Daddy |
-| 196 | 10 | Megan Payette |
-| 197 | 10 | Tishauna Virgo |
-| 198 | 10 | Po Marley |
-| 199 | 10 | Simone Bailey |
-| 200 | 10 | Keke |
-| 201 | 9 | DellaLucretia Thomas |
-| 202 | 9 | Poppy Buildout |
+| 189 | 11 | Desiree Ryder |
+| 190 | 11 | Brittany Fells |
+| 191 | 10 | Megan Payette |
+| 192 | 10 | Kenny 'Tailormade' Boyd |
+| 193 | 10 | Christian Whittaker |
+| 194 | 10 | Tishauna Virgo |
+| 195 | 10 | Po Marley |
+| 196 | 10 | Simone Bailey |
+| 197 | 10 | Hoppy Rumbler |
+| 198 | 10 | Shannon Carriger |
+| 199 | 10 | Keke |
+| 200 | 10 | Daddy |
+| 201 | 9 | Clifford Petroske |
+| 202 | 9 | DellaLucretia Thomas |
 | 203 | 9 | Ta'Kaiyah M. Spann |
-| 204 | 9 | Noni |
-| 205 | 9 | Tina Criam |
-| 206 | 9 | Clifford Petroske |
+| 204 | 9 | Poppy Buildout |
+| 205 | 9 | Noni |
+| 206 | 9 | Tina Criam |
 | 207 | 9 | Abby |
 | 208 | 9 | LAhoneybun82 |
 | 209 | 9 | Joka NoTime ForHataz |
