@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-06-05 20:30:35 UTC
+# Standings for team4 as of 2026-06-05 20:31:14 UTC
 
-**Total Participants:** 426
+**Total Participants:** 427
 
 ## Participant Scores
 
@@ -26,8 +26,8 @@
 | 18 | 392 | Blayne Kole |
 | 19 | 389 | Ning Quiambao |
 | 20 | 383 | Crissy Hoffman |
-| 21 | 379 | Snippy Grid |
-| 22 | 374 | Krysten Danielle Richard |
+| 21 | 379 | Krysten Danielle Richard |
+| 22 | 379 | Snippy Grid |
 | 23 | 360 | Chaz Duncan |
 | 24 | 331 | Caitlyn Wang |
 | 25 | 324 | Heather Preston |
@@ -37,13 +37,13 @@
 | 29 | 261 | Real Talk Vibes |
 | 30 | 247 | Jesse Olive |
 | 31 | 241 | Giggy Matchpiece |
-| 32 | 240 | Jojo Ann |
-| 33 | 240 | Michele Walker |
+| 32 | 240 | Michele Walker |
+| 33 | 240 | Jojo Ann |
 | 34 | 214 | Sisi RedVelvet Reneè |
 | 35 | 208 | vag1974 |
 | 36 | 203 | Patrick Alley |
 | 37 | 200 | Leah Gorsuch |
-| 38 | 193 | Andrew Dang |
+| 38 | 195 | Andrew Dang |
 | 39 | 191 | Kayla Fuentes |
 | 40 | 184 | Giggly Tilt |
 | 41 | 169 | Kimyatta Cavin |
@@ -151,13 +151,13 @@
 | 143 | 50 | Cool Risepiece |
 | 144 | 50 | Nova Kain |
 | 145 | 50 | Charlie Lewis |
-| 146 | 49 | smarty |
-| 147 | 49 | Daring Brickbuilder |
-| 148 | 48 | Dapper Strikerpiece |
-| 149 | 48 | Joseph Hunter |
-| 150 | 47 | Melissa Quinn |
-| 151 | 46 | Cherry |
-| 152 | 45 | Wacky Brick |
+| 146 | 49 | Wacky Brick |
+| 147 | 49 | smarty |
+| 148 | 49 | Daring Brickbuilder |
+| 149 | 48 | Dapper Strikerpiece |
+| 150 | 48 | Joseph Hunter |
+| 151 | 47 | Melissa Quinn |
+| 152 | 46 | Cherry |
 | 153 | 45 | Scamp Jones |
 | 154 | 44 | Karen Rodriguez |
 | 155 | 44 | Frisky Balance |
@@ -386,52 +386,53 @@
 | 378 | 9 | Scrumptious |
 | 379 | 9 | Stotty |
 | 380 | 9 | Tana-Marie Lynn McCarty-Rolf |
-| 381 | 9 | Frothy Riseclear |
-| 382 | 9 | Allysonjo Varela |
+| 381 | 9 | Alex Dawn |
+| 382 | 9 | fmp |
 | 383 | 9 | Kat Foreman |
-| 384 | 9 | Chirpy Snapclear |
-| 385 | 9 | Corie A. Brinson |
-| 386 | 9 | Todd Hamilton |
-| 387 | 9 | Angela Adamo-Tash |
-| 388 | 9 | DuvaDova Ahava |
-| 389 | 9 | fmp |
-| 390 | 9 | Alex Dawn |
+| 384 | 9 | Allysonjo Varela |
+| 385 | 9 | DuvaDova Ahava |
+| 386 | 9 | Chirpy Snapclear |
+| 387 | 9 | Frothy Riseclear |
+| 388 | 9 | Angela Adamo-Tash |
+| 389 | 9 | Corie A. Brinson |
+| 390 | 9 | Todd Hamilton |
 | 391 | 8 | Stephanie Williams |
-| 392 | 8 | Matthew Wilcox |
-| 393 | 8 | Mac James |
+| 392 | 8 | Mac James |
+| 393 | 8 | Matthew Wilcox |
 | 394 | 8 | tj |
-| 395 | 7 | John Brandon Kinney |
+| 395 | 7 | Blessedmom865 |
 | 396 | 7 | Lacey Decker |
-| 397 | 7 | Lord Solrac |
-| 398 | 7 | Kari Smith |
-| 399 | 7 | Christy Petty |
-| 400 | 7 | Crystal Parker Bryant |
-| 401 | 7 | Chipper Hitter |
-| 402 | 7 | Sharron Mullins |
-| 403 | 7 | Blessedmom865 |
+| 397 | 7 | John Brandon Kinney |
+| 398 | 7 | Lord Solrac |
+| 399 | 7 | Kari Smith |
+| 400 | 7 | Christy Petty |
+| 401 | 7 | Crystal Parker Bryant |
+| 402 | 7 | Chipper Hitter |
+| 403 | 7 | Sharron Mullins |
 | 404 | 7 | Erica Armstrong Baz |
-| 405 | 6 | GETBOXED! |
-| 406 | 6 | Rachel |
-| 407 | 6 | Shepreneur Sade |
-| 408 | 6 | Margarita Santana |
-| 409 | 6 | Slinky Snapfit |
-| 410 | 6 | Deb 07 |
-| 411 | 6 | Shannon Rivera |
-| 412 | 6 | Meghan Etchells |
-| 413 | 6 | Delashawne Hodgson |
-| 414 | 5 | Nicole Ambrose |
-| 415 | 5 | Kimberly Ann |
-| 416 | 5 | Purple Queen |
-| 417 | 5 | Tahira Patrice |
-| 418 | 5 | Tippet |
-| 419 | 5 | Mighty1 |
-| 420 | 5 | Ali Nicole |
-| 421 | 5 | Cflixer |
-| 422 | 5 | Swanky Zigzag |
-| 423 | 5 | Kellz M Bee |
-| 424 | 5 | Lively Cascadeclear |
-| 425 | 5 | Danny Frausto |
-| 426 | 5 | Jeremy Barry |
+| 405 | 6 | Shepreneur Sade |
+| 406 | 6 | Delashawne Hodgson |
+| 407 | 6 | Glitzy Crasher |
+| 408 | 6 | Slinky Snapfit |
+| 409 | 6 | Rachel |
+| 410 | 6 | Margarita Santana |
+| 411 | 6 | Deb 07 |
+| 412 | 6 | Shannon Rivera |
+| 413 | 6 | GETBOXED! |
+| 414 | 6 | Meghan Etchells |
+| 415 | 5 | Swanky Zigzag |
+| 416 | 5 | Kimberly Ann |
+| 417 | 5 | Danny Frausto |
+| 418 | 5 | Cflixer |
+| 419 | 5 | Ali Nicole |
+| 420 | 5 | Tahira Patrice |
+| 421 | 5 | Kellz M Bee |
+| 422 | 5 | Mighty1 |
+| 423 | 5 | Tippet |
+| 424 | 5 | Nicole Ambrose |
+| 425 | 5 | Lively Cascadeclear |
+| 426 | 5 | Purple Queen |
+| 427 | 5 | Jeremy Barry |
 
 ---
 *Standings created by tournaments datasource generation tool*

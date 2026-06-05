@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 20:30:35 UTC
+# Standings for team1 as of 2026-06-05 20:31:14 UTC
 
 **Total Participants:** 480
 
@@ -109,12 +109,12 @@
 | 101 | 77 | Poppy Buildout |
 | 102 | 76 | Giggly Shatterline |
 | 103 | 75 | Dizzy Dashy |
-| 104 | 74 | ♈️ Ariesbaby |
-| 105 | 74 | Tonya McElroy |
-| 106 | 72 | Mic Balew |
-| 107 | 70 | $hort Dog |
-| 108 | 70 | Helen Smith |
-| 109 | 70 | Emily Wright |
+| 104 | 75 | Emily Wright |
+| 105 | 74 | ♈️ Ariesbaby |
+| 106 | 74 | Tonya McElroy |
+| 107 | 72 | Mic Balew |
+| 108 | 70 | $hort Dog |
+| 109 | 70 | Helen Smith |
 | 110 | 69 | Jayjay Rich |
 | 111 | 67 | Michele Elizabeth McKay-Johnson |
 | 112 | 66 | Shontanese Adams |
@@ -210,29 +210,29 @@
 | 202 | 35 | Jumpy Gridlock |
 | 203 | 35 | Sashaleo |
 | 204 | 35 | Kimberly Red |
-| 205 | 34 | Breezy Catcher |
-| 206 | 33 | Rene Hicks |
+| 205 | 34 | Elizabeth Hopkins |
+| 206 | 34 | Breezy Catcher |
 | 207 | 33 | Richard Flex |
 | 208 | 33 | Krose Byers |
 | 209 | 33 | Lesley Brunkus Cianfaglione |
 | 210 | 33 | Chris Nelson |
 | 211 | 33 | Mom3granny2 |
-| 212 | 33 | Tonny Williams |
-| 213 | 33 | Elizabeth Hopkins |
-| 214 | 33 | Block King |
-| 215 | 33 | Raquel Ortiz |
-| 216 | 32 | Tyrone Porter |
-| 217 | 32 | Melvin Simpson |
-| 218 | 32 | Jack Mehof |
-| 219 | 32 | Sylvia Offically A Mcgowan |
-| 220 | 32 | Dee McCool |
-| 221 | 32 | Tomme Poliwka |
-| 222 | 31 | Anthony |
-| 223 | 31 | Casey Chapman |
-| 224 | 31 | Vannie G |
+| 212 | 33 | Rene Hicks |
+| 213 | 33 | Raquel Ortiz |
+| 214 | 33 | Tonny Williams |
+| 215 | 33 | Block King |
+| 216 | 32 | Tomme Poliwka |
+| 217 | 32 | Tyrone Porter |
+| 218 | 32 | Melvin Simpson |
+| 219 | 32 | Jack Mehof |
+| 220 | 32 | Sylvia Offically A Mcgowan |
+| 221 | 32 | Dee McCool |
+| 222 | 31 | Jason Mungin |
+| 223 | 31 | Anthony |
+| 224 | 31 | Casey Chapman |
 | 225 | 31 | Boldy Pivoty |
 | 226 | 31 | Miera Nicole |
-| 227 | 31 | Jason Mungin |
+| 227 | 31 | Vannie G |
 | 228 | 30 | Bouncy Glide |
 | 229 | 30 | Jaida De'Anne Cox |
 | 230 | 30 | Kp |
