@@ -1,6 +1,6 @@
-# Standings for team3 as of 2026-06-05 12:28:12 UTC
+# Standings for team3 as of 2026-06-05 12:28:34 UTC
 
-**Total Participants:** 59
+**Total Participants:** 60
 
 ## Participant Scores
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 1627 | George Michaels |
 | 2 | 670 | Alan George LaRage |
-| 3 | 391 | Tom Borja |
+| 3 | 491 | Tom Borja |
 | 4 | 200 | AL Ferrari |
 | 5 | 175 | Lindsey Gardner |
 | 6 | 160 | Woodrow Weatherford |
@@ -26,45 +26,46 @@
 | 18 | 33 | Raya |
 | 19 | 32 | Dedicated |
 | 20 | 30 | Lively Matchpiece |
-| 21 | 28 | Carolyn Smith |
-| 22 | 26 | Loony Strikesnap |
-| 23 | 26 | Kevin C. Moe |
-| 24 | 23 | Charles Love |
-| 25 | 21 | Denice Myers |
-| 26 | 20 | Christopher Kissiah |
-| 27 | 19 | Sabrina34 |
-| 28 | 18 | Alison Gomes |
-| 29 | 18 | ToxicTrinity |
-| 30 | 15 | Quirky Curve |
-| 31 | 15 | kittensden |
-| 32 | 14 | Sara Pederson |
-| 33 | 13 | Raven Rogue |
-| 34 | 12 | Jonathan Russell |
-| 35 | 12 | Wacky Catcher |
-| 36 | 12 | Nonni |
-| 37 | 12 | Boldy Cornerfall |
-| 38 | 12 | Robby Beltran |
-| 39 | 12 | Violet |
-| 40 | 11 | Happy Balancer |
-| 41 | 11 | Carrie Ness |
+| 21 | 28 | Jessica Biggs |
+| 22 | 28 | Carolyn Smith |
+| 23 | 26 | Loony Strikesnap |
+| 24 | 26 | Kevin C. Moe |
+| 25 | 25 | Christopher Kissiah |
+| 26 | 23 | Charles Love |
+| 27 | 21 | Denice Myers |
+| 28 | 19 | Sabrina34 |
+| 29 | 18 | Alison Gomes |
+| 30 | 18 | ToxicTrinity |
+| 31 | 15 | Quirky Curve |
+| 32 | 15 | kittensden |
+| 33 | 14 | Sara Pederson |
+| 34 | 13 | Raven Rogue |
+| 35 | 12 | Nonni |
+| 36 | 12 | Wacky Catcher |
+| 37 | 12 | Jonathan Russell |
+| 38 | 12 | Violet |
+| 39 | 12 | Robby Beltran |
+| 40 | 12 | Boldy Cornerfall |
+| 41 | 11 | Happy Balancer |
 | 42 | 11 | Lisa Stone |
-| 43 | 10 | Shabae |
+| 43 | 11 | Carrie Ness |
 | 44 | 10 | kendra |
-| 45 | 9 | Jess Jess |
-| 46 | 9 | Sarah Jane |
-| 47 | 9 | Salky |
+| 45 | 10 | Shabae |
+| 46 | 9 | Tnaughty |
+| 47 | 9 | Sarah Jane |
 | 48 | 9 | VOID EDGE |
 | 49 | 9 | Angie Rodriguez |
-| 50 | 9 | Tnaughty |
-| 51 | 8 | David Glisson |
+| 50 | 9 | Salky |
+| 51 | 9 | Jess Jess |
 | 52 | 8 | creepy paper |
-| 53 | 7 | Loony Rollfit |
+| 53 | 8 | David Glisson |
 | 54 | 7 | DShark72 |
-| 55 | 6 | Sarah Cruthirds |
-| 56 | 5 | Garrett Hofmann |
+| 55 | 7 | Loony Rollfit |
+| 56 | 6 | Sarah Cruthirds |
 | 57 | 5 | KAR |
-| 58 | 5 | Funky Fall |
-| 59 | 5 | Victoria Lofquist |
+| 58 | 5 | Victoria Lofquist |
+| 59 | 5 | Garrett Hofmann |
+| 60 | 5 | Funky Fall |
 
 ---
 *Standings created by tournaments datasource generation tool*
