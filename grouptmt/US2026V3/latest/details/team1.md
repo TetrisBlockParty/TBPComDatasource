@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 22:34:14 UTC
+# Standings for team1 as of 2026-06-05 22:34:37 UTC
 
 **Total Participants:** 564
 
@@ -216,40 +216,40 @@
 | 208 | 40 | Larina Cherie Johnson |
 | 209 | 40 | Heather Aurelia |
 | 210 | 40 | Jean Regis |
-| 211 | 40 | Leavon Smith |
-| 212 | 40 | Tori Carter |
-| 213 | 40 | Devin West |
+| 211 | 40 | Tori Carter |
+| 212 | 40 | HarleyJane |
+| 213 | 40 | Leavon Smith |
 | 214 | 40 | Nutty Spinblock |
-| 215 | 40 | Kamilya Rembert |
-| 216 | 40 | HarleyJane |
-| 217 | 39 | Sabrina Wilkerson |
-| 218 | 39 | Jae Thompson-Tyus |
+| 215 | 40 | Devin West |
+| 216 | 40 | Kamilya Rembert |
+| 217 | 39 | JesusSaves 😇 |
+| 218 | 39 | Sabrina Wilkerson |
 | 219 | 39 | Lexx Robins |
-| 220 | 39 | JesusSaves 😇 |
+| 220 | 39 | Jae Thompson-Tyus |
 | 221 | 38 | Raquel Ortiz |
 | 222 | 38 | Earl Williams |
 | 223 | 38 | hope |
 | 224 | 38 | Tonya Thomas |
 | 225 | 38 | Kahliah Baker |
-| 226 | 37 | Jackytrain52 |
-| 227 | 37 | GamerQueenDS |
-| 228 | 37 | Jojo M |
-| 229 | 37 | Lootch |
-| 230 | 37 | Calvin Green |
-| 231 | 36 | Sunny Riserbuilder |
+| 226 | 37 | Lootch |
+| 227 | 37 | Calvin Green |
+| 228 | 37 | Elizabeth Green |
+| 229 | 37 | Jackytrain52 |
+| 230 | 37 | GamerQueenDS |
+| 231 | 37 | Jojo M |
 | 232 | 36 | Wild Out Nai |
 | 233 | 36 | Lynnette WheelerBushnell |
-| 234 | 35 | Wacky Stackbuilder |
-| 235 | 35 | Elizabeth Green |
-| 236 | 35 | HBTone |
-| 237 | 35 | Kimberly Red |
-| 238 | 35 | Jumpy Gridlock |
-| 239 | 35 | Sashaleo |
-| 240 | 35 | Jolly Tilefall |
+| 234 | 36 | Sunny Riserbuilder |
+| 235 | 35 | Stephen Providenti |
+| 236 | 35 | Sashaleo |
+| 237 | 35 | Wacky Stackbuilder |
+| 238 | 35 | Glitzy Clusterer |
+| 239 | 35 | Saucy Crusher |
+| 240 | 35 | HBTone |
 | 241 | 35 | messyboots |
-| 242 | 35 | Saucy Crusher |
-| 243 | 35 | Glitzy Clusterer |
-| 244 | 35 | Stephen Providenti |
+| 242 | 35 | Jolly Tilefall |
+| 243 | 35 | Kimberly Red |
+| 244 | 35 | Jumpy Gridlock |
 | 245 | 34 | Elizabeth Hopkins |
 | 246 | 33 | Richard Flex |
 | 247 | 33 | Crtjstr |
