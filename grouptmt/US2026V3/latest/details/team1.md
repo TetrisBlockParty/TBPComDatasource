@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:39:13 UTC
+# Standings for team1 as of 2026-06-05 15:40:14 UTC
 
 **Total Participants:** 254
 
@@ -127,26 +127,26 @@
 | 119 | 30 | Saucy Faller |
 | 120 | 29 | JesusSaves 😇 |
 | 121 | 29 | hope |
-| 122 | 28 | John Staub |
-| 123 | 28 | Jazzy Bridger |
-| 124 | 27 | Mighty Dropper |
-| 125 | 27 | Zany Breaker |
-| 126 | 27 | Jae Thompson-Tyus |
-| 127 | 27 | Charlene Baltimore |
-| 128 | 26 | Xrandomx |
-| 129 | 25 | Nerdy Snapfall |
-| 130 | 25 | Hasty Pivoty |
-| 131 | 25 | Eric Mcgaughy |
-| 132 | 25 | Teresa Yanira Cepeda |
-| 133 | 25 | Skippy |
-| 134 | 25 | Tyrone Porter |
-| 135 | 25 | Kimmie Gargano |
-| 136 | 24 | Latore Maxie |
-| 137 | 24 | Brittany Fells |
-| 138 | 24 | Nobles Brandon |
-| 139 | 24 | sasha |
-| 140 | 24 | TBABYJ |
-| 141 | 24 | Dee McCool |
+| 122 | 28 | sasha |
+| 123 | 28 | John Staub |
+| 124 | 28 | Jazzy Bridger |
+| 125 | 27 | Mighty Dropper |
+| 126 | 27 | Zany Breaker |
+| 127 | 27 | Jae Thompson-Tyus |
+| 128 | 27 | Charlene Baltimore |
+| 129 | 26 | Xrandomx |
+| 130 | 25 | Nerdy Snapfall |
+| 131 | 25 | Hasty Pivoty |
+| 132 | 25 | Eric Mcgaughy |
+| 133 | 25 | Kimmie Gargano |
+| 134 | 25 | Teresa Yanira Cepeda |
+| 135 | 25 | Tyrone Porter |
+| 136 | 25 | Skippy |
+| 137 | 24 | Dee McCool |
+| 138 | 24 | Latore Maxie |
+| 139 | 24 | Brittany Fells |
+| 140 | 24 | Nobles Brandon |
+| 141 | 24 | TBABYJ |
 | 142 | 23 | Poppy Twister |
 | 143 | 23 | Khatyrah Burnette |
 | 144 | 23 | Tabitha Dupre-Allen |
@@ -228,38 +228,38 @@
 | 220 | 9 | Poppy Buildout |
 | 221 | 9 | Shakmar |
 | 222 | 8 | Brika Brika |
-| 223 | 8 | Sammie Walker |
-| 224 | 8 | Breezy Catcher |
-| 225 | 8 | Jessie N Michael Silvers |
-| 226 | 8 | Tanesha Ga'sFinest Corbett |
+| 223 | 8 | Tanesha Ga'sFinest Corbett |
+| 224 | 8 | Sammie Walker |
+| 225 | 8 | Breezy Catcher |
+| 226 | 8 | Jessie N Michael Silvers |
 | 227 | 8 | Taz Ballard |
-| 228 | 7 | Shane Brucewayne |
-| 229 | 7 | Kendra McIntyre |
-| 230 | 7 | wmedina67 |
+| 228 | 7 | Jumpy Gridlock |
+| 229 | 7 | Block King |
+| 230 | 7 | Shane Brucewayne |
 | 231 | 7 | Mary2 |
-| 232 | 7 | whatever |
-| 233 | 7 | Block King |
-| 234 | 7 | Jumpy Gridlock |
-| 235 | 6 | Brittnay Wright |
-| 236 | 6 | Jeffrey Barrows |
-| 237 | 6 | Cece Fowler |
-| 238 | 6 | Janine Hunter |
-| 239 | 6 | Allison Baxter |
-| 240 | 6 | Christopher Wallace |
-| 241 | 5 | Rixo Blax |
-| 242 | 5 | KeeKee Williams |
-| 243 | 5 | Vernon Hoyt |
-| 244 | 5 | Temeshia Brooks Washington |
-| 245 | 5 | Zappy Clearfit |
-| 246 | 5 | Tamika Fisher |
-| 247 | 5 | Shawn Himes |
-| 248 | 5 | Jennifer Moore |
-| 249 | 5 | Kidgib5 |
-| 250 | 5 | DirtiestofMikes |
-| 251 | 5 | Stephanie Zuniga Tullock |
-| 252 | 5 | Lil T |
-| 253 | 5 | Derek Beverly |
-| 254 | 5 | Jelyfish |
+| 232 | 7 | Kendra McIntyre |
+| 233 | 7 | wmedina67 |
+| 234 | 7 | whatever |
+| 235 | 6 | Allison Baxter |
+| 236 | 6 | Cece Fowler |
+| 237 | 6 | Brittnay Wright |
+| 238 | 6 | Christopher Wallace |
+| 239 | 6 | Janine Hunter |
+| 240 | 6 | Jeffrey Barrows |
+| 241 | 5 | Jennifer Moore |
+| 242 | 5 | Rixo Blax |
+| 243 | 5 | Temeshia Brooks Washington |
+| 244 | 5 | KeeKee Williams |
+| 245 | 5 | Derek Beverly |
+| 246 | 5 | Vernon Hoyt |
+| 247 | 5 | Jelyfish |
+| 248 | 5 | Stephanie Zuniga Tullock |
+| 249 | 5 | DirtiestofMikes |
+| 250 | 5 | Zappy Clearfit |
+| 251 | 5 | Tamika Fisher |
+| 252 | 5 | Shawn Himes |
+| 253 | 5 | Kidgib5 |
+| 254 | 5 | Lil T |
 
 ---
 *Standings created by tournaments datasource generation tool*
