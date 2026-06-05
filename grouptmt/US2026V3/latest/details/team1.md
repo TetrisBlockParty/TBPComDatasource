@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:50:36 UTC
+# Standings for team1 as of 2026-06-05 17:51:13 UTC
 
 **Total Participants:** 354
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 12000 | Ariel |
-| 2 | 2705 | Timothy Robert |
+| 2 | 2905 | Timothy Robert |
 | 3 | 1334 | Tracy Cohen |
 | 4 | 1050 | jaimie |
 | 5 | 950 | Chandler Spencer |
@@ -106,47 +106,47 @@
 | 98 | 57 | Tosha Michelle |
 | 99 | 56 | Dena Marie Lee |
 | 100 | 55 | Kyle Franklin |
-| 101 | 54 | Kristie |
-| 102 | 54 | Lauraly |
-| 103 | 52 | Keke Ferguson |
-| 104 | 52 | Loopy Risepiece |
+| 101 | 54 | Lauraly |
+| 102 | 54 | Kristie |
+| 103 | 52 | Loopy Risepiece |
+| 104 | 52 | Keke Ferguson |
 | 105 | 51 | Comedian Gdane |
-| 106 | 50 | Donna Payne |
-| 107 | 50 | Yazz |
+| 106 | 50 | Yazz |
+| 107 | 50 | Donna Payne |
 | 108 | 50 | Slinky Party |
-| 109 | 50 | Dai Bo |
-| 110 | 50 | Antoinette Jones |
-| 111 | 50 | Teresa Yanira Cepeda |
+| 109 | 50 | Teresa Yanira Cepeda |
+| 110 | 50 | Dai Bo |
+| 111 | 50 | Antoinette Jones |
 | 112 | 49 | LexiiSamayaa |
 | 113 | 47 | Christopher Dreamsareality McEachin |
 | 114 | 47 | Derrius SeriousLee Burks |
-| 115 | 45 | Guy Incognito |
-| 116 | 45 | Jayjay Rich |
-| 117 | 45 | Renee J. Thomas |
+| 115 | 45 | Renee J. Thomas |
+| 116 | 45 | Guy Incognito |
+| 117 | 45 | Jayjay Rich |
 | 118 | 44 | Andi McGreevy |
 | 119 | 43 | Block |
 | 120 | 43 | IThinkNot |
 | 121 | 42 | Songne Arif |
 | 122 | 42 | sasha |
-| 123 | 40 | Heather Aurelia |
-| 124 | 40 | Flashy Slam |
-| 125 | 40 | Rackemwillie34 |
-| 126 | 40 | Nisha Sunshine Jenkins |
-| 127 | 40 | Jean Regis |
-| 128 | 40 | Leavon Smith |
-| 129 | 39 | Sabrina Wilkerson |
+| 123 | 40 | Rackemwillie34 |
+| 124 | 40 | Nisha Sunshine Jenkins |
+| 125 | 40 | Heather Aurelia |
+| 126 | 40 | Leavon Smith |
+| 127 | 40 | Flashy Slam |
+| 128 | 40 | Jean Regis |
+| 129 | 39 | Byron Mario Cawthon |
 | 130 | 39 | Jae Thompson-Tyus |
-| 131 | 39 | Byron Mario Cawthon |
-| 132 | 39 | JesusSaves 😇 |
+| 131 | 39 | JesusSaves 😇 |
+| 132 | 39 | Sabrina Wilkerson |
 | 133 | 38 | Kahliah Baker |
 | 134 | 38 | rls |
-| 135 | 37 | Lootch |
-| 136 | 37 | Cranky Fall |
-| 137 | 37 | Jojo M |
-| 138 | 37 | Calvin Green |
-| 139 | 37 | Steve Reno |
-| 140 | 36 | Dandy Brickfit |
-| 141 | 36 | Sunny Riserbuilder |
+| 135 | 38 | Steve Reno |
+| 136 | 37 | Lootch |
+| 137 | 37 | Cranky Fall |
+| 138 | 37 | Jojo M |
+| 139 | 37 | Calvin Green |
+| 140 | 36 | Sunny Riserbuilder |
+| 141 | 36 | Dandy Brickfit |
 | 142 | 35 | Jolly Tilefall |
 | 143 | 35 | Saucy Crusher |
 | 144 | 35 | Sashaleo |
@@ -157,24 +157,24 @@
 | 149 | 35 | Wacky Stackbuilder |
 | 150 | 33 | Richard Flex |
 | 151 | 33 | Simone Bailey |
-| 152 | 33 | Rene Hicks |
-| 153 | 33 | Mom3granny2 |
-| 154 | 33 | Krose Byers |
-| 155 | 33 | Chris Nelson |
-| 156 | 33 | Block King |
-| 157 | 32 | Tobey Marberry |
-| 158 | 32 | Tyrone Porter |
+| 152 | 33 | Epic Snapfall |
+| 153 | 33 | Rene Hicks |
+| 154 | 33 | Mom3granny2 |
+| 155 | 33 | Krose Byers |
+| 156 | 33 | Chris Nelson |
+| 157 | 33 | Block King |
+| 158 | 32 | Tobey Marberry |
 | 159 | 32 | Melvin Simpson |
-| 160 | 32 | Christi Walker Patton |
-| 161 | 32 | Jack Mehof |
-| 162 | 31 | Miera Nicole |
-| 163 | 31 | Daris Swearington |
-| 164 | 31 | Boldy Pivoty |
-| 165 | 30 | Jack Vlasak |
-| 166 | 30 | Casey Chapman |
-| 167 | 30 | Lester Malone |
-| 168 | 30 | Kp |
-| 169 | 30 | Epic Snapfall |
+| 160 | 32 | Tyrone Porter |
+| 161 | 32 | Christi Walker Patton |
+| 162 | 32 | Jack Mehof |
+| 163 | 31 | Miera Nicole |
+| 164 | 31 | Daris Swearington |
+| 165 | 31 | Boldy Pivoty |
+| 166 | 30 | Jack Vlasak |
+| 167 | 30 | Casey Chapman |
+| 168 | 30 | Lester Malone |
+| 169 | 30 | Kp |
 | 170 | 30 | Bouncy Glide |
 | 171 | 30 | Saucy Faller |
 | 172 | 30 | Jes Marie |
@@ -319,47 +319,47 @@
 | 311 | 8 | Rixo Blax |
 | 312 | 8 | Brika Brika |
 | 313 | 8 | Tanesha Ga'sFinest Corbett |
-| 314 | 8 | Ashley Davis |
-| 315 | 8 | Brenda Brogden |
-| 316 | 8 | Cm |
-| 317 | 8 | Taz Ballard |
-| 318 | 8 | Caitlin Michele |
-| 319 | 8 | Breezy Catcher |
-| 320 | 8 | Jessie N Michael Silvers |
-| 321 | 7 | Andrew Harris |
-| 322 | 7 | whatever |
-| 323 | 7 | Lillie Blossom Dixon |
-| 324 | 7 | Shane Brucewayne |
-| 325 | 7 | Mary2 |
-| 326 | 7 | wmedina67 |
-| 327 | 7 | Kendra McIntyre |
-| 328 | 6 | Jeffrey Barrows |
-| 329 | 6 | Jelyfish |
-| 330 | 6 | Gael Quintana |
-| 331 | 6 | NEM0228 |
-| 332 | 6 | Cece Fowler |
-| 333 | 6 | Frances Davis |
-| 334 | 6 | Brittnay Wright |
-| 335 | 6 | Allison Baxter |
-| 336 | 6 | Christopher Wallace |
-| 337 | 6 | Janine Hunter |
-| 338 | 5 | Andre Sanon |
-| 339 | 5 | Temeshia Brooks Washington |
-| 340 | 5 | KeeKee Williams |
-| 341 | 5 | Stephanie Zuniga Tullock |
-| 342 | 5 | Jjhandsome |
-| 343 | 5 | pooh |
-| 344 | 5 | Barbramerri Tarboro |
-| 345 | 5 | Jennifer Moore |
-| 346 | 5 | Kidgib5 |
-| 347 | 5 | Zappy Clearfit |
+| 314 | 8 | Jessie N Michael Silvers |
+| 315 | 8 | Breezy Catcher |
+| 316 | 8 | Brenda Brogden |
+| 317 | 8 | Ashley Davis |
+| 318 | 8 | Cm |
+| 319 | 8 | Caitlin Michele |
+| 320 | 8 | Taz Ballard |
+| 321 | 7 | wmedina67 |
+| 322 | 7 | Lillie Blossom Dixon |
+| 323 | 7 | whatever |
+| 324 | 7 | Kendra McIntyre |
+| 325 | 7 | Andrew Harris |
+| 326 | 7 | Mary2 |
+| 327 | 7 | Shane Brucewayne |
+| 328 | 6 | Gael Quintana |
+| 329 | 6 | Janine Hunter |
+| 330 | 6 | NEM0228 |
+| 331 | 6 | Jelyfish |
+| 332 | 6 | Jeffrey Barrows |
+| 333 | 6 | Allison Baxter |
+| 334 | 6 | Frances Davis |
+| 335 | 6 | Christopher Wallace |
+| 336 | 6 | Cece Fowler |
+| 337 | 6 | Brittnay Wright |
+| 338 | 5 | Kidgib5 |
+| 339 | 5 | Stephanie Zuniga Tullock |
+| 340 | 5 | Temeshia Brooks Washington |
+| 341 | 5 | KeeKee Williams |
+| 342 | 5 | Jenni Hardman |
+| 343 | 5 | Derek Beverly |
+| 344 | 5 | Andre Sanon |
+| 345 | 5 | Lil T |
+| 346 | 5 | DirtiestofMikes |
+| 347 | 5 | Vernon Hoyt |
 | 348 | 5 | Tamika Fisher |
-| 349 | 5 | DirtiestofMikes |
-| 350 | 5 | Shawn Himes |
-| 351 | 5 | Lil T |
-| 352 | 5 | Jenni Hardman |
-| 353 | 5 | Derek Beverly |
-| 354 | 5 | Vernon Hoyt |
+| 349 | 5 | Zappy Clearfit |
+| 350 | 5 | Jjhandsome |
+| 351 | 5 | pooh |
+| 352 | 5 | Barbramerri Tarboro |
+| 353 | 5 | Shawn Himes |
+| 354 | 5 | Jennifer Moore |
 
 ---
 *Standings created by tournaments datasource generation tool*
