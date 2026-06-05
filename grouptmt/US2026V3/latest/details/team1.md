@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 18:28:38 UTC
+# Standings for team1 as of 2026-06-05 18:29:14 UTC
 
 **Total Participants:** 384
 
@@ -298,13 +298,13 @@
 | 290 | 13 | Frothy Zoney |
 | 291 | 13 | John Spath |
 | 292 | 13 | Emma Adams |
-| 293 | 12 | Just2Play$ |
-| 294 | 12 | Yadira Salgado |
-| 295 | 12 | Abigail Newman Sweet |
-| 296 | 12 | Outspoken Sirchristopher |
-| 297 | 12 | Andra Ward |
-| 298 | 12 | BigMike |
-| 299 | 12 | Dawn Basemore |
+| 293 | 13 | Dawn Basemore |
+| 294 | 12 | Just2Play$ |
+| 295 | 12 | Yadira Salgado |
+| 296 | 12 | Abigail Newman Sweet |
+| 297 | 12 | Outspoken Sirchristopher |
+| 298 | 12 | Andra Ward |
+| 299 | 12 | BigMike |
 | 300 | 12 | Shauntai Holiday |
 | 301 | 12 | Soubletzy |
 | 302 | 11 | Frilly Shatterline |
@@ -385,10 +385,10 @@
 | 377 | 5 | Jennifer Moore |
 | 378 | 5 | pooh |
 | 379 | 5 | Jjhandsome |
-| 380 | 5 | Vernon Hoyt |
-| 381 | 5 | Rieshelda Marie White |
-| 382 | 5 | Zappy Clearfit |
-| 383 | 5 | DirtiestofMikes |
+| 380 | 5 | DirtiestofMikes |
+| 381 | 5 | Vernon Hoyt |
+| 382 | 5 | Rieshelda Marie White |
+| 383 | 5 | Zappy Clearfit |
 | 384 | 5 | Andre Sanon |
 
 ---
