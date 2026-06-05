@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:52:13 UTC
+# Standings for team1 as of 2026-06-05 15:52:36 UTC
 
 **Total Participants:** 259
 
@@ -38,11 +38,11 @@
 | 30 | 170 | Janet Cooke |
 | 31 | 162 | Markeeta Lipscomb |
 | 32 | 151 | Dacia Hicks |
-| 33 | 141 | Debbie Carswell |
-| 34 | 140 | Abraham Espaillat |
+| 33 | 150 | COSA303 |
+| 34 | 141 | Debbie Carswell |
 | 35 | 140 | JoJo |
-| 36 | 135 | Jawaun Daniels |
-| 37 | 130 | COSA303 |
+| 36 | 140 | Abraham Espaillat |
+| 37 | 135 | Jawaun Daniels |
 | 38 | 126 | Cee Emm |
 | 39 | 115 | Davionte DaeDae Hopson-Rodriguez |
 | 40 | 111 | Shalena Marie Humphrey |
@@ -159,41 +159,41 @@
 | 151 | 23 | Poppy Twister |
 | 152 | 23 | Khatyrah Burnette |
 | 153 | 22 | Tanisha Taylor |
-| 154 | 22 | Ad Doctor |
-| 155 | 21 | Brave Balanceblock |
-| 156 | 20 | Nyhlah Patterson |
-| 157 | 20 | Chevalier Burley |
-| 158 | 20 | Devin West |
-| 159 | 20 | Trina Greenwood |
-| 160 | 20 | Jai |
-| 161 | 20 | Tony P Burke |
-| 162 | 20 | Dorian Griffin |
-| 163 | 19 | Shanjerrica Taylor Rosell |
-| 164 | 19 | Tamara N Lee |
+| 154 | 22 | Tamara N Lee |
+| 155 | 22 | Ad Doctor |
+| 156 | 21 | Brave Balanceblock |
+| 157 | 20 | Nyhlah Patterson |
+| 158 | 20 | Chevalier Burley |
+| 159 | 20 | Devin West |
+| 160 | 20 | Trina Greenwood |
+| 161 | 20 | Jai |
+| 162 | 20 | Tony P Burke |
+| 163 | 20 | Dorian Griffin |
+| 164 | 19 | Brenda Malachi-butler |
 | 165 | 19 | Michele Simpson |
-| 166 | 19 | Brenda Malachi-butler |
-| 167 | 19 | Saucy Tile |
-| 168 | 19 | Mimi 1.0 |
-| 169 | 19 | Amanda Woodruff |
-| 170 | 19 | Jenni |
-| 171 | 18 | Sunny Clicky |
-| 172 | 18 | Nona Harriel |
+| 166 | 19 | Saucy Tile |
+| 167 | 19 | Shanjerrica Taylor Rosell |
+| 168 | 19 | Amanda Woodruff |
+| 169 | 19 | Jenni |
+| 170 | 19 | Mimi 1.0 |
+| 171 | 18 | Danny M GR |
+| 172 | 18 | Tyree Tman Shinette |
 | 173 | 18 | AleahKCH |
-| 174 | 18 | Danny M GR |
-| 175 | 18 | Tyree Tman Shinette |
+| 174 | 18 | Sunny Clicky |
+| 175 | 18 | Nona Harriel |
 | 176 | 17 | Rikki Moran |
 | 177 | 17 | Elizabeth Vega Coreano |
-| 178 | 17 | Kimberly Red |
-| 179 | 17 | LAhoneybun82 |
+| 178 | 17 | LAhoneybun82 |
+| 179 | 17 | Kimberly Red |
 | 180 | 17 | Byron Mario Cawthon |
-| 181 | 16 | MsBobby Patrick |
-| 182 | 16 | Sunny Tumbler |
-| 183 | 16 | Sylvia Offically A Mcgowan |
-| 184 | 16 | Desiree Ryder |
-| 185 | 15 | Una |
-| 186 | 15 | Elaine Youmans |
-| 187 | 15 | Tami Spence |
-| 188 | 15 | Jess |
+| 181 | 16 | Desiree Ryder |
+| 182 | 16 | Sylvia Offically A Mcgowan |
+| 183 | 16 | Sunny Tumbler |
+| 184 | 16 | MsBobby Patrick |
+| 185 | 15 | Jess |
+| 186 | 15 | Una |
+| 187 | 15 | Elaine Youmans |
+| 188 | 15 | Tami Spence |
 | 189 | 15 | Delitra Perkins Hatter |
 | 190 | 15 | Clever Fitblock |
 | 191 | 15 | NastyFriend |
@@ -233,38 +233,38 @@
 | 225 | 9 | Poppy Buildout |
 | 226 | 9 | Shakmar |
 | 227 | 8 | Brika Brika |
-| 228 | 8 | Jessie N Michael Silvers |
-| 229 | 8 | Tanesha Ga'sFinest Corbett |
-| 230 | 8 | Epic Snapfall |
-| 231 | 8 | Breezy Catcher |
+| 228 | 8 | Sammie Walker |
+| 229 | 8 | Breezy Catcher |
+| 230 | 8 | Jessie N Michael Silvers |
+| 231 | 8 | Tanesha Ga'sFinest Corbett |
 | 232 | 8 | Taz Ballard |
-| 233 | 8 | Sammie Walker |
+| 233 | 8 | Epic Snapfall |
 | 234 | 7 | Jumpy Gridlock |
-| 235 | 7 | wmedina67 |
-| 236 | 7 | whatever |
-| 237 | 7 | Shane Brucewayne |
-| 238 | 7 | Mary2 |
-| 239 | 7 | Kendra McIntyre |
-| 240 | 6 | Jeffrey Barrows |
-| 241 | 6 | Jelyfish |
-| 242 | 6 | Cece Fowler |
+| 235 | 7 | Shane Brucewayne |
+| 236 | 7 | Mary2 |
+| 237 | 7 | Kendra McIntyre |
+| 238 | 7 | wmedina67 |
+| 239 | 7 | whatever |
+| 240 | 6 | Cece Fowler |
+| 241 | 6 | Allison Baxter |
+| 242 | 6 | Jelyfish |
 | 243 | 6 | Brittnay Wright |
-| 244 | 6 | Allison Baxter |
-| 245 | 6 | Janine Hunter |
-| 246 | 6 | Christopher Wallace |
-| 247 | 5 | KeeKee Williams |
+| 244 | 6 | Christopher Wallace |
+| 245 | 6 | Jeffrey Barrows |
+| 246 | 6 | Janine Hunter |
+| 247 | 5 | Shawn Himes |
 | 248 | 5 | Rixo Blax |
 | 249 | 5 | Temeshia Brooks Washington |
-| 250 | 5 | Zappy Clearfit |
-| 251 | 5 | Tamika Fisher |
-| 252 | 5 | Shawn Himes |
-| 253 | 5 | Jennifer Moore |
-| 254 | 5 | Kidgib5 |
-| 255 | 5 | DirtiestofMikes |
-| 256 | 5 | Vernon Hoyt |
-| 257 | 5 | Stephanie Zuniga Tullock |
-| 258 | 5 | Lil T |
-| 259 | 5 | Derek Beverly |
+| 250 | 5 | KeeKee Williams |
+| 251 | 5 | Derek Beverly |
+| 252 | 5 | Lil T |
+| 253 | 5 | Stephanie Zuniga Tullock |
+| 254 | 5 | DirtiestofMikes |
+| 255 | 5 | Vernon Hoyt |
+| 256 | 5 | Kidgib5 |
+| 257 | 5 | Zappy Clearfit |
+| 258 | 5 | Tamika Fisher |
+| 259 | 5 | Jennifer Moore |
 
 ---
 *Standings created by tournaments datasource generation tool*
