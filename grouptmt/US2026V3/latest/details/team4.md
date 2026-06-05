@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-06-05 12:42:12 UTC
+# Standings for team4 as of 2026-06-05 12:42:34 UTC
 
-**Total Participants:** 57
+**Total Participants:** 58
 
 ## Participant Scores
 
@@ -16,8 +16,8 @@
 | 8 | 78 | Tawna Curry |
 | 9 | 75 | June Hoffman |
 | 10 | 70 | Janae Harris |
-| 11 | 51 | Real Talk Vibes |
-| 12 | 51 | Chris Covington |
+| 11 | 51 | Chris Covington |
+| 12 | 51 | Real Talk Vibes |
 | 13 | 50 | Keys Tome |
 | 14 | 50 | Jesse Olive |
 | 15 | 50 | Gloria Nunley Trussell |
@@ -25,16 +25,16 @@
 | 17 | 38 | Jonathan Hewitt |
 | 18 | 38 | Charity Thomas |
 | 19 | 34 | jojo |
-| 20 | 30 | Will E Ayala |
-| 21 | 28 | Laurie Patrick |
+| 20 | 32 | Shiny Brick |
+| 21 | 30 | Will E Ayala |
 | 22 | 28 | Melissa Schwager |
-| 23 | 27 | Blockcrusher |
-| 24 | 26 | Dana Fontanez |
-| 25 | 25 | Маркус Вік |
-| 26 | 25 | Shiny Brick |
+| 23 | 28 | Laurie Patrick |
+| 24 | 27 | Blockcrusher |
+| 25 | 26 | Dana Fontanez |
+| 26 | 25 | Маркус Вік |
 | 27 | 23 | Melissa Quinn |
-| 28 | 22 | Saul Fajardo |
-| 29 | 22 | smarty |
+| 28 | 22 | smarty |
+| 29 | 22 | Saul Fajardo |
 | 30 | 21 | Keesha Muro |
 | 31 | 20 | Erica Pompey |
 | 32 | 20 | Magz |
@@ -45,10 +45,10 @@
 | 37 | 13 | Cherry |
 | 38 | 13 | Nancy McCalla Abercrombie |
 | 39 | 11 | Alizabeth Garcia |
-| 40 | 10 | Mrs |
-| 41 | 10 | Buchanon Bossingup Jadrienne |
-| 42 | 10 | Jonelle Jacobs |
-| 43 | 10 | Hasty Dropzone |
+| 40 | 10 | Hasty Dropzone |
+| 41 | 10 | Mrs |
+| 42 | 10 | Buchanon Bossingup Jadrienne |
+| 43 | 10 | Jonelle Jacobs |
 | 44 | 10 | Lateasha Wildman |
 | 45 | 9 | Hotstuff |
 | 46 | 9 | Snippy Grid |
@@ -57,12 +57,13 @@
 | 49 | 7 | George Palacios |
 | 50 | 6 | Dizzy |
 | 51 | 5 | Zappy Matchgrid |
-| 52 | 5 | Lively Cascadeclear |
-| 53 | 5 | Jason Garnatz |
-| 54 | 5 | Cflixer |
-| 55 | 5 | Joshua Garner |
-| 56 | 5 | Mighty1 |
-| 57 | 5 | Swanky Zigzag |
+| 52 | 5 | Jason Garnatz |
+| 53 | 5 | Lively Cascadeclear |
+| 54 | 5 | Joshua Garner |
+| 55 | 5 | Breezy Blockzone |
+| 56 | 5 | Cflixer |
+| 57 | 5 | Mighty1 |
+| 58 | 5 | Swanky Zigzag |
 
 ---
 *Standings created by tournaments datasource generation tool*
