@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:59:13 UTC
+# Standings for team1 as of 2026-06-05 16:00:14 UTC
 
 **Total Participants:** 266
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 6500 | Ariel |
+| 1 | 7000 | Ariel |
 | 2 | 1805 | Timothy Robert |
 | 3 | 1334 | Tracy Cohen |
 | 4 | 1050 | jaimie |
@@ -238,40 +238,40 @@
 | 230 | 9 | Noni |
 | 231 | 9 | Tina Criam |
 | 232 | 8 | Brika Brika |
-| 233 | 8 | Breezy Catcher |
-| 234 | 8 | Jessie N Michael Silvers |
-| 235 | 8 | Sammie Walker |
-| 236 | 8 | Tanesha Ga'sFinest Corbett |
-| 237 | 8 | Caitlin Michele |
-| 238 | 8 | Taz Ballard |
+| 233 | 8 | Sammie Walker |
+| 234 | 8 | Breezy Catcher |
+| 235 | 8 | Caitlin Michele |
+| 236 | 8 | Taz Ballard |
+| 237 | 8 | Jessie N Michael Silvers |
+| 238 | 8 | Tanesha Ga'sFinest Corbett |
 | 239 | 7 | Jumpy Gridlock |
-| 240 | 7 | wmedina67 |
-| 241 | 7 | whatever |
-| 242 | 7 | Shane Brucewayne |
-| 243 | 7 | Mary2 |
-| 244 | 7 | Kendra McIntyre |
+| 240 | 7 | Shane Brucewayne |
+| 241 | 7 | Mary2 |
+| 242 | 7 | Kendra McIntyre |
+| 243 | 7 | whatever |
+| 244 | 7 | wmedina67 |
 | 245 | 6 | Christopher Wallace |
-| 246 | 6 | Jeffrey Barrows |
-| 247 | 6 | Jelyfish |
-| 248 | 6 | Cece Fowler |
-| 249 | 6 | Allison Baxter |
-| 250 | 6 | Janine Hunter |
-| 251 | 6 | Brittnay Wright |
-| 252 | 5 | pooh |
-| 253 | 5 | Lit757 |
-| 254 | 5 | Temeshia Brooks Washington |
-| 255 | 5 | Rixo Blax |
+| 246 | 6 | Allison Baxter |
+| 247 | 6 | Jeffrey Barrows |
+| 248 | 6 | Jelyfish |
+| 249 | 6 | Cece Fowler |
+| 250 | 6 | Brittnay Wright |
+| 251 | 6 | Janine Hunter |
+| 252 | 5 | Tamika Fisher |
+| 253 | 5 | Rixo Blax |
+| 254 | 5 | Derek Beverly |
+| 255 | 5 | Temeshia Brooks Washington |
 | 256 | 5 | KeeKee Williams |
-| 257 | 5 | Zappy Clearfit |
-| 258 | 5 | Tamika Fisher |
-| 259 | 5 | Shawn Himes |
-| 260 | 5 | Jennifer Moore |
-| 261 | 5 | Kidgib5 |
-| 262 | 5 | Vernon Hoyt |
-| 263 | 5 | DirtiestofMikes |
-| 264 | 5 | Stephanie Zuniga Tullock |
-| 265 | 5 | Lil T |
-| 266 | 5 | Derek Beverly |
+| 257 | 5 | Lil T |
+| 258 | 5 | Lit757 |
+| 259 | 5 | pooh |
+| 260 | 5 | Stephanie Zuniga Tullock |
+| 261 | 5 | DirtiestofMikes |
+| 262 | 5 | Kidgib5 |
+| 263 | 5 | Jennifer Moore |
+| 264 | 5 | Vernon Hoyt |
+| 265 | 5 | Shawn Himes |
+| 266 | 5 | Zappy Clearfit |
 
 ---
 *Standings created by tournaments datasource generation tool*
