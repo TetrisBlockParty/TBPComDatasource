@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 20:50:37 UTC
+# Standings for team1 as of 2026-06-05 20:51:14 UTC
 
 **Total Participants:** 492
 
@@ -10,7 +10,7 @@
 | 2 | 3010 | Timothy Robert |
 | 3 | 2455 | Cozy Edge |
 | 4 | 2126 | Tracy Cohen |
-| 5 | 1587 | Dyane Leah Ware |
+| 5 | 1810 | Dyane Leah Ware |
 | 6 | 1050 | jaimie |
 | 7 | 950 | Chandler Spencer |
 | 8 | 924 | Carrie English |
@@ -440,64 +440,64 @@
 | 432 | 9 | Dana |
 | 433 | 8 | Rixo Blax |
 | 434 | 8 | Ferocity |
-| 435 | 8 | Tanesha Ga'sFinest Corbett |
-| 436 | 8 | jus_ry |
+| 435 | 8 | Brika Brika |
+| 436 | 8 | Ashley Davis |
 | 437 | 8 | Cm |
 | 438 | 8 | Mahagony Small |
 | 439 | 8 | Manda Allen |
 | 440 | 8 | Caitlin Michele |
-| 441 | 8 | Nerdy Twistline |
-| 442 | 8 | Teresa Bean |
-| 443 | 8 | Brenda Brogden |
-| 444 | 8 | Ashley Davis |
-| 445 | 8 | Brika Brika |
+| 441 | 8 | Tanesha Ga'sFinest Corbett |
+| 442 | 8 | Nerdy Twistline |
+| 443 | 8 | Teresa Bean |
+| 444 | 8 | Brenda Brogden |
+| 445 | 8 | jus_ry |
 | 446 | 8 | Moomoo |
 | 447 | 7 | Andrew Harris |
-| 448 | 7 | Shane Brucewayne |
-| 449 | 7 | Rufus |
-| 450 | 7 | wmedina67 |
-| 451 | 7 | Analesia Taylor |
-| 452 | 7 | Mary2 |
-| 453 | 7 | Kendra McIntyre |
+| 448 | 7 | Kendra McIntyre |
+| 449 | 7 | Analesia Taylor |
+| 450 | 7 | Mary2 |
+| 451 | 7 | wmedina67 |
+| 452 | 7 | Rufus |
+| 453 | 7 | Shane Brucewayne |
 | 454 | 7 | whatever |
-| 455 | 6 | Jeffrey Barrows |
+| 455 | 6 | Betsy B. Yohan |
 | 456 | 6 | Gael Quintana |
-| 457 | 6 | Frances Davis |
-| 458 | 6 | NEM0228 |
-| 459 | 6 | Jelyfish |
-| 460 | 6 | Betsy B. Yohan |
-| 461 | 6 | Boricua64 |
-| 462 | 6 | Cece Fowler |
-| 463 | 6 | Wacky Towerer |
-| 464 | 6 | Brittnay Wright |
-| 465 | 6 | Allison Baxter |
+| 457 | 6 | Janine Hunter |
+| 458 | 6 | Boricua64 |
+| 459 | 6 | Allison Baxter |
+| 460 | 6 | Jelyfish |
+| 461 | 6 | Wacky Towerer |
+| 462 | 6 | Jeffrey Barrows |
+| 463 | 6 | Frances Davis |
+| 464 | 6 | NEM0228 |
+| 465 | 6 | Brittnay Wright |
 | 466 | 6 | Christopher Wallace |
-| 467 | 6 | Wu May |
-| 468 | 6 | Janine Hunter |
-| 469 | 5 | Rieshelda Marie White |
-| 470 | 5 | Saucy Linkgrid |
-| 471 | 5 | KeeKee Williams |
-| 472 | 5 | Temeshia Brooks Washington |
-| 473 | 5 | Logan Frost |
-| 474 | 5 | Kelvin Cook |
-| 475 | 5 | Stephanie Zuniga Tullock |
-| 476 | 5 | pooh |
-| 477 | 5 | Jjhandsome |
-| 478 | 5 | DirtiestofMikes |
-| 479 | 5 | Derek Beverly |
-| 480 | 5 | Lil T |
-| 481 | 5 | Kidgib5 |
-| 482 | 5 | Jennifer Moore |
-| 483 | 5 | Chill Linkroll |
-| 484 | 5 | the guy |
-| 485 | 5 | Shakuria Cortia Burney |
-| 486 | 5 | Shawn Himes |
-| 487 | 5 | Tamika Fisher |
-| 488 | 5 | Zappy Clearfit |
-| 489 | 5 | Tito Divyn |
-| 490 | 5 | Andre Sanon |
-| 491 | 5 | Barbramerri Tarboro |
-| 492 | 5 | Vernon Hoyt |
+| 467 | 6 | Cece Fowler |
+| 468 | 6 | Wu May |
+| 469 | 5 | Temeshia Brooks Washington |
+| 470 | 5 | KeeKee Williams |
+| 471 | 5 | DirtiestofMikes |
+| 472 | 5 | Saucy Linkgrid |
+| 473 | 5 | Rieshelda Marie White |
+| 474 | 5 | Derek Beverly |
+| 475 | 5 | Lil T |
+| 476 | 5 | Kidgib5 |
+| 477 | 5 | Logan Frost |
+| 478 | 5 | Stephanie Zuniga Tullock |
+| 479 | 5 | Kelvin Cook |
+| 480 | 5 | Jennifer Moore |
+| 481 | 5 | Chill Linkroll |
+| 482 | 5 | Vernon Hoyt |
+| 483 | 5 | the guy |
+| 484 | 5 | Shakuria Cortia Burney |
+| 485 | 5 | Jjhandsome |
+| 486 | 5 | pooh |
+| 487 | 5 | Barbramerri Tarboro |
+| 488 | 5 | Shawn Himes |
+| 489 | 5 | Andre Sanon |
+| 490 | 5 | Tamika Fisher |
+| 491 | 5 | Tito Divyn |
+| 492 | 5 | Zappy Clearfit |
 
 ---
 *Standings created by tournaments datasource generation tool*
