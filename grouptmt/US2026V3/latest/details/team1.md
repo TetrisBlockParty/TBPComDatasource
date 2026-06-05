@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 14:34:13 UTC
+# Standings for team1 as of 2026-06-05 14:34:35 UTC
 
 **Total Participants:** 189
 
@@ -27,8 +27,8 @@
 | 19 | 141 | Debbie Carswell |
 | 20 | 126 | Cee Emm |
 | 21 | 104 | Dacia Hicks |
-| 22 | 100 | Asani CHumba |
-| 23 | 100 | JoJo |
+| 22 | 100 | JoJo |
+| 23 | 100 | Asani CHumba |
 | 24 | 99 | Kellie Hall |
 | 25 | 97 | Pdubbl3 |
 | 26 | 86 | SPNLover24 |
@@ -46,21 +46,21 @@
 | 38 | 68 | David Fuentes |
 | 39 | 67 | Michele Elizabeth McKay-Johnson |
 | 40 | 66 | Shontanese Adams |
-| 41 | 65 | Dizzy Dashy |
+| 41 | 65 | Frisky Fall |
 | 42 | 65 | Shanell Thomas |
-| 43 | 63 | Carrie English |
-| 44 | 60 | Christian Pham |
-| 45 | 57 | Tosha Michelle |
-| 46 | 54 | Lauraly |
-| 47 | 51 | Comedian Gdane |
-| 48 | 50 | Donna Payne |
+| 43 | 65 | Dizzy Dashy |
+| 44 | 63 | Carrie English |
+| 45 | 60 | Christian Pham |
+| 46 | 57 | Tosha Michelle |
+| 47 | 54 | Lauraly |
+| 48 | 51 | Comedian Gdane |
 | 49 | 50 | Bre Maugh |
-| 50 | 50 | Slinky Party |
+| 50 | 50 | Donna Payne |
 | 51 | 50 | Yazz |
-| 52 | 45 | Jayjay Rich |
-| 53 | 43 | Block |
-| 54 | 43 | KenpachisGirl |
-| 55 | 42 | Frisky Fall |
+| 52 | 50 | Slinky Party |
+| 53 | 45 | Jayjay Rich |
+| 54 | 43 | Block |
+| 55 | 43 | KenpachisGirl |
 | 56 | 41 | Jessica Russell |
 | 57 | 40 | $hort Dog |
 | 58 | 40 | Carolyn Smith |
