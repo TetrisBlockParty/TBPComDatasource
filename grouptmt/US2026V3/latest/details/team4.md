@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 12:46:13 UTC
+# Standings for team4 as of 2026-06-05 12:46:34 UTC
 
 **Total Participants:** 62
 
@@ -18,7 +18,7 @@
 | 10 | 71 | Chris Covington |
 | 11 | 70 | Gloria Nunley Trussell |
 | 12 | 70 | Janae Harris |
-| 13 | 57 | Kim |
+| 13 | 63 | Kim |
 | 14 | 51 | Real Talk Vibes |
 | 15 | 50 | Jesse Olive |
 | 16 | 50 | Keys Tome |
