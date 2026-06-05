@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 13:25:13 UTC
+# Standings for team4 as of 2026-06-05 13:26:12 UTC
 
 **Total Participants:** 92
 
@@ -16,7 +16,7 @@
 | 8 | 174 | Heather Preston |
 | 9 | 148 | Colin |
 | 10 | 121 | Ryan Paul Clark-Ramsey |
-| 11 | 107 | Kim |
+| 11 | 109 | Kim |
 | 12 | 107 | Shayna Vaigneur-Hall |
 | 13 | 101 | Giggy Matchpiece |
 | 14 | 95 | Gloria Nunley Trussell |
@@ -41,44 +41,44 @@
 | 33 | 35 | Tactical_B |
 | 34 | 34 | jojo |
 | 35 | 33 | Lul Babie |
-| 36 | 30 | Sarah Berry Stevens |
-| 37 | 30 | Will E Ayala |
-| 38 | 28 | Melissa Schwager |
+| 36 | 30 | Jasmine Marie |
+| 37 | 30 | Sarah Berry Stevens |
+| 38 | 30 | Will E Ayala |
 | 39 | 28 | Laurie Patrick |
-| 40 | 26 | Dana Fontanez |
-| 41 | 26 | Jasmine Marie |
+| 40 | 28 | Melissa Schwager |
+| 41 | 26 | Dana Fontanez |
 | 42 | 25 | Маркус Вік |
 | 43 | 25 | Andrea Dre Lomeli |
 | 44 | 24 | smarty |
 | 45 | 24 | Sandra O'Reilly |
-| 46 | 23 | Zippy Snaplink |
-| 47 | 23 | Stasia |
+| 46 | 23 | Stasia |
+| 47 | 23 | Zippy Snaplink |
 | 48 | 23 | Melissa Quinn |
 | 49 | 22 | Saul Fajardo |
 | 50 | 21 | Playa |
 | 51 | 21 | Keesha Muro |
 | 52 | 20 | Betsy Froemming |
-| 53 | 20 | Erica Pompey |
-| 54 | 20 | Magz |
+| 53 | 20 | Magz |
+| 54 | 20 | Erica Pompey |
 | 55 | 19 | Swanky Matchfit |
 | 56 | 19 | Becky McCool |
 | 57 | 18 | Iforget |
 | 58 | 17 | Breezy Blockzone |
-| 59 | 15 | Joshua Garner |
-| 60 | 15 | Perry Ransom |
-| 61 | 15 | Jonelle Jacobs |
-| 62 | 15 | Hasty Dropzone |
-| 63 | 13 | Nancy McCalla Abercrombie |
-| 64 | 13 | Karen Rodriguez |
+| 59 | 15 | Jonelle Jacobs |
+| 60 | 15 | Hasty Dropzone |
+| 61 | 15 | Joshua Garner |
+| 62 | 15 | Perry Ransom |
+| 63 | 13 | Karen Rodriguez |
+| 64 | 13 | Nancy McCalla Abercrombie |
 | 65 | 13 | Catherine Garza |
 | 66 | 13 | Cherry |
-| 67 | 12 | Fancy Tilefall |
-| 68 | 12 | Alizabeth Garcia |
+| 67 | 12 | Alizabeth Garcia |
+| 68 | 12 | Fancy Tilefall |
 | 69 | 11 | Samara Garcia |
-| 70 | 10 | Miguel Teixeira |
-| 71 | 10 | Buchanon Bossingup Jadrienne |
+| 70 | 10 | Buchanon Bossingup Jadrienne |
+| 71 | 10 | JP Chua |
 | 72 | 10 | Lateasha Wildman |
-| 73 | 10 | JP Chua |
+| 73 | 10 | Miguel Teixeira |
 | 74 | 9 | Hotstuff |
 | 75 | 9 | Esmond Johnson IV |
 | 76 | 9 | Dheeh Robles |
