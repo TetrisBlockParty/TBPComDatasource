@@ -1,6 +1,6 @@
-# Standings for team3 as of 2026-06-05 13:40:12 UTC
+# Standings for team3 as of 2026-06-05 13:40:36 UTC
 
-**Total Participants:** 267
+**Total Participants:** 268
 
 ## Participant Scores
 
@@ -163,116 +163,117 @@
 | 155 | 20 | Scott Martinson |
 | 156 | 20 | Kimm Fulmer |
 | 157 | 20 | Icekube83 |
-| 158 | 20 | Kandy McDaniel |
-| 159 | 20 | Cheery Wipepiece |
-| 160 | 20 | Dominique Barrios Esponge |
-| 161 | 20 | Matt Cox |
-| 162 | 20 | Alyssa Sauceda |
-| 163 | 20 | Poppy Clearer |
-| 164 | 20 | Julie Davis |
-| 165 | 20 | Courtney Sanford |
-| 166 | 20 | Sisu |
+| 158 | 20 | Alyssa Sauceda |
+| 159 | 20 | Courtney Sanford |
+| 160 | 20 | Poppy Clearer |
+| 161 | 20 | Julie Davis |
+| 162 | 20 | Dominique Barrios Esponge |
+| 163 | 20 | Sisu |
+| 164 | 20 | Kandy McDaniel |
+| 165 | 20 | Cheery Wipepiece |
+| 166 | 20 | Matt Cox |
 | 167 | 20 | Adam Kerley |
-| 168 | 19 | Randi LeSueur |
-| 169 | 19 | Goofy Matchclear |
-| 170 | 19 | Colt Wilson |
-| 171 | 19 | Ashley Dilsaver |
-| 172 | 19 | Unicorn0723 |
+| 168 | 19 | Colt Wilson |
+| 169 | 19 | Unicorn0723 |
+| 170 | 19 | Ashley Dilsaver |
+| 171 | 19 | Goofy Matchclear |
+| 172 | 19 | Randi LeSueur |
 | 173 | 18 | Alison Gomes |
-| 174 | 18 | ToxicTrinity |
-| 175 | 18 | Nathan Gould |
-| 176 | 18 | Kyle Thompson |
-| 177 | 17 | Paul Larsen |
+| 174 | 18 | Kyle Thompson |
+| 175 | 18 | ToxicTrinity |
+| 176 | 18 | Nathan Gould |
+| 177 | 17 | Plop |
 | 178 | 17 | Carol Bath |
 | 179 | 17 | Manda Mumea |
 | 180 | 17 | Pedro Za |
 | 181 | 17 | Loopy Climber |
-| 182 | 16 | Giddy Shift |
-| 183 | 16 | Marisa West |
-| 184 | 15 | Quirky Curve |
-| 185 | 15 | Melinda Flugga |
-| 186 | 15 | kittensden |
-| 187 | 15 | Tytin |
-| 188 | 15 | Shawn Shilling |
-| 189 | 15 | Brandy Painter |
-| 190 | 15 | Breanna Stenberg |
-| 191 | 14 | Sara Pederson |
-| 192 | 14 | Briana Lowell |
+| 182 | 17 | Paul Larsen |
+| 183 | 16 | Giddy Shift |
+| 184 | 16 | Marisa West |
+| 185 | 15 | Breanna Stenberg |
+| 186 | 15 | Tytin |
+| 187 | 15 | Shawn Shilling |
+| 188 | 15 | Brandy Painter |
+| 189 | 15 | kittensden |
+| 190 | 15 | Melinda Flugga |
+| 191 | 15 | Quirky Curve |
+| 192 | 14 | Sara Pederson |
 | 193 | 14 | Jolly Twister |
-| 194 | 14 | Elizabeth Hughes |
-| 195 | 14 | Plop |
-| 196 | 14 | Tiffany Jones |
+| 194 | 14 | Briana Lowell |
+| 195 | 14 | Tiffany Jones |
+| 196 | 14 | Elizabeth Hughes |
 | 197 | 14 | Dizzy Rotate |
-| 198 | 13 | Chirpy Splitter |
+| 198 | 13 | Raven Rogue |
 | 199 | 13 | Sunny Days |
-| 200 | 13 | Bellawells |
-| 201 | 13 | Raven Rogue |
-| 202 | 13 | DShark72 |
-| 203 | 12 | Nonni |
+| 200 | 13 | DShark72 |
+| 201 | 13 | Bellawells |
+| 202 | 13 | Chirpy Splitter |
+| 203 | 12 | Loopy Shatterblock |
 | 204 | 12 | blockbusterr |
-| 205 | 12 | Eli k |
-| 206 | 12 | Sunny Snapline |
-| 207 | 12 | Jonathan Russell |
-| 208 | 12 | Robby Beltran |
-| 209 | 12 | Loopy Shatterblock |
-| 210 | 12 | Violet |
-| 211 | 12 | Wacky Catcher |
+| 205 | 12 | Nonni |
+| 206 | 12 | Eli k |
+| 207 | 12 | Robby Beltran |
+| 208 | 12 | Wacky Catcher |
+| 209 | 12 | Violet |
+| 210 | 12 | Sunny Snapline |
+| 211 | 12 | Jonathan Russell |
 | 212 | 11 | Happy Balancer |
-| 213 | 11 | goatese |
-| 214 | 11 | David Glisson |
-| 215 | 11 | Carrie Ness |
-| 216 | 11 | Minxy |
-| 217 | 11 | MISnM |
-| 218 | 10 | Shabae |
-| 219 | 10 | Daring Demolitionist |
-| 220 | 10 | Jenni Torres |
+| 213 | 11 | Carrie Ness |
+| 214 | 11 | goatese |
+| 215 | 11 | David Glisson |
+| 216 | 11 | MISnM |
+| 217 | 11 | Minxy |
+| 218 | 10 | Daring Demolitionist |
+| 219 | 10 | Sheri Read |
+| 220 | 10 | Jacqueline Muellerleile |
 | 221 | 10 | Stacy Manchester |
-| 222 | 10 | Casey Kincheloe |
-| 223 | 10 | Andrea Brock |
-| 224 | 10 | Jessica Baskins |
-| 225 | 10 | Lucy Loo |
-| 226 | 10 | Shelbybaby2 |
-| 227 | 10 | Jacqueline Muellerleile |
-| 228 | 10 | Sheri Read |
+| 222 | 10 | Shelbybaby2 |
+| 223 | 10 | Lucy Loo |
+| 224 | 10 | Shabae |
+| 225 | 10 | Jessica Baskins |
+| 226 | 10 | Andrea Brock |
+| 227 | 10 | Casey Kincheloe |
+| 228 | 10 | Jenni Torres |
 | 229 | 9 | Natasha Silva |
-| 230 | 9 | Sarah Cruthirds |
-| 231 | 9 | Tracy Fuller |
-| 232 | 9 | Q |
-| 233 | 9 | Salky |
-| 234 | 9 | Jess Jess |
-| 235 | 9 | Tnaughty |
-| 236 | 9 | ciscokid81 |
-| 237 | 9 | Angie Rodriguez |
+| 230 | 9 | ciscokid81 |
+| 231 | 9 | Salky |
+| 232 | 9 | Jess Jess |
+| 233 | 9 | Tnaughty |
+| 234 | 9 | Angie Rodriguez |
+| 235 | 9 | Q |
+| 236 | 9 | Tracy Fuller |
+| 237 | 9 | Sarah Cruthirds |
 | 238 | 8 | Brian Fowler |
-| 239 | 8 | Glitzy Tilt |
-| 240 | 8 | Fam |
-| 241 | 8 | Chyna Rochelle |
+| 239 | 8 | Fam |
+| 240 | 8 | Chyna Rochelle |
+| 241 | 8 | Glitzy Tilt |
 | 242 | 8 | Funky Pivoty |
 | 243 | 7 | Eric Hanson |
-| 244 | 7 | YoMama |
+| 244 | 7 | Shylock Therrien |
 | 245 | 7 | Christopher Taco Tobin |
-| 246 | 7 | Loony Rollfit |
-| 247 | 7 | Shylock Therrien |
-| 248 | 6 | Chris Lea |
-| 249 | 6 | Nese |
-| 250 | 6 | Kathy Siano |
-| 251 | 6 | Mel Murr |
-| 252 | 6 | Brenda Pyne |
-| 253 | 6 | Groovy Bricky |
-| 254 | 6 | Justina Harris |
-| 255 | 6 | Landon Holman |
-| 256 | 6 | bt |
-| 257 | 5 | Natalie Jules |
-| 258 | 5 | Giggly Breaker |
+| 246 | 7 | YoMama |
+| 247 | 7 | Loony Rollfit |
+| 248 | 6 | Groovy Bricky |
+| 249 | 6 | Landon Holman |
+| 250 | 6 | bt |
+| 251 | 6 | Nese |
+| 252 | 6 | Jolly Stackzone |
+| 253 | 6 | Kathy Siano |
+| 254 | 6 | Chris Lea |
+| 255 | 6 | Mel Murr |
+| 256 | 6 | Brenda Pyne |
+| 257 | 6 | Justina Harris |
+| 258 | 5 | James Larrison |
 | 259 | 5 | Rasik park |
-| 260 | 5 | Brandi Thomas-Scott |
-| 261 | 5 | Tori Morgan |
-| 262 | 5 | KAR |
-| 263 | 5 | Snippy Cornerfall |
-| 264 | 5 | Victoria Lofquist |
-| 265 | 5 | James Larrison |
+| 260 | 5 | Natalie Jules |
+| 261 | 5 | Giggly Breaker |
+| 262 | 5 | Snippy Cornerfall |
+| 263 | 5 | Brandi Thomas-Scott |
+| 264 | 5 | Tori Morgan |
+| 265 | 5 | KAR |
 | 266 | 5 | Kd90 |
 | 267 | 5 | fizzy girl |
+| 268 | 5 | Victoria Lofquist |
 
 ---
 *Standings created by tournaments datasource generation tool*

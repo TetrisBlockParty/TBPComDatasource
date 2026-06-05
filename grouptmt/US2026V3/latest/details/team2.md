@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 13:40:12 UTC
+# Standings for team2 as of 2026-06-05 13:40:36 UTC
 
 **Total Participants:** 109
 
@@ -41,9 +41,9 @@
 | 33 | 37 | Jumpy Dashpiece |
 | 34 | 35 | Jason Cunningham |
 | 35 | 34 | Funway998 |
-| 36 | 33 | Tango Sierra |
-| 37 | 32 | Sandra Belk |
-| 38 | 31 | Kelly |
+| 36 | 33 | Kelly |
+| 37 | 33 | Tango Sierra |
+| 38 | 32 | Sandra Belk |
 | 39 | 31 | Lindsay Klemp |
 | 40 | 31 | Kenzie |
 | 41 | 30 | Patti Ward |
