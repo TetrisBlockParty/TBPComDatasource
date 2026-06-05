@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-05 12:41:12 UTC
+# Standings for team2 as of 2026-06-05 12:42:12 UTC
 
-**Total Participants:** 53
+**Total Participants:** 54
 
 ## Participant Scores
 
@@ -10,8 +10,8 @@
 | 2 | 1100 | Kathleen M Cox |
 | 3 | 545 | Jewels |
 | 4 | 474 | Logan Basham |
-| 5 | 300 | Mocha |
-| 6 | 232 | Amy Gale |
+| 5 | 400 | Mocha |
+| 6 | 273 | Amy Gale |
 | 7 | 75 | Angeleye A James |
 | 8 | 70 | Amanda Sikes |
 | 9 | 59 | Stella |
@@ -21,44 +21,45 @@
 | 13 | 40 | LittleHippoEars |
 | 14 | 37 | Jumpy Dashpiece |
 | 15 | 33 | Tango Sierra |
-| 16 | 30 | Patti Ward |
-| 17 | 30 | Jason Cunningham |
+| 16 | 30 | Jason Cunningham |
+| 17 | 30 | Patti Ward |
 | 18 | 28 | Sara BlueEyes |
 | 19 | 27 | Michael Carmichael |
-| 20 | 26 | Rachel Huber |
-| 21 | 26 | Ariel Gundersen |
+| 20 | 26 | Ariel Gundersen |
+| 21 | 26 | Rachel Huber |
 | 22 | 25 | April Addis |
 | 23 | 25 | Jgato |
 | 24 | 24 | A.j. Langley |
-| 25 | 23 | Damion Morrison |
-| 26 | 23 | IncrediDragon |
-| 27 | 20 | ChefDeb |
-| 28 | 18 | Tracey Cox |
-| 29 | 15 | Spicy Basepiece |
-| 30 | 12 | Mary |
-| 31 | 12 | Stacey Loretta Wallace |
-| 32 | 11 | Lora Via |
-| 33 | 11 | Thy Bui |
-| 34 | 10 | Berta Hurley |
-| 35 | 10 | Joyce Galloway |
+| 25 | 24 | Dayna Messer-Thelen |
+| 26 | 23 | Damion Morrison |
+| 27 | 23 | IncrediDragon |
+| 28 | 20 | ChefDeb |
+| 29 | 18 | Tracey Cox |
+| 30 | 16 | Peter Fogg |
+| 31 | 15 | Spicy Basepiece |
+| 32 | 12 | Mary |
+| 33 | 12 | Stacey Loretta Wallace |
+| 34 | 11 | Lora Via |
+| 35 | 11 | Thy Bui |
 | 36 | 10 | Twisty Snapmatch |
-| 37 | 10 | Justin Furne |
-| 38 | 10 | Bon Lynn |
-| 39 | 10 | Rick |
-| 40 | 10 | Gill |
-| 41 | 9 | Mama G |
-| 42 | 9 | Giggly Spinblock |
-| 43 | 9 | Princess Cucumber |
-| 44 | 9 | Darla Ragsdale |
-| 45 | 8 | Chirpy Grid |
-| 46 | 7 | Cherica Taylor |
-| 47 | 7 | Peter Fogg |
-| 48 | 6 | fancypants |
+| 37 | 10 | Bon Lynn |
+| 38 | 10 | Joyce Galloway |
+| 39 | 10 | Berta Hurley |
+| 40 | 10 | Justin Furne |
+| 41 | 10 | Rick |
+| 42 | 10 | Gill |
+| 43 | 9 | Darla Ragsdale |
+| 44 | 9 | Mama G |
+| 45 | 9 | Princess Cucumber |
+| 46 | 9 | Giggly Spinblock |
+| 47 | 8 | Chirpy Grid |
+| 48 | 7 | Cherica Taylor |
 | 49 | 6 | Kelly Christine Trimmer |
-| 50 | 5 | Thomas Johnstone |
-| 51 | 5 | Tashamonique Puckey |
-| 52 | 5 | Devon |
-| 53 | 5 | Allison Peterson |
+| 50 | 6 | fancypants |
+| 51 | 5 | Devon |
+| 52 | 5 | Allison Peterson |
+| 53 | 5 | Tashamonique Puckey |
+| 54 | 5 | Thomas Johnstone |
 
 ---
 *Standings created by tournaments datasource generation tool*
