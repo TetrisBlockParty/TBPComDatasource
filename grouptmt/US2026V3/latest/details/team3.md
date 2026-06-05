@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-05 12:24:13 UTC
+# Standings for team3 as of 2026-06-05 12:24:34 UTC
 
 **Total Participants:** 47
 
@@ -18,8 +18,8 @@
 | 10 | 44 | Adam Bronk |
 | 11 | 40 | Jerome Carlile |
 | 12 | 38 | SteffXx |
-| 13 | 35 | Rebecca Alidre Holmes-Anderson |
-| 14 | 35 | Paul Hudak |
+| 13 | 35 | Paul Hudak |
+| 14 | 35 | Rebecca Alidre Holmes-Anderson |
 | 15 | 33 | Raya |
 | 16 | 32 | Dedicated |
 | 17 | 28 | Carolyn Smith |
@@ -28,31 +28,31 @@
 | 20 | 23 | Charles Love |
 | 21 | 22 | Crystal Carlson |
 | 22 | 19 | Sabrina34 |
-| 23 | 18 | Denice Myers |
-| 24 | 18 | Alison Gomes |
+| 23 | 18 | Alison Gomes |
+| 24 | 18 | Denice Myers |
 | 25 | 18 | ToxicTrinity |
 | 26 | 15 | Quirky Curve |
 | 27 | 15 | kittensden |
 | 28 | 14 | Sara Pederson |
 | 29 | 13 | Raven Rogue |
-| 30 | 12 | Wacky Catcher |
-| 31 | 12 | Jonathan Russell |
-| 32 | 12 | Violet |
-| 33 | 12 | Robby Beltran |
-| 34 | 11 | Carrie Ness |
-| 35 | 10 | Lisa Stone |
-| 36 | 10 | Shabae |
-| 37 | 9 | Nonni |
-| 38 | 9 | Tnaughty |
-| 39 | 9 | Angie Rodriguez |
-| 40 | 9 | Salky |
-| 41 | 9 | Sarah Jane |
-| 42 | 9 | Jess Jess |
-| 43 | 8 | David Glisson |
-| 44 | 8 | kendra |
-| 45 | 6 | Happy Balancer |
-| 46 | 5 | Loony Rollfit |
-| 47 | 5 | Victoria Lofquist |
+| 30 | 12 | Robby Beltran |
+| 31 | 12 | Wacky Catcher |
+| 32 | 12 | Jonathan Russell |
+| 33 | 12 | Violet |
+| 34 | 11 | Happy Balancer |
+| 35 | 11 | Carrie Ness |
+| 36 | 10 | Lisa Stone |
+| 37 | 10 | Shabae |
+| 38 | 9 | Nonni |
+| 39 | 9 | Tnaughty |
+| 40 | 9 | Angie Rodriguez |
+| 41 | 9 | Jess Jess |
+| 42 | 9 | Sarah Jane |
+| 43 | 9 | Salky |
+| 44 | 8 | David Glisson |
+| 45 | 8 | kendra |
+| 46 | 5 | Victoria Lofquist |
+| 47 | 5 | Loony Rollfit |
 
 ---
 *Standings created by tournaments datasource generation tool*

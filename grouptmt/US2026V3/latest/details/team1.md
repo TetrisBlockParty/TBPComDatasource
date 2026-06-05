@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 12:24:13 UTC
+# Standings for team1 as of 2026-06-05 12:24:34 UTC
 
-**Total Participants:** 27
+**Total Participants:** 28
 
 ## Participant Scores
 
@@ -16,11 +16,11 @@
 | 8 | 62 | Amber Wilson |
 | 9 | 60 | Asani CHumba |
 | 10 | 40 | Leavon Smith |
-| 11 | 30 | Slinky Party |
-| 12 | 30 | Lester Malone |
-| 13 | 22 | Tanisha Taylor |
-| 14 | 20 | Robyn Caldwell |
-| 15 | 17 | Saucy Crusher |
+| 11 | 30 | Lester Malone |
+| 12 | 30 | Slinky Party |
+| 13 | 23 | Saucy Crusher |
+| 14 | 22 | Tanisha Taylor |
+| 15 | 20 | Robyn Caldwell |
 | 16 | 17 | Jai |
 | 17 | 16 | Jenni |
 | 18 | 16 | Mafio SO |
@@ -33,6 +33,7 @@
 | 25 | 8 | Zany Breaker |
 | 26 | 7 | Mary2 |
 | 27 | 7 | Tina Criam |
+| 28 | 7 | Kendra McIntyre |
 
 ---
 *Standings created by tournaments datasource generation tool*

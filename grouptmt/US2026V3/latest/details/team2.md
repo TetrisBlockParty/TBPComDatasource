@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 12:24:13 UTC
+# Standings for team2 as of 2026-06-05 12:24:34 UTC
 
 **Total Participants:** 36
 
@@ -16,32 +16,32 @@
 | 8 | 35 | Michelle Anne |
 | 9 | 33 | Tango Sierra |
 | 10 | 30 | Patti Ward |
-| 11 | 26 | Rachel Huber |
+| 11 | 27 | Michael Carmichael |
 | 12 | 26 | Ariel Gundersen |
-| 13 | 25 | Jgato |
-| 14 | 23 | IncrediDragon |
+| 13 | 26 | Rachel Huber |
+| 14 | 25 | Jgato |
 | 15 | 23 | Damion Morrison |
-| 16 | 18 | Sara BlueEyes |
+| 16 | 23 | IncrediDragon |
 | 17 | 18 | Tracey Cox |
-| 18 | 18 | Michael Carmichael |
+| 18 | 18 | Sara BlueEyes |
 | 19 | 12 | Mary |
 | 20 | 12 | Stacey Loretta Wallace |
 | 21 | 11 | Lora Via |
-| 22 | 10 | Berta Hurley |
-| 23 | 10 | Bon Lynn |
-| 24 | 10 | Twisty Snapmatch |
-| 25 | 8 | Joyce Galloway |
-| 26 | 7 | Cherica Taylor |
-| 27 | 7 | Peter Fogg |
-| 28 | 6 | Mama G |
-| 29 | 6 | fancypants |
-| 30 | 5 | LittleHippoEars |
-| 31 | 5 | Allison Peterson |
-| 32 | 5 | Darla Ragsdale |
-| 33 | 5 | Jason Cunningham |
-| 34 | 5 | Tashamonique Puckey |
-| 35 | 5 | Devon |
-| 36 | 5 | Thy Bui |
+| 22 | 11 | Thy Bui |
+| 23 | 10 | Twisty Snapmatch |
+| 24 | 10 | Bon Lynn |
+| 25 | 10 | Berta Hurley |
+| 26 | 8 | Joyce Galloway |
+| 27 | 7 | Cherica Taylor |
+| 28 | 7 | Peter Fogg |
+| 29 | 6 | Mama G |
+| 30 | 6 | fancypants |
+| 31 | 5 | LittleHippoEars |
+| 32 | 5 | Allison Peterson |
+| 33 | 5 | Darla Ragsdale |
+| 34 | 5 | Jason Cunningham |
+| 35 | 5 | Tashamonique Puckey |
+| 36 | 5 | Devon |
 
 ---
 *Standings created by tournaments datasource generation tool*
