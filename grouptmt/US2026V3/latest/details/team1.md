@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 20:50:14 UTC
+# Standings for team1 as of 2026-06-05 20:50:37 UTC
 
 **Total Participants:** 492
 
@@ -63,16 +63,16 @@
 | 55 | 156 | Jessica Russell |
 | 56 | 151 | Dacia Hicks |
 | 57 | 149 | GrkGdess |
-| 58 | 140 | Felicia Cain |
-| 59 | 140 | Ann Chung |
-| 60 | 137 | BlackQueen105 |
-| 61 | 136 | Anthony Washington |
-| 62 | 135 | Voice |
-| 63 | 135 | Jawaun Daniels |
-| 64 | 132 | Robyn Caldwell |
-| 65 | 130 | Lashaunda |
+| 58 | 140 | Ann Chung |
+| 59 | 140 | Felicia Cain |
+| 60 | 138 | Eric Mcgaughy |
+| 61 | 137 | BlackQueen105 |
+| 62 | 136 | Anthony Washington |
+| 63 | 135 | Voice |
+| 64 | 135 | Jawaun Daniels |
+| 65 | 132 | Robyn Caldwell |
 | 66 | 130 | Emily Wright |
-| 67 | 128 | Eric Mcgaughy |
+| 67 | 130 | Lashaunda |
 | 68 | 127 | SPNLover24 |
 | 69 | 126 | Cee Emm |
 | 70 | 124 | Hunter Rayborn |
@@ -83,16 +83,16 @@
 | 75 | 107 | TBABYJ |
 | 76 | 105 | Katrina Ramey |
 | 77 | 103 | Atlantalindi |
-| 78 | 103 | KenpachisGirl |
-| 79 | 103 | David Fuentes |
+| 78 | 103 | David Fuentes |
+| 79 | 103 | KenpachisGirl |
 | 80 | 102 | Mimi 1.0 |
 | 81 | 100 | Char |
-| 82 | 100 | Jessica Carter |
-| 83 | 100 | Zippy Lifter |
-| 84 | 100 | Cool Bridger |
+| 82 | 100 | Cool Bridger |
+| 83 | 100 | Jessica Carter |
+| 84 | 100 | Zippy Lifter |
 | 85 | 99 | 신재호 |
-| 86 | 96 | Simone Bailey |
-| 87 | 96 | Cortaz Lawrie |
+| 86 | 96 | Cortaz Lawrie |
+| 87 | 96 | Simone Bailey |
 | 88 | 95 | Nate Myers |
 | 89 | 88 | QueenShay AllGood |
 | 90 | 86 | Jack Vlasak |
