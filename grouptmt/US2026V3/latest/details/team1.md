@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 19:28:15 UTC
+# Standings for team1 as of 2026-06-05 19:28:36 UTC
 
 **Total Participants:** 432
 
@@ -416,28 +416,28 @@
 | 408 | 6 | Christopher Wallace |
 | 409 | 6 | Brittnay Wright |
 | 410 | 6 | Cece Fowler |
-| 411 | 5 | Chill Linkroll |
+| 411 | 5 | KeeKee Williams |
 | 412 | 5 | Stephanie Zuniga Tullock |
 | 413 | 5 | DirtiestofMikes |
 | 414 | 5 | Jenni Hardman |
 | 415 | 5 | Temeshia Brooks Washington |
-| 416 | 5 | KeeKee Williams |
-| 417 | 5 | Derek Beverly |
-| 418 | 5 | Wacky Towerer |
-| 419 | 5 | Lil T |
-| 420 | 5 | Glitzy Clusterer |
-| 421 | 5 | Shawn Himes |
-| 422 | 5 | Andre Sanon |
-| 423 | 5 | Kidgib5 |
+| 416 | 5 | Derek Beverly |
+| 417 | 5 | Wacky Towerer |
+| 418 | 5 | Lil T |
+| 419 | 5 | Glitzy Clusterer |
+| 420 | 5 | Chill Linkroll |
+| 421 | 5 | Vernon Hoyt |
+| 422 | 5 | Kidgib5 |
+| 423 | 5 | Andre Sanon |
 | 424 | 5 | Jennifer Moore |
 | 425 | 5 | Zappy Clearfit |
 | 426 | 5 | Barbramerri Tarboro |
-| 427 | 5 | pooh |
-| 428 | 5 | Jjhandsome |
-| 429 | 5 | Saucy Linkgrid |
-| 430 | 5 | Tamika Fisher |
-| 431 | 5 | Rieshelda Marie White |
-| 432 | 5 | Vernon Hoyt |
+| 427 | 5 | Shawn Himes |
+| 428 | 5 | pooh |
+| 429 | 5 | Jjhandsome |
+| 430 | 5 | Saucy Linkgrid |
+| 431 | 5 | Tamika Fisher |
+| 432 | 5 | Rieshelda Marie White |
 
 ---
 *Standings created by tournaments datasource generation tool*
