@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-06-05 12:48:13 UTC
+# Standings for team4 as of 2026-06-05 12:48:37 UTC
 
-**Total Participants:** 63
+**Total Participants:** 64
 
 ## Participant Scores
 
@@ -50,25 +50,26 @@
 | 42 | 12 | Alizabeth Garcia |
 | 43 | 12 | Mrs |
 | 44 | 10 | Hasty Dropzone |
-| 45 | 10 | Breezy Blockzone |
-| 46 | 10 | Jonelle Jacobs |
-| 47 | 10 | Karen Rodriguez |
-| 48 | 10 | Lateasha Wildman |
-| 49 | 10 | Buchanon Bossingup Jadrienne |
-| 50 | 9 | Catherine Garza |
+| 45 | 10 | Buchanon Bossingup Jadrienne |
+| 46 | 10 | Breezy Blockzone |
+| 47 | 10 | Lateasha Wildman |
+| 48 | 10 | Karen Rodriguez |
+| 49 | 10 | Jonelle Jacobs |
+| 50 | 9 | Snippy Grid |
 | 51 | 9 | Hotstuff |
-| 52 | 9 | Snippy Grid |
+| 52 | 9 | Catherine Garza |
 | 53 | 8 | Sisi RedVelvet Reneè |
 | 54 | 7 | George Palacios |
 | 55 | 6 | Deb 07 |
 | 56 | 6 | Dizzy |
-| 57 | 5 | Swanky Zigzag |
-| 58 | 5 | Mighty1 |
-| 59 | 5 | Cflixer |
-| 60 | 5 | Zappy Matchgrid |
-| 61 | 5 | Jason Garnatz |
-| 62 | 5 | Lively Cascadeclear |
-| 63 | 5 | Jeremy Barry |
+| 57 | 6 | Colin |
+| 58 | 5 | Jason Garnatz |
+| 59 | 5 | Jeremy Barry |
+| 60 | 5 | Lively Cascadeclear |
+| 61 | 5 | Zappy Matchgrid |
+| 62 | 5 | Cflixer |
+| 63 | 5 | Mighty1 |
+| 64 | 5 | Swanky Zigzag |
 
 ---
 *Standings created by tournaments datasource generation tool*
