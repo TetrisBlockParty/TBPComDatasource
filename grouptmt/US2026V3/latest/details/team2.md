@@ -1,14 +1,14 @@
-# Standings for team2 as of 2026-06-05 13:07:12 UTC
+# Standings for team2 as of 2026-06-05 13:08:12 UTC
 
-**Total Participants:** 75
+**Total Participants:** 77
 
 ## Participant Scores
 
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 1702 | Puce guide 9156 |
-| 2 | 1240 | Jewels |
-| 3 | 1100 | Mocha |
+| 2 | 1300 | Mocha |
+| 3 | 1240 | Jewels |
 | 4 | 1100 | Kathleen M Cox |
 | 5 | 757 | Crystal M Sowden |
 | 6 | 663 | Logan Basham |
@@ -32,55 +32,57 @@
 | 24 | 35 | Jason Cunningham |
 | 25 | 33 | Tango Sierra |
 | 26 | 31 | Kenzie |
-| 27 | 30 | Patti Ward |
-| 28 | 30 | Peter Fogg |
+| 27 | 30 | Peter Fogg |
+| 28 | 30 | Patti Ward |
 | 29 | 28 | Sara BlueEyes |
 | 30 | 27 | Michael Carmichael |
 | 31 | 27 | Rick |
-| 32 | 26 | Ariel Gundersen |
-| 33 | 26 | Rachel Huber |
-| 34 | 26 | Henny Henny |
-| 35 | 26 | Quina Jesse Fejaran |
+| 32 | 26 | Henny Henny |
+| 33 | 26 | Quina Jesse Fejaran |
+| 34 | 26 | Rachel Huber |
+| 35 | 26 | Ariel Gundersen |
 | 36 | 25 | Jgato |
 | 37 | 24 | Dayna Messer-Thelen |
 | 38 | 24 | A.j. Langley |
-| 39 | 23 | Damion Morrison |
-| 40 | 23 | IncrediDragon |
+| 39 | 23 | IncrediDragon |
+| 40 | 23 | Damion Morrison |
 | 41 | 22 | Jeff Pottgether |
 | 42 | 21 | Kelly |
-| 43 | 20 | AcardBoardBox |
-| 44 | 20 | ChefDeb |
+| 43 | 20 | ChefDeb |
+| 44 | 20 | AcardBoardBox |
 | 45 | 18 | Tracey Cox |
-| 46 | 16 | Wendy McKee |
+| 46 | 18 | Wendy McKee |
 | 47 | 14 | Harper |
-| 48 | 12 | Chirpy Grid |
+| 48 | 12 | Diamond Balotje |
 | 49 | 12 | Stacey Loretta Wallace |
-| 50 | 12 | Mary |
-| 51 | 12 | Diamond Balotje |
+| 50 | 12 | Chirpy Grid |
+| 51 | 12 | Mary |
 | 52 | 11 | Thy Bui |
 | 53 | 11 | Lora Via |
-| 54 | 10 | Thomas Johnstone |
-| 55 | 10 | Twisty Snapmatch |
-| 56 | 10 | Joyce Galloway |
-| 57 | 10 | Berta Hurley |
-| 58 | 10 | Donna Casey |
-| 59 | 10 | Jennifer Bell |
-| 60 | 10 | Gill |
-| 61 | 10 | Justin Furne |
-| 62 | 9 | Princess Cucumber |
-| 63 | 9 | Giggly Spinblock |
-| 64 | 9 | Mama G |
+| 54 | 10 | Joyce Galloway |
+| 55 | 10 | Berta Hurley |
+| 56 | 10 | Donna Casey |
+| 57 | 10 | Gill |
+| 58 | 10 | Thomas Johnstone |
+| 59 | 10 | Justin Furne |
+| 60 | 10 | Twisty Snapmatch |
+| 61 | 10 | Jennifer Bell |
+| 62 | 9 | Giggly Spinblock |
+| 63 | 9 | Jessica Perkins |
+| 64 | 9 | Princess Cucumber |
 | 65 | 9 | Darla Ragsdale |
-| 66 | 7 | nova |
-| 67 | 7 | Cherica Taylor |
-| 68 | 7 | Elizabeth Elaine Coursey |
-| 69 | 7 | Epic Framezone |
-| 70 | 6 | Andre Love |
-| 71 | 6 | Kelly Christine Trimmer |
-| 72 | 6 | fancypants |
-| 73 | 5 | Allison Peterson |
-| 74 | 5 | Tashamonique Puckey |
+| 66 | 9 | Mama G |
+| 67 | 7 | Elizabeth Elaine Coursey |
+| 68 | 7 | Epic Framezone |
+| 69 | 7 | nova |
+| 70 | 7 | Jamie Fenyus |
+| 71 | 7 | Cherica Taylor |
+| 72 | 6 | Andre Love |
+| 73 | 6 | fancypants |
+| 74 | 6 | Kelly Christine Trimmer |
 | 75 | 5 | Devon |
+| 76 | 5 | Allison Peterson |
+| 77 | 5 | Tashamonique Puckey |
 
 ---
 *Standings created by tournaments datasource generation tool*
