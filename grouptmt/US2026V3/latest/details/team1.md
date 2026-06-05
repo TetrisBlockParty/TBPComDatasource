@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 22:08:16 UTC
+# Standings for team1 as of 2026-06-05 22:08:37 UTC
 
 **Total Participants:** 546
 
@@ -18,8 +18,8 @@
 | 10 | 839 | Chris Russell |
 | 11 | 827 | Juan Kandiss Escobedo Irwin |
 | 12 | 749 | Aviv Zehavi |
-| 13 | 617 | Charnay Peacock |
-| 14 | 611 | Epic Snapfall |
+| 13 | 641 | Epic Snapfall |
+| 14 | 617 | Charnay Peacock |
 | 15 | 580 | Janet Cooke |
 | 16 | 576 | Ashley Espeut |
 | 17 | 540 | Kellie Hall |
@@ -502,21 +502,21 @@
 | 494 | 8 | Brenda Brogden |
 | 495 | 8 | jus_ry |
 | 496 | 8 | Sarah Barnum |
-| 497 | 8 | Brika Brika |
-| 498 | 7 | Kendra McIntyre |
+| 497 | 8 | Chevonne Huggins |
+| 498 | 8 | Brika Brika |
 | 499 | 7 | Mary2 |
 | 500 | 7 | Shane Brucewayne |
-| 501 | 7 | wmedina67 |
-| 502 | 7 | whatever |
-| 503 | 7 | Chevonne Huggins |
+| 501 | 7 | Kendra McIntyre |
+| 502 | 7 | wmedina67 |
+| 503 | 7 | whatever |
 | 504 | 7 | Andrew Harris |
 | 505 | 7 | Analesia Taylor |
 | 506 | 6 | Wacky Towerer |
 | 507 | 6 | Jeffrey Barrows |
 | 508 | 6 | Allison Baxter |
-| 509 | 6 | Daring Riserfit |
-| 510 | 6 | Jelyfish |
-| 511 | 6 | Boricua64 |
+| 509 | 6 | Jelyfish |
+| 510 | 6 | Boricua64 |
+| 511 | 6 | Daring Riserfit |
 | 512 | 6 | Janine Hunter |
 | 513 | 6 | Gael Quintana |
 | 514 | 6 | Betsy B. Yohan |
@@ -528,30 +528,30 @@
 | 520 | 5 | Logan Frost |
 | 521 | 5 | Stephanie Zuniga Tullock |
 | 522 | 5 | Tito Divyn |
-| 523 | 5 | Duckey |
-| 524 | 5 | Jasmine Hariston-Estis |
-| 525 | 5 | Shawn Himes |
-| 526 | 5 | Temeshia Brooks Washington |
-| 527 | 5 | Saucy Linkgrid |
-| 528 | 5 | KeeKee Williams |
-| 529 | 5 | Rieshelda Marie White |
-| 530 | 5 | Hasty Brickzone |
-| 531 | 5 | Derek Beverly |
-| 532 | 5 | DirtiestofMikes |
-| 533 | 5 | Lil T |
-| 534 | 5 | Kidgib5 |
-| 535 | 5 | Jennifer Moore |
-| 536 | 5 | Chill Linkroll |
-| 537 | 5 | Vernon Hoyt |
-| 538 | 5 | the guy |
-| 539 | 5 | Shakuria Cortia Burney |
-| 540 | 5 | Jjhandsome |
-| 541 | 5 | pooh |
-| 542 | 5 | Barbramerri Tarboro |
-| 543 | 5 | Mommy Frank |
-| 544 | 5 | Andre Sanon |
-| 545 | 5 | Zappy Clearfit |
-| 546 | 5 | Tamika Fisher |
+| 523 | 5 | Jasmine Hariston-Estis |
+| 524 | 5 | Shawn Himes |
+| 525 | 5 | Temeshia Brooks Washington |
+| 526 | 5 | Saucy Linkgrid |
+| 527 | 5 | KeeKee Williams |
+| 528 | 5 | Rieshelda Marie White |
+| 529 | 5 | Hasty Brickzone |
+| 530 | 5 | Derek Beverly |
+| 531 | 5 | DirtiestofMikes |
+| 532 | 5 | Lil T |
+| 533 | 5 | Tamika Fisher |
+| 534 | 5 | Andre Sanon |
+| 535 | 5 | Duckey |
+| 536 | 5 | Kidgib5 |
+| 537 | 5 | Zappy Clearfit |
+| 538 | 5 | Mommy Frank |
+| 539 | 5 | Barbramerri Tarboro |
+| 540 | 5 | pooh |
+| 541 | 5 | Jjhandsome |
+| 542 | 5 | Shakuria Cortia Burney |
+| 543 | 5 | the guy |
+| 544 | 5 | Vernon Hoyt |
+| 545 | 5 | Chill Linkroll |
+| 546 | 5 | Jennifer Moore |
 
 ---
 *Standings created by tournaments datasource generation tool*
