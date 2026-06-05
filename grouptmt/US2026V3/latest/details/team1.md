@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 21:56:14 UTC
+# Standings for team1 as of 2026-06-05 21:56:37 UTC
 
 **Total Participants:** 534
 
@@ -84,9 +84,9 @@
 | 76 | 118 | Hasty Pivoty |
 | 77 | 116 | Eartha Brown |
 | 78 | 115 | Tamara N Lee |
-| 79 | 111 | Shalena Marie Humphrey |
-| 80 | 110 | Atlantalindi |
-| 81 | 110 | Mimi 1.0 |
+| 79 | 114 | Mimi 1.0 |
+| 80 | 111 | Shalena Marie Humphrey |
+| 81 | 110 | Atlantalindi |
 | 82 | 107 | TBABYJ |
 | 83 | 105 | Katrina Ramey |
 | 84 | 104 | Frisky Fall |
@@ -131,18 +131,18 @@
 | 123 | 67 | The DUBZ |
 | 124 | 67 | Michele Elizabeth McKay-Johnson |
 | 125 | 66 | Shontanese Adams |
-| 126 | 65 | MamaBear |
-| 127 | 65 | Latore Maxie |
+| 126 | 65 | Latore Maxie |
+| 127 | 65 | MamaBear |
 | 128 | 65 | Jazzy Bridger |
-| 129 | 62 | Cheeky Pop |
-| 130 | 62 | Songne Arif |
+| 129 | 62 | Songne Arif |
+| 130 | 62 | Cheeky Pop |
 | 131 | 61 | Angela R Wilson |
-| 132 | 60 | Marcheta Cervantez |
+| 132 | 60 | Queenie Perry |
 | 133 | 60 | Christi Walker Patton |
 | 134 | 60 | Valerie Alexander |
 | 135 | 60 | Lilly Brown |
 | 136 | 60 | Kristie |
-| 137 | 60 | Queenie Perry |
+| 137 | 60 | Marcheta Cervantez |
 | 138 | 60 | Christian Pham |
 | 139 | 60 | Boldy Liner |
 | 140 | 60 | Cachet A Ward |
@@ -153,106 +153,106 @@
 | 145 | 58 | Tobey Marberry |
 | 146 | 58 | Todd C. Clemens |
 | 147 | 57 | Tosha Michelle |
-| 148 | 56 | Dena Marie Lee |
-| 149 | 56 | Nichelle Warren |
+| 148 | 56 | Nichelle Warren |
+| 149 | 56 | Dena Marie Lee |
 | 150 | 55 | KoolKimJay |
 | 151 | 55 | Kyle Franklin |
-| 152 | 52 | Keke Ferguson |
-| 153 | 52 | Loopy Risepiece |
-| 154 | 52 | TT |
-| 155 | 51 | Comedian Gdane |
-| 156 | 50 | Yazz |
-| 157 | 50 | Skippy |
-| 158 | 50 | Dai Bo |
-| 159 | 50 | Donna Payne |
-| 160 | 50 | Antoinette Jones |
-| 161 | 50 | BabyCakes |
-| 162 | 50 | Clever Wrecker |
+| 152 | 53 | Clever Wrecker |
+| 153 | 52 | Keke Ferguson |
+| 154 | 52 | Loopy Risepiece |
+| 155 | 52 | TT |
+| 156 | 51 | Comedian Gdane |
+| 157 | 50 | Dai Bo |
+| 158 | 50 | Skippy |
+| 159 | 50 | Teresa Yanira Cepeda |
+| 160 | 50 | Donna Payne |
+| 161 | 50 | Yazz |
+| 162 | 50 | BabyCakes |
 | 163 | 50 | Slinky Party |
-| 164 | 50 | Teresa Yanira Cepeda |
+| 164 | 50 | Antoinette Jones |
 | 165 | 49 | LexiiSamayaa |
-| 166 | 48 | Comedian Prince Paul |
-| 167 | 48 | Sonia Binti Mfalme |
-| 168 | 47 | Christopher Dreamsareality McEachin |
-| 169 | 47 | Derrius SeriousLee Burks |
-| 170 | 47 | Poppy Twister |
+| 166 | 48 | Sonia Binti Mfalme |
+| 167 | 48 | Comedian Prince Paul |
+| 168 | 47 | Derrius SeriousLee Burks |
+| 169 | 47 | Poppy Twister |
+| 170 | 47 | Christopher Dreamsareality McEachin |
 | 171 | 46 | David A Alvino |
 | 172 | 45 | Guy Incognito |
-| 173 | 45 | Slinky Clearzone |
-| 174 | 45 | Renee J. Thomas |
+| 173 | 45 | Renee J. Thomas |
+| 174 | 45 | Slinky Clearzone |
 | 175 | 45 | Daris Swearington |
-| 176 | 44 | Breezy Catcher |
-| 177 | 44 | Andi McGreevy |
-| 178 | 43 | IThinkNot |
+| 176 | 44 | Andi McGreevy |
+| 177 | 44 | Breezy Catcher |
+| 178 | 43 | Byron Mario Cawthon |
 | 179 | 43 | Brenda Malachi-butler |
-| 180 | 43 | Byron Mario Cawthon |
+| 180 | 43 | Brittany Fells |
 | 181 | 43 | Rachel Renae Bettis |
-| 182 | 43 | Brittany Fells |
+| 182 | 43 | IThinkNot |
 | 183 | 43 | Block |
-| 184 | 42 | Dandy Brickfit |
+| 184 | 42 | Yashica Smith |
 | 185 | 42 | sasha |
-| 186 | 42 | Yashica Smith |
+| 186 | 42 | Dandy Brickfit |
 | 187 | 42 | Jack Mehof |
 | 188 | 41 | Cranky Fall |
-| 189 | 40 | Rackemwillie34 |
-| 190 | 40 | Kamilya Rembert |
-| 191 | 40 | Flashy Slam |
-| 192 | 40 | Larina Cherie Johnson |
-| 193 | 40 | Leavon Smith |
-| 194 | 40 | Nutty Spinblock |
-| 195 | 40 | HarleyJane |
-| 196 | 40 | Heather Aurelia |
-| 197 | 40 | Jean Regis |
-| 198 | 40 | Nisha Sunshine Jenkins |
-| 199 | 40 | Devin West |
+| 189 | 40 | Jean Regis |
+| 190 | 40 | Leavon Smith |
+| 191 | 40 | Rackemwillie34 |
+| 192 | 40 | Heather Aurelia |
+| 193 | 40 | Devin West |
+| 194 | 40 | Flashy Slam |
+| 195 | 40 | Kamilya Rembert |
+| 196 | 40 | Nisha Sunshine Jenkins |
+| 197 | 40 | HarleyJane |
+| 198 | 40 | Nutty Spinblock |
+| 199 | 40 | Larina Cherie Johnson |
 | 200 | 40 | Tori Carter |
-| 201 | 39 | JesusSaves 😇 |
+| 201 | 39 | Jae Thompson-Tyus |
 | 202 | 39 | Lexx Robins |
 | 203 | 39 | Sabrina Wilkerson |
-| 204 | 39 | Jae Thompson-Tyus |
-| 205 | 39 | Sarah Steckbauer |
-| 206 | 38 | Tonya Thomas |
-| 207 | 38 | rls |
-| 208 | 38 | Steve Reno |
-| 209 | 38 | Earl Williams |
-| 210 | 38 | hope |
-| 211 | 38 | Raquel Ortiz |
-| 212 | 38 | Kahliah Baker |
-| 213 | 37 | Jackytrain52 |
-| 214 | 37 | Jojo M |
+| 204 | 39 | Sarah Steckbauer |
+| 205 | 39 | JesusSaves 😇 |
+| 206 | 38 | Raquel Ortiz |
+| 207 | 38 | Tonya Thomas |
+| 208 | 38 | Earl Williams |
+| 209 | 38 | rls |
+| 210 | 38 | Steve Reno |
+| 211 | 38 | Kahliah Baker |
+| 212 | 38 | hope |
+| 213 | 37 | Lootch |
+| 214 | 37 | Jackytrain52 |
 | 215 | 37 | Melissa D. M. Hornsby |
 | 216 | 37 | Calvin Green |
-| 217 | 37 | Lootch |
-| 218 | 36 | Lynnette WheelerBushnell |
-| 219 | 36 | Sunny Riserbuilder |
-| 220 | 36 | Wild Out Nai |
-| 221 | 35 | HBTone |
-| 222 | 35 | Jolly Tilefall |
-| 223 | 35 | Glitzy Clusterer |
-| 224 | 35 | Jumpy Gridlock |
-| 225 | 35 | Wacky Stackbuilder |
-| 226 | 35 | Sashaleo |
-| 227 | 35 | messyboots |
+| 217 | 37 | Jojo M |
+| 218 | 36 | Wild Out Nai |
+| 219 | 36 | Lynnette WheelerBushnell |
+| 220 | 36 | Sunny Riserbuilder |
+| 221 | 35 | messyboots |
+| 222 | 35 | Sashaleo |
+| 223 | 35 | Wacky Stackbuilder |
+| 224 | 35 | Jolly Tilefall |
+| 225 | 35 | Kimberly Red |
+| 226 | 35 | HBTone |
+| 227 | 35 | Jumpy Gridlock |
 | 228 | 35 | Saucy Crusher |
-| 229 | 35 | Kimberly Red |
-| 230 | 34 | Elizabeth Hopkins |
-| 231 | 34 | Tiana Moore |
-| 232 | 33 | Mom3granny2 |
-| 233 | 33 | Karen Denen |
-| 234 | 33 | Block King |
-| 235 | 33 | Krose Byers |
-| 236 | 33 | Chris Nelson |
-| 237 | 33 | Richard Flex |
-| 238 | 33 | Crtjstr |
-| 239 | 33 | Rene Hicks |
+| 229 | 35 | Glitzy Clusterer |
+| 230 | 34 | Tiana Moore |
+| 231 | 34 | Elizabeth Hopkins |
+| 232 | 33 | Block King |
+| 233 | 33 | Krose Byers |
+| 234 | 33 | Mom3granny2 |
+| 235 | 33 | Crtjstr |
+| 236 | 33 | Richard Flex |
+| 237 | 33 | Rene Hicks |
+| 238 | 33 | Karen Denen |
+| 239 | 33 | Chris Nelson |
 | 240 | 33 | Tonny Williams |
-| 241 | 32 | Kimberly Hernandez |
-| 242 | 32 | Tyrone Porter |
-| 243 | 32 | Sylvia Offically A Mcgowan |
-| 244 | 32 | Melvin Simpson |
-| 245 | 32 | Maribel Vasquez |
-| 246 | 32 | Tomme Poliwka |
-| 247 | 32 | Dee McCool |
+| 241 | 32 | Tyrone Porter |
+| 242 | 32 | Melvin Simpson |
+| 243 | 32 | Dee McCool |
+| 244 | 32 | Kimberly Hernandez |
+| 245 | 32 | Tomme Poliwka |
+| 246 | 32 | Maribel Vasquez |
+| 247 | 32 | Sylvia Offically A Mcgowan |
 | 248 | 31 | Boldy Pivoty |
 | 249 | 31 | Miera Nicole |
 | 250 | 31 | Kelvin Cook |
@@ -481,65 +481,65 @@
 | 473 | 9 | Douglas Price |
 | 474 | 8 | Rixo Blax |
 | 475 | 8 | Ferocity |
-| 476 | 8 | Shawna Passwater |
-| 477 | 8 | Mahagony Small |
-| 478 | 8 | Cm |
-| 479 | 8 | Caitlin Michele |
-| 480 | 8 | Tanesha Ga'sFinest Corbett |
+| 476 | 8 | Tanesha Ga'sFinest Corbett |
+| 477 | 8 | Cm |
+| 478 | 8 | Mahagony Small |
+| 479 | 8 | jus_ry |
+| 480 | 8 | Caitlin Michele |
 | 481 | 8 | Nerdy Twistline |
-| 482 | 8 | Ashley Davis |
-| 483 | 8 | Teresa Bean |
-| 484 | 8 | Terrie |
-| 485 | 8 | Brenda Brogden |
-| 486 | 8 | jus_ry |
-| 487 | 8 | Brika Brika |
+| 482 | 8 | Teresa Bean |
+| 483 | 8 | Terrie |
+| 484 | 8 | Brenda Brogden |
+| 485 | 8 | Brika Brika |
+| 486 | 8 | Shawna Passwater |
+| 487 | 8 | Ashley Davis |
 | 488 | 7 | Analesia Taylor |
-| 489 | 7 | Kendra McIntyre |
-| 490 | 7 | Andrew Harris |
+| 489 | 7 | Andrew Harris |
+| 490 | 7 | Kendra McIntyre |
 | 491 | 7 | Mary2 |
 | 492 | 7 | Shane Brucewayne |
 | 493 | 7 | wmedina67 |
 | 494 | 7 | whatever |
-| 495 | 6 | Cece Fowler |
-| 496 | 6 | Janine Hunter |
-| 497 | 6 | Gael Quintana |
-| 498 | 6 | Boricua64 |
-| 499 | 6 | Jelyfish |
-| 500 | 6 | Jeffrey Barrows |
+| 495 | 6 | Betsy B. Yohan |
+| 496 | 6 | Jelyfish |
+| 497 | 6 | Boricua64 |
+| 498 | 6 | Gael Quintana |
+| 499 | 6 | Jeffrey Barrows |
+| 500 | 6 | Cece Fowler |
 | 501 | 6 | Daring Riserfit |
-| 502 | 6 | Wacky Towerer |
-| 503 | 6 | Allison Baxter |
-| 504 | 6 | Brittnay Wright |
-| 505 | 6 | Betsy B. Yohan |
-| 506 | 6 | Wu May |
-| 507 | 6 | NEM0228 |
-| 508 | 6 | Frances Davis |
-| 509 | 6 | Christopher Wallace |
-| 510 | 5 | KeeKee Williams |
-| 511 | 5 | Kidgib5 |
-| 512 | 5 | Lil T |
-| 513 | 5 | Derek Beverly |
-| 514 | 5 | DirtiestofMikes |
-| 515 | 5 | Rieshelda Marie White |
-| 516 | 5 | Saucy Linkgrid |
-| 517 | 5 | Jennifer Moore |
-| 518 | 5 | Temeshia Brooks Washington |
-| 519 | 5 | Jasmine Hariston-Estis |
-| 520 | 5 | Stephanie Zuniga Tullock |
-| 521 | 5 | Tito Divyn |
-| 522 | 5 | Andre Sanon |
-| 523 | 5 | Shawn Himes |
-| 524 | 5 | Tamika Fisher |
-| 525 | 5 | Zappy Clearfit |
-| 526 | 5 | Logan Frost |
+| 502 | 6 | NEM0228 |
+| 503 | 6 | Frances Davis |
+| 504 | 6 | Wacky Towerer |
+| 505 | 6 | Brittnay Wright |
+| 506 | 6 | Allison Baxter |
+| 507 | 6 | Christopher Wallace |
+| 508 | 6 | Wu May |
+| 509 | 6 | Janine Hunter |
+| 510 | 5 | Rieshelda Marie White |
+| 511 | 5 | Saucy Linkgrid |
+| 512 | 5 | KeeKee Williams |
+| 513 | 5 | Temeshia Brooks Washington |
+| 514 | 5 | Stephanie Zuniga Tullock |
+| 515 | 5 | Vernon Hoyt |
+| 516 | 5 | Tamika Fisher |
+| 517 | 5 | pooh |
+| 518 | 5 | Jasmine Hariston-Estis |
+| 519 | 5 | DirtiestofMikes |
+| 520 | 5 | Derek Beverly |
+| 521 | 5 | Lil T |
+| 522 | 5 | Kidgib5 |
+| 523 | 5 | Jennifer Moore |
+| 524 | 5 | Chill Linkroll |
+| 525 | 5 | the guy |
+| 526 | 5 | Shakuria Cortia Burney |
 | 527 | 5 | Mommy Frank |
-| 528 | 5 | Barbramerri Tarboro |
-| 529 | 5 | pooh |
-| 530 | 5 | Jjhandsome |
-| 531 | 5 | Shakuria Cortia Burney |
-| 532 | 5 | the guy |
-| 533 | 5 | Vernon Hoyt |
-| 534 | 5 | Chill Linkroll |
+| 528 | 5 | Tito Divyn |
+| 529 | 5 | Shawn Himes |
+| 530 | 5 | Zappy Clearfit |
+| 531 | 5 | Logan Frost |
+| 532 | 5 | Andre Sanon |
+| 533 | 5 | Barbramerri Tarboro |
+| 534 | 5 | Jjhandsome |
 
 ---
 *Standings created by tournaments datasource generation tool*
