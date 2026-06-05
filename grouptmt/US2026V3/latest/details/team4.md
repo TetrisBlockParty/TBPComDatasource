@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 18:24:36 UTC
+# Standings for team4 as of 2026-06-05 18:25:14 UTC
 
 **Total Participants:** 355
 
@@ -122,8 +122,8 @@
 | 114 | 49 | smarty |
 | 115 | 49 | Daring Brickbuilder |
 | 116 | 48 | Joseph Hunter |
-| 117 | 46 | Phil Peterson |
-| 118 | 45 | Bouncy |
+| 117 | 46 | Bouncy |
+| 118 | 46 | Phil Peterson |
 | 119 | 44 | Lul Babie |
 | 120 | 43 | Tipsy Zonebuilder |
 | 121 | 43 | Karen Rodriguez |
