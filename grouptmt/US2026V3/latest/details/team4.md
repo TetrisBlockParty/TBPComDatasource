@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 20:34:36 UTC
+# Standings for team4 as of 2026-06-05 20:35:14 UTC
 
 **Total Participants:** 428
 
@@ -343,10 +343,10 @@
 | 335 | 15 | Boldy Rumbler |
 | 336 | 15 | Jennifer Terrill |
 | 337 | 15 | babygirlw |
-| 338 | 14 | Kimberly Lusk |
-| 339 | 14 | Dolores Falco |
-| 340 | 14 | Bold Tumbler |
-| 341 | 14 | Dapper Tiltpiece |
+| 338 | 15 | Dapper Tiltpiece |
+| 339 | 14 | Kimberly Lusk |
+| 340 | 14 | Dolores Falco |
+| 341 | 14 | Bold Tumbler |
 | 342 | 14 | Kay |
 | 343 | 14 | Ricky Colvin |
 | 344 | 14 | EpicWizard |
