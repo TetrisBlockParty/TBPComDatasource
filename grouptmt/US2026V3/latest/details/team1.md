@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 18:54:15 UTC
+# Standings for team1 as of 2026-06-05 18:54:38 UTC
 
 **Total Participants:** 404
 
@@ -53,7 +53,7 @@
 | 45 | 162 | Markeeta Lipscomb |
 | 46 | 156 | Jessica Russell |
 | 47 | 151 | Dacia Hicks |
-| 48 | 141 | Blockhead |
+| 48 | 147 | Blockhead |
 | 49 | 140 | JoJo |
 | 50 | 140 | Ann Chung |
 | 51 | 137 | BlackQueen105 |
@@ -390,7 +390,7 @@
 | 382 | 6 | Frances Davis |
 | 383 | 6 | Brittnay Wright |
 | 384 | 6 | Cece Fowler |
-| 385 | 5 | Andre Sanon |
+| 385 | 5 | Barbramerri Tarboro |
 | 386 | 5 | Stephanie Zuniga Tullock |
 | 387 | 5 | Jenni Hardman |
 | 388 | 5 | Temeshia Brooks Washington |
@@ -400,16 +400,16 @@
 | 392 | 5 | Lil T |
 | 393 | 5 | Shawn Himes |
 | 394 | 5 | Tamika Fisher |
-| 395 | 5 | Rieshelda Marie White |
-| 396 | 5 | Zappy Clearfit |
-| 397 | 5 | Saucy Linkgrid |
-| 398 | 5 | Vernon Hoyt |
-| 399 | 5 | DirtiestofMikes |
-| 400 | 5 | Jjhandsome |
-| 401 | 5 | pooh |
-| 402 | 5 | Jennifer Moore |
-| 403 | 5 | Kidgib5 |
-| 404 | 5 | Barbramerri Tarboro |
+| 395 | 5 | Andre Sanon |
+| 396 | 5 | Kidgib5 |
+| 397 | 5 | Jennifer Moore |
+| 398 | 5 | pooh |
+| 399 | 5 | Jjhandsome |
+| 400 | 5 | DirtiestofMikes |
+| 401 | 5 | Vernon Hoyt |
+| 402 | 5 | Saucy Linkgrid |
+| 403 | 5 | Zappy Clearfit |
+| 404 | 5 | Rieshelda Marie White |
 
 ---
 *Standings created by tournaments datasource generation tool*
