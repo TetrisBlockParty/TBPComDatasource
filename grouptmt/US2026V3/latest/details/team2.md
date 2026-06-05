@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 16:04:36 UTC
+# Standings for team2 as of 2026-06-05 16:05:14 UTC
 
 **Total Participants:** 282
 
@@ -230,64 +230,64 @@
 | 222 | 10 | Becky Kennon |
 | 223 | 10 | Thomas Johnstone |
 | 224 | 10 | Justin Furne |
-| 225 | 10 | Donna Casey |
-| 226 | 10 | Laura Turner |
-| 227 | 10 | Naomi Jaynes |
-| 228 | 10 | Frilly Dashfit |
-| 229 | 10 | Berta Hurley |
-| 230 | 10 | Beachmama |
-| 231 | 10 | Saucy Wrecker |
-| 232 | 10 | Leticia Tillman |
+| 225 | 10 | Naomi Jaynes |
+| 226 | 10 | Saucy Wrecker |
+| 227 | 10 | Donna Casey |
+| 228 | 10 | Laura Turner |
+| 229 | 10 | Beachmama |
+| 230 | 10 | Leticia Tillman |
+| 231 | 10 | Berta Hurley |
+| 232 | 10 | Happy Riseclear |
 | 233 | 10 | Amie Marks |
-| 234 | 10 | Katie Jones |
-| 235 | 10 | Crystal Owen Yocolano |
-| 236 | 10 | Happy Riseclear |
-| 237 | 9 | Princess Cucumber |
-| 238 | 9 | Darla Ragsdale |
-| 239 | 9 | Giggly Spinblock |
-| 240 | 9 | Angelique Matzke Starns |
-| 241 | 9 | Chirpy Clearpiece |
-| 242 | 9 | Lindsey Butler |
-| 243 | 9 | Rhonda Driskill |
-| 244 | 9 | David Skelton |
-| 245 | 9 | Michele Stewart |
-| 246 | 9 | bigdog |
+| 234 | 10 | Crystal Owen Yocolano |
+| 235 | 10 | Katie Jones |
+| 236 | 10 | Frilly Dashfit |
+| 237 | 9 | Giggly Spinblock |
+| 238 | 9 | Rhonda Driskill |
+| 239 | 9 | bigdog |
+| 240 | 9 | Princess Cucumber |
+| 241 | 9 | Darla Ragsdale |
+| 242 | 9 | Chirpy Clearpiece |
+| 243 | 9 | Lindsey Butler |
+| 244 | 9 | Angelique Matzke Starns |
+| 245 | 9 | David Skelton |
+| 246 | 9 | Michele Stewart |
 | 247 | 8 | Chelsea Frye |
 | 248 | 8 | Amber Carpenter |
-| 249 | 8 | Darlene Russell |
-| 250 | 8 | DayDreamer79 |
-| 251 | 8 | Lush Party |
-| 252 | 8 | Bubbly Strikerpiece |
-| 253 | 8 | Stephanie |
+| 249 | 8 | Lush Party |
+| 250 | 8 | Stephanie |
+| 251 | 8 | DayDreamer79 |
+| 252 | 8 | Darlene Russell |
+| 253 | 8 | Bubbly Strikerpiece |
 | 254 | 8 | Renee Weedling |
-| 255 | 7 | Cherica Taylor |
-| 256 | 7 | Happy Curvebuilder |
-| 257 | 7 | Rae |
+| 255 | 7 | Happy Curvebuilder |
+| 256 | 7 | Kelli Pazour |
+| 257 | 7 | nova |
 | 258 | 7 | Elizabeth Elaine Coursey |
-| 259 | 7 | nova |
-| 260 | 7 | Jackie Hayslip |
+| 259 | 7 | Rae |
+| 260 | 7 | Cherica Taylor |
 | 261 | 7 | michael |
-| 262 | 7 | Tashamonique Puckey |
-| 263 | 7 | Kelli Pazour |
-| 264 | 7 | Cary M. Fong |
+| 262 | 7 | Epic Framezone |
+| 263 | 7 | Jackie Hayslip |
+| 264 | 7 | Tashamonique Puckey |
 | 265 | 7 | Nova Nova |
-| 266 | 7 | Epic Framezone |
-| 267 | 6 | Kelly Christine Trimmer |
-| 268 | 6 | Fran Gerebics |
-| 269 | 6 | Emily |
-| 270 | 6 | Mary Carriere |
-| 271 | 6 | Cheeky Dashpiece |
+| 266 | 7 | Cary M. Fong |
+| 267 | 6 | Gina Leal |
+| 268 | 6 | fancypants |
+| 269 | 6 | Fran Gerebics |
+| 270 | 6 | Kelly Christine Trimmer |
+| 271 | 6 | Mary Carriere |
 | 272 | 6 | Jeanna Mendez |
-| 273 | 6 | Gina Leal |
-| 274 | 6 | fancypants |
-| 275 | 5 | Agnes Gable |
-| 276 | 5 | Mercedes Lowery |
-| 277 | 5 | Jolly Twisterfit |
-| 278 | 5 | Allison Peterson |
+| 273 | 6 | Cheeky Dashpiece |
+| 274 | 6 | Emily |
+| 275 | 5 | Jolly Twisterfit |
+| 276 | 5 | Carole Brown |
+| 277 | 5 | Mercedes Lowery |
+| 278 | 5 | Agnes Gable |
 | 279 | 5 | Pjrobinsonnn |
-| 280 | 5 | Carole Brown |
-| 281 | 5 | Lindsey Ford |
-| 282 | 5 | Slinky Glidezone |
+| 280 | 5 | Allison Peterson |
+| 281 | 5 | Slinky Glidezone |
+| 282 | 5 | Lindsey Ford |
 
 ---
 *Standings created by tournaments datasource generation tool*
