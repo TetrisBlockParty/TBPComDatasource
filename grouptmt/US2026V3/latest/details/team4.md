@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 22:28:16 UTC
+# Standings for team4 as of 2026-06-05 22:28:37 UTC
 
 **Total Participants:** 500
 
@@ -141,10 +141,10 @@
 | 133 | 71 | Stasia |
 | 134 | 71 | King |
 | 135 | 71 | Chris Covington |
-| 136 | 70 | Josh Keith Travierso |
-| 137 | 68 | Keys Tome |
-| 138 | 68 | Erika Seaton |
-| 139 | 68 | Bouncy |
+| 136 | 71 | Bouncy |
+| 137 | 70 | Josh Keith Travierso |
+| 138 | 68 | Keys Tome |
+| 139 | 68 | Erika Seaton |
 | 140 | 68 | Chirpy Link |
 | 141 | 67 | Alma López Morales |
 | 142 | 67 | Henry Lanier |
@@ -183,8 +183,8 @@
 | 175 | 50 | Susan Stofberg Beltran |
 | 176 | 50 | Sassy Column |
 | 177 | 50 | Ginny |
-| 178 | 49 | smarty |
-| 179 | 49 | Daring Brickbuilder |
+| 178 | 49 | Daring Brickbuilder |
+| 179 | 49 | smarty |
 | 180 | 48 | Dapper Strikerpiece |
 | 181 | 48 | Karen Davis |
 | 182 | 48 | Lilo |
