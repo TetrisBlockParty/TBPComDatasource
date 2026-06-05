@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 12:45:13 UTC
+# Standings for team1 as of 2026-06-05 12:46:13 UTC
 
-**Total Participants:** 67
+**Total Participants:** 69
 
 ## Participant Scores
 
@@ -13,8 +13,8 @@
 | 5 | 241 | Ivana Schmidt |
 | 6 | 197 | Chris Russell |
 | 7 | 177 | Chris Sladoje |
-| 8 | 164 | Gotcha |
-| 9 | 152 | jaimie |
+| 8 | 173 | jaimie |
+| 9 | 164 | Gotcha |
 | 10 | 141 | Debbie Carswell |
 | 11 | 96 | Cee Emm |
 | 12 | 81 | Robyn Caldwell |
@@ -38,41 +38,43 @@
 | 30 | 28 | John Staub |
 | 31 | 27 | Angela R Wilson |
 | 32 | 27 | Shanell Thomas |
-| 33 | 25 | Tyrone Porter |
-| 34 | 25 | Lilly Brown |
+| 33 | 25 | Lilly Brown |
+| 34 | 25 | Tyrone Porter |
 | 35 | 23 | Poppy Twister |
 | 36 | 22 | Tanisha Taylor |
 | 37 | 21 | Brave Balanceblock |
-| 38 | 20 | Trina Greenwood |
+| 38 | 20 | Dai Bo |
 | 39 | 20 | Jai |
-| 40 | 19 | Jenni |
-| 41 | 19 | Amanda Woodruff |
-| 42 | 18 | Dizzy Dashy |
-| 43 | 18 | Zany Breaker |
-| 44 | 17 | Rikki Moran |
-| 45 | 16 | Sylvia Offically A Mcgowan |
-| 46 | 15 | Tami Spence |
-| 47 | 15 | Una |
-| 48 | 15 | Ashley MyBeauty Daniels |
-| 49 | 15 | Christian Pham |
-| 50 | 13 | Shanjerrica Taylor Rosell |
-| 51 | 12 | Kimmie Gargano |
-| 52 | 11 | SPNLover24 |
-| 53 | 11 | Desiree Ryder |
-| 54 | 10 | 신재호 |
-| 55 | 10 | Tishauna Virgo |
+| 40 | 20 | Trina Greenwood |
+| 41 | 19 | Jenni |
+| 42 | 19 | Amanda Woodruff |
+| 43 | 18 | Dizzy Dashy |
+| 44 | 18 | Zany Breaker |
+| 45 | 17 | Rikki Moran |
+| 46 | 16 | Sylvia Offically A Mcgowan |
+| 47 | 15 | Christian Pham |
+| 48 | 15 | Una |
+| 49 | 15 | Tami Spence |
+| 50 | 15 | Ashley MyBeauty Daniels |
+| 51 | 14 | Shanjerrica Taylor Rosell |
+| 52 | 13 | Oaklonboy mike |
+| 53 | 12 | Kimmie Gargano |
+| 54 | 11 | SPNLover24 |
+| 55 | 11 | Desiree Ryder |
 | 56 | 10 | Brian Stackhouse |
-| 57 | 10 | Sarah Marie |
-| 58 | 10 | Frisky Fall |
-| 59 | 9 | Tina Criam |
-| 60 | 9 | IThinkNot |
+| 57 | 10 | 신재호 |
+| 58 | 10 | Sarah Marie |
+| 59 | 10 | Frisky Fall |
+| 60 | 10 | Tishauna Virgo |
 | 61 | 9 | Steve Reno |
-| 62 | 8 | Brika Brika |
-| 63 | 8 | Sammie Walker |
-| 64 | 7 | Kendra McIntyre |
-| 65 | 7 | Mary2 |
-| 66 | 5 | Shakmar |
-| 67 | 5 | Cheeky Pop |
+| 62 | 9 | IThinkNot |
+| 63 | 9 | Tina Criam |
+| 64 | 8 | Brika Brika |
+| 65 | 8 | Sammie Walker |
+| 66 | 7 | Kendra McIntyre |
+| 67 | 7 | Mary2 |
+| 68 | 5 | Shakmar |
+| 69 | 5 | Cheeky Pop |
 
 ---
 *Standings created by tournaments datasource generation tool*
