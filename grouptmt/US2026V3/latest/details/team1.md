@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:26:35 UTC
+# Standings for team1 as of 2026-06-05 13:27:13 UTC
 
 **Total Participants:** 112
 
@@ -65,9 +65,9 @@
 | 57 | 25 | Tyrone Porter |
 | 58 | 25 | Cheeky Pop |
 | 59 | 24 | Casey Chapman |
-| 60 | 23 | Poppy Twister |
-| 61 | 22 | Tanisha Taylor |
-| 62 | 22 | Hasty Pivoty |
+| 60 | 23 | Hasty Pivoty |
+| 61 | 23 | Poppy Twister |
+| 62 | 22 | Tanisha Taylor |
 | 63 | 21 | Brave Balanceblock |
 | 64 | 20 | Chevalier Burley |
 | 65 | 20 | Trina Greenwood |
@@ -106,16 +106,16 @@
 | 98 | 9 | Tina Criam |
 | 99 | 8 | Brika Brika |
 | 100 | 8 | Sammie Walker |
-| 101 | 7 | Kendra McIntyre |
-| 102 | 7 | Mary2 |
+| 101 | 7 | Mary2 |
+| 102 | 7 | Kendra McIntyre |
 | 103 | 6 | Taz Ballard |
-| 104 | 6 | Janine Hunter |
-| 105 | 6 | Ashley Espeut |
-| 106 | 6 | Jayjay Rich |
-| 107 | 6 | Jessie N Michael Silvers |
-| 108 | 5 | DirtiestofMikes |
+| 104 | 6 | Jessie N Michael Silvers |
+| 105 | 6 | Jayjay Rich |
+| 106 | 6 | Ashley Espeut |
+| 107 | 6 | Janine Hunter |
+| 108 | 5 | Jennifer Moore |
 | 109 | 5 | Tamika Fisher |
-| 110 | 5 | Jennifer Moore |
+| 110 | 5 | DirtiestofMikes |
 | 111 | 5 | Shakmar |
 | 112 | 5 | Derek Beverly |
 
