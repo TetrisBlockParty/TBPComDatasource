@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:24:15 UTC
+# Standings for team1 as of 2026-06-05 17:24:38 UTC
 
 **Total Participants:** 332
 
@@ -61,9 +61,9 @@
 | 53 | 100 | Asani CHumba |
 | 54 | 100 | She Higgy |
 | 55 | 100 | Cool Bridger |
-| 56 | 96 | Cortaz Lawrie |
-| 57 | 95 | Nate Myers |
-| 58 | 94 | Nerdy Snapfall |
+| 56 | 97 | Nerdy Snapfall |
+| 57 | 96 | Cortaz Lawrie |
+| 58 | 95 | Nate Myers |
 | 59 | 90 | Hasty Pivoty |
 | 60 | 90 | 신재호 |
 | 61 | 86 | SPNLover24 |
@@ -302,42 +302,42 @@
 | 294 | 9 | Joka NoTime ForHataz |
 | 295 | 8 | Rixo Blax |
 | 296 | 8 | Brika Brika |
-| 297 | 8 | Tanesha Ga'sFinest Corbett |
-| 298 | 8 | Sammie Walker |
-| 299 | 8 | Breezy Catcher |
-| 300 | 8 | Taz Ballard |
-| 301 | 8 | Caitlin Michele |
-| 302 | 8 | Jessie N Michael Silvers |
-| 303 | 7 | Andrew Harris |
-| 304 | 7 | wmedina67 |
-| 305 | 7 | whatever |
-| 306 | 7 | Lillie Blossom Dixon |
-| 307 | 7 | Shane Brucewayne |
-| 308 | 7 | Mary2 |
-| 309 | 7 | Kendra McIntyre |
-| 310 | 6 | Jeffrey Barrows |
-| 311 | 6 | Jelyfish |
-| 312 | 6 | Frances Davis |
-| 313 | 6 | Janine Hunter |
-| 314 | 6 | Cece Fowler |
-| 315 | 6 | Brittnay Wright |
-| 316 | 6 | Allison Baxter |
-| 317 | 6 | Christopher Wallace |
-| 318 | 5 | KeeKee Williams |
-| 319 | 5 | Temeshia Brooks Washington |
-| 320 | 5 | Stephanie Zuniga Tullock |
-| 321 | 5 | pooh |
-| 322 | 5 | Vernon Hoyt |
-| 323 | 5 | Jjhandsome |
-| 324 | 5 | Barbramerri Tarboro |
-| 325 | 5 | Zappy Clearfit |
-| 326 | 5 | Tamika Fisher |
-| 327 | 5 | Jennifer Moore |
-| 328 | 5 | Kidgib5 |
-| 329 | 5 | Shawn Himes |
-| 330 | 5 | DirtiestofMikes |
-| 331 | 5 | Lil T |
-| 332 | 5 | Derek Beverly |
+| 297 | 8 | Sammie Walker |
+| 298 | 8 | Caitlin Michele |
+| 299 | 8 | Taz Ballard |
+| 300 | 8 | Breezy Catcher |
+| 301 | 8 | Jessie N Michael Silvers |
+| 302 | 8 | Tanesha Ga'sFinest Corbett |
+| 303 | 7 | Shane Brucewayne |
+| 304 | 7 | Mary2 |
+| 305 | 7 | Kendra McIntyre |
+| 306 | 7 | Andrew Harris |
+| 307 | 7 | whatever |
+| 308 | 7 | Lillie Blossom Dixon |
+| 309 | 7 | wmedina67 |
+| 310 | 6 | Frances Davis |
+| 311 | 6 | Janine Hunter |
+| 312 | 6 | Jelyfish |
+| 313 | 6 | Jeffrey Barrows |
+| 314 | 6 | Allison Baxter |
+| 315 | 6 | Christopher Wallace |
+| 316 | 6 | Cece Fowler |
+| 317 | 6 | Brittnay Wright |
+| 318 | 5 | Barbramerri Tarboro |
+| 319 | 5 | Stephanie Zuniga Tullock |
+| 320 | 5 | Temeshia Brooks Washington |
+| 321 | 5 | KeeKee Williams |
+| 322 | 5 | Derek Beverly |
+| 323 | 5 | Lil T |
+| 324 | 5 | DirtiestofMikes |
+| 325 | 5 | Kidgib5 |
+| 326 | 5 | Zappy Clearfit |
+| 327 | 5 | pooh |
+| 328 | 5 | Tamika Fisher |
+| 329 | 5 | Jjhandsome |
+| 330 | 5 | Jennifer Moore |
+| 331 | 5 | Vernon Hoyt |
+| 332 | 5 | Shawn Himes |
 
 ---
 *Standings created by tournaments datasource generation tool*
