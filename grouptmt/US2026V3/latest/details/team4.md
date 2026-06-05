@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 12:14:12 UTC
+# Standings for team4 as of 2026-06-05 12:14:34 UTC
 
 **Total Participants:** 16
 
@@ -16,8 +16,8 @@
 | 8 | 26 | Dana Fontanez |
 | 9 | 25 | Маркус Вік |
 | 10 | 24 | jojo |
-| 11 | 14 | Jonathan Hewitt |
-| 12 | 14 | Keesha Muro |
+| 11 | 14 | Keesha Muro |
+| 12 | 14 | Jonathan Hewitt |
 | 13 | 11 | Cherry |
 | 14 | 10 | Shiny Brick |
 | 15 | 9 | Nancy McCalla Abercrombie |

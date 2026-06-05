@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-05 12:14:12 UTC
+# Standings for team3 as of 2026-06-05 12:14:34 UTC
 
 **Total Participants:** 24
 
@@ -20,12 +20,12 @@
 | 12 | 15 | Quirky Curve |
 | 13 | 14 | SteffXx |
 | 14 | 13 | Dedicated |
-| 15 | 12 | Robby Beltran |
-| 16 | 12 | Violet |
+| 15 | 12 | Violet |
+| 16 | 12 | Robby Beltran |
 | 17 | 11 | Carrie Ness |
 | 18 | 9 | Angie Rodriguez |
-| 19 | 9 | Jess Jess |
-| 20 | 9 | Tnaughty |
+| 19 | 9 | Tnaughty |
+| 20 | 9 | Jess Jess |
 | 21 | 8 | Jonathan Russell |
 | 22 | 7 | Sarah Jane |
 | 23 | 7 | David Glisson |
