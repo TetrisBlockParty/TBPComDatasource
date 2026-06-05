@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 17:50:14 UTC
+# Standings for team2 as of 2026-06-05 17:50:36 UTC
 
 **Total Participants:** 365
 
@@ -54,9 +54,9 @@
 | 46 | 126 | Nathan Walker |
 | 47 | 123 | Lily |
 | 48 | 119 | Melisa |
-| 49 | 116 | Amber Cogdill |
-| 50 | 115 | Zany Blockclear |
-| 51 | 111 | Frilly Match |
+| 49 | 117 | Frilly Match |
+| 50 | 116 | Amber Cogdill |
+| 51 | 115 | Zany Blockclear |
 | 52 | 105 | Ackerman 85 |
 | 53 | 103 | Spunky Cascadeclear |
 | 54 | 100 | LEW |

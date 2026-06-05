@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:50:14 UTC
+# Standings for team1 as of 2026-06-05 17:50:36 UTC
 
 **Total Participants:** 354
 
@@ -228,32 +228,32 @@
 | 220 | 20 | Kenneth Hefney |
 | 221 | 20 | Jai |
 | 222 | 20 | Tremaine Hiler |
-| 223 | 20 | Nutty Spinblock |
-| 224 | 20 | Nyhlah Patterson |
+| 223 | 20 | Nyhlah Patterson |
+| 224 | 20 | Nutty Spinblock |
 | 225 | 20 | Gabriela Hernandez |
-| 226 | 20 | Devin West |
-| 227 | 20 | Chevalier Burley |
+| 226 | 20 | Kimberly Red |
+| 227 | 20 | Devin West |
 | 228 | 20 | Trina Greenwood |
-| 229 | 20 | Dorian Griffin |
-| 230 | 19 | LAhoneybun82 |
-| 231 | 19 | Amanda Woodruff |
-| 232 | 19 | Jenni |
-| 233 | 19 | Michele Simpson |
-| 234 | 19 | Lozuna |
-| 235 | 19 | Brenda Malachi-butler |
-| 236 | 19 | Saucy Tile |
-| 237 | 18 | Danny M GR |
-| 238 | 18 | Sunny Clicky |
-| 239 | 18 | AleahKCH |
-| 240 | 18 | Una |
-| 241 | 18 | Tyree Tman Shinette |
-| 242 | 18 | Ounquan Wright |
-| 243 | 17 | Rikki Moran |
-| 244 | 17 | Elizabeth Vega Coreano |
-| 245 | 17 | Kimberly Red |
-| 246 | 16 | Jumpy Gridlock |
-| 247 | 16 | Sammie Walker |
-| 248 | 16 | Jason Mungin |
+| 229 | 20 | Chevalier Burley |
+| 230 | 20 | Dorian Griffin |
+| 231 | 19 | LAhoneybun82 |
+| 232 | 19 | Amanda Woodruff |
+| 233 | 19 | Jenni |
+| 234 | 19 | Michele Simpson |
+| 235 | 19 | Lozuna |
+| 236 | 19 | Brenda Malachi-butler |
+| 237 | 19 | Saucy Tile |
+| 238 | 18 | Danny M GR |
+| 239 | 18 | Sunny Clicky |
+| 240 | 18 | AleahKCH |
+| 241 | 18 | Una |
+| 242 | 18 | Tyree Tman Shinette |
+| 243 | 18 | Ounquan Wright |
+| 244 | 17 | Rikki Moran |
+| 245 | 17 | Elizabeth Vega Coreano |
+| 246 | 16 | Sammie Walker |
+| 247 | 16 | Jason Mungin |
+| 248 | 16 | Jumpy Gridlock |
 | 249 | 16 | MsBobby Patrick |
 | 250 | 16 | Desiree Ryder |
 | 251 | 16 | Tanisha Robinson |
