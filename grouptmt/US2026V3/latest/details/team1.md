@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:13:13 UTC
+# Standings for team1 as of 2026-06-05 13:14:12 UTC
 
 **Total Participants:** 102
 
@@ -11,7 +11,7 @@
 | 3 | 749 | Aviv Zehavi |
 | 4 | 409 | Chris Russell |
 | 5 | 366 | Tracy Cohen |
-| 6 | 313 | jaimie |
+| 6 | 333 | jaimie |
 | 7 | 303 | Brian Stackhouse |
 | 8 | 241 | Ivana Schmidt |
 | 9 | 192 | Tammye Turner |
@@ -59,9 +59,9 @@
 | 51 | 26 | Steve Reno |
 | 52 | 25 | Tyrone Porter |
 | 53 | 25 | KenpachisGirl |
-| 54 | 23 | Poppy Twister |
-| 55 | 22 | Tanisha Taylor |
-| 56 | 21 | Yashica Smith |
+| 54 | 23 | Yashica Smith |
+| 55 | 23 | Poppy Twister |
+| 56 | 22 | Tanisha Taylor |
 | 57 | 21 | Brave Balanceblock |
 | 58 | 20 | Chevalier Burley |
 | 59 | 20 | Jai |

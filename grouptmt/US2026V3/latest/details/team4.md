@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 13:13:13 UTC
+# Standings for team4 as of 2026-06-05 13:14:12 UTC
 
 **Total Participants:** 83
 
@@ -18,8 +18,8 @@
 | 10 | 107 | Shayna Vaigneur-Hall |
 | 11 | 101 | Giggy Matchpiece |
 | 12 | 100 | Kathy Brookins |
-| 13 | 95 | Gloria Nunley Trussell |
-| 14 | 95 | Kim |
+| 13 | 95 | Kim |
+| 14 | 95 | Gloria Nunley Trussell |
 | 15 | 78 | Tawna Curry |
 | 16 | 75 | June Hoffman |
 | 17 | 71 | Chris Covington |
@@ -32,8 +32,8 @@
 | 24 | 50 | Keys Tome |
 | 25 | 50 | Jesse Olive |
 | 26 | 40 | Tyra Brooke Everman Forest |
-| 27 | 38 | Jonathan Hewitt |
-| 28 | 38 | Charity Thomas |
+| 27 | 38 | Charity Thomas |
+| 28 | 38 | Jonathan Hewitt |
 | 29 | 36 | Mrs |
 | 30 | 34 | jojo |
 | 31 | 32 | Shiny Brick |
