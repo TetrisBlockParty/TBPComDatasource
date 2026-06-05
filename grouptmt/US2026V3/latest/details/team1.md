@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 12:57:12 UTC
+# Standings for team1 as of 2026-06-05 12:58:14 UTC
 
-**Total Participants:** 86
+**Total Participants:** 89
 
 ## Participant Scores
 
@@ -12,10 +12,10 @@
 | 4 | 366 | Tracy Cohen |
 | 5 | 277 | Chris Russell |
 | 6 | 241 | Ivana Schmidt |
-| 7 | 177 | Chris Sladoje |
-| 8 | 173 | jaimie |
-| 9 | 164 | Gotcha |
-| 10 | 155 | Brian Stackhouse |
+| 7 | 233 | jaimie |
+| 8 | 203 | Brian Stackhouse |
+| 9 | 177 | Chris Sladoje |
+| 10 | 164 | Gotcha |
 | 11 | 141 | Debbie Carswell |
 | 12 | 126 | Cee Emm |
 | 13 | 81 | Robyn Caldwell |
@@ -24,74 +24,77 @@
 | 16 | 77 | Amber Wilson |
 | 17 | 74 | ♈️ Ariesbaby |
 | 18 | 69 | Kellie Hall |
-| 19 | 66 | Shontanese Adams |
-| 20 | 65 | Dizzy Dashy |
-| 21 | 63 | Carrie English |
-| 22 | 60 | Asani CHumba |
-| 23 | 50 | Jazzy Dashpiece |
-| 24 | 50 | Slinky Party |
-| 25 | 46 | Shanell Thomas |
-| 26 | 41 | Jessica Russell |
-| 27 | 40 | Leavon Smith |
-| 28 | 40 | Jean Regis |
-| 29 | 40 | Lauraly |
-| 30 | 38 | rls |
-| 31 | 37 | Michele Elizabeth McKay-Johnson |
-| 32 | 35 | Saucy Crusher |
-| 33 | 35 | Dai Bo |
+| 19 | 67 | Michele Elizabeth McKay-Johnson |
+| 20 | 66 | Shontanese Adams |
+| 21 | 65 | Dizzy Dashy |
+| 22 | 63 | Carrie English |
+| 23 | 60 | Asani CHumba |
+| 24 | 54 | Janet Cooke |
+| 25 | 50 | Slinky Party |
+| 26 | 50 | Jazzy Dashpiece |
+| 27 | 46 | Shanell Thomas |
+| 28 | 41 | Jessica Russell |
+| 29 | 40 | Leavon Smith |
+| 30 | 40 | Lauraly |
+| 31 | 40 | Jean Regis |
+| 32 | 38 | rls |
+| 33 | 35 | Saucy Crusher |
 | 34 | 35 | Lilly Brown |
-| 35 | 35 | KoolKimJay |
-| 36 | 30 | Saucy Faller |
-| 37 | 30 | Lester Malone |
-| 38 | 28 | John Staub |
-| 39 | 27 | Angela R Wilson |
-| 40 | 27 | Zany Breaker |
-| 41 | 25 | Tyrone Porter |
-| 42 | 23 | Poppy Twister |
-| 43 | 22 | Tanisha Taylor |
-| 44 | 21 | Brave Balanceblock |
-| 45 | 20 | Trina Greenwood |
-| 46 | 20 | Jai |
-| 47 | 19 | Brenda Malachi-butler |
-| 48 | 19 | SPNLover24 |
-| 49 | 19 | Shanjerrica Taylor Rosell |
-| 50 | 19 | Amanda Woodruff |
+| 35 | 35 | Block |
+| 36 | 35 | Dai Bo |
+| 37 | 35 | KoolKimJay |
+| 38 | 30 | Saucy Faller |
+| 39 | 30 | Lester Malone |
+| 40 | 28 | John Staub |
+| 41 | 27 | Angela R Wilson |
+| 42 | 27 | Zany Breaker |
+| 43 | 25 | Tyrone Porter |
+| 44 | 23 | Poppy Twister |
+| 45 | 22 | Tanisha Taylor |
+| 46 | 21 | SPNLover24 |
+| 47 | 21 | Brave Balanceblock |
+| 48 | 20 | Jai |
+| 49 | 20 | Trina Greenwood |
+| 50 | 19 | Brenda Malachi-butler |
 | 51 | 19 | Jenni |
-| 52 | 17 | Kimberly Red |
-| 53 | 17 | Rikki Moran |
-| 54 | 16 | Sylvia Offically A Mcgowan |
-| 55 | 16 | Steve Reno |
-| 56 | 15 | Charlene Baltimore |
-| 57 | 15 | Christian Pham |
-| 58 | 15 | Ashley MyBeauty Daniels |
-| 59 | 15 | Una |
-| 60 | 15 | Tami Spence |
-| 61 | 15 | Janet Cooke |
-| 62 | 14 | Brian Bohanon II |
-| 63 | 14 | Alyssa Rae |
-| 64 | 13 | Oaklonboy mike |
-| 65 | 12 | Kimmie Gargano |
-| 66 | 12 | Tyree Tman Shinette |
-| 67 | 11 | Desiree Ryder |
-| 68 | 10 | Frisky Fall |
-| 69 | 10 | 신재호 |
-| 70 | 10 | Yashica Smith |
-| 71 | 10 | Daddy |
-| 72 | 10 | Keke |
-| 73 | 10 | Tishauna Virgo |
-| 74 | 10 | Sarah Marie |
-| 75 | 10 | Megan Payette |
-| 76 | 9 | IThinkNot |
-| 77 | 9 | Tina Criam |
-| 78 | 8 | Tammye Turner |
-| 79 | 8 | Brika Brika |
-| 80 | 8 | Sammie Walker |
-| 81 | 7 | Kendra McIntyre |
-| 82 | 7 | Mary2 |
-| 83 | 5 | Cheeky Pop |
-| 84 | 5 | Jennifer Moore |
-| 85 | 5 | Shakmar |
-| 86 | 5 | Kimberly Hernandez |
+| 52 | 19 | Amanda Woodruff |
+| 53 | 19 | Shanjerrica Taylor Rosell |
+| 54 | 18 | Charlene Baltimore |
+| 55 | 18 | Christian Pham |
+| 56 | 17 | Rikki Moran |
+| 57 | 17 | Kimberly Red |
+| 58 | 17 | Steve Reno |
+| 59 | 16 | Sylvia Offically A Mcgowan |
+| 60 | 15 | Una |
+| 61 | 15 | Ashley MyBeauty Daniels |
+| 62 | 15 | Tami Spence |
+| 63 | 15 | Tyree Tman Shinette |
+| 64 | 14 | Brian Bohanon II |
+| 65 | 14 | Alyssa Rae |
+| 66 | 13 | Oaklonboy mike |
+| 67 | 13 | Yashica Smith |
+| 68 | 12 | Kimmie Gargano |
+| 69 | 11 | Desiree Ryder |
+| 70 | 10 | Tishauna Virgo |
+| 71 | 10 | 신재호 |
+| 72 | 10 | Daddy |
+| 73 | 10 | Megan Payette |
+| 74 | 10 | AleahKCH |
+| 75 | 10 | Keke |
+| 76 | 10 | Sarah Marie |
+| 77 | 10 | Frisky Fall |
+| 78 | 9 | Tina Criam |
+| 79 | 9 | IThinkNot |
+| 80 | 8 | Tammye Turner |
+| 81 | 8 | Brika Brika |
+| 82 | 8 | Sammie Walker |
+| 83 | 7 | Kendra McIntyre |
+| 84 | 7 | Hasty Pivoty |
+| 85 | 7 | Mary2 |
+| 86 | 5 | Cheeky Pop |
+| 87 | 5 | Jennifer Moore |
+| 88 | 5 | Shakmar |
+| 89 | 5 | Kimberly Hernandez |
 
 ---
 *Standings created by tournaments datasource generation tool*
