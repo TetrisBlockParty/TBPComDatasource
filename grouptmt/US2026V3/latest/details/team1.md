@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 19:38:38 UTC
+# Standings for team1 as of 2026-06-05 19:39:13 UTC
 
 **Total Participants:** 442
 
@@ -144,43 +144,43 @@
 | 136 | 49 | LexiiSamayaa |
 | 137 | 48 | Comedian Prince Paul |
 | 138 | 47 | Derrius SeriousLee Burks |
-| 139 | 47 | Christopher Dreamsareality McEachin |
-| 140 | 45 | Renee J. Thomas |
-| 141 | 45 | Guy Incognito |
-| 142 | 44 | Andi McGreevy |
-| 143 | 43 | Brittany Fells |
-| 144 | 43 | IThinkNot |
-| 145 | 43 | Block |
+| 139 | 47 | Voice |
+| 140 | 47 | Christopher Dreamsareality McEachin |
+| 141 | 45 | Renee J. Thomas |
+| 142 | 45 | Guy Incognito |
+| 143 | 44 | Andi McGreevy |
+| 144 | 43 | Brittany Fells |
+| 145 | 43 | Brenda Malachi-butler |
 | 146 | 43 | Byron Mario Cawthon |
-| 147 | 43 | Brenda Malachi-butler |
-| 148 | 42 | sasha |
-| 149 | 42 | Songne Arif |
-| 150 | 40 | Nutty Spinblock |
-| 151 | 40 | Heather Aurelia |
+| 147 | 43 | IThinkNot |
+| 148 | 43 | Block |
+| 149 | 42 | sasha |
+| 150 | 42 | Songne Arif |
+| 151 | 40 | Leavon Smith |
 | 152 | 40 | HarleyJane |
-| 153 | 40 | Jean Regis |
-| 154 | 40 | Leavon Smith |
-| 155 | 40 | Zippy Lifter |
-| 156 | 40 | Rackemwillie34 |
+| 153 | 40 | Heather Aurelia |
+| 154 | 40 | Nutty Spinblock |
+| 155 | 40 | Jean Regis |
+| 156 | 40 | Zippy Lifter |
 | 157 | 40 | Flashy Slam |
-| 158 | 40 | Nisha Sunshine Jenkins |
-| 159 | 39 | Sabrina Wilkerson |
+| 158 | 40 | Rackemwillie34 |
+| 159 | 40 | Nisha Sunshine Jenkins |
 | 160 | 39 | JesusSaves 😇 |
-| 161 | 39 | Dandy Brickfit |
-| 162 | 39 | Jae Thompson-Tyus |
-| 163 | 38 | Voice |
-| 164 | 38 | Steve Reno |
-| 165 | 38 | Kahliah Baker |
-| 166 | 38 | David A Alvino |
-| 167 | 38 | rls |
-| 168 | 38 | hope |
-| 169 | 37 | Lootch |
-| 170 | 37 | Jackytrain52 |
-| 171 | 37 | Jojo M |
-| 172 | 37 | Cranky Fall |
-| 173 | 37 | Calvin Green |
-| 174 | 36 | Sunny Riserbuilder |
-| 175 | 36 | Clever Wrecker |
+| 161 | 39 | Sabrina Wilkerson |
+| 162 | 39 | Dandy Brickfit |
+| 163 | 39 | Jae Thompson-Tyus |
+| 164 | 38 | David A Alvino |
+| 165 | 38 | hope |
+| 166 | 38 | rls |
+| 167 | 38 | Kahliah Baker |
+| 168 | 38 | Steve Reno |
+| 169 | 37 | Jojo M |
+| 170 | 37 | Cranky Fall |
+| 171 | 37 | Calvin Green |
+| 172 | 37 | Jackytrain52 |
+| 173 | 37 | Lootch |
+| 174 | 36 | Clever Wrecker |
+| 175 | 36 | Sunny Riserbuilder |
 | 176 | 36 | Wild Out Nai |
 | 177 | 35 | Jumpy Gridlock |
 | 178 | 35 | Jolly Tilefall |

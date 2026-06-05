@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 19:38:38 UTC
+# Standings for team2 as of 2026-06-05 19:39:13 UTC
 
 **Total Participants:** 459
 
@@ -16,7 +16,7 @@
 | 8 | 2700 | Mocha |
 | 9 | 1900 | boblawboblaw |
 | 10 | 1800 | Mochi |
-| 11 | 1503 | Christina Shell |
+| 11 | 1653 | Christina Shell |
 | 12 | 1128 | Jennifer Corder |
 | 13 | 1100 | Kathleen M Cox |
 | 14 | 1100 | Bobbi |
@@ -43,15 +43,15 @@
 | 35 | 273 | Betty Barrett |
 | 36 | 259 | Jennifer Smith |
 | 37 | 250 | Wmk Rathbun |
-| 38 | 246 | Giddy Slamdrop |
+| 38 | 247 | La chulis |
 | 39 | 246 | Jazzy Faller |
-| 40 | 245 | La chulis |
+| 40 | 246 | Giddy Slamdrop |
 | 41 | 237 | Sarah Griffey |
 | 42 | 230 | Frilly Match |
 | 43 | 221 | Vistabrat |
 | 44 | 220 | Mom |
-| 45 | 219 | Block Dog |
-| 46 | 219 | Bon Lynn |
+| 45 | 219 | Bon Lynn |
+| 46 | 219 | Block Dog |
 | 47 | 199 | Stella |
 | 48 | 190 | Kellie Sharp Godfrey |
 | 49 | 183 | Steven Craig |
@@ -233,15 +233,15 @@
 | 225 | 34 | Lively Curve |
 | 226 | 34 | TetrisMama |
 | 227 | 34 | Marylin Eacker |
-| 228 | 32 | Mary Carriere |
-| 229 | 32 | Tracey Cox |
-| 230 | 32 | Raine |
-| 231 | 31 | Trinni Hansen |
-| 232 | 31 | IncrediDragon |
-| 233 | 31 | Pamela Raye |
-| 234 | 31 | Nikki Sadler |
-| 235 | 30 | Sandy Justus |
-| 236 | 30 | Buddy |
+| 228 | 33 | Buddy |
+| 229 | 32 | Mary Carriere |
+| 230 | 32 | Tracey Cox |
+| 231 | 32 | Raine |
+| 232 | 31 | Trinni Hansen |
+| 233 | 31 | IncrediDragon |
+| 234 | 31 | Pamela Raye |
+| 235 | 31 | Nikki Sadler |
+| 236 | 30 | Sandy Justus |
 | 237 | 30 | Marquita Toliver |
 | 238 | 30 | Brittany Kay |
 | 239 | 30 | Paula Haskins |
@@ -455,15 +455,15 @@
 | 447 | 6 | Cheeky Dashpiece |
 | 448 | 6 | Denise Morehart |
 | 449 | 6 | Fluffypuffin |
-| 450 | 5 | Nicole Hjelmen |
-| 451 | 5 | Agnes Gable |
+| 450 | 5 | Agnes Gable |
+| 451 | 5 | Nicole Hjelmen |
 | 452 | 5 | Pjrobinsonnn |
 | 453 | 5 | Amy Lea Hamilton |
 | 454 | 5 | Poppy Zonepiece |
 | 455 | 5 | Momi Kamohai |
-| 456 | 5 | Joni Michelle Morgan |
-| 457 | 5 | Crafty Slice |
-| 458 | 5 | Mercedes Lowery |
+| 456 | 5 | Crafty Slice |
+| 457 | 5 | Mercedes Lowery |
+| 458 | 5 | Joni Michelle Morgan |
 | 459 | 5 | Slinky Glidezone |
 
 ---
