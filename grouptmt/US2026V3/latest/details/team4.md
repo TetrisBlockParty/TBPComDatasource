@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 23:42:16 UTC
+# Standings for team4 as of 2026-06-05 23:42:38 UTC
 
 **Total Participants:** 563
 
@@ -82,52 +82,52 @@
 | 74 | 143 | RotatedWrongAgain |
 | 75 | 139 | Damon Gaston |
 | 76 | 135 | 626 |
-| 77 | 130 | Tammy June |
-| 78 | 125 | Leslie Ann Carter |
-| 79 | 124 | Chilly Pivot |
-| 80 | 123 | Anna Gribble |
-| 81 | 122 | Jason Allen |
-| 82 | 121 | Ryan Paul Clark-Ramsey |
-| 83 | 120 | Kelly Bernard |
-| 84 | 120 | Glamorous Gracey |
-| 85 | 118 | Goofy Fall |
-| 86 | 117 | BCO22 |
-| 87 | 114 | Lisa Garcia |
+| 77 | 133 | Shawntae Mccary |
+| 78 | 130 | Tammy June |
+| 79 | 125 | Leslie Ann Carter |
+| 80 | 124 | Chilly Pivot |
+| 81 | 123 | Anna Gribble |
+| 82 | 122 | Jason Allen |
+| 83 | 121 | Ryan Paul Clark-Ramsey |
+| 84 | 120 | Kelly Bernard |
+| 85 | 120 | Glamorous Gracey |
+| 86 | 118 | Goofy Fall |
+| 87 | 117 | BCO22 |
 | 88 | 114 | Bryan DjMagnum Evans |
-| 89 | 109 | Shawntae Mccary |
-| 90 | 108 | Juvon SupaShawdii Brooks |
-| 91 | 108 | Debby Ruof |
+| 89 | 114 | Lisa Garcia |
+| 90 | 108 | Debby Ruof |
+| 91 | 108 | Juvon SupaShawdii Brooks |
 | 92 | 107 | Shayna Vaigneur-Hall |
 | 93 | 104 | Justin Ballard |
 | 94 | 104 | Tawna Curry |
 | 95 | 102 | Lush Fitblock |
-| 96 | 100 | Cal Renee |
-| 97 | 100 | CorieBe |
+| 96 | 100 | CorieBe |
+| 97 | 100 | Cal Renee |
 | 98 | 100 | woopa 716 |
 | 99 | 99 | Simone |
-| 100 | 99 | Shelby |
-| 101 | 99 | Lani |
-| 102 | 96 | Joab Gonzalez |
-| 103 | 96 | Alyson M Kehler |
+| 100 | 99 | Lani |
+| 101 | 99 | Shelby |
+| 102 | 96 | Alyson M Kehler |
+| 103 | 96 | Joab Gonzalez |
 | 104 | 95 | Daryn Elliott |
 | 105 | 95 | Маркус Вік |
 | 106 | 93 | farfromlocal |
 | 107 | 92 | Homie |
 | 108 | 91 | JuicyJuice |
-| 109 | 91 | Dominique Melendez |
-| 110 | 91 | Dayna Arthurs |
+| 109 | 91 | Dayna Arthurs |
+| 110 | 91 | Dominique Melendez |
 | 111 | 90 | Quiomarie Cotto |
 | 112 | 89 | Waxboss |
-| 113 | 88 | Loony Rotater |
-| 114 | 88 | Laguya |
-| 115 | 87 | Tiffany Loree Tiffany Oneill |
-| 116 | 87 | Limbo |
+| 113 | 88 | Laguya |
+| 114 | 88 | Loony Rotater |
+| 115 | 87 | Limbo |
+| 116 | 87 | Tiffany Loree Tiffany Oneill |
 | 117 | 86 | Rachel Lemos |
 | 118 | 86 | gabs |
-| 119 | 84 | Slimm |
-| 120 | 84 | Rae Saunders |
-| 121 | 84 | Hwanger Land |
-| 122 | 84 | No Time |
+| 119 | 84 | No Time |
+| 120 | 84 | Hwanger Land |
+| 121 | 84 | Rae Saunders |
+| 122 | 84 | Slimm |
 | 123 | 83 | MrLoner Stoner |
 | 124 | 83 | Chiquita Blue |
 | 125 | 82 | Luna |
@@ -136,14 +136,14 @@
 | 128 | 81 | Taz |
 | 129 | 81 | Stasia |
 | 130 | 80 | Leigh Pierce |
-| 131 | 80 | DexterDobbins |
-| 132 | 80 | Sarah Berry Stevens |
-| 133 | 80 | Krista Diaz |
-| 134 | 80 | Magz |
-| 135 | 79 | Joyce Myers |
-| 136 | 79 | Janae Harris |
-| 137 | 78 | Tina Thomas |
-| 138 | 78 | Cheery Risegrid |
+| 131 | 80 | Magz |
+| 132 | 80 | Krista Diaz |
+| 133 | 80 | Sarah Berry Stevens |
+| 134 | 80 | DexterDobbins |
+| 135 | 79 | Janae Harris |
+| 136 | 79 | Joyce Myers |
+| 137 | 78 | Cheery Risegrid |
+| 138 | 78 | Tina Thomas |
 | 139 | 78 | Stef |
 | 140 | 77 | Chirpy Link |
 | 141 | 77 | Loopy Clusterline |

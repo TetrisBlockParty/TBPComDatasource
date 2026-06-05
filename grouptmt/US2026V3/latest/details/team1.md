@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 23:42:16 UTC
+# Standings for team1 as of 2026-06-05 23:42:38 UTC
 
 **Total Participants:** 600
 
@@ -12,7 +12,7 @@
 | 4 | 2671 | Tracy Cohen |
 | 5 | 2499 | Dyane Leah Ware |
 | 6 | 2458 | Cozy Edge |
-| 7 | 1113 | Sha Harris |
+| 7 | 1213 | Sha Harris |
 | 8 | 1050 | jaimie |
 | 9 | 950 | Chandler Spencer |
 | 10 | 924 | Carrie English |
@@ -59,8 +59,8 @@
 | 51 | 212 | KenpachisGirl |
 | 52 | 208 | Nerdy Snapfall |
 | 53 | 206 | Tiana Moore |
-| 54 | 197 | Spicy Balancer |
-| 55 | 197 | Blockhead |
+| 54 | 201 | Blockhead |
+| 55 | 197 | Spicy Balancer |
 | 56 | 196 | COSA303 |
 | 57 | 189 | Gotcha |
 | 58 | 185 | Teddy Davis |
@@ -220,17 +220,17 @@
 | 212 | 45 | Glitzy Clusterer |
 | 213 | 44 | Andi McGreevy |
 | 214 | 44 | Tamara Johnson-Carter |
-| 215 | 43 | Brenda Malachi-butler |
-| 216 | 43 | Block |
+| 215 | 43 | Block |
+| 216 | 43 | Brenda Malachi-butler |
 | 217 | 43 | Rachel Renae Bettis |
-| 218 | 43 | IThinkNot |
-| 219 | 43 | Brittany Fells |
-| 220 | 42 | Dandy Brickfit |
-| 221 | 42 | sasha |
-| 222 | 41 | Slinky Brickmatch |
-| 223 | 41 | Frothy Zoney |
-| 224 | 41 | Cranky Fall |
-| 225 | 41 | Kimberly Linares Hernandez |
+| 218 | 43 | Kimberly Linares Hernandez |
+| 219 | 43 | IThinkNot |
+| 220 | 43 | Brittany Fells |
+| 221 | 42 | Dandy Brickfit |
+| 222 | 42 | sasha |
+| 223 | 41 | Slinky Brickmatch |
+| 224 | 41 | Frothy Zoney |
+| 225 | 41 | Cranky Fall |
 | 226 | 40 | Jean Regis |
 | 227 | 40 | Flashy Slam |
 | 228 | 40 | Wild Out Nai |
@@ -433,12 +433,12 @@
 | 425 | 16 | Tanisha Robinson |
 | 426 | 16 | Symonne 'Monnie' Pierce |
 | 427 | 16 | Stephen Glaze |
-| 428 | 16 | Poppy Smasher |
+| 428 | 16 | Angelique Talbot |
 | 429 | 16 | Sammie Walker |
-| 430 | 15 | Tami Spence |
-| 431 | 15 | Nicole Freeman |
-| 432 | 15 | Haley Bell |
-| 433 | 15 | Angelique Talbot |
+| 430 | 16 | Poppy Smasher |
+| 431 | 15 | Tami Spence |
+| 432 | 15 | Nicole Freeman |
+| 433 | 15 | Haley Bell |
 | 434 | 15 | Delitra Perkins Hatter |
 | 435 | 15 | LaToya Chambers |
 | 436 | 15 | Chummy Frame |
@@ -585,27 +585,27 @@
 | 577 | 5 | Spunky Strikerbuilder |
 | 578 | 5 | Stephanie Zuniga Tullock |
 | 579 | 5 | Barbramerri Tarboro |
-| 580 | 5 | pooh |
-| 581 | 5 | Jasmine Hariston-Estis |
-| 582 | 5 | Derek Beverly |
-| 583 | 5 | Lil T |
-| 584 | 5 | Hasty Brickzone |
-| 585 | 5 | Sara |
-| 586 | 5 | DirtiestofMikes |
-| 587 | 5 | Chill Linkroll |
-| 588 | 5 | Kidgib5 |
-| 589 | 5 | Jennifer Moore |
-| 590 | 5 | the guy |
-| 591 | 5 | Shakuria Cortia Burney |
-| 592 | 5 | Mommy Frank |
-| 593 | 5 | Tito Divyn |
-| 594 | 5 | Shawn Himes |
-| 595 | 5 | Tamika Fisher |
-| 596 | 5 | Zappy Clearfit |
-| 597 | 5 | Duckey |
-| 598 | 5 | Sheila Burnham |
-| 599 | 5 | Logan Frost |
-| 600 | 5 | Andre Sanon |
+| 580 | 5 | Jasmine Hariston-Estis |
+| 581 | 5 | Derek Beverly |
+| 582 | 5 | Lil T |
+| 583 | 5 | Hasty Brickzone |
+| 584 | 5 | Sara |
+| 585 | 5 | DirtiestofMikes |
+| 586 | 5 | Chill Linkroll |
+| 587 | 5 | Kidgib5 |
+| 588 | 5 | Jennifer Moore |
+| 589 | 5 | the guy |
+| 590 | 5 | Shakuria Cortia Burney |
+| 591 | 5 | Mommy Frank |
+| 592 | 5 | Tito Divyn |
+| 593 | 5 | Shawn Himes |
+| 594 | 5 | Tamika Fisher |
+| 595 | 5 | Zappy Clearfit |
+| 596 | 5 | Duckey |
+| 597 | 5 | Sheila Burnham |
+| 598 | 5 | Logan Frost |
+| 599 | 5 | Andre Sanon |
+| 600 | 5 | pooh |
 
 ---
 *Standings created by tournaments datasource generation tool*
