@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 19:56:38 UTC
+# Standings for team4 as of 2026-06-05 19:57:15 UTC
 
 **Total Participants:** 412
 
@@ -145,12 +145,12 @@
 | 137 | 49 | Маркус Вік |
 | 138 | 49 | smarty |
 | 139 | 49 | Daring Brickbuilder |
-| 140 | 48 | Joseph Hunter |
-| 141 | 48 | Dapper Strikerpiece |
-| 142 | 47 | Melissa Quinn |
-| 143 | 47 | gabs |
-| 144 | 46 | Jennifer Garcia |
-| 145 | 46 | Bouncy |
+| 140 | 49 | Bouncy |
+| 141 | 48 | Joseph Hunter |
+| 142 | 48 | Dapper Strikerpiece |
+| 143 | 47 | Melissa Quinn |
+| 144 | 47 | gabs |
+| 145 | 46 | Jennifer Garcia |
 | 146 | 45 | Scamp Jones |
 | 147 | 44 | Lul Babie |
 | 148 | 44 | Karen Rodriguez |

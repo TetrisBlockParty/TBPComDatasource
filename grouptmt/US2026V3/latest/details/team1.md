@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 19:56:38 UTC
+# Standings for team1 as of 2026-06-05 19:57:15 UTC
 
 **Total Participants:** 456
 
@@ -44,18 +44,18 @@
 | 36 | 215 | Abraham Espaillat |
 | 37 | 215 | Jennifer To |
 | 38 | 200 | JoJo |
-| 39 | 197 | Epic Snapfall |
-| 40 | 197 | Nerdy Snapfall |
+| 39 | 197 | Nerdy Snapfall |
+| 40 | 197 | Epic Snapfall |
 | 41 | 196 | COSA303 |
 | 42 | 193 | Spicy Balancer |
 | 43 | 185 | Teddy Davis |
 | 44 | 178 | Gotcha |
 | 45 | 177 | Chris Sladoje |
 | 46 | 166 | Tarnisha Neicy Jones |
-| 47 | 165 | Davionte DaeDae Hopson-Rodriguez |
-| 48 | 162 | Markeeta Lipscomb |
-| 49 | 158 | W.A. Simpson |
-| 50 | 157 | Blockhead |
+| 47 | 166 | Blockhead |
+| 48 | 165 | Davionte DaeDae Hopson-Rodriguez |
+| 49 | 162 | Markeeta Lipscomb |
+| 50 | 158 | W.A. Simpson |
 | 51 | 156 | Jessica Russell |
 | 52 | 151 | Dacia Hicks |
 | 53 | 140 | Felicia Cain |
@@ -67,39 +67,39 @@
 | 59 | 130 | Lashaunda |
 | 60 | 127 | SPNLover24 |
 | 61 | 126 | Cee Emm |
-| 62 | 119 | GrkGdess |
-| 63 | 117 | Robyn Caldwell |
+| 62 | 121 | Robyn Caldwell |
+| 63 | 119 | GrkGdess |
 | 64 | 116 | Eartha Brown |
 | 65 | 111 | Shalena Marie Humphrey |
 | 66 | 108 | Hasty Pivoty |
 | 67 | 103 | KenpachisGirl |
-| 68 | 100 | Asani CHumba |
-| 69 | 100 | Jessica Carter |
-| 70 | 100 | Cool Bridger |
-| 71 | 100 | Zippy Lifter |
-| 72 | 100 | Char |
-| 73 | 96 | Simone Bailey |
-| 74 | 96 | Cortaz Lawrie |
-| 75 | 96 | David Fuentes |
+| 68 | 100 | Jessica Carter |
+| 69 | 100 | Cool Bridger |
+| 70 | 100 | Zippy Lifter |
+| 71 | 100 | Char |
+| 72 | 100 | Asani CHumba |
+| 73 | 96 | Cortaz Lawrie |
+| 74 | 96 | David Fuentes |
+| 75 | 96 | Simone Bailey |
 | 76 | 95 | Nate Myers |
 | 77 | 90 | 신재호 |
 | 78 | 88 | Eric Mcgaughy |
 | 79 | 88 | QueenShay AllGood |
 | 80 | 84 | Ciera Peace |
-| 81 | 81 | Lively Riserpiece |
-| 82 | 81 | Mafio SO |
-| 83 | 80 | Carolyn Smith |
+| 81 | 81 | Mafio SO |
+| 82 | 81 | Lively Riserpiece |
+| 83 | 80 | Jazzy Dashpiece |
 | 84 | 80 | Charles Johnson |
-| 85 | 80 | Jazzy Dashpiece |
-| 86 | 80 | Felicia Williams |
+| 85 | 80 | Felicia Williams |
+| 86 | 80 | Carolyn Smith |
 | 87 | 80 | Chevalier Burley |
 | 88 | 80 | Rachel Zimmerman |
 | 89 | 79 | Mimi 1.0 |
 | 90 | 79 | Shanell Thomas |
 | 91 | 77 | Amber Wilson |
 | 92 | 76 | Giggly Shatterline |
-| 93 | 75 | Dizzy Dashy |
-| 94 | 75 | Katrina Ramey |
+| 93 | 75 | Katrina Ramey |
+| 94 | 75 | Dizzy Dashy |
 | 95 | 74 | ♈️ Ariesbaby |
 | 96 | 74 | Tonya McElroy |
 | 97 | 74 | TBABYJ |
@@ -199,16 +199,16 @@
 | 191 | 35 | messyboots |
 | 192 | 35 | Glitzy Clusterer |
 | 193 | 35 | Jack Vlasak |
-| 194 | 34 | Breezy Catcher |
-| 195 | 33 | Chris Nelson |
-| 196 | 33 | Krose Byers |
-| 197 | 33 | Mom3granny2 |
-| 198 | 33 | Richard Flex |
-| 199 | 33 | Rene Hicks |
-| 200 | 33 | Tonny Williams |
-| 201 | 33 | Block King |
-| 202 | 32 | Melvin Simpson |
-| 203 | 32 | Tobey Marberry |
+| 194 | 35 | Tobey Marberry |
+| 195 | 34 | Breezy Catcher |
+| 196 | 33 | Chris Nelson |
+| 197 | 33 | Krose Byers |
+| 198 | 33 | Mom3granny2 |
+| 199 | 33 | Richard Flex |
+| 200 | 33 | Rene Hicks |
+| 201 | 33 | Tonny Williams |
+| 202 | 33 | Block King |
+| 203 | 32 | Melvin Simpson |
 | 204 | 32 | Tomme Poliwka |
 | 205 | 32 | Jack Mehof |
 | 206 | 32 | Sylvia Offically A Mcgowan |
@@ -456,12 +456,12 @@
 | 448 | 5 | Saucy Linkgrid |
 | 449 | 5 | Kidgib5 |
 | 450 | 5 | Jennifer Moore |
-| 451 | 5 | Andre Sanon |
-| 452 | 5 | Shawn Himes |
-| 453 | 5 | Tamika Fisher |
-| 454 | 5 | Barbramerri Tarboro |
-| 455 | 5 | pooh |
-| 456 | 5 | Jjhandsome |
+| 451 | 5 | Shawn Himes |
+| 452 | 5 | Tamika Fisher |
+| 453 | 5 | Barbramerri Tarboro |
+| 454 | 5 | pooh |
+| 455 | 5 | Jjhandsome |
+| 456 | 5 | Andre Sanon |
 
 ---
 *Standings created by tournaments datasource generation tool*
