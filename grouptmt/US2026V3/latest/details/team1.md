@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:40:36 UTC
+# Standings for team1 as of 2026-06-05 13:41:12 UTC
 
 **Total Participants:** 123
 
@@ -60,57 +60,57 @@
 | 52 | 30 | Lester Malone |
 | 53 | 30 | Brian Bohanon II |
 | 54 | 30 | Saucy Faller |
-| 55 | 28 | John Staub |
-| 56 | 27 | Jae Thompson-Tyus |
+| 55 | 29 | hope |
+| 56 | 28 | John Staub |
 | 57 | 27 | Charlene Baltimore |
-| 58 | 27 | Zany Breaker |
-| 59 | 27 | Angela R Wilson |
-| 60 | 25 | Hasty Pivoty |
+| 58 | 27 | Jae Thompson-Tyus |
+| 59 | 27 | Zany Breaker |
+| 60 | 27 | Angela R Wilson |
 | 61 | 25 | Tyrone Porter |
-| 62 | 24 | Ashley MyBeauty Daniels |
-| 63 | 23 | Poppy Twister |
-| 64 | 22 | Tanisha Taylor |
-| 65 | 21 | Melvin Simpson |
-| 66 | 21 | Brave Balanceblock |
-| 67 | 20 | Tony P Burke |
-| 68 | 20 | Trina Greenwood |
+| 62 | 25 | Hasty Pivoty |
+| 63 | 24 | Ashley MyBeauty Daniels |
+| 64 | 23 | Poppy Twister |
+| 65 | 22 | Tanisha Taylor |
+| 66 | 21 | Melvin Simpson |
+| 67 | 21 | Brave Balanceblock |
+| 68 | 20 | Tony P Burke |
 | 69 | 20 | Jai |
-| 70 | 20 | Kimmie Gargano |
-| 71 | 20 | Chevalier Burley |
-| 72 | 19 | Shanjerrica Taylor Rosell |
+| 70 | 20 | Chevalier Burley |
+| 71 | 20 | Kimmie Gargano |
+| 72 | 20 | Trina Greenwood |
 | 73 | 19 | Saucy Tile |
-| 74 | 19 | Amanda Woodruff |
-| 75 | 19 | Brenda Malachi-butler |
-| 76 | 19 | Jenni |
-| 77 | 18 | Tyree Tman Shinette |
-| 78 | 18 | AleahKCH |
-| 79 | 18 | Sunny Clicky |
-| 80 | 17 | Rikki Moran |
+| 74 | 19 | Jenni |
+| 75 | 19 | Shanjerrica Taylor Rosell |
+| 76 | 19 | Brenda Malachi-butler |
+| 77 | 19 | Amanda Woodruff |
+| 78 | 18 | Tyree Tman Shinette |
+| 79 | 18 | AleahKCH |
+| 80 | 18 | Sunny Clicky |
 | 81 | 17 | Kimberly Red |
-| 82 | 16 | MsBobby Patrick |
+| 82 | 17 | Rikki Moran |
 | 83 | 16 | Boldy Pivoty |
 | 84 | 16 | Sylvia Offically A Mcgowan |
 | 85 | 16 | Flashy Slam |
-| 86 | 15 | Una |
+| 86 | 16 | MsBobby Patrick |
 | 87 | 15 | Tami Spence |
-| 88 | 14 | David A Alvino |
-| 89 | 14 | Alyssa Rae |
-| 90 | 13 | Oaklonboy mike |
-| 91 | 12 | Kimberly Hernandez |
-| 92 | 11 | Desiree Ryder |
-| 93 | 10 | Kenny 'Tailormade' Boyd |
-| 94 | 10 | 신재호 |
-| 95 | 10 | Tishauna Virgo |
-| 96 | 10 | Daddy |
-| 97 | 10 | Megan Payette |
-| 98 | 10 | Sarah Marie |
-| 99 | 10 | Keke |
-| 100 | 10 | Delitra Perkins Hatter |
-| 101 | 9 | Tina Criam |
+| 88 | 15 | Una |
+| 89 | 14 | David A Alvino |
+| 90 | 14 | Alyssa Rae |
+| 91 | 13 | Oaklonboy mike |
+| 92 | 12 | Kimberly Hernandez |
+| 93 | 11 | Desiree Ryder |
+| 94 | 10 | Kenny 'Tailormade' Boyd |
+| 95 | 10 | Keke |
+| 96 | 10 | Sarah Marie |
+| 97 | 10 | Delitra Perkins Hatter |
+| 98 | 10 | Daddy |
+| 99 | 10 | Megan Payette |
+| 100 | 10 | Tishauna Virgo |
+| 101 | 10 | 신재호 |
 | 102 | 9 | Shakmar |
-| 103 | 9 | IThinkNot |
-| 104 | 9 | Tamara N Lee |
-| 105 | 9 | hope |
+| 103 | 9 | Tina Criam |
+| 104 | 9 | IThinkNot |
+| 105 | 9 | Tamara N Lee |
 | 106 | 9 | Sashaleo |
 | 107 | 8 | Brika Brika |
 | 108 | 8 | Jessie N Michael Silvers |
