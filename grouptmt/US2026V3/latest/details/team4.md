@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 20:26:36 UTC
+# Standings for team4 as of 2026-06-05 20:27:15 UTC
 
 **Total Participants:** 424
 
@@ -27,8 +27,8 @@
 | 19 | 389 | Ning Quiambao |
 | 20 | 383 | Crissy Hoffman |
 | 21 | 379 | Snippy Grid |
-| 22 | 360 | Chaz Duncan |
-| 23 | 354 | Krysten Danielle Richard |
+| 22 | 364 | Krysten Danielle Richard |
+| 23 | 360 | Chaz Duncan |
 | 24 | 331 | Caitlyn Wang |
 | 25 | 324 | Heather Preston |
 | 26 | 322 | Alexis Cor |
@@ -250,8 +250,8 @@
 | 242 | 26 | Poppy |
 | 243 | 26 | Zippy Snaplink |
 | 244 | 26 | Alyson M Kehler |
-| 245 | 25 | BusterBear56 |
-| 246 | 25 | QueenLi86 |
+| 245 | 26 | QueenLi86 |
+| 246 | 25 | BusterBear56 |
 | 247 | 25 | ButterfliesRFree |
 | 248 | 25 | Andrea Dre Lomeli |
 | 249 | 25 | Vergie Michael |
@@ -267,23 +267,23 @@
 | 259 | 23 | Kevin Lyles |
 | 260 | 23 | Kristen Wallace |
 | 261 | 23 | Sonya |
-| 262 | 22 | Joab Gonzalez |
+| 262 | 22 | Chris Davis |
 | 263 | 22 | Nancy McCalla Abercrombie |
-| 264 | 22 | Jonelle Jacobs |
-| 265 | 21 | LilithMoon |
-| 266 | 21 | Darren Miguel |
-| 267 | 21 | SandyEva |
-| 268 | 21 | Dheeh Robles |
-| 269 | 21 | Keesha Muro |
-| 270 | 20 | Plucky Shatterfit |
+| 264 | 22 | Joab Gonzalez |
+| 265 | 22 | Jonelle Jacobs |
+| 266 | 21 | LilithMoon |
+| 267 | 21 | Darren Miguel |
+| 268 | 21 | SandyEva |
+| 269 | 21 | Dheeh Robles |
+| 270 | 21 | Keesha Muro |
 | 271 | 20 | Margie Thomas |
-| 272 | 20 | Tony Clark |
-| 273 | 20 | Tipsy Patternfit |
-| 274 | 20 | Mexican130 |
+| 272 | 20 | Plucky Shatterfit |
+| 273 | 20 | Tony Clark |
+| 274 | 20 | Tipsy Patternfit |
 | 275 | 20 | Silly Risegrid |
 | 276 | 20 | Jerett Coplin |
 | 277 | 20 | Hasty Dropzone |
-| 278 | 20 | Chris Davis |
+| 278 | 20 | Mexican130 |
 | 279 | 20 | Ashley DuVall |
 | 280 | 20 | Spidaman86 |
 | 281 | 20 | Rita Ann |
@@ -298,12 +298,12 @@
 | 290 | 19 | Alizabeth Garcia |
 | 291 | 19 | Cheeky Fallzone |
 | 292 | 19 | Swanky Matchfit |
-| 293 | 19 | Diana Fernandez |
-| 294 | 19 | Tamika Ashli Bonner |
-| 295 | 19 | Jewelz |
-| 296 | 18 | Cauntay Youngking Williams |
-| 297 | 18 | Stacia Marie |
-| 298 | 18 | Perry Ransom |
+| 293 | 19 | Perry Ransom |
+| 294 | 19 | Diana Fernandez |
+| 295 | 19 | Tamika Ashli Bonner |
+| 296 | 19 | Jewelz |
+| 297 | 18 | Cauntay Youngking Williams |
+| 298 | 18 | Stacia Marie |
 | 299 | 18 | Frothy Pivotfall |
 | 300 | 18 | Iforget |
 | 301 | 18 | Rhonda Dowling |
