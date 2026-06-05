@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 14:48:34 UTC
+# Standings for team1 as of 2026-06-05 14:49:14 UTC
 
 **Total Participants:** 200
 
@@ -36,37 +36,37 @@
 | 28 | 100 | Asani CHumba |
 | 29 | 100 | Rayya Kiser |
 | 30 | 99 | Kellie Hall |
-| 31 | 95 | Ashley MyBeauty Daniels |
-| 32 | 86 | SPNLover24 |
-| 33 | 81 | Mafio SO |
+| 31 | 97 | Ashley MyBeauty Daniels |
+| 32 | 87 | Brian Bohanon II |
+| 33 | 86 | SPNLover24 |
 | 34 | 81 | Robyn Caldwell |
-| 35 | 80 | Jazzy Dashpiece |
-| 36 | 80 | Rachel Zimmerman |
-| 37 | 80 | Char |
-| 38 | 80 | Felicia Williams |
-| 39 | 80 | Jennifer To |
-| 40 | 77 | Amber Wilson |
-| 41 | 75 | Katrina Ramey |
-| 42 | 74 | ♈️ Ariesbaby |
+| 35 | 81 | Mafio SO |
+| 36 | 80 | Jennifer To |
+| 37 | 80 | Felicia Williams |
+| 38 | 80 | Char |
+| 39 | 80 | Rachel Zimmerman |
+| 40 | 80 | Jazzy Dashpiece |
+| 41 | 77 | Amber Wilson |
+| 42 | 75 | Katrina Ramey |
 | 43 | 74 | Tonya McElroy |
-| 44 | 72 | David Fuentes |
-| 45 | 70 | $hort Dog |
-| 46 | 69 | AF Cruz |
-| 47 | 67 | Michele Elizabeth McKay-Johnson |
-| 48 | 66 | Shontanese Adams |
-| 49 | 65 | Shanell Thomas |
-| 50 | 65 | Dizzy Dashy |
-| 51 | 65 | Frisky Fall |
-| 52 | 63 | Carrie English |
-| 53 | 60 | Christian Pham |
-| 54 | 57 | Tosha Michelle |
-| 55 | 56 | Cortaz Lawrie |
-| 56 | 54 | Lauraly |
-| 57 | 51 | Comedian Gdane |
-| 58 | 50 | Slinky Party |
+| 44 | 74 | ♈️ Ariesbaby |
+| 45 | 72 | David Fuentes |
+| 46 | 70 | $hort Dog |
+| 47 | 69 | AF Cruz |
+| 48 | 67 | Michele Elizabeth McKay-Johnson |
+| 49 | 66 | Cortaz Lawrie |
+| 50 | 66 | Shontanese Adams |
+| 51 | 65 | Shanell Thomas |
+| 52 | 65 | Dizzy Dashy |
+| 53 | 65 | Frisky Fall |
+| 54 | 63 | Carrie English |
+| 55 | 60 | Christian Pham |
+| 56 | 57 | Tosha Michelle |
+| 57 | 54 | Lauraly |
+| 58 | 51 | Comedian Gdane |
 | 59 | 50 | Donna Payne |
-| 60 | 50 | Yazz |
-| 61 | 48 | Brian Bohanon II |
+| 60 | 50 | Slinky Party |
+| 61 | 50 | Yazz |
 | 62 | 45 | Jayjay Rich |
 | 63 | 44 | Ciera Peace |
 | 64 | 43 | KenpachisGirl |
