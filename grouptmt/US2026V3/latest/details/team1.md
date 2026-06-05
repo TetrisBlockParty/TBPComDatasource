@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:38:15 UTC
+# Standings for team1 as of 2026-06-05 15:38:36 UTC
 
 **Total Participants:** 253
 
@@ -226,39 +226,39 @@
 | 218 | 9 | Abby |
 | 219 | 9 | Tina Criam |
 | 220 | 8 | Brika Brika |
-| 221 | 8 | Tanesha Ga'sFinest Corbett |
-| 222 | 8 | Sammie Walker |
-| 223 | 8 | Taz Ballard |
-| 224 | 8 | Breezy Catcher |
-| 225 | 8 | Jessie N Michael Silvers |
-| 226 | 7 | Jumpy Gridlock |
-| 227 | 7 | Block King |
-| 228 | 7 | Shane Brucewayne |
+| 221 | 8 | Sammie Walker |
+| 222 | 8 | Breezy Catcher |
+| 223 | 8 | Jessie N Michael Silvers |
+| 224 | 8 | Tanesha Ga'sFinest Corbett |
+| 225 | 8 | Taz Ballard |
+| 226 | 7 | Shane Brucewayne |
+| 227 | 7 | Kendra McIntyre |
+| 228 | 7 | wmedina67 |
 | 229 | 7 | Mary2 |
-| 230 | 7 | Kendra McIntyre |
-| 231 | 7 | whatever |
-| 232 | 7 | wmedina67 |
-| 233 | 6 | Allison Baxter |
-| 234 | 6 | Jeffrey Barrows |
-| 235 | 6 | Kyle Conley |
-| 236 | 6 | Cece Fowler |
-| 237 | 6 | Christopher Wallace |
-| 238 | 6 | Janine Hunter |
-| 239 | 6 | Brittnay Wright |
-| 240 | 5 | Zappy Clearfit |
-| 241 | 5 | Tamika Fisher |
-| 242 | 5 | Rixo Blax |
-| 243 | 5 | Temeshia Brooks Washington |
-| 244 | 5 | KeeKee Williams |
-| 245 | 5 | Derek Beverly |
-| 246 | 5 | Lil T |
-| 247 | 5 | Jelyfish |
-| 248 | 5 | Stephanie Zuniga Tullock |
+| 230 | 7 | whatever |
+| 231 | 7 | Block King |
+| 232 | 7 | Jumpy Gridlock |
+| 233 | 6 | Jeffrey Barrows |
+| 234 | 6 | Cece Fowler |
+| 235 | 6 | Janine Hunter |
+| 236 | 6 | Brittnay Wright |
+| 237 | 6 | Allison Baxter |
+| 238 | 6 | Kyle Conley |
+| 239 | 6 | Christopher Wallace |
+| 240 | 5 | KeeKee Williams |
+| 241 | 5 | Rixo Blax |
+| 242 | 5 | Temeshia Brooks Washington |
+| 243 | 5 | Vernon Hoyt |
+| 244 | 5 | Zappy Clearfit |
+| 245 | 5 | Tamika Fisher |
+| 246 | 5 | Jennifer Moore |
+| 247 | 5 | Kidgib5 |
+| 248 | 5 | Shawn Himes |
 | 249 | 5 | DirtiestofMikes |
-| 250 | 5 | Shawn Himes |
-| 251 | 5 | Kidgib5 |
-| 252 | 5 | Jennifer Moore |
-| 253 | 5 | Vernon Hoyt |
+| 250 | 5 | Stephanie Zuniga Tullock |
+| 251 | 5 | Lil T |
+| 252 | 5 | Jelyfish |
+| 253 | 5 | Derek Beverly |
 
 ---
 *Standings created by tournaments datasource generation tool*
