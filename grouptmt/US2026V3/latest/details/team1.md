@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 21:06:37 UTC
+# Standings for team1 as of 2026-06-05 21:07:15 UTC
 
 **Total Participants:** 505
 
@@ -493,7 +493,7 @@
 | 485 | 5 | Saucy Linkgrid |
 | 486 | 5 | Logan Frost |
 | 487 | 5 | KeeKee Williams |
-| 488 | 5 | Andre Sanon |
+| 488 | 5 | Zappy Clearfit |
 | 489 | 5 | Vernon Hoyt |
 | 490 | 5 | Derek Beverly |
 | 491 | 5 | Lil T |
@@ -506,7 +506,7 @@
 | 498 | 5 | Tito Divyn |
 | 499 | 5 | Shawn Himes |
 | 500 | 5 | Tamika Fisher |
-| 501 | 5 | Zappy Clearfit |
+| 501 | 5 | Andre Sanon |
 | 502 | 5 | Barbramerri Tarboro |
 | 503 | 5 | pooh |
 | 504 | 5 | Jjhandsome |
