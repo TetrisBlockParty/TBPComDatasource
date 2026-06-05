@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 13:22:35 UTC
+# Standings for team2 as of 2026-06-05 13:23:13 UTC
 
 **Total Participants:** 92
 
@@ -17,82 +17,82 @@
 | 9 | 353 | Amber Triguero |
 | 10 | 200 | Tim Ix |
 | 11 | 199 | Stella |
-| 12 | 83 | Ashley Voelz |
-| 13 | 75 | Angeleye A James |
-| 14 | 73 | LittleHippoEars |
-| 15 | 72 | Jamie Fenyus |
-| 16 | 70 | Amanda Sikes |
-| 17 | 59 | April Addis |
-| 18 | 58 | Chipper Towerzone |
-| 19 | 50 | Martha Lynn Wiggins |
-| 20 | 48 | Spicy Basepiece |
-| 21 | 45 | Michelle Anne |
-| 22 | 44 | Zaniya Brown |
-| 23 | 42 | Henny Henny |
-| 24 | 40 | Kevin Mccoy |
-| 25 | 40 | Bon Lynn |
-| 26 | 38 | Harper |
-| 27 | 37 | Jumpy Dashpiece |
-| 28 | 36 | Rick |
-| 29 | 35 | Jason Cunningham |
-| 30 | 33 | Tango Sierra |
-| 31 | 31 | Kenzie |
-| 32 | 30 | Peter Fogg |
-| 33 | 30 | Patti Ward |
-| 34 | 30 | Jessica Perkins |
-| 35 | 28 | Sara BlueEyes |
-| 36 | 28 | Nathan Walker |
-| 37 | 27 | Michael Carmichael |
-| 38 | 26 | Quina Jesse Fejaran |
-| 39 | 26 | Rachel Huber |
-| 40 | 26 | Ariel Gundersen |
-| 41 | 25 | Jgato |
+| 12 | 98 | Amy Nicole McCanne |
+| 13 | 83 | Ashley Voelz |
+| 14 | 75 | Angeleye A James |
+| 15 | 73 | LittleHippoEars |
+| 16 | 72 | Jamie Fenyus |
+| 17 | 70 | Amanda Sikes |
+| 18 | 59 | April Addis |
+| 19 | 58 | Chipper Towerzone |
+| 20 | 50 | Martha Lynn Wiggins |
+| 21 | 48 | Spicy Basepiece |
+| 22 | 45 | Michelle Anne |
+| 23 | 44 | Zaniya Brown |
+| 24 | 42 | Henny Henny |
+| 25 | 40 | Kevin Mccoy |
+| 26 | 40 | Bon Lynn |
+| 27 | 38 | Harper |
+| 28 | 37 | Jumpy Dashpiece |
+| 29 | 36 | Rick |
+| 30 | 35 | Jason Cunningham |
+| 31 | 33 | Tango Sierra |
+| 32 | 31 | Kenzie |
+| 33 | 30 | Jessica Perkins |
+| 34 | 30 | Peter Fogg |
+| 35 | 30 | Patti Ward |
+| 36 | 28 | Sara BlueEyes |
+| 37 | 28 | Nathan Walker |
+| 38 | 27 | Michael Carmichael |
+| 39 | 26 | Ariel Gundersen |
+| 40 | 26 | Rachel Huber |
+| 41 | 26 | Quina Jesse Fejaran |
 | 42 | 25 | James Ward |
-| 43 | 24 | A.j. Langley |
-| 44 | 24 | Dayna Messer-Thelen |
-| 45 | 23 | Brittni Lawrence |
-| 46 | 23 | Damion Morrison |
-| 47 | 23 | IncrediDragon |
-| 48 | 22 | Jeff Pottgether |
-| 49 | 21 | Kelly |
-| 50 | 20 | Wendy McKee |
-| 51 | 20 | AcardBoardBox |
+| 43 | 25 | Jgato |
+| 44 | 24 | A.j. Langley |
+| 45 | 24 | Dayna Messer-Thelen |
+| 46 | 23 | IncrediDragon |
+| 47 | 23 | Brittni Lawrence |
+| 48 | 23 | Damion Morrison |
+| 49 | 22 | Jeff Pottgether |
+| 50 | 21 | Kelly |
+| 51 | 20 | ChefDeb |
 | 52 | 20 | Chipper Stackbuilder |
-| 53 | 20 | ChefDeb |
-| 54 | 18 | Tracey Cox |
-| 55 | 18 | Amy Nicole McCanne |
-| 56 | 16 | Justin Stark |
-| 57 | 16 | Sarah Jane Gorsuch |
-| 58 | 14 | Andre Love |
-| 59 | 14 | Steven Craig |
-| 60 | 12 | Chirpy Grid |
-| 61 | 12 | Diamond Balotje |
-| 62 | 12 | Stacey Loretta Wallace |
+| 53 | 20 | AcardBoardBox |
+| 54 | 20 | Wendy McKee |
+| 55 | 18 | Tracey Cox |
+| 56 | 16 | Sarah Jane Gorsuch |
+| 57 | 16 | Justin Stark |
+| 58 | 14 | Steven Craig |
+| 59 | 14 | Andre Love |
+| 60 | 12 | Stacey Loretta Wallace |
+| 61 | 12 | Chirpy Grid |
+| 62 | 12 | Diamond Balotje |
 | 63 | 12 | Mary |
-| 64 | 11 | Yany |
-| 65 | 11 | Lora Via |
+| 64 | 11 | Lora Via |
+| 65 | 11 | Yany |
 | 66 | 11 | Thy Bui |
-| 67 | 10 | Donna Casey |
+| 67 | 10 | Twisty Snapmatch |
 | 68 | 10 | Thomas Johnstone |
 | 69 | 10 | Jennifer Bell |
 | 70 | 10 | Gill |
-| 71 | 10 | Twisty Snapmatch |
-| 72 | 10 | Chesney |
-| 73 | 10 | Justin Furne |
-| 74 | 10 | Joyce Galloway |
-| 75 | 10 | Berta Hurley |
+| 71 | 10 | Joyce Galloway |
+| 72 | 10 | Berta Hurley |
+| 73 | 10 | Donna Casey |
+| 74 | 10 | Justin Furne |
+| 75 | 10 | Chesney |
 | 76 | 9 | Giggly Spinblock |
 | 77 | 9 | Princess Cucumber |
 | 78 | 9 | Darla Ragsdale |
 | 79 | 9 | Mama G |
 | 80 | 9 | Rhonda Driskill |
-| 81 | 8 | Stephanie |
-| 82 | 8 | Renee Weedling |
+| 81 | 8 | Renee Weedling |
+| 82 | 8 | Stephanie |
 | 83 | 7 | Sara Perkins |
-| 84 | 7 | Epic Framezone |
-| 85 | 7 | nova |
-| 86 | 7 | Elizabeth Elaine Coursey |
-| 87 | 7 | Cherica Taylor |
+| 84 | 7 | Cherica Taylor |
+| 85 | 7 | Elizabeth Elaine Coursey |
+| 86 | 7 | Epic Framezone |
+| 87 | 7 | nova |
 | 88 | 6 | Kelly Christine Trimmer |
 | 89 | 6 | fancypants |
 | 90 | 5 | Tashamonique Puckey |

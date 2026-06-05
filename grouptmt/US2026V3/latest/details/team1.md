@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:22:35 UTC
+# Standings for team1 as of 2026-06-05 13:23:13 UTC
 
 **Total Participants:** 108
 
@@ -28,14 +28,14 @@
 | 20 | 80 | Jazzy Dashpiece |
 | 21 | 77 | Amber Wilson |
 | 22 | 74 | ♈️ Ariesbaby |
-| 23 | 67 | Michele Elizabeth McKay-Johnson |
-| 24 | 66 | Shontanese Adams |
-| 25 | 65 | Dizzy Dashy |
+| 23 | 70 | SPNLover24 |
+| 24 | 67 | Michele Elizabeth McKay-Johnson |
+| 25 | 66 | Shontanese Adams |
 | 26 | 65 | Shanell Thomas |
-| 27 | 63 | Carrie English |
-| 28 | 60 | Asani CHumba |
-| 29 | 60 | Christian Pham |
-| 30 | 55 | SPNLover24 |
+| 27 | 65 | Dizzy Dashy |
+| 28 | 63 | Carrie English |
+| 29 | 60 | Asani CHumba |
+| 30 | 60 | Christian Pham |
 | 31 | 50 | Slinky Party |
 | 32 | 43 | Block |
 | 33 | 43 | KenpachisGirl |
@@ -48,8 +48,8 @@
 | 40 | 37 | Lootch |
 | 41 | 35 | Saucy Crusher |
 | 42 | 35 | Lilly Brown |
-| 43 | 35 | Dai Bo |
-| 44 | 35 | KoolKimJay |
+| 43 | 35 | KoolKimJay |
+| 44 | 35 | Dai Bo |
 | 45 | 34 | Steve Reno |
 | 46 | 30 | Saucy Faller |
 | 47 | 30 | Brian Bohanon II |
@@ -57,19 +57,19 @@
 | 49 | 28 | John Staub |
 | 50 | 28 | David Fuentes |
 | 51 | 27 | Charlene Baltimore |
-| 52 | 27 | Angela R Wilson |
-| 53 | 27 | Zany Breaker |
+| 52 | 27 | Zany Breaker |
+| 53 | 27 | Angela R Wilson |
 | 54 | 27 | Jae Thompson-Tyus |
 | 55 | 26 | Yashica Smith |
 | 56 | 25 | Tyrone Porter |
 | 57 | 23 | Tobey Marberry |
 | 58 | 23 | Poppy Twister |
 | 59 | 22 | Tanisha Taylor |
-| 60 | 21 | Brave Balanceblock |
-| 61 | 20 | Hasty Pivoty |
-| 62 | 20 | Chevalier Burley |
-| 63 | 20 | Jai |
-| 64 | 20 | Trina Greenwood |
+| 60 | 21 | Hasty Pivoty |
+| 61 | 21 | Brave Balanceblock |
+| 62 | 20 | Jai |
+| 63 | 20 | Trina Greenwood |
+| 64 | 20 | Chevalier Burley |
 | 65 | 19 | Shanjerrica Taylor Rosell |
 | 66 | 19 | Amanda Woodruff |
 | 67 | 19 | Jenni |
@@ -103,15 +103,15 @@
 | 95 | 9 | Tamara N Lee |
 | 96 | 8 | Brika Brika |
 | 97 | 8 | Sammie Walker |
-| 98 | 7 | Kendra McIntyre |
-| 99 | 7 | Mary2 |
+| 98 | 7 | Mary2 |
+| 99 | 7 | Kendra McIntyre |
 | 100 | 6 | Janine Hunter |
-| 101 | 6 | Taz Ballard |
+| 101 | 6 | Jayjay Rich |
 | 102 | 6 | Ashley Espeut |
-| 103 | 6 | Jayjay Rich |
-| 104 | 5 | DirtiestofMikes |
+| 103 | 6 | Taz Ballard |
+| 104 | 5 | Jennifer Moore |
 | 105 | 5 | Derek Beverly |
-| 106 | 5 | Jennifer Moore |
+| 106 | 5 | DirtiestofMikes |
 | 107 | 5 | Shakmar |
 | 108 | 5 | Cheeky Pop |
 
