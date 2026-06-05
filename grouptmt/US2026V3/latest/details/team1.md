@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 16:19:14 UTC
+# Standings for team1 as of 2026-06-05 16:20:14 UTC
 
 **Total Participants:** 285
 
@@ -28,13 +28,13 @@
 | 20 | 241 | Ivana Schmidt |
 | 21 | 239 | Kellie Hall |
 | 22 | 238 | Holly Jolly |
-| 23 | 234 | Pdubbl3 |
-| 24 | 223 | Leebo Slice |
+| 23 | 237 | Leebo Slice |
+| 24 | 234 | Pdubbl3 |
 | 25 | 220 | Rayya Kiser |
 | 26 | 215 | Abraham Espaillat |
 | 27 | 199 | Ashley MyBeauty Daniels |
-| 28 | 185 | Jennifer To |
-| 29 | 180 | COSA303 |
+| 28 | 185 | COSA303 |
+| 29 | 185 | Jennifer To |
 | 30 | 178 | Gotcha |
 | 31 | 178 | Cassidy Butler |
 | 32 | 177 | Chris Sladoje |
@@ -99,7 +99,7 @@
 | 91 | 43 | Block |
 | 92 | 42 | sasha |
 | 93 | 42 | Songne Arif |
-| 94 | 41 | Hasty Pivoty |
+| 94 | 42 | Hasty Pivoty |
 | 95 | 41 | Jessica Russell |
 | 96 | 40 | Nate Myers |
 | 97 | 40 | Jean Regis |
@@ -127,17 +127,17 @@
 | 119 | 33 | Simone Bailey |
 | 120 | 33 | Krose Byers |
 | 121 | 33 | Sashaleo |
-| 122 | 33 | Chris Nelson |
-| 123 | 33 | Block King |
-| 124 | 32 | Richard Flex |
+| 122 | 33 | Richard Flex |
+| 123 | 33 | Chris Nelson |
+| 124 | 33 | Block King |
 | 125 | 32 | Christi Walker Patton |
 | 126 | 32 | Tobey Marberry |
 | 127 | 32 | Melvin Simpson |
 | 128 | 31 | Boldy Pivoty |
 | 129 | 31 | Miera Nicole |
 | 130 | 31 | Daris Swearington |
-| 131 | 30 | Kp |
-| 132 | 30 | Lester Malone |
+| 131 | 30 | Lester Malone |
+| 132 | 30 | Kp |
 | 133 | 30 | Saucy Faller |
 | 134 | 30 | Casey Chapman |
 | 135 | 30 | Kristie |
@@ -170,70 +170,70 @@
 | 162 | 23 | Khatyrah Burnette |
 | 163 | 23 | Poppy Twister |
 | 164 | 23 | Tabitha Dupre-Allen |
-| 165 | 23 | Tamara N Lee |
-| 166 | 23 | Adrian Harris |
+| 165 | 23 | Adrian Harris |
+| 166 | 23 | Tamara N Lee |
 | 167 | 22 | Ad Doctor |
 | 168 | 22 | Tanisha Taylor |
-| 169 | 21 | Sylvia Offically A Mcgowan |
-| 170 | 21 | Brave Balanceblock |
-| 171 | 20 | Dorian Griffin |
-| 172 | 20 | Trina Greenwood |
+| 169 | 21 | Brave Balanceblock |
+| 170 | 21 | Sylvia Offically A Mcgowan |
+| 171 | 20 | Jai |
+| 172 | 20 | Dorian Griffin |
 | 173 | 20 | Epic Snapfall |
-| 174 | 20 | Devin West |
-| 175 | 20 | Chevalier Burley |
+| 174 | 20 | Heather Aurelia |
+| 175 | 20 | Nona Harriel |
 | 176 | 20 | Nyhlah Patterson |
-| 177 | 20 | Jai |
-| 178 | 20 | Nona Harriel |
-| 179 | 19 | Mimi 1.0 |
-| 180 | 19 | Brenda Malachi-butler |
-| 181 | 19 | Lozuna |
-| 182 | 19 | LAhoneybun82 |
-| 183 | 19 | Jenni |
-| 184 | 19 | Amanda Woodruff |
-| 185 | 19 | Michele Simpson |
-| 186 | 19 | Shanjerrica Taylor Rosell |
-| 187 | 19 | Saucy Tile |
-| 188 | 18 | Kenneth Hefney |
-| 189 | 18 | Danny M GR |
-| 190 | 18 | Sunny Clicky |
+| 177 | 20 | Devin West |
+| 178 | 20 | Trina Greenwood |
+| 179 | 20 | Chevalier Burley |
+| 180 | 19 | Amanda Woodruff |
+| 181 | 19 | Saucy Tile |
+| 182 | 19 | Shanjerrica Taylor Rosell |
+| 183 | 19 | Michele Simpson |
+| 184 | 19 | Mimi 1.0 |
+| 185 | 19 | Jenni |
+| 186 | 19 | Brenda Malachi-butler |
+| 187 | 19 | LAhoneybun82 |
+| 188 | 19 | Lozuna |
+| 189 | 18 | Sunny Clicky |
+| 190 | 18 | AleahKCH |
 | 191 | 18 | Tyree Tman Shinette |
-| 192 | 18 | AleahKCH |
+| 192 | 18 | Danny M GR |
 | 193 | 18 | Li-Li Ratliff |
-| 194 | 17 | Elizabeth Vega Coreano |
+| 194 | 18 | Kenneth Hefney |
 | 195 | 17 | Kimberly Red |
-| 196 | 17 | Rikki Moran |
-| 197 | 16 | Desiree Ryder |
+| 196 | 17 | Elizabeth Vega Coreano |
+| 197 | 17 | Rikki Moran |
 | 198 | 16 | Sunny Tumbler |
-| 199 | 16 | MsBobby Patrick |
-| 200 | 16 | Jason Mungin |
-| 201 | 15 | Mic Balew |
-| 202 | 15 | Jess |
-| 203 | 15 | Delitra Perkins Hatter |
-| 204 | 15 | Una |
-| 205 | 15 | Tami Spence |
-| 206 | 15 | NastyFriend |
-| 207 | 15 | Elaine Youmans |
-| 208 | 15 | Lit757 |
-| 209 | 15 | Clever Fitblock |
-| 210 | 14 | David A Alvino |
+| 199 | 16 | Jason Mungin |
+| 200 | 16 | MsBobby Patrick |
+| 201 | 16 | Desiree Ryder |
+| 202 | 15 | Elaine Youmans |
+| 203 | 15 | Clever Fitblock |
+| 204 | 15 | Lit757 |
+| 205 | 15 | NastyFriend |
+| 206 | 15 | Tami Spence |
+| 207 | 15 | Delitra Perkins Hatter |
+| 208 | 15 | Una |
+| 209 | 15 | Jess |
+| 210 | 15 | Mic Balew |
 | 211 | 14 | Alyssa Rae |
-| 212 | 14 | Jerrone Epps |
+| 212 | 14 | Zachary Colegrove |
 | 213 | 14 | Vivian Bunnell Myers |
-| 214 | 14 | No_Other_Choice |
-| 215 | 14 | Zachary Colegrove |
-| 216 | 13 | Frothy Zoney |
-| 217 | 13 | Oaklonboy mike |
-| 218 | 13 | Sunny Riserbuilder |
-| 219 | 13 | Heather Wilson |
-| 220 | 12 | W.A. Simpson |
-| 221 | 12 | Abigail Newman Sweet |
+| 214 | 14 | Jerrone Epps |
+| 215 | 14 | David A Alvino |
+| 216 | 14 | No_Other_Choice |
+| 217 | 13 | Frothy Zoney |
+| 218 | 13 | Oaklonboy mike |
+| 219 | 13 | Sunny Riserbuilder |
+| 220 | 13 | Heather Wilson |
+| 221 | 12 | Yadira Salgado |
 | 222 | 12 | messyboots |
-| 223 | 12 | Yadira Salgado |
+| 223 | 12 | Abigail Newman Sweet |
 | 224 | 12 | Kimberly Hernandez |
 | 225 | 12 | Soubletzy |
-| 226 | 10 | Kenny 'Tailormade' Boyd |
-| 227 | 10 | Hoppy Rumbler |
-| 228 | 10 | Heather Aurelia |
+| 226 | 12 | W.A. Simpson |
+| 227 | 10 | Kenny 'Tailormade' Boyd |
+| 228 | 10 | Hoppy Rumbler |
 | 229 | 10 | Keke |
 | 230 | 10 | Po Marley |
 | 231 | 10 | Bouncy Glide |
@@ -278,19 +278,19 @@
 | 270 | 6 | Christopher Wallace |
 | 271 | 6 | Brittnay Wright |
 | 272 | 5 | Tamika Fisher |
-| 273 | 5 | Zappy Clearfit |
-| 274 | 5 | Stephanie Zuniga Tullock |
-| 275 | 5 | Temeshia Brooks Washington |
-| 276 | 5 | KeeKee Williams |
-| 277 | 5 | Derek Beverly |
-| 278 | 5 | pooh |
-| 279 | 5 | Queenie Perry |
-| 280 | 5 | Lil T |
-| 281 | 5 | DirtiestofMikes |
-| 282 | 5 | Kidgib5 |
-| 283 | 5 | Jennifer Moore |
-| 284 | 5 | Vernon Hoyt |
-| 285 | 5 | Shawn Himes |
+| 273 | 5 | Stephanie Zuniga Tullock |
+| 274 | 5 | Temeshia Brooks Washington |
+| 275 | 5 | KeeKee Williams |
+| 276 | 5 | Derek Beverly |
+| 277 | 5 | pooh |
+| 278 | 5 | Queenie Perry |
+| 279 | 5 | DirtiestofMikes |
+| 280 | 5 | Kidgib5 |
+| 281 | 5 | Jennifer Moore |
+| 282 | 5 | Vernon Hoyt |
+| 283 | 5 | Shawn Himes |
+| 284 | 5 | Zappy Clearfit |
+| 285 | 5 | Lil T |
 
 ---
 *Standings created by tournaments datasource generation tool*
