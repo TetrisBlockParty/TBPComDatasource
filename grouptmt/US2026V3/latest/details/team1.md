@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 18:39:14 UTC
+# Standings for team1 as of 2026-06-05 18:40:14 UTC
 
 **Total Participants:** 393
 
@@ -54,7 +54,7 @@
 | 46 | 151 | Dacia Hicks |
 | 47 | 140 | JoJo |
 | 48 | 140 | Ann Chung |
-| 49 | 137 | Blockhead |
+| 49 | 138 | Blockhead |
 | 50 | 137 | BlackQueen105 |
 | 51 | 135 | Jawaun Daniels |
 | 52 | 127 | SPNLover24 |
@@ -102,13 +102,13 @@
 | 94 | 62 | Sanjuro |
 | 95 | 61 | Angela R Wilson |
 | 96 | 61 | Anthony Washington |
-| 97 | 60 | CJ Robinson |
-| 98 | 60 | Queenie Perry |
-| 99 | 60 | Marcheta Cervantez |
+| 97 | 60 | Christian Pham |
+| 98 | 60 | CJ Robinson |
+| 99 | 60 | Queenie Perry |
 | 100 | 60 | Valerie Alexander |
-| 101 | 60 | Christian Pham |
-| 102 | 60 | Lilly Brown |
-| 103 | 60 | Boldy Liner |
+| 101 | 60 | Lilly Brown |
+| 102 | 60 | Boldy Liner |
+| 103 | 60 | Marcheta Cervantez |
 | 104 | 59 | Lauraly |
 | 105 | 57 | Tosha Michelle |
 | 106 | 57 | Erin Sabol |
@@ -119,19 +119,19 @@
 | 111 | 52 | Loopy Risepiece |
 | 112 | 52 | Keke Ferguson |
 | 113 | 51 | Comedian Gdane |
-| 114 | 50 | Dai Bo |
-| 115 | 50 | Antoinette Jones |
-| 116 | 50 | Yazz |
-| 117 | 50 | Teresa Yanira Cepeda |
-| 118 | 50 | Slinky Party |
-| 119 | 50 | Skippy |
+| 114 | 50 | Teresa Yanira Cepeda |
+| 115 | 50 | KoolKimJay |
+| 116 | 50 | Dai Bo |
+| 117 | 50 | Yazz |
+| 118 | 50 | Antoinette Jones |
+| 119 | 50 | Slinky Party |
 | 120 | 50 | Donna Payne |
-| 121 | 49 | GrkGdess |
-| 122 | 49 | LexiiSamayaa |
-| 123 | 47 | Derrius SeriousLee Burks |
+| 121 | 50 | Skippy |
+| 122 | 49 | GrkGdess |
+| 123 | 49 | LexiiSamayaa |
 | 124 | 47 | Christopher Dreamsareality McEachin |
-| 125 | 45 | Guy Incognito |
-| 126 | 45 | KoolKimJay |
+| 125 | 47 | Derrius SeriousLee Burks |
+| 126 | 45 | Guy Incognito |
 | 127 | 45 | Renee J. Thomas |
 | 128 | 45 | Jayjay Rich |
 | 129 | 44 | Andi McGreevy |
@@ -352,53 +352,53 @@
 | 344 | 9 | Shakmar |
 | 345 | 8 | Rixo Blax |
 | 346 | 8 | Ferocity |
-| 347 | 8 | Brenda Brogden |
+| 347 | 8 | Brika Brika |
 | 348 | 8 | Tanesha Ga'sFinest Corbett |
 | 349 | 8 | jus_ry |
-| 350 | 8 | Brika Brika |
+| 350 | 8 | Ashley Davis |
 | 351 | 8 | Kashh |
-| 352 | 8 | Caitlin Michele |
-| 353 | 8 | Ashley Davis |
+| 352 | 8 | Brenda Brogden |
+| 353 | 8 | Caitlin Michele |
 | 354 | 8 | Cm |
-| 355 | 7 | wmedina67 |
-| 356 | 7 | Mary2 |
-| 357 | 7 | Shane Brucewayne |
+| 355 | 7 | whatever |
+| 356 | 7 | wmedina67 |
+| 357 | 7 | Kendra McIntyre |
 | 358 | 7 | Lillie Blossom Dixon |
-| 359 | 7 | whatever |
-| 360 | 7 | Leah Ingram |
-| 361 | 7 | Kendra McIntyre |
-| 362 | 7 | Andrew Harris |
-| 363 | 6 | Boricua64 |
-| 364 | 6 | Gael Quintana |
+| 359 | 7 | Leah Ingram |
+| 360 | 7 | Andrew Harris |
+| 361 | 7 | Mary2 |
+| 362 | 7 | Shane Brucewayne |
+| 363 | 6 | Janine Hunter |
+| 364 | 6 | Boricua64 |
 | 365 | 6 | Jeffrey Barrows |
-| 366 | 6 | Jelyfish |
-| 367 | 6 | Cece Fowler |
-| 368 | 6 | NEM0228 |
+| 366 | 6 | Allison Baxter |
+| 367 | 6 | Jelyfish |
+| 368 | 6 | Gael Quintana |
 | 369 | 6 | Frances Davis |
-| 370 | 6 | Brittnay Wright |
-| 371 | 6 | Allison Baxter |
-| 372 | 6 | Christopher Wallace |
-| 373 | 6 | Janine Hunter |
+| 370 | 6 | NEM0228 |
+| 371 | 6 | Christopher Wallace |
+| 372 | 6 | Brittnay Wright |
+| 373 | 6 | Cece Fowler |
 | 374 | 5 | Wacky Towerer |
-| 375 | 5 | KeeKee Williams |
-| 376 | 5 | Andre Sanon |
+| 375 | 5 | Stephanie Zuniga Tullock |
+| 376 | 5 | Jenni Hardman |
 | 377 | 5 | Temeshia Brooks Washington |
-| 378 | 5 | Stephanie Zuniga Tullock |
-| 379 | 5 | Jjhandsome |
-| 380 | 5 | Jenni Hardman |
-| 381 | 5 | Derek Beverly |
-| 382 | 5 | Lil T |
-| 383 | 5 | Andre Rivera |
-| 384 | 5 | Shawn Himes |
-| 385 | 5 | Tamika Fisher |
-| 386 | 5 | Vernon Hoyt |
-| 387 | 5 | Rieshelda Marie White |
-| 388 | 5 | Zappy Clearfit |
+| 378 | 5 | KeeKee Williams |
+| 379 | 5 | Derek Beverly |
+| 380 | 5 | Lil T |
+| 381 | 5 | Andre Rivera |
+| 382 | 5 | Andre Sanon |
+| 383 | 5 | Tamika Fisher |
+| 384 | 5 | Kidgib5 |
+| 385 | 5 | Jennifer Moore |
+| 386 | 5 | Barbramerri Tarboro |
+| 387 | 5 | pooh |
+| 388 | 5 | Jjhandsome |
 | 389 | 5 | DirtiestofMikes |
-| 390 | 5 | Kidgib5 |
-| 391 | 5 | Jennifer Moore |
-| 392 | 5 | Barbramerri Tarboro |
-| 393 | 5 | pooh |
+| 390 | 5 | Shawn Himes |
+| 391 | 5 | Zappy Clearfit |
+| 392 | 5 | Vernon Hoyt |
+| 393 | 5 | Rieshelda Marie White |
 
 ---
 *Standings created by tournaments datasource generation tool*
