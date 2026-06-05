@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:28:35 UTC
+# Standings for team1 as of 2026-06-05 17:29:13 UTC
 
 **Total Participants:** 334
 
@@ -64,7 +64,7 @@
 | 56 | 97 | Nerdy Snapfall |
 | 57 | 96 | Cortaz Lawrie |
 | 58 | 95 | Nate Myers |
-| 59 | 93 | Hasty Pivoty |
+| 59 | 95 | Hasty Pivoty |
 | 60 | 90 | 신재호 |
 | 61 | 86 | SPNLover24 |
 | 62 | 84 | Ciera Peace |
@@ -269,15 +269,15 @@
 | 261 | 14 | Alyssa Rae |
 | 262 | 13 | Frothy Zoney |
 | 263 | 13 | Oaklonboy mike |
-| 264 | 13 | Emma Adams |
-| 265 | 12 | messyboots |
-| 266 | 12 | W.A. Simpson |
-| 267 | 12 | Abigail Newman Sweet |
-| 268 | 12 | Soubletzy |
-| 269 | 12 | BigMike |
-| 270 | 12 | Yadira Salgado |
-| 271 | 12 | Just2Play$ |
-| 272 | 11 | Penee Wiggins |
+| 264 | 13 | Penee Wiggins |
+| 265 | 13 | Emma Adams |
+| 266 | 12 | messyboots |
+| 267 | 12 | W.A. Simpson |
+| 268 | 12 | Abigail Newman Sweet |
+| 269 | 12 | Soubletzy |
+| 270 | 12 | BigMike |
+| 271 | 12 | Yadira Salgado |
+| 272 | 12 | Just2Play$ |
 | 273 | 10 | Catara Renae Oliver |
 | 274 | 10 | Daddy |
 | 275 | 10 | Keke |
@@ -325,13 +325,13 @@
 | 317 | 6 | Christopher Wallace |
 | 318 | 6 | Brittnay Wright |
 | 319 | 6 | Frilly Shatterline |
-| 320 | 5 | Stephanie Zuniga Tullock |
-| 321 | 5 | Tamika Fisher |
-| 322 | 5 | Temeshia Brooks Washington |
-| 323 | 5 | KeeKee Williams |
-| 324 | 5 | Derek Beverly |
-| 325 | 5 | Lil T |
-| 326 | 5 | DirtiestofMikes |
+| 320 | 5 | DirtiestofMikes |
+| 321 | 5 | Stephanie Zuniga Tullock |
+| 322 | 5 | Tamika Fisher |
+| 323 | 5 | Temeshia Brooks Washington |
+| 324 | 5 | KeeKee Williams |
+| 325 | 5 | Derek Beverly |
+| 326 | 5 | Lil T |
 | 327 | 5 | Vernon Hoyt |
 | 328 | 5 | Kidgib5 |
 | 329 | 5 | Jennifer Moore |
