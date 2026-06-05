@@ -1,6 +1,6 @@
-# Standings for team3 as of 2026-06-05 12:15:12 UTC
+# Standings for team3 as of 2026-06-05 12:16:12 UTC
 
-**Total Participants:** 26
+**Total Participants:** 29
 
 ## Participant Scores
 
@@ -19,19 +19,22 @@
 | 11 | 22 | Lively Matchpiece |
 | 12 | 20 | Paul Hudak |
 | 13 | 19 | SteffXx |
-| 14 | 17 | Dedicated |
-| 15 | 17 | Rebecca Alidre Holmes-Anderson |
+| 14 | 17 | Rebecca Alidre Holmes-Anderson |
+| 15 | 17 | Dedicated |
 | 16 | 15 | Quirky Curve |
-| 17 | 12 | Violet |
-| 18 | 12 | Robby Beltran |
+| 17 | 12 | Robby Beltran |
+| 18 | 12 | Violet |
 | 19 | 11 | Carrie Ness |
 | 20 | 9 | Angie Rodriguez |
 | 21 | 9 | Tnaughty |
 | 22 | 9 | Jess Jess |
-| 23 | 8 | Jonathan Russell |
-| 24 | 7 | Sarah Jane |
-| 25 | 7 | David Glisson |
-| 26 | 5 | Lisa Stone |
+| 23 | 9 | Raven Rogue |
+| 24 | 8 | Sarah Jane |
+| 25 | 8 | Jonathan Russell |
+| 26 | 7 | David Glisson |
+| 27 | 6 | Crystal Carlson |
+| 28 | 6 | Denice Myers |
+| 29 | 5 | Lisa Stone |
 
 ---
 *Standings created by tournaments datasource generation tool*

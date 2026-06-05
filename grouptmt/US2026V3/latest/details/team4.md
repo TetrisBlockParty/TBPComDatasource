@@ -1,12 +1,12 @@
-# Standings for team4 as of 2026-06-05 12:15:12 UTC
+# Standings for team4 as of 2026-06-05 12:16:12 UTC
 
-**Total Participants:** 19
+**Total Participants:** 20
 
 ## Participant Scores
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 140 | Carly Stempien |
+| 1 | 160 | Carly Stempien |
 | 2 | 86 | Cinny |
 | 3 | 81 | Lynn Grimes |
 | 4 | 40 | Keys Tome |
@@ -25,6 +25,7 @@
 | 17 | 9 | Nancy McCalla Abercrombie |
 | 18 | 9 | Hotstuff |
 | 19 | 8 | smarty |
+| 20 | 6 | Hasty Dropzone |
 
 ---
 *Standings created by tournaments datasource generation tool*
