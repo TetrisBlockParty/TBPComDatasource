@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 12:38:34 UTC
+# Standings for team1 as of 2026-06-05 12:39:13 UTC
 
-**Total Participants:** 61
+**Total Participants:** 62
 
 ## Participant Scores
 
@@ -23,12 +23,12 @@
 | 15 | 60 | Asani CHumba |
 | 16 | 56 | Shontanese Adams |
 | 17 | 50 | Slinky Party |
-| 18 | 40 | Jean Regis |
-| 19 | 40 | Cee Emm |
-| 20 | 40 | Leavon Smith |
-| 21 | 30 | Jazzy Dashpiece |
-| 22 | 30 | KoolKimJay |
-| 23 | 30 | Lester Malone |
+| 18 | 40 | Jazzy Dashpiece |
+| 19 | 40 | Jean Regis |
+| 20 | 40 | Cee Emm |
+| 21 | 40 | Leavon Smith |
+| 22 | 30 | Lester Malone |
+| 23 | 30 | KoolKimJay |
 | 24 | 27 | Angela R Wilson |
 | 25 | 25 | Tyrone Porter |
 | 26 | 25 | Kellie Hall |
@@ -43,30 +43,31 @@
 | 35 | 18 | Dizzy Dashy |
 | 36 | 18 | Brave Balanceblock |
 | 37 | 17 | Rikki Moran |
-| 38 | 16 | Mafio SO |
-| 39 | 16 | Sylvia Offically A Mcgowan |
-| 40 | 15 | John Staub |
-| 41 | 15 | Tami Spence |
-| 42 | 15 | Ashley MyBeauty Daniels |
+| 38 | 16 | Sylvia Offically A Mcgowan |
+| 39 | 16 | Mafio SO |
+| 40 | 15 | Ashley MyBeauty Daniels |
+| 41 | 15 | John Staub |
+| 42 | 15 | Tami Spence |
 | 43 | 12 | Kimmie Gargano |
 | 44 | 11 | Desiree Ryder |
 | 45 | 10 | Frisky Fall |
-| 46 | 10 | Sarah Marie |
-| 47 | 10 | Christian Pham |
-| 48 | 10 | Brian Stackhouse |
-| 49 | 10 | Tishauna Virgo |
-| 50 | 10 | Zany Breaker |
-| 51 | 9 | Tina Criam |
-| 52 | 9 | IThinkNot |
-| 53 | 9 | Michele Elizabeth McKay-Johnson |
-| 54 | 8 | Shanjerrica Taylor Rosell |
-| 55 | 7 | Brika Brika |
-| 56 | 7 | Kendra McIntyre |
-| 57 | 7 | Mary2 |
-| 58 | 7 | SPNLover24 |
-| 59 | 5 | Lilly Brown |
-| 60 | 5 | Shakmar |
-| 61 | 5 | Cheeky Pop |
+| 46 | 10 | Zany Breaker |
+| 47 | 10 | Sarah Marie |
+| 48 | 10 | Christian Pham |
+| 49 | 10 | Brian Stackhouse |
+| 50 | 10 | Tishauna Virgo |
+| 51 | 10 | 신재호 |
+| 52 | 9 | Tina Criam |
+| 53 | 9 | IThinkNot |
+| 54 | 9 | Michele Elizabeth McKay-Johnson |
+| 55 | 8 | Shanjerrica Taylor Rosell |
+| 56 | 7 | Brika Brika |
+| 57 | 7 | Kendra McIntyre |
+| 58 | 7 | Mary2 |
+| 59 | 7 | SPNLover24 |
+| 60 | 5 | Lilly Brown |
+| 61 | 5 | Shakmar |
+| 62 | 5 | Cheeky Pop |
 
 ---
 *Standings created by tournaments datasource generation tool*

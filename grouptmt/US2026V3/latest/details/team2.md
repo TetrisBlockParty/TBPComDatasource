@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-05 12:38:34 UTC
+# Standings for team2 as of 2026-06-05 12:39:13 UTC
 
-**Total Participants:** 48
+**Total Participants:** 50
 
 ## Participant Scores
 
@@ -8,9 +8,9 @@
 | :- | :- | :- |
 | 1 | 1702 | Puce guide 9156 |
 | 2 | 1100 | Kathleen M Cox |
-| 3 | 474 | Logan Basham |
-| 4 | 300 | Mocha |
-| 5 | 247 | Jewels |
+| 3 | 545 | Jewels |
+| 4 | 474 | Logan Basham |
+| 5 | 300 | Mocha |
 | 6 | 232 | Amy Gale |
 | 7 | 75 | Angeleye A James |
 | 8 | 70 | Amanda Sikes |
@@ -32,28 +32,30 @@
 | 24 | 23 | Damion Morrison |
 | 25 | 21 | Zaniya Brown |
 | 26 | 18 | Tracey Cox |
-| 27 | 12 | Mary |
+| 27 | 15 | Spicy Basepiece |
 | 28 | 12 | Stacey Loretta Wallace |
-| 29 | 12 | A.j. Langley |
-| 30 | 11 | Lora Via |
+| 29 | 12 | Mary |
+| 30 | 12 | A.j. Langley |
 | 31 | 11 | Thy Bui |
-| 32 | 10 | Spicy Basepiece |
-| 33 | 10 | Twisty Snapmatch |
-| 34 | 10 | Berta Hurley |
-| 35 | 10 | Joyce Galloway |
-| 36 | 10 | Bon Lynn |
-| 37 | 10 | Gill |
-| 38 | 9 | Darla Ragsdale |
-| 39 | 9 | Giggly Spinblock |
-| 40 | 9 | Princess Cucumber |
-| 41 | 9 | Mama G |
-| 42 | 7 | Peter Fogg |
+| 32 | 11 | Lora Via |
+| 33 | 10 | Gill |
+| 34 | 10 | Twisty Snapmatch |
+| 35 | 10 | Berta Hurley |
+| 36 | 10 | Joyce Galloway |
+| 37 | 10 | Bon Lynn |
+| 38 | 9 | Giggly Spinblock |
+| 39 | 9 | Mama G |
+| 40 | 9 | Darla Ragsdale |
+| 41 | 9 | Princess Cucumber |
+| 42 | 8 | Chirpy Grid |
 | 43 | 7 | Cherica Taylor |
-| 44 | 6 | Kelly Christine Trimmer |
-| 45 | 6 | fancypants |
-| 46 | 5 | Tashamonique Puckey |
+| 44 | 7 | Peter Fogg |
+| 45 | 6 | Kelly Christine Trimmer |
+| 46 | 6 | fancypants |
 | 47 | 5 | Devon |
-| 48 | 5 | Allison Peterson |
+| 48 | 5 | Tashamonique Puckey |
+| 49 | 5 | Allison Peterson |
+| 50 | 5 | Thomas Johnstone |
 
 ---
 *Standings created by tournaments datasource generation tool*
