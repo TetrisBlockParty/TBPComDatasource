@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:38:36 UTC
+# Standings for team1 as of 2026-06-05 17:39:14 UTC
 
 **Total Participants:** 342
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 12000 | Ariel |
-| 2 | 1905 | Timothy Robert |
+| 2 | 2305 | Timothy Robert |
 | 3 | 1334 | Tracy Cohen |
 | 4 | 1050 | jaimie |
 | 5 | 950 | Chandler Spencer |
@@ -311,43 +311,43 @@
 | 303 | 9 | Shakmar |
 | 304 | 8 | Rixo Blax |
 | 305 | 8 | Brika Brika |
-| 306 | 8 | Brenda Brogden |
-| 307 | 8 | Caitlin Michele |
-| 308 | 8 | Taz Ballard |
-| 309 | 8 | Breezy Catcher |
+| 306 | 8 | Taz Ballard |
+| 307 | 8 | Brenda Brogden |
+| 308 | 8 | Breezy Catcher |
+| 309 | 8 | Caitlin Michele |
 | 310 | 8 | Jessie N Michael Silvers |
 | 311 | 8 | Tanesha Ga'sFinest Corbett |
-| 312 | 7 | Shane Brucewayne |
-| 313 | 7 | Mary2 |
-| 314 | 7 | Andrew Harris |
-| 315 | 7 | Kendra McIntyre |
-| 316 | 7 | whatever |
-| 317 | 7 | Lillie Blossom Dixon |
-| 318 | 7 | wmedina67 |
-| 319 | 6 | Frances Davis |
-| 320 | 6 | Janine Hunter |
-| 321 | 6 | Jelyfish |
+| 312 | 7 | Andrew Harris |
+| 313 | 7 | wmedina67 |
+| 314 | 7 | whatever |
+| 315 | 7 | Lillie Blossom Dixon |
+| 316 | 7 | Kendra McIntyre |
+| 317 | 7 | Shane Brucewayne |
+| 318 | 7 | Mary2 |
+| 319 | 6 | Jelyfish |
+| 320 | 6 | Cece Fowler |
+| 321 | 6 | Frances Davis |
 | 322 | 6 | Jeffrey Barrows |
-| 323 | 6 | Allison Baxter |
-| 324 | 6 | Christopher Wallace |
-| 325 | 6 | Cece Fowler |
-| 326 | 6 | Brittnay Wright |
-| 327 | 5 | Barbramerri Tarboro |
-| 328 | 5 | Stephanie Zuniga Tullock |
-| 329 | 5 | Temeshia Brooks Washington |
-| 330 | 5 | KeeKee Williams |
-| 331 | 5 | Derek Beverly |
-| 332 | 5 | Lil T |
-| 333 | 5 | Andre Sanon |
-| 334 | 5 | Shawn Himes |
-| 335 | 5 | Vernon Hoyt |
-| 336 | 5 | Kidgib5 |
+| 323 | 6 | Brittnay Wright |
+| 324 | 6 | Allison Baxter |
+| 325 | 6 | Christopher Wallace |
+| 326 | 6 | Janine Hunter |
+| 327 | 5 | Andre Sanon |
+| 328 | 5 | Vernon Hoyt |
+| 329 | 5 | KeeKee Williams |
+| 330 | 5 | Temeshia Brooks Washington |
+| 331 | 5 | Stephanie Zuniga Tullock |
+| 332 | 5 | Jjhandsome |
+| 333 | 5 | pooh |
+| 334 | 5 | Barbramerri Tarboro |
+| 335 | 5 | Zappy Clearfit |
+| 336 | 5 | Tamika Fisher |
 | 337 | 5 | Jennifer Moore |
-| 338 | 5 | Tamika Fisher |
-| 339 | 5 | Jjhandsome |
-| 340 | 5 | pooh |
-| 341 | 5 | DirtiestofMikes |
-| 342 | 5 | Zappy Clearfit |
+| 338 | 5 | Kidgib5 |
+| 339 | 5 | Shawn Himes |
+| 340 | 5 | DirtiestofMikes |
+| 341 | 5 | Lil T |
+| 342 | 5 | Derek Beverly |
 
 ---
 *Standings created by tournaments datasource generation tool*
