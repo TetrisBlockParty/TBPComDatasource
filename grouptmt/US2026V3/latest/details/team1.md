@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:36:13 UTC
+# Standings for team1 as of 2026-06-05 15:36:35 UTC
 
 **Total Participants:** 251
 
@@ -236,8 +236,8 @@
 | 228 | 7 | Kendra McIntyre |
 | 229 | 7 | wmedina67 |
 | 230 | 7 | whatever |
-| 231 | 6 | Allison Baxter |
-| 232 | 6 | Cece Fowler |
+| 231 | 6 | Cece Fowler |
+| 232 | 6 | Allison Baxter |
 | 233 | 6 | Christopher Wallace |
 | 234 | 6 | Kyle Conley |
 | 235 | 6 | Janine Hunter |
@@ -245,18 +245,18 @@
 | 237 | 6 | messyboots |
 | 238 | 6 | Jeffrey Barrows |
 | 239 | 5 | Kidgib5 |
-| 240 | 5 | Rixo Blax |
-| 241 | 5 | Temeshia Brooks Washington |
-| 242 | 5 | KeeKee Williams |
-| 243 | 5 | Derek Beverly |
-| 244 | 5 | Vernon Hoyt |
-| 245 | 5 | Lil T |
-| 246 | 5 | Stephanie Zuniga Tullock |
-| 247 | 5 | DirtiestofMikes |
-| 248 | 5 | Zappy Clearfit |
-| 249 | 5 | Tamika Fisher |
-| 250 | 5 | Jennifer Moore |
-| 251 | 5 | Shawn Himes |
+| 240 | 5 | Shawn Himes |
+| 241 | 5 | Rixo Blax |
+| 242 | 5 | Temeshia Brooks Washington |
+| 243 | 5 | KeeKee Williams |
+| 244 | 5 | Derek Beverly |
+| 245 | 5 | Vernon Hoyt |
+| 246 | 5 | Lil T |
+| 247 | 5 | Stephanie Zuniga Tullock |
+| 248 | 5 | DirtiestofMikes |
+| 249 | 5 | Zappy Clearfit |
+| 250 | 5 | Tamika Fisher |
+| 251 | 5 | Jennifer Moore |
 
 ---
 *Standings created by tournaments datasource generation tool*
