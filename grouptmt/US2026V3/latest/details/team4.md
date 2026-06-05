@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 23:54:15 UTC
+# Standings for team4 as of 2026-06-05 23:54:37 UTC
 
 **Total Participants:** 574
 
@@ -31,8 +31,8 @@
 | 23 | 600 | Caitlin Johnson |
 | 24 | 559 | Lynn Grimes |
 | 25 | 477 | Malik Thompson |
-| 26 | 474 | Jeremy Lopez |
-| 27 | 474 | Heather Preston |
+| 26 | 474 | Heather Preston |
+| 27 | 474 | Jeremy Lopez |
 | 28 | 466 | Krysten Danielle Richard |
 | 29 | 465 | Fancy Crasher |
 | 30 | 460 | Chaz Duncan |
@@ -87,8 +87,8 @@
 | 79 | 125 | Leslie Ann Carter |
 | 80 | 124 | Chilly Pivot |
 | 81 | 123 | Anna Gribble |
-| 82 | 122 | Lisa Garcia |
-| 83 | 122 | Jason Allen |
+| 82 | 122 | Jason Allen |
+| 83 | 122 | Lisa Garcia |
 | 84 | 121 | Ryan Paul Clark-Ramsey |
 | 85 | 120 | Kelly Bernard |
 | 86 | 120 | Glamorous Gracey |
@@ -101,16 +101,16 @@
 | 93 | 104 | Tawna Curry |
 | 94 | 104 | Justin Ballard |
 | 95 | 102 | Lush Fitblock |
-| 96 | 100 | Cal Renee |
-| 97 | 100 | CorieBe |
-| 98 | 100 | woopa 716 |
+| 96 | 100 | woopa 716 |
+| 97 | 100 | Cal Renee |
+| 98 | 100 | CorieBe |
 | 99 | 99 | Shelby |
-| 100 | 99 | Simone |
-| 101 | 99 | Lani |
+| 100 | 99 | Lani |
+| 101 | 99 | Simone |
 | 102 | 96 | Alyson M Kehler |
 | 103 | 96 | Joab Gonzalez |
-| 104 | 95 | Daryn Elliott |
-| 105 | 95 | Маркус Вік |
+| 104 | 95 | Маркус Вік |
+| 105 | 95 | Daryn Elliott |
 | 106 | 94 | Boldy Rumbler |
 | 107 | 93 | farfromlocal |
 | 108 | 92 | Homie |
@@ -123,28 +123,28 @@
 | 115 | 88 | Loony Rotater |
 | 116 | 87 | Limbo |
 | 117 | 87 | Tiffany Loree Tiffany Oneill |
-| 118 | 86 | gabs |
-| 119 | 86 | Rachel Lemos |
+| 118 | 86 | Rachel Lemos |
+| 119 | 86 | gabs |
 | 120 | 85 | Cheery Risegrid |
 | 121 | 84 | Slimm |
-| 122 | 84 | Rae Saunders |
-| 123 | 84 | Hwanger Land |
-| 124 | 84 | No Time |
-| 125 | 83 | MrLoner Stoner |
-| 126 | 83 | Chiquita Blue |
+| 122 | 84 | No Time |
+| 123 | 84 | Rae Saunders |
+| 124 | 84 | Hwanger Land |
+| 125 | 83 | Chiquita Blue |
+| 126 | 83 | MrLoner Stoner |
 | 127 | 82 | Codey Haffner |
 | 128 | 82 | Bon Jovi |
 | 129 | 82 | Luna |
 | 130 | 81 | Stasia |
 | 131 | 81 | Taz |
 | 132 | 81 | Justin Michael |
-| 133 | 80 | Krista Diaz |
-| 134 | 80 | Leigh Pierce |
-| 135 | 80 | DexterDobbins |
-| 136 | 80 | Sarah Berry Stevens |
+| 133 | 80 | Leigh Pierce |
+| 134 | 80 | DexterDobbins |
+| 135 | 80 | Sarah Berry Stevens |
+| 136 | 80 | Krista Diaz |
 | 137 | 80 | Magz |
-| 138 | 79 | Joyce Myers |
-| 139 | 79 | Janae Harris |
+| 138 | 79 | Janae Harris |
+| 139 | 79 | Joyce Myers |
 | 140 | 78 | Stef |
 | 141 | 78 | Tina Thomas |
 | 142 | 77 | Chirpy Link |
@@ -153,8 +153,8 @@
 | 145 | 75 | Mark Fitch Jr. |
 | 146 | 75 | Sarah Perry Cook |
 | 147 | 75 | June Hoffman |
-| 148 | 74 | Lady |
-| 149 | 74 | Goofy Riser |
+| 148 | 74 | Goofy Riser |
+| 149 | 74 | Lady |
 | 150 | 73 | Troy Zanelli |
 | 151 | 72 | Slinky Stackzone |
 | 152 | 71 | King |
