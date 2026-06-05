@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:20:38 UTC
+# Standings for team1 as of 2026-06-05 15:21:14 UTC
 
 **Total Participants:** 239
 
@@ -139,11 +139,11 @@
 | 131 | 23 | JesusSaves 😇 |
 | 132 | 23 | Poppy Twister |
 | 133 | 23 | Khatyrah Burnette |
-| 134 | 22 | Tanisha Taylor |
-| 135 | 22 | Ad Doctor |
-| 136 | 21 | Brave Balanceblock |
-| 137 | 20 | Chevalier Burley |
-| 138 | 20 | Blockhead |
+| 134 | 22 | Blockhead |
+| 135 | 22 | Tanisha Taylor |
+| 136 | 22 | Ad Doctor |
+| 137 | 21 | Brave Balanceblock |
+| 138 | 20 | Chevalier Burley |
 | 139 | 20 | Jai |
 | 140 | 20 | Devin West |
 | 141 | 20 | Trina Greenwood |

@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-05 15:20:38 UTC
+# Standings for team2 as of 2026-06-05 15:21:14 UTC
 
-**Total Participants:** 231
+**Total Participants:** 232
 
 ## Participant Scores
 
@@ -115,128 +115,129 @@
 | 107 | 26 | Rachel Huber |
 | 108 | 26 | rageking |
 | 109 | 26 | Quina Jesse Fejaran |
-| 110 | 25 | Alexis Meyers |
-| 111 | 25 | Heather Burgett |
-| 112 | 24 | SunnySquare |
-| 113 | 24 | A.j. Langley |
+| 110 | 25 | Heather Burgett |
+| 111 | 25 | Alexis Meyers |
+| 112 | 24 | A.j. Langley |
+| 113 | 24 | SunnySquare |
 | 114 | 24 | Dayna Messer-Thelen |
 | 115 | 23 | Brittni Lawrence |
-| 116 | 23 | Laverne Ellis Blair |
+| 116 | 23 | Damion Morrison |
 | 117 | 23 | IncrediDragon |
-| 118 | 23 | Damion Morrison |
+| 118 | 23 | Laverne Ellis Blair |
 | 119 | 23 | Shirley Bates |
 | 120 | 22 | Andre Love |
 | 121 | 22 | Jeff Pottgether |
 | 122 | 22 | Ashley Diana |
-| 123 | 21 | Lively Curve |
+| 123 | 21 | Nicole |
 | 124 | 21 | Thy Bui |
 | 125 | 21 | Maria Ward |
-| 126 | 21 | Nicole |
-| 127 | 20 | Bigbb |
-| 128 | 20 | Amanda Mason Scott |
-| 129 | 20 | ChefDeb |
-| 130 | 20 | Wendy McKee |
+| 126 | 21 | Lively Curve |
+| 127 | 20 | Chesney |
+| 128 | 20 | Kelly Hall Whitt |
+| 129 | 20 | Bonita Alexander |
+| 130 | 20 | Bigbb |
 | 131 | 20 | phamous1 |
-| 132 | 20 | Chesney |
-| 133 | 20 | Bonita Alexander |
-| 134 | 20 | Kelly Hall Whitt |
-| 135 | 19 | Sunny Tiltbuilder |
-| 136 | 19 | Quirky Piecegrid |
+| 132 | 20 | Amanda Mason Scott |
+| 133 | 20 | ChefDeb |
+| 134 | 20 | Wendy McKee |
+| 135 | 19 | Quirky Piecegrid |
+| 136 | 19 | Sunny Tiltbuilder |
 | 137 | 19 | Steven Craig |
 | 138 | 18 | Spicy Balanceblock |
-| 139 | 18 | Tracey Cox |
-| 140 | 18 | TNGal |
-| 141 | 17 | Debra May |
-| 142 | 17 | Jazzy Faller |
+| 139 | 18 | TNGal |
+| 140 | 18 | Tracey Cox |
+| 141 | 17 | Jazzy Faller |
+| 142 | 17 | Debra May |
 | 143 | 16 | Elliot |
-| 144 | 15 | Amber Salazar |
-| 145 | 15 | Brian Karr |
+| 144 | 15 | Brian Karr |
+| 145 | 15 | Amber Salazar |
 | 146 | 15 | MaddieCherie |
 | 147 | 14 | Missy Savage-Justice |
 | 148 | 13 | Lexi Chouinard |
 | 149 | 13 | Dreamy Wipepiece |
-| 150 | 12 | DarkHorse |
-| 151 | 12 | Diamond Balotje |
-| 152 | 12 | Frilly Match |
-| 153 | 12 | Suki Jacobs |
-| 154 | 12 | Staci Walker |
-| 155 | 12 | Stacey Loretta Wallace |
-| 156 | 12 | Kris Dusza Dodus |
-| 157 | 12 | Chirpy Grid |
-| 158 | 12 | Melissa Thomas |
-| 159 | 12 | Mary |
-| 160 | 12 | Samantha Morrison |
-| 161 | 12 | Stephen Gillam |
-| 162 | 12 | Liseth Vasquez |
-| 163 | 12 | Jackie Tupper |
-| 164 | 12 | Lily |
+| 150 | 12 | Melissa Thomas |
+| 151 | 12 | Kris Dusza Dodus |
+| 152 | 12 | DarkHorse |
+| 153 | 12 | Liseth Vasquez |
+| 154 | 12 | Mary |
+| 155 | 12 | Jackie Tupper |
+| 156 | 12 | Stacey Loretta Wallace |
+| 157 | 12 | Lily |
+| 158 | 12 | Diamond Balotje |
+| 159 | 12 | Samantha Morrison |
+| 160 | 12 | Chirpy Grid |
+| 161 | 12 | Staci Walker |
+| 162 | 12 | Stephen Gillam |
+| 163 | 12 | Frilly Match |
+| 164 | 12 | Suki Jacobs |
 | 165 | 11 | CK Hancock |
-| 166 | 11 | Lora Via |
-| 167 | 11 | Yany |
-| 168 | 10 | Twisty Snapclear |
-| 169 | 10 | Beachmama |
-| 170 | 10 | Saucy Wrecker |
-| 171 | 10 | La chulis |
-| 172 | 10 | Ashley Miller |
-| 173 | 10 | Katie Jones |
-| 174 | 10 | Justin Furne |
-| 175 | 10 | Brandy Wallace |
-| 176 | 10 | Becky Kennon |
-| 177 | 10 | Twisty Snapmatch |
-| 178 | 10 | Jennifer Bell |
-| 179 | 10 | Gill |
-| 180 | 10 | Donna Casey |
-| 181 | 10 | Laura Turner |
-| 182 | 10 | REE4 |
-| 183 | 10 | Berta Hurley |
-| 184 | 10 | Joyce Galloway |
-| 185 | 10 | Carlos J Blas |
-| 186 | 10 | Crystal Owen Yocolano |
-| 187 | 10 | Thomas Johnstone |
-| 188 | 10 | Frilly Dashfit |
-| 189 | 10 | Jat |
-| 190 | 10 | Leticia Tillman |
-| 191 | 10 | Happy Riseclear |
-| 192 | 9 | Rhonda Driskill |
-| 193 | 9 | Twisty Matchfit |
-| 194 | 9 | Michele Stewart |
-| 195 | 9 | bigdog |
-| 196 | 9 | David Skelton |
-| 197 | 9 | Angelique Matzke Starns |
-| 198 | 9 | Lindsey Butler |
-| 199 | 9 | Chirpy Clearpiece |
-| 200 | 9 | Darla Ragsdale |
-| 201 | 9 | Giggly Spinblock |
+| 166 | 11 | Yany |
+| 167 | 11 | Lora Via |
+| 168 | 10 | Ashley Miller |
+| 169 | 10 | Becky Kennon |
+| 170 | 10 | Gill |
+| 171 | 10 | Jennifer Bell |
+| 172 | 10 | La chulis |
+| 173 | 10 | Happy Riseclear |
+| 174 | 10 | Brandy Wallace |
+| 175 | 10 | Thomas Johnstone |
+| 176 | 10 | Crystal Owen Yocolano |
+| 177 | 10 | Beachmama |
+| 178 | 10 | Katie Jones |
+| 179 | 10 | Frilly Dashfit |
+| 180 | 10 | Leticia Tillman |
+| 181 | 10 | Donna Casey |
+| 182 | 10 | Laura Turner |
+| 183 | 10 | REE4 |
+| 184 | 10 | Berta Hurley |
+| 185 | 10 | Joyce Galloway |
+| 186 | 10 | Justin Furne |
+| 187 | 10 | Twisty Snapclear |
+| 188 | 10 | Carlos J Blas |
+| 189 | 10 | Saucy Wrecker |
+| 190 | 10 | Jat |
+| 191 | 10 | Twisty Snapmatch |
+| 192 | 9 | Michele Stewart |
+| 193 | 9 | Darla Ragsdale |
+| 194 | 9 | David Skelton |
+| 195 | 9 | Chirpy Clearpiece |
+| 196 | 9 | Rhonda Driskill |
+| 197 | 9 | Twisty Matchfit |
+| 198 | 9 | bigdog |
+| 199 | 9 | Giggly Spinblock |
+| 200 | 9 | Lindsey Butler |
+| 201 | 9 | Angelique Matzke Starns |
 | 202 | 9 | Princess Cucumber |
-| 203 | 8 | Chelsea Frye |
-| 204 | 8 | Stephanie |
-| 205 | 8 | Renee Weedling |
-| 206 | 8 | Bubbly Strikerpiece |
-| 207 | 8 | Sully |
-| 208 | 8 | Amber Carpenter |
+| 203 | 8 | Renee Weedling |
+| 204 | 8 | Sully |
+| 205 | 8 | Stephanie |
+| 206 | 8 | Chelsea Frye |
+| 207 | 8 | Amber Carpenter |
+| 208 | 8 | Bubbly Strikerpiece |
 | 209 | 8 | Nicky Steigerwalt |
-| 210 | 7 | michael |
-| 211 | 7 | nova |
-| 212 | 7 | Elizabeth Elaine Coursey |
-| 213 | 7 | Rae |
-| 214 | 7 | Happy Curvebuilder |
-| 215 | 7 | Tashamonique Puckey |
-| 216 | 7 | Jackie Hayslip |
-| 217 | 7 | Nova Nova |
-| 218 | 7 | Cherica Taylor |
-| 219 | 7 | Epic Framezone |
-| 220 | 6 | Kelly Christine Trimmer |
-| 221 | 6 | fancypants |
-| 222 | 6 | Cheeky Dashpiece |
+| 210 | 7 | Nova Nova |
+| 211 | 7 | Cherica Taylor |
+| 212 | 7 | Rae |
+| 213 | 7 | Jackie Hayslip |
+| 214 | 7 | Elizabeth Elaine Coursey |
+| 215 | 7 | Happy Curvebuilder |
+| 216 | 7 | michael |
+| 217 | 7 | Tashamonique Puckey |
+| 218 | 7 | Epic Framezone |
+| 219 | 7 | nova |
+| 220 | 6 | fancypants |
+| 221 | 6 | Cheeky Dashpiece |
+| 222 | 6 | Kelly Christine Trimmer |
 | 223 | 6 | Jeanna Mendez |
 | 224 | 6 | Gina Leal |
-| 225 | 5 | Agnes Gable |
-| 226 | 5 | Slinky Glidezone |
-| 227 | 5 | Mercedes Lowery |
-| 228 | 5 | Allison Peterson |
-| 229 | 5 | Devon |
-| 230 | 5 | Fran Gerebics |
-| 231 | 5 | Jolly Twisterfit |
+| 225 | 5 | Devon |
+| 226 | 5 | Fran Gerebics |
+| 227 | 5 | Jolly Twisterfit |
+| 228 | 5 | Slinky Glidezone |
+| 229 | 5 | Agnes Gable |
+| 230 | 5 | Amber-leigh Williams |
+| 231 | 5 | Allison Peterson |
+| 232 | 5 | Mercedes Lowery |
 
 ---
 *Standings created by tournaments datasource generation tool*
