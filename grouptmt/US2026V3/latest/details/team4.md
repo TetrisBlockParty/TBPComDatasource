@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 14:54:37 UTC
+# Standings for team4 as of 2026-06-05 14:55:15 UTC
 
 **Total Participants:** 179
 
@@ -27,22 +27,22 @@
 | 19 | 175 | Andrew Dang |
 | 20 | 162 | Kimyatta Cavin |
 | 21 | 161 | Giggy Matchpiece |
-| 22 | 149 | Kim |
-| 23 | 149 | Danny Ortiz |
+| 22 | 149 | Danny Ortiz |
+| 23 | 149 | Kim |
 | 24 | 148 | Colin |
 | 25 | 129 | Jojo Ann |
 | 26 | 121 | Ryan Paul Clark-Ramsey |
 | 27 | 117 | Adam J Leong |
-| 28 | 107 | Real Talk Vibes |
-| 29 | 107 | Shayna Vaigneur-Hall |
+| 28 | 107 | Shayna Vaigneur-Hall |
+| 29 | 107 | Real Talk Vibes |
 | 30 | 101 | Fruitpunch |
 | 31 | 100 | Cal Renee |
 | 32 | 94 | Brandy Lynn |
 | 33 | 90 | woopa 716 |
 | 34 | 87 | Limbo |
 | 35 | 80 | Krista Diaz |
-| 36 | 79 | Luna |
-| 37 | 79 | iiPurgeV2 |
+| 36 | 79 | iiPurgeV2 |
+| 37 | 79 | Luna |
 | 38 | 78 | Tawna Curry |
 | 39 | 78 | Tina Thomas |
 | 40 | 77 | Lush Fitblock |
@@ -101,40 +101,40 @@
 | 93 | 25 | Cool Risepiece |
 | 94 | 25 | Andrea Dre Lomeli |
 | 95 | 25 | Nicole |
-| 96 | 23 | Stasia |
+| 96 | 23 | Zippy Snaplink |
 | 97 | 23 | Melissa Quinn |
-| 98 | 23 | Zippy Snaplink |
-| 99 | 22 | Karen Rodriguez |
-| 100 | 22 | Saul Fajardo |
-| 101 | 21 | Keesha Muro |
-| 102 | 21 | SandyEva |
+| 98 | 23 | Stasia |
+| 99 | 22 | Saul Fajardo |
+| 100 | 22 | Leslie Marie WarClub |
+| 101 | 22 | Karen Rodriguez |
+| 102 | 21 | Keesha Muro |
 | 103 | 21 | Socorro Arredondo |
-| 104 | 20 | Jerett Coplin |
-| 105 | 20 | Maurice DeJean |
-| 106 | 20 | Mexican130 |
-| 107 | 20 | Nova Kain |
+| 104 | 21 | SandyEva |
+| 105 | 20 | Mexican130 |
+| 106 | 20 | Nova Kain |
+| 107 | 20 | Maurice DeJean |
 | 108 | 20 | Erica Pompey |
 | 109 | 20 | Betsy Froemming |
 | 110 | 20 | Silly Risegrid |
-| 111 | 19 | Swanky Matchfit |
-| 112 | 19 | Solace Grace |
-| 113 | 18 | Iforget |
-| 114 | 18 | Dawn Ferrin |
-| 115 | 18 | Nancy McCalla Abercrombie |
-| 116 | 17 | Breezy Blockzone |
-| 117 | 17 | Leslie Marie WarClub |
+| 111 | 20 | Jerett Coplin |
+| 112 | 19 | Swanky Matchfit |
+| 113 | 19 | Solace Grace |
+| 114 | 18 | Iforget |
+| 115 | 18 | Dawn Ferrin |
+| 116 | 18 | Nancy McCalla Abercrombie |
+| 117 | 17 | Breezy Blockzone |
 | 118 | 17 | Samara Garcia |
 | 119 | 16 | Ross Bryant |
-| 120 | 16 | Queen B |
-| 121 | 16 | George Palacios |
+| 120 | 16 | George Palacios |
+| 121 | 16 | Queen B |
 | 122 | 15 | Jason Garnatz |
 | 123 | 15 | Perry Ransom |
 | 124 | 15 | Joshua Garner |
 | 125 | 15 | Stephanie Meinhart |
 | 126 | 15 | Happy Shatterfit |
 | 127 | 15 | Hasty Dropzone |
-| 128 | 15 | Jonelle Jacobs |
-| 129 | 15 | BusterBear56 |
+| 128 | 15 | BusterBear56 |
+| 129 | 15 | Jonelle Jacobs |
 | 130 | 14 | Catherine Garza |
 | 131 | 13 | Cherry |
 | 132 | 13 | GingaNinja |
