@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:52:34 UTC
+# Standings for team1 as of 2026-06-05 13:53:12 UTC
 
 **Total Participants:** 130
 
@@ -124,18 +124,18 @@
 | 116 | 7 | Mary2 |
 | 117 | 7 | Kendra McIntyre |
 | 118 | 6 | JesusSaves 😇 |
-| 119 | 6 | Christopher Wallace |
-| 120 | 6 | Ashley Espeut |
-| 121 | 6 | Jayjay Rich |
-| 122 | 6 | Taz Ballard |
-| 123 | 6 | Janine Hunter |
-| 124 | 5 | Christian Whittaker |
-| 125 | 5 | Jennifer Moore |
-| 126 | 5 | Kidgib5 |
-| 127 | 5 | Derek Beverly |
-| 128 | 5 | DirtiestofMikes |
-| 129 | 5 | Katrina Ramey |
-| 130 | 5 | Tamika Fisher |
+| 119 | 6 | Janine Hunter |
+| 120 | 6 | Christopher Wallace |
+| 121 | 6 | Taz Ballard |
+| 122 | 6 | Jayjay Rich |
+| 123 | 6 | Ashley Espeut |
+| 124 | 5 | Katrina Ramey |
+| 125 | 5 | Christian Whittaker |
+| 126 | 5 | Jennifer Moore |
+| 127 | 5 | Kidgib5 |
+| 128 | 5 | Derek Beverly |
+| 129 | 5 | Tamika Fisher |
+| 130 | 5 | DirtiestofMikes |
 
 ---
 *Standings created by tournaments datasource generation tool*
