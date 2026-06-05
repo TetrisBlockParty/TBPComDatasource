@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 17:26:37 UTC
+# Standings for team4 as of 2026-06-05 17:27:14 UTC
 
 **Total Participants:** 315
 
@@ -235,21 +235,21 @@
 | 227 | 15 | Happy Shatterfit |
 | 228 | 14 | Shanna Fragen |
 | 229 | 14 | Plucky Shatterfit |
-| 230 | 14 | LilithMoon |
-| 231 | 14 | Winter Moon |
-| 232 | 14 | EpicWizard |
+| 230 | 14 | Winter Moon |
+| 231 | 14 | EpicWizard |
+| 232 | 14 | LilithMoon |
 | 233 | 14 | Janet Sanfilippo Sullivan |
 | 234 | 13 | GingaNinja |
 | 235 | 13 | Deborah Ayliffe |
-| 236 | 13 | Devinlee Brown |
-| 237 | 13 | Shirley Tow Middaugh |
-| 238 | 13 | Cherry |
-| 239 | 13 | Joab Gonzalez |
-| 240 | 13 | Kevin Lyles |
-| 241 | 12 | Fancy Tilefall |
-| 242 | 12 | my my |
-| 243 | 12 | Vicente Bolaños Jr. |
-| 244 | 12 | Kariana Gonzalez Ortiz |
+| 236 | 13 | Kariana Gonzalez Ortiz |
+| 237 | 13 | Devinlee Brown |
+| 238 | 13 | Shirley Tow Middaugh |
+| 239 | 13 | Cherry |
+| 240 | 13 | Joab Gonzalez |
+| 241 | 13 | Kevin Lyles |
+| 242 | 12 | Fancy Tilefall |
+| 243 | 12 | my my |
+| 244 | 12 | Vicente Bolaños Jr. |
 | 245 | 12 | Funky Rollzone |
 | 246 | 12 | Frisky Balance |
 | 247 | 12 | Peterson Cottontail |
