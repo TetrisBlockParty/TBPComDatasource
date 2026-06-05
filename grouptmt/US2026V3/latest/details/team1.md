@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:15:12 UTC
+# Standings for team1 as of 2026-06-05 13:16:13 UTC
 
 **Total Participants:** 103
 
@@ -37,66 +37,66 @@
 | 29 | 55 | SPNLover24 |
 | 30 | 50 | Slinky Party |
 | 31 | 43 | Block |
-| 32 | 42 | Frisky Fall |
-| 33 | 41 | Jessica Russell |
-| 34 | 40 | Leavon Smith |
-| 35 | 40 | Jean Regis |
-| 36 | 40 | Lauraly |
-| 37 | 38 | rls |
-| 38 | 37 | Lootch |
-| 39 | 35 | Saucy Crusher |
-| 40 | 35 | Dai Bo |
-| 41 | 35 | Lilly Brown |
+| 32 | 43 | KenpachisGirl |
+| 33 | 42 | Frisky Fall |
+| 34 | 41 | Jessica Russell |
+| 35 | 40 | Leavon Smith |
+| 36 | 40 | Jean Regis |
+| 37 | 40 | Lauraly |
+| 38 | 38 | rls |
+| 39 | 37 | Lootch |
+| 40 | 35 | Saucy Crusher |
+| 41 | 35 | Dai Bo |
 | 42 | 35 | KoolKimJay |
-| 43 | 30 | Lester Malone |
+| 43 | 35 | Lilly Brown |
 | 44 | 30 | Saucy Faller |
-| 45 | 29 | Charnay Peacock |
-| 46 | 28 | John Staub |
-| 47 | 27 | Jae Thompson-Tyus |
-| 48 | 27 | Angela R Wilson |
-| 49 | 27 | Zany Breaker |
-| 50 | 27 | Charlene Baltimore |
-| 51 | 26 | Steve Reno |
-| 52 | 25 | Tyrone Porter |
-| 53 | 25 | KenpachisGirl |
-| 54 | 23 | Poppy Twister |
-| 55 | 23 | Yashica Smith |
-| 56 | 22 | Tanisha Taylor |
-| 57 | 21 | Brave Balanceblock |
-| 58 | 20 | Jai |
-| 59 | 20 | Chevalier Burley |
-| 60 | 20 | Trina Greenwood |
-| 61 | 19 | Brenda Malachi-butler |
+| 45 | 30 | Lester Malone |
+| 46 | 29 | Charnay Peacock |
+| 47 | 28 | John Staub |
+| 48 | 27 | Steve Reno |
+| 49 | 27 | Charlene Baltimore |
+| 50 | 27 | Zany Breaker |
+| 51 | 27 | Angela R Wilson |
+| 52 | 27 | Jae Thompson-Tyus |
+| 53 | 25 | Tyrone Porter |
+| 54 | 23 | David Fuentes |
+| 55 | 23 | Poppy Twister |
+| 56 | 23 | Yashica Smith |
+| 57 | 22 | Tanisha Taylor |
+| 58 | 21 | Brave Balanceblock |
+| 59 | 20 | Jai |
+| 60 | 20 | Chevalier Burley |
+| 61 | 20 | Trina Greenwood |
 | 62 | 19 | Amanda Woodruff |
 | 63 | 19 | Shanjerrica Taylor Rosell |
-| 64 | 19 | Jenni |
-| 65 | 18 | Tyree Tman Shinette |
-| 66 | 18 | AleahKCH |
-| 67 | 18 | Brian Bohanon II |
-| 68 | 18 | David Fuentes |
+| 64 | 19 | Brenda Malachi-butler |
+| 65 | 19 | Jenni |
+| 66 | 18 | Brian Bohanon II |
+| 67 | 18 | Tyree Tman Shinette |
+| 68 | 18 | AleahKCH |
 | 69 | 17 | Kimberly Red |
 | 70 | 17 | Rikki Moran |
-| 71 | 16 | Sylvia Offically A Mcgowan |
-| 72 | 16 | Hasty Pivoty |
-| 73 | 15 | Una |
+| 71 | 16 | Hasty Pivoty |
+| 72 | 16 | Sylvia Offically A Mcgowan |
+| 73 | 15 | Tami Spence |
 | 74 | 15 | Ashley MyBeauty Daniels |
-| 75 | 15 | Tami Spence |
-| 76 | 14 | Tobey Marberry |
-| 77 | 14 | Alyssa Rae |
-| 78 | 14 | David A Alvino |
+| 75 | 15 | Una |
+| 76 | 14 | David A Alvino |
+| 77 | 14 | Tobey Marberry |
+| 78 | 14 | Alyssa Rae |
 | 79 | 13 | Oaklonboy mike |
-| 80 | 12 | Boldy Pivoty |
+| 80 | 12 | Kimmie Gargano |
 | 81 | 12 | MsBobby Patrick |
-| 82 | 12 | Kimmie Gargano |
+| 82 | 12 | Boldy Pivoty |
 | 83 | 11 | Desiree Ryder |
 | 84 | 10 | Keke |
-| 85 | 10 | Sarah Marie |
+| 85 | 10 | 신재호 |
 | 86 | 10 | Daddy |
-| 87 | 10 | Megan Payette |
-| 88 | 10 | Tishauna Virgo |
-| 89 | 10 | 신재호 |
-| 90 | 9 | Kimberly Hernandez |
-| 91 | 9 | Tina Criam |
+| 87 | 10 | Tishauna Virgo |
+| 88 | 10 | Megan Payette |
+| 89 | 10 | Sarah Marie |
+| 90 | 9 | Tina Criam |
+| 91 | 9 | Kimberly Hernandez |
 | 92 | 9 | IThinkNot |
 | 93 | 8 | Brika Brika |
 | 94 | 8 | Sammie Walker |
