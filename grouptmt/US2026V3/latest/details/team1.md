@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 21:58:15 UTC
+# Standings for team1 as of 2026-06-05 21:58:36 UTC
 
 **Total Participants:** 536
 
@@ -17,7 +17,7 @@
 | 9 | 839 | Chris Russell |
 | 10 | 827 | Juan Kandiss Escobedo Irwin |
 | 11 | 749 | Aviv Zehavi |
-| 12 | 622 | Jacoby E Fleming |
+| 12 | 719 | Jacoby E Fleming |
 | 13 | 617 | Charnay Peacock |
 | 14 | 601 | Epic Snapfall |
 | 15 | 580 | Janet Cooke |
