@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 21:56:37 UTC
+# Standings for team1 as of 2026-06-05 21:57:15 UTC
 
 **Total Participants:** 534
 
@@ -28,13 +28,13 @@
 | 20 | 482 | Cj Gorman |
 | 21 | 465 | Jennifer To |
 | 22 | 438 | Ryan Meilleur |
-| 23 | 411 | Ivana Schmidt |
-| 24 | 360 | She Higgy |
-| 25 | 357 | Sarah Marie |
-| 26 | 351 | AF Cruz |
-| 27 | 348 | Brian Bohanon II |
-| 28 | 339 | Holly Jolly |
-| 29 | 336 | Hunter Rayborn |
+| 23 | 431 | Hunter Rayborn |
+| 24 | 411 | Ivana Schmidt |
+| 25 | 360 | She Higgy |
+| 26 | 357 | Sarah Marie |
+| 27 | 351 | AF Cruz |
+| 28 | 348 | Brian Bohanon II |
+| 29 | 339 | Holly Jolly |
 | 30 | 325 | JoJo |
 | 31 | 319 | Shell Lewis |
 | 32 | 280 | Bre Maugh |
@@ -521,7 +521,7 @@
 | 513 | 5 | Temeshia Brooks Washington |
 | 514 | 5 | Stephanie Zuniga Tullock |
 | 515 | 5 | Vernon Hoyt |
-| 516 | 5 | Tamika Fisher |
+| 516 | 5 | Logan Frost |
 | 517 | 5 | pooh |
 | 518 | 5 | Jasmine Hariston-Estis |
 | 519 | 5 | DirtiestofMikes |
@@ -532,11 +532,11 @@
 | 524 | 5 | Chill Linkroll |
 | 525 | 5 | the guy |
 | 526 | 5 | Shakuria Cortia Burney |
-| 527 | 5 | Mommy Frank |
-| 528 | 5 | Tito Divyn |
-| 529 | 5 | Shawn Himes |
+| 527 | 5 | Tito Divyn |
+| 528 | 5 | Shawn Himes |
+| 529 | 5 | Tamika Fisher |
 | 530 | 5 | Zappy Clearfit |
-| 531 | 5 | Logan Frost |
+| 531 | 5 | Mommy Frank |
 | 532 | 5 | Andre Sanon |
 | 533 | 5 | Barbramerri Tarboro |
 | 534 | 5 | Jjhandsome |
