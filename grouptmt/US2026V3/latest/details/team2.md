@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 18:36:35 UTC
+# Standings for team2 as of 2026-06-05 18:37:15 UTC
 
 **Total Participants:** 409
 
@@ -25,8 +25,8 @@
 | 17 | 623 | Bea Bee |
 | 18 | 557 | Amber Triguero |
 | 19 | 515 | Loony Faller |
-| 20 | 503 | Jamie Jones |
-| 21 | 503 | Charley Bedford |
+| 20 | 503 | Charley Bedford |
+| 21 | 503 | Jamie Jones |
 | 22 | 494 | Shandrea Crawford |
 | 23 | 445 | Amy Gale |
 | 24 | 420 | Kathleen Dumbazz |
@@ -51,8 +51,8 @@
 | 43 | 175 | Betty Barrett |
 | 44 | 170 | Dapper Rollout |
 | 45 | 162 | Renee Weedling |
-| 46 | 158 | Nettrainer |
-| 47 | 158 | Amy Nicole McCanne |
+| 46 | 158 | Amy Nicole McCanne |
+| 47 | 158 | Nettrainer |
 | 48 | 153 | Helen Thomas |
 | 49 | 150 | Cara Rivera |
 | 50 | 149 | Aubree Richard |
@@ -69,150 +69,150 @@
 | 61 | 110 | Kelly Vedder |
 | 62 | 105 | Ackerman 85 |
 | 63 | 103 | Spunky Cascadeclear |
-| 64 | 100 | LEW |
-| 65 | 100 | Wmk Rathbun |
+| 64 | 100 | Wmk Rathbun |
+| 65 | 100 | LEW |
 | 66 | 100 | Nichole Wilson |
 | 67 | 99 | Melissa Abbott |
 | 68 | 98 | Tango Sierra |
 | 69 | 97 | Zarah Kettler |
 | 70 | 93 | Ariel Gundersen |
-| 71 | 90 | Marquetta Johnson |
-| 72 | 89 | Chipper Stackbuilder |
-| 73 | 87 | Brittni Lawrence |
-| 74 | 86 | Jazzy Faller |
-| 75 | 85 | MegaPooh |
-| 76 | 84 | Dane Marko |
-| 77 | 84 | Jamie Fenyus |
-| 78 | 83 | Kim Hunt |
-| 79 | 83 | Ashley Voelz |
-| 80 | 82 | Sandra Pursell |
-| 81 | 81 | Judy Long |
-| 82 | 81 | YldBoar |
-| 83 | 81 | Alissa Ary |
-| 84 | 80 | Amy Gregg |
+| 71 | 92 | Amy Taylor Pomerenk |
+| 72 | 90 | Marquetta Johnson |
+| 73 | 89 | Chipper Stackbuilder |
+| 74 | 87 | Brittni Lawrence |
+| 75 | 86 | Jazzy Faller |
+| 76 | 85 | MegaPooh |
+| 77 | 84 | Dane Marko |
+| 78 | 84 | Jamie Fenyus |
+| 79 | 83 | Kim Hunt |
+| 80 | 83 | Ashley Voelz |
+| 81 | 82 | Sandra Pursell |
+| 82 | 81 | Judy Long |
+| 83 | 81 | YldBoar |
+| 84 | 81 | Alissa Ary |
 | 85 | 80 | AcardBoardBox |
-| 86 | 80 | Skye Ehret |
-| 87 | 80 | Lisa Breiding |
-| 88 | 79 | H |
-| 89 | 78 | LittleHippoEars |
-| 90 | 77 | Amy Taylor Pomerenk |
+| 86 | 80 | Lisa Breiding |
+| 87 | 80 | Skye Ehret |
+| 88 | 80 | Amy Gregg |
+| 89 | 79 | H |
+| 90 | 78 | LittleHippoEars |
 | 91 | 76 | Jenni LeBlanc |
 | 92 | 75 | Karly Moore |
 | 93 | 75 | Angeleye A James |
 | 94 | 75 | Suki Jacobs |
-| 95 | 74 | Jumpy Dashpiece |
-| 96 | 73 | Theresa Hollinger |
-| 97 | 70 | Jessica Christine |
-| 98 | 66 | Sarah Mccolgan |
-| 99 | 65 | Brandy Chinelle |
-| 100 | 62 | Breezy |
+| 95 | 74 | Shiny Spinfit |
+| 96 | 74 | Jumpy Dashpiece |
+| 97 | 73 | Theresa Hollinger |
+| 98 | 70 | Jessica Christine |
+| 99 | 66 | Sarah Mccolgan |
+| 100 | 65 | Brandy Chinelle |
 | 101 | 62 | Sara Perkins |
-| 102 | 61 | Jessica Perkins |
-| 103 | 61 | Bubbly Dash |
-| 104 | 60 | Amber Salazar |
-| 105 | 60 | Snippy Shifter |
-| 106 | 60 | Leticia Tillman |
-| 107 | 60 | Dawn Kroptavich |
-| 108 | 60 | Courtney Madison Hart |
+| 102 | 62 | Breezy |
+| 103 | 61 | Jessica Perkins |
+| 104 | 61 | Bubbly Dash |
+| 105 | 60 | Dawn Kroptavich |
+| 106 | 60 | Snippy Shifter |
+| 107 | 60 | Amber Salazar |
+| 108 | 60 | Leticia Tillman |
 | 109 | 60 | Elizabeth Cornelius |
-| 110 | 59 | April Addis |
-| 111 | 58 | Rick |
+| 110 | 60 | Courtney Madison Hart |
+| 111 | 59 | April Addis |
 | 112 | 58 | Chipper Towerzone |
 | 113 | 58 | Zany Wrecker |
-| 114 | 57 | Sully |
-| 115 | 57 | Kenzie |
-| 116 | 56 | Alonzo Reed |
-| 117 | 56 | Brenda Jones |
-| 118 | 55 | Jackie Tupper |
-| 119 | 54 | Lively Twisterfit |
-| 120 | 54 | Silly Tiltbuilder |
-| 121 | 54 | Cool Balancer |
+| 114 | 58 | Rick |
+| 115 | 57 | Sully |
+| 116 | 57 | Kenzie |
+| 117 | 56 | Alonzo Reed |
+| 118 | 56 | Brenda Jones |
+| 119 | 55 | Silly Tiltbuilder |
+| 120 | 55 | Jackie Tupper |
+| 121 | 54 | Funway998 |
 | 122 | 54 | Eva Lopez |
-| 123 | 54 | Funway998 |
+| 123 | 54 | Lively Twisterfit |
 | 124 | 54 | Victoria Pale |
-| 125 | 53 | Maurii93 |
-| 126 | 51 | Mama G |
-| 127 | 51 | Martha Lynn Wiggins |
-| 128 | 51 | Momof2wigglebutts |
+| 125 | 54 | Cool Balancer |
+| 126 | 53 | Maurii93 |
+| 127 | 51 | Momof2wigglebutts |
+| 128 | 51 | Martha Lynn Wiggins |
 | 129 | 51 | Loretta Crow |
-| 130 | 50 | rageking |
+| 130 | 51 | Mama G |
 | 131 | 50 | Justin Stark |
-| 132 | 50 | Whitt |
-| 133 | 50 | Shiny Spinfit |
-| 134 | 50 | Jennifer Wymer |
+| 132 | 50 | Jennifer Wymer |
+| 133 | 50 | Whitt |
+| 134 | 50 | rageking |
 | 135 | 49 | Happy Pivotfall |
-| 136 | 48 | Wendy McKee |
-| 137 | 48 | Dizzy Dropzone |
+| 136 | 48 | Dizzy Dropzone |
+| 137 | 48 | Wendy McKee |
 | 138 | 48 | Spicy Basepiece |
-| 139 | 47 | REE4 |
-| 140 | 47 | Carole Brown |
+| 139 | 47 | Carole Brown |
+| 140 | 47 | REE4 |
 | 141 | 46 | Dani Newton |
 | 142 | 45 | Jason Cunningham |
-| 143 | 45 | Michelle Anne |
-| 144 | 45 | Wacky Holder |
-| 145 | 44 | Zaniya Brown |
-| 146 | 44 | Julibeth Wells |
+| 143 | 45 | Wacky Holder |
+| 144 | 45 | Michelle Anne |
+| 145 | 44 | Julibeth Wells |
+| 146 | 44 | Zaniya Brown |
 | 147 | 43 | Peter Fogg |
 | 148 | 43 | SEH |
 | 149 | 43 | Amber Simonton |
 | 150 | 42 | Heather Vircik |
-| 151 | 42 | Henny Henny |
-| 152 | 42 | Bri St Peter |
-| 153 | 42 | Shylo Bryant-Brunson |
-| 154 | 42 | Snazzy Smasher |
-| 155 | 42 | Charity Hauser |
-| 156 | 42 | Renee Siems |
-| 157 | 42 | Brittany Nichole Ellenburg |
-| 158 | 41 | Hillary Frank |
-| 159 | 41 | Jenny Coffer |
-| 160 | 41 | Ava Speedy |
-| 161 | 41 | Becca Marie |
-| 162 | 41 | Michelle Fry-Cash |
-| 163 | 40 | Jat |
-| 164 | 40 | Loopy Dropper |
-| 165 | 40 | Sherry Ann |
-| 166 | 40 | Nicole Chestnut |
-| 167 | 40 | Larry Cross |
-| 168 | 40 | marsam |
-| 169 | 40 | Kevin Mccoy |
-| 170 | 40 | Charith Lorelle Watson |
-| 171 | 40 | Spicy Balanceblock |
+| 151 | 42 | Shylo Bryant-Brunson |
+| 152 | 42 | Snazzy Smasher |
+| 153 | 42 | Bri St Peter |
+| 154 | 42 | Charity Hauser |
+| 155 | 42 | Henny Henny |
+| 156 | 42 | Brittany Nichole Ellenburg |
+| 157 | 42 | Renee Siems |
+| 158 | 41 | Jenny Coffer |
+| 159 | 41 | Ava Speedy |
+| 160 | 41 | Hillary Frank |
+| 161 | 41 | Michelle Fry-Cash |
+| 162 | 41 | Becca Marie |
+| 163 | 40 | Spicy Balanceblock |
+| 164 | 40 | Larry Cross |
+| 165 | 40 | Jat |
+| 166 | 40 | Kevin Mccoy |
+| 167 | 40 | marsam |
+| 168 | 40 | Loopy Dropper |
+| 169 | 40 | Charith Lorelle Watson |
+| 170 | 40 | Sherry Ann |
+| 171 | 40 | Nicole Chestnut |
 | 172 | 39 | Jason Lamporte |
 | 173 | 39 | Alexis Meyers |
-| 174 | 39 | Xandrea Jones |
-| 175 | 39 | Michael James |
-| 176 | 38 | Harper |
+| 174 | 39 | Michael James |
+| 175 | 39 | Xandrea Jones |
+| 176 | 38 | Lush Party |
 | 177 | 38 | Nicole Hogue |
 | 178 | 38 | Jason P. Schwartz |
-| 179 | 38 | Sarah Jane Gorsuch |
-| 180 | 38 | Lush Party |
+| 179 | 38 | Harper |
+| 180 | 38 | Sarah Jane Gorsuch |
 | 181 | 37 | Michael Carmichael |
-| 182 | 37 | Andre Love |
-| 183 | 37 | James Ward |
+| 182 | 37 | James Ward |
+| 183 | 37 | Andre Love |
 | 184 | 36 | Melmel |
 | 185 | 36 | Ashley Green |
 | 186 | 36 | Mtnblzr |
-| 187 | 35 | Thomas Johnstone |
-| 188 | 35 | Jackie Walker |
+| 187 | 35 | Natalie M. Arredondo |
+| 188 | 35 | Josie Mendivil |
 | 189 | 35 | Kelly |
-| 190 | 35 | Josie Mendivil |
-| 191 | 35 | Natalie M. Arredondo |
+| 190 | 35 | Thomas Johnstone |
+| 191 | 35 | Jackie Walker |
 | 192 | 34 | Marylin Eacker |
 | 193 | 34 | TetrisMama |
-| 194 | 32 | Mary Carriere |
-| 195 | 32 | Jgato |
+| 194 | 32 | Jgato |
+| 195 | 32 | Mary Carriere |
 | 196 | 32 | Sandra Belk |
 | 197 | 32 | Tracey Cox |
-| 198 | 31 | Nikki Sadler |
-| 199 | 31 | IncrediDragon |
-| 200 | 31 | Trinni Hansen |
-| 201 | 31 | Laverne Ellis Blair |
-| 202 | 30 | Stacey Loretta Wallace |
+| 198 | 31 | Trinni Hansen |
+| 199 | 31 | Laverne Ellis Blair |
+| 200 | 31 | Nikki Sadler |
+| 201 | 31 | IncrediDragon |
+| 202 | 30 | Nora Buchan |
 | 203 | 30 | Patti Ward |
-| 204 | 30 | Buddy |
-| 205 | 30 | Nora Buchan |
-| 206 | 30 | Marquita Toliver |
-| 207 | 30 | Teresa Mandich |
+| 204 | 30 | Stacey Loretta Wallace |
+| 205 | 30 | Buddy |
+| 206 | 30 | Teresa Mandich |
+| 207 | 30 | Marquita Toliver |
 | 208 | 30 | Lively Curve |
 | 209 | 30 | Paula Haskins |
 | 210 | 30 | Ashley Eneboe |
