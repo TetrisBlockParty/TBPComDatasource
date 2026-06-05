@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:53:12 UTC
+# Standings for team1 as of 2026-06-05 13:54:13 UTC
 
 **Total Participants:** 130
 
@@ -10,7 +10,7 @@
 | 2 | 800 | Chandler Spencer |
 | 3 | 749 | Aviv Zehavi |
 | 4 | 713 | jaimie |
-| 5 | 625 | Chris Russell |
+| 5 | 665 | Chris Russell |
 | 6 | 523 | Charnay Peacock |
 | 7 | 453 | Brian Stackhouse |
 | 8 | 366 | Tracy Cohen |
@@ -56,21 +56,21 @@
 | 48 | 35 | KoolKimJay |
 | 49 | 35 | Lilly Brown |
 | 50 | 35 | Dai Bo |
-| 51 | 32 | Tobey Marberry |
-| 52 | 32 | Melvin Simpson |
-| 53 | 30 | Casey Chapman |
-| 54 | 30 | Brian Bohanon II |
+| 51 | 34 | Flashy Slam |
+| 52 | 32 | Tobey Marberry |
+| 53 | 32 | Melvin Simpson |
+| 54 | 30 | Lester Malone |
 | 55 | 30 | Saucy Faller |
-| 56 | 30 | Lester Malone |
-| 57 | 29 | hope |
-| 58 | 28 | Flashy Slam |
+| 56 | 30 | Brian Bohanon II |
+| 57 | 30 | Casey Chapman |
+| 58 | 29 | hope |
 | 59 | 28 | John Staub |
 | 60 | 27 | Zany Breaker |
-| 61 | 27 | Jae Thompson-Tyus |
+| 61 | 27 | Angela R Wilson |
 | 62 | 27 | Charlene Baltimore |
-| 63 | 27 | Angela R Wilson |
-| 64 | 25 | Hasty Pivoty |
-| 65 | 25 | Tyrone Porter |
+| 63 | 27 | Jae Thompson-Tyus |
+| 64 | 25 | Tyrone Porter |
+| 65 | 25 | Hasty Pivoty |
 | 66 | 25 | Sashaleo |
 | 67 | 23 | Poppy Twister |
 | 68 | 22 | Tanisha Taylor |
@@ -101,12 +101,12 @@
 | 93 | 15 | Delitra Perkins Hatter |
 | 94 | 14 | Alyssa Rae |
 | 95 | 14 | David A Alvino |
-| 96 | 13 | Oaklonboy mike |
-| 97 | 12 | Kimberly Hernandez |
-| 98 | 11 | Tamara N Lee |
-| 99 | 11 | Desiree Ryder |
-| 100 | 11 | Kp |
-| 101 | 11 | No_Other_Choice |
+| 96 | 14 | No_Other_Choice |
+| 97 | 13 | Oaklonboy mike |
+| 98 | 12 | Kimberly Hernandez |
+| 99 | 11 | Tamara N Lee |
+| 100 | 11 | Desiree Ryder |
+| 101 | 11 | Kp |
 | 102 | 10 | Megan Payette |
 | 103 | 10 | Keke |
 | 104 | 10 | 신재호 |
@@ -124,18 +124,18 @@
 | 116 | 7 | Mary2 |
 | 117 | 7 | Kendra McIntyre |
 | 118 | 6 | JesusSaves 😇 |
-| 119 | 6 | Janine Hunter |
-| 120 | 6 | Christopher Wallace |
-| 121 | 6 | Taz Ballard |
-| 122 | 6 | Jayjay Rich |
-| 123 | 6 | Ashley Espeut |
-| 124 | 5 | Katrina Ramey |
-| 125 | 5 | Christian Whittaker |
-| 126 | 5 | Jennifer Moore |
-| 127 | 5 | Kidgib5 |
-| 128 | 5 | Derek Beverly |
-| 129 | 5 | Tamika Fisher |
-| 130 | 5 | DirtiestofMikes |
+| 119 | 6 | Christopher Wallace |
+| 120 | 6 | Ashley Espeut |
+| 121 | 6 | Jayjay Rich |
+| 122 | 6 | Taz Ballard |
+| 123 | 6 | Janine Hunter |
+| 124 | 5 | Christian Whittaker |
+| 125 | 5 | Jennifer Moore |
+| 126 | 5 | Kidgib5 |
+| 127 | 5 | Derek Beverly |
+| 128 | 5 | DirtiestofMikes |
+| 129 | 5 | Katrina Ramey |
+| 130 | 5 | Tamika Fisher |
 
 ---
 *Standings created by tournaments datasource generation tool*
