@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 18:18:14 UTC
+# Standings for team1 as of 2026-06-05 18:18:35 UTC
 
 **Total Participants:** 381
 
@@ -31,8 +31,8 @@
 | 23 | 249 | Ashley MyBeauty Daniels |
 | 24 | 244 | Tammye Turner |
 | 25 | 241 | Ivana Schmidt |
-| 26 | 240 | IamJust Neyamijah Washington Sr. |
-| 27 | 240 | Rayya Kiser |
+| 26 | 240 | Rayya Kiser |
+| 27 | 240 | IamJust Neyamijah Washington Sr. |
 | 28 | 239 | Kellie Hall |
 | 29 | 238 | Holly Jolly |
 | 30 | 237 | Leebo Slice |
@@ -46,14 +46,14 @@
 | 38 | 185 | COSA303 |
 | 39 | 178 | Gotcha |
 | 40 | 177 | Chris Sladoje |
-| 41 | 165 | Davionte DaeDae Hopson-Rodriguez |
-| 42 | 162 | Markeeta Lipscomb |
-| 43 | 156 | Jessica Russell |
-| 44 | 151 | Dacia Hicks |
-| 45 | 140 | Ann Chung |
-| 46 | 140 | JoJo |
-| 47 | 137 | BlackQueen105 |
-| 48 | 135 | Teddy Davis |
+| 41 | 175 | Teddy Davis |
+| 42 | 165 | Davionte DaeDae Hopson-Rodriguez |
+| 43 | 162 | Markeeta Lipscomb |
+| 44 | 156 | Jessica Russell |
+| 45 | 151 | Dacia Hicks |
+| 46 | 140 | Ann Chung |
+| 47 | 140 | JoJo |
+| 48 | 137 | BlackQueen105 |
 | 49 | 135 | Jawaun Daniels |
 | 50 | 132 | Blockhead |
 | 51 | 126 | Cee Emm |
@@ -213,21 +213,21 @@
 | 205 | 24 | TBABYJ |
 | 206 | 24 | Mrs |
 | 207 | 24 | Brittany Fells |
-| 208 | 24 | Nobles Brandon |
-| 209 | 23 | Poppy Twister |
-| 210 | 23 | Khatyrah Burnette |
-| 211 | 23 | Tabitha Dupre-Allen |
-| 212 | 23 | Jamie Lea Popp |
-| 213 | 23 | Penee Wiggins |
-| 214 | 23 | Adrian Harris |
-| 215 | 23 | Tamara N Lee |
-| 216 | 23 | Kimberly Hernandez |
-| 217 | 23 | Nerdy Climber |
-| 218 | 22 | Tanisha Taylor |
-| 219 | 22 | Ad Doctor |
-| 220 | 22 | Heather Wilson |
-| 221 | 22 | Kimberly Anderson |
-| 222 | 22 | Breezy Catcher |
+| 208 | 24 | Breezy Catcher |
+| 209 | 24 | Nobles Brandon |
+| 210 | 23 | Poppy Twister |
+| 211 | 23 | Khatyrah Burnette |
+| 212 | 23 | Tabitha Dupre-Allen |
+| 213 | 23 | Jamie Lea Popp |
+| 214 | 23 | Penee Wiggins |
+| 215 | 23 | Adrian Harris |
+| 216 | 23 | Tamara N Lee |
+| 217 | 23 | Kimberly Hernandez |
+| 218 | 23 | Nerdy Climber |
+| 219 | 22 | Tanisha Taylor |
+| 220 | 22 | Ad Doctor |
+| 221 | 22 | Heather Wilson |
+| 222 | 22 | Kimberly Anderson |
 | 223 | 21 | kingbrook |
 | 224 | 21 | Sylvia Offically A Mcgowan |
 | 225 | 21 | Comedian Prince Paul |
