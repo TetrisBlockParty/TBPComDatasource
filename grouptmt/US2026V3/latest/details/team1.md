@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:52:13 UTC
+# Standings for team1 as of 2026-06-05 13:52:34 UTC
 
 **Total Participants:** 130
 
@@ -16,9 +16,9 @@
 | 8 | 366 | Tracy Cohen |
 | 9 | 241 | Ivana Schmidt |
 | 10 | 237 | Tammye Turner |
-| 11 | 177 | Chris Sladoje |
-| 12 | 170 | Janet Cooke |
-| 13 | 164 | Gotcha |
+| 11 | 178 | Gotcha |
+| 12 | 177 | Chris Sladoje |
+| 13 | 170 | Janet Cooke |
 | 14 | 141 | Debbie Carswell |
 | 15 | 126 | Cee Emm |
 | 16 | 100 | Asani CHumba |

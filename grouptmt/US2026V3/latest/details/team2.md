@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 13:52:13 UTC
+# Standings for team2 as of 2026-06-05 13:52:34 UTC
 
 **Total Participants:** 125
 
@@ -29,7 +29,7 @@
 | 21 | 60 | AcardBoardBox |
 | 22 | 59 | April Addis |
 | 23 | 58 | Chipper Towerzone |
-| 24 | 50 | Rick |
+| 24 | 52 | Rick |
 | 25 | 50 | Martha Lynn Wiggins |
 | 26 | 48 | Spicy Basepiece |
 | 27 | 45 | Michelle Anne |
@@ -94,42 +94,42 @@
 | 86 | 11 | Yany |
 | 87 | 10 | Thomas Johnstone |
 | 88 | 10 | Twisty Snapmatch |
-| 89 | 10 | Donna Casey |
-| 90 | 10 | Berta Hurley |
-| 91 | 10 | Joyce Galloway |
-| 92 | 10 | Carlos J Blas |
-| 93 | 10 | Missy Savage-Justice |
-| 94 | 10 | Becky Kennon |
-| 95 | 10 | Jennifer Bell |
-| 96 | 10 | Gill |
-| 97 | 10 | Crystal Owen Yocolano |
-| 98 | 10 | SEH |
-| 99 | 10 | Justin Furne |
-| 100 | 10 | Frilly Dashfit |
-| 101 | 10 | Jat |
-| 102 | 10 | Leticia Tillman |
-| 103 | 9 | Mama G |
-| 104 | 9 | Darla Ragsdale |
-| 105 | 9 | Rhonda Driskill |
-| 106 | 9 | Princess Cucumber |
-| 107 | 9 | Giggly Spinblock |
+| 89 | 10 | Berta Hurley |
+| 90 | 10 | Joyce Galloway |
+| 91 | 10 | Carlos J Blas |
+| 92 | 10 | Crystal Owen Yocolano |
+| 93 | 10 | Gill |
+| 94 | 10 | Missy Savage-Justice |
+| 95 | 10 | Becky Kennon |
+| 96 | 10 | SEH |
+| 97 | 10 | Justin Furne |
+| 98 | 10 | Jennifer Bell |
+| 99 | 10 | Leticia Tillman |
+| 100 | 10 | Jat |
+| 101 | 10 | Frilly Dashfit |
+| 102 | 10 | Donna Casey |
+| 103 | 9 | Darla Ragsdale |
+| 104 | 9 | Mama G |
+| 105 | 9 | Princess Cucumber |
+| 106 | 9 | Giggly Spinblock |
+| 107 | 9 | Rhonda Driskill |
 | 108 | 8 | Renee Weedling |
 | 109 | 8 | Stephanie |
 | 110 | 8 | Nicky Steigerwalt |
-| 111 | 7 | nova |
-| 112 | 7 | Epic Framezone |
-| 113 | 7 | Jackie Hayslip |
-| 114 | 7 | Elizabeth Elaine Coursey |
+| 111 | 7 | Epic Framezone |
+| 112 | 7 | Rae |
+| 113 | 7 | Elizabeth Elaine Coursey |
+| 114 | 7 | Jackie Hayslip |
 | 115 | 7 | Cherica Taylor |
-| 116 | 7 | Rae |
-| 117 | 6 | fancypants |
-| 118 | 6 | Nova Nova |
-| 119 | 6 | Kelly Christine Trimmer |
-| 120 | 5 | Allison Peterson |
-| 121 | 5 | Devon |
-| 122 | 5 | Laverne Ellis Blair |
-| 123 | 5 | Slinky Glidezone |
-| 124 | 5 | Bubbly Strikerpiece |
+| 116 | 7 | nova |
+| 117 | 6 | Kelly Christine Trimmer |
+| 118 | 6 | fancypants |
+| 119 | 6 | Nova Nova |
+| 120 | 5 | Slinky Glidezone |
+| 121 | 5 | Allison Peterson |
+| 122 | 5 | Devon |
+| 123 | 5 | Bubbly Strikerpiece |
+| 124 | 5 | Laverne Ellis Blair |
 | 125 | 5 | Tashamonique Puckey |
 
 ---

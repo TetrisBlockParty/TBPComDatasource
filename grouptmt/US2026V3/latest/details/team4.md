@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-06-05 13:52:13 UTC
+# Standings for team4 as of 2026-06-05 13:52:34 UTC
 
-**Total Participants:** 110
+**Total Participants:** 111
 
 ## Participant Scores
 
@@ -42,80 +42,81 @@
 | 34 | 39 | Anthony Kollar |
 | 35 | 38 | Jonathan Hewitt |
 | 36 | 38 | Charity Thomas |
-| 37 | 37 | Cail |
-| 38 | 37 | Dana Fontanez |
+| 37 | 37 | Dana Fontanez |
+| 38 | 37 | Cail |
 | 39 | 36 | Mrs |
 | 40 | 35 | Tactical_B |
 | 41 | 34 | jojo |
 | 42 | 34 | Clashy |
 | 43 | 33 | Lul Babie |
 | 44 | 31 | Jasmine Marie |
-| 45 | 30 | Sarah Berry Stevens |
-| 46 | 30 | Nicole Colby McCloskey |
-| 47 | 30 | Will E Ayala |
+| 45 | 30 | Nicole Colby McCloskey |
+| 46 | 30 | Will E Ayala |
+| 47 | 30 | Sarah Berry Stevens |
 | 48 | 29 | Joseph Hunter |
-| 49 | 28 | Laurie Patrick |
-| 50 | 28 | Melissa Schwager |
-| 51 | 28 | Sandra O'Reilly |
+| 49 | 28 | Melissa Schwager |
+| 50 | 28 | Sandra O'Reilly |
+| 51 | 28 | Laurie Patrick |
 | 52 | 27 | ktothet |
-| 53 | 25 | Маркус Вік |
-| 54 | 25 | Andrea Dre Lomeli |
+| 53 | 25 | Andrea Dre Lomeli |
+| 54 | 25 | Маркус Вік |
 | 55 | 24 | smarty |
-| 56 | 23 | Stasia |
-| 57 | 23 | Zippy Snaplink |
-| 58 | 23 | Melissa Quinn |
+| 56 | 23 | Zippy Snaplink |
+| 57 | 23 | Melissa Quinn |
+| 58 | 23 | Stasia |
 | 59 | 22 | Saul Fajardo |
-| 60 | 21 | Playa |
-| 61 | 21 | Keesha Muro |
-| 62 | 20 | Magz |
-| 63 | 20 | Taz |
-| 64 | 20 | Betsy Froemming |
-| 65 | 20 | Mexican130 |
-| 66 | 20 | Erica Pompey |
-| 67 | 19 | Swanky Matchfit |
-| 68 | 19 | Becky McCool |
-| 69 | 18 | Nancy McCalla Abercrombie |
-| 70 | 18 | Iforget |
+| 60 | 21 | Keesha Muro |
+| 61 | 21 | Playa |
+| 62 | 20 | Taz |
+| 63 | 20 | Mexican130 |
+| 64 | 20 | Erica Pompey |
+| 65 | 20 | Betsy Froemming |
+| 66 | 20 | Magz |
+| 67 | 19 | Becky McCool |
+| 68 | 19 | Swanky Matchfit |
+| 69 | 18 | Iforget |
+| 70 | 18 | Nancy McCalla Abercrombie |
 | 71 | 17 | Breezy Blockzone |
 | 72 | 16 | George Palacios |
 | 73 | 15 | Perry Ransom |
 | 74 | 15 | Hasty Dropzone |
-| 75 | 15 | Lush Fitblock |
-| 76 | 15 | Joshua Garner |
-| 77 | 15 | Jonelle Jacobs |
-| 78 | 13 | Catherine Garza |
-| 79 | 13 | Karen Rodriguez |
-| 80 | 13 | Cherry |
+| 75 | 15 | Jonelle Jacobs |
+| 76 | 15 | Lush Fitblock |
+| 77 | 15 | Joshua Garner |
+| 78 | 13 | Cherry |
+| 79 | 13 | Catherine Garza |
+| 80 | 13 | Karen Rodriguez |
 | 81 | 12 | Fancy Tilefall |
 | 82 | 12 | Alizabeth Garcia |
 | 83 | 11 | Samara Garcia |
 | 84 | 10 | Britney Kitora |
-| 85 | 10 | Loony Edge |
-| 86 | 10 | JP Chua |
-| 87 | 10 | Miguel Teixeira |
-| 88 | 10 | Buchanon Bossingup Jadrienne |
-| 89 | 10 | Lateasha Wildman |
-| 90 | 10 | John Wertz |
-| 91 | 9 | Esmond Johnson IV |
-| 92 | 9 | Hotstuff |
+| 85 | 10 | Buchanon Bossingup Jadrienne |
+| 86 | 10 | John Wertz |
+| 87 | 10 | Lateasha Wildman |
+| 88 | 10 | Miguel Teixeira |
+| 89 | 10 | Loony Edge |
+| 90 | 10 | JP Chua |
+| 91 | 9 | Hotstuff |
+| 92 | 9 | Esmond Johnson IV |
 | 93 | 9 | Dheeh Robles |
-| 94 | 9 | Angela Adamo-Tash |
-| 95 | 9 | Cheeky Fallzone |
+| 94 | 9 | Cheeky Fallzone |
+| 95 | 9 | Angela Adamo-Tash |
 | 96 | 8 | Sisi RedVelvet Reneè |
 | 97 | 7 | Erica Armstrong Baz |
-| 98 | 6 | Dizzy |
-| 99 | 6 | Deb 07 |
-| 100 | 5 | Lively Cascadeclear |
-| 101 | 5 | Ricky Colvin |
-| 102 | 5 | SweetChaos |
-| 103 | 5 | Rachel |
-| 104 | 5 | Swanky Zigzag |
-| 105 | 5 | Zappy Matchgrid |
-| 106 | 5 | Cflixer |
+| 98 | 6 | Deb 07 |
+| 99 | 6 | Dizzy |
+| 100 | 6 | Frothy Riseclear |
+| 101 | 5 | Lively Cascadeclear |
+| 102 | 5 | Jeremy Barry |
+| 103 | 5 | Ricky Colvin |
+| 104 | 5 | SweetChaos |
+| 105 | 5 | Jason Garnatz |
+| 106 | 5 | Zappy Matchgrid |
 | 107 | 5 | Mighty1 |
-| 108 | 5 | Jeremy Barry |
-| 109 | 5 | Jason Garnatz |
-| 110 | 5 | Tippet |
+| 108 | 5 | Cflixer |
+| 109 | 5 | Tippet |
+| 110 | 5 | Swanky Zigzag |
+| 111 | 5 | Rachel |
 
 ---
 *Standings created by tournaments datasource generation tool*
