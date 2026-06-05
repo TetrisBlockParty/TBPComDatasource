@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 18:38:15 UTC
+# Standings for team2 as of 2026-06-05 18:38:40 UTC
 
 **Total Participants:** 410
 
@@ -19,7 +19,7 @@
 | 11 | 1128 | Jennifer Corder |
 | 12 | 1100 | Kathleen M Cox |
 | 13 | 1100 | Bobbi |
-| 14 | 962 | Christina Shell |
+| 14 | 972 | Christina Shell |
 | 15 | 700 | Anthony Lilley |
 | 16 | 663 | Logan Basham |
 | 17 | 623 | Bea Bee |
