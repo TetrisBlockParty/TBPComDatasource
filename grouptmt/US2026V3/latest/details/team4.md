@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 16:26:13 UTC
+# Standings for team4 as of 2026-06-05 16:26:36 UTC
 
 **Total Participants:** 267
 
@@ -22,8 +22,8 @@
 | 14 | 324 | Heather Preston |
 | 15 | 300 | Chaz Duncan |
 | 16 | 273 | delilahbelle |
-| 17 | 270 | Jeremy Lopez |
-| 18 | 270 | Gloria Nunley Trussell |
+| 17 | 270 | Gloria Nunley Trussell |
+| 18 | 270 | Jeremy Lopez |
 | 19 | 240 | Jojo Ann |
 | 20 | 220 | Jesse Olive |
 | 21 | 214 | Sisi RedVelvet Reneè |
@@ -32,8 +32,8 @@
 | 24 | 183 | Andrew Dang |
 | 25 | 169 | Kimyatta Cavin |
 | 26 | 167 | Real Talk Vibes |
-| 27 | 161 | Kim |
-| 28 | 161 | Giggy Matchpiece |
+| 27 | 161 | Giggy Matchpiece |
+| 28 | 161 | Kim |
 | 29 | 159 | iiPurgeV2 |
 | 30 | 149 | Danny Ortiz |
 | 31 | 148 | Colin |
@@ -62,21 +62,21 @@
 | 54 | 75 | June Hoffman |
 | 55 | 74 | Lani |
 | 56 | 71 | Chris Covington |
-| 57 | 71 | Becky McCool |
-| 58 | 71 | King |
-| 59 | 71 | Justin Michael |
+| 57 | 71 | King |
+| 58 | 71 | Justin Michael |
+| 59 | 71 | Becky McCool |
 | 60 | 71 | Lady |
 | 61 | 70 | Janae Harris |
 | 62 | 68 | Keys Tome |
 | 63 | 67 | Henry Lanier |
 | 64 | 65 | ktothet |
 | 65 | 64 | Stef |
-| 66 | 60 | George Marshburn |
-| 67 | 60 | Blockcrusher |
-| 68 | 60 | Chilly Pivot |
-| 69 | 60 | Amandacolle |
-| 70 | 60 | Josh Keith Travierso |
-| 71 | 60 | Fran Aaron-Ring |
+| 66 | 60 | Fran Aaron-Ring |
+| 67 | 60 | George Marshburn |
+| 68 | 60 | Blockcrusher |
+| 69 | 60 | Chilly Pivot |
+| 70 | 60 | Amandacolle |
+| 71 | 60 | Josh Keith Travierso |
 | 72 | 60 | Magz |
 | 73 | 59 | Futrell Brent |
 | 74 | 59 | Paula Renee McCracken |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 16:26:13 UTC
+# Standings for team1 as of 2026-06-05 16:26:36 UTC
 
 **Total Participants:** 290
 
@@ -32,7 +32,7 @@
 | 24 | 234 | Pdubbl3 |
 | 25 | 220 | Rayya Kiser |
 | 26 | 215 | Abraham Espaillat |
-| 27 | 207 | Ashley MyBeauty Daniels |
+| 27 | 213 | Ashley MyBeauty Daniels |
 | 28 | 185 | Jennifer To |
 | 29 | 185 | COSA303 |
 | 30 | 178 | Cassidy Butler |
@@ -157,43 +157,43 @@
 | 149 | 28 | Earl Williams |
 | 150 | 28 | John Staub |
 | 151 | 27 | Mighty Dropper |
-| 152 | 27 | Jae Thompson-Tyus |
-| 153 | 27 | Zany Breaker |
-| 154 | 27 | Charlene Baltimore |
+| 152 | 27 | Charlene Baltimore |
+| 153 | 27 | Jae Thompson-Tyus |
+| 154 | 27 | Zany Breaker |
 | 155 | 26 | Xrandomx |
 | 156 | 25 | Kimmie Gargano |
-| 157 | 25 | Skippy |
-| 158 | 25 | Kyle Conley |
+| 157 | 25 | Queenie Perry |
+| 158 | 25 | Tony P Burke |
 | 159 | 25 | Tyrone Porter |
-| 160 | 25 | Tony P Burke |
-| 161 | 25 | Queenie Perry |
-| 162 | 24 | Dee McCool |
-| 163 | 24 | Nobles Brandon |
+| 160 | 25 | Kyle Conley |
+| 161 | 25 | Skippy |
+| 162 | 24 | Mrs |
+| 163 | 24 | Brittany Fells |
 | 164 | 24 | TBABYJ |
-| 165 | 24 | Mrs |
-| 166 | 24 | Brittany Fells |
-| 167 | 23 | Poppy Twister |
-| 168 | 23 | Adrian Harris |
+| 165 | 24 | Dee McCool |
+| 166 | 24 | Nobles Brandon |
+| 167 | 23 | Nona Harriel |
+| 168 | 23 | Poppy Twister |
 | 169 | 23 | Tamara N Lee |
 | 170 | 23 | Tabitha Dupre-Allen |
-| 171 | 23 | Khatyrah Burnette |
-| 172 | 22 | Ad Doctor |
-| 173 | 22 | Heather Wilson |
-| 174 | 22 | Tanisha Taylor |
-| 175 | 21 | Brave Balanceblock |
-| 176 | 21 | Sylvia Offically A Mcgowan |
-| 177 | 20 | Epic Snapfall |
-| 178 | 20 | Kenneth Hefney |
-| 179 | 20 | Chevalier Burley |
-| 180 | 20 | Nona Harriel |
-| 181 | 20 | Jai |
-| 182 | 20 | Devin West |
-| 183 | 20 | Nyhlah Patterson |
-| 184 | 20 | Trina Greenwood |
-| 185 | 20 | Larina Cherie Johnson |
-| 186 | 20 | Dorian Griffin |
-| 187 | 19 | Saucy Tile |
-| 188 | 19 | Mimi 1.0 |
+| 171 | 23 | Adrian Harris |
+| 172 | 23 | Khatyrah Burnette |
+| 173 | 22 | Ad Doctor |
+| 174 | 22 | Heather Wilson |
+| 175 | 22 | Tanisha Taylor |
+| 176 | 21 | Brave Balanceblock |
+| 177 | 21 | Sylvia Offically A Mcgowan |
+| 178 | 20 | Epic Snapfall |
+| 179 | 20 | Dorian Griffin |
+| 180 | 20 | Larina Cherie Johnson |
+| 181 | 20 | Trina Greenwood |
+| 182 | 20 | Nyhlah Patterson |
+| 183 | 20 | Devin West |
+| 184 | 20 | Jai |
+| 185 | 20 | Chevalier Burley |
+| 186 | 20 | Kenneth Hefney |
+| 187 | 19 | Mimi 1.0 |
+| 188 | 19 | Saucy Tile |
 | 189 | 19 | Michele Simpson |
 | 190 | 19 | Shanjerrica Taylor Rosell |
 | 191 | 19 | LAhoneybun82 |
