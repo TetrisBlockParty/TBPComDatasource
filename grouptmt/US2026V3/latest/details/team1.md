@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 12:22:12 UTC
+# Standings for team1 as of 2026-06-05 12:22:34 UTC
 
 **Total Participants:** 23
 
@@ -11,7 +11,7 @@
 | 3 | 500 | Chandler Spencer |
 | 4 | 164 | Gotcha |
 | 5 | 89 | Debbie Carswell |
-| 6 | 60 | Rachel Zimmerman |
+| 6 | 80 | Rachel Zimmerman |
 | 7 | 60 | Asani CHumba |
 | 8 | 48 | Amber Wilson |
 | 9 | 40 | Leavon Smith |
