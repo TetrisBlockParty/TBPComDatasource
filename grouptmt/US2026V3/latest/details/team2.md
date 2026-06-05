@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 20:16:16 UTC
+# Standings for team2 as of 2026-06-05 20:16:38 UTC
 
 **Total Participants:** 500
 
@@ -46,13 +46,13 @@
 | 38 | 310 | Frilly Match |
 | 39 | 280 | Julie Trede Amerson |
 | 40 | 278 | La chulis |
-| 41 | 259 | Jennifer Smith |
-| 42 | 256 | Monica Galli |
-| 43 | 252 | Amber Miller Wirick |
-| 44 | 250 | Wmk Rathbun |
-| 45 | 246 | Jazzy Faller |
-| 46 | 246 | Giddy Slamdrop |
-| 47 | 239 | Happy Pivotfall |
+| 41 | 269 | Happy Pivotfall |
+| 42 | 259 | Jennifer Smith |
+| 43 | 256 | Monica Galli |
+| 44 | 252 | Amber Miller Wirick |
+| 45 | 250 | Wmk Rathbun |
+| 46 | 246 | Jazzy Faller |
+| 47 | 246 | Giddy Slamdrop |
 | 48 | 237 | Sarah Griffey |
 | 49 | 221 | Vistabrat |
 | 50 | 220 | Mom |
