@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 23:22:16 UTC
+# Standings for team1 as of 2026-06-05 23:22:37 UTC
 
 **Total Participants:** 588
 
@@ -211,13 +211,13 @@
 | 203 | 45 | Guy Incognito |
 | 204 | 45 | Rachael Bakowicz Edwards |
 | 205 | 45 | Renee J. Thomas |
-| 206 | 44 | Andi McGreevy |
-| 207 | 43 | Block |
-| 208 | 43 | IThinkNot |
-| 209 | 43 | Brittany Fells |
-| 210 | 43 | Brenda Malachi-butler |
-| 211 | 43 | Rachel Renae Bettis |
-| 212 | 43 | Byron Mario Cawthon |
+| 206 | 45 | Byron Mario Cawthon |
+| 207 | 44 | Andi McGreevy |
+| 208 | 43 | Block |
+| 209 | 43 | IThinkNot |
+| 210 | 43 | Brittany Fells |
+| 211 | 43 | Brenda Malachi-butler |
+| 212 | 43 | Rachel Renae Bettis |
 | 213 | 42 | sasha |
 | 214 | 42 | Dandy Brickfit |
 | 215 | 41 | Cranky Fall |
@@ -254,46 +254,46 @@
 | 246 | 37 | Jackytrain52 |
 | 247 | 37 | Calvin Green |
 | 248 | 36 | Sunny Riserbuilder |
-| 249 | 35 | HBTone |
-| 250 | 35 | Wacky Stackbuilder |
-| 251 | 35 | Jolly Tilefall |
-| 252 | 35 | Jumpy Gridlock |
-| 253 | 35 | Saucy Crusher |
-| 254 | 35 | Glitzy Clusterer |
-| 255 | 35 | messyboots |
-| 256 | 35 | Sashaleo |
+| 249 | 35 | messyboots |
+| 250 | 35 | Glitzy Clusterer |
+| 251 | 35 | HBTone |
+| 252 | 35 | Saucy Crusher |
+| 253 | 35 | Jumpy Gridlock |
+| 254 | 35 | Sashaleo |
+| 255 | 35 | Jolly Tilefall |
+| 256 | 35 | Wacky Stackbuilder |
 | 257 | 35 | Kimberly Red |
-| 258 | 34 | Elizabeth Hopkins |
-| 259 | 34 | Rene Hicks |
-| 260 | 33 | Squaw Ki Ng |
-| 261 | 33 | Charlene Baltimore |
-| 262 | 33 | Chris Nelson |
-| 263 | 33 | Karen Denen |
+| 258 | 34 | Rene Hicks |
+| 259 | 34 | Elizabeth Hopkins |
+| 260 | 33 | Crtjstr |
+| 261 | 33 | Krose Byers |
+| 262 | 33 | Kimberly Linares Hernandez |
+| 263 | 33 | Block King |
 | 264 | 33 | Richard Flex |
-| 265 | 33 | Mom3granny2 |
-| 266 | 33 | Tonny Williams |
-| 267 | 33 | Krose Byers |
-| 268 | 33 | Crtjstr |
-| 269 | 33 | Block King |
-| 270 | 32 | Gerold Folk Haddock |
-| 271 | 32 | Tomme Poliwka |
-| 272 | 32 | Dee McCool |
-| 273 | 32 | Tyrone Porter |
+| 265 | 33 | Karen Denen |
+| 266 | 33 | Chris Nelson |
+| 267 | 33 | Charlene Baltimore |
+| 268 | 33 | Squaw Ki Ng |
+| 269 | 33 | Mom3granny2 |
+| 270 | 33 | Tonny Williams |
+| 271 | 32 | Gerold Folk Haddock |
+| 272 | 32 | Tomme Poliwka |
+| 273 | 32 | Dee McCool |
 | 274 | 32 | Maribel Vasquez |
 | 275 | 32 | Sylvia Offically A Mcgowan |
-| 276 | 32 | Kimberly Linares Hernandez |
-| 277 | 32 | Melvin Simpson |
-| 278 | 31 | Reginald Frank |
-| 279 | 31 | kingbrook |
-| 280 | 31 | Tipsy Linkroll |
-| 281 | 31 | Boldy Pivoty |
-| 282 | 31 | Anthony |
-| 283 | 31 | Miera Nicole |
-| 284 | 31 | Kelvin Cook |
-| 285 | 31 | Casey Chapman |
-| 286 | 31 | Vannie G |
-| 287 | 30 | Rhianna Dinki Austin |
-| 288 | 30 | izzybella |
+| 276 | 32 | Melvin Simpson |
+| 277 | 32 | Tyrone Porter |
+| 278 | 31 | Boldy Pivoty |
+| 279 | 31 | Casey Chapman |
+| 280 | 31 | Kelvin Cook |
+| 281 | 31 | Miera Nicole |
+| 282 | 31 | Vannie G |
+| 283 | 31 | Reginald Frank |
+| 284 | 31 | kingbrook |
+| 285 | 31 | Tipsy Linkroll |
+| 286 | 31 | Anthony |
+| 287 | 30 | izzybella |
+| 288 | 30 | Rhianna Dinki Austin |
 | 289 | 30 | Kp |
 | 290 | 30 | Witty Blockpiece |
 | 291 | 30 | Jaida De'Anne Cox |
