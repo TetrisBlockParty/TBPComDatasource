@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 14:02:35 UTC
+# Standings for team1 as of 2026-06-05 14:03:12 UTC
 
-**Total Participants:** 136
+**Total Participants:** 137
 
 ## Participant Scores
 
@@ -24,106 +24,106 @@
 | 16 | 100 | Asani CHumba |
 | 17 | 99 | Kellie Hall |
 | 18 | 86 | SPNLover24 |
-| 19 | 81 | Mafio SO |
-| 20 | 81 | Robyn Caldwell |
-| 21 | 80 | Rachel Zimmerman |
-| 22 | 80 | Jazzy Dashpiece |
+| 19 | 81 | Robyn Caldwell |
+| 20 | 81 | Mafio SO |
+| 21 | 80 | Jazzy Dashpiece |
+| 22 | 80 | Rachel Zimmerman |
 | 23 | 77 | Amber Wilson |
 | 24 | 74 | ♈️ Ariesbaby |
 | 25 | 67 | Michele Elizabeth McKay-Johnson |
 | 26 | 66 | Shontanese Adams |
-| 27 | 65 | Shanell Thomas |
-| 28 | 65 | Dizzy Dashy |
+| 27 | 65 | Dizzy Dashy |
+| 28 | 65 | Shanell Thomas |
 | 29 | 63 | Carrie English |
 | 30 | 60 | Christian Pham |
 | 31 | 54 | Lauraly |
-| 32 | 50 | Yazz |
-| 33 | 50 | Slinky Party |
+| 32 | 50 | Slinky Party |
+| 33 | 50 | Yazz |
 | 34 | 48 | David Fuentes |
-| 35 | 43 | KenpachisGirl |
-| 36 | 43 | Block |
+| 35 | 43 | Block |
+| 36 | 43 | KenpachisGirl |
 | 37 | 42 | Frisky Fall |
 | 38 | 41 | Jessica Russell |
-| 39 | 40 | Cheeky Pop |
-| 40 | 40 | Flashy Slam |
+| 39 | 40 | Jean Regis |
+| 40 | 40 | Char |
 | 41 | 40 | Leavon Smith |
-| 42 | 40 | Char |
-| 43 | 40 | Jean Regis |
-| 44 | 38 | Ashley MyBeauty Daniels |
-| 45 | 38 | rls |
-| 46 | 37 | Steve Reno |
-| 47 | 37 | Lootch |
-| 48 | 35 | Lilly Brown |
-| 49 | 35 | Saucy Crusher |
-| 50 | 35 | KoolKimJay |
-| 51 | 35 | Yashica Smith |
+| 42 | 40 | Flashy Slam |
+| 43 | 40 | Cheeky Pop |
+| 44 | 38 | rls |
+| 45 | 38 | Ashley MyBeauty Daniels |
+| 46 | 37 | Lootch |
+| 47 | 37 | Steve Reno |
+| 48 | 35 | Saucy Crusher |
+| 49 | 35 | Yashica Smith |
+| 50 | 35 | Lilly Brown |
+| 51 | 35 | KoolKimJay |
 | 52 | 35 | Dai Bo |
 | 53 | 33 | Sashaleo |
 | 54 | 32 | Melvin Simpson |
 | 55 | 32 | Tobey Marberry |
-| 56 | 30 | Brian Bohanon II |
-| 57 | 30 | Casey Chapman |
-| 58 | 30 | Lester Malone |
-| 59 | 30 | Saucy Faller |
-| 60 | 30 | $hort Dog |
-| 61 | 29 | Sarah Marie |
+| 56 | 30 | Casey Chapman |
+| 57 | 30 | Saucy Faller |
+| 58 | 30 | $hort Dog |
+| 59 | 30 | Lester Malone |
+| 60 | 30 | Brian Bohanon II |
+| 61 | 29 | hope |
 | 62 | 29 | Tosha Michelle |
-| 63 | 29 | hope |
+| 63 | 29 | Sarah Marie |
 | 64 | 28 | John Staub |
-| 65 | 27 | Jae Thompson-Tyus |
+| 65 | 27 | Angela R Wilson |
 | 66 | 27 | Mighty Dropper |
-| 67 | 27 | Charlene Baltimore |
-| 68 | 27 | Zany Breaker |
-| 69 | 27 | Angela R Wilson |
-| 70 | 25 | Hasty Pivoty |
-| 71 | 25 | Tyrone Porter |
-| 72 | 24 | Boldy Pivoty |
+| 67 | 27 | Jae Thompson-Tyus |
+| 68 | 27 | Charlene Baltimore |
+| 69 | 27 | Zany Breaker |
+| 70 | 25 | Boldy Pivoty |
+| 71 | 25 | Hasty Pivoty |
+| 72 | 25 | Tyrone Porter |
 | 73 | 24 | TBABYJ |
 | 74 | 23 | Poppy Twister |
 | 75 | 22 | Tanisha Taylor |
 | 76 | 21 | Brave Balanceblock |
-| 77 | 20 | JoJo |
-| 78 | 20 | Kimmie Gargano |
+| 77 | 20 | Tony P Burke |
+| 78 | 20 | Chevalier Burley |
 | 79 | 20 | Donna Payne |
-| 80 | 20 | Chevalier Burley |
-| 81 | 20 | Jai |
+| 80 | 20 | Kimmie Gargano |
+| 81 | 20 | JoJo |
 | 82 | 20 | Trina Greenwood |
-| 83 | 20 | Tony P Burke |
-| 84 | 19 | Jenni |
-| 85 | 19 | Amanda Woodruff |
-| 86 | 19 | Brenda Malachi-butler |
+| 83 | 20 | Jai |
+| 84 | 19 | Shanjerrica Taylor Rosell |
+| 85 | 19 | Brenda Malachi-butler |
+| 86 | 19 | Amanda Woodruff |
 | 87 | 19 | Saucy Tile |
-| 88 | 19 | Shanjerrica Taylor Rosell |
-| 89 | 18 | AleahKCH |
-| 90 | 18 | Tyree Tman Shinette |
-| 91 | 18 | Sunny Clicky |
+| 88 | 19 | Jenni |
+| 89 | 18 | Sunny Clicky |
+| 90 | 18 | AleahKCH |
+| 91 | 18 | Tyree Tman Shinette |
 | 92 | 17 | Rikki Moran |
 | 93 | 17 | Kimberly Red |
-| 94 | 16 | MsBobby Patrick |
-| 95 | 16 | Sylvia Offically A Mcgowan |
-| 96 | 15 | Delitra Perkins Hatter |
-| 97 | 15 | Tami Spence |
-| 98 | 15 | Una |
-| 99 | 15 | Jess |
-| 100 | 14 | David A Alvino |
+| 94 | 16 | Sylvia Offically A Mcgowan |
+| 95 | 16 | MsBobby Patrick |
+| 96 | 15 | Una |
+| 97 | 15 | Jess |
+| 98 | 15 | Tami Spence |
+| 99 | 15 | Delitra Perkins Hatter |
+| 100 | 14 | Alyssa Rae |
 | 101 | 14 | No_Other_Choice |
-| 102 | 14 | Alyssa Rae |
+| 102 | 14 | David A Alvino |
 | 103 | 13 | Oaklonboy mike |
 | 104 | 12 | Kimberly Hernandez |
-| 105 | 11 | Kp |
-| 106 | 11 | Desiree Ryder |
-| 107 | 11 | Tamara N Lee |
-| 108 | 10 | 신재호 |
-| 109 | 10 | Tishauna Virgo |
-| 110 | 10 | Katrina Ramey |
-| 111 | 10 | Kenny 'Tailormade' Boyd |
-| 112 | 10 | Daddy |
-| 113 | 10 | Keke |
-| 114 | 10 | Megan Payette |
-| 115 | 10 | Jack Vlasak |
+| 105 | 11 | Tamara N Lee |
+| 106 | 11 | Kp |
+| 107 | 11 | Desiree Ryder |
+| 108 | 10 | Keke |
+| 109 | 10 | Kenny 'Tailormade' Boyd |
+| 110 | 10 | Daddy |
+| 111 | 10 | Megan Payette |
+| 112 | 10 | Jack Vlasak |
+| 113 | 10 | Katrina Ramey |
+| 114 | 10 | Tishauna Virgo |
+| 115 | 10 | 신재호 |
 | 116 | 9 | Tina Criam |
-| 117 | 9 | IThinkNot |
-| 118 | 9 | Shakmar |
+| 117 | 9 | Shakmar |
+| 118 | 9 | IThinkNot |
 | 119 | 8 | Brika Brika |
 | 120 | 8 | Zachary Colegrove |
 | 121 | 8 | Jessie N Michael Silvers |
@@ -131,17 +131,18 @@
 | 123 | 7 | JesusSaves 😇 |
 | 124 | 7 | Mary2 |
 | 125 | 7 | Kendra McIntyre |
-| 126 | 6 | Janine Hunter |
+| 126 | 6 | Allison Baxter |
 | 127 | 6 | Christopher Wallace |
 | 128 | 6 | Ashley Espeut |
-| 129 | 6 | Taz Ballard |
-| 130 | 6 | Jayjay Rich |
-| 131 | 5 | Tamika Fisher |
+| 129 | 6 | Jayjay Rich |
+| 130 | 6 | Taz Ballard |
+| 131 | 6 | Janine Hunter |
 | 132 | 5 | Christian Whittaker |
-| 133 | 5 | Derek Beverly |
-| 134 | 5 | Jennifer Moore |
-| 135 | 5 | Kidgib5 |
+| 133 | 5 | Jennifer Moore |
+| 134 | 5 | Kidgib5 |
+| 135 | 5 | Derek Beverly |
 | 136 | 5 | DirtiestofMikes |
+| 137 | 5 | Tamika Fisher |
 
 ---
 *Standings created by tournaments datasource generation tool*
