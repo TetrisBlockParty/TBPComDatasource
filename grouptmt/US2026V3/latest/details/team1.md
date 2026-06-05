@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 19:36:14 UTC
+# Standings for team1 as of 2026-06-05 19:36:36 UTC
 
 **Total Participants:** 439
 
@@ -395,56 +395,56 @@
 | 387 | 9 | Shakmar |
 | 388 | 8 | Rixo Blax |
 | 389 | 8 | Ferocity |
-| 390 | 8 | Tonny Williams |
-| 391 | 8 | Brika Brika |
-| 392 | 8 | Ashley Davis |
-| 393 | 8 | Tanesha Ga'sFinest Corbett |
-| 394 | 8 | Cm |
-| 395 | 8 | jus_ry |
+| 390 | 8 | Caitlin Michele |
+| 391 | 8 | jus_ry |
+| 392 | 8 | Brenda Brogden |
+| 393 | 8 | Cm |
+| 394 | 8 | Manda Allen |
+| 395 | 8 | Ashley Davis |
 | 396 | 8 | Teresa Bean |
-| 397 | 8 | Brenda Brogden |
-| 398 | 8 | Caitlin Michele |
-| 399 | 8 | Manda Allen |
-| 400 | 7 | Kendra McIntyre |
-| 401 | 7 | wmedina67 |
+| 397 | 8 | Brika Brika |
+| 398 | 8 | Tonny Williams |
+| 399 | 8 | Tanesha Ga'sFinest Corbett |
+| 400 | 7 | Andrew Harris |
+| 401 | 7 | Kendra McIntyre |
 | 402 | 7 | whatever |
-| 403 | 7 | Andrew Harris |
-| 404 | 7 | Mary2 |
-| 405 | 7 | Shane Brucewayne |
-| 406 | 6 | Janine Hunter |
-| 407 | 6 | Jeffrey Barrows |
-| 408 | 6 | Jelyfish |
-| 409 | 6 | Boricua64 |
-| 410 | 6 | Allison Baxter |
-| 411 | 6 | Gael Quintana |
-| 412 | 6 | NEM0228 |
-| 413 | 6 | Frances Davis |
-| 414 | 6 | Christopher Wallace |
-| 415 | 6 | Brittnay Wright |
-| 416 | 6 | Cece Fowler |
-| 417 | 5 | DirtiestofMikes |
-| 418 | 5 | Stephanie Zuniga Tullock |
-| 419 | 5 | Jenni Hardman |
-| 420 | 5 | Temeshia Brooks Washington |
-| 421 | 5 | KeeKee Williams |
-| 422 | 5 | Derek Beverly |
-| 423 | 5 | Wacky Towerer |
-| 424 | 5 | Lil T |
-| 425 | 5 | Chill Linkroll |
-| 426 | 5 | MamushiOh |
-| 427 | 5 | Shakuria Cortia Burney |
-| 428 | 5 | Vernon Hoyt |
-| 429 | 5 | Rieshelda Marie White |
-| 430 | 5 | Tamika Fisher |
-| 431 | 5 | Jjhandsome |
-| 432 | 5 | pooh |
-| 433 | 5 | Barbramerri Tarboro |
-| 434 | 5 | Saucy Linkgrid |
-| 435 | 5 | Jennifer Moore |
-| 436 | 5 | Kidgib5 |
-| 437 | 5 | Andre Sanon |
-| 438 | 5 | Shawn Himes |
-| 439 | 5 | Zappy Clearfit |
+| 403 | 7 | wmedina67 |
+| 404 | 7 | Shane Brucewayne |
+| 405 | 7 | Mary2 |
+| 406 | 6 | Jeffrey Barrows |
+| 407 | 6 | Jelyfish |
+| 408 | 6 | Boricua64 |
+| 409 | 6 | Gael Quintana |
+| 410 | 6 | NEM0228 |
+| 411 | 6 | Frances Davis |
+| 412 | 6 | Cece Fowler |
+| 413 | 6 | Allison Baxter |
+| 414 | 6 | Brittnay Wright |
+| 415 | 6 | Christopher Wallace |
+| 416 | 6 | Janine Hunter |
+| 417 | 5 | Wacky Towerer |
+| 418 | 5 | KeeKee Williams |
+| 419 | 5 | Temeshia Brooks Washington |
+| 420 | 5 | MamushiOh |
+| 421 | 5 | Vernon Hoyt |
+| 422 | 5 | Stephanie Zuniga Tullock |
+| 423 | 5 | pooh |
+| 424 | 5 | Jjhandsome |
+| 425 | 5 | Jenni Hardman |
+| 426 | 5 | Derek Beverly |
+| 427 | 5 | Lil T |
+| 428 | 5 | Chill Linkroll |
+| 429 | 5 | Shakuria Cortia Burney |
+| 430 | 5 | Shawn Himes |
+| 431 | 5 | Rieshelda Marie White |
+| 432 | 5 | Tamika Fisher |
+| 433 | 5 | Saucy Linkgrid |
+| 434 | 5 | Zappy Clearfit |
+| 435 | 5 | DirtiestofMikes |
+| 436 | 5 | Andre Sanon |
+| 437 | 5 | Kidgib5 |
+| 438 | 5 | Jennifer Moore |
+| 439 | 5 | Barbramerri Tarboro |
 
 ---
 *Standings created by tournaments datasource generation tool*
