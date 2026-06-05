@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 18:56:14 UTC
+# Standings for team2 as of 2026-06-05 18:56:34 UTC
 
 **Total Participants:** 425
 
@@ -22,7 +22,7 @@
 | 14 | 1092 | Christina Shell |
 | 15 | 700 | Anthony Lilley |
 | 16 | 663 | Logan Basham |
-| 17 | 623 | Bea Bee |
+| 17 | 643 | Bea Bee |
 | 18 | 557 | Amber Triguero |
 | 19 | 515 | Loony Faller |
 | 20 | 503 | Charley Bedford |
@@ -37,46 +37,46 @@
 | 29 | 337 | Christina Jambard Sampier |
 | 30 | 280 | Julie Trede Amerson |
 | 31 | 259 | Jennifer Smith |
-| 32 | 246 | Giddy Slamdrop |
-| 33 | 230 | Frilly Match |
-| 34 | 221 | Vistabrat |
-| 35 | 219 | Block Dog |
-| 36 | 213 | Angie BBlock |
-| 37 | 209 | La chulis |
-| 38 | 208 | Bon Lynn |
-| 39 | 199 | Stella |
-| 40 | 190 | Kellie Sharp Godfrey |
-| 41 | 183 | Steven Craig |
-| 42 | 177 | Lindsay Klemp |
-| 43 | 175 | Betty Barrett |
-| 44 | 170 | Dapper Rollout |
-| 45 | 162 | Renee Weedling |
-| 46 | 158 | Amy Nicole McCanne |
-| 47 | 158 | Nettrainer |
-| 48 | 153 | Helen Thomas |
-| 49 | 150 | Cara Rivera |
-| 50 | 149 | Happy Pivotfall |
-| 51 | 149 | Aubree Richard |
-| 52 | 141 | Melisa |
-| 53 | 140 | Curly Windbreaker |
-| 54 | 131 | Santara Ferguson |
-| 55 | 130 | NickandJess Reynolds |
-| 56 | 126 | Nathan Walker |
-| 57 | 123 | Lily |
-| 58 | 121 | Amanda Sikes |
-| 59 | 120 | Precious Womack |
-| 60 | 116 | Amber Cogdill |
-| 61 | 115 | Zany Blockclear |
-| 62 | 110 | Kelly Vedder |
-| 63 | 105 | Ackerman 85 |
-| 64 | 103 | Spunky Cascadeclear |
-| 65 | 100 | Wmk Rathbun |
+| 32 | 250 | Wmk Rathbun |
+| 33 | 246 | Giddy Slamdrop |
+| 34 | 230 | Frilly Match |
+| 35 | 221 | Vistabrat |
+| 36 | 219 | Block Dog |
+| 37 | 213 | Angie BBlock |
+| 38 | 209 | La chulis |
+| 39 | 208 | Bon Lynn |
+| 40 | 199 | Stella |
+| 41 | 190 | Kellie Sharp Godfrey |
+| 42 | 183 | Steven Craig |
+| 43 | 177 | Lindsay Klemp |
+| 44 | 175 | Betty Barrett |
+| 45 | 170 | Dapper Rollout |
+| 46 | 162 | Renee Weedling |
+| 47 | 159 | Happy Pivotfall |
+| 48 | 158 | Amy Nicole McCanne |
+| 49 | 158 | Nettrainer |
+| 50 | 153 | Helen Thomas |
+| 51 | 150 | Cara Rivera |
+| 52 | 149 | Aubree Richard |
+| 53 | 141 | Melisa |
+| 54 | 140 | Curly Windbreaker |
+| 55 | 131 | Santara Ferguson |
+| 56 | 130 | NickandJess Reynolds |
+| 57 | 126 | Nathan Walker |
+| 58 | 123 | Lily |
+| 59 | 121 | Amanda Sikes |
+| 60 | 120 | Precious Womack |
+| 61 | 116 | Amber Cogdill |
+| 62 | 115 | Zany Blockclear |
+| 63 | 110 | Kelly Vedder |
+| 64 | 105 | Ackerman 85 |
+| 65 | 103 | Spunky Cascadeclear |
 | 66 | 100 | LEW |
 | 67 | 100 | Sara Perkins |
 | 68 | 100 | Nichole Wilson |
 | 69 | 99 | Melissa Abbott |
-| 70 | 98 | Tango Sierra |
-| 71 | 98 | Judy Long |
+| 70 | 98 | Judy Long |
+| 71 | 98 | Tango Sierra |
 | 72 | 97 | Zarah Kettler |
 | 73 | 93 | Ariel Gundersen |
 | 74 | 92 | Amy Taylor Pomerenk |
@@ -86,46 +86,46 @@
 | 78 | 87 | Brittni Lawrence |
 | 79 | 86 | Jazzy Faller |
 | 80 | 85 | MegaPooh |
-| 81 | 84 | Jamie Fenyus |
-| 82 | 84 | Dane Marko |
-| 83 | 83 | Ashley Voelz |
-| 84 | 83 | Kim Hunt |
+| 81 | 84 | Dane Marko |
+| 82 | 84 | Jamie Fenyus |
+| 83 | 83 | Kim Hunt |
+| 84 | 83 | Ashley Voelz |
 | 85 | 82 | Sandra Pursell |
-| 86 | 81 | Shiny Spinfit |
-| 87 | 81 | YldBoar |
-| 88 | 81 | Alissa Ary |
-| 89 | 80 | Crystal Allen |
+| 86 | 81 | YldBoar |
+| 87 | 81 | Alissa Ary |
+| 88 | 81 | Shiny Spinfit |
+| 89 | 80 | Skye Ehret |
 | 90 | 80 | AcardBoardBox |
-| 91 | 80 | Lisa Breiding |
-| 92 | 80 | Skye Ehret |
-| 93 | 80 | Amy Gregg |
+| 91 | 80 | Amy Gregg |
+| 92 | 80 | Lisa Breiding |
+| 93 | 80 | Crystal Allen |
 | 94 | 79 | H |
 | 95 | 78 | LittleHippoEars |
 | 96 | 76 | Jenni LeBlanc |
 | 97 | 75 | Suki Jacobs |
-| 98 | 75 | Angeleye A James |
-| 99 | 75 | Karly Moore |
+| 98 | 75 | Karly Moore |
+| 99 | 75 | Angeleye A James |
 | 100 | 74 | Jumpy Dashpiece |
 | 101 | 73 | Theresa Hollinger |
-| 102 | 70 | Jessica Christine |
-| 103 | 66 | Sarah Mccolgan |
-| 104 | 65 | Brandy Chinelle |
-| 105 | 64 | Momof2wigglebutts |
-| 106 | 62 | Breezy |
-| 107 | 61 | Bubbly Dash |
-| 108 | 61 | Jessica Perkins |
-| 109 | 60 | Larry Cross |
-| 110 | 60 | Leticia Tillman |
-| 111 | 60 | Dawn Kroptavich |
-| 112 | 60 | Iesha Cupil |
-| 113 | 60 | Elizabeth Cornelius |
-| 114 | 60 | Snippy Shifter |
-| 115 | 60 | Courtney Madison Hart |
-| 116 | 60 | Amber Salazar |
+| 102 | 70 | Larry Cross |
+| 103 | 70 | Jessica Christine |
+| 104 | 66 | Sarah Mccolgan |
+| 105 | 65 | Brandy Chinelle |
+| 106 | 64 | Momof2wigglebutts |
+| 107 | 62 | Breezy |
+| 108 | 61 | Bubbly Dash |
+| 109 | 61 | Jessica Perkins |
+| 110 | 60 | Amber Salazar |
+| 111 | 60 | Leticia Tillman |
+| 112 | 60 | Dawn Kroptavich |
+| 113 | 60 | Iesha Cupil |
+| 114 | 60 | Elizabeth Cornelius |
+| 115 | 60 | Snippy Shifter |
+| 116 | 60 | Courtney Madison Hart |
 | 117 | 59 | April Addis |
-| 118 | 58 | Chipper Towerzone |
-| 119 | 58 | Zany Wrecker |
-| 120 | 58 | Rick |
+| 118 | 58 | Zany Wrecker |
+| 119 | 58 | Rick |
+| 120 | 58 | Chipper Towerzone |
 | 121 | 57 | Sully |
 | 122 | 57 | Xandrea Jones |
 | 123 | 57 | Kenzie |
