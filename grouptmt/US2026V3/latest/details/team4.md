@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 22:34:37 UTC
+# Standings for team4 as of 2026-06-05 22:35:15 UTC
 
 **Total Participants:** 505
 
@@ -365,8 +365,8 @@
 | 357 | 19 | Perry Ransom |
 | 358 | 19 | Nicole Ambrose |
 | 359 | 18 | chuck |
-| 360 | 18 | Frothy Pivotfall |
-| 361 | 18 | Angel Boges |
+| 360 | 18 | Angel Boges |
+| 361 | 18 | Frothy Pivotfall |
 | 362 | 18 | Rhonda Dowling |
 | 363 | 18 | Happy Strikerpiece |
 | 364 | 18 | pussface |
