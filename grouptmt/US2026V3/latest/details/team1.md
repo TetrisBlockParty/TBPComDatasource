@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 20:30:15 UTC
+# Standings for team1 as of 2026-06-05 20:30:35 UTC
 
 **Total Participants:** 480
 
@@ -467,25 +467,25 @@
 | 459 | 5 | Stephanie Zuniga Tullock |
 | 460 | 5 | Saucy Linkgrid |
 | 461 | 5 | DirtiestofMikes |
-| 462 | 5 | Derek Beverly |
-| 463 | 5 | Lil T |
-| 464 | 5 | Kidgib5 |
-| 465 | 5 | Logan Frost |
-| 466 | 5 | Rieshelda Marie White |
+| 462 | 5 | Rieshelda Marie White |
+| 463 | 5 | Derek Beverly |
+| 464 | 5 | Lil T |
+| 465 | 5 | Kidgib5 |
+| 466 | 5 | Logan Frost |
 | 467 | 5 | Jennifer Moore |
-| 468 | 5 | Chill Linkroll |
-| 469 | 5 | Vernon Hoyt |
-| 470 | 5 | Shakuria Cortia Burney |
-| 471 | 5 | Shawn Himes |
-| 472 | 5 | Kelvin Cook |
-| 473 | 5 | Jjhandsome |
-| 474 | 5 | pooh |
-| 475 | 5 | Barbramerri Tarboro |
-| 476 | 5 | Andre Sanon |
-| 477 | 5 | Tamika Fisher |
-| 478 | 5 | Zappy Clearfit |
-| 479 | 5 | Gerold Folk Haddock |
-| 480 | 5 | Tito Divyn |
+| 468 | 5 | Kelvin Cook |
+| 469 | 5 | Tito Divyn |
+| 470 | 5 | Gerold Folk Haddock |
+| 471 | 5 | Zappy Clearfit |
+| 472 | 5 | Tamika Fisher |
+| 473 | 5 | Andre Sanon |
+| 474 | 5 | Barbramerri Tarboro |
+| 475 | 5 | pooh |
+| 476 | 5 | Jjhandsome |
+| 477 | 5 | Shawn Himes |
+| 478 | 5 | Shakuria Cortia Burney |
+| 479 | 5 | Vernon Hoyt |
+| 480 | 5 | Chill Linkroll |
 
 ---
 *Standings created by tournaments datasource generation tool*
