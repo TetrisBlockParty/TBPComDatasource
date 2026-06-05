@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 19:48:13 UTC
+# Standings for team1 as of 2026-06-05 19:48:36 UTC
 
 **Total Participants:** 452
 
@@ -67,10 +67,10 @@
 | 59 | 126 | Cee Emm |
 | 60 | 120 | Felicia Cain |
 | 61 | 116 | Eartha Brown |
-| 62 | 111 | Shalena Marie Humphrey |
-| 63 | 108 | Hasty Pivoty |
-| 64 | 103 | KenpachisGirl |
-| 65 | 102 | Robyn Caldwell |
+| 62 | 112 | Robyn Caldwell |
+| 63 | 111 | Shalena Marie Humphrey |
+| 64 | 108 | Hasty Pivoty |
+| 65 | 103 | KenpachisGirl |
 | 66 | 100 | Cool Bridger |
 | 67 | 100 | Jessica Carter |
 | 68 | 100 | Char |
@@ -403,31 +403,31 @@
 | 395 | 9 | Poppy Buildout |
 | 396 | 8 | Ferocity |
 | 397 | 8 | Rixo Blax |
-| 398 | 8 | Caitlin Michele |
-| 399 | 8 | Tanesha Ga'sFinest Corbett |
-| 400 | 8 | Lesley Brunkus Cianfaglione |
-| 401 | 8 | Cm |
-| 402 | 8 | Manda Allen |
-| 403 | 8 | Brenda Brogden |
-| 404 | 8 | Teresa Bean |
-| 405 | 8 | jus_ry |
-| 406 | 8 | Ashley Davis |
-| 407 | 8 | Brika Brika |
-| 408 | 7 | Andrew Harris |
-| 409 | 7 | Mary2 |
-| 410 | 7 | Witty Clear |
-| 411 | 7 | Shane Brucewayne |
+| 398 | 8 | Zayy Wavyy |
+| 399 | 8 | Brika Brika |
+| 400 | 8 | Ashley Davis |
+| 401 | 8 | Tanesha Ga'sFinest Corbett |
+| 402 | 8 | jus_ry |
+| 403 | 8 | Teresa Bean |
+| 404 | 8 | Brenda Brogden |
+| 405 | 8 | Caitlin Michele |
+| 406 | 8 | Lesley Brunkus Cianfaglione |
+| 407 | 8 | Cm |
+| 408 | 8 | Manda Allen |
+| 409 | 7 | Witty Clear |
+| 410 | 7 | wmedina67 |
+| 411 | 7 | Kendra McIntyre |
 | 412 | 7 | whatever |
-| 413 | 7 | Kendra McIntyre |
-| 414 | 7 | wmedina67 |
-| 415 | 6 | Gael Quintana |
-| 416 | 6 | Boricua64 |
-| 417 | 6 | Jelyfish |
-| 418 | 6 | Janine Hunter |
-| 419 | 6 | Jeffrey Barrows |
-| 420 | 6 | Analesia Taylor |
+| 413 | 7 | Andrew Harris |
+| 414 | 7 | Mary2 |
+| 415 | 7 | Shane Brucewayne |
+| 416 | 6 | Janine Hunter |
+| 417 | 6 | Analesia Taylor |
+| 418 | 6 | Jeffrey Barrows |
+| 419 | 6 | Jelyfish |
+| 420 | 6 | Boricua64 |
 | 421 | 6 | Allison Baxter |
-| 422 | 6 | Zayy Wavyy |
+| 422 | 6 | Gael Quintana |
 | 423 | 6 | Telisha Mims |
 | 424 | 6 | Cece Fowler |
 | 425 | 6 | Frances Davis |
@@ -435,29 +435,29 @@
 | 427 | 6 | NEM0228 |
 | 428 | 6 | Christopher Wallace |
 | 429 | 5 | Temeshia Brooks Washington |
-| 430 | 5 | KeeKee Williams |
+| 430 | 5 | Tito Divyn |
 | 431 | 5 | Derek Beverly |
 | 432 | 5 | Wacky Towerer |
 | 433 | 5 | Lil T |
 | 434 | 5 | Jenni Hardman |
-| 435 | 5 | Tito Divyn |
+| 435 | 5 | Stephanie Zuniga Tullock |
 | 436 | 5 | Chill Linkroll |
 | 437 | 5 | Shakuria Cortia Burney |
 | 438 | 5 | Atlantalindi |
-| 439 | 5 | Stephanie Zuniga Tullock |
-| 440 | 5 | Shawn Himes |
-| 441 | 5 | Tamika Fisher |
-| 442 | 5 | Zappy Clearfit |
-| 443 | 5 | Vernon Hoyt |
-| 444 | 5 | Rieshelda Marie White |
-| 445 | 5 | Jjhandsome |
-| 446 | 5 | pooh |
+| 439 | 5 | KeeKee Williams |
+| 440 | 5 | Tamika Fisher |
+| 441 | 5 | Saucy Linkgrid |
+| 442 | 5 | Shawn Himes |
+| 443 | 5 | DirtiestofMikes |
+| 444 | 5 | Andre Sanon |
+| 445 | 5 | Barbramerri Tarboro |
+| 446 | 5 | Kidgib5 |
 | 447 | 5 | Jennifer Moore |
-| 448 | 5 | Kidgib5 |
-| 449 | 5 | Barbramerri Tarboro |
-| 450 | 5 | Andre Sanon |
-| 451 | 5 | DirtiestofMikes |
-| 452 | 5 | Saucy Linkgrid |
+| 448 | 5 | pooh |
+| 449 | 5 | Jjhandsome |
+| 450 | 5 | Rieshelda Marie White |
+| 451 | 5 | Vernon Hoyt |
+| 452 | 5 | Zappy Clearfit |
 
 ---
 *Standings created by tournaments datasource generation tool*
