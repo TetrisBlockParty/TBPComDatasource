@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:34:13 UTC
+# Standings for team1 as of 2026-06-05 17:34:38 UTC
 
 **Total Participants:** 337
 
@@ -59,9 +59,9 @@
 | 51 | 111 | Shalena Marie Humphrey |
 | 52 | 105 | Nerdy Snapfall |
 | 53 | 103 | KenpachisGirl |
-| 54 | 100 | She Higgy |
-| 55 | 100 | Cool Bridger |
-| 56 | 100 | Hasty Pivoty |
+| 54 | 103 | Hasty Pivoty |
+| 55 | 100 | She Higgy |
+| 56 | 100 | Cool Bridger |
 | 57 | 100 | Asani CHumba |
 | 58 | 96 | Cortaz Lawrie |
 | 59 | 95 | Nate Myers |
@@ -85,41 +85,41 @@
 | 77 | 72 | Mic Balew |
 | 78 | 72 | David Fuentes |
 | 79 | 70 | $hort Dog |
-| 80 | 67 | Michele Elizabeth McKay-Johnson |
-| 81 | 66 | Shontanese Adams |
-| 82 | 65 | Shanell Thomas |
-| 83 | 65 | Latore Maxie |
-| 84 | 65 | Frisky Fall |
-| 85 | 62 | Cheeky Pop |
-| 86 | 62 | Sanjuro |
-| 87 | 61 | Angela R Wilson |
-| 88 | 60 | Christian Pham |
-| 89 | 60 | Valerie Alexander |
-| 90 | 60 | Marcheta Cervantez |
-| 91 | 60 | CJ Robinson |
-| 92 | 60 | Boldy Liner |
-| 93 | 60 | Queenie Perry |
-| 94 | 57 | Erin Sabol |
-| 95 | 57 | Tosha Michelle |
-| 96 | 56 | Dena Marie Lee |
-| 97 | 55 | Kyle Franklin |
-| 98 | 54 | Kristie |
-| 99 | 54 | Lauraly |
-| 100 | 52 | Keke Ferguson |
-| 101 | 52 | Loopy Risepiece |
-| 102 | 51 | Comedian Gdane |
-| 103 | 50 | Slinky Party |
-| 104 | 50 | Teresa Yanira Cepeda |
-| 105 | 50 | Yazz |
-| 106 | 50 | Antoinette Jones |
-| 107 | 50 | Dai Bo |
-| 108 | 50 | Donna Payne |
-| 109 | 49 | LexiiSamayaa |
-| 110 | 48 | Eric Mcgaughy |
-| 111 | 47 | Christopher Dreamsareality McEachin |
-| 112 | 47 | Derrius SeriousLee Burks |
-| 113 | 45 | Guy Incognito |
-| 114 | 45 | Renee J. Thomas |
+| 80 | 68 | Eric Mcgaughy |
+| 81 | 67 | Michele Elizabeth McKay-Johnson |
+| 82 | 66 | Shontanese Adams |
+| 83 | 65 | Shanell Thomas |
+| 84 | 65 | Latore Maxie |
+| 85 | 65 | Frisky Fall |
+| 86 | 62 | Cheeky Pop |
+| 87 | 62 | Sanjuro |
+| 88 | 61 | Angela R Wilson |
+| 89 | 60 | Queenie Perry |
+| 90 | 60 | Valerie Alexander |
+| 91 | 60 | Marcheta Cervantez |
+| 92 | 60 | CJ Robinson |
+| 93 | 60 | Boldy Liner |
+| 94 | 60 | Christian Pham |
+| 95 | 57 | Erin Sabol |
+| 96 | 57 | Tosha Michelle |
+| 97 | 56 | Dena Marie Lee |
+| 98 | 55 | Kyle Franklin |
+| 99 | 54 | Kristie |
+| 100 | 54 | Lauraly |
+| 101 | 52 | Keke Ferguson |
+| 102 | 52 | Loopy Risepiece |
+| 103 | 51 | Comedian Gdane |
+| 104 | 50 | Donna Payne |
+| 105 | 50 | Slinky Party |
+| 106 | 50 | Dai Bo |
+| 107 | 50 | Teresa Yanira Cepeda |
+| 108 | 50 | Yazz |
+| 109 | 50 | Antoinette Jones |
+| 110 | 49 | LexiiSamayaa |
+| 111 | 47 | Derrius SeriousLee Burks |
+| 112 | 47 | Christopher Dreamsareality McEachin |
+| 113 | 45 | Renee J. Thomas |
+| 114 | 45 | Guy Incognito |
 | 115 | 45 | Jayjay Rich |
 | 116 | 44 | Andi McGreevy |
 | 117 | 43 | Block |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 17:34:13 UTC
+# Standings for team2 as of 2026-06-05 17:34:38 UTC
 
 **Total Participants:** 354
 
@@ -40,7 +40,7 @@
 | 32 | 190 | Kellie Sharp Godfrey |
 | 33 | 177 | Lindsay Klemp |
 | 34 | 175 | Betty Barrett |
-| 35 | 164 | Christina Shell |
+| 35 | 174 | Christina Shell |
 | 36 | 163 | Steven Craig |
 | 37 | 158 | Amy Nicole McCanne |
 | 38 | 158 | Nettrainer |
@@ -253,103 +253,103 @@
 | 245 | 15 | Frilly Dashfit |
 | 246 | 15 | Poppy Slice |
 | 247 | 15 | Cherica Taylor |
-| 248 | 15 | MaddieCherie |
-| 249 | 15 | Jolly Twisterfit |
-| 250 | 15 | Devon |
-| 251 | 14 | Ssirkus |
+| 248 | 15 | Devon |
+| 249 | 15 | MaddieCherie |
+| 250 | 15 | Jolly Twisterfit |
+| 251 | 14 | Judy Long |
 | 252 | 14 | Nicky Steigerwalt |
 | 253 | 14 | Missy Savage-Justice |
-| 254 | 13 | Lexi Chouinard |
-| 255 | 13 | Boldy Fitclear |
-| 256 | 13 | Dreamy Wipepiece |
-| 257 | 12 | Whitt |
-| 258 | 12 | Princess Cucumber |
-| 259 | 12 | Liseth Vasquez |
+| 254 | 14 | Ssirkus |
+| 255 | 13 | Dreamy Wipepiece |
+| 256 | 13 | Lexi Chouinard |
+| 257 | 13 | Boldy Fitclear |
+| 258 | 12 | Mary |
+| 259 | 12 | Brandi Thompson |
 | 260 | 12 | Chirpy Grid |
-| 261 | 12 | Mary |
-| 262 | 12 | Kris Dusza Dodus |
-| 263 | 12 | Brandi Thompson |
-| 264 | 12 | Melissa Thomas |
-| 265 | 12 | Diamond Balotje |
-| 266 | 12 | Roe Sarmiento |
-| 267 | 12 | Samantha Morrison |
-| 268 | 12 | Trinni Hansen |
-| 269 | 12 | Stephen Gillam |
-| 270 | 12 | Joyce Galloway |
-| 271 | 11 | Gluten Gremlin |
-| 272 | 11 | Peppy Piececlear |
+| 261 | 12 | Melissa Thomas |
+| 262 | 12 | Liseth Vasquez |
+| 263 | 12 | Diamond Balotje |
+| 264 | 12 | Renee Siems |
+| 265 | 12 | Roe Sarmiento |
+| 266 | 12 | Samantha Morrison |
+| 267 | 12 | Joyce Galloway |
+| 268 | 12 | Stephen Gillam |
+| 269 | 12 | Princess Cucumber |
+| 270 | 12 | Trinni Hansen |
+| 271 | 12 | Kris Dusza Dodus |
+| 272 | 12 | Whitt |
 | 273 | 11 | Lora Via |
 | 274 | 11 | Robert E Tracy |
-| 275 | 11 | Bubbly Strikerpiece |
-| 276 | 11 | Rhonda Diebold |
-| 277 | 11 | Yany |
-| 278 | 11 | Shannon Posner |
-| 279 | 10 | Ashley Miller |
-| 280 | 10 | Twisty Snapclear |
-| 281 | 10 | Jennifer Chapel |
-| 282 | 10 | Katie Jones |
-| 283 | 10 | Carlos J Blas |
-| 284 | 10 | Amie Marks |
-| 285 | 10 | WhitS |
-| 286 | 10 | Perky Linebuilder |
-| 287 | 10 | Crystal Owen Yocolano |
-| 288 | 10 | Beachmama |
-| 289 | 10 | Naomi Jaynes |
-| 290 | 10 | Becky Kennon |
-| 291 | 10 | Twisty Snapmatch |
-| 292 | 10 | Justin Furne |
-| 293 | 10 | Happy Riseclear |
-| 294 | 10 | Donna Casey |
-| 295 | 10 | Laura Turner |
-| 296 | 10 | Brenda Zona |
-| 297 | 10 | Leigh Wilkerson |
-| 298 | 10 | Saucy Wrecker |
-| 299 | 10 | Berta Hurley |
-| 300 | 10 | Gill |
-| 301 | 10 | Renee Siems |
-| 302 | 10 | Jennifer Bell |
-| 303 | 9 | Lindsey Butler |
-| 304 | 9 | Tabitha Porter |
-| 305 | 9 | Cary M. Fong |
-| 306 | 9 | Chirpy Clearpiece |
+| 275 | 11 | Gluten Gremlin |
+| 276 | 11 | Bubbly Strikerpiece |
+| 277 | 11 | Shannon Posner |
+| 278 | 11 | Rhonda Diebold |
+| 279 | 11 | Peppy Piececlear |
+| 280 | 11 | Yany |
+| 281 | 10 | WhitS |
+| 282 | 10 | Twisty Snapmatch |
+| 283 | 10 | Becky Kennon |
+| 284 | 10 | Naomi Jaynes |
+| 285 | 10 | Beachmama |
+| 286 | 10 | Crystal Owen Yocolano |
+| 287 | 10 | Perky Linebuilder |
+| 288 | 10 | Amie Marks |
+| 289 | 10 | Katie Jones |
+| 290 | 10 | Twisty Snapclear |
+| 291 | 10 | Carlos J Blas |
+| 292 | 10 | Ashley Miller |
+| 293 | 10 | Jennifer Chapel |
+| 294 | 10 | Leigh Wilkerson |
+| 295 | 10 | Happy Riseclear |
+| 296 | 10 | Saucy Wrecker |
+| 297 | 10 | Justin Furne |
+| 298 | 10 | Berta Hurley |
+| 299 | 10 | Donna Casey |
+| 300 | 10 | Laura Turner |
+| 301 | 10 | Jennifer Bell |
+| 302 | 10 | Brenda Zona |
+| 303 | 10 | Gill |
+| 304 | 9 | Cary M. Fong |
+| 305 | 9 | David Skelton |
+| 306 | 9 | Tabitha Porter |
 | 307 | 9 | Kylee Pruitt |
 | 308 | 9 | Darla Ragsdale |
 | 309 | 9 | Rhonda Driskill |
-| 310 | 9 | David Skelton |
-| 311 | 9 | bigdog |
-| 312 | 9 | Michele Stewart |
-| 313 | 9 | DayDreamer79 |
-| 314 | 9 | Judy Long |
-| 315 | 9 | Angelique Matzke Starns |
+| 310 | 9 | Chirpy Clearpiece |
+| 311 | 9 | Lindsey Butler |
+| 312 | 9 | Angelique Matzke Starns |
+| 313 | 9 | bigdog |
+| 314 | 9 | Holly Huval |
+| 315 | 9 | Michele Stewart |
 | 316 | 9 | Giggly Spinblock |
-| 317 | 9 | Holly Huval |
-| 318 | 8 | Alimae |
+| 317 | 9 | DayDreamer79 |
+| 318 | 8 | Chelsea Frye |
 | 319 | 8 | Stephanie |
-| 320 | 8 | Renee Weedling |
+| 320 | 8 | Alimae |
 | 321 | 8 | Amber Carpenter |
-| 322 | 8 | Chelsea Frye |
-| 323 | 7 | Happy Curvebuilder |
-| 324 | 7 | Jackie Hayslip |
-| 325 | 7 | Rae |
-| 326 | 7 | Elizabeth Elaine Coursey |
-| 327 | 7 | Tashamonique Puckey |
-| 328 | 7 | Loopy Tower |
-| 329 | 7 | michael |
-| 330 | 7 | Nova Nova |
-| 331 | 7 | Kelli Pazour |
-| 332 | 7 | Shane Peavey |
-| 333 | 7 | Flashy Cascadeclear |
-| 334 | 6 | Denise Morehart |
-| 335 | 6 | Jeanna Mendez |
-| 336 | 6 | Emily |
-| 337 | 6 | Sarah Griffey |
-| 338 | 6 | Gina Leal |
-| 339 | 6 | Lavenda Nettles |
-| 340 | 6 | Mary Carriere |
-| 341 | 6 | Cheeky Dashpiece |
-| 342 | 6 | Kelly Christine Trimmer |
+| 322 | 8 | Renee Weedling |
+| 323 | 7 | Tashamonique Puckey |
+| 324 | 7 | Rae |
+| 325 | 7 | Kelli Pazour |
+| 326 | 7 | Nova Nova |
+| 327 | 7 | Jackie Hayslip |
+| 328 | 7 | Elizabeth Elaine Coursey |
+| 329 | 7 | Loopy Tower |
+| 330 | 7 | Flashy Cascadeclear |
+| 331 | 7 | michael |
+| 332 | 7 | Happy Curvebuilder |
+| 333 | 7 | Shane Peavey |
+| 334 | 6 | Kelly Christine Trimmer |
+| 335 | 6 | Cheeky Dashpiece |
+| 336 | 6 | Lavenda Nettles |
+| 337 | 6 | Denise Morehart |
+| 338 | 6 | Jeanna Mendez |
+| 339 | 6 | Sarah Griffey |
+| 340 | 6 | fancypants |
+| 341 | 6 | Emily |
+| 342 | 6 | Gina Leal |
 | 343 | 6 | Fran Gerebics |
-| 344 | 6 | fancypants |
+| 344 | 6 | Mary Carriere |
 | 345 | 5 | Pjrobinsonnn |
 | 346 | 5 | Momi Kamohai |
 | 347 | 5 | Mercedes Lowery |
