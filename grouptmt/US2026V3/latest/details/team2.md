@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 21:34:14 UTC
+# Standings for team2 as of 2026-06-05 21:34:38 UTC
 
 **Total Participants:** 567
 
@@ -98,23 +98,23 @@
 | 90 | 123 | DayDreamer79 |
 | 91 | 122 | Amanda Sikes |
 | 92 | 122 | Zarah Kettler |
-| 93 | 120 | Zany Blockclear |
-| 94 | 120 | Linda Guay |
-| 95 | 120 | H |
+| 93 | 120 | H |
+| 94 | 120 | Zany Blockclear |
+| 95 | 120 | Linda Guay |
 | 96 | 117 | Marge Cromer |
 | 97 | 110 | Kelly Vedder |
-| 98 | 110 | Nichole Wilson |
-| 99 | 110 | Missy Renia |
+| 98 | 110 | Missy Renia |
+| 99 | 110 | Nichole Wilson |
 | 100 | 108 | Zany Wrecker |
-| 101 | 105 | Larry Cross |
-| 102 | 102 | Alissa Ary |
-| 103 | 100 | AcardBoardBox |
+| 101 | 105 | Ashley Green |
+| 102 | 105 | Larry Cross |
+| 103 | 102 | Alissa Ary |
 | 104 | 100 | Sara Perkins |
-| 105 | 100 | LEW |
-| 106 | 99 | Melissa Abbott |
-| 107 | 98 | Tango Sierra |
-| 108 | 95 | Sarah Mccolgan |
-| 109 | 95 | Ashley Green |
+| 105 | 100 | AcardBoardBox |
+| 106 | 100 | LEW |
+| 107 | 99 | Melissa Abbott |
+| 108 | 98 | Tango Sierra |
+| 109 | 95 | Sarah Mccolgan |
 | 110 | 95 | Simone F |
 | 111 | 95 | Wacky Holder |
 | 112 | 93 | Ariel Gundersen |
@@ -152,112 +152,112 @@
 | 144 | 71 | SEH |
 | 145 | 70 | Melissa Nash |
 | 146 | 70 | Jessica Christine |
-| 147 | 67 | Charity Hauser |
-| 148 | 67 | Gill |
+| 147 | 70 | Nano. |
+| 148 | 67 | Charity Hauser |
 | 149 | 67 | giamy |
-| 150 | 64 | Momof2wigglebutts |
-| 151 | 64 | Jackie Tupper |
-| 152 | 64 | Victoria Pale |
-| 153 | 63 | Traci Abern |
-| 154 | 62 | Breezy |
-| 155 | 61 | Bubbly Dash |
+| 150 | 67 | Gill |
+| 151 | 64 | Momof2wigglebutts |
+| 152 | 64 | Jackie Tupper |
+| 153 | 64 | Victoria Pale |
+| 154 | 63 | Traci Abern |
+| 155 | 62 | Breezy |
 | 156 | 61 | Jessica Perkins |
-| 157 | 61 | Laverne Ellis Blair |
-| 158 | 61 | Alonzo Reed |
-| 159 | 60 | Amber Salazar |
-| 160 | 60 | Dawn Kroptavich |
-| 161 | 60 | Elizabeth Cornelius |
-| 162 | 60 | Courtney Madison Hart |
-| 163 | 60 | Emily Carns |
+| 157 | 61 | Bubbly Dash |
+| 158 | 61 | Laverne Ellis Blair |
+| 159 | 61 | Alonzo Reed |
+| 160 | 60 | Leticia Tillman |
+| 161 | 60 | Teresa Mandich |
+| 162 | 60 | Amber Salazar |
+| 163 | 60 | Snippy Shifter |
 | 164 | 60 | Rick |
-| 165 | 60 | Leticia Tillman |
-| 166 | 60 | Lauren Maxwell |
-| 167 | 60 | Snippy Shifter |
-| 168 | 60 | Teresa Mandich |
-| 169 | 59 | Sillyk |
+| 165 | 60 | Lauren Maxwell |
+| 166 | 60 | Elizabeth Cornelius |
+| 167 | 60 | Dawn Kroptavich |
+| 168 | 60 | Courtney Madison Hart |
+| 169 | 60 | Emily Carns |
 | 170 | 59 | Sandra Rotton Bragg |
 | 171 | 59 | April Addis |
-| 172 | 58 | Chipper Towerzone |
-| 173 | 58 | Andre Love |
-| 174 | 57 | Xandrea Jones |
+| 172 | 59 | Sillyk |
+| 173 | 58 | Chipper Towerzone |
+| 174 | 58 | Andre Love |
 | 175 | 57 | Kenzie |
-| 176 | 56 | Lindsey Ford |
-| 177 | 56 | Jennifer Lalk |
-| 178 | 55 | Silly Tiltbuilder |
+| 176 | 57 | Xandrea Jones |
+| 177 | 56 | Lindsey Ford |
+| 178 | 56 | Jennifer Lalk |
 | 179 | 55 | Hilliary Beyer |
-| 180 | 54 | Amy Lea Hamilton |
-| 181 | 54 | Funway998 |
-| 182 | 54 | Lively Twisterfit |
-| 183 | 54 | Eva Lopez |
-| 184 | 54 | Cool Balancer |
-| 185 | 53 | Maurii93 |
-| 186 | 52 | Melmel |
-| 187 | 52 | Justin Stark |
-| 188 | 51 | Martha Lynn Wiggins |
+| 180 | 55 | Silly Tiltbuilder |
+| 181 | 54 | Lively Twisterfit |
+| 182 | 54 | Eva Lopez |
+| 183 | 54 | Cool Balancer |
+| 184 | 54 | Funway998 |
+| 185 | 54 | Amy Lea Hamilton |
+| 186 | 53 | Maurii93 |
+| 187 | 52 | Melmel |
+| 188 | 52 | Justin Stark |
 | 189 | 51 | Epic Tilemaker |
-| 190 | 51 | Mama G |
-| 191 | 51 | Loretta Crow |
-| 192 | 50 | Christine James |
+| 190 | 51 | Martha Lynn Wiggins |
+| 191 | 51 | Mama G |
+| 192 | 51 | Loretta Crow |
 | 193 | 50 | rageking |
-| 194 | 50 | Jennifer Wymer |
-| 195 | 50 | Whitt |
-| 196 | 49 | Tammy Roth |
-| 197 | 48 | Joannah Capilitan |
-| 198 | 48 | Dizzy Dropzone |
-| 199 | 48 | Spicy Basepiece |
-| 200 | 48 | Wendy McKee |
-| 201 | 48 | Funky Blockmatch |
-| 202 | 48 | Lashanda Bertram |
-| 203 | 48 | Nova Nova |
-| 204 | 47 | Sarah Jane Gorsuch |
+| 194 | 50 | Christine James |
+| 195 | 50 | Jennifer Wymer |
+| 196 | 50 | Whitt |
+| 197 | 49 | Tammy Roth |
+| 198 | 48 | Wendy McKee |
+| 199 | 48 | Funky Blockmatch |
+| 200 | 48 | Lashanda Bertram |
+| 201 | 48 | Nova Nova |
+| 202 | 48 | Dizzy Dropzone |
+| 203 | 48 | Spicy Basepiece |
+| 204 | 48 | Joannah Capilitan |
 | 205 | 47 | REE4 |
 | 206 | 47 | Renee Siems |
 | 207 | 47 | Carole Brown |
-| 208 | 46 | Denna Marteney |
-| 209 | 46 | Dani Newton |
+| 208 | 47 | Sarah Jane Gorsuch |
+| 209 | 46 | Denna Marteney |
 | 210 | 46 | Christina Nycol |
 | 211 | 46 | Harper |
-| 212 | 45 | Michelle Anne |
-| 213 | 45 | Hillary Frank |
+| 212 | 46 | Dani Newton |
+| 213 | 45 | Michelle Anne |
 | 214 | 45 | Jason Cunningham |
-| 215 | 45 | Olivia Jefferson |
-| 216 | 44 | Julibeth Wells |
-| 217 | 44 | Zaniya Brown |
-| 218 | 44 | Chill Line |
-| 219 | 43 | Amber Simonton |
+| 215 | 45 | Hillary Frank |
+| 216 | 45 | Olivia Jefferson |
+| 217 | 44 | Chill Line |
+| 218 | 44 | Julibeth Wells |
+| 219 | 44 | Zaniya Brown |
 | 220 | 43 | Peter Fogg |
-| 221 | 42 | Henny Henny |
-| 222 | 42 | Brittany Nichole Ellenburg |
-| 223 | 42 | Heather Vircik |
-| 224 | 42 | Michael James |
+| 221 | 43 | Amber Simonton |
+| 222 | 42 | Pamela Raye |
+| 223 | 42 | Shylo Bryant-Brunson |
+| 224 | 42 | Snazzy Smasher |
 | 225 | 42 | Bri St Peter |
-| 226 | 42 | Shylo Bryant-Brunson |
-| 227 | 42 | Pamela Raye |
-| 228 | 42 | Snazzy Smasher |
-| 229 | 41 | Jenny Coffer |
-| 230 | 41 | Ava Speedy |
-| 231 | 41 | Becca Marie |
-| 232 | 41 | Michelle Fry-Cash |
-| 233 | 41 | Tara |
-| 234 | 40 | Loopy Dropper |
-| 235 | 40 | Katie Jones |
-| 236 | 40 | Nicole Chestnut |
-| 237 | 40 | Sherry Ann |
-| 238 | 40 | Jat |
-| 239 | 40 | Spicy Balanceblock |
-| 240 | 40 | ZBee |
-| 241 | 40 | Kevin Mccoy |
-| 242 | 40 | Cathy Tippett |
-| 243 | 40 | Justtony Fareal |
-| 244 | 40 | Brandi Williams |
-| 245 | 40 | Charith Lorelle Watson |
-| 246 | 39 | Jason Lamporte |
-| 247 | 39 | Twisty Matchfit |
-| 248 | 39 | Nikki Hayes |
-| 249 | 39 | Tamara Whiteley |
-| 250 | 39 | Nano. |
-| 251 | 39 | Frisky Balanceblock |
-| 252 | 39 | Alexis Meyers |
+| 226 | 42 | Heather Vircik |
+| 227 | 42 | Henny Henny |
+| 228 | 42 | Brittany Nichole Ellenburg |
+| 229 | 42 | Michael James |
+| 230 | 41 | Jenny Coffer |
+| 231 | 41 | Ava Speedy |
+| 232 | 41 | Tara |
+| 233 | 41 | Becca Marie |
+| 234 | 41 | Michelle Fry-Cash |
+| 235 | 40 | Jat |
+| 236 | 40 | Loopy Dropper |
+| 237 | 40 | Charith Lorelle Watson |
+| 238 | 40 | Sherry Ann |
+| 239 | 40 | Katie Jones |
+| 240 | 40 | Nicole Chestnut |
+| 241 | 40 | Spicy Balanceblock |
+| 242 | 40 | ZBee |
+| 243 | 40 | Brandi Williams |
+| 244 | 40 | Kevin Mccoy |
+| 245 | 40 | Justtony Fareal |
+| 246 | 40 | Cathy Tippett |
+| 247 | 39 | Alexis Meyers |
+| 248 | 39 | Tamara Whiteley |
+| 249 | 39 | Jason Lamporte |
+| 250 | 39 | Twisty Matchfit |
+| 251 | 39 | Nikki Hayes |
+| 252 | 39 | Frisky Balanceblock |
 | 253 | 38 | Jef Wassom |
 | 254 | 38 | Amie Marks |
 | 255 | 38 | Jason P. Schwartz |
