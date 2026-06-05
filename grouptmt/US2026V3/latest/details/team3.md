@@ -1,6 +1,6 @@
-# Standings for team3 as of 2026-06-05 12:38:12 UTC
+# Standings for team3 as of 2026-06-05 12:38:34 UTC
 
-**Total Participants:** 75
+**Total Participants:** 76
 
 ## Participant Scores
 
@@ -10,77 +10,78 @@
 | 2 | 1004 | Alan George LaRage |
 | 3 | 645 | Tom Borja |
 | 4 | 448 | Lindsey Gardner |
-| 5 | 200 | AL Ferrari |
-| 6 | 180 | Bee |
-| 7 | 178 | Tami Czenkus |
-| 8 | 160 | Woodrow Weatherford |
-| 9 | 150 | Edda-Jo Wenneman Dobbs |
-| 10 | 142 | Danyelle Radford Upton |
-| 11 | 104 | Perach Alima Shoa |
-| 12 | 80 | Angel Hopkins |
-| 13 | 80 | Jerome Carlile |
-| 14 | 78 | Ross McDonald |
-| 15 | 78 | Jessica Biggs |
-| 16 | 71 | Alex Celio |
-| 17 | 69 | SteffXx |
-| 18 | 50 | Adam Bronk |
-| 19 | 44 | Laura Slusher Updike |
-| 20 | 44 | Lively Matchpiece |
-| 21 | 41 | Crystal Carlson |
-| 22 | 41 | Kimberly Kupke |
-| 23 | 36 | creepy paper |
-| 24 | 35 | Rebecca Alidre Holmes-Anderson |
+| 5 | 376 | Tami Czenkus |
+| 6 | 300 | Jăckie Gønzaləz-Mōntålvo |
+| 7 | 200 | AL Ferrari |
+| 8 | 180 | Bee |
+| 9 | 160 | Woodrow Weatherford |
+| 10 | 150 | Edda-Jo Wenneman Dobbs |
+| 11 | 142 | Danyelle Radford Upton |
+| 12 | 104 | Perach Alima Shoa |
+| 13 | 80 | Angel Hopkins |
+| 14 | 80 | Jerome Carlile |
+| 15 | 78 | Ross McDonald |
+| 16 | 78 | Jessica Biggs |
+| 17 | 71 | Alex Celio |
+| 18 | 69 | SteffXx |
+| 19 | 50 | Adam Bronk |
+| 20 | 44 | Laura Slusher Updike |
+| 21 | 44 | Lively Matchpiece |
+| 22 | 41 | Crystal Carlson |
+| 23 | 41 | Kimberly Kupke |
+| 24 | 36 | creepy paper |
 | 25 | 35 | Paul Hudak |
-| 26 | 33 | Raya |
-| 27 | 32 | Dedicated |
-| 28 | 31 | Boldy Cornerfall |
-| 29 | 30 | Jvo |
-| 30 | 30 | Christopher Kissiah |
-| 31 | 28 | Carolyn Smith |
-| 32 | 28 | Kristina Courtney |
-| 33 | 26 | Loony Strikesnap |
+| 26 | 35 | Rebecca Alidre Holmes-Anderson |
+| 27 | 33 | Raya |
+| 28 | 32 | Dedicated |
+| 29 | 31 | Boldy Cornerfall |
+| 30 | 30 | Jvo |
+| 31 | 30 | Christopher Kissiah |
+| 32 | 28 | Carolyn Smith |
+| 33 | 28 | Kristina Courtney |
 | 34 | 26 | Kevin C. Moe |
-| 35 | 25 | Garrett Hofmann |
-| 36 | 24 | Denice Myers |
-| 37 | 23 | Charles Love |
-| 38 | 22 | VOID EDGE |
-| 39 | 19 | Sabrina34 |
-| 40 | 18 | Alison Gomes |
+| 35 | 26 | Loony Strikesnap |
+| 36 | 25 | Garrett Hofmann |
+| 37 | 24 | Denice Myers |
+| 38 | 23 | Charles Love |
+| 39 | 22 | VOID EDGE |
+| 40 | 19 | Sabrina34 |
 | 41 | 18 | ToxicTrinity |
-| 42 | 17 | Funky Fall |
-| 43 | 15 | Quirky Curve |
-| 44 | 15 | kittensden |
-| 45 | 15 | Lisa Stone |
-| 46 | 14 | Sara Pederson |
-| 47 | 13 | Raven Rogue |
-| 48 | 12 | Nette Babi |
-| 49 | 12 | blockbusterr |
-| 50 | 12 | kendra |
-| 51 | 12 | Bren Stahl |
-| 52 | 12 | Wacky Catcher |
-| 53 | 12 | Nonni |
+| 42 | 18 | Alison Gomes |
+| 43 | 17 | Funky Fall |
+| 44 | 15 | Lisa Stone |
+| 45 | 15 | Quirky Curve |
+| 46 | 15 | kittensden |
+| 47 | 14 | Sara Pederson |
+| 48 | 13 | Raven Rogue |
+| 49 | 12 | Nette Babi |
+| 50 | 12 | Bren Stahl |
+| 51 | 12 | Wacky Catcher |
+| 52 | 12 | blockbusterr |
+| 53 | 12 | kendra |
 | 54 | 12 | Jonathan Russell |
-| 55 | 12 | Robby Beltran |
-| 56 | 12 | Violet |
-| 57 | 11 | Carrie Ness |
-| 58 | 11 | Happy Balancer |
-| 59 | 11 | David Glisson |
-| 60 | 10 | Giddy Shift |
+| 55 | 12 | Nonni |
+| 56 | 12 | Robby Beltran |
+| 57 | 12 | Violet |
+| 58 | 11 | Carrie Ness |
+| 59 | 11 | Happy Balancer |
+| 60 | 11 | David Glisson |
 | 61 | 10 | Shabae |
-| 62 | 9 | Sarah Cruthirds |
-| 63 | 9 | Angie Rodriguez |
-| 64 | 9 | Salky |
-| 65 | 9 | ciscokid81 |
-| 66 | 9 | Jess Jess |
-| 67 | 9 | Tnaughty |
-| 68 | 9 | Sarah Jane |
-| 69 | 8 | Avias |
-| 70 | 7 | DShark72 |
-| 71 | 7 | Loony Rollfit |
-| 72 | 6 | bt |
-| 73 | 5 | Gypsy Woodall |
-| 74 | 5 | KAR |
+| 62 | 10 | Giddy Shift |
+| 63 | 9 | ciscokid81 |
+| 64 | 9 | Angie Rodriguez |
+| 65 | 9 | Sarah Jane |
+| 66 | 9 | Salky |
+| 67 | 9 | Jess Jess |
+| 68 | 9 | Tnaughty |
+| 69 | 9 | Sarah Cruthirds |
+| 70 | 8 | Avias |
+| 71 | 7 | DShark72 |
+| 72 | 7 | Loony Rollfit |
+| 73 | 6 | bt |
+| 74 | 5 | Gypsy Woodall |
 | 75 | 5 | Victoria Lofquist |
+| 76 | 5 | KAR |
 
 ---
 *Standings created by tournaments datasource generation tool*

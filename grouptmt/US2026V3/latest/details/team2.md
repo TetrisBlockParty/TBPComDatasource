@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 12:38:12 UTC
+# Standings for team2 as of 2026-06-05 12:38:34 UTC
 
 **Total Participants:** 48
 
@@ -22,38 +22,38 @@
 | 14 | 33 | Tango Sierra |
 | 15 | 30 | Jason Cunningham |
 | 16 | 30 | Patti Ward |
-| 17 | 27 | Michael Carmichael |
-| 18 | 26 | Ariel Gundersen |
-| 19 | 26 | Rachel Huber |
-| 20 | 25 | Jgato |
-| 21 | 25 | April Addis |
-| 22 | 23 | IncrediDragon |
-| 23 | 23 | Damion Morrison |
-| 24 | 21 | Zaniya Brown |
-| 25 | 18 | Tracey Cox |
-| 26 | 18 | Sara BlueEyes |
-| 27 | 12 | Stacey Loretta Wallace |
-| 28 | 12 | A.j. Langley |
-| 29 | 12 | Mary |
+| 17 | 28 | Sara BlueEyes |
+| 18 | 27 | Michael Carmichael |
+| 19 | 26 | Ariel Gundersen |
+| 20 | 26 | Rachel Huber |
+| 21 | 25 | Jgato |
+| 22 | 25 | April Addis |
+| 23 | 23 | IncrediDragon |
+| 24 | 23 | Damion Morrison |
+| 25 | 21 | Zaniya Brown |
+| 26 | 18 | Tracey Cox |
+| 27 | 12 | Mary |
+| 28 | 12 | Stacey Loretta Wallace |
+| 29 | 12 | A.j. Langley |
 | 30 | 11 | Lora Via |
 | 31 | 11 | Thy Bui |
-| 32 | 10 | Bon Lynn |
-| 33 | 10 | Gill |
-| 34 | 10 | Twisty Snapmatch |
+| 32 | 10 | Spicy Basepiece |
+| 33 | 10 | Twisty Snapmatch |
+| 34 | 10 | Berta Hurley |
 | 35 | 10 | Joyce Galloway |
-| 36 | 10 | Berta Hurley |
-| 37 | 10 | Spicy Basepiece |
-| 38 | 9 | Princess Cucumber |
+| 36 | 10 | Bon Lynn |
+| 37 | 10 | Gill |
+| 38 | 9 | Darla Ragsdale |
 | 39 | 9 | Giggly Spinblock |
-| 40 | 9 | Mama G |
-| 41 | 9 | Darla Ragsdale |
-| 42 | 7 | Cherica Taylor |
-| 43 | 7 | Peter Fogg |
+| 40 | 9 | Princess Cucumber |
+| 41 | 9 | Mama G |
+| 42 | 7 | Peter Fogg |
+| 43 | 7 | Cherica Taylor |
 | 44 | 6 | Kelly Christine Trimmer |
 | 45 | 6 | fancypants |
 | 46 | 5 | Tashamonique Puckey |
-| 47 | 5 | Allison Peterson |
-| 48 | 5 | Devon |
+| 47 | 5 | Devon |
+| 48 | 5 | Allison Peterson |
 
 ---
 *Standings created by tournaments datasource generation tool*
