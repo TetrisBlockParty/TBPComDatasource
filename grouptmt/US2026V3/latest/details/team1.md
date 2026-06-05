@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:44:13 UTC
+# Standings for team1 as of 2026-06-05 13:44:37 UTC
 
 **Total Participants:** 124
 
@@ -52,9 +52,9 @@
 | 44 | 37 | Lootch |
 | 45 | 35 | Saucy Crusher |
 | 46 | 35 | KoolKimJay |
-| 47 | 35 | Lilly Brown |
-| 48 | 35 | Dai Bo |
-| 49 | 34 | Yashica Smith |
+| 47 | 35 | Yashica Smith |
+| 48 | 35 | Lilly Brown |
+| 49 | 35 | Dai Bo |
 | 50 | 32 | Tobey Marberry |
 | 51 | 30 | Casey Chapman |
 | 52 | 30 | Saucy Faller |
@@ -120,16 +120,16 @@
 | 112 | 7 | Mary2 |
 | 113 | 7 | Kendra McIntyre |
 | 114 | 6 | JesusSaves 😇 |
-| 115 | 6 | Christopher Wallace |
-| 116 | 6 | Ashley Espeut |
-| 117 | 6 | Jayjay Rich |
-| 118 | 6 | Taz Ballard |
-| 119 | 6 | Janine Hunter |
-| 120 | 5 | Tamika Fisher |
-| 121 | 5 | Christian Whittaker |
-| 122 | 5 | Jennifer Moore |
-| 123 | 5 | Derek Beverly |
-| 124 | 5 | DirtiestofMikes |
+| 115 | 6 | Ashley Espeut |
+| 116 | 6 | Jayjay Rich |
+| 117 | 6 | Taz Ballard |
+| 118 | 6 | Janine Hunter |
+| 119 | 6 | Christopher Wallace |
+| 120 | 5 | Christian Whittaker |
+| 121 | 5 | Jennifer Moore |
+| 122 | 5 | Derek Beverly |
+| 123 | 5 | DirtiestofMikes |
+| 124 | 5 | Tamika Fisher |
 
 ---
 *Standings created by tournaments datasource generation tool*

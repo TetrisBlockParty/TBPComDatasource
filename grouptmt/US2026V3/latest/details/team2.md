@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-05 13:44:13 UTC
+# Standings for team2 as of 2026-06-05 13:44:37 UTC
 
-**Total Participants:** 114
+**Total Participants:** 115
 
 ## Participant Scores
 
@@ -43,8 +43,8 @@
 | 35 | 37 | Jumpy Dashpiece |
 | 36 | 35 | Jason Cunningham |
 | 37 | 34 | Funway998 |
-| 38 | 33 | Kelly |
-| 39 | 33 | Tango Sierra |
+| 38 | 33 | Tango Sierra |
+| 39 | 33 | Kelly |
 | 40 | 32 | Sandra Belk |
 | 41 | 31 | Kenzie |
 | 42 | 31 | Lindsay Klemp |
@@ -52,74 +52,75 @@
 | 44 | 30 | Peter Fogg |
 | 45 | 28 | Sara BlueEyes |
 | 46 | 27 | Michael Carmichael |
-| 47 | 26 | Rachel Huber |
-| 48 | 26 | Justin Stark |
-| 49 | 26 | Ariel Gundersen |
-| 50 | 26 | Quina Jesse Fejaran |
-| 51 | 25 | James Ward |
-| 52 | 25 | Jgato |
-| 53 | 24 | Dayna Messer-Thelen |
-| 54 | 24 | A.j. Langley |
-| 55 | 23 | Brittni Lawrence |
-| 56 | 23 | IncrediDragon |
+| 47 | 26 | Quina Jesse Fejaran |
+| 48 | 26 | Ariel Gundersen |
+| 49 | 26 | Rachel Huber |
+| 50 | 26 | Justin Stark |
+| 51 | 25 | Jgato |
+| 52 | 25 | James Ward |
+| 53 | 24 | A.j. Langley |
+| 54 | 24 | Dayna Messer-Thelen |
+| 55 | 23 | IncrediDragon |
+| 56 | 23 | Brittni Lawrence |
 | 57 | 23 | Damion Morrison |
-| 58 | 22 | Jeff Pottgether |
-| 59 | 22 | Andre Love |
-| 60 | 21 | Sara Perkins |
+| 58 | 22 | Andre Love |
+| 59 | 22 | Jeff Pottgether |
+| 60 | 21 | Lively Curve |
 | 61 | 21 | Thy Bui |
-| 62 | 21 | Lively Curve |
+| 62 | 21 | Sara Perkins |
 | 63 | 20 | Wendy McKee |
-| 64 | 20 | Larry Cross |
-| 65 | 20 | Chesney |
-| 66 | 20 | Amanda Mason Scott |
-| 67 | 20 | ChefDeb |
+| 64 | 20 | Amanda Mason Scott |
+| 65 | 20 | ChefDeb |
+| 66 | 20 | Larry Cross |
+| 67 | 20 | Chesney |
 | 68 | 19 | Steven Craig |
-| 69 | 18 | Tracey Cox |
-| 70 | 18 | Spicy Balanceblock |
+| 69 | 18 | Spicy Balanceblock |
+| 70 | 18 | Tracey Cox |
 | 71 | 16 | Sarah Jane Gorsuch |
 | 72 | 15 | Alissa Ary |
 | 73 | 15 | Bubbly Dash |
 | 74 | 12 | Chirpy Grid |
-| 75 | 12 | Diamond Balotje |
+| 75 | 12 | Stacey Loretta Wallace |
 | 76 | 12 | Mary |
-| 77 | 12 | Stacey Loretta Wallace |
-| 78 | 11 | Yany |
-| 79 | 11 | Lora Via |
-| 80 | 10 | Crystal Owen Yocolano |
-| 81 | 10 | Becky Kennon |
-| 82 | 10 | Jennifer Bell |
-| 83 | 10 | Gill |
-| 84 | 10 | Twisty Snapmatch |
-| 85 | 10 | Carlos J Blas |
-| 86 | 10 | Thomas Johnstone |
-| 87 | 10 | Frilly Dashfit |
+| 77 | 12 | Diamond Balotje |
+| 78 | 11 | Lora Via |
+| 79 | 11 | Yany |
+| 80 | 10 | Becky Kennon |
+| 81 | 10 | Carlos J Blas |
+| 82 | 10 | Thomas Johnstone |
+| 83 | 10 | Jennifer Bell |
+| 84 | 10 | Crystal Owen Yocolano |
+| 85 | 10 | Joyce Galloway |
+| 86 | 10 | Berta Hurley |
+| 87 | 10 | Donna Casey |
 | 88 | 10 | Justin Furne |
-| 89 | 10 | Joyce Galloway |
-| 90 | 10 | Berta Hurley |
-| 91 | 10 | Donna Casey |
-| 92 | 9 | Princess Cucumber |
-| 93 | 9 | Mama G |
-| 94 | 9 | Giggly Spinblock |
-| 95 | 9 | Rhonda Driskill |
-| 96 | 9 | Darla Ragsdale |
+| 89 | 10 | Gill |
+| 90 | 10 | Frilly Dashfit |
+| 91 | 10 | Twisty Snapmatch |
+| 92 | 9 | Mama G |
+| 93 | 9 | Rhonda Driskill |
+| 94 | 9 | Princess Cucumber |
+| 95 | 9 | Darla Ragsdale |
+| 96 | 9 | Giggly Spinblock |
 | 97 | 8 | Stephanie |
 | 98 | 8 | Renee Weedling |
 | 99 | 8 | Nicky Steigerwalt |
-| 100 | 7 | Cherica Taylor |
-| 101 | 7 | Epic Framezone |
+| 100 | 7 | Elizabeth Elaine Coursey |
+| 101 | 7 | nova |
 | 102 | 7 | Rae |
-| 103 | 7 | Elizabeth Elaine Coursey |
-| 104 | 7 | nova |
+| 103 | 7 | Epic Framezone |
+| 104 | 7 | Cherica Taylor |
 | 105 | 6 | Nova Nova |
-| 106 | 6 | Jackie Hayslip |
-| 107 | 6 | Kelly Christine Trimmer |
-| 108 | 6 | fancypants |
-| 109 | 6 | Nicole |
-| 110 | 5 | Tashamonique Puckey |
+| 106 | 6 | Nicole |
+| 107 | 6 | fancypants |
+| 108 | 6 | Jackie Hayslip |
+| 109 | 6 | Jenny Coffer |
+| 110 | 6 | Kelly Christine Trimmer |
 | 111 | 5 | Bubbly Strikerpiece |
 | 112 | 5 | Devon |
-| 113 | 5 | Slinky Glidezone |
-| 114 | 5 | Allison Peterson |
+| 113 | 5 | Allison Peterson |
+| 114 | 5 | Tashamonique Puckey |
+| 115 | 5 | Slinky Glidezone |
 
 ---
 *Standings created by tournaments datasource generation tool*
