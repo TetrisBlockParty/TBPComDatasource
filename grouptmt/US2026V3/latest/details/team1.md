@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 20:38:14 UTC
+# Standings for team1 as of 2026-06-05 20:38:35 UTC
 
 **Total Participants:** 485
 
@@ -474,23 +474,23 @@
 | 466 | 5 | Kelvin Cook |
 | 467 | 5 | KeeKee Williams |
 | 468 | 5 | Saucy Linkgrid |
-| 469 | 5 | Jjhandsome |
-| 470 | 5 | DirtiestofMikes |
-| 471 | 5 | Derek Beverly |
-| 472 | 5 | Kidgib5 |
-| 473 | 5 | Jennifer Moore |
-| 474 | 5 | Lil T |
+| 469 | 5 | Lil T |
+| 470 | 5 | Vernon Hoyt |
+| 471 | 5 | DirtiestofMikes |
+| 472 | 5 | Derek Beverly |
+| 473 | 5 | Kidgib5 |
+| 474 | 5 | Jennifer Moore |
 | 475 | 5 | Chill Linkroll |
 | 476 | 5 | Shakuria Cortia Burney |
 | 477 | 5 | Shawn Himes |
-| 478 | 5 | Tamika Fisher |
-| 479 | 5 | Zappy Clearfit |
-| 480 | 5 | Tito Divyn |
-| 481 | 5 | Gerold Folk Haddock |
-| 482 | 5 | Vernon Hoyt |
-| 483 | 5 | Andre Sanon |
-| 484 | 5 | Barbramerri Tarboro |
-| 485 | 5 | pooh |
+| 478 | 5 | pooh |
+| 479 | 5 | Jjhandsome |
+| 480 | 5 | Tamika Fisher |
+| 481 | 5 | Barbramerri Tarboro |
+| 482 | 5 | Andre Sanon |
+| 483 | 5 | Gerold Folk Haddock |
+| 484 | 5 | Tito Divyn |
+| 485 | 5 | Zappy Clearfit |
 
 ---
 *Standings created by tournaments datasource generation tool*
