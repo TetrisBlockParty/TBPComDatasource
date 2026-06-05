@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 12:48:37 UTC
+# Standings for team2 as of 2026-06-05 12:49:12 UTC
 
 **Total Participants:** 62
 
@@ -15,8 +15,8 @@
 | 7 | 99 | Stella |
 | 8 | 75 | Angeleye A James |
 | 9 | 70 | Amanda Sikes |
-| 10 | 67 | Ashley Voelz |
-| 11 | 67 | Crystal M Sowden |
+| 10 | 67 | Crystal M Sowden |
+| 11 | 67 | Ashley Voelz |
 | 12 | 58 | Chipper Towerzone |
 | 13 | 45 | Michelle Anne |
 | 14 | 44 | Zaniya Brown |
@@ -28,46 +28,46 @@
 | 20 | 30 | Patti Ward |
 | 21 | 28 | Sara BlueEyes |
 | 22 | 27 | Michael Carmichael |
-| 23 | 26 | Ariel Gundersen |
+| 23 | 26 | Rachel Huber |
 | 24 | 26 | Quina Jesse Fejaran |
-| 25 | 26 | Rachel Huber |
+| 25 | 26 | Ariel Gundersen |
 | 26 | 25 | Jgato |
 | 27 | 25 | April Addis |
-| 28 | 24 | Dayna Messer-Thelen |
-| 29 | 24 | A.j. Langley |
-| 30 | 23 | IncrediDragon |
-| 31 | 23 | Damion Morrison |
+| 28 | 24 | A.j. Langley |
+| 29 | 24 | Dayna Messer-Thelen |
+| 30 | 23 | Damion Morrison |
+| 31 | 23 | IncrediDragon |
 | 32 | 20 | Kevin Mccoy |
 | 33 | 20 | ChefDeb |
-| 34 | 18 | Rick |
-| 35 | 18 | Tracey Cox |
+| 34 | 18 | Tracey Cox |
+| 35 | 18 | Rick |
 | 36 | 16 | Peter Fogg |
-| 37 | 12 | Mary |
+| 37 | 12 | Chirpy Grid |
 | 38 | 12 | Stacey Loretta Wallace |
-| 39 | 12 | Chirpy Grid |
-| 40 | 11 | Lora Via |
-| 41 | 11 | Thy Bui |
-| 42 | 10 | Thomas Johnstone |
-| 43 | 10 | Twisty Snapmatch |
-| 44 | 10 | Kenzie |
-| 45 | 10 | Joyce Galloway |
-| 46 | 10 | Gill |
-| 47 | 10 | Bon Lynn |
-| 48 | 10 | Justin Furne |
-| 49 | 10 | Berta Hurley |
-| 50 | 9 | Darla Ragsdale |
-| 51 | 9 | Giggly Spinblock |
-| 52 | 9 | Princess Cucumber |
-| 53 | 9 | Henny Henny |
-| 54 | 9 | Mama G |
+| 39 | 12 | Mary |
+| 40 | 11 | Thy Bui |
+| 41 | 11 | Lora Via |
+| 42 | 10 | Berta Hurley |
+| 43 | 10 | Kenzie |
+| 44 | 10 | Thomas Johnstone |
+| 45 | 10 | Gill |
+| 46 | 10 | Bon Lynn |
+| 47 | 10 | Justin Furne |
+| 48 | 10 | Twisty Snapmatch |
+| 49 | 10 | Joyce Galloway |
+| 50 | 9 | Mama G |
+| 51 | 9 | Henny Henny |
+| 52 | 9 | Darla Ragsdale |
+| 53 | 9 | Princess Cucumber |
+| 54 | 9 | Giggly Spinblock |
 | 55 | 7 | Cherica Taylor |
 | 56 | 7 | nova |
-| 57 | 6 | Kelly Christine Trimmer |
-| 58 | 6 | Martha Lynn Wiggins |
-| 59 | 6 | fancypants |
-| 60 | 5 | Devon |
-| 61 | 5 | Tashamonique Puckey |
-| 62 | 5 | Allison Peterson |
+| 57 | 6 | fancypants |
+| 58 | 6 | Kelly Christine Trimmer |
+| 59 | 6 | Martha Lynn Wiggins |
+| 60 | 5 | Allison Peterson |
+| 61 | 5 | Devon |
+| 62 | 5 | Tashamonique Puckey |
 
 ---
 *Standings created by tournaments datasource generation tool*

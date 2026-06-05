@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 12:48:37 UTC
+# Standings for team1 as of 2026-06-05 12:49:12 UTC
 
-**Total Participants:** 75
+**Total Participants:** 77
 
 ## Participant Scores
 
@@ -44,43 +44,45 @@
 | 36 | 25 | Tyrone Porter |
 | 37 | 23 | Poppy Twister |
 | 38 | 22 | Tanisha Taylor |
-| 39 | 21 | Brave Balanceblock |
-| 40 | 21 | Zany Breaker |
-| 41 | 20 | Jai |
-| 42 | 20 | Trina Greenwood |
+| 39 | 21 | Zany Breaker |
+| 40 | 21 | Brave Balanceblock |
+| 41 | 20 | Trina Greenwood |
+| 42 | 20 | Jai |
 | 43 | 19 | Amanda Woodruff |
 | 44 | 19 | Jenni |
 | 45 | 18 | Dizzy Dashy |
 | 46 | 18 | Shanjerrica Taylor Rosell |
-| 47 | 17 | Rikki Moran |
-| 48 | 17 | SPNLover24 |
+| 47 | 17 | SPNLover24 |
+| 48 | 17 | Rikki Moran |
 | 49 | 17 | Kimberly Red |
 | 50 | 16 | Sylvia Offically A Mcgowan |
-| 51 | 15 | Janet Cooke |
-| 52 | 15 | Tami Spence |
+| 51 | 15 | Christian Pham |
+| 52 | 15 | Janet Cooke |
 | 53 | 15 | Ashley MyBeauty Daniels |
-| 54 | 15 | Christian Pham |
+| 54 | 15 | Tami Spence |
 | 55 | 15 | Una |
 | 56 | 14 | Brian Bohanon II |
 | 57 | 14 | Alyssa Rae |
-| 58 | 13 | Oaklonboy mike |
-| 59 | 12 | Kimmie Gargano |
-| 60 | 12 | Steve Reno |
+| 58 | 14 | Steve Reno |
+| 59 | 13 | Oaklonboy mike |
+| 60 | 12 | Kimmie Gargano |
 | 61 | 11 | Desiree Ryder |
-| 62 | 10 | Frisky Fall |
-| 63 | 10 | Sarah Marie |
-| 64 | 10 | Brian Stackhouse |
-| 65 | 10 | Tishauna Virgo |
-| 66 | 10 | 신재호 |
-| 67 | 9 | IThinkNot |
+| 62 | 10 | 신재호 |
+| 63 | 10 | Tishauna Virgo |
+| 64 | 10 | Daddy |
+| 65 | 10 | Frisky Fall |
+| 66 | 10 | Brian Stackhouse |
+| 67 | 10 | Sarah Marie |
 | 68 | 9 | Tina Criam |
-| 69 | 8 | Brika Brika |
-| 70 | 8 | Sammie Walker |
-| 71 | 7 | Kendra McIntyre |
-| 72 | 7 | Mary2 |
-| 73 | 5 | Shakmar |
-| 74 | 5 | Yashica Smith |
-| 75 | 5 | Cheeky Pop |
+| 69 | 9 | IThinkNot |
+| 70 | 9 | Brenda Malachi-butler |
+| 71 | 8 | Brika Brika |
+| 72 | 8 | Sammie Walker |
+| 73 | 7 | Kendra McIntyre |
+| 74 | 7 | Mary2 |
+| 75 | 5 | Shakmar |
+| 76 | 5 | Yashica Smith |
+| 77 | 5 | Cheeky Pop |
 
 ---
 *Standings created by tournaments datasource generation tool*
