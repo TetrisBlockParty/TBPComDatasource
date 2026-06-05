@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-05 12:39:13 UTC
+# Standings for team2 as of 2026-06-05 12:40:13 UTC
 
-**Total Participants:** 50
+**Total Participants:** 51
 
 ## Participant Scores
 
@@ -26,36 +26,37 @@
 | 18 | 27 | Michael Carmichael |
 | 19 | 26 | Ariel Gundersen |
 | 20 | 26 | Rachel Huber |
-| 21 | 25 | Jgato |
-| 22 | 25 | April Addis |
+| 21 | 25 | April Addis |
+| 22 | 25 | Jgato |
 | 23 | 23 | IncrediDragon |
 | 24 | 23 | Damion Morrison |
 | 25 | 21 | Zaniya Brown |
 | 26 | 18 | Tracey Cox |
 | 27 | 15 | Spicy Basepiece |
-| 28 | 12 | Stacey Loretta Wallace |
-| 29 | 12 | Mary |
-| 30 | 12 | A.j. Langley |
-| 31 | 11 | Thy Bui |
-| 32 | 11 | Lora Via |
+| 28 | 12 | Mary |
+| 29 | 12 | A.j. Langley |
+| 30 | 12 | Stacey Loretta Wallace |
+| 31 | 11 | Lora Via |
+| 32 | 11 | Thy Bui |
 | 33 | 10 | Gill |
-| 34 | 10 | Twisty Snapmatch |
+| 34 | 10 | Rick |
 | 35 | 10 | Berta Hurley |
 | 36 | 10 | Joyce Galloway |
-| 37 | 10 | Bon Lynn |
-| 38 | 9 | Giggly Spinblock |
-| 39 | 9 | Mama G |
-| 40 | 9 | Darla Ragsdale |
+| 37 | 10 | Twisty Snapmatch |
+| 38 | 10 | Bon Lynn |
+| 39 | 9 | Darla Ragsdale |
+| 40 | 9 | Mama G |
 | 41 | 9 | Princess Cucumber |
-| 42 | 8 | Chirpy Grid |
-| 43 | 7 | Cherica Taylor |
+| 42 | 9 | Giggly Spinblock |
+| 43 | 8 | Chirpy Grid |
 | 44 | 7 | Peter Fogg |
-| 45 | 6 | Kelly Christine Trimmer |
+| 45 | 7 | Cherica Taylor |
 | 46 | 6 | fancypants |
-| 47 | 5 | Devon |
+| 47 | 6 | Kelly Christine Trimmer |
 | 48 | 5 | Tashamonique Puckey |
-| 49 | 5 | Allison Peterson |
-| 50 | 5 | Thomas Johnstone |
+| 49 | 5 | Thomas Johnstone |
+| 50 | 5 | Allison Peterson |
+| 51 | 5 | Devon |
 
 ---
 *Standings created by tournaments datasource generation tool*
