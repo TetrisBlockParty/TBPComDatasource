@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 12:40:36 UTC
+# Standings for team2 as of 2026-06-05 12:41:12 UTC
 
 **Total Participants:** 53
 
@@ -17,48 +17,48 @@
 | 9 | 59 | Stella |
 | 10 | 58 | Chipper Towerzone |
 | 11 | 45 | Michelle Anne |
-| 12 | 40 | LittleHippoEars |
-| 13 | 37 | Jumpy Dashpiece |
-| 14 | 33 | Tango Sierra |
-| 15 | 30 | Jason Cunningham |
+| 12 | 44 | Zaniya Brown |
+| 13 | 40 | LittleHippoEars |
+| 14 | 37 | Jumpy Dashpiece |
+| 15 | 33 | Tango Sierra |
 | 16 | 30 | Patti Ward |
-| 17 | 28 | Sara BlueEyes |
-| 18 | 27 | Michael Carmichael |
-| 19 | 26 | Rachel Huber |
-| 20 | 26 | Ariel Gundersen |
-| 21 | 25 | April Addis |
-| 22 | 25 | Jgato |
-| 23 | 23 | IncrediDragon |
-| 24 | 23 | Damion Morrison |
-| 25 | 21 | Zaniya Brown |
-| 26 | 20 | ChefDeb |
-| 27 | 18 | Tracey Cox |
-| 28 | 15 | Spicy Basepiece |
-| 29 | 12 | A.j. Langley |
-| 30 | 12 | Stacey Loretta Wallace |
-| 31 | 12 | Mary |
+| 17 | 30 | Jason Cunningham |
+| 18 | 28 | Sara BlueEyes |
+| 19 | 27 | Michael Carmichael |
+| 20 | 26 | Rachel Huber |
+| 21 | 26 | Ariel Gundersen |
+| 22 | 25 | April Addis |
+| 23 | 25 | Jgato |
+| 24 | 24 | A.j. Langley |
+| 25 | 23 | Damion Morrison |
+| 26 | 23 | IncrediDragon |
+| 27 | 20 | ChefDeb |
+| 28 | 18 | Tracey Cox |
+| 29 | 15 | Spicy Basepiece |
+| 30 | 12 | Mary |
+| 31 | 12 | Stacey Loretta Wallace |
 | 32 | 11 | Lora Via |
 | 33 | 11 | Thy Bui |
-| 34 | 10 | Justin Furne |
-| 35 | 10 | Berta Hurley |
-| 36 | 10 | Joyce Galloway |
-| 37 | 10 | Rick |
+| 34 | 10 | Berta Hurley |
+| 35 | 10 | Joyce Galloway |
+| 36 | 10 | Twisty Snapmatch |
+| 37 | 10 | Justin Furne |
 | 38 | 10 | Bon Lynn |
-| 39 | 10 | Gill |
-| 40 | 10 | Twisty Snapmatch |
-| 41 | 9 | Darla Ragsdale |
-| 42 | 9 | Mama G |
+| 39 | 10 | Rick |
+| 40 | 10 | Gill |
+| 41 | 9 | Mama G |
+| 42 | 9 | Giggly Spinblock |
 | 43 | 9 | Princess Cucumber |
-| 44 | 9 | Giggly Spinblock |
+| 44 | 9 | Darla Ragsdale |
 | 45 | 8 | Chirpy Grid |
-| 46 | 7 | Peter Fogg |
-| 47 | 7 | Cherica Taylor |
+| 46 | 7 | Cherica Taylor |
+| 47 | 7 | Peter Fogg |
 | 48 | 6 | fancypants |
 | 49 | 6 | Kelly Christine Trimmer |
-| 50 | 5 | Tashamonique Puckey |
-| 51 | 5 | Thomas Johnstone |
-| 52 | 5 | Allison Peterson |
-| 53 | 5 | Devon |
+| 50 | 5 | Thomas Johnstone |
+| 51 | 5 | Tashamonique Puckey |
+| 52 | 5 | Devon |
+| 53 | 5 | Allison Peterson |
 
 ---
 *Standings created by tournaments datasource generation tool*
