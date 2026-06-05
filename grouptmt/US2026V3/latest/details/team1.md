@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 16:04:14 UTC
+# Standings for team1 as of 2026-06-05 16:04:36 UTC
 
 **Total Participants:** 270
 
@@ -32,7 +32,7 @@
 | 24 | 185 | Jennifer To |
 | 25 | 184 | Leebo Slice |
 | 26 | 182 | Janet Cooke |
-| 27 | 179 | Ashley MyBeauty Daniels |
+| 27 | 181 | Ashley MyBeauty Daniels |
 | 28 | 178 | Gotcha |
 | 29 | 178 | Cassidy Butler |
 | 30 | 177 | Chris Sladoje |
@@ -128,23 +128,23 @@
 | 120 | 32 | Melvin Simpson |
 | 121 | 32 | Christi Walker Patton |
 | 122 | 32 | Tobey Marberry |
-| 123 | 31 | Miera Nicole |
-| 124 | 31 | Boldy Pivoty |
-| 125 | 30 | Andi McGreevy |
-| 126 | 30 | Kp |
-| 127 | 30 | Kristie |
-| 128 | 30 | Sarah Guarino |
+| 123 | 31 | Boldy Pivoty |
+| 124 | 31 | Miera Nicole |
+| 125 | 30 | Kp |
+| 126 | 30 | Kristie |
+| 127 | 30 | Hasty Pivoty |
+| 128 | 30 | Andi McGreevy |
 | 129 | 30 | Casey Chapman |
-| 130 | 30 | Lester Malone |
-| 131 | 30 | Jack Vlasak |
-| 132 | 30 | Saucy Faller |
-| 133 | 29 | Eric Mcgaughy |
-| 134 | 29 | hope |
-| 135 | 29 | Nerdy Snapfall |
-| 136 | 29 | Eartha Brown |
-| 137 | 28 | Jazzy Bridger |
-| 138 | 28 | John Staub |
-| 139 | 28 | Hasty Pivoty |
+| 130 | 30 | Sarah Guarino |
+| 131 | 30 | Lester Malone |
+| 132 | 30 | Jack Vlasak |
+| 133 | 30 | Saucy Faller |
+| 134 | 29 | Eric Mcgaughy |
+| 135 | 29 | hope |
+| 136 | 29 | Nerdy Snapfall |
+| 137 | 29 | Eartha Brown |
+| 138 | 28 | Jazzy Bridger |
+| 139 | 28 | John Staub |
 | 140 | 27 | Zany Breaker |
 | 141 | 27 | Byron Mario Cawthon |
 | 142 | 27 | Charlene Baltimore |
@@ -243,39 +243,39 @@
 | 235 | 9 | Joka NoTime ForHataz |
 | 236 | 9 | Abby |
 | 237 | 8 | Brika Brika |
-| 238 | 8 | Sammie Walker |
+| 238 | 8 | Jessie N Michael Silvers |
 | 239 | 8 | Breezy Catcher |
-| 240 | 8 | Caitlin Michele |
-| 241 | 8 | Taz Ballard |
-| 242 | 8 | Jessie N Michael Silvers |
-| 243 | 8 | Tanesha Ga'sFinest Corbett |
-| 244 | 7 | Jumpy Gridlock |
-| 245 | 7 | Shane Brucewayne |
-| 246 | 7 | Mary2 |
-| 247 | 7 | Kendra McIntyre |
-| 248 | 7 | whatever |
-| 249 | 7 | wmedina67 |
-| 250 | 6 | Christopher Wallace |
-| 251 | 6 | Allison Baxter |
-| 252 | 6 | Jeffrey Barrows |
+| 240 | 8 | Tanesha Ga'sFinest Corbett |
+| 241 | 8 | Sammie Walker |
+| 242 | 8 | Caitlin Michele |
+| 243 | 8 | Taz Ballard |
+| 244 | 7 | Mary2 |
+| 245 | 7 | wmedina67 |
+| 246 | 7 | Kendra McIntyre |
+| 247 | 7 | whatever |
+| 248 | 7 | Shane Brucewayne |
+| 249 | 7 | Jumpy Gridlock |
+| 250 | 6 | Brittnay Wright |
+| 251 | 6 | Cece Fowler |
+| 252 | 6 | Allison Baxter |
 | 253 | 6 | Jelyfish |
-| 254 | 6 | Cece Fowler |
-| 255 | 6 | Brittnay Wright |
-| 256 | 6 | Janine Hunter |
-| 257 | 5 | Tamika Fisher |
-| 258 | 5 | Rixo Blax |
-| 259 | 5 | Derek Beverly |
-| 260 | 5 | Temeshia Brooks Washington |
-| 261 | 5 | KeeKee Williams |
-| 262 | 5 | Lil T |
-| 263 | 5 | pooh |
-| 264 | 5 | DirtiestofMikes |
+| 254 | 6 | Janine Hunter |
+| 255 | 6 | Jeffrey Barrows |
+| 256 | 6 | Christopher Wallace |
+| 257 | 5 | KeeKee Williams |
+| 258 | 5 | pooh |
+| 259 | 5 | Temeshia Brooks Washington |
+| 260 | 5 | Rixo Blax |
+| 261 | 5 | Zappy Clearfit |
+| 262 | 5 | Tamika Fisher |
+| 263 | 5 | Shawn Himes |
+| 264 | 5 | Jennifer Moore |
 | 265 | 5 | Kidgib5 |
-| 266 | 5 | Jennifer Moore |
-| 267 | 5 | Vernon Hoyt |
-| 268 | 5 | Shawn Himes |
-| 269 | 5 | Zappy Clearfit |
-| 270 | 5 | Stephanie Zuniga Tullock |
+| 266 | 5 | Vernon Hoyt |
+| 267 | 5 | DirtiestofMikes |
+| 268 | 5 | Stephanie Zuniga Tullock |
+| 269 | 5 | Lil T |
+| 270 | 5 | Derek Beverly |
 
 ---
 *Standings created by tournaments datasource generation tool*
