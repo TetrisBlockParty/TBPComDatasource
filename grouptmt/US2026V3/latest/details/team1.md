@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:34:13 UTC
+# Standings for team1 as of 2026-06-05 13:34:34 UTC
 
 **Total Participants:** 114
 
@@ -108,17 +108,17 @@
 | 100 | 9 | IThinkNot |
 | 101 | 9 | Tamara N Lee |
 | 102 | 8 | Brika Brika |
-| 103 | 8 | Sammie Walker |
-| 104 | 8 | Jessie N Michael Silvers |
-| 105 | 7 | Kendra McIntyre |
-| 106 | 7 | Mary2 |
+| 103 | 8 | Jessie N Michael Silvers |
+| 104 | 8 | Sammie Walker |
+| 105 | 7 | Mary2 |
+| 106 | 7 | Kendra McIntyre |
 | 107 | 6 | Janine Hunter |
-| 108 | 6 | Taz Ballard |
+| 108 | 6 | Jayjay Rich |
 | 109 | 6 | Ashley Espeut |
-| 110 | 6 | Jayjay Rich |
-| 111 | 5 | DirtiestofMikes |
+| 110 | 6 | Taz Ballard |
+| 111 | 5 | Tamika Fisher |
 | 112 | 5 | Jennifer Moore |
-| 113 | 5 | Tamika Fisher |
+| 113 | 5 | DirtiestofMikes |
 | 114 | 5 | Derek Beverly |
 
 ---
