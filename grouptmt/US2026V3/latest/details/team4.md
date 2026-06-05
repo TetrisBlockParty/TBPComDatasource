@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 21:14:16 UTC
+# Standings for team4 as of 2026-06-05 21:14:36 UTC
 
 **Total Participants:** 456
 
@@ -9,7 +9,7 @@
 | 1 | 5469 | Kait Confetti |
 | 2 | 3600 | Candice Driver |
 | 3 | 3150 | Destiny Dyer |
-| 4 | 2892 | Lyza |
+| 4 | 2971 | Lyza |
 | 5 | 2775 | Jerald Jones |
 | 6 | 1853 | Daring Ziggy |
 | 7 | 1657 | delilahbelle |

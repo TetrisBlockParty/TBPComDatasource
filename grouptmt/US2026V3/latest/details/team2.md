@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 21:14:16 UTC
+# Standings for team2 as of 2026-06-05 21:14:36 UTC
 
 **Total Participants:** 546
 
@@ -405,15 +405,15 @@
 | 397 | 16 | Sandy Rundel Holderman |
 | 398 | 16 | Shay Lynn King |
 | 399 | 16 | Natasha Schatte |
-| 400 | 16 | Bethany Nestor |
-| 401 | 16 | Renee Craig |
-| 402 | 16 | Danielle Lyons |
-| 403 | 16 | Boldy Fitclear |
-| 404 | 16 | Princess Cucumber |
-| 405 | 15 | Rachel M. Farnsworth |
-| 406 | 15 | Daring Pivotfall |
+| 400 | 16 | Anthony Chavez |
+| 401 | 16 | Bethany Nestor |
+| 402 | 16 | Renee Craig |
+| 403 | 16 | Danielle Lyons |
+| 404 | 16 | Boldy Fitclear |
+| 405 | 16 | Princess Cucumber |
+| 406 | 15 | Rachel M. Farnsworth |
 | 407 | 15 | PrissyPris |
-| 408 | 15 | Anthony Chavez |
+| 408 | 15 | Daring Pivotfall |
 | 409 | 15 | MaddieCherie |
 | 410 | 15 | Samantha Brown |
 | 411 | 15 | Poppy Slice |
