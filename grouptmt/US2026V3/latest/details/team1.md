@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:28:35 UTC
+# Standings for team1 as of 2026-06-05 15:29:13 UTC
 
 **Total Participants:** 244
 
@@ -6,13 +6,13 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 2000 | Ariel |
+| 1 | 3500 | Ariel |
 | 2 | 1705 | Timothy Robert |
 | 3 | 1050 | jaimie |
-| 4 | 825 | Chris Russell |
-| 5 | 800 | Chandler Spencer |
-| 6 | 749 | Aviv Zehavi |
-| 7 | 684 | Tracy Cohen |
+| 4 | 840 | Tracy Cohen |
+| 5 | 825 | Chris Russell |
+| 6 | 800 | Chandler Spencer |
+| 7 | 749 | Aviv Zehavi |
 | 8 | 523 | Charnay Peacock |
 | 9 | 485 | Whitney Butler |
 | 10 | 482 | Cj Gorman |
@@ -32,7 +32,7 @@
 | 24 | 178 | Gotcha |
 | 25 | 177 | Chris Sladoje |
 | 26 | 170 | Janet Cooke |
-| 27 | 163 | Ashley MyBeauty Daniels |
+| 27 | 165 | Ashley MyBeauty Daniels |
 | 28 | 162 | Markeeta Lipscomb |
 | 29 | 151 | Dacia Hicks |
 | 30 | 141 | Debbie Carswell |
@@ -102,41 +102,41 @@
 | 94 | 37 | Steve Reno |
 | 95 | 37 | IThinkNot |
 | 96 | 35 | Saucy Crusher |
-| 97 | 35 | HBTone |
-| 98 | 35 | Yashica Smith |
-| 99 | 35 | Lilly Brown |
-| 100 | 35 | KoolKimJay |
-| 101 | 33 | Chris Nelson |
-| 102 | 33 | Sashaleo |
-| 103 | 32 | Melvin Simpson |
-| 104 | 32 | Tobey Marberry |
+| 97 | 35 | Yashica Smith |
+| 98 | 35 | HBTone |
+| 99 | 35 | KoolKimJay |
+| 100 | 35 | Lilly Brown |
+| 101 | 34 | Wacky Stackbuilder |
+| 102 | 33 | Chris Nelson |
+| 103 | 33 | Sashaleo |
+| 104 | 32 | Melvin Simpson |
 | 105 | 32 | Richard Flex |
-| 106 | 31 | Dandy Brickfit |
-| 107 | 31 | Calvin Green |
-| 108 | 31 | Miera Nicole |
-| 109 | 31 | Boldy Pivoty |
-| 110 | 30 | Andi McGreevy |
-| 111 | 30 | Leebo Slice |
-| 112 | 30 | Lester Malone |
+| 106 | 32 | Tobey Marberry |
+| 107 | 31 | Dandy Brickfit |
+| 108 | 31 | Boldy Pivoty |
+| 109 | 31 | Calvin Green |
+| 110 | 31 | Miera Nicole |
+| 111 | 30 | Lester Malone |
+| 112 | 30 | Leebo Slice |
 | 113 | 30 | Saucy Faller |
-| 114 | 30 | Kristie |
-| 115 | 30 | Jack Vlasak |
-| 116 | 30 | Casey Chapman |
-| 117 | 30 | Blockhead |
-| 118 | 29 | hope |
-| 119 | 28 | Jazzy Bridger |
-| 120 | 28 | John Staub |
-| 121 | 27 | Jae Thompson-Tyus |
-| 122 | 27 | Zany Breaker |
-| 123 | 27 | Mighty Dropper |
-| 124 | 27 | Charlene Baltimore |
-| 125 | 27 | JesusSaves 😇 |
-| 126 | 26 | Xrandomx |
-| 127 | 25 | Tyrone Porter |
-| 128 | 25 | Skippy |
-| 129 | 25 | Teresa Yanira Cepeda |
-| 130 | 25 | Wacky Stackbuilder |
-| 131 | 25 | Hasty Pivoty |
+| 114 | 30 | Andi McGreevy |
+| 115 | 30 | Kristie |
+| 116 | 30 | Jack Vlasak |
+| 117 | 30 | Casey Chapman |
+| 118 | 30 | Blockhead |
+| 119 | 29 | hope |
+| 120 | 28 | Jazzy Bridger |
+| 121 | 28 | John Staub |
+| 122 | 27 | Jae Thompson-Tyus |
+| 123 | 27 | Zany Breaker |
+| 124 | 27 | Mighty Dropper |
+| 125 | 27 | Charlene Baltimore |
+| 126 | 27 | JesusSaves 😇 |
+| 127 | 26 | Xrandomx |
+| 128 | 25 | Hasty Pivoty |
+| 129 | 25 | Skippy |
+| 130 | 25 | Teresa Yanira Cepeda |
+| 131 | 25 | Tyrone Porter |
 | 132 | 25 | Kimmie Gargano |
 | 133 | 25 | Eric Mcgaughy |
 | 134 | 24 | TBABYJ |
@@ -238,18 +238,18 @@
 | 230 | 6 | Brittnay Wright |
 | 231 | 6 | Janine Hunter |
 | 232 | 5 | Zappy Clearfit |
-| 233 | 5 | Rixo Blax |
-| 234 | 5 | Derek Beverly |
-| 235 | 5 | Temeshia Brooks Washington |
-| 236 | 5 | KeeKee Williams |
-| 237 | 5 | Lil T |
-| 238 | 5 | Stephanie Zuniga Tullock |
+| 233 | 5 | Tamika Fisher |
+| 234 | 5 | Rixo Blax |
+| 235 | 5 | Derek Beverly |
+| 236 | 5 | Temeshia Brooks Washington |
+| 237 | 5 | KeeKee Williams |
+| 238 | 5 | Lil T |
 | 239 | 5 | Vernon Hoyt |
 | 240 | 5 | DirtiestofMikes |
 | 241 | 5 | Kidgib5 |
 | 242 | 5 | Jennifer Moore |
 | 243 | 5 | Shawn Himes |
-| 244 | 5 | Tamika Fisher |
+| 244 | 5 | Stephanie Zuniga Tullock |
 
 ---
 *Standings created by tournaments datasource generation tool*
