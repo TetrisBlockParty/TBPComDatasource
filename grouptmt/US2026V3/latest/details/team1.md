@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 12:50:34 UTC
+# Standings for team1 as of 2026-06-05 12:51:13 UTC
 
-**Total Participants:** 77
+**Total Participants:** 78
 
 ## Participant Scores
 
@@ -57,10 +57,10 @@
 | 49 | 17 | Kimberly Red |
 | 50 | 16 | Sylvia Offically A Mcgowan |
 | 51 | 15 | Christian Pham |
-| 52 | 15 | Janet Cooke |
-| 53 | 15 | Ashley MyBeauty Daniels |
-| 54 | 15 | Tami Spence |
-| 55 | 15 | Una |
+| 52 | 15 | Ashley MyBeauty Daniels |
+| 53 | 15 | Tami Spence |
+| 54 | 15 | Una |
+| 55 | 15 | Janet Cooke |
 | 56 | 14 | Brian Bohanon II |
 | 57 | 14 | Alyssa Rae |
 | 58 | 14 | Steve Reno |
@@ -76,13 +76,14 @@
 | 68 | 9 | Tina Criam |
 | 69 | 9 | IThinkNot |
 | 70 | 9 | Brenda Malachi-butler |
-| 71 | 8 | Brika Brika |
-| 72 | 8 | Sammie Walker |
-| 73 | 7 | Kendra McIntyre |
-| 74 | 7 | Mary2 |
-| 75 | 5 | Cheeky Pop |
+| 71 | 9 | Charlene Baltimore |
+| 72 | 8 | Brika Brika |
+| 73 | 8 | Sammie Walker |
+| 74 | 7 | Kendra McIntyre |
+| 75 | 7 | Mary2 |
 | 76 | 5 | Shakmar |
 | 77 | 5 | Yashica Smith |
+| 78 | 5 | Cheeky Pop |
 
 ---
 *Standings created by tournaments datasource generation tool*
