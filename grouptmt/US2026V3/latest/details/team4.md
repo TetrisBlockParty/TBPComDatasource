@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 13:00:13 UTC
+# Standings for team4 as of 2026-06-05 13:00:36 UTC
 
 **Total Participants:** 75
 
@@ -29,12 +29,12 @@
 | 21 | 50 | Jesse Olive |
 | 22 | 49 | Snippy Grid |
 | 23 | 40 | Tyra Brooke Everman Forest |
-| 24 | 38 | Jonathan Hewitt |
-| 25 | 38 | Charity Thomas |
-| 26 | 34 | jojo |
-| 27 | 34 | Colin |
-| 28 | 32 | Shiny Brick |
-| 29 | 30 | Justin Michael |
+| 24 | 40 | Justin Michael |
+| 25 | 38 | Jonathan Hewitt |
+| 26 | 38 | Charity Thomas |
+| 27 | 34 | jojo |
+| 28 | 34 | Colin |
+| 29 | 32 | Shiny Brick |
 | 30 | 30 | Will E Ayala |
 | 31 | 28 | Melissa Schwager |
 | 32 | 28 | Laurie Patrick |
