@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-06-05 13:54:13 UTC
+# Standings for team4 as of 2026-06-05 13:54:34 UTC
 
-**Total Participants:** 115
+**Total Participants:** 116
 
 ## Participant Scores
 
@@ -28,8 +28,8 @@
 | 20 | 79 | Luna |
 | 21 | 78 | Tawna Curry |
 | 22 | 75 | June Hoffman |
-| 23 | 71 | Chris Covington |
-| 24 | 71 | Justin Michael |
+| 23 | 71 | Justin Michael |
+| 24 | 71 | Chris Covington |
 | 25 | 70 | Janae Harris |
 | 26 | 68 | Keys Tome |
 | 27 | 60 | Fran Aaron-Ring |
@@ -41,86 +41,87 @@
 | 33 | 42 | Shiny Brick |
 | 34 | 40 | Tyra Brooke Everman Forest |
 | 35 | 39 | Anthony Kollar |
-| 36 | 38 | Charity Thomas |
-| 37 | 38 | Jonathan Hewitt |
-| 38 | 37 | Dana Fontanez |
-| 39 | 37 | Cail |
+| 36 | 38 | Jonathan Hewitt |
+| 37 | 38 | Charity Thomas |
+| 38 | 37 | Cail |
+| 39 | 37 | Dana Fontanez |
 | 40 | 36 | Mrs |
 | 41 | 35 | Tactical_B |
 | 42 | 34 | jojo |
 | 43 | 34 | Clashy |
 | 44 | 33 | Lul Babie |
 | 45 | 31 | Jasmine Marie |
-| 46 | 30 | Nicole Colby McCloskey |
-| 47 | 30 | Will E Ayala |
-| 48 | 30 | Sarah Berry Stevens |
+| 46 | 30 | Will E Ayala |
+| 47 | 30 | Sarah Berry Stevens |
+| 48 | 30 | Nicole Colby McCloskey |
 | 49 | 29 | Joseph Hunter |
 | 50 | 28 | Sandra O'Reilly |
-| 51 | 28 | Melissa Schwager |
-| 52 | 28 | Laurie Patrick |
+| 51 | 28 | Laurie Patrick |
+| 52 | 28 | Melissa Schwager |
 | 53 | 27 | ktothet |
-| 54 | 25 | Andrea Dre Lomeli |
-| 55 | 25 | Маркус Вік |
+| 54 | 25 | Маркус Вік |
+| 55 | 25 | Andrea Dre Lomeli |
 | 56 | 24 | smarty |
-| 57 | 23 | Stasia |
+| 57 | 23 | Zippy Snaplink |
 | 58 | 23 | Melissa Quinn |
-| 59 | 23 | Zippy Snaplink |
+| 59 | 23 | Stasia |
 | 60 | 22 | Saul Fajardo |
 | 61 | 21 | Keesha Muro |
 | 62 | 21 | Playa |
-| 63 | 20 | Mexican130 |
-| 64 | 20 | Taz |
+| 63 | 21 | Lush Fitblock |
+| 64 | 20 | Betsy Froemming |
 | 65 | 20 | Erica Pompey |
-| 66 | 20 | Betsy Froemming |
-| 67 | 20 | Magz |
-| 68 | 19 | Swanky Matchfit |
+| 66 | 20 | Taz |
+| 67 | 20 | Mexican130 |
+| 68 | 20 | Magz |
 | 69 | 19 | Becky McCool |
-| 70 | 18 | Iforget |
-| 71 | 18 | Nancy McCalla Abercrombie |
-| 72 | 17 | Breezy Blockzone |
-| 73 | 16 | George Palacios |
-| 74 | 15 | Joshua Garner |
-| 75 | 15 | Lush Fitblock |
+| 70 | 19 | Swanky Matchfit |
+| 71 | 18 | Iforget |
+| 72 | 18 | Nancy McCalla Abercrombie |
+| 73 | 17 | Breezy Blockzone |
+| 74 | 16 | George Palacios |
+| 75 | 15 | Joshua Garner |
 | 76 | 15 | Hasty Dropzone |
 | 77 | 15 | Perry Ransom |
 | 78 | 15 | Jonelle Jacobs |
-| 79 | 13 | Cherry |
-| 80 | 13 | Catherine Garza |
+| 79 | 13 | Catherine Garza |
+| 80 | 13 | Cherry |
 | 81 | 13 | GingaNinja |
 | 82 | 13 | Karen Rodriguez |
 | 83 | 12 | Alizabeth Garcia |
 | 84 | 12 | Fancy Tilefall |
 | 85 | 11 | Marina |
 | 86 | 11 | Samara Garcia |
-| 87 | 10 | John Wertz |
-| 88 | 10 | Lateasha Wildman |
-| 89 | 10 | Buchanon Bossingup Jadrienne |
-| 90 | 10 | Miguel Teixeira |
-| 91 | 10 | JP Chua |
-| 92 | 10 | Loony Edge |
-| 93 | 10 | Britney Kitora |
-| 94 | 9 | Esmond Johnson IV |
-| 95 | 9 | Hotstuff |
-| 96 | 9 | Cheeky Fallzone |
-| 97 | 9 | blockhead |
-| 98 | 9 | Dheeh Robles |
-| 99 | 9 | Angela Adamo-Tash |
+| 87 | 10 | Miguel Teixeira |
+| 88 | 10 | Buchanon Bossingup Jadrienne |
+| 89 | 10 | Lateasha Wildman |
+| 90 | 10 | Britney Kitora |
+| 91 | 10 | Loony Edge |
+| 92 | 10 | John Wertz |
+| 93 | 10 | JP Chua |
+| 94 | 9 | Cheeky Fallzone |
+| 95 | 9 | Esmond Johnson IV |
+| 96 | 9 | Angela Adamo-Tash |
+| 97 | 9 | Dheeh Robles |
+| 98 | 9 | blockhead |
+| 99 | 9 | Hotstuff |
 | 100 | 8 | Sisi RedVelvet Reneè |
 | 101 | 7 | Erica Armstrong Baz |
-| 102 | 6 | Frothy Riseclear |
+| 102 | 6 | Deb 07 |
 | 103 | 6 | Dizzy |
-| 104 | 6 | Deb 07 |
-| 105 | 5 | Zappy Matchgrid |
-| 106 | 5 | Tippet |
-| 107 | 5 | Rachel |
-| 108 | 5 | Mighty1 |
-| 109 | 5 | Ricky Colvin |
-| 110 | 5 | Swanky Zigzag |
-| 111 | 5 | Lively Cascadeclear |
-| 112 | 5 | Cflixer |
-| 113 | 5 | Jeremy Barry |
-| 114 | 5 | Jason Garnatz |
-| 115 | 5 | SweetChaos |
+| 104 | 6 | Futrell Brent |
+| 105 | 6 | Frothy Riseclear |
+| 106 | 5 | Jeremy Barry |
+| 107 | 5 | Lively Cascadeclear |
+| 108 | 5 | Swanky Zigzag |
+| 109 | 5 | Cflixer |
+| 110 | 5 | Jason Garnatz |
+| 111 | 5 | Ricky Colvin |
+| 112 | 5 | Mighty1 |
+| 113 | 5 | Rachel |
+| 114 | 5 | Tippet |
+| 115 | 5 | Zappy Matchgrid |
+| 116 | 5 | SweetChaos |
 
 ---
 *Standings created by tournaments datasource generation tool*
