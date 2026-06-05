@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 15:56:14 UTC
+# Standings for team4 as of 2026-06-05 15:56:35 UTC
 
 **Total Participants:** 246
 
@@ -35,10 +35,10 @@
 | 27 | 159 | iiPurgeV2 |
 | 28 | 149 | Danny Ortiz |
 | 29 | 148 | Colin |
-| 30 | 138 | Adam J Leong |
-| 31 | 125 | Leslie Ann Carter |
-| 32 | 121 | Ryan Paul Clark-Ramsey |
-| 33 | 118 | RotatedWrongAgain |
+| 30 | 138 | RotatedWrongAgain |
+| 31 | 138 | Adam J Leong |
+| 32 | 125 | Leslie Ann Carter |
+| 33 | 121 | Ryan Paul Clark-Ramsey |
 | 34 | 108 | Debby Ruof |
 | 35 | 107 | Real Talk Vibes |
 | 36 | 107 | Shayna Vaigneur-Hall |

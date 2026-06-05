@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 15:56:14 UTC
+# Standings for team2 as of 2026-06-05 15:56:35 UTC
 
 **Total Participants:** 276
 
@@ -255,15 +255,15 @@
 | 247 | 7 | Rae |
 | 248 | 7 | Nova Nova |
 | 249 | 7 | Kelli Pazour |
-| 250 | 7 | Cherica Taylor |
-| 251 | 7 | Happy Curvebuilder |
-| 252 | 7 | nova |
-| 253 | 7 | Jackie Hayslip |
-| 254 | 7 | Epic Framezone |
-| 255 | 7 | Tashamonique Puckey |
-| 256 | 7 | Elizabeth Elaine Coursey |
-| 257 | 7 | michael |
-| 258 | 6 | Lush Party |
+| 250 | 7 | Lush Party |
+| 251 | 7 | Cherica Taylor |
+| 252 | 7 | Happy Curvebuilder |
+| 253 | 7 | nova |
+| 254 | 7 | Jackie Hayslip |
+| 255 | 7 | Epic Framezone |
+| 256 | 7 | Tashamonique Puckey |
+| 257 | 7 | Elizabeth Elaine Coursey |
+| 258 | 7 | michael |
 | 259 | 6 | Gina Leal |
 | 260 | 6 | Kelly Christine Trimmer |
 | 261 | 6 | Fran Gerebics |
