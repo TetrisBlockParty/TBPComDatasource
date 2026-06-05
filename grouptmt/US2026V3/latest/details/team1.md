@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 12:17:12 UTC
+# Standings for team1 as of 2026-06-05 12:18:12 UTC
 
-**Total Participants:** 17
+**Total Participants:** 18
 
 ## Participant Scores
 
@@ -10,19 +10,20 @@
 | 2 | 749 | Aviv Zehavi |
 | 3 | 450 | Chandler Spencer |
 | 4 | 125 | Gotcha |
-| 5 | 83 | Debbie Carswell |
+| 5 | 85 | Debbie Carswell |
 | 6 | 60 | Rachel Zimmerman |
 | 7 | 60 | Asani CHumba |
 | 8 | 48 | Amber Wilson |
 | 9 | 40 | Leavon Smith |
-| 10 | 30 | Lester Malone |
-| 11 | 18 | Tanisha Taylor |
-| 12 | 17 | Chris Russell |
+| 10 | 37 | Chris Russell |
+| 11 | 30 | Lester Malone |
+| 12 | 18 | Tanisha Taylor |
 | 13 | 17 | Jai |
 | 14 | 16 | Mafio SO |
 | 15 | 15 | Tami Spence |
 | 16 | 10 | Sarah Marie |
 | 17 | 9 | Saucy Crusher |
+| 18 | 6 | Jenni |
 
 ---
 *Standings created by tournaments datasource generation tool*

@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-05 12:17:12 UTC
+# Standings for team2 as of 2026-06-05 12:18:12 UTC
 
-**Total Participants:** 18
+**Total Participants:** 20
 
 ## Participant Scores
 
@@ -16,14 +16,16 @@
 | 8 | 20 | IncrediDragon |
 | 9 | 20 | Michelle Anne |
 | 10 | 12 | Mary |
-| 11 | 10 | Jgato |
-| 12 | 9 | Michael Carmichael |
-| 13 | 8 | Damion Morrison |
-| 14 | 7 | Peter Fogg |
-| 15 | 6 | fancypants |
-| 16 | 5 | Devon |
-| 17 | 5 | Thy Bui |
-| 18 | 5 | Tashamonique Puckey |
+| 11 | 10 | Twisty Snapmatch |
+| 12 | 10 | Jgato |
+| 13 | 9 | Michael Carmichael |
+| 14 | 8 | Damion Morrison |
+| 15 | 7 | Peter Fogg |
+| 16 | 6 | fancypants |
+| 17 | 5 | Devon |
+| 18 | 5 | LittleHippoEars |
+| 19 | 5 | Tashamonique Puckey |
+| 20 | 5 | Thy Bui |
 
 ---
 *Standings created by tournaments datasource generation tool*
