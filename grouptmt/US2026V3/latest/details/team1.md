@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:12:12 UTC
+# Standings for team1 as of 2026-06-05 13:12:34 UTC
 
 **Total Participants:** 102
 
@@ -72,38 +72,38 @@
 | 64 | 19 | Brenda Malachi-butler |
 | 65 | 18 | AleahKCH |
 | 66 | 18 | Tyree Tman Shinette |
-| 67 | 18 | Brian Bohanon II |
-| 68 | 18 | David Fuentes |
+| 67 | 18 | David Fuentes |
+| 68 | 18 | Brian Bohanon II |
 | 69 | 17 | Rikki Moran |
 | 70 | 17 | Kimberly Red |
 | 71 | 16 | Sylvia Offically A Mcgowan |
-| 72 | 15 | Hasty Pivoty |
-| 73 | 15 | Ashley MyBeauty Daniels |
-| 74 | 15 | Tami Spence |
-| 75 | 15 | Una |
-| 76 | 14 | Alyssa Rae |
-| 77 | 14 | David A Alvino |
-| 78 | 14 | Tobey Marberry |
+| 72 | 15 | Una |
+| 73 | 15 | Tami Spence |
+| 74 | 15 | Hasty Pivoty |
+| 75 | 15 | Ashley MyBeauty Daniels |
+| 76 | 14 | David A Alvino |
+| 77 | 14 | Tobey Marberry |
+| 78 | 14 | Alyssa Rae |
 | 79 | 13 | Oaklonboy mike |
 | 80 | 12 | MsBobby Patrick |
 | 81 | 12 | Kimmie Gargano |
 | 82 | 11 | Desiree Ryder |
-| 83 | 10 | Sarah Marie |
-| 84 | 10 | Daddy |
-| 85 | 10 | 신재호 |
-| 86 | 10 | Keke |
-| 87 | 10 | Tishauna Virgo |
-| 88 | 10 | Megan Payette |
-| 89 | 9 | Kimberly Hernandez |
-| 90 | 9 | Tina Criam |
-| 91 | 9 | IThinkNot |
-| 92 | 8 | Boldy Pivoty |
+| 83 | 10 | 신재호 |
+| 84 | 10 | Boldy Pivoty |
+| 85 | 10 | Daddy |
+| 86 | 10 | Sarah Marie |
+| 87 | 10 | Keke |
+| 88 | 10 | Tishauna Virgo |
+| 89 | 10 | Megan Payette |
+| 90 | 9 | Kimberly Hernandez |
+| 91 | 9 | Tina Criam |
+| 92 | 9 | IThinkNot |
 | 93 | 8 | Brika Brika |
 | 94 | 8 | Sammie Walker |
 | 95 | 7 | Kendra McIntyre |
 | 96 | 7 | Mary2 |
-| 97 | 6 | Janine Hunter |
-| 98 | 6 | Jayjay Rich |
+| 97 | 6 | Jayjay Rich |
+| 98 | 6 | Janine Hunter |
 | 99 | 5 | Jennifer Moore |
 | 100 | 5 | Cheeky Pop |
 | 101 | 5 | Derek Beverly |
