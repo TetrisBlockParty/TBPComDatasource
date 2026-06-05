@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 12:30:36 UTC
+# Standings for team2 as of 2026-06-05 12:31:12 UTC
 
 **Total Participants:** 40
 
@@ -18,8 +18,8 @@
 | 10 | 33 | Tango Sierra |
 | 11 | 30 | Patti Ward |
 | 12 | 27 | Michael Carmichael |
-| 13 | 26 | Ariel Gundersen |
-| 14 | 26 | Rachel Huber |
+| 13 | 26 | Rachel Huber |
+| 14 | 26 | Ariel Gundersen |
 | 15 | 25 | Jgato |
 | 16 | 23 | Damion Morrison |
 | 17 | 23 | IncrediDragon |
@@ -29,23 +29,23 @@
 | 21 | 15 | Jason Cunningham |
 | 22 | 12 | Stacey Loretta Wallace |
 | 23 | 12 | Mary |
-| 24 | 11 | Thy Bui |
-| 25 | 11 | Lora Via |
-| 26 | 10 | Berta Hurley |
-| 27 | 10 | Joyce Galloway |
-| 28 | 10 | Twisty Snapmatch |
+| 24 | 11 | Lora Via |
+| 25 | 11 | Thy Bui |
+| 26 | 10 | Twisty Snapmatch |
+| 27 | 10 | Berta Hurley |
+| 28 | 10 | Joyce Galloway |
 | 29 | 10 | Bon Lynn |
 | 30 | 10 | Amanda Sikes |
 | 31 | 9 | Darla Ragsdale |
 | 32 | 9 | Mama G |
-| 33 | 7 | Peter Fogg |
-| 34 | 7 | Cherica Taylor |
+| 33 | 7 | Cherica Taylor |
+| 34 | 7 | Peter Fogg |
 | 35 | 6 | fancypants |
 | 36 | 5 | LittleHippoEars |
-| 37 | 5 | Tashamonique Puckey |
-| 38 | 5 | Gill |
-| 39 | 5 | Allison Peterson |
-| 40 | 5 | Devon |
+| 37 | 5 | Devon |
+| 38 | 5 | Allison Peterson |
+| 39 | 5 | Gill |
+| 40 | 5 | Tashamonique Puckey |
 
 ---
 *Standings created by tournaments datasource generation tool*

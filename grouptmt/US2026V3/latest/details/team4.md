@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-06-05 12:30:36 UTC
+# Standings for team4 as of 2026-06-05 12:31:12 UTC
 
-**Total Participants:** 38
+**Total Participants:** 39
 
 ## Participant Scores
 
@@ -30,20 +30,21 @@
 | 22 | 14 | Jonathan Hewitt |
 | 23 | 13 | Nancy McCalla Abercrombie |
 | 24 | 13 | Cherry |
-| 25 | 12 | Blockcrusher |
-| 26 | 12 | Erica Pompey |
+| 25 | 12 | Erica Pompey |
+| 26 | 12 | Blockcrusher |
 | 27 | 12 | Jasmine Marie |
-| 28 | 10 | Hasty Dropzone |
-| 29 | 10 | Buchanon Bossingup Jadrienne |
+| 28 | 10 | Buchanon Bossingup Jadrienne |
+| 29 | 10 | Hasty Dropzone |
 | 30 | 9 | Hotstuff |
 | 31 | 8 | Iforget |
 | 32 | 7 | George Palacios |
 | 33 | 6 | Dizzy |
 | 34 | 6 | Zippy Snaplink |
-| 35 | 5 | Jonelle Jacobs |
-| 36 | 5 | Jason Garnatz |
-| 37 | 5 | Laurie Patrick |
-| 38 | 5 | Cflixer |
+| 35 | 5 | Mighty1 |
+| 36 | 5 | Cflixer |
+| 37 | 5 | Jonelle Jacobs |
+| 38 | 5 | Laurie Patrick |
+| 39 | 5 | Jason Garnatz |
 
 ---
 *Standings created by tournaments datasource generation tool*

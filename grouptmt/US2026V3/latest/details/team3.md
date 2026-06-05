@@ -1,6 +1,6 @@
-# Standings for team3 as of 2026-06-05 12:30:36 UTC
+# Standings for team3 as of 2026-06-05 12:31:12 UTC
 
-**Total Participants:** 65
+**Total Participants:** 66
 
 ## Participant Scores
 
@@ -22,12 +22,12 @@
 | 14 | 50 | Adam Bronk |
 | 15 | 41 | Crystal Carlson |
 | 16 | 40 | Jerome Carlile |
-| 17 | 35 | Rebecca Alidre Holmes-Anderson |
-| 18 | 35 | Paul Hudak |
+| 17 | 35 | Paul Hudak |
+| 18 | 35 | Rebecca Alidre Holmes-Anderson |
 | 19 | 33 | Raya |
 | 20 | 32 | Dedicated |
-| 21 | 30 | Christopher Kissiah |
-| 22 | 30 | Lively Matchpiece |
+| 21 | 32 | Lively Matchpiece |
+| 22 | 30 | Christopher Kissiah |
 | 23 | 28 | Carolyn Smith |
 | 24 | 28 | Jessica Biggs |
 | 25 | 27 | creepy paper |
@@ -40,37 +40,38 @@
 | 32 | 18 | ToxicTrinity |
 | 33 | 15 | Quirky Curve |
 | 34 | 15 | kittensden |
-| 35 | 14 | Laura Slusher Updike |
-| 36 | 14 | Sara Pederson |
+| 35 | 14 | Sara Pederson |
+| 36 | 14 | Laura Slusher Updike |
 | 37 | 13 | Raven Rogue |
-| 38 | 12 | Nonni |
-| 39 | 12 | Wacky Catcher |
-| 40 | 12 | Jonathan Russell |
-| 41 | 12 | Robby Beltran |
-| 42 | 12 | Boldy Cornerfall |
-| 43 | 12 | Violet |
-| 44 | 11 | Lisa Stone |
-| 45 | 11 | Happy Balancer |
-| 46 | 11 | Carrie Ness |
-| 47 | 10 | Giddy Shift |
-| 48 | 10 | kendra |
+| 38 | 12 | kendra |
+| 39 | 12 | Nonni |
+| 40 | 12 | Wacky Catcher |
+| 41 | 12 | Nette Babi |
+| 42 | 12 | Jonathan Russell |
+| 43 | 12 | Boldy Cornerfall |
+| 44 | 12 | Robby Beltran |
+| 45 | 12 | Violet |
+| 46 | 11 | Lisa Stone |
+| 47 | 11 | Happy Balancer |
+| 48 | 11 | Carrie Ness |
 | 49 | 10 | Shabae |
-| 50 | 9 | Jess Jess |
-| 51 | 9 | Angie Rodriguez |
-| 52 | 9 | Sarah Jane |
-| 53 | 9 | VOID EDGE |
-| 54 | 9 | Salky |
-| 55 | 9 | Tnaughty |
-| 56 | 8 | David Glisson |
+| 50 | 10 | Giddy Shift |
+| 51 | 9 | Tnaughty |
+| 52 | 9 | Jess Jess |
+| 53 | 9 | Angie Rodriguez |
+| 54 | 9 | Sarah Jane |
+| 55 | 9 | VOID EDGE |
+| 56 | 9 | Salky |
 | 57 | 8 | Sarah Cruthirds |
-| 58 | 7 | Loony Rollfit |
-| 59 | 7 | DShark72 |
-| 60 | 6 | Kimberly Kupke |
-| 61 | 6 | bt |
-| 62 | 5 | Funky Fall |
-| 63 | 5 | Garrett Hofmann |
-| 64 | 5 | Victoria Lofquist |
+| 58 | 8 | David Glisson |
+| 59 | 7 | Loony Rollfit |
+| 60 | 7 | DShark72 |
+| 61 | 7 | Funky Fall |
+| 62 | 6 | bt |
+| 63 | 6 | Kimberly Kupke |
+| 64 | 5 | Garrett Hofmann |
 | 65 | 5 | KAR |
+| 66 | 5 | Victoria Lofquist |
 
 ---
 *Standings created by tournaments datasource generation tool*
