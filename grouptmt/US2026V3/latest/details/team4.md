@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 12:20:33 UTC
+# Standings for team4 as of 2026-06-05 12:21:12 UTC
 
 **Total Participants:** 25
 
@@ -6,12 +6,12 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 240 | Carly Stempien |
+| 1 | 260 | Carly Stempien |
 | 2 | 129 | Lynn Grimes |
 | 3 | 106 | Cinny |
 | 4 | 100 | Candice Driver |
 | 5 | 59 | Shayna Vaigneur-Hall |
-| 6 | 40 | Real Talk Vibes |
+| 6 | 46 | Real Talk Vibes |
 | 7 | 40 | Keys Tome |
 | 8 | 38 | Charity Thomas |
 | 9 | 34 | jojo |
@@ -24,11 +24,11 @@
 | 16 | 13 | Nancy McCalla Abercrombie |
 | 17 | 11 | Cherry |
 | 18 | 10 | Shiny Brick |
-| 19 | 10 | Janae Harris |
-| 20 | 9 | Kim |
-| 21 | 9 | smarty |
-| 22 | 9 | Hotstuff |
-| 23 | 7 | Hasty Dropzone |
+| 19 | 10 | Hasty Dropzone |
+| 20 | 10 | Janae Harris |
+| 21 | 9 | Kim |
+| 22 | 9 | smarty |
+| 23 | 9 | Hotstuff |
 | 24 | 6 | Jasmine Marie |
 | 25 | 5 | Cflixer |
 

@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 12:20:33 UTC
+# Standings for team1 as of 2026-06-05 12:21:12 UTC
 
-**Total Participants:** 21
+**Total Participants:** 22
 
 ## Participant Scores
 
@@ -16,17 +16,18 @@
 | 8 | 48 | Amber Wilson |
 | 9 | 40 | Leavon Smith |
 | 10 | 37 | Chris Russell |
-| 11 | 30 | Slinky Party |
-| 12 | 30 | Lester Malone |
+| 11 | 30 | Lester Malone |
+| 12 | 30 | Slinky Party |
 | 13 | 18 | Tanisha Taylor |
-| 14 | 17 | Jai |
-| 15 | 16 | Mafio SO |
-| 16 | 15 | Tami Spence |
-| 17 | 10 | Sarah Marie |
-| 18 | 10 | Kimmie Gargano |
-| 19 | 9 | Saucy Crusher |
-| 20 | 7 | Mary2 |
-| 21 | 6 | Jenni |
+| 14 | 17 | Saucy Crusher |
+| 15 | 17 | Jai |
+| 16 | 16 | Jenni |
+| 17 | 16 | Mafio SO |
+| 18 | 15 | Tami Spence |
+| 19 | 10 | Shontanese Adams |
+| 20 | 10 | Sarah Marie |
+| 21 | 10 | Kimmie Gargano |
+| 22 | 7 | Mary2 |
 
 ---
 *Standings created by tournaments datasource generation tool*
