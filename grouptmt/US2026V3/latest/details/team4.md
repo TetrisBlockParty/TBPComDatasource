@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 19:26:36 UTC
+# Standings for team4 as of 2026-06-05 19:27:14 UTC
 
 **Total Participants:** 396
 
@@ -69,25 +69,25 @@
 | 61 | 101 | Fruitpunch |
 | 62 | 100 | Cal Renee |
 | 63 | 100 | woopa 716 |
-| 64 | 99 | Shelby |
-| 65 | 91 | Dayna Arthurs |
-| 66 | 89 | Waxboss |
-| 67 | 87 | Limbo |
-| 68 | 86 | Rachel Lemos |
-| 69 | 86 | Lisa Garcia |
-| 70 | 85 | Daryn Elliott |
-| 71 | 85 | Renee Sapp |
-| 72 | 84 | Krysten Danielle Richard |
+| 64 | 99 | Lani |
+| 65 | 99 | Shelby |
+| 66 | 91 | Dayna Arthurs |
+| 67 | 89 | Waxboss |
+| 68 | 87 | Limbo |
+| 69 | 86 | Rachel Lemos |
+| 70 | 86 | Lisa Garcia |
+| 71 | 85 | Daryn Elliott |
+| 72 | 85 | Renee Sapp |
 | 73 | 84 | Rae Saunders |
-| 74 | 84 | Hwanger Land |
-| 75 | 82 | Codey Haffner |
-| 76 | 81 | Dominique Melendez |
-| 77 | 80 | MrLoner Stoner |
-| 78 | 80 | Krista Diaz |
-| 79 | 80 | Sarah Berry Stevens |
-| 80 | 79 | Joyce Myers |
-| 81 | 79 | Luna |
-| 82 | 79 | Lani |
+| 74 | 84 | Krysten Danielle Richard |
+| 75 | 84 | Hwanger Land |
+| 76 | 82 | Codey Haffner |
+| 77 | 81 | Dominique Melendez |
+| 78 | 80 | MrLoner Stoner |
+| 79 | 80 | Krista Diaz |
+| 80 | 80 | Sarah Berry Stevens |
+| 81 | 79 | Joyce Myers |
+| 82 | 79 | Luna |
 | 83 | 78 | Tina Thomas |
 | 84 | 76 | Justin Michael |
 | 85 | 75 | June Hoffman |
@@ -355,30 +355,30 @@
 | 347 | 9 | Esmond Johnson IV |
 | 348 | 9 | Stotty |
 | 349 | 9 | Hotstuff |
-| 350 | 9 | Chirpy Snapclear |
-| 351 | 9 | Cheeky Fallzone |
-| 352 | 9 | Frothy Riseclear |
-| 353 | 9 | Angela Adamo-Tash |
-| 354 | 9 | Alex Dawn |
-| 355 | 9 | Corie A. Brinson |
-| 356 | 9 | Todd Hamilton |
+| 350 | 9 | Cheeky Fallzone |
+| 351 | 9 | Frothy Riseclear |
+| 352 | 9 | Angela Adamo-Tash |
+| 353 | 9 | Alex Dawn |
+| 354 | 9 | fmp |
+| 355 | 9 | Chirpy Snapclear |
+| 356 | 9 | Corie A. Brinson |
 | 357 | 9 | DuvaDova Ahava |
-| 358 | 8 | Stephanie Williams |
-| 359 | 8 | Allysonjo Varela |
+| 358 | 9 | Todd Hamilton |
+| 359 | 8 | yourmomz |
 | 360 | 8 | tj |
-| 361 | 8 | Matthew Wilcox |
-| 362 | 8 | Kay |
-| 363 | 8 | taya |
-| 364 | 8 | yourmomz |
-| 365 | 8 | Mac James |
-| 366 | 7 | Blessedmom865 |
-| 367 | 7 | Christy Petty |
-| 368 | 7 | John Brandon Kinney |
-| 369 | 7 | Sharron Mullins |
-| 370 | 7 | Chipper Hitter |
-| 371 | 7 | SupaFly |
-| 372 | 7 | Crystal Parker Bryant |
-| 373 | 7 | fmp |
+| 361 | 8 | Allysonjo Varela |
+| 362 | 8 | taya |
+| 363 | 8 | Matthew Wilcox |
+| 364 | 8 | Kay |
+| 365 | 8 | Stephanie Williams |
+| 366 | 8 | Mac James |
+| 367 | 7 | Blessedmom865 |
+| 368 | 7 | Christy Petty |
+| 369 | 7 | John Brandon Kinney |
+| 370 | 7 | Sharron Mullins |
+| 371 | 7 | Chipper Hitter |
+| 372 | 7 | SupaFly |
+| 373 | 7 | Crystal Parker Bryant |
 | 374 | 7 | Erica Armstrong Baz |
 | 375 | 7 | Lacey Decker |
 | 376 | 6 | Rachel |
