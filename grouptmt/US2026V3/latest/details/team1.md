@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 13:18:36 UTC
+# Standings for team1 as of 2026-06-05 13:19:14 UTC
 
-**Total Participants:** 105
+**Total Participants:** 106
 
 ## Participant Scores
 
@@ -47,34 +47,34 @@
 | 39 | 38 | rls |
 | 40 | 37 | Lootch |
 | 41 | 35 | Saucy Crusher |
-| 42 | 35 | Dai Bo |
+| 42 | 35 | KoolKimJay |
 | 43 | 35 | Lilly Brown |
-| 44 | 35 | KoolKimJay |
-| 45 | 30 | Saucy Faller |
-| 46 | 30 | Lester Malone |
+| 44 | 35 | Dai Bo |
+| 45 | 30 | Lester Malone |
+| 46 | 30 | Saucy Faller |
 | 47 | 28 | John Staub |
-| 48 | 27 | Jae Thompson-Tyus |
-| 49 | 27 | Angela R Wilson |
-| 50 | 27 | Charlene Baltimore |
-| 51 | 27 | Zany Breaker |
-| 52 | 27 | Steve Reno |
-| 53 | 25 | Tyrone Porter |
-| 54 | 25 | Yashica Smith |
-| 55 | 23 | David Fuentes |
-| 56 | 23 | Poppy Twister |
+| 48 | 27 | Charlene Baltimore |
+| 49 | 27 | Jae Thompson-Tyus |
+| 50 | 27 | Steve Reno |
+| 51 | 27 | Angela R Wilson |
+| 52 | 27 | Zany Breaker |
+| 53 | 25 | Yashica Smith |
+| 54 | 25 | Tyrone Porter |
+| 55 | 23 | Poppy Twister |
+| 56 | 23 | David Fuentes |
 | 57 | 22 | Tanisha Taylor |
 | 58 | 21 | Brave Balanceblock |
 | 59 | 20 | Trina Greenwood |
-| 60 | 20 | Chevalier Burley |
-| 61 | 20 | Jai |
-| 62 | 19 | Amanda Woodruff |
-| 63 | 19 | Shanjerrica Taylor Rosell |
-| 64 | 19 | Jenni |
+| 60 | 20 | Jai |
+| 61 | 20 | Chevalier Burley |
+| 62 | 19 | Shanjerrica Taylor Rosell |
+| 63 | 19 | Jenni |
+| 64 | 19 | Amanda Woodruff |
 | 65 | 19 | Brenda Malachi-butler |
-| 66 | 18 | Brian Bohanon II |
-| 67 | 18 | Hasty Pivoty |
-| 68 | 18 | Tyree Tman Shinette |
-| 69 | 18 | Sunny Clicky |
+| 66 | 18 | Sunny Clicky |
+| 67 | 18 | Brian Bohanon II |
+| 68 | 18 | Hasty Pivoty |
+| 69 | 18 | Tyree Tman Shinette |
 | 70 | 18 | AleahKCH |
 | 71 | 17 | Tobey Marberry |
 | 72 | 17 | Rikki Moran |
@@ -87,8 +87,8 @@
 | 79 | 14 | Alyssa Rae |
 | 80 | 14 | David A Alvino |
 | 81 | 13 | Oaklonboy mike |
-| 82 | 12 | Kimmie Gargano |
-| 83 | 12 | Boldy Pivoty |
+| 82 | 12 | Boldy Pivoty |
+| 83 | 12 | Kimmie Gargano |
 | 84 | 11 | Desiree Ryder |
 | 85 | 10 | Megan Payette |
 | 86 | 10 | 신재호 |
@@ -99,18 +99,19 @@
 | 91 | 9 | Kimberly Hernandez |
 | 92 | 9 | Tina Criam |
 | 93 | 9 | IThinkNot |
-| 94 | 8 | Brika Brika |
-| 95 | 8 | Sammie Walker |
-| 96 | 7 | Kendra McIntyre |
-| 97 | 7 | Mary2 |
-| 98 | 6 | Janine Hunter |
-| 99 | 6 | Taz Ballard |
-| 100 | 6 | Jayjay Rich |
-| 101 | 5 | Cheeky Pop |
+| 94 | 9 | Tamara N Lee |
+| 95 | 8 | Brika Brika |
+| 96 | 8 | Sammie Walker |
+| 97 | 7 | Kendra McIntyre |
+| 98 | 7 | Mary2 |
+| 99 | 6 | Janine Hunter |
+| 100 | 6 | Taz Ballard |
+| 101 | 6 | Jayjay Rich |
 | 102 | 5 | Derek Beverly |
 | 103 | 5 | Jennifer Moore |
 | 104 | 5 | Tony P Burke |
 | 105 | 5 | Shakmar |
+| 106 | 5 | Cheeky Pop |
 
 ---
 *Standings created by tournaments datasource generation tool*
