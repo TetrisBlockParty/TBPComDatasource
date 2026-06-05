@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 17:14:13 UTC
+# Standings for team4 as of 2026-06-05 17:14:36 UTC
 
 **Total Participants:** 308
 
@@ -42,8 +42,8 @@
 | 34 | 159 | iiPurgeV2 |
 | 35 | 149 | Danny Ortiz |
 | 36 | 148 | Colin |
-| 37 | 138 | RotatedWrongAgain |
-| 38 | 138 | Adam J Leong |
+| 37 | 138 | Adam J Leong |
+| 38 | 138 | RotatedWrongAgain |
 | 39 | 125 | Leslie Ann Carter |
 | 40 | 121 | Ryan Paul Clark-Ramsey |
 | 41 | 120 | Shmeedo |

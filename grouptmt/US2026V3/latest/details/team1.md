@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:14:13 UTC
+# Standings for team1 as of 2026-06-05 17:14:36 UTC
 
 **Total Participants:** 327
 
@@ -13,7 +13,7 @@
 | 5 | 950 | Chandler Spencer |
 | 6 | 825 | Chris Russell |
 | 7 | 749 | Aviv Zehavi |
-| 8 | 601 | Cozy Edge |
+| 8 | 649 | Cozy Edge |
 | 9 | 580 | Janet Cooke |
 | 10 | 544 | Carrie English |
 | 11 | 523 | Charnay Peacock |
@@ -232,28 +232,28 @@
 | 224 | 19 | Jenni |
 | 225 | 18 | AleahKCH |
 | 226 | 18 | Sunny Clicky |
-| 227 | 18 | Danny M GR |
-| 228 | 18 | Ounquan Wright |
-| 229 | 18 | Tyree Tman Shinette |
-| 230 | 17 | Kimberly Red |
-| 231 | 17 | Rikki Moran |
-| 232 | 17 | Kimberly Hernandez |
-| 233 | 17 | Elizabeth Vega Coreano |
-| 234 | 16 | MsBobby Patrick |
-| 235 | 16 | Desiree Ryder |
-| 236 | 16 | Jason Mungin |
-| 237 | 16 | Kimberly Anderson |
-| 238 | 16 | Jumpy Gridlock |
-| 239 | 16 | Sunny Tumbler |
-| 240 | 16 | Tanisha Robinson |
-| 241 | 15 | Tami Spence |
-| 242 | 15 | Amy Lynn Leifheit |
-| 243 | 15 | Jess |
-| 244 | 15 | Elaine Youmans |
-| 245 | 15 | Lit757 |
+| 227 | 18 | Una |
+| 228 | 18 | Danny M GR |
+| 229 | 18 | Ounquan Wright |
+| 230 | 18 | Tyree Tman Shinette |
+| 231 | 17 | Kimberly Red |
+| 232 | 17 | Rikki Moran |
+| 233 | 17 | Kimberly Hernandez |
+| 234 | 17 | Elizabeth Vega Coreano |
+| 235 | 16 | MsBobby Patrick |
+| 236 | 16 | Desiree Ryder |
+| 237 | 16 | Jason Mungin |
+| 238 | 16 | Kimberly Anderson |
+| 239 | 16 | Jumpy Gridlock |
+| 240 | 16 | Sunny Tumbler |
+| 241 | 16 | Tanisha Robinson |
+| 242 | 15 | Tami Spence |
+| 243 | 15 | Amy Lynn Leifheit |
+| 244 | 15 | Jess |
+| 245 | 15 | Elaine Youmans |
 | 246 | 15 | Clever Fitblock |
-| 247 | 15 | Ta'Kaiyah M. Spann |
-| 248 | 15 | Una |
+| 247 | 15 | Lit757 |
+| 248 | 15 | Ta'Kaiyah M. Spann |
 | 249 | 15 | NastyFriend |
 | 250 | 15 | Delitra Perkins Hatter |
 | 251 | 15 | Hasty Match |
