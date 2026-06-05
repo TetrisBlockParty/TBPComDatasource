@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:02:13 UTC
+# Standings for team1 as of 2026-06-05 13:02:34 UTC
 
 **Total Participants:** 94
 
@@ -10,7 +10,7 @@
 | 2 | 800 | Chandler Spencer |
 | 3 | 749 | Aviv Zehavi |
 | 4 | 366 | Tracy Cohen |
-| 5 | 277 | Chris Russell |
+| 5 | 313 | Chris Russell |
 | 6 | 273 | jaimie |
 | 7 | 241 | Ivana Schmidt |
 | 8 | 203 | Brian Stackhouse |
@@ -18,18 +18,18 @@
 | 10 | 164 | Gotcha |
 | 11 | 141 | Debbie Carswell |
 | 12 | 126 | Cee Emm |
-| 13 | 81 | Mafio SO |
+| 13 | 121 | Janet Cooke |
 | 14 | 81 | Robyn Caldwell |
-| 15 | 80 | Rachel Zimmerman |
-| 16 | 79 | Kellie Hall |
-| 17 | 77 | Amber Wilson |
-| 18 | 74 | ♈️ Ariesbaby |
-| 19 | 67 | Michele Elizabeth McKay-Johnson |
-| 20 | 66 | Shontanese Adams |
-| 21 | 65 | Dizzy Dashy |
-| 22 | 63 | Carrie English |
-| 23 | 60 | Asani CHumba |
-| 24 | 54 | Janet Cooke |
+| 15 | 81 | Mafio SO |
+| 16 | 80 | Rachel Zimmerman |
+| 17 | 79 | Kellie Hall |
+| 18 | 77 | Amber Wilson |
+| 19 | 74 | ♈️ Ariesbaby |
+| 20 | 67 | Michele Elizabeth McKay-Johnson |
+| 21 | 66 | Shontanese Adams |
+| 22 | 65 | Dizzy Dashy |
+| 23 | 63 | Carrie English |
+| 24 | 60 | Asani CHumba |
 | 25 | 50 | Jazzy Dashpiece |
 | 26 | 50 | Slinky Party |
 | 27 | 47 | Tammye Turner |
