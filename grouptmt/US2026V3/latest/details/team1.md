@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 14:38:14 UTC
+# Standings for team1 as of 2026-06-05 14:38:36 UTC
 
 **Total Participants:** 193
 
@@ -21,12 +21,12 @@
 | 13 | 237 | Tammye Turner |
 | 14 | 197 | Pdubbl3 |
 | 15 | 185 | Sarah Marie |
-| 16 | 178 | Gotcha |
-| 17 | 177 | Chris Sladoje |
-| 18 | 170 | Janet Cooke |
-| 19 | 162 | Markeeta Lipscomb |
-| 20 | 160 | Whitney Butler |
-| 21 | 159 | Holly Jolly |
+| 16 | 181 | Holly Jolly |
+| 17 | 178 | Gotcha |
+| 18 | 177 | Chris Sladoje |
+| 19 | 170 | Janet Cooke |
+| 20 | 162 | Markeeta Lipscomb |
+| 21 | 160 | Whitney Butler |
 | 22 | 141 | Debbie Carswell |
 | 23 | 126 | Cee Emm |
 | 24 | 114 | Dacia Hicks |
@@ -73,9 +73,9 @@
 | 65 | 40 | Leavon Smith |
 | 66 | 40 | Char |
 | 67 | 38 | rls |
-| 68 | 37 | Lootch |
-| 69 | 37 | Steve Reno |
-| 70 | 36 | Kahliah Baker |
+| 68 | 38 | Kahliah Baker |
+| 69 | 37 | Lootch |
+| 70 | 37 | Steve Reno |
 | 71 | 35 | Lilly Brown |
 | 72 | 35 | Saucy Crusher |
 | 73 | 35 | KoolKimJay |
