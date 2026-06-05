@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 18:12:13 UTC
+# Standings for team4 as of 2026-06-05 18:12:36 UTC
 
 **Total Participants:** 345
 
@@ -33,12 +33,12 @@
 | 25 | 261 | Real Talk Vibes |
 | 26 | 241 | Giggy Matchpiece |
 | 27 | 240 | Jojo Ann |
-| 28 | 235 | SMV |
-| 29 | 220 | Jesse Olive |
-| 30 | 214 | Sisi RedVelvet Reneè |
-| 31 | 208 | vag1974 |
-| 32 | 200 | Leah Gorsuch |
-| 33 | 200 | Michele Walker |
+| 28 | 240 | Michele Walker |
+| 29 | 235 | SMV |
+| 30 | 220 | Jesse Olive |
+| 31 | 214 | Sisi RedVelvet Reneè |
+| 32 | 208 | vag1974 |
+| 33 | 200 | Leah Gorsuch |
 | 34 | 193 | Andrew Dang |
 | 35 | 169 | Kimyatta Cavin |
 | 36 | 163 | Kim |
