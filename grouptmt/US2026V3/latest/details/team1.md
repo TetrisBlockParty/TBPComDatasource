@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 16:28:13 UTC
+# Standings for team1 as of 2026-06-05 16:28:35 UTC
 
 **Total Participants:** 290
 
@@ -46,7 +46,7 @@
 | 38 | 140 | JoJo |
 | 39 | 135 | Jawaun Daniels |
 | 40 | 126 | Cee Emm |
-| 41 | 112 | Blockhead |
+| 41 | 119 | Blockhead |
 | 42 | 111 | Shalena Marie Humphrey |
 | 43 | 103 | KenpachisGirl |
 | 44 | 100 | Asani CHumba |
@@ -73,8 +73,8 @@
 | 65 | 69 | AF Cruz |
 | 66 | 67 | Michele Elizabeth McKay-Johnson |
 | 67 | 66 | Shontanese Adams |
-| 68 | 65 | Latore Maxie |
-| 69 | 65 | Frisky Fall |
+| 68 | 65 | Frisky Fall |
+| 69 | 65 | Latore Maxie |
 | 70 | 65 | Shanell Thomas |
 | 71 | 63 | Carrie English |
 | 72 | 62 | Cheeky Pop |
@@ -89,38 +89,38 @@
 | 81 | 56 | Dena Marie Lee |
 | 82 | 54 | Lauraly |
 | 83 | 51 | Comedian Gdane |
-| 84 | 50 | Yazz |
-| 85 | 50 | Teresa Yanira Cepeda |
-| 86 | 50 | Dai Bo |
-| 87 | 50 | Slinky Party |
-| 88 | 50 | Donna Payne |
-| 89 | 49 | Sanjuro |
-| 90 | 47 | Hasty Pivoty |
+| 84 | 50 | Slinky Party |
+| 85 | 50 | Dai Bo |
+| 86 | 50 | Hasty Pivoty |
+| 87 | 50 | Donna Payne |
+| 88 | 50 | Teresa Yanira Cepeda |
+| 89 | 50 | Yazz |
+| 90 | 49 | Sanjuro |
 | 91 | 47 | Christopher Dreamsareality McEachin |
-| 92 | 45 | Jayjay Rich |
-| 93 | 45 | Guy Incognito |
+| 92 | 45 | Guy Incognito |
+| 93 | 45 | Jayjay Rich |
 | 94 | 43 | Block |
-| 95 | 42 | sasha |
-| 96 | 42 | Songne Arif |
+| 95 | 42 | Songne Arif |
+| 96 | 42 | sasha |
 | 97 | 41 | Jessica Russell |
-| 98 | 40 | Flashy Slam |
-| 99 | 40 | Jean Regis |
-| 100 | 40 | Nate Myers |
+| 98 | 40 | Nate Myers |
+| 99 | 40 | Flashy Slam |
+| 100 | 40 | Rackemwillie34 |
 | 101 | 40 | Leavon Smith |
-| 102 | 40 | Rackemwillie34 |
-| 103 | 39 | Sabrina Wilkerson |
-| 104 | 39 | JesusSaves 😇 |
+| 102 | 40 | Jean Regis |
+| 103 | 39 | JesusSaves 😇 |
+| 104 | 39 | Sabrina Wilkerson |
 | 105 | 38 | rls |
 | 106 | 38 | Kahliah Baker |
-| 107 | 37 | Steve Reno |
-| 108 | 37 | Cranky Fall |
-| 109 | 37 | Calvin Green |
-| 110 | 37 | Lootch |
-| 111 | 37 | Byron Mario Cawthon |
-| 112 | 37 | IThinkNot |
+| 107 | 37 | Cranky Fall |
+| 108 | 37 | IThinkNot |
+| 109 | 37 | Steve Reno |
+| 110 | 37 | Calvin Green |
+| 111 | 37 | Lootch |
+| 112 | 37 | Byron Mario Cawthon |
 | 113 | 36 | Mic Balew |
-| 114 | 35 | Heather Aurelia |
-| 115 | 35 | HBTone |
+| 114 | 35 | HBTone |
+| 115 | 35 | Heather Aurelia |
 | 116 | 35 | Nerdy Snapfall |
 | 117 | 35 | Saucy Crusher |
 | 118 | 35 | KoolKimJay |
@@ -284,18 +284,18 @@
 | 276 | 6 | Janine Hunter |
 | 277 | 6 | Brittnay Wright |
 | 278 | 5 | Tamika Fisher |
-| 279 | 5 | Derek Beverly |
-| 280 | 5 | Temeshia Brooks Washington |
-| 281 | 5 | KeeKee Williams |
-| 282 | 5 | Stephanie Zuniga Tullock |
-| 283 | 5 | pooh |
-| 284 | 5 | DirtiestofMikes |
-| 285 | 5 | Kidgib5 |
-| 286 | 5 | Jennifer Moore |
-| 287 | 5 | Vernon Hoyt |
-| 288 | 5 | Shawn Himes |
-| 289 | 5 | Zappy Clearfit |
-| 290 | 5 | Lil T |
+| 279 | 5 | Zappy Clearfit |
+| 280 | 5 | Derek Beverly |
+| 281 | 5 | Temeshia Brooks Washington |
+| 282 | 5 | KeeKee Williams |
+| 283 | 5 | Stephanie Zuniga Tullock |
+| 284 | 5 | pooh |
+| 285 | 5 | Lil T |
+| 286 | 5 | DirtiestofMikes |
+| 287 | 5 | Kidgib5 |
+| 288 | 5 | Jennifer Moore |
+| 289 | 5 | Vernon Hoyt |
+| 290 | 5 | Shawn Himes |
 
 ---
 *Standings created by tournaments datasource generation tool*
