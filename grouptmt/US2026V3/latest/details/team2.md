@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 13:50:12 UTC
+# Standings for team2 as of 2026-06-05 13:50:33 UTC
 
 **Total Participants:** 123
 
@@ -94,41 +94,41 @@
 | 86 | 10 | Thomas Johnstone |
 | 87 | 10 | Donna Casey |
 | 88 | 10 | Berta Hurley |
-| 89 | 10 | Missy Savage-Justice |
+| 89 | 10 | Joyce Galloway |
 | 90 | 10 | Carlos J Blas |
-| 91 | 10 | Crystal Owen Yocolano |
+| 91 | 10 | Missy Savage-Justice |
 | 92 | 10 | Becky Kennon |
-| 93 | 10 | SEH |
-| 94 | 10 | Justin Furne |
-| 95 | 10 | Gill |
-| 96 | 10 | Leticia Tillman |
-| 97 | 10 | Jat |
+| 93 | 10 | Jennifer Bell |
+| 94 | 10 | Gill |
+| 95 | 10 | Crystal Owen Yocolano |
+| 96 | 10 | SEH |
+| 97 | 10 | Leticia Tillman |
 | 98 | 10 | Frilly Dashfit |
-| 99 | 10 | Joyce Galloway |
-| 100 | 10 | Jennifer Bell |
-| 101 | 9 | Darla Ragsdale |
-| 102 | 9 | Rhonda Driskill |
+| 99 | 10 | Jat |
+| 100 | 10 | Justin Furne |
+| 101 | 9 | Mama G |
+| 102 | 9 | Princess Cucumber |
 | 103 | 9 | Giggly Spinblock |
-| 104 | 9 | Mama G |
-| 105 | 9 | Princess Cucumber |
-| 106 | 8 | Stephanie |
-| 107 | 8 | Renee Weedling |
+| 104 | 9 | Rhonda Driskill |
+| 105 | 9 | Darla Ragsdale |
+| 106 | 8 | Renee Weedling |
+| 107 | 8 | Stephanie |
 | 108 | 8 | Nicky Steigerwalt |
-| 109 | 7 | Rae |
-| 110 | 7 | Elizabeth Elaine Coursey |
-| 111 | 7 | nova |
-| 112 | 7 | Epic Framezone |
-| 113 | 7 | Jackie Hayslip |
-| 114 | 7 | Cherica Taylor |
+| 109 | 7 | Epic Framezone |
+| 110 | 7 | nova |
+| 111 | 7 | Elizabeth Elaine Coursey |
+| 112 | 7 | Rae |
+| 113 | 7 | Cherica Taylor |
+| 114 | 7 | Jackie Hayslip |
 | 115 | 6 | Kelly Christine Trimmer |
 | 116 | 6 | fancypants |
 | 117 | 6 | Nicole |
 | 118 | 6 | Nova Nova |
-| 119 | 5 | Devon |
-| 120 | 5 | Slinky Glidezone |
+| 119 | 5 | Bubbly Strikerpiece |
+| 120 | 5 | Tashamonique Puckey |
 | 121 | 5 | Allison Peterson |
-| 122 | 5 | Bubbly Strikerpiece |
-| 123 | 5 | Tashamonique Puckey |
+| 122 | 5 | Devon |
+| 123 | 5 | Slinky Glidezone |
 
 ---
 *Standings created by tournaments datasource generation tool*
