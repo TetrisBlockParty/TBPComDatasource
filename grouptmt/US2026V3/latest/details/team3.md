@@ -1,6 +1,6 @@
-# Standings for team3 as of 2026-06-05 12:29:12 UTC
+# Standings for team3 as of 2026-06-05 12:30:13 UTC
 
-**Total Participants:** 60
+**Total Participants:** 65
 
 ## Participant Scores
 
@@ -12,60 +12,65 @@
 | 4 | 200 | AL Ferrari |
 | 5 | 175 | Lindsey Gardner |
 | 6 | 160 | Woodrow Weatherford |
-| 7 | 140 | Bee |
-| 8 | 104 | Perach Alima Shoa |
-| 9 | 97 | Tami Czenkus |
-| 10 | 80 | Angel Hopkins |
-| 11 | 71 | Alex Celio |
-| 12 | 64 | SteffXx |
-| 13 | 50 | Adam Bronk |
-| 14 | 41 | Crystal Carlson |
-| 15 | 40 | Jerome Carlile |
-| 16 | 35 | Rebecca Alidre Holmes-Anderson |
+| 7 | 150 | Edda-Jo Wenneman Dobbs |
+| 8 | 140 | Bee |
+| 9 | 104 | Perach Alima Shoa |
+| 10 | 97 | Tami Czenkus |
+| 11 | 80 | Angel Hopkins |
+| 12 | 71 | Alex Celio |
+| 13 | 69 | SteffXx |
+| 14 | 50 | Adam Bronk |
+| 15 | 41 | Crystal Carlson |
+| 16 | 40 | Jerome Carlile |
 | 17 | 35 | Paul Hudak |
-| 18 | 33 | Raya |
-| 19 | 32 | Dedicated |
-| 20 | 30 | Lively Matchpiece |
-| 21 | 28 | Jessica Biggs |
+| 18 | 35 | Rebecca Alidre Holmes-Anderson |
+| 19 | 33 | Raya |
+| 20 | 32 | Dedicated |
+| 21 | 30 | Lively Matchpiece |
 | 22 | 28 | Carolyn Smith |
-| 23 | 26 | Kevin C. Moe |
-| 24 | 26 | Loony Strikesnap |
-| 25 | 25 | Christopher Kissiah |
-| 26 | 23 | Charles Love |
-| 27 | 21 | Denice Myers |
-| 28 | 19 | Sabrina34 |
-| 29 | 18 | ToxicTrinity |
-| 30 | 18 | Alison Gomes |
-| 31 | 15 | Quirky Curve |
-| 32 | 15 | kittensden |
-| 33 | 14 | Sara Pederson |
-| 34 | 13 | Raven Rogue |
-| 35 | 12 | Nonni |
-| 36 | 12 | Jonathan Russell |
-| 37 | 12 | Robby Beltran |
-| 38 | 12 | Boldy Cornerfall |
-| 39 | 12 | Violet |
-| 40 | 12 | Wacky Catcher |
-| 41 | 11 | Happy Balancer |
-| 42 | 11 | Carrie Ness |
-| 43 | 11 | Lisa Stone |
-| 44 | 10 | kendra |
-| 45 | 10 | Shabae |
-| 46 | 9 | Sarah Jane |
-| 47 | 9 | Jess Jess |
-| 48 | 9 | Tnaughty |
-| 49 | 9 | Angie Rodriguez |
-| 50 | 9 | VOID EDGE |
-| 51 | 9 | Salky |
-| 52 | 8 | David Glisson |
-| 53 | 8 | creepy paper |
-| 54 | 7 | Loony Rollfit |
-| 55 | 7 | DShark72 |
-| 56 | 6 | Sarah Cruthirds |
-| 57 | 5 | Funky Fall |
-| 58 | 5 | KAR |
-| 59 | 5 | Victoria Lofquist |
-| 60 | 5 | Garrett Hofmann |
+| 23 | 28 | Jessica Biggs |
+| 24 | 27 | creepy paper |
+| 25 | 26 | Loony Strikesnap |
+| 26 | 26 | Kevin C. Moe |
+| 27 | 25 | Christopher Kissiah |
+| 28 | 23 | Charles Love |
+| 29 | 21 | Denice Myers |
+| 30 | 19 | Sabrina34 |
+| 31 | 18 | Alison Gomes |
+| 32 | 18 | ToxicTrinity |
+| 33 | 15 | Quirky Curve |
+| 34 | 15 | kittensden |
+| 35 | 14 | Sara Pederson |
+| 36 | 14 | Laura Slusher Updike |
+| 37 | 13 | Raven Rogue |
+| 38 | 12 | Violet |
+| 39 | 12 | Wacky Catcher |
+| 40 | 12 | Jonathan Russell |
+| 41 | 12 | Nonni |
+| 42 | 12 | Boldy Cornerfall |
+| 43 | 12 | Robby Beltran |
+| 44 | 11 | Carrie Ness |
+| 45 | 11 | Lisa Stone |
+| 46 | 11 | Happy Balancer |
+| 47 | 10 | Giddy Shift |
+| 48 | 10 | Shabae |
+| 49 | 10 | kendra |
+| 50 | 9 | Tnaughty |
+| 51 | 9 | Jess Jess |
+| 52 | 9 | Salky |
+| 53 | 9 | VOID EDGE |
+| 54 | 9 | Angie Rodriguez |
+| 55 | 9 | Sarah Jane |
+| 56 | 8 | Sarah Cruthirds |
+| 57 | 8 | David Glisson |
+| 58 | 7 | Loony Rollfit |
+| 59 | 7 | DShark72 |
+| 60 | 6 | bt |
+| 61 | 6 | Kimberly Kupke |
+| 62 | 5 | Funky Fall |
+| 63 | 5 | Garrett Hofmann |
+| 64 | 5 | KAR |
+| 65 | 5 | Victoria Lofquist |
 
 ---
 *Standings created by tournaments datasource generation tool*
