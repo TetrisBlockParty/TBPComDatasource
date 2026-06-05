@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:07:13 UTC
+# Standings for team1 as of 2026-06-05 15:08:13 UTC
 
 **Total Participants:** 218
 
@@ -18,8 +18,8 @@
 | 10 | 366 | Tracy Cohen |
 | 11 | 300 | Ryan Meilleur |
 | 12 | 292 | Sarah Marie |
-| 13 | 260 | Carolynne Walker-Bell |
-| 14 | 250 | Bre Maugh |
+| 13 | 260 | Bre Maugh |
+| 14 | 260 | Carolynne Walker-Bell |
 | 15 | 241 | Ivana Schmidt |
 | 16 | 238 | Holly Jolly |
 | 17 | 237 | Tammye Turner |
@@ -67,17 +67,17 @@
 | 59 | 60 | Marcheta Cervantez |
 | 60 | 60 | Valerie Alexander |
 | 61 | 60 | Christian Pham |
-| 62 | 57 | Tosha Michelle |
-| 63 | 54 | Ciera Peace |
-| 64 | 54 | Lauraly |
-| 65 | 51 | Comedian Gdane |
-| 66 | 50 | COSA303 |
-| 67 | 50 | Donna Payne |
-| 68 | 50 | Slinky Party |
-| 69 | 50 | Dai Bo |
-| 70 | 50 | Yazz |
-| 71 | 46 | Sanjuro |
-| 72 | 46 | Cozy Edge |
+| 62 | 60 | COSA303 |
+| 63 | 57 | Tosha Michelle |
+| 64 | 54 | Ciera Peace |
+| 65 | 54 | Lauraly |
+| 66 | 52 | Cozy Edge |
+| 67 | 51 | Comedian Gdane |
+| 68 | 50 | Donna Payne |
+| 69 | 50 | Slinky Party |
+| 70 | 50 | Dai Bo |
+| 71 | 50 | Yazz |
+| 72 | 46 | Sanjuro |
 | 73 | 45 | Jayjay Rich |
 | 74 | 43 | Block |
 | 75 | 43 | KenpachisGirl |
@@ -116,25 +116,25 @@
 | 108 | 27 | Charlene Baltimore |
 | 109 | 27 | Mighty Dropper |
 | 110 | 27 | Jae Thompson-Tyus |
-| 111 | 26 | Xrandomx |
-| 112 | 25 | Tyrone Porter |
-| 113 | 25 | Hasty Pivoty |
-| 114 | 25 | Skippy |
+| 111 | 26 | Dandy Brickfit |
+| 112 | 26 | Xrandomx |
+| 113 | 25 | Tyrone Porter |
+| 114 | 25 | Hasty Pivoty |
 | 115 | 25 | Kimmie Gargano |
-| 116 | 25 | Teresa Yanira Cepeda |
-| 117 | 24 | Nobles Brandon |
-| 118 | 24 | TBABYJ |
-| 119 | 23 | Khatyrah Burnette |
-| 120 | 23 | Poppy Twister |
-| 121 | 23 | Tabitha Dupre-Allen |
-| 122 | 22 | Tanisha Taylor |
-| 123 | 22 | Dandy Brickfit |
+| 116 | 25 | Skippy |
+| 117 | 25 | Teresa Yanira Cepeda |
+| 118 | 24 | Nobles Brandon |
+| 119 | 24 | TBABYJ |
+| 120 | 23 | Khatyrah Burnette |
+| 121 | 23 | Poppy Twister |
+| 122 | 23 | Tabitha Dupre-Allen |
+| 123 | 22 | Tanisha Taylor |
 | 124 | 22 | Ad Doctor |
 | 125 | 21 | Brave Balanceblock |
 | 126 | 20 | Trina Greenwood |
 | 127 | 20 | HBTone |
-| 128 | 20 | Tony P Burke |
-| 129 | 20 | Jai |
+| 128 | 20 | Jai |
+| 129 | 20 | Tony P Burke |
 | 130 | 20 | Chevalier Burley |
 | 131 | 19 | Shanjerrica Taylor Rosell |
 | 132 | 19 | JesusSaves 😇 |
