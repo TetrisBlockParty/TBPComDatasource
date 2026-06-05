@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 23:20:15 UTC
+# Standings for team1 as of 2026-06-05 23:20:37 UTC
 
 **Total Participants:** 588
 
@@ -583,17 +583,17 @@
 | 575 | 5 | the guy |
 | 576 | 5 | Kidgib5 |
 | 577 | 5 | Jennifer Moore |
-| 578 | 5 | Mommy Frank |
-| 579 | 5 | Tito Divyn |
-| 580 | 5 | Shawn Himes |
-| 581 | 5 | Tamika Fisher |
-| 582 | 5 | Zappy Clearfit |
-| 583 | 5 | Duckey |
-| 584 | 5 | Logan Frost |
-| 585 | 5 | Andre Sanon |
-| 586 | 5 | Barbramerri Tarboro |
-| 587 | 5 | pooh |
-| 588 | 5 | Shakuria Cortia Burney |
+| 578 | 5 | Shakuria Cortia Burney |
+| 579 | 5 | Mommy Frank |
+| 580 | 5 | Tito Divyn |
+| 581 | 5 | Shawn Himes |
+| 582 | 5 | Tamika Fisher |
+| 583 | 5 | Zappy Clearfit |
+| 584 | 5 | Duckey |
+| 585 | 5 | Logan Frost |
+| 586 | 5 | Andre Sanon |
+| 587 | 5 | Barbramerri Tarboro |
+| 588 | 5 | pooh |
 
 ---
 *Standings created by tournaments datasource generation tool*
