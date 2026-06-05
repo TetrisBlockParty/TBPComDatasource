@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:54:13 UTC
+# Standings for team1 as of 2026-06-05 17:54:36 UTC
 
 **Total Participants:** 357
 
@@ -233,71 +233,71 @@
 | 225 | 20 | Kenneth Hefney |
 | 226 | 20 | Dirty Deeds |
 | 227 | 20 | Nyhlah Patterson |
-| 228 | 20 | Tremaine Hiler |
-| 229 | 20 | Trina Greenwood |
-| 230 | 20 | Devin West |
+| 228 | 20 | Trina Greenwood |
+| 229 | 20 | Devin West |
+| 230 | 20 | Tremaine Hiler |
 | 231 | 20 | Dorian Griffin |
-| 232 | 19 | Jenni |
-| 233 | 19 | LAhoneybun82 |
-| 234 | 19 | Michele Simpson |
+| 232 | 19 | Amanda Woodruff |
+| 233 | 19 | Michele Simpson |
+| 234 | 19 | Saucy Tile |
 | 235 | 19 | Lozuna |
-| 236 | 19 | Amanda Woodruff |
-| 237 | 19 | Saucy Tile |
-| 238 | 18 | Sunny Clicky |
-| 239 | 18 | Ounquan Wright |
+| 236 | 19 | Jenni |
+| 237 | 19 | LAhoneybun82 |
+| 238 | 18 | Ounquan Wright |
+| 239 | 18 | Sunny Clicky |
 | 240 | 18 | Una |
 | 241 | 18 | Danny M GR |
 | 242 | 18 | Tyree Tman Shinette |
 | 243 | 18 | AleahKCH |
-| 244 | 17 | NastyFriend |
+| 244 | 17 | Rikki Moran |
 | 245 | 17 | Elizabeth Vega Coreano |
-| 246 | 17 | Rikki Moran |
-| 247 | 17 | MamaBear |
+| 246 | 17 | MamaBear |
+| 247 | 17 | NastyFriend |
 | 248 | 16 | Tanisha Robinson |
-| 249 | 16 | MsBobby Patrick |
-| 250 | 16 | Sunny Tumbler |
-| 251 | 16 | Jason Mungin |
-| 252 | 16 | Desiree Ryder |
-| 253 | 16 | Jumpy Gridlock |
-| 254 | 16 | Sammie Walker |
-| 255 | 15 | Tami Spence |
-| 256 | 15 | Clever Fitblock |
-| 257 | 15 | Jess |
-| 258 | 15 | Lit757 |
-| 259 | 15 | Amy Lynn Leifheit |
-| 260 | 15 | Hasty Match |
-| 261 | 15 | Elaine Youmans |
-| 262 | 15 | Ta'Kaiyah M. Spann |
-| 263 | 15 | Eugina Slater |
+| 249 | 16 | Desiree Ryder |
+| 250 | 16 | Sammie Walker |
+| 251 | 16 | Jumpy Gridlock |
+| 252 | 16 | Symonne 'Monnie' Pierce |
+| 253 | 16 | MsBobby Patrick |
+| 254 | 16 | Sunny Tumbler |
+| 255 | 16 | Jason Mungin |
+| 256 | 15 | Amy Lynn Leifheit |
+| 257 | 15 | Clever Fitblock |
+| 258 | 15 | Tami Spence |
+| 259 | 15 | Jess |
+| 260 | 15 | Lit757 |
+| 261 | 15 | Hasty Match |
+| 262 | 15 | Elaine Youmans |
+| 263 | 15 | Ta'Kaiyah M. Spann |
 | 264 | 15 | Delitra Perkins Hatter |
-| 265 | 14 | Symonne 'Monnie' Pierce |
-| 266 | 14 | Jerrone Epps |
-| 267 | 14 | David A Alvino |
+| 265 | 15 | Eugina Slater |
+| 266 | 14 | Zachary Colegrove |
+| 267 | 14 | Jerrone Epps |
 | 268 | 14 | No_Other_Choice |
-| 269 | 14 | Alyssa Rae |
+| 269 | 14 | Vivian Bunnell Myers |
 | 270 | 14 | Stephen Providenti |
-| 271 | 14 | Vivian Bunnell Myers |
-| 272 | 14 | Zachary Colegrove |
-| 273 | 13 | Frothy Zoney |
-| 274 | 13 | Emma Adams |
+| 271 | 14 | Alyssa Rae |
+| 272 | 14 | David A Alvino |
+| 273 | 13 | Emma Adams |
+| 274 | 13 | Frothy Zoney |
 | 275 | 13 | Oaklonboy mike |
-| 276 | 12 | BigMike |
-| 277 | 12 | messyboots |
-| 278 | 12 | W.A. Simpson |
+| 276 | 12 | messyboots |
+| 277 | 12 | Soubletzy |
+| 278 | 12 | Andra Ward |
 | 279 | 12 | Abigail Newman Sweet |
-| 280 | 12 | Yadira Salgado |
-| 281 | 12 | Just2Play$ |
-| 282 | 12 | Andra Ward |
-| 283 | 12 | Soubletzy |
+| 280 | 12 | Just2Play$ |
+| 281 | 12 | W.A. Simpson |
+| 282 | 12 | Yadira Salgado |
+| 283 | 12 | BigMike |
 | 284 | 11 | Frilly Shatterline |
-| 285 | 10 | Tessa Gaskin |
-| 286 | 10 | Kenny 'Tailormade' Boyd |
-| 287 | 10 | Megan Payette |
-| 288 | 10 | Keke |
+| 285 | 10 | Kenny 'Tailormade' Boyd |
+| 286 | 10 | Tessa Gaskin |
+| 287 | 10 | Keke |
+| 288 | 10 | Megan Payette |
 | 289 | 10 | Daddy |
 | 290 | 10 | Hoppy Rumbler |
-| 291 | 10 | Tishauna Virgo |
-| 292 | 10 | Po Marley |
+| 291 | 10 | Po Marley |
+| 292 | 10 | Tishauna Virgo |
 | 293 | 10 | Tina Mitchell |
 | 294 | 10 | Christian Whittaker |
 | 295 | 10 | Shannon Carriger |
@@ -361,8 +361,8 @@
 | 353 | 5 | Jjhandsome |
 | 354 | 5 | pooh |
 | 355 | 5 | Barbramerri Tarboro |
-| 356 | 5 | Lil T |
-| 357 | 5 | Jennifer Moore |
+| 356 | 5 | Jennifer Moore |
+| 357 | 5 | Lil T |
 
 ---
 *Standings created by tournaments datasource generation tool*
