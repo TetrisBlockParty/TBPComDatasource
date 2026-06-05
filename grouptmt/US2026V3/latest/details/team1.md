@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:28:13 UTC
+# Standings for team1 as of 2026-06-05 13:28:35 UTC
 
 **Total Participants:** 112
 
@@ -52,11 +52,11 @@
 | 44 | 35 | Dai Bo |
 | 45 | 35 | Lilly Brown |
 | 46 | 35 | KoolKimJay |
-| 47 | 30 | Lester Malone |
-| 48 | 30 | Brian Bohanon II |
-| 49 | 30 | Saucy Faller |
-| 50 | 30 | Yashica Smith |
-| 51 | 29 | Tobey Marberry |
+| 47 | 32 | Tobey Marberry |
+| 48 | 30 | Lester Malone |
+| 49 | 30 | Brian Bohanon II |
+| 50 | 30 | Saucy Faller |
+| 51 | 30 | Yashica Smith |
 | 52 | 28 | John Staub |
 | 53 | 27 | Zany Breaker |
 | 54 | 27 | Jae Thompson-Tyus |
@@ -106,11 +106,11 @@
 | 98 | 9 | IThinkNot |
 | 99 | 9 | Tamara N Lee |
 | 100 | 8 | Brika Brika |
-| 101 | 8 | Sammie Walker |
-| 102 | 7 | Mary2 |
-| 103 | 7 | Kendra McIntyre |
-| 104 | 6 | Janine Hunter |
-| 105 | 6 | Jessie N Michael Silvers |
+| 101 | 8 | Jessie N Michael Silvers |
+| 102 | 8 | Sammie Walker |
+| 103 | 7 | Mary2 |
+| 104 | 7 | Kendra McIntyre |
+| 105 | 6 | Janine Hunter |
 | 106 | 6 | Jayjay Rich |
 | 107 | 6 | Ashley Espeut |
 | 108 | 6 | Taz Ballard |
