@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:00:36 UTC
+# Standings for team1 as of 2026-06-05 13:01:13 UTC
 
 **Total Participants:** 94
 
@@ -32,74 +32,74 @@
 | 24 | 54 | Janet Cooke |
 | 25 | 50 | Jazzy Dashpiece |
 | 26 | 50 | Slinky Party |
-| 27 | 46 | Shanell Thomas |
-| 28 | 41 | Jessica Russell |
-| 29 | 40 | Leavon Smith |
-| 30 | 40 | Lauraly |
-| 31 | 40 | Jean Regis |
-| 32 | 38 | rls |
-| 33 | 35 | Saucy Crusher |
-| 34 | 35 | Lilly Brown |
-| 35 | 35 | KoolKimJay |
+| 27 | 47 | Tammye Turner |
+| 28 | 46 | Shanell Thomas |
+| 29 | 41 | Jessica Russell |
+| 30 | 40 | Leavon Smith |
+| 31 | 40 | Lauraly |
+| 32 | 40 | Jean Regis |
+| 33 | 38 | rls |
+| 34 | 35 | Saucy Crusher |
+| 35 | 35 | Lilly Brown |
 | 36 | 35 | Dai Bo |
-| 37 | 35 | Block |
-| 38 | 30 | Lester Malone |
-| 39 | 30 | Saucy Faller |
-| 40 | 28 | John Staub |
-| 41 | 27 | Lootch |
-| 42 | 27 | Angela R Wilson |
-| 43 | 27 | Zany Breaker |
-| 44 | 25 | KenpachisGirl |
-| 45 | 25 | Tyrone Porter |
-| 46 | 24 | Charlene Baltimore |
-| 47 | 23 | Poppy Twister |
-| 48 | 22 | Tanisha Taylor |
-| 49 | 21 | Brave Balanceblock |
-| 50 | 21 | SPNLover24 |
-| 51 | 20 | Jai |
-| 52 | 20 | Trina Greenwood |
-| 53 | 19 | Steve Reno |
-| 54 | 19 | Amanda Woodruff |
+| 37 | 35 | KoolKimJay |
+| 38 | 35 | Block |
+| 39 | 30 | Lester Malone |
+| 40 | 30 | Saucy Faller |
+| 41 | 28 | John Staub |
+| 42 | 27 | Lootch |
+| 43 | 27 | Angela R Wilson |
+| 44 | 27 | SPNLover24 |
+| 45 | 27 | Zany Breaker |
+| 46 | 25 | KenpachisGirl |
+| 47 | 25 | Tyrone Porter |
+| 48 | 24 | Charlene Baltimore |
+| 49 | 23 | Poppy Twister |
+| 50 | 22 | Tanisha Taylor |
+| 51 | 21 | Brave Balanceblock |
+| 52 | 20 | Jai |
+| 53 | 20 | Trina Greenwood |
+| 54 | 19 | Steve Reno |
 | 55 | 19 | Shanjerrica Taylor Rosell |
-| 56 | 19 | Jenni |
-| 57 | 19 | Brenda Malachi-butler |
-| 58 | 18 | Christian Pham |
-| 59 | 17 | Kimberly Red |
-| 60 | 17 | Rikki Moran |
-| 61 | 16 | Sylvia Offically A Mcgowan |
-| 62 | 15 | Ashley MyBeauty Daniels |
-| 63 | 15 | Tami Spence |
-| 64 | 15 | Una |
-| 65 | 15 | Tyree Tman Shinette |
-| 66 | 14 | Brian Bohanon II |
-| 67 | 14 | Alyssa Rae |
-| 68 | 13 | Oaklonboy mike |
-| 69 | 13 | Yashica Smith |
-| 70 | 12 | Kimmie Gargano |
-| 71 | 11 | Desiree Ryder |
-| 72 | 10 | Frisky Fall |
-| 73 | 10 | 신재호 |
-| 74 | 10 | Tishauna Virgo |
-| 75 | 10 | Daddy |
-| 76 | 10 | AleahKCH |
-| 77 | 10 | Keke |
-| 78 | 10 | Sarah Marie |
-| 79 | 10 | Megan Payette |
-| 80 | 9 | IThinkNot |
+| 56 | 19 | Amanda Woodruff |
+| 57 | 19 | Jenni |
+| 58 | 19 | Brenda Malachi-butler |
+| 59 | 18 | Christian Pham |
+| 60 | 17 | Kimberly Red |
+| 61 | 17 | Rikki Moran |
+| 62 | 16 | Yashica Smith |
+| 63 | 16 | Sylvia Offically A Mcgowan |
+| 64 | 15 | Ashley MyBeauty Daniels |
+| 65 | 15 | Tami Spence |
+| 66 | 15 | Una |
+| 67 | 15 | Tyree Tman Shinette |
+| 68 | 14 | Brian Bohanon II |
+| 69 | 14 | Alyssa Rae |
+| 70 | 13 | Oaklonboy mike |
+| 71 | 12 | Kimmie Gargano |
+| 72 | 11 | Desiree Ryder |
+| 73 | 10 | Frisky Fall |
+| 74 | 10 | Megan Payette |
+| 75 | 10 | Sarah Marie |
+| 76 | 10 | Keke |
+| 77 | 10 | AleahKCH |
+| 78 | 10 | Daddy |
+| 79 | 10 | Tishauna Virgo |
+| 80 | 10 | 신재호 |
 | 81 | 9 | Tina Criam |
-| 82 | 8 | Tammye Turner |
+| 82 | 9 | IThinkNot |
 | 83 | 8 | Brika Brika |
 | 84 | 8 | Tobey Marberry |
 | 85 | 8 | Sammie Walker |
-| 86 | 7 | Mary2 |
-| 87 | 7 | Hasty Pivoty |
+| 86 | 8 | Hasty Pivoty |
+| 87 | 7 | Mary2 |
 | 88 | 7 | Kendra McIntyre |
 | 89 | 6 | Kimberly Hernandez |
-| 90 | 5 | Jennifer Moore |
-| 91 | 5 | Shakmar |
-| 92 | 5 | Derek Beverly |
-| 93 | 5 | Cheeky Pop |
-| 94 | 5 | David Fuentes |
+| 90 | 5 | Cheeky Pop |
+| 91 | 5 | David Fuentes |
+| 92 | 5 | Shakmar |
+| 93 | 5 | Jennifer Moore |
+| 94 | 5 | Derek Beverly |
 
 ---
 *Standings created by tournaments datasource generation tool*
