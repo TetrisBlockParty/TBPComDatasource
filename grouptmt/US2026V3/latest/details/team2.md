@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 23:28:15 UTC
+# Standings for team2 as of 2026-06-05 23:28:38 UTC
 
 **Total Participants:** 659
 
@@ -23,9 +23,9 @@
 | 15 | 1361 | Erica Dees Parks |
 | 16 | 1286 | A.j. Langley |
 | 17 | 1128 | Jennifer Corder |
-| 18 | 1100 | Kathleen M Cox |
-| 19 | 1100 | Bobbi |
-| 20 | 1076 | Frisky Balanceblock |
+| 18 | 1126 | Frisky Balanceblock |
+| 19 | 1100 | Kathleen M Cox |
+| 20 | 1100 | Bobbi |
 | 21 | 1065 | Quirky Catcher |
 | 22 | 937 | Bea Bee |
 | 23 | 879 | Happy Pivotfall |
