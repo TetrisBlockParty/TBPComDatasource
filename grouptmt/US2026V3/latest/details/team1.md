@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:22:13 UTC
+# Standings for team1 as of 2026-06-05 13:22:35 UTC
 
 **Total Participants:** 108
 
@@ -50,7 +50,7 @@
 | 42 | 35 | Lilly Brown |
 | 43 | 35 | Dai Bo |
 | 44 | 35 | KoolKimJay |
-| 45 | 31 | Steve Reno |
+| 45 | 34 | Steve Reno |
 | 46 | 30 | Saucy Faller |
 | 47 | 30 | Brian Bohanon II |
 | 48 | 30 | Lester Malone |
@@ -82,18 +82,18 @@
 | 74 | 16 | Sylvia Offically A Mcgowan |
 | 75 | 15 | Una |
 | 76 | 15 | Tami Spence |
-| 77 | 15 | Tony P Burke |
-| 78 | 15 | Ashley MyBeauty Daniels |
+| 77 | 15 | Ashley MyBeauty Daniels |
+| 78 | 15 | Tony P Burke |
 | 79 | 14 | MsBobby Patrick |
 | 80 | 14 | Alyssa Rae |
 | 81 | 14 | David A Alvino |
 | 82 | 13 | Oaklonboy mike |
-| 83 | 12 | Kimmie Gargano |
+| 83 | 12 | Kimberly Hernandez |
 | 84 | 12 | Boldy Pivoty |
-| 85 | 11 | Kimberly Hernandez |
+| 85 | 12 | Kimmie Gargano |
 | 86 | 11 | Desiree Ryder |
-| 87 | 10 | Keke |
-| 88 | 10 | 신재호 |
+| 87 | 10 | 신재호 |
+| 88 | 10 | Keke |
 | 89 | 10 | Tishauna Virgo |
 | 90 | 10 | Daddy |
 | 91 | 10 | Sarah Marie |
