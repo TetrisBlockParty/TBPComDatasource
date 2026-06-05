@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 14:14:14 UTC
+# Standings for team1 as of 2026-06-05 14:14:35 UTC
 
-**Total Participants:** 152
+**Total Participants:** 153
 
 ## Participant Scores
 
@@ -156,8 +156,9 @@
 | 148 | 5 | Christian Whittaker |
 | 149 | 5 | Jennifer Moore |
 | 150 | 5 | Kidgib5 |
-| 151 | 5 | DirtiestofMikes |
-| 152 | 5 | Lil T |
+| 151 | 5 | Ad Doctor |
+| 152 | 5 | DirtiestofMikes |
+| 153 | 5 | Lil T |
 
 ---
 *Standings created by tournaments datasource generation tool*
