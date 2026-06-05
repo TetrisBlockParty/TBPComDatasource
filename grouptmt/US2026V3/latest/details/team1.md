@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:20:34 UTC
+# Standings for team1 as of 2026-06-05 13:21:12 UTC
 
 **Total Participants:** 108
 
@@ -24,8 +24,8 @@
 | 16 | 99 | Kellie Hall |
 | 17 | 81 | Mafio SO |
 | 18 | 81 | Robyn Caldwell |
-| 19 | 80 | Jazzy Dashpiece |
-| 20 | 80 | Rachel Zimmerman |
+| 19 | 80 | Rachel Zimmerman |
+| 20 | 80 | Jazzy Dashpiece |
 | 21 | 77 | Amber Wilson |
 | 22 | 74 | ♈️ Ariesbaby |
 | 23 | 67 | Michele Elizabeth McKay-Johnson |
@@ -33,8 +33,8 @@
 | 25 | 65 | Dizzy Dashy |
 | 26 | 65 | Shanell Thomas |
 | 27 | 63 | Carrie English |
-| 28 | 60 | Christian Pham |
-| 29 | 60 | Asani CHumba |
+| 28 | 60 | Asani CHumba |
+| 29 | 60 | Christian Pham |
 | 30 | 55 | SPNLover24 |
 | 31 | 50 | Slinky Party |
 | 32 | 43 | Block |
@@ -47,73 +47,73 @@
 | 39 | 38 | rls |
 | 40 | 37 | Lootch |
 | 41 | 35 | Saucy Crusher |
-| 42 | 35 | KoolKimJay |
-| 43 | 35 | Lilly Brown |
-| 44 | 35 | Dai Bo |
+| 42 | 35 | Lilly Brown |
+| 43 | 35 | Dai Bo |
+| 44 | 35 | KoolKimJay |
 | 45 | 31 | Steve Reno |
-| 46 | 30 | Lester Malone |
+| 46 | 30 | Saucy Faller |
 | 47 | 30 | Brian Bohanon II |
-| 48 | 30 | Saucy Faller |
-| 49 | 28 | David Fuentes |
-| 50 | 28 | John Staub |
+| 48 | 30 | Lester Malone |
+| 49 | 28 | John Staub |
+| 50 | 28 | David Fuentes |
 | 51 | 27 | Charlene Baltimore |
-| 52 | 27 | Jae Thompson-Tyus |
-| 53 | 27 | Angela R Wilson |
-| 54 | 27 | Zany Breaker |
-| 55 | 25 | Yashica Smith |
+| 52 | 27 | Angela R Wilson |
+| 53 | 27 | Zany Breaker |
+| 54 | 27 | Jae Thompson-Tyus |
+| 55 | 26 | Yashica Smith |
 | 56 | 25 | Tyrone Porter |
-| 57 | 23 | Poppy Twister |
-| 58 | 22 | Tanisha Taylor |
-| 59 | 21 | Brave Balanceblock |
-| 60 | 20 | Jai |
-| 61 | 20 | Trina Greenwood |
+| 57 | 23 | Tobey Marberry |
+| 58 | 23 | Poppy Twister |
+| 59 | 22 | Tanisha Taylor |
+| 60 | 21 | Brave Balanceblock |
+| 61 | 20 | Hasty Pivoty |
 | 62 | 20 | Chevalier Burley |
-| 63 | 20 | Hasty Pivoty |
-| 64 | 19 | Amanda Woodruff |
-| 65 | 19 | Jenni |
-| 66 | 19 | Shanjerrica Taylor Rosell |
-| 67 | 19 | Brenda Malachi-butler |
-| 68 | 18 | AleahKCH |
-| 69 | 18 | Tyree Tman Shinette |
-| 70 | 18 | Sunny Clicky |
-| 71 | 17 | Tobey Marberry |
-| 72 | 17 | Kimberly Red |
-| 73 | 17 | Rikki Moran |
+| 63 | 20 | Jai |
+| 64 | 20 | Trina Greenwood |
+| 65 | 19 | Shanjerrica Taylor Rosell |
+| 66 | 19 | Amanda Woodruff |
+| 67 | 19 | Jenni |
+| 68 | 19 | Brenda Malachi-butler |
+| 69 | 18 | AleahKCH |
+| 70 | 18 | Tyree Tman Shinette |
+| 71 | 18 | Sunny Clicky |
+| 72 | 17 | Rikki Moran |
+| 73 | 17 | Kimberly Red |
 | 74 | 16 | Sylvia Offically A Mcgowan |
 | 75 | 15 | Una |
 | 76 | 15 | Tami Spence |
-| 77 | 15 | Ashley MyBeauty Daniels |
-| 78 | 14 | MsBobby Patrick |
-| 79 | 14 | Alyssa Rae |
-| 80 | 14 | David A Alvino |
-| 81 | 13 | Oaklonboy mike |
-| 82 | 12 | Kimmie Gargano |
-| 83 | 12 | Boldy Pivoty |
-| 84 | 11 | Desiree Ryder |
+| 77 | 15 | Tony P Burke |
+| 78 | 15 | Ashley MyBeauty Daniels |
+| 79 | 14 | MsBobby Patrick |
+| 80 | 14 | Alyssa Rae |
+| 81 | 14 | David A Alvino |
+| 82 | 13 | Oaklonboy mike |
+| 83 | 12 | Kimmie Gargano |
+| 84 | 12 | Boldy Pivoty |
 | 85 | 11 | Kimberly Hernandez |
-| 86 | 10 | Keke |
-| 87 | 10 | Daddy |
-| 88 | 10 | Tishauna Virgo |
-| 89 | 10 | 신재호 |
-| 90 | 10 | Sarah Marie |
-| 91 | 10 | Megan Payette |
-| 92 | 9 | IThinkNot |
-| 93 | 9 | Tina Criam |
-| 94 | 9 | Tamara N Lee |
-| 95 | 8 | Brika Brika |
-| 96 | 8 | Sammie Walker |
-| 97 | 7 | Mary2 |
-| 98 | 7 | Kendra McIntyre |
-| 99 | 6 | Janine Hunter |
-| 100 | 6 | Taz Ballard |
-| 101 | 6 | Ashley Espeut |
-| 102 | 6 | Jayjay Rich |
-| 103 | 5 | Derek Beverly |
-| 104 | 5 | Cheeky Pop |
-| 105 | 5 | Shakmar |
-| 106 | 5 | Tony P Burke |
-| 107 | 5 | Jennifer Moore |
-| 108 | 5 | DirtiestofMikes |
+| 86 | 11 | Desiree Ryder |
+| 87 | 10 | Keke |
+| 88 | 10 | 신재호 |
+| 89 | 10 | Tishauna Virgo |
+| 90 | 10 | Daddy |
+| 91 | 10 | Sarah Marie |
+| 92 | 10 | Megan Payette |
+| 93 | 9 | IThinkNot |
+| 94 | 9 | Tina Criam |
+| 95 | 9 | Tamara N Lee |
+| 96 | 8 | Brika Brika |
+| 97 | 8 | Sammie Walker |
+| 98 | 7 | Mary2 |
+| 99 | 7 | Kendra McIntyre |
+| 100 | 6 | Janine Hunter |
+| 101 | 6 | Jayjay Rich |
+| 102 | 6 | Ashley Espeut |
+| 103 | 6 | Taz Ballard |
+| 104 | 5 | Jennifer Moore |
+| 105 | 5 | Derek Beverly |
+| 106 | 5 | DirtiestofMikes |
+| 107 | 5 | Shakmar |
+| 108 | 5 | Cheeky Pop |
 
 ---
 *Standings created by tournaments datasource generation tool*
