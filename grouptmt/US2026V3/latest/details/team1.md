@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 18:50:15 UTC
+# Standings for team1 as of 2026-06-05 18:50:38 UTC
 
 **Total Participants:** 399
 
@@ -171,41 +171,41 @@
 | 163 | 35 | HBTone |
 | 164 | 35 | Saucy Crusher |
 | 165 | 35 | Wacky Stackbuilder |
-| 166 | 35 | Jolly Tilefall |
-| 167 | 35 | Sashaleo |
+| 166 | 35 | Sashaleo |
+| 167 | 35 | Jolly Tilefall |
 | 168 | 34 | David A Alvino |
 | 169 | 33 | Mom3granny2 |
-| 170 | 33 | Rene Hicks |
-| 171 | 33 | Richard Flex |
-| 172 | 33 | Block King |
-| 173 | 33 | Krose Byers |
-| 174 | 33 | Chris Nelson |
-| 175 | 32 | Tyrone Porter |
-| 176 | 32 | Tobey Marberry |
-| 177 | 32 | Christi Walker Patton |
-| 178 | 32 | Melvin Simpson |
-| 179 | 32 | Jack Mehof |
-| 180 | 31 | Jackytrain52 |
-| 181 | 31 | Boldy Pivoty |
-| 182 | 31 | Daris Swearington |
-| 183 | 31 | Anthony |
-| 184 | 31 | Miera Nicole |
-| 185 | 31 | Casey Chapman |
-| 186 | 30 | Gabriela Hernandez |
-| 187 | 30 | SeanSanchez |
-| 188 | 30 | Jack Vlasak |
-| 189 | 30 | Bouncy Glide |
-| 190 | 30 | Lester Malone |
-| 191 | 30 | Sarah Guarino |
-| 192 | 30 | Kp |
-| 193 | 30 | Jes Marie |
-| 194 | 30 | Witty Blockpiece |
-| 195 | 30 | Breezy Catcher |
-| 196 | 30 | Amy Villalpando |
-| 197 | 30 | Saucy Faller |
-| 198 | 29 | Dee McCool |
-| 199 | 28 | Earl Williams |
-| 200 | 28 | Jumpy Gridlock |
+| 170 | 33 | Block King |
+| 171 | 33 | Chris Nelson |
+| 172 | 33 | Rene Hicks |
+| 173 | 33 | Richard Flex |
+| 174 | 33 | Krose Byers |
+| 175 | 32 | Jack Mehof |
+| 176 | 32 | Christi Walker Patton |
+| 177 | 32 | Tobey Marberry |
+| 178 | 32 | Tyrone Porter |
+| 179 | 32 | Melvin Simpson |
+| 180 | 31 | Anthony |
+| 181 | 31 | Daris Swearington |
+| 182 | 31 | Jackytrain52 |
+| 183 | 31 | Miera Nicole |
+| 184 | 31 | Jumpy Gridlock |
+| 185 | 31 | Boldy Pivoty |
+| 186 | 31 | Casey Chapman |
+| 187 | 30 | Jack Vlasak |
+| 188 | 30 | SeanSanchez |
+| 189 | 30 | Gabriela Hernandez |
+| 190 | 30 | Bouncy Glide |
+| 191 | 30 | Lester Malone |
+| 192 | 30 | Sarah Guarino |
+| 193 | 30 | Kp |
+| 194 | 30 | Jes Marie |
+| 195 | 30 | Witty Blockpiece |
+| 196 | 30 | Breezy Catcher |
+| 197 | 30 | Amy Villalpando |
+| 198 | 30 | Saucy Faller |
+| 199 | 29 | Dee McCool |
+| 200 | 28 | Earl Williams |
 | 201 | 28 | Will Stanton |
 | 202 | 28 | Comedian Prince Paul |
 | 203 | 28 | John Staub |
@@ -396,15 +396,15 @@
 | 388 | 5 | Andre Sanon |
 | 389 | 5 | Rieshelda Marie White |
 | 390 | 5 | Kidgib5 |
-| 391 | 5 | Shawn Himes |
-| 392 | 5 | Jennifer Moore |
-| 393 | 5 | Barbramerri Tarboro |
-| 394 | 5 | pooh |
-| 395 | 5 | Jjhandsome |
-| 396 | 5 | Zappy Clearfit |
-| 397 | 5 | Saucy Linkgrid |
-| 398 | 5 | Vernon Hoyt |
-| 399 | 5 | Tamika Fisher |
+| 391 | 5 | Jennifer Moore |
+| 392 | 5 | Barbramerri Tarboro |
+| 393 | 5 | pooh |
+| 394 | 5 | Jjhandsome |
+| 395 | 5 | Zappy Clearfit |
+| 396 | 5 | Saucy Linkgrid |
+| 397 | 5 | Vernon Hoyt |
+| 398 | 5 | Tamika Fisher |
+| 399 | 5 | Shawn Himes |
 
 ---
 *Standings created by tournaments datasource generation tool*
