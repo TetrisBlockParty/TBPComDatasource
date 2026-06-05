@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:56:34 UTC
+# Standings for team1 as of 2026-06-05 13:57:13 UTC
 
 **Total Participants:** 131
 
@@ -32,8 +32,8 @@
 | 24 | 74 | ♈️ Ariesbaby |
 | 25 | 67 | Michele Elizabeth McKay-Johnson |
 | 26 | 66 | Shontanese Adams |
-| 27 | 65 | Dizzy Dashy |
-| 28 | 65 | Shanell Thomas |
+| 27 | 65 | Shanell Thomas |
+| 28 | 65 | Dizzy Dashy |
 | 29 | 63 | Carrie English |
 | 30 | 60 | Christian Pham |
 | 31 | 54 | Lauraly |
@@ -44,80 +44,80 @@
 | 36 | 42 | Frisky Fall |
 | 37 | 41 | Jessica Russell |
 | 38 | 40 | Leavon Smith |
-| 39 | 40 | Char |
-| 40 | 40 | Jean Regis |
-| 41 | 40 | Cheeky Pop |
+| 39 | 40 | Cheeky Pop |
+| 40 | 40 | Char |
+| 41 | 40 | Jean Regis |
 | 42 | 38 | rls |
 | 43 | 38 | Ashley MyBeauty Daniels |
-| 44 | 37 | Lootch |
-| 45 | 37 | Steve Reno |
-| 46 | 35 | KoolKimJay |
-| 47 | 35 | Yashica Smith |
+| 44 | 37 | Steve Reno |
+| 45 | 37 | Lootch |
+| 46 | 35 | Saucy Crusher |
+| 47 | 35 | KoolKimJay |
 | 48 | 35 | Lilly Brown |
-| 49 | 35 | Saucy Crusher |
-| 50 | 35 | Dai Bo |
+| 49 | 35 | Dai Bo |
+| 50 | 35 | Yashica Smith |
 | 51 | 34 | Flashy Slam |
 | 52 | 33 | Sashaleo |
-| 53 | 32 | Melvin Simpson |
-| 54 | 32 | Tobey Marberry |
-| 55 | 30 | Lester Malone |
+| 53 | 32 | Tobey Marberry |
+| 54 | 32 | Melvin Simpson |
+| 55 | 30 | Brian Bohanon II |
 | 56 | 30 | Saucy Faller |
-| 57 | 30 | Brian Bohanon II |
-| 58 | 30 | Casey Chapman |
-| 59 | 29 | hope |
-| 60 | 28 | John Staub |
-| 61 | 27 | Jae Thompson-Tyus |
-| 62 | 27 | Charlene Baltimore |
-| 63 | 27 | Angela R Wilson |
-| 64 | 27 | Zany Breaker |
-| 65 | 25 | Hasty Pivoty |
-| 66 | 25 | Tyrone Porter |
-| 67 | 24 | TBABYJ |
-| 68 | 23 | Poppy Twister |
-| 69 | 22 | Boldy Pivoty |
+| 57 | 30 | Casey Chapman |
+| 58 | 30 | $hort Dog |
+| 59 | 30 | Lester Malone |
+| 60 | 29 | hope |
+| 61 | 28 | John Staub |
+| 62 | 27 | Jae Thompson-Tyus |
+| 63 | 27 | Zany Breaker |
+| 64 | 27 | Angela R Wilson |
+| 65 | 27 | Charlene Baltimore |
+| 66 | 25 | Hasty Pivoty |
+| 67 | 25 | Tyrone Porter |
+| 68 | 24 | TBABYJ |
+| 69 | 23 | Poppy Twister |
 | 70 | 22 | Tanisha Taylor |
-| 71 | 21 | Sarah Marie |
-| 72 | 21 | Brave Balanceblock |
-| 73 | 20 | Yazz |
-| 74 | 20 | Trina Greenwood |
+| 71 | 22 | Boldy Pivoty |
+| 72 | 21 | Sarah Marie |
+| 73 | 21 | Brave Balanceblock |
+| 74 | 20 | Kimmie Gargano |
 | 75 | 20 | Chevalier Burley |
-| 76 | 20 | Tony P Burke |
-| 77 | 20 | Kimmie Gargano |
-| 78 | 20 | Jai |
-| 79 | 19 | Amanda Woodruff |
-| 80 | 19 | Brenda Malachi-butler |
+| 76 | 20 | Trina Greenwood |
+| 77 | 20 | Jai |
+| 78 | 20 | Tony P Burke |
+| 79 | 20 | Yazz |
+| 80 | 19 | Amanda Woodruff |
 | 81 | 19 | Shanjerrica Taylor Rosell |
 | 82 | 19 | Jenni |
-| 83 | 19 | Saucy Tile |
-| 84 | 18 | Sunny Clicky |
-| 85 | 18 | AleahKCH |
-| 86 | 18 | Tyree Tman Shinette |
-| 87 | 17 | Rikki Moran |
-| 88 | 17 | Kimberly Red |
-| 89 | 16 | Sylvia Offically A Mcgowan |
-| 90 | 16 | MsBobby Patrick |
-| 91 | 15 | Tami Spence |
-| 92 | 15 | Una |
-| 93 | 15 | Delitra Perkins Hatter |
-| 94 | 15 | Jess |
-| 95 | 14 | Alyssa Rae |
-| 96 | 14 | David A Alvino |
-| 97 | 14 | No_Other_Choice |
-| 98 | 13 | Oaklonboy mike |
-| 99 | 12 | Kimberly Hernandez |
-| 100 | 11 | Desiree Ryder |
-| 101 | 11 | Kp |
+| 83 | 19 | Brenda Malachi-butler |
+| 84 | 19 | Saucy Tile |
+| 85 | 18 | Sunny Clicky |
+| 86 | 18 | AleahKCH |
+| 87 | 18 | Tyree Tman Shinette |
+| 88 | 17 | Rikki Moran |
+| 89 | 17 | Kimberly Red |
+| 90 | 16 | Sylvia Offically A Mcgowan |
+| 91 | 16 | MsBobby Patrick |
+| 92 | 15 | Delitra Perkins Hatter |
+| 93 | 15 | Una |
+| 94 | 15 | Tami Spence |
+| 95 | 15 | Jess |
+| 96 | 14 | Alyssa Rae |
+| 97 | 14 | David A Alvino |
+| 98 | 14 | No_Other_Choice |
+| 99 | 13 | Oaklonboy mike |
+| 100 | 12 | Kimberly Hernandez |
+| 101 | 11 | Desiree Ryder |
 | 102 | 11 | Tamara N Lee |
-| 103 | 10 | 신재호 |
-| 104 | 10 | Tishauna Virgo |
-| 105 | 10 | $hort Dog |
-| 106 | 10 | Daddy |
-| 107 | 10 | Kenny 'Tailormade' Boyd |
-| 108 | 10 | Keke |
-| 109 | 10 | Megan Payette |
+| 103 | 11 | Kp |
+| 104 | 10 | Keke |
+| 105 | 10 | Daddy |
+| 106 | 10 | Megan Payette |
+| 107 | 10 | Tishauna Virgo |
+| 108 | 10 | Kenny 'Tailormade' Boyd |
+| 109 | 10 | 신재호 |
 | 110 | 9 | Tina Criam |
-| 111 | 9 | Shakmar |
-| 112 | 9 | IThinkNot |
+| 111 | 9 | IThinkNot |
+| 112 | 9 | Shakmar |
 | 113 | 8 | Brika Brika |
 | 114 | 8 | Zachary Colegrove |
 | 115 | 8 | Jessie N Michael Silvers |

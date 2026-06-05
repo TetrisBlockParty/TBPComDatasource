@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-05 13:56:34 UTC
+# Standings for team3 as of 2026-06-05 13:57:13 UTC
 
 **Total Participants:** 328
 
@@ -18,8 +18,8 @@
 | 10 | 476 | Tami Czenkus |
 | 11 | 424 | Jeronica Jamerson |
 | 12 | 400 | Teresa Jensen |
-| 13 | 374 | Sneaky Pete |
-| 14 | 370 | Bee |
+| 13 | 390 | Bee |
+| 14 | 374 | Sneaky Pete |
 | 15 | 367 | Edda-Jo Wenneman Dobbs |
 | 16 | 367 | allie |
 | 17 | 356 | THEMAN |
@@ -31,32 +31,32 @@
 | 23 | 180 | Alo |
 | 24 | 175 | kendra |
 | 25 | 160 | Woodrow Weatherford |
-| 26 | 148 | Shiny Towerzone |
-| 27 | 142 | Danyelle Radford Upton |
-| 28 | 142 | Ross McDonald |
-| 29 | 137 | Krysta Wilson |
-| 30 | 125 | Paul Hudak |
-| 31 | 123 | Kimberly Kupke |
-| 32 | 122 | SPARKLES999 |
-| 33 | 121 | batsy |
-| 34 | 119 | Susan Brazen |
-| 35 | 110 | Priscilla Noel |
-| 36 | 107 | Ron Knecht |
-| 37 | 104 | Perach Alima Shoa |
-| 38 | 100 | Dapper Patternline |
+| 26 | 160 | Kim Graves |
+| 27 | 148 | Shiny Towerzone |
+| 28 | 142 | Danyelle Radford Upton |
+| 29 | 142 | Ross McDonald |
+| 30 | 137 | Krysta Wilson |
+| 31 | 125 | Paul Hudak |
+| 32 | 123 | Kimberly Kupke |
+| 33 | 122 | SPARKLES999 |
+| 34 | 121 | batsy |
+| 35 | 119 | Susan Brazen |
+| 36 | 110 | Priscilla Noel |
+| 37 | 107 | Ron Knecht |
+| 38 | 104 | Perach Alima Shoa |
 | 39 | 100 | Shatey Sha'tey |
-| 40 | 94 | skunkybudz |
-| 41 | 94 | Alexis Kramer-Hermanson |
-| 42 | 92 | meshuggahbeats |
-| 43 | 90 | Jerome Carlile |
-| 44 | 90 | Annie Kim |
-| 45 | 88 | Jessica Biggs |
-| 46 | 87 | Denice Myers |
-| 47 | 80 | Angel Hopkins |
-| 48 | 80 | Jonathan Moore |
-| 49 | 80 | Dee Perry |
-| 50 | 80 | Amber Walton |
-| 51 | 80 | Kim Graves |
+| 40 | 100 | Dapper Patternline |
+| 41 | 94 | skunkybudz |
+| 42 | 94 | Alexis Kramer-Hermanson |
+| 43 | 92 | meshuggahbeats |
+| 44 | 90 | Jerome Carlile |
+| 45 | 90 | Annie Kim |
+| 46 | 88 | Jessica Biggs |
+| 47 | 87 | Denice Myers |
+| 48 | 80 | Angel Hopkins |
+| 49 | 80 | Jonathan Moore |
+| 50 | 80 | Dee Perry |
+| 51 | 80 | Amber Walton |
 | 52 | 79 | Kimberlee Pence |
 | 53 | 76 | Barim |
 | 54 | 72 | Tiesha Janay |
@@ -93,34 +93,34 @@
 | 85 | 49 | creepy paper |
 | 86 | 48 | Brian Konagel |
 | 87 | 47 | Fran Kutz |
-| 88 | 46 | Chilly Brickbuilder |
-| 89 | 46 | Audrey Maxine |
-| 90 | 45 | Hero Tree |
-| 91 | 45 | Sarah Stanonik |
+| 88 | 46 | Audrey Maxine |
+| 89 | 46 | Chilly Brickbuilder |
+| 90 | 45 | Sarah Stanonik |
+| 91 | 45 | Hero Tree |
 | 92 | 44 | Laura Slusher Updike |
-| 93 | 43 | Fancy Wobbler |
-| 94 | 43 | Brian Fowler |
+| 93 | 43 | Brian Fowler |
+| 94 | 43 | Fancy Wobbler |
 | 95 | 41 | Crystal Carlson |
 | 96 | 41 | Antkc Petebrick |
-| 97 | 40 | Jennifer Deisher |
-| 98 | 40 | Jennifer Brewer |
-| 99 | 40 | Naomi Horn |
-| 100 | 40 | Jason VeganDude Arment |
-| 101 | 40 | Cari Hogan |
-| 102 | 39 | Megan Roseberry |
-| 103 | 39 | Kaylee |
-| 104 | 39 | Beth Varieur |
-| 105 | 38 | Elizabeth Hughes |
-| 106 | 37 | Marcia Mauldin |
-| 107 | 37 | Brosoroni |
-| 108 | 36 | Peachy Towerfall |
+| 97 | 40 | Jason VeganDude Arment |
+| 98 | 40 | Lisa Stone |
+| 99 | 40 | Jennifer Deisher |
+| 100 | 40 | Cari Hogan |
+| 101 | 40 | Jennifer Brewer |
+| 102 | 40 | Naomi Horn |
+| 103 | 39 | Beth Varieur |
+| 104 | 39 | Megan Roseberry |
+| 105 | 39 | Kaylee |
+| 106 | 38 | Elizabeth Hughes |
+| 107 | 37 | Marcia Mauldin |
+| 108 | 37 | Brosoroni |
 | 109 | 36 | PopcornersRLife |
-| 110 | 36 | Lisa Stone |
-| 111 | 35 | Courtney Sanford |
-| 112 | 35 | Felicia Marie Avanzi Smith |
-| 113 | 35 | Scott Kupka |
-| 114 | 35 | Corey A Marlatt |
-| 115 | 35 | Amber F |
+| 110 | 36 | Peachy Towerfall |
+| 111 | 35 | Amber F |
+| 112 | 35 | Courtney Sanford |
+| 113 | 35 | Felicia Marie Avanzi Smith |
+| 114 | 35 | Scott Kupka |
+| 115 | 35 | Corey A Marlatt |
 | 116 | 35 | Amber Ber Vitai |
 | 117 | 35 | Rebecca Alidre Holmes-Anderson |
 | 118 | 35 | Jeremy Spohn |
@@ -186,9 +186,9 @@
 | 178 | 22 | Daniel Stolt |
 | 179 | 22 | Khalyia Monroe |
 | 180 | 22 | Azul Sai |
-| 181 | 21 | G |
-| 182 | 21 | Folk Jay |
-| 183 | 21 | Natalie Jules |
+| 181 | 22 | Natalie Jules |
+| 182 | 21 | G |
+| 183 | 21 | Folk Jay |
 | 184 | 21 | Loopy Climber |
 | 185 | 20 | Thearen |
 | 186 | 20 | Mighty Patternfit |
@@ -246,14 +246,14 @@
 | 238 | 15 | Chirpy Splitter |
 | 239 | 15 | Tytin |
 | 240 | 15 | kittensden |
-| 241 | 15 | Brandy Painter |
-| 242 | 15 | Tim Hambly |
-| 243 | 15 | Shawn Shilling |
-| 244 | 15 | Melinda Flugga |
-| 245 | 15 | Quirky Curve |
-| 246 | 14 | Christopher Taco Tobin |
-| 247 | 14 | Deandre Comer |
-| 248 | 14 | Shylock Therrien |
+| 241 | 15 | Shylock Therrien |
+| 242 | 15 | Brandy Painter |
+| 243 | 15 | Tim Hambly |
+| 244 | 15 | Shawn Shilling |
+| 245 | 15 | Melinda Flugga |
+| 246 | 15 | Quirky Curve |
+| 247 | 14 | Christopher Taco Tobin |
+| 248 | 14 | Deandre Comer |
 | 249 | 14 | Jolly Twister |
 | 250 | 14 | Briana Lowell |
 | 251 | 14 | Sara Pederson |
