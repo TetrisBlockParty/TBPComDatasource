@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 19:04:14 UTC
+# Standings for team2 as of 2026-06-05 19:04:36 UTC
 
 **Total Participants:** 431
 
@@ -20,7 +20,7 @@
 | 12 | 1128 | Jennifer Corder |
 | 13 | 1100 | Bobbi |
 | 14 | 1100 | Kathleen M Cox |
-| 15 | 735 | Bea Bee |
+| 15 | 834 | Bea Bee |
 | 16 | 700 | Anthony Lilley |
 | 17 | 663 | Logan Basham |
 | 18 | 557 | Amber Triguero |
@@ -406,37 +406,37 @@
 | 398 | 8 | Jackie Hayslip |
 | 399 | 8 | Amber Carpenter |
 | 400 | 8 | Stephanie |
-| 401 | 7 | michael |
-| 402 | 7 | Flashy Cascadeclear |
-| 403 | 7 | Happy Curvebuilder |
-| 404 | 7 | Rae |
-| 405 | 7 | Elizabeth Elaine Coursey |
-| 406 | 7 | Lacie B |
-| 407 | 7 | Tashamonique Puckey |
-| 408 | 7 | Kelli Pazour |
-| 409 | 7 | Nova Nova |
-| 410 | 7 | Loopy Tower |
+| 401 | 7 | Flashy Cascadeclear |
+| 402 | 7 | Happy Curvebuilder |
+| 403 | 7 | Rae |
+| 404 | 7 | Elizabeth Elaine Coursey |
+| 405 | 7 | Lacie B |
+| 406 | 7 | Tashamonique Puckey |
+| 407 | 7 | Kelli Pazour |
+| 408 | 7 | michael |
+| 409 | 7 | Loopy Tower |
+| 410 | 7 | Nova Nova |
 | 411 | 7 | Tina |
 | 412 | 7 | Shane Peavey |
-| 413 | 6 | Kelly Christine Trimmer |
-| 414 | 6 | Lavenda Nettles |
-| 415 | 6 | Cheeky Dashpiece |
-| 416 | 6 | Emily |
-| 417 | 6 | Joannah Capilitan |
-| 418 | 6 | Fluffypuffin |
-| 419 | 6 | fancypants |
-| 420 | 6 | Denise Morehart |
-| 421 | 6 | Fran Gerebics |
-| 422 | 5 | Slinky Glidezone |
-| 423 | 5 | Joni Michelle Morgan |
-| 424 | 5 | Poppy Zonepiece |
-| 425 | 5 | Amy Lea Hamilton |
+| 413 | 6 | Cheeky Dashpiece |
+| 414 | 6 | Emily |
+| 415 | 6 | Kelly Christine Trimmer |
+| 416 | 6 | Joannah Capilitan |
+| 417 | 6 | Fluffypuffin |
+| 418 | 6 | fancypants |
+| 419 | 6 | Denise Morehart |
+| 420 | 6 | Fran Gerebics |
+| 421 | 6 | Lavenda Nettles |
+| 422 | 5 | Momi Kamohai |
+| 423 | 5 | Pjrobinsonnn |
+| 424 | 5 | Newtwidebody |
+| 425 | 5 | Crafty Slice |
 | 426 | 5 | Agnes Gable |
-| 427 | 5 | Crafty Slice |
-| 428 | 5 | Mercedes Lowery |
-| 429 | 5 | Pjrobinsonnn |
-| 430 | 5 | Newtwidebody |
-| 431 | 5 | Momi Kamohai |
+| 427 | 5 | Amy Lea Hamilton |
+| 428 | 5 | Slinky Glidezone |
+| 429 | 5 | Joni Michelle Morgan |
+| 430 | 5 | Poppy Zonepiece |
+| 431 | 5 | Mercedes Lowery |
 
 ---
 *Standings created by tournaments datasource generation tool*
