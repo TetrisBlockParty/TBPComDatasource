@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:19:14 UTC
+# Standings for team1 as of 2026-06-05 17:20:13 UTC
 
 **Total Participants:** 330
 
@@ -61,12 +61,12 @@
 | 53 | 100 | Cool Bridger |
 | 54 | 100 | Asani CHumba |
 | 55 | 96 | Cortaz Lawrie |
-| 56 | 90 | 신재호 |
-| 57 | 86 | SPNLover24 |
-| 58 | 85 | Nate Myers |
+| 56 | 95 | Nate Myers |
+| 57 | 90 | 신재호 |
+| 58 | 86 | SPNLover24 |
 | 59 | 85 | Nerdy Snapfall |
 | 60 | 84 | Ciera Peace |
-| 61 | 82 | Hasty Pivoty |
+| 61 | 84 | Hasty Pivoty |
 | 62 | 81 | Robyn Caldwell |
 | 63 | 81 | Mafio SO |
 | 64 | 80 | Carolyn Smith |
