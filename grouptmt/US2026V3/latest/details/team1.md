@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 12:20:12 UTC
+# Standings for team1 as of 2026-06-05 12:20:33 UTC
 
 **Total Participants:** 21
 
@@ -9,7 +9,7 @@
 | 1 | 900 | Timothy Robert |
 | 2 | 749 | Aviv Zehavi |
 | 3 | 500 | Chandler Spencer |
-| 4 | 125 | Gotcha |
+| 4 | 164 | Gotcha |
 | 5 | 86 | Debbie Carswell |
 | 6 | 60 | Rachel Zimmerman |
 | 7 | 60 | Asani CHumba |

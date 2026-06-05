@@ -1,6 +1,6 @@
-# Standings for team3 as of 2026-06-05 12:20:12 UTC
+# Standings for team3 as of 2026-06-05 12:20:33 UTC
 
-**Total Participants:** 38
+**Total Participants:** 39
 
 ## Participant Scores
 
@@ -14,10 +14,10 @@
 | 6 | 100 | Bee |
 | 7 | 71 | Alex Celio |
 | 8 | 32 | Dedicated |
-| 9 | 30 | Jerome Carlile |
-| 10 | 30 | Adam Bronk |
-| 11 | 28 | Carolyn Smith |
-| 12 | 28 | SteffXx |
+| 9 | 30 | Adam Bronk |
+| 10 | 30 | Jerome Carlile |
+| 11 | 28 | SteffXx |
+| 12 | 28 | Carolyn Smith |
 | 13 | 26 | Kevin C. Moe |
 | 14 | 23 | Lively Matchpiece |
 | 15 | 20 | Paul Hudak |
@@ -26,24 +26,25 @@
 | 18 | 15 | kittensden |
 | 19 | 15 | Quirky Curve |
 | 20 | 13 | Raven Rogue |
-| 21 | 12 | Robby Beltran |
-| 22 | 12 | Violet |
+| 21 | 12 | Violet |
+| 22 | 12 | Robby Beltran |
 | 23 | 12 | Wacky Catcher |
 | 24 | 11 | Carrie Ness |
 | 25 | 10 | Shabae |
-| 26 | 9 | Tnaughty |
+| 26 | 9 | Jess Jess |
 | 27 | 9 | Lisa Stone |
 | 28 | 9 | Angie Rodriguez |
-| 29 | 9 | Jess Jess |
+| 29 | 9 | Tnaughty |
 | 30 | 8 | Jonathan Russell |
-| 31 | 8 | Sarah Jane |
-| 32 | 7 | Charles Love |
-| 33 | 7 | David Glisson |
-| 34 | 6 | Nonni |
-| 35 | 6 | Denice Myers |
-| 36 | 6 | Happy Balancer |
-| 37 | 6 | kendra |
-| 38 | 6 | Crystal Carlson |
+| 31 | 8 | kendra |
+| 32 | 8 | Sarah Jane |
+| 33 | 7 | Charles Love |
+| 34 | 7 | David Glisson |
+| 35 | 6 | Nonni |
+| 36 | 6 | Crystal Carlson |
+| 37 | 6 | Denice Myers |
+| 38 | 6 | Happy Balancer |
+| 39 | 5 | Victoria Lofquist |
 
 ---
 *Standings created by tournaments datasource generation tool*

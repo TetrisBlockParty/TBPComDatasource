@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-06-05 12:20:12 UTC
+# Standings for team4 as of 2026-06-05 12:20:33 UTC
 
-**Total Participants:** 24
+**Total Participants:** 25
 
 ## Participant Scores
 
@@ -13,8 +13,8 @@
 | 5 | 59 | Shayna Vaigneur-Hall |
 | 6 | 40 | Real Talk Vibes |
 | 7 | 40 | Keys Tome |
-| 8 | 34 | jojo |
-| 9 | 32 | Charity Thomas |
+| 8 | 38 | Charity Thomas |
+| 9 | 34 | jojo |
 | 10 | 28 | Ryan Paul Clark-Ramsey |
 | 11 | 28 | Melissa Schwager |
 | 12 | 26 | Dana Fontanez |
@@ -29,7 +29,8 @@
 | 21 | 9 | smarty |
 | 22 | 9 | Hotstuff |
 | 23 | 7 | Hasty Dropzone |
-| 24 | 5 | Cflixer |
+| 24 | 6 | Jasmine Marie |
+| 25 | 5 | Cflixer |
 
 ---
 *Standings created by tournaments datasource generation tool*
