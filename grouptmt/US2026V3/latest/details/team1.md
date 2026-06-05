@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:32:35 UTC
+# Standings for team1 as of 2026-06-05 15:33:13 UTC
 
 **Total Participants:** 248
 
@@ -222,38 +222,38 @@
 | 214 | 9 | Abby |
 | 215 | 9 | Ta'Kaiyah M. Spann |
 | 216 | 8 | Brika Brika |
-| 217 | 8 | Sammie Walker |
-| 218 | 8 | Breezy Catcher |
-| 219 | 8 | Jessie N Michael Silvers |
-| 220 | 8 | Tanesha Ga'sFinest Corbett |
-| 221 | 8 | Taz Ballard |
+| 217 | 8 | Tanesha Ga'sFinest Corbett |
+| 218 | 8 | Sammie Walker |
+| 219 | 8 | Breezy Catcher |
+| 220 | 8 | Taz Ballard |
+| 221 | 8 | Jessie N Michael Silvers |
 | 222 | 7 | Jumpy Gridlock |
-| 223 | 7 | Kendra McIntyre |
-| 224 | 7 | wmedina67 |
+| 223 | 7 | Block King |
+| 224 | 7 | Shane Brucewayne |
 | 225 | 7 | Mary2 |
-| 226 | 7 | Shane Brucewayne |
-| 227 | 7 | whatever |
-| 228 | 7 | Block King |
+| 226 | 7 | Kendra McIntyre |
+| 227 | 7 | wmedina67 |
+| 228 | 7 | whatever |
 | 229 | 6 | Allison Baxter |
-| 230 | 6 | Jeffrey Barrows |
-| 231 | 6 | Cece Fowler |
+| 230 | 6 | Cece Fowler |
+| 231 | 6 | Christopher Wallace |
 | 232 | 6 | Janine Hunter |
 | 233 | 6 | Brittnay Wright |
-| 234 | 6 | Christopher Wallace |
-| 235 | 6 | messyboots |
-| 236 | 5 | Temeshia Brooks Washington |
-| 237 | 5 | Vernon Hoyt |
-| 238 | 5 | Rixo Blax |
+| 234 | 6 | messyboots |
+| 235 | 6 | Jeffrey Barrows |
+| 236 | 5 | Kidgib5 |
+| 237 | 5 | Rixo Blax |
+| 238 | 5 | Temeshia Brooks Washington |
 | 239 | 5 | KeeKee Williams |
-| 240 | 5 | Tamika Fisher |
-| 241 | 5 | Jennifer Moore |
-| 242 | 5 | Kidgib5 |
-| 243 | 5 | Shawn Himes |
-| 244 | 5 | Zappy Clearfit |
-| 245 | 5 | DirtiestofMikes |
-| 246 | 5 | Stephanie Zuniga Tullock |
-| 247 | 5 | Lil T |
-| 248 | 5 | Derek Beverly |
+| 240 | 5 | Derek Beverly |
+| 241 | 5 | Vernon Hoyt |
+| 242 | 5 | Lil T |
+| 243 | 5 | Stephanie Zuniga Tullock |
+| 244 | 5 | DirtiestofMikes |
+| 245 | 5 | Zappy Clearfit |
+| 246 | 5 | Tamika Fisher |
+| 247 | 5 | Jennifer Moore |
+| 248 | 5 | Shawn Himes |
 
 ---
 *Standings created by tournaments datasource generation tool*
