@@ -1,20 +1,20 @@
-# Standings for team3 as of 2026-06-05 12:44:13 UTC
+# Standings for team3 as of 2026-06-05 12:44:34 UTC
 
-**Total Participants:** 87
+**Total Participants:** 90
 
 ## Participant Scores
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 2594 | George Michaels |
+| 1 | 3091 | George Michaels |
 | 2 | 1065 | Alan George LaRage |
 | 3 | 836 | Tom Borja |
 | 4 | 545 | Lindsey Gardner |
-| 5 | 476 | Tami Czenkus |
-| 6 | 367 | Edda-Jo Wenneman Dobbs |
-| 7 | 300 | Jăckie Gønzaləz-Mōntålvo |
-| 8 | 200 | Bee |
-| 9 | 200 | AL Ferrari |
+| 5 | 500 | Jăckie Gønzaləz-Mōntålvo |
+| 6 | 476 | Tami Czenkus |
+| 7 | 367 | Edda-Jo Wenneman Dobbs |
+| 8 | 200 | AL Ferrari |
+| 9 | 200 | Bee |
 | 10 | 160 | Woodrow Weatherford |
 | 11 | 142 | Danyelle Radford Upton |
 | 12 | 104 | Perach Alima Shoa |
@@ -29,8 +29,8 @@
 | 21 | 45 | Denice Myers |
 | 22 | 44 | Laura Slusher Updike |
 | 23 | 41 | Crystal Carlson |
-| 24 | 41 | creepy paper |
-| 25 | 41 | Kimberly Kupke |
+| 24 | 41 | Kimberly Kupke |
+| 25 | 41 | creepy paper |
 | 26 | 40 | Paul Hudak |
 | 27 | 35 | Rebecca Alidre Holmes-Anderson |
 | 28 | 33 | Raya |
@@ -39,60 +39,63 @@
 | 31 | 30 | Christopher Kissiah |
 | 32 | 30 | Jvo |
 | 33 | 30 | Raymond J Turnbull |
-| 34 | 28 | Kristina Courtney |
-| 35 | 28 | Carolyn Smith |
+| 34 | 28 | Carolyn Smith |
+| 35 | 28 | Kristina Courtney |
 | 36 | 26 | Kevin C. Moe |
 | 37 | 26 | Loony Strikesnap |
 | 38 | 25 | Garrett Hofmann |
-| 39 | 25 | Funky Fall |
-| 40 | 24 | Bren Stahl |
-| 41 | 23 | Charles Love |
-| 42 | 22 | VOID EDGE |
-| 43 | 20 | Teresa Jackson |
+| 39 | 25 | Gypsy Woodall |
+| 40 | 25 | Funky Fall |
+| 41 | 24 | Bren Stahl |
+| 42 | 23 | Charles Love |
+| 43 | 22 | VOID EDGE |
 | 44 | 20 | kendra |
-| 45 | 19 | Sabrina34 |
+| 45 | 20 | Teresa Jackson |
 | 46 | 19 | Ashley Dilsaver |
-| 47 | 18 | Alison Gomes |
-| 48 | 18 | ToxicTrinity |
-| 49 | 16 | Karina Cortes |
-| 50 | 15 | Quirky Curve |
-| 51 | 15 | kittensden |
-| 52 | 15 | Kite Kelly |
+| 47 | 19 | Sabrina34 |
+| 48 | 18 | Alison Gomes |
+| 49 | 18 | ToxicTrinity |
+| 50 | 16 | Karina Cortes |
+| 51 | 15 | Kite Kelly |
+| 52 | 15 | kittensden |
 | 53 | 15 | Lisa Stone |
-| 54 | 14 | Sara Pederson |
-| 55 | 13 | Raven Rogue |
-| 56 | 12 | Robby Beltran |
-| 57 | 12 | Nette Babi |
-| 58 | 12 | blockbusterr |
+| 54 | 15 | Quirky Curve |
+| 55 | 14 | Sara Pederson |
+| 56 | 13 | Raven Rogue |
+| 57 | 12 | blockbusterr |
+| 58 | 12 | Nette Babi |
 | 59 | 12 | Wacky Catcher |
 | 60 | 12 | Jonathan Russell |
 | 61 | 12 | Nonni |
 | 62 | 12 | Violet |
-| 63 | 11 | Carrie Ness |
-| 64 | 11 | Happy Balancer |
-| 65 | 11 | David Glisson |
-| 66 | 10 | Avias |
-| 67 | 10 | Shabae |
-| 68 | 10 | Casey Kincheloe |
-| 69 | 10 | Manda Mumea |
-| 70 | 10 | Giddy Shift |
-| 71 | 9 | Kyle Thompson |
-| 72 | 9 | Sarah Jane |
-| 73 | 9 | Angie Rodriguez |
-| 74 | 9 | Salky |
-| 75 | 9 | Natasha Silva |
-| 76 | 9 | ciscokid81 |
-| 77 | 9 | Sarah Cruthirds |
-| 78 | 9 | Jess Jess |
-| 79 | 9 | Tnaughty |
-| 80 | 7 | DShark72 |
-| 81 | 7 | Loony Rollfit |
-| 82 | 6 | bt |
-| 83 | 5 | Gypsy Woodall |
-| 84 | 5 | KAR |
-| 85 | 5 | Megan Roseberry |
-| 86 | 5 | Victoria Lofquist |
-| 87 | 5 | Snippy Cornerfall |
+| 63 | 12 | Robby Beltran |
+| 64 | 11 | Carrie Ness |
+| 65 | 11 | Happy Balancer |
+| 66 | 11 | David Glisson |
+| 67 | 10 | Giddy Shift |
+| 68 | 10 | Avias |
+| 69 | 10 | Casey Kincheloe |
+| 70 | 10 | Manda Mumea |
+| 71 | 10 | Shabae |
+| 72 | 9 | Sarah Cruthirds |
+| 73 | 9 | ciscokid81 |
+| 74 | 9 | Kyle Thompson |
+| 75 | 9 | Salky |
+| 76 | 9 | Natasha Silva |
+| 77 | 9 | Christina M Arroyo |
+| 78 | 9 | Tnaughty |
+| 79 | 9 | Sarah Jane |
+| 80 | 9 | Angie Rodriguez |
+| 81 | 9 | Jess Jess |
+| 82 | 8 | Fam |
+| 83 | 7 | Loony Rollfit |
+| 84 | 7 | DShark72 |
+| 85 | 6 | bt |
+| 86 | 5 | Megan Roseberry |
+| 87 | 5 | Peachy Towerfall |
+| 88 | 5 | KAR |
+| 89 | 5 | Snippy Cornerfall |
+| 90 | 5 | Victoria Lofquist |
 
 ---
 *Standings created by tournaments datasource generation tool*
