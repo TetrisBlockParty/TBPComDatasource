@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 22:32:15 UTC
+# Standings for team1 as of 2026-06-05 22:32:38 UTC
 
 **Total Participants:** 564
 
@@ -555,21 +555,21 @@
 | 547 | 5 | Derek Beverly |
 | 548 | 5 | Jasmine Hariston-Estis |
 | 549 | 5 | Stephanie Zuniga Tullock |
-| 550 | 5 | Barbramerri Tarboro |
-| 551 | 5 | Kidgib5 |
-| 552 | 5 | Zappy Clearfit |
-| 553 | 5 | Tamika Fisher |
-| 554 | 5 | Logan Frost |
-| 555 | 5 | Shawn Himes |
-| 556 | 5 | Andre Sanon |
+| 550 | 5 | Jennifer Moore |
+| 551 | 5 | Zappy Clearfit |
+| 552 | 5 | Tamika Fisher |
+| 553 | 5 | Logan Frost |
+| 554 | 5 | Shawn Himes |
+| 555 | 5 | Andre Sanon |
+| 556 | 5 | Barbramerri Tarboro |
 | 557 | 5 | pooh |
-| 558 | 5 | Jjhandsome |
-| 559 | 5 | Tito Divyn |
-| 560 | 5 | Vernon Hoyt |
-| 561 | 5 | Mommy Frank |
-| 562 | 5 | Shakuria Cortia Burney |
-| 563 | 5 | Quirky Fallgrid |
-| 564 | 5 | Jennifer Moore |
+| 558 | 5 | Tito Divyn |
+| 559 | 5 | Vernon Hoyt |
+| 560 | 5 | Mommy Frank |
+| 561 | 5 | Shakuria Cortia Burney |
+| 562 | 5 | Quirky Fallgrid |
+| 563 | 5 | Kidgib5 |
+| 564 | 5 | Jjhandsome |
 
 ---
 *Standings created by tournaments datasource generation tool*
