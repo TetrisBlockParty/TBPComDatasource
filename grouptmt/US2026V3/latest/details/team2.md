@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 16:26:36 UTC
+# Standings for team2 as of 2026-06-05 16:27:13 UTC
 
 **Total Participants:** 298
 
@@ -124,10 +124,10 @@
 | 116 | 35 | Kelly |
 | 117 | 34 | Marylin Eacker |
 | 118 | 34 | Funway998 |
-| 119 | 33 | Alexis Meyers |
-| 120 | 33 | Kenzie |
-| 121 | 32 | Sandra Belk |
-| 122 | 32 | H |
+| 119 | 34 | H |
+| 120 | 33 | Alexis Meyers |
+| 121 | 33 | Kenzie |
+| 122 | 32 | Sandra Belk |
 | 123 | 32 | Jgato |
 | 124 | 31 | Michael Carmichael |
 | 125 | 30 | Christina Shell |
@@ -264,23 +264,23 @@
 | 256 | 9 | Cary M. Fong |
 | 257 | 9 | Angelique Matzke Starns |
 | 258 | 9 | Chirpy Clearpiece |
-| 259 | 9 | Darla Ragsdale |
-| 260 | 9 | Michele Stewart |
-| 261 | 9 | Lindsey Butler |
-| 262 | 9 | Giggly Spinblock |
-| 263 | 9 | bigdog |
-| 264 | 8 | Stephanie |
-| 265 | 8 | Renee Weedling |
-| 266 | 8 | Bubbly Strikerpiece |
-| 267 | 8 | DayDreamer79 |
-| 268 | 8 | Chelsea Frye |
-| 269 | 8 | Amber Carpenter |
-| 270 | 7 | Rae |
-| 271 | 7 | Cherica Taylor |
+| 259 | 9 | Lindsey Butler |
+| 260 | 9 | bigdog |
+| 261 | 9 | Darla Ragsdale |
+| 262 | 9 | Michele Stewart |
+| 263 | 9 | Giggly Spinblock |
+| 264 | 8 | Amber Carpenter |
+| 265 | 8 | Chelsea Frye |
+| 266 | 8 | DayDreamer79 |
+| 267 | 8 | Bubbly Strikerpiece |
+| 268 | 8 | Renee Weedling |
+| 269 | 8 | Stephanie |
+| 270 | 7 | Tashamonique Puckey |
+| 271 | 7 | nova |
 | 272 | 7 | Shane Peavey |
-| 273 | 7 | Tashamonique Puckey |
-| 274 | 7 | Happy Curvebuilder |
-| 275 | 7 | nova |
+| 273 | 7 | Cherica Taylor |
+| 274 | 7 | Rae |
+| 275 | 7 | Happy Curvebuilder |
 | 276 | 7 | michael |
 | 277 | 7 | Jackie Hayslip |
 | 278 | 7 | Epic Framezone |
@@ -290,10 +290,10 @@
 | 282 | 6 | Cheeky Dashpiece |
 | 283 | 6 | Gina Leal |
 | 284 | 6 | Jeanna Mendez |
-| 285 | 6 | Mary Carriere |
-| 286 | 6 | Kelly Christine Trimmer |
-| 287 | 6 | Fran Gerebics |
-| 288 | 6 | Emily |
+| 285 | 6 | Kelly Christine Trimmer |
+| 286 | 6 | Fran Gerebics |
+| 287 | 6 | Emily |
+| 288 | 6 | Mary Carriere |
 | 289 | 6 | fancypants |
 | 290 | 6 | Denise Morehart |
 | 291 | 6 | Sarah Griffey |
@@ -301,9 +301,9 @@
 | 293 | 5 | Joni Michelle Morgan |
 | 294 | 5 | Lindsey Ford |
 | 295 | 5 | Slinky Glidezone |
-| 296 | 5 | Agnes Gable |
-| 297 | 5 | Pjrobinsonnn |
-| 298 | 5 | Jolly Twisterfit |
+| 296 | 5 | Jolly Twisterfit |
+| 297 | 5 | Agnes Gable |
+| 298 | 5 | Pjrobinsonnn |
 
 ---
 *Standings created by tournaments datasource generation tool*

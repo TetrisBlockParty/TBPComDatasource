@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 16:26:36 UTC
+# Standings for team1 as of 2026-06-05 16:27:13 UTC
 
 **Total Participants:** 290
 
@@ -74,8 +74,8 @@
 | 66 | 67 | Michele Elizabeth McKay-Johnson |
 | 67 | 66 | Shontanese Adams |
 | 68 | 65 | Frisky Fall |
-| 69 | 65 | Shanell Thomas |
-| 70 | 65 | Latore Maxie |
+| 69 | 65 | Latore Maxie |
+| 70 | 65 | Shanell Thomas |
 | 71 | 63 | Carrie English |
 | 72 | 62 | Cheeky Pop |
 | 73 | 61 | Angela R Wilson |
@@ -84,8 +84,8 @@
 | 76 | 60 | Marcheta Cervantez |
 | 77 | 60 | Valerie Alexander |
 | 78 | 60 | Boldy Liner |
-| 79 | 57 | Erin Sabol |
-| 80 | 57 | Tosha Michelle |
+| 79 | 57 | Tosha Michelle |
+| 80 | 57 | Erin Sabol |
 | 81 | 56 | Dena Marie Lee |
 | 82 | 54 | Lauraly |
 | 83 | 51 | Comedian Gdane |
@@ -95,32 +95,32 @@
 | 87 | 50 | Dai Bo |
 | 88 | 50 | Teresa Yanira Cepeda |
 | 89 | 49 | Sanjuro |
-| 90 | 47 | Christopher Dreamsareality McEachin |
-| 91 | 46 | Hasty Pivoty |
+| 90 | 47 | Hasty Pivoty |
+| 91 | 47 | Christopher Dreamsareality McEachin |
 | 92 | 45 | Jayjay Rich |
 | 93 | 45 | Guy Incognito |
 | 94 | 43 | Block |
-| 95 | 42 | sasha |
-| 96 | 42 | Songne Arif |
+| 95 | 42 | Songne Arif |
+| 96 | 42 | sasha |
 | 97 | 41 | Jessica Russell |
-| 98 | 40 | Flashy Slam |
-| 99 | 40 | Rackemwillie34 |
-| 100 | 40 | Leavon Smith |
-| 101 | 40 | Jean Regis |
-| 102 | 40 | Nate Myers |
-| 103 | 39 | JesusSaves 😇 |
-| 104 | 39 | Sabrina Wilkerson |
+| 98 | 40 | Jean Regis |
+| 99 | 40 | Nate Myers |
+| 100 | 40 | Flashy Slam |
+| 101 | 40 | Rackemwillie34 |
+| 102 | 40 | Leavon Smith |
+| 103 | 39 | Sabrina Wilkerson |
+| 104 | 39 | JesusSaves 😇 |
 | 105 | 38 | rls |
 | 106 | 38 | Kahliah Baker |
 | 107 | 37 | Calvin Green |
-| 108 | 37 | Steve Reno |
-| 109 | 37 | Cranky Fall |
-| 110 | 37 | Lootch |
-| 111 | 37 | Byron Mario Cawthon |
-| 112 | 37 | IThinkNot |
+| 108 | 37 | IThinkNot |
+| 109 | 37 | Lootch |
+| 110 | 37 | Byron Mario Cawthon |
+| 111 | 37 | Steve Reno |
+| 112 | 37 | Cranky Fall |
 | 113 | 36 | Mic Balew |
-| 114 | 35 | HBTone |
-| 115 | 35 | Heather Aurelia |
+| 114 | 35 | Heather Aurelia |
+| 115 | 35 | HBTone |
 | 116 | 35 | Saucy Crusher |
 | 117 | 35 | KoolKimJay |
 | 118 | 35 | Lilly Brown |
