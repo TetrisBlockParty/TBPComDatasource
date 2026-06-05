@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 16:20:37 UTC
+# Standings for team4 as of 2026-06-05 16:21:13 UTC
 
 **Total Participants:** 263
 
@@ -24,8 +24,8 @@
 | 16 | 273 | delilahbelle |
 | 17 | 270 | Gloria Nunley Trussell |
 | 18 | 240 | Jojo Ann |
-| 19 | 220 | Jeremy Lopez |
-| 20 | 220 | Jesse Olive |
+| 19 | 220 | Jesse Olive |
+| 20 | 220 | Jeremy Lopez |
 | 21 | 214 | Sisi RedVelvet Reneè |
 | 22 | 208 | vag1974 |
 | 23 | 200 | Leah Gorsuch |
@@ -36,14 +36,14 @@
 | 28 | 159 | iiPurgeV2 |
 | 29 | 149 | Danny Ortiz |
 | 30 | 148 | Colin |
-| 31 | 138 | Adam J Leong |
-| 32 | 138 | RotatedWrongAgain |
-| 33 | 125 | Leslie Ann Carter |
-| 34 | 121 | Ryan Paul Clark-Ramsey |
-| 35 | 108 | Debby Ruof |
-| 36 | 107 | Real Talk Vibes |
-| 37 | 107 | Shayna Vaigneur-Hall |
-| 38 | 104 | Kayla Fuentes |
+| 31 | 138 | RotatedWrongAgain |
+| 32 | 138 | Adam J Leong |
+| 33 | 127 | Real Talk Vibes |
+| 34 | 125 | Leslie Ann Carter |
+| 35 | 121 | Ryan Paul Clark-Ramsey |
+| 36 | 108 | Debby Ruof |
+| 37 | 107 | Kayla Fuentes |
+| 38 | 107 | Shayna Vaigneur-Hall |
 | 39 | 101 | Fruitpunch |
 | 40 | 100 | Cal Renee |
 | 41 | 95 | Lush Fitblock |
@@ -51,13 +51,13 @@
 | 43 | 90 | woopa 716 |
 | 44 | 89 | Waxboss |
 | 45 | 87 | Limbo |
-| 46 | 85 | Renee Sapp |
-| 47 | 85 | Daryn Elliott |
+| 46 | 85 | Daryn Elliott |
+| 47 | 85 | Renee Sapp |
 | 48 | 81 | Dominique Melendez |
 | 49 | 80 | Krista Diaz |
 | 50 | 79 | Luna |
-| 51 | 78 | Tina Thomas |
-| 52 | 78 | Tawna Curry |
+| 51 | 78 | Tawna Curry |
+| 52 | 78 | Tina Thomas |
 | 53 | 75 | June Hoffman |
 | 54 | 74 | Lani |
 | 55 | 71 | Lady |
@@ -168,11 +168,11 @@
 | 160 | 20 | Jerett Coplin |
 | 161 | 19 | Diana Fernandez |
 | 162 | 19 | Swanky Matchfit |
-| 163 | 19 | Jewelz |
-| 164 | 19 | Solace Grace |
-| 165 | 18 | Perry Ransom |
-| 166 | 18 | pussface |
-| 167 | 18 | ariel |
+| 163 | 19 | ariel |
+| 164 | 19 | Jewelz |
+| 165 | 19 | Solace Grace |
+| 166 | 18 | Perry Ransom |
+| 167 | 18 | pussface |
 | 168 | 18 | Dexter Hammond Jr |
 | 169 | 18 | Dawn Ferrin |
 | 170 | 18 | Jumpy Builderpiece |

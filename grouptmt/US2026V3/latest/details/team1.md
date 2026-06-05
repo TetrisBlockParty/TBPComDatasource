@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 16:20:37 UTC
+# Standings for team1 as of 2026-06-05 16:21:13 UTC
 
 **Total Participants:** 285
 
@@ -32,7 +32,7 @@
 | 24 | 234 | Pdubbl3 |
 | 25 | 220 | Rayya Kiser |
 | 26 | 215 | Abraham Espaillat |
-| 27 | 199 | Ashley MyBeauty Daniels |
+| 27 | 207 | Ashley MyBeauty Daniels |
 | 28 | 185 | COSA303 |
 | 29 | 185 | Jennifer To |
 | 30 | 178 | Gotcha |
@@ -128,107 +128,107 @@
 | 120 | 33 | Krose Byers |
 | 121 | 33 | Sashaleo |
 | 122 | 33 | Richard Flex |
-| 123 | 33 | Chris Nelson |
-| 124 | 33 | Block King |
+| 123 | 33 | Block King |
+| 124 | 33 | Chris Nelson |
 | 125 | 32 | Christi Walker Patton |
-| 126 | 32 | Tobey Marberry |
-| 127 | 32 | Melvin Simpson |
-| 128 | 31 | Boldy Pivoty |
+| 126 | 32 | Melvin Simpson |
+| 127 | 32 | Tobey Marberry |
+| 128 | 31 | Daris Swearington |
 | 129 | 31 | Miera Nicole |
-| 130 | 31 | Daris Swearington |
+| 130 | 31 | Boldy Pivoty |
 | 131 | 30 | Lester Malone |
 | 132 | 30 | Kp |
-| 133 | 30 | Saucy Faller |
-| 134 | 30 | Casey Chapman |
+| 133 | 30 | Casey Chapman |
+| 134 | 30 | Saucy Faller |
 | 135 | 30 | Kristie |
 | 136 | 30 | Jack Vlasak |
 | 137 | 30 | Sarah Guarino |
 | 138 | 30 | Andi McGreevy |
 | 139 | 29 | Nerdy Snapfall |
-| 140 | 29 | hope |
+| 140 | 29 | Eric Mcgaughy |
 | 141 | 29 | Eartha Brown |
-| 142 | 29 | Eric Mcgaughy |
+| 142 | 29 | hope |
 | 143 | 28 | Earl Williams |
 | 144 | 28 | Jazzy Bridger |
 | 145 | 28 | John Staub |
-| 146 | 27 | Zany Breaker |
-| 147 | 27 | Jae Thompson-Tyus |
-| 148 | 27 | Charlene Baltimore |
+| 146 | 27 | Jae Thompson-Tyus |
+| 147 | 27 | Charlene Baltimore |
+| 148 | 27 | Zany Breaker |
 | 149 | 27 | Mighty Dropper |
 | 150 | 26 | Xrandomx |
 | 151 | 25 | Teresa Yanira Cepeda |
 | 152 | 25 | Tony P Burke |
-| 153 | 25 | Skippy |
+| 153 | 25 | Kimmie Gargano |
 | 154 | 25 | Tyrone Porter |
-| 155 | 25 | Kyle Conley |
-| 156 | 25 | Kimmie Gargano |
+| 155 | 25 | Skippy |
+| 156 | 25 | Kyle Conley |
 | 157 | 24 | TBABYJ |
-| 158 | 24 | Mrs |
-| 159 | 24 | Nobles Brandon |
-| 160 | 24 | Dee McCool |
-| 161 | 24 | Brittany Fells |
+| 158 | 24 | Nobles Brandon |
+| 159 | 24 | Dee McCool |
+| 160 | 24 | Brittany Fells |
+| 161 | 24 | Mrs |
 | 162 | 23 | Khatyrah Burnette |
-| 163 | 23 | Poppy Twister |
-| 164 | 23 | Tabitha Dupre-Allen |
-| 165 | 23 | Adrian Harris |
-| 166 | 23 | Tamara N Lee |
-| 167 | 22 | Ad Doctor |
-| 168 | 22 | Tanisha Taylor |
+| 163 | 23 | Tamara N Lee |
+| 164 | 23 | Poppy Twister |
+| 165 | 23 | Tabitha Dupre-Allen |
+| 166 | 23 | Adrian Harris |
+| 167 | 22 | Tanisha Taylor |
+| 168 | 22 | Ad Doctor |
 | 169 | 21 | Brave Balanceblock |
 | 170 | 21 | Sylvia Offically A Mcgowan |
-| 171 | 20 | Jai |
-| 172 | 20 | Kenneth Hefney |
-| 173 | 20 | Dorian Griffin |
+| 171 | 20 | Dorian Griffin |
+| 172 | 20 | Heather Aurelia |
+| 173 | 20 | Jai |
 | 174 | 20 | Epic Snapfall |
-| 175 | 20 | Heather Aurelia |
-| 176 | 20 | Nona Harriel |
-| 177 | 20 | Chevalier Burley |
-| 178 | 20 | Trina Greenwood |
+| 175 | 20 | Nona Harriel |
+| 176 | 20 | Mic Balew |
+| 177 | 20 | Nyhlah Patterson |
+| 178 | 20 | Chevalier Burley |
 | 179 | 20 | Devin West |
-| 180 | 20 | Nyhlah Patterson |
-| 181 | 19 | Jenni |
+| 180 | 20 | Kenneth Hefney |
+| 181 | 20 | Trina Greenwood |
 | 182 | 19 | Saucy Tile |
-| 183 | 19 | Shanjerrica Taylor Rosell |
-| 184 | 19 | Michele Simpson |
-| 185 | 19 | Amanda Woodruff |
-| 186 | 19 | Mimi 1.0 |
-| 187 | 19 | LAhoneybun82 |
-| 188 | 19 | Brenda Malachi-butler |
-| 189 | 19 | Lozuna |
-| 190 | 18 | AleahKCH |
-| 191 | 18 | Sunny Clicky |
-| 192 | 18 | Tyree Tman Shinette |
-| 193 | 18 | Danny M GR |
+| 183 | 19 | Mimi 1.0 |
+| 184 | 19 | Brenda Malachi-butler |
+| 185 | 19 | Lozuna |
+| 186 | 19 | LAhoneybun82 |
+| 187 | 19 | Jenni |
+| 188 | 19 | Amanda Woodruff |
+| 189 | 19 | Michele Simpson |
+| 190 | 19 | Shanjerrica Taylor Rosell |
+| 191 | 18 | Tyree Tman Shinette |
+| 192 | 18 | Sunny Clicky |
+| 193 | 18 | AleahKCH |
 | 194 | 18 | Li-Li Ratliff |
-| 195 | 17 | Elizabeth Vega Coreano |
-| 196 | 17 | Kimberly Red |
-| 197 | 17 | Rikki Moran |
-| 198 | 16 | Sunny Tumbler |
-| 199 | 16 | Jason Mungin |
-| 200 | 16 | MsBobby Patrick |
-| 201 | 16 | Desiree Ryder |
-| 202 | 15 | Elaine Youmans |
-| 203 | 15 | Clever Fitblock |
-| 204 | 15 | Lit757 |
-| 205 | 15 | NastyFriend |
-| 206 | 15 | Tami Spence |
-| 207 | 15 | Delitra Perkins Hatter |
-| 208 | 15 | Una |
-| 209 | 15 | Jess |
-| 210 | 15 | Mic Balew |
+| 195 | 18 | Danny M GR |
+| 196 | 17 | Elizabeth Vega Coreano |
+| 197 | 17 | Kimberly Red |
+| 198 | 17 | Rikki Moran |
+| 199 | 16 | Desiree Ryder |
+| 200 | 16 | Sunny Tumbler |
+| 201 | 16 | Jason Mungin |
+| 202 | 16 | MsBobby Patrick |
+| 203 | 15 | Tami Spence |
+| 204 | 15 | Delitra Perkins Hatter |
+| 205 | 15 | Jess |
+| 206 | 15 | NastyFriend |
+| 207 | 15 | Lit757 |
+| 208 | 15 | Clever Fitblock |
+| 209 | 15 | Elaine Youmans |
+| 210 | 15 | Una |
 | 211 | 14 | Alyssa Rae |
-| 212 | 14 | Zachary Colegrove |
-| 213 | 14 | Vivian Bunnell Myers |
-| 214 | 14 | Jerrone Epps |
-| 215 | 14 | David A Alvino |
+| 212 | 14 | Vivian Bunnell Myers |
+| 213 | 14 | Zachary Colegrove |
+| 214 | 14 | David A Alvino |
+| 215 | 14 | Jerrone Epps |
 | 216 | 14 | No_Other_Choice |
 | 217 | 13 | Frothy Zoney |
 | 218 | 13 | Oaklonboy mike |
 | 219 | 13 | Sunny Riserbuilder |
 | 220 | 13 | Heather Wilson |
 | 221 | 12 | Yadira Salgado |
-| 222 | 12 | messyboots |
-| 223 | 12 | Abigail Newman Sweet |
+| 222 | 12 | Abigail Newman Sweet |
+| 223 | 12 | messyboots |
 | 224 | 12 | Kimberly Hernandez |
 | 225 | 12 | Soubletzy |
 | 226 | 12 | W.A. Simpson |

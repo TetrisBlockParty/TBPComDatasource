@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 16:20:37 UTC
+# Standings for team2 as of 2026-06-05 16:21:13 UTC
 
 **Total Participants:** 293
 
@@ -20,8 +20,8 @@
 | 12 | 557 | Amber Triguero |
 | 13 | 515 | Loony Faller |
 | 14 | 503 | Jamie Jones |
-| 15 | 445 | Amy Gale |
-| 16 | 442 | Bea Bee |
+| 15 | 492 | Bea Bee |
+| 16 | 445 | Amy Gale |
 | 17 | 392 | Brandon Link |
 | 18 | 363 | Lacey Nolting |
 | 19 | 280 | Julie Trede Amerson |
@@ -75,45 +75,45 @@
 | 67 | 57 | Jumpy Dashpiece |
 | 68 | 57 | Zany Wrecker |
 | 69 | 55 | Rick |
-| 70 | 54 | Suki Jacobs |
-| 71 | 54 | Cool Balancer |
+| 70 | 54 | Cool Balancer |
+| 71 | 54 | Suki Jacobs |
 | 72 | 51 | Loretta Crow |
 | 73 | 50 | Martha Lynn Wiggins |
-| 74 | 50 | Justin Stark |
+| 74 | 50 | Jessica Christine |
 | 75 | 50 | Shiny Spinfit |
-| 76 | 50 | Amber Salazar |
-| 77 | 50 | Jessica Christine |
+| 76 | 50 | Justin Stark |
+| 77 | 50 | Amber Salazar |
 | 78 | 48 | Dizzy Dropzone |
 | 79 | 48 | Spicy Basepiece |
 | 80 | 47 | Brenda Jones |
-| 81 | 46 | Dani Newton |
-| 82 | 46 | Brandy Chinelle |
+| 81 | 46 | Brandy Chinelle |
+| 82 | 46 | Dani Newton |
 | 83 | 45 | Lively Twisterfit |
 | 84 | 45 | Michelle Anne |
 | 85 | 44 | Zaniya Brown |
-| 86 | 43 | SEH |
-| 87 | 43 | Peter Fogg |
-| 88 | 42 | Bri St Peter |
-| 89 | 42 | Snazzy Smasher |
-| 90 | 42 | Heather Vircik |
-| 91 | 42 | Charity Hauser |
-| 92 | 42 | Henny Henny |
-| 93 | 41 | Ava Speedy |
-| 94 | 41 | Jenny Coffer |
-| 95 | 40 | Dane Marko |
-| 96 | 40 | Kevin Mccoy |
-| 97 | 40 | Nicole Chestnut |
-| 98 | 40 | Loopy Dropper |
-| 99 | 40 | Sherry Ann |
-| 100 | 40 | Spicy Balanceblock |
-| 101 | 40 | Larry Cross |
-| 102 | 39 | Jason Lamporte |
-| 103 | 39 | Becca Marie |
-| 104 | 39 | Xandrea Jones |
-| 105 | 39 | Brittany Nichole Ellenburg |
-| 106 | 38 | Jason P. Schwartz |
-| 107 | 38 | Nicole Hogue |
-| 108 | 38 | Harper |
+| 86 | 43 | Peter Fogg |
+| 87 | 43 | SEH |
+| 88 | 42 | Charity Hauser |
+| 89 | 42 | Brittany Nichole Ellenburg |
+| 90 | 42 | Snazzy Smasher |
+| 91 | 42 | Henny Henny |
+| 92 | 42 | Heather Vircik |
+| 93 | 42 | Bri St Peter |
+| 94 | 41 | Ava Speedy |
+| 95 | 41 | Jenny Coffer |
+| 96 | 40 | Sherry Ann |
+| 97 | 40 | Larry Cross |
+| 98 | 40 | Nicole Chestnut |
+| 99 | 40 | Spicy Balanceblock |
+| 100 | 40 | Dane Marko |
+| 101 | 40 | Loopy Dropper |
+| 102 | 40 | Kevin Mccoy |
+| 103 | 39 | Jason Lamporte |
+| 104 | 39 | Becca Marie |
+| 105 | 39 | Xandrea Jones |
+| 106 | 38 | Harper |
+| 107 | 38 | Jason P. Schwartz |
+| 108 | 38 | Nicole Hogue |
 | 109 | 38 | Sarah Jane Gorsuch |
 | 110 | 37 | James Ward |
 | 111 | 36 | Mtnblzr |
@@ -125,9 +125,9 @@
 | 117 | 34 | Marylin Eacker |
 | 118 | 33 | Alexis Meyers |
 | 119 | 33 | Kenzie |
-| 120 | 32 | Sandra Belk |
+| 120 | 32 | Jgato |
 | 121 | 32 | H |
-| 122 | 32 | Jgato |
+| 122 | 32 | Sandra Belk |
 | 123 | 31 | Michael Carmichael |
 | 124 | 30 | Christina Shell |
 | 125 | 30 | Paula Haskins |
