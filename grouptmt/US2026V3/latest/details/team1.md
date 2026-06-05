@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 23:09:14 UTC
+# Standings for team1 as of 2026-06-05 23:10:14 UTC
 
 **Total Participants:** 583
 
@@ -33,17 +33,17 @@
 | 25 | 438 | Ryan Meilleur |
 | 26 | 431 | Hunter Rayborn |
 | 27 | 411 | Ivana Schmidt |
-| 28 | 360 | She Higgy |
-| 29 | 357 | Sarah Marie |
-| 30 | 353 | AF Cruz |
-| 31 | 348 | Brian Bohanon II |
-| 32 | 325 | JoJo |
-| 33 | 319 | Shell Lewis |
-| 34 | 313 | Sha Harris |
+| 28 | 363 | Sha Harris |
+| 29 | 360 | She Higgy |
+| 30 | 357 | Sarah Marie |
+| 31 | 353 | AF Cruz |
+| 32 | 348 | Brian Bohanon II |
+| 33 | 325 | JoJo |
+| 34 | 319 | Shell Lewis |
 | 35 | 280 | Bre Maugh |
 | 36 | 280 | IamJust Neyamijah Washington Sr. |
-| 37 | 260 | John Staub |
-| 38 | 260 | Carolynne Walker-Bell |
+| 37 | 260 | Carolynne Walker-Bell |
+| 38 | 260 | John Staub |
 | 39 | 252 | Pdubbl3 |
 | 40 | 249 | Ashley MyBeauty Daniels |
 | 41 | 248 | Debbie Carswell |
@@ -76,17 +76,17 @@
 | 68 | 151 | Dacia Hicks |
 | 69 | 147 | MACHETEEDDIE513 |
 | 70 | 147 | Jason Mungin |
-| 71 | 140 | Felicia Cain |
-| 72 | 140 | Ann Chung |
-| 73 | 140 | Sara Meri |
+| 71 | 140 | Sara Meri |
+| 72 | 140 | Felicia Cain |
+| 73 | 140 | Ann Chung |
 | 74 | 137 | BlackQueen105 |
 | 75 | 136 | Anthony Washington |
-| 76 | 135 | Jawaun Daniels |
-| 77 | 135 | Amber Wilson |
+| 76 | 135 | Amber Wilson |
+| 77 | 135 | Jawaun Daniels |
 | 78 | 132 | Robyn Caldwell |
-| 79 | 130 | Lashaunda |
-| 80 | 130 | Emily Wright |
-| 81 | 130 | Helen Smith |
+| 79 | 130 | Emily Wright |
+| 80 | 130 | Helen Smith |
+| 81 | 130 | Lashaunda |
 | 82 | 126 | Cee Emm |
 | 83 | 121 | D'Andra Stewart |
 | 84 | 118 | Hasty Pivoty |
@@ -100,28 +100,28 @@
 | 92 | 104 | Frisky Fall |
 | 93 | 103 | David Fuentes |
 | 94 | 102 | Dawn L Washington-Feuquay |
-| 95 | 100 | Char |
-| 96 | 100 | Zippy Lifter |
-| 97 | 100 | Cool Bridger |
-| 98 | 100 | Jessica Carter |
-| 99 | 99 | 신재호 |
-| 100 | 99 | Kelli Couture |
-| 101 | 99 | Simone Bailey |
+| 95 | 100 | Jessica Carter |
+| 96 | 100 | Char |
+| 97 | 100 | Zippy Lifter |
+| 98 | 100 | Cool Bridger |
+| 99 | 99 | Kelli Couture |
+| 100 | 99 | Simone Bailey |
+| 101 | 99 | 신재호 |
 | 102 | 96 | Cortaz Lawrie |
-| 103 | 95 | Nate Myers |
-| 104 | 95 | Songne Arif |
+| 103 | 95 | Songne Arif |
+| 104 | 95 | Nate Myers |
 | 105 | 93 | Lesley Brunkus Cianfaglione |
 | 106 | 89 | Lively Riserpiece |
 | 107 | 88 | QueenShay AllGood |
 | 108 | 86 | Jack Vlasak |
-| 109 | 84 | Ciera Peace |
-| 110 | 84 | Franklin Sotelo |
+| 109 | 84 | Franklin Sotelo |
+| 110 | 84 | Ciera Peace |
 | 111 | 82 | Poppy Buildout |
 | 112 | 81 | Mafio SO |
 | 113 | 81 | Sarah Steckbauer |
-| 114 | 80 | Rachel Zimmerman |
-| 115 | 80 | Jazzy Dashpiece |
-| 116 | 80 | Chevalier Burley |
+| 114 | 80 | Jazzy Dashpiece |
+| 115 | 80 | Chevalier Burley |
+| 116 | 80 | Rachel Zimmerman |
 | 117 | 80 | Charles Johnson |
 | 118 | 80 | Nobles Brandon |
 | 119 | 80 | Felicia Williams |
@@ -312,110 +312,110 @@
 | 304 | 28 | Elizabeth Vega Coreano |
 | 305 | 28 | Frothy Zoney |
 | 306 | 28 | Charise McGee |
-| 307 | 28 | Nerdy Climber |
-| 308 | 27 | Zany Breaker |
-| 309 | 27 | Eugina Slater |
-| 310 | 27 | Clever Fitblock |
-| 311 | 27 | Heather Wilson |
-| 312 | 27 | Mighty Dropper |
-| 313 | 27 | Brave Balanceblock |
-| 314 | 27 | Yadira Salgado |
-| 315 | 27 | MamushiOh |
-| 316 | 27 | Lisa Fletcher |
-| 317 | 27 | Koi |
-| 318 | 27 | Tamara Johnson-Carter |
-| 319 | 27 | Lady Scorpio |
-| 320 | 26 | Kimberly Linares Hernandez |
-| 321 | 26 | Manda Allen |
-| 322 | 26 | Nona Harriel |
-| 323 | 26 | Xrandomx |
+| 307 | 28 | Kimberly Linares Hernandez |
+| 308 | 28 | Nerdy Climber |
+| 309 | 27 | Zany Breaker |
+| 310 | 27 | Eugina Slater |
+| 311 | 27 | Clever Fitblock |
+| 312 | 27 | Heather Wilson |
+| 313 | 27 | MamushiOh |
+| 314 | 27 | Mighty Dropper |
+| 315 | 27 | Brave Balanceblock |
+| 316 | 27 | Yadira Salgado |
+| 317 | 27 | Lisa Fletcher |
+| 318 | 27 | Koi |
+| 319 | 27 | Tamara Johnson-Carter |
+| 320 | 27 | Lady Scorpio |
+| 321 | 26 | Nona Harriel |
+| 322 | 26 | Xrandomx |
+| 323 | 26 | SnazzySnippet |
 | 324 | 26 | Giggy Tower |
 | 325 | 26 | Linzie Marie |
-| 326 | 26 | SnazzySnippet |
+| 326 | 26 | Manda Allen |
 | 327 | 25 | ELM |
-| 328 | 25 | Witty Clear |
+| 328 | 25 | Smiley Tilebuilder |
 | 329 | 25 | Tremaine Hiler |
-| 330 | 25 | Smiley Tilebuilder |
-| 331 | 25 | Jenni |
-| 332 | 25 | Kimmie Gargano |
-| 333 | 25 | Tony P Burke |
-| 334 | 25 | Karebear |
-| 335 | 25 | Kyle Conley |
+| 330 | 25 | Jenni |
+| 331 | 25 | Kimmie Gargano |
+| 332 | 25 | Tony P Burke |
+| 333 | 25 | Karebear |
+| 334 | 25 | Kyle Conley |
+| 335 | 25 | Mary Phillippi Blanton |
 | 336 | 25 | Brandy Jaszewski |
-| 337 | 25 | Mary Phillippi Blanton |
-| 338 | 25 | Smiley Clearpiece |
+| 337 | 25 | Smiley Clearpiece |
+| 338 | 25 | Witty Clear |
 | 339 | 25 | Bold Clusterer |
 | 340 | 25 | Quirky Fallgrid |
 | 341 | 25 | Victoria Smith |
-| 342 | 24 | Mrs |
-| 343 | 24 | Dirty Deeds |
-| 344 | 24 | DellaLucretia Thomas |
-| 345 | 24 | AshMo |
-| 346 | 24 | Shanaa Germany Crittenden |
-| 347 | 24 | Zayy Wavyy |
-| 348 | 24 | Shaun Anderson |
-| 349 | 24 | Tanisha Taylor |
-| 350 | 24 | Taneka Howell |
-| 351 | 23 | Tabitha Dupre-Allen |
-| 352 | 23 | Jamie Lea Popp |
-| 353 | 23 | Khatyrah Burnette |
-| 354 | 23 | Hardtohandle91 |
-| 355 | 23 | Adrian Harris |
-| 356 | 23 | Tee Spinks |
-| 357 | 23 | Penee Wiggins |
-| 358 | 22 | Mikayla |
+| 342 | 24 | Dirty Deeds |
+| 343 | 24 | DellaLucretia Thomas |
+| 344 | 24 | Mrs |
+| 345 | 24 | Taneka Howell |
+| 346 | 24 | Tanisha Taylor |
+| 347 | 24 | Shaun Anderson |
+| 348 | 24 | AshMo |
+| 349 | 24 | Abigail Newman Sweet |
+| 350 | 24 | Shanaa Germany Crittenden |
+| 351 | 24 | Zayy Wavyy |
+| 352 | 23 | Adrian Harris |
+| 353 | 23 | Penee Wiggins |
+| 354 | 23 | Tee Spinks |
+| 355 | 23 | Hardtohandle91 |
+| 356 | 23 | Khatyrah Burnette |
+| 357 | 23 | Jamie Lea Popp |
+| 358 | 23 | Tabitha Dupre-Allen |
 | 359 | 22 | Kimberly Anderson |
-| 360 | 22 | Ad Doctor |
-| 361 | 22 | Rufus |
-| 362 | 21 | Shanjerrica Taylor Rosell |
-| 363 | 21 | Desiree Ryder |
-| 364 | 21 | Jason Saputo |
-| 365 | 21 | Abigail Newman Sweet |
+| 360 | 22 | Mikayla |
+| 361 | 22 | Ad Doctor |
+| 362 | 22 | Rufus |
+| 363 | 21 | Li-Li Ratliff |
+| 364 | 21 | Desiree Ryder |
+| 365 | 21 | Jason Saputo |
 | 366 | 21 | Kevin Turner |
 | 367 | 21 | Lisa Müller |
 | 368 | 21 | Jessie N Michael Silvers |
-| 369 | 21 | Li-Li Ratliff |
-| 370 | 21 | Alyssa H |
-| 371 | 20 | Eric Spencer Whitaker |
+| 369 | 21 | Alyssa H |
+| 370 | 21 | Shanjerrica Taylor Rosell |
+| 371 | 20 | Zachary Colegrove |
 | 372 | 20 | Cynthia Bradley |
 | 373 | 20 | Phillip White |
-| 374 | 20 | Kenneth Hefney |
-| 375 | 20 | Rayshawn Cohen |
-| 376 | 20 | Spotlight |
-| 377 | 20 | Nyhlah Patterson |
-| 378 | 20 | SherylU |
+| 374 | 20 | Rayshawn Cohen |
+| 375 | 20 | Kenneth Hefney |
+| 376 | 20 | SherylU |
+| 377 | 20 | Spotlight |
+| 378 | 20 | Nyhlah Patterson |
 | 379 | 20 | Erika Windom |
 | 380 | 20 | Jai |
-| 381 | 20 | Danny M GR |
-| 382 | 20 | Ace Hardware |
-| 383 | 20 | Zachary Colegrove |
-| 384 | 19 | Saucy Tile |
+| 381 | 20 | Ace Hardware |
+| 382 | 20 | Danny M GR |
+| 383 | 20 | Eric Spencer Whitaker |
+| 384 | 19 | NastyFriend |
 | 385 | 19 | Lozuna |
-| 386 | 19 | NastyFriend |
-| 387 | 19 | Jeremy Pope |
-| 388 | 19 | Michele Simpson |
+| 386 | 19 | Jeremy Pope |
+| 387 | 19 | Michele Simpson |
+| 388 | 19 | Saucy Tile |
 | 389 | 19 | Amanda Woodruff |
-| 390 | 18 | Oaklonboy mike |
-| 391 | 18 | C Lo Green |
-| 392 | 18 | Ounquan Wright |
-| 393 | 18 | Anissa Williams |
+| 390 | 18 | C Lo Green |
+| 391 | 18 | Oaklonboy mike |
+| 392 | 18 | Keke |
+| 393 | 18 | Ounquan Wright |
 | 394 | 18 | Tyree Tman Shinette |
-| 395 | 18 | Moomoo |
-| 396 | 18 | AleahKCH |
-| 397 | 18 | Jeremy Myers |
-| 398 | 18 | Keke |
-| 399 | 18 | Una |
-| 400 | 18 | Richelle Beck |
-| 401 | 18 | Azeiare Ziare |
-| 402 | 17 | Jb Mzresilience |
-| 403 | 17 | Vivian Bunnell Myers |
-| 404 | 17 | Andre Rivera |
-| 405 | 17 | Hyedie Badie |
-| 406 | 17 | Rikki Moran |
-| 407 | 17 | Pastors Du Bose |
-| 408 | 16 | Stephen Glaze |
+| 395 | 18 | AleahKCH |
+| 396 | 18 | Anissa Williams |
+| 397 | 18 | Una |
+| 398 | 18 | Azeiare Ziare |
+| 399 | 18 | Richelle Beck |
+| 400 | 18 | Jeremy Myers |
+| 401 | 18 | Moomoo |
+| 402 | 17 | Pastors Du Bose |
+| 403 | 17 | Rikki Moran |
+| 404 | 17 | Hyedie Badie |
+| 405 | 17 | Andre Rivera |
+| 406 | 17 | Vivian Bunnell Myers |
+| 407 | 17 | Jb Mzresilience |
+| 408 | 16 | Sammie Walker |
 | 409 | 16 | Dawn Basemore |
-| 410 | 16 | Sammie Walker |
+| 410 | 16 | Stephen Glaze |
 | 411 | 16 | GracefulOwl808 |
 | 412 | 16 | Sunny Tumbler |
 | 413 | 16 | MsBobby Patrick |
@@ -579,16 +579,16 @@
 | 571 | 5 | Kidgib5 |
 | 572 | 5 | Jennifer Moore |
 | 573 | 5 | the guy |
-| 574 | 5 | Andre Sanon |
-| 575 | 5 | Shakuria Cortia Burney |
-| 576 | 5 | Barbramerri Tarboro |
-| 577 | 5 | Logan Frost |
-| 578 | 5 | Duckey |
+| 574 | 5 | Shakuria Cortia Burney |
+| 575 | 5 | Mommy Frank |
+| 576 | 5 | Tito Divyn |
+| 577 | 5 | Shawn Himes |
+| 578 | 5 | Tamika Fisher |
 | 579 | 5 | Zappy Clearfit |
-| 580 | 5 | Tamika Fisher |
-| 581 | 5 | Shawn Himes |
-| 582 | 5 | Tito Divyn |
-| 583 | 5 | Mommy Frank |
+| 580 | 5 | Duckey |
+| 581 | 5 | Logan Frost |
+| 582 | 5 | Andre Sanon |
+| 583 | 5 | Barbramerri Tarboro |
 
 ---
 *Standings created by tournaments datasource generation tool*
