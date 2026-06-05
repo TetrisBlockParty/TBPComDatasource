@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-05 12:47:12 UTC
+# Standings for team2 as of 2026-06-05 12:48:13 UTC
 
-**Total Participants:** 58
+**Total Participants:** 62
 
 ## Participant Scores
 
@@ -15,55 +15,59 @@
 | 7 | 99 | Stella |
 | 8 | 75 | Angeleye A James |
 | 9 | 70 | Amanda Sikes |
-| 10 | 67 | Ashley Voelz |
-| 11 | 58 | Chipper Towerzone |
-| 12 | 45 | Michelle Anne |
-| 13 | 44 | Zaniya Brown |
-| 14 | 40 | LittleHippoEars |
-| 15 | 38 | Spicy Basepiece |
-| 16 | 37 | Jumpy Dashpiece |
-| 17 | 33 | Tango Sierra |
-| 18 | 30 | Patti Ward |
-| 19 | 30 | Jason Cunningham |
-| 20 | 28 | Sara BlueEyes |
-| 21 | 27 | Michael Carmichael |
-| 22 | 26 | Ariel Gundersen |
-| 23 | 26 | Quina Jesse Fejaran |
-| 24 | 26 | Rachel Huber |
-| 25 | 25 | Jgato |
-| 26 | 25 | April Addis |
-| 27 | 24 | A.j. Langley |
+| 10 | 67 | Crystal M Sowden |
+| 11 | 67 | Ashley Voelz |
+| 12 | 58 | Chipper Towerzone |
+| 13 | 45 | Michelle Anne |
+| 14 | 44 | Zaniya Brown |
+| 15 | 40 | LittleHippoEars |
+| 16 | 38 | Spicy Basepiece |
+| 17 | 37 | Jumpy Dashpiece |
+| 18 | 33 | Tango Sierra |
+| 19 | 30 | Patti Ward |
+| 20 | 30 | Jason Cunningham |
+| 21 | 28 | Sara BlueEyes |
+| 22 | 27 | Michael Carmichael |
+| 23 | 26 | Ariel Gundersen |
+| 24 | 26 | Quina Jesse Fejaran |
+| 25 | 26 | Rachel Huber |
+| 26 | 25 | Jgato |
+| 27 | 25 | April Addis |
 | 28 | 24 | Dayna Messer-Thelen |
-| 29 | 23 | Damion Morrison |
-| 30 | 23 | IncrediDragon |
-| 31 | 20 | ChefDeb |
-| 32 | 18 | Tracey Cox |
-| 33 | 18 | Rick |
-| 34 | 16 | Peter Fogg |
-| 35 | 12 | Chirpy Grid |
-| 36 | 12 | Stacey Loretta Wallace |
-| 37 | 12 | Mary |
-| 38 | 11 | Lora Via |
-| 39 | 11 | Thy Bui |
-| 40 | 10 | Berta Hurley |
-| 41 | 10 | Twisty Snapmatch |
+| 29 | 24 | A.j. Langley |
+| 30 | 23 | Damion Morrison |
+| 31 | 23 | IncrediDragon |
+| 32 | 20 | ChefDeb |
+| 33 | 20 | Kevin Mccoy |
+| 34 | 18 | Tracey Cox |
+| 35 | 18 | Rick |
+| 36 | 16 | Peter Fogg |
+| 37 | 12 | Stacey Loretta Wallace |
+| 38 | 12 | Mary |
+| 39 | 12 | Chirpy Grid |
+| 40 | 11 | Lora Via |
+| 41 | 11 | Thy Bui |
 | 42 | 10 | Thomas Johnstone |
-| 43 | 10 | Justin Furne |
+| 43 | 10 | Twisty Snapmatch |
 | 44 | 10 | Gill |
-| 45 | 10 | Bon Lynn |
-| 46 | 10 | Joyce Galloway |
-| 47 | 9 | Giggly Spinblock |
-| 48 | 9 | Darla Ragsdale |
-| 49 | 9 | Mama G |
+| 45 | 10 | Joyce Galloway |
+| 46 | 10 | Berta Hurley |
+| 47 | 10 | Bon Lynn |
+| 48 | 10 | Justin Furne |
+| 49 | 9 | Giggly Spinblock |
 | 50 | 9 | Princess Cucumber |
-| 51 | 8 | Kenzie |
-| 52 | 7 | Cherica Taylor |
-| 53 | 6 | Martha Lynn Wiggins |
-| 54 | 6 | Kelly Christine Trimmer |
-| 55 | 6 | fancypants |
-| 56 | 5 | Devon |
-| 57 | 5 | Allison Peterson |
-| 58 | 5 | Tashamonique Puckey |
+| 51 | 9 | Darla Ragsdale |
+| 52 | 9 | Henny Henny |
+| 53 | 9 | Mama G |
+| 54 | 8 | Kenzie |
+| 55 | 7 | nova |
+| 56 | 7 | Cherica Taylor |
+| 57 | 6 | fancypants |
+| 58 | 6 | Kelly Christine Trimmer |
+| 59 | 6 | Martha Lynn Wiggins |
+| 60 | 5 | Tashamonique Puckey |
+| 61 | 5 | Allison Peterson |
+| 62 | 5 | Devon |
 
 ---
 *Standings created by tournaments datasource generation tool*
