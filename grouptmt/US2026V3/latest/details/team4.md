@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 23:34:37 UTC
+# Standings for team4 as of 2026-06-05 23:35:15 UTC
 
 **Total Participants:** 558
 
@@ -16,9 +16,9 @@
 | 8 | 2791 | Irene Arreguin |
 | 9 | 2757 | Nia Mayfield |
 | 10 | 1853 | Daring Ziggy |
-| 11 | 1746 | delilahbelle |
+| 11 | 1749 | delilahbelle |
 | 12 | 1585 | Tyra Brooke Everman Forest |
-| 13 | 1179 | Bryony Nicholson |
+| 13 | 1449 | Bryony Nicholson |
 | 14 | 1169 | Cinny |
 | 15 | 1064 | Hanan Hana |
 | 16 | 906 | Fruitpunch |
@@ -31,8 +31,8 @@
 | 23 | 600 | Caitlin Johnson |
 | 24 | 559 | Lynn Grimes |
 | 25 | 477 | Malik Thompson |
-| 26 | 474 | Heather Preston |
-| 27 | 474 | Jeremy Lopez |
+| 26 | 474 | Jeremy Lopez |
+| 27 | 474 | Heather Preston |
 | 28 | 466 | Krysten Danielle Richard |
 | 29 | 465 | Fancy Crasher |
 | 30 | 460 | Chaz Duncan |
@@ -56,8 +56,8 @@
 | 48 | 241 | Giggy Matchpiece |
 | 49 | 240 | Jojo Ann |
 | 50 | 240 | Michele Walker |
-| 51 | 224 | Sisi RedVelvet Reneè |
-| 52 | 224 | Jessica Peyton |
+| 51 | 224 | Jessica Peyton |
+| 52 | 224 | Sisi RedVelvet Reneè |
 | 53 | 203 | Andrew Dang |
 | 54 | 203 | Patrick Alley |
 | 55 | 200 | Leah Gorsuch |
@@ -88,8 +88,8 @@
 | 80 | 123 | Anna Gribble |
 | 81 | 122 | Jason Allen |
 | 82 | 121 | Ryan Paul Clark-Ramsey |
-| 83 | 120 | Kelly Bernard |
-| 84 | 120 | Glamorous Gracey |
+| 83 | 120 | Glamorous Gracey |
+| 84 | 120 | Kelly Bernard |
 | 85 | 118 | Goofy Fall |
 | 86 | 117 | BCO22 |
 | 87 | 114 | Bryan DjMagnum Evans |
@@ -100,22 +100,22 @@
 | 92 | 104 | Justin Ballard |
 | 93 | 103 | Shawntae Mccary |
 | 94 | 101 | Lush Fitblock |
-| 95 | 100 | CorieBe |
+| 95 | 100 | woopa 716 |
 | 96 | 100 | Cal Renee |
-| 97 | 100 | woopa 716 |
-| 98 | 99 | Lani |
-| 99 | 99 | Shelby |
+| 97 | 100 | CorieBe |
+| 98 | 99 | Shelby |
+| 99 | 99 | Lani |
 | 100 | 99 | Simone |
 | 101 | 98 | Juvon SupaShawdii Brooks |
-| 102 | 96 | Joab Gonzalez |
-| 103 | 96 | Alyson M Kehler |
+| 102 | 96 | Alyson M Kehler |
+| 103 | 96 | Joab Gonzalez |
 | 104 | 95 | Маркус Вік |
 | 105 | 95 | Daryn Elliott |
 | 106 | 93 | farfromlocal |
 | 107 | 92 | Homie |
 | 108 | 91 | Dominique Melendez |
-| 109 | 91 | Dayna Arthurs |
-| 110 | 91 | JuicyJuice |
+| 109 | 91 | JuicyJuice |
+| 110 | 91 | Dayna Arthurs |
 | 111 | 90 | Quiomarie Cotto |
 | 112 | 89 | Waxboss |
 | 113 | 88 | Laguya |
@@ -124,12 +124,12 @@
 | 116 | 87 | Limbo |
 | 117 | 86 | Rachel Lemos |
 | 118 | 86 | gabs |
-| 119 | 84 | No Time |
-| 120 | 84 | Hwanger Land |
-| 121 | 84 | Slimm |
-| 122 | 84 | Rae Saunders |
-| 123 | 83 | Chiquita Blue |
-| 124 | 83 | MrLoner Stoner |
+| 119 | 84 | Rae Saunders |
+| 120 | 84 | Slimm |
+| 121 | 84 | No Time |
+| 122 | 84 | Hwanger Land |
+| 123 | 83 | MrLoner Stoner |
+| 124 | 83 | Chiquita Blue |
 | 125 | 82 | Codey Haffner |
 | 126 | 82 | Bon Jovi |
 | 127 | 82 | Luna |
@@ -167,53 +167,53 @@
 | 159 | 66 | Shiny Brick |
 | 160 | 66 | Mann Manson |
 | 161 | 66 | Jennifer Garcia |
-| 162 | 65 | Domo Dpn |
-| 163 | 65 | Cool Risepiece |
-| 164 | 63 | Blockcrusher |
-| 165 | 63 | Wacky Brick |
-| 166 | 63 | Ana Ruiz |
-| 167 | 63 | Kay |
-| 168 | 62 | Frisky Balance |
-| 169 | 62 | Megan Vick |
+| 162 | 65 | Cool Risepiece |
+| 163 | 65 | Domo Dpn |
+| 164 | 63 | Kay |
+| 165 | 63 | Blockcrusher |
+| 166 | 63 | Wacky Brick |
+| 167 | 63 | Ana Ruiz |
+| 168 | 62 | Megan Vick |
+| 169 | 62 | Frisky Balance |
 | 170 | 60 | Fran Aaron-Ring |
-| 171 | 60 | Amandacolle |
-| 172 | 60 | George Marshburn |
-| 173 | 60 | Chris Rowe |
+| 171 | 60 | George Marshburn |
+| 172 | 60 | Chris Rowe |
+| 173 | 60 | Amandacolle |
 | 174 | 60 | Jumpy Builderpiece |
-| 175 | 59 | Paula Renee McCracken |
-| 176 | 59 | Futrell Brent |
+| 175 | 59 | Futrell Brent |
+| 176 | 59 | Paula Renee McCracken |
 | 177 | 59 | Jennifer Fisher Franklin |
 | 178 | 58 | Jenn Fitzgerald |
-| 179 | 57 | Noa Lee |
-| 180 | 57 | BusterBear56 |
-| 181 | 57 | Cindy |
+| 179 | 57 | BusterBear56 |
+| 180 | 57 | Cindy |
+| 181 | 57 | Noa Lee |
 | 182 | 56 | Bre Dee |
 | 183 | 55 | Cherry |
 | 184 | 54 | Playa |
 | 185 | 54 | Ricardo Arias |
 | 186 | 53 | LaTanya GeminiondaRise Johnson |
 | 187 | 52 | Jj Johnson |
-| 188 | 52 | Joshua Hunt |
-| 189 | 51 | Scamp Jones |
-| 190 | 51 | Amanda Snow |
-| 191 | 51 | Vergie Michael |
-| 192 | 50 | Ginny |
-| 193 | 50 | Nova Kain |
-| 194 | 50 | Cheeky Climber |
-| 195 | 50 | Sassy Column |
-| 196 | 50 | Shanna Fragen |
-| 197 | 50 | Susan Stofberg Beltran |
-| 198 | 49 | Laurie Patrick |
-| 199 | 49 | Daring Brickbuilder |
-| 200 | 49 | smarty |
-| 201 | 49 | Darren Miguel |
+| 188 | 52 | Daring Brickbuilder |
+| 189 | 52 | Joshua Hunt |
+| 190 | 51 | Scamp Jones |
+| 191 | 51 | Amanda Snow |
+| 192 | 51 | Vergie Michael |
+| 193 | 50 | Cheeky Climber |
+| 194 | 50 | Ginny |
+| 195 | 50 | Nova Kain |
+| 196 | 50 | Sassy Column |
+| 197 | 50 | Shanna Fragen |
+| 198 | 50 | Susan Stofberg Beltran |
+| 199 | 49 | Laurie Patrick |
+| 200 | 49 | Darren Miguel |
+| 201 | 49 | smarty |
 | 202 | 48 | Joseph Hunter |
-| 203 | 48 | Dapper Strikerpiece |
+| 203 | 48 | Karen Davis |
 | 204 | 48 | Lilo |
-| 205 | 48 | Karen Davis |
+| 205 | 48 | Dapper Strikerpiece |
 | 206 | 47 | Melissa Quinn |
-| 207 | 46 | Tamika Ashli Bonner |
-| 208 | 46 | Esmond Johnson IV |
+| 207 | 46 | Esmond Johnson IV |
+| 208 | 46 | Tamika Ashli Bonner |
 | 209 | 45 | EmBem |
 | 210 | 45 | Surviving Be Back Soon |
 | 211 | 44 | jaz |
