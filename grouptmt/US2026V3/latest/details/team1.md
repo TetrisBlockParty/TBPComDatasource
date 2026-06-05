@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:22:13 UTC
+# Standings for team1 as of 2026-06-05 17:22:36 UTC
 
 **Total Participants:** 331
 
@@ -45,40 +45,40 @@
 | 37 | 177 | Chris Sladoje |
 | 38 | 165 | Davionte DaeDae Hopson-Rodriguez |
 | 39 | 162 | Markeeta Lipscomb |
-| 40 | 151 | Dacia Hicks |
-| 41 | 144 | AF Cruz |
-| 42 | 141 | Debbie Carswell |
-| 43 | 140 | JoJo |
+| 40 | 156 | Jessica Russell |
+| 41 | 151 | Dacia Hicks |
+| 42 | 144 | AF Cruz |
+| 43 | 141 | Debbie Carswell |
 | 44 | 140 | Ann Chung |
-| 45 | 137 | BlackQueen105 |
-| 46 | 135 | Jawaun Daniels |
-| 47 | 129 | Blockhead |
-| 48 | 126 | Cee Emm |
-| 49 | 125 | Teddy Davis |
-| 50 | 111 | Shalena Marie Humphrey |
-| 51 | 103 | KenpachisGirl |
-| 52 | 100 | She Higgy |
-| 53 | 100 | Cool Bridger |
-| 54 | 100 | Asani CHumba |
-| 55 | 96 | Cortaz Lawrie |
-| 56 | 95 | Nate Myers |
-| 57 | 94 | Nerdy Snapfall |
-| 58 | 90 | 신재호 |
-| 59 | 87 | Hasty Pivoty |
-| 60 | 86 | SPNLover24 |
-| 61 | 84 | Ciera Peace |
-| 62 | 81 | Robyn Caldwell |
+| 45 | 140 | JoJo |
+| 46 | 137 | BlackQueen105 |
+| 47 | 135 | Jawaun Daniels |
+| 48 | 129 | Blockhead |
+| 49 | 126 | Cee Emm |
+| 50 | 125 | Teddy Davis |
+| 51 | 111 | Shalena Marie Humphrey |
+| 52 | 103 | KenpachisGirl |
+| 53 | 100 | Asani CHumba |
+| 54 | 100 | Cool Bridger |
+| 55 | 100 | She Higgy |
+| 56 | 96 | Cortaz Lawrie |
+| 57 | 95 | Nate Myers |
+| 58 | 94 | Nerdy Snapfall |
+| 59 | 90 | 신재호 |
+| 60 | 87 | Hasty Pivoty |
+| 61 | 86 | SPNLover24 |
+| 62 | 84 | Ciera Peace |
 | 63 | 81 | Mafio SO |
-| 64 | 80 | Carolyn Smith |
-| 65 | 80 | Felicia Williams |
-| 66 | 80 | Char |
-| 67 | 80 | Rachel Zimmerman |
-| 68 | 80 | Jazzy Dashpiece |
-| 69 | 77 | Amber Wilson |
-| 70 | 76 | Jessica Russell |
+| 64 | 81 | Robyn Caldwell |
+| 65 | 80 | Rachel Zimmerman |
+| 66 | 80 | Jazzy Dashpiece |
+| 67 | 80 | Char |
+| 68 | 80 | Carolyn Smith |
+| 69 | 80 | Felicia Williams |
+| 70 | 77 | Amber Wilson |
 | 71 | 76 | Giggly Shatterline |
-| 72 | 75 | Katrina Ramey |
-| 73 | 75 | Dizzy Dashy |
+| 72 | 75 | Dizzy Dashy |
+| 73 | 75 | Katrina Ramey |
 | 74 | 74 | Tonya McElroy |
 | 75 | 74 | ♈️ Ariesbaby |
 | 76 | 72 | Mic Balew |

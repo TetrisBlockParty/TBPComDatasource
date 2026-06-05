@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 17:22:13 UTC
+# Standings for team2 as of 2026-06-05 17:22:36 UTC
 
 **Total Participants:** 338
 
@@ -47,7 +47,7 @@
 | 39 | 131 | Santara Ferguson |
 | 40 | 130 | NickandJess Reynolds |
 | 41 | 126 | Nathan Walker |
-| 42 | 121 | La chulis |
+| 42 | 122 | La chulis |
 | 43 | 116 | Amber Cogdill |
 | 44 | 105 | Ackerman 85 |
 | 45 | 103 | Spunky Cascadeclear |
