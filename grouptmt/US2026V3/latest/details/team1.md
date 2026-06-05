@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:14:13 UTC
+# Standings for team1 as of 2026-06-05 15:14:34 UTC
 
 **Total Participants:** 228
 
@@ -19,12 +19,12 @@
 | 11 | 300 | Ryan Meilleur |
 | 12 | 292 | Sarah Marie |
 | 13 | 280 | Bre Maugh |
-| 14 | 260 | Carolynne Walker-Bell |
-| 15 | 241 | Ivana Schmidt |
-| 16 | 238 | Holly Jolly |
-| 17 | 237 | Tammye Turner |
-| 18 | 234 | Pdubbl3 |
-| 19 | 227 | Brian Bohanon II |
+| 14 | 267 | Brian Bohanon II |
+| 15 | 260 | Carolynne Walker-Bell |
+| 16 | 241 | Ivana Schmidt |
+| 17 | 238 | Holly Jolly |
+| 18 | 237 | Tammye Turner |
+| 19 | 234 | Pdubbl3 |
 | 20 | 178 | Cassidy Butler |
 | 21 | 178 | Gotcha |
 | 22 | 177 | Chris Sladoje |
@@ -203,37 +203,37 @@
 | 195 | 9 | Shakmar |
 | 196 | 9 | Joka NoTime ForHataz |
 | 197 | 8 | Brika Brika |
-| 198 | 8 | Sammie Walker |
-| 199 | 8 | Breezy Catcher |
-| 200 | 8 | Blockhead |
-| 201 | 8 | Jessie N Michael Silvers |
-| 202 | 8 | Tanesha Ga'sFinest Corbett |
-| 203 | 8 | Taz Ballard |
-| 204 | 7 | Shane Brucewayne |
-| 205 | 7 | wmedina67 |
-| 206 | 7 | Kendra McIntyre |
-| 207 | 7 | Mary2 |
-| 208 | 7 | whatever |
-| 209 | 7 | Jumpy Gridlock |
-| 210 | 6 | Jeffrey Barrows |
-| 211 | 6 | Cece Fowler |
-| 212 | 6 | Allison Baxter |
-| 213 | 6 | Janine Hunter |
-| 214 | 6 | Christopher Wallace |
-| 215 | 5 | KeeKee Williams |
-| 216 | 5 | Vernon Hoyt |
+| 198 | 8 | Blockhead |
+| 199 | 8 | Tanesha Ga'sFinest Corbett |
+| 200 | 8 | Sammie Walker |
+| 201 | 8 | Breezy Catcher |
+| 202 | 8 | Taz Ballard |
+| 203 | 8 | Jessie N Michael Silvers |
+| 204 | 7 | Jumpy Gridlock |
+| 205 | 7 | Shane Brucewayne |
+| 206 | 7 | Mary2 |
+| 207 | 7 | Kendra McIntyre |
+| 208 | 7 | wmedina67 |
+| 209 | 7 | whatever |
+| 210 | 6 | Cece Fowler |
+| 211 | 6 | Allison Baxter |
+| 212 | 6 | Christopher Wallace |
+| 213 | 6 | Jeffrey Barrows |
+| 214 | 6 | Janine Hunter |
+| 215 | 5 | Jennifer Moore |
+| 216 | 5 | Rixo Blax |
 | 217 | 5 | Temeshia Brooks Washington |
-| 218 | 5 | Rixo Blax |
-| 219 | 5 | Zappy Clearfit |
-| 220 | 5 | Tamika Fisher |
-| 221 | 5 | Jennifer Moore |
-| 222 | 5 | Kidgib5 |
-| 223 | 5 | Shawn Himes |
-| 224 | 5 | Elaine Youmans |
-| 225 | 5 | DirtiestofMikes |
-| 226 | 5 | Stephanie Zuniga Tullock |
-| 227 | 5 | Lil T |
-| 228 | 5 | Derek Beverly |
+| 218 | 5 | KeeKee Williams |
+| 219 | 5 | Derek Beverly |
+| 220 | 5 | Vernon Hoyt |
+| 221 | 5 | Lil T |
+| 222 | 5 | Stephanie Zuniga Tullock |
+| 223 | 5 | DirtiestofMikes |
+| 224 | 5 | Shawn Himes |
+| 225 | 5 | Elaine Youmans |
+| 226 | 5 | Zappy Clearfit |
+| 227 | 5 | Tamika Fisher |
+| 228 | 5 | Kidgib5 |
 
 ---
 *Standings created by tournaments datasource generation tool*
