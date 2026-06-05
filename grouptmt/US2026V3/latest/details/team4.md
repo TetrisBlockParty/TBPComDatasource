@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 19:21:14 UTC
+# Standings for team4 as of 2026-06-05 19:22:14 UTC
 
 **Total Participants:** 396
 
@@ -14,8 +14,8 @@
 | 6 | 1508 | delilahbelle |
 | 7 | 1169 | Cinny |
 | 8 | 734 | Lisa Cullum |
-| 9 | 700 | Carly Stempien |
-| 10 | 699 | SMV |
+| 9 | 700 | SMV |
+| 10 | 700 | Carly Stempien |
 | 11 | 654 | Jerald Jones |
 | 12 | 559 | Lynn Grimes |
 | 13 | 477 | Malik Thompson |
@@ -77,14 +77,14 @@
 | 69 | 86 | Rachel Lemos |
 | 70 | 85 | Daryn Elliott |
 | 71 | 85 | Renee Sapp |
-| 72 | 84 | Hwanger Land |
-| 73 | 82 | Codey Haffner |
-| 74 | 81 | Dominique Melendez |
-| 75 | 80 | Sarah Berry Stevens |
-| 76 | 80 | MrLoner Stoner |
-| 77 | 80 | Krista Diaz |
-| 78 | 79 | Luna |
-| 79 | 79 | Rae Saunders |
+| 72 | 84 | Rae Saunders |
+| 73 | 84 | Hwanger Land |
+| 74 | 82 | Codey Haffner |
+| 75 | 81 | Dominique Melendez |
+| 76 | 80 | Sarah Berry Stevens |
+| 77 | 80 | MrLoner Stoner |
+| 78 | 80 | Krista Diaz |
+| 79 | 79 | Luna |
 | 80 | 79 | Joyce Myers |
 | 81 | 78 | Tina Thomas |
 | 82 | 76 | Justin Michael |
@@ -253,31 +253,31 @@
 | 245 | 21 | LilithMoon |
 | 246 | 21 | Dheeh Robles |
 | 247 | 20 | Margie Thomas |
-| 248 | 20 | Spidaman86 |
-| 249 | 20 | Plucky Shatterfit |
-| 250 | 20 | Tony Clark |
-| 251 | 20 | ariel |
+| 248 | 20 | ariel |
+| 249 | 20 | Spidaman86 |
+| 250 | 20 | Plucky Shatterfit |
+| 251 | 20 | Tony Clark |
 | 252 | 20 | Erica Pompey |
-| 253 | 20 | Clever Patterner |
-| 254 | 20 | Rita Ann |
+| 253 | 20 | Rita Ann |
+| 254 | 20 | Clever Patterner |
 | 255 | 20 | Jerett Coplin |
-| 256 | 20 | Betsy Froemming |
-| 257 | 20 | Joha Mldo Castillo |
-| 258 | 20 | Mexican130 |
-| 259 | 20 | Silly Risegrid |
-| 260 | 20 | Tipsy Patternfit |
-| 261 | 20 | Maurice DeJean |
-| 262 | 20 | BethB |
-| 263 | 19 | Alizabeth Garcia |
-| 264 | 19 | Tamika Ashli Bonner |
-| 265 | 19 | Swanky Matchfit |
-| 266 | 19 | Jewelz |
-| 267 | 19 | Diana Fernandez |
-| 268 | 18 | Perry Ransom |
-| 269 | 18 | Iforget |
-| 270 | 18 | Frothy Pivotfall |
-| 271 | 18 | Stacia Marie |
-| 272 | 18 | Gorica Prusina |
+| 256 | 20 | Joha Mldo Castillo |
+| 257 | 20 | Betsy Froemming |
+| 258 | 20 | Silly Risegrid |
+| 259 | 20 | Mexican130 |
+| 260 | 20 | Gorica Prusina |
+| 261 | 20 | Tipsy Patternfit |
+| 262 | 20 | Maurice DeJean |
+| 263 | 20 | BethB |
+| 264 | 19 | Alizabeth Garcia |
+| 265 | 19 | Tamika Ashli Bonner |
+| 266 | 19 | Swanky Matchfit |
+| 267 | 19 | Jewelz |
+| 268 | 19 | Diana Fernandez |
+| 269 | 18 | Perry Ransom |
+| 270 | 18 | Iforget |
+| 271 | 18 | Frothy Pivotfall |
+| 272 | 18 | Stacia Marie |
 | 273 | 18 | Dexter Hammond Jr |
 | 274 | 18 | Happy Strikerpiece |
 | 275 | 18 | chuck |
