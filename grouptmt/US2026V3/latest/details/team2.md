@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 16:06:37 UTC
+# Standings for team2 as of 2026-06-05 16:07:13 UTC
 
 **Total Participants:** 284
 
@@ -19,8 +19,8 @@
 | 11 | 663 | Logan Basham |
 | 12 | 557 | Amber Triguero |
 | 13 | 515 | Loony Faller |
-| 14 | 445 | Amy Gale |
-| 15 | 422 | Jamie Jones |
+| 14 | 472 | Jamie Jones |
+| 15 | 445 | Amy Gale |
 | 16 | 392 | Brandon Link |
 | 17 | 320 | Bea Bee |
 | 18 | 280 | Julie Trede Amerson |
@@ -72,8 +72,8 @@
 | 64 | 57 | Zany Wrecker |
 | 65 | 57 | Jumpy Dashpiece |
 | 66 | 54 | Rick |
-| 67 | 54 | Cool Balancer |
-| 68 | 52 | Suki Jacobs |
+| 67 | 54 | Suki Jacobs |
+| 68 | 54 | Cool Balancer |
 | 69 | 51 | Loretta Crow |
 | 70 | 50 | Martha Lynn Wiggins |
 | 71 | 50 | Shiny Spinfit |
@@ -163,41 +163,41 @@
 | 155 | 21 | Maria Ward |
 | 156 | 21 | Thy Bui |
 | 157 | 20 | Chesney |
-| 158 | 20 | Bonita Alexander |
-| 159 | 20 | Kelly Hall Whitt |
+| 158 | 20 | Kelly Hall Whitt |
+| 159 | 20 | Bonita Alexander |
 | 160 | 20 | Annie Hebdon |
 | 161 | 20 | Amanda Mason Scott |
 | 162 | 20 | phamous1 |
-| 163 | 20 | Wendy McKee |
-| 164 | 20 | Bigbb |
+| 163 | 20 | Bigbb |
+| 164 | 20 | Wendy McKee |
 | 165 | 19 | Sunny Tiltbuilder |
-| 166 | 19 | Quirky Piecegrid |
-| 167 | 19 | Steven Craig |
-| 168 | 18 | Twisty Matchfit |
+| 166 | 19 | REE4 |
+| 167 | 19 | Quirky Piecegrid |
+| 168 | 19 | Steven Craig |
 | 169 | 18 | Natalie M. Arredondo |
-| 170 | 18 | Tracey Cox |
-| 171 | 18 | Sully |
-| 172 | 18 | TNGal |
-| 173 | 17 | Debra May |
-| 174 | 17 | Amber-leigh Williams |
-| 175 | 16 | Funky Blockmatch |
-| 176 | 16 | Elliot |
-| 177 | 16 | REE4 |
-| 178 | 16 | Danielle Lyons |
-| 179 | 16 | Dallas Runyan |
-| 180 | 16 | Natasha Schatte |
-| 181 | 15 | Jat |
+| 170 | 18 | Twisty Matchfit |
+| 171 | 18 | Tracey Cox |
+| 172 | 18 | Sully |
+| 173 | 18 | TNGal |
+| 174 | 17 | Debra May |
+| 175 | 17 | Amber-leigh Williams |
+| 176 | 16 | Danielle Lyons |
+| 177 | 16 | Funky Blockmatch |
+| 178 | 16 | Elliot |
+| 179 | 16 | Natasha Schatte |
+| 180 | 16 | Dallas Runyan |
+| 181 | 15 | MaddieCherie |
 | 182 | 15 | Carole Brown |
 | 183 | 15 | Brian Karr |
-| 184 | 15 | MaddieCherie |
-| 185 | 15 | Poppy Slice |
-| 186 | 15 | Brittany Nichole Ellenburg |
-| 187 | 15 | Devon |
-| 188 | 14 | Missy Savage-Justice |
-| 189 | 14 | Nicky Steigerwalt |
-| 190 | 14 | Silly Tiltbuilder |
-| 191 | 13 | Lexi Chouinard |
-| 192 | 13 | Boldy Fitclear |
+| 184 | 15 | Jat |
+| 185 | 15 | Brittany Nichole Ellenburg |
+| 186 | 15 | Devon |
+| 187 | 15 | Poppy Slice |
+| 188 | 14 | Nicky Steigerwalt |
+| 189 | 14 | Silly Tiltbuilder |
+| 190 | 14 | Missy Savage-Justice |
+| 191 | 13 | Boldy Fitclear |
+| 192 | 13 | Lexi Chouinard |
 | 193 | 13 | Dreamy Wipepiece |
 | 194 | 12 | Stephen Gillam |
 | 195 | 12 | Diamond Balotje |

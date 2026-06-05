@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 16:06:37 UTC
+# Standings for team4 as of 2026-06-05 16:07:13 UTC
 
 **Total Participants:** 255
 
@@ -19,7 +19,7 @@
 | 11 | 383 | Crissy Hoffman |
 | 12 | 379 | Snippy Grid |
 | 13 | 324 | Heather Preston |
-| 14 | 309 | Blayne Kole |
+| 14 | 319 | Blayne Kole |
 | 15 | 300 | Chaz Duncan |
 | 16 | 273 | delilahbelle |
 | 17 | 270 | Gloria Nunley Trussell |
@@ -28,7 +28,7 @@
 | 20 | 214 | Sisi RedVelvet Reneè |
 | 21 | 208 | vag1974 |
 | 22 | 200 | Leah Gorsuch |
-| 23 | 180 | Andrew Dang |
+| 23 | 183 | Andrew Dang |
 | 24 | 169 | Kimyatta Cavin |
 | 25 | 161 | Kim |
 | 26 | 161 | Giggy Matchpiece |
@@ -109,14 +109,14 @@
 | 101 | 35 | EmBem |
 | 102 | 34 | Clashy |
 | 103 | 34 | jojo |
-| 104 | 31 | Piece of Cake |
-| 105 | 31 | Jasmine Marie |
-| 106 | 30 | Sarah Berry Stevens |
-| 107 | 30 | Will E Ayala |
-| 108 | 30 | The Jazziest |
-| 109 | 30 | SMV |
-| 110 | 30 | Lala |
-| 111 | 30 | Leslie Bamonte |
+| 104 | 32 | Leslie Bamonte |
+| 105 | 31 | Piece of Cake |
+| 106 | 31 | Jasmine Marie |
+| 107 | 30 | Sarah Berry Stevens |
+| 108 | 30 | Will E Ayala |
+| 109 | 30 | The Jazziest |
+| 110 | 30 | SMV |
+| 111 | 30 | Lala |
 | 112 | 30 | Nia Mayfield |
 | 113 | 30 | Nicole Colby McCloskey |
 | 114 | 30 | Chill Snapclear |
