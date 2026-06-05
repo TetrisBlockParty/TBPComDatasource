@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 22:26:15 UTC
+# Standings for team4 as of 2026-06-05 22:26:37 UTC
 
 **Total Participants:** 499
 
@@ -20,7 +20,7 @@
 | 12 | 1169 | Cinny |
 | 13 | 906 | Fruitpunch |
 | 14 | 876 | SMV |
-| 15 | 762 | Blind Bette |
+| 15 | 781 | Blind Bette |
 | 16 | 734 | Lisa Cullum |
 | 17 | 700 | Carly Stempien |
 | 18 | 640 | Kathy Brookins |
@@ -193,22 +193,22 @@
 | 185 | 46 | Tamika Ashli Bonner |
 | 186 | 45 | Scamp Jones |
 | 187 | 45 | Surviving Be Back Soon |
-| 188 | 44 | Joshua Hunt |
+| 188 | 44 | Kassey M. Clark |
 | 189 | 44 | Lul Babie |
-| 190 | 44 | Kassey M. Clark |
+| 190 | 44 | Joshua Hunt |
 | 191 | 44 | Nicole |
 | 192 | 44 | Karen Rodriguez |
 | 193 | 43 | Laurie Patrick |
 | 194 | 43 | Swanky Snapgrid |
 | 195 | 43 | Tipsy Zonebuilder |
-| 196 | 43 | Monte Smith |
-| 197 | 42 | Cail |
-| 198 | 42 | Gorica Prusina |
-| 199 | 42 | Lucy Honer |
-| 200 | 42 | Piece of Cake |
-| 201 | 42 | Stacy Brown |
-| 202 | 42 | Dawn Phelps |
-| 203 | 42 | jaz |
+| 196 | 43 | jaz |
+| 197 | 43 | Monte Smith |
+| 198 | 42 | Cail |
+| 199 | 42 | Gorica Prusina |
+| 200 | 42 | Lucy Honer |
+| 201 | 42 | Piece of Cake |
+| 202 | 42 | Stacy Brown |
+| 203 | 42 | Dawn Phelps |
 | 204 | 42 | Esmond Johnson IV |
 | 205 | 42 | ShaniP |
 | 206 | 42 | Mrs |
@@ -314,9 +314,9 @@
 | 306 | 24 | Lana Tran |
 | 307 | 24 | Nancy McCalla Abercrombie |
 | 308 | 24 | Socorro Arredondo |
-| 309 | 24 | Nikcole Alexis Bryan |
-| 310 | 24 | Katiana Gonzalez |
-| 311 | 24 | Spicy Peach |
+| 309 | 24 | Katiana Gonzalez |
+| 310 | 24 | Spicy Peach |
+| 311 | 24 | Nikcole Alexis Bryan |
 | 312 | 23 | Anna Ryan |
 | 313 | 23 | Genger |
 | 314 | 23 | Kayla Haddenham |
@@ -407,11 +407,11 @@
 | 399 | 14 | Dolores Falco |
 | 400 | 14 | Winter Moon |
 | 401 | 14 | Kimberly Lusk |
-| 402 | 14 | Kiaralis Ashley Hancock |
-| 403 | 14 | REPENT |
+| 402 | 14 | REPENT |
+| 403 | 14 | Kiaralis Ashley Hancock |
 | 404 | 13 | Kristie ML SneekaPuff |
-| 405 | 13 | Jen Roe |
-| 406 | 13 | shonaberry |
+| 405 | 13 | shonaberry |
+| 406 | 13 | Jen Roe |
 | 407 | 13 | Deborah Ayliffe |
 | 408 | 13 | Blessedmom865 |
 | 409 | 12 | Peterson Cottontail |
@@ -447,11 +447,11 @@
 | 439 | 10 | Has2brat |
 | 440 | 10 | medicjessi |
 | 441 | 10 | Monika Webb |
-| 442 | 9 | fmp |
+| 442 | 9 | DuvaDova Ahava |
 | 443 | 9 | nanaz86 |
-| 444 | 9 | Alex Dawn |
-| 445 | 9 | DuvaDova Ahava |
-| 446 | 9 | Frothy Riseclear |
+| 444 | 9 | Frothy Riseclear |
+| 445 | 9 | Alex Dawn |
+| 446 | 9 | fmp |
 | 447 | 9 | Tana-Marie Lynn McCarty-Rolf |
 | 448 | 9 | Shepreneur Sade |
 | 449 | 9 | Scrumptious |
@@ -471,9 +471,9 @@
 | 463 | 8 | Stephanie Williams |
 | 464 | 8 | Matthew Wilcox |
 | 465 | 8 | Mac James |
-| 466 | 7 | John Brandon Kinney |
-| 467 | 7 | Kari Smith |
-| 468 | 7 | Lacey Decker |
+| 466 | 7 | Kari Smith |
+| 467 | 7 | Lacey Decker |
+| 468 | 7 | John Brandon Kinney |
 | 469 | 7 | Christy Petty |
 | 470 | 7 | Chipper Hitter |
 | 471 | 7 | Crystal Parker Bryant |
@@ -487,9 +487,9 @@
 | 479 | 6 | Deb 07 |
 | 480 | 6 | Slinky Snapfit |
 | 481 | 6 | Scott Baum |
-| 482 | 6 | Rachel |
-| 483 | 6 | Margarita Santana |
-| 484 | 6 | Delashawne Hodgson |
+| 482 | 6 | Margarita Santana |
+| 483 | 6 | Delashawne Hodgson |
+| 484 | 6 | Rachel |
 | 485 | 5 | Shawna Downey |
 | 486 | 5 | Tippet |
 | 487 | 5 | Yvette Johnson |

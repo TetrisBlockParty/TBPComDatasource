@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 22:26:15 UTC
+# Standings for team2 as of 2026-06-05 22:26:37 UTC
 
 **Total Participants:** 607
 
@@ -28,23 +28,23 @@
 | 20 | 937 | Bea Bee |
 | 21 | 832 | Amber Triguero |
 | 22 | 789 | Happy Pivotfall |
-| 23 | 700 | Anthony Lilley |
-| 24 | 700 | Crafty Ziggy |
+| 23 | 700 | Crafty Ziggy |
+| 24 | 700 | Anthony Lilley |
 | 25 | 690 | Dapper Rollout |
 | 26 | 690 | Frilly Match |
 | 27 | 663 | Logan Basham |
-| 28 | 629 | Dane Marko |
-| 29 | 588 | Kellie Sharp Godfrey |
-| 30 | 561 | Aubree Richard |
-| 31 | 558 | DarkHorse |
-| 32 | 546 | Betty Barrett |
-| 33 | 538 | Kathleen Dumbazz |
-| 34 | 526 | Block Dog |
-| 35 | 515 | Loony Faller |
-| 36 | 504 | Angie BBlock |
-| 37 | 503 | Charley Bedford |
-| 38 | 503 | Jamie Jones |
-| 39 | 502 | Monica Galli |
+| 28 | 651 | Monica Galli |
+| 29 | 629 | Dane Marko |
+| 30 | 588 | Kellie Sharp Godfrey |
+| 31 | 561 | Aubree Richard |
+| 32 | 558 | DarkHorse |
+| 33 | 546 | Betty Barrett |
+| 34 | 538 | Kathleen Dumbazz |
+| 35 | 526 | Block Dog |
+| 36 | 515 | Loony Faller |
+| 37 | 504 | Angie BBlock |
+| 38 | 503 | Charley Bedford |
+| 39 | 503 | Jamie Jones |
 | 40 | 494 | Shandrea Crawford |
 | 41 | 445 | Amy Gale |
 | 42 | 411 | Brandon Link |
@@ -163,13 +163,13 @@
 | 155 | 67 | giamy |
 | 156 | 67 | Gill |
 | 157 | 67 | Charity Hauser |
-| 158 | 64 | Tom Badgley |
-| 159 | 64 | Lindsey Ford |
-| 160 | 64 | Momof2wigglebutts |
-| 161 | 64 | Jackie Tupper |
-| 162 | 64 | Victoria Pale |
-| 163 | 63 | Traci Abern |
-| 164 | 62 | Rick |
+| 158 | 66 | Rick |
+| 159 | 64 | Tom Badgley |
+| 160 | 64 | Lindsey Ford |
+| 161 | 64 | Momof2wigglebutts |
+| 162 | 64 | Jackie Tupper |
+| 163 | 64 | Victoria Pale |
+| 164 | 63 | Traci Abern |
 | 165 | 62 | Laverne Ellis Blair |
 | 166 | 62 | Breezy |
 | 167 | 62 | Alonzo Reed |

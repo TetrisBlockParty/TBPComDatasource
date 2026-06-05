@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 22:26:15 UTC
+# Standings for team1 as of 2026-06-05 22:26:37 UTC
 
 **Total Participants:** 559
 
@@ -93,20 +93,20 @@
 | 85 | 110 | Atlantalindi |
 | 86 | 107 | TBABYJ |
 | 87 | 105 | Katrina Ramey |
-| 88 | 104 | Frisky Fall |
-| 89 | 103 | David Fuentes |
-| 90 | 103 | KenpachisGirl |
-| 91 | 102 | Dawn L Washington-Feuquay |
-| 92 | 100 | Jessica Carter |
+| 88 | 104 | Tiana Moore |
+| 89 | 104 | Frisky Fall |
+| 90 | 103 | David Fuentes |
+| 91 | 103 | KenpachisGirl |
+| 92 | 102 | Dawn L Washington-Feuquay |
 | 93 | 100 | Cool Bridger |
 | 94 | 100 | Char |
-| 95 | 100 | Zippy Lifter |
-| 96 | 99 | 신재호 |
-| 97 | 96 | Cortaz Lawrie |
-| 98 | 96 | Simone Bailey |
-| 99 | 95 | Songne Arif |
+| 95 | 100 | Jessica Carter |
+| 96 | 100 | Zippy Lifter |
+| 97 | 99 | 신재호 |
+| 98 | 96 | Cortaz Lawrie |
+| 99 | 96 | Simone Bailey |
 | 100 | 95 | Nate Myers |
-| 101 | 94 | Tiana Moore |
+| 101 | 95 | Songne Arif |
 | 102 | 94 | Charlie Roehm |
 | 103 | 91 | Lesley Brunkus Cianfaglione |
 | 104 | 89 | Lively Riserpiece |
@@ -115,8 +115,8 @@
 | 107 | 84 | Franklin Sotelo |
 | 108 | 84 | Ciera Peace |
 | 109 | 82 | Poppy Buildout |
-| 110 | 81 | Mafio SO |
-| 111 | 81 | Sarah Steckbauer |
+| 110 | 81 | Sarah Steckbauer |
+| 111 | 81 | Mafio SO |
 | 112 | 80 | Jamie Willis |
 | 113 | 80 | Chevalier Burley |
 | 114 | 80 | Felicia Williams |
