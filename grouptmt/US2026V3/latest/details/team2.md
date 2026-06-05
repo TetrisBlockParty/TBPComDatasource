@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-05 13:20:13 UTC
+# Standings for team2 as of 2026-06-05 13:20:34 UTC
 
-**Total Participants:** 90
+**Total Participants:** 91
 
 ## Participant Scores
 
@@ -41,61 +41,62 @@
 | 33 | 28 | Nathan Walker |
 | 34 | 28 | Sara BlueEyes |
 | 35 | 27 | Michael Carmichael |
-| 36 | 26 | Rachel Huber |
-| 37 | 26 | Ariel Gundersen |
-| 38 | 26 | Quina Jesse Fejaran |
+| 36 | 26 | Ariel Gundersen |
+| 37 | 26 | Quina Jesse Fejaran |
+| 38 | 26 | Rachel Huber |
 | 39 | 25 | Jgato |
 | 40 | 25 | James Ward |
-| 41 | 24 | A.j. Langley |
-| 42 | 24 | Jessica Perkins |
+| 41 | 24 | Jessica Perkins |
+| 42 | 24 | A.j. Langley |
 | 43 | 24 | Dayna Messer-Thelen |
 | 44 | 23 | IncrediDragon |
 | 45 | 23 | Brittni Lawrence |
 | 46 | 23 | Damion Morrison |
 | 47 | 22 | Jeff Pottgether |
 | 48 | 21 | Kelly |
-| 49 | 20 | Chipper Stackbuilder |
-| 50 | 20 | AcardBoardBox |
-| 51 | 20 | Wendy McKee |
-| 52 | 20 | ChefDeb |
-| 53 | 18 | Amy Nicole McCanne |
-| 54 | 18 | Tracey Cox |
+| 49 | 20 | ChefDeb |
+| 50 | 20 | Wendy McKee |
+| 51 | 20 | AcardBoardBox |
+| 52 | 20 | Chipper Stackbuilder |
+| 53 | 18 | Tracey Cox |
+| 54 | 18 | Amy Nicole McCanne |
 | 55 | 16 | Sarah Jane Gorsuch |
 | 56 | 14 | Andre Love |
 | 57 | 14 | Steven Craig |
-| 58 | 12 | Chirpy Grid |
+| 58 | 12 | Mary |
 | 59 | 12 | Justin Stark |
-| 60 | 12 | Diamond Balotje |
-| 61 | 12 | Stacey Loretta Wallace |
-| 62 | 12 | Mary |
-| 63 | 11 | Yany |
+| 60 | 12 | Stacey Loretta Wallace |
+| 61 | 12 | Diamond Balotje |
+| 62 | 12 | Chirpy Grid |
+| 63 | 11 | Lora Via |
 | 64 | 11 | Thy Bui |
-| 65 | 11 | Lora Via |
-| 66 | 10 | Chesney |
+| 65 | 11 | Yany |
+| 66 | 10 | Justin Furne |
 | 67 | 10 | Thomas Johnstone |
 | 68 | 10 | Twisty Snapmatch |
-| 69 | 10 | Justin Furne |
+| 69 | 10 | Chesney |
 | 70 | 10 | Joyce Galloway |
 | 71 | 10 | Berta Hurley |
 | 72 | 10 | Donna Casey |
 | 73 | 10 | Jennifer Bell |
 | 74 | 10 | Gill |
-| 75 | 9 | Darla Ragsdale |
-| 76 | 9 | Mama G |
+| 75 | 9 | Rhonda Driskill |
+| 76 | 9 | Giggly Spinblock |
 | 77 | 9 | Princess Cucumber |
-| 78 | 9 | Giggly Spinblock |
-| 79 | 9 | Rhonda Driskill |
-| 80 | 8 | Renee Weedling |
-| 81 | 8 | Stephanie |
-| 82 | 7 | Epic Framezone |
-| 83 | 7 | Cherica Taylor |
-| 84 | 7 | Elizabeth Elaine Coursey |
-| 85 | 7 | nova |
-| 86 | 6 | Kelly Christine Trimmer |
+| 78 | 9 | Mama G |
+| 79 | 9 | Darla Ragsdale |
+| 80 | 8 | Stephanie |
+| 81 | 8 | Renee Weedling |
+| 82 | 7 | Cherica Taylor |
+| 83 | 7 | Epic Framezone |
+| 84 | 7 | Sara Perkins |
+| 85 | 7 | Elizabeth Elaine Coursey |
+| 86 | 7 | nova |
 | 87 | 6 | fancypants |
-| 88 | 5 | Tashamonique Puckey |
+| 88 | 6 | Kelly Christine Trimmer |
 | 89 | 5 | Devon |
-| 90 | 5 | Allison Peterson |
+| 90 | 5 | Tashamonique Puckey |
+| 91 | 5 | Allison Peterson |
 
 ---
 *Standings created by tournaments datasource generation tool*

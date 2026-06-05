@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:20:13 UTC
+# Standings for team1 as of 2026-06-05 13:20:34 UTC
 
 **Total Participants:** 108
 
@@ -47,33 +47,33 @@
 | 39 | 38 | rls |
 | 40 | 37 | Lootch |
 | 41 | 35 | Saucy Crusher |
-| 42 | 35 | Lilly Brown |
-| 43 | 35 | KoolKimJay |
+| 42 | 35 | KoolKimJay |
+| 43 | 35 | Lilly Brown |
 | 44 | 35 | Dai Bo |
 | 45 | 31 | Steve Reno |
 | 46 | 30 | Lester Malone |
-| 47 | 30 | Saucy Faller |
-| 48 | 28 | David Fuentes |
-| 49 | 28 | John Staub |
-| 50 | 27 | Charlene Baltimore |
-| 51 | 27 | Angela R Wilson |
+| 47 | 30 | Brian Bohanon II |
+| 48 | 30 | Saucy Faller |
+| 49 | 28 | David Fuentes |
+| 50 | 28 | John Staub |
+| 51 | 27 | Charlene Baltimore |
 | 52 | 27 | Jae Thompson-Tyus |
-| 53 | 27 | Zany Breaker |
-| 54 | 25 | Yashica Smith |
-| 55 | 25 | Tyrone Porter |
-| 56 | 23 | Poppy Twister |
-| 57 | 22 | Tanisha Taylor |
-| 58 | 21 | Brave Balanceblock |
-| 59 | 20 | Trina Greenwood |
+| 53 | 27 | Angela R Wilson |
+| 54 | 27 | Zany Breaker |
+| 55 | 25 | Yashica Smith |
+| 56 | 25 | Tyrone Porter |
+| 57 | 23 | Poppy Twister |
+| 58 | 22 | Tanisha Taylor |
+| 59 | 21 | Brave Balanceblock |
 | 60 | 20 | Jai |
-| 61 | 20 | Hasty Pivoty |
+| 61 | 20 | Trina Greenwood |
 | 62 | 20 | Chevalier Burley |
-| 63 | 19 | Amanda Woodruff |
-| 64 | 19 | Brenda Malachi-butler |
-| 65 | 19 | Shanjerrica Taylor Rosell |
-| 66 | 19 | Jenni |
-| 67 | 18 | AleahKCH |
-| 68 | 18 | Brian Bohanon II |
+| 63 | 20 | Hasty Pivoty |
+| 64 | 19 | Amanda Woodruff |
+| 65 | 19 | Jenni |
+| 66 | 19 | Shanjerrica Taylor Rosell |
+| 67 | 19 | Brenda Malachi-butler |
+| 68 | 18 | AleahKCH |
 | 69 | 18 | Tyree Tman Shinette |
 | 70 | 18 | Sunny Clicky |
 | 71 | 17 | Tobey Marberry |
@@ -102,18 +102,18 @@
 | 94 | 9 | Tamara N Lee |
 | 95 | 8 | Brika Brika |
 | 96 | 8 | Sammie Walker |
-| 97 | 7 | Kendra McIntyre |
-| 98 | 7 | Mary2 |
+| 97 | 7 | Mary2 |
+| 98 | 7 | Kendra McIntyre |
 | 99 | 6 | Janine Hunter |
 | 100 | 6 | Taz Ballard |
 | 101 | 6 | Ashley Espeut |
 | 102 | 6 | Jayjay Rich |
 | 103 | 5 | Derek Beverly |
-| 104 | 5 | DirtiestofMikes |
-| 105 | 5 | Jennifer Moore |
+| 104 | 5 | Cheeky Pop |
+| 105 | 5 | Shakmar |
 | 106 | 5 | Tony P Burke |
-| 107 | 5 | Shakmar |
-| 108 | 5 | Cheeky Pop |
+| 107 | 5 | Jennifer Moore |
+| 108 | 5 | DirtiestofMikes |
 
 ---
 *Standings created by tournaments datasource generation tool*
