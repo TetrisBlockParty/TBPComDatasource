@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:54:35 UTC
+# Standings for team1 as of 2026-06-05 15:55:13 UTC
 
 **Total Participants:** 260
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 5500 | Ariel |
+| 1 | 6500 | Ariel |
 | 2 | 1805 | Timothy Robert |
 | 3 | 1334 | Tracy Cohen |
 | 4 | 1050 | jaimie |
@@ -56,11 +56,11 @@
 | 48 | 84 | Ciera Peace |
 | 49 | 81 | Mafio SO |
 | 50 | 81 | Robyn Caldwell |
-| 51 | 80 | Char |
-| 52 | 80 | Carolyn Smith |
-| 53 | 80 | Rachel Zimmerman |
-| 54 | 80 | Felicia Williams |
-| 55 | 80 | Jazzy Dashpiece |
+| 51 | 80 | Felicia Williams |
+| 52 | 80 | Char |
+| 53 | 80 | Jazzy Dashpiece |
+| 54 | 80 | Rachel Zimmerman |
+| 55 | 80 | Carolyn Smith |
 | 56 | 77 | Amber Wilson |
 | 57 | 76 | Giggly Shatterline |
 | 58 | 75 | Katrina Ramey |
@@ -72,27 +72,27 @@
 | 64 | 69 | AF Cruz |
 | 65 | 67 | Michele Elizabeth McKay-Johnson |
 | 66 | 66 | Shontanese Adams |
-| 67 | 65 | Frisky Fall |
+| 67 | 65 | Latore Maxie |
 | 68 | 65 | Shanell Thomas |
-| 69 | 65 | Dizzy Dashy |
-| 70 | 63 | Carrie English |
-| 71 | 62 | Cheeky Pop |
-| 72 | 61 | Cozy Edge |
-| 73 | 61 | Angela R Wilson |
-| 74 | 60 | Marcheta Cervantez |
-| 75 | 60 | Christian Pham |
-| 76 | 60 | Valerie Alexander |
-| 77 | 60 | Boldy Liner |
-| 78 | 57 | Tosha Michelle |
+| 69 | 65 | Frisky Fall |
+| 70 | 65 | Dizzy Dashy |
+| 71 | 63 | Carrie English |
+| 72 | 62 | Cheeky Pop |
+| 73 | 61 | Cozy Edge |
+| 74 | 61 | Angela R Wilson |
+| 75 | 60 | Marcheta Cervantez |
+| 76 | 60 | Christian Pham |
+| 77 | 60 | Valerie Alexander |
+| 78 | 60 | Boldy Liner |
 | 79 | 57 | Erin Sabol |
-| 80 | 56 | Dena Marie Lee |
-| 81 | 54 | Lauraly |
-| 82 | 51 | Comedian Gdane |
-| 83 | 50 | Donna Payne |
-| 84 | 50 | Latore Maxie |
-| 85 | 50 | Slinky Party |
-| 86 | 50 | Yazz |
-| 87 | 50 | Dai Bo |
+| 80 | 57 | Tosha Michelle |
+| 81 | 56 | Dena Marie Lee |
+| 82 | 54 | Lauraly |
+| 83 | 51 | Comedian Gdane |
+| 84 | 50 | Donna Payne |
+| 85 | 50 | Dai Bo |
+| 86 | 50 | Slinky Party |
+| 87 | 50 | Yazz |
 | 88 | 49 | Sanjuro |
 | 89 | 45 | Guy Incognito |
 | 90 | 45 | Jayjay Rich |
@@ -237,35 +237,35 @@
 | 229 | 8 | Brika Brika |
 | 230 | 8 | Sammie Walker |
 | 231 | 8 | Breezy Catcher |
-| 232 | 8 | Taz Ballard |
-| 233 | 8 | Jessie N Michael Silvers |
-| 234 | 8 | Tanesha Ga'sFinest Corbett |
+| 232 | 8 | Jessie N Michael Silvers |
+| 233 | 8 | Tanesha Ga'sFinest Corbett |
+| 234 | 8 | Taz Ballard |
 | 235 | 7 | Jumpy Gridlock |
 | 236 | 7 | Shane Brucewayne |
 | 237 | 7 | Mary2 |
 | 238 | 7 | Kendra McIntyre |
-| 239 | 7 | whatever |
-| 240 | 7 | wmedina67 |
-| 241 | 6 | Christopher Wallace |
+| 239 | 7 | wmedina67 |
+| 240 | 7 | whatever |
+| 241 | 6 | Cece Fowler |
 | 242 | 6 | Allison Baxter |
-| 243 | 6 | Jeffrey Barrows |
-| 244 | 6 | Jelyfish |
-| 245 | 6 | Cece Fowler |
-| 246 | 6 | Janine Hunter |
-| 247 | 6 | Brittnay Wright |
-| 248 | 5 | Tamika Fisher |
+| 243 | 6 | Jelyfish |
+| 244 | 6 | Brittnay Wright |
+| 245 | 6 | Christopher Wallace |
+| 246 | 6 | Jeffrey Barrows |
+| 247 | 6 | Janine Hunter |
+| 248 | 5 | Shawn Himes |
 | 249 | 5 | Rixo Blax |
-| 250 | 5 | Derek Beverly |
-| 251 | 5 | Temeshia Brooks Washington |
-| 252 | 5 | KeeKee Williams |
-| 253 | 5 | Stephanie Zuniga Tullock |
+| 250 | 5 | Temeshia Brooks Washington |
+| 251 | 5 | KeeKee Williams |
+| 252 | 5 | Derek Beverly |
+| 253 | 5 | DirtiestofMikes |
 | 254 | 5 | Lil T |
-| 255 | 5 | Kidgib5 |
-| 256 | 5 | Jennifer Moore |
-| 257 | 5 | Vernon Hoyt |
-| 258 | 5 | Shawn Himes |
-| 259 | 5 | Zappy Clearfit |
-| 260 | 5 | DirtiestofMikes |
+| 255 | 5 | Vernon Hoyt |
+| 256 | 5 | Kidgib5 |
+| 257 | 5 | Zappy Clearfit |
+| 258 | 5 | Tamika Fisher |
+| 259 | 5 | Jennifer Moore |
+| 260 | 5 | Stephanie Zuniga Tullock |
 
 ---
 *Standings created by tournaments datasource generation tool*
