@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 16:44:38 UTC
+# Standings for team1 as of 2026-06-05 16:45:14 UTC
 
 **Total Participants:** 306
 
@@ -276,42 +276,42 @@
 | 268 | 9 | Rissa Rozay |
 | 269 | 8 | Rixo Blax |
 | 270 | 8 | Brika Brika |
-| 271 | 8 | Tanesha Ga'sFinest Corbett |
+| 271 | 8 | Breezy Catcher |
 | 272 | 8 | Jessie N Michael Silvers |
-| 273 | 8 | Breezy Catcher |
-| 274 | 8 | Caitlin Michele |
-| 275 | 8 | Taz Ballard |
-| 276 | 8 | Sammie Walker |
-| 277 | 7 | Jumpy Gridlock |
+| 273 | 8 | Sammie Walker |
+| 274 | 8 | Tanesha Ga'sFinest Corbett |
+| 275 | 8 | Caitlin Michele |
+| 276 | 8 | Taz Ballard |
+| 277 | 7 | Lynnette WheelerBushnell |
 | 278 | 7 | wmedina67 |
-| 279 | 7 | Lillie Blossom Dixon |
-| 280 | 7 | whatever |
-| 281 | 7 | Kendra McIntyre |
-| 282 | 7 | Lynnette WheelerBushnell |
-| 283 | 7 | Mary2 |
-| 284 | 7 | Shane Brucewayne |
-| 285 | 6 | Jeffrey Barrows |
-| 286 | 6 | Allison Baxter |
-| 287 | 6 | Janine Hunter |
+| 279 | 7 | Kendra McIntyre |
+| 280 | 7 | Mary2 |
+| 281 | 7 | Lillie Blossom Dixon |
+| 282 | 7 | whatever |
+| 283 | 7 | Shane Brucewayne |
+| 284 | 7 | Jumpy Gridlock |
+| 285 | 6 | Cece Fowler |
+| 286 | 6 | Brittnay Wright |
+| 287 | 6 | Frances Davis |
 | 288 | 6 | Jelyfish |
-| 289 | 6 | Frances Davis |
-| 290 | 6 | Cece Fowler |
-| 291 | 6 | Christopher Wallace |
-| 292 | 6 | Brittnay Wright |
-| 293 | 5 | Zappy Clearfit |
-| 294 | 5 | Stephanie Zuniga Tullock |
-| 295 | 5 | Temeshia Brooks Washington |
+| 289 | 6 | Allison Baxter |
+| 290 | 6 | Christopher Wallace |
+| 291 | 6 | Jeffrey Barrows |
+| 292 | 6 | Janine Hunter |
+| 293 | 5 | Temeshia Brooks Washington |
+| 294 | 5 | pooh |
+| 295 | 5 | Barbramerri Tarboro |
 | 296 | 5 | KeeKee Williams |
-| 297 | 5 | Derek Beverly |
-| 298 | 5 | Lil T |
-| 299 | 5 | pooh |
-| 300 | 5 | DirtiestofMikes |
+| 297 | 5 | Zappy Clearfit |
+| 298 | 5 | Tamika Fisher |
+| 299 | 5 | Jennifer Moore |
+| 300 | 5 | Kidgib5 |
 | 301 | 5 | Shawn Himes |
-| 302 | 5 | Kidgib5 |
-| 303 | 5 | Jennifer Moore |
+| 302 | 5 | DirtiestofMikes |
+| 303 | 5 | Lil T |
 | 304 | 5 | Vernon Hoyt |
-| 305 | 5 | Tamika Fisher |
-| 306 | 5 | Barbramerri Tarboro |
+| 305 | 5 | Derek Beverly |
+| 306 | 5 | Stephanie Zuniga Tullock |
 
 ---
 *Standings created by tournaments datasource generation tool*
