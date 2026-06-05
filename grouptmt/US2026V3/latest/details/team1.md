@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 14:00:35 UTC
+# Standings for team1 as of 2026-06-05 14:01:13 UTC
 
 **Total Participants:** 134
 
@@ -131,9 +131,9 @@
 | 123 | 7 | Kendra McIntyre |
 | 124 | 6 | Janine Hunter |
 | 125 | 6 | Christopher Wallace |
-| 126 | 6 | Taz Ballard |
-| 127 | 6 | Jayjay Rich |
-| 128 | 6 | Ashley Espeut |
+| 126 | 6 | Ashley Espeut |
+| 127 | 6 | Taz Ballard |
+| 128 | 6 | Jayjay Rich |
 | 129 | 5 | Tamika Fisher |
 | 130 | 5 | Christian Whittaker |
 | 131 | 5 | Derek Beverly |
