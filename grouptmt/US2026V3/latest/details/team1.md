@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 18:26:14 UTC
+# Standings for team1 as of 2026-06-05 18:26:35 UTC
 
 **Total Participants:** 382
 
@@ -62,9 +62,9 @@
 | 54 | 111 | Shalena Marie Humphrey |
 | 55 | 108 | Hasty Pivoty |
 | 56 | 103 | KenpachisGirl |
-| 57 | 100 | She Higgy |
-| 58 | 100 | Cool Bridger |
-| 59 | 100 | Asani CHumba |
+| 57 | 100 | Cool Bridger |
+| 58 | 100 | Asani CHumba |
+| 59 | 100 | She Higgy |
 | 60 | 96 | Cortaz Lawrie |
 | 61 | 95 | Nate Myers |
 | 62 | 94 | W.A. Simpson |
@@ -72,36 +72,36 @@
 | 64 | 84 | Ciera Peace |
 | 65 | 81 | Robyn Caldwell |
 | 66 | 81 | Mafio SO |
-| 67 | 80 | Jazzy Dashpiece |
-| 68 | 80 | Felicia Williams |
-| 69 | 80 | Rachel Zimmerman |
-| 70 | 80 | Carolyn Smith |
-| 71 | 80 | Charles Johnson |
-| 72 | 80 | Char |
-| 73 | 79 | Mimi 1.0 |
-| 74 | 77 | Amber Wilson |
-| 75 | 76 | Giggly Shatterline |
-| 76 | 75 | Katrina Ramey |
+| 67 | 80 | Felicia Williams |
+| 68 | 80 | Carolyn Smith |
+| 69 | 80 | Epic Snapfall |
+| 70 | 80 | Charles Johnson |
+| 71 | 80 | Char |
+| 72 | 80 | Jazzy Dashpiece |
+| 73 | 80 | Rachel Zimmerman |
+| 74 | 79 | Mimi 1.0 |
+| 75 | 77 | Amber Wilson |
+| 76 | 76 | Giggly Shatterline |
 | 77 | 75 | Dizzy Dashy |
-| 78 | 74 | Tonya McElroy |
-| 79 | 74 | ♈️ Ariesbaby |
-| 80 | 72 | David Fuentes |
+| 78 | 75 | Katrina Ramey |
+| 79 | 74 | Tonya McElroy |
+| 80 | 74 | ♈️ Ariesbaby |
 | 81 | 72 | Mic Balew |
-| 82 | 70 | Epic Snapfall |
+| 82 | 72 | David Fuentes |
 | 83 | 70 | $hort Dog |
 | 84 | 68 | Eric Mcgaughy |
 | 85 | 67 | Michele Elizabeth McKay-Johnson |
 | 86 | 66 | Shontanese Adams |
-| 87 | 65 | Frisky Fall |
+| 87 | 65 | Latore Maxie |
 | 88 | 65 | Shanell Thomas |
-| 89 | 65 | Latore Maxie |
-| 90 | 62 | Sanjuro |
-| 91 | 62 | Cheeky Pop |
+| 89 | 65 | Frisky Fall |
+| 90 | 62 | Cheeky Pop |
+| 91 | 62 | Sanjuro |
 | 92 | 61 | Anthony Washington |
 | 93 | 61 | Angela R Wilson |
-| 94 | 60 | Queenie Perry |
+| 94 | 60 | Boldy Liner |
 | 95 | 60 | CJ Robinson |
-| 96 | 60 | Boldy Liner |
+| 96 | 60 | Queenie Perry |
 | 97 | 60 | Valerie Alexander |
 | 98 | 60 | Marcheta Cervantez |
 | 99 | 60 | Christian Pham |

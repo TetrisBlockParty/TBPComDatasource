@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 18:26:14 UTC
+# Standings for team2 as of 2026-06-05 18:26:35 UTC
 
 **Total Participants:** 402
 
@@ -68,8 +68,8 @@
 | 60 | 110 | Kelly Vedder |
 | 61 | 105 | Ackerman 85 |
 | 62 | 103 | Spunky Cascadeclear |
-| 63 | 100 | LEW |
-| 64 | 100 | Nichole Wilson |
+| 63 | 100 | Nichole Wilson |
+| 64 | 100 | LEW |
 | 65 | 99 | Melissa Abbott |
 | 66 | 98 | Tango Sierra |
 | 67 | 95 | Zarah Kettler |
@@ -87,87 +87,87 @@
 | 79 | 81 | Alissa Ary |
 | 80 | 81 | YldBoar |
 | 81 | 80 | AcardBoardBox |
-| 82 | 80 | Amy Gregg |
-| 83 | 80 | Lisa Breiding |
+| 82 | 80 | Lisa Breiding |
+| 83 | 80 | Amy Gregg |
 | 84 | 80 | Skye Ehret |
 | 85 | 79 | H |
 | 86 | 78 | LittleHippoEars |
 | 87 | 77 | Amy Taylor Pomerenk |
 | 88 | 76 | Jenni LeBlanc |
-| 89 | 75 | Angeleye A James |
+| 89 | 75 | Suki Jacobs |
 | 90 | 75 | Karly Moore |
-| 91 | 75 | Suki Jacobs |
+| 91 | 75 | Angeleye A James |
 | 92 | 74 | Jumpy Dashpiece |
 | 93 | 73 | Theresa Hollinger |
 | 94 | 70 | Jessica Christine |
-| 95 | 66 | Sarah Mccolgan |
-| 96 | 65 | Brandy Chinelle |
-| 97 | 62 | Breezy |
-| 98 | 61 | Jessica Perkins |
-| 99 | 61 | Bubbly Dash |
-| 100 | 60 | Snippy Shifter |
-| 101 | 60 | Amber Salazar |
-| 102 | 60 | Leticia Tillman |
-| 103 | 60 | Courtney Madison Hart |
+| 95 | 70 | Precious Womack |
+| 96 | 66 | Sarah Mccolgan |
+| 97 | 65 | Brandy Chinelle |
+| 98 | 62 | Breezy |
+| 99 | 61 | Jessica Perkins |
+| 100 | 61 | Bubbly Dash |
+| 101 | 60 | Courtney Madison Hart |
+| 102 | 60 | Snippy Shifter |
+| 103 | 60 | Elizabeth Cornelius |
 | 104 | 60 | Dawn Kroptavich |
-| 105 | 60 | Elizabeth Cornelius |
-| 106 | 59 | Judy Long |
+| 105 | 60 | Leticia Tillman |
+| 106 | 60 | Amber Salazar |
 | 107 | 59 | April Addis |
-| 108 | 58 | Chipper Towerzone |
-| 109 | 58 | Rick |
-| 110 | 58 | Sara Perkins |
-| 111 | 58 | Zany Wrecker |
-| 112 | 57 | Kenzie |
-| 113 | 57 | Sully |
-| 114 | 56 | Alonzo Reed |
+| 108 | 59 | Judy Long |
+| 109 | 58 | Chipper Towerzone |
+| 110 | 58 | Rick |
+| 111 | 58 | Sara Perkins |
+| 112 | 58 | Zany Wrecker |
+| 113 | 57 | Kenzie |
+| 114 | 57 | Sully |
 | 115 | 56 | Brenda Jones |
-| 116 | 55 | Jackie Tupper |
-| 117 | 54 | Eva Lopez |
-| 118 | 54 | Cool Balancer |
-| 119 | 54 | Funway998 |
-| 120 | 54 | Lively Twisterfit |
-| 121 | 54 | Victoria Pale |
-| 122 | 53 | Maurii93 |
-| 123 | 52 | Silly Tiltbuilder |
-| 124 | 51 | Mama G |
-| 125 | 51 | Loretta Crow |
-| 126 | 51 | Martha Lynn Wiggins |
-| 127 | 50 | rageking |
+| 116 | 56 | Alonzo Reed |
+| 117 | 55 | Jackie Tupper |
+| 118 | 54 | Lively Twisterfit |
+| 119 | 54 | Victoria Pale |
+| 120 | 54 | Cool Balancer |
+| 121 | 54 | Eva Lopez |
+| 122 | 54 | Funway998 |
+| 123 | 53 | Maurii93 |
+| 124 | 52 | Silly Tiltbuilder |
+| 125 | 51 | Mama G |
+| 126 | 51 | Loretta Crow |
+| 127 | 51 | Martha Lynn Wiggins |
 | 128 | 50 | Shiny Spinfit |
 | 129 | 50 | Jennifer Wymer |
 | 130 | 50 | Justin Stark |
 | 131 | 50 | Whitt |
-| 132 | 49 | Happy Pivotfall |
-| 133 | 48 | Wendy McKee |
+| 132 | 50 | rageking |
+| 133 | 49 | Happy Pivotfall |
 | 134 | 48 | Spicy Basepiece |
 | 135 | 48 | Dizzy Dropzone |
-| 136 | 47 | REE4 |
+| 136 | 48 | Wendy McKee |
 | 137 | 47 | Carole Brown |
-| 138 | 46 | Dani Newton |
-| 139 | 45 | Jason Cunningham |
-| 140 | 45 | Wacky Holder |
-| 141 | 45 | Michelle Anne |
-| 142 | 44 | Julibeth Wells |
+| 138 | 47 | REE4 |
+| 139 | 46 | Dani Newton |
+| 140 | 45 | Jason Cunningham |
+| 141 | 45 | Wacky Holder |
+| 142 | 45 | Michelle Anne |
 | 143 | 44 | Zaniya Brown |
-| 144 | 43 | SEH |
-| 145 | 43 | Peter Fogg |
-| 146 | 42 | Shylo Bryant-Brunson |
-| 147 | 42 | Bri St Peter |
-| 148 | 42 | Snazzy Smasher |
-| 149 | 42 | Brittany Nichole Ellenburg |
-| 150 | 42 | Renee Siems |
-| 151 | 42 | Charity Hauser |
-| 152 | 42 | Henny Henny |
-| 153 | 42 | Heather Vircik |
-| 154 | 41 | Ava Speedy |
-| 155 | 41 | Becca Marie |
-| 156 | 41 | Michelle Fry-Cash |
-| 157 | 41 | Jenny Coffer |
-| 158 | 40 | Jat |
+| 144 | 44 | Julibeth Wells |
+| 145 | 43 | SEH |
+| 146 | 43 | Peter Fogg |
+| 147 | 42 | Renee Siems |
+| 148 | 42 | Heather Vircik |
+| 149 | 42 | Snazzy Smasher |
+| 150 | 42 | Shylo Bryant-Brunson |
+| 151 | 42 | Henny Henny |
+| 152 | 42 | Charity Hauser |
+| 153 | 42 | Bri St Peter |
+| 154 | 42 | Brittany Nichole Ellenburg |
+| 155 | 41 | Michelle Fry-Cash |
+| 156 | 41 | Jenny Coffer |
+| 157 | 41 | Becca Marie |
+| 158 | 41 | Ava Speedy |
 | 159 | 40 | Charith Lorelle Watson |
-| 160 | 40 | Precious Womack |
-| 161 | 40 | Spicy Balanceblock |
-| 162 | 40 | Loopy Dropper |
+| 160 | 40 | Jat |
+| 161 | 40 | Loopy Dropper |
+| 162 | 40 | Spicy Balanceblock |
 | 163 | 40 | marsam |
 | 164 | 40 | Sherry Ann |
 | 165 | 40 | Kevin Mccoy |
@@ -404,10 +404,10 @@
 | 396 | 5 | Amy Lea Hamilton |
 | 397 | 5 | Mercedes Lowery |
 | 398 | 5 | Momi Kamohai |
-| 399 | 5 | Pjrobinsonnn |
+| 399 | 5 | Joni Michelle Morgan |
 | 400 | 5 | Poppy Zonepiece |
-| 401 | 5 | Joni Michelle Morgan |
-| 402 | 5 | Lindsey Ford |
+| 401 | 5 | Lindsey Ford |
+| 402 | 5 | Pjrobinsonnn |
 
 ---
 *Standings created by tournaments datasource generation tool*
