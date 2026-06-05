@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:48:13 UTC
+# Standings for team1 as of 2026-06-05 13:48:33 UTC
 
 **Total Participants:** 128
 
@@ -12,8 +12,8 @@
 | 4 | 593 | jaimie |
 | 5 | 585 | Chris Russell |
 | 6 | 523 | Charnay Peacock |
-| 7 | 366 | Tracy Cohen |
-| 8 | 303 | Brian Stackhouse |
+| 7 | 453 | Brian Stackhouse |
+| 8 | 366 | Tracy Cohen |
 | 9 | 241 | Ivana Schmidt |
 | 10 | 237 | Tammye Turner |
 | 11 | 177 | Chris Sladoje |
@@ -121,14 +121,14 @@
 | 113 | 8 | Sammie Walker |
 | 114 | 7 | Mary2 |
 | 115 | 7 | Kendra McIntyre |
-| 116 | 6 | Jayjay Rich |
+| 116 | 6 | JesusSaves 😇 |
 | 117 | 6 | Christopher Wallace |
 | 118 | 6 | Ashley Espeut |
-| 119 | 6 | Taz Ballard |
-| 120 | 6 | Janine Hunter |
-| 121 | 6 | JesusSaves 😇 |
-| 122 | 5 | Christian Whittaker |
-| 123 | 5 | Tamika Fisher |
+| 119 | 6 | Jayjay Rich |
+| 120 | 6 | Taz Ballard |
+| 121 | 6 | Janine Hunter |
+| 122 | 5 | Tamika Fisher |
+| 123 | 5 | Christian Whittaker |
 | 124 | 5 | Jennifer Moore |
 | 125 | 5 | Kidgib5 |
 | 126 | 5 | Derek Beverly |
