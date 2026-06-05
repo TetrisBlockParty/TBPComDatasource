@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-05 12:46:34 UTC
+# Standings for team2 as of 2026-06-05 12:47:12 UTC
 
-**Total Participants:** 57
+**Total Participants:** 58
 
 ## Participant Scores
 
@@ -11,7 +11,7 @@
 | 3 | 700 | Mocha |
 | 4 | 663 | Logan Basham |
 | 5 | 545 | Jewels |
-| 6 | 273 | Amy Gale |
+| 6 | 350 | Amy Gale |
 | 7 | 99 | Stella |
 | 8 | 75 | Angeleye A James |
 | 9 | 70 | Amanda Sikes |
@@ -28,41 +28,42 @@
 | 20 | 28 | Sara BlueEyes |
 | 21 | 27 | Michael Carmichael |
 | 22 | 26 | Ariel Gundersen |
-| 23 | 26 | Rachel Huber |
-| 24 | 25 | Jgato |
-| 25 | 25 | April Addis |
-| 26 | 24 | A.j. Langley |
-| 27 | 24 | Dayna Messer-Thelen |
-| 28 | 23 | Damion Morrison |
-| 29 | 23 | IncrediDragon |
-| 30 | 20 | ChefDeb |
-| 31 | 18 | Rick |
+| 23 | 26 | Quina Jesse Fejaran |
+| 24 | 26 | Rachel Huber |
+| 25 | 25 | Jgato |
+| 26 | 25 | April Addis |
+| 27 | 24 | A.j. Langley |
+| 28 | 24 | Dayna Messer-Thelen |
+| 29 | 23 | Damion Morrison |
+| 30 | 23 | IncrediDragon |
+| 31 | 20 | ChefDeb |
 | 32 | 18 | Tracey Cox |
-| 33 | 16 | Peter Fogg |
-| 34 | 12 | Chirpy Grid |
-| 35 | 12 | Mary |
+| 33 | 18 | Rick |
+| 34 | 16 | Peter Fogg |
+| 35 | 12 | Chirpy Grid |
 | 36 | 12 | Stacey Loretta Wallace |
-| 37 | 11 | Lora Via |
-| 38 | 11 | Thy Bui |
-| 39 | 10 | Justin Furne |
-| 40 | 10 | Thomas Johnstone |
-| 41 | 10 | Berta Hurley |
-| 42 | 10 | Joyce Galloway |
-| 43 | 10 | Bon Lynn |
-| 44 | 10 | Twisty Snapmatch |
-| 45 | 10 | Gill |
-| 46 | 9 | Giggly Spinblock |
-| 47 | 9 | Darla Ragsdale |
-| 48 | 9 | Princess Cucumber |
+| 37 | 12 | Mary |
+| 38 | 11 | Lora Via |
+| 39 | 11 | Thy Bui |
+| 40 | 10 | Berta Hurley |
+| 41 | 10 | Twisty Snapmatch |
+| 42 | 10 | Thomas Johnstone |
+| 43 | 10 | Justin Furne |
+| 44 | 10 | Gill |
+| 45 | 10 | Bon Lynn |
+| 46 | 10 | Joyce Galloway |
+| 47 | 9 | Giggly Spinblock |
+| 48 | 9 | Darla Ragsdale |
 | 49 | 9 | Mama G |
-| 50 | 8 | Kenzie |
-| 51 | 7 | Cherica Taylor |
-| 52 | 6 | Martha Lynn Wiggins |
-| 53 | 6 | fancypants |
+| 50 | 9 | Princess Cucumber |
+| 51 | 8 | Kenzie |
+| 52 | 7 | Cherica Taylor |
+| 53 | 6 | Martha Lynn Wiggins |
 | 54 | 6 | Kelly Christine Trimmer |
-| 55 | 5 | Tashamonique Puckey |
+| 55 | 6 | fancypants |
 | 56 | 5 | Devon |
 | 57 | 5 | Allison Peterson |
+| 58 | 5 | Tashamonique Puckey |
 
 ---
 *Standings created by tournaments datasource generation tool*
