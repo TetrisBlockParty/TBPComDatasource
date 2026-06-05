@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 17:18:15 UTC
+# Standings for team2 as of 2026-06-05 17:18:37 UTC
 
 **Total Participants:** 334
 
@@ -32,18 +32,18 @@
 | 24 | 240 | Quirky Catcher |
 | 25 | 221 | Vistabrat |
 | 26 | 219 | Block Dog |
-| 27 | 213 | Angie BBlock |
-| 28 | 199 | Stella |
-| 29 | 190 | Kellie Sharp Godfrey |
-| 30 | 177 | Lindsay Klemp |
-| 31 | 175 | Betty Barrett |
-| 32 | 158 | Amy Nicole McCanne |
-| 33 | 158 | Nettrainer |
-| 34 | 153 | Helen Thomas |
-| 35 | 143 | Steven Craig |
-| 36 | 143 | Christina Shell |
-| 37 | 140 | Curly Windbreaker |
-| 38 | 136 | Kathleen Dumbazz |
+| 27 | 216 | Kathleen Dumbazz |
+| 28 | 213 | Angie BBlock |
+| 29 | 199 | Stella |
+| 30 | 190 | Kellie Sharp Godfrey |
+| 31 | 177 | Lindsay Klemp |
+| 32 | 175 | Betty Barrett |
+| 33 | 158 | Amy Nicole McCanne |
+| 34 | 158 | Nettrainer |
+| 35 | 153 | Helen Thomas |
+| 36 | 143 | Steven Craig |
+| 37 | 143 | Christina Shell |
+| 38 | 140 | Curly Windbreaker |
 | 39 | 131 | Santara Ferguson |
 | 40 | 130 | NickandJess Reynolds |
 | 41 | 126 | Nathan Walker |

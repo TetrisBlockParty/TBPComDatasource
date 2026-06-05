@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:18:15 UTC
+# Standings for team1 as of 2026-06-05 17:18:37 UTC
 
 **Total Participants:** 330
 
@@ -27,11 +27,11 @@
 | 19 | 292 | Sarah Marie |
 | 20 | 280 | Bre Maugh |
 | 21 | 260 | Carolynne Walker-Bell |
-| 22 | 244 | Tammye Turner |
-| 23 | 241 | Ivana Schmidt |
-| 24 | 240 | IamJust Neyamijah Washington Sr. |
-| 25 | 239 | Kellie Hall |
-| 26 | 239 | Ashley MyBeauty Daniels |
+| 22 | 247 | Ashley MyBeauty Daniels |
+| 23 | 244 | Tammye Turner |
+| 24 | 241 | Ivana Schmidt |
+| 25 | 240 | IamJust Neyamijah Washington Sr. |
+| 26 | 239 | Kellie Hall |
 | 27 | 238 | Holly Jolly |
 | 28 | 237 | Leebo Slice |
 | 29 | 234 | Pdubbl3 |
