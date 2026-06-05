@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:26:15 UTC
+# Standings for team1 as of 2026-06-05 15:26:35 UTC
 
 **Total Participants:** 244
 
@@ -6,8 +6,8 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 1705 | Timothy Robert |
-| 2 | 1500 | Ariel |
+| 1 | 2000 | Ariel |
+| 2 | 1705 | Timothy Robert |
 | 3 | 1050 | jaimie |
 | 4 | 825 | Chris Russell |
 | 5 | 800 | Chandler Spencer |
@@ -40,19 +40,19 @@
 | 32 | 126 | Cee Emm |
 | 33 | 115 | Jawaun Daniels |
 | 34 | 111 | Shalena Marie Humphrey |
-| 35 | 100 | Cool Bridger |
-| 36 | 100 | COSA303 |
-| 37 | 100 | Asani CHumba |
+| 35 | 110 | COSA303 |
+| 36 | 100 | Asani CHumba |
+| 37 | 100 | Cool Bridger |
 | 38 | 99 | Kellie Hall |
 | 39 | 96 | Cortaz Lawrie |
-| 40 | 86 | SPNLover24 |
-| 41 | 84 | Ciera Peace |
-| 42 | 81 | Robyn Caldwell |
-| 43 | 81 | Mafio SO |
-| 44 | 80 | Rachel Zimmerman |
+| 40 | 90 | 신재호 |
+| 41 | 86 | SPNLover24 |
+| 42 | 84 | Ciera Peace |
+| 43 | 81 | Robyn Caldwell |
+| 44 | 81 | Mafio SO |
 | 45 | 80 | Jazzy Dashpiece |
-| 46 | 80 | Char |
-| 47 | 80 | 신재호 |
+| 46 | 80 | Rachel Zimmerman |
+| 47 | 80 | Char |
 | 48 | 80 | Abraham Espaillat |
 | 49 | 80 | Felicia Williams |
 | 50 | 77 | Amber Wilson |
@@ -243,13 +243,13 @@
 | 235 | 5 | Temeshia Brooks Washington |
 | 236 | 5 | KeeKee Williams |
 | 237 | 5 | Lil T |
-| 238 | 5 | Stephanie Zuniga Tullock |
-| 239 | 5 | Vernon Hoyt |
-| 240 | 5 | DirtiestofMikes |
-| 241 | 5 | Kidgib5 |
-| 242 | 5 | Jennifer Moore |
-| 243 | 5 | Shawn Himes |
-| 244 | 5 | Tamika Fisher |
+| 238 | 5 | Vernon Hoyt |
+| 239 | 5 | DirtiestofMikes |
+| 240 | 5 | Kidgib5 |
+| 241 | 5 | Jennifer Moore |
+| 242 | 5 | Shawn Himes |
+| 243 | 5 | Tamika Fisher |
+| 244 | 5 | Stephanie Zuniga Tullock |
 
 ---
 *Standings created by tournaments datasource generation tool*
