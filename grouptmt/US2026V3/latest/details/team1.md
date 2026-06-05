@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:36:35 UTC
+# Standings for team1 as of 2026-06-05 17:37:14 UTC
 
 **Total Participants:** 339
 
@@ -27,13 +27,13 @@
 | 19 | 292 | Sarah Marie |
 | 20 | 280 | Bre Maugh |
 | 21 | 260 | Carolynne Walker-Bell |
-| 22 | 249 | Ashley MyBeauty Daniels |
-| 23 | 244 | Tammye Turner |
-| 24 | 241 | Ivana Schmidt |
-| 25 | 240 | IamJust Neyamijah Washington Sr. |
-| 26 | 239 | Kellie Hall |
-| 27 | 238 | Holly Jolly |
-| 28 | 238 | AF Cruz |
+| 22 | 258 | AF Cruz |
+| 23 | 249 | Ashley MyBeauty Daniels |
+| 24 | 244 | Tammye Turner |
+| 25 | 241 | Ivana Schmidt |
+| 26 | 240 | IamJust Neyamijah Washington Sr. |
+| 27 | 239 | Kellie Hall |
+| 28 | 238 | Holly Jolly |
 | 29 | 237 | Leebo Slice |
 | 30 | 234 | Pdubbl3 |
 | 31 | 228 | Cassidy Butler |
@@ -327,17 +327,17 @@
 | 319 | 6 | Jelyfish |
 | 320 | 6 | Jeffrey Barrows |
 | 321 | 6 | Allison Baxter |
-| 322 | 6 | Christopher Wallace |
-| 323 | 6 | Cece Fowler |
+| 322 | 6 | Cece Fowler |
+| 323 | 6 | Christopher Wallace |
 | 324 | 6 | Brittnay Wright |
 | 325 | 5 | Shawn Himes |
-| 326 | 5 | Stephanie Zuniga Tullock |
-| 327 | 5 | Temeshia Brooks Washington |
-| 328 | 5 | KeeKee Williams |
-| 329 | 5 | Derek Beverly |
-| 330 | 5 | Lil T |
-| 331 | 5 | DirtiestofMikes |
-| 332 | 5 | Zappy Clearfit |
+| 326 | 5 | Zappy Clearfit |
+| 327 | 5 | Stephanie Zuniga Tullock |
+| 328 | 5 | Temeshia Brooks Washington |
+| 329 | 5 | KeeKee Williams |
+| 330 | 5 | Derek Beverly |
+| 331 | 5 | Lil T |
+| 332 | 5 | DirtiestofMikes |
 | 333 | 5 | Kidgib5 |
 | 334 | 5 | Vernon Hoyt |
 | 335 | 5 | Jennifer Moore |
