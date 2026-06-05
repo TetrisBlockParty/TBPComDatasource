@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 12:35:13 UTC
+# Standings for team4 as of 2026-06-05 12:36:12 UTC
 
 **Total Participants:** 47
 
@@ -10,12 +10,12 @@
 | 2 | 480 | Carly Stempien |
 | 3 | 336 | Lynn Grimes |
 | 4 | 249 | Cinny |
-| 5 | 97 | Shayna Vaigneur-Hall |
+| 5 | 107 | Shayna Vaigneur-Hall |
 | 6 | 81 | Giggy Matchpiece |
 | 7 | 78 | Tawna Curry |
 | 8 | 77 | Ryan Paul Clark-Ramsey |
-| 9 | 51 | Real Talk Vibes |
-| 10 | 51 | Janae Harris |
+| 9 | 51 | Janae Harris |
+| 10 | 51 | Real Talk Vibes |
 | 11 | 50 | Keys Tome |
 | 12 | 38 | Jonathan Hewitt |
 | 13 | 38 | Charity Thomas |
@@ -24,25 +24,25 @@
 | 16 | 30 | Kim |
 | 17 | 28 | Melissa Schwager |
 | 18 | 26 | Dana Fontanez |
-| 19 | 25 | Маркус Вік |
-| 20 | 25 | Shiny Brick |
-| 21 | 22 | Saul Fajardo |
-| 22 | 21 | Keesha Muro |
-| 23 | 20 | smarty |
-| 24 | 18 | Blockcrusher |
-| 25 | 17 | Erica Pompey |
-| 26 | 16 | Iforget |
-| 27 | 15 | Perry Ransom |
-| 28 | 13 | Jasmine Marie |
+| 19 | 25 | Shiny Brick |
+| 20 | 25 | Маркус Вік |
+| 21 | 23 | Melissa Quinn |
+| 22 | 22 | Saul Fajardo |
+| 23 | 22 | smarty |
+| 24 | 21 | Keesha Muro |
+| 25 | 18 | Blockcrusher |
+| 26 | 17 | Erica Pompey |
+| 27 | 16 | Iforget |
+| 28 | 15 | Perry Ransom |
 | 29 | 13 | Cherry |
-| 30 | 13 | Nancy McCalla Abercrombie |
-| 31 | 10 | Jonelle Jacobs |
-| 32 | 10 | Hasty Dropzone |
-| 33 | 10 | Buchanon Bossingup Jadrienne |
-| 34 | 10 | Lateasha Wildman |
-| 35 | 10 | Magz |
-| 36 | 9 | Hotstuff |
-| 37 | 8 | Melissa Quinn |
+| 30 | 13 | Jasmine Marie |
+| 31 | 13 | Nancy McCalla Abercrombie |
+| 32 | 10 | Magz |
+| 33 | 10 | Jonelle Jacobs |
+| 34 | 10 | Hasty Dropzone |
+| 35 | 10 | Lateasha Wildman |
+| 36 | 10 | Buchanon Bossingup Jadrienne |
+| 37 | 9 | Hotstuff |
 | 38 | 7 | George Palacios |
 | 39 | 6 | Dizzy |
 | 40 | 6 | Zippy Snaplink |

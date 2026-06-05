@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 12:35:13 UTC
+# Standings for team2 as of 2026-06-05 12:36:12 UTC
 
 **Total Participants:** 46
 
@@ -20,34 +20,34 @@
 | 12 | 40 | LittleHippoEars |
 | 13 | 37 | Jumpy Dashpiece |
 | 14 | 33 | Tango Sierra |
-| 15 | 30 | Jason Cunningham |
-| 16 | 30 | Patti Ward |
+| 15 | 30 | Patti Ward |
+| 16 | 30 | Jason Cunningham |
 | 17 | 27 | Michael Carmichael |
-| 18 | 26 | Ariel Gundersen |
-| 19 | 26 | Rachel Huber |
+| 18 | 26 | Rachel Huber |
+| 19 | 26 | Ariel Gundersen |
 | 20 | 25 | April Addis |
 | 21 | 25 | Jgato |
-| 22 | 23 | IncrediDragon |
-| 23 | 23 | Damion Morrison |
+| 22 | 23 | Damion Morrison |
+| 23 | 23 | IncrediDragon |
 | 24 | 18 | Tracey Cox |
 | 25 | 18 | Sara BlueEyes |
 | 26 | 12 | Stacey Loretta Wallace |
 | 27 | 12 | Mary |
-| 28 | 11 | Lora Via |
-| 29 | 11 | Thy Bui |
-| 30 | 10 | Berta Hurley |
-| 31 | 10 | Joyce Galloway |
+| 28 | 11 | Thy Bui |
+| 29 | 11 | Lora Via |
+| 30 | 10 | Twisty Snapmatch |
+| 31 | 10 | Spicy Basepiece |
 | 32 | 10 | Bon Lynn |
-| 33 | 10 | Twisty Snapmatch |
-| 34 | 10 | Spicy Basepiece |
+| 33 | 10 | Joyce Galloway |
+| 34 | 10 | Berta Hurley |
 | 35 | 10 | Gill |
 | 36 | 9 | Darla Ragsdale |
 | 37 | 9 | Mama G |
 | 38 | 9 | Giggly Spinblock |
 | 39 | 7 | Cherica Taylor |
 | 40 | 7 | Peter Fogg |
-| 41 | 6 | fancypants |
-| 42 | 6 | Kelly Christine Trimmer |
+| 41 | 6 | Kelly Christine Trimmer |
+| 42 | 6 | fancypants |
 | 43 | 5 | Devon |
 | 44 | 5 | Allison Peterson |
 | 45 | 5 | Princess Cucumber |
