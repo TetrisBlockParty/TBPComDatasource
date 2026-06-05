@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 13:42:13 UTC
+# Standings for team2 as of 2026-06-05 13:42:34 UTC
 
 **Total Participants:** 111
 
@@ -18,9 +18,9 @@
 | 10 | 437 | Amy Gale |
 | 11 | 199 | Stella |
 | 12 | 158 | Amy Nicole McCanne |
-| 13 | 83 | Ashley Voelz |
-| 14 | 80 | Chipper Stackbuilder |
-| 15 | 78 | Nathan Walker |
+| 13 | 88 | Nathan Walker |
+| 14 | 83 | Ashley Voelz |
+| 15 | 80 | Chipper Stackbuilder |
 | 16 | 75 | Angeleye A James |
 | 17 | 73 | LittleHippoEars |
 | 18 | 72 | Jamie Fenyus |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:42:13 UTC
+# Standings for team1 as of 2026-06-05 13:42:34 UTC
 
 **Total Participants:** 124
 
@@ -70,26 +70,26 @@
 | 62 | 25 | Hasty Pivoty |
 | 63 | 25 | Tyrone Porter |
 | 64 | 23 | Poppy Twister |
-| 65 | 22 | Tanisha Taylor |
-| 66 | 21 | Melvin Simpson |
-| 67 | 21 | Brave Balanceblock |
-| 68 | 20 | Trina Greenwood |
-| 69 | 20 | Tony P Burke |
-| 70 | 20 | Kimmie Gargano |
-| 71 | 20 | Chevalier Burley |
-| 72 | 20 | Jai |
-| 73 | 19 | Shanjerrica Taylor Rosell |
-| 74 | 19 | Saucy Tile |
-| 75 | 19 | Brenda Malachi-butler |
+| 65 | 22 | Flashy Slam |
+| 66 | 22 | Tanisha Taylor |
+| 67 | 21 | Melvin Simpson |
+| 68 | 21 | Brave Balanceblock |
+| 69 | 20 | Kimmie Gargano |
+| 70 | 20 | Chevalier Burley |
+| 71 | 20 | Jai |
+| 72 | 20 | Trina Greenwood |
+| 73 | 20 | Tony P Burke |
+| 74 | 19 | Jenni |
+| 75 | 19 | Shanjerrica Taylor Rosell |
 | 76 | 19 | Amanda Woodruff |
-| 77 | 19 | Jenni |
-| 78 | 18 | Tyree Tman Shinette |
-| 79 | 18 | Sunny Clicky |
-| 80 | 18 | AleahKCH |
-| 81 | 17 | Kimberly Red |
-| 82 | 17 | Rikki Moran |
-| 83 | 16 | Boldy Pivoty |
-| 84 | 16 | Flashy Slam |
+| 77 | 19 | Brenda Malachi-butler |
+| 78 | 19 | Saucy Tile |
+| 79 | 18 | Tyree Tman Shinette |
+| 80 | 18 | Sunny Clicky |
+| 81 | 18 | AleahKCH |
+| 82 | 17 | Kimberly Red |
+| 83 | 17 | Rikki Moran |
+| 84 | 16 | Boldy Pivoty |
 | 85 | 16 | Sylvia Offically A Mcgowan |
 | 86 | 16 | MsBobby Patrick |
 | 87 | 15 | Jess |
