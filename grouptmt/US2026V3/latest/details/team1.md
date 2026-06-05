@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 23:50:15 UTC
+# Standings for team1 as of 2026-06-05 23:50:37 UTC
 
 **Total Participants:** 605
 
@@ -123,36 +123,36 @@
 | 115 | 86 | Zachary Colegrove |
 | 116 | 84 | Franklin Sotelo |
 | 117 | 84 | Ciera Peace |
-| 118 | 82 | Poppy Buildout |
-| 119 | 81 | Mafio SO |
-| 120 | 81 | Sarah Steckbauer |
-| 121 | 80 | Jamie Willis |
-| 122 | 80 | LAhoneybun82 |
+| 118 | 83 | Kimberly Hernandez |
+| 119 | 82 | Poppy Buildout |
+| 120 | 81 | Mafio SO |
+| 121 | 81 | Sarah Steckbauer |
+| 122 | 80 | Jamie Willis |
 | 123 | 80 | Chevalier Burley |
-| 124 | 80 | Charles Johnson |
-| 125 | 80 | Carolyn Smith |
+| 124 | 80 | LAhoneybun82 |
+| 125 | 80 | Charles Johnson |
 | 126 | 80 | Nobles Brandon |
 | 127 | 80 | Felicia Williams |
-| 128 | 80 | Jazzy Dashpiece |
-| 129 | 79 | Shanell Thomas |
-| 130 | 77 | Yashica Smith |
-| 131 | 77 | Shontanese Adams |
-| 132 | 76 | Giggly Shatterline |
-| 133 | 76 | Mic Balew |
-| 134 | 76 | Kimberly Hernandez |
+| 128 | 80 | Carolyn Smith |
+| 129 | 80 | Jazzy Dashpiece |
+| 130 | 79 | Shanell Thomas |
+| 131 | 77 | Yashica Smith |
+| 132 | 77 | Shontanese Adams |
+| 133 | 76 | Giggly Shatterline |
+| 134 | 76 | Mic Balew |
 | 135 | 75 | Brave Clearbuilder |
 | 136 | 75 | Sanjuro |
 | 137 | 75 | Dizzy Dashy |
 | 138 | 74 | Tonya McElroy |
 | 139 | 74 | ♈️ Ariesbaby |
-| 140 | 72 | Melissa D. M. Hornsby |
-| 141 | 71 | Erin Sabol |
-| 142 | 71 | MamaBear |
-| 143 | 70 | Latore Maxie |
-| 144 | 70 | $hort Dog |
-| 145 | 69 | Jayjay Rich |
-| 146 | 67 | The DUBZ |
-| 147 | 67 | Joana Thompson |
+| 140 | 73 | Joana Thompson |
+| 141 | 72 | Melissa D. M. Hornsby |
+| 142 | 71 | Erin Sabol |
+| 143 | 71 | MamaBear |
+| 144 | 70 | Latore Maxie |
+| 145 | 70 | $hort Dog |
+| 146 | 69 | Jayjay Rich |
+| 147 | 67 | The DUBZ |
 | 148 | 67 | Michele Elizabeth McKay-Johnson |
 | 149 | 65 | Jazzy Bridger |
 | 150 | 64 | Tosha Michelle |
@@ -590,27 +590,27 @@
 | 582 | 5 | Rieshelda Marie White |
 | 583 | 5 | Temeshia Brooks Washington |
 | 584 | 5 | KeeKee Williams |
-| 585 | 5 | Jennifer Moore |
-| 586 | 5 | pooh |
-| 587 | 5 | Jasmine Hariston-Estis |
-| 588 | 5 | Derek Beverly |
-| 589 | 5 | Lil T |
-| 590 | 5 | Hasty Brickzone |
-| 591 | 5 | Sara |
-| 592 | 5 | DirtiestofMikes |
-| 593 | 5 | Chill Linkroll |
-| 594 | 5 | Kidgib5 |
+| 585 | 5 | Andre Sanon |
+| 586 | 5 | Jasmine Hariston-Estis |
+| 587 | 5 | Derek Beverly |
+| 588 | 5 | Lil T |
+| 589 | 5 | Hasty Brickzone |
+| 590 | 5 | Sara |
+| 591 | 5 | DirtiestofMikes |
+| 592 | 5 | Chill Linkroll |
+| 593 | 5 | Kidgib5 |
+| 594 | 5 | Jennifer Moore |
 | 595 | 5 | the guy |
-| 596 | 5 | Shakuria Cortia Burney |
-| 597 | 5 | Mommy Frank |
-| 598 | 5 | Tito Divyn |
-| 599 | 5 | Shawn Himes |
-| 600 | 5 | Tamika Fisher |
-| 601 | 5 | Zappy Clearfit |
-| 602 | 5 | Duckey |
-| 603 | 5 | Sheila Burnham |
-| 604 | 5 | Logan Frost |
-| 605 | 5 | Andre Sanon |
+| 596 | 5 | Mommy Frank |
+| 597 | 5 | Shakuria Cortia Burney |
+| 598 | 5 | pooh |
+| 599 | 5 | Logan Frost |
+| 600 | 5 | Sheila Burnham |
+| 601 | 5 | Duckey |
+| 602 | 5 | Zappy Clearfit |
+| 603 | 5 | Tamika Fisher |
+| 604 | 5 | Shawn Himes |
+| 605 | 5 | Tito Divyn |
 
 ---
 *Standings created by tournaments datasource generation tool*
