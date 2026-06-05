@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 16:12:14 UTC
+# Standings for team1 as of 2026-06-05 16:12:35 UTC
 
 **Total Participants:** 282
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 9500 | Ariel |
+| 1 | 10500 | Ariel |
 | 2 | 1805 | Timothy Robert |
 | 3 | 1334 | Tracy Cohen |
 | 4 | 1050 | jaimie |
@@ -38,11 +38,11 @@
 | 30 | 177 | Chris Sladoje |
 | 31 | 175 | COSA303 |
 | 32 | 173 | Spicy Balancer |
-| 33 | 165 | Davionte DaeDae Hopson-Rodriguez |
-| 34 | 162 | Markeeta Lipscomb |
-| 35 | 151 | Dacia Hicks |
-| 36 | 141 | Debbie Carswell |
-| 37 | 140 | Abraham Espaillat |
+| 33 | 169 | Abraham Espaillat |
+| 34 | 165 | Davionte DaeDae Hopson-Rodriguez |
+| 35 | 162 | Markeeta Lipscomb |
+| 36 | 151 | Dacia Hicks |
+| 37 | 141 | Debbie Carswell |
 | 38 | 140 | JoJo |
 | 39 | 135 | Jawaun Daniels |
 | 40 | 126 | Cee Emm |
@@ -120,7 +120,7 @@
 | 112 | 35 | Yashica Smith |
 | 113 | 35 | KoolKimJay |
 | 114 | 35 | Wacky Stackbuilder |
-| 115 | 34 | Hasty Pivoty |
+| 115 | 35 | Hasty Pivoty |
 | 116 | 33 | Krose Byers |
 | 117 | 33 | Sashaleo |
 | 118 | 33 | Block King |
