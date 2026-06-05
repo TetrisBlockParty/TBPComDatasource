@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 18:34:14 UTC
+# Standings for team1 as of 2026-06-05 18:34:36 UTC
 
 **Total Participants:** 390
 
@@ -63,8 +63,8 @@
 | 55 | 108 | Hasty Pivoty |
 | 56 | 103 | KenpachisGirl |
 | 57 | 100 | She Higgy |
-| 58 | 100 | Cool Bridger |
-| 59 | 100 | Asani CHumba |
+| 58 | 100 | Asani CHumba |
+| 59 | 100 | Cool Bridger |
 | 60 | 96 | Cortaz Lawrie |
 | 61 | 95 | Nate Myers |
 | 62 | 94 | W.A. Simpson |
@@ -75,116 +75,116 @@
 | 67 | 81 | Mafio SO |
 | 68 | 80 | Char |
 | 69 | 80 | Carolyn Smith |
-| 70 | 80 | Jazzy Dashpiece |
+| 70 | 80 | Rachel Zimmerman |
 | 71 | 80 | Charles Johnson |
-| 72 | 80 | Rachel Zimmerman |
+| 72 | 80 | Jazzy Dashpiece |
 | 73 | 80 | Felicia Williams |
 | 74 | 79 | Mimi 1.0 |
 | 75 | 77 | Amber Wilson |
 | 76 | 76 | Giggly Shatterline |
-| 77 | 75 | Dizzy Dashy |
-| 78 | 75 | Katrina Ramey |
+| 77 | 75 | Katrina Ramey |
+| 78 | 75 | Dizzy Dashy |
 | 79 | 74 | ♈️ Ariesbaby |
 | 80 | 74 | Tonya McElroy |
 | 81 | 73 | Eric Mcgaughy |
-| 82 | 72 | Mic Balew |
-| 83 | 72 | David Fuentes |
-| 84 | 70 | $hort Dog |
-| 85 | 67 | Michele Elizabeth McKay-Johnson |
-| 86 | 66 | Shontanese Adams |
-| 87 | 65 | Frisky Fall |
+| 82 | 72 | David Fuentes |
+| 83 | 72 | Simone Bailey |
+| 84 | 72 | Mic Balew |
+| 85 | 70 | $hort Dog |
+| 86 | 67 | Michele Elizabeth McKay-Johnson |
+| 87 | 66 | Shontanese Adams |
 | 88 | 65 | Latore Maxie |
-| 89 | 65 | Shanell Thomas |
-| 90 | 62 | Sanjuro |
+| 89 | 65 | Frisky Fall |
+| 90 | 65 | Shanell Thomas |
 | 91 | 62 | Cheeky Pop |
-| 92 | 61 | Angela R Wilson |
-| 93 | 61 | Anthony Washington |
-| 94 | 60 | Marcheta Cervantez |
-| 95 | 60 | Valerie Alexander |
-| 96 | 60 | CJ Robinson |
-| 97 | 60 | Queenie Perry |
+| 92 | 62 | Sanjuro |
+| 93 | 61 | Angela R Wilson |
+| 94 | 61 | Anthony Washington |
+| 95 | 60 | Marcheta Cervantez |
+| 96 | 60 | Valerie Alexander |
+| 97 | 60 | CJ Robinson |
 | 98 | 60 | Boldy Liner |
-| 99 | 60 | Christian Pham |
-| 100 | 60 | Lilly Brown |
-| 101 | 59 | Lauraly |
-| 102 | 57 | Tosha Michelle |
+| 99 | 60 | Queenie Perry |
+| 100 | 60 | Christian Pham |
+| 101 | 60 | Lilly Brown |
+| 102 | 59 | Lauraly |
 | 103 | 57 | Erin Sabol |
-| 104 | 56 | Dena Marie Lee |
-| 105 | 55 | Kyle Franklin |
-| 106 | 54 | Kristie |
-| 107 | 53 | MamaBear |
-| 108 | 52 | Loopy Risepiece |
-| 109 | 52 | Keke Ferguson |
-| 110 | 51 | Comedian Gdane |
-| 111 | 50 | Yazz |
+| 104 | 57 | Tosha Michelle |
+| 105 | 56 | Dena Marie Lee |
+| 106 | 55 | Kyle Franklin |
+| 107 | 54 | Kristie |
+| 108 | 53 | MamaBear |
+| 109 | 52 | Loopy Risepiece |
+| 110 | 52 | Keke Ferguson |
+| 111 | 51 | Comedian Gdane |
 | 112 | 50 | Slinky Party |
-| 113 | 50 | Dai Bo |
-| 114 | 50 | Antoinette Jones |
-| 115 | 50 | Teresa Yanira Cepeda |
-| 116 | 50 | Donna Payne |
-| 117 | 50 | Simone Bailey |
+| 113 | 50 | Donna Payne |
+| 114 | 50 | Yazz |
+| 115 | 50 | Dai Bo |
+| 116 | 50 | Antoinette Jones |
+| 117 | 50 | Teresa Yanira Cepeda |
 | 118 | 49 | LexiiSamayaa |
 | 119 | 49 | GrkGdess |
-| 120 | 47 | Derrius SeriousLee Burks |
-| 121 | 47 | Christopher Dreamsareality McEachin |
+| 120 | 47 | Christopher Dreamsareality McEachin |
+| 121 | 47 | Derrius SeriousLee Burks |
 | 122 | 45 | Jayjay Rich |
 | 123 | 45 | Renee J. Thomas |
-| 124 | 45 | Skippy |
-| 125 | 45 | Guy Incognito |
+| 124 | 45 | Guy Incognito |
+| 125 | 45 | Skippy |
 | 126 | 44 | Andi McGreevy |
-| 127 | 43 | Brenda Malachi-butler |
-| 128 | 43 | IThinkNot |
+| 127 | 43 | IThinkNot |
+| 128 | 43 | Brenda Malachi-butler |
 | 129 | 43 | Block |
-| 130 | 42 | sasha |
-| 131 | 42 | Songne Arif |
+| 130 | 42 | Songne Arif |
+| 131 | 42 | sasha |
 | 132 | 41 | Lively Riserpiece |
-| 133 | 40 | Nutty Spinblock |
-| 134 | 40 | Heather Aurelia |
-| 135 | 40 | Byron Mario Cawthon |
-| 136 | 40 | Rackemwillie34 |
-| 137 | 40 | Leavon Smith |
-| 138 | 40 | Jean Regis |
-| 139 | 40 | Nisha Sunshine Jenkins |
-| 140 | 40 | Flashy Slam |
+| 133 | 40 | Byron Mario Cawthon |
+| 134 | 40 | Jean Regis |
+| 135 | 40 | Nutty Spinblock |
+| 136 | 40 | Nisha Sunshine Jenkins |
+| 137 | 40 | Flashy Slam |
+| 138 | 40 | Heather Aurelia |
+| 139 | 40 | Rackemwillie34 |
+| 140 | 40 | Leavon Smith |
 | 141 | 39 | Jae Thompson-Tyus |
 | 142 | 39 | Sabrina Wilkerson |
 | 143 | 39 | JesusSaves 😇 |
-| 144 | 38 | Kahliah Baker |
+| 144 | 38 | Steve Reno |
 | 145 | 38 | hope |
 | 146 | 38 | rls |
-| 147 | 38 | Dandy Brickfit |
-| 148 | 38 | Steve Reno |
+| 147 | 38 | Kahliah Baker |
+| 148 | 38 | Dandy Brickfit |
 | 149 | 37 | Jojo M |
-| 150 | 37 | Calvin Green |
+| 150 | 37 | Cranky Fall |
 | 151 | 37 | Lootch |
-| 152 | 37 | Cranky Fall |
+| 152 | 37 | Calvin Green |
 | 153 | 36 | Sunny Riserbuilder |
-| 154 | 35 | Kimberly Red |
-| 155 | 35 | Jolly Tilefall |
-| 156 | 35 | Wacky Stackbuilder |
-| 157 | 35 | Yashica Smith |
-| 158 | 35 | Saucy Crusher |
+| 154 | 35 | Saucy Crusher |
+| 155 | 35 | Wacky Stackbuilder |
+| 156 | 35 | Yashica Smith |
+| 157 | 35 | Kimberly Red |
+| 158 | 35 | HBTone |
 | 159 | 35 | Sashaleo |
-| 160 | 35 | KoolKimJay |
-| 161 | 35 | HBTone |
+| 160 | 35 | Jolly Tilefall |
+| 161 | 35 | KoolKimJay |
 | 162 | 34 | David A Alvino |
 | 163 | 33 | Chris Nelson |
-| 164 | 33 | Block King |
-| 165 | 33 | Rene Hicks |
-| 166 | 33 | Richard Flex |
-| 167 | 33 | Krose Byers |
-| 168 | 33 | Mom3granny2 |
-| 169 | 32 | Christi Walker Patton |
-| 170 | 32 | Jack Mehof |
-| 171 | 32 | Tyrone Porter |
+| 164 | 33 | Krose Byers |
+| 165 | 33 | Richard Flex |
+| 166 | 33 | Block King |
+| 167 | 33 | Mom3granny2 |
+| 168 | 33 | Rene Hicks |
+| 169 | 32 | Jack Mehof |
+| 170 | 32 | Tobey Marberry |
+| 171 | 32 | Christi Walker Patton |
 | 172 | 32 | Melvin Simpson |
-| 173 | 32 | Tobey Marberry |
+| 173 | 32 | Tyrone Porter |
 | 174 | 31 | Boldy Pivoty |
-| 175 | 31 | Anthony |
-| 176 | 31 | Miera Nicole |
-| 177 | 31 | Daris Swearington |
-| 178 | 30 | Kp |
-| 179 | 30 | Jack Vlasak |
+| 175 | 31 | Miera Nicole |
+| 176 | 31 | Daris Swearington |
+| 177 | 31 | Anthony |
+| 178 | 30 | Jack Vlasak |
+| 179 | 30 | Kp |
 | 180 | 30 | Amy Villalpando |
 | 181 | 30 | Breezy Catcher |
 | 182 | 30 | Bouncy Glide |
