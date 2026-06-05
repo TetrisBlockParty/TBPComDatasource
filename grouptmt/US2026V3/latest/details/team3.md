@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-05 12:16:35 UTC
+# Standings for team3 as of 2026-06-05 12:17:12 UTC
 
 **Total Participants:** 31
 
@@ -6,11 +6,11 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 497 | Alan George LaRage |
+| 1 | 516 | Alan George LaRage |
 | 2 | 140 | Woodrow Weatherford |
 | 3 | 104 | Perach Alima Shoa |
-| 4 | 92 | Tom Borja |
-| 5 | 90 | Bee |
+| 4 | 100 | Bee |
+| 5 | 92 | Tom Borja |
 | 6 | 60 | AL Ferrari |
 | 7 | 58 | Alex Celio |
 | 8 | 30 | Jerome Carlile |
@@ -27,16 +27,16 @@
 | 19 | 11 | Carrie Ness |
 | 20 | 9 | Angie Rodriguez |
 | 21 | 9 | Raven Rogue |
-| 22 | 9 | Jess Jess |
+| 22 | 9 | Lisa Stone |
 | 23 | 9 | Tnaughty |
-| 24 | 8 | Sarah Jane |
-| 25 | 8 | Jonathan Russell |
-| 26 | 7 | David Glisson |
-| 27 | 6 | Happy Balancer |
-| 28 | 6 | kendra |
-| 29 | 6 | Crystal Carlson |
-| 30 | 6 | Denice Myers |
-| 31 | 5 | Lisa Stone |
+| 24 | 9 | Jess Jess |
+| 25 | 8 | Sarah Jane |
+| 26 | 8 | Jonathan Russell |
+| 27 | 7 | David Glisson |
+| 28 | 6 | Crystal Carlson |
+| 29 | 6 | kendra |
+| 30 | 6 | Happy Balancer |
+| 31 | 6 | Denice Myers |
 
 ---
 *Standings created by tournaments datasource generation tool*

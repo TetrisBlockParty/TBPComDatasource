@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 12:16:35 UTC
+# Standings for team1 as of 2026-06-05 12:17:12 UTC
 
-**Total Participants:** 16
+**Total Participants:** 17
 
 ## Participant Scores
 
@@ -12,16 +12,17 @@
 | 4 | 125 | Gotcha |
 | 5 | 83 | Debbie Carswell |
 | 6 | 60 | Rachel Zimmerman |
-| 7 | 48 | Amber Wilson |
-| 8 | 40 | Leavon Smith |
-| 9 | 30 | Lester Malone |
-| 10 | 18 | Tanisha Taylor |
-| 11 | 17 | Jai |
+| 7 | 60 | Asani CHumba |
+| 8 | 48 | Amber Wilson |
+| 9 | 40 | Leavon Smith |
+| 10 | 30 | Lester Malone |
+| 11 | 18 | Tanisha Taylor |
 | 12 | 17 | Chris Russell |
-| 13 | 16 | Mafio SO |
-| 14 | 15 | Tami Spence |
-| 15 | 10 | Sarah Marie |
-| 16 | 9 | Saucy Crusher |
+| 13 | 17 | Jai |
+| 14 | 16 | Mafio SO |
+| 15 | 15 | Tami Spence |
+| 16 | 10 | Sarah Marie |
+| 17 | 9 | Saucy Crusher |
 
 ---
 *Standings created by tournaments datasource generation tool*

@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-05 12:16:35 UTC
+# Standings for team2 as of 2026-06-05 12:17:12 UTC
 
-**Total Participants:** 17
+**Total Participants:** 18
 
 ## Participant Scores
 
@@ -21,8 +21,9 @@
 | 13 | 8 | Damion Morrison |
 | 14 | 7 | Peter Fogg |
 | 15 | 6 | fancypants |
-| 16 | 5 | Tashamonique Puckey |
-| 17 | 5 | Devon |
+| 16 | 5 | Devon |
+| 17 | 5 | Thy Bui |
+| 18 | 5 | Tashamonique Puckey |
 
 ---
 *Standings created by tournaments datasource generation tool*
