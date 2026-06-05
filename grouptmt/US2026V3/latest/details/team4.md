@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 13:06:34 UTC
+# Standings for team4 as of 2026-06-05 13:07:12 UTC
 
 **Total Participants:** 78
 
@@ -23,13 +23,13 @@
 | 15 | 75 | June Hoffman |
 | 16 | 71 | Chris Covington |
 | 17 | 70 | Janae Harris |
-| 18 | 56 | Henry Lanier |
-| 19 | 54 | Blockcrusher |
-| 20 | 51 | Real Talk Vibes |
-| 21 | 50 | Jesse Olive |
-| 22 | 50 | Keys Tome |
-| 23 | 49 | Snippy Grid |
-| 24 | 45 | Justin Michael |
+| 18 | 60 | Justin Michael |
+| 19 | 56 | Henry Lanier |
+| 20 | 54 | Blockcrusher |
+| 21 | 51 | Real Talk Vibes |
+| 22 | 50 | Jesse Olive |
+| 23 | 50 | Keys Tome |
+| 24 | 49 | Snippy Grid |
 | 25 | 40 | Tyra Brooke Everman Forest |
 | 26 | 38 | Charity Thomas |
 | 27 | 38 | Jonathan Hewitt |

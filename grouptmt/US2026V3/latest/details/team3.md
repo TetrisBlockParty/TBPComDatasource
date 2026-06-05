@@ -1,6 +1,6 @@
-# Standings for team3 as of 2026-06-05 13:06:34 UTC
+# Standings for team3 as of 2026-06-05 13:07:12 UTC
 
-**Total Participants:** 165
+**Total Participants:** 166
 
 ## Participant Scores
 
@@ -24,23 +24,23 @@
 | 16 | 101 | batsy |
 | 17 | 100 | Dapper Patternline |
 | 18 | 95 | THEMAN |
-| 19 | 90 | Jerome Carlile |
-| 20 | 85 | Paul Hudak |
-| 21 | 81 | Denice Myers |
-| 22 | 80 | Angel Hopkins |
-| 23 | 80 | Dee Perry |
-| 24 | 79 | Kimberlee Pence |
-| 25 | 78 | Jessica Biggs |
-| 26 | 71 | Alex Celio |
-| 27 | 70 | Lively Matchpiece |
-| 28 | 69 | SteffXx |
-| 29 | 68 | Doc |
-| 30 | 66 | Loony Strikesnap |
-| 31 | 60 | Mammy_hammy |
-| 32 | 57 | skunkybudz |
+| 19 | 94 | skunkybudz |
+| 20 | 90 | Jerome Carlile |
+| 21 | 85 | Paul Hudak |
+| 22 | 81 | Denice Myers |
+| 23 | 80 | Angel Hopkins |
+| 24 | 80 | Dee Perry |
+| 25 | 79 | Kimberlee Pence |
+| 26 | 78 | Jessica Biggs |
+| 27 | 71 | Alex Celio |
+| 28 | 70 | Lively Matchpiece |
+| 29 | 69 | SteffXx |
+| 30 | 68 | Doc |
+| 31 | 66 | Loony Strikesnap |
+| 32 | 60 | Mammy_hammy |
 | 33 | 52 | kendra |
-| 34 | 50 | Gypsy Woodall |
-| 35 | 50 | Barb Hicks |
+| 34 | 50 | Barb Hicks |
+| 35 | 50 | Gypsy Woodall |
 | 36 | 50 | Adam Bronk |
 | 37 | 49 | creepy paper |
 | 38 | 48 | Christina M Arroyo |
@@ -77,100 +77,101 @@
 | 69 | 28 | Daran Miranda |
 | 70 | 28 | Kristina Courtney |
 | 71 | 27 | Fran Kutz |
-| 72 | 26 | Johnny Hewitt |
-| 73 | 26 | Kevin C. Moe |
-| 74 | 26 | David Gross |
+| 72 | 26 | David Gross |
+| 73 | 26 | Johnny Hewitt |
+| 74 | 26 | Kevin C. Moe |
 | 75 | 25 | Garrett Hofmann |
 | 76 | 25 | chey |
 | 77 | 25 | Kite Kelly |
 | 78 | 24 | Bren Stahl |
-| 79 | 24 | Megan Jones |
-| 80 | 24 | Tiesha Janay |
+| 79 | 24 | Tiesha Janay |
+| 80 | 24 | Megan Jones |
 | 81 | 23 | Charles Love |
 | 82 | 22 | Avias |
-| 83 | 21 | G |
-| 84 | 21 | skyguy26 |
-| 85 | 20 | Teresa Jensen |
-| 86 | 20 | Lisa Stone |
-| 87 | 20 | Kimm Fulmer |
-| 88 | 20 | Teresa Jackson |
+| 83 | 21 | skyguy26 |
+| 84 | 21 | Flashy Cluster |
+| 85 | 21 | G |
+| 86 | 20 | Adam Kerley |
+| 87 | 20 | Teresa Jackson |
+| 88 | 20 | Teresa Jensen |
 | 89 | 20 | Poppy Clearer |
 | 90 | 20 | Steven |
-| 91 | 20 | Icekube83 |
-| 92 | 20 | Adam Kerley |
-| 93 | 20 | Matt Cox |
-| 94 | 20 | Thearen |
-| 95 | 20 | Cheery Wipepiece |
-| 96 | 19 | Ashley Dilsaver |
-| 97 | 19 | Sabrina34 |
-| 98 | 19 | Unicorn0723 |
-| 99 | 18 | Alison Gomes |
-| 100 | 18 | Kyle Thompson |
-| 101 | 18 | Flashy Cluster |
+| 91 | 20 | Lisa Stone |
+| 92 | 20 | Icekube83 |
+| 93 | 20 | Kimm Fulmer |
+| 94 | 20 | Matt Cox |
+| 95 | 20 | Thearen |
+| 96 | 20 | Cheery Wipepiece |
+| 97 | 19 | Ashley Dilsaver |
+| 98 | 19 | Sabrina34 |
+| 99 | 19 | Unicorn0723 |
+| 100 | 18 | Alison Gomes |
+| 101 | 18 | Kyle Thompson |
 | 102 | 18 | ToxicTrinity |
 | 103 | 17 | Manda Mumea |
 | 104 | 17 | Patricia Kelley |
-| 105 | 16 | Dizzy Staggerpiece |
-| 106 | 16 | PopcornersRLife |
+| 105 | 16 | PopcornersRLife |
+| 106 | 16 | Dizzy Staggerpiece |
 | 107 | 16 | Karina Cortes |
 | 108 | 15 | Quirky Curve |
 | 109 | 15 | Melinda Flugga |
 | 110 | 15 | kittensden |
-| 111 | 15 | Zippy Rollblock |
-| 112 | 14 | Tytin |
-| 113 | 14 | Colt Wilson |
-| 114 | 14 | Sara Pederson |
-| 115 | 13 | Raven Rogue |
-| 116 | 13 | DShark72 |
-| 117 | 12 | Jonathan Russell |
-| 118 | 12 | Robby Beltran |
-| 119 | 12 | Nonni |
-| 120 | 12 | Ron Knecht |
-| 121 | 12 | blockbusterr |
-| 122 | 12 | Wacky Catcher |
+| 111 | 15 | Terry Corby |
+| 112 | 15 | Zippy Rollblock |
+| 113 | 14 | Tytin |
+| 114 | 14 | Colt Wilson |
+| 115 | 14 | Sara Pederson |
+| 116 | 13 | Raven Rogue |
+| 117 | 13 | DShark72 |
+| 118 | 12 | Jonathan Russell |
+| 119 | 12 | Robby Beltran |
+| 120 | 12 | Nonni |
+| 121 | 12 | Ron Knecht |
+| 122 | 12 | blockbusterr |
 | 123 | 12 | Nette Babi |
-| 124 | 12 | Violet |
-| 125 | 11 | Carrie Ness |
-| 126 | 11 | David Glisson |
-| 127 | 11 | Happy Balancer |
-| 128 | 10 | Jolly Twister |
-| 129 | 10 | Jenni Torres |
-| 130 | 10 | Casey Kincheloe |
-| 131 | 10 | Giddy Shift |
-| 132 | 10 | Jacqueline Muellerleile |
-| 133 | 10 | Sheri Read |
-| 134 | 10 | Stacy Manchester |
-| 135 | 10 | Shabae |
-| 136 | 10 | Kandy McDaniel |
-| 137 | 10 | Alyssa Sauceda |
-| 138 | 9 | Groovy Linkroll |
-| 139 | 9 | Angie Rodriguez |
+| 124 | 12 | Wacky Catcher |
+| 125 | 12 | Violet |
+| 126 | 11 | Carrie Ness |
+| 127 | 11 | David Glisson |
+| 128 | 11 | Happy Balancer |
+| 129 | 10 | Jolly Twister |
+| 130 | 10 | Jenni Torres |
+| 131 | 10 | Casey Kincheloe |
+| 132 | 10 | Giddy Shift |
+| 133 | 10 | Jacqueline Muellerleile |
+| 134 | 10 | Sheri Read |
+| 135 | 10 | Stacy Manchester |
+| 136 | 10 | Shabae |
+| 137 | 10 | Kandy McDaniel |
+| 138 | 10 | Alyssa Sauceda |
+| 139 | 9 | Groovy Linkroll |
 | 140 | 9 | ciscokid81 |
-| 141 | 9 | Sarah Cruthirds |
-| 142 | 9 | Jess Jess |
-| 143 | 9 | Tnaughty |
-| 144 | 9 | Zappy Twister |
-| 145 | 9 | Daniel Stolt |
-| 146 | 9 | Blendon Silva |
-| 147 | 9 | Salky |
-| 148 | 9 | Natasha Silva |
-| 149 | 9 | Tracy Fuller |
-| 150 | 8 | Funky Pivoty |
-| 151 | 8 | Fam |
-| 152 | 7 | Loony Rollfit |
-| 153 | 7 | Lilcash1500 |
-| 154 | 6 | Landon Holman |
-| 155 | 6 | Kathy Siano |
-| 156 | 6 | bt |
-| 157 | 6 | Brenda Pyne |
-| 158 | 5 | Victoria Lofquist |
-| 159 | 5 | Snippy Cornerfall |
-| 160 | 5 | Da'Shamika |
-| 161 | 5 | KAR |
-| 162 | 5 | James Larrison |
-| 163 | 5 | Tori Morgan |
-| 164 | 5 | Kd90 |
-| 165 | 5 | Giggly Breaker |
+| 141 | 9 | Angie Rodriguez |
+| 142 | 9 | Sarah Cruthirds |
+| 143 | 9 | Jess Jess |
+| 144 | 9 | Tnaughty |
+| 145 | 9 | Zappy Twister |
+| 146 | 9 | Daniel Stolt |
+| 147 | 9 | Blendon Silva |
+| 148 | 9 | Salky |
+| 149 | 9 | Natasha Silva |
+| 150 | 9 | Tracy Fuller |
+| 151 | 8 | Funky Pivoty |
+| 152 | 8 | Fam |
+| 153 | 7 | Loony Rollfit |
+| 154 | 7 | Lilcash1500 |
+| 155 | 6 | Landon Holman |
+| 156 | 6 | Kathy Siano |
+| 157 | 6 | bt |
+| 158 | 6 | Brenda Pyne |
+| 159 | 5 | Victoria Lofquist |
+| 160 | 5 | Snippy Cornerfall |
+| 161 | 5 | Da'Shamika |
+| 162 | 5 | KAR |
+| 163 | 5 | James Larrison |
+| 164 | 5 | Tori Morgan |
+| 165 | 5 | Kd90 |
+| 166 | 5 | Giggly Breaker |
 
 ---
 *Standings created by tournaments datasource generation tool*
