@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 23:52:37 UTC
+# Standings for team4 as of 2026-06-05 23:53:15 UTC
 
 **Total Participants:** 574
 
@@ -31,8 +31,8 @@
 | 23 | 600 | Caitlin Johnson |
 | 24 | 559 | Lynn Grimes |
 | 25 | 477 | Malik Thompson |
-| 26 | 474 | Heather Preston |
-| 27 | 474 | Jeremy Lopez |
+| 26 | 474 | Jeremy Lopez |
+| 27 | 474 | Heather Preston |
 | 28 | 466 | Krysten Danielle Richard |
 | 29 | 465 | Fancy Crasher |
 | 30 | 460 | Chaz Duncan |
@@ -56,11 +56,11 @@
 | 48 | 273 | Jesse Olive |
 | 49 | 259 | Jessica Peyton |
 | 50 | 241 | Giggy Matchpiece |
-| 51 | 240 | Jojo Ann |
-| 52 | 240 | Michele Walker |
+| 51 | 240 | Michele Walker |
+| 52 | 240 | Jojo Ann |
 | 53 | 224 | Sisi RedVelvet Reneè |
-| 54 | 203 | Andrew Dang |
-| 55 | 203 | Patrick Alley |
+| 54 | 203 | Patrick Alley |
+| 55 | 203 | Andrew Dang |
 | 56 | 200 | Leah Gorsuch |
 | 57 | 192 | Renee Sapp |
 | 58 | 184 | Giggly Tilt |
@@ -87,16 +87,16 @@
 | 79 | 125 | Leslie Ann Carter |
 | 80 | 124 | Chilly Pivot |
 | 81 | 123 | Anna Gribble |
-| 82 | 122 | Jason Allen |
-| 83 | 122 | Lisa Garcia |
+| 82 | 122 | Lisa Garcia |
+| 83 | 122 | Jason Allen |
 | 84 | 121 | Ryan Paul Clark-Ramsey |
-| 85 | 120 | Glamorous Gracey |
-| 86 | 120 | Kelly Bernard |
+| 85 | 120 | Kelly Bernard |
+| 86 | 120 | Glamorous Gracey |
 | 87 | 118 | Goofy Fall |
 | 88 | 117 | BCO22 |
 | 89 | 114 | Bryan DjMagnum Evans |
-| 90 | 108 | Debby Ruof |
-| 91 | 108 | Juvon SupaShawdii Brooks |
+| 90 | 108 | Juvon SupaShawdii Brooks |
+| 91 | 108 | Debby Ruof |
 | 92 | 107 | Shayna Vaigneur-Hall |
 | 93 | 104 | Justin Ballard |
 | 94 | 104 | Tawna Curry |
