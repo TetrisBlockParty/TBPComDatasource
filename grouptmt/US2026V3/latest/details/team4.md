@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 18:44:13 UTC
+# Standings for team4 as of 2026-06-05 18:44:35 UTC
 
 **Total Participants:** 370
 
@@ -16,7 +16,7 @@
 | 8 | 734 | Lisa Cullum |
 | 9 | 700 | Carly Stempien |
 | 10 | 559 | Lynn Grimes |
-| 11 | 499 | SMV |
+| 11 | 519 | SMV |
 | 12 | 477 | Malik Thompson |
 | 13 | 474 | Jeremy Lopez |
 | 14 | 465 | Fancy Crasher |
@@ -83,34 +83,34 @@
 | 75 | 74 | Lani |
 | 76 | 73 | Mark Fitch Jr. |
 | 77 | 73 | Troy Zanelli |
-| 78 | 71 | Stasia |
-| 79 | 71 | Chris Covington |
+| 78 | 71 | King |
+| 79 | 71 | Lady |
 | 80 | 71 | Justin Michael |
-| 81 | 71 | King |
-| 82 | 71 | Lady |
-| 83 | 70 | Janae Harris |
-| 84 | 70 | Josh Keith Travierso |
+| 81 | 71 | Chris Covington |
+| 82 | 71 | Stasia |
+| 83 | 70 | Josh Keith Travierso |
+| 84 | 70 | Janae Harris |
 | 85 | 70 | Sarah Berry Stevens |
 | 86 | 68 | Chirpy Link |
 | 87 | 68 | Homie |
 | 88 | 68 | Keys Tome |
 | 89 | 67 | Henry Lanier |
 | 90 | 67 | Alma López Morales |
-| 91 | 65 | Domo Dpn |
-| 92 | 65 | JuicyJuice |
+| 91 | 65 | JuicyJuice |
+| 92 | 65 | Domo Dpn |
 | 93 | 65 | ktothet |
-| 94 | 64 | Stef |
-| 95 | 64 | Krysten Danielle Richard |
+| 94 | 64 | Krysten Danielle Richard |
+| 95 | 64 | Stef |
 | 96 | 60 | Amandacolle |
-| 97 | 60 | Magz |
-| 98 | 60 | George Marshburn |
-| 99 | 60 | Chilly Pivot |
+| 97 | 60 | George Marshburn |
+| 98 | 60 | Magz |
+| 99 | 60 | blockhead |
 | 100 | 60 | Jason Allen |
 | 101 | 60 | Fran Aaron-Ring |
 | 102 | 60 | Jumpy Builderpiece |
-| 103 | 60 | blockhead |
-| 104 | 60 | Blockcrusher |
-| 105 | 60 | DexterDobbins |
+| 103 | 60 | Blockcrusher |
+| 104 | 60 | DexterDobbins |
+| 105 | 60 | Chilly Pivot |
 | 106 | 59 | Paula Renee McCracken |
 | 107 | 59 | Futrell Brent |
 | 108 | 58 | Jenn Fitzgerald |
@@ -120,30 +120,30 @@
 | 112 | 51 | Cindy |
 | 113 | 51 | Shiny Brick |
 | 114 | 51 | Amanda Snow |
-| 115 | 50 | CorieBe |
-| 116 | 50 | Nova Kain |
+| 115 | 50 | Nova Kain |
+| 116 | 50 | CorieBe |
 | 117 | 49 | smarty |
-| 118 | 49 | Маркус Вік |
-| 119 | 49 | Daring Brickbuilder |
-| 120 | 48 | Joseph Hunter |
-| 121 | 46 | Bouncy |
+| 118 | 49 | Ana Ruiz |
+| 119 | 49 | Маркус Вік |
+| 120 | 49 | Daring Brickbuilder |
+| 121 | 48 | Joseph Hunter |
 | 122 | 46 | Phil Peterson |
-| 123 | 45 | Ana Ruiz |
-| 124 | 44 | Kassey M. Clark |
-| 125 | 44 | Frisky Balance |
-| 126 | 44 | Karen Rodriguez |
-| 127 | 44 | Lul Babie |
+| 123 | 46 | Bouncy |
+| 124 | 44 | Karen Rodriguez |
+| 125 | 44 | Lul Babie |
+| 126 | 44 | Frisky Balance |
+| 127 | 44 | Kassey M. Clark |
 | 128 | 43 | Tipsy Zonebuilder |
-| 129 | 42 | Mrs |
-| 130 | 42 | Cail |
-| 131 | 42 | Stacy Brown |
+| 129 | 42 | Cail |
+| 130 | 42 | Stacy Brown |
+| 131 | 42 | Mrs |
 | 132 | 41 | kellie |
-| 133 | 40 | SweetChaos |
-| 134 | 40 | Cinta Marie |
-| 135 | 40 | Leslie Bamonte |
-| 136 | 40 | Destiny Starr LeValdo |
-| 137 | 40 | Cool Risepiece |
-| 138 | 40 | Tyra Brooke Everman Forest |
+| 133 | 40 | Cool Risepiece |
+| 134 | 40 | Destiny Starr LeValdo |
+| 135 | 40 | Tyra Brooke Everman Forest |
+| 136 | 40 | Leslie Bamonte |
+| 137 | 40 | SweetChaos |
+| 138 | 40 | Cinta Marie |
 | 139 | 40 | Mint Marquez |
 | 140 | 39 | Nicole |
 | 141 | 39 | Anthony Kollar |
