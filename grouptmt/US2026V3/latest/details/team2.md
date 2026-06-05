@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 12:16:12 UTC
+# Standings for team2 as of 2026-06-05 12:16:35 UTC
 
 **Total Participants:** 17
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 294 | Logan Basham |
+| 1 | 314 | Logan Basham |
 | 2 | 37 | Jumpy Dashpiece |
 | 3 | 33 | Tango Sierra |
 | 4 | 30 | Patti Ward |
@@ -21,8 +21,8 @@
 | 13 | 8 | Damion Morrison |
 | 14 | 7 | Peter Fogg |
 | 15 | 6 | fancypants |
-| 16 | 5 | Devon |
-| 17 | 5 | Tashamonique Puckey |
+| 16 | 5 | Tashamonique Puckey |
+| 17 | 5 | Devon |
 
 ---
 *Standings created by tournaments datasource generation tool*
