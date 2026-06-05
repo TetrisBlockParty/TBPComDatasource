@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 12:13:12 UTC
+# Standings for team1 as of 2026-06-05 12:14:12 UTC
 
-**Total Participants:** 11
+**Total Participants:** 13
 
 ## Participant Scores
 
@@ -11,12 +11,14 @@
 | 3 | 300 | Chandler Spencer |
 | 4 | 125 | Gotcha |
 | 5 | 48 | Amber Wilson |
-| 6 | 30 | Rachel Zimmerman |
-| 7 | 20 | Lester Malone |
-| 8 | 18 | Tanisha Taylor |
-| 9 | 17 | Jai |
-| 10 | 10 | Sarah Marie |
-| 11 | 7 | Saucy Crusher |
+| 6 | 40 | Leavon Smith |
+| 7 | 33 | Debbie Carswell |
+| 8 | 30 | Lester Malone |
+| 9 | 30 | Rachel Zimmerman |
+| 10 | 18 | Tanisha Taylor |
+| 11 | 17 | Jai |
+| 12 | 10 | Sarah Marie |
+| 13 | 7 | Saucy Crusher |
 
 ---
 *Standings created by tournaments datasource generation tool*

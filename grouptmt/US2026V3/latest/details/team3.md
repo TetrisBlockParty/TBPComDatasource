@@ -1,33 +1,35 @@
-# Standings for team3 as of 2026-06-05 12:13:12 UTC
+# Standings for team3 as of 2026-06-05 12:14:12 UTC
 
-**Total Participants:** 22
+**Total Participants:** 24
 
 ## Participant Scores
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 444 | Alan George LaRage |
+| 1 | 497 | Alan George LaRage |
 | 2 | 140 | Woodrow Weatherford |
-| 3 | 90 | Bee |
-| 4 | 60 | AL Ferrari |
-| 5 | 28 | Alex Celio |
-| 6 | 28 | Carolyn Smith |
-| 7 | 27 | Jerome Carlile |
-| 8 | 26 | Kevin C. Moe |
-| 9 | 22 | Lively Matchpiece |
-| 10 | 20 | Paul Hudak |
-| 11 | 15 | Quirky Curve |
-| 12 | 14 | SteffXx |
-| 13 | 13 | Dedicated |
-| 14 | 12 | Robby Beltran |
-| 15 | 11 | Carrie Ness |
-| 16 | 10 | Violet |
-| 17 | 9 | Tnaughty |
+| 3 | 92 | Tom Borja |
+| 4 | 90 | Bee |
+| 5 | 60 | AL Ferrari |
+| 6 | 58 | Alex Celio |
+| 7 | 28 | Carolyn Smith |
+| 8 | 27 | Jerome Carlile |
+| 9 | 26 | Kevin C. Moe |
+| 10 | 22 | Lively Matchpiece |
+| 11 | 20 | Paul Hudak |
+| 12 | 15 | Quirky Curve |
+| 13 | 14 | SteffXx |
+| 14 | 13 | Dedicated |
+| 15 | 12 | Robby Beltran |
+| 16 | 12 | Violet |
+| 17 | 11 | Carrie Ness |
 | 18 | 9 | Angie Rodriguez |
-| 19 | 8 | Jonathan Russell |
-| 20 | 7 | Sarah Jane |
-| 21 | 7 | David Glisson |
-| 22 | 5 | Lisa Stone |
+| 19 | 9 | Jess Jess |
+| 20 | 9 | Tnaughty |
+| 21 | 8 | Jonathan Russell |
+| 22 | 7 | Sarah Jane |
+| 23 | 7 | David Glisson |
+| 24 | 5 | Lisa Stone |
 
 ---
 *Standings created by tournaments datasource generation tool*
