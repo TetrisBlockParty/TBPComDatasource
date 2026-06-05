@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:06:16 UTC
+# Standings for team1 as of 2026-06-05 17:06:35 UTC
 
 **Total Participants:** 322
 
@@ -20,11 +20,11 @@
 | 12 | 482 | Cj Gorman |
 | 13 | 480 | Ashley Espeut |
 | 14 | 477 | Brian Stackhouse |
-| 15 | 305 | Brian Bohanon II |
-| 16 | 300 | Ryan Meilleur |
-| 17 | 292 | Sarah Marie |
-| 18 | 280 | Bre Maugh |
-| 19 | 263 | Dyane Leah Ware |
+| 15 | 327 | Dyane Leah Ware |
+| 16 | 305 | Brian Bohanon II |
+| 17 | 300 | Ryan Meilleur |
+| 18 | 292 | Sarah Marie |
+| 19 | 280 | Bre Maugh |
 | 20 | 260 | Carolynne Walker-Bell |
 | 21 | 244 | Tammye Turner |
 | 22 | 241 | Ivana Schmidt |
@@ -39,8 +39,8 @@
 | 31 | 193 | Spicy Balancer |
 | 32 | 185 | Jennifer To |
 | 33 | 185 | COSA303 |
-| 34 | 178 | Cassidy Butler |
-| 35 | 178 | Gotcha |
+| 34 | 178 | Gotcha |
+| 35 | 178 | Cassidy Butler |
 | 36 | 177 | Chris Sladoje |
 | 37 | 165 | Davionte DaeDae Hopson-Rodriguez |
 | 38 | 162 | Markeeta Lipscomb |
@@ -198,15 +198,15 @@
 | 190 | 23 | Tamara N Lee |
 | 191 | 23 | Adrian Harris |
 | 192 | 23 | Tabitha Dupre-Allen |
-| 193 | 23 | Jamie Lea Popp |
-| 194 | 22 | Tanisha Taylor |
-| 195 | 22 | Heather Wilson |
-| 196 | 22 | Ad Doctor |
-| 197 | 21 | Sylvia Offically A Mcgowan |
-| 198 | 21 | Shanjerrica Taylor Rosell |
+| 193 | 23 | Loopy Risepiece |
+| 194 | 23 | Jamie Lea Popp |
+| 195 | 22 | Tanisha Taylor |
+| 196 | 22 | Heather Wilson |
+| 197 | 22 | Ad Doctor |
+| 198 | 21 | Sylvia Offically A Mcgowan |
 | 199 | 21 | Shanaa Germany Crittenden |
-| 200 | 21 | Witty Blockpiece |
-| 201 | 21 | Loopy Risepiece |
+| 200 | 21 | Shanjerrica Taylor Rosell |
+| 201 | 21 | Witty Blockpiece |
 | 202 | 21 | Li-Li Ratliff |
 | 203 | 20 | Devin West |
 | 204 | 20 | Kenneth Hefney |

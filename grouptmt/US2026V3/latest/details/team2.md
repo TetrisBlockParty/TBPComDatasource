@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 17:06:16 UTC
+# Standings for team2 as of 2026-06-05 17:06:35 UTC
 
 **Total Participants:** 328
 
@@ -141,74 +141,74 @@
 | 133 | 37 | James Ward |
 | 134 | 36 | Mtnblzr |
 | 135 | 36 | Kathleen Dumbazz |
-| 136 | 35 | Jason Cunningham |
-| 137 | 35 | Jackie Walker |
-| 138 | 35 | Kelly |
-| 139 | 35 | Thomas Johnstone |
-| 140 | 35 | Natalie M. Arredondo |
-| 141 | 35 | Josie Mendivil |
-| 142 | 34 | Marylin Eacker |
-| 143 | 34 | Funway998 |
+| 136 | 35 | Thomas Johnstone |
+| 137 | 35 | Kelly |
+| 138 | 35 | Jackie Walker |
+| 139 | 35 | Natalie M. Arredondo |
+| 140 | 35 | Josie Mendivil |
+| 141 | 35 | Jason Cunningham |
+| 142 | 34 | Funway998 |
+| 143 | 34 | Marylin Eacker |
 | 144 | 33 | Alexis Meyers |
 | 145 | 33 | Kenzie |
-| 146 | 32 | Jgato |
+| 146 | 32 | Sandra Belk |
 | 147 | 32 | REE4 |
-| 148 | 32 | Sandra Belk |
+| 148 | 32 | Jgato |
 | 149 | 31 | Michael Carmichael |
 | 150 | 30 | Wacky Holder |
-| 151 | 30 | Stacey Loretta Wallace |
-| 152 | 30 | Patti Ward |
-| 153 | 30 | Mama G |
-| 154 | 30 | Nora Buchan |
-| 155 | 30 | Paula Haskins |
+| 151 | 30 | Paula Haskins |
+| 152 | 30 | Nora Buchan |
+| 153 | 30 | Stacey Loretta Wallace |
+| 154 | 30 | Patti Ward |
+| 155 | 30 | Mama G |
 | 156 | 30 | Buddy |
 | 157 | 30 | Sandy Justus |
-| 158 | 30 | Lively Curve |
-| 159 | 30 | Marquita Toliver |
-| 160 | 29 | Nikki Hayes |
+| 158 | 30 | Marquita Toliver |
+| 159 | 30 | Lively Curve |
+| 160 | 29 | Brandy Wallace |
 | 161 | 29 | Laverne Ellis Blair |
-| 162 | 29 | Brandy Wallace |
-| 163 | 28 | Carole Brown |
-| 164 | 28 | Sara BlueEyes |
-| 165 | 27 | Missy Stevens |
+| 162 | 29 | Nikki Hayes |
+| 163 | 28 | Sara BlueEyes |
+| 164 | 28 | Carole Brown |
+| 165 | 27 | Kim |
 | 166 | 27 | Brian Karr |
 | 167 | 27 | Sunny Tiltbuilder |
-| 168 | 27 | Kim |
-| 169 | 26 | Darlene Russell |
-| 170 | 26 | Rachel Huber |
+| 168 | 27 | Missy Stevens |
+| 169 | 26 | Rachel Huber |
+| 170 | 26 | Darlene Russell |
 | 171 | 26 | nova |
 | 172 | 26 | Quina Jesse Fejaran |
-| 173 | 25 | Slinky Winder |
-| 174 | 25 | Tamara Whiteley |
-| 175 | 25 | ChefDeb |
+| 173 | 25 | ChefDeb |
+| 174 | 25 | Heather Burgett |
+| 175 | 25 | Raymond Dawson |
 | 176 | 25 | IncrediDragon |
-| 177 | 25 | Heather Burgett |
-| 178 | 25 | Raymond Dawson |
-| 179 | 24 | SunnySquare |
-| 180 | 24 | Dayna Messer-Thelen |
-| 181 | 24 | Ashley Green |
+| 177 | 25 | Slinky Winder |
+| 178 | 25 | Kelly Hall Whitt |
+| 179 | 25 | Tamara Whiteley |
+| 180 | 24 | Ashley Green |
+| 181 | 24 | Dayna Messer-Thelen |
 | 182 | 24 | Nicole |
-| 183 | 23 | Shirley Bates |
-| 184 | 23 | Damion Morrison |
-| 185 | 22 | Marii |
+| 183 | 24 | SunnySquare |
+| 184 | 23 | Shirley Bates |
+| 185 | 23 | Damion Morrison |
 | 186 | 22 | Jeff Pottgether |
-| 187 | 22 | Silly Tiltbuilder |
+| 187 | 22 | Marii |
 | 188 | 22 | Ashley Diana |
-| 189 | 22 | Seamus |
-| 190 | 21 | Maria Ward |
+| 189 | 22 | Silly Tiltbuilder |
+| 190 | 22 | Seamus |
 | 191 | 21 | Epic Framezone |
 | 192 | 21 | Instak1ll |
 | 193 | 21 | Brooke Kaune |
 | 194 | 21 | Thy Bui |
-| 195 | 20 | Wendy McKee |
-| 196 | 20 | Bonita Alexander |
-| 197 | 20 | Amanda Mason Scott |
-| 198 | 20 | Raffa |
-| 199 | 20 | Reign Hustler |
-| 200 | 20 | Allison Peterson |
-| 201 | 20 | Dana Wilson |
-| 202 | 20 | Annie Hebdon |
-| 203 | 20 | Kelly Hall Whitt |
+| 195 | 21 | Maria Ward |
+| 196 | 20 | Wendy McKee |
+| 197 | 20 | Bonita Alexander |
+| 198 | 20 | Reign Hustler |
+| 199 | 20 | Amanda Mason Scott |
+| 200 | 20 | Raffa |
+| 201 | 20 | Allison Peterson |
+| 202 | 20 | Dana Wilson |
+| 203 | 20 | Annie Hebdon |
 | 204 | 20 | Chesney |
 | 205 | 20 | phamous1 |
 | 206 | 20 | Bigbb |
@@ -222,21 +222,21 @@
 | 214 | 18 | Twisty Matchfit |
 | 215 | 17 | Amber-leigh Williams |
 | 216 | 17 | Debra May |
-| 217 | 16 | Natasha Schatte |
-| 218 | 16 | Dallas Runyan |
-| 219 | 16 | Elliot |
-| 220 | 16 | Funky Blockmatch |
+| 217 | 16 | Funky Blockmatch |
+| 218 | 16 | Natasha Schatte |
+| 219 | 16 | Dallas Runyan |
+| 220 | 16 | Elliot |
 | 221 | 16 | Danielle Lyons |
 | 222 | 16 | CK Hancock |
 | 223 | 15 | Jennifer Smith |
 | 224 | 15 | MaddieCherie |
-| 225 | 15 | Frilly Dashfit |
-| 226 | 15 | Devon |
+| 225 | 15 | Devon |
+| 226 | 15 | Frilly Dashfit |
 | 227 | 15 | Poppy Slice |
 | 228 | 14 | Missy Savage-Justice |
 | 229 | 14 | Nicky Steigerwalt |
-| 230 | 13 | Staci Walker |
-| 231 | 13 | Boldy Fitclear |
+| 230 | 13 | Boldy Fitclear |
+| 231 | 13 | Staci Walker |
 | 232 | 13 | Lexi Chouinard |
 | 233 | 13 | Dreamy Wipepiece |
 | 234 | 12 | Melissa Thomas |
@@ -249,8 +249,8 @@
 | 241 | 12 | Samantha Morrison |
 | 242 | 12 | Brandi Thompson |
 | 243 | 12 | Stephen Gillam |
-| 244 | 12 | Lily |
-| 245 | 12 | DarkHorse |
+| 244 | 12 | DarkHorse |
+| 245 | 12 | Lily |
 | 246 | 12 | Kris Dusza Dodus |
 | 247 | 11 | Peppy Piececlear |
 | 248 | 11 | Yany |
