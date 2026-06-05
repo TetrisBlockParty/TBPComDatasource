@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 12:40:13 UTC
+# Standings for team4 as of 2026-06-05 12:40:36 UTC
 
 **Total Participants:** 55
 
@@ -23,17 +23,17 @@
 | 15 | 36 | Kim |
 | 16 | 34 | jojo |
 | 17 | 31 | Chris Covington |
-| 18 | 28 | Melissa Schwager |
-| 19 | 27 | Blockcrusher |
-| 20 | 26 | Dana Fontanez |
-| 21 | 25 | Маркус Вік |
-| 22 | 25 | Shiny Brick |
-| 23 | 23 | Melissa Quinn |
-| 24 | 22 | Saul Fajardo |
-| 25 | 22 | Laurie Patrick |
-| 26 | 22 | smarty |
-| 27 | 21 | Keesha Muro |
-| 28 | 20 | Will E Ayala |
+| 18 | 30 | Will E Ayala |
+| 19 | 28 | Melissa Schwager |
+| 20 | 27 | Blockcrusher |
+| 21 | 26 | Dana Fontanez |
+| 22 | 25 | Маркус Вік |
+| 23 | 25 | Shiny Brick |
+| 24 | 23 | Melissa Quinn |
+| 25 | 22 | Saul Fajardo |
+| 26 | 22 | Laurie Patrick |
+| 27 | 22 | smarty |
+| 28 | 21 | Keesha Muro |
 | 29 | 20 | Magz |
 | 30 | 20 | Erica Pompey |
 | 31 | 18 | Iforget |

@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-05 12:40:13 UTC
+# Standings for team3 as of 2026-06-05 12:40:36 UTC
 
 **Total Participants:** 77
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 1627 | George Michaels |
 | 2 | 1025 | Alan George LaRage |
-| 3 | 645 | Tom Borja |
+| 3 | 737 | Tom Borja |
 | 4 | 448 | Lindsey Gardner |
 | 5 | 376 | Tami Czenkus |
 | 6 | 300 | Jăckie Gønzaləz-Mōntålvo |
@@ -58,25 +58,25 @@
 | 50 | 14 | Sara Pederson |
 | 51 | 13 | Raven Rogue |
 | 52 | 12 | Nonni |
-| 53 | 12 | Nette Babi |
+| 53 | 12 | blockbusterr |
 | 54 | 12 | Robby Beltran |
-| 55 | 12 | blockbusterr |
-| 56 | 12 | Violet |
-| 57 | 12 | Wacky Catcher |
-| 58 | 12 | Jonathan Russell |
+| 55 | 12 | Violet |
+| 56 | 12 | Nette Babi |
+| 57 | 12 | Jonathan Russell |
+| 58 | 12 | Wacky Catcher |
 | 59 | 11 | David Glisson |
 | 60 | 11 | Happy Balancer |
 | 61 | 11 | Carrie Ness |
 | 62 | 10 | Shabae |
-| 63 | 10 | Giddy Shift |
-| 64 | 9 | Jess Jess |
-| 65 | 9 | ciscokid81 |
-| 66 | 9 | Sarah Cruthirds |
-| 67 | 9 | Angie Rodriguez |
-| 68 | 9 | Sarah Jane |
-| 69 | 9 | Tnaughty |
-| 70 | 9 | Salky |
-| 71 | 8 | Avias |
+| 63 | 10 | Avias |
+| 64 | 10 | Giddy Shift |
+| 65 | 9 | Jess Jess |
+| 66 | 9 | ciscokid81 |
+| 67 | 9 | Sarah Cruthirds |
+| 68 | 9 | Angie Rodriguez |
+| 69 | 9 | Sarah Jane |
+| 70 | 9 | Tnaughty |
+| 71 | 9 | Salky |
 | 72 | 7 | DShark72 |
 | 73 | 7 | Loony Rollfit |
 | 74 | 6 | bt |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 12:40:13 UTC
+# Standings for team1 as of 2026-06-05 12:40:36 UTC
 
 **Total Participants:** 66
 
@@ -17,9 +17,9 @@
 | 9 | 141 | Debbie Carswell |
 | 10 | 81 | Robyn Caldwell |
 | 11 | 80 | Rachel Zimmerman |
-| 12 | 77 | Amber Wilson |
-| 13 | 74 | ♈️ Ariesbaby |
-| 14 | 64 | jaimie |
+| 12 | 78 | jaimie |
+| 13 | 77 | Amber Wilson |
+| 14 | 74 | ♈️ Ariesbaby |
 | 15 | 60 | Asani CHumba |
 | 16 | 56 | Shontanese Adams |
 | 17 | 54 | Cee Emm |
