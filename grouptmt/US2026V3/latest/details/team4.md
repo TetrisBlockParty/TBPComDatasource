@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 22:24:14 UTC
+# Standings for team4 as of 2026-06-05 22:24:37 UTC
 
 **Total Participants:** 498
 
@@ -205,28 +205,28 @@
 | 197 | 42 | Gorica Prusina |
 | 198 | 42 | ShaniP |
 | 199 | 42 | Joshua Hunt |
-| 200 | 42 | Piece of Cake |
-| 201 | 42 | Stacy Brown |
-| 202 | 42 | Lucy Honer |
-| 203 | 42 | jaz |
-| 204 | 42 | Mrs |
-| 205 | 42 | Cail |
-| 206 | 41 | Karen Small |
-| 207 | 41 | kellie |
-| 208 | 40 | Mint Marquez |
-| 209 | 40 | Cinta Marie |
+| 200 | 42 | Esmond Johnson IV |
+| 201 | 42 | Piece of Cake |
+| 202 | 42 | Stacy Brown |
+| 203 | 42 | Lucy Honer |
+| 204 | 42 | jaz |
+| 205 | 42 | Mrs |
+| 206 | 42 | Cail |
+| 207 | 41 | Karen Small |
+| 208 | 41 | kellie |
+| 209 | 40 | Mint Marquez |
 | 210 | 40 | Maurice DeJean |
-| 211 | 40 | SweetChaos |
-| 212 | 40 | Destiny Starr LeValdo |
-| 213 | 40 | Anthony Lewis |
-| 214 | 40 | Leslie Bamonte |
-| 215 | 40 | Cheeky Climber |
-| 216 | 39 | Anthony Kollar |
-| 217 | 39 | Stefanie Street |
+| 211 | 40 | Cinta Marie |
+| 212 | 40 | SweetChaos |
+| 213 | 40 | Destiny Starr LeValdo |
+| 214 | 40 | Anthony Lewis |
+| 215 | 40 | Leslie Bamonte |
+| 216 | 40 | Cheeky Climber |
+| 217 | 39 | Anthony Kollar |
 | 218 | 39 | Denisha Schinell Boyd |
-| 219 | 38 | Happy Shatterfit |
+| 219 | 39 | Stefanie Street |
 | 220 | 38 | Charity Thomas |
-| 221 | 38 | Esmond Johnson IV |
+| 221 | 38 | Happy Shatterfit |
 | 222 | 38 | Happy Puzzle |
 | 223 | 37 | Chris Davis |
 | 224 | 37 | Tyson Stroppel |
@@ -309,38 +309,38 @@
 | 301 | 25 | EJ Frazier |
 | 302 | 25 | Andrea Dre Lomeli |
 | 303 | 25 | Boldy Rumbler |
-| 304 | 24 | Smiley Gridzone |
-| 305 | 24 | Keesha Muro |
+| 304 | 24 | Keesha Muro |
+| 305 | 24 | Smiley Gridzone |
 | 306 | 24 | Nancy McCalla Abercrombie |
 | 307 | 24 | Lana Tran |
 | 308 | 24 | Socorro Arredondo |
 | 309 | 24 | Spicy Peach |
 | 310 | 24 | Katiana Gonzalez |
 | 311 | 24 | Nikcole Alexis Bryan |
-| 312 | 23 | Kayla Haddenham |
+| 312 | 23 | Kristen Wallace |
 | 313 | 23 | Genger |
-| 314 | 23 | Kristen Wallace |
-| 315 | 23 | Sonya |
-| 316 | 23 | Anna Ryan |
-| 317 | 22 | Jonelle Jacobs |
+| 314 | 23 | Sonya |
+| 315 | 23 | Anna Ryan |
+| 316 | 23 | Kayla Haddenham |
+| 317 | 22 | Rita Ann |
 | 318 | 22 | Destiny Georgia Reeves Beller |
-| 319 | 21 | LilithMoon |
-| 320 | 21 | SandyEva |
-| 321 | 21 | Dheeh Robles |
-| 322 | 21 | Swanky Matchfit |
-| 323 | 21 | Jacqueline Wright |
-| 324 | 21 | Darren Miguel |
-| 325 | 20 | Clever Patterner |
-| 326 | 20 | Melissa WC |
-| 327 | 20 | Jerett Coplin |
-| 328 | 20 | Erica Pompey |
+| 319 | 22 | Jonelle Jacobs |
+| 320 | 21 | LilithMoon |
+| 321 | 21 | SandyEva |
+| 322 | 21 | Dheeh Robles |
+| 323 | 21 | Swanky Matchfit |
+| 324 | 21 | Jacqueline Wright |
+| 325 | 21 | Darren Miguel |
+| 326 | 20 | Joha Mldo Castillo |
+| 327 | 20 | Jeremy Barry |
+| 328 | 20 | Erika Rubio |
 | 329 | 20 | Margie Thomas |
-| 330 | 20 | Joha Mldo Castillo |
-| 331 | 20 | Jeremy Barry |
-| 332 | 20 | Erika Rubio |
-| 333 | 20 | Deanne Silverdahl |
+| 330 | 20 | Erica Pompey |
+| 331 | 20 | Melissa WC |
+| 332 | 20 | Deanne Silverdahl |
+| 333 | 20 | Clever Patterner |
 | 334 | 20 | Natalie Ohrtman Strand |
-| 335 | 20 | Rita Ann |
+| 335 | 20 | Jerett Coplin |
 | 336 | 20 | ariel |
 | 337 | 20 | Hasty Dropzone |
 | 338 | 20 | Mexican130 |
