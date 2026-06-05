@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-05 13:55:13 UTC
+# Standings for team2 as of 2026-06-05 13:56:13 UTC
 
-**Total Participants:** 128
+**Total Participants:** 130
 
 ## Participant Scores
 
@@ -28,18 +28,18 @@
 | 20 | 70 | Amanda Sikes |
 | 21 | 61 | Bubbly Dash |
 | 22 | 60 | AcardBoardBox |
-| 23 | 59 | April Addis |
-| 24 | 59 | NickandJess Reynolds |
+| 23 | 59 | NickandJess Reynolds |
+| 24 | 59 | April Addis |
 | 25 | 58 | Chipper Towerzone |
 | 26 | 52 | Rick |
-| 27 | 50 | Martha Lynn Wiggins |
-| 28 | 50 | Sara Perkins |
+| 27 | 50 | Sara Perkins |
+| 28 | 50 | Martha Lynn Wiggins |
 | 29 | 49 | Jessica Perkins |
 | 30 | 48 | Spicy Basepiece |
 | 31 | 45 | Michelle Anne |
 | 32 | 44 | Zaniya Brown |
-| 33 | 42 | Henny Henny |
-| 34 | 42 | Snazzy Smasher |
+| 33 | 42 | Snazzy Smasher |
+| 34 | 42 | Henny Henny |
 | 35 | 40 | Kevin Mccoy |
 | 36 | 40 | Bon Lynn |
 | 37 | 38 | Justin Stark |
@@ -52,88 +52,90 @@
 | 44 | 32 | Sandra Belk |
 | 45 | 31 | Lindsay Klemp |
 | 46 | 31 | Kenzie |
-| 47 | 30 | Peter Fogg |
-| 48 | 30 | Patti Ward |
+| 47 | 30 | Patti Ward |
+| 48 | 30 | Peter Fogg |
 | 49 | 28 | Sara BlueEyes |
 | 50 | 27 | Michael Carmichael |
-| 51 | 26 | Rachel Huber |
-| 52 | 26 | Quina Jesse Fejaran |
-| 53 | 26 | Ariel Gundersen |
-| 54 | 25 | Alissa Ary |
+| 51 | 26 | Ariel Gundersen |
+| 52 | 26 | Rachel Huber |
+| 53 | 26 | Quina Jesse Fejaran |
+| 54 | 25 | James Ward |
 | 55 | 25 | Jgato |
-| 56 | 25 | James Ward |
-| 57 | 24 | Jason P. Schwartz |
-| 58 | 24 | Dayna Messer-Thelen |
-| 59 | 24 | A.j. Langley |
-| 60 | 23 | Brittni Lawrence |
+| 56 | 25 | Alissa Ary |
+| 57 | 24 | Dayna Messer-Thelen |
+| 58 | 24 | A.j. Langley |
+| 59 | 24 | Jason P. Schwartz |
+| 60 | 23 | IncrediDragon |
 | 61 | 23 | Damion Morrison |
-| 62 | 23 | IncrediDragon |
-| 63 | 22 | Andre Love |
-| 64 | 22 | Jeff Pottgether |
-| 65 | 21 | Thy Bui |
+| 62 | 23 | Brittni Lawrence |
+| 63 | 22 | Jeff Pottgether |
+| 64 | 22 | Andre Love |
+| 65 | 21 | Maria Ward |
 | 66 | 21 | Lively Curve |
-| 67 | 21 | Maria Ward |
-| 68 | 20 | Wendy McKee |
-| 69 | 20 | Larry Cross |
-| 70 | 20 | Chesney |
-| 71 | 20 | ChefDeb |
-| 72 | 20 | Amanda Mason Scott |
+| 67 | 21 | Thy Bui |
+| 68 | 20 | Chesney |
+| 69 | 20 | Amanda Mason Scott |
+| 70 | 20 | Larry Cross |
+| 71 | 20 | Wendy McKee |
+| 72 | 20 | ChefDeb |
 | 73 | 19 | Steven Craig |
-| 74 | 19 | Block Dog |
-| 75 | 18 | Tracey Cox |
+| 74 | 19 | Quirky Piecegrid |
+| 75 | 19 | Block Dog |
 | 76 | 18 | Spicy Balanceblock |
-| 77 | 16 | Quirky Piecegrid |
-| 78 | 16 | Sarah Jane Gorsuch |
-| 79 | 16 | Jenny Coffer |
+| 77 | 18 | Tracey Cox |
+| 78 | 18 | Jenny Coffer |
+| 79 | 16 | Sarah Jane Gorsuch |
 | 80 | 15 | Lively Twisterfit |
 | 81 | 14 | Missy Savage-Justice |
-| 82 | 12 | Chirpy Grid |
-| 83 | 12 | Nicole |
-| 84 | 12 | Diamond Balotje |
-| 85 | 12 | Stacey Loretta Wallace |
-| 86 | 12 | Mary |
-| 87 | 11 | Nicole Hogue |
-| 88 | 11 | Yany |
-| 89 | 11 | Lora Via |
-| 90 | 10 | Berta Hurley |
-| 91 | 10 | Thomas Johnstone |
-| 92 | 10 | Crystal Owen Yocolano |
-| 93 | 10 | Donna Casey |
-| 94 | 10 | Becky Kennon |
-| 95 | 10 | Gill |
-| 96 | 10 | Twisty Snapmatch |
-| 97 | 10 | SEH |
-| 98 | 10 | Carlos J Blas |
-| 99 | 10 | Justin Furne |
-| 100 | 10 | Leticia Tillman |
-| 101 | 10 | Jennifer Bell |
+| 82 | 14 | Marylin Eacker |
+| 83 | 13 | Lexi Chouinard |
+| 84 | 12 | Nicole |
+| 85 | 12 | Diamond Balotje |
+| 86 | 12 | Stacey Loretta Wallace |
+| 87 | 12 | Mary |
+| 88 | 12 | Chirpy Grid |
+| 89 | 11 | Nicole Hogue |
+| 90 | 11 | Yany |
+| 91 | 11 | Lora Via |
+| 92 | 10 | Carlos J Blas |
+| 93 | 10 | Twisty Snapmatch |
+| 94 | 10 | Crystal Owen Yocolano |
+| 95 | 10 | Joyce Galloway |
+| 96 | 10 | Thomas Johnstone |
+| 97 | 10 | Gill |
+| 98 | 10 | Jennifer Bell |
+| 99 | 10 | SEH |
+| 100 | 10 | Justin Furne |
+| 101 | 10 | Leticia Tillman |
 | 102 | 10 | Jat |
-| 103 | 10 | Joyce Galloway |
-| 104 | 10 | Frilly Dashfit |
-| 105 | 9 | Darla Ragsdale |
-| 106 | 9 | Giggly Spinblock |
-| 107 | 9 | Mama G |
-| 108 | 9 | Princess Cucumber |
-| 109 | 9 | Rhonda Driskill |
-| 110 | 8 | Renee Weedling |
-| 111 | 8 | Nicky Steigerwalt |
-| 112 | 8 | Stephanie |
-| 113 | 7 | Tashamonique Puckey |
-| 114 | 7 | Rae |
+| 103 | 10 | Frilly Dashfit |
+| 104 | 10 | Donna Casey |
+| 105 | 10 | Berta Hurley |
+| 106 | 10 | Becky Kennon |
+| 107 | 9 | Darla Ragsdale |
+| 108 | 9 | Rhonda Driskill |
+| 109 | 9 | Mama G |
+| 110 | 9 | Giggly Spinblock |
+| 111 | 9 | Princess Cucumber |
+| 112 | 8 | Renee Weedling |
+| 113 | 8 | Nicky Steigerwalt |
+| 114 | 8 | Stephanie |
 | 115 | 7 | Epic Framezone |
-| 116 | 7 | Elizabeth Elaine Coursey |
-| 117 | 7 | nova |
-| 118 | 7 | Jackie Hayslip |
-| 119 | 7 | Cherica Taylor |
-| 120 | 6 | Kelly Christine Trimmer |
-| 121 | 6 | Nova Nova |
-| 122 | 6 | fancypants |
-| 123 | 6 | Kim |
-| 124 | 6 | Laverne Ellis Blair |
-| 125 | 5 | Devon |
-| 126 | 5 | Slinky Glidezone |
-| 127 | 5 | Allison Peterson |
-| 128 | 5 | Bubbly Strikerpiece |
+| 116 | 7 | nova |
+| 117 | 7 | Elizabeth Elaine Coursey |
+| 118 | 7 | Rae |
+| 119 | 7 | Tashamonique Puckey |
+| 120 | 7 | Jackie Hayslip |
+| 121 | 7 | Cherica Taylor |
+| 122 | 6 | Kelly Christine Trimmer |
+| 123 | 6 | fancypants |
+| 124 | 6 | Kim |
+| 125 | 6 | Laverne Ellis Blair |
+| 126 | 6 | Nova Nova |
+| 127 | 5 | Devon |
+| 128 | 5 | Slinky Glidezone |
+| 129 | 5 | Bubbly Strikerpiece |
+| 130 | 5 | Allison Peterson |
 
 ---
 *Standings created by tournaments datasource generation tool*

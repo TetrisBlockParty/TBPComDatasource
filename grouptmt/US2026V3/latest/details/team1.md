@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:55:13 UTC
+# Standings for team1 as of 2026-06-05 13:56:13 UTC
 
 **Total Participants:** 131
 
@@ -7,9 +7,9 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 1100 | Timothy Robert |
-| 2 | 800 | Chandler Spencer |
-| 3 | 749 | Aviv Zehavi |
-| 4 | 713 | jaimie |
+| 2 | 900 | jaimie |
+| 3 | 800 | Chandler Spencer |
+| 4 | 749 | Aviv Zehavi |
 | 5 | 665 | Chris Russell |
 | 6 | 523 | Charnay Peacock |
 | 7 | 453 | Brian Stackhouse |
@@ -44,79 +44,79 @@
 | 36 | 42 | Frisky Fall |
 | 37 | 41 | Jessica Russell |
 | 38 | 40 | Leavon Smith |
-| 39 | 40 | Char |
-| 40 | 40 | Jean Regis |
+| 39 | 40 | Jean Regis |
+| 40 | 40 | Char |
 | 41 | 40 | Cheeky Pop |
-| 42 | 38 | Ashley MyBeauty Daniels |
-| 43 | 38 | rls |
-| 44 | 37 | Steve Reno |
-| 45 | 37 | Lootch |
-| 46 | 35 | Saucy Crusher |
-| 47 | 35 | Yashica Smith |
-| 48 | 35 | Lilly Brown |
-| 49 | 35 | Dai Bo |
-| 50 | 35 | KoolKimJay |
+| 42 | 38 | rls |
+| 43 | 38 | Ashley MyBeauty Daniels |
+| 44 | 37 | Lootch |
+| 45 | 37 | Steve Reno |
+| 46 | 35 | KoolKimJay |
+| 47 | 35 | Dai Bo |
+| 48 | 35 | Saucy Crusher |
+| 49 | 35 | Yashica Smith |
+| 50 | 35 | Lilly Brown |
 | 51 | 34 | Flashy Slam |
 | 52 | 32 | Melvin Simpson |
 | 53 | 32 | Tobey Marberry |
-| 54 | 30 | Casey Chapman |
+| 54 | 30 | Saucy Faller |
 | 55 | 30 | Lester Malone |
-| 56 | 30 | Saucy Faller |
-| 57 | 30 | Brian Bohanon II |
+| 56 | 30 | Brian Bohanon II |
+| 57 | 30 | Casey Chapman |
 | 58 | 29 | hope |
 | 59 | 28 | John Staub |
 | 60 | 27 | Jae Thompson-Tyus |
-| 61 | 27 | Angela R Wilson |
-| 62 | 27 | Charlene Baltimore |
-| 63 | 27 | Zany Breaker |
+| 61 | 27 | Charlene Baltimore |
+| 62 | 27 | Zany Breaker |
+| 63 | 27 | Angela R Wilson |
 | 64 | 25 | Sashaleo |
 | 65 | 25 | Hasty Pivoty |
 | 66 | 25 | Tyrone Porter |
-| 67 | 23 | Poppy Twister |
-| 68 | 22 | Tanisha Taylor |
+| 67 | 24 | TBABYJ |
+| 68 | 23 | Poppy Twister |
 | 69 | 22 | Boldy Pivoty |
-| 70 | 21 | Sarah Marie |
+| 70 | 22 | Tanisha Taylor |
 | 71 | 21 | Brave Balanceblock |
-| 72 | 20 | Jai |
+| 72 | 21 | Sarah Marie |
 | 73 | 20 | Yazz |
 | 74 | 20 | Trina Greenwood |
 | 75 | 20 | Chevalier Burley |
 | 76 | 20 | Tony P Burke |
 | 77 | 20 | Kimmie Gargano |
-| 78 | 19 | Amanda Woodruff |
-| 79 | 19 | TBABYJ |
-| 80 | 19 | Shanjerrica Taylor Rosell |
-| 81 | 19 | Brenda Malachi-butler |
-| 82 | 19 | Saucy Tile |
-| 83 | 19 | Jenni |
-| 84 | 18 | AleahKCH |
-| 85 | 18 | Tyree Tman Shinette |
-| 86 | 18 | Sunny Clicky |
-| 87 | 17 | Kimberly Red |
-| 88 | 17 | Rikki Moran |
-| 89 | 16 | MsBobby Patrick |
-| 90 | 16 | Sylvia Offically A Mcgowan |
-| 91 | 15 | Una |
-| 92 | 15 | Tami Spence |
+| 78 | 20 | Jai |
+| 79 | 19 | Amanda Woodruff |
+| 80 | 19 | Brenda Malachi-butler |
+| 81 | 19 | Shanjerrica Taylor Rosell |
+| 82 | 19 | Jenni |
+| 83 | 19 | Saucy Tile |
+| 84 | 18 | Sunny Clicky |
+| 85 | 18 | AleahKCH |
+| 86 | 18 | Tyree Tman Shinette |
+| 87 | 17 | Rikki Moran |
+| 88 | 17 | Kimberly Red |
+| 89 | 16 | Sylvia Offically A Mcgowan |
+| 90 | 16 | MsBobby Patrick |
+| 91 | 15 | Tami Spence |
+| 92 | 15 | Una |
 | 93 | 15 | Delitra Perkins Hatter |
 | 94 | 15 | Jess |
-| 95 | 14 | No_Other_Choice |
+| 95 | 14 | Alyssa Rae |
 | 96 | 14 | David A Alvino |
-| 97 | 14 | Alyssa Rae |
+| 97 | 14 | No_Other_Choice |
 | 98 | 13 | Oaklonboy mike |
 | 99 | 12 | Kimberly Hernandez |
 | 100 | 11 | Desiree Ryder |
 | 101 | 11 | Kp |
 | 102 | 11 | Tamara N Lee |
-| 103 | 10 | Kenny 'Tailormade' Boyd |
+| 103 | 10 | 신재호 |
 | 104 | 10 | Tishauna Virgo |
-| 105 | 10 | 신재호 |
+| 105 | 10 | $hort Dog |
 | 106 | 10 | Daddy |
-| 107 | 10 | Keke |
-| 108 | 10 | $hort Dog |
+| 107 | 10 | Kenny 'Tailormade' Boyd |
+| 108 | 10 | Keke |
 | 109 | 10 | Megan Payette |
-| 110 | 9 | Shakmar |
-| 111 | 9 | Tina Criam |
+| 110 | 9 | Tina Criam |
+| 111 | 9 | Shakmar |
 | 112 | 9 | IThinkNot |
 | 113 | 8 | Brika Brika |
 | 114 | 8 | Zachary Colegrove |
@@ -131,11 +131,11 @@
 | 123 | 6 | Taz Ballard |
 | 124 | 6 | Janine Hunter |
 | 125 | 5 | Christian Whittaker |
-| 126 | 5 | Katrina Ramey |
-| 127 | 5 | DirtiestofMikes |
+| 126 | 5 | Jennifer Moore |
+| 127 | 5 | Kidgib5 |
 | 128 | 5 | Derek Beverly |
-| 129 | 5 | Kidgib5 |
-| 130 | 5 | Jennifer Moore |
+| 129 | 5 | DirtiestofMikes |
+| 130 | 5 | Katrina Ramey |
 | 131 | 5 | Tamika Fisher |
 
 ---
