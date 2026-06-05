@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 15:31:13 UTC
+# Standings for team4 as of 2026-06-05 15:32:13 UTC
 
 **Total Participants:** 220
 
@@ -29,11 +29,11 @@
 | 21 | 180 | Andrew Dang |
 | 22 | 169 | Kimyatta Cavin |
 | 23 | 161 | Giggy Matchpiece |
-| 24 | 159 | iiPurgeV2 |
-| 25 | 149 | Kim |
-| 26 | 149 | Danny Ortiz |
-| 27 | 148 | Colin |
-| 28 | 140 | Jojo Ann |
+| 24 | 160 | Jojo Ann |
+| 25 | 159 | iiPurgeV2 |
+| 26 | 149 | Kim |
+| 27 | 149 | Danny Ortiz |
+| 28 | 148 | Colin |
 | 29 | 138 | Adam J Leong |
 | 30 | 125 | Leslie Ann Carter |
 | 31 | 121 | Ryan Paul Clark-Ramsey |
@@ -106,61 +106,61 @@
 | 98 | 29 | Joseph Hunter |
 | 99 | 28 | Sandra O'Reilly |
 | 100 | 28 | Melissa Schwager |
-| 101 | 27 | 94Blockhead |
-| 102 | 27 | Rosy Perez |
-| 103 | 26 | Lisa Ferriero-Daudin |
-| 104 | 26 | Sonia Cordero-Martinez |
-| 105 | 25 | Nicole |
-| 106 | 25 | Andrea Dre Lomeli |
-| 107 | 25 | Cool Risepiece |
-| 108 | 24 | Loony Towerer |
-| 109 | 24 | King |
+| 101 | 27 | King |
+| 102 | 27 | 94Blockhead |
+| 103 | 27 | Rosy Perez |
+| 104 | 26 | Lisa Ferriero-Daudin |
+| 105 | 26 | Sonia Cordero-Martinez |
+| 106 | 25 | Nicole |
+| 107 | 25 | Andrea Dre Lomeli |
+| 108 | 25 | Cool Risepiece |
+| 109 | 24 | Loony Towerer |
 | 110 | 24 | Spicy Peach |
-| 111 | 23 | Zippy Snaplink |
-| 112 | 23 | Stasia |
+| 111 | 23 | Stasia |
+| 112 | 23 | Melissa Quinn |
 | 113 | 23 | Sonya |
-| 114 | 23 | Melissa Quinn |
+| 114 | 23 | Zippy Snaplink |
 | 115 | 22 | Leslie Marie WarClub |
-| 116 | 22 | Karen Rodriguez |
-| 117 | 22 | Saul Fajardo |
+| 116 | 22 | Saul Fajardo |
+| 117 | 22 | Karen Rodriguez |
 | 118 | 21 | Socorro Arredondo |
-| 119 | 21 | Chill Snapclear |
-| 120 | 21 | SandyEva |
-| 121 | 21 | Keesha Muro |
+| 119 | 21 | Keesha Muro |
+| 120 | 21 | Chill Snapclear |
+| 121 | 21 | SandyEva |
 | 122 | 20 | Tony Clark |
 | 123 | 20 | Erica Pompey |
 | 124 | 20 | Betsy Froemming |
 | 125 | 20 | Silly Risegrid |
 | 126 | 20 | Mexican130 |
-| 127 | 20 | Josh Keith Travierso |
-| 128 | 20 | Jerett Coplin |
+| 127 | 20 | Maurice DeJean |
+| 128 | 20 | Josh Keith Travierso |
 | 129 | 20 | Nova Kain |
-| 130 | 20 | Maurice DeJean |
+| 130 | 20 | Jerett Coplin |
 | 131 | 19 | Solace Grace |
 | 132 | 19 | Swanky Matchfit |
-| 133 | 18 | Dexter Hammond Jr |
-| 134 | 18 | Dawn Ferrin |
-| 135 | 18 | Nancy McCalla Abercrombie |
-| 136 | 18 | Iforget |
+| 133 | 18 | Dawn Ferrin |
+| 134 | 18 | Dexter Hammond Jr |
+| 135 | 18 | Iforget |
+| 136 | 18 | Nancy McCalla Abercrombie |
 | 137 | 17 | Breezy Blockzone |
 | 138 | 17 | Samara Garcia |
-| 139 | 16 | George Palacios |
+| 139 | 16 | Chilly Pivot |
 | 140 | 16 | Ross Bryant |
-| 141 | 16 | Queen B |
-| 142 | 15 | Smiley Gridzone |
+| 141 | 16 | George Palacios |
+| 142 | 16 | Queen B |
 | 143 | 15 | Happy Shatterfit |
-| 144 | 15 | Hasty Dropzone |
-| 145 | 15 | Boldy Rumbler |
-| 146 | 15 | Jonelle Jacobs |
-| 147 | 15 | BusterBear56 |
-| 148 | 15 | Joshua Garner |
-| 149 | 15 | Stephanie Meinhart |
-| 150 | 15 | Jason Garnatz |
-| 151 | 15 | Perry Ransom |
-| 152 | 14 | Catherine Garza |
-| 153 | 14 | Lilo |
-| 154 | 14 | LilithMoon |
-| 155 | 13 | Chilly Pivot |
+| 144 | 15 | Boldy Rumbler |
+| 145 | 15 | Smiley Gridzone |
+| 146 | 15 | Hasty Dropzone |
+| 147 | 15 | Jonelle Jacobs |
+| 148 | 15 | BusterBear56 |
+| 149 | 15 | Joshua Garner |
+| 150 | 15 | Stephanie Meinhart |
+| 151 | 15 | Jason Garnatz |
+| 152 | 15 | Perry Ransom |
+| 153 | 14 | Catherine Garza |
+| 154 | 14 | Lilo |
+| 155 | 14 | LilithMoon |
 | 156 | 13 | Cherry |
 | 157 | 13 | Plucky Shatterfit |
 | 158 | 13 | GingaNinja |
