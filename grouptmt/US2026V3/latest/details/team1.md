@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 12:52:13 UTC
+# Standings for team1 as of 2026-06-05 12:52:37 UTC
 
 **Total Participants:** 79
 
@@ -25,10 +25,10 @@
 | 17 | 66 | Mafio SO |
 | 18 | 63 | Carrie English |
 | 19 | 60 | Asani CHumba |
-| 20 | 50 | Jazzy Dashpiece |
-| 21 | 50 | Slinky Party |
-| 22 | 41 | Jessica Russell |
-| 23 | 41 | Kellie Hall |
+| 20 | 59 | Kellie Hall |
+| 21 | 50 | Jazzy Dashpiece |
+| 22 | 50 | Slinky Party |
+| 23 | 41 | Jessica Russell |
 | 24 | 40 | Leavon Smith |
 | 25 | 40 | Lauraly |
 | 26 | 40 | Jean Regis |
@@ -45,8 +45,8 @@
 | 37 | 25 | Tyrone Porter |
 | 38 | 23 | Poppy Twister |
 | 39 | 22 | Tanisha Taylor |
-| 40 | 21 | Brave Balanceblock |
-| 41 | 21 | Zany Breaker |
+| 40 | 22 | Zany Breaker |
+| 41 | 21 | Brave Balanceblock |
 | 42 | 20 | Jai |
 | 43 | 20 | Trina Greenwood |
 | 44 | 19 | Amanda Woodruff |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 12:52:13 UTC
+# Standings for team2 as of 2026-06-05 12:52:37 UTC
 
 **Total Participants:** 66
 
@@ -13,11 +13,11 @@
 | 5 | 545 | Jewels |
 | 6 | 515 | Loony Faller |
 | 7 | 430 | Amy Gale |
-| 8 | 99 | Stella |
-| 9 | 75 | Angeleye A James |
-| 10 | 70 | Amanda Sikes |
-| 11 | 70 | Ashley Voelz |
-| 12 | 67 | Crystal M Sowden |
+| 8 | 163 | Crystal M Sowden |
+| 9 | 99 | Stella |
+| 10 | 75 | Angeleye A James |
+| 11 | 70 | Amanda Sikes |
+| 12 | 70 | Ashley Voelz |
 | 13 | 58 | Chipper Towerzone |
 | 14 | 45 | Michelle Anne |
 | 15 | 44 | Zaniya Brown |
@@ -49,29 +49,29 @@
 | 41 | 12 | Chirpy Grid |
 | 42 | 12 | Mary |
 | 43 | 12 | Stacey Loretta Wallace |
-| 44 | 11 | Lora Via |
-| 45 | 11 | Thy Bui |
-| 46 | 10 | Justin Furne |
-| 47 | 10 | Twisty Snapmatch |
+| 44 | 11 | Thy Bui |
+| 45 | 11 | Lora Via |
+| 46 | 10 | Twisty Snapmatch |
+| 47 | 10 | Gill |
 | 48 | 10 | Thomas Johnstone |
-| 49 | 10 | Gill |
-| 50 | 10 | Bon Lynn |
-| 51 | 10 | Joyce Galloway |
-| 52 | 10 | Berta Hurley |
-| 53 | 9 | Henny Henny |
+| 49 | 10 | Bon Lynn |
+| 50 | 10 | Joyce Galloway |
+| 51 | 10 | Berta Hurley |
+| 52 | 10 | Justin Furne |
+| 53 | 9 | Giggly Spinblock |
 | 54 | 9 | Princess Cucumber |
-| 55 | 9 | Giggly Spinblock |
-| 56 | 9 | Kelly |
-| 57 | 9 | Mama G |
-| 58 | 9 | Darla Ragsdale |
+| 55 | 9 | Darla Ragsdale |
+| 56 | 9 | Mama G |
+| 57 | 9 | Kelly |
+| 58 | 9 | Henny Henny |
 | 59 | 7 | Cherica Taylor |
 | 60 | 7 | nova |
-| 61 | 6 | fancypants |
-| 62 | 6 | Kelly Christine Trimmer |
-| 63 | 5 | Devon |
-| 64 | 5 | Allison Peterson |
+| 61 | 6 | Kelly Christine Trimmer |
+| 62 | 6 | fancypants |
+| 63 | 5 | Tashamonique Puckey |
+| 64 | 5 | Devon |
 | 65 | 5 | Epic Framezone |
-| 66 | 5 | Tashamonique Puckey |
+| 66 | 5 | Allison Peterson |
 
 ---
 *Standings created by tournaments datasource generation tool*
