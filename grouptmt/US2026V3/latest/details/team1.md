@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 14:40:14 UTC
+# Standings for team1 as of 2026-06-05 14:40:36 UTC
 
 **Total Participants:** 193
 
@@ -12,7 +12,7 @@
 | 4 | 800 | Chandler Spencer |
 | 5 | 749 | Aviv Zehavi |
 | 6 | 523 | Charnay Peacock |
-| 7 | 462 | Cj Gorman |
+| 7 | 482 | Cj Gorman |
 | 8 | 453 | Brian Stackhouse |
 | 9 | 366 | Tracy Cohen |
 | 10 | 300 | Ryan Meilleur |
@@ -57,30 +57,30 @@
 | 49 | 57 | Tosha Michelle |
 | 50 | 54 | Lauraly |
 | 51 | 51 | Comedian Gdane |
-| 52 | 50 | $hort Dog |
+| 52 | 50 | Char |
 | 53 | 50 | Yazz |
-| 54 | 50 | Donna Payne |
-| 55 | 50 | Jennifer To |
+| 54 | 50 | Jennifer To |
+| 55 | 50 | $hort Dog |
 | 56 | 50 | Slinky Party |
-| 57 | 46 | Cortaz Lawrie |
-| 58 | 45 | Jayjay Rich |
-| 59 | 43 | Block |
+| 57 | 50 | Donna Payne |
+| 58 | 46 | Cortaz Lawrie |
+| 59 | 45 | Jayjay Rich |
 | 60 | 43 | KenpachisGirl |
-| 61 | 41 | Jessica Russell |
-| 62 | 40 | Cheeky Pop |
-| 63 | 40 | Flashy Slam |
-| 64 | 40 | Leavon Smith |
-| 65 | 40 | Char |
-| 66 | 40 | Carolyn Smith |
-| 67 | 40 | Jean Regis |
-| 68 | 38 | rls |
-| 69 | 38 | Kahliah Baker |
+| 61 | 43 | Block |
+| 62 | 41 | Jessica Russell |
+| 63 | 40 | Carolyn Smith |
+| 64 | 40 | Jean Regis |
+| 65 | 40 | Flashy Slam |
+| 66 | 40 | Cheeky Pop |
+| 67 | 40 | Leavon Smith |
+| 68 | 38 | Kahliah Baker |
+| 69 | 38 | rls |
 | 70 | 37 | Steve Reno |
 | 71 | 37 | Lootch |
-| 72 | 35 | Lilly Brown |
+| 72 | 35 | Dai Bo |
 | 73 | 35 | KoolKimJay |
 | 74 | 35 | Saucy Crusher |
-| 75 | 35 | Dai Bo |
+| 75 | 35 | Lilly Brown |
 | 76 | 35 | Yashica Smith |
 | 77 | 34 | Brian Bohanon II |
 | 78 | 34 | Ciera Peace |
@@ -88,8 +88,8 @@
 | 80 | 33 | Sashaleo |
 | 81 | 32 | Tobey Marberry |
 | 82 | 32 | Melvin Simpson |
-| 83 | 31 | Boldy Pivoty |
-| 84 | 31 | Miera Nicole |
+| 83 | 31 | Miera Nicole |
+| 84 | 31 | Boldy Pivoty |
 | 85 | 30 | Saucy Faller |
 | 86 | 30 | Jack Vlasak |
 | 87 | 30 | Lester Malone |
