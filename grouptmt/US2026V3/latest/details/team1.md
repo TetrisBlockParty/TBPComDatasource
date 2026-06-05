@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 20:18:36 UTC
+# Standings for team1 as of 2026-06-05 20:19:15 UTC
 
 **Total Participants:** 470
 
@@ -51,11 +51,11 @@
 | 43 | 193 | Spicy Balancer |
 | 44 | 187 | Blockhead |
 | 45 | 185 | Teddy Davis |
-| 46 | 178 | Gotcha |
-| 47 | 177 | Chris Sladoje |
-| 48 | 166 | Tarnisha Neicy Jones |
-| 49 | 165 | Davionte DaeDae Hopson-Rodriguez |
-| 50 | 162 | Juan Kandiss Escobedo Irwin |
+| 46 | 180 | Juan Kandiss Escobedo Irwin |
+| 47 | 178 | Gotcha |
+| 48 | 177 | Chris Sladoje |
+| 49 | 166 | Tarnisha Neicy Jones |
+| 50 | 165 | Davionte DaeDae Hopson-Rodriguez |
 | 51 | 162 | Markeeta Lipscomb |
 | 52 | 159 | Asani CHumba |
 | 53 | 158 | W.A. Simpson |
@@ -88,13 +88,13 @@
 | 80 | 96 | Cortaz Lawrie |
 | 81 | 96 | Simone Bailey |
 | 82 | 95 | Nate Myers |
-| 83 | 92 | Atlantalindi |
+| 83 | 93 | Atlantalindi |
 | 84 | 88 | QueenShay AllGood |
 | 85 | 88 | Eric Mcgaughy |
-| 86 | 84 | Ciera Peace |
-| 87 | 81 | Lively Riserpiece |
-| 88 | 81 | Mafio SO |
-| 89 | 81 | Jack Vlasak |
+| 86 | 86 | Jack Vlasak |
+| 87 | 84 | Ciera Peace |
+| 88 | 81 | Lively Riserpiece |
+| 89 | 81 | Mafio SO |
 | 90 | 80 | Felicia Williams |
 | 91 | 80 | Chevalier Burley |
 | 92 | 80 | Carolyn Smith |
@@ -178,10 +178,10 @@
 | 170 | 40 | Flashy Slam |
 | 171 | 40 | Rackemwillie34 |
 | 172 | 40 | Leavon Smith |
-| 173 | 39 | Sabrina Wilkerson |
-| 174 | 39 | Jae Thompson-Tyus |
-| 175 | 39 | JesusSaves 😇 |
-| 176 | 39 | Dandy Brickfit |
+| 173 | 40 | Dandy Brickfit |
+| 174 | 39 | Sabrina Wilkerson |
+| 175 | 39 | Jae Thompson-Tyus |
+| 176 | 39 | JesusSaves 😇 |
 | 177 | 38 | rls |
 | 178 | 38 | hope |
 | 179 | 38 | Steve Reno |
@@ -421,61 +421,61 @@
 | 413 | 9 | Dana |
 | 414 | 8 | Rixo Blax |
 | 415 | 8 | Ferocity |
-| 416 | 8 | Tanesha Ga'sFinest Corbett |
-| 417 | 8 | Brenda Brogden |
-| 418 | 8 | jus_ry |
+| 416 | 8 | Brika Brika |
+| 417 | 8 | Ashley Davis |
+| 418 | 8 | Tanesha Ga'sFinest Corbett |
 | 419 | 8 | Cm |
 | 420 | 8 | Manda Allen |
-| 421 | 8 | Ashley Davis |
+| 421 | 8 | Brenda Brogden |
 | 422 | 8 | Caitlin Michele |
 | 423 | 8 | Nerdy Twistline |
 | 424 | 8 | Teresa Bean |
-| 425 | 8 | Brika Brika |
-| 426 | 7 | Kendra McIntyre |
-| 427 | 7 | Andrew Harris |
-| 428 | 7 | whatever |
+| 425 | 8 | jus_ry |
+| 426 | 7 | Tipsy Linkroll |
+| 427 | 7 | wmedina67 |
+| 428 | 7 | Kendra McIntyre |
 | 429 | 7 | Shane Brucewayne |
 | 430 | 7 | Analesia Taylor |
-| 431 | 7 | Mary2 |
-| 432 | 7 | wmedina67 |
-| 433 | 7 | Tipsy Linkroll |
-| 434 | 6 | Boricua64 |
+| 431 | 7 | whatever |
+| 432 | 7 | Andrew Harris |
+| 433 | 7 | Mary2 |
+| 434 | 6 | Wacky Towerer |
 | 435 | 6 | Jeffrey Barrows |
-| 436 | 6 | Gael Quintana |
+| 436 | 6 | Allison Baxter |
 | 437 | 6 | Jelyfish |
-| 438 | 6 | Telisha Mims |
-| 439 | 6 | NEM0228 |
-| 440 | 6 | Frances Davis |
-| 441 | 6 | Cece Fowler |
-| 442 | 6 | Wacky Towerer |
+| 438 | 6 | Boricua64 |
+| 439 | 6 | Janine Hunter |
+| 440 | 6 | Gael Quintana |
+| 441 | 6 | Telisha Mims |
+| 442 | 6 | Cece Fowler |
 | 443 | 6 | Brittnay Wright |
-| 444 | 6 | Allison Baxter |
+| 444 | 6 | Frances Davis |
 | 445 | 6 | Christopher Wallace |
-| 446 | 6 | Janine Hunter |
-| 447 | 5 | Logan Frost |
-| 448 | 5 | Kelvin Cook |
+| 446 | 6 | NEM0228 |
+| 447 | 5 | Temeshia Brooks Washington |
+| 448 | 5 | Stephanie Zuniga Tullock |
 | 449 | 5 | KeeKee Williams |
-| 450 | 5 | Temeshia Brooks Washington |
-| 451 | 5 | Vernon Hoyt |
-| 452 | 5 | Stephanie Zuniga Tullock |
-| 453 | 5 | pooh |
-| 454 | 5 | Derek Beverly |
-| 455 | 5 | Lil T |
-| 456 | 5 | Chill Linkroll |
-| 457 | 5 | Shakuria Cortia Burney |
-| 458 | 5 | Karen Denen |
-| 459 | 5 | Shawn Himes |
-| 460 | 5 | Tamika Fisher |
-| 461 | 5 | Zappy Clearfit |
-| 462 | 5 | Rieshelda Marie White |
-| 463 | 5 | Saucy Linkgrid |
-| 464 | 5 | Tito Divyn |
-| 465 | 5 | DirtiestofMikes |
-| 466 | 5 | Andre Sanon |
-| 467 | 5 | Kidgib5 |
-| 468 | 5 | Jennifer Moore |
-| 469 | 5 | Barbramerri Tarboro |
-| 470 | 5 | Jjhandsome |
+| 450 | 5 | Derek Beverly |
+| 451 | 5 | Lil T |
+| 452 | 5 | Chill Linkroll |
+| 453 | 5 | Shakuria Cortia Burney |
+| 454 | 5 | Logan Frost |
+| 455 | 5 | Karen Denen |
+| 456 | 5 | Kelvin Cook |
+| 457 | 5 | Tito Divyn |
+| 458 | 5 | Tamika Fisher |
+| 459 | 5 | Vernon Hoyt |
+| 460 | 5 | Zappy Clearfit |
+| 461 | 5 | Rieshelda Marie White |
+| 462 | 5 | Jjhandsome |
+| 463 | 5 | pooh |
+| 464 | 5 | Barbramerri Tarboro |
+| 465 | 5 | Jennifer Moore |
+| 466 | 5 | Kidgib5 |
+| 467 | 5 | Andre Sanon |
+| 468 | 5 | Saucy Linkgrid |
+| 469 | 5 | Shawn Himes |
+| 470 | 5 | DirtiestofMikes |
 
 ---
 *Standings created by tournaments datasource generation tool*
