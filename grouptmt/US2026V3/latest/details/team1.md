@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 20:08:14 UTC
+# Standings for team1 as of 2026-06-05 20:08:36 UTC
 
 **Total Participants:** 463
 
@@ -29,24 +29,24 @@
 | 21 | 345 | Brian Bohanon II |
 | 22 | 319 | Shell Lewis |
 | 23 | 292 | Sarah Marie |
-| 24 | 280 | JoJo |
-| 25 | 280 | Bre Maugh |
-| 26 | 260 | Carolynne Walker-Bell |
-| 27 | 249 | Ashley MyBeauty Daniels |
-| 28 | 248 | Debbie Carswell |
-| 29 | 244 | Tammye Turner |
-| 30 | 241 | Ivana Schmidt |
-| 31 | 240 | IamJust Neyamijah Washington Sr. |
-| 32 | 240 | Rayya Kiser |
-| 33 | 238 | Holly Jolly |
-| 34 | 237 | Leebo Slice |
-| 35 | 234 | Pdubbl3 |
-| 36 | 228 | Cassidy Butler |
-| 37 | 220 | She Higgy |
-| 38 | 215 | Abraham Espaillat |
-| 39 | 215 | Jennifer To |
-| 40 | 197 | Nerdy Snapfall |
-| 41 | 197 | Epic Snapfall |
+| 24 | 280 | Bre Maugh |
+| 25 | 280 | JoJo |
+| 26 | 262 | Epic Snapfall |
+| 27 | 260 | Carolynne Walker-Bell |
+| 28 | 249 | Ashley MyBeauty Daniels |
+| 29 | 248 | Debbie Carswell |
+| 30 | 244 | Tammye Turner |
+| 31 | 241 | Ivana Schmidt |
+| 32 | 240 | IamJust Neyamijah Washington Sr. |
+| 33 | 240 | Rayya Kiser |
+| 34 | 238 | Holly Jolly |
+| 35 | 237 | Leebo Slice |
+| 36 | 234 | Pdubbl3 |
+| 37 | 228 | Cassidy Butler |
+| 38 | 220 | She Higgy |
+| 39 | 215 | Abraham Espaillat |
+| 40 | 215 | Jennifer To |
+| 41 | 197 | Nerdy Snapfall |
 | 42 | 196 | COSA303 |
 | 43 | 193 | Spicy Balancer |
 | 44 | 185 | Teddy Davis |
@@ -68,10 +68,10 @@
 | 60 | 136 | Anthony Washington |
 | 61 | 135 | Voice |
 | 62 | 135 | Jawaun Daniels |
-| 63 | 130 | Lashaunda |
-| 64 | 127 | SPNLover24 |
-| 65 | 126 | Cee Emm |
-| 66 | 121 | Robyn Caldwell |
+| 63 | 132 | Robyn Caldwell |
+| 64 | 130 | Lashaunda |
+| 65 | 127 | SPNLover24 |
+| 66 | 126 | Cee Emm |
 | 67 | 116 | Eartha Brown |
 | 68 | 113 | Po Marley |
 | 69 | 111 | Shalena Marie Humphrey |
