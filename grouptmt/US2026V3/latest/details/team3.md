@@ -1,6 +1,6 @@
-# Standings for team3 as of 2026-06-05 12:23:13 UTC
+# Standings for team3 as of 2026-06-05 12:24:13 UTC
 
-**Total Participants:** 43
+**Total Participants:** 47
 
 ## Participant Scores
 
@@ -10,45 +10,49 @@
 | 2 | 391 | Tom Borja |
 | 3 | 200 | AL Ferrari |
 | 4 | 160 | Woodrow Weatherford |
-| 5 | 110 | Bee |
+| 5 | 120 | Bee |
 | 6 | 104 | Perach Alima Shoa |
 | 7 | 97 | Tami Czenkus |
 | 8 | 80 | Angel Hopkins |
 | 9 | 71 | Alex Celio |
 | 10 | 44 | Adam Bronk |
-| 11 | 38 | SteffXx |
-| 12 | 35 | Rebecca Alidre Holmes-Anderson |
-| 13 | 35 | Paul Hudak |
-| 14 | 32 | Dedicated |
-| 15 | 30 | Jerome Carlile |
-| 16 | 28 | Carolyn Smith |
-| 17 | 26 | Kevin C. Moe |
-| 18 | 26 | Lively Matchpiece |
-| 19 | 23 | Charles Love |
-| 20 | 22 | Crystal Carlson |
-| 21 | 18 | Denice Myers |
-| 22 | 18 | Alison Gomes |
-| 23 | 15 | Quirky Curve |
-| 24 | 15 | kittensden |
-| 25 | 13 | Raven Rogue |
-| 26 | 12 | Wacky Catcher |
-| 27 | 12 | Robby Beltran |
-| 28 | 12 | Violet |
-| 29 | 11 | Carrie Ness |
-| 30 | 10 | Lisa Stone |
-| 31 | 10 | Shabae |
-| 32 | 9 | Salky |
-| 33 | 9 | Tnaughty |
-| 34 | 9 | Sarah Jane |
-| 35 | 9 | Angie Rodriguez |
-| 36 | 9 | Jess Jess |
-| 37 | 8 | David Glisson |
-| 38 | 8 | kendra |
-| 39 | 8 | Jonathan Russell |
-| 40 | 6 | Nonni |
-| 41 | 6 | Happy Balancer |
-| 42 | 5 | Loony Rollfit |
-| 43 | 5 | Victoria Lofquist |
+| 11 | 40 | Jerome Carlile |
+| 12 | 38 | SteffXx |
+| 13 | 35 | Rebecca Alidre Holmes-Anderson |
+| 14 | 35 | Paul Hudak |
+| 15 | 33 | Raya |
+| 16 | 32 | Dedicated |
+| 17 | 28 | Carolyn Smith |
+| 18 | 26 | Kevin C. Moe |
+| 19 | 26 | Lively Matchpiece |
+| 20 | 23 | Charles Love |
+| 21 | 22 | Crystal Carlson |
+| 22 | 19 | Sabrina34 |
+| 23 | 18 | Denice Myers |
+| 24 | 18 | Alison Gomes |
+| 25 | 18 | ToxicTrinity |
+| 26 | 15 | Quirky Curve |
+| 27 | 15 | kittensden |
+| 28 | 14 | Sara Pederson |
+| 29 | 13 | Raven Rogue |
+| 30 | 12 | Wacky Catcher |
+| 31 | 12 | Jonathan Russell |
+| 32 | 12 | Violet |
+| 33 | 12 | Robby Beltran |
+| 34 | 11 | Carrie Ness |
+| 35 | 10 | Lisa Stone |
+| 36 | 10 | Shabae |
+| 37 | 9 | Nonni |
+| 38 | 9 | Tnaughty |
+| 39 | 9 | Angie Rodriguez |
+| 40 | 9 | Salky |
+| 41 | 9 | Sarah Jane |
+| 42 | 9 | Jess Jess |
+| 43 | 8 | David Glisson |
+| 44 | 8 | kendra |
+| 45 | 6 | Happy Balancer |
+| 46 | 5 | Loony Rollfit |
+| 47 | 5 | Victoria Lofquist |
 
 ---
 *Standings created by tournaments datasource generation tool*
