@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 13:46:34 UTC
+# Standings for team4 as of 2026-06-05 13:47:13 UTC
 
 **Total Participants:** 106
 
@@ -38,14 +38,14 @@
 | 30 | 50 | Jesse Olive |
 | 31 | 40 | Tyra Brooke Everman Forest |
 | 32 | 39 | Anthony Kollar |
-| 33 | 38 | Charity Thomas |
-| 34 | 38 | Jonathan Hewitt |
+| 33 | 38 | Jonathan Hewitt |
+| 34 | 38 | Charity Thomas |
 | 35 | 37 | Dana Fontanez |
-| 36 | 36 | Shiny Brick |
-| 37 | 36 | Mrs |
+| 36 | 36 | Mrs |
+| 37 | 36 | Shiny Brick |
 | 38 | 35 | Tactical_B |
-| 39 | 34 | Clashy |
-| 40 | 34 | jojo |
+| 39 | 34 | jojo |
+| 40 | 34 | Clashy |
 | 41 | 33 | Lul Babie |
 | 42 | 31 | Jasmine Marie |
 | 43 | 30 | Will E Ayala |

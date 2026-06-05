@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 13:46:34 UTC
+# Standings for team1 as of 2026-06-05 13:47:13 UTC
 
-**Total Participants:** 126
+**Total Participants:** 127
 
 ## Participant Scores
 
@@ -38,82 +38,82 @@
 | 30 | 60 | Asani CHumba |
 | 31 | 50 | Slinky Party |
 | 32 | 48 | David Fuentes |
-| 33 | 43 | Block |
-| 34 | 43 | KenpachisGirl |
+| 33 | 43 | KenpachisGirl |
+| 34 | 43 | Block |
 | 35 | 42 | Frisky Fall |
 | 36 | 41 | Jessica Russell |
 | 37 | 40 | Cheeky Pop |
 | 38 | 40 | Leavon Smith |
-| 39 | 40 | Jean Regis |
-| 40 | 40 | Lauraly |
-| 41 | 40 | Char |
+| 39 | 40 | Char |
+| 40 | 40 | Jean Regis |
+| 41 | 40 | Lauraly |
 | 42 | 38 | rls |
 | 43 | 37 | Lootch |
 | 44 | 37 | Steve Reno |
-| 45 | 35 | Yashica Smith |
-| 46 | 35 | Dai Bo |
-| 47 | 35 | Saucy Crusher |
-| 48 | 35 | KoolKimJay |
+| 45 | 36 | Ashley MyBeauty Daniels |
+| 46 | 35 | Saucy Crusher |
+| 47 | 35 | Dai Bo |
+| 48 | 35 | Yashica Smith |
 | 49 | 35 | Lilly Brown |
-| 50 | 32 | Tobey Marberry |
-| 51 | 30 | Casey Chapman |
-| 52 | 30 | Brian Bohanon II |
-| 53 | 30 | Lester Malone |
-| 54 | 30 | Saucy Faller |
-| 55 | 30 | Ashley MyBeauty Daniels |
+| 50 | 35 | KoolKimJay |
+| 51 | 32 | Tobey Marberry |
+| 52 | 30 | Lester Malone |
+| 53 | 30 | Saucy Faller |
+| 54 | 30 | Casey Chapman |
+| 55 | 30 | Brian Bohanon II |
 | 56 | 29 | hope |
 | 57 | 28 | John Staub |
 | 58 | 27 | Jae Thompson-Tyus |
-| 59 | 27 | Angela R Wilson |
-| 60 | 27 | Zany Breaker |
-| 61 | 27 | Charlene Baltimore |
-| 62 | 25 | Tyrone Porter |
-| 63 | 25 | Hasty Pivoty |
+| 59 | 27 | Charlene Baltimore |
+| 60 | 27 | Angela R Wilson |
+| 61 | 27 | Zany Breaker |
+| 62 | 25 | Hasty Pivoty |
+| 63 | 25 | Tyrone Porter |
 | 64 | 24 | Flashy Slam |
 | 65 | 23 | Poppy Twister |
 | 66 | 22 | Tanisha Taylor |
 | 67 | 21 | Melvin Simpson |
 | 68 | 21 | Brave Balanceblock |
 | 69 | 21 | Sarah Marie |
-| 70 | 20 | Trina Greenwood |
-| 71 | 20 | Chevalier Burley |
-| 72 | 20 | Jai |
-| 73 | 20 | Kimmie Gargano |
-| 74 | 20 | Tony P Burke |
-| 75 | 19 | Amanda Woodruff |
-| 76 | 19 | Shanjerrica Taylor Rosell |
-| 77 | 19 | Saucy Tile |
-| 78 | 19 | Jenni |
-| 79 | 19 | Brenda Malachi-butler |
-| 80 | 18 | Sashaleo |
-| 81 | 18 | AleahKCH |
-| 82 | 18 | Sunny Clicky |
-| 83 | 18 | Tyree Tman Shinette |
+| 70 | 20 | Chevalier Burley |
+| 71 | 20 | Jai |
+| 72 | 20 | Trina Greenwood |
+| 73 | 20 | Tony P Burke |
+| 74 | 20 | Kimmie Gargano |
+| 75 | 19 | Jenni |
+| 76 | 19 | Saucy Tile |
+| 77 | 19 | Brenda Malachi-butler |
+| 78 | 19 | Amanda Woodruff |
+| 79 | 19 | Shanjerrica Taylor Rosell |
+| 80 | 18 | AleahKCH |
+| 81 | 18 | Tyree Tman Shinette |
+| 82 | 18 | Sashaleo |
+| 83 | 18 | Sunny Clicky |
 | 84 | 17 | Kimberly Red |
-| 85 | 17 | Boldy Pivoty |
-| 86 | 17 | Rikki Moran |
-| 87 | 16 | MsBobby Patrick |
-| 88 | 16 | Sylvia Offically A Mcgowan |
+| 85 | 17 | Rikki Moran |
+| 86 | 17 | Boldy Pivoty |
+| 87 | 16 | Sylvia Offically A Mcgowan |
+| 88 | 16 | MsBobby Patrick |
 | 89 | 15 | Una |
-| 90 | 15 | Delitra Perkins Hatter |
+| 90 | 15 | Tami Spence |
 | 91 | 15 | Jess |
-| 92 | 15 | Tami Spence |
-| 93 | 14 | Alyssa Rae |
-| 94 | 14 | David A Alvino |
+| 92 | 15 | Delitra Perkins Hatter |
+| 93 | 14 | David A Alvino |
+| 94 | 14 | Alyssa Rae |
 | 95 | 13 | Oaklonboy mike |
 | 96 | 12 | Kimberly Hernandez |
 | 97 | 11 | Desiree Ryder |
-| 98 | 10 | Megan Payette |
+| 98 | 10 | Tishauna Virgo |
 | 99 | 10 | 신재호 |
-| 100 | 10 | Daddy |
-| 101 | 10 | Kenny 'Tailormade' Boyd |
+| 100 | 10 | Megan Payette |
+| 101 | 10 | No_Other_Choice |
 | 102 | 10 | Keke |
-| 103 | 10 | $hort Dog |
-| 104 | 10 | Tishauna Virgo |
-| 105 | 10 | No_Other_Choice |
-| 106 | 9 | Tamara N Lee |
-| 107 | 9 | Shakmar |
-| 108 | 9 | IThinkNot |
+| 103 | 10 | Daddy |
+| 104 | 10 | $hort Dog |
+| 105 | 10 | Kenny 'Tailormade' Boyd |
+| 106 | 9 | Shakmar |
+| 107 | 9 | IThinkNot |
+| 108 | 9 | Tamara N Lee |
 | 109 | 9 | Tina Criam |
 | 110 | 8 | Brika Brika |
 | 111 | 8 | Zachary Colegrove |
@@ -130,8 +130,9 @@
 | 122 | 5 | Tamika Fisher |
 | 123 | 5 | Christian Whittaker |
 | 124 | 5 | Jennifer Moore |
-| 125 | 5 | Derek Beverly |
-| 126 | 5 | DirtiestofMikes |
+| 125 | 5 | Kidgib5 |
+| 126 | 5 | Derek Beverly |
+| 127 | 5 | DirtiestofMikes |
 
 ---
 *Standings created by tournaments datasource generation tool*
