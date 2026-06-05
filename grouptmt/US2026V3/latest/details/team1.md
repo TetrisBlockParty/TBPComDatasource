@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 22:52:15 UTC
+# Standings for team1 as of 2026-06-05 22:52:36 UTC
 
 **Total Participants:** 574
 
@@ -424,20 +424,20 @@
 | 416 | 15 | b |
 | 417 | 15 | DeAngelo Sorrells |
 | 418 | 15 | Laura Long |
-| 419 | 15 | Jess |
-| 420 | 15 | Hasty Match |
-| 421 | 15 | Lit757 |
-| 422 | 15 | Nicole Freeman |
-| 423 | 15 | Amy Lynn Leifheit |
-| 424 | 15 | Cheery Clusterbuilder |
-| 425 | 15 | Elaine Youmans |
-| 426 | 14 | La'Chae Nickole |
+| 419 | 15 | Zachary Colegrove |
+| 420 | 15 | Jess |
+| 421 | 15 | Hasty Match |
+| 422 | 15 | Lit757 |
+| 423 | 15 | Nicole Freeman |
+| 424 | 15 | Amy Lynn Leifheit |
+| 425 | 15 | Cheery Clusterbuilder |
+| 426 | 15 | Elaine Youmans |
 | 427 | 14 | Vivian Bunnell Myers |
 | 428 | 14 | Rissa Rozay |
 | 429 | 14 | Aaron Hartmann |
-| 430 | 14 | Alyssa Rae |
-| 431 | 14 | Zany Pivot |
-| 432 | 14 | Zachary Colegrove |
+| 430 | 14 | La'Chae Nickole |
+| 431 | 14 | Alyssa Rae |
+| 432 | 14 | Zany Pivot |
 | 433 | 14 | No_Other_Choice |
 | 434 | 14 | Jerrone Epps |
 | 435 | 14 | FunTime |
@@ -513,73 +513,73 @@
 | 505 | 9 | Shakmar |
 | 506 | 8 | Rixo Blax |
 | 507 | 8 | Ferocity |
-| 508 | 8 | Tanesha Ga'sFinest Corbett |
-| 509 | 8 | jus_ry |
-| 510 | 8 | Brenda Brogden |
+| 508 | 8 | Shawna Passwater |
+| 509 | 8 | Ashley Davis |
+| 510 | 8 | Tanesha Ga'sFinest Corbett |
 | 511 | 8 | Cm |
 | 512 | 8 | Mahagony Small |
-| 513 | 8 | Joseph Vs Cap |
-| 514 | 8 | Caitlin Michele |
-| 515 | 8 | Ashley Davis |
+| 513 | 8 | Caitlin Michele |
+| 514 | 8 | C Lo Green |
+| 515 | 8 | Joseph Vs Cap |
 | 516 | 8 | Nerdy Twistline |
-| 517 | 8 | C Lo Green |
-| 518 | 8 | Teresa Bean |
-| 519 | 8 | Sarah Barnum |
+| 517 | 8 | Brenda Brogden |
+| 518 | 8 | jus_ry |
+| 519 | 8 | Teresa Bean |
 | 520 | 8 | Chevonne Huggins |
-| 521 | 8 | Shawna Passwater |
-| 522 | 7 | Mary2 |
-| 523 | 7 | wmedina67 |
-| 524 | 7 | Kendra McIntyre |
-| 525 | 7 | Shane Brucewayne |
+| 521 | 8 | Sarah Barnum |
+| 522 | 7 | Analesia Taylor |
+| 523 | 7 | Andrew Harris |
+| 524 | 7 | Shane Brucewayne |
+| 525 | 7 | Lakiesha Crawford |
 | 526 | 7 | whatever |
-| 527 | 7 | Analesia Taylor |
+| 527 | 7 | Mary2 |
 | 528 | 7 | Jayson |
-| 529 | 7 | Andrew Harris |
-| 530 | 7 | Lakiesha Crawford |
+| 529 | 7 | wmedina67 |
+| 530 | 7 | Kendra McIntyre |
 | 531 | 6 | Happy Blocky |
-| 532 | 6 | Daring Riserfit |
+| 532 | 6 | Janine Hunter |
 | 533 | 6 | Boricua64 |
 | 534 | 6 | Jelyfish |
 | 535 | 6 | Jeffrey Barrows |
 | 536 | 6 | Novaa |
-| 537 | 6 | Gael Quintana |
-| 538 | 6 | Wacky Towerer |
-| 539 | 6 | NEM0228 |
-| 540 | 6 | Frances Davis |
-| 541 | 6 | Allison Baxter |
-| 542 | 6 | Solomon Valarie |
-| 543 | 6 | Brittnay Wright |
-| 544 | 6 | Christopher Wallace |
-| 545 | 6 | Wu May |
-| 546 | 6 | Janine Hunter |
-| 547 | 5 | KeeKee Williams |
-| 548 | 5 | Temeshia Brooks Washington |
-| 549 | 5 | Rieshelda Marie White |
-| 550 | 5 | Saucy Linkgrid |
-| 551 | 5 | Stephanie Zuniga Tullock |
-| 552 | 5 | Logan Frost |
-| 553 | 5 | Jjhandsome |
-| 554 | 5 | Spunky Strikerbuilder |
-| 555 | 5 | Jasmine Hariston-Estis |
-| 556 | 5 | Derek Beverly |
-| 557 | 5 | Lil T |
-| 558 | 5 | Hasty Brickzone |
-| 559 | 5 | DirtiestofMikes |
-| 560 | 5 | Chill Linkroll |
-| 561 | 5 | the guy |
-| 562 | 5 | Kidgib5 |
-| 563 | 5 | Jennifer Moore |
-| 564 | 5 | Shakuria Cortia Burney |
-| 565 | 5 | Mommy Frank |
-| 566 | 5 | Tito Divyn |
-| 567 | 5 | Shawn Himes |
-| 568 | 5 | Tamika Fisher |
-| 569 | 5 | Zappy Clearfit |
-| 570 | 5 | Duckey |
-| 571 | 5 | Andre Sanon |
-| 572 | 5 | Barbramerri Tarboro |
-| 573 | 5 | pooh |
-| 574 | 5 | Vernon Hoyt |
+| 537 | 6 | Solomon Valarie |
+| 538 | 6 | Daring Riserfit |
+| 539 | 6 | Allison Baxter |
+| 540 | 6 | Wacky Towerer |
+| 541 | 6 | Brittnay Wright |
+| 542 | 6 | Wu May |
+| 543 | 6 | Christopher Wallace |
+| 544 | 6 | Frances Davis |
+| 545 | 6 | Gael Quintana |
+| 546 | 6 | NEM0228 |
+| 547 | 5 | DirtiestofMikes |
+| 548 | 5 | Zappy Clearfit |
+| 549 | 5 | Hasty Brickzone |
+| 550 | 5 | Lil T |
+| 551 | 5 | KeeKee Williams |
+| 552 | 5 | Temeshia Brooks Washington |
+| 553 | 5 | Rieshelda Marie White |
+| 554 | 5 | Derek Beverly |
+| 555 | 5 | Saucy Linkgrid |
+| 556 | 5 | Jasmine Hariston-Estis |
+| 557 | 5 | Spunky Strikerbuilder |
+| 558 | 5 | Stephanie Zuniga Tullock |
+| 559 | 5 | Duckey |
+| 560 | 5 | the guy |
+| 561 | 5 | Logan Frost |
+| 562 | 5 | Chill Linkroll |
+| 563 | 5 | Tamika Fisher |
+| 564 | 5 | Andre Sanon |
+| 565 | 5 | Shawn Himes |
+| 566 | 5 | Barbramerri Tarboro |
+| 567 | 5 | pooh |
+| 568 | 5 | Jjhandsome |
+| 569 | 5 | Tito Divyn |
+| 570 | 5 | Vernon Hoyt |
+| 571 | 5 | Mommy Frank |
+| 572 | 5 | Shakuria Cortia Burney |
+| 573 | 5 | Jennifer Moore |
+| 574 | 5 | Kidgib5 |
 
 ---
 *Standings created by tournaments datasource generation tool*
