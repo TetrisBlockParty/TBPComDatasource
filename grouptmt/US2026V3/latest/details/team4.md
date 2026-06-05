@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 19:48:36 UTC
+# Standings for team4 as of 2026-06-05 19:49:15 UTC
 
 **Total Participants:** 408
 
@@ -361,10 +361,10 @@
 | 353 | 10 | Silly Fallzone |
 | 354 | 9 | Todd Hamilton |
 | 355 | 9 | Angela Adamo-Tash |
-| 356 | 9 | Esmond Johnson IV |
-| 357 | 9 | Scrumptious |
-| 358 | 9 | Cheeky Fallzone |
-| 359 | 9 | Chirpy Snapclear |
+| 356 | 9 | Allysonjo Varela |
+| 357 | 9 | Esmond Johnson IV |
+| 358 | 9 | Scrumptious |
+| 359 | 9 | Cheeky Fallzone |
 | 360 | 9 | Hotstuff |
 | 361 | 9 | Corie A. Brinson |
 | 362 | 9 | DuvaDova Ahava |
@@ -372,48 +372,48 @@
 | 364 | 9 | fmp |
 | 365 | 9 | Alex Dawn |
 | 366 | 9 | Tana-Marie Lynn McCarty-Rolf |
-| 367 | 9 | Frothy Riseclear |
-| 368 | 8 | Mac James |
-| 369 | 8 | Allysonjo Varela |
-| 370 | 8 | Stephanie Williams |
-| 371 | 8 | tj |
+| 367 | 9 | Chirpy Snapclear |
+| 368 | 9 | Frothy Riseclear |
+| 369 | 8 | Mac James |
+| 370 | 8 | tj |
+| 371 | 8 | Stephanie Williams |
 | 372 | 8 | taya |
 | 373 | 8 | Matthew Wilcox |
 | 374 | 8 | yourmomz |
-| 375 | 7 | Chipper Hitter |
-| 376 | 7 | Sharron Mullins |
+| 375 | 7 | Sharron Mullins |
+| 376 | 7 | Chipper Hitter |
 | 377 | 7 | Crystal Parker Bryant |
-| 378 | 7 | Erica Armstrong Baz |
-| 379 | 7 | John Brandon Kinney |
-| 380 | 7 | Lacey Decker |
-| 381 | 7 | Blessedmom865 |
+| 378 | 7 | SupaFly |
+| 379 | 7 | Lacey Decker |
+| 380 | 7 | Blessedmom865 |
+| 381 | 7 | Erica Armstrong Baz |
 | 382 | 7 | Christy Petty |
-| 383 | 7 | SupaFly |
+| 383 | 7 | John Brandon Kinney |
 | 384 | 7 | Kari Smith |
-| 385 | 6 | Slinky Snapfit |
-| 386 | 6 | Deb 07 |
-| 387 | 6 | Shepreneur Sade |
-| 388 | 6 | Meghan Etchells |
-| 389 | 6 | Rachel |
-| 390 | 6 | Shannon Rivera |
-| 391 | 6 | Alyson M Kehler |
-| 392 | 6 | Delashawne Hodgson |
-| 393 | 6 | Margarita Santana |
-| 394 | 5 | Kellz M Bee |
-| 395 | 5 | Kimberly Ann |
-| 396 | 5 | Ali Nicole |
-| 397 | 5 | Mighty1 |
-| 398 | 5 | Cflixer |
-| 399 | 5 | Tahira Patrice |
-| 400 | 5 | Swanky Zigzag |
-| 401 | 5 | Purple Queen |
-| 402 | 5 | Destiny Georgia Reeves Beller |
-| 403 | 5 | Tippet |
-| 404 | 5 | Nicole Ambrose |
-| 405 | 5 | Lively Cascadeclear |
-| 406 | 5 | Danny Frausto |
-| 407 | 5 | Jeremy Barry |
-| 408 | 5 | Ricky Colvin |
+| 385 | 6 | Destiny Georgia Reeves Beller |
+| 386 | 6 | Shannon Rivera |
+| 387 | 6 | Rachel |
+| 388 | 6 | Shepreneur Sade |
+| 389 | 6 | Slinky Snapfit |
+| 390 | 6 | Deb 07 |
+| 391 | 6 | Meghan Etchells |
+| 392 | 6 | Margarita Santana |
+| 393 | 6 | Alyson M Kehler |
+| 394 | 6 | Delashawne Hodgson |
+| 395 | 5 | Cflixer |
+| 396 | 5 | Tippet |
+| 397 | 5 | Kimberly Ann |
+| 398 | 5 | Ricky Colvin |
+| 399 | 5 | Jeremy Barry |
+| 400 | 5 | Kellz M Bee |
+| 401 | 5 | Ali Nicole |
+| 402 | 5 | Mighty1 |
+| 403 | 5 | Tahira Patrice |
+| 404 | 5 | Danny Frausto |
+| 405 | 5 | Swanky Zigzag |
+| 406 | 5 | Purple Queen |
+| 407 | 5 | Lively Cascadeclear |
+| 408 | 5 | Nicole Ambrose |
 
 ---
 *Standings created by tournaments datasource generation tool*
