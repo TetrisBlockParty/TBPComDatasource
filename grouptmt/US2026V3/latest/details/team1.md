@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:32:13 UTC
+# Standings for team1 as of 2026-06-05 17:32:35 UTC
 
 **Total Participants:** 336
 
@@ -60,10 +60,10 @@
 | 52 | 103 | KenpachisGirl |
 | 53 | 100 | She Higgy |
 | 54 | 100 | Nerdy Snapfall |
-| 55 | 100 | Cool Bridger |
-| 56 | 100 | Asani CHumba |
-| 57 | 96 | Cortaz Lawrie |
-| 58 | 96 | Hasty Pivoty |
+| 55 | 100 | Hasty Pivoty |
+| 56 | 100 | Cool Bridger |
+| 57 | 100 | Asani CHumba |
+| 58 | 96 | Cortaz Lawrie |
 | 59 | 95 | Nate Myers |
 | 60 | 90 | 신재호 |
 | 61 | 86 | SPNLover24 |
@@ -334,14 +334,14 @@
 | 326 | 5 | Derek Beverly |
 | 327 | 5 | Lil T |
 | 328 | 5 | DirtiestofMikes |
-| 329 | 5 | Kidgib5 |
-| 330 | 5 | Jennifer Moore |
-| 331 | 5 | Vernon Hoyt |
-| 332 | 5 | Tamika Fisher |
-| 333 | 5 | Zappy Clearfit |
-| 334 | 5 | Jjhandsome |
-| 335 | 5 | Barbramerri Tarboro |
-| 336 | 5 | Shawn Himes |
+| 329 | 5 | Shawn Himes |
+| 330 | 5 | Kidgib5 |
+| 331 | 5 | Jennifer Moore |
+| 332 | 5 | Vernon Hoyt |
+| 333 | 5 | Tamika Fisher |
+| 334 | 5 | Zappy Clearfit |
+| 335 | 5 | Jjhandsome |
+| 336 | 5 | Barbramerri Tarboro |
 
 ---
 *Standings created by tournaments datasource generation tool*
