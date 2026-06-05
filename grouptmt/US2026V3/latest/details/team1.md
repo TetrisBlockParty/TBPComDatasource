@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:06:35 UTC
+# Standings for team1 as of 2026-06-05 17:07:14 UTC
 
 **Total Participants:** 322
 
@@ -292,42 +292,42 @@
 | 284 | 9 | Tina Criam |
 | 285 | 8 | Rixo Blax |
 | 286 | 8 | Brika Brika |
-| 287 | 8 | Sammie Walker |
-| 288 | 8 | Breezy Catcher |
-| 289 | 8 | Jessie N Michael Silvers |
-| 290 | 8 | Tanesha Ga'sFinest Corbett |
-| 291 | 8 | Caitlin Michele |
-| 292 | 8 | Taz Ballard |
-| 293 | 7 | Mary2 |
-| 294 | 7 | Kendra McIntyre |
-| 295 | 7 | wmedina67 |
-| 296 | 7 | Shane Brucewayne |
-| 297 | 7 | Lillie Blossom Dixon |
-| 298 | 7 | whatever |
-| 299 | 7 | Andrew Harris |
-| 300 | 6 | Cece Fowler |
-| 301 | 6 | Frances Davis |
-| 302 | 6 | Jelyfish |
-| 303 | 6 | Brittnay Wright |
-| 304 | 6 | Jeffrey Barrows |
-| 305 | 6 | Allison Baxter |
-| 306 | 6 | Christopher Wallace |
-| 307 | 6 | Janine Hunter |
-| 308 | 5 | KeeKee Williams |
+| 287 | 8 | Tanesha Ga'sFinest Corbett |
+| 288 | 8 | Caitlin Michele |
+| 289 | 8 | Taz Ballard |
+| 290 | 8 | Sammie Walker |
+| 291 | 8 | Breezy Catcher |
+| 292 | 8 | Jessie N Michael Silvers |
+| 293 | 7 | Shane Brucewayne |
+| 294 | 7 | Mary2 |
+| 295 | 7 | Andrew Harris |
+| 296 | 7 | Kendra McIntyre |
+| 297 | 7 | whatever |
+| 298 | 7 | Lillie Blossom Dixon |
+| 299 | 7 | wmedina67 |
+| 300 | 6 | Frances Davis |
+| 301 | 6 | Jelyfish |
+| 302 | 6 | Jeffrey Barrows |
+| 303 | 6 | Allison Baxter |
+| 304 | 6 | Janine Hunter |
+| 305 | 6 | Christopher Wallace |
+| 306 | 6 | Cece Fowler |
+| 307 | 6 | Brittnay Wright |
+| 308 | 5 | Barbramerri Tarboro |
 | 309 | 5 | Stephanie Zuniga Tullock |
-| 310 | 5 | Jjhandsome |
-| 311 | 5 | pooh |
-| 312 | 5 | Barbramerri Tarboro |
-| 313 | 5 | Temeshia Brooks Washington |
-| 314 | 5 | Zappy Clearfit |
-| 315 | 5 | Tamika Fisher |
-| 316 | 5 | Jennifer Moore |
-| 317 | 5 | Kidgib5 |
+| 310 | 5 | Temeshia Brooks Washington |
+| 311 | 5 | KeeKee Williams |
+| 312 | 5 | Derek Beverly |
+| 313 | 5 | Lil T |
+| 314 | 5 | Jjhandsome |
+| 315 | 5 | pooh |
+| 316 | 5 | Zappy Clearfit |
+| 317 | 5 | DirtiestofMikes |
 | 318 | 5 | Shawn Himes |
-| 319 | 5 | DirtiestofMikes |
-| 320 | 5 | Lil T |
-| 321 | 5 | Derek Beverly |
-| 322 | 5 | Vernon Hoyt |
+| 319 | 5 | Kidgib5 |
+| 320 | 5 | Jennifer Moore |
+| 321 | 5 | Vernon Hoyt |
+| 322 | 5 | Tamika Fisher |
 
 ---
 *Standings created by tournaments datasource generation tool*
