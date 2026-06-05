@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:40:37 UTC
+# Standings for team1 as of 2026-06-05 17:41:15 UTC
 
 **Total Participants:** 343
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 12000 | Ariel |
-| 2 | 2305 | Timothy Robert |
+| 2 | 2505 | Timothy Robert |
 | 3 | 1334 | Tracy Cohen |
 | 4 | 1050 | jaimie |
 | 5 | 950 | Chandler Spencer |
@@ -337,18 +337,18 @@
 | 329 | 5 | Stephanie Zuniga Tullock |
 | 330 | 5 | Andre Sanon |
 | 331 | 5 | Temeshia Brooks Washington |
-| 332 | 5 | Jjhandsome |
-| 333 | 5 | Derek Beverly |
-| 334 | 5 | Lil T |
-| 335 | 5 | DirtiestofMikes |
-| 336 | 5 | Shawn Himes |
-| 337 | 5 | Kidgib5 |
+| 332 | 5 | Vernon Hoyt |
+| 333 | 5 | Jjhandsome |
+| 334 | 5 | pooh |
+| 335 | 5 | Barbramerri Tarboro |
+| 336 | 5 | Zappy Clearfit |
+| 337 | 5 | Tamika Fisher |
 | 338 | 5 | Jennifer Moore |
-| 339 | 5 | Tamika Fisher |
-| 340 | 5 | Zappy Clearfit |
-| 341 | 5 | Barbramerri Tarboro |
-| 342 | 5 | pooh |
-| 343 | 5 | Vernon Hoyt |
+| 339 | 5 | Kidgib5 |
+| 340 | 5 | Shawn Himes |
+| 341 | 5 | DirtiestofMikes |
+| 342 | 5 | Lil T |
+| 343 | 5 | Derek Beverly |
 
 ---
 *Standings created by tournaments datasource generation tool*
