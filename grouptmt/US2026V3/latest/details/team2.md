@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 16:58:34 UTC
+# Standings for team2 as of 2026-06-05 16:59:14 UTC
 
 **Total Participants:** 322
 
@@ -44,7 +44,7 @@
 | 36 | 111 | NickandJess Reynolds |
 | 37 | 105 | Ackerman 85 |
 | 38 | 103 | Spunky Cascadeclear |
-| 39 | 101 | La chulis |
+| 39 | 102 | La chulis |
 | 40 | 100 | LEW |
 | 41 | 99 | Melissa Abbott |
 | 42 | 93 | Ariel Gundersen |
@@ -112,36 +112,36 @@
 | 104 | 42 | Sully |
 | 105 | 42 | Henny Henny |
 | 106 | 42 | Charity Hauser |
-| 107 | 42 | Shylo Bryant-Brunson |
-| 108 | 42 | Snazzy Smasher |
-| 109 | 41 | Ava Speedy |
-| 110 | 41 | Jenny Coffer |
-| 111 | 40 | Kevin Mccoy |
-| 112 | 40 | Nicole Chestnut |
-| 113 | 40 | Sherry Ann |
-| 114 | 40 | Spicy Balanceblock |
-| 115 | 40 | Loopy Dropper |
-| 116 | 40 | Jat |
-| 117 | 40 | Dane Marko |
+| 107 | 42 | Marquetta Johnson |
+| 108 | 42 | Shylo Bryant-Brunson |
+| 109 | 42 | Snazzy Smasher |
+| 110 | 41 | Ava Speedy |
+| 111 | 41 | Jenny Coffer |
+| 112 | 40 | Kevin Mccoy |
+| 113 | 40 | Nicole Chestnut |
+| 114 | 40 | Sherry Ann |
+| 115 | 40 | Spicy Balanceblock |
+| 116 | 40 | Loopy Dropper |
+| 117 | 40 | Jat |
 | 118 | 40 | Larry Cross |
-| 119 | 39 | Jason Lamporte |
-| 120 | 39 | Becca Marie |
-| 121 | 39 | Xandrea Jones |
-| 122 | 38 | Harper |
+| 119 | 40 | Dane Marko |
+| 120 | 39 | Jason Lamporte |
+| 121 | 39 | Becca Marie |
+| 122 | 39 | Xandrea Jones |
 | 123 | 38 | Sarah Jane Gorsuch |
-| 124 | 38 | Jason P. Schwartz |
+| 124 | 38 | Harper |
 | 125 | 38 | Lush Party |
-| 126 | 38 | Nicole Hogue |
-| 127 | 37 | Andre Love |
-| 128 | 37 | James Ward |
-| 129 | 36 | Mtnblzr |
-| 130 | 35 | Thomas Johnstone |
-| 131 | 35 | Jason Cunningham |
-| 132 | 35 | Natalie M. Arredondo |
-| 133 | 35 | Marquetta Johnson |
-| 134 | 35 | Kelly |
-| 135 | 35 | Jackie Walker |
-| 136 | 35 | Frilly Match |
+| 126 | 38 | Jason P. Schwartz |
+| 127 | 38 | Nicole Hogue |
+| 128 | 38 | Frilly Match |
+| 129 | 37 | Andre Love |
+| 130 | 37 | James Ward |
+| 131 | 36 | Mtnblzr |
+| 132 | 35 | Thomas Johnstone |
+| 133 | 35 | Jason Cunningham |
+| 134 | 35 | Natalie M. Arredondo |
+| 135 | 35 | Kelly |
+| 136 | 35 | Jackie Walker |
 | 137 | 35 | Josie Mendivil |
 | 138 | 34 | Marylin Eacker |
 | 139 | 34 | Funway998 |
