@@ -1,13 +1,13 @@
-# Standings for team2 as of 2026-06-05 13:16:35 UTC
+# Standings for team2 as of 2026-06-05 13:17:13 UTC
 
-**Total Participants:** 84
+**Total Participants:** 86
 
 ## Participant Scores
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 1702 | Puce guide 9156 |
-| 2 | 1600 | Mocha |
+| 1 | 1900 | Mocha |
+| 2 | 1702 | Puce guide 9156 |
 | 3 | 1240 | Jewels |
 | 4 | 1100 | Kathleen M Cox |
 | 5 | 941 | Crystal M Sowden |
@@ -18,39 +18,39 @@
 | 10 | 168 | Amber Triguero |
 | 11 | 83 | Ashley Voelz |
 | 12 | 75 | Angeleye A James |
-| 13 | 70 | Amanda Sikes |
-| 14 | 70 | LittleHippoEars |
+| 13 | 70 | LittleHippoEars |
+| 14 | 70 | Amanda Sikes |
 | 15 | 58 | April Addis |
 | 16 | 58 | Chipper Towerzone |
-| 17 | 50 | Martha Lynn Wiggins |
-| 18 | 49 | Jamie Fenyus |
+| 17 | 57 | Jamie Fenyus |
+| 18 | 50 | Martha Lynn Wiggins |
 | 19 | 48 | Spicy Basepiece |
 | 20 | 45 | Michelle Anne |
 | 21 | 44 | Zaniya Brown |
 | 22 | 42 | Henny Henny |
-| 23 | 40 | Kevin Mccoy |
-| 24 | 40 | Bon Lynn |
-| 25 | 37 | Jumpy Dashpiece |
-| 26 | 35 | Jason Cunningham |
-| 27 | 33 | Tango Sierra |
-| 28 | 31 | Kenzie |
-| 29 | 31 | Rick |
-| 30 | 30 | Peter Fogg |
-| 31 | 30 | Patti Ward |
-| 32 | 28 | Nathan Walker |
-| 33 | 28 | Sara BlueEyes |
-| 34 | 27 | Michael Carmichael |
-| 35 | 26 | Quina Jesse Fejaran |
-| 36 | 26 | Ariel Gundersen |
-| 37 | 26 | Rachel Huber |
-| 38 | 25 | Jgato |
-| 39 | 24 | Dayna Messer-Thelen |
-| 40 | 24 | Jessica Perkins |
-| 41 | 24 | A.j. Langley |
-| 42 | 23 | Damion Morrison |
-| 43 | 23 | Harper |
-| 44 | 23 | Brittni Lawrence |
-| 45 | 23 | IncrediDragon |
+| 23 | 40 | Bon Lynn |
+| 24 | 40 | Kevin Mccoy |
+| 25 | 38 | Harper |
+| 26 | 37 | Jumpy Dashpiece |
+| 27 | 35 | Jason Cunningham |
+| 28 | 33 | Tango Sierra |
+| 29 | 32 | Rick |
+| 30 | 31 | Kenzie |
+| 31 | 30 | Peter Fogg |
+| 32 | 30 | Patti Ward |
+| 33 | 28 | Nathan Walker |
+| 34 | 28 | Sara BlueEyes |
+| 35 | 27 | Michael Carmichael |
+| 36 | 26 | Quina Jesse Fejaran |
+| 37 | 26 | Ariel Gundersen |
+| 38 | 26 | Rachel Huber |
+| 39 | 25 | Jgato |
+| 40 | 24 | Dayna Messer-Thelen |
+| 41 | 24 | Jessica Perkins |
+| 42 | 24 | A.j. Langley |
+| 43 | 23 | IncrediDragon |
+| 44 | 23 | Damion Morrison |
+| 45 | 23 | Brittni Lawrence |
 | 46 | 22 | Jeff Pottgether |
 | 47 | 21 | Kelly |
 | 48 | 20 | AcardBoardBox |
@@ -61,35 +61,37 @@
 | 53 | 15 | James Ward |
 | 54 | 14 | Andre Love |
 | 55 | 12 | Stacey Loretta Wallace |
-| 56 | 12 | Chirpy Grid |
-| 57 | 12 | Diamond Balotje |
-| 58 | 12 | Mary |
+| 56 | 12 | Diamond Balotje |
+| 57 | 12 | Mary |
+| 58 | 12 | Chirpy Grid |
 | 59 | 11 | Yany |
-| 60 | 11 | Lora Via |
-| 61 | 11 | Thy Bui |
+| 60 | 11 | Thy Bui |
+| 61 | 11 | Lora Via |
 | 62 | 10 | Berta Hurley |
-| 63 | 10 | Twisty Snapmatch |
-| 64 | 10 | Jennifer Bell |
-| 65 | 10 | Gill |
-| 66 | 10 | Thomas Johnstone |
-| 67 | 10 | Joyce Galloway |
-| 68 | 10 | Donna Casey |
-| 69 | 10 | Justin Furne |
-| 70 | 9 | Princess Cucumber |
-| 71 | 9 | Giggly Spinblock |
-| 72 | 9 | Mama G |
-| 73 | 9 | Rhonda Driskill |
+| 63 | 10 | Joyce Galloway |
+| 64 | 10 | Twisty Snapmatch |
+| 65 | 10 | Jennifer Bell |
+| 66 | 10 | Gill |
+| 67 | 10 | Chesney |
+| 68 | 10 | Thomas Johnstone |
+| 69 | 10 | Donna Casey |
+| 70 | 10 | Justin Furne |
+| 71 | 9 | Mama G |
+| 72 | 9 | Princess Cucumber |
+| 73 | 9 | Giggly Spinblock |
 | 74 | 9 | Darla Ragsdale |
-| 75 | 8 | Renee Weedling |
-| 76 | 7 | nova |
+| 75 | 9 | Rhonda Driskill |
+| 76 | 8 | Renee Weedling |
 | 77 | 7 | Elizabeth Elaine Coursey |
 | 78 | 7 | Epic Framezone |
 | 79 | 7 | Cherica Taylor |
-| 80 | 6 | Kelly Christine Trimmer |
-| 81 | 6 | fancypants |
-| 82 | 5 | Tashamonique Puckey |
-| 83 | 5 | Devon |
-| 84 | 5 | Allison Peterson |
+| 80 | 7 | nova |
+| 81 | 6 | Kelly Christine Trimmer |
+| 82 | 6 | fancypants |
+| 83 | 6 | Justin Stark |
+| 84 | 5 | Devon |
+| 85 | 5 | Allison Peterson |
+| 86 | 5 | Tashamonique Puckey |
 
 ---
 *Standings created by tournaments datasource generation tool*

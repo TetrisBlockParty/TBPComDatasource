@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:16:35 UTC
+# Standings for team1 as of 2026-06-05 13:17:13 UTC
 
 **Total Participants:** 104
 
@@ -59,48 +59,48 @@
 | 51 | 27 | Zany Breaker |
 | 52 | 27 | Jae Thompson-Tyus |
 | 53 | 25 | Tyrone Porter |
-| 54 | 23 | Poppy Twister |
-| 55 | 23 | David Fuentes |
-| 56 | 23 | Yashica Smith |
+| 54 | 24 | Yashica Smith |
+| 55 | 23 | Poppy Twister |
+| 56 | 23 | David Fuentes |
 | 57 | 22 | Tanisha Taylor |
 | 58 | 21 | Brave Balanceblock |
-| 59 | 20 | Chevalier Burley |
-| 60 | 20 | Trina Greenwood |
-| 61 | 20 | Jai |
-| 62 | 19 | Brenda Malachi-butler |
+| 59 | 20 | Trina Greenwood |
+| 60 | 20 | Jai |
+| 61 | 20 | Chevalier Burley |
+| 62 | 19 | Amanda Woodruff |
 | 63 | 19 | Shanjerrica Taylor Rosell |
-| 64 | 19 | Amanda Woodruff |
-| 65 | 19 | Jenni |
-| 66 | 18 | AleahKCH |
-| 67 | 18 | Tyree Tman Shinette |
-| 68 | 18 | Brian Bohanon II |
-| 69 | 17 | Kimberly Red |
-| 70 | 17 | Rikki Moran |
-| 71 | 16 | Hasty Pivoty |
-| 72 | 16 | Sylvia Offically A Mcgowan |
-| 73 | 15 | Una |
-| 74 | 15 | Tami Spence |
-| 75 | 15 | Ashley MyBeauty Daniels |
-| 76 | 14 | David A Alvino |
-| 77 | 14 | Alyssa Rae |
-| 78 | 14 | Tobey Marberry |
-| 79 | 13 | Oaklonboy mike |
-| 80 | 12 | Kimmie Gargano |
-| 81 | 12 | MsBobby Patrick |
-| 82 | 12 | Boldy Pivoty |
-| 83 | 11 | Desiree Ryder |
-| 84 | 10 | Sarah Marie |
+| 64 | 19 | Jenni |
+| 65 | 19 | Brenda Malachi-butler |
+| 66 | 18 | Hasty Pivoty |
+| 67 | 18 | AleahKCH |
+| 68 | 18 | Tyree Tman Shinette |
+| 69 | 18 | Sunny Clicky |
+| 70 | 18 | Brian Bohanon II |
+| 71 | 17 | Rikki Moran |
+| 72 | 17 | Kimberly Red |
+| 73 | 16 | Sylvia Offically A Mcgowan |
+| 74 | 15 | Una |
+| 75 | 15 | Tami Spence |
+| 76 | 15 | Ashley MyBeauty Daniels |
+| 77 | 14 | David A Alvino |
+| 78 | 14 | MsBobby Patrick |
+| 79 | 14 | Tobey Marberry |
+| 80 | 14 | Alyssa Rae |
+| 81 | 13 | Oaklonboy mike |
+| 82 | 12 | Kimmie Gargano |
+| 83 | 12 | Boldy Pivoty |
+| 84 | 11 | Desiree Ryder |
 | 85 | 10 | Tishauna Virgo |
-| 86 | 10 | 신재호 |
+| 86 | 10 | Sarah Marie |
 | 87 | 10 | Keke |
-| 88 | 10 | Megan Payette |
-| 89 | 10 | Daddy |
-| 90 | 9 | Kimberly Hernandez |
-| 91 | 9 | IThinkNot |
-| 92 | 9 | Tina Criam |
-| 93 | 8 | Sammie Walker |
+| 88 | 10 | Daddy |
+| 89 | 10 | Megan Payette |
+| 90 | 10 | 신재호 |
+| 91 | 9 | Kimberly Hernandez |
+| 92 | 9 | IThinkNot |
+| 93 | 9 | Tina Criam |
 | 94 | 8 | Brika Brika |
-| 95 | 7 | Sunny Clicky |
+| 95 | 8 | Sammie Walker |
 | 96 | 7 | Mary2 |
 | 97 | 7 | Kendra McIntyre |
 | 98 | 6 | Janine Hunter |
