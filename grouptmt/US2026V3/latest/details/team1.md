@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 22:14:15 UTC
+# Standings for team1 as of 2026-06-05 22:14:40 UTC
 
 **Total Participants:** 554
 
@@ -67,47 +67,47 @@
 | 59 | 158 | W.A. Simpson |
 | 60 | 156 | Jessica Russell |
 | 61 | 151 | Dacia Hicks |
-| 62 | 140 | Ann Chung |
-| 63 | 140 | Felicia Cain |
-| 64 | 140 | Sara Meri |
-| 65 | 138 | Eric Mcgaughy |
-| 66 | 137 | BlackQueen105 |
-| 67 | 136 | Anthony Washington |
-| 68 | 135 | Voice |
-| 69 | 135 | Jawaun Daniels |
-| 70 | 132 | Robyn Caldwell |
-| 71 | 131 | Jason Mungin |
-| 72 | 130 | Emily Wright |
-| 73 | 130 | Helen Smith |
-| 74 | 130 | Lashaunda |
-| 75 | 127 | SPNLover24 |
-| 76 | 126 | Cee Emm |
-| 77 | 121 | D'Andra Stewart |
-| 78 | 118 | Hasty Pivoty |
-| 79 | 116 | Eartha Brown |
-| 80 | 115 | Tamara N Lee |
-| 81 | 114 | Mimi 1.0 |
-| 82 | 111 | Shalena Marie Humphrey |
-| 83 | 110 | Atlantalindi |
-| 84 | 107 | TBABYJ |
-| 85 | 105 | Katrina Ramey |
-| 86 | 104 | Frisky Fall |
-| 87 | 103 | David Fuentes |
-| 88 | 103 | KenpachisGirl |
-| 89 | 100 | Jessica Carter |
+| 62 | 147 | MACHETEEDDIE513 |
+| 63 | 140 | Sara Meri |
+| 64 | 140 | Felicia Cain |
+| 65 | 140 | Ann Chung |
+| 66 | 138 | Eric Mcgaughy |
+| 67 | 137 | BlackQueen105 |
+| 68 | 136 | Anthony Washington |
+| 69 | 135 | Voice |
+| 70 | 135 | Jawaun Daniels |
+| 71 | 132 | Robyn Caldwell |
+| 72 | 131 | Jason Mungin |
+| 73 | 130 | Emily Wright |
+| 74 | 130 | Helen Smith |
+| 75 | 130 | Lashaunda |
+| 76 | 127 | SPNLover24 |
+| 77 | 126 | Cee Emm |
+| 78 | 121 | D'Andra Stewart |
+| 79 | 118 | Hasty Pivoty |
+| 80 | 116 | Eartha Brown |
+| 81 | 115 | Tamara N Lee |
+| 82 | 114 | Mimi 1.0 |
+| 83 | 111 | Shalena Marie Humphrey |
+| 84 | 110 | Atlantalindi |
+| 85 | 107 | TBABYJ |
+| 86 | 105 | Katrina Ramey |
+| 87 | 104 | Frisky Fall |
+| 88 | 103 | David Fuentes |
+| 89 | 103 | KenpachisGirl |
 | 90 | 100 | Cool Bridger |
 | 91 | 100 | Char |
-| 92 | 100 | Zippy Lifter |
-| 93 | 99 | 신재호 |
-| 94 | 99 | Amber Wilson |
-| 95 | 96 | Cortaz Lawrie |
-| 96 | 96 | Simone Bailey |
-| 97 | 95 | Nate Myers |
+| 92 | 100 | Jessica Carter |
+| 93 | 100 | Zippy Lifter |
+| 94 | 99 | 신재호 |
+| 95 | 99 | Amber Wilson |
+| 96 | 96 | Cortaz Lawrie |
+| 97 | 96 | Simone Bailey |
 | 98 | 95 | Songne Arif |
-| 99 | 92 | Dawn L Washington-Feuquay |
-| 100 | 91 | Lesley Brunkus Cianfaglione |
-| 101 | 89 | Lively Riserpiece |
-| 102 | 89 | MACHETEEDDIE513 |
+| 99 | 95 | Nate Myers |
+| 100 | 92 | Dawn L Washington-Feuquay |
+| 101 | 91 | Lesley Brunkus Cianfaglione |
+| 102 | 89 | Lively Riserpiece |
 | 103 | 88 | QueenShay AllGood |
 | 104 | 86 | Jack Vlasak |
 | 105 | 84 | Ciera Peace |
@@ -120,8 +120,8 @@
 | 112 | 80 | Jamie Willis |
 | 113 | 80 | Rachel Zimmerman |
 | 114 | 80 | Jazzy Dashpiece |
-| 115 | 80 | Nobles Brandon |
-| 116 | 80 | Felicia Williams |
+| 115 | 80 | Felicia Williams |
+| 116 | 80 | Nobles Brandon |
 | 117 | 79 | Shanell Thomas |
 | 118 | 76 | Giggly Shatterline |
 | 119 | 76 | Mic Balew |
@@ -494,72 +494,72 @@
 | 486 | 9 | Mars |
 | 487 | 8 | Ferocity |
 | 488 | 8 | Rixo Blax |
-| 489 | 8 | Tanesha Ga'sFinest Corbett |
-| 490 | 8 | Cm |
-| 491 | 8 | Mahagony Small |
-| 492 | 8 | jus_ry |
-| 493 | 8 | Caitlin Michele |
+| 489 | 8 | Shawna Passwater |
+| 490 | 8 | Mahagony Small |
+| 491 | 8 | Cm |
+| 492 | 8 | Caitlin Michele |
+| 493 | 8 | Tanesha Ga'sFinest Corbett |
 | 494 | 8 | Nerdy Twistline |
-| 495 | 8 | Brenda Brogden |
+| 495 | 8 | Ashley Davis |
 | 496 | 8 | Teresa Bean |
 | 497 | 8 | Terrie |
-| 498 | 8 | Ashley Davis |
-| 499 | 8 | Chevonne Huggins |
-| 500 | 8 | Sarah Barnum |
-| 501 | 8 | Shawna Passwater |
-| 502 | 7 | Kendra McIntyre |
-| 503 | 7 | Analesia Taylor |
+| 498 | 8 | Joseph Vs Cap |
+| 499 | 8 | Brenda Brogden |
+| 500 | 8 | jus_ry |
+| 501 | 8 | Chevonne Huggins |
+| 502 | 8 | Sarah Barnum |
+| 503 | 7 | Mary2 |
 | 504 | 7 | Andrew Harris |
-| 505 | 7 | Jayson |
-| 506 | 7 | wmedina67 |
+| 505 | 7 | Analesia Taylor |
+| 506 | 7 | Kendra McIntyre |
 | 507 | 7 | Shane Brucewayne |
-| 508 | 7 | Mary2 |
+| 508 | 7 | Jayson |
 | 509 | 7 | whatever |
-| 510 | 6 | Betsy B. Yohan |
-| 511 | 6 | Jelyfish |
-| 512 | 6 | Boricua64 |
-| 513 | 6 | Jeffrey Barrows |
-| 514 | 6 | Gael Quintana |
-| 515 | 6 | Daring Riserfit |
-| 516 | 6 | Jumpy Striker |
-| 517 | 6 | Frances Davis |
+| 510 | 7 | wmedina67 |
+| 511 | 6 | Jumpy Striker |
+| 512 | 6 | Janine Hunter |
+| 513 | 6 | Gael Quintana |
+| 514 | 6 | Boricua64 |
+| 515 | 6 | Jelyfish |
+| 516 | 6 | Jeffrey Barrows |
+| 517 | 6 | Daring Riserfit |
 | 518 | 6 | Wacky Towerer |
-| 519 | 6 | NEM0228 |
-| 520 | 6 | Janine Hunter |
-| 521 | 6 | Wu May |
-| 522 | 6 | Christopher Wallace |
-| 523 | 6 | Allison Baxter |
-| 524 | 6 | Michael Jones |
-| 525 | 6 | Brittnay Wright |
-| 526 | 5 | Joseph Vs Cap |
-| 527 | 5 | Vernon Hoyt |
-| 528 | 5 | Quirky Fallgrid |
-| 529 | 5 | Temeshia Brooks Washington |
-| 530 | 5 | Saucy Linkgrid |
-| 531 | 5 | Stephanie Zuniga Tullock |
-| 532 | 5 | KeeKee Williams |
+| 519 | 6 | Allison Baxter |
+| 520 | 6 | Wu May |
+| 521 | 6 | Betsy B. Yohan |
+| 522 | 6 | Michael Jones |
+| 523 | 6 | NEM0228 |
+| 524 | 6 | Christopher Wallace |
+| 525 | 6 | Frances Davis |
+| 526 | 6 | Brittnay Wright |
+| 527 | 5 | Saucy Linkgrid |
+| 528 | 5 | Chill Linkroll |
+| 529 | 5 | DirtiestofMikes |
+| 530 | 5 | Hasty Brickzone |
+| 531 | 5 | Lil T |
+| 532 | 5 | Derek Beverly |
 | 533 | 5 | Rieshelda Marie White |
-| 534 | 5 | pooh |
-| 535 | 5 | Jjhandsome |
-| 536 | 5 | Jasmine Hariston-Estis |
-| 537 | 5 | Derek Beverly |
-| 538 | 5 | Lil T |
-| 539 | 5 | Hasty Brickzone |
-| 540 | 5 | DirtiestofMikes |
-| 541 | 5 | Chill Linkroll |
-| 542 | 5 | Kidgib5 |
-| 543 | 5 | Jennifer Moore |
-| 544 | 5 | the guy |
-| 545 | 5 | Mommy Frank |
-| 546 | 5 | Shakuria Cortia Burney |
+| 534 | 5 | KeeKee Williams |
+| 535 | 5 | Shawn Himes |
+| 536 | 5 | Temeshia Brooks Washington |
+| 537 | 5 | Jasmine Hariston-Estis |
+| 538 | 5 | Tito Divyn |
+| 539 | 5 | Stephanie Zuniga Tullock |
+| 540 | 5 | Kidgib5 |
+| 541 | 5 | Tamika Fisher |
+| 542 | 5 | Zappy Clearfit |
+| 543 | 5 | Duckey |
+| 544 | 5 | Logan Frost |
+| 545 | 5 | Andre Sanon |
+| 546 | 5 | Mommy Frank |
 | 547 | 5 | Barbramerri Tarboro |
-| 548 | 5 | Andre Sanon |
-| 549 | 5 | Logan Frost |
-| 550 | 5 | Duckey |
-| 551 | 5 | Zappy Clearfit |
-| 552 | 5 | Tamika Fisher |
-| 553 | 5 | Shawn Himes |
-| 554 | 5 | Tito Divyn |
+| 548 | 5 | Jjhandsome |
+| 549 | 5 | Shakuria Cortia Burney |
+| 550 | 5 | the guy |
+| 551 | 5 | Vernon Hoyt |
+| 552 | 5 | Jennifer Moore |
+| 553 | 5 | Quirky Fallgrid |
+| 554 | 5 | pooh |
 
 ---
 *Standings created by tournaments datasource generation tool*
