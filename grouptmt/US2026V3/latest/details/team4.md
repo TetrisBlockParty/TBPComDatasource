@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 22:16:15 UTC
+# Standings for team4 as of 2026-06-05 22:16:37 UTC
 
 **Total Participants:** 494
 
@@ -14,7 +14,7 @@
 | 6 | 3040 | Jerald Jones |
 | 7 | 2126 | Irene Arreguin |
 | 8 | 1853 | Daring Ziggy |
-| 9 | 1703 | delilahbelle |
+| 9 | 1738 | delilahbelle |
 | 10 | 1515 | ktothet |
 | 11 | 1169 | Cinny |
 | 12 | 1135 | Nia Mayfield |
@@ -449,38 +449,38 @@
 | 441 | 9 | Alex Dawn |
 | 442 | 9 | DuvaDova Ahava |
 | 443 | 9 | fmp |
-| 444 | 9 | Angela Adamo-Tash |
-| 445 | 9 | Corie A. Brinson |
-| 446 | 9 | Hotstuff |
-| 447 | 9 | Chirpy Snapclear |
-| 448 | 9 | Tommy Thomas |
+| 444 | 9 | Tommy Thomas |
+| 445 | 9 | Todd Hamilton |
+| 446 | 9 | Kat Foreman |
+| 447 | 9 | Tana-Marie Lynn McCarty-Rolf |
+| 448 | 9 | Allysonjo Varela |
 | 449 | 9 | Stotty |
 | 450 | 9 | Scrumptious |
-| 451 | 9 | Allysonjo Varela |
-| 452 | 9 | Kat Foreman |
-| 453 | 9 | Tana-Marie Lynn McCarty-Rolf |
-| 454 | 9 | Todd Hamilton |
-| 455 | 8 | Stephanie Williams |
-| 456 | 8 | Matthew Wilcox |
+| 451 | 9 | Chirpy Snapclear |
+| 452 | 9 | Hotstuff |
+| 453 | 9 | Corie A. Brinson |
+| 454 | 9 | Angela Adamo-Tash |
+| 455 | 9 | Shepreneur Sade |
+| 456 | 8 | Stephanie Williams |
 | 457 | 8 | tj |
-| 458 | 8 | Manolo Canety |
-| 459 | 8 | Jason Moves |
-| 460 | 8 | Mac James |
-| 461 | 7 | Lacey Decker |
-| 462 | 7 | John Brandon Kinney |
-| 463 | 7 | Kari Smith |
-| 464 | 7 | Christy Petty |
+| 458 | 8 | Matthew Wilcox |
+| 459 | 8 | Manolo Canety |
+| 460 | 8 | Jason Moves |
+| 461 | 8 | Mac James |
+| 462 | 7 | Lacey Decker |
+| 463 | 7 | John Brandon Kinney |
+| 464 | 7 | Kari Smith |
 | 465 | 7 | Crystal Parker Bryant |
 | 466 | 7 | Chipper Hitter |
-| 467 | 7 | Sharron Mullins |
-| 468 | 7 | Erica Armstrong Baz |
-| 469 | 7 | Toon Up |
-| 470 | 6 | Angela Correa |
-| 471 | 6 | Shepreneur Sade |
-| 472 | 6 | Shannon Rivera |
-| 473 | 6 | Slinky Snapfit |
-| 474 | 6 | GETBOXED! |
-| 475 | 6 | Goodie |
+| 467 | 7 | Christy Petty |
+| 468 | 7 | Sharron Mullins |
+| 469 | 7 | Erica Armstrong Baz |
+| 470 | 7 | Toon Up |
+| 471 | 6 | Goodie |
+| 472 | 6 | Angela Correa |
+| 473 | 6 | GETBOXED! |
+| 474 | 6 | Shannon Rivera |
+| 475 | 6 | Slinky Snapfit |
 | 476 | 6 | Delashawne Hodgson |
 | 477 | 6 | Rachel |
 | 478 | 6 | Deb 07 |
@@ -488,18 +488,18 @@
 | 480 | 5 | Tippet |
 | 481 | 5 | Swanky Zigzag |
 | 482 | 5 | Shawna Downey |
-| 483 | 5 | Cheery Twister |
-| 484 | 5 | Mighty1 |
-| 485 | 5 | Kimberly Ann |
+| 483 | 5 | Yvette Johnson |
+| 484 | 5 | Kellz M Bee |
+| 485 | 5 | Purple Queen |
 | 486 | 5 | Lolita Nettles |
-| 487 | 5 | Ali Nicole |
-| 488 | 5 | Danny Frausto |
-| 489 | 5 | Cflixer |
-| 490 | 5 | Lively Cascadeclear |
-| 491 | 5 | Tahira Patrice |
-| 492 | 5 | Purple Queen |
-| 493 | 5 | Yvette Johnson |
-| 494 | 5 | Kellz M Bee |
+| 487 | 5 | Mighty1 |
+| 488 | 5 | Cheery Twister |
+| 489 | 5 | Kimberly Ann |
+| 490 | 5 | Ali Nicole |
+| 491 | 5 | Cflixer |
+| 492 | 5 | Danny Frausto |
+| 493 | 5 | Lively Cascadeclear |
+| 494 | 5 | Tahira Patrice |
 
 ---
 *Standings created by tournaments datasource generation tool*
