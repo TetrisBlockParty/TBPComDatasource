@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 14:55:15 UTC
+# Standings for team2 as of 2026-06-05 14:56:14 UTC
 
 **Total Participants:** 203
 
@@ -8,8 +8,8 @@
 | :- | :- | :- |
 | 1 | 4800 | Tim Ix |
 | 2 | 3081 | Summer Harrison |
-| 3 | 2957 | Crystal M Sowden |
-| 4 | 2620 | Puce guide 9156 |
+| 3 | 3020 | Puce guide 9156 |
+| 4 | 2957 | Crystal M Sowden |
 | 5 | 2500 | Mocha |
 | 6 | 2300 | Jewels |
 | 7 | 1900 | boblawboblaw |
@@ -24,11 +24,11 @@
 | 16 | 199 | Stella |
 | 17 | 190 | Kellie Sharp Godfrey |
 | 18 | 177 | Lindsay Klemp |
-| 19 | 173 | Jamie Jones |
-| 20 | 158 | Amy Nicole McCanne |
-| 21 | 126 | Nathan Walker |
-| 22 | 104 | NickandJess Reynolds |
-| 23 | 100 | Betty Barrett |
+| 19 | 175 | Betty Barrett |
+| 20 | 173 | Jamie Jones |
+| 21 | 158 | Amy Nicole McCanne |
+| 22 | 126 | Nathan Walker |
+| 23 | 104 | NickandJess Reynolds |
 | 24 | 89 | Chipper Stackbuilder |
 | 25 | 83 | Ashley Voelz |
 | 26 | 81 | Alissa Ary |
@@ -38,9 +38,9 @@
 | 30 | 73 | LittleHippoEars |
 | 31 | 70 | Amanda Sikes |
 | 32 | 63 | Zarah Kettler |
-| 33 | 61 | Jessica Perkins |
+| 33 | 61 | Charley Bedford |
 | 34 | 61 | Bubbly Dash |
-| 35 | 61 | Charley Bedford |
+| 35 | 61 | Jessica Perkins |
 | 36 | 60 | Elizabeth Cornelius |
 | 37 | 60 | Skye Ehret |
 | 38 | 59 | April Addis |
@@ -163,51 +163,51 @@
 | 155 | 10 | Thomas Johnstone |
 | 156 | 10 | Brandy Wallace |
 | 157 | 10 | Becky Kennon |
-| 158 | 10 | Frilly Dashfit |
-| 159 | 10 | Jat |
-| 160 | 10 | Donna Casey |
-| 161 | 10 | REE4 |
-| 162 | 10 | Berta Hurley |
-| 163 | 10 | Joyce Galloway |
-| 164 | 10 | Leticia Tillman |
-| 165 | 10 | Crystal Owen Yocolano |
-| 166 | 10 | Justin Furne |
-| 167 | 10 | SEH |
+| 158 | 10 | Leticia Tillman |
+| 159 | 10 | Justin Furne |
+| 160 | 10 | Jat |
+| 161 | 10 | Frilly Dashfit |
+| 162 | 10 | Donna Casey |
+| 163 | 10 | REE4 |
+| 164 | 10 | Berta Hurley |
+| 165 | 10 | Joyce Galloway |
+| 166 | 10 | SEH |
+| 167 | 10 | Crystal Owen Yocolano |
 | 168 | 9 | Princess Cucumber |
-| 169 | 9 | Giggly Spinblock |
-| 170 | 9 | Chirpy Clearpiece |
-| 171 | 9 | Darla Ragsdale |
-| 172 | 9 | Lindsey Butler |
-| 173 | 9 | Angelique Matzke Starns |
-| 174 | 9 | Mama G |
-| 175 | 9 | Rhonda Driskill |
-| 176 | 9 | David Skelton |
+| 169 | 9 | Darla Ragsdale |
+| 170 | 9 | Lindsey Butler |
+| 171 | 9 | Rhonda Driskill |
+| 172 | 9 | Chirpy Clearpiece |
+| 173 | 9 | Mama G |
+| 174 | 9 | Angelique Matzke Starns |
+| 175 | 9 | David Skelton |
+| 176 | 9 | Giggly Spinblock |
 | 177 | 8 | Happy Riseclear |
 | 178 | 8 | Chelsea Frye |
-| 179 | 8 | Stephanie |
-| 180 | 8 | Amber Carpenter |
-| 181 | 8 | Bubbly Strikerpiece |
-| 182 | 8 | Nicky Steigerwalt |
-| 183 | 8 | Renee Weedling |
-| 184 | 7 | nova |
-| 185 | 7 | Elizabeth Elaine Coursey |
-| 186 | 7 | Epic Framezone |
-| 187 | 7 | Cherica Taylor |
-| 188 | 7 | Tashamonique Puckey |
+| 179 | 8 | Amber Carpenter |
+| 180 | 8 | Bubbly Strikerpiece |
+| 181 | 8 | Stephanie |
+| 182 | 8 | Renee Weedling |
+| 183 | 8 | Nicky Steigerwalt |
+| 184 | 7 | Rae |
+| 185 | 7 | Jackie Tupper |
+| 186 | 7 | Elizabeth Elaine Coursey |
+| 187 | 7 | nova |
+| 188 | 7 | Happy Curvebuilder |
 | 189 | 7 | Jackie Hayslip |
-| 190 | 7 | Happy Curvebuilder |
-| 191 | 7 | Rae |
-| 192 | 6 | Jackie Tupper |
-| 193 | 6 | Cheeky Dashpiece |
-| 194 | 6 | fancypants |
-| 195 | 6 | Jeanna Mendez |
-| 196 | 6 | Kelly Christine Trimmer |
-| 197 | 6 | Gina Leal |
-| 198 | 6 | Nova Nova |
-| 199 | 5 | Mercedes Lowery |
-| 200 | 5 | Allison Peterson |
-| 201 | 5 | Devon |
-| 202 | 5 | Slinky Glidezone |
+| 190 | 7 | Tashamonique Puckey |
+| 191 | 7 | Epic Framezone |
+| 192 | 7 | Cherica Taylor |
+| 193 | 6 | Jeanna Mendez |
+| 194 | 6 | Kelly Christine Trimmer |
+| 195 | 6 | Nova Nova |
+| 196 | 6 | Gina Leal |
+| 197 | 6 | fancypants |
+| 198 | 6 | Cheeky Dashpiece |
+| 199 | 5 | Allison Peterson |
+| 200 | 5 | Mercedes Lowery |
+| 201 | 5 | Slinky Glidezone |
+| 202 | 5 | Devon |
 | 203 | 5 | Jolly Twisterfit |
 
 ---
