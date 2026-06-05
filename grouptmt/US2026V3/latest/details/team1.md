@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:44:37 UTC
+# Standings for team1 as of 2026-06-05 13:45:14 UTC
 
 **Total Participants:** 124
 
@@ -11,7 +11,7 @@
 | 3 | 749 | Aviv Zehavi |
 | 4 | 527 | Chris Russell |
 | 5 | 523 | Charnay Peacock |
-| 6 | 493 | jaimie |
+| 6 | 513 | jaimie |
 | 7 | 366 | Tracy Cohen |
 | 8 | 303 | Brian Stackhouse |
 | 9 | 241 | Ivana Schmidt |
@@ -120,16 +120,16 @@
 | 112 | 7 | Mary2 |
 | 113 | 7 | Kendra McIntyre |
 | 114 | 6 | JesusSaves 😇 |
-| 115 | 6 | Ashley Espeut |
-| 116 | 6 | Jayjay Rich |
-| 117 | 6 | Taz Ballard |
-| 118 | 6 | Janine Hunter |
-| 119 | 6 | Christopher Wallace |
-| 120 | 5 | Christian Whittaker |
-| 121 | 5 | Jennifer Moore |
-| 122 | 5 | Derek Beverly |
-| 123 | 5 | DirtiestofMikes |
-| 124 | 5 | Tamika Fisher |
+| 115 | 6 | Christopher Wallace |
+| 116 | 6 | Ashley Espeut |
+| 117 | 6 | Jayjay Rich |
+| 118 | 6 | Taz Ballard |
+| 119 | 6 | Janine Hunter |
+| 120 | 5 | Tamika Fisher |
+| 121 | 5 | Christian Whittaker |
+| 122 | 5 | Jennifer Moore |
+| 123 | 5 | Derek Beverly |
+| 124 | 5 | DirtiestofMikes |
 
 ---
 *Standings created by tournaments datasource generation tool*
