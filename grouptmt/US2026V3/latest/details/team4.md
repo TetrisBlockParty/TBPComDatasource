@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 17:56:14 UTC
+# Standings for team4 as of 2026-06-05 17:56:36 UTC
 
 **Total Participants:** 337
 
@@ -37,10 +37,10 @@
 | 29 | 208 | vag1974 |
 | 30 | 200 | Leah Gorsuch |
 | 31 | 193 | Andrew Dang |
-| 32 | 180 | SMV |
-| 33 | 169 | Kimyatta Cavin |
-| 34 | 163 | Kim |
-| 35 | 161 | Giggy Matchpiece |
+| 32 | 190 | SMV |
+| 33 | 181 | Giggy Matchpiece |
+| 34 | 169 | Kimyatta Cavin |
+| 35 | 163 | Kim |
 | 36 | 159 | iiPurgeV2 |
 | 37 | 149 | Danny Ortiz |
 | 38 | 148 | Colin |
@@ -52,17 +52,17 @@
 | 44 | 120 | Shmeedo |
 | 45 | 120 | Glamorous Gracey |
 | 46 | 116 | Kayla Fuentes |
-| 47 | 108 | Bryan DjMagnum Evans |
-| 48 | 108 | Debby Ruof |
+| 47 | 108 | Debby Ruof |
+| 48 | 108 | Bryan DjMagnum Evans |
 | 49 | 107 | Shayna Vaigneur-Hall |
 | 50 | 101 | Fruitpunch |
-| 51 | 100 | Cal Renee |
-| 52 | 99 | Shelby |
-| 53 | 95 | Lush Fitblock |
-| 54 | 94 | Brandy Lynn |
-| 55 | 91 | Dayna Arthurs |
-| 56 | 90 | Trice Stevenson |
-| 57 | 90 | woopa 716 |
+| 51 | 100 | woopa 716 |
+| 52 | 100 | Cal Renee |
+| 53 | 99 | Shelby |
+| 54 | 95 | Lush Fitblock |
+| 55 | 94 | Brandy Lynn |
+| 56 | 91 | Dayna Arthurs |
+| 57 | 90 | Trice Stevenson |
 | 58 | 89 | Waxboss |
 | 59 | 87 | Limbo |
 | 60 | 86 | Rachel Lemos |
@@ -72,86 +72,86 @@
 | 64 | 83 | Becky McCool |
 | 65 | 81 | Dominique Melendez |
 | 66 | 80 | MrLoner Stoner |
-| 67 | 80 | Krista Diaz |
-| 68 | 80 | Michele Walker |
+| 67 | 80 | Michele Walker |
+| 68 | 80 | Krista Diaz |
 | 69 | 79 | Luna |
-| 70 | 78 | Tina Thomas |
-| 71 | 78 | Tawna Curry |
+| 70 | 78 | Tawna Curry |
+| 71 | 78 | Tina Thomas |
 | 72 | 75 | June Hoffman |
 | 73 | 74 | Lani |
 | 74 | 73 | Mark Fitch Jr. |
 | 75 | 71 | Chris Covington |
-| 76 | 71 | Justin Michael |
+| 76 | 71 | Lady |
 | 77 | 71 | King |
-| 78 | 71 | Lady |
+| 78 | 71 | Justin Michael |
 | 79 | 70 | Josh Keith Travierso |
 | 80 | 70 | Janae Harris |
 | 81 | 68 | Chirpy Link |
 | 82 | 68 | Keys Tome |
 | 83 | 67 | Henry Lanier |
-| 84 | 65 | Domo Dpn |
+| 84 | 65 | ktothet |
 | 85 | 65 | JuicyJuice |
-| 86 | 65 | ktothet |
+| 86 | 65 | Domo Dpn |
 | 87 | 64 | Stef |
 | 88 | 60 | Jumpy Builderpiece |
 | 89 | 60 | Blockcrusher |
-| 90 | 60 | Fran Aaron-Ring |
-| 91 | 60 | George Marshburn |
-| 92 | 60 | Amandacolle |
-| 93 | 60 | Magz |
-| 94 | 60 | Chilly Pivot |
+| 90 | 60 | Magz |
+| 91 | 60 | Amandacolle |
+| 92 | 60 | Fran Aaron-Ring |
+| 93 | 60 | Chilly Pivot |
+| 94 | 60 | George Marshburn |
 | 95 | 59 | Futrell Brent |
 | 96 | 59 | Paula Renee McCracken |
 | 97 | 58 | Jenn Fitzgerald |
 | 98 | 57 | blockhead |
 | 99 | 56 | Lisa Garcia |
 | 100 | 55 | Codey Haffner |
-| 101 | 52 | Jj Johnson |
-| 102 | 51 | Shiny Brick |
-| 103 | 51 | Cindy |
-| 104 | 51 | Amanda Snow |
-| 105 | 50 | CorieBe |
-| 106 | 50 | Nova Kain |
-| 107 | 49 | smarty |
-| 108 | 49 | Маркус Вік |
-| 109 | 49 | Daring Brickbuilder |
-| 110 | 48 | Joseph Hunter |
-| 111 | 46 | Phil Peterson |
-| 112 | 44 | Lul Babie |
-| 113 | 43 | Kay |
+| 101 | 54 | Kay |
+| 102 | 52 | Jj Johnson |
+| 103 | 51 | Shiny Brick |
+| 104 | 51 | Cindy |
+| 105 | 51 | Amanda Snow |
+| 106 | 50 | CorieBe |
+| 107 | 50 | Nova Kain |
+| 108 | 49 | smarty |
+| 109 | 49 | Маркус Вік |
+| 110 | 49 | Daring Brickbuilder |
+| 111 | 48 | Joseph Hunter |
+| 112 | 46 | Phil Peterson |
+| 113 | 44 | Lul Babie |
 | 114 | 43 | Karen Rodriguez |
 | 115 | 43 | Tipsy Zonebuilder |
 | 116 | 42 | Mrs |
 | 117 | 42 | Stacy Brown |
-| 118 | 40 | Cinta Marie |
+| 118 | 40 | Sarah Berry Stevens |
 | 119 | 40 | Tyra Brooke Everman Forest |
-| 120 | 40 | SweetChaos |
-| 121 | 40 | Leslie Bamonte |
-| 122 | 40 | Mint Marquez |
-| 123 | 40 | Destiny Starr LeValdo |
-| 124 | 40 | Sarah Berry Stevens |
-| 125 | 40 | Bouncy |
-| 126 | 39 | Anna Gribble |
+| 120 | 40 | Leslie Bamonte |
+| 121 | 40 | Bouncy |
+| 122 | 40 | Destiny Starr LeValdo |
+| 123 | 40 | Cinta Marie |
+| 124 | 40 | Mint Marquez |
+| 125 | 40 | SweetChaos |
+| 126 | 39 | Anthony Kollar |
 | 127 | 39 | Nicole |
 | 128 | 39 | Playa |
-| 129 | 39 | Anthony Kollar |
-| 130 | 38 | Charity Thomas |
-| 131 | 38 | Piece of Cake |
-| 132 | 38 | Jonathan Hewitt |
+| 129 | 39 | Anna Gribble |
+| 130 | 38 | Jonathan Hewitt |
+| 131 | 38 | Charity Thomas |
+| 132 | 38 | Piece of Cake |
 | 133 | 38 | Happy Shatterfit |
 | 134 | 37 | Dana Fontanez |
-| 135 | 37 | Tanya AfricanQueen Savage |
-| 136 | 37 | Cail |
-| 137 | 36 | jaz |
-| 138 | 36 | Taz |
+| 135 | 37 | Cail |
+| 136 | 37 | Tanya AfricanQueen Savage |
+| 137 | 36 | Taz |
+| 138 | 36 | jaz |
 | 139 | 36 | Laurie Patrick |
-| 140 | 35 | Troy Zanelli |
-| 141 | 35 | The Jazziest |
-| 142 | 35 | EmBem |
-| 143 | 35 | MattJennifer Marie Ericson |
+| 140 | 35 | The Jazziest |
+| 141 | 35 | EmBem |
+| 142 | 35 | MattJennifer Marie Ericson |
+| 143 | 35 | Scamp Jones |
 | 144 | 35 | Tactical_B |
-| 145 | 35 | Scamp Jones |
-| 146 | 35 | Joe Win |
+| 145 | 35 | Joe Win |
+| 146 | 35 | Troy Zanelli |
 | 147 | 34 | jojo |
 | 148 | 34 | Clashy |
 | 149 | 34 | Tricia Motika Cowan |
