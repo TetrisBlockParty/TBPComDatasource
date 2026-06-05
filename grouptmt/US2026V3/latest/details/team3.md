@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-05 12:32:12 UTC
+# Standings for team3 as of 2026-06-05 12:32:34 UTC
 
 **Total Participants:** 66
 
@@ -34,44 +34,44 @@
 | 26 | 27 | creepy paper |
 | 27 | 26 | Loony Strikesnap |
 | 28 | 26 | Kevin C. Moe |
-| 29 | 23 | Charles Love |
-| 30 | 21 | Denice Myers |
-| 31 | 19 | Sabrina34 |
-| 32 | 18 | ToxicTrinity |
+| 29 | 24 | Laura Slusher Updike |
+| 30 | 23 | Charles Love |
+| 31 | 21 | Denice Myers |
+| 32 | 19 | Sabrina34 |
 | 33 | 18 | Alison Gomes |
-| 34 | 15 | kittensden |
+| 34 | 18 | ToxicTrinity |
 | 35 | 15 | Quirky Curve |
-| 36 | 14 | Sara Pederson |
-| 37 | 14 | Laura Slusher Updike |
+| 36 | 15 | kittensden |
+| 37 | 14 | Sara Pederson |
 | 38 | 13 | Raven Rogue |
-| 39 | 12 | kendra |
-| 40 | 12 | Nonni |
-| 41 | 12 | Wacky Catcher |
-| 42 | 12 | Nette Babi |
-| 43 | 12 | Jonathan Russell |
-| 44 | 12 | Robby Beltran |
-| 45 | 12 | Violet |
+| 39 | 12 | Wacky Catcher |
+| 40 | 12 | kendra |
+| 41 | 12 | Jonathan Russell |
+| 42 | 12 | Nonni |
+| 43 | 12 | Nette Babi |
+| 44 | 12 | Violet |
+| 45 | 12 | Robby Beltran |
 | 46 | 11 | Lisa Stone |
-| 47 | 11 | Happy Balancer |
-| 48 | 11 | Carrie Ness |
+| 47 | 11 | Carrie Ness |
+| 48 | 11 | Happy Balancer |
 | 49 | 10 | Shabae |
 | 50 | 10 | Giddy Shift |
-| 51 | 9 | Tnaughty |
-| 52 | 9 | Jess Jess |
-| 53 | 9 | Angie Rodriguez |
-| 54 | 9 | Sarah Jane |
-| 55 | 9 | VOID EDGE |
-| 56 | 9 | Salky |
+| 51 | 9 | Angie Rodriguez |
+| 52 | 9 | Sarah Jane |
+| 53 | 9 | Salky |
+| 54 | 9 | VOID EDGE |
+| 55 | 9 | Jess Jess |
+| 56 | 9 | Tnaughty |
 | 57 | 8 | Sarah Cruthirds |
 | 58 | 8 | David Glisson |
-| 59 | 7 | Loony Rollfit |
-| 60 | 7 | DShark72 |
+| 59 | 7 | DShark72 |
+| 60 | 7 | Loony Rollfit |
 | 61 | 7 | Funky Fall |
 | 62 | 6 | bt |
 | 63 | 6 | Kimberly Kupke |
-| 64 | 5 | Garrett Hofmann |
-| 65 | 5 | Victoria Lofquist |
-| 66 | 5 | KAR |
+| 64 | 5 | KAR |
+| 65 | 5 | Garrett Hofmann |
+| 66 | 5 | Victoria Lofquist |
 
 ---
 *Standings created by tournaments datasource generation tool*

@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 12:32:12 UTC
+# Standings for team1 as of 2026-06-05 12:32:34 UTC
 
-**Total Participants:** 45
+**Total Participants:** 46
 
 ## Participant Scores
 
@@ -26,31 +26,32 @@
 | 18 | 40 | Leavon Smith |
 | 19 | 30 | Lester Malone |
 | 20 | 25 | Tyrone Porter |
-| 21 | 23 | Saucy Crusher |
-| 22 | 22 | Tanisha Taylor |
-| 23 | 19 | Amanda Woodruff |
-| 24 | 19 | Jenni |
-| 25 | 18 | Dizzy Dashy |
-| 26 | 17 | Jai |
-| 27 | 16 | Mafio SO |
-| 28 | 15 | KoolKimJay |
-| 29 | 15 | Tami Spence |
-| 30 | 14 | Ashley MyBeauty Daniels |
-| 31 | 12 | Angela R Wilson |
-| 32 | 12 | Kimmie Gargano |
-| 33 | 11 | Desiree Ryder |
-| 34 | 10 | Sarah Marie |
-| 35 | 10 | Tishauna Virgo |
-| 36 | 9 | IThinkNot |
-| 37 | 9 | Tina Criam |
-| 38 | 9 | Brave Balanceblock |
-| 39 | 8 | John Staub |
-| 40 | 8 | Zany Breaker |
-| 41 | 7 | Saucy Faller |
-| 42 | 7 | Mary2 |
-| 43 | 7 | Rikki Moran |
-| 44 | 7 | Kendra McIntyre |
-| 45 | 5 | Cheeky Pop |
+| 21 | 25 | KoolKimJay |
+| 22 | 23 | Saucy Crusher |
+| 23 | 22 | Tanisha Taylor |
+| 24 | 19 | Amanda Woodruff |
+| 25 | 19 | Jenni |
+| 26 | 18 | Dizzy Dashy |
+| 27 | 17 | Jai |
+| 28 | 16 | Sylvia Offically A Mcgowan |
+| 29 | 16 | Mafio SO |
+| 30 | 15 | Tami Spence |
+| 31 | 14 | Ashley MyBeauty Daniels |
+| 32 | 12 | Angela R Wilson |
+| 33 | 12 | Kimmie Gargano |
+| 34 | 11 | Desiree Ryder |
+| 35 | 10 | Sarah Marie |
+| 36 | 10 | Tishauna Virgo |
+| 37 | 9 | IThinkNot |
+| 38 | 9 | Tina Criam |
+| 39 | 9 | Brave Balanceblock |
+| 40 | 8 | John Staub |
+| 41 | 8 | Zany Breaker |
+| 42 | 7 | Saucy Faller |
+| 43 | 7 | Mary2 |
+| 44 | 7 | Rikki Moran |
+| 45 | 7 | Kendra McIntyre |
+| 46 | 5 | Cheeky Pop |
 
 ---
 *Standings created by tournaments datasource generation tool*
