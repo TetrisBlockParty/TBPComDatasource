@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 18:16:35 UTC
+# Standings for team1 as of 2026-06-05 18:17:14 UTC
 
 **Total Participants:** 381
 
@@ -31,8 +31,8 @@
 | 23 | 249 | Ashley MyBeauty Daniels |
 | 24 | 244 | Tammye Turner |
 | 25 | 241 | Ivana Schmidt |
-| 26 | 240 | IamJust Neyamijah Washington Sr. |
-| 27 | 240 | Rayya Kiser |
+| 26 | 240 | Rayya Kiser |
+| 27 | 240 | IamJust Neyamijah Washington Sr. |
 | 28 | 239 | Kellie Hall |
 | 29 | 238 | Holly Jolly |
 | 30 | 237 | Leebo Slice |
@@ -50,11 +50,11 @@
 | 42 | 162 | Markeeta Lipscomb |
 | 43 | 156 | Jessica Russell |
 | 44 | 151 | Dacia Hicks |
-| 45 | 140 | JoJo |
-| 46 | 140 | Ann Chung |
+| 45 | 140 | Ann Chung |
+| 46 | 140 | JoJo |
 | 47 | 137 | BlackQueen105 |
-| 48 | 135 | Teddy Davis |
-| 49 | 135 | Jawaun Daniels |
+| 48 | 135 | Jawaun Daniels |
+| 49 | 135 | Teddy Davis |
 | 50 | 132 | Blockhead |
 | 51 | 126 | Cee Emm |
 | 52 | 121 | SPNLover24 |
@@ -62,36 +62,36 @@
 | 54 | 111 | Shalena Marie Humphrey |
 | 55 | 108 | Hasty Pivoty |
 | 56 | 103 | KenpachisGirl |
-| 57 | 100 | Cool Bridger |
-| 58 | 100 | Asani CHumba |
-| 59 | 100 | She Higgy |
+| 57 | 100 | Asani CHumba |
+| 58 | 100 | She Higgy |
+| 59 | 100 | Cool Bridger |
 | 60 | 96 | Cortaz Lawrie |
 | 61 | 95 | Nate Myers |
 | 62 | 90 | 신재호 |
 | 63 | 84 | Ciera Peace |
 | 64 | 81 | Robyn Caldwell |
 | 65 | 81 | Mafio SO |
-| 66 | 80 | Carolyn Smith |
-| 67 | 80 | Char |
-| 68 | 80 | Charles Johnson |
-| 69 | 80 | Felicia Williams |
-| 70 | 80 | Jazzy Dashpiece |
-| 71 | 80 | Rachel Zimmerman |
+| 66 | 80 | Charles Johnson |
+| 67 | 80 | Felicia Williams |
+| 68 | 80 | Char |
+| 69 | 80 | Carolyn Smith |
+| 70 | 80 | Rachel Zimmerman |
+| 71 | 80 | Jazzy Dashpiece |
 | 72 | 79 | Mimi 1.0 |
 | 73 | 77 | Amber Wilson |
 | 74 | 76 | Giggly Shatterline |
-| 75 | 75 | Katrina Ramey |
-| 76 | 75 | Dizzy Dashy |
+| 75 | 75 | Dizzy Dashy |
+| 76 | 75 | Katrina Ramey |
 | 77 | 74 | Tonya McElroy |
 | 78 | 74 | ♈️ Ariesbaby |
-| 79 | 72 | Mic Balew |
-| 80 | 72 | David Fuentes |
+| 79 | 72 | David Fuentes |
+| 80 | 72 | Mic Balew |
 | 81 | 70 | $hort Dog |
 | 82 | 68 | Eric Mcgaughy |
 | 83 | 67 | Michele Elizabeth McKay-Johnson |
 | 84 | 66 | Shontanese Adams |
-| 85 | 65 | Shanell Thomas |
-| 86 | 65 | Latore Maxie |
+| 85 | 65 | Latore Maxie |
+| 86 | 65 | Shanell Thomas |
 | 87 | 65 | Frisky Fall |
 | 88 | 64 | W.A. Simpson |
 | 89 | 62 | Cheeky Pop |
@@ -99,59 +99,59 @@
 | 91 | 61 | Angela R Wilson |
 | 92 | 61 | Anthony Washington |
 | 93 | 60 | CJ Robinson |
-| 94 | 60 | Valerie Alexander |
-| 95 | 60 | Christian Pham |
-| 96 | 60 | Queenie Perry |
-| 97 | 60 | Marcheta Cervantez |
-| 98 | 60 | Boldy Liner |
+| 94 | 60 | Queenie Perry |
+| 95 | 60 | Marcheta Cervantez |
+| 96 | 60 | Christian Pham |
+| 97 | 60 | Boldy Liner |
+| 98 | 60 | Valerie Alexander |
 | 99 | 60 | Epic Snapfall |
-| 100 | 57 | Erin Sabol |
-| 101 | 57 | Tosha Michelle |
+| 100 | 57 | Tosha Michelle |
+| 101 | 57 | Erin Sabol |
 | 102 | 56 | Dena Marie Lee |
 | 103 | 55 | Kyle Franklin |
-| 104 | 54 | Lauraly |
-| 105 | 54 | Kristie |
+| 104 | 54 | Kristie |
+| 105 | 54 | Lauraly |
 | 106 | 52 | Loopy Risepiece |
 | 107 | 52 | Keke Ferguson |
 | 108 | 51 | Comedian Gdane |
-| 109 | 50 | Lilly Brown |
-| 110 | 50 | Teresa Yanira Cepeda |
-| 111 | 50 | Antoinette Jones |
-| 112 | 50 | Yazz |
-| 113 | 50 | Slinky Party |
-| 114 | 50 | Donna Payne |
-| 115 | 50 | Dai Bo |
+| 109 | 50 | Slinky Party |
+| 110 | 50 | Donna Payne |
+| 111 | 50 | Teresa Yanira Cepeda |
+| 112 | 50 | Antoinette Jones |
+| 113 | 50 | Lilly Brown |
+| 114 | 50 | Dai Bo |
+| 115 | 50 | Yazz |
 | 116 | 49 | LexiiSamayaa |
 | 117 | 49 | GrkGdess |
-| 118 | 47 | Derrius SeriousLee Burks |
-| 119 | 47 | Christopher Dreamsareality McEachin |
+| 118 | 47 | Christopher Dreamsareality McEachin |
+| 119 | 47 | Derrius SeriousLee Burks |
 | 120 | 45 | Jayjay Rich |
 | 121 | 45 | Guy Incognito |
 | 122 | 45 | Renee J. Thomas |
 | 123 | 44 | Andi McGreevy |
-| 124 | 43 | Block |
+| 124 | 44 | MamaBear |
 | 125 | 43 | IThinkNot |
-| 126 | 43 | Brenda Malachi-butler |
-| 127 | 42 | Songne Arif |
+| 126 | 43 | Block |
+| 127 | 43 | Brenda Malachi-butler |
 | 128 | 42 | sasha |
-| 129 | 40 | Rackemwillie34 |
+| 129 | 42 | Songne Arif |
 | 130 | 40 | Jean Regis |
-| 131 | 40 | Flashy Slam |
-| 132 | 40 | Leavon Smith |
-| 133 | 40 | Nisha Sunshine Jenkins |
+| 131 | 40 | Rackemwillie34 |
+| 132 | 40 | Byron Mario Cawthon |
+| 133 | 40 | Flashy Slam |
 | 134 | 40 | Heather Aurelia |
-| 135 | 40 | Byron Mario Cawthon |
-| 136 | 39 | Jae Thompson-Tyus |
-| 137 | 39 | JesusSaves 😇 |
-| 138 | 39 | Sabrina Wilkerson |
-| 139 | 38 | rls |
-| 140 | 38 | Kahliah Baker |
-| 141 | 38 | MamaBear |
+| 135 | 40 | Nisha Sunshine Jenkins |
+| 136 | 40 | Leavon Smith |
+| 137 | 39 | Sabrina Wilkerson |
+| 138 | 39 | Jae Thompson-Tyus |
+| 139 | 39 | JesusSaves 😇 |
+| 140 | 38 | Dandy Brickfit |
+| 141 | 38 | rls |
 | 142 | 38 | Steve Reno |
-| 143 | 38 | Dandy Brickfit |
-| 144 | 37 | Cranky Fall |
+| 143 | 38 | Kahliah Baker |
+| 144 | 37 | Jojo M |
 | 145 | 37 | Lootch |
-| 146 | 37 | Jojo M |
+| 146 | 37 | Cranky Fall |
 | 147 | 37 | Calvin Green |
 | 148 | 36 | Sunny Riserbuilder |
 | 149 | 35 | Kimberly Red |
@@ -373,20 +373,20 @@
 | 365 | 5 | KeeKee Williams |
 | 366 | 5 | Lil T |
 | 367 | 5 | Kidgib5 |
-| 368 | 5 | Derek Beverly |
-| 369 | 5 | Jenni Hardman |
-| 370 | 5 | Shawn Himes |
-| 371 | 5 | Tamika Fisher |
-| 372 | 5 | Zappy Clearfit |
-| 373 | 5 | Stephanie Zuniga Tullock |
-| 374 | 5 | Barbramerri Tarboro |
-| 375 | 5 | Jjhandsome |
-| 376 | 5 | Vernon Hoyt |
-| 377 | 5 | Rieshelda Marie White |
-| 378 | 5 | DirtiestofMikes |
-| 379 | 5 | Andre Sanon |
-| 380 | 5 | Jennifer Moore |
-| 381 | 5 | pooh |
+| 368 | 5 | Jennifer Moore |
+| 369 | 5 | Derek Beverly |
+| 370 | 5 | Jenni Hardman |
+| 371 | 5 | Shawn Himes |
+| 372 | 5 | Tamika Fisher |
+| 373 | 5 | Zappy Clearfit |
+| 374 | 5 | Stephanie Zuniga Tullock |
+| 375 | 5 | Barbramerri Tarboro |
+| 376 | 5 | pooh |
+| 377 | 5 | Jjhandsome |
+| 378 | 5 | Vernon Hoyt |
+| 379 | 5 | Rieshelda Marie White |
+| 380 | 5 | DirtiestofMikes |
+| 381 | 5 | Andre Sanon |
 
 ---
 *Standings created by tournaments datasource generation tool*
