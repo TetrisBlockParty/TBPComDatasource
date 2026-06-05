@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 21:44:36 UTC
+# Standings for team1 as of 2026-06-05 21:45:14 UTC
 
 **Total Participants:** 523
 
@@ -18,7 +18,7 @@
 | 10 | 827 | Juan Kandiss Escobedo Irwin |
 | 11 | 749 | Aviv Zehavi |
 | 12 | 617 | Charnay Peacock |
-| 13 | 582 | Jacoby E Fleming |
+| 13 | 599 | Jacoby E Fleming |
 | 14 | 580 | Janet Cooke |
 | 15 | 572 | Ashley Espeut |
 | 16 | 541 | Epic Snapfall |
