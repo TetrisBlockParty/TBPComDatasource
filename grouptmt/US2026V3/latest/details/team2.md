@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 19:56:14 UTC
+# Standings for team2 as of 2026-06-05 19:56:38 UTC
 
 **Total Participants:** 478
 
@@ -148,30 +148,30 @@
 | 140 | 57 | Laverne Ellis Blair |
 | 141 | 57 | Kenzie |
 | 142 | 57 | Xandrea Jones |
-| 143 | 56 | Alonzo Reed |
-| 144 | 56 | Jennifer Lalk |
-| 145 | 55 | Silly Tiltbuilder |
-| 146 | 55 | Jackie Tupper |
-| 147 | 54 | Lively Twisterfit |
-| 148 | 54 | Cool Balancer |
-| 149 | 54 | Funway998 |
-| 150 | 54 | Eva Lopez |
+| 143 | 56 | Jennifer Lalk |
+| 144 | 56 | Alonzo Reed |
+| 145 | 55 | Jackie Tupper |
+| 146 | 55 | Silly Tiltbuilder |
+| 147 | 54 | Cool Balancer |
+| 148 | 54 | Funway998 |
+| 149 | 54 | Eva Lopez |
+| 150 | 54 | Lively Twisterfit |
 | 151 | 53 | Maurii93 |
-| 152 | 51 | Loretta Crow |
-| 153 | 51 | Snappy Combo |
-| 154 | 51 | Martha Lynn Wiggins |
-| 155 | 51 | Mama G |
-| 156 | 50 | Jennifer Wymer |
+| 152 | 51 | Mama G |
+| 153 | 51 | Loretta Crow |
+| 154 | 51 | Lush Party |
+| 155 | 51 | Snappy Combo |
+| 156 | 51 | Martha Lynn Wiggins |
 | 157 | 50 | Christine James |
 | 158 | 50 | Lindsey Ford |
 | 159 | 50 | Whitt |
-| 160 | 50 | Justin Stark |
-| 161 | 50 | rageking |
-| 162 | 49 | Tammy Roth |
-| 163 | 48 | Wendy McKee |
+| 160 | 50 | rageking |
+| 161 | 50 | Jennifer Wymer |
+| 162 | 50 | Justin Stark |
+| 163 | 49 | Tammy Roth |
 | 164 | 48 | Joannah Capilitan |
 | 165 | 48 | Dizzy Dropzone |
-| 166 | 48 | Lush Party |
+| 166 | 48 | Wendy McKee |
 | 167 | 48 | Spicy Basepiece |
 | 168 | 47 | REE4 |
 | 169 | 47 | Carole Brown |
