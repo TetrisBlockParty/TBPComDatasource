@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 19:30:38 UTC
+# Standings for team4 as of 2026-06-05 19:31:14 UTC
 
 **Total Participants:** 397
 
@@ -13,7 +13,7 @@
 | 5 | 1691 | Daring Ziggy |
 | 6 | 1576 | delilahbelle |
 | 7 | 1169 | Cinny |
-| 8 | 735 | Jerald Jones |
+| 8 | 861 | Jerald Jones |
 | 9 | 734 | Lisa Cullum |
 | 10 | 704 | SMV |
 | 11 | 700 | Carly Stempien |
@@ -62,16 +62,16 @@
 | 54 | 120 | Glamorous Gracey |
 | 55 | 116 | Kayla Fuentes |
 | 56 | 109 | Krysten Danielle Richard |
-| 57 | 108 | Bryan DjMagnum Evans |
-| 58 | 108 | Debby Ruof |
+| 57 | 108 | Debby Ruof |
+| 58 | 108 | Bryan DjMagnum Evans |
 | 59 | 107 | Shayna Vaigneur-Hall |
 | 60 | 104 | Tawna Curry |
 | 61 | 101 | Fruitpunch |
 | 62 | 101 | Lush Fitblock |
-| 63 | 100 | Cal Renee |
-| 64 | 100 | woopa 716 |
-| 65 | 99 | Shelby |
-| 66 | 99 | Lani |
+| 63 | 100 | woopa 716 |
+| 64 | 100 | Cal Renee |
+| 65 | 99 | Lani |
+| 66 | 99 | Shelby |
 | 67 | 91 | Dayna Arthurs |
 | 68 | 89 | Waxboss |
 | 69 | 87 | Limbo |
@@ -86,119 +86,119 @@
 | 78 | 80 | Sarah Berry Stevens |
 | 79 | 80 | Krista Diaz |
 | 80 | 80 | MrLoner Stoner |
-| 81 | 79 | Luna |
-| 82 | 79 | Joyce Myers |
+| 81 | 79 | Joyce Myers |
+| 82 | 79 | Luna |
 | 83 | 78 | Tina Thomas |
 | 84 | 76 | Justin Michael |
 | 85 | 75 | June Hoffman |
-| 86 | 73 | Troy Zanelli |
-| 87 | 73 | Mark Fitch Jr. |
-| 88 | 71 | Chris Covington |
-| 89 | 71 | Lady |
-| 90 | 71 | King |
-| 91 | 71 | Stasia |
-| 92 | 70 | Josh Keith Travierso |
-| 93 | 70 | Janae Harris |
+| 86 | 73 | Mark Fitch Jr. |
+| 87 | 73 | Troy Zanelli |
+| 88 | 71 | Lady |
+| 89 | 71 | King |
+| 90 | 71 | Stasia |
+| 91 | 71 | Chris Covington |
+| 92 | 70 | Janae Harris |
+| 93 | 70 | Josh Keith Travierso |
 | 94 | 70 | Leigh Pierce |
-| 95 | 68 | Homie |
-| 96 | 68 | Chirpy Link |
+| 95 | 68 | Chirpy Link |
+| 96 | 68 | Homie |
 | 97 | 68 | Keys Tome |
-| 98 | 67 | Alma López Morales |
-| 99 | 67 | Henry Lanier |
+| 98 | 67 | Henry Lanier |
+| 99 | 67 | Alma López Morales |
 | 100 | 66 | Shiny Brick |
-| 101 | 65 | ktothet |
-| 102 | 65 | Domo Dpn |
-| 103 | 65 | JuicyJuice |
+| 101 | 65 | JuicyJuice |
+| 102 | 65 | ktothet |
+| 103 | 65 | Domo Dpn |
 | 104 | 64 | Stef |
 | 105 | 63 | Ana Ruiz |
-| 106 | 60 | Blockcrusher |
-| 107 | 60 | Amandacolle |
-| 108 | 60 | Jumpy Builderpiece |
-| 109 | 60 | Magz |
-| 110 | 60 | Taz |
-| 111 | 60 | Jason Allen |
-| 112 | 60 | Chris Rowe |
-| 113 | 60 | Chilly Pivot |
-| 114 | 60 | George Marshburn |
-| 115 | 60 | Fran Aaron-Ring |
-| 116 | 60 | DexterDobbins |
-| 117 | 59 | Paula Renee McCracken |
-| 118 | 59 | Futrell Brent |
+| 106 | 60 | DexterDobbins |
+| 107 | 60 | Taz |
+| 108 | 60 | George Marshburn |
+| 109 | 60 | Amandacolle |
+| 110 | 60 | Chris Rowe |
+| 111 | 60 | Chilly Pivot |
+| 112 | 60 | Jason Allen |
+| 113 | 60 | Blockcrusher |
+| 114 | 60 | Fran Aaron-Ring |
+| 115 | 60 | Magz |
+| 116 | 60 | Jumpy Builderpiece |
+| 117 | 59 | Futrell Brent |
+| 118 | 59 | Paula Renee McCracken |
 | 119 | 58 | Jenn Fitzgerald |
 | 120 | 57 | Noa Lee |
 | 121 | 55 | Cindy |
-| 122 | 54 | Jennifer Fisher Franklin |
-| 123 | 54 | Kay |
+| 122 | 54 | Kay |
+| 123 | 54 | Jennifer Fisher Franklin |
 | 124 | 52 | Jj Johnson |
 | 125 | 51 | Amanda Snow |
-| 126 | 50 | Nova Kain |
-| 127 | 50 | Ginny |
-| 128 | 50 | CorieBe |
-| 129 | 49 | Маркус Вік |
-| 130 | 49 | Daring Brickbuilder |
+| 126 | 50 | CorieBe |
+| 127 | 50 | Nova Kain |
+| 128 | 50 | Ginny |
+| 129 | 49 | Daring Brickbuilder |
+| 130 | 49 | Маркус Вік |
 | 131 | 49 | smarty |
-| 132 | 48 | Dapper Strikerpiece |
-| 133 | 48 | Joseph Hunter |
+| 132 | 48 | Joseph Hunter |
+| 133 | 48 | Dapper Strikerpiece |
 | 134 | 47 | gabs |
 | 135 | 46 | Bouncy |
 | 136 | 46 | Phil Peterson |
-| 137 | 45 | Scamp Jones |
-| 138 | 45 | Tiffany Loree Tiffany Oneill |
-| 139 | 44 | Lul Babie |
+| 137 | 45 | Tiffany Loree Tiffany Oneill |
+| 138 | 45 | Scamp Jones |
+| 139 | 44 | Karen Rodriguez |
 | 140 | 44 | Tyra Brooke Everman Forest |
 | 141 | 44 | Kassey M. Clark |
 | 142 | 44 | Frisky Balance |
-| 143 | 44 | Karen Rodriguez |
+| 143 | 44 | Lul Babie |
 | 144 | 43 | Tipsy Zonebuilder |
-| 145 | 42 | Cail |
-| 146 | 42 | Mrs |
-| 147 | 42 | Stacy Brown |
-| 148 | 42 | Lucy Honer |
+| 145 | 42 | Stacy Brown |
+| 146 | 42 | Lucy Honer |
+| 147 | 42 | Cail |
+| 148 | 42 | Mrs |
 | 149 | 41 | kellie |
-| 150 | 40 | Leslie Bamonte |
-| 151 | 40 | Cool Risepiece |
-| 152 | 40 | Cinta Marie |
-| 153 | 40 | Mint Marquez |
-| 154 | 40 | Destiny Starr LeValdo |
-| 155 | 40 | SweetChaos |
-| 156 | 39 | Denisha Schinell Boyd |
-| 157 | 39 | Anthony Kollar |
-| 158 | 39 | Playa |
-| 159 | 39 | Nicole |
-| 160 | 39 | Anna Gribble |
-| 161 | 38 | Happy Shatterfit |
+| 150 | 40 | Cinta Marie |
+| 151 | 40 | Leslie Bamonte |
+| 152 | 40 | SweetChaos |
+| 153 | 40 | Cool Risepiece |
+| 154 | 40 | Mint Marquez |
+| 155 | 40 | Destiny Starr LeValdo |
+| 156 | 39 | Playa |
+| 157 | 39 | Nicole |
+| 158 | 39 | Anthony Kollar |
+| 159 | 39 | Anna Gribble |
+| 160 | 39 | Denisha Schinell Boyd |
+| 161 | 38 | Piece of Cake |
 | 162 | 38 | Charity Thomas |
-| 163 | 38 | Swanky Snapgrid |
+| 163 | 38 | Happy Shatterfit |
 | 164 | 38 | Jonathan Hewitt |
-| 165 | 38 | Piece of Cake |
-| 166 | 37 | Laurie Patrick |
-| 167 | 37 | Tanya AfricanQueen Savage |
-| 168 | 37 | jaz |
-| 169 | 37 | Dana Fontanez |
-| 170 | 35 | The Jazziest |
-| 171 | 35 | Tactical_B |
-| 172 | 35 | Joshua Hunt |
-| 173 | 35 | MattJennifer Marie Ericson |
-| 174 | 35 | David Lay |
-| 175 | 35 | EmBem |
-| 176 | 35 | Diane Obungu |
-| 177 | 35 | Joe Win |
-| 178 | 35 | Knijur Callins |
-| 179 | 34 | Loopy Hitter |
-| 180 | 34 | jojo |
-| 181 | 34 | Clashy |
-| 182 | 34 | GingaNinja |
-| 183 | 34 | Jasmine Marie |
-| 184 | 34 | Solace Grace |
-| 185 | 34 | Tricia Motika Cowan |
+| 165 | 38 | Swanky Snapgrid |
+| 166 | 37 | jaz |
+| 167 | 37 | Dana Fontanez |
+| 168 | 37 | Laurie Patrick |
+| 169 | 37 | Tanya AfricanQueen Savage |
+| 170 | 35 | Diane Obungu |
+| 171 | 35 | Joe Win |
+| 172 | 35 | MattJennifer Marie Ericson |
+| 173 | 35 | Knijur Callins |
+| 174 | 35 | Tactical_B |
+| 175 | 35 | The Jazziest |
+| 176 | 35 | Joshua Hunt |
+| 177 | 35 | David Lay |
+| 178 | 35 | EmBem |
+| 179 | 34 | jojo |
+| 180 | 34 | Jasmine Marie |
+| 181 | 34 | Tricia Motika Cowan |
+| 182 | 34 | Loopy Hitter |
+| 183 | 34 | Solace Grace |
+| 184 | 34 | GingaNinja |
+| 185 | 34 | Clashy |
 | 186 | 33 | PL GR |
 | 187 | 33 | Jackie Lucas |
-| 188 | 32 | Loony Towerer |
-| 189 | 32 | Rosy Perez |
-| 190 | 32 | Nicole Colby McCloskey |
-| 191 | 32 | Charlie Lewis |
-| 192 | 32 | Saul Fajardo |
-| 193 | 32 | Karen Davis |
+| 188 | 32 | Karen Davis |
+| 189 | 32 | Nicole Colby McCloskey |
+| 190 | 32 | Saul Fajardo |
+| 191 | 32 | Rosy Perez |
+| 192 | 32 | Loony Towerer |
+| 193 | 32 | Charlie Lewis |
 | 194 | 31 | Irene Arreguin |
 | 195 | 31 | Sweetfire |
 | 196 | 31 | Loretta Hendricks |
