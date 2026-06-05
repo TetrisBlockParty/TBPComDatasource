@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 14:22:12 UTC
+# Standings for team1 as of 2026-06-05 14:22:36 UTC
 
 **Total Participants:** 167
 
@@ -154,25 +154,25 @@
 | 146 | 7 | Abigail Newman Sweet |
 | 147 | 7 | Mary2 |
 | 148 | 7 | Kendra McIntyre |
-| 149 | 6 | Janine Hunter |
+| 149 | 6 | Christopher Wallace |
 | 150 | 6 | Allison Baxter |
 | 151 | 6 | Kahliah Baker |
-| 152 | 6 | Ashley Espeut |
-| 153 | 6 | Christopher Wallace |
-| 154 | 6 | Cece Fowler |
+| 152 | 6 | Breezy Catcher |
+| 153 | 6 | Jayjay Rich |
+| 154 | 6 | Ashley Espeut |
 | 155 | 6 | Taz Ballard |
-| 156 | 6 | Breezy Catcher |
-| 157 | 6 | Jayjay Rich |
-| 158 | 5 | Skippy |
-| 159 | 5 | Temeshia Brooks Washington |
-| 160 | 5 | Derek Beverly |
-| 161 | 5 | Lil T |
+| 156 | 6 | Janine Hunter |
+| 157 | 6 | Cece Fowler |
+| 158 | 5 | Kidgib5 |
+| 159 | 5 | Derek Beverly |
+| 160 | 5 | Lil T |
+| 161 | 5 | Temeshia Brooks Washington |
 | 162 | 5 | Shawn Himes |
-| 163 | 5 | Jennifer Moore |
-| 164 | 5 | Kidgib5 |
-| 165 | 5 | Tamika Fisher |
-| 166 | 5 | DirtiestofMikes |
-| 167 | 5 | Stephanie Zuniga Tullock |
+| 163 | 5 | Skippy |
+| 164 | 5 | Stephanie Zuniga Tullock |
+| 165 | 5 | DirtiestofMikes |
+| 166 | 5 | Tamika Fisher |
+| 167 | 5 | Jennifer Moore |
 
 ---
 *Standings created by tournaments datasource generation tool*
