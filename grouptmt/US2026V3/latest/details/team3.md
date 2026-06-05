@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-05 13:30:13 UTC
+# Standings for team3 as of 2026-06-05 13:30:35 UTC
 
 **Total Participants:** 234
 
@@ -12,8 +12,8 @@
 | 4 | 1752 | Tom Borja |
 | 5 | 1602 | Alan George LaRage |
 | 6 | 1033 | Amanda Striplin |
-| 7 | 476 | Tami Czenkus |
-| 8 | 399 | Telson |
+| 7 | 499 | Telson |
+| 8 | 476 | Tami Czenkus |
 | 9 | 367 | Edda-Jo Wenneman Dobbs |
 | 10 | 310 | Timothy Long |
 | 11 | 270 | Bee |

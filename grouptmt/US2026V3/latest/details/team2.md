@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 13:30:13 UTC
+# Standings for team2 as of 2026-06-05 13:30:35 UTC
 
 **Total Participants:** 98
 
@@ -25,24 +25,24 @@
 | 17 | 70 | Amanda Sikes |
 | 18 | 59 | April Addis |
 | 19 | 58 | Chipper Towerzone |
-| 20 | 50 | Martha Lynn Wiggins |
-| 21 | 48 | Spicy Basepiece |
-| 22 | 45 | Michelle Anne |
-| 23 | 44 | Rick |
-| 24 | 44 | Zaniya Brown |
-| 25 | 42 | Henny Henny |
-| 26 | 40 | Bon Lynn |
-| 27 | 40 | Kevin Mccoy |
-| 28 | 39 | Jessica Perkins |
-| 29 | 38 | Harper |
-| 30 | 37 | Chipper Stackbuilder |
+| 20 | 57 | Chipper Stackbuilder |
+| 21 | 50 | Martha Lynn Wiggins |
+| 22 | 48 | Spicy Basepiece |
+| 23 | 45 | Michelle Anne |
+| 24 | 44 | Rick |
+| 25 | 44 | Zaniya Brown |
+| 26 | 42 | Henny Henny |
+| 27 | 40 | Bon Lynn |
+| 28 | 40 | Kevin Mccoy |
+| 29 | 39 | Jessica Perkins |
+| 30 | 38 | Harper |
 | 31 | 37 | Jumpy Dashpiece |
 | 32 | 35 | Jason Cunningham |
 | 33 | 33 | Tango Sierra |
 | 34 | 32 | Sandra Belk |
 | 35 | 31 | Kenzie |
-| 36 | 30 | Patti Ward |
-| 37 | 30 | Peter Fogg |
+| 36 | 30 | Peter Fogg |
+| 37 | 30 | Patti Ward |
 | 38 | 29 | Funway998 |
 | 39 | 28 | Nathan Walker |
 | 40 | 28 | Sara BlueEyes |
@@ -55,8 +55,8 @@
 | 47 | 24 | Dayna Messer-Thelen |
 | 48 | 24 | A.j. Langley |
 | 49 | 23 | Brittni Lawrence |
-| 50 | 23 | Damion Morrison |
-| 51 | 23 | IncrediDragon |
+| 50 | 23 | IncrediDragon |
+| 51 | 23 | Damion Morrison |
 | 52 | 22 | Jeff Pottgether |
 | 53 | 22 | Andre Love |
 | 54 | 21 | Kelly |
@@ -69,24 +69,24 @@
 | 61 | 18 | Spicy Balanceblock |
 | 62 | 18 | Tracey Cox |
 | 63 | 16 | Sarah Jane Gorsuch |
-| 64 | 12 | Diamond Balotje |
-| 65 | 12 | Stacey Loretta Wallace |
-| 66 | 12 | Chirpy Grid |
-| 67 | 12 | Mary |
-| 68 | 11 | Lora Via |
-| 69 | 11 | Thy Bui |
-| 70 | 11 | Sara Perkins |
+| 64 | 12 | Stacey Loretta Wallace |
+| 65 | 12 | Sara Perkins |
+| 66 | 12 | Diamond Balotje |
+| 67 | 12 | Chirpy Grid |
+| 68 | 12 | Mary |
+| 69 | 11 | Lora Via |
+| 70 | 11 | Thy Bui |
 | 71 | 11 | Yany |
-| 72 | 10 | Twisty Snapmatch |
-| 73 | 10 | Thomas Johnstone |
+| 72 | 10 | Thomas Johnstone |
+| 73 | 10 | Berta Hurley |
 | 74 | 10 | Carlos J Blas |
-| 75 | 10 | Donna Casey |
+| 75 | 10 | Twisty Snapmatch |
 | 76 | 10 | Gill |
 | 77 | 10 | Justin Furne |
 | 78 | 10 | Jennifer Bell |
 | 79 | 10 | Frilly Dashfit |
-| 80 | 10 | Joyce Galloway |
-| 81 | 10 | Berta Hurley |
+| 80 | 10 | Donna Casey |
+| 81 | 10 | Joyce Galloway |
 | 82 | 9 | Darla Ragsdale |
 | 83 | 9 | Mama G |
 | 84 | 9 | Giggly Spinblock |

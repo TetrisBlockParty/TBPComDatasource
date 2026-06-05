@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 13:30:13 UTC
+# Standings for team4 as of 2026-06-05 13:30:35 UTC
 
 **Total Participants:** 96
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 2697 | Destiny Dyer |
+| 1 | 2747 | Destiny Dyer |
 | 2 | 1800 | Candice Driver |
 | 3 | 1169 | Cinny |
 | 4 | 700 | Carly Stempien |
