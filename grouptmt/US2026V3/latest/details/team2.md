@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 13:10:35 UTC
+# Standings for team2 as of 2026-06-05 13:11:12 UTC
 
 **Total Participants:** 81
 
@@ -10,7 +10,7 @@
 | 2 | 1300 | Mocha |
 | 3 | 1240 | Jewels |
 | 4 | 1100 | Kathleen M Cox |
-| 5 | 757 | Crystal M Sowden |
+| 5 | 941 | Crystal M Sowden |
 | 6 | 663 | Logan Basham |
 | 7 | 515 | Loony Faller |
 | 8 | 437 | Amy Gale |
@@ -32,59 +32,59 @@
 | 24 | 35 | Jason Cunningham |
 | 25 | 33 | Tango Sierra |
 | 26 | 31 | Kenzie |
-| 27 | 30 | Patti Ward |
-| 28 | 30 | Peter Fogg |
-| 29 | 28 | Rick |
-| 30 | 28 | Sara BlueEyes |
+| 27 | 30 | Peter Fogg |
+| 28 | 30 | Patti Ward |
+| 29 | 28 | Sara BlueEyes |
+| 30 | 28 | Rick |
 | 31 | 27 | Michael Carmichael |
-| 32 | 26 | Henny Henny |
-| 33 | 26 | Quina Jesse Fejaran |
-| 34 | 26 | Rachel Huber |
-| 35 | 26 | Ariel Gundersen |
+| 32 | 26 | Quina Jesse Fejaran |
+| 33 | 26 | Henny Henny |
+| 34 | 26 | Ariel Gundersen |
+| 35 | 26 | Rachel Huber |
 | 36 | 25 | Jgato |
-| 37 | 24 | A.j. Langley |
-| 38 | 24 | Dayna Messer-Thelen |
-| 39 | 23 | IncrediDragon |
-| 40 | 23 | Damion Morrison |
+| 37 | 24 | Dayna Messer-Thelen |
+| 38 | 24 | A.j. Langley |
+| 39 | 23 | Damion Morrison |
+| 40 | 23 | IncrediDragon |
 | 41 | 22 | Jeff Pottgether |
 | 42 | 21 | Kelly |
-| 43 | 20 | ChefDeb |
-| 44 | 20 | AcardBoardBox |
-| 45 | 18 | Wendy McKee |
+| 43 | 20 | AcardBoardBox |
+| 44 | 20 | Wendy McKee |
+| 45 | 20 | ChefDeb |
 | 46 | 18 | Tracey Cox |
 | 47 | 18 | Nathan Walker |
 | 48 | 14 | Harper |
-| 49 | 12 | Stacey Loretta Wallace |
-| 50 | 12 | Chirpy Grid |
-| 51 | 12 | Diamond Balotje |
-| 52 | 12 | Mary |
-| 53 | 11 | Lora Via |
+| 49 | 12 | Chirpy Grid |
+| 50 | 12 | Stacey Loretta Wallace |
+| 51 | 12 | Mary |
+| 52 | 12 | Diamond Balotje |
+| 53 | 12 | Jessica Perkins |
 | 54 | 11 | Thy Bui |
-| 55 | 10 | Thomas Johnstone |
-| 56 | 10 | Jennifer Bell |
-| 57 | 10 | Gill |
-| 58 | 10 | Twisty Snapmatch |
+| 55 | 11 | Lora Via |
+| 56 | 10 | Gill |
+| 57 | 10 | Jennifer Bell |
+| 58 | 10 | Thomas Johnstone |
 | 59 | 10 | Joyce Galloway |
 | 60 | 10 | Berta Hurley |
 | 61 | 10 | Donna Casey |
-| 62 | 10 | Justin Furne |
-| 63 | 9 | Jessica Perkins |
+| 62 | 10 | Twisty Snapmatch |
+| 63 | 10 | Justin Furne |
 | 64 | 9 | Mama G |
-| 65 | 9 | Princess Cucumber |
+| 65 | 9 | Giggly Spinblock |
 | 66 | 9 | Darla Ragsdale |
-| 67 | 9 | Giggly Spinblock |
+| 67 | 9 | Princess Cucumber |
 | 68 | 8 | Renee Weedling |
 | 69 | 8 | Andre Love |
-| 70 | 7 | Elizabeth Elaine Coursey |
+| 70 | 7 | Epic Framezone |
 | 71 | 7 | nova |
 | 72 | 7 | Jamie Fenyus |
-| 73 | 7 | Cherica Taylor |
-| 74 | 7 | Epic Framezone |
+| 73 | 7 | Elizabeth Elaine Coursey |
+| 74 | 7 | Cherica Taylor |
 | 75 | 6 | Kelly Christine Trimmer |
 | 76 | 6 | fancypants |
 | 77 | 6 | Sarah Jane Gorsuch |
-| 78 | 5 | Rhonda Driskill |
-| 79 | 5 | Tashamonique Puckey |
+| 78 | 5 | Tashamonique Puckey |
+| 79 | 5 | Rhonda Driskill |
 | 80 | 5 | Devon |
 | 81 | 5 | Allison Peterson |
 
