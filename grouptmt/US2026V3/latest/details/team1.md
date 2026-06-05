@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:58:35 UTC
+# Standings for team1 as of 2026-06-05 13:59:13 UTC
 
 **Total Participants:** 132
 
@@ -123,21 +123,21 @@
 | 115 | 8 | Zachary Colegrove |
 | 116 | 8 | Jessie N Michael Silvers |
 | 117 | 8 | Sammie Walker |
-| 118 | 7 | Mary2 |
-| 119 | 7 | Kendra McIntyre |
-| 120 | 6 | JesusSaves 😇 |
-| 121 | 6 | Christopher Wallace |
-| 122 | 6 | Ashley Espeut |
+| 118 | 7 | JesusSaves 😇 |
+| 119 | 7 | Mary2 |
+| 120 | 7 | Kendra McIntyre |
+| 121 | 6 | Taz Ballard |
+| 122 | 6 | Christopher Wallace |
 | 123 | 6 | Jayjay Rich |
-| 124 | 6 | Taz Ballard |
+| 124 | 6 | Ashley Espeut |
 | 125 | 6 | Janine Hunter |
-| 126 | 5 | Christian Whittaker |
-| 127 | 5 | Katrina Ramey |
+| 126 | 5 | Katrina Ramey |
+| 127 | 5 | Jennifer Moore |
 | 128 | 5 | DirtiestofMikes |
 | 129 | 5 | Derek Beverly |
 | 130 | 5 | Kidgib5 |
-| 131 | 5 | Jennifer Moore |
-| 132 | 5 | Tamika Fisher |
+| 131 | 5 | Tamika Fisher |
+| 132 | 5 | Christian Whittaker |
 
 ---
 *Standings created by tournaments datasource generation tool*
