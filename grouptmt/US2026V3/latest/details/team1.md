@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 14:46:14 UTC
+# Standings for team1 as of 2026-06-05 14:46:35 UTC
 
 **Total Participants:** 200
 
@@ -29,12 +29,12 @@
 | 21 | 162 | Markeeta Lipscomb |
 | 22 | 141 | Debbie Carswell |
 | 23 | 126 | Cee Emm |
-| 24 | 114 | Dacia Hicks |
-| 25 | 100 | JoJo |
-| 26 | 100 | Asani CHumba |
-| 27 | 100 | Rayya Kiser |
-| 28 | 99 | Kellie Hall |
-| 29 | 95 | Jawaun Daniels |
+| 24 | 115 | Jawaun Daniels |
+| 25 | 114 | Dacia Hicks |
+| 26 | 100 | JoJo |
+| 27 | 100 | Asani CHumba |
+| 28 | 100 | Rayya Kiser |
+| 29 | 99 | Kellie Hall |
 | 30 | 91 | Ashley MyBeauty Daniels |
 | 31 | 90 | Bre Maugh |
 | 32 | 86 | SPNLover24 |
@@ -53,10 +53,10 @@
 | 45 | 69 | AF Cruz |
 | 46 | 67 | Michele Elizabeth McKay-Johnson |
 | 47 | 66 | Shontanese Adams |
-| 48 | 65 | Shanell Thomas |
-| 49 | 65 | Frisky Fall |
+| 48 | 65 | Frisky Fall |
+| 49 | 65 | Jennifer To |
 | 50 | 65 | Dizzy Dashy |
-| 51 | 65 | Jennifer To |
+| 51 | 65 | Shanell Thomas |
 | 52 | 63 | Carrie English |
 | 53 | 60 | Christian Pham |
 | 54 | 57 | Tosha Michelle |
@@ -68,15 +68,15 @@
 | 60 | 50 | Donna Payne |
 | 61 | 48 | Brian Bohanon II |
 | 62 | 45 | Jayjay Rich |
-| 63 | 43 | Block |
-| 64 | 43 | KenpachisGirl |
-| 65 | 41 | Jessica Russell |
-| 66 | 40 | Cheeky Pop |
-| 67 | 40 | Carolyn Smith |
-| 68 | 40 | Flashy Slam |
-| 69 | 40 | Leavon Smith |
-| 70 | 40 | Jean Regis |
-| 71 | 39 | Ciera Peace |
+| 63 | 44 | Ciera Peace |
+| 64 | 43 | Block |
+| 65 | 43 | KenpachisGirl |
+| 66 | 41 | Jessica Russell |
+| 67 | 40 | Cheeky Pop |
+| 68 | 40 | Carolyn Smith |
+| 69 | 40 | Flashy Slam |
+| 70 | 40 | Leavon Smith |
+| 71 | 40 | Jean Regis |
 | 72 | 38 | Kahliah Baker |
 | 73 | 38 | rls |
 | 74 | 37 | Lootch |
@@ -131,11 +131,11 @@
 | 123 | 19 | Jenni |
 | 124 | 19 | Brenda Malachi-butler |
 | 125 | 18 | AleahKCH |
-| 126 | 18 | Tyree Tman Shinette |
-| 127 | 18 | Sunny Clicky |
-| 128 | 18 | Danny M GR |
-| 129 | 17 | Byron Mario Cawthon |
-| 130 | 17 | JesusSaves 😇 |
+| 126 | 18 | JesusSaves 😇 |
+| 127 | 18 | Tyree Tman Shinette |
+| 128 | 18 | Sunny Clicky |
+| 129 | 18 | Danny M GR |
+| 130 | 17 | Byron Mario Cawthon |
 | 131 | 17 | Kimberly Red |
 | 132 | 17 | Rikki Moran |
 | 133 | 16 | Sylvia Offically A Mcgowan |
@@ -157,16 +157,16 @@
 | 149 | 13 | Ashley Espeut |
 | 150 | 12 | Kimberly Hernandez |
 | 151 | 12 | Wacky Stackbuilder |
-| 152 | 12 | Yadira Salgado |
-| 153 | 12 | Abigail Newman Sweet |
-| 154 | 11 | Desiree Ryder |
-| 155 | 11 | Kp |
-| 156 | 10 | Po Marley |
-| 157 | 10 | Hoppy Rumbler |
-| 158 | 10 | Tishauna Virgo |
-| 159 | 10 | Kenny 'Tailormade' Boyd |
-| 160 | 10 | Keke |
-| 161 | 10 | Khatyrah Burnette |
+| 152 | 12 | Khatyrah Burnette |
+| 153 | 12 | Yadira Salgado |
+| 154 | 12 | Abigail Newman Sweet |
+| 155 | 11 | Desiree Ryder |
+| 156 | 11 | Kp |
+| 157 | 10 | Po Marley |
+| 158 | 10 | Hoppy Rumbler |
+| 159 | 10 | Tishauna Virgo |
+| 160 | 10 | Kenny 'Tailormade' Boyd |
+| 161 | 10 | Keke |
 | 162 | 10 | Megan Payette |
 | 163 | 10 | Shannon Carriger |
 | 164 | 10 | Daddy |
@@ -178,34 +178,34 @@
 | 170 | 9 | DellaLucretia Thomas |
 | 171 | 9 | Shakmar |
 | 172 | 8 | Brika Brika |
-| 173 | 8 | Sammie Walker |
-| 174 | 8 | Breezy Catcher |
-| 175 | 8 | Jessie N Michael Silvers |
-| 176 | 8 | Tanesha Ga'sFinest Corbett |
-| 177 | 7 | Kendra McIntyre |
-| 178 | 7 | Mary2 |
-| 179 | 6 | Cece Fowler |
-| 180 | 6 | Dandy Brickfit |
-| 181 | 6 | Jeffrey Barrows |
-| 182 | 6 | Allison Baxter |
-| 183 | 6 | Janine Hunter |
-| 184 | 6 | Taz Ballard |
-| 185 | 6 | Cozy Edge |
-| 186 | 6 | Christopher Wallace |
-| 187 | 5 | Vernon Hoyt |
-| 188 | 5 | KeeKee Williams |
-| 189 | 5 | Temeshia Brooks Washington |
-| 190 | 5 | Rixo Blax |
-| 191 | 5 | Guy Incognito |
-| 192 | 5 | Tamika Fisher |
-| 193 | 5 | Elaine Youmans |
-| 194 | 5 | Jennifer Moore |
-| 195 | 5 | Kidgib5 |
-| 196 | 5 | Shawn Himes |
-| 197 | 5 | DirtiestofMikes |
-| 198 | 5 | Stephanie Zuniga Tullock |
-| 199 | 5 | Lil T |
-| 200 | 5 | Derek Beverly |
+| 173 | 8 | Tanesha Ga'sFinest Corbett |
+| 174 | 8 | Sammie Walker |
+| 175 | 8 | Breezy Catcher |
+| 176 | 8 | Jessie N Michael Silvers |
+| 177 | 7 | Mary2 |
+| 178 | 7 | Kendra McIntyre |
+| 179 | 6 | Christopher Wallace |
+| 180 | 6 | Cozy Edge |
+| 181 | 6 | Allison Baxter |
+| 182 | 6 | Jeffrey Barrows |
+| 183 | 6 | Dandy Brickfit |
+| 184 | 6 | Cece Fowler |
+| 185 | 6 | Taz Ballard |
+| 186 | 6 | Janine Hunter |
+| 187 | 5 | Tamika Fisher |
+| 188 | 5 | Jennifer Moore |
+| 189 | 5 | Rixo Blax |
+| 190 | 5 | Derek Beverly |
+| 191 | 5 | Temeshia Brooks Washington |
+| 192 | 5 | KeeKee Williams |
+| 193 | 5 | Lil T |
+| 194 | 5 | Vernon Hoyt |
+| 195 | 5 | Stephanie Zuniga Tullock |
+| 196 | 5 | DirtiestofMikes |
+| 197 | 5 | Shawn Himes |
+| 198 | 5 | Kidgib5 |
+| 199 | 5 | Elaine Youmans |
+| 200 | 5 | Guy Incognito |
 
 ---
 *Standings created by tournaments datasource generation tool*
