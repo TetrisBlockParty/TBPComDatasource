@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:35:13 UTC
+# Standings for team1 as of 2026-06-05 15:36:13 UTC
 
 **Total Participants:** 251
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 3500 | Ariel |
+| 1 | 4500 | Ariel |
 | 2 | 1705 | Timothy Robert |
 | 3 | 1050 | jaimie |
 | 4 | 911 | Tracy Cohen |
@@ -41,8 +41,8 @@
 | 33 | 139 | Kellie Hall |
 | 34 | 126 | Cee Emm |
 | 35 | 115 | Jawaun Daniels |
-| 36 | 111 | Shalena Marie Humphrey |
-| 37 | 110 | COSA303 |
+| 36 | 115 | COSA303 |
+| 37 | 111 | Shalena Marie Humphrey |
 | 38 | 103 | KenpachisGirl |
 | 39 | 100 | Asani CHumba |
 | 40 | 100 | Cool Bridger |
@@ -249,14 +249,14 @@
 | 241 | 5 | Temeshia Brooks Washington |
 | 242 | 5 | KeeKee Williams |
 | 243 | 5 | Derek Beverly |
-| 244 | 5 | Lil T |
-| 245 | 5 | Stephanie Zuniga Tullock |
-| 246 | 5 | DirtiestofMikes |
-| 247 | 5 | Zappy Clearfit |
-| 248 | 5 | Tamika Fisher |
-| 249 | 5 | Jennifer Moore |
-| 250 | 5 | Shawn Himes |
-| 251 | 5 | Vernon Hoyt |
+| 244 | 5 | Vernon Hoyt |
+| 245 | 5 | Lil T |
+| 246 | 5 | Stephanie Zuniga Tullock |
+| 247 | 5 | DirtiestofMikes |
+| 248 | 5 | Zappy Clearfit |
+| 249 | 5 | Tamika Fisher |
+| 250 | 5 | Jennifer Moore |
+| 251 | 5 | Shawn Himes |
 
 ---
 *Standings created by tournaments datasource generation tool*
