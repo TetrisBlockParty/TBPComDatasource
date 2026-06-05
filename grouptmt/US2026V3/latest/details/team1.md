@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 18:24:14 UTC
+# Standings for team1 as of 2026-06-05 18:24:36 UTC
 
 **Total Participants:** 382
 
@@ -41,9 +41,9 @@
 | 33 | 215 | Jennifer To |
 | 34 | 215 | Abraham Espaillat |
 | 35 | 197 | Nerdy Snapfall |
-| 36 | 193 | Spicy Balancer |
-| 37 | 191 | Debbie Carswell |
-| 38 | 185 | COSA303 |
+| 36 | 196 | COSA303 |
+| 37 | 193 | Spicy Balancer |
+| 38 | 191 | Debbie Carswell |
 | 39 | 178 | Gotcha |
 | 40 | 177 | Chris Sladoje |
 | 41 | 175 | Teddy Davis |
