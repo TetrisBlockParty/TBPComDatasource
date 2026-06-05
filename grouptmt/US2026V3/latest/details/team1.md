@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:36:14 UTC
+# Standings for team1 as of 2026-06-05 17:36:35 UTC
 
 **Total Participants:** 339
 
@@ -330,21 +330,21 @@
 | 322 | 6 | Christopher Wallace |
 | 323 | 6 | Cece Fowler |
 | 324 | 6 | Brittnay Wright |
-| 325 | 5 | Barbramerri Tarboro |
+| 325 | 5 | Shawn Himes |
 | 326 | 5 | Stephanie Zuniga Tullock |
 | 327 | 5 | Temeshia Brooks Washington |
 | 328 | 5 | KeeKee Williams |
 | 329 | 5 | Derek Beverly |
 | 330 | 5 | Lil T |
 | 331 | 5 | DirtiestofMikes |
-| 332 | 5 | Kidgib5 |
-| 333 | 5 | Vernon Hoyt |
-| 334 | 5 | Jennifer Moore |
-| 335 | 5 | Jjhandsome |
-| 336 | 5 | Tamika Fisher |
-| 337 | 5 | pooh |
-| 338 | 5 | Shawn Himes |
-| 339 | 5 | Zappy Clearfit |
+| 332 | 5 | Zappy Clearfit |
+| 333 | 5 | Kidgib5 |
+| 334 | 5 | Vernon Hoyt |
+| 335 | 5 | Jennifer Moore |
+| 336 | 5 | Jjhandsome |
+| 337 | 5 | Tamika Fisher |
+| 338 | 5 | pooh |
+| 339 | 5 | Barbramerri Tarboro |
 
 ---
 *Standings created by tournaments datasource generation tool*
