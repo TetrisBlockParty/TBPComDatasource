@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 22:50:15 UTC
+# Standings for team1 as of 2026-06-05 22:50:36 UTC
 
 **Total Participants:** 574
 
@@ -335,35 +335,35 @@
 | 327 | 25 | Gerold Folk Haddock |
 | 328 | 24 | Tanisha Taylor |
 | 329 | 24 | Zayy Wavyy |
-| 330 | 24 | DellaLucretia Thomas |
-| 331 | 24 | Shaun Anderson |
-| 332 | 24 | Taneka Howell |
-| 333 | 24 | Mrs |
-| 334 | 24 | AshMo |
-| 335 | 24 | Dirty Deeds |
-| 336 | 23 | Marlainia Boyd |
-| 337 | 23 | Adrian Harris |
-| 338 | 23 | Tabitha Dupre-Allen |
-| 339 | 23 | Penee Wiggins |
+| 330 | 24 | Clever Fitblock |
+| 331 | 24 | DellaLucretia Thomas |
+| 332 | 24 | Shaun Anderson |
+| 333 | 24 | Taneka Howell |
+| 334 | 24 | Mrs |
+| 335 | 24 | AshMo |
+| 336 | 24 | Dirty Deeds |
+| 337 | 23 | Marlainia Boyd |
+| 338 | 23 | Khatyrah Burnette |
+| 339 | 23 | Tee Spinks |
 | 340 | 23 | Jamie Lea Popp |
-| 341 | 23 | Khatyrah Burnette |
-| 342 | 23 | Tee Spinks |
-| 343 | 22 | Ad Doctor |
-| 344 | 22 | Kimberly Anderson |
-| 345 | 22 | Rufus |
-| 346 | 22 | Clever Fitblock |
-| 347 | 21 | Jason Saputo |
-| 348 | 21 | Desiree Ryder |
-| 349 | 21 | kingbrook |
-| 350 | 21 | Shanjerrica Taylor Rosell |
-| 351 | 21 | Jessie N Michael Silvers |
-| 352 | 21 | Alyssa H |
-| 353 | 21 | Li-Li Ratliff |
-| 354 | 21 | Kevin Turner |
-| 355 | 21 | Shanaa Germany Crittenden |
-| 356 | 21 | Abigail Newman Sweet |
-| 357 | 20 | Tamara Johnson-Carter |
-| 358 | 20 | Sha Harris |
+| 341 | 23 | Penee Wiggins |
+| 342 | 23 | Adrian Harris |
+| 343 | 23 | Tabitha Dupre-Allen |
+| 344 | 22 | Ad Doctor |
+| 345 | 22 | Kimberly Anderson |
+| 346 | 22 | Rufus |
+| 347 | 21 | Kevin Turner |
+| 348 | 21 | kingbrook |
+| 349 | 21 | Shanjerrica Taylor Rosell |
+| 350 | 21 | Alyssa H |
+| 351 | 21 | Li-Li Ratliff |
+| 352 | 21 | Jason Saputo |
+| 353 | 21 | Shanaa Germany Crittenden |
+| 354 | 21 | Desiree Ryder |
+| 355 | 21 | Abigail Newman Sweet |
+| 356 | 21 | Jessie N Michael Silvers |
+| 357 | 20 | Sha Harris |
+| 358 | 20 | Tamara Johnson-Carter |
 | 359 | 20 | Phillip White |
 | 360 | 20 | Rayshawn Cohen |
 | 361 | 20 | Cynthia Bradley |

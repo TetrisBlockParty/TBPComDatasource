@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 22:50:15 UTC
+# Standings for team2 as of 2026-06-05 22:50:36 UTC
 
 **Total Participants:** 630
 
@@ -19,8 +19,8 @@
 | 11 | 1900 | boblawboblaw |
 | 12 | 1635 | Traci Elizabeth |
 | 13 | 1627 | Charles Varca |
-| 14 | 1361 | Erica Dees Parks |
-| 15 | 1290 | Dapper Rollout |
+| 14 | 1390 | Dapper Rollout |
+| 15 | 1361 | Erica Dees Parks |
 | 16 | 1128 | Jennifer Corder |
 | 17 | 1100 | Kathleen M Cox |
 | 18 | 1100 | Bobbi |
@@ -49,8 +49,8 @@
 | 41 | 448 | Christina Jambard Sampier |
 | 42 | 445 | Amy Gale |
 | 43 | 411 | Brandon Link |
-| 44 | 374 | Mikki Torres |
-| 45 | 349 | Poppy |
+| 44 | 399 | Poppy |
+| 45 | 374 | Mikki Torres |
 | 46 | 346 | Ricardo Ewart |
 | 47 | 328 | Tim Tim |
 | 48 | 317 | Marquetta Johnson |
@@ -371,93 +371,93 @@
 | 363 | 25 | Mandy Van Laningham Bishop |
 | 364 | 25 | Ginger Nesbitt |
 | 365 | 24 | Kathryn Mason |
-| 366 | 24 | Elodie Deveyer |
-| 367 | 24 | Ashley Corbett |
+| 366 | 24 | Ashley Corbett |
+| 367 | 24 | Elodie Deveyer |
 | 368 | 24 | Nicole |
-| 369 | 24 | SunnySquare |
-| 370 | 24 | Shiny Matchpiece |
+| 369 | 24 | Shiny Matchpiece |
+| 370 | 24 | SunnySquare |
 | 371 | 23 | Amber-leigh Williams |
 | 372 | 23 | Jessica Connot |
 | 373 | 23 | Shirley Bates |
 | 374 | 23 | AshleyM |
 | 375 | 23 | Gina Leal |
 | 376 | 23 | Anthony Chavez |
-| 377 | 22 | Seamus |
-| 378 | 22 | Joyce Galloway |
+| 377 | 22 | Ashley Diana |
+| 378 | 22 | Tiffany Powell |
 | 379 | 22 | Marii |
-| 380 | 22 | Tiffany Powell |
-| 381 | 22 | Jeff Pottgether |
-| 382 | 22 | Ashley Diana |
+| 380 | 22 | Joyce Galloway |
+| 381 | 22 | Seamus |
+| 382 | 22 | Brian Favre |
 | 383 | 22 | Pamela Gambrell |
-| 384 | 22 | Brian Favre |
-| 385 | 21 | Thy Bui |
-| 386 | 21 | Crystal Robinson |
-| 387 | 21 | Brooke Kaune |
-| 388 | 21 | Staci Walker |
-| 389 | 21 | Nicky Steigerwalt |
-| 390 | 21 | Sarah Phelps Beyer |
-| 391 | 21 | Lakeisha Ryder |
-| 392 | 21 | Frilly Dashfit |
-| 393 | 21 | Stephen Gillam |
-| 394 | 21 | Roe Sarmiento |
-| 395 | 21 | Instak1ll |
-| 396 | 20 | Bonita Alexander |
-| 397 | 20 | phamous1 |
-| 398 | 20 | Coleen Yoder |
-| 399 | 20 | Ashley Billiot Rhodes |
-| 400 | 20 | Quirky Piecegrid |
-| 401 | 20 | Frothy Roll |
-| 402 | 20 | Chelsea Frye |
-| 403 | 20 | Annie Hebdon |
-| 404 | 20 | Raffa |
-| 405 | 20 | Devon |
-| 406 | 20 | Bigbb |
-| 407 | 20 | Amanda Mason Scott |
-| 408 | 20 | Jerry L Morales |
-| 409 | 20 | Tiffany Hassanshahi |
-| 410 | 20 | Silly square |
-| 411 | 20 | Deborah Boyce Minor |
-| 412 | 20 | Amanda Priddy |
-| 413 | 20 | Dapper Pivotfall |
-| 414 | 20 | Chummy Snapbuilder |
-| 415 | 20 | Chesney |
-| 416 | 20 | Lisa Rose |
-| 417 | 20 | Dandy Tiltgrid |
-| 418 | 20 | Dana Wilson |
-| 419 | 20 | Allison Peterson |
-| 420 | 19 | Avie Lou |
+| 384 | 22 | Jeff Pottgether |
+| 385 | 21 | Crystal Robinson |
+| 386 | 21 | Brooke Kaune |
+| 387 | 21 | Staci Walker |
+| 388 | 21 | Nicky Steigerwalt |
+| 389 | 21 | Thy Bui |
+| 390 | 21 | Stephen Gillam |
+| 391 | 21 | Instak1ll |
+| 392 | 21 | Lakeisha Ryder |
+| 393 | 21 | Roe Sarmiento |
+| 394 | 21 | Sarah Phelps Beyer |
+| 395 | 21 | Frilly Dashfit |
+| 396 | 20 | Frothy Roll |
+| 397 | 20 | Devon |
+| 398 | 20 | Bonita Alexander |
+| 399 | 20 | Raffa |
+| 400 | 20 | Annie Hebdon |
+| 401 | 20 | Chelsea Frye |
+| 402 | 20 | phamous1 |
+| 403 | 20 | Ashley Billiot Rhodes |
+| 404 | 20 | Silly square |
+| 405 | 20 | Tiffany Hassanshahi |
+| 406 | 20 | Coleen Yoder |
+| 407 | 20 | Quirky Piecegrid |
+| 408 | 20 | Deborah Boyce Minor |
+| 409 | 20 | Amanda Priddy |
+| 410 | 20 | Allison Peterson |
+| 411 | 20 | Dana Wilson |
+| 412 | 20 | Lisa Rose |
+| 413 | 20 | Bigbb |
+| 414 | 20 | Dandy Tiltgrid |
+| 415 | 20 | Amanda Mason Scott |
+| 416 | 20 | Chummy Snapbuilder |
+| 417 | 20 | Jerry L Morales |
+| 418 | 20 | Chesney |
+| 419 | 20 | Dapper Pivotfall |
+| 420 | 19 | Kati Eckstein |
 | 421 | 19 | Nutty Fitzone |
-| 422 | 19 | Firebone |
-| 423 | 19 | Jessica Jones |
-| 424 | 19 | Armando Sabedra |
-| 425 | 19 | Chirpy Grid |
-| 426 | 19 | Kati Eckstein |
-| 427 | 19 | Snazzy Racker |
+| 422 | 19 | Jessica Jones |
+| 423 | 19 | Firebone |
+| 424 | 19 | Chirpy Grid |
+| 425 | 19 | Snazzy Racker |
+| 426 | 19 | Armando Sabedra |
+| 427 | 19 | Avie Lou |
 | 428 | 18 | Holly Huval |
-| 429 | 18 | Cyrus Ramirez |
-| 430 | 18 | Mark Havens |
-| 431 | 18 | Glitzy Stackbuilder |
-| 432 | 18 | Chirpy Clearpiece |
-| 433 | 18 | TNGal |
-| 434 | 18 | Michele Rogers |
+| 429 | 18 | Mark Havens |
+| 430 | 18 | Glitzy Stackbuilder |
+| 431 | 18 | Jennifer Lewellyn Hutchins |
+| 432 | 18 | Cyrus Ramirez |
+| 433 | 18 | Chirpy Clearpiece |
+| 434 | 18 | TNGal |
 | 435 | 18 | Ssirkus |
 | 436 | 18 | Kaitlyn Hurst |
 | 437 | 18 | Groovy Glider |
-| 438 | 18 | Kourtney Heiden-Hudson |
-| 439 | 17 | Shaylee Haltiner |
-| 440 | 17 | Gluten Gremlin |
-| 441 | 17 | Jennifer Lewellyn Hutchins |
-| 442 | 17 | Rosie |
-| 443 | 17 | Dawn Marie |
+| 438 | 18 | Michele Rogers |
+| 439 | 18 | Kourtney Heiden-Hudson |
+| 440 | 17 | Shaylee Haltiner |
+| 441 | 17 | Missy Savage-Justice |
+| 442 | 17 | Shannon Posner |
+| 443 | 17 | Debra May |
 | 444 | 17 | Rose Schaffner-Kibler |
-| 445 | 17 | Debra May |
-| 446 | 17 | Shannon Posner |
-| 447 | 17 | Missy Savage-Justice |
-| 448 | 16 | CK Hancock |
-| 449 | 16 | Rubics cube |
-| 450 | 16 | Elliot |
-| 451 | 16 | Renee Craig |
-| 452 | 16 | Pleaze Marshall |
+| 445 | 17 | Gluten Gremlin |
+| 446 | 17 | Rosie |
+| 447 | 17 | Dawn Marie |
+| 448 | 16 | Pleaze Marshall |
+| 449 | 16 | Elliot |
+| 450 | 16 | Rubics cube |
+| 451 | 16 | CK Hancock |
+| 452 | 16 | Renee Craig |
 | 453 | 16 | Princess Cucumber |
 | 454 | 16 | Peppy Piececlear |
 | 455 | 16 | Baby |

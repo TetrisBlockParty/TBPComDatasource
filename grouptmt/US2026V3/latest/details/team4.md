@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 22:50:15 UTC
+# Standings for team4 as of 2026-06-05 22:50:36 UTC
 
 **Total Participants:** 519
 
@@ -59,8 +59,8 @@
 | 51 | 200 | Leah Gorsuch |
 | 52 | 192 | Renee Sapp |
 | 53 | 184 | Giggly Tilt |
-| 54 | 169 | Kimyatta Cavin |
-| 55 | 166 | Phil Peterson |
+| 54 | 181 | Phil Peterson |
+| 55 | 169 | Kimyatta Cavin |
 | 56 | 163 | Kim |
 | 57 | 163 | blockhead |
 | 58 | 160 | Shmeedo |
