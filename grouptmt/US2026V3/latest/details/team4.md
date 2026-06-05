@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 15:02:13 UTC
+# Standings for team4 as of 2026-06-05 15:02:35 UTC
 
 **Total Participants:** 190
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 3000 | Destiny Dyer |
+| 1 | 3044 | Destiny Dyer |
 | 2 | 2000 | Candice Driver |
 | 3 | 1691 | Daring Ziggy |
 | 4 | 1169 | Cinny |
@@ -28,17 +28,17 @@
 | 20 | 169 | Kimyatta Cavin |
 | 21 | 161 | Giggy Matchpiece |
 | 22 | 159 | iiPurgeV2 |
-| 23 | 149 | Kim |
-| 24 | 149 | Danny Ortiz |
+| 23 | 149 | Danny Ortiz |
+| 24 | 149 | Kim |
 | 25 | 148 | Colin |
 | 26 | 147 | Kait Confetti |
-| 27 | 138 | Adam J Leong |
-| 28 | 129 | Jojo Ann |
-| 29 | 125 | Leslie Ann Carter |
-| 30 | 121 | Ryan Paul Clark-Ramsey |
-| 31 | 107 | Shayna Vaigneur-Hall |
-| 32 | 107 | Real Talk Vibes |
-| 33 | 103 | Crissy Hoffman |
+| 27 | 143 | Crissy Hoffman |
+| 28 | 138 | Adam J Leong |
+| 29 | 129 | Jojo Ann |
+| 30 | 125 | Leslie Ann Carter |
+| 31 | 121 | Ryan Paul Clark-Ramsey |
+| 32 | 107 | Shayna Vaigneur-Hall |
+| 33 | 107 | Real Talk Vibes |
 | 34 | 101 | Fruitpunch |
 | 35 | 100 | Cal Renee |
 | 36 | 94 | Brandy Lynn |
@@ -50,67 +50,67 @@
 | 42 | 78 | Tina Thomas |
 | 43 | 77 | Lush Fitblock |
 | 44 | 75 | June Hoffman |
-| 45 | 71 | Chris Covington |
-| 46 | 71 | Justin Michael |
+| 45 | 71 | Justin Michael |
+| 46 | 71 | Chris Covington |
 | 47 | 70 | Janae Harris |
 | 48 | 68 | Keys Tome |
 | 49 | 65 | ktothet |
 | 50 | 64 | Stef |
-| 51 | 60 | Fran Aaron-Ring |
+| 51 | 60 | Blockcrusher |
 | 52 | 60 | Magz |
-| 53 | 60 | Blockcrusher |
+| 53 | 60 | Fran Aaron-Ring |
 | 54 | 59 | Futrell Brent |
 | 55 | 58 | Jenn Fitzgerald |
 | 56 | 56 | Henry Lanier |
 | 57 | 54 | blockhead |
-| 58 | 52 | Chirpy Link |
-| 59 | 52 | Jj Johnson |
+| 58 | 52 | Jj Johnson |
+| 59 | 52 | Chirpy Link |
 | 60 | 50 | CorieBe |
 | 61 | 49 | Маркус Вік |
 | 62 | 44 | Lul Babie |
 | 63 | 42 | Shiny Brick |
 | 64 | 41 | Becky McCool |
-| 65 | 40 | SweetChaos |
+| 65 | 40 | Mint Marquez |
 | 66 | 40 | Tyra Brooke Everman Forest |
-| 67 | 40 | Mint Marquez |
+| 67 | 40 | SweetChaos |
 | 68 | 39 | Anthony Kollar |
 | 69 | 39 | Playa |
-| 70 | 38 | Jonathan Hewitt |
-| 71 | 38 | Charity Thomas |
+| 70 | 38 | Charity Thomas |
+| 71 | 38 | Jonathan Hewitt |
 | 72 | 37 | Cindy |
-| 73 | 37 | Dana Fontanez |
-| 74 | 37 | Cail |
+| 73 | 37 | Cail |
+| 74 | 37 | Dana Fontanez |
 | 75 | 36 | Mrs |
 | 76 | 36 | Laurie Patrick |
-| 77 | 35 | Scamp Jones |
-| 78 | 35 | Tactical_B |
+| 77 | 35 | Tactical_B |
+| 78 | 35 | Scamp Jones |
 | 79 | 34 | jojo |
-| 80 | 34 | smarty |
-| 81 | 34 | Clashy |
-| 82 | 31 | Taz |
-| 83 | 31 | Jasmine Marie |
-| 84 | 30 | Nicole Colby McCloskey |
-| 85 | 30 | Dapper Strikerpiece |
-| 86 | 30 | Nia Mayfield |
-| 87 | 30 | Will E Ayala |
-| 88 | 30 | Sarah Berry Stevens |
+| 80 | 34 | Clashy |
+| 81 | 34 | smarty |
+| 82 | 31 | Jasmine Marie |
+| 83 | 31 | Taz |
+| 84 | 30 | Dapper Strikerpiece |
+| 85 | 30 | Will E Ayala |
+| 86 | 30 | Nicole Colby McCloskey |
+| 87 | 30 | Sarah Berry Stevens |
+| 88 | 30 | Nia Mayfield |
 | 89 | 29 | Joseph Hunter |
-| 90 | 28 | Melissa Schwager |
-| 91 | 28 | Sandra O'Reilly |
+| 90 | 28 | Sandra O'Reilly |
+| 91 | 28 | Melissa Schwager |
 | 92 | 27 | Rosy Perez |
 | 93 | 27 | 94Blockhead |
 | 94 | 26 | Lisa Ferriero-Daudin |
-| 95 | 25 | Cool Risepiece |
+| 95 | 25 | Andrea Dre Lomeli |
 | 96 | 25 | Nicole |
-| 97 | 25 | Andrea Dre Lomeli |
-| 98 | 23 | Zippy Snaplink |
+| 97 | 25 | Cool Risepiece |
+| 98 | 23 | Stasia |
 | 99 | 23 | Melissa Quinn |
-| 100 | 23 | Stasia |
+| 100 | 23 | Zippy Snaplink |
 | 101 | 22 | Leslie Marie WarClub |
-| 102 | 22 | Karen Rodriguez |
-| 103 | 22 | Saul Fajardo |
-| 104 | 21 | Socorro Arredondo |
-| 105 | 21 | SandyEva |
+| 102 | 22 | Saul Fajardo |
+| 103 | 22 | Karen Rodriguez |
+| 104 | 21 | SandyEva |
+| 105 | 21 | Socorro Arredondo |
 | 106 | 21 | Keesha Muro |
 | 107 | 20 | Betsy Froemming |
 | 108 | 20 | Jerett Coplin |

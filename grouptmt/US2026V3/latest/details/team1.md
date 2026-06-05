@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:02:13 UTC
+# Standings for team1 as of 2026-06-05 15:02:35 UTC
 
 **Total Participants:** 214
 
@@ -190,36 +190,36 @@
 | 182 | 9 | Shakmar |
 | 183 | 9 | Ta'Kaiyah M. Spann |
 | 184 | 8 | Brika Brika |
-| 185 | 8 | Sammie Walker |
-| 186 | 8 | Breezy Catcher |
-| 187 | 8 | Jessie N Michael Silvers |
-| 188 | 8 | Richard Flex |
-| 189 | 8 | Tanesha Ga'sFinest Corbett |
+| 185 | 8 | Tanesha Ga'sFinest Corbett |
+| 186 | 8 | Sammie Walker |
+| 187 | 8 | Breezy Catcher |
+| 188 | 8 | Jessie N Michael Silvers |
+| 189 | 8 | Richard Flex |
 | 190 | 7 | Jumpy Gridlock |
-| 191 | 7 | whatever |
-| 192 | 7 | Kendra McIntyre |
-| 193 | 7 | Mary2 |
-| 194 | 7 | Shane Brucewayne |
-| 195 | 6 | Cece Fowler |
-| 196 | 6 | Jeffrey Barrows |
-| 197 | 6 | Allison Baxter |
-| 198 | 6 | Janine Hunter |
+| 191 | 7 | Shane Brucewayne |
+| 192 | 7 | Mary2 |
+| 193 | 7 | whatever |
+| 194 | 7 | Kendra McIntyre |
+| 195 | 6 | Christopher Wallace |
+| 196 | 6 | Allison Baxter |
+| 197 | 6 | Jeffrey Barrows |
+| 198 | 6 | Cece Fowler |
 | 199 | 6 | Taz Ballard |
-| 200 | 6 | Christopher Wallace |
-| 201 | 5 | Vernon Hoyt |
-| 202 | 5 | KeeKee Williams |
-| 203 | 5 | Temeshia Brooks Washington |
-| 204 | 5 | Rixo Blax |
-| 205 | 5 | Zappy Clearfit |
-| 206 | 5 | Tamika Fisher |
-| 207 | 5 | Jennifer Moore |
-| 208 | 5 | Kidgib5 |
-| 209 | 5 | Shawn Himes |
-| 210 | 5 | DirtiestofMikes |
-| 211 | 5 | Stephanie Zuniga Tullock |
-| 212 | 5 | Lil T |
-| 213 | 5 | Derek Beverly |
-| 214 | 5 | Elaine Youmans |
+| 200 | 6 | Janine Hunter |
+| 201 | 5 | Zappy Clearfit |
+| 202 | 5 | Rixo Blax |
+| 203 | 5 | Derek Beverly |
+| 204 | 5 | Temeshia Brooks Washington |
+| 205 | 5 | KeeKee Williams |
+| 206 | 5 | Lil T |
+| 207 | 5 | Vernon Hoyt |
+| 208 | 5 | Stephanie Zuniga Tullock |
+| 209 | 5 | DirtiestofMikes |
+| 210 | 5 | Shawn Himes |
+| 211 | 5 | Kidgib5 |
+| 212 | 5 | Elaine Youmans |
+| 213 | 5 | Jennifer Moore |
+| 214 | 5 | Tamika Fisher |
 
 ---
 *Standings created by tournaments datasource generation tool*
