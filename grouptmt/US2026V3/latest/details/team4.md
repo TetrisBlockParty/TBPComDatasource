@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 23:00:38 UTC
+# Standings for team4 as of 2026-06-05 23:01:14 UTC
 
 **Total Participants:** 534
 
@@ -18,20 +18,20 @@
 | 10 | 1853 | Daring Ziggy |
 | 11 | 1746 | delilahbelle |
 | 12 | 1169 | Cinny |
-| 13 | 1051 | Tyra Brooke Everman Forest |
-| 14 | 1022 | Hanan Hana |
+| 13 | 1151 | Tyra Brooke Everman Forest |
+| 14 | 1064 | Hanan Hana |
 | 15 | 906 | Fruitpunch |
 | 16 | 876 | SMV |
 | 17 | 781 | Blind Bette |
 | 18 | 734 | Lisa Cullum |
-| 19 | 700 | Carly Stempien |
-| 20 | 640 | Kathy Brookins |
-| 21 | 601 | Bryony Nicholson |
+| 19 | 701 | Bryony Nicholson |
+| 20 | 700 | Carly Stempien |
+| 21 | 640 | Kathy Brookins |
 | 22 | 600 | Caitlin Johnson |
 | 23 | 559 | Lynn Grimes |
 | 24 | 477 | Malik Thompson |
-| 25 | 474 | Heather Preston |
-| 26 | 474 | Jeremy Lopez |
+| 25 | 474 | Jeremy Lopez |
+| 26 | 474 | Heather Preston |
 | 27 | 466 | Krysten Danielle Richard |
 | 28 | 465 | Fancy Crasher |
 | 29 | 445 | Loony Towerer |
@@ -54,8 +54,8 @@
 | 46 | 240 | Jojo Ann |
 | 47 | 240 | Michele Walker |
 | 48 | 232 | Charlie Lewis |
-| 49 | 214 | Sisi RedVelvet Reneè |
-| 50 | 214 | Melissa WC |
+| 49 | 214 | Melissa WC |
+| 50 | 214 | Sisi RedVelvet Reneè |
 | 51 | 211 | Phil Peterson |
 | 52 | 203 | Patrick Alley |
 | 53 | 203 | Andrew Dang |
@@ -63,8 +63,8 @@
 | 55 | 192 | Renee Sapp |
 | 56 | 184 | Giggly Tilt |
 | 57 | 169 | Kimyatta Cavin |
-| 58 | 163 | blockhead |
-| 59 | 163 | Kim |
+| 58 | 163 | Kim |
+| 59 | 163 | blockhead |
 | 60 | 160 | Shmeedo |
 | 61 | 159 | iiPurgeV2 |
 | 62 | 154 | Jonathan Hewitt |
