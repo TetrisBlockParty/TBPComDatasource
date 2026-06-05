@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 17:00:36 UTC
+# Standings for team2 as of 2026-06-05 17:01:14 UTC
 
 **Total Participants:** 323
 
@@ -39,53 +39,53 @@
 | 31 | 175 | Betty Barrett |
 | 32 | 158 | Nettrainer |
 | 33 | 158 | Amy Nicole McCanne |
-| 34 | 126 | Nathan Walker |
-| 35 | 121 | Helen Thomas |
-| 36 | 117 | Santara Ferguson |
-| 37 | 111 | NickandJess Reynolds |
-| 38 | 105 | Ackerman 85 |
-| 39 | 103 | Spunky Cascadeclear |
-| 40 | 102 | La chulis |
-| 41 | 100 | LEW |
-| 42 | 99 | Melissa Abbott |
-| 43 | 93 | Ariel Gundersen |
+| 34 | 127 | Christina Shell |
+| 35 | 126 | Nathan Walker |
+| 36 | 121 | Helen Thomas |
+| 37 | 117 | Santara Ferguson |
+| 38 | 111 | NickandJess Reynolds |
+| 39 | 105 | Ackerman 85 |
+| 40 | 103 | La chulis |
+| 41 | 103 | Spunky Cascadeclear |
+| 42 | 100 | LEW |
+| 43 | 99 | Melissa Abbott |
 | 44 | 93 | Tango Sierra |
-| 45 | 90 | Curly Windbreaker |
-| 46 | 89 | Chipper Stackbuilder |
-| 47 | 87 | Brittni Lawrence |
-| 48 | 86 | Jazzy Faller |
-| 49 | 83 | Ashley Voelz |
-| 50 | 82 | Sandra Pursell |
-| 51 | 81 | Alissa Ary |
-| 52 | 80 | AcardBoardBox |
-| 53 | 80 | Amy Gregg |
-| 54 | 80 | Skye Ehret |
-| 55 | 80 | Lisa Breiding |
-| 56 | 80 | MegaPooh |
-| 57 | 79 | H |
-| 58 | 76 | Jenni LeBlanc |
-| 59 | 76 | Jamie Fenyus |
-| 60 | 75 | Angeleye A James |
-| 61 | 73 | Theresa Hollinger |
-| 62 | 73 | LittleHippoEars |
-| 63 | 70 | Amanda Sikes |
-| 64 | 70 | Bon Lynn |
-| 65 | 67 | Christina Shell |
+| 45 | 93 | Ariel Gundersen |
+| 46 | 90 | Curly Windbreaker |
+| 47 | 89 | Chipper Stackbuilder |
+| 48 | 87 | Brittni Lawrence |
+| 49 | 86 | Jazzy Faller |
+| 50 | 83 | Ashley Voelz |
+| 51 | 82 | Sandra Pursell |
+| 52 | 81 | Alissa Ary |
+| 53 | 80 | Skye Ehret |
+| 54 | 80 | Lisa Breiding |
+| 55 | 80 | AcardBoardBox |
+| 56 | 80 | Amy Gregg |
+| 57 | 80 | MegaPooh |
+| 58 | 79 | H |
+| 59 | 76 | Jenni LeBlanc |
+| 60 | 76 | Jamie Fenyus |
+| 61 | 75 | Angeleye A James |
+| 62 | 73 | Theresa Hollinger |
+| 63 | 73 | LittleHippoEars |
+| 64 | 70 | Amanda Sikes |
+| 65 | 70 | Bon Lynn |
 | 66 | 67 | Steven Craig |
 | 67 | 66 | Sarah Mccolgan |
 | 68 | 65 | Brandy Chinelle |
-| 69 | 63 | Jessica Christine |
-| 70 | 63 | Zarah Kettler |
+| 69 | 63 | Zarah Kettler |
+| 70 | 63 | Jessica Christine |
 | 71 | 61 | Bubbly Dash |
-| 72 | 61 | Jessica Perkins |
-| 73 | 61 | Charley Bedford |
-| 74 | 60 | Courtney Madison Hart |
-| 75 | 60 | Kim Hunt |
-| 76 | 60 | Amber Salazar |
+| 72 | 61 | Charley Bedford |
+| 73 | 61 | Jessica Perkins |
+| 74 | 60 | Amber Salazar |
+| 75 | 60 | Courtney Madison Hart |
+| 76 | 60 | Kim Hunt |
 | 77 | 60 | Elizabeth Cornelius |
 | 78 | 59 | April Addis |
-| 79 | 58 | Sara Perkins |
-| 80 | 58 | Chipper Towerzone |
+| 79 | 58 | Chipper Towerzone |
+| 80 | 58 | Sara Perkins |
 | 81 | 57 | Zany Wrecker |
 | 82 | 57 | Jumpy Dashpiece |
 | 83 | 56 | Brenda Jones |
@@ -94,108 +94,108 @@
 | 86 | 54 | Suki Jacobs |
 | 87 | 54 | Cool Balancer |
 | 88 | 51 | Loretta Crow |
-| 89 | 50 | Shiny Spinfit |
-| 90 | 50 | rageking |
-| 91 | 50 | Justin Stark |
-| 92 | 50 | Martha Lynn Wiggins |
+| 89 | 50 | Justin Stark |
+| 90 | 50 | Martha Lynn Wiggins |
+| 91 | 50 | rageking |
+| 92 | 50 | Shiny Spinfit |
 | 93 | 48 | Spicy Basepiece |
 | 94 | 48 | Dizzy Dropzone |
 | 95 | 46 | Dani Newton |
 | 96 | 45 | Michelle Anne |
 | 97 | 44 | Zaniya Brown |
 | 98 | 44 | Victoria Pale |
-| 99 | 43 | Peter Fogg |
-| 100 | 43 | SEH |
+| 99 | 43 | SEH |
+| 100 | 43 | Peter Fogg |
 | 101 | 43 | Breezy |
-| 102 | 42 | Sully |
-| 103 | 42 | Marquetta Johnson |
-| 104 | 42 | Charity Hauser |
-| 105 | 42 | Henny Henny |
-| 106 | 42 | Bri St Peter |
-| 107 | 42 | Shylo Bryant-Brunson |
-| 108 | 42 | Brittany Nichole Ellenburg |
-| 109 | 42 | Heather Vircik |
-| 110 | 42 | Snazzy Smasher |
+| 102 | 42 | Brittany Nichole Ellenburg |
+| 103 | 42 | Charity Hauser |
+| 104 | 42 | Marquetta Johnson |
+| 105 | 42 | Shylo Bryant-Brunson |
+| 106 | 42 | Henny Henny |
+| 107 | 42 | Heather Vircik |
+| 108 | 42 | Snazzy Smasher |
+| 109 | 42 | Bri St Peter |
+| 110 | 42 | Sully |
 | 111 | 41 | Jenny Coffer |
 | 112 | 41 | Ava Speedy |
-| 113 | 40 | Sherry Ann |
-| 114 | 40 | Spicy Balanceblock |
-| 115 | 40 | Jat |
-| 116 | 40 | Dane Marko |
+| 113 | 40 | Nicole Chestnut |
+| 114 | 40 | Jat |
+| 115 | 40 | Spicy Balanceblock |
+| 116 | 40 | Sherry Ann |
 | 117 | 40 | Larry Cross |
-| 118 | 40 | Loopy Dropper |
-| 119 | 40 | Nicole Chestnut |
-| 120 | 40 | Kevin Mccoy |
+| 118 | 40 | Kevin Mccoy |
+| 119 | 40 | Loopy Dropper |
+| 120 | 40 | Dane Marko |
 | 121 | 39 | Becca Marie |
 | 122 | 39 | Xandrea Jones |
 | 123 | 39 | Jason Lamporte |
-| 124 | 38 | Sarah Jane Gorsuch |
-| 125 | 38 | Nicole Hogue |
-| 126 | 38 | Lush Party |
-| 127 | 38 | Harper |
-| 128 | 38 | Jason P. Schwartz |
+| 124 | 38 | Nicole Hogue |
+| 125 | 38 | Jason P. Schwartz |
+| 126 | 38 | Sarah Jane Gorsuch |
+| 127 | 38 | Lush Party |
+| 128 | 38 | Harper |
 | 129 | 38 | Frilly Match |
 | 130 | 37 | James Ward |
 | 131 | 37 | Andre Love |
 | 132 | 36 | Mtnblzr |
-| 133 | 35 | Jackie Walker |
-| 134 | 35 | Thomas Johnstone |
-| 135 | 35 | Josie Mendivil |
-| 136 | 35 | Natalie M. Arredondo |
-| 137 | 35 | Kelly |
-| 138 | 35 | Jason Cunningham |
-| 139 | 34 | Marylin Eacker |
-| 140 | 34 | Funway998 |
+| 133 | 35 | Josie Mendivil |
+| 134 | 35 | Jason Cunningham |
+| 135 | 35 | Kelly |
+| 136 | 35 | Thomas Johnstone |
+| 137 | 35 | Natalie M. Arredondo |
+| 138 | 35 | Jackie Walker |
+| 139 | 34 | Funway998 |
+| 140 | 34 | Marylin Eacker |
 | 141 | 33 | Alexis Meyers |
 | 142 | 33 | Kenzie |
 | 143 | 32 | Jgato |
 | 144 | 32 | Sandra Belk |
 | 145 | 31 | Michael Carmichael |
-| 146 | 30 | Paula Haskins |
-| 147 | 30 | Lively Curve |
-| 148 | 30 | Nora Buchan |
-| 149 | 30 | Mama G |
-| 150 | 30 | Stacey Loretta Wallace |
-| 151 | 30 | Wacky Holder |
-| 152 | 30 | Marquita Toliver |
-| 153 | 30 | Zany Blockclear |
+| 146 | 30 | Wacky Holder |
+| 147 | 30 | Mama G |
+| 148 | 30 | Patti Ward |
+| 149 | 30 | Stacey Loretta Wallace |
+| 150 | 30 | Lively Curve |
+| 151 | 30 | Paula Haskins |
+| 152 | 30 | Zany Blockclear |
+| 153 | 30 | Marquita Toliver |
 | 154 | 30 | Buddy |
 | 155 | 30 | Sandy Justus |
-| 156 | 30 | Patti Ward |
-| 157 | 29 | Brandy Wallace |
-| 158 | 29 | Laverne Ellis Blair |
-| 159 | 29 | Nikki Hayes |
-| 160 | 28 | REE4 |
-| 161 | 28 | Sara BlueEyes |
-| 162 | 28 | Carole Brown |
-| 163 | 27 | Brian Karr |
+| 156 | 30 | Nora Buchan |
+| 157 | 29 | Nikki Hayes |
+| 158 | 29 | Brandy Wallace |
+| 159 | 29 | Laverne Ellis Blair |
+| 160 | 28 | Sara BlueEyes |
+| 161 | 28 | Carole Brown |
+| 162 | 28 | REE4 |
+| 163 | 27 | Missy Stevens |
 | 164 | 27 | Kim |
-| 165 | 27 | Missy Stevens |
-| 166 | 26 | nova |
-| 167 | 26 | Quina Jesse Fejaran |
-| 168 | 26 | Darlene Russell |
-| 169 | 26 | Rachel Huber |
-| 170 | 25 | Heather Burgett |
-| 171 | 25 | Tamara Whiteley |
-| 172 | 25 | Raymond Dawson |
-| 173 | 25 | IncrediDragon |
-| 174 | 25 | ChefDeb |
-| 175 | 25 | Slinky Winder |
-| 176 | 24 | Nicole |
-| 177 | 24 | SunnySquare |
-| 178 | 24 | Ashley Green |
-| 179 | 24 | Dayna Messer-Thelen |
-| 180 | 23 | Shirley Bates |
-| 181 | 23 | Damion Morrison |
-| 182 | 22 | Seamus |
-| 183 | 22 | Silly Tiltbuilder |
-| 184 | 22 | Marii |
+| 165 | 27 | Brian Karr |
+| 166 | 26 | Rachel Huber |
+| 167 | 26 | Darlene Russell |
+| 168 | 26 | nova |
+| 169 | 26 | Quina Jesse Fejaran |
+| 170 | 25 | ChefDeb |
+| 171 | 25 | Raymond Dawson |
+| 172 | 25 | IncrediDragon |
+| 173 | 25 | Slinky Winder |
+| 174 | 25 | Heather Burgett |
+| 175 | 25 | Tamara Whiteley |
+| 176 | 24 | SunnySquare |
+| 177 | 24 | Nicole |
+| 178 | 24 | Dayna Messer-Thelen |
+| 179 | 24 | Ashley Green |
+| 180 | 23 | Damion Morrison |
+| 181 | 23 | Shirley Bates |
+| 182 | 22 | Ashley Diana |
+| 183 | 22 | Marii |
+| 184 | 22 | Jeff Pottgether |
 | 185 | 22 | Amber Cogdill |
-| 186 | 22 | Jeff Pottgether |
-| 187 | 22 | Ashley Diana |
-| 188 | 21 | Instak1ll |
+| 186 | 22 | Seamus |
+| 187 | 22 | Silly Tiltbuilder |
+| 188 | 21 | Thy Bui |
 | 189 | 21 | Brooke Kaune |
-| 190 | 21 | Thy Bui |
+| 190 | 21 | Instak1ll |
 | 191 | 21 | Maria Ward |
 | 192 | 21 | Epic Framezone |
 | 193 | 20 | Kelly Hall Whitt |
