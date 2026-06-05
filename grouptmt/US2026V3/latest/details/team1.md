@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 14:18:14 UTC
+# Standings for team1 as of 2026-06-05 14:18:35 UTC
 
 **Total Participants:** 159
 
@@ -160,11 +160,11 @@
 | 152 | 5 | Derek Beverly |
 | 153 | 5 | Temeshia Brooks Washington |
 | 154 | 5 | Skippy |
-| 155 | 5 | Tamika Fisher |
-| 156 | 5 | Jennifer Moore |
-| 157 | 5 | Kidgib5 |
-| 158 | 5 | DirtiestofMikes |
-| 159 | 5 | Lil T |
+| 155 | 5 | Jennifer Moore |
+| 156 | 5 | Kidgib5 |
+| 157 | 5 | DirtiestofMikes |
+| 158 | 5 | Lil T |
+| 159 | 5 | Tamika Fisher |
 
 ---
 *Standings created by tournaments datasource generation tool*
