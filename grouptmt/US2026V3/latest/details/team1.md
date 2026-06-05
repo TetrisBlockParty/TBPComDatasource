@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 12:43:12 UTC
+# Standings for team1 as of 2026-06-05 12:44:13 UTC
 
 **Total Participants:** 67
 
@@ -16,24 +16,24 @@
 | 8 | 164 | Gotcha |
 | 9 | 152 | jaimie |
 | 10 | 141 | Debbie Carswell |
-| 11 | 81 | Robyn Caldwell |
-| 12 | 80 | Rachel Zimmerman |
-| 13 | 77 | Amber Wilson |
-| 14 | 74 | ♈️ Ariesbaby |
-| 15 | 60 | Asani CHumba |
-| 16 | 58 | Mafio SO |
-| 17 | 56 | Shontanese Adams |
-| 18 | 54 | Cee Emm |
-| 19 | 50 | Slinky Party |
-| 20 | 50 | Jazzy Dashpiece |
+| 11 | 96 | Cee Emm |
+| 12 | 81 | Robyn Caldwell |
+| 13 | 80 | Rachel Zimmerman |
+| 14 | 77 | Amber Wilson |
+| 15 | 74 | ♈️ Ariesbaby |
+| 16 | 66 | Shontanese Adams |
+| 17 | 60 | Asani CHumba |
+| 18 | 58 | Mafio SO |
+| 19 | 50 | Jazzy Dashpiece |
+| 20 | 50 | Slinky Party |
 | 21 | 40 | Jean Regis |
 | 22 | 40 | Lauraly |
 | 23 | 40 | Leavon Smith |
 | 24 | 35 | KoolKimJay |
 | 25 | 32 | Saucy Crusher |
-| 26 | 30 | Kellie Hall |
+| 26 | 30 | Lester Malone |
 | 27 | 30 | Saucy Faller |
-| 28 | 30 | Lester Malone |
+| 28 | 30 | Kellie Hall |
 | 29 | 28 | John Staub |
 | 30 | 27 | Angela R Wilson |
 | 31 | 27 | Michele Elizabeth McKay-Johnson |
@@ -43,36 +43,36 @@
 | 35 | 23 | Poppy Twister |
 | 36 | 22 | Tanisha Taylor |
 | 37 | 21 | Brave Balanceblock |
-| 38 | 20 | Jai |
-| 39 | 20 | Trina Greenwood |
+| 38 | 20 | Trina Greenwood |
+| 39 | 20 | Jai |
 | 40 | 19 | Jenni |
 | 41 | 19 | Amanda Woodruff |
 | 42 | 18 | Zany Breaker |
 | 43 | 18 | Dizzy Dashy |
 | 44 | 17 | Rikki Moran |
 | 45 | 16 | Sylvia Offically A Mcgowan |
-| 46 | 15 | Tami Spence |
-| 47 | 15 | Ashley MyBeauty Daniels |
-| 48 | 13 | Shanjerrica Taylor Rosell |
-| 49 | 12 | Kimmie Gargano |
-| 50 | 11 | SPNLover24 |
+| 46 | 15 | Christian Pham |
+| 47 | 15 | Tami Spence |
+| 48 | 15 | Ashley MyBeauty Daniels |
+| 49 | 13 | Shanjerrica Taylor Rosell |
+| 50 | 12 | Kimmie Gargano |
 | 51 | 11 | Desiree Ryder |
-| 52 | 10 | Brian Stackhouse |
-| 53 | 10 | Tishauna Virgo |
-| 54 | 10 | Sarah Marie |
-| 55 | 10 | Frisky Fall |
-| 56 | 10 | Christian Pham |
-| 57 | 10 | 신재호 |
-| 58 | 9 | Tina Criam |
-| 59 | 9 | IThinkNot |
-| 60 | 9 | Una |
-| 61 | 9 | Steve Reno |
+| 52 | 11 | SPNLover24 |
+| 53 | 10 | Sarah Marie |
+| 54 | 10 | Tishauna Virgo |
+| 55 | 10 | 신재호 |
+| 56 | 10 | Frisky Fall |
+| 57 | 10 | Brian Stackhouse |
+| 58 | 9 | IThinkNot |
+| 59 | 9 | Una |
+| 60 | 9 | Steve Reno |
+| 61 | 9 | Tina Criam |
 | 62 | 8 | Sammie Walker |
-| 63 | 7 | Kendra McIntyre |
-| 64 | 7 | Mary2 |
-| 65 | 7 | Brika Brika |
-| 66 | 5 | Cheeky Pop |
-| 67 | 5 | Shakmar |
+| 63 | 7 | Brika Brika |
+| 64 | 7 | Kendra McIntyre |
+| 65 | 7 | Mary2 |
+| 66 | 5 | Shakmar |
+| 67 | 5 | Cheeky Pop |
 
 ---
 *Standings created by tournaments datasource generation tool*

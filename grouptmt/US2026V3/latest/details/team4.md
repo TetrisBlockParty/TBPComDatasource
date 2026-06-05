@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-06-05 12:43:12 UTC
+# Standings for team4 as of 2026-06-05 12:44:13 UTC
 
-**Total Participants:** 59
+**Total Participants:** 61
 
 ## Participant Scores
 
@@ -18,12 +18,12 @@
 | 10 | 70 | Janae Harris |
 | 11 | 51 | Chris Covington |
 | 12 | 51 | Real Talk Vibes |
-| 13 | 50 | Keys Tome |
-| 14 | 50 | Gloria Nunley Trussell |
-| 15 | 50 | Jesse Olive |
+| 13 | 50 | Jesse Olive |
+| 14 | 50 | Keys Tome |
+| 15 | 50 | Gloria Nunley Trussell |
 | 16 | 45 | Kim |
-| 17 | 38 | Charity Thomas |
-| 18 | 38 | Jonathan Hewitt |
+| 17 | 38 | Jonathan Hewitt |
+| 18 | 38 | Charity Thomas |
 | 19 | 36 | Blockcrusher |
 | 20 | 34 | jojo |
 | 21 | 32 | Shiny Brick |
@@ -36,35 +36,37 @@
 | 28 | 22 | Saul Fajardo |
 | 29 | 22 | smarty |
 | 30 | 21 | Keesha Muro |
-| 31 | 20 | Magz |
-| 32 | 20 | Erica Pompey |
+| 31 | 20 | Erica Pompey |
+| 32 | 20 | Magz |
 | 33 | 18 | Iforget |
 | 34 | 16 | Jasmine Marie |
-| 35 | 15 | Perry Ransom |
-| 36 | 14 | Zippy Snaplink |
-| 37 | 13 | Cherry |
-| 38 | 13 | Nancy McCalla Abercrombie |
-| 39 | 11 | Alizabeth Garcia |
-| 40 | 10 | Mrs |
-| 41 | 10 | Buchanon Bossingup Jadrienne |
-| 42 | 10 | Lateasha Wildman |
+| 35 | 15 | Joshua Garner |
+| 36 | 15 | Perry Ransom |
+| 37 | 14 | Zippy Snaplink |
+| 38 | 13 | Cherry |
+| 39 | 13 | Nancy McCalla Abercrombie |
+| 40 | 12 | Alizabeth Garcia |
+| 41 | 10 | Mrs |
+| 42 | 10 | Buchanon Bossingup Jadrienne |
 | 43 | 10 | Hasty Dropzone |
-| 44 | 10 | Jonelle Jacobs |
-| 45 | 9 | Hotstuff |
+| 44 | 10 | Lateasha Wildman |
+| 45 | 10 | Jonelle Jacobs |
 | 46 | 9 | Snippy Grid |
-| 47 | 8 | Sisi RedVelvet Reneè |
-| 48 | 7 | George Palacios |
-| 49 | 7 | Catherine Garza |
-| 50 | 6 | Dizzy |
-| 51 | 5 | Jason Garnatz |
-| 52 | 5 | Zappy Matchgrid |
-| 53 | 5 | Jeremy Barry |
-| 54 | 5 | Lively Cascadeclear |
-| 55 | 5 | Breezy Blockzone |
-| 56 | 5 | Cflixer |
-| 57 | 5 | Swanky Zigzag |
-| 58 | 5 | Mighty1 |
-| 59 | 5 | Joshua Garner |
+| 47 | 9 | Hotstuff |
+| 48 | 8 | Karen Rodriguez |
+| 49 | 8 | Sisi RedVelvet Reneè |
+| 50 | 8 | Stasia |
+| 51 | 7 | George Palacios |
+| 52 | 7 | Catherine Garza |
+| 53 | 6 | Dizzy |
+| 54 | 5 | Jason Garnatz |
+| 55 | 5 | Jeremy Barry |
+| 56 | 5 | Lively Cascadeclear |
+| 57 | 5 | Cflixer |
+| 58 | 5 | Breezy Blockzone |
+| 59 | 5 | Zappy Matchgrid |
+| 60 | 5 | Swanky Zigzag |
+| 61 | 5 | Mighty1 |
 
 ---
 *Standings created by tournaments datasource generation tool*

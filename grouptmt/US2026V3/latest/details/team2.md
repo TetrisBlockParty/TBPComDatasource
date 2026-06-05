@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-05 12:43:12 UTC
+# Standings for team2 as of 2026-06-05 12:44:13 UTC
 
-**Total Participants:** 56
+**Total Participants:** 57
 
 ## Participant Scores
 
@@ -8,8 +8,8 @@
 | :- | :- | :- |
 | 1 | 1702 | Puce guide 9156 |
 | 2 | 1100 | Kathleen M Cox |
-| 3 | 545 | Jewels |
-| 4 | 474 | Logan Basham |
+| 3 | 564 | Logan Basham |
+| 4 | 545 | Jewels |
 | 5 | 400 | Mocha |
 | 6 | 273 | Amy Gale |
 | 7 | 75 | Angeleye A James |
@@ -28,8 +28,8 @@
 | 20 | 27 | Michael Carmichael |
 | 21 | 26 | Ariel Gundersen |
 | 22 | 26 | Rachel Huber |
-| 23 | 25 | Jgato |
-| 24 | 25 | April Addis |
+| 23 | 25 | April Addis |
+| 24 | 25 | Jgato |
 | 25 | 24 | A.j. Langley |
 | 26 | 24 | Dayna Messer-Thelen |
 | 27 | 23 | IncrediDragon |
@@ -38,30 +38,31 @@
 | 30 | 18 | Tracey Cox |
 | 31 | 16 | Peter Fogg |
 | 32 | 15 | Spicy Basepiece |
-| 33 | 12 | Mary |
+| 33 | 12 | Chirpy Grid |
 | 34 | 12 | Stacey Loretta Wallace |
-| 35 | 11 | Lora Via |
-| 36 | 11 | Thy Bui |
-| 37 | 10 | Bon Lynn |
-| 38 | 10 | Twisty Snapmatch |
-| 39 | 10 | Joyce Galloway |
-| 40 | 10 | Berta Hurley |
-| 41 | 10 | Justin Furne |
-| 42 | 10 | Rick |
-| 43 | 10 | Gill |
-| 44 | 9 | Darla Ragsdale |
-| 45 | 9 | Mama G |
-| 46 | 9 | Giggly Spinblock |
+| 35 | 12 | Mary |
+| 36 | 11 | Lora Via |
+| 37 | 11 | Thy Bui |
+| 38 | 10 | Justin Furne |
+| 39 | 10 | Berta Hurley |
+| 40 | 10 | Joyce Galloway |
+| 41 | 10 | Rick |
+| 42 | 10 | Bon Lynn |
+| 43 | 10 | Twisty Snapmatch |
+| 44 | 10 | Gill |
+| 45 | 9 | Darla Ragsdale |
+| 46 | 9 | Mama G |
 | 47 | 9 | Princess Cucumber |
-| 48 | 8 | Chirpy Grid |
+| 48 | 9 | Giggly Spinblock |
 | 49 | 7 | Cherica Taylor |
 | 50 | 6 | Kenzie |
-| 51 | 6 | fancypants |
-| 52 | 6 | Kelly Christine Trimmer |
-| 53 | 5 | Tashamonique Puckey |
-| 54 | 5 | Allison Peterson |
-| 55 | 5 | Thomas Johnstone |
-| 56 | 5 | Devon |
+| 51 | 6 | Kelly Christine Trimmer |
+| 52 | 6 | Martha Lynn Wiggins |
+| 53 | 6 | fancypants |
+| 54 | 5 | Thomas Johnstone |
+| 55 | 5 | Devon |
+| 56 | 5 | Allison Peterson |
+| 57 | 5 | Tashamonique Puckey |
 
 ---
 *Standings created by tournaments datasource generation tool*
