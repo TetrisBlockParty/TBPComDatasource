@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 14:46:35 UTC
+# Standings for team1 as of 2026-06-05 14:47:13 UTC
 
 **Total Participants:** 200
 
@@ -18,11 +18,11 @@
 | 10 | 300 | Ryan Meilleur |
 | 11 | 241 | Ivana Schmidt |
 | 12 | 240 | Carolynne Walker-Bell |
-| 13 | 237 | Tammye Turner |
-| 14 | 234 | Pdubbl3 |
-| 15 | 215 | Sarah Marie |
-| 16 | 201 | Holly Jolly |
-| 17 | 180 | Whitney Butler |
+| 13 | 240 | Whitney Butler |
+| 14 | 237 | Tammye Turner |
+| 15 | 234 | Pdubbl3 |
+| 16 | 215 | Sarah Marie |
+| 17 | 201 | Holly Jolly |
 | 18 | 178 | Gotcha |
 | 19 | 177 | Chris Sladoje |
 | 20 | 170 | Janet Cooke |
@@ -35,15 +35,15 @@
 | 27 | 100 | Asani CHumba |
 | 28 | 100 | Rayya Kiser |
 | 29 | 99 | Kellie Hall |
-| 30 | 91 | Ashley MyBeauty Daniels |
+| 30 | 95 | Ashley MyBeauty Daniels |
 | 31 | 90 | Bre Maugh |
 | 32 | 86 | SPNLover24 |
-| 33 | 81 | Robyn Caldwell |
-| 34 | 81 | Mafio SO |
-| 35 | 80 | Felicia Williams |
-| 36 | 80 | Rachel Zimmerman |
-| 37 | 80 | Jazzy Dashpiece |
-| 38 | 80 | Char |
+| 33 | 81 | Mafio SO |
+| 34 | 81 | Robyn Caldwell |
+| 35 | 80 | Rachel Zimmerman |
+| 36 | 80 | Jazzy Dashpiece |
+| 37 | 80 | Char |
+| 38 | 80 | Felicia Williams |
 | 39 | 77 | Amber Wilson |
 | 40 | 75 | Katrina Ramey |
 | 41 | 74 | ♈️ Ariesbaby |
@@ -53,10 +53,10 @@
 | 45 | 69 | AF Cruz |
 | 46 | 67 | Michele Elizabeth McKay-Johnson |
 | 47 | 66 | Shontanese Adams |
-| 48 | 65 | Frisky Fall |
-| 49 | 65 | Jennifer To |
-| 50 | 65 | Dizzy Dashy |
-| 51 | 65 | Shanell Thomas |
+| 48 | 65 | Shanell Thomas |
+| 49 | 65 | Dizzy Dashy |
+| 50 | 65 | Jennifer To |
+| 51 | 65 | Frisky Fall |
 | 52 | 63 | Carrie English |
 | 53 | 60 | Christian Pham |
 | 54 | 57 | Tosha Michelle |
@@ -69,8 +69,8 @@
 | 61 | 48 | Brian Bohanon II |
 | 62 | 45 | Jayjay Rich |
 | 63 | 44 | Ciera Peace |
-| 64 | 43 | Block |
-| 65 | 43 | KenpachisGirl |
+| 64 | 43 | KenpachisGirl |
+| 65 | 43 | Block |
 | 66 | 41 | Jessica Russell |
 | 67 | 40 | Cheeky Pop |
 | 68 | 40 | Carolyn Smith |
@@ -193,19 +193,19 @@
 | 185 | 6 | Taz Ballard |
 | 186 | 6 | Janine Hunter |
 | 187 | 5 | Tamika Fisher |
-| 188 | 5 | Jennifer Moore |
-| 189 | 5 | Rixo Blax |
-| 190 | 5 | Derek Beverly |
-| 191 | 5 | Temeshia Brooks Washington |
-| 192 | 5 | KeeKee Williams |
-| 193 | 5 | Lil T |
-| 194 | 5 | Vernon Hoyt |
-| 195 | 5 | Stephanie Zuniga Tullock |
-| 196 | 5 | DirtiestofMikes |
-| 197 | 5 | Shawn Himes |
-| 198 | 5 | Kidgib5 |
-| 199 | 5 | Elaine Youmans |
-| 200 | 5 | Guy Incognito |
+| 188 | 5 | Rixo Blax |
+| 189 | 5 | Derek Beverly |
+| 190 | 5 | Temeshia Brooks Washington |
+| 191 | 5 | KeeKee Williams |
+| 192 | 5 | Lil T |
+| 193 | 5 | Vernon Hoyt |
+| 194 | 5 | DirtiestofMikes |
+| 195 | 5 | Shawn Himes |
+| 196 | 5 | Kidgib5 |
+| 197 | 5 | Elaine Youmans |
+| 198 | 5 | Guy Incognito |
+| 199 | 5 | Jennifer Moore |
+| 200 | 5 | Stephanie Zuniga Tullock |
 
 ---
 *Standings created by tournaments datasource generation tool*
