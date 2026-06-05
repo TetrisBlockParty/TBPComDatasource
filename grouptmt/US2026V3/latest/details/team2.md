@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 23:40:15 UTC
+# Standings for team2 as of 2026-06-05 23:40:36 UTC
 
 **Total Participants:** 672
 
@@ -513,56 +513,56 @@
 | 505 | 15 | Jessica LeNeave |
 | 506 | 15 | fancypants |
 | 507 | 15 | Dad |
-| 508 | 15 | Wacky Stack |
-| 509 | 15 | Cherica Taylor |
-| 510 | 15 | Christine Ann Eras |
-| 511 | 15 | Liseth Vasquez |
-| 512 | 15 | YAKO |
-| 513 | 15 | MaddieCherie |
-| 514 | 15 | Samantha |
-| 515 | 15 | Cuca Perez |
-| 516 | 15 | Naomi Jaynes |
-| 517 | 15 | Samantha Brown |
-| 518 | 15 | Daring Pivotfall |
+| 508 | 15 | Cherica Taylor |
+| 509 | 15 | Daring Pivotfall |
+| 510 | 15 | Samantha Brown |
+| 511 | 15 | Naomi Jaynes |
+| 512 | 15 | Cuca Perez |
+| 513 | 15 | Samantha |
+| 514 | 15 | Christine Ann Eras |
+| 515 | 15 | MaddieCherie |
+| 516 | 15 | YAKO |
+| 517 | 15 | Liseth Vasquez |
+| 518 | 15 | Wacky Stack |
 | 519 | 14 | Anthony Kordich |
 | 520 | 14 | Randi Moore |
-| 521 | 14 | Christopher Pulley |
-| 522 | 14 | WhitS |
-| 523 | 14 | MiMi’26 |
-| 524 | 13 | bigdog |
-| 525 | 13 | Newtwidebody |
-| 526 | 13 | latte |
-| 527 | 13 | Sean Rippa |
-| 528 | 13 | Michelle M Braley |
+| 521 | 14 | MiMi’26 |
+| 522 | 14 | Christopher Pulley |
+| 523 | 14 | Monique Frantz |
+| 524 | 14 | WhitS |
+| 525 | 13 | Sean Rippa |
+| 526 | 13 | Michelle M Braley |
+| 527 | 13 | latte |
+| 528 | 13 | bigdog |
 | 529 | 13 | Dreamy Wipepiece |
-| 530 | 13 | Jill Gelhausen |
-| 531 | 13 | Bubbly Strikerpiece |
-| 532 | 13 | Kathryn |
-| 533 | 13 | Lexi Chouinard |
-| 534 | 12 | Brandi Thompson |
-| 535 | 12 | Kris Dusza Dodus |
-| 536 | 12 | Julie Vargas |
-| 537 | 12 | Lu Wallace |
-| 538 | 12 | BlockBreaker |
-| 539 | 12 | Samantha Morrison |
-| 540 | 12 | Jessica Bowman |
-| 541 | 12 | ReiRei |
-| 542 | 12 | Mary |
-| 543 | 12 | Sindy08 |
-| 544 | 12 | T-Rex Ricky Lee Dieumegarde Jr. |
-| 545 | 11 | Robert E Tracy |
-| 546 | 11 | Lora Via |
-| 547 | 11 | Yany |
-| 548 | 11 | Josephina |
-| 549 | 11 | Amanda Neal |
-| 550 | 10 | Twisty Snapmatch |
-| 551 | 10 | Daily Findery |
-| 552 | 10 | Cortney Coleman |
-| 553 | 10 | Spicy Snapclear |
-| 554 | 10 | Justin Furne |
+| 530 | 13 | Newtwidebody |
+| 531 | 13 | Jill Gelhausen |
+| 532 | 13 | Bubbly Strikerpiece |
+| 533 | 13 | Kathryn |
+| 534 | 13 | Lexi Chouinard |
+| 535 | 12 | Julie Vargas |
+| 536 | 12 | Brandi Thompson |
+| 537 | 12 | BlockBreaker |
+| 538 | 12 | Samantha Morrison |
+| 539 | 12 | Kris Dusza Dodus |
+| 540 | 12 | Lu Wallace |
+| 541 | 12 | Jessica Bowman |
+| 542 | 12 | ReiRei |
+| 543 | 12 | Mary |
+| 544 | 12 | Sindy08 |
+| 545 | 12 | T-Rex Ricky Lee Dieumegarde Jr. |
+| 546 | 11 | Robert E Tracy |
+| 547 | 11 | Lora Via |
+| 548 | 11 | Yany |
+| 549 | 11 | Josephina |
+| 550 | 11 | Amanda Neal |
+| 551 | 10 | Twisty Snapmatch |
+| 552 | 10 | Daily Findery |
+| 553 | 10 | Cortney Coleman |
+| 554 | 10 | Spicy Snapclear |
 | 555 | 10 | Ashley Gracelynn Tiner |
-| 556 | 10 | Crystal Owen Yocolano |
-| 557 | 10 | Monique Frantz |
+| 556 | 10 | Justin Furne |
+| 557 | 10 | Crystal Owen Yocolano |
 | 558 | 10 | Doowop40 |
 | 559 | 10 | Saucy Wrecker |
 | 560 | 10 | Cardisa Hall |
@@ -608,63 +608,63 @@
 | 600 | 9 | Armordguy |
 | 601 | 9 | Sami Amato |
 | 602 | 9 | Glowing Earthy Embers |
-| 603 | 9 | Tabitha Porter |
-| 604 | 9 | Darla Ragsdale |
-| 605 | 9 | Kristi K Milner |
-| 606 | 9 | Teddy Williams |
-| 607 | 9 | Kylee Pruitt |
-| 608 | 9 | Rydin Dirt |
-| 609 | 9 | David Skelton |
-| 610 | 9 | Michele Stewart |
-| 611 | 9 | Lindsey Butler |
-| 612 | 9 | Rhonda Driskill |
+| 603 | 9 | Giggly Spinblock |
+| 604 | 9 | Kylee Pruitt |
+| 605 | 9 | Jeff Mullins |
+| 606 | 9 | David Skelton |
+| 607 | 9 | Tabitha Porter |
+| 608 | 9 | Michele Stewart |
+| 609 | 9 | Lindsey Butler |
+| 610 | 9 | Kristi K Milner |
+| 611 | 9 | Teddy Williams |
+| 612 | 9 | Darla Ragsdale |
 | 613 | 9 | Jazzy |
-| 614 | 9 | Giggly Spinblock |
-| 615 | 8 | Loony Ziggy |
+| 614 | 9 | Rhonda Driskill |
+| 615 | 9 | Rydin Dirt |
 | 616 | 8 | Jill Goff |
 | 617 | 8 | Amber Carpenter |
 | 618 | 8 | Witty Riser |
-| 619 | 8 | Joni Michelle Morgan |
-| 620 | 8 | Poppy Zonepiece |
-| 621 | 8 | Witty Clearbuilder |
-| 622 | 8 | Terie Safrit |
-| 623 | 8 | Jackie Hayslip |
-| 624 | 8 | Stephanie |
-| 625 | 8 | Sassy Twistbuilder |
-| 626 | 8 | Lee Leonard |
-| 627 | 8 | Jenna Thorn |
-| 628 | 7 | Shane Peavey |
+| 619 | 8 | Jackie Hayslip |
+| 620 | 8 | Joni Michelle Morgan |
+| 621 | 8 | Poppy Zonepiece |
+| 622 | 8 | Loony Ziggy |
+| 623 | 8 | Terie Safrit |
+| 624 | 8 | Jenna Thorn |
+| 625 | 8 | Lee Leonard |
+| 626 | 8 | Sassy Twistbuilder |
+| 627 | 8 | Stephanie |
+| 628 | 8 | Witty Clearbuilder |
 | 629 | 7 | Loopy Tower |
-| 630 | 7 | Bouncy Cluster |
-| 631 | 7 | Nina-Christina Cusyck |
-| 632 | 7 | Kelli Pazour |
-| 633 | 7 | Clever Balancefit |
-| 634 | 7 | Tashamonique Puckey |
-| 635 | 7 | Brenda Ohaus Facher |
-| 636 | 7 | Buffy Diane Blake |
-| 637 | 7 | Elizabeth Elaine Coursey |
-| 638 | 7 | Charles E Mccardell |
-| 639 | 7 | Happy Curvebuilder |
-| 640 | 7 | michael |
-| 641 | 7 | Flashy Cascadeclear |
-| 642 | 7 | Mike Honcho |
-| 643 | 7 | Sarah Elizabeth Foret |
-| 644 | 7 | Tina |
-| 645 | 7 | Sam Blinn |
-| 646 | 6 | Jeff Mullins |
+| 630 | 7 | Kelli Pazour |
+| 631 | 7 | Bouncy Cluster |
+| 632 | 7 | Clever Balancefit |
+| 633 | 7 | Tashamonique Puckey |
+| 634 | 7 | Shane Peavey |
+| 635 | 7 | Nina-Christina Cusyck |
+| 636 | 7 | Tina |
+| 637 | 7 | Brenda Ohaus Facher |
+| 638 | 7 | Elizabeth Elaine Coursey |
+| 639 | 7 | Buffy Diane Blake |
+| 640 | 7 | Charles E Mccardell |
+| 641 | 7 | Happy Curvebuilder |
+| 642 | 7 | michael |
+| 643 | 7 | Flashy Cascadeclear |
+| 644 | 7 | Mike Honcho |
+| 645 | 7 | Sarah Elizabeth Foret |
+| 646 | 7 | Sam Blinn |
 | 647 | 6 | Kelly Christine Trimmer |
 | 648 | 6 | Trena Sapp |
 | 649 | 6 | Fran Gerebics |
 | 650 | 6 | Lavenda Nettles |
 | 651 | 6 | Cheeky Dashpiece |
 | 652 | 6 | Emily |
-| 653 | 6 | Denise Morehart |
-| 654 | 6 | Fluffypuffin |
-| 655 | 6 | MUMBLES |
+| 653 | 6 | MUMBLES |
+| 654 | 6 | Denise Morehart |
+| 655 | 6 | Fluffypuffin |
 | 656 | 6 | Partin |
 | 657 | 6 | Gwendolyn Boykin Mobbs |
-| 658 | 6 | Debbie Embry |
-| 659 | 6 | Shelby Wilson |
+| 658 | 6 | Shelby Wilson |
+| 659 | 6 | Debbie Embry |
 | 660 | 5 | Brittany Weatherspoon |
 | 661 | 5 | Bad Juju |
 | 662 | 5 | Deborah Fowler |

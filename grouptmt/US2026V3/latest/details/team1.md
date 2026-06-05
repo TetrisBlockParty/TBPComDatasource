@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 23:40:15 UTC
+# Standings for team1 as of 2026-06-05 23:40:36 UTC
 
 **Total Participants:** 599
 
@@ -131,54 +131,54 @@
 | 123 | 80 | Charles Johnson |
 | 124 | 80 | Carolyn Smith |
 | 125 | 80 | Felicia Williams |
-| 126 | 80 | Jamie Willis |
-| 127 | 80 | Nobles Brandon |
+| 126 | 80 | Nobles Brandon |
+| 127 | 80 | Jamie Willis |
 | 128 | 79 | Shanell Thomas |
-| 129 | 77 | Shontanese Adams |
-| 130 | 77 | Yashica Smith |
+| 129 | 77 | Yashica Smith |
+| 130 | 77 | Shontanese Adams |
 | 131 | 76 | Mic Balew |
 | 132 | 76 | Giggly Shatterline |
 | 133 | 76 | Kimberly Hernandez |
 | 134 | 75 | Dizzy Dashy |
 | 135 | 75 | Sanjuro |
-| 136 | 74 | Tonya McElroy |
-| 137 | 74 | ♈️ Ariesbaby |
+| 136 | 74 | ♈️ Ariesbaby |
+| 137 | 74 | Tonya McElroy |
 | 138 | 72 | Melissa D. M. Hornsby |
 | 139 | 71 | Erin Sabol |
 | 140 | 71 | MamaBear |
 | 141 | 70 | Latore Maxie |
 | 142 | 70 | $hort Dog |
 | 143 | 69 | Jayjay Rich |
-| 144 | 67 | Michele Elizabeth McKay-Johnson |
-| 145 | 67 | The DUBZ |
-| 146 | 65 | Jazzy Bridger |
-| 147 | 64 | Eugina Slater |
-| 148 | 64 | Tosha Michelle |
+| 144 | 67 | The DUBZ |
+| 145 | 67 | Michele Elizabeth McKay-Johnson |
+| 146 | 66 | Zachary Colegrove |
+| 147 | 65 | Jazzy Bridger |
+| 148 | 64 | Eugina Slater |
 | 149 | 64 | CJ Robinson |
-| 150 | 62 | rls |
-| 151 | 62 | Jack Mehof |
+| 150 | 64 | Tosha Michelle |
+| 151 | 62 | rls |
 | 152 | 62 | Cheeky Pop |
-| 153 | 61 | Angela R Wilson |
-| 154 | 61 | Stephen Providenti |
-| 155 | 60 | Lilly Brown |
-| 156 | 60 | Kristie |
+| 153 | 62 | Jack Mehof |
+| 154 | 61 | Angela R Wilson |
+| 155 | 61 | Joana Thompson |
+| 156 | 61 | Stephen Providenti |
 | 157 | 60 | Marcheta Cervantez |
-| 158 | 60 | Valerie Alexander |
-| 159 | 60 | Cachet A Ward |
-| 160 | 60 | Christian Pham |
-| 161 | 60 | Marlainia Boyd |
-| 162 | 60 | Christi Walker Patton |
-| 163 | 60 | Breezy Catcher |
-| 164 | 60 | Boldy Liner |
-| 165 | 59 | Lauraly |
-| 166 | 59 | Joana Thompson |
-| 167 | 58 | Tobey Marberry |
+| 158 | 60 | Lilly Brown |
+| 159 | 60 | Kristie |
+| 160 | 60 | Breezy Catcher |
+| 161 | 60 | Christian Pham |
+| 162 | 60 | Valerie Alexander |
+| 163 | 60 | Cachet A Ward |
+| 164 | 60 | Marlainia Boyd |
+| 165 | 60 | Boldy Liner |
+| 166 | 60 | Christi Walker Patton |
+| 167 | 59 | Lauraly |
 | 168 | 58 | Todd C. Clemens |
 | 169 | 58 | JaClanDiah |
-| 170 | 57 | GamerQueenDS |
-| 171 | 56 | Nichelle Warren |
+| 170 | 58 | Tobey Marberry |
+| 171 | 57 | GamerQueenDS |
 | 172 | 56 | Dena Marie Lee |
-| 173 | 55 | Zachary Colegrove |
+| 173 | 56 | Nichelle Warren |
 | 174 | 55 | KoolKimJay |
 | 175 | 55 | Kyle Franklin |
 | 176 | 54 | Steve Reno |
