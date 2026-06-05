@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 16:48:13 UTC
+# Standings for team2 as of 2026-06-05 16:48:35 UTC
 
 **Total Participants:** 314
 
@@ -152,50 +152,50 @@
 | 144 | 30 | Patti Ward |
 | 145 | 30 | Stacey Loretta Wallace |
 | 146 | 30 | Buddy |
-| 147 | 29 | Nikki Hayes |
-| 148 | 29 | Brandy Wallace |
-| 149 | 29 | Laverne Ellis Blair |
-| 150 | 28 | Carole Brown |
+| 147 | 30 | Sandy Justus |
+| 148 | 29 | Laverne Ellis Blair |
+| 149 | 29 | Brandy Wallace |
+| 150 | 29 | Nikki Hayes |
 | 151 | 28 | Sara BlueEyes |
-| 152 | 27 | Kim |
+| 152 | 28 | Carole Brown |
 | 153 | 27 | Missy Stevens |
-| 154 | 27 | Brian Karr |
-| 155 | 26 | Quina Jesse Fejaran |
+| 154 | 27 | Kim |
+| 155 | 27 | Brian Karr |
 | 156 | 26 | Darlene Russell |
-| 157 | 26 | nova |
-| 158 | 26 | Rachel Huber |
-| 159 | 25 | Heather Burgett |
-| 160 | 25 | Slinky Winder |
-| 161 | 25 | Tamara Whiteley |
-| 162 | 25 | Raymond Dawson |
-| 163 | 25 | ChefDeb |
-| 164 | 24 | Dayna Messer-Thelen |
-| 165 | 24 | Ashley Green |
-| 166 | 24 | REE4 |
-| 167 | 24 | SunnySquare |
-| 168 | 24 | Nicole |
-| 169 | 23 | Shirley Bates |
-| 170 | 23 | Damion Morrison |
-| 171 | 23 | IncrediDragon |
-| 172 | 23 | Brittni Lawrence |
-| 173 | 22 | Marii |
-| 174 | 22 | Jeff Pottgether |
-| 175 | 22 | Silly Tiltbuilder |
-| 176 | 22 | Seamus |
-| 177 | 22 | Ashley Diana |
-| 178 | 21 | Thy Bui |
+| 157 | 26 | Rachel Huber |
+| 158 | 26 | Quina Jesse Fejaran |
+| 159 | 26 | nova |
+| 160 | 25 | ChefDeb |
+| 161 | 25 | Raymond Dawson |
+| 162 | 25 | Heather Burgett |
+| 163 | 25 | Slinky Winder |
+| 164 | 25 | Tamara Whiteley |
+| 165 | 24 | Dayna Messer-Thelen |
+| 166 | 24 | Nicole |
+| 167 | 24 | REE4 |
+| 168 | 24 | SunnySquare |
+| 169 | 24 | Ashley Green |
+| 170 | 23 | Brittni Lawrence |
+| 171 | 23 | Shirley Bates |
+| 172 | 23 | Damion Morrison |
+| 173 | 23 | IncrediDragon |
+| 174 | 22 | Marii |
+| 175 | 22 | Seamus |
+| 176 | 22 | Ashley Diana |
+| 177 | 22 | Jeff Pottgether |
+| 178 | 22 | Silly Tiltbuilder |
 | 179 | 21 | Thomas Johnstone |
-| 180 | 21 | Epic Framezone |
-| 181 | 21 | Brooke Kaune |
-| 182 | 21 | Maria Ward |
-| 183 | 20 | Annie Hebdon |
-| 184 | 20 | Bonita Alexander |
-| 185 | 20 | Chesney |
-| 186 | 20 | Kelly Hall Whitt |
-| 187 | 20 | Reign Hustler |
-| 188 | 20 | Sully |
-| 189 | 20 | Allison Peterson |
-| 190 | 20 | Sandy Justus |
+| 180 | 21 | Brooke Kaune |
+| 181 | 21 | Maria Ward |
+| 182 | 21 | Epic Framezone |
+| 183 | 21 | Thy Bui |
+| 184 | 20 | Annie Hebdon |
+| 185 | 20 | Bonita Alexander |
+| 186 | 20 | Chesney |
+| 187 | 20 | Kelly Hall Whitt |
+| 188 | 20 | Reign Hustler |
+| 189 | 20 | Sully |
+| 190 | 20 | Allison Peterson |
 | 191 | 20 | Dana Wilson |
 | 192 | 20 | Amanda Mason Scott |
 | 193 | 20 | Wendy McKee |

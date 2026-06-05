@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 16:48:13 UTC
+# Standings for team1 as of 2026-06-05 16:48:35 UTC
 
 **Total Participants:** 308
 
@@ -73,9 +73,9 @@
 | 65 | 72 | Mic Balew |
 | 66 | 70 | $hort Dog |
 | 67 | 69 | AF Cruz |
-| 68 | 67 | Michele Elizabeth McKay-Johnson |
-| 69 | 66 | Shontanese Adams |
-| 70 | 66 | Hasty Pivoty |
+| 68 | 68 | Hasty Pivoty |
+| 69 | 67 | Michele Elizabeth McKay-Johnson |
+| 70 | 66 | Shontanese Adams |
 | 71 | 65 | Shanell Thomas |
 | 72 | 65 | Frisky Fall |
 | 73 | 65 | Latore Maxie |
