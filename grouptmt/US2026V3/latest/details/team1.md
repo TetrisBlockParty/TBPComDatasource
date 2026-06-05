@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 12:49:12 UTC
+# Standings for team1 as of 2026-06-05 12:50:12 UTC
 
 **Total Participants:** 77
 
@@ -50,8 +50,8 @@
 | 42 | 20 | Jai |
 | 43 | 19 | Amanda Woodruff |
 | 44 | 19 | Jenni |
-| 45 | 18 | Dizzy Dashy |
-| 46 | 18 | Shanjerrica Taylor Rosell |
+| 45 | 19 | Shanjerrica Taylor Rosell |
+| 46 | 18 | Dizzy Dashy |
 | 47 | 17 | SPNLover24 |
 | 48 | 17 | Rikki Moran |
 | 49 | 17 | Kimberly Red |

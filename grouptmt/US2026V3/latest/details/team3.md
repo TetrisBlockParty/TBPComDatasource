@@ -1,13 +1,13 @@
-# Standings for team3 as of 2026-06-05 12:49:12 UTC
+# Standings for team3 as of 2026-06-05 12:50:12 UTC
 
-**Total Participants:** 101
+**Total Participants:** 104
 
 ## Participant Scores
 
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 3091 | George Michaels |
-| 2 | 1456 | Lindsey Gardner |
+| 2 | 1747 | Lindsey Gardner |
 | 3 | 1065 | Alan George LaRage |
 | 4 | 836 | Tom Borja |
 | 5 | 700 | Jăckie Gønzaləz-Mōntålvo |
@@ -25,88 +25,91 @@
 | 17 | 78 | Jessica Biggs |
 | 18 | 71 | Alex Celio |
 | 19 | 69 | SteffXx |
-| 20 | 66 | Loony Strikesnap |
-| 21 | 58 | Lively Matchpiece |
-| 22 | 50 | Adam Bronk |
-| 23 | 48 | Denice Myers |
-| 24 | 44 | Laura Slusher Updike |
-| 25 | 42 | creepy paper |
+| 20 | 66 | Lively Matchpiece |
+| 21 | 66 | Loony Strikesnap |
+| 22 | 57 | Denice Myers |
+| 23 | 50 | Adam Bronk |
+| 24 | 46 | creepy paper |
+| 25 | 44 | Laura Slusher Updike |
 | 26 | 41 | Crystal Carlson |
 | 27 | 41 | Kimberly Kupke |
-| 28 | 40 | Paul Hudak |
-| 29 | 40 | Dee Perry |
-| 30 | 39 | Beth Varieur |
-| 31 | 35 | Rebecca Alidre Holmes-Anderson |
-| 32 | 33 | Raya |
-| 33 | 32 | Dedicated |
-| 34 | 31 | Boldy Cornerfall |
-| 35 | 30 | Jvo |
-| 36 | 30 | Christopher Kissiah |
+| 28 | 40 | Dapper Patternline |
+| 29 | 40 | Paul Hudak |
+| 30 | 40 | Dee Perry |
+| 31 | 39 | Beth Varieur |
+| 32 | 35 | Rebecca Alidre Holmes-Anderson |
+| 33 | 33 | Raya |
+| 34 | 32 | Dedicated |
+| 35 | 31 | Boldy Cornerfall |
+| 36 | 30 | Jvo |
 | 37 | 30 | Raymond J Turnbull |
-| 38 | 30 | Andrea Snider |
-| 39 | 28 | VOID EDGE |
-| 40 | 28 | Kristina Courtney |
-| 41 | 28 | Carolyn Smith |
-| 42 | 26 | Kevin C. Moe |
-| 43 | 25 | Gypsy Woodall |
-| 44 | 25 | Funky Fall |
-| 45 | 25 | Kite Kelly |
-| 46 | 25 | Garrett Hofmann |
-| 47 | 24 | Bren Stahl |
-| 48 | 23 | Charles Love |
-| 49 | 21 | Antkc Petebrick |
-| 50 | 20 | kendra |
-| 51 | 20 | Teresa Jackson |
-| 52 | 19 | Ashley Dilsaver |
-| 53 | 19 | Sabrina34 |
-| 54 | 18 | Avias |
-| 55 | 18 | ToxicTrinity |
-| 56 | 18 | Kyle Thompson |
-| 57 | 18 | Alison Gomes |
-| 58 | 16 | Karina Cortes |
-| 59 | 15 | Melinda Flugga |
-| 60 | 15 | Lisa Stone |
-| 61 | 15 | kittensden |
-| 62 | 15 | Quirky Curve |
-| 63 | 15 | Amber F |
-| 64 | 14 | Sara Pederson |
-| 65 | 13 | Manda Mumea |
-| 66 | 13 | Raven Rogue |
-| 67 | 13 | Sarah Jane |
-| 68 | 12 | Nette Babi |
-| 69 | 12 | blockbusterr |
-| 70 | 12 | Wacky Catcher |
-| 71 | 12 | Nonni |
-| 72 | 12 | Jonathan Russell |
-| 73 | 12 | Violet |
-| 74 | 12 | Robby Beltran |
-| 75 | 11 | Megan Roseberry |
-| 76 | 11 | Carrie Ness |
-| 77 | 11 | Happy Balancer |
-| 78 | 11 | David Glisson |
-| 79 | 10 | Fran Kutz |
-| 80 | 10 | Casey Kincheloe |
-| 81 | 10 | Tiesha Janay |
-| 82 | 10 | Shabae |
-| 83 | 10 | Ian Burns |
-| 84 | 10 | Giddy Shift |
-| 85 | 9 | Sarah Cruthirds |
-| 86 | 9 | Tnaughty |
-| 87 | 9 | Christina M Arroyo |
-| 88 | 9 | Peachy Towerfall |
-| 89 | 9 | Angie Rodriguez |
-| 90 | 9 | Natasha Silva |
-| 91 | 9 | Salky |
-| 92 | 9 | ciscokid81 |
-| 93 | 9 | Jess Jess |
-| 94 | 8 | Fam |
-| 95 | 7 | Loony Rollfit |
-| 96 | 7 | DShark72 |
-| 97 | 6 | bt |
-| 98 | 6 | Kathy Siano |
-| 99 | 5 | Victoria Lofquist |
-| 100 | 5 | Snippy Cornerfall |
-| 101 | 5 | KAR |
+| 38 | 30 | Christopher Kissiah |
+| 39 | 30 | Andrea Snider |
+| 40 | 30 | Deanna Robledo |
+| 41 | 28 | Kristina Courtney |
+| 42 | 28 | VOID EDGE |
+| 43 | 28 | Carolyn Smith |
+| 44 | 26 | Kevin C. Moe |
+| 45 | 25 | Garrett Hofmann |
+| 46 | 25 | Funky Fall |
+| 47 | 25 | Gypsy Woodall |
+| 48 | 25 | Kite Kelly |
+| 49 | 24 | Bren Stahl |
+| 50 | 23 | Charles Love |
+| 51 | 22 | Avias |
+| 52 | 21 | Johnny Hewitt |
+| 53 | 21 | Antkc Petebrick |
+| 54 | 20 | Teresa Jackson |
+| 55 | 20 | kendra |
+| 56 | 19 | Sabrina34 |
+| 57 | 19 | Ashley Dilsaver |
+| 58 | 19 | Megan Roseberry |
+| 59 | 18 | Kyle Thompson |
+| 60 | 18 | ToxicTrinity |
+| 61 | 18 | Alison Gomes |
+| 62 | 16 | Lisa Stone |
+| 63 | 16 | Karina Cortes |
+| 64 | 15 | Amber F |
+| 65 | 15 | kittensden |
+| 66 | 15 | Quirky Curve |
+| 67 | 15 | Melinda Flugga |
+| 68 | 14 | Sara Pederson |
+| 69 | 13 | Raven Rogue |
+| 70 | 13 | Sarah Jane |
+| 71 | 13 | Manda Mumea |
+| 72 | 12 | Wacky Catcher |
+| 73 | 12 | Jonathan Russell |
+| 74 | 12 | Violet |
+| 75 | 12 | Robby Beltran |
+| 76 | 12 | Nette Babi |
+| 77 | 12 | Nonni |
+| 78 | 12 | blockbusterr |
+| 79 | 11 | Carrie Ness |
+| 80 | 11 | Happy Balancer |
+| 81 | 11 | David Glisson |
+| 82 | 10 | Fran Kutz |
+| 83 | 10 | Casey Kincheloe |
+| 84 | 10 | Tiesha Janay |
+| 85 | 10 | Giddy Shift |
+| 86 | 10 | Shabae |
+| 87 | 10 | Ian Burns |
+| 88 | 9 | Jess Jess |
+| 89 | 9 | Sarah Cruthirds |
+| 90 | 9 | Angie Rodriguez |
+| 91 | 9 | Peachy Towerfall |
+| 92 | 9 | Tnaughty |
+| 93 | 9 | Christina M Arroyo |
+| 94 | 9 | ciscokid81 |
+| 95 | 9 | Natasha Silva |
+| 96 | 9 | Salky |
+| 97 | 8 | Fam |
+| 98 | 7 | Loony Rollfit |
+| 99 | 7 | DShark72 |
+| 100 | 6 | bt |
+| 101 | 6 | Kathy Siano |
+| 102 | 5 | Victoria Lofquist |
+| 103 | 5 | KAR |
+| 104 | 5 | Snippy Cornerfall |
 
 ---
 *Standings created by tournaments datasource generation tool*
