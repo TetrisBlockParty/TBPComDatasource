@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 13:34:34 UTC
+# Standings for team1 as of 2026-06-05 13:35:12 UTC
 
-**Total Participants:** 114
+**Total Participants:** 115
 
 ## Participant Scores
 
@@ -54,31 +54,31 @@
 | 46 | 35 | KoolKimJay |
 | 47 | 32 | Tobey Marberry |
 | 48 | 31 | Yashica Smith |
-| 49 | 30 | Cheeky Pop |
+| 49 | 30 | Lester Malone |
 | 50 | 30 | Casey Chapman |
-| 51 | 30 | Lester Malone |
+| 51 | 30 | Cheeky Pop |
 | 52 | 30 | Brian Bohanon II |
 | 53 | 30 | Saucy Faller |
 | 54 | 28 | John Staub |
-| 55 | 27 | Jae Thompson-Tyus |
+| 55 | 27 | Charlene Baltimore |
 | 56 | 27 | Zany Breaker |
-| 57 | 27 | Charlene Baltimore |
+| 57 | 27 | Jae Thompson-Tyus |
 | 58 | 27 | Angela R Wilson |
 | 59 | 25 | Tyrone Porter |
 | 60 | 25 | Hasty Pivoty |
 | 61 | 23 | Poppy Twister |
 | 62 | 22 | Tanisha Taylor |
 | 63 | 21 | Brave Balanceblock |
-| 64 | 20 | Tony P Burke |
-| 65 | 20 | Kimmie Gargano |
-| 66 | 20 | Chevalier Burley |
-| 67 | 20 | Trina Greenwood |
+| 64 | 20 | Kimmie Gargano |
+| 65 | 20 | Chevalier Burley |
+| 66 | 20 | Trina Greenwood |
+| 67 | 20 | Tony P Burke |
 | 68 | 20 | Jai |
-| 69 | 19 | Amanda Woodruff |
-| 70 | 19 | Jenni |
-| 71 | 19 | Saucy Tile |
-| 72 | 19 | Brenda Malachi-butler |
-| 73 | 19 | Shanjerrica Taylor Rosell |
+| 69 | 19 | Shanjerrica Taylor Rosell |
+| 70 | 19 | Saucy Tile |
+| 71 | 19 | Amanda Woodruff |
+| 72 | 19 | Jenni |
+| 73 | 19 | Brenda Malachi-butler |
 | 74 | 18 | Tyree Tman Shinette |
 | 75 | 18 | AleahKCH |
 | 76 | 18 | Sunny Clicky |
@@ -112,14 +112,15 @@
 | 104 | 8 | Sammie Walker |
 | 105 | 7 | Mary2 |
 | 106 | 7 | Kendra McIntyre |
-| 107 | 6 | Janine Hunter |
-| 108 | 6 | Jayjay Rich |
-| 109 | 6 | Ashley Espeut |
-| 110 | 6 | Taz Ballard |
-| 111 | 5 | Tamika Fisher |
-| 112 | 5 | Jennifer Moore |
-| 113 | 5 | DirtiestofMikes |
-| 114 | 5 | Derek Beverly |
+| 107 | 6 | JesusSaves 😇 |
+| 108 | 6 | Janine Hunter |
+| 109 | 6 | Taz Ballard |
+| 110 | 6 | Ashley Espeut |
+| 111 | 6 | Jayjay Rich |
+| 112 | 5 | Derek Beverly |
+| 113 | 5 | Tamika Fisher |
+| 114 | 5 | Jennifer Moore |
+| 115 | 5 | DirtiestofMikes |
 
 ---
 *Standings created by tournaments datasource generation tool*
