@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-06-05 14:47:13 UTC
+# Standings for team4 as of 2026-06-05 14:48:14 UTC
 
-**Total Participants:** 171
+**Total Participants:** 173
 
 ## Participant Scores
 
@@ -12,171 +12,173 @@
 | 4 | 1169 | Cinny |
 | 5 | 700 | Carly Stempien |
 | 6 | 559 | Lynn Grimes |
-| 7 | 474 | Lisa Cullum |
+| 7 | 554 | Lisa Cullum |
 | 8 | 440 | Kathy Brookins |
 | 9 | 377 | Snippy Grid |
 | 10 | 300 | Chaz Duncan |
 | 11 | 274 | Heather Preston |
-| 12 | 265 | Gloria Nunley Trussell |
+| 12 | 267 | Gloria Nunley Trussell |
 | 13 | 228 | delilahbelle |
 | 14 | 220 | Jesse Olive |
 | 15 | 200 | Leah Gorsuch |
 | 16 | 162 | Malik Thompson |
 | 17 | 161 | Giggy Matchpiece |
 | 18 | 153 | Andrew Dang |
-| 19 | 149 | Danny Ortiz |
-| 20 | 148 | Colin |
-| 21 | 147 | Kim |
-| 22 | 129 | Jojo Ann |
-| 23 | 129 | Blayne Kole |
+| 19 | 149 | Blayne Kole |
+| 20 | 149 | Danny Ortiz |
+| 21 | 148 | Colin |
+| 22 | 147 | Kim |
+| 23 | 129 | Jojo Ann |
 | 24 | 128 | vag1974 |
 | 25 | 126 | Kimyatta Cavin |
 | 26 | 121 | Ryan Paul Clark-Ramsey |
-| 27 | 107 | Real Talk Vibes |
-| 28 | 107 | Shayna Vaigneur-Hall |
+| 27 | 107 | Shayna Vaigneur-Hall |
+| 28 | 107 | Real Talk Vibes |
 | 29 | 101 | Fruitpunch |
 | 30 | 100 | Cal Renee |
 | 31 | 94 | Brandy Lynn |
 | 32 | 90 | woopa 716 |
 | 33 | 87 | Limbo |
-| 34 | 79 | Luna |
-| 35 | 78 | Tina Thomas |
-| 36 | 78 | Tawna Curry |
-| 37 | 77 | Lush Fitblock |
-| 38 | 75 | June Hoffman |
-| 39 | 71 | Chris Covington |
+| 34 | 80 | Krista Diaz |
+| 35 | 79 | Luna |
+| 36 | 78 | Tina Thomas |
+| 37 | 78 | Tawna Curry |
+| 38 | 77 | Lush Fitblock |
+| 39 | 75 | June Hoffman |
 | 40 | 71 | Justin Michael |
-| 41 | 70 | Janae Harris |
-| 42 | 68 | Keys Tome |
-| 43 | 65 | ktothet |
-| 44 | 64 | Stef |
-| 45 | 60 | Fran Aaron-Ring |
-| 46 | 60 | Blockcrusher |
-| 47 | 60 | Magz |
-| 48 | 58 | Jenn Fitzgerald |
-| 49 | 56 | Henry Lanier |
-| 50 | 54 | blockhead |
-| 51 | 52 | Chirpy Link |
-| 52 | 49 | Маркус Вік |
-| 53 | 49 | Futrell Brent |
-| 54 | 42 | Shiny Brick |
-| 55 | 40 | Tyra Brooke Everman Forest |
-| 56 | 40 | SweetChaos |
-| 57 | 39 | Playa |
+| 41 | 71 | Chris Covington |
+| 42 | 70 | Janae Harris |
+| 43 | 68 | Keys Tome |
+| 44 | 65 | ktothet |
+| 45 | 64 | Stef |
+| 46 | 60 | Fran Aaron-Ring |
+| 47 | 60 | Blockcrusher |
+| 48 | 60 | Magz |
+| 49 | 59 | Futrell Brent |
+| 50 | 58 | Jenn Fitzgerald |
+| 51 | 56 | Henry Lanier |
+| 52 | 54 | blockhead |
+| 53 | 52 | Chirpy Link |
+| 54 | 49 | Маркус Вік |
+| 55 | 42 | Shiny Brick |
+| 56 | 40 | Tyra Brooke Everman Forest |
+| 57 | 40 | SweetChaos |
 | 58 | 39 | Anthony Kollar |
-| 59 | 38 | Charity Thomas |
+| 59 | 39 | Playa |
 | 60 | 38 | Jonathan Hewitt |
-| 61 | 37 | Dana Fontanez |
+| 61 | 38 | Charity Thomas |
 | 62 | 37 | Cail |
-| 63 | 37 | Jj Johnson |
-| 64 | 36 | Mrs |
-| 65 | 36 | Laurie Patrick |
-| 66 | 35 | Tactical_B |
-| 67 | 34 | Clashy |
-| 68 | 34 | jojo |
-| 69 | 33 | Lul Babie |
-| 70 | 32 | smarty |
-| 71 | 31 | Jasmine Marie |
-| 72 | 31 | Taz |
-| 73 | 30 | Nicole Colby McCloskey |
-| 74 | 30 | Sarah Berry Stevens |
-| 75 | 30 | Will E Ayala |
-| 76 | 29 | Joseph Hunter |
-| 77 | 29 | Cindy |
-| 78 | 28 | Sandra O'Reilly |
+| 63 | 37 | Dana Fontanez |
+| 64 | 37 | Jj Johnson |
+| 65 | 36 | Mrs |
+| 66 | 36 | Laurie Patrick |
+| 67 | 35 | Tactical_B |
+| 68 | 34 | Clashy |
+| 69 | 34 | jojo |
+| 70 | 33 | Lul Babie |
+| 71 | 32 | smarty |
+| 72 | 31 | Jasmine Marie |
+| 73 | 31 | Taz |
+| 74 | 31 | Cindy |
+| 75 | 30 | Sarah Berry Stevens |
+| 76 | 30 | Nicole Colby McCloskey |
+| 77 | 30 | Will E Ayala |
+| 78 | 29 | Joseph Hunter |
 | 79 | 28 | Melissa Schwager |
-| 80 | 27 | Rosy Perez |
+| 80 | 28 | Sandra O'Reilly |
 | 81 | 27 | Adam J Leong |
-| 82 | 26 | Lisa Ferriero-Daudin |
-| 83 | 25 | Andrea Dre Lomeli |
-| 84 | 25 | Nicole |
-| 85 | 24 | Becky McCool |
-| 86 | 23 | Stasia |
-| 87 | 23 | Zippy Snaplink |
-| 88 | 23 | Melissa Quinn |
-| 89 | 22 | Saul Fajardo |
-| 90 | 22 | Karen Rodriguez |
-| 91 | 21 | Keesha Muro |
-| 92 | 21 | Socorro Arredondo |
-| 93 | 21 | SandyEva |
-| 94 | 20 | Jerett Coplin |
-| 95 | 20 | Mexican130 |
-| 96 | 20 | Silly Risegrid |
+| 82 | 27 | Rosy Perez |
+| 83 | 27 | 94Blockhead |
+| 84 | 26 | Lisa Ferriero-Daudin |
+| 85 | 25 | Andrea Dre Lomeli |
+| 86 | 25 | Nicole |
+| 87 | 24 | Becky McCool |
+| 88 | 23 | Stasia |
+| 89 | 23 | Melissa Quinn |
+| 90 | 23 | Zippy Snaplink |
+| 91 | 22 | Saul Fajardo |
+| 92 | 22 | Karen Rodriguez |
+| 93 | 21 | Keesha Muro |
+| 94 | 21 | Socorro Arredondo |
+| 95 | 21 | SandyEva |
+| 96 | 20 | Betsy Froemming |
 | 97 | 20 | Erica Pompey |
-| 98 | 20 | Nova Kain |
-| 99 | 20 | Betsy Froemming |
-| 100 | 20 | Maurice DeJean |
-| 101 | 19 | Swanky Matchfit |
-| 102 | 19 | Solace Grace |
-| 103 | 18 | Nancy McCalla Abercrombie |
-| 104 | 18 | Iforget |
-| 105 | 17 | Samara Garcia |
-| 106 | 17 | Breezy Blockzone |
-| 107 | 16 | Ross Bryant |
-| 108 | 16 | Queen B |
-| 109 | 16 | George Palacios |
-| 110 | 15 | Dawn Ferrin |
-| 111 | 15 | Jonelle Jacobs |
-| 112 | 15 | Joshua Garner |
-| 113 | 15 | Stephanie Meinhart |
-| 114 | 15 | Perry Ransom |
-| 115 | 15 | Hasty Dropzone |
-| 116 | 15 | Jason Garnatz |
+| 98 | 20 | Mexican130 |
+| 99 | 20 | Maurice DeJean |
+| 100 | 20 | Jerett Coplin |
+| 101 | 20 | Nova Kain |
+| 102 | 20 | Silly Risegrid |
+| 103 | 19 | iiPurgeV2 |
+| 104 | 19 | Swanky Matchfit |
+| 105 | 19 | Solace Grace |
+| 106 | 18 | Iforget |
+| 107 | 18 | Nancy McCalla Abercrombie |
+| 108 | 17 | Breezy Blockzone |
+| 109 | 17 | Samara Garcia |
+| 110 | 16 | George Palacios |
+| 111 | 16 | Ross Bryant |
+| 112 | 16 | Queen B |
+| 113 | 15 | Hasty Dropzone |
+| 114 | 15 | Stephanie Meinhart |
+| 115 | 15 | Joshua Garner |
+| 116 | 15 | Perry Ransom |
 | 117 | 15 | BusterBear56 |
-| 118 | 15 | Cool Risepiece |
-| 119 | 14 | Catherine Garza |
-| 120 | 13 | Cherry |
-| 121 | 13 | GingaNinja |
-| 122 | 12 | 94Blockhead |
-| 123 | 12 | chuck |
-| 124 | 12 | Clever Patterner |
-| 125 | 12 | Alizabeth Garcia |
-| 126 | 12 | Fancy Tilefall |
-| 127 | 11 | Wacky Brick |
-| 128 | 11 | Marina |
-| 129 | 11 | Dolores Falco |
-| 130 | 10 | Tipsy Zonebuilder |
-| 131 | 10 | Britney Kitora |
-| 132 | 10 | CorieBe |
-| 133 | 10 | Loony Edge |
-| 134 | 10 | Miguel Teixeira |
+| 118 | 15 | Jason Garnatz |
+| 119 | 15 | Jonelle Jacobs |
+| 120 | 15 | Cool Risepiece |
+| 121 | 15 | Dawn Ferrin |
+| 122 | 14 | Catherine Garza |
+| 123 | 13 | Cherry |
+| 124 | 13 | GingaNinja |
+| 125 | 12 | Fancy Tilefall |
+| 126 | 12 | Alizabeth Garcia |
+| 127 | 12 | chuck |
+| 128 | 12 | Clever Patterner |
+| 129 | 11 | Wacky Brick |
+| 130 | 11 | Dolores Falco |
+| 131 | 11 | Marina |
+| 132 | 10 | Loony Edge |
+| 133 | 10 | Buchanon Bossingup Jadrienne |
+| 134 | 10 | JP Chua |
 | 135 | 10 | Lateasha Wildman |
-| 136 | 10 | JP Chua |
-| 137 | 10 | Valerie Silva |
-| 138 | 10 | DanceAngel |
-| 139 | 10 | Buchanon Bossingup Jadrienne |
+| 136 | 10 | Miguel Teixeira |
+| 137 | 10 | CorieBe |
+| 138 | 10 | Britney Kitora |
+| 139 | 10 | DanceAngel |
 | 140 | 10 | John Wertz |
-| 141 | 9 | Angela Adamo-Tash |
-| 142 | 9 | Scrumptious |
-| 143 | 9 | Esmond Johnson IV |
-| 144 | 9 | Cheeky Fallzone |
+| 141 | 10 | Tipsy Zonebuilder |
+| 142 | 10 | Valerie Silva |
+| 143 | 9 | Frothy Riseclear |
+| 144 | 9 | Scamp Jones |
 | 145 | 9 | Hotstuff |
-| 146 | 9 | Scamp Jones |
-| 147 | 9 | DuvaDova Ahava |
-| 148 | 9 | Dheeh Robles |
-| 149 | 9 | Frothy Riseclear |
-| 150 | 8 | Sisi RedVelvet Reneè |
-| 151 | 8 | Kay |
-| 152 | 7 | Erica Armstrong Baz |
-| 153 | 7 | Chipper Hitter |
-| 154 | 7 | Lisa Garcia |
-| 155 | 6 | Dexter Hammond Jr |
-| 156 | 6 | Rachel |
-| 157 | 6 | Shannon Rivera |
-| 158 | 6 | Deb 07 |
-| 159 | 6 | Dizzy |
-| 160 | 5 | Ali Nicole |
-| 161 | 5 | Lively Cascadeclear |
-| 162 | 5 | Ricky Colvin |
-| 163 | 5 | Tippet |
-| 164 | 5 | Swanky Zigzag |
-| 165 | 5 | Jeremy Barry |
-| 166 | 5 | Mighty1 |
-| 167 | 5 | Kellz M Bee |
-| 168 | 5 | Winter Moon |
-| 169 | 5 | Zappy Matchgrid |
-| 170 | 5 | Kendall Rhodie |
-| 171 | 5 | Cflixer |
+| 146 | 9 | Esmond Johnson IV |
+| 147 | 9 | Scrumptious |
+| 148 | 9 | DuvaDova Ahava |
+| 149 | 9 | Dheeh Robles |
+| 150 | 9 | Angela Adamo-Tash |
+| 151 | 9 | Cheeky Fallzone |
+| 152 | 8 | Sisi RedVelvet Reneè |
+| 153 | 8 | Kay |
+| 154 | 7 | Erica Armstrong Baz |
+| 155 | 7 | Chipper Hitter |
+| 156 | 7 | Lisa Garcia |
+| 157 | 6 | Dizzy |
+| 158 | 6 | Rachel |
+| 159 | 6 | Dexter Hammond Jr |
+| 160 | 6 | Shannon Rivera |
+| 161 | 6 | Deb 07 |
+| 162 | 5 | Mighty1 |
+| 163 | 5 | Ali Nicole |
+| 164 | 5 | Cflixer |
+| 165 | 5 | Zappy Matchgrid |
+| 166 | 5 | Tippet |
+| 167 | 5 | Kendall Rhodie |
+| 168 | 5 | Lively Cascadeclear |
+| 169 | 5 | Winter Moon |
+| 170 | 5 | Jeremy Barry |
+| 171 | 5 | Ricky Colvin |
+| 172 | 5 | Kellz M Bee |
+| 173 | 5 | Swanky Zigzag |
 
 ---
 *Standings created by tournaments datasource generation tool*
