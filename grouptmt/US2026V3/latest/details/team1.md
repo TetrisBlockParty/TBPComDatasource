@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:28:13 UTC
+# Standings for team1 as of 2026-06-05 15:28:35 UTC
 
 **Total Participants:** 244
 
@@ -152,23 +152,23 @@
 | 144 | 20 | Jai |
 | 145 | 20 | Nyhlah Patterson |
 | 146 | 20 | Trina Greenwood |
-| 147 | 20 | Chevalier Burley |
-| 148 | 20 | Tony P Burke |
+| 147 | 20 | Tony P Burke |
+| 148 | 20 | Nerdy Snapfall |
 | 149 | 20 | Devin West |
-| 150 | 19 | Mimi 1.0 |
-| 151 | 19 | Amanda Woodruff |
-| 152 | 19 | Tamara N Lee |
-| 153 | 19 | Shanjerrica Taylor Rosell |
-| 154 | 19 | Brenda Malachi-butler |
-| 155 | 19 | Jenni |
-| 156 | 19 | Saucy Tile |
-| 157 | 19 | Michele Simpson |
-| 158 | 18 | Tyree Tman Shinette |
-| 159 | 18 | Danny M GR |
-| 160 | 18 | Sunny Clicky |
-| 161 | 18 | AleahKCH |
-| 162 | 17 | Kimberly Red |
-| 163 | 17 | Nerdy Snapfall |
+| 150 | 20 | Chevalier Burley |
+| 151 | 19 | Shanjerrica Taylor Rosell |
+| 152 | 19 | Brenda Malachi-butler |
+| 153 | 19 | Tamara N Lee |
+| 154 | 19 | Jenni |
+| 155 | 19 | Saucy Tile |
+| 156 | 19 | Michele Simpson |
+| 157 | 19 | Amanda Woodruff |
+| 158 | 19 | Mimi 1.0 |
+| 159 | 18 | Tyree Tman Shinette |
+| 160 | 18 | Danny M GR |
+| 161 | 18 | Sunny Clicky |
+| 162 | 18 | AleahKCH |
+| 163 | 17 | Kimberly Red |
 | 164 | 17 | Rikki Moran |
 | 165 | 17 | Byron Mario Cawthon |
 | 166 | 17 | Elizabeth Vega Coreano |
