@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:21:12 UTC
+# Standings for team1 as of 2026-06-05 13:22:13 UTC
 
 **Total Participants:** 108
 
@@ -13,14 +13,14 @@
 | 5 | 373 | jaimie |
 | 6 | 366 | Tracy Cohen |
 | 7 | 303 | Brian Stackhouse |
-| 8 | 241 | Ivana Schmidt |
-| 9 | 237 | Tammye Turner |
-| 10 | 177 | Chris Sladoje |
-| 11 | 170 | Janet Cooke |
-| 12 | 164 | Gotcha |
-| 13 | 141 | Debbie Carswell |
-| 14 | 126 | Cee Emm |
-| 15 | 124 | Charnay Peacock |
+| 8 | 273 | Charnay Peacock |
+| 9 | 241 | Ivana Schmidt |
+| 10 | 237 | Tammye Turner |
+| 11 | 177 | Chris Sladoje |
+| 12 | 170 | Janet Cooke |
+| 13 | 164 | Gotcha |
+| 14 | 141 | Debbie Carswell |
+| 15 | 126 | Cee Emm |
 | 16 | 99 | Kellie Hall |
 | 17 | 81 | Mafio SO |
 | 18 | 81 | Robyn Caldwell |
@@ -103,15 +103,15 @@
 | 95 | 9 | Tamara N Lee |
 | 96 | 8 | Brika Brika |
 | 97 | 8 | Sammie Walker |
-| 98 | 7 | Mary2 |
-| 99 | 7 | Kendra McIntyre |
+| 98 | 7 | Kendra McIntyre |
+| 99 | 7 | Mary2 |
 | 100 | 6 | Janine Hunter |
-| 101 | 6 | Jayjay Rich |
+| 101 | 6 | Taz Ballard |
 | 102 | 6 | Ashley Espeut |
-| 103 | 6 | Taz Ballard |
-| 104 | 5 | Jennifer Moore |
+| 103 | 6 | Jayjay Rich |
+| 104 | 5 | DirtiestofMikes |
 | 105 | 5 | Derek Beverly |
-| 106 | 5 | DirtiestofMikes |
+| 106 | 5 | Jennifer Moore |
 | 107 | 5 | Shakmar |
 | 108 | 5 | Cheeky Pop |
 
