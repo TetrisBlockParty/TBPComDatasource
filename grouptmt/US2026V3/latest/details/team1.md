@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 14:10:14 UTC
+# Standings for team1 as of 2026-06-05 14:10:37 UTC
 
 **Total Participants:** 149
 
@@ -35,56 +35,56 @@
 | 27 | 72 | Dacia Hicks |
 | 28 | 67 | Michele Elizabeth McKay-Johnson |
 | 29 | 66 | Shontanese Adams |
-| 30 | 65 | Dizzy Dashy |
-| 31 | 65 | Shanell Thomas |
+| 30 | 65 | Shanell Thomas |
+| 31 | 65 | Dizzy Dashy |
 | 32 | 63 | Carrie English |
 | 33 | 60 | Christian Pham |
-| 34 | 57 | Tosha Michelle |
-| 35 | 54 | Lauraly |
-| 36 | 51 | David Fuentes |
-| 37 | 50 | Slinky Party |
+| 34 | 59 | Cj Gorman |
+| 35 | 57 | Tosha Michelle |
+| 36 | 54 | Lauraly |
+| 37 | 51 | David Fuentes |
 | 38 | 50 | Yazz |
 | 39 | 50 | Donna Payne |
-| 40 | 49 | Cj Gorman |
+| 40 | 50 | Slinky Party |
 | 41 | 45 | Katrina Ramey |
 | 42 | 44 | Ashley MyBeauty Daniels |
-| 43 | 43 | KenpachisGirl |
-| 44 | 43 | Block |
+| 43 | 43 | Block |
+| 44 | 43 | KenpachisGirl |
 | 45 | 42 | Frisky Fall |
 | 46 | 41 | Jessica Russell |
-| 47 | 40 | $hort Dog |
-| 48 | 40 | Char |
+| 47 | 40 | Cheeky Pop |
+| 48 | 40 | Jean Regis |
 | 49 | 40 | JoJo |
-| 50 | 40 | Jean Regis |
-| 51 | 40 | Cheeky Pop |
+| 50 | 40 | Char |
+| 51 | 40 | $hort Dog |
 | 52 | 40 | Leavon Smith |
 | 53 | 40 | Flashy Slam |
 | 54 | 38 | rls |
 | 55 | 37 | Lootch |
 | 56 | 37 | Steve Reno |
-| 57 | 35 | Yashica Smith |
-| 58 | 35 | Saucy Crusher |
-| 59 | 35 | KoolKimJay |
-| 60 | 35 | Lilly Brown |
-| 61 | 35 | Dai Bo |
+| 57 | 35 | Saucy Crusher |
+| 58 | 35 | Yashica Smith |
+| 59 | 35 | Dai Bo |
+| 60 | 35 | KoolKimJay |
+| 61 | 35 | Lilly Brown |
 | 62 | 33 | Sashaleo |
 | 63 | 32 | Melvin Simpson |
 | 64 | 32 | Tobey Marberry |
-| 65 | 30 | Saucy Faller |
-| 66 | 30 | Andi McGreevy |
-| 67 | 30 | Lester Malone |
-| 68 | 30 | Brian Bohanon II |
-| 69 | 30 | Casey Chapman |
-| 70 | 30 | Jack Vlasak |
-| 71 | 29 | hope |
-| 72 | 29 | Sarah Marie |
+| 65 | 30 | Casey Chapman |
+| 66 | 30 | Jack Vlasak |
+| 67 | 30 | Brian Bohanon II |
+| 68 | 30 | Lester Malone |
+| 69 | 30 | Andi McGreevy |
+| 70 | 30 | Saucy Faller |
+| 71 | 29 | Sarah Marie |
+| 72 | 29 | hope |
 | 73 | 28 | John Staub |
-| 74 | 27 | Zany Breaker |
-| 75 | 27 | Jae Thompson-Tyus |
-| 76 | 27 | Angela R Wilson |
-| 77 | 27 | Charlene Baltimore |
-| 78 | 27 | Mighty Dropper |
-| 79 | 26 | Boldy Pivoty |
+| 74 | 27 | Boldy Pivoty |
+| 75 | 27 | Zany Breaker |
+| 76 | 27 | Jae Thompson-Tyus |
+| 77 | 27 | Angela R Wilson |
+| 78 | 27 | Charlene Baltimore |
+| 79 | 27 | Mighty Dropper |
 | 80 | 25 | Hasty Pivoty |
 | 81 | 25 | Tyrone Porter |
 | 82 | 24 | TBABYJ |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 14:10:14 UTC
+# Standings for team2 as of 2026-06-05 14:10:37 UTC
 
 **Total Participants:** 148
 
@@ -151,8 +151,8 @@
 | 143 | 6 | Nova Nova |
 | 144 | 6 | fancypants |
 | 145 | 5 | Allison Peterson |
-| 146 | 5 | Devon |
-| 147 | 5 | Kelly Hall Whitt |
+| 146 | 5 | Kelly Hall Whitt |
+| 147 | 5 | Devon |
 | 148 | 5 | Slinky Glidezone |
 
 ---
