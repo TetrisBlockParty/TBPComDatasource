@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 20:25:14 UTC
+# Standings for team1 as of 2026-06-05 20:26:14 UTC
 
 **Total Participants:** 475
 
@@ -27,26 +27,26 @@
 | 19 | 356 | Jacoby E Fleming |
 | 20 | 351 | AF Cruz |
 | 21 | 345 | Brian Bohanon II |
-| 22 | 325 | JoJo |
-| 23 | 319 | Shell Lewis |
-| 24 | 293 | Epic Snapfall |
+| 22 | 333 | Epic Snapfall |
+| 23 | 325 | JoJo |
+| 24 | 319 | Shell Lewis |
 | 25 | 292 | Sarah Marie |
 | 26 | 280 | Bre Maugh |
-| 27 | 260 | Carolynne Walker-Bell |
-| 28 | 249 | Ashley MyBeauty Daniels |
-| 29 | 248 | Debbie Carswell |
-| 30 | 244 | Tammye Turner |
-| 31 | 241 | Ivana Schmidt |
-| 32 | 240 | Rayya Kiser |
-| 33 | 240 | IamJust Neyamijah Washington Sr. |
-| 34 | 238 | Holly Jolly |
-| 35 | 237 | Leebo Slice |
-| 36 | 235 | Jennifer To |
-| 37 | 234 | Pdubbl3 |
-| 38 | 228 | Cassidy Butler |
-| 39 | 220 | She Higgy |
-| 40 | 215 | Abraham Espaillat |
-| 41 | 200 | Juan Kandiss Escobedo Irwin |
+| 27 | 262 | Juan Kandiss Escobedo Irwin |
+| 28 | 260 | Carolynne Walker-Bell |
+| 29 | 249 | Ashley MyBeauty Daniels |
+| 30 | 248 | Debbie Carswell |
+| 31 | 244 | Tammye Turner |
+| 32 | 241 | Ivana Schmidt |
+| 33 | 240 | Rayya Kiser |
+| 34 | 240 | IamJust Neyamijah Washington Sr. |
+| 35 | 238 | Holly Jolly |
+| 36 | 237 | Leebo Slice |
+| 37 | 235 | Jennifer To |
+| 38 | 234 | Pdubbl3 |
+| 39 | 228 | Cassidy Butler |
+| 40 | 220 | She Higgy |
+| 41 | 215 | Abraham Espaillat |
 | 42 | 197 | Nerdy Snapfall |
 | 43 | 196 | COSA303 |
 | 44 | 193 | Spicy Balancer |
@@ -67,8 +67,8 @@
 | 59 | 140 | Ann Chung |
 | 60 | 137 | BlackQueen105 |
 | 61 | 136 | Anthony Washington |
-| 62 | 135 | Jawaun Daniels |
-| 63 | 135 | Voice |
+| 62 | 135 | Voice |
+| 63 | 135 | Jawaun Daniels |
 | 64 | 132 | Robyn Caldwell |
 | 65 | 130 | Lashaunda |
 | 66 | 127 | SPNLover24 |
