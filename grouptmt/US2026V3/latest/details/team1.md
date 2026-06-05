@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 22:40:14 UTC
+# Standings for team1 as of 2026-06-05 22:40:37 UTC
 
 **Total Participants:** 569
 
@@ -551,8 +551,8 @@
 | 543 | 5 | Rieshelda Marie White |
 | 544 | 5 | Hasty Brickzone |
 | 545 | 5 | Kidgib5 |
-| 546 | 5 | Jennifer Moore |
-| 547 | 5 | Temeshia Brooks Washington |
+| 546 | 5 | Temeshia Brooks Washington |
+| 547 | 5 | Jennifer Moore |
 | 548 | 5 | KeeKee Williams |
 | 549 | 5 | Quirky Fallgrid |
 | 550 | 5 | Vernon Hoyt |
@@ -565,16 +565,16 @@
 | 557 | 5 | Zappy Clearfit |
 | 558 | 5 | Tamika Fisher |
 | 559 | 5 | Tito Divyn |
-| 560 | 5 | Shawn Himes |
-| 561 | 5 | DirtiestofMikes |
-| 562 | 5 | Stephanie Zuniga Tullock |
-| 563 | 5 | Jasmine Hariston-Estis |
-| 564 | 5 | Derek Beverly |
-| 565 | 5 | Lil T |
-| 566 | 5 | Chill Linkroll |
-| 567 | 5 | the guy |
-| 568 | 5 | Shakuria Cortia Burney |
-| 569 | 5 | Mommy Frank |
+| 560 | 5 | Mommy Frank |
+| 561 | 5 | Shakuria Cortia Burney |
+| 562 | 5 | the guy |
+| 563 | 5 | Chill Linkroll |
+| 564 | 5 | Lil T |
+| 565 | 5 | Derek Beverly |
+| 566 | 5 | Jasmine Hariston-Estis |
+| 567 | 5 | Stephanie Zuniga Tullock |
+| 568 | 5 | Shawn Himes |
+| 569 | 5 | DirtiestofMikes |
 
 ---
 *Standings created by tournaments datasource generation tool*
