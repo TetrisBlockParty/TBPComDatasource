@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:10:14 UTC
+# Standings for team1 as of 2026-06-05 17:10:36 UTC
 
 **Total Participants:** 323
 
@@ -35,86 +35,86 @@
 | 27 | 237 | Leebo Slice |
 | 28 | 234 | Pdubbl3 |
 | 29 | 229 | Ashley MyBeauty Daniels |
-| 30 | 220 | Rayya Kiser |
-| 31 | 215 | Abraham Espaillat |
-| 32 | 193 | Spicy Balancer |
-| 33 | 185 | Jennifer To |
-| 34 | 185 | COSA303 |
-| 35 | 178 | Cassidy Butler |
+| 30 | 228 | Cassidy Butler |
+| 31 | 220 | Rayya Kiser |
+| 32 | 215 | Abraham Espaillat |
+| 33 | 193 | Spicy Balancer |
+| 34 | 185 | Jennifer To |
+| 35 | 185 | COSA303 |
 | 36 | 178 | Gotcha |
 | 37 | 177 | Chris Sladoje |
 | 38 | 165 | Davionte DaeDae Hopson-Rodriguez |
 | 39 | 162 | Markeeta Lipscomb |
 | 40 | 151 | Dacia Hicks |
 | 41 | 141 | Debbie Carswell |
-| 42 | 140 | JoJo |
-| 43 | 140 | Ann Chung |
+| 42 | 140 | Ann Chung |
+| 43 | 140 | JoJo |
 | 44 | 135 | Jawaun Daniels |
 | 45 | 126 | Blockhead |
 | 46 | 126 | Cee Emm |
 | 47 | 111 | Shalena Marie Humphrey |
 | 48 | 103 | KenpachisGirl |
-| 49 | 100 | Asani CHumba |
+| 49 | 100 | She Higgy |
 | 50 | 100 | Cool Bridger |
-| 51 | 100 | She Higgy |
+| 51 | 100 | Asani CHumba |
 | 52 | 99 | AF Cruz |
 | 53 | 96 | Cortaz Lawrie |
 | 54 | 90 | 신재호 |
 | 55 | 86 | SPNLover24 |
 | 56 | 85 | Nate Myers |
 | 57 | 84 | Ciera Peace |
-| 58 | 81 | Robyn Caldwell |
-| 59 | 81 | Mafio SO |
-| 60 | 80 | Felicia Williams |
-| 61 | 80 | Carolyn Smith |
-| 62 | 80 | Char |
+| 58 | 81 | Mafio SO |
+| 59 | 81 | Robyn Caldwell |
+| 60 | 80 | Jazzy Dashpiece |
+| 61 | 80 | Char |
+| 62 | 80 | Carolyn Smith |
 | 63 | 80 | Rachel Zimmerman |
-| 64 | 80 | Jazzy Dashpiece |
+| 64 | 80 | Felicia Williams |
 | 65 | 77 | Amber Wilson |
 | 66 | 76 | Giggly Shatterline |
-| 67 | 75 | Dizzy Dashy |
-| 68 | 75 | Katrina Ramey |
+| 67 | 75 | Katrina Ramey |
+| 68 | 75 | Dizzy Dashy |
 | 69 | 74 | Tonya McElroy |
 | 70 | 74 | Hasty Pivoty |
 | 71 | 74 | ♈️ Ariesbaby |
-| 72 | 72 | Mic Balew |
-| 73 | 72 | David Fuentes |
-| 74 | 70 | Nerdy Snapfall |
+| 72 | 73 | Nerdy Snapfall |
+| 73 | 72 | Mic Balew |
+| 74 | 72 | David Fuentes |
 | 75 | 70 | $hort Dog |
 | 76 | 67 | Michele Elizabeth McKay-Johnson |
 | 77 | 66 | Shontanese Adams |
-| 78 | 65 | Shanell Thomas |
-| 79 | 65 | Frisky Fall |
-| 80 | 65 | Latore Maxie |
+| 78 | 65 | Frisky Fall |
+| 79 | 65 | Latore Maxie |
+| 80 | 65 | Shanell Thomas |
 | 81 | 62 | Cheeky Pop |
 | 82 | 61 | Angela R Wilson |
-| 83 | 60 | Marcheta Cervantez |
+| 83 | 60 | Queenie Perry |
 | 84 | 60 | Boldy Liner |
 | 85 | 60 | Christian Pham |
 | 86 | 60 | Valerie Alexander |
-| 87 | 57 | Jessica Russell |
+| 87 | 60 | Marcheta Cervantez |
 | 88 | 57 | Tosha Michelle |
-| 89 | 57 | Erin Sabol |
-| 90 | 56 | Dena Marie Lee |
-| 91 | 55 | Kyle Franklin |
-| 92 | 54 | Lauraly |
-| 93 | 54 | CJ Robinson |
-| 94 | 52 | Keke Ferguson |
-| 95 | 51 | Comedian Gdane |
-| 96 | 50 | Dai Bo |
-| 97 | 50 | Donna Payne |
-| 98 | 50 | Slinky Party |
-| 99 | 50 | Yazz |
-| 100 | 50 | Teresa Yanira Cepeda |
-| 101 | 50 | Antoinette Jones |
-| 102 | 49 | Sanjuro |
+| 89 | 57 | Jessica Russell |
+| 90 | 57 | Erin Sabol |
+| 91 | 56 | Dena Marie Lee |
+| 92 | 55 | Kyle Franklin |
+| 93 | 54 | Lauraly |
+| 94 | 54 | CJ Robinson |
+| 95 | 52 | Keke Ferguson |
+| 96 | 51 | Comedian Gdane |
+| 97 | 50 | Yazz |
+| 98 | 50 | Teresa Yanira Cepeda |
+| 99 | 50 | Donna Payne |
+| 100 | 50 | Slinky Party |
+| 101 | 50 | Dai Bo |
+| 102 | 50 | Antoinette Jones |
 | 103 | 49 | LexiiSamayaa |
-| 104 | 47 | Christopher Dreamsareality McEachin |
+| 104 | 49 | Sanjuro |
 | 105 | 47 | Derrius SeriousLee Burks |
-| 106 | 45 | Queenie Perry |
-| 107 | 45 | Guy Incognito |
-| 108 | 45 | Renee J. Thomas |
-| 109 | 45 | Jayjay Rich |
+| 106 | 47 | Christopher Dreamsareality McEachin |
+| 107 | 45 | Renee J. Thomas |
+| 108 | 45 | Jayjay Rich |
+| 109 | 45 | Guy Incognito |
 | 110 | 44 | Andi McGreevy |
 | 111 | 43 | Block |
 | 112 | 43 | Eric Mcgaughy |
@@ -124,19 +124,19 @@
 | 116 | 40 | Heather Aurelia |
 | 117 | 40 | Jean Regis |
 | 118 | 40 | Rackemwillie34 |
-| 119 | 40 | Leavon Smith |
-| 120 | 40 | Flashy Slam |
-| 121 | 39 | Jae Thompson-Tyus |
-| 122 | 39 | JesusSaves 😇 |
-| 123 | 39 | Kristie |
-| 124 | 39 | Sabrina Wilkerson |
+| 119 | 40 | Flashy Slam |
+| 120 | 40 | Leavon Smith |
+| 121 | 39 | Sabrina Wilkerson |
+| 122 | 39 | Jae Thompson-Tyus |
+| 123 | 39 | JesusSaves 😇 |
+| 124 | 39 | Kristie |
 | 125 | 38 | rls |
 | 126 | 38 | Kahliah Baker |
-| 127 | 37 | Steve Reno |
-| 128 | 37 | Cranky Fall |
-| 129 | 37 | Lootch |
-| 130 | 37 | Calvin Green |
-| 131 | 37 | Jojo M |
+| 127 | 37 | Cranky Fall |
+| 128 | 37 | Jojo M |
+| 129 | 37 | Calvin Green |
+| 130 | 37 | Steve Reno |
+| 131 | 37 | Lootch |
 | 132 | 37 | Byron Mario Cawthon |
 | 133 | 36 | Sunny Riserbuilder |
 | 134 | 35 | Saucy Crusher |
