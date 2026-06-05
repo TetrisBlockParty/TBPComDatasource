@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 18:57:13 UTC
+# Standings for team1 as of 2026-06-05 18:58:15 UTC
 
 **Total Participants:** 407
 
@@ -13,7 +13,7 @@
 | 5 | 1050 | jaimie |
 | 6 | 1008 | Dyane Leah Ware |
 | 7 | 950 | Chandler Spencer |
-| 8 | 825 | Chris Russell |
+| 8 | 839 | Chris Russell |
 | 9 | 749 | Aviv Zehavi |
 | 10 | 580 | Janet Cooke |
 | 11 | 544 | Carrie English |
@@ -71,11 +71,11 @@
 | 63 | 95 | Nate Myers |
 | 64 | 94 | W.A. Simpson |
 | 65 | 90 | 신재호 |
-| 66 | 84 | Ciera Peace |
-| 67 | 81 | Robyn Caldwell |
+| 66 | 84 | Simone Bailey |
+| 67 | 84 | Ciera Peace |
 | 68 | 81 | Mafio SO |
-| 69 | 81 | Lively Riserpiece |
-| 70 | 81 | Simone Bailey |
+| 69 | 81 | Robyn Caldwell |
+| 70 | 81 | Lively Riserpiece |
 | 71 | 80 | Carolyn Smith |
 | 72 | 80 | Rachel Zimmerman |
 | 73 | 80 | Jazzy Dashpiece |
@@ -176,23 +176,23 @@
 | 168 | 35 | HBTone |
 | 169 | 35 | messyboots |
 | 170 | 34 | David A Alvino |
-| 171 | 33 | Richard Flex |
-| 172 | 33 | Block King |
-| 173 | 33 | Chris Nelson |
+| 171 | 33 | Jackytrain52 |
+| 172 | 33 | Richard Flex |
+| 173 | 33 | Block King |
 | 174 | 33 | Krose Byers |
 | 175 | 33 | Mom3granny2 |
 | 176 | 33 | Rene Hicks |
-| 177 | 32 | Jackytrain52 |
-| 178 | 32 | Tobey Marberry |
-| 179 | 32 | Christi Walker Patton |
-| 180 | 32 | Melvin Simpson |
+| 177 | 33 | Chris Nelson |
+| 178 | 32 | Christi Walker Patton |
+| 179 | 32 | Melvin Simpson |
+| 180 | 32 | Tobey Marberry |
 | 181 | 32 | Jack Mehof |
 | 182 | 32 | Tyrone Porter |
 | 183 | 31 | Boldy Pivoty |
-| 184 | 31 | Casey Chapman |
-| 185 | 31 | Daris Swearington |
-| 186 | 31 | Miera Nicole |
-| 187 | 31 | Anthony |
+| 184 | 31 | Anthony |
+| 185 | 31 | Casey Chapman |
+| 186 | 31 | Daris Swearington |
+| 187 | 31 | Miera Nicole |
 | 188 | 30 | Kp |
 | 189 | 30 | Gabriela Hernandez |
 | 190 | 30 | SeanSanchez |
