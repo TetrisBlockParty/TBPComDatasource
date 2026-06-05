@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 23:36:37 UTC
+# Standings for team1 as of 2026-06-05 23:37:15 UTC
 
 **Total Participants:** 596
 
@@ -200,63 +200,63 @@
 | 192 | 50 | Skippy |
 | 193 | 50 | Donna Payne |
 | 194 | 49 | LexiiSamayaa |
-| 195 | 48 | Comedian Prince Paul |
+| 195 | 49 | Kimberly Susan Privette |
 | 196 | 48 | Sunny Clicky |
-| 197 | 48 | BYM4L |
-| 198 | 48 | Sonia Binti Mfalme |
-| 199 | 47 | Derrius SeriousLee Burks |
+| 197 | 48 | Sonia Binti Mfalme |
+| 198 | 48 | BYM4L |
+| 199 | 48 | Comedian Prince Paul |
 | 200 | 47 | Cece Fowler |
-| 201 | 47 | Terrie |
+| 201 | 47 | Poppy Twister |
 | 202 | 47 | Christopher Dreamsareality McEachin |
-| 203 | 47 | Poppy Twister |
-| 204 | 46 | David A Alvino |
-| 205 | 45 | Tishauna Virgo |
-| 206 | 45 | Sabrina Wilkerson |
-| 207 | 45 | Byron Mario Cawthon |
-| 208 | 45 | Guy Incognito |
-| 209 | 45 | Renee J. Thomas |
-| 210 | 45 | Kimberly Susan Privette |
-| 211 | 45 | Slinky Clearzone |
+| 203 | 47 | Terrie |
+| 204 | 47 | Derrius SeriousLee Burks |
+| 205 | 46 | David A Alvino |
+| 206 | 45 | Guy Incognito |
+| 207 | 45 | Renee J. Thomas |
+| 208 | 45 | Byron Mario Cawthon |
+| 209 | 45 | Slinky Clearzone |
+| 210 | 45 | Tishauna Virgo |
+| 211 | 45 | Sabrina Wilkerson |
 | 212 | 44 | Andi McGreevy |
 | 213 | 44 | Tamara Johnson-Carter |
-| 214 | 43 | IThinkNot |
-| 215 | 43 | Brittany Fells |
-| 216 | 43 | Block |
-| 217 | 43 | Rachel Renae Bettis |
+| 214 | 43 | Block |
+| 215 | 43 | Rachel Renae Bettis |
+| 216 | 43 | IThinkNot |
+| 217 | 43 | Brittany Fells |
 | 218 | 43 | Brenda Malachi-butler |
-| 219 | 42 | Dandy Brickfit |
-| 220 | 42 | sasha |
+| 219 | 42 | sasha |
+| 220 | 42 | Dandy Brickfit |
 | 221 | 41 | Slinky Brickmatch |
-| 222 | 41 | Cranky Fall |
-| 223 | 41 | Frothy Zoney |
-| 224 | 40 | Rackemwillie34 |
-| 225 | 40 | Kimberly Linares Hernandez |
-| 226 | 40 | Nutty Spinblock |
-| 227 | 40 | Larina Cherie Johnson |
-| 228 | 40 | HarleyJane |
-| 229 | 40 | Devin West |
-| 230 | 40 | Kamilya Rembert |
-| 231 | 40 | Wild Out Nai |
-| 232 | 40 | Heather Aurelia |
+| 222 | 41 | Frothy Zoney |
+| 223 | 41 | Cranky Fall |
+| 224 | 41 | Kimberly Linares Hernandez |
+| 225 | 40 | Kamilya Rembert |
+| 226 | 40 | Leavon Smith |
+| 227 | 40 | HarleyJane |
+| 228 | 40 | Rackemwillie34 |
+| 229 | 40 | Larina Cherie Johnson |
+| 230 | 40 | Wild Out Nai |
+| 231 | 40 | Jean Regis |
+| 232 | 40 | Nutty Spinblock |
 | 233 | 40 | Flashy Slam |
-| 234 | 40 | Tori Carter |
-| 235 | 40 | Nisha Sunshine Jenkins |
-| 236 | 40 | Jean Regis |
-| 237 | 40 | Leavon Smith |
-| 238 | 39 | Jae Thompson-Tyus |
-| 239 | 39 | JesusSaves 😇 |
-| 240 | 39 | Lynnette WheelerBushnell |
-| 241 | 39 | Elizabeth Green |
-| 242 | 39 | Lexx Robins |
-| 243 | 38 | hope |
-| 244 | 38 | Raquel Ortiz |
+| 234 | 40 | Nisha Sunshine Jenkins |
+| 235 | 40 | Heather Aurelia |
+| 236 | 40 | Devin West |
+| 237 | 40 | Tori Carter |
+| 238 | 39 | Elizabeth Green |
+| 239 | 39 | Lynnette WheelerBushnell |
+| 240 | 39 | JesusSaves 😇 |
+| 241 | 39 | Lexx Robins |
+| 242 | 39 | Jae Thompson-Tyus |
+| 243 | 38 | Raquel Ortiz |
+| 244 | 38 | Lawreniesha Burkley |
 | 245 | 38 | Earl Williams |
-| 246 | 38 | Kahliah Baker |
+| 246 | 38 | hope |
 | 247 | 38 | Kayel Good |
-| 248 | 38 | Lawreniesha Burkley |
-| 249 | 38 | Tonya Thomas |
-| 250 | 37 | Jojo M |
-| 251 | 37 | Calvin Green |
+| 248 | 38 | Tonya Thomas |
+| 249 | 38 | Kahliah Baker |
+| 250 | 37 | Calvin Green |
+| 251 | 37 | Jojo M |
 | 252 | 37 | Jackytrain52 |
 | 253 | 37 | Lootch |
 | 254 | 36 | Sunny Riserbuilder |
@@ -531,77 +531,77 @@
 | 523 | 9 | Shakmar |
 | 524 | 8 | Rixo Blax |
 | 525 | 8 | Ferocity |
-| 526 | 8 | Sarah Barnum |
-| 527 | 8 | Shawna Passwater |
-| 528 | 8 | Tanesha Ga'sFinest Corbett |
-| 529 | 8 | Chevonne Huggins |
-| 530 | 8 | Ashley Davis |
-| 531 | 8 | Cm |
-| 532 | 8 | Mahagony Small |
-| 533 | 8 | Caitlin Michele |
-| 534 | 8 | Nerdy Twistline |
-| 535 | 8 | Joseph Vs Cap |
-| 536 | 8 | Teresa Bean |
-| 537 | 8 | jus_ry |
-| 538 | 8 | Brenda Brogden |
-| 539 | 7 | whatever |
-| 540 | 7 | Kendra McIntyre |
-| 541 | 7 | Shane Brucewayne |
-| 542 | 7 | wmedina67 |
-| 543 | 7 | Mary2 |
+| 526 | 8 | Shawna Passwater |
+| 527 | 8 | Tanesha Ga'sFinest Corbett |
+| 528 | 8 | Caitlin Michele |
+| 529 | 8 | Nerdy Twistline |
+| 530 | 8 | Brenda Brogden |
+| 531 | 8 | jus_ry |
+| 532 | 8 | Teresa Bean |
+| 533 | 8 | Ashley Davis |
+| 534 | 8 | Mahagony Small |
+| 535 | 8 | Cm |
+| 536 | 8 | Joseph Vs Cap |
+| 537 | 8 | Chevonne Huggins |
+| 538 | 8 | Sarah Barnum |
+| 539 | 7 | Analesia Taylor |
+| 540 | 7 | whatever |
+| 541 | 7 | wmedina67 |
+| 542 | 7 | Pj Rojas |
+| 543 | 7 | Kendra McIntyre |
 | 544 | 7 | Louise |
-| 545 | 7 | Pj Rojas |
-| 546 | 7 | Analesia Taylor |
-| 547 | 7 | Andrew Harris |
+| 545 | 7 | Mary2 |
+| 546 | 7 | Andrew Harris |
+| 547 | 7 | Shane Brucewayne |
 | 548 | 7 | Lakiesha Crawford |
 | 549 | 7 | Jayson |
-| 550 | 6 | Novaa |
-| 551 | 6 | Daring Riserfit |
-| 552 | 6 | Jeffrey Barrows |
-| 553 | 6 | Gael Quintana |
-| 554 | 6 | Boricua64 |
-| 555 | 6 | Jelyfish |
-| 556 | 6 | Frances Davis |
-| 557 | 6 | Wacky Towerer |
-| 558 | 6 | NEM0228 |
-| 559 | 6 | Janine Hunter |
+| 550 | 6 | Jeffrey Barrows |
+| 551 | 6 | Janine Hunter |
+| 552 | 6 | Jelyfish |
+| 553 | 6 | Boricua64 |
+| 554 | 6 | Wacky Towerer |
+| 555 | 6 | Allison Baxter |
+| 556 | 6 | Solomon Valarie |
+| 557 | 6 | Daring Riserfit |
+| 558 | 6 | Novaa |
+| 559 | 6 | Diamond Nicole |
 | 560 | 6 | Wu May |
-| 561 | 6 | Allison Baxter |
-| 562 | 6 | Christopher Wallace |
-| 563 | 6 | Diamond Nicole |
-| 564 | 6 | Brittnay Wright |
-| 565 | 6 | Solomon Valarie |
-| 566 | 5 | Andre Sanon |
-| 567 | 5 | Vernon Hoyt |
-| 568 | 5 | Saucy Linkgrid |
-| 569 | 5 | Tipsy Builderline |
-| 570 | 5 | Rieshelda Marie White |
-| 571 | 5 | Parris Wright |
+| 561 | 6 | Gael Quintana |
+| 562 | 6 | NEM0228 |
+| 563 | 6 | Christopher Wallace |
+| 564 | 6 | Frances Davis |
+| 565 | 6 | Brittnay Wright |
+| 566 | 5 | Tipsy Builderline |
+| 567 | 5 | Chill Linkroll |
+| 568 | 5 | Hasty Brickzone |
+| 569 | 5 | Sara |
+| 570 | 5 | Lil T |
+| 571 | 5 | KeeKee Williams |
 | 572 | 5 | Temeshia Brooks Washington |
-| 573 | 5 | KeeKee Williams |
-| 574 | 5 | Barbramerri Tarboro |
-| 575 | 5 | Spunky Strikerbuilder |
-| 576 | 5 | Jasmine Hariston-Estis |
-| 577 | 5 | Derek Beverly |
-| 578 | 5 | Lil T |
-| 579 | 5 | Sara |
-| 580 | 5 | Hasty Brickzone |
-| 581 | 5 | Chill Linkroll |
-| 582 | 5 | DirtiestofMikes |
-| 583 | 5 | the guy |
-| 584 | 5 | Kidgib5 |
-| 585 | 5 | Jennifer Moore |
+| 573 | 5 | Derek Beverly |
+| 574 | 5 | Rieshelda Marie White |
+| 575 | 5 | Tamika Fisher |
+| 576 | 5 | Saucy Linkgrid |
+| 577 | 5 | Jasmine Hariston-Estis |
+| 578 | 5 | Spunky Strikerbuilder |
+| 579 | 5 | Stephanie Zuniga Tullock |
+| 580 | 5 | DirtiestofMikes |
+| 581 | 5 | Shawn Himes |
+| 582 | 5 | Zappy Clearfit |
+| 583 | 5 | Duckey |
+| 584 | 5 | Tito Divyn |
+| 585 | 5 | Sheila Burnham |
 | 586 | 5 | Mommy Frank |
-| 587 | 5 | Tito Divyn |
-| 588 | 5 | Shawn Himes |
-| 589 | 5 | Tamika Fisher |
-| 590 | 5 | Zappy Clearfit |
-| 591 | 5 | Duckey |
-| 592 | 5 | Sheila Burnham |
-| 593 | 5 | Logan Frost |
-| 594 | 5 | Stephanie Zuniga Tullock |
-| 595 | 5 | pooh |
-| 596 | 5 | Shakuria Cortia Burney |
+| 587 | 5 | Logan Frost |
+| 588 | 5 | Shakuria Cortia Burney |
+| 589 | 5 | Andre Sanon |
+| 590 | 5 | Jennifer Moore |
+| 591 | 5 | Barbramerri Tarboro |
+| 592 | 5 | pooh |
+| 593 | 5 | Kidgib5 |
+| 594 | 5 | the guy |
+| 595 | 5 | Vernon Hoyt |
+| 596 | 5 | Parris Wright |
 
 ---
 *Standings created by tournaments datasource generation tool*
