@@ -1,6 +1,6 @@
-# Standings for team3 as of 2026-06-05 13:58:13 UTC
+# Standings for team3 as of 2026-06-05 13:58:35 UTC
 
-**Total Participants:** 330
+**Total Participants:** 331
 
 ## Participant Scores
 
@@ -247,95 +247,96 @@
 | 239 | 15 | Shylock Therrien |
 | 240 | 15 | Breanna Stenberg |
 | 241 | 15 | Melinda Flugga |
-| 242 | 15 | Quirky Curve |
-| 243 | 15 | Tim Hambly |
-| 244 | 15 | Minxy |
-| 245 | 15 | Tytin |
-| 246 | 15 | Brandy Painter |
-| 247 | 15 | Shawn Shilling |
-| 248 | 14 | Deandre Comer |
-| 249 | 14 | Briana Lowell |
+| 242 | 15 | Andrea Dyer |
+| 243 | 15 | Quirky Curve |
+| 244 | 15 | Tim Hambly |
+| 245 | 15 | Minxy |
+| 246 | 15 | Tytin |
+| 247 | 15 | Brandy Painter |
+| 248 | 15 | Shawn Shilling |
+| 249 | 14 | Sara Pederson |
 | 250 | 14 | j2swazy |
-| 251 | 14 | Jolly Twister |
-| 252 | 14 | Daring Demolitionist |
-| 253 | 14 | Christopher Taco Tobin |
-| 254 | 14 | Sara Pederson |
-| 255 | 13 | Sunny Days |
-| 256 | 13 | DShark72 |
-| 257 | 13 | Bellawells |
-| 258 | 13 | Raven Rogue |
-| 259 | 12 | Sunny Snapline |
-| 260 | 12 | blockbusterr |
+| 251 | 14 | Deandre Comer |
+| 252 | 14 | Briana Lowell |
+| 253 | 14 | Jolly Twister |
+| 254 | 14 | Daring Demolitionist |
+| 255 | 14 | Christopher Taco Tobin |
+| 256 | 13 | Bellawells |
+| 257 | 13 | DShark72 |
+| 258 | 13 | Sunny Days |
+| 259 | 13 | Raven Rogue |
+| 260 | 12 | Nonni |
 | 261 | 12 | Mel Murr |
-| 262 | 12 | Jwatt |
-| 263 | 12 | Wacky Catcher |
-| 264 | 12 | Jonathan Russell |
-| 265 | 12 | Robby Beltran |
-| 266 | 12 | Jessica Baskins |
-| 267 | 12 | Nonni |
-| 268 | 12 | Violet |
-| 269 | 12 | Loopy Shatterblock |
-| 270 | 12 | Eli k |
+| 262 | 12 | Wacky Catcher |
+| 263 | 12 | Jonathan Russell |
+| 264 | 12 | Jessica Baskins |
+| 265 | 12 | Loopy Shatterblock |
+| 266 | 12 | Violet |
+| 267 | 12 | Robby Beltran |
+| 268 | 12 | blockbusterr |
+| 269 | 12 | Eli k |
+| 270 | 12 | Sunny Snapline |
 | 271 | 12 | Evelyn Richardson |
-| 272 | 11 | MISnM |
+| 272 | 12 | Jwatt |
 | 273 | 11 | Mallory Brown |
-| 274 | 11 | Happy Balancer |
-| 275 | 11 | Carrie Ness |
-| 276 | 11 | Eric Hanson |
-| 277 | 10 | Danny Gooch |
-| 278 | 10 | Shelbybaby2 |
-| 279 | 10 | Derek Burgess |
+| 274 | 11 | MISnM |
+| 275 | 11 | Eric Hanson |
+| 276 | 11 | Happy Balancer |
+| 277 | 11 | Carrie Ness |
+| 278 | 10 | Los gonnies |
+| 279 | 10 | Stacy Manchester |
 | 280 | 10 | TGROOVE |
-| 281 | 10 | Shabae |
-| 282 | 10 | Stacy Manchester |
-| 283 | 10 | Lindsey May |
-| 284 | 10 | Sheri Read |
+| 281 | 10 | Danny Gooch |
+| 282 | 10 | Shelbybaby2 |
+| 283 | 10 | Derek Burgess |
+| 284 | 10 | Lindsey May |
 | 285 | 10 | Casey Kincheloe |
-| 286 | 10 | Los gonnies |
-| 287 | 10 | Jacqueline Muellerleile |
-| 288 | 10 | Brandi Thomas-Scott |
+| 286 | 10 | Jacqueline Muellerleile |
+| 287 | 10 | Sheri Read |
+| 288 | 10 | Shabae |
 | 289 | 10 | Jenni Torres |
-| 290 | 9 | Tracy Fuller |
-| 291 | 9 | Angie Rodriguez |
-| 292 | 9 | Q |
-| 293 | 9 | Natasha Silva |
-| 294 | 9 | Sarah Cruthirds |
-| 295 | 9 | Hiya |
-| 296 | 9 | Gigi Brady |
-| 297 | 9 | Tnaughty |
-| 298 | 9 | Salky |
-| 299 | 9 | Jess Jess |
-| 300 | 8 | Glitzy Tilt |
-| 301 | 8 | Funky Pivoty |
-| 302 | 8 | OutlawNation |
+| 290 | 10 | Brandi Thomas-Scott |
+| 291 | 9 | Sea Shell Chaser |
+| 292 | 9 | Tnaughty |
+| 293 | 9 | Hiya |
+| 294 | 9 | Natasha Silva |
+| 295 | 9 | Jess Jess |
+| 296 | 9 | Salky |
+| 297 | 9 | Angie Rodriguez |
+| 298 | 9 | Tracy Fuller |
+| 299 | 9 | Gigi Brady |
+| 300 | 9 | Sarah Cruthirds |
+| 301 | 9 | Q |
+| 302 | 8 | Funky Pivoty |
 | 303 | 8 | Fam |
-| 304 | 7 | Loony Rollfit |
-| 305 | 7 | YoMama |
-| 306 | 7 | Isaiah Wellons |
+| 304 | 8 | Glitzy Tilt |
+| 305 | 8 | OutlawNation |
+| 306 | 7 | Loony Rollfit |
 | 307 | 7 | Camie VanDyke |
-| 308 | 6 | bt |
-| 309 | 6 | Kathy Siano |
-| 310 | 6 | Nese |
+| 308 | 7 | Isaiah Wellons |
+| 309 | 7 | YoMama |
+| 310 | 6 | Auther Jordan |
 | 311 | 6 | Landon Holman |
-| 312 | 6 | Brenda Pyne |
-| 313 | 6 | Auther Jordan |
-| 314 | 6 | Magnetic Marge |
-| 315 | 6 | Groovy Bricky |
-| 316 | 6 | Mary E Locklear |
-| 317 | 6 | Chris Lea |
-| 318 | 5 | Giggly Breaker |
-| 319 | 5 | Victoria Lofquist |
-| 320 | 5 | Tori Morgan |
-| 321 | 5 | Andrea Dyer |
-| 322 | 5 | KAR |
-| 323 | 5 | Rasik park |
-| 324 | 5 | Kimberly Garcia |
-| 325 | 5 | James Larrison |
-| 326 | 5 | Clarissa Olivares-Pozgaj |
-| 327 | 5 | fizzy girl |
-| 328 | 5 | Kd90 |
-| 329 | 5 | Snippy Cornerfall |
-| 330 | 5 | Joanna Johnson |
+| 312 | 6 | Kathy Siano |
+| 313 | 6 | Nese |
+| 314 | 6 | Chris Lea |
+| 315 | 6 | Mary E Locklear |
+| 316 | 6 | Magnetic Marge |
+| 317 | 6 | bt |
+| 318 | 6 | Brenda Pyne |
+| 319 | 6 | Groovy Bricky |
+| 320 | 5 | Giggly Breaker |
+| 321 | 5 | Victoria Lofquist |
+| 322 | 5 | Tori Morgan |
+| 323 | 5 | Joanna Johnson |
+| 324 | 5 | KAR |
+| 325 | 5 | Rasik park |
+| 326 | 5 | Kimberly Garcia |
+| 327 | 5 | James Larrison |
+| 328 | 5 | Clarissa Olivares-Pozgaj |
+| 329 | 5 | fizzy girl |
+| 330 | 5 | Kd90 |
+| 331 | 5 | Snippy Cornerfall |
 
 ---
 *Standings created by tournaments datasource generation tool*

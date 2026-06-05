@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:58:13 UTC
+# Standings for team1 as of 2026-06-05 13:58:35 UTC
 
 **Total Participants:** 132
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 1100 | Timothy Robert |
-| 2 | 900 | jaimie |
+| 2 | 950 | jaimie |
 | 3 | 800 | Chandler Spencer |
 | 4 | 749 | Aviv Zehavi |
 | 5 | 665 | Chris Russell |
