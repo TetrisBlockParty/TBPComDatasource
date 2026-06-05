@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 20:12:14 UTC
+# Standings for team4 as of 2026-06-05 20:12:37 UTC
 
 **Total Participants:** 421
 
@@ -259,87 +259,87 @@
 | 251 | 24 | Dawn Phelps |
 | 252 | 23 | Kristen Wallace |
 | 253 | 23 | Sonya |
-| 254 | 23 | Genger |
-| 255 | 23 | Melika Zeheb |
+| 254 | 23 | Melika Zeheb |
+| 255 | 23 | Genger |
 | 256 | 22 | Jonelle Jacobs |
 | 257 | 22 | QueenLi86 |
-| 258 | 22 | Joab Gonzalez |
-| 259 | 22 | Nancy McCalla Abercrombie |
-| 260 | 21 | SandyEva |
-| 261 | 21 | Dheeh Robles |
-| 262 | 21 | LilithMoon |
-| 263 | 21 | Keesha Muro |
-| 264 | 21 | Darren Miguel |
-| 265 | 20 | Joha Mldo Castillo |
-| 266 | 20 | Tipsy Patternfit |
-| 267 | 20 | Plucky Shatterfit |
-| 268 | 20 | Jerett Coplin |
-| 269 | 20 | Clever Patterner |
+| 258 | 22 | Nancy McCalla Abercrombie |
+| 259 | 22 | Joab Gonzalez |
+| 260 | 21 | Dheeh Robles |
+| 261 | 21 | Keesha Muro |
+| 262 | 21 | Darren Miguel |
+| 263 | 21 | LilithMoon |
+| 264 | 21 | SandyEva |
+| 265 | 20 | Margie Thomas |
+| 266 | 20 | Rita Ann |
+| 267 | 20 | Hasty Dropzone |
+| 268 | 20 | Ashley DuVall |
+| 269 | 20 | Jerett Coplin |
 | 270 | 20 | Mexican130 |
-| 271 | 20 | Silly Risegrid |
-| 272 | 20 | Hasty Dropzone |
-| 273 | 20 | Ashley DuVall |
-| 274 | 20 | Margie Thomas |
-| 275 | 20 | Erika Rubio |
-| 276 | 20 | Rita Ann |
-| 277 | 20 | Betsy Froemming |
-| 278 | 20 | ariel |
-| 279 | 20 | BethB |
-| 280 | 20 | Erica Pompey |
-| 281 | 20 | Tony Clark |
-| 282 | 20 | Natalie Ohrtman Strand |
-| 283 | 20 | Spidaman86 |
-| 284 | 19 | Mrs.J2013 |
-| 285 | 19 | Diana Fernandez |
-| 286 | 19 | Cheeky Fallzone |
-| 287 | 19 | Swanky Matchfit |
-| 288 | 19 | Tamika Ashli Bonner |
-| 289 | 19 | Jewelz |
-| 290 | 19 | Alizabeth Garcia |
-| 291 | 18 | Happy Strikerpiece |
-| 292 | 18 | Stacia Marie |
-| 293 | 18 | Iforget |
-| 294 | 18 | Dawn Ferrin |
-| 295 | 18 | Angel Boges |
-| 296 | 18 | Perry Ransom |
-| 297 | 18 | chuck |
-| 298 | 18 | Dexter Hammond Jr |
-| 299 | 18 | pussface |
+| 271 | 20 | Tipsy Patternfit |
+| 272 | 20 | Silly Risegrid |
+| 273 | 20 | Joha Mldo Castillo |
+| 274 | 20 | Plucky Shatterfit |
+| 275 | 20 | Natalie Ohrtman Strand |
+| 276 | 20 | Spidaman86 |
+| 277 | 20 | Clever Patterner |
+| 278 | 20 | Erika Rubio |
+| 279 | 20 | Betsy Froemming |
+| 280 | 20 | BethB |
+| 281 | 20 | Erica Pompey |
+| 282 | 20 | ariel |
+| 283 | 20 | Tony Clark |
+| 284 | 19 | Cheeky Fallzone |
+| 285 | 19 | Swanky Matchfit |
+| 286 | 19 | Alizabeth Garcia |
+| 287 | 19 | Tamika Ashli Bonner |
+| 288 | 19 | Diana Fernandez |
+| 289 | 19 | Mrs.J2013 |
+| 290 | 19 | Jewelz |
+| 291 | 18 | Perry Ransom |
+| 292 | 18 | chuck |
+| 293 | 18 | Frothy Pivotfall |
+| 294 | 18 | Cauntay Youngking Williams |
+| 295 | 18 | Stacia Marie |
+| 296 | 18 | Dexter Hammond Jr |
+| 297 | 18 | Anna Ryan |
+| 298 | 18 | pussface |
+| 299 | 18 | Iforget |
 | 300 | 18 | Rhonda Dowling |
-| 301 | 18 | Cauntay Youngking Williams |
-| 302 | 18 | Frothy Pivotfall |
-| 303 | 17 | Breezy Wife |
-| 304 | 17 | Slimm |
+| 301 | 18 | Happy Strikerpiece |
+| 302 | 18 | Dawn Ferrin |
+| 303 | 18 | Angel Boges |
+| 304 | 17 | Breezy Blockzone |
 | 305 | 17 | Samara Garcia |
 | 306 | 17 | Kariana Gonzalez Ortiz |
 | 307 | 17 | Melissa Anne |
-| 308 | 17 | Breezy Blockzone |
-| 309 | 16 | Queen B |
-| 310 | 16 | Shirley Tow Middaugh |
-| 311 | 16 | Ross Bryant |
-| 312 | 16 | Pap337 |
-| 313 | 16 | Alex Armour |
-| 314 | 16 | Slinky Stackzone |
-| 315 | 16 | Catherine Garza |
-| 316 | 16 | Chris Davis |
-| 317 | 16 | Gary Smallwood |
-| 318 | 16 | Kendall Rhodie |
-| 319 | 16 | George Palacios |
-| 320 | 15 | yourmomz |
-| 321 | 15 | John Wertz |
-| 322 | 15 | Jason Garnatz |
-| 323 | 15 | Hasty Snapmatch |
-| 324 | 15 | Smiley Gridzone |
-| 325 | 15 | Boldy Rumbler |
-| 326 | 15 | Jennifer Terrill |
-| 327 | 15 | Lateasha Wildman |
-| 328 | 15 | Tyson Stroppel |
-| 329 | 15 | Stephanie Meinhart |
-| 330 | 15 | Joshua Garner |
-| 331 | 15 | babygirlw |
-| 332 | 14 | Kay |
-| 333 | 14 | Dolores Falco |
-| 334 | 14 | Anna Ryan |
+| 308 | 17 | Breezy Wife |
+| 309 | 17 | Slimm |
+| 310 | 16 | Catherine Garza |
+| 311 | 16 | Chris Davis |
+| 312 | 16 | Gary Smallwood |
+| 313 | 16 | Slinky Stackzone |
+| 314 | 16 | Pap337 |
+| 315 | 16 | Ross Bryant |
+| 316 | 16 | Queen B |
+| 317 | 16 | George Palacios |
+| 318 | 16 | Alex Armour |
+| 319 | 16 | Shirley Tow Middaugh |
+| 320 | 16 | Kendall Rhodie |
+| 321 | 15 | Jason Garnatz |
+| 322 | 15 | Smiley Gridzone |
+| 323 | 15 | yourmomz |
+| 324 | 15 | Hasty Snapmatch |
+| 325 | 15 | John Wertz |
+| 326 | 15 | Tyson Stroppel |
+| 327 | 15 | Stephanie Meinhart |
+| 328 | 15 | Joshua Garner |
+| 329 | 15 | Boldy Rumbler |
+| 330 | 15 | Jennifer Terrill |
+| 331 | 15 | Lateasha Wildman |
+| 332 | 15 | babygirlw |
+| 333 | 14 | Kay |
+| 334 | 14 | Dolores Falco |
 | 335 | 14 | Winter Moon |
 | 336 | 14 | EpicWizard |
 | 337 | 14 | Kimberly Lusk |
