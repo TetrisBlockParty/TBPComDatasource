@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:26:35 UTC
+# Standings for team1 as of 2026-06-05 15:27:13 UTC
 
 **Total Participants:** 244
 
@@ -103,46 +103,46 @@
 | 95 | 37 | IThinkNot |
 | 96 | 35 | Saucy Crusher |
 | 97 | 35 | HBTone |
-| 98 | 35 | KoolKimJay |
+| 98 | 35 | Yashica Smith |
 | 99 | 35 | Lilly Brown |
-| 100 | 35 | Yashica Smith |
+| 100 | 35 | KoolKimJay |
 | 101 | 33 | Chris Nelson |
 | 102 | 33 | Sashaleo |
 | 103 | 32 | Melvin Simpson |
-| 104 | 32 | Richard Flex |
-| 105 | 32 | Tobey Marberry |
-| 106 | 31 | Boldy Pivoty |
-| 107 | 31 | Dandy Brickfit |
+| 104 | 32 | Tobey Marberry |
+| 105 | 32 | Richard Flex |
+| 106 | 31 | Dandy Brickfit |
+| 107 | 31 | Calvin Green |
 | 108 | 31 | Miera Nicole |
-| 109 | 30 | Casey Chapman |
+| 109 | 31 | Boldy Pivoty |
 | 110 | 30 | Andi McGreevy |
-| 111 | 30 | Jack Vlasak |
+| 111 | 30 | Leebo Slice |
 | 112 | 30 | Lester Malone |
-| 113 | 30 | Leebo Slice |
-| 114 | 30 | Saucy Faller |
-| 115 | 30 | Kristie |
-| 116 | 29 | hope |
-| 117 | 28 | John Staub |
+| 113 | 30 | Saucy Faller |
+| 114 | 30 | Kristie |
+| 115 | 30 | Jack Vlasak |
+| 116 | 30 | Casey Chapman |
+| 117 | 29 | hope |
 | 118 | 28 | Jazzy Bridger |
-| 119 | 27 | Jae Thompson-Tyus |
-| 120 | 27 | Zany Breaker |
-| 121 | 27 | JesusSaves 😇 |
-| 122 | 27 | Charlene Baltimore |
-| 123 | 27 | Mighty Dropper |
-| 124 | 26 | Xrandomx |
-| 125 | 25 | Hasty Pivoty |
-| 126 | 25 | Eric Mcgaughy |
-| 127 | 25 | Blockhead |
-| 128 | 25 | Kimmie Gargano |
-| 129 | 25 | Tyrone Porter |
-| 130 | 25 | Wacky Stackbuilder |
-| 131 | 25 | Teresa Yanira Cepeda |
-| 132 | 25 | Skippy |
-| 133 | 24 | TBABYJ |
-| 134 | 24 | Brittany Fells |
-| 135 | 24 | Nobles Brandon |
-| 136 | 24 | Latore Maxie |
-| 137 | 23 | Calvin Green |
+| 119 | 28 | John Staub |
+| 120 | 27 | Jae Thompson-Tyus |
+| 121 | 27 | Zany Breaker |
+| 122 | 27 | Mighty Dropper |
+| 123 | 27 | Charlene Baltimore |
+| 124 | 27 | JesusSaves 😇 |
+| 125 | 26 | Xrandomx |
+| 126 | 25 | Tyrone Porter |
+| 127 | 25 | Skippy |
+| 128 | 25 | Teresa Yanira Cepeda |
+| 129 | 25 | Wacky Stackbuilder |
+| 130 | 25 | Hasty Pivoty |
+| 131 | 25 | Kimmie Gargano |
+| 132 | 25 | Blockhead |
+| 133 | 25 | Eric Mcgaughy |
+| 134 | 24 | TBABYJ |
+| 135 | 24 | Brittany Fells |
+| 136 | 24 | Nobles Brandon |
+| 137 | 24 | Latore Maxie |
 | 138 | 23 | Tabitha Dupre-Allen |
 | 139 | 23 | Khatyrah Burnette |
 | 140 | 23 | Poppy Twister |
@@ -220,36 +220,36 @@
 | 212 | 9 | Tina Criam |
 | 213 | 9 | Shakmar |
 | 214 | 8 | Brika Brika |
-| 215 | 8 | Tanesha Ga'sFinest Corbett |
-| 216 | 8 | Taz Ballard |
-| 217 | 8 | Sammie Walker |
-| 218 | 8 | Breezy Catcher |
-| 219 | 8 | Jessie N Michael Silvers |
-| 220 | 7 | Jumpy Gridlock |
-| 221 | 7 | Shane Brucewayne |
-| 222 | 7 | Mary2 |
-| 223 | 7 | Kendra McIntyre |
+| 215 | 8 | Sammie Walker |
+| 216 | 8 | Breezy Catcher |
+| 217 | 8 | Jessie N Michael Silvers |
+| 218 | 8 | Tanesha Ga'sFinest Corbett |
+| 219 | 8 | Taz Ballard |
+| 220 | 7 | Shane Brucewayne |
+| 221 | 7 | Kendra McIntyre |
+| 222 | 7 | wmedina67 |
+| 223 | 7 | Mary2 |
 | 224 | 7 | whatever |
-| 225 | 7 | wmedina67 |
-| 226 | 6 | Christopher Wallace |
-| 227 | 6 | Allison Baxter |
-| 228 | 6 | Jeffrey Barrows |
-| 229 | 6 | Cece Fowler |
-| 230 | 6 | Brittnay Wright |
-| 231 | 6 | Janine Hunter |
-| 232 | 5 | Zappy Clearfit |
-| 233 | 5 | Rixo Blax |
-| 234 | 5 | Derek Beverly |
+| 225 | 7 | Jumpy Gridlock |
+| 226 | 6 | Brittnay Wright |
+| 227 | 6 | Jeffrey Barrows |
+| 228 | 6 | Cece Fowler |
+| 229 | 6 | Janine Hunter |
+| 230 | 6 | Allison Baxter |
+| 231 | 6 | Christopher Wallace |
+| 232 | 5 | Rixo Blax |
+| 233 | 5 | Vernon Hoyt |
+| 234 | 5 | KeeKee Williams |
 | 235 | 5 | Temeshia Brooks Washington |
-| 236 | 5 | KeeKee Williams |
-| 237 | 5 | Lil T |
-| 238 | 5 | Vernon Hoyt |
-| 239 | 5 | DirtiestofMikes |
-| 240 | 5 | Kidgib5 |
-| 241 | 5 | Jennifer Moore |
-| 242 | 5 | Shawn Himes |
-| 243 | 5 | Tamika Fisher |
-| 244 | 5 | Stephanie Zuniga Tullock |
+| 236 | 5 | Tamika Fisher |
+| 237 | 5 | Shawn Himes |
+| 238 | 5 | Jennifer Moore |
+| 239 | 5 | Kidgib5 |
+| 240 | 5 | DirtiestofMikes |
+| 241 | 5 | Stephanie Zuniga Tullock |
+| 242 | 5 | Lil T |
+| 243 | 5 | Derek Beverly |
+| 244 | 5 | Zappy Clearfit |
 
 ---
 *Standings created by tournaments datasource generation tool*
