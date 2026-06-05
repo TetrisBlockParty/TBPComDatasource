@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 14:48:14 UTC
+# Standings for team1 as of 2026-06-05 14:48:34 UTC
 
 **Total Participants:** 200
 
@@ -16,21 +16,21 @@
 | 8 | 453 | Brian Stackhouse |
 | 9 | 366 | Tracy Cohen |
 | 10 | 300 | Ryan Meilleur |
-| 11 | 260 | Carolynne Walker-Bell |
-| 12 | 241 | Ivana Schmidt |
-| 13 | 240 | Whitney Butler |
-| 14 | 238 | Holly Jolly |
-| 15 | 237 | Tammye Turner |
-| 16 | 234 | Pdubbl3 |
-| 17 | 215 | Sarah Marie |
+| 11 | 292 | Sarah Marie |
+| 12 | 260 | Carolynne Walker-Bell |
+| 13 | 241 | Ivana Schmidt |
+| 14 | 240 | Whitney Butler |
+| 15 | 238 | Holly Jolly |
+| 16 | 237 | Tammye Turner |
+| 17 | 234 | Pdubbl3 |
 | 18 | 178 | Gotcha |
 | 19 | 177 | Chris Sladoje |
 | 20 | 170 | Janet Cooke |
 | 21 | 162 | Markeeta Lipscomb |
 | 22 | 141 | Debbie Carswell |
-| 23 | 126 | Cee Emm |
-| 24 | 115 | Jawaun Daniels |
-| 25 | 114 | Dacia Hicks |
+| 23 | 132 | Dacia Hicks |
+| 24 | 126 | Cee Emm |
+| 25 | 115 | Jawaun Daniels |
 | 26 | 100 | Bre Maugh |
 | 27 | 100 | JoJo |
 | 28 | 100 | Asani CHumba |
@@ -38,25 +38,25 @@
 | 30 | 99 | Kellie Hall |
 | 31 | 95 | Ashley MyBeauty Daniels |
 | 32 | 86 | SPNLover24 |
-| 33 | 81 | Robyn Caldwell |
-| 34 | 81 | Mafio SO |
-| 35 | 80 | Felicia Williams |
-| 36 | 80 | Jazzy Dashpiece |
-| 37 | 80 | Rachel Zimmerman |
-| 38 | 80 | Char |
-| 39 | 77 | Amber Wilson |
-| 40 | 75 | Katrina Ramey |
-| 41 | 74 | ♈️ Ariesbaby |
-| 42 | 74 | Tonya McElroy |
-| 43 | 72 | David Fuentes |
-| 44 | 70 | $hort Dog |
-| 45 | 69 | AF Cruz |
-| 46 | 67 | Michele Elizabeth McKay-Johnson |
-| 47 | 66 | Shontanese Adams |
-| 48 | 65 | Shanell Thomas |
-| 49 | 65 | Frisky Fall |
+| 33 | 81 | Mafio SO |
+| 34 | 81 | Robyn Caldwell |
+| 35 | 80 | Jazzy Dashpiece |
+| 36 | 80 | Rachel Zimmerman |
+| 37 | 80 | Char |
+| 38 | 80 | Felicia Williams |
+| 39 | 80 | Jennifer To |
+| 40 | 77 | Amber Wilson |
+| 41 | 75 | Katrina Ramey |
+| 42 | 74 | ♈️ Ariesbaby |
+| 43 | 74 | Tonya McElroy |
+| 44 | 72 | David Fuentes |
+| 45 | 70 | $hort Dog |
+| 46 | 69 | AF Cruz |
+| 47 | 67 | Michele Elizabeth McKay-Johnson |
+| 48 | 66 | Shontanese Adams |
+| 49 | 65 | Shanell Thomas |
 | 50 | 65 | Dizzy Dashy |
-| 51 | 65 | Jennifer To |
+| 51 | 65 | Frisky Fall |
 | 52 | 63 | Carrie English |
 | 53 | 60 | Christian Pham |
 | 54 | 57 | Tosha Michelle |
@@ -197,15 +197,15 @@
 | 189 | 5 | Derek Beverly |
 | 190 | 5 | Vernon Hoyt |
 | 191 | 5 | Rixo Blax |
-| 192 | 5 | Elaine Youmans |
-| 193 | 5 | Guy Incognito |
-| 194 | 5 | Tamika Fisher |
-| 195 | 5 | Jennifer Moore |
-| 196 | 5 | Kidgib5 |
-| 197 | 5 | Shawn Himes |
-| 198 | 5 | DirtiestofMikes |
-| 199 | 5 | Stephanie Zuniga Tullock |
-| 200 | 5 | Lil T |
+| 192 | 5 | Guy Incognito |
+| 193 | 5 | Tamika Fisher |
+| 194 | 5 | Jennifer Moore |
+| 195 | 5 | Kidgib5 |
+| 196 | 5 | Shawn Himes |
+| 197 | 5 | DirtiestofMikes |
+| 198 | 5 | Stephanie Zuniga Tullock |
+| 199 | 5 | Lil T |
+| 200 | 5 | Elaine Youmans |
 
 ---
 *Standings created by tournaments datasource generation tool*
