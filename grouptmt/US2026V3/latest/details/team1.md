@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 21:42:13 UTC
+# Standings for team1 as of 2026-06-05 21:42:37 UTC
 
 **Total Participants:** 523
 
@@ -21,25 +21,25 @@
 | 13 | 582 | Jacoby E Fleming |
 | 14 | 580 | Janet Cooke |
 | 15 | 572 | Ashley Espeut |
-| 16 | 540 | Kellie Hall |
-| 17 | 530 | Brian Stackhouse |
-| 18 | 521 | Epic Snapfall |
+| 16 | 541 | Epic Snapfall |
+| 17 | 540 | Kellie Hall |
+| 18 | 530 | Brian Stackhouse |
 | 19 | 485 | Whitney Butler |
 | 20 | 482 | Cj Gorman |
-| 21 | 438 | Ryan Meilleur |
-| 22 | 411 | Ivana Schmidt |
-| 23 | 360 | She Higgy |
-| 24 | 351 | AF Cruz |
-| 25 | 348 | Brian Bohanon II |
-| 26 | 336 | Hunter Rayborn |
-| 27 | 326 | Sarah Marie |
-| 28 | 325 | JoJo |
-| 29 | 319 | Shell Lewis |
-| 30 | 280 | IamJust Neyamijah Washington Sr. |
-| 31 | 280 | Bre Maugh |
-| 32 | 260 | Carolynne Walker-Bell |
-| 33 | 260 | John Staub |
-| 34 | 250 | Jennifer To |
+| 21 | 450 | Jennifer To |
+| 22 | 438 | Ryan Meilleur |
+| 23 | 411 | Ivana Schmidt |
+| 24 | 360 | She Higgy |
+| 25 | 351 | AF Cruz |
+| 26 | 348 | Brian Bohanon II |
+| 27 | 336 | Hunter Rayborn |
+| 28 | 326 | Sarah Marie |
+| 29 | 325 | JoJo |
+| 30 | 319 | Shell Lewis |
+| 31 | 280 | IamJust Neyamijah Washington Sr. |
+| 32 | 280 | Bre Maugh |
+| 33 | 260 | Carolynne Walker-Bell |
+| 34 | 260 | John Staub |
 | 35 | 249 | Ashley MyBeauty Daniels |
 | 36 | 248 | Debbie Carswell |
 | 37 | 244 | Tammye Turner |
@@ -469,66 +469,66 @@
 | 461 | 9 | Sherry D Singleton |
 | 462 | 8 | Rixo Blax |
 | 463 | 8 | Ferocity |
-| 464 | 8 | jus_ry |
-| 465 | 8 | Tanesha Ga'sFinest Corbett |
+| 464 | 8 | Teresa Bean |
+| 465 | 8 | jus_ry |
 | 466 | 8 | Cm |
 | 467 | 8 | Mahagony Small |
-| 468 | 8 | Shawna Passwater |
-| 469 | 8 | Brika Brika |
-| 470 | 8 | Ashley Davis |
-| 471 | 8 | Brenda Brogden |
-| 472 | 8 | Caitlin Michele |
-| 473 | 8 | Terrie |
-| 474 | 8 | Teresa Bean |
-| 475 | 8 | Nerdy Twistline |
-| 476 | 7 | Mary2 |
-| 477 | 7 | whatever |
-| 478 | 7 | wmedina67 |
-| 479 | 7 | Shane Brucewayne |
-| 480 | 7 | Kelvin Cook |
-| 481 | 7 | Analesia Taylor |
+| 468 | 8 | Brenda Brogden |
+| 469 | 8 | Caitlin Michele |
+| 470 | 8 | Nerdy Twistline |
+| 471 | 8 | Terrie |
+| 472 | 8 | Brika Brika |
+| 473 | 8 | Tanesha Ga'sFinest Corbett |
+| 474 | 8 | Shawna Passwater |
+| 475 | 8 | Ashley Davis |
+| 476 | 7 | Analesia Taylor |
+| 477 | 7 | Shane Brucewayne |
+| 478 | 7 | Andrew Harris |
+| 479 | 7 | wmedina67 |
+| 480 | 7 | whatever |
+| 481 | 7 | Mary2 |
 | 482 | 7 | Kendra McIntyre |
-| 483 | 7 | Andrew Harris |
-| 484 | 6 | Daring Riserfit |
-| 485 | 6 | Cece Fowler |
-| 486 | 6 | Jeffrey Barrows |
-| 487 | 6 | Boricua64 |
-| 488 | 6 | Jelyfish |
+| 483 | 7 | Kelvin Cook |
+| 484 | 6 | Jelyfish |
+| 485 | 6 | Jeffrey Barrows |
+| 486 | 6 | Cece Fowler |
+| 487 | 6 | Daring Riserfit |
+| 488 | 6 | Boricua64 |
 | 489 | 6 | Gael Quintana |
-| 490 | 6 | Wacky Towerer |
-| 491 | 6 | Betsy B. Yohan |
-| 492 | 6 | NEM0228 |
-| 493 | 6 | Frances Davis |
+| 490 | 6 | Betsy B. Yohan |
+| 491 | 6 | NEM0228 |
+| 492 | 6 | Frances Davis |
+| 493 | 6 | Wacky Towerer |
 | 494 | 6 | Brittnay Wright |
 | 495 | 6 | Allison Baxter |
 | 496 | 6 | Christopher Wallace |
 | 497 | 6 | Wu May |
 | 498 | 6 | Janine Hunter |
-| 499 | 5 | Andre Sanon |
-| 500 | 5 | Rieshelda Marie White |
-| 501 | 5 | Saucy Linkgrid |
-| 502 | 5 | KeeKee Williams |
-| 503 | 5 | Temeshia Brooks Washington |
+| 499 | 5 | Rieshelda Marie White |
+| 500 | 5 | Saucy Linkgrid |
+| 501 | 5 | KeeKee Williams |
+| 502 | 5 | Temeshia Brooks Washington |
+| 503 | 5 | Vernon Hoyt |
 | 504 | 5 | Stephanie Zuniga Tullock |
-| 505 | 5 | Vernon Hoyt |
-| 506 | 5 | pooh |
-| 507 | 5 | Jasmine Hariston-Estis |
-| 508 | 5 | Derek Beverly |
-| 509 | 5 | DirtiestofMikes |
-| 510 | 5 | Lil T |
-| 511 | 5 | Kidgib5 |
-| 512 | 5 | Jennifer Moore |
-| 513 | 5 | Chill Linkroll |
-| 514 | 5 | the guy |
-| 515 | 5 | Shakuria Cortia Burney |
+| 505 | 5 | pooh |
+| 506 | 5 | Jasmine Hariston-Estis |
+| 507 | 5 | Derek Beverly |
+| 508 | 5 | DirtiestofMikes |
+| 509 | 5 | Lil T |
+| 510 | 5 | Kidgib5 |
+| 511 | 5 | Jennifer Moore |
+| 512 | 5 | Chill Linkroll |
+| 513 | 5 | the guy |
+| 514 | 5 | Shakuria Cortia Burney |
+| 515 | 5 | Mommy Frank |
 | 516 | 5 | Tito Divyn |
 | 517 | 5 | Shawn Himes |
 | 518 | 5 | Tamika Fisher |
 | 519 | 5 | Zappy Clearfit |
 | 520 | 5 | Logan Frost |
-| 521 | 5 | Jjhandsome |
+| 521 | 5 | Andre Sanon |
 | 522 | 5 | Barbramerri Tarboro |
-| 523 | 5 | Mommy Frank |
+| 523 | 5 | Jjhandsome |
 
 ---
 *Standings created by tournaments datasource generation tool*
