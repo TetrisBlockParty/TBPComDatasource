@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:45:14 UTC
+# Standings for team1 as of 2026-06-05 17:46:13 UTC
 
 **Total Participants:** 351
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 12000 | Ariel |
-| 2 | 2605 | Timothy Robert |
+| 2 | 2705 | Timothy Robert |
 | 3 | 1334 | Tracy Cohen |
 | 4 | 1050 | jaimie |
 | 5 | 950 | Chandler Spencer |
@@ -53,10 +53,10 @@
 | 45 | 140 | Ann Chung |
 | 46 | 137 | BlackQueen105 |
 | 47 | 135 | Jawaun Daniels |
-| 48 | 129 | Blockhead |
-| 49 | 126 | Cee Emm |
-| 50 | 125 | Teddy Davis |
-| 51 | 120 | Nerdy Snapfall |
+| 48 | 130 | Nerdy Snapfall |
+| 49 | 129 | Blockhead |
+| 50 | 126 | Cee Emm |
+| 51 | 125 | Teddy Davis |
 | 52 | 111 | Shalena Marie Humphrey |
 | 53 | 108 | Hasty Pivoty |
 | 54 | 103 | KenpachisGirl |
@@ -134,15 +134,15 @@
 | 126 | 40 | Jean Regis |
 | 127 | 40 | Leavon Smith |
 | 128 | 40 | Nisha Sunshine Jenkins |
-| 129 | 39 | Jae Thompson-Tyus |
-| 130 | 39 | Sabrina Wilkerson |
-| 131 | 39 | JesusSaves 😇 |
-| 132 | 38 | Kahliah Baker |
-| 133 | 38 | rls |
-| 134 | 37 | Calvin Green |
-| 135 | 37 | Steve Reno |
-| 136 | 37 | Cranky Fall |
-| 137 | 37 | Byron Mario Cawthon |
+| 129 | 39 | Byron Mario Cawthon |
+| 130 | 39 | Jae Thompson-Tyus |
+| 131 | 39 | Sabrina Wilkerson |
+| 132 | 39 | JesusSaves 😇 |
+| 133 | 38 | Kahliah Baker |
+| 134 | 38 | rls |
+| 135 | 37 | Calvin Green |
+| 136 | 37 | Steve Reno |
+| 137 | 37 | Cranky Fall |
 | 138 | 37 | Jojo M |
 | 139 | 37 | Lootch |
 | 140 | 36 | Dandy Brickfit |
@@ -345,10 +345,10 @@
 | 337 | 5 | Andre Sanon |
 | 338 | 5 | Temeshia Brooks Washington |
 | 339 | 5 | Stephanie Zuniga Tullock |
-| 340 | 5 | Jjhandsome |
+| 340 | 5 | Barbramerri Tarboro |
 | 341 | 5 | Vernon Hoyt |
-| 342 | 5 | pooh |
-| 343 | 5 | Barbramerri Tarboro |
+| 342 | 5 | Jjhandsome |
+| 343 | 5 | pooh |
 | 344 | 5 | Jennifer Moore |
 | 345 | 5 | Kidgib5 |
 | 346 | 5 | Zappy Clearfit |
