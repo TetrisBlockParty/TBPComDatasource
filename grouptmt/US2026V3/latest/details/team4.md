@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 14:42:12 UTC
+# Standings for team4 as of 2026-06-05 14:42:35 UTC
 
 **Total Participants:** 167
 
@@ -33,40 +33,40 @@
 | 25 | 107 | Shayna Vaigneur-Hall |
 | 26 | 100 | Cal Renee |
 | 27 | 94 | Brandy Lynn |
-| 28 | 90 | woopa 716 |
-| 29 | 89 | Kimyatta Cavin |
-| 30 | 87 | Limbo |
-| 31 | 79 | Luna |
-| 32 | 78 | Tina Thomas |
-| 33 | 78 | Tawna Curry |
-| 34 | 77 | Lush Fitblock |
-| 35 | 75 | June Hoffman |
-| 36 | 74 | Andrew Dang |
-| 37 | 71 | Chris Covington |
-| 38 | 71 | Justin Michael |
-| 39 | 70 | Janae Harris |
-| 40 | 68 | Keys Tome |
-| 41 | 65 | ktothet |
-| 42 | 64 | Stef |
-| 43 | 61 | vag1974 |
-| 44 | 60 | Magz |
-| 45 | 60 | Fran Aaron-Ring |
+| 28 | 91 | vag1974 |
+| 29 | 90 | woopa 716 |
+| 30 | 89 | Kimyatta Cavin |
+| 31 | 87 | Limbo |
+| 32 | 79 | Luna |
+| 33 | 78 | Tina Thomas |
+| 34 | 78 | Tawna Curry |
+| 35 | 77 | Lush Fitblock |
+| 36 | 75 | June Hoffman |
+| 37 | 74 | Andrew Dang |
+| 38 | 71 | Chris Covington |
+| 39 | 71 | Justin Michael |
+| 40 | 70 | Janae Harris |
+| 41 | 68 | Keys Tome |
+| 42 | 65 | ktothet |
+| 43 | 64 | Stef |
+| 44 | 60 | Fran Aaron-Ring |
+| 45 | 60 | Magz |
 | 46 | 60 | Blockcrusher |
 | 47 | 58 | Jenn Fitzgerald |
 | 48 | 56 | Henry Lanier |
-| 49 | 52 | Chirpy Link |
-| 50 | 51 | blockhead |
-| 51 | 49 | Маркус Вік |
-| 52 | 44 | Futrell Brent |
+| 49 | 54 | blockhead |
+| 50 | 52 | Chirpy Link |
+| 51 | 49 | Futrell Brent |
+| 52 | 49 | Маркус Вік |
 | 53 | 42 | Shiny Brick |
-| 54 | 40 | Tyra Brooke Everman Forest |
-| 55 | 40 | SweetChaos |
-| 56 | 39 | Playa |
-| 57 | 39 | Anthony Kollar |
+| 54 | 40 | SweetChaos |
+| 55 | 40 | Tyra Brooke Everman Forest |
+| 56 | 39 | Anthony Kollar |
+| 57 | 39 | Playa |
 | 58 | 38 | Charity Thomas |
 | 59 | 38 | Jonathan Hewitt |
-| 60 | 37 | Cail |
-| 61 | 37 | Dana Fontanez |
+| 60 | 37 | Dana Fontanez |
+| 61 | 37 | Cail |
 | 62 | 36 | Mrs |
 | 63 | 36 | Laurie Patrick |
 | 64 | 35 | Tactical_B |
@@ -74,47 +74,47 @@
 | 66 | 34 | jojo |
 | 67 | 33 | Lul Babie |
 | 68 | 31 | Jasmine Marie |
-| 69 | 30 | Nicole Colby McCloskey |
-| 70 | 30 | smarty |
-| 71 | 30 | Sarah Berry Stevens |
-| 72 | 30 | Will E Ayala |
+| 69 | 30 | smarty |
+| 70 | 30 | Nicole Colby McCloskey |
+| 71 | 30 | Will E Ayala |
+| 72 | 30 | Sarah Berry Stevens |
 | 73 | 29 | Joseph Hunter |
-| 74 | 28 | Sandra O'Reilly |
-| 75 | 28 | Melissa Schwager |
+| 74 | 28 | Melissa Schwager |
+| 75 | 28 | Sandra O'Reilly |
 | 76 | 27 | Adam J Leong |
 | 77 | 27 | Rosy Perez |
-| 78 | 26 | Taz |
-| 79 | 26 | Lisa Ferriero-Daudin |
+| 78 | 26 | Lisa Ferriero-Daudin |
+| 79 | 26 | Taz |
 | 80 | 25 | Andrea Dre Lomeli |
-| 81 | 23 | Cindy |
-| 82 | 23 | Stasia |
-| 83 | 23 | Zippy Snaplink |
-| 84 | 23 | Melissa Quinn |
-| 85 | 22 | Saul Fajardo |
+| 81 | 24 | Becky McCool |
+| 82 | 23 | Zippy Snaplink |
+| 83 | 23 | Cindy |
+| 84 | 23 | Stasia |
+| 85 | 23 | Melissa Quinn |
 | 86 | 22 | Karen Rodriguez |
-| 87 | 21 | Keesha Muro |
-| 88 | 21 | SandyEva |
+| 87 | 22 | Saul Fajardo |
+| 88 | 21 | Keesha Muro |
 | 89 | 21 | Socorro Arredondo |
-| 90 | 20 | Erica Pompey |
-| 91 | 20 | Silly Risegrid |
-| 92 | 20 | Jerett Coplin |
-| 93 | 20 | Nova Kain |
-| 94 | 20 | Mexican130 |
-| 95 | 20 | Betsy Froemming |
-| 96 | 20 | Maurice DeJean |
-| 97 | 19 | Swanky Matchfit |
-| 98 | 19 | Becky McCool |
+| 90 | 21 | SandyEva |
+| 91 | 20 | Maurice DeJean |
+| 92 | 20 | Erica Pompey |
+| 93 | 20 | Silly Risegrid |
+| 94 | 20 | Jerett Coplin |
+| 95 | 20 | Nova Kain |
+| 96 | 20 | Mexican130 |
+| 97 | 20 | Betsy Froemming |
+| 98 | 19 | Swanky Matchfit |
 | 99 | 19 | Solace Grace |
 | 100 | 18 | Nancy McCalla Abercrombie |
 | 101 | 18 | Iforget |
-| 102 | 17 | Samara Garcia |
-| 103 | 17 | Breezy Blockzone |
-| 104 | 16 | Queen B |
+| 102 | 17 | Breezy Blockzone |
+| 103 | 17 | Samara Garcia |
+| 104 | 16 | George Palacios |
 | 105 | 16 | Ross Bryant |
-| 106 | 16 | George Palacios |
-| 107 | 15 | BusterBear56 |
+| 106 | 16 | Queen B |
+| 107 | 15 | Perry Ransom |
 | 108 | 15 | Jonelle Jacobs |
-| 109 | 15 | Perry Ransom |
+| 109 | 15 | BusterBear56 |
 | 110 | 15 | Jason Garnatz |
 | 111 | 15 | Joshua Garner |
 | 112 | 15 | Hasty Dropzone |
