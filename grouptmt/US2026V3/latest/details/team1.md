@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 23:47:16 UTC
+# Standings for team1 as of 2026-06-05 23:48:15 UTC
 
 **Total Participants:** 604
 
@@ -14,17 +14,17 @@
 | 6 | 2458 | Cozy Edge |
 | 7 | 1213 | Sha Harris |
 | 8 | 1050 | jaimie |
-| 9 | 950 | Chandler Spencer |
-| 10 | 924 | Carrie English |
-| 11 | 905 | Juan Kandiss Escobedo Irwin |
-| 12 | 874 | Jolly Dropzone |
-| 13 | 843 | Jacoby E Fleming |
-| 14 | 839 | Chris Russell |
-| 15 | 783 | Epic Snapfall |
-| 16 | 749 | Aviv Zehavi |
-| 17 | 674 | Holly Jolly |
-| 18 | 634 | Charnay Peacock |
-| 19 | 613 | Brian Stackhouse |
+| 9 | 989 | Brian Stackhouse |
+| 10 | 950 | Chandler Spencer |
+| 11 | 924 | Carrie English |
+| 12 | 905 | Juan Kandiss Escobedo Irwin |
+| 13 | 874 | Jolly Dropzone |
+| 14 | 843 | Jacoby E Fleming |
+| 15 | 839 | Chris Russell |
+| 16 | 783 | Epic Snapfall |
+| 17 | 749 | Aviv Zehavi |
+| 18 | 674 | Holly Jolly |
+| 19 | 634 | Charnay Peacock |
 | 20 | 580 | Janet Cooke |
 | 21 | 576 | Ashley Espeut |
 | 22 | 540 | Kellie Hall |
@@ -40,13 +40,13 @@
 | 32 | 360 | She Higgy |
 | 33 | 357 | Sarah Marie |
 | 34 | 348 | Brian Bohanon II |
-| 35 | 319 | Shell Lewis |
-| 36 | 280 | IamJust Neyamijah Washington Sr. |
-| 37 | 280 | Bre Maugh |
-| 38 | 262 | Pdubbl3 |
-| 39 | 260 | Corey Cawthon |
-| 40 | 260 | John Staub |
-| 41 | 260 | Carolynne Walker-Bell |
+| 35 | 320 | Corey Cawthon |
+| 36 | 319 | Shell Lewis |
+| 37 | 280 | IamJust Neyamijah Washington Sr. |
+| 38 | 280 | Bre Maugh |
+| 39 | 262 | Pdubbl3 |
+| 40 | 260 | Carolynne Walker-Bell |
+| 41 | 260 | John Staub |
 | 42 | 253 | Tammye Turner |
 | 43 | 249 | Ashley MyBeauty Daniels |
 | 44 | 248 | Debbie Carswell |
@@ -75,12 +75,12 @@
 | 67 | 158 | W.A. Simpson |
 | 68 | 156 | Jessica Russell |
 | 69 | 151 | Dacia Hicks |
-| 70 | 147 | MACHETEEDDIE513 |
-| 71 | 147 | Jason Mungin |
+| 70 | 147 | Jason Mungin |
+| 71 | 147 | MACHETEEDDIE513 |
 | 72 | 141 | Helen Smith |
-| 73 | 140 | Ann Chung |
-| 74 | 140 | Felicia Cain |
-| 75 | 140 | Sara Meri |
+| 73 | 140 | Sara Meri |
+| 74 | 140 | Ann Chung |
+| 75 | 140 | Felicia Cain |
 | 76 | 139 | Chenell Gillard |
 | 77 | 137 | BlackQueen105 |
 | 78 | 136 | Anthony Washington |
@@ -221,12 +221,12 @@
 | 213 | 45 | Guy Incognito |
 | 214 | 44 | Tamara Johnson-Carter |
 | 215 | 44 | Andi McGreevy |
-| 216 | 44 | Kimberly Linares Hernandez |
-| 217 | 43 | Block |
-| 218 | 43 | Rachel Renae Bettis |
-| 219 | 43 | Brittany Fells |
-| 220 | 43 | IThinkNot |
-| 221 | 43 | Jumpy Gridlock |
+| 216 | 44 | Jumpy Gridlock |
+| 217 | 44 | Kimberly Linares Hernandez |
+| 218 | 43 | Block |
+| 219 | 43 | Rachel Renae Bettis |
+| 220 | 43 | Brittany Fells |
+| 221 | 43 | IThinkNot |
 | 222 | 43 | Brenda Malachi-butler |
 | 223 | 42 | sasha |
 | 224 | 42 | Dandy Brickfit |
@@ -590,16 +590,16 @@
 | 582 | 5 | Temeshia Brooks Washington |
 | 583 | 5 | KeeKee Williams |
 | 584 | 5 | Andre Sanon |
-| 585 | 5 | pooh |
-| 586 | 5 | Jasmine Hariston-Estis |
-| 587 | 5 | Derek Beverly |
-| 588 | 5 | Lil T |
-| 589 | 5 | Hasty Brickzone |
-| 590 | 5 | Sara |
-| 591 | 5 | DirtiestofMikes |
-| 592 | 5 | Chill Linkroll |
-| 593 | 5 | Kidgib5 |
-| 594 | 5 | Jennifer Moore |
+| 585 | 5 | Jasmine Hariston-Estis |
+| 586 | 5 | Derek Beverly |
+| 587 | 5 | Lil T |
+| 588 | 5 | Hasty Brickzone |
+| 589 | 5 | Sara |
+| 590 | 5 | DirtiestofMikes |
+| 591 | 5 | Chill Linkroll |
+| 592 | 5 | Kidgib5 |
+| 593 | 5 | Jennifer Moore |
+| 594 | 5 | the guy |
 | 595 | 5 | Shakuria Cortia Burney |
 | 596 | 5 | Mommy Frank |
 | 597 | 5 | Tito Divyn |
@@ -609,7 +609,7 @@
 | 601 | 5 | Duckey |
 | 602 | 5 | Sheila Burnham |
 | 603 | 5 | Logan Frost |
-| 604 | 5 | the guy |
+| 604 | 5 | pooh |
 
 ---
 *Standings created by tournaments datasource generation tool*
