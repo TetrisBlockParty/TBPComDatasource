@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 18:36:15 UTC
+# Standings for team4 as of 2026-06-05 18:36:35 UTC
 
 **Total Participants:** 365
 
@@ -105,12 +105,12 @@
 | 97 | 60 | Magz |
 | 98 | 60 | George Marshburn |
 | 99 | 60 | Chilly Pivot |
-| 100 | 60 | blockhead |
-| 101 | 60 | Fran Aaron-Ring |
-| 102 | 60 | Blockcrusher |
-| 103 | 59 | Paula Renee McCracken |
-| 104 | 59 | Futrell Brent |
-| 105 | 58 | Lisa Garcia |
+| 100 | 60 | Lisa Garcia |
+| 101 | 60 | blockhead |
+| 102 | 60 | Fran Aaron-Ring |
+| 103 | 60 | Blockcrusher |
+| 104 | 59 | Paula Renee McCracken |
+| 105 | 59 | Futrell Brent |
 | 106 | 58 | Jenn Fitzgerald |
 | 107 | 57 | Giggly Tilt |
 | 108 | 54 | Kay |

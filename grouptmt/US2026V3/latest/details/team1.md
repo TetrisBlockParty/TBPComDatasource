@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 18:36:15 UTC
+# Standings for team1 as of 2026-06-05 18:36:35 UTC
 
 **Total Participants:** 392
 
@@ -206,107 +206,107 @@
 | 198 | 27 | Mighty Dropper |
 | 199 | 27 | Brave Balanceblock |
 | 200 | 26 | SnazzySnippet |
-| 201 | 26 | Xrandomx |
-| 202 | 26 | Nona Harriel |
-| 203 | 26 | messyboots |
-| 204 | 25 | Kimmie Gargano |
-| 205 | 25 | Kyle Conley |
-| 206 | 25 | Lynnette WheelerBushnell |
-| 207 | 25 | Tony P Burke |
-| 208 | 25 | Jackytrain52 |
-| 209 | 24 | Taneka Howell |
-| 210 | 24 | Joana Thompson |
-| 211 | 24 | AshMo |
-| 212 | 24 | Brittany Fells |
-| 213 | 24 | Nobles Brandon |
-| 214 | 24 | TBABYJ |
-| 215 | 24 | Mrs |
-| 216 | 23 | Adrian Harris |
-| 217 | 23 | Nerdy Climber |
+| 201 | 26 | Jackytrain52 |
+| 202 | 26 | Xrandomx |
+| 203 | 26 | Nona Harriel |
+| 204 | 26 | messyboots |
+| 205 | 25 | Kimmie Gargano |
+| 206 | 25 | Kyle Conley |
+| 207 | 25 | Lynnette WheelerBushnell |
+| 208 | 25 | Tony P Burke |
+| 209 | 24 | TBABYJ |
+| 210 | 24 | Mrs |
+| 211 | 24 | Brittany Fells |
+| 212 | 24 | Nobles Brandon |
+| 213 | 24 | Taneka Howell |
+| 214 | 24 | Joana Thompson |
+| 215 | 24 | AshMo |
+| 216 | 23 | Tabitha Dupre-Allen |
+| 217 | 23 | Giggy Tower |
 | 218 | 23 | Penee Wiggins |
-| 219 | 23 | Kimberly Hernandez |
-| 220 | 23 | Giggy Tower |
-| 221 | 23 | Poppy Twister |
-| 222 | 23 | Khatyrah Burnette |
+| 219 | 23 | Tamara N Lee |
+| 220 | 23 | Khatyrah Burnette |
+| 221 | 23 | Adrian Harris |
+| 222 | 23 | Nerdy Climber |
 | 223 | 23 | Jamie Lea Popp |
-| 224 | 23 | Tamara N Lee |
-| 225 | 23 | Tabitha Dupre-Allen |
-| 226 | 22 | Kimberly Anderson |
-| 227 | 22 | Ad Doctor |
+| 224 | 23 | Kimberly Hernandez |
+| 225 | 23 | Poppy Twister |
+| 226 | 22 | Heather Wilson |
+| 227 | 22 | Kimberly Anderson |
 | 228 | 22 | Tanisha Taylor |
-| 229 | 22 | Heather Wilson |
-| 230 | 21 | Sylvia Offically A Mcgowan |
+| 229 | 22 | Ad Doctor |
+| 230 | 21 | kingbrook |
 | 231 | 21 | Comedian Prince Paul |
-| 232 | 21 | Shanjerrica Taylor Rosell |
-| 233 | 21 | Li-Li Ratliff |
-| 234 | 21 | kingbrook |
-| 235 | 21 | Jason Saputo |
-| 236 | 21 | Shanaa Germany Crittenden |
-| 237 | 20 | Dorian Griffin |
-| 238 | 20 | Gabriela Hernandez |
-| 239 | 20 | Kenneth Hefney |
-| 240 | 20 | Sha Harris |
-| 241 | 20 | Ace Hardware |
-| 242 | 20 | Nyhlah Patterson |
-| 243 | 20 | Devin West |
-| 244 | 20 | Trina Greenwood |
-| 245 | 20 | Tremaine Hiler |
-| 246 | 20 | Jai |
-| 247 | 20 | Larina Cherie Johnson |
-| 248 | 20 | Cynthia Bradley |
-| 249 | 20 | Dirty Deeds |
-| 250 | 20 | Chevalier Burley |
+| 232 | 21 | Jason Saputo |
+| 233 | 21 | Sylvia Offically A Mcgowan |
+| 234 | 21 | Shanaa Germany Crittenden |
+| 235 | 21 | Li-Li Ratliff |
+| 236 | 21 | Shanjerrica Taylor Rosell |
+| 237 | 20 | Jai |
+| 238 | 20 | Dorian Griffin |
+| 239 | 20 | Ace Hardware |
+| 240 | 20 | Gabriela Hernandez |
+| 241 | 20 | Kenneth Hefney |
+| 242 | 20 | Devin West |
+| 243 | 20 | Sha Harris |
+| 244 | 20 | Dirty Deeds |
+| 245 | 20 | Chevalier Burley |
+| 246 | 20 | Cynthia Bradley |
+| 247 | 20 | Tremaine Hiler |
+| 248 | 20 | Larina Cherie Johnson |
+| 249 | 20 | Trina Greenwood |
+| 250 | 20 | Nyhlah Patterson |
 | 251 | 19 | Saucy Tile |
-| 252 | 19 | LAhoneybun82 |
-| 253 | 19 | Jenni |
-| 254 | 19 | Michele Simpson |
-| 255 | 19 | Amanda Woodruff |
-| 256 | 19 | Lozuna |
-| 257 | 18 | AleahKCH |
-| 258 | 18 | Tyree Tman Shinette |
-| 259 | 18 | Ounquan Wright |
-| 260 | 18 | Jessie N Michael Silvers |
-| 261 | 18 | Danny M GR |
-| 262 | 18 | Sunny Clicky |
-| 263 | 18 | Una |
+| 252 | 19 | Lozuna |
+| 253 | 19 | Michele Simpson |
+| 254 | 19 | LAhoneybun82 |
+| 255 | 19 | Jenni |
+| 256 | 19 | Amanda Woodruff |
+| 257 | 18 | Tyree Tman Shinette |
+| 258 | 18 | Ounquan Wright |
+| 259 | 18 | Jessie N Michael Silvers |
+| 260 | 18 | Una |
+| 261 | 18 | Sunny Clicky |
+| 262 | 18 | AleahKCH |
+| 263 | 18 | Danny M GR |
 | 264 | 17 | Rikki Moran |
 | 265 | 17 | Elizabeth Vega Coreano |
 | 266 | 17 | NastyFriend |
-| 267 | 16 | Desiree Ryder |
-| 268 | 16 | Sammie Walker |
-| 269 | 16 | Jumpy Gridlock |
-| 270 | 16 | Sunny Tumbler |
-| 271 | 16 | Jason Mungin |
-| 272 | 16 | Symonne 'Monnie' Pierce |
-| 273 | 16 | Tanisha Robinson |
-| 274 | 16 | MsBobby Patrick |
-| 275 | 15 | Eugina Slater |
+| 267 | 16 | Sunny Tumbler |
+| 268 | 16 | Jumpy Gridlock |
+| 269 | 16 | MsBobby Patrick |
+| 270 | 16 | Desiree Ryder |
+| 271 | 16 | Tanisha Robinson |
+| 272 | 16 | Sammie Walker |
+| 273 | 16 | Symonne 'Monnie' Pierce |
+| 274 | 16 | Jason Mungin |
+| 275 | 15 | Tami Spence |
 | 276 | 15 | Amy Lynn Leifheit |
-| 277 | 15 | Tami Spence |
-| 278 | 15 | Delitra Perkins Hatter |
-| 279 | 15 | Lit757 |
-| 280 | 15 | Rayshawn Cohen |
-| 281 | 15 | Hasty Match |
-| 282 | 15 | Clever Fitblock |
-| 283 | 15 | Jess |
-| 284 | 15 | Ta'Kaiyah M. Spann |
-| 285 | 15 | Elaine Youmans |
-| 286 | 14 | Zachary Colegrove |
+| 277 | 15 | Lit757 |
+| 278 | 15 | Jess |
+| 279 | 15 | Delitra Perkins Hatter |
+| 280 | 15 | Clever Fitblock |
+| 281 | 15 | Rayshawn Cohen |
+| 282 | 15 | Eugina Slater |
+| 283 | 15 | Hasty Match |
+| 284 | 15 | Elaine Youmans |
+| 285 | 15 | Ta'Kaiyah M. Spann |
+| 286 | 14 | Alyssa Rae |
 | 287 | 14 | Vivian Bunnell Myers |
-| 288 | 14 | Alyssa Rae |
-| 289 | 14 | No_Other_Choice |
-| 290 | 14 | Stephen Providenti |
-| 291 | 14 | Jerrone Epps |
-| 292 | 13 | Dawn Basemore |
-| 293 | 13 | Emma Adams |
-| 294 | 13 | John Spath |
-| 295 | 13 | Oaklonboy mike |
-| 296 | 13 | Bold Clusterer |
-| 297 | 13 | Abby |
-| 298 | 13 | Frothy Zoney |
-| 299 | 12 | Andra Ward |
-| 300 | 12 | Outspoken Sirchristopher |
-| 301 | 12 | Abigail Newman Sweet |
+| 288 | 14 | Jerrone Epps |
+| 289 | 14 | Zachary Colegrove |
+| 290 | 14 | No_Other_Choice |
+| 291 | 14 | Stephen Providenti |
+| 292 | 13 | John Spath |
+| 293 | 13 | Frothy Zoney |
+| 294 | 13 | Oaklonboy mike |
+| 295 | 13 | Emma Adams |
+| 296 | 13 | Dawn Basemore |
+| 297 | 13 | Bold Clusterer |
+| 298 | 13 | Abby |
+| 299 | 12 | Abigail Newman Sweet |
+| 300 | 12 | Andra Ward |
+| 301 | 12 | Outspoken Sirchristopher |
 | 302 | 12 | Yadira Salgado |
 | 303 | 12 | Shauntai Holiday |
 | 304 | 12 | Soubletzy |
