@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 12:25:12 UTC
+# Standings for team4 as of 2026-06-05 12:26:12 UTC
 
 **Total Participants:** 30
 
@@ -17,13 +17,13 @@
 | 9 | 40 | Keys Tome |
 | 10 | 38 | Charity Thomas |
 | 11 | 34 | jojo |
-| 12 | 28 | Melissa Schwager |
-| 13 | 26 | Dana Fontanez |
-| 14 | 25 | Janae Harris |
-| 15 | 25 | Shiny Brick |
-| 16 | 25 | Маркус Вік |
-| 17 | 16 | Keesha Muro |
-| 18 | 15 | Kim |
+| 12 | 30 | Janae Harris |
+| 13 | 28 | Melissa Schwager |
+| 14 | 26 | Dana Fontanez |
+| 15 | 25 | Маркус Вік |
+| 16 | 25 | Shiny Brick |
+| 17 | 18 | Kim |
+| 18 | 16 | Keesha Muro |
 | 19 | 15 | Perry Ransom |
 | 20 | 14 | Jonathan Hewitt |
 | 21 | 13 | Nancy McCalla Abercrombie |
@@ -31,8 +31,8 @@
 | 23 | 11 | Cherry |
 | 24 | 10 | Hasty Dropzone |
 | 25 | 10 | Buchanon Bossingup Jadrienne |
-| 26 | 9 | Jasmine Marie |
-| 27 | 9 | Hotstuff |
+| 26 | 9 | Hotstuff |
+| 27 | 9 | Jasmine Marie |
 | 28 | 9 | Blockcrusher |
 | 29 | 5 | Jason Garnatz |
 | 30 | 5 | Cflixer |

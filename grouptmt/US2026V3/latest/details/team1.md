@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 12:25:12 UTC
+# Standings for team1 as of 2026-06-05 12:26:12 UTC
 
-**Total Participants:** 29
+**Total Participants:** 33
 
 ## Participant Scores
 
@@ -15,9 +15,9 @@
 | 7 | 77 | Chris Russell |
 | 8 | 62 | Amber Wilson |
 | 9 | 60 | Asani CHumba |
-| 10 | 40 | Leavon Smith |
-| 11 | 30 | Lester Malone |
-| 12 | 30 | Slinky Party |
+| 10 | 50 | Slinky Party |
+| 11 | 40 | Leavon Smith |
+| 12 | 30 | Lester Malone |
 | 13 | 23 | Saucy Crusher |
 | 14 | 22 | Tanisha Taylor |
 | 15 | 20 | Robyn Caldwell |
@@ -25,16 +25,20 @@
 | 17 | 17 | Jai |
 | 18 | 16 | Mafio SO |
 | 19 | 15 | Tami Spence |
-| 20 | 12 | Angela R Wilson |
-| 21 | 12 | Kimmie Gargano |
+| 20 | 12 | Kimmie Gargano |
+| 21 | 12 | Angela R Wilson |
 | 22 | 11 | Desiree Ryder |
-| 23 | 10 | Shontanese Adams |
-| 24 | 10 | Tishauna Virgo |
-| 25 | 10 | Sarah Marie |
-| 26 | 8 | Zany Breaker |
-| 27 | 7 | Mary2 |
-| 28 | 7 | Tina Criam |
-| 29 | 7 | Kendra McIntyre |
+| 23 | 10 | Tyrone Porter |
+| 24 | 10 | Sarah Marie |
+| 25 | 10 | Tishauna Virgo |
+| 26 | 10 | Shontanese Adams |
+| 27 | 9 | Tina Criam |
+| 28 | 9 | ♈️ Ariesbaby |
+| 29 | 8 | Zany Breaker |
+| 30 | 8 | John Staub |
+| 31 | 7 | Mary2 |
+| 32 | 7 | Kendra McIntyre |
+| 33 | 6 | Brave Balanceblock |
 
 ---
 *Standings created by tournaments datasource generation tool*
