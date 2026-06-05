@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 22:52:36 UTC
+# Standings for team1 as of 2026-06-05 22:53:14 UTC
 
 **Total Participants:** 574
 
@@ -513,73 +513,73 @@
 | 505 | 9 | Shakmar |
 | 506 | 8 | Rixo Blax |
 | 507 | 8 | Ferocity |
-| 508 | 8 | Shawna Passwater |
-| 509 | 8 | Ashley Davis |
-| 510 | 8 | Tanesha Ga'sFinest Corbett |
-| 511 | 8 | Cm |
-| 512 | 8 | Mahagony Small |
-| 513 | 8 | Caitlin Michele |
-| 514 | 8 | C Lo Green |
-| 515 | 8 | Joseph Vs Cap |
-| 516 | 8 | Nerdy Twistline |
-| 517 | 8 | Brenda Brogden |
-| 518 | 8 | jus_ry |
-| 519 | 8 | Teresa Bean |
-| 520 | 8 | Chevonne Huggins |
-| 521 | 8 | Sarah Barnum |
-| 522 | 7 | Analesia Taylor |
-| 523 | 7 | Andrew Harris |
-| 524 | 7 | Shane Brucewayne |
-| 525 | 7 | Lakiesha Crawford |
-| 526 | 7 | whatever |
-| 527 | 7 | Mary2 |
-| 528 | 7 | Jayson |
-| 529 | 7 | wmedina67 |
-| 530 | 7 | Kendra McIntyre |
-| 531 | 6 | Happy Blocky |
-| 532 | 6 | Janine Hunter |
-| 533 | 6 | Boricua64 |
-| 534 | 6 | Jelyfish |
-| 535 | 6 | Jeffrey Barrows |
-| 536 | 6 | Novaa |
-| 537 | 6 | Solomon Valarie |
-| 538 | 6 | Daring Riserfit |
-| 539 | 6 | Allison Baxter |
-| 540 | 6 | Wacky Towerer |
-| 541 | 6 | Brittnay Wright |
-| 542 | 6 | Wu May |
-| 543 | 6 | Christopher Wallace |
-| 544 | 6 | Frances Davis |
-| 545 | 6 | Gael Quintana |
-| 546 | 6 | NEM0228 |
-| 547 | 5 | DirtiestofMikes |
-| 548 | 5 | Zappy Clearfit |
-| 549 | 5 | Hasty Brickzone |
-| 550 | 5 | Lil T |
-| 551 | 5 | KeeKee Williams |
-| 552 | 5 | Temeshia Brooks Washington |
-| 553 | 5 | Rieshelda Marie White |
-| 554 | 5 | Derek Beverly |
-| 555 | 5 | Saucy Linkgrid |
-| 556 | 5 | Jasmine Hariston-Estis |
-| 557 | 5 | Spunky Strikerbuilder |
-| 558 | 5 | Stephanie Zuniga Tullock |
-| 559 | 5 | Duckey |
+| 508 | 8 | Nerdy Twistline |
+| 509 | 8 | jus_ry |
+| 510 | 8 | Brenda Brogden |
+| 511 | 8 | Joseph Vs Cap |
+| 512 | 8 | Cm |
+| 513 | 8 | Mahagony Small |
+| 514 | 8 | Caitlin Michele |
+| 515 | 8 | C Lo Green |
+| 516 | 8 | Ashley Davis |
+| 517 | 8 | Teresa Bean |
+| 518 | 8 | Tanesha Ga'sFinest Corbett |
+| 519 | 8 | Sarah Barnum |
+| 520 | 8 | Shawna Passwater |
+| 521 | 8 | Chevonne Huggins |
+| 522 | 7 | Shane Brucewayne |
+| 523 | 7 | Mary2 |
+| 524 | 7 | wmedina67 |
+| 525 | 7 | whatever |
+| 526 | 7 | Lakiesha Crawford |
+| 527 | 7 | Kendra McIntyre |
+| 528 | 7 | Analesia Taylor |
+| 529 | 7 | Jayson |
+| 530 | 7 | Andrew Harris |
+| 531 | 6 | Daring Riserfit |
+| 532 | 6 | Wacky Towerer |
+| 533 | 6 | Jeffrey Barrows |
+| 534 | 6 | Novaa |
+| 535 | 6 | Boricua64 |
+| 536 | 6 | Jelyfish |
+| 537 | 6 | Happy Blocky |
+| 538 | 6 | Gael Quintana |
+| 539 | 6 | NEM0228 |
+| 540 | 6 | Frances Davis |
+| 541 | 6 | Allison Baxter |
+| 542 | 6 | Solomon Valarie |
+| 543 | 6 | Brittnay Wright |
+| 544 | 6 | Christopher Wallace |
+| 545 | 6 | Wu May |
+| 546 | 6 | Janine Hunter |
+| 547 | 5 | Rieshelda Marie White |
+| 548 | 5 | KeeKee Williams |
+| 549 | 5 | Temeshia Brooks Washington |
+| 550 | 5 | Saucy Linkgrid |
+| 551 | 5 | Stephanie Zuniga Tullock |
+| 552 | 5 | Jjhandsome |
+| 553 | 5 | Spunky Strikerbuilder |
+| 554 | 5 | Jasmine Hariston-Estis |
+| 555 | 5 | Derek Beverly |
+| 556 | 5 | Lil T |
+| 557 | 5 | Hasty Brickzone |
+| 558 | 5 | DirtiestofMikes |
+| 559 | 5 | Chill Linkroll |
 | 560 | 5 | the guy |
-| 561 | 5 | Logan Frost |
-| 562 | 5 | Chill Linkroll |
-| 563 | 5 | Tamika Fisher |
-| 564 | 5 | Andre Sanon |
-| 565 | 5 | Shawn Himes |
-| 566 | 5 | Barbramerri Tarboro |
-| 567 | 5 | pooh |
-| 568 | 5 | Jjhandsome |
-| 569 | 5 | Tito Divyn |
-| 570 | 5 | Vernon Hoyt |
-| 571 | 5 | Mommy Frank |
-| 572 | 5 | Shakuria Cortia Burney |
-| 573 | 5 | Jennifer Moore |
-| 574 | 5 | Kidgib5 |
+| 561 | 5 | Vernon Hoyt |
+| 562 | 5 | Kidgib5 |
+| 563 | 5 | Jennifer Moore |
+| 564 | 5 | Shakuria Cortia Burney |
+| 565 | 5 | Mommy Frank |
+| 566 | 5 | Tito Divyn |
+| 567 | 5 | Shawn Himes |
+| 568 | 5 | Tamika Fisher |
+| 569 | 5 | Zappy Clearfit |
+| 570 | 5 | Duckey |
+| 571 | 5 | Logan Frost |
+| 572 | 5 | Andre Sanon |
+| 573 | 5 | Barbramerri Tarboro |
+| 574 | 5 | pooh |
 
 ---
 *Standings created by tournaments datasource generation tool*
