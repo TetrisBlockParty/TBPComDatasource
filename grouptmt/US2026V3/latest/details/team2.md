@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 14:06:13 UTC
+# Standings for team2 as of 2026-06-05 14:06:36 UTC
 
 **Total Participants:** 143
 
@@ -35,31 +35,31 @@
 | 27 | 59 | April Addis |
 | 28 | 58 | Chipper Towerzone |
 | 29 | 58 | Sara Perkins |
-| 30 | 52 | Jessica Perkins |
-| 31 | 52 | Rick |
+| 30 | 52 | Rick |
+| 31 | 52 | Jessica Perkins |
 | 32 | 50 | Martha Lynn Wiggins |
 | 33 | 48 | Spicy Basepiece |
 | 34 | 45 | Michelle Anne |
 | 35 | 44 | Zaniya Brown |
 | 36 | 42 | Henny Henny |
 | 37 | 42 | Snazzy Smasher |
-| 38 | 41 | Ava Speedy |
-| 39 | 41 | Alissa Ary |
-| 40 | 40 | Bon Lynn |
-| 41 | 40 | Nicole Chestnut |
-| 42 | 40 | Kevin Mccoy |
-| 43 | 38 | Justin Stark |
-| 44 | 38 | Harper |
-| 45 | 38 | Jason P. Schwartz |
+| 38 | 41 | Alissa Ary |
+| 39 | 41 | Ava Speedy |
+| 40 | 40 | Kevin Mccoy |
+| 41 | 40 | Bon Lynn |
+| 42 | 40 | Nicole Chestnut |
+| 43 | 38 | Jason P. Schwartz |
+| 44 | 38 | Justin Stark |
+| 45 | 38 | Harper |
 | 46 | 37 | Jumpy Dashpiece |
 | 47 | 36 | Peter Fogg |
-| 48 | 35 | Larry Cross |
-| 49 | 35 | Jason Cunningham |
-| 50 | 34 | Marylin Eacker |
-| 51 | 34 | Funway998 |
-| 52 | 33 | Kelly |
-| 53 | 33 | Tango Sierra |
-| 54 | 33 | Lively Twisterfit |
+| 48 | 35 | Lively Twisterfit |
+| 49 | 35 | Larry Cross |
+| 50 | 35 | Jason Cunningham |
+| 51 | 34 | Marylin Eacker |
+| 52 | 34 | Funway998 |
+| 53 | 33 | Kelly |
+| 54 | 33 | Tango Sierra |
 | 55 | 32 | Sandra Belk |
 | 56 | 31 | Nicole Hogue |
 | 57 | 31 | Michael Carmichael |
@@ -91,64 +91,64 @@
 | 83 | 19 | Quirky Piecegrid |
 | 84 | 19 | Steven Craig |
 | 85 | 18 | Jenny Coffer |
-| 86 | 18 | Spicy Balanceblock |
-| 87 | 18 | Tracey Cox |
-| 88 | 16 | Laverne Ellis Blair |
+| 86 | 18 | Kim |
+| 87 | 18 | Spicy Balanceblock |
+| 88 | 18 | Tracey Cox |
 | 89 | 16 | Sarah Jane Gorsuch |
-| 90 | 14 | Kim |
-| 91 | 14 | Missy Savage-Justice |
-| 92 | 13 | Lexi Chouinard |
-| 93 | 12 | Chirpy Grid |
-| 94 | 12 | Diamond Balotje |
+| 90 | 16 | Laverne Ellis Blair |
+| 91 | 15 | Zarah Kettler |
+| 92 | 14 | Missy Savage-Justice |
+| 93 | 13 | Lexi Chouinard |
+| 94 | 12 | Mary |
 | 95 | 12 | Stacey Loretta Wallace |
-| 96 | 12 | Mary |
-| 97 | 11 | Lora Via |
-| 98 | 11 | Yany |
-| 99 | 10 | Carlos J Blas |
-| 100 | 10 | Thomas Johnstone |
-| 101 | 10 | Becky Kennon |
-| 102 | 10 | Twisty Snapmatch |
-| 103 | 10 | Gill |
-| 104 | 10 | Leticia Tillman |
-| 105 | 10 | Jennifer Bell |
-| 106 | 10 | SEH |
-| 107 | 10 | Joyce Galloway |
-| 108 | 10 | Berta Hurley |
-| 109 | 10 | Jat |
-| 110 | 10 | Frilly Dashfit |
-| 111 | 10 | Donna Casey |
-| 112 | 10 | Justin Furne |
-| 113 | 10 | Crystal Owen Yocolano |
-| 114 | 9 | Mama G |
-| 115 | 9 | Rhonda Driskill |
-| 116 | 9 | Darla Ragsdale |
-| 117 | 9 | Giggly Spinblock |
-| 118 | 9 | Princess Cucumber |
-| 119 | 9 | REE4 |
-| 120 | 8 | Amber Carpenter |
-| 121 | 8 | Stephanie |
-| 122 | 8 | Renee Weedling |
+| 96 | 12 | Chirpy Grid |
+| 97 | 12 | Diamond Balotje |
+| 98 | 11 | Lora Via |
+| 99 | 11 | Yany |
+| 100 | 10 | Donna Casey |
+| 101 | 10 | Leticia Tillman |
+| 102 | 10 | Jat |
+| 103 | 10 | Frilly Dashfit |
+| 104 | 10 | Thomas Johnstone |
+| 105 | 10 | Carlos J Blas |
+| 106 | 10 | Justin Furne |
+| 107 | 10 | Becky Kennon |
+| 108 | 10 | Twisty Snapmatch |
+| 109 | 10 | Crystal Owen Yocolano |
+| 110 | 10 | Gill |
+| 111 | 10 | Berta Hurley |
+| 112 | 10 | Joyce Galloway |
+| 113 | 10 | SEH |
+| 114 | 10 | Jennifer Bell |
+| 115 | 9 | Giggly Spinblock |
+| 116 | 9 | Rhonda Driskill |
+| 117 | 9 | Darla Ragsdale |
+| 118 | 9 | REE4 |
+| 119 | 9 | Mama G |
+| 120 | 9 | Princess Cucumber |
+| 121 | 8 | Amber Carpenter |
+| 122 | 8 | Stephanie |
 | 123 | 8 | Nicky Steigerwalt |
-| 124 | 7 | nova |
-| 125 | 7 | Tashamonique Puckey |
-| 126 | 7 | Elizabeth Elaine Coursey |
-| 127 | 7 | Rae |
-| 128 | 7 | Zarah Kettler |
+| 124 | 8 | Renee Weedling |
+| 125 | 7 | Elizabeth Elaine Coursey |
+| 126 | 7 | Tashamonique Puckey |
+| 127 | 7 | nova |
+| 128 | 7 | Rae |
 | 129 | 7 | Epic Framezone |
 | 130 | 7 | Cherica Taylor |
-| 131 | 7 | Jackie Hayslip |
-| 132 | 7 | Twisty Snapclear |
+| 131 | 7 | Twisty Snapclear |
+| 132 | 7 | Jackie Hayslip |
 | 133 | 7 | Paula Haskins |
-| 134 | 6 | Angelique Matzke Starns |
-| 135 | 6 | fancypants |
-| 136 | 6 | Nova Nova |
-| 137 | 6 | Kelly Christine Trimmer |
-| 138 | 5 | Slinky Glidezone |
-| 139 | 5 | Bubbly Strikerpiece |
-| 140 | 5 | Allison Peterson |
-| 141 | 5 | Kelly Hall Whitt |
-| 142 | 5 | Dreamy Wipepiece |
-| 143 | 5 | Devon |
+| 134 | 6 | Kelly Christine Trimmer |
+| 135 | 6 | Angelique Matzke Starns |
+| 136 | 6 | fancypants |
+| 137 | 6 | Nova Nova |
+| 138 | 5 | Bubbly Strikerpiece |
+| 139 | 5 | Devon |
+| 140 | 5 | Kelly Hall Whitt |
+| 141 | 5 | Dreamy Wipepiece |
+| 142 | 5 | Slinky Glidezone |
+| 143 | 5 | Allison Peterson |
 
 ---
 *Standings created by tournaments datasource generation tool*

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 14:06:13 UTC
+# Standings for team1 as of 2026-06-05 14:06:36 UTC
 
 **Total Participants:** 142
 
@@ -39,73 +39,73 @@
 | 31 | 60 | Carolynne Walker-Bell |
 | 32 | 57 | Tosha Michelle |
 | 33 | 54 | Lauraly |
-| 34 | 50 | Yazz |
-| 35 | 50 | Slinky Party |
-| 36 | 48 | David Fuentes |
-| 37 | 43 | Block |
-| 38 | 43 | KenpachisGirl |
-| 39 | 42 | Frisky Fall |
-| 40 | 41 | Jessica Russell |
-| 41 | 40 | Leavon Smith |
-| 42 | 40 | Flashy Slam |
-| 43 | 40 | Donna Payne |
-| 44 | 40 | Jean Regis |
-| 45 | 40 | Char |
-| 46 | 40 | Cheeky Pop |
-| 47 | 40 | Ashley MyBeauty Daniels |
-| 48 | 38 | rls |
-| 49 | 37 | Lootch |
-| 50 | 37 | Steve Reno |
-| 51 | 35 | Yashica Smith |
-| 52 | 35 | KoolKimJay |
-| 53 | 35 | Dai Bo |
-| 54 | 35 | Lilly Brown |
-| 55 | 35 | Saucy Crusher |
-| 56 | 33 | Sashaleo |
-| 57 | 32 | Tobey Marberry |
-| 58 | 32 | Melvin Simpson |
-| 59 | 30 | $hort Dog |
-| 60 | 30 | Katrina Ramey |
-| 61 | 30 | Brian Bohanon II |
-| 62 | 30 | Casey Chapman |
-| 63 | 30 | Saucy Faller |
+| 34 | 51 | David Fuentes |
+| 35 | 50 | Yazz |
+| 36 | 50 | Slinky Party |
+| 37 | 49 | Cj Gorman |
+| 38 | 43 | Block |
+| 39 | 43 | KenpachisGirl |
+| 40 | 42 | Frisky Fall |
+| 41 | 41 | Jessica Russell |
+| 42 | 40 | Leavon Smith |
+| 43 | 40 | Flashy Slam |
+| 44 | 40 | JoJo |
+| 45 | 40 | Jean Regis |
+| 46 | 40 | Donna Payne |
+| 47 | 40 | Cheeky Pop |
+| 48 | 40 | Ashley MyBeauty Daniels |
+| 49 | 40 | Char |
+| 50 | 38 | rls |
+| 51 | 37 | Lootch |
+| 52 | 37 | Steve Reno |
+| 53 | 35 | Yashica Smith |
+| 54 | 35 | KoolKimJay |
+| 55 | 35 | Dai Bo |
+| 56 | 35 | Saucy Crusher |
+| 57 | 35 | Lilly Brown |
+| 58 | 33 | Sashaleo |
+| 59 | 32 | Melvin Simpson |
+| 60 | 32 | Tobey Marberry |
+| 61 | 30 | Casey Chapman |
+| 62 | 30 | $hort Dog |
+| 63 | 30 | Brian Bohanon II |
 | 64 | 30 | Lester Malone |
-| 65 | 29 | hope |
-| 66 | 29 | Sarah Marie |
-| 67 | 28 | John Staub |
-| 68 | 27 | Zany Breaker |
-| 69 | 27 | Mighty Dropper |
-| 70 | 27 | Angela R Wilson |
+| 65 | 30 | Katrina Ramey |
+| 66 | 30 | Saucy Faller |
+| 67 | 29 | hope |
+| 68 | 29 | Sarah Marie |
+| 69 | 28 | John Staub |
+| 70 | 27 | Mighty Dropper |
 | 71 | 27 | Jae Thompson-Tyus |
-| 72 | 27 | Charlene Baltimore |
-| 73 | 26 | Boldy Pivoty |
-| 74 | 25 | Tyrone Porter |
-| 75 | 25 | Hasty Pivoty |
-| 76 | 24 | TBABYJ |
-| 77 | 23 | Poppy Twister |
-| 78 | 22 | Tanisha Taylor |
-| 79 | 21 | Brave Balanceblock |
-| 80 | 20 | Jai |
-| 81 | 20 | Chevalier Burley |
+| 72 | 27 | Zany Breaker |
+| 73 | 27 | Angela R Wilson |
+| 74 | 27 | Charlene Baltimore |
+| 75 | 26 | Boldy Pivoty |
+| 76 | 25 | Tyrone Porter |
+| 77 | 25 | Hasty Pivoty |
+| 78 | 24 | TBABYJ |
+| 79 | 23 | Poppy Twister |
+| 80 | 22 | Tanisha Taylor |
+| 81 | 21 | Brave Balanceblock |
 | 82 | 20 | Kimmie Gargano |
-| 83 | 20 | Trina Greenwood |
-| 84 | 20 | JoJo |
-| 85 | 20 | Tony P Burke |
-| 86 | 19 | Shanjerrica Taylor Rosell |
-| 87 | 19 | Brenda Malachi-butler |
-| 88 | 19 | Cj Gorman |
+| 83 | 20 | Jai |
+| 84 | 20 | Chevalier Burley |
+| 85 | 20 | Trina Greenwood |
+| 86 | 20 | Tony P Burke |
+| 87 | 19 | Shanjerrica Taylor Rosell |
+| 88 | 19 | Brenda Malachi-butler |
 | 89 | 19 | Saucy Tile |
-| 90 | 19 | Amanda Woodruff |
-| 91 | 19 | Jenni |
-| 92 | 18 | Tyree Tman Shinette |
-| 93 | 18 | AleahKCH |
-| 94 | 18 | Sunny Clicky |
-| 95 | 17 | Kimberly Red |
-| 96 | 17 | Rikki Moran |
+| 90 | 19 | Jenni |
+| 91 | 19 | Amanda Woodruff |
+| 92 | 18 | AleahKCH |
+| 93 | 18 | Sunny Clicky |
+| 94 | 18 | Tyree Tman Shinette |
+| 95 | 17 | Rikki Moran |
+| 96 | 17 | Kimberly Red |
 | 97 | 16 | MsBobby Patrick |
 | 98 | 16 | Sylvia Offically A Mcgowan |
-| 99 | 15 | Una |
-| 100 | 15 | Delitra Perkins Hatter |
+| 99 | 15 | Delitra Perkins Hatter |
+| 100 | 15 | Una |
 | 101 | 15 | Jess |
 | 102 | 15 | Jack Vlasak |
 | 103 | 15 | Tami Spence |
