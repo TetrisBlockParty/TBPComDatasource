@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 14:44:38 UTC
+# Standings for team1 as of 2026-06-05 14:45:14 UTC
 
 **Total Participants:** 200
 
@@ -35,12 +35,12 @@
 | 27 | 99 | Kellie Hall |
 | 28 | 95 | Jawaun Daniels |
 | 29 | 91 | Ashley MyBeauty Daniels |
-| 30 | 86 | SPNLover24 |
-| 31 | 81 | Robyn Caldwell |
-| 32 | 81 | Mafio SO |
-| 33 | 80 | Felicia Williams |
+| 30 | 90 | Bre Maugh |
+| 31 | 86 | SPNLover24 |
+| 32 | 81 | Robyn Caldwell |
+| 33 | 81 | Mafio SO |
 | 34 | 80 | Rayya Kiser |
-| 35 | 80 | Bre Maugh |
+| 35 | 80 | Felicia Williams |
 | 36 | 80 | Rachel Zimmerman |
 | 37 | 80 | Jazzy Dashpiece |
 | 38 | 80 | Char |
@@ -178,34 +178,34 @@
 | 170 | 9 | Tina Criam |
 | 171 | 9 | DellaLucretia Thomas |
 | 172 | 8 | Brika Brika |
-| 173 | 8 | Sammie Walker |
-| 174 | 8 | Breezy Catcher |
-| 175 | 8 | Jessie N Michael Silvers |
-| 176 | 8 | Tanesha Ga'sFinest Corbett |
-| 177 | 7 | Kendra McIntyre |
-| 178 | 7 | Mary2 |
-| 179 | 6 | Cece Fowler |
-| 180 | 6 | Dandy Brickfit |
+| 173 | 8 | Tanesha Ga'sFinest Corbett |
+| 174 | 8 | Sammie Walker |
+| 175 | 8 | Breezy Catcher |
+| 176 | 8 | Jessie N Michael Silvers |
+| 177 | 7 | Mary2 |
+| 178 | 7 | Kendra McIntyre |
+| 179 | 6 | Christopher Wallace |
+| 180 | 6 | Allison Baxter |
 | 181 | 6 | Jeffrey Barrows |
-| 182 | 6 | Allison Baxter |
-| 183 | 6 | Janine Hunter |
-| 184 | 6 | Taz Ballard |
-| 185 | 6 | Cozy Edge |
-| 186 | 6 | Christopher Wallace |
-| 187 | 5 | Vernon Hoyt |
-| 188 | 5 | KeeKee Williams |
+| 182 | 6 | Dandy Brickfit |
+| 183 | 6 | Cozy Edge |
+| 184 | 6 | Cece Fowler |
+| 185 | 6 | Janine Hunter |
+| 186 | 6 | Taz Ballard |
+| 187 | 5 | Jennifer Moore |
+| 188 | 5 | Rixo Blax |
 | 189 | 5 | Temeshia Brooks Washington |
-| 190 | 5 | Rixo Blax |
-| 191 | 5 | Guy Incognito |
-| 192 | 5 | Tamika Fisher |
-| 193 | 5 | Elaine Youmans |
-| 194 | 5 | Jennifer Moore |
-| 195 | 5 | Kidgib5 |
+| 190 | 5 | KeeKee Williams |
+| 191 | 5 | Derek Beverly |
+| 192 | 5 | Lil T |
+| 193 | 5 | Vernon Hoyt |
+| 194 | 5 | Stephanie Zuniga Tullock |
+| 195 | 5 | DirtiestofMikes |
 | 196 | 5 | Shawn Himes |
-| 197 | 5 | DirtiestofMikes |
-| 198 | 5 | Stephanie Zuniga Tullock |
-| 199 | 5 | Lil T |
-| 200 | 5 | Derek Beverly |
+| 197 | 5 | Elaine Youmans |
+| 198 | 5 | Guy Incognito |
+| 199 | 5 | Tamika Fisher |
+| 200 | 5 | Kidgib5 |
 
 ---
 *Standings created by tournaments datasource generation tool*
