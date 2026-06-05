@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-05 12:58:14 UTC
+# Standings for team3 as of 2026-06-05 12:58:33 UTC
 
 **Total Participants:** 131
 
@@ -7,13 +7,13 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 3465 | George Michaels |
-| 2 | 2454 | Lindsey Gardner |
+| 2 | 3034 | Lindsey Gardner |
 | 3 | 1440 | Alan George LaRage |
 | 4 | 836 | Tom Borja |
 | 5 | 800 | Jăckie Gønzaləz-Mōntålvo |
 | 6 | 476 | Tami Czenkus |
 | 7 | 367 | Edda-Jo Wenneman Dobbs |
-| 8 | 230 | Bee |
+| 8 | 240 | Bee |
 | 9 | 200 | AL Ferrari |
 | 10 | 160 | Woodrow Weatherford |
 | 11 | 142 | Danyelle Radford Upton |

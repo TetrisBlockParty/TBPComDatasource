@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 12:58:14 UTC
+# Standings for team2 as of 2026-06-05 12:58:33 UTC
 
 **Total Participants:** 69
 
@@ -23,58 +23,58 @@
 | 15 | 45 | Michelle Anne |
 | 16 | 44 | April Addis |
 | 17 | 44 | Zaniya Brown |
-| 18 | 40 | LittleHippoEars |
-| 19 | 40 | Kevin Mccoy |
-| 20 | 37 | Jumpy Dashpiece |
-| 21 | 33 | Tango Sierra |
-| 22 | 30 | Peter Fogg |
-| 23 | 30 | Patti Ward |
-| 24 | 30 | Jason Cunningham |
-| 25 | 29 | Martha Lynn Wiggins |
-| 26 | 28 | Sara BlueEyes |
-| 27 | 27 | Michael Carmichael |
-| 28 | 26 | Rachel Huber |
-| 29 | 26 | Quina Jesse Fejaran |
-| 30 | 26 | Ariel Gundersen |
-| 31 | 25 | Jgato |
-| 32 | 24 | A.j. Langley |
-| 33 | 24 | Dayna Messer-Thelen |
-| 34 | 23 | Damion Morrison |
-| 35 | 23 | IncrediDragon |
-| 36 | 22 | Rick |
-| 37 | 21 | Kelly |
-| 38 | 21 | Henny Henny |
-| 39 | 20 | Bon Lynn |
-| 40 | 20 | AcardBoardBox |
-| 41 | 20 | ChefDeb |
+| 18 | 40 | Bon Lynn |
+| 19 | 40 | LittleHippoEars |
+| 20 | 40 | Kevin Mccoy |
+| 21 | 37 | Jumpy Dashpiece |
+| 22 | 33 | Tango Sierra |
+| 23 | 30 | Peter Fogg |
+| 24 | 30 | Patti Ward |
+| 25 | 30 | Jason Cunningham |
+| 26 | 29 | Martha Lynn Wiggins |
+| 27 | 28 | Sara BlueEyes |
+| 28 | 27 | Michael Carmichael |
+| 29 | 26 | Rachel Huber |
+| 30 | 26 | Quina Jesse Fejaran |
+| 31 | 26 | Ariel Gundersen |
+| 32 | 25 | Jgato |
+| 33 | 24 | A.j. Langley |
+| 34 | 24 | Dayna Messer-Thelen |
+| 35 | 23 | Damion Morrison |
+| 36 | 23 | IncrediDragon |
+| 37 | 22 | Rick |
+| 38 | 21 | Kelly |
+| 39 | 21 | Henny Henny |
+| 40 | 20 | ChefDeb |
+| 41 | 20 | AcardBoardBox |
 | 42 | 18 | Tracey Cox |
 | 43 | 16 | Kenzie |
-| 44 | 12 | Mary |
-| 45 | 12 | Stacey Loretta Wallace |
-| 46 | 12 | Chirpy Grid |
-| 47 | 12 | Diamond Balotje |
+| 44 | 12 | Stacey Loretta Wallace |
+| 45 | 12 | Diamond Balotje |
+| 46 | 12 | Mary |
+| 47 | 12 | Chirpy Grid |
 | 48 | 11 | Lora Via |
 | 49 | 11 | Thy Bui |
-| 50 | 10 | Twisty Snapmatch |
+| 50 | 10 | Joyce Galloway |
 | 51 | 10 | Thomas Johnstone |
 | 52 | 10 | Justin Furne |
 | 53 | 10 | Gill |
-| 54 | 10 | Joyce Galloway |
-| 55 | 10 | Berta Hurley |
-| 56 | 10 | Donna Casey |
+| 54 | 10 | Twisty Snapmatch |
+| 55 | 10 | Donna Casey |
+| 56 | 10 | Berta Hurley |
 | 57 | 9 | Giggly Spinblock |
 | 58 | 9 | Princess Cucumber |
-| 59 | 9 | Mama G |
-| 60 | 9 | Darla Ragsdale |
-| 61 | 7 | Epic Framezone |
-| 62 | 7 | Cherica Taylor |
-| 63 | 7 | nova |
-| 64 | 7 | Elizabeth Elaine Coursey |
-| 65 | 6 | fancypants |
-| 66 | 6 | Kelly Christine Trimmer |
+| 59 | 9 | Darla Ragsdale |
+| 60 | 9 | Mama G |
+| 61 | 7 | Elizabeth Elaine Coursey |
+| 62 | 7 | nova |
+| 63 | 7 | Cherica Taylor |
+| 64 | 7 | Epic Framezone |
+| 65 | 6 | Kelly Christine Trimmer |
+| 66 | 6 | fancypants |
 | 67 | 5 | Allison Peterson |
-| 68 | 5 | Tashamonique Puckey |
-| 69 | 5 | Devon |
+| 68 | 5 | Devon |
+| 69 | 5 | Tashamonique Puckey |
 
 ---
 *Standings created by tournaments datasource generation tool*
