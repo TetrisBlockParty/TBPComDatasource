@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-05 13:08:36 UTC
+# Standings for team2 as of 2026-06-05 13:09:12 UTC
 
-**Total Participants:** 77
+**Total Participants:** 78
 
 ## Participant Scores
 
@@ -15,9 +15,9 @@
 | 7 | 515 | Loony Faller |
 | 8 | 437 | Amy Gale |
 | 9 | 179 | Stella |
-| 10 | 83 | Ashley Voelz |
-| 11 | 75 | Angeleye A James |
-| 12 | 74 | Amber Triguero |
+| 10 | 168 | Amber Triguero |
+| 11 | 83 | Ashley Voelz |
+| 12 | 75 | Angeleye A James |
 | 13 | 70 | Amanda Sikes |
 | 14 | 60 | LittleHippoEars |
 | 15 | 58 | Chipper Towerzone |
@@ -32,15 +32,15 @@
 | 24 | 35 | Jason Cunningham |
 | 25 | 33 | Tango Sierra |
 | 26 | 31 | Kenzie |
-| 27 | 30 | Peter Fogg |
-| 28 | 30 | Patti Ward |
+| 27 | 30 | Patti Ward |
+| 28 | 30 | Peter Fogg |
 | 29 | 28 | Sara BlueEyes |
-| 30 | 27 | Michael Carmichael |
-| 31 | 27 | Rick |
+| 30 | 28 | Rick |
+| 31 | 27 | Michael Carmichael |
 | 32 | 26 | Henny Henny |
-| 33 | 26 | Quina Jesse Fejaran |
-| 34 | 26 | Rachel Huber |
-| 35 | 26 | Ariel Gundersen |
+| 33 | 26 | Rachel Huber |
+| 34 | 26 | Ariel Gundersen |
+| 35 | 26 | Quina Jesse Fejaran |
 | 36 | 25 | Jgato |
 | 37 | 24 | Dayna Messer-Thelen |
 | 38 | 24 | A.j. Langley |
@@ -48,41 +48,42 @@
 | 40 | 23 | Damion Morrison |
 | 41 | 22 | Jeff Pottgether |
 | 42 | 21 | Kelly |
-| 43 | 20 | ChefDeb |
-| 44 | 20 | AcardBoardBox |
-| 45 | 18 | Tracey Cox |
+| 43 | 20 | AcardBoardBox |
+| 44 | 20 | ChefDeb |
+| 45 | 18 | Nathan Walker |
 | 46 | 18 | Wendy McKee |
-| 47 | 14 | Harper |
-| 48 | 12 | Diamond Balotje |
+| 47 | 18 | Tracey Cox |
+| 48 | 14 | Harper |
 | 49 | 12 | Stacey Loretta Wallace |
 | 50 | 12 | Chirpy Grid |
-| 51 | 12 | Mary |
-| 52 | 11 | Thy Bui |
-| 53 | 11 | Lora Via |
-| 54 | 10 | Joyce Galloway |
-| 55 | 10 | Berta Hurley |
-| 56 | 10 | Donna Casey |
+| 51 | 12 | Diamond Balotje |
+| 52 | 12 | Mary |
+| 53 | 11 | Thy Bui |
+| 54 | 11 | Lora Via |
+| 55 | 10 | Joyce Galloway |
+| 56 | 10 | Twisty Snapmatch |
 | 57 | 10 | Gill |
-| 58 | 10 | Thomas Johnstone |
-| 59 | 10 | Justin Furne |
-| 60 | 10 | Twisty Snapmatch |
-| 61 | 10 | Jennifer Bell |
-| 62 | 9 | Giggly Spinblock |
-| 63 | 9 | Jessica Perkins |
+| 58 | 10 | Jennifer Bell |
+| 59 | 10 | Thomas Johnstone |
+| 60 | 10 | Berta Hurley |
+| 61 | 10 | Justin Furne |
+| 62 | 10 | Donna Casey |
+| 63 | 9 | Mama G |
 | 64 | 9 | Princess Cucumber |
-| 65 | 9 | Darla Ragsdale |
-| 66 | 9 | Mama G |
-| 67 | 7 | Elizabeth Elaine Coursey |
-| 68 | 7 | Epic Framezone |
-| 69 | 7 | nova |
-| 70 | 7 | Jamie Fenyus |
-| 71 | 7 | Cherica Taylor |
-| 72 | 6 | Andre Love |
-| 73 | 6 | fancypants |
-| 74 | 6 | Kelly Christine Trimmer |
-| 75 | 5 | Devon |
+| 65 | 9 | Giggly Spinblock |
+| 66 | 9 | Darla Ragsdale |
+| 67 | 9 | Jessica Perkins |
+| 68 | 7 | Cherica Taylor |
+| 69 | 7 | Epic Framezone |
+| 70 | 7 | Elizabeth Elaine Coursey |
+| 71 | 7 | Jamie Fenyus |
+| 72 | 7 | nova |
+| 73 | 6 | Kelly Christine Trimmer |
+| 74 | 6 | Andre Love |
+| 75 | 6 | fancypants |
 | 76 | 5 | Allison Peterson |
 | 77 | 5 | Tashamonique Puckey |
+| 78 | 5 | Devon |
 
 ---
 *Standings created by tournaments datasource generation tool*

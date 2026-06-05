@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 13:08:36 UTC
+# Standings for team1 as of 2026-06-05 13:09:12 UTC
 
-**Total Participants:** 95
+**Total Participants:** 96
 
 ## Participant Scores
 
@@ -34,16 +34,16 @@
 | 26 | 60 | Asani CHumba |
 | 27 | 50 | Jazzy Dashpiece |
 | 28 | 50 | Slinky Party |
-| 29 | 43 | Block |
-| 30 | 41 | Jessica Russell |
-| 31 | 40 | Leavon Smith |
-| 32 | 40 | Jean Regis |
-| 33 | 40 | Lauraly |
-| 34 | 38 | rls |
-| 35 | 37 | Lootch |
-| 36 | 36 | SPNLover24 |
-| 37 | 35 | Saucy Crusher |
-| 38 | 35 | Christian Pham |
+| 29 | 46 | SPNLover24 |
+| 30 | 43 | Block |
+| 31 | 41 | Jessica Russell |
+| 32 | 40 | Leavon Smith |
+| 33 | 40 | Jean Regis |
+| 34 | 40 | Lauraly |
+| 35 | 40 | Christian Pham |
+| 36 | 38 | rls |
+| 37 | 37 | Lootch |
+| 38 | 35 | Saucy Crusher |
 | 39 | 35 | Dai Bo |
 | 40 | 35 | KoolKimJay |
 | 41 | 35 | Lilly Brown |
@@ -70,8 +70,8 @@
 | 62 | 18 | Brian Bohanon II |
 | 63 | 17 | Kimberly Red |
 | 64 | 17 | Rikki Moran |
-| 65 | 16 | Sylvia Offically A Mcgowan |
-| 66 | 16 | Yashica Smith |
+| 65 | 17 | Yashica Smith |
+| 66 | 16 | Sylvia Offically A Mcgowan |
 | 67 | 15 | Tami Spence |
 | 68 | 15 | Ashley MyBeauty Daniels |
 | 69 | 15 | Una |
@@ -96,11 +96,12 @@
 | 88 | 8 | Sammie Walker |
 | 89 | 7 | Kendra McIntyre |
 | 90 | 7 | Mary2 |
-| 91 | 5 | Jennifer Moore |
-| 92 | 5 | Derek Beverly |
-| 93 | 5 | Shakmar |
-| 94 | 5 | David Fuentes |
-| 95 | 5 | Cheeky Pop |
+| 91 | 6 | Janine Hunter |
+| 92 | 5 | Jennifer Moore |
+| 93 | 5 | Derek Beverly |
+| 94 | 5 | Shakmar |
+| 95 | 5 | David Fuentes |
+| 96 | 5 | Cheeky Pop |
 
 ---
 *Standings created by tournaments datasource generation tool*
