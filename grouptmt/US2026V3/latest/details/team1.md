@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 12:50:12 UTC
+# Standings for team1 as of 2026-06-05 12:50:34 UTC
 
 **Total Participants:** 77
 
@@ -11,7 +11,7 @@
 | 3 | 749 | Aviv Zehavi |
 | 4 | 366 | Tracy Cohen |
 | 5 | 241 | Ivana Schmidt |
-| 6 | 197 | Chris Russell |
+| 6 | 217 | Chris Russell |
 | 7 | 177 | Chris Sladoje |
 | 8 | 173 | jaimie |
 | 9 | 164 | Gotcha |
@@ -22,17 +22,17 @@
 | 14 | 77 | Amber Wilson |
 | 15 | 74 | ♈️ Ariesbaby |
 | 16 | 66 | Shontanese Adams |
-| 17 | 60 | Asani CHumba |
-| 18 | 58 | Mafio SO |
+| 17 | 66 | Mafio SO |
+| 18 | 60 | Asani CHumba |
 | 19 | 50 | Jazzy Dashpiece |
 | 20 | 50 | Slinky Party |
-| 21 | 41 | Jessica Russell |
-| 22 | 40 | Leavon Smith |
-| 23 | 40 | Lauraly |
-| 24 | 40 | Jean Regis |
-| 25 | 37 | Michele Elizabeth McKay-Johnson |
-| 26 | 35 | Saucy Crusher |
-| 27 | 35 | Kellie Hall |
+| 21 | 41 | Kellie Hall |
+| 22 | 41 | Jessica Russell |
+| 23 | 40 | Leavon Smith |
+| 24 | 40 | Lauraly |
+| 25 | 40 | Jean Regis |
+| 26 | 37 | Michele Elizabeth McKay-Johnson |
+| 27 | 35 | Saucy Crusher |
 | 28 | 35 | Dai Bo |
 | 29 | 35 | KoolKimJay |
 | 30 | 34 | Shanell Thomas |
@@ -80,9 +80,9 @@
 | 72 | 8 | Sammie Walker |
 | 73 | 7 | Kendra McIntyre |
 | 74 | 7 | Mary2 |
-| 75 | 5 | Shakmar |
-| 76 | 5 | Yashica Smith |
-| 77 | 5 | Cheeky Pop |
+| 75 | 5 | Cheeky Pop |
+| 76 | 5 | Shakmar |
+| 77 | 5 | Yashica Smith |
 
 ---
 *Standings created by tournaments datasource generation tool*
