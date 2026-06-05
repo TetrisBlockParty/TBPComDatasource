@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 23:56:14 UTC
+# Standings for team1 as of 2026-06-05 23:56:38 UTC
 
 **Total Participants:** 609
 
@@ -360,9 +360,9 @@
 | 352 | 25 | Tweet Turner |
 | 353 | 25 | Mary Phillippi Blanton |
 | 354 | 25 | Kyle Conley |
-| 355 | 25 | Karebear |
-| 356 | 24 | Dirty Deeds |
-| 357 | 24 | Chummy Frame |
+| 355 | 25 | Chummy Frame |
+| 356 | 25 | Karebear |
+| 357 | 24 | Dirty Deeds |
 | 358 | 24 | Mrs |
 | 359 | 24 | DellaLucretia Thomas |
 | 360 | 24 | Taneka Howell |
@@ -594,7 +594,7 @@
 | 586 | 5 | Rieshelda Marie White |
 | 587 | 5 | Temeshia Brooks Washington |
 | 588 | 5 | KeeKee Williams |
-| 589 | 5 | Andre Sanon |
+| 589 | 5 | Jennifer Moore |
 | 590 | 5 | pooh |
 | 591 | 5 | Jasmine Hariston-Estis |
 | 592 | 5 | Derek Beverly |
@@ -604,7 +604,7 @@
 | 596 | 5 | DirtiestofMikes |
 | 597 | 5 | Chill Linkroll |
 | 598 | 5 | Kidgib5 |
-| 599 | 5 | Jennifer Moore |
+| 599 | 5 | the guy |
 | 600 | 5 | Shakuria Cortia Burney |
 | 601 | 5 | Mommy Frank |
 | 602 | 5 | Tito Divyn |
@@ -614,7 +614,7 @@
 | 606 | 5 | Duckey |
 | 607 | 5 | Sheila Burnham |
 | 608 | 5 | Logan Frost |
-| 609 | 5 | the guy |
+| 609 | 5 | Andre Sanon |
 
 ---
 *Standings created by tournaments datasource generation tool*
