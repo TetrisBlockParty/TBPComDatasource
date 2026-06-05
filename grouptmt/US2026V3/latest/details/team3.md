@@ -1,13 +1,13 @@
-# Standings for team3 as of 2026-06-05 12:55:13 UTC
+# Standings for team3 as of 2026-06-05 12:56:13 UTC
 
-**Total Participants:** 119
+**Total Participants:** 124
 
 ## Participant Scores
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 3091 | George Michaels |
-| 2 | 1747 | Lindsey Gardner |
+| 1 | 3465 | George Michaels |
+| 2 | 2454 | Lindsey Gardner |
 | 3 | 1340 | Alan George LaRage |
 | 4 | 836 | Tom Borja |
 | 5 | 800 | Jăckie Gønzaləz-Mōntålvo |
@@ -19,11 +19,11 @@
 | 11 | 142 | Danyelle Radford Upton |
 | 12 | 104 | Perach Alima Shoa |
 | 13 | 100 | Dapper Patternline |
-| 14 | 90 | Jerome Carlile |
-| 15 | 80 | Angel Hopkins |
-| 16 | 79 | Kimberlee Pence |
-| 17 | 78 | Jessica Biggs |
-| 18 | 78 | Ross McDonald |
+| 14 | 98 | Ross McDonald |
+| 15 | 90 | Jerome Carlile |
+| 16 | 80 | Angel Hopkins |
+| 17 | 79 | Kimberlee Pence |
+| 18 | 78 | Jessica Biggs |
 | 19 | 71 | Alex Celio |
 | 20 | 70 | Lively Matchpiece |
 | 21 | 69 | SteffXx |
@@ -31,100 +31,105 @@
 | 23 | 66 | Loony Strikesnap |
 | 24 | 65 | Paul Hudak |
 | 25 | 63 | Denice Myers |
-| 26 | 50 | Dee Perry |
-| 27 | 50 | Barb Hicks |
+| 26 | 50 | Barb Hicks |
+| 27 | 50 | Dee Perry |
 | 28 | 50 | Adam Bronk |
 | 29 | 49 | creepy paper |
-| 30 | 48 | Deanna Robledo |
-| 31 | 44 | Laura Slusher Updike |
-| 32 | 41 | Kimberly Kupke |
-| 33 | 41 | Crystal Carlson |
-| 34 | 39 | Beth Varieur |
-| 35 | 35 | Rebecca Alidre Holmes-Anderson |
-| 36 | 34 | Gary |
-| 37 | 33 | Andrea Snider |
-| 38 | 33 | Raya |
-| 39 | 32 | Dedicated |
-| 40 | 31 | Boldy Cornerfall |
-| 41 | 30 | Christopher Kissiah |
-| 42 | 30 | Jvo |
-| 43 | 30 | Raymond J Turnbull |
-| 44 | 28 | VOID EDGE |
-| 45 | 28 | Gypsy Woodall |
-| 46 | 28 | Daran Miranda |
-| 47 | 28 | Kristina Courtney |
-| 48 | 28 | Carolyn Smith |
-| 49 | 27 | Funky Fall |
-| 50 | 26 | Kevin C. Moe |
-| 51 | 25 | Garrett Hofmann |
-| 52 | 25 | Kite Kelly |
-| 53 | 25 | Ian Burns |
-| 54 | 24 | Bren Stahl |
-| 55 | 23 | Charles Love |
-| 56 | 22 | Avias |
-| 57 | 21 | Megan Roseberry |
-| 58 | 21 | G |
-| 59 | 21 | Antkc Petebrick |
+| 30 | 48 | Gypsy Woodall |
+| 31 | 48 | Deanna Robledo |
+| 32 | 44 | Laura Slusher Updike |
+| 33 | 41 | Antkc Petebrick |
+| 34 | 41 | Kimberly Kupke |
+| 35 | 41 | Crystal Carlson |
+| 36 | 39 | Beth Varieur |
+| 37 | 35 | Rebecca Alidre Holmes-Anderson |
+| 38 | 34 | Gary |
+| 39 | 33 | Raya |
+| 40 | 33 | Andrea Snider |
+| 41 | 32 | Dedicated |
+| 42 | 31 | Boldy Cornerfall |
+| 43 | 30 | Jvo |
+| 44 | 30 | Raymond J Turnbull |
+| 45 | 30 | Christopher Kissiah |
+| 46 | 29 | Funky Fall |
+| 47 | 28 | Daran Miranda |
+| 48 | 28 | VOID EDGE |
+| 49 | 28 | Carolyn Smith |
+| 50 | 28 | Kristina Courtney |
+| 51 | 26 | Kevin C. Moe |
+| 52 | 25 | Ian Burns |
+| 53 | 25 | Kite Kelly |
+| 54 | 25 | Garrett Hofmann |
+| 55 | 24 | Bren Stahl |
+| 56 | 24 | Megan Roseberry |
+| 57 | 23 | Charles Love |
+| 58 | 22 | Avias |
+| 59 | 21 | G |
 | 60 | 21 | Johnny Hewitt |
-| 61 | 20 | Kimm Fulmer |
+| 61 | 20 | Teresa Jackson |
 | 62 | 20 | kendra |
 | 63 | 20 | Matt Cox |
-| 64 | 20 | Teresa Jackson |
-| 65 | 19 | Ashley Dilsaver |
+| 64 | 20 | Kimm Fulmer |
+| 65 | 19 | Christina M Arroyo |
 | 66 | 19 | Sabrina34 |
-| 67 | 19 | Christina M Arroyo |
-| 68 | 18 | Kyle Thompson |
-| 69 | 18 | ToxicTrinity |
-| 70 | 18 | Alison Gomes |
-| 71 | 17 | Lisa Stone |
-| 72 | 16 | Karina Cortes |
-| 73 | 16 | David Gross |
-| 74 | 15 | kittensden |
-| 75 | 15 | Quirky Curve |
+| 67 | 19 | Ashley Dilsaver |
+| 68 | 19 | Peachy Towerfall |
+| 69 | 19 | batsy |
+| 70 | 18 | ToxicTrinity |
+| 71 | 18 | Kyle Thompson |
+| 72 | 18 | Alison Gomes |
+| 73 | 17 | Lisa Stone |
+| 74 | 16 | David Gross |
+| 75 | 16 | Karina Cortes |
 | 76 | 15 | Melinda Flugga |
-| 77 | 15 | Amber F |
-| 78 | 14 | Megan Jones |
-| 79 | 14 | Sara Pederson |
-| 80 | 13 | Unicorn0723 |
-| 81 | 13 | DShark72 |
-| 82 | 13 | Raven Rogue |
-| 83 | 13 | Manda Mumea |
-| 84 | 13 | Patricia Kelley |
-| 85 | 13 | Sarah Jane |
-| 86 | 12 | Nonni |
-| 87 | 12 | Nette Babi |
-| 88 | 12 | blockbusterr |
-| 89 | 12 | Wacky Catcher |
-| 90 | 12 | Jonathan Russell |
-| 91 | 12 | Violet |
-| 92 | 12 | Robby Beltran |
-| 93 | 11 | batsy |
-| 94 | 11 | Carrie Ness |
+| 77 | 15 | kittensden |
+| 78 | 15 | Amber F |
+| 79 | 15 | Quirky Curve |
+| 80 | 14 | Sara Pederson |
+| 81 | 14 | Patricia Kelley |
+| 82 | 14 | Megan Jones |
+| 83 | 13 | Raven Rogue |
+| 84 | 13 | DShark72 |
+| 85 | 13 | Manda Mumea |
+| 86 | 13 | Sarah Jane |
+| 87 | 13 | Unicorn0723 |
+| 88 | 12 | Nonni |
+| 89 | 12 | Nette Babi |
+| 90 | 12 | blockbusterr |
+| 91 | 12 | Wacky Catcher |
+| 92 | 12 | Jonathan Russell |
+| 93 | 12 | Robby Beltran |
+| 94 | 12 | Violet |
 | 95 | 11 | David Glisson |
 | 96 | 11 | Happy Balancer |
-| 97 | 10 | Tiesha Janay |
-| 98 | 10 | Jenni Torres |
-| 99 | 10 | Casey Kincheloe |
-| 100 | 10 | Fran Kutz |
-| 101 | 10 | Shabae |
-| 102 | 10 | Giddy Shift |
-| 103 | 9 | Angie Rodriguez |
-| 104 | 9 | Jess Jess |
-| 105 | 9 | ciscokid81 |
-| 106 | 9 | Peachy Towerfall |
-| 107 | 9 | Sarah Cruthirds |
-| 108 | 9 | Salky |
-| 109 | 9 | Tnaughty |
-| 110 | 9 | Natasha Silva |
-| 111 | 8 | Fam |
-| 112 | 7 | Loony Rollfit |
-| 113 | 6 | bt |
-| 114 | 6 | Kathy Siano |
-| 115 | 5 | Snippy Cornerfall |
-| 116 | 5 | Colt Wilson |
-| 117 | 5 | Victoria Lofquist |
-| 118 | 5 | KAR |
-| 119 | 5 | Tori Morgan |
+| 97 | 11 | Carrie Ness |
+| 98 | 10 | Sheri Read |
+| 99 | 10 | Tiesha Janay |
+| 100 | 10 | Jenni Torres |
+| 101 | 10 | Giddy Shift |
+| 102 | 10 | Fran Kutz |
+| 103 | 10 | Casey Kincheloe |
+| 104 | 10 | Shabae |
+| 105 | 10 | chey |
+| 106 | 9 | Sarah Cruthirds |
+| 107 | 9 | Angie Rodriguez |
+| 108 | 9 | Tnaughty |
+| 109 | 9 | Natasha Silva |
+| 110 | 9 | Jess Jess |
+| 111 | 9 | ciscokid81 |
+| 112 | 9 | Salky |
+| 113 | 8 | Fam |
+| 114 | 7 | Loony Rollfit |
+| 115 | 6 | bt |
+| 116 | 6 | Flashy Cluster |
+| 117 | 6 | Brenda Pyne |
+| 118 | 6 | Landon Holman |
+| 119 | 6 | Kathy Siano |
+| 120 | 5 | Colt Wilson |
+| 121 | 5 | Snippy Cornerfall |
+| 122 | 5 | KAR |
+| 123 | 5 | Tori Morgan |
+| 124 | 5 | Victoria Lofquist |
 
 ---
 *Standings created by tournaments datasource generation tool*

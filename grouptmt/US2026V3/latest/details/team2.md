@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 12:55:13 UTC
+# Standings for team2 as of 2026-06-05 12:56:13 UTC
 
 **Total Participants:** 68
 
@@ -21,14 +21,14 @@
 | 13 | 58 | Chipper Towerzone |
 | 14 | 48 | Spicy Basepiece |
 | 15 | 45 | Michelle Anne |
-| 16 | 44 | Zaniya Brown |
-| 17 | 40 | Kevin Mccoy |
-| 18 | 40 | LittleHippoEars |
-| 19 | 37 | Jumpy Dashpiece |
-| 20 | 33 | Tango Sierra |
-| 21 | 30 | Jason Cunningham |
-| 22 | 30 | Patti Ward |
-| 23 | 28 | April Addis |
+| 16 | 44 | April Addis |
+| 17 | 44 | Zaniya Brown |
+| 18 | 40 | Kevin Mccoy |
+| 19 | 40 | LittleHippoEars |
+| 20 | 37 | Jumpy Dashpiece |
+| 21 | 33 | Tango Sierra |
+| 22 | 30 | Jason Cunningham |
+| 23 | 30 | Patti Ward |
 | 24 | 28 | Sara BlueEyes |
 | 25 | 27 | Michael Carmichael |
 | 26 | 26 | Rachel Huber |
@@ -54,23 +54,23 @@
 | 46 | 12 | Chirpy Grid |
 | 47 | 11 | Thy Bui |
 | 48 | 11 | Lora Via |
-| 49 | 10 | Twisty Snapmatch |
+| 49 | 10 | Berta Hurley |
 | 50 | 10 | Joyce Galloway |
-| 51 | 10 | Gill |
-| 52 | 10 | Thomas Johnstone |
-| 53 | 10 | Berta Hurley |
+| 51 | 10 | Twisty Snapmatch |
+| 52 | 10 | Gill |
+| 53 | 10 | Thomas Johnstone |
 | 54 | 10 | Donna Casey |
 | 55 | 10 | Justin Furne |
-| 56 | 9 | Princess Cucumber |
-| 57 | 9 | Giggly Spinblock |
-| 58 | 9 | Mama G |
+| 56 | 9 | Mama G |
+| 57 | 9 | Princess Cucumber |
+| 58 | 9 | Giggly Spinblock |
 | 59 | 9 | Darla Ragsdale |
-| 60 | 7 | Elizabeth Elaine Coursey |
+| 60 | 7 | Cherica Taylor |
 | 61 | 7 | nova |
 | 62 | 7 | Epic Framezone |
-| 63 | 7 | Cherica Taylor |
-| 64 | 6 | Kelly Christine Trimmer |
-| 65 | 6 | fancypants |
+| 63 | 7 | Elizabeth Elaine Coursey |
+| 64 | 6 | fancypants |
+| 65 | 6 | Kelly Christine Trimmer |
 | 66 | 5 | Tashamonique Puckey |
 | 67 | 5 | Allison Peterson |
 | 68 | 5 | Devon |
