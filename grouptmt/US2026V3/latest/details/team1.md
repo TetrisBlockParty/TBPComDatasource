@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 16:02:13 UTC
+# Standings for team1 as of 2026-06-05 16:02:36 UTC
 
 **Total Participants:** 267
 
@@ -100,55 +100,55 @@
 | 92 | 42 | Songne Arif |
 | 93 | 42 | sasha |
 | 94 | 41 | Jessica Russell |
-| 95 | 40 | Leavon Smith |
+| 95 | 40 | Flashy Slam |
 | 96 | 40 | Jean Regis |
-| 97 | 40 | Flashy Slam |
-| 98 | 38 | rls |
-| 99 | 38 | Kahliah Baker |
+| 97 | 40 | Leavon Smith |
+| 98 | 38 | Kahliah Baker |
+| 99 | 38 | rls |
 | 100 | 37 | Steve Reno |
-| 101 | 37 | Lootch |
-| 102 | 37 | IThinkNot |
-| 103 | 37 | Cranky Fall |
+| 101 | 37 | IThinkNot |
+| 102 | 37 | Cranky Fall |
+| 103 | 37 | JesusSaves 😇 |
 | 104 | 37 | Calvin Green |
-| 105 | 37 | JesusSaves 😇 |
-| 106 | 35 | Wacky Stackbuilder |
-| 107 | 35 | Saucy Crusher |
-| 108 | 35 | KoolKimJay |
-| 109 | 35 | Dandy Brickfit |
-| 110 | 35 | HBTone |
-| 111 | 35 | Lilly Brown |
-| 112 | 35 | Yashica Smith |
-| 113 | 33 | Chris Nelson |
-| 114 | 33 | Simone Bailey |
-| 115 | 33 | Mom3granny2 |
+| 105 | 37 | Lootch |
+| 106 | 35 | KoolKimJay |
+| 107 | 35 | Lilly Brown |
+| 108 | 35 | Yashica Smith |
+| 109 | 35 | HBTone |
+| 110 | 35 | Saucy Crusher |
+| 111 | 35 | Dandy Brickfit |
+| 112 | 35 | Wacky Stackbuilder |
+| 113 | 33 | Sashaleo |
+| 114 | 33 | Krose Byers |
+| 115 | 33 | Simone Bailey |
 | 116 | 33 | Block King |
-| 117 | 33 | Sashaleo |
-| 118 | 33 | Krose Byers |
-| 119 | 32 | Melvin Simpson |
+| 117 | 33 | Mom3granny2 |
+| 118 | 33 | Chris Nelson |
+| 119 | 32 | Tobey Marberry |
 | 120 | 32 | Christi Walker Patton |
-| 121 | 32 | Richard Flex |
-| 122 | 32 | Tobey Marberry |
-| 123 | 31 | Boldy Pivoty |
-| 124 | 31 | Miera Nicole |
-| 125 | 30 | Jack Vlasak |
-| 126 | 30 | Saucy Faller |
-| 127 | 30 | Kp |
+| 121 | 32 | Melvin Simpson |
+| 122 | 32 | Richard Flex |
+| 123 | 31 | Miera Nicole |
+| 124 | 31 | Boldy Pivoty |
+| 125 | 30 | Kristie |
+| 126 | 30 | Jack Vlasak |
+| 127 | 30 | Lester Malone |
 | 128 | 30 | Andi McGreevy |
-| 129 | 30 | Kristie |
-| 130 | 30 | Casey Chapman |
-| 131 | 30 | Lester Malone |
-| 132 | 30 | Sarah Guarino |
+| 129 | 30 | Sarah Guarino |
+| 130 | 30 | Saucy Faller |
+| 131 | 30 | Casey Chapman |
+| 132 | 30 | Kp |
 | 133 | 29 | Nerdy Snapfall |
 | 134 | 29 | hope |
-| 135 | 28 | Hasty Pivoty |
-| 136 | 28 | John Staub |
-| 137 | 28 | Jazzy Bridger |
-| 138 | 27 | Zany Breaker |
-| 139 | 27 | Mighty Dropper |
-| 140 | 27 | Charlene Baltimore |
-| 141 | 27 | Jae Thompson-Tyus |
-| 142 | 26 | Xrandomx |
-| 143 | 25 | Eric Mcgaughy |
+| 135 | 29 | Eric Mcgaughy |
+| 136 | 28 | Hasty Pivoty |
+| 137 | 28 | John Staub |
+| 138 | 28 | Jazzy Bridger |
+| 139 | 27 | Zany Breaker |
+| 140 | 27 | Mighty Dropper |
+| 141 | 27 | Charlene Baltimore |
+| 142 | 27 | Jae Thompson-Tyus |
+| 143 | 26 | Xrandomx |
 | 144 | 25 | Teresa Yanira Cepeda |
 | 145 | 25 | Kimmie Gargano |
 | 146 | 25 | Tony P Burke |

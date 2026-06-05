@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 16:02:13 UTC
+# Standings for team4 as of 2026-06-05 16:02:36 UTC
 
 **Total Participants:** 250
 
@@ -204,27 +204,27 @@
 | 196 | 11 | Gary Smallwood |
 | 197 | 11 | Marina |
 | 198 | 10 | Loony Edge |
-| 199 | 10 | Britney Kitora |
-| 200 | 10 | Brianne Stull |
-| 201 | 10 | Melissa Anne |
-| 202 | 10 | Lisa Jones |
-| 203 | 10 | Valerie Silva |
-| 204 | 10 | Buchanon Bossingup Jadrienne |
-| 205 | 10 | John Wertz |
-| 206 | 10 | Loopy Hitter |
-| 207 | 10 | Miguel Teixeira |
-| 208 | 10 | JP Chua |
-| 209 | 10 | Natalie Ohrtman Strand |
-| 210 | 10 | DanceAngel |
-| 211 | 10 | Lateasha Wildman |
-| 212 | 9 | Esmond Johnson IV |
-| 213 | 9 | Scrumptious |
-| 214 | 9 | Stotty |
-| 215 | 9 | DuvaDova Ahava |
-| 216 | 9 | Hotstuff |
-| 217 | 9 | Joshua Hunt |
-| 218 | 9 | Tana-Marie Lynn McCarty-Rolf |
-| 219 | 9 | Monte Smith |
+| 199 | 10 | Monte Smith |
+| 200 | 10 | Britney Kitora |
+| 201 | 10 | Brianne Stull |
+| 202 | 10 | Melissa Anne |
+| 203 | 10 | Lisa Jones |
+| 204 | 10 | Valerie Silva |
+| 205 | 10 | Buchanon Bossingup Jadrienne |
+| 206 | 10 | John Wertz |
+| 207 | 10 | Loopy Hitter |
+| 208 | 10 | Miguel Teixeira |
+| 209 | 10 | JP Chua |
+| 210 | 10 | Natalie Ohrtman Strand |
+| 211 | 10 | DanceAngel |
+| 212 | 10 | Lateasha Wildman |
+| 213 | 9 | Esmond Johnson IV |
+| 214 | 9 | Scrumptious |
+| 215 | 9 | Stotty |
+| 216 | 9 | DuvaDova Ahava |
+| 217 | 9 | Hotstuff |
+| 218 | 9 | Joshua Hunt |
+| 219 | 9 | Tana-Marie Lynn McCarty-Rolf |
 | 220 | 9 | Frothy Riseclear |
 | 221 | 9 | Angela Adamo-Tash |
 | 222 | 9 | Todd Hamilton |
