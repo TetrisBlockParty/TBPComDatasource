@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 13:11:12 UTC
+# Standings for team1 as of 2026-06-05 13:12:12 UTC
 
-**Total Participants:** 98
+**Total Participants:** 102
 
 ## Participant Scores
 
@@ -14,96 +14,100 @@
 | 6 | 313 | jaimie |
 | 7 | 303 | Brian Stackhouse |
 | 8 | 241 | Ivana Schmidt |
-| 9 | 177 | Chris Sladoje |
-| 10 | 170 | Janet Cooke |
-| 11 | 164 | Gotcha |
-| 12 | 144 | Tammye Turner |
+| 9 | 192 | Tammye Turner |
+| 10 | 177 | Chris Sladoje |
+| 11 | 170 | Janet Cooke |
+| 12 | 164 | Gotcha |
 | 13 | 141 | Debbie Carswell |
 | 14 | 126 | Cee Emm |
 | 15 | 99 | Kellie Hall |
-| 16 | 81 | Mafio SO |
-| 17 | 81 | Robyn Caldwell |
+| 16 | 81 | Robyn Caldwell |
+| 17 | 81 | Mafio SO |
 | 18 | 80 | Rachel Zimmerman |
 | 19 | 77 | Amber Wilson |
 | 20 | 74 | ♈️ Ariesbaby |
-| 21 | 67 | Michele Elizabeth McKay-Johnson |
-| 22 | 66 | Shontanese Adams |
-| 23 | 65 | Dizzy Dashy |
-| 24 | 65 | Shanell Thomas |
-| 25 | 63 | Carrie English |
-| 26 | 60 | Asani CHumba |
-| 27 | 50 | Jazzy Dashpiece |
-| 28 | 50 | Slinky Party |
-| 29 | 46 | SPNLover24 |
-| 30 | 43 | Block |
-| 31 | 42 | Frisky Fall |
-| 32 | 41 | Jessica Russell |
-| 33 | 40 | Leavon Smith |
-| 34 | 40 | Jean Regis |
-| 35 | 40 | Christian Pham |
+| 21 | 70 | Jazzy Dashpiece |
+| 22 | 67 | Michele Elizabeth McKay-Johnson |
+| 23 | 66 | Shontanese Adams |
+| 24 | 65 | Dizzy Dashy |
+| 25 | 65 | Shanell Thomas |
+| 26 | 63 | Carrie English |
+| 27 | 60 | Asani CHumba |
+| 28 | 60 | Christian Pham |
+| 29 | 50 | Slinky Party |
+| 30 | 46 | SPNLover24 |
+| 31 | 43 | Block |
+| 32 | 42 | Frisky Fall |
+| 33 | 41 | Jessica Russell |
+| 34 | 40 | Leavon Smith |
+| 35 | 40 | Jean Regis |
 | 36 | 40 | Lauraly |
 | 37 | 38 | rls |
 | 38 | 37 | Lootch |
 | 39 | 35 | Saucy Crusher |
-| 40 | 35 | Dai Bo |
-| 41 | 35 | KoolKimJay |
-| 42 | 35 | Lilly Brown |
+| 40 | 35 | Lilly Brown |
+| 41 | 35 | Dai Bo |
+| 42 | 35 | KoolKimJay |
 | 43 | 30 | Saucy Faller |
 | 44 | 30 | Lester Malone |
-| 45 | 28 | John Staub |
-| 46 | 27 | Charlene Baltimore |
-| 47 | 27 | Angela R Wilson |
-| 48 | 27 | Jae Thompson-Tyus |
+| 45 | 29 | Charnay Peacock |
+| 46 | 28 | John Staub |
+| 47 | 27 | Jae Thompson-Tyus |
+| 48 | 27 | Angela R Wilson |
 | 49 | 27 | Zany Breaker |
-| 50 | 25 | KenpachisGirl |
-| 51 | 25 | Tyrone Porter |
-| 52 | 23 | Poppy Twister |
-| 53 | 23 | Steve Reno |
-| 54 | 22 | Tanisha Taylor |
-| 55 | 21 | Brave Balanceblock |
-| 56 | 20 | Trina Greenwood |
-| 57 | 20 | Jai |
-| 58 | 19 | Shanjerrica Taylor Rosell |
-| 59 | 19 | Amanda Woodruff |
-| 60 | 19 | Brenda Malachi-butler |
+| 50 | 27 | Charlene Baltimore |
+| 51 | 26 | Steve Reno |
+| 52 | 25 | Tyrone Porter |
+| 53 | 25 | KenpachisGirl |
+| 54 | 23 | Poppy Twister |
+| 55 | 22 | Tanisha Taylor |
+| 56 | 21 | Yashica Smith |
+| 57 | 21 | Brave Balanceblock |
+| 58 | 20 | Chevalier Burley |
+| 59 | 20 | Jai |
+| 60 | 20 | Trina Greenwood |
 | 61 | 19 | Jenni |
-| 62 | 18 | Brian Bohanon II |
-| 63 | 18 | David Fuentes |
-| 64 | 18 | Tyree Tman Shinette |
+| 62 | 19 | Amanda Woodruff |
+| 63 | 19 | Shanjerrica Taylor Rosell |
+| 64 | 19 | Brenda Malachi-butler |
 | 65 | 18 | AleahKCH |
-| 66 | 17 | Kimberly Red |
-| 67 | 17 | Yashica Smith |
-| 68 | 17 | Rikki Moran |
-| 69 | 16 | Sylvia Offically A Mcgowan |
-| 70 | 15 | Una |
-| 71 | 15 | Ashley MyBeauty Daniels |
-| 72 | 15 | Tami Spence |
-| 73 | 14 | Hasty Pivoty |
-| 74 | 14 | Tobey Marberry |
-| 75 | 14 | Alyssa Rae |
-| 76 | 13 | Oaklonboy mike |
-| 77 | 12 | MsBobby Patrick |
-| 78 | 12 | Kimmie Gargano |
-| 79 | 11 | Desiree Ryder |
-| 80 | 10 | Megan Payette |
-| 81 | 10 | Daddy |
-| 82 | 10 | 신재호 |
-| 83 | 10 | Keke |
-| 84 | 10 | Sarah Marie |
-| 85 | 10 | Tishauna Virgo |
-| 86 | 9 | Kimberly Hernandez |
-| 87 | 9 | Tina Criam |
-| 88 | 9 | IThinkNot |
-| 89 | 8 | Boldy Pivoty |
-| 90 | 8 | Brika Brika |
-| 91 | 8 | Sammie Walker |
-| 92 | 7 | Kendra McIntyre |
-| 93 | 7 | Mary2 |
-| 94 | 6 | Janine Hunter |
-| 95 | 5 | Jennifer Moore |
-| 96 | 5 | Cheeky Pop |
-| 97 | 5 | Derek Beverly |
-| 98 | 5 | Shakmar |
+| 66 | 18 | Tyree Tman Shinette |
+| 67 | 18 | Brian Bohanon II |
+| 68 | 18 | David Fuentes |
+| 69 | 17 | Rikki Moran |
+| 70 | 17 | Kimberly Red |
+| 71 | 16 | Sylvia Offically A Mcgowan |
+| 72 | 15 | Hasty Pivoty |
+| 73 | 15 | Ashley MyBeauty Daniels |
+| 74 | 15 | Tami Spence |
+| 75 | 15 | Una |
+| 76 | 14 | Alyssa Rae |
+| 77 | 14 | David A Alvino |
+| 78 | 14 | Tobey Marberry |
+| 79 | 13 | Oaklonboy mike |
+| 80 | 12 | MsBobby Patrick |
+| 81 | 12 | Kimmie Gargano |
+| 82 | 11 | Desiree Ryder |
+| 83 | 10 | Sarah Marie |
+| 84 | 10 | Daddy |
+| 85 | 10 | 신재호 |
+| 86 | 10 | Keke |
+| 87 | 10 | Tishauna Virgo |
+| 88 | 10 | Megan Payette |
+| 89 | 9 | Kimberly Hernandez |
+| 90 | 9 | Tina Criam |
+| 91 | 9 | IThinkNot |
+| 92 | 8 | Boldy Pivoty |
+| 93 | 8 | Brika Brika |
+| 94 | 8 | Sammie Walker |
+| 95 | 7 | Kendra McIntyre |
+| 96 | 7 | Mary2 |
+| 97 | 6 | Janine Hunter |
+| 98 | 6 | Jayjay Rich |
+| 99 | 5 | Jennifer Moore |
+| 100 | 5 | Cheeky Pop |
+| 101 | 5 | Derek Beverly |
+| 102 | 5 | Shakmar |
 
 ---
 *Standings created by tournaments datasource generation tool*
