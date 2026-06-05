@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 22:44:14 UTC
+# Standings for team1 as of 2026-06-05 22:44:39 UTC
 
 **Total Participants:** 569
 
@@ -542,39 +542,39 @@
 | 534 | 6 | Janine Hunter |
 | 535 | 6 | Wacky Towerer |
 | 536 | 6 | Wu May |
-| 537 | 6 | Brittnay Wright |
-| 538 | 6 | Christopher Wallace |
+| 537 | 6 | Christopher Wallace |
+| 538 | 6 | Brittnay Wright |
 | 539 | 6 | Frances Davis |
 | 540 | 6 | Gael Quintana |
 | 541 | 6 | NEM0228 |
-| 542 | 5 | Chill Linkroll |
+| 542 | 5 | the guy |
 | 543 | 5 | Zappy Clearfit |
-| 544 | 5 | DirtiestofMikes |
-| 545 | 5 | Hasty Brickzone |
-| 546 | 5 | KeeKee Williams |
-| 547 | 5 | Temeshia Brooks Washington |
-| 548 | 5 | Rieshelda Marie White |
-| 549 | 5 | Lil T |
-| 550 | 5 | Saucy Linkgrid |
-| 551 | 5 | Derek Beverly |
-| 552 | 5 | Jasmine Hariston-Estis |
-| 553 | 5 | Duckey |
+| 544 | 5 | Chill Linkroll |
+| 545 | 5 | DirtiestofMikes |
+| 546 | 5 | Hasty Brickzone |
+| 547 | 5 | KeeKee Williams |
+| 548 | 5 | Temeshia Brooks Washington |
+| 549 | 5 | Rieshelda Marie White |
+| 550 | 5 | Lil T |
+| 551 | 5 | Saucy Linkgrid |
+| 552 | 5 | Derek Beverly |
+| 553 | 5 | Jasmine Hariston-Estis |
 | 554 | 5 | Stephanie Zuniga Tullock |
-| 555 | 5 | Kidgib5 |
-| 556 | 5 | the guy |
-| 557 | 5 | Logan Frost |
-| 558 | 5 | Tamika Fisher |
-| 559 | 5 | Andre Sanon |
-| 560 | 5 | Shawn Himes |
+| 555 | 5 | Shawn Himes |
+| 556 | 5 | Duckey |
+| 557 | 5 | Kidgib5 |
+| 558 | 5 | Logan Frost |
+| 559 | 5 | Tamika Fisher |
+| 560 | 5 | Andre Sanon |
 | 561 | 5 | Barbramerri Tarboro |
 | 562 | 5 | pooh |
-| 563 | 5 | Tito Divyn |
-| 564 | 5 | Vernon Hoyt |
-| 565 | 5 | Mommy Frank |
-| 566 | 5 | Quirky Fallgrid |
-| 567 | 5 | Shakuria Cortia Burney |
-| 568 | 5 | Jennifer Moore |
-| 569 | 5 | Jjhandsome |
+| 563 | 5 | Jjhandsome |
+| 564 | 5 | Tito Divyn |
+| 565 | 5 | Vernon Hoyt |
+| 566 | 5 | Mommy Frank |
+| 567 | 5 | Quirky Fallgrid |
+| 568 | 5 | Shakuria Cortia Burney |
+| 569 | 5 | Jennifer Moore |
 
 ---
 *Standings created by tournaments datasource generation tool*
