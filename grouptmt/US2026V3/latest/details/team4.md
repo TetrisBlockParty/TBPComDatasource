@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-06-05 12:08:36 UTC
+# Standings for team4 as of 2026-06-05 12:09:12 UTC
 
-**Total Participants:** 9
+**Total Participants:** 10
 
 ## Participant Scores
 
@@ -13,8 +13,9 @@
 | 5 | 24 | jojo |
 | 6 | 18 | Melissa Schwager |
 | 7 | 17 | Charity Thomas |
-| 8 | 10 | Shiny Brick |
-| 9 | 6 | Keesha Muro |
+| 8 | 16 | Lynn Grimes |
+| 9 | 10 | Shiny Brick |
+| 10 | 6 | Keesha Muro |
 
 ---
 *Standings created by tournaments datasource generation tool*
