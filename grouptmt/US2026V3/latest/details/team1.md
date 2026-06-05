@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 22:20:15 UTC
+# Standings for team1 as of 2026-06-05 22:20:37 UTC
 
 **Total Participants:** 555
 
@@ -22,12 +22,12 @@
 | 14 | 617 | Charnay Peacock |
 | 15 | 580 | Janet Cooke |
 | 16 | 576 | Ashley Espeut |
-| 17 | 540 | Kellie Hall |
-| 18 | 530 | Brian Stackhouse |
-| 19 | 485 | Whitney Butler |
-| 20 | 482 | Cj Gorman |
-| 21 | 480 | Jennifer To |
-| 22 | 474 | Jolly Dropzone |
+| 17 | 574 | Jolly Dropzone |
+| 18 | 540 | Kellie Hall |
+| 19 | 530 | Brian Stackhouse |
+| 20 | 485 | Whitney Butler |
+| 21 | 482 | Cj Gorman |
+| 22 | 480 | Jennifer To |
 | 23 | 439 | Holly Jolly |
 | 24 | 438 | Ryan Meilleur |
 | 25 | 431 | Hunter Rayborn |
@@ -69,8 +69,8 @@
 | 61 | 151 | Dacia Hicks |
 | 62 | 147 | MACHETEEDDIE513 |
 | 63 | 141 | Voice |
-| 64 | 140 | Ann Chung |
-| 65 | 140 | Felicia Cain |
+| 64 | 140 | Felicia Cain |
+| 65 | 140 | Ann Chung |
 | 66 | 140 | Sara Meri |
 | 67 | 138 | Eric Mcgaughy |
 | 68 | 137 | BlackQueen105 |
@@ -78,9 +78,9 @@
 | 70 | 135 | Jawaun Daniels |
 | 71 | 132 | Robyn Caldwell |
 | 72 | 131 | Jason Mungin |
-| 73 | 130 | Emily Wright |
+| 73 | 130 | Lashaunda |
 | 74 | 130 | Helen Smith |
-| 75 | 130 | Lashaunda |
+| 75 | 130 | Emily Wright |
 | 76 | 127 | SPNLover24 |
 | 77 | 126 | Cee Emm |
 | 78 | 121 | D'Andra Stewart |
@@ -96,35 +96,35 @@
 | 88 | 103 | David Fuentes |
 | 89 | 103 | KenpachisGirl |
 | 90 | 102 | Dawn L Washington-Feuquay |
-| 91 | 100 | Jessica Carter |
-| 92 | 100 | Zippy Lifter |
-| 93 | 100 | Cool Bridger |
-| 94 | 100 | Char |
-| 95 | 99 | 신재호 |
-| 96 | 99 | Amber Wilson |
-| 97 | 96 | Cortaz Lawrie |
-| 98 | 96 | Simone Bailey |
+| 91 | 100 | Cool Bridger |
+| 92 | 100 | Jessica Carter |
+| 93 | 100 | Char |
+| 94 | 100 | Zippy Lifter |
+| 95 | 99 | Amber Wilson |
+| 96 | 99 | 신재호 |
+| 97 | 96 | Simone Bailey |
+| 98 | 96 | Cortaz Lawrie |
 | 99 | 95 | Nate Myers |
 | 100 | 95 | Songne Arif |
 | 101 | 91 | Lesley Brunkus Cianfaglione |
 | 102 | 89 | Lively Riserpiece |
 | 103 | 88 | QueenShay AllGood |
 | 104 | 86 | Jack Vlasak |
-| 105 | 84 | Ciera Peace |
-| 106 | 84 | Franklin Sotelo |
+| 105 | 84 | Franklin Sotelo |
+| 106 | 84 | Ciera Peace |
 | 107 | 82 | Poppy Buildout |
-| 108 | 81 | Mafio SO |
-| 109 | 80 | Chevalier Burley |
-| 110 | 80 | Charles Johnson |
-| 111 | 80 | Felicia Williams |
-| 112 | 80 | Jamie Willis |
-| 113 | 80 | Nobles Brandon |
-| 114 | 80 | Rachel Zimmerman |
-| 115 | 80 | Jazzy Dashpiece |
-| 116 | 80 | Carolyn Smith |
-| 117 | 79 | Shanell Thomas |
-| 118 | 76 | Mic Balew |
-| 119 | 76 | Sarah Steckbauer |
+| 108 | 81 | Sarah Steckbauer |
+| 109 | 81 | Mafio SO |
+| 110 | 80 | Nobles Brandon |
+| 111 | 80 | Charles Johnson |
+| 112 | 80 | Carolyn Smith |
+| 113 | 80 | Chevalier Burley |
+| 114 | 80 | Jazzy Dashpiece |
+| 115 | 80 | Jamie Willis |
+| 116 | 80 | Rachel Zimmerman |
+| 117 | 80 | Felicia Williams |
+| 118 | 79 | Shanell Thomas |
+| 119 | 76 | Mic Balew |
 | 120 | 76 | Giggly Shatterline |
 | 121 | 75 | Dizzy Dashy |
 | 122 | 74 | ♈️ Ariesbaby |
@@ -136,38 +136,38 @@
 | 128 | 67 | The DUBZ |
 | 129 | 67 | Michele Elizabeth McKay-Johnson |
 | 130 | 66 | Shontanese Adams |
-| 131 | 65 | Latore Maxie |
-| 132 | 65 | MamaBear |
-| 133 | 65 | Jazzy Bridger |
+| 131 | 65 | MamaBear |
+| 132 | 65 | Jazzy Bridger |
+| 133 | 65 | Latore Maxie |
 | 134 | 63 | Tiana Moore |
 | 135 | 62 | rls |
 | 136 | 62 | Cheeky Pop |
 | 137 | 61 | Angela R Wilson |
-| 138 | 60 | Boldy Liner |
-| 139 | 60 | Queenie Perry |
-| 140 | 60 | Cachet A Ward |
-| 141 | 60 | CJ Robinson |
-| 142 | 60 | Melissa D. M. Hornsby |
-| 143 | 60 | Lilly Brown |
-| 144 | 60 | Christi Walker Patton |
-| 145 | 60 | Valerie Alexander |
-| 146 | 60 | Kristie |
-| 147 | 60 | Christian Pham |
-| 148 | 60 | Marcheta Cervantez |
+| 138 | 60 | CJ Robinson |
+| 139 | 60 | Lilly Brown |
+| 140 | 60 | Christi Walker Patton |
+| 141 | 60 | Valerie Alexander |
+| 142 | 60 | Kristie |
+| 143 | 60 | Queenie Perry |
+| 144 | 60 | Cachet A Ward |
+| 145 | 60 | Marcheta Cervantez |
+| 146 | 60 | Melissa D. M. Hornsby |
+| 147 | 60 | Boldy Liner |
+| 148 | 60 | Christian Pham |
 | 149 | 59 | Joana Thompson |
 | 150 | 59 | Lauraly |
-| 151 | 58 | Todd C. Clemens |
-| 152 | 58 | Tobey Marberry |
+| 151 | 58 | Tobey Marberry |
+| 152 | 58 | Todd C. Clemens |
 | 153 | 57 | Tosha Michelle |
 | 154 | 56 | Nichelle Warren |
 | 155 | 56 | Dena Marie Lee |
 | 156 | 55 | Yashica Smith |
-| 157 | 55 | KoolKimJay |
-| 158 | 55 | Kyle Franklin |
+| 157 | 55 | Kyle Franklin |
+| 158 | 55 | KoolKimJay |
 | 159 | 53 | Clever Wrecker |
-| 160 | 52 | Keke Ferguson |
-| 161 | 52 | Loopy Risepiece |
-| 162 | 52 | TT |
+| 160 | 52 | Loopy Risepiece |
+| 161 | 52 | TT |
+| 162 | 52 | Keke Ferguson |
 | 163 | 51 | Comedian Gdane |
 | 164 | 50 | Trina Greenwood |
 | 165 | 50 | BabyCakes |
@@ -546,21 +546,21 @@
 | 538 | 5 | DirtiestofMikes |
 | 539 | 5 | Chill Linkroll |
 | 540 | 5 | Kidgib5 |
-| 541 | 5 | Logan Frost |
-| 542 | 5 | Quirky Fallgrid |
-| 543 | 5 | Tamika Fisher |
-| 544 | 5 | Zappy Clearfit |
-| 545 | 5 | Tito Divyn |
-| 546 | 5 | Duckey |
+| 541 | 5 | Jennifer Moore |
+| 542 | 5 | Tamika Fisher |
+| 543 | 5 | Zappy Clearfit |
+| 544 | 5 | Tito Divyn |
+| 545 | 5 | Duckey |
+| 546 | 5 | Logan Frost |
 | 547 | 5 | Andre Sanon |
 | 548 | 5 | Barbramerri Tarboro |
-| 549 | 5 | pooh |
-| 550 | 5 | Jjhandsome |
-| 551 | 5 | Mommy Frank |
-| 552 | 5 | Shakuria Cortia Burney |
-| 553 | 5 | Vernon Hoyt |
-| 554 | 5 | the guy |
-| 555 | 5 | Jennifer Moore |
+| 549 | 5 | Jjhandsome |
+| 550 | 5 | Mommy Frank |
+| 551 | 5 | Shakuria Cortia Burney |
+| 552 | 5 | Vernon Hoyt |
+| 553 | 5 | the guy |
+| 554 | 5 | pooh |
+| 555 | 5 | Quirky Fallgrid |
 
 ---
 *Standings created by tournaments datasource generation tool*
