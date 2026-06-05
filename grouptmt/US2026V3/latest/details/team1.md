@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 21:28:15 UTC
+# Standings for team1 as of 2026-06-05 21:28:37 UTC
 
 **Total Participants:** 520
 
@@ -22,7 +22,7 @@
 | 14 | 572 | Ashley Espeut |
 | 15 | 540 | Kellie Hall |
 | 16 | 530 | Brian Stackhouse |
-| 17 | 499 | Epic Snapfall |
+| 17 | 501 | Epic Snapfall |
 | 18 | 485 | Whitney Butler |
 | 19 | 482 | Cj Gorman |
 | 20 | 438 | Ryan Meilleur |
@@ -161,31 +161,31 @@
 | 153 | 51 | Comedian Gdane |
 | 154 | 50 | Yazz |
 | 155 | 50 | Dai Bo |
-| 156 | 50 | Slinky Party |
-| 157 | 50 | Skippy |
+| 156 | 50 | Donna Payne |
+| 157 | 50 | Teresa Yanira Cepeda |
 | 158 | 50 | Antoinette Jones |
-| 159 | 50 | Teresa Yanira Cepeda |
-| 160 | 50 | Donna Payne |
+| 159 | 50 | Slinky Party |
+| 160 | 50 | Skippy |
 | 161 | 49 | LexiiSamayaa |
-| 162 | 48 | Sonia Binti Mfalme |
-| 163 | 48 | Comedian Prince Paul |
+| 162 | 48 | Comedian Prince Paul |
+| 163 | 48 | Sonia Binti Mfalme |
 | 164 | 47 | Poppy Twister |
-| 165 | 47 | Derrius SeriousLee Burks |
-| 166 | 47 | Christopher Dreamsareality McEachin |
+| 165 | 47 | Christopher Dreamsareality McEachin |
+| 166 | 47 | Derrius SeriousLee Burks |
 | 167 | 46 | David A Alvino |
-| 168 | 45 | Daris Swearington |
-| 169 | 45 | Renee J. Thomas |
-| 170 | 45 | BabyCakes |
-| 171 | 45 | Guy Incognito |
-| 172 | 45 | Slinky Clearzone |
+| 168 | 45 | BabyCakes |
+| 169 | 45 | Slinky Clearzone |
+| 170 | 45 | Guy Incognito |
+| 171 | 45 | Daris Swearington |
+| 172 | 45 | Renee J. Thomas |
 | 173 | 44 | Andi McGreevy |
-| 174 | 43 | Brittany Fells |
-| 175 | 43 | Brenda Malachi-butler |
-| 176 | 43 | Rachel Renae Bettis |
-| 177 | 43 | Block |
-| 178 | 43 | Byron Mario Cawthon |
-| 179 | 43 | IThinkNot |
-| 180 | 42 | Clever Wrecker |
+| 174 | 44 | Clever Wrecker |
+| 175 | 43 | Rachel Renae Bettis |
+| 176 | 43 | Brittany Fells |
+| 177 | 43 | Brenda Malachi-butler |
+| 178 | 43 | Block |
+| 179 | 43 | Byron Mario Cawthon |
+| 180 | 43 | IThinkNot |
 | 181 | 42 | Dandy Brickfit |
 | 182 | 42 | sasha |
 | 183 | 42 | Jack Mehof |
@@ -465,67 +465,67 @@
 | 457 | 9 | Sherry D Singleton |
 | 458 | 8 | Rixo Blax |
 | 459 | 8 | Ferocity |
-| 460 | 8 | Tanesha Ga'sFinest Corbett |
-| 461 | 8 | Cm |
-| 462 | 8 | Mahagony Small |
-| 463 | 8 | Manda Allen |
-| 464 | 8 | jus_ry |
-| 465 | 8 | Caitlin Michele |
+| 460 | 8 | Shawna Passwater |
+| 461 | 8 | Mahagony Small |
+| 462 | 8 | Manda Allen |
+| 463 | 8 | Cm |
+| 464 | 8 | Caitlin Michele |
+| 465 | 8 | Tanesha Ga'sFinest Corbett |
 | 466 | 8 | Nerdy Twistline |
-| 467 | 8 | Teresa Bean |
-| 468 | 8 | Brenda Brogden |
+| 467 | 8 | Ashley Davis |
+| 468 | 8 | Teresa Bean |
 | 469 | 8 | Terrie |
-| 470 | 8 | Brika Brika |
-| 471 | 8 | Shawna Passwater |
-| 472 | 8 | Ashley Davis |
-| 473 | 7 | Andrew Harris |
-| 474 | 7 | Analesia Taylor |
-| 475 | 7 | Mary2 |
-| 476 | 7 | Shane Brucewayne |
-| 477 | 7 | Kendra McIntyre |
+| 470 | 8 | Brenda Brogden |
+| 471 | 8 | jus_ry |
+| 472 | 8 | Brika Brika |
+| 473 | 7 | Analesia Taylor |
+| 474 | 7 | Kendra McIntyre |
+| 475 | 7 | Andrew Harris |
+| 476 | 7 | Mary2 |
+| 477 | 7 | Shane Brucewayne |
 | 478 | 7 | wmedina67 |
 | 479 | 7 | whatever |
-| 480 | 6 | Jeffrey Barrows |
-| 481 | 6 | Betsy B. Yohan |
-| 482 | 6 | Jelyfish |
+| 480 | 6 | Cece Fowler |
+| 481 | 6 | Janine Hunter |
+| 482 | 6 | Gael Quintana |
 | 483 | 6 | Boricua64 |
-| 484 | 6 | Gael Quintana |
-| 485 | 6 | Cece Fowler |
+| 484 | 6 | Jelyfish |
+| 485 | 6 | Jeffrey Barrows |
 | 486 | 6 | Daring Riserfit |
-| 487 | 6 | NEM0228 |
-| 488 | 6 | Frances Davis |
-| 489 | 6 | Wacky Towerer |
+| 487 | 6 | Wacky Towerer |
+| 488 | 6 | Allison Baxter |
+| 489 | 6 | Betsy B. Yohan |
 | 490 | 6 | Brittnay Wright |
-| 491 | 6 | Allison Baxter |
-| 492 | 6 | Christopher Wallace |
-| 493 | 6 | Wu May |
-| 494 | 6 | Janine Hunter |
-| 495 | 5 | Rieshelda Marie White |
-| 496 | 5 | Saucy Linkgrid |
-| 497 | 5 | KeeKee Williams |
-| 498 | 5 | Temeshia Brooks Washington |
-| 499 | 5 | Stephanie Zuniga Tullock |
-| 500 | 5 | Vernon Hoyt |
-| 501 | 5 | pooh |
-| 502 | 5 | the guy |
-| 503 | 5 | Jasmine Hariston-Estis |
-| 504 | 5 | Jjhandsome |
-| 505 | 5 | Derek Beverly |
-| 506 | 5 | Lil T |
-| 507 | 5 | DirtiestofMikes |
-| 508 | 5 | Kidgib5 |
-| 509 | 5 | Jennifer Moore |
-| 510 | 5 | Chill Linkroll |
-| 511 | 5 | Shakuria Cortia Burney |
-| 512 | 5 | Mommy Frank |
-| 513 | 5 | Tito Divyn |
-| 514 | 5 | Shawn Himes |
-| 515 | 5 | Tamika Fisher |
-| 516 | 5 | Zappy Clearfit |
-| 517 | 5 | Kelvin Cook |
-| 518 | 5 | Logan Frost |
-| 519 | 5 | Andre Sanon |
-| 520 | 5 | Barbramerri Tarboro |
+| 491 | 6 | Wu May |
+| 492 | 6 | NEM0228 |
+| 493 | 6 | Frances Davis |
+| 494 | 6 | Christopher Wallace |
+| 495 | 5 | KeeKee Williams |
+| 496 | 5 | Kidgib5 |
+| 497 | 5 | DirtiestofMikes |
+| 498 | 5 | Lil T |
+| 499 | 5 | Derek Beverly |
+| 500 | 5 | Rieshelda Marie White |
+| 501 | 5 | Saucy Linkgrid |
+| 502 | 5 | Shawn Himes |
+| 503 | 5 | Temeshia Brooks Washington |
+| 504 | 5 | Jasmine Hariston-Estis |
+| 505 | 5 | Tito Divyn |
+| 506 | 5 | Stephanie Zuniga Tullock |
+| 507 | 5 | Chill Linkroll |
+| 508 | 5 | Tamika Fisher |
+| 509 | 5 | Zappy Clearfit |
+| 510 | 5 | Kelvin Cook |
+| 511 | 5 | Logan Frost |
+| 512 | 5 | Andre Sanon |
+| 513 | 5 | Mommy Frank |
+| 514 | 5 | Barbramerri Tarboro |
+| 515 | 5 | pooh |
+| 516 | 5 | Jjhandsome |
+| 517 | 5 | Shakuria Cortia Burney |
+| 518 | 5 | the guy |
+| 519 | 5 | Vernon Hoyt |
+| 520 | 5 | Jennifer Moore |
 
 ---
 *Standings created by tournaments datasource generation tool*
