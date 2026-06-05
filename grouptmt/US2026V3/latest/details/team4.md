@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 13:32:12 UTC
+# Standings for team4 as of 2026-06-05 13:32:35 UTC
 
 **Total Participants:** 96
 
@@ -12,7 +12,7 @@
 | 4 | 700 | Carly Stempien |
 | 5 | 559 | Lynn Grimes |
 | 6 | 260 | Chaz Duncan |
-| 7 | 200 | Kathy Brookins |
+| 7 | 220 | Kathy Brookins |
 | 8 | 174 | Heather Preston |
 | 9 | 148 | Colin |
 | 10 | 123 | Kim |
@@ -24,8 +24,8 @@
 | 16 | 78 | Tawna Curry |
 | 17 | 75 | June Hoffman |
 | 18 | 74 | Snippy Grid |
-| 19 | 71 | Justin Michael |
-| 20 | 71 | Chris Covington |
+| 19 | 71 | Chris Covington |
+| 20 | 71 | Justin Michael |
 | 21 | 70 | Janae Harris |
 | 22 | 60 | Blockcrusher |
 | 23 | 60 | Fran Aaron-Ring |
@@ -42,9 +42,9 @@
 | 34 | 35 | Tactical_B |
 | 35 | 34 | jojo |
 | 36 | 33 | Lul Babie |
-| 37 | 30 | Will E Ayala |
-| 38 | 30 | Jasmine Marie |
-| 39 | 30 | Sarah Berry Stevens |
+| 37 | 31 | Jasmine Marie |
+| 38 | 30 | Sarah Berry Stevens |
+| 39 | 30 | Will E Ayala |
 | 40 | 28 | Sandra O'Reilly |
 | 41 | 28 | Laurie Patrick |
 | 42 | 28 | Melissa Schwager |
@@ -52,36 +52,36 @@
 | 44 | 25 | Andrea Dre Lomeli |
 | 45 | 25 | Маркус Вік |
 | 46 | 24 | smarty |
-| 47 | 23 | Stasia |
+| 47 | 23 | Melissa Quinn |
 | 48 | 23 | Zippy Snaplink |
-| 49 | 23 | Melissa Quinn |
+| 49 | 23 | Stasia |
 | 50 | 22 | Saul Fajardo |
-| 51 | 21 | Playa |
+| 51 | 22 | Luna |
 | 52 | 21 | Keesha Muro |
-| 53 | 20 | Betsy Froemming |
-| 54 | 20 | Magz |
-| 55 | 20 | Erica Pompey |
-| 56 | 20 | Mexican130 |
-| 57 | 19 | Swanky Matchfit |
+| 53 | 21 | Playa |
+| 54 | 20 | Erica Pompey |
+| 55 | 20 | Magz |
+| 56 | 20 | Betsy Froemming |
+| 57 | 20 | Mexican130 |
 | 58 | 19 | Becky McCool |
-| 59 | 18 | Iforget |
-| 60 | 17 | Breezy Blockzone |
-| 61 | 15 | Hasty Dropzone |
-| 62 | 15 | Joshua Garner |
-| 63 | 15 | Jonelle Jacobs |
-| 64 | 15 | Perry Ransom |
-| 65 | 14 | Nancy McCalla Abercrombie |
+| 59 | 19 | Swanky Matchfit |
+| 60 | 18 | Iforget |
+| 61 | 17 | Breezy Blockzone |
+| 62 | 15 | Hasty Dropzone |
+| 63 | 15 | Joshua Garner |
+| 64 | 15 | Jonelle Jacobs |
+| 65 | 15 | Perry Ransom |
 | 66 | 14 | Nicole Colby McCloskey |
-| 67 | 14 | Luna |
-| 68 | 13 | Karen Rodriguez |
-| 69 | 13 | Catherine Garza |
+| 67 | 14 | Nancy McCalla Abercrombie |
+| 68 | 13 | Catherine Garza |
+| 69 | 13 | Karen Rodriguez |
 | 70 | 13 | Cherry |
 | 71 | 12 | Alizabeth Garcia |
 | 72 | 12 | Fancy Tilefall |
 | 73 | 11 | Samara Garcia |
 | 74 | 10 | Lateasha Wildman |
-| 75 | 10 | Miguel Teixeira |
-| 76 | 10 | Buchanon Bossingup Jadrienne |
+| 75 | 10 | Buchanon Bossingup Jadrienne |
+| 76 | 10 | Miguel Teixeira |
 | 77 | 10 | JP Chua |
 | 78 | 9 | Hotstuff |
 | 79 | 9 | Esmond Johnson IV |

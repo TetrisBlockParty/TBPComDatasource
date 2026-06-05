@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:32:12 UTC
+# Standings for team1 as of 2026-06-05 13:32:35 UTC
 
 **Total Participants:** 113
 
@@ -53,13 +53,13 @@
 | 45 | 35 | Lilly Brown |
 | 46 | 35 | Dai Bo |
 | 47 | 32 | Tobey Marberry |
-| 48 | 30 | Yashica Smith |
+| 48 | 31 | Yashica Smith |
 | 49 | 30 | Saucy Faller |
-| 50 | 30 | Cheeky Pop |
-| 51 | 30 | Lester Malone |
-| 52 | 30 | Brian Bohanon II |
-| 53 | 28 | John Staub |
-| 54 | 28 | Casey Chapman |
+| 50 | 30 | Casey Chapman |
+| 51 | 30 | Cheeky Pop |
+| 52 | 30 | Lester Malone |
+| 53 | 30 | Brian Bohanon II |
+| 54 | 28 | John Staub |
 | 55 | 27 | Zany Breaker |
 | 56 | 27 | Angela R Wilson |
 | 57 | 27 | Charlene Baltimore |
