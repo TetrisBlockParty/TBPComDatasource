@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 14:00:14 UTC
+# Standings for team4 as of 2026-06-05 14:00:35 UTC
 
 **Total Participants:** 119
 
@@ -17,11 +17,11 @@
 | 9 | 174 | Heather Preston |
 | 10 | 150 | Daring Ziggy |
 | 11 | 148 | Colin |
-| 12 | 134 | Lisa Cullum |
-| 13 | 129 | Kim |
-| 14 | 121 | Ryan Paul Clark-Ramsey |
-| 15 | 107 | Shayna Vaigneur-Hall |
-| 16 | 101 | Giggy Matchpiece |
+| 12 | 141 | Giggy Matchpiece |
+| 13 | 134 | Lisa Cullum |
+| 14 | 129 | Kim |
+| 15 | 121 | Ryan Paul Clark-Ramsey |
+| 16 | 107 | Shayna Vaigneur-Hall |
 | 17 | 95 | Gloria Nunley Trussell |
 | 18 | 92 | Snippy Grid |
 | 19 | 87 | Danny Ortiz |

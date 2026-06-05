@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-05 14:00:14 UTC
+# Standings for team3 as of 2026-06-05 14:00:35 UTC
 
 **Total Participants:** 339
 
@@ -20,16 +20,16 @@
 | 12 | 400 | Bee |
 | 13 | 400 | Teresa Jensen |
 | 14 | 374 | Sneaky Pete |
-| 15 | 367 | Edda-Jo Wenneman Dobbs |
-| 16 | 367 | allie |
+| 15 | 367 | allie |
+| 16 | 367 | Edda-Jo Wenneman Dobbs |
 | 17 | 356 | THEMAN |
 | 18 | 320 | Mitchell Johnson |
 | 19 | 310 | Timothy Long |
 | 20 | 260 | Terese Hurst |
 | 21 | 229 | Raymond J Turnbull |
 | 22 | 207 | Shiny Towerzone |
-| 23 | 200 | Alo |
-| 24 | 200 | AL Ferrari |
+| 23 | 200 | AL Ferrari |
+| 24 | 200 | Alo |
 | 25 | 176 | Dapper Patternline |
 | 26 | 175 | kendra |
 | 27 | 160 | Woodrow Weatherford |
@@ -201,117 +201,117 @@
 | 193 | 20 | Scott Martinson |
 | 194 | 20 | Teresa Jackson |
 | 195 | 20 | Thearen |
-| 196 | 20 | Kandy McDaniel |
-| 197 | 20 | Icekube83 |
-| 198 | 20 | En Zo |
-| 199 | 20 | Tiffany Nelson |
-| 200 | 20 | Julie Davis |
-| 201 | 20 | Poppy Clearer |
-| 202 | 20 | Alyssa Sauceda |
-| 203 | 20 | Dominique Barrios Esponge |
-| 204 | 20 | David Glisson |
-| 205 | 20 | Cheery Wipepiece |
-| 206 | 20 | Matt Cox |
-| 207 | 20 | dashatrill |
-| 208 | 20 | Jarrell Sanders |
-| 209 | 20 | Trella Trella |
-| 210 | 20 | Kimm Fulmer |
-| 211 | 20 | Witty Combofall |
-| 212 | 20 | Adam Esparza |
-| 213 | 20 | Adam Kerley |
-| 214 | 19 | Randi LeSueur |
-| 215 | 19 | Ashley Dilsaver |
-| 216 | 19 | Zippy Slider |
-| 217 | 19 | Lisa Mankin |
+| 196 | 20 | Cheery Wipepiece |
+| 197 | 20 | Adam Kerley |
+| 198 | 20 | dashatrill |
+| 199 | 20 | Icekube83 |
+| 200 | 20 | En Zo |
+| 201 | 20 | Tiffany Nelson |
+| 202 | 20 | Julie Davis |
+| 203 | 20 | Poppy Clearer |
+| 204 | 20 | Alyssa Sauceda |
+| 205 | 20 | Dominique Barrios Esponge |
+| 206 | 20 | Kandy McDaniel |
+| 207 | 20 | David Glisson |
+| 208 | 20 | Matt Cox |
+| 209 | 20 | Jarrell Sanders |
+| 210 | 20 | Trella Trella |
+| 211 | 20 | Adam Esparza |
+| 212 | 20 | Kimm Fulmer |
+| 213 | 20 | Witty Combofall |
+| 214 | 19 | Unicorn0723 |
+| 215 | 19 | Randi LeSueur |
+| 216 | 19 | Ashley Dilsaver |
+| 217 | 19 | Zippy Slider |
 | 218 | 19 | Colt Wilson |
-| 219 | 19 | Unicorn0723 |
-| 220 | 19 | Goofy Matchclear |
+| 219 | 19 | Goofy Matchclear |
+| 220 | 19 | Lisa Mankin |
 | 221 | 18 | Justina Harris |
 | 222 | 18 | ToxicTrinity |
 | 223 | 18 | Alison Gomes |
 | 224 | 18 | Shiny Dasher |
-| 225 | 18 | Nathan Gould |
-| 226 | 18 | Crazin Kray |
+| 225 | 18 | Hockey mom |
+| 226 | 18 | Nathan Gould |
 | 227 | 18 | Kyle Thompson |
-| 228 | 17 | Pedro Za |
-| 229 | 17 | Manda Mumea |
-| 230 | 17 | Carol Bath |
-| 231 | 17 | Amanda Declue |
-| 232 | 17 | Plop |
-| 233 | 17 | Paul Larsen |
-| 234 | 17 | Chirpy Splitter |
-| 235 | 16 | Chyna Rochelle |
-| 236 | 16 | Giddy Shift |
-| 237 | 16 | Stephanie M Dabson |
-| 238 | 16 | Hockey mom |
-| 239 | 16 | Jolly Stackzone |
-| 240 | 16 | goatese |
-| 241 | 16 | Shylock Therrien |
+| 228 | 18 | Crazin Kray |
+| 229 | 17 | Pedro Za |
+| 230 | 17 | Amanda Declue |
+| 231 | 17 | Plop |
+| 232 | 17 | Carol Bath |
+| 233 | 17 | Manda Mumea |
+| 234 | 17 | Paul Larsen |
+| 235 | 17 | Chirpy Splitter |
+| 236 | 16 | Shylock Therrien |
+| 237 | 16 | Chyna Rochelle |
+| 238 | 16 | Stephanie M Dabson |
+| 239 | 16 | goatese |
+| 240 | 16 | Giddy Shift |
+| 241 | 16 | Jolly Stackzone |
 | 242 | 16 | Cyndi Pena |
-| 243 | 15 | Brandy Painter |
-| 244 | 15 | Shawn Shilling |
-| 245 | 15 | Andrea Dyer |
-| 246 | 15 | Melinda Flugga |
-| 247 | 15 | Tim Hambly |
-| 248 | 15 | Tytin |
-| 249 | 15 | Minxy |
-| 250 | 15 | Joanna Johnson |
-| 251 | 15 | Quirky Curve |
-| 252 | 15 | kittensden |
-| 253 | 15 | Breanna Stenberg |
-| 254 | 14 | Briana Lowell |
-| 255 | 14 | Daring Demolitionist |
+| 243 | 15 | Melinda Flugga |
+| 244 | 15 | Tim Hambly |
+| 245 | 15 | Joanna Johnson |
+| 246 | 15 | Andrea Dyer |
+| 247 | 15 | Brandy Painter |
+| 248 | 15 | Shawn Shilling |
+| 249 | 15 | Quirky Curve |
+| 250 | 15 | kittensden |
+| 251 | 15 | Breanna Stenberg |
+| 252 | 15 | Brandi Thomas-Scott |
+| 253 | 15 | Minxy |
+| 254 | 15 | Tytin |
+| 255 | 14 | Sara Pederson |
 | 256 | 14 | Jolly Twister |
-| 257 | 14 | Christopher Taco Tobin |
+| 257 | 14 | Eric Hanson |
 | 258 | 14 | Deandre Comer |
-| 259 | 14 | Eric Hanson |
-| 260 | 14 | Brandi Thomas-Scott |
-| 261 | 14 | j2swazy |
-| 262 | 14 | Sara Pederson |
-| 263 | 13 | Raven Rogue |
-| 264 | 13 | Bellawells |
-| 265 | 13 | Sunny Days |
-| 266 | 13 | DShark72 |
-| 267 | 12 | Lindsey May |
-| 268 | 12 | Violet |
-| 269 | 12 | blockbusterr |
+| 259 | 14 | j2swazy |
+| 260 | 14 | Briana Lowell |
+| 261 | 14 | Daring Demolitionist |
+| 262 | 14 | Christopher Taco Tobin |
+| 263 | 13 | Bellawells |
+| 264 | 13 | Raven Rogue |
+| 265 | 13 | DShark72 |
+| 266 | 13 | Sunny Days |
+| 267 | 12 | Wacky Catcher |
+| 268 | 12 | Jonathan Russell |
+| 269 | 12 | Nonni |
 | 270 | 12 | Robby Beltran |
-| 271 | 12 | Jonathan Russell |
-| 272 | 12 | Wacky Catcher |
-| 273 | 12 | Nonni |
+| 271 | 12 | blockbusterr |
+| 272 | 12 | Lindsey May |
+| 273 | 12 | Violet |
 | 274 | 12 | Evelyn Richardson |
 | 275 | 12 | Sunny Snapline |
 | 276 | 12 | Jwatt |
-| 277 | 12 | Eli k |
-| 278 | 12 | Loopy Shatterblock |
-| 279 | 12 | Mel Murr |
+| 277 | 12 | Mel Murr |
+| 278 | 12 | Eli k |
+| 279 | 12 | Loopy Shatterblock |
 | 280 | 12 | Jessica Baskins |
-| 281 | 11 | Mallory Brown |
-| 282 | 11 | MISnM |
-| 283 | 11 | Happy Balancer |
-| 284 | 11 | Carrie Ness |
-| 285 | 10 | Sheri Read |
-| 286 | 10 | Danny Gooch |
-| 287 | 10 | Shelbybaby2 |
-| 288 | 10 | TGROOVE |
-| 289 | 10 | Los gonnies |
-| 290 | 10 | Shabae |
+| 281 | 11 | Carrie Ness |
+| 282 | 11 | Happy Balancer |
+| 283 | 11 | MISnM |
+| 284 | 11 | Mallory Brown |
+| 285 | 10 | Shabae |
+| 286 | 10 | TGROOVE |
+| 287 | 10 | Danny Gooch |
+| 288 | 10 | Stacy Manchester |
+| 289 | 10 | Shelbybaby2 |
+| 290 | 10 | Los gonnies |
 | 291 | 10 | Casey Kincheloe |
 | 292 | 10 | Derek Burgess |
-| 293 | 10 | Jacqueline Muellerleile |
-| 294 | 10 | Jenni Torres |
-| 295 | 10 | Stacy Manchester |
+| 293 | 10 | Jenni Torres |
+| 294 | 10 | Jacqueline Muellerleile |
+| 295 | 10 | Sheri Read |
 | 296 | 9 | Jess Jess |
-| 297 | 9 | Tracy Fuller |
-| 298 | 9 | Natasha Silva |
-| 299 | 9 | Q |
-| 300 | 9 | Sea Shell Chaser |
+| 297 | 9 | Hiya |
+| 298 | 9 | Sarah Cruthirds |
+| 299 | 9 | Gigi Brady |
+| 300 | 9 | Tnaughty |
 | 301 | 9 | Salky |
-| 302 | 9 | Gigi Brady |
-| 303 | 9 | Tnaughty |
+| 302 | 9 | Q |
+| 303 | 9 | Sea Shell Chaser |
 | 304 | 9 | Angie Rodriguez |
-| 305 | 9 | Sarah Cruthirds |
-| 306 | 9 | Hiya |
+| 305 | 9 | Natasha Silva |
+| 306 | 9 | Tracy Fuller |
 | 307 | 8 | Tony Pridmore |
 | 308 | 8 | Glitzy Tilt |
 | 309 | 8 | Funky Pivoty |
