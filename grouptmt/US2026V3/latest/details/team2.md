@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-05 13:28:35 UTC
+# Standings for team2 as of 2026-06-05 13:29:12 UTC
 
-**Total Participants:** 94
+**Total Participants:** 95
 
 ## Participant Scores
 
@@ -31,75 +31,76 @@
 | 23 | 44 | Zaniya Brown |
 | 24 | 42 | Rick |
 | 25 | 42 | Henny Henny |
-| 26 | 40 | Kevin Mccoy |
-| 27 | 40 | Bon Lynn |
+| 26 | 40 | Bon Lynn |
+| 27 | 40 | Kevin Mccoy |
 | 28 | 39 | Jessica Perkins |
 | 29 | 38 | Harper |
-| 30 | 37 | Chipper Stackbuilder |
-| 31 | 37 | Jumpy Dashpiece |
+| 30 | 37 | Jumpy Dashpiece |
+| 31 | 37 | Chipper Stackbuilder |
 | 32 | 35 | Jason Cunningham |
 | 33 | 33 | Tango Sierra |
 | 34 | 31 | Kenzie |
-| 35 | 30 | Peter Fogg |
-| 36 | 30 | Patti Ward |
+| 35 | 30 | Patti Ward |
+| 36 | 30 | Peter Fogg |
 | 37 | 28 | Sara BlueEyes |
 | 38 | 28 | Nathan Walker |
 | 39 | 27 | Michael Carmichael |
-| 40 | 26 | Rachel Huber |
-| 41 | 26 | Quina Jesse Fejaran |
-| 42 | 26 | Ariel Gundersen |
+| 40 | 26 | Quina Jesse Fejaran |
+| 41 | 26 | Ariel Gundersen |
+| 42 | 26 | Rachel Huber |
 | 43 | 25 | James Ward |
 | 44 | 25 | Jgato |
-| 45 | 24 | A.j. Langley |
-| 46 | 24 | Dayna Messer-Thelen |
+| 45 | 24 | Dayna Messer-Thelen |
+| 46 | 24 | A.j. Langley |
 | 47 | 23 | Damion Morrison |
-| 48 | 23 | Brittni Lawrence |
-| 49 | 23 | IncrediDragon |
-| 50 | 22 | Andre Love |
-| 51 | 22 | Jeff Pottgether |
+| 48 | 23 | IncrediDragon |
+| 49 | 23 | Brittni Lawrence |
+| 50 | 22 | Jeff Pottgether |
+| 51 | 22 | Andre Love |
 | 52 | 21 | Kelly |
-| 53 | 20 | AcardBoardBox |
-| 54 | 20 | ChefDeb |
-| 55 | 20 | Wendy McKee |
-| 56 | 20 | Chesney |
+| 53 | 20 | Wendy McKee |
+| 54 | 20 | Chesney |
+| 55 | 20 | AcardBoardBox |
+| 56 | 20 | ChefDeb |
 | 57 | 19 | Steven Craig |
-| 58 | 18 | Tracey Cox |
-| 59 | 18 | Justin Stark |
+| 58 | 18 | Justin Stark |
+| 59 | 18 | Tracey Cox |
 | 60 | 16 | Sarah Jane Gorsuch |
 | 61 | 14 | Funway998 |
-| 62 | 12 | Chirpy Grid |
-| 63 | 12 | Diamond Balotje |
-| 64 | 12 | Stacey Loretta Wallace |
-| 65 | 12 | Mary |
-| 66 | 11 | Thy Bui |
-| 67 | 11 | Sara Perkins |
+| 62 | 12 | Mary |
+| 63 | 12 | Stacey Loretta Wallace |
+| 64 | 12 | Diamond Balotje |
+| 65 | 12 | Chirpy Grid |
+| 66 | 11 | Lora Via |
+| 67 | 11 | Thy Bui |
 | 68 | 11 | Yany |
-| 69 | 11 | Lora Via |
+| 69 | 11 | Sara Perkins |
 | 70 | 10 | Twisty Snapmatch |
 | 71 | 10 | Thomas Johnstone |
-| 72 | 10 | Joyce Galloway |
-| 73 | 10 | Berta Hurley |
-| 74 | 10 | Donna Casey |
-| 75 | 10 | Jennifer Bell |
-| 76 | 10 | Justin Furne |
-| 77 | 10 | Gill |
-| 78 | 9 | Giggly Spinblock |
-| 79 | 9 | Rhonda Driskill |
-| 80 | 9 | Princess Cucumber |
-| 81 | 9 | Mama G |
-| 82 | 9 | Darla Ragsdale |
-| 83 | 8 | Renee Weedling |
-| 84 | 8 | Stephanie |
-| 85 | 7 | nova |
-| 86 | 7 | Elizabeth Elaine Coursey |
+| 72 | 10 | Berta Hurley |
+| 73 | 10 | Donna Casey |
+| 74 | 10 | Justin Furne |
+| 75 | 10 | Carlos J Blas |
+| 76 | 10 | Jennifer Bell |
+| 77 | 10 | Joyce Galloway |
+| 78 | 10 | Gill |
+| 79 | 9 | Darla Ragsdale |
+| 80 | 9 | Mama G |
+| 81 | 9 | Princess Cucumber |
+| 82 | 9 | Giggly Spinblock |
+| 83 | 9 | Rhonda Driskill |
+| 84 | 8 | Renee Weedling |
+| 85 | 8 | Stephanie |
+| 86 | 7 | Epic Framezone |
 | 87 | 7 | Cherica Taylor |
-| 88 | 7 | Epic Framezone |
-| 89 | 6 | fancypants |
-| 90 | 6 | Kelly Christine Trimmer |
-| 91 | 6 | Nicole |
-| 92 | 5 | Allison Peterson |
+| 88 | 7 | Elizabeth Elaine Coursey |
+| 89 | 7 | nova |
+| 90 | 6 | fancypants |
+| 91 | 6 | Kelly Christine Trimmer |
+| 92 | 6 | Nicole |
 | 93 | 5 | Tashamonique Puckey |
 | 94 | 5 | Devon |
+| 95 | 5 | Allison Peterson |
 
 ---
 *Standings created by tournaments datasource generation tool*
