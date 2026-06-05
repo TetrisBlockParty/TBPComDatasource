@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 23:02:14 UTC
+# Standings for team4 as of 2026-06-05 23:02:37 UTC
 
 **Total Participants:** 534
 
@@ -49,16 +49,16 @@
 | 41 | 333 | Alexandria Frazier |
 | 42 | 331 | Caitlyn Wang |
 | 43 | 330 | Jewelz |
-| 44 | 247 | Jesse Olive |
+| 44 | 253 | Jesse Olive |
 | 45 | 241 | Giggy Matchpiece |
 | 46 | 240 | Jojo Ann |
 | 47 | 240 | Michele Walker |
 | 48 | 232 | Charlie Lewis |
-| 49 | 214 | Sisi RedVelvet Reneè |
+| 49 | 216 | Sisi RedVelvet Reneè |
 | 50 | 214 | Melissa WC |
 | 51 | 211 | Phil Peterson |
-| 52 | 203 | Andrew Dang |
-| 53 | 203 | Patrick Alley |
+| 52 | 203 | Patrick Alley |
+| 53 | 203 | Andrew Dang |
 | 54 | 200 | Leah Gorsuch |
 | 55 | 192 | Renee Sapp |
 | 56 | 184 | Giggly Tilt |
@@ -93,35 +93,35 @@
 | 85 | 104 | Tawna Curry |
 | 86 | 102 | Lisa Garcia |
 | 87 | 101 | Lush Fitblock |
-| 88 | 100 | woopa 716 |
-| 89 | 100 | CorieBe |
-| 90 | 100 | Cal Renee |
+| 88 | 100 | CorieBe |
+| 89 | 100 | Cal Renee |
+| 90 | 100 | woopa 716 |
 | 91 | 99 | Shelby |
 | 92 | 99 | Simone |
 | 93 | 99 | Lani |
 | 94 | 96 | Alyson M Kehler |
-| 95 | 95 | Маркус Вік |
-| 96 | 95 | Daryn Elliott |
+| 95 | 95 | Daryn Elliott |
+| 96 | 95 | Маркус Вік |
 | 97 | 93 | Joab Gonzalez |
 | 98 | 93 | farfromlocal |
-| 99 | 91 | Dominique Melendez |
-| 100 | 91 | JuicyJuice |
-| 101 | 91 | Dayna Arthurs |
-| 102 | 90 | Quiomarie Cotto |
-| 103 | 89 | Waxboss |
-| 104 | 88 | Loony Rotater |
+| 99 | 92 | Homie |
+| 100 | 91 | Dominique Melendez |
+| 101 | 91 | JuicyJuice |
+| 102 | 91 | Dayna Arthurs |
+| 103 | 90 | Quiomarie Cotto |
+| 104 | 89 | Waxboss |
 | 105 | 88 | Laguya |
-| 106 | 87 | Limbo |
-| 107 | 86 | gabs |
-| 108 | 86 | Rachel Lemos |
-| 109 | 84 | Slimm |
-| 110 | 84 | Hwanger Land |
-| 111 | 84 | Rae Saunders |
-| 112 | 84 | Homie |
+| 106 | 88 | Loony Rotater |
+| 107 | 87 | Limbo |
+| 108 | 86 | gabs |
+| 109 | 86 | Rachel Lemos |
+| 110 | 84 | Slimm |
+| 111 | 84 | Hwanger Land |
+| 112 | 84 | Rae Saunders |
 | 113 | 84 | No Time |
-| 114 | 83 | Chiquita Blue |
-| 115 | 83 | Tiffany Loree Tiffany Oneill |
-| 116 | 83 | MrLoner Stoner |
+| 114 | 83 | MrLoner Stoner |
+| 115 | 83 | Chiquita Blue |
+| 116 | 83 | Tiffany Loree Tiffany Oneill |
 | 117 | 82 | Codey Haffner |
 | 118 | 82 | Luna |
 | 119 | 81 | Taz |
@@ -174,14 +174,14 @@
 | 166 | 59 | Paula Renee McCracken |
 | 167 | 58 | Jenn Fitzgerald |
 | 168 | 58 | Tammy June |
-| 169 | 57 | Cindy |
-| 170 | 57 | BusterBear56 |
-| 171 | 57 | Noa Lee |
-| 172 | 56 | Bre Dee |
-| 173 | 55 | Cherry |
-| 174 | 54 | Playa |
-| 175 | 54 | Ricardo Arias |
-| 176 | 54 | Jennifer Fisher Franklin |
+| 169 | 58 | Jennifer Fisher Franklin |
+| 170 | 57 | Cindy |
+| 171 | 57 | BusterBear56 |
+| 172 | 57 | Noa Lee |
+| 173 | 56 | Bre Dee |
+| 174 | 55 | Cherry |
+| 175 | 54 | Playa |
+| 176 | 54 | Ricardo Arias |
 | 177 | 52 | Jj Johnson |
 | 178 | 51 | Amanda Snow |
 | 179 | 51 | Scamp Jones |
@@ -266,35 +266,35 @@
 | 258 | 34 | Butterpat |
 | 259 | 34 | Tricia Motika Cowan |
 | 260 | 34 | Loopy Hitter |
-| 261 | 34 | Solace Grace |
-| 262 | 34 | matt |
-| 263 | 33 | Rose Anna Safi |
-| 264 | 33 | Jackie Lucas |
+| 261 | 34 | matt |
+| 262 | 34 | Solace Grace |
+| 263 | 33 | Jackie Lucas |
+| 264 | 33 | Rose Anna Safi |
 | 265 | 33 | PL GR |
 | 266 | 32 | Brainbabe |
-| 267 | 32 | Rosy Perez |
-| 268 | 32 | Nicole Colby McCloskey |
-| 269 | 32 | CJ |
-| 270 | 31 | Sweetfire |
-| 271 | 31 | Jason Garnatz |
-| 272 | 31 | Loretta Hendricks |
-| 273 | 30 | Tiggerjake |
-| 274 | 30 | Dexter Hammond Jr |
-| 275 | 30 | Lala |
-| 276 | 30 | Will E Ayala |
-| 277 | 30 | Lmg |
-| 278 | 30 | Chill Snapclear |
-| 279 | 30 | Koren Heersink |
-| 280 | 30 | Danielle Sulano |
-| 281 | 30 | Loopy Wipeout |
-| 282 | 29 | Mrs.J2013 |
+| 267 | 32 | Nicole Colby McCloskey |
+| 268 | 32 | Rosy Perez |
+| 269 | 32 | Poppy |
+| 270 | 32 | CJ |
+| 271 | 31 | Sweetfire |
+| 272 | 31 | Jason Garnatz |
+| 273 | 31 | Loretta Hendricks |
+| 274 | 30 | Tiggerjake |
+| 275 | 30 | Dexter Hammond Jr |
+| 276 | 30 | Lala |
+| 277 | 30 | Will E Ayala |
+| 278 | 30 | Lmg |
+| 279 | 30 | Chill Snapclear |
+| 280 | 30 | Koren Heersink |
+| 281 | 30 | Danielle Sulano |
+| 282 | 30 | Loopy Wipeout |
 | 283 | 29 | Zappy Matchgrid |
-| 284 | 29 | Poppy |
+| 284 | 29 | Mrs.J2013 |
 | 285 | 29 | Destiny Georgia Reeves Beller |
 | 286 | 29 | Ricky Colvin |
 | 287 | 29 | Michael Cruz |
-| 288 | 28 | Plucky Shatterfit |
-| 289 | 28 | Wayne Mire |
+| 288 | 28 | Wayne Mire |
+| 289 | 28 | Plucky Shatterfit |
 | 290 | 28 | Allysha McFarland |
 | 291 | 28 | JP |
 | 292 | 28 | Deva Marie Barber |
