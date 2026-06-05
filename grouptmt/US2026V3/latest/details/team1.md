@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:52:13 UTC
+# Standings for team1 as of 2026-06-05 17:52:37 UTC
 
 **Total Participants:** 355
 
@@ -49,7 +49,7 @@
 | 41 | 162 | Markeeta Lipscomb |
 | 42 | 156 | Jessica Russell |
 | 43 | 151 | Dacia Hicks |
-| 44 | 145 | Nerdy Snapfall |
+| 44 | 150 | Nerdy Snapfall |
 | 45 | 140 | JoJo |
 | 46 | 140 | Ann Chung |
 | 47 | 137 | BlackQueen105 |
@@ -318,49 +318,49 @@
 | 310 | 9 | Douglas Price |
 | 311 | 8 | Brika Brika |
 | 312 | 8 | Rixo Blax |
-| 313 | 8 | Taz Ballard |
-| 314 | 8 | Tanesha Ga'sFinest Corbett |
-| 315 | 8 | Jessie N Michael Silvers |
-| 316 | 8 | Breezy Catcher |
-| 317 | 8 | Cm |
+| 313 | 8 | Jessie N Michael Silvers |
+| 314 | 8 | Brenda Brogden |
+| 315 | 8 | Ashley Davis |
+| 316 | 8 | Cm |
+| 317 | 8 | Taz Ballard |
 | 318 | 8 | Caitlin Michele |
-| 319 | 8 | Ashley Davis |
-| 320 | 8 | Brenda Brogden |
+| 319 | 8 | Breezy Catcher |
+| 320 | 8 | Tanesha Ga'sFinest Corbett |
 | 321 | 7 | Andrew Harris |
 | 322 | 7 | Kendra McIntyre |
 | 323 | 7 | whatever |
 | 324 | 7 | Lillie Blossom Dixon |
-| 325 | 7 | Mary2 |
+| 325 | 7 | wmedina67 |
 | 326 | 7 | Shane Brucewayne |
-| 327 | 7 | wmedina67 |
-| 328 | 6 | Gael Quintana |
-| 329 | 6 | Jelyfish |
-| 330 | 6 | Janine Hunter |
-| 331 | 6 | Jeffrey Barrows |
-| 332 | 6 | Allison Baxter |
-| 333 | 6 | NEM0228 |
-| 334 | 6 | Frances Davis |
-| 335 | 6 | Christopher Wallace |
-| 336 | 6 | Cece Fowler |
-| 337 | 6 | Brittnay Wright |
-| 338 | 5 | Jennifer Moore |
-| 339 | 5 | Stephanie Zuniga Tullock |
-| 340 | 5 | Temeshia Brooks Washington |
-| 341 | 5 | KeeKee Williams |
-| 342 | 5 | Jenni Hardman |
-| 343 | 5 | Derek Beverly |
-| 344 | 5 | Wayne Savannah |
-| 345 | 5 | Andre Sanon |
-| 346 | 5 | Lil T |
-| 347 | 5 | Tamika Fisher |
-| 348 | 5 | Vernon Hoyt |
-| 349 | 5 | DirtiestofMikes |
-| 350 | 5 | Zappy Clearfit |
-| 351 | 5 | Jjhandsome |
-| 352 | 5 | pooh |
-| 353 | 5 | Barbramerri Tarboro |
-| 354 | 5 | Kidgib5 |
-| 355 | 5 | Shawn Himes |
+| 327 | 7 | Mary2 |
+| 328 | 6 | Jelyfish |
+| 329 | 6 | Gael Quintana |
+| 330 | 6 | Jeffrey Barrows |
+| 331 | 6 | NEM0228 |
+| 332 | 6 | Frances Davis |
+| 333 | 6 | Cece Fowler |
+| 334 | 6 | Brittnay Wright |
+| 335 | 6 | Allison Baxter |
+| 336 | 6 | Christopher Wallace |
+| 337 | 6 | Janine Hunter |
+| 338 | 5 | Wayne Savannah |
+| 339 | 5 | Andre Sanon |
+| 340 | 5 | KeeKee Williams |
+| 341 | 5 | Temeshia Brooks Washington |
+| 342 | 5 | Stephanie Zuniga Tullock |
+| 343 | 5 | Barbramerri Tarboro |
+| 344 | 5 | Vernon Hoyt |
+| 345 | 5 | Jjhandsome |
+| 346 | 5 | pooh |
+| 347 | 5 | Jennifer Moore |
+| 348 | 5 | Kidgib5 |
+| 349 | 5 | Zappy Clearfit |
+| 350 | 5 | DirtiestofMikes |
+| 351 | 5 | Tamika Fisher |
+| 352 | 5 | Shawn Himes |
+| 353 | 5 | Lil T |
+| 354 | 5 | Derek Beverly |
+| 355 | 5 | Jenni Hardman |
 
 ---
 *Standings created by tournaments datasource generation tool*
