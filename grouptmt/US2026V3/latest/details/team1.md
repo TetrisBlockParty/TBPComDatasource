@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 12:19:12 UTC
+# Standings for team1 as of 2026-06-05 12:20:12 UTC
 
 **Total Participants:** 21
 
@@ -8,9 +8,9 @@
 | :- | :- | :- |
 | 1 | 900 | Timothy Robert |
 | 2 | 749 | Aviv Zehavi |
-| 3 | 450 | Chandler Spencer |
+| 3 | 500 | Chandler Spencer |
 | 4 | 125 | Gotcha |
-| 5 | 85 | Debbie Carswell |
+| 5 | 86 | Debbie Carswell |
 | 6 | 60 | Rachel Zimmerman |
 | 7 | 60 | Asani CHumba |
 | 8 | 48 | Amber Wilson |
@@ -25,8 +25,8 @@
 | 17 | 10 | Sarah Marie |
 | 18 | 10 | Kimmie Gargano |
 | 19 | 9 | Saucy Crusher |
-| 20 | 6 | Jenni |
-| 21 | 5 | Mary2 |
+| 20 | 7 | Mary2 |
+| 21 | 6 | Jenni |
 
 ---
 *Standings created by tournaments datasource generation tool*
