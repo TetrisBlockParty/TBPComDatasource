@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 13:03:12 UTC
+# Standings for team2 as of 2026-06-05 13:04:12 UTC
 
 **Total Participants:** 72
 
@@ -9,9 +9,9 @@
 | 1 | 1702 | Puce guide 9156 |
 | 2 | 1240 | Jewels |
 | 3 | 1100 | Kathleen M Cox |
-| 4 | 1000 | Mocha |
-| 5 | 663 | Logan Basham |
-| 6 | 561 | Crystal M Sowden |
+| 4 | 1100 | Mocha |
+| 5 | 757 | Crystal M Sowden |
+| 6 | 663 | Logan Basham |
 | 7 | 515 | Loony Faller |
 | 8 | 437 | Amy Gale |
 | 9 | 99 | Stella |
