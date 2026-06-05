@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 12:32:34 UTC
+# Standings for team1 as of 2026-06-05 12:33:13 UTC
 
-**Total Participants:** 46
+**Total Participants:** 47
 
 ## Participant Scores
 
@@ -19,39 +19,40 @@
 | 11 | 67 | Robyn Caldwell |
 | 12 | 60 | Asani CHumba |
 | 13 | 52 | jaimie |
-| 14 | 50 | Shontanese Adams |
-| 15 | 50 | Slinky Party |
+| 14 | 50 | Slinky Party |
+| 15 | 50 | Shontanese Adams |
 | 16 | 49 | ♈️ Ariesbaby |
-| 17 | 40 | Jean Regis |
-| 18 | 40 | Leavon Smith |
+| 17 | 40 | Leavon Smith |
+| 18 | 40 | Jean Regis |
 | 19 | 30 | Lester Malone |
-| 20 | 25 | Tyrone Porter |
-| 21 | 25 | KoolKimJay |
+| 20 | 25 | KoolKimJay |
+| 21 | 25 | Tyrone Porter |
 | 22 | 23 | Saucy Crusher |
 | 23 | 22 | Tanisha Taylor |
-| 24 | 19 | Amanda Woodruff |
+| 24 | 20 | Trina Greenwood |
 | 25 | 19 | Jenni |
-| 26 | 18 | Dizzy Dashy |
-| 27 | 17 | Jai |
-| 28 | 16 | Sylvia Offically A Mcgowan |
-| 29 | 16 | Mafio SO |
-| 30 | 15 | Tami Spence |
-| 31 | 14 | Ashley MyBeauty Daniels |
-| 32 | 12 | Angela R Wilson |
-| 33 | 12 | Kimmie Gargano |
-| 34 | 11 | Desiree Ryder |
-| 35 | 10 | Sarah Marie |
-| 36 | 10 | Tishauna Virgo |
-| 37 | 9 | IThinkNot |
-| 38 | 9 | Tina Criam |
-| 39 | 9 | Brave Balanceblock |
-| 40 | 8 | John Staub |
-| 41 | 8 | Zany Breaker |
-| 42 | 7 | Saucy Faller |
-| 43 | 7 | Mary2 |
-| 44 | 7 | Rikki Moran |
-| 45 | 7 | Kendra McIntyre |
-| 46 | 5 | Cheeky Pop |
+| 26 | 19 | Amanda Woodruff |
+| 27 | 18 | Dizzy Dashy |
+| 28 | 17 | Jai |
+| 29 | 16 | Sylvia Offically A Mcgowan |
+| 30 | 16 | Mafio SO |
+| 31 | 15 | Tami Spence |
+| 32 | 14 | Ashley MyBeauty Daniels |
+| 33 | 12 | Angela R Wilson |
+| 34 | 12 | Kimmie Gargano |
+| 35 | 11 | Desiree Ryder |
+| 36 | 10 | Sarah Marie |
+| 37 | 10 | Tishauna Virgo |
+| 38 | 9 | IThinkNot |
+| 39 | 9 | Tina Criam |
+| 40 | 9 | Brave Balanceblock |
+| 41 | 8 | John Staub |
+| 42 | 8 | Zany Breaker |
+| 43 | 7 | Saucy Faller |
+| 44 | 7 | Mary2 |
+| 45 | 7 | Rikki Moran |
+| 46 | 7 | Kendra McIntyre |
+| 47 | 5 | Cheeky Pop |
 
 ---
 *Standings created by tournaments datasource generation tool*

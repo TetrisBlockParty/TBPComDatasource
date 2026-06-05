@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-05 12:32:34 UTC
+# Standings for team2 as of 2026-06-05 12:33:13 UTC
 
-**Total Participants:** 40
+**Total Participants:** 41
 
 ## Participant Scores
 
@@ -12,40 +12,41 @@
 | 4 | 247 | Jewels |
 | 5 | 182 | Amy Gale |
 | 6 | 75 | Angeleye A James |
-| 7 | 58 | Chipper Towerzone |
-| 8 | 45 | Michelle Anne |
-| 9 | 40 | Amanda Sikes |
-| 10 | 37 | Jumpy Dashpiece |
-| 11 | 33 | Tango Sierra |
-| 12 | 30 | Patti Ward |
-| 13 | 30 | Jason Cunningham |
-| 14 | 27 | Michael Carmichael |
-| 15 | 26 | Ariel Gundersen |
-| 16 | 26 | Rachel Huber |
-| 17 | 25 | Jgato |
-| 18 | 25 | April Addis |
-| 19 | 23 | IncrediDragon |
-| 20 | 23 | Damion Morrison |
-| 21 | 20 | LittleHippoEars |
-| 22 | 18 | Tracey Cox |
-| 23 | 18 | Sara BlueEyes |
-| 24 | 12 | Mary |
+| 7 | 59 | Stella |
+| 8 | 58 | Chipper Towerzone |
+| 9 | 45 | Michelle Anne |
+| 10 | 40 | Amanda Sikes |
+| 11 | 37 | Jumpy Dashpiece |
+| 12 | 33 | Tango Sierra |
+| 13 | 30 | Patti Ward |
+| 14 | 30 | Jason Cunningham |
+| 15 | 27 | Michael Carmichael |
+| 16 | 26 | Ariel Gundersen |
+| 17 | 26 | Rachel Huber |
+| 18 | 25 | Jgato |
+| 19 | 25 | April Addis |
+| 20 | 23 | IncrediDragon |
+| 21 | 23 | Damion Morrison |
+| 22 | 20 | LittleHippoEars |
+| 23 | 18 | Tracey Cox |
+| 24 | 18 | Sara BlueEyes |
 | 25 | 12 | Stacey Loretta Wallace |
-| 26 | 11 | Thy Bui |
+| 26 | 12 | Mary |
 | 27 | 11 | Lora Via |
-| 28 | 10 | Berta Hurley |
-| 29 | 10 | Twisty Snapmatch |
-| 30 | 10 | Joyce Galloway |
-| 31 | 10 | Bon Lynn |
-| 32 | 9 | Darla Ragsdale |
-| 33 | 9 | Mama G |
-| 34 | 7 | Peter Fogg |
-| 35 | 7 | Cherica Taylor |
-| 36 | 6 | fancypants |
-| 37 | 5 | Gill |
-| 38 | 5 | Allison Peterson |
-| 39 | 5 | Devon |
-| 40 | 5 | Tashamonique Puckey |
+| 28 | 11 | Thy Bui |
+| 29 | 10 | Berta Hurley |
+| 30 | 10 | Bon Lynn |
+| 31 | 10 | Twisty Snapmatch |
+| 32 | 10 | Joyce Galloway |
+| 33 | 9 | Darla Ragsdale |
+| 34 | 9 | Mama G |
+| 35 | 7 | Peter Fogg |
+| 36 | 7 | Cherica Taylor |
+| 37 | 6 | fancypants |
+| 38 | 5 | Devon |
+| 39 | 5 | Tashamonique Puckey |
+| 40 | 5 | Allison Peterson |
+| 41 | 5 | Gill |
 
 ---
 *Standings created by tournaments datasource generation tool*
