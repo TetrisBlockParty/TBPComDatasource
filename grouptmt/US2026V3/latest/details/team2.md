@@ -1,13 +1,13 @@
-# Standings for team2 as of 2026-06-05 12:21:12 UTC
+# Standings for team2 as of 2026-06-05 12:22:12 UTC
 
-**Total Participants:** 27
+**Total Participants:** 30
 
 ## Participant Scores
 
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 500 | Puce guide 9156 |
-| 2 | 334 | Logan Basham |
+| 2 | 374 | Logan Basham |
 | 3 | 54 | Angeleye A James |
 | 4 | 37 | Jumpy Dashpiece |
 | 5 | 35 | Michelle Anne |
@@ -22,17 +22,20 @@
 | 14 | 18 | Tracey Cox |
 | 15 | 18 | Michael Carmichael |
 | 16 | 12 | Mary |
-| 17 | 10 | Berta Hurley |
-| 18 | 10 | Twisty Snapmatch |
-| 19 | 8 | Joyce Galloway |
-| 20 | 7 | Peter Fogg |
-| 21 | 6 | fancypants |
-| 22 | 6 | Cherica Taylor |
-| 23 | 5 | Devon |
-| 24 | 5 | Allison Peterson |
-| 25 | 5 | Tashamonique Puckey |
-| 26 | 5 | LittleHippoEars |
+| 17 | 12 | Stacey Loretta Wallace |
+| 18 | 11 | Lora Via |
+| 19 | 10 | Berta Hurley |
+| 20 | 10 | Twisty Snapmatch |
+| 21 | 8 | Joyce Galloway |
+| 22 | 7 | Peter Fogg |
+| 23 | 6 | Cherica Taylor |
+| 24 | 6 | fancypants |
+| 25 | 5 | Devon |
+| 26 | 5 | Allison Peterson |
 | 27 | 5 | Thy Bui |
+| 28 | 5 | Tashamonique Puckey |
+| 29 | 5 | LittleHippoEars |
+| 30 | 5 | Darla Ragsdale |
 
 ---
 *Standings created by tournaments datasource generation tool*

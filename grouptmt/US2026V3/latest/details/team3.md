@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-05 12:21:12 UTC
+# Standings for team3 as of 2026-06-05 12:22:12 UTC
 
 **Total Participants:** 41
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 516 | Alan George LaRage |
+| 1 | 574 | Alan George LaRage |
 | 2 | 200 | AL Ferrari |
 | 3 | 191 | Tom Borja |
 | 4 | 160 | Woodrow Weatherford |
@@ -14,35 +14,35 @@
 | 6 | 104 | Perach Alima Shoa |
 | 7 | 80 | Angel Hopkins |
 | 8 | 71 | Alex Celio |
-| 9 | 32 | Dedicated |
-| 10 | 30 | Adam Bronk |
-| 11 | 30 | Jerome Carlile |
-| 12 | 28 | SteffXx |
-| 13 | 28 | Carolyn Smith |
-| 14 | 26 | Kevin C. Moe |
-| 15 | 23 | Lively Matchpiece |
-| 16 | 20 | Paul Hudak |
-| 17 | 18 | Alison Gomes |
-| 18 | 17 | Rebecca Alidre Holmes-Anderson |
-| 19 | 15 | Quirky Curve |
-| 20 | 15 | kittensden |
-| 21 | 13 | Raven Rogue |
-| 22 | 12 | Wacky Catcher |
-| 23 | 12 | Robby Beltran |
+| 9 | 38 | SteffXx |
+| 10 | 35 | Paul Hudak |
+| 11 | 35 | Rebecca Alidre Holmes-Anderson |
+| 12 | 32 | Dedicated |
+| 13 | 30 | Jerome Carlile |
+| 14 | 30 | Adam Bronk |
+| 15 | 28 | Carolyn Smith |
+| 16 | 26 | Kevin C. Moe |
+| 17 | 25 | Lively Matchpiece |
+| 18 | 23 | Charles Love |
+| 19 | 22 | Crystal Carlson |
+| 20 | 18 | Alison Gomes |
+| 21 | 15 | Quirky Curve |
+| 22 | 15 | kittensden |
+| 23 | 13 | Raven Rogue |
 | 24 | 12 | Violet |
-| 25 | 11 | Carrie Ness |
-| 26 | 10 | Shabae |
-| 27 | 9 | Angie Rodriguez |
-| 28 | 9 | Jess Jess |
-| 29 | 9 | Lisa Stone |
-| 30 | 9 | Tnaughty |
-| 31 | 9 | Sarah Jane |
-| 32 | 8 | kendra |
-| 33 | 8 | Jonathan Russell |
-| 34 | 7 | Charles Love |
-| 35 | 7 | David Glisson |
-| 36 | 6 | Nonni |
-| 37 | 6 | Crystal Carlson |
+| 25 | 12 | Robby Beltran |
+| 26 | 12 | Wacky Catcher |
+| 27 | 11 | Carrie Ness |
+| 28 | 10 | Shabae |
+| 29 | 10 | Lisa Stone |
+| 30 | 9 | Jess Jess |
+| 31 | 9 | Tnaughty |
+| 32 | 9 | Sarah Jane |
+| 33 | 9 | Angie Rodriguez |
+| 34 | 8 | Jonathan Russell |
+| 35 | 8 | kendra |
+| 36 | 7 | David Glisson |
+| 37 | 6 | Nonni |
 | 38 | 6 | Denice Myers |
 | 39 | 6 | Happy Balancer |
 | 40 | 5 | Victoria Lofquist |
