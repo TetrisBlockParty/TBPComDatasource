@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 19:42:14 UTC
+# Standings for team1 as of 2026-06-05 19:42:37 UTC
 
 **Total Participants:** 447
 
@@ -54,8 +54,8 @@
 | 46 | 165 | Davionte DaeDae Hopson-Rodriguez |
 | 47 | 162 | Markeeta Lipscomb |
 | 48 | 158 | W.A. Simpson |
-| 49 | 156 | Jessica Russell |
-| 50 | 153 | Blockhead |
+| 49 | 157 | Blockhead |
+| 50 | 156 | Jessica Russell |
 | 51 | 151 | Dacia Hicks |
 | 52 | 140 | Ann Chung |
 | 53 | 140 | JoJo |
@@ -398,61 +398,61 @@
 | 390 | 9 | Rissa Rozay |
 | 391 | 8 | Rixo Blax |
 | 392 | 8 | Ferocity |
-| 393 | 8 | Lesley Brunkus Cianfaglione |
-| 394 | 8 | jus_ry |
-| 395 | 8 | Brenda Brogden |
-| 396 | 8 | Ashley Davis |
-| 397 | 8 | Cm |
-| 398 | 8 | Manda Allen |
+| 393 | 8 | Brenda Brogden |
+| 394 | 8 | Tanesha Ga'sFinest Corbett |
+| 395 | 8 | Lesley Brunkus Cianfaglione |
+| 396 | 8 | Cm |
+| 397 | 8 | Manda Allen |
+| 398 | 8 | Ashley Davis |
 | 399 | 8 | Caitlin Michele |
 | 400 | 8 | Teresa Bean |
-| 401 | 8 | Brika Brika |
-| 402 | 8 | Tonny Williams |
+| 401 | 8 | jus_ry |
+| 402 | 8 | Brika Brika |
 | 403 | 8 | Haley Bell |
-| 404 | 8 | Tanesha Ga'sFinest Corbett |
-| 405 | 7 | wmedina67 |
-| 406 | 7 | Andrew Harris |
-| 407 | 7 | Kendra McIntyre |
+| 404 | 8 | Tonny Williams |
+| 405 | 7 | Andrew Harris |
+| 406 | 7 | Mary2 |
+| 407 | 7 | Shane Brucewayne |
 | 408 | 7 | whatever |
-| 409 | 7 | Shane Brucewayne |
-| 410 | 7 | Mary2 |
-| 411 | 6 | Janine Hunter |
-| 412 | 6 | Jeffrey Barrows |
+| 409 | 7 | Kendra McIntyre |
+| 410 | 7 | wmedina67 |
+| 411 | 6 | Gael Quintana |
+| 412 | 6 | Janine Hunter |
 | 413 | 6 | Boricua64 |
-| 414 | 6 | Analesia Taylor |
-| 415 | 6 | Jelyfish |
-| 416 | 6 | Gael Quintana |
-| 417 | 6 | Telisha Mims |
-| 418 | 6 | NEM0228 |
-| 419 | 6 | Frances Davis |
-| 420 | 6 | Cece Fowler |
-| 421 | 6 | Allison Baxter |
-| 422 | 6 | Brittnay Wright |
+| 414 | 6 | Jelyfish |
+| 415 | 6 | Jeffrey Barrows |
+| 416 | 6 | Analesia Taylor |
+| 417 | 6 | Allison Baxter |
+| 418 | 6 | Telisha Mims |
+| 419 | 6 | Cece Fowler |
+| 420 | 6 | Frances Davis |
+| 421 | 6 | Brittnay Wright |
+| 422 | 6 | NEM0228 |
 | 423 | 6 | Christopher Wallace |
-| 424 | 5 | Wacky Towerer |
-| 425 | 5 | Witty Clear |
-| 426 | 5 | KeeKee Williams |
-| 427 | 5 | Temeshia Brooks Washington |
-| 428 | 5 | Vernon Hoyt |
-| 429 | 5 | Stephanie Zuniga Tullock |
-| 430 | 5 | Barbramerri Tarboro |
-| 431 | 5 | pooh |
-| 432 | 5 | Jenni Hardman |
-| 433 | 5 | Derek Beverly |
-| 434 | 5 | Lil T |
-| 435 | 5 | Chill Linkroll |
-| 436 | 5 | Shakuria Cortia Burney |
+| 424 | 5 | Temeshia Brooks Washington |
+| 425 | 5 | KeeKee Williams |
+| 426 | 5 | Tito Divyn |
+| 427 | 5 | Wacky Towerer |
+| 428 | 5 | Lil T |
+| 429 | 5 | Jenni Hardman |
+| 430 | 5 | Stephanie Zuniga Tullock |
+| 431 | 5 | Chill Linkroll |
+| 432 | 5 | Shakuria Cortia Burney |
+| 433 | 5 | Witty Clear |
+| 434 | 5 | Derek Beverly |
+| 435 | 5 | Tamika Fisher |
+| 436 | 5 | Saucy Linkgrid |
 | 437 | 5 | Shawn Himes |
-| 438 | 5 | Tamika Fisher |
-| 439 | 5 | Zappy Clearfit |
-| 440 | 5 | Rieshelda Marie White |
-| 441 | 5 | Saucy Linkgrid |
-| 442 | 5 | Tito Divyn |
-| 443 | 5 | DirtiestofMikes |
-| 444 | 5 | Andre Sanon |
-| 445 | 5 | Kidgib5 |
-| 446 | 5 | Jennifer Moore |
-| 447 | 5 | Jjhandsome |
+| 438 | 5 | DirtiestofMikes |
+| 439 | 5 | Andre Sanon |
+| 440 | 5 | Barbramerri Tarboro |
+| 441 | 5 | Kidgib5 |
+| 442 | 5 | Jennifer Moore |
+| 443 | 5 | pooh |
+| 444 | 5 | Jjhandsome |
+| 445 | 5 | Rieshelda Marie White |
+| 446 | 5 | Vernon Hoyt |
+| 447 | 5 | Zappy Clearfit |
 
 ---
 *Standings created by tournaments datasource generation tool*
