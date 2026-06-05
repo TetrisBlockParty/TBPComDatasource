@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-05 12:34:12 UTC
+# Standings for team3 as of 2026-06-05 12:34:35 UTC
 
 **Total Participants:** 66
 
@@ -16,62 +16,62 @@
 | 8 | 150 | Edda-Jo Wenneman Dobbs |
 | 9 | 150 | Bee |
 | 10 | 104 | Perach Alima Shoa |
-| 11 | 80 | Jerome Carlile |
-| 12 | 80 | Angel Hopkins |
+| 11 | 80 | Angel Hopkins |
+| 12 | 80 | Jerome Carlile |
 | 13 | 71 | Alex Celio |
 | 14 | 69 | SteffXx |
 | 15 | 58 | Jessica Biggs |
 | 16 | 50 | Adam Bronk |
 | 17 | 41 | Crystal Carlson |
-| 18 | 35 | Rebecca Alidre Holmes-Anderson |
-| 19 | 35 | Paul Hudak |
-| 20 | 33 | Raya |
-| 21 | 32 | Dedicated |
-| 22 | 32 | Lively Matchpiece |
-| 23 | 31 | Boldy Cornerfall |
-| 24 | 30 | Christopher Kissiah |
-| 25 | 28 | Carolyn Smith |
-| 26 | 27 | creepy paper |
-| 27 | 26 | Kevin C. Moe |
+| 18 | 41 | Kimberly Kupke |
+| 19 | 38 | Lively Matchpiece |
+| 20 | 35 | Rebecca Alidre Holmes-Anderson |
+| 21 | 35 | Paul Hudak |
+| 22 | 33 | Raya |
+| 23 | 32 | Dedicated |
+| 24 | 31 | Boldy Cornerfall |
+| 25 | 30 | Christopher Kissiah |
+| 26 | 28 | Carolyn Smith |
+| 27 | 27 | creepy paper |
 | 28 | 26 | Loony Strikesnap |
-| 29 | 25 | Garrett Hofmann |
-| 30 | 24 | Laura Slusher Updike |
-| 31 | 23 | Charles Love |
-| 32 | 21 | Denice Myers |
-| 33 | 19 | Sabrina34 |
-| 34 | 18 | Alison Gomes |
+| 29 | 26 | Kevin C. Moe |
+| 30 | 25 | Garrett Hofmann |
+| 31 | 24 | Laura Slusher Updike |
+| 32 | 23 | Charles Love |
+| 33 | 21 | Denice Myers |
+| 34 | 19 | Sabrina34 |
 | 35 | 18 | ToxicTrinity |
-| 36 | 15 | Quirky Curve |
+| 36 | 18 | Alison Gomes |
 | 37 | 15 | kittensden |
-| 38 | 14 | Sara Pederson |
-| 39 | 13 | Raven Rogue |
-| 40 | 12 | kendra |
-| 41 | 12 | Nonni |
-| 42 | 12 | Nette Babi |
-| 43 | 12 | Robby Beltran |
-| 44 | 12 | Wacky Catcher |
-| 45 | 12 | Jonathan Russell |
-| 46 | 12 | Violet |
-| 47 | 11 | Lisa Stone |
+| 38 | 15 | Quirky Curve |
+| 39 | 14 | Sara Pederson |
+| 40 | 13 | Raven Rogue |
+| 41 | 12 | Robby Beltran |
+| 42 | 12 | kendra |
+| 43 | 12 | Violet |
+| 44 | 12 | Nette Babi |
+| 45 | 12 | Nonni |
+| 46 | 12 | Wacky Catcher |
+| 47 | 12 | Jonathan Russell |
 | 48 | 11 | Carrie Ness |
-| 49 | 11 | David Glisson |
-| 50 | 11 | Happy Balancer |
-| 51 | 10 | Giddy Shift |
-| 52 | 10 | Shabae |
-| 53 | 9 | Jess Jess |
-| 54 | 9 | Tnaughty |
-| 55 | 9 | Salky |
-| 56 | 9 | VOID EDGE |
-| 57 | 9 | Angie Rodriguez |
-| 58 | 9 | Funky Fall |
-| 59 | 9 | Sarah Jane |
-| 60 | 8 | Sarah Cruthirds |
-| 61 | 7 | Loony Rollfit |
+| 49 | 11 | Happy Balancer |
+| 50 | 11 | David Glisson |
+| 51 | 11 | Lisa Stone |
+| 52 | 10 | Giddy Shift |
+| 53 | 10 | Shabae |
+| 54 | 9 | Funky Fall |
+| 55 | 9 | Angie Rodriguez |
+| 56 | 9 | Sarah Cruthirds |
+| 57 | 9 | Sarah Jane |
+| 58 | 9 | Jess Jess |
+| 59 | 9 | Tnaughty |
+| 60 | 9 | Salky |
+| 61 | 9 | VOID EDGE |
 | 62 | 7 | DShark72 |
-| 63 | 6 | Kimberly Kupke |
+| 63 | 7 | Loony Rollfit |
 | 64 | 6 | bt |
-| 65 | 5 | Victoria Lofquist |
-| 66 | 5 | KAR |
+| 65 | 5 | KAR |
+| 66 | 5 | Victoria Lofquist |
 
 ---
 *Standings created by tournaments datasource generation tool*
