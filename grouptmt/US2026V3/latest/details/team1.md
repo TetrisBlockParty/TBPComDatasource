@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:27:13 UTC
+# Standings for team1 as of 2026-06-05 15:28:13 UTC
 
 **Total Participants:** 244
 
@@ -122,22 +122,22 @@
 | 114 | 30 | Kristie |
 | 115 | 30 | Jack Vlasak |
 | 116 | 30 | Casey Chapman |
-| 117 | 29 | hope |
-| 118 | 28 | Jazzy Bridger |
-| 119 | 28 | John Staub |
-| 120 | 27 | Jae Thompson-Tyus |
-| 121 | 27 | Zany Breaker |
-| 122 | 27 | Mighty Dropper |
-| 123 | 27 | Charlene Baltimore |
-| 124 | 27 | JesusSaves 😇 |
-| 125 | 26 | Xrandomx |
-| 126 | 25 | Tyrone Porter |
-| 127 | 25 | Skippy |
-| 128 | 25 | Teresa Yanira Cepeda |
-| 129 | 25 | Wacky Stackbuilder |
-| 130 | 25 | Hasty Pivoty |
-| 131 | 25 | Kimmie Gargano |
-| 132 | 25 | Blockhead |
+| 117 | 30 | Blockhead |
+| 118 | 29 | hope |
+| 119 | 28 | Jazzy Bridger |
+| 120 | 28 | John Staub |
+| 121 | 27 | Jae Thompson-Tyus |
+| 122 | 27 | Zany Breaker |
+| 123 | 27 | Mighty Dropper |
+| 124 | 27 | Charlene Baltimore |
+| 125 | 27 | JesusSaves 😇 |
+| 126 | 26 | Xrandomx |
+| 127 | 25 | Tyrone Porter |
+| 128 | 25 | Skippy |
+| 129 | 25 | Teresa Yanira Cepeda |
+| 130 | 25 | Wacky Stackbuilder |
+| 131 | 25 | Hasty Pivoty |
+| 132 | 25 | Kimmie Gargano |
 | 133 | 25 | Eric Mcgaughy |
 | 134 | 24 | TBABYJ |
 | 135 | 24 | Brittany Fells |
@@ -220,36 +220,36 @@
 | 212 | 9 | Tina Criam |
 | 213 | 9 | Shakmar |
 | 214 | 8 | Brika Brika |
-| 215 | 8 | Sammie Walker |
-| 216 | 8 | Breezy Catcher |
-| 217 | 8 | Jessie N Michael Silvers |
-| 218 | 8 | Tanesha Ga'sFinest Corbett |
-| 219 | 8 | Taz Ballard |
-| 220 | 7 | Shane Brucewayne |
-| 221 | 7 | Kendra McIntyre |
-| 222 | 7 | wmedina67 |
-| 223 | 7 | Mary2 |
+| 215 | 8 | Tanesha Ga'sFinest Corbett |
+| 216 | 8 | Taz Ballard |
+| 217 | 8 | Sammie Walker |
+| 218 | 8 | Breezy Catcher |
+| 219 | 8 | Jessie N Michael Silvers |
+| 220 | 7 | Jumpy Gridlock |
+| 221 | 7 | Shane Brucewayne |
+| 222 | 7 | Mary2 |
+| 223 | 7 | Kendra McIntyre |
 | 224 | 7 | whatever |
-| 225 | 7 | Jumpy Gridlock |
-| 226 | 6 | Brittnay Wright |
-| 227 | 6 | Jeffrey Barrows |
-| 228 | 6 | Cece Fowler |
-| 229 | 6 | Janine Hunter |
-| 230 | 6 | Allison Baxter |
-| 231 | 6 | Christopher Wallace |
-| 232 | 5 | Rixo Blax |
-| 233 | 5 | Vernon Hoyt |
-| 234 | 5 | KeeKee Williams |
+| 225 | 7 | wmedina67 |
+| 226 | 6 | Christopher Wallace |
+| 227 | 6 | Allison Baxter |
+| 228 | 6 | Jeffrey Barrows |
+| 229 | 6 | Cece Fowler |
+| 230 | 6 | Brittnay Wright |
+| 231 | 6 | Janine Hunter |
+| 232 | 5 | Zappy Clearfit |
+| 233 | 5 | Rixo Blax |
+| 234 | 5 | Derek Beverly |
 | 235 | 5 | Temeshia Brooks Washington |
-| 236 | 5 | Tamika Fisher |
-| 237 | 5 | Shawn Himes |
-| 238 | 5 | Jennifer Moore |
-| 239 | 5 | Kidgib5 |
+| 236 | 5 | KeeKee Williams |
+| 237 | 5 | Lil T |
+| 238 | 5 | Stephanie Zuniga Tullock |
+| 239 | 5 | Vernon Hoyt |
 | 240 | 5 | DirtiestofMikes |
-| 241 | 5 | Stephanie Zuniga Tullock |
-| 242 | 5 | Lil T |
-| 243 | 5 | Derek Beverly |
-| 244 | 5 | Zappy Clearfit |
+| 241 | 5 | Kidgib5 |
+| 242 | 5 | Jennifer Moore |
+| 243 | 5 | Shawn Himes |
+| 244 | 5 | Tamika Fisher |
 
 ---
 *Standings created by tournaments datasource generation tool*
