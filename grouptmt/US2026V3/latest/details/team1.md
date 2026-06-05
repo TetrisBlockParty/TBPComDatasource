@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:32:35 UTC
+# Standings for team1 as of 2026-06-05 17:33:14 UTC
 
 **Total Participants:** 336
 
@@ -57,9 +57,9 @@
 | 49 | 126 | Cee Emm |
 | 50 | 125 | Teddy Davis |
 | 51 | 111 | Shalena Marie Humphrey |
-| 52 | 103 | KenpachisGirl |
-| 53 | 100 | She Higgy |
-| 54 | 100 | Nerdy Snapfall |
+| 52 | 105 | Nerdy Snapfall |
+| 53 | 103 | KenpachisGirl |
+| 54 | 100 | She Higgy |
 | 55 | 100 | Hasty Pivoty |
 | 56 | 100 | Cool Bridger |
 | 57 | 100 | Asani CHumba |
@@ -327,7 +327,7 @@
 | 319 | 6 | Frances Davis |
 | 320 | 6 | Brittnay Wright |
 | 321 | 6 | Cece Fowler |
-| 322 | 5 | pooh |
+| 322 | 5 | Barbramerri Tarboro |
 | 323 | 5 | Stephanie Zuniga Tullock |
 | 324 | 5 | Temeshia Brooks Washington |
 | 325 | 5 | KeeKee Williams |
@@ -341,7 +341,7 @@
 | 333 | 5 | Tamika Fisher |
 | 334 | 5 | Zappy Clearfit |
 | 335 | 5 | Jjhandsome |
-| 336 | 5 | Barbramerri Tarboro |
+| 336 | 5 | pooh |
 
 ---
 *Standings created by tournaments datasource generation tool*
