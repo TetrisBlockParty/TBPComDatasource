@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-05 14:18:35 UTC
+# Standings for team1 as of 2026-06-05 14:19:13 UTC
 
-**Total Participants:** 159
+**Total Participants:** 160
 
 ## Participant Scores
 
@@ -41,8 +41,8 @@
 | 33 | 65 | Dizzy Dashy |
 | 34 | 65 | Shanell Thomas |
 | 35 | 63 | Carrie English |
-| 36 | 60 | Katrina Ramey |
-| 37 | 60 | Christian Pham |
+| 36 | 60 | Christian Pham |
+| 37 | 60 | Katrina Ramey |
 | 38 | 57 | David Fuentes |
 | 39 | 57 | Tosha Michelle |
 | 40 | 55 | Ashley MyBeauty Daniels |
@@ -50,23 +50,23 @@
 | 42 | 50 | Donna Payne |
 | 43 | 50 | Slinky Party |
 | 44 | 50 | Yazz |
-| 45 | 43 | Block |
-| 46 | 43 | KenpachisGirl |
+| 45 | 43 | KenpachisGirl |
+| 46 | 43 | Block |
 | 47 | 42 | Frisky Fall |
 | 48 | 41 | Jessica Russell |
-| 49 | 40 | Leavon Smith |
-| 50 | 40 | Flashy Slam |
-| 51 | 40 | Cheeky Pop |
-| 52 | 40 | Jean Regis |
-| 53 | 40 | Char |
-| 54 | 40 | $hort Dog |
+| 49 | 40 | Flashy Slam |
+| 50 | 40 | Leavon Smith |
+| 51 | 40 | $hort Dog |
+| 52 | 40 | Cheeky Pop |
+| 53 | 40 | Jean Regis |
+| 54 | 40 | Char |
 | 55 | 38 | rls |
 | 56 | 37 | Lootch |
 | 57 | 37 | Steve Reno |
 | 58 | 35 | Saucy Crusher |
 | 59 | 35 | Lilly Brown |
-| 60 | 35 | Yashica Smith |
-| 61 | 35 | Dai Bo |
+| 60 | 35 | Dai Bo |
+| 61 | 35 | Yashica Smith |
 | 62 | 35 | KoolKimJay |
 | 63 | 33 | Sashaleo |
 | 64 | 32 | Tobey Marberry |
@@ -74,8 +74,8 @@
 | 66 | 31 | Boldy Pivoty |
 | 67 | 30 | Saucy Faller |
 | 68 | 30 | Jack Vlasak |
-| 69 | 30 | Brian Bohanon II |
-| 70 | 30 | Casey Chapman |
+| 69 | 30 | Casey Chapman |
+| 70 | 30 | Brian Bohanon II |
 | 71 | 30 | Lester Malone |
 | 72 | 30 | Andi McGreevy |
 | 73 | 29 | hope |
@@ -92,61 +92,61 @@
 | 84 | 24 | TBABYJ |
 | 85 | 23 | Poppy Twister |
 | 86 | 22 | Tanisha Taylor |
-| 87 | 21 | Brave Balanceblock |
-| 88 | 20 | Trina Greenwood |
-| 89 | 20 | Jai |
-| 90 | 20 | Chevalier Burley |
-| 91 | 20 | Kimmie Gargano |
+| 87 | 21 | AF Cruz |
+| 88 | 21 | Brave Balanceblock |
+| 89 | 21 | Xrandomx |
+| 90 | 20 | Trina Greenwood |
+| 91 | 20 | Jai |
 | 92 | 20 | Tony P Burke |
-| 93 | 19 | Saucy Tile |
-| 94 | 19 | Brenda Malachi-butler |
-| 95 | 19 | Jenni |
-| 96 | 19 | Shanjerrica Taylor Rosell |
-| 97 | 19 | Amanda Woodruff |
-| 98 | 18 | Teresa Yanira Cepeda |
-| 99 | 18 | AleahKCH |
+| 93 | 20 | Kimmie Gargano |
+| 94 | 20 | Chevalier Burley |
+| 95 | 19 | Saucy Tile |
+| 96 | 19 | Amanda Woodruff |
+| 97 | 19 | Brenda Malachi-butler |
+| 98 | 19 | Jenni |
+| 99 | 19 | Shanjerrica Taylor Rosell |
 | 100 | 18 | Sunny Clicky |
-| 101 | 18 | Tyree Tman Shinette |
-| 102 | 17 | AF Cruz |
-| 103 | 17 | Rikki Moran |
-| 104 | 17 | Kimberly Red |
-| 105 | 16 | MsBobby Patrick |
-| 106 | 16 | Xrandomx |
-| 107 | 16 | Sylvia Offically A Mcgowan |
-| 108 | 15 | Jess |
+| 101 | 18 | AleahKCH |
+| 102 | 18 | Tyree Tman Shinette |
+| 103 | 18 | Teresa Yanira Cepeda |
+| 104 | 17 | Rikki Moran |
+| 105 | 17 | Kimberly Red |
+| 106 | 16 | Sylvia Offically A Mcgowan |
+| 107 | 16 | MsBobby Patrick |
+| 108 | 15 | Tami Spence |
 | 109 | 15 | Delitra Perkins Hatter |
-| 110 | 15 | Tami Spence |
-| 111 | 15 | Una |
+| 110 | 15 | Una |
+| 111 | 15 | Jess |
 | 112 | 15 | NastyFriend |
-| 113 | 14 | No_Other_Choice |
-| 114 | 14 | Zachary Colegrove |
-| 115 | 14 | David A Alvino |
-| 116 | 14 | Alyssa Rae |
+| 113 | 14 | Zachary Colegrove |
+| 114 | 14 | Alyssa Rae |
+| 115 | 14 | No_Other_Choice |
+| 116 | 14 | David A Alvino |
 | 117 | 13 | Oaklonboy mike |
 | 118 | 12 | Ad Doctor |
 | 119 | 12 | Kimberly Hernandez |
-| 120 | 11 | Tamara N Lee |
-| 121 | 11 | Kp |
-| 122 | 11 | Desiree Ryder |
-| 123 | 11 | JesusSaves 😇 |
-| 124 | 10 | Megan Payette |
-| 125 | 10 | Daddy |
-| 126 | 10 | 신재호 |
-| 127 | 10 | Hoppy Rumbler |
-| 128 | 10 | Tishauna Virgo |
-| 129 | 10 | Shannon Carriger |
-| 130 | 10 | Keke |
+| 120 | 11 | JesusSaves 😇 |
+| 121 | 11 | Desiree Ryder |
+| 122 | 11 | Tamara N Lee |
+| 123 | 11 | Kp |
+| 124 | 10 | Tishauna Virgo |
+| 125 | 10 | 신재호 |
+| 126 | 10 | Hoppy Rumbler |
+| 127 | 10 | Megan Payette |
+| 128 | 10 | Keke |
+| 129 | 10 | Daddy |
+| 130 | 10 | Shannon Carriger |
 | 131 | 10 | Kenny 'Tailormade' Boyd |
-| 132 | 9 | Christian Whittaker |
-| 133 | 9 | IThinkNot |
-| 134 | 9 | Clifford Petroske |
-| 135 | 9 | Tina Criam |
-| 136 | 9 | Kristie |
-| 137 | 9 | Shakmar |
+| 132 | 9 | Tina Criam |
+| 133 | 9 | Clifford Petroske |
+| 134 | 9 | IThinkNot |
+| 135 | 9 | Christian Whittaker |
+| 136 | 9 | Shakmar |
+| 137 | 9 | Kristie |
 | 138 | 9 | Sanjuro |
 | 139 | 8 | Brika Brika |
-| 140 | 8 | Sammie Walker |
-| 141 | 8 | Jessie N Michael Silvers |
+| 140 | 8 | Jessie N Michael Silvers |
+| 141 | 8 | Sammie Walker |
 | 142 | 7 | Mary2 |
 | 143 | 7 | Kendra McIntyre |
 | 144 | 6 | Christopher Wallace |
@@ -163,8 +163,9 @@
 | 155 | 5 | Jennifer Moore |
 | 156 | 5 | Kidgib5 |
 | 157 | 5 | DirtiestofMikes |
-| 158 | 5 | Lil T |
-| 159 | 5 | Tamika Fisher |
+| 158 | 5 | Stephanie Zuniga Tullock |
+| 159 | 5 | Lil T |
+| 160 | 5 | Tamika Fisher |
 
 ---
 *Standings created by tournaments datasource generation tool*
