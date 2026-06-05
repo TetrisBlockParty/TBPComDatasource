@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 16:58:14 UTC
+# Standings for team1 as of 2026-06-05 16:58:34 UTC
 
 **Total Participants:** 317
 
@@ -83,8 +83,8 @@
 | 75 | 65 | Latore Maxie |
 | 76 | 65 | Frisky Fall |
 | 77 | 65 | Shanell Thomas |
-| 78 | 62 | Cheeky Pop |
-| 79 | 61 | Cozy Edge |
+| 78 | 64 | Cozy Edge |
+| 79 | 62 | Cheeky Pop |
 | 80 | 61 | Angela R Wilson |
 | 81 | 60 | Valerie Alexander |
 | 82 | 60 | Marcheta Cervantez |
@@ -212,8 +212,8 @@
 | 204 | 20 | SnazzySnippet |
 | 205 | 20 | Devin West |
 | 206 | 19 | Witty Blockpiece |
-| 207 | 19 | LAhoneybun82 |
-| 208 | 19 | Michele Simpson |
+| 207 | 19 | Michele Simpson |
+| 208 | 19 | LAhoneybun82 |
 | 209 | 19 | Brenda Malachi-butler |
 | 210 | 19 | Amanda Woodruff |
 | 211 | 19 | Lozuna |
@@ -228,15 +228,15 @@
 | 220 | 17 | Rikki Moran |
 | 221 | 17 | Kimberly Red |
 | 222 | 17 | Kyle Franklin |
-| 223 | 17 | Elizabeth Vega Coreano |
-| 224 | 16 | MsBobby Patrick |
-| 225 | 16 | Desiree Ryder |
+| 223 | 17 | Loopy Risepiece |
+| 224 | 17 | Elizabeth Vega Coreano |
+| 225 | 16 | MsBobby Patrick |
 | 226 | 16 | Jumpy Gridlock |
-| 227 | 16 | Jason Mungin |
-| 228 | 16 | Tanisha Robinson |
-| 229 | 16 | Sunny Tumbler |
-| 230 | 15 | Lit757 |
-| 231 | 15 | Loopy Risepiece |
+| 227 | 16 | Desiree Ryder |
+| 228 | 16 | Jason Mungin |
+| 229 | 16 | Tanisha Robinson |
+| 230 | 16 | Sunny Tumbler |
+| 231 | 15 | Lit757 |
 | 232 | 15 | Jess |
 | 233 | 15 | Tami Spence |
 | 234 | 15 | Delitra Perkins Hatter |
@@ -288,41 +288,41 @@
 | 280 | 9 | Ta'Kaiyah M. Spann |
 | 281 | 8 | Rixo Blax |
 | 282 | 8 | Brika Brika |
-| 283 | 8 | Sammie Walker |
-| 284 | 8 | Breezy Catcher |
-| 285 | 8 | Jessie N Michael Silvers |
-| 286 | 8 | Caitlin Michele |
-| 287 | 8 | Taz Ballard |
-| 288 | 8 | Tanesha Ga'sFinest Corbett |
-| 289 | 7 | Kendra McIntyre |
-| 290 | 7 | wmedina67 |
-| 291 | 7 | whatever |
-| 292 | 7 | Lillie Blossom Dixon |
-| 293 | 7 | Shane Brucewayne |
-| 294 | 7 | Mary2 |
-| 295 | 6 | Janine Hunter |
-| 296 | 6 | Jeffrey Barrows |
-| 297 | 6 | Jelyfish |
-| 298 | 6 | Frances Davis |
-| 299 | 6 | Cece Fowler |
-| 300 | 6 | Brittnay Wright |
-| 301 | 6 | Allison Baxter |
-| 302 | 6 | Christopher Wallace |
-| 303 | 5 | Barbramerri Tarboro |
-| 304 | 5 | pooh |
-| 305 | 5 | Jjhandsome |
+| 283 | 8 | Tanesha Ga'sFinest Corbett |
+| 284 | 8 | Caitlin Michele |
+| 285 | 8 | Taz Ballard |
+| 286 | 8 | Sammie Walker |
+| 287 | 8 | Breezy Catcher |
+| 288 | 8 | Jessie N Michael Silvers |
+| 289 | 7 | Shane Brucewayne |
+| 290 | 7 | Mary2 |
+| 291 | 7 | Kendra McIntyre |
+| 292 | 7 | whatever |
+| 293 | 7 | Lillie Blossom Dixon |
+| 294 | 7 | wmedina67 |
+| 295 | 6 | Frances Davis |
+| 296 | 6 | Jelyfish |
+| 297 | 6 | Jeffrey Barrows |
+| 298 | 6 | Allison Baxter |
+| 299 | 6 | Janine Hunter |
+| 300 | 6 | Christopher Wallace |
+| 301 | 6 | Cece Fowler |
+| 302 | 6 | Brittnay Wright |
+| 303 | 5 | Stephanie Zuniga Tullock |
+| 304 | 5 | Zappy Clearfit |
+| 305 | 5 | Temeshia Brooks Washington |
 | 306 | 5 | KeeKee Williams |
-| 307 | 5 | Temeshia Brooks Washington |
-| 308 | 5 | Stephanie Zuniga Tullock |
-| 309 | 5 | Zappy Clearfit |
-| 310 | 5 | Tamika Fisher |
-| 311 | 5 | Jennifer Moore |
-| 312 | 5 | Kidgib5 |
+| 307 | 5 | Derek Beverly |
+| 308 | 5 | Lil T |
+| 309 | 5 | Jjhandsome |
+| 310 | 5 | pooh |
+| 311 | 5 | Barbramerri Tarboro |
+| 312 | 5 | DirtiestofMikes |
 | 313 | 5 | Shawn Himes |
-| 314 | 5 | DirtiestofMikes |
-| 315 | 5 | Lil T |
-| 316 | 5 | Derek Beverly |
-| 317 | 5 | Vernon Hoyt |
+| 314 | 5 | Kidgib5 |
+| 315 | 5 | Jennifer Moore |
+| 316 | 5 | Vernon Hoyt |
+| 317 | 5 | Tamika Fisher |
 
 ---
 *Standings created by tournaments datasource generation tool*
