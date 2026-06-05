@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 14:38:36 UTC
+# Standings for team4 as of 2026-06-05 14:39:13 UTC
 
 **Total Participants:** 164
 
@@ -19,18 +19,18 @@
 | 11 | 261 | Gloria Nunley Trussell |
 | 12 | 228 | delilahbelle |
 | 13 | 224 | Heather Preston |
-| 14 | 200 | Leah Gorsuch |
-| 15 | 189 | Jesse Olive |
+| 14 | 220 | Jesse Olive |
+| 15 | 200 | Leah Gorsuch |
 | 16 | 161 | Giggy Matchpiece |
 | 17 | 149 | Danny Ortiz |
 | 18 | 148 | Colin |
 | 19 | 141 | Kim |
 | 20 | 132 | Malik Thompson |
 | 21 | 121 | Ryan Paul Clark-Ramsey |
-| 22 | 109 | Jojo Ann |
-| 23 | 109 | Blayne Kole |
-| 24 | 107 | Shayna Vaigneur-Hall |
-| 25 | 107 | Real Talk Vibes |
+| 22 | 109 | Blayne Kole |
+| 23 | 109 | Jojo Ann |
+| 24 | 107 | Real Talk Vibes |
+| 25 | 107 | Shayna Vaigneur-Hall |
 | 26 | 100 | Cal Renee |
 | 27 | 94 | Brandy Lynn |
 | 28 | 87 | Limbo |
@@ -40,12 +40,12 @@
 | 32 | 77 | Lush Fitblock |
 | 33 | 75 | June Hoffman |
 | 34 | 74 | Andrew Dang |
-| 35 | 71 | Justin Michael |
-| 36 | 71 | Chris Covington |
+| 35 | 71 | Chris Covington |
+| 36 | 71 | Justin Michael |
 | 37 | 70 | Janae Harris |
 | 38 | 70 | Kimyatta Cavin |
-| 39 | 68 | Keys Tome |
-| 40 | 68 | Tina Thomas |
+| 39 | 68 | Tina Thomas |
+| 40 | 68 | Keys Tome |
 | 41 | 65 | ktothet |
 | 42 | 64 | Stef |
 | 43 | 61 | vag1974 |
@@ -87,38 +87,38 @@
 | 79 | 26 | smarty |
 | 80 | 25 | Andrea Dre Lomeli |
 | 81 | 23 | Stasia |
-| 82 | 23 | Zippy Snaplink |
-| 83 | 23 | Melissa Quinn |
-| 84 | 22 | Karen Rodriguez |
-| 85 | 22 | Saul Fajardo |
-| 86 | 21 | Socorro Arredondo |
-| 87 | 21 | Keesha Muro |
-| 88 | 21 | SandyEva |
-| 89 | 20 | Jerett Coplin |
-| 90 | 20 | Silly Risegrid |
-| 91 | 20 | Erica Pompey |
-| 92 | 20 | Mexican130 |
-| 93 | 20 | Nova Kain |
-| 94 | 20 | Betsy Froemming |
-| 95 | 20 | Maurice DeJean |
-| 96 | 19 | Cindy |
+| 82 | 23 | Cindy |
+| 83 | 23 | Zippy Snaplink |
+| 84 | 23 | Melissa Quinn |
+| 85 | 22 | Karen Rodriguez |
+| 86 | 22 | Saul Fajardo |
+| 87 | 21 | Socorro Arredondo |
+| 88 | 21 | Keesha Muro |
+| 89 | 21 | SandyEva |
+| 90 | 20 | Mexican130 |
+| 91 | 20 | Silly Risegrid |
+| 92 | 20 | Erica Pompey |
+| 93 | 20 | Jerett Coplin |
+| 94 | 20 | Nova Kain |
+| 95 | 20 | Betsy Froemming |
+| 96 | 20 | Maurice DeJean |
 | 97 | 19 | Becky McCool |
-| 98 | 19 | Swanky Matchfit |
-| 99 | 18 | Nancy McCalla Abercrombie |
+| 98 | 19 | Solace Grace |
+| 99 | 19 | Swanky Matchfit |
 | 100 | 18 | Iforget |
-| 101 | 17 | Breezy Blockzone |
-| 102 | 17 | Samara Garcia |
-| 103 | 16 | Ross Bryant |
-| 104 | 16 | Queen B |
-| 105 | 16 | George Palacios |
-| 106 | 15 | Perry Ransom |
-| 107 | 15 | Hasty Dropzone |
-| 108 | 15 | Jonelle Jacobs |
-| 109 | 15 | BusterBear56 |
-| 110 | 15 | Joshua Garner |
-| 111 | 15 | Jason Garnatz |
-| 112 | 14 | Catherine Garza |
-| 113 | 14 | Solace Grace |
+| 101 | 18 | Nancy McCalla Abercrombie |
+| 102 | 17 | Breezy Blockzone |
+| 103 | 17 | Samara Garcia |
+| 104 | 16 | Ross Bryant |
+| 105 | 16 | Queen B |
+| 106 | 16 | George Palacios |
+| 107 | 15 | Perry Ransom |
+| 108 | 15 | Hasty Dropzone |
+| 109 | 15 | Jonelle Jacobs |
+| 110 | 15 | BusterBear56 |
+| 111 | 15 | Joshua Garner |
+| 112 | 15 | Jason Garnatz |
+| 113 | 14 | Catherine Garza |
 | 114 | 13 | Cherry |
 | 115 | 13 | GingaNinja |
 | 116 | 12 | Fancy Tilefall |
