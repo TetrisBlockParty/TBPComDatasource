@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 19:52:15 UTC
+# Standings for team1 as of 2026-06-05 19:52:37 UTC
 
 **Total Participants:** 454
 
@@ -437,9 +437,9 @@
 | 429 | 6 | Brittnay Wright |
 | 430 | 6 | NEM0228 |
 | 431 | 6 | Christopher Wallace |
-| 432 | 5 | Derek Beverly |
+| 432 | 5 | Tito Divyn |
 | 433 | 5 | Temeshia Brooks Washington |
-| 434 | 5 | Tito Divyn |
+| 434 | 5 | KeeKee Williams |
 | 435 | 5 | Lil T |
 | 436 | 5 | Wacky Towerer |
 | 437 | 5 | Jenni Hardman |
@@ -447,19 +447,19 @@
 | 439 | 5 | Stephanie Zuniga Tullock |
 | 440 | 5 | Shakuria Cortia Burney |
 | 441 | 5 | Shawn Himes |
-| 442 | 5 | KeeKee Williams |
-| 443 | 5 | Zappy Clearfit |
+| 442 | 5 | Derek Beverly |
+| 443 | 5 | Saucy Linkgrid |
 | 444 | 5 | Tamika Fisher |
 | 445 | 5 | DirtiestofMikes |
 | 446 | 5 | Andre Sanon |
-| 447 | 5 | Saucy Linkgrid |
-| 448 | 5 | Barbramerri Tarboro |
-| 449 | 5 | Kidgib5 |
+| 447 | 5 | Barbramerri Tarboro |
+| 448 | 5 | Kidgib5 |
+| 449 | 5 | Jennifer Moore |
 | 450 | 5 | pooh |
 | 451 | 5 | Jjhandsome |
 | 452 | 5 | Rieshelda Marie White |
-| 453 | 5 | Jennifer Moore |
-| 454 | 5 | Vernon Hoyt |
+| 453 | 5 | Vernon Hoyt |
+| 454 | 5 | Zappy Clearfit |
 
 ---
 *Standings created by tournaments datasource generation tool*
