@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 17:16:14 UTC
+# Standings for team1 as of 2026-06-05 17:16:37 UTC
 
 **Total Participants:** 330
 
@@ -13,7 +13,7 @@
 | 5 | 950 | Chandler Spencer |
 | 6 | 825 | Chris Russell |
 | 7 | 749 | Aviv Zehavi |
-| 8 | 649 | Cozy Edge |
+| 8 | 651 | Cozy Edge |
 | 9 | 580 | Janet Cooke |
 | 10 | 544 | Carrie English |
 | 11 | 523 | Charnay Peacock |
@@ -217,66 +217,66 @@
 | 209 | 20 | SnazzySnippet |
 | 210 | 20 | Kenneth Hefney |
 | 211 | 20 | Dorian Griffin |
-| 212 | 20 | Dirty Deeds |
-| 213 | 20 | Epic Snapfall |
-| 214 | 20 | Chevalier Burley |
-| 215 | 20 | Devin West |
-| 216 | 20 | Nyhlah Patterson |
-| 217 | 20 | Nerdy Climber |
-| 218 | 20 | Trina Greenwood |
-| 219 | 20 | Larina Cherie Johnson |
-| 220 | 19 | Amanda Woodruff |
-| 221 | 19 | Lozuna |
-| 222 | 19 | Jenni |
-| 223 | 19 | Saucy Tile |
-| 224 | 19 | Michele Simpson |
-| 225 | 19 | LAhoneybun82 |
-| 226 | 19 | Brenda Malachi-butler |
-| 227 | 18 | AleahKCH |
+| 212 | 20 | Epic Snapfall |
+| 213 | 20 | Chevalier Burley |
+| 214 | 20 | Larina Cherie Johnson |
+| 215 | 20 | Nerdy Climber |
+| 216 | 20 | Trina Greenwood |
+| 217 | 20 | Devin West |
+| 218 | 20 | Dirty Deeds |
+| 219 | 20 | Nyhlah Patterson |
+| 220 | 19 | Kimberly Anderson |
+| 221 | 19 | Saucy Tile |
+| 222 | 19 | LAhoneybun82 |
+| 223 | 19 | Michele Simpson |
+| 224 | 19 | Amanda Woodruff |
+| 225 | 19 | Brenda Malachi-butler |
+| 226 | 19 | Lozuna |
+| 227 | 19 | Jenni |
 | 228 | 18 | Una |
 | 229 | 18 | Tyree Tman Shinette |
-| 230 | 18 | Ounquan Wright |
-| 231 | 18 | Danny M GR |
+| 230 | 18 | AleahKCH |
+| 231 | 18 | Ounquan Wright |
 | 232 | 18 | Sunny Clicky |
-| 233 | 17 | Elizabeth Vega Coreano |
-| 234 | 17 | Rikki Moran |
-| 235 | 17 | Kimberly Red |
-| 236 | 17 | Kimberly Hernandez |
-| 237 | 16 | Sunny Tumbler |
-| 238 | 16 | Jason Mungin |
-| 239 | 16 | Jumpy Gridlock |
-| 240 | 16 | MsBobby Patrick |
-| 241 | 16 | Kimberly Anderson |
-| 242 | 16 | Desiree Ryder |
+| 233 | 18 | Danny M GR |
+| 234 | 17 | Elizabeth Vega Coreano |
+| 235 | 17 | Rikki Moran |
+| 236 | 17 | Kimberly Red |
+| 237 | 17 | Kimberly Hernandez |
+| 238 | 16 | Jumpy Gridlock |
+| 239 | 16 | Jason Mungin |
+| 240 | 16 | Sunny Tumbler |
+| 241 | 16 | Desiree Ryder |
+| 242 | 16 | MsBobby Patrick |
 | 243 | 16 | Tanisha Robinson |
-| 244 | 15 | Amy Lynn Leifheit |
-| 245 | 15 | Elaine Youmans |
-| 246 | 15 | Tami Spence |
-| 247 | 15 | Jess |
-| 248 | 15 | NastyFriend |
-| 249 | 15 | Ta'Kaiyah M. Spann |
-| 250 | 15 | Hasty Match |
-| 251 | 15 | Clever Fitblock |
-| 252 | 15 | Lit757 |
-| 253 | 15 | Delitra Perkins Hatter |
-| 254 | 14 | Alyssa Rae |
-| 255 | 14 | No_Other_Choice |
-| 256 | 14 | Vivian Bunnell Myers |
+| 244 | 15 | Ta'Kaiyah M. Spann |
+| 245 | 15 | Hasty Match |
+| 246 | 15 | Clever Fitblock |
+| 247 | 15 | Elaine Youmans |
+| 248 | 15 | Amy Lynn Leifheit |
+| 249 | 15 | Lit757 |
+| 250 | 15 | Tami Spence |
+| 251 | 15 | Jess |
+| 252 | 15 | Delitra Perkins Hatter |
+| 253 | 15 | NastyFriend |
+| 254 | 14 | No_Other_Choice |
+| 255 | 14 | Vivian Bunnell Myers |
+| 256 | 14 | David A Alvino |
 | 257 | 14 | Jerrone Epps |
-| 258 | 14 | David A Alvino |
-| 259 | 14 | Zachary Colegrove |
-| 260 | 13 | Frothy Zoney |
-| 261 | 13 | Oaklonboy mike |
-| 262 | 12 | Just2Play$ |
-| 263 | 12 | Yadira Salgado |
-| 264 | 12 | W.A. Simpson |
-| 265 | 12 | Abigail Newman Sweet |
-| 266 | 12 | BigMike |
-| 267 | 12 | messyboots |
-| 268 | 12 | Soubletzy |
-| 269 | 10 | Tina Mitchell |
-| 270 | 10 | Shannon Carriger |
-| 271 | 10 | Po Marley |
+| 258 | 14 | Zachary Colegrove |
+| 259 | 14 | Alyssa Rae |
+| 260 | 13 | Oaklonboy mike |
+| 261 | 13 | Frothy Zoney |
+| 262 | 13 | Emma Adams |
+| 263 | 12 | Soubletzy |
+| 264 | 12 | Yadira Salgado |
+| 265 | 12 | W.A. Simpson |
+| 266 | 12 | Abigail Newman Sweet |
+| 267 | 12 | BigMike |
+| 268 | 12 | Just2Play$ |
+| 269 | 12 | messyboots |
+| 270 | 10 | Tina Mitchell |
+| 271 | 10 | Shannon Carriger |
 | 272 | 10 | Brittanie Wardlow |
 | 273 | 10 | Megan Payette |
 | 274 | 10 | Christian Whittaker |
@@ -285,16 +285,16 @@
 | 277 | 10 | Catara Renae Oliver |
 | 278 | 10 | Keke |
 | 279 | 10 | Kenny 'Tailormade' Boyd |
-| 280 | 10 | Emma Adams |
+| 280 | 10 | Po Marley |
 | 281 | 10 | Hoppy Rumbler |
-| 282 | 9 | Abby |
+| 282 | 9 | Poppy Buildout |
 | 283 | 9 | Noni |
 | 284 | 9 | Rissa Rozay |
 | 285 | 9 | Clifford Petroske |
 | 286 | 9 | DellaLucretia Thomas |
 | 287 | 9 | Crtjstr |
 | 288 | 9 | Tina Criam |
-| 289 | 9 | Poppy Buildout |
+| 289 | 9 | Abby |
 | 290 | 9 | Joka NoTime ForHataz |
 | 291 | 9 | Shakmar |
 | 292 | 8 | Rixo Blax |
