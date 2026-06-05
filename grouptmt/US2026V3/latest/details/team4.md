@@ -1,13 +1,12 @@
-# Standings for team2 as of 2026-06-05 12:05:12 UTC
+# Standings for team4 as of 2026-06-05 12:05:12 UTC
 
-**Total Participants:** 2
+**Total Participants:** 1
 
 ## Participant Scores
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 90 | Logan Basham |
-| 2 | 9 | Tango Sierra |
+| 1 | 10 | Charity Thomas |
 
 ---
 *Standings created by tournaments datasource generation tool*
