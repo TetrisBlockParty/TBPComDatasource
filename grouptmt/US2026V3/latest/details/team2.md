@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 12:56:13 UTC
+# Standings for team2 as of 2026-06-05 12:56:36 UTC
 
 **Total Participants:** 68
 
@@ -55,12 +55,12 @@
 | 47 | 11 | Thy Bui |
 | 48 | 11 | Lora Via |
 | 49 | 10 | Berta Hurley |
-| 50 | 10 | Joyce Galloway |
-| 51 | 10 | Twisty Snapmatch |
-| 52 | 10 | Gill |
-| 53 | 10 | Thomas Johnstone |
-| 54 | 10 | Donna Casey |
-| 55 | 10 | Justin Furne |
+| 50 | 10 | Twisty Snapmatch |
+| 51 | 10 | Gill |
+| 52 | 10 | Thomas Johnstone |
+| 53 | 10 | Joyce Galloway |
+| 54 | 10 | Justin Furne |
+| 55 | 10 | Donna Casey |
 | 56 | 9 | Mama G |
 | 57 | 9 | Princess Cucumber |
 | 58 | 9 | Giggly Spinblock |
