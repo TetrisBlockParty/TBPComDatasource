@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 22:36:15 UTC
+# Standings for team2 as of 2026-06-05 22:36:37 UTC
 
 **Total Participants:** 614
 
@@ -24,7 +24,7 @@
 | 16 | 1100 | Kathleen M Cox |
 | 17 | 1100 | Bobbi |
 | 18 | 990 | Dapper Rollout |
-| 19 | 974 | Quirky Catcher |
+| 19 | 984 | Quirky Catcher |
 | 20 | 941 | A.j. Langley |
 | 21 | 937 | Bea Bee |
 | 22 | 839 | Happy Pivotfall |
@@ -153,9 +153,9 @@
 | 145 | 76 | Jenni LeBlanc |
 | 146 | 75 | Angeleye A James |
 | 147 | 75 | Karly Moore |
-| 148 | 74 | Jumpy Dashpiece |
-| 149 | 72 | Paula Haskins |
-| 150 | 72 | Laverne Ellis Blair |
+| 148 | 74 | Laverne Ellis Blair |
+| 149 | 74 | Jumpy Dashpiece |
+| 150 | 72 | Paula Haskins |
 | 151 | 72 | Sully |
 | 152 | 71 | SEH |
 | 153 | 71 | Teresa Mandich |
@@ -297,20 +297,20 @@
 | 289 | 36 | Heather Billodeau |
 | 290 | 36 | Mtnblzr |
 | 291 | 36 | Joshua Dye |
-| 292 | 36 | Deborah Lint Odom |
-| 293 | 35 | Jacquelyn Snyder Dumas |
-| 294 | 35 | Jgato |
-| 295 | 35 | Natalie M. Arredondo |
-| 296 | 35 | Tonya Marino |
-| 297 | 35 | Thomas Johnstone |
-| 298 | 35 | Kelly |
-| 299 | 35 | Fancy Stacker |
-| 300 | 35 | Isiwin |
-| 301 | 35 | Josie Mendivil |
-| 302 | 34 | Lively Curve |
-| 303 | 34 | Marylin Eacker |
-| 304 | 34 | Buddy |
-| 305 | 33 | Frilly Shiftsnap |
+| 292 | 36 | Frilly Shiftsnap |
+| 293 | 36 | Deborah Lint Odom |
+| 294 | 35 | Jacquelyn Snyder Dumas |
+| 295 | 35 | Jgato |
+| 296 | 35 | Natalie M. Arredondo |
+| 297 | 35 | Tonya Marino |
+| 298 | 35 | Thomas Johnstone |
+| 299 | 35 | Kelly |
+| 300 | 35 | Fancy Stacker |
+| 301 | 35 | Isiwin |
+| 302 | 35 | Josie Mendivil |
+| 303 | 34 | Lively Curve |
+| 304 | 34 | Marylin Eacker |
+| 305 | 34 | Buddy |
 | 306 | 33 | Linzy Ratliff |
 | 307 | 32 | Kristi Chestnut |
 | 308 | 32 | Mary Carriere |
@@ -609,17 +609,17 @@
 | 601 | 6 | Chummy Snapbuilder |
 | 602 | 5 | Poppy Zonepiece |
 | 603 | 5 | Pjrobinsonnn |
-| 604 | 5 | Crafty Slice |
-| 605 | 5 | Daily Findery |
-| 606 | 5 | Slinky Glidezone |
-| 607 | 5 | Mercedes Lowery |
-| 608 | 5 | Momi Kamohai |
-| 609 | 5 | Nolife |
-| 610 | 5 | Chirpy Towerer |
-| 611 | 5 | Jennifer Mauler Schmidt |
-| 612 | 5 | Nicole Hjelmen |
-| 613 | 5 | Agnes Gable |
-| 614 | 5 | Deborah Fowler |
+| 604 | 5 | Deborah Fowler |
+| 605 | 5 | Agnes Gable |
+| 606 | 5 | Nicole Hjelmen |
+| 607 | 5 | Jennifer Mauler Schmidt |
+| 608 | 5 | Chirpy Towerer |
+| 609 | 5 | Crafty Slice |
+| 610 | 5 | Momi Kamohai |
+| 611 | 5 | Mercedes Lowery |
+| 612 | 5 | Slinky Glidezone |
+| 613 | 5 | Daily Findery |
+| 614 | 5 | Nolife |
 
 ---
 *Standings created by tournaments datasource generation tool*

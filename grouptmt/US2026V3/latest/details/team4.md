@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 22:36:15 UTC
+# Standings for team4 as of 2026-06-05 22:36:37 UTC
 
 **Total Participants:** 506
 
@@ -42,8 +42,8 @@
 | 34 | 346 | Alexis Cor |
 | 35 | 333 | Alexandria Frazier |
 | 36 | 331 | Caitlyn Wang |
-| 37 | 315 | Shaina Sharp |
-| 38 | 300 | Jewelz |
+| 37 | 320 | Jewelz |
+| 38 | 315 | Shaina Sharp |
 | 39 | 275 | vag1974 |
 | 40 | 270 | Gloria Nunley Trussell |
 | 41 | 247 | Jesse Olive |
@@ -406,19 +406,19 @@
 | 398 | 15 | Stephanie Meinhart |
 | 399 | 15 | Jennifer Terrill |
 | 400 | 15 | Christina Barry |
-| 401 | 14 | Dolores Falco |
-| 402 | 14 | Bold Tumbler |
-| 403 | 14 | EpicWizard |
-| 404 | 14 | Janet Sanfilippo Sullivan |
-| 405 | 14 | Kimberly Lusk |
-| 406 | 14 | Winter Moon |
-| 407 | 14 | REPENT |
-| 408 | 14 | Kiaralis Ashley Hancock |
-| 409 | 13 | Deborah Ayliffe |
-| 410 | 13 | Blessedmom865 |
-| 411 | 13 | Jen Roe |
-| 412 | 13 | shonaberry |
-| 413 | 13 | Kristie ML SneekaPuff |
+| 401 | 15 | Kristie ML SneekaPuff |
+| 402 | 14 | Dolores Falco |
+| 403 | 14 | Bold Tumbler |
+| 404 | 14 | EpicWizard |
+| 405 | 14 | Janet Sanfilippo Sullivan |
+| 406 | 14 | Kimberly Lusk |
+| 407 | 14 | Winter Moon |
+| 408 | 14 | REPENT |
+| 409 | 14 | Kiaralis Ashley Hancock |
+| 410 | 13 | Deborah Ayliffe |
+| 411 | 13 | Blessedmom865 |
+| 412 | 13 | Jen Roe |
+| 413 | 13 | shonaberry |
 | 414 | 12 | my my |
 | 415 | 12 | Peterson Cottontail |
 | 416 | 12 | Fancy Tilefall |
