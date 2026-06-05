@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 21:34:38 UTC
+# Standings for team1 as of 2026-06-05 21:35:14 UTC
 
 **Total Participants:** 521
 
@@ -34,21 +34,21 @@
 | 26 | 326 | Sarah Marie |
 | 27 | 325 | JoJo |
 | 28 | 319 | Shell Lewis |
-| 29 | 280 | Bre Maugh |
+| 29 | 280 | She Higgy |
 | 30 | 280 | IamJust Neyamijah Washington Sr. |
-| 31 | 260 | Carolynne Walker-Bell |
-| 32 | 250 | Jennifer To |
-| 33 | 249 | Ashley MyBeauty Daniels |
-| 34 | 248 | Debbie Carswell |
-| 35 | 244 | Tammye Turner |
-| 36 | 240 | Rayya Kiser |
-| 37 | 239 | GrkGdess |
-| 38 | 238 | Holly Jolly |
-| 39 | 237 | Leebo Slice |
-| 40 | 234 | Pdubbl3 |
-| 41 | 228 | Cassidy Butler |
-| 42 | 224 | Alana Renee |
-| 43 | 220 | She Higgy |
+| 31 | 280 | Bre Maugh |
+| 32 | 260 | Carolynne Walker-Bell |
+| 33 | 250 | Jennifer To |
+| 34 | 249 | Ashley MyBeauty Daniels |
+| 35 | 248 | Debbie Carswell |
+| 36 | 244 | Tammye Turner |
+| 37 | 240 | Rayya Kiser |
+| 38 | 239 | GrkGdess |
+| 39 | 238 | Holly Jolly |
+| 40 | 237 | Leebo Slice |
+| 41 | 234 | Pdubbl3 |
+| 42 | 228 | Cassidy Butler |
+| 43 | 224 | Alana Renee |
 | 44 | 215 | Abraham Espaillat |
 | 45 | 202 | Nerdy Snapfall |
 | 46 | 197 | Spicy Balancer |
@@ -64,8 +64,8 @@
 | 56 | 158 | W.A. Simpson |
 | 57 | 156 | Jessica Russell |
 | 58 | 151 | Dacia Hicks |
-| 59 | 140 | Felicia Cain |
-| 60 | 140 | Sara Meri |
+| 59 | 140 | Sara Meri |
+| 60 | 140 | Felicia Cain |
 | 61 | 140 | Ann Chung |
 | 62 | 138 | Eric Mcgaughy |
 | 63 | 137 | BlackQueen105 |
@@ -369,44 +369,44 @@
 | 361 | 17 | Rikki Moran |
 | 362 | 17 | Tee Spinks |
 | 363 | 16 | Latoya Carson |
-| 364 | 16 | Dawn Basemore |
-| 365 | 16 | DellaLucretia Thomas |
+| 364 | 16 | DellaLucretia Thomas |
+| 365 | 16 | Dawn Basemore |
 | 366 | 16 | Squaw Ki Ng |
 | 367 | 16 | MsBobby Patrick |
 | 368 | 16 | Sammie Walker |
 | 369 | 16 | Symonne 'Monnie' Pierce |
-| 370 | 16 | GracefulOwl808 |
+| 370 | 16 | Tanisha Robinson |
 | 371 | 16 | Poppy Smasher |
-| 372 | 16 | Sunny Tumbler |
-| 373 | 16 | Tanisha Robinson |
-| 374 | 15 | b |
+| 372 | 16 | GracefulOwl808 |
+| 373 | 16 | Sunny Tumbler |
+| 374 | 15 | Shameka Thrasher |
 | 375 | 15 | Clever Fitblock |
 | 376 | 15 | Lit757 |
 | 377 | 15 | Nicole Freeman |
 | 378 | 15 | Hasty Match |
-| 379 | 15 | Dana Hawes |
-| 380 | 15 | Delitra Perkins Hatter |
-| 381 | 15 | Jess |
-| 382 | 15 | Haley Bell |
-| 383 | 15 | Shameka Thrasher |
-| 384 | 15 | Amy Lynn Leifheit |
-| 385 | 15 | Elaine Youmans |
-| 386 | 15 | DeAngelo Sorrells |
-| 387 | 15 | kitten |
-| 388 | 15 | Cheery Clusterbuilder |
-| 389 | 15 | Laura Long |
-| 390 | 15 | Tami Spence |
-| 391 | 14 | La'Chae Nickole |
+| 379 | 15 | Haley Bell |
+| 380 | 15 | Dana Hawes |
+| 381 | 15 | Delitra Perkins Hatter |
+| 382 | 15 | Jess |
+| 383 | 15 | Elaine Youmans |
+| 384 | 15 | b |
+| 385 | 15 | Amy Lynn Leifheit |
+| 386 | 15 | Laura Long |
+| 387 | 15 | DeAngelo Sorrells |
+| 388 | 15 | kitten |
+| 389 | 15 | Cheery Clusterbuilder |
+| 390 | 15 | Lisa Müller |
+| 391 | 15 | Tami Spence |
 | 392 | 14 | Stephen Providenti |
-| 393 | 14 | FunTime |
-| 394 | 14 | Jerrone Epps |
-| 395 | 14 | Zachary Colegrove |
-| 396 | 14 | No_Other_Choice |
-| 397 | 14 | Vivian Bunnell Myers |
-| 398 | 14 | Alyssa Rae |
-| 399 | 14 | Zany Pivot |
-| 400 | 13 | Keke |
-| 401 | 13 | Lisa Müller |
+| 393 | 14 | La'Chae Nickole |
+| 394 | 14 | FunTime |
+| 395 | 14 | Jerrone Epps |
+| 396 | 14 | Zachary Colegrove |
+| 397 | 14 | No_Other_Choice |
+| 398 | 14 | Vivian Bunnell Myers |
+| 399 | 14 | Alyssa Rae |
+| 400 | 14 | Zany Pivot |
+| 401 | 13 | Keke |
 | 402 | 13 | Cathy Young |
 | 403 | 13 | Abby |
 | 404 | 13 | Leah Ingram |
@@ -496,37 +496,37 @@
 | 488 | 6 | Wacky Towerer |
 | 489 | 6 | Allison Baxter |
 | 490 | 6 | Betsy B. Yohan |
-| 491 | 6 | Wu May |
-| 492 | 6 | Brittnay Wright |
+| 491 | 6 | Brittnay Wright |
+| 492 | 6 | Wu May |
 | 493 | 6 | NEM0228 |
 | 494 | 6 | Frances Davis |
 | 495 | 6 | Christopher Wallace |
-| 496 | 5 | Saucy Linkgrid |
-| 497 | 5 | Jennifer Moore |
-| 498 | 5 | Kidgib5 |
-| 499 | 5 | Lil T |
-| 500 | 5 | DirtiestofMikes |
-| 501 | 5 | Derek Beverly |
-| 502 | 5 | Rieshelda Marie White |
-| 503 | 5 | Temeshia Brooks Washington |
-| 504 | 5 | KeeKee Williams |
-| 505 | 5 | Tito Divyn |
-| 506 | 5 | Jasmine Hariston-Estis |
-| 507 | 5 | Stephanie Zuniga Tullock |
-| 508 | 5 | Vernon Hoyt |
-| 509 | 5 | Shawn Himes |
+| 496 | 5 | KeeKee Williams |
+| 497 | 5 | Kidgib5 |
+| 498 | 5 | Lil T |
+| 499 | 5 | DirtiestofMikes |
+| 500 | 5 | Derek Beverly |
+| 501 | 5 | Rieshelda Marie White |
+| 502 | 5 | Saucy Linkgrid |
+| 503 | 5 | Shawn Himes |
+| 504 | 5 | Temeshia Brooks Washington |
+| 505 | 5 | Jasmine Hariston-Estis |
+| 506 | 5 | Stephanie Zuniga Tullock |
+| 507 | 5 | Tito Divyn |
+| 508 | 5 | Mommy Frank |
+| 509 | 5 | Jennifer Moore |
 | 510 | 5 | Tamika Fisher |
 | 511 | 5 | Zappy Clearfit |
 | 512 | 5 | Kelvin Cook |
 | 513 | 5 | Logan Frost |
 | 514 | 5 | Andre Sanon |
 | 515 | 5 | Barbramerri Tarboro |
-| 516 | 5 | Chill Linkroll |
-| 517 | 5 | the guy |
+| 516 | 5 | pooh |
+| 517 | 5 | Jjhandsome |
 | 518 | 5 | Shakuria Cortia Burney |
-| 519 | 5 | pooh |
-| 520 | 5 | Mommy Frank |
-| 521 | 5 | Jjhandsome |
+| 519 | 5 | the guy |
+| 520 | 5 | Vernon Hoyt |
+| 521 | 5 | Chill Linkroll |
 
 ---
 *Standings created by tournaments datasource generation tool*
