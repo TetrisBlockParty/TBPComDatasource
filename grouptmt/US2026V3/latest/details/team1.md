@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 12:10:13 UTC
+# Standings for team1 as of 2026-06-05 12:10:35 UTC
 
 **Total Participants:** 8
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 300 | Timothy Robert |
+| 1 | 600 | Timothy Robert |
 | 2 | 100 | Chandler Spencer |
 | 3 | 49 | Gotcha |
 | 4 | 42 | Amber Wilson |

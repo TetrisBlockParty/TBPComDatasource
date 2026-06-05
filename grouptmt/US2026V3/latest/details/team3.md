@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-05 12:10:13 UTC
+# Standings for team3 as of 2026-06-05 12:10:35 UTC
 
 **Total Participants:** 15
 
@@ -13,12 +13,12 @@
 | 5 | 26 | Kevin C. Moe |
 | 6 | 20 | Paul Hudak |
 | 7 | 18 | Alex Celio |
-| 8 | 15 | Quirky Curve |
-| 9 | 10 | Dedicated |
-| 10 | 9 | Angie Rodriguez |
-| 11 | 9 | Tnaughty |
-| 12 | 8 | Violet |
-| 13 | 7 | Lively Matchpiece |
+| 8 | 15 | Lively Matchpiece |
+| 9 | 15 | Quirky Curve |
+| 10 | 10 | Dedicated |
+| 11 | 9 | Angie Rodriguez |
+| 12 | 9 | Tnaughty |
+| 13 | 8 | Violet |
 | 14 | 7 | David Glisson |
 | 15 | 5 | Sarah Jane |
 
