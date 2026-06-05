@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 13:32:35 UTC
+# Standings for team1 as of 2026-06-05 13:33:14 UTC
 
 **Total Participants:** 113
 
@@ -22,13 +22,13 @@
 | 14 | 141 | Debbie Carswell |
 | 15 | 126 | Cee Emm |
 | 16 | 99 | Kellie Hall |
-| 17 | 81 | Mafio SO |
-| 18 | 81 | Robyn Caldwell |
-| 19 | 80 | Jazzy Dashpiece |
-| 20 | 80 | Rachel Zimmerman |
-| 21 | 77 | Amber Wilson |
-| 22 | 74 | ♈️ Ariesbaby |
-| 23 | 70 | SPNLover24 |
+| 17 | 82 | SPNLover24 |
+| 18 | 81 | Mafio SO |
+| 19 | 81 | Robyn Caldwell |
+| 20 | 80 | Jazzy Dashpiece |
+| 21 | 80 | Rachel Zimmerman |
+| 22 | 77 | Amber Wilson |
+| 23 | 74 | ♈️ Ariesbaby |
 | 24 | 67 | Michele Elizabeth McKay-Johnson |
 | 25 | 66 | Shontanese Adams |
 | 26 | 65 | Shanell Thomas |
@@ -37,9 +37,9 @@
 | 29 | 60 | Asani CHumba |
 | 30 | 60 | Christian Pham |
 | 31 | 50 | Slinky Party |
-| 32 | 43 | Block |
-| 33 | 43 | KenpachisGirl |
-| 34 | 43 | David Fuentes |
+| 32 | 48 | David Fuentes |
+| 33 | 43 | Block |
+| 34 | 43 | KenpachisGirl |
 | 35 | 42 | Frisky Fall |
 | 36 | 41 | Jessica Russell |
 | 37 | 40 | Leavon Smith |

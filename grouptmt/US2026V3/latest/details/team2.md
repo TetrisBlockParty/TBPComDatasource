@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 13:32:35 UTC
+# Standings for team2 as of 2026-06-05 13:33:14 UTC
 
 **Total Participants:** 100
 
@@ -8,8 +8,8 @@
 | :- | :- | :- |
 | 1 | 2000 | Mocha |
 | 2 | 1702 | Puce guide 9156 |
-| 3 | 1272 | Crystal M Sowden |
-| 4 | 1240 | Jewels |
+| 3 | 1340 | Jewels |
+| 4 | 1272 | Crystal M Sowden |
 | 5 | 1100 | Kathleen M Cox |
 | 6 | 800 | Tim Ix |
 | 7 | 663 | Logan Basham |
@@ -47,65 +47,65 @@
 | 39 | 28 | Nathan Walker |
 | 40 | 28 | Sara BlueEyes |
 | 41 | 27 | Michael Carmichael |
-| 42 | 26 | Ariel Gundersen |
-| 43 | 26 | Quina Jesse Fejaran |
-| 44 | 26 | Rachel Huber |
-| 45 | 25 | Jgato |
-| 46 | 25 | James Ward |
+| 42 | 26 | Rachel Huber |
+| 43 | 26 | Ariel Gundersen |
+| 44 | 26 | Quina Jesse Fejaran |
+| 45 | 25 | James Ward |
+| 46 | 25 | Jgato |
 | 47 | 24 | A.j. Langley |
 | 48 | 24 | Dayna Messer-Thelen |
-| 49 | 23 | Brittni Lawrence |
-| 50 | 23 | Damion Morrison |
-| 51 | 23 | IncrediDragon |
+| 49 | 23 | Damion Morrison |
+| 50 | 23 | IncrediDragon |
+| 51 | 23 | Brittni Lawrence |
 | 52 | 22 | Jeff Pottgether |
 | 53 | 22 | Andre Love |
 | 54 | 21 | Kelly |
-| 55 | 20 | Wendy McKee |
+| 55 | 20 | AcardBoardBox |
 | 56 | 20 | ChefDeb |
-| 57 | 20 | AcardBoardBox |
-| 58 | 20 | Chesney |
+| 57 | 20 | Chesney |
+| 58 | 20 | Wendy McKee |
 | 59 | 19 | Steven Craig |
-| 60 | 18 | Spicy Balanceblock |
-| 61 | 18 | Justin Stark |
-| 62 | 18 | Tracey Cox |
+| 60 | 18 | Tracey Cox |
+| 61 | 18 | Spicy Balanceblock |
+| 62 | 18 | Justin Stark |
 | 63 | 16 | Sarah Jane Gorsuch |
-| 64 | 12 | Sara Perkins |
+| 64 | 12 | Stacey Loretta Wallace |
 | 65 | 12 | Chirpy Grid |
-| 66 | 12 | Diamond Balotje |
-| 67 | 12 | Stacey Loretta Wallace |
-| 68 | 12 | Mary |
-| 69 | 11 | Lora Via |
-| 70 | 11 | Yany |
+| 66 | 12 | Sara Perkins |
+| 67 | 12 | Mary |
+| 68 | 12 | Diamond Balotje |
+| 69 | 11 | Yany |
+| 70 | 11 | Lora Via |
 | 71 | 11 | Thy Bui |
-| 72 | 10 | Jennifer Bell |
-| 73 | 10 | Carlos J Blas |
-| 74 | 10 | Thomas Johnstone |
-| 75 | 10 | Twisty Snapmatch |
-| 76 | 10 | Joyce Galloway |
-| 77 | 10 | Berta Hurley |
-| 78 | 10 | Donna Casey |
-| 79 | 10 | Gill |
-| 80 | 10 | Frilly Dashfit |
-| 81 | 10 | Justin Furne |
-| 82 | 9 | Rhonda Driskill |
+| 72 | 10 | Gill |
+| 73 | 10 | Thomas Johnstone |
+| 74 | 10 | Carlos J Blas |
+| 75 | 10 | Joyce Galloway |
+| 76 | 10 | Justin Furne |
+| 77 | 10 | Jennifer Bell |
+| 78 | 10 | Frilly Dashfit |
+| 79 | 10 | Twisty Snapmatch |
+| 80 | 10 | Donna Casey |
+| 81 | 10 | Berta Hurley |
+| 82 | 9 | Giggly Spinblock |
 | 83 | 9 | Princess Cucumber |
 | 84 | 9 | Darla Ragsdale |
-| 85 | 9 | Giggly Spinblock |
+| 85 | 9 | Rhonda Driskill |
 | 86 | 9 | Mama G |
-| 87 | 8 | Stephanie |
-| 88 | 8 | Lively Curve |
-| 89 | 8 | Renee Weedling |
-| 90 | 7 | Elizabeth Elaine Coursey |
-| 91 | 7 | Epic Framezone |
-| 92 | 7 | nova |
+| 87 | 8 | Lively Curve |
+| 88 | 8 | Renee Weedling |
+| 89 | 8 | Stephanie |
+| 90 | 7 | Epic Framezone |
+| 91 | 7 | nova |
+| 92 | 7 | Elizabeth Elaine Coursey |
 | 93 | 7 | Cherica Taylor |
-| 94 | 6 | Crystal Owen Yocolano |
-| 95 | 6 | fancypants |
-| 96 | 6 | Kelly Christine Trimmer |
-| 97 | 6 | Nicole |
-| 98 | 5 | Devon |
+| 94 | 6 | Kelly Christine Trimmer |
+| 95 | 6 | Nicole |
+| 96 | 6 | fancypants |
+| 97 | 6 | Crystal Owen Yocolano |
+| 98 | 5 | Allison Peterson |
 | 99 | 5 | Tashamonique Puckey |
-| 100 | 5 | Allison Peterson |
+| 100 | 5 | Devon |
 
 ---
 *Standings created by tournaments datasource generation tool*
