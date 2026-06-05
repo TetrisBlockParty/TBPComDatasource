@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 18:54:38 UTC
+# Standings for team1 as of 2026-06-05 18:55:14 UTC
 
 **Total Participants:** 404
 
@@ -9,7 +9,7 @@
 | 1 | 12000 | Ariel |
 | 2 | 2905 | Timothy Robert |
 | 3 | 1719 | Cozy Edge |
-| 4 | 1334 | Tracy Cohen |
+| 4 | 1525 | Tracy Cohen |
 | 5 | 1050 | jaimie |
 | 6 | 1008 | Dyane Leah Ware |
 | 7 | 950 | Chandler Spencer |
@@ -165,34 +165,34 @@
 | 157 | 37 | Calvin Green |
 | 158 | 37 | Cranky Fall |
 | 159 | 36 | Sunny Riserbuilder |
-| 160 | 35 | messyboots |
+| 160 | 35 | Yashica Smith |
 | 161 | 35 | Jolly Tilefall |
-| 162 | 35 | HBTone |
-| 163 | 35 | Kimberly Red |
-| 164 | 35 | Wacky Stackbuilder |
-| 165 | 35 | Yashica Smith |
-| 166 | 35 | Sashaleo |
-| 167 | 35 | Saucy Crusher |
+| 162 | 35 | Saucy Crusher |
+| 163 | 35 | HBTone |
+| 164 | 35 | Kimberly Red |
+| 165 | 35 | Sashaleo |
+| 166 | 35 | messyboots |
+| 167 | 35 | Wacky Stackbuilder |
 | 168 | 34 | David A Alvino |
-| 169 | 33 | Chris Nelson |
-| 170 | 33 | Richard Flex |
+| 169 | 33 | Richard Flex |
+| 170 | 33 | Chris Nelson |
 | 171 | 33 | Block King |
 | 172 | 33 | Rene Hicks |
-| 173 | 33 | Krose Byers |
-| 174 | 33 | Mom3granny2 |
-| 175 | 32 | Melvin Simpson |
-| 176 | 32 | Jumpy Gridlock |
-| 177 | 32 | Tyrone Porter |
-| 178 | 32 | Tobey Marberry |
-| 179 | 32 | Christi Walker Patton |
-| 180 | 32 | Jack Mehof |
-| 181 | 31 | Anthony |
+| 173 | 33 | Mom3granny2 |
+| 174 | 33 | Krose Byers |
+| 175 | 32 | Jumpy Gridlock |
+| 176 | 32 | Tyrone Porter |
+| 177 | 32 | Jackytrain52 |
+| 178 | 32 | Melvin Simpson |
+| 179 | 32 | Tobey Marberry |
+| 180 | 32 | Christi Walker Patton |
+| 181 | 32 | Jack Mehof |
 | 182 | 31 | Daris Swearington |
-| 183 | 31 | Boldy Pivoty |
+| 183 | 31 | Anthony |
 | 184 | 31 | Miera Nicole |
-| 185 | 31 | Jackytrain52 |
+| 185 | 31 | Boldy Pivoty |
 | 186 | 31 | Casey Chapman |
-| 187 | 30 | SeanSanchez |
+| 187 | 30 | Kp |
 | 188 | 30 | Witty Blockpiece |
 | 189 | 30 | Jes Marie |
 | 190 | 30 | Sarah Guarino |
@@ -203,7 +203,7 @@
 | 195 | 30 | Jack Vlasak |
 | 196 | 30 | Amy Villalpando |
 | 197 | 30 | Gabriela Hernandez |
-| 198 | 30 | Kp |
+| 198 | 30 | SeanSanchez |
 | 199 | 29 | QueenShay AllGood |
 | 200 | 29 | Dee McCool |
 | 201 | 28 | Earl Williams |
@@ -326,42 +326,42 @@
 | 318 | 12 | BigMike |
 | 319 | 11 | Taz Ballard |
 | 320 | 11 | Frilly Shatterline |
-| 321 | 11 | Wild Out Nai |
-| 322 | 10 | Po Marley |
-| 323 | 10 | Tina Mitchell |
-| 324 | 10 | Shannon Carriger |
-| 325 | 10 | Tishauna Virgo |
-| 326 | 10 | Christian Whittaker |
-| 327 | 10 | Wayne Savannah |
-| 328 | 10 | Chenell Gillard |
-| 329 | 10 | Kenny 'Tailormade' Boyd |
-| 330 | 10 | Keke |
-| 331 | 10 | Sherri Keys |
-| 332 | 10 | Marie Wilson |
-| 333 | 10 | Hoppy Rumbler |
-| 334 | 10 | Daddy |
-| 335 | 10 | Tessa Gaskin |
-| 336 | 10 | Leah Ingram |
-| 337 | 10 | Catara Renae Oliver |
-| 338 | 10 | Brittanie Wardlow |
-| 339 | 10 | Megan Payette |
-| 340 | 9 | ummm |
-| 341 | 9 | Kortney Adams |
-| 342 | 9 | Dana |
+| 321 | 11 | Kayel Good |
+| 322 | 11 | Wild Out Nai |
+| 323 | 10 | Po Marley |
+| 324 | 10 | Tina Mitchell |
+| 325 | 10 | Shannon Carriger |
+| 326 | 10 | Tishauna Virgo |
+| 327 | 10 | Christian Whittaker |
+| 328 | 10 | Wayne Savannah |
+| 329 | 10 | Chenell Gillard |
+| 330 | 10 | Kenny 'Tailormade' Boyd |
+| 331 | 10 | Keke |
+| 332 | 10 | Sherri Keys |
+| 333 | 10 | Marie Wilson |
+| 334 | 10 | Hoppy Rumbler |
+| 335 | 10 | Daddy |
+| 336 | 10 | Tessa Gaskin |
+| 337 | 10 | Leah Ingram |
+| 338 | 10 | Catara Renae Oliver |
+| 339 | 10 | Brittanie Wardlow |
+| 340 | 10 | Megan Payette |
+| 341 | 9 | ummm |
+| 342 | 9 | Kortney Adams |
 | 343 | 9 | Clifford Petroske |
-| 344 | 9 | Crtjstr |
-| 345 | 9 | Helen Smith |
-| 346 | 9 | Poppy Buildout |
-| 347 | 9 | Joka NoTime ForHataz |
-| 348 | 9 | DellaLucretia Thomas |
-| 349 | 9 | Tina Criam |
-| 350 | 9 | Rissa Rozay |
-| 351 | 9 | Sherry D Singleton |
-| 352 | 9 | Noni |
-| 353 | 9 | Douglas Price |
-| 354 | 9 | Karebear |
-| 355 | 9 | Shakmar |
-| 356 | 8 | Kayel Good |
+| 344 | 9 | Dana |
+| 345 | 9 | Crtjstr |
+| 346 | 9 | Helen Smith |
+| 347 | 9 | Poppy Buildout |
+| 348 | 9 | Joka NoTime ForHataz |
+| 349 | 9 | DellaLucretia Thomas |
+| 350 | 9 | Tina Criam |
+| 351 | 9 | Rissa Rozay |
+| 352 | 9 | Sherry D Singleton |
+| 353 | 9 | Noni |
+| 354 | 9 | Douglas Price |
+| 355 | 9 | Karebear |
+| 356 | 9 | Shakmar |
 | 357 | 8 | Rixo Blax |
 | 358 | 8 | Ferocity |
 | 359 | 8 | Brika Brika |
@@ -400,16 +400,16 @@
 | 392 | 5 | Lil T |
 | 393 | 5 | Shawn Himes |
 | 394 | 5 | Tamika Fisher |
-| 395 | 5 | Andre Sanon |
-| 396 | 5 | Kidgib5 |
-| 397 | 5 | Jennifer Moore |
-| 398 | 5 | pooh |
-| 399 | 5 | Jjhandsome |
-| 400 | 5 | DirtiestofMikes |
-| 401 | 5 | Vernon Hoyt |
-| 402 | 5 | Saucy Linkgrid |
-| 403 | 5 | Zappy Clearfit |
-| 404 | 5 | Rieshelda Marie White |
+| 395 | 5 | Rieshelda Marie White |
+| 396 | 5 | Zappy Clearfit |
+| 397 | 5 | Saucy Linkgrid |
+| 398 | 5 | Vernon Hoyt |
+| 399 | 5 | DirtiestofMikes |
+| 400 | 5 | Jjhandsome |
+| 401 | 5 | pooh |
+| 402 | 5 | Jennifer Moore |
+| 403 | 5 | Andre Sanon |
+| 404 | 5 | Kidgib5 |
 
 ---
 *Standings created by tournaments datasource generation tool*
