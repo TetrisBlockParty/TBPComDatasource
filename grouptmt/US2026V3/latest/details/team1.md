@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 12:56:36 UTC
+# Standings for team1 as of 2026-06-05 12:57:12 UTC
 
 **Total Participants:** 86
 
@@ -19,59 +19,59 @@
 | 11 | 141 | Debbie Carswell |
 | 12 | 126 | Cee Emm |
 | 13 | 81 | Robyn Caldwell |
-| 14 | 80 | Rachel Zimmerman |
-| 15 | 77 | Amber Wilson |
-| 16 | 74 | ♈️ Ariesbaby |
-| 17 | 69 | Kellie Hall |
-| 18 | 66 | Shontanese Adams |
-| 19 | 66 | Mafio SO |
-| 20 | 63 | Carrie English |
-| 21 | 60 | Asani CHumba |
-| 22 | 50 | Slinky Party |
+| 14 | 81 | Mafio SO |
+| 15 | 80 | Rachel Zimmerman |
+| 16 | 77 | Amber Wilson |
+| 17 | 74 | ♈️ Ariesbaby |
+| 18 | 69 | Kellie Hall |
+| 19 | 66 | Shontanese Adams |
+| 20 | 65 | Dizzy Dashy |
+| 21 | 63 | Carrie English |
+| 22 | 60 | Asani CHumba |
 | 23 | 50 | Jazzy Dashpiece |
-| 24 | 46 | Shanell Thomas |
-| 25 | 41 | Jessica Russell |
-| 26 | 40 | Leavon Smith |
-| 27 | 40 | Lauraly |
+| 24 | 50 | Slinky Party |
+| 25 | 46 | Shanell Thomas |
+| 26 | 41 | Jessica Russell |
+| 27 | 40 | Leavon Smith |
 | 28 | 40 | Jean Regis |
-| 29 | 38 | rls |
-| 30 | 37 | Michele Elizabeth McKay-Johnson |
-| 31 | 35 | Saucy Crusher |
-| 32 | 35 | Dai Bo |
-| 33 | 35 | Lilly Brown |
-| 34 | 35 | KoolKimJay |
-| 35 | 30 | Saucy Faller |
-| 36 | 30 | Lester Malone |
-| 37 | 28 | John Staub |
-| 38 | 27 | Angela R Wilson |
-| 39 | 27 | Zany Breaker |
-| 40 | 25 | Tyrone Porter |
-| 41 | 23 | Poppy Twister |
-| 42 | 22 | Tanisha Taylor |
-| 43 | 21 | Brave Balanceblock |
-| 44 | 20 | Jai |
+| 29 | 40 | Lauraly |
+| 30 | 38 | rls |
+| 31 | 37 | Michele Elizabeth McKay-Johnson |
+| 32 | 35 | Saucy Crusher |
+| 33 | 35 | Dai Bo |
+| 34 | 35 | Lilly Brown |
+| 35 | 35 | KoolKimJay |
+| 36 | 30 | Saucy Faller |
+| 37 | 30 | Lester Malone |
+| 38 | 28 | John Staub |
+| 39 | 27 | Angela R Wilson |
+| 40 | 27 | Zany Breaker |
+| 41 | 25 | Tyrone Porter |
+| 42 | 23 | Poppy Twister |
+| 43 | 22 | Tanisha Taylor |
+| 44 | 21 | Brave Balanceblock |
 | 45 | 20 | Trina Greenwood |
-| 46 | 19 | Brenda Malachi-butler |
-| 47 | 19 | Jenni |
+| 46 | 20 | Jai |
+| 47 | 19 | Brenda Malachi-butler |
 | 48 | 19 | SPNLover24 |
 | 49 | 19 | Shanjerrica Taylor Rosell |
 | 50 | 19 | Amanda Woodruff |
-| 51 | 18 | Dizzy Dashy |
+| 51 | 19 | Jenni |
 | 52 | 17 | Kimberly Red |
 | 53 | 17 | Rikki Moran |
-| 54 | 16 | Steve Reno |
-| 55 | 16 | Sylvia Offically A Mcgowan |
-| 56 | 15 | Ashley MyBeauty Daniels |
-| 57 | 15 | Una |
-| 58 | 15 | Christian Pham |
-| 59 | 15 | Tami Spence |
-| 60 | 15 | Charlene Baltimore |
+| 54 | 16 | Sylvia Offically A Mcgowan |
+| 55 | 16 | Steve Reno |
+| 56 | 15 | Charlene Baltimore |
+| 57 | 15 | Christian Pham |
+| 58 | 15 | Ashley MyBeauty Daniels |
+| 59 | 15 | Una |
+| 60 | 15 | Tami Spence |
 | 61 | 15 | Janet Cooke |
 | 62 | 14 | Brian Bohanon II |
 | 63 | 14 | Alyssa Rae |
 | 64 | 13 | Oaklonboy mike |
-| 65 | 12 | Tyree Tman Shinette |
-| 66 | 12 | Kimmie Gargano |
+| 65 | 12 | Kimmie Gargano |
+| 66 | 12 | Tyree Tman Shinette |
 | 67 | 11 | Desiree Ryder |
 | 68 | 10 | Frisky Fall |
 | 69 | 10 | 신재호 |

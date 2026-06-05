@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 12:56:36 UTC
+# Standings for team4 as of 2026-06-05 12:57:12 UTC
 
 **Total Participants:** 73
 
@@ -7,11 +7,11 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 1800 | Candice Driver |
-| 2 | 700 | Carly Stempien |
-| 3 | 597 | Cinny |
+| 2 | 758 | Cinny |
+| 3 | 700 | Carly Stempien |
 | 4 | 483 | Destiny Dyer |
 | 5 | 352 | Lynn Grimes |
-| 6 | 160 | Chaz Duncan |
+| 6 | 180 | Chaz Duncan |
 | 7 | 121 | Ryan Paul Clark-Ramsey |
 | 8 | 107 | Shayna Vaigneur-Hall |
 | 9 | 101 | Giggy Matchpiece |
@@ -32,23 +32,23 @@
 | 24 | 38 | Charity Thomas |
 | 25 | 34 | jojo |
 | 26 | 32 | Shiny Brick |
-| 27 | 30 | Justin Michael |
-| 28 | 30 | Will E Ayala |
+| 27 | 30 | Will E Ayala |
+| 28 | 30 | Justin Michael |
 | 29 | 28 | Melissa Schwager |
 | 30 | 28 | Laurie Patrick |
 | 31 | 26 | Dana Fontanez |
-| 32 | 25 | Маркус Вік |
-| 33 | 25 | Mrs |
+| 32 | 25 | Mrs |
+| 33 | 25 | Маркус Вік |
 | 34 | 23 | Zippy Snaplink |
 | 35 | 23 | Melissa Quinn |
 | 36 | 23 | Stasia |
 | 37 | 22 | smarty |
 | 38 | 22 | Saul Fajardo |
-| 39 | 21 | Keesha Muro |
-| 40 | 21 | Playa |
-| 41 | 20 | Erica Pompey |
+| 39 | 21 | Playa |
+| 40 | 21 | Keesha Muro |
+| 41 | 20 | Magz |
 | 42 | 20 | Jasmine Marie |
-| 43 | 20 | Magz |
+| 43 | 20 | Erica Pompey |
 | 44 | 19 | Swanky Matchfit |
 | 45 | 18 | Iforget |
 | 46 | 15 | Joshua Garner |
@@ -56,29 +56,29 @@
 | 48 | 15 | Perry Ransom |
 | 49 | 13 | Nancy McCalla Abercrombie |
 | 50 | 13 | Cherry |
-| 51 | 13 | Karen Rodriguez |
-| 52 | 13 | Catherine Garza |
-| 53 | 12 | Fancy Tilefall |
-| 54 | 12 | Alizabeth Garcia |
+| 51 | 13 | Catherine Garza |
+| 52 | 13 | Karen Rodriguez |
+| 53 | 12 | Alizabeth Garcia |
+| 54 | 12 | Fancy Tilefall |
 | 55 | 12 | Sandra O'Reilly |
-| 56 | 10 | Jonelle Jacobs |
-| 57 | 10 | JP Chua |
-| 58 | 10 | Hasty Dropzone |
-| 59 | 10 | Lateasha Wildman |
-| 60 | 10 | Buchanon Bossingup Jadrienne |
+| 56 | 10 | Buchanon Bossingup Jadrienne |
+| 57 | 10 | Lateasha Wildman |
+| 58 | 10 | Jonelle Jacobs |
+| 59 | 10 | JP Chua |
+| 60 | 10 | Hasty Dropzone |
 | 61 | 9 | Hotstuff |
 | 62 | 8 | Sisi RedVelvet Reneè |
 | 63 | 7 | George Palacios |
-| 64 | 6 | Colin |
-| 65 | 6 | Dizzy |
-| 66 | 6 | Deb 07 |
-| 67 | 5 | Lively Cascadeclear |
-| 68 | 5 | Jeremy Barry |
-| 69 | 5 | Jason Garnatz |
-| 70 | 5 | Zappy Matchgrid |
+| 64 | 6 | Dizzy |
+| 65 | 6 | Deb 07 |
+| 66 | 6 | Colin |
+| 67 | 5 | Swanky Zigzag |
+| 68 | 5 | Lively Cascadeclear |
+| 69 | 5 | Jeremy Barry |
+| 70 | 5 | Cflixer |
 | 71 | 5 | Mighty1 |
-| 72 | 5 | Cflixer |
-| 73 | 5 | Swanky Zigzag |
+| 72 | 5 | Jason Garnatz |
+| 73 | 5 | Zappy Matchgrid |
 
 ---
 *Standings created by tournaments datasource generation tool*
