@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 15:06:13 UTC
+# Standings for team4 as of 2026-06-05 15:06:35 UTC
 
 **Total Participants:** 195
 
@@ -13,17 +13,17 @@
 | 5 | 700 | Carly Stempien |
 | 6 | 634 | Lisa Cullum |
 | 7 | 559 | Lynn Grimes |
-| 8 | 440 | Kathy Brookins |
-| 9 | 379 | Snippy Grid |
-| 10 | 324 | Heather Preston |
-| 11 | 300 | Chaz Duncan |
-| 12 | 278 | Malik Thompson |
-| 13 | 270 | Gloria Nunley Trussell |
-| 14 | 229 | Blayne Kole |
-| 15 | 228 | delilahbelle |
-| 16 | 220 | Jesse Olive |
-| 17 | 208 | vag1974 |
-| 18 | 203 | Kait Confetti |
+| 8 | 459 | Kait Confetti |
+| 9 | 440 | Kathy Brookins |
+| 10 | 379 | Snippy Grid |
+| 11 | 324 | Heather Preston |
+| 12 | 300 | Chaz Duncan |
+| 13 | 278 | Malik Thompson |
+| 14 | 270 | Gloria Nunley Trussell |
+| 15 | 229 | Blayne Kole |
+| 16 | 228 | delilahbelle |
+| 17 | 220 | Jesse Olive |
+| 18 | 208 | vag1974 |
 | 19 | 200 | Leah Gorsuch |
 | 20 | 180 | Andrew Dang |
 | 21 | 169 | Kimyatta Cavin |

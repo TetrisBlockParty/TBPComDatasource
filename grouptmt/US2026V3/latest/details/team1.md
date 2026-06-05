@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 15:06:13 UTC
+# Standings for team1 as of 2026-06-05 15:06:35 UTC
 
 **Total Participants:** 217
 
@@ -24,7 +24,7 @@
 | 16 | 238 | Holly Jolly |
 | 17 | 237 | Tammye Turner |
 | 18 | 234 | Pdubbl3 |
-| 19 | 207 | Brian Bohanon II |
+| 19 | 227 | Brian Bohanon II |
 | 20 | 178 | Gotcha |
 | 21 | 177 | Chris Sladoje |
 | 22 | 170 | Janet Cooke |
@@ -111,15 +111,15 @@
 | 103 | 29 | hope |
 | 104 | 28 | John Staub |
 | 105 | 28 | IThinkNot |
-| 106 | 27 | Charlene Baltimore |
-| 107 | 27 | Zany Breaker |
+| 106 | 27 | Zany Breaker |
+| 107 | 27 | Charlene Baltimore |
 | 108 | 27 | Mighty Dropper |
 | 109 | 27 | Jae Thompson-Tyus |
 | 110 | 26 | Xrandomx |
 | 111 | 25 | Tyrone Porter |
-| 112 | 25 | Skippy |
-| 113 | 25 | Kimmie Gargano |
-| 114 | 25 | Hasty Pivoty |
+| 112 | 25 | Hasty Pivoty |
+| 113 | 25 | Skippy |
+| 114 | 25 | Kimmie Gargano |
 | 115 | 25 | Teresa Yanira Cepeda |
 | 116 | 24 | Nobles Brandon |
 | 117 | 24 | TBABYJ |
@@ -131,34 +131,34 @@
 | 123 | 22 | Ad Doctor |
 | 124 | 21 | Brave Balanceblock |
 | 125 | 20 | Trina Greenwood |
-| 126 | 20 | Tony P Burke |
-| 127 | 20 | Jai |
-| 128 | 20 | Chevalier Burley |
-| 129 | 19 | Shanjerrica Taylor Rosell |
-| 130 | 19 | JesusSaves 😇 |
-| 131 | 19 | Latore Maxie |
-| 132 | 19 | Brenda Malachi-butler |
-| 133 | 19 | Michele Simpson |
-| 134 | 19 | Saucy Tile |
-| 135 | 19 | Jenni |
-| 136 | 19 | Mimi 1.0 |
-| 137 | 19 | Tamara N Lee |
-| 138 | 19 | Amanda Woodruff |
-| 139 | 18 | AleahKCH |
-| 140 | 18 | Danny M GR |
-| 141 | 18 | HBTone |
+| 126 | 20 | HBTone |
+| 127 | 20 | Tony P Burke |
+| 128 | 20 | Jai |
+| 129 | 20 | Chevalier Burley |
+| 130 | 19 | Shanjerrica Taylor Rosell |
+| 131 | 19 | JesusSaves 😇 |
+| 132 | 19 | Latore Maxie |
+| 133 | 19 | Brenda Malachi-butler |
+| 134 | 19 | Michele Simpson |
+| 135 | 19 | Amanda Woodruff |
+| 136 | 19 | Saucy Tile |
+| 137 | 19 | Jenni |
+| 138 | 19 | Mimi 1.0 |
+| 139 | 19 | Tamara N Lee |
+| 140 | 18 | AleahKCH |
+| 141 | 18 | Danny M GR |
 | 142 | 18 | Sunny Clicky |
 | 143 | 18 | Tyree Tman Shinette |
-| 144 | 17 | Kimberly Red |
-| 145 | 17 | Byron Mario Cawthon |
-| 146 | 17 | Rikki Moran |
-| 147 | 16 | Dena Marie Lee |
-| 148 | 16 | Sylvia Offically A Mcgowan |
+| 144 | 17 | Byron Mario Cawthon |
+| 145 | 17 | Rikki Moran |
+| 146 | 17 | Kimberly Red |
+| 147 | 16 | Sunny Tumbler |
+| 148 | 16 | Dena Marie Lee |
 | 149 | 16 | MsBobby Patrick |
-| 150 | 16 | Sunny Tumbler |
-| 151 | 15 | Jess |
-| 152 | 15 | Delitra Perkins Hatter |
-| 153 | 15 | Una |
+| 150 | 16 | Sylvia Offically A Mcgowan |
+| 151 | 15 | Una |
+| 152 | 15 | Jess |
+| 153 | 15 | Delitra Perkins Hatter |
 | 154 | 15 | Tami Spence |
 | 155 | 15 | NastyFriend |
 | 156 | 15 | sasha |
