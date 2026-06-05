@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-05 19:00:14 UTC
+# Standings for team4 as of 2026-06-05 19:00:35 UTC
 
 **Total Participants:** 379
 
@@ -124,26 +124,26 @@
 | 116 | 51 | Shiny Brick |
 | 117 | 50 | CorieBe |
 | 118 | 50 | Nova Kain |
-| 119 | 49 | smarty |
+| 119 | 49 | Маркус Вік |
 | 120 | 49 | Daring Brickbuilder |
-| 121 | 49 | Маркус Вік |
+| 121 | 49 | smarty |
 | 122 | 48 | Joseph Hunter |
-| 123 | 46 | Bouncy |
-| 124 | 46 | Phil Peterson |
-| 125 | 44 | Kassey M. Clark |
-| 126 | 44 | Frisky Balance |
-| 127 | 44 | Karen Rodriguez |
+| 123 | 46 | Phil Peterson |
+| 124 | 46 | Bouncy |
+| 125 | 44 | Karen Rodriguez |
+| 126 | 44 | Tyra Brooke Everman Forest |
+| 127 | 44 | Kassey M. Clark |
 | 128 | 44 | Lul Babie |
-| 129 | 43 | Tipsy Zonebuilder |
-| 130 | 42 | Cail |
+| 129 | 44 | Frisky Balance |
+| 130 | 43 | Tipsy Zonebuilder |
 | 131 | 42 | Lucy Honer |
-| 132 | 42 | Mrs |
-| 133 | 42 | Stacy Brown |
-| 134 | 41 | kellie |
-| 135 | 40 | Cool Risepiece |
-| 136 | 40 | SweetChaos |
-| 137 | 40 | Leslie Bamonte |
-| 138 | 40 | Tyra Brooke Everman Forest |
+| 132 | 42 | Cail |
+| 133 | 42 | Mrs |
+| 134 | 42 | Stacy Brown |
+| 135 | 41 | kellie |
+| 136 | 40 | Cool Risepiece |
+| 137 | 40 | SweetChaos |
+| 138 | 40 | Leslie Bamonte |
 | 139 | 40 | Destiny Starr LeValdo |
 | 140 | 40 | Mint Marquez |
 | 141 | 40 | Cinta Marie |
@@ -160,78 +160,78 @@
 | 152 | 38 | Happy Shatterfit |
 | 153 | 38 | Jonathan Hewitt |
 | 154 | 38 | Charity Thomas |
-| 155 | 37 | jaz |
-| 156 | 37 | Dana Fontanez |
-| 157 | 37 | Tanya AfricanQueen Savage |
+| 155 | 37 | Dana Fontanez |
+| 156 | 37 | Tanya AfricanQueen Savage |
+| 157 | 37 | jaz |
 | 158 | 36 | Taz |
 | 159 | 36 | Laurie Patrick |
-| 160 | 35 | EmBem |
-| 161 | 35 | Joshua Hunt |
-| 162 | 35 | The Jazziest |
-| 163 | 35 | Joe Win |
-| 164 | 35 | gabs |
+| 160 | 35 | Joe Win |
+| 161 | 35 | Tactical_B |
+| 162 | 35 | Diane Obungu |
+| 163 | 35 | gabs |
+| 164 | 35 | Joshua Hunt |
 | 165 | 35 | MattJennifer Marie Ericson |
-| 166 | 35 | Tactical_B |
-| 167 | 35 | Diane Obungu |
-| 168 | 34 | GingaNinja |
-| 169 | 34 | Clashy |
-| 170 | 34 | Tricia Motika Cowan |
-| 171 | 34 | Rae Saunders |
-| 172 | 34 | jojo |
-| 173 | 34 | Loopy Hitter |
+| 166 | 35 | The Jazziest |
+| 167 | 35 | EmBem |
+| 168 | 34 | jojo |
+| 169 | 34 | GingaNinja |
+| 170 | 34 | Clashy |
+| 171 | 34 | Loopy Hitter |
+| 172 | 34 | Tricia Motika Cowan |
+| 173 | 34 | Rae Saunders |
 | 174 | 33 | PL GR |
-| 175 | 32 | Saul Fajardo |
-| 176 | 32 | Rosy Perez |
-| 177 | 32 | Loony Towerer |
-| 178 | 31 | Jasmine Marie |
-| 179 | 31 | Irene Arreguin |
+| 175 | 32 | Rosy Perez |
+| 176 | 32 | Loony Towerer |
+| 177 | 32 | Saul Fajardo |
+| 178 | 31 | Irene Arreguin |
+| 179 | 31 | Jasmine Marie |
 | 180 | 31 | Sweetfire |
-| 181 | 30 | Lala |
-| 182 | 30 | Chill Snapclear |
-| 183 | 30 | Dapper Strikerpiece |
-| 184 | 30 | Will E Ayala |
-| 185 | 30 | Lmg |
-| 186 | 30 | Koren Heersink |
-| 187 | 30 | Loopy Wipeout |
-| 188 | 30 | Jennifer Garcia |
-| 189 | 30 | Nicole Colby McCloskey |
+| 181 | 30 | Lmg |
+| 182 | 30 | Koren Heersink |
+| 183 | 30 | Will E Ayala |
+| 184 | 30 | Loopy Wipeout |
+| 185 | 30 | Nicole Colby McCloskey |
+| 186 | 30 | Lala |
+| 187 | 30 | Jennifer Garcia |
+| 188 | 30 | Dapper Strikerpiece |
+| 189 | 30 | Chill Snapclear |
 | 190 | 29 | Solace Grace |
 | 191 | 29 | Lilo |
 | 192 | 29 | Michael Cruz |
-| 193 | 28 | Melissa Schwager |
-| 194 | 28 | Sandra O'Reilly |
-| 195 | 28 | Loretta Hendricks |
+| 193 | 28 | Loretta Hendricks |
+| 194 | 28 | Swanky Snapgrid |
+| 195 | 28 | Deva Marie Barber |
 | 196 | 28 | Shanna Fragen |
-| 197 | 28 | Deva Marie Barber |
-| 198 | 27 | 94Blockhead |
+| 197 | 28 | Melissa Schwager |
+| 198 | 28 | Sandra O'Reilly |
 | 199 | 27 | Rose Anna Safi |
-| 200 | 27 | Shirley A. Godfrey |
-| 201 | 26 | Cherrel M. Causey |
-| 202 | 26 | Mann Manson |
+| 200 | 27 | 94Blockhead |
+| 201 | 27 | Shirley A. Godfrey |
+| 202 | 26 | Cherrel M. Causey |
 | 203 | 26 | Poppy |
-| 204 | 26 | Jenn Norcross |
+| 204 | 26 | Mann Manson |
 | 205 | 26 | Sonia Cordero-Martinez |
 | 206 | 26 | Lisa Ferriero-Daudin |
-| 207 | 26 | Zippy Snaplink |
-| 208 | 25 | BusterBear56 |
-| 209 | 25 | Vergie Michael |
-| 210 | 25 | Andrea Dre Lomeli |
-| 211 | 25 | EJ Frazier |
-| 212 | 24 | Lana Tran |
-| 213 | 24 | Dawn Phelps |
-| 214 | 24 | Katiana Gonzalez |
-| 215 | 24 | Megan Vick |
+| 207 | 26 | Jenn Norcross |
+| 208 | 26 | Zippy Snaplink |
+| 209 | 25 | Andrea Dre Lomeli |
+| 210 | 25 | BusterBear56 |
+| 211 | 25 | Vergie Michael |
+| 212 | 25 | EJ Frazier |
+| 213 | 24 | Lana Tran |
+| 214 | 24 | Dawn Phelps |
+| 215 | 24 | Katiana Gonzalez |
 | 216 | 24 | JP |
-| 217 | 24 | Spicy Peach |
-| 218 | 23 | Kristen Wallace |
-| 219 | 23 | Swanky Snapgrid |
+| 217 | 24 | Megan Vick |
+| 218 | 24 | Spicy Peach |
+| 219 | 23 | Sonya |
 | 220 | 23 | Melissa Quinn |
-| 221 | 23 | Melika Zeheb |
+| 221 | 23 | Socorro Arredondo |
 | 222 | 23 | Monte Smith |
-| 223 | 23 | Socorro Arredondo |
-| 224 | 23 | Sonya |
-| 225 | 22 | Jonelle Jacobs |
-| 226 | 22 | Leslie Marie WarClub |
+| 223 | 23 | Kristen Wallace |
+| 224 | 23 | Melika Zeheb |
+| 225 | 22 | Leslie Marie WarClub |
+| 226 | 22 | Jonelle Jacobs |
 | 227 | 22 | Nancy McCalla Abercrombie |
 | 228 | 21 | Tiffany Loree Tiffany Oneill |
 | 229 | 21 | SandyEva |
