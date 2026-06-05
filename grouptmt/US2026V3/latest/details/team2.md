@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 15:24:38 UTC
+# Standings for team2 as of 2026-06-05 15:25:13 UTC
 
 **Total Participants:** 235
 
@@ -58,43 +58,43 @@
 | 50 | 54 | Cool Balancer |
 | 51 | 52 | Rick |
 | 52 | 51 | Loretta Crow |
-| 53 | 50 | Shiny Spinfit |
-| 54 | 50 | Martha Lynn Wiggins |
+| 53 | 50 | Martha Lynn Wiggins |
+| 54 | 50 | Shiny Spinfit |
 | 55 | 48 | Spicy Basepiece |
 | 56 | 47 | Jenni LeBlanc |
 | 57 | 46 | Dizzy Dropzone |
 | 58 | 45 | Sandra Pursell |
 | 59 | 45 | Michelle Anne |
 | 60 | 45 | Lively Twisterfit |
-| 61 | 44 | Zaniya Brown |
-| 62 | 43 | SEH |
+| 61 | 44 | Justin Stark |
+| 62 | 44 | Zaniya Brown |
 | 63 | 43 | Brenda Jones |
-| 64 | 43 | Peter Fogg |
-| 65 | 42 | Henny Henny |
-| 66 | 42 | Snazzy Smasher |
-| 67 | 42 | Charity Hauser |
-| 68 | 42 | Bri St Peter |
-| 69 | 41 | Jenny Coffer |
-| 70 | 41 | Ava Speedy |
-| 71 | 40 | Bon Lynn |
-| 72 | 40 | Kevin Mccoy |
-| 73 | 40 | Nicole Chestnut |
-| 74 | 40 | Sherry Ann |
-| 75 | 40 | Dane Marko |
-| 76 | 39 | Becca Marie |
+| 64 | 43 | SEH |
+| 65 | 43 | Peter Fogg |
+| 66 | 42 | Henny Henny |
+| 67 | 42 | Snazzy Smasher |
+| 68 | 42 | Charity Hauser |
+| 69 | 42 | Bri St Peter |
+| 70 | 41 | Jenny Coffer |
+| 71 | 41 | Ava Speedy |
+| 72 | 40 | Bon Lynn |
+| 73 | 40 | Dane Marko |
+| 74 | 40 | Kevin Mccoy |
+| 75 | 40 | Sherry Ann |
+| 76 | 40 | Nicole Chestnut |
 | 77 | 39 | Jason Lamporte |
 | 78 | 39 | Theresa Hollinger |
-| 79 | 39 | Xandrea Jones |
-| 80 | 38 | Harper |
-| 81 | 38 | Justin Stark |
-| 82 | 38 | Nicole Hogue |
-| 83 | 38 | Jason P. Schwartz |
+| 79 | 39 | Becca Marie |
+| 80 | 39 | Xandrea Jones |
+| 81 | 38 | Jason P. Schwartz |
+| 82 | 38 | Harper |
+| 83 | 38 | Nicole Hogue |
 | 84 | 37 | James Ward |
 | 85 | 36 | Mtnblzr |
-| 86 | 35 | Kelly |
-| 87 | 35 | Angie BBlock |
-| 88 | 35 | Larry Cross |
-| 89 | 35 | Josie Mendivil |
+| 86 | 35 | Angie BBlock |
+| 87 | 35 | Kelly |
+| 88 | 35 | Josie Mendivil |
+| 89 | 35 | Larry Cross |
 | 90 | 35 | Jackie Walker |
 | 91 | 35 | Jason Cunningham |
 | 92 | 34 | Funway998 |
@@ -110,11 +110,11 @@
 | 102 | 30 | Sarah Jane Gorsuch |
 | 103 | 30 | Paula Haskins |
 | 104 | 30 | Patti Ward |
-| 105 | 28 | Sara BlueEyes |
-| 106 | 27 | Kim |
-| 107 | 26 | Rachel Huber |
-| 108 | 26 | rageking |
-| 109 | 26 | Laverne Ellis Blair |
+| 105 | 29 | Laverne Ellis Blair |
+| 106 | 28 | Sara BlueEyes |
+| 107 | 27 | Kim |
+| 108 | 26 | Rachel Huber |
+| 109 | 26 | rageking |
 | 110 | 26 | Ariel Gundersen |
 | 111 | 26 | Quina Jesse Fejaran |
 | 112 | 25 | Heather Burgett |
@@ -205,42 +205,42 @@
 | 197 | 9 | Angelique Matzke Starns |
 | 198 | 9 | Darla Ragsdale |
 | 199 | 9 | Princess Cucumber |
-| 200 | 9 | bigdog |
-| 201 | 9 | Lindsey Butler |
+| 200 | 9 | Chirpy Clearpiece |
+| 201 | 9 | David Skelton |
 | 202 | 9 | Michele Stewart |
-| 203 | 9 | David Skelton |
-| 204 | 9 | Chirpy Clearpiece |
-| 205 | 8 | Renee Weedling |
-| 206 | 8 | Chelsea Frye |
-| 207 | 8 | Nicky Steigerwalt |
-| 208 | 8 | Stephanie |
-| 209 | 8 | Bubbly Strikerpiece |
-| 210 | 8 | Amber Carpenter |
-| 211 | 8 | Sully |
-| 212 | 7 | Rae |
-| 213 | 7 | Cherica Taylor |
-| 214 | 7 | Nova Nova |
-| 215 | 7 | nova |
+| 203 | 9 | Lindsey Butler |
+| 204 | 9 | bigdog |
+| 205 | 8 | Amber Carpenter |
+| 206 | 8 | Bubbly Strikerpiece |
+| 207 | 8 | Sully |
+| 208 | 8 | Renee Weedling |
+| 209 | 8 | Chelsea Frye |
+| 210 | 8 | Nicky Steigerwalt |
+| 211 | 8 | Stephanie |
+| 212 | 7 | Happy Curvebuilder |
+| 213 | 7 | nova |
+| 214 | 7 | Elizabeth Elaine Coursey |
+| 215 | 7 | Epic Framezone |
 | 216 | 7 | Tashamonique Puckey |
-| 217 | 7 | Elizabeth Elaine Coursey |
-| 218 | 7 | Jackie Hayslip |
-| 219 | 7 | Epic Framezone |
-| 220 | 7 | michael |
-| 221 | 7 | Happy Curvebuilder |
-| 222 | 6 | Cheeky Dashpiece |
-| 223 | 6 | Jeanna Mendez |
-| 224 | 6 | Kelly Christine Trimmer |
-| 225 | 6 | fancypants |
-| 226 | 6 | Fran Gerebics |
+| 217 | 7 | michael |
+| 218 | 7 | Cherica Taylor |
+| 219 | 7 | Jackie Hayslip |
+| 220 | 7 | Nova Nova |
+| 221 | 7 | Rae |
+| 222 | 6 | Jeanna Mendez |
+| 223 | 6 | Kelly Christine Trimmer |
+| 224 | 6 | fancypants |
+| 225 | 6 | Fran Gerebics |
+| 226 | 6 | Cheeky Dashpiece |
 | 227 | 6 | Gina Leal |
-| 228 | 5 | DayDreamer79 |
-| 229 | 5 | Amber-leigh Williams |
-| 230 | 5 | Agnes Gable |
-| 231 | 5 | Allison Peterson |
-| 232 | 5 | Slinky Glidezone |
-| 233 | 5 | Devon |
-| 234 | 5 | Mercedes Lowery |
-| 235 | 5 | Jolly Twisterfit |
+| 228 | 5 | Allison Peterson |
+| 229 | 5 | Mercedes Lowery |
+| 230 | 5 | Devon |
+| 231 | 5 | Agnes Gable |
+| 232 | 5 | DayDreamer79 |
+| 233 | 5 | Jolly Twisterfit |
+| 234 | 5 | Amber-leigh Williams |
+| 235 | 5 | Slinky Glidezone |
 
 ---
 *Standings created by tournaments datasource generation tool*
