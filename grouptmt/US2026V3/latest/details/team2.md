@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 13:09:12 UTC
+# Standings for team2 as of 2026-06-05 13:10:13 UTC
 
 **Total Participants:** 78
 
@@ -38,52 +38,52 @@
 | 30 | 28 | Rick |
 | 31 | 27 | Michael Carmichael |
 | 32 | 26 | Henny Henny |
-| 33 | 26 | Rachel Huber |
-| 34 | 26 | Ariel Gundersen |
-| 35 | 26 | Quina Jesse Fejaran |
+| 33 | 26 | Ariel Gundersen |
+| 34 | 26 | Quina Jesse Fejaran |
+| 35 | 26 | Rachel Huber |
 | 36 | 25 | Jgato |
-| 37 | 24 | Dayna Messer-Thelen |
-| 38 | 24 | A.j. Langley |
-| 39 | 23 | IncrediDragon |
-| 40 | 23 | Damion Morrison |
+| 37 | 24 | A.j. Langley |
+| 38 | 24 | Dayna Messer-Thelen |
+| 39 | 23 | Damion Morrison |
+| 40 | 23 | IncrediDragon |
 | 41 | 22 | Jeff Pottgether |
 | 42 | 21 | Kelly |
-| 43 | 20 | AcardBoardBox |
-| 44 | 20 | ChefDeb |
-| 45 | 18 | Nathan Walker |
+| 43 | 20 | ChefDeb |
+| 44 | 20 | AcardBoardBox |
+| 45 | 18 | Tracey Cox |
 | 46 | 18 | Wendy McKee |
-| 47 | 18 | Tracey Cox |
+| 47 | 18 | Nathan Walker |
 | 48 | 14 | Harper |
 | 49 | 12 | Stacey Loretta Wallace |
-| 50 | 12 | Chirpy Grid |
+| 50 | 12 | Mary |
 | 51 | 12 | Diamond Balotje |
-| 52 | 12 | Mary |
-| 53 | 11 | Thy Bui |
-| 54 | 11 | Lora Via |
-| 55 | 10 | Joyce Galloway |
-| 56 | 10 | Twisty Snapmatch |
-| 57 | 10 | Gill |
+| 52 | 12 | Chirpy Grid |
+| 53 | 11 | Lora Via |
+| 54 | 11 | Thy Bui |
+| 55 | 10 | Gill |
+| 56 | 10 | Thomas Johnstone |
+| 57 | 10 | Twisty Snapmatch |
 | 58 | 10 | Jennifer Bell |
-| 59 | 10 | Thomas Johnstone |
+| 59 | 10 | Joyce Galloway |
 | 60 | 10 | Berta Hurley |
-| 61 | 10 | Justin Furne |
-| 62 | 10 | Donna Casey |
-| 63 | 9 | Mama G |
+| 61 | 10 | Donna Casey |
+| 62 | 10 | Justin Furne |
+| 63 | 9 | Jessica Perkins |
 | 64 | 9 | Princess Cucumber |
-| 65 | 9 | Giggly Spinblock |
+| 65 | 9 | Mama G |
 | 66 | 9 | Darla Ragsdale |
-| 67 | 9 | Jessica Perkins |
-| 68 | 7 | Cherica Taylor |
-| 69 | 7 | Epic Framezone |
-| 70 | 7 | Elizabeth Elaine Coursey |
-| 71 | 7 | Jamie Fenyus |
-| 72 | 7 | nova |
-| 73 | 6 | Kelly Christine Trimmer |
-| 74 | 6 | Andre Love |
+| 67 | 9 | Giggly Spinblock |
+| 68 | 8 | Andre Love |
+| 69 | 7 | Jamie Fenyus |
+| 70 | 7 | nova |
+| 71 | 7 | Elizabeth Elaine Coursey |
+| 72 | 7 | Epic Framezone |
+| 73 | 7 | Cherica Taylor |
+| 74 | 6 | Kelly Christine Trimmer |
 | 75 | 6 | fancypants |
-| 76 | 5 | Allison Peterson |
-| 77 | 5 | Tashamonique Puckey |
-| 78 | 5 | Devon |
+| 76 | 5 | Tashamonique Puckey |
+| 77 | 5 | Devon |
+| 78 | 5 | Allison Peterson |
 
 ---
 *Standings created by tournaments datasource generation tool*
