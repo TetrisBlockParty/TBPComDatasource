@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-05 16:42:13 UTC
+# Standings for team2 as of 2026-06-05 16:42:36 UTC
 
 **Total Participants:** 310
 
@@ -272,49 +272,49 @@
 | 264 | 9 | Cary M. Fong |
 | 265 | 9 | Tabitha Porter |
 | 266 | 9 | Giggly Spinblock |
-| 267 | 9 | bigdog |
-| 268 | 9 | Chirpy Clearpiece |
-| 269 | 9 | Lindsey Butler |
-| 270 | 9 | Darla Ragsdale |
-| 271 | 9 | Michele Stewart |
-| 272 | 9 | David Skelton |
-| 273 | 8 | Chelsea Frye |
-| 274 | 8 | Renee Weedling |
-| 275 | 8 | Stephanie |
-| 276 | 8 | Alimae |
-| 277 | 8 | Rhonda Diebold |
-| 278 | 8 | Bubbly Strikerpiece |
-| 279 | 8 | Amber Carpenter |
-| 280 | 8 | DayDreamer79 |
-| 281 | 7 | Jackie Hayslip |
-| 282 | 7 | Nova Nova |
-| 283 | 7 | Kelli Pazour |
-| 284 | 7 | Tashamonique Puckey |
-| 285 | 7 | Flashy Cascadeclear |
-| 286 | 7 | michael |
-| 287 | 7 | Cherica Taylor |
-| 288 | 7 | Elizabeth Elaine Coursey |
-| 289 | 7 | Happy Curvebuilder |
-| 290 | 7 | Rae |
-| 291 | 7 | Shane Peavey |
-| 292 | 6 | Cheeky Dashpiece |
-| 293 | 6 | Emily |
-| 294 | 6 | Connie Breeden |
-| 295 | 6 | Sarah Griffey |
-| 296 | 6 | Gina Leal |
-| 297 | 6 | Denise Morehart |
-| 298 | 6 | fancypants |
-| 299 | 6 | Jeanna Mendez |
-| 300 | 6 | Kelly Christine Trimmer |
-| 301 | 6 | Fran Gerebics |
-| 302 | 6 | Mary Carriere |
+| 267 | 9 | Chirpy Clearpiece |
+| 268 | 9 | Lindsey Butler |
+| 269 | 9 | Michele Stewart |
+| 270 | 9 | David Skelton |
+| 271 | 9 | Darla Ragsdale |
+| 272 | 9 | bigdog |
+| 273 | 8 | Amber Carpenter |
+| 274 | 8 | Stephanie |
+| 275 | 8 | DayDreamer79 |
+| 276 | 8 | Bubbly Strikerpiece |
+| 277 | 8 | Chelsea Frye |
+| 278 | 8 | Rhonda Diebold |
+| 279 | 8 | Alimae |
+| 280 | 8 | Renee Weedling |
+| 281 | 7 | Kelli Pazour |
+| 282 | 7 | Elizabeth Elaine Coursey |
+| 283 | 7 | Tashamonique Puckey |
+| 284 | 7 | Nova Nova |
+| 285 | 7 | Rae |
+| 286 | 7 | Flashy Cascadeclear |
+| 287 | 7 | Shane Peavey |
+| 288 | 7 | michael |
+| 289 | 7 | Jackie Hayslip |
+| 290 | 7 | Cherica Taylor |
+| 291 | 7 | Happy Curvebuilder |
+| 292 | 6 | Connie Breeden |
+| 293 | 6 | Cheeky Dashpiece |
+| 294 | 6 | Sarah Griffey |
+| 295 | 6 | Denise Morehart |
+| 296 | 6 | fancypants |
+| 297 | 6 | Kelly Christine Trimmer |
+| 298 | 6 | Fran Gerebics |
+| 299 | 6 | Mary Carriere |
+| 300 | 6 | Gina Leal |
+| 301 | 6 | Jeanna Mendez |
+| 302 | 6 | Emily |
 | 303 | 5 | Slinky Glidezone |
-| 304 | 5 | Joni Michelle Morgan |
-| 305 | 5 | Poppy Zonepiece |
-| 306 | 5 | Agnes Gable |
-| 307 | 5 | Jolly Twisterfit |
-| 308 | 5 | Mercedes Lowery |
-| 309 | 5 | Lindsey Ford |
+| 304 | 5 | Jolly Twisterfit |
+| 305 | 5 | Joni Michelle Morgan |
+| 306 | 5 | Poppy Zonepiece |
+| 307 | 5 | Mercedes Lowery |
+| 308 | 5 | Lindsey Ford |
+| 309 | 5 | Agnes Gable |
 | 310 | 5 | Pjrobinsonnn |
 
 ---
