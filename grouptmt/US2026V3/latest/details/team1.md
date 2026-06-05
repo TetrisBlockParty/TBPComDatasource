@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-05 14:36:14 UTC
+# Standings for team1 as of 2026-06-05 14:36:35 UTC
 
 **Total Participants:** 190
 
@@ -52,13 +52,13 @@
 | 44 | 65 | Dizzy Dashy |
 | 45 | 63 | Carrie English |
 | 46 | 60 | Christian Pham |
-| 47 | 57 | Tosha Michelle |
-| 48 | 54 | Lauraly |
-| 49 | 51 | Comedian Gdane |
-| 50 | 50 | Donna Payne |
-| 51 | 50 | Slinky Party |
-| 52 | 50 | $hort Dog |
-| 53 | 50 | Bre Maugh |
+| 47 | 60 | Bre Maugh |
+| 48 | 57 | Tosha Michelle |
+| 49 | 54 | Lauraly |
+| 50 | 51 | Comedian Gdane |
+| 51 | 50 | Donna Payne |
+| 52 | 50 | Slinky Party |
+| 53 | 50 | $hort Dog |
 | 54 | 50 | Yazz |
 | 55 | 45 | Jayjay Rich |
 | 56 | 43 | KenpachisGirl |
