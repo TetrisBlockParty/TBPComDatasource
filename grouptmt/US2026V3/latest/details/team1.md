@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 07:23:16 UTC
+# Standings for team1 as of 2026-06-06 07:24:16 UTC
 
 **Total Participants:** 907
 
@@ -31,8 +31,8 @@
 | 23 | 945 | Cassidy Butler |
 | 24 | 935 | Whitney Butler |
 | 25 | 928 | Juan Kandiss Escobedo Irwin |
-| 26 | 905 | Jolly Dropzone |
-| 27 | 892 | Daylene Johannes |
+| 26 | 912 | Daylene Johannes |
+| 27 | 905 | Jolly Dropzone |
 | 28 | 882 | Jon Gathers |
 | 29 | 867 | Brian Bohanon II |
 | 30 | 863 | Holly Jolly |
@@ -40,9 +40,9 @@
 | 32 | 842 | Chris Russell |
 | 33 | 841 | Spicy Balancer |
 | 34 | 794 | Jennifer To |
-| 35 | 749 | Aviv Zehavi |
-| 36 | 715 | Chill Clusterer |
-| 37 | 686 | Cherry Rose |
+| 35 | 783 | Cherry Rose |
+| 36 | 749 | Aviv Zehavi |
+| 37 | 715 | Chill Clusterer |
 | 38 | 670 | Jaida King |
 | 39 | 670 | Charnay Peacock |
 | 40 | 605 | JoJo |
@@ -147,11 +147,11 @@
 | 139 | 151 | Dacia Hicks |
 | 140 | 147 | MACHETEEDDIE513 |
 | 141 | 147 | David Fuentes |
-| 142 | 146 | Marcheta Cervantez |
-| 143 | 140 | Felicia Cain |
-| 144 | 140 | Ann Chung |
-| 145 | 140 | Sara Meri |
-| 146 | 139 | Andre Sanon |
+| 142 | 147 | Andre Sanon |
+| 143 | 146 | Marcheta Cervantez |
+| 144 | 140 | Felicia Cain |
+| 145 | 140 | Ann Chung |
+| 146 | 140 | Sara Meri |
 | 147 | 139 | Mafio SO |
 | 148 | 138 | Lashaunda |
 | 149 | 138 | JaClanDiah |
