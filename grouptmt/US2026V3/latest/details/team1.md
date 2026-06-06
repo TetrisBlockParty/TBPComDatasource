@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 15:26:17 UTC
+# Standings for team1 as of 2026-06-06 15:26:41 UTC
 
 **Total Participants:** 1041
 
@@ -11,8 +11,8 @@
 | 3 | 5140 | Cozy Edge |
 | 4 | 5000 | Tyeina Johnson |
 | 5 | 4901 | Dyane Leah Ware |
-| 6 | 4650 | Songne Arif |
-| 7 | 4495 | Tracy Cohen |
+| 6 | 4774 | Tracy Cohen |
+| 7 | 4650 | Songne Arif |
 | 8 | 4339 | Carrie English |
 | 9 | 3811 | Timothy Robert |
 | 10 | 3411 | Charlie Roehm |

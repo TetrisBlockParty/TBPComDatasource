@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 15:26:17 UTC
+# Standings for team2 as of 2026-06-06 15:26:41 UTC
 
 **Total Participants:** 1217
 
@@ -87,9 +87,9 @@
 | 79 | 501 | Ricardo Ewart |
 | 80 | 494 | Shandrea Crawford |
 | 81 | 486 | Krisanne Kesner-Lonsby |
-| 82 | 471 | Marquita Toliver |
-| 83 | 468 | Amy Gale |
-| 84 | 463 | Nerdy Climber |
+| 82 | 483 | Nerdy Climber |
+| 83 | 471 | Marquita Toliver |
+| 84 | 468 | Amy Gale |
 | 85 | 449 | Poppy |
 | 86 | 440 | Courtney McCulley |
 | 87 | 436 | Mirr Lulu |
@@ -204,7 +204,7 @@
 | 196 | 165 | Ackerman 85 |
 | 197 | 164 | Cara Rivera |
 | 198 | 164 | Jerry L Morales |
-| 199 | 163 | Spicy Risegrid |
+| 199 | 164 | Spicy Risegrid |
 | 200 | 163 | Zany Cascader |
 | 201 | 162 | Laverne Ellis Blair |
 | 202 | 161 | Boldy Wobbler |
@@ -282,38 +282,38 @@
 | 274 | 114 | Jackie Tupper |
 | 275 | 112 | Traci Abern |
 | 276 | 112 | Cindy Scott |
-| 277 | 111 | Bianca Woodruff |
-| 278 | 111 | Charles E Mccardell |
+| 277 | 111 | Charles E Mccardell |
+| 278 | 111 | Bianca Woodruff |
 | 279 | 110 | Zappy Liney |
-| 280 | 110 | Nichole Wilson |
-| 281 | 109 | Kevin Patrick |
+| 280 | 110 | Skye Ehret |
+| 281 | 110 | Nichole Wilson |
 | 282 | 109 | Kawana Nesbitt |
 | 283 | 109 | Cathy Tippett |
-| 284 | 108 | Rachel Nilles |
-| 285 | 108 | Meagan Grimmett Washburn |
-| 286 | 107 | Angeleye A James |
-| 287 | 107 | Carole Brown |
-| 288 | 107 | Michelle M Braley |
-| 289 | 106 | Danielle Blount |
-| 290 | 106 | Patria Osuoha |
-| 291 | 106 | Sara Perkins |
-| 292 | 105 | Gloria May Shook |
-| 293 | 105 | LittleHippoEars |
-| 294 | 105 | Tamtam |
-| 295 | 105 | Skye Ehret |
-| 296 | 105 | Saucy Wrecker |
-| 297 | 104 | Roe Sarmiento |
-| 298 | 104 | Reign Hustler |
-| 299 | 104 | Theresa Hollinger |
+| 284 | 109 | Kevin Patrick |
+| 285 | 108 | Rachel Nilles |
+| 286 | 108 | Meagan Grimmett Washburn |
+| 287 | 107 | Angeleye A James |
+| 288 | 107 | Carole Brown |
+| 289 | 107 | Michelle M Braley |
+| 290 | 106 | Danielle Blount |
+| 291 | 106 | Patria Osuoha |
+| 292 | 106 | Sara Perkins |
+| 293 | 105 | Gloria May Shook |
+| 294 | 105 | LittleHippoEars |
+| 295 | 105 | Saucy Wrecker |
+| 296 | 105 | Tamtam |
+| 297 | 104 | Reign Hustler |
+| 298 | 104 | Theresa Hollinger |
+| 299 | 104 | Roe Sarmiento |
 | 300 | 102 | Alissa Ary |
 | 301 | 102 | Tammy Roth |
 | 302 | 101 | Jef Wassom |
-| 303 | 100 | August Christy Lathrop |
-| 304 | 100 | Jason Cunningham |
+| 303 | 100 | Katie Jones |
+| 304 | 100 | Ber |
 | 305 | 100 | Leticia Tillman |
-| 306 | 100 | Ber |
-| 307 | 100 | Katie Jones |
-| 308 | 100 | Anthony Swift |
+| 306 | 100 | Jason Cunningham |
+| 307 | 100 | Anthony Swift |
+| 308 | 100 | August Christy Lathrop |
 | 309 | 99 | Gabrielle Rivera |
 | 310 | 99 | Belle |
 | 311 | 99 | Jennifer Vitro |

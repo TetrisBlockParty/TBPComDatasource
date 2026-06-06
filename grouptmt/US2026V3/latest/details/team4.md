@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 15:26:17 UTC
+# Standings for team4 as of 2026-06-06 15:26:41 UTC
 
 **Total Participants:** 1026
 
@@ -86,13 +86,13 @@
 | 78 | 383 | Crissy Hoffman |
 | 79 | 378 | Lisa Garcia |
 | 80 | 376 | Jason Garnatz |
-| 81 | 356 | Tanita Jobe |
-| 82 | 353 | Hen |
-| 83 | 347 | Nikki Fuller Johnson |
-| 84 | 346 | Alexis Cor |
-| 85 | 333 | Alexandria Frazier |
-| 86 | 332 | RotatedWrongAgain |
-| 87 | 330 | Kitsune Bi |
+| 81 | 360 | Kitsune Bi |
+| 82 | 356 | Tanita Jobe |
+| 83 | 353 | Hen |
+| 84 | 347 | Nikki Fuller Johnson |
+| 85 | 346 | Alexis Cor |
+| 86 | 333 | Alexandria Frazier |
+| 87 | 332 | RotatedWrongAgain |
 | 88 | 326 | Cherry |
 | 89 | 320 | Gigglycat |
 | 90 | 320 | DexterDobbins |
@@ -234,15 +234,15 @@
 | 226 | 112 | Homie |
 | 227 | 111 | King |
 | 228 | 110 | jaz |
-| 229 | 109 | Slinky Stackzone |
-| 230 | 109 | Rose Anna Safi |
-| 231 | 108 | Dawn Phelps |
-| 232 | 108 | Anthony Lewis |
-| 233 | 107 | Allysha McFarland |
-| 234 | 107 | Mark Norton |
-| 235 | 107 | Jrr |
-| 236 | 106 | Samantha Worley |
-| 237 | 106 | Lively Cascadebuilder |
+| 229 | 109 | Lively Cascadebuilder |
+| 230 | 109 | Slinky Stackzone |
+| 231 | 109 | Rose Anna Safi |
+| 232 | 108 | Dawn Phelps |
+| 233 | 108 | Anthony Lewis |
+| 234 | 107 | Allysha McFarland |
+| 235 | 107 | Mark Norton |
+| 236 | 107 | Jrr |
+| 237 | 106 | Samantha Worley |
 | 238 | 105 | Quiomarie Cotto |
 | 239 | 105 | Bridget Stevens |
 | 240 | 104 | LastBoi |
@@ -328,9 +328,9 @@
 | 320 | 80 | Josh Keith Travierso |
 | 321 | 80 | Maurice DeJean |
 | 322 | 80 | Queen B |
-| 323 | 80 | Suzanne Carter |
-| 324 | 80 | Aaron Turner |
-| 325 | 79 | Darren Miguel |
+| 323 | 80 | Darren Miguel |
+| 324 | 80 | Suzanne Carter |
+| 325 | 80 | Aaron Turner |
 | 326 | 79 | Playa |
 | 327 | 79 | Joyce Myers |
 | 328 | 79 | Elena Marí |
