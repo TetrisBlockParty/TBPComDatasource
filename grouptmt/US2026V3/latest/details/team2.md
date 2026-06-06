@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 18:36:16 UTC
+# Standings for team2 as of 2026-06-06 18:36:39 UTC
 
 **Total Participants:** 1312
 
@@ -67,14 +67,14 @@
 | 59 | 798 | Gabriella Humphreys |
 | 60 | 779 | Marie Luciano |
 | 61 | 750 | Brent Bittenbender |
-| 62 | 744 | Deborah Boyce Minor |
-| 63 | 731 | Amber Salazar |
-| 64 | 711 | Hoppy Rotate |
-| 65 | 705 | Jazzy Faller |
-| 66 | 702 | Charley Bedford |
-| 67 | 701 | Sarah Griffey |
-| 68 | 700 | Denise Potter |
-| 69 | 699 | Marquita Toliver |
+| 62 | 749 | Marquita Toliver |
+| 63 | 744 | Deborah Boyce Minor |
+| 64 | 731 | Amber Salazar |
+| 65 | 711 | Hoppy Rotate |
+| 66 | 705 | Jazzy Faller |
+| 67 | 702 | Charley Bedford |
+| 68 | 701 | Sarah Griffey |
+| 69 | 700 | Denise Potter |
 | 70 | 695 | Andre Love |
 | 71 | 694 | Angie Mccain |
 | 72 | 671 | Brandi Thompson |
@@ -167,10 +167,10 @@
 | 159 | 242 | H |
 | 160 | 241 | Boldy Wobbler |
 | 161 | 241 | Charlie Wilson |
-| 162 | 232 | Pam Bauder Ludwig |
-| 163 | 230 | Brandy Chinelle |
-| 164 | 228 | Keri Mears |
-| 165 | 227 | Ashley Green |
+| 162 | 235 | Ashley Green |
+| 163 | 232 | Pam Bauder Ludwig |
+| 164 | 230 | Brandy Chinelle |
+| 165 | 228 | Keri Mears |
 | 166 | 224 | Kathleen Keogh Van Schoyck |
 | 167 | 220 | Melissa Thomas |
 | 168 | 220 | Flashy Basegrid |
@@ -256,36 +256,36 @@
 | 248 | 141 | Melisa |
 | 249 | 141 | Cheery Towerzone |
 | 250 | 141 | Theresa Huddleston |
-| 251 | 140 | Billie Jensen |
-| 252 | 140 | Sharon L Brazelton |
-| 253 | 140 | Iesha Cupil |
-| 254 | 140 | Brittney Williams |
-| 255 | 139 | Victoria Pale |
-| 256 | 139 | Amanda L Strong |
-| 257 | 138 | NickandJess Reynolds |
-| 258 | 138 | Ashley Miller |
-| 259 | 137 | Liseth Vasquez |
+| 251 | 140 | Brittney Williams |
+| 252 | 140 | Iesha Cupil |
+| 253 | 140 | Billie Jensen |
+| 254 | 140 | Sharon L Brazelton |
+| 255 | 139 | Monique Frantz |
+| 256 | 139 | Victoria Pale |
+| 257 | 139 | Amanda L Strong |
+| 258 | 138 | NickandJess Reynolds |
+| 259 | 138 | Ashley Miller |
 | 260 | 137 | Lindsey Ford |
-| 261 | 136 | Mtnblzr |
+| 261 | 137 | Liseth Vasquez |
 | 262 | 136 | Kimmyc |
 | 263 | 136 | Lauren Maxwell |
-| 264 | 135 | Marylin Eacker |
-| 265 | 135 | Marge Cromer |
-| 266 | 135 | Amy Lea Hamilton |
-| 267 | 135 | Skye Ehret |
-| 268 | 134 | Funway998 |
+| 264 | 136 | Mtnblzr |
+| 265 | 135 | Amy Lea Hamilton |
+| 266 | 135 | Marge Cromer |
+| 267 | 135 | Marylin Eacker |
+| 268 | 135 | Skye Ehret |
 | 269 | 134 | Sabrina Hardrick |
-| 270 | 134 | Joanna Trevin Thompson |
-| 271 | 133 | Monique Frantz |
-| 272 | 132 | Alison Waller |
-| 273 | 132 | Spunky Cascadeclear |
+| 270 | 134 | Funway998 |
+| 271 | 134 | Joanna Trevin Thompson |
+| 272 | 132 | Spunky Cascadeclear |
+| 273 | 132 | Alison Waller |
 | 274 | 130 | Hector |
-| 275 | 130 | Precious Womack |
-| 276 | 130 | Jason Cunningham |
+| 275 | 130 | Jason Cunningham |
+| 276 | 130 | Precious Womack |
 | 277 | 130 | ZBee |
-| 278 | 129 | Armando Sabedra |
-| 279 | 129 | Belle |
-| 280 | 129 | Loopy Tower |
+| 278 | 129 | Loopy Tower |
+| 279 | 129 | Armando Sabedra |
+| 280 | 129 | Belle |
 | 281 | 129 | Sandy Justus |
 | 282 | 128 | Teddy Williams |
 | 283 | 126 | Teresa Mandich |
@@ -296,14 +296,14 @@
 | 288 | 124 | Jason Burris |
 | 289 | 123 | Nikki EightySixed |
 | 290 | 121 | Tango Sierra |
-| 291 | 120 | Sassy Twistbuilder |
+| 291 | 120 | Elizabeth Cornelius |
 | 292 | 120 | Charity Hauser |
-| 293 | 120 | Al Smith Jr |
-| 294 | 120 | Elizabeth Cornelius |
-| 295 | 120 | Simone F |
-| 296 | 120 | Happy |
-| 297 | 120 | Keisha Robinson |
-| 298 | 120 | Carlos J Blas |
+| 293 | 120 | Simone F |
+| 294 | 120 | Happy |
+| 295 | 120 | Carlos J Blas |
+| 296 | 120 | Al Smith Jr |
+| 297 | 120 | Sassy Twistbuilder |
+| 298 | 120 | Keisha Robinson |
 | 299 | 120 | Jessica Connot |
 | 300 | 120 | Kevin Mccoy |
 | 301 | 119 | Perii Reynoso |
@@ -311,11 +311,11 @@
 | 303 | 114 | Ashley Voelz |
 | 304 | 113 | Sherri E Woods Hess |
 | 305 | 112 | Cindy Scott |
-| 306 | 112 | Traci Abern |
-| 307 | 111 | Nikki Hatch |
-| 308 | 111 | Charles E Mccardell |
-| 309 | 111 | Norma Ortiz |
-| 310 | 111 | Bianca Woodruff |
+| 306 | 112 | Norma Ortiz |
+| 307 | 112 | Traci Abern |
+| 308 | 111 | Bianca Woodruff |
+| 309 | 111 | Nikki Hatch |
+| 310 | 111 | Charles E Mccardell |
 | 311 | 110 | Zappy Liney |
 | 312 | 110 | Nichole Wilson |
 | 313 | 109 | Kawana Nesbitt |

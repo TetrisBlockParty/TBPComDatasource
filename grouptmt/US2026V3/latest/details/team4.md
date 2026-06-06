@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 18:36:16 UTC
+# Standings for team4 as of 2026-06-06 18:36:39 UTC
 
 **Total Participants:** 1096
 
@@ -28,8 +28,8 @@
 | 20 | 2446 | Senor Moppy |
 | 21 | 2444 | Daring Ziggy |
 | 22 | 1902 | Dana Rinaldi |
-| 23 | 1360 | Cal Renee |
-| 24 | 1322 | kcknbtz |
+| 23 | 1472 | kcknbtz |
+| 24 | 1360 | Cal Renee |
 | 25 | 1200 | Caitlin Johnson |
 | 26 | 1066 | Squirrel Donkey |
 | 27 | 1065 | Leigh Pierce |
@@ -166,35 +166,35 @@
 | 158 | 179 | Anna Gribble |
 | 159 | 178 | Spicy Chicken |
 | 160 | 178 | Tamara Triplet |
-| 161 | 177 | Chirpy Link |
+| 161 | 177 | Tammy June |
 | 162 | 177 | Devinlee Brown |
 | 163 | 177 | Damon Gaston |
-| 164 | 177 | Tammy June |
+| 164 | 177 | Chirpy Link |
 | 165 | 175 | Megan Vick |
-| 166 | 172 | Tawna Curry |
-| 167 | 172 | Goofy Riser |
-| 168 | 169 | Dana Fontanez |
-| 169 | 169 | Tiffany Smith |
+| 166 | 172 | Goofy Riser |
+| 167 | 172 | Tawna Curry |
+| 168 | 169 | Tiffany Smith |
+| 169 | 169 | Dana Fontanez |
 | 170 | 167 | Littlebrat |
 | 171 | 166 | Sassy Rollpiece |
-| 172 | 164 | Jackie Miller |
-| 173 | 164 | Stacy G |
-| 174 | 163 | Brandy Lynn |
-| 175 | 160 | Tipsy Builderline |
-| 176 | 159 | EL Booger |
-| 177 | 157 | ariel |
-| 178 | 157 | Mark Norton |
-| 179 | 155 | Jackie Polanco |
-| 180 | 155 | Ryan Paul Clark-Ramsey |
-| 181 | 155 | Shayna Vaigneur-Hall |
-| 182 | 155 | Bonnie Powell |
-| 183 | 154 | No Time |
-| 184 | 153 | Laguya |
-| 185 | 151 | Leslie Ann Carter |
-| 186 | 150 | gabs |
-| 187 | 150 | Janet Sanfilippo Sullivan |
-| 188 | 148 | Joseph Hunter |
-| 189 | 146 | Alyson M Kehler |
+| 172 | 166 | Alyson M Kehler |
+| 173 | 164 | Jackie Miller |
+| 174 | 164 | Stacy G |
+| 175 | 163 | Brandy Lynn |
+| 176 | 160 | Tipsy Builderline |
+| 177 | 159 | EL Booger |
+| 178 | 157 | ariel |
+| 179 | 157 | Mark Norton |
+| 180 | 155 | Jackie Polanco |
+| 181 | 155 | Ryan Paul Clark-Ramsey |
+| 182 | 155 | Shayna Vaigneur-Hall |
+| 183 | 155 | Bonnie Powell |
+| 184 | 154 | No Time |
+| 185 | 153 | Laguya |
+| 186 | 151 | Leslie Ann Carter |
+| 187 | 150 | gabs |
+| 188 | 150 | Janet Sanfilippo Sullivan |
+| 189 | 148 | Joseph Hunter |
 | 190 | 145 | Smiley Gridzone |
 | 191 | 144 | Lani |
 | 192 | 144 | Yesenia Castro Monreal |
