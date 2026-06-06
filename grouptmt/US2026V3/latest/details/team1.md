@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 09:32:15 UTC
+# Standings for team1 as of 2026-06-06 09:32:38 UTC
 
 **Total Participants:** 941
 
@@ -294,65 +294,65 @@
 | 286 | 70 | Gerold Folk Haddock |
 | 287 | 70 | $hort Dog |
 | 288 | 70 | Kaleisha Smith |
-| 289 | 69 | CJ Robinson |
-| 290 | 69 | Chantelle Lee |
-| 291 | 68 | Tee Spinks |
-| 292 | 68 | Eric Spencer Whitaker |
-| 293 | 68 | Wacky Stackbuilder |
-| 294 | 67 | Steve Reno |
-| 295 | 67 | Laurie Napper |
-| 296 | 67 | Travis Davison |
-| 297 | 67 | Johnathan Deese |
+| 289 | 69 | Chantelle Lee |
+| 290 | 69 | CJ Robinson |
+| 291 | 68 | Eric Spencer Whitaker |
+| 292 | 68 | Wacky Stackbuilder |
+| 293 | 68 | Tee Spinks |
+| 294 | 67 | Laurie Napper |
+| 295 | 67 | Travis Davison |
+| 296 | 67 | Johnathan Deese |
+| 297 | 67 | Michele Elizabeth McKay-Johnson |
 | 298 | 67 | rls |
-| 299 | 67 | Michele Elizabeth McKay-Johnson |
+| 299 | 67 | Steve Reno |
 | 300 | 67 | Jennah |
-| 301 | 66 | GracefulOwl808 |
-| 302 | 66 | Breezy Catcher |
-| 303 | 65 | Sabrina Wilkerson |
-| 304 | 65 | Giggy Tower |
-| 305 | 65 | Jazzy Bridger |
-| 306 | 65 | Jonathan Vee Jay |
-| 307 | 64 | Penee Wiggins |
+| 301 | 66 | Breezy Catcher |
+| 302 | 66 | GracefulOwl808 |
+| 303 | 66 | Yazz |
+| 304 | 65 | Jazzy Bridger |
+| 305 | 65 | Jonathan Vee Jay |
+| 306 | 65 | Giggy Tower |
+| 307 | 65 | Sabrina Wilkerson |
 | 308 | 64 | Dena Marie Lee |
-| 309 | 63 | Ahsokadog |
-| 310 | 63 | Sarah Swietlicki - Lopez |
-| 311 | 63 | Slinky Clearzone |
-| 312 | 63 | La'Chae Nickole |
-| 313 | 62 | Jack Mehof |
-| 314 | 62 | Richard Flex |
-| 315 | 62 | De'Mear McKinney |
-| 316 | 61 | Tonya Thomas |
-| 317 | 61 | Sunny Clicky |
+| 309 | 64 | Penee Wiggins |
+| 310 | 63 | La'Chae Nickole |
+| 311 | 63 | Ahsokadog |
+| 312 | 63 | Slinky Clearzone |
+| 313 | 63 | Sarah Swietlicki - Lopez |
+| 314 | 62 | De'Mear McKinney |
+| 315 | 62 | Richard Flex |
+| 316 | 62 | Jack Mehof |
+| 317 | 61 | Tonya Thomas |
 | 318 | 61 | star |
-| 319 | 60 | Malcolm Stanley |
+| 319 | 61 | Sunny Clicky |
 | 320 | 60 | Natasha Rucker |
-| 321 | 60 | Angie Smith |
-| 322 | 60 | Big Bovice |
-| 323 | 60 | Kesha Brady |
-| 324 | 60 | Coco |
-| 325 | 60 | Christian Pham |
-| 326 | 60 | Katherine Short |
-| 327 | 60 | Valerie Alexander |
-| 328 | 60 | izzybella |
-| 329 | 60 | Heather Aurelia |
-| 330 | 60 | Tasha |
-| 331 | 60 | Marlainia Boyd |
+| 321 | 60 | Coco |
+| 322 | 60 | Angie Smith |
+| 323 | 60 | Malcolm Stanley |
+| 324 | 60 | Kesha Brady |
+| 325 | 60 | Big Bovice |
+| 326 | 60 | Christian Pham |
+| 327 | 60 | Katherine Short |
+| 328 | 60 | Valerie Alexander |
+| 329 | 60 | izzybella |
+| 330 | 60 | Heather Aurelia |
+| 331 | 60 | Tasha |
 | 332 | 60 | De'Nell Edwards |
-| 333 | 60 | Fina McKinnis |
-| 334 | 60 | Lilly Brown |
-| 335 | 60 | Kimberly Noble |
-| 336 | 60 | Christi Walker Patton |
-| 337 | 59 | Koi |
-| 338 | 59 | Chilly Wipebuilder |
-| 339 | 58 | Bambi Love |
-| 340 | 58 | Alexandrla Smith |
-| 341 | 58 | Tobey Marberry |
-| 342 | 58 | Sonia Binti Mfalme |
-| 343 | 58 | Brandy Way |
-| 344 | 58 | FunTime |
-| 345 | 58 | Mikayla |
-| 346 | 58 | Shanaa Germany Crittenden |
-| 347 | 58 | Yazz |
+| 333 | 60 | Marlainia Boyd |
+| 334 | 60 | Fina McKinnis |
+| 335 | 60 | Lilly Brown |
+| 336 | 60 | Kimberly Noble |
+| 337 | 60 | Christi Walker Patton |
+| 338 | 59 | Koi |
+| 339 | 59 | Chilly Wipebuilder |
+| 340 | 58 | Bambi Love |
+| 341 | 58 | Alexandrla Smith |
+| 342 | 58 | Tobey Marberry |
+| 343 | 58 | Sonia Binti Mfalme |
+| 344 | 58 | Brandy Way |
+| 345 | 58 | FunTime |
+| 346 | 58 | Mikayla |
+| 347 | 58 | Shanaa Germany Crittenden |
 | 348 | 58 | Kimberly Susan Privette |
 | 349 | 57 | Jae Thompson-Tyus |
 | 350 | 56 | Nora Mahmoud |
