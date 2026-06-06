@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 13:58:40 UTC
+# Standings for team4 as of 2026-06-06 13:59:17 UTC
 
 **Total Participants:** 993
 
@@ -760,86 +760,86 @@
 | 752 | 21 | Jeremy |
 | 753 | 21 | Joshua Doucette |
 | 754 | 21 | Dizzy |
-| 755 | 21 | my my |
-| 756 | 21 | Swanky Matchfit |
-| 757 | 21 | TRUCHILD777$$$ |
-| 758 | 21 | LilithMoon |
-| 759 | 20 | Beezy |
-| 760 | 20 | Joha Mldo Castillo |
-| 761 | 20 | Jerett Coplin |
-| 762 | 20 | REPENT |
-| 763 | 20 | Kellz M Bee |
-| 764 | 20 | Kimberly Devon |
-| 765 | 20 | Stacy G |
-| 766 | 20 | Kelli Miller |
-| 767 | 20 | Jennifer Naughton |
-| 768 | 20 | Brendan Craven |
-| 769 | 20 | Jeremy Barry |
-| 770 | 20 | Kissyfurr |
-| 771 | 20 | Ashley DuVall |
-| 772 | 20 | Matthew Wilcox |
-| 773 | 20 | Alice Eisnor-Martens |
-| 774 | 20 | Jessica Sanchez |
-| 775 | 20 | Sha Ta Nay Mitchell |
-| 776 | 20 | Heidi Lyn Ramirez |
-| 777 | 20 | Memphiago Tenninois |
-| 778 | 20 | Justin Janachovsky |
-| 779 | 20 | Kris McMahon |
-| 780 | 20 | Tipsy Patternfit |
-| 781 | 20 | Jessica Smith |
-| 782 | 20 | Whirl-Klines L Evelyn |
-| 783 | 20 | Nerdy Piecebuilder |
-| 784 | 20 | Margie Thomas |
-| 785 | 20 | Rell geez |
-| 786 | 20 | BethB |
-| 787 | 20 | Spidaman86 |
-| 788 | 20 | LISHA 2 U |
-| 789 | 20 | Elizabeth Putansu |
-| 790 | 20 | Kristen Nicole Depp-Stewart |
-| 791 | 19 | Cheeky Fallzone |
-| 792 | 19 | Dru Lui |
-| 793 | 19 | Maicy Darrah |
-| 794 | 19 | Linda Miltenburg |
-| 795 | 19 | Bean |
-| 796 | 19 | Marisela Alvarado |
-| 797 | 19 | Chabetta |
-| 798 | 19 | Elisha Thompson |
-| 799 | 19 | LandO |
+| 755 | 21 | LilithMoon |
+| 756 | 21 | my my |
+| 757 | 21 | Crafty Linkfall |
+| 758 | 21 | TRUCHILD777$$$ |
+| 759 | 21 | Swanky Matchfit |
+| 760 | 20 | Beezy |
+| 761 | 20 | REPENT |
+| 762 | 20 | Joha Mldo Castillo |
+| 763 | 20 | Jerett Coplin |
+| 764 | 20 | Kellz M Bee |
+| 765 | 20 | Kimberly Devon |
+| 766 | 20 | Stacy G |
+| 767 | 20 | Kelli Miller |
+| 768 | 20 | Jennifer Naughton |
+| 769 | 20 | Brendan Craven |
+| 770 | 20 | Jeremy Barry |
+| 771 | 20 | Kissyfurr |
+| 772 | 20 | Ashley DuVall |
+| 773 | 20 | Matthew Wilcox |
+| 774 | 20 | Alice Eisnor-Martens |
+| 775 | 20 | Jessica Sanchez |
+| 776 | 20 | Sha Ta Nay Mitchell |
+| 777 | 20 | Heidi Lyn Ramirez |
+| 778 | 20 | Memphiago Tenninois |
+| 779 | 20 | Justin Janachovsky |
+| 780 | 20 | Kris McMahon |
+| 781 | 20 | Tipsy Patternfit |
+| 782 | 20 | Jessica Smith |
+| 783 | 20 | Whirl-Klines L Evelyn |
+| 784 | 20 | Nerdy Piecebuilder |
+| 785 | 20 | Margie Thomas |
+| 786 | 20 | Rell geez |
+| 787 | 20 | BethB |
+| 788 | 20 | Spidaman86 |
+| 789 | 20 | LISHA 2 U |
+| 790 | 20 | Elizabeth Putansu |
+| 791 | 20 | Kristen Nicole Depp-Stewart |
+| 792 | 19 | Cheeky Fallzone |
+| 793 | 19 | Dru Lui |
+| 794 | 19 | Maicy Darrah |
+| 795 | 19 | Linda Miltenburg |
+| 796 | 19 | Bean |
+| 797 | 19 | Marisela Alvarado |
+| 798 | 19 | Chabetta |
+| 799 | 19 | Kariana Gonzalez Ortiz |
 | 800 | 19 | Autumn Maher |
-| 801 | 19 | Marco A. Sandoval |
-| 802 | 19 | Kariana Gonzalez Ortiz |
-| 803 | 18 | Jamie Legeness |
-| 804 | 18 | Stacia Marie |
-| 805 | 18 | Tiffany Taylor |
-| 806 | 18 | Angel Boges |
-| 807 | 18 | Jen Roe |
-| 808 | 18 | Cauntay Youngking Williams |
-| 809 | 18 | Frothy Pivotfall |
-| 810 | 18 | Shirley Tow Middaugh |
-| 811 | 18 | FUNBAT |
-| 812 | 18 | Gingerale<3 |
-| 813 | 18 | chuck |
-| 814 | 18 | Dawn Ferrin |
-| 815 | 18 | Joshua Franklin |
-| 816 | 18 | Lorrie Ann Burchett |
-| 817 | 18 | Emily Lowe |
-| 818 | 18 | Chelle Williams |
-| 819 | 18 | Janna Thompson |
-| 820 | 18 | Dewy |
-| 821 | 18 | Michelle Clark |
-| 822 | 18 | Happy Strikerpiece |
-| 823 | 18 | Poppy Glider |
-| 824 | 17 | Wali Muhammad |
-| 825 | 17 | Heather Hilferty |
-| 826 | 17 | Shane Snyder |
-| 827 | 17 | Crystal Morrin |
-| 828 | 17 | Jolly Dashy |
-| 829 | 17 | Stotty |
-| 830 | 17 | Terry Jo Myers |
-| 831 | 17 | Glitzy Crasher |
-| 832 | 17 | Trishaann Triplett |
+| 801 | 19 | Elisha Thompson |
+| 802 | 19 | Marco A. Sandoval |
+| 803 | 19 | LandO |
+| 804 | 18 | Dawn Ferrin |
+| 805 | 18 | Shirley Tow Middaugh |
+| 806 | 18 | Joshua Franklin |
+| 807 | 18 | Gingerale<3 |
+| 808 | 18 | FUNBAT |
+| 809 | 18 | Jamie Legeness |
+| 810 | 18 | Jen Roe |
+| 811 | 18 | Tiffany Taylor |
+| 812 | 18 | Stacia Marie |
+| 813 | 18 | Cauntay Youngking Williams |
+| 814 | 18 | Angel Boges |
+| 815 | 18 | Frothy Pivotfall |
+| 816 | 18 | chuck |
+| 817 | 18 | Lorrie Ann Burchett |
+| 818 | 18 | Emily Lowe |
+| 819 | 18 | Chelle Williams |
+| 820 | 18 | Janna Thompson |
+| 821 | 18 | Dewy |
+| 822 | 18 | Michelle Clark |
+| 823 | 18 | Happy Strikerpiece |
+| 824 | 18 | Poppy Glider |
+| 825 | 17 | Wali Muhammad |
+| 826 | 17 | Heather Hilferty |
+| 827 | 17 | Shane Snyder |
+| 828 | 17 | Crystal Morrin |
+| 829 | 17 | Jolly Dashy |
+| 830 | 17 | Stotty |
+| 831 | 17 | Terry Jo Myers |
+| 832 | 17 | Glitzy Crasher |
 | 833 | 17 | Kristie ML SneekaPuff |
-| 834 | 17 | Crafty Linkfall |
+| 834 | 17 | Trishaann Triplett |
 | 835 | 16 | Virgil Mayfield-Brown |
 | 836 | 16 | Snappy Fill |
 | 837 | 16 | Mr.Corbin |
@@ -859,20 +859,20 @@
 | 851 | 15 | Manolo Canety |
 | 852 | 15 | Tana-Marie Lynn McCarty-Rolf |
 | 853 | 15 | Hasty Snapmatch |
-| 854 | 15 | Donna Bush |
-| 855 | 15 | babygirlw |
-| 856 | 15 | Twisty Gridclear |
-| 857 | 15 | Britney Kitora |
-| 858 | 15 | Wacky Clusterer |
-| 859 | 15 | Nerdy Glider |
-| 860 | 15 | John Wertz |
+| 854 | 15 | babygirlw |
+| 855 | 15 | Twisty Gridclear |
+| 856 | 15 | Britney Kitora |
+| 857 | 15 | Wacky Clusterer |
+| 858 | 15 | Nerdy Glider |
+| 859 | 15 | John Wertz |
+| 860 | 15 | Donna Bush |
 | 861 | 14 | Lashae |
 | 862 | 14 | G Money |
-| 863 | 14 | Kiaralis Ashley Hancock |
-| 864 | 14 | Playful Raccoon |
+| 863 | 14 | Playful Raccoon |
+| 864 | 14 | Kiaralis Ashley Hancock |
 | 865 | 14 | moonman33 |
-| 866 | 14 | Dena Lynn Rogers |
-| 867 | 14 | Nicole Gilmore |
+| 866 | 14 | Nicole Gilmore |
+| 867 | 14 | Dena Lynn Rogers |
 | 868 | 14 | Luunii |
 | 869 | 14 | Jazzy Rollout |
 | 870 | 14 | Ashley McGeehan |
