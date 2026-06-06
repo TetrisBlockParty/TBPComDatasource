@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 16:40:17 UTC
+# Standings for team1 as of 2026-06-06 16:40:40 UTC
 
 **Total Participants:** 1062
 
@@ -113,26 +113,26 @@
 | 105 | 292 | Robyn Caldwell |
 | 106 | 288 | Chenell Gillard |
 | 107 | 285 | Jaida De'Anne Cox |
-| 108 | 278 | Shontanese Adams |
-| 109 | 275 | Jawaun Daniels |
-| 110 | 275 | Chris Sladoje |
-| 111 | 274 | Tammye Turner |
-| 112 | 274 | Tonya Lee Sanders |
-| 113 | 273 | Dee McCool |
+| 108 | 283 | Leebo Slice |
+| 109 | 278 | Shontanese Adams |
+| 110 | 275 | Jawaun Daniels |
+| 111 | 275 | Chris Sladoje |
+| 112 | 274 | Tammye Turner |
+| 113 | 274 | Tonya Lee Sanders |
 | 114 | 273 | MamaBear |
-| 115 | 271 | Ashley MyBeauty Daniels |
-| 116 | 263 | Jamal Itzjusmall Chambers |
-| 117 | 263 | Roberta Lynn |
-| 118 | 259 | Tamara N Lee |
-| 119 | 257 | Mimi 1.0 |
-| 120 | 257 | Cathy Young |
-| 121 | 256 | Cortaz Lawrie |
-| 122 | 251 | Helen Smith |
+| 115 | 273 | Dee McCool |
+| 116 | 271 | Ashley MyBeauty Daniels |
+| 117 | 263 | Jamal Itzjusmall Chambers |
+| 118 | 263 | Roberta Lynn |
+| 119 | 259 | Tamara N Lee |
+| 120 | 257 | Mimi 1.0 |
+| 121 | 257 | Cathy Young |
+| 122 | 256 | Cortaz Lawrie |
 | 123 | 251 | Allison Baxter |
-| 124 | 246 | Alana Renee |
-| 125 | 246 | Denise B |
-| 126 | 245 | Derrius SeriousLee Burks |
-| 127 | 244 | Leebo Slice |
+| 124 | 251 | Helen Smith |
+| 125 | 246 | Alana Renee |
+| 126 | 246 | Denise B |
+| 127 | 245 | Derrius SeriousLee Burks |
 | 128 | 243 | Moomoo |
 | 129 | 240 | Rayya Kiser |
 | 130 | 236 | Nutty Spinblock |
@@ -143,8 +143,8 @@
 | 135 | 221 | Andre Sanon |
 | 136 | 220 | Dacia Hicks |
 | 137 | 220 | Devin West |
-| 138 | 216 | Zachary Colegrove |
-| 139 | 216 | Nerdy Snapfall |
+| 138 | 216 | Nerdy Snapfall |
+| 139 | 216 | Zachary Colegrove |
 | 140 | 214 | Tonya McElroy |
 | 141 | 212 | Nobles Brandon |
 | 142 | 208 | Mic Balew |
@@ -168,38 +168,38 @@
 | 160 | 182 | Hyper Blocky |
 | 161 | 180 | Angela R Wilson |
 | 162 | 179 | Amber Wilson |
-| 163 | 179 | ♈️ Ariesbaby |
-| 164 | 176 | Anthony Washington |
-| 165 | 176 | Nikki Hogan |
-| 166 | 174 | Reginald Frank |
-| 167 | 171 | Boldy Liner |
-| 168 | 169 | Christina Rebecca |
-| 169 | 169 | Asha Langford |
-| 170 | 169 | Cee Emm |
+| 163 | 179 | Cee Emm |
+| 164 | 179 | ♈️ Ariesbaby |
+| 165 | 176 | Anthony Washington |
+| 166 | 176 | Nikki Hogan |
+| 167 | 174 | Reginald Frank |
+| 168 | 171 | Boldy Liner |
+| 169 | 169 | Christina Rebecca |
+| 170 | 169 | Asha Langford |
 | 171 | 167 | Marcheta Cervantez |
 | 172 | 166 | Tarnisha Neicy Jones |
 | 173 | 163 | Mafio SO |
-| 174 | 160 | Jamie Willis |
-| 175 | 160 | Carolyn Smith |
-| 176 | 160 | Tishauna Virgo |
-| 177 | 160 | DaGuy |
-| 178 | 160 | Sara Meri |
-| 179 | 160 | Chilly Wipebuilder |
+| 174 | 160 | Chilly Wipebuilder |
+| 175 | 160 | Sara Meri |
+| 176 | 160 | DaGuy |
+| 177 | 160 | Jamie Willis |
+| 178 | 160 | Carolyn Smith |
+| 179 | 160 | Tishauna Virgo |
 | 180 | 160 | Zippy Lifter |
 | 181 | 159 | Fina McKinnis |
-| 182 | 158 | Tina Mitchell |
-| 183 | 158 | pooh |
+| 182 | 158 | pooh |
+| 183 | 158 | Tina Mitchell |
 | 184 | 157 | Kimberly Linares Hernandez |
-| 185 | 156 | Jessica Russell |
-| 186 | 156 | Cheeky Pop |
+| 185 | 156 | Cheeky Pop |
+| 186 | 156 | Jessica Russell |
 | 187 | 154 | IThinkNot |
 | 188 | 153 | Rackemwillie34 |
 | 189 | 152 | Jolly Tilefall |
 | 190 | 151 | Atlantalindi |
 | 191 | 149 | Lively Riserpiece |
 | 192 | 147 | MACHETEEDDIE513 |
-| 193 | 146 | BlackQueen105 |
-| 194 | 146 | Jai |
+| 193 | 146 | Jai |
+| 194 | 146 | BlackQueen105 |
 | 195 | 145 | Latisha Fairley |
 | 196 | 144 | TBABYJ |
 | 197 | 143 | Quirky Fallgrid |
@@ -719,37 +719,37 @@
 | 711 | 28 | Charise McGee |
 | 712 | 28 | Ameillia Boughner |
 | 713 | 28 | Leon Matthew Williams |
-| 714 | 27 | Jeremy Hendrix |
+| 714 | 27 | Angela L Charles |
 | 715 | 27 | Joka NoTime ForHataz |
-| 716 | 27 | Mrs |
-| 717 | 27 | jeremy92 |
-| 718 | 27 | Kendra McIntyre |
-| 719 | 27 | Lady Scorpio |
-| 720 | 27 | brite |
-| 721 | 27 | Mighty plantlady |
-| 722 | 27 | Jenna Renee |
-| 723 | 27 | Zesty Fitclear |
-| 724 | 27 | Angela L Charles |
+| 716 | 27 | jeremy92 |
+| 717 | 27 | Mrs |
+| 718 | 27 | Zesty Fitclear |
+| 719 | 27 | Kendra McIntyre |
+| 720 | 27 | Lady Scorpio |
+| 721 | 27 | brite |
+| 722 | 27 | Mighty plantlady |
+| 723 | 27 | Jenna Renee |
+| 724 | 27 | Jeremy Hendrix |
 | 725 | 27 | Tina Criam |
-| 726 | 27 | Venna Cooper |
-| 727 | 27 | katia |
-| 728 | 27 | Shaylyn Lockwood |
+| 726 | 27 | Shaylyn Lockwood |
+| 727 | 27 | Venna Cooper |
+| 728 | 27 | katia |
 | 729 | 27 | Pinky Pink |
-| 730 | 27 | Juanita Quezaire |
-| 731 | 27 | Brave Balanceblock |
-| 732 | 27 | AshMo |
-| 733 | 27 | Meepycat |
-| 734 | 27 | Kidgib5 |
-| 735 | 26 | Sunny Tumbler |
-| 736 | 26 | Crystal Garay |
-| 737 | 26 | Jimmy Shannon |
-| 738 | 26 | TRUBBLE45 |
-| 739 | 26 | Erica Campbell-Stillings |
-| 740 | 26 | Kala Miller |
-| 741 | 26 | Shaun Anderson |
+| 730 | 27 | Brave Balanceblock |
+| 731 | 27 | Juanita Quezaire |
+| 732 | 27 | Shaun Anderson |
+| 733 | 27 | AshMo |
+| 734 | 27 | Meepycat |
+| 735 | 27 | Kidgib5 |
+| 736 | 26 | Sunny Tumbler |
+| 737 | 26 | Crystal Garay |
+| 738 | 26 | Jimmy Shannon |
+| 739 | 26 | TRUBBLE45 |
+| 740 | 26 | Erica Campbell-Stillings |
+| 741 | 26 | Kala Miller |
 | 742 | 25 | Jovy |
-| 743 | 25 | Ivan Israel |
-| 744 | 25 | marie |
+| 743 | 25 | marie |
+| 744 | 25 | Ivan Israel |
 | 745 | 25 | Tweet Turner |
 | 746 | 25 | BB |
 | 747 | 25 | Plucky Clearpiece |
