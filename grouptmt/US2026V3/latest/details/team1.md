@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 21:52:17 UTC
+# Standings for team1 as of 2026-06-06 21:52:40 UTC
 
 **Total Participants:** 1178
 
@@ -249,31 +249,31 @@
 | 241 | 136 | Penee Wiggins |
 | 242 | 135 | Sean White |
 | 243 | 135 | Saucy Tile |
-| 244 | 131 | Matthieu Pistone |
-| 245 | 131 | Rachel Zimmerman |
-| 246 | 131 | Koi |
-| 247 | 130 | Jessica Davis |
-| 248 | 130 | Dion Gray |
-| 249 | 130 | Crystal Anderson |
-| 250 | 129 | Lisa Fletcher |
-| 251 | 129 | Tremaine Hiler |
-| 252 | 128 | Jack Vlasak |
-| 253 | 127 | Treneil Daffin |
-| 254 | 126 | Simone Bailey |
-| 255 | 126 | Bre Poston |
-| 256 | 125 | Brittanie Wardlow |
+| 244 | 132 | Slinky Snapbuilder |
+| 245 | 131 | Matthieu Pistone |
+| 246 | 131 | Rachel Zimmerman |
+| 247 | 131 | Koi |
+| 248 | 130 | Jessica Davis |
+| 249 | 130 | Dion Gray |
+| 250 | 130 | Crystal Anderson |
+| 251 | 129 | Lisa Fletcher |
+| 252 | 129 | Tremaine Hiler |
+| 253 | 128 | Jack Vlasak |
+| 254 | 127 | Treneil Daffin |
+| 255 | 126 | Simone Bailey |
+| 256 | 126 | Bre Poston |
 | 257 | 125 | LaTonya Myers |
-| 258 | 124 | Tipsy Linkroll |
-| 259 | 124 | Courtney Cicoria |
-| 260 | 123 | kitten |
-| 261 | 123 | Slinky Snapbuilder |
+| 258 | 125 | Brittanie Wardlow |
+| 259 | 124 | Tipsy Linkroll |
+| 260 | 124 | Courtney Cicoria |
+| 261 | 123 | kitten |
 | 262 | 123 | Cauiasia DeJ'ae |
 | 263 | 122 | Miera Nicole |
 | 264 | 121 | Tiana Monique |
 | 265 | 121 | Bubbly Piececlear |
-| 266 | 120 | Valerie Alexander |
-| 267 | 120 | Trina Greenwood |
-| 268 | 120 | Nerdy Blockpiece |
+| 266 | 120 | Trina Greenwood |
+| 267 | 120 | Nerdy Blockpiece |
+| 268 | 120 | Valerie Alexander |
 | 269 | 120 | Slim Shedidthat |
 | 270 | 120 | Guy Incognito |
 | 271 | 119 | Lexx Robins |
