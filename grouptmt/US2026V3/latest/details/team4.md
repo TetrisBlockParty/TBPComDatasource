@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 11:14:39 UTC
+# Standings for team4 as of 2026-06-06 11:15:16 UTC
 
 **Total Participants:** 935
 
@@ -54,9 +54,9 @@
 | 46 | 600 | Caitlin Johnson |
 | 47 | 600 | Chaz Duncan |
 | 48 | 559 | Lynn Grimes |
-| 49 | 530 | Jonathan Hewitt |
-| 50 | 510 | Krysten Danielle Richard |
-| 51 | 506 | Blayne Kole |
+| 49 | 536 | Blayne Kole |
+| 50 | 530 | Jonathan Hewitt |
+| 51 | 510 | Krysten Danielle Richard |
 | 52 | 505 | Fancy Crasher |
 | 53 | 500 | Michele |
 | 54 | 477 | Malik Thompson |
@@ -106,20 +106,20 @@
 | 98 | 230 | Sisi RedVelvet Reneè |
 | 99 | 229 | Aisha Estrada |
 | 100 | 217 | Slimm |
-| 101 | 208 | Dubiousdust |
-| 102 | 207 | Leigh Pierce |
-| 103 | 203 | Patrick Alley |
-| 104 | 201 | Renee Sapp |
-| 105 | 200 | Leah Gorsuch |
-| 106 | 200 | Esther Hadassah |
-| 107 | 195 | Colin |
-| 108 | 195 | Sean Mccleary |
-| 109 | 194 | Chiquita Blue |
+| 101 | 215 | Jason Garnatz |
+| 102 | 208 | Dubiousdust |
+| 103 | 207 | Leigh Pierce |
+| 104 | 203 | Patrick Alley |
+| 105 | 201 | Renee Sapp |
+| 106 | 200 | Leah Gorsuch |
+| 107 | 200 | Esther Hadassah |
+| 108 | 195 | Colin |
+| 109 | 195 | Sean Mccleary |
 | 110 | 194 | Lisa lisa |
-| 111 | 193 | Tiffany Bunker-Hill |
-| 112 | 192 | Gorica Prusina |
-| 113 | 187 | Scamp Jones |
-| 114 | 186 | Jason Garnatz |
+| 111 | 194 | Chiquita Blue |
+| 112 | 193 | Tiffany Bunker-Hill |
+| 113 | 192 | Gorica Prusina |
+| 114 | 187 | Scamp Jones |
 | 115 | 184 | Giggly Tilt |
 | 116 | 183 | Tara Delay Hill |
 | 117 | 182 | blockhead |
