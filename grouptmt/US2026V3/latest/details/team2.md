@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 08:40:37 UTC
+# Standings for team2 as of 2026-06-06 08:41:16 UTC
 
 **Total Participants:** 1081
 
@@ -64,7 +64,7 @@
 | 56 | 629 | Dane Marko |
 | 57 | 614 | Block Dog |
 | 58 | 588 | Kellie Sharp Godfrey |
-| 59 | 575 | Andre Love |
+| 59 | 585 | Andre Love |
 | 60 | 572 | Dsabrina Maxey |
 | 61 | 553 | Jazzy Faller |
 | 62 | 550 | Angie Mccain |
