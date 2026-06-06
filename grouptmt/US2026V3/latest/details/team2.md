@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 17:38:38 UTC
+# Standings for team2 as of 2026-06-06 17:39:17 UTC
 
 **Total Participants:** 1284
 
@@ -217,14 +217,14 @@
 | 209 | 170 | phamous1 |
 | 210 | 169 | Sully |
 | 211 | 168 | Danielle Lyons |
-| 212 | 168 | Spicy Risegrid |
-| 213 | 168 | Missy Renia |
+| 212 | 168 | Missy Renia |
+| 213 | 168 | Spicy Risegrid |
 | 214 | 165 | Olivia Jefferson |
-| 215 | 164 | Jerry L Morales |
-| 216 | 164 | Cara Rivera |
-| 217 | 164 | Ashley Billiot Rhodes |
-| 218 | 163 | Zany Cascader |
-| 219 | 163 | Amy Taylor Pomerenk |
+| 215 | 164 | Ashley Billiot Rhodes |
+| 216 | 164 | Jerry L Morales |
+| 217 | 164 | Cara Rivera |
+| 218 | 163 | Amy Taylor Pomerenk |
+| 219 | 163 | Zany Cascader |
 | 220 | 162 | Nutty Curver |
 | 221 | 161 | Santara Ferguson |
 | 222 | 160 | Avie Lou |
@@ -233,49 +233,49 @@
 | 225 | 159 | Amanda Priddy |
 | 226 | 158 | Kim Hunt |
 | 227 | 155 | Zany Blockclear |
-| 228 | 152 | SEH |
-| 229 | 152 | Gill |
-| 230 | 151 | Karly Moore |
-| 231 | 151 | Marilyn Mendoza |
+| 228 | 152 | Gill |
+| 229 | 152 | SEH |
+| 230 | 151 | Marilyn Mendoza |
+| 231 | 151 | Karly Moore |
 | 232 | 151 | Bengy Lead |
 | 233 | 150 | Rick |
 | 234 | 149 | Jenni LeBlanc |
 | 235 | 148 | Curly Windbreaker |
 | 236 | 147 | Tina Marie |
 | 237 | 146 | Darla Nolt |
-| 238 | 142 | Zany Wrecker |
-| 239 | 142 | Cortney Coleman |
+| 238 | 142 | Cortney Coleman |
+| 239 | 142 | Zany Wrecker |
 | 240 | 142 | Ratchet |
 | 241 | 141 | Cheery Towerzone |
 | 242 | 141 | Melisa |
-| 243 | 140 | Billie Jensen |
-| 244 | 140 | Sharon L Brazelton |
-| 245 | 140 | Brittney Williams |
-| 246 | 140 | Iesha Cupil |
+| 243 | 140 | Sharon L Brazelton |
+| 244 | 140 | Billie Jensen |
+| 245 | 140 | Iesha Cupil |
+| 246 | 140 | Brittney Williams |
 | 247 | 139 | Amanda L Strong |
 | 248 | 139 | Victoria Pale |
 | 249 | 138 | NickandJess Reynolds |
 | 250 | 137 | Liseth Vasquez |
 | 251 | 137 | Lindsey Ford |
 | 252 | 136 | Lauren Maxwell |
-| 253 | 136 | Jamie Fenyus |
-| 254 | 136 | Mtnblzr |
-| 255 | 135 | Skye Ehret |
-| 256 | 135 | Marylin Eacker |
-| 257 | 134 | Joanna Trevin Thompson |
-| 258 | 134 | Funway998 |
-| 259 | 134 | Sabrina Hardrick |
-| 260 | 132 | Spunky Cascadeclear |
-| 261 | 132 | Alison Waller |
-| 262 | 131 | Amy Lea Hamilton |
-| 263 | 131 | Kimmyc |
-| 264 | 130 | ZBee |
+| 253 | 136 | Mtnblzr |
+| 254 | 136 | Jamie Fenyus |
+| 255 | 135 | Marylin Eacker |
+| 256 | 135 | Skye Ehret |
+| 257 | 134 | Funway998 |
+| 258 | 134 | Sabrina Hardrick |
+| 259 | 134 | Joanna Trevin Thompson |
+| 260 | 132 | Alison Waller |
+| 261 | 132 | Spunky Cascadeclear |
+| 262 | 131 | Kimmyc |
+| 263 | 131 | Amy Lea Hamilton |
+| 264 | 130 | Jason Cunningham |
 | 265 | 130 | Precious Womack |
-| 266 | 130 | Jason Cunningham |
-| 267 | 129 | Sandy Justus |
+| 266 | 130 | ZBee |
+| 267 | 129 | Loopy Tower |
 | 268 | 129 | Armando Sabedra |
-| 269 | 129 | Belle |
-| 270 | 129 | Loopy Tower |
+| 269 | 129 | Sandy Justus |
+| 270 | 129 | Belle |
 | 271 | 128 | Teddy Williams |
 | 272 | 126 | Teresa Mandich |
 | 273 | 126 | Danielle Blount |
@@ -285,92 +285,92 @@
 | 277 | 124 | Jason Burris |
 | 278 | 123 | Nikki EightySixed |
 | 279 | 120 | Simone F |
-| 280 | 120 | Happy |
+| 280 | 120 | Sassy Twistbuilder |
 | 281 | 120 | Al Smith Jr |
-| 282 | 120 | Sassy Twistbuilder |
+| 282 | 120 | Happy |
 | 283 | 120 | Kevin Mccoy |
-| 284 | 120 | Elizabeth Cornelius |
-| 285 | 120 | Keisha Robinson |
+| 284 | 120 | Keisha Robinson |
+| 285 | 120 | Elizabeth Cornelius |
 | 286 | 120 | Carlos J Blas |
 | 287 | 120 | Charity Hauser |
 | 288 | 120 | Tango Sierra |
 | 289 | 119 | Perii Reynoso |
-| 290 | 118 | Monique Frantz |
+| 290 | 119 | Theresa Hollinger |
 | 291 | 118 | Ceci |
 | 292 | 118 | Ashley Miller |
-| 293 | 117 | Marge Cromer |
-| 294 | 115 | Jessica Connot |
+| 293 | 118 | Monique Frantz |
+| 294 | 117 | Marge Cromer |
 | 295 | 115 | Jackie Tupper |
-| 296 | 114 | Ashley Voelz |
-| 297 | 113 | Sherri E Woods Hess |
-| 298 | 112 | Cindy Scott |
+| 296 | 115 | Jessica Connot |
+| 297 | 114 | Ashley Voelz |
+| 298 | 113 | Sherri E Woods Hess |
 | 299 | 112 | Traci Abern |
-| 300 | 111 | Bianca Woodruff |
-| 301 | 111 | Charles E Mccardell |
-| 302 | 110 | Zappy Liney |
-| 303 | 110 | Nichole Wilson |
-| 304 | 109 | Kawana Nesbitt |
-| 305 | 109 | Cathy Tippett |
-| 306 | 109 | Kevin Patrick |
-| 307 | 108 | Rachel Nilles |
-| 308 | 108 | Meagan Grimmett Washburn |
-| 309 | 107 | Michelle M Braley |
-| 310 | 107 | LittleHippoEars |
-| 311 | 107 | Angeleye A James |
+| 300 | 112 | Cindy Scott |
+| 301 | 111 | Bianca Woodruff |
+| 302 | 111 | Charles E Mccardell |
+| 303 | 110 | Zappy Liney |
+| 304 | 110 | Nichole Wilson |
+| 305 | 109 | Kevin Patrick |
+| 306 | 109 | Cathy Tippett |
+| 307 | 109 | Kawana Nesbitt |
+| 308 | 108 | Rachel Nilles |
+| 309 | 108 | Meagan Grimmett Washburn |
+| 310 | 107 | Angeleye A James |
+| 311 | 107 | Carole Brown |
 | 312 | 107 | Gloria May Shook |
-| 313 | 107 | Carole Brown |
-| 314 | 106 | Sara Perkins |
+| 313 | 107 | Michelle M Braley |
+| 314 | 107 | LittleHippoEars |
 | 315 | 106 | Anthony Swift |
-| 316 | 105 | Tamtam |
-| 317 | 105 | Erica South |
-| 318 | 105 | Saucy Wrecker |
-| 319 | 104 | Reign Hustler |
-| 320 | 104 | Roe Sarmiento |
-| 321 | 104 | Theresa Hollinger |
-| 322 | 104 | MegaPooh |
+| 316 | 106 | Sara Perkins |
+| 317 | 105 | Saucy Wrecker |
+| 318 | 105 | Tamtam |
+| 319 | 105 | Erica South |
+| 320 | 104 | Reign Hustler |
+| 321 | 104 | MegaPooh |
+| 322 | 104 | Roe Sarmiento |
 | 323 | 103 | Elizabeth Kline |
-| 324 | 102 | Alissa Ary |
-| 325 | 102 | Tammy Roth |
+| 324 | 102 | Tammy Roth |
+| 325 | 102 | Alissa Ary |
 | 326 | 101 | Jef Wassom |
-| 327 | 100 | Katie Jones |
-| 328 | 100 | Ber |
-| 329 | 100 | Leticia Tillman |
-| 330 | 100 | August Christy Lathrop |
-| 331 | 99 | Jennifer Vitro |
-| 332 | 99 | Gabrielle Rivera |
-| 333 | 99 | Melissa Abbott |
+| 327 | 100 | Ber |
+| 328 | 100 | Katie Jones |
+| 329 | 100 | August Christy Lathrop |
+| 330 | 100 | Leticia Tillman |
+| 331 | 99 | Melissa Abbott |
+| 332 | 99 | Jennifer Vitro |
+| 333 | 99 | Gabrielle Rivera |
 | 334 | 98 | Justin McCray |
 | 335 | 97 | Jennifer McClure |
-| 336 | 97 | Boldy Fitclear |
-| 337 | 97 | Tracy Tokarz |
-| 338 | 97 | Abby |
-| 339 | 96 | Mary Carriere |
-| 340 | 96 | Breezy |
-| 341 | 96 | Maria Ward |
+| 336 | 97 | Tracy Tokarz |
+| 337 | 97 | Abby |
+| 338 | 97 | Boldy Fitclear |
+| 339 | 96 | Maria Ward |
+| 340 | 96 | Mary Carriere |
+| 341 | 96 | Breezy |
 | 342 | 95 | Wacky Holder |
 | 343 | 95 | Mike Mordhorst |
 | 344 | 95 | Thomas Tyrone |
-| 345 | 94 | Paige Lynette Sohl |
-| 346 | 94 | Mandy Van Laningham Bishop |
-| 347 | 93 | Mataya |
-| 348 | 93 | Paula Haskins |
+| 345 | 94 | Mandy Van Laningham Bishop |
+| 346 | 94 | Paige Lynette Sohl |
+| 347 | 93 | Connie Breeden |
+| 348 | 93 | Mataya |
 | 349 | 93 | Lively Curve |
-| 350 | 93 | Connie Breeden |
+| 350 | 93 | Paula Haskins |
 | 351 | 92 | Maurii93 |
-| 352 | 92 | Thy Bui |
-| 353 | 92 | Nova Nova |
-| 354 | 92 | Nikki Hatch |
-| 355 | 92 | Jayda Walters |
-| 356 | 92 | Raine |
-| 357 | 91 | Heather Vircik |
-| 358 | 91 | Greenie |
+| 352 | 92 | Jayda Walters |
+| 353 | 92 | Raine |
+| 354 | 92 | Thy Bui |
+| 355 | 92 | Nova Nova |
+| 356 | 92 | Nikki Hatch |
+| 357 | 91 | Leighla Davis |
+| 358 | 91 | Heather Vircik |
 | 359 | 91 | Rocroc mo |
-| 360 | 91 | Leighla Davis |
-| 361 | 90 | Rescuegirl76 |
-| 362 | 90 | Lesley Stoeckle |
-| 363 | 90 | Eva Lopez |
-| 364 | 89 | Gabrielle Wilson |
-| 365 | 89 | Ava Speedy |
+| 360 | 91 | Greenie |
+| 361 | 90 | Eva Lopez |
+| 362 | 90 | Rescuegirl76 |
+| 363 | 90 | Lesley Stoeckle |
+| 364 | 89 | Ava Speedy |
+| 365 | 89 | Gabrielle Wilson |
 | 366 | 89 | Patrick Woodard |
 | 367 | 88 | Kimberly Davis |
 | 368 | 88 | Nano. |
