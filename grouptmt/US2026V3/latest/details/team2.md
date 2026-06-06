@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 20:32:18 UTC
+# Standings for team2 as of 2026-06-06 20:32:38 UTC
 
 **Total Participants:** 1365
 
@@ -145,7 +145,7 @@
 | 137 | 313 | Josh Twilley |
 | 138 | 311 | Nikki Hayes |
 | 139 | 310 | Jennifer Smith |
-| 140 | 307 | Bubbly Strikerpiece |
+| 140 | 309 | Bubbly Strikerpiece |
 | 141 | 303 | Hoppy Mover |
 | 142 | 302 | Hypee |
 | 143 | 300 | Linda Guay |
@@ -528,51 +528,51 @@
 | 520 | 68 | Fancy Stacker |
 | 521 | 68 | Josephina |
 | 522 | 68 | Amy D Coble |
-| 523 | 68 | Mary Whitaker |
-| 524 | 68 | Belinda Gullion Austin |
+| 523 | 68 | Belinda Gullion Austin |
+| 524 | 68 | Mary Whitaker |
 | 525 | 68 | Dandy Tiltgrid |
 | 526 | 67 | Silly Tiltbuilder |
-| 527 | 67 | Katrien |
-| 528 | 67 | TNGal |
-| 529 | 67 | Sherri Caillet Aucoin |
-| 530 | 66 | Frilly Shiftsnap |
-| 531 | 66 | Tami Weiss |
-| 532 | 66 | Jennifer Lalk |
-| 533 | 66 | Joshua Hopkins |
-| 534 | 65 | Belinda Head |
-| 535 | 65 | Coleen Yoder |
+| 527 | 67 | TNGal |
+| 528 | 67 | Sherri Caillet Aucoin |
+| 529 | 67 | Katrien |
+| 530 | 66 | Tami Weiss |
+| 531 | 66 | Jennifer Lalk |
+| 532 | 66 | Joshua Hopkins |
+| 533 | 66 | Frilly Shiftsnap |
+| 534 | 65 | Brenda Shannon |
+| 535 | 65 | Amber Carpenter |
 | 536 | 65 | Tamara Whiteley |
-| 537 | 65 | Brenda Shannon |
-| 538 | 65 | Dana Wilson |
+| 537 | 65 | Dana Wilson |
+| 538 | 65 | Coleen Yoder |
 | 539 | 65 | nogo |
-| 540 | 65 | Cool Patternbuilder |
-| 541 | 65 | Heather Billodeau |
-| 542 | 65 | Sarah Louise Cobb |
-| 543 | 64 | Tammy Botkin |
-| 544 | 64 | Lee Leonard |
-| 545 | 64 | Martha Lynn Wiggins |
-| 546 | 64 | Matt Wylie |
-| 547 | 64 | Shannon Posner |
-| 548 | 63 | Kiersty Redder |
-| 549 | 63 | Nicole Ashbaugh |
-| 550 | 63 | Amber Carpenter |
-| 551 | 63 | Kimmi Blake |
-| 552 | 63 | Barb Kiser |
-| 553 | 63 | Queen |
-| 554 | 63 | MarioKarasovic |
-| 555 | 63 | Julibeth Wells |
-| 556 | 63 | Lacie B |
-| 557 | 62 | Staci Walker |
-| 558 | 62 | Amy Walker |
-| 559 | 62 | Erin Lemanski |
-| 560 | 62 | David Skelton |
-| 561 | 62 | Lively Twisterfit |
+| 540 | 65 | Belinda Head |
+| 541 | 65 | Cool Patternbuilder |
+| 542 | 65 | Heather Billodeau |
+| 543 | 65 | Sarah Louise Cobb |
+| 544 | 64 | Matt Wylie |
+| 545 | 64 | Shannon Posner |
+| 546 | 64 | Martha Lynn Wiggins |
+| 547 | 64 | Tammy Botkin |
+| 548 | 64 | Lee Leonard |
+| 549 | 63 | MarioKarasovic |
+| 550 | 63 | Julibeth Wells |
+| 551 | 63 | Queen |
+| 552 | 63 | Lacie B |
+| 553 | 63 | Barb Kiser |
+| 554 | 63 | Kimmi Blake |
+| 555 | 63 | Nicole Ashbaugh |
+| 556 | 63 | Kiersty Redder |
+| 557 | 62 | Goldie |
+| 558 | 62 | Staci Walker |
+| 559 | 62 | Holly Huval |
+| 560 | 62 | Roger Kirksey |
+| 561 | 62 | Amber Simonton |
 | 562 | 62 | Swanky Fitline |
-| 563 | 62 | Goldie |
-| 564 | 62 | Holly Huval |
-| 565 | 62 | Roger Kirksey |
-| 566 | 62 | Gina Leal |
-| 567 | 62 | Amber Simonton |
+| 563 | 62 | Lively Twisterfit |
+| 564 | 62 | Amy Walker |
+| 565 | 62 | Erin Lemanski |
+| 566 | 62 | David Skelton |
+| 567 | 62 | Gina Leal |
 | 568 | 62 | meg |
 | 569 | 61 | Twisty Matchfit |
 | 570 | 61 | Jessica Perkins |

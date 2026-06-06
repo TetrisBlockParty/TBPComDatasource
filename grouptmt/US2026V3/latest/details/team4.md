@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 20:32:18 UTC
+# Standings for team4 as of 2026-06-06 20:32:38 UTC
 
 **Total Participants:** 1133
 
@@ -165,49 +165,49 @@
 | 157 | 194 | Chiquita Blue |
 | 158 | 194 | Lisa lisa |
 | 159 | 193 | Tiffany Bunker-Hill |
-| 160 | 192 | Tiggerjake |
-| 161 | 187 | Leslie Ann Carter |
-| 162 | 187 | Devinlee Brown |
-| 163 | 186 | Kimyatta Cavin |
+| 160 | 192 | Bryan DjMagnum Evans |
+| 161 | 192 | Tiggerjake |
+| 162 | 187 | Leslie Ann Carter |
+| 163 | 187 | Devinlee Brown |
 | 164 | 186 | Dee Wizz |
-| 165 | 185 | Dae Von |
-| 166 | 185 | Megan Vick |
-| 167 | 184 | Lucy Honer |
-| 168 | 183 | Tara Delay Hill |
-| 169 | 181 | Goofy Riser |
+| 165 | 186 | Kimyatta Cavin |
+| 166 | 185 | Dae Von |
+| 167 | 185 | Megan Vick |
+| 168 | 184 | Lucy Honer |
+| 169 | 183 | Tara Delay Hill |
 | 170 | 181 | Waxboss |
-| 171 | 179 | Anna Gribble |
-| 172 | 178 | Spicy Chicken |
+| 171 | 181 | Goofy Riser |
+| 172 | 179 | Anna Gribble |
 | 173 | 178 | Tamara Triplet |
-| 174 | 177 | Damon Gaston |
-| 175 | 177 | Tammy June |
-| 176 | 177 | Chirpy Link |
-| 177 | 172 | Tawna Curry |
-| 178 | 169 | Tiffany Smith |
-| 179 | 167 | Littlebrat |
-| 180 | 166 | Sassy Rollpiece |
+| 174 | 178 | Spicy Chicken |
+| 175 | 177 | Damon Gaston |
+| 176 | 177 | Tammy June |
+| 177 | 177 | Chirpy Link |
+| 178 | 172 | Tawna Curry |
+| 179 | 169 | Tiffany Smith |
+| 180 | 167 | Littlebrat |
 | 181 | 166 | Alyson M Kehler |
-| 182 | 164 | Jackie Miller |
+| 182 | 166 | Sassy Rollpiece |
 | 183 | 164 | Stacy G |
-| 184 | 163 | Brandy Lynn |
-| 185 | 160 | Tipsy Builderline |
-| 186 | 159 | EL Booger |
-| 187 | 157 | ariel |
+| 184 | 164 | Jackie Miller |
+| 185 | 163 | Brandy Lynn |
+| 186 | 160 | Tipsy Builderline |
+| 187 | 159 | EL Booger |
 | 188 | 157 | Mark Norton |
-| 189 | 155 | Bonnie Powell |
-| 190 | 155 | Ryan Paul Clark-Ramsey |
-| 191 | 155 | Jackie Polanco |
-| 192 | 155 | Shayna Vaigneur-Hall |
-| 193 | 154 | No Time |
-| 194 | 153 | Laguya |
-| 195 | 152 | Bryan DjMagnum Evans |
+| 189 | 157 | ariel |
+| 190 | 155 | Jackie Polanco |
+| 191 | 155 | Ryan Paul Clark-Ramsey |
+| 192 | 155 | Bonnie Powell |
+| 193 | 155 | Shayna Vaigneur-Hall |
+| 194 | 154 | No Time |
+| 195 | 153 | Laguya |
 | 196 | 150 | gabs |
 | 197 | 150 | Janet Sanfilippo Sullivan |
 | 198 | 148 | Joseph Hunter |
 | 199 | 145 | Smiley Gridzone |
-| 200 | 144 | Lani |
-| 201 | 144 | Yesenia Castro Monreal |
-| 202 | 144 | Katie Lynn Petit |
+| 200 | 144 | Yesenia Castro Monreal |
+| 201 | 144 | Katie Lynn Petit |
+| 202 | 144 | Lani |
 | 203 | 143 | Queen B |
 | 204 | 143 | Ashley Mcdonald |
 | 205 | 142 | Lush Fitblock |
