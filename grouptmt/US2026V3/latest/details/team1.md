@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 00:48:14 UTC
+# Standings for team1 as of 2026-06-06 00:48:37 UTC
 
 **Total Participants:** 655
 
@@ -52,9 +52,9 @@
 | 44 | 254 | Blockhead |
 | 45 | 253 | Tammye Turner |
 | 46 | 249 | Ashley MyBeauty Daniels |
-| 47 | 248 | Debbie Carswell |
-| 48 | 240 | Rayya Kiser |
-| 49 | 239 | Helen Smith |
+| 47 | 249 | Helen Smith |
+| 48 | 248 | Debbie Carswell |
+| 49 | 240 | Rayya Kiser |
 | 50 | 239 | GrkGdess |
 | 51 | 237 | Leebo Slice |
 | 52 | 228 | Cassidy Butler |
@@ -137,14 +137,14 @@
 | 129 | 85 | Lisa Fletcher |
 | 130 | 84 | Franklin Sotelo |
 | 131 | 84 | Ciera Peace |
-| 132 | 82 | Poppy Buildout |
-| 133 | 81 | Matthieu Pistone |
-| 134 | 81 | Sarah Steckbauer |
-| 135 | 81 | Mafio SO |
-| 136 | 80 | Charles Johnson |
-| 137 | 80 | Felicia Williams |
-| 138 | 80 | LAhoneybun82 |
-| 139 | 80 | Mic Balew |
+| 132 | 83 | Mic Balew |
+| 133 | 82 | Poppy Buildout |
+| 134 | 81 | Matthieu Pistone |
+| 135 | 81 | Sarah Steckbauer |
+| 136 | 81 | Mafio SO |
+| 137 | 80 | Charles Johnson |
+| 138 | 80 | Felicia Williams |
+| 139 | 80 | LAhoneybun82 |
 | 140 | 80 | Jazzy Dashpiece |
 | 141 | 80 | Jamie Willis |
 | 142 | 80 | Chevalier Burley |
@@ -640,27 +640,27 @@
 | 632 | 5 | Saucy Linkgrid |
 | 633 | 5 | Jasmine Hariston-Estis |
 | 634 | 5 | pooh |
-| 635 | 5 | Vernon Hoyt |
-| 636 | 5 | Stephanie Zuniga Tullock |
-| 637 | 5 | Derek Beverly |
-| 638 | 5 | Lil T |
-| 639 | 5 | Sara |
-| 640 | 5 | Hasty Brickzone |
-| 641 | 5 | Chill Linkroll |
-| 642 | 5 | the guy |
-| 643 | 5 | Shona ShayShay Jones |
-| 644 | 5 | DirtiestofMikes |
-| 645 | 5 | Shakuria Cortia Burney |
-| 646 | 5 | Kidgib5 |
-| 647 | 5 | Jennifer Moore |
-| 648 | 5 | Tito Divyn |
-| 649 | 5 | Shawn Himes |
-| 650 | 5 | Tamika Fisher |
-| 651 | 5 | Zappy Clearfit |
-| 652 | 5 | Duckey |
-| 653 | 5 | Sheila Burnham |
-| 654 | 5 | Logan Frost |
-| 655 | 5 | Andre Sanon |
+| 635 | 5 | Stephanie Zuniga Tullock |
+| 636 | 5 | Derek Beverly |
+| 637 | 5 | Lil T |
+| 638 | 5 | Sara |
+| 639 | 5 | Hasty Brickzone |
+| 640 | 5 | Chill Linkroll |
+| 641 | 5 | the guy |
+| 642 | 5 | Shona ShayShay Jones |
+| 643 | 5 | DirtiestofMikes |
+| 644 | 5 | Shakuria Cortia Burney |
+| 645 | 5 | Kidgib5 |
+| 646 | 5 | Jennifer Moore |
+| 647 | 5 | Tito Divyn |
+| 648 | 5 | Shawn Himes |
+| 649 | 5 | Tamika Fisher |
+| 650 | 5 | Zappy Clearfit |
+| 651 | 5 | Duckey |
+| 652 | 5 | Sheila Burnham |
+| 653 | 5 | Logan Frost |
+| 654 | 5 | Andre Sanon |
+| 655 | 5 | Vernon Hoyt |
 
 ---
 *Standings created by tournaments datasource generation tool*
