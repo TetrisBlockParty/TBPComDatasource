@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 18:14:17 UTC
+# Standings for team1 as of 2026-06-06 18:14:39 UTC
 
 **Total Participants:** 1098
 
@@ -98,8 +98,8 @@
 | 90 | 382 | Gael Quintana |
 | 91 | 377 | AF Cruz |
 | 92 | 373 | Catara Renae Oliver |
-| 93 | 370 | Lashawn Wallace |
-| 94 | 368 | Kimberly Hernandez |
+| 93 | 371 | Kimberly Hernandez |
+| 94 | 370 | Lashawn Wallace |
 | 95 | 365 | Sarah Marie |
 | 96 | 363 | Voice |
 | 97 | 356 | Moomoo |
@@ -119,8 +119,8 @@
 | 111 | 302 | Felicia Williams |
 | 112 | 298 | Leebo Slice |
 | 113 | 297 | Michelle Titus |
-| 114 | 292 | Atlantalindi |
-| 115 | 292 | Robyn Caldwell |
+| 114 | 292 | Robyn Caldwell |
+| 115 | 292 | Atlantalindi |
 | 116 | 290 | Roberta Lynn |
 | 117 | 285 | Jaida De'Anne Cox |
 | 118 | 278 | Shontanese Adams |
@@ -128,13 +128,13 @@
 | 120 | 275 | Jawaun Daniels |
 | 121 | 274 | Tonya Lee Sanders |
 | 122 | 274 | Tammye Turner |
-| 123 | 273 | MamaBear |
-| 124 | 273 | Dee McCool |
+| 123 | 273 | Dee McCool |
+| 124 | 273 | MamaBear |
 | 125 | 271 | Ashley MyBeauty Daniels |
-| 126 | 270 | Tamara N Lee |
-| 127 | 270 | Jo NewmindNewfocus Bell |
-| 128 | 257 | Helen Smith |
-| 129 | 257 | Cathy Young |
+| 126 | 270 | Jo NewmindNewfocus Bell |
+| 127 | 270 | Tamara N Lee |
+| 128 | 257 | Cathy Young |
+| 129 | 257 | Helen Smith |
 | 130 | 257 | Mimi 1.0 |
 | 131 | 256 | Cortaz Lawrie |
 | 132 | 251 | Allison Baxter |
@@ -153,11 +153,11 @@
 | 145 | 226 | xXEKUNXx |
 | 146 | 225 | Rhonda Williams Warner |
 | 147 | 222 | Mic Balew |
-| 148 | 220 | Devin West |
-| 149 | 220 | Dacia Hicks |
+| 148 | 220 | Dacia Hicks |
+| 149 | 220 | Devin West |
 | 150 | 218 | Quirky Fallgrid |
-| 151 | 216 | Nerdy Snapfall |
-| 152 | 216 | Zachary Colegrove |
+| 151 | 216 | Zachary Colegrove |
+| 152 | 216 | Nerdy Snapfall |
 | 153 | 214 | Tonya McElroy |
 | 154 | 212 | Nobles Brandon |
 | 155 | 209 | Reginald Frank |
