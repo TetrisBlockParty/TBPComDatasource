@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 20:14:38 UTC
+# Standings for team4 as of 2026-06-06 20:15:17 UTC
 
 **Total Participants:** 1130
 
@@ -152,9 +152,9 @@
 | 144 | 211 | Renee Sapp |
 | 145 | 210 | Scamp Jones |
 | 146 | 207 | Aramat |
-| 147 | 203 | Patrick Alley |
-| 148 | 202 | Nicole |
-| 149 | 201 | Perky Riserbuilder |
+| 147 | 206 | Perky Riserbuilder |
+| 148 | 203 | Patrick Alley |
+| 149 | 202 | Nicole |
 | 150 | 200 | Sarah Montagne Forsberg |
 | 151 | 199 | Colin |
 | 152 | 196 | Brick House |
