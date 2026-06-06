@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 11:47:17 UTC
+# Standings for team2 as of 2026-06-06 11:48:16 UTC
 
 **Total Participants:** 1123
 
@@ -23,8 +23,8 @@
 | 15 | 3358 | Traci Elizabeth |
 | 16 | 3283 | Jewels |
 | 17 | 2561 | Erica Dees Parks |
-| 18 | 2500 | Crafty Ziggy |
-| 19 | 2498 | Kathleen M Cox |
+| 18 | 2548 | Kathleen M Cox |
+| 19 | 2500 | Crafty Ziggy |
 | 20 | 2368 | Dapper Rollout |
 | 21 | 2242 | Bobbi |
 | 22 | 2216 | Renee Weedling |
@@ -254,15 +254,15 @@
 | 246 | 107 | Carole Brown |
 | 247 | 106 | Sara Perkins |
 | 248 | 106 | Patria Osuoha |
-| 249 | 104 | Roe Sarmiento |
-| 250 | 104 | Theresa Hollinger |
-| 251 | 103 | Tango Sierra |
-| 252 | 102 | Alissa Ary |
-| 253 | 102 | Jat |
-| 254 | 102 | Tammy Roth |
-| 255 | 100 | Jason Cunningham |
-| 256 | 100 | Leticia Tillman |
-| 257 | 100 | Tamtam |
+| 249 | 105 | Tamtam |
+| 250 | 104 | Roe Sarmiento |
+| 251 | 104 | Theresa Hollinger |
+| 252 | 103 | Tango Sierra |
+| 253 | 102 | Alissa Ary |
+| 254 | 102 | Jat |
+| 255 | 102 | Tammy Roth |
+| 256 | 100 | Jason Cunningham |
+| 257 | 100 | Leticia Tillman |
 | 258 | 100 | Ber |
 | 259 | 100 | LEW |
 | 260 | 100 | Sharon L Brazelton |
@@ -1087,48 +1087,48 @@
 | 1079 | 7 | Elizabeth Elaine Coursey |
 | 1080 | 7 | Clever Balancefit |
 | 1081 | 7 | Liz Wilkerson |
-| 1082 | 7 | Shane Peavey |
-| 1083 | 7 | sampson |
-| 1084 | 7 | Daring Blockline |
-| 1085 | 7 | Beth |
-| 1086 | 7 | Collins |
-| 1087 | 7 | Mighty Piecebuilder |
-| 1088 | 7 | Aguilar Rita |
-| 1089 | 7 | Carol Whited Loza |
-| 1090 | 7 | Kelli Pazour |
-| 1091 | 7 | Sam Blinn |
-| 1092 | 7 | Jason Janssen |
-| 1093 | 6 | Shelby Wilson |
-| 1094 | 6 | Lori Yelvington Cain |
-| 1095 | 6 | Michele Choate |
-| 1096 | 6 | Lavenda Nettles |
-| 1097 | 6 | Trisha Farley |
-| 1098 | 6 | Cozy Curve |
-| 1099 | 6 | Emily |
-| 1100 | 6 | FabTeach |
-| 1101 | 6 | Cheeky Dashpiece |
-| 1102 | 6 | Partin |
-| 1103 | 6 | Jessie |
-| 1104 | 6 | Trena Sapp |
-| 1105 | 6 | Snappy Fitblock |
-| 1106 | 6 | Amanda Knox |
-| 1107 | 6 | Celeste Samuels |
-| 1108 | 6 | Lou Sassole |
-| 1109 | 5 | Crystal Poss |
-| 1110 | 5 | Flynn Flibble |
-| 1111 | 5 | Jennifer Roper Stanley |
-| 1112 | 5 | Deborah Fowler |
-| 1113 | 5 | Agnes Gable |
-| 1114 | 5 | Dapper Clearpiece |
-| 1115 | 5 | Brittany Weatherspoon |
-| 1116 | 5 | Jennifer Mauler Schmidt |
-| 1117 | 5 | Chirpy Towerer |
-| 1118 | 5 | Danh Nguyen |
-| 1119 | 5 | Nerdy Base |
-| 1120 | 5 | Mercedes Lowery |
-| 1121 | 5 | Nicole Plummer |
-| 1122 | 5 | Duck |
-| 1123 | 5 | Nolife |
+| 1082 | 7 | Kelli Pazour |
+| 1083 | 7 | Shane Peavey |
+| 1084 | 7 | sampson |
+| 1085 | 7 | Carol Whited Loza |
+| 1086 | 7 | Jason Janssen |
+| 1087 | 7 | Aguilar Rita |
+| 1088 | 7 | Sam Blinn |
+| 1089 | 7 | Collins |
+| 1090 | 7 | Beth |
+| 1091 | 7 | Daring Blockline |
+| 1092 | 7 | Mighty Piecebuilder |
+| 1093 | 6 | FabTeach |
+| 1094 | 6 | Cozy Curve |
+| 1095 | 6 | Lou Sassole |
+| 1096 | 6 | Emily |
+| 1097 | 6 | Michele Choate |
+| 1098 | 6 | Shelby Wilson |
+| 1099 | 6 | Lavenda Nettles |
+| 1100 | 6 | Amanda Knox |
+| 1101 | 6 | Lori Yelvington Cain |
+| 1102 | 6 | Trisha Farley |
+| 1103 | 6 | Partin |
+| 1104 | 6 | Jessie |
+| 1105 | 6 | Trena Sapp |
+| 1106 | 6 | Cheeky Dashpiece |
+| 1107 | 6 | Snappy Fitblock |
+| 1108 | 6 | Celeste Samuels |
+| 1109 | 5 | Danh Nguyen |
+| 1110 | 5 | Jennifer Roper Stanley |
+| 1111 | 5 | Flynn Flibble |
+| 1112 | 5 | Crystal Poss |
+| 1113 | 5 | Nolife |
+| 1114 | 5 | Duck |
+| 1115 | 5 | Deborah Fowler |
+| 1116 | 5 | Dapper Clearpiece |
+| 1117 | 5 | Nicole Plummer |
+| 1118 | 5 | Nerdy Base |
+| 1119 | 5 | Brittany Weatherspoon |
+| 1120 | 5 | Jennifer Mauler Schmidt |
+| 1121 | 5 | Chirpy Towerer |
+| 1122 | 5 | Mercedes Lowery |
+| 1123 | 5 | Agnes Gable |
 
 ---
 *Standings created by tournaments datasource generation tool*
