@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 12:34:17 UTC
+# Standings for team2 as of 2026-06-06 12:34:38 UTC
 
 **Total Participants:** 1139
 
@@ -115,12 +115,12 @@
 | 107 | 299 | Amber Miller Wirick |
 | 108 | 294 | Vistabrat |
 | 109 | 292 | Gabriella Humphreys |
-| 110 | 280 | Mom |
-| 111 | 279 | James Ward |
-| 112 | 279 | Renee Freeman Jacobson |
-| 113 | 278 | Flashy Twistline |
-| 114 | 275 | Bubbly Strikerpiece |
-| 115 | 274 | Sarah Griffey |
+| 110 | 283 | Sarah Griffey |
+| 111 | 280 | Mom |
+| 112 | 279 | James Ward |
+| 113 | 279 | Renee Freeman Jacobson |
+| 114 | 278 | Flashy Twistline |
+| 115 | 275 | Bubbly Strikerpiece |
 | 116 | 259 | Bon Lynn |
 | 117 | 258 | Erin Thomas |
 | 118 | 253 | Hilliary Beyer |

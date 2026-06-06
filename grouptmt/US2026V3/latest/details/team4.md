@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 12:34:17 UTC
+# Standings for team4 as of 2026-06-06 12:34:38 UTC
 
 **Total Participants:** 960
 
@@ -96,8 +96,8 @@
 | 88 | 300 | 2 kool |
 | 89 | 300 | Genag |
 | 90 | 294 | Hen |
-| 91 | 283 | Jesse Olive |
-| 92 | 275 | Gigglycat |
+| 91 | 290 | Gigglycat |
+| 92 | 283 | Jesse Olive |
 | 93 | 271 | Kim |
 | 94 | 267 | Cranky Towerbuilder |
 | 95 | 259 | Jessica Peyton |
