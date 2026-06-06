@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-06 23:56:19 UTC
+# Standings for team2 as of 2026-06-06 23:56:40 UTC
 
-**Total Participants:** 1459
+**Total Participants:** 1460
 
 ## Participant Scores
 
@@ -1396,9 +1396,9 @@
 | 1388 | 8 | Alisha Shelton |
 | 1389 | 8 | Jackie Hayslip |
 | 1390 | 8 | Crystal Alexander |
-| 1391 | 8 | Kennadee Albertson |
+| 1391 | 8 | Beth Engberg |
 | 1392 | 8 | Angela Oates-Killebrew |
-| 1393 | 8 | Beth Engberg |
+| 1393 | 8 | Kennadee Albertson |
 | 1394 | 8 | Tina Doyens Munis |
 | 1395 | 8 | Jeannine Murphy |
 | 1396 | 8 | Funky Slide |
@@ -1409,62 +1409,63 @@
 | 1401 | 8 | Mariah Mandel |
 | 1402 | 8 | Sarah Elizabeth Foret |
 | 1403 | 7 | Brenda Ohaus Facher |
-| 1404 | 7 | michael |
-| 1405 | 7 | Sam Blinn |
-| 1406 | 7 | Kyle |
-| 1407 | 7 | Mighty Tiltpiece |
-| 1408 | 7 | Crystal King |
+| 1404 | 7 | Kyle |
+| 1405 | 7 | Mighty Tiltpiece |
+| 1406 | 7 | Sam Blinn |
+| 1407 | 7 | Crystal King |
+| 1408 | 7 | Mike Honcho |
 | 1409 | 7 | Rochelle O'Loughlin |
 | 1410 | 7 | Holly Riley |
-| 1411 | 7 | Mike Honcho |
+| 1411 | 7 | Mariah Wells |
 | 1412 | 7 | Steven Desmon Thompson |
-| 1413 | 7 | Collins |
-| 1414 | 7 | Flashy Cascadeclear |
-| 1415 | 7 | Nikki Layman |
-| 1416 | 7 | Joseph Austin Prince |
-| 1417 | 7 | Liz Wilkerson |
-| 1418 | 7 | Elizabeth Elaine Coursey |
-| 1419 | 7 | Mighty Piecebuilder |
-| 1420 | 7 | Beth |
-| 1421 | 7 | Ashley |
-| 1422 | 7 | StacyK |
-| 1423 | 7 | Snippy Blockfall |
-| 1424 | 7 | Sasha Hamilton |
-| 1425 | 7 | Janice Simpson |
-| 1426 | 6 | Cara Douglas |
-| 1427 | 6 | Lou Sassole |
-| 1428 | 6 | Jessie |
-| 1429 | 6 | Celeste Samuels |
-| 1430 | 6 | Amanda Knox |
-| 1431 | 6 | Michael Lott |
-| 1432 | 6 | Jager |
-| 1433 | 6 | Monica Gonzalez Rios |
-| 1434 | 6 | Giggy Dropzone |
-| 1435 | 6 | Cheeky Dashpiece |
-| 1436 | 6 | Bunny Bt |
-| 1437 | 6 | Alicia Abston |
-| 1438 | 6 | Jaelyn Orr |
-| 1439 | 6 | Brandi Lynn Tumey |
-| 1440 | 6 | Michelle Brown |
-| 1441 | 6 | Bowling girl |
-| 1442 | 5 | Dapper Clearpiece |
-| 1443 | 5 | Errkuh |
-| 1444 | 5 | Flynn Flibble |
-| 1445 | 5 | Agnes Gable |
-| 1446 | 5 | Mala Phonchanthasone |
-| 1447 | 5 | Snappy Zonepiece |
-| 1448 | 5 | Jennifer Roper Stanley |
-| 1449 | 5 | Jon Torres |
-| 1450 | 5 | Nolife |
-| 1451 | 5 | Mercedes Lowery |
-| 1452 | 5 | Jennifer Mauler Schmidt |
-| 1453 | 5 | Chirpy Towerer |
-| 1454 | 5 | Teri |
-| 1455 | 5 | Nikki |
-| 1456 | 5 | Julie Ann Jacobs |
-| 1457 | 5 | Groovy Buildout |
-| 1458 | 5 | Brittany Weatherspoon |
-| 1459 | 5 | Michelle |
+| 1413 | 7 | Beth |
+| 1414 | 7 | StacyK |
+| 1415 | 7 | Janice Simpson |
+| 1416 | 7 | Sasha Hamilton |
+| 1417 | 7 | Nikki Layman |
+| 1418 | 7 | Snippy Blockfall |
+| 1419 | 7 | Ashley |
+| 1420 | 7 | Elizabeth Elaine Coursey |
+| 1421 | 7 | Mighty Piecebuilder |
+| 1422 | 7 | Liz Wilkerson |
+| 1423 | 7 | michael |
+| 1424 | 7 | Flashy Cascadeclear |
+| 1425 | 7 | Joseph Austin Prince |
+| 1426 | 7 | Collins |
+| 1427 | 6 | Amanda Knox |
+| 1428 | 6 | Celeste Samuels |
+| 1429 | 6 | Michael Lott |
+| 1430 | 6 | Lou Sassole |
+| 1431 | 6 | Jessie |
+| 1432 | 6 | Cara Douglas |
+| 1433 | 6 | Jager |
+| 1434 | 6 | Monica Gonzalez Rios |
+| 1435 | 6 | Giggy Dropzone |
+| 1436 | 6 | Cheeky Dashpiece |
+| 1437 | 6 | Bunny Bt |
+| 1438 | 6 | Alicia Abston |
+| 1439 | 6 | Jaelyn Orr |
+| 1440 | 6 | Brandi Lynn Tumey |
+| 1441 | 6 | Michelle Brown |
+| 1442 | 6 | Bowling girl |
+| 1443 | 5 | Dapper Clearpiece |
+| 1444 | 5 | Errkuh |
+| 1445 | 5 | Flynn Flibble |
+| 1446 | 5 | Agnes Gable |
+| 1447 | 5 | Mala Phonchanthasone |
+| 1448 | 5 | Snappy Zonepiece |
+| 1449 | 5 | Jennifer Roper Stanley |
+| 1450 | 5 | Jon Torres |
+| 1451 | 5 | Nolife |
+| 1452 | 5 | Michelle |
+| 1453 | 5 | Mercedes Lowery |
+| 1454 | 5 | Jennifer Mauler Schmidt |
+| 1455 | 5 | Chirpy Towerer |
+| 1456 | 5 | Teri |
+| 1457 | 5 | Julie Ann Jacobs |
+| 1458 | 5 | Nikki |
+| 1459 | 5 | Brittany Weatherspoon |
+| 1460 | 5 | Groovy Buildout |
 
 ---
 *Standings created by tournaments datasource generation tool*
