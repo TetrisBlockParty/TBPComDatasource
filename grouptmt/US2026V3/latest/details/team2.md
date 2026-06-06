@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 04:56:16 UTC
+# Standings for team2 as of 2026-06-06 04:56:40 UTC
 
 **Total Participants:** 992
 
@@ -99,7 +99,7 @@
 | 91 | 251 | Angie Kowalsky Olson |
 | 92 | 250 | Wmk Rathbun |
 | 93 | 249 | Bon Lynn |
-| 94 | 242 | Bubbly Strikerpiece |
+| 94 | 245 | Bubbly Strikerpiece |
 | 95 | 242 | Snappy Combo |
 | 96 | 236 | Steven Craig |
 | 97 | 233 | Hilliary Beyer |
@@ -917,8 +917,8 @@
 | 909 | 9 | Glowing Earthy Embers |
 | 910 | 9 | Giggly Spinblock |
 | 911 | 9 | April Wright |
-| 912 | 9 | Phyllis DiCristo |
-| 913 | 9 | James Calhoun |
+| 912 | 9 | James Calhoun |
+| 913 | 9 | Phyllis DiCristo |
 | 914 | 9 | Michelle Powers Chattaway |
 | 915 | 9 | Darla Ragsdale |
 | 916 | 9 | Kristi K Milner |
@@ -933,40 +933,40 @@
 | 925 | 9 | Angelique Matzke Starns |
 | 926 | 9 | Armordguy |
 | 927 | 8 | SueEllen Hawkins |
-| 928 | 8 | Jana Campbell |
-| 929 | 8 | Loony Ziggy |
-| 930 | 8 | Jennifer Leigh |
-| 931 | 8 | Jenna Thorn |
-| 932 | 8 | Jackie Hayslip |
-| 933 | 8 | Erica |
+| 928 | 8 | Erica |
+| 929 | 8 | Jana Campbell |
+| 930 | 8 | Loony Ziggy |
+| 931 | 8 | Jennifer Leigh |
+| 932 | 8 | Jenna Thorn |
+| 933 | 8 | Jackie Hayslip |
 | 934 | 8 | Jill Goff |
 | 935 | 8 | Chill Wipegrid |
 | 936 | 8 | Sarah Elizabeth Foret |
 | 937 | 8 | Funky Slide |
 | 938 | 8 | Tina Doyens Munis |
-| 939 | 7 | Shane Peavey |
+| 939 | 7 | Dandy Wiper |
 | 940 | 7 | sampson |
 | 941 | 7 | Kelli Pazour |
-| 942 | 7 | Carol Whited Loza |
-| 943 | 7 | Daring Blockline |
-| 944 | 7 | Dandy Wiper |
-| 945 | 7 | Mike Honcho |
-| 946 | 7 | Sam Blinn |
-| 947 | 7 | Nina-Christina Cusyck |
-| 948 | 7 | Clever Balancefit |
-| 949 | 7 | Brenda Ohaus Facher |
-| 950 | 7 | Flashy Cascadeclear |
-| 951 | 7 | michael |
+| 942 | 7 | Daring Blockline |
+| 943 | 7 | Carol Whited Loza |
+| 944 | 7 | michael |
+| 945 | 7 | Shane Peavey |
+| 946 | 7 | Mike Honcho |
+| 947 | 7 | Sam Blinn |
+| 948 | 7 | Nina-Christina Cusyck |
+| 949 | 7 | Clever Balancefit |
+| 950 | 7 | Brenda Ohaus Facher |
+| 951 | 7 | Flashy Cascadeclear |
 | 952 | 7 | Happy Curvebuilder |
 | 953 | 7 | Elizabeth Elaine Coursey |
 | 954 | 7 | Beth |
 | 955 | 7 | Aguilar Rita |
 | 956 | 6 | Jay King |
-| 957 | 6 | Shelby Wilson |
+| 957 | 6 | Lori Yelvington Cain |
 | 958 | 6 | Celeste Samuels |
-| 959 | 6 | Cozy Curve |
-| 960 | 6 | Lori Yelvington Cain |
-| 961 | 6 | Cheeky Dashpiece |
+| 959 | 6 | Shelby Wilson |
+| 960 | 6 | Trisha Farley |
+| 961 | 6 | Cozy Curve |
 | 962 | 6 | Lou Sassole |
 | 963 | 6 | Lavenda Nettles |
 | 964 | 6 | Jessie |
@@ -977,27 +977,27 @@
 | 969 | 6 | Amanda Knox |
 | 970 | 6 | FabTeach |
 | 971 | 6 | Trena Sapp |
-| 972 | 6 | Fluffypuffin |
-| 973 | 6 | Partin |
-| 974 | 6 | Kelly Christine Trimmer |
-| 975 | 6 | Trisha Farley |
-| 976 | 5 | Mercedes Lowery |
-| 977 | 5 | Nicole Suber |
+| 972 | 6 | Johnathon Mendiola |
+| 973 | 6 | Fluffypuffin |
+| 974 | 6 | Partin |
+| 975 | 6 | Kelly Christine Trimmer |
+| 976 | 6 | Cheeky Dashpiece |
+| 977 | 5 | Mercedes Lowery |
 | 978 | 5 | Crafty Slice |
-| 979 | 5 | Gina Louise Parker |
-| 980 | 5 | Jennifer Roper Stanley |
-| 981 | 5 | Crystal Poss |
-| 982 | 5 | Bad Juju |
-| 983 | 5 | Adrian Alvarez |
-| 984 | 5 | Deborah Fowler |
-| 985 | 5 | Agnes Gable |
-| 986 | 5 | Johnathon Mendiola |
-| 987 | 5 | Nerdy Base |
-| 988 | 5 | Brittany Weatherspoon |
-| 989 | 5 | Nolife |
-| 990 | 5 | Bennie Farbo |
-| 991 | 5 | Jennifer Mauler Schmidt |
-| 992 | 5 | Chirpy Towerer |
+| 979 | 5 | Nicole Suber |
+| 980 | 5 | Gina Louise Parker |
+| 981 | 5 | Chirpy Towerer |
+| 982 | 5 | Jennifer Mauler Schmidt |
+| 983 | 5 | Bennie Farbo |
+| 984 | 5 | Nolife |
+| 985 | 5 | Brittany Weatherspoon |
+| 986 | 5 | Nerdy Base |
+| 987 | 5 | Agnes Gable |
+| 988 | 5 | Deborah Fowler |
+| 989 | 5 | Adrian Alvarez |
+| 990 | 5 | Bad Juju |
+| 991 | 5 | Crystal Poss |
+| 992 | 5 | Jennifer Roper Stanley |
 
 ---
 *Standings created by tournaments datasource generation tool*
