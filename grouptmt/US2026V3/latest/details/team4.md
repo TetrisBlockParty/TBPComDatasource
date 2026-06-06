@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 20:16:17 UTC
+# Standings for team4 as of 2026-06-06 20:16:40 UTC
 
 **Total Participants:** 1130
 
@@ -44,8 +44,8 @@
 | 36 | 900 | Kathy Brookins |
 | 37 | 876 | SMV |
 | 38 | 858 | Snippy Grid |
-| 39 | 824 | Blind Bette |
-| 40 | 800 | Juan Ford |
+| 39 | 850 | Juan Ford |
+| 40 | 824 | Blind Bette |
 | 41 | 800 | Leah Gorsuch |
 | 42 | 797 | Beee |
 | 43 | 795 | Erin Figone |
@@ -87,8 +87,8 @@
 | 79 | 441 | woopa 716 |
 | 80 | 440 | Jewelz |
 | 81 | 402 | Nick Graber |
-| 82 | 400 | Amber Doyle |
-| 83 | 400 | Sassy Column |
+| 82 | 400 | Sassy Column |
+| 83 | 400 | Amber Doyle |
 | 84 | 399 | iiPurgeV2 |
 | 85 | 398 | Kay |
 | 86 | 395 | Melissa WC |
@@ -97,8 +97,8 @@
 | 89 | 381 | Cranky Towerbuilder |
 | 90 | 378 | Lisa Garcia |
 | 91 | 376 | Jason Garnatz |
-| 92 | 373 | Tanita Jobe |
-| 93 | 373 | Boldy Rumbler |
+| 92 | 373 | Boldy Rumbler |
+| 93 | 373 | Tanita Jobe |
 | 94 | 370 | Dandy Clearfit |
 | 95 | 364 | Jackie Jackson |
 | 96 | 360 | Gigglycat |
@@ -115,16 +115,16 @@
 | 107 | 319 | BCO22 |
 | 108 | 317 | J |
 | 109 | 302 | JoLinda Dunn |
-| 110 | 300 | Genag |
-| 111 | 300 | 2 kool |
-| 112 | 300 | Hasty Builder |
+| 110 | 300 | Hasty Builder |
+| 111 | 300 | Genag |
+| 112 | 300 | 2 kool |
 | 113 | 299 | Kim |
 | 114 | 296 | Andrew Dang |
 | 115 | 295 | Thomasena Eady Reid |
 | 116 | 294 | Jesse Olive |
 | 117 | 281 | Margie Thomas |
-| 118 | 272 | Sarah Berry Stevens |
-| 119 | 272 | Taz |
+| 118 | 272 | Taz |
+| 119 | 272 | Sarah Berry Stevens |
 | 120 | 268 | Jojo Ann |
 | 121 | 259 | Jessica Peyton |
 | 122 | 258 | Gorica Prusina |
@@ -141,9 +141,9 @@
 | 133 | 223 | matt |
 | 134 | 222 | Danny Ortiz |
 | 135 | 221 | Slimm |
-| 136 | 220 | Esther Hadassah |
+| 136 | 220 | Shmeedo |
 | 137 | 220 | Silly Risegrid |
-| 138 | 220 | Shmeedo |
+| 138 | 220 | Esther Hadassah |
 | 139 | 219 | Trice Stevenson |
 | 140 | 218 | Daryn Elliott |
 | 141 | 218 | Dubiousdust |
@@ -159,12 +159,12 @@
 | 151 | 199 | Colin |
 | 152 | 196 | Brick House |
 | 153 | 195 | Sean Mccleary |
-| 154 | 194 | Jenn Norcross |
-| 155 | 194 | Chiquita Blue |
+| 154 | 194 | Chiquita Blue |
+| 155 | 194 | Jenn Norcross |
 | 156 | 194 | Lisa lisa |
 | 157 | 193 | Tiffany Bunker-Hill |
-| 158 | 192 | Tiggerjake |
-| 159 | 192 | Stephanie Myers |
+| 158 | 192 | Stephanie Myers |
+| 159 | 192 | Tiggerjake |
 | 160 | 187 | Leslie Ann Carter |
 | 161 | 187 | Devinlee Brown |
 | 162 | 186 | Kimyatta Cavin |
@@ -173,36 +173,36 @@
 | 165 | 185 | Dae Von |
 | 166 | 184 | Lucy Honer |
 | 167 | 183 | Tara Delay Hill |
-| 168 | 181 | Goofy Riser |
-| 169 | 181 | Waxboss |
+| 168 | 181 | Waxboss |
+| 169 | 181 | Goofy Riser |
 | 170 | 179 | Anna Gribble |
-| 171 | 178 | Tamara Triplet |
-| 172 | 178 | Spicy Chicken |
+| 171 | 178 | Spicy Chicken |
+| 172 | 178 | Tamara Triplet |
 | 173 | 177 | Damon Gaston |
 | 174 | 177 | Tammy June |
 | 175 | 177 | Chirpy Link |
 | 176 | 172 | Tawna Curry |
-| 177 | 169 | Tiffany Smith |
-| 178 | 169 | Dana Fontanez |
+| 177 | 171 | Dana Fontanez |
+| 178 | 169 | Tiffany Smith |
 | 179 | 167 | Littlebrat |
 | 180 | 166 | Alyson M Kehler |
 | 181 | 166 | Sassy Rollpiece |
-| 182 | 164 | Jackie Miller |
-| 183 | 164 | Stacy G |
+| 182 | 164 | Stacy G |
+| 183 | 164 | Jackie Miller |
 | 184 | 163 | Brandy Lynn |
 | 185 | 160 | Tipsy Builderline |
 | 186 | 159 | EL Booger |
-| 187 | 157 | Mark Norton |
-| 188 | 157 | ariel |
-| 189 | 155 | Ryan Paul Clark-Ramsey |
-| 190 | 155 | Jackie Polanco |
-| 191 | 155 | Shayna Vaigneur-Hall |
-| 192 | 155 | Bonnie Powell |
+| 187 | 157 | ariel |
+| 188 | 157 | Mark Norton |
+| 189 | 155 | Jackie Polanco |
+| 190 | 155 | Ryan Paul Clark-Ramsey |
+| 191 | 155 | Bonnie Powell |
+| 192 | 155 | Shayna Vaigneur-Hall |
 | 193 | 154 | No Time |
 | 194 | 153 | Laguya |
 | 195 | 152 | Bryan DjMagnum Evans |
-| 196 | 150 | Janet Sanfilippo Sullivan |
-| 197 | 150 | gabs |
+| 196 | 150 | gabs |
+| 197 | 150 | Janet Sanfilippo Sullivan |
 | 198 | 148 | Joseph Hunter |
 | 199 | 145 | Smiley Gridzone |
 | 200 | 144 | Yesenia Castro Monreal |
@@ -212,9 +212,9 @@
 | 204 | 141 | Justin Michael |
 | 205 | 140 | adrian |
 | 206 | 139 | Jasmine Marie |
-| 207 | 138 | Tina Thomas |
-| 208 | 138 | Cheery Risegrid |
-| 209 | 138 | June Hoffman |
+| 207 | 138 | Cheery Risegrid |
+| 208 | 138 | June Hoffman |
+| 209 | 138 | Tina Thomas |
 | 210 | 137 | Shelby |
 | 211 | 136 | JuicyJuice |
 | 212 | 135 | Quiomarie Cotto |
@@ -222,23 +222,23 @@
 | 214 | 133 | Shawntae Mccary |
 | 215 | 133 | BusterBear56 |
 | 216 | 132 | Homie |
-| 217 | 131 | Stasia |
-| 218 | 131 | Tina Shalay Hayes |
-| 219 | 130 | Fran Aaron-Ring |
-| 220 | 130 | Magz |
-| 221 | 129 | Brainbabe |
+| 217 | 131 | Tina Shalay Hayes |
+| 218 | 131 | Stasia |
+| 219 | 130 | Magz |
+| 220 | 130 | Fran Aaron-Ring |
+| 221 | 129 | Chris Covington |
 | 222 | 129 | Shauna Davis |
-| 223 | 129 | Simone |
+| 223 | 129 | EvoKitty |
 | 224 | 129 | Kelly Howland |
-| 225 | 129 | Chris Covington |
-| 226 | 129 | EvoKitty |
+| 225 | 129 | Brainbabe |
+| 226 | 129 | Simone |
 | 227 | 129 | Chilly Pivot |
-| 228 | 128 | Jumpy Builderpiece |
-| 229 | 128 | Bridget Stevens |
+| 228 | 128 | Bridget Stevens |
+| 229 | 128 | Cherrypir05 |
 | 230 | 128 | Crystal Hammonds |
-| 231 | 128 | Cherrypir05 |
-| 232 | 127 | Cheeky Climber |
-| 233 | 127 | Alma López Morales |
+| 231 | 128 | Jumpy Builderpiece |
+| 232 | 127 | Alma López Morales |
+| 233 | 127 | Cheeky Climber |
 | 234 | 127 | Samara Garcia |
 | 235 | 126 | LastBoi |
 | 236 | 126 | Corie A. Brinson |
