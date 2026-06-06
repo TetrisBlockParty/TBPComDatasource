@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 11:00:16 UTC
+# Standings for team4 as of 2026-06-06 11:00:38 UTC
 
 **Total Participants:** 933
 
@@ -123,42 +123,42 @@
 | 115 | 182 | Scamp Jones |
 | 116 | 182 | blockhead |
 | 117 | 180 | Shmeedo |
-| 118 | 179 | Anna Gribble |
+| 118 | 180 | Lucy Honer |
 | 119 | 179 | Danny Ortiz |
-| 120 | 178 | Tamara Triplet |
-| 121 | 177 | Tammy June |
+| 120 | 179 | Anna Gribble |
+| 121 | 178 | Tamara Triplet |
 | 122 | 177 | Devinlee Brown |
-| 123 | 174 | Kimyatta Cavin |
-| 124 | 169 | Tiffany Smith |
-| 125 | 167 | Spicy Chicken |
-| 126 | 167 | Damon Gaston |
-| 127 | 166 | Aramat |
-| 128 | 164 | QueenLi86 |
-| 129 | 163 | Brandy Lynn |
-| 130 | 161 | matt |
-| 131 | 160 | Tipsy Builderline |
-| 132 | 160 | Kitsune Bi |
-| 133 | 160 | Littlebrat |
-| 134 | 159 | iiPurgeV2 |
-| 135 | 158 | Taz |
-| 136 | 155 | Shayna Vaigneur-Hall |
+| 123 | 177 | Tammy June |
+| 124 | 174 | Kimyatta Cavin |
+| 125 | 169 | Tiffany Smith |
+| 126 | 167 | Spicy Chicken |
+| 127 | 167 | Damon Gaston |
+| 128 | 166 | Aramat |
+| 129 | 164 | QueenLi86 |
+| 130 | 163 | Brandy Lynn |
+| 131 | 161 | matt |
+| 132 | 160 | Littlebrat |
+| 133 | 160 | Tipsy Builderline |
+| 134 | 160 | Kitsune Bi |
+| 135 | 159 | iiPurgeV2 |
+| 136 | 158 | Taz |
 | 137 | 155 | Dae Von |
-| 138 | 154 | No Time |
-| 139 | 153 | Laguya |
-| 140 | 152 | Dazzle Dragon |
-| 141 | 150 | Lucy Honer |
+| 138 | 155 | Shayna Vaigneur-Hall |
+| 139 | 154 | No Time |
+| 140 | 153 | Laguya |
+| 141 | 152 | Dazzle Dragon |
 | 142 | 150 | gabs |
 | 143 | 149 | Daryn Elliott |
 | 144 | 148 | Megan Vick |
-| 145 | 146 | Becky McCool |
-| 146 | 146 | Jason Garnatz |
+| 145 | 146 | Jason Garnatz |
+| 146 | 146 | Becky McCool |
 | 147 | 145 | Trice Stevenson |
 | 148 | 144 | Yesenia Castro Monreal |
 | 149 | 143 | Ashley Mcdonald |
 | 150 | 142 | Goofy Riser |
 | 151 | 141 | Jackie Polanco |
-| 152 | 137 | Jasmine Marie |
-| 153 | 137 | Shelby |
+| 152 | 137 | Shelby |
+| 153 | 137 | Jasmine Marie |
 | 154 | 134 | Loony Rotater |
 | 155 | 134 | ariel |
 | 156 | 133 | June Hoffman |

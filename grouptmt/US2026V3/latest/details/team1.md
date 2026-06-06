@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 11:00:16 UTC
+# Standings for team1 as of 2026-06-06 11:00:38 UTC
 
 **Total Participants:** 962
 
@@ -658,23 +658,23 @@
 | 650 | 25 | Tweet Turner |
 | 651 | 25 | Linny Loop |
 | 652 | 25 | Sammie Walker |
-| 653 | 25 | Kimmie Gargano |
-| 654 | 25 | Barbramerri Tarboro |
-| 655 | 25 | Jenni |
-| 656 | 25 | Alyssa H |
-| 657 | 25 | Dirty Deeds |
-| 658 | 25 | PennyCandee |
-| 659 | 25 | Cj Chimelis |
-| 660 | 24 | Abigail Newman Sweet |
-| 661 | 24 | Ashanti Eden |
-| 662 | 24 | LaTonya Rivers |
-| 663 | 24 | Shaun Anderson |
-| 664 | 24 | Mumitt |
-| 665 | 24 | AshMo |
-| 666 | 24 | Mrs |
-| 667 | 24 | Marlynnnnn |
-| 668 | 24 | Jason Saputo |
-| 669 | 23 | Solomon Valarie |
+| 653 | 25 | Solomon Valarie |
+| 654 | 25 | Kimmie Gargano |
+| 655 | 25 | Barbramerri Tarboro |
+| 656 | 25 | Jenni |
+| 657 | 25 | Alyssa H |
+| 658 | 25 | Dirty Deeds |
+| 659 | 25 | PennyCandee |
+| 660 | 25 | Cj Chimelis |
+| 661 | 24 | Abigail Newman Sweet |
+| 662 | 24 | Ashanti Eden |
+| 663 | 24 | LaTonya Rivers |
+| 664 | 24 | Shaun Anderson |
+| 665 | 24 | Mumitt |
+| 666 | 24 | AshMo |
+| 667 | 24 | Mrs |
+| 668 | 24 | Marlynnnnn |
+| 669 | 24 | Jason Saputo |
 | 670 | 23 | Shauntai Holiday |
 | 671 | 23 | Connor Leon Cluff |
 | 672 | 23 | Hardtohandle91 |
