@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 11:54:16 UTC
+# Standings for team4 as of 2026-06-06 11:54:41 UTC
 
 **Total Participants:** 947
 
@@ -168,18 +168,18 @@
 | 160 | 133 | Janet Sanfilippo Sullivan |
 | 161 | 133 | Shawntae Mccary |
 | 162 | 130 | Magz |
-| 163 | 130 | Fran Aaron-Ring |
-| 164 | 129 | Lani |
-| 165 | 129 | Ryan Paul Clark-Ramsey |
-| 166 | 129 | Brainbabe |
-| 167 | 129 | Kelly Howland |
-| 168 | 129 | Chilly Pivot |
-| 169 | 129 | Simone |
-| 170 | 128 | Crystal Hammonds |
-| 171 | 126 | Lush Fitblock |
-| 172 | 126 | GeorgeButts |
-| 173 | 126 | Alyson M Kehler |
-| 174 | 125 | Gigglycat |
+| 163 | 130 | Gigglycat |
+| 164 | 130 | Fran Aaron-Ring |
+| 165 | 129 | Lani |
+| 166 | 129 | Ryan Paul Clark-Ramsey |
+| 167 | 129 | Brainbabe |
+| 168 | 129 | Kelly Howland |
+| 169 | 129 | Chilly Pivot |
+| 170 | 129 | Simone |
+| 171 | 128 | Crystal Hammonds |
+| 172 | 126 | Lush Fitblock |
+| 173 | 126 | GeorgeButts |
+| 174 | 126 | Alyson M Kehler |
 | 175 | 125 | Leslie Ann Carter |
 | 176 | 124 | Chris Covington |
 | 177 | 123 | Cherrypir05 |
@@ -513,8 +513,8 @@
 | 505 | 40 | Bumpy Morris |
 | 506 | 40 | Brandi Sauer |
 | 507 | 40 | Kena T. Tanner |
-| 508 | 40 | Lady Dolphin |
-| 509 | 40 | Mexican130 |
+| 508 | 40 | Mexican130 |
+| 509 | 40 | Lady Dolphin |
 | 510 | 39 | Plucky Shatterfit |
 | 511 | 39 | David Lay |
 | 512 | 39 | Chris Davis |
@@ -544,50 +544,50 @@
 | 536 | 36 | Clever Shuffler |
 | 537 | 36 | Snippy Racker |
 | 538 | 36 | Linda |
-| 539 | 36 | Jeanette Hailey |
-| 540 | 36 | Shirley A. Godfrey |
-| 541 | 36 | Jenn Norcross |
+| 539 | 36 | Zippy Snaplink |
+| 540 | 36 | Giggy Snapgrid |
+| 541 | 36 | Snow77white |
 | 542 | 36 | Nancy McCalla Abercrombie |
-| 543 | 36 | Dapper Tiltpiece |
-| 544 | 36 | Donny Keets |
-| 545 | 36 | Snow77white |
-| 546 | 36 | Giggy Snapgrid |
-| 547 | 35 | Jessica Marie Flores |
-| 548 | 35 | Youngkueen |
-| 549 | 35 | Jillian Marie |
+| 543 | 36 | Donny Keets |
+| 544 | 36 | Jeanette Hailey |
+| 545 | 36 | Shirley A. Godfrey |
+| 546 | 36 | Jenn Norcross |
+| 547 | 36 | Dapper Tiltpiece |
+| 548 | 35 | Jessica Marie Flores |
+| 549 | 35 | Youngkueen |
 | 550 | 35 | Zappy Tilemaker |
-| 551 | 35 | Allysonjo Varela |
-| 552 | 35 | Samantha Brandt |
-| 553 | 35 | Stephanie Williams |
-| 554 | 35 | Saul Fajardo |
-| 555 | 35 | Tiffany Morris Garner |
-| 556 | 35 | Valerie Silva |
-| 557 | 35 | DizzB400 |
-| 558 | 35 | Genger |
-| 559 | 35 | Robert Moore |
-| 560 | 34 | Drh4090 |
-| 561 | 34 | Amanda Albritton Moore |
-| 562 | 34 | Clashy |
-| 563 | 34 | Giggly Column |
-| 564 | 34 | Charlene Nicole Guidry |
-| 565 | 34 | Sunshine Dreamchaser Whitfield |
-| 566 | 34 | Kandylands |
-| 567 | 34 | GingaNinja |
-| 568 | 34 | LeRoy jenkins |
-| 569 | 34 | jojo |
-| 570 | 34 | Koren Heersink |
-| 571 | 34 | Yulissa Diaz |
-| 572 | 33 | Zippy Snaplink |
-| 573 | 33 | Wacky Snaplink |
-| 574 | 33 | Tracy Ann Frederick |
+| 551 | 35 | Jillian Marie |
+| 552 | 35 | Allysonjo Varela |
+| 553 | 35 | Samantha Brandt |
+| 554 | 35 | Stephanie Williams |
+| 555 | 35 | Saul Fajardo |
+| 556 | 35 | Tiffany Morris Garner |
+| 557 | 35 | Valerie Silva |
+| 558 | 35 | DizzB400 |
+| 559 | 35 | Genger |
+| 560 | 35 | Robert Moore |
+| 561 | 34 | Drh4090 |
+| 562 | 34 | Amanda Albritton Moore |
+| 563 | 34 | Clashy |
+| 564 | 34 | Giggly Column |
+| 565 | 34 | Charlene Nicole Guidry |
+| 566 | 34 | Sunshine Dreamchaser Whitfield |
+| 567 | 34 | Kandylands |
+| 568 | 34 | GingaNinja |
+| 569 | 34 | LeRoy jenkins |
+| 570 | 34 | jojo |
+| 571 | 34 | Koren Heersink |
+| 572 | 34 | Yulissa Diaz |
+| 573 | 33 | Tracy Ann Frederick |
+| 574 | 33 | Wacky Snaplink |
 | 575 | 33 | Donna Howard |
 | 576 | 33 | Tommy Thomas |
 | 577 | 33 | Melissa Schwager |
 | 578 | 33 | Garden Girlie |
 | 579 | 33 | Chill Snapclear |
 | 580 | 33 | Alaina Rousseau |
-| 581 | 32 | Poppy |
-| 582 | 32 | Hyper Snaplink |
+| 581 | 32 | Hyper Snaplink |
+| 582 | 32 | Poppy |
 | 583 | 31 | MsThick SrtLady Williams |
 | 584 | 31 | Breezy Blockzone |
 | 585 | 31 | Breezy Brickline |
