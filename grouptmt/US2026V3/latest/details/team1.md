@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 19:48:39 UTC
+# Standings for team1 as of 2026-06-06 19:49:17 UTC
 
 **Total Participants:** 1135
 
@@ -57,12 +57,12 @@
 | 49 | 846 | Chris Russell |
 | 50 | 844 | Jennifer To |
 | 51 | 782 | Jazzy Dashpiece |
-| 52 | 749 | Aviv Zehavi |
-| 53 | 730 | Joy Citizen Pickney |
+| 52 | 751 | Joy Citizen Pickney |
+| 53 | 749 | Aviv Zehavi |
 | 54 | 710 | Lisa Müller |
 | 55 | 689 | Jaida King |
 | 56 | 675 | Corey Cawthon |
-| 57 | 610 | Blockhead |
+| 57 | 614 | Blockhead |
 | 58 | 605 | JoJo |
 | 59 | 598 | Ivana Schmidt |
 | 60 | 586 | Kellie Hall |
@@ -71,12 +71,12 @@
 | 63 | 540 | IamJust Neyamijah Washington Sr. |
 | 64 | 534 | JaszyBadd |
 | 65 | 527 | KenpachisGirl |
-| 66 | 511 | Abraham Espaillat |
-| 67 | 511 | Dizzy Dropper |
-| 68 | 506 | Court Court |
-| 69 | 502 | Tiana Moore |
-| 70 | 497 | Kimberly Hernandez |
-| 71 | 493 | Eartha Brown |
+| 66 | 513 | Eartha Brown |
+| 67 | 511 | Abraham Espaillat |
+| 68 | 511 | Dizzy Dropper |
+| 69 | 506 | Court Court |
+| 70 | 502 | Tiana Moore |
+| 71 | 497 | Kimberly Hernandez |
 | 72 | 489 | Carolynne Walker-Bell |
 | 73 | 482 | Cj Gorman |
 | 74 | 474 | Keeta Chickswit Scott |
