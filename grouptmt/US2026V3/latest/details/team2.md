@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 23:58:18 UTC
+# Standings for team2 as of 2026-06-06 23:58:40 UTC
 
 **Total Participants:** 1461
 
@@ -351,31 +351,31 @@
 | 343 | 120 | Jessica Connot |
 | 344 | 120 | Kevin Mccoy |
 | 345 | 120 | Simone F |
-| 346 | 120 | Carlos J Blas |
-| 347 | 120 | Tony Medina |
+| 346 | 120 | Tony Medina |
+| 347 | 120 | Carlos J Blas |
 | 348 | 119 | Angeleye A James |
 | 349 | 118 | Cindy Scott |
 | 350 | 118 | Ceci |
 | 351 | 117 | Wayne Johnson |
-| 352 | 116 | Sherri E Woods Hess |
-| 353 | 115 | Jumpy Matchbuilder |
-| 354 | 115 | MegaPooh |
-| 355 | 113 | Flashy Hitter |
+| 352 | 116 | Jenny |
+| 353 | 116 | Sherri E Woods Hess |
+| 354 | 115 | Jumpy Matchbuilder |
+| 355 | 115 | MegaPooh |
 | 356 | 113 | Meagan Grimmett Washburn |
-| 357 | 112 | Aurora June Brock |
+| 357 | 113 | Flashy Hitter |
 | 358 | 112 | Mike Mordhorst |
-| 359 | 111 | Wacky Holder |
-| 360 | 111 | Jacquelyn Snyder Dumas |
-| 361 | 111 | Nikki Hatch |
-| 362 | 111 | Anthony Swift |
-| 363 | 111 | Bianca Woodruff |
-| 364 | 110 | Nichole Wilson |
-| 365 | 110 | Zappy Liney |
-| 366 | 110 | Katie Jones |
-| 367 | 110 | LittleHippoEars |
-| 368 | 110 | Jenny |
-| 369 | 109 | Crystal Robinson |
-| 370 | 109 | Kawana Nesbitt |
+| 359 | 112 | Aurora June Brock |
+| 360 | 111 | Nikki Hatch |
+| 361 | 111 | Wacky Holder |
+| 362 | 111 | Bianca Woodruff |
+| 363 | 111 | Anthony Swift |
+| 364 | 111 | Jacquelyn Snyder Dumas |
+| 365 | 110 | Nichole Wilson |
+| 366 | 110 | Zappy Liney |
+| 367 | 110 | Katie Jones |
+| 368 | 110 | LittleHippoEars |
+| 369 | 109 | Kawana Nesbitt |
+| 370 | 109 | Crystal Robinson |
 | 371 | 109 | Kevin Patrick |
 | 372 | 109 | StacyBabee |
 | 373 | 109 | Sillyk |
@@ -1404,23 +1404,23 @@
 | 1396 | 8 | Tina Doyens Munis |
 | 1397 | 8 | Jeannine Murphy |
 | 1398 | 8 | Jumpy Twistslam |
-| 1399 | 8 | Kennadee Albertson |
-| 1400 | 8 | Zippy Balance |
+| 1399 | 8 | Tiffany Townsend |
+| 1400 | 8 | Mariah Mandel |
 | 1401 | 8 | Loony Ziggy |
-| 1402 | 8 | Mariah Mandel |
-| 1403 | 7 | Crystal King |
-| 1404 | 7 | Snippy Blockfall |
-| 1405 | 7 | Nikki Layman |
-| 1406 | 7 | Liz Wilkerson |
-| 1407 | 7 | Mike Honcho |
-| 1408 | 7 | Mariah Wells |
-| 1409 | 7 | Ashley |
-| 1410 | 7 | Mighty Piecebuilder |
-| 1411 | 7 | Joseph Austin Prince |
-| 1412 | 7 | Collins |
-| 1413 | 7 | Rochelle O'Loughlin |
-| 1414 | 7 | Holly Riley |
-| 1415 | 7 | Tiffany Townsend |
+| 1402 | 8 | Kennadee Albertson |
+| 1403 | 8 | Zippy Balance |
+| 1404 | 7 | Ashley |
+| 1405 | 7 | Holly Riley |
+| 1406 | 7 | Rochelle O'Loughlin |
+| 1407 | 7 | Collins |
+| 1408 | 7 | Joseph Austin Prince |
+| 1409 | 7 | Mighty Piecebuilder |
+| 1410 | 7 | Crystal King |
+| 1411 | 7 | Mariah Wells |
+| 1412 | 7 | Mike Honcho |
+| 1413 | 7 | Liz Wilkerson |
+| 1414 | 7 | Nikki Layman |
+| 1415 | 7 | Snippy Blockfall |
 | 1416 | 7 | Kyle |
 | 1417 | 7 | Steven Desmon Thompson |
 | 1418 | 7 | Flashy Cascadeclear |
