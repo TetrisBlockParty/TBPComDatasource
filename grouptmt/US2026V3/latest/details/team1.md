@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 17:57:17 UTC
+# Standings for team1 as of 2026-06-06 17:58:16 UTC
 
 **Total Participants:** 1091
 
@@ -68,18 +68,18 @@
 | 60 | 580 | Janet Cooke |
 | 61 | 541 | Andi McGreevy |
 | 62 | 540 | IamJust Neyamijah Washington Sr. |
-| 63 | 527 | KenpachisGirl |
-| 64 | 511 | Dizzy Dropper |
-| 65 | 511 | Abraham Espaillat |
-| 66 | 506 | Court Court |
-| 67 | 502 | Tiana Moore |
-| 68 | 493 | Eartha Brown |
-| 69 | 489 | Carolynne Walker-Bell |
-| 70 | 482 | Cj Gorman |
-| 71 | 474 | Keeta Chickswit Scott |
-| 72 | 471 | D'Andra Stewart |
-| 73 | 458 | Chenell Gillard |
-| 74 | 454 | JaszyBadd |
+| 63 | 534 | JaszyBadd |
+| 64 | 527 | KenpachisGirl |
+| 65 | 511 | Dizzy Dropper |
+| 66 | 511 | Abraham Espaillat |
+| 67 | 506 | Court Court |
+| 68 | 502 | Tiana Moore |
+| 69 | 493 | Eartha Brown |
+| 70 | 489 | Carolynne Walker-Bell |
+| 71 | 482 | Cj Gorman |
+| 72 | 474 | Keeta Chickswit Scott |
+| 73 | 471 | D'Andra Stewart |
+| 74 | 458 | Chenell Gillard |
 | 75 | 454 | DaVonte' Cretter |
 | 76 | 448 | Chirpy Corner |
 | 77 | 448 | Ottison Dianna |
@@ -455,86 +455,86 @@
 | 447 | 60 | Nerdy Climber |
 | 448 | 60 | Tasha |
 | 449 | 60 | De'Nell Edwards |
-| 450 | 60 | Angie Smith |
-| 451 | 60 | Yellowguy3 |
-| 452 | 59 | Shanaa Germany Crittenden |
-| 453 | 59 | Kimberly Anderson |
-| 454 | 59 | Darrel Pemberton |
-| 455 | 59 | Keith Johnson |
-| 456 | 59 | Nina Davis |
-| 457 | 58 | Bambi Love |
-| 458 | 58 | Kimberly Susan Privette |
-| 459 | 58 | Tonny Williams |
-| 460 | 58 | Twisty Cascadeclear |
-| 461 | 58 | FunTime |
-| 462 | 58 | Brandy Way |
-| 463 | 58 | Alexandrla Smith |
+| 450 | 60 | Yellowguy3 |
+| 451 | 60 | Angie Smith |
+| 452 | 59 | Kimberly Anderson |
+| 453 | 59 | Keith Johnson |
+| 454 | 59 | Shanaa Germany Crittenden |
+| 455 | 59 | Nina Davis |
+| 456 | 59 | Darrel Pemberton |
+| 457 | 58 | Alexandrla Smith |
+| 458 | 58 | Brandy Way |
+| 459 | 58 | FunTime |
+| 460 | 58 | Tonny Williams |
+| 461 | 58 | Twisty Cascadeclear |
+| 462 | 58 | Kimberly Susan Privette |
+| 463 | 58 | Bambi Love |
 | 464 | 57 | Nikkizz |
 | 465 | 57 | Faith Armone |
-| 466 | 56 | Nichelle Warren |
-| 467 | 56 | Nora Mahmoud |
-| 468 | 56 | Kahh |
-| 469 | 56 | Jimmy Shannon |
-| 470 | 56 | Lakiesha Crawford |
-| 471 | 55 | Twisty Brickfit |
-| 472 | 55 | Raquel Ortiz |
+| 466 | 56 | Kahh |
+| 467 | 56 | Lakiesha Crawford |
+| 468 | 56 | Jimmy Shannon |
+| 469 | 56 | Nora Mahmoud |
+| 470 | 56 | Nichelle Warren |
+| 471 | 55 | Terrie |
+| 472 | 55 | Dreamzzz |
 | 473 | 55 | KoolKimJay |
-| 474 | 55 | Terrie |
+| 474 | 55 | Lazy Tiltpiece |
 | 475 | 55 | Kyle Franklin |
-| 476 | 55 | Lazy Tiltpiece |
-| 477 | 55 | Dreamzzz |
-| 478 | 54 | Dandy Brickfit |
-| 479 | 54 | Ryan Runyan |
-| 480 | 54 | John Spath |
-| 481 | 54 | Gbnola |
-| 482 | 54 | Just2Play$ |
-| 483 | 54 | Melissa Olvera |
-| 484 | 54 | Elizabeth Hopkins |
-| 485 | 54 | Boldy Pivoty |
-| 486 | 54 | Kashh |
-| 487 | 54 | Chuck Quarles |
-| 488 | 54 | Ace Hardware |
-| 489 | 53 | Jenni Hardman |
-| 490 | 53 | Saucy Faller |
-| 491 | 53 | Clever Wrecker |
-| 492 | 53 | Cortrell Foster |
-| 493 | 52 | Loopy Risepiece |
-| 494 | 52 | Gabriela Hernandez |
-| 495 | 52 | Anastasia |
-| 496 | 52 | Sha Anderson |
-| 497 | 52 | Sugar Foot |
+| 476 | 55 | Raquel Ortiz |
+| 477 | 55 | Twisty Brickfit |
+| 478 | 54 | Kashh |
+| 479 | 54 | Dandy Brickfit |
+| 480 | 54 | Ace Hardware |
+| 481 | 54 | Sugar Foot |
+| 482 | 54 | Chuck Quarles |
+| 483 | 54 | Just2Play$ |
+| 484 | 54 | Boldy Pivoty |
+| 485 | 54 | Elizabeth Hopkins |
+| 486 | 54 | Ryan Runyan |
+| 487 | 54 | Melissa Olvera |
+| 488 | 54 | Gbnola |
+| 489 | 54 | John Spath |
+| 490 | 53 | Jenni Hardman |
+| 491 | 53 | Saucy Faller |
+| 492 | 53 | Clever Wrecker |
+| 493 | 53 | Cortrell Foster |
+| 494 | 52 | Loopy Risepiece |
+| 495 | 52 | Sha Anderson |
+| 496 | 52 | Anastasia |
+| 497 | 52 | Danny Talbot |
 | 498 | 52 | Sherri Keys |
-| 499 | 52 | Danny Talbot |
-| 500 | 51 | Smiley Tilebuilder |
-| 501 | 51 | Comedian Gdane |
-| 502 | 51 | Shanjerrica Taylor Rosell |
-| 503 | 51 | Casey Chapman |
-| 504 | 51 | Poppy Smasher |
-| 505 | 51 | messyboots |
-| 506 | 51 | BrettanMary Adkins |
-| 507 | 50 | MsBobby Patrick |
-| 508 | 50 | Giggy Holder |
-| 509 | 50 | Nisha Sunshine Jenkins |
-| 510 | 50 | Amaadi Ward |
-| 511 | 50 | Rande Smith |
-| 512 | 50 | Teresa Yanira Cepeda |
-| 513 | 50 | Denell Sims |
-| 514 | 50 | Jes Marie |
-| 515 | 50 | Tramaine Crockrum |
-| 516 | 50 | Jjhandsome |
+| 499 | 52 | Gabriela Hernandez |
+| 500 | 51 | BrettanMary Adkins |
+| 501 | 51 | messyboots |
+| 502 | 51 | Smiley Tilebuilder |
+| 503 | 51 | Poppy Smasher |
+| 504 | 51 | Comedian Gdane |
+| 505 | 51 | Casey Chapman |
+| 506 | 51 | Shanjerrica Taylor Rosell |
+| 507 | 50 | Amaadi Ward |
+| 508 | 50 | Jjhandsome |
+| 509 | 50 | Tramaine Crockrum |
+| 510 | 50 | Denell Sims |
+| 511 | 50 | Teresa Yanira Cepeda |
+| 512 | 50 | Rande Smith |
+| 513 | 50 | Giggy Holder |
+| 514 | 50 | Nisha Sunshine Jenkins |
+| 515 | 50 | MsBobby Patrick |
+| 516 | 50 | Jes Marie |
 | 517 | 49 | Blocksy |
 | 518 | 49 | Teisha Scott |
-| 519 | 49 | SnazzyIvy |
-| 520 | 49 | No_Other_Choice |
-| 521 | 49 | Speedy Stacky |
-| 522 | 49 | Saucy Crusher |
-| 523 | 49 | Parris Wright |
-| 524 | 49 | Sallie Sanborn |
-| 525 | 49 | Stronger Wiser Better |
-| 526 | 48 | Bubbly Crawler |
+| 519 | 49 | Stronger Wiser Better |
+| 520 | 49 | SnazzyIvy |
+| 521 | 49 | No_Other_Choice |
+| 522 | 49 | Speedy Stacky |
+| 523 | 49 | Saucy Crusher |
+| 524 | 49 | Parris Wright |
+| 525 | 49 | Sallie Sanborn |
+| 526 | 48 | Mommy Frank |
 | 527 | 48 | Clever Fitblock |
-| 528 | 48 | Mommy Frank |
-| 529 | 48 | Wild Out Nai |
+| 528 | 48 | Wild Out Nai |
+| 529 | 48 | Bubbly Crawler |
 | 530 | 48 | Eric Machuca |
 | 531 | 48 | Eli Delao |
 | 532 | 48 | Stephanie Ellis |
