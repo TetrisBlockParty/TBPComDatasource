@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 17:59:17 UTC
+# Standings for team4 as of 2026-06-06 18:00:16 UTC
 
 **Total Participants:** 1082
 
@@ -73,11 +73,11 @@
 | 65 | 505 | Erin Figone |
 | 66 | 500 | Michele |
 | 67 | 479 | Caitlyn Wang |
-| 68 | 477 | Malik Thompson |
-| 69 | 467 | vag1974 |
-| 70 | 466 | Lupe Alburquerque |
-| 71 | 461 | Kayla Fuentes |
-| 72 | 456 | Jason Allen |
+| 68 | 478 | Jason Allen |
+| 69 | 477 | Malik Thompson |
+| 70 | 467 | vag1974 |
+| 71 | 466 | Lupe Alburquerque |
+| 72 | 461 | Kayla Fuentes |
 | 73 | 450 | Kitsune Bi |
 | 74 | 441 | woopa 716 |
 | 75 | 440 | Jewelz |
@@ -92,24 +92,24 @@
 | 84 | 381 | Cranky Towerbuilder |
 | 85 | 378 | Lisa Garcia |
 | 86 | 376 | Jason Garnatz |
-| 87 | 373 | Boldy Rumbler |
-| 88 | 370 | Dandy Clearfit |
-| 89 | 360 | Gigglycat |
-| 90 | 356 | Tanita Jobe |
-| 91 | 353 | Hen |
-| 92 | 352 | Jackie Jackson |
-| 93 | 349 | GeorgeButts |
-| 94 | 347 | Nikki Fuller Johnson |
-| 95 | 346 | Alexis Cor |
-| 96 | 333 | Alexandria Frazier |
-| 97 | 332 | RotatedWrongAgain |
-| 98 | 326 | Cherry |
-| 99 | 320 | DexterDobbins |
-| 100 | 317 | J |
-| 101 | 316 | kcknbtz |
+| 87 | 376 | kcknbtz |
+| 88 | 373 | Boldy Rumbler |
+| 89 | 370 | Dandy Clearfit |
+| 90 | 360 | Gigglycat |
+| 91 | 356 | Tanita Jobe |
+| 92 | 353 | Hen |
+| 93 | 352 | Jackie Jackson |
+| 94 | 349 | GeorgeButts |
+| 95 | 347 | Nikki Fuller Johnson |
+| 96 | 346 | Alexis Cor |
+| 97 | 333 | Alexandria Frazier |
+| 98 | 332 | RotatedWrongAgain |
+| 99 | 326 | Cherry |
+| 100 | 320 | DexterDobbins |
+| 101 | 317 | J |
 | 102 | 302 | JoLinda Dunn |
-| 103 | 300 | Genag |
-| 104 | 300 | 2 kool |
+| 103 | 300 | 2 kool |
+| 104 | 300 | Genag |
 | 105 | 299 | Kim |
 | 106 | 295 | Thomasena Eady Reid |
 | 107 | 294 | Jesse Olive |
@@ -117,12 +117,12 @@
 | 109 | 281 | Margie Thomas |
 | 110 | 268 | Taz |
 | 111 | 259 | Jessica Peyton |
-| 112 | 258 | Gorica Prusina |
-| 113 | 258 | Jojo Ann |
+| 112 | 258 | Jojo Ann |
+| 113 | 258 | Gorica Prusina |
 | 114 | 257 | Sarah Berry Stevens |
-| 115 | 253 | Danielle Mitchell |
-| 116 | 253 | Hairy Snake |
-| 117 | 253 | Debby Ruof |
+| 115 | 253 | Hairy Snake |
+| 116 | 253 | Debby Ruof |
+| 117 | 253 | Danielle Mitchell |
 | 118 | 241 | QueenLi86 |
 | 119 | 235 | Hwanger Land |
 | 120 | 233 | Sisi RedVelvet Reneè |
@@ -779,49 +779,49 @@
 | 771 | 27 | Hotstuff |
 | 772 | 27 | Jennifer Evans Elliott |
 | 773 | 27 | Jaison Horton |
-| 774 | 27 | Bigmamalizzet Latto |
-| 775 | 27 | alxhue04 |
-| 776 | 27 | Maria Castillo |
-| 777 | 27 | Weird Cat |
-| 778 | 27 | Alexsandra Hill |
+| 774 | 27 | Alexsandra Hill |
+| 775 | 27 | Bigmamalizzet Latto |
+| 776 | 27 | alxhue04 |
+| 777 | 27 | Maria Castillo |
+| 778 | 27 | Weird Cat |
 | 779 | 27 | Loopy Bridger |
-| 780 | 26 | Tahira Patrice |
-| 781 | 26 | Rebecca Sloan |
-| 782 | 26 | Happy Toast |
-| 783 | 26 | Thomas Cassell |
-| 784 | 26 | Rebecca Rae Reed |
-| 785 | 26 | Kasey Lynne |
+| 780 | 26 | Kasey Lynne |
+| 781 | 26 | Judea Leblanc |
+| 782 | 26 | Rebecca Sloan |
+| 783 | 26 | Happy Toast |
+| 784 | 26 | Thomas Cassell |
+| 785 | 26 | Rebecca Rae Reed |
 | 786 | 26 | Jessica Huber |
-| 787 | 26 | Judea Leblanc |
-| 788 | 26 | LandO |
-| 789 | 26 | Nikcole Alexis Bryan |
-| 790 | 26 | Rob$GEE |
-| 791 | 26 | Lacey Decker |
+| 787 | 26 | LandO |
+| 788 | 26 | Tahira Patrice |
+| 789 | 26 | Rob$GEE |
+| 790 | 26 | Lacey Decker |
+| 791 | 26 | Ian T Parker |
 | 792 | 26 | Kevin Lyles |
 | 793 | 26 | Leslie Marie WarClub |
-| 794 | 26 | Ian T Parker |
-| 795 | 25 | Jada Jordyn Campbell |
-| 796 | 25 | Britney Kitora |
-| 797 | 25 | Leslie |
-| 798 | 25 | Jim Stewart |
-| 799 | 25 | Love GH |
-| 800 | 25 | Lacie Powers |
-| 801 | 25 | ButterfliesRFree |
-| 802 | 25 | Travis McKinnon |
-| 803 | 25 | chapis |
+| 794 | 26 | Nikcole Alexis Bryan |
+| 795 | 25 | Travis McKinnon |
+| 796 | 25 | Love GH |
+| 797 | 25 | Lacie Powers |
+| 798 | 25 | Britney Kitora |
+| 799 | 25 | Jada Jordyn Campbell |
+| 800 | 25 | Leslie |
+| 801 | 25 | Jim Stewart |
+| 802 | 25 | chapis |
+| 803 | 25 | ButterfliesRFree |
 | 804 | 25 | Kelli Miller |
 | 805 | 25 | Kendall Rhodie |
-| 806 | 24 | Socorro Arredondo |
-| 807 | 24 | Theo Stamps |
-| 808 | 24 | Ferlyz |
-| 809 | 24 | Jeremy |
-| 810 | 24 | h_chloe10 |
-| 811 | 24 | tj |
-| 812 | 24 | Ja'Net Riley |
-| 813 | 24 | Katiana Gonzalez |
-| 814 | 23 | Trishaann Triplett |
-| 815 | 23 | Rebekah Anne Macias |
-| 816 | 23 | Elizabeth Putansu |
+| 806 | 24 | Ferlyz |
+| 807 | 24 | Ja'Net Riley |
+| 808 | 24 | Katiana Gonzalez |
+| 809 | 24 | Elizabeth Putansu |
+| 810 | 24 | Socorro Arredondo |
+| 811 | 24 | Jeremy |
+| 812 | 24 | h_chloe10 |
+| 813 | 24 | Theo Stamps |
+| 814 | 24 | tj |
+| 815 | 23 | Trishaann Triplett |
+| 816 | 23 | Rebekah Anne Macias |
 | 817 | 23 | Lush Balanceblock |
 | 818 | 23 | Kimberly Ann |
 | 819 | 23 | Monika Webb |
@@ -928,16 +928,16 @@
 | 920 | 16 | Baby cat |
 | 921 | 16 | Catherine Garza |
 | 922 | 16 | EKM |
-| 923 | 16 | Christy Petty |
-| 924 | 16 | Mr.Corbin |
-| 925 | 15 | Christina Barry |
-| 926 | 15 | Nerdy Glider |
-| 927 | 15 | Manolo Canety |
-| 928 | 15 | Twisty Gridclear |
-| 929 | 15 | Hasty Grabber |
-| 930 | 15 | Austin Tan |
-| 931 | 15 | Mandi Rexroat |
-| 932 | 15 | Giggy Mover |
+| 923 | 16 | Giggy Mover |
+| 924 | 16 | Christy Petty |
+| 925 | 16 | Mr.Corbin |
+| 926 | 15 | Christina Barry |
+| 927 | 15 | Nerdy Glider |
+| 928 | 15 | Manolo Canety |
+| 929 | 15 | Twisty Gridclear |
+| 930 | 15 | Hasty Grabber |
+| 931 | 15 | Austin Tan |
+| 932 | 15 | Mandi Rexroat |
 | 933 | 15 | Tricki Woo |
 | 934 | 15 | Sherry Mooney |
 | 935 | 15 | Tracy Marino |
