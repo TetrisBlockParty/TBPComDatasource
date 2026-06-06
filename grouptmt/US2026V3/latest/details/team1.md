@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 20:12:38 UTC
+# Standings for team1 as of 2026-06-06 20:13:17 UTC
 
 **Total Participants:** 1142
 
@@ -15,7 +15,7 @@
 | 7 | 5149 | Tracy Cohen |
 | 8 | 5099 | Hunter Rayborn |
 | 9 | 5000 | Tyeina Johnson |
-| 10 | 4901 | Dyane Leah Ware |
+| 10 | 4951 | Dyane Leah Ware |
 | 11 | 4511 | Timothy Robert |
 | 12 | 4339 | Carrie English |
 | 13 | 3411 | Charlie Roehm |
@@ -351,44 +351,44 @@
 | 343 | 85 | Lynnette WheelerBushnell |
 | 344 | 85 | Jae Thompson-Tyus |
 | 345 | 84 | Franklin Sotelo |
-| 346 | 83 | Jelyfish |
-| 347 | 83 | MrsMeadows2019 |
-| 348 | 83 | Anthony |
-| 349 | 82 | Yadira Salgado |
-| 350 | 82 | Cachet A Ward |
+| 346 | 83 | MrsMeadows2019 |
+| 347 | 83 | Anthony |
+| 348 | 83 | Jelyfish |
+| 349 | 82 | Peppy Glider |
+| 350 | 82 | Angela Brown Babin |
 | 351 | 82 | Christi Walker Patton |
-| 352 | 82 | Peppy Glider |
-| 353 | 82 | Angela Brown Babin |
-| 354 | 81 | Therealdywoune Peay |
-| 355 | 81 | rls |
-| 356 | 81 | Cynthia Cruell |
-| 357 | 81 | Logan Frost |
-| 358 | 81 | Sarah Steckbauer |
-| 359 | 81 | C Lo Green |
-| 360 | 80 | Chevalier Burley |
-| 361 | 80 | Natalie Burroughs |
-| 362 | 80 | Li-Li Ratliff |
-| 363 | 80 | Nickeya Phillips |
-| 364 | 80 | NedaWin |
-| 365 | 80 | Rebecca Jackson |
-| 366 | 80 | Lester Malone |
-| 367 | 80 | Block King |
-| 368 | 80 | Zany Breaker |
-| 369 | 80 | Tracey Johnson |
-| 370 | 80 | Charles Johnson |
-| 371 | 80 | Latore Maxie |
-| 372 | 80 | Nyhlah Patterson |
-| 373 | 80 | Smiley Clearpiece |
+| 352 | 82 | Cachet A Ward |
+| 353 | 82 | Yadira Salgado |
+| 354 | 81 | Tweet Turner |
+| 355 | 81 | Sarah Steckbauer |
+| 356 | 81 | C Lo Green |
+| 357 | 81 | Therealdywoune Peay |
+| 358 | 81 | rls |
+| 359 | 81 | Logan Frost |
+| 360 | 81 | Cynthia Cruell |
+| 361 | 80 | Nickeya Phillips |
+| 362 | 80 | Natalie Burroughs |
+| 363 | 80 | Zany Breaker |
+| 364 | 80 | Block King |
+| 365 | 80 | Lester Malone |
+| 366 | 80 | Rebecca Jackson |
+| 367 | 80 | NedaWin |
+| 368 | 80 | Nyhlah Patterson |
+| 369 | 80 | Chevalier Burley |
+| 370 | 80 | Li-Li Ratliff |
+| 371 | 80 | Tracey Johnson |
+| 372 | 80 | Smiley Clearpiece |
+| 373 | 80 | Charles Johnson |
 | 374 | 80 | Lilly Brown |
-| 375 | 79 | Brand Nu |
-| 376 | 79 | Montréal Mars |
-| 377 | 79 | Shameka Tiffany |
+| 375 | 80 | Latore Maxie |
+| 376 | 79 | Tracy Feyler |
+| 377 | 79 | Brand Nu |
 | 378 | 79 | Douglas Price |
-| 379 | 79 | Tracy Feyler |
-| 380 | 79 | CJ Robinson |
-| 381 | 78 | KeeKee Williams |
-| 382 | 78 | Steve Reno |
-| 383 | 77 | Tweet Turner |
+| 379 | 79 | Montréal Mars |
+| 380 | 79 | Shameka Tiffany |
+| 381 | 79 | CJ Robinson |
+| 382 | 78 | KeeKee Williams |
+| 383 | 78 | Steve Reno |
 | 384 | 76 | Jackytrain52 |
 | 385 | 76 | Rene Hicks |
 | 386 | 76 | Cm |
