@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 20:06:18 UTC
+# Standings for team2 as of 2026-06-06 20:06:40 UTC
 
 **Total Participants:** 1356
 
@@ -595,85 +595,85 @@
 | 587 | 59 | Michael Delozier |
 | 588 | 59 | Sandra Rotton Bragg |
 | 589 | 59 | April Addis |
-| 590 | 58 | Chelsea Frye |
-| 591 | 58 | Sassy Patternblock |
-| 592 | 58 | Missy Savage-Justice |
-| 593 | 58 | Slinky Winder |
-| 594 | 58 | Jolly Builderpiece |
+| 590 | 58 | Jolly Builderpiece |
+| 591 | 58 | Chelsea Frye |
+| 592 | 58 | Slinky Winder |
+| 593 | 58 | Missy Savage-Justice |
+| 594 | 58 | Sassy Patternblock |
 | 595 | 57 | Kris Dusza Dodus |
-| 596 | 57 | Jason P. Schwartz |
+| 596 | 57 | Twisty Matchfit |
 | 597 | 57 | Funky Blockmatch |
-| 598 | 57 | Poppy Strikerbuilder |
-| 599 | 56 | Zappy Pivotfall |
-| 600 | 56 | Mikaela Byrd |
-| 601 | 56 | Barb Kiser |
-| 602 | 56 | Layla Petroff |
-| 603 | 56 | Natalie M. Arredondo |
-| 604 | 56 | Gina Leal |
-| 605 | 56 | Joyce Galloway |
-| 606 | 56 | Joshua Dye |
-| 607 | 56 | Mandy |
-| 608 | 56 | Mouh Ity |
-| 609 | 56 | Monee Stronger |
-| 610 | 55 | BB |
-| 611 | 55 | Jessica Spivey Cooper |
-| 612 | 55 | Kayley |
-| 613 | 55 | PrissyPris |
+| 598 | 57 | Jason P. Schwartz |
+| 599 | 57 | Poppy Strikerbuilder |
+| 600 | 56 | Layla Petroff |
+| 601 | 56 | Natalie M. Arredondo |
+| 602 | 56 | Barb Kiser |
+| 603 | 56 | Zappy Pivotfall |
+| 604 | 56 | Mikaela Byrd |
+| 605 | 56 | Gina Leal |
+| 606 | 56 | Joyce Galloway |
+| 607 | 56 | Joshua Dye |
+| 608 | 56 | Mandy |
+| 609 | 56 | Mouh Ity |
+| 610 | 56 | Monee Stronger |
+| 611 | 55 | BB |
+| 612 | 55 | Jessica Spivey Cooper |
+| 613 | 55 | Kayley |
 | 614 | 55 | Beverly-Jo Peterson |
-| 615 | 55 | Wendy Durrence Jones |
+| 615 | 55 | PrissyPris |
 | 616 | 55 | Muffin Popper |
-| 617 | 55 | Buddy |
-| 618 | 55 | Jessica Bowman |
-| 619 | 55 | Misty McElroy |
-| 620 | 55 | Allison Peterson |
-| 621 | 54 | Ssirkus |
-| 622 | 54 | Britt |
-| 623 | 54 | Cherica Taylor |
-| 624 | 54 | Cool Patternbuilder |
+| 617 | 55 | Wendy Durrence Jones |
+| 618 | 55 | Buddy |
+| 619 | 55 | Jessica Bowman |
+| 620 | 55 | Misty McElroy |
+| 621 | 55 | Allison Peterson |
+| 622 | 54 | Cool Patternbuilder |
+| 623 | 54 | Denita Kaherl |
+| 624 | 54 | Britt |
 | 625 | 54 | Christina Nycol |
 | 626 | 54 | Amber Wolf |
-| 627 | 54 | Denita Kaherl |
-| 628 | 53 | wutrwerdz |
+| 627 | 54 | Cherica Taylor |
+| 628 | 54 | Ssirkus |
 | 629 | 53 | Clever Fallmatch |
-| 630 | 53 | CK Hancock |
+| 630 | 53 | wutrwerdz |
 | 631 | 53 | Wacky Stack |
-| 632 | 53 | Vicke Patterson |
-| 633 | 53 | Wayne Johnson |
-| 634 | 53 | Trisha Schneider |
-| 635 | 53 | Spicy Basepiece |
-| 636 | 53 | Hog Crankin |
-| 637 | 52 | Diane Byrd |
-| 638 | 52 | Chipper Spinzone |
-| 639 | 52 | Rosalie Call Kehlenbeck |
-| 640 | 52 | andee |
-| 641 | 52 | Carmina Truoiolo |
-| 642 | 52 | Sherry Ann |
-| 643 | 52 | Amber Marie Lacey |
-| 644 | 52 | Saucy Lifter |
-| 645 | 51 | Mama G |
-| 646 | 51 | Tashamonique Puckey |
-| 647 | 51 | Jennifer McCloskey Launder |
-| 648 | 51 | Samantha Bugg Stitcher |
-| 649 | 51 | Billy Pittman |
-| 650 | 51 | R.w. Buck |
-| 651 | 51 | Amber-leigh Williams |
-| 652 | 51 | Brian Giddens |
-| 653 | 51 | Twisty Matchfit |
-| 654 | 51 | Robin Stutler |
-| 655 | 50 | Teea Makensi Meyer |
-| 656 | 50 | Stephania Edwards |
+| 632 | 53 | CK Hancock |
+| 633 | 53 | Vicke Patterson |
+| 634 | 53 | Wayne Johnson |
+| 635 | 53 | Hog Crankin |
+| 636 | 53 | Trisha Schneider |
+| 637 | 53 | Spicy Basepiece |
+| 638 | 52 | Sherry Ann |
+| 639 | 52 | Chipper Spinzone |
+| 640 | 52 | Amber Marie Lacey |
+| 641 | 52 | Diane Byrd |
+| 642 | 52 | Rosalie Call Kehlenbeck |
+| 643 | 52 | Saucy Lifter |
+| 644 | 52 | andee |
+| 645 | 52 | Carmina Truoiolo |
+| 646 | 51 | Robin Stutler |
+| 647 | 51 | Billy Pittman |
+| 648 | 51 | R.w. Buck |
+| 649 | 51 | Samantha Bugg Stitcher |
+| 650 | 51 | Jennifer McCloskey Launder |
+| 651 | 51 | Tashamonique Puckey |
+| 652 | 51 | Amber-leigh Williams |
+| 653 | 51 | Mama G |
+| 654 | 51 | Brian Giddens |
+| 655 | 50 | Gluten Gremlin |
+| 656 | 50 | Teea Makensi Meyer |
 | 657 | 50 | Whitt |
-| 658 | 50 | Melissa Clogher White |
-| 659 | 50 | Susan Moyer |
-| 660 | 50 | Aurora June Brock |
-| 661 | 50 | Sarah Rodriguez |
-| 662 | 50 | Ashley Jones |
-| 663 | 50 | Jennifer Wymer |
-| 664 | 50 | Gluten Gremlin |
-| 665 | 50 | Cory Lynn |
-| 666 | 50 | Angie Rose |
-| 667 | 50 | Brittany Kay |
-| 668 | 50 | Charith Lorelle Watson |
+| 658 | 50 | Susan Moyer |
+| 659 | 50 | Ashley Jones |
+| 660 | 50 | Jennifer Wymer |
+| 661 | 50 | Angie Rose |
+| 662 | 50 | Melissa Clogher White |
+| 663 | 50 | Cory Lynn |
+| 664 | 50 | Charith Lorelle Watson |
+| 665 | 50 | Aurora June Brock |
+| 666 | 50 | Stephania Edwards |
+| 667 | 50 | Sarah Rodriguez |
+| 668 | 50 | Brittany Kay |
 | 669 | 49 | Tetrismastrr |
 | 670 | 49 | Po Yee |
 | 671 | 49 | rebel4lyfe |

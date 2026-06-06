@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 20:06:18 UTC
+# Standings for team4 as of 2026-06-06 20:06:40 UTC
 
 **Total Participants:** 1128
 
@@ -257,10 +257,10 @@
 | 249 | 119 | Queen B |
 | 250 | 119 | CJ |
 | 251 | 119 | Name |
-| 252 | 118 | Slinky Stackzone |
-| 253 | 118 | Juvon SupaShawdii Brooks |
-| 254 | 118 | Goofy Fall |
-| 255 | 117 | kellie |
+| 252 | 119 | kellie |
+| 253 | 118 | Slinky Stackzone |
+| 254 | 118 | Juvon SupaShawdii Brooks |
+| 255 | 118 | Goofy Fall |
 | 256 | 116 | Pepone Pepe |
 | 257 | 116 | Toon Up |
 | 258 | 116 | Brennan Shea Greene |
@@ -469,123 +469,123 @@
 | 461 | 62 | Jason Moves |
 | 462 | 62 | YenSid |
 | 463 | 62 | Gabby Simones |
-| 464 | 62 | 94Blockhead |
+| 464 | 62 | Chris McBlockster |
 | 465 | 62 | Mar Mar |
-| 466 | 62 | Chris McBlockster |
-| 467 | 61 | Lolita Nettles |
-| 468 | 61 | Tasha Suzanne Prisbrey |
+| 466 | 62 | 94Blockhead |
+| 467 | 61 | Tasha Suzanne Prisbrey |
+| 468 | 61 | Lolita Nettles |
 | 469 | 61 | Missionary Meda |
-| 470 | 60 | Rin |
-| 471 | 60 | Brandon Bedenbaugh |
-| 472 | 60 | George Marshburn |
-| 473 | 60 | Jessica Kelly |
-| 474 | 60 | aga |
-| 475 | 60 | Helen Bradley |
-| 476 | 60 | Uh Lesh Uh |
-| 477 | 60 | Tiffy |
-| 478 | 60 | Will E Ayala |
-| 479 | 60 | Shirley A. Godfrey |
-| 480 | 60 | Anthony Magaraci |
-| 481 | 60 | Wanda Simmons |
-| 482 | 60 | Fancy Rollfit |
-| 483 | 60 | Frothy Pattern |
-| 484 | 60 | DanceAngel |
+| 470 | 60 | Helen Bradley |
+| 471 | 60 | Jessica Kelly |
+| 472 | 60 | Kristine Hj Han |
+| 473 | 60 | Rin |
+| 474 | 60 | Will E Ayala |
+| 475 | 60 | Fancy Rollfit |
+| 476 | 60 | Brandon Bedenbaugh |
+| 477 | 60 | aga |
+| 478 | 60 | Wanda Simmons |
+| 479 | 60 | Anthony Magaraci |
+| 480 | 60 | DanceAngel |
+| 481 | 60 | Shirley A. Godfrey |
+| 482 | 60 | Uh Lesh Uh |
+| 483 | 60 | Randy M Hatch |
+| 484 | 60 | Frothy Pattern |
 | 485 | 60 | Chris Rowe |
-| 486 | 60 | Kristine Hj Han |
-| 487 | 60 | Jeri Anne Stormo-Toman |
-| 488 | 60 | Randy M Hatch |
+| 486 | 60 | Jeri Anne Stormo-Toman |
+| 487 | 60 | George Marshburn |
+| 488 | 60 | Tiffy |
 | 489 | 60 | Nerdy Brickster |
-| 490 | 59 | Yvette Johnson |
+| 490 | 59 | Kay |
 | 491 | 59 | yourmomz |
-| 492 | 59 | Stotty |
-| 493 | 59 | Kay |
-| 494 | 59 | Tammy Lasseigne |
-| 495 | 59 | Gigi5 |
-| 496 | 59 | Jacinta Hooker-Brown |
+| 492 | 59 | Yvette Johnson |
+| 493 | 59 | Loyalty83 |
+| 494 | 59 | Gigi5 |
+| 495 | 59 | Jacinta Hooker-Brown |
+| 496 | 59 | Stotty |
 | 497 | 59 | Anthony Kollar |
-| 498 | 59 | Loyalty83 |
-| 499 | 59 | Inez Nez |
+| 498 | 59 | Inez Nez |
+| 499 | 59 | Tammy Lasseigne |
 | 500 | 59 | Butterpat |
-| 501 | 58 | Mc3003 |
-| 502 | 58 | Jade Alley |
-| 503 | 58 | Holly Bramel |
+| 501 | 58 | Jade Alley |
+| 502 | 58 | Mc3003 |
+| 503 | 58 | Lana Tran |
 | 504 | 58 | Solace Grace |
-| 505 | 58 | Lana Tran |
-| 506 | 57 | EpicWizard |
-| 507 | 57 | PerfectPieces |
-| 508 | 57 | Giggy Snapgrid |
-| 509 | 57 | Shia Marie |
+| 505 | 58 | Holly Bramel |
+| 506 | 57 | PerfectPieces |
+| 507 | 57 | Garden Girlie |
+| 508 | 57 | Plucky Shatterfit |
+| 509 | 57 | Rocky |
 | 510 | 57 | Erich EMac McIntosh |
-| 511 | 57 | Garden Girlie |
-| 512 | 57 | Tre'nya Smith |
-| 513 | 57 | PapaB |
-| 514 | 57 | Plucky Shatterfit |
-| 515 | 57 | Erica Pompey |
-| 516 | 57 | Волна Бог |
-| 517 | 57 | Rocky |
-| 518 | 57 | Deborah Silberg |
-| 519 | 56 | Katie Martin |
-| 520 | 56 | Tony Clark |
-| 521 | 56 | GETBOXED! |
-| 522 | 56 | Karen Davis |
-| 523 | 56 | Happy Filler |
-| 524 | 56 | Jennifer Brucz |
-| 525 | 56 | Zappy Matchgrid |
-| 526 | 55 | Jailen Harper |
+| 511 | 57 | Shia Marie |
+| 512 | 57 | Giggy Snapgrid |
+| 513 | 57 | Deborah Silberg |
+| 514 | 57 | Erica Pompey |
+| 515 | 57 | Волна Бог |
+| 516 | 57 | EpicWizard |
+| 517 | 57 | PapaB |
+| 518 | 57 | Tre'nya Smith |
+| 519 | 56 | Tony Clark |
+| 520 | 56 | Karen Davis |
+| 521 | 56 | Katie Martin |
+| 522 | 56 | Happy Filler |
+| 523 | 56 | Zappy Matchgrid |
+| 524 | 56 | GETBOXED! |
+| 525 | 56 | Jennifer Brucz |
+| 526 | 55 | Lovetetris |
 | 527 | 55 | The Jazziest |
-| 528 | 55 | Lovetetris |
-| 529 | 55 | Nicole Ambrose |
-| 530 | 55 | Elisha Thompson |
-| 531 | 55 | Cherrel M. Causey |
-| 532 | 54 | Silly Fallzone |
-| 533 | 54 | Lisa Ferriero-Daudin |
-| 534 | 54 | Earl Edwards |
-| 535 | 53 | Alizabeth Garcia |
-| 536 | 53 | Trang Nguyen |
-| 537 | 53 | Marisela Alvarado |
-| 538 | 53 | Kimberly Mae Watkins |
-| 539 | 53 | MattJennifer Marie Ericson |
-| 540 | 53 | Giggy Risegrid |
-| 541 | 53 | LaTanya GeminiondaRise Johnson |
-| 542 | 53 | Monte Smith |
-| 543 | 52 | Snappy Stack |
-| 544 | 52 | Luunii |
-| 545 | 52 | Angela Adamo-Tash |
-| 546 | 52 | Jj Johnson |
-| 547 | 52 | Sonya |
-| 548 | 52 | Lisa Pie |
-| 549 | 52 | Clashy |
-| 550 | 51 | JustLessie |
-| 551 | 51 | Clever Patterner |
-| 552 | 51 | shonaberry |
-| 553 | 51 | Poppy |
-| 554 | 51 | LilRain |
-| 555 | 51 | Breezy Blockzone |
-| 556 | 51 | Kimberly Civinski |
-| 557 | 51 | Erika Rubio |
-| 558 | 51 | Michellee Lewis |
-| 559 | 51 | Vergie Michael |
+| 528 | 55 | Cherrel M. Causey |
+| 529 | 55 | Elisha Thompson |
+| 530 | 55 | Nicole Ambrose |
+| 531 | 55 | Jailen Harper |
+| 532 | 54 | Earl Edwards |
+| 533 | 54 | Silly Fallzone |
+| 534 | 54 | Lisa Ferriero-Daudin |
+| 535 | 53 | Marisela Alvarado |
+| 536 | 53 | LaTanya GeminiondaRise Johnson |
+| 537 | 53 | Kimberly Mae Watkins |
+| 538 | 53 | Alizabeth Garcia |
+| 539 | 53 | Monte Smith |
+| 540 | 53 | Brittany |
+| 541 | 53 | Giggy Risegrid |
+| 542 | 53 | MattJennifer Marie Ericson |
+| 543 | 53 | Trang Nguyen |
+| 544 | 52 | Snappy Stack |
+| 545 | 52 | Luunii |
+| 546 | 52 | Angela Adamo-Tash |
+| 547 | 52 | Clashy |
+| 548 | 52 | Jj Johnson |
+| 549 | 52 | Sonya |
+| 550 | 52 | Lisa Pie |
+| 551 | 51 | shonaberry |
+| 552 | 51 | Poppy |
+| 553 | 51 | Clever Patterner |
+| 554 | 51 | Breezy Blockzone |
+| 555 | 51 | Kimberly Civinski |
+| 556 | 51 | LilRain |
+| 557 | 51 | JustLessie |
+| 558 | 51 | Erika Rubio |
+| 559 | 51 | Michellee Lewis |
 | 560 | 51 | Jacqueline Jackii Ramos |
-| 561 | 50 | Slinky Column |
+| 561 | 51 | Vergie Michael |
 | 562 | 50 | Jacqueline Wright |
 | 563 | 50 | Loony Edge |
 | 564 | 50 | Edward White |
 | 565 | 50 | Hooti Smile |
 | 566 | 50 | Ralph Hell Rell Williams |
 | 567 | 50 | Susan Stofberg Beltran |
-| 568 | 50 | Brittany |
-| 569 | 50 | Nova Kain |
-| 570 | 50 | Michael Cruz |
-| 571 | 50 | Diane Obungu |
-| 572 | 50 | Bee |
+| 568 | 50 | Slinky Column |
+| 569 | 50 | Michael Cruz |
+| 570 | 50 | Nova Kain |
+| 571 | 50 | Bee |
+| 572 | 50 | Diane Obungu |
 | 573 | 50 | Bhakti Sawarkar |
-| 574 | 49 | smarty |
-| 575 | 49 | Kandylands |
-| 576 | 49 | Karen Riexinger |
+| 574 | 49 | Kandylands |
+| 575 | 49 | Karen Riexinger |
+| 576 | 49 | smarty |
 | 577 | 49 | Daffney Starr |
 | 578 | 49 | LeRoy jenkins |
-| 579 | 49 | Meghan Etchells |
-| 580 | 49 | Mrsjcraw18 |
+| 579 | 49 | Mrsjcraw18 |
+| 580 | 49 | Meghan Etchells |
 | 581 | 49 | Erica Armstrong Baz |
 | 582 | 48 | Lilo |
 | 583 | 48 | Alex Dawn |
