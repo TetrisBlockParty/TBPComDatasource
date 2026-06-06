@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 23:38:17 UTC
+# Standings for team1 as of 2026-06-06 23:38:40 UTC
 
 **Total Participants:** 1218
 
@@ -552,25 +552,25 @@
 | 544 | 58 | Bambi Love |
 | 545 | 58 | Derald Miller |
 | 546 | 58 | Brandy Way |
-| 547 | 57 | Letrishia Andrews |
-| 548 | 57 | Sugar Foot |
-| 549 | 57 | Faith Armone |
-| 550 | 57 | Danny Talbot |
-| 551 | 57 | Anastasia |
-| 552 | 57 | Daring Riserfit |
-| 553 | 57 | Raquel Ortiz |
-| 554 | 57 | McKayla Owens |
-| 555 | 57 | Blocksy |
-| 556 | 57 | Elizabeth Vega Coreano |
-| 557 | 56 | Bold Clusterer |
-| 558 | 56 | Lisa Ivy |
-| 559 | 55 | Terrie |
-| 560 | 55 | Twisty Brickfit |
-| 561 | 55 | Kyle Franklin |
-| 562 | 55 | Desi Guerra |
-| 563 | 55 | nameno |
-| 564 | 55 | KoolKimJay |
-| 565 | 55 | Sha Anderson |
+| 547 | 58 | Sha Anderson |
+| 548 | 57 | Letrishia Andrews |
+| 549 | 57 | Danny Talbot |
+| 550 | 57 | Sugar Foot |
+| 551 | 57 | Faith Armone |
+| 552 | 57 | Anastasia |
+| 553 | 57 | Daring Riserfit |
+| 554 | 57 | Raquel Ortiz |
+| 555 | 57 | McKayla Owens |
+| 556 | 57 | Blocksy |
+| 557 | 57 | Elizabeth Vega Coreano |
+| 558 | 56 | Bold Clusterer |
+| 559 | 56 | Lisa Ivy |
+| 560 | 55 | Terrie |
+| 561 | 55 | Twisty Brickfit |
+| 562 | 55 | Kyle Franklin |
+| 563 | 55 | Desi Guerra |
+| 564 | 55 | nameno |
+| 565 | 55 | KoolKimJay |
 | 566 | 55 | Dreamzzz |
 | 567 | 55 | Earl Williams |
 | 568 | 55 | Nedine Ray |

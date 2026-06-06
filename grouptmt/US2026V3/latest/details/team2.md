@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 23:38:17 UTC
+# Standings for team2 as of 2026-06-06 23:38:40 UTC
 
 **Total Participants:** 1452
 
@@ -55,9 +55,9 @@
 | 47 | 1357 | Elizabeth Mooney |
 | 48 | 1350 | Andrew Weissenborn |
 | 49 | 1299 | Tom Badgley |
-| 50 | 1215 | Brent Bittenbender |
-| 51 | 1190 | Marie Edmonds |
-| 52 | 1173 | Jaime P Lamb |
+| 50 | 1217 | Jaime P Lamb |
+| 51 | 1215 | Brent Bittenbender |
+| 52 | 1190 | Marie Edmonds |
 | 53 | 1032 | AcardBoardBox |
 | 54 | 1031 | DarkHorse |
 | 55 | 975 | Rose Schaffner-Kibler |
