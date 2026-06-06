@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 12:46:16 UTC
+# Standings for team1 as of 2026-06-06 12:46:40 UTC
 
 **Total Participants:** 983
 
@@ -226,20 +226,20 @@
 | 218 | 105 | Kelley Johnson |
 | 219 | 104 | Frisky Fall |
 | 220 | 104 | Brittnay Wright |
-| 221 | 104 | Ahvae Lee |
-| 222 | 103 | Mikayla |
-| 223 | 102 | Gael Quintana |
-| 224 | 101 | Joana Thompson |
-| 225 | 100 | Leavon Smith |
-| 226 | 100 | Cool Bridger |
-| 227 | 100 | Char |
-| 228 | 99 | Penee Wiggins |
+| 221 | 104 | Penee Wiggins |
+| 222 | 104 | Ahvae Lee |
+| 223 | 103 | Mikayla |
+| 224 | 102 | Gael Quintana |
+| 225 | 101 | Joana Thompson |
+| 226 | 100 | Leavon Smith |
+| 227 | 100 | Cool Bridger |
+| 228 | 100 | Char |
 | 229 | 99 | Simone Bailey |
 | 230 | 99 | Maribel Vasquez |
 | 231 | 97 | Shanell Thomas |
 | 232 | 97 | Telisha Mims |
-| 233 | 96 | Yazz |
-| 234 | 96 | Melissa D. M. Hornsby |
+| 233 | 96 | Melissa D. M. Hornsby |
+| 234 | 96 | Yazz |
 | 235 | 95 | Tosha Michelle |
 | 236 | 95 | Nate Myers |
 | 237 | 95 | Shiny Lift |
@@ -879,34 +879,34 @@
 | 871 | 12 | Jovy |
 | 872 | 12 | Silly Spinblock |
 | 873 | 12 | BigDawg Lessley |
-| 874 | 11 | Frilly Shatterline |
-| 875 | 11 | Giddy Twistslam |
-| 876 | 11 | Ray Baker |
-| 877 | 11 | Groovy Climber |
-| 878 | 11 | Jayson |
-| 879 | 10 | Boricua64 |
-| 880 | 10 | Mark Steven Pichler |
-| 881 | 10 | Cornelius Neal |
-| 882 | 10 | Damien Fonseca |
-| 883 | 10 | Nikiya |
-| 884 | 10 | Happy Blockpiece |
-| 885 | 10 | Mikemike Zonethree |
-| 886 | 10 | Meeee |
-| 887 | 10 | TRUBBLE45 |
-| 888 | 10 | Tynetta Scott |
-| 889 | 10 | Anthony D Holmes |
-| 890 | 10 | Saucy Linkgrid |
-| 891 | 10 | Anntionette Sotire |
-| 892 | 10 | Manda Pecora |
-| 893 | 10 | Tina Criam |
-| 894 | 10 | Marshall Davis |
-| 895 | 10 | Renee Marshall |
-| 896 | 10 | Alisha Dawson Crouch |
-| 897 | 10 | Nope Young |
-| 898 | 10 | Hasty Brickzone |
-| 899 | 10 | Ashleyy Netchert |
-| 900 | 10 | Wacky Riserpiece |
-| 901 | 10 | OneBuke FollowMe |
+| 874 | 12 | Ashleyy Netchert |
+| 875 | 11 | Frilly Shatterline |
+| 876 | 11 | Giddy Twistslam |
+| 877 | 11 | Ray Baker |
+| 878 | 11 | Groovy Climber |
+| 879 | 11 | Jayson |
+| 880 | 10 | Boricua64 |
+| 881 | 10 | Mark Steven Pichler |
+| 882 | 10 | Cornelius Neal |
+| 883 | 10 | Damien Fonseca |
+| 884 | 10 | Nikiya |
+| 885 | 10 | Happy Blockpiece |
+| 886 | 10 | Mikemike Zonethree |
+| 887 | 10 | Meeee |
+| 888 | 10 | TRUBBLE45 |
+| 889 | 10 | Tynetta Scott |
+| 890 | 10 | Anthony D Holmes |
+| 891 | 10 | Saucy Linkgrid |
+| 892 | 10 | OneBuke FollowMe |
+| 893 | 10 | Anntionette Sotire |
+| 894 | 10 | Manda Pecora |
+| 895 | 10 | Tina Criam |
+| 896 | 10 | Marshall Davis |
+| 897 | 10 | Renee Marshall |
+| 898 | 10 | Alisha Dawson Crouch |
+| 899 | 10 | Nope Young |
+| 900 | 10 | Hasty Brickzone |
+| 901 | 10 | Wacky Riserpiece |
 | 902 | 10 | Omar Dotray |
 | 903 | 10 | Shawn Himes |
 | 904 | 10 | Megan Payette |
