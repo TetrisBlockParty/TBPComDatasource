@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 23:16:18 UTC
+# Standings for team4 as of 2026-06-06 23:16:39 UTC
 
 **Total Participants:** 1195
 
@@ -63,15 +63,15 @@
 | 55 | 720 | Carly Stempien |
 | 56 | 718 | Phil Peterson |
 | 57 | 711 | MysticMaven |
-| 58 | 682 | Keesha Muro |
+| 58 | 710 | Keesha Muro |
 | 59 | 672 | Heather Preston |
 | 60 | 670 | Dana Fontanez |
 | 61 | 660 | Jenn Fitzgerald |
 | 62 | 650 | Chaz Duncan |
 | 63 | 646 | Blayne Kole |
 | 64 | 644 | Kelly Bernard |
-| 65 | 628 | Adam J Leong |
-| 66 | 624 | Bubbly Twistpiece |
+| 65 | 630 | Bubbly Twistpiece |
+| 66 | 628 | Adam J Leong |
 | 67 | 622 | Dheeh Robles |
 | 68 | 620 | Fancy Crasher |
 | 69 | 607 | Jeremy Lopez |
@@ -94,8 +94,8 @@
 | 86 | 467 | vag1974 |
 | 87 | 461 | Kayla Fuentes |
 | 88 | 461 | Cranky Towerbuilder |
-| 89 | 440 | Jewelz |
-| 90 | 440 | Bryan DjMagnum Evans |
+| 89 | 440 | Bryan DjMagnum Evans |
+| 90 | 440 | Jewelz |
 | 91 | 436 | Sharidan Klinginsmith |
 | 92 | 400 | DexterDobbins |
 | 93 | 400 | Amber Doyle |
@@ -1008,47 +1008,47 @@
 | 1000 | 17 | Kristie ML SneekaPuff |
 | 1001 | 17 | Oc Tive |
 | 1002 | 17 | Cecilia Hicks |
-| 1003 | 17 | Phredda Helene Gavornik |
-| 1004 | 17 | Terry Jo Myers |
-| 1005 | 17 | Glitzy Crasher |
-| 1006 | 17 | Shane Snyder |
-| 1007 | 17 | Jolly Dashy |
-| 1008 | 17 | Crystal Morrin |
-| 1009 | 17 | Gma420 |
-| 1010 | 17 | Wali Muhammad |
-| 1011 | 16 | Christy Petty |
-| 1012 | 16 | Valerie Morrison |
-| 1013 | 16 | Ashley McGeehan |
-| 1014 | 16 | Layne Davis |
-| 1015 | 16 | Dee Modest |
+| 1003 | 17 | Jolly Dashy |
+| 1004 | 17 | Wali Muhammad |
+| 1005 | 17 | Shane Snyder |
+| 1006 | 17 | Gma420 |
+| 1007 | 17 | Crystal Morrin |
+| 1008 | 17 | Terry Jo Myers |
+| 1009 | 17 | Phredda Helene Gavornik |
+| 1010 | 17 | Glitzy Crasher |
+| 1011 | 16 | Mighty Spinfit |
+| 1012 | 16 | Layne Davis |
+| 1013 | 16 | Christy Petty |
+| 1014 | 16 | Valerie Morrison |
+| 1015 | 16 | Ashley McGeehan |
 | 1016 | 16 | Frisky Pusher |
-| 1017 | 16 | Mighty Spinfit |
-| 1018 | 16 | LuLazer27 |
-| 1019 | 16 | Dana Smith |
-| 1020 | 16 | Catherine Garza |
-| 1021 | 16 | Grace Mariie |
-| 1022 | 16 | Sara Cobb |
+| 1017 | 16 | Dee Modest |
+| 1018 | 16 | Katy Roman |
+| 1019 | 16 | Catherine Garza |
+| 1020 | 16 | Grace Mariie |
+| 1021 | 16 | Sara Cobb |
+| 1022 | 16 | Pauline Cortez |
 | 1023 | 16 | Mr.Corbin |
-| 1024 | 16 | EKM |
+| 1024 | 16 | Dana Smith |
 | 1025 | 16 | Melissa Robinson |
-| 1026 | 16 | Katy Roman |
-| 1027 | 15 | Chris Abney |
-| 1028 | 15 | Kiara Johnson |
-| 1029 | 15 | Twisty Gridclear |
-| 1030 | 15 | babygirlw |
-| 1031 | 15 | Chilly Glidezone |
-| 1032 | 15 | John Wertz |
-| 1033 | 15 | Tricki Woo |
-| 1034 | 15 | Nicole Gilmore |
-| 1035 | 15 | Nerdy Glider |
+| 1026 | 16 | LuLazer27 |
+| 1027 | 16 | EKM |
+| 1028 | 15 | babygirlw |
+| 1029 | 15 | John Wertz |
+| 1030 | 15 | Twisty Gridclear |
+| 1031 | 15 | Kiara Johnson |
+| 1032 | 15 | Mandi Rexroat |
+| 1033 | 15 | Speedy Rollbuilder |
+| 1034 | 15 | Austin Tan |
+| 1035 | 15 | Wacky Clusterer |
 | 1036 | 15 | katy |
-| 1037 | 15 | Wacky Clusterer |
-| 1038 | 15 | Austin Tan |
-| 1039 | 15 | Speedy Rollbuilder |
-| 1040 | 15 | Mandi Rexroat |
-| 1041 | 15 | Diana Acosta |
-| 1042 | 15 | Merritt Brandt |
-| 1043 | 15 | Pauline Cortez |
+| 1037 | 15 | Nerdy Glider |
+| 1038 | 15 | Chilly Glidezone |
+| 1039 | 15 | Nicole Gilmore |
+| 1040 | 15 | Tricki Woo |
+| 1041 | 15 | Chris Abney |
+| 1042 | 15 | Diana Acosta |
+| 1043 | 15 | Merritt Brandt |
 | 1044 | 15 | Cas Gio |
 | 1045 | 15 | Tana-Marie Lynn McCarty-Rolf |
 | 1046 | 15 | Hasty Grabber |
@@ -1057,22 +1057,22 @@
 | 1049 | 15 | Manolo Canety |
 | 1050 | 15 | DuvaDova Ahava |
 | 1051 | 15 | Derrek Lee |
-| 1052 | 14 | Marina |
+| 1052 | 14 | Gellix |
 | 1053 | 14 | Toria |
 | 1054 | 14 | Erica Hardwick |
 | 1055 | 14 | Kiaralis Ashley Hancock |
-| 1056 | 14 | Gellix |
-| 1057 | 14 | mrsduke420 |
-| 1058 | 14 | JoJo Hutson |
-| 1059 | 14 | G Money |
-| 1060 | 14 | Donovan Parmenter Gagne |
-| 1061 | 13 | Jackie Russo-Edens |
-| 1062 | 13 | Margarita Santana |
+| 1056 | 14 | mrsduke420 |
+| 1057 | 14 | JoJo Hutson |
+| 1058 | 14 | G Money |
+| 1059 | 14 | Donovan Parmenter Gagne |
+| 1060 | 14 | Marina |
+| 1061 | 13 | Margarita Santana |
+| 1062 | 13 | Jackie Russo-Edens |
 | 1063 | 13 | Willedtra Griffin |
-| 1064 | 12 | Swanky Brickzone |
-| 1065 | 12 | Carolyn Lalak |
-| 1066 | 12 | Dan Butcher |
-| 1067 | 12 | Mee |
+| 1064 | 12 | Tatiyana Hockett |
+| 1065 | 12 | Mee |
+| 1066 | 12 | Carolyn Lalak |
+| 1067 | 12 | Dan Butcher |
 | 1068 | 12 | Rebecca Renaud |
 | 1069 | 12 | Christine Raine Jalili |
 | 1070 | 12 | Tonya Raymundo |
@@ -1080,30 +1080,30 @@
 | 1072 | 12 | Rooney |
 | 1073 | 12 | ESPERANTU |
 | 1074 | 12 | Vanessa Sykes |
-| 1075 | 12 | Tatiyana Hockett |
-| 1076 | 12 | Elizabeth Ann Caro |
+| 1075 | 12 | Elizabeth Ann Caro |
+| 1076 | 12 | Swanky Brickzone |
 | 1077 | 12 | Bouncy Clusterline |
-| 1078 | 11 | Bryan Odle |
-| 1079 | 11 | Nessa Smith |
+| 1078 | 11 | beTrue76 |
+| 1079 | 11 | OFOZO |
 | 1080 | 11 | Redhead girl |
-| 1081 | 11 | Teresa Lescinskas |
-| 1082 | 11 | Amowe |
-| 1083 | 11 | Wynisha Johnson |
-| 1084 | 11 | OFOZO |
-| 1085 | 11 | beTrue76 |
-| 1086 | 10 | ToneDeaf |
-| 1087 | 10 | Sharron Mullins |
-| 1088 | 10 | Crafty Clicker |
-| 1089 | 10 | Nicole Washington |
-| 1090 | 10 | Breezy Brickfit |
+| 1081 | 11 | Wynisha Johnson |
+| 1082 | 11 | Nessa Smith |
+| 1083 | 11 | Teresa Lescinskas |
+| 1084 | 11 | Bryan Odle |
+| 1085 | 11 | Amowe |
+| 1086 | 10 | Nicole Washington |
+| 1087 | 10 | Christine Niles |
+| 1088 | 10 | Kelley Roach |
+| 1089 | 10 | Melissa Elizabeth |
+| 1090 | 10 | Arlee Woodall |
 | 1091 | 10 | Nikki |
-| 1092 | 10 | Arlee Woodall |
-| 1093 | 10 | Monique Anne Edwards |
-| 1094 | 10 | Melissa Elizabeth |
-| 1095 | 10 | Kelley Roach |
+| 1092 | 10 | Monique Anne Edwards |
+| 1093 | 10 | Crafty Clicker |
+| 1094 | 10 | Sharron Mullins |
+| 1095 | 10 | ToneDeaf |
 | 1096 | 10 | Elizabeth Nicole Zahm |
-| 1097 | 10 | Christine Niles |
-| 1098 | 10 | Dreamy Dash |
+| 1097 | 10 | Dreamy Dash |
+| 1098 | 10 | Breezy Brickfit |
 | 1099 | 10 | Daring Towerer |
 | 1100 | 10 | FitMeDiva |
 | 1101 | 10 | tmnt |
