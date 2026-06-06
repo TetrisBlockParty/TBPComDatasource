@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 11:21:16 UTC
+# Standings for team2 as of 2026-06-06 11:22:16 UTC
 
 **Total Participants:** 1111
 
@@ -14,9 +14,9 @@
 | 6 | 5987 | Tim Ix |
 | 7 | 5653 | A.j. Langley |
 | 8 | 5108 | Puce guide 9156 |
-| 9 | 4504 | Cori Keberlein |
-| 10 | 4500 | Mocha |
-| 11 | 4482 | Crystalin Heath Lewis |
+| 9 | 4715 | Crystalin Heath Lewis |
+| 10 | 4504 | Cori Keberlein |
+| 11 | 4500 | Mocha |
 | 12 | 4321 | Christina Shell |
 | 13 | 3984 | Amber |
 | 14 | 3812 | Crystal M Sowden |
@@ -44,7 +44,7 @@
 | 36 | 1206 | Happy Pivotfall |
 | 37 | 1201 | Monica Galli |
 | 38 | 1128 | Jennifer Corder |
-| 39 | 1063 | Logan Basham |
+| 39 | 1114 | Logan Basham |
 | 40 | 1031 | DarkHorse |
 | 41 | 1027 | Frilly Match |
 | 42 | 1004 | Aubree Richard |
@@ -818,82 +818,82 @@
 | 810 | 20 | Julie Alexander Sykes |
 | 811 | 20 | Amanda Mason Scott |
 | 812 | 20 | Cool cee |
-| 813 | 20 | Denise Morehart |
-| 814 | 20 | Binska |
-| 815 | 20 | Frothy Roll |
-| 816 | 20 | Devon |
-| 817 | 20 | Alana Albritton Seals |
-| 818 | 20 | Jessica Murphree |
-| 819 | 20 | Dana Wilson |
-| 820 | 20 | Cool Balancer |
+| 813 | 20 | Frothy Roll |
+| 814 | 20 | Adam Latin |
+| 815 | 20 | Bonita Alexander |
+| 816 | 20 | Boldy Patterner |
+| 817 | 20 | Valerie Roberts |
+| 818 | 20 | Danyell Flood-Morning |
+| 819 | 20 | Denise Morehart |
+| 820 | 20 | Hector |
 | 821 | 20 | Stephania Edwards |
-| 822 | 20 | Sharilyn Jackson |
-| 823 | 20 | Valerie Roberts |
-| 824 | 20 | Boldy Patterner |
-| 825 | 20 | Bonita Alexander |
-| 826 | 20 | Adam Latin |
-| 827 | 20 | Danyell Flood-Morning |
-| 828 | 20 | Hector |
-| 829 | 20 | Nerdy Linebuilder |
-| 830 | 20 | Ava |
-| 831 | 20 | Lil G |
-| 832 | 20 | Rob Owens |
-| 833 | 20 | Dustyn Sims |
-| 834 | 20 | Kay Newcomb |
-| 835 | 20 | Shalice Jacobs |
-| 836 | 20 | Nanny t |
-| 837 | 20 | Patty Ann Hendrickson |
-| 838 | 20 | Tonya Templin Smith |
-| 839 | 20 | Bigbb |
-| 840 | 20 | Naomi Jaynes |
-| 841 | 20 | Chelsea Frye |
-| 842 | 19 | Kathryn |
-| 843 | 19 | Donutz |
-| 844 | 19 | BrendaLee NolanBos |
-| 845 | 19 | Cool Climber |
-| 846 | 19 | Jessica Rose Engebretson |
-| 847 | 19 | Twisty Snapmatch |
-| 848 | 19 | Kati Eckstein |
-| 849 | 19 | jme |
-| 850 | 19 | Teloney Humphrey |
-| 851 | 19 | Chirpy Grid |
-| 852 | 19 | Kim Powers |
-| 853 | 19 | Stacey Peters |
-| 854 | 19 | Mario Hillman |
-| 855 | 19 | Firebone |
-| 856 | 19 | Leigh Wilkerson |
-| 857 | 19 | Armordguy |
-| 858 | 19 | Sassafras Cass |
-| 859 | 19 | Snazzy Racker |
-| 860 | 19 | Dolly |
-| 861 | 18 | Cuca Perez |
+| 822 | 20 | Cool Balancer |
+| 823 | 20 | Dana Wilson |
+| 824 | 20 | Jessica Murphree |
+| 825 | 20 | Alana Albritton Seals |
+| 826 | 20 | Devon |
+| 827 | 20 | Binska |
+| 828 | 20 | Chelsea Frye |
+| 829 | 20 | Naomi Jaynes |
+| 830 | 20 | Sharilyn Jackson |
+| 831 | 20 | Rob Owens |
+| 832 | 20 | Dustyn Sims |
+| 833 | 20 | Nerdy Linebuilder |
+| 834 | 20 | Ava |
+| 835 | 20 | Kay Newcomb |
+| 836 | 20 | Shalice Jacobs |
+| 837 | 20 | Nanny t |
+| 838 | 20 | Patty Ann Hendrickson |
+| 839 | 20 | Tonya Templin Smith |
+| 840 | 20 | Bigbb |
+| 841 | 20 | Lil G |
+| 842 | 19 | Teloney Humphrey |
+| 843 | 19 | jme |
+| 844 | 19 | Chirpy Grid |
+| 845 | 19 | Twisty Snapmatch |
+| 846 | 19 | Jenny |
+| 847 | 19 | Kim Powers |
+| 848 | 19 | Jessica Rose Engebretson |
+| 849 | 19 | Kati Eckstein |
+| 850 | 19 | BrendaLee NolanBos |
+| 851 | 19 | Donutz |
+| 852 | 19 | Armordguy |
+| 853 | 19 | Sassafras Cass |
+| 854 | 19 | Dolly |
+| 855 | 19 | Leigh Wilkerson |
+| 856 | 19 | Kathryn |
+| 857 | 19 | Snazzy Racker |
+| 858 | 19 | Stacey Peters |
+| 859 | 19 | Firebone |
+| 860 | 19 | Mario Hillman |
+| 861 | 19 | Cool Climber |
 | 862 | 18 | Chummy Faller |
 | 863 | 18 | Debbie Embry |
-| 864 | 18 | Taran Evans |
-| 865 | 18 | Elizabeth Kline |
-| 866 | 18 | Glitzy Stackbuilder |
-| 867 | 18 | Kris Lea |
-| 868 | 18 | Jenny |
+| 864 | 18 | Cuca Perez |
+| 865 | 18 | Taran Evans |
+| 866 | 18 | Elizabeth Kline |
+| 867 | 18 | Glitzy Stackbuilder |
+| 868 | 18 | Kris Lea |
 | 869 | 18 | Jolly Twisterfit |
-| 870 | 18 | Cyrus Ramirez |
-| 871 | 18 | Tiffany Heether |
-| 872 | 18 | Alison Welsh |
+| 870 | 18 | Alison Welsh |
+| 871 | 18 | Cyrus Ramirez |
+| 872 | 18 | Tiffany Heether |
 | 873 | 17 | Rosie |
-| 874 | 17 | Staci Carl |
-| 875 | 17 | Smiley Edgefit |
-| 876 | 17 | Dena Cudjo |
-| 877 | 17 | Shaylee Haltiner |
-| 878 | 17 | Debra May |
-| 879 | 17 | Kelly Christine Trimmer |
-| 880 | 17 | Snappy Blockbuilder |
-| 881 | 16 | Jeremy Monceaux |
-| 882 | 16 | Peppy Piececlear |
-| 883 | 16 | Kaylyn Wickham |
-| 884 | 16 | Mouh Ity |
-| 885 | 16 | Amanda L Strong |
-| 886 | 16 | Natasha Schatte |
-| 887 | 16 | Sassy Twistbuilder |
-| 888 | 16 | Theresa Huddleston |
+| 874 | 17 | Snappy Blockbuilder |
+| 875 | 17 | Staci Carl |
+| 876 | 17 | Kelly Christine Trimmer |
+| 877 | 17 | Debra May |
+| 878 | 17 | Shaylee Haltiner |
+| 879 | 17 | Dena Cudjo |
+| 880 | 17 | Smiley Edgefit |
+| 881 | 16 | Theresa Huddleston |
+| 882 | 16 | Natasha Schatte |
+| 883 | 16 | Peppy Piececlear |
+| 884 | 16 | Jeremy Monceaux |
+| 885 | 16 | Kaylyn Wickham |
+| 886 | 16 | Mouh Ity |
+| 887 | 16 | Amanda L Strong |
+| 888 | 16 | Sassy Twistbuilder |
 | 889 | 16 | LK |
 | 890 | 16 | Elliot |
 | 891 | 16 | Brandy McCleary |
