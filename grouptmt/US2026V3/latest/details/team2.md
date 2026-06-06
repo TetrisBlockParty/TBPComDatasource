@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 22:38:17 UTC
+# Standings for team2 as of 2026-06-06 22:38:39 UTC
 
 **Total Participants:** 1418
 
@@ -25,7 +25,7 @@
 | 17 | 3694 | Renee Weedling |
 | 18 | 3600 | Crafty Ziggy |
 | 19 | 3492 | Traci Elizabeth |
-| 20 | 3283 | Jewels |
+| 20 | 3443 | Jewels |
 | 21 | 3181 | Bobbi |
 | 22 | 3148 | Kathleen M Cox |
 | 23 | 2701 | Charles Varca |
@@ -60,7 +60,7 @@
 | 52 | 1031 | DarkHorse |
 | 53 | 959 | Debra Henry |
 | 54 | 942 | Dane Marko |
-| 55 | 903 | Rose Schaffner-Kibler |
+| 55 | 914 | Rose Schaffner-Kibler |
 | 56 | 901 | Block Dog |
 | 57 | 871 | Ber |
 | 58 | 859 | Angelica Jelli Gillaspy |
@@ -179,12 +179,12 @@
 | 171 | 253 | Becca Marie |
 | 172 | 250 | marsam |
 | 173 | 250 | giamy |
-| 174 | 247 | Fudgie Pie |
-| 175 | 247 | Brittni Lawrence |
-| 176 | 246 | Brooke Lynn Marie Adelaide |
-| 177 | 244 | Criccett Hooper-Smith |
-| 178 | 243 | Jessica Lynn |
-| 179 | 241 | Gloria May Shook |
+| 174 | 247 | Gloria May Shook |
+| 175 | 247 | Fudgie Pie |
+| 176 | 247 | Brittni Lawrence |
+| 177 | 246 | Brooke Lynn Marie Adelaide |
+| 178 | 244 | Criccett Hooper-Smith |
+| 179 | 243 | Jessica Lynn |
 | 180 | 241 | Boldy Wobbler |
 | 181 | 240 | Iesha Cupil |
 | 182 | 237 | Ashley Green |
@@ -1067,36 +1067,36 @@
 | 1059 | 22 | Marii |
 | 1060 | 22 | bigdog |
 | 1061 | 22 | Cary M. Fong |
-| 1062 | 22 | MoonLilly |
+| 1062 | 22 | Melanesia Springs |
 | 1063 | 22 | Cody Bohannan |
-| 1064 | 22 | Melanesia Springs |
+| 1064 | 22 | MoonLilly |
 | 1065 | 22 | Frothy Zonebuilder |
 | 1066 | 22 | Ashley Diana |
-| 1067 | 21 | Cammy Riley |
-| 1068 | 21 | Instak1ll |
-| 1069 | 21 | Tina Thomason |
-| 1070 | 21 | Kacey Bates |
-| 1071 | 21 | Chirpy Clearpiece |
+| 1067 | 21 | Tina Thomason |
+| 1068 | 21 | Cammy Riley |
+| 1069 | 21 | Kacey Bates |
+| 1070 | 21 | Chirpy Clearpiece |
+| 1071 | 21 | Lively Shatter |
 | 1072 | 21 | Cyrus Ramirez |
 | 1073 | 21 | Johnathon Mendiola |
 | 1074 | 21 | Erica Abreu |
 | 1075 | 21 | Nicky Steigerwalt |
-| 1076 | 21 | Deanna Mc |
-| 1077 | 21 | Denise Morehart |
-| 1078 | 21 | Fran Gerebics |
-| 1079 | 21 | Quirky Shifter |
+| 1076 | 21 | Quirky Shifter |
+| 1077 | 21 | Instak1ll |
+| 1078 | 21 | Denise Morehart |
+| 1079 | 21 | Fran Gerebics |
 | 1080 | 21 | Maithan Conour |
 | 1081 | 21 | Chill Clearbuilder |
-| 1082 | 21 | Mario Hillman |
-| 1083 | 20 | Deborah Morey-avila |
-| 1084 | 20 | SaraAnn Gray Philbrick |
+| 1082 | 21 | Deanna Mc |
+| 1083 | 21 | Mario Hillman |
+| 1084 | 20 | Cool cee |
 | 1085 | 20 | Laura Turner |
-| 1086 | 20 | Nerdy Spinfit |
-| 1087 | 20 | Cool cee |
-| 1088 | 20 | Rob Owens |
-| 1089 | 20 | Will Jones |
-| 1090 | 20 | Alana Albritton Seals |
-| 1091 | 20 | Dapper Pivotfall |
+| 1086 | 20 | Stacie Taylor |
+| 1087 | 20 | Nerdy Spinfit |
+| 1088 | 20 | SaraAnn Gray Philbrick |
+| 1089 | 20 | Deborah Morey-avila |
+| 1090 | 20 | Will Jones |
+| 1091 | 20 | Rob Owens |
 | 1092 | 20 | Roger Kee |
 | 1093 | 20 | RNKERI |
 | 1094 | 20 | Amanda Mason Scott |
@@ -1109,97 +1109,97 @@
 | 1101 | 20 | Holly Barefoot |
 | 1102 | 20 | Chris |
 | 1103 | 20 | Amanda Gann |
-| 1104 | 20 | Stacie Taylor |
-| 1105 | 20 | Tonya Templin Smith |
+| 1104 | 20 | Tonya Templin Smith |
+| 1105 | 20 | Dapper Pivotfall |
 | 1106 | 20 | Busted9mm |
 | 1107 | 20 | Nicole Sides KrazyKoop |
 | 1108 | 20 | Patty Ann Hendrickson |
 | 1109 | 20 | Cranky Fit |
-| 1110 | 20 | Ava |
-| 1111 | 20 | Boldy Patterner |
-| 1112 | 20 | Tasha Gilbert |
-| 1113 | 20 | Dustyn Sims |
+| 1110 | 20 | Tipsy Slice |
+| 1111 | 20 | Carebear05 |
+| 1112 | 20 | Thomas Chris |
+| 1113 | 20 | Andrea Spinelli |
 | 1114 | 20 | Jessica Murphree |
-| 1115 | 20 | Lil G |
-| 1116 | 20 | Binska |
-| 1117 | 20 | Adam Winters |
-| 1118 | 20 | Edward Conyers |
-| 1119 | 20 | Andrea Spinelli |
-| 1120 | 20 | Bonita Alexander |
-| 1121 | 20 | Bouncy Snapmatch |
-| 1122 | 20 | Cool Balancer |
-| 1123 | 20 | Thomas Chris |
-| 1124 | 20 | Shalice Jacobs |
-| 1125 | 20 | Valerie Roberts |
+| 1115 | 20 | Alana Albritton Seals |
+| 1116 | 20 | Lil G |
+| 1117 | 20 | Edward Conyers |
+| 1118 | 20 | Adam Winters |
+| 1119 | 20 | Tasha Gilbert |
+| 1120 | 20 | Boldy Patterner |
+| 1121 | 20 | Dustyn Sims |
+| 1122 | 20 | Bouncy Snapmatch |
+| 1123 | 20 | Binska |
+| 1124 | 20 | Bonita Alexander |
+| 1125 | 20 | Ava |
 | 1126 | 20 | Nanny t |
-| 1127 | 20 | Carebear05 |
-| 1128 | 20 | Tipsy Slice |
-| 1129 | 19 | Sassafras Cass |
-| 1130 | 19 | Snazzy Racker |
-| 1131 | 19 | Kim Powers |
-| 1132 | 19 | Chris Cooper |
-| 1133 | 19 | Danita Moon |
-| 1134 | 19 | no name |
-| 1135 | 19 | Jason Janssen |
-| 1136 | 19 | Tetra Maniac |
-| 1137 | 19 | Nicole Slimick |
-| 1138 | 19 | Alicia Ellenburg |
-| 1139 | 19 | Ken Vaughn |
-| 1140 | 19 | jme |
-| 1141 | 19 | Jessica Rose Engebretson |
-| 1142 | 19 | Lindsay Gregory |
+| 1127 | 20 | Valerie Roberts |
+| 1128 | 20 | Shalice Jacobs |
+| 1129 | 20 | Cool Balancer |
+| 1130 | 19 | Lindsay Gregory |
+| 1131 | 19 | Snazzy Racker |
+| 1132 | 19 | Tetra Maniac |
+| 1133 | 19 | Kim Powers |
+| 1134 | 19 | Sassafras Cass |
+| 1135 | 19 | no name |
+| 1136 | 19 | Chris Cooper |
+| 1137 | 19 | Danita Moon |
+| 1138 | 19 | Jason Janssen |
+| 1139 | 19 | jme |
+| 1140 | 19 | Nicole Slimick |
+| 1141 | 19 | Ken Vaughn |
+| 1142 | 19 | Alicia Ellenburg |
 | 1143 | 19 | Teloney Humphrey |
-| 1144 | 18 | Aaron Jones |
-| 1145 | 18 | Miggy Gonzalez |
+| 1144 | 19 | Jessica Rose Engebretson |
+| 1145 | 18 | Glitzy Stackbuilder |
 | 1146 | 18 | Cozy Curve |
-| 1147 | 18 | Nicole Treadway |
-| 1148 | 18 | Lively Shatter |
-| 1149 | 18 | Adrian Alvarez |
-| 1150 | 18 | Cynthia Vornlocker |
-| 1151 | 18 | Swanky Twister |
-| 1152 | 18 | Katie Magner |
-| 1153 | 18 | Kris Lea |
-| 1154 | 18 | Taran Evans |
-| 1155 | 18 | Cuca Perez |
-| 1156 | 18 | FabTeach |
-| 1157 | 18 | Glitzy Stackbuilder |
-| 1158 | 18 | Lexi Chouinard |
-| 1159 | 18 | Ashley Wolford |
-| 1160 | 18 | Alison Welsh |
-| 1161 | 17 | Angela Knighton |
-| 1162 | 17 | Shane Peavey |
-| 1163 | 17 | Clever Spinfit |
-| 1164 | 17 | Amanda Hamacher |
-| 1165 | 17 | Staci Carl |
-| 1166 | 17 | Kelly Christine Trimmer |
+| 1147 | 18 | Miggy Gonzalez |
+| 1148 | 18 | Nicole Treadway |
+| 1149 | 18 | Katie Magner |
+| 1150 | 18 | Ashley Wolford |
+| 1151 | 18 | Alison Welsh |
+| 1152 | 18 | Swanky Twister |
+| 1153 | 18 | Taran Evans |
+| 1154 | 18 | Kris Lea |
+| 1155 | 18 | Aaron Jones |
+| 1156 | 18 | Adrian Alvarez |
+| 1157 | 18 | FabTeach |
+| 1158 | 18 | Cuca Perez |
+| 1159 | 18 | Cynthia Vornlocker |
+| 1160 | 18 | Lexi Chouinard |
+| 1161 | 17 | Clever Spinfit |
+| 1162 | 17 | Angela Knighton |
+| 1163 | 17 | Shane Peavey |
+| 1164 | 17 | Staci Carl |
+| 1165 | 17 | Kelly Christine Trimmer |
+| 1166 | 17 | Nicole Good |
 | 1167 | 17 | Sassy Snapfall |
-| 1168 | 17 | Nicole Good |
-| 1169 | 17 | Smiley Edgefit |
-| 1170 | 17 | Dena Cudjo |
-| 1171 | 17 | Churube Finwoiisopw |
-| 1172 | 17 | Christina Michelle Wilson |
-| 1173 | 16 | Aldotfus Williams |
-| 1174 | 16 | Kaylyn Wickham |
-| 1175 | 16 | Elliot |
-| 1176 | 16 | Peppy Piececlear |
-| 1177 | 16 | Yvonne Rodriguez |
-| 1178 | 16 | Ashley Gracelynn Tiner |
-| 1179 | 16 | Renee Craig |
-| 1180 | 16 | Jeremy Monceaux |
-| 1181 | 16 | JesseJo |
-| 1182 | 16 | LK |
+| 1168 | 17 | Dena Cudjo |
+| 1169 | 17 | Churube Finwoiisopw |
+| 1170 | 17 | Christina Michelle Wilson |
+| 1171 | 17 | Smiley Edgefit |
+| 1172 | 17 | Amanda Hamacher |
+| 1173 | 16 | JesseJo |
+| 1174 | 16 | Yvonne Rodriguez |
+| 1175 | 16 | Peppy Piececlear |
+| 1176 | 16 | Renee Craig |
+| 1177 | 16 | Jennifer M Mitchell |
+| 1178 | 16 | Brittany Paul |
+| 1179 | 16 | Aldotfus Williams |
+| 1180 | 16 | Patty White |
+| 1181 | 16 | Destiny Turner |
+| 1182 | 16 | Amanda Jimenez |
 | 1183 | 16 | Amber Myers |
-| 1184 | 16 | Jennifer M Mitchell |
-| 1185 | 16 | Amanda Jimenez |
-| 1186 | 16 | Destiny Turner |
-| 1187 | 16 | Patty White |
-| 1188 | 16 | Brittany Paul |
-| 1189 | 15 | Amy Hahn Nickels |
-| 1190 | 15 | Nicole Plummer |
-| 1191 | 15 | Dandy Column |
-| 1192 | 15 | GiGi Cool |
-| 1193 | 15 | Danielle Etchison Mask |
-| 1194 | 15 | Nana |
+| 1184 | 16 | LK |
+| 1185 | 16 | Jeremy Monceaux |
+| 1186 | 16 | Ashley Gracelynn Tiner |
+| 1187 | 16 | Elliot |
+| 1188 | 16 | Kaylyn Wickham |
+| 1189 | 15 | Nicole Plummer |
+| 1190 | 15 | Nana |
+| 1191 | 15 | Amy Hahn Nickels |
+| 1192 | 15 | Danielle Etchison Mask |
+| 1193 | 15 | Dandy Column |
+| 1194 | 15 | GiGi Cool |
 | 1195 | 15 | Maureen MomtoDolores GeorgeBrian |
 | 1196 | 15 | Partin |
 | 1197 | 15 | Connie McCoy |

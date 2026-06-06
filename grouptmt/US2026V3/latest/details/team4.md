@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 22:38:17 UTC
+# Standings for team4 as of 2026-06-06 22:38:39 UTC
 
 **Total Participants:** 1179
 
@@ -129,20 +129,20 @@
 | 121 | 300 | Genag |
 | 122 | 300 | 2 kool |
 | 123 | 300 | Hasty Builder |
-| 124 | 296 | Andrew Dang |
-| 125 | 295 | Thomasena Eady Reid |
-| 126 | 294 | Jesse Olive |
-| 127 | 292 | Katie Martin |
-| 128 | 290 | Dana Smith |
-| 129 | 282 | Nicole |
-| 130 | 281 | Margie Thomas |
-| 131 | 277 | Taz |
+| 124 | 297 | Taz |
+| 125 | 296 | Andrew Dang |
+| 126 | 295 | Thomasena Eady Reid |
+| 127 | 294 | Jesse Olive |
+| 128 | 292 | Katie Martin |
+| 129 | 290 | Dana Smith |
+| 130 | 282 | Nicole |
+| 131 | 281 | Margie Thomas |
 | 132 | 272 | Sarah Berry Stevens |
 | 133 | 268 | Jojo Ann |
 | 134 | 262 | squareMel |
 | 135 | 259 | Jessica Peyton |
-| 136 | 254 | adrian |
-| 137 | 254 | Dazzle Dragon |
+| 136 | 254 | Dazzle Dragon |
+| 137 | 254 | adrian |
 | 138 | 253 | Danielle Mitchell |
 | 139 | 249 | shawna |
 | 140 | 245 | Giggly Tilt |
