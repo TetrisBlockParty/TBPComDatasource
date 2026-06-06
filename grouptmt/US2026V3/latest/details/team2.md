@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 22:00:19 UTC
+# Standings for team2 as of 2026-06-06 22:00:39 UTC
 
 **Total Participants:** 1399
 
@@ -268,8 +268,8 @@
 | 260 | 159 | Amanda Priddy |
 | 261 | 157 | Liseth Vasquez |
 | 262 | 155 | Zany Blockclear |
-| 263 | 152 | Gill |
-| 264 | 152 | Rick |
+| 263 | 154 | Rick |
+| 264 | 152 | Gill |
 | 265 | 151 | Bengy Lead |
 | 266 | 151 | Ratchet |
 | 267 | 151 | Marilyn Mendoza |
