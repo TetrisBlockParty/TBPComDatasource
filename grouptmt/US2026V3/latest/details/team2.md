@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 07:58:39 UTC
+# Standings for team2 as of 2026-06-06 07:59:16 UTC
 
 **Total Participants:** 1073
 
@@ -74,16 +74,16 @@
 | 66 | 468 | Amy Gale |
 | 67 | 467 | Brandon Link |
 | 68 | 461 | Ricardo Ewart |
-| 69 | 451 | Marquita Toliver |
-| 70 | 449 | Poppy |
-| 71 | 432 | Mirr Lulu |
-| 72 | 428 | Loopy Cascadepiece |
-| 73 | 425 | Amanda Sikes |
-| 74 | 425 | Andre Love |
-| 75 | 405 | Judy Long |
-| 76 | 400 | Smashanator |
-| 77 | 400 | Allie Bug |
-| 78 | 392 | Rose Schaffner-Kibler |
+| 69 | 451 | Rose Schaffner-Kibler |
+| 70 | 451 | Marquita Toliver |
+| 71 | 449 | Poppy |
+| 72 | 445 | Andre Love |
+| 73 | 432 | Mirr Lulu |
+| 74 | 428 | Loopy Cascadepiece |
+| 75 | 425 | Amanda Sikes |
+| 76 | 405 | Judy Long |
+| 77 | 400 | Smashanator |
+| 78 | 400 | Allie Bug |
 | 79 | 390 | La chulis |
 | 80 | 389 | Kimberly Cowan |
 | 81 | 374 | Mikki Torres |
@@ -159,18 +159,18 @@
 | 151 | 155 | Zany Blockclear |
 | 152 | 154 | Glitzy Base |
 | 153 | 153 | Zesty Strikerbuilder |
-| 154 | 151 | Marilyn Mendoza |
-| 155 | 150 | Crystal Allen |
-| 156 | 150 | Rick |
-| 157 | 149 | Flashy Twistline |
-| 158 | 149 | Jenni LeBlanc |
-| 159 | 149 | Lily |
-| 160 | 148 | Curly Windbreaker |
-| 161 | 147 | Gill |
-| 162 | 145 | H |
-| 163 | 145 | Amanda Priddy |
-| 164 | 145 | SEH |
-| 165 | 142 | Krisanne Kesner-Lonsby |
+| 154 | 151 | Krisanne Kesner-Lonsby |
+| 155 | 151 | Marilyn Mendoza |
+| 156 | 150 | Crystal Allen |
+| 157 | 150 | Rick |
+| 158 | 149 | Flashy Twistline |
+| 159 | 149 | Jenni LeBlanc |
+| 160 | 149 | Lily |
+| 161 | 148 | Curly Windbreaker |
+| 162 | 147 | Gill |
+| 163 | 145 | H |
+| 164 | 145 | Amanda Priddy |
+| 165 | 145 | SEH |
 | 166 | 142 | Cortney Coleman |
 | 167 | 141 | Spicy Risegrid |
 | 168 | 141 | Melisa |
