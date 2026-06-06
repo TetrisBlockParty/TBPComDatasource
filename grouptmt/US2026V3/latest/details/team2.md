@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 17:04:39 UTC
+# Standings for team2 as of 2026-06-06 17:05:17 UTC
 
 **Total Participants:** 1270
 
@@ -74,11 +74,11 @@
 | 66 | 694 | Angie Mccain |
 | 67 | 671 | Brandi Thompson |
 | 68 | 647 | Loopy Cascadepiece |
-| 69 | 614 | Block Dog |
-| 70 | 600 | LEW |
-| 71 | 592 | Brandon Link |
-| 72 | 588 | Kellie Sharp Godfrey |
-| 73 | 579 | Tom Badgley |
+| 69 | 619 | Tom Badgley |
+| 70 | 614 | Block Dog |
+| 71 | 600 | LEW |
+| 72 | 592 | Brandon Link |
+| 73 | 588 | Kellie Sharp Godfrey |
 | 74 | 577 | Lindsay Klemp |
 | 75 | 572 | Dsabrina Maxey |
 | 76 | 570 | Nerdy Climber |
@@ -104,9 +104,9 @@
 | 96 | 430 | Amanda Sikes |
 | 97 | 408 | Marquetta Johnson |
 | 98 | 405 | Judy Long |
-| 99 | 400 | Suki Kaur |
+| 99 | 400 | Allie Bug |
 | 100 | 400 | Smashanator |
-| 101 | 400 | Allie Bug |
+| 101 | 400 | Suki Kaur |
 | 102 | 390 | La chulis |
 | 103 | 389 | Kimberly Cowan |
 | 104 | 368 | MaddieCherie |
@@ -121,9 +121,9 @@
 | 113 | 328 | Tim Tim |
 | 114 | 325 | Amy Gregg |
 | 115 | 324 | Jgato |
-| 116 | 319 | Michelle Rich Burkhart |
+| 116 | 319 | Bon Lynn |
 | 117 | 319 | Shannon Wilson |
-| 118 | 319 | Bon Lynn |
+| 118 | 319 | Michelle Rich Burkhart |
 | 119 | 317 | Ruby Sandberg |
 | 120 | 315 | Milad Arzani |
 | 121 | 313 | Cool Climber |

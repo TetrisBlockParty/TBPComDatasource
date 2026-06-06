@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 17:04:39 UTC
+# Standings for team4 as of 2026-06-06 17:05:17 UTC
 
 **Total Participants:** 1059
 
@@ -36,8 +36,8 @@
 | 28 | 971 | Loony Towerer |
 | 29 | 966 | BertaF1irta |
 | 30 | 901 | Giggy Matchpiece |
-| 31 | 900 | Kathy Brookins |
-| 32 | 891 | Charlie Lewis |
+| 31 | 901 | Charlie Lewis |
+| 32 | 900 | Kathy Brookins |
 | 33 | 876 | SMV |
 | 34 | 855 | Snippy Grid |
 | 35 | 820 | Blind Bette |
@@ -99,17 +99,17 @@
 | 91 | 333 | Alexandria Frazier |
 | 92 | 332 | RotatedWrongAgain |
 | 93 | 326 | Cherry |
-| 94 | 320 | Gigglycat |
-| 95 | 320 | DexterDobbins |
-| 96 | 317 | J |
-| 97 | 313 | Boldy Rumbler |
+| 94 | 323 | Boldy Rumbler |
+| 95 | 320 | Gigglycat |
+| 96 | 320 | DexterDobbins |
+| 97 | 317 | J |
 | 98 | 302 | JoLinda Dunn |
 | 99 | 300 | 2 kool |
 | 100 | 300 | Genag |
-| 101 | 299 | Kim |
-| 102 | 295 | Thomasena Eady Reid |
-| 103 | 291 | Jesse Olive |
-| 104 | 290 | Dandy Clearfit |
+| 101 | 300 | Dandy Clearfit |
+| 102 | 299 | Kim |
+| 103 | 295 | Thomasena Eady Reid |
+| 104 | 291 | Jesse Olive |
 | 105 | 286 | Andrew Dang |
 | 106 | 267 | Cranky Towerbuilder |
 | 107 | 265 | Taz |
