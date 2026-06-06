@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 22:02:39 UTC
+# Standings for team2 as of 2026-06-06 22:03:17 UTC
 
 **Total Participants:** 1399
 
@@ -24,7 +24,7 @@
 | 16 | 3694 | Renee Weedling |
 | 17 | 3600 | Crafty Ziggy |
 | 18 | 3492 | Traci Elizabeth |
-| 19 | 3430 | Dapper Rollout |
+| 19 | 3478 | Dapper Rollout |
 | 20 | 3283 | Jewels |
 | 21 | 3181 | Bobbi |
 | 22 | 3148 | Kathleen M Cox |
@@ -72,24 +72,24 @@
 | 64 | 799 | Elizabeth Sallas |
 | 65 | 779 | Marie Luciano |
 | 66 | 774 | Deborah Boyce Minor |
-| 67 | 749 | Marquita Toliver |
-| 68 | 746 | Giddy Slamdrop |
-| 69 | 732 | Amber Salazar |
-| 70 | 726 | Sarah Griffey |
-| 71 | 724 | Jazzy Faller |
-| 72 | 715 | Hoppy Rotate |
-| 73 | 714 | Andre Love |
-| 74 | 702 | Charley Bedford |
-| 75 | 700 | Denise Potter |
-| 76 | 694 | Angie Mccain |
-| 77 | 671 | Brandi Thompson |
-| 78 | 647 | Loopy Cascadepiece |
-| 79 | 632 | Wmk Rathbun |
-| 80 | 625 | Marquetta Johnson |
-| 81 | 620 | Mirr Lulu |
-| 82 | 600 | LEW |
-| 83 | 592 | Brandon Link |
-| 84 | 589 | Charlie Wilson |
+| 67 | 771 | Charlie Wilson |
+| 68 | 749 | Marquita Toliver |
+| 69 | 746 | Giddy Slamdrop |
+| 70 | 732 | Amber Salazar |
+| 71 | 726 | Sarah Griffey |
+| 72 | 724 | Jazzy Faller |
+| 73 | 715 | Hoppy Rotate |
+| 74 | 714 | Andre Love |
+| 75 | 702 | Charley Bedford |
+| 76 | 700 | Denise Potter |
+| 77 | 694 | Angie Mccain |
+| 78 | 671 | Brandi Thompson |
+| 79 | 647 | Loopy Cascadepiece |
+| 80 | 632 | Wmk Rathbun |
+| 81 | 625 | Marquetta Johnson |
+| 82 | 620 | Mirr Lulu |
+| 83 | 600 | LEW |
+| 84 | 592 | Brandon Link |
 | 85 | 588 | Kellie Sharp Godfrey |
 | 86 | 577 | Lindsay Klemp |
 | 87 | 572 | Dsabrina Maxey |
@@ -124,7 +124,7 @@
 | 116 | 390 | La chulis |
 | 117 | 388 | Bubbly Strikerpiece |
 | 118 | 377 | Brandy McCune Reep |
-| 119 | 368 | MaddieCherie |
+| 119 | 372 | MaddieCherie |
 | 120 | 365 | Branden Frankowski |
 | 121 | 357 | Crystal Allen |
 | 122 | 356 | snowwol |
@@ -170,9 +170,9 @@
 | 162 | 262 | Cool Balancer |
 | 163 | 262 | H |
 | 164 | 262 | Jaime P Lamb |
-| 165 | 253 | Marge Cromer |
-| 166 | 253 | Hilliary Beyer |
-| 167 | 252 | Angie Kowalsky Olson |
+| 165 | 255 | Angie Kowalsky Olson |
+| 166 | 253 | Marge Cromer |
+| 167 | 253 | Hilliary Beyer |
 | 168 | 250 | marsam |
 | 169 | 250 | giamy |
 | 170 | 247 | Brittni Lawrence |
@@ -256,16 +256,16 @@
 | 248 | 168 | Danielle Lyons |
 | 249 | 168 | Spicy Risegrid |
 | 250 | 165 | Jackie Tupper |
-| 251 | 164 | Avie Lou |
-| 252 | 164 | Cara Rivera |
-| 253 | 163 | Zany Cascader |
-| 254 | 163 | Santara Ferguson |
-| 255 | 163 | Kim Hunt |
-| 256 | 162 | Nutty Curver |
-| 257 | 162 | SEH |
-| 258 | 160 | Elizabeth Cornelius |
-| 259 | 159 | Amanda Priddy |
-| 260 | 159 | Chasity Simpson |
+| 251 | 165 | Chasity Simpson |
+| 252 | 164 | Avie Lou |
+| 253 | 164 | Cara Rivera |
+| 254 | 163 | Zany Cascader |
+| 255 | 163 | Santara Ferguson |
+| 256 | 163 | Kim Hunt |
+| 257 | 162 | Nutty Curver |
+| 258 | 162 | SEH |
+| 259 | 160 | Elizabeth Cornelius |
+| 260 | 159 | Amanda Priddy |
 | 261 | 157 | Liseth Vasquez |
 | 262 | 155 | Zany Blockclear |
 | 263 | 154 | Rick |
