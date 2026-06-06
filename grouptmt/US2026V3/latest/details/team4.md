@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 17:55:18 UTC
+# Standings for team4 as of 2026-06-06 17:56:16 UTC
 
 **Total Participants:** 1080
 
@@ -36,8 +36,8 @@
 | 28 | 989 | Ning Quiambao |
 | 29 | 971 | Loony Towerer |
 | 30 | 966 | BertaF1irta |
-| 31 | 911 | Leigh Pierce |
-| 32 | 910 | Chris Hills |
+| 31 | 936 | Chris Hills |
+| 32 | 911 | Leigh Pierce |
 | 33 | 901 | Giggy Matchpiece |
 | 34 | 900 | Kathy Brookins |
 | 35 | 876 | SMV |
@@ -500,77 +500,77 @@
 | 492 | 55 | Lovetetris |
 | 493 | 55 | Elisha Thompson |
 | 494 | 55 | Nicole Ambrose |
-| 495 | 55 | The Jazziest |
-| 496 | 55 | Cherrel M. Causey |
-| 497 | 54 | Earl Edwards |
-| 498 | 54 | Lisa Ferriero-Daudin |
-| 499 | 53 | MattJennifer Marie Ericson |
-| 500 | 53 | Trang Nguyen |
-| 501 | 53 | Monte Smith |
+| 495 | 55 | Cherrel M. Causey |
+| 496 | 55 | The Jazziest |
+| 497 | 54 | Lisa Ferriero-Daudin |
+| 498 | 54 | Earl Edwards |
+| 499 | 54 | Poptart |
+| 500 | 53 | Monte Smith |
+| 501 | 53 | Trang Nguyen |
 | 502 | 53 | LaTanya GeminiondaRise Johnson |
 | 503 | 53 | Marisela Alvarado |
 | 504 | 53 | Kimberly Mae Watkins |
-| 505 | 52 | Snappy Stack |
+| 505 | 53 | MattJennifer Marie Ericson |
 | 506 | 52 | Angela Adamo-Tash |
-| 507 | 52 | Luunii |
-| 508 | 52 | Jj Johnson |
-| 509 | 52 | Sonya |
-| 510 | 52 | Plucky Shatterfit |
-| 511 | 52 | Clashy |
-| 512 | 52 | Lisa Pie |
-| 513 | 51 | Erika Rubio |
-| 514 | 51 | Breezy Blockzone |
+| 507 | 52 | Snappy Stack |
+| 508 | 52 | Luunii |
+| 509 | 52 | Jj Johnson |
+| 510 | 52 | Sonya |
+| 511 | 52 | Plucky Shatterfit |
+| 512 | 52 | Clashy |
+| 513 | 52 | Lisa Pie |
+| 514 | 51 | Kimberly Civinski |
 | 515 | 51 | yourmomz |
-| 516 | 51 | Clever Patterner |
-| 517 | 51 | LilRain |
+| 516 | 51 | Breezy Blockzone |
+| 517 | 51 | Clever Patterner |
 | 518 | 51 | Michellee Lewis |
 | 519 | 51 | JustLessie |
-| 520 | 51 | Kimberly Civinski |
-| 521 | 51 | Poppy |
-| 522 | 51 | Vergie Michael |
-| 523 | 50 | Flashy Shatterer |
-| 524 | 50 | Edward White |
-| 525 | 50 | Bhakti Sawarkar |
-| 526 | 50 | Brittany |
-| 527 | 50 | Michael Cruz |
-| 528 | 50 | Sassy Column |
-| 529 | 50 | Nerdy Brickster |
-| 530 | 50 | Jacqueline Wright |
-| 531 | 50 | Ralph Hell Rell Williams |
-| 532 | 50 | shonaberry |
-| 533 | 50 | Nova Kain |
-| 534 | 50 | Susan Stofberg Beltran |
-| 535 | 50 | Loony Edge |
-| 536 | 50 | Lady Dolphin |
-| 537 | 50 | Diane Obungu |
-| 538 | 50 | Hooti Smile |
-| 539 | 49 | Mrsjcraw18 |
+| 520 | 51 | Poppy |
+| 521 | 51 | Vergie Michael |
+| 522 | 51 | Erika Rubio |
+| 523 | 51 | LilRain |
+| 524 | 50 | Bhakti Sawarkar |
+| 525 | 50 | Flashy Shatterer |
+| 526 | 50 | Sassy Column |
+| 527 | 50 | Edward White |
+| 528 | 50 | Brittany |
+| 529 | 50 | Michael Cruz |
+| 530 | 50 | Ralph Hell Rell Williams |
+| 531 | 50 | Nerdy Brickster |
+| 532 | 50 | Jacqueline Wright |
+| 533 | 50 | shonaberry |
+| 534 | 50 | Loony Edge |
+| 535 | 50 | Nova Kain |
+| 536 | 50 | Susan Stofberg Beltran |
+| 537 | 50 | Lady Dolphin |
+| 538 | 50 | Diane Obungu |
+| 539 | 50 | Hooti Smile |
 | 540 | 49 | Destiny Starr LeValdo |
-| 541 | 49 | Karen Riexinger |
-| 542 | 49 | smarty |
-| 543 | 49 | Daffney Starr |
-| 544 | 49 | Erica Armstrong Baz |
-| 545 | 49 | EpicWizard |
-| 546 | 48 | ŁųŁų |
-| 547 | 48 | Poptart |
-| 548 | 48 | Lilo |
-| 549 | 47 | Bonique Bier |
-| 550 | 47 | Candiecane324 |
-| 551 | 47 | chefjaydawg |
-| 552 | 47 | Lush Twisterfit |
-| 553 | 47 | 94Blockhead |
-| 554 | 47 | Alizabeth Garcia |
-| 555 | 46 | Tamika Ashli Bonner |
-| 556 | 46 | Esmond Johnson IV |
-| 557 | 46 | Mc3003 |
-| 558 | 46 | Meela Abdurrab |
-| 559 | 46 | Jacqueline Jackii Ramos |
-| 560 | 45 | BurnedCrab52 |
-| 561 | 45 | Silly Fallzone |
-| 562 | 45 | Meghan Etchells |
-| 563 | 45 | EmBem |
-| 564 | 45 | Jennifer Terrill |
-| 565 | 45 | Knijur Callins |
+| 541 | 49 | Mrsjcraw18 |
+| 542 | 49 | Karen Riexinger |
+| 543 | 49 | smarty |
+| 544 | 49 | Daffney Starr |
+| 545 | 49 | Erica Armstrong Baz |
+| 546 | 49 | EpicWizard |
+| 547 | 49 | Meghan Etchells |
+| 548 | 48 | ŁųŁų |
+| 549 | 48 | Lilo |
+| 550 | 48 | Silly Fallzone |
+| 551 | 47 | Alizabeth Garcia |
+| 552 | 47 | Bonique Bier |
+| 553 | 47 | Candiecane324 |
+| 554 | 47 | chefjaydawg |
+| 555 | 47 | 94Blockhead |
+| 556 | 47 | Lush Twisterfit |
+| 557 | 46 | Tamika Ashli Bonner |
+| 558 | 46 | Mc3003 |
+| 559 | 46 | Esmond Johnson IV |
+| 560 | 46 | Jacqueline Jackii Ramos |
+| 561 | 46 | Meela Abdurrab |
+| 562 | 45 | Jennifer Terrill |
+| 563 | 45 | Knijur Callins |
+| 564 | 45 | EmBem |
+| 565 | 45 | BurnedCrab52 |
 | 566 | 45 | Capone |
 | 567 | 45 | Loopy Hitter |
 | 568 | 45 | Becky Bernazal |
@@ -780,41 +780,41 @@
 | 772 | 27 | Jennifer Evans Elliott |
 | 773 | 27 | Scot Matthew Bergdorf |
 | 774 | 27 | Loopy Bridger |
-| 775 | 27 | Alexsandra Hill |
-| 776 | 27 | Hotstuff |
-| 777 | 27 | Chelsea Leann Lamb |
-| 778 | 27 | John Henry |
-| 779 | 26 | Jessica Huber |
-| 780 | 26 | Tahira Patrice |
+| 775 | 27 | Jace McCullough |
+| 776 | 27 | Alexsandra Hill |
+| 777 | 27 | Hotstuff |
+| 778 | 27 | Chelsea Leann Lamb |
+| 779 | 27 | John Henry |
+| 780 | 26 | Jessica Huber |
 | 781 | 26 | Rebecca Sloan |
 | 782 | 26 | Rob$GEE |
 | 783 | 26 | Thomas Cassell |
 | 784 | 26 | Rebecca Rae Reed |
 | 785 | 26 | Kasey Lynne |
-| 786 | 26 | Happy Toast |
-| 787 | 26 | Ian T Parker |
+| 786 | 26 | Tahira Patrice |
+| 787 | 26 | Happy Toast |
 | 788 | 26 | Nikcole Alexis Bryan |
 | 789 | 26 | Lacey Decker |
 | 790 | 26 | LandO |
-| 791 | 26 | Judea Leblanc |
-| 792 | 26 | Leslie Marie WarClub |
-| 793 | 26 | Kevin Lyles |
-| 794 | 25 | Travis McKinnon |
-| 795 | 25 | Lacie Powers |
-| 796 | 25 | Jada Jordyn Campbell |
-| 797 | 25 | Britney Kitora |
-| 798 | 25 | Kendall Rhodie |
-| 799 | 25 | ButterfliesRFree |
+| 791 | 26 | Ian T Parker |
+| 792 | 26 | Judea Leblanc |
+| 793 | 26 | Leslie Marie WarClub |
+| 794 | 26 | Kevin Lyles |
+| 795 | 25 | Travis McKinnon |
+| 796 | 25 | chapis |
+| 797 | 25 | Love GH |
+| 798 | 25 | Kelli Miller |
+| 799 | 25 | Leslie |
 | 800 | 25 | Jim Stewart |
-| 801 | 25 | Leslie |
-| 802 | 25 | Kelli Miller |
-| 803 | 25 | Love GH |
-| 804 | 25 | chapis |
-| 805 | 24 | Theo Stamps |
-| 806 | 24 | h_chloe10 |
-| 807 | 24 | Jace McCullough |
-| 808 | 24 | Ja'Net Riley |
-| 809 | 24 | Katiana Gonzalez |
+| 801 | 25 | ButterfliesRFree |
+| 802 | 25 | Kendall Rhodie |
+| 803 | 25 | Britney Kitora |
+| 804 | 25 | Jada Jordyn Campbell |
+| 805 | 25 | Lacie Powers |
+| 806 | 24 | Ja'Net Riley |
+| 807 | 24 | Katiana Gonzalez |
+| 808 | 24 | h_chloe10 |
+| 809 | 24 | Theo Stamps |
 | 810 | 24 | Jeremy |
 | 811 | 24 | Socorro Arredondo |
 | 812 | 24 | tj |
