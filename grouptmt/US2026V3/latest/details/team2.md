@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 22:09:18 UTC
+# Standings for team2 as of 2026-06-06 22:10:18 UTC
 
 **Total Participants:** 1403
 
@@ -10,9 +10,9 @@
 | 2 | 11700 | Mochi |
 | 3 | 10480 | Puce guide 9156 |
 | 4 | 9434 | Jason Wood |
-| 5 | 8744 | Crystalin Heath Lewis |
+| 5 | 9414 | Crystalin Heath Lewis |
 | 6 | 7687 | Lacey Nolting |
-| 7 | 7126 | A.j. Langley |
+| 7 | 7176 | A.j. Langley |
 | 8 | 6900 | Mocha |
 | 9 | 6232 | Christina Shell |
 | 10 | 6114 | Tim Ix |
@@ -175,10 +175,10 @@
 | 167 | 253 | Hilliary Beyer |
 | 168 | 250 | marsam |
 | 169 | 250 | giamy |
-| 170 | 247 | Brittni Lawrence |
-| 171 | 247 | Fudgie Pie |
-| 172 | 246 | Brooke Lynn Marie Adelaide |
-| 173 | 245 | Becca Marie |
+| 170 | 248 | Becca Marie |
+| 171 | 247 | Brittni Lawrence |
+| 172 | 247 | Fudgie Pie |
+| 173 | 246 | Brooke Lynn Marie Adelaide |
 | 174 | 243 | Jessica Lynn |
 | 175 | 241 | Boldy Wobbler |
 | 176 | 240 | Iesha Cupil |
@@ -274,42 +274,42 @@
 | 266 | 151 | Bengy Lead |
 | 267 | 151 | Ratchet |
 | 268 | 150 | Theresa Huddleston |
-| 269 | 150 | Zany Wrecker |
-| 270 | 150 | Marylin Eacker |
-| 271 | 150 | Skye Ehret |
-| 272 | 149 | Jenni LeBlanc |
-| 273 | 148 | murd3rmous3 |
-| 274 | 148 | Curly Windbreaker |
-| 275 | 148 | Theresa Hollinger |
-| 276 | 147 | Tina Marie |
-| 277 | 147 | Michelle M Braley |
-| 278 | 146 | Darla Nolt |
-| 279 | 145 | Jason Cunningham |
-| 280 | 145 | Alicia Parrish |
-| 281 | 144 | Jamie Fenyus |
-| 282 | 143 | Amanda L Strong |
-| 283 | 142 | Cortney Coleman |
+| 269 | 150 | Criccett Hooper-Smith |
+| 270 | 150 | Skye Ehret |
+| 271 | 150 | Marylin Eacker |
+| 272 | 150 | Zany Wrecker |
+| 273 | 149 | Jenni LeBlanc |
+| 274 | 148 | murd3rmous3 |
+| 275 | 148 | Curly Windbreaker |
+| 276 | 148 | Theresa Hollinger |
+| 277 | 147 | Tina Marie |
+| 278 | 147 | Michelle M Braley |
+| 279 | 146 | Darla Nolt |
+| 280 | 145 | Jason Cunningham |
+| 281 | 145 | Alicia Parrish |
+| 282 | 144 | Jamie Fenyus |
+| 283 | 143 | Amanda L Strong |
 | 284 | 142 | Nikki EightySixed |
-| 285 | 140 | Billie Jensen |
-| 286 | 140 | Sharon L Brazelton |
-| 287 | 139 | Kimmyc |
-| 288 | 139 | Monique Frantz |
-| 289 | 139 | Teddy Williams |
-| 290 | 138 | NickandJess Reynolds |
-| 291 | 138 | Ashley Miller |
-| 292 | 137 | Lindsey Ford |
+| 285 | 142 | Cortney Coleman |
+| 286 | 140 | Billie Jensen |
+| 287 | 140 | Sharon L Brazelton |
+| 288 | 139 | Teddy Williams |
+| 289 | 139 | Monique Frantz |
+| 290 | 139 | Kimmyc |
+| 291 | 138 | NickandJess Reynolds |
+| 292 | 138 | Ashley Miller |
 | 293 | 137 | Ashley Voelz |
-| 294 | 136 | Mtnblzr |
+| 294 | 137 | Lindsey Ford |
 | 295 | 136 | Lauren Maxwell |
-| 296 | 135 | Amy Lea Hamilton |
-| 297 | 134 | Funway998 |
+| 296 | 136 | Mtnblzr |
+| 297 | 135 | Amy Lea Hamilton |
 | 298 | 134 | Sabrina Hardrick |
-| 299 | 134 | Joanna Trevin Thompson |
-| 300 | 133 | Tara |
-| 301 | 133 | Criccett Hooper-Smith |
+| 299 | 134 | Funway998 |
+| 300 | 134 | Joanna Trevin Thompson |
+| 301 | 133 | Tara |
 | 302 | 133 | Chirpy Grid |
-| 303 | 132 | Raine |
-| 304 | 132 | Alison Waller |
+| 303 | 132 | Alison Waller |
+| 304 | 132 | Raine |
 | 305 | 132 | Spunky Cascadeclear |
 | 306 | 130 | ZBee |
 | 307 | 130 | Precious Womack |
