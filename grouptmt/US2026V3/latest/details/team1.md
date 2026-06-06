@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 04:46:40 UTC
+# Standings for team1 as of 2026-06-06 04:47:16 UTC
 
 **Total Participants:** 842
 
@@ -38,8 +38,8 @@
 | 30 | 752 | Debbie Carswell |
 | 31 | 749 | Aviv Zehavi |
 | 32 | 745 | Pdubbl3 |
-| 33 | 726 | Ryan Meilleur |
-| 34 | 711 | Jennifer To |
+| 33 | 726 | Jennifer To |
+| 34 | 726 | Ryan Meilleur |
 | 35 | 670 | Jaida King |
 | 36 | 664 | Charnay Peacock |
 | 37 | 635 | Chill Clusterer |
