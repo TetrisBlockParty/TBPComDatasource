@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 15:00:17 UTC
+# Standings for team4 as of 2026-06-06 15:00:38 UTC
 
 **Total Participants:** 1012
 
@@ -121,11 +121,11 @@
 | 113 | 217 | Slimm |
 | 114 | 212 | Gorica Prusina |
 | 115 | 212 | blockhead |
-| 116 | 210 | Scamp Jones |
-| 117 | 207 | Leigh Pierce |
-| 118 | 203 | Patrick Alley |
-| 119 | 202 | Nicole |
-| 120 | 201 | Renee Sapp |
+| 116 | 211 | Renee Sapp |
+| 117 | 210 | Scamp Jones |
+| 118 | 207 | Leigh Pierce |
+| 119 | 203 | Patrick Alley |
+| 120 | 202 | Nicole |
 | 121 | 201 | Perky Riserbuilder |
 | 122 | 200 | Esther Hadassah |
 | 123 | 199 | Colin |
@@ -745,7 +745,7 @@
 | 737 | 26 | Rebecca Sloan |
 | 738 | 26 | Judea Leblanc |
 | 739 | 26 | Thomas Cassell |
-| 740 | 25 | Kendall Rhodie |
+| 740 | 25 | Heidi Lyn Ramirez |
 | 741 | 25 | Travis McKinnon |
 | 742 | 25 | Meghan Etchells |
 | 743 | 25 | Jim Stewart |
@@ -756,16 +756,16 @@
 | 748 | 25 | Brandon Bedenbaugh |
 | 749 | 25 | Love GH |
 | 750 | 25 | Leslie |
-| 751 | 24 | Theo Stamps |
-| 752 | 24 | Ja'Net Riley |
-| 753 | 24 | Ferlyz |
-| 754 | 24 | Socorro Arredondo |
-| 755 | 24 | Amanda Serrano Ruffner |
-| 756 | 24 | Katiana Gonzalez |
-| 757 | 23 | Lush Balanceblock |
-| 758 | 23 | Kimberly Ann |
-| 759 | 23 | Lizxxx |
-| 760 | 23 | Heidi Lyn Ramirez |
+| 751 | 25 | Kendall Rhodie |
+| 752 | 24 | Theo Stamps |
+| 753 | 24 | Ja'Net Riley |
+| 754 | 24 | Ferlyz |
+| 755 | 24 | Socorro Arredondo |
+| 756 | 24 | Amanda Serrano Ruffner |
+| 757 | 24 | Katiana Gonzalez |
+| 758 | 23 | Lush Balanceblock |
+| 759 | 23 | Kimberly Ann |
+| 760 | 23 | Lizxxx |
 | 761 | 22 | Cranky Twisterfit |
 | 762 | 22 | GETBOXED! |
 | 763 | 22 | Erica Pompey |

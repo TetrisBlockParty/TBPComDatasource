@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 15:00:17 UTC
+# Standings for team1 as of 2026-06-06 15:00:38 UTC
 
 **Total Participants:** 1031
 
@@ -29,7 +29,7 @@
 | 21 | 1569 | Epic Snapfall |
 | 22 | 1550 | Cassidy Butler |
 | 23 | 1445 | Erika Windom |
-| 24 | 1227 | Jacoby E Fleming |
+| 24 | 1242 | Jacoby E Fleming |
 | 25 | 1082 | Daylene Johannes |
 | 26 | 1037 | Shortstak |
 | 27 | 1028 | Mary Jenkins |
@@ -78,12 +78,12 @@
 | 70 | 421 | ing410 |
 | 71 | 394 | ELM |
 | 72 | 392 | She Higgy |
-| 73 | 388 | SPNLover24 |
-| 74 | 387 | Novaa |
-| 75 | 380 | IamJust Neyamijah Washington Sr. |
-| 76 | 380 | Bre Maugh |
-| 77 | 380 | Jessica Carter |
-| 78 | 379 | COSA303 |
+| 73 | 389 | COSA303 |
+| 74 | 388 | SPNLover24 |
+| 75 | 387 | Novaa |
+| 76 | 380 | IamJust Neyamijah Washington Sr. |
+| 77 | 380 | Bre Maugh |
+| 78 | 380 | Jessica Carter |
 | 79 | 377 | AF Cruz |
 | 80 | 377 | JaszyBadd |
 | 81 | 371 | Shell Lewis |
