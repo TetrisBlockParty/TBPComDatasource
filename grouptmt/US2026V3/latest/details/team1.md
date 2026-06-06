@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 22:13:17 UTC
+# Standings for team1 as of 2026-06-06 22:14:17 UTC
 
 **Total Participants:** 1182
 
@@ -194,36 +194,36 @@
 | 186 | 184 | Frisky Fall |
 | 187 | 184 | pooh |
 | 188 | 182 | Hyper Blocky |
-| 189 | 180 | Zippy Lifter |
-| 190 | 179 | Ceilo Marie |
-| 191 | 179 | Amber Wilson |
-| 192 | 179 | Mikayla |
-| 193 | 179 | ♈️ Ariesbaby |
-| 194 | 178 | IThinkNot |
-| 195 | 178 | Shameka Thrasher |
-| 196 | 176 | Nikki Hogan |
-| 197 | 176 | Anthony Washington |
-| 198 | 171 | Melissa D. M. Hornsby |
-| 199 | 171 | Cheeky Pop |
+| 189 | 181 | Stephen Providenti |
+| 190 | 180 | Melissa D. M. Hornsby |
+| 191 | 180 | Zippy Lifter |
+| 192 | 179 | Amber Wilson |
+| 193 | 179 | Mikayla |
+| 194 | 179 | Ceilo Marie |
+| 195 | 179 | ♈️ Ariesbaby |
+| 196 | 178 | IThinkNot |
+| 197 | 178 | Shameka Thrasher |
+| 198 | 176 | Anthony Washington |
+| 199 | 176 | Nikki Hogan |
 | 200 | 171 | Boldy Liner |
-| 201 | 170 | Chipper Snapper |
+| 201 | 171 | Cheeky Pop |
 | 202 | 170 | Rolanda Williams |
-| 203 | 169 | Asha Langford |
-| 204 | 168 | Chilly Wipebuilder |
+| 203 | 170 | Chipper Snapper |
+| 204 | 169 | Asha Langford |
 | 205 | 168 | Tina Mitchell |
-| 206 | 167 | Jai |
+| 206 | 168 | Chilly Wipebuilder |
 | 207 | 167 | Kenny MrOnethousand Peck |
-| 208 | 166 | Stephen Providenti |
+| 208 | 167 | Jai |
 | 209 | 166 | Tarnisha Neicy Jones |
 | 210 | 165 | Queenie Perry |
 | 211 | 163 | Mafio SO |
 | 212 | 162 | JaClanDiah |
 | 213 | 161 | Dawn L Washington-Feuquay |
-| 214 | 160 | Jamie Willis |
-| 215 | 160 | Carolyn Smith |
-| 216 | 160 | Sara Meri |
-| 217 | 160 | Spicy Risepiece |
-| 218 | 160 | DaGuy |
+| 214 | 160 | Carolyn Smith |
+| 215 | 160 | Spicy Risepiece |
+| 216 | 160 | DaGuy |
+| 217 | 160 | Sara Meri |
+| 218 | 160 | Jamie Willis |
 | 219 | 159 | Fina McKinnis |
 | 220 | 157 | Kimberly Linares Hernandez |
 | 221 | 157 | Richard Flex |
@@ -367,10 +367,10 @@
 | 359 | 89 | Analiza Ramos |
 | 360 | 88 | Wacky Stackbuilder |
 | 361 | 88 | QueenShay AllGood |
-| 362 | 88 | Tee Spinks |
-| 363 | 88 | Kristie |
-| 364 | 87 | Chummy Frame |
-| 365 | 87 | C Lo Green |
+| 362 | 88 | C Lo Green |
+| 363 | 88 | Tee Spinks |
+| 364 | 88 | Kristie |
+| 365 | 87 | Chummy Frame |
 | 366 | 86 | Donna Payne |
 | 367 | 86 | Tweet Turner |
 | 368 | 86 | krd |
@@ -584,80 +584,80 @@
 | 576 | 50 | Jes Marie |
 | 577 | 50 | Denell Sims |
 | 578 | 50 | Victoria Smith |
-| 579 | 50 | Giggy Holder |
-| 580 | 50 | MsBobby Patrick |
-| 581 | 50 | Meow Meow |
-| 582 | 50 | Rande Smith |
-| 583 | 50 | Amaadi Ward |
+| 579 | 50 | MsBobby Patrick |
+| 580 | 50 | Giggy Holder |
+| 581 | 50 | Amaadi Ward |
+| 582 | 50 | Meow Meow |
+| 583 | 50 | Rande Smith |
 | 584 | 50 | Nisha Sunshine Jenkins |
 | 585 | 50 | Tramaine Crockrum |
 | 586 | 50 | Rissa Rozay |
-| 587 | 50 | Christopher Shaw-Black |
-| 588 | 50 | Daring Linkfall |
+| 587 | 50 | Daring Linkfall |
+| 588 | 50 | Christopher Shaw-Black |
 | 589 | 50 | Kanary Karotz |
 | 590 | 50 | Teresa Yanira Cepeda |
-| 591 | 49 | Sallie Sanborn |
+| 591 | 49 | Lynn |
 | 592 | 49 | Kyle Conley |
 | 593 | 49 | Holly Baker |
 | 594 | 49 | Stronger Wiser Better |
 | 595 | 49 | Saucy Crusher |
 | 596 | 49 | Speedy Stacky |
 | 597 | 49 | SnazzyIvy |
-| 598 | 49 | Bunnie Celtavini |
+| 598 | 49 | Sallie Sanborn |
 | 599 | 49 | Dawn Basemore |
-| 600 | 49 | Chereese Harris |
-| 601 | 49 | Parris Wright |
-| 602 | 49 | Teisha Scott |
-| 603 | 48 | jaz |
-| 604 | 48 | Stephanie Ellis |
-| 605 | 48 | akosua |
+| 600 | 49 | Bunnie Celtavini |
+| 601 | 49 | Chereese Harris |
+| 602 | 49 | Parris Wright |
+| 603 | 49 | Teisha Scott |
+| 604 | 48 | akosua |
+| 605 | 48 | Stephanie Ellis |
 | 606 | 48 | Clever Fitblock |
 | 607 | 48 | Comedian Prince Paul |
 | 608 | 48 | Bubbly Crawler |
-| 609 | 48 | Eli Delao |
-| 610 | 48 | Wild Out Nai |
-| 611 | 48 | LoveLee |
+| 609 | 48 | jaz |
+| 610 | 48 | Eli Delao |
+| 611 | 48 | Wild Out Nai |
 | 612 | 48 | Betsy B. Yohan |
-| 613 | 47 | Octavia Bsb Johnson |
-| 614 | 47 | Tyrone Porter |
-| 615 | 47 | Tushama Cheris Okraku |
-| 616 | 47 | Kevin Turner |
-| 617 | 47 | Lynn |
-| 618 | 47 | Mami Badd |
-| 619 | 47 | RylonJones |
-| 620 | 47 | Bubbly Slammer |
-| 621 | 47 | Kàrma Lee |
-| 622 | 46 | Elizabeth Green |
-| 623 | 46 | Antoinette Kelly |
-| 624 | 46 | Felicia Dungey |
-| 625 | 46 | David A Alvino |
-| 626 | 46 | Jenni |
+| 613 | 48 | LoveLee |
+| 614 | 47 | Tushama Cheris Okraku |
+| 615 | 47 | Tyrone Porter |
+| 616 | 47 | Octavia Bsb Johnson |
+| 617 | 47 | Kevin Turner |
+| 618 | 47 | Solomon Valarie |
+| 619 | 47 | Mami Badd |
+| 620 | 47 | RylonJones |
+| 621 | 47 | Bubbly Slammer |
+| 622 | 47 | Kàrma Lee |
+| 623 | 46 | Elizabeth Green |
+| 624 | 46 | Antoinette Kelly |
+| 625 | 46 | Felicia Dungey |
+| 626 | 46 | David A Alvino |
 | 627 | 46 | Kimberly Red |
-| 628 | 46 | Ja'mice Nelson |
-| 629 | 46 | Rosalind Chatman |
-| 630 | 46 | Maria Baez Medina |
-| 631 | 46 | Lucille Wilson Davis |
-| 632 | 46 | TrapQween39Bi |
-| 633 | 46 | Boldy Matchfit |
-| 634 | 46 | Chris Nelson |
+| 628 | 46 | Jenni |
+| 629 | 46 | Maria Baez Medina |
+| 630 | 46 | Ja'mice Nelson |
+| 631 | 46 | Rosalind Chatman |
+| 632 | 46 | Chris Nelson |
+| 633 | 46 | Lucille Wilson Davis |
+| 634 | 46 | TrapQween39Bi |
 | 635 | 46 | Karen Denen |
-| 636 | 46 | Derald Miller |
-| 637 | 45 | Cheery Linkfall |
-| 638 | 45 | Brave Balanceblock |
-| 639 | 45 | Skye |
-| 640 | 45 | Tootsie Pop |
-| 641 | 45 | Matraca Young |
-| 642 | 45 | GetDaOPPS |
+| 636 | 46 | Boldy Matchfit |
+| 637 | 46 | Derald Miller |
+| 638 | 45 | LeeLee08 |
+| 639 | 45 | GetDaOPPS |
+| 640 | 45 | Matraca Young |
+| 641 | 45 | Cali Lee |
+| 642 | 45 | Tootsie Pop |
 | 643 | 45 | Sunny Tumbler |
-| 644 | 45 | Cali Lee |
-| 645 | 45 | Solomon Valarie |
-| 646 | 45 | Y3llOWFAC3 |
-| 647 | 45 | LeeLee08 |
-| 648 | 45 | Renee J. Thomas |
+| 644 | 45 | Skye |
+| 645 | 45 | Y3llOWFAC3 |
+| 646 | 45 | Brave Balanceblock |
+| 647 | 45 | Renee J. Thomas |
+| 648 | 45 | Cheery Linkfall |
 | 649 | 44 | Nona Harriel |
-| 650 | 44 | EvaLynn NeCole |
+| 650 | 44 | Jessie N Michael Silvers |
 | 651 | 44 | Duncan Timothy |
-| 652 | 44 | Jessie N Michael Silvers |
+| 652 | 44 | EvaLynn NeCole |
 | 653 | 44 | GiantBehemoth |
 | 654 | 44 | Nic Nic |
 | 655 | 44 | DellaLucretia Thomas |
