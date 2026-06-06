@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 08:12:17 UTC
+# Standings for team2 as of 2026-06-06 08:12:38 UTC
 
 **Total Participants:** 1075
 
@@ -142,51 +142,51 @@
 | 134 | 185 | Logan Duffey |
 | 135 | 184 | Lush Party |
 | 136 | 179 | Nathan Walker |
-| 137 | 177 | Xandrea Jones |
-| 138 | 174 | Nettrainer |
-| 139 | 168 | Missy Renia |
-| 140 | 167 | Zarah Kettler |
-| 141 | 165 | Ackerman 85 |
-| 142 | 165 | Olivia Jefferson |
-| 143 | 165 | Chipper Stackbuilder |
-| 144 | 165 | Jeanna Mendez |
+| 137 | 177 | Nawang Nawang |
+| 138 | 177 | Xandrea Jones |
+| 139 | 174 | Nettrainer |
+| 140 | 168 | Missy Renia |
+| 141 | 167 | Zarah Kettler |
+| 142 | 165 | Ackerman 85 |
+| 143 | 165 | Olivia Jefferson |
+| 144 | 165 | Chipper Stackbuilder |
 | 145 | 165 | Karen Reid Cenkush |
-| 146 | 164 | Melissa Nash |
+| 146 | 165 | Jeanna Mendez |
 | 147 | 164 | Jerry L Morales |
-| 148 | 163 | Zany Cascader |
-| 149 | 162 | Larry Cross |
-| 150 | 162 | haune |
-| 151 | 161 | Boldy Wobbler |
-| 152 | 160 | snowwol |
-| 153 | 160 | Linda Guay |
-| 154 | 159 | Cara Rivera |
-| 155 | 157 | Santara Ferguson |
-| 156 | 155 | Zany Blockclear |
-| 157 | 154 | Glitzy Base |
-| 158 | 153 | Zesty Strikerbuilder |
-| 159 | 151 | Marilyn Mendoza |
-| 160 | 150 | Rick |
+| 148 | 164 | Melissa Nash |
+| 149 | 163 | Zany Cascader |
+| 150 | 162 | Larry Cross |
+| 151 | 162 | haune |
+| 152 | 161 | Boldy Wobbler |
+| 153 | 160 | snowwol |
+| 154 | 160 | Linda Guay |
+| 155 | 159 | Cara Rivera |
+| 156 | 157 | Santara Ferguson |
+| 157 | 155 | Zany Blockclear |
+| 158 | 154 | Glitzy Base |
+| 159 | 153 | Zesty Strikerbuilder |
+| 160 | 151 | Marilyn Mendoza |
 | 161 | 150 | Crystal Allen |
-| 162 | 149 | Lily |
+| 162 | 150 | Rick |
 | 163 | 149 | Jenni LeBlanc |
-| 164 | 148 | Curly Windbreaker |
-| 165 | 147 | Gill |
-| 166 | 145 | Sarah Mccolgan |
+| 164 | 149 | Lily |
+| 165 | 148 | Curly Windbreaker |
+| 166 | 147 | Gill |
 | 167 | 145 | H |
-| 168 | 145 | SEH |
-| 169 | 145 | Amanda Priddy |
-| 170 | 142 | Cortney Coleman |
-| 171 | 141 | Melisa |
+| 168 | 145 | Sarah Mccolgan |
+| 169 | 145 | SEH |
+| 170 | 145 | Amanda Priddy |
+| 171 | 142 | Cortney Coleman |
 | 172 | 141 | Spicy Risegrid |
-| 173 | 140 | Gabriella Humphreys |
-| 174 | 140 | Billie Jensen |
-| 175 | 140 | Brittney Williams |
-| 176 | 140 | Kelly Vedder |
-| 177 | 140 | marsam |
-| 178 | 140 | Iesha Cupil |
-| 179 | 139 | Victoria Pale |
-| 180 | 138 | NickandJess Reynolds |
-| 181 | 137 | Nawang Nawang |
+| 173 | 141 | Melisa |
+| 174 | 140 | Brittney Williams |
+| 175 | 140 | Billie Jensen |
+| 176 | 140 | Gabriella Humphreys |
+| 177 | 140 | Iesha Cupil |
+| 178 | 140 | Kelly Vedder |
+| 179 | 140 | marsam |
+| 180 | 139 | Victoria Pale |
+| 181 | 138 | NickandJess Reynolds |
 | 182 | 137 | Lindsey Ford |
 | 183 | 136 | Joni Michelle Morgan |
 | 184 | 136 | Lauren Maxwell |
