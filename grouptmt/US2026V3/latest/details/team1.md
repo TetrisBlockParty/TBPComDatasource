@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 13:26:17 UTC
+# Standings for team1 as of 2026-06-06 13:26:39 UTC
 
 **Total Participants:** 1001
 
@@ -317,32 +317,32 @@
 | 309 | 75 | Nickeya Phillips |
 | 310 | 75 | Jayjay Rich |
 | 311 | 75 | Smiley Clearpiece |
-| 312 | 75 | BabyCakes |
-| 313 | 75 | Nutty Spinblock |
-| 314 | 74 | Lynnette WheelerBushnell |
-| 315 | 74 | Tyiesha Pie Farmer |
-| 316 | 74 | Angela Brown Babin |
-| 317 | 74 | Tetrisdestroyer |
-| 318 | 73 | HarleyJane |
-| 319 | 73 | Tobey Marberry |
-| 320 | 73 | Donna Payne |
-| 321 | 72 | Chummy Frame |
-| 322 | 72 | Poppy Twister |
-| 323 | 72 | Lauraly |
-| 324 | 71 | HBTone |
-| 325 | 71 | star |
-| 326 | 71 | Kristie |
-| 327 | 71 | Erin Sabol |
-| 328 | 71 | Elaine Pauley |
-| 329 | 70 | Hailey Hil |
-| 330 | 70 | Daddy |
-| 331 | 70 | Gerold Folk Haddock |
-| 332 | 70 | $hort Dog |
-| 333 | 70 | Kaleisha Smith |
-| 334 | 70 | Cheeky Pop |
-| 335 | 70 | MamushiOh |
-| 336 | 69 | CJ Robinson |
-| 337 | 69 | Chilly Wipebuilder |
+| 312 | 75 | Nutty Spinblock |
+| 313 | 75 | BabyCakes |
+| 314 | 74 | Angela Brown Babin |
+| 315 | 74 | Tetrisdestroyer |
+| 316 | 74 | Tyiesha Pie Farmer |
+| 317 | 74 | Lynnette WheelerBushnell |
+| 318 | 73 | Tobey Marberry |
+| 319 | 73 | Donna Payne |
+| 320 | 73 | HarleyJane |
+| 321 | 72 | Poppy Twister |
+| 322 | 72 | Lauraly |
+| 323 | 72 | Chilly Wipebuilder |
+| 324 | 72 | Chummy Frame |
+| 325 | 71 | HBTone |
+| 326 | 71 | star |
+| 327 | 71 | Kristie |
+| 328 | 71 | Erin Sabol |
+| 329 | 71 | Elaine Pauley |
+| 330 | 70 | Hailey Hil |
+| 331 | 70 | Daddy |
+| 332 | 70 | Gerold Folk Haddock |
+| 333 | 70 | $hort Dog |
+| 334 | 70 | Kaleisha Smith |
+| 335 | 70 | Cheeky Pop |
+| 336 | 70 | MamushiOh |
+| 337 | 69 | CJ Robinson |
 | 338 | 69 | Sunny Clicky |
 | 339 | 69 | Tracy Feyler |
 | 340 | 68 | Tee Spinks |
@@ -417,35 +417,35 @@
 | 409 | 56 | Nichelle Warren |
 | 410 | 55 | Ta'Kaiyah M. Spann |
 | 411 | 55 | Kyle Franklin |
-| 412 | 55 | Dreamzzz |
-| 413 | 55 | Terrie |
+| 412 | 55 | KoolKimJay |
+| 413 | 55 | Dreamzzz |
 | 414 | 55 | Angelique Talbot |
-| 415 | 55 | KoolKimJay |
-| 416 | 55 | Twisty Brickfit |
-| 417 | 55 | Lazy Tiltpiece |
-| 418 | 54 | Melissa Olvera |
-| 419 | 54 | Elizabeth Hopkins |
-| 420 | 54 | Ace Hardware |
-| 421 | 54 | Ryan Runyan |
-| 422 | 53 | Sarah Clark |
+| 415 | 55 | Twisty Brickfit |
+| 416 | 55 | Lazy Tiltpiece |
+| 417 | 55 | Terrie |
+| 418 | 54 | Kashh |
+| 419 | 54 | Melissa Olvera |
+| 420 | 54 | Elizabeth Hopkins |
+| 421 | 54 | Ace Hardware |
+| 422 | 54 | Ryan Runyan |
 | 423 | 53 | Cortrell Foster |
-| 424 | 53 | Jumpy Gridlock |
+| 424 | 53 | Sarah Clark |
 | 425 | 53 | Clever Wrecker |
-| 426 | 52 | Raquel Ortiz |
-| 427 | 52 | Kashh |
-| 428 | 52 | Loopy Risepiece |
-| 429 | 52 | Anastasia |
-| 430 | 52 | Dandy Brickfit |
-| 431 | 52 | Gabriela Hernandez |
-| 432 | 51 | BrettanMary Adkins |
-| 433 | 51 | Just2Play$ |
-| 434 | 51 | Poppy Smasher |
-| 435 | 51 | Comedian Gdane |
-| 436 | 51 | Shanjerrica Taylor Rosell |
-| 437 | 50 | Kp |
-| 438 | 50 | Rande Smith |
-| 439 | 50 | Slinky Party |
-| 440 | 50 | Denell Sims |
+| 426 | 53 | Jumpy Gridlock |
+| 427 | 52 | Gabriela Hernandez |
+| 428 | 52 | Anastasia |
+| 429 | 52 | Dandy Brickfit |
+| 430 | 52 | Loopy Risepiece |
+| 431 | 52 | Raquel Ortiz |
+| 432 | 51 | Just2Play$ |
+| 433 | 51 | Shanjerrica Taylor Rosell |
+| 434 | 51 | Comedian Gdane |
+| 435 | 51 | Poppy Smasher |
+| 436 | 51 | BrettanMary Adkins |
+| 437 | 50 | Rande Smith |
+| 438 | 50 | Denell Sims |
+| 439 | 50 | Kp |
+| 440 | 50 | Slinky Party |
 | 441 | 50 | Jjhandsome |
 | 442 | 50 | Teresa Yanira Cepeda |
 | 443 | 50 | Nisha Sunshine Jenkins |
