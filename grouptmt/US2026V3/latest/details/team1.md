@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 21:46:17 UTC
+# Standings for team1 as of 2026-06-06 21:46:39 UTC
 
 **Total Participants:** 1176
 
@@ -67,9 +67,9 @@
 | 59 | 675 | Corey Cawthon |
 | 60 | 648 | Eartha Brown |
 | 61 | 646 | Blockhead |
-| 62 | 605 | JoJo |
-| 63 | 602 | Kimberly Hernandez |
-| 64 | 601 | D'Andra Stewart |
+| 62 | 611 | D'Andra Stewart |
+| 63 | 605 | JoJo |
+| 64 | 602 | Kimberly Hernandez |
 | 65 | 598 | Ivana Schmidt |
 | 66 | 586 | Kellie Hall |
 | 67 | 541 | Andi McGreevy |
@@ -869,24 +869,24 @@
 | 861 | 25 | Antoinette Kidd |
 | 862 | 24 | Andrea Jackson |
 | 863 | 24 | Eugenia Vanclusen |
-| 864 | 24 | Mumitt |
-| 865 | 24 | BonnieB |
-| 866 | 23 | Major314 |
-| 867 | 23 | Vontesha Kidd |
-| 868 | 23 | Thelma Samuels |
-| 869 | 23 | Connor Leon Cluff |
+| 864 | 24 | BonnieB |
+| 865 | 24 | Mumitt |
+| 866 | 23 | Arturo Hernandez II |
+| 867 | 23 | Monica Fields |
+| 868 | 23 | Connor Leon Cluff |
+| 869 | 23 | Tabitha Dupre-Allen |
 | 870 | 23 | Jamie Lea Popp |
-| 871 | 23 | Tabitha Dupre-Allen |
-| 872 | 23 | Genevieve Nieves |
-| 873 | 23 | Shona ShayShay Jones |
-| 874 | 23 | Arturo Hernandez II |
-| 875 | 23 | Monica Fields |
-| 876 | 22 | Denise Cunningham-English |
-| 877 | 22 | Ashleyy Netchert |
-| 878 | 22 | tg |
-| 879 | 22 | Brave Gridmatch |
-| 880 | 22 | Jroc Tyra Taylor |
-| 881 | 22 | Jane Lame |
+| 871 | 23 | Thelma Samuels |
+| 872 | 23 | Jane Lame |
+| 873 | 23 | Major314 |
+| 874 | 23 | Vontesha Kidd |
+| 875 | 23 | Genevieve Nieves |
+| 876 | 23 | Shona ShayShay Jones |
+| 877 | 22 | Denise Cunningham-English |
+| 878 | 22 | Ashleyy Netchert |
+| 879 | 22 | tg |
+| 880 | 22 | Brave Gridmatch |
+| 881 | 22 | Jroc Tyra Taylor |
 | 882 | 22 | ShayePooh |
 | 883 | 22 | Williams Candace |
 | 884 | 21 | lady |
