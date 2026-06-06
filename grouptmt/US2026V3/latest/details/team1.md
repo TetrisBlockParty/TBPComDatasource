@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 00:42:17 UTC
+# Standings for team1 as of 2026-06-06 00:42:36 UTC
 
 **Total Participants:** 651
 
@@ -63,11 +63,11 @@
 | 55 | 215 | Abraham Espaillat |
 | 56 | 214 | Po Marley |
 | 57 | 212 | KenpachisGirl |
-| 58 | 208 | Nerdy Snapfall |
-| 59 | 206 | Tiana Moore |
-| 60 | 202 | Spicy Balancer |
-| 61 | 199 | Chirpy Corner |
-| 62 | 197 | Gotcha |
+| 58 | 209 | Gotcha |
+| 59 | 208 | Nerdy Snapfall |
+| 60 | 206 | Tiana Moore |
+| 61 | 202 | Spicy Balancer |
+| 62 | 199 | Chirpy Corner |
 | 63 | 196 | COSA303 |
 | 64 | 193 | Brave Clearbuilder |
 | 65 | 185 | Teddy Davis |
@@ -282,46 +282,46 @@
 | 274 | 40 | Heather Aurelia |
 | 275 | 39 | JesusSaves 😇 |
 | 276 | 39 | Elizabeth Green |
-| 277 | 39 | Jae Thompson-Tyus |
+| 277 | 39 | MamushiOh |
 | 278 | 39 | Lexx Robins |
-| 279 | 39 | MamushiOh |
-| 280 | 38 | Kayel Good |
+| 279 | 39 | Jae Thompson-Tyus |
+| 280 | 39 | Boldy Pivoty |
 | 281 | 38 | hope |
 | 282 | 38 | Earl Williams |
-| 283 | 38 | Kahliah Baker |
-| 284 | 38 | Raquel Ortiz |
-| 285 | 38 | Big Bovice |
+| 283 | 38 | Kayel Good |
+| 284 | 38 | Kahliah Baker |
+| 285 | 38 | Raquel Ortiz |
 | 286 | 38 | Lawreniesha Burkley |
-| 287 | 38 | Tonya Thomas |
-| 288 | 37 | Lootch |
-| 289 | 37 | Jackytrain52 |
-| 290 | 37 | Jojo M |
-| 291 | 36 | Sunny Riserbuilder |
-| 292 | 35 | Jolly Tilefall |
-| 293 | 35 | Wacky Stackbuilder |
-| 294 | 35 | HBTone |
-| 295 | 35 | Saucy Crusher |
-| 296 | 35 | Sashaleo |
-| 297 | 35 | messyboots |
-| 298 | 35 | Kimberly Red |
-| 299 | 34 | Rene Hicks |
-| 300 | 34 | Elizabeth Hopkins |
-| 301 | 33 | Charlene Baltimore |
-| 302 | 33 | Mom3granny2 |
-| 303 | 33 | Chris Nelson |
-| 304 | 33 | Boldy Pivoty |
-| 305 | 33 | Krose Byers |
-| 306 | 33 | Block King |
-| 307 | 33 | Squaw Ki Ng |
-| 308 | 33 | Tonny Williams |
-| 309 | 33 | Crtjstr |
-| 310 | 33 | Karen Denen |
-| 311 | 32 | Mighty Dropper |
-| 312 | 32 | Gerold Folk Haddock |
-| 313 | 32 | Tyrone Porter |
-| 314 | 32 | Amy Lynn Leifheit |
-| 315 | 32 | Melvin Simpson |
-| 316 | 32 | Tomme Poliwka |
+| 287 | 38 | Big Bovice |
+| 288 | 38 | Tonya Thomas |
+| 289 | 37 | Jojo M |
+| 290 | 37 | Lootch |
+| 291 | 37 | Jackytrain52 |
+| 292 | 36 | Sunny Riserbuilder |
+| 293 | 35 | Sashaleo |
+| 294 | 35 | Jolly Tilefall |
+| 295 | 35 | HBTone |
+| 296 | 35 | Wacky Stackbuilder |
+| 297 | 35 | Saucy Crusher |
+| 298 | 35 | messyboots |
+| 299 | 35 | Kimberly Red |
+| 300 | 34 | Rene Hicks |
+| 301 | 34 | Elizabeth Hopkins |
+| 302 | 33 | Charlene Baltimore |
+| 303 | 33 | Crtjstr |
+| 304 | 33 | Karen Denen |
+| 305 | 33 | Tonny Williams |
+| 306 | 33 | Squaw Ki Ng |
+| 307 | 33 | Block King |
+| 308 | 33 | Krose Byers |
+| 309 | 33 | Chris Nelson |
+| 310 | 33 | Mom3granny2 |
+| 311 | 32 | Tomme Poliwka |
+| 312 | 32 | Melvin Simpson |
+| 313 | 32 | Gerold Folk Haddock |
+| 314 | 32 | Mighty Dropper |
+| 315 | 32 | Tyrone Porter |
+| 316 | 32 | Amy Lynn Leifheit |
 | 317 | 32 | Maribel Vasquez |
 | 318 | 32 | Dee McCool |
 | 319 | 32 | Sylvia Offically A Mcgowan |
@@ -540,22 +540,22 @@
 | 532 | 11 | Taz Ballard |
 | 533 | 11 | Frilly Shatterline |
 | 534 | 11 | Chuck Quarles |
-| 535 | 11 | Telisha Mims |
-| 536 | 11 | Giddy Twistslam |
-| 537 | 10 | Boricua64 |
+| 535 | 11 | Giddy Twistslam |
+| 536 | 11 | Telisha Mims |
+| 537 | 10 | Kenny 'Tailormade' Boyd |
 | 538 | 10 | Missy Myvette |
 | 539 | 10 | Catara Renae Oliver |
-| 540 | 10 | Mark Steven Pichler |
-| 541 | 10 | Marie Wilson |
-| 542 | 10 | Kenny 'Tailormade' Boyd |
-| 543 | 10 | Shannon Carriger |
+| 540 | 10 | Sherri Keys |
+| 541 | 10 | Mark Steven Pichler |
+| 542 | 10 | Marie Wilson |
+| 543 | 10 | Bubbly Piececlear |
 | 544 | 10 | Megan Payette |
-| 545 | 10 | Bubbly Piececlear |
+| 545 | 10 | Boricua64 |
 | 546 | 10 | Kesha Brady |
 | 547 | 10 | Hoppy Rumbler |
 | 548 | 10 | Cherry Rose |
 | 549 | 10 | Happymama |
-| 550 | 10 | Christian Whittaker |
+| 550 | 10 | Marshall Davis |
 | 551 | 10 | Heru Ogun Yeshua EL |
 | 552 | 10 | TRUBBLE45 |
 | 553 | 10 | Damien Fonseca |
@@ -564,20 +564,20 @@
 | 556 | 10 | tg |
 | 557 | 10 | Quwana Hall |
 | 558 | 10 | Meeee |
-| 559 | 10 | Sherri Keys |
+| 559 | 10 | Christian Whittaker |
 | 560 | 10 | Tessa Gaskin |
 | 561 | 10 | Anntionette Sotire |
 | 562 | 10 | Mikemike Zonethree |
 | 563 | 10 | Tracey Johnson |
 | 564 | 10 | Tina Mitchell |
-| 565 | 10 | Marshall Davis |
-| 566 | 9 | Joka NoTime ForHataz |
-| 567 | 9 | ummm |
-| 568 | 9 | Brave Gridmatch |
-| 569 | 9 | Kortney Adams |
-| 570 | 9 | Brika Brika |
-| 571 | 9 | Sherry D Singleton |
-| 572 | 9 | Tina Criam |
+| 565 | 10 | Shannon Carriger |
+| 566 | 10 | Tina Criam |
+| 567 | 9 | Joka NoTime ForHataz |
+| 568 | 9 | ummm |
+| 569 | 9 | Brave Gridmatch |
+| 570 | 9 | Kortney Adams |
+| 571 | 9 | Brika Brika |
+| 572 | 9 | Sherry D Singleton |
 | 573 | 9 | Clifford Petroske |
 | 574 | 9 | John Lovato |
 | 575 | 9 | Noni |
@@ -630,13 +630,13 @@
 | 622 | 6 | Lucy |
 | 623 | 6 | Mister Reid |
 | 624 | 5 | Temeshia Brooks Washington |
-| 625 | 5 | Jasmine Hariston-Estis |
+| 625 | 5 | Duckey |
 | 626 | 5 | VERA DAME |
 | 627 | 5 | Rieshelda Marie White |
 | 628 | 5 | Tipsy Builderline |
 | 629 | 5 | Saucy Linkgrid |
-| 630 | 5 | pooh |
-| 631 | 5 | Vernon Hoyt |
+| 630 | 5 | Kidgib5 |
+| 631 | 5 | Jasmine Hariston-Estis |
 | 632 | 5 | Stephanie Zuniga Tullock |
 | 633 | 5 | Derek Beverly |
 | 634 | 5 | Lil T |
@@ -647,16 +647,16 @@
 | 639 | 5 | DirtiestofMikes |
 | 640 | 5 | the guy |
 | 641 | 5 | Shakuria Cortia Burney |
-| 642 | 5 | Jennifer Moore |
-| 643 | 5 | Tito Divyn |
-| 644 | 5 | Shawn Himes |
-| 645 | 5 | Tamika Fisher |
-| 646 | 5 | Zappy Clearfit |
-| 647 | 5 | Duckey |
+| 642 | 5 | Vernon Hoyt |
+| 643 | 5 | Jennifer Moore |
+| 644 | 5 | Tito Divyn |
+| 645 | 5 | Shawn Himes |
+| 646 | 5 | Tamika Fisher |
+| 647 | 5 | Zappy Clearfit |
 | 648 | 5 | Sheila Burnham |
 | 649 | 5 | Logan Frost |
 | 650 | 5 | Andre Sanon |
-| 651 | 5 | Kidgib5 |
+| 651 | 5 | pooh |
 
 ---
 *Standings created by tournaments datasource generation tool*
