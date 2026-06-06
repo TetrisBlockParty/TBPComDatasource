@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 20:02:17 UTC
+# Standings for team1 as of 2026-06-06 20:02:39 UTC
 
 **Total Participants:** 1140
 
@@ -371,32 +371,32 @@
 | 363 | 80 | Nickeya Phillips |
 | 364 | 80 | Chevalier Burley |
 | 365 | 80 | Smiley Clearpiece |
-| 366 | 80 | Lester Malone |
-| 367 | 80 | Zany Breaker |
-| 368 | 80 | Lilly Brown |
-| 369 | 80 | Nyhlah Patterson |
-| 370 | 80 | Trina Greenwood |
+| 366 | 80 | Trina Greenwood |
+| 367 | 80 | Lester Malone |
+| 368 | 80 | Zany Breaker |
+| 369 | 80 | Lilly Brown |
+| 370 | 80 | Rebecca Jackson |
 | 371 | 80 | NedaWin |
-| 372 | 80 | Rebecca Jackson |
+| 372 | 80 | Nyhlah Patterson |
 | 373 | 80 | Latore Maxie |
 | 374 | 79 | CJ Robinson |
-| 375 | 79 | Douglas Price |
-| 376 | 79 | Montréal Mars |
-| 377 | 79 | Brand Nu |
-| 378 | 79 | Tracy Feyler |
-| 379 | 79 | Shameka Tiffany |
-| 380 | 78 | KeeKee Williams |
-| 381 | 78 | Steve Reno |
-| 382 | 76 | Jackytrain52 |
+| 375 | 79 | Brand Nu |
+| 376 | 79 | Shameka Tiffany |
+| 377 | 79 | Tracy Feyler |
+| 378 | 79 | Montréal Mars |
+| 379 | 79 | Douglas Price |
+| 380 | 78 | Steve Reno |
+| 381 | 78 | KeeKee Williams |
+| 382 | 77 | Tweet Turner |
 | 383 | 76 | Giggly Shatterline |
 | 384 | 76 | Ta'Kaiyah M. Spann |
-| 385 | 76 | Donna Payne |
-| 386 | 76 | Jennah |
-| 387 | 76 | Rene Hicks |
-| 388 | 76 | Cm |
-| 389 | 75 | BabyCakes |
-| 390 | 75 | Kimberly Noble |
-| 391 | 75 | Tweet Turner |
+| 385 | 76 | Jackytrain52 |
+| 386 | 76 | Donna Payne |
+| 387 | 76 | Jennah |
+| 388 | 76 | Rene Hicks |
+| 389 | 76 | Cm |
+| 390 | 75 | BabyCakes |
+| 391 | 75 | Kimberly Noble |
 | 392 | 75 | Jayjay Rich |
 | 393 | 75 | Courtney Robinson |
 | 394 | 74 | Amy Lynn Leifheit |

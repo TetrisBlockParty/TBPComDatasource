@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 20:02:17 UTC
+# Standings for team2 as of 2026-06-06 20:02:39 UTC
 
 **Total Participants:** 1356
 
@@ -16,7 +16,7 @@
 | 8 | 6152 | Christina Shell |
 | 9 | 6114 | Tim Ix |
 | 10 | 6045 | Morgann McDaniel |
-| 11 | 5838 | A.j. Langley |
+| 11 | 5886 | A.j. Langley |
 | 12 | 5704 | Cori Keberlein |
 | 13 | 3984 | Amber |
 | 14 | 3950 | Erica Dees Parks |
@@ -271,53 +271,53 @@
 | 263 | 141 | Theresa Huddleston |
 | 264 | 141 | Melisa |
 | 265 | 141 | Cheery Towerzone |
-| 266 | 140 | Sharon L Brazelton |
-| 267 | 140 | Iesha Cupil |
-| 268 | 140 | Billie Jensen |
-| 269 | 139 | Monique Frantz |
-| 270 | 139 | Kimmyc |
-| 271 | 138 | NickandJess Reynolds |
-| 272 | 138 | Ashley Miller |
-| 273 | 137 | Liseth Vasquez |
-| 274 | 137 | Lindsey Ford |
-| 275 | 136 | Lauren Maxwell |
-| 276 | 136 | Mtnblzr |
-| 277 | 135 | Amy Lea Hamilton |
-| 278 | 135 | Marylin Eacker |
-| 279 | 135 | Skye Ehret |
-| 280 | 134 | Sabrina Hardrick |
-| 281 | 134 | Joanna Trevin Thompson |
-| 282 | 134 | Funway998 |
-| 283 | 133 | Tara |
-| 284 | 132 | Spunky Cascadeclear |
-| 285 | 132 | Alison Waller |
-| 286 | 132 | Raine |
-| 287 | 131 | Jackie Tupper |
-| 288 | 130 | ZBee |
-| 289 | 130 | Precious Womack |
-| 290 | 129 | Kristi K Milner |
-| 291 | 129 | Sandy Justus |
+| 266 | 140 | Al Smith Jr |
+| 267 | 140 | Sharon L Brazelton |
+| 268 | 140 | Iesha Cupil |
+| 269 | 140 | Billie Jensen |
+| 270 | 139 | Monique Frantz |
+| 271 | 139 | Kimmyc |
+| 272 | 138 | NickandJess Reynolds |
+| 273 | 138 | Ashley Miller |
+| 274 | 137 | Liseth Vasquez |
+| 275 | 137 | Lindsey Ford |
+| 276 | 136 | Lauren Maxwell |
+| 277 | 136 | Mtnblzr |
+| 278 | 135 | Amy Lea Hamilton |
+| 279 | 135 | Marylin Eacker |
+| 280 | 135 | Skye Ehret |
+| 281 | 134 | Sabrina Hardrick |
+| 282 | 134 | Joanna Trevin Thompson |
+| 283 | 134 | Funway998 |
+| 284 | 133 | Tara |
+| 285 | 132 | Spunky Cascadeclear |
+| 286 | 132 | Alison Waller |
+| 287 | 132 | Raine |
+| 288 | 131 | Jackie Tupper |
+| 289 | 130 | ZBee |
+| 290 | 130 | Precious Womack |
+| 291 | 129 | Armando Sabedra |
 | 292 | 129 | Belle |
-| 293 | 129 | Armando Sabedra |
-| 294 | 129 | Loopy Tower |
+| 293 | 129 | Kristi K Milner |
+| 294 | 129 | Sandy Justus |
 | 295 | 129 | Heather Marie-Tarlton Britt |
-| 296 | 128 | Teddy Williams |
-| 297 | 127 | Paula Haskins |
-| 298 | 126 | Teresa Mandich |
-| 299 | 125 | Jill Goff |
-| 300 | 125 | Ariel Gundersen |
-| 301 | 125 | Gwendolyn Boykin Mobbs |
-| 302 | 124 | Tina |
-| 303 | 124 | Jason Burris |
-| 304 | 121 | Tango Sierra |
-| 305 | 120 | Charity Hauser |
-| 306 | 120 | Happy |
-| 307 | 120 | Al Smith Jr |
+| 296 | 129 | Loopy Tower |
+| 297 | 128 | Teddy Williams |
+| 298 | 127 | Paula Haskins |
+| 299 | 126 | Teresa Mandich |
+| 300 | 125 | Jill Goff |
+| 301 | 125 | Ariel Gundersen |
+| 302 | 125 | Gwendolyn Boykin Mobbs |
+| 303 | 124 | Tina |
+| 304 | 124 | Jason Burris |
+| 305 | 121 | Tango Sierra |
+| 306 | 120 | Simone F |
+| 307 | 120 | Happy |
 | 308 | 120 | Sassy Twistbuilder |
 | 309 | 120 | Elizabeth Cornelius |
-| 310 | 120 | Simone F |
-| 311 | 120 | Jessica Connot |
-| 312 | 120 | Keisha Robinson |
+| 310 | 120 | Charity Hauser |
+| 311 | 120 | Keisha Robinson |
+| 312 | 120 | Jessica Connot |
 | 313 | 120 | Kevin Mccoy |
 | 314 | 120 | Carlos J Blas |
 | 315 | 119 | Perii Reynoso |
@@ -366,13 +366,13 @@
 | 358 | 99 | Gabrielle Rivera |
 | 359 | 99 | Jennifer Vitro |
 | 360 | 99 | Francesca Wagenhoffer |
-| 361 | 98 | Justin McCray |
-| 362 | 98 | Alonzo Reed |
-| 363 | 98 | Mary Carriere |
-| 364 | 98 | Lindsey Ross |
-| 365 | 97 | Jennifer McClure |
-| 366 | 97 | Tracy Tokarz |
-| 367 | 97 | Melmel |
+| 361 | 98 | Melmel |
+| 362 | 98 | Justin McCray |
+| 363 | 98 | Alonzo Reed |
+| 364 | 98 | Mary Carriere |
+| 365 | 98 | Lindsey Ross |
+| 366 | 97 | Jennifer McClure |
+| 367 | 97 | Tracy Tokarz |
 | 368 | 97 | Abby |
 | 369 | 97 | Sandra Pursell |
 | 370 | 96 | Maria Ward |
