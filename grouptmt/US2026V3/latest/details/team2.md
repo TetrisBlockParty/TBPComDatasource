@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 11:06:40 UTC
+# Standings for team2 as of 2026-06-06 11:07:15 UTC
 
 **Total Participants:** 1109
 
@@ -343,22 +343,22 @@
 | 335 | 74 | Natasha Lee |
 | 336 | 74 | Jumpy Dashpiece |
 | 337 | 74 | Derrick |
-| 338 | 73 | bozzycat |
-| 339 | 73 | Rachel M. Farnsworth |
-| 340 | 73 | Sunny Spinzone |
-| 341 | 73 | Joannah Capilitan |
-| 342 | 72 | Kendi |
-| 343 | 72 | StacyBabee |
-| 344 | 72 | Sully |
-| 345 | 72 | Stephanie Smith Robinson |
-| 346 | 72 | Mary Carriere |
-| 347 | 71 | Cindy Scott |
-| 348 | 71 | Groovy Glider |
-| 349 | 71 | Sandy Lynn |
-| 350 | 70 | Jennifer Covington |
-| 351 | 70 | Courtney Madison Hart |
-| 352 | 70 | Tonya Marino |
-| 353 | 70 | Theresa Marie |
+| 338 | 73 | Theresa Marie |
+| 339 | 73 | bozzycat |
+| 340 | 73 | Rachel M. Farnsworth |
+| 341 | 73 | Sunny Spinzone |
+| 342 | 73 | Joannah Capilitan |
+| 343 | 72 | Kendi |
+| 344 | 72 | StacyBabee |
+| 345 | 72 | Sully |
+| 346 | 72 | Stephanie Smith Robinson |
+| 347 | 72 | Mary Carriere |
+| 348 | 71 | Cindy Scott |
+| 349 | 71 | Groovy Glider |
+| 350 | 71 | Sandy Lynn |
+| 351 | 70 | Jennifer Covington |
+| 352 | 70 | Courtney Madison Hart |
+| 353 | 70 | Tonya Marino |
 | 354 | 70 | Ceci |
 | 355 | 69 | Justin Stark |
 | 356 | 69 | REE4 |
