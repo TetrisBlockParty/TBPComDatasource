@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 21:57:17 UTC
+# Standings for team2 as of 2026-06-06 21:58:17 UTC
 
 **Total Participants:** 1397
 
@@ -13,7 +13,7 @@
 | 5 | 8396 | Crystalin Heath Lewis |
 | 6 | 7687 | Lacey Nolting |
 | 7 | 6900 | Mocha |
-| 8 | 6728 | A.j. Langley |
+| 8 | 6876 | A.j. Langley |
 | 9 | 6232 | Christina Shell |
 | 10 | 6114 | Tim Ix |
 | 11 | 6045 | Morgann McDaniel |
@@ -73,16 +73,16 @@
 | 65 | 779 | Marie Luciano |
 | 66 | 774 | Deborah Boyce Minor |
 | 67 | 749 | Marquita Toliver |
-| 68 | 732 | Amber Salazar |
-| 69 | 726 | Sarah Griffey |
-| 70 | 724 | Jazzy Faller |
-| 71 | 715 | Hoppy Rotate |
-| 72 | 714 | Andre Love |
-| 73 | 702 | Charley Bedford |
-| 74 | 700 | Denise Potter |
-| 75 | 694 | Angie Mccain |
-| 76 | 671 | Brandi Thompson |
-| 77 | 657 | Giddy Slamdrop |
+| 68 | 746 | Giddy Slamdrop |
+| 69 | 732 | Amber Salazar |
+| 70 | 726 | Sarah Griffey |
+| 71 | 724 | Jazzy Faller |
+| 72 | 715 | Hoppy Rotate |
+| 73 | 714 | Andre Love |
+| 74 | 702 | Charley Bedford |
+| 75 | 700 | Denise Potter |
+| 76 | 694 | Angie Mccain |
+| 77 | 671 | Brandi Thompson |
 | 78 | 647 | Loopy Cascadepiece |
 | 79 | 632 | Wmk Rathbun |
 | 80 | 625 | Marquetta Johnson |
