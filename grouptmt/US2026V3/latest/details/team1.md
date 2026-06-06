@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 21:01:18 UTC
+# Standings for team1 as of 2026-06-06 21:02:17 UTC
 
 **Total Participants:** 1159
 
@@ -1100,37 +1100,37 @@
 | 1092 | 8 | Almarasha Grice |
 | 1093 | 8 | Chantae Maxwell |
 | 1094 | 8 | jus_ry |
-| 1095 | 8 | Shawna Passwater |
-| 1096 | 8 | Frothy Matchpiece |
-| 1097 | 8 | Plucky Twist |
-| 1098 | 8 | Queen Baby 5 |
-| 1099 | 8 | Chill Tumbler |
-| 1100 | 8 | Chevonne Huggins |
-| 1101 | 8 | Elizabeth Castro |
-| 1102 | 8 | Tiffany Jean Hinson |
-| 1103 | 8 | MsSassygee Boom |
-| 1104 | 8 | Nissa |
-| 1105 | 8 | Groovy Riseclear |
-| 1106 | 8 | Desi |
-| 1107 | 7 | Shane Brucewayne |
-| 1108 | 7 | Deantenique Smalls |
-| 1109 | 7 | Phoenix |
+| 1095 | 8 | Frothy Matchpiece |
+| 1096 | 8 | McKayla Owens |
+| 1097 | 8 | Desi |
+| 1098 | 8 | Groovy Riseclear |
+| 1099 | 8 | Plucky Twist |
+| 1100 | 8 | Nissa |
+| 1101 | 8 | MsSassygee Boom |
+| 1102 | 8 | Shawna Passwater |
+| 1103 | 8 | Tiffany Jean Hinson |
+| 1104 | 8 | Elizabeth Castro |
+| 1105 | 8 | Queen Baby 5 |
+| 1106 | 8 | Chevonne Huggins |
+| 1107 | 8 | Chill Tumbler |
+| 1108 | 7 | KingSlim82 |
+| 1109 | 7 | Deantenique Smalls |
 | 1110 | 7 | Sheena Hamilton |
-| 1111 | 7 | Analesia Taylor |
-| 1112 | 7 | Sunset Owens |
-| 1113 | 7 | KingSlim82 |
-| 1114 | 7 | whatever |
-| 1115 | 7 | Milfchaser530 |
-| 1116 | 7 | Zachary Sinclair |
-| 1117 | 7 | LaMinda Todd |
-| 1118 | 7 | Ann White |
-| 1119 | 7 | Jhonny Maii |
-| 1120 | 7 | Quana |
-| 1121 | 7 | Deadra Graham |
-| 1122 | 7 | Stephanie L Jeffries Moultrie |
-| 1123 | 7 | Teresa F. Campos Eaton |
-| 1124 | 7 | Andrew Harris |
-| 1125 | 7 | McKayla Owens |
+| 1111 | 7 | Phoenix |
+| 1112 | 7 | Shane Brucewayne |
+| 1113 | 7 | Analesia Taylor |
+| 1114 | 7 | Sunset Owens |
+| 1115 | 7 | whatever |
+| 1116 | 7 | Milfchaser530 |
+| 1117 | 7 | Zachary Sinclair |
+| 1118 | 7 | LaMinda Todd |
+| 1119 | 7 | Ann White |
+| 1120 | 7 | Jhonny Maii |
+| 1121 | 7 | Quana |
+| 1122 | 7 | Deadra Graham |
+| 1123 | 7 | Stephanie L Jeffries Moultrie |
+| 1124 | 7 | Teresa F. Campos Eaton |
+| 1125 | 7 | Andrew Harris |
 | 1126 | 7 | Mary2 |
 | 1127 | 6 | Terry Lee Moya |
 | 1128 | 6 | NEM0228 |
