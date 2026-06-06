@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 06:28:16 UTC
+# Standings for team2 as of 2026-06-06 06:28:39 UTC
 
 **Total Participants:** 1039
 
@@ -479,30 +479,30 @@
 | 471 | 43 | Kourtney Heiden-Hudson |
 | 472 | 43 | Peter Fogg |
 | 473 | 43 | Michael Carmichael |
-| 474 | 43 | Jason Lamporte |
-| 475 | 42 | Shylo Bryant-Brunson |
-| 476 | 42 | Jazzy |
-| 477 | 42 | Amy D Coble |
-| 478 | 42 | Alicia Parrish |
-| 479 | 42 | Michael Saunders |
-| 480 | 42 | Michael James |
-| 481 | 42 | Pamela Raye |
-| 482 | 42 | Henny Henny |
-| 483 | 42 | Bri St Peter |
-| 484 | 42 | Liseth Vasquez |
-| 485 | 42 | Snazzy Smasher |
-| 486 | 41 | Meagan Thompson |
+| 474 | 43 | Missy Savage-Justice |
+| 475 | 43 | Jason Lamporte |
+| 476 | 42 | Snazzy Smasher |
+| 477 | 42 | Jazzy |
+| 478 | 42 | Amy D Coble |
+| 479 | 42 | Alicia Parrish |
+| 480 | 42 | Michael Saunders |
+| 481 | 42 | Michael James |
+| 482 | 42 | Shylo Bryant-Brunson |
+| 483 | 42 | Pamela Raye |
+| 484 | 42 | Henny Henny |
+| 485 | 42 | Bri St Peter |
+| 486 | 42 | Liseth Vasquez |
 | 487 | 41 | IncrediDragon |
 | 488 | 41 | Jennifer Lewellyn Hutchins |
 | 489 | 41 | Kodi Gay |
 | 490 | 41 | Chummy Snapbuilder |
 | 491 | 41 | Gabrielle Wilson |
 | 492 | 41 | Jenny Coffer |
-| 493 | 41 | Tara |
-| 494 | 41 | Tracey Cox |
-| 495 | 41 | Missy Savage-Justice |
+| 493 | 41 | Meagan Thompson |
+| 494 | 41 | Tara |
+| 495 | 41 | Tracey Cox |
 | 496 | 41 | Epic Frame |
-| 497 | 40 | Nicole Chestnut |
+| 497 | 40 | andee |
 | 498 | 40 | Shay Lynn King |
 | 499 | 40 | Stephany Green |
 | 500 | 40 | Missy Stevens |
@@ -511,14 +511,14 @@
 | 503 | 40 | Tamtam |
 | 504 | 40 | Spicy Balanceblock |
 | 505 | 40 | Elicia Lloyd-Zazweta |
-| 506 | 40 | Nora Buchan |
-| 507 | 40 | Squared |
-| 508 | 40 | andee |
-| 509 | 40 | Brandi Williams |
+| 506 | 40 | Pam Bauder Ludwig |
+| 507 | 40 | Nicole Chestnut |
+| 508 | 40 | Brandi Williams |
+| 509 | 40 | Squared |
 | 510 | 40 | Justtony Fareal |
-| 511 | 40 | Courtney Ribas |
-| 512 | 40 | Kevin Mccoy |
-| 513 | 40 | Pam Bauder Ludwig |
+| 511 | 40 | Kevin Mccoy |
+| 512 | 40 | Courtney Ribas |
+| 513 | 40 | Nora Buchan |
 | 514 | 40 | Sherry Ann |
 | 515 | 39 | Roger Kirksey |
 | 516 | 39 | Alexis Meyers |
@@ -1019,32 +1019,32 @@
 | 1011 | 6 | Cheeky Dashpiece |
 | 1012 | 6 | Partin |
 | 1013 | 6 | Fluffypuffin |
-| 1014 | 6 | FabTeach |
-| 1015 | 6 | Amanda Knox |
-| 1016 | 6 | Trena Sapp |
+| 1014 | 6 | Kelly Christine Trimmer |
+| 1015 | 6 | Lori Yelvington Cain |
+| 1016 | 6 | Michele Choate |
 | 1017 | 6 | Emily |
-| 1018 | 6 | Snappy Fitblock |
-| 1019 | 6 | Michele Choate |
-| 1020 | 6 | Cozy Curve |
-| 1021 | 6 | Shelby Wilson |
-| 1022 | 6 | Lori Yelvington Cain |
-| 1023 | 6 | Trisha Farley |
-| 1024 | 6 | Kelly Christine Trimmer |
-| 1025 | 5 | Crystal Poss |
-| 1026 | 5 | Adrian Alvarez |
-| 1027 | 5 | Flynn Flibble |
-| 1028 | 5 | Deborah Fowler |
-| 1029 | 5 | Agnes Gable |
-| 1030 | 5 | Nerdy Base |
-| 1031 | 5 | Brittany Weatherspoon |
-| 1032 | 5 | Jennifer Roper Stanley |
-| 1033 | 5 | Nolife |
-| 1034 | 5 | Duck |
-| 1035 | 5 | Bennie Farbo |
-| 1036 | 5 | Jennifer Mauler Schmidt |
-| 1037 | 5 | Chirpy Towerer |
-| 1038 | 5 | Nicole Suber |
-| 1039 | 5 | Mercedes Lowery |
+| 1018 | 6 | Trena Sapp |
+| 1019 | 6 | Amanda Knox |
+| 1020 | 6 | FabTeach |
+| 1021 | 6 | Snappy Fitblock |
+| 1022 | 6 | Trisha Farley |
+| 1023 | 6 | Shelby Wilson |
+| 1024 | 6 | Cozy Curve |
+| 1025 | 5 | Duck |
+| 1026 | 5 | Mercedes Lowery |
+| 1027 | 5 | Crystal Poss |
+| 1028 | 5 | Nicole Suber |
+| 1029 | 5 | Adrian Alvarez |
+| 1030 | 5 | Chirpy Towerer |
+| 1031 | 5 | Flynn Flibble |
+| 1032 | 5 | Deborah Fowler |
+| 1033 | 5 | Agnes Gable |
+| 1034 | 5 | Jennifer Mauler Schmidt |
+| 1035 | 5 | Nerdy Base |
+| 1036 | 5 | Brittany Weatherspoon |
+| 1037 | 5 | Jennifer Roper Stanley |
+| 1038 | 5 | Nolife |
+| 1039 | 5 | Bennie Farbo |
 
 ---
 *Standings created by tournaments datasource generation tool*
