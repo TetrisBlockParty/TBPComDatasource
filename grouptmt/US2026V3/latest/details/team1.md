@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 08:06:15 UTC
+# Standings for team1 as of 2026-06-06 08:06:38 UTC
 
 **Total Participants:** 922
 
@@ -79,11 +79,11 @@
 | 71 | 332 | Hyper Slamdrop |
 | 72 | 331 | Kimberly Hernandez |
 | 73 | 328 | Big Tina |
-| 74 | 322 | Lashawn Wallace |
-| 75 | 319 | GrkGdess |
-| 76 | 316 | Ty Øtg |
-| 77 | 314 | Carolynne Walker-Bell |
-| 78 | 303 | Catara Renae Oliver |
+| 74 | 323 | Catara Renae Oliver |
+| 75 | 322 | Lashawn Wallace |
+| 76 | 319 | GrkGdess |
+| 77 | 316 | Ty Øtg |
+| 78 | 314 | Carolynne Walker-Bell |
 | 79 | 292 | Robyn Caldwell |
 | 80 | 284 | Todd C. Clemens |
 | 81 | 279 | COSA303 |
@@ -489,13 +489,13 @@
 | 481 | 38 | hope |
 | 482 | 38 | SeanSanchez |
 | 483 | 38 | Kahliah Baker |
-| 484 | 38 | WReckitraff |
-| 485 | 38 | Earl Williams |
-| 486 | 38 | Kayel Good |
-| 487 | 38 | Quwana Hall |
-| 488 | 38 | Bold Clusterer |
-| 489 | 37 | CoaCoa Myles |
-| 490 | 37 | Jennah |
+| 484 | 38 | Jennah |
+| 485 | 38 | WReckitraff |
+| 486 | 38 | Earl Williams |
+| 487 | 38 | Kayel Good |
+| 488 | 38 | Quwana Hall |
+| 489 | 38 | Bold Clusterer |
+| 490 | 37 | CoaCoa Myles |
 | 491 | 37 | Elizabeth Vega Coreano |
 | 492 | 37 | Lootch |
 | 493 | 37 | Lil T |
