@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 12:38:16 UTC
+# Standings for team4 as of 2026-06-06 12:38:37 UTC
 
 **Total Participants:** 961
 
@@ -257,50 +257,50 @@
 | 249 | 88 | SandyEva |
 | 250 | 88 | Deva Marie Barber |
 | 251 | 88 | Kaps |
-| 252 | 87 | Limbo |
-| 253 | 87 | Jeff Margolis |
-| 254 | 87 | LastBoi |
-| 255 | 86 | Rachel Lemos |
-| 256 | 85 | Kari Smith |
-| 257 | 85 | Dawn Marie Trujillo |
-| 258 | 85 | 1694AF |
-| 259 | 85 | Kristen Wallace |
-| 260 | 85 | MelodiousDeez |
-| 261 | 85 | Thomasena Eady Reid |
-| 262 | 84 | Rae Saunders |
-| 263 | 84 | Dawn Phelps |
-| 264 | 84 | Chonda OhanaMomma Michelle |
-| 265 | 83 | Rosy Perez |
-| 266 | 83 | MrLoner Stoner |
-| 267 | 83 | Peter Babineaux Jr |
-| 268 | 83 | Bouncy |
-| 269 | 83 | Peachy Piecefit |
-| 270 | 82 | Luna |
-| 271 | 82 | Bon Jovi |
-| 272 | 82 | Jen Smith |
-| 273 | 82 | Codey Haffner |
-| 274 | 82 | Bridget Stevens |
-| 275 | 81 | Nicole Colby McCloskey |
-| 276 | 81 | Stasia |
-| 277 | 81 | Janae Harris |
-| 278 | 81 | Lively Cascadebuilder |
-| 279 | 80 | Krista Diaz |
-| 280 | 80 | Josh Keith Travierso |
-| 281 | 80 | Maurice DeJean |
-| 282 | 80 | Carla Woodard |
-| 283 | 80 | Danny Frausto |
-| 284 | 79 | Gean DeJesus |
+| 252 | 88 | Diana Fernandez |
+| 253 | 87 | Limbo |
+| 254 | 87 | Jeff Margolis |
+| 255 | 87 | LastBoi |
+| 256 | 86 | Rachel Lemos |
+| 257 | 85 | Kari Smith |
+| 258 | 85 | Dawn Marie Trujillo |
+| 259 | 85 | 1694AF |
+| 260 | 85 | Kristen Wallace |
+| 261 | 85 | MelodiousDeez |
+| 262 | 85 | Thomasena Eady Reid |
+| 263 | 84 | Rae Saunders |
+| 264 | 84 | Dawn Phelps |
+| 265 | 84 | Chonda OhanaMomma Michelle |
+| 266 | 83 | Rosy Perez |
+| 267 | 83 | MrLoner Stoner |
+| 268 | 83 | Peter Babineaux Jr |
+| 269 | 83 | Bouncy |
+| 270 | 83 | Peachy Piecefit |
+| 271 | 82 | Luna |
+| 272 | 82 | Bon Jovi |
+| 273 | 82 | Bridget Stevens |
+| 274 | 82 | Codey Haffner |
+| 275 | 82 | Jen Smith |
+| 276 | 81 | Nicole Colby McCloskey |
+| 277 | 81 | Stasia |
+| 278 | 81 | Janae Harris |
+| 279 | 81 | Lively Cascadebuilder |
+| 280 | 80 | Krista Diaz |
+| 281 | 80 | Josh Keith Travierso |
+| 282 | 80 | Maurice DeJean |
+| 283 | 80 | Carla Woodard |
+| 284 | 80 | Danny Frausto |
 | 285 | 79 | Snazzy Corner |
-| 286 | 79 | Audrianna Skaff |
-| 287 | 79 | Has2brat |
-| 288 | 79 | Miwa |
-| 289 | 79 | Playa |
-| 290 | 79 | Joyce Myers |
-| 291 | 79 | JoAnn Summerlot Ratliff |
-| 292 | 79 | Courtney Niichole |
-| 293 | 78 | Blockcrusher |
-| 294 | 78 | Stef |
-| 295 | 78 | Diana Fernandez |
+| 286 | 79 | Gean DeJesus |
+| 287 | 79 | Audrianna Skaff |
+| 288 | 79 | Has2brat |
+| 289 | 79 | Miwa |
+| 290 | 79 | Playa |
+| 291 | 79 | Joyce Myers |
+| 292 | 79 | JoAnn Summerlot Ratliff |
+| 293 | 79 | Courtney Niichole |
+| 294 | 78 | Blockcrusher |
+| 295 | 78 | Stef |
 | 296 | 77 | Tipsy Zonebuilder |
 | 297 | 77 | Melissa Quinn |
 | 298 | 77 | Mrs |

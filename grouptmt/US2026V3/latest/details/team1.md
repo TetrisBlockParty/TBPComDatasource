@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 12:38:16 UTC
+# Standings for team1 as of 2026-06-06 12:38:37 UTC
 
 **Total Participants:** 982
 
@@ -141,8 +141,8 @@
 | 133 | 196 | Eugina Slater |
 | 134 | 194 | Daris Swearington |
 | 135 | 193 | Brave Clearbuilder |
-| 136 | 192 | David Fuentes |
-| 137 | 192 | Jonathan Vee Jay |
+| 136 | 192 | Jonathan Vee Jay |
+| 137 | 192 | David Fuentes |
 | 138 | 190 | Davionte DaeDae Hopson-Rodriguez |
 | 139 | 186 | Denise B |
 | 140 | 185 | Teddy Davis |
@@ -151,48 +151,48 @@
 | 143 | 181 | Joey Albright |
 | 144 | 179 | Kelli Couture |
 | 145 | 179 | ♈️ Ariesbaby |
-| 146 | 176 | Nikki Hogan |
-| 147 | 176 | Andre Sanon |
+| 146 | 176 | Andre Sanon |
+| 147 | 176 | Nikki Hogan |
 | 148 | 175 | Rayshawn Cohen |
 | 149 | 171 | Boldy Liner |
 | 150 | 169 | Asha Langford |
 | 151 | 167 | Marcheta Cervantez |
 | 152 | 166 | Tarnisha Neicy Jones |
 | 153 | 163 | Mafio SO |
-| 154 | 160 | Zippy Lifter |
-| 155 | 160 | Sara Meri |
-| 156 | 160 | DaGuy |
+| 154 | 160 | Sara Meri |
+| 155 | 160 | DaGuy |
+| 156 | 160 | Zippy Lifter |
 | 157 | 158 | Tina Mitchell |
-| 158 | 156 | Jessica Russell |
-| 159 | 156 | Anthony Washington |
+| 158 | 156 | Anthony Washington |
+| 159 | 156 | Jessica Russell |
 | 160 | 155 | Jawaun Daniels |
 | 161 | 147 | MACHETEEDDIE513 |
-| 162 | 146 | Jai |
-| 163 | 146 | BlackQueen105 |
+| 162 | 146 | BlackQueen105 |
+| 163 | 146 | Jai |
 | 164 | 140 | Ann Chung |
 | 165 | 140 | Antoinette Jones |
 | 166 | 138 | JaClanDiah |
 | 167 | 138 | Lashaunda |
-| 168 | 135 | Sean White |
-| 169 | 135 | Dawn L Washington-Feuquay |
-| 170 | 135 | Amber Wilson |
+| 168 | 135 | Amber Wilson |
+| 169 | 135 | Sean White |
+| 170 | 135 | Dawn L Washington-Feuquay |
 | 171 | 134 | Lively Riserpiece |
-| 172 | 133 | Byron Mario Cawthon |
-| 173 | 132 | Jolly Tilefall |
-| 174 | 131 | TBABYJ |
-| 175 | 130 | Rolanda Williams |
-| 176 | 130 | Emily Wright |
+| 172 | 133 | Ebony Waynes-robinson |
+| 173 | 133 | Byron Mario Cawthon |
+| 174 | 132 | Jolly Tilefall |
+| 175 | 131 | TBABYJ |
+| 176 | 130 | Rolanda Williams |
 | 177 | 130 | Jessica Davis |
-| 178 | 130 | Dion Gray |
-| 179 | 127 | IThinkNot |
-| 180 | 126 | Cee Emm |
-| 181 | 126 | Stephen Providenti |
-| 182 | 126 | Tremaine Hiler |
-| 183 | 125 | Latisha Fairley |
-| 184 | 125 | LaTonya Myers |
-| 185 | 124 | Queenie Perry |
-| 186 | 124 | Courtney Cicoria |
-| 187 | 123 | Ebony Waynes-robinson |
+| 178 | 130 | Emily Wright |
+| 179 | 130 | Dion Gray |
+| 180 | 127 | IThinkNot |
+| 181 | 126 | Cee Emm |
+| 182 | 126 | Stephen Providenti |
+| 183 | 126 | Tremaine Hiler |
+| 184 | 125 | Latisha Fairley |
+| 185 | 125 | LaTonya Myers |
+| 186 | 124 | Queenie Perry |
+| 187 | 124 | Courtney Cicoria |
 | 188 | 123 | Lisa Fletcher |
 | 189 | 122 | Miera Nicole |
 | 190 | 121 | Tiana Monique |
