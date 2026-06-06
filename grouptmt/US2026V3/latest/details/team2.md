@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 22:12:18 UTC
+# Standings for team2 as of 2026-06-06 22:12:40 UTC
 
 **Total Participants:** 1404
 
@@ -70,20 +70,20 @@
 | 62 | 824 | Helen Thomas |
 | 63 | 819 | Beverly Lynn Mills |
 | 64 | 799 | Elizabeth Sallas |
-| 65 | 779 | Marie Luciano |
-| 66 | 774 | Deborah Boyce Minor |
-| 67 | 771 | Charlie Wilson |
-| 68 | 749 | Marquita Toliver |
-| 69 | 746 | Giddy Slamdrop |
+| 65 | 782 | Giddy Slamdrop |
+| 66 | 779 | Marie Luciano |
+| 67 | 774 | Deborah Boyce Minor |
+| 68 | 771 | Charlie Wilson |
+| 69 | 749 | Marquita Toliver |
 | 70 | 732 | Amber Salazar |
 | 71 | 726 | Sarah Griffey |
 | 72 | 724 | Jazzy Faller |
 | 73 | 715 | Hoppy Rotate |
 | 74 | 714 | Andre Love |
-| 75 | 702 | Charley Bedford |
-| 76 | 700 | Denise Potter |
-| 77 | 694 | Angie Mccain |
-| 78 | 685 | Marquetta Johnson |
+| 75 | 705 | Marquetta Johnson |
+| 76 | 702 | Charley Bedford |
+| 77 | 700 | Denise Potter |
+| 78 | 694 | Angie Mccain |
 | 79 | 671 | Brandi Thompson |
 | 80 | 647 | Loopy Cascadepiece |
 | 81 | 632 | Wmk Rathbun |
@@ -186,10 +186,10 @@
 | 178 | 233 | Keri Mears |
 | 179 | 232 | Pam Bauder Ludwig |
 | 180 | 230 | Brandy Chinelle |
-| 181 | 226 | haune |
-| 182 | 224 | Kathleen Keogh Van Schoyck |
-| 183 | 224 | Lush Party |
-| 184 | 223 | Ashley Billiot Rhodes |
+| 181 | 228 | Ashley Billiot Rhodes |
+| 182 | 226 | haune |
+| 183 | 224 | Kathleen Keogh Van Schoyck |
+| 184 | 224 | Lush Party |
 | 185 | 223 | Danielle Blount |
 | 186 | 220 | Flashy Basegrid |
 | 187 | 220 | Melissa Thomas |
@@ -1294,122 +1294,122 @@
 | 1286 | 10 | Ducky West |
 | 1287 | 10 | Twisty Snapclear |
 | 1288 | 10 | Cardisa Hall |
-| 1289 | 10 | Sharon Wade |
-| 1290 | 10 | Frothy Line |
-| 1291 | 10 | Lisa Schwobe |
+| 1289 | 10 | Mike Clements |
+| 1290 | 10 | Lisa Schwobe |
+| 1291 | 10 | Frothy Line |
 | 1292 | 10 | Loriane Shumate Griggs |
 | 1293 | 10 | Bold Blockline |
 | 1294 | 10 | Aguilar Rita |
 | 1295 | 10 | Daily Findery |
-| 1296 | 10 | Jami Borges |
-| 1297 | 10 | Angiela Hope Boggs |
-| 1298 | 10 | FinnsDad |
+| 1296 | 10 | Angiela Hope Boggs |
+| 1297 | 10 | Jami Borges |
+| 1298 | 10 | Sharon Wade |
 | 1299 | 10 | David Starmer |
-| 1300 | 10 | Rick Green |
-| 1301 | 10 | Chipper Zigzag |
-| 1302 | 10 | TyShantelle |
+| 1300 | 10 | Chipper Zigzag |
+| 1301 | 10 | TyShantelle |
+| 1302 | 10 | Rick Green |
 | 1303 | 10 | Lacey Johnson |
 | 1304 | 10 | Erin Marie Smith |
 | 1305 | 10 | Steve Appel |
 | 1306 | 10 | Jennifer Gould |
-| 1307 | 10 | Mitsy Lang |
-| 1308 | 10 | Danh Nguyen |
-| 1309 | 10 | Stacy Lynn |
-| 1310 | 10 | Joe Duffer |
-| 1311 | 10 | Dhelsie Qurasima |
-| 1312 | 10 | foxxiebby |
-| 1313 | 10 | Mike Clements |
-| 1314 | 10 | Melanie Hernandez |
-| 1315 | 10 | Ashley Bryant-hatcher |
-| 1316 | 10 | Dawnie Rodarte |
-| 1317 | 10 | Sam Schwieso |
-| 1318 | 10 | Witty Matchfit |
-| 1319 | 10 | Celeste Duet |
-| 1320 | 10 | Emma Danielle Wynn |
-| 1321 | 10 | Happy Riseclear |
-| 1322 | 10 | Jay Theriault |
-| 1323 | 9 | Gigi |
-| 1324 | 9 | Lindsey Butler |
-| 1325 | 9 | Giggly Spinblock |
-| 1326 | 9 | Sami Amato |
-| 1327 | 9 | Erica |
-| 1328 | 9 | Kylee Pruitt |
-| 1329 | 9 | Snazzy Cascadezone |
+| 1307 | 10 | Jay Theriault |
+| 1308 | 10 | FinnsDad |
+| 1309 | 10 | Happy Riseclear |
+| 1310 | 10 | Emma Danielle Wynn |
+| 1311 | 10 | Celeste Duet |
+| 1312 | 10 | Melanie Hernandez |
+| 1313 | 10 | foxxiebby |
+| 1314 | 10 | Danh Nguyen |
+| 1315 | 10 | Stacy Lynn |
+| 1316 | 10 | Joe Duffer |
+| 1317 | 10 | Dhelsie Qurasima |
+| 1318 | 10 | Ashley Bryant-hatcher |
+| 1319 | 10 | Mitsy Lang |
+| 1320 | 10 | Dawnie Rodarte |
+| 1321 | 10 | Sam Schwieso |
+| 1322 | 10 | Witty Matchfit |
+| 1323 | 9 | Erica |
+| 1324 | 9 | Gigi |
+| 1325 | 9 | Sami Amato |
+| 1326 | 9 | Giggly Spinblock |
+| 1327 | 9 | Kylee Pruitt |
+| 1328 | 9 | Snazzy Cascadezone |
+| 1329 | 9 | Andrea |
 | 1330 | 9 | Frothy Cascader |
-| 1331 | 9 | Cheery Striker |
-| 1332 | 9 | Miguel360 |
+| 1331 | 9 | Lindsey Butler |
+| 1332 | 9 | Cheery Striker |
 | 1333 | 9 | Holly |
-| 1334 | 9 | April Wright |
-| 1335 | 9 | Terri Ramsey |
-| 1336 | 9 | Latrell Thomas |
-| 1337 | 9 | Tabitha Porter |
-| 1338 | 9 | Bethany Gerber |
-| 1339 | 9 | Jeff Mullins |
-| 1340 | 9 | Phyllis DiCristo |
-| 1341 | 8 | SueEllen Hawkins |
-| 1342 | 8 | Funky Slide |
-| 1343 | 8 | Jenna Thorn |
-| 1344 | 8 | Jumpy Twistslam |
-| 1345 | 8 | Alisha Shelton |
-| 1346 | 8 | Beth Engberg |
-| 1347 | 8 | Mariah Mandel |
-| 1348 | 8 | Sarah Elizabeth Foret |
+| 1334 | 9 | Phyllis DiCristo |
+| 1335 | 9 | Tabitha Porter |
+| 1336 | 9 | Bethany Gerber |
+| 1337 | 9 | Jeff Mullins |
+| 1338 | 9 | April Wright |
+| 1339 | 9 | Terri Ramsey |
+| 1340 | 9 | Latrell Thomas |
+| 1341 | 9 | Miguel360 |
+| 1342 | 8 | LivePhoenix |
+| 1343 | 8 | Jumpy Twistslam |
+| 1344 | 8 | Sarah Elizabeth Foret |
+| 1345 | 8 | Kennadee Albertson |
+| 1346 | 8 | Mariah Mandel |
+| 1347 | 8 | Funky Slide |
+| 1348 | 8 | Jenna Thorn |
 | 1349 | 8 | Tina Doyens Munis |
-| 1350 | 8 | Crystal Alexander |
-| 1351 | 8 | Loony Ziggy |
+| 1350 | 8 | Beth Engberg |
+| 1351 | 8 | Alisha Shelton |
 | 1352 | 8 | Jackie Hayslip |
-| 1353 | 8 | Kennadee Albertson |
-| 1354 | 8 | LivePhoenix |
-| 1355 | 8 | Zippy Balance |
-| 1356 | 8 | Angela Oates-Killebrew |
-| 1357 | 7 | Elizabeth Elaine Coursey |
-| 1358 | 7 | Holly Riley |
-| 1359 | 7 | Collins |
-| 1360 | 7 | Liz Wilkerson |
-| 1361 | 7 | StacyK |
-| 1362 | 7 | Crystal King |
-| 1363 | 7 | Mike Honcho |
-| 1364 | 7 | Janice Simpson |
-| 1365 | 7 | michael |
-| 1366 | 7 | Mighty Piecebuilder |
+| 1353 | 8 | Zippy Balance |
+| 1354 | 8 | SueEllen Hawkins |
+| 1355 | 8 | Loony Ziggy |
+| 1356 | 8 | Crystal Alexander |
+| 1357 | 8 | Angela Oates-Killebrew |
+| 1358 | 7 | michael |
+| 1359 | 7 | Mighty Piecebuilder |
+| 1360 | 7 | Crystal King |
+| 1361 | 7 | Sasha Hamilton |
+| 1362 | 7 | Janice Simpson |
+| 1363 | 7 | StacyK |
+| 1364 | 7 | Collins |
+| 1365 | 7 | Beth |
+| 1366 | 7 | Liz Wilkerson |
 | 1367 | 7 | Kacey Lindemuth |
-| 1368 | 7 | Sasha Hamilton |
-| 1369 | 7 | Brenda Ohaus Facher |
-| 1370 | 7 | Rochelle O'Loughlin |
-| 1371 | 7 | Beth |
-| 1372 | 7 | Flashy Cascadeclear |
-| 1373 | 7 | Sam Blinn |
-| 1374 | 6 | Celeste Samuels |
-| 1375 | 6 | Jessie |
-| 1376 | 6 | Amanda Knox |
-| 1377 | 6 | Jager |
-| 1378 | 6 | Cheeky Dashpiece |
-| 1379 | 6 | Monica Gonzalez Rios |
-| 1380 | 6 | Alicia Abston |
-| 1381 | 6 | Marshall Payne |
-| 1382 | 6 | Bowling girl |
-| 1383 | 6 | Lou Sassole |
+| 1368 | 7 | Flashy Cascadeclear |
+| 1369 | 7 | Elizabeth Elaine Coursey |
+| 1370 | 7 | Holly Riley |
+| 1371 | 7 | Sam Blinn |
+| 1372 | 7 | Rochelle O'Loughlin |
+| 1373 | 7 | Brenda Ohaus Facher |
+| 1374 | 7 | Mike Honcho |
+| 1375 | 6 | Jager |
+| 1376 | 6 | Bunny Bt |
+| 1377 | 6 | Marshall Payne |
+| 1378 | 6 | Giggy Dropzone |
+| 1379 | 6 | Cara Douglas |
+| 1380 | 6 | Cheeky Dashpiece |
+| 1381 | 6 | Amanda Knox |
+| 1382 | 6 | Lou Sassole |
+| 1383 | 6 | Jessie |
 | 1384 | 6 | Michelle Brown |
-| 1385 | 6 | Cara Douglas |
-| 1386 | 6 | Giggy Dropzone |
-| 1387 | 6 | Bunny Bt |
-| 1388 | 5 | Andrea |
-| 1389 | 5 | Chirpy Towerer |
-| 1390 | 5 | Jennifer Mauler Schmidt |
-| 1391 | 5 | Michelle |
-| 1392 | 5 | Mercedes Lowery |
-| 1393 | 5 | Flynn Flibble |
-| 1394 | 5 | Mala Phonchanthasone |
-| 1395 | 5 | Nikki |
+| 1385 | 6 | Monica Gonzalez Rios |
+| 1386 | 6 | Celeste Samuels |
+| 1387 | 6 | Alicia Abston |
+| 1388 | 6 | Bowling girl |
+| 1389 | 5 | Jennifer Roper Stanley |
+| 1390 | 5 | Michelle |
+| 1391 | 5 | Mala Phonchanthasone |
+| 1392 | 5 | Chirpy Towerer |
+| 1393 | 5 | Snappy Zonepiece |
+| 1394 | 5 | Jon Torres |
+| 1395 | 5 | Errkuh |
 | 1396 | 5 | Agnes Gable |
-| 1397 | 5 | Nolife |
-| 1398 | 5 | Ashlee Johnson |
+| 1397 | 5 | Dapper Clearpiece |
+| 1398 | 5 | Jennifer Mauler Schmidt |
 | 1399 | 5 | Brittany Weatherspoon |
-| 1400 | 5 | Errkuh |
-| 1401 | 5 | Dapper Clearpiece |
-| 1402 | 5 | Snappy Zonepiece |
-| 1403 | 5 | Jon Torres |
-| 1404 | 5 | Jennifer Roper Stanley |
+| 1400 | 5 | Flynn Flibble |
+| 1401 | 5 | Ashlee Johnson |
+| 1402 | 5 | Nolife |
+| 1403 | 5 | Mercedes Lowery |
+| 1404 | 5 | Nikki |
 
 ---
 *Standings created by tournaments datasource generation tool*
