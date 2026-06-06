@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 05:46:15 UTC
+# Standings for team4 as of 2026-06-06 05:46:38 UTC
 
 **Total Participants:** 840
 
@@ -139,10 +139,10 @@
 | 131 | 134 | Loony Rotater |
 | 132 | 133 | Shawntae Mccary |
 | 133 | 132 | Spicy Chicken |
-| 134 | 129 | Brainbabe |
-| 135 | 129 | Lani |
-| 136 | 129 | Ryan Paul Clark-Ramsey |
-| 137 | 129 | Slimm |
+| 134 | 132 | Slimm |
+| 135 | 129 | Brainbabe |
+| 136 | 129 | Lani |
+| 137 | 129 | Ryan Paul Clark-Ramsey |
 | 138 | 128 | Crystal Hammonds |
 | 139 | 127 | Tipsy Builderline |
 | 140 | 126 | Alyson M Kehler |
