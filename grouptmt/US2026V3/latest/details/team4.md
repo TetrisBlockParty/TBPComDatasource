@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 05:34:38 UTC
+# Standings for team4 as of 2026-06-06 05:35:15 UTC
 
 **Total Participants:** 832
 
@@ -21,7 +21,7 @@
 | 13 | 2998 | Tyra Brooke Everman Forest |
 | 14 | 2833 | Irene Arreguin |
 | 15 | 2353 | Daring Ziggy |
-| 16 | 1918 | Lisa Cullum |
+| 16 | 1993 | Lisa Cullum |
 | 17 | 1102 | Hanan Hana |
 | 18 | 1059 | Squirrel Donkey |
 | 19 | 1055 | Michele Walker |
