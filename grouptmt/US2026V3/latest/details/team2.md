@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 18:18:16 UTC
+# Standings for team2 as of 2026-06-06 18:18:39 UTC
 
 **Total Participants:** 1304
 
@@ -32,7 +32,7 @@
 | 24 | 2620 | Sean Rippa |
 | 25 | 2500 | Anthony Lilley |
 | 26 | 2353 | Angie BBlock |
-| 27 | 2057 | Spunky Clicker |
+| 27 | 2087 | Spunky Clicker |
 | 28 | 1957 | Lola C Davis |
 | 29 | 1906 | Jennifer Corder |
 | 30 | 1887 | Charles Varca |
@@ -275,16 +275,16 @@
 | 267 | 132 | Alison Waller |
 | 268 | 132 | Amy Lea Hamilton |
 | 269 | 132 | Spunky Cascadeclear |
-| 270 | 130 | Precious Womack |
-| 271 | 130 | Jason Cunningham |
-| 272 | 130 | ZBee |
-| 273 | 129 | Sandy Justus |
-| 274 | 129 | Loopy Tower |
-| 275 | 129 | Armando Sabedra |
-| 276 | 129 | Belle |
-| 277 | 128 | Teddy Williams |
-| 278 | 127 | Monique Frantz |
-| 279 | 126 | Danielle Blount |
+| 270 | 131 | Danielle Blount |
+| 271 | 130 | Precious Womack |
+| 272 | 130 | Jason Cunningham |
+| 273 | 130 | ZBee |
+| 274 | 129 | Sandy Justus |
+| 275 | 129 | Loopy Tower |
+| 276 | 129 | Armando Sabedra |
+| 277 | 129 | Belle |
+| 278 | 128 | Teddy Williams |
+| 279 | 127 | Monique Frantz |
 | 280 | 126 | Teresa Mandich |
 | 281 | 125 | Ariel Gundersen |
 | 282 | 125 | Jackie Tupper |

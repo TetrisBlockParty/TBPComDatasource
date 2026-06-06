@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 18:18:16 UTC
+# Standings for team1 as of 2026-06-06 18:18:39 UTC
 
 **Total Participants:** 1098
 
@@ -327,57 +327,57 @@
 | 319 | 88 | QueenShay AllGood |
 | 320 | 88 | Kristie |
 | 321 | 87 | Poppy Buildout |
-| 322 | 86 | krd |
+| 322 | 86 | MommaCia |
 | 323 | 86 | Chummy Frame |
 | 324 | 86 | Yashica Smith |
-| 325 | 85 | Lynnette WheelerBushnell |
-| 326 | 85 | Jae Thompson-Tyus |
-| 327 | 85 | Kate Hancock Malicek |
-| 328 | 84 | kitten |
-| 329 | 84 | Franklin Sotelo |
-| 330 | 83 | Shameka Thrasher |
+| 325 | 86 | krd |
+| 326 | 85 | Lynnette WheelerBushnell |
+| 327 | 85 | Jae Thompson-Tyus |
+| 328 | 85 | Kate Hancock Malicek |
+| 329 | 84 | kitten |
+| 330 | 84 | Franklin Sotelo |
 | 331 | 83 | MrsMeadows2019 |
-| 332 | 82 | Cachet A Ward |
-| 333 | 82 | Peppy Glider |
-| 334 | 82 | Christi Walker Patton |
-| 335 | 82 | Angela Brown Babin |
-| 336 | 82 | Breezy Catcher |
-| 337 | 81 | Sarah Steckbauer |
-| 338 | 81 | Cynthia Cruell |
-| 339 | 81 | rls |
-| 340 | 81 | Therealdywoune Peay |
-| 341 | 80 | Smiley Clearpiece |
-| 342 | 80 | Lilly Brown |
-| 343 | 80 | Tracey Johnson |
-| 344 | 80 | Chevalier Burley |
-| 345 | 80 | Trina Greenwood |
-| 346 | 80 | Nyhlah Patterson |
-| 347 | 80 | Lester Malone |
-| 348 | 80 | Latore Maxie |
-| 349 | 80 | Charles Johnson |
-| 350 | 80 | Li-Li Ratliff |
-| 351 | 80 | NedaWin |
-| 352 | 80 | Nickeya Phillips |
-| 353 | 80 | MommaCia |
+| 332 | 83 | Shameka Thrasher |
+| 333 | 82 | Cachet A Ward |
+| 334 | 82 | Peppy Glider |
+| 335 | 82 | Christi Walker Patton |
+| 336 | 82 | Angela Brown Babin |
+| 337 | 82 | Breezy Catcher |
+| 338 | 81 | Sarah Steckbauer |
+| 339 | 81 | Cynthia Cruell |
+| 340 | 81 | rls |
+| 341 | 81 | Therealdywoune Peay |
+| 342 | 80 | Nickeya Phillips |
+| 343 | 80 | Lilly Brown |
+| 344 | 80 | Tracey Johnson |
+| 345 | 80 | Chevalier Burley |
+| 346 | 80 | Trina Greenwood |
+| 347 | 80 | Nyhlah Patterson |
+| 348 | 80 | Lester Malone |
+| 349 | 80 | Latore Maxie |
+| 350 | 80 | Charles Johnson |
+| 351 | 80 | Li-Li Ratliff |
+| 352 | 80 | Smiley Clearpiece |
+| 353 | 80 | NedaWin |
 | 354 | 80 | Natalie Burroughs |
 | 355 | 79 | Loopy Tiler |
-| 356 | 79 | Douglas Price |
-| 357 | 79 | Brand Nu |
-| 358 | 79 | Montréal Mars |
-| 359 | 79 | CJ Robinson |
-| 360 | 79 | Tracy Feyler |
+| 356 | 79 | Brand Nu |
+| 357 | 79 | Tracy Feyler |
+| 358 | 79 | CJ Robinson |
+| 359 | 79 | Montréal Mars |
+| 360 | 79 | Douglas Price |
 | 361 | 78 | Shameka Tiffany |
 | 362 | 78 | KeeKee Williams |
 | 363 | 77 | C Lo Green |
-| 364 | 76 | Cm |
-| 365 | 76 | Jelyfish |
-| 366 | 76 | Rene Hicks |
-| 367 | 76 | Donna Payne |
-| 368 | 76 | Giggly Shatterline |
+| 364 | 76 | Jelyfish |
+| 365 | 76 | Giggly Shatterline |
+| 366 | 76 | Cm |
+| 367 | 76 | Rene Hicks |
+| 368 | 76 | Donna Payne |
 | 369 | 76 | Jackytrain52 |
-| 370 | 75 | Kimberly Noble |
-| 371 | 75 | Jayjay Rich |
-| 372 | 75 | BabyCakes |
+| 370 | 75 | Jayjay Rich |
+| 371 | 75 | BabyCakes |
+| 372 | 75 | Kimberly Noble |
 | 373 | 75 | Courtney Robinson |
 | 374 | 74 | Tetrisdestroyer |
 | 375 | 74 | Sonia Binti Mfalme |
