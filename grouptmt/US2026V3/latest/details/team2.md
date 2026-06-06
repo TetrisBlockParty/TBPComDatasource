@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 08:18:37 UTC
+# Standings for team2 as of 2026-06-06 08:19:16 UTC
 
 **Total Participants:** 1077
 
@@ -73,11 +73,11 @@
 | 65 | 500 | Denise Potter |
 | 66 | 497 | Lindsay Klemp |
 | 67 | 494 | Shandrea Crawford |
-| 68 | 468 | Amy Gale |
-| 69 | 467 | Brandon Link |
-| 70 | 465 | Andre Love |
-| 71 | 461 | Ricardo Ewart |
-| 72 | 453 | Helen Thomas |
+| 68 | 493 | Helen Thomas |
+| 69 | 475 | Andre Love |
+| 70 | 468 | Amy Gale |
+| 71 | 467 | Brandon Link |
+| 72 | 461 | Ricardo Ewart |
 | 73 | 451 | Marquita Toliver |
 | 74 | 449 | Mikki Torres |
 | 75 | 449 | Poppy |
@@ -90,12 +90,12 @@
 | 82 | 390 | La chulis |
 | 83 | 389 | Kimberly Cowan |
 | 84 | 354 | Branden Frankowski |
-| 85 | 345 | Smiley Dropper |
-| 86 | 345 | Marquetta Johnson |
+| 85 | 345 | Marquetta Johnson |
+| 86 | 345 | Smiley Dropper |
 | 87 | 342 | Tom Badgley |
 | 88 | 340 | Courtney McCulley |
-| 89 | 335 | MaddieCherie |
-| 90 | 335 | Kaycie Shaffer |
+| 89 | 335 | Kaycie Shaffer |
+| 90 | 335 | MaddieCherie |
 | 91 | 328 | Tim Tim |
 | 92 | 319 | Michelle Rich Burkhart |
 | 93 | 317 | Ruby Sandberg |
@@ -111,8 +111,8 @@
 | 103 | 275 | Bubbly Strikerpiece |
 | 104 | 263 | Sarah Griffey |
 | 105 | 258 | Erin Thomas |
-| 106 | 253 | Hilliary Beyer |
-| 107 | 253 | Heather Burgett |
+| 106 | 253 | Heather Burgett |
+| 107 | 253 | Hilliary Beyer |
 | 108 | 251 | Angie Kowalsky Olson |
 | 109 | 250 | Wmk Rathbun |
 | 110 | 249 | Flashy Twistline |
@@ -123,17 +123,17 @@
 | 115 | 230 | Brandy Chinelle |
 | 116 | 228 | Keri Mears |
 | 117 | 227 | Brittni Lawrence |
-| 118 | 218 | Amy Nicole McCanne |
-| 119 | 218 | Fudgie Pie |
+| 118 | 218 | Fudgie Pie |
+| 119 | 218 | Amy Nicole McCanne |
 | 120 | 215 | Ashley Green |
 | 121 | 211 | Krisanne Kesner-Lonsby |
 | 122 | 204 | Deborah Boyce Minor |
 | 123 | 201 | Danielle Pack Lewellen |
 | 124 | 200 | Lisa Breiding |
 | 125 | 200 | Sarah Grundisch |
-| 126 | 199 | Beverly Lynn Mills |
+| 126 | 199 | Amber Cogdill |
 | 127 | 199 | Stella |
-| 128 | 199 | Amber Cogdill |
+| 128 | 199 | Beverly Lynn Mills |
 | 129 | 197 | Nawang Nawang |
 | 130 | 197 | Dallas Runyan |
 | 131 | 197 | Eric Wayne Maschman |
@@ -142,17 +142,17 @@
 | 134 | 187 | Laura Melton |
 | 135 | 185 | Logan Duffey |
 | 136 | 184 | Lush Party |
-| 137 | 179 | Jeanna Mendez |
-| 138 | 179 | Nathan Walker |
+| 137 | 179 | Nathan Walker |
+| 138 | 179 | Jeanna Mendez |
 | 139 | 177 | Xandrea Jones |
 | 140 | 175 | Chipper Stackbuilder |
 | 141 | 174 | Nettrainer |
 | 142 | 170 | Kelly Vedder |
 | 143 | 168 | Missy Renia |
 | 144 | 167 | Zarah Kettler |
-| 145 | 165 | Ackerman 85 |
-| 146 | 165 | Karen Reid Cenkush |
-| 147 | 165 | Olivia Jefferson |
+| 145 | 165 | Olivia Jefferson |
+| 146 | 165 | Ackerman 85 |
+| 147 | 165 | Karen Reid Cenkush |
 | 148 | 164 | Jerry L Morales |
 | 149 | 164 | Melissa Nash |
 | 150 | 163 | Zany Cascader |
@@ -160,8 +160,8 @@
 | 152 | 162 | Larry Cross |
 | 153 | 161 | Boldy Wobbler |
 | 154 | 160 | Linda Guay |
-| 155 | 160 | snowwol |
-| 156 | 160 | Sarah Mccolgan |
+| 155 | 160 | Sarah Mccolgan |
+| 156 | 160 | snowwol |
 | 157 | 159 | Cara Rivera |
 | 158 | 157 | Santara Ferguson |
 | 159 | 155 | Zany Blockclear |
