@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 01:10:16 UTC
+# Standings for team1 as of 2026-06-06 01:10:38 UTC
 
 **Total Participants:** 667
 
@@ -657,14 +657,14 @@
 | 649 | 5 | Temeshia Brooks Washington |
 | 650 | 5 | Jennifer Moore |
 | 651 | 5 | Logan Frost |
-| 652 | 5 | Andre Sanon |
-| 653 | 5 | DirtiestofMikes |
-| 654 | 5 | Shona ShayShay Jones |
-| 655 | 5 | Hasty Brickzone |
-| 656 | 5 | Jasmine Hariston-Estis |
-| 657 | 5 | Stephanie Zuniga Tullock |
-| 658 | 5 | Derek Beverly |
-| 659 | 5 | Lil T |
+| 652 | 5 | DirtiestofMikes |
+| 653 | 5 | Shona ShayShay Jones |
+| 654 | 5 | Hasty Brickzone |
+| 655 | 5 | Jasmine Hariston-Estis |
+| 656 | 5 | Stephanie Zuniga Tullock |
+| 657 | 5 | Derek Beverly |
+| 658 | 5 | Lil T |
+| 659 | 5 | Sara |
 | 660 | 5 | Chill Linkroll |
 | 661 | 5 | the guy |
 | 662 | 5 | Tito Divyn |
@@ -672,7 +672,7 @@
 | 664 | 5 | Tamika Fisher |
 | 665 | 5 | Zappy Clearfit |
 | 666 | 5 | Duckey |
-| 667 | 5 | Sara |
+| 667 | 5 | Andre Sanon |
 
 ---
 *Standings created by tournaments datasource generation tool*
