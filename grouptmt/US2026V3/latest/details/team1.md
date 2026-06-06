@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 02:10:17 UTC
+# Standings for team1 as of 2026-06-06 02:10:39 UTC
 
 **Total Participants:** 714
 
@@ -25,7 +25,7 @@
 | 17 | 842 | Chris Russell |
 | 18 | 749 | Aviv Zehavi |
 | 19 | 745 | Pdubbl3 |
-| 20 | 697 | Brian Bohanon II |
+| 20 | 734 | Brian Bohanon II |
 | 21 | 682 | Jon Gathers |
 | 22 | 674 | Holly Jolly |
 | 23 | 650 | Hunter Rayborn |
