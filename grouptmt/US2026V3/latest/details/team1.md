@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 19:14:38 UTC
+# Standings for team1 as of 2026-06-06 19:15:18 UTC
 
 **Total Participants:** 1122
 
@@ -82,9 +82,9 @@
 | 74 | 471 | D'Andra Stewart |
 | 75 | 458 | Chenell Gillard |
 | 76 | 454 | DaVonte' Cretter |
-| 77 | 448 | Chirpy Corner |
-| 78 | 448 | Ottison Dianna |
-| 79 | 445 | Kimberly Hernandez |
+| 77 | 453 | Kimberly Hernandez |
+| 78 | 448 | Chirpy Corner |
+| 79 | 448 | Ottison Dianna |
 | 80 | 439 | Asani CHumba |
 | 81 | 434 | Todd C. Clemens |
 | 82 | 434 | Gotcha |
@@ -166,24 +166,24 @@
 | 158 | 206 | Weeze |
 | 159 | 205 | Tishauna Virgo |
 | 160 | 200 | Felicia Cain |
-| 161 | 199 | Teddy Davis |
-| 162 | 199 | Lashaunda |
+| 161 | 199 | Lashaunda |
+| 162 | 199 | Teddy Davis |
 | 163 | 198 | W.A. Simpson |
 | 164 | 197 | BYM4L |
 | 165 | 196 | Eugina Slater |
 | 166 | 195 | Christian Pham |
 | 167 | 194 | Daris Swearington |
 | 168 | 193 | Brave Clearbuilder |
-| 169 | 191 | Emily Wright |
-| 170 | 191 | Kelli Couture |
+| 169 | 191 | Kelli Couture |
+| 170 | 191 | Emily Wright |
 | 171 | 190 | Davionte DaeDae Hopson-Rodriguez |
 | 172 | 188 | Sharon Cail |
-| 173 | 185 | Rayshawn Cohen |
-| 174 | 184 | Robbie Cheeseman |
-| 175 | 184 | Dai Bo |
-| 176 | 184 | Frisky Fall |
-| 177 | 182 | Hyper Blocky |
-| 178 | 182 | Ebony Waynes-robinson |
+| 173 | 187 | Ebony Waynes-robinson |
+| 174 | 185 | Rayshawn Cohen |
+| 175 | 184 | Robbie Cheeseman |
+| 176 | 184 | Dai Bo |
+| 177 | 184 | Frisky Fall |
+| 178 | 182 | Hyper Blocky |
 | 179 | 179 | ♈️ Ariesbaby |
 | 180 | 179 | Amber Wilson |
 | 181 | 178 | Jazzy Fireflighters |
@@ -688,40 +688,40 @@
 | 680 | 36 | Lucy |
 | 681 | 36 | Jess |
 | 682 | 36 | Frilly Lifter |
-| 683 | 35 | Khatyrah Burnette |
-| 684 | 35 | Giggy Clusterer |
-| 685 | 35 | Sashaleo |
-| 686 | 35 | Falisa Bell |
-| 687 | 35 | Vivian Bunnell Myers |
-| 688 | 35 | Skye |
-| 689 | 35 | Amy Villalpando |
-| 690 | 35 | Crafty Link |
-| 691 | 35 | Hyedie Badie |
-| 692 | 35 | Happy Blocky |
+| 683 | 36 | Mom3granny2 |
+| 684 | 35 | Khatyrah Burnette |
+| 685 | 35 | Giggy Clusterer |
+| 686 | 35 | Sashaleo |
+| 687 | 35 | Falisa Bell |
+| 688 | 35 | Vivian Bunnell Myers |
+| 689 | 35 | Skye |
+| 690 | 35 | Amy Villalpando |
+| 691 | 35 | Crafty Link |
+| 692 | 35 | Hyedie Badie |
 | 693 | 35 | Brandy Jaszewski |
-| 694 | 34 | Sharee Robinson |
-| 695 | 34 | Alyssa H |
-| 696 | 34 | Shakmar |
-| 697 | 34 | Marbama |
-| 698 | 34 | Zayy Wavyy |
+| 694 | 35 | Happy Blocky |
+| 695 | 34 | Desi Guerra |
+| 696 | 34 | Sharee Robinson |
+| 697 | 34 | Witty Clear |
+| 698 | 34 | Latoya Carson |
 | 699 | 34 | Jeremy Pope |
-| 700 | 34 | Latoya Carson |
-| 701 | 34 | Desi Guerra |
-| 702 | 34 | Witty Clear |
-| 703 | 33 | Melanie Houghton-McCann |
-| 704 | 33 | Snippy Breaker |
+| 700 | 34 | Zayy Wavyy |
+| 701 | 34 | Marbama |
+| 702 | 34 | Shakmar |
+| 703 | 34 | Alyssa H |
+| 704 | 33 | Jodie |
 | 705 | 33 | Crtjstr |
-| 706 | 33 | Danielle Barthelme |
-| 707 | 33 | Jodie |
-| 708 | 33 | Tony P Burke |
-| 709 | 33 | Jason Saputo |
-| 710 | 33 | Mathew Trudell |
-| 711 | 33 | Koz176 |
-| 712 | 33 | Flash97 |
-| 713 | 33 | Kim Holzmiller |
-| 714 | 33 | Joseph Vs Cap |
-| 715 | 33 | P C |
-| 716 | 33 | Mom3granny2 |
+| 706 | 33 | Melanie Houghton-McCann |
+| 707 | 33 | Snippy Breaker |
+| 708 | 33 | Danielle Barthelme |
+| 709 | 33 | Tony P Burke |
+| 710 | 33 | Jason Saputo |
+| 711 | 33 | Mathew Trudell |
+| 712 | 33 | Koz176 |
+| 713 | 33 | Flash97 |
+| 714 | 33 | Kim Holzmiller |
+| 715 | 33 | Joseph Vs Cap |
+| 716 | 33 | P C |
 | 717 | 33 | Sara |
 | 718 | 33 | Krose Byers |
 | 719 | 33 | Danny M GR |
