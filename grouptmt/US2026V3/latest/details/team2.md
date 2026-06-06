@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 22:06:17 UTC
+# Standings for team2 as of 2026-06-06 22:06:42 UTC
 
 **Total Participants:** 1400
 
@@ -62,8 +62,8 @@
 | 54 | 942 | Dane Marko |
 | 55 | 901 | Block Dog |
 | 56 | 871 | Ber |
-| 57 | 859 | Angelica Jelli Gillaspy |
-| 58 | 857 | Rose Schaffner-Kibler |
+| 57 | 859 | Rose Schaffner-Kibler |
+| 58 | 859 | Angelica Jelli Gillaspy |
 | 59 | 835 | Mikki Torres |
 | 60 | 832 | Amber Triguero |
 | 61 | 826 | Gabriella Humphreys |
@@ -178,7 +178,7 @@
 | 170 | 247 | Fudgie Pie |
 | 171 | 247 | Brittni Lawrence |
 | 172 | 246 | Brooke Lynn Marie Adelaide |
-| 173 | 243 | Becca Marie |
+| 173 | 245 | Becca Marie |
 | 174 | 243 | Jessica Lynn |
 | 175 | 241 | Boldy Wobbler |
 | 176 | 240 | Iesha Cupil |
@@ -240,12 +240,12 @@
 | 232 | 177 | Xandrea Jones |
 | 233 | 177 | Jennifer McClure |
 | 234 | 176 | Glitzy Base |
-| 235 | 175 | Lashanda Bertram |
-| 236 | 174 | Olivia Jefferson |
-| 237 | 174 | Nettrainer |
-| 238 | 173 | Amie Marks |
-| 239 | 172 | Carolyn McNaughton |
-| 240 | 171 | Jackie Tupper |
+| 235 | 175 | Jackie Tupper |
+| 236 | 175 | Lashanda Bertram |
+| 237 | 174 | Olivia Jefferson |
+| 238 | 174 | Nettrainer |
+| 239 | 173 | Amie Marks |
+| 240 | 172 | Carolyn McNaughton |
 | 241 | 171 | Melissa Nash |
 | 242 | 170 | Loopy Dropper |
 | 243 | 170 | phamous1 |
@@ -268,7 +268,7 @@
 | 260 | 159 | Amanda Priddy |
 | 261 | 157 | Liseth Vasquez |
 | 262 | 155 | Zany Blockclear |
-| 263 | 154 | Rick |
+| 263 | 155 | Rick |
 | 264 | 152 | Gill |
 | 265 | 151 | Bengy Lead |
 | 266 | 151 | Marilyn Mendoza |
