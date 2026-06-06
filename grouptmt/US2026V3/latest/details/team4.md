@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 19:38:38 UTC
+# Standings for team4 as of 2026-06-06 19:39:17 UTC
 
 **Total Participants:** 1121
 
@@ -61,8 +61,8 @@
 | 53 | 644 | Kelly Bernard |
 | 54 | 630 | Chaz Duncan |
 | 55 | 629 | Keesha Muro |
-| 56 | 628 | Victoria Ver |
-| 57 | 628 | Adam J Leong |
+| 56 | 628 | Adam J Leong |
+| 57 | 628 | Victoria Ver |
 | 58 | 620 | Fancy Crasher |
 | 59 | 618 | Alala.Cersei |
 | 60 | 607 | Jeremy Lopez |
@@ -188,89 +188,89 @@
 | 180 | 164 | Stacy G |
 | 181 | 163 | Brandy Lynn |
 | 182 | 160 | Tipsy Builderline |
-| 183 | 159 | EL Booger |
-| 184 | 157 | ariel |
+| 183 | 160 | BCO22 |
+| 184 | 159 | EL Booger |
 | 185 | 157 | Mark Norton |
-| 186 | 155 | Shayna Vaigneur-Hall |
+| 186 | 157 | ariel |
 | 187 | 155 | Ryan Paul Clark-Ramsey |
-| 188 | 155 | Bonnie Powell |
-| 189 | 155 | Jackie Polanco |
-| 190 | 154 | No Time |
-| 191 | 153 | Laguya |
-| 192 | 152 | Bryan DjMagnum Evans |
-| 193 | 150 | gabs |
-| 194 | 150 | Sassy Column |
-| 195 | 150 | Janet Sanfilippo Sullivan |
-| 196 | 148 | Joseph Hunter |
-| 197 | 145 | Smiley Gridzone |
-| 198 | 144 | Lani |
-| 199 | 144 | Yesenia Castro Monreal |
-| 200 | 143 | Ashley Mcdonald |
-| 201 | 141 | Justin Michael |
-| 202 | 140 | adrian |
-| 203 | 139 | Jasmine Marie |
-| 204 | 138 | Tina Thomas |
-| 205 | 138 | Lush Fitblock |
-| 206 | 138 | Cheery Risegrid |
-| 207 | 137 | Shelby |
-| 208 | 135 | Quiomarie Cotto |
-| 209 | 134 | Loony Rotater |
-| 210 | 133 | June Hoffman |
-| 211 | 133 | BusterBear56 |
-| 212 | 133 | Shawntae Mccary |
-| 213 | 132 | Homie |
-| 214 | 131 | Tina Shalay Hayes |
-| 215 | 131 | Stasia |
-| 216 | 130 | Magz |
+| 188 | 155 | Jackie Polanco |
+| 189 | 155 | Shayna Vaigneur-Hall |
+| 190 | 155 | Bonnie Powell |
+| 191 | 154 | No Time |
+| 192 | 153 | Laguya |
+| 193 | 152 | Bryan DjMagnum Evans |
+| 194 | 150 | gabs |
+| 195 | 150 | Sassy Column |
+| 196 | 150 | Janet Sanfilippo Sullivan |
+| 197 | 148 | Joseph Hunter |
+| 198 | 145 | Smiley Gridzone |
+| 199 | 144 | Lani |
+| 200 | 144 | Yesenia Castro Monreal |
+| 201 | 143 | Ashley Mcdonald |
+| 202 | 141 | Justin Michael |
+| 203 | 140 | adrian |
+| 204 | 139 | Jasmine Marie |
+| 205 | 138 | Tina Thomas |
+| 206 | 138 | Lush Fitblock |
+| 207 | 138 | Cheery Risegrid |
+| 208 | 137 | Shelby |
+| 209 | 135 | Quiomarie Cotto |
+| 210 | 134 | Loony Rotater |
+| 211 | 133 | June Hoffman |
+| 212 | 133 | BusterBear56 |
+| 213 | 133 | Shawntae Mccary |
+| 214 | 132 | Homie |
+| 215 | 131 | Tina Shalay Hayes |
+| 216 | 131 | Stasia |
 | 217 | 130 | Fran Aaron-Ring |
-| 218 | 129 | Kelly Howland |
-| 219 | 129 | Shauna Davis |
-| 220 | 129 | Chris Covington |
-| 221 | 129 | Brainbabe |
-| 222 | 129 | Chilly Pivot |
-| 223 | 129 | Simone |
+| 218 | 130 | Magz |
+| 219 | 129 | Brainbabe |
+| 220 | 129 | Kelly Howland |
+| 221 | 129 | Chris Covington |
+| 222 | 129 | Simone |
+| 223 | 129 | Shauna Davis |
 | 224 | 129 | EvoKitty |
-| 225 | 128 | Bridget Stevens |
+| 225 | 129 | Chilly Pivot |
 | 226 | 128 | Jumpy Builderpiece |
-| 227 | 128 | Crystal Hammonds |
-| 228 | 128 | Cherrypir05 |
-| 229 | 127 | Samara Garcia |
-| 230 | 127 | BCO22 |
-| 231 | 127 | Alma López Morales |
+| 227 | 128 | Cherrypir05 |
+| 228 | 128 | Crystal Hammonds |
+| 229 | 128 | Bridget Stevens |
+| 230 | 127 | Alma López Morales |
+| 231 | 127 | Samara Garcia |
 | 232 | 127 | Cheeky Climber |
 | 233 | 126 | Corie A. Brinson |
 | 234 | 124 | Dapper Strikerpiece |
 | 235 | 124 | Rachel Lemos |
 | 236 | 122 | Andrick |
-| 237 | 121 | Jazzy Gridder |
-| 238 | 121 | JuicyJuice |
-| 239 | 120 | Cool Risepiece |
+| 237 | 121 | JuicyJuice |
+| 238 | 121 | Jazzy Gridder |
+| 239 | 120 | Joab Gonzalez |
 | 240 | 120 | Lively Cascadebuilder |
-| 241 | 120 | Glamorous Gracey |
+| 241 | 120 | Cool Risepiece |
 | 242 | 120 | Shiny Brick |
-| 243 | 120 | Joab Gonzalez |
-| 244 | 119 | Rae Saunders |
+| 243 | 120 | Glamorous Gracey |
+| 244 | 119 | Jennifer Fisher Franklin |
 | 245 | 119 | Name |
-| 246 | 119 | CJ |
-| 247 | 119 | Ashley Jenkins |
-| 248 | 119 | Queen B |
-| 249 | 118 | Slinky Stackzone |
-| 250 | 118 | Juvon SupaShawdii Brooks |
+| 246 | 119 | Ashley Jenkins |
+| 247 | 119 | Queen B |
+| 248 | 119 | Rae Saunders |
+| 249 | 119 | CJ |
+| 250 | 118 | Slinky Stackzone |
 | 251 | 118 | Goofy Fall |
-| 252 | 117 | kellie |
-| 253 | 116 | Jennifer Fisher Franklin |
-| 254 | 116 | Shocinda Sherwood |
-| 255 | 116 | Brennan Shea Greene |
-| 256 | 116 | Pepone Pepe |
-| 257 | 116 | Toon Up |
-| 258 | 116 | WeeWooWee |
+| 252 | 118 | Juvon SupaShawdii Brooks |
+| 253 | 117 | kellie |
+| 254 | 116 | Pepone Pepe |
+| 255 | 116 | Shocinda Sherwood |
+| 256 | 116 | Brennan Shea Greene |
+| 257 | 116 | WeeWooWee |
+| 258 | 116 | Toon Up |
 | 259 | 115 | Hardy Fuller |
-| 260 | 113 | Piece of Cake |
-| 261 | 113 | Melissa Anne |
-| 262 | 113 | Dennis Montoya |
-| 263 | 113 | Dizzy Slammer |
-| 264 | 111 | King |
-| 265 | 111 | Dawn Phelps |
+| 260 | 113 | Dennis Montoya |
+| 261 | 113 | Piece of Cake |
+| 262 | 113 | Dizzy Slammer |
+| 263 | 113 | Melissa Anne |
+| 264 | 111 | Dawn Phelps |
+| 265 | 111 | King |
 | 266 | 110 | jaz |
 | 267 | 109 | Katie Lynn Petit |
 | 268 | 109 | Ginny |
