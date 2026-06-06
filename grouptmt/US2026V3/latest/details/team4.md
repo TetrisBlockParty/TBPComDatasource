@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 03:54:38 UTC
+# Standings for team4 as of 2026-06-06 03:55:16 UTC
 
 **Total Participants:** 763
 
@@ -48,38 +48,38 @@
 | 40 | 477 | Malik Thompson |
 | 41 | 475 | MysticMaven |
 | 42 | 474 | Jeremy Lopez |
-| 43 | 461 | Kayla Fuentes |
-| 44 | 458 | vag1974 |
-| 45 | 419 | Caitlyn Wang |
+| 43 | 467 | 626 |
+| 44 | 461 | Kayla Fuentes |
+| 45 | 458 | vag1974 |
 | 46 | 419 | Sweet Stacker |
-| 47 | 395 | Snippy Grid |
-| 48 | 392 | Blayne Kole |
-| 49 | 389 | Ning Quiambao |
-| 50 | 383 | Crissy Hoffman |
-| 51 | 375 | Melissa WC |
-| 52 | 372 | Real Talk Vibes |
-| 53 | 359 | Lisa Garcia |
-| 54 | 356 | Tanita Jobe |
-| 55 | 346 | Alexis Cor |
-| 56 | 333 | Alexandria Frazier |
-| 57 | 330 | Jewelz |
-| 58 | 326 | Jason Allen |
+| 47 | 419 | Caitlyn Wang |
+| 48 | 395 | Snippy Grid |
+| 49 | 392 | Blayne Kole |
+| 50 | 389 | Ning Quiambao |
+| 51 | 383 | Crissy Hoffman |
+| 52 | 375 | Melissa WC |
+| 53 | 372 | Real Talk Vibes |
+| 54 | 359 | Lisa Garcia |
+| 55 | 356 | Tanita Jobe |
+| 56 | 346 | Alexis Cor |
+| 57 | 333 | Alexandria Frazier |
+| 58 | 330 | Jewelz |
 | 59 | 326 | Nick Graber |
-| 60 | 322 | Charlie Lewis |
-| 61 | 312 | Jonathan Hewitt |
-| 62 | 302 | JoLinda Dunn |
-| 63 | 300 | Michele |
-| 64 | 300 | Genag |
-| 65 | 283 | Jesse Olive |
-| 66 | 271 | Kim |
-| 67 | 267 | 626 |
+| 60 | 326 | Jason Allen |
+| 61 | 322 | Charlie Lewis |
+| 62 | 312 | Jonathan Hewitt |
+| 63 | 302 | JoLinda Dunn |
+| 64 | 300 | Michele |
+| 65 | 300 | Genag |
+| 66 | 283 | Jesse Olive |
+| 67 | 271 | Kim |
 | 68 | 266 | Adam J Leong |
 | 69 | 259 | Jessica Peyton |
 | 70 | 252 | Sarah Berry Stevens |
 | 71 | 246 | Kay |
-| 72 | 240 | Jojo Ann |
-| 73 | 240 | DexterDobbins |
-| 74 | 240 | Michele Walker |
+| 72 | 240 | Michele Walker |
+| 73 | 240 | Jojo Ann |
+| 74 | 240 | DexterDobbins |
 | 75 | 235 | Hwanger Land |
 | 76 | 224 | Sisi RedVelvet Reneè |
 | 77 | 218 | Andrew Dang |
@@ -100,8 +100,8 @@
 | 92 | 169 | Tiffany Smith |
 | 93 | 168 | Beee |
 | 94 | 166 | Aramat |
-| 95 | 160 | Littlebrat |
-| 96 | 160 | Kitsune Bi |
+| 95 | 160 | Kitsune Bi |
+| 96 | 160 | Littlebrat |
 | 97 | 159 | iiPurgeV2 |
 | 98 | 157 | Cherry |
 | 99 | 155 | RotatedWrongAgain |
@@ -121,28 +121,28 @@
 | 113 | 134 | Loony Rotater |
 | 114 | 133 | Shawntae Mccary |
 | 115 | 131 | Jackie Polanco |
-| 116 | 129 | Lani |
-| 117 | 129 | Ryan Paul Clark-Ramsey |
+| 116 | 129 | Ryan Paul Clark-Ramsey |
+| 117 | 129 | Lani |
 | 118 | 128 | Crystal Hammonds |
 | 119 | 126 | Alyson M Kehler |
 | 120 | 125 | Leslie Ann Carter |
-| 121 | 124 | Chilly Pivot |
-| 122 | 124 | Chris Covington |
-| 123 | 122 | Tipsy Builderline |
-| 124 | 121 | Jazzy Gridder |
-| 125 | 120 | Glamorous Gracey |
-| 126 | 119 | Dheeh Robles |
+| 121 | 124 | Dheeh Robles |
+| 122 | 124 | Chilly Pivot |
+| 123 | 124 | Chris Covington |
+| 124 | 122 | Tipsy Builderline |
+| 125 | 121 | Jazzy Gridder |
+| 126 | 120 | Glamorous Gracey |
 | 127 | 118 | Megan Vick |
-| 128 | 118 | Cheery Risegrid |
-| 129 | 118 | Goofy Fall |
+| 128 | 118 | Goofy Fall |
+| 129 | 118 | Cheery Risegrid |
 | 130 | 117 | BCO22 |
 | 131 | 116 | Brennan Shea Greene |
 | 132 | 114 | Bryan DjMagnum Evans |
 | 133 | 111 | QueenLi86 |
 | 134 | 109 | Rose Anna Safi |
-| 135 | 108 | Debby Ruof |
-| 136 | 108 | Juvon SupaShawdii Brooks |
-| 137 | 108 | Lush Fitblock |
+| 135 | 108 | Juvon SupaShawdii Brooks |
+| 136 | 108 | Lush Fitblock |
+| 137 | 108 | Debby Ruof |
 | 138 | 107 | Shayna Vaigneur-Hall |
 | 139 | 107 | June Hoffman |
 | 140 | 106 | Joab Gonzalez |
@@ -703,72 +703,72 @@
 | 695 | 9 | nanaz86 |
 | 696 | 9 | fmp |
 | 697 | 9 | Stephanie Brock |
-| 698 | 9 | Suzi Smas |
-| 699 | 9 | Gma420 |
-| 700 | 9 | Tommy Thomas |
-| 701 | 9 | Hotstuff |
-| 702 | 8 | Frby Amberr |
-| 703 | 8 | Mac James |
-| 704 | 8 | Christy Petty |
-| 705 | 8 | La Ah Ox |
-| 706 | 8 | tj |
-| 707 | 8 | Stephanie Williams |
-| 708 | 8 | LaTesha D Williams |
-| 709 | 8 | Bryieson Watson |
-| 710 | 8 | Donovan Parmenter Gagne |
-| 711 | 8 | Gabby Markham |
-| 712 | 8 | Kandylands |
-| 713 | 8 | Happy shelli |
-| 714 | 7 | Teresa Lescinskas |
-| 715 | 7 | Erica Armstrong Baz |
-| 716 | 7 | John Brandon Kinney |
-| 717 | 7 | Brandy Dark |
-| 718 | 7 | Sharron Mullins |
-| 719 | 7 | Chipper Hitter |
-| 720 | 7 | Erica Hardwick |
-| 721 | 7 | Estmercy |
-| 722 | 7 | Sheries |
-| 723 | 7 | Meela Abdurrab |
-| 724 | 7 | Kaps |
-| 725 | 7 | Malinda Fife |
+| 698 | 9 | Kandylands |
+| 699 | 9 | Suzi Smas |
+| 700 | 9 | Gma420 |
+| 701 | 9 | Tommy Thomas |
+| 702 | 9 | Hotstuff |
+| 703 | 8 | LaTesha D Williams |
+| 704 | 8 | Frby Amberr |
+| 705 | 8 | Donovan Parmenter Gagne |
+| 706 | 8 | Happy shelli |
+| 707 | 8 | Gabby Markham |
+| 708 | 8 | Bryieson Watson |
+| 709 | 8 | Mac James |
+| 710 | 8 | Christy Petty |
+| 711 | 8 | Stephanie Williams |
+| 712 | 8 | tj |
+| 713 | 8 | La Ah Ox |
+| 714 | 7 | Erica Armstrong Baz |
+| 715 | 7 | Chipper Hitter |
+| 716 | 7 | Erica Hardwick |
+| 717 | 7 | Sharron Mullins |
+| 718 | 7 | Brandy Dark |
+| 719 | 7 | Sheries |
+| 720 | 7 | Teresa Lescinskas |
+| 721 | 7 | John Brandon Kinney |
+| 722 | 7 | Kaps |
+| 723 | 7 | Estmercy |
+| 724 | 7 | Malinda Fife |
+| 725 | 7 | Meela Abdurrab |
 | 726 | 7 | J |
 | 727 | 7 | theyhatejzt |
 | 728 | 7 | Crystal Parker Bryant |
 | 729 | 7 | T-Dogger |
-| 730 | 6 | Jeremy |
+| 730 | 6 | Willedtra Griffin |
 | 731 | 6 | Shannon Rivera |
-| 732 | 6 | Delashawne Hodgson |
-| 733 | 6 | Tricki Woo |
-| 734 | 6 | MamaC |
-| 735 | 6 | Funky Zonebuilder |
-| 736 | 6 | LaToya LeBlanc |
+| 732 | 6 | Funky Zonebuilder |
+| 733 | 6 | Jeremy |
+| 734 | 6 | Tricki Woo |
+| 735 | 6 | MamaC |
+| 736 | 6 | Renita Jordan |
 | 737 | 6 | Margarita Santana |
 | 738 | 6 | Austin Tan |
 | 739 | 6 | Goodie |
-| 740 | 6 | Renita Jordan |
-| 741 | 6 | GETBOXED! |
-| 742 | 6 | Willedtra Griffin |
-| 743 | 6 | Rachel |
-| 744 | 5 | Brandon Bedenbaugh |
+| 740 | 6 | GETBOXED! |
+| 741 | 6 | Delashawne Hodgson |
+| 742 | 6 | Rachel |
+| 743 | 6 | LaToya LeBlanc |
+| 744 | 5 | Melissa Wilson |
 | 745 | 5 | Haylee Talkington |
 | 746 | 5 | Elena Marí |
-| 747 | 5 | Perky Balanceblock |
-| 748 | 5 | Lolita Nettles |
-| 749 | 5 | Melissa Wilson |
-| 750 | 5 | Cflixer |
-| 751 | 5 | Poppy Glider |
-| 752 | 5 | Clever Fallzone |
-| 753 | 5 | TheazO |
-| 754 | 5 | mikey moo |
-| 755 | 5 | Swanky Zigzag |
-| 756 | 5 | Tippet |
-| 757 | 5 | Cheery Twister |
-| 758 | 5 | Purple Queen |
-| 759 | 5 | Dae Von |
-| 760 | 5 | Lively Cascadeclear |
-| 761 | 5 | Freddy-B |
-| 762 | 5 | Danielle Mitchell |
-| 763 | 5 | Ali Nicole |
+| 747 | 5 | Ali Nicole |
+| 748 | 5 | Perky Balanceblock |
+| 749 | 5 | Brandon Bedenbaugh |
+| 750 | 5 | Lolita Nettles |
+| 751 | 5 | Cflixer |
+| 752 | 5 | Poppy Glider |
+| 753 | 5 | Cheery Twister |
+| 754 | 5 | Freddy-B |
+| 755 | 5 | Danielle Mitchell |
+| 756 | 5 | Clever Fallzone |
+| 757 | 5 | TheazO |
+| 758 | 5 | mikey moo |
+| 759 | 5 | Swanky Zigzag |
+| 760 | 5 | Tippet |
+| 761 | 5 | Purple Queen |
+| 762 | 5 | Lively Cascadeclear |
+| 763 | 5 | Dae Von |
 
 ---
 *Standings created by tournaments datasource generation tool*
