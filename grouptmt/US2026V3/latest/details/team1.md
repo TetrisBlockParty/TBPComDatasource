@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 06:56:16 UTC
+# Standings for team1 as of 2026-06-06 06:56:37 UTC
 
 **Total Participants:** 900
 
@@ -14,8 +14,8 @@
 | 6 | 3690 | Cozy Edge |
 | 7 | 3511 | Timothy Robert |
 | 8 | 3297 | Charlie Roehm |
-| 9 | 3039 | Chummy Combo |
-| 10 | 2881 | Death by SnuSnu |
+| 9 | 3237 | Death by SnuSnu |
+| 10 | 3039 | Chummy Combo |
 | 11 | 2338 | Debbie Carswell |
 | 12 | 1980 | Hunter Rayborn |
 | 13 | 1913 | Sha Harris |
