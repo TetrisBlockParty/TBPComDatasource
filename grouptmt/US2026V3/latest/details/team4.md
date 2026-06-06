@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 21:02:17 UTC
+# Standings for team4 as of 2026-06-06 21:02:39 UTC
 
 **Total Participants:** 1142
 
@@ -80,10 +80,10 @@
 | 72 | 520 | Dandy Clearfit |
 | 73 | 510 | Nick Graber |
 | 74 | 510 | Krysten Danielle Richard |
-| 75 | 502 | Dheeh Robles |
-| 76 | 500 | Michele |
-| 77 | 483 | Jason Allen |
-| 78 | 481 | woopa 716 |
+| 75 | 504 | woopa 716 |
+| 76 | 502 | Dheeh Robles |
+| 77 | 500 | Michele |
+| 78 | 483 | Jason Allen |
 | 79 | 479 | Caitlyn Wang |
 | 80 | 477 | Malik Thompson |
 | 81 | 467 | vag1974 |
@@ -167,10 +167,10 @@
 | 159 | 194 | Chiquita Blue |
 | 160 | 193 | Tiffany Bunker-Hill |
 | 161 | 192 | Tiggerjake |
-| 162 | 187 | Leslie Ann Carter |
-| 163 | 187 | Devinlee Brown |
-| 164 | 186 | Dee Wizz |
-| 165 | 186 | Megan Vick |
+| 162 | 187 | Megan Vick |
+| 163 | 187 | Leslie Ann Carter |
+| 164 | 187 | Devinlee Brown |
+| 165 | 186 | Dee Wizz |
 | 166 | 186 | Kimyatta Cavin |
 | 167 | 185 | Dae Von |
 | 168 | 184 | Lucy Honer |
