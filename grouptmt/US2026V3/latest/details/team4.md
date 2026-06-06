@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 20:12:18 UTC
+# Standings for team4 as of 2026-06-06 20:12:38 UTC
 
 **Total Participants:** 1129
 
@@ -495,50 +495,50 @@
 | 487 | 60 | Randy M Hatch |
 | 488 | 60 | Chris Rowe |
 | 489 | 60 | Jessica Kelly |
-| 490 | 59 | Stotty |
-| 491 | 59 | Jacinta Hooker-Brown |
+| 490 | 59 | Anthony Kollar |
+| 491 | 59 | Gigi5 |
 | 492 | 59 | Loyalty83 |
-| 493 | 59 | Anthony Kollar |
-| 494 | 59 | Gigi5 |
-| 495 | 59 | Yvette Johnson |
-| 496 | 59 | yourmomz |
-| 497 | 59 | Tammy Lasseigne |
-| 498 | 59 | Kay |
+| 493 | 59 | Capone |
+| 494 | 59 | Yvette Johnson |
+| 495 | 59 | yourmomz |
+| 496 | 59 | Tammy Lasseigne |
+| 497 | 59 | Kay |
+| 498 | 59 | Jacinta Hooker-Brown |
 | 499 | 59 | Butterpat |
 | 500 | 59 | Inez Nez |
-| 501 | 58 | Solace Grace |
-| 502 | 58 | Mc3003 |
-| 503 | 58 | Lana Tran |
-| 504 | 58 | Alizabeth Garcia |
-| 505 | 58 | Holly Bramel |
-| 506 | 58 | Jade Alley |
-| 507 | 57 | Erica Pompey |
-| 508 | 57 | PerfectPieces |
-| 509 | 57 | Garden Girlie |
-| 510 | 57 | Erich EMac McIntosh |
+| 501 | 59 | Stotty |
+| 502 | 58 | Holly Bramel |
+| 503 | 58 | Jade Alley |
+| 504 | 58 | Lana Tran |
+| 505 | 58 | Mc3003 |
+| 506 | 58 | Solace Grace |
+| 507 | 58 | Alizabeth Garcia |
+| 508 | 57 | Erica Pompey |
+| 509 | 57 | PerfectPieces |
+| 510 | 57 | Garden Girlie |
 | 511 | 57 | Deborah Silberg |
-| 512 | 57 | Plucky Shatterfit |
-| 513 | 57 | Tre'nya Smith |
-| 514 | 57 | Giggy Snapgrid |
-| 515 | 57 | Волна Бог |
-| 516 | 57 | Rocky |
-| 517 | 57 | PapaB |
-| 518 | 57 | Shia Marie |
-| 519 | 57 | EpicWizard |
-| 520 | 56 | Tony Clark |
-| 521 | 56 | Katie Martin |
-| 522 | 56 | Zappy Matchgrid |
-| 523 | 56 | Jennifer Brucz |
-| 524 | 56 | GETBOXED! |
-| 525 | 56 | Happy Filler |
-| 526 | 56 | Karen Davis |
-| 527 | 55 | Elisha Thompson |
-| 528 | 55 | Jailen Harper |
-| 529 | 55 | Capone |
+| 512 | 57 | Erich EMac McIntosh |
+| 513 | 57 | Plucky Shatterfit |
+| 514 | 57 | Tre'nya Smith |
+| 515 | 57 | Giggy Snapgrid |
+| 516 | 57 | Волна Бог |
+| 517 | 57 | Rocky |
+| 518 | 57 | PapaB |
+| 519 | 57 | Shia Marie |
+| 520 | 57 | EpicWizard |
+| 521 | 56 | Karen Davis |
+| 522 | 56 | Happy Filler |
+| 523 | 56 | Katie Martin |
+| 524 | 56 | Tony Clark |
+| 525 | 56 | GETBOXED! |
+| 526 | 56 | Jennifer Brucz |
+| 527 | 56 | Zappy Matchgrid |
+| 528 | 55 | Cherrel M. Causey |
+| 529 | 55 | Elisha Thompson |
 | 530 | 55 | The Jazziest |
 | 531 | 55 | Nicole Ambrose |
 | 532 | 55 | Lovetetris |
-| 533 | 55 | Cherrel M. Causey |
+| 533 | 55 | Jailen Harper |
 | 534 | 54 | Earl Edwards |
 | 535 | 54 | Silly Fallzone |
 | 536 | 54 | Lisa Ferriero-Daudin |
@@ -604,52 +604,52 @@
 | 596 | 46 | Elise Ann |
 | 597 | 46 | Tamika Ashli Bonner |
 | 598 | 46 | Nerdy Faller |
-| 599 | 46 | Mike Artis |
-| 600 | 46 | Gerald Richard Franke |
-| 601 | 45 | Knijur Callins |
-| 602 | 45 | Loopy Hitter |
-| 603 | 45 | Becky Bernazal |
-| 604 | 45 | Jennifer Terrill |
-| 605 | 45 | EmBem |
-| 606 | 45 | Joe Win |
-| 607 | 45 | SueSally |
-| 608 | 45 | BurnedCrab52 |
-| 609 | 45 | Kimberly Devon |
-| 610 | 45 | Gary Smallwood |
+| 599 | 46 | Giggly Rollpiece |
+| 600 | 46 | Mike Artis |
+| 601 | 46 | Gerald Richard Franke |
+| 602 | 45 | Knijur Callins |
+| 603 | 45 | Loopy Hitter |
+| 604 | 45 | Becky Bernazal |
+| 605 | 45 | Jennifer Terrill |
+| 606 | 45 | EmBem |
+| 607 | 45 | Joe Win |
+| 608 | 45 | SueSally |
+| 609 | 45 | BurnedCrab52 |
+| 610 | 45 | Kimberly Devon |
 | 611 | 45 | Jt Home |
-| 612 | 44 | Cauntay Youngking Williams |
-| 613 | 44 | Sarah Leake |
-| 614 | 44 | pussface |
-| 615 | 44 | Danielle Sulano |
-| 616 | 44 | EJ Frazier |
-| 617 | 44 | SweetChaos |
-| 618 | 44 | Kassey M. Clark |
-| 619 | 44 | Dizzy |
-| 620 | 44 | Kelly Miller Williams |
-| 621 | 44 | jojo |
-| 622 | 44 | Jazzy Rollout |
+| 612 | 45 | Gary Smallwood |
+| 613 | 44 | Kelly Miller Williams |
+| 614 | 44 | SweetChaos |
+| 615 | 44 | Kassey M. Clark |
+| 616 | 44 | Danielle Sulano |
+| 617 | 44 | Dizzy |
+| 618 | 44 | pussface |
+| 619 | 44 | jojo |
+| 620 | 44 | EJ Frazier |
+| 621 | 44 | Jazzy Rollout |
+| 622 | 44 | Sarah Leake |
 | 623 | 44 | Kimmie Warren |
-| 624 | 43 | Heidi Lyn Ramirez |
-| 625 | 43 | Giggly Rollpiece |
+| 624 | 44 | Cauntay Youngking Williams |
+| 625 | 43 | Heidi Lyn Ramirez |
 | 626 | 43 | Tactical_B |
-| 627 | 43 | Swanky Snapgrid |
-| 628 | 43 | Ben Figueroa |
-| 629 | 43 | Purple Queen |
-| 630 | 43 | Jeremy Barry |
-| 631 | 42 | Cail |
-| 632 | 42 | MrsAddams724 |
+| 627 | 43 | Purple Queen |
+| 628 | 43 | Swanky Snapgrid |
+| 629 | 43 | Jeremy Barry |
+| 630 | 43 | Ben Figueroa |
+| 631 | 42 | Stacy Brown |
+| 632 | 42 | Miranda Brown |
 | 633 | 42 | Jeni |
-| 634 | 42 | Snappy Patternfall |
-| 635 | 42 | Melissa Lowe |
-| 636 | 42 | Stacy Brown |
-| 637 | 42 | Breezy Wife |
-| 638 | 42 | Miranda Brown |
-| 639 | 42 | Abby Waterman |
-| 640 | 42 | Danielle Porter |
-| 641 | 42 | ShaniP |
-| 642 | 41 | Lord Solrac |
+| 634 | 42 | MrsAddams724 |
+| 635 | 42 | Breezy Wife |
+| 636 | 42 | Abby Waterman |
+| 637 | 42 | Danielle Porter |
+| 638 | 42 | ShaniP |
+| 639 | 42 | Cail |
+| 640 | 42 | Melissa Lowe |
+| 641 | 42 | Snappy Patternfall |
+| 642 | 41 | Jace McCullough |
 | 643 | 41 | Rebekah Anne Macias |
-| 644 | 41 | Jace McCullough |
+| 644 | 41 | Lord Solrac |
 | 645 | 40 | Kimberly Lusk |
 | 646 | 40 | Wayne Mire |
 | 647 | 40 | CIRAZYPNOY |
