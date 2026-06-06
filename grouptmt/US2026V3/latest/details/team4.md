@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 06:48:15 UTC
+# Standings for team4 as of 2026-06-06 06:48:38 UTC
 
 **Total Participants:** 864
 
@@ -281,13 +281,13 @@
 | 273 | 65 | Domo Dpn |
 | 274 | 65 | Cool Risepiece |
 | 275 | 65 | Kristen Wallace |
-| 276 | 64 | Queen B |
-| 277 | 64 | sierrabeth |
-| 278 | 63 | Brenda Mueller |
-| 279 | 63 | Ana Ruiz |
-| 280 | 63 | Ajohnna Frazee |
-| 281 | 63 | Blockcrusher |
-| 282 | 63 | Kelly Howland |
+| 276 | 65 | Kelly Howland |
+| 277 | 64 | Queen B |
+| 278 | 64 | sierrabeth |
+| 279 | 63 | Brenda Mueller |
+| 280 | 63 | Ana Ruiz |
+| 281 | 63 | Ajohnna Frazee |
+| 282 | 63 | Blockcrusher |
 | 283 | 62 | medicjessi |
 | 284 | 62 | Tiggerjake |
 | 285 | 62 | Frisky Balance |
