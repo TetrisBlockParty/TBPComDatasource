@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 23:38:40 UTC
+# Standings for team4 as of 2026-06-06 23:39:17 UTC
 
 **Total Participants:** 1202
 
@@ -38,13 +38,13 @@
 | 30 | 1200 | Caitlin Johnson |
 | 31 | 1185 | Leigh Pierce |
 | 32 | 1169 | Charlie Lewis |
-| 33 | 1089 | Ning Quiambao |
-| 34 | 1078 | Squirrel Donkey |
+| 33 | 1108 | Squirrel Donkey |
+| 34 | 1089 | Ning Quiambao |
 | 35 | 1055 | Michele Walker |
 | 36 | 971 | Loony Towerer |
 | 37 | 966 | BertaF1irta |
 | 38 | 948 | Witty Clicky |
-| 39 | 910 | Nick Graber |
+| 39 | 940 | Nick Graber |
 | 40 | 901 | Giggy Matchpiece |
 | 41 | 900 | Kathy Brookins |
 | 42 | 892 | Alala.Cersei |
@@ -60,8 +60,8 @@
 | 52 | 754 | Victoria Ver |
 | 53 | 738 | Shaina Sharp |
 | 54 | 736 | Gloria Nunley Trussell |
-| 55 | 722 | Keesha Muro |
-| 56 | 722 | Chummy Rollzone |
+| 55 | 722 | Chummy Rollzone |
+| 56 | 722 | Keesha Muro |
 | 57 | 720 | Carly Stempien |
 | 58 | 718 | Phil Peterson |
 | 59 | 711 | MysticMaven |
@@ -225,8 +225,8 @@
 | 217 | 154 | No Time |
 | 218 | 153 | Queen B |
 | 219 | 150 | bollo |
-| 220 | 148 | Smiley Gridzone |
-| 221 | 148 | Joseph Hunter |
+| 220 | 148 | Joseph Hunter |
+| 221 | 148 | Smiley Gridzone |
 | 222 | 147 | EvoKitty |
 | 223 | 146 | Jasmine Marie |
 | 224 | 145 | Erika Seaton |
@@ -238,39 +238,39 @@
 | 230 | 138 | June Hoffman |
 | 231 | 138 | Cheery Risegrid |
 | 232 | 138 | Tina Thomas |
-| 233 | 137 | Shelby |
+| 233 | 137 | kellie |
 | 234 | 137 | Deborah Silberg |
-| 235 | 137 | kellie |
+| 235 | 137 | Shelby |
 | 236 | 136 | JuicyJuice |
 | 237 | 136 | WeeWooWee |
 | 238 | 135 | Quiomarie Cotto |
 | 239 | 134 | Slinky Stackzone |
 | 240 | 133 | Shawntae Mccary |
-| 241 | 132 | Homie |
-| 242 | 131 | Tina Shalay Hayes |
-| 243 | 131 | Stasia |
-| 244 | 131 | Dominique Melendez |
-| 245 | 130 | Fran Aaron-Ring |
-| 246 | 130 | Magz |
-| 247 | 129 | Kelly Howland |
-| 248 | 129 | Brainbabe |
-| 249 | 129 | Chris Covington |
-| 250 | 129 | Simone |
-| 251 | 129 | Chilly Pivot |
-| 252 | 129 | Shauna Davis |
-| 253 | 128 | CJ |
-| 254 | 128 | Crystal Hammonds |
-| 255 | 128 | Bridget Stevens |
-| 256 | 128 | Cherrypir05 |
-| 257 | 128 | Jumpy Builderpiece |
-| 258 | 128 | Juvon SupaShawdii Brooks |
-| 259 | 128 | Bouncy |
-| 260 | 127 | Cheeky Climber |
-| 261 | 127 | crobb77 |
-| 262 | 127 | Samara Garcia |
-| 263 | 126 | LastBoi |
-| 264 | 126 | Blockcrusher |
-| 265 | 126 | Corie A. Brinson |
+| 241 | 132 | Blockcrusher |
+| 242 | 132 | Homie |
+| 243 | 131 | Tina Shalay Hayes |
+| 244 | 131 | Stasia |
+| 245 | 131 | Dominique Melendez |
+| 246 | 130 | Fran Aaron-Ring |
+| 247 | 130 | Magz |
+| 248 | 129 | Kelly Howland |
+| 249 | 129 | Brainbabe |
+| 250 | 129 | Chris Covington |
+| 251 | 129 | Simone |
+| 252 | 129 | Chilly Pivot |
+| 253 | 129 | Shauna Davis |
+| 254 | 128 | CJ |
+| 255 | 128 | Crystal Hammonds |
+| 256 | 128 | Bouncy |
+| 257 | 128 | Bridget Stevens |
+| 258 | 128 | Cherrypir05 |
+| 259 | 128 | Juvon SupaShawdii Brooks |
+| 260 | 128 | Jumpy Builderpiece |
+| 261 | 127 | Samara Garcia |
+| 262 | 127 | crobb77 |
+| 263 | 127 | Cheeky Climber |
+| 264 | 126 | Corie A. Brinson |
+| 265 | 126 | LastBoi |
 | 266 | 124 | Dapper Strikerpiece |
 | 267 | 124 | Rachel Lemos |
 | 268 | 123 | Lively Cascadebuilder |
@@ -454,13 +454,13 @@
 | 446 | 74 | Frisky Balance |
 | 447 | 74 | Jason Moves |
 | 448 | 74 | Ami Ferguson |
-| 449 | 73 | Csigirlnc |
-| 450 | 73 | Melissa Lowe |
-| 451 | 72 | Fancy Riser |
-| 452 | 72 | Loretta Hendricks |
-| 453 | 72 | Virgil Mayfield-Brown |
-| 454 | 72 | zoes |
-| 455 | 72 | Snippy Splitter |
+| 449 | 74 | Snippy Splitter |
+| 450 | 73 | Csigirlnc |
+| 451 | 73 | Melissa Lowe |
+| 452 | 72 | Fancy Riser |
+| 453 | 72 | Loretta Hendricks |
+| 454 | 72 | Virgil Mayfield-Brown |
+| 455 | 72 | zoes |
 | 456 | 71 | Brandi Sauer |
 | 457 | 71 | Loopy Hitter |
 | 458 | 71 | Alizabeth Garcia |

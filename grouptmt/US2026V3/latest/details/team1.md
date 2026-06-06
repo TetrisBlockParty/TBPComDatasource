@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 23:38:40 UTC
+# Standings for team1 as of 2026-06-06 23:39:17 UTC
 
 **Total Participants:** 1218
 
@@ -73,8 +73,8 @@
 | 65 | 675 | Corey Cawthon |
 | 66 | 674 | Weeze |
 | 67 | 662 | Kimberly Hernandez |
-| 68 | 648 | Eartha Brown |
-| 69 | 641 | No_Other_Choice |
+| 68 | 661 | No_Other_Choice |
+| 69 | 648 | Eartha Brown |
 | 70 | 605 | JoJo |
 | 71 | 598 | Ivana Schmidt |
 | 72 | 586 | Kellie Hall |
