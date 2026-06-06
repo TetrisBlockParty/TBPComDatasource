@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 13:53:17 UTC
+# Standings for team1 as of 2026-06-06 13:54:16 UTC
 
 **Total Participants:** 1011
 
@@ -33,19 +33,19 @@
 | 25 | 1028 | Mary Jenkins |
 | 26 | 1026 | Ryan Meilleur |
 | 27 | 1016 | Ashley Espeut |
-| 28 | 962 | Holly Jolly |
-| 29 | 958 | Juan Kandiss Escobedo Irwin |
-| 30 | 935 | Whitney Butler |
-| 31 | 933 | Cherry Rose |
-| 32 | 927 | Jolly Dropzone |
-| 33 | 882 | Jon Gathers |
-| 34 | 877 | Brian Bohanon II |
-| 35 | 843 | Jacoby E Fleming |
-| 36 | 842 | Chris Russell |
-| 37 | 841 | Spicy Balancer |
-| 38 | 819 | Sanjuro |
-| 39 | 809 | Jennifer To |
-| 40 | 783 | Songne Arif |
+| 28 | 983 | Songne Arif |
+| 29 | 962 | Holly Jolly |
+| 30 | 958 | Juan Kandiss Escobedo Irwin |
+| 31 | 935 | Whitney Butler |
+| 32 | 933 | Cherry Rose |
+| 33 | 927 | Jolly Dropzone |
+| 34 | 882 | Jon Gathers |
+| 35 | 877 | Brian Bohanon II |
+| 36 | 843 | Jacoby E Fleming |
+| 37 | 842 | Chris Russell |
+| 38 | 841 | Spicy Balancer |
+| 39 | 819 | Sanjuro |
+| 40 | 809 | Jennifer To |
 | 41 | 749 | Aviv Zehavi |
 | 42 | 715 | Chill Clusterer |
 | 43 | 708 | Jazzy Dashpiece |
@@ -137,16 +137,16 @@
 | 129 | 208 | Mic Balew |
 | 130 | 206 | Weeze |
 | 131 | 206 | Curtis T Cirno |
-| 132 | 200 | Felicia Cain |
-| 133 | 199 | Asani CHumba |
-| 134 | 198 | W.A. Simpson |
-| 135 | 197 | BYM4L |
-| 136 | 196 | Eugina Slater |
-| 137 | 194 | Daris Swearington |
-| 138 | 193 | Brave Clearbuilder |
-| 139 | 192 | David Fuentes |
-| 140 | 190 | Davionte DaeDae Hopson-Rodriguez |
-| 141 | 189 | ELM |
+| 132 | 205 | ELM |
+| 133 | 200 | Felicia Cain |
+| 134 | 199 | Asani CHumba |
+| 135 | 198 | W.A. Simpson |
+| 136 | 197 | BYM4L |
+| 137 | 196 | Eugina Slater |
+| 138 | 194 | Daris Swearington |
+| 139 | 193 | Brave Clearbuilder |
+| 140 | 192 | David Fuentes |
+| 141 | 190 | Davionte DaeDae Hopson-Rodriguez |
 | 142 | 186 | Denise B |
 | 143 | 185 | Teddy Davis |
 | 144 | 184 | Dai Bo |
@@ -336,39 +336,39 @@
 | 328 | 71 | star |
 | 329 | 71 | Elaine Pauley |
 | 330 | 71 | Erin Sabol |
-| 331 | 71 | Kristie |
-| 332 | 70 | Daddy |
-| 333 | 70 | Cheeky Pop |
-| 334 | 70 | Hailey Hil |
-| 335 | 70 | $hort Dog |
-| 336 | 70 | Gerold Folk Haddock |
-| 337 | 70 | MamushiOh |
-| 338 | 70 | Kaleisha Smith |
-| 339 | 70 | Steve Reno |
-| 340 | 69 | Tracy Feyler |
+| 331 | 71 | CJ Robinson |
+| 332 | 71 | Kristie |
+| 333 | 70 | Daddy |
+| 334 | 70 | Cheeky Pop |
+| 335 | 70 | Hailey Hil |
+| 336 | 70 | $hort Dog |
+| 337 | 70 | Gerold Folk Haddock |
+| 338 | 70 | MamushiOh |
+| 339 | 70 | Kaleisha Smith |
+| 340 | 70 | Steve Reno |
 | 341 | 69 | Sunny Clicky |
-| 342 | 69 | CJ Robinson |
+| 342 | 69 | Tracy Feyler |
 | 343 | 68 | Alyssa Rae |
-| 344 | 68 | Eric Spencer Whitaker |
-| 345 | 68 | Tee Spinks |
-| 346 | 68 | Rachael Bakowicz Edwards |
-| 347 | 68 | Wacky Stackbuilder |
-| 348 | 68 | Logan Frost |
-| 349 | 67 | Laurie Napper |
-| 350 | 67 | Rufus |
-| 351 | 67 | Johnathan Deese |
+| 344 | 68 | Tee Spinks |
+| 345 | 68 | Logan Frost |
+| 346 | 68 | Wacky Stackbuilder |
+| 347 | 68 | Rachael Bakowicz Edwards |
+| 348 | 68 | Eric Spencer Whitaker |
+| 349 | 67 | Fina McKinnis |
+| 350 | 67 | Michele Elizabeth McKay-Johnson |
+| 351 | 67 | Travis Davison |
 | 352 | 67 | Jennah |
-| 353 | 67 | Michele Elizabeth McKay-Johnson |
-| 354 | 67 | Travis Davison |
-| 355 | 67 | Fina McKinnis |
+| 353 | 67 | Johnathan Deese |
+| 354 | 67 | Rufus |
+| 355 | 67 | Laurie Napper |
 | 356 | 66 | GracefulOwl808 |
 | 357 | 66 | Sonia Binti Mfalme |
 | 358 | 65 | Giggy Tower |
 | 359 | 65 | Kate Hancock Malicek |
 | 360 | 65 | Koi |
 | 361 | 65 | Jazzy Bridger |
-| 362 | 65 | Sabrina Wilkerson |
-| 363 | 65 | Erica Charlise |
+| 362 | 65 | Erica Charlise |
+| 363 | 65 | Sabrina Wilkerson |
 | 364 | 64 | Dena Marie Lee |
 | 365 | 64 | Douglas Price |
 | 366 | 64 | Yadira Salgado |
@@ -455,19 +455,19 @@
 | 447 | 50 | Teresa Yanira Cepeda |
 | 448 | 50 | Kp |
 | 449 | 50 | Kimmie Gargano |
-| 450 | 50 | Jjhandsome |
-| 451 | 50 | Denell Sims |
-| 452 | 50 | MsBobby Patrick |
-| 453 | 49 | Speedy Stacky |
-| 454 | 49 | SnazzyIvy |
-| 455 | 49 | LexiiSamayaa |
-| 456 | 49 | Jenni Hardman |
-| 457 | 49 | Sallie Sanborn |
-| 458 | 49 | Casey Chapman |
-| 459 | 49 | Teisha Scott |
-| 460 | 49 | No_Other_Choice |
-| 461 | 48 | Stephanie Ellis |
-| 462 | 48 | Slim Shedidthat |
+| 450 | 50 | Slim Shedidthat |
+| 451 | 50 | Jjhandsome |
+| 452 | 50 | Denell Sims |
+| 453 | 50 | MsBobby Patrick |
+| 454 | 49 | Speedy Stacky |
+| 455 | 49 | SnazzyIvy |
+| 456 | 49 | LexiiSamayaa |
+| 457 | 49 | Jenni Hardman |
+| 458 | 49 | Sallie Sanborn |
+| 459 | 49 | Casey Chapman |
+| 460 | 49 | Teisha Scott |
+| 461 | 49 | No_Other_Choice |
+| 462 | 48 | Stephanie Ellis |
 | 463 | 48 | LoveLee |
 | 464 | 48 | Mommy Frank |
 | 465 | 48 | Kahh |
