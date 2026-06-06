@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 06:48:38 UTC
+# Standings for team2 as of 2026-06-06 06:49:17 UTC
 
 **Total Participants:** 1050
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 11046 | Summer Harrison |
 | 2 | 7200 | Mochi |
-| 3 | 6235 | Lacey Nolting |
+| 3 | 7189 | Lacey Nolting |
 | 4 | 6045 | Morgann McDaniel |
 | 5 | 5987 | Tim Ix |
 | 6 | 5653 | A.j. Langley |
@@ -34,10 +34,10 @@
 | 26 | 1598 | Angie BBlock |
 | 27 | 1550 | Quirky Catcher |
 | 28 | 1417 | Bea Bee |
-| 29 | 1369 | Spunky Clicker |
-| 30 | 1335 | Christina Jambard Sampier |
-| 31 | 1300 | Anthony Lilley |
-| 32 | 1300 | Lola C Davis |
+| 29 | 1400 | Lola C Davis |
+| 30 | 1369 | Spunky Clicker |
+| 31 | 1335 | Christina Jambard Sampier |
+| 32 | 1300 | Anthony Lilley |
 | 33 | 1206 | Happy Pivotfall |
 | 34 | 1201 | Monica Galli |
 | 35 | 1128 | Jennifer Corder |
@@ -289,40 +289,40 @@
 | 281 | 79 | Cheery Towerzone |
 | 282 | 79 | Aeryal Snow |
 | 283 | 79 | Perii Reynoso |
-| 284 | 78 | Lively Curve |
-| 285 | 78 | Jef Wassom |
+| 284 | 78 | Jef Wassom |
+| 285 | 78 | Lively Curve |
 | 286 | 77 | Nikki Hayes |
 | 287 | 77 | Sandra Belk |
 | 288 | 77 | Kenzie |
 | 289 | 77 | Heather Vircik |
-| 290 | 76 | Jackie Tupper |
-| 291 | 76 | Tiffany Fitch |
+| 290 | 76 | Tiffany Fitch |
+| 291 | 76 | Reign Hustler |
 | 292 | 76 | Krisanne Kesner-Lonsby |
-| 293 | 76 | Reign Hustler |
-| 294 | 75 | Karly Moore |
-| 295 | 75 | Paula Haskins |
-| 296 | 75 | Jessica Christine |
-| 297 | 75 | Analee Nicole Jones |
-| 298 | 75 | Jgato |
-| 299 | 75 | TetrisMama |
-| 300 | 75 | Christine James |
-| 301 | 74 | Jumpy Dashpiece |
-| 302 | 74 | Natasha Lee |
-| 303 | 74 | James Sayers |
+| 293 | 76 | Jackie Tupper |
+| 294 | 75 | Tamtam |
+| 295 | 75 | TetrisMama |
+| 296 | 75 | Analee Nicole Jones |
+| 297 | 75 | Karly Moore |
+| 298 | 75 | Paula Haskins |
+| 299 | 75 | Jgato |
+| 300 | 75 | Jessica Christine |
+| 301 | 75 | Christine James |
+| 302 | 74 | James Sayers |
+| 303 | 74 | Jumpy Dashpiece |
 | 304 | 74 | Derrick |
-| 305 | 73 | Rachel M. Farnsworth |
-| 306 | 73 | Joannah Capilitan |
+| 305 | 74 | Natasha Lee |
+| 306 | 73 | Rachel M. Farnsworth |
 | 307 | 73 | Sunny Spinzone |
-| 308 | 72 | Nutty Curver |
-| 309 | 72 | Kendi |
-| 310 | 72 | Stephanie Smith Robinson |
-| 311 | 72 | Sully |
-| 312 | 72 | Mary Carriere |
-| 313 | 71 | Cindy Scott |
-| 314 | 71 | Sandy Lynn |
-| 315 | 71 | Groovy Glider |
-| 316 | 70 | Wendy McKee |
-| 317 | 70 | Tamtam |
+| 308 | 73 | Joannah Capilitan |
+| 309 | 72 | Sully |
+| 310 | 72 | Mary Carriere |
+| 311 | 72 | Stephanie Smith Robinson |
+| 312 | 72 | Kendi |
+| 313 | 72 | Nutty Curver |
+| 314 | 71 | Cindy Scott |
+| 315 | 71 | Sandy Lynn |
+| 316 | 71 | Groovy Glider |
+| 317 | 70 | Wendy McKee |
 | 318 | 70 | Courtney Madison Hart |
 | 319 | 70 | Tonya Marino |
 | 320 | 70 | Ceci |

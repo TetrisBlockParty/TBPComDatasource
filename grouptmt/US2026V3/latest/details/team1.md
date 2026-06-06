@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 06:48:38 UTC
+# Standings for team1 as of 2026-06-06 06:49:17 UTC
 
 **Total Participants:** 897
 
@@ -96,23 +96,23 @@
 | 88 | 251 | Helen Smith |
 | 89 | 249 | Ashley MyBeauty Daniels |
 | 90 | 249 | Tamara N Lee |
-| 91 | 244 | Sanjuro |
-| 92 | 244 | Jaida De'Anne Cox |
+| 91 | 244 | Jaida De'Anne Cox |
+| 92 | 244 | Sanjuro |
 | 93 | 240 | Rayya Kiser |
 | 94 | 237 | Leebo Slice |
-| 95 | 224 | Alana Renee |
-| 96 | 221 | Allison Baxter |
-| 97 | 219 | Jamal Itzjusmall Chambers |
-| 98 | 216 | Andi McGreevy |
-| 99 | 216 | Nerdy Snapfall |
-| 100 | 215 | Abraham Espaillat |
+| 95 | 225 | Rhonda Williams Warner |
+| 96 | 224 | Alana Renee |
+| 97 | 221 | Allison Baxter |
+| 98 | 219 | Jamal Itzjusmall Chambers |
+| 99 | 216 | Andi McGreevy |
+| 100 | 216 | Nerdy Snapfall |
 | 101 | 215 | Songne Arif |
-| 102 | 214 | Po Marley |
-| 103 | 214 | Tonya McElroy |
-| 104 | 213 | Jason Mungin |
-| 105 | 209 | Gotcha |
+| 102 | 215 | Abraham Espaillat |
+| 103 | 214 | Po Marley |
+| 104 | 214 | Tonya McElroy |
+| 105 | 213 | Jason Mungin |
 | 106 | 209 | Zachary Colegrove |
-| 107 | 205 | Rhonda Williams Warner |
+| 107 | 209 | Gotcha |
 | 108 | 204 | MamaBear |
 | 109 | 199 | Asani CHumba |
 | 110 | 197 | BYM4L |
@@ -334,96 +334,96 @@
 | 326 | 56 | Nora Mahmoud |
 | 327 | 55 | KoolKimJay |
 | 328 | 55 | Kyle Franklin |
-| 329 | 55 | Terrie |
-| 330 | 55 | Dreamzzz |
-| 331 | 55 | Angelique Talbot |
+| 329 | 55 | Dreamzzz |
+| 330 | 55 | Angelique Talbot |
+| 331 | 55 | Terrie |
 | 332 | 54 | Elizabeth Hopkins |
-| 333 | 54 | Melissa Olvera |
-| 334 | 54 | Rackemwillie34 |
-| 335 | 54 | Ace Hardware |
-| 336 | 54 | xXEKUNXx |
-| 337 | 54 | Tamika Fisher |
-| 338 | 53 | Jumpy Gridlock |
-| 339 | 53 | Clever Wrecker |
-| 340 | 53 | Phillip Vasquez |
-| 341 | 53 | Cortrell Foster |
-| 342 | 53 | Shanaa Germany Crittenden |
-| 343 | 52 | Raquel Ortiz |
+| 333 | 54 | Tamika Fisher |
+| 334 | 54 | Melissa Olvera |
+| 335 | 54 | Lakiesha Crawford |
+| 336 | 54 | Rackemwillie34 |
+| 337 | 54 | xXEKUNXx |
+| 338 | 54 | Ace Hardware |
+| 339 | 53 | Cortrell Foster |
+| 340 | 53 | Shanaa Germany Crittenden |
+| 341 | 53 | Phillip Vasquez |
+| 342 | 53 | Clever Wrecker |
+| 343 | 53 | Jumpy Gridlock |
 | 344 | 52 | Gabriela Hernandez |
-| 345 | 52 | kitten |
-| 346 | 52 | Loopy Risepiece |
-| 347 | 52 | Dandy Brickfit |
-| 348 | 51 | Linzie Marie |
-| 349 | 51 | Rachael Bakowicz Edwards |
-| 350 | 51 | Just2Play$ |
-| 351 | 51 | Shanjerrica Taylor Rosell |
-| 352 | 51 | Comedian Gdane |
-| 353 | 50 | Antoinette Jones |
-| 354 | 50 | Teresa Yanira Cepeda |
-| 355 | 50 | Donna Payne |
-| 356 | 50 | Smiley Clearpiece |
+| 345 | 52 | Dandy Brickfit |
+| 346 | 52 | kitten |
+| 347 | 52 | Loopy Risepiece |
+| 348 | 52 | Raquel Ortiz |
+| 349 | 51 | Comedian Gdane |
+| 350 | 51 | Shanjerrica Taylor Rosell |
+| 351 | 51 | Rachael Bakowicz Edwards |
+| 352 | 51 | Just2Play$ |
+| 353 | 51 | Linzie Marie |
+| 354 | 50 | Donna Payne |
+| 355 | 50 | Antoinette Jones |
+| 356 | 50 | Yazz |
 | 357 | 50 | Slinky Party |
 | 358 | 50 | MsBobby Patrick |
 | 359 | 50 | Nisha Sunshine Jenkins |
-| 360 | 50 | Lakiesha Crawford |
-| 361 | 50 | Denell Sims |
-| 362 | 50 | Yazz |
-| 363 | 49 | No_Other_Choice |
-| 364 | 49 | Speedy Stacky |
-| 365 | 49 | Brittany Fells |
+| 360 | 50 | Teresa Yanira Cepeda |
+| 361 | 50 | Smiley Clearpiece |
+| 362 | 50 | Denell Sims |
+| 363 | 49 | Tremaine Hiler |
+| 364 | 49 | Brittany Fells |
+| 365 | 49 | No_Other_Choice |
 | 366 | 49 | LexiiSamayaa |
-| 367 | 49 | Tremaine Hiler |
+| 367 | 49 | Teisha Scott |
 | 368 | 49 | SnazzyIvy |
-| 369 | 49 | Teisha Scott |
-| 370 | 48 | LoveLee |
-| 371 | 48 | Clever Fitblock |
-| 372 | 48 | Slim Shedidthat |
-| 373 | 48 | Wild Out Nai |
-| 374 | 48 | Lynnette WheelerBushnell |
-| 375 | 48 | Kahh |
-| 376 | 48 | Mommy Frank |
-| 377 | 48 | Slinky Brickmatch |
-| 378 | 48 | Comedian Prince Paul |
-| 379 | 47 | Christopher Dreamsareality McEachin |
+| 369 | 49 | Speedy Stacky |
+| 370 | 48 | Mommy Frank |
+| 371 | 48 | Wild Out Nai |
+| 372 | 48 | Clever Fitblock |
+| 373 | 48 | Kahh |
+| 374 | 48 | Comedian Prince Paul |
+| 375 | 48 | Slinky Brickmatch |
+| 376 | 48 | Lynnette WheelerBushnell |
+| 377 | 48 | LoveLee |
+| 378 | 48 | Slim Shedidthat |
+| 379 | 47 | Faith Armone |
 | 380 | 47 | Shameka Thrasher |
-| 381 | 47 | Faith Armone |
-| 382 | 47 | Smiley Tilebuilder |
-| 383 | 47 | Poppy Twister |
-| 384 | 47 | Kevin Turner |
-| 385 | 47 | Derrius SeriousLee Burks |
-| 386 | 47 | Calvin Green |
-| 387 | 46 | Anthony |
-| 388 | 46 | David A Alvino |
-| 389 | 46 | Felicia Dungey |
-| 390 | 46 | Ja'mice Nelson |
-| 391 | 46 | Maria Baez Medina |
+| 381 | 47 | Poppy Smasher |
+| 382 | 47 | Derrius SeriousLee Burks |
+| 383 | 47 | Calvin Green |
+| 384 | 47 | Christopher Dreamsareality McEachin |
+| 385 | 47 | Kevin Turner |
+| 386 | 47 | Poppy Twister |
+| 387 | 47 | Smiley Tilebuilder |
+| 388 | 46 | Anthony |
+| 389 | 46 | David A Alvino |
+| 390 | 46 | Felicia Dungey |
+| 391 | 46 | Ja'mice Nelson |
 | 392 | 46 | Kimberly Anderson |
 | 393 | 46 | Chris Nelson |
-| 394 | 45 | Poppy Smasher |
-| 395 | 45 | Jenni Hardman |
+| 394 | 46 | Maria Baez Medina |
+| 395 | 45 | Erika Windom |
 | 396 | 45 | La'Chae Nickole |
 | 397 | 45 | Glitzy Clusterer |
 | 398 | 45 | Renee J. Thomas |
-| 399 | 45 | Guy Incognito |
-| 400 | 45 | Erika Windom |
+| 399 | 45 | Jenni Hardman |
+| 400 | 45 | Guy Incognito |
 | 401 | 45 | nameno |
 | 402 | 45 | Slinky Snapbuilder |
 | 403 | 44 | Tamara Johnson-Carter |
 | 404 | 44 | sasha |
 | 405 | 43 | Daring Blockclear |
-| 406 | 43 | Gael Quintana |
-| 407 | 43 | Rufus |
-| 408 | 43 | Block |
-| 409 | 43 | Kimberly Red |
-| 410 | 43 | Brenda Malachi-butler |
-| 411 | 43 | Heather Wilson |
-| 412 | 43 | Giggy Brickfit |
-| 413 | 43 | Rachel Renae Bettis |
+| 406 | 43 | Rufus |
+| 407 | 43 | Gael Quintana |
+| 408 | 43 | Brenda Malachi-butler |
+| 409 | 43 | Heather Wilson |
+| 410 | 43 | Rachel Renae Bettis |
+| 411 | 43 | Giggy Brickfit |
+| 412 | 43 | Kimberly Red |
+| 413 | 43 | Block |
 | 414 | 42 | Bobby Chestefield |
-| 415 | 42 | Louise |
-| 416 | 42 | MrsMeadows2019 |
-| 417 | 42 | Casey Chapman |
-| 418 | 42 | Sunny Riserbuilder |
+| 415 | 42 | Sunny Riserbuilder |
+| 416 | 42 | Louise |
+| 417 | 42 | MrsMeadows2019 |
+| 418 | 42 | Casey Chapman |
 | 419 | 42 | Richard Flex |
 | 420 | 41 | Cranky Fall |
 | 421 | 41 | Lawreniesha Burkley |
