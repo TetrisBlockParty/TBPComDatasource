@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 12:48:16 UTC
+# Standings for team4 as of 2026-06-06 12:48:39 UTC
 
 **Total Participants:** 963
 
@@ -14,9 +14,9 @@
 | 6 | 4242 | ktothet |
 | 7 | 4126 | Anna Moses |
 | 8 | 3820 | TitiLo72 |
-| 9 | 3578 | Cinny |
+| 9 | 3692 | Cinny |
 | 10 | 3539 | Bryony Nicholson |
-| 11 | 3215 | Jackie Lucas |
+| 11 | 3235 | Jackie Lucas |
 | 12 | 3150 | Destiny Dyer |
 | 13 | 3059 | delilahbelle |
 | 14 | 3033 | Tyra Brooke Everman Forest |
