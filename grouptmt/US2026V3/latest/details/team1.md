@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 08:32:17 UTC
+# Standings for team1 as of 2026-06-06 08:32:38 UTC
 
 **Total Participants:** 928
 
@@ -15,12 +15,12 @@
 | 7 | 3690 | Cozy Edge |
 | 8 | 3511 | Timothy Robert |
 | 9 | 3411 | Charlie Roehm |
-| 10 | 3039 | Chummy Combo |
-| 11 | 2338 | Debbie Carswell |
-| 12 | 1980 | Hunter Rayborn |
-| 13 | 1913 | Sha Harris |
-| 14 | 1808 | Yolanda McDonald |
-| 15 | 1795 | Plucky Swipe |
+| 10 | 3071 | Plucky Swipe |
+| 11 | 3039 | Chummy Combo |
+| 12 | 2338 | Debbie Carswell |
+| 13 | 1980 | Hunter Rayborn |
+| 14 | 1913 | Sha Harris |
+| 15 | 1808 | Yolanda McDonald |
 | 16 | 1589 | Brian Stackhouse |
 | 17 | 1449 | jaimie |
 | 18 | 1082 | Daylene Johannes |
