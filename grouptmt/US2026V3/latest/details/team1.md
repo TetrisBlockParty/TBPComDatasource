@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 02:24:16 UTC
+# Standings for team1 as of 2026-06-06 02:24:36 UTC
 
 **Total Participants:** 728
 
@@ -44,9 +44,9 @@
 | 36 | 393 | Lisa Müller |
 | 37 | 389 | Markeeta Lipscomb |
 | 38 | 380 | IamJust Neyamijah Washington Sr. |
-| 39 | 377 | AF Cruz |
-| 40 | 368 | Ottison Dianna |
-| 41 | 360 | Jessica Carter |
+| 39 | 380 | Jessica Carter |
+| 40 | 377 | AF Cruz |
+| 41 | 368 | Ottison Dianna |
 | 42 | 360 | She Higgy |
 | 43 | 360 | Bre Maugh |
 | 44 | 357 | Sarah Marie |
