@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 03:58:17 UTC
+# Standings for team1 as of 2026-06-06 03:58:38 UTC
 
 **Total Participants:** 795
 
@@ -9,7 +9,7 @@
 | 1 | 17500 | Ariel |
 | 2 | 4690 | Dyane Leah Ware |
 | 3 | 4339 | Carrie English |
-| 4 | 3846 | Tracy Cohen |
+| 4 | 4037 | Tracy Cohen |
 | 5 | 3511 | Timothy Robert |
 | 6 | 3297 | Charlie Roehm |
 | 7 | 2946 | Chummy Combo |
@@ -144,10 +144,10 @@
 | 136 | 115 | Byron Mario Cawthon |
 | 137 | 113 | Rachel Zimmerman |
 | 138 | 112 | GamerQueenDS |
-| 139 | 111 | Shalena Marie Humphrey |
-| 140 | 111 | Lesley Brunkus Cianfaglione |
-| 141 | 110 | Atlantalindi |
-| 142 | 108 | Mic Balew |
+| 139 | 111 | Mic Balew |
+| 140 | 111 | Shalena Marie Humphrey |
+| 141 | 111 | Lesley Brunkus Cianfaglione |
+| 142 | 110 | Atlantalindi |
 | 143 | 108 | Kimberly Linares Hernandez |
 | 144 | 105 | LaTonya Myers |
 | 145 | 105 | Lisa Fletcher |
@@ -271,12 +271,12 @@
 | 263 | 54 | Tipsy Linkroll |
 | 264 | 54 | IThinkNot |
 | 265 | 54 | Rackemwillie34 |
-| 266 | 53 | Jumpy Gridlock |
-| 267 | 53 | Cortrell Foster |
-| 268 | 53 | Clever Wrecker |
-| 269 | 53 | MamushiOh |
-| 270 | 52 | Loopy Risepiece |
-| 271 | 52 | Melissa Olvera |
+| 266 | 54 | Melissa Olvera |
+| 267 | 53 | Jumpy Gridlock |
+| 268 | 53 | Cortrell Foster |
+| 269 | 53 | Clever Wrecker |
+| 270 | 53 | MamushiOh |
+| 271 | 52 | Loopy Risepiece |
 | 272 | 52 | Gabriela Hernandez |
 | 273 | 52 | Dandy Brickfit |
 | 274 | 52 | Keke Ferguson |
@@ -786,21 +786,21 @@
 | 778 | 5 | Temeshia Brooks Washington |
 | 779 | 5 | Chill Linkroll |
 | 780 | 5 | Logan Frost |
-| 781 | 5 | the guy |
+| 781 | 5 | Jasmine Hariston-Estis |
 | 782 | 5 | Jennifer Moore |
 | 783 | 5 | Stephanie Zuniga Tullock |
 | 784 | 5 | Kidgib5 |
 | 785 | 5 | DirtiestofMikes |
 | 786 | 5 | Andre Sanon |
 | 787 | 5 | Annette DeLoatch Thompson |
-| 788 | 5 | Jasmine Hariston-Estis |
-| 789 | 5 | Duckey |
-| 790 | 5 | Zappy Clearfit |
-| 791 | 5 | Tito Divyn |
-| 792 | 5 | Perky Pusher |
-| 793 | 5 | Rieshelda Marie White |
-| 794 | 5 | VERA DAME |
-| 795 | 5 | Tipsy Builderline |
+| 788 | 5 | Duckey |
+| 789 | 5 | Zappy Clearfit |
+| 790 | 5 | Tito Divyn |
+| 791 | 5 | Perky Pusher |
+| 792 | 5 | Rieshelda Marie White |
+| 793 | 5 | VERA DAME |
+| 794 | 5 | Tipsy Builderline |
+| 795 | 5 | the guy |
 
 ---
 *Standings created by tournaments datasource generation tool*
