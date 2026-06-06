@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 21:30:39 UTC
+# Standings for team1 as of 2026-06-06 21:31:18 UTC
 
 **Total Participants:** 1170
 
@@ -65,7 +65,7 @@
 | 57 | 689 | Jaida King |
 | 58 | 675 | Corey Cawthon |
 | 59 | 648 | Eartha Brown |
-| 60 | 641 | Blockhead |
+| 60 | 643 | Blockhead |
 | 61 | 605 | JoJo |
 | 62 | 598 | Ivana Schmidt |
 | 63 | 586 | Kellie Hall |
@@ -261,85 +261,85 @@
 | 253 | 126 | Simone Bailey |
 | 254 | 125 | Brittanie Wardlow |
 | 255 | 125 | LaTonya Myers |
-| 256 | 124 | Courtney Cicoria |
-| 257 | 124 | Tipsy Linkroll |
-| 258 | 123 | Slinky Snapbuilder |
-| 259 | 123 | kitten |
+| 256 | 124 | Tipsy Linkroll |
+| 257 | 124 | Courtney Cicoria |
+| 258 | 123 | kitten |
+| 259 | 123 | Slinky Snapbuilder |
 | 260 | 123 | Cauiasia DeJ'ae |
 | 261 | 122 | Miera Nicole |
 | 262 | 121 | Bubbly Piececlear |
 | 263 | 121 | Tiana Monique |
-| 264 | 120 | Valerie Alexander |
+| 264 | 120 | Trina Greenwood |
 | 265 | 120 | Nerdy Blockpiece |
 | 266 | 120 | Guy Incognito |
-| 267 | 120 | Trina Greenwood |
+| 267 | 120 | Valerie Alexander |
 | 268 | 119 | Lexx Robins |
-| 269 | 118 | Rachael Bakowicz Edwards |
-| 270 | 118 | Hasty Pivoty |
-| 271 | 117 | Slim Shedidthat |
-| 272 | 117 | Giggy Tower |
-| 273 | 116 | Kelvin Cook |
-| 274 | 116 | Shalya Terry |
+| 269 | 118 | Hasty Pivoty |
+| 270 | 118 | Rachael Bakowicz Edwards |
+| 271 | 117 | Giggy Tower |
+| 272 | 117 | Slim Shedidthat |
+| 273 | 116 | Shalya Terry |
+| 274 | 116 | Kelvin Cook |
 | 275 | 115 | Skippy |
-| 276 | 115 | Sarah Clark |
-| 277 | 115 | Dizzy Dashy |
+| 276 | 115 | Dizzy Dashy |
+| 277 | 115 | Sarah Clark |
 | 278 | 114 | LAhoneybun82 |
 | 279 | 114 | Brittany Fells |
 | 280 | 112 | GamerQueenDS |
 | 281 | 111 | Lesley Brunkus Cianfaglione |
-| 282 | 110 | Slinky Party |
+| 282 | 110 | Chandler Magee |
 | 283 | 110 | Nate Myers |
-| 284 | 110 | Chandler Magee |
-| 285 | 109 | Bambi Johnson |
-| 286 | 109 | Loopy Tiler |
-| 287 | 109 | Tamika Fisher |
+| 284 | 110 | Slinky Party |
+| 285 | 109 | Tamika Fisher |
+| 286 | 109 | Bambi Johnson |
+| 287 | 109 | Loopy Tiler |
 | 288 | 108 | Dedra M Prester |
 | 289 | 108 | Char |
-| 290 | 107 | Telisha Mims |
-| 291 | 107 | LaToya Chambers |
-| 292 | 106 | TT |
-| 293 | 106 | Chasem45 |
-| 294 | 106 | Mister Reid |
-| 295 | 105 | Dena Marie Lee |
-| 296 | 105 | Katrina Ramey |
-| 297 | 105 | BabyCakes |
-| 298 | 105 | Kelley Johnson |
-| 299 | 104 | Brittnay Wright |
-| 300 | 104 | Ahvae Lee |
+| 290 | 107 | LaToya Chambers |
+| 291 | 107 | Telisha Mims |
+| 292 | 106 | Chasem45 |
+| 293 | 106 | Mister Reid |
+| 294 | 106 | TT |
+| 295 | 105 | Kelley Johnson |
+| 296 | 105 | Dena Marie Lee |
+| 297 | 105 | Katrina Ramey |
+| 298 | 105 | BabyCakes |
+| 299 | 104 | Ahvae Lee |
+| 300 | 104 | Brittnay Wright |
 | 301 | 103 | Choc |
 | 302 | 102 | Maribel Vasquez |
 | 303 | 101 | Manda Allen |
 | 304 | 101 | Joana Thompson |
 | 305 | 100 | Kesha Brady |
-| 306 | 100 | Leavon Smith |
-| 307 | 100 | Hailey Hil |
-| 308 | 100 | Ad Doctor |
-| 309 | 100 | Tamara Johnson-Carter |
-| 310 | 100 | Seddrick |
-| 311 | 100 | Mary Phillippi Blanton |
-| 312 | 100 | Dynah Gordon |
-| 313 | 100 | $hort Dog |
-| 314 | 99 | SeanSanchez |
-| 315 | 99 | ChunLi |
-| 316 | 99 | Ciera Peace |
-| 317 | 98 | Dorian Griffin |
+| 306 | 100 | $hort Dog |
+| 307 | 100 | Leavon Smith |
+| 308 | 100 | Hailey Hil |
+| 309 | 100 | Ad Doctor |
+| 310 | 100 | Tamara Johnson-Carter |
+| 311 | 100 | Seddrick |
+| 312 | 100 | Mary Phillippi Blanton |
+| 313 | 100 | Dynah Gordon |
+| 314 | 100 | Breezy Catcher |
+| 315 | 99 | Ciera Peace |
+| 316 | 99 | SeanSanchez |
+| 317 | 99 | ChunLi |
 | 318 | 98 | Shannon Carriger |
-| 319 | 98 | Maria |
-| 320 | 98 | Ebo Got-Time |
-| 321 | 97 | Simmone T. Kadiri |
-| 322 | 97 | Laurie Napper |
-| 323 | 97 | Shanell Thomas |
-| 324 | 96 | Yazz |
-| 325 | 96 | Phillip Vasquez |
-| 326 | 95 | Stephen Glaze |
-| 327 | 95 | Shiny Lift |
-| 328 | 95 | Tosha Michelle |
-| 329 | 95 | Heather Aurelia |
-| 330 | 95 | HarleyJane |
-| 331 | 95 | Michele Simpson |
-| 332 | 94 | Slinky Brickmatch |
-| 333 | 94 | Cece Fowler |
-| 334 | 94 | Breezy Catcher |
+| 319 | 98 | Ebo Got-Time |
+| 320 | 98 | Maria |
+| 321 | 98 | Dorian Griffin |
+| 322 | 97 | Shanell Thomas |
+| 323 | 97 | Laurie Napper |
+| 324 | 97 | Simmone T. Kadiri |
+| 325 | 96 | Yazz |
+| 326 | 96 | Phillip Vasquez |
+| 327 | 95 | Heather Aurelia |
+| 328 | 95 | Stephen Glaze |
+| 329 | 95 | Shiny Lift |
+| 330 | 95 | Michele Simpson |
+| 331 | 95 | Tosha Michelle |
+| 332 | 95 | HarleyJane |
+| 333 | 94 | Slinky Brickmatch |
+| 334 | 94 | Cece Fowler |
 | 335 | 93 | izzybella |
 | 336 | 92 | Katherine Short |
 | 337 | 92 | Slinky Clearzone |
