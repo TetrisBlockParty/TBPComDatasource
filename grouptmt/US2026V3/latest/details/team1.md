@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 18:42:40 UTC
+# Standings for team1 as of 2026-06-06 18:43:16 UTC
 
 **Total Participants:** 1114
 
@@ -119,32 +119,32 @@
 | 111 | 305 | John Staub |
 | 112 | 304 | Jason Mungin |
 | 113 | 302 | Felicia Williams |
-| 114 | 298 | Leebo Slice |
-| 115 | 297 | Michelle Titus |
-| 116 | 292 | Atlantalindi |
-| 117 | 290 | Roberta Lynn |
-| 118 | 285 | Jaida De'Anne Cox |
-| 119 | 278 | Shontanese Adams |
-| 120 | 275 | Chris Sladoje |
-| 121 | 275 | Jawaun Daniels |
-| 122 | 274 | Tonya Lee Sanders |
-| 123 | 274 | Quirky Fallgrid |
+| 114 | 301 | Quirky Fallgrid |
+| 115 | 298 | Leebo Slice |
+| 116 | 297 | Michelle Titus |
+| 117 | 292 | Atlantalindi |
+| 118 | 290 | Roberta Lynn |
+| 119 | 285 | Jaida De'Anne Cox |
+| 120 | 278 | Shontanese Adams |
+| 121 | 275 | Chris Sladoje |
+| 122 | 275 | Jawaun Daniels |
+| 123 | 274 | Tonya Lee Sanders |
 | 124 | 274 | Tammye Turner |
-| 125 | 273 | MamaBear |
-| 126 | 273 | Dee McCool |
+| 125 | 273 | Dee McCool |
+| 126 | 273 | MamaBear |
 | 127 | 271 | Ashley MyBeauty Daniels |
-| 128 | 270 | Jo NewmindNewfocus Bell |
-| 129 | 270 | Tamara N Lee |
-| 130 | 257 | Helen Smith |
+| 128 | 270 | Tamara N Lee |
+| 129 | 270 | Jo NewmindNewfocus Bell |
+| 130 | 257 | Mimi 1.0 |
 | 131 | 257 | Cathy Young |
-| 132 | 257 | Mimi 1.0 |
+| 132 | 257 | Helen Smith |
 | 133 | 256 | Cortaz Lawrie |
 | 134 | 251 | Allison Baxter |
 | 135 | 249 | Cee Emm |
 | 136 | 247 | Po Marley |
-| 137 | 246 | Alana Renee |
+| 137 | 246 | Denise B |
 | 138 | 246 | Andre Sanon |
-| 139 | 246 | Denise B |
+| 139 | 246 | Alana Renee |
 | 140 | 245 | Derrius SeriousLee Burks |
 | 141 | 240 | Rayya Kiser |
 | 142 | 236 | Nutty Spinblock |
@@ -156,13 +156,13 @@
 | 148 | 222 | Mic Balew |
 | 149 | 220 | Devin West |
 | 150 | 220 | Dacia Hicks |
-| 151 | 216 | Zachary Colegrove |
-| 152 | 216 | Nerdy Snapfall |
+| 151 | 216 | Nerdy Snapfall |
+| 152 | 216 | Zachary Colegrove |
 | 153 | 214 | Tonya McElroy |
 | 154 | 212 | Nobles Brandon |
 | 155 | 209 | Reginald Frank |
-| 156 | 206 | Weeze |
-| 157 | 206 | Curtis T Cirno |
+| 156 | 206 | Curtis T Cirno |
+| 157 | 206 | Weeze |
 | 158 | 200 | Felicia Cain |
 | 159 | 199 | Teddy Davis |
 | 160 | 198 | W.A. Simpson |
@@ -287,9 +287,9 @@
 | 279 | 104 | Brittnay Wright |
 | 280 | 102 | Maribel Vasquez |
 | 281 | 101 | Calvin Green |
-| 282 | 101 | Joana Thompson |
-| 283 | 100 | $hort Dog |
-| 284 | 100 | Telisha Mims |
+| 282 | 101 | Telisha Mims |
+| 283 | 101 | Joana Thompson |
+| 284 | 100 | $hort Dog |
 | 285 | 100 | Leavon Smith |
 | 286 | 100 | Seddrick |
 | 287 | 100 | Hailey Hil |
