@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 22:02:16 UTC
+# Standings for team2 as of 2026-06-06 22:02:39 UTC
 
 **Total Participants:** 1399
 
@@ -513,7 +513,7 @@
 | 505 | 72 | Stephanie Smith Robinson |
 | 506 | 72 | Kati Eckstein |
 | 507 | 72 | Kendi |
-| 508 | 71 | Audrey Bickford |
+| 508 | 72 | Audrey Bickford |
 | 509 | 71 | Chilly Surge |
 | 510 | 71 | John C Morrison |
 | 511 | 71 | Jason Lamporte |
@@ -523,10 +523,10 @@
 | 515 | 71 | Amanda Bottorff |
 | 516 | 71 | Sandy Lynn |
 | 517 | 71 | Groovy Glider |
-| 518 | 70 | Jennifer Covington |
-| 519 | 70 | LadyDeath |
-| 520 | 70 | Katrien |
-| 521 | 70 | Jennifer Lewellyn Hutchins |
+| 518 | 70 | LadyDeath |
+| 519 | 70 | Katrien |
+| 520 | 70 | Jennifer Lewellyn Hutchins |
+| 521 | 70 | Jennifer Covington |
 | 522 | 70 | Michelle Fry-Cash |
 | 523 | 70 | Patti Ward |
 | 524 | 70 | Brenda Zona |
