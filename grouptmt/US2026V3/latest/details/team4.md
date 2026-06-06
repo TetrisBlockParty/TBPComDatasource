@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 00:50:15 UTC
+# Standings for team4 as of 2026-06-06 00:50:37 UTC
 
 **Total Participants:** 607
 
@@ -61,16 +61,16 @@
 | 53 | 240 | Jojo Ann |
 | 54 | 224 | Sisi RedVelvet Reneè |
 | 55 | 216 | Cal Renee |
-| 56 | 203 | Patrick Alley |
-| 57 | 203 | Andrew Dang |
-| 58 | 200 | Jackie Lucas |
-| 59 | 200 | Leah Gorsuch |
+| 56 | 203 | Andrew Dang |
+| 57 | 203 | Patrick Alley |
+| 58 | 200 | Leah Gorsuch |
+| 59 | 200 | Jackie Lucas |
 | 60 | 192 | Renee Sapp |
 | 61 | 184 | Giggly Tilt |
 | 62 | 180 | Aisha Estrada |
-| 63 | 174 | Kimyatta Cavin |
-| 64 | 173 | 626 |
-| 65 | 172 | Leigh Pierce |
+| 63 | 177 | Leigh Pierce |
+| 64 | 174 | Kimyatta Cavin |
+| 65 | 173 | 626 |
 | 66 | 172 | Lisa Garcia |
 | 67 | 169 | blockhead |
 | 68 | 168 | Beee |
@@ -185,16 +185,16 @@
 | 177 | 63 | Kay |
 | 178 | 62 | Megan Vick |
 | 179 | 62 | Frisky Balance |
-| 180 | 60 | aga |
-| 181 | 60 | Amandacolle |
-| 182 | 60 | Jumpy Builderpiece |
-| 183 | 60 | Fran Aaron-Ring |
-| 184 | 60 | Chris Rowe |
-| 185 | 60 | George Marshburn |
-| 186 | 59 | Futrell Brent |
-| 187 | 59 | Paula Renee McCracken |
-| 188 | 58 | Jenn Fitzgerald |
-| 189 | 58 | Shanna Fragen |
+| 180 | 62 | Shanna Fragen |
+| 181 | 60 | aga |
+| 182 | 60 | Amandacolle |
+| 183 | 60 | Jumpy Builderpiece |
+| 184 | 60 | Fran Aaron-Ring |
+| 185 | 60 | Chris Rowe |
+| 186 | 60 | George Marshburn |
+| 187 | 59 | Futrell Brent |
+| 188 | 59 | Paula Renee McCracken |
+| 189 | 58 | Jenn Fitzgerald |
 | 190 | 57 | BusterBear56 |
 | 191 | 57 | Noa Lee |
 | 192 | 57 | Cindy |
