@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 03:20:15 UTC
+# Standings for team4 as of 2026-06-06 03:20:38 UTC
 
 **Total Participants:** 736
 
@@ -55,13 +55,13 @@
 | 47 | 383 | Crissy Hoffman |
 | 48 | 375 | Melissa WC |
 | 49 | 372 | Real Talk Vibes |
-| 50 | 359 | Lisa Garcia |
-| 51 | 356 | Tanita Jobe |
-| 52 | 346 | Alexis Cor |
-| 53 | 333 | Alexandria Frazier |
-| 54 | 330 | Jewelz |
-| 55 | 326 | Nick Graber |
-| 56 | 325 | Sweet Stacker |
+| 50 | 368 | Sweet Stacker |
+| 51 | 359 | Lisa Garcia |
+| 52 | 356 | Tanita Jobe |
+| 53 | 346 | Alexis Cor |
+| 54 | 333 | Alexandria Frazier |
+| 55 | 330 | Jewelz |
+| 56 | 326 | Nick Graber |
 | 57 | 322 | Charlie Lewis |
 | 58 | 312 | Jonathan Hewitt |
 | 59 | 306 | Jason Allen |
@@ -137,10 +137,10 @@
 | 129 | 107 | June Hoffman |
 | 130 | 106 | Joab Gonzalez |
 | 131 | 105 | Taz |
-| 132 | 104 | Justin Ballard |
-| 133 | 104 | Tawna Curry |
-| 134 | 103 | Boldy Rumbler |
-| 135 | 103 | kellie |
+| 132 | 104 | kellie |
+| 133 | 104 | Justin Ballard |
+| 134 | 104 | Tawna Curry |
+| 135 | 103 | Boldy Rumbler |
 | 136 | 100 | CorieBe |
 | 137 | 100 | QueenLi86 |
 | 138 | 99 | Shelby |
