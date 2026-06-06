@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 03:40:15 UTC
+# Standings for team4 as of 2026-06-06 03:40:37 UTC
 
 **Total Participants:** 751
 
@@ -616,49 +616,49 @@
 | 608 | 15 | Jennifer Terrill |
 | 609 | 15 | babygirlw |
 | 610 | 15 | Jennifer Evans Elliott |
-| 611 | 14 | Holly Bramel |
+| 611 | 14 | JoJo Hutson |
 | 612 | 14 | KingCas |
 | 613 | 14 | Dolores Falco |
-| 614 | 14 | Playful Raccoon |
-| 615 | 14 | Nicole Gilmore |
-| 616 | 14 | EpicWizard |
-| 617 | 14 | JoJo Hutson |
-| 618 | 14 | Kiaralis Ashley Hancock |
-| 619 | 14 | Marina |
-| 620 | 14 | Dena Lynn Rogers |
+| 614 | 14 | Nicole Gilmore |
+| 615 | 14 | Playful Raccoon |
+| 616 | 14 | Misti Rich |
+| 617 | 14 | EpicWizard |
+| 618 | 14 | Holly Bramel |
+| 619 | 14 | Kiaralis Ashley Hancock |
+| 620 | 14 | Marina |
 | 621 | 14 | moonman33 |
 | 622 | 14 | Breezy Rollfit |
-| 623 | 13 | Jen Roe |
-| 624 | 13 | Miguel Teixeira |
-| 625 | 13 | Jaison Horton |
-| 626 | 13 | Jackie Russo-Edens |
-| 627 | 13 | Ben Figueroa |
+| 623 | 14 | Dena Lynn Rogers |
+| 624 | 13 | Ben Figueroa |
+| 625 | 13 | Miguel Teixeira |
+| 626 | 13 | Jen Roe |
+| 627 | 13 | Jaison Horton |
 | 628 | 13 | shonaberry |
-| 629 | 12 | Angela Correa |
+| 629 | 13 | Jackie Russo-Edens |
 | 630 | 12 | Vicente Bolaños Jr. |
-| 631 | 12 | chefjaydawg |
+| 631 | 12 | Scott Baum |
 | 632 | 12 | Peterson Cottontail |
-| 633 | 12 | Joyce Hampton |
-| 634 | 12 | ESPERANTU |
-| 635 | 12 | Theo Stamps |
-| 636 | 12 | Scott Baum |
-| 637 | 12 | Misti Rich |
-| 638 | 12 | Diqthot |
-| 639 | 12 | Slinky Snapfit |
-| 640 | 12 | Kat Foreman |
-| 641 | 12 | Tatiyana Hockett |
-| 642 | 12 | Fancy Riser |
-| 643 | 12 | Mighty Spinfit |
-| 644 | 12 | Rebecca Renaud |
-| 645 | 12 | Scrumptious |
-| 646 | 12 | Shelly Jackson |
-| 647 | 12 | Tod Jae |
-| 648 | 11 | Snappy Patternfall |
-| 649 | 11 | Glitzy Crasher |
-| 650 | 11 | Chabetta |
-| 651 | 11 | Cas Gio |
-| 652 | 11 | Michellee Lewis |
-| 653 | 11 | Ashie |
+| 633 | 12 | chefjaydawg |
+| 634 | 12 | Angela Correa |
+| 635 | 12 | Joyce Hampton |
+| 636 | 12 | ESPERANTU |
+| 637 | 12 | Theo Stamps |
+| 638 | 12 | Mighty Spinfit |
+| 639 | 12 | Tod Jae |
+| 640 | 12 | Shelly Jackson |
+| 641 | 12 | Scrumptious |
+| 642 | 12 | Rebecca Renaud |
+| 643 | 12 | Fancy Riser |
+| 644 | 12 | Tatiyana Hockett |
+| 645 | 12 | Kat Foreman |
+| 646 | 12 | Slinky Snapfit |
+| 647 | 12 | Diqthot |
+| 648 | 11 | Ashie |
+| 649 | 11 | Michellee Lewis |
+| 650 | 11 | Snappy Patternfall |
+| 651 | 11 | Glitzy Crasher |
+| 652 | 11 | Chabetta |
+| 653 | 11 | Cas Gio |
 | 654 | 11 | OFOZO |
 | 655 | 10 | Lisa Jones |
 | 656 | 10 | Monique Anne Edwards |

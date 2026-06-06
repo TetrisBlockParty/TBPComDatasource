@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 03:40:15 UTC
+# Standings for team2 as of 2026-06-06 03:40:37 UTC
 
 **Total Participants:** 925
 
@@ -79,55 +79,55 @@
 | 71 | 289 | Giddy Slamdrop |
 | 72 | 280 | Mom |
 | 73 | 262 | Tom Badgley |
-| 74 | 261 | Amber Salazar |
-| 75 | 261 | Sarah Griffey |
+| 74 | 261 | Sarah Griffey |
+| 75 | 261 | Amber Salazar |
 | 76 | 251 | Angie Kowalsky Olson |
 | 77 | 250 | Wmk Rathbun |
 | 78 | 247 | Heather Burgett |
-| 79 | 242 | Snappy Combo |
-| 80 | 236 | Steven Craig |
-| 81 | 230 | Brandy Chinelle |
-| 82 | 229 | Bon Lynn |
-| 83 | 228 | Keri Mears |
-| 84 | 220 | Courtney McCulley |
-| 85 | 220 | Judy Long |
-| 86 | 204 | Deborah Boyce Minor |
-| 87 | 201 | Danielle Pack Lewellen |
-| 88 | 200 | Sarah Grundisch |
-| 89 | 199 | Stella |
-| 90 | 199 | Erin Thomas |
-| 91 | 199 | Beverly Lynn Mills |
-| 92 | 195 | Bb |
-| 93 | 189 | DayDreamer79 |
-| 94 | 187 | Suki Jacobs |
-| 95 | 182 | AcardBoardBox |
-| 96 | 180 | Lisa Breiding |
-| 97 | 179 | Nathan Walker |
-| 98 | 175 | Milad Arzani |
-| 99 | 165 | Karen Reid Cenkush |
+| 79 | 245 | Renee Freeman Jacobson |
+| 80 | 242 | Snappy Combo |
+| 81 | 236 | Steven Craig |
+| 82 | 230 | Brandy Chinelle |
+| 83 | 229 | Bon Lynn |
+| 84 | 228 | Keri Mears |
+| 85 | 220 | Courtney McCulley |
+| 86 | 220 | Judy Long |
+| 87 | 204 | Deborah Boyce Minor |
+| 88 | 201 | Danielle Pack Lewellen |
+| 89 | 200 | Sarah Grundisch |
+| 90 | 199 | Beverly Lynn Mills |
+| 91 | 199 | Erin Thomas |
+| 92 | 199 | Stella |
+| 93 | 195 | Bb |
+| 94 | 189 | DayDreamer79 |
+| 95 | 187 | Suki Jacobs |
+| 96 | 182 | AcardBoardBox |
+| 97 | 180 | Lisa Breiding |
+| 98 | 179 | Nathan Walker |
+| 99 | 175 | Milad Arzani |
 | 100 | 165 | Ackerman 85 |
-| 101 | 162 | Larry Cross |
-| 102 | 160 | Linda Guay |
-| 103 | 160 | Helen Thomas |
-| 104 | 159 | Michelle Rich Burkhart |
-| 105 | 158 | Nettrainer |
+| 101 | 165 | Karen Reid Cenkush |
+| 102 | 162 | Larry Cross |
+| 103 | 160 | Linda Guay |
+| 104 | 160 | Helen Thomas |
+| 105 | 159 | Michelle Rich Burkhart |
 | 106 | 158 | Amy Nicole McCanne |
-| 107 | 157 | Dallas Runyan |
-| 108 | 155 | Cara Rivera |
-| 109 | 154 | Santara Ferguson |
-| 110 | 154 | Missy Renia |
-| 111 | 153 | Zesty Strikerbuilder |
-| 112 | 152 | Lush Party |
-| 113 | 151 | Melissa Nash |
-| 114 | 151 | Marilyn Mendoza |
-| 115 | 151 | Eric Wayne Maschman |
-| 116 | 150 | Crystal Allen |
+| 107 | 158 | Nettrainer |
+| 108 | 157 | Dallas Runyan |
+| 109 | 155 | Cara Rivera |
+| 110 | 154 | Santara Ferguson |
+| 111 | 154 | Missy Renia |
+| 112 | 153 | Zesty Strikerbuilder |
+| 113 | 152 | Lush Party |
+| 114 | 151 | Eric Wayne Maschman |
+| 115 | 151 | Marilyn Mendoza |
+| 116 | 151 | Melissa Nash |
 | 117 | 150 | Angie Mccain |
-| 118 | 148 | Ashley Green |
+| 118 | 150 | Crystal Allen |
 | 119 | 148 | Amber Cogdill |
-| 120 | 145 | Renee Freeman Jacobson |
-| 121 | 141 | Melisa |
-| 122 | 141 | Spicy Risegrid |
+| 120 | 148 | Ashley Green |
+| 121 | 141 | Spicy Risegrid |
+| 122 | 141 | Melisa |
 | 123 | 141 | H |
 | 124 | 140 | snowwol |
 | 125 | 140 | Curly Windbreaker |
@@ -439,69 +439,69 @@
 | 431 | 40 | Shay Lynn King |
 | 432 | 40 | Spicy Balanceblock |
 | 433 | 40 | Missy Stevens |
-| 434 | 40 | Mandy |
-| 435 | 40 | Tamtam |
-| 436 | 40 | Courtney Ribas |
-| 437 | 40 | Squared |
+| 434 | 40 | Brandi Williams |
+| 435 | 40 | Cathy Tippett |
+| 436 | 40 | Nicole Chestnut |
+| 437 | 40 | Katie Jones |
 | 438 | 40 | Jgato |
-| 439 | 40 | Katie Jones |
-| 440 | 40 | Nicole Chestnut |
-| 441 | 40 | Cathy Tippett |
-| 442 | 40 | Brandi Williams |
-| 443 | 39 | Samantha Brown |
-| 444 | 39 | Erin Lemanski |
-| 445 | 39 | PaiBri |
-| 446 | 39 | Alexis Meyers |
-| 447 | 39 | Slinky Glidezone |
-| 448 | 39 | Rae |
-| 449 | 39 | Angelica Jelli Gillaspy |
-| 450 | 39 | Tim Moore |
-| 451 | 38 | Jason P. Schwartz |
-| 452 | 38 | Elise Marie Mireles |
-| 453 | 38 | Jacquelyn Snyder Dumas |
+| 439 | 40 | Squared |
+| 440 | 40 | Courtney Ribas |
+| 441 | 40 | Tamtam |
+| 442 | 40 | Mandy |
+| 443 | 39 | PaiBri |
+| 444 | 39 | Alexis Meyers |
+| 445 | 39 | Slinky Glidezone |
+| 446 | 39 | Rae |
+| 447 | 39 | Britt |
+| 448 | 39 | Erin Lemanski |
+| 449 | 39 | Samantha Brown |
+| 450 | 39 | Angelica Jelli Gillaspy |
+| 451 | 39 | Tim Moore |
+| 452 | 38 | Jason P. Schwartz |
+| 453 | 38 | Elise Marie Mireles |
 | 454 | 38 | Perky Patternbuilder |
-| 455 | 37 | Buddy |
-| 456 | 37 | Staci Walker |
-| 457 | 37 | Josh Vietz |
-| 458 | 37 | Marilyn Strickland |
-| 459 | 37 | Kawana Nesbitt |
-| 460 | 37 | Louis Brudzinski |
-| 461 | 37 | Natalie M. Arredondo |
+| 455 | 38 | Jacquelyn Snyder Dumas |
+| 456 | 37 | Buddy |
+| 457 | 37 | Staci Walker |
+| 458 | 37 | Josh Vietz |
+| 459 | 37 | Marilyn Strickland |
+| 460 | 37 | Kawana Nesbitt |
+| 461 | 37 | Louis Brudzinski |
 | 462 | 37 | Natasha Lee |
-| 463 | 36 | Amanda Stanley |
-| 464 | 36 | Nikki Sadler |
-| 465 | 36 | bozzycat |
-| 466 | 36 | Eugene Clawson |
-| 467 | 36 | Christina Hanson |
-| 468 | 36 | Deborah Lint Odom |
-| 469 | 36 | Joshua Dye |
-| 470 | 36 | Stacey Loretta Wallace |
-| 471 | 36 | Kimberly Brooks |
-| 472 | 36 | Jayda Walters |
-| 473 | 35 | Josie Mendivil |
-| 474 | 35 | Jessica LeNeave |
-| 475 | 35 | Kelly |
-| 476 | 35 | Snazzy Clusterfit |
-| 477 | 35 | Signerlisa |
-| 478 | 35 | blockrocker |
-| 479 | 35 | Fancy Stacker |
-| 480 | 35 | Tonya Marino |
-| 481 | 35 | Momi Kamohai |
-| 482 | 35 | Goldie |
-| 483 | 35 | Thomas Johnstone |
-| 484 | 35 | Wendy Mcbride |
-| 485 | 35 | Isiwin |
-| 486 | 34 | Jennifer McCloskey Launder |
-| 487 | 34 | Auntie YaYa |
-| 488 | 34 | Tracy Tokarz |
-| 489 | 34 | Britt |
+| 463 | 37 | Natalie M. Arredondo |
+| 464 | 36 | Jayda Walters |
+| 465 | 36 | Nikki Sadler |
+| 466 | 36 | bozzycat |
+| 467 | 36 | Eugene Clawson |
+| 468 | 36 | Christina Hanson |
+| 469 | 36 | Kimberly Brooks |
+| 470 | 36 | Deborah Lint Odom |
+| 471 | 36 | Amanda Stanley |
+| 472 | 36 | Stacey Loretta Wallace |
+| 473 | 36 | Joshua Dye |
+| 474 | 35 | Snazzy Clusterfit |
+| 475 | 35 | Isiwin |
+| 476 | 35 | Kelly |
+| 477 | 35 | blockrocker |
+| 478 | 35 | Signerlisa |
+| 479 | 35 | Thomas Johnstone |
+| 480 | 35 | Fancy Stacker |
+| 481 | 35 | Josie Mendivil |
+| 482 | 35 | Tonya Marino |
+| 483 | 35 | Momi Kamohai |
+| 484 | 35 | Jessica LeNeave |
+| 485 | 35 | Goldie |
+| 486 | 35 | Wendy Mcbride |
+| 487 | 34 | Jennifer McCloskey Launder |
+| 488 | 34 | Auntie YaYa |
+| 489 | 34 | Tracy Tokarz |
 | 490 | 33 | Smiley Dropper |
 | 491 | 33 | Linzy Ratliff |
 | 492 | 33 | Rhonda Driskill |
 | 493 | 33 | Sandy Rundel Holderman |
-| 494 | 32 | TNGal |
-| 495 | 32 | Brian Favre |
-| 496 | 32 | Joshua Hopkins |
+| 494 | 32 | Brian Favre |
+| 495 | 32 | Joshua Hopkins |
+| 496 | 32 | TNGal |
 | 497 | 32 | Brandy Wallace |
 | 498 | 31 | IncrediDragon |
 | 499 | 31 | SunnySquare |
