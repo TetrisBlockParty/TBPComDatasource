@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 17:30:40 UTC
+# Standings for team1 as of 2026-06-06 17:31:18 UTC
 
 **Total Participants:** 1086
 
@@ -68,8 +68,8 @@
 | 60 | 541 | Andi McGreevy |
 | 61 | 540 | IamJust Neyamijah Washington Sr. |
 | 62 | 527 | KenpachisGirl |
-| 63 | 511 | Dizzy Dropper |
-| 64 | 511 | Abraham Espaillat |
+| 63 | 511 | Abraham Espaillat |
+| 64 | 511 | Dizzy Dropper |
 | 65 | 502 | Tiana Moore |
 | 66 | 495 | Joy Citizen Pickney |
 | 67 | 493 | Eartha Brown |
@@ -81,18 +81,18 @@
 | 73 | 448 | Ottison Dianna |
 | 74 | 448 | Chirpy Corner |
 | 75 | 446 | Chenell Gillard |
-| 76 | 434 | Gotcha |
-| 77 | 434 | Todd C. Clemens |
+| 76 | 434 | Todd C. Clemens |
+| 77 | 434 | Gotcha |
 | 78 | 421 | ing410 |
 | 79 | 421 | Bre Maugh |
 | 80 | 401 | Shell Lewis |
-| 81 | 397 | JaszyBadd |
-| 82 | 394 | ELM |
-| 83 | 392 | She Higgy |
-| 84 | 388 | SPNLover24 |
-| 85 | 387 | Novaa |
-| 86 | 382 | Gael Quintana |
-| 87 | 380 | Jessica Carter |
+| 81 | 400 | Jessica Carter |
+| 82 | 397 | JaszyBadd |
+| 83 | 394 | ELM |
+| 84 | 392 | She Higgy |
+| 85 | 388 | SPNLover24 |
+| 86 | 387 | Novaa |
+| 87 | 382 | Gael Quintana |
 | 88 | 377 | AF Cruz |
 | 89 | 376 | Eric Mcgaughy |
 | 90 | 370 | Lashawn Wallace |
@@ -149,17 +149,17 @@
 | 141 | 226 | xXEKUNXx |
 | 142 | 225 | Rhonda Williams Warner |
 | 143 | 222 | Mic Balew |
-| 144 | 220 | Devin West |
-| 145 | 220 | Dacia Hicks |
+| 144 | 220 | Dacia Hicks |
+| 145 | 220 | Devin West |
 | 146 | 218 | Quirky Fallgrid |
 | 147 | 216 | Zachary Colegrove |
 | 148 | 216 | Nerdy Snapfall |
-| 149 | 214 | Tonya McElroy |
-| 150 | 212 | Nobles Brandon |
-| 151 | 208 | David Fuentes |
-| 152 | 206 | Curtis T Cirno |
-| 153 | 206 | Weeze |
-| 154 | 204 | Angela R Wilson |
+| 149 | 215 | Angela R Wilson |
+| 150 | 214 | Tonya McElroy |
+| 151 | 212 | Nobles Brandon |
+| 152 | 208 | David Fuentes |
+| 153 | 206 | Curtis T Cirno |
+| 154 | 206 | Weeze |
 | 155 | 200 | Felicia Cain |
 | 156 | 199 | Reginald Frank |
 | 157 | 199 | Teddy Davis |
@@ -170,8 +170,8 @@
 | 162 | 195 | Christian Pham |
 | 163 | 194 | Daris Swearington |
 | 164 | 193 | Brave Clearbuilder |
-| 165 | 191 | Lashaunda |
-| 166 | 191 | Kelli Couture |
+| 165 | 191 | Kelli Couture |
+| 166 | 191 | Lashaunda |
 | 167 | 190 | Davionte DaeDae Hopson-Rodriguez |
 | 168 | 188 | Sharon Cail |
 | 169 | 185 | Rayshawn Cohen |
@@ -672,77 +672,77 @@
 | 664 | 34 | Latoya Carson |
 | 665 | 34 | Jeremy Pope |
 | 666 | 34 | Mary Phillippi Blanton |
-| 667 | 33 | Krose Byers |
-| 668 | 33 | Sara |
-| 669 | 33 | Danny M GR |
-| 670 | 33 | Kim Holzmiller |
-| 671 | 33 | Mathew Trudell |
-| 672 | 33 | Koz176 |
+| 667 | 33 | Kim Holzmiller |
+| 668 | 33 | Krose Byers |
+| 669 | 33 | Sara |
+| 670 | 33 | Danny M GR |
+| 671 | 33 | Koz176 |
+| 672 | 33 | Mathew Trudell |
 | 673 | 33 | Mom3granny2 |
 | 674 | 33 | Snippy Breaker |
 | 675 | 33 | Crtjstr |
 | 676 | 33 | Cali Lee |
 | 677 | 33 | Lucy |
-| 678 | 33 | Flash97 |
+| 678 | 33 | Danielle Barthelme |
 | 679 | 33 | P C |
-| 680 | 33 | Melanie Houghton-McCann |
-| 681 | 33 | Danielle Barthelme |
-| 682 | 33 | Joseph Vs Cap |
-| 683 | 33 | Jason Saputo |
-| 684 | 33 | Jodie |
-| 685 | 32 | Melvin Simpson |
-| 686 | 32 | Stephanie Scott |
-| 687 | 32 | LaQuita White |
-| 688 | 32 | LaSharon Jackson |
-| 689 | 32 | Betsy B. Yohan |
-| 690 | 32 | DellaLucretia Thomas |
-| 691 | 32 | Tomme Poliwka |
-| 692 | 32 | Sylvia Offically A Mcgowan |
-| 693 | 32 | TotoCherue |
-| 694 | 32 | Chummy Liner |
-| 695 | 32 | Tessa Felice Hill |
-| 696 | 31 | Edward Hickmon |
+| 680 | 33 | Flash97 |
+| 681 | 33 | Melanie Houghton-McCann |
+| 682 | 33 | Jodie |
+| 683 | 33 | Joseph Vs Cap |
+| 684 | 33 | Jason Saputo |
+| 685 | 32 | Sylvia Offically A Mcgowan |
+| 686 | 32 | TotoCherue |
+| 687 | 32 | Tessa Felice Hill |
+| 688 | 32 | Stephanie Scott |
+| 689 | 32 | LaQuita White |
+| 690 | 32 | Betsy B. Yohan |
+| 691 | 32 | LaSharon Jackson |
+| 692 | 32 | DellaLucretia Thomas |
+| 693 | 32 | Tomme Poliwka |
+| 694 | 32 | Melvin Simpson |
+| 695 | 32 | Chummy Liner |
+| 696 | 31 | Ķïrãã Ďãvïss |
 | 697 | 31 | Nekka |
-| 698 | 31 | Andra Ward |
-| 699 | 31 | Vannie G |
-| 700 | 31 | Ķïrãã Ďãvïss |
-| 701 | 31 | Riq Wokhardt |
-| 702 | 31 | kingbrook |
+| 698 | 31 | Riq Wokhardt |
+| 699 | 31 | kingbrook |
+| 700 | 31 | Vannie G |
+| 701 | 31 | Andra Ward |
+| 702 | 31 | Edward Hickmon |
 | 703 | 30 | Frankey Chi |
 | 704 | 30 | Sarah Guarino |
-| 705 | 30 | Jessica Corey |
-| 706 | 30 | Tez Mays |
-| 707 | 30 | Taneka Howell |
-| 708 | 30 | Bouncy Glide |
+| 705 | 30 | Taneka Howell |
+| 706 | 30 | Jessica Corey |
+| 707 | 30 | Bouncy Glide |
+| 708 | 30 | Abby |
 | 709 | 30 | Dannie |
 | 710 | 30 | TiffanyG |
 | 711 | 30 | Falisa Bell |
-| 712 | 30 | Witty Blockpiece |
-| 713 | 30 | Rhianna Dinki Austin |
-| 714 | 30 | Witty Clear |
-| 715 | 30 | Rosalind Chatman |
-| 716 | 30 | Abby |
-| 717 | 30 | Adrian Wilson |
-| 718 | 29 | Everett Semmions |
-| 719 | 29 | Rissa Rozay |
-| 720 | 29 | Dirty Deeds |
-| 721 | 29 | Katness |
-| 722 | 29 | Jeffrey Barrows |
-| 723 | 29 | Epic Wipepiece |
-| 724 | 28 | Stanley Dixon |
-| 725 | 28 | Will Stanton |
-| 726 | 28 | Charise McGee |
-| 727 | 28 | Leon Matthew Williams |
-| 728 | 28 | Desi Guerra |
-| 729 | 28 | Ameillia Boughner |
-| 730 | 28 | kiki |
-| 731 | 28 | SnazzySnippet |
-| 732 | 28 | AleahKCH |
+| 712 | 30 | Tez Mays |
+| 713 | 30 | Witty Blockpiece |
+| 714 | 30 | Rhianna Dinki Austin |
+| 715 | 30 | Stanley Dixon |
+| 716 | 30 | Rosalind Chatman |
+| 717 | 30 | Witty Clear |
+| 718 | 30 | Adrian Wilson |
+| 719 | 29 | Everett Semmions |
+| 720 | 29 | Rissa Rozay |
+| 721 | 29 | Dirty Deeds |
+| 722 | 29 | Epic Wipepiece |
+| 723 | 29 | Jeffrey Barrows |
+| 724 | 29 | Katness |
+| 725 | 28 | AleahKCH |
+| 726 | 28 | SnazzySnippet |
+| 727 | 28 | kiki |
+| 728 | 28 | Ameillia Boughner |
+| 729 | 28 | Desi Guerra |
+| 730 | 28 | Charise McGee |
+| 731 | 28 | Will Stanton |
+| 732 | 28 | Leon Matthew Williams |
 | 733 | 27 | Zesty Fitclear |
-| 734 | 27 | Angela L Charles |
+| 734 | 27 | brite |
 | 735 | 27 | katia |
-| 736 | 27 | Shaylyn Lockwood |
-| 737 | 27 | brite |
+| 736 | 27 | Angela L Charles |
+| 737 | 27 | Shaylyn Lockwood |
 | 738 | 27 | Brave Balanceblock |
 | 739 | 27 | Tina Criam |
 | 740 | 27 | jeremy92 |
