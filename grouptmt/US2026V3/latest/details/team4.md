@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 23:05:17 UTC
+# Standings for team4 as of 2026-06-06 23:06:18 UTC
 
 **Total Participants:** 1192
 
@@ -23,7 +23,7 @@
 | 15 | 3612 | Tonya Brooks-Johnson |
 | 16 | 3150 | Destiny Dyer |
 | 17 | 3095 | Irene Arreguin |
-| 18 | 3033 | Tyra Brooke Everman Forest |
+| 18 | 3042 | Tyra Brooke Everman Forest |
 | 19 | 2882 | Fruitpunch |
 | 20 | 2643 | t |
 | 21 | 2537 | Senor Moppy |
@@ -118,9 +118,9 @@
 | 110 | 353 | Hen |
 | 111 | 347 | Nikki Fuller Johnson |
 | 112 | 346 | Alexis Cor |
-| 113 | 343 | Cinta Marie |
-| 114 | 336 | Trice Stevenson |
-| 115 | 334 | adrian |
+| 113 | 344 | adrian |
+| 114 | 343 | Cinta Marie |
+| 115 | 336 | Trice Stevenson |
 | 116 | 332 | RotatedWrongAgain |
 | 117 | 326 | Bobbie Harrell |
 | 118 | 325 | Kim |
@@ -348,38 +348,38 @@
 | 340 | 94 | Janae Harris |
 | 341 | 94 | Karen Rodriguez |
 | 342 | 93 | Mark Fitch Jr. |
-| 343 | 92 | William Brooks |
-| 344 | 91 | Cindy |
-| 345 | 91 | Drh4090 |
-| 346 | 91 | Miss Beast |
-| 347 | 91 | Jennifer Garcia |
-| 348 | 91 | Diana Fernandez |
-| 349 | 90 | Flashy Shatterer |
-| 350 | 90 | Dexter Hammond Jr |
-| 351 | 90 | Codey Haffner |
-| 352 | 90 | Maurice DeJean |
-| 353 | 90 | Witty Fitblock |
-| 354 | 90 | 1694AF |
-| 355 | 89 | Chirpy Snapclear |
-| 356 | 89 | Rosy Perez |
-| 357 | 89 | Mrs |
-| 358 | 89 | my my |
+| 343 | 92 | my my |
+| 344 | 92 | William Brooks |
+| 345 | 91 | Cindy |
+| 346 | 91 | Drh4090 |
+| 347 | 91 | Miss Beast |
+| 348 | 91 | Jennifer Garcia |
+| 349 | 91 | Diana Fernandez |
+| 350 | 90 | Flashy Shatterer |
+| 351 | 90 | Dexter Hammond Jr |
+| 352 | 90 | Codey Haffner |
+| 353 | 90 | Maurice DeJean |
+| 354 | 90 | Witty Fitblock |
+| 355 | 90 | 1694AF |
+| 356 | 89 | Chirpy Snapclear |
+| 357 | 89 | Rosy Perez |
+| 358 | 89 | Mrs |
 | 359 | 88 | Donna Bush |
 | 360 | 88 | Chonda OhanaMomma Michelle |
 | 361 | 88 | Deva Marie Barber |
-| 362 | 88 | DizzB400 |
-| 363 | 88 | SandyEva |
-| 364 | 87 | Limbo |
-| 365 | 87 | Miwa |
-| 366 | 87 | Jeff Margolis |
-| 367 | 87 | da1ndonly |
-| 368 | 86 | Dandy Cascade |
-| 369 | 86 | Stef |
-| 370 | 86 | Autumn Maher |
-| 371 | 86 | SupaFly |
+| 362 | 88 | SandyEva |
+| 363 | 88 | DizzB400 |
+| 364 | 87 | da1ndonly |
+| 365 | 87 | Jeff Margolis |
+| 366 | 87 | Limbo |
+| 367 | 87 | Miwa |
+| 368 | 86 | Stef |
+| 369 | 86 | Autumn Maher |
+| 370 | 86 | SupaFly |
+| 371 | 86 | Dandy Cascade |
 | 372 | 86 | ManOfSteel |
-| 373 | 86 | Courtney Niichole |
-| 374 | 86 | Jessica Jones Bolton |
+| 373 | 86 | Jessica Jones Bolton |
+| 374 | 86 | Courtney Niichole |
 | 375 | 85 | MelodiousDeez |
 | 376 | 85 | Wacky Brick |
 | 377 | 85 | Kari Smith |
@@ -493,79 +493,79 @@
 | 485 | 65 | Lul Babie |
 | 486 | 65 | Cranky Twistpiece |
 | 487 | 65 | Deborah Ayliffe |
-| 488 | 64 | Destiny Starr LeValdo |
-| 489 | 64 | Deb 07 |
+| 488 | 64 | Marisela Alvarado |
+| 489 | 64 | Destiny Starr LeValdo |
 | 490 | 64 | Daring Brickbuilder |
-| 491 | 64 | Marisela Alvarado |
-| 492 | 64 | David Lay |
-| 493 | 64 | sierrabeth |
-| 494 | 64 | Suzanne North |
-| 495 | 63 | Brenda Mueller |
-| 496 | 63 | Brenda Gustamantes |
-| 497 | 63 | Butterpat |
-| 498 | 63 | Breezy Rollfit |
-| 499 | 63 | Shirley A. Godfrey |
+| 491 | 64 | Deb 07 |
+| 492 | 64 | Baysoph |
+| 493 | 64 | David Lay |
+| 494 | 64 | sierrabeth |
+| 495 | 64 | Suzanne North |
+| 496 | 63 | Brenda Mueller |
+| 497 | 63 | Breezy Rollfit |
+| 498 | 63 | Brenda Gustamantes |
+| 499 | 63 | Butterpat |
 | 500 | 63 | Karen Davis |
-| 501 | 63 | Fancy Rollfit |
-| 502 | 63 | MattJennifer Marie Ericson |
-| 503 | 62 | YenSid |
-| 504 | 62 | Tony Clark |
+| 501 | 63 | MattJennifer Marie Ericson |
+| 502 | 63 | Shirley A. Godfrey |
+| 503 | 63 | Fancy Rollfit |
+| 504 | 62 | Chris McBlockster |
 | 505 | 62 | Mar Mar |
-| 506 | 62 | Surviving Be Back Soon |
-| 507 | 62 | Gabby Simones |
-| 508 | 62 | Lisa Pie |
-| 509 | 62 | medicjessi |
-| 510 | 62 | Chris McBlockster |
+| 506 | 62 | Gabby Simones |
+| 507 | 62 | YenSid |
+| 508 | 62 | Tony Clark |
+| 509 | 62 | Lisa Pie |
+| 510 | 62 | Alicia Cook |
 | 511 | 62 | Joyce Hampton |
-| 512 | 62 | Alicia Cook |
-| 513 | 62 | 94Blockhead |
-| 514 | 61 | Lolita Nettles |
-| 515 | 61 | Tasha Suzanne Prisbrey |
-| 516 | 61 | Happy Filler |
-| 517 | 61 | Maria Castillo |
-| 518 | 61 | Missionary Meda |
-| 519 | 60 | DanceAngel |
-| 520 | 60 | Silly Fallzone |
+| 512 | 62 | 94Blockhead |
+| 513 | 62 | Surviving Be Back Soon |
+| 514 | 62 | medicjessi |
+| 515 | 62 | Maria Castillo |
+| 516 | 61 | Tasha Suzanne Prisbrey |
+| 517 | 61 | Lolita Nettles |
+| 518 | 61 | Happy Filler |
+| 519 | 61 | Missionary Meda |
+| 520 | 60 | Randy M Hatch |
 | 521 | 60 | Rin |
-| 522 | 60 | Chris Rowe |
-| 523 | 60 | Brandon Bedenbaugh |
-| 524 | 60 | Wanda Simmons |
-| 525 | 60 | Jessica Kelly |
-| 526 | 60 | Helen Bradley |
-| 527 | 60 | Nerdy Brickster |
-| 528 | 60 | Anthony Magaraci |
-| 529 | 60 | Nicole Ambrose |
-| 530 | 60 | Kristine Hj Han |
-| 531 | 60 | Uh Lesh Uh |
+| 522 | 60 | Silly Fallzone |
+| 523 | 60 | Wanda Simmons |
+| 524 | 60 | Chris Rowe |
+| 525 | 60 | Brandon Bedenbaugh |
+| 526 | 60 | Jessica Kelly |
+| 527 | 60 | DanceAngel |
+| 528 | 60 | Uh Lesh Uh |
+| 529 | 60 | Helen Bradley |
+| 530 | 60 | Anthony Magaraci |
+| 531 | 60 | Kristine Hj Han |
 | 532 | 60 | Jeri Anne Stormo-Toman |
-| 533 | 60 | George Marshburn |
-| 534 | 60 | Randy M Hatch |
-| 535 | 60 | Tiffy |
-| 536 | 59 | Yvette Johnson |
-| 537 | 59 | Stotty |
-| 538 | 59 | Capone |
-| 539 | 59 | Jacinta Hooker-Brown |
-| 540 | 59 | Snippy Splitter |
-| 541 | 59 | Inez Nez |
-| 542 | 59 | Tammy Lasseigne |
+| 533 | 60 | Nicole Ambrose |
+| 534 | 60 | Tiffy |
+| 535 | 60 | George Marshburn |
+| 536 | 60 | Nerdy Brickster |
+| 537 | 59 | Yvette Johnson |
+| 538 | 59 | Stotty |
+| 539 | 59 | Capone |
+| 540 | 59 | Jacinta Hooker-Brown |
+| 541 | 59 | Snippy Splitter |
+| 542 | 59 | Inez Nez |
 | 543 | 59 | Anthony Kollar |
 | 544 | 59 | Loyalty83 |
 | 545 | 59 | Gigi5 |
-| 546 | 58 | Kimberly Lusk |
-| 547 | 58 | Jade Alley |
-| 548 | 58 | Lana Tran |
-| 549 | 58 | Mc3003 |
-| 550 | 58 | Baysoph |
+| 546 | 59 | Tammy Lasseigne |
+| 547 | 58 | Kimberly Lusk |
+| 548 | 58 | Jade Alley |
+| 549 | 58 | Lana Tran |
+| 550 | 58 | Mc3003 |
 | 551 | 58 | Holly Bramel |
-| 552 | 57 | Lala |
-| 553 | 57 | Erich EMac McIntosh |
+| 552 | 57 | Erich EMac McIntosh |
+| 553 | 57 | PerfectPieces |
 | 554 | 57 | EpicWizard |
-| 555 | 57 | PerfectPieces |
+| 555 | 57 | Lala |
 | 556 | 57 | Волна Бог |
 | 557 | 57 | Giggy Snapgrid |
 | 558 | 57 | PapaB |
-| 559 | 57 | Plucky Shatterfit |
-| 560 | 57 | Rocky |
+| 559 | 57 | Rocky |
+| 560 | 57 | Plucky Shatterfit |
 | 561 | 57 | Heather Hilferty |
 | 562 | 57 | Erica Pompey |
 | 563 | 56 | Zappy Matchgrid |
