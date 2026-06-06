@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 22:24:18 UTC
+# Standings for team2 as of 2026-06-06 22:24:38 UTC
 
 **Total Participants:** 1408
 
@@ -94,10 +94,10 @@
 | 86 | 577 | Lindsay Klemp |
 | 87 | 572 | Dsabrina Maxey |
 | 88 | 570 | Nerdy Climber |
-| 89 | 551 | Nawang Nawang |
-| 90 | 549 | Rhonda Diebold |
-| 91 | 543 | Kathleen Dumbazz |
-| 92 | 542 | Epic Frame |
+| 89 | 562 | Epic Frame |
+| 90 | 551 | Nawang Nawang |
+| 91 | 549 | Rhonda Diebold |
+| 92 | 543 | Kathleen Dumbazz |
 | 93 | 541 | Ricardo Ewart |
 | 94 | 540 | Jamie Jones |
 | 95 | 515 | Loony Faller |
@@ -120,8 +120,8 @@
 | 112 | 408 | Bubbly Strikerpiece |
 | 113 | 405 | Judy Long |
 | 114 | 402 | Lisa Breiding |
-| 115 | 400 | Smashanator |
-| 116 | 400 | Allie Bug |
+| 115 | 400 | Allie Bug |
+| 116 | 400 | Smashanator |
 | 117 | 390 | La chulis |
 | 118 | 377 | Brandy McCune Reep |
 | 119 | 375 | Jaime P Lamb |
@@ -137,16 +137,16 @@
 | 129 | 340 | Mom |
 | 130 | 338 | Zarah Kettler |
 | 131 | 332 | Jason Cook |
-| 132 | 328 | Tim Tim |
-| 133 | 325 | Amy Gregg |
-| 134 | 324 | Jgato |
+| 132 | 328 | Jgato |
+| 133 | 328 | Tim Tim |
+| 134 | 325 | Amy Gregg |
 | 135 | 323 | Shannon Wilson |
 | 136 | 319 | Bon Lynn |
 | 137 | 319 | Michelle Rich Burkhart |
 | 138 | 317 | Ruby Sandberg |
 | 139 | 315 | Milad Arzani |
-| 140 | 313 | Josh Twilley |
-| 141 | 313 | Cool Climber |
+| 140 | 313 | Cool Climber |
+| 141 | 313 | Josh Twilley |
 | 142 | 311 | Nikki Hayes |
 | 143 | 310 | Jennifer Smith |
 | 144 | 303 | Hoppy Mover |
@@ -169,21 +169,21 @@
 | 161 | 273 | Erin Thomas |
 | 162 | 270 | Hector |
 | 163 | 269 | Ackerman 85 |
-| 164 | 262 | H |
-| 165 | 262 | Cool Balancer |
-| 166 | 259 | Angie Kowalsky Olson |
-| 167 | 253 | Marge Cromer |
+| 164 | 266 | Ashley Billiot Rhodes |
+| 165 | 262 | H |
+| 166 | 262 | Cool Balancer |
+| 167 | 259 | Angie Kowalsky Olson |
 | 168 | 253 | Hilliary Beyer |
 | 169 | 253 | Becca Marie |
-| 170 | 250 | giamy |
-| 171 | 250 | marsam |
-| 172 | 247 | Fudgie Pie |
+| 170 | 253 | Marge Cromer |
+| 171 | 250 | giamy |
+| 172 | 250 | marsam |
 | 173 | 247 | Brittni Lawrence |
-| 174 | 246 | Brooke Lynn Marie Adelaide |
-| 175 | 243 | Jessica Lynn |
-| 176 | 241 | Boldy Wobbler |
-| 177 | 240 | Iesha Cupil |
-| 178 | 237 | Ashley Billiot Rhodes |
+| 174 | 247 | Fudgie Pie |
+| 175 | 246 | Brooke Lynn Marie Adelaide |
+| 176 | 243 | Jessica Lynn |
+| 177 | 241 | Boldy Wobbler |
+| 178 | 240 | Iesha Cupil |
 | 179 | 235 | Ashley Green |
 | 180 | 233 | Keri Mears |
 | 181 | 232 | Pam Bauder Ludwig |
@@ -194,8 +194,8 @@
 | 186 | 224 | Lush Party |
 | 187 | 224 | Kathleen Keogh Van Schoyck |
 | 188 | 223 | Danielle Blount |
-| 189 | 220 | Melissa Thomas |
-| 190 | 220 | Flashy Basegrid |
+| 189 | 220 | Flashy Basegrid |
+| 190 | 220 | Melissa Thomas |
 | 191 | 219 | Dallas Runyan |
 | 192 | 219 | Stella |
 | 193 | 218 | Amy Nicole McCanne |
@@ -207,22 +207,22 @@
 | 199 | 207 | Margie Ann Naffziger |
 | 200 | 206 | Jodi Johnson |
 | 201 | 206 | Logan Duffey |
-| 202 | 205 | Jeanna Mendez |
-| 203 | 205 | Melisa |
+| 202 | 205 | Melisa |
+| 203 | 205 | Jeanna Mendez |
 | 204 | 204 | Chill Line |
 | 205 | 203 | Sully |
 | 206 | 202 | Jat |
 | 207 | 202 | Snappy Blockbuilder |
 | 208 | 201 | Danielle Pack Lewellen |
-| 209 | 200 | Al Smith Jr |
-| 210 | 200 | Norma Ortiz |
-| 211 | 200 | Kelly Vedder |
-| 212 | 200 | Criccett Hooper-Smith |
-| 213 | 200 | Sarah Grundisch |
-| 214 | 200 | Physhie |
-| 215 | 200 | August Christy Lathrop |
-| 216 | 200 | Eric Wayne Maschman |
-| 217 | 200 | Chipper Stackbuilder |
+| 209 | 200 | Chipper Stackbuilder |
+| 210 | 200 | Kelly Vedder |
+| 211 | 200 | Al Smith Jr |
+| 212 | 200 | Norma Ortiz |
+| 213 | 200 | Eric Wayne Maschman |
+| 214 | 200 | August Christy Lathrop |
+| 215 | 200 | Physhie |
+| 216 | 200 | Sarah Grundisch |
+| 217 | 200 | Criccett Hooper-Smith |
 | 218 | 199 | Amber Cogdill |
 | 219 | 199 | Larry Cross |
 | 220 | 195 | Samantha Carman |

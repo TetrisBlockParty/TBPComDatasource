@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 22:24:18 UTC
+# Standings for team4 as of 2026-06-06 22:24:38 UTC
 
 **Total Participants:** 1174
 
@@ -192,59 +192,59 @@
 | 184 | 178 | Spicy Chicken |
 | 185 | 177 | Chirpy Link |
 | 186 | 177 | Damon Gaston |
-| 187 | 173 | Ashley Mcdonald |
-| 188 | 172 | Tawna Curry |
-| 189 | 172 | BusterBear56 |
-| 190 | 169 | Tiffany Smith |
-| 191 | 167 | Littlebrat |
-| 192 | 166 | Alyson M Kehler |
+| 187 | 173 | Futrell Brent |
+| 188 | 173 | Ashley Mcdonald |
+| 189 | 172 | Tawna Curry |
+| 190 | 172 | BusterBear56 |
+| 191 | 169 | Tiffany Smith |
+| 192 | 167 | Littlebrat |
 | 193 | 166 | Sassy Rollpiece |
-| 194 | 165 | gabs |
-| 195 | 164 | Jackie Miller |
-| 196 | 164 | Stacy G |
-| 197 | 163 | Brandy Lynn |
-| 198 | 160 | Tipsy Builderline |
+| 194 | 166 | Alyson M Kehler |
+| 195 | 165 | gabs |
+| 196 | 164 | Jackie Miller |
+| 197 | 164 | Stacy G |
+| 198 | 163 | Brandy Lynn |
 | 199 | 160 | Frothy Pattern |
-| 200 | 159 | EL Booger |
-| 201 | 158 | Futrell Brent |
-| 202 | 157 | Laguya |
-| 203 | 157 | Mark Norton |
-| 204 | 157 | ariel |
+| 200 | 160 | Tipsy Builderline |
+| 201 | 159 | EL Booger |
+| 202 | 157 | ariel |
+| 203 | 157 | Laguya |
+| 204 | 157 | Mark Norton |
 | 205 | 156 | Janet Sanfilippo Sullivan |
-| 206 | 155 | Shayna Vaigneur-Hall |
-| 207 | 155 | Bonnie Powell |
-| 208 | 155 | Jackie Polanco |
+| 206 | 155 | Jackie Polanco |
+| 207 | 155 | Shayna Vaigneur-Hall |
+| 208 | 155 | Bonnie Powell |
 | 209 | 155 | Ryan Paul Clark-Ramsey |
-| 210 | 154 | Lani |
-| 211 | 154 | No Time |
+| 210 | 154 | No Time |
+| 211 | 154 | Lani |
 | 212 | 153 | Queen B |
 | 213 | 150 | bollo |
 | 214 | 149 | LaTanya GeminiondaRise Johnson |
 | 215 | 148 | Joseph Hunter |
 | 216 | 146 | Jasmine Marie |
-| 217 | 145 | Erika Seaton |
-| 218 | 145 | Smiley Gridzone |
-| 219 | 144 | Yesenia Castro Monreal |
-| 220 | 144 | Katie Lynn Petit |
+| 217 | 145 | Smiley Gridzone |
+| 218 | 145 | Erika Seaton |
+| 219 | 144 | Katie Lynn Petit |
+| 220 | 144 | Yesenia Castro Monreal |
 | 221 | 142 | Lush Fitblock |
 | 222 | 141 | EvoKitty |
 | 223 | 141 | Justin Michael |
-| 224 | 138 | Tina Thomas |
+| 224 | 138 | Cheery Risegrid |
 | 225 | 138 | June Hoffman |
-| 226 | 138 | Cheery Risegrid |
-| 227 | 137 | Shelby |
-| 228 | 137 | kellie |
+| 226 | 138 | Tina Thomas |
+| 227 | 137 | kellie |
+| 228 | 137 | Shelby |
 | 229 | 137 | Deborah Silberg |
-| 230 | 136 | JuicyJuice |
-| 231 | 136 | WeeWooWee |
+| 230 | 136 | WeeWooWee |
+| 231 | 136 | JuicyJuice |
 | 232 | 135 | Quiomarie Cotto |
 | 233 | 133 | Shawntae Mccary |
 | 234 | 132 | Homie |
-| 235 | 131 | Stasia |
-| 236 | 131 | Tina Shalay Hayes |
-| 237 | 131 | Dominique Melendez |
-| 238 | 130 | Magz |
-| 239 | 130 | Fran Aaron-Ring |
+| 235 | 131 | Tina Shalay Hayes |
+| 236 | 131 | Dominique Melendez |
+| 237 | 131 | Stasia |
+| 238 | 130 | Fran Aaron-Ring |
+| 239 | 130 | Magz |
 | 240 | 129 | Simone |
 | 241 | 129 | Chris Covington |
 | 242 | 129 | Brainbabe |
@@ -795,63 +795,63 @@
 | 787 | 33 | Tracy Ann Frederick |
 | 788 | 33 | Dinah Mccall |
 | 789 | 33 | MsThick SrtLady Williams |
-| 790 | 33 | Wacky Snaplink |
-| 791 | 33 | Tracy Marino |
+| 790 | 33 | Tracy Marino |
+| 791 | 33 | Wacky Snaplink |
 | 792 | 33 | Donna Howard |
 | 793 | 33 | Chill Snapclear |
-| 794 | 33 | Sherri Lorent |
-| 795 | 33 | Tommy Thomas |
+| 794 | 33 | Tommy Thomas |
+| 795 | 33 | Sherri Lorent |
 | 796 | 33 | Alaina Rousseau |
-| 797 | 32 | Happy Strikerpiece |
+| 797 | 32 | Hyper Snaplink |
 | 798 | 32 | Cranky Twisterfit |
 | 799 | 32 | Renzo Tonini |
 | 800 | 32 | Boldy Clicky |
-| 801 | 32 | Hyper Snaplink |
-| 802 | 31 | Cflixer |
-| 803 | 31 | Monkey |
-| 804 | 31 | Breezy Blockzone |
+| 801 | 32 | Happy Strikerpiece |
+| 802 | 31 | Monkey |
+| 803 | 31 | Breezy Blockzone |
+| 804 | 31 | Kaash Brxtt |
 | 805 | 31 | Amanda Serrano Ruffner |
 | 806 | 31 | Natalie Ohrtman Strand |
-| 807 | 31 | Blessedmom865 |
-| 808 | 31 | Breezy Brickline |
+| 807 | 31 | Cflixer |
+| 808 | 31 | Blessedmom865 |
 | 809 | 31 | Swanky Matchfit |
-| 810 | 30 | Lateasha Wildman |
-| 811 | 30 | Janna Bruss |
-| 812 | 30 | Ash Gribble |
-| 813 | 30 | Jesus Fuentes III |
-| 814 | 30 | Loopy Wipeout |
-| 815 | 30 | Ali Garcia |
-| 816 | 30 | Deanne Silverdahl |
-| 817 | 30 | Diqthot |
-| 818 | 30 | Kimberly Nkwopara |
-| 819 | 30 | Britney Kitora |
-| 820 | 30 | Shirley Tow Middaugh |
-| 821 | 30 | Peezy_419 |
-| 822 | 30 | Jennie |
-| 823 | 30 | Snippy Splitter |
-| 824 | 30 | MamaBear3 |
-| 825 | 30 | Spicy Holder |
-| 826 | 30 | Funky Rollzone |
-| 827 | 30 | Robert Crow |
-| 828 | 30 | Krushie |
-| 829 | 30 | Miguel Teixeira |
-| 830 | 30 | Clever Fallzone |
-| 831 | 30 | Tati |
-| 832 | 30 | Lmg |
-| 833 | 30 | Lala |
-| 834 | 29 | Mrs.J2013 |
-| 835 | 29 | Matthew Wilcox |
-| 836 | 29 | Kelley Shoop |
+| 810 | 31 | Breezy Brickline |
+| 811 | 30 | Lateasha Wildman |
+| 812 | 30 | Janna Bruss |
+| 813 | 30 | Ash Gribble |
+| 814 | 30 | Jesus Fuentes III |
+| 815 | 30 | Loopy Wipeout |
+| 816 | 30 | Ali Garcia |
+| 817 | 30 | Deanne Silverdahl |
+| 818 | 30 | Diqthot |
+| 819 | 30 | Kimberly Nkwopara |
+| 820 | 30 | Britney Kitora |
+| 821 | 30 | Shirley Tow Middaugh |
+| 822 | 30 | Peezy_419 |
+| 823 | 30 | Jennie |
+| 824 | 30 | Snippy Splitter |
+| 825 | 30 | MamaBear3 |
+| 826 | 30 | Spicy Holder |
+| 827 | 30 | Krushie |
+| 828 | 30 | Clever Fallzone |
+| 829 | 30 | Tati |
+| 830 | 30 | Lmg |
+| 831 | 30 | Lala |
+| 832 | 30 | Miguel Teixeira |
+| 833 | 30 | Robert Crow |
+| 834 | 30 | Funky Rollzone |
+| 835 | 29 | Crafty Linkfall |
+| 836 | 29 | Slinky Snapfit |
 | 837 | 29 | Funky Twistpiece |
-| 838 | 29 | Slinky Snapfit |
-| 839 | 29 | Kaash Brxtt |
-| 840 | 29 | Crafty Linkfall |
-| 841 | 29 | rick mase |
-| 842 | 29 | Epic Dashfit |
-| 843 | 28 | Leslee Bentley DeLong |
-| 844 | 28 | Brandi Gray |
-| 845 | 28 | Mindy Phariss |
-| 846 | 28 | Sandra O'Reilly |
+| 838 | 29 | Mrs.J2013 |
+| 839 | 29 | rick mase |
+| 840 | 29 | Kelley Shoop |
+| 841 | 29 | Epic Dashfit |
+| 842 | 29 | Matthew Wilcox |
+| 843 | 28 | Brandi Gray |
+| 844 | 28 | Leslee Bentley DeLong |
+| 845 | 28 | Sandra O'Reilly |
+| 846 | 28 | Mindy Phariss |
 | 847 | 28 | Snappy Slice |
 | 848 | 28 | Chad Finton |
 | 849 | 27 | Lizette Chaires |
