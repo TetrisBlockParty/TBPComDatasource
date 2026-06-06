@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 05:00:16 UTC
+# Standings for team1 as of 2026-06-06 05:00:39 UTC
 
 **Total Participants:** 850
 
@@ -28,10 +28,10 @@
 | 20 | 950 | Chandler Spencer |
 | 21 | 945 | Cassidy Butler |
 | 22 | 935 | Whitney Butler |
-| 23 | 915 | Juan Kandiss Escobedo Irwin |
-| 24 | 882 | Jon Gathers |
-| 25 | 874 | Jolly Dropzone |
-| 26 | 868 | Shortstak |
+| 23 | 928 | Shortstak |
+| 24 | 915 | Juan Kandiss Escobedo Irwin |
+| 25 | 882 | Jon Gathers |
+| 26 | 874 | Jolly Dropzone |
 | 27 | 863 | Holly Jolly |
 | 28 | 852 | Brian Bohanon II |
 | 29 | 843 | Jacoby E Fleming |
