@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 14:37:17 UTC
+# Standings for team1 as of 2026-06-06 14:38:17 UTC
 
 **Total Participants:** 1023
 
@@ -15,10 +15,10 @@
 | 7 | 4339 | Carrie English |
 | 8 | 3811 | Timothy Robert |
 | 9 | 3411 | Charlie Roehm |
-| 10 | 3071 | Plucky Swipe |
-| 11 | 3039 | Chummy Combo |
-| 12 | 2834 | Debbie Carswell |
-| 13 | 2784 | Songne Arif |
+| 10 | 3084 | Songne Arif |
+| 11 | 3071 | Plucky Swipe |
+| 12 | 3039 | Chummy Combo |
+| 13 | 2984 | Debbie Carswell |
 | 14 | 2596 | Pdubbl3 |
 | 15 | 2415 | Yolanda McDonald |
 | 16 | 2321 | Chandler Spencer |
@@ -35,27 +35,27 @@
 | 27 | 1028 | Mary Jenkins |
 | 28 | 1026 | Ryan Meilleur |
 | 29 | 1016 | Ashley Espeut |
-| 30 | 962 | Holly Jolly |
-| 31 | 958 | Juan Kandiss Escobedo Irwin |
-| 32 | 941 | Spicy Balancer |
-| 33 | 935 | Whitney Butler |
-| 34 | 933 | Cherry Rose |
-| 35 | 930 | Sanjuro |
-| 36 | 927 | Jolly Dropzone |
-| 37 | 882 | Jon Gathers |
-| 38 | 877 | Brian Bohanon II |
-| 39 | 844 | Jennifer To |
-| 40 | 842 | Chris Russell |
-| 41 | 782 | Jazzy Dashpiece |
-| 42 | 749 | Aviv Zehavi |
-| 43 | 715 | Chill Clusterer |
-| 44 | 694 | Charnay Peacock |
-| 45 | 675 | Corey Cawthon |
-| 46 | 670 | Jaida King |
-| 47 | 656 | Janine Hunter |
-| 48 | 607 | Lisa Müller |
-| 49 | 605 | JoJo |
-| 50 | 602 | Markeeta Lipscomb |
+| 30 | 1002 | Markeeta Lipscomb |
+| 31 | 962 | Holly Jolly |
+| 32 | 958 | Juan Kandiss Escobedo Irwin |
+| 33 | 941 | Spicy Balancer |
+| 34 | 935 | Whitney Butler |
+| 35 | 933 | Cherry Rose |
+| 36 | 930 | Sanjuro |
+| 37 | 927 | Jolly Dropzone |
+| 38 | 882 | Jon Gathers |
+| 39 | 877 | Brian Bohanon II |
+| 40 | 844 | Jennifer To |
+| 41 | 842 | Chris Russell |
+| 42 | 782 | Jazzy Dashpiece |
+| 43 | 749 | Aviv Zehavi |
+| 44 | 715 | Chill Clusterer |
+| 45 | 694 | Charnay Peacock |
+| 46 | 675 | Corey Cawthon |
+| 47 | 670 | Jaida King |
+| 48 | 656 | Janine Hunter |
+| 49 | 607 | Lisa Müller |
+| 50 | 605 | JoJo |
 | 51 | 598 | Ivana Schmidt |
 | 52 | 580 | Janet Cooke |
 | 53 | 566 | Kellie Hall |
@@ -75,14 +75,14 @@
 | 67 | 427 | Gotcha |
 | 68 | 423 | Linzie Marie |
 | 69 | 421 | ing410 |
-| 70 | 414 | Blockhead |
+| 70 | 416 | Blockhead |
 | 71 | 394 | ELM |
 | 72 | 392 | She Higgy |
 | 73 | 388 | SPNLover24 |
 | 74 | 387 | Novaa |
-| 75 | 380 | Jessica Carter |
-| 76 | 380 | IamJust Neyamijah Washington Sr. |
-| 77 | 380 | Bre Maugh |
+| 75 | 380 | IamJust Neyamijah Washington Sr. |
+| 76 | 380 | Bre Maugh |
+| 77 | 380 | Jessica Carter |
 | 78 | 377 | JaszyBadd |
 | 79 | 377 | AF Cruz |
 | 80 | 371 | Shell Lewis |
@@ -93,13 +93,13 @@
 | 85 | 344 | Kevin M. McGhee Jr |
 | 86 | 339 | COSA303 |
 | 87 | 337 | Lashawn Wallace |
-| 88 | 334 | Christana Imjustbutton Stone |
-| 89 | 332 | Hyper Slamdrop |
-| 90 | 332 | Kimberly Hernandez |
+| 88 | 335 | Kimberly Hernandez |
+| 89 | 334 | Christana Imjustbutton Stone |
+| 90 | 332 | Hyper Slamdrop |
 | 91 | 328 | Big Tina |
 | 92 | 328 | Jonathan Vee Jay |
-| 93 | 323 | Sheila Burnham |
-| 94 | 323 | Catara Renae Oliver |
+| 93 | 323 | Catara Renae Oliver |
+| 94 | 323 | Sheila Burnham |
 | 95 | 319 | GrkGdess |
 | 96 | 316 | Ty Øtg |
 | 97 | 305 | John Staub |
@@ -108,8 +108,8 @@
 | 100 | 289 | Jason Mungin |
 | 101 | 288 | Chenell Gillard |
 | 102 | 278 | Shontanese Adams |
-| 103 | 275 | Chris Sladoje |
-| 104 | 275 | Jawaun Daniels |
+| 103 | 275 | Jawaun Daniels |
+| 104 | 275 | Chris Sladoje |
 | 105 | 274 | Tammye Turner |
 | 106 | 273 | MamaBear |
 | 107 | 268 | Dee McCool |
