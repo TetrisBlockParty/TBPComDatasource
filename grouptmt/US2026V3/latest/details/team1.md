@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 14:52:17 UTC
+# Standings for team1 as of 2026-06-06 14:52:40 UTC
 
 **Total Participants:** 1026
 
@@ -167,91 +167,91 @@
 | 159 | 163 | Mafio SO |
 | 160 | 162 | Reginald Frank |
 | 161 | 160 | Chilly Wipebuilder |
-| 162 | 160 | Sara Meri |
-| 163 | 160 | Carolyn Smith |
-| 164 | 160 | DaGuy |
-| 165 | 160 | Jamie Willis |
-| 166 | 160 | Zippy Lifter |
+| 162 | 160 | DaGuy |
+| 163 | 160 | Jamie Willis |
+| 164 | 160 | Zippy Lifter |
+| 165 | 160 | Carolyn Smith |
+| 166 | 160 | Sara Meri |
 | 167 | 159 | Fina McKinnis |
 | 168 | 158 | Tina Mitchell |
 | 169 | 156 | Jessica Russell |
 | 170 | 150 | Tishauna Virgo |
-| 171 | 149 | Lively Riserpiece |
-| 172 | 149 | Cee Emm |
+| 171 | 149 | Cee Emm |
+| 172 | 149 | Lively Riserpiece |
 | 173 | 147 | MACHETEEDDIE513 |
-| 174 | 146 | Jai |
-| 175 | 146 | BlackQueen105 |
+| 174 | 146 | BlackQueen105 |
+| 175 | 146 | Jai |
 | 176 | 145 | Latisha Fairley |
 | 177 | 143 | IThinkNot |
 | 178 | 143 | Sammie Walker |
 | 179 | 142 | Mikayla |
 | 180 | 141 | Shalena Marie Humphrey |
-| 181 | 140 | Antoinette Jones |
-| 182 | 140 | Ann Chung |
+| 181 | 140 | Ann Chung |
+| 182 | 140 | Antoinette Jones |
 | 183 | 138 | Lashaunda |
 | 184 | 138 | Roberta Lynn |
 | 185 | 138 | JaClanDiah |
 | 186 | 137 | Tay |
 | 187 | 137 | Cheeky Pop |
 | 188 | 136 | Penee Wiggins |
-| 189 | 135 | Amber Wilson |
-| 190 | 135 | Dawn L Washington-Feuquay |
-| 191 | 135 | Sean White |
-| 192 | 133 | Ebony Waynes-robinson |
-| 193 | 133 | BULLSEYE |
+| 189 | 135 | Dawn L Washington-Feuquay |
+| 190 | 135 | Sean White |
+| 191 | 135 | Amber Wilson |
+| 192 | 133 | Byron Mario Cawthon |
+| 193 | 133 | Ebony Waynes-robinson |
 | 194 | 133 | Robbie Cheeseman |
-| 195 | 133 | Byron Mario Cawthon |
+| 195 | 133 | BULLSEYE |
 | 196 | 132 | Jolly Tilefall |
 | 197 | 131 | TBABYJ |
-| 198 | 130 | Rolanda Williams |
-| 199 | 130 | Emily Wright |
-| 200 | 130 | Jessica Davis |
-| 201 | 130 | Dion Gray |
-| 202 | 126 | Tremaine Hiler |
-| 203 | 126 | Stephen Providenti |
-| 204 | 125 | LaTonya Myers |
+| 198 | 130 | Jessica Davis |
+| 199 | 130 | Dion Gray |
+| 200 | 130 | Rolanda Williams |
+| 201 | 130 | Emily Wright |
+| 202 | 127 | Cheeky Twistpiece |
+| 203 | 126 | Tremaine Hiler |
+| 204 | 126 | Stephen Providenti |
 | 205 | 125 | LaShaun Stinson |
-| 206 | 124 | Queenie Perry |
-| 207 | 124 | Courtney Cicoria |
-| 208 | 123 | Lisa Fletcher |
-| 209 | 123 | Cheeky Twistpiece |
+| 206 | 125 | LaTonya Myers |
+| 207 | 124 | Queenie Perry |
+| 208 | 124 | Courtney Cicoria |
+| 209 | 123 | Lisa Fletcher |
 | 210 | 122 | Miera Nicole |
-| 211 | 121 | Tiana Monique |
-| 212 | 121 | Treneil Daffin |
-| 213 | 120 | Guy Incognito |
-| 214 | 120 | Saucy Tile |
-| 215 | 120 | Spicy Risepiece |
-| 216 | 120 | Brittanie Wardlow |
-| 217 | 120 | xXEKUNXx |
-| 218 | 120 | Nerdy Blockpiece |
+| 211 | 121 | Treneil Daffin |
+| 212 | 121 | Tiana Monique |
+| 213 | 120 | xXEKUNXx |
+| 214 | 120 | Spicy Risepiece |
+| 215 | 120 | Guy Incognito |
+| 216 | 120 | Nerdy Blockpiece |
+| 217 | 120 | Brittanie Wardlow |
+| 218 | 120 | Saucy Tile |
 | 219 | 119 | Christina Rebecca |
-| 220 | 118 | Tanisha Taylor |
-| 221 | 118 | Hasty Pivoty |
-| 222 | 117 | pooh |
-| 223 | 117 | 신재호 |
-| 224 | 116 | Kimberly Linares Hernandez |
-| 225 | 116 | Kelvin Cook |
+| 220 | 118 | Hasty Pivoty |
+| 221 | 118 | Tanisha Taylor |
+| 222 | 117 | 신재호 |
+| 223 | 117 | pooh |
+| 224 | 116 | Kelvin Cook |
+| 225 | 116 | Kimberly Linares Hernandez |
 | 226 | 115 | Dizzy Dashy |
 | 227 | 115 | Kenny MrOnethousand Peck |
 | 228 | 114 | LAhoneybun82 |
 | 229 | 113 | Rachel Zimmerman |
-| 230 | 112 | Bre Poston |
-| 231 | 112 | Tipsy Linkroll |
-| 232 | 112 | GamerQueenDS |
+| 230 | 112 | GamerQueenDS |
+| 231 | 112 | Bre Poston |
+| 232 | 112 | Tipsy Linkroll |
 | 233 | 111 | Lesley Brunkus Cianfaglione |
-| 234 | 110 | Matthieu Pistone |
-| 235 | 110 | Atlantalindi |
-| 236 | 110 | Bubbly Piececlear |
+| 234 | 110 | Bubbly Piececlear |
+| 235 | 110 | Matthieu Pistone |
+| 236 | 110 | Atlantalindi |
 | 237 | 109 | Tamika Fisher |
 | 238 | 108 | Char |
 | 239 | 106 | Mister Reid |
 | 240 | 105 | Katrina Ramey |
 | 241 | 105 | Angela R Wilson |
 | 242 | 105 | Kelley Johnson |
-| 243 | 104 | Frisky Fall |
-| 244 | 104 | Brittnay Wright |
-| 245 | 104 | Ahvae Lee |
-| 246 | 104 | Brittany Fells |
+| 243 | 104 | Ahvae Lee |
+| 244 | 104 | Brittany Fells |
+| 245 | 104 | Brittnay Wright |
+| 246 | 104 | Frisky Fall |
 | 247 | 101 | Joana Thompson |
 | 248 | 101 | Calvin Green |
 | 249 | 100 | Cool Bridger |
