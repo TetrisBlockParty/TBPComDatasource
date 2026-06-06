@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 10:22:16 UTC
+# Standings for team1 as of 2026-06-06 10:22:40 UTC
 
 **Total Participants:** 957
 
@@ -67,33 +67,33 @@
 | 59 | 388 | SPNLover24 |
 | 60 | 387 | Novaa |
 | 61 | 380 | Bre Maugh |
-| 62 | 380 | Jessica Carter |
-| 63 | 380 | IamJust Neyamijah Washington Sr. |
-| 64 | 380 | She Higgy |
-| 65 | 377 | JaszyBadd |
-| 66 | 377 | AF Cruz |
+| 62 | 380 | IamJust Neyamijah Washington Sr. |
+| 63 | 380 | She Higgy |
+| 64 | 380 | Jessica Carter |
+| 65 | 377 | AF Cruz |
+| 66 | 377 | JaszyBadd |
 | 67 | 371 | Shell Lewis |
 | 68 | 368 | Ottison Dianna |
 | 69 | 365 | Sarah Marie |
-| 70 | 363 | Voice |
-| 71 | 362 | Eric Mcgaughy |
-| 72 | 350 | Jazzy Dashpiece |
-| 73 | 344 | Kevin M. McGhee Jr |
-| 74 | 334 | Christana Imjustbutton Stone |
-| 75 | 332 | Hyper Slamdrop |
-| 76 | 331 | Kimberly Hernandez |
-| 77 | 328 | Big Tina |
-| 78 | 323 | Sheila Burnham |
-| 79 | 323 | Catara Renae Oliver |
-| 80 | 322 | Lashawn Wallace |
-| 81 | 319 | GrkGdess |
-| 82 | 316 | Ty Øtg |
-| 83 | 314 | Carolynne Walker-Bell |
-| 84 | 305 | John Staub |
-| 85 | 292 | Robyn Caldwell |
-| 86 | 288 | Linzie Marie |
-| 87 | 284 | Todd C. Clemens |
-| 88 | 283 | Gotcha |
+| 70 | 363 | Gotcha |
+| 71 | 363 | Voice |
+| 72 | 362 | Eric Mcgaughy |
+| 73 | 350 | Jazzy Dashpiece |
+| 74 | 344 | Kevin M. McGhee Jr |
+| 75 | 334 | Christana Imjustbutton Stone |
+| 76 | 332 | Hyper Slamdrop |
+| 77 | 331 | Kimberly Hernandez |
+| 78 | 328 | Big Tina |
+| 79 | 323 | Sheila Burnham |
+| 80 | 323 | Catara Renae Oliver |
+| 81 | 322 | Lashawn Wallace |
+| 82 | 319 | GrkGdess |
+| 83 | 316 | Ty Øtg |
+| 84 | 314 | Carolynne Walker-Bell |
+| 85 | 305 | John Staub |
+| 86 | 292 | Robyn Caldwell |
+| 87 | 288 | Linzie Marie |
+| 88 | 284 | Todd C. Clemens |
 | 89 | 279 | COSA303 |
 | 90 | 278 | Shontanese Adams |
 | 91 | 270 | Chenell Gillard |
@@ -104,8 +104,8 @@
 | 96 | 257 | Michelle Titus |
 | 97 | 256 | Cortaz Lawrie |
 | 98 | 251 | Helen Smith |
-| 99 | 249 | Ashley MyBeauty Daniels |
-| 100 | 249 | Tamara N Lee |
+| 99 | 249 | Tamara N Lee |
+| 100 | 249 | Ashley MyBeauty Daniels |
 | 101 | 244 | Jaida De'Anne Cox |
 | 102 | 240 | Rayya Kiser |
 | 103 | 237 | Leebo Slice |
@@ -119,8 +119,8 @@
 | 111 | 216 | Nerdy Snapfall |
 | 112 | 215 | Abraham Espaillat |
 | 113 | 215 | Songne Arif |
-| 114 | 214 | Tonya McElroy |
-| 115 | 214 | Po Marley |
+| 114 | 214 | Po Marley |
+| 115 | 214 | Tonya McElroy |
 | 116 | 213 | Jason Mungin |
 | 117 | 209 | Zachary Colegrove |
 | 118 | 206 | Curtis T Cirno |
@@ -145,52 +145,52 @@
 | 137 | 176 | Andre Sanon |
 | 138 | 175 | Rayshawn Cohen |
 | 139 | 169 | Asha Langford |
-| 140 | 166 | Nobles Brandon |
-| 141 | 166 | Tarnisha Neicy Jones |
-| 142 | 160 | Zippy Lifter |
-| 143 | 160 | DaGuy |
-| 144 | 160 | Sara Meri |
+| 140 | 166 | Tarnisha Neicy Jones |
+| 141 | 166 | Nobles Brandon |
+| 142 | 160 | Sara Meri |
+| 143 | 160 | Zippy Lifter |
+| 144 | 160 | DaGuy |
 | 145 | 158 | Tina Mitchell |
 | 146 | 158 | W.A. Simpson |
 | 147 | 156 | Jessica Russell |
 | 148 | 156 | Anthony Washington |
 | 149 | 155 | Jawaun Daniels |
-| 150 | 147 | MACHETEEDDIE513 |
-| 151 | 147 | David Fuentes |
+| 150 | 147 | David Fuentes |
+| 151 | 147 | MACHETEEDDIE513 |
 | 152 | 146 | BlackQueen105 |
 | 153 | 146 | Marcheta Cervantez |
-| 154 | 140 | Ann Chung |
-| 155 | 140 | Antoinette Jones |
+| 154 | 140 | Antoinette Jones |
+| 155 | 140 | Ann Chung |
 | 156 | 139 | Mafio SO |
-| 157 | 138 | Lashaunda |
-| 158 | 138 | JaClanDiah |
-| 159 | 135 | Dawn L Washington-Feuquay |
-| 160 | 135 | Sean White |
+| 157 | 138 | JaClanDiah |
+| 158 | 138 | Lashaunda |
+| 159 | 135 | Sean White |
+| 160 | 135 | Dawn L Washington-Feuquay |
 | 161 | 135 | Amber Wilson |
 | 162 | 134 | Lively Riserpiece |
 | 163 | 133 | Byron Mario Cawthon |
 | 164 | 132 | Jolly Tilefall |
 | 165 | 131 | TBABYJ |
 | 166 | 130 | Jessica Davis |
-| 167 | 130 | Rolanda Williams |
-| 168 | 130 | Dion Gray |
-| 169 | 130 | Emily Wright |
+| 167 | 130 | Dion Gray |
+| 168 | 130 | Emily Wright |
+| 169 | 130 | Rolanda Williams |
 | 170 | 127 | IThinkNot |
 | 171 | 126 | Cee Emm |
 | 172 | 126 | Tremaine Hiler |
 | 173 | 126 | Stephen Providenti |
-| 174 | 125 | LaTonya Myers |
-| 175 | 125 | Kelli Couture |
-| 176 | 124 | Courtney Cicoria |
-| 177 | 124 | Queenie Perry |
+| 174 | 125 | Kelli Couture |
+| 175 | 125 | LaTonya Myers |
+| 176 | 124 | Queenie Perry |
+| 177 | 124 | Courtney Cicoria |
 | 178 | 123 | Lisa Fletcher |
-| 179 | 121 | D'Andra Stewart |
+| 179 | 121 | Treneil Daffin |
 | 180 | 121 | Tiana Monique |
-| 181 | 121 | Treneil Daffin |
-| 182 | 120 | Spicy Risepiece |
-| 183 | 120 | Nerdy Blockpiece |
-| 184 | 120 | Jai |
-| 185 | 120 | Saucy Tile |
+| 181 | 121 | D'Andra Stewart |
+| 182 | 120 | Nerdy Blockpiece |
+| 183 | 120 | Spicy Risepiece |
+| 184 | 120 | Saucy Tile |
+| 185 | 120 | Jai |
 | 186 | 119 | ELM |
 | 187 | 119 | Christina Rebecca |
 | 188 | 118 | Hasty Pivoty |
