@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 09:28:39 UTC
+# Standings for team1 as of 2026-06-06 09:29:15 UTC
 
 **Total Participants:** 941
 
@@ -583,18 +583,18 @@
 | 575 | 30 | Delitra Perkins Hatter |
 | 576 | 30 | Jes Marie |
 | 577 | 30 | Witty Blockpiece |
-| 578 | 30 | Jessica Corey |
-| 579 | 30 | Amaadi Ward |
-| 580 | 30 | Falisa Bell |
-| 581 | 30 | Dannie |
-| 582 | 30 | TiffanyG |
-| 583 | 30 | Chereese Harris |
-| 584 | 30 | Bouncy Glide |
-| 585 | 30 | Adrian Wilson |
-| 586 | 30 | Ta'Kaiyah M. Spann |
-| 587 | 30 | Antoinette Kelly |
-| 588 | 30 | Rhianna Dinki Austin |
-| 589 | 29 | 大竹直之 |
+| 578 | 30 | 大竹直之 |
+| 579 | 30 | Jessica Corey |
+| 580 | 30 | Amaadi Ward |
+| 581 | 30 | Falisa Bell |
+| 582 | 30 | Dannie |
+| 583 | 30 | TiffanyG |
+| 584 | 30 | Chereese Harris |
+| 585 | 30 | Bouncy Glide |
+| 586 | 30 | Adrian Wilson |
+| 587 | 30 | Ta'Kaiyah M. Spann |
+| 588 | 30 | Antoinette Kelly |
+| 589 | 30 | Rhianna Dinki Austin |
 | 590 | 29 | Parris Wright |
 | 591 | 29 | Rissa Rozay |
 | 592 | 29 | Darrel Pemberton |
