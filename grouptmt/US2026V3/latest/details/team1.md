@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 06:16:16 UTC
+# Standings for team1 as of 2026-06-06 06:16:39 UTC
 
 **Total Participants:** 884
 
@@ -347,19 +347,19 @@
 | 339 | 52 | Gabriela Hernandez |
 | 340 | 52 | kitten |
 | 341 | 52 | Raquel Ortiz |
-| 342 | 51 | Shanjerrica Taylor Rosell |
-| 343 | 51 | Comedian Gdane |
-| 344 | 51 | Rachael Bakowicz Edwards |
-| 345 | 51 | Jolly Tilefall |
+| 342 | 51 | Comedian Gdane |
+| 343 | 51 | Rachael Bakowicz Edwards |
+| 344 | 51 | Jolly Tilefall |
+| 345 | 51 | Shanjerrica Taylor Rosell |
 | 346 | 51 | Just2Play$ |
-| 347 | 50 | Donna Payne |
-| 348 | 50 | Smiley Clearpiece |
-| 349 | 50 | Antoinette Jones |
-| 350 | 50 | Slinky Party |
-| 351 | 50 | MsBobby Patrick |
-| 352 | 50 | Teresa Yanira Cepeda |
-| 353 | 50 | Yazz |
-| 354 | 50 | Nisha Sunshine Jenkins |
+| 347 | 50 | Smiley Clearpiece |
+| 348 | 50 | Slinky Party |
+| 349 | 50 | MsBobby Patrick |
+| 350 | 50 | Donna Payne |
+| 351 | 50 | Yazz |
+| 352 | 50 | Nisha Sunshine Jenkins |
+| 353 | 50 | Teresa Yanira Cepeda |
+| 354 | 50 | Antoinette Jones |
 | 355 | 50 | Denell Sims |
 | 356 | 50 | Dion Gray |
 | 357 | 49 | Brittany Fells |
@@ -367,7 +367,7 @@
 | 359 | 49 | No_Other_Choice |
 | 360 | 49 | LexiiSamayaa |
 | 361 | 49 | Speedy Stacky |
-| 362 | 48 | Kahh |
+| 362 | 48 | Peppy Glider |
 | 363 | 48 | Mommy Frank |
 | 364 | 48 | Wild Out Nai |
 | 365 | 48 | Slim Shedidthat |
@@ -375,37 +375,37 @@
 | 367 | 48 | Clever Fitblock |
 | 368 | 48 | Lynnette WheelerBushnell |
 | 369 | 48 | LoveLee |
-| 370 | 47 | Calvin Green |
-| 371 | 47 | Smiley Tilebuilder |
-| 372 | 47 | Faith Armone |
-| 373 | 47 | Kevin Turner |
-| 374 | 47 | Poppy Twister |
-| 375 | 47 | Derrius SeriousLee Burks |
-| 376 | 47 | Christopher Dreamsareality McEachin |
-| 377 | 47 | Shameka Thrasher |
-| 378 | 47 | Slinky Brickmatch |
-| 379 | 46 | Anthony |
+| 370 | 48 | Kahh |
+| 371 | 47 | Calvin Green |
+| 372 | 47 | Smiley Tilebuilder |
+| 373 | 47 | Christopher Dreamsareality McEachin |
+| 374 | 47 | Slinky Brickmatch |
+| 375 | 47 | Shameka Thrasher |
+| 376 | 47 | Poppy Twister |
+| 377 | 47 | Kevin Turner |
+| 378 | 47 | Derrius SeriousLee Burks |
+| 379 | 47 | Faith Armone |
 | 380 | 46 | Kimberly Anderson |
-| 381 | 46 | David A Alvino |
-| 382 | 46 | Maria Baez Medina |
-| 383 | 46 | Ja'mice Nelson |
-| 384 | 46 | Chris Nelson |
-| 385 | 46 | Felicia Dungey |
-| 386 | 45 | Jenni Hardman |
-| 387 | 45 | Linzie Marie |
-| 388 | 45 | Guy Incognito |
-| 389 | 45 | Erika Windom |
-| 390 | 45 | Renee J. Thomas |
-| 391 | 45 | nameno |
-| 392 | 45 | Glitzy Clusterer |
-| 393 | 45 | Peppy Glider |
+| 381 | 46 | Anthony |
+| 382 | 46 | David A Alvino |
+| 383 | 46 | Maria Baez Medina |
+| 384 | 46 | Ja'mice Nelson |
+| 385 | 46 | Chris Nelson |
+| 386 | 46 | Felicia Dungey |
+| 387 | 45 | Jenni Hardman |
+| 388 | 45 | Linzie Marie |
+| 389 | 45 | Guy Incognito |
+| 390 | 45 | Erika Windom |
+| 391 | 45 | Renee J. Thomas |
+| 392 | 45 | nameno |
+| 393 | 45 | Glitzy Clusterer |
 | 394 | 45 | La'Chae Nickole |
 | 395 | 44 | Tamara Johnson-Carter |
 | 396 | 44 | sasha |
-| 397 | 43 | Giggy Brickfit |
+| 397 | 43 | Gael Quintana |
 | 398 | 43 | Rufus |
 | 399 | 43 | Rachel Renae Bettis |
-| 400 | 43 | Gael Quintana |
+| 400 | 43 | Giggy Brickfit |
 | 401 | 43 | Heather Wilson |
 | 402 | 43 | Daring Blockclear |
 | 403 | 43 | Block |
