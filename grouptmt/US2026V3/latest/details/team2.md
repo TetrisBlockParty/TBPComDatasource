@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 12:12:39 UTC
+# Standings for team2 as of 2026-06-06 12:13:16 UTC
 
 **Total Participants:** 1134
 
@@ -50,7 +50,7 @@
 | 42 | 1114 | Logan Basham |
 | 43 | 1031 | DarkHorse |
 | 44 | 1027 | Frilly Match |
-| 45 | 886 | Julie Trede Amerson |
+| 45 | 906 | Julie Trede Amerson |
 | 46 | 882 | AcardBoardBox |
 | 47 | 832 | Amber Triguero |
 | 48 | 824 | Helen Thomas |
@@ -85,8 +85,8 @@
 | 77 | 451 | Marquita Toliver |
 | 78 | 449 | Poppy |
 | 79 | 432 | Mirr Lulu |
-| 80 | 428 | Loopy Cascadepiece |
-| 81 | 425 | Amanda Sikes |
+| 80 | 429 | Amanda Sikes |
+| 81 | 428 | Loopy Cascadepiece |
 | 82 | 408 | Marquetta Johnson |
 | 83 | 405 | Judy Long |
 | 84 | 405 | Kaycie Shaffer |
@@ -221,15 +221,15 @@
 | 213 | 130 | ZBee |
 | 214 | 129 | Armando Sabedra |
 | 215 | 129 | Amy Taylor Pomerenk |
-| 216 | 126 | Teresa Mandich |
-| 217 | 125 | Ariel Gundersen |
-| 218 | 124 | Jason Burris |
-| 219 | 124 | Amie Marks |
-| 220 | 122 | Teddy Williams |
-| 221 | 120 | Elizabeth Cornelius |
-| 222 | 120 | Happy |
-| 223 | 120 | Kevin Mccoy |
-| 224 | 120 | Ratchet |
+| 216 | 128 | Teddy Williams |
+| 217 | 126 | Teresa Mandich |
+| 218 | 125 | Ariel Gundersen |
+| 219 | 124 | Jason Burris |
+| 220 | 124 | Amie Marks |
+| 221 | 122 | Ratchet |
+| 222 | 120 | Elizabeth Cornelius |
+| 223 | 120 | Happy |
+| 224 | 120 | Kevin Mccoy |
 | 225 | 120 | Simone F |
 | 226 | 120 | Brenda Jones |
 | 227 | 120 | Al Smith Jr |
