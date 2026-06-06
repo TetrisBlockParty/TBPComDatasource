@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 17:54:17 UTC
+# Standings for team1 as of 2026-06-06 17:54:41 UTC
 
 **Total Participants:** 1091
 
@@ -452,67 +452,67 @@
 | 444 | 60 | Dianne Clagon |
 | 445 | 60 | Tellisa Payne |
 | 446 | 60 | Lauren Farkas |
-| 447 | 60 | De'Nell Edwards |
-| 448 | 60 | Nerdy Climber |
-| 449 | 60 | Angie Smith |
-| 450 | 60 | Malcolm Stanley |
-| 451 | 60 | Tasha |
-| 452 | 60 | Yellowguy3 |
-| 453 | 59 | Darrel Pemberton |
+| 447 | 60 | Tasha |
+| 448 | 60 | Malcolm Stanley |
+| 449 | 60 | Nerdy Climber |
+| 450 | 60 | Yellowguy3 |
+| 451 | 60 | Angie Smith |
+| 452 | 60 | De'Nell Edwards |
+| 453 | 59 | Nina Davis |
 | 454 | 59 | Shanaa Germany Crittenden |
-| 455 | 59 | Nina Davis |
+| 455 | 59 | Darrel Pemberton |
 | 456 | 59 | Keith Johnson |
 | 457 | 59 | Kimberly Anderson |
-| 458 | 58 | Brandy Way |
-| 459 | 58 | Tonny Williams |
-| 460 | 58 | Alexandrla Smith |
-| 461 | 58 | Kimberly Susan Privette |
-| 462 | 58 | Twisty Cascadeclear |
+| 458 | 58 | Twisty Cascadeclear |
+| 459 | 58 | Kimberly Susan Privette |
+| 460 | 58 | Tonny Williams |
+| 461 | 58 | Alexandrla Smith |
+| 462 | 58 | FunTime |
 | 463 | 58 | Bambi Love |
-| 464 | 58 | FunTime |
-| 465 | 57 | Faith Armone |
-| 466 | 57 | Nikkizz |
-| 467 | 56 | Nora Mahmoud |
+| 464 | 58 | Brandy Way |
+| 465 | 57 | Nikkizz |
+| 466 | 57 | Faith Armone |
+| 467 | 56 | Nichelle Warren |
 | 468 | 56 | Kahh |
-| 469 | 56 | Nichelle Warren |
+| 469 | 56 | Nora Mahmoud |
 | 470 | 56 | Lakiesha Crawford |
-| 471 | 55 | KoolKimJay |
-| 472 | 55 | Jimmy Shannon |
-| 473 | 55 | Dreamzzz |
-| 474 | 55 | Kyle Franklin |
-| 475 | 55 | Lazy Tiltpiece |
-| 476 | 55 | Terrie |
-| 477 | 55 | Twisty Brickfit |
-| 478 | 54 | John Spath |
-| 479 | 54 | Boldy Pivoty |
-| 480 | 54 | Just2Play$ |
-| 481 | 54 | Ryan Runyan |
-| 482 | 54 | Melissa Olvera |
-| 483 | 54 | Gbnola |
-| 484 | 54 | Dandy Brickfit |
-| 485 | 54 | Kashh |
-| 486 | 54 | Elizabeth Hopkins |
-| 487 | 54 | Ace Hardware |
-| 488 | 54 | Chuck Quarles |
-| 489 | 53 | Clever Wrecker |
-| 490 | 53 | Cortrell Foster |
+| 471 | 55 | Terrie |
+| 472 | 55 | Dreamzzz |
+| 473 | 55 | Jimmy Shannon |
+| 474 | 55 | Raquel Ortiz |
+| 475 | 55 | Twisty Brickfit |
+| 476 | 55 | Lazy Tiltpiece |
+| 477 | 55 | Kyle Franklin |
+| 478 | 55 | KoolKimJay |
+| 479 | 54 | Chuck Quarles |
+| 480 | 54 | Gbnola |
+| 481 | 54 | Dandy Brickfit |
+| 482 | 54 | Ryan Runyan |
+| 483 | 54 | Kashh |
+| 484 | 54 | Elizabeth Hopkins |
+| 485 | 54 | John Spath |
+| 486 | 54 | Boldy Pivoty |
+| 487 | 54 | Melissa Olvera |
+| 488 | 54 | Just2Play$ |
+| 489 | 54 | Ace Hardware |
+| 490 | 53 | Clever Wrecker |
 | 491 | 53 | Jenni Hardman |
-| 492 | 53 | Saucy Faller |
-| 493 | 52 | Sherri Keys |
-| 494 | 52 | Raquel Ortiz |
-| 495 | 52 | Sha Anderson |
-| 496 | 52 | Gabriela Hernandez |
-| 497 | 52 | Anastasia |
-| 498 | 52 | Loopy Risepiece |
-| 499 | 52 | Danny Talbot |
-| 500 | 52 | Sugar Foot |
-| 501 | 51 | BrettanMary Adkins |
-| 502 | 51 | Poppy Smasher |
-| 503 | 51 | Smiley Tilebuilder |
-| 504 | 51 | Shanjerrica Taylor Rosell |
-| 505 | 51 | messyboots |
-| 506 | 51 | Comedian Gdane |
-| 507 | 51 | Casey Chapman |
+| 492 | 53 | Cortrell Foster |
+| 493 | 53 | Saucy Faller |
+| 494 | 52 | Danny Talbot |
+| 495 | 52 | Sherri Keys |
+| 496 | 52 | Loopy Risepiece |
+| 497 | 52 | Sha Anderson |
+| 498 | 52 | Sugar Foot |
+| 499 | 52 | Anastasia |
+| 500 | 52 | Gabriela Hernandez |
+| 501 | 51 | Casey Chapman |
+| 502 | 51 | Smiley Tilebuilder |
+| 503 | 51 | Comedian Gdane |
+| 504 | 51 | Poppy Smasher |
+| 505 | 51 | Shanjerrica Taylor Rosell |
+| 506 | 51 | BrettanMary Adkins |
+| 507 | 51 | messyboots |
 | 508 | 50 | Amaadi Ward |
 | 509 | 50 | MsBobby Patrick |
 | 510 | 50 | Teresa Yanira Cepeda |
