@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 15:48:38 UTC
+# Standings for team1 as of 2026-06-06 15:49:17 UTC
 
 **Total Participants:** 1049
 
@@ -29,7 +29,7 @@
 | 21 | 1589 | Brian Stackhouse |
 | 22 | 1550 | Cassidy Butler |
 | 23 | 1445 | Erika Windom |
-| 24 | 1329 | Juan Kandiss Escobedo Irwin |
+| 24 | 1442 | Juan Kandiss Escobedo Irwin |
 | 25 | 1242 | Jacoby E Fleming |
 | 26 | 1082 | Daylene Johannes |
 | 27 | 1047 | Mary Jenkins |
@@ -95,8 +95,8 @@
 | 87 | 363 | Voice |
 | 88 | 348 | Catara Renae Oliver |
 | 89 | 347 | PandaPrincess |
-| 90 | 344 | Kevin M. McGhee Jr |
-| 91 | 342 | Kimberly Hernandez |
+| 90 | 346 | Kimberly Hernandez |
+| 91 | 344 | Kevin M. McGhee Jr |
 | 92 | 334 | Christana Imjustbutton Stone |
 | 93 | 332 | Hyper Slamdrop |
 | 94 | 328 | Jonathan Vee Jay |
@@ -885,122 +885,122 @@
 | 877 | 15 | Breezy Bouncer |
 | 878 | 15 | Haley Bell |
 | 879 | 15 | Laura Long |
-| 880 | 15 | Hasty Match |
-| 881 | 15 | Christian Whittaker |
-| 882 | 15 | Cheery Clusterbuilder |
-| 883 | 15 | Nicole Freeman |
+| 880 | 15 | Nicole Freeman |
+| 881 | 15 | Jonathan Zold |
+| 882 | 15 | Shamara Thurston |
+| 883 | 15 | Chasem45 |
 | 884 | 15 | Motown Chuck |
-| 885 | 15 | b |
-| 886 | 15 | Lit757 |
-| 887 | 15 | Chasem45 |
-| 888 | 15 | Victor |
-| 889 | 15 | MonaSparks |
-| 890 | 15 | Dede Tate |
-| 891 | 15 | Nedine Ray |
-| 892 | 15 | Bri Lou |
-| 893 | 15 | Shamara Thurston |
-| 894 | 15 | Jonathan Zold |
-| 895 | 15 | Tami Spence |
-| 896 | 15 | Damien Mathews |
-| 897 | 14 | Jazzy |
-| 898 | 14 | Dymond |
-| 899 | 14 | Lynn |
+| 885 | 15 | Cheery Clusterbuilder |
+| 886 | 15 | Damien Mathews |
+| 887 | 15 | Christian Whittaker |
+| 888 | 15 | b |
+| 889 | 15 | Lit757 |
+| 890 | 15 | Victor |
+| 891 | 15 | Hasty Match |
+| 892 | 15 | MonaSparks |
+| 893 | 15 | Dede Tate |
+| 894 | 15 | Nedine Ray |
+| 895 | 15 | Bri Lou |
+| 896 | 15 | Tami Spence |
+| 897 | 14 | Tez Mays |
+| 898 | 14 | Jazzy |
+| 899 | 14 | Dymond |
 | 900 | 14 | Aaron Hartmann |
-| 901 | 14 | Tez Mays |
-| 902 | 14 | Kenny 'Tailormade' Boyd |
-| 903 | 14 | Nichole Horsley-Conn |
+| 901 | 14 | Kenny 'Tailormade' Boyd |
+| 902 | 14 | Nichole Horsley-Conn |
+| 903 | 14 | Lynn |
 | 904 | 14 | Zany Pivot |
 | 905 | 14 | Jerrone Epps |
 | 906 | 14 | MoneyMac |
 | 907 | 14 | TBabii24 |
 | 908 | 14 | Nerdy Curvetile |
-| 909 | 13 | Emma Adams |
-| 910 | 13 | Daphne Ceasar |
-| 911 | 13 | Jumpy Striker |
+| 909 | 13 | Daphne Ceasar |
+| 910 | 13 | Jumpy Striker |
+| 911 | 13 | Therealdywoune Peay |
 | 912 | 13 | John Spath |
 | 913 | 13 | PuddenPop |
-| 914 | 13 | Leah Ingram |
-| 915 | 13 | Hoppy Rumbler |
-| 916 | 13 | Happy Blockpiece |
-| 917 | 13 | Sarah Barnum |
-| 918 | 12 | BigMike |
-| 919 | 12 | Dora Greer |
-| 920 | 12 | BigDawg Lessley |
-| 921 | 12 | Outspoken Sirchristopher |
-| 922 | 12 | Joseph Ware Jr. |
-| 923 | 12 | Lillie Blossom Dixon |
-| 924 | 12 | Heather Cross-Davis |
-| 925 | 12 | Cameo Tweed |
-| 926 | 12 | Mike Hromowyk |
-| 927 | 12 | Abdul Malik |
-| 928 | 12 | Silly Spinblock |
-| 929 | 12 | Jennifer Diamond |
-| 930 | 12 | Sarah Jones |
-| 931 | 12 | Michael Jones |
-| 932 | 11 | Jayson |
-| 933 | 11 | Ray Baker |
-| 934 | 11 | Groovy Climber |
-| 935 | 11 | Giddy Twistslam |
-| 936 | 11 | Frilly Shatterline |
-| 937 | 11 | Twisty Tilebuilder |
-| 938 | 11 | Boldy Zoner |
-| 939 | 10 | Marshall Davis |
-| 940 | 10 | Blaze |
+| 914 | 13 | Emma Adams |
+| 915 | 13 | Leah Ingram |
+| 916 | 13 | Hoppy Rumbler |
+| 917 | 13 | Happy Blockpiece |
+| 918 | 13 | Sarah Barnum |
+| 919 | 12 | Mike Hromowyk |
+| 920 | 12 | Lillie Blossom Dixon |
+| 921 | 12 | Joseph Ware Jr. |
+| 922 | 12 | Outspoken Sirchristopher |
+| 923 | 12 | BigDawg Lessley |
+| 924 | 12 | Dora Greer |
+| 925 | 12 | Heather Cross-Davis |
+| 926 | 12 | Cameo Tweed |
+| 927 | 12 | BigMike |
+| 928 | 12 | Abdul Malik |
+| 929 | 12 | Silly Spinblock |
+| 930 | 12 | Jennifer Diamond |
+| 931 | 12 | Sarah Jones |
+| 932 | 12 | Michael Jones |
+| 933 | 11 | Frilly Shatterline |
+| 934 | 11 | Giddy Twistslam |
+| 935 | 11 | Jayson |
+| 936 | 11 | Groovy Climber |
+| 937 | 11 | Ray Baker |
+| 938 | 11 | Twisty Tilebuilder |
+| 939 | 11 | Boldy Zoner |
+| 940 | 10 | Marshall Davis |
 | 941 | 10 | Hasty Brickzone |
-| 942 | 10 | Saucy Linkgrid |
-| 943 | 10 | Daring Linkfall |
-| 944 | 10 | Renee Marshall |
-| 945 | 10 | Tynetta Scott |
+| 942 | 10 | Blaze |
+| 943 | 10 | Saucy Linkgrid |
+| 944 | 10 | Daring Linkfall |
+| 945 | 10 | Renee Marshall |
 | 946 | 10 | Anntionette Sotire |
-| 947 | 10 | Mark Steven Pichler |
+| 947 | 10 | Tynetta Scott |
 | 948 | 10 | Boricua64 |
-| 949 | 10 | Upt |
-| 950 | 10 | Manda Pecora |
-| 951 | 10 | Omar Dotray |
-| 952 | 10 | OneBuke FollowMe |
-| 953 | 10 | Cornelius Neal |
-| 954 | 10 | Meeee |
-| 955 | 10 | Damien Fonseca |
-| 956 | 10 | Wacky Riserpiece |
+| 949 | 10 | Mark Steven Pichler |
+| 950 | 10 | OneBuke FollowMe |
+| 951 | 10 | Upt |
+| 952 | 10 | Manda Pecora |
+| 953 | 10 | Omar Dotray |
+| 954 | 10 | Cornelius Neal |
+| 955 | 10 | Meeee |
+| 956 | 10 | Damien Fonseca |
 | 957 | 10 | Mikemike Zonethree |
-| 958 | 10 | Nikiya |
-| 959 | 10 | Anthony D Holmes |
+| 958 | 10 | Wacky Riserpiece |
+| 959 | 10 | Nikiya |
 | 960 | 10 | Tea |
-| 961 | 10 | Rieshelda Marie White |
-| 962 | 10 | Alisha Dawson Crouch |
-| 963 | 10 | Mayra Diaz |
-| 964 | 10 | Tranica Sterling |
-| 965 | 10 | Nope Young |
-| 966 | 10 | Willard Junior |
-| 967 | 10 | Shawn Himes |
+| 961 | 10 | Anthony D Holmes |
+| 962 | 10 | Rieshelda Marie White |
+| 963 | 10 | Alisha Dawson Crouch |
+| 964 | 10 | Megan Payette |
+| 965 | 10 | Mayra Diaz |
+| 966 | 10 | Tranica Sterling |
+| 967 | 10 | Willard Junior |
 | 968 | 10 | Happymama |
-| 969 | 10 | Megan Payette |
-| 970 | 9 | Mars |
+| 969 | 10 | Shawn Himes |
+| 970 | 10 | Nope Young |
 | 971 | 9 | Brika Brika |
-| 972 | 9 | Sherry D Singleton |
+| 972 | 9 | Anthony T. Fults |
 | 973 | 9 | Wacky Towerer |
-| 974 | 9 | Anthony T. Fults |
-| 975 | 9 | Dana |
-| 976 | 9 | John Lovato |
+| 974 | 9 | John Lovato |
+| 975 | 9 | Sherry D Singleton |
+| 976 | 9 | Mars |
 | 977 | 9 | Tanesha Ga'sFinest Corbett |
 | 978 | 9 | Noni |
 | 979 | 9 | Clifford Petroske |
-| 980 | 9 | ummm |
-| 981 | 9 | Robyn Ellis |
-| 982 | 9 | Catelyn Neal |
-| 983 | 9 | Jasmine Hariston-Estis |
-| 984 | 8 | Groovy Riseclear |
-| 985 | 8 | Nissa |
-| 986 | 8 | Chill Tumbler |
-| 987 | 8 | Macho Lewis |
-| 988 | 8 | Brenda Brogden |
-| 989 | 8 | MsSassygee Boom |
-| 990 | 8 | jus_ry |
-| 991 | 8 | Tiffany Jean Hinson |
-| 992 | 8 | Chevonne Huggins |
-| 993 | 8 | Queen Baby 5 |
-| 994 | 8 | Papi |
-| 995 | 8 | Caitlin Michele |
+| 980 | 9 | Dana |
+| 981 | 9 | Jasmine Hariston-Estis |
+| 982 | 9 | ummm |
+| 983 | 9 | Robyn Ellis |
+| 984 | 9 | Catelyn Neal |
+| 985 | 8 | Chevonne Huggins |
+| 986 | 8 | Ferocity |
+| 987 | 8 | MsSassygee Boom |
+| 988 | 8 | Macho Lewis |
+| 989 | 8 | Queen Baby 5 |
+| 990 | 8 | Nissa |
+| 991 | 8 | Groovy Riseclear |
+| 992 | 8 | Tiffany Jean Hinson |
+| 993 | 8 | jus_ry |
+| 994 | 8 | Brenda Brogden |
+| 995 | 8 | Shawna Passwater |
 | 996 | 8 | Chinkey Overit |
 | 997 | 8 | Teena K Macon |
 | 998 | 8 | Teresa Bean |
@@ -1008,9 +1008,9 @@
 | 1000 | 8 | Rixo Blax |
 | 1001 | 8 | Nicole Coko Thomas |
 | 1002 | 8 | Nerdy Twistline |
-| 1003 | 8 | Therealdywoune Peay |
-| 1004 | 8 | Ferocity |
-| 1005 | 8 | Shawna Passwater |
+| 1003 | 8 | Chill Tumbler |
+| 1004 | 8 | Caitlin Michele |
+| 1005 | 8 | Papi |
 | 1006 | 7 | Shane Brucewayne |
 | 1007 | 7 | Andrew Harris |
 | 1008 | 7 | Sheena Hamilton |
@@ -1026,8 +1026,8 @@
 | 1018 | 7 | Deadra Graham |
 | 1019 | 6 | CK |
 | 1020 | 6 | Frances Davis |
-| 1021 | 6 | Frilly Riserbuilder |
-| 1022 | 6 | Daring Riserfit |
+| 1021 | 6 | Daring Riserfit |
+| 1022 | 6 | Frilly Riserbuilder |
 | 1023 | 6 | NEM0228 |
 | 1024 | 6 | Kyshia |
 | 1025 | 6 | Andrea Jackson |
@@ -1039,9 +1039,9 @@
 | 1031 | 5 | Happy |
 | 1032 | 5 | DRIFTER |
 | 1033 | 5 | Zesty Clearer |
-| 1034 | 5 | EvaLynn NeCole |
+| 1034 | 5 | Duckey |
 | 1035 | 5 | Zappy Clearfit |
-| 1036 | 5 | Duckey |
+| 1036 | 5 | EvaLynn NeCole |
 | 1037 | 5 | Tito Divyn |
 | 1038 | 5 | Stephanie Zuniga Tullock |
 | 1039 | 5 | Aanngie Aanngie |
