@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-06 09:54:38 UTC
+# Standings for team3 as of 2026-06-06 09:55:16 UTC
 
 **Total Participants:** 3388
 
@@ -55,8 +55,8 @@
 | 47 | 2000 | Diamond Wharton |
 | 48 | 1963 | Flashy Blockline |
 | 49 | 1738 | Chubb Cuhz |
-| 50 | 1709 | Anna Nicole White |
-| 51 | 1678 | Nikki Williams |
+| 50 | 1728 | Nikki Williams |
+| 51 | 1709 | Anna Nicole White |
 | 52 | 1645 | Jen Tramack |
 | 53 | 1638 | Jeronica Jamerson |
 | 54 | 1556 | Hoppy Snapfit |
@@ -110,9 +110,9 @@
 | 102 | 879 | Morgan Mucherson |
 | 103 | 875 | Magnetic Marge |
 | 104 | 870 | Christian Willis |
-| 105 | 850 | Sarah A Evans |
-| 106 | 849 | Krissy Bowlin |
-| 107 | 843 | Patricia Cox |
+| 105 | 865 | Patricia Cox |
+| 106 | 850 | Sarah A Evans |
+| 107 | 849 | Krissy Bowlin |
 | 108 | 842 | Big Amaru Steppa77 |
 | 109 | 841 | Vanessa Barnett |
 | 110 | 840 | Meagan Fling |
@@ -319,28 +319,28 @@
 | 311 | 271 | Jessica Biggs |
 | 312 | 269 | Montey Johnson |
 | 313 | 267 | Tim Cowart |
-| 314 | 266 | Siara Brandon |
-| 315 | 266 | Tori Davies |
+| 314 | 266 | Tori Davies |
+| 315 | 266 | Siara Brandon |
 | 316 | 265 | Epic Shatterbuilder |
 | 317 | 264 | Luis Noel |
-| 318 | 263 | Bill Hilbert |
-| 319 | 262 | Sabrina Velasquez |
-| 320 | 260 | Laura |
-| 321 | 258 | cocaineshark |
-| 322 | 258 | Daniel Carlisle |
-| 323 | 258 | Alexandria Shoberg |
+| 318 | 263 | cocaineshark |
+| 319 | 263 | Bill Hilbert |
+| 320 | 262 | Sabrina Velasquez |
+| 321 | 260 | Laura |
+| 322 | 258 | Alexandria Shoberg |
+| 323 | 258 | Daniel Carlisle |
 | 324 | 256 | Latonya Johnson |
 | 325 | 256 | Tipsy Blockmatch |
 | 326 | 256 | Cheryl Maser |
 | 327 | 254 | Tyler StaySnappin Old'Page |
-| 328 | 253 | Scott Daley |
-| 329 | 253 | Melissa D'Amico |
+| 328 | 253 | Melissa D'Amico |
+| 329 | 253 | Scott Daley |
 | 330 | 251 | pussssaaaayyyyyy |
 | 331 | 250 | Tim N Jennifer Oliver |
 | 332 | 249 | Steven Wilkinson |
-| 333 | 247 | Matt Berry |
-| 334 | 247 | Krysten Wood |
-| 335 | 247 | Kristen Gaudin |
+| 333 | 247 | Krysten Wood |
+| 334 | 247 | Kristen Gaudin |
+| 335 | 247 | Matt Berry |
 | 336 | 241 | Queen |
 | 337 | 241 | Michele Turner |
 | 338 | 240 | Death |
@@ -350,12 +350,12 @@
 | 342 | 237 | Kim Rose |
 | 343 | 236 | Jurno Jackson |
 | 344 | 235 | Joshua Howe |
-| 345 | 234 | Amanda Barnes |
+| 345 | 234 | DawgDaddy |
 | 346 | 234 | Nikki |
-| 347 | 234 | DawgDaddy |
-| 348 | 233 | MzPac Muzic |
-| 349 | 233 | Creaminales805 |
-| 350 | 233 | Sharri Letkowski |
+| 347 | 234 | Amanda Barnes |
+| 348 | 233 | Sharri Letkowski |
+| 349 | 233 | MzPac Muzic |
+| 350 | 233 | Creaminales805 |
 | 351 | 233 | Groovy Cascadezone |
 | 352 | 232 | Gabi Calderaro |
 | 353 | 230 | Yadira Gonzalez |
@@ -371,9 +371,9 @@
 | 363 | 222 | Chyna B. Cousins |
 | 364 | 222 | Lanisha Thomas |
 | 365 | 220 | Mariah Serna |
-| 366 | 220 | Twisty Glidezone |
+| 366 | 220 | Edie Rushing |
 | 367 | 220 | Zesty Slider |
-| 368 | 220 | Edie Rushing |
+| 368 | 220 | Twisty Glidezone |
 | 369 | 220 | Josalyn Floyd Rowe |
 | 370 | 219 | Syeed U Zaman |
 | 371 | 219 | Chill Glidepiece |
@@ -444,37 +444,37 @@
 | 436 | 172 | Waterford CT |
 | 437 | 171 | Michael Neubauer |
 | 438 | 171 | Carmen Baltiero |
-| 439 | 170 | Carole Sheridan |
-| 440 | 170 | Speedy Gridroll |
-| 441 | 170 | Mathew Dreibelbis |
-| 442 | 169 | Mcarthur Mayfield |
-| 443 | 169 | Susan Brazen |
-| 444 | 168 | Stacy Frasure |
-| 445 | 168 | Lilcash1500 |
-| 446 | 168 | Ness |
-| 447 | 167 | Melodie Heiden |
-| 448 | 167 | Ruben Kai |
-| 449 | 166 | Dreamy Tiler |
-| 450 | 166 | Crystal Carlson |
-| 451 | 165 | Ai Abal |
-| 452 | 163 | Michelle Lewis |
-| 453 | 163 | Witty Combofall |
-| 454 | 163 | Stephanie Marie Kirk |
-| 455 | 163 | Danielle |
-| 456 | 162 | Butterfly |
-| 457 | 161 | Afever |
-| 458 | 161 | Noe |
-| 459 | 161 | Mo Khan |
+| 439 | 171 | Mo Khan |
+| 440 | 170 | Carole Sheridan |
+| 441 | 170 | Speedy Gridroll |
+| 442 | 170 | Mathew Dreibelbis |
+| 443 | 169 | Mcarthur Mayfield |
+| 444 | 169 | Susan Brazen |
+| 445 | 168 | Stacy Frasure |
+| 446 | 168 | Lilcash1500 |
+| 447 | 168 | Ness |
+| 448 | 167 | Melodie Heiden |
+| 449 | 167 | Ruben Kai |
+| 450 | 166 | Dreamy Tiler |
+| 451 | 166 | Crystal Carlson |
+| 452 | 165 | Ai Abal |
+| 453 | 163 | Michelle Lewis |
+| 454 | 163 | Witty Combofall |
+| 455 | 163 | Stephanie Marie Kirk |
+| 456 | 163 | Danielle |
+| 457 | 162 | Butterfly |
+| 458 | 161 | Afever |
+| 459 | 161 | Noe |
 | 460 | 161 | Mo Sprinkle |
 | 461 | 160 | Audrey Maxine |
-| 462 | 160 | Court |
+| 462 | 160 | enigo montoya |
 | 463 | 160 | Crystal Casper |
 | 464 | 160 | Corkster |
 | 465 | 160 | Speedy McBlocks |
 | 466 | 160 | Dafudgey 1 |
 | 467 | 160 | Hyper Zonepiece |
-| 468 | 160 | Terren Ogle |
-| 469 | 160 | enigo montoya |
+| 468 | 160 | Court |
+| 469 | 160 | Terren Ogle |
 | 470 | 160 | Dallin Brereton |
 | 471 | 160 | Arielle Nicol Bass |
 | 472 | 158 | Kdud |
