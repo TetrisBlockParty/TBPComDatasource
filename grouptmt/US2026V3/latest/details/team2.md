@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 11:50:17 UTC
+# Standings for team2 as of 2026-06-06 11:50:40 UTC
 
 **Total Participants:** 1124
 
@@ -22,8 +22,8 @@
 | 14 | 3812 | Crystal M Sowden |
 | 15 | 3358 | Traci Elizabeth |
 | 16 | 3283 | Jewels |
-| 17 | 2561 | Erica Dees Parks |
-| 18 | 2548 | Kathleen M Cox |
+| 17 | 2698 | Kathleen M Cox |
+| 18 | 2561 | Erica Dees Parks |
 | 19 | 2500 | Crafty Ziggy |
 | 20 | 2368 | Dapper Rollout |
 | 21 | 2242 | Bobbi |
@@ -392,33 +392,33 @@
 | 384 | 65 | Jumpy Matchbuilder |
 | 385 | 65 | Sarah Jane Gorsuch |
 | 386 | 65 | Sarah Louise Cobb |
-| 387 | 64 | Martha Lynn Wiggins |
-| 388 | 64 | Amanda Bottorff |
-| 389 | 64 | Matt Wylie |
-| 390 | 64 | Earline Dupuy Bordelon |
-| 391 | 64 | Paige Lynette Sohl |
+| 387 | 65 | Valeri Bradley |
+| 388 | 64 | Martha Lynn Wiggins |
+| 389 | 64 | Amanda Bottorff |
+| 390 | 64 | Matt Wylie |
+| 391 | 64 | Earline Dupuy Bordelon |
 | 392 | 64 | Cristi Doris |
 | 393 | 64 | Cool Balancer |
-| 394 | 63 | Bonnie Huckleberry |
-| 395 | 63 | Lacie B |
+| 394 | 64 | Paige Lynette Sohl |
+| 395 | 63 | Bonnie Huckleberry |
 | 396 | 63 | Melmel |
-| 397 | 62 | Heather Billodeau |
+| 397 | 63 | Lacie B |
 | 398 | 62 | Amy Walker |
-| 399 | 62 | Amber Simonton |
-| 400 | 62 | Lively Twisterfit |
-| 401 | 62 | Valeri Bradley |
-| 402 | 61 | Glitzy Matchclear |
+| 399 | 62 | Lively Twisterfit |
+| 400 | 62 | Amber Simonton |
+| 401 | 62 | Heather Billodeau |
+| 402 | 61 | Dame Smith |
 | 403 | 61 | Greenie |
-| 404 | 61 | Bubbly Dash |
-| 405 | 61 | Dame Smith |
-| 406 | 61 | Jessica Perkins |
-| 407 | 61 | Josephina |
-| 408 | 60 | Loopy Dropper |
-| 409 | 60 | Patti Ward |
-| 410 | 60 | Yari |
-| 411 | 60 | Dawn Kroptavich |
-| 412 | 60 | Emily Carns |
-| 413 | 60 | Nicole Ashbaugh |
+| 404 | 61 | Josephina |
+| 405 | 61 | Glitzy Matchclear |
+| 406 | 61 | Bubbly Dash |
+| 407 | 61 | Jessica Perkins |
+| 408 | 60 | Dawn Kroptavich |
+| 409 | 60 | Emily Carns |
+| 410 | 60 | Nicole Ashbaugh |
+| 411 | 60 | Yari |
+| 412 | 60 | Loopy Dropper |
+| 413 | 60 | Patti Ward |
 | 414 | 60 | Snippy Shifter |
 | 415 | 60 | Speedy Gridder |
 | 416 | 60 | Mary Whitaker |
