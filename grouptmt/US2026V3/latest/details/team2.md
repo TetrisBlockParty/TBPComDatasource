@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 10:38:16 UTC
+# Standings for team2 as of 2026-06-06 10:38:39 UTC
 
 **Total Participants:** 1106
 
@@ -292,24 +292,24 @@
 | 284 | 87 | Carolyn McNaughton |
 | 285 | 87 | Charlie Wilson |
 | 286 | 87 | Boldy Fitclear |
-| 287 | 86 | Bianca Woodruff |
-| 288 | 85 | James Sayers |
-| 289 | 85 | Karly Moore |
-| 290 | 85 | Christina Maria |
-| 291 | 85 | Daisy Girl |
-| 292 | 84 | Lisa Underwood Desmond |
-| 293 | 83 | TetrisMama |
-| 294 | 82 | Hypee |
-| 295 | 82 | Wendy McKee |
-| 296 | 82 | Norma Ortiz |
-| 297 | 82 | Sandra Pursell |
-| 298 | 82 | giamy |
-| 299 | 82 | Chill Line |
-| 300 | 82 | Liseth Vasquez |
-| 301 | 81 | Heather Hi |
+| 287 | 87 | Liseth Vasquez |
+| 288 | 86 | Bianca Woodruff |
+| 289 | 85 | James Sayers |
+| 290 | 85 | Daisy Girl |
+| 291 | 85 | Christina Maria |
+| 292 | 85 | Karly Moore |
+| 293 | 84 | Lisa Underwood Desmond |
+| 294 | 83 | TetrisMama |
+| 295 | 82 | Chill Line |
+| 296 | 82 | Hypee |
+| 297 | 82 | giamy |
+| 298 | 82 | Sandra Pursell |
+| 299 | 82 | Norma Ortiz |
+| 300 | 82 | Wendy McKee |
+| 301 | 81 | Shiny Spinfit |
 | 302 | 81 | Lindsey Ross |
-| 303 | 81 | Shiny Spinfit |
-| 304 | 81 | Kimmyc |
+| 303 | 81 | Kimmyc |
+| 304 | 81 | Heather Hi |
 | 305 | 81 | Cassandra Milner |
 | 306 | 81 | Angeleye A James |
 | 307 | 81 | YldBoar |
