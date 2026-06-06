@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 22:46:18 UTC
+# Standings for team1 as of 2026-06-06 22:46:38 UTC
 
 **Total Participants:** 1193
 
@@ -288,11 +288,11 @@
 | 280 | 119 | Telisha Mims |
 | 281 | 119 | Kelvin Cook |
 | 282 | 118 | Rachael Bakowicz Edwards |
-| 283 | 118 | Sarah Clark |
+| 283 | 118 | Tosha Michelle |
 | 284 | 118 | Hasty Pivoty |
-| 285 | 117 | Giggy Tower |
-| 286 | 116 | Shalya Terry |
-| 287 | 116 | Tosha Michelle |
+| 285 | 118 | Sarah Clark |
+| 286 | 117 | Giggy Tower |
+| 287 | 116 | Shalya Terry |
 | 288 | 115 | Dizzy Dashy |
 | 289 | 115 | Skippy |
 | 290 | 114 | TT |
@@ -513,101 +513,101 @@
 | 505 | 60 | Missy Myvette |
 | 506 | 60 | Coco |
 | 507 | 60 | Pretty Yella |
-| 508 | 60 | Dianne Clagon |
-| 509 | 60 | Deveda Williams |
-| 510 | 60 | Adrian Harris |
+| 508 | 60 | Malcolm Stanley |
+| 509 | 60 | Tellisa Payne |
+| 510 | 60 | lookin |
 | 511 | 60 | Demi Ovalle |
-| 512 | 60 | lookin |
-| 513 | 60 | Mom3granny2 |
-| 514 | 60 | Yellowguy3 |
-| 515 | 60 | Tellisa Payne |
-| 516 | 60 | Lauren Farkas |
-| 517 | 60 | Xana Zania Bopp |
-| 518 | 60 | Angie Smith |
-| 519 | 60 | Malcolm Stanley |
-| 520 | 59 | Kortney Adams |
-| 521 | 59 | Smiley Tilebuilder |
-| 522 | 59 | 大竹直之 |
+| 512 | 60 | Adrian Harris |
+| 513 | 60 | Deveda Williams |
+| 514 | 60 | Mom3granny2 |
+| 515 | 60 | Yellowguy3 |
+| 516 | 60 | Dianne Clagon |
+| 517 | 60 | Lauren Farkas |
+| 518 | 60 | Xana Zania Bopp |
+| 519 | 60 | Angie Smith |
+| 520 | 59 | Evette Moreno |
+| 521 | 59 | Kortney Adams |
+| 522 | 59 | Dede Tate |
 | 523 | 59 | Keith Johnson |
-| 524 | 59 | Dede Tate |
-| 525 | 59 | Kimberly Anderson |
+| 524 | 59 | Smiley Tilebuilder |
+| 525 | 59 | 大竹直之 |
 | 526 | 59 | Tonny Williams |
-| 527 | 59 | Stephen Garland |
-| 528 | 59 | Evette Moreno |
-| 529 | 59 | Darrel Pemberton |
-| 530 | 58 | Bambi Love |
-| 531 | 58 | Kimberly Susan Privette |
-| 532 | 58 | CoaCoa Myles |
-| 533 | 58 | Brandy Way |
-| 534 | 58 | FunTime |
-| 535 | 58 | Alexandrla Smith |
-| 536 | 57 | Anastasia |
-| 537 | 57 | Letrishia Andrews |
-| 538 | 57 | Sugar Foot |
-| 539 | 57 | Elizabeth Vega Coreano |
-| 540 | 57 | Danny Talbot |
-| 541 | 57 | Faith Armone |
-| 542 | 57 | Dandy Brickfit |
-| 543 | 57 | Blocksy |
+| 527 | 59 | Darrel Pemberton |
+| 528 | 59 | Stephen Garland |
+| 529 | 59 | Kimberly Anderson |
+| 530 | 58 | CoaCoa Myles |
+| 531 | 58 | Alexandrla Smith |
+| 532 | 58 | Brandy Way |
+| 533 | 58 | Kimberly Susan Privette |
+| 534 | 58 | Bambi Love |
+| 535 | 58 | FunTime |
+| 536 | 57 | Sugar Foot |
+| 537 | 57 | Dandy Brickfit |
+| 538 | 57 | Raquel Ortiz |
+| 539 | 57 | Letrishia Andrews |
+| 540 | 57 | Elizabeth Vega Coreano |
+| 541 | 57 | Danny Talbot |
+| 542 | 57 | Anastasia |
+| 543 | 57 | Faith Armone |
 | 544 | 57 | Comedian Prince Paul |
-| 545 | 56 | McKayla Owens |
-| 546 | 56 | Lisa Ivy |
-| 547 | 55 | KoolKimJay |
-| 548 | 55 | Terrie |
-| 549 | 55 | Dreamzzz |
-| 550 | 55 | Sara |
-| 551 | 55 | Twisty Brickfit |
-| 552 | 55 | Desi Guerra |
-| 553 | 55 | Raquel Ortiz |
-| 554 | 55 | Daring Blockclear |
-| 555 | 55 | Nedine Ray |
-| 556 | 55 | Kyle Franklin |
-| 557 | 55 | nameno |
-| 558 | 54 | Gbnola |
-| 559 | 54 | Ryan Runyan |
-| 560 | 54 | Kashh |
-| 561 | 54 | Aaron Hartmann |
-| 562 | 54 | Ace Hardware |
-| 563 | 54 | Elizabeth Hopkins |
+| 545 | 57 | Blocksy |
+| 546 | 56 | McKayla Owens |
+| 547 | 56 | Lisa Ivy |
+| 548 | 55 | Dreamzzz |
+| 549 | 55 | Terrie |
+| 550 | 55 | Kyle Franklin |
+| 551 | 55 | KoolKimJay |
+| 552 | 55 | Daring Blockclear |
+| 553 | 55 | Sara |
+| 554 | 55 | nameno |
+| 555 | 55 | Twisty Brickfit |
+| 556 | 55 | Nedine Ray |
+| 557 | 55 | Desi Guerra |
+| 558 | 54 | Kashh |
+| 559 | 54 | Aaron Hartmann |
+| 560 | 54 | Melissa Olvera |
+| 561 | 54 | Ryan Runyan |
+| 562 | 54 | Elizabeth Hopkins |
+| 563 | 54 | Sha Anderson |
 | 564 | 54 | Boldy Pivoty |
-| 565 | 54 | Melissa Olvera |
-| 566 | 54 | John Spath |
-| 567 | 54 | Sha Anderson |
-| 568 | 53 | Mellie Mel |
-| 569 | 53 | Saucy Faller |
-| 570 | 53 | Cortrell Foster |
-| 571 | 53 | Bold Clusterer |
-| 572 | 53 | Morenita Rodriguez |
-| 573 | 53 | Haakuu |
-| 574 | 53 | Barbramerri Tarboro |
-| 575 | 53 | Clever Wrecker |
-| 576 | 53 | Earl Williams |
-| 577 | 53 | Lady Scorpio |
-| 578 | 53 | Heather Wilson |
+| 565 | 54 | Gbnola |
+| 566 | 54 | Ace Hardware |
+| 567 | 54 | John Spath |
+| 568 | 53 | Heather Wilson |
+| 569 | 53 | Cortrell Foster |
+| 570 | 53 | Bold Clusterer |
+| 571 | 53 | Mellie Mel |
+| 572 | 53 | Saucy Faller |
+| 573 | 53 | Barbramerri Tarboro |
+| 574 | 53 | Morenita Rodriguez |
+| 575 | 53 | Haakuu |
+| 576 | 53 | Lady Scorpio |
+| 577 | 53 | Earl Williams |
+| 578 | 53 | Clever Wrecker |
 | 579 | 52 | Sherri Keys |
-| 580 | 52 | Giggly Tiltbuilder |
-| 581 | 52 | Loopy Risepiece |
+| 580 | 52 | Loopy Risepiece |
+| 581 | 52 | Giggly Tiltbuilder |
 | 582 | 52 | Gabriela Hernandez |
-| 583 | 51 | Shanjerrica Taylor Rosell |
-| 584 | 51 | Poppy Smasher |
-| 585 | 51 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 586 | 51 | messyboots |
-| 587 | 51 | Casey Chapman |
+| 583 | 51 | Casey Chapman |
+| 584 | 51 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 585 | 51 | messyboots |
+| 586 | 51 | Shanjerrica Taylor Rosell |
+| 587 | 51 | Poppy Smasher |
 | 588 | 51 | BrettanMary Adkins |
-| 589 | 50 | Victoria Smith |
-| 590 | 50 | Rissa Rozay |
+| 589 | 50 | Jes Marie |
+| 590 | 50 | MsBobby Patrick |
 | 591 | 50 | Rande Smith |
-| 592 | 50 | Giggy Holder |
-| 593 | 50 | MsBobby Patrick |
-| 594 | 50 | Jes Marie |
-| 595 | 50 | Denell Sims |
-| 596 | 50 | Teresa Yanira Cepeda |
-| 597 | 50 | Christopher Shaw-Black |
-| 598 | 50 | Amaadi Ward |
+| 592 | 50 | Rissa Rozay |
+| 593 | 50 | Denell Sims |
+| 594 | 50 | Teresa Yanira Cepeda |
+| 595 | 50 | Victoria Smith |
+| 596 | 50 | Daring Linkfall |
+| 597 | 50 | Tramaine Crockrum |
+| 598 | 50 | Meow Meow |
 | 599 | 50 | Kanary Karotz |
-| 600 | 50 | Meow Meow |
-| 601 | 50 | Tramaine Crockrum |
-| 602 | 50 | Daring Linkfall |
+| 600 | 50 | Amaadi Ward |
+| 601 | 50 | Christopher Shaw-Black |
+| 602 | 50 | Giggy Holder |
 | 603 | 49 | Parris Wright |
 | 604 | 49 | Sallie Sanborn |
 | 605 | 49 | Speedy Stacky |
