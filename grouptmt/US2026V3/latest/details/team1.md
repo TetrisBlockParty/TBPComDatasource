@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 10:04:39 UTC
+# Standings for team1 as of 2026-06-06 10:05:16 UTC
 
 **Total Participants:** 949
 
@@ -105,50 +105,50 @@
 | 97 | 251 | Helen Smith |
 | 98 | 249 | Tamara N Lee |
 | 99 | 249 | Ashley MyBeauty Daniels |
-| 100 | 244 | Jaida De'Anne Cox |
-| 101 | 240 | Rayya Kiser |
-| 102 | 237 | Leebo Slice |
-| 103 | 234 | DaVonte' Cretter |
-| 104 | 225 | Rhonda Williams Warner |
-| 105 | 224 | Alana Renee |
-| 106 | 221 | Allison Baxter |
-| 107 | 219 | Jamal Itzjusmall Chambers |
-| 108 | 216 | Nerdy Snapfall |
-| 109 | 216 | Andi McGreevy |
-| 110 | 215 | Abraham Espaillat |
-| 111 | 215 | Songne Arif |
-| 112 | 214 | Po Marley |
-| 113 | 214 | Tonya McElroy |
-| 114 | 213 | Jason Mungin |
-| 115 | 209 | Zachary Colegrove |
-| 116 | 209 | Gotcha |
-| 117 | 206 | Curtis T Cirno |
-| 118 | 205 | Mic Balew |
-| 119 | 204 | MamaBear |
-| 120 | 200 | Felicia Cain |
-| 121 | 200 | Dacia Hicks |
-| 122 | 199 | Asani CHumba |
-| 123 | 197 | BYM4L |
-| 124 | 195 | Weeze |
-| 125 | 194 | Daris Swearington |
-| 126 | 193 | Brave Clearbuilder |
-| 127 | 190 | Davionte DaeDae Hopson-Rodriguez |
-| 128 | 188 | PandaPrincess |
-| 129 | 186 | Denise B |
-| 130 | 185 | Teddy Davis |
-| 131 | 184 | Dai Bo |
-| 132 | 182 | Chantelle Lee |
+| 100 | 245 | Gotcha |
+| 101 | 244 | Jaida De'Anne Cox |
+| 102 | 240 | Rayya Kiser |
+| 103 | 237 | Leebo Slice |
+| 104 | 234 | DaVonte' Cretter |
+| 105 | 225 | Rhonda Williams Warner |
+| 106 | 224 | Alana Renee |
+| 107 | 221 | Allison Baxter |
+| 108 | 219 | Jamal Itzjusmall Chambers |
+| 109 | 218 | Chantelle Lee |
+| 110 | 216 | Andi McGreevy |
+| 111 | 216 | Nerdy Snapfall |
+| 112 | 215 | Abraham Espaillat |
+| 113 | 215 | Songne Arif |
+| 114 | 214 | Po Marley |
+| 115 | 214 | Tonya McElroy |
+| 116 | 213 | Jason Mungin |
+| 117 | 209 | Zachary Colegrove |
+| 118 | 206 | Curtis T Cirno |
+| 119 | 205 | Mic Balew |
+| 120 | 204 | MamaBear |
+| 121 | 200 | Felicia Cain |
+| 122 | 200 | Dacia Hicks |
+| 123 | 199 | Asani CHumba |
+| 124 | 197 | BYM4L |
+| 125 | 195 | Weeze |
+| 126 | 194 | Daris Swearington |
+| 127 | 193 | Brave Clearbuilder |
+| 128 | 190 | Davionte DaeDae Hopson-Rodriguez |
+| 129 | 188 | PandaPrincess |
+| 130 | 186 | Denise B |
+| 131 | 185 | Teddy Davis |
+| 132 | 184 | Dai Bo |
 | 133 | 182 | Hyper Blocky |
 | 134 | 181 | Joey Albright |
 | 135 | 177 | Chris Sladoje |
 | 136 | 176 | Andre Sanon |
 | 137 | 175 | Rayshawn Cohen |
 | 138 | 169 | Asha Langford |
-| 139 | 166 | Nobles Brandon |
-| 140 | 166 | Tarnisha Neicy Jones |
+| 139 | 166 | Tarnisha Neicy Jones |
+| 140 | 166 | Nobles Brandon |
 | 141 | 160 | DaGuy |
-| 142 | 160 | Zippy Lifter |
-| 143 | 160 | Sara Meri |
+| 142 | 160 | Sara Meri |
+| 143 | 160 | Zippy Lifter |
 | 144 | 158 | Tina Mitchell |
 | 145 | 158 | W.A. Simpson |
 | 146 | 156 | Jessica Russell |
