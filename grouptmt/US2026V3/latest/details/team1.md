@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 17:24:41 UTC
+# Standings for team1 as of 2026-06-06 17:25:17 UTC
 
 **Total Participants:** 1082
 
@@ -205,18 +205,18 @@
 | 197 | 152 | Jolly Tilefall |
 | 198 | 149 | Lively Riserpiece |
 | 199 | 147 | MACHETEEDDIE513 |
-| 200 | 146 | Jai |
-| 201 | 146 | BlackQueen105 |
-| 202 | 145 | Latisha Fairley |
-| 203 | 144 | Keke Ferguson |
+| 200 | 147 | Melissa D. M. Hornsby |
+| 201 | 146 | Jai |
+| 202 | 146 | BlackQueen105 |
+| 203 | 145 | Latisha Fairley |
 | 204 | 144 | TBABYJ |
-| 205 | 143 | Sammie Walker |
+| 205 | 144 | Keke Ferguson |
 | 206 | 143 | BULLSEYE |
-| 207 | 142 | Mikayla |
-| 208 | 141 | Shalena Marie Humphrey |
-| 209 | 140 | Ann Chung |
-| 210 | 140 | Antoinette Jones |
-| 211 | 138 | Melissa D. M. Hornsby |
+| 207 | 143 | Sammie Walker |
+| 208 | 142 | Mikayla |
+| 209 | 141 | Shalena Marie Humphrey |
+| 210 | 140 | Ann Chung |
+| 211 | 140 | Antoinette Jones |
 | 212 | 138 | JaClanDiah |
 | 213 | 137 | Tay |
 | 214 | 137 | Ebony Waynes-robinson |
@@ -225,8 +225,8 @@
 | 217 | 135 | Dawn L Washington-Feuquay |
 | 218 | 135 | Sean White |
 | 219 | 133 | Robbie Cheeseman |
-| 220 | 130 | Rolanda Williams |
-| 221 | 130 | Emily Wright |
+| 220 | 130 | Emily Wright |
+| 221 | 130 | Rolanda Williams |
 | 222 | 130 | Jessica Davis |
 | 223 | 130 | Dion Gray |
 | 224 | 129 | Lisa Fletcher |
