@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 18:22:39 UTC
+# Standings for team1 as of 2026-06-06 18:23:17 UTC
 
 **Total Participants:** 1100
 
@@ -46,10 +46,10 @@
 | 38 | 971 | Spicy Balancer |
 | 39 | 959 | COSA303 |
 | 40 | 956 | Linzie Marie |
-| 41 | 935 | Whitney Butler |
-| 42 | 934 | Sanjuro |
-| 43 | 933 | Cherry Rose |
-| 44 | 915 | Chill Clusterer |
+| 41 | 935 | Chill Clusterer |
+| 42 | 935 | Whitney Butler |
+| 43 | 934 | Sanjuro |
+| 44 | 933 | Cherry Rose |
 | 45 | 882 | Jon Gathers |
 | 46 | 877 | Brian Bohanon II |
 | 47 | 863 | Janine Hunter |
@@ -96,7 +96,7 @@
 | 88 | 387 | Novaa |
 | 89 | 383 | Eric Mcgaughy |
 | 90 | 382 | Gael Quintana |
-| 91 | 379 | Kimberly Hernandez |
+| 91 | 382 | Kimberly Hernandez |
 | 92 | 377 | AF Cruz |
 | 93 | 373 | Catara Renae Oliver |
 | 94 | 370 | Lashawn Wallace |
@@ -527,49 +527,49 @@
 | 519 | 50 | Rande Smith |
 | 520 | 50 | Tramaine Crockrum |
 | 521 | 50 | Teresa Yanira Cepeda |
-| 522 | 49 | Parris Wright |
-| 523 | 49 | Blocksy |
-| 524 | 49 | No_Other_Choice |
-| 525 | 49 | Saucy Crusher |
-| 526 | 49 | Speedy Stacky |
-| 527 | 49 | Holly Baker |
-| 528 | 49 | Sallie Sanborn |
-| 529 | 49 | SnazzyIvy |
-| 530 | 49 | Teisha Scott |
-| 531 | 49 | Stronger Wiser Better |
-| 532 | 48 | Mommy Frank |
-| 533 | 48 | Clever Fitblock |
-| 534 | 48 | Zappy Riser |
-| 535 | 48 | Bubbly Crawler |
-| 536 | 48 | Eric Machuca |
-| 537 | 48 | Stephanie Ellis |
-| 538 | 48 | LoveLee |
-| 539 | 48 | Comedian Prince Paul |
-| 540 | 48 | Wild Out Nai |
-| 541 | 48 | Eli Delao |
-| 542 | 47 | Christopher Dreamsareality McEachin |
-| 543 | 47 | Tushama Cheris Okraku |
-| 544 | 47 | Chereese Harris |
-| 545 | 47 | Mami Badd |
-| 546 | 47 | Tyrone Porter |
+| 522 | 50 | Glitzy Clusterer |
+| 523 | 49 | Parris Wright |
+| 524 | 49 | Blocksy |
+| 525 | 49 | No_Other_Choice |
+| 526 | 49 | Saucy Crusher |
+| 527 | 49 | Speedy Stacky |
+| 528 | 49 | Holly Baker |
+| 529 | 49 | Sallie Sanborn |
+| 530 | 49 | Stronger Wiser Better |
+| 531 | 49 | SnazzyIvy |
+| 532 | 49 | Teisha Scott |
+| 533 | 48 | Mommy Frank |
+| 534 | 48 | Clever Fitblock |
+| 535 | 48 | Zappy Riser |
+| 536 | 48 | Bubbly Crawler |
+| 537 | 48 | Eric Machuca |
+| 538 | 48 | Stephanie Ellis |
+| 539 | 48 | LoveLee |
+| 540 | 48 | Comedian Prince Paul |
+| 541 | 48 | Wild Out Nai |
+| 542 | 48 | Eli Delao |
+| 543 | 47 | Tyrone Porter |
+| 544 | 47 | Tushama Cheris Okraku |
+| 545 | 47 | Chereese Harris |
+| 546 | 47 | Mami Badd |
 | 547 | 47 | Earl Williams |
 | 548 | 47 | Bubbly Slammer |
 | 549 | 47 | Kevin Turner |
-| 550 | 46 | David A Alvino |
-| 551 | 46 | Felicia Dungey |
-| 552 | 46 | Boldy Matchfit |
-| 553 | 46 | Elizabeth Green |
-| 554 | 46 | Kimberly Red |
-| 555 | 46 | Maria Baez Medina |
-| 556 | 46 | Squaw Ki Ng |
-| 557 | 46 | Ja'mice Nelson |
-| 558 | 46 | RylonJones |
-| 559 | 46 | Derald Miller |
-| 560 | 46 | Chris Nelson |
-| 561 | 46 | Kortney Adams |
-| 562 | 45 | Missy Myvette |
-| 563 | 45 | LeeLee08 |
-| 564 | 45 | Glitzy Clusterer |
+| 550 | 47 | Christopher Dreamsareality McEachin |
+| 551 | 46 | David A Alvino |
+| 552 | 46 | Felicia Dungey |
+| 553 | 46 | Kimberly Red |
+| 554 | 46 | Elizabeth Green |
+| 555 | 46 | Boldy Matchfit |
+| 556 | 46 | Maria Baez Medina |
+| 557 | 46 | Squaw Ki Ng |
+| 558 | 46 | Kortney Adams |
+| 559 | 46 | Ja'mice Nelson |
+| 560 | 46 | RylonJones |
+| 561 | 46 | Derald Miller |
+| 562 | 46 | Chris Nelson |
+| 563 | 45 | Missy Myvette |
+| 564 | 45 | LeeLee08 |
 | 565 | 45 | nameno |
 | 566 | 45 | Victoria Smith |
 | 567 | 45 | Renee J. Thomas |
