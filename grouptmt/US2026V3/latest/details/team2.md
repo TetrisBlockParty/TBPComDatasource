@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 07:56:17 UTC
+# Standings for team2 as of 2026-06-06 07:56:39 UTC
 
 **Total Participants:** 1073
 
@@ -27,11 +27,11 @@
 | 19 | 2216 | Renee Weedling |
 | 20 | 1900 | boblawboblaw |
 | 21 | 1842 | Frisky Balanceblock |
-| 22 | 1787 | Charles Varca |
-| 23 | 1744 | Alexia Reagan |
-| 24 | 1742 | Bobbi |
-| 25 | 1700 | Anthony Lilley |
-| 26 | 1692 | Lola C Davis |
+| 22 | 1835 | Lola C Davis |
+| 23 | 1787 | Charles Varca |
+| 24 | 1744 | Alexia Reagan |
+| 25 | 1742 | Bobbi |
+| 26 | 1700 | Anthony Lilley |
 | 27 | 1631 | Ashley Miller |
 | 28 | 1598 | Angie BBlock |
 | 29 | 1550 | Quirky Catcher |
@@ -167,30 +167,30 @@
 | 159 | 149 | Lily |
 | 160 | 148 | Curly Windbreaker |
 | 161 | 147 | Gill |
-| 162 | 145 | SEH |
-| 163 | 145 | H |
+| 162 | 145 | H |
+| 163 | 145 | SEH |
 | 164 | 145 | Amanda Priddy |
 | 165 | 142 | Krisanne Kesner-Lonsby |
-| 166 | 141 | Spicy Risegrid |
+| 166 | 142 | Cortney Coleman |
 | 167 | 141 | Melisa |
-| 168 | 140 | Iesha Cupil |
-| 169 | 140 | Billie Jensen |
-| 170 | 140 | Gabriella Humphreys |
-| 171 | 140 | marsam |
-| 172 | 140 | Brittney Williams |
-| 173 | 140 | snowwol |
-| 174 | 139 | Victoria Pale |
-| 175 | 138 | NickandJess Reynolds |
-| 176 | 137 | Lindsey Ford |
-| 177 | 136 | Lauren Maxwell |
-| 178 | 136 | Cortney Coleman |
-| 179 | 136 | Lashanda Bertram |
-| 180 | 136 | Joni Michelle Morgan |
+| 168 | 141 | Spicy Risegrid |
+| 169 | 140 | snowwol |
+| 170 | 140 | marsam |
+| 171 | 140 | Billie Jensen |
+| 172 | 140 | Gabriella Humphreys |
+| 173 | 140 | Brittney Williams |
+| 174 | 140 | Iesha Cupil |
+| 175 | 139 | Victoria Pale |
+| 176 | 138 | NickandJess Reynolds |
+| 177 | 137 | Lindsey Ford |
+| 178 | 136 | Lashanda Bertram |
+| 179 | 136 | Joni Michelle Morgan |
+| 180 | 136 | Lauren Maxwell |
 | 181 | 135 | Marylin Eacker |
 | 182 | 133 | Bengy Lead |
 | 183 | 132 | Spunky Cascadeclear |
-| 184 | 132 | Alison Waller |
-| 185 | 132 | Mtnblzr |
+| 184 | 132 | Mtnblzr |
+| 185 | 132 | Alison Waller |
 | 186 | 131 | Amy Lea Hamilton |
 | 187 | 131 | Harper |
 | 188 | 130 | Precious Womack |
