@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 03:44:38 UTC
+# Standings for team1 as of 2026-06-06 03:45:16 UTC
 
 **Total Participants:** 783
 
@@ -16,7 +16,7 @@
 | 8 | 2458 | Cozy Edge |
 | 9 | 2198 | Death by SnuSnu |
 | 10 | 1913 | Sha Harris |
-| 11 | 1600 | Tyeina Johnson |
+| 11 | 1700 | Tyeina Johnson |
 | 12 | 1589 | Brian Stackhouse |
 | 13 | 1449 | jaimie |
 | 14 | 1446 | Yolanda McDonald |
@@ -635,26 +635,26 @@
 | 627 | 14 | FunTime |
 | 628 | 14 | Nichole Horsley-Conn |
 | 629 | 14 | Kàrma Lee |
-| 630 | 14 | Dymond |
-| 631 | 14 | Sugar Foot |
-| 632 | 14 | Kenny 'Tailormade' Boyd |
-| 633 | 14 | Lynn |
-| 634 | 14 | Zany Pivot |
-| 635 | 14 | La'Chae Nickole |
-| 636 | 14 | TBabii24 |
-| 637 | 14 | Stanley Dixon |
-| 638 | 14 | Jerrone Epps |
-| 639 | 14 | Aaron Hartmann |
-| 640 | 14 | No_Other_Choice |
-| 641 | 13 | Seirra Robinson |
-| 642 | 13 | Sarah Barnum |
-| 643 | 13 | John Spath |
-| 644 | 13 | Bubbly Piececlear |
-| 645 | 13 | Emma Adams |
+| 630 | 14 | Mighty plantlady |
+| 631 | 14 | Dymond |
+| 632 | 14 | Sugar Foot |
+| 633 | 14 | Kenny 'Tailormade' Boyd |
+| 634 | 14 | Lynn |
+| 635 | 14 | Zany Pivot |
+| 636 | 14 | La'Chae Nickole |
+| 637 | 14 | TBabii24 |
+| 638 | 14 | Stanley Dixon |
+| 639 | 14 | Jerrone Epps |
+| 640 | 14 | Aaron Hartmann |
+| 641 | 14 | No_Other_Choice |
+| 642 | 13 | Seirra Robinson |
+| 643 | 13 | Sarah Barnum |
+| 644 | 13 | John Spath |
+| 645 | 13 | Bubbly Piececlear |
 | 646 | 13 | Giggy Clusterer |
-| 647 | 13 | Cathy Young |
-| 648 | 13 | Leah Ingram |
-| 649 | 13 | Mighty plantlady |
+| 647 | 13 | Emma Adams |
+| 648 | 13 | Cathy Young |
+| 649 | 13 | Leah Ingram |
 | 650 | 13 | Jumpy Striker |
 | 651 | 13 | Daphne Ceasar |
 | 652 | 12 | Talya Richards |
