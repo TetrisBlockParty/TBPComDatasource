@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 10:41:15 UTC
+# Standings for team1 as of 2026-06-06 10:42:16 UTC
 
 **Total Participants:** 958
 
@@ -41,8 +41,8 @@
 | 33 | 843 | Jacoby E Fleming |
 | 34 | 842 | Chris Russell |
 | 35 | 841 | Spicy Balancer |
-| 36 | 794 | Jennifer To |
-| 37 | 768 | Ashley Espeut |
+| 36 | 796 | Ashley Espeut |
+| 37 | 794 | Jennifer To |
 | 38 | 749 | Aviv Zehavi |
 | 39 | 715 | Chill Clusterer |
 | 40 | 694 | Charnay Peacock |
@@ -57,9 +57,9 @@
 | 49 | 482 | Cj Gorman |
 | 50 | 474 | Keeta Chickswit Scott |
 | 51 | 469 | Sanjuro |
-| 52 | 415 | Corey Cawthon |
-| 53 | 411 | Ivana Schmidt |
-| 54 | 407 | KenpachisGirl |
+| 52 | 427 | KenpachisGirl |
+| 53 | 415 | Corey Cawthon |
+| 54 | 411 | Ivana Schmidt |
 | 55 | 403 | Gotcha |
 | 56 | 401 | Lisa Müller |
 | 57 | 399 | ing410 |
@@ -149,24 +149,24 @@
 | 141 | 169 | Asha Langford |
 | 142 | 166 | Nobles Brandon |
 | 143 | 166 | Tarnisha Neicy Jones |
-| 144 | 160 | Zippy Lifter |
-| 145 | 160 | Sara Meri |
+| 144 | 161 | Kelli Couture |
+| 145 | 160 | Zippy Lifter |
 | 146 | 160 | DaGuy |
-| 147 | 158 | Tina Mitchell |
-| 148 | 158 | W.A. Simpson |
-| 149 | 156 | Anthony Washington |
-| 150 | 156 | Jessica Russell |
-| 151 | 155 | Jawaun Daniels |
-| 152 | 152 | Kelli Couture |
+| 147 | 160 | Sara Meri |
+| 148 | 158 | Tina Mitchell |
+| 149 | 158 | W.A. Simpson |
+| 150 | 156 | Anthony Washington |
+| 151 | 156 | Jessica Russell |
+| 152 | 155 | Jawaun Daniels |
 | 153 | 147 | David Fuentes |
 | 154 | 147 | MACHETEEDDIE513 |
-| 155 | 146 | Marcheta Cervantez |
-| 156 | 146 | BlackQueen105 |
+| 155 | 146 | BlackQueen105 |
+| 156 | 146 | Marcheta Cervantez |
 | 157 | 140 | Antoinette Jones |
 | 158 | 140 | Ann Chung |
 | 159 | 139 | Mafio SO |
-| 160 | 138 | Lashaunda |
-| 161 | 138 | JaClanDiah |
+| 160 | 138 | JaClanDiah |
+| 161 | 138 | Lashaunda |
 | 162 | 135 | Dawn L Washington-Feuquay |
 | 163 | 135 | Sean White |
 | 164 | 135 | Amber Wilson |
@@ -677,46 +677,46 @@
 | 669 | 23 | Genevieve Nieves |
 | 670 | 23 | Hardtohandle91 |
 | 671 | 23 | Peppy Wipeblock |
-| 672 | 23 | Monica Fields |
-| 673 | 23 | Cm |
+| 672 | 23 | Cm |
+| 673 | 23 | Monica Fields |
 | 674 | 23 | Shauntai Holiday |
 | 675 | 23 | Tabitha Dupre-Allen |
 | 676 | 23 | Vontesha Kidd |
-| 677 | 23 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 678 | 23 | Connor Leon Cluff |
+| 677 | 23 | Connor Leon Cluff |
+| 678 | 23 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
 | 679 | 23 | Khatyrah Burnette |
-| 680 | 22 | Jroc Tyra Taylor |
-| 681 | 22 | Happy Blocky |
-| 682 | 22 | BULLSEYE |
-| 683 | 22 | Stephen Glaze |
-| 684 | 22 | Kate Hancock Malicek |
-| 685 | 22 | ShayePooh |
+| 680 | 22 | ShayePooh |
+| 681 | 22 | Solomon Valarie |
+| 682 | 22 | Happy Blocky |
+| 683 | 22 | BULLSEYE |
+| 684 | 22 | Stephen Glaze |
+| 685 | 22 | Kate Hancock Malicek |
 | 686 | 22 | tg |
 | 687 | 22 | Duncan Timothy |
 | 688 | 22 | Joseph Vs Cap |
-| 689 | 21 | Crafty Witch |
-| 690 | 21 | Taz Ballard |
+| 689 | 22 | Jroc Tyra Taylor |
+| 690 | 21 | Crafty Witch |
 | 691 | 21 | Desiree Ryder |
-| 692 | 21 | Richelle Beck |
-| 693 | 21 | RylonJones |
-| 694 | 21 | Clever Blocker |
-| 695 | 21 | BB |
-| 696 | 21 | lady |
-| 697 | 21 | Arturo Hernandez II |
+| 692 | 21 | Taz Ballard |
+| 693 | 21 | Richelle Beck |
+| 694 | 21 | RylonJones |
+| 695 | 21 | Clever Blocker |
+| 696 | 21 | Cali Lee |
+| 697 | 21 | Zappy Zoney |
 | 698 | 21 | Christy |
-| 699 | 21 | Zappy Zoney |
-| 700 | 21 | Cali Lee |
-| 701 | 21 | Solomon Valarie |
-| 702 | 20 | Jonathan McKenzie |
-| 703 | 20 | Biggestboss Ransom |
-| 704 | 20 | Kenneth Hefney |
-| 705 | 20 | B.L. Perry |
-| 706 | 20 | Cynthia Potter |
-| 707 | 20 | Bold Spinblock |
-| 708 | 20 | Cynthia Bradley |
-| 709 | 20 | BonnieB |
-| 710 | 20 | Lyn Reed |
-| 711 | 20 | Giggy Edgefit |
+| 699 | 21 | Arturo Hernandez II |
+| 700 | 21 | lady |
+| 701 | 21 | BB |
+| 702 | 20 | Giggy Edgefit |
+| 703 | 20 | Lyn Reed |
+| 704 | 20 | BonnieB |
+| 705 | 20 | Cynthia Bradley |
+| 706 | 20 | Bold Spinblock |
+| 707 | 20 | Cynthia Potter |
+| 708 | 20 | B.L. Perry |
+| 709 | 20 | Biggestboss Ransom |
+| 710 | 20 | Jonathan McKenzie |
+| 711 | 20 | Kenneth Hefney |
 | 712 | 20 | Bryttani GoingPlaces Latimer |
 | 713 | 20 | Sallie Sanborn |
 | 714 | 20 | Spotlight |
