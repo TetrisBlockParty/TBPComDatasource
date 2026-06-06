@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 02:18:15 UTC
+# Standings for team1 as of 2026-06-06 02:18:38 UTC
 
 **Total Participants:** 719
 
@@ -66,10 +66,10 @@
 | 58 | 248 | Debbie Carswell |
 | 59 | 240 | Rayya Kiser |
 | 60 | 239 | GrkGdess |
-| 61 | 237 | Leebo Slice |
-| 62 | 228 | Cassidy Butler |
-| 63 | 224 | Alana Renee |
-| 64 | 224 | Kimberly Hernandez |
+| 61 | 238 | Kimberly Hernandez |
+| 62 | 237 | Leebo Slice |
+| 63 | 228 | Cassidy Butler |
+| 64 | 224 | Alana Renee |
 | 65 | 222 | JaszyBadd |
 | 66 | 221 | Allison Baxter |
 | 67 | 215 | Abraham Espaillat |
@@ -196,15 +196,15 @@
 | 188 | 66 | Breezy Catcher |
 | 189 | 65 | Jazzy Bridger |
 | 190 | 65 | Nutty Spinblock |
-| 191 | 65 | pooh |
-| 192 | 64 | Eugina Slater |
-| 193 | 64 | Jackytrain52 |
-| 194 | 64 | Andi McGreevy |
-| 195 | 64 | CJ Robinson |
-| 196 | 63 | Slinky Clearzone |
-| 197 | 62 | Jack Mehof |
-| 198 | 62 | rls |
-| 199 | 62 | Cheeky Pop |
+| 191 | 65 | Cheeky Pop |
+| 192 | 65 | pooh |
+| 193 | 64 | Eugina Slater |
+| 194 | 64 | Jackytrain52 |
+| 195 | 64 | Andi McGreevy |
+| 196 | 64 | CJ Robinson |
+| 197 | 63 | Slinky Clearzone |
+| 198 | 62 | Jack Mehof |
+| 199 | 62 | rls |
 | 200 | 62 | De'Mear McKinney |
 | 201 | 61 | Stephen Providenti |
 | 202 | 61 | Tonya Thomas |
@@ -706,7 +706,7 @@
 | 698 | 5 | Shona ShayShay Jones |
 | 699 | 5 | Hasty Brickzone |
 | 700 | 5 | Temeshia Brooks Washington |
-| 701 | 5 | Tipsy Builderline |
+| 701 | 5 | Duckey |
 | 702 | 5 | Rieshelda Marie White |
 | 703 | 5 | Sara |
 | 704 | 5 | Derek Beverly |
@@ -716,15 +716,15 @@
 | 708 | 5 | Tito Divyn |
 | 709 | 5 | Shawn Himes |
 | 710 | 5 | Zappy Clearfit |
-| 711 | 5 | Duckey |
-| 712 | 5 | Giggy Clusterer |
-| 713 | 5 | Jasmine Hariston-Estis |
-| 714 | 5 | DirtiestofMikes |
-| 715 | 5 | Logan Frost |
-| 716 | 5 | Kidgib5 |
-| 717 | 5 | Jennifer Moore |
-| 718 | 5 | Andre Sanon |
-| 719 | 5 | VERA DAME |
+| 711 | 5 | Giggy Clusterer |
+| 712 | 5 | Jasmine Hariston-Estis |
+| 713 | 5 | DirtiestofMikes |
+| 714 | 5 | Logan Frost |
+| 715 | 5 | Kidgib5 |
+| 716 | 5 | Jennifer Moore |
+| 717 | 5 | Andre Sanon |
+| 718 | 5 | VERA DAME |
+| 719 | 5 | Tipsy Builderline |
 
 ---
 *Standings created by tournaments datasource generation tool*
