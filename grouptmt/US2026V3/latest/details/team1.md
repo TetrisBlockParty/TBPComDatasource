@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 06:14:15 UTC
+# Standings for team1 as of 2026-06-06 06:14:38 UTC
 
 **Total Participants:** 884
 
@@ -364,9 +364,9 @@
 | 356 | 50 | MsBobby Patrick |
 | 357 | 49 | Speedy Stacky |
 | 358 | 49 | No_Other_Choice |
-| 359 | 49 | SnazzyIvy |
-| 360 | 49 | Brittany Fells |
-| 361 | 49 | LexiiSamayaa |
+| 359 | 49 | Brittany Fells |
+| 360 | 49 | LexiiSamayaa |
+| 361 | 49 | SnazzyIvy |
 | 362 | 48 | Comedian Prince Paul |
 | 363 | 48 | Clever Fitblock |
 | 364 | 48 | Wild Out Nai |
@@ -375,70 +375,70 @@
 | 367 | 48 | Slim Shedidthat |
 | 368 | 48 | Mommy Frank |
 | 369 | 48 | LoveLee |
-| 370 | 47 | Faith Armone |
-| 371 | 47 | Shameka Thrasher |
+| 370 | 47 | Shameka Thrasher |
+| 371 | 47 | Derrius SeriousLee Burks |
 | 372 | 47 | Christopher Dreamsareality McEachin |
-| 373 | 47 | Calvin Green |
-| 374 | 47 | Smiley Tilebuilder |
-| 375 | 47 | Derrius SeriousLee Burks |
-| 376 | 47 | Poppy Twister |
-| 377 | 47 | Kevin Turner |
-| 378 | 47 | Slinky Brickmatch |
-| 379 | 46 | David A Alvino |
-| 380 | 46 | Chris Nelson |
-| 381 | 46 | Maria Baez Medina |
-| 382 | 46 | Felicia Dungey |
-| 383 | 46 | Ja'mice Nelson |
-| 384 | 46 | Anthony |
-| 385 | 46 | Kimberly Anderson |
-| 386 | 45 | La'Chae Nickole |
-| 387 | 45 | Jenni Hardman |
-| 388 | 45 | Glitzy Clusterer |
-| 389 | 45 | Erika Windom |
-| 390 | 45 | nameno |
-| 391 | 45 | Renee J. Thomas |
+| 373 | 47 | Smiley Tilebuilder |
+| 374 | 47 | Calvin Green |
+| 375 | 47 | Faith Armone |
+| 376 | 47 | Kevin Turner |
+| 377 | 47 | Slinky Brickmatch |
+| 378 | 47 | Poppy Twister |
+| 379 | 46 | Kimberly Anderson |
+| 380 | 46 | David A Alvino |
+| 381 | 46 | Chris Nelson |
+| 382 | 46 | Ja'mice Nelson |
+| 383 | 46 | Anthony |
+| 384 | 46 | Felicia Dungey |
+| 385 | 46 | Maria Baez Medina |
+| 386 | 45 | nameno |
+| 387 | 45 | La'Chae Nickole |
+| 388 | 45 | Erika Windom |
+| 389 | 45 | Renee J. Thomas |
+| 390 | 45 | Glitzy Clusterer |
+| 391 | 45 | Peppy Glider |
 | 392 | 45 | Guy Incognito |
-| 393 | 44 | Tamara Johnson-Carter |
-| 394 | 44 | sasha |
-| 395 | 44 | Peppy Glider |
-| 396 | 43 | Rufus |
-| 397 | 43 | Brenda Malachi-butler |
-| 398 | 43 | Rachel Renae Bettis |
-| 399 | 43 | Heather Wilson |
-| 400 | 43 | Gael Quintana |
-| 401 | 43 | Block |
-| 402 | 43 | Daring Blockclear |
-| 403 | 43 | Giggy Brickfit |
-| 404 | 43 | Kimberly Red |
-| 405 | 42 | Casey Chapman |
-| 406 | 42 | Louise |
-| 407 | 42 | Bobby Chestefield |
-| 408 | 42 | MrsMeadows2019 |
-| 409 | 42 | Sunny Riserbuilder |
-| 410 | 42 | Richard Flex |
+| 393 | 45 | Jenni Hardman |
+| 394 | 44 | Tamara Johnson-Carter |
+| 395 | 44 | sasha |
+| 396 | 43 | Brenda Malachi-butler |
+| 397 | 43 | Giggy Brickfit |
+| 398 | 43 | Daring Blockclear |
+| 399 | 43 | Rachel Renae Bettis |
+| 400 | 43 | Heather Wilson |
+| 401 | 43 | Rufus |
+| 402 | 43 | Gael Quintana |
+| 403 | 43 | Kimberly Red |
+| 404 | 43 | Block |
+| 405 | 42 | Bobby Chestefield |
+| 406 | 42 | Sunny Riserbuilder |
+| 407 | 42 | Casey Chapman |
+| 408 | 42 | Louise |
+| 409 | 42 | Richard Flex |
+| 410 | 42 | MrsMeadows2019 |
 | 411 | 41 | Nerdy Climber |
-| 412 | 41 | Jessie N Michael Silvers |
-| 413 | 41 | Frothy Zoney |
-| 414 | 41 | Lawreniesha Burkley |
-| 415 | 41 | Cranky Fall |
+| 412 | 41 | Lawreniesha Burkley |
+| 413 | 41 | Cranky Fall |
+| 414 | 41 | Jessie N Michael Silvers |
+| 415 | 41 | Frothy Zoney |
 | 416 | 40 | Dawn Basemore |
-| 417 | 40 | Tushama Cheris Okraku |
-| 418 | 40 | Furlough Leslie |
-| 419 | 40 | Perky Pusher |
-| 420 | 40 | Tracey Johnson |
-| 421 | 40 | Flashy Slam |
-| 422 | 40 | Devin West |
+| 417 | 40 | Perky Pusher |
+| 418 | 40 | Tushama Cheris Okraku |
+| 419 | 40 | Tracey Johnson |
+| 420 | 40 | Flashy Slam |
+| 421 | 40 | Devin West |
+| 422 | 40 | Tori Carter |
 | 423 | 40 | Jean Regis |
 | 424 | 40 | Brittanie Wardlow |
-| 425 | 40 | Kamilya Rembert |
-| 426 | 40 | akosua |
-| 427 | 40 | KeeKee Williams |
-| 428 | 40 | Marcello Rush |
-| 429 | 40 | Douglas Price |
-| 430 | 40 | Larina Cherie Johnson |
+| 425 | 40 | KeeKee Williams |
+| 426 | 40 | Kamilya Rembert |
+| 427 | 40 | akosua |
+| 428 | 40 | Larina Cherie Johnson |
+| 429 | 40 | Marcello Rush |
+| 430 | 40 | Douglas Price |
 | 431 | 40 | Slinky Fallzone |
 | 432 | 40 | Christopher L Crites |
-| 433 | 40 | Tori Carter |
+| 433 | 40 | Furlough Leslie |
 | 434 | 39 | Shakuria Cortia Burney |
 | 435 | 39 | Elizabeth Green |
 | 436 | 39 | Amy Lynn Leifheit |
@@ -687,28 +687,28 @@
 | 679 | 18 | Soubletzy |
 | 680 | 18 | DeAngelo Sorrells |
 | 681 | 18 | Oaklonboy mike |
-| 682 | 18 | Azeiare Ziare |
-| 683 | 18 | Pj Rojas |
-| 684 | 18 | Keke |
-| 685 | 18 | Tyree Tman Shinette |
-| 686 | 18 | Diamond Nicole |
-| 687 | 17 | Solomon Valarie |
-| 688 | 17 | Andre Rivera |
-| 689 | 17 | Brii Michelle Lamb |
-| 690 | 17 | Vivian Bunnell Myers |
-| 691 | 17 | Embracing Hair |
+| 682 | 18 | Keke |
+| 683 | 18 | Azeiare Ziare |
+| 684 | 18 | Pj Rojas |
+| 685 | 18 | Kate Hancock Malicek |
+| 686 | 18 | Tyree Tman Shinette |
+| 687 | 18 | Diamond Nicole |
+| 688 | 17 | Solomon Valarie |
+| 689 | 17 | Andre Rivera |
+| 690 | 17 | Brii Michelle Lamb |
+| 691 | 17 | Vivian Bunnell Myers |
 | 692 | 17 | MrsDontPlay |
-| 693 | 17 | Rikki Moran |
-| 694 | 17 | Jb Mzresilience |
-| 695 | 16 | Krista McNair |
-| 696 | 16 | Sha Anderson |
-| 697 | 16 | Sunny Tumbler |
-| 698 | 16 | Symonne 'Monnie' Pierce |
-| 699 | 16 | Twisty Dashy |
-| 700 | 16 | Dee-Dee Stewart |
-| 701 | 16 | Stacey Kesteloot |
-| 702 | 16 | Tammy Collins |
-| 703 | 16 | Kate Hancock Malicek |
+| 693 | 17 | Embracing Hair |
+| 694 | 17 | Rikki Moran |
+| 695 | 17 | Jb Mzresilience |
+| 696 | 16 | Krista McNair |
+| 697 | 16 | Sha Anderson |
+| 698 | 16 | Sunny Tumbler |
+| 699 | 16 | Symonne 'Monnie' Pierce |
+| 700 | 16 | Twisty Dashy |
+| 701 | 16 | Dee-Dee Stewart |
+| 702 | 16 | Stacey Kesteloot |
+| 703 | 16 | Tammy Collins |
 | 704 | 15 | Haley Bell |
 | 705 | 15 | Elaine Youmans |
 | 706 | 15 | Spunky Strikerbuilder |
