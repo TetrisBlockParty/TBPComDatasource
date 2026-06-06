@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 12:28:17 UTC
+# Standings for team2 as of 2026-06-06 12:28:38 UTC
 
 **Total Participants:** 1138
 
@@ -185,8 +185,8 @@
 | 177 | 154 | Glitzy Base |
 | 178 | 151 | Karly Moore |
 | 179 | 151 | Marilyn Mendoza |
-| 180 | 150 | Crystal Allen |
-| 181 | 150 | Rick |
+| 180 | 150 | Rick |
+| 181 | 150 | Crystal Allen |
 | 182 | 149 | Jenni LeBlanc |
 | 183 | 148 | H |
 | 184 | 148 | Curly Windbreaker |
@@ -194,50 +194,50 @@
 | 186 | 146 | Kim Hunt |
 | 187 | 145 | SEH |
 | 188 | 145 | Amanda Priddy |
-| 189 | 142 | Cortney Coleman |
-| 190 | 142 | Ratchet |
+| 189 | 142 | Ratchet |
+| 190 | 142 | Cortney Coleman |
 | 191 | 141 | Cheery Towerzone |
 | 192 | 141 | Melisa |
-| 193 | 140 | Iesha Cupil |
-| 194 | 140 | Billie Jensen |
-| 195 | 140 | marsam |
+| 193 | 140 | marsam |
+| 194 | 140 | Iesha Cupil |
+| 195 | 140 | Billie Jensen |
 | 196 | 140 | Brittney Williams |
 | 197 | 139 | Victoria Pale |
 | 198 | 138 | NickandJess Reynolds |
-| 199 | 137 | Lindsey Ford |
-| 200 | 137 | Liseth Vasquez |
-| 201 | 136 | Lauren Maxwell |
+| 199 | 138 | Brenda Jones |
+| 200 | 137 | Lindsey Ford |
+| 201 | 137 | Liseth Vasquez |
 | 202 | 136 | Lashanda Bertram |
 | 203 | 136 | Joni Michelle Morgan |
-| 204 | 135 | Tina Marie |
+| 204 | 136 | Lauren Maxwell |
 | 205 | 135 | Marylin Eacker |
-| 206 | 133 | Bengy Lead |
-| 207 | 132 | Spunky Cascadeclear |
-| 208 | 132 | Alison Waller |
-| 209 | 132 | Mtnblzr |
-| 210 | 131 | Harper |
+| 206 | 135 | Tina Marie |
+| 207 | 133 | Bengy Lead |
+| 208 | 132 | Spunky Cascadeclear |
+| 209 | 132 | Alison Waller |
+| 210 | 132 | Mtnblzr |
 | 211 | 131 | Amy Lea Hamilton |
-| 212 | 130 | Precious Womack |
-| 213 | 130 | Laverne Ellis Blair |
-| 214 | 130 | ZBee |
-| 215 | 129 | Armando Sabedra |
+| 212 | 131 | Harper |
+| 213 | 130 | ZBee |
+| 214 | 130 | Laverne Ellis Blair |
+| 215 | 130 | Precious Womack |
 | 216 | 129 | Amy Taylor Pomerenk |
-| 217 | 128 | Teddy Williams |
-| 218 | 126 | Teresa Mandich |
-| 219 | 126 | Brenda Jones |
+| 217 | 129 | Armando Sabedra |
+| 218 | 128 | Teddy Williams |
+| 219 | 126 | Teresa Mandich |
 | 220 | 125 | Ariel Gundersen |
-| 221 | 124 | Jason Burris |
-| 222 | 124 | Amie Marks |
-| 223 | 120 | Happy |
-| 224 | 120 | Simone F |
-| 225 | 120 | Elizabeth Cornelius |
-| 226 | 120 | Kevin Mccoy |
-| 227 | 120 | Al Smith Jr |
+| 221 | 124 | Amie Marks |
+| 222 | 124 | Jason Burris |
+| 223 | 120 | Simone F |
+| 224 | 120 | Kevin Mccoy |
+| 225 | 120 | Happy |
+| 226 | 120 | Al Smith Jr |
+| 227 | 120 | Elizabeth Cornelius |
 | 228 | 119 | Perii Reynoso |
 | 229 | 119 | Angie Bishop |
 | 230 | 118 | Monique Frantz |
-| 231 | 117 | Marge Cromer |
-| 232 | 117 | Becca Marie |
+| 231 | 117 | Becca Marie |
+| 232 | 117 | Marge Cromer |
 | 233 | 117 | Margie Ann Naffziger |
 | 234 | 116 | Gwendolyn Boykin Mobbs |
 | 235 | 114 | Ashley Voelz |
