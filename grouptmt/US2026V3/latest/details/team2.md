@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 08:42:37 UTC
+# Standings for team2 as of 2026-06-06 08:43:17 UTC
 
 **Total Participants:** 1082
 
@@ -230,13 +230,13 @@
 | 222 | 112 | Traci Abern |
 | 223 | 112 | Ashley Miller |
 | 224 | 111 | Rhonda Diebold |
-| 225 | 110 | Nichole Wilson |
-| 226 | 109 | Loopy Tower |
-| 227 | 108 | Rachel Nilles |
-| 228 | 108 | Meagan Grimmett Washburn |
-| 229 | 107 | Charles E Mccardell |
-| 230 | 107 | Michelle M Braley |
-| 231 | 107 | Jackie Tupper |
+| 225 | 111 | Jackie Tupper |
+| 226 | 110 | Nichole Wilson |
+| 227 | 109 | Loopy Tower |
+| 228 | 108 | Rachel Nilles |
+| 229 | 108 | Meagan Grimmett Washburn |
+| 230 | 107 | Charles E Mccardell |
+| 231 | 107 | Michelle M Braley |
 | 232 | 107 | Carole Brown |
 | 233 | 106 | Patria Osuoha |
 | 234 | 106 | Sara Perkins |
