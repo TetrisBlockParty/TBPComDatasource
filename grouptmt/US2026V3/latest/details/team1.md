@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 16:06:40 UTC
+# Standings for team1 as of 2026-06-06 16:07:17 UTC
 
 **Total Participants:** 1055
 
@@ -68,14 +68,14 @@
 | 60 | 502 | Tiana Moore |
 | 61 | 500 | Cool Bridger |
 | 62 | 493 | Eartha Brown |
-| 63 | 489 | Carolynne Walker-Bell |
-| 64 | 482 | Cj Gorman |
-| 65 | 474 | Keeta Chickswit Scott |
-| 66 | 471 | D'Andra Stewart |
-| 67 | 454 | DaVonte' Cretter |
-| 68 | 448 | Chirpy Corner |
-| 69 | 448 | Ottison Dianna |
-| 70 | 444 | Blockhead |
+| 63 | 490 | Blockhead |
+| 64 | 489 | Carolynne Walker-Bell |
+| 65 | 482 | Cj Gorman |
+| 66 | 474 | Keeta Chickswit Scott |
+| 67 | 471 | D'Andra Stewart |
+| 68 | 454 | DaVonte' Cretter |
+| 69 | 448 | Chirpy Corner |
+| 70 | 448 | Ottison Dianna |
 | 71 | 434 | Todd C. Clemens |
 | 72 | 431 | Abraham Espaillat |
 | 73 | 427 | Gotcha |
@@ -133,10 +133,10 @@
 | 125 | 238 | Tonya Lee Sanders |
 | 126 | 237 | Leebo Slice |
 | 127 | 236 | Nutty Spinblock |
-| 128 | 227 | Po Marley |
-| 129 | 227 | Chantelle Lee |
-| 130 | 226 | Denise B |
-| 131 | 226 | Moomoo |
+| 128 | 231 | Moomoo |
+| 129 | 227 | Po Marley |
+| 130 | 227 | Chantelle Lee |
+| 131 | 226 | Denise B |
 | 132 | 225 | Rhonda Williams Warner |
 | 133 | 220 | Devin West |
 | 134 | 220 | Dacia Hicks |
@@ -185,8 +185,8 @@
 | 177 | 160 | Sara Meri |
 | 178 | 159 | Fina McKinnis |
 | 179 | 158 | Tina Mitchell |
-| 180 | 156 | Jessica Russell |
-| 181 | 156 | Cheeky Pop |
+| 180 | 156 | Cheeky Pop |
+| 181 | 156 | Jessica Russell |
 | 182 | 154 | IThinkNot |
 | 183 | 151 | pooh |
 | 184 | 149 | Cee Emm |
@@ -201,17 +201,17 @@
 | 193 | 143 | Sammie Walker |
 | 194 | 142 | Mikayla |
 | 195 | 141 | Shalena Marie Humphrey |
-| 196 | 140 | Ann Chung |
-| 197 | 140 | Antoinette Jones |
-| 198 | 138 | JaClanDiah |
-| 199 | 137 | Tay |
-| 200 | 136 | Penee Wiggins |
-| 201 | 135 | Dawn L Washington-Feuquay |
-| 202 | 135 | Sean White |
-| 203 | 133 | Byron Mario Cawthon |
-| 204 | 133 | Ebony Waynes-robinson |
-| 205 | 133 | Robbie Cheeseman |
-| 206 | 132 | Jolly Tilefall |
+| 196 | 140 | Jolly Tilefall |
+| 197 | 140 | Ann Chung |
+| 198 | 140 | Antoinette Jones |
+| 199 | 138 | JaClanDiah |
+| 200 | 137 | Tay |
+| 201 | 136 | Penee Wiggins |
+| 202 | 135 | Dawn L Washington-Feuquay |
+| 203 | 135 | Sean White |
+| 204 | 133 | Byron Mario Cawthon |
+| 205 | 133 | Ebony Waynes-robinson |
+| 206 | 133 | Robbie Cheeseman |
 | 207 | 130 | Dion Gray |
 | 208 | 130 | Jessica Davis |
 | 209 | 130 | Emily Wright |
@@ -376,19 +376,19 @@
 | 368 | 70 | MamushiOh |
 | 369 | 70 | Daddy |
 | 370 | 70 | Gerold Folk Haddock |
-| 371 | 70 | Kaleisha Smith |
-| 372 | 70 | Kimberly Noble |
+| 371 | 70 | Kimberly Noble |
+| 372 | 70 | Kaleisha Smith |
 | 373 | 70 | Slinky Party |
 | 374 | 69 | sasha |
-| 375 | 69 | Sunny Clicky |
-| 376 | 68 | Amy Lynn Leifheit |
-| 377 | 68 | Eric Spencer Whitaker |
-| 378 | 68 | Alyssa Rae |
-| 379 | 68 | Tee Spinks |
-| 380 | 68 | Logan Frost |
-| 381 | 67 | Travis Davison |
-| 382 | 67 | Yadira Salgado |
-| 383 | 67 | Koi |
+| 375 | 69 | Koi |
+| 376 | 69 | Sunny Clicky |
+| 377 | 68 | Amy Lynn Leifheit |
+| 378 | 68 | Eric Spencer Whitaker |
+| 379 | 68 | Alyssa Rae |
+| 380 | 68 | Tee Spinks |
+| 381 | 68 | Logan Frost |
+| 382 | 67 | Travis Davison |
+| 383 | 67 | Yadira Salgado |
 | 384 | 67 | Jennah |
 | 385 | 67 | LexiiSamayaa |
 | 386 | 67 | Ta'Kaiyah M. Spann |
