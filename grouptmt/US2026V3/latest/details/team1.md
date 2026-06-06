@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 09:43:16 UTC
+# Standings for team1 as of 2026-06-06 09:44:16 UTC
 
 **Total Participants:** 945
 
@@ -205,38 +205,38 @@
 | 197 | 106 | Matthieu Pistone |
 | 198 | 105 | Ebony Waynes-robinson |
 | 199 | 105 | LaShaun Stinson |
-| 200 | 105 | Katrina Ramey |
+| 200 | 105 | Latisha Fairley |
 | 201 | 105 | Angela R Wilson |
-| 202 | 105 | Latisha Fairley |
+| 202 | 105 | Katrina Ramey |
 | 203 | 104 | Ahvae Lee |
 | 204 | 104 | Brittnay Wright |
 | 205 | 104 | Frisky Fall |
 | 206 | 103 | Kelvin Cook |
 | 207 | 101 | Boldy Liner |
-| 208 | 100 | Cool Bridger |
-| 209 | 100 | Char |
-| 210 | 100 | Leavon Smith |
+| 208 | 100 | Char |
+| 209 | 100 | Leavon Smith |
+| 210 | 100 | Cool Bridger |
 | 211 | 99 | Simone Bailey |
-| 212 | 99 | 신재호 |
-| 213 | 99 | Maribel Vasquez |
+| 212 | 99 | Maribel Vasquez |
+| 213 | 99 | 신재호 |
 | 214 | 97 | Chantelle Lee |
 | 215 | 97 | Shanell Thomas |
 | 216 | 96 | Melissa D. M. Hornsby |
-| 217 | 95 | Shiny Lift |
+| 217 | 96 | Yazz |
 | 218 | 95 | Nate Myers |
-| 219 | 95 | Joana Thompson |
-| 220 | 94 | Cece Fowler |
-| 221 | 92 | Quirky Fallgrid |
-| 222 | 92 | The DUBZ |
-| 223 | 91 | Jack Vlasak |
-| 224 | 90 | Charlene Baltimore |
-| 225 | 88 | Ad Doctor |
-| 226 | 88 | QueenShay AllGood |
-| 227 | 88 | TT |
-| 228 | 87 | Karebear |
-| 229 | 87 | Keke Ferguson |
+| 219 | 95 | Shiny Lift |
+| 220 | 95 | Joana Thompson |
+| 221 | 94 | Cece Fowler |
+| 222 | 92 | Quirky Fallgrid |
+| 223 | 92 | The DUBZ |
+| 224 | 91 | Jack Vlasak |
+| 225 | 90 | Charlene Baltimore |
+| 226 | 88 | Ad Doctor |
+| 227 | 88 | QueenShay AllGood |
+| 228 | 88 | TT |
+| 229 | 87 | Karebear |
 | 230 | 87 | Poppy Buildout |
-| 231 | 86 | Yazz |
+| 231 | 87 | Keke Ferguson |
 | 232 | 86 | Chandler Magee |
 | 233 | 86 | krd |
 | 234 | 85 | Simmone T. Kadiri |
@@ -248,28 +248,28 @@
 | 240 | 82 | Peppy Glider |
 | 241 | 82 | Cachet A Ward |
 | 242 | 81 | Sarah Steckbauer |
-| 243 | 80 | LAhoneybun82 |
+| 243 | 80 | Nyhlah Patterson |
 | 244 | 80 | Felicia Williams |
 | 245 | 80 | Jamie Willis |
 | 246 | 80 | Latore Maxie |
-| 247 | 80 | Seddrick |
-| 248 | 80 | Nyhlah Patterson |
+| 247 | 80 | LAhoneybun82 |
+| 248 | 80 | Charles Johnson |
 | 249 | 80 | Natalie Burroughs |
 | 250 | 80 | Chevalier Burley |
-| 251 | 80 | Charles Johnson |
-| 252 | 80 | Tishauna Virgo |
-| 253 | 80 | Carolyn Smith |
+| 251 | 80 | Seddrick |
+| 252 | 80 | Carolyn Smith |
+| 253 | 80 | Tishauna Virgo |
 | 254 | 79 | Slinky Brickmatch |
-| 255 | 79 | Loopy Tiler |
-| 256 | 79 | Bambi Johnson |
-| 257 | 79 | Montréal Mars |
+| 255 | 79 | Montréal Mars |
+| 256 | 79 | Loopy Tiler |
+| 257 | 79 | Bambi Johnson |
 | 258 | 78 | Shameka Tiffany |
 | 259 | 78 | Kelley Johnson |
-| 260 | 77 | C Lo Green |
-| 261 | 77 | Yashica Smith |
-| 262 | 76 | Telisha Mims |
+| 260 | 77 | Yashica Smith |
+| 261 | 77 | C Lo Green |
+| 262 | 76 | Jackytrain52 |
 | 263 | 76 | Mister Reid |
-| 264 | 76 | Jackytrain52 |
+| 264 | 76 | Telisha Mims |
 | 265 | 76 | Giggly Shatterline |
 | 266 | 75 | Courtney Robinson |
 | 267 | 75 | Smiley Clearpiece |
