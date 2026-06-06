@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 13:04:16 UTC
+# Standings for team2 as of 2026-06-06 13:04:39 UTC
 
 **Total Participants:** 1152
 
@@ -345,12 +345,12 @@
 | 337 | 80 | Skye Ehret |
 | 338 | 80 | Rescuegirl76 |
 | 339 | 80 | Joanna Trevin Thompson |
-| 340 | 80 | Eva Lopez |
-| 341 | 80 | Plucky Grabber |
+| 340 | 80 | Plucky Grabber |
+| 341 | 80 | Eva Lopez |
 | 342 | 79 | Lezley Hawkins |
 | 343 | 79 | Jillian Marie |
-| 344 | 79 | Candi Cane |
-| 345 | 79 | Kenzie |
+| 344 | 79 | Kenzie |
+| 345 | 79 | Candi Cane |
 | 346 | 79 | Aeryal Snow |
 | 347 | 78 | Jef Wassom |
 | 348 | 77 | Nikki Hayes |
@@ -360,32 +360,32 @@
 | 352 | 77 | MUMBLES |
 | 353 | 76 | Melissa Fink |
 | 354 | 76 | Alonzo Reed |
-| 355 | 76 | Tiffany Fitch |
-| 356 | 76 | Dad |
-| 357 | 75 | Nova |
-| 358 | 75 | Christine James |
-| 359 | 75 | Epic Framezone |
-| 360 | 75 | Jessica Christine |
-| 361 | 75 | Paula Haskins |
-| 362 | 75 | Analee Nicole Jones |
-| 363 | 74 | Jumpy Dashpiece |
-| 364 | 74 | Natasha Lee |
-| 365 | 74 | Renee Siems |
-| 366 | 74 | Valeri Bradley |
-| 367 | 74 | Laurie |
-| 368 | 74 | Derrick |
-| 369 | 73 | Chirpy Combofall |
-| 370 | 73 | Nova Nova |
-| 371 | 73 | Sassy Twistbuilder |
-| 372 | 73 | Cristi Doris |
-| 373 | 73 | Joannah Capilitan |
-| 374 | 73 | bozzycat |
-| 375 | 73 | Sunny Spinzone |
-| 376 | 73 | Rachel M. Farnsworth |
-| 377 | 72 | Kendi |
-| 378 | 72 | Mary Carriere |
-| 379 | 72 | StacyBabee |
-| 380 | 72 | Avie Lou |
+| 355 | 76 | Avie Lou |
+| 356 | 76 | Tiffany Fitch |
+| 357 | 76 | Dad |
+| 358 | 75 | Nova |
+| 359 | 75 | Christine James |
+| 360 | 75 | Epic Framezone |
+| 361 | 75 | Jessica Christine |
+| 362 | 75 | Paula Haskins |
+| 363 | 75 | Analee Nicole Jones |
+| 364 | 74 | Jumpy Dashpiece |
+| 365 | 74 | Natasha Lee |
+| 366 | 74 | Renee Siems |
+| 367 | 74 | Valeri Bradley |
+| 368 | 74 | Laurie |
+| 369 | 74 | Derrick |
+| 370 | 73 | Chirpy Combofall |
+| 371 | 73 | Nova Nova |
+| 372 | 73 | Sassy Twistbuilder |
+| 373 | 73 | Cristi Doris |
+| 374 | 73 | Joannah Capilitan |
+| 375 | 73 | bozzycat |
+| 376 | 73 | Sunny Spinzone |
+| 377 | 73 | Rachel M. Farnsworth |
+| 378 | 72 | Kendi |
+| 379 | 72 | Mary Carriere |
+| 380 | 72 | StacyBabee |
 | 381 | 72 | Stephanie Smith Robinson |
 | 382 | 71 | Sandy Lynn |
 | 383 | 71 | Groovy Glider |

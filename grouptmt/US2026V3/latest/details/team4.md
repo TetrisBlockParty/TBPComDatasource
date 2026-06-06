@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 13:04:16 UTC
+# Standings for team4 as of 2026-06-06 13:04:39 UTC
 
 **Total Participants:** 972
 
@@ -173,8 +173,8 @@
 | 165 | 134 | ariel |
 | 166 | 133 | Janet Sanfilippo Sullivan |
 | 167 | 133 | Shawntae Mccary |
-| 168 | 133 | June Hoffman |
-| 169 | 133 | Chirpy Link |
+| 168 | 133 | Chirpy Link |
+| 169 | 133 | June Hoffman |
 | 170 | 131 | Tina Shalay Hayes |
 | 171 | 130 | Magz |
 | 172 | 130 | Fran Aaron-Ring |
@@ -191,11 +191,11 @@
 | 183 | 124 | Chris Covington |
 | 184 | 123 | Cherrypir05 |
 | 185 | 122 | Samara Garcia |
-| 186 | 121 | Jazzy Gridder |
-| 187 | 121 | JuicyJuice |
-| 188 | 120 | Cool Risepiece |
+| 186 | 121 | JuicyJuice |
+| 187 | 121 | Jazzy Gridder |
+| 188 | 120 | Glamorous Gracey |
 | 189 | 120 | Joab Gonzalez |
-| 190 | 120 | Glamorous Gracey |
+| 190 | 120 | Cool Risepiece |
 | 191 | 120 | Shiny Brick |
 | 192 | 119 | Name |
 | 193 | 119 | Ashley Jenkins |
@@ -203,19 +203,19 @@
 | 195 | 118 | Cheery Risegrid |
 | 196 | 117 | BCO22 |
 | 197 | 117 | Corie A. Brinson |
-| 198 | 116 | Jennifer Fisher Franklin |
-| 199 | 116 | WeeWooWee |
-| 200 | 116 | Brennan Shea Greene |
-| 201 | 116 | Dee Wizz |
-| 202 | 115 | Hardy Fuller |
-| 203 | 114 | Bryan DjMagnum Evans |
-| 204 | 114 | Dapper Strikerpiece |
-| 205 | 113 | Melissa Anne |
-| 206 | 113 | Dennis Montoya |
-| 207 | 113 | kcknbtz |
-| 208 | 112 | CJ |
-| 209 | 112 | Homie |
-| 210 | 111 | Danielle Mitchell |
+| 198 | 116 | Danielle Mitchell |
+| 199 | 116 | Jennifer Fisher Franklin |
+| 200 | 116 | WeeWooWee |
+| 201 | 116 | Brennan Shea Greene |
+| 202 | 116 | Dee Wizz |
+| 203 | 115 | Hardy Fuller |
+| 204 | 114 | Bryan DjMagnum Evans |
+| 205 | 114 | Dapper Strikerpiece |
+| 206 | 113 | Melissa Anne |
+| 207 | 113 | Dennis Montoya |
+| 208 | 113 | kcknbtz |
+| 209 | 112 | CJ |
+| 210 | 112 | Homie |
 | 211 | 111 | King |
 | 212 | 109 | Rose Anna Safi |
 | 213 | 108 | Juvon SupaShawdii Brooks |
@@ -461,17 +461,17 @@
 | 453 | 50 | Ralph Hell Rell Williams |
 | 454 | 50 | Lora Schallert |
 | 455 | 49 | Darren Miguel |
-| 456 | 49 | Destiny Starr LeValdo |
-| 457 | 49 | Fancy Rollfit |
-| 458 | 49 | smarty |
-| 459 | 49 | Mrsjcraw18 |
-| 460 | 49 | Erica Armstrong Baz |
-| 461 | 49 | Daffney Starr |
-| 462 | 49 | Karen Riexinger |
-| 463 | 49 | EpicWizard |
-| 464 | 48 | Lilo |
-| 465 | 48 | LilRain |
-| 466 | 48 | Rocky |
+| 456 | 49 | Rocky |
+| 457 | 49 | Destiny Starr LeValdo |
+| 458 | 49 | Fancy Rollfit |
+| 459 | 49 | smarty |
+| 460 | 49 | Mrsjcraw18 |
+| 461 | 49 | Erica Armstrong Baz |
+| 462 | 49 | Daffney Starr |
+| 463 | 49 | Karen Riexinger |
+| 464 | 49 | EpicWizard |
+| 465 | 48 | Lilo |
+| 466 | 48 | LilRain |
 | 467 | 48 | ŁųŁų |
 | 468 | 48 | Surviving Be Back Soon |
 | 469 | 47 | Bonique Bier |
