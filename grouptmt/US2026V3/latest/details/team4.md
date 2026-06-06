@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 10:37:17 UTC
+# Standings for team4 as of 2026-06-06 10:38:16 UTC
 
 **Total Participants:** 928
 
@@ -37,14 +37,14 @@
 | 29 | 800 | Dana Rinaldi |
 | 30 | 797 | Beee |
 | 31 | 788 | Snippy Grid |
-| 32 | 740 | Kathy Brookins |
-| 33 | 738 | Shaina Sharp |
-| 34 | 735 | Gloria Nunley Trussell |
-| 35 | 711 | MysticMaven |
-| 36 | 711 | Phil Peterson |
-| 37 | 700 | Carly Stempien |
-| 38 | 699 | 626 |
-| 39 | 684 | Jackie Lucas |
+| 32 | 744 | Jackie Lucas |
+| 33 | 740 | Kathy Brookins |
+| 34 | 738 | Shaina Sharp |
+| 35 | 735 | Gloria Nunley Trussell |
+| 36 | 711 | MysticMaven |
+| 37 | 711 | Phil Peterson |
+| 38 | 700 | Carly Stempien |
+| 39 | 699 | 626 |
 | 40 | 662 | Heather Preston |
 | 41 | 661 | Giggy Matchpiece |
 | 42 | 644 | Kelly Bernard |
@@ -137,17 +137,17 @@
 | 129 | 160 | Littlebrat |
 | 130 | 160 | Kitsune Bi |
 | 131 | 159 | iiPurgeV2 |
-| 132 | 155 | Dae Von |
-| 133 | 155 | Shayna Vaigneur-Hall |
-| 134 | 154 | No Time |
-| 135 | 153 | Brandy Lynn |
-| 136 | 153 | Laguya |
-| 137 | 152 | Dazzle Dragon |
-| 138 | 150 | gabs |
-| 139 | 149 | Daryn Elliott |
-| 140 | 149 | Danny Ortiz |
-| 141 | 148 | Megan Vick |
-| 142 | 147 | Devinlee Brown |
+| 132 | 157 | Devinlee Brown |
+| 133 | 155 | Dae Von |
+| 134 | 155 | Shayna Vaigneur-Hall |
+| 135 | 154 | No Time |
+| 136 | 153 | Brandy Lynn |
+| 137 | 153 | Laguya |
+| 138 | 152 | Dazzle Dragon |
+| 139 | 150 | gabs |
+| 140 | 149 | Daryn Elliott |
+| 141 | 149 | Danny Ortiz |
+| 142 | 148 | Megan Vick |
 | 143 | 146 | Becky McCool |
 | 144 | 145 | Trice Stevenson |
 | 145 | 144 | Yesenia Castro Monreal |
@@ -155,18 +155,18 @@
 | 147 | 142 | Goofy Riser |
 | 148 | 141 | Jackie Polanco |
 | 149 | 140 | Taz |
-| 150 | 137 | Jasmine Marie |
-| 151 | 137 | Shelby |
+| 150 | 137 | Shelby |
+| 151 | 137 | Jasmine Marie |
 | 152 | 134 | ariel |
 | 153 | 134 | Loony Rotater |
-| 154 | 133 | June Hoffman |
+| 154 | 133 | Chirpy Link |
 | 155 | 133 | Janet Sanfilippo Sullivan |
-| 156 | 133 | Chirpy Link |
-| 157 | 133 | Shawntae Mccary |
+| 156 | 133 | Shawntae Mccary |
+| 157 | 133 | June Hoffman |
 | 158 | 129 | Simone |
-| 159 | 129 | Brainbabe |
-| 160 | 129 | Ryan Paul Clark-Ramsey |
-| 161 | 129 | Kelly Howland |
+| 159 | 129 | Kelly Howland |
+| 160 | 129 | Brainbabe |
+| 161 | 129 | Ryan Paul Clark-Ramsey |
 | 162 | 129 | Chilly Pivot |
 | 163 | 129 | Lani |
 | 164 | 128 | Crystal Hammonds |
@@ -177,11 +177,11 @@
 | 169 | 123 | Cherrypir05 |
 | 170 | 122 | Samara Garcia |
 | 171 | 121 | Jazzy Gridder |
-| 172 | 120 | Shiny Brick |
+| 172 | 120 | Joab Gonzalez |
 | 173 | 120 | Glamorous Gracey |
-| 174 | 120 | Joab Gonzalez |
-| 175 | 119 | EL Booger |
-| 176 | 119 | Ashley Jenkins |
+| 174 | 120 | Shiny Brick |
+| 175 | 119 | Ashley Jenkins |
+| 176 | 119 | EL Booger |
 | 177 | 119 | Justin Michael |
 | 178 | 118 | Cheery Risegrid |
 | 179 | 118 | Goofy Fall |
