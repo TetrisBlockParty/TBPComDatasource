@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 04:26:16 UTC
+# Standings for team4 as of 2026-06-06 04:26:38 UTC
 
 **Total Participants:** 783
 
@@ -46,9 +46,9 @@
 | 38 | 540 | Chaz Duncan |
 | 39 | 505 | Fancy Crasher |
 | 40 | 500 | Michele |
-| 41 | 498 | Michele Walker |
-| 42 | 494 | Krysten Danielle Richard |
-| 43 | 480 | Snippy Grid |
+| 41 | 499 | Snippy Grid |
+| 42 | 498 | Michele Walker |
+| 43 | 494 | Krysten Danielle Richard |
 | 44 | 477 | Malik Thompson |
 | 45 | 475 | MysticMaven |
 | 46 | 474 | Jeremy Lopez |
