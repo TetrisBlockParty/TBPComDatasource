@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 16:12:41 UTC
+# Standings for team2 as of 2026-06-06 16:13:16 UTC
 
 **Total Participants:** 1242
 
@@ -39,8 +39,8 @@
 | 31 | 1744 | Alexia Reagan |
 | 32 | 1658 | Betty Barrett |
 | 33 | 1649 | Ashley Miller |
-| 34 | 1537 | Bea Bee |
-| 35 | 1506 | Jennifer Corder |
+| 34 | 1606 | Jennifer Corder |
+| 35 | 1537 | Bea Bee |
 | 36 | 1498 | Frilly Match |
 | 37 | 1482 | Aubree Richard |
 | 38 | 1455 | Sean Rippa |
@@ -293,115 +293,115 @@
 | 285 | 112 | Traci Abern |
 | 286 | 111 | Charles E Mccardell |
 | 287 | 111 | Bianca Woodruff |
-| 288 | 110 | Zappy Liney |
-| 289 | 110 | Nichole Wilson |
-| 290 | 109 | Cathy Tippett |
+| 288 | 110 | Nichole Wilson |
+| 289 | 110 | Zappy Liney |
+| 290 | 109 | Kawana Nesbitt |
 | 291 | 109 | Kevin Patrick |
-| 292 | 109 | Kawana Nesbitt |
+| 292 | 109 | Cathy Tippett |
 | 293 | 108 | Meagan Grimmett Washburn |
 | 294 | 108 | Rachel Nilles |
-| 295 | 107 | Gloria May Shook |
-| 296 | 107 | Angeleye A James |
-| 297 | 107 | Carole Brown |
-| 298 | 107 | Michelle M Braley |
+| 295 | 107 | Angeleye A James |
+| 296 | 107 | Michelle M Braley |
+| 297 | 107 | Gloria May Shook |
+| 298 | 107 | Carole Brown |
 | 299 | 106 | Patria Osuoha |
 | 300 | 106 | Sara Perkins |
-| 301 | 105 | Saucy Wrecker |
-| 302 | 105 | Erica South |
-| 303 | 105 | LittleHippoEars |
-| 304 | 105 | Tamtam |
-| 305 | 104 | Theresa Hollinger |
+| 301 | 105 | Erica South |
+| 302 | 105 | Tamtam |
+| 303 | 105 | Saucy Wrecker |
+| 304 | 105 | LittleHippoEars |
+| 305 | 104 | Reign Hustler |
 | 306 | 104 | Roe Sarmiento |
-| 307 | 104 | Reign Hustler |
+| 307 | 104 | Theresa Hollinger |
 | 308 | 103 | Elizabeth Kline |
 | 309 | 102 | Tammy Roth |
 | 310 | 102 | Alissa Ary |
 | 311 | 101 | Jef Wassom |
-| 312 | 100 | Ber |
-| 313 | 100 | Katie Jones |
-| 314 | 100 | Leticia Tillman |
-| 315 | 100 | August Christy Lathrop |
-| 316 | 100 | Jason Cunningham |
-| 317 | 100 | Anthony Swift |
+| 312 | 100 | Leticia Tillman |
+| 313 | 100 | Ber |
+| 314 | 100 | August Christy Lathrop |
+| 315 | 100 | Katie Jones |
+| 316 | 100 | Anthony Swift |
+| 317 | 100 | Jason Cunningham |
 | 318 | 99 | Gabrielle Rivera |
 | 319 | 99 | Belle |
-| 320 | 99 | Jennifer Vitro |
-| 321 | 99 | Melissa Abbott |
+| 320 | 99 | Melissa Abbott |
+| 321 | 99 | Jennifer Vitro |
 | 322 | 98 | Michelle Maulsby |
 | 323 | 97 | Abby |
 | 324 | 97 | Jennifer McClure |
 | 325 | 97 | Boldy Fitclear |
-| 326 | 96 | Tracy Tokarz |
-| 327 | 96 | Breezy |
+| 326 | 96 | Breezy |
+| 327 | 96 | Tracy Tokarz |
 | 328 | 96 | MegaPooh |
 | 329 | 95 | Wacky Holder |
-| 330 | 95 | Mike Mordhorst |
-| 331 | 94 | Paige Lynette Sohl |
+| 330 | 95 | Thomas Tyrone |
+| 331 | 95 | Mike Mordhorst |
 | 332 | 94 | Mandy Van Laningham Bishop |
-| 333 | 93 | Paula Haskins |
-| 334 | 93 | Mataya |
-| 335 | 93 | Connie Breeden |
-| 336 | 93 | Lively Curve |
-| 337 | 92 | Maurii93 |
-| 338 | 92 | Raine |
-| 339 | 92 | Nikki Hatch |
-| 340 | 92 | Thy Bui |
-| 341 | 92 | Jayda Walters |
-| 342 | 91 | Nikki Hayes |
+| 333 | 94 | Paige Lynette Sohl |
+| 334 | 93 | Lively Curve |
+| 335 | 93 | Paula Haskins |
+| 336 | 93 | Connie Breeden |
+| 337 | 93 | Mataya |
+| 338 | 92 | Jayda Walters |
+| 339 | 92 | Thy Bui |
+| 340 | 92 | Nikki Hatch |
+| 341 | 92 | Maurii93 |
+| 342 | 92 | Raine |
 | 343 | 91 | Heather Vircik |
-| 344 | 91 | Rocroc mo |
-| 345 | 91 | Leighla Davis |
-| 346 | 91 | Greenie |
-| 347 | 90 | Flashy Basegrid |
-| 348 | 90 | Rescuegirl76 |
-| 349 | 90 | Carlos J Blas |
-| 350 | 90 | Lesley Stoeckle |
-| 351 | 89 | Ava Speedy |
-| 352 | 89 | Maria Ward |
-| 353 | 89 | Patrick Woodard |
-| 354 | 88 | Chesney |
-| 355 | 88 | Mary Carriere |
+| 344 | 91 | Greenie |
+| 345 | 91 | Nikki Hayes |
+| 346 | 91 | Leighla Davis |
+| 347 | 91 | Rocroc mo |
+| 348 | 90 | Carlos J Blas |
+| 349 | 90 | Flashy Basegrid |
+| 350 | 90 | Rescuegirl76 |
+| 351 | 90 | Lesley Stoeckle |
+| 352 | 89 | Ava Speedy |
+| 353 | 89 | Maria Ward |
+| 354 | 89 | Patrick Woodard |
+| 355 | 88 | Chesney |
 | 356 | 88 | Nano. |
 | 357 | 88 | Tami Kay Williams Watson |
 | 358 | 88 | Kimberly Davis |
-| 359 | 87 | Jackie Walker |
-| 360 | 87 | Wendy Mcbride |
-| 361 | 87 | Sam Brewster |
-| 362 | 86 | Gabrielle Wilson |
+| 359 | 88 | Mary Carriere |
+| 360 | 87 | Sam Brewster |
+| 361 | 87 | Wendy Mcbride |
+| 362 | 87 | Jackie Walker |
 | 363 | 86 | Susie Conger |
-| 364 | 86 | Norma Ortiz |
-| 365 | 85 | James Sayers |
-| 366 | 85 | Elizabeth Henry |
+| 364 | 86 | Gabrielle Wilson |
+| 365 | 86 | Norma Ortiz |
+| 366 | 85 | Epic Framezone |
 | 367 | 85 | Daisy Girl |
-| 368 | 85 | Christina Maria |
-| 369 | 85 | Epic Framezone |
-| 370 | 84 | Lisa Underwood Desmond |
-| 371 | 83 | Jumpy Matchbuilder |
-| 372 | 83 | Louis Brudzinski |
-| 373 | 83 | Cristi Doris |
-| 374 | 83 | Justin McCray |
-| 375 | 83 | TetrisMama |
-| 376 | 82 | Madonna Ash |
-| 377 | 82 | Candi Cane |
-| 378 | 82 | Wendy McKee |
+| 368 | 85 | Elizabeth Henry |
+| 369 | 85 | James Sayers |
+| 370 | 85 | Christina Maria |
+| 371 | 84 | Lisa Underwood Desmond |
+| 372 | 83 | Cristi Doris |
+| 373 | 83 | Louis Brudzinski |
+| 374 | 83 | Jumpy Matchbuilder |
+| 375 | 83 | Justin McCray |
+| 376 | 83 | TetrisMama |
+| 377 | 82 | Jessica Christine |
+| 378 | 82 | Madonna Ash |
 | 379 | 82 | Sandra Pursell |
 | 380 | 82 | Kimberly Brooks |
-| 381 | 82 | Jessica Christine |
-| 382 | 81 | Lindsey Ross |
-| 383 | 81 | MUMBLES |
-| 384 | 81 | Stoney McMillion |
+| 381 | 82 | Wendy McKee |
+| 382 | 82 | Candi Cane |
+| 383 | 81 | Heather Hi |
+| 384 | 81 | YldBoar |
 | 385 | 81 | Cassandra Milner |
 | 386 | 81 | Rhonda Driskill |
 | 387 | 81 | Epic Tilemaker |
 | 388 | 81 | rageking |
-| 389 | 81 | Heather Hi |
+| 389 | 81 | Lindsey Ross |
 | 390 | 81 | Shiny Spinfit |
-| 391 | 81 | YldBoar |
-| 392 | 80 | Thomas Tyrone |
-| 393 | 80 | Brooke Kaune |
-| 394 | 80 | Jill Goff |
-| 395 | 80 | Ashley Eneboe |
-| 396 | 80 | Plucky Grabber |
+| 391 | 81 | Stoney McMillion |
+| 392 | 81 | MUMBLES |
+| 393 | 80 | Plucky Grabber |
+| 394 | 80 | Brooke Kaune |
+| 395 | 80 | Jill Goff |
+| 396 | 80 | Ashley Eneboe |
 | 397 | 80 | Nicole Hogue |
 | 398 | 80 | Eva Lopez |
 | 399 | 79 | Aeryal Snow |
