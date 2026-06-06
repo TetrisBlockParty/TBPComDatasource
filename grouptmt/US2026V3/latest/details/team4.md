@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 13:24:37 UTC
+# Standings for team4 as of 2026-06-06 13:25:17 UTC
 
 **Total Participants:** 977
 
@@ -324,13 +324,13 @@
 | 316 | 75 | Corey Jackson |
 | 317 | 75 | Sarah Perry Cook |
 | 318 | 74 | Rita Ann |
-| 319 | 73 | Joshua Hunt |
-| 320 | 73 | Jenn Fitzgerald |
-| 321 | 73 | Troy Zanelli |
-| 322 | 71 | Snazzy Fitclear |
-| 323 | 71 | Taquilla Branch |
-| 324 | 71 | Brandi Sauer |
-| 325 | 71 | Perry Ransom |
+| 319 | 73 | Perry Ransom |
+| 320 | 73 | Joshua Hunt |
+| 321 | 73 | Jenn Fitzgerald |
+| 322 | 73 | Troy Zanelli |
+| 323 | 71 | Snazzy Fitclear |
+| 324 | 71 | Taquilla Branch |
+| 325 | 71 | Brandi Sauer |
 | 326 | 70 | Karen Small |
 | 327 | 70 | Henry Lanier |
 | 328 | 69 | Khylee DarDar |
@@ -873,15 +873,15 @@
 | 865 | 12 | Angela Correa |
 | 866 | 12 | Shelly Jackson |
 | 867 | 12 | Rebecca Renaud |
-| 868 | 12 | Mighty Spinfit |
-| 869 | 12 | Tatiyana Hockett |
-| 870 | 12 | Peterson Cottontail |
+| 868 | 12 | Peterson Cottontail |
+| 869 | 12 | Mighty Spinfit |
+| 870 | 12 | Tatiyana Hockett |
 | 871 | 12 | Slinky Snapfit |
 | 872 | 12 | ESPERANTU |
-| 873 | 11 | Cas Gio |
-| 874 | 11 | Wynisha Johnson |
-| 875 | 11 | Ashie |
-| 876 | 11 | Amowe |
+| 873 | 11 | Wynisha Johnson |
+| 874 | 11 | Ashie |
+| 875 | 11 | Amowe |
+| 876 | 11 | Cas Gio |
 | 877 | 11 | Mystica |
 | 878 | 11 | EKM |
 | 879 | 11 | Nessa Smith |
@@ -900,46 +900,46 @@
 | 892 | 10 | ToneDeaf |
 | 893 | 10 | Sherri Lorent |
 | 894 | 10 | Breezy Brickfit |
-| 895 | 10 | Kristal |
-| 896 | 10 | Buchanon Bossingup Jadrienne |
-| 897 | 10 | Toon Up |
-| 898 | 10 | Japexican Strong |
-| 899 | 10 | Melissa Elizabeth |
-| 900 | 10 | Charissa W Walton |
-| 901 | 10 | Brianne Stull |
-| 902 | 10 | Daring Towerer |
-| 903 | 9 | Chelsea Leann Lamb |
-| 904 | 9 | apryliss Star |
+| 895 | 10 | Brianne Stull |
+| 896 | 10 | Charissa W Walton |
+| 897 | 10 | Daring Towerer |
+| 898 | 10 | Melissa Elizabeth |
+| 899 | 10 | Japexican Strong |
+| 900 | 10 | Buchanon Bossingup Jadrienne |
+| 901 | 10 | Toon Up |
+| 902 | 10 | Kristal |
+| 903 | 9 | apryliss Star |
+| 904 | 9 | Wali Muhammad |
 | 905 | 9 | Darryl Shufford |
-| 906 | 9 | juler |
-| 907 | 9 | Marion Wade |
-| 908 | 9 | Suzi Smas |
-| 909 | 9 | DuvaDova Ahava |
-| 910 | 9 | Todd Hamilton |
-| 911 | 9 | nanaz86 |
-| 912 | 9 | fmp |
-| 913 | 9 | beauxie |
-| 914 | 9 | Stephanie Brock |
-| 915 | 9 | Frothy Riseclear |
-| 916 | 9 | Bam SwaggSpitter King |
-| 917 | 8 | La Ah Ox |
-| 918 | 8 | tj |
-| 919 | 8 | Mac James |
-| 920 | 8 | Sydney Taylor Sileno |
-| 921 | 8 | Tony Tenas |
-| 922 | 8 | Donovan Parmenter Gagne |
-| 923 | 8 | BookwormCate |
-| 924 | 8 | Happy shelli |
-| 925 | 8 | Gabby Markham |
-| 926 | 8 | maria |
+| 906 | 9 | Chelsea Leann Lamb |
+| 907 | 9 | juler |
+| 908 | 9 | Marion Wade |
+| 909 | 9 | Suzi Smas |
+| 910 | 9 | DuvaDova Ahava |
+| 911 | 9 | Todd Hamilton |
+| 912 | 9 | nanaz86 |
+| 913 | 9 | fmp |
+| 914 | 9 | beauxie |
+| 915 | 9 | Stephanie Brock |
+| 916 | 9 | Frothy Riseclear |
+| 917 | 9 | Bam SwaggSpitter King |
+| 918 | 8 | La Ah Ox |
+| 919 | 8 | tj |
+| 920 | 8 | Mac James |
+| 921 | 8 | Sydney Taylor Sileno |
+| 922 | 8 | Tony Tenas |
+| 923 | 8 | Donovan Parmenter Gagne |
+| 924 | 8 | BookwormCate |
+| 925 | 8 | Happy shelli |
+| 926 | 8 | Gabby Markham |
 | 927 | 8 | BigCup ReeseCup |
-| 928 | 8 | Phoebe Tracy |
+| 928 | 8 | maria |
 | 929 | 8 | Christy Petty |
 | 930 | 8 | Bryieson Watson |
 | 931 | 8 | Frby Amberr |
-| 932 | 8 | Lewis Potts |
-| 933 | 8 | LaTesha D Williams |
-| 934 | 8 | Wali Muhammad |
+| 932 | 8 | Phoebe Tracy |
+| 933 | 8 | Lewis Potts |
+| 934 | 8 | LaTesha D Williams |
 | 935 | 8 | Shania Richmond |
 | 936 | 7 | Brandy Dark |
 | 937 | 7 | Sharron Mullins |
@@ -964,14 +964,14 @@
 | 956 | 6 | Rachel |
 | 957 | 6 | Willedtra Griffin |
 | 958 | 6 | mrsduke420 |
-| 959 | 6 | Frothy Gridmatch |
-| 960 | 6 | MamaC |
-| 961 | 6 | Tricki Woo |
-| 962 | 6 | Funky Zonebuilder |
-| 963 | 6 | Hasty Slamdrop |
-| 964 | 5 | Lively Cascadeclear |
-| 965 | 5 | Ali Nicole |
-| 966 | 5 | Tre'nya Smith |
+| 959 | 6 | Tre'nya Smith |
+| 960 | 6 | Frothy Gridmatch |
+| 961 | 6 | MamaC |
+| 962 | 6 | Tricki Woo |
+| 963 | 6 | Funky Zonebuilder |
+| 964 | 6 | Hasty Slamdrop |
+| 965 | 5 | Lively Cascadeclear |
+| 966 | 5 | Ali Nicole |
 | 967 | 5 | Cheery Twister |
 | 968 | 5 | Debbie Johnson |
 | 969 | 5 | Linda Monique |
