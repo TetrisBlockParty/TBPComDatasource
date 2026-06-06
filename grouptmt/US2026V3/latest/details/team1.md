@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 06:58:16 UTC
+# Standings for team1 as of 2026-06-06 06:58:39 UTC
 
 **Total Participants:** 900
 
@@ -111,24 +111,24 @@
 | 103 | 214 | Tonya McElroy |
 | 104 | 214 | Po Marley |
 | 105 | 213 | Jason Mungin |
-| 106 | 209 | Zachary Colegrove |
-| 107 | 209 | Gotcha |
+| 106 | 209 | Gotcha |
+| 107 | 209 | Zachary Colegrove |
 | 108 | 208 | Cherry Rose |
 | 109 | 204 | MamaBear |
 | 110 | 199 | Asani CHumba |
 | 111 | 197 | BYM4L |
 | 112 | 195 | Mimi 1.0 |
 | 113 | 195 | Weeze |
-| 114 | 193 | Brave Clearbuilder |
-| 115 | 188 | Robyn Caldwell |
-| 116 | 186 | Denise B |
-| 117 | 185 | Teddy Davis |
-| 118 | 184 | Dai Bo |
-| 119 | 182 | Hyper Blocky |
-| 120 | 181 | Joey Albright |
-| 121 | 177 | Chris Sladoje |
-| 122 | 175 | Rayshawn Cohen |
-| 123 | 174 | DaVonte' Cretter |
+| 114 | 194 | DaVonte' Cretter |
+| 115 | 193 | Brave Clearbuilder |
+| 116 | 188 | Robyn Caldwell |
+| 117 | 186 | Denise B |
+| 118 | 185 | Teddy Davis |
+| 119 | 184 | Dai Bo |
+| 120 | 182 | Hyper Blocky |
+| 121 | 181 | Joey Albright |
+| 122 | 177 | Chris Sladoje |
+| 123 | 175 | Rayshawn Cohen |
 | 124 | 170 | Daris Swearington |
 | 125 | 169 | Asha Langford |
 | 126 | 168 | PandaPrincess |
@@ -844,68 +844,68 @@
 | 836 | 9 | Wacky Towerer |
 | 837 | 9 | Pinky Pink |
 | 838 | 9 | Kortney Adams |
-| 839 | 9 | Jasmine Hariston-Estis |
-| 840 | 9 | John Lovato |
+| 839 | 9 | Mars |
+| 840 | 9 | Dana |
 | 841 | 9 | Noni |
-| 842 | 9 | Dana |
-| 843 | 9 | Mars |
+| 842 | 9 | John Lovato |
+| 843 | 9 | Jasmine Hariston-Estis |
 | 844 | 9 | ummm |
 | 845 | 9 | Sherry D Singleton |
-| 846 | 8 | Nerdy Twistline |
-| 847 | 8 | Ferocity |
-| 848 | 8 | Chinkey Overit |
-| 849 | 8 | Shawna Passwater |
-| 850 | 8 | Teresa Bean |
-| 851 | 8 | Chevonne Huggins |
+| 846 | 8 | Rixo Blax |
+| 847 | 8 | Nerdy Twistline |
+| 848 | 8 | Chill Tumbler |
+| 849 | 8 | Groovy Riseclear |
+| 850 | 8 | jus_ry |
+| 851 | 8 | Brenda Brogden |
 | 852 | 8 | Caitlin Michele |
-| 853 | 8 | Macho Lewis |
-| 854 | 8 | Groovy Riseclear |
-| 855 | 8 | Chill Tumbler |
-| 856 | 8 | jus_ry |
-| 857 | 8 | Kim Holzmiller |
-| 858 | 8 | Rixo Blax |
-| 859 | 8 | Brenda Brogden |
-| 860 | 7 | Milfchaser530 |
-| 861 | 7 | Analesia Taylor |
-| 862 | 7 | Deadra Graham |
-| 863 | 7 | whatever |
-| 864 | 7 | Shane Brucewayne |
+| 853 | 8 | Chevonne Huggins |
+| 854 | 8 | Kim Holzmiller |
+| 855 | 8 | Teresa Bean |
+| 856 | 8 | Shawna Passwater |
+| 857 | 8 | Chinkey Overit |
+| 858 | 8 | Ferocity |
+| 859 | 8 | Macho Lewis |
+| 860 | 7 | Shane Brucewayne |
+| 861 | 7 | Andrew Harris |
+| 862 | 7 | Analesia Taylor |
+| 863 | 7 | Teresa F. Campos Eaton |
+| 864 | 7 | whatever |
 | 865 | 7 | KingSlim82 |
-| 866 | 7 | Teresa F. Campos Eaton |
+| 866 | 7 | Deadra Graham |
 | 867 | 7 | Mary2 |
-| 868 | 7 | Andrew Harris |
-| 869 | 6 | Desi Guerra |
-| 870 | 6 | CK |
-| 871 | 6 | Christopher Wallace |
-| 872 | 6 | Daring Riserfit |
-| 873 | 6 | Anthony T. Fults |
-| 874 | 6 | Lucy |
-| 875 | 6 | Treneil Daffin |
-| 876 | 6 | Snippy Breaker |
-| 877 | 6 | Kyshia |
-| 878 | 6 | Frilly Riserbuilder |
-| 879 | 6 | S.S |
+| 868 | 7 | Milfchaser530 |
+| 869 | 6 | Kyshia |
+| 870 | 6 | Daring Riserfit |
+| 871 | 6 | CK |
+| 872 | 6 | Treneil Daffin |
+| 873 | 6 | Desi Guerra |
+| 874 | 6 | S.S |
+| 875 | 6 | Anthony T. Fults |
+| 876 | 6 | Christopher Wallace |
+| 877 | 6 | NEM0228 |
+| 878 | 6 | Lucy |
+| 879 | 6 | Frances Davis |
 | 880 | 6 | Wu May |
-| 881 | 6 | Frances Davis |
-| 882 | 6 | NEM0228 |
-| 883 | 5 | Rieshelda Marie White |
+| 881 | 6 | Snippy Breaker |
+| 882 | 6 | Frilly Riserbuilder |
+| 883 | 5 | Temeshia Brooks Washington |
 | 884 | 5 | Chill Linkroll |
-| 885 | 5 | Temeshia Brooks Washington |
-| 886 | 5 | Logan Frost |
+| 885 | 5 | Derek Beverly |
+| 886 | 5 | Rieshelda Marie White |
 | 887 | 5 | Stephanie Zuniga Tullock |
-| 888 | 5 | Derek Beverly |
-| 889 | 5 | Duckey |
-| 890 | 5 | Annette DeLoatch Thompson |
-| 891 | 5 | the guy |
+| 888 | 5 | the guy |
+| 889 | 5 | Annette DeLoatch Thompson |
+| 890 | 5 | Logan Frost |
+| 891 | 5 | Duckey |
 | 892 | 5 | Jennifer Moore |
 | 893 | 5 | Kidgib5 |
 | 894 | 5 | Zappy Clearfit |
-| 895 | 5 | Tipsy Builderline |
-| 896 | 5 | VERA DAME |
-| 897 | 5 | DirtiestofMikes |
-| 898 | 5 | Tito Divyn |
-| 899 | 5 | Hasty Brickzone |
-| 900 | 5 | Zappy Riser |
+| 895 | 5 | Tito Divyn |
+| 896 | 5 | Zappy Riser |
+| 897 | 5 | Hasty Brickzone |
+| 898 | 5 | VERA DAME |
+| 899 | 5 | Tipsy Builderline |
+| 900 | 5 | DirtiestofMikes |
 
 ---
 *Standings created by tournaments datasource generation tool*
