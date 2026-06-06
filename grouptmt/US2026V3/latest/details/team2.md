@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 19:58:18 UTC
+# Standings for team2 as of 2026-06-06 19:58:40 UTC
 
 **Total Participants:** 1354
 
@@ -51,8 +51,8 @@
 | 43 | 1400 | Danni Campa |
 | 44 | 1373 | Christina Jambard Sampier |
 | 45 | 1357 | Elizabeth Mooney |
-| 46 | 1299 | Tom Badgley |
-| 47 | 1276 | Julie Trede Amerson |
+| 46 | 1326 | Julie Trede Amerson |
+| 47 | 1299 | Tom Badgley |
 | 48 | 1190 | Marie Edmonds |
 | 49 | 1100 | Brent Bittenbender |
 | 50 | 1032 | AcardBoardBox |

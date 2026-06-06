@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 19:58:18 UTC
+# Standings for team4 as of 2026-06-06 19:58:40 UTC
 
 **Total Participants:** 1126
 
@@ -61,8 +61,8 @@
 | 53 | 644 | Kelly Bernard |
 | 54 | 630 | Chaz Duncan |
 | 55 | 629 | Keesha Muro |
-| 56 | 628 | Victoria Ver |
-| 57 | 628 | Adam J Leong |
+| 56 | 628 | Adam J Leong |
+| 57 | 628 | Victoria Ver |
 | 58 | 620 | Fancy Crasher |
 | 59 | 618 | Alala.Cersei |
 | 60 | 607 | Jeremy Lopez |
@@ -85,8 +85,8 @@
 | 77 | 441 | woopa 716 |
 | 78 | 440 | Jewelz |
 | 79 | 402 | Nick Graber |
-| 80 | 400 | Sassy Column |
-| 81 | 400 | Amber Doyle |
+| 80 | 400 | Amber Doyle |
+| 81 | 400 | Sassy Column |
 | 82 | 399 | iiPurgeV2 |
 | 83 | 398 | Kay |
 | 84 | 395 | Melissa WC |
@@ -95,8 +95,8 @@
 | 87 | 381 | Cranky Towerbuilder |
 | 88 | 378 | Lisa Garcia |
 | 89 | 376 | Jason Garnatz |
-| 90 | 373 | Tanita Jobe |
-| 91 | 373 | Boldy Rumbler |
+| 90 | 373 | Boldy Rumbler |
+| 91 | 373 | Tanita Jobe |
 | 92 | 370 | Dandy Clearfit |
 | 93 | 360 | Gigglycat |
 | 94 | 353 | Hen |
@@ -113,9 +113,9 @@
 | 105 | 317 | J |
 | 106 | 313 | Hairy Snake |
 | 107 | 302 | JoLinda Dunn |
-| 108 | 300 | Hasty Builder |
-| 109 | 300 | 2 kool |
-| 110 | 300 | Genag |
+| 108 | 300 | Genag |
+| 109 | 300 | Hasty Builder |
+| 110 | 300 | 2 kool |
 | 111 | 299 | Kim |
 | 112 | 295 | Thomasena Eady Reid |
 | 113 | 294 | Jesse Olive |
@@ -126,8 +126,8 @@
 | 118 | 268 | Jojo Ann |
 | 119 | 259 | Jessica Peyton |
 | 120 | 258 | Gorica Prusina |
-| 121 | 253 | Danielle Mitchell |
-| 122 | 253 | Debby Ruof |
+| 121 | 253 | Debby Ruof |
+| 122 | 253 | Danielle Mitchell |
 | 123 | 245 | QueenLi86 |
 | 124 | 235 | Hwanger Land |
 | 125 | 233 | Christy Beezley-Forbush |

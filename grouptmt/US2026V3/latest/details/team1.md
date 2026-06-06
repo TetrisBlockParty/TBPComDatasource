@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 19:58:18 UTC
+# Standings for team1 as of 2026-06-06 19:58:40 UTC
 
 **Total Participants:** 1138
 
@@ -1110,40 +1110,40 @@
 | 1102 | 7 | Phoenix |
 | 1103 | 7 | Deadra Graham |
 | 1104 | 7 | Shane Brucewayne |
-| 1105 | 6 | CK |
-| 1106 | 6 | Kyshia |
-| 1107 | 6 | Wu May |
-| 1108 | 6 | Frances Davis |
+| 1105 | 7 | Sunset Owens |
+| 1106 | 6 | CK |
+| 1107 | 6 | Kyshia |
+| 1108 | 6 | Wu May |
 | 1109 | 6 | Frilly Riserbuilder |
-| 1110 | 6 | NEM0228 |
-| 1111 | 6 | smash56! |
+| 1110 | 6 | Frances Davis |
+| 1111 | 6 | NEM0228 |
 | 1112 | 6 | Terry Lee Moya |
-| 1113 | 5 | Zesty Clearer |
-| 1114 | 5 | DRIFTER |
-| 1115 | 5 | Annette DeLoatch Thompson |
-| 1116 | 5 | Zappy Clearfit |
-| 1117 | 5 | rummy |
-| 1118 | 5 | Alonzo Kirkland |
-| 1119 | 5 | Angela Kitchens |
-| 1120 | 5 | Tito Divyn |
-| 1121 | 5 | Tipsy Builderline |
-| 1122 | 5 | VERA DAME |
-| 1123 | 5 | Chill Linkroll |
-| 1124 | 5 | Marissa Sweet |
-| 1125 | 5 | the guy |
-| 1126 | 5 | Rachael R Gull |
-| 1127 | 5 | Aanngie Aanngie |
-| 1128 | 5 | Sunset Owens |
-| 1129 | 5 | Joey Hoover |
-| 1130 | 5 | Happy |
-| 1131 | 5 | Temeshia Brooks Washington |
-| 1132 | 5 | Mario Meliodas |
-| 1133 | 5 | Mamiyoung47 |
-| 1134 | 5 | EvaLynn NeCole |
-| 1135 | 5 | Angelique Thomas |
-| 1136 | 5 | Derek Beverly |
-| 1137 | 5 | Jennifer Moore |
-| 1138 | 5 | Stephanie Zuniga Tullock |
+| 1113 | 6 | smash56! |
+| 1114 | 5 | Zesty Clearer |
+| 1115 | 5 | DRIFTER |
+| 1116 | 5 | Annette DeLoatch Thompson |
+| 1117 | 5 | Zappy Clearfit |
+| 1118 | 5 | rummy |
+| 1119 | 5 | Alonzo Kirkland |
+| 1120 | 5 | Angela Kitchens |
+| 1121 | 5 | Tito Divyn |
+| 1122 | 5 | Tipsy Builderline |
+| 1123 | 5 | VERA DAME |
+| 1124 | 5 | Chill Linkroll |
+| 1125 | 5 | Marissa Sweet |
+| 1126 | 5 | Temeshia Brooks Washington |
+| 1127 | 5 | Rachael R Gull |
+| 1128 | 5 | Mario Meliodas |
+| 1129 | 5 | Aanngie Aanngie |
+| 1130 | 5 | Joey Hoover |
+| 1131 | 5 | Happy |
+| 1132 | 5 | Mamiyoung47 |
+| 1133 | 5 | EvaLynn NeCole |
+| 1134 | 5 | Angelique Thomas |
+| 1135 | 5 | Derek Beverly |
+| 1136 | 5 | Jennifer Moore |
+| 1137 | 5 | Stephanie Zuniga Tullock |
+| 1138 | 5 | the guy |
 
 ---
 *Standings created by tournaments datasource generation tool*
