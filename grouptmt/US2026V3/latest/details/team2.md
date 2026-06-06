@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 05:48:16 UTC
+# Standings for team2 as of 2026-06-06 05:48:39 UTC
 
 **Total Participants:** 1026
 
@@ -63,7 +63,7 @@
 | 55 | 543 | Kathleen Dumbazz |
 | 56 | 540 | Jamie Jones |
 | 57 | 515 | Loony Faller |
-| 58 | 502 | Hoppy Rotate |
+| 58 | 507 | Hoppy Rotate |
 | 59 | 500 | Denise Potter |
 | 60 | 497 | Lindsay Klemp |
 | 61 | 494 | Shandrea Crawford |
@@ -99,7 +99,7 @@
 | 91 | 279 | James Ward |
 | 92 | 279 | Renee Freeman Jacobson |
 | 93 | 275 | Bubbly Strikerpiece |
-| 94 | 266 | Amber Salazar |
+| 94 | 268 | Amber Salazar |
 | 95 | 263 | Sarah Griffey |
 | 96 | 258 | Erin Thomas |
 | 97 | 253 | MaddieCherie |
@@ -183,12 +183,12 @@
 | 175 | 130 | ZBee |
 | 176 | 129 | Amy Taylor Pomerenk |
 | 177 | 127 | Kim Hunt |
-| 178 | 126 | Teresa Mandich |
-| 179 | 126 | Laverne Ellis Blair |
-| 180 | 125 | Chipper Stackbuilder |
-| 181 | 125 | Ariel Gundersen |
-| 182 | 125 | Olivia Jefferson |
-| 183 | 124 | Alison Waller |
+| 178 | 127 | Alison Waller |
+| 179 | 126 | Teresa Mandich |
+| 180 | 126 | Laverne Ellis Blair |
+| 181 | 125 | Chipper Stackbuilder |
+| 182 | 125 | Ariel Gundersen |
+| 183 | 125 | Olivia Jefferson |
 | 184 | 124 | Amie Marks |
 | 185 | 124 | Jason Burris |
 | 186 | 120 | Shannon Wilson |
