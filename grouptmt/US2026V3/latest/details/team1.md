@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 10:38:39 UTC
+# Standings for team1 as of 2026-06-06 10:39:16 UTC
 
 **Total Participants:** 958
 
@@ -42,11 +42,11 @@
 | 34 | 842 | Chris Russell |
 | 35 | 841 | Spicy Balancer |
 | 36 | 794 | Jennifer To |
-| 37 | 749 | Aviv Zehavi |
-| 38 | 715 | Chill Clusterer |
-| 39 | 694 | Charnay Peacock |
-| 40 | 670 | Jaida King |
-| 41 | 623 | Ashley Espeut |
+| 37 | 768 | Ashley Espeut |
+| 38 | 749 | Aviv Zehavi |
+| 39 | 715 | Chill Clusterer |
+| 40 | 694 | Charnay Peacock |
+| 41 | 670 | Jaida King |
 | 42 | 605 | JoJo |
 | 43 | 580 | Janet Cooke |
 | 44 | 540 | Kellie Hall |
@@ -67,8 +67,8 @@
 | 59 | 395 | Blockhead |
 | 60 | 388 | SPNLover24 |
 | 61 | 387 | Novaa |
-| 62 | 380 | She Higgy |
-| 63 | 380 | Jessica Carter |
+| 62 | 380 | Jessica Carter |
+| 63 | 380 | She Higgy |
 | 64 | 380 | IamJust Neyamijah Washington Sr. |
 | 65 | 380 | Bre Maugh |
 | 66 | 377 | AF Cruz |
@@ -134,18 +134,18 @@
 | 126 | 196 | Eugina Slater |
 | 127 | 195 | Weeze |
 | 128 | 194 | Daris Swearington |
-| 129 | 193 | Brave Clearbuilder |
-| 130 | 190 | Davionte DaeDae Hopson-Rodriguez |
-| 131 | 188 | PandaPrincess |
-| 132 | 186 | Denise B |
-| 133 | 185 | Teddy Davis |
-| 134 | 184 | Dai Bo |
-| 135 | 182 | Hyper Blocky |
-| 136 | 181 | Joey Albright |
-| 137 | 177 | Chris Sladoje |
-| 138 | 176 | Andre Sanon |
-| 139 | 175 | Rayshawn Cohen |
-| 140 | 173 | Moomoo |
+| 129 | 193 | Moomoo |
+| 130 | 193 | Brave Clearbuilder |
+| 131 | 190 | Davionte DaeDae Hopson-Rodriguez |
+| 132 | 188 | PandaPrincess |
+| 133 | 186 | Denise B |
+| 134 | 185 | Teddy Davis |
+| 135 | 184 | Dai Bo |
+| 136 | 182 | Hyper Blocky |
+| 137 | 181 | Joey Albright |
+| 138 | 177 | Chris Sladoje |
+| 139 | 176 | Andre Sanon |
+| 140 | 175 | Rayshawn Cohen |
 | 141 | 169 | Asha Langford |
 | 142 | 166 | Nobles Brandon |
 | 143 | 166 | Tarnisha Neicy Jones |
