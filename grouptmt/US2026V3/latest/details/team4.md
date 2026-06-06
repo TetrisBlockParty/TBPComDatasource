@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 17:00:41 UTC
+# Standings for team4 as of 2026-06-06 17:01:17 UTC
 
 **Total Participants:** 1058
 
@@ -55,8 +55,8 @@
 | 47 | 644 | Kelly Bernard |
 | 48 | 639 | Chummy Rollzone |
 | 49 | 629 | Keesha Muro |
-| 50 | 628 | Adam J Leong |
-| 51 | 628 | Victoria Ver |
+| 50 | 628 | Victoria Ver |
+| 51 | 628 | Adam J Leong |
 | 52 | 620 | Fancy Crasher |
 | 53 | 607 | Jeremy Lopez |
 | 54 | 600 | Chaz Duncan |
@@ -76,8 +76,8 @@
 | 68 | 460 | Tiffany Loree Tiffany Oneill |
 | 69 | 456 | Jason Allen |
 | 70 | 450 | Kitsune Bi |
-| 71 | 440 | Erin Figone |
-| 72 | 440 | Jewelz |
+| 71 | 440 | Jewelz |
+| 72 | 440 | Erin Figone |
 | 73 | 418 | Alala.Cersei |
 | 74 | 402 | Nick Graber |
 | 75 | 401 | woopa 716 |
@@ -103,16 +103,16 @@
 | 95 | 320 | Gigglycat |
 | 96 | 317 | J |
 | 97 | 302 | JoLinda Dunn |
-| 98 | 300 | 2 kool |
-| 99 | 300 | Genag |
+| 98 | 300 | Genag |
+| 99 | 300 | 2 kool |
 | 100 | 299 | Kim |
 | 101 | 295 | Thomasena Eady Reid |
 | 102 | 293 | Boldy Rumbler |
 | 103 | 291 | Jesse Olive |
-| 104 | 286 | Andrew Dang |
-| 105 | 267 | Cranky Towerbuilder |
-| 106 | 265 | Taz |
-| 107 | 260 | Dandy Clearfit |
+| 104 | 290 | Dandy Clearfit |
+| 105 | 286 | Andrew Dang |
+| 106 | 267 | Cranky Towerbuilder |
+| 107 | 265 | Taz |
 | 108 | 259 | Jessica Peyton |
 | 109 | 258 | Gorica Prusina |
 | 110 | 258 | Jojo Ann |
@@ -138,28 +138,28 @@
 | 130 | 203 | Patrick Alley |
 | 131 | 202 | Nicole |
 | 132 | 201 | Perky Riserbuilder |
-| 133 | 200 | Sarah Montagne Forsberg |
-| 134 | 200 | Esther Hadassah |
+| 133 | 200 | Esther Hadassah |
+| 134 | 200 | Sarah Montagne Forsberg |
 | 135 | 199 | Colin |
 | 136 | 196 | Brick House |
 | 137 | 195 | Sean Mccleary |
-| 138 | 194 | Lisa lisa |
-| 139 | 194 | Chiquita Blue |
-| 140 | 194 | Jenn Norcross |
+| 138 | 194 | Jenn Norcross |
+| 139 | 194 | Lisa lisa |
+| 140 | 194 | Chiquita Blue |
 | 141 | 193 | Tiffany Bunker-Hill |
 | 142 | 187 | Daryn Elliott |
 | 143 | 186 | Kimyatta Cavin |
 | 144 | 185 | Dae Von |
-| 145 | 184 | Lucy Honer |
-| 146 | 184 | Giggly Tilt |
+| 145 | 184 | Giggly Tilt |
+| 146 | 184 | Lucy Honer |
 | 147 | 183 | Tara Delay Hill |
-| 148 | 179 | Danny Ortiz |
-| 149 | 179 | Anna Gribble |
+| 148 | 179 | Anna Gribble |
+| 149 | 179 | Danny Ortiz |
 | 150 | 178 | Spicy Chicken |
 | 151 | 178 | Tamara Triplet |
-| 152 | 177 | Tammy June |
+| 152 | 177 | Damon Gaston |
 | 153 | 177 | Chirpy Link |
-| 154 | 177 | Damon Gaston |
+| 154 | 177 | Tammy June |
 | 155 | 177 | Devinlee Brown |
 | 156 | 175 | Megan Vick |
 | 157 | 172 | Tawna Curry |
@@ -181,41 +181,41 @@
 | 173 | 153 | Laguya |
 | 174 | 151 | Leslie Ann Carter |
 | 175 | 150 | gabs |
-| 176 | 148 | Joseph Hunter |
-| 177 | 147 | Janet Sanfilippo Sullivan |
-| 178 | 147 | ariel |
+| 176 | 148 | ariel |
+| 177 | 148 | Joseph Hunter |
+| 178 | 147 | Janet Sanfilippo Sullivan |
 | 179 | 146 | Alyson M Kehler |
 | 180 | 145 | Trice Stevenson |
 | 181 | 144 | Yesenia Castro Monreal |
 | 182 | 143 | Ashley Mcdonald |
 | 183 | 141 | Justin Michael |
 | 184 | 139 | Jasmine Marie |
-| 185 | 138 | Cheery Risegrid |
-| 186 | 138 | Tina Thomas |
+| 185 | 138 | Tina Thomas |
+| 186 | 138 | Cheery Risegrid |
 | 187 | 137 | Shelby |
 | 188 | 134 | Loony Rotater |
-| 189 | 133 | June Hoffman |
-| 190 | 133 | BusterBear56 |
-| 191 | 133 | Shawntae Mccary |
-| 192 | 131 | Stasia |
+| 189 | 133 | BusterBear56 |
+| 190 | 133 | Shawntae Mccary |
+| 191 | 133 | June Hoffman |
+| 192 | 132 | Tiggerjake |
 | 193 | 131 | Tina Shalay Hayes |
-| 194 | 130 | Magz |
+| 194 | 131 | Stasia |
 | 195 | 130 | Fran Aaron-Ring |
-| 196 | 129 | Simone |
-| 197 | 129 | Kelly Howland |
-| 198 | 129 | Chilly Pivot |
+| 196 | 130 | Magz |
+| 197 | 129 | Simone |
+| 198 | 129 | Brainbabe |
 | 199 | 129 | Chris Covington |
-| 200 | 129 | Lani |
-| 201 | 129 | Brainbabe |
-| 202 | 128 | Crystal Hammonds |
-| 203 | 128 | Bridget Stevens |
-| 204 | 127 | Cheeky Climber |
-| 205 | 127 | Samara Garcia |
-| 206 | 126 | Lush Fitblock |
-| 207 | 126 | Corie A. Brinson |
-| 208 | 124 | Rachel Lemos |
-| 209 | 123 | Cherrypir05 |
-| 210 | 122 | Tiggerjake |
+| 200 | 129 | Chilly Pivot |
+| 201 | 129 | Lani |
+| 202 | 129 | Kelly Howland |
+| 203 | 128 | Crystal Hammonds |
+| 204 | 128 | Bridget Stevens |
+| 205 | 127 | Cheeky Climber |
+| 206 | 127 | Samara Garcia |
+| 207 | 126 | Lush Fitblock |
+| 208 | 126 | Corie A. Brinson |
+| 209 | 124 | Rachel Lemos |
+| 210 | 123 | Cherrypir05 |
 | 211 | 122 | Andrick |
 | 212 | 121 | Jazzy Gridder |
 | 213 | 121 | JuicyJuice |
