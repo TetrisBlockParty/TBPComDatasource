@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 21:10:17 UTC
+# Standings for team2 as of 2026-06-06 21:10:40 UTC
 
 **Total Participants:** 1376
 
@@ -157,8 +157,8 @@
 | 149 | 286 | James Ward |
 | 150 | 286 | Heather Burgett |
 | 151 | 283 | Theresa Marie |
-| 152 | 280 | Patricia Carroll |
-| 153 | 280 | Brittney Williams |
+| 152 | 280 | Brittney Williams |
+| 153 | 280 | Patricia Carroll |
 | 154 | 279 | Renee Freeman Jacobson |
 | 155 | 277 | Sarah Mccolgan |
 | 156 | 277 | DayDreamer79 |
@@ -170,10 +170,10 @@
 | 162 | 253 | Marge Cromer |
 | 163 | 253 | Hilliary Beyer |
 | 164 | 251 | Angie Kowalsky Olson |
-| 165 | 250 | giamy |
-| 166 | 250 | marsam |
-| 167 | 247 | Brittni Lawrence |
-| 168 | 247 | Fudgie Pie |
+| 165 | 250 | marsam |
+| 166 | 250 | giamy |
+| 167 | 247 | Fudgie Pie |
+| 168 | 247 | Brittni Lawrence |
 | 169 | 243 | Jessica Lynn |
 | 170 | 241 | Charlie Wilson |
 | 171 | 241 | Boldy Wobbler |
@@ -188,8 +188,8 @@
 | 180 | 223 | Ashley Billiot Rhodes |
 | 181 | 220 | Melissa Thomas |
 | 182 | 220 | Flashy Basegrid |
-| 183 | 219 | Dallas Runyan |
-| 184 | 219 | Stella |
+| 183 | 219 | Stella |
+| 184 | 219 | Dallas Runyan |
 | 185 | 218 | Amy Nicole McCanne |
 | 186 | 216 | PaiBri |
 | 187 | 212 | AndyJo |
@@ -200,31 +200,31 @@
 | 192 | 207 | Margie Ann Naffziger |
 | 193 | 206 | Logan Duffey |
 | 194 | 206 | Jodi Johnson |
-| 195 | 205 | Melisa |
-| 196 | 205 | Jeanna Mendez |
+| 195 | 205 | Jeanna Mendez |
+| 196 | 205 | Melisa |
 | 197 | 204 | Chill Line |
 | 198 | 202 | Becca Marie |
 | 199 | 202 | Snappy Blockbuilder |
 | 200 | 201 | Danielle Pack Lewellen |
-| 201 | 200 | Sully |
+| 201 | 200 | Norma Ortiz |
 | 202 | 200 | Al Smith Jr |
 | 203 | 200 | Physhie |
 | 204 | 200 | Sarah Grundisch |
 | 205 | 200 | Eric Wayne Maschman |
 | 206 | 200 | Kelly Vedder |
-| 207 | 199 | Amber Cogdill |
-| 208 | 196 | Jat |
-| 209 | 195 | Karly Moore |
+| 207 | 200 | Sully |
+| 208 | 199 | Amber Cogdill |
+| 209 | 196 | Jat |
 | 210 | 195 | Samantha Carman |
-| 211 | 195 | Bb |
-| 212 | 194 | Mookshake |
-| 213 | 192 | Nathan Walker |
-| 214 | 192 | Greta Warden |
-| 215 | 191 | Jessica Christine |
-| 216 | 191 | Norma Ortiz |
+| 211 | 195 | Karly Moore |
+| 212 | 195 | Bb |
+| 213 | 194 | Mookshake |
+| 214 | 192 | Nathan Walker |
+| 215 | 192 | Greta Warden |
+| 216 | 191 | Jessica Christine |
 | 217 | 191 | Kathy Strickland |
-| 218 | 188 | Ray Daisy |
-| 219 | 188 | Larry Cross |
+| 218 | 188 | Larry Cross |
+| 219 | 188 | Ray Daisy |
 | 220 | 187 | Laura Melton |
 | 221 | 183 | Chipper Stackbuilder |
 | 222 | 181 | Michelle Maulsby |
@@ -233,8 +233,8 @@
 | 225 | 177 | Xandrea Jones |
 | 226 | 177 | Amy Taylor Pomerenk |
 | 227 | 176 | Glitzy Base |
-| 228 | 175 | Lashanda Bertram |
-| 229 | 175 | Laverne Ellis Blair |
+| 228 | 175 | Laverne Ellis Blair |
+| 229 | 175 | Lashanda Bertram |
 | 230 | 174 | Olivia Jefferson |
 | 231 | 174 | Nettrainer |
 | 232 | 173 | Amie Marks |
@@ -244,16 +244,16 @@
 | 236 | 170 | Harper |
 | 237 | 170 | Loopy Dropper |
 | 238 | 169 | Angie Bishop |
-| 239 | 168 | Danielle Lyons |
-| 240 | 168 | Missy Renia |
-| 241 | 168 | Victoria Pale |
-| 242 | 168 | Spicy Risegrid |
+| 239 | 168 | Missy Renia |
+| 240 | 168 | Danielle Lyons |
+| 241 | 168 | Spicy Risegrid |
+| 242 | 168 | Victoria Pale |
 | 243 | 164 | Jerry L Morales |
 | 244 | 164 | Avie Lou |
 | 245 | 164 | Cara Rivera |
-| 246 | 163 | Santara Ferguson |
-| 247 | 163 | Zany Cascader |
-| 248 | 163 | Kim Hunt |
+| 246 | 163 | Zany Cascader |
+| 247 | 163 | Kim Hunt |
+| 248 | 163 | Santara Ferguson |
 | 249 | 162 | Nutty Curver |
 | 250 | 162 | SEH |
 | 251 | 160 | Elizabeth Cornelius |
@@ -272,9 +272,9 @@
 | 264 | 150 | Theresa Huddleston |
 | 265 | 149 | Jackie Tupper |
 | 266 | 149 | Jenni LeBlanc |
-| 267 | 148 | murd3rmous3 |
+| 267 | 148 | Theresa Hollinger |
 | 268 | 148 | Curly Windbreaker |
-| 269 | 148 | Theresa Hollinger |
+| 269 | 148 | murd3rmous3 |
 | 270 | 147 | Tina Marie |
 | 271 | 146 | Danielle Blount |
 | 272 | 146 | Darla Nolt |
