@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 09:01:15 UTC
+# Standings for team2 as of 2026-06-06 09:02:16 UTC
 
 **Total Participants:** 1087
 
@@ -12,10 +12,10 @@
 | 4 | 6045 | Morgann McDaniel |
 | 5 | 5987 | Tim Ix |
 | 6 | 5653 | A.j. Langley |
-| 7 | 5108 | Puce guide 9156 |
-| 8 | 4504 | Cori Keberlein |
-| 9 | 4500 | Mocha |
-| 10 | 4364 | Jason Wood |
+| 7 | 5470 | Jason Wood |
+| 8 | 5108 | Puce guide 9156 |
+| 9 | 4504 | Cori Keberlein |
+| 10 | 4500 | Mocha |
 | 11 | 3984 | Amber |
 | 12 | 3812 | Crystal M Sowden |
 | 13 | 3605 | Crystalin Heath Lewis |
@@ -48,9 +48,9 @@
 | 40 | 1027 | Frilly Match |
 | 41 | 1004 | Aubree Richard |
 | 42 | 832 | Amber Triguero |
-| 43 | 800 | Danni Campa |
-| 44 | 799 | Elizabeth Sallas |
-| 45 | 799 | Helen Thomas |
+| 43 | 819 | Helen Thomas |
+| 44 | 800 | Danni Campa |
+| 45 | 799 | Elizabeth Sallas |
 | 46 | 763 | Logan Basham |
 | 47 | 759 | Rose Schaffner-Kibler |
 | 48 | 750 | Brent Bittenbender |
@@ -115,8 +115,8 @@
 | 107 | 278 | Flashy Twistline |
 | 108 | 275 | Bubbly Strikerpiece |
 | 109 | 274 | Sarah Griffey |
-| 110 | 258 | Erin Thomas |
-| 111 | 254 | Deborah Boyce Minor |
+| 110 | 264 | Deborah Boyce Minor |
+| 111 | 258 | Erin Thomas |
 | 112 | 253 | Heather Burgett |
 | 113 | 253 | Hilliary Beyer |
 | 114 | 251 | Angie Kowalsky Olson |
