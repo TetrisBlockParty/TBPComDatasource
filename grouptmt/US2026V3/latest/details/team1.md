@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 09:42:15 UTC
+# Standings for team1 as of 2026-06-06 09:42:38 UTC
 
 **Total Participants:** 945
 
@@ -9,8 +9,8 @@
 | 1 | 19000 | Ariel |
 | 2 | 4690 | Dyane Leah Ware |
 | 3 | 4569 | Death by SnuSnu |
-| 4 | 4495 | Tracy Cohen |
-| 5 | 4400 | Tyeina Johnson |
+| 4 | 4500 | Tyeina Johnson |
+| 5 | 4495 | Tracy Cohen |
 | 6 | 4339 | Carrie English |
 | 7 | 3690 | Cozy Edge |
 | 8 | 3511 | Timothy Robert |
