@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 12:32:39 UTC
+# Standings for team4 as of 2026-06-06 12:33:15 UTC
 
 **Total Participants:** 959
 
@@ -59,7 +59,7 @@
 | 51 | 510 | Krysten Danielle Richard |
 | 52 | 505 | Fancy Crasher |
 | 53 | 500 | Michele |
-| 54 | 483 | Bubbly Twistpiece |
+| 54 | 492 | Bubbly Twistpiece |
 | 55 | 477 | Malik Thompson |
 | 56 | 474 | Jeremy Lopez |
 | 57 | 461 | Kayla Fuentes |
@@ -313,16 +313,16 @@
 | 305 | 73 | Joshua Hunt |
 | 306 | 73 | Jenn Fitzgerald |
 | 307 | 71 | Taquilla Branch |
-| 308 | 71 | Brandi Sauer |
-| 309 | 71 | Snazzy Fitclear |
-| 310 | 70 | ManOfSteel |
-| 311 | 70 | Henry Lanier |
-| 312 | 70 | Jessica Jones Bolton |
-| 313 | 70 | Karen Small |
-| 314 | 69 | Wacky Brick |
-| 315 | 69 | Denise Wilson |
-| 316 | 69 | Khylee DarDar |
-| 317 | 69 | Mrs |
+| 308 | 71 | Mrs |
+| 309 | 71 | Brandi Sauer |
+| 310 | 71 | Snazzy Fitclear |
+| 311 | 70 | ManOfSteel |
+| 312 | 70 | Henry Lanier |
+| 313 | 70 | Jessica Jones Bolton |
+| 314 | 70 | Karen Small |
+| 315 | 69 | Wacky Brick |
+| 316 | 69 | Denise Wilson |
+| 317 | 69 | Khylee DarDar |
 | 318 | 69 | Tipsy Zonebuilder |
 | 319 | 69 | Dizzy Slammer |
 | 320 | 69 | Giggy Blockpiece |
