@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-06 09:52:16 UTC
+# Standings for team3 as of 2026-06-06 09:52:38 UTC
 
 **Total Participants:** 3387
 
@@ -23,14 +23,14 @@
 | 15 | 4485 | Brian Konagel |
 | 16 | 4476 | Ed Vinas |
 | 17 | 4374 | Diana Marie |
-| 18 | 4356 | Lindsey Gardner |
-| 19 | 4328 | Vivalajxcy |
-| 20 | 4314 | Unique Harmoni Wood |
-| 21 | 4149 | Amy Perry |
-| 22 | 4141 | Tiara Elizabeth Baker |
-| 23 | 4000 | Taylana Mincy |
-| 24 | 3869 | Zippy Slider |
-| 25 | 3701 | Cam Bradley |
+| 18 | 4361 | Cam Bradley |
+| 19 | 4356 | Lindsey Gardner |
+| 20 | 4328 | Vivalajxcy |
+| 21 | 4314 | Unique Harmoni Wood |
+| 22 | 4149 | Amy Perry |
+| 23 | 4141 | Tiara Elizabeth Baker |
+| 24 | 4000 | Taylana Mincy |
+| 25 | 3869 | Zippy Slider |
 | 26 | 3617 | EvoluXion |
 | 27 | 3462 | Nuke Morris |
 | 28 | 3138 | Sean Bayley |
@@ -964,74 +964,74 @@
 | 956 | 75 | Lisa Marie Manley |
 | 957 | 75 | Cozy Matchzone |
 | 958 | 75 | Libra Love Knene |
-| 959 | 75 | Manda Collier |
-| 960 | 75 | Arianna Goss |
-| 961 | 75 | Peachymango |
+| 959 | 75 | Joapple |
+| 960 | 75 | Manda Collier |
+| 961 | 75 | Arianna Goss |
 | 962 | 75 | Cuttermonk |
-| 963 | 74 | Nicole Rogerson |
-| 964 | 74 | Itsa U Mee |
-| 965 | 74 | JennD |
-| 966 | 74 | Stoney Robinson |
-| 967 | 74 | Queen Gnome |
-| 968 | 74 | Valdez Ann Lisa |
-| 969 | 74 | Amanda Byers |
-| 970 | 74 | AB Cool |
-| 971 | 74 | Mighty Setter |
-| 972 | 74 | Lauren Brodie |
-| 973 | 74 | Meli |
-| 974 | 74 | Lesa Arny Gallagher |
-| 975 | 74 | Rachael Rae |
-| 976 | 74 | Jessica Leatherman |
-| 977 | 74 | Kendall Luna |
-| 978 | 74 | Roxann Boykin |
-| 979 | 74 | Jessica Baskins |
-| 980 | 74 | Michael Yeager |
-| 981 | 73 | Sara Jean Leighton |
-| 982 | 73 | James Larrison |
-| 983 | 73 | Nicole Bowen |
-| 984 | 73 | Happy Cascadebuilder |
-| 985 | 73 | Towers Firuze |
-| 986 | 73 | Kaesha Brooks |
-| 987 | 73 | Shawn Humburg |
-| 988 | 73 | Josh Jarvis |
-| 989 | 73 | Johnathan Holley |
-| 990 | 73 | Jessica Johnson |
-| 991 | 73 | Chris Ellis |
-| 992 | 72 | Sarahlee Wheeler |
-| 993 | 72 | Tiesha Janay |
-| 994 | 72 | Marlene Taylor |
-| 995 | 72 | Alexandra Weir |
-| 996 | 72 | Tipsy Balancefit |
-| 997 | 72 | Meghan Jean Cook |
-| 998 | 72 | Cleshia Silverman |
-| 999 | 72 | Billi Childress |
-| 1000 | 72 | Elizabeth Halvorson - Biscardi |
-| 1001 | 72 | Mighty Dasher |
-| 1002 | 72 | Tiffany Waring |
-| 1003 | 72 | Shakay Toukhanian |
-| 1004 | 71 | Christina |
-| 1005 | 71 | Joshua Moore |
-| 1006 | 71 | Christian Pryor |
-| 1007 | 71 | ToastedMallo |
-| 1008 | 71 | Tnaughty |
-| 1009 | 71 | Tipsy Piecegrid |
-| 1010 | 71 | Dreamy Dashfit |
-| 1011 | 71 | Garry Bennett |
-| 1012 | 71 | Melissa Kuykendall |
-| 1013 | 71 | Anna Parvin Sims |
+| 963 | 75 | Peachymango |
+| 964 | 74 | Mighty Setter |
+| 965 | 74 | Stoney Robinson |
+| 966 | 74 | JennD |
+| 967 | 74 | Itsa U Mee |
+| 968 | 74 | Amanda Byers |
+| 969 | 74 | Queen Gnome |
+| 970 | 74 | Nicole Rogerson |
+| 971 | 74 | Valdez Ann Lisa |
+| 972 | 74 | AB Cool |
+| 973 | 74 | Jessica Leatherman |
+| 974 | 74 | Meli |
+| 975 | 74 | Kendall Luna |
+| 976 | 74 | Lesa Arny Gallagher |
+| 977 | 74 | Lauren Brodie |
+| 978 | 74 | Rachael Rae |
+| 979 | 74 | Roxann Boykin |
+| 980 | 74 | Jessica Baskins |
+| 981 | 74 | Michael Yeager |
+| 982 | 73 | Sara Jean Leighton |
+| 983 | 73 | James Larrison |
+| 984 | 73 | Nicole Bowen |
+| 985 | 73 | Happy Cascadebuilder |
+| 986 | 73 | Towers Firuze |
+| 987 | 73 | Jessica Johnson |
+| 988 | 73 | Chris Ellis |
+| 989 | 73 | Kaesha Brooks |
+| 990 | 73 | Josh Jarvis |
+| 991 | 73 | Shawn Humburg |
+| 992 | 73 | Johnathan Holley |
+| 993 | 72 | Cleshia Silverman |
+| 994 | 72 | Sarahlee Wheeler |
+| 995 | 72 | Tiesha Janay |
+| 996 | 72 | Alexandra Weir |
+| 997 | 72 | Marlene Taylor |
+| 998 | 72 | Tipsy Balancefit |
+| 999 | 72 | Meghan Jean Cook |
+| 1000 | 72 | Billi Childress |
+| 1001 | 72 | Elizabeth Halvorson - Biscardi |
+| 1002 | 72 | Mighty Dasher |
+| 1003 | 72 | Tiffany Waring |
+| 1004 | 72 | Shakay Toukhanian |
+| 1005 | 71 | Christina |
+| 1006 | 71 | Joshua Moore |
+| 1007 | 71 | Christian Pryor |
+| 1008 | 71 | ToastedMallo |
+| 1009 | 71 | Tnaughty |
+| 1010 | 71 | Tipsy Piecegrid |
+| 1011 | 71 | Dreamy Dashfit |
+| 1012 | 71 | Garry Bennett |
+| 1013 | 71 | Melissa Kuykendall |
 | 1014 | 71 | Mahogany Marie |
-| 1015 | 70 | Chris Cronin |
-| 1016 | 70 | Lunas 2502 |
-| 1017 | 70 | Bob Krebs |
-| 1018 | 70 | Ian Burns |
-| 1019 | 70 | BigKp6 |
-| 1020 | 70 | Michelle Waterman Stocker Hughey |
-| 1021 | 70 | Keith R Dilliplane |
-| 1022 | 70 | LVT_007 |
+| 1015 | 71 | Anna Parvin Sims |
+| 1016 | 70 | Chris Cronin |
+| 1017 | 70 | BigKp6 |
+| 1018 | 70 | Michelle Waterman Stocker Hughey |
+| 1019 | 70 | Keith R Dilliplane |
+| 1020 | 70 | Ian Burns |
+| 1021 | 70 | Kristie Figueroa |
+| 1022 | 70 | Wacky Snapmatch |
 | 1023 | 70 | Jennifer Evans |
-| 1024 | 70 | Kristie Figueroa |
-| 1025 | 70 | Wacky Snapmatch |
-| 1026 | 70 | Joapple |
+| 1024 | 70 | LVT_007 |
+| 1025 | 70 | Lunas 2502 |
+| 1026 | 70 | Bob Krebs |
 | 1027 | 70 | Kevin Wykoff |
 | 1028 | 70 | Karen Cave |
 | 1029 | 70 | Angelica Rodriguez |
@@ -1053,9 +1053,9 @@
 | 1045 | 69 | Melissa Caldwell |
 | 1046 | 69 | Great White |
 | 1047 | 69 | Crazin Kray |
-| 1048 | 69 | Mike File |
-| 1049 | 69 | Robert |
-| 1050 | 69 | Landon Holman |
+| 1048 | 69 | Landon Holman |
+| 1049 | 69 | Mike File |
+| 1050 | 69 | Robert |
 | 1051 | 69 | Khalyia Monroe |
 | 1052 | 69 | Keith Goodson |
 | 1053 | 69 | Gary Williams |

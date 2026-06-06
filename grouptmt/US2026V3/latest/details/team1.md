@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 09:52:16 UTC
+# Standings for team1 as of 2026-06-06 09:52:38 UTC
 
 **Total Participants:** 948
 
@@ -153,28 +153,28 @@
 | 145 | 156 | Anthony Washington |
 | 146 | 155 | Jawaun Daniels |
 | 147 | 147 | David Fuentes |
-| 148 | 147 | MACHETEEDDIE513 |
-| 149 | 146 | Marcheta Cervantez |
-| 150 | 146 | BlackQueen105 |
-| 151 | 140 | Ann Chung |
+| 148 | 147 | Chantelle Lee |
+| 149 | 147 | MACHETEEDDIE513 |
+| 150 | 146 | Marcheta Cervantez |
+| 151 | 146 | BlackQueen105 |
 | 152 | 140 | Felicia Cain |
-| 153 | 140 | Antoinette Jones |
-| 154 | 139 | Mafio SO |
-| 155 | 138 | JaClanDiah |
-| 156 | 138 | Lashaunda |
-| 157 | 137 | Eugina Slater |
-| 158 | 135 | Sean White |
-| 159 | 135 | Dawn L Washington-Feuquay |
-| 160 | 135 | Amber Wilson |
-| 161 | 134 | Lively Riserpiece |
-| 162 | 133 | Byron Mario Cawthon |
-| 163 | 132 | Jolly Tilefall |
-| 164 | 131 | TBABYJ |
-| 165 | 130 | Emily Wright |
-| 166 | 130 | Jessica Davis |
-| 167 | 130 | Rolanda Williams |
-| 168 | 130 | Dion Gray |
-| 169 | 127 | Chantelle Lee |
+| 153 | 140 | Ann Chung |
+| 154 | 140 | Antoinette Jones |
+| 155 | 139 | Mafio SO |
+| 156 | 138 | JaClanDiah |
+| 157 | 138 | Lashaunda |
+| 158 | 137 | Eugina Slater |
+| 159 | 135 | Sean White |
+| 160 | 135 | Dawn L Washington-Feuquay |
+| 161 | 135 | Amber Wilson |
+| 162 | 134 | Lively Riserpiece |
+| 163 | 133 | Byron Mario Cawthon |
+| 164 | 132 | Jolly Tilefall |
+| 165 | 131 | TBABYJ |
+| 166 | 130 | Emily Wright |
+| 167 | 130 | Jessica Davis |
+| 168 | 130 | Rolanda Williams |
+| 169 | 130 | Dion Gray |
 | 170 | 127 | IThinkNot |
 | 171 | 126 | Stephen Providenti |
 | 172 | 126 | Cee Emm |
