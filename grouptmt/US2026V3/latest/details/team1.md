@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 14:48:16 UTC
+# Standings for team1 as of 2026-06-06 14:48:40 UTC
 
 **Total Participants:** 1024
 
@@ -116,7 +116,7 @@
 | 108 | 268 | Dee McCool |
 | 109 | 263 | Ashley MyBeauty Daniels |
 | 110 | 262 | Gael Quintana |
-| 111 | 257 | Tamara N Lee |
+| 111 | 259 | Tamara N Lee |
 | 112 | 257 | Mimi 1.0 |
 | 113 | 256 | Cortaz Lawrie |
 | 114 | 251 | Helen Smith |
@@ -124,7 +124,7 @@
 | 116 | 244 | Jaida De'Anne Cox |
 | 117 | 240 | Rayya Kiser |
 | 118 | 237 | Leebo Slice |
-| 119 | 230 | Jamal Itzjusmall Chambers |
+| 119 | 235 | Jamal Itzjusmall Chambers |
 | 120 | 227 | Chantelle Lee |
 | 121 | 226 | Allison Baxter |
 | 122 | 225 | Rhonda Williams Warner |

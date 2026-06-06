@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 14:48:16 UTC
+# Standings for team2 as of 2026-06-06 14:48:40 UTC
 
 **Total Participants:** 1196
 
@@ -55,17 +55,17 @@
 | 47 | 926 | Debra Henry |
 | 48 | 882 | AcardBoardBox |
 | 49 | 832 | Amber Triguero |
-| 50 | 824 | Mikki Torres |
-| 51 | 824 | Helen Thomas |
+| 50 | 824 | Helen Thomas |
+| 51 | 824 | Mikki Torres |
 | 52 | 799 | Elizabeth Sallas |
-| 53 | 759 | Rose Schaffner-Kibler |
-| 54 | 750 | Brent Bittenbender |
-| 55 | 744 | Deborah Boyce Minor |
-| 56 | 713 | Amber Salazar |
-| 57 | 708 | Hoppy Rotate |
-| 58 | 702 | Charley Bedford |
-| 59 | 700 | Denise Potter |
-| 60 | 698 | Gabriella Humphreys |
+| 53 | 778 | Gabriella Humphreys |
+| 54 | 759 | Rose Schaffner-Kibler |
+| 55 | 750 | Brent Bittenbender |
+| 56 | 744 | Deborah Boyce Minor |
+| 57 | 713 | Amber Salazar |
+| 58 | 708 | Hoppy Rotate |
+| 59 | 702 | Charley Bedford |
+| 60 | 700 | Denise Potter |
 | 61 | 695 | Andre Love |
 | 62 | 679 | Marie Luciano |
 | 63 | 671 | Brandi Thompson |
@@ -89,8 +89,8 @@
 | 81 | 471 | Marquita Toliver |
 | 82 | 468 | Amy Gale |
 | 83 | 449 | Poppy |
-| 84 | 436 | Kaycie Shaffer |
-| 85 | 436 | Mirr Lulu |
+| 84 | 436 | Mirr Lulu |
+| 85 | 436 | Kaycie Shaffer |
 | 86 | 430 | Amanda Sikes |
 | 87 | 408 | Marquetta Johnson |
 | 88 | 405 | Judy Long |
@@ -112,8 +112,8 @@
 | 104 | 328 | Tim Tim |
 | 105 | 325 | Amy Gregg |
 | 106 | 324 | Jgato |
-| 107 | 319 | Shannon Wilson |
-| 108 | 319 | Michelle Rich Burkhart |
+| 107 | 319 | Michelle Rich Burkhart |
+| 108 | 319 | Shannon Wilson |
 | 109 | 317 | Ruby Sandberg |
 | 110 | 315 | Milad Arzani |
 | 111 | 310 | Jennifer Smith |
