@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 18:30:17 UTC
+# Standings for team4 as of 2026-06-06 18:30:40 UTC
 
 **Total Participants:** 1095
 
@@ -246,34 +246,34 @@
 | 238 | 117 | kellie |
 | 239 | 116 | Shocinda Sherwood |
 | 240 | 116 | Jennifer Fisher Franklin |
-| 241 | 116 | Dee Wizz |
-| 242 | 116 | Pepone Pepe |
-| 243 | 116 | WeeWooWee |
-| 244 | 116 | Toon Up |
+| 241 | 116 | Queen B |
+| 242 | 116 | Dee Wizz |
+| 243 | 116 | Pepone Pepe |
+| 244 | 116 | WeeWooWee |
 | 245 | 116 | Brennan Shea Greene |
-| 246 | 115 | Hardy Fuller |
-| 247 | 114 | Dapper Strikerpiece |
-| 248 | 114 | Bryan DjMagnum Evans |
-| 249 | 113 | Dennis Montoya |
+| 246 | 116 | Toon Up |
+| 247 | 115 | Hardy Fuller |
+| 248 | 114 | Dapper Strikerpiece |
+| 249 | 114 | Bryan DjMagnum Evans |
 | 250 | 113 | Melissa Anne |
 | 251 | 113 | Dizzy Slammer |
 | 252 | 113 | Slinky Stackzone |
-| 253 | 112 | CJ |
-| 254 | 111 | King |
-| 255 | 110 | jaz |
-| 256 | 109 | Katie Lynn Petit |
-| 257 | 109 | Rose Anna Safi |
-| 258 | 109 | Ginny |
-| 259 | 108 | Dawn Phelps |
-| 260 | 108 | Anthony Lewis |
-| 261 | 107 | Allysha McFarland |
-| 262 | 107 | Jrr |
-| 263 | 107 | Tommy Bond |
-| 264 | 106 | Samantha Worley |
-| 265 | 106 | George Palacios |
-| 266 | 105 | Shanna Fragen |
-| 267 | 105 | Kristen Wallace |
-| 268 | 104 | Queen B |
+| 253 | 113 | Dennis Montoya |
+| 254 | 112 | CJ |
+| 255 | 111 | King |
+| 256 | 110 | jaz |
+| 257 | 109 | Katie Lynn Petit |
+| 258 | 109 | Rose Anna Safi |
+| 259 | 109 | Ginny |
+| 260 | 108 | Dawn Phelps |
+| 261 | 108 | Anthony Lewis |
+| 262 | 107 | Allysha McFarland |
+| 263 | 107 | Jrr |
+| 264 | 107 | Tommy Bond |
+| 265 | 106 | Samantha Worley |
+| 266 | 106 | George Palacios |
+| 267 | 105 | Shanna Fragen |
+| 268 | 105 | Kristen Wallace |
 | 269 | 104 | LastBoi |
 | 270 | 104 | Justin Ballard |
 | 271 | 103 | farfromlocal |
@@ -447,12 +447,12 @@
 | 439 | 62 | YenSid |
 | 440 | 62 | medicjessi |
 | 441 | 62 | Gabby Simones |
-| 442 | 62 | Chris McBlockster |
-| 443 | 62 | Surviving Be Back Soon |
-| 444 | 62 | Amanda Snow |
-| 445 | 62 | Jason Moves |
-| 446 | 61 | Lolita Nettles |
-| 447 | 61 | Tiffany Roberts |
+| 442 | 62 | Tiffany Roberts |
+| 443 | 62 | Chris McBlockster |
+| 444 | 62 | Surviving Be Back Soon |
+| 445 | 62 | Amanda Snow |
+| 446 | 62 | Jason Moves |
+| 447 | 61 | Lolita Nettles |
 | 448 | 61 | Missionary Meda |
 | 449 | 61 | Tasha Suzanne Prisbrey |
 | 450 | 61 | Deb 07 |
