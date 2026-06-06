@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 06:58:39 UTC
+# Standings for team1 as of 2026-06-06 06:59:15 UTC
 
 **Total Participants:** 900
 
@@ -39,7 +39,7 @@
 | 31 | 842 | Chris Russell |
 | 32 | 832 | Spicy Balancer |
 | 33 | 789 | Jennifer To |
-| 34 | 762 | Daylene Johannes |
+| 34 | 772 | Daylene Johannes |
 | 35 | 749 | Aviv Zehavi |
 | 36 | 715 | Chill Clusterer |
 | 37 | 670 | Jaida King |
@@ -270,17 +270,17 @@
 | 262 | 71 | Elaine Pauley |
 | 263 | 70 | Kaleisha Smith |
 | 264 | 70 | Cheeky Pop |
-| 265 | 70 | $hort Dog |
-| 266 | 70 | MamushiOh |
-| 267 | 70 | Trina Greenwood |
-| 268 | 70 | Hailey Hil |
-| 269 | 69 | CJ Robinson |
-| 270 | 69 | Chantelle Lee |
-| 271 | 69 | C Lo Green |
+| 265 | 70 | C Lo Green |
+| 266 | 70 | $hort Dog |
+| 267 | 70 | MamushiOh |
+| 268 | 70 | Trina Greenwood |
+| 269 | 70 | Hailey Hil |
+| 270 | 69 | CJ Robinson |
+| 271 | 69 | Chantelle Lee |
 | 272 | 69 | Peppy Glider |
 | 273 | 68 | Tee Spinks |
-| 274 | 67 | Steve Reno |
-| 275 | 67 | rls |
+| 274 | 67 | rls |
+| 275 | 67 | Steve Reno |
 | 276 | 67 | Johnathan Deese |
 | 277 | 67 | Michele Elizabeth McKay-Johnson |
 | 278 | 67 | Laurie Napper |
@@ -325,62 +325,62 @@
 | 317 | 59 | Koi |
 | 318 | 58 | Mikayla |
 | 319 | 58 | Slinky Snapbuilder |
-| 320 | 58 | Kimberly Susan Privette |
-| 321 | 58 | Sonia Binti Mfalme |
-| 322 | 58 | Brandy Way |
-| 323 | 58 | Tobey Marberry |
-| 324 | 58 | Bambi Love |
+| 320 | 58 | Brandy Way |
+| 321 | 58 | Tobey Marberry |
+| 322 | 58 | Bambi Love |
+| 323 | 58 | Sonia Binti Mfalme |
+| 324 | 58 | Kimberly Susan Privette |
 | 325 | 57 | Jae Thompson-Tyus |
-| 326 | 56 | Nora Mahmoud |
-| 327 | 56 | Nichelle Warren |
+| 326 | 56 | Nichelle Warren |
+| 327 | 56 | Nora Mahmoud |
 | 328 | 56 | Miera Nicole |
 | 329 | 55 | Dreamzzz |
-| 330 | 55 | KoolKimJay |
-| 331 | 55 | Kyle Franklin |
+| 330 | 55 | Shanaa Germany Crittenden |
+| 331 | 55 | Angelique Talbot |
 | 332 | 55 | Terrie |
-| 333 | 55 | Shanaa Germany Crittenden |
-| 334 | 55 | Angelique Talbot |
-| 335 | 54 | Ace Hardware |
-| 336 | 54 | Rackemwillie34 |
-| 337 | 54 | xXEKUNXx |
-| 338 | 54 | Melissa Olvera |
-| 339 | 54 | Lakiesha Crawford |
-| 340 | 54 | Elizabeth Hopkins |
-| 341 | 53 | Phillip Vasquez |
-| 342 | 53 | Cortrell Foster |
-| 343 | 53 | Jumpy Gridlock |
-| 344 | 53 | Clever Wrecker |
-| 345 | 52 | Dandy Brickfit |
+| 333 | 55 | KoolKimJay |
+| 334 | 55 | Kyle Franklin |
+| 335 | 54 | Elizabeth Hopkins |
+| 336 | 54 | Lakiesha Crawford |
+| 337 | 54 | Ace Hardware |
+| 338 | 54 | xXEKUNXx |
+| 339 | 54 | Rackemwillie34 |
+| 340 | 54 | Melissa Olvera |
+| 341 | 53 | Cortrell Foster |
+| 342 | 53 | Tremaine Hiler |
+| 343 | 53 | Clever Wrecker |
+| 344 | 53 | Phillip Vasquez |
+| 345 | 53 | Jumpy Gridlock |
 | 346 | 52 | kitten |
 | 347 | 52 | Loopy Risepiece |
 | 348 | 52 | Raquel Ortiz |
 | 349 | 52 | Gabriela Hernandez |
-| 350 | 51 | Rachael Bakowicz Edwards |
+| 350 | 52 | Dandy Brickfit |
 | 351 | 51 | Comedian Gdane |
-| 352 | 51 | Just2Play$ |
-| 353 | 51 | Poppy Smasher |
-| 354 | 51 | Shanjerrica Taylor Rosell |
+| 352 | 51 | Rachael Bakowicz Edwards |
+| 353 | 51 | Just2Play$ |
+| 354 | 51 | Poppy Smasher |
 | 355 | 51 | Linzie Marie |
-| 356 | 50 | Smiley Clearpiece |
+| 356 | 51 | Shanjerrica Taylor Rosell |
 | 357 | 50 | MsBobby Patrick |
-| 358 | 50 | Slinky Party |
-| 359 | 50 | Teresa Yanira Cepeda |
-| 360 | 50 | Yazz |
-| 361 | 50 | Donna Payne |
+| 358 | 50 | Smiley Clearpiece |
+| 359 | 50 | Slinky Party |
+| 360 | 50 | Teresa Yanira Cepeda |
+| 361 | 50 | Yazz |
 | 362 | 50 | Denell Sims |
 | 363 | 50 | Antoinette Jones |
-| 364 | 50 | Nisha Sunshine Jenkins |
-| 365 | 49 | Slinky Brickmatch |
-| 366 | 49 | LexiiSamayaa |
-| 367 | 49 | Speedy Stacky |
-| 368 | 49 | SnazzyIvy |
-| 369 | 49 | Tremaine Hiler |
+| 364 | 50 | Donna Payne |
+| 365 | 50 | Nisha Sunshine Jenkins |
+| 366 | 49 | Slinky Brickmatch |
+| 367 | 49 | LexiiSamayaa |
+| 368 | 49 | Speedy Stacky |
+| 369 | 49 | SnazzyIvy |
 | 370 | 49 | No_Other_Choice |
 | 371 | 49 | Brittany Fells |
 | 372 | 49 | Teisha Scott |
-| 373 | 48 | Slim Shedidthat |
-| 374 | 48 | Wild Out Nai |
-| 375 | 48 | Mommy Frank |
+| 373 | 48 | Wild Out Nai |
+| 374 | 48 | Mommy Frank |
+| 375 | 48 | Slim Shedidthat |
 | 376 | 48 | LoveLee |
 | 377 | 48 | Kahh |
 | 378 | 48 | Clever Fitblock |
