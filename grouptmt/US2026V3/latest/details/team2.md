@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 07:52:38 UTC
+# Standings for team2 as of 2026-06-06 07:53:16 UTC
 
 **Total Participants:** 1072
 
@@ -58,8 +58,8 @@
 | 50 | 660 | Julie Trede Amerson |
 | 51 | 629 | Dane Marko |
 | 52 | 619 | Marie Luciano |
-| 53 | 614 | Block Dog |
-| 54 | 604 | Hoppy Rotate |
+| 53 | 619 | Hoppy Rotate |
+| 54 | 614 | Block Dog |
 | 55 | 588 | Kellie Sharp Godfrey |
 | 56 | 572 | Dsabrina Maxey |
 | 57 | 553 | Jazzy Faller |
@@ -85,8 +85,8 @@
 | 77 | 400 | Smashanator |
 | 78 | 390 | La chulis |
 | 79 | 389 | Kimberly Cowan |
-| 80 | 374 | Mikki Torres |
-| 81 | 362 | Rose Schaffner-Kibler |
+| 80 | 375 | Rose Schaffner-Kibler |
+| 81 | 374 | Mikki Torres |
 | 82 | 354 | Branden Frankowski |
 | 83 | 345 | Smiley Dropper |
 | 84 | 342 | Tom Badgley |
@@ -488,10 +488,10 @@
 | 480 | 45 | Frisky Linkbuilder |
 | 481 | 45 | Brenda Shannon |
 | 482 | 45 | Madonna Ash |
-| 483 | 45 | Heather |
-| 484 | 45 | Stoney McMillion |
-| 485 | 44 | Roger Kirksey |
-| 486 | 44 | Ozge Akgun Tokat |
+| 483 | 45 | Ozge Akgun Tokat |
+| 484 | 45 | Heather |
+| 485 | 45 | Stoney McMillion |
+| 486 | 44 | Roger Kirksey |
 | 487 | 44 | Jessica Connot |
 | 488 | 44 | Kawana Nesbitt |
 | 489 | 43 | andee |
@@ -994,90 +994,90 @@
 | 986 | 9 | Sami Amato |
 | 987 | 9 | April Wright |
 | 988 | 9 | James Calhoun |
-| 989 | 9 | KS Hengesbach |
-| 990 | 9 | Giggly Spinblock |
-| 991 | 9 | Kylee Pruitt |
-| 992 | 9 | Paula Smith |
-| 993 | 9 | Snazzy Cascadezone |
-| 994 | 9 | Michelle Powers Chattaway |
-| 995 | 9 | Lindsey Butler |
-| 996 | 9 | Michele Stewart |
-| 997 | 9 | Tabitha Porter |
-| 998 | 9 | Jeff Mullins |
-| 999 | 9 | Deanna Mc |
-| 1000 | 9 | Kristi K Milner |
-| 1001 | 9 | Darla Ragsdale |
-| 1002 | 9 | Phyllis DiCristo |
-| 1003 | 9 | Aaron Jones |
-| 1004 | 8 | Alexis Abner |
-| 1005 | 8 | Erica |
-| 1006 | 8 | Jenna Thorn |
-| 1007 | 8 | Jumpy Twistslam |
-| 1008 | 8 | Jennifer Leigh |
-| 1009 | 8 | SueEllen Hawkins |
-| 1010 | 8 | Chill Wipegrid |
-| 1011 | 8 | Funky Slide |
-| 1012 | 8 | Tina Doyens Munis |
-| 1013 | 8 | Loony Ziggy |
-| 1014 | 8 | Andrea Rawson |
-| 1015 | 8 | Vicke Patterson |
-| 1016 | 8 | Jackie Hayslip |
-| 1017 | 8 | Jana Campbell |
-| 1018 | 8 | Sarah Elizabeth Foret |
-| 1019 | 7 | sampson |
+| 989 | 9 | Darla Ragsdale |
+| 990 | 9 | Deanna Mc |
+| 991 | 9 | Jeff Mullins |
+| 992 | 9 | KS Hengesbach |
+| 993 | 9 | Tabitha Porter |
+| 994 | 9 | Paula Smith |
+| 995 | 9 | Giggly Spinblock |
+| 996 | 9 | Kylee Pruitt |
+| 997 | 9 | Snazzy Cascadezone |
+| 998 | 9 | Michelle Powers Chattaway |
+| 999 | 9 | Aaron Jones |
+| 1000 | 9 | Lindsey Butler |
+| 1001 | 9 | Michele Stewart |
+| 1002 | 9 | Kristi K Milner |
+| 1003 | 9 | Phyllis DiCristo |
+| 1004 | 8 | Sarah Elizabeth Foret |
+| 1005 | 8 | Jackie Hayslip |
+| 1006 | 8 | Funky Slide |
+| 1007 | 8 | Jana Campbell |
+| 1008 | 8 | Loony Ziggy |
+| 1009 | 8 | Jumpy Twistslam |
+| 1010 | 8 | Andrea Rawson |
+| 1011 | 8 | Tina Doyens Munis |
+| 1012 | 8 | SueEllen Hawkins |
+| 1013 | 8 | Erica |
+| 1014 | 8 | Alexis Abner |
+| 1015 | 8 | Jennifer Leigh |
+| 1016 | 8 | Chill Wipegrid |
+| 1017 | 8 | Vicke Patterson |
+| 1018 | 8 | Jenna Thorn |
+| 1019 | 7 | Mike Honcho |
 | 1020 | 7 | Nicole Slimick |
-| 1021 | 7 | Jason Janssen |
-| 1022 | 7 | Maja Hauff |
-| 1023 | 7 | Happy Curvebuilder |
-| 1024 | 7 | Shane Peavey |
-| 1025 | 7 | Laura Fagans |
-| 1026 | 7 | Kelli Pazour |
-| 1027 | 7 | Carol Whited Loza |
-| 1028 | 7 | michael |
-| 1029 | 7 | Aguilar Rita |
-| 1030 | 7 | Mighty Piecebuilder |
-| 1031 | 7 | Elizabeth Elaine Coursey |
-| 1032 | 7 | Teloney Humphrey |
-| 1033 | 7 | Sam Blinn |
-| 1034 | 7 | Mike Honcho |
-| 1035 | 7 | Liz Wilkerson |
-| 1036 | 7 | Clever Balancefit |
-| 1037 | 7 | Flashy Cascadeclear |
+| 1021 | 7 | Brenda Ohaus Facher |
+| 1022 | 7 | Clever Balancefit |
+| 1023 | 7 | Teloney Humphrey |
+| 1024 | 7 | sampson |
+| 1025 | 7 | Maja Hauff |
+| 1026 | 7 | Flashy Cascadeclear |
+| 1027 | 7 | Happy Curvebuilder |
+| 1028 | 7 | Kelli Pazour |
+| 1029 | 7 | michael |
+| 1030 | 7 | Beth |
+| 1031 | 7 | Laura Fagans |
+| 1032 | 7 | Jason Janssen |
+| 1033 | 7 | Elizabeth Elaine Coursey |
+| 1034 | 7 | Sam Blinn |
+| 1035 | 7 | Carol Whited Loza |
+| 1036 | 7 | Liz Wilkerson |
+| 1037 | 7 | Mighty Piecebuilder |
 | 1038 | 7 | Dandy Wiper |
-| 1039 | 7 | Brenda Ohaus Facher |
-| 1040 | 7 | Beth |
+| 1039 | 7 | Shane Peavey |
+| 1040 | 7 | Aguilar Rita |
 | 1041 | 7 | Daring Blockline |
-| 1042 | 6 | Cozy Curve |
-| 1043 | 6 | Shelby Wilson |
-| 1044 | 6 | Trena Sapp |
-| 1045 | 6 | Partin |
-| 1046 | 6 | Celeste Samuels |
-| 1047 | 6 | Lou Sassole |
-| 1048 | 6 | Fluffypuffin |
-| 1049 | 6 | Lori Yelvington Cain |
-| 1050 | 6 | Trisha Farley |
-| 1051 | 6 | Michele Choate |
-| 1052 | 6 | Emily |
-| 1053 | 6 | Lavenda Nettles |
-| 1054 | 6 | Snappy Fitblock |
-| 1055 | 6 | Jessie |
-| 1056 | 6 | Amanda Knox |
-| 1057 | 6 | FabTeach |
-| 1058 | 6 | Cheeky Dashpiece |
-| 1059 | 5 | Danh Nguyen |
-| 1060 | 5 | Agnes Gable |
-| 1061 | 5 | Deborah Fowler |
-| 1062 | 5 | Nolife |
-| 1063 | 5 | Jennifer Roper Stanley |
-| 1064 | 5 | Flynn Flibble |
-| 1065 | 5 | Nerdy Base |
-| 1066 | 5 | Brittany Weatherspoon |
-| 1067 | 5 | Bennie Farbo |
-| 1068 | 5 | Mercedes Lowery |
+| 1042 | 6 | Shelby Wilson |
+| 1043 | 6 | Partin |
+| 1044 | 6 | Celeste Samuels |
+| 1045 | 6 | Cozy Curve |
+| 1046 | 6 | Trisha Farley |
+| 1047 | 6 | Jessie |
+| 1048 | 6 | Emily |
+| 1049 | 6 | Cheeky Dashpiece |
+| 1050 | 6 | Lavenda Nettles |
+| 1051 | 6 | Fluffypuffin |
+| 1052 | 6 | Lori Yelvington Cain |
+| 1053 | 6 | Lou Sassole |
+| 1054 | 6 | Trena Sapp |
+| 1055 | 6 | Michele Choate |
+| 1056 | 6 | Snappy Fitblock |
+| 1057 | 6 | Amanda Knox |
+| 1058 | 6 | FabTeach |
+| 1059 | 5 | Nerdy Base |
+| 1060 | 5 | Mercedes Lowery |
+| 1061 | 5 | Bennie Farbo |
+| 1062 | 5 | Jennifer Mauler Schmidt |
+| 1063 | 5 | Chirpy Towerer |
+| 1064 | 5 | Brittany Weatherspoon |
+| 1065 | 5 | Nolife |
+| 1066 | 5 | Jennifer Roper Stanley |
+| 1067 | 5 | Duck |
+| 1068 | 5 | Danh Nguyen |
 | 1069 | 5 | Crystal Poss |
-| 1070 | 5 | Jennifer Mauler Schmidt |
-| 1071 | 5 | Chirpy Towerer |
-| 1072 | 5 | Duck |
+| 1070 | 5 | Agnes Gable |
+| 1071 | 5 | Deborah Fowler |
+| 1072 | 5 | Flynn Flibble |
 
 ---
 *Standings created by tournaments datasource generation tool*
