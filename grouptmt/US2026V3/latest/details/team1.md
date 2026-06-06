@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 16:44:17 UTC
+# Standings for team1 as of 2026-06-06 16:44:39 UTC
 
 **Total Participants:** 1064
 
@@ -53,8 +53,8 @@
 | 45 | 842 | Chris Russell |
 | 46 | 782 | Jazzy Dashpiece |
 | 47 | 749 | Aviv Zehavi |
-| 48 | 734 | Charnay Peacock |
-| 49 | 719 | COSA303 |
+| 48 | 749 | COSA303 |
+| 49 | 734 | Charnay Peacock |
 | 50 | 701 | Lisa Müller |
 | 51 | 675 | Corey Cawthon |
 | 52 | 670 | Jaida King |

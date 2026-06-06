@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 16:44:17 UTC
+# Standings for team2 as of 2026-06-06 16:44:39 UTC
 
 **Total Participants:** 1258
 
@@ -199,56 +199,56 @@
 | 191 | 176 | Glitzy Base |
 | 192 | 175 | Lashanda Bertram |
 | 193 | 174 | Nettrainer |
-| 194 | 173 | Becca Marie |
-| 195 | 173 | Amie Marks |
+| 194 | 173 | Amie Marks |
+| 195 | 173 | Becca Marie |
 | 196 | 172 | Carolyn McNaughton |
 | 197 | 171 | Melissa Nash |
 | 198 | 170 | Harper |
 | 199 | 170 | phamous1 |
 | 200 | 169 | Sully |
-| 201 | 168 | Missy Renia |
+| 201 | 169 | Patria Osuoha |
 | 202 | 168 | Spicy Risegrid |
-| 203 | 168 | Danielle Lyons |
-| 204 | 165 | Olivia Jefferson |
-| 205 | 164 | Jerry L Morales |
-| 206 | 164 | Cara Rivera |
-| 207 | 163 | Zany Cascader |
-| 208 | 162 | Nutty Curver |
+| 203 | 168 | Missy Renia |
+| 204 | 168 | Danielle Lyons |
+| 205 | 165 | Olivia Jefferson |
+| 206 | 164 | Jerry L Morales |
+| 207 | 164 | Cara Rivera |
+| 208 | 163 | Zany Cascader |
 | 209 | 162 | Laverne Ellis Blair |
-| 210 | 161 | Santara Ferguson |
-| 211 | 160 | snowwol |
+| 210 | 162 | Nutty Curver |
+| 211 | 161 | Santara Ferguson |
 | 212 | 160 | Loopy Dropper |
-| 213 | 159 | Amy Taylor Pomerenk |
-| 214 | 158 | Kim Hunt |
-| 215 | 155 | Zany Blockclear |
-| 216 | 152 | Ashley Billiot Rhodes |
-| 217 | 152 | SEH |
-| 218 | 151 | Karly Moore |
+| 213 | 160 | snowwol |
+| 214 | 159 | Amy Taylor Pomerenk |
+| 215 | 158 | Kim Hunt |
+| 216 | 155 | Zany Blockclear |
+| 217 | 152 | Ashley Billiot Rhodes |
+| 218 | 152 | SEH |
 | 219 | 151 | Marilyn Mendoza |
-| 220 | 150 | Rick |
-| 221 | 149 | Jenni LeBlanc |
-| 222 | 148 | Curly Windbreaker |
-| 223 | 147 | Gill |
-| 224 | 147 | Tina Marie |
-| 225 | 146 | Chill Line |
-| 226 | 145 | Amanda Priddy |
-| 227 | 142 | Cortney Coleman |
-| 228 | 142 | Ratchet |
+| 220 | 151 | Karly Moore |
+| 221 | 150 | Rick |
+| 222 | 149 | Jenni LeBlanc |
+| 223 | 148 | Curly Windbreaker |
+| 224 | 147 | Gill |
+| 225 | 147 | Tina Marie |
+| 226 | 146 | Chill Line |
+| 227 | 145 | Amanda Priddy |
+| 228 | 142 | Cortney Coleman |
 | 229 | 142 | Zany Wrecker |
-| 230 | 141 | Cheery Towerzone |
+| 230 | 142 | Ratchet |
 | 231 | 141 | Melisa |
-| 232 | 141 | Patria Osuoha |
-| 233 | 140 | Iesha Cupil |
-| 234 | 140 | Billie Jensen |
+| 232 | 141 | Cheery Towerzone |
+| 233 | 140 | Billie Jensen |
+| 234 | 140 | Brittney Williams |
 | 235 | 140 | Sharon L Brazelton |
-| 236 | 140 | Brittney Williams |
-| 237 | 139 | Jessica Christine |
-| 238 | 139 | Breeana Bennett |
-| 239 | 139 | Bengy Lead |
-| 240 | 139 | Victoria Pale |
+| 236 | 140 | Iesha Cupil |
+| 237 | 139 | Bengy Lead |
+| 238 | 139 | Victoria Pale |
+| 239 | 139 | Jessica Christine |
+| 240 | 139 | Breeana Bennett |
 | 241 | 138 | NickandJess Reynolds |
-| 242 | 137 | Lindsey Ford |
-| 243 | 137 | Liseth Vasquez |
+| 242 | 137 | Liseth Vasquez |
+| 243 | 137 | Lindsey Ford |
 | 244 | 136 | Lauren Maxwell |
 | 245 | 136 | Jamie Fenyus |
 | 246 | 135 | Amanda L Strong |
