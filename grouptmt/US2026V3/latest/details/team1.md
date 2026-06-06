@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 17:44:17 UTC
+# Standings for team1 as of 2026-06-06 17:44:39 UTC
 
 **Total Participants:** 1088
 
@@ -9,7 +9,7 @@
 | 1 | 19000 | Ariel |
 | 2 | 6150 | Songne Arif |
 | 3 | 5469 | Death by SnuSnu |
-| 4 | 5203 | Plucky Swipe |
+| 4 | 5282 | Plucky Swipe |
 | 5 | 5149 | Tracy Cohen |
 | 6 | 5140 | Cozy Edge |
 | 7 | 5000 | Tyeina Johnson |
@@ -977,72 +977,72 @@
 | 969 | 11 | Jayson |
 | 970 | 11 | Giddy Twistslam |
 | 971 | 11 | Twisty Tilebuilder |
-| 972 | 10 | Omar Dotray |
+| 972 | 10 | Tea |
 | 973 | 10 | Tynetta Scott |
 | 974 | 10 | Damien Fonseca |
-| 975 | 10 | Tip318 |
-| 976 | 10 | OneBuke FollowMe |
+| 975 | 10 | Daring Riserfit |
+| 976 | 10 | Tip318 |
 | 977 | 10 | Megan Payette |
 | 978 | 10 | Hasty Brickzone |
-| 979 | 10 | Blaze |
+| 979 | 10 | OneBuke FollowMe |
 | 980 | 10 | Alisha Dawson Crouch |
-| 981 | 10 | Renee Marshall |
+| 981 | 10 | Blaze |
 | 982 | 10 | Meeee |
-| 983 | 10 | Happymama |
-| 984 | 10 | Tea |
-| 985 | 10 | Nope Young |
+| 983 | 10 | Omar Dotray |
+| 984 | 10 | Happymama |
+| 985 | 10 | Renee Marshall |
 | 986 | 10 | Yvonne Aggers |
-| 987 | 10 | Shawn Himes |
-| 988 | 10 | Marshall Davis |
-| 989 | 10 | Tranica Sterling |
-| 990 | 10 | Mark Steven Pichler |
-| 991 | 10 | Octavia Bsb Johnson |
-| 992 | 10 | Crystal Segura |
-| 993 | 10 | Daring Linkfall |
-| 994 | 10 | Anthony D Holmes |
-| 995 | 10 | Willard Junior |
-| 996 | 10 | Cornelius Neal |
-| 997 | 10 | Mayra Diaz |
-| 998 | 10 | Manda Pecora |
-| 999 | 10 | Boricua64 |
+| 987 | 10 | Nope Young |
+| 988 | 10 | Shawn Himes |
+| 989 | 10 | Marshall Davis |
+| 990 | 10 | Tranica Sterling |
+| 991 | 10 | Mark Steven Pichler |
+| 992 | 10 | Octavia Bsb Johnson |
+| 993 | 10 | Crystal Segura |
+| 994 | 10 | Daring Linkfall |
+| 995 | 10 | Wacky Riserpiece |
+| 996 | 10 | Papi |
+| 997 | 10 | Saucy Linkgrid |
+| 998 | 10 | Rieshelda Marie White |
+| 999 | 10 | Nikiya |
 | 1000 | 10 | Anntionette Sotire |
-| 1001 | 10 | Nikiya |
-| 1002 | 10 | Rieshelda Marie White |
-| 1003 | 10 | Saucy Linkgrid |
-| 1004 | 10 | Upt |
-| 1005 | 10 | Papi |
-| 1006 | 10 | Wacky Riserpiece |
-| 1007 | 9 | Brika Brika |
+| 1001 | 10 | Boricua64 |
+| 1002 | 10 | Manda Pecora |
+| 1003 | 10 | Cornelius Neal |
+| 1004 | 10 | Mayra Diaz |
+| 1005 | 10 | Anthony D Holmes |
+| 1006 | 10 | Upt |
+| 1007 | 10 | Willard Junior |
 | 1008 | 9 | Anthony T. Fults |
-| 1009 | 9 | Krystal Maynard |
-| 1010 | 9 | ummm |
-| 1011 | 9 | Yester |
-| 1012 | 9 | Clifford Petroske |
-| 1013 | 9 | Wacky Towerer |
-| 1014 | 9 | Tanesha Ga'sFinest Corbett |
-| 1015 | 9 | Mars |
-| 1016 | 9 | Jasmine Hariston-Estis |
-| 1017 | 9 | Dana |
-| 1018 | 9 | Noni |
-| 1019 | 9 | Sherry D Singleton |
-| 1020 | 9 | John Lovato |
-| 1021 | 9 | Catelyn Neal |
-| 1022 | 9 | Duckey |
-| 1023 | 9 | Shell Poke |
-| 1024 | 8 | jus_ry |
-| 1025 | 8 | Elizabeth Castro |
-| 1026 | 8 | Nicole Coko Thomas |
-| 1027 | 8 | Chill Tumbler |
-| 1028 | 8 | Macho Lewis |
-| 1029 | 8 | Chevonne Huggins |
-| 1030 | 8 | Teena K Macon |
-| 1031 | 8 | Frothy Matchpiece |
-| 1032 | 8 | Groovy Riseclear |
-| 1033 | 8 | Chinkey Overit |
-| 1034 | 8 | Daring Riserfit |
+| 1009 | 9 | Mars |
+| 1010 | 9 | Jasmine Hariston-Estis |
+| 1011 | 9 | Dana |
+| 1012 | 9 | Noni |
+| 1013 | 9 | Tanesha Ga'sFinest Corbett |
+| 1014 | 9 | Sherry D Singleton |
+| 1015 | 9 | ummm |
+| 1016 | 9 | Krystal Maynard |
+| 1017 | 9 | Yester |
+| 1018 | 9 | Clifford Petroske |
+| 1019 | 9 | Brika Brika |
+| 1020 | 9 | Wacky Towerer |
+| 1021 | 9 | Duckey |
+| 1022 | 9 | Shell Poke |
+| 1023 | 9 | Catelyn Neal |
+| 1024 | 9 | John Lovato |
+| 1025 | 8 | Chill Tumbler |
+| 1026 | 8 | Chevonne Huggins |
+| 1027 | 8 | jus_ry |
+| 1028 | 8 | Nicole Coko Thomas |
+| 1029 | 8 | Macho Lewis |
+| 1030 | 8 | Elizabeth Castro |
+| 1031 | 8 | Nerdy Twistline |
+| 1032 | 8 | Frothy Matchpiece |
+| 1033 | 8 | Groovy Riseclear |
+| 1034 | 8 | Chinkey Overit |
 | 1035 | 8 | Ferocity |
 | 1036 | 8 | Rixo Blax |
-| 1037 | 8 | Nerdy Twistline |
+| 1037 | 8 | Teena K Macon |
 | 1038 | 8 | Teresa Bean |
 | 1039 | 8 | Shawna Passwater |
 | 1040 | 8 | Nissa |
