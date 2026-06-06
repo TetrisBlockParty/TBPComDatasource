@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 09:50:17 UTC
+# Standings for team2 as of 2026-06-06 09:50:38 UTC
 
 **Total Participants:** 1101
 
@@ -825,99 +825,99 @@
 | 817 | 20 | Ava |
 | 818 | 20 | Valerie Roberts |
 | 819 | 20 | Shalice Jacobs |
-| 820 | 20 | Annie Hebdon |
-| 821 | 20 | SaraAnn Gray Philbrick |
+| 820 | 20 | Cool cee |
+| 821 | 20 | Dana Wilson |
 | 822 | 20 | Chris |
-| 823 | 20 | Tiffany Hassanshahi |
-| 824 | 20 | Cool cee |
-| 825 | 20 | Dana Wilson |
-| 826 | 20 | Quirky Piecegrid |
-| 827 | 19 | Jessica Rose Engebretson |
+| 823 | 20 | SaraAnn Gray Philbrick |
+| 824 | 20 | Annie Hebdon |
+| 825 | 20 | Quirky Piecegrid |
+| 826 | 20 | Tiffany Hassanshahi |
+| 827 | 19 | Leigh Wilkerson |
 | 828 | 19 | Kim Powers |
-| 829 | 19 | Armordguy |
-| 830 | 19 | Leigh Wilkerson |
-| 831 | 19 | Firebone |
-| 832 | 19 | Sassafras Cass |
-| 833 | 19 | Dolly |
-| 834 | 19 | Teloney Humphrey |
-| 835 | 19 | Donutz |
-| 836 | 19 | Kathryn |
-| 837 | 19 | jme |
-| 838 | 19 | BrendaLee NolanBos |
-| 839 | 19 | Twisty Snapmatch |
-| 840 | 19 | Snazzy Racker |
-| 841 | 19 | Chirpy Grid |
-| 842 | 19 | Cool Climber |
-| 843 | 19 | Kati Eckstein |
-| 844 | 19 | Stacey Peters |
-| 845 | 18 | Chummy Faller |
-| 846 | 18 | Alison Welsh |
-| 847 | 18 | Cyrus Ramirez |
-| 848 | 18 | Jolly Twisterfit |
-| 849 | 18 | Kris Lea |
-| 850 | 18 | Mark Havens |
-| 851 | 18 | Kaitlyn Hurst |
-| 852 | 18 | Elizabeth Kline |
-| 853 | 18 | Tiffany Heether |
-| 854 | 18 | Taran Evans |
-| 855 | 18 | Andrea Rawson |
-| 856 | 18 | Glitzy Stackbuilder |
-| 857 | 18 | Cuca Perez |
-| 858 | 18 | Debbie Embry |
-| 859 | 17 | Rosie |
+| 829 | 19 | Dolly |
+| 830 | 19 | Teloney Humphrey |
+| 831 | 19 | Armordguy |
+| 832 | 19 | Jessica Rose Engebretson |
+| 833 | 19 | Mario Hillman |
+| 834 | 19 | Firebone |
+| 835 | 19 | jme |
+| 836 | 19 | Cool Climber |
+| 837 | 19 | Snazzy Racker |
+| 838 | 19 | Kati Eckstein |
+| 839 | 19 | Stacey Peters |
+| 840 | 19 | Sassafras Cass |
+| 841 | 19 | Donutz |
+| 842 | 19 | Chirpy Grid |
+| 843 | 19 | Twisty Snapmatch |
+| 844 | 19 | BrendaLee NolanBos |
+| 845 | 19 | Kathryn |
+| 846 | 18 | Tiffany Heether |
+| 847 | 18 | Mark Havens |
+| 848 | 18 | Kris Lea |
+| 849 | 18 | Alison Welsh |
+| 850 | 18 | Andrea Rawson |
+| 851 | 18 | Chummy Faller |
+| 852 | 18 | Kaitlyn Hurst |
+| 853 | 18 | Cyrus Ramirez |
+| 854 | 18 | Debbie Embry |
+| 855 | 18 | Cuca Perez |
+| 856 | 18 | Jolly Twisterfit |
+| 857 | 18 | Elizabeth Kline |
+| 858 | 18 | Glitzy Stackbuilder |
+| 859 | 18 | Taran Evans |
 | 860 | 17 | Dena Cudjo |
-| 861 | 17 | Snappy Blockbuilder |
-| 862 | 17 | Staci Carl |
-| 863 | 17 | Debra May |
-| 864 | 17 | Shaylee Haltiner |
-| 865 | 17 | Kelly Christine Trimmer |
-| 866 | 17 | Smiley Edgefit |
-| 867 | 16 | Mouh Ity |
-| 868 | 16 | Jeremy Monceaux |
-| 869 | 16 | Elliot |
-| 870 | 16 | Amanda L Strong |
-| 871 | 16 | Matthew Black |
-| 872 | 16 | Renee Craig |
-| 873 | 16 | Natasha Schatte |
-| 874 | 16 | Brandy McCleary |
-| 875 | 16 | Peppy Piececlear |
-| 876 | 16 | LK |
-| 877 | 16 | Sassy Twistbuilder |
-| 878 | 16 | Clever Gridzone |
-| 879 | 16 | Theresa Huddleston |
-| 880 | 16 | Kaylyn Wickham |
-| 881 | 15 | Christina Whitehead |
+| 861 | 17 | Staci Carl |
+| 862 | 17 | Snappy Blockbuilder |
+| 863 | 17 | Shaylee Haltiner |
+| 864 | 17 | Kelly Christine Trimmer |
+| 865 | 17 | Smiley Edgefit |
+| 866 | 17 | Debra May |
+| 867 | 17 | Rosie |
+| 868 | 16 | Natasha Schatte |
+| 869 | 16 | Renee Craig |
+| 870 | 16 | Elliot |
+| 871 | 16 | Amanda L Strong |
+| 872 | 16 | Kaylyn Wickham |
+| 873 | 16 | Jeremy Monceaux |
+| 874 | 16 | Matthew Black |
+| 875 | 16 | Brandy McCleary |
+| 876 | 16 | Peppy Piececlear |
+| 877 | 16 | LK |
+| 878 | 16 | Sassy Twistbuilder |
+| 879 | 16 | Clever Gridzone |
+| 880 | 16 | Theresa Huddleston |
+| 881 | 16 | Mouh Ity |
 | 882 | 15 | Tina |
-| 883 | 15 | Christine Ann Eras |
-| 884 | 15 | Adrian Alvarez |
-| 885 | 15 | Monee Stronger |
-| 886 | 15 | Connie McCoy |
-| 887 | 15 | Shannie |
-| 888 | 15 | Crafty Slice |
-| 889 | 15 | Daring Pivotfall |
-| 890 | 15 | Linda Jeanne Knop |
-| 891 | 15 | Timone907 |
-| 892 | 15 | Twisty Patternblock |
-| 893 | 15 | YAKO |
-| 894 | 15 | Cheery Tilefall |
+| 883 | 15 | Adrian Alvarez |
+| 884 | 15 | Monee Stronger |
+| 885 | 15 | Christina Whitehead |
+| 886 | 15 | Christine Ann Eras |
+| 887 | 15 | Connie McCoy |
+| 888 | 15 | Shannie |
+| 889 | 15 | Mee Maw |
+| 890 | 15 | Twisty Patternblock |
+| 891 | 15 | YAKO |
+| 892 | 15 | Cheery Tilefall |
+| 893 | 15 | Timone907 |
+| 894 | 15 | Linda Jeanne Knop |
 | 895 | 15 | Melissa Clogher White |
 | 896 | 15 | Mandeee |
-| 897 | 15 | Fran Gerebics |
-| 898 | 15 | Mee Maw |
+| 897 | 15 | Daring Pivotfall |
+| 898 | 15 | Fran Gerebics |
 | 899 | 15 | sally |
 | 900 | 15 | Jacqueline Leigh Zuzinec |
 | 901 | 15 | Samantha |
 | 902 | 15 | Loopy Zone |
 | 903 | 15 | Spicy Snapclear |
-| 904 | 15 | Julie Vargas |
-| 905 | 15 | Lisa Marie |
-| 906 | 15 | Mario Hillman |
-| 907 | 15 | Poppy Slice |
-| 908 | 14 | ReiRei |
-| 909 | 14 | Jenny |
-| 910 | 14 | Witty Riser |
-| 911 | 14 | Symmy Norton |
-| 912 | 14 | Poppy Zonepiece |
+| 904 | 15 | Poppy Slice |
+| 905 | 15 | Julie Vargas |
+| 906 | 15 | Lisa Marie |
+| 907 | 15 | Crafty Slice |
+| 908 | 14 | Poppy Zonepiece |
+| 909 | 14 | Witty Riser |
+| 910 | 14 | Jenny |
+| 911 | 14 | ReiRei |
+| 912 | 14 | Symmy Norton |
 | 913 | 14 | Christopher Pulley |
 | 914 | 14 | COWBOY |
 | 915 | 14 | Buffy Diane Blake |
