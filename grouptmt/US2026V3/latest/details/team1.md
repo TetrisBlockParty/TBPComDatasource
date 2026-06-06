@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 01:58:38 UTC
+# Standings for team1 as of 2026-06-06 01:59:15 UTC
 
 **Total Participants:** 703
 
@@ -29,15 +29,15 @@
 | 21 | 674 | Holly Jolly |
 | 22 | 650 | Hunter Rayborn |
 | 23 | 634 | Charnay Peacock |
-| 24 | 580 | Janet Cooke |
-| 25 | 576 | Ashley Espeut |
-| 26 | 562 | Jon Gathers |
+| 24 | 622 | Jon Gathers |
+| 25 | 580 | Janet Cooke |
+| 26 | 576 | Ashley Espeut |
 | 27 | 540 | Kellie Hall |
 | 28 | 510 | Jennifer To |
 | 29 | 482 | Cj Gorman |
-| 30 | 445 | JoJo |
-| 31 | 438 | Ryan Meilleur |
-| 32 | 423 | Janine Hunter |
+| 30 | 449 | Janine Hunter |
+| 31 | 445 | JoJo |
+| 32 | 438 | Ryan Meilleur |
 | 33 | 415 | Corey Cawthon |
 | 34 | 411 | Ivana Schmidt |
 | 35 | 393 | Lisa Müller |
