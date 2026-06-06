@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 22:04:18 UTC
+# Standings for team2 as of 2026-06-06 22:04:39 UTC
 
 **Total Participants:** 1400
 
@@ -10,7 +10,7 @@
 | 2 | 11700 | Mochi |
 | 3 | 10480 | Puce guide 9156 |
 | 4 | 9434 | Jason Wood |
-| 5 | 8396 | Crystalin Heath Lewis |
+| 5 | 8744 | Crystalin Heath Lewis |
 | 6 | 7687 | Lacey Nolting |
 | 7 | 6976 | A.j. Langley |
 | 8 | 6900 | Mocha |
@@ -218,20 +218,20 @@
 | 210 | 200 | Chipper Stackbuilder |
 | 211 | 200 | August Christy Lathrop |
 | 212 | 200 | Norma Ortiz |
-| 213 | 200 | Physhie |
-| 214 | 200 | Sarah Grundisch |
+| 213 | 200 | Sarah Grundisch |
+| 214 | 200 | Physhie |
 | 215 | 200 | Kelly Vedder |
 | 216 | 199 | Amber Cogdill |
-| 217 | 195 | Bb |
-| 218 | 195 | Samantha Carman |
-| 219 | 195 | Karly Moore |
-| 220 | 194 | Mookshake |
-| 221 | 192 | Nathan Walker |
-| 222 | 192 | Greta Warden |
-| 223 | 191 | Jessica Christine |
-| 224 | 191 | Kathy Strickland |
-| 225 | 188 | Ray Daisy |
-| 226 | 188 | Larry Cross |
+| 217 | 199 | Larry Cross |
+| 218 | 195 | Bb |
+| 219 | 195 | Samantha Carman |
+| 220 | 195 | Karly Moore |
+| 221 | 194 | Mookshake |
+| 222 | 192 | Nathan Walker |
+| 223 | 192 | Greta Warden |
+| 224 | 191 | Jessica Christine |
+| 225 | 191 | Kathy Strickland |
+| 226 | 188 | Ray Daisy |
 | 227 | 187 | Laura Melton |
 | 228 | 183 | Laverne Ellis Blair |
 | 229 | 181 | Michelle Maulsby |
@@ -252,18 +252,18 @@
 | 244 | 170 | Loopy Dropper |
 | 245 | 169 | Angie Bishop |
 | 246 | 169 | Jerry L Morales |
-| 247 | 168 | Missy Renia |
-| 248 | 168 | Danielle Lyons |
-| 249 | 168 | Spicy Risegrid |
-| 250 | 168 | Victoria Pale |
+| 247 | 168 | Victoria Pale |
+| 248 | 168 | Spicy Risegrid |
+| 249 | 168 | Missy Renia |
+| 250 | 168 | Danielle Lyons |
 | 251 | 165 | Chasity Simpson |
 | 252 | 164 | Avie Lou |
 | 253 | 164 | Cara Rivera |
 | 254 | 163 | Kim Hunt |
-| 255 | 163 | Zany Cascader |
-| 256 | 163 | Santara Ferguson |
-| 257 | 162 | SEH |
-| 258 | 162 | Nutty Curver |
+| 255 | 163 | Santara Ferguson |
+| 256 | 163 | Zany Cascader |
+| 257 | 162 | Nutty Curver |
+| 258 | 162 | SEH |
 | 259 | 160 | Elizabeth Cornelius |
 | 260 | 159 | Amanda Priddy |
 | 261 | 157 | Liseth Vasquez |

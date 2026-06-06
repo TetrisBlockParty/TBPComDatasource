@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 22:04:18 UTC
+# Standings for team4 as of 2026-06-06 22:04:39 UTC
 
 **Total Participants:** 1167
 
@@ -79,58 +79,58 @@
 | 71 | 562 | Sweet Stacker |
 | 72 | 546 | Lupe Alburquerque |
 | 73 | 546 | Bubbly Twistpiece |
-| 74 | 530 | Jonathan Hewitt |
-| 75 | 521 | Kitsune Bi |
-| 76 | 520 | Dandy Clearfit |
-| 77 | 510 | Krysten Danielle Richard |
+| 74 | 540 | Loony Rotater |
+| 75 | 530 | Jonathan Hewitt |
+| 76 | 521 | Kitsune Bi |
+| 77 | 520 | Dandy Clearfit |
 | 78 | 510 | Nick Graber |
-| 79 | 502 | Dheeh Robles |
-| 80 | 500 | Michele |
-| 81 | 479 | Caitlyn Wang |
-| 82 | 477 | Malik Thompson |
-| 83 | 467 | vag1974 |
-| 84 | 461 | Cranky Towerbuilder |
-| 85 | 461 | Kayla Fuentes |
-| 86 | 440 | Bryan DjMagnum Evans |
+| 79 | 510 | Krysten Danielle Richard |
+| 80 | 502 | Dheeh Robles |
+| 81 | 500 | Michele |
+| 82 | 479 | Caitlyn Wang |
+| 83 | 477 | Malik Thompson |
+| 84 | 467 | vag1974 |
+| 85 | 461 | Cranky Towerbuilder |
+| 86 | 461 | Kayla Fuentes |
 | 87 | 440 | Jewelz |
-| 88 | 400 | DexterDobbins |
-| 89 | 400 | Sassy Column |
-| 90 | 400 | Amber Doyle |
-| 91 | 399 | iiPurgeV2 |
-| 92 | 398 | Kay |
-| 93 | 395 | Melissa WC |
-| 94 | 387 | Real Talk Vibes |
-| 95 | 383 | Crissy Hoffman |
-| 96 | 378 | Lisa Garcia |
-| 97 | 376 | Jason Garnatz |
-| 98 | 374 | Daryn Elliott |
-| 99 | 373 | Tanita Jobe |
-| 100 | 373 | Boldy Rumbler |
-| 101 | 364 | Jackie Jackson |
-| 102 | 360 | Gigglycat |
-| 103 | 359 | BCO22 |
-| 104 | 353 | Hen |
-| 105 | 349 | GeorgeButts |
-| 106 | 348 | Cherry |
-| 107 | 347 | Nikki Fuller Johnson |
-| 108 | 346 | Alexis Cor |
-| 109 | 343 | Cinta Marie |
-| 110 | 336 | Trice Stevenson |
-| 111 | 332 | RotatedWrongAgain |
-| 112 | 324 | Annastaissia Todd |
-| 113 | 318 | Gorica Prusina |
-| 114 | 317 | J |
-| 115 | 309 | Kim |
-| 116 | 303 | Debby Ruof |
-| 117 | 300 | Hasty Builder |
-| 118 | 300 | 2 kool |
-| 119 | 300 | Genag |
-| 120 | 296 | Andrew Dang |
-| 121 | 295 | Thomasena Eady Reid |
-| 122 | 294 | Jesse Olive |
-| 123 | 292 | Katie Martin |
-| 124 | 281 | Margie Thomas |
-| 125 | 281 | Loony Rotater |
+| 88 | 440 | Bryan DjMagnum Evans |
+| 89 | 400 | Amber Doyle |
+| 90 | 400 | Sassy Column |
+| 91 | 400 | DexterDobbins |
+| 92 | 399 | iiPurgeV2 |
+| 93 | 398 | Kay |
+| 94 | 395 | Melissa WC |
+| 95 | 387 | Real Talk Vibes |
+| 96 | 383 | Crissy Hoffman |
+| 97 | 378 | Lisa Garcia |
+| 98 | 376 | Jason Garnatz |
+| 99 | 374 | Daryn Elliott |
+| 100 | 373 | Tanita Jobe |
+| 101 | 373 | Boldy Rumbler |
+| 102 | 364 | Jackie Jackson |
+| 103 | 360 | Gigglycat |
+| 104 | 359 | BCO22 |
+| 105 | 353 | Hen |
+| 106 | 349 | GeorgeButts |
+| 107 | 348 | Cherry |
+| 108 | 347 | Nikki Fuller Johnson |
+| 109 | 346 | Alexis Cor |
+| 110 | 343 | Cinta Marie |
+| 111 | 336 | Trice Stevenson |
+| 112 | 332 | RotatedWrongAgain |
+| 113 | 324 | Annastaissia Todd |
+| 114 | 318 | Gorica Prusina |
+| 115 | 317 | J |
+| 116 | 309 | Kim |
+| 117 | 303 | Debby Ruof |
+| 118 | 300 | Hasty Builder |
+| 119 | 300 | 2 kool |
+| 120 | 300 | Genag |
+| 121 | 296 | Andrew Dang |
+| 122 | 295 | Thomasena Eady Reid |
+| 123 | 294 | Jesse Olive |
+| 124 | 292 | Katie Martin |
+| 125 | 281 | Margie Thomas |
 | 126 | 275 | Taz |
 | 127 | 272 | Sarah Berry Stevens |
 | 128 | 268 | Jojo Ann |
@@ -141,8 +141,8 @@
 | 133 | 254 | adrian |
 | 134 | 253 | Danielle Mitchell |
 | 135 | 249 | shawna |
-| 136 | 245 | Giggly Tilt |
-| 137 | 245 | QueenLi86 |
+| 136 | 245 | QueenLi86 |
+| 137 | 245 | Giggly Tilt |
 | 138 | 235 | Hwanger Land |
 | 139 | 233 | Sisi RedVelvet Reneè |
 | 140 | 233 | Christy Beezley-Forbush |
@@ -791,54 +791,54 @@
 | 783 | 33 | Tracy Ann Frederick |
 | 784 | 33 | Donna Howard |
 | 785 | 33 | Sherri Lorent |
-| 786 | 32 | Cranky Twisterfit |
+| 786 | 32 | Happy Strikerpiece |
 | 787 | 32 | Freddy-B |
 | 788 | 32 | Renzo Tonini |
-| 789 | 32 | Happy Strikerpiece |
-| 790 | 32 | Hyper Snaplink |
-| 791 | 31 | Monkey |
-| 792 | 31 | Amanda Serrano Ruffner |
-| 793 | 31 | Cflixer |
-| 794 | 31 | Breezy Brickline |
-| 795 | 31 | Natalie Ohrtman Strand |
-| 796 | 31 | Swanky Matchfit |
-| 797 | 31 | Blessedmom865 |
-| 798 | 31 | Breezy Blockzone |
-| 799 | 30 | Funky Rollzone |
-| 800 | 30 | Peezy_419 |
-| 801 | 30 | Spicy Holder |
-| 802 | 30 | Snippy Splitter |
-| 803 | 30 | Krushie |
-| 804 | 30 | Britney Kitora |
-| 805 | 30 | Deanne Silverdahl |
-| 806 | 30 | Robert Crow |
-| 807 | 30 | Lala |
-| 808 | 30 | Miguel Teixeira |
-| 809 | 30 | CrashOutCarla |
-| 810 | 30 | Loopy Wipeout |
-| 811 | 30 | Tati |
-| 812 | 30 | MamaBear3 |
-| 813 | 30 | Lmg |
-| 814 | 30 | Jesus Fuentes III |
-| 815 | 30 | Ash Gribble |
-| 816 | 30 | Ali Garcia |
-| 817 | 30 | Kimberly Nkwopara |
-| 818 | 30 | Lateasha Wildman |
-| 819 | 30 | Shirley Tow Middaugh |
+| 789 | 32 | Cranky Twisterfit |
+| 790 | 32 | Boldy Clicky |
+| 791 | 32 | Hyper Snaplink |
+| 792 | 31 | Monkey |
+| 793 | 31 | Natalie Ohrtman Strand |
+| 794 | 31 | Cflixer |
+| 795 | 31 | Swanky Matchfit |
+| 796 | 31 | Blessedmom865 |
+| 797 | 31 | Breezy Blockzone |
+| 798 | 31 | Breezy Brickline |
+| 799 | 31 | Amanda Serrano Ruffner |
+| 800 | 30 | Funky Rollzone |
+| 801 | 30 | Britney Kitora |
+| 802 | 30 | Krushie |
+| 803 | 30 | Snippy Splitter |
+| 804 | 30 | Spicy Holder |
+| 805 | 30 | Peezy_419 |
+| 806 | 30 | Loopy Wipeout |
+| 807 | 30 | Deanne Silverdahl |
+| 808 | 30 | Robert Crow |
+| 809 | 30 | Lala |
+| 810 | 30 | Miguel Teixeira |
+| 811 | 30 | CrashOutCarla |
+| 812 | 30 | Tati |
+| 813 | 30 | MamaBear3 |
+| 814 | 30 | Lmg |
+| 815 | 30 | Jesus Fuentes III |
+| 816 | 30 | Ash Gribble |
+| 817 | 30 | Ali Garcia |
+| 818 | 30 | Kimberly Nkwopara |
+| 819 | 30 | Lateasha Wildman |
 | 820 | 30 | Janna Bruss |
 | 821 | 30 | Clever Fallzone |
-| 822 | 30 | Jennie |
-| 823 | 29 | Crafty Linkfall |
-| 824 | 29 | Epic Dashfit |
-| 825 | 29 | Funky Twistpiece |
-| 826 | 29 | Kelley Shoop |
-| 827 | 29 | Boldy Clicky |
+| 822 | 30 | Shirley Tow Middaugh |
+| 823 | 30 | Jennie |
+| 824 | 29 | Crafty Linkfall |
+| 825 | 29 | Epic Dashfit |
+| 826 | 29 | Funky Twistpiece |
+| 827 | 29 | Kelley Shoop |
 | 828 | 29 | rick mase |
 | 829 | 29 | Kaash Brxtt |
 | 830 | 29 | Rhonda Dowling |
 | 831 | 29 | Matthew Wilcox |
-| 832 | 29 | Mrs.J2013 |
-| 833 | 29 | Slinky Snapfit |
+| 832 | 29 | Slinky Snapfit |
+| 833 | 29 | Mrs.J2013 |
 | 834 | 28 | Snappy Slice |
 | 835 | 28 | Leslee Bentley DeLong |
 | 836 | 28 | Brandi Gray |

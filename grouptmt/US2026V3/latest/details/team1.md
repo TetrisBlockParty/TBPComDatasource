@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 22:04:18 UTC
+# Standings for team1 as of 2026-06-06 22:04:39 UTC
 
 **Total Participants:** 1182
 
@@ -10,7 +10,7 @@
 | 2 | 7302 | Charlie Roehm |
 | 3 | 7000 | Kalynn Parks |
 | 4 | 6466 | Cozy Edge |
-| 5 | 6179 | Death by SnuSnu |
+| 5 | 6379 | Death by SnuSnu |
 | 6 | 6150 | Songne Arif |
 | 7 | 6141 | Charnay Peacock |
 | 8 | 5890 | Dyane Leah Ware |
@@ -36,8 +36,8 @@
 | 28 | 1445 | Erika Windom |
 | 29 | 1420 | Janet Cooke |
 | 30 | 1414 | COSA303 |
-| 31 | 1350 | Cool Bridger |
-| 32 | 1313 | Jolly Dropzone |
+| 31 | 1413 | Jolly Dropzone |
+| 32 | 1350 | Cool Bridger |
 | 33 | 1242 | Jacoby E Fleming |
 | 34 | 1160 | Daylene Johannes |
 | 35 | 1086 | Ryan Meilleur |
@@ -293,7 +293,7 @@
 | 285 | 114 | LAhoneybun82 |
 | 286 | 112 | GamerQueenDS |
 | 287 | 111 | Lesley Brunkus Cianfaglione |
-| 288 | 110 | Steve Reno |
+| 288 | 111 | Steve Reno |
 | 289 | 110 | Chandler Magee |
 | 290 | 110 | Slinky Party |
 | 291 | 110 | Nate Myers |
