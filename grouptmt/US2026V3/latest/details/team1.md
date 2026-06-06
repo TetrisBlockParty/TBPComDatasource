@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 10:22:40 UTC
+# Standings for team1 as of 2026-06-06 10:23:15 UTC
 
 **Total Participants:** 957
 
@@ -196,24 +196,24 @@
 | 188 | 118 | Hasty Pivoty |
 | 189 | 114 | pooh |
 | 190 | 113 | Rachel Zimmerman |
-| 191 | 112 | Bre Poston |
-| 192 | 112 | GamerQueenDS |
-| 193 | 111 | Lesley Brunkus Cianfaglione |
-| 194 | 111 | Shalena Marie Humphrey |
-| 195 | 110 | Atlantalindi |
-| 196 | 109 | Tamika Fisher |
-| 197 | 108 | Kimberly Linares Hernandez |
-| 198 | 106 | Matthieu Pistone |
-| 199 | 105 | Latisha Fairley |
+| 191 | 112 | GamerQueenDS |
+| 192 | 112 | Bre Poston |
+| 193 | 112 | Moomoo |
+| 194 | 111 | Lesley Brunkus Cianfaglione |
+| 195 | 111 | Shalena Marie Humphrey |
+| 196 | 110 | Atlantalindi |
+| 197 | 109 | Tamika Fisher |
+| 198 | 108 | Kimberly Linares Hernandez |
+| 199 | 106 | Matthieu Pistone |
 | 200 | 105 | Angela R Wilson |
 | 201 | 105 | Katrina Ramey |
 | 202 | 105 | Ebony Waynes-robinson |
-| 203 | 105 | LaShaun Stinson |
-| 204 | 104 | Ahvae Lee |
+| 203 | 105 | Latisha Fairley |
+| 204 | 105 | LaShaun Stinson |
 | 205 | 104 | Frisky Fall |
-| 206 | 104 | Brittnay Wright |
-| 207 | 103 | Kelvin Cook |
-| 208 | 102 | Moomoo |
+| 206 | 104 | Ahvae Lee |
+| 207 | 104 | Brittnay Wright |
+| 208 | 103 | Kelvin Cook |
 | 209 | 101 | Boldy Liner |
 | 210 | 100 | Leavon Smith |
 | 211 | 100 | Char |
@@ -225,8 +225,8 @@
 | 217 | 96 | Yazz |
 | 218 | 96 | Melissa D. M. Hornsby |
 | 219 | 95 | Shiny Lift |
-| 220 | 95 | Nate Myers |
-| 221 | 95 | Joana Thompson |
+| 220 | 95 | Joana Thompson |
+| 221 | 95 | Nate Myers |
 | 222 | 94 | Cece Fowler |
 | 223 | 92 | Quirky Fallgrid |
 | 224 | 92 | The DUBZ |
