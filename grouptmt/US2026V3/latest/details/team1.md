@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 09:05:15 UTC
+# Standings for team1 as of 2026-06-06 09:06:16 UTC
 
 **Total Participants:** 935
 
@@ -750,22 +750,22 @@
 | 742 | 17 | Rikki Moran |
 | 743 | 17 | Vivian Bunnell Myers |
 | 744 | 17 | MrsDontPlay |
-| 745 | 17 | Solomon Valarie |
+| 745 | 17 | Andre Simpson |
 | 746 | 17 | Andre Rivera |
-| 747 | 17 | Jb Mzresilience |
-| 748 | 17 | Embracing Hair |
-| 749 | 16 | Tammy Collins |
-| 750 | 16 | Sha Anderson |
-| 751 | 16 | Krista McNair |
-| 752 | 16 | Stacey Kesteloot |
-| 753 | 16 | Twisty Dashy |
-| 754 | 16 | Dee-Dee Stewart |
-| 755 | 16 | Sunny Tumbler |
-| 756 | 16 | Symonne 'Monnie' Pierce |
-| 757 | 15 | Elaine Youmans |
-| 758 | 15 | Laura Long |
-| 759 | 15 | Spunky Strikerbuilder |
-| 760 | 15 | Andre Simpson |
+| 747 | 17 | Solomon Valarie |
+| 748 | 17 | Jb Mzresilience |
+| 749 | 17 | Embracing Hair |
+| 750 | 16 | Tammy Collins |
+| 751 | 16 | Sha Anderson |
+| 752 | 16 | Krista McNair |
+| 753 | 16 | Stacey Kesteloot |
+| 754 | 16 | Twisty Dashy |
+| 755 | 16 | Dee-Dee Stewart |
+| 756 | 16 | Sunny Tumbler |
+| 757 | 16 | Symonne 'Monnie' Pierce |
+| 758 | 15 | Elaine Youmans |
+| 759 | 15 | Laura Long |
+| 760 | 15 | Spunky Strikerbuilder |
 | 761 | 15 | Haley Bell |
 | 762 | 15 | BB |
 | 763 | 15 | Breezy Bouncer |
@@ -922,13 +922,13 @@
 | 914 | 6 | Daring Riserfit |
 | 915 | 6 | Nikkizz |
 | 916 | 6 | S.S |
-| 917 | 5 | Derek Beverly |
-| 918 | 5 | Zesty Clearer |
-| 919 | 5 | Stephanie Zuniga Tullock |
+| 917 | 5 | Chill Linkroll |
+| 918 | 5 | Derek Beverly |
+| 919 | 5 | Zesty Clearer |
 | 920 | 5 | Temeshia Brooks Washington |
 | 921 | 5 | the guy |
 | 922 | 5 | Marissa Sweet |
-| 923 | 5 | Chill Linkroll |
+| 923 | 5 | Stephanie Zuniga Tullock |
 | 924 | 5 | Hasty Brickzone |
 | 925 | 5 | Tito Divyn |
 | 926 | 5 | Kidgib5 |
