@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 06:24:16 UTC
+# Standings for team2 as of 2026-06-06 06:24:39 UTC
 
 **Total Participants:** 1035
 
@@ -416,42 +416,42 @@
 | 408 | 53 | Trisha Schneider |
 | 409 | 53 | Jessica Spivey Cooper |
 | 410 | 53 | Spicy Basepiece |
-| 411 | 52 | Rosalie Call Kehlenbeck |
+| 411 | 52 | Chipper Spinzone |
 | 412 | 52 | Kelly |
-| 413 | 52 | Chipper Spinzone |
-| 414 | 51 | Tashamonique Puckey |
-| 415 | 51 | Twisty Matchfit |
-| 416 | 51 | Amber-leigh Williams |
-| 417 | 51 | Loretta Crow |
-| 418 | 51 | Mama G |
-| 419 | 51 | Nicole Ashbaugh |
-| 420 | 51 | Dad |
-| 421 | 50 | Jennifer Wymer |
-| 422 | 50 | Teea Makensi Meyer |
-| 423 | 50 | Rachel Nilles |
-| 424 | 50 | MarioKarasovic |
+| 413 | 52 | Rosalie Call Kehlenbeck |
+| 414 | 51 | Dad |
+| 415 | 51 | Nicole Ashbaugh |
+| 416 | 51 | Mama G |
+| 417 | 51 | Amber Carpenter |
+| 418 | 51 | Amber-leigh Williams |
+| 419 | 51 | Twisty Matchfit |
+| 420 | 51 | Tashamonique Puckey |
+| 421 | 51 | Loretta Crow |
+| 422 | 50 | MarioKarasovic |
+| 423 | 50 | Teea Makensi Meyer |
+| 424 | 50 | Jennifer Wymer |
 | 425 | 50 | Whitt |
-| 426 | 50 | Charith Lorelle Watson |
-| 427 | 49 | Tammy Roth |
-| 428 | 49 | Hillary Frank |
-| 429 | 49 | rebel4lyfe |
-| 430 | 49 | Tetrismastrr |
-| 431 | 49 | Dayna Messer-Thelen |
-| 432 | 48 | Amber Carpenter |
-| 433 | 48 | Funky Blockmatch |
-| 434 | 48 | Joyce Galloway |
-| 435 | 48 | Tamara Whiteley |
-| 436 | 48 | Brian Little |
-| 437 | 48 | Krystle McCaslin |
-| 438 | 48 | Dizzy Dropzone |
-| 439 | 48 | Katelynn Hunt |
+| 426 | 50 | Rachel Nilles |
+| 427 | 50 | Charith Lorelle Watson |
+| 428 | 49 | Tammy Roth |
+| 429 | 49 | Hillary Frank |
+| 430 | 49 | rebel4lyfe |
+| 431 | 49 | Tetrismastrr |
+| 432 | 49 | Dayna Messer-Thelen |
+| 433 | 48 | Zaniya Brown |
+| 434 | 48 | Funky Blockmatch |
+| 435 | 48 | Joyce Galloway |
+| 436 | 48 | Tamara Whiteley |
+| 437 | 48 | Brian Little |
+| 438 | 48 | Krystle McCaslin |
+| 439 | 48 | Dizzy Dropzone |
 | 440 | 48 | TNGal |
 | 441 | 48 | Renee Siems |
-| 442 | 48 | Zaniya Brown |
-| 443 | 47 | Christina Reid |
-| 444 | 47 | BB |
-| 445 | 47 | Starvinmarvin |
-| 446 | 47 | Angela Hogan |
+| 442 | 48 | Katelynn Hunt |
+| 443 | 47 | Starvinmarvin |
+| 444 | 47 | Angela Hogan |
+| 445 | 47 | Christina Reid |
+| 446 | 47 | BB |
 | 447 | 46 | CATFISH |
 | 448 | 46 | Kristi Chestnut |
 | 449 | 46 | Cassandra Green |
@@ -947,85 +947,85 @@
 | 939 | 10 | Twisty Snapclear |
 | 940 | 10 | Theresa Marie |
 | 941 | 10 | Berta Hurley |
-| 942 | 10 | Pjrobinsonnn |
-| 943 | 10 | Joe Duffer |
-| 944 | 10 | TyShantelle |
-| 945 | 10 | Celeste Duet |
-| 946 | 10 | Michelle Edgin Tranbarger |
-| 947 | 10 | Leigh Wilkerson |
-| 948 | 10 | Miggy Gonzalez |
-| 949 | 10 | Clever Linkbuilder |
-| 950 | 10 | SarahandAaron Prim |
-| 951 | 10 | Laura Turner |
-| 952 | 10 | Donna Casey |
-| 953 | 9 | Lindsey Butler |
-| 954 | 9 | Phyllis DiCristo |
-| 955 | 9 | Michele Stewart |
-| 956 | 9 | Sami Amato |
-| 957 | 9 | Deanna Mc |
-| 958 | 9 | Jeff Mullins |
-| 959 | 9 | Tabitha Porter |
-| 960 | 9 | Gammawms |
-| 961 | 9 | James Calhoun |
-| 962 | 9 | Michelle Powers Chattaway |
-| 963 | 9 | Giggly Spinblock |
-| 964 | 9 | Paula Smith |
-| 965 | 9 | Darla Ragsdale |
-| 966 | 9 | Glowing Earthy Embers |
-| 967 | 9 | Kristi K Milner |
-| 968 | 9 | Kylee Pruitt |
-| 969 | 9 | Snazzy Cascadezone |
-| 970 | 9 | Aaron Jones |
-| 971 | 9 | April Wright |
-| 972 | 8 | Jenna Thorn |
+| 942 | 10 | TyShantelle |
+| 943 | 10 | Celeste Duet |
+| 944 | 10 | Miggy Gonzalez |
+| 945 | 10 | SarahandAaron Prim |
+| 946 | 10 | Donna Casey |
+| 947 | 10 | Laura Turner |
+| 948 | 10 | Clever Linkbuilder |
+| 949 | 10 | Leigh Wilkerson |
+| 950 | 10 | Michelle Edgin Tranbarger |
+| 951 | 10 | Joe Duffer |
+| 952 | 10 | Pjrobinsonnn |
+| 953 | 9 | Deanna Mc |
+| 954 | 9 | Jeff Mullins |
+| 955 | 9 | Sami Amato |
+| 956 | 9 | Michele Stewart |
+| 957 | 9 | Tabitha Porter |
+| 958 | 9 | James Calhoun |
+| 959 | 9 | Lindsey Butler |
+| 960 | 9 | Phyllis DiCristo |
+| 961 | 9 | Giggly Spinblock |
+| 962 | 9 | Gammawms |
+| 963 | 9 | Kylee Pruitt |
+| 964 | 9 | Darla Ragsdale |
+| 965 | 9 | Glowing Earthy Embers |
+| 966 | 9 | Kristi K Milner |
+| 967 | 9 | Snazzy Cascadezone |
+| 968 | 9 | Michelle Powers Chattaway |
+| 969 | 9 | Aaron Jones |
+| 970 | 9 | April Wright |
+| 971 | 9 | Paula Smith |
+| 972 | 8 | Jana Campbell |
 | 973 | 8 | Loony Ziggy |
 | 974 | 8 | Erica |
 | 975 | 8 | Chill Wipegrid |
 | 976 | 8 | Jennifer Leigh |
 | 977 | 8 | Sarah Elizabeth Foret |
-| 978 | 8 | Jana Campbell |
-| 979 | 8 | SueEllen Hawkins |
+| 978 | 8 | SueEllen Hawkins |
+| 979 | 8 | Jenna Thorn |
 | 980 | 8 | Funky Slide |
 | 981 | 8 | Jackie Hayslip |
 | 982 | 8 | Vicke Patterson |
-| 983 | 8 | Tina Doyens Munis |
-| 984 | 7 | Mike Honcho |
-| 985 | 7 | Kelli Pazour |
-| 986 | 7 | Flashy Cascadeclear |
+| 983 | 8 | Alexis Abner |
+| 984 | 8 | Tina Doyens Munis |
+| 985 | 7 | Clever Balancefit |
+| 986 | 7 | Carol Whited Loza |
 | 987 | 7 | Brenda Ohaus Facher |
-| 988 | 7 | Carol Whited Loza |
-| 989 | 7 | Clever Balancefit |
-| 990 | 7 | Beth |
-| 991 | 7 | Mighty Piecebuilder |
-| 992 | 7 | Elizabeth Elaine Coursey |
-| 993 | 7 | Liz Wilkerson |
-| 994 | 7 | Happy Curvebuilder |
-| 995 | 7 | Sam Blinn |
-| 996 | 7 | Aguilar Rita |
-| 997 | 7 | Daring Blockline |
-| 998 | 7 | Shane Peavey |
-| 999 | 7 | michael |
-| 1000 | 7 | sampson |
-| 1001 | 7 | Dandy Wiper |
-| 1002 | 6 | Jessie |
-| 1003 | 6 | Lou Sassole |
-| 1004 | 6 | Trisha Farley |
-| 1005 | 6 | Lavenda Nettles |
-| 1006 | 6 | Celeste Samuels |
-| 1007 | 6 | FabTeach |
-| 1008 | 6 | Amanda Knox |
-| 1009 | 6 | Alexis Abner |
-| 1010 | 6 | Kelly Christine Trimmer |
-| 1011 | 6 | Trena Sapp |
-| 1012 | 6 | Cozy Curve |
-| 1013 | 6 | Michele Choate |
-| 1014 | 6 | Shelby Wilson |
-| 1015 | 6 | Fluffypuffin |
-| 1016 | 6 | Partin |
-| 1017 | 6 | Lori Yelvington Cain |
-| 1018 | 6 | Cheeky Dashpiece |
-| 1019 | 6 | Emily |
-| 1020 | 6 | Snappy Fitblock |
+| 988 | 7 | Kelli Pazour |
+| 989 | 7 | Flashy Cascadeclear |
+| 990 | 7 | Mike Honcho |
+| 991 | 7 | Dandy Wiper |
+| 992 | 7 | Daring Blockline |
+| 993 | 7 | Beth |
+| 994 | 7 | Mighty Piecebuilder |
+| 995 | 7 | Elizabeth Elaine Coursey |
+| 996 | 7 | Liz Wilkerson |
+| 997 | 7 | Happy Curvebuilder |
+| 998 | 7 | Sam Blinn |
+| 999 | 7 | Aguilar Rita |
+| 1000 | 7 | Shane Peavey |
+| 1001 | 7 | michael |
+| 1002 | 7 | sampson |
+| 1003 | 6 | Emily |
+| 1004 | 6 | Kelly Christine Trimmer |
+| 1005 | 6 | FabTeach |
+| 1006 | 6 | Jessie |
+| 1007 | 6 | Trisha Farley |
+| 1008 | 6 | Lou Sassole |
+| 1009 | 6 | Snappy Fitblock |
+| 1010 | 6 | Lavenda Nettles |
+| 1011 | 6 | Celeste Samuels |
+| 1012 | 6 | Amanda Knox |
+| 1013 | 6 | Cheeky Dashpiece |
+| 1014 | 6 | Trena Sapp |
+| 1015 | 6 | Lori Yelvington Cain |
+| 1016 | 6 | Cozy Curve |
+| 1017 | 6 | Partin |
+| 1018 | 6 | Shelby Wilson |
+| 1019 | 6 | Michele Choate |
+| 1020 | 6 | Fluffypuffin |
 | 1021 | 5 | Deborah Fowler |
 | 1022 | 5 | Crystal Poss |
 | 1023 | 5 | Agnes Gable |
