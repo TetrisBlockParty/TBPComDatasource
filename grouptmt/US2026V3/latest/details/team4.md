@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 18:40:17 UTC
+# Standings for team4 as of 2026-06-06 18:40:40 UTC
 
 **Total Participants:** 1097
 
@@ -53,10 +53,10 @@
 | 45 | 711 | MysticMaven |
 | 46 | 699 | 626 |
 | 47 | 672 | Heather Preston |
-| 48 | 646 | Blayne Kole |
-| 49 | 645 | Jenn Fitzgerald |
-| 50 | 644 | Kelly Bernard |
-| 51 | 639 | Chummy Rollzone |
+| 48 | 649 | Chummy Rollzone |
+| 49 | 646 | Blayne Kole |
+| 50 | 645 | Jenn Fitzgerald |
+| 51 | 644 | Kelly Bernard |
 | 52 | 630 | Chaz Duncan |
 | 53 | 629 | Keesha Muro |
 | 54 | 628 | Victoria Ver |
