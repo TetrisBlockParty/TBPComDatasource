@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 00:16:39 UTC
+# Standings for team4 as of 2026-06-06 00:17:15 UTC
 
 **Total Participants:** 585
 
@@ -147,9 +147,9 @@
 | 139 | 80 | Krista Diaz |
 | 140 | 79 | Janae Harris |
 | 141 | 79 | Joyce Myers |
-| 142 | 78 | Tina Thomas |
-| 143 | 78 | Stef |
-| 144 | 78 | Courtney Niichole |
+| 142 | 79 | Courtney Niichole |
+| 143 | 78 | Tina Thomas |
+| 144 | 78 | Stef |
 | 145 | 77 | Loopy Clusterline |
 | 146 | 77 | Chirpy Link |
 | 147 | 76 | Jennifer Garcia |
@@ -353,41 +353,41 @@
 | 345 | 26 | Iforget |
 | 346 | 26 | Kevin Lyles |
 | 347 | 26 | Sonia Cordero-Martinez |
-| 348 | 25 | Meghan Etchells |
-| 349 | 25 | EJ Frazier |
-| 350 | 25 | ButterfliesRFree |
-| 351 | 25 | Missionary Meda |
-| 352 | 25 | Andrea Dre Lomeli |
-| 353 | 24 | Smiley Gridzone |
+| 348 | 25 | Missionary Meda |
+| 349 | 25 | ButterfliesRFree |
+| 350 | 25 | Andrea Dre Lomeli |
+| 351 | 25 | Meghan Etchells |
+| 352 | 25 | EJ Frazier |
+| 353 | 24 | Lana Tran |
 | 354 | 24 | Tony Clark |
-| 355 | 24 | Nancy McCalla Abercrombie |
-| 356 | 24 | Katiana Gonzalez |
-| 357 | 24 | Lana Tran |
-| 358 | 24 | Socorro Arredondo |
-| 359 | 24 | Spicy Peach |
-| 360 | 24 | Miwa |
-| 361 | 23 | Chonda OhanaMomma Michelle |
-| 362 | 23 | Sonya |
-| 363 | 23 | Silly Fallzone |
-| 364 | 23 | Anna Ryan |
-| 365 | 23 | Kristen Wallace |
+| 355 | 24 | Katiana Gonzalez |
+| 356 | 24 | Socorro Arredondo |
+| 357 | 24 | Smiley Gridzone |
+| 358 | 24 | Spicy Peach |
+| 359 | 24 | Miwa |
+| 360 | 24 | Nancy McCalla Abercrombie |
+| 361 | 23 | Genger |
+| 362 | 23 | Silly Fallzone |
+| 363 | 23 | Sonya |
+| 364 | 23 | Kristen Wallace |
+| 365 | 23 | Chonda OhanaMomma Michelle |
 | 366 | 23 | Kayla Haddenham |
-| 367 | 23 | Genger |
+| 367 | 23 | Anna Ryan |
 | 368 | 22 | Magda Lene |
-| 369 | 22 | ariel |
+| 369 | 22 | Dheeh Robles |
 | 370 | 22 | Breezy Wife |
 | 371 | 22 | Jonelle Jacobs |
 | 372 | 22 | Alex Dawn |
-| 373 | 21 | Swanky Matchfit |
-| 374 | 21 | SandyEva |
+| 373 | 22 | ariel |
+| 374 | 21 | Swanky Matchfit |
 | 375 | 21 | Jacqueline Wright |
 | 376 | 21 | LilithMoon |
-| 377 | 21 | Dheeh Robles |
-| 378 | 20 | Silly Risegrid |
-| 379 | 20 | Mexican130 |
-| 380 | 20 | Hasty Dropzone |
-| 381 | 20 | Tipsy Patternfit |
-| 382 | 20 | Natalie Ohrtman Strand |
+| 377 | 21 | SandyEva |
+| 378 | 20 | Hasty Dropzone |
+| 379 | 20 | Silly Risegrid |
+| 380 | 20 | Mexican130 |
+| 381 | 20 | Natalie Ohrtman Strand |
+| 382 | 20 | Tipsy Patternfit |
 | 383 | 20 | Jeremy Barry |
 | 384 | 20 | Ashley DuVall |
 | 385 | 20 | REPENT |
