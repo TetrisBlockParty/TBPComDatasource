@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 07:08:17 UTC
+# Standings for team4 as of 2026-06-06 07:08:39 UTC
 
 **Total Participants:** 869
 
@@ -135,8 +135,8 @@
 | 127 | 148 | Megan Vick |
 | 128 | 146 | Becky McCool |
 | 129 | 145 | Trice Stevenson |
-| 130 | 144 | Yesenia Castro Monreal |
-| 131 | 144 | gabs |
+| 130 | 144 | gabs |
+| 131 | 144 | Yesenia Castro Monreal |
 | 132 | 143 | Ashley Mcdonald |
 | 133 | 142 | Scamp Jones |
 | 134 | 141 | Jackie Polanco |
@@ -144,13 +144,13 @@
 | 136 | 137 | Devinlee Brown |
 | 137 | 134 | ariel |
 | 138 | 134 | Loony Rotater |
-| 139 | 133 | Shawntae Mccary |
-| 140 | 133 | Janet Sanfilippo Sullivan |
+| 139 | 133 | Janet Sanfilippo Sullivan |
+| 140 | 133 | Shawntae Mccary |
 | 141 | 132 | Spicy Chicken |
-| 142 | 129 | Ryan Paul Clark-Ramsey |
-| 143 | 129 | Lani |
+| 142 | 129 | Brainbabe |
+| 143 | 129 | Ryan Paul Clark-Ramsey |
 | 144 | 129 | Simone |
-| 145 | 129 | Brainbabe |
+| 145 | 129 | Lani |
 | 146 | 129 | Chilly Pivot |
 | 147 | 128 | Crystal Hammonds |
 | 148 | 127 | Tipsy Builderline |
@@ -243,10 +243,10 @@
 | 235 | 80 | Maurice DeJean |
 | 236 | 79 | Courtney Niichole |
 | 237 | 79 | Has2brat |
-| 238 | 79 | Joyce Myers |
-| 239 | 79 | Gean DeJesus |
-| 240 | 78 | Futrell Brent |
-| 241 | 78 | Kelly Howland |
+| 238 | 79 | Kelly Howland |
+| 239 | 79 | Joyce Myers |
+| 240 | 79 | Gean DeJesus |
+| 241 | 78 | Futrell Brent |
 | 242 | 78 | Stef |
 | 243 | 77 | Chirpy Link |
 | 244 | 77 | Lady |
