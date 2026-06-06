@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 11:10:38 UTC
+# Standings for team2 as of 2026-06-06 11:11:16 UTC
 
 **Total Participants:** 1109
 
@@ -821,74 +821,74 @@
 | 813 | 20 | Frothy Roll |
 | 814 | 20 | Chesney |
 | 815 | 20 | Tonya Templin Smith |
-| 816 | 20 | Boldy Patterner |
-| 817 | 20 | Kay Newcomb |
-| 818 | 20 | Stephania Edwards |
-| 819 | 20 | Bonita Alexander |
-| 820 | 20 | Valerie Roberts |
-| 821 | 20 | Chris |
-| 822 | 20 | Annie Hebdon |
-| 823 | 20 | Binska |
-| 824 | 20 | Sharilyn Jackson |
-| 825 | 20 | Dapper Pivotfall |
-| 826 | 20 | Adam Latin |
-| 827 | 20 | Rob Owens |
-| 828 | 20 | Patty Ann Hendrickson |
-| 829 | 20 | Newtwidebody |
-| 830 | 20 | Dustyn Sims |
-| 831 | 20 | Bigbb |
+| 816 | 20 | Mark Havens |
+| 817 | 20 | Boldy Patterner |
+| 818 | 20 | Kay Newcomb |
+| 819 | 20 | Stephania Edwards |
+| 820 | 20 | Bonita Alexander |
+| 821 | 20 | Valerie Roberts |
+| 822 | 20 | Chris |
+| 823 | 20 | Annie Hebdon |
+| 824 | 20 | Binska |
+| 825 | 20 | Sharilyn Jackson |
+| 826 | 20 | Dapper Pivotfall |
+| 827 | 20 | Adam Latin |
+| 828 | 20 | Rob Owens |
+| 829 | 20 | Patty Ann Hendrickson |
+| 830 | 20 | Newtwidebody |
+| 831 | 20 | Nanny t |
 | 832 | 20 | Lil G |
-| 833 | 20 | Nerdy Linebuilder |
-| 834 | 20 | Nanny t |
+| 833 | 20 | Bigbb |
+| 834 | 20 | Dustyn Sims |
 | 835 | 20 | Danyell Flood-Morning |
 | 836 | 20 | Cool Balancer |
 | 837 | 20 | Julie Alexander Sykes |
-| 838 | 19 | Firebone |
-| 839 | 19 | BrendaLee NolanBos |
-| 840 | 19 | Twisty Snapmatch |
+| 838 | 20 | Nerdy Linebuilder |
+| 839 | 19 | Teloney Humphrey |
+| 840 | 19 | Firebone |
 | 841 | 19 | Kathryn |
-| 842 | 19 | Sassafras Cass |
-| 843 | 19 | Kati Eckstein |
-| 844 | 19 | jme |
-| 845 | 19 | Cool Climber |
-| 846 | 19 | Teloney Humphrey |
-| 847 | 19 | Donutz |
-| 848 | 19 | Dolly |
-| 849 | 19 | Kim Powers |
+| 842 | 19 | Stacey Peters |
+| 843 | 19 | Donutz |
+| 844 | 19 | Dolly |
+| 845 | 19 | Armordguy |
+| 846 | 19 | Sassafras Cass |
+| 847 | 19 | Kati Eckstein |
+| 848 | 19 | jme |
+| 849 | 19 | Cool Climber |
 | 850 | 19 | Snazzy Racker |
-| 851 | 19 | Armordguy |
-| 852 | 19 | Jessica Rose Engebretson |
+| 851 | 19 | Twisty Snapmatch |
+| 852 | 19 | Kim Powers |
 | 853 | 19 | Chirpy Grid |
-| 854 | 19 | Stacey Peters |
-| 855 | 19 | Leigh Wilkerson |
-| 856 | 19 | Mario Hillman |
-| 857 | 18 | Taran Evans |
-| 858 | 18 | Elizabeth Kline |
-| 859 | 18 | Tiffany Heether |
-| 860 | 18 | Glitzy Stackbuilder |
-| 861 | 18 | Chummy Faller |
-| 862 | 18 | Alison Welsh |
-| 863 | 18 | Jolly Twisterfit |
-| 864 | 18 | Cyrus Ramirez |
-| 865 | 18 | Mark Havens |
-| 866 | 18 | Debbie Embry |
+| 854 | 19 | Jessica Rose Engebretson |
+| 855 | 19 | Mario Hillman |
+| 856 | 19 | BrendaLee NolanBos |
+| 857 | 19 | Leigh Wilkerson |
+| 858 | 18 | Tiffany Heether |
+| 859 | 18 | Glitzy Stackbuilder |
+| 860 | 18 | Chummy Faller |
+| 861 | 18 | Jolly Twisterfit |
+| 862 | 18 | Cyrus Ramirez |
+| 863 | 18 | Alison Welsh |
+| 864 | 18 | Kris Lea |
+| 865 | 18 | Taran Evans |
+| 866 | 18 | Elizabeth Kline |
 | 867 | 18 | Cuca Perez |
-| 868 | 18 | Kris Lea |
-| 869 | 17 | Rosie |
-| 870 | 17 | Shaylee Haltiner |
-| 871 | 17 | Debra May |
-| 872 | 17 | Kelly Christine Trimmer |
-| 873 | 17 | Smiley Edgefit |
-| 874 | 17 | Staci Carl |
-| 875 | 17 | Snappy Blockbuilder |
+| 868 | 18 | Debbie Embry |
+| 869 | 17 | Smiley Edgefit |
+| 870 | 17 | Snappy Blockbuilder |
+| 871 | 17 | Kelly Christine Trimmer |
+| 872 | 17 | Staci Carl |
+| 873 | 17 | Shaylee Haltiner |
+| 874 | 17 | Debra May |
+| 875 | 17 | Rosie |
 | 876 | 17 | Dena Cudjo |
-| 877 | 16 | Sassy Twistbuilder |
+| 877 | 16 | Jeremy Monceaux |
 | 878 | 16 | Clever Gridzone |
-| 879 | 16 | Peppy Piececlear |
-| 880 | 16 | Renee Craig |
-| 881 | 16 | LK |
-| 882 | 16 | Kaylyn Wickham |
-| 883 | 16 | Jeremy Monceaux |
+| 879 | 16 | Sassy Twistbuilder |
+| 880 | 16 | Kaylyn Wickham |
+| 881 | 16 | Peppy Piececlear |
+| 882 | 16 | LK |
+| 883 | 16 | Renee Craig |
 | 884 | 16 | Theresa Huddleston |
 | 885 | 16 | Mouh Ity |
 | 886 | 16 | Elliot |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 11:10:38 UTC
+# Standings for team1 as of 2026-06-06 11:11:16 UTC
 
 **Total Participants:** 964
 
@@ -50,8 +50,8 @@
 | 42 | 605 | JoJo |
 | 43 | 598 | Ivana Schmidt |
 | 44 | 580 | Janet Cooke |
-| 45 | 540 | Kellie Hall |
-| 46 | 535 | Corey Cawthon |
+| 45 | 575 | Corey Cawthon |
+| 46 | 540 | Kellie Hall |
 | 47 | 511 | Dizzy Dropper |
 | 48 | 502 | Tiana Moore |
 | 49 | 500 | Janine Hunter |
@@ -73,14 +73,14 @@
 | 65 | 380 | IamJust Neyamijah Washington Sr. |
 | 66 | 377 | AF Cruz |
 | 67 | 377 | JaszyBadd |
-| 68 | 371 | Shell Lewis |
-| 69 | 368 | Ottison Dianna |
-| 70 | 365 | Sarah Marie |
-| 71 | 363 | Voice |
-| 72 | 362 | Eric Mcgaughy |
-| 73 | 350 | Jazzy Dashpiece |
-| 74 | 344 | Kevin M. McGhee Jr |
-| 75 | 341 | D'Andra Stewart |
+| 68 | 371 | D'Andra Stewart |
+| 69 | 371 | Shell Lewis |
+| 70 | 368 | Ottison Dianna |
+| 71 | 365 | Sarah Marie |
+| 72 | 363 | Voice |
+| 73 | 362 | Eric Mcgaughy |
+| 74 | 350 | Jazzy Dashpiece |
+| 75 | 344 | Kevin M. McGhee Jr |
 | 76 | 334 | Christana Imjustbutton Stone |
 | 77 | 332 | Hyper Slamdrop |
 | 78 | 331 | Kimberly Hernandez |
