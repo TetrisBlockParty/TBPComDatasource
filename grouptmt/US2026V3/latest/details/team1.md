@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 20:11:17 UTC
+# Standings for team1 as of 2026-06-06 20:12:18 UTC
 
 **Total Participants:** 1142
 
@@ -62,19 +62,19 @@
 | 54 | 710 | Lisa Müller |
 | 55 | 689 | Jaida King |
 | 56 | 675 | Corey Cawthon |
-| 57 | 618 | Blockhead |
-| 58 | 605 | JoJo |
-| 59 | 598 | Ivana Schmidt |
-| 60 | 586 | Kellie Hall |
-| 61 | 560 | Eartha Brown |
+| 57 | 648 | Eartha Brown |
+| 58 | 618 | Blockhead |
+| 59 | 605 | JoJo |
+| 60 | 598 | Ivana Schmidt |
+| 61 | 586 | Kellie Hall |
 | 62 | 548 | Robyn Caldwell |
 | 63 | 541 | Andi McGreevy |
 | 64 | 540 | IamJust Neyamijah Washington Sr. |
 | 65 | 534 | JaszyBadd |
-| 66 | 527 | KenpachisGirl |
-| 67 | 527 | Kimberly Hernandez |
-| 68 | 511 | Abraham Espaillat |
-| 69 | 511 | Dizzy Dropper |
+| 66 | 527 | Kimberly Hernandez |
+| 67 | 527 | KenpachisGirl |
+| 68 | 511 | Dizzy Dropper |
+| 69 | 511 | Abraham Espaillat |
 | 70 | 506 | Court Court |
 | 71 | 502 | Tiana Moore |
 | 72 | 495 | Jaida De'Anne Cox |
@@ -84,28 +84,28 @@
 | 76 | 477 | Chenell Gillard |
 | 77 | 474 | Keeta Chickswit Scott |
 | 78 | 471 | D'Andra Stewart |
-| 79 | 454 | DaVonte' Cretter |
-| 80 | 448 | Ottison Dianna |
+| 79 | 455 | Angela R Wilson |
+| 80 | 454 | DaVonte' Cretter |
 | 81 | 448 | Chirpy Corner |
-| 82 | 444 | Kevin M. McGhee Jr |
-| 83 | 442 | Angela R Wilson |
+| 82 | 448 | Ottison Dianna |
+| 83 | 444 | Kevin M. McGhee Jr |
 | 84 | 439 | Asani CHumba |
-| 85 | 434 | Todd C. Clemens |
-| 86 | 434 | Gotcha |
+| 85 | 434 | Gotcha |
+| 86 | 434 | Todd C. Clemens |
 | 87 | 432 | She Higgy |
 | 88 | 432 | Gael Quintana |
 | 89 | 429 | Bre Maugh |
-| 90 | 421 | ing410 |
-| 91 | 401 | Shell Lewis |
-| 92 | 400 | Jessica Carter |
-| 93 | 394 | ELM |
+| 90 | 424 | MommaCia |
+| 91 | 421 | ing410 |
+| 92 | 401 | Shell Lewis |
+| 93 | 400 | Jessica Carter |
 | 94 | 394 | Big Tina |
-| 95 | 393 | Eric Mcgaughy |
-| 96 | 391 | Sarah Marie |
-| 97 | 389 | Voice |
-| 98 | 388 | SPNLover24 |
-| 99 | 387 | Novaa |
-| 100 | 382 | MommaCia |
+| 95 | 394 | ELM |
+| 96 | 393 | Eric Mcgaughy |
+| 97 | 391 | Sarah Marie |
+| 98 | 389 | Voice |
+| 99 | 388 | SPNLover24 |
+| 100 | 387 | Novaa |
 | 101 | 378 | Moomoo |
 | 102 | 377 | AF Cruz |
 | 103 | 374 | Lashawn Wallace |
@@ -132,8 +132,8 @@
 | 124 | 275 | Chris Sladoje |
 | 125 | 275 | Jawaun Daniels |
 | 126 | 274 | Tonya Lee Sanders |
-| 127 | 273 | Dee McCool |
-| 128 | 273 | MamaBear |
+| 127 | 273 | MamaBear |
+| 128 | 273 | Dee McCool |
 | 129 | 271 | Ashley MyBeauty Daniels |
 | 130 | 270 | Tamara N Lee |
 | 131 | 270 | Jo NewmindNewfocus Bell |
@@ -1131,23 +1131,23 @@
 | 1123 | 5 | EvaLynn NeCole |
 | 1124 | 5 | Temeshia Brooks Washington |
 | 1125 | 5 | Happy |
-| 1126 | 5 | rummy |
-| 1127 | 5 | Alonzo Kirkland |
-| 1128 | 5 | Zappy Clearfit |
-| 1129 | 5 | Tipsy Builderline |
-| 1130 | 5 | VERA DAME |
-| 1131 | 5 | Jennifer Moore |
-| 1132 | 5 | Tito Divyn |
-| 1133 | 5 | Derek Beverly |
-| 1134 | 5 | Joey Hoover |
-| 1135 | 5 | Angelique Thomas |
-| 1136 | 5 | the guy |
-| 1137 | 5 | Aanngie Aanngie |
-| 1138 | 5 | Rachael R Gull |
+| 1126 | 5 | Angelique Thomas |
+| 1127 | 5 | rummy |
+| 1128 | 5 | Alonzo Kirkland |
+| 1129 | 5 | Zappy Clearfit |
+| 1130 | 5 | Tipsy Builderline |
+| 1131 | 5 | VERA DAME |
+| 1132 | 5 | Jennifer Moore |
+| 1133 | 5 | Tito Divyn |
+| 1134 | 5 | Derek Beverly |
+| 1135 | 5 | Stephanie Zuniga Tullock |
+| 1136 | 5 | Joey Hoover |
+| 1137 | 5 | Marissa Sweet |
+| 1138 | 5 | Chill Linkroll |
 | 1139 | 5 | DRIFTER |
-| 1140 | 5 | Chill Linkroll |
-| 1141 | 5 | Marissa Sweet |
-| 1142 | 5 | Stephanie Zuniga Tullock |
+| 1140 | 5 | Rachael R Gull |
+| 1141 | 5 | Aanngie Aanngie |
+| 1142 | 5 | the guy |
 
 ---
 *Standings created by tournaments datasource generation tool*
