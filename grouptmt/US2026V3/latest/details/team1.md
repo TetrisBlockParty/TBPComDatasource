@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 14:41:16 UTC
+# Standings for team1 as of 2026-06-06 14:42:16 UTC
 
 **Total Participants:** 1024
 
@@ -17,8 +17,8 @@
 | 9 | 3411 | Charlie Roehm |
 | 10 | 3084 | Songne Arif |
 | 11 | 3071 | Plucky Swipe |
-| 12 | 3039 | Chummy Combo |
-| 13 | 3025 | Debbie Carswell |
+| 12 | 3045 | Debbie Carswell |
+| 13 | 3039 | Chummy Combo |
 | 14 | 2596 | Pdubbl3 |
 | 15 | 2415 | Yolanda McDonald |
 | 16 | 2321 | Chandler Spencer |
@@ -36,9 +36,9 @@
 | 28 | 1026 | Ryan Meilleur |
 | 29 | 1016 | Ashley Espeut |
 | 30 | 1002 | Markeeta Lipscomb |
-| 31 | 962 | Holly Jolly |
-| 32 | 958 | Juan Kandiss Escobedo Irwin |
-| 33 | 951 | Spicy Balancer |
+| 31 | 971 | Spicy Balancer |
+| 32 | 962 | Holly Jolly |
+| 33 | 958 | Juan Kandiss Escobedo Irwin |
 | 34 | 935 | Whitney Butler |
 | 35 | 933 | Cherry Rose |
 | 36 | 930 | Sanjuro |
@@ -115,11 +115,11 @@
 | 107 | 268 | Dee McCool |
 | 108 | 262 | Gael Quintana |
 | 109 | 261 | Ashley MyBeauty Daniels |
-| 110 | 257 | Mimi 1.0 |
-| 111 | 256 | Cortaz Lawrie |
-| 112 | 255 | Tamara N Lee |
-| 113 | 251 | Helen Smith |
-| 114 | 250 | Joey Albright |
+| 110 | 260 | Joey Albright |
+| 111 | 257 | Mimi 1.0 |
+| 112 | 256 | Cortaz Lawrie |
+| 113 | 255 | Tamara N Lee |
+| 114 | 251 | Helen Smith |
 | 115 | 246 | Alana Renee |
 | 116 | 244 | Jaida De'Anne Cox |
 | 117 | 240 | Rayya Kiser |
@@ -237,11 +237,11 @@
 | 229 | 112 | Tipsy Linkroll |
 | 230 | 112 | GamerQueenDS |
 | 231 | 111 | Lesley Brunkus Cianfaglione |
-| 232 | 110 | Atlantalindi |
-| 233 | 110 | Bubbly Piececlear |
-| 234 | 109 | Tamika Fisher |
-| 235 | 108 | Char |
-| 236 | 108 | Kimberly Linares Hernandez |
+| 232 | 111 | Kimberly Linares Hernandez |
+| 233 | 110 | Atlantalindi |
+| 234 | 110 | Bubbly Piececlear |
+| 235 | 109 | Tamika Fisher |
+| 236 | 108 | Char |
 | 237 | 106 | Mister Reid |
 | 238 | 106 | Matthieu Pistone |
 | 239 | 105 | Katrina Ramey |
@@ -979,29 +979,29 @@
 | 971 | 8 | Queen Baby 5 |
 | 972 | 8 | MsSassygee Boom |
 | 973 | 8 | Rixo Blax |
-| 974 | 8 | Teresa Bean |
-| 975 | 8 | Tiffany Jean Hinson |
-| 976 | 8 | Nerdy Twistline |
-| 977 | 8 | Chill Tumbler |
-| 978 | 7 | Teresa F. Campos Eaton |
-| 979 | 7 | Jhonny Maii |
-| 980 | 7 | Andrew Harris |
-| 981 | 7 | Alanna Breitenbach |
-| 982 | 7 | KingSlim82 |
-| 983 | 7 | Milfchaser530 |
-| 984 | 7 | whatever |
-| 985 | 7 | Deadra Graham |
-| 986 | 7 | Mary2 |
-| 987 | 7 | Zachary Sinclair |
-| 988 | 7 | Analesia Taylor |
-| 989 | 7 | Shane Brucewayne |
-| 990 | 6 | CK |
-| 991 | 6 | Frilly Riserbuilder |
-| 992 | 6 | NEM0228 |
-| 993 | 6 | Frances Davis |
-| 994 | 6 | Angela L Charles |
-| 995 | 6 | Desi Guerra |
-| 996 | 6 | Kidgib5 |
+| 974 | 8 | Kidgib5 |
+| 975 | 8 | Teresa Bean |
+| 976 | 8 | Tiffany Jean Hinson |
+| 977 | 8 | Nerdy Twistline |
+| 978 | 8 | Chill Tumbler |
+| 979 | 7 | Teresa F. Campos Eaton |
+| 980 | 7 | Alanna Breitenbach |
+| 981 | 7 | Jhonny Maii |
+| 982 | 7 | Andrew Harris |
+| 983 | 7 | KingSlim82 |
+| 984 | 7 | Milfchaser530 |
+| 985 | 7 | whatever |
+| 986 | 7 | Deadra Graham |
+| 987 | 7 | Mary2 |
+| 988 | 7 | Zachary Sinclair |
+| 989 | 7 | Analesia Taylor |
+| 990 | 7 | Shane Brucewayne |
+| 991 | 6 | CK |
+| 992 | 6 | Frilly Riserbuilder |
+| 993 | 6 | NEM0228 |
+| 994 | 6 | Frances Davis |
+| 995 | 6 | Angela L Charles |
+| 996 | 6 | Desi Guerra |
 | 997 | 6 | Jennifer Diamond |
 | 998 | 6 | Christopher Wallace |
 | 999 | 6 | Wu May |
