@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 18:14:39 UTC
+# Standings for team2 as of 2026-06-06 18:15:17 UTC
 
 **Total Participants:** 1303
 
@@ -36,8 +36,8 @@
 | 28 | 1957 | Lola C Davis |
 | 29 | 1906 | Jennifer Corder |
 | 30 | 1863 | Frisky Balanceblock |
-| 31 | 1800 | Quirky Catcher |
-| 32 | 1787 | Charles Varca |
+| 31 | 1807 | Charles Varca |
+| 32 | 1800 | Quirky Catcher |
 | 33 | 1744 | Alexia Reagan |
 | 34 | 1740 | Ashley Miller |
 | 35 | 1678 | Betty Barrett |
@@ -147,13 +147,13 @@
 | 139 | 280 | Patricia Carroll |
 | 140 | 280 | Snappy Combo |
 | 141 | 279 | Renee Freeman Jacobson |
-| 142 | 277 | Sarah Mccolgan |
-| 143 | 275 | Bubbly Strikerpiece |
-| 144 | 272 | Erin Thomas |
-| 145 | 272 | DayDreamer79 |
-| 146 | 269 | Ackerman 85 |
-| 147 | 262 | Cool Balancer |
-| 148 | 258 | Pooh |
+| 142 | 278 | Pooh |
+| 143 | 277 | Sarah Mccolgan |
+| 144 | 275 | Bubbly Strikerpiece |
+| 145 | 272 | Erin Thomas |
+| 146 | 272 | DayDreamer79 |
+| 147 | 269 | Ackerman 85 |
+| 148 | 262 | Cool Balancer |
 | 149 | 253 | Hilliary Beyer |
 | 150 | 251 | Angie Kowalsky Olson |
 | 151 | 250 | marsam |
@@ -955,64 +955,64 @@
 | 947 | 23 | Spicy Basepiece |
 | 948 | 23 | AshleyM |
 | 949 | 23 | Zaaear Pack |
-| 950 | 23 | Lisa Rose |
-| 951 | 23 | Mark Havens |
-| 952 | 22 | Josimarie Otero |
-| 953 | 22 | Pamela Gambrell |
-| 954 | 22 | MJLovesHer#OneMistake |
-| 955 | 22 | Ashley Diana |
-| 956 | 22 | Slinky Towerpiece |
-| 957 | 22 | James Calhoun |
-| 958 | 22 | Frothy Zonebuilder |
-| 959 | 22 | Brandy McCleary |
-| 960 | 22 | MoonLilly |
-| 961 | 22 | Tam |
-| 962 | 22 | April Elaine Messenger |
+| 950 | 23 | Leigh Wilkerson |
+| 951 | 23 | Lisa Rose |
+| 952 | 23 | Mark Havens |
+| 953 | 22 | April Elaine Messenger |
+| 954 | 22 | Pamela Gambrell |
+| 955 | 22 | MJLovesHer#OneMistake |
+| 956 | 22 | Ashley Diana |
+| 957 | 22 | Slinky Towerpiece |
+| 958 | 22 | James Calhoun |
+| 959 | 22 | Frothy Zonebuilder |
+| 960 | 22 | Brandy McCleary |
+| 961 | 22 | MoonLilly |
+| 962 | 22 | Tam |
 | 963 | 22 | Cary M. Fong |
 | 964 | 22 | Rachael Roberts |
 | 965 | 22 | Marii |
-| 966 | 22 | bigdog |
-| 967 | 21 | Fran Gerebics |
-| 968 | 21 | Lakeisha Ryder |
-| 969 | 21 | Daniel Cline |
-| 970 | 21 | Erica Abreu |
-| 971 | 21 | Mario Hillman |
-| 972 | 21 | Leigh Wilkerson |
+| 966 | 22 | Josimarie Otero |
+| 967 | 22 | bigdog |
+| 968 | 21 | Erica Abreu |
+| 969 | 21 | Fran Gerebics |
+| 970 | 21 | Lakeisha Ryder |
+| 971 | 21 | Daniel Cline |
+| 972 | 21 | Mario Hillman |
 | 973 | 21 | Chirpy Clearpiece |
 | 974 | 21 | Tina Thomason |
-| 975 | 21 | Kacey Bates |
-| 976 | 21 | Instak1ll |
-| 977 | 21 | Nicky Steigerwalt |
-| 978 | 21 | Maithan Conour |
+| 975 | 21 | Instak1ll |
+| 976 | 21 | Nicky Steigerwalt |
+| 977 | 21 | Maithan Conour |
+| 978 | 21 | Kacey Bates |
 | 979 | 20 | Devon |
 | 980 | 20 | Jessica Murphree |
-| 981 | 20 | Stephanie |
-| 982 | 20 | Roger Kee |
-| 983 | 20 | Danyell Flood-Morning |
-| 984 | 20 | Bigbb |
+| 981 | 20 | Nerdy Linebuilder |
+| 982 | 20 | Stephanie |
+| 983 | 20 | Roger Kee |
+| 984 | 20 | Danyell Flood-Morning |
 | 985 | 20 | Cranky Fit |
-| 986 | 20 | Alexis Abner |
-| 987 | 20 | Binska |
-| 988 | 20 | Cool Balancer |
+| 986 | 20 | Bigbb |
+| 987 | 20 | Alexis Abner |
+| 988 | 20 | Binska |
 | 989 | 20 | Poppy Zonepiece |
 | 990 | 20 | Denise Morehart |
 | 991 | 20 | Nicole Sides KrazyKoop |
 | 992 | 20 | Amanda Mason Scott |
 | 993 | 20 | Cool cee |
-| 994 | 20 | Tonya Templin Smith |
+| 994 | 20 | Alice Petterborg Barberich |
 | 995 | 20 | Valerie Roberts |
-| 996 | 20 | Ava |
-| 997 | 20 | Bouncy Snapmatch |
+| 996 | 20 | Bouncy Snapmatch |
+| 997 | 20 | Amanda Gann |
 | 998 | 20 | Edward Conyers |
 | 999 | 20 | Thomas Chris |
 | 1000 | 20 | Andrea Spinelli |
-| 1001 | 20 | Naomi Jaynes |
-| 1002 | 20 | Alice Petterborg Barberich |
+| 1001 | 20 | Ava |
+| 1002 | 20 | Naomi Jaynes |
 | 1003 | 20 | Spicy Snapclear |
-| 1004 | 20 | Bonita Alexander |
-| 1005 | 20 | Nerdy Linebuilder |
+| 1004 | 20 | Tonya Templin Smith |
+| 1005 | 20 | Bonita Alexander |
 | 1006 | 20 | Tasha Gilbert |
-| 1007 | 20 | Amanda Gann |
+| 1007 | 20 | Cool Balancer |
 | 1008 | 20 | Nerdy Spinfit |
 | 1009 | 20 | Annie Hebdon |
 | 1010 | 20 | Matt Solomon |
