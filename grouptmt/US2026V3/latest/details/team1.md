@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 12:38:37 UTC
+# Standings for team1 as of 2026-06-06 12:39:16 UTC
 
 **Total Participants:** 982
 
@@ -207,10 +207,10 @@
 | 199 | 118 | Hasty Pivoty |
 | 200 | 117 | 신재호 |
 | 201 | 116 | Kelvin Cook |
-| 202 | 115 | Kenny MrOnethousand Peck |
-| 203 | 114 | pooh |
-| 204 | 113 | Rachel Zimmerman |
-| 205 | 112 | Tanisha Taylor |
+| 202 | 115 | Tanisha Taylor |
+| 203 | 115 | Kenny MrOnethousand Peck |
+| 204 | 114 | pooh |
+| 205 | 113 | Rachel Zimmerman |
 | 206 | 112 | Bre Poston |
 | 207 | 112 | GamerQueenDS |
 | 208 | 111 | Lesley Brunkus Cianfaglione |
@@ -241,10 +241,10 @@
 | 233 | 95 | Shiny Lift |
 | 234 | 94 | Cece Fowler |
 | 235 | 93 | Rackemwillie34 |
-| 236 | 92 | Quirky Fallgrid |
-| 237 | 92 | Katherine Short |
-| 238 | 92 | The DUBZ |
-| 239 | 91 | Tosha Michelle |
+| 236 | 92 | Tosha Michelle |
+| 237 | 92 | Quirky Fallgrid |
+| 238 | 92 | Katherine Short |
+| 239 | 92 | The DUBZ |
 | 240 | 91 | Jack Vlasak |
 | 241 | 90 | Charlene Baltimore |
 | 242 | 89 | Phillip Vasquez |
