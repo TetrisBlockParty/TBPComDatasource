@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-06 08:58:16 UTC
+# Standings for team3 as of 2026-06-06 08:58:38 UTC
 
 **Total Participants:** 3327
 
@@ -717,45 +717,45 @@
 | 709 | 100 | Nathan Sealander |
 | 710 | 100 | Frisky Clearpiece |
 | 711 | 100 | Dandelion |
-| 712 | 100 | Sea Shell Chaser |
-| 713 | 100 | Sartorius |
-| 714 | 100 | Mayghann Moyer |
-| 715 | 100 | Leony Peña |
-| 716 | 99 | Kaythleen Lopez |
-| 717 | 99 | Megan Nevarez |
-| 718 | 99 | Janell Forrest |
-| 719 | 99 | Doccubus69 |
-| 720 | 99 | Zany Linkfall |
-| 721 | 98 | Basaba |
-| 722 | 98 | Katie A Straight |
-| 723 | 98 | Marc Anthony Reyes |
-| 724 | 98 | Cheeky Linebuilder |
+| 712 | 100 | Mayghann Moyer |
+| 713 | 100 | Sea Shell Chaser |
+| 714 | 100 | Sartorius |
+| 715 | 100 | Karina Cortes |
+| 716 | 100 | Leony Peña |
+| 717 | 99 | Kaythleen Lopez |
+| 718 | 99 | Megan Nevarez |
+| 719 | 99 | Janell Forrest |
+| 720 | 99 | Doccubus69 |
+| 721 | 99 | Zany Linkfall |
+| 722 | 98 | Basaba |
+| 723 | 98 | Katie A Straight |
+| 724 | 98 | Marc Anthony Reyes |
 | 725 | 98 | SteffXx |
-| 726 | 97 | Carlena Reed |
-| 727 | 97 | Lucy Loo |
-| 728 | 97 | Rodrick Smith |
+| 726 | 98 | Cheeky Linebuilder |
+| 727 | 97 | Carlena Reed |
+| 728 | 97 | Lucy Loo |
 | 729 | 97 | Kelli Clark |
-| 730 | 97 | Chipper Fallzone |
-| 731 | 97 | Tina Russell |
-| 732 | 97 | Aleece Arnold-Abbisso |
-| 733 | 97 | Kit Allen |
-| 734 | 97 | Max Kennedy Safier |
-| 735 | 96 | Wacky Blockclear |
-| 736 | 96 | Erin Masterton |
-| 737 | 96 | Zappy Breaker |
-| 738 | 96 | Caroline Melton |
-| 739 | 96 | Karen Bowen |
-| 740 | 96 | Dustin L Prashaw |
-| 741 | 96 | Christi Hulet |
-| 742 | 96 | Victor Hernandez |
-| 743 | 96 | Valerie Morairty |
-| 744 | 95 | Courtney Marie Taylor |
+| 730 | 97 | Rodrick Smith |
+| 731 | 97 | Chipper Fallzone |
+| 732 | 97 | Tina Russell |
+| 733 | 97 | Aleece Arnold-Abbisso |
+| 734 | 97 | Kit Allen |
+| 735 | 97 | Max Kennedy Safier |
+| 736 | 96 | Wacky Blockclear |
+| 737 | 96 | Erin Masterton |
+| 738 | 96 | Zappy Breaker |
+| 739 | 96 | Caroline Melton |
+| 740 | 96 | Karen Bowen |
+| 741 | 96 | Dustin L Prashaw |
+| 742 | 96 | Christi Hulet |
+| 743 | 96 | Victor Hernandez |
+| 744 | 96 | Valerie Morairty |
 | 745 | 95 | Chummy Dropzone |
-| 746 | 95 | Mutta Guttz |
-| 747 | 94 | Teek |
-| 748 | 94 | Robert Morse |
-| 749 | 94 | Crissy Scafiro |
-| 750 | 94 | Karina Cortes |
+| 746 | 95 | Courtney Marie Taylor |
+| 747 | 95 | Mutta Guttz |
+| 748 | 94 | Teek |
+| 749 | 94 | Robert Morse |
+| 750 | 94 | Crissy Scafiro |
 | 751 | 94 | Alexis Kramer-Hermanson |
 | 752 | 93 | Erin Raboin |
 | 753 | 93 | Alicia Marie |
@@ -763,13 +763,13 @@
 | 755 | 92 | RumpleForeskin |
 | 756 | 92 | Carol Bath |
 | 757 | 92 | Nya Bamzels |
-| 758 | 91 | Marvin Mack |
-| 759 | 91 | Krista Rae |
+| 758 | 91 | Krista Rae |
+| 759 | 91 | Marvin Mack |
 | 760 | 91 | Irma Suniga |
-| 761 | 91 | Amanda Hugo |
-| 762 | 91 | Nhi Banh Kamel |
-| 763 | 91 | Andrew Dixon |
-| 764 | 91 | Kait |
+| 761 | 91 | Kait |
+| 762 | 91 | Amanda Hugo |
+| 763 | 91 | Nhi Banh Kamel |
+| 764 | 91 | Andrew Dixon |
 | 765 | 90 | LadyFrey |
 | 766 | 90 | Dee Perry |
 | 767 | 90 | Sylvester Jenkins Jr. |

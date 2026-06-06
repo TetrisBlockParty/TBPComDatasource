@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 08:58:16 UTC
+# Standings for team4 as of 2026-06-06 08:58:38 UTC
 
 **Total Participants:** 902
 
@@ -699,66 +699,66 @@
 | 691 | 19 | Marisela Alvarado |
 | 692 | 19 | Dru Lui |
 | 693 | 19 | Cheeky Fallzone |
-| 694 | 19 | Chabetta |
+| 694 | 19 | Tammy Lasseigne |
 | 695 | 19 | LandO |
-| 696 | 19 | Tammy Lasseigne |
-| 697 | 18 | Kimberly Ann |
-| 698 | 18 | Happy Strikerpiece |
-| 699 | 18 | Jamie Legeness |
-| 700 | 18 | FUNBAT |
-| 701 | 18 | Emily Lowe |
-| 702 | 18 | chuck |
-| 703 | 18 | Poppy Glider |
-| 704 | 18 | Joshua Franklin |
-| 705 | 18 | Cauntay Youngking Williams |
-| 706 | 18 | Frothy Pivotfall |
-| 707 | 18 | Tiffany Taylor |
-| 708 | 18 | Angel Boges |
-| 709 | 18 | Giggy Blockpiece |
-| 710 | 18 | Shirley Tow Middaugh |
-| 711 | 18 | Stacia Marie |
-| 712 | 18 | Chelle Williams |
-| 713 | 18 | Dewy |
-| 714 | 18 | Dawn Ferrin |
-| 715 | 18 | Jen Roe |
-| 716 | 18 | Janna Thompson |
-| 717 | 18 | Gingerale<3 |
-| 718 | 18 | Michelle Clark |
-| 719 | 18 | Lorrie Ann Burchett |
-| 720 | 17 | Trishaann Triplett |
-| 721 | 17 | Lush Balanceblock |
-| 722 | 17 | Stotty |
-| 723 | 17 | Kristie ML SneekaPuff |
+| 696 | 19 | Chabetta |
+| 697 | 18 | Cauntay Youngking Williams |
+| 698 | 18 | Kimberly Ann |
+| 699 | 18 | Renzo Tonini |
+| 700 | 18 | Jamie Legeness |
+| 701 | 18 | FUNBAT |
+| 702 | 18 | Emily Lowe |
+| 703 | 18 | chuck |
+| 704 | 18 | Poppy Glider |
+| 705 | 18 | Joshua Franklin |
+| 706 | 18 | Stacia Marie |
+| 707 | 18 | Happy Strikerpiece |
+| 708 | 18 | Frothy Pivotfall |
+| 709 | 18 | Tiffany Taylor |
+| 710 | 18 | Angel Boges |
+| 711 | 18 | Giggy Blockpiece |
+| 712 | 18 | Shirley Tow Middaugh |
+| 713 | 18 | Dawn Ferrin |
+| 714 | 18 | Janna Thompson |
+| 715 | 18 | Gingerale<3 |
+| 716 | 18 | Michelle Clark |
+| 717 | 18 | Jen Roe |
+| 718 | 18 | Lorrie Ann Burchett |
+| 719 | 18 | Dewy |
+| 720 | 18 | Chelle Williams |
+| 721 | 17 | Trishaann Triplett |
+| 722 | 17 | Kristie ML SneekaPuff |
+| 723 | 17 | Stotty |
 | 724 | 17 | Shane Snyder |
-| 725 | 17 | Glitzy Crasher |
+| 725 | 17 | Heather Hilferty |
 | 726 | 17 | Crystal Morrin |
-| 727 | 17 | Heather Hilferty |
-| 728 | 16 | Happy Toast |
-| 729 | 16 | Frisky Pusher |
-| 730 | 16 | Mr.Corbin |
-| 731 | 16 | Snappy Fill |
-| 732 | 16 | Thomasena Eady Reid |
+| 727 | 17 | Lush Balanceblock |
+| 728 | 17 | Glitzy Crasher |
+| 729 | 16 | Mr.Corbin |
+| 730 | 16 | Matthew Wilcox |
+| 731 | 16 | Frisky Pusher |
+| 732 | 16 | Happy Toast |
 | 733 | 16 | Layne Davis |
 | 734 | 16 | Virgil Mayfield-Brown |
-| 735 | 16 | Kelli Miller |
-| 736 | 16 | Dee Modest |
-| 737 | 16 | Grace Mariie |
-| 738 | 16 | Catherine Garza |
+| 735 | 16 | Grace Mariie |
+| 736 | 16 | Kelli Miller |
+| 737 | 16 | Dee Modest |
+| 738 | 16 | Snappy Fill |
 | 739 | 16 | Joe Joe |
-| 740 | 16 | Matthew Wilcox |
-| 741 | 15 | Tommy Thomas |
-| 742 | 15 | Donna Bush |
+| 740 | 16 | Thomasena Eady Reid |
+| 741 | 16 | Catherine Garza |
+| 742 | 15 | Tommy Thomas |
 | 743 | 15 | Britney Kitora |
 | 744 | 15 | Austin Tan |
 | 745 | 15 | Jennifer Evans Elliott |
 | 746 | 15 | Jennifer Terrill |
-| 747 | 15 | Tana-Marie Lynn McCarty-Rolf |
-| 748 | 15 | Hasty Grabber |
-| 749 | 15 | Renzo Tonini |
-| 750 | 15 | Mandi Rexroat |
-| 751 | 15 | Christina Barry |
-| 752 | 15 | Lizzzzzz |
-| 753 | 15 | Manolo Canety |
+| 747 | 15 | Hasty Grabber |
+| 748 | 15 | Mandi Rexroat |
+| 749 | 15 | Christina Barry |
+| 750 | 15 | Manolo Canety |
+| 751 | 15 | Lizzzzzz |
+| 752 | 15 | Tana-Marie Lynn McCarty-Rolf |
+| 753 | 15 | Donna Bush |
 | 754 | 15 | Steven Patshy |
 | 755 | 15 | Sherry Mooney |
 | 756 | 15 | Wacky Clusterer |
