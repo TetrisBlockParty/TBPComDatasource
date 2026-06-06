@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 20:23:16 UTC
+# Standings for team4 as of 2026-06-06 20:24:17 UTC
 
 **Total Participants:** 1131
 
@@ -86,7 +86,7 @@
 | 78 | 461 | Kayla Fuentes |
 | 79 | 441 | woopa 716 |
 | 80 | 440 | Jewelz |
-| 81 | 402 | Nick Graber |
+| 81 | 412 | Nick Graber |
 | 82 | 400 | Sassy Column |
 | 83 | 400 | Amber Doyle |
 | 84 | 399 | iiPurgeV2 |
