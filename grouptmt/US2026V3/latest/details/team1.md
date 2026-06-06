@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 08:28:17 UTC
+# Standings for team1 as of 2026-06-06 08:28:40 UTC
 
 **Total Participants:** 926
 
@@ -20,9 +20,9 @@
 | 12 | 1980 | Hunter Rayborn |
 | 13 | 1913 | Sha Harris |
 | 14 | 1808 | Yolanda McDonald |
-| 15 | 1589 | Brian Stackhouse |
-| 16 | 1449 | jaimie |
-| 17 | 1254 | Plucky Swipe |
+| 15 | 1795 | Plucky Swipe |
+| 16 | 1589 | Brian Stackhouse |
+| 17 | 1449 | jaimie |
 | 18 | 1082 | Daylene Johannes |
 | 19 | 1045 | Pdubbl3 |
 | 20 | 1037 | Shortstak |
