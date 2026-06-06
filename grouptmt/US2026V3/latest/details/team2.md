@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 06:28:39 UTC
+# Standings for team2 as of 2026-06-06 06:29:15 UTC
 
 **Total Participants:** 1039
 
@@ -791,7 +791,7 @@
 | 783 | 19 | Jessica Rose Engebretson |
 | 784 | 19 | Twisty Snapmatch |
 | 785 | 19 | Katie Boen |
-| 786 | 18 | Cuca Perez |
+| 786 | 18 | MamaRachel |
 | 787 | 18 | Kaitlyn Hurst |
 | 788 | 18 | Elizabeth Kline |
 | 789 | 18 | Mark Havens |
@@ -802,23 +802,23 @@
 | 794 | 18 | Joanna Trevin Thompson |
 | 795 | 18 | Tiffany Heether |
 | 796 | 18 | Jolly Twisterfit |
-| 797 | 18 | Alison Welsh |
-| 798 | 18 | Debbie Embry |
-| 799 | 17 | MamaRachel |
-| 800 | 17 | Amber Marie Lacey |
-| 801 | 17 | Debra May |
-| 802 | 17 | R.w. Buck |
-| 803 | 17 | Dena Cudjo |
-| 804 | 17 | Staci Carl |
-| 805 | 17 | Rosie |
-| 806 | 17 | Denise Morehart |
-| 807 | 17 | Grimwitch |
-| 808 | 17 | Shaylee Haltiner |
-| 809 | 16 | Princess Cucumber |
-| 810 | 16 | Chris |
-| 811 | 16 | Amanda L Strong |
-| 812 | 16 | Elliot |
-| 813 | 16 | Renee Craig |
+| 797 | 18 | Cuca Perez |
+| 798 | 18 | Alison Welsh |
+| 799 | 18 | Debbie Embry |
+| 800 | 17 | Debra May |
+| 801 | 17 | R.w. Buck |
+| 802 | 17 | Dena Cudjo |
+| 803 | 17 | Staci Carl |
+| 804 | 17 | Rosie |
+| 805 | 17 | Denise Morehart |
+| 806 | 17 | Grimwitch |
+| 807 | 17 | Shaylee Haltiner |
+| 808 | 17 | Amber Marie Lacey |
+| 809 | 16 | Elliot |
+| 810 | 16 | Renee Craig |
+| 811 | 16 | Princess Cucumber |
+| 812 | 16 | Chris |
+| 813 | 16 | Amanda L Strong |
 | 814 | 16 | Natasha Schatte |
 | 815 | 16 | Clever Gridzone |
 | 816 | 16 | Brandy McCleary |
