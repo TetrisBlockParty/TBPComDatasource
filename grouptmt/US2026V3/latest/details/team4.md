@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 05:38:18 UTC
+# Standings for team4 as of 2026-06-06 05:38:37 UTC
 
 **Total Participants:** 834
 
@@ -21,7 +21,7 @@
 | 13 | 2998 | Tyra Brooke Everman Forest |
 | 14 | 2833 | Irene Arreguin |
 | 15 | 2353 | Daring Ziggy |
-| 16 | 1993 | Lisa Cullum |
+| 16 | 2139 | Lisa Cullum |
 | 17 | 1102 | Hanan Hana |
 | 18 | 1059 | Squirrel Donkey |
 | 19 | 1055 | Michele Walker |
@@ -32,8 +32,8 @@
 | 24 | 846 | Cal Renee |
 | 25 | 820 | Blind Bette |
 | 26 | 788 | Snippy Grid |
-| 27 | 740 | Kathy Brookins |
-| 28 | 740 | Beee |
+| 27 | 740 | Beee |
+| 28 | 740 | Kathy Brookins |
 | 29 | 738 | Shaina Sharp |
 | 30 | 735 | Gloria Nunley Trussell |
 | 31 | 711 | Phil Peterson |
@@ -231,26 +231,26 @@
 | 223 | 78 | Stef |
 | 224 | 77 | Slinky Stackzone |
 | 225 | 77 | Loopy Clusterline |
-| 226 | 77 | Mark Fitch Jr. |
-| 227 | 77 | Chirpy Link |
-| 228 | 77 | Lady |
-| 229 | 76 | EvoKitty |
-| 230 | 76 | All knowing |
-| 231 | 76 | Jennifer Garcia |
-| 232 | 76 | Piece of Cake |
-| 233 | 76 | Spicy Peach |
-| 234 | 75 | Bonnie Powell |
+| 226 | 77 | Gorica Prusina |
+| 227 | 77 | Mark Fitch Jr. |
+| 228 | 77 | Chirpy Link |
+| 229 | 77 | Lady |
+| 230 | 76 | EvoKitty |
+| 231 | 76 | All knowing |
+| 232 | 76 | Jennifer Garcia |
+| 233 | 76 | Piece of Cake |
+| 234 | 76 | Spicy Peach |
 | 235 | 75 | Sarah Perry Cook |
-| 236 | 75 | Bouncy |
-| 237 | 75 | Chonda OhanaMomma Michelle |
-| 238 | 74 | Rita Ann |
-| 239 | 73 | Jenn Fitzgerald |
-| 240 | 73 | Troy Zanelli |
-| 241 | 73 | Gorica Prusina |
+| 236 | 75 | Bonnie Powell |
+| 237 | 75 | Bouncy |
+| 238 | 75 | Chonda OhanaMomma Michelle |
+| 239 | 74 | Rita Ann |
+| 240 | 73 | Jenn Fitzgerald |
+| 241 | 73 | Troy Zanelli |
 | 242 | 71 | Snazzy Fitclear |
-| 243 | 71 | Gean DeJesus |
-| 244 | 71 | Jason Garnatz |
-| 245 | 71 | King |
+| 243 | 71 | King |
+| 244 | 71 | Gean DeJesus |
+| 245 | 71 | Jason Garnatz |
 | 246 | 70 | Gigglycat |
 | 247 | 70 | ManOfSteel |
 | 248 | 70 | Karen Small |
