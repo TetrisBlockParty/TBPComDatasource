@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 21:32:42 UTC
+# Standings for team4 as of 2026-06-06 21:33:17 UTC
 
 **Total Participants:** 1155
 
@@ -146,16 +146,16 @@
 | 138 | 229 | Aisha Estrada |
 | 139 | 228 | Scamp Jones |
 | 140 | 227 | Loony Rotater |
-| 141 | 224 | TRUCHILD777$$$ |
-| 142 | 223 | matt |
-| 143 | 222 | Danny Ortiz |
-| 144 | 221 | Slimm |
-| 145 | 220 | Esther Hadassah |
-| 146 | 220 | Shmeedo |
-| 147 | 220 | Silly Risegrid |
-| 148 | 218 | Dubiousdust |
-| 149 | 218 | Daryn Elliott |
-| 150 | 214 | adrian |
+| 141 | 224 | adrian |
+| 142 | 224 | TRUCHILD777$$$ |
+| 143 | 223 | matt |
+| 144 | 222 | Danny Ortiz |
+| 145 | 221 | Slimm |
+| 146 | 220 | Esther Hadassah |
+| 147 | 220 | Shmeedo |
+| 148 | 220 | Silly Risegrid |
+| 149 | 218 | Dubiousdust |
+| 150 | 218 | Daryn Elliott |
 | 151 | 212 | blockhead |
 | 152 | 211 | Renee Sapp |
 | 153 | 210 | Stephanie Myers |
@@ -258,22 +258,22 @@
 | 250 | 121 | Jazzy Gridder |
 | 251 | 121 | Slinky Stackzone |
 | 252 | 120 | Lively Cascadebuilder |
-| 253 | 120 | Shiny Brick |
-| 254 | 120 | Jennifer Fisher Franklin |
-| 255 | 120 | Joab Gonzalez |
-| 256 | 120 | Holly Wessel |
-| 257 | 120 | Glamorous Gracey |
-| 258 | 120 | Cool Risepiece |
-| 259 | 119 | kellie |
-| 260 | 119 | Futrell Brent |
+| 253 | 120 | Jennifer Fisher Franklin |
+| 254 | 120 | Joab Gonzalez |
+| 255 | 120 | Glamorous Gracey |
+| 256 | 120 | Cool Risepiece |
+| 257 | 120 | kellie |
+| 258 | 120 | Holly Wessel |
+| 259 | 120 | Shiny Brick |
+| 260 | 119 | Rae Saunders |
 | 261 | 119 | Ashley Jenkins |
-| 262 | 119 | Rae Saunders |
+| 262 | 119 | Futrell Brent |
 | 263 | 119 | Name |
 | 264 | 118 | Goofy Fall |
 | 265 | 118 | Juvon SupaShawdii Brooks |
 | 266 | 117 | Fancy Tilefall |
-| 267 | 116 | WeeWooWee |
-| 268 | 116 | Pepone Pepe |
+| 267 | 116 | Pepone Pepe |
+| 268 | 116 | WeeWooWee |
 | 269 | 116 | Samantha Worley |
 | 270 | 116 | Brennan Shea Greene |
 | 271 | 116 | Toon Up |
@@ -331,17 +331,17 @@
 | 323 | 93 | Anna Ryan |
 | 324 | 92 | Karen Rodriguez |
 | 325 | 92 | William Brooks |
-| 326 | 91 | Miss Beast |
-| 327 | 91 | Dominique Melendez |
-| 328 | 91 | Drh4090 |
+| 326 | 92 | Dawn Marie Trujillo |
+| 327 | 91 | Miss Beast |
+| 328 | 91 | Dominique Melendez |
 | 329 | 91 | Diana Fernandez |
 | 330 | 91 | Jennifer Garcia |
-| 331 | 90 | 1694AF |
+| 331 | 91 | Drh4090 |
 | 332 | 90 | Flashy Shatterer |
 | 333 | 90 | Dexter Hammond Jr |
 | 334 | 90 | Codey Haffner |
 | 335 | 90 | Maurice DeJean |
-| 336 | 89 | Dawn Marie Trujillo |
+| 336 | 90 | 1694AF |
 | 337 | 89 | Chirpy Snapclear |
 | 338 | 89 | Mrs |
 | 339 | 88 | Kaps |
