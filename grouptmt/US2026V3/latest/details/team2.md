@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 20:33:21 UTC
+# Standings for team2 as of 2026-06-06 20:34:17 UTC
 
 **Total Participants:** 1365
 
@@ -115,9 +115,9 @@
 | 107 | 428 | Steven Craig |
 | 108 | 405 | Judy Long |
 | 109 | 402 | Lisa Breiding |
-| 110 | 400 | Allie Bug |
-| 111 | 400 | Smashanator |
-| 112 | 391 | Suki Jacobs |
+| 110 | 400 | Smashanator |
+| 111 | 400 | Allie Bug |
+| 112 | 392 | Suki Jacobs |
 | 113 | 390 | La chulis |
 | 114 | 383 | Heather Marie-Tarlton Britt |
 | 115 | 377 | Brandy McCune Reep |
@@ -125,8 +125,8 @@
 | 117 | 365 | Branden Frankowski |
 | 118 | 357 | Crystal Allen |
 | 119 | 356 | snowwol |
-| 120 | 348 | Eric Drane |
-| 121 | 348 | Joni Michelle Morgan |
+| 120 | 348 | Joni Michelle Morgan |
+| 121 | 348 | Eric Drane |
 | 122 | 347 | Zesty Strikerbuilder |
 | 123 | 342 | Bri St Peter |
 | 124 | 340 | Le Sandy |
@@ -136,13 +136,13 @@
 | 128 | 328 | Tim Tim |
 | 129 | 325 | Amy Gregg |
 | 130 | 324 | Jgato |
-| 131 | 319 | Shannon Wilson |
-| 132 | 319 | Bon Lynn |
-| 133 | 319 | Michelle Rich Burkhart |
+| 131 | 319 | Bon Lynn |
+| 132 | 319 | Michelle Rich Burkhart |
+| 133 | 319 | Shannon Wilson |
 | 134 | 317 | Ruby Sandberg |
 | 135 | 315 | Milad Arzani |
-| 136 | 313 | Cool Climber |
-| 137 | 313 | Josh Twilley |
+| 136 | 313 | Josh Twilley |
+| 137 | 313 | Cool Climber |
 | 138 | 311 | Nikki Hayes |
 | 139 | 310 | Jennifer Smith |
 | 140 | 309 | Bubbly Strikerpiece |
@@ -157,8 +157,8 @@
 | 149 | 286 | James Ward |
 | 150 | 286 | Heather Burgett |
 | 151 | 283 | Theresa Marie |
-| 152 | 280 | Brittney Williams |
-| 153 | 280 | Patricia Carroll |
+| 152 | 280 | Patricia Carroll |
+| 153 | 280 | Brittney Williams |
 | 154 | 279 | Renee Freeman Jacobson |
 | 155 | 277 | Sarah Mccolgan |
 | 156 | 277 | DayDreamer79 |
@@ -166,23 +166,23 @@
 | 158 | 270 | Hector |
 | 159 | 269 | Ackerman 85 |
 | 160 | 262 | Cool Balancer |
-| 161 | 253 | Marge Cromer |
-| 162 | 253 | Hilliary Beyer |
+| 161 | 253 | Hilliary Beyer |
+| 162 | 253 | Marge Cromer |
 | 163 | 251 | Angie Kowalsky Olson |
-| 164 | 250 | giamy |
+| 164 | 250 | H |
 | 165 | 250 | marsam |
-| 166 | 250 | H |
-| 167 | 247 | Brittni Lawrence |
-| 168 | 247 | Fudgie Pie |
-| 169 | 241 | Charlie Wilson |
-| 170 | 241 | Boldy Wobbler |
+| 166 | 250 | giamy |
+| 167 | 247 | Fudgie Pie |
+| 168 | 247 | Brittni Lawrence |
+| 169 | 241 | Boldy Wobbler |
+| 170 | 241 | Charlie Wilson |
 | 171 | 235 | Ashley Green |
 | 172 | 232 | Pam Bauder Ludwig |
 | 173 | 230 | Brandy Chinelle |
 | 174 | 228 | Keri Mears |
 | 175 | 224 | Kathleen Keogh Van Schoyck |
-| 176 | 220 | Flashy Basegrid |
-| 177 | 220 | Melissa Thomas |
+| 176 | 220 | Melissa Thomas |
+| 177 | 220 | Flashy Basegrid |
 | 178 | 219 | Dallas Runyan |
 | 179 | 219 | Stella |
 | 180 | 218 | Amy Nicole McCanne |
@@ -213,23 +213,23 @@
 | 205 | 192 | Nathan Walker |
 | 206 | 192 | Greta Warden |
 | 207 | 191 | Jessica Christine |
-| 208 | 191 | Kathy Strickland |
+| 208 | 191 | Norma Ortiz |
 | 209 | 191 | Jeanna Mendez |
-| 210 | 188 | Larry Cross |
-| 211 | 187 | Laura Melton |
-| 212 | 187 | Jat |
-| 213 | 184 | Jessica Lynn |
+| 210 | 191 | Kathy Strickland |
+| 211 | 188 | Larry Cross |
+| 212 | 187 | Laura Melton |
+| 213 | 187 | Jat |
 | 214 | 184 | Becca Marie |
-| 215 | 183 | Chipper Stackbuilder |
-| 216 | 181 | Michelle Maulsby |
-| 217 | 180 | Norma Ortiz |
-| 218 | 177 | Amy Taylor Pomerenk |
-| 219 | 177 | Xandrea Jones |
+| 215 | 184 | Jessica Lynn |
+| 216 | 183 | Chipper Stackbuilder |
+| 217 | 181 | Michelle Maulsby |
+| 218 | 177 | Xandrea Jones |
+| 219 | 177 | Amy Taylor Pomerenk |
 | 220 | 176 | Glitzy Base |
-| 221 | 175 | Lashanda Bertram |
-| 222 | 175 | Laverne Ellis Blair |
-| 223 | 174 | Olivia Jefferson |
-| 224 | 174 | Nettrainer |
+| 221 | 175 | Laverne Ellis Blair |
+| 222 | 175 | Lashanda Bertram |
+| 223 | 174 | Nettrainer |
+| 224 | 174 | Olivia Jefferson |
 | 225 | 173 | Amie Marks |
 | 226 | 172 | Carolyn McNaughton |
 | 227 | 172 | Sully |
@@ -244,11 +244,11 @@
 | 236 | 168 | Missy Renia |
 | 237 | 164 | Jerry L Morales |
 | 238 | 164 | Cara Rivera |
-| 239 | 163 | Santara Ferguson |
-| 240 | 163 | Kim Hunt |
-| 241 | 163 | Zany Cascader |
-| 242 | 162 | SEH |
-| 243 | 162 | Avie Lou |
+| 239 | 164 | Avie Lou |
+| 240 | 163 | Santara Ferguson |
+| 241 | 163 | Kim Hunt |
+| 242 | 163 | Zany Cascader |
+| 243 | 162 | SEH |
 | 244 | 162 | Nutty Curver |
 | 245 | 160 | Elizabeth Cornelius |
 | 246 | 159 | Amanda Priddy |
