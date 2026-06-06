@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 16:00:17 UTC
+# Standings for team1 as of 2026-06-06 16:00:39 UTC
 
 **Total Participants:** 1052
 
@@ -481,24 +481,24 @@
 | 473 | 51 | Therealdywoune Peay |
 | 474 | 51 | messyboots |
 | 475 | 51 | Just2Play$ |
-| 476 | 51 | Comedian Gdane |
+| 476 | 51 | Casey Chapman |
 | 477 | 51 | Shanjerrica Taylor Rosell |
-| 478 | 50 | Nisha Sunshine Jenkins |
-| 479 | 50 | Rande Smith |
-| 480 | 50 | Jes Marie |
-| 481 | 50 | Jjhandsome |
-| 482 | 50 | MsBobby Patrick |
-| 483 | 50 | Tramaine Crockrum |
-| 484 | 50 | Denell Sims |
-| 485 | 50 | Teresa Yanira Cepeda |
-| 486 | 49 | Stronger Wiser Better |
-| 487 | 49 | Parris Wright |
-| 488 | 49 | No_Other_Choice |
-| 489 | 49 | Speedy Stacky |
-| 490 | 49 | Teisha Scott |
-| 491 | 49 | Sallie Sanborn |
-| 492 | 49 | SnazzyIvy |
-| 493 | 49 | Casey Chapman |
+| 478 | 51 | Comedian Gdane |
+| 479 | 50 | Denell Sims |
+| 480 | 50 | Teresa Yanira Cepeda |
+| 481 | 50 | Nisha Sunshine Jenkins |
+| 482 | 50 | Tramaine Crockrum |
+| 483 | 50 | MsBobby Patrick |
+| 484 | 50 | Jjhandsome |
+| 485 | 50 | Jes Marie |
+| 486 | 50 | Rande Smith |
+| 487 | 49 | SnazzyIvy |
+| 488 | 49 | Sallie Sanborn |
+| 489 | 49 | Teisha Scott |
+| 490 | 49 | Speedy Stacky |
+| 491 | 49 | No_Other_Choice |
+| 492 | 49 | Parris Wright |
+| 493 | 49 | Stronger Wiser Better |
 | 494 | 49 | Saucy Crusher |
 | 495 | 48 | LoveLee |
 | 496 | 48 | Mommy Frank |
