@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 21:58:17 UTC
+# Standings for team4 as of 2026-06-06 21:58:39 UTC
 
 **Total Participants:** 1166
 
@@ -272,33 +272,33 @@
 | 264 | 120 | Jennifer Fisher Franklin |
 | 265 | 119 | Name |
 | 266 | 119 | Ashley Jenkins |
-| 267 | 119 | Rae Saunders |
-| 268 | 119 | Futrell Brent |
-| 269 | 118 | Juvon SupaShawdii Brooks |
-| 270 | 118 | Goofy Fall |
-| 271 | 117 | Fancy Tilefall |
-| 272 | 116 | Samantha Worley |
-| 273 | 116 | Toon Up |
-| 274 | 116 | Brennan Shea Greene |
-| 275 | 116 | Shocinda Sherwood |
-| 276 | 116 | Pepone Pepe |
-| 277 | 115 | Hardy Fuller |
-| 278 | 113 | Dizzy Slammer |
+| 267 | 119 | Bouncy |
+| 268 | 119 | Rae Saunders |
+| 269 | 119 | Futrell Brent |
+| 270 | 118 | Juvon SupaShawdii Brooks |
+| 271 | 118 | Goofy Fall |
+| 272 | 117 | Fancy Tilefall |
+| 273 | 116 | Samantha Worley |
+| 274 | 116 | Toon Up |
+| 275 | 116 | Brennan Shea Greene |
+| 276 | 116 | Shocinda Sherwood |
+| 277 | 116 | Pepone Pepe |
+| 278 | 115 | Hardy Fuller |
 | 279 | 113 | George Palacios |
-| 280 | 113 | Dennis Montoya |
+| 280 | 113 | Dizzy Slammer |
 | 281 | 113 | Piece of Cake |
 | 282 | 113 | Melissa Anne |
-| 283 | 111 | King |
+| 283 | 113 | Dennis Montoya |
 | 284 | 111 | Dawn Phelps |
-| 285 | 110 | jaz |
+| 285 | 111 | King |
 | 286 | 110 | Lora Schallert |
-| 287 | 109 | Rose Anna Safi |
-| 288 | 109 | Bouncy |
-| 289 | 109 | Ginny |
-| 290 | 108 | Anthony Lewis |
-| 291 | 108 | Iforget |
-| 292 | 107 | Jrr |
-| 293 | 107 | Allysha McFarland |
+| 287 | 110 | jaz |
+| 288 | 109 | Ginny |
+| 289 | 109 | Rose Anna Safi |
+| 290 | 108 | Iforget |
+| 291 | 108 | Anthony Lewis |
+| 292 | 107 | Allysha McFarland |
+| 293 | 107 | Jrr |
 | 294 | 107 | Tommy Bond |
 | 295 | 107 | Tipsy Zonebuilder |
 | 296 | 106 | Rita Ann |

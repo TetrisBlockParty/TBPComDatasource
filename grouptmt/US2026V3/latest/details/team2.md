@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 21:58:17 UTC
+# Standings for team2 as of 2026-06-06 21:58:39 UTC
 
 **Total Participants:** 1397
 
@@ -101,8 +101,8 @@
 | 93 | 540 | Jamie Jones |
 | 94 | 515 | Loony Faller |
 | 95 | 504 | Amber Miller Wirick |
-| 96 | 500 | Suki Kaur |
-| 97 | 492 | Epic Frame |
+| 96 | 502 | Epic Frame |
+| 97 | 500 | Suki Kaur |
 | 98 | 492 | Matt Hardin |
 | 99 | 486 | Krisanne Kesner-Lonsby |
 | 100 | 483 | Karen Reid Cenkush |
@@ -193,16 +193,16 @@
 | 185 | 220 | Flashy Basegrid |
 | 186 | 219 | Dallas Runyan |
 | 187 | 219 | Stella |
-| 188 | 218 | Amy Nicole McCanne |
-| 189 | 217 | Lora Via |
-| 190 | 216 | PaiBri |
-| 191 | 215 | Cheery Towerzone |
-| 192 | 214 | Becca Marie |
-| 193 | 212 | AndyJo |
-| 194 | 210 | Gloria May Shook |
-| 195 | 209 | Patria Osuoha |
-| 196 | 207 | Margie Ann Naffziger |
-| 197 | 207 | Brenda Jones |
+| 188 | 219 | Brenda Jones |
+| 189 | 218 | Amy Nicole McCanne |
+| 190 | 217 | Lora Via |
+| 191 | 216 | PaiBri |
+| 192 | 215 | Cheery Towerzone |
+| 193 | 214 | Becca Marie |
+| 194 | 212 | AndyJo |
+| 195 | 210 | Gloria May Shook |
+| 196 | 209 | Patria Osuoha |
+| 197 | 207 | Margie Ann Naffziger |
 | 198 | 206 | Logan Duffey |
 | 199 | 206 | Jodi Johnson |
 | 200 | 205 | Jeanna Mendez |
@@ -1206,37 +1206,37 @@
 | 1198 | 14 | ReiRei |
 | 1199 | 14 | Bubbly Risebuilder |
 | 1200 | 14 | Tyler Bates |
-| 1201 | 14 | STARFIRE |
-| 1202 | 14 | COWBOY |
-| 1203 | 14 | Flex |
-| 1204 | 14 | Buffy Diane Blake |
-| 1205 | 14 | Jodi Deninno |
-| 1206 | 14 | John Sewell |
-| 1207 | 14 | Piper Michael |
-| 1208 | 14 | Lively Liner |
-| 1209 | 14 | Spicy Enchilada |
+| 1201 | 14 | Angelica Champlin |
+| 1202 | 14 | STARFIRE |
+| 1203 | 14 | COWBOY |
+| 1204 | 14 | Flex |
+| 1205 | 14 | Buffy Diane Blake |
+| 1206 | 14 | Jodi Deninno |
+| 1207 | 14 | John Sewell |
+| 1208 | 14 | Piper Michael |
+| 1209 | 14 | Lively Liner |
 | 1210 | 14 | Symmy Norton |
-| 1211 | 14 | MiMi’26 |
+| 1211 | 14 | Beaglemom |
 | 1212 | 14 | BlockBreaker |
-| 1213 | 14 | Randi Moore |
-| 1214 | 14 | TiffTaff |
-| 1215 | 14 | Christopher Pulley |
-| 1216 | 14 | Danielle Etchison Mask |
-| 1217 | 14 | Beaglemom |
-| 1218 | 14 | Anthony Kordich |
-| 1219 | 13 | Tara Feineis |
-| 1220 | 13 | Shaun Talbot |
-| 1221 | 13 | Bad Juju |
-| 1222 | 13 | latte |
-| 1223 | 13 | Witty Clearbuilder |
-| 1224 | 13 | Trena Sapp |
-| 1225 | 13 | Angelica Champlin |
+| 1213 | 14 | MiMi’26 |
+| 1214 | 14 | Randi Moore |
+| 1215 | 14 | TiffTaff |
+| 1216 | 14 | Christopher Pulley |
+| 1217 | 14 | Spicy Enchilada |
+| 1218 | 14 | Danielle Etchison Mask |
+| 1219 | 14 | Anthony Kordich |
+| 1220 | 13 | Tara Feineis |
+| 1221 | 13 | Shaun Talbot |
+| 1222 | 13 | Bad Juju |
+| 1223 | 13 | latte |
+| 1224 | 13 | Witty Clearbuilder |
+| 1225 | 13 | Trena Sapp |
 | 1226 | 13 | David Cadiente |
 | 1227 | 13 | Dreamy Wipepiece |
 | 1228 | 13 | Jill Gelhausen |
-| 1229 | 13 | Judy Bailey |
-| 1230 | 13 | Tetris |
-| 1231 | 13 | Deborah Fowler |
+| 1229 | 13 | Deborah Fowler |
+| 1230 | 13 | Judy Bailey |
+| 1231 | 13 | Tetris |
 | 1232 | 13 | Cristy Ayala |
 | 1233 | 13 | Torb |
 | 1234 | 12 | Lu Wallace |
