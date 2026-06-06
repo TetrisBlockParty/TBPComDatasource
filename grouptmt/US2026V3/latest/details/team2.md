@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 10:54:37 UTC
+# Standings for team2 as of 2026-06-06 10:55:16 UTC
 
 **Total Participants:** 1109
 
@@ -89,9 +89,9 @@
 | 81 | 405 | Judy Long |
 | 82 | 400 | Smashanator |
 | 83 | 400 | Allie Bug |
-| 84 | 390 | La chulis |
-| 85 | 389 | Kimberly Cowan |
-| 86 | 388 | Marquetta Johnson |
+| 84 | 393 | Marquetta Johnson |
+| 85 | 390 | La chulis |
+| 86 | 389 | Kimberly Cowan |
 | 87 | 377 | Nawang Nawang |
 | 88 | 372 | Tom Badgley |
 | 89 | 354 | Branden Frankowski |
