@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 04:18:16 UTC
+# Standings for team2 as of 2026-06-06 04:18:37 UTC
 
 **Total Participants:** 957
 
@@ -336,68 +336,68 @@
 | 328 | 59 | Elliott Mikila |
 | 329 | 58 | Jessica Lynn |
 | 330 | 58 | Jolly Builderpiece |
-| 331 | 58 | Chipper Towerzone |
-| 332 | 58 | Michele Rogers |
-| 333 | 58 | Lesley Stoeckle |
-| 334 | 58 | Connie Breeden |
+| 331 | 58 | Michele Rogers |
+| 332 | 58 | Chipper Towerzone |
+| 333 | 58 | Connie Breeden |
+| 334 | 58 | Lesley Stoeckle |
 | 335 | 57 | Poppy Strikerbuilder |
 | 336 | 57 | Cheery Towerzone |
 | 337 | 57 | Xandrea Jones |
-| 338 | 56 | nogo |
-| 339 | 56 | Melissa Fink |
-| 340 | 55 | Sarah Louise Cobb |
-| 341 | 55 | Misty McElroy |
-| 342 | 55 | Saucy Wrecker |
-| 343 | 55 | Wendy Durrence Jones |
-| 344 | 55 | Silly Tiltbuilder |
-| 345 | 55 | Valeri Bradley |
-| 346 | 55 | MUMBLES |
+| 338 | 56 | Melissa Fink |
+| 339 | 56 | nogo |
+| 340 | 55 | Misty McElroy |
+| 341 | 55 | Saucy Wrecker |
+| 342 | 55 | Wendy Durrence Jones |
+| 343 | 55 | Silly Tiltbuilder |
+| 344 | 55 | Valeri Bradley |
+| 345 | 55 | MUMBLES |
+| 346 | 55 | Sarah Louise Cobb |
 | 347 | 54 | Christina Nycol |
 | 348 | 54 | Wendy McKee |
-| 349 | 54 | Sabrina Hardrick |
-| 350 | 54 | Cool Patternbuilder |
+| 349 | 54 | Cool Patternbuilder |
+| 350 | 54 | Sabrina Hardrick |
 | 351 | 54 | Bethany Nestor |
 | 352 | 54 | Funway998 |
 | 353 | 54 | Lively Twisterfit |
-| 354 | 53 | Sarah Jane Gorsuch |
-| 355 | 53 | Melissa Thomas |
-| 356 | 53 | Wacky Stack |
-| 357 | 53 | Spicy Basepiece |
-| 358 | 53 | Maurii93 |
-| 359 | 52 | Rosalie Call Kehlenbeck |
-| 360 | 52 | KazzyKay |
+| 354 | 53 | Spicy Basepiece |
+| 355 | 53 | Maurii93 |
+| 356 | 53 | Melissa Thomas |
+| 357 | 53 | Sarah Jane Gorsuch |
+| 358 | 53 | Wacky Stack |
+| 359 | 52 | KazzyKay |
+| 360 | 52 | Trisha Schneider |
 | 361 | 52 | Chipper Spinzone |
-| 362 | 52 | Greenie |
-| 363 | 51 | Mama G |
+| 362 | 52 | Rosalie Call Kehlenbeck |
+| 363 | 52 | Greenie |
 | 364 | 51 | Loretta Crow |
 | 365 | 51 | Nicole Ashbaugh |
-| 366 | 51 | Joannah Capilitan |
-| 367 | 51 | Tashamonique Puckey |
-| 368 | 51 | Trisha Schneider |
+| 366 | 51 | Mama G |
+| 367 | 51 | Joannah Capilitan |
+| 368 | 51 | Tashamonique Puckey |
 | 369 | 51 | Dad |
 | 370 | 51 | Twisty Matchfit |
-| 371 | 50 | Rachel Nilles |
-| 372 | 50 | Whitt |
-| 373 | 50 | Jennifer Wymer |
-| 374 | 50 | Charith Lorelle Watson |
+| 371 | 50 | Charith Lorelle Watson |
+| 372 | 50 | Jennifer Wymer |
+| 373 | 50 | Whitt |
+| 374 | 50 | Rachel Nilles |
 | 375 | 50 | Teea Makensi Meyer |
 | 376 | 50 | MarioKarasovic |
 | 377 | 49 | Dayna Messer-Thelen |
 | 378 | 49 | Tammy Roth |
-| 379 | 49 | Hillary Frank |
+| 379 | 49 | Tetrismastrr |
 | 380 | 49 | Spunky Clicker |
-| 381 | 49 | Tetrismastrr |
-| 382 | 48 | Funky Blockmatch |
-| 383 | 48 | Katelynn Hunt |
-| 384 | 48 | Tamara Whiteley |
-| 385 | 48 | Krystle McCaslin |
-| 386 | 48 | Zaniya Brown |
-| 387 | 48 | Renee Siems |
-| 388 | 48 | Dizzy Dropzone |
+| 381 | 49 | Hillary Frank |
+| 382 | 48 | Katelynn Hunt |
+| 383 | 48 | Tamara Whiteley |
+| 384 | 48 | Krystle McCaslin |
+| 385 | 48 | Zaniya Brown |
+| 386 | 48 | Dizzy Dropzone |
+| 387 | 48 | Funky Blockmatch |
+| 388 | 48 | Renee Siems |
 | 389 | 47 | Angela Hogan |
 | 390 | 47 | TNGal |
-| 391 | 47 | Starvinmarvin |
-| 392 | 47 | BB |
+| 391 | 47 | BB |
+| 392 | 47 | Starvinmarvin |
 | 393 | 46 | Michelle Fry-Cash |
 | 394 | 46 | Danielle Blount |
 | 395 | 46 | Kristi Chestnut |
