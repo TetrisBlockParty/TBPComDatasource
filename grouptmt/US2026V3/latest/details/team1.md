@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 21:50:39 UTC
+# Standings for team1 as of 2026-06-06 21:51:17 UTC
 
 **Total Participants:** 1177
 
@@ -82,52 +82,52 @@
 | 74 | 511 | Dizzy Dropper |
 | 75 | 511 | Abraham Espaillat |
 | 76 | 506 | Court Court |
-| 77 | 502 | Tiana Moore |
-| 78 | 495 | Jaida De'Anne Cox |
-| 79 | 489 | Carolynne Walker-Bell |
-| 80 | 485 | PandaPrincess |
+| 77 | 505 | PandaPrincess |
+| 78 | 502 | Tiana Moore |
+| 79 | 495 | Jaida De'Anne Cox |
+| 80 | 489 | Carolynne Walker-Bell |
 | 81 | 482 | Cj Gorman |
 | 82 | 477 | Chenell Gillard |
 | 83 | 474 | Keeta Chickswit Scott |
 | 84 | 454 | DaVonte' Cretter |
 | 85 | 448 | Chirpy Corner |
-| 86 | 444 | Kevin M. McGhee Jr |
-| 87 | 439 | Asani CHumba |
-| 88 | 434 | Gotcha |
-| 89 | 434 | Todd C. Clemens |
-| 90 | 432 | Gael Quintana |
-| 91 | 432 | She Higgy |
-| 92 | 429 | Bre Maugh |
-| 93 | 421 | ing410 |
-| 94 | 413 | Eric Mcgaughy |
-| 95 | 401 | Shell Lewis |
-| 96 | 400 | Jessica Carter |
-| 97 | 397 | Weeze |
-| 98 | 394 | ELM |
-| 99 | 394 | Big Tina |
-| 100 | 391 | Sarah Marie |
-| 101 | 389 | Voice |
-| 102 | 388 | SPNLover24 |
-| 103 | 387 | Novaa |
-| 104 | 380 | Moomoo |
-| 105 | 377 | AF Cruz |
-| 106 | 374 | Lashawn Wallace |
-| 107 | 373 | Catara Renae Oliver |
-| 108 | 370 | Jamal Itzjusmall Chambers |
-| 109 | 365 | Quirky Fallgrid |
-| 110 | 334 | Christana Imjustbutton Stone |
-| 111 | 332 | Hyper Slamdrop |
-| 112 | 329 | Ty Øtg |
-| 113 | 328 | Jonathan Vee Jay |
-| 114 | 325 | Joey Albright |
-| 115 | 324 | Tobey Marberry |
-| 116 | 323 | Sheila Burnham |
-| 117 | 319 | GrkGdess |
-| 118 | 314 | Jason Mungin |
-| 119 | 305 | John Staub |
-| 120 | 302 | Felicia Williams |
-| 121 | 298 | Leebo Slice |
-| 122 | 297 | BYM4L |
+| 86 | 447 | BYM4L |
+| 87 | 444 | Kevin M. McGhee Jr |
+| 88 | 439 | Asani CHumba |
+| 89 | 434 | Gotcha |
+| 90 | 434 | Todd C. Clemens |
+| 91 | 432 | Gael Quintana |
+| 92 | 432 | She Higgy |
+| 93 | 429 | Bre Maugh |
+| 94 | 421 | ing410 |
+| 95 | 413 | Eric Mcgaughy |
+| 96 | 401 | Shell Lewis |
+| 97 | 400 | Jessica Carter |
+| 98 | 397 | Weeze |
+| 99 | 394 | ELM |
+| 100 | 394 | Big Tina |
+| 101 | 391 | Sarah Marie |
+| 102 | 389 | Voice |
+| 103 | 388 | SPNLover24 |
+| 104 | 387 | Novaa |
+| 105 | 380 | Moomoo |
+| 106 | 377 | AF Cruz |
+| 107 | 374 | Lashawn Wallace |
+| 108 | 373 | Catara Renae Oliver |
+| 109 | 370 | Jamal Itzjusmall Chambers |
+| 110 | 365 | Quirky Fallgrid |
+| 111 | 334 | Christana Imjustbutton Stone |
+| 112 | 332 | Hyper Slamdrop |
+| 113 | 329 | Ty Øtg |
+| 114 | 328 | Jonathan Vee Jay |
+| 115 | 325 | Joey Albright |
+| 116 | 324 | Tobey Marberry |
+| 117 | 323 | Sheila Burnham |
+| 118 | 319 | GrkGdess |
+| 119 | 314 | Jason Mungin |
+| 120 | 305 | John Staub |
+| 121 | 302 | Felicia Williams |
+| 122 | 298 | Leebo Slice |
 | 123 | 297 | Michelle Titus |
 | 124 | 292 | Atlantalindi |
 | 125 | 290 | Kaleisha Smith |
@@ -227,9 +227,9 @@
 | 219 | 156 | Cheeky Twistpiece |
 | 220 | 154 | LaShaun Stinson |
 | 221 | 153 | Rackemwillie34 |
-| 222 | 152 | Jolly Tilefall |
-| 223 | 149 | Lively Riserpiece |
-| 224 | 147 | Melissa D. M. Hornsby |
+| 222 | 153 | Melissa D. M. Hornsby |
+| 223 | 152 | Jolly Tilefall |
+| 224 | 149 | Lively Riserpiece |
 | 225 | 147 | Sammie Walker |
 | 226 | 147 | Tanisha Taylor |
 | 227 | 147 | MACHETEEDDIE513 |
@@ -444,8 +444,8 @@
 | 436 | 72 | Poppy Twister |
 | 437 | 72 | Comedian Gdane |
 | 438 | 72 | Lauraly |
-| 439 | 71 | Erin Sabol |
-| 440 | 71 | Abigail Newman Sweet |
+| 439 | 71 | Abigail Newman Sweet |
+| 440 | 71 | Erin Sabol |
 | 441 | 71 | Nora Mahmoud |
 | 442 | 71 | HBTone |
 | 443 | 71 | Tori Carter |
@@ -461,56 +461,56 @@
 | 453 | 68 | Zappy Snapgrid |
 | 454 | 68 | Lakiesha Crawford |
 | 455 | 68 | Alyssa Rae |
-| 456 | 68 | Brenda Malachi-butler |
-| 457 | 67 | Kahh |
-| 458 | 67 | Michele Elizabeth McKay-Johnson |
-| 459 | 67 | Nikkizz |
+| 456 | 68 | Shea Ladynick Henderson |
+| 457 | 68 | Brenda Malachi-butler |
+| 458 | 67 | Kahh |
+| 459 | 67 | Michele Elizabeth McKay-Johnson |
 | 460 | 67 | LexiiSamayaa |
-| 461 | 66 | Just2Play$ |
-| 462 | 66 | Jess |
-| 463 | 66 | GracefulOwl808 |
-| 464 | 65 | Dana Hawes |
-| 465 | 65 | Erica Charlise |
-| 466 | 65 | Jenni Hardman |
-| 467 | 65 | Wayne Savannah |
+| 461 | 67 | Nikkizz |
+| 462 | 66 | Just2Play$ |
+| 463 | 66 | Jess |
+| 464 | 66 | GracefulOwl808 |
+| 465 | 65 | Dana Hawes |
+| 466 | 65 | Erica Charlise |
+| 467 | 65 | Jenni Hardman |
 | 468 | 65 | Sabrina Wilkerson |
-| 469 | 65 | Jazzy Bridger |
-| 470 | 65 | Perky Pusher |
-| 471 | 64 | Bobby Chestefield |
-| 472 | 63 | La'Chae Nickole |
-| 473 | 63 | Sarah Swietlicki - Lopez |
-| 474 | 63 | Ahsokadog |
-| 475 | 63 | Shakuria Cortia Burney |
-| 476 | 62 | Hardtohandle91 |
+| 469 | 65 | Wayne Savannah |
+| 470 | 65 | Jazzy Bridger |
+| 471 | 65 | Perky Pusher |
+| 472 | 64 | Bobby Chestefield |
+| 473 | 63 | La'Chae Nickole |
+| 474 | 63 | Sarah Swietlicki - Lopez |
+| 475 | 63 | Ahsokadog |
+| 476 | 63 | Shakuria Cortia Burney |
 | 477 | 62 | Lazy Tiltpiece |
-| 478 | 62 | Jack Mehof |
-| 479 | 62 | DirtiestofMikes |
-| 480 | 62 | De'Mear McKinney |
-| 481 | 61 | Jumpy Gridlock |
-| 482 | 61 | Squaw Ki Ng |
-| 483 | 61 | Tonya Thomas |
-| 484 | 61 | Essence Jones |
-| 485 | 60 | Pretty Yella |
-| 486 | 60 | Adrian Harris |
+| 478 | 62 | Hardtohandle91 |
+| 479 | 62 | Jack Mehof |
+| 480 | 62 | DirtiestofMikes |
+| 481 | 62 | De'Mear McKinney |
+| 482 | 61 | Jumpy Gridlock |
+| 483 | 61 | Squaw Ki Ng |
+| 484 | 61 | Tonya Thomas |
+| 485 | 61 | Essence Jones |
+| 486 | 60 | Pretty Yella |
 | 487 | 60 | Yellowguy3 |
 | 488 | 60 | Chuck Quarles |
 | 489 | 60 | Nerdy Climber |
-| 490 | 60 | De'Nell Edwards |
-| 491 | 60 | Deveda Williams |
-| 492 | 60 | Angie Smith |
+| 490 | 60 | Adrian Harris |
+| 491 | 60 | De'Nell Edwards |
+| 492 | 60 | Deveda Williams |
 | 493 | 60 | Demi Ovalle |
-| 494 | 60 | lookin |
-| 495 | 60 | Coco |
-| 496 | 60 | Xana Zania Bopp |
-| 497 | 60 | Lauren Farkas |
-| 498 | 60 | Dianne Clagon |
-| 499 | 60 | Malcolm Stanley |
-| 500 | 60 | Kp |
-| 501 | 60 | Tellisa Payne |
-| 502 | 60 | Tasha |
-| 503 | 60 | Missy Myvette |
-| 504 | 59 | Evette Moreno |
-| 505 | 59 | Shea Ladynick Henderson |
+| 494 | 60 | Angie Smith |
+| 495 | 60 | lookin |
+| 496 | 60 | Coco |
+| 497 | 60 | Xana Zania Bopp |
+| 498 | 60 | Lauren Farkas |
+| 499 | 60 | Dianne Clagon |
+| 500 | 60 | Malcolm Stanley |
+| 501 | 60 | Missy Myvette |
+| 502 | 60 | Kp |
+| 503 | 60 | Tellisa Payne |
+| 504 | 60 | Tasha |
+| 505 | 59 | Evette Moreno |
 | 506 | 59 | Smiley Tilebuilder |
 | 507 | 59 | Guard Up |
 | 508 | 59 | Tonny Williams |
