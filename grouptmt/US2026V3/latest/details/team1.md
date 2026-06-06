@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 08:57:15 UTC
+# Standings for team1 as of 2026-06-06 08:58:16 UTC
 
 **Total Participants:** 935
 
@@ -315,17 +315,17 @@
 | 307 | 64 | Penee Wiggins |
 | 308 | 63 | Slinky Clearzone |
 | 309 | 63 | Ahsokadog |
-| 310 | 63 | Sarah Swietlicki - Lopez |
-| 311 | 62 | De'Mear McKinney |
-| 312 | 62 | Richard Flex |
-| 313 | 62 | Jack Mehof |
-| 314 | 61 | Sunny Clicky |
-| 315 | 61 | Tonya Thomas |
-| 316 | 61 | La'Chae Nickole |
+| 310 | 63 | La'Chae Nickole |
+| 311 | 63 | Sarah Swietlicki - Lopez |
+| 312 | 62 | De'Mear McKinney |
+| 313 | 62 | Richard Flex |
+| 314 | 62 | Jack Mehof |
+| 315 | 61 | Sunny Clicky |
+| 316 | 61 | Tonya Thomas |
 | 317 | 61 | star |
 | 318 | 60 | De'Nell Edwards |
-| 319 | 60 | izzybella |
-| 320 | 60 | Christian Pham |
+| 319 | 60 | Christian Pham |
+| 320 | 60 | izzybella |
 | 321 | 60 | Tasha |
 | 322 | 60 | Katherine Short |
 | 323 | 60 | Malcolm Stanley |
@@ -712,53 +712,53 @@
 | 704 | 19 | Yashicha Hertzock |
 | 705 | 19 | Panda Vibes |
 | 706 | 19 | Lozuna |
-| 707 | 19 | Michelle Stanford-Page |
+| 707 | 19 | Michele Simpson |
 | 708 | 19 | Holly Baker |
 | 709 | 19 | Frilly Lifter |
 | 710 | 19 | Hyedie Badie |
 | 711 | 19 | Jose Rodriguez |
-| 712 | 19 | Michele Simpson |
-| 713 | 19 | Chuck Quarles |
-| 714 | 19 | Amanda Woodruff |
-| 715 | 19 | Ivan Israel |
-| 716 | 19 | Idelia L Brown |
-| 717 | 19 | TY Newme Batts |
-| 718 | 19 | Crystal Garay |
-| 719 | 18 | Anissa Williams |
-| 720 | 18 | Pj Rojas |
-| 721 | 18 | Azeiare Ziare |
-| 722 | 18 | Marbama |
+| 712 | 19 | Chuck Quarles |
+| 713 | 19 | Amanda Woodruff |
+| 714 | 19 | Ivan Israel |
+| 715 | 19 | Idelia L Brown |
+| 716 | 19 | TY Newme Batts |
+| 717 | 19 | Crystal Garay |
+| 718 | 19 | Michelle Stanford-Page |
+| 719 | 18 | Marbama |
+| 720 | 18 | Anissa Williams |
+| 721 | 18 | Pj Rojas |
+| 722 | 18 | Azeiare Ziare |
 | 723 | 18 | Tyree Tman Shinette |
 | 724 | 18 | Smiley3000 |
-| 725 | 18 | DeAngelo Sorrells |
-| 726 | 18 | Soubletzy |
-| 727 | 18 | Mighty plantlady |
-| 728 | 18 | Una |
+| 725 | 18 | Una |
+| 726 | 18 | DeAngelo Sorrells |
+| 727 | 18 | Soubletzy |
+| 728 | 18 | Mighty plantlady |
 | 729 | 18 | Diamond Nicole |
 | 730 | 18 | Taylor Jordan Hollis |
-| 731 | 18 | Zappy Riser |
-| 732 | 18 | Pinky Pink |
-| 733 | 18 | Paul Pendley |
-| 734 | 18 | Ounquan Wright |
-| 735 | 18 | Oaklonboy mike |
-| 736 | 18 | AleahKCH |
-| 737 | 18 | Keke |
-| 738 | 18 | Vontii Blades |
-| 739 | 18 | Jeremy Myers |
-| 740 | 18 | Chris Bell |
-| 741 | 17 | Solomon Valarie |
-| 742 | 17 | Andre Rivera |
-| 743 | 17 | MrsDontPlay |
-| 744 | 17 | Vivian Bunnell Myers |
-| 745 | 17 | Embracing Hair |
-| 746 | 17 | Rikki Moran |
-| 747 | 17 | Jb Mzresilience |
-| 748 | 16 | Sunny Tumbler |
-| 749 | 16 | Krista McNair |
-| 750 | 16 | Sha Anderson |
-| 751 | 16 | Tammy Collins |
-| 752 | 16 | Symonne 'Monnie' Pierce |
-| 753 | 16 | Bold Spinblock |
+| 731 | 18 | Jeremy Myers |
+| 732 | 18 | Zappy Riser |
+| 733 | 18 | Pinky Pink |
+| 734 | 18 | Vontii Blades |
+| 735 | 18 | Paul Pendley |
+| 736 | 18 | Keke |
+| 737 | 18 | Chris Bell |
+| 738 | 18 | AleahKCH |
+| 739 | 18 | Oaklonboy mike |
+| 740 | 18 | Ounquan Wright |
+| 741 | 17 | Andre Rivera |
+| 742 | 17 | Jb Mzresilience |
+| 743 | 17 | Vivian Bunnell Myers |
+| 744 | 17 | Solomon Valarie |
+| 745 | 17 | Bold Spinblock |
+| 746 | 17 | Embracing Hair |
+| 747 | 17 | MrsDontPlay |
+| 748 | 17 | Rikki Moran |
+| 749 | 16 | Sunny Tumbler |
+| 750 | 16 | Krista McNair |
+| 751 | 16 | Sha Anderson |
+| 752 | 16 | Tammy Collins |
+| 753 | 16 | Symonne 'Monnie' Pierce |
 | 754 | 16 | Twisty Dashy |
 | 755 | 16 | Stacey Kesteloot |
 | 756 | 16 | Dee-Dee Stewart |
@@ -794,46 +794,46 @@
 | 786 | 14 | Lynn |
 | 787 | 14 | Zany Pivot |
 | 788 | 14 | Jazzy |
-| 789 | 14 | Dymond |
-| 790 | 14 | Tez Mays |
-| 791 | 14 | Jerrone Epps |
-| 792 | 14 | TBabii24 |
+| 789 | 14 | Andre Simpson |
+| 790 | 14 | Dymond |
+| 791 | 14 | Tez Mays |
+| 792 | 14 | Alyssa Rae |
 | 793 | 14 | Kenny 'Tailormade' Boyd |
-| 794 | 14 | Stanley Dixon |
-| 795 | 14 | Alyssa Rae |
-| 796 | 13 | Daphne Ceasar |
-| 797 | 13 | Sarah Barnum |
-| 798 | 13 | Andre Simpson |
-| 799 | 13 | Emma Adams |
-| 800 | 13 | Seirra Robinson |
-| 801 | 13 | Jumpy Striker |
+| 794 | 14 | TBabii24 |
+| 795 | 14 | Jerrone Epps |
+| 796 | 14 | Stanley Dixon |
+| 797 | 13 | Daphne Ceasar |
+| 798 | 13 | Seirra Robinson |
+| 799 | 13 | Sarah Barnum |
+| 800 | 13 | Emma Adams |
+| 801 | 13 | Bubbly Piececlear |
 | 802 | 13 | Leah Ingram |
-| 803 | 13 | Cathy Young |
-| 804 | 13 | John Spath |
-| 805 | 13 | Bubbly Piececlear |
-| 806 | 12 | Mike Hromowyk |
-| 807 | 12 | LaTonya Rivers |
-| 808 | 12 | Silly Spinblock |
-| 809 | 12 | SyTheEvilGenius1 |
-| 810 | 12 | Outspoken Sirchristopher |
-| 811 | 12 | Lillie Blossom Dixon |
-| 812 | 12 | Abdul Malik |
-| 813 | 12 | Joseph Ware Jr. |
-| 814 | 12 | Cynthia Cruell |
-| 815 | 12 | Talya Richards |
-| 816 | 12 | BigDawg Lessley |
-| 817 | 12 | Michael Jones |
+| 803 | 13 | John Spath |
+| 804 | 13 | Cathy Young |
+| 805 | 13 | Jumpy Striker |
+| 806 | 12 | Cynthia Cruell |
+| 807 | 12 | Abdul Malik |
+| 808 | 12 | LaTonya Rivers |
+| 809 | 12 | Mike Hromowyk |
+| 810 | 12 | Silly Spinblock |
+| 811 | 12 | SyTheEvilGenius1 |
+| 812 | 12 | Outspoken Sirchristopher |
+| 813 | 12 | Michael Jones |
+| 814 | 12 | Lillie Blossom Dixon |
+| 815 | 12 | Joseph Ware Jr. |
+| 816 | 12 | Talya Richards |
+| 817 | 12 | BigDawg Lessley |
 | 818 | 12 | Cheeky Wipegrid |
-| 819 | 12 | BB |
-| 820 | 12 | BigMike |
-| 821 | 12 | Jovy |
-| 822 | 12 | Cameo Tweed |
-| 823 | 12 | Ashley Davis |
-| 824 | 11 | Groovy Climber |
-| 825 | 11 | Jayson |
+| 819 | 12 | Ashley Davis |
+| 820 | 12 | Cameo Tweed |
+| 821 | 12 | BB |
+| 822 | 12 | BigMike |
+| 823 | 12 | Jovy |
+| 824 | 11 | Frilly Shatterline |
+| 825 | 11 | Groovy Climber |
 | 826 | 11 | Ray Baker |
 | 827 | 11 | Giddy Twistslam |
-| 828 | 11 | Frilly Shatterline |
+| 828 | 11 | Jayson |
 | 829 | 10 | Damien Fonseca |
 | 830 | 10 | Cornelius Neal |
 | 831 | 10 | ShayePooh |
