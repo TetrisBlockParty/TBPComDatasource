@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 13:54:38 UTC
+# Standings for team1 as of 2026-06-06 13:55:17 UTC
 
 **Total Participants:** 1011
 
@@ -22,11 +22,11 @@
 | 14 | 2341 | Debbie Carswell |
 | 15 | 2252 | jaimie |
 | 16 | 1980 | Hunter Rayborn |
-| 17 | 1913 | Sha Harris |
-| 18 | 1589 | Brian Stackhouse |
-| 19 | 1569 | Epic Snapfall |
-| 20 | 1550 | Cassidy Butler |
-| 21 | 1550 | Chandler Spencer |
+| 17 | 1924 | Chandler Spencer |
+| 18 | 1913 | Sha Harris |
+| 19 | 1589 | Brian Stackhouse |
+| 20 | 1569 | Epic Snapfall |
+| 21 | 1550 | Cassidy Butler |
 | 22 | 1351 | Erika Windom |
 | 23 | 1082 | Daylene Johannes |
 | 24 | 1037 | Shortstak |
@@ -217,49 +217,49 @@
 | 209 | 118 | Hasty Pivoty |
 | 210 | 117 | 신재호 |
 | 211 | 116 | Kelvin Cook |
-| 212 | 115 | Kenny MrOnethousand Peck |
-| 213 | 115 | Dizzy Dashy |
+| 212 | 115 | Dizzy Dashy |
+| 213 | 115 | Kenny MrOnethousand Peck |
 | 214 | 114 | pooh |
 | 215 | 114 | LAhoneybun82 |
 | 216 | 113 | Rachel Zimmerman |
-| 217 | 112 | Bre Poston |
-| 218 | 112 | GamerQueenDS |
+| 217 | 112 | GamerQueenDS |
+| 218 | 112 | Bre Poston |
 | 219 | 111 | Shalena Marie Humphrey |
 | 220 | 111 | Lesley Brunkus Cianfaglione |
 | 221 | 110 | Atlantalindi |
 | 222 | 109 | Tamika Fisher |
 | 223 | 108 | Char |
 | 224 | 108 | Kimberly Linares Hernandez |
-| 225 | 106 | Mister Reid |
-| 226 | 106 | Matthieu Pistone |
-| 227 | 105 | Kelley Johnson |
-| 228 | 105 | Angela R Wilson |
-| 229 | 105 | Katrina Ramey |
-| 230 | 104 | Brittany Fells |
-| 231 | 104 | Frisky Fall |
-| 232 | 104 | Brittnay Wright |
+| 225 | 106 | Matthieu Pistone |
+| 226 | 106 | Mister Reid |
+| 227 | 105 | Katrina Ramey |
+| 228 | 105 | Kelley Johnson |
+| 229 | 105 | Angela R Wilson |
+| 230 | 104 | Brittnay Wright |
+| 231 | 104 | Brittany Fells |
+| 232 | 104 | Frisky Fall |
 | 233 | 104 | Ahvae Lee |
 | 234 | 101 | Joana Thompson |
-| 235 | 100 | Leavon Smith |
-| 236 | 100 | Cool Bridger |
+| 235 | 100 | Cool Bridger |
+| 236 | 100 | Leavon Smith |
 | 237 | 99 | Maribel Vasquez |
 | 238 | 99 | Simone Bailey |
 | 239 | 98 | Dorian Griffin |
 | 240 | 98 | Sharon Cail |
-| 241 | 97 | Telisha Mims |
+| 241 | 98 | Calvin Green |
 | 242 | 97 | Shanell Thomas |
-| 243 | 96 | Melissa D. M. Hornsby |
-| 244 | 96 | Phillip Vasquez |
-| 245 | 96 | Yazz |
-| 246 | 95 | Nate Myers |
-| 247 | 95 | Tosha Michelle |
-| 248 | 95 | Shiny Lift |
-| 249 | 94 | Cece Fowler |
-| 250 | 93 | Rackemwillie34 |
-| 251 | 92 | The DUBZ |
-| 252 | 92 | Quirky Fallgrid |
-| 253 | 92 | Katherine Short |
-| 254 | 92 | Calvin Green |
+| 243 | 97 | Telisha Mims |
+| 244 | 96 | Yazz |
+| 245 | 96 | Phillip Vasquez |
+| 246 | 96 | Melissa D. M. Hornsby |
+| 247 | 95 | Nate Myers |
+| 248 | 95 | Tosha Michelle |
+| 249 | 95 | Shiny Lift |
+| 250 | 94 | Cece Fowler |
+| 251 | 93 | Rackemwillie34 |
+| 252 | 92 | The DUBZ |
+| 253 | 92 | Quirky Fallgrid |
+| 254 | 92 | Katherine Short |
 | 255 | 91 | Jack Vlasak |
 | 256 | 90 | Robbie Cheeseman |
 | 257 | 90 | Danielle DeLozier Plesec |
@@ -563,41 +563,41 @@
 | 555 | 39 | ChunLi |
 | 556 | 39 | Laysa Nunez |
 | 557 | 39 | Haakuu |
-| 558 | 39 | JesusSaves 😇 |
+| 558 | 39 | Rene Hicks |
 | 559 | 39 | Vernon Hoyt |
 | 560 | 39 | Essence Jones |
-| 561 | 39 | Elizabeth Green |
-| 562 | 39 | Lexx Robins |
-| 563 | 38 | Manda Allen |
-| 564 | 38 | Kayel Good |
-| 565 | 38 | Earl Williams |
-| 566 | 38 | Kahliah Baker |
-| 567 | 38 | Taz Ballard |
-| 568 | 38 | Tonny Williams |
-| 569 | 38 | SeanSanchez |
-| 570 | 38 | Quwana Hall |
-| 571 | 38 | 大竹直之 |
-| 572 | 38 | WReckitraff |
-| 573 | 38 | hope |
-| 574 | 37 | CoaCoa Myles |
-| 575 | 37 | Karen Denen |
-| 576 | 37 | Lootch |
-| 577 | 37 | Stronger Wiser Better |
+| 561 | 39 | JesusSaves 😇 |
+| 562 | 39 | Elizabeth Green |
+| 563 | 39 | Lexx Robins |
+| 564 | 38 | Manda Allen |
+| 565 | 38 | Kayel Good |
+| 566 | 38 | Earl Williams |
+| 567 | 38 | Kahliah Baker |
+| 568 | 38 | Taz Ballard |
+| 569 | 38 | Tonny Williams |
+| 570 | 38 | SeanSanchez |
+| 571 | 38 | Quwana Hall |
+| 572 | 38 | 大竹直之 |
+| 573 | 38 | WReckitraff |
+| 574 | 38 | hope |
+| 575 | 37 | Stronger Wiser Better |
+| 576 | 37 | Karen Denen |
+| 577 | 37 | Lootch |
 | 578 | 37 | Lil T |
 | 579 | 37 | Jojo M |
-| 580 | 36 | Xrandomx |
-| 581 | 36 | Meluhnee |
+| 580 | 37 | CoaCoa Myles |
+| 581 | 36 | Xrandomx |
 | 582 | 36 | Meow Meow |
-| 583 | 36 | Jess |
-| 584 | 35 | Spicy Shatterblock |
-| 585 | 35 | Rene Hicks |
-| 586 | 35 | Giggy Clusterer |
-| 587 | 35 | Crafty Link |
-| 588 | 35 | Saucy Crusher |
-| 589 | 35 | Sashaleo |
-| 590 | 35 | Shannon Carriger |
-| 591 | 35 | Hyedie Badie |
-| 592 | 35 | Amy Villalpando |
+| 583 | 36 | Meluhnee |
+| 584 | 36 | Jess |
+| 585 | 35 | Amy Villalpando |
+| 586 | 35 | Spicy Shatterblock |
+| 587 | 35 | Shannon Carriger |
+| 588 | 35 | Crafty Link |
+| 589 | 35 | Saucy Crusher |
+| 590 | 35 | Sashaleo |
+| 591 | 35 | Giggy Clusterer |
+| 592 | 35 | Hyedie Badie |
 | 593 | 34 | Esha I'msoproudofmyself Davis |
 | 594 | 34 | Sharee Robinson |
 | 595 | 34 | Latoya Carson |
@@ -1015,8 +1015,8 @@
 | 1007 | 5 | Happy |
 | 1008 | 5 | Zappy Clearfit |
 | 1009 | 5 | Derek Beverly |
-| 1010 | 5 | Tipsy Builderline |
-| 1011 | 5 | Duckey |
+| 1010 | 5 | Duckey |
+| 1011 | 5 | Tipsy Builderline |
 
 ---
 *Standings created by tournaments datasource generation tool*
