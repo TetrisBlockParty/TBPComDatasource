@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 11:18:17 UTC
+# Standings for team4 as of 2026-06-06 11:18:38 UTC
 
 **Total Participants:** 936
 
@@ -24,7 +24,7 @@
 | 16 | 2446 | Senor Moppy |
 | 17 | 2444 | Daring Ziggy |
 | 18 | 1805 | Fruitpunch |
-| 19 | 1400 | Dana Rinaldi |
+| 19 | 1440 | Dana Rinaldi |
 | 20 | 1143 | Hanan Hana |
 | 21 | 1123 | Jackie Lucas |
 | 22 | 1059 | Squirrel Donkey |
@@ -54,7 +54,7 @@
 | 46 | 600 | Chaz Duncan |
 | 47 | 600 | Caitlin Johnson |
 | 48 | 559 | Lynn Grimes |
-| 49 | 536 | Blayne Kole |
+| 49 | 556 | Blayne Kole |
 | 50 | 530 | Jonathan Hewitt |
 | 51 | 510 | Krysten Danielle Richard |
 | 52 | 505 | Fancy Crasher |
@@ -89,7 +89,7 @@
 | 81 | 320 | Jackie Jackson |
 | 82 | 320 | DexterDobbins |
 | 83 | 317 | J |
-| 84 | 306 | Bubbly Twistpiece |
+| 84 | 309 | Bubbly Twistpiece |
 | 85 | 302 | JoLinda Dunn |
 | 86 | 301 | Маркус Вік |
 | 87 | 300 | Genag |

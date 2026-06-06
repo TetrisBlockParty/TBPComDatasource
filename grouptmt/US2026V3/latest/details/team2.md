@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 11:18:17 UTC
+# Standings for team2 as of 2026-06-06 11:18:38 UTC
 
 **Total Participants:** 1111
 
@@ -62,8 +62,8 @@
 | 54 | 671 | Brandi Thompson |
 | 55 | 660 | Julie Trede Amerson |
 | 56 | 659 | Marie Luciano |
-| 57 | 629 | Dane Marko |
-| 58 | 616 | Betty Barrett |
+| 57 | 646 | Betty Barrett |
+| 58 | 629 | Dane Marko |
 | 59 | 614 | Block Dog |
 | 60 | 614 | Deborah Boyce Minor |
 | 61 | 592 | Brandon Link |
@@ -292,66 +292,66 @@
 | 284 | 89 | Belle |
 | 285 | 88 | Nano. |
 | 286 | 88 | Anthony Swift |
-| 287 | 87 | Sam Brewster |
+| 287 | 87 | Charlie Wilson |
 | 288 | 87 | Boldy Fitclear |
-| 289 | 87 | Gloria May Shook |
-| 290 | 87 | Charlie Wilson |
-| 291 | 87 | Wendy Mcbride |
+| 289 | 87 | Wendy Mcbride |
+| 290 | 87 | Gloria May Shook |
+| 291 | 87 | Sam Brewster |
 | 292 | 86 | Bianca Woodruff |
-| 293 | 85 | Christina Maria |
-| 294 | 85 | Daisy Girl |
-| 295 | 85 | James Sayers |
+| 293 | 85 | James Sayers |
+| 294 | 85 | Christina Maria |
+| 295 | 85 | Daisy Girl |
 | 296 | 85 | Theresa Marie |
 | 297 | 84 | Lisa Underwood Desmond |
 | 298 | 83 | TetrisMama |
-| 299 | 82 | giamy |
-| 300 | 82 | Chill Line |
-| 301 | 82 | Wendy McKee |
+| 299 | 83 | Louis Brudzinski |
+| 300 | 82 | Hypee |
+| 301 | 82 | Norma Ortiz |
 | 302 | 82 | Sandra Pursell |
-| 303 | 82 | Hypee |
-| 304 | 82 | Norma Ortiz |
-| 305 | 81 | Angeleye A James |
-| 306 | 81 | Epic Tilemaker |
-| 307 | 81 | Heather Hi |
-| 308 | 81 | Shiny Spinfit |
-| 309 | 81 | Kimmyc |
+| 303 | 82 | Wendy McKee |
+| 304 | 82 | Chill Line |
+| 305 | 82 | giamy |
+| 306 | 81 | Heather Hi |
+| 307 | 81 | Lindsey Ross |
+| 308 | 81 | Angeleye A James |
+| 309 | 81 | Epic Tilemaker |
 | 310 | 81 | YldBoar |
 | 311 | 81 | Rhonda Driskill |
-| 312 | 81 | Lindsey Ross |
-| 313 | 81 | Cassandra Milner |
-| 314 | 80 | Jill Goff |
+| 312 | 81 | Shiny Spinfit |
+| 313 | 81 | Kimmyc |
+| 314 | 81 | Cassandra Milner |
 | 315 | 80 | Eva Lopez |
-| 316 | 80 | Skye Ehret |
-| 317 | 80 | Nicole Hogue |
-| 318 | 79 | Candi Cane |
-| 319 | 79 | Aeryal Snow |
-| 320 | 79 | Lezley Hawkins |
-| 321 | 78 | Jef Wassom |
-| 322 | 77 | MUMBLES |
+| 316 | 80 | Jill Goff |
+| 317 | 80 | Skye Ehret |
+| 318 | 80 | Nicole Hogue |
+| 319 | 79 | Candi Cane |
+| 320 | 79 | Aeryal Snow |
+| 321 | 79 | Lezley Hawkins |
+| 322 | 78 | Jef Wassom |
 | 323 | 77 | Nikki EightySixed |
-| 324 | 77 | Sandra Belk |
-| 325 | 77 | Heather Vircik |
-| 326 | 77 | Nikki Hayes |
+| 324 | 77 | Nikki Hayes |
+| 325 | 77 | Sandra Belk |
+| 326 | 77 | Heather Vircik |
 | 327 | 77 | Kenzie |
-| 328 | 76 | Reign Hustler |
-| 329 | 76 | Alonzo Reed |
+| 328 | 77 | MUMBLES |
+| 329 | 76 | Reign Hustler |
 | 330 | 76 | Tiffany Fitch |
-| 331 | 75 | Analee Nicole Jones |
-| 332 | 75 | Paula Haskins |
+| 331 | 76 | Alonzo Reed |
+| 332 | 75 | Jessica Christine |
 | 333 | 75 | Epic Framezone |
 | 334 | 75 | Christine James |
-| 335 | 75 | Jessica Christine |
-| 336 | 75 | Jgato |
-| 337 | 74 | Derrick |
-| 338 | 74 | Jumpy Dashpiece |
-| 339 | 74 | Natasha Lee |
-| 340 | 73 | Rachel M. Farnsworth |
-| 341 | 73 | Joannah Capilitan |
-| 342 | 73 | Sunny Spinzone |
-| 343 | 73 | Louis Brudzinski |
+| 335 | 75 | Paula Haskins |
+| 336 | 75 | Analee Nicole Jones |
+| 337 | 75 | Jgato |
+| 338 | 74 | Derrick |
+| 339 | 74 | Jumpy Dashpiece |
+| 340 | 74 | Natasha Lee |
+| 341 | 73 | Sunny Spinzone |
+| 342 | 73 | Rachel M. Farnsworth |
+| 343 | 73 | Joannah Capilitan |
 | 344 | 73 | bozzycat |
-| 345 | 72 | StacyBabee |
-| 346 | 72 | Stephanie Smith Robinson |
+| 345 | 72 | Stephanie Smith Robinson |
+| 346 | 72 | StacyBabee |
 | 347 | 72 | Kendi |
 | 348 | 72 | Sully |
 | 349 | 72 | Mary Carriere |
