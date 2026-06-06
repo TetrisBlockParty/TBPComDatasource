@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 00:40:15 UTC
+# Standings for team1 as of 2026-06-06 00:40:38 UTC
 
 **Total Participants:** 651
 
@@ -74,7 +74,7 @@
 | 66 | 184 | Voice |
 | 67 | 177 | Chris Sladoje |
 | 68 | 175 | Songne Arif |
-| 69 | 172 | Kimberly Hernandez |
+| 69 | 173 | Kimberly Hernandez |
 | 70 | 171 | SPNLover24 |
 | 71 | 166 | Tarnisha Neicy Jones |
 | 72 | 165 | Davionte DaeDae Hopson-Rodriguez |
@@ -648,15 +648,15 @@
 | 640 | 5 | the guy |
 | 641 | 5 | Shakuria Cortia Burney |
 | 642 | 5 | Jennifer Moore |
-| 643 | 5 | Kidgib5 |
-| 644 | 5 | Logan Frost |
-| 645 | 5 | Sheila Burnham |
-| 646 | 5 | Duckey |
+| 643 | 5 | Mommy Frank |
+| 644 | 5 | Tito Divyn |
+| 645 | 5 | Shawn Himes |
+| 646 | 5 | Tamika Fisher |
 | 647 | 5 | Zappy Clearfit |
-| 648 | 5 | Tamika Fisher |
-| 649 | 5 | Shawn Himes |
-| 650 | 5 | Tito Divyn |
-| 651 | 5 | Mommy Frank |
+| 648 | 5 | Duckey |
+| 649 | 5 | Sheila Burnham |
+| 650 | 5 | Logan Frost |
+| 651 | 5 | Kidgib5 |
 
 ---
 *Standings created by tournaments datasource generation tool*

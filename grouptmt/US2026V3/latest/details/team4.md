@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 00:40:15 UTC
+# Standings for team4 as of 2026-06-06 00:40:38 UTC
 
 **Total Participants:** 600
 
@@ -60,20 +60,20 @@
 | 52 | 240 | Jojo Ann |
 | 53 | 224 | Sisi RedVelvet Reneè |
 | 54 | 216 | Cal Renee |
-| 55 | 203 | Patrick Alley |
-| 56 | 203 | Andrew Dang |
-| 57 | 200 | Jackie Lucas |
-| 58 | 200 | Leah Gorsuch |
-| 59 | 192 | Renee Sapp |
-| 60 | 184 | Giggly Tilt |
-| 61 | 180 | Aisha Estrada |
-| 62 | 173 | 626 |
-| 63 | 172 | Leigh Pierce |
-| 64 | 169 | blockhead |
-| 65 | 169 | Kimyatta Cavin |
-| 66 | 168 | Beee |
-| 67 | 163 | Kim |
-| 68 | 161 | Jonathan Hewitt |
+| 55 | 204 | Jonathan Hewitt |
+| 56 | 203 | Patrick Alley |
+| 57 | 203 | Andrew Dang |
+| 58 | 200 | Jackie Lucas |
+| 59 | 200 | Leah Gorsuch |
+| 60 | 192 | Renee Sapp |
+| 61 | 184 | Giggly Tilt |
+| 62 | 180 | Aisha Estrada |
+| 63 | 173 | 626 |
+| 64 | 172 | Leigh Pierce |
+| 65 | 169 | blockhead |
+| 66 | 169 | Kimyatta Cavin |
+| 67 | 168 | Beee |
+| 68 | 163 | Kim |
 | 69 | 160 | Shmeedo |
 | 70 | 159 | iiPurgeV2 |
 | 71 | 158 | Lisa Garcia |
@@ -101,19 +101,19 @@
 | 93 | 118 | Goofy Fall |
 | 94 | 117 | BCO22 |
 | 95 | 114 | Bryan DjMagnum Evans |
-| 96 | 108 | Juvon SupaShawdii Brooks |
-| 97 | 108 | Debby Ruof |
-| 98 | 107 | Shayna Vaigneur-Hall |
-| 99 | 105 | Taz |
-| 100 | 104 | Tawna Curry |
-| 101 | 104 | Justin Ballard |
-| 102 | 102 | Lush Fitblock |
-| 103 | 100 | Boldy Rumbler |
-| 104 | 100 | Joab Gonzalez |
-| 105 | 100 | woopa 716 |
-| 106 | 100 | CorieBe |
-| 107 | 99 | Shelby |
-| 108 | 99 | Lani |
+| 96 | 114 | Lani |
+| 97 | 108 | Juvon SupaShawdii Brooks |
+| 98 | 108 | Debby Ruof |
+| 99 | 107 | Shayna Vaigneur-Hall |
+| 100 | 105 | Taz |
+| 101 | 104 | Tawna Curry |
+| 102 | 104 | Justin Ballard |
+| 103 | 102 | Lush Fitblock |
+| 104 | 100 | Boldy Rumbler |
+| 105 | 100 | Joab Gonzalez |
+| 106 | 100 | woopa 716 |
+| 107 | 100 | CorieBe |
+| 108 | 99 | Shelby |
 | 109 | 99 | Simone |
 | 110 | 97 | Cheery Risegrid |
 | 111 | 95 | Маркус Вік |
