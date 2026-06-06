@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 05:55:15 UTC
+# Standings for team4 as of 2026-06-06 05:56:17 UTC
 
 **Total Participants:** 842
 
@@ -58,8 +58,8 @@
 | 50 | 461 | Kayla Fuentes |
 | 51 | 458 | vag1974 |
 | 52 | 440 | Jewelz |
-| 53 | 419 | Caitlyn Wang |
-| 54 | 419 | Sweet Stacker |
+| 53 | 419 | Sweet Stacker |
+| 54 | 419 | Caitlyn Wang |
 | 55 | 402 | Nick Graber |
 | 56 | 400 | Amber Doyle |
 | 57 | 395 | Melissa WC |
@@ -97,8 +97,8 @@
 | 89 | 201 | Renee Sapp |
 | 90 | 200 | Leah Gorsuch |
 | 91 | 195 | Sean Mccleary |
-| 92 | 194 | Lisa lisa |
-| 93 | 194 | Chiquita Blue |
+| 92 | 194 | Chiquita Blue |
+| 93 | 194 | Lisa lisa |
 | 94 | 193 | Tiffany Bunker-Hill |
 | 95 | 184 | Giggly Tilt |
 | 96 | 182 | blockhead |
@@ -113,8 +113,8 @@
 | 105 | 167 | Damon Gaston |
 | 106 | 166 | Aramat |
 | 107 | 162 | Hen |
-| 108 | 160 | Kitsune Bi |
-| 109 | 160 | Littlebrat |
+| 108 | 160 | Littlebrat |
+| 109 | 160 | Kitsune Bi |
 | 110 | 159 | iiPurgeV2 |
 | 111 | 157 | QueenLi86 |
 | 112 | 155 | RotatedWrongAgain |
@@ -314,45 +314,45 @@
 | 306 | 57 | BusterBear56 |
 | 307 | 56 | Bre Dee |
 | 308 | 56 | Karen Davis |
-| 309 | 55 | Daring Brickbuilder |
-| 310 | 55 | The Jazziest |
+| 309 | 55 | The Jazziest |
+| 310 | 55 | Daring Brickbuilder |
 | 311 | 54 | Playa |
 | 312 | 54 | Zappy Matchgrid |
-| 313 | 54 | Dawn Phelps |
-| 314 | 54 | Alex Armour |
+| 313 | 54 | Alex Armour |
+| 314 | 54 | Dawn Phelps |
 | 315 | 53 | LaTanya GeminiondaRise Johnson |
 | 316 | 52 | shawna |
 | 317 | 52 | Jj Johnson |
-| 318 | 51 | Kelly Howland |
-| 319 | 51 | YenSid |
-| 320 | 51 | yourmomz |
-| 321 | 51 | Amanda Snow |
+| 318 | 51 | YenSid |
+| 319 | 51 | Clever Patterner |
+| 320 | 51 | Michellee Lewis |
+| 321 | 51 | Vergie Michael |
 | 322 | 51 | Bridget Stevens |
-| 323 | 51 | Vergie Michael |
-| 324 | 51 | Erika Rubio |
-| 325 | 51 | Michellee Lewis |
-| 326 | 50 | Cheeky Climber |
-| 327 | 50 | Nerdy Brickster |
-| 328 | 50 | Jeff Margolis |
-| 329 | 50 | Susan Stofberg Beltran |
-| 330 | 50 | Lora Schallert |
-| 331 | 50 | Andrick |
-| 332 | 50 | Sassy Column |
-| 333 | 50 | Ginny |
-| 334 | 50 | Nova Kain |
-| 335 | 50 | Brittany |
-| 336 | 50 | Snappy Fitzone |
-| 337 | 50 | Jacqueline Wright |
-| 338 | 50 | Anna Ryan |
+| 323 | 51 | Amanda Snow |
+| 324 | 51 | Kelly Howland |
+| 325 | 51 | Erika Rubio |
+| 326 | 51 | yourmomz |
+| 327 | 50 | Lora Schallert |
+| 328 | 50 | Andrick |
+| 329 | 50 | Sassy Column |
+| 330 | 50 | Susan Stofberg Beltran |
+| 331 | 50 | Ginny |
+| 332 | 50 | Jeff Margolis |
+| 333 | 50 | Nerdy Brickster |
+| 334 | 50 | Cheeky Climber |
+| 335 | 50 | Nova Kain |
+| 336 | 50 | Brittany |
+| 337 | 50 | Snappy Fitzone |
+| 338 | 50 | Jacqueline Wright |
 | 339 | 50 | Diane Obungu |
-| 340 | 49 | Clever Patterner |
-| 341 | 49 | Destiny Starr LeValdo |
-| 342 | 49 | Darren Miguel |
-| 343 | 49 | Fancy Rollfit |
+| 340 | 50 | Anna Ryan |
+| 341 | 49 | Karen Riexinger |
+| 342 | 49 | smarty |
+| 343 | 49 | Nicole |
 | 344 | 49 | Laurie Patrick |
-| 345 | 49 | Nicole |
-| 346 | 49 | smarty |
-| 347 | 49 | Karen Riexinger |
+| 345 | 49 | Fancy Rollfit |
+| 346 | 49 | Darren Miguel |
+| 347 | 49 | Destiny Starr LeValdo |
 | 348 | 48 | Joseph Hunter |
 | 349 | 48 | Surviving Be Back Soon |
 | 350 | 48 | LilRain |
@@ -575,14 +575,14 @@
 | 567 | 24 | Lana Tran |
 | 568 | 23 | Silly Fallzone |
 | 569 | 23 | Casey Thomas |
-| 570 | 22 | Breezy Wife |
-| 571 | 22 | taya |
-| 572 | 22 | Magda Lene |
-| 573 | 22 | Lisa Pie |
-| 574 | 22 | Funky Rollzone |
-| 575 | 22 | Cranky Twisterfit |
-| 576 | 22 | Shakita Moore-Bernard |
-| 577 | 22 | Kalisha Monique Wright |
+| 570 | 23 | Kalisha Monique Wright |
+| 571 | 22 | Breezy Wife |
+| 572 | 22 | taya |
+| 573 | 22 | Magda Lene |
+| 574 | 22 | Lisa Pie |
+| 575 | 22 | Funky Rollzone |
+| 576 | 22 | Cranky Twisterfit |
+| 577 | 22 | Shakita Moore-Bernard |
 | 578 | 22 | Erich EMac McIntosh |
 | 579 | 22 | Audrianna Skaff |
 | 580 | 22 | Erica Pompey |

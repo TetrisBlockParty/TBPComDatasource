@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 05:55:15 UTC
+# Standings for team2 as of 2026-06-06 05:56:17 UTC
 
 **Total Participants:** 1028
 
@@ -31,13 +31,13 @@
 | 23 | 1744 | Alexia Reagan |
 | 24 | 1594 | Ashley Miller |
 | 25 | 1550 | Quirky Catcher |
-| 26 | 1444 | Bobbi |
-| 27 | 1425 | Angie BBlock |
+| 26 | 1543 | Angie BBlock |
+| 27 | 1444 | Bobbi |
 | 28 | 1417 | Bea Bee |
-| 29 | 1286 | Christina Jambard Sampier |
-| 30 | 1206 | Happy Pivotfall |
-| 31 | 1201 | Monica Galli |
-| 32 | 1169 | Spunky Clicker |
+| 29 | 1369 | Spunky Clicker |
+| 30 | 1286 | Christina Jambard Sampier |
+| 31 | 1206 | Happy Pivotfall |
+| 32 | 1201 | Monica Galli |
 | 33 | 1128 | Jennifer Corder |
 | 34 | 1100 | Kathleen M Cox |
 | 35 | 1027 | Frilly Match |
@@ -60,9 +60,9 @@
 | 52 | 553 | Jazzy Faller |
 | 53 | 550 | Angie Mccain |
 | 54 | 546 | Betty Barrett |
-| 55 | 543 | Kathleen Dumbazz |
-| 56 | 540 | Jamie Jones |
-| 57 | 537 | Hoppy Rotate |
+| 55 | 543 | Hoppy Rotate |
+| 56 | 543 | Kathleen Dumbazz |
+| 57 | 540 | Jamie Jones |
 | 58 | 515 | Loony Faller |
 | 59 | 500 | Denise Potter |
 | 60 | 497 | Lindsay Klemp |
@@ -94,18 +94,18 @@
 | 86 | 299 | Amber Miller Wirick |
 | 87 | 294 | Vistabrat |
 | 88 | 289 | Giddy Slamdrop |
-| 89 | 280 | Courtney McCulley |
+| 89 | 283 | Amber Salazar |
 | 90 | 280 | Mom |
-| 91 | 279 | Renee Freeman Jacobson |
-| 92 | 279 | James Ward |
-| 93 | 275 | Bubbly Strikerpiece |
-| 94 | 269 | Amber Salazar |
+| 91 | 280 | Courtney McCulley |
+| 92 | 279 | Renee Freeman Jacobson |
+| 93 | 279 | James Ward |
+| 94 | 275 | Bubbly Strikerpiece |
 | 95 | 263 | Sarah Griffey |
 | 96 | 258 | Erin Thomas |
 | 97 | 254 | Smiley Dropper |
 | 98 | 253 | MaddieCherie |
-| 99 | 253 | Hilliary Beyer |
-| 100 | 253 | Heather Burgett |
+| 99 | 253 | Heather Burgett |
+| 100 | 253 | Hilliary Beyer |
 | 101 | 251 | Angie Kowalsky Olson |
 | 102 | 250 | Wmk Rathbun |
 | 103 | 249 | Bon Lynn |
@@ -122,9 +122,9 @@
 | 114 | 201 | Danielle Pack Lewellen |
 | 115 | 200 | Sarah Grundisch |
 | 116 | 200 | Lisa Breiding |
-| 117 | 199 | Stella |
-| 118 | 199 | Beverly Lynn Mills |
-| 119 | 197 | Amber Cogdill |
+| 117 | 199 | Amber Cogdill |
+| 118 | 199 | Stella |
+| 119 | 199 | Beverly Lynn Mills |
 | 120 | 197 | Eric Wayne Maschman |
 | 121 | 195 | Bb |
 | 122 | 190 | Suki Jacobs |
