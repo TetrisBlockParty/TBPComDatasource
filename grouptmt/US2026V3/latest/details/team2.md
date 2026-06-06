@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 08:48:16 UTC
+# Standings for team2 as of 2026-06-06 08:48:39 UTC
 
 **Total Participants:** 1084
 
@@ -132,13 +132,13 @@
 | 124 | 204 | Deborah Boyce Minor |
 | 125 | 201 | Danielle Pack Lewellen |
 | 126 | 200 | Sarah Grundisch |
-| 127 | 200 | Lisa Breiding |
-| 128 | 200 | Kelly Vedder |
+| 127 | 200 | Kelly Vedder |
+| 128 | 200 | Lisa Breiding |
 | 129 | 199 | Stella |
 | 130 | 199 | Beverly Lynn Mills |
 | 131 | 199 | Amber Cogdill |
-| 132 | 197 | Dallas Runyan |
-| 133 | 197 | Eric Wayne Maschman |
+| 132 | 198 | Eric Wayne Maschman |
+| 133 | 197 | Dallas Runyan |
 | 134 | 195 | Bb |
 | 135 | 190 | Suki Jacobs |
 | 136 | 187 | Laura Melton |
@@ -171,30 +171,30 @@
 | 163 | 151 | Marilyn Mendoza |
 | 164 | 150 | Crystal Allen |
 | 165 | 150 | Rick |
-| 166 | 149 | Lily |
-| 167 | 149 | Jenni LeBlanc |
-| 168 | 148 | Curly Windbreaker |
-| 169 | 147 | Nerdy Climber |
+| 166 | 149 | Nerdy Climber |
+| 167 | 149 | Lily |
+| 168 | 149 | Jenni LeBlanc |
+| 169 | 148 | Curly Windbreaker |
 | 170 | 147 | Gill |
 | 171 | 145 | H |
 | 172 | 145 | Amanda Priddy |
 | 173 | 145 | SEH |
 | 174 | 142 | Cortney Coleman |
-| 175 | 141 | Spicy Risegrid |
-| 176 | 141 | Melisa |
-| 177 | 140 | Gabriella Humphreys |
-| 178 | 140 | Brittney Williams |
-| 179 | 140 | Billie Jensen |
-| 180 | 140 | marsam |
-| 181 | 140 | Iesha Cupil |
+| 175 | 141 | Melisa |
+| 176 | 141 | Spicy Risegrid |
+| 177 | 140 | Brittney Williams |
+| 178 | 140 | Iesha Cupil |
+| 179 | 140 | marsam |
+| 180 | 140 | Gabriella Humphreys |
+| 181 | 140 | Billie Jensen |
 | 182 | 139 | Victoria Pale |
 | 183 | 138 | NickandJess Reynolds |
 | 184 | 137 | Lindsey Ford |
 | 185 | 136 | Lauren Maxwell |
 | 186 | 136 | Joni Michelle Morgan |
 | 187 | 136 | Lashanda Bertram |
-| 188 | 135 | Tina Marie |
-| 189 | 135 | Marylin Eacker |
+| 188 | 135 | Marylin Eacker |
+| 189 | 135 | Tina Marie |
 | 190 | 133 | Bengy Lead |
 | 191 | 132 | Mtnblzr |
 | 192 | 132 | Alison Waller |
@@ -1062,34 +1062,34 @@
 | 1054 | 6 | Celeste Samuels |
 | 1055 | 6 | Fluffypuffin |
 | 1056 | 6 | Snappy Fitblock |
-| 1057 | 6 | Snappy Matchgrid |
-| 1058 | 6 | Lori Yelvington Cain |
-| 1059 | 6 | Cozy Curve |
-| 1060 | 6 | Lavenda Nettles |
+| 1057 | 6 | Lori Yelvington Cain |
+| 1058 | 6 | Snappy Matchgrid |
+| 1059 | 6 | Lavenda Nettles |
+| 1060 | 6 | Cozy Curve |
 | 1061 | 6 | Shelby Wilson |
-| 1062 | 6 | Cheeky Dashpiece |
-| 1063 | 6 | FabTeach |
-| 1064 | 6 | Michele Choate |
-| 1065 | 6 | Partin |
-| 1066 | 6 | Trena Sapp |
-| 1067 | 6 | Trisha Farley |
-| 1068 | 6 | Lou Sassole |
+| 1062 | 6 | Partin |
+| 1063 | 6 | Cheeky Dashpiece |
+| 1064 | 6 | FabTeach |
+| 1065 | 6 | Michele Choate |
+| 1066 | 6 | Lou Sassole |
+| 1067 | 6 | Trena Sapp |
+| 1068 | 6 | Trisha Farley |
 | 1069 | 5 | Mercedes Lowery |
 | 1070 | 5 | Nolife |
 | 1071 | 5 | Duck |
 | 1072 | 5 | Jennifer Mauler Schmidt |
 | 1073 | 5 | Nicole Plummer |
 | 1074 | 5 | Deborah Fowler |
-| 1075 | 5 | Flynn Flibble |
-| 1076 | 5 | Bennie Farbo |
-| 1077 | 5 | Jennifer Roper Stanley |
-| 1078 | 5 | Brittany Weatherspoon |
-| 1079 | 5 | Kayley |
-| 1080 | 5 | Nerdy Base |
-| 1081 | 5 | Crystal Poss |
-| 1082 | 5 | Danh Nguyen |
-| 1083 | 5 | Agnes Gable |
-| 1084 | 5 | Chirpy Towerer |
+| 1075 | 5 | Chirpy Towerer |
+| 1076 | 5 | Flynn Flibble |
+| 1077 | 5 | Bennie Farbo |
+| 1078 | 5 | Jennifer Roper Stanley |
+| 1079 | 5 | Brittany Weatherspoon |
+| 1080 | 5 | Kayley |
+| 1081 | 5 | Nerdy Base |
+| 1082 | 5 | Crystal Poss |
+| 1083 | 5 | Danh Nguyen |
+| 1084 | 5 | Agnes Gable |
 
 ---
 *Standings created by tournaments datasource generation tool*
