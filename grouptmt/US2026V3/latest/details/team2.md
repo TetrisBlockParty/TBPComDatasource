@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 23:40:42 UTC
+# Standings for team2 as of 2026-06-06 23:41:16 UTC
 
 **Total Participants:** 1453
 
@@ -43,7 +43,7 @@
 | 35 | 1800 | Quirky Catcher |
 | 36 | 1740 | Ashley Miller |
 | 37 | 1678 | Betty Barrett |
-| 38 | 1577 | Bea Bee |
+| 38 | 1637 | Bea Bee |
 | 39 | 1510 | Shandrea Crawford |
 | 40 | 1501 | Monica Galli |
 | 41 | 1482 | Aubree Richard |
@@ -148,30 +148,30 @@
 | 140 | 317 | Ruby Sandberg |
 | 141 | 315 | Milad Arzani |
 | 142 | 314 | Keri Mears |
-| 143 | 313 | Cool Climber |
-| 144 | 313 | Josh Twilley |
+| 143 | 313 | Josh Twilley |
+| 144 | 313 | Cool Climber |
 | 145 | 313 | Theresa Marie |
 | 146 | 311 | Nikki Hayes |
 | 147 | 310 | Jennifer Smith |
-| 148 | 303 | Hoppy Mover |
-| 149 | 303 | Danielle Blount |
+| 148 | 303 | Danielle Blount |
+| 149 | 303 | Hoppy Mover |
 | 150 | 302 | Hypee |
 | 151 | 300 | Linda Guay |
 | 152 | 299 | Ashley Green |
-| 153 | 298 | Breeana Bennett |
-| 154 | 296 | Snappy Combo |
-| 155 | 294 | Vistabrat |
-| 156 | 292 | James Ward |
-| 157 | 291 | Flashy Twistline |
-| 158 | 288 | Pooh |
+| 153 | 298 | Pooh |
+| 154 | 298 | Breeana Bennett |
+| 155 | 296 | Snappy Combo |
+| 156 | 294 | Vistabrat |
+| 157 | 292 | James Ward |
+| 158 | 291 | Flashy Twistline |
 | 159 | 286 | Heather Burgett |
-| 160 | 280 | Brittney Williams |
-| 161 | 280 | Renee Freeman Jacobson |
-| 162 | 280 | Patricia Carroll |
-| 163 | 278 | Ashley Billiot Rhodes |
-| 164 | 278 | Erin Thomas |
-| 165 | 277 | DayDreamer79 |
-| 166 | 277 | Sarah Mccolgan |
+| 160 | 280 | Patricia Carroll |
+| 161 | 280 | Brittney Williams |
+| 162 | 280 | Renee Freeman Jacobson |
+| 163 | 278 | Erin Thomas |
+| 164 | 278 | Ashley Billiot Rhodes |
+| 165 | 277 | Sarah Mccolgan |
+| 166 | 277 | DayDreamer79 |
 | 167 | 275 | Jackie Tupper |
 | 168 | 271 | H |
 | 169 | 270 | Hector |
