@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 09:46:16 UTC
+# Standings for team2 as of 2026-06-06 09:46:39 UTC
 
 **Total Participants:** 1101
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 11046 | Summer Harrison |
-| 2 | 8100 | Mochi |
+| 2 | 9000 | Mochi |
 | 3 | 7687 | Lacey Nolting |
 | 4 | 6045 | Morgann McDaniel |
 | 5 | 5987 | Tim Ix |
@@ -1079,34 +1079,34 @@
 | 1071 | 6 | Lavenda Nettles |
 | 1072 | 6 | Lori Yelvington Cain |
 | 1073 | 6 | Trena Sapp |
-| 1074 | 6 | Cozy Curve |
-| 1075 | 6 | Jessie |
-| 1076 | 6 | Michele Choate |
-| 1077 | 6 | Emily |
+| 1074 | 6 | Jessie |
+| 1075 | 6 | FabTeach |
+| 1076 | 6 | Cozy Curve |
+| 1077 | 6 | Shelby Wilson |
 | 1078 | 6 | Amanda Knox |
-| 1079 | 6 | FabTeach |
-| 1080 | 6 | Shelby Wilson |
-| 1081 | 6 | Trisha Farley |
-| 1082 | 6 | Partin |
-| 1083 | 6 | Cheeky Dashpiece |
-| 1084 | 6 | Celeste Samuels |
+| 1079 | 6 | Trisha Farley |
+| 1080 | 6 | Partin |
+| 1081 | 6 | Cheeky Dashpiece |
+| 1082 | 6 | Emily |
+| 1083 | 6 | Michele Choate |
+| 1084 | 6 | Snappy Fitblock |
 | 1085 | 6 | Lou Sassole |
-| 1086 | 6 | Snappy Fitblock |
-| 1087 | 5 | Nolife |
-| 1088 | 5 | Jennifer Roper Stanley |
+| 1086 | 6 | Celeste Samuels |
+| 1087 | 5 | Crystal Poss |
+| 1088 | 5 | Flynn Flibble |
 | 1089 | 5 | Deborah Fowler |
-| 1090 | 5 | Crystal Poss |
-| 1091 | 5 | Flynn Flibble |
-| 1092 | 5 | Agnes Gable |
-| 1093 | 5 | Dapper Clearpiece |
-| 1094 | 5 | Mercedes Lowery |
-| 1095 | 5 | Nerdy Base |
-| 1096 | 5 | Brittany Weatherspoon |
-| 1097 | 5 | Jennifer Mauler Schmidt |
-| 1098 | 5 | Chirpy Towerer |
-| 1099 | 5 | Duck |
-| 1100 | 5 | Danh Nguyen |
-| 1101 | 5 | Nicole Plummer |
+| 1090 | 5 | Agnes Gable |
+| 1091 | 5 | Dapper Clearpiece |
+| 1092 | 5 | Jennifer Roper Stanley |
+| 1093 | 5 | Brittany Weatherspoon |
+| 1094 | 5 | Nerdy Base |
+| 1095 | 5 | Nolife |
+| 1096 | 5 | Duck |
+| 1097 | 5 | Nicole Plummer |
+| 1098 | 5 | Mercedes Lowery |
+| 1099 | 5 | Danh Nguyen |
+| 1100 | 5 | Chirpy Towerer |
+| 1101 | 5 | Jennifer Mauler Schmidt |
 
 ---
 *Standings created by tournaments datasource generation tool*
