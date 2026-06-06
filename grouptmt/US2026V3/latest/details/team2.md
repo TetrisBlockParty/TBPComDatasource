@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 05:44:39 UTC
+# Standings for team2 as of 2026-06-06 05:45:16 UTC
 
 **Total Participants:** 1023
 
@@ -78,9 +78,9 @@
 | 70 | 405 | Judy Long |
 | 71 | 400 | Allie Bug |
 | 72 | 390 | La chulis |
-| 73 | 375 | Marie Luciano |
-| 74 | 374 | Mikki Torres |
-| 75 | 370 | Kimberly Cowan |
+| 73 | 389 | Kimberly Cowan |
+| 74 | 375 | Marie Luciano |
+| 75 | 374 | Mikki Torres |
 | 76 | 354 | Branden Frankowski |
 | 77 | 335 | Kaycie Shaffer |
 | 78 | 328 | Tim Tim |
@@ -96,11 +96,11 @@
 | 88 | 289 | Giddy Slamdrop |
 | 89 | 280 | Mom |
 | 90 | 280 | Courtney McCulley |
-| 91 | 279 | Renee Freeman Jacobson |
-| 92 | 275 | Bubbly Strikerpiece |
-| 93 | 266 | Amber Salazar |
-| 94 | 263 | Sarah Griffey |
-| 95 | 259 | James Ward |
+| 91 | 279 | James Ward |
+| 92 | 279 | Renee Freeman Jacobson |
+| 93 | 275 | Bubbly Strikerpiece |
+| 94 | 266 | Amber Salazar |
+| 95 | 263 | Sarah Griffey |
 | 96 | 258 | Erin Thomas |
 | 97 | 253 | MaddieCherie |
 | 98 | 253 | Hilliary Beyer |
@@ -113,15 +113,15 @@
 | 105 | 236 | Steven Craig |
 | 106 | 230 | Brandy Chinelle |
 | 107 | 228 | Keri Mears |
-| 108 | 218 | Amy Nicole McCanne |
-| 109 | 215 | Ashley Green |
-| 110 | 204 | Deborah Boyce Minor |
-| 111 | 201 | Danielle Pack Lewellen |
-| 112 | 200 | Sarah Grundisch |
-| 113 | 200 | Lisa Breiding |
-| 114 | 199 | Stella |
-| 115 | 199 | Beverly Lynn Mills |
-| 116 | 198 | Fudgie Pie |
+| 108 | 218 | Fudgie Pie |
+| 109 | 218 | Amy Nicole McCanne |
+| 110 | 215 | Ashley Green |
+| 111 | 204 | Deborah Boyce Minor |
+| 112 | 201 | Danielle Pack Lewellen |
+| 113 | 200 | Sarah Grundisch |
+| 114 | 200 | Lisa Breiding |
+| 115 | 199 | Stella |
+| 116 | 199 | Beverly Lynn Mills |
 | 117 | 197 | Eric Wayne Maschman |
 | 118 | 197 | Andre Love |
 | 119 | 195 | Bb |
@@ -317,28 +317,28 @@
 | 309 | 70 | Jennifer Covington |
 | 310 | 69 | Justin McCray |
 | 311 | 69 | Ashley Billiot Rhodes |
-| 312 | 69 | Momof2wigglebutts |
-| 313 | 69 | Alonzo Reed |
+| 312 | 69 | Alonzo Reed |
+| 313 | 69 | Momof2wigglebutts |
 | 314 | 69 | REE4 |
-| 315 | 68 | Belinda Gullion Austin |
-| 316 | 68 | Fancy Stacker |
-| 317 | 68 | Erica South |
-| 318 | 68 | Avie Lou |
-| 319 | 68 | Arik DiLorenzo |
-| 320 | 66 | Frilly Shiftsnap |
-| 321 | 66 | Jennifer Lalk |
-| 322 | 66 | Donna Segletes Kay |
-| 323 | 66 | Traci Abern |
+| 315 | 68 | Avie Lou |
+| 316 | 68 | Belinda Gullion Austin |
+| 317 | 68 | Arik DiLorenzo |
+| 318 | 68 | Erica South |
+| 319 | 68 | Fancy Stacker |
+| 320 | 66 | Donna Segletes Kay |
+| 321 | 66 | Traci Abern |
+| 322 | 66 | Jennifer Lalk |
+| 323 | 66 | Frilly Shiftsnap |
 | 324 | 65 | Justin Stark |
-| 325 | 65 | Sarah Jane Gorsuch |
-| 326 | 65 | Jason Cunningham |
-| 327 | 65 | Susie Conger |
-| 328 | 64 | Matt Wylie |
-| 329 | 64 | Martha Lynn Wiggins |
-| 330 | 64 | Paige Lynette Sohl |
-| 331 | 64 | Stephanie Smith Robinson |
-| 332 | 64 | Cool Balancer |
-| 333 | 63 | Crystal Robinson |
+| 325 | 65 | Jason Cunningham |
+| 326 | 65 | Crystal Robinson |
+| 327 | 65 | Sarah Jane Gorsuch |
+| 328 | 65 | Susie Conger |
+| 329 | 64 | Paige Lynette Sohl |
+| 330 | 64 | Martha Lynn Wiggins |
+| 331 | 64 | Matt Wylie |
+| 332 | 64 | Stephanie Smith Robinson |
+| 333 | 64 | Cool Balancer |
 | 334 | 63 | Cozy Cascade |
 | 335 | 63 | Bonnie Huckleberry |
 | 336 | 63 | Lacie B |
