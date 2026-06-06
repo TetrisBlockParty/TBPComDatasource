@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 20:08:18 UTC
+# Standings for team1 as of 2026-06-06 20:08:42 UTC
 
 **Total Participants:** 1142
 
@@ -32,11 +32,11 @@
 | 24 | 1679 | Epic Snapfall |
 | 25 | 1589 | Brian Stackhouse |
 | 26 | 1500 | Kalynn Parks |
-| 27 | 1445 | Erika Windom |
-| 28 | 1420 | Janet Cooke |
-| 29 | 1350 | Cool Bridger |
-| 30 | 1242 | Jacoby E Fleming |
-| 31 | 1231 | Linzie Marie |
+| 27 | 1493 | Linzie Marie |
+| 28 | 1445 | Erika Windom |
+| 29 | 1420 | Janet Cooke |
+| 30 | 1350 | Cool Bridger |
+| 31 | 1242 | Jacoby E Fleming |
 | 32 | 1160 | Daylene Johannes |
 | 33 | 1086 | Ryan Meilleur |
 | 34 | 1075 | Mary Jenkins |
@@ -114,12 +114,12 @@
 | 106 | 365 | Quirky Fallgrid |
 | 107 | 334 | Christana Imjustbutton Stone |
 | 108 | 332 | Hyper Slamdrop |
-| 109 | 328 | Jonathan Vee Jay |
-| 110 | 325 | Joey Albright |
-| 111 | 324 | Tobey Marberry |
-| 112 | 323 | Sheila Burnham |
-| 113 | 319 | GrkGdess |
-| 114 | 316 | Ty Øtg |
+| 109 | 329 | Ty Øtg |
+| 110 | 328 | Jonathan Vee Jay |
+| 111 | 325 | Joey Albright |
+| 112 | 324 | Tobey Marberry |
+| 113 | 323 | Sheila Burnham |
+| 114 | 319 | GrkGdess |
 | 115 | 305 | John Staub |
 | 116 | 304 | Jason Mungin |
 | 117 | 302 | Felicia Williams |
@@ -183,37 +183,37 @@
 | 175 | 190 | Davionte DaeDae Hopson-Rodriguez |
 | 176 | 188 | Sharon Cail |
 | 177 | 185 | Rayshawn Cohen |
-| 178 | 184 | Dai Bo |
-| 179 | 184 | Byron Mario Cawthon |
-| 180 | 184 | Frisky Fall |
+| 178 | 184 | Byron Mario Cawthon |
+| 179 | 184 | Frisky Fall |
+| 180 | 184 | Dai Bo |
 | 181 | 182 | Hyper Blocky |
 | 182 | 180 | Zippy Lifter |
-| 183 | 179 | Amber Wilson |
-| 184 | 179 | ♈️ Ariesbaby |
+| 183 | 179 | ♈️ Ariesbaby |
+| 184 | 179 | Amber Wilson |
 | 185 | 178 | Jazzy Fireflighters |
 | 186 | 178 | Shameka Thrasher |
 | 187 | 176 | Nikki Hogan |
 | 188 | 176 | Anthony Washington |
 | 189 | 172 | pooh |
 | 190 | 172 | Marcheta Cervantez |
-| 191 | 171 | Boldy Liner |
-| 192 | 169 | Christina Rebecca |
-| 193 | 169 | Asha Langford |
-| 194 | 168 | Tina Mitchell |
-| 195 | 168 | IThinkNot |
-| 196 | 167 | Chilly Wipebuilder |
-| 197 | 166 | Tarnisha Neicy Jones |
-| 198 | 165 | Jai |
-| 199 | 165 | Queenie Perry |
-| 200 | 163 | Mafio SO |
-| 201 | 162 | JaClanDiah |
-| 202 | 161 | Dawn L Washington-Feuquay |
-| 203 | 160 | Carolyn Smith |
-| 204 | 160 | Sara Meri |
-| 205 | 160 | DaGuy |
-| 206 | 160 | Jamie Willis |
-| 207 | 159 | Fina McKinnis |
-| 208 | 157 | Karebear |
+| 191 | 172 | Karebear |
+| 192 | 171 | Boldy Liner |
+| 193 | 169 | Christina Rebecca |
+| 194 | 169 | Asha Langford |
+| 195 | 168 | Tina Mitchell |
+| 196 | 168 | IThinkNot |
+| 197 | 167 | Chilly Wipebuilder |
+| 198 | 166 | Tarnisha Neicy Jones |
+| 199 | 165 | Jai |
+| 200 | 165 | Queenie Perry |
+| 201 | 163 | Mafio SO |
+| 202 | 162 | JaClanDiah |
+| 203 | 161 | Dawn L Washington-Feuquay |
+| 204 | 160 | Carolyn Smith |
+| 205 | 160 | Sara Meri |
+| 206 | 160 | DaGuy |
+| 207 | 160 | Jamie Willis |
+| 208 | 159 | Fina McKinnis |
 | 209 | 157 | Kimberly Linares Hernandez |
 | 210 | 157 | Richard Flex |
 | 211 | 156 | Cheeky Pop |
@@ -223,9 +223,9 @@
 | 215 | 152 | Mikayla |
 | 216 | 152 | Jolly Tilefall |
 | 217 | 149 | Lively Riserpiece |
-| 218 | 147 | Melissa D. M. Hornsby |
+| 218 | 147 | MACHETEEDDIE513 |
 | 219 | 147 | Sammie Walker |
-| 220 | 147 | MACHETEEDDIE513 |
+| 220 | 147 | Melissa D. M. Hornsby |
 | 221 | 146 | Keke Ferguson |
 | 222 | 146 | Stephen Providenti |
 | 223 | 146 | BlackQueen105 |
@@ -269,12 +269,12 @@
 | 261 | 118 | Hasty Pivoty |
 | 262 | 117 | Giggy Tower |
 | 263 | 116 | Kelvin Cook |
-| 264 | 115 | Dizzy Dashy |
-| 265 | 115 | Skippy |
-| 266 | 115 | Kenny MrOnethousand Peck |
-| 267 | 114 | Brittany Fells |
-| 268 | 114 | LAhoneybun82 |
-| 269 | 113 | Calvin Green |
+| 264 | 115 | Calvin Green |
+| 265 | 115 | Dizzy Dashy |
+| 266 | 115 | Skippy |
+| 267 | 115 | Kenny MrOnethousand Peck |
+| 268 | 114 | Brittany Fells |
+| 269 | 114 | LAhoneybun82 |
 | 270 | 113 | kitten |
 | 271 | 112 | Bre Poston |
 | 272 | 112 | GamerQueenDS |
