@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 10:23:15 UTC
+# Standings for team1 as of 2026-06-06 10:24:16 UTC
 
 **Total Participants:** 957
 
@@ -546,11 +546,11 @@
 | 538 | 34 | Jelyfish |
 | 539 | 34 | Zayy Wavyy |
 | 540 | 34 | Sharee Robinson |
-| 541 | 33 | Tonny Williams |
-| 542 | 33 | Melanie Houghton-McCann |
-| 543 | 33 | Block King |
-| 544 | 33 | Crtjstr |
-| 545 | 33 | Shakmar |
+| 541 | 34 | Shakmar |
+| 542 | 33 | Tonny Williams |
+| 543 | 33 | Melanie Houghton-McCann |
+| 544 | 33 | Block King |
+| 545 | 33 | Crtjstr |
 | 546 | 33 | Yadira Salgado |
 | 547 | 33 | P C |
 | 548 | 33 | Stephen Garland |
