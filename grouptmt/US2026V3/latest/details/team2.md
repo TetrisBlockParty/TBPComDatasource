@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 04:06:16 UTC
+# Standings for team2 as of 2026-06-06 04:06:39 UTC
 
 **Total Participants:** 944
 
@@ -929,26 +929,26 @@
 | 921 | 6 | Christina Reid |
 | 922 | 6 | FabTeach |
 | 923 | 6 | Michele Choate |
-| 924 | 6 | Emily |
-| 925 | 6 | Amanda Knox |
-| 926 | 6 | Lazy Staggerpiece |
+| 924 | 6 | Amanda Knox |
+| 925 | 6 | Lazy Staggerpiece |
+| 926 | 6 | Emily |
 | 927 | 5 | Jennifer Mauler Schmidt |
-| 928 | 5 | Crafty Slice |
-| 929 | 5 | Crystal Poss |
-| 930 | 5 | Bad Juju |
-| 931 | 5 | Adrian Alvarez |
-| 932 | 5 | Nolife |
-| 933 | 5 | Jennifer Roper Stanley |
-| 934 | 5 | Deborah Fowler |
-| 935 | 5 | Carol Whited Loza |
-| 936 | 5 | Agnes Gable |
-| 937 | 5 | Nicole Suber |
-| 938 | 5 | Johnathon Mendiola |
-| 939 | 5 | Gina Louise Parker |
-| 940 | 5 | Nerdy Base |
-| 941 | 5 | Brittany Weatherspoon |
-| 942 | 5 | Chirpy Towerer |
-| 943 | 5 | Bennie Farbo |
+| 928 | 5 | Bennie Farbo |
+| 929 | 5 | Crafty Slice |
+| 930 | 5 | Crystal Poss |
+| 931 | 5 | Bad Juju |
+| 932 | 5 | Adrian Alvarez |
+| 933 | 5 | Nolife |
+| 934 | 5 | Jennifer Roper Stanley |
+| 935 | 5 | Deborah Fowler |
+| 936 | 5 | Carol Whited Loza |
+| 937 | 5 | Agnes Gable |
+| 938 | 5 | Nicole Suber |
+| 939 | 5 | Johnathon Mendiola |
+| 940 | 5 | Gina Louise Parker |
+| 941 | 5 | Nerdy Base |
+| 942 | 5 | Brittany Weatherspoon |
+| 943 | 5 | Chirpy Towerer |
 | 944 | 5 | Mercedes Lowery |
 
 ---

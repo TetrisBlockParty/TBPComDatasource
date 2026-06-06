@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 04:06:16 UTC
+# Standings for team1 as of 2026-06-06 04:06:39 UTC
 
 **Total Participants:** 801
 
@@ -462,30 +462,30 @@
 | 454 | 30 | TiffanyG |
 | 455 | 30 | SeanSanchez |
 | 456 | 30 | Linzie Marie |
-| 457 | 30 | Jaida De'Anne Cox |
-| 458 | 30 | Witty Clear |
-| 459 | 30 | Heather Wilson |
-| 460 | 30 | Kp |
-| 461 | 30 | Saucy Faller |
-| 462 | 30 | Sarah Guarino |
-| 463 | 30 | Abby |
-| 464 | 30 | Taneka Howell |
-| 465 | 30 | Jessica Corey |
-| 466 | 30 | Jes Marie |
-| 467 | 30 | Witty Blockpiece |
-| 468 | 30 | Falisa Bell |
-| 469 | 30 | Bouncy Glide |
-| 470 | 30 | Lester Malone |
-| 471 | 30 | Dawn Basemore |
-| 472 | 29 | Bubbly Slammer |
-| 473 | 29 | Bold Clusterer |
-| 474 | 29 | Darrel Pemberton |
-| 475 | 28 | Will Stanton |
-| 476 | 28 | Charise McGee |
-| 477 | 28 | Boldy Matchfit |
-| 478 | 28 | Latoya Carson |
-| 479 | 28 | Adrian Harris |
-| 480 | 28 | Jelyfish |
+| 457 | 30 | Jelyfish |
+| 458 | 30 | Heather Wilson |
+| 459 | 30 | Witty Clear |
+| 460 | 30 | Sarah Guarino |
+| 461 | 30 | Kp |
+| 462 | 30 | Saucy Faller |
+| 463 | 30 | Jessica Corey |
+| 464 | 30 | Abby |
+| 465 | 30 | Taneka Howell |
+| 466 | 30 | Jaida De'Anne Cox |
+| 467 | 30 | Jes Marie |
+| 468 | 30 | Witty Blockpiece |
+| 469 | 30 | Falisa Bell |
+| 470 | 30 | Bouncy Glide |
+| 471 | 30 | Lester Malone |
+| 472 | 30 | Dawn Basemore |
+| 473 | 29 | Bubbly Slammer |
+| 474 | 29 | Bold Clusterer |
+| 475 | 29 | Darrel Pemberton |
+| 476 | 28 | Will Stanton |
+| 477 | 28 | Charise McGee |
+| 478 | 28 | Boldy Matchfit |
+| 479 | 28 | Latoya Carson |
+| 480 | 28 | Adrian Harris |
 | 481 | 28 | Danielle Marie Lewis |
 | 482 | 28 | Elizabeth Vega Coreano |
 | 483 | 27 | Kendra McIntyre |
