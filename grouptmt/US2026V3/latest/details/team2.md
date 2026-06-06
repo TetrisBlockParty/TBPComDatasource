@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 18:50:18 UTC
+# Standings for team2 as of 2026-06-06 18:50:40 UTC
 
 **Total Participants:** 1318
 
@@ -113,8 +113,8 @@
 | 105 | 405 | Judy Long |
 | 106 | 402 | Steven Craig |
 | 107 | 402 | Lisa Breiding |
-| 108 | 400 | Smashanator |
-| 109 | 400 | Allie Bug |
+| 108 | 400 | Allie Bug |
+| 109 | 400 | Smashanator |
 | 110 | 390 | La chulis |
 | 111 | 368 | MaddieCherie |
 | 112 | 365 | Branden Frankowski |
@@ -128,9 +128,9 @@
 | 120 | 325 | Amy Gregg |
 | 121 | 324 | Jgato |
 | 122 | 320 | Joni Michelle Morgan |
-| 123 | 319 | Bon Lynn |
+| 123 | 319 | Michelle Rich Burkhart |
 | 124 | 319 | Shannon Wilson |
-| 125 | 319 | Michelle Rich Burkhart |
+| 125 | 319 | Bon Lynn |
 | 126 | 317 | Ruby Sandberg |
 | 127 | 315 | Milad Arzani |
 | 128 | 313 | Cool Climber |
@@ -143,8 +143,8 @@
 | 135 | 293 | Snappy Combo |
 | 136 | 288 | Pooh |
 | 137 | 287 | Flashy Twistline |
-| 138 | 286 | James Ward |
-| 139 | 286 | Heather Burgett |
+| 138 | 286 | Heather Burgett |
+| 139 | 286 | James Ward |
 | 140 | 283 | Zarah Kettler |
 | 141 | 283 | Theresa Marie |
 | 142 | 280 | Patricia Carroll |
@@ -187,25 +187,25 @@
 | 179 | 205 | haune |
 | 180 | 204 | Chill Line |
 | 181 | 201 | Danielle Pack Lewellen |
-| 182 | 200 | Kelly Vedder |
-| 183 | 200 | Logan Duffey |
-| 184 | 200 | Eric Wayne Maschman |
-| 185 | 200 | Sarah Grundisch |
-| 186 | 200 | Physhie |
+| 182 | 200 | Eric Wayne Maschman |
+| 183 | 200 | Sarah Grundisch |
+| 184 | 200 | Physhie |
+| 185 | 200 | Kelly Vedder |
+| 186 | 200 | Logan Duffey |
 | 187 | 199 | Patria Osuoha |
 | 188 | 199 | Amber Cogdill |
 | 189 | 196 | snowwol |
 | 190 | 195 | Samantha Carman |
 | 191 | 195 | Bb |
 | 192 | 194 | Mookshake |
-| 193 | 192 | Nathan Walker |
-| 194 | 192 | Greta Warden |
+| 193 | 192 | Greta Warden |
+| 194 | 192 | Nathan Walker |
 | 195 | 191 | Jessica Christine |
 | 196 | 191 | Jeanna Mendez |
 | 197 | 188 | Lush Party |
 | 198 | 188 | Larry Cross |
-| 199 | 187 | Jat |
-| 200 | 187 | Laura Melton |
+| 199 | 187 | Laura Melton |
+| 200 | 187 | Jat |
 | 201 | 184 | Jessica Lynn |
 | 202 | 183 | Chipper Stackbuilder |
 | 203 | 181 | Michelle Maulsby |
@@ -214,40 +214,40 @@
 | 206 | 177 | Xandrea Jones |
 | 207 | 176 | Glitzy Base |
 | 208 | 175 | Lashanda Bertram |
-| 209 | 174 | Nettrainer |
-| 210 | 174 | Olivia Jefferson |
+| 209 | 174 | Olivia Jefferson |
+| 210 | 174 | Nettrainer |
 | 211 | 173 | Amie Marks |
 | 212 | 172 | Carolyn McNaughton |
 | 213 | 171 | Melissa Nash |
 | 214 | 171 | Laverne Ellis Blair |
-| 215 | 170 | Harper |
-| 216 | 170 | phamous1 |
-| 217 | 170 | Loopy Dropper |
+| 215 | 170 | Loopy Dropper |
+| 216 | 170 | Harper |
+| 217 | 170 | phamous1 |
 | 218 | 169 | Sully |
 | 219 | 168 | Missy Renia |
 | 220 | 168 | Danielle Lyons |
 | 221 | 168 | Spicy Risegrid |
-| 222 | 164 | Cara Rivera |
-| 223 | 164 | Jerry L Morales |
-| 224 | 163 | Zany Cascader |
-| 225 | 163 | Amy Taylor Pomerenk |
+| 222 | 164 | Jerry L Morales |
+| 223 | 164 | Cara Rivera |
+| 224 | 163 | Amy Taylor Pomerenk |
+| 225 | 163 | Zany Cascader |
 | 226 | 162 | Nutty Curver |
 | 227 | 161 | Santara Ferguson |
 | 228 | 160 | Avie Lou |
 | 229 | 159 | SEH |
-| 230 | 159 | Amanda Priddy |
-| 231 | 159 | Angie Bishop |
-| 232 | 159 | Chasity Simpson |
+| 230 | 159 | Angie Bishop |
+| 231 | 159 | Chasity Simpson |
+| 232 | 159 | Amanda Priddy |
 | 233 | 158 | Kim Hunt |
 | 234 | 155 | Zany Blockclear |
 | 235 | 152 | Gill |
-| 236 | 151 | Karly Moore |
-| 237 | 151 | Marilyn Mendoza |
+| 236 | 151 | Marilyn Mendoza |
+| 237 | 151 | Karly Moore |
 | 238 | 151 | Bengy Lead |
 | 239 | 150 | Rick |
 | 240 | 149 | Jenni LeBlanc |
-| 241 | 148 | Curly Windbreaker |
-| 242 | 148 | Theresa Hollinger |
+| 241 | 148 | Theresa Hollinger |
+| 242 | 148 | Curly Windbreaker |
 | 243 | 147 | Zany Wrecker |
 | 244 | 147 | Tina Marie |
 | 245 | 146 | Danielle Blount |
@@ -255,21 +255,21 @@
 | 247 | 145 | Alicia Parrish |
 | 248 | 144 | Jamie Fenyus |
 | 249 | 143 | Marge Cromer |
-| 250 | 142 | Cortney Coleman |
-| 251 | 142 | Ratchet |
-| 252 | 141 | Melisa |
-| 253 | 141 | Cheery Towerzone |
+| 250 | 142 | Ratchet |
+| 251 | 142 | Cortney Coleman |
+| 252 | 141 | Cheery Towerzone |
+| 253 | 141 | Melisa |
 | 254 | 141 | Theresa Huddleston |
-| 255 | 140 | Iesha Cupil |
-| 256 | 140 | Hector |
-| 257 | 140 | Sharon L Brazelton |
-| 258 | 140 | Billie Jensen |
-| 259 | 139 | Kimmyc |
-| 260 | 139 | Monique Frantz |
-| 261 | 139 | Victoria Pale |
-| 262 | 139 | Amanda L Strong |
-| 263 | 138 | Ashley Miller |
-| 264 | 138 | NickandJess Reynolds |
+| 255 | 140 | Hector |
+| 256 | 140 | Iesha Cupil |
+| 257 | 140 | Billie Jensen |
+| 258 | 140 | Sharon L Brazelton |
+| 259 | 139 | Amanda L Strong |
+| 260 | 139 | Victoria Pale |
+| 261 | 139 | Kimmyc |
+| 262 | 139 | Monique Frantz |
+| 263 | 138 | NickandJess Reynolds |
+| 264 | 138 | Ashley Miller |
 | 265 | 137 | Lindsey Ford |
 | 266 | 137 | Liseth Vasquez |
 | 267 | 136 | Lauren Maxwell |
