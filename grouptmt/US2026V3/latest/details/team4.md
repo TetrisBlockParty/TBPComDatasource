@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 16:51:17 UTC
+# Standings for team4 as of 2026-06-06 16:52:17 UTC
 
 **Total Participants:** 1056
 
@@ -165,10 +165,10 @@
 | 157 | 172 | Tawna Curry |
 | 158 | 169 | Dana Fontanez |
 | 159 | 169 | Tiffany Smith |
-| 160 | 166 | Sassy Rollpiece |
-| 161 | 163 | Brandy Lynn |
-| 162 | 163 | Goofy Riser |
-| 163 | 161 | Danielle Mitchell |
+| 160 | 166 | Danielle Mitchell |
+| 161 | 166 | Sassy Rollpiece |
+| 162 | 163 | Brandy Lynn |
+| 163 | 163 | Goofy Riser |
 | 164 | 160 | Littlebrat |
 | 165 | 160 | Tipsy Builderline |
 | 166 | 159 | EL Booger |
@@ -239,101 +239,101 @@
 | 231 | 113 | Dennis Montoya |
 | 232 | 113 | kcknbtz |
 | 233 | 113 | Melissa Anne |
-| 234 | 112 | CJ |
-| 235 | 112 | BusterBear56 |
+| 234 | 112 | BusterBear56 |
+| 235 | 112 | CJ |
 | 236 | 112 | Homie |
 | 237 | 111 | Slinky Stackzone |
 | 238 | 111 | King |
 | 239 | 110 | jaz |
-| 240 | 109 | Ginny |
-| 241 | 109 | Rose Anna Safi |
+| 240 | 109 | Rose Anna Safi |
+| 241 | 109 | Ginny |
 | 242 | 108 | Anthony Lewis |
-| 243 | 108 | Dawn Phelps |
-| 244 | 107 | Jrr |
-| 245 | 107 | Allysha McFarland |
-| 246 | 107 | Tommy Bond |
-| 247 | 106 | Samantha Worley |
+| 243 | 108 | Cheeky Climber |
+| 244 | 108 | Dawn Phelps |
+| 245 | 107 | Tommy Bond |
+| 246 | 107 | Allysha McFarland |
+| 247 | 107 | Jrr |
 | 248 | 106 | Pepone Pepe |
 | 249 | 106 | George Palacios |
-| 250 | 105 | Quiomarie Cotto |
+| 250 | 106 | Samantha Worley |
 | 251 | 105 | Shanna Fragen |
-| 252 | 104 | LastBoi |
+| 252 | 105 | Quiomarie Cotto |
 | 253 | 104 | Justin Ballard |
-| 254 | 103 | farfromlocal |
-| 255 | 103 | Rachel Lemos |
-| 256 | 102 | Tiggerjake |
-| 257 | 102 | Taisha Beasley |
-| 258 | 102 | Keith Kosmicki |
-| 259 | 101 | Sarah Perry Cook |
-| 260 | 101 | Futrell Brent |
-| 261 | 101 | Smiley Gridzone |
-| 262 | 101 | Tipsy Zonebuilder |
-| 263 | 101 | Zesty Twistpiece |
-| 264 | 101 | TheazO |
-| 265 | 101 | Dayna Arthurs |
-| 266 | 100 | CorieBe |
-| 267 | 100 | Iforget |
-| 268 | 100 | Melissa Brown |
-| 269 | 100 | Rita Ann |
-| 270 | 100 | bollo |
-| 271 | 100 | Loopy Clusterline |
-| 272 | 98 | Jacqueline Arce |
-| 273 | 97 | Fancy Tilefall |
+| 254 | 104 | LastBoi |
+| 255 | 103 | farfromlocal |
+| 256 | 103 | Rachel Lemos |
+| 257 | 102 | Tiggerjake |
+| 258 | 102 | Taisha Beasley |
+| 259 | 102 | Keith Kosmicki |
+| 260 | 101 | Sarah Perry Cook |
+| 261 | 101 | Futrell Brent |
+| 262 | 101 | Dayna Arthurs |
+| 263 | 101 | Smiley Gridzone |
+| 264 | 101 | Tipsy Zonebuilder |
+| 265 | 101 | TheazO |
+| 266 | 101 | Zesty Twistpiece |
+| 267 | 100 | CorieBe |
+| 268 | 100 | Loopy Clusterline |
+| 269 | 100 | Iforget |
+| 270 | 100 | Rita Ann |
+| 271 | 100 | Melissa Brown |
+| 272 | 100 | bollo |
+| 273 | 98 | Jacqueline Arce |
 | 274 | 97 | Corey Jackson |
-| 275 | 97 | Tarsha Thomas-Martinez |
-| 276 | 96 | Bre Dee |
-| 277 | 95 | EvoKitty |
-| 278 | 94 | Reina Pagan |
-| 279 | 94 | Janae Harris |
-| 280 | 93 | Bouncy |
+| 275 | 97 | Fancy Tilefall |
+| 276 | 97 | Tarsha Thomas-Martinez |
+| 277 | 96 | Bre Dee |
+| 278 | 95 | EvoKitty |
+| 279 | 94 | Reina Pagan |
+| 280 | 94 | Janae Harris |
 | 281 | 93 | Mark Fitch Jr. |
-| 282 | 92 | William Brooks |
-| 283 | 91 | Jennifer Garcia |
+| 282 | 93 | Bouncy |
+| 283 | 92 | William Brooks |
 | 284 | 91 | Diana Fernandez |
 | 285 | 91 | Miss Beast |
-| 286 | 91 | Dominique Melendez |
+| 286 | 91 | Jennifer Garcia |
 | 287 | 91 | Tricia Motika Cowan |
-| 288 | 90 | Lora Schallert |
-| 289 | 90 | Codey Haffner |
-| 290 | 90 | 1694AF |
-| 291 | 90 | Laurie Patrick |
-| 292 | 89 | Piece of Cake |
-| 293 | 89 | Karen Rodriguez |
-| 294 | 89 | Mrs |
-| 295 | 89 | Chirpy Snapclear |
-| 296 | 89 | Betsy Froemming |
-| 297 | 89 | Dawn Marie Trujillo |
-| 298 | 89 | Waxboss |
-| 299 | 88 | Deva Marie Barber |
-| 300 | 88 | SandyEva |
-| 301 | 88 | Kaps |
-| 302 | 87 | Erika Seaton |
-| 303 | 87 | Jeff Margolis |
-| 304 | 87 | Luna |
+| 288 | 91 | Dominique Melendez |
+| 289 | 90 | Laurie Patrick |
+| 290 | 90 | Codey Haffner |
+| 291 | 90 | 1694AF |
+| 292 | 90 | Lora Schallert |
+| 293 | 89 | Mrs |
+| 294 | 89 | Betsy Froemming |
+| 295 | 89 | Waxboss |
+| 296 | 89 | Chirpy Snapclear |
+| 297 | 89 | Karen Rodriguez |
+| 298 | 89 | Dawn Marie Trujillo |
+| 299 | 89 | Piece of Cake |
+| 300 | 88 | Kaps |
+| 301 | 88 | SandyEva |
+| 302 | 88 | Deva Marie Barber |
+| 303 | 87 | Limbo |
+| 304 | 87 | Erika Seaton |
 | 305 | 87 | Miwa |
-| 306 | 87 | Limbo |
-| 307 | 86 | Stef |
-| 308 | 86 | Jessica Jones Bolton |
-| 309 | 86 | ManOfSteel |
-| 310 | 86 | Dandy Cascade |
-| 311 | 86 | Autumn Maher |
-| 312 | 85 | MelodiousDeez |
-| 313 | 85 | Kristen Wallace |
-| 314 | 85 | Cheeky Climber |
-| 315 | 85 | Courtney Niichole |
-| 316 | 85 | Kari Smith |
-| 317 | 84 | Chonda OhanaMomma Michelle |
+| 306 | 87 | Luna |
+| 307 | 87 | Jeff Margolis |
+| 308 | 86 | Autumn Maher |
+| 309 | 86 | Jessica Jones Bolton |
+| 310 | 86 | ManOfSteel |
+| 311 | 86 | Stef |
+| 312 | 86 | Dandy Cascade |
+| 313 | 85 | MelodiousDeez |
+| 314 | 85 | Kristen Wallace |
+| 315 | 85 | Kari Smith |
+| 316 | 85 | Courtney Niichole |
+| 317 | 84 | Amandacolle |
 | 318 | 84 | Playa |
-| 319 | 84 | Amandacolle |
+| 319 | 84 | Chonda OhanaMomma Michelle |
 | 320 | 83 | Sonia Cordero-Martinez |
-| 321 | 83 | Peter Babineaux Jr |
-| 322 | 83 | MrLoner Stoner |
-| 323 | 83 | Troy Zanelli |
+| 321 | 83 | MrLoner Stoner |
+| 322 | 83 | Troy Zanelli |
+| 323 | 83 | Peachy Piecefit |
 | 324 | 83 | Rosy Perez |
-| 325 | 83 | Peachy Piecefit |
+| 325 | 83 | Peter Babineaux Jr |
 | 326 | 82 | Bon Jovi |
-| 327 | 82 | Jen Smith |
-| 328 | 82 | DizzB400 |
+| 327 | 82 | DizzB400 |
+| 328 | 82 | Jen Smith |
 | 329 | 81 | Wacky Brick |
 | 330 | 81 | Snazzy Corner |
 | 331 | 81 | Scrumptious |
