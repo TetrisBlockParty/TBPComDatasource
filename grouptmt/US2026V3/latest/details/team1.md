@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 07:02:38 UTC
+# Standings for team1 as of 2026-06-06 07:03:17 UTC
 
 **Total Participants:** 900
 
@@ -844,68 +844,68 @@
 | 836 | 9 | Wacky Towerer |
 | 837 | 9 | Tanesha Ga'sFinest Corbett |
 | 838 | 9 | Kortney Adams |
-| 839 | 9 | Mars |
-| 840 | 9 | Dana |
-| 841 | 9 | Noni |
-| 842 | 9 | John Lovato |
-| 843 | 9 | Jasmine Hariston-Estis |
+| 839 | 9 | Noni |
+| 840 | 9 | John Lovato |
+| 841 | 9 | Dana |
+| 842 | 9 | Jasmine Hariston-Estis |
+| 843 | 9 | Mars |
 | 844 | 9 | ummm |
 | 845 | 9 | Sherry D Singleton |
 | 846 | 8 | Rixo Blax |
-| 847 | 8 | Chill Tumbler |
-| 848 | 8 | Groovy Riseclear |
-| 849 | 8 | jus_ry |
-| 850 | 8 | Brenda Brogden |
-| 851 | 8 | Nerdy Twistline |
-| 852 | 8 | Caitlin Michele |
-| 853 | 8 | Chevonne Huggins |
-| 854 | 8 | Kim Holzmiller |
-| 855 | 8 | Ferocity |
+| 847 | 8 | Groovy Riseclear |
+| 848 | 8 | Chill Tumbler |
+| 849 | 8 | Caitlin Michele |
+| 850 | 8 | Chevonne Huggins |
+| 851 | 8 | Macho Lewis |
+| 852 | 8 | jus_ry |
+| 853 | 8 | Brenda Brogden |
+| 854 | 8 | Shawna Passwater |
+| 855 | 8 | Chinkey Overit |
 | 856 | 8 | Teresa Bean |
-| 857 | 8 | Shawna Passwater |
-| 858 | 8 | Chinkey Overit |
-| 859 | 8 | Macho Lewis |
-| 860 | 7 | Teresa F. Campos Eaton |
-| 861 | 7 | Analesia Taylor |
-| 862 | 7 | Andrew Harris |
-| 863 | 7 | KingSlim82 |
+| 857 | 8 | Kim Holzmiller |
+| 858 | 8 | Ferocity |
+| 859 | 8 | Nerdy Twistline |
+| 860 | 7 | Andrew Harris |
+| 861 | 7 | Deadra Graham |
+| 862 | 7 | KingSlim82 |
+| 863 | 7 | Shane Brucewayne |
 | 864 | 7 | Milfchaser530 |
-| 865 | 7 | Deadra Graham |
-| 866 | 7 | Shane Brucewayne |
+| 865 | 7 | whatever |
+| 866 | 7 | Analesia Taylor |
 | 867 | 7 | Mary2 |
-| 868 | 7 | whatever |
-| 869 | 6 | Anthony T. Fults |
-| 870 | 6 | CK |
-| 871 | 6 | Kyshia |
+| 868 | 7 | Teresa F. Campos Eaton |
+| 869 | 6 | Treneil Daffin |
+| 870 | 6 | Christopher Wallace |
+| 871 | 6 | Anthony T. Fults |
 | 872 | 6 | Desi Guerra |
-| 873 | 6 | NEM0228 |
-| 874 | 6 | Christopher Wallace |
-| 875 | 6 | S.S |
-| 876 | 6 | Frances Davis |
-| 877 | 6 | Treneil Daffin |
-| 878 | 6 | Lucy |
+| 873 | 6 | Kyshia |
+| 874 | 6 | Snippy Breaker |
+| 875 | 6 | Lucy |
+| 876 | 6 | Daring Riserfit |
+| 877 | 6 | Frilly Riserbuilder |
+| 878 | 6 | CK |
 | 879 | 6 | Wu May |
-| 880 | 6 | Snippy Breaker |
-| 881 | 6 | Daring Riserfit |
-| 882 | 6 | Frilly Riserbuilder |
-| 883 | 5 | Stephanie Zuniga Tullock |
-| 884 | 5 | Temeshia Brooks Washington |
-| 885 | 5 | Rieshelda Marie White |
-| 886 | 5 | Derek Beverly |
-| 887 | 5 | Chill Linkroll |
-| 888 | 5 | the guy |
-| 889 | 5 | Tipsy Builderline |
-| 890 | 5 | VERA DAME |
-| 891 | 5 | Hasty Brickzone |
-| 892 | 5 | Zappy Riser |
-| 893 | 5 | DirtiestofMikes |
-| 894 | 5 | Tito Divyn |
-| 895 | 5 | Kidgib5 |
-| 896 | 5 | Jennifer Moore |
-| 897 | 5 | Zappy Clearfit |
-| 898 | 5 | Duckey |
-| 899 | 5 | Logan Frost |
-| 900 | 5 | Annette DeLoatch Thompson |
+| 880 | 6 | Frances Davis |
+| 881 | 6 | S.S |
+| 882 | 6 | NEM0228 |
+| 883 | 5 | Chill Linkroll |
+| 884 | 5 | Tito Divyn |
+| 885 | 5 | Zappy Clearfit |
+| 886 | 5 | Stephanie Zuniga Tullock |
+| 887 | 5 | Temeshia Brooks Washington |
+| 888 | 5 | Duckey |
+| 889 | 5 | Logan Frost |
+| 890 | 5 | Rieshelda Marie White |
+| 891 | 5 | Jennifer Moore |
+| 892 | 5 | Kidgib5 |
+| 893 | 5 | Derek Beverly |
+| 894 | 5 | DirtiestofMikes |
+| 895 | 5 | Annette DeLoatch Thompson |
+| 896 | 5 | the guy |
+| 897 | 5 | Zappy Riser |
+| 898 | 5 | Tipsy Builderline |
+| 899 | 5 | Hasty Brickzone |
+| 900 | 5 | VERA DAME |
 
 ---
 *Standings created by tournaments datasource generation tool*
