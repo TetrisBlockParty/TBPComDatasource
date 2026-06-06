@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 18:16:17 UTC
+# Standings for team1 as of 2026-06-06 18:16:39 UTC
 
 **Total Participants:** 1098
 
@@ -991,89 +991,89 @@
 | 983 | 10 | Mayra Diaz |
 | 984 | 10 | Tranica Sterling |
 | 985 | 10 | Crystal Segura |
-| 986 | 10 | Wacky Riserpiece |
-| 987 | 10 | Rieshelda Marie White |
-| 988 | 10 | Shawn Himes |
+| 986 | 10 | Papi |
+| 987 | 10 | Cornelius Neal |
+| 988 | 10 | Boricua64 |
 | 989 | 10 | Saucy Linkgrid |
-| 990 | 10 | Nope Young |
-| 991 | 10 | Boricua64 |
-| 992 | 10 | Daring Linkfall |
-| 993 | 10 | Cornelius Neal |
+| 990 | 10 | Rieshelda Marie White |
+| 991 | 10 | Shawn Himes |
+| 992 | 10 | Nope Young |
+| 993 | 10 | Daring Linkfall |
 | 994 | 10 | Yvonne Aggers |
 | 995 | 10 | Anthony D Holmes |
 | 996 | 10 | OneBuke FollowMe |
-| 997 | 10 | Alisha Dawson Crouch |
-| 998 | 10 | Tynetta Scott |
-| 999 | 10 | Upt |
-| 1000 | 10 | Megan Payette |
-| 1001 | 10 | Mark Steven Pichler |
-| 1002 | 10 | Papi |
-| 1003 | 10 | Happymama |
-| 1004 | 10 | Nikiya |
-| 1005 | 10 | Daring Riserfit |
-| 1006 | 10 | Meeee |
-| 1007 | 10 | Manda Pecora |
+| 997 | 10 | Wacky Riserpiece |
+| 998 | 10 | Evelyn Epps |
+| 999 | 10 | Alisha Dawson Crouch |
+| 1000 | 10 | Tynetta Scott |
+| 1001 | 10 | Upt |
+| 1002 | 10 | Megan Payette |
+| 1003 | 10 | Nikiya |
+| 1004 | 10 | Daring Riserfit |
+| 1005 | 10 | Meeee |
+| 1006 | 10 | Manda Pecora |
+| 1007 | 10 | Happymama |
 | 1008 | 10 | Hasty Brickzone |
 | 1009 | 10 | Omar Dotray |
 | 1010 | 10 | Tea |
-| 1011 | 10 | Marshall Davis |
-| 1012 | 10 | Damien Fonseca |
-| 1013 | 9 | Mars |
-| 1014 | 9 | ummm |
+| 1011 | 10 | Damien Fonseca |
+| 1012 | 10 | Mark Steven Pichler |
+| 1013 | 10 | Marshall Davis |
+| 1014 | 9 | Anthony T. Fults |
 | 1015 | 9 | Catelyn Neal |
-| 1016 | 9 | Brika Brika |
-| 1017 | 9 | Duckey |
+| 1016 | 9 | ummm |
+| 1017 | 9 | Brika Brika |
 | 1018 | 9 | Wacky Towerer |
-| 1019 | 9 | Tanesha Ga'sFinest Corbett |
-| 1020 | 9 | Markeita Jones |
-| 1021 | 9 | Shell Poke |
-| 1022 | 9 | Dana |
-| 1023 | 9 | Krystal Maynard |
-| 1024 | 9 | Noni |
-| 1025 | 9 | Clifford Petroske |
-| 1026 | 9 | John Lovato |
-| 1027 | 9 | Yester |
-| 1028 | 9 | Jasmine Hariston-Estis |
-| 1029 | 9 | Sherry D Singleton |
-| 1030 | 9 | Anthony T. Fults |
-| 1031 | 8 | Tiffany Jean Hinson |
-| 1032 | 8 | Shawna Passwater |
-| 1033 | 8 | Chinkey Overit |
-| 1034 | 8 | Teena K Macon |
+| 1019 | 9 | Shell Poke |
+| 1020 | 9 | Tanesha Ga'sFinest Corbett |
+| 1021 | 9 | Markeita Jones |
+| 1022 | 9 | Jasmine Hariston-Estis |
+| 1023 | 9 | Mars |
+| 1024 | 9 | Dana |
+| 1025 | 9 | Krystal Maynard |
+| 1026 | 9 | Noni |
+| 1027 | 9 | Clifford Petroske |
+| 1028 | 9 | John Lovato |
+| 1029 | 9 | Yester |
+| 1030 | 9 | Sherry D Singleton |
+| 1031 | 9 | Duckey |
+| 1032 | 8 | Tiffany Jean Hinson |
+| 1033 | 8 | Teena K Macon |
+| 1034 | 8 | Shawna Passwater |
 | 1035 | 8 | Chevonne Huggins |
 | 1036 | 8 | Macho Lewis |
 | 1037 | 8 | Groovy Riseclear |
-| 1038 | 8 | Nerdy Twistline |
-| 1039 | 8 | Teresa Bean |
-| 1040 | 8 | Ferocity |
+| 1038 | 8 | Teresa Bean |
+| 1039 | 8 | Nerdy Twistline |
+| 1040 | 8 | Rixo Blax |
 | 1041 | 8 | Frothy Matchpiece |
-| 1042 | 8 | Elizabeth Castro |
-| 1043 | 8 | Nicole Coko Thomas |
-| 1044 | 8 | Evelyn Epps |
+| 1042 | 8 | Chinkey Overit |
+| 1043 | 8 | Elizabeth Castro |
+| 1044 | 8 | Nicole Coko Thomas |
 | 1045 | 8 | Chill Tumbler |
-| 1046 | 8 | Rixo Blax |
+| 1046 | 8 | Nissa |
 | 1047 | 8 | Brenda Brogden |
-| 1048 | 8 | Nissa |
+| 1048 | 8 | MsSassygee Boom |
 | 1049 | 8 | jus_ry |
-| 1050 | 8 | MsSassygee Boom |
-| 1051 | 8 | Queen Baby 5 |
+| 1050 | 8 | Queen Baby 5 |
+| 1051 | 8 | Ferocity |
 | 1052 | 7 | Alanna Breitenbach |
-| 1053 | 7 | Stephanie L Jeffries Moultrie |
-| 1054 | 7 | Deadra Graham |
+| 1053 | 7 | KingSlim82 |
+| 1054 | 7 | Stephanie L Jeffries Moultrie |
 | 1055 | 7 | Phoenix |
-| 1056 | 7 | Sheena Hamilton |
-| 1057 | 7 | Analesia Taylor |
-| 1058 | 7 | Teresa F. Campos Eaton |
+| 1056 | 7 | Deadra Graham |
+| 1057 | 7 | Sheena Hamilton |
+| 1058 | 7 | Analesia Taylor |
 | 1059 | 7 | Andrew Harris |
 | 1060 | 7 | Zachary Sinclair |
-| 1061 | 7 | KingSlim82 |
-| 1062 | 7 | Milfchaser530 |
-| 1063 | 7 | Quana |
-| 1064 | 7 | LaMinda Todd |
-| 1065 | 7 | Shane Brucewayne |
-| 1066 | 7 | Jhonny Maii |
-| 1067 | 7 | whatever |
-| 1068 | 7 | Mary2 |
+| 1061 | 7 | Milfchaser530 |
+| 1062 | 7 | Quana |
+| 1063 | 7 | LaMinda Todd |
+| 1064 | 7 | Shane Brucewayne |
+| 1065 | 7 | Jhonny Maii |
+| 1066 | 7 | whatever |
+| 1067 | 7 | Mary2 |
+| 1068 | 7 | Teresa F. Campos Eaton |
 | 1069 | 6 | Terry Lee Moya |
 | 1070 | 6 | Kyshia |
 | 1071 | 6 | smash56! |
