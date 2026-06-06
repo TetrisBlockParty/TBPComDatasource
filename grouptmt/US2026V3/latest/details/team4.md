@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 09:48:40 UTC
+# Standings for team4 as of 2026-06-06 09:49:16 UTC
 
 **Total Participants:** 917
 
@@ -194,8 +194,8 @@
 | 186 | 112 | Homie |
 | 187 | 109 | Rose Anna Safi |
 | 188 | 108 | Juvon SupaShawdii Brooks |
-| 189 | 108 | Lush Fitblock |
-| 190 | 105 | Bubbly Twistpiece |
+| 189 | 108 | Bubbly Twistpiece |
+| 190 | 108 | Lush Fitblock |
 | 191 | 105 | Name |
 | 192 | 105 | kellie |
 | 193 | 104 | Tawna Curry |
@@ -619,104 +619,104 @@
 | 611 | 27 | Bigmamalizzet Latto |
 | 612 | 27 | Diana Fernandez |
 | 613 | 27 | Miguel Teixeira |
-| 614 | 27 | Ross Bryant |
-| 615 | 27 | Dandy Cascade |
+| 614 | 27 | Dandy Cascade |
+| 615 | 27 | Ross Bryant |
 | 616 | 26 | Nicole Ambrose |
-| 617 | 26 | Rebecca Rae Reed |
-| 618 | 26 | Tahira Patrice |
-| 619 | 26 | Ian T Parker |
-| 620 | 26 | Nikcole Alexis Bryan |
-| 621 | 26 | Rob$GEE |
-| 622 | 26 | Leslie Marie WarClub |
+| 617 | 26 | Becky Bernazal |
+| 618 | 26 | Lisa Ferriero-Daudin |
+| 619 | 26 | Lacey Decker |
+| 620 | 26 | Rebecca Sloan |
+| 621 | 26 | Kevin Lyles |
+| 622 | 26 | Kimmie Warren |
 | 623 | 26 | Jessica Huber |
-| 624 | 26 | Kimmie Warren |
-| 625 | 26 | Lacey Decker |
-| 626 | 26 | Lisa Ferriero-Daudin |
-| 627 | 26 | Rebecca Sloan |
-| 628 | 26 | Kevin Lyles |
-| 629 | 25 | chapis |
-| 630 | 25 | Travis McKinnon |
-| 631 | 25 | Lacie Powers |
-| 632 | 25 | ButterfliesRFree |
-| 633 | 25 | Meghan Etchells |
-| 634 | 25 | Jada Jordyn Campbell |
-| 635 | 25 | Jim Stewart |
-| 636 | 25 | Kendall Rhodie |
-| 637 | 25 | Brandon Bedenbaugh |
-| 638 | 24 | Khiem Hernandez |
-| 639 | 24 | Tony Clark |
-| 640 | 24 | Ferlyz |
-| 641 | 24 | Snappy Glidebuilder |
-| 642 | 24 | Socorro Arredondo |
-| 643 | 24 | Love GH |
-| 644 | 24 | Katiana Gonzalez |
+| 624 | 26 | Leslie Marie WarClub |
+| 625 | 26 | Rob$GEE |
+| 626 | 26 | Nikcole Alexis Bryan |
+| 627 | 26 | Ian T Parker |
+| 628 | 26 | Tahira Patrice |
+| 629 | 26 | Rebecca Rae Reed |
+| 630 | 25 | Lacie Powers |
+| 631 | 25 | ButterfliesRFree |
+| 632 | 25 | Meghan Etchells |
+| 633 | 25 | chapis |
+| 634 | 25 | Travis McKinnon |
+| 635 | 25 | Kendall Rhodie |
+| 636 | 25 | Jada Jordyn Campbell |
+| 637 | 25 | Jim Stewart |
+| 638 | 25 | Brandon Bedenbaugh |
+| 639 | 24 | Khiem Hernandez |
+| 640 | 24 | Snappy Glidebuilder |
+| 641 | 24 | Socorro Arredondo |
+| 642 | 24 | Ja'Net Riley |
+| 643 | 24 | Ferlyz |
+| 644 | 24 | Love GH |
 | 645 | 24 | Amanda Serrano Ruffner |
-| 646 | 24 | Ja'Net Riley |
-| 647 | 23 | Lush Balanceblock |
+| 646 | 24 | Tony Clark |
+| 647 | 24 | Katiana Gonzalez |
 | 648 | 23 | Lizxxx |
-| 649 | 22 | Pap337 |
-| 650 | 22 | Leslie |
-| 651 | 22 | Twisty Chiseler |
-| 652 | 22 | Lisa Pie |
-| 653 | 22 | Bold Tumbler |
-| 654 | 22 | Jonelle Jacobs |
-| 655 | 22 | Cranky Twisterfit |
-| 656 | 22 | Audrianna Skaff |
-| 657 | 22 | Erica Pompey |
-| 658 | 22 | taya |
-| 659 | 22 | Shakita Moore-Bernard |
-| 660 | 22 | Breezy Wife |
-| 661 | 22 | Magda Lene |
-| 662 | 21 | LilithMoon |
-| 663 | 21 | Dizzy |
-| 664 | 21 | SandyEva |
-| 665 | 21 | Brandi Sauer |
-| 666 | 21 | my my |
-| 667 | 21 | GETBOXED! |
-| 668 | 21 | Swanky Matchfit |
-| 669 | 20 | Sha Ta Nay Mitchell |
-| 670 | 20 | Jessica Sanchez |
-| 671 | 20 | Kimberly Devon |
+| 649 | 23 | Lush Balanceblock |
+| 650 | 22 | Audrianna Skaff |
+| 651 | 22 | Cranky Twisterfit |
+| 652 | 22 | Breezy Wife |
+| 653 | 22 | Pap337 |
+| 654 | 22 | Erica Pompey |
+| 655 | 22 | Shakita Moore-Bernard |
+| 656 | 22 | Jonelle Jacobs |
+| 657 | 22 | Leslie |
+| 658 | 22 | Bold Tumbler |
+| 659 | 22 | Lisa Pie |
+| 660 | 22 | Twisty Chiseler |
+| 661 | 22 | taya |
+| 662 | 22 | Magda Lene |
+| 663 | 21 | GETBOXED! |
+| 664 | 21 | Brandi Sauer |
+| 665 | 21 | Swanky Matchfit |
+| 666 | 21 | Dizzy |
+| 667 | 21 | my my |
+| 668 | 21 | LilithMoon |
+| 669 | 21 | SandyEva |
+| 670 | 20 | Stacy G |
+| 671 | 20 | Alice Eisnor-Martens |
 | 672 | 20 | LISHA 2 U |
-| 673 | 20 | Kristen Nicole Depp-Stewart |
-| 674 | 20 | Justin Janachovsky |
-| 675 | 20 | Kris McMahon |
-| 676 | 20 | Tipsy Patternfit |
-| 677 | 20 | Memphiago Tenninois |
-| 678 | 20 | Elizabeth Putansu |
-| 679 | 20 | Jerett Coplin |
-| 680 | 20 | Alice Eisnor-Martens |
-| 681 | 20 | Stacy G |
-| 682 | 20 | Kellz M Bee |
-| 683 | 20 | adrian |
+| 673 | 20 | Kimberly Devon |
+| 674 | 20 | Jessica Sanchez |
+| 675 | 20 | Elizabeth Putansu |
+| 676 | 20 | Sha Ta Nay Mitchell |
+| 677 | 20 | Justin Janachovsky |
+| 678 | 20 | Kristen Nicole Depp-Stewart |
+| 679 | 20 | Tipsy Patternfit |
+| 680 | 20 | Jerett Coplin |
+| 681 | 20 | Memphiago Tenninois |
+| 682 | 20 | Kris McMahon |
+| 683 | 20 | REPENT |
 | 684 | 20 | Margie Thomas |
 | 685 | 20 | Jessica Smith |
-| 686 | 20 | Spidaman86 |
+| 686 | 20 | adrian |
 | 687 | 20 | Judea Leblanc |
 | 688 | 20 | Whirl-Klines L Evelyn |
 | 689 | 20 | Rell geez |
-| 690 | 20 | Becky Doll-Hall |
-| 691 | 20 | Jeremy Barry |
-| 692 | 20 | REPENT |
-| 693 | 20 | Silly Risegrid |
-| 694 | 20 | Joha Mldo Castillo |
-| 695 | 20 | Heidi Lyn Ramirez |
-| 696 | 20 | BethB |
-| 697 | 20 | Deanne Silverdahl |
-| 698 | 20 | Robert Crow |
-| 699 | 20 | Ashley DuVall |
-| 700 | 20 | Kissyfurr |
-| 701 | 20 | Misti Rich |
-| 702 | 19 | Chabetta |
-| 703 | 19 | Maicy Darrah |
-| 704 | 19 | Marisela Alvarado |
-| 705 | 19 | Bean |
+| 690 | 20 | Spidaman86 |
+| 691 | 20 | Becky Doll-Hall |
+| 692 | 20 | Jeremy Barry |
+| 693 | 20 | Kellz M Bee |
+| 694 | 20 | Silly Risegrid |
+| 695 | 20 | Joha Mldo Castillo |
+| 696 | 20 | Heidi Lyn Ramirez |
+| 697 | 20 | BethB |
+| 698 | 20 | Deanne Silverdahl |
+| 699 | 20 | Robert Crow |
+| 700 | 20 | Ashley DuVall |
+| 701 | 20 | Kissyfurr |
+| 702 | 20 | Misti Rich |
+| 703 | 19 | Chabetta |
+| 704 | 19 | Maicy Darrah |
+| 705 | 19 | Marisela Alvarado |
 | 706 | 19 | Breezy Blockzone |
-| 707 | 19 | Tammy Lasseigne |
-| 708 | 19 | Linda Miltenburg |
-| 709 | 19 | Dru Lui |
-| 710 | 19 | Autumn Maher |
-| 711 | 19 | Becky Bernazal |
+| 707 | 19 | Bean |
+| 708 | 19 | Tammy Lasseigne |
+| 709 | 19 | Linda Miltenburg |
+| 710 | 19 | Dru Lui |
+| 711 | 19 | Autumn Maher |
 | 712 | 19 | Gigi5 |
 | 713 | 19 | Kariana Gonzalez Ortiz |
 | 714 | 19 | LandO |
@@ -732,12 +732,12 @@
 | 724 | 18 | Stacia Marie |
 | 725 | 18 | chuck |
 | 726 | 18 | Cauntay Youngking Williams |
-| 727 | 18 | Jamie Legeness |
-| 728 | 18 | Dawn Ferrin |
-| 729 | 18 | Janna Thompson |
+| 727 | 18 | Dawn Ferrin |
+| 728 | 18 | Janna Thompson |
+| 729 | 18 | Frothy Pivotfall |
 | 730 | 18 | Angel Boges |
 | 731 | 18 | Jen Roe |
-| 732 | 18 | Frothy Pivotfall |
+| 732 | 18 | Jamie Legeness |
 | 733 | 18 | Joshua Franklin |
 | 734 | 18 | Michelle Clark |
 | 735 | 18 | Emily Lowe |
