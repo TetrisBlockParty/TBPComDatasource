@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 00:00:16 UTC
+# Standings for team4 as of 2026-06-06 00:00:38 UTC
 
 **Total Participants:** 577
 
@@ -175,29 +175,29 @@
 | 167 | 63 | Blockcrusher |
 | 168 | 63 | Ana Ruiz |
 | 169 | 62 | Megan Vick |
-| 170 | 62 | Frisky Balance |
-| 171 | 60 | George Marshburn |
+| 170 | 62 | Gean DeJesus |
+| 171 | 62 | Frisky Balance |
 | 172 | 60 | aga |
 | 173 | 60 | kellie |
-| 174 | 60 | Chris Rowe |
-| 175 | 60 | Amandacolle |
+| 174 | 60 | George Marshburn |
+| 175 | 60 | Chris Rowe |
 | 176 | 60 | Fran Aaron-Ring |
 | 177 | 60 | Jumpy Builderpiece |
-| 178 | 59 | Futrell Brent |
-| 179 | 59 | Paula Renee McCracken |
-| 180 | 59 | Jennifer Fisher Franklin |
-| 181 | 58 | Jenn Fitzgerald |
-| 182 | 57 | Noa Lee |
-| 183 | 57 | BusterBear56 |
-| 184 | 57 | Cindy |
-| 185 | 57 | Cherry |
-| 186 | 56 | Bre Dee |
-| 187 | 55 | Daring Brickbuilder |
-| 188 | 54 | Playa |
-| 189 | 54 | Ricardo Arias |
-| 190 | 53 | LaTanya GeminiondaRise Johnson |
-| 191 | 52 | Jj Johnson |
-| 192 | 52 | Gean DeJesus |
+| 178 | 60 | Amandacolle |
+| 179 | 59 | Futrell Brent |
+| 180 | 59 | Paula Renee McCracken |
+| 181 | 59 | Jennifer Fisher Franklin |
+| 182 | 58 | Jenn Fitzgerald |
+| 183 | 57 | Noa Lee |
+| 184 | 57 | BusterBear56 |
+| 185 | 57 | Cindy |
+| 186 | 57 | Cherry |
+| 187 | 56 | Bre Dee |
+| 188 | 55 | Daring Brickbuilder |
+| 189 | 54 | Playa |
+| 190 | 54 | Ricardo Arias |
+| 191 | 53 | LaTanya GeminiondaRise Johnson |
+| 192 | 52 | Jj Johnson |
 | 193 | 52 | Joshua Hunt |
 | 194 | 51 | Vergie Michael |
 | 195 | 51 | Amanda Snow |
