@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 23:50:39 UTC
+# Standings for team1 as of 2026-06-06 23:51:16 UTC
 
 **Total Participants:** 1221
 
@@ -33,12 +33,12 @@
 | 25 | 1930 | April Inboden |
 | 26 | 1688 | Epic Snapfall |
 | 27 | 1589 | Brian Stackhouse |
-| 28 | 1445 | Erika Windom |
-| 29 | 1429 | Jolly Dropzone |
-| 30 | 1420 | Janet Cooke |
-| 31 | 1414 | COSA303 |
-| 32 | 1350 | Cool Bridger |
-| 33 | 1256 | Speedy Spinblock |
+| 28 | 1555 | Speedy Spinblock |
+| 29 | 1445 | Erika Windom |
+| 30 | 1429 | Jolly Dropzone |
+| 31 | 1420 | Janet Cooke |
+| 32 | 1414 | COSA303 |
+| 33 | 1350 | Cool Bridger |
 | 34 | 1242 | Jacoby E Fleming |
 | 35 | 1212 | Chris Russell |
 | 36 | 1160 | Daylene Johannes |
@@ -116,13 +116,13 @@
 | 108 | 391 | Sarah Marie |
 | 109 | 387 | Novaa |
 | 110 | 384 | Jason Mungin |
-| 111 | 383 | Catara Renae Oliver |
-| 112 | 377 | AF Cruz |
-| 113 | 374 | Lashawn Wallace |
-| 114 | 370 | Quirky Fallgrid |
-| 115 | 370 | Jamal Itzjusmall Chambers |
-| 116 | 361 | Ebony Waynes-robinson |
-| 117 | 346 | Hyper Slamdrop |
+| 111 | 384 | Hyper Slamdrop |
+| 112 | 383 | Catara Renae Oliver |
+| 113 | 377 | AF Cruz |
+| 114 | 374 | Lashawn Wallace |
+| 115 | 370 | Quirky Fallgrid |
+| 116 | 370 | Jamal Itzjusmall Chambers |
+| 117 | 361 | Ebony Waynes-robinson |
 | 118 | 334 | Christana Imjustbutton Stone |
 | 119 | 329 | Ty Øtg |
 | 120 | 328 | Jonathan Vee Jay |
@@ -214,13 +214,13 @@
 | 206 | 176 | Nikki Hogan |
 | 207 | 176 | Jessica Russell |
 | 208 | 171 | Boldy Liner |
-| 209 | 171 | Cheeky Pop |
-| 210 | 170 | Chipper Snapper |
-| 211 | 169 | Chilly Wipebuilder |
-| 212 | 169 | Asha Langford |
-| 213 | 168 | Tina Mitchell |
-| 214 | 167 | Jai |
-| 215 | 167 | Lesley Brunkus Cianfaglione |
+| 209 | 171 | Lesley Brunkus Cianfaglione |
+| 210 | 171 | Cheeky Pop |
+| 211 | 170 | Chipper Snapper |
+| 212 | 169 | Chilly Wipebuilder |
+| 213 | 169 | Asha Langford |
+| 214 | 168 | Tina Mitchell |
+| 215 | 167 | Jai |
 | 216 | 166 | Tarnisha Neicy Jones |
 | 217 | 166 | Latisha Fairley |
 | 218 | 165 | Queenie Perry |
@@ -326,13 +326,13 @@
 | 318 | 106 | Mister Reid |
 | 319 | 105 | Maria |
 | 320 | 105 | Kelley Johnson |
-| 321 | 105 | Dena Marie Lee |
-| 322 | 105 | BabyCakes |
-| 323 | 104 | Brittnay Wright |
-| 324 | 104 | Breezy Catcher |
-| 325 | 104 | Ahvae Lee |
-| 326 | 103 | Choc |
-| 327 | 102 | QueenShay AllGood |
+| 321 | 105 | QueenShay AllGood |
+| 322 | 105 | Dena Marie Lee |
+| 323 | 105 | BabyCakes |
+| 324 | 104 | Brittnay Wright |
+| 325 | 104 | Breezy Catcher |
+| 326 | 104 | Ahvae Lee |
+| 327 | 103 | Choc |
 | 328 | 102 | Maribel Vasquez |
 | 329 | 101 | Manda Allen |
 | 330 | 101 | Mommy Frank |
