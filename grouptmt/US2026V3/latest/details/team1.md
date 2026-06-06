@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 15:32:17 UTC
+# Standings for team1 as of 2026-06-06 15:32:41 UTC
 
 **Total Participants:** 1044
 
@@ -591,114 +591,114 @@
 | 583 | 39 | Diva shrock |
 | 584 | 39 | JesusSaves 😇 |
 | 585 | 39 | Kyle Conley |
-| 586 | 38 | Quwana Hall |
-| 587 | 38 | Kayel Good |
+| 586 | 38 | SeanSanchez |
+| 587 | 38 | Quwana Hall |
 | 588 | 38 | Manda Allen |
 | 589 | 38 | Tonny Williams |
-| 590 | 38 | Kahliah Baker |
+| 590 | 38 | WReckitraff |
 | 591 | 38 | 大竹直之 |
-| 592 | 38 | hope |
-| 593 | 38 | SeanSanchez |
-| 594 | 38 | WReckitraff |
-| 595 | 37 | Esha I'msoproudofmyself Davis |
+| 592 | 38 | Kayel Good |
+| 593 | 38 | hope |
+| 594 | 38 | Kahliah Baker |
+| 595 | 37 | Richelle Beck |
 | 596 | 37 | Spicy Shatterblock |
 | 597 | 37 | Lil T |
-| 598 | 37 | Richelle Beck |
+| 598 | 37 | Esha I'msoproudofmyself Davis |
 | 599 | 37 | Lootch |
 | 600 | 37 | CoaCoa Myles |
-| 601 | 37 | Karen Denen |
-| 602 | 37 | Jojo M |
-| 603 | 36 | Meow Meow |
-| 604 | 36 | Meluhnee |
+| 601 | 37 | Jojo M |
+| 602 | 37 | Karen Denen |
+| 603 | 36 | Xrandomx |
+| 604 | 36 | Meow Meow |
 | 605 | 36 | Jess |
-| 606 | 36 | Xrandomx |
-| 607 | 35 | Hyedie Badie |
-| 608 | 35 | Khatyrah Burnette |
+| 606 | 36 | Meluhnee |
+| 607 | 35 | Khatyrah Burnette |
+| 608 | 35 | Vivian Bunnell Myers |
 | 609 | 35 | Crafty Link |
-| 610 | 35 | Shannon Carriger |
-| 611 | 35 | Vivian Bunnell Myers |
+| 610 | 35 | Giggy Clusterer |
+| 611 | 35 | Brandy Jaszewski |
 | 612 | 35 | Sashaleo |
-| 613 | 35 | Brandy Jaszewski |
-| 614 | 35 | Amy Villalpando |
-| 615 | 35 | Giggy Clusterer |
-| 616 | 34 | Latoya Carson |
-| 617 | 34 | Mary Phillippi Blanton |
-| 618 | 34 | Jelyfish |
-| 619 | 34 | Jeremy Pope |
-| 620 | 34 | Shakmar |
-| 621 | 34 | Zayy Wavyy |
-| 622 | 34 | Marbama |
-| 623 | 34 | Sharee Robinson |
-| 624 | 33 | Krose Byers |
-| 625 | 33 | Jodie |
-| 626 | 33 | Danny M GR |
+| 613 | 35 | Amy Villalpando |
+| 614 | 35 | Hyedie Badie |
+| 615 | 35 | Jes Marie |
+| 616 | 35 | Shannon Carriger |
+| 617 | 34 | Jelyfish |
+| 618 | 34 | Sharee Robinson |
+| 619 | 34 | Latoya Carson |
+| 620 | 34 | Zayy Wavyy |
+| 621 | 34 | Jeremy Pope |
+| 622 | 34 | Shakmar |
+| 623 | 34 | Mary Phillippi Blanton |
+| 624 | 34 | Marbama |
+| 625 | 33 | Danny M GR |
+| 626 | 33 | Jodie |
 | 627 | 33 | Mom3granny2 |
 | 628 | 33 | Joseph Vs Cap |
-| 629 | 33 | LaToya Chambers |
-| 630 | 33 | Koz176 |
+| 629 | 33 | Krose Byers |
+| 630 | 33 | Crtjstr |
 | 631 | 33 | Zappy Riser |
-| 632 | 33 | Kim Holzmiller |
-| 633 | 33 | Stephen Garland |
-| 634 | 33 | Melanie Houghton-McCann |
-| 635 | 33 | Mathew Trudell |
-| 636 | 33 | Jason Saputo |
-| 637 | 33 | Delitra Perkins Hatter |
-| 638 | 33 | Lucy |
-| 639 | 33 | Danielle Barthelme |
-| 640 | 33 | Flash97 |
-| 641 | 33 | Kortney Adams |
-| 642 | 33 | P C |
-| 643 | 33 | Squaw Ki Ng |
-| 644 | 33 | Crtjstr |
-| 645 | 32 | Tyrone Porter |
+| 632 | 33 | Lucy |
+| 633 | 33 | Koz176 |
+| 634 | 33 | Kim Holzmiller |
+| 635 | 33 | Stephen Garland |
+| 636 | 33 | Melanie Houghton-McCann |
+| 637 | 33 | Mathew Trudell |
+| 638 | 33 | Jason Saputo |
+| 639 | 33 | Delitra Perkins Hatter |
+| 640 | 33 | LaToya Chambers |
+| 641 | 33 | Danielle Barthelme |
+| 642 | 33 | Flash97 |
+| 643 | 33 | Kortney Adams |
+| 644 | 33 | Squaw Ki Ng |
+| 645 | 33 | P C |
 | 646 | 32 | Chummy Liner |
-| 647 | 32 | Tomme Poliwka |
-| 648 | 32 | Melvin Simpson |
-| 649 | 32 | Wacky Spinfit |
+| 647 | 32 | Wacky Spinfit |
+| 648 | 32 | Tomme Poliwka |
+| 649 | 32 | Melvin Simpson |
 | 650 | 32 | Stephanie Scott |
 | 651 | 32 | Betsy B. Yohan |
 | 652 | 32 | TotoCherue |
 | 653 | 32 | LaSharon Jackson |
 | 654 | 32 | Sylvia Offically A Mcgowan |
-| 655 | 31 | Riq Wokhardt |
-| 656 | 31 | Ķïrãã Ďãvïss |
-| 657 | 31 | Edward Hickmon |
-| 658 | 31 | Bunnie Celtavini |
-| 659 | 31 | Hardtohandle91 |
-| 660 | 31 | kingbrook |
-| 661 | 31 | Nekka |
+| 655 | 32 | Tyrone Porter |
+| 656 | 31 | Riq Wokhardt |
+| 657 | 31 | Ķïrãã Ďãvïss |
+| 658 | 31 | Edward Hickmon |
+| 659 | 31 | Bunnie Celtavini |
+| 660 | 31 | Hardtohandle91 |
+| 661 | 31 | kingbrook |
 | 662 | 31 | Vannie G |
-| 663 | 31 | Andra Ward |
-| 664 | 30 | Jessica Corey |
-| 665 | 30 | Rhianna Dinki Austin |
-| 666 | 30 | Rosalind Chatman |
-| 667 | 30 | Bouncy Glide |
-| 668 | 30 | Falisa Bell |
-| 669 | 30 | Witty Blockpiece |
-| 670 | 30 | Jes Marie |
+| 663 | 31 | Nekka |
+| 664 | 31 | Andra Ward |
+| 665 | 30 | Amaadi Ward |
+| 666 | 30 | Rhianna Dinki Austin |
+| 667 | 30 | Rosalind Chatman |
+| 668 | 30 | Bouncy Glide |
+| 669 | 30 | Falisa Bell |
+| 670 | 30 | Witty Blockpiece |
 | 671 | 30 | Taneka Howell |
 | 672 | 30 | Sarah Guarino |
 | 673 | 30 | Tellisa Payne |
 | 674 | 30 | Dannie |
-| 675 | 30 | Abby |
-| 676 | 30 | Lester Malone |
-| 677 | 30 | TiffanyG |
-| 678 | 30 | Danny Talbot |
+| 675 | 30 | Jessica Corey |
+| 676 | 30 | Abby |
+| 677 | 30 | Lester Malone |
+| 678 | 30 | TiffanyG |
 | 679 | 30 | Witty Clear |
 | 680 | 30 | Adrian Wilson |
-| 681 | 30 | Amaadi Ward |
+| 681 | 30 | Danny Talbot |
 | 682 | 29 | DellaLucretia Thomas |
-| 683 | 29 | Epic Wipepiece |
-| 684 | 29 | Katness |
-| 685 | 29 | Dirty Deeds |
-| 686 | 29 | Jeffrey Barrows |
-| 687 | 29 | Everett Semmions |
-| 688 | 29 | Rissa Rozay |
-| 689 | 28 | Ameillia Boughner |
+| 683 | 29 | Rissa Rozay |
+| 684 | 29 | Everett Semmions |
+| 685 | 29 | Jeffrey Barrows |
+| 686 | 29 | Dirty Deeds |
+| 687 | 29 | Katness |
+| 688 | 29 | Epic Wipepiece |
+| 689 | 28 | AleahKCH |
 | 690 | 28 | LeeLee08 |
-| 691 | 28 | AleahKCH |
-| 692 | 28 | Will Stanton |
-| 693 | 28 | LaQuita White |
+| 691 | 28 | Ameillia Boughner |
+| 692 | 28 | LaQuita White |
+| 693 | 28 | Will Stanton |
 | 694 | 28 | kiki |
 | 695 | 28 | Danielle Marie Lewis |
 | 696 | 28 | Charise McGee |
