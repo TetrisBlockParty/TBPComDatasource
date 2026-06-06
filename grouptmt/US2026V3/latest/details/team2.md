@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 12:20:17 UTC
+# Standings for team2 as of 2026-06-06 12:20:38 UTC
 
 **Total Participants:** 1136
 
@@ -44,13 +44,13 @@
 | 36 | 1369 | Spunky Clicker |
 | 37 | 1335 | Christina Jambard Sampier |
 | 38 | 1206 | Happy Pivotfall |
-| 39 | 1201 | Monica Galli |
-| 40 | 1185 | Logan Basham |
-| 41 | 1174 | Betty Barrett |
+| 39 | 1204 | Betty Barrett |
+| 40 | 1201 | Monica Galli |
+| 41 | 1185 | Logan Basham |
 | 42 | 1128 | Jennifer Corder |
-| 43 | 1031 | DarkHorse |
-| 44 | 1027 | Frilly Match |
-| 45 | 906 | Julie Trede Amerson |
+| 43 | 1034 | Julie Trede Amerson |
+| 44 | 1031 | DarkHorse |
+| 45 | 1027 | Frilly Match |
 | 46 | 882 | AcardBoardBox |
 | 47 | 832 | Amber Triguero |
 | 48 | 824 | Mikki Torres |
@@ -97,9 +97,9 @@
 | 89 | 382 | Tom Badgley |
 | 90 | 377 | Nawang Nawang |
 | 91 | 354 | Branden Frankowski |
-| 92 | 345 | Smiley Dropper |
-| 93 | 340 | Courtney McCulley |
-| 94 | 337 | Krisanne Kesner-Lonsby |
+| 92 | 351 | Krisanne Kesner-Lonsby |
+| 93 | 345 | Smiley Dropper |
+| 94 | 340 | Courtney McCulley |
 | 95 | 335 | MaddieCherie |
 | 96 | 328 | Tim Tim |
 | 97 | 325 | Amy Gregg |
