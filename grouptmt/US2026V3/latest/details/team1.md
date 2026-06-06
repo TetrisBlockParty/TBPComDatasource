@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 08:56:39 UTC
+# Standings for team1 as of 2026-06-06 08:57:15 UTC
 
 **Total Participants:** 935
 
@@ -18,7 +18,7 @@
 | 10 | 3071 | Plucky Swipe |
 | 11 | 3039 | Chummy Combo |
 | 12 | 2338 | Debbie Carswell |
-| 13 | 2186 | Yolanda McDonald |
+| 13 | 2273 | Yolanda McDonald |
 | 14 | 1980 | Hunter Rayborn |
 | 15 | 1913 | Sha Harris |
 | 16 | 1589 | Brian Stackhouse |
@@ -546,34 +546,34 @@
 | 538 | 33 | Stephen Garland |
 | 539 | 33 | Crtjstr |
 | 540 | 33 | Block King |
-| 541 | 33 | Yadira Salgado |
+| 541 | 33 | Tyiesha Pie Farmer |
 | 542 | 33 | Mathew Trudell |
-| 543 | 33 | Tyiesha Pie Farmer |
-| 544 | 32 | TotoCherue |
-| 545 | 32 | Kashh |
-| 546 | 32 | Chummy Liner |
-| 547 | 32 | Sylvia Offically A Mcgowan |
-| 548 | 32 | Tyrone Porter |
-| 549 | 32 | Tomme Poliwka |
-| 550 | 32 | Melvin Simpson |
-| 551 | 32 | LaSharon Jackson |
-| 552 | 31 | Riq Wokhardt |
+| 543 | 33 | Yadira Salgado |
+| 544 | 32 | Tyrone Porter |
+| 545 | 32 | LaSharon Jackson |
+| 546 | 32 | Melvin Simpson |
+| 547 | 32 | Tomme Poliwka |
+| 548 | 32 | Kashh |
+| 549 | 32 | Sylvia Offically A Mcgowan |
+| 550 | 32 | Chummy Liner |
+| 551 | 32 | TotoCherue |
+| 552 | 31 | Edward Hickmon |
 | 553 | 31 | wmedina67 |
 | 554 | 31 | Vannie G |
-| 555 | 31 | kingbrook |
-| 556 | 31 | Ķïrãã Ďãvïss |
-| 557 | 31 | Edward Hickmon |
-| 558 | 31 | Nekka |
-| 559 | 31 | Reginald Frank |
-| 560 | 31 | Bunnie Celtavini |
-| 561 | 31 | Zany Breaker |
-| 562 | 31 | Li-Li Ratliff |
-| 563 | 30 | Delitra Perkins Hatter |
-| 564 | 30 | Tessa Gaskin |
-| 565 | 30 | Witty Clear |
-| 566 | 30 | Adrian Wilson |
-| 567 | 30 | Saucy Faller |
-| 568 | 30 | Andra Ward |
+| 555 | 31 | Andra Ward |
+| 556 | 31 | kingbrook |
+| 557 | 31 | Riq Wokhardt |
+| 558 | 31 | Ķïrãã Ďãvïss |
+| 559 | 31 | Nekka |
+| 560 | 31 | Reginald Frank |
+| 561 | 31 | Bunnie Celtavini |
+| 562 | 31 | Zany Breaker |
+| 563 | 31 | Li-Li Ratliff |
+| 564 | 30 | Saucy Faller |
+| 565 | 30 | Tessa Gaskin |
+| 566 | 30 | Delitra Perkins Hatter |
+| 567 | 30 | Witty Clear |
+| 568 | 30 | Adrian Wilson |
 | 569 | 30 | Wayne Savannah |
 | 570 | 30 | Rhianna Dinki Austin |
 | 571 | 30 | Twisty Brickfit |

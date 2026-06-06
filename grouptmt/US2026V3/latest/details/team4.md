@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 08:56:39 UTC
+# Standings for team4 as of 2026-06-06 08:57:15 UTC
 
 **Total Participants:** 901
 
@@ -63,20 +63,20 @@
 | 55 | 458 | vag1974 |
 | 56 | 456 | Victoria Ver |
 | 57 | 440 | Jewelz |
-| 58 | 419 | Sweet Stacker |
-| 59 | 419 | Caitlyn Wang |
-| 60 | 402 | Nick Graber |
-| 61 | 400 | Amber Doyle |
-| 62 | 399 | Erin Figone |
-| 63 | 395 | Melissa WC |
-| 64 | 392 | Dheeh Robles |
-| 65 | 392 | Kay |
-| 66 | 392 | Blayne Kole |
-| 67 | 389 | Ning Quiambao |
-| 68 | 383 | Crissy Hoffman |
-| 69 | 378 | Lisa Garcia |
-| 70 | 372 | Real Talk Vibes |
-| 71 | 366 | Lupe Alburquerque |
+| 58 | 426 | Lupe Alburquerque |
+| 59 | 419 | Sweet Stacker |
+| 60 | 419 | Caitlyn Wang |
+| 61 | 402 | Nick Graber |
+| 62 | 400 | Amber Doyle |
+| 63 | 399 | Erin Figone |
+| 64 | 395 | Melissa WC |
+| 65 | 392 | Dheeh Robles |
+| 66 | 392 | Kay |
+| 67 | 392 | Blayne Kole |
+| 68 | 389 | Ning Quiambao |
+| 69 | 383 | Crissy Hoffman |
+| 70 | 378 | Lisa Garcia |
+| 71 | 372 | Real Talk Vibes |
 | 72 | 356 | Tanita Jobe |
 | 73 | 347 | Nikki Fuller Johnson |
 | 74 | 346 | Alexis Cor |
