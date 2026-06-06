@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 02:04:15 UTC
+# Standings for team4 as of 2026-06-06 02:04:39 UTC
 
 **Total Participants:** 671
 
@@ -337,88 +337,88 @@
 | 329 | 34 | Yulissa Diaz |
 | 330 | 34 | Clashy |
 | 331 | 34 | GingaNinja |
-| 332 | 34 | Lord Solrac |
-| 333 | 34 | jojo |
+| 332 | 34 | jojo |
+| 333 | 34 | Lord Solrac |
 | 334 | 34 | Betsy Froemming |
 | 335 | 34 | Butterpat |
 | 336 | 34 | Drh4090 |
 | 337 | 33 | Kimberly Lusk |
-| 338 | 33 | Garden Girlie |
-| 339 | 33 | PL GR |
-| 340 | 33 | Donna Howard |
-| 341 | 32 | Hyper Snaplink |
-| 342 | 32 | Poppy |
-| 343 | 32 | CJ |
-| 344 | 32 | Nicole Colby McCloskey |
-| 345 | 32 | Brainbabe |
-| 346 | 32 | Rosy Perez |
-| 347 | 32 | Missionary Meda |
-| 348 | 31 | crobb77 |
-| 349 | 31 | Destiny Georgia Reeves Beller |
-| 350 | 31 | Dheeh Robles |
+| 338 | 33 | PL GR |
+| 339 | 33 | Donna Howard |
+| 340 | 33 | Dheeh Robles |
+| 341 | 33 | Garden Girlie |
+| 342 | 32 | Hyper Snaplink |
+| 343 | 32 | Poppy |
+| 344 | 32 | CJ |
+| 345 | 32 | Nicole Colby McCloskey |
+| 346 | 32 | Brainbabe |
+| 347 | 32 | Rosy Perez |
+| 348 | 32 | Missionary Meda |
+| 349 | 31 | Crystal Hammonds |
+| 350 | 31 | crobb77 |
 | 351 | 31 | Sweetfire |
-| 352 | 31 | Crystal Hammonds |
+| 352 | 31 | Destiny Georgia Reeves Beller |
 | 353 | 31 | Spicy Peach |
-| 354 | 30 | Loopy Wipeout |
-| 355 | 30 | Tiggerjake |
+| 354 | 30 | Shepreneur Sade |
+| 355 | 30 | Chill Snapclear |
 | 356 | 30 | Nick Graber |
-| 357 | 30 | Lmg |
-| 358 | 30 | Chill Snapclear |
-| 359 | 30 | Lateasha Wildman |
-| 360 | 30 | Will E Ayala |
-| 361 | 30 | Genger |
-| 362 | 30 | Koren Heersink |
-| 363 | 30 | Lala |
-| 364 | 30 | Dazzle Dragon |
-| 365 | 30 | Dexter Hammond Jr |
-| 366 | 30 | Shepreneur Sade |
-| 367 | 30 | Ash Gribble |
-| 368 | 30 | Danielle Sulano |
-| 369 | 30 | Wanda Simmons |
-| 370 | 29 | Miranda Brown |
-| 371 | 29 | Happy Filler |
-| 372 | 29 | Mrs.J2013 |
+| 357 | 30 | Lala |
+| 358 | 30 | Tiggerjake |
+| 359 | 30 | Lmg |
+| 360 | 30 | Genger |
+| 361 | 30 | Koren Heersink |
+| 362 | 30 | Lateasha Wildman |
+| 363 | 30 | Wanda Simmons |
+| 364 | 30 | Will E Ayala |
+| 365 | 30 | Dazzle Dragon |
+| 366 | 30 | Danielle Sulano |
+| 367 | 30 | Dexter Hammond Jr |
+| 368 | 30 | Ash Gribble |
+| 369 | 30 | Loopy Wipeout |
+| 370 | 29 | Zappy Matchgrid |
+| 371 | 29 | Mrs.J2013 |
+| 372 | 29 | Kelly Howland |
 | 373 | 29 | ŁųŁų |
-| 374 | 29 | Zappy Matchgrid |
-| 375 | 29 | Rhonda Dowling |
-| 376 | 29 | Daniel Lossman |
-| 377 | 29 | Kelly Howland |
-| 378 | 29 | Michael Cruz |
-| 379 | 28 | Wayne Mire |
-| 380 | 28 | Deva Marie Barber |
-| 381 | 28 | Sandra O'Reilly |
-| 382 | 28 | Melissa Schwager |
-| 383 | 28 | Brandi Gray |
-| 384 | 28 | Mindy Phariss |
-| 385 | 28 | Plucky Shatterfit |
-| 386 | 28 | JP |
-| 387 | 28 | Deborah Ayliffe |
-| 388 | 28 | Mc3003 |
-| 389 | 28 | Maegon Brazille |
+| 374 | 29 | Miranda Brown |
+| 375 | 29 | Michael Cruz |
+| 376 | 29 | Rhonda Dowling |
+| 377 | 29 | Happy Filler |
+| 378 | 29 | Daniel Lossman |
+| 379 | 28 | Sandra O'Reilly |
+| 380 | 28 | Melissa Schwager |
+| 381 | 28 | Deva Marie Barber |
+| 382 | 28 | Mindy Phariss |
+| 383 | 28 | Maegon Brazille |
+| 384 | 28 | Deborah Ayliffe |
+| 385 | 28 | JP |
+| 386 | 28 | Plucky Shatterfit |
+| 387 | 28 | Brandi Gray |
+| 388 | 28 | Wayne Mire |
+| 389 | 28 | Mc3003 |
 | 390 | 28 | Allysha McFarland |
-| 391 | 27 | Dandy Cascade |
-| 392 | 27 | 94Blockhead |
-| 393 | 27 | Cassie N Danica Flaherty |
-| 394 | 27 | Maria Castillo |
-| 395 | 27 | Snappy Stack |
-| 396 | 27 | Alex Dawn |
-| 397 | 26 | Nikcole Alexis Bryan |
-| 398 | 26 | Leslie Marie WarClub |
-| 399 | 26 | Kevin Lyles |
-| 400 | 26 | Sonia Cordero-Martinez |
-| 401 | 26 | Aramat |
-| 402 | 26 | Tahira Patrice |
+| 391 | 27 | Cassie N Danica Flaherty |
+| 392 | 27 | Snappy Stack |
+| 393 | 27 | Maria Castillo |
+| 394 | 27 | Alex Dawn |
+| 395 | 27 | Dandy Cascade |
+| 396 | 27 | 94Blockhead |
+| 397 | 26 | Sonia Cordero-Martinez |
+| 398 | 26 | Kevin Lyles |
+| 399 | 26 | Aramat |
+| 400 | 26 | Bridget Stevens |
+| 401 | 26 | Tahira Patrice |
+| 402 | 26 | Zippy Snaplink |
 | 403 | 26 | Kimmie Warren |
-| 404 | 26 | Clever Shuffler |
-| 405 | 26 | Zippy Snaplink |
+| 404 | 26 | Leslie Marie WarClub |
+| 405 | 26 | Nikcole Alexis Bryan |
 | 406 | 26 | Jessica Huber |
-| 407 | 26 | Bridget Stevens |
+| 407 | 26 | Clever Shuffler |
 | 408 | 26 | Lacey Decker |
 | 409 | 26 | Lisa Ferriero-Daudin |
-| 410 | 25 | Erika Rubio |
-| 411 | 25 | Andrea Dre Lomeli |
-| 412 | 25 | ButterfliesRFree |
-| 413 | 25 | Meghan Etchells |
+| 410 | 25 | Andrea Dre Lomeli |
+| 411 | 25 | ButterfliesRFree |
+| 412 | 25 | Meghan Etchells |
+| 413 | 25 | Erika Rubio |
 | 414 | 24 | Nancy McCalla Abercrombie |
 | 415 | 24 | Rocky |
 | 416 | 24 | Dawn Marie Trujillo |

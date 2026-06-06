@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 02:04:15 UTC
+# Standings for team2 as of 2026-06-06 02:04:39 UTC
 
 **Total Participants:** 819
 
@@ -83,12 +83,12 @@
 | 75 | 225 | Keri Mears |
 | 76 | 220 | Courtney McCulley |
 | 77 | 212 | Tom Badgley |
-| 78 | 204 | Deborah Boyce Minor |
-| 79 | 200 | Sarah Grundisch |
-| 80 | 199 | Stella |
+| 78 | 211 | Marie Luciano |
+| 79 | 204 | Deborah Boyce Minor |
+| 80 | 200 | Sarah Grundisch |
 | 81 | 199 | Beverly Lynn Mills |
-| 82 | 195 | Bb |
-| 83 | 191 | Marie Luciano |
+| 82 | 199 | Stella |
+| 83 | 195 | Bb |
 | 84 | 191 | Danielle Pack Lewellen |
 | 85 | 189 | DayDreamer79 |
 | 86 | 183 | Steven Craig |
@@ -97,8 +97,8 @@
 | 89 | 170 | Suki Jacobs |
 | 90 | 165 | Ackerman 85 |
 | 91 | 165 | Karen Reid Cenkush |
-| 92 | 160 | Helen Thomas |
-| 93 | 160 | Linda Guay |
+| 92 | 160 | Linda Guay |
+| 93 | 160 | Helen Thomas |
 | 94 | 159 | Michelle Rich Burkhart |
 | 95 | 158 | Nettrainer |
 | 96 | 158 | Amy Nicole McCanne |
@@ -546,97 +546,97 @@
 | 538 | 20 | Quirky Piecegrid |
 | 539 | 20 | Dapper Pivotfall |
 | 540 | 20 | Chesney |
-| 541 | 20 | Dana Wilson |
-| 542 | 20 | Chummy Snapbuilder |
-| 543 | 20 | Nanny t |
-| 544 | 20 | Newtwidebody |
-| 545 | 20 | Teea Makensi Meyer |
-| 546 | 20 | Chelsea Frye |
-| 547 | 20 | Hector |
-| 548 | 20 | Carmina Truoiolo |
-| 549 | 20 | Pleaze Marshall |
-| 550 | 20 | Kay Newcomb |
-| 551 | 20 | Shalice Jacobs |
-| 552 | 20 | Devon |
-| 553 | 20 | Silly square |
-| 554 | 20 | Jerry L Morales |
-| 555 | 20 | Rose Schaffner-Kibler |
-| 556 | 20 | Amanda Priddy |
-| 557 | 20 | Tiffany Hassanshahi |
-| 558 | 20 | WhitS |
-| 559 | 20 | Frothy Roll |
-| 560 | 20 | Sharilyn Jackson |
-| 561 | 20 | Bigbb |
-| 562 | 20 | Patty Ann Hendrickson |
-| 563 | 19 | Cool Climber |
-| 564 | 19 | Jessica Rose Engebretson |
-| 565 | 19 | Firebone |
-| 566 | 19 | Kathryn |
-| 567 | 19 | Snazzy Racker |
-| 568 | 19 | Kati Eckstein |
-| 569 | 19 | Cool Patternbuilder |
-| 570 | 19 | Twisty Snapmatch |
-| 571 | 19 | Jessica Jones |
-| 572 | 19 | Chirpy Grid |
-| 573 | 18 | TNGal |
-| 574 | 18 | Holly Huval |
-| 575 | 18 | Cary M. Fong |
-| 576 | 18 | Chirpy Clearpiece |
-| 577 | 18 | Cyrus Ramirez |
+| 541 | 20 | Patty Ann Hendrickson |
+| 542 | 20 | Devon |
+| 543 | 20 | Shalice Jacobs |
+| 544 | 20 | Silly square |
+| 545 | 20 | Kay Newcomb |
+| 546 | 20 | Dana Wilson |
+| 547 | 20 | Jerry L Morales |
+| 548 | 20 | Pleaze Marshall |
+| 549 | 20 | Rose Schaffner-Kibler |
+| 550 | 20 | Carmina Truoiolo |
+| 551 | 20 | Amanda Priddy |
+| 552 | 20 | Bigbb |
+| 553 | 20 | Hector |
+| 554 | 20 | Chelsea Frye |
+| 555 | 20 | Sharilyn Jackson |
+| 556 | 20 | Frothy Roll |
+| 557 | 20 | WhitS |
+| 558 | 20 | Teea Makensi Meyer |
+| 559 | 20 | Newtwidebody |
+| 560 | 20 | Tiffany Hassanshahi |
+| 561 | 20 | Nanny t |
+| 562 | 20 | Chummy Snapbuilder |
+| 563 | 19 | Twisty Snapmatch |
+| 564 | 19 | Cool Patternbuilder |
+| 565 | 19 | Snazzy Racker |
+| 566 | 19 | Jessica Rose Engebretson |
+| 567 | 19 | Kati Eckstein |
+| 568 | 19 | Kathryn |
+| 569 | 19 | Jessica Jones |
+| 570 | 19 | Chirpy Grid |
+| 571 | 19 | Firebone |
+| 572 | 19 | Cool Climber |
+| 573 | 18 | Tiffany Heether |
+| 574 | 18 | Jolly Twisterfit |
+| 575 | 18 | Glitzy Stackbuilder |
+| 576 | 18 | TNGal |
+| 577 | 18 | Cary M. Fong |
 | 578 | 18 | Alison Welsh |
-| 579 | 18 | Tiffany Heether |
-| 580 | 18 | Jolly Twisterfit |
-| 581 | 18 | Glitzy Stackbuilder |
-| 582 | 18 | Cuca Perez |
-| 583 | 18 | Kaitlyn Hurst |
-| 584 | 18 | Groovy Glider |
-| 585 | 18 | Ssirkus |
-| 586 | 18 | Kourtney Heiden-Hudson |
-| 587 | 18 | Michele Rogers |
+| 579 | 18 | Cyrus Ramirez |
+| 580 | 18 | Chirpy Clearpiece |
+| 581 | 18 | Mary Whitaker |
+| 582 | 18 | Holly Huval |
+| 583 | 18 | Michele Rogers |
+| 584 | 18 | Kourtney Heiden-Hudson |
+| 585 | 18 | Groovy Glider |
+| 586 | 18 | Cuca Perez |
+| 587 | 18 | Kaitlyn Hurst |
 | 588 | 18 | Mark Havens |
-| 589 | 17 | Shaylee Haltiner |
-| 590 | 17 | Debra May |
-| 591 | 17 | Gluten Gremlin |
-| 592 | 17 | Rosie |
-| 593 | 17 | Missy Savage-Justice |
-| 594 | 17 | Jennifer McClure |
-| 595 | 17 | Dena Cudjo |
-| 596 | 16 | Mouh Ity |
-| 597 | 16 | Princess Cucumber |
-| 598 | 16 | Renee Craig |
-| 599 | 16 | Peppy Piececlear |
-| 600 | 16 | Chris |
-| 601 | 16 | Elliot |
-| 602 | 16 | Natasha Schatte |
-| 603 | 16 | Danielle Lyons |
-| 604 | 16 | Kaylyn Wickham |
-| 605 | 16 | Brandy McCleary |
-| 606 | 16 | Dan Ramsey |
-| 607 | 16 | Baby |
-| 608 | 15 | Linda Jeanne Knop |
-| 609 | 15 | Samantha |
-| 610 | 15 | Jumpy Matchbuilder |
-| 611 | 15 | fancypants |
-| 612 | 15 | YAKO |
-| 613 | 15 | Poppy Slice |
-| 614 | 15 | Tina |
-| 615 | 15 | Daring Pivotfall |
-| 616 | 15 | Tashamonique Puckey |
-| 617 | 15 | Mandeee |
-| 618 | 15 | Loopy Zone |
-| 619 | 15 | Lisa Marie |
-| 620 | 15 | Liseth Vasquez |
-| 621 | 15 | Cherica Taylor |
-| 622 | 15 | Mee Maw |
+| 589 | 18 | Ssirkus |
+| 590 | 17 | Gluten Gremlin |
+| 591 | 17 | Debra May |
+| 592 | 17 | Jennifer McClure |
+| 593 | 17 | Dena Cudjo |
+| 594 | 17 | Missy Savage-Justice |
+| 595 | 17 | Rosie |
+| 596 | 17 | Shaylee Haltiner |
+| 597 | 16 | Peppy Piececlear |
+| 598 | 16 | Baby |
+| 599 | 16 | Renee Craig |
+| 600 | 16 | Mouh Ity |
+| 601 | 16 | Natasha Schatte |
+| 602 | 16 | Kaylyn Wickham |
+| 603 | 16 | Brandy McCleary |
+| 604 | 16 | Princess Cucumber |
+| 605 | 16 | Chris |
+| 606 | 16 | Elliot |
+| 607 | 16 | Dan Ramsey |
+| 608 | 16 | Danielle Lyons |
+| 609 | 15 | Mandeee |
+| 610 | 15 | Naomi Jaynes |
+| 611 | 15 | Fran Gerebics |
+| 612 | 15 | Tina |
+| 613 | 15 | Loopy Zone |
+| 614 | 15 | fancypants |
+| 615 | 15 | Liseth Vasquez |
+| 616 | 15 | Jumpy Matchbuilder |
+| 617 | 15 | Cherica Taylor |
+| 618 | 15 | Linda Jeanne Knop |
+| 619 | 15 | Mee Maw |
+| 620 | 15 | Samantha |
+| 621 | 15 | YAKO |
+| 622 | 15 | Poppy Slice |
 | 623 | 15 | Sassy Twistbuilder |
-| 624 | 15 | Wacky Stack |
-| 625 | 15 | Christine Ann Eras |
-| 626 | 15 | Julie Vargas |
-| 627 | 15 | sally |
-| 628 | 15 | Naomi Jaynes |
-| 629 | 15 | Fran Gerebics |
-| 630 | 14 | ReiRei |
-| 631 | 14 | Mary Whitaker |
+| 624 | 15 | Tashamonique Puckey |
+| 625 | 15 | Lisa Marie |
+| 626 | 15 | Christine Ann Eras |
+| 627 | 15 | Julie Vargas |
+| 628 | 15 | sally |
+| 629 | 15 | Wacky Stack |
+| 630 | 15 | Daring Pivotfall |
+| 631 | 14 | ReiRei |
 | 632 | 14 | Mandy |
 | 633 | 14 | Poppy Zonepiece |
 | 634 | 14 | Christopher Pulley |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 02:04:15 UTC
+# Standings for team1 as of 2026-06-06 02:04:39 UTC
 
 **Total Participants:** 708
 
@@ -66,8 +66,8 @@
 | 58 | 228 | Cassidy Butler |
 | 59 | 224 | Alana Renee |
 | 60 | 221 | Allison Baxter |
-| 61 | 216 | Kimberly Hernandez |
-| 62 | 216 | Spicy Balancer |
+| 61 | 216 | Spicy Balancer |
+| 62 | 216 | Kimberly Hernandez |
 | 63 | 215 | Abraham Espaillat |
 | 64 | 214 | Po Marley |
 | 65 | 209 | Gotcha |
@@ -75,8 +75,8 @@
 | 67 | 206 | Tiana Moore |
 | 68 | 199 | Chirpy Corner |
 | 69 | 198 | Death by SnuSnu |
-| 70 | 195 | Weeze |
-| 71 | 195 | Songne Arif |
+| 70 | 195 | Songne Arif |
+| 71 | 195 | Weeze |
 | 72 | 193 | Brave Clearbuilder |
 | 73 | 188 | SPNLover24 |
 | 74 | 185 | Teddy Davis |
@@ -97,19 +97,19 @@
 | 89 | 155 | Jawaun Daniels |
 | 90 | 155 | MamaBear |
 | 91 | 151 | Dacia Hicks |
-| 92 | 147 | David Fuentes |
-| 93 | 147 | MACHETEEDDIE513 |
-| 94 | 146 | Curtis T Cirno |
-| 95 | 144 | Kevin M. McGhee Jr |
-| 96 | 140 | Felicia Cain |
-| 97 | 140 | Sara Meri |
-| 98 | 140 | Ann Chung |
-| 99 | 139 | Chenell Gillard |
-| 100 | 139 | Todd C. Clemens |
-| 101 | 137 | BlackQueen105 |
-| 102 | 136 | Anthony Washington |
-| 103 | 135 | Amber Wilson |
-| 104 | 134 | Dai Bo |
+| 92 | 149 | Dai Bo |
+| 93 | 147 | David Fuentes |
+| 94 | 147 | MACHETEEDDIE513 |
+| 95 | 146 | Curtis T Cirno |
+| 96 | 144 | Kevin M. McGhee Jr |
+| 97 | 140 | Felicia Cain |
+| 98 | 140 | Sara Meri |
+| 99 | 140 | Ann Chung |
+| 100 | 139 | Chenell Gillard |
+| 101 | 139 | Todd C. Clemens |
+| 102 | 137 | BlackQueen105 |
+| 103 | 136 | Anthony Washington |
+| 104 | 135 | Amber Wilson |
 | 105 | 133 | Lashaunda |
 | 106 | 132 | Robyn Caldwell |
 | 107 | 132 | Mimi 1.0 |
