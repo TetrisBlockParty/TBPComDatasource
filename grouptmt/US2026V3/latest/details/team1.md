@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 11:09:16 UTC
+# Standings for team1 as of 2026-06-06 11:10:15 UTC
 
 **Total Participants:** 964
 
@@ -138,10 +138,10 @@
 | 130 | 193 | Brave Clearbuilder |
 | 131 | 190 | Davionte DaeDae Hopson-Rodriguez |
 | 132 | 188 | PandaPrincess |
-| 133 | 186 | Denise B |
-| 134 | 185 | Teddy Davis |
-| 135 | 184 | Dai Bo |
-| 136 | 182 | David Fuentes |
+| 133 | 187 | David Fuentes |
+| 134 | 186 | Denise B |
+| 135 | 185 | Teddy Davis |
+| 136 | 184 | Dai Bo |
 | 137 | 182 | Hyper Blocky |
 | 138 | 181 | Joey Albright |
 | 139 | 179 | Kelli Couture |
@@ -333,18 +333,18 @@
 | 325 | 63 | Sarah Swietlicki - Lopez |
 | 326 | 62 | De'Mear McKinney |
 | 327 | 62 | Jack Mehof |
-| 328 | 62 | Lynnette WheelerBushnell |
-| 329 | 62 | Richard Flex |
-| 330 | 61 | star |
-| 331 | 61 | Tonya Thomas |
-| 332 | 61 | MrsMeadows2019 |
+| 328 | 62 | MrsMeadows2019 |
+| 329 | 62 | Lynnette WheelerBushnell |
+| 330 | 62 | Richard Flex |
+| 331 | 61 | star |
+| 332 | 61 | Tonya Thomas |
 | 333 | 60 | Coco |
-| 334 | 60 | Brenda Malachi-butler |
-| 335 | 60 | Kimberly Noble |
-| 336 | 60 | Tasha |
-| 337 | 60 | izzybella |
-| 338 | 60 | Katherine Short |
-| 339 | 60 | Heather Aurelia |
+| 334 | 60 | Kimberly Noble |
+| 335 | 60 | Brenda Malachi-butler |
+| 336 | 60 | izzybella |
+| 337 | 60 | Tasha |
+| 338 | 60 | Heather Aurelia |
+| 339 | 60 | Katherine Short |
 | 340 | 60 | Angie Smith |
 | 341 | 60 | Malcolm Stanley |
 | 342 | 60 | Kesha Brady |
