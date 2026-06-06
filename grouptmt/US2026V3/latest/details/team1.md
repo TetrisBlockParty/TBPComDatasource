@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 08:04:38 UTC
+# Standings for team1 as of 2026-06-06 08:05:16 UTC
 
 **Total Participants:** 921
 
@@ -71,9 +71,9 @@
 | 63 | 377 | AF Cruz |
 | 64 | 371 | Shell Lewis |
 | 65 | 368 | Ottison Dianna |
-| 66 | 363 | Voice |
-| 67 | 362 | Eric Mcgaughy |
-| 68 | 357 | Sarah Marie |
+| 66 | 365 | Sarah Marie |
+| 67 | 363 | Voice |
+| 68 | 362 | Eric Mcgaughy |
 | 69 | 350 | Jazzy Dashpiece |
 | 70 | 344 | Kevin M. McGhee Jr |
 | 71 | 332 | Hyper Slamdrop |
@@ -591,12 +591,12 @@
 | 583 | 28 | Latoya Carson |
 | 584 | 28 | kiki |
 | 585 | 28 | Will Stanton |
-| 586 | 28 | Corbin Henry |
-| 587 | 28 | Danielle Marie Lewis |
-| 588 | 28 | Adrian Harris |
-| 589 | 28 | Boldy Matchfit |
-| 590 | 28 | LeeLee08 |
-| 591 | 27 | Chereese Harris |
+| 586 | 28 | Chereese Harris |
+| 587 | 28 | Corbin Henry |
+| 588 | 28 | Danielle Marie Lewis |
+| 589 | 28 | Adrian Harris |
+| 590 | 28 | Boldy Matchfit |
+| 591 | 28 | LeeLee08 |
 | 592 | 27 | Joka NoTime ForHataz |
 | 593 | 27 | Zesty Fitclear |
 | 594 | 27 | Danielle DeLozier Plesec |
