@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 10:13:16 UTC
+# Standings for team2 as of 2026-06-06 10:14:16 UTC
 
 **Total Participants:** 1102
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 11400 | Mochi |
+| 1 | 11700 | Mochi |
 | 2 | 11046 | Summer Harrison |
 | 3 | 7687 | Lacey Nolting |
 | 4 | 6739 | Jason Wood |
@@ -765,8 +765,8 @@
 | 757 | 23 | juhde |
 | 758 | 23 | Evelyn Olive Kalmbach |
 | 759 | 23 | Lisa Rose |
-| 760 | 23 | AshleyM |
-| 761 | 23 | Rey Huber |
+| 760 | 23 | Rey Huber |
+| 761 | 23 | AshleyM |
 | 762 | 23 | Jolene Moelder |
 | 763 | 23 | Anthony Chavez |
 | 764 | 22 | MJLovesHer#OneMistake |
@@ -777,11 +777,11 @@
 | 769 | 22 | Cary M. Fong |
 | 770 | 22 | MoonLilly |
 | 771 | 22 | Andrea Rawson |
-| 772 | 22 | Hog Crankin |
-| 773 | 22 | Marii |
-| 774 | 22 | April Elaine Messenger |
-| 775 | 22 | Pamela Gambrell |
-| 776 | 22 | Jeff Pottgether |
+| 772 | 22 | Marii |
+| 773 | 22 | April Elaine Messenger |
+| 774 | 22 | Pamela Gambrell |
+| 775 | 22 | Jeff Pottgether |
+| 776 | 22 | Hog Crankin |
 | 777 | 21 | Lakeisha Ryder |
 | 778 | 21 | Daniel Cline |
 | 779 | 21 | Brooke Kaune |
@@ -789,9 +789,9 @@
 | 781 | 21 | Thy Bui |
 | 782 | 21 | MamaRachel |
 | 783 | 21 | Maithan Conour |
-| 784 | 21 | CK Hancock |
+| 784 | 21 | Instak1ll |
 | 785 | 21 | Chirpy Clearpiece |
-| 786 | 21 | Instak1ll |
+| 786 | 21 | CK Hancock |
 | 787 | 21 | Erica Abreu |
 | 788 | 21 | Nicky Steigerwalt |
 | 789 | 21 | Zappy Pivotfall |
@@ -800,18 +800,18 @@
 | 792 | 20 | Julie Alexander Sykes |
 | 793 | 20 | Alana Albritton Seals |
 | 794 | 20 | Dana Wilson |
-| 795 | 20 | Nanny t |
-| 796 | 20 | Amanda Mason Scott |
+| 795 | 20 | Amanda Mason Scott |
+| 796 | 20 | Nanny t |
 | 797 | 20 | Binska |
-| 798 | 20 | Kay Newcomb |
-| 799 | 20 | Rob Owens |
-| 800 | 20 | Tiffany Hassanshahi |
-| 801 | 20 | Newtwidebody |
-| 802 | 20 | Chesney |
-| 803 | 20 | Danyell Flood-Morning |
-| 804 | 20 | Chris |
-| 805 | 20 | Devon |
-| 806 | 20 | Tonya Templin Smith |
+| 798 | 20 | Rob Owens |
+| 799 | 20 | Tiffany Hassanshahi |
+| 800 | 20 | Newtwidebody |
+| 801 | 20 | Chesney |
+| 802 | 20 | Kay Newcomb |
+| 803 | 20 | Chris |
+| 804 | 20 | Devon |
+| 805 | 20 | Tonya Templin Smith |
+| 806 | 20 | Danyell Flood-Morning |
 | 807 | 20 | Bonita Alexander |
 | 808 | 20 | Dapper Pivotfall |
 | 809 | 20 | Chelsea Frye |
@@ -837,43 +837,43 @@
 | 829 | 19 | Kim Powers |
 | 830 | 19 | BrendaLee NolanBos |
 | 831 | 19 | Stacey Peters |
-| 832 | 19 | jme |
+| 832 | 19 | Rebekah Holland |
 | 833 | 19 | Kathryn |
-| 834 | 19 | Teloney Humphrey |
-| 835 | 19 | Twisty Snapmatch |
-| 836 | 19 | Kati Eckstein |
-| 837 | 19 | Leigh Wilkerson |
-| 838 | 19 | Snazzy Racker |
+| 834 | 19 | Jessica Rose Engebretson |
+| 835 | 19 | Cool Climber |
+| 836 | 19 | jme |
+| 837 | 19 | Chirpy Grid |
+| 838 | 19 | Firebone |
 | 839 | 19 | Mario Hillman |
-| 840 | 19 | Chirpy Grid |
-| 841 | 19 | Cool Climber |
-| 842 | 19 | Firebone |
-| 843 | 19 | Armordguy |
-| 844 | 19 | Dolly |
-| 845 | 19 | Donutz |
-| 846 | 19 | Jessica Rose Engebretson |
-| 847 | 19 | Sassafras Cass |
-| 848 | 18 | Cyrus Ramirez |
-| 849 | 18 | Alison Welsh |
-| 850 | 18 | Mark Havens |
-| 851 | 18 | Kris Lea |
-| 852 | 18 | Elizabeth Kline |
-| 853 | 18 | Glitzy Stackbuilder |
-| 854 | 18 | Cuca Perez |
-| 855 | 18 | Tiffany Heether |
-| 856 | 18 | Debbie Embry |
-| 857 | 18 | Taran Evans |
-| 858 | 18 | Chummy Faller |
-| 859 | 18 | Jolly Twisterfit |
-| 860 | 17 | Smiley Edgefit |
-| 861 | 17 | Shaylee Haltiner |
+| 840 | 19 | Snazzy Racker |
+| 841 | 19 | Leigh Wilkerson |
+| 842 | 19 | Kati Eckstein |
+| 843 | 19 | Sassafras Cass |
+| 844 | 19 | Twisty Snapmatch |
+| 845 | 19 | Armordguy |
+| 846 | 19 | Donutz |
+| 847 | 19 | Dolly |
+| 848 | 19 | Teloney Humphrey |
+| 849 | 18 | Mark Havens |
+| 850 | 18 | Cyrus Ramirez |
+| 851 | 18 | Elizabeth Kline |
+| 852 | 18 | Glitzy Stackbuilder |
+| 853 | 18 | Cuca Perez |
+| 854 | 18 | Debbie Embry |
+| 855 | 18 | Taran Evans |
+| 856 | 18 | Chummy Faller |
+| 857 | 18 | Jolly Twisterfit |
+| 858 | 18 | Tiffany Heether |
+| 859 | 18 | Kris Lea |
+| 860 | 18 | Alison Welsh |
+| 861 | 17 | Kelly Christine Trimmer |
 | 862 | 17 | Dena Cudjo |
-| 863 | 17 | Kelly Christine Trimmer |
-| 864 | 17 | Debra May |
-| 865 | 17 | Rosie |
+| 863 | 17 | Shaylee Haltiner |
+| 864 | 17 | Rosie |
+| 865 | 17 | Debra May |
 | 866 | 17 | Staci Carl |
-| 867 | 17 | Rebekah Holland |
-| 868 | 17 | Snappy Blockbuilder |
+| 867 | 17 | Snappy Blockbuilder |
+| 868 | 17 | Smiley Edgefit |
 | 869 | 16 | Peppy Piececlear |
 | 870 | 16 | Sassy Twistbuilder |
 | 871 | 16 | Jeremy Monceaux |
