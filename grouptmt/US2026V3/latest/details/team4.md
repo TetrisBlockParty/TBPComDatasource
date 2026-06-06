@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 07:50:16 UTC
+# Standings for team4 as of 2026-06-06 07:50:39 UTC
 
 **Total Participants:** 882
 
@@ -757,34 +757,34 @@
 | 749 | 14 | Jazzy Rollout |
 | 750 | 14 | Playful Raccoon |
 | 751 | 14 | Becca Milliron |
-| 752 | 14 | Marina |
-| 753 | 14 | Kiaralis Ashley Hancock |
-| 754 | 14 | Holly Bramel |
-| 755 | 14 | JoJo Hutson |
-| 756 | 14 | Breezy Rollfit |
-| 757 | 14 | moonman33 |
-| 758 | 13 | Kelli Miller |
-| 759 | 13 | Jackie Russo-Edens |
-| 760 | 13 | Gma420 |
-| 761 | 13 | Miguel Teixeira |
-| 762 | 13 | Jaison Horton |
-| 763 | 13 | Lolita Nettles |
-| 764 | 12 | Fancy Riser |
-| 765 | 12 | Slinky Snapfit |
-| 766 | 12 | Mighty Spinfit |
+| 752 | 14 | Kiaralis Ashley Hancock |
+| 753 | 14 | JoJo Hutson |
+| 754 | 14 | moonman33 |
+| 755 | 14 | Breezy Rollfit |
+| 756 | 14 | Holly Bramel |
+| 757 | 14 | Marina |
+| 758 | 14 | Spicy Holder |
+| 759 | 13 | Gma420 |
+| 760 | 13 | Miguel Teixeira |
+| 761 | 13 | Jaison Horton |
+| 762 | 13 | Lolita Nettles |
+| 763 | 13 | Kelli Miller |
+| 764 | 13 | Jackie Russo-Edens |
+| 765 | 12 | Jace McCullough |
+| 766 | 12 | Peterson Cottontail |
 | 767 | 12 | Rebecca Renaud |
-| 768 | 12 | Jace McCullough |
-| 769 | 12 | Peterson Cottontail |
-| 770 | 12 | Shelly Jackson |
-| 771 | 12 | Tatiyana Hockett |
-| 772 | 12 | Brendan Craven |
-| 773 | 12 | Theo Stamps |
-| 774 | 12 | Scott Baum |
-| 775 | 12 | Angela Correa |
-| 776 | 12 | Tod Jae |
-| 777 | 12 | Diqthot |
-| 778 | 12 | ESPERANTU |
-| 779 | 12 | Spicy Holder |
+| 768 | 12 | Shelly Jackson |
+| 769 | 12 | Mighty Spinfit |
+| 770 | 12 | Slinky Snapfit |
+| 771 | 12 | Fancy Riser |
+| 772 | 12 | Tatiyana Hockett |
+| 773 | 12 | Brendan Craven |
+| 774 | 12 | Theo Stamps |
+| 775 | 12 | Scott Baum |
+| 776 | 12 | Angela Correa |
+| 777 | 12 | Tod Jae |
+| 778 | 12 | Diqthot |
+| 779 | 12 | ESPERANTU |
 | 780 | 12 | McScrubby |
 | 781 | 11 | Cas Gio |
 | 782 | 11 | Glitzy Crasher |
