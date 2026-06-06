@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 12:52:18 UTC
+# Standings for team2 as of 2026-06-06 12:52:37 UTC
 
 **Total Participants:** 1145
 
@@ -176,20 +176,20 @@
 | 168 | 164 | Jerry L Morales |
 | 169 | 164 | Melissa Nash |
 | 170 | 163 | Zany Cascader |
-| 171 | 162 | Amie Marks |
-| 172 | 162 | Larry Cross |
-| 173 | 161 | Boldy Wobbler |
-| 174 | 160 | Sarah Mccolgan |
-| 175 | 160 | snowwol |
-| 176 | 160 | Lora Via |
+| 171 | 162 | Greta Warden |
+| 172 | 162 | Amie Marks |
+| 173 | 162 | Larry Cross |
+| 174 | 161 | Boldy Wobbler |
+| 175 | 160 | Sarah Mccolgan |
+| 176 | 160 | snowwol |
 | 177 | 160 | Loopy Dropper |
-| 178 | 159 | Cara Rivera |
-| 179 | 159 | Jgato |
-| 180 | 157 | Spicy Risegrid |
-| 181 | 157 | Santara Ferguson |
-| 182 | 155 | Zany Blockclear |
-| 183 | 154 | Glitzy Base |
-| 184 | 152 | Greta Warden |
+| 178 | 160 | Lora Via |
+| 179 | 159 | Cara Rivera |
+| 180 | 159 | Jgato |
+| 181 | 157 | Spicy Risegrid |
+| 182 | 157 | Santara Ferguson |
+| 183 | 155 | Zany Blockclear |
+| 184 | 154 | Glitzy Base |
 | 185 | 151 | Karly Moore |
 | 186 | 151 | Marilyn Mendoza |
 | 187 | 150 | Rick |
@@ -474,60 +474,60 @@
 | 466 | 55 | Allison Peterson |
 | 467 | 55 | Kelly |
 | 468 | 55 | Wendy Durrence Jones |
-| 469 | 55 | Muffin Popper |
-| 470 | 55 | Silly Tiltbuilder |
-| 471 | 55 | Elizabeth Henry |
-| 472 | 55 | Beverly-Jo Peterson |
+| 469 | 55 | Silly Tiltbuilder |
+| 470 | 55 | Muffin Popper |
+| 471 | 55 | Beverly-Jo Peterson |
+| 472 | 55 | Elizabeth Henry |
 | 473 | 54 | Christina Nycol |
-| 474 | 54 | Cool Patternbuilder |
+| 474 | 54 | Sabrina Hardrick |
 | 475 | 54 | Sassy Patternblock |
-| 476 | 54 | Sabrina Hardrick |
-| 477 | 53 | Wayne Johnson |
+| 476 | 54 | Cool Patternbuilder |
+| 477 | 53 | Wacky Stack |
 | 478 | 53 | Maurii93 |
-| 479 | 53 | Wacky Stack |
+| 479 | 53 | Wayne Johnson |
 | 480 | 53 | Trisha Schneider |
 | 481 | 53 | Jessica Spivey Cooper |
 | 482 | 53 | Spicy Basepiece |
 | 483 | 53 | Kayley |
-| 484 | 52 | Julibeth Wells |
-| 485 | 52 | Amber Marie Lacey |
+| 484 | 52 | Rosalie Call Kehlenbeck |
+| 485 | 52 | Julibeth Wells |
 | 486 | 52 | Chipper Spinzone |
-| 487 | 52 | Rosalie Call Kehlenbeck |
+| 487 | 52 | Amber Marie Lacey |
 | 488 | 52 | Gina Louise Parker |
 | 489 | 52 | andee |
-| 490 | 51 | Amy D Coble |
-| 491 | 51 | Amber Carpenter |
-| 492 | 51 | Twisty Matchfit |
+| 490 | 51 | Mama G |
+| 491 | 51 | Amber-leigh Williams |
+| 492 | 51 | Rebekah Holland |
 | 493 | 51 | Tashamonique Puckey |
-| 494 | 51 | Rebekah Holland |
-| 495 | 51 | Mama G |
-| 496 | 51 | Amber-leigh Williams |
-| 497 | 51 | Loretta Crow |
-| 498 | 50 | MarioKarasovic |
-| 499 | 50 | Jennifer Wymer |
-| 500 | 50 | Charith Lorelle Watson |
-| 501 | 50 | Chilly Surge |
-| 502 | 50 | Teea Makensi Meyer |
-| 503 | 50 | Swanky Fitline |
-| 504 | 50 | Whitt |
-| 505 | 49 | Dayna Messer-Thelen |
-| 506 | 49 | Tetrismastrr |
-| 507 | 49 | Cherica Taylor |
-| 508 | 49 | Hillary Frank |
-| 509 | 49 | rebel4lyfe |
-| 510 | 49 | R.w. Buck |
-| 511 | 48 | Brian Little |
+| 494 | 51 | Twisty Matchfit |
+| 495 | 51 | Amber Carpenter |
+| 496 | 51 | Loretta Crow |
+| 497 | 51 | Amy D Coble |
+| 498 | 50 | Charith Lorelle Watson |
+| 499 | 50 | Michael Carmichael |
+| 500 | 50 | Teea Makensi Meyer |
+| 501 | 50 | Whitt |
+| 502 | 50 | MarioKarasovic |
+| 503 | 50 | Chilly Surge |
+| 504 | 50 | Jennifer Wymer |
+| 505 | 50 | Swanky Fitline |
+| 506 | 49 | R.w. Buck |
+| 507 | 49 | Tetrismastrr |
+| 508 | 49 | rebel4lyfe |
+| 509 | 49 | Cherica Taylor |
+| 510 | 49 | Dayna Messer-Thelen |
+| 511 | 49 | Hillary Frank |
 | 512 | 48 | Zaniya Brown |
-| 513 | 48 | Squared |
+| 513 | 48 | Brian Little |
 | 514 | 48 | Tamara Whiteley |
 | 515 | 48 | Katelynn Hunt |
-| 516 | 48 | TNGal |
+| 516 | 48 | Squared |
 | 517 | 48 | Dizzy Dropzone |
-| 518 | 48 | Funky Blockmatch |
-| 519 | 48 | Krystle McCaslin |
-| 520 | 48 | Jason P. Schwartz |
-| 521 | 47 | Angela Hogan |
-| 522 | 47 | Michael Carmichael |
+| 518 | 48 | TNGal |
+| 519 | 48 | Funky Blockmatch |
+| 520 | 48 | Krystle McCaslin |
+| 521 | 48 | Jason P. Schwartz |
+| 522 | 47 | Angela Hogan |
 | 523 | 47 | Christina Reid |
 | 524 | 47 | BB |
 | 525 | 47 | Starvinmarvin |

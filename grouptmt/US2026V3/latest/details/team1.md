@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 12:52:18 UTC
+# Standings for team1 as of 2026-06-06 12:52:37 UTC
 
 **Total Participants:** 985
 
@@ -341,32 +341,32 @@
 | 333 | 68 | Eric Spencer Whitaker |
 | 334 | 68 | Alyssa Rae |
 | 335 | 67 | Steve Reno |
-| 336 | 67 | Fina McKinnis |
-| 337 | 67 | Jennah |
-| 338 | 67 | Travis Davison |
-| 339 | 67 | Johnathan Deese |
-| 340 | 67 | Rufus |
-| 341 | 67 | Laurie Napper |
-| 342 | 67 | Michele Elizabeth McKay-Johnson |
+| 336 | 67 | Jennah |
+| 337 | 67 | Travis Davison |
+| 338 | 67 | Johnathan Deese |
+| 339 | 67 | Rufus |
+| 340 | 67 | Laurie Napper |
+| 341 | 67 | Michele Elizabeth McKay-Johnson |
+| 342 | 67 | Fina McKinnis |
 | 343 | 66 | GracefulOwl808 |
-| 344 | 65 | Erica Charlise |
-| 345 | 65 | Giggy Tower |
-| 346 | 65 | Jazzy Bridger |
-| 347 | 65 | Koi |
-| 348 | 65 | Sabrina Wilkerson |
+| 344 | 65 | Giggy Tower |
+| 345 | 65 | Koi |
+| 346 | 65 | Erica Charlise |
+| 347 | 65 | Sabrina Wilkerson |
+| 348 | 65 | Jazzy Bridger |
 | 349 | 65 | Robbie Cheeseman |
-| 350 | 64 | Douglas Price |
-| 351 | 64 | Dena Marie Lee |
-| 352 | 63 | Slinky Clearzone |
-| 353 | 63 | La'Chae Nickole |
-| 354 | 63 | Sarah Swietlicki - Lopez |
-| 355 | 63 | Ahsokadog |
-| 356 | 62 | Richard Flex |
-| 357 | 62 | Jack Mehof |
-| 358 | 62 | De'Mear McKinney |
-| 359 | 61 | Perky Pusher |
-| 360 | 61 | star |
-| 361 | 61 | Kate Hancock Malicek |
+| 350 | 64 | Dena Marie Lee |
+| 351 | 64 | Kate Hancock Malicek |
+| 352 | 64 | Douglas Price |
+| 353 | 63 | Slinky Clearzone |
+| 354 | 63 | La'Chae Nickole |
+| 355 | 63 | Sarah Swietlicki - Lopez |
+| 356 | 63 | Ahsokadog |
+| 357 | 62 | De'Mear McKinney |
+| 358 | 62 | Jack Mehof |
+| 359 | 62 | Richard Flex |
+| 360 | 61 | Perky Pusher |
+| 361 | 61 | star |
 | 362 | 61 | Tonya Thomas |
 | 363 | 60 | Lauren Farkas |
 | 364 | 60 | Brenda Malachi-butler |
