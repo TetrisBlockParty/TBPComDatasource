@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 13:28:16 UTC
+# Standings for team1 as of 2026-06-06 13:28:38 UTC
 
 **Total Participants:** 1001
 
@@ -123,19 +123,19 @@
 | 115 | 227 | Chantelle Lee |
 | 116 | 225 | Rhonda Williams Warner |
 | 117 | 221 | Allison Baxter |
-| 118 | 216 | Andi McGreevy |
-| 119 | 216 | Nerdy Snapfall |
-| 120 | 215 | Abraham Espaillat |
-| 121 | 214 | Po Marley |
-| 122 | 214 | Moomoo |
-| 123 | 214 | Tonya McElroy |
-| 124 | 212 | Nobles Brandon |
-| 125 | 211 | MamaBear |
-| 126 | 209 | Zachary Colegrove |
-| 127 | 208 | Mic Balew |
-| 128 | 206 | Weeze |
-| 129 | 206 | Curtis T Cirno |
-| 130 | 205 | Dacia Hicks |
+| 118 | 220 | Dacia Hicks |
+| 119 | 216 | Andi McGreevy |
+| 120 | 216 | Nerdy Snapfall |
+| 121 | 215 | Abraham Espaillat |
+| 122 | 214 | Po Marley |
+| 123 | 214 | Moomoo |
+| 124 | 214 | Tonya McElroy |
+| 125 | 212 | Nobles Brandon |
+| 126 | 211 | MamaBear |
+| 127 | 209 | Zachary Colegrove |
+| 128 | 208 | Mic Balew |
+| 129 | 206 | Weeze |
+| 130 | 206 | Curtis T Cirno |
 | 131 | 200 | Felicia Cain |
 | 132 | 199 | Asani CHumba |
 | 133 | 198 | W.A. Simpson |
