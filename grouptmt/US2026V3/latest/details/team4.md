@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 10:44:15 UTC
+# Standings for team4 as of 2026-06-06 10:44:39 UTC
 
 **Total Participants:** 930
 
@@ -100,7 +100,7 @@
 | 92 | 258 | Andrew Dang |
 | 93 | 253 | Debby Ruof |
 | 94 | 252 | Sarah Berry Stevens |
-| 95 | 240 | Bubbly Twistpiece |
+| 95 | 246 | Bubbly Twistpiece |
 | 96 | 240 | Jojo Ann |
 | 97 | 235 | Hwanger Land |
 | 98 | 230 | Sisi RedVelvet Reneè |
@@ -239,101 +239,101 @@
 | 231 | 88 | SandyEva |
 | 232 | 88 | Deva Marie Barber |
 | 233 | 87 | Jeff Margolis |
-| 234 | 87 | LastBoi |
-| 235 | 87 | Limbo |
+| 234 | 87 | Limbo |
+| 235 | 87 | LastBoi |
 | 236 | 86 | Rachel Lemos |
-| 237 | 85 | 1694AF |
+| 237 | 85 | Dawn Marie Trujillo |
 | 238 | 85 | Kari Smith |
-| 239 | 85 | Dawn Marie Trujillo |
+| 239 | 85 | 1694AF |
 | 240 | 85 | MelodiousDeez |
 | 241 | 84 | Rae Saunders |
 | 242 | 83 | Bouncy |
 | 243 | 83 | MrLoner Stoner |
 | 244 | 83 | Rosy Perez |
 | 245 | 83 | Jennifer Fisher Franklin |
-| 246 | 82 | Codey Haffner |
+| 246 | 82 | Luna |
 | 247 | 82 | Bon Jovi |
-| 248 | 82 | Luna |
-| 249 | 81 | Stasia |
-| 250 | 81 | Janae Harris |
+| 248 | 82 | Codey Haffner |
+| 249 | 81 | Janae Harris |
+| 250 | 81 | Stasia |
 | 251 | 81 | Lively Cascadebuilder |
 | 252 | 80 | Krista Diaz |
-| 253 | 80 | Magz |
-| 254 | 80 | Josh Keith Travierso |
-| 255 | 80 | Maurice DeJean |
-| 256 | 80 | Carla Woodard |
-| 257 | 80 | Danny Frausto |
-| 258 | 79 | Audrianna Skaff |
-| 259 | 79 | Joyce Myers |
-| 260 | 79 | Gean DeJesus |
-| 261 | 79 | Miwa |
-| 262 | 79 | Has2brat |
+| 253 | 80 | Carla Woodard |
+| 254 | 80 | Magz |
+| 255 | 80 | Danny Frausto |
+| 256 | 80 | Maurice DeJean |
+| 257 | 80 | Josh Keith Travierso |
+| 258 | 79 | Miwa |
+| 259 | 79 | Gean DeJesus |
+| 260 | 79 | Audrianna Skaff |
+| 261 | 79 | Has2brat |
+| 262 | 79 | Joyce Myers |
 | 263 | 79 | Snazzy Corner |
 | 264 | 79 | Courtney Niichole |
 | 265 | 79 | JoAnn Summerlot Ratliff |
 | 266 | 78 | Stef |
 | 267 | 77 | Lady |
-| 268 | 76 | BertaF1irta |
+| 268 | 76 | Piece of Cake |
 | 269 | 76 | Spicy Peach |
-| 270 | 76 | Perky Riserbuilder |
-| 271 | 76 | Piece of Cake |
+| 270 | 76 | BertaF1irta |
+| 271 | 76 | Perky Riserbuilder |
 | 272 | 76 | EvoKitty |
 | 273 | 76 | All knowing |
 | 274 | 75 | Sarah Perry Cook |
 | 275 | 75 | Corey Jackson |
-| 276 | 75 | Bonnie Powell |
-| 277 | 75 | Chonda OhanaMomma Michelle |
+| 276 | 75 | Chonda OhanaMomma Michelle |
+| 277 | 75 | Bonnie Powell |
 | 278 | 74 | Rita Ann |
-| 279 | 73 | Troy Zanelli |
-| 280 | 73 | Jenn Fitzgerald |
-| 281 | 71 | Snazzy Fitclear |
-| 282 | 71 | King |
-| 283 | 71 | Taquilla Branch |
-| 284 | 70 | Gigglycat |
-| 285 | 70 | Henry Lanier |
-| 286 | 70 | Karen Small |
-| 287 | 70 | ManOfSteel |
-| 288 | 69 | Dizzy Slammer |
-| 289 | 69 | Khylee DarDar |
-| 290 | 69 | Wacky Brick |
-| 291 | 68 | Smiley Gridzone |
-| 292 | 68 | Keys Tome |
-| 293 | 68 | Erika Seaton |
-| 294 | 68 | Azahares Alonso |
-| 295 | 67 | Alma López Morales |
-| 296 | 67 | Noa Lee |
-| 297 | 67 | Karen Rodriguez |
-| 298 | 67 | Loretta Hendricks |
-| 299 | 66 | Mann Manson |
-| 300 | 65 | SupaFly |
-| 301 | 65 | Joshua Garner |
-| 302 | 65 | Lul Babie |
-| 303 | 65 | Kristen Wallace |
-| 304 | 65 | Domo Dpn |
-| 305 | 65 | Cranky Twistpiece |
-| 306 | 64 | sierrabeth |
-| 307 | 64 | Queen B |
-| 308 | 64 | Melika Zeheb |
-| 309 | 63 | Brenda Gustamantes |
+| 279 | 73 | Joshua Hunt |
+| 280 | 73 | Troy Zanelli |
+| 281 | 73 | Jenn Fitzgerald |
+| 282 | 71 | Snazzy Fitclear |
+| 283 | 71 | King |
+| 284 | 71 | Taquilla Branch |
+| 285 | 70 | Gigglycat |
+| 286 | 70 | Henry Lanier |
+| 287 | 70 | Karen Small |
+| 288 | 70 | ManOfSteel |
+| 289 | 69 | Dizzy Slammer |
+| 290 | 69 | Khylee DarDar |
+| 291 | 69 | Wacky Brick |
+| 292 | 68 | Smiley Gridzone |
+| 293 | 68 | Keys Tome |
+| 294 | 68 | Erika Seaton |
+| 295 | 68 | Azahares Alonso |
+| 296 | 67 | Alma López Morales |
+| 297 | 67 | Noa Lee |
+| 298 | 67 | Karen Rodriguez |
+| 299 | 67 | Loretta Hendricks |
+| 300 | 66 | Mann Manson |
+| 301 | 65 | SupaFly |
+| 302 | 65 | Joshua Garner |
+| 303 | 65 | Lul Babie |
+| 304 | 65 | Kristen Wallace |
+| 305 | 65 | Domo Dpn |
+| 306 | 65 | Cranky Twistpiece |
+| 307 | 64 | sierrabeth |
+| 308 | 64 | Queen B |
+| 309 | 64 | Melika Zeheb |
 | 310 | 63 | Ana Ruiz |
-| 311 | 63 | Joshua Hunt |
+| 311 | 63 | Brenda Gustamantes |
 | 312 | 63 | Brenda Mueller |
 | 313 | 63 | Blockcrusher |
 | 314 | 63 | Ajohnna Frazee |
 | 315 | 62 | Tiggerjake |
-| 316 | 62 | medicjessi |
-| 317 | 62 | Chummy Rollzone |
-| 318 | 62 | Frisky Balance |
-| 319 | 62 | Jen Smith |
-| 320 | 62 | Nicole |
+| 316 | 62 | Frisky Balance |
+| 317 | 62 | Nicole |
+| 318 | 62 | medicjessi |
+| 319 | 62 | Chummy Rollzone |
+| 320 | 62 | Jen Smith |
 | 321 | 61 | Deborah Ayliffe |
-| 322 | 61 | Tasha Suzanne Prisbrey |
-| 323 | 61 | Cindy |
-| 324 | 61 | Jackie Miller |
-| 325 | 60 | Randy M Hatch |
-| 326 | 60 | Kristine Hj Han |
-| 327 | 60 | Frothy Pattern |
-| 328 | 60 | aga |
+| 322 | 61 | Cindy |
+| 323 | 61 | Jackie Miller |
+| 324 | 61 | Tasha Suzanne Prisbrey |
+| 325 | 60 | Kristine Hj Han |
+| 326 | 60 | Frothy Pattern |
+| 327 | 60 | aga |
+| 328 | 60 | Randy M Hatch |
 | 329 | 60 | George Marshburn |
 | 330 | 60 | Helen Bradley |
 | 331 | 60 | Amandacolle |
