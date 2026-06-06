@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 10:35:16 UTC
+# Standings for team1 as of 2026-06-06 10:36:16 UTC
 
 **Total Participants:** 958
 
@@ -145,34 +145,34 @@
 | 137 | 177 | Chris Sladoje |
 | 138 | 176 | Andre Sanon |
 | 139 | 175 | Rayshawn Cohen |
-| 140 | 169 | Asha Langford |
-| 141 | 168 | Moomoo |
+| 140 | 173 | Moomoo |
+| 141 | 169 | Asha Langford |
 | 142 | 166 | Tarnisha Neicy Jones |
 | 143 | 166 | Nobles Brandon |
 | 144 | 160 | Zippy Lifter |
-| 145 | 160 | DaGuy |
-| 146 | 160 | Sara Meri |
+| 145 | 160 | Sara Meri |
+| 146 | 160 | DaGuy |
 | 147 | 158 | Tina Mitchell |
 | 148 | 158 | W.A. Simpson |
-| 149 | 156 | Jessica Russell |
-| 150 | 156 | Anthony Washington |
+| 149 | 156 | Anthony Washington |
+| 150 | 156 | Jessica Russell |
 | 151 | 155 | Jawaun Daniels |
 | 152 | 147 | David Fuentes |
 | 153 | 147 | MACHETEEDDIE513 |
-| 154 | 146 | BlackQueen105 |
-| 155 | 146 | Marcheta Cervantez |
-| 156 | 140 | Antoinette Jones |
-| 157 | 140 | Ann Chung |
-| 158 | 139 | Mafio SO |
-| 159 | 138 | JaClanDiah |
+| 154 | 146 | Marcheta Cervantez |
+| 155 | 146 | BlackQueen105 |
+| 156 | 143 | Kelli Couture |
+| 157 | 140 | Antoinette Jones |
+| 158 | 140 | Ann Chung |
+| 159 | 139 | Mafio SO |
 | 160 | 138 | Lashaunda |
-| 161 | 135 | Sean White |
-| 162 | 135 | Dawn L Washington-Feuquay |
-| 163 | 135 | Amber Wilson |
-| 164 | 134 | Lively Riserpiece |
-| 165 | 133 | Byron Mario Cawthon |
-| 166 | 132 | Jolly Tilefall |
-| 167 | 131 | Kelli Couture |
+| 161 | 138 | JaClanDiah |
+| 162 | 135 | Sean White |
+| 163 | 135 | Dawn L Washington-Feuquay |
+| 164 | 135 | Amber Wilson |
+| 165 | 134 | Lively Riserpiece |
+| 166 | 133 | Byron Mario Cawthon |
+| 167 | 132 | Jolly Tilefall |
 | 168 | 131 | TBABYJ |
 | 169 | 130 | Rolanda Williams |
 | 170 | 130 | Emily Wright |
@@ -242,41 +242,41 @@
 | 234 | 86 | Brittany Fells |
 | 235 | 86 | Chandler Magee |
 | 236 | 85 | Cauiasia DeJ'ae |
-| 237 | 85 | Skippy |
-| 238 | 85 | Simmone T. Kadiri |
+| 237 | 85 | Simmone T. Kadiri |
+| 238 | 85 | Skippy |
 | 239 | 84 | Franklin Sotelo |
 | 240 | 84 | Ciera Peace |
 | 241 | 83 | Tipsy Linkroll |
 | 242 | 82 | Cachet A Ward |
 | 243 | 82 | Peppy Glider |
 | 244 | 81 | Sarah Steckbauer |
-| 245 | 80 | Jamie Willis |
-| 246 | 80 | Li-Li Ratliff |
-| 247 | 80 | Natalie Burroughs |
-| 248 | 80 | LAhoneybun82 |
-| 249 | 80 | Charles Johnson |
-| 250 | 80 | Nyhlah Patterson |
-| 251 | 80 | Carolyn Smith |
-| 252 | 80 | Felicia Williams |
-| 253 | 80 | Latore Maxie |
-| 254 | 80 | Chevalier Burley |
+| 245 | 80 | Carolyn Smith |
+| 246 | 80 | Telisha Mims |
+| 247 | 80 | Charles Johnson |
+| 248 | 80 | Natalie Burroughs |
+| 249 | 80 | Li-Li Ratliff |
+| 250 | 80 | Jamie Willis |
+| 251 | 80 | Nyhlah Patterson |
+| 252 | 80 | Seddrick |
+| 253 | 80 | LAhoneybun82 |
+| 254 | 80 | Felicia Williams |
 | 255 | 80 | Tishauna Virgo |
-| 256 | 80 | Seddrick |
-| 257 | 79 | Slinky Brickmatch |
-| 258 | 79 | Montréal Mars |
-| 259 | 79 | Bambi Johnson |
+| 256 | 80 | Chevalier Burley |
+| 257 | 80 | Latore Maxie |
+| 258 | 79 | Bambi Johnson |
+| 259 | 79 | Brand Nu |
 | 260 | 79 | Loopy Tiler |
-| 261 | 79 | Brand Nu |
-| 262 | 78 | Shameka Tiffany |
-| 263 | 78 | Kelley Johnson |
-| 264 | 77 | Yashica Smith |
-| 265 | 77 | C Lo Green |
-| 266 | 76 | Giggly Shatterline |
-| 267 | 76 | Telisha Mims |
+| 261 | 79 | Montréal Mars |
+| 262 | 79 | Slinky Brickmatch |
+| 263 | 78 | Shameka Tiffany |
+| 264 | 78 | Kelley Johnson |
+| 265 | 77 | Yashica Smith |
+| 266 | 77 | C Lo Green |
+| 267 | 76 | Mister Reid |
 | 268 | 76 | Jackytrain52 |
-| 269 | 76 | Mister Reid |
-| 270 | 75 | Jayjay Rich |
-| 271 | 75 | Nickeya Phillips |
+| 269 | 76 | Giggly Shatterline |
+| 270 | 75 | Nickeya Phillips |
+| 271 | 75 | Jayjay Rich |
 | 272 | 75 | Smiley Clearpiece |
 | 273 | 75 | Courtney Robinson |
 | 274 | 75 | BabyCakes |
