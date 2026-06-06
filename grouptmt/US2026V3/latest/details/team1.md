@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 11:56:39 UTC
+# Standings for team1 as of 2026-06-06 11:57:17 UTC
 
 **Total Participants:** 970
 
@@ -450,77 +450,77 @@
 | 442 | 46 | Chris Nelson |
 | 443 | 46 | Derald Miller |
 | 444 | 46 | Nikkizz |
-| 445 | 45 | Adrian Harris |
-| 446 | 45 | Jenni Hardman |
-| 447 | 45 | Victoria Smith |
-| 448 | 45 | Eli Delao |
-| 449 | 45 | Erika Windom |
-| 450 | 45 | Glitzy Clusterer |
-| 451 | 45 | Renee J. Thomas |
-| 452 | 45 | nameno |
-| 453 | 45 | Guy Incognito |
-| 454 | 45 | Robbie Cheeseman |
-| 455 | 44 | Nic Nic |
-| 456 | 44 | Tamara Johnson-Carter |
-| 457 | 44 | sasha |
-| 458 | 44 | GiantBehemoth |
-| 459 | 43 | Rachel Renae Bettis |
-| 460 | 43 | Heather Wilson |
+| 445 | 45 | nameno |
+| 446 | 45 | Adrian Harris |
+| 447 | 45 | Renee J. Thomas |
+| 448 | 45 | Xana Zania Bopp |
+| 449 | 45 | Glitzy Clusterer |
+| 450 | 45 | Guy Incognito |
+| 451 | 45 | Jenni Hardman |
+| 452 | 45 | Robbie Cheeseman |
+| 453 | 45 | Eli Delao |
+| 454 | 45 | Erika Windom |
+| 455 | 45 | Victoria Smith |
+| 456 | 44 | GiantBehemoth |
+| 457 | 44 | Tamara Johnson-Carter |
+| 458 | 44 | Nic Nic |
+| 459 | 44 | sasha |
+| 460 | 43 | Daring Blockclear |
 | 461 | 43 | Kimberly Red |
 | 462 | 43 | Rufus |
 | 463 | 43 | Block |
 | 464 | 43 | Corbin Henry |
-| 465 | 43 | Daring Blockclear |
-| 466 | 43 | Giggy Brickfit |
-| 467 | 42 | Brii Michelle Lamb |
-| 468 | 42 | Chuck Quarles |
-| 469 | 42 | Louise |
-| 470 | 42 | Dennis Ripley |
-| 471 | 42 | Sunny Riserbuilder |
-| 472 | 41 | Lawreniesha Burkley |
+| 465 | 43 | Rachel Renae Bettis |
+| 466 | 43 | Heather Wilson |
+| 467 | 43 | Giggy Brickfit |
+| 468 | 42 | Dennis Ripley |
+| 469 | 42 | Sunny Riserbuilder |
+| 470 | 42 | Louise |
+| 471 | 42 | Brii Michelle Lamb |
+| 472 | 42 | Chuck Quarles |
 | 473 | 41 | Bold Clusterer |
 | 474 | 41 | Frothy Zoney |
 | 475 | 41 | Jessie N Michael Silvers |
-| 476 | 41 | Xana Zania Bopp |
-| 477 | 41 | Nerdy Climber |
-| 478 | 41 | Cranky Fall |
-| 479 | 40 | Tushama Cheris Okraku |
-| 480 | 40 | Deveda Williams |
+| 476 | 41 | Nerdy Climber |
+| 477 | 41 | Cranky Fall |
+| 478 | 41 | Lawreniesha Burkley |
+| 479 | 40 | Rochelle Nash-Evans |
+| 480 | 40 | Slinky Fallzone |
 | 481 | 40 | Kamilya Rembert |
-| 482 | 40 | Marcello Rush |
-| 483 | 40 | Rochelle Nash-Evans |
-| 484 | 40 | Brittanie Wardlow |
-| 485 | 40 | Slinky Fallzone |
-| 486 | 40 | nay |
-| 487 | 40 | Jean Regis |
-| 488 | 40 | Douglas Price |
-| 489 | 40 | Tori Carter |
-| 490 | 40 | Marie Wilson |
-| 491 | 40 | Flashy Slam |
-| 492 | 40 | Kp |
-| 493 | 40 | Larina Cherie Johnson |
-| 494 | 40 | Dawn Basemore |
-| 495 | 40 | Devin West |
-| 496 | 40 | Cj Chimelis |
-| 497 | 40 | Christopher L Crites |
-| 498 | 40 | Furlough Leslie |
-| 499 | 40 | Chummy Blockpiece |
-| 500 | 40 | akosua |
-| 501 | 40 | Blocksy |
-| 502 | 39 | Amy Lynn Leifheit |
-| 503 | 39 | ChunLi |
-| 504 | 39 | Vernon Hoyt |
-| 505 | 39 | Kyle Conley |
-| 506 | 39 | Boldy Pivoty |
-| 507 | 39 | Diva shrock |
-| 508 | 39 | Shakuria Cortia Burney |
-| 509 | 39 | Laysa Nunez |
-| 510 | 39 | Elizabeth Green |
-| 511 | 39 | Twisty Cascadeclear |
-| 512 | 39 | BP Phillips |
-| 513 | 39 | Essence Jones |
-| 514 | 39 | Lexx Robins |
-| 515 | 39 | Kenny MrOnethousand Peck |
+| 482 | 40 | Tushama Cheris Okraku |
+| 483 | 40 | Deveda Williams |
+| 484 | 40 | Flashy Slam |
+| 485 | 40 | Marcello Rush |
+| 486 | 40 | Kp |
+| 487 | 40 | nay |
+| 488 | 40 | Brittanie Wardlow |
+| 489 | 40 | Jean Regis |
+| 490 | 40 | Devin West |
+| 491 | 40 | Cj Chimelis |
+| 492 | 40 | Furlough Leslie |
+| 493 | 40 | Douglas Price |
+| 494 | 40 | akosua |
+| 495 | 40 | Blocksy |
+| 496 | 40 | Dawn Basemore |
+| 497 | 40 | Tori Carter |
+| 498 | 40 | Chummy Blockpiece |
+| 499 | 40 | Christopher L Crites |
+| 500 | 40 | Larina Cherie Johnson |
+| 501 | 40 | Marie Wilson |
+| 502 | 39 | Kenny MrOnethousand Peck |
+| 503 | 39 | Diva shrock |
+| 504 | 39 | Boldy Pivoty |
+| 505 | 39 | Vernon Hoyt |
+| 506 | 39 | ChunLi |
+| 507 | 39 | Amy Lynn Leifheit |
+| 508 | 39 | Laysa Nunez |
+| 509 | 39 | Elizabeth Green |
+| 510 | 39 | Essence Jones |
+| 511 | 39 | Shakuria Cortia Burney |
+| 512 | 39 | Lexx Robins |
+| 513 | 39 | Twisty Cascadeclear |
+| 514 | 39 | BP Phillips |
+| 515 | 39 | Kyle Conley |
 | 516 | 39 | JesusSaves 😇 |
 | 517 | 38 | Kahliah Baker |
 | 518 | 38 | Earl Williams |
