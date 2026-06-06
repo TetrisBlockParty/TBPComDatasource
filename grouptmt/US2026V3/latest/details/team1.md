@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 21:12:18 UTC
+# Standings for team1 as of 2026-06-06 21:12:41 UTC
 
 **Total Participants:** 1162
 
@@ -1010,32 +1010,32 @@
 | 1002 | 14 | Sharon Lynn |
 | 1003 | 14 | Zany Pivot |
 | 1004 | 14 | Kenny 'Tailormade' Boyd |
-| 1005 | 14 | MoneyMac |
-| 1006 | 13 | Krystal Maynard |
-| 1007 | 13 | Daphne Ceasar |
-| 1008 | 13 | Hoppy Rumbler |
-| 1009 | 13 | Leah Ingram |
-| 1010 | 13 | Emma Adams |
-| 1011 | 13 | PuddenPop |
-| 1012 | 13 | Chinkey Overit |
-| 1013 | 12 | Abdul Malik |
-| 1014 | 12 | BigDawg Lessley |
-| 1015 | 12 | Fancy Mover |
-| 1016 | 12 | Michael Jones |
-| 1017 | 12 | Mike Hromowyk |
-| 1018 | 12 | Sarah Jones |
-| 1019 | 12 | Kevin Witdaflute |
-| 1020 | 12 | Silly Spinblock |
-| 1021 | 12 | Nicole Coko Thomas |
-| 1022 | 12 | Outspoken Sirchristopher |
-| 1023 | 12 | Lillie Blossom Dixon |
-| 1024 | 12 | Cameo Tweed |
-| 1025 | 12 | Joseph Ware Jr. |
-| 1026 | 12 | Dora Greer |
-| 1027 | 12 | BigMike |
-| 1028 | 11 | Brenda Brogden |
-| 1029 | 11 | Boldy Zoner |
-| 1030 | 11 | Nerdy Twistline |
+| 1005 | 14 | Brenda Brogden |
+| 1006 | 14 | MoneyMac |
+| 1007 | 13 | Krystal Maynard |
+| 1008 | 13 | Daphne Ceasar |
+| 1009 | 13 | Hoppy Rumbler |
+| 1010 | 13 | Leah Ingram |
+| 1011 | 13 | Emma Adams |
+| 1012 | 13 | PuddenPop |
+| 1013 | 13 | Chinkey Overit |
+| 1014 | 12 | Silly Spinblock |
+| 1015 | 12 | BigDawg Lessley |
+| 1016 | 12 | Fancy Mover |
+| 1017 | 12 | Michael Jones |
+| 1018 | 12 | Mike Hromowyk |
+| 1019 | 12 | Sarah Jones |
+| 1020 | 12 | Kevin Witdaflute |
+| 1021 | 12 | BigMike |
+| 1022 | 12 | Nicole Coko Thomas |
+| 1023 | 12 | Joseph Ware Jr. |
+| 1024 | 12 | Outspoken Sirchristopher |
+| 1025 | 12 | Lillie Blossom Dixon |
+| 1026 | 12 | Cameo Tweed |
+| 1027 | 12 | Abdul Malik |
+| 1028 | 12 | Dora Greer |
+| 1029 | 11 | Nerdy Twistline |
+| 1030 | 11 | Boldy Zoner |
 | 1031 | 11 | Giddy Twistslam |
 | 1032 | 11 | Frilly Shatterline |
 | 1033 | 11 | Jayson |
