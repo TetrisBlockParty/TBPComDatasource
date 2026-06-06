@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 23:52:18 UTC
+# Standings for team2 as of 2026-06-06 23:52:38 UTC
 
 **Total Participants:** 1458
 
@@ -115,8 +115,8 @@
 | 107 | 472 | Lily |
 | 108 | 468 | Amy Gale |
 | 109 | 464 | Smiley Dropper |
-| 110 | 449 | Poppy |
-| 111 | 447 | Judy Long |
+| 110 | 457 | Judy Long |
+| 111 | 449 | Poppy |
 | 112 | 436 | Kaycie Shaffer |
 | 113 | 433 | Kimberly Cowan |
 | 114 | 430 | Amanda Sikes |
@@ -356,40 +356,40 @@
 | 348 | 118 | Ceci |
 | 349 | 117 | Wayne Johnson |
 | 350 | 116 | Sherri E Woods Hess |
-| 351 | 115 | Jumpy Matchbuilder |
-| 352 | 115 | Cindy Scott |
-| 353 | 113 | Meagan Grimmett Washburn |
+| 351 | 115 | Cindy Scott |
+| 352 | 115 | MegaPooh |
+| 353 | 115 | Jumpy Matchbuilder |
 | 354 | 113 | Flashy Hitter |
-| 355 | 112 | Aurora June Brock |
-| 356 | 112 | Mike Mordhorst |
-| 357 | 111 | Wacky Holder |
-| 358 | 111 | Bianca Woodruff |
-| 359 | 111 | Nikki Hatch |
-| 360 | 111 | Anthony Swift |
-| 361 | 110 | LittleHippoEars |
-| 362 | 110 | Nichole Wilson |
-| 363 | 110 | Katie Jones |
-| 364 | 110 | Zappy Liney |
-| 365 | 109 | StacyBabee |
-| 366 | 109 | Crystal Robinson |
-| 367 | 109 | Sillyk |
-| 368 | 109 | Cathy Tippett |
-| 369 | 109 | Kevin Patrick |
-| 370 | 109 | Kawana Nesbitt |
-| 371 | 108 | Rachel Nilles |
-| 372 | 108 | Maurii93 |
-| 373 | 108 | Sherri Caillet Aucoin |
-| 374 | 108 | Jacquelyn Snyder Dumas |
-| 375 | 107 | Carole Brown |
-| 376 | 106 | MegaPooh |
+| 355 | 113 | Meagan Grimmett Washburn |
+| 356 | 112 | Aurora June Brock |
+| 357 | 112 | Mike Mordhorst |
+| 358 | 111 | Anthony Swift |
+| 359 | 111 | Wacky Holder |
+| 360 | 111 | Bianca Woodruff |
+| 361 | 111 | Nikki Hatch |
+| 362 | 110 | LittleHippoEars |
+| 363 | 110 | Zappy Liney |
+| 364 | 110 | Nichole Wilson |
+| 365 | 110 | Katie Jones |
+| 366 | 109 | Kevin Patrick |
+| 367 | 109 | Cathy Tippett |
+| 368 | 109 | Kawana Nesbitt |
+| 369 | 109 | StacyBabee |
+| 370 | 109 | Crystal Robinson |
+| 371 | 109 | Sillyk |
+| 372 | 108 | Jacquelyn Snyder Dumas |
+| 373 | 108 | Rachel Nilles |
+| 374 | 108 | Maurii93 |
+| 375 | 108 | Sherri Caillet Aucoin |
+| 376 | 107 | Carole Brown |
 | 377 | 106 | Starvinmarvin |
 | 378 | 105 | Saucy Wrecker |
 | 379 | 105 | Tamtam |
 | 380 | 105 | Melissa Fink |
 | 381 | 105 | Epic Tilemaker |
-| 382 | 104 | Roe Sarmiento |
+| 382 | 104 | Reign Hustler |
 | 383 | 104 | KazzyKay |
-| 384 | 104 | Reign Hustler |
+| 384 | 104 | Roe Sarmiento |
 | 385 | 104 | Epic Framezone |
 | 386 | 103 | Rachel M. Farnsworth |
 | 387 | 103 | Elizabeth Kline |

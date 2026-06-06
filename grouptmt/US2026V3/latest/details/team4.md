@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 23:52:18 UTC
+# Standings for team4 as of 2026-06-06 23:52:38 UTC
 
 **Total Participants:** 1208
 
@@ -98,15 +98,15 @@
 | 90 | 461 | Cranky Towerbuilder |
 | 91 | 461 | Kayla Fuentes |
 | 92 | 440 | Jewelz |
-| 93 | 400 | DexterDobbins |
-| 94 | 400 | Amber Doyle |
-| 95 | 400 | Sassy Column |
+| 93 | 400 | Amber Doyle |
+| 94 | 400 | Sassy Column |
+| 95 | 400 | DexterDobbins |
 | 96 | 399 | iiPurgeV2 |
 | 97 | 398 | Kay |
 | 98 | 397 | Real Talk Vibes |
 | 99 | 395 | Melissa WC |
-| 100 | 386 | Cherry |
-| 101 | 385 | Gigglycat |
+| 100 | 390 | Gigglycat |
+| 101 | 386 | Cherry |
 | 102 | 383 | Crissy Hoffman |
 | 103 | 380 | Becky Doll-Hall |
 | 104 | 378 | Lisa Garcia |
@@ -1060,52 +1060,52 @@
 | 1052 | 15 | Cas Gio |
 | 1053 | 15 | babygirlw |
 | 1054 | 15 | Mandi Rexroat |
-| 1055 | 15 | Angela Correa |
-| 1056 | 15 | Austin Tan |
+| 1055 | 15 | Austin Tan |
+| 1056 | 15 | Angela Correa |
 | 1057 | 15 | Chris Abney |
-| 1058 | 15 | Derrek Lee |
-| 1059 | 15 | Audacious |
+| 1058 | 15 | Audacious |
+| 1059 | 15 | Derrek Lee |
 | 1060 | 15 | Nicole Gilmore |
 | 1061 | 15 | Kiara Johnson |
 | 1062 | 15 | Nerdy Glider |
-| 1063 | 15 | Tha Don |
-| 1064 | 15 | John Wertz |
-| 1065 | 15 | DuvaDova Ahava |
-| 1066 | 15 | Tricki Woo |
-| 1067 | 14 | Marina |
-| 1068 | 14 | JoJo Hutson |
-| 1069 | 14 | Toria |
-| 1070 | 14 | mrsduke420 |
-| 1071 | 14 | Gellix |
+| 1063 | 15 | Tricki Woo |
+| 1064 | 15 | Tha Don |
+| 1065 | 15 | John Wertz |
+| 1066 | 15 | DuvaDova Ahava |
+| 1067 | 14 | JoJo Hutson |
+| 1068 | 14 | Marina |
+| 1069 | 14 | mrsduke420 |
+| 1070 | 14 | Gellix |
+| 1071 | 14 | Toria |
 | 1072 | 14 | G Money |
-| 1073 | 14 | Donovan Parmenter Gagne |
-| 1074 | 14 | Kiaralis Ashley Hancock |
-| 1075 | 14 | Erica Hardwick |
-| 1076 | 13 | Margarita Santana |
-| 1077 | 13 | Jackie Russo-Edens |
-| 1078 | 13 | Willedtra Griffin |
-| 1079 | 12 | Dan Butcher |
+| 1073 | 14 | Stephanie Brock |
+| 1074 | 14 | Donovan Parmenter Gagne |
+| 1075 | 14 | Kiaralis Ashley Hancock |
+| 1076 | 14 | Erica Hardwick |
+| 1077 | 13 | Margarita Santana |
+| 1078 | 13 | Jackie Russo-Edens |
+| 1079 | 13 | Willedtra Griffin |
 | 1080 | 12 | Rebecca Renaud |
-| 1081 | 12 | Carolyn Lalak |
-| 1082 | 12 | Christine Raine Jalili |
-| 1083 | 12 | Mee |
-| 1084 | 12 | Elizabeth Ann Caro |
+| 1081 | 12 | Dan Butcher |
+| 1082 | 12 | Carolyn Lalak |
+| 1083 | 12 | Christine Raine Jalili |
+| 1084 | 12 | Mee |
 | 1085 | 12 | Swanky Brickzone |
-| 1086 | 12 | Vanessa Sykes |
-| 1087 | 12 | Tatiyana Hockett |
-| 1088 | 12 | McScrubby |
-| 1089 | 12 | Tonya Raymundo |
-| 1090 | 12 | Rooney |
-| 1091 | 12 | Bouncy Clusterline |
-| 1092 | 12 | ESPERANTU |
-| 1093 | 11 | Amowe |
-| 1094 | 11 | Stephanie Brock |
-| 1095 | 11 | Redhead girl |
-| 1096 | 11 | Wynisha Johnson |
-| 1097 | 11 | Nessa Smith |
-| 1098 | 11 | beTrue76 |
-| 1099 | 11 | OFOZO |
-| 1100 | 11 | Teresa Lescinskas |
+| 1086 | 12 | Elizabeth Ann Caro |
+| 1087 | 12 | ESPERANTU |
+| 1088 | 12 | Bouncy Clusterline |
+| 1089 | 12 | Rooney |
+| 1090 | 12 | Tonya Raymundo |
+| 1091 | 12 | McScrubby |
+| 1092 | 12 | Tatiyana Hockett |
+| 1093 | 12 | Vanessa Sykes |
+| 1094 | 11 | Nessa Smith |
+| 1095 | 11 | Teresa Lescinskas |
+| 1096 | 11 | OFOZO |
+| 1097 | 11 | beTrue76 |
+| 1098 | 11 | Wynisha Johnson |
+| 1099 | 11 | Amowe |
+| 1100 | 11 | Redhead girl |
 | 1101 | 11 | Bryan Odle |
 | 1102 | 10 | Melissa Elizabeth |
 | 1103 | 10 | Arlee Woodall |
