@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 07:56:39 UTC
+# Standings for team4 as of 2026-06-06 07:57:16 UTC
 
 **Total Participants:** 884
 
@@ -60,15 +60,15 @@
 | 52 | 460 | Tiffany Loree Tiffany Oneill |
 | 53 | 458 | vag1974 |
 | 54 | 440 | Jewelz |
-| 55 | 419 | Sweet Stacker |
-| 56 | 419 | Caitlyn Wang |
+| 55 | 419 | Caitlyn Wang |
+| 56 | 419 | Sweet Stacker |
 | 57 | 405 | Jonathan Hewitt |
 | 58 | 402 | Nick Graber |
 | 59 | 400 | Amber Doyle |
 | 60 | 399 | Erin Figone |
 | 61 | 395 | Melissa WC |
-| 62 | 392 | Kay |
-| 63 | 392 | Blayne Kole |
+| 62 | 392 | Blayne Kole |
+| 63 | 392 | Kay |
 | 64 | 389 | Ning Quiambao |
 | 65 | 383 | Crissy Hoffman |
 | 66 | 378 | Lisa Garcia |
@@ -108,11 +108,11 @@
 | 100 | 194 | Chiquita Blue |
 | 101 | 194 | Lisa lisa |
 | 102 | 193 | Tiffany Bunker-Hill |
-| 103 | 192 | Gorica Prusina |
-| 104 | 192 | Debby Ruof |
+| 103 | 192 | Debby Ruof |
+| 104 | 192 | Gorica Prusina |
 | 105 | 184 | Giggly Tilt |
-| 106 | 182 | Scamp Jones |
-| 107 | 182 | blockhead |
+| 106 | 182 | blockhead |
+| 107 | 182 | Scamp Jones |
 | 108 | 181 | Colin |
 | 109 | 180 | Shmeedo |
 | 110 | 179 | Anna Gribble |
@@ -123,9 +123,9 @@
 | 115 | 167 | Damon Gaston |
 | 116 | 167 | Spicy Chicken |
 | 117 | 166 | Aramat |
-| 118 | 160 | Littlebrat |
-| 119 | 160 | Tipsy Builderline |
-| 120 | 160 | Kitsune Bi |
+| 118 | 160 | Tipsy Builderline |
+| 119 | 160 | Kitsune Bi |
+| 120 | 160 | Littlebrat |
 | 121 | 159 | iiPurgeV2 |
 | 122 | 159 | QueenLi86 |
 | 123 | 155 | RotatedWrongAgain |
@@ -143,15 +143,15 @@
 | 135 | 144 | Yesenia Castro Monreal |
 | 136 | 143 | Ashley Mcdonald |
 | 137 | 141 | Jackie Polanco |
-| 138 | 137 | Jasmine Marie |
+| 138 | 137 | Devinlee Brown |
 | 139 | 137 | Shelby |
-| 140 | 137 | Devinlee Brown |
-| 141 | 134 | Loony Rotater |
-| 142 | 134 | ariel |
+| 140 | 137 | Jasmine Marie |
+| 141 | 134 | ariel |
+| 142 | 134 | Loony Rotater |
 | 143 | 133 | Shawntae Mccary |
 | 144 | 133 | Janet Sanfilippo Sullivan |
-| 145 | 129 | Chilly Pivot |
-| 146 | 129 | Brainbabe |
+| 145 | 129 | Brainbabe |
+| 146 | 129 | Chilly Pivot |
 | 147 | 129 | Simone |
 | 148 | 129 | Lani |
 | 149 | 129 | Ryan Paul Clark-Ramsey |
@@ -292,68 +292,68 @@
 | 284 | 65 | Kristen Wallace |
 | 285 | 65 | Domo Dpn |
 | 286 | 65 | Corey Jackson |
-| 287 | 65 | Cool Risepiece |
-| 288 | 65 | Cranky Twistpiece |
+| 287 | 65 | Cranky Twistpiece |
+| 288 | 65 | Cool Risepiece |
 | 289 | 64 | Queen B |
 | 290 | 64 | sierrabeth |
-| 291 | 63 | Blockcrusher |
-| 292 | 63 | Brenda Mueller |
+| 291 | 63 | Brenda Mueller |
+| 292 | 63 | Lul Babie |
 | 293 | 63 | Ana Ruiz |
-| 294 | 63 | Ajohnna Frazee |
-| 295 | 63 | Lul Babie |
-| 296 | 62 | medicjessi |
-| 297 | 62 | Frisky Balance |
-| 298 | 62 | Nicole |
-| 299 | 62 | Tiggerjake |
+| 294 | 63 | Blockcrusher |
+| 295 | 63 | Ajohnna Frazee |
+| 296 | 62 | Nicole |
+| 297 | 62 | Tiggerjake |
+| 298 | 62 | Frisky Balance |
+| 299 | 62 | medicjessi |
 | 300 | 61 | Jackie Miller |
 | 301 | 61 | Cindy |
 | 302 | 61 | Tasha Suzanne Prisbrey |
 | 303 | 60 | Sonia Cordero-Martinez |
-| 304 | 60 | Randy M Hatch |
-| 305 | 60 | Azahares Alonso |
+| 304 | 60 | Jumpy Builderpiece |
+| 305 | 60 | Anthony Magaraci |
 | 306 | 60 | Ricardo Arias |
-| 307 | 60 | Jumpy Builderpiece |
-| 308 | 60 | Anthony Magaraci |
-| 309 | 60 | Chris Rowe |
-| 310 | 60 | aga |
-| 311 | 60 | Amandacolle |
-| 312 | 60 | Anthony Lewis |
-| 313 | 60 | Tiffy |
-| 314 | 60 | Fran Aaron-Ring |
-| 315 | 60 | George Marshburn |
-| 316 | 60 | Helen Bradley |
-| 317 | 59 | Yvette Johnson |
-| 318 | 59 | Kat Foreman |
+| 307 | 60 | Chris Rowe |
+| 308 | 60 | aga |
+| 309 | 60 | Amandacolle |
+| 310 | 60 | George Marshburn |
+| 311 | 60 | Azahares Alonso |
+| 312 | 60 | Randy M Hatch |
+| 313 | 60 | Helen Bradley |
+| 314 | 60 | Anthony Lewis |
+| 315 | 60 | Tiffy |
+| 316 | 60 | Fran Aaron-Ring |
+| 317 | 59 | Melika Zeheb |
+| 318 | 59 | Paula Renee McCracken |
 | 319 | 59 | Kay |
-| 320 | 59 | Paula Renee McCracken |
-| 321 | 59 | Butterpat |
-| 322 | 59 | Nicole Colby McCloskey |
-| 323 | 58 | Winter Moon |
-| 324 | 58 | Lana Tran |
-| 325 | 58 | Jade Alley |
-| 326 | 58 | Mint Marquez |
-| 327 | 57 | PapaB |
-| 328 | 57 | Shia Marie |
-| 329 | 57 | da1ndonly |
-| 330 | 57 | Joshua Hunt |
-| 331 | 56 | Bre Dee |
+| 320 | 59 | Yvette Johnson |
+| 321 | 59 | Kat Foreman |
+| 322 | 59 | Butterpat |
+| 323 | 59 | Nicole Colby McCloskey |
+| 324 | 58 | Winter Moon |
+| 325 | 58 | Lana Tran |
+| 326 | 58 | Jade Alley |
+| 327 | 58 | Mint Marquez |
+| 328 | 57 | PapaB |
+| 329 | 57 | Shia Marie |
+| 330 | 57 | da1ndonly |
+| 331 | 57 | Joshua Hunt |
 | 332 | 56 | Karen Davis |
-| 333 | 56 | Melika Zeheb |
-| 334 | 55 | The Jazziest |
-| 335 | 55 | Daring Brickbuilder |
-| 336 | 55 | Cinta Marie |
+| 333 | 56 | Bre Dee |
+| 334 | 55 | Cinta Marie |
+| 335 | 55 | The Jazziest |
+| 336 | 55 | Daring Brickbuilder |
 | 337 | 54 | Alex Armour |
-| 338 | 54 | Earl Edwards |
+| 338 | 54 | Zappy Matchgrid |
 | 339 | 54 | Dawn Phelps |
-| 340 | 54 | Zappy Matchgrid |
+| 340 | 54 | Earl Edwards |
 | 341 | 54 | Playa |
 | 342 | 53 | LaTanya GeminiondaRise Johnson |
 | 343 | 52 | shawna |
 | 344 | 52 | Jj Johnson |
-| 345 | 51 | Erika Rubio |
-| 346 | 51 | Clever Patterner |
-| 347 | 51 | Michellee Lewis |
-| 348 | 51 | Swanky Builderline |
+| 345 | 51 | Clever Patterner |
+| 346 | 51 | Swanky Builderline |
+| 347 | 51 | Erika Rubio |
+| 348 | 51 | Michellee Lewis |
 | 349 | 51 | YenSid |
 | 350 | 51 | yourmomz |
 | 351 | 51 | Vergie Michael |
