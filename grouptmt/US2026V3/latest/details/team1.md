@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 05:40:17 UTC
+# Standings for team1 as of 2026-06-06 05:40:38 UTC
 
 **Total Participants:** 872
 
@@ -191,11 +191,11 @@
 | 183 | 100 | Char |
 | 184 | 100 | Cool Bridger |
 | 185 | 99 | Simone Bailey |
-| 186 | 99 | 신재호 |
-| 187 | 97 | Shanell Thomas |
-| 188 | 96 | Melissa D. M. Hornsby |
-| 189 | 95 | Joana Thompson |
-| 190 | 95 | Andre Sanon |
+| 186 | 99 | Andre Sanon |
+| 187 | 99 | 신재호 |
+| 188 | 97 | Shanell Thomas |
+| 189 | 96 | Melissa D. M. Hornsby |
+| 190 | 95 | Joana Thompson |
 | 191 | 95 | Nate Myers |
 | 192 | 94 | Rhonda Williams Warner |
 | 193 | 94 | Cece Fowler |
