@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 05:04:16 UTC
+# Standings for team4 as of 2026-06-06 05:04:38 UTC
 
 **Total Participants:** 811
 
@@ -57,8 +57,8 @@
 | 49 | 474 | Jeremy Lopez |
 | 50 | 461 | Kayla Fuentes |
 | 51 | 458 | vag1974 |
-| 52 | 419 | Sweet Stacker |
-| 53 | 419 | Caitlyn Wang |
+| 52 | 419 | Caitlyn Wang |
+| 53 | 419 | Sweet Stacker |
 | 54 | 400 | Amber Doyle |
 | 55 | 395 | Melissa WC |
 | 56 | 392 | Blayne Kole |
@@ -71,8 +71,8 @@
 | 63 | 346 | Alexis Cor |
 | 64 | 333 | Alexandria Frazier |
 | 65 | 330 | Jewelz |
-| 66 | 326 | Jason Allen |
-| 67 | 326 | Nick Graber |
+| 66 | 326 | Nick Graber |
+| 67 | 326 | Jason Allen |
 | 68 | 323 | Jonathan Hewitt |
 | 69 | 320 | DexterDobbins |
 | 70 | 302 | JoLinda Dunn |
@@ -372,72 +372,72 @@
 | 364 | 43 | Swanky Snapgrid |
 | 365 | 43 | Peter Babineaux Jr |
 | 366 | 43 | CJ |
-| 367 | 42 | Mrs |
-| 368 | 42 | Cail |
-| 369 | 42 | Happy Shatterfit |
+| 367 | 42 | Cail |
+| 368 | 42 | Mrs |
+| 369 | 42 | Stacy Brown |
 | 370 | 42 | ShaniP |
-| 371 | 42 | shonaberry |
-| 372 | 42 | Jeni |
-| 373 | 42 | Stacy Brown |
+| 371 | 42 | Happy Shatterfit |
+| 372 | 42 | shonaberry |
+| 373 | 42 | Jeni |
 | 374 | 41 | BertaF1irta |
-| 375 | 41 | Lord Solrac |
-| 376 | 41 | Solace Grace |
-| 377 | 41 | Deborah Ayliffe |
+| 375 | 41 | Solace Grace |
+| 376 | 41 | Deborah Ayliffe |
+| 377 | 41 | Lord Solrac |
 | 378 | 41 | Missionary Meda |
 | 379 | 41 | Swanky Builderline |
-| 380 | 40 | Rocky |
-| 381 | 40 | Kena T. Tanner |
+| 380 | 40 | Kena T. Tanner |
+| 381 | 40 | Lady Dolphin |
 | 382 | 40 | Cinta Marie |
 | 383 | 40 | Jenn Wilson |
 | 384 | 40 | Jay Dee |
 | 385 | 40 | Mexican130 |
-| 386 | 40 | Beth Belanger |
+| 386 | 40 | Rocky |
 | 387 | 40 | crobb77 |
-| 388 | 40 | Mint Marquez |
-| 389 | 40 | Stephanie Meinhart |
-| 390 | 40 | Leslie Bamonte |
-| 391 | 40 | Lady Dolphin |
-| 392 | 39 | Denisha Schinell Boyd |
-| 393 | 39 | Elise Ann |
-| 394 | 39 | Hasty Dropzone |
-| 395 | 39 | Anthony Kollar |
-| 396 | 39 | Stefanie Street |
-| 397 | 39 | Chris Davis |
-| 398 | 38 | Charity Thomas |
-| 399 | 38 | Perry Ransom |
-| 400 | 38 | Sharon Tyler |
-| 401 | 38 | Happy Puzzle |
-| 402 | 38 | Kelly Howland |
-| 403 | 38 | Cari Underwood |
+| 388 | 40 | Stephanie Meinhart |
+| 389 | 40 | Leslie Bamonte |
+| 390 | 40 | Mint Marquez |
+| 391 | 40 | Beth Belanger |
+| 392 | 39 | Chris Davis |
+| 393 | 39 | Denisha Schinell Boyd |
+| 394 | 39 | Miwa |
+| 395 | 39 | Elise Ann |
+| 396 | 39 | Hasty Dropzone |
+| 397 | 39 | Stefanie Street |
+| 398 | 39 | Anthony Kollar |
+| 399 | 38 | Happy Puzzle |
+| 400 | 38 | Perry Ransom |
+| 401 | 38 | Kelly Howland |
+| 402 | 38 | Cari Underwood |
+| 403 | 38 | Sharon Tyler |
 | 404 | 38 | Brittany |
-| 405 | 37 | WeeWooWee |
-| 406 | 37 | Deana Teck |
-| 407 | 37 | Tyson Stroppel |
-| 408 | 37 | Tanya AfricanQueen Savage |
-| 409 | 37 | Dana Fontanez |
-| 410 | 37 | Ricky Colvin |
-| 411 | 37 | Melika Zeheb |
-| 412 | 37 | Ami Ferguson |
-| 413 | 36 | Melissa Lowe |
+| 405 | 38 | Charity Thomas |
+| 406 | 37 | Tyson Stroppel |
+| 407 | 37 | Ricky Colvin |
+| 408 | 37 | Melika Zeheb |
+| 409 | 37 | WeeWooWee |
+| 410 | 37 | Dana Fontanez |
+| 411 | 37 | Deana Teck |
+| 412 | 37 | Tanya AfricanQueen Savage |
+| 413 | 37 | Ami Ferguson |
 | 414 | 36 | Nancy McCalla Abercrombie |
-| 415 | 36 | Dapper Tiltpiece |
-| 416 | 36 | Donny Keets |
-| 417 | 36 | Shirley A. Godfrey |
-| 418 | 36 | Giggy Snapgrid |
-| 419 | 36 | Jenn Norcross |
-| 420 | 36 | PL GR |
-| 421 | 36 | Jeanette Hailey |
-| 422 | 35 | Youngkueen |
-| 423 | 35 | Zappy Tilemaker |
-| 424 | 35 | Joe Win |
-| 425 | 35 | Genger |
-| 426 | 35 | Valerie Silva |
-| 427 | 35 | Samantha Brandt |
-| 428 | 35 | Saul Fajardo |
-| 429 | 35 | David Lay |
-| 430 | 35 | The Jazziest |
-| 431 | 34 | Amanda Albritton Moore |
-| 432 | 34 | Miwa |
+| 415 | 36 | Melissa Lowe |
+| 416 | 36 | Dapper Tiltpiece |
+| 417 | 36 | Donny Keets |
+| 418 | 36 | Shirley A. Godfrey |
+| 419 | 36 | Giggy Snapgrid |
+| 420 | 36 | Jenn Norcross |
+| 421 | 36 | PL GR |
+| 422 | 36 | Jeanette Hailey |
+| 423 | 35 | The Jazziest |
+| 424 | 35 | Zappy Tilemaker |
+| 425 | 35 | Joe Win |
+| 426 | 35 | Genger |
+| 427 | 35 | Valerie Silva |
+| 428 | 35 | Samantha Brandt |
+| 429 | 35 | Saul Fajardo |
+| 430 | 35 | David Lay |
+| 431 | 35 | Youngkueen |
+| 432 | 34 | Amanda Albritton Moore |
 | 433 | 34 | GingaNinja |
 | 434 | 34 | Drh4090 |
 | 435 | 34 | jojo |
