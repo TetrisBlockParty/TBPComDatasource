@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 08:34:16 UTC
+# Standings for team4 as of 2026-06-06 08:34:39 UTC
 
 **Total Participants:** 894
 
@@ -845,60 +845,60 @@
 | 837 | 8 | Frby Amberr |
 | 838 | 8 | GETBOXED! |
 | 839 | 8 | Sydney Taylor Sileno |
-| 840 | 8 | Bryieson Watson |
-| 841 | 8 | Happy shelli |
+| 840 | 8 | Happy shelli |
+| 841 | 8 | Bryieson Watson |
 | 842 | 8 | La Ah Ox |
-| 843 | 8 | Christy Petty |
-| 844 | 8 | Tiffany Taylor |
-| 845 | 8 | tj |
-| 846 | 8 | Phoebe Tracy |
-| 847 | 8 | Gabby Markham |
-| 848 | 8 | maria |
-| 849 | 8 | Stephanie Williams |
-| 850 | 8 | Mac James |
-| 851 | 8 | BigCup ReeseCup |
-| 852 | 7 | Leslee Bentley DeLong |
-| 853 | 7 | Sheries |
-| 854 | 7 | Estmercy |
-| 855 | 7 | Chipper Hitter |
-| 856 | 7 | Erica Hardwick |
-| 857 | 7 | John Brandon Kinney |
-| 858 | 7 | Meela Abdurrab |
-| 859 | 7 | Phredda Helene Gavornik |
+| 843 | 8 | Danielle Porter |
+| 844 | 8 | Christy Petty |
+| 845 | 8 | Phoebe Tracy |
+| 846 | 8 | maria |
+| 847 | 8 | BigCup ReeseCup |
+| 848 | 8 | Mac James |
+| 849 | 8 | tj |
+| 850 | 8 | Gabby Markham |
+| 851 | 8 | Tiffany Taylor |
+| 852 | 8 | Stephanie Williams |
+| 853 | 7 | John Brandon Kinney |
+| 854 | 7 | Erica Hardwick |
+| 855 | 7 | Meela Abdurrab |
+| 856 | 7 | Phredda Helene Gavornik |
+| 857 | 7 | Leslee Bentley DeLong |
+| 858 | 7 | Chipper Hitter |
+| 859 | 7 | Estmercy |
 | 860 | 7 | Erica Armstrong Baz |
-| 861 | 7 | Sharron Mullins |
-| 862 | 7 | Crystal Parker Bryant |
+| 861 | 7 | Sheries |
+| 862 | 7 | Sharron Mullins |
 | 863 | 7 | Brandy Dark |
-| 864 | 7 | Malinda Fife |
-| 865 | 6 | Shannon Rivera |
-| 866 | 6 | Danielle Porter |
-| 867 | 6 | Rachel |
-| 868 | 6 | Willedtra Griffin |
+| 864 | 7 | Crystal Parker Bryant |
+| 865 | 7 | Malinda Fife |
+| 866 | 6 | Jeremy |
+| 867 | 6 | Willedtra Griffin |
+| 868 | 6 | Rachel |
 | 869 | 6 | mrsduke420 |
-| 870 | 6 | Renita Jordan |
-| 871 | 6 | Funky Zonebuilder |
+| 870 | 6 | Funky Zonebuilder |
+| 871 | 6 | Renita Jordan |
 | 872 | 6 | MamaC |
-| 873 | 6 | Delashawne Hodgson |
-| 874 | 6 | Hasty Slamdrop |
-| 875 | 6 | Jeremy |
-| 876 | 6 | Aliyah Abdella |
-| 877 | 6 | Goodie |
-| 878 | 6 | Tricki Woo |
+| 873 | 6 | Hasty Slamdrop |
+| 874 | 6 | Delashawne Hodgson |
+| 875 | 6 | Tricki Woo |
+| 876 | 6 | Goodie |
+| 877 | 6 | Aliyah Abdella |
+| 878 | 6 | Margarita Santana |
 | 879 | 6 | LaToya LeBlanc |
-| 880 | 6 | Margarita Santana |
+| 880 | 6 | Shannon Rivera |
 | 881 | 5 | Tippet |
 | 882 | 5 | Lively Cascadeclear |
 | 883 | 5 | Ali Nicole |
-| 884 | 5 | Freddy-B |
-| 885 | 5 | Cheery Twister |
+| 884 | 5 | Cheery Twister |
+| 885 | 5 | Freddy-B |
 | 886 | 5 | Haylee Talkington |
 | 887 | 5 | Dae Von |
 | 888 | 5 | Elena Marí |
 | 889 | 5 | Swanky Zigzag |
 | 890 | 5 | Melissa Wilson |
 | 891 | 5 | Clever Fallzone |
-| 892 | 5 | Perky Balanceblock |
-| 893 | 5 | Sean Ha |
+| 892 | 5 | Sean Ha |
+| 893 | 5 | Perky Balanceblock |
 | 894 | 5 | mikey moo |
 
 ---
