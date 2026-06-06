@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 03:12:40 UTC
+# Standings for team2 as of 2026-06-06 03:13:16 UTC
 
 **Total Participants:** 908
 
@@ -200,16 +200,16 @@
 | 192 | 91 | Nikki Hatch |
 | 193 | 91 | Jamie Fenyus |
 | 194 | 90 | Carlos J Blas |
-| 195 | 89 | Belle |
-| 196 | 89 | MegaPooh |
-| 197 | 88 | Nano. |
-| 198 | 87 | Brittni Lawrence |
-| 199 | 87 | Sam Brewster |
-| 200 | 87 | Charlie Wilson |
-| 201 | 86 | Bianca Woodruff |
-| 202 | 85 | Christina Maria |
-| 203 | 85 | Tina Marie |
-| 204 | 84 | Bubbly Strikerpiece |
+| 195 | 90 | Bubbly Strikerpiece |
+| 196 | 89 | Belle |
+| 197 | 89 | MegaPooh |
+| 198 | 88 | Nano. |
+| 199 | 87 | Brittni Lawrence |
+| 200 | 87 | Sam Brewster |
+| 201 | 87 | Charlie Wilson |
+| 202 | 86 | Bianca Woodruff |
+| 203 | 85 | Christina Maria |
+| 204 | 85 | Tina Marie |
 | 205 | 83 | Brenda Jones |
 | 206 | 82 | Norma Ortiz |
 | 207 | 82 | Carolyn McNaughton |
@@ -320,66 +320,66 @@
 | 312 | 56 | Melissa Fink |
 | 313 | 56 | nogo |
 | 314 | 55 | Hilliary Beyer |
-| 315 | 55 | Sarah Louise Cobb |
-| 316 | 55 | Valeri Bradley |
-| 317 | 55 | Misty McElroy |
+| 315 | 55 | Wendy Durrence Jones |
+| 316 | 55 | Misty McElroy |
+| 317 | 55 | Silly Tiltbuilder |
 | 318 | 55 | Avie Lou |
-| 319 | 55 | Silly Tiltbuilder |
-| 320 | 55 | Wendy Durrence Jones |
-| 321 | 54 | Lively Twisterfit |
-| 322 | 54 | Wendy McKee |
-| 323 | 54 | Eva Lopez |
-| 324 | 54 | Funway998 |
-| 325 | 54 | Sabrina Hardrick |
-| 326 | 54 | Bethany Nestor |
-| 327 | 54 | Christina Nycol |
-| 328 | 53 | Spicy Basepiece |
-| 329 | 53 | Maurii93 |
-| 330 | 53 | Melissa Thomas |
-| 331 | 53 | Sarah Jane Gorsuch |
-| 332 | 52 | Chipper Spinzone |
-| 333 | 52 | Rosalie Call Kehlenbeck |
-| 334 | 52 | Michele Rogers |
+| 319 | 55 | Sarah Louise Cobb |
+| 320 | 55 | Valeri Bradley |
+| 321 | 54 | Michele Rogers |
+| 322 | 54 | Christina Nycol |
+| 323 | 54 | Bethany Nestor |
+| 324 | 54 | Sabrina Hardrick |
+| 325 | 54 | Wendy McKee |
+| 326 | 54 | Lively Twisterfit |
+| 327 | 54 | Eva Lopez |
+| 328 | 54 | Funway998 |
+| 329 | 53 | Sarah Jane Gorsuch |
+| 330 | 53 | Maurii93 |
+| 331 | 53 | Melissa Thomas |
+| 332 | 53 | Spicy Basepiece |
+| 333 | 52 | Chipper Spinzone |
+| 334 | 52 | Rosalie Call Kehlenbeck |
 | 335 | 52 | KazzyKay |
 | 336 | 51 | Tashamonique Puckey |
-| 337 | 51 | Loretta Crow |
-| 338 | 51 | Dad |
+| 337 | 51 | Dad |
+| 338 | 51 | Mama G |
 | 339 | 51 | Twisty Matchfit |
-| 340 | 51 | Mama G |
-| 341 | 50 | Jennifer Wymer |
-| 342 | 50 | MarioKarasovic |
-| 343 | 50 | Whitt |
-| 344 | 50 | Christine James |
-| 345 | 50 | Rachel Nilles |
+| 340 | 51 | Loretta Crow |
+| 341 | 50 | MarioKarasovic |
+| 342 | 50 | Christine James |
+| 343 | 50 | Jennifer Wymer |
+| 344 | 50 | Rachel Nilles |
+| 345 | 50 | Whitt |
 | 346 | 50 | Charith Lorelle Watson |
-| 347 | 49 | Dayna Messer-Thelen |
-| 348 | 49 | Spunky Clicker |
-| 349 | 49 | Hillary Frank |
-| 350 | 49 | Tammy Roth |
-| 351 | 48 | Funky Blockmatch |
-| 352 | 48 | Katelynn Hunt |
+| 347 | 49 | Tammy Roth |
+| 348 | 49 | Hillary Frank |
+| 349 | 49 | Dayna Messer-Thelen |
+| 350 | 49 | Spunky Clicker |
+| 351 | 48 | Tamara Whiteley |
+| 352 | 48 | Renee Siems |
 | 353 | 48 | Loopy Tower |
-| 354 | 48 | Tamara Whiteley |
-| 355 | 48 | Zaniya Brown |
-| 356 | 48 | Dizzy Dropzone |
-| 357 | 48 | Joannah Capilitan |
-| 358 | 48 | Renee Siems |
-| 359 | 47 | Angela Hogan |
-| 360 | 47 | Starvinmarvin |
-| 361 | 46 | Heather Billodeau |
-| 362 | 46 | Kristi Chestnut |
+| 354 | 48 | Funky Blockmatch |
+| 355 | 48 | Joannah Capilitan |
+| 356 | 48 | Zaniya Brown |
+| 357 | 48 | Katelynn Hunt |
+| 358 | 48 | Dizzy Dropzone |
+| 359 | 47 | Starvinmarvin |
+| 360 | 47 | Angela Hogan |
+| 361 | 46 | Coleen Yoder |
+| 362 | 46 | Heather Billodeau |
 | 363 | 46 | Epic Framezone |
-| 364 | 46 | Coleen Yoder |
-| 365 | 46 | Dani Newton |
-| 366 | 46 | Michelle Fry-Cash |
-| 367 | 46 | Danielle Blount |
-| 368 | 46 | Glitzy Base |
-| 369 | 46 | Denna Marteney |
-| 370 | 46 | Diane Byrd |
+| 364 | 46 | Michelle Fry-Cash |
+| 365 | 46 | Glitzy Base |
+| 366 | 46 | Denna Marteney |
+| 367 | 46 | Diane Byrd |
+| 368 | 46 | Dani Newton |
+| 369 | 46 | Kristi Chestnut |
+| 370 | 46 | Danielle Blount |
 | 371 | 45 | James Ward |
-| 372 | 45 | Michelle Anne |
-| 373 | 45 | Heather |
-| 374 | 45 | Stoney McMillion |
+| 372 | 45 | Heather |
+| 373 | 45 | Stoney McMillion |
+| 374 | 45 | Michelle Anne |
 | 375 | 45 | Jackie Walker |
 | 376 | 45 | Madonna Ash |
 | 377 | 45 | Frisky Linkbuilder |
