@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 20:34:17 UTC
+# Standings for team2 as of 2026-06-06 20:34:38 UTC
 
 **Total Participants:** 1365
 
@@ -187,7 +187,7 @@
 | 179 | 219 | Stella |
 | 180 | 218 | Amy Nicole McCanne |
 | 181 | 216 | PaiBri |
-| 182 | 214 | Lush Party |
+| 182 | 215 | Lush Party |
 | 183 | 212 | AndyJo |
 | 184 | 210 | Ashley Billiot Rhodes |
 | 185 | 210 | Gloria May Shook |
