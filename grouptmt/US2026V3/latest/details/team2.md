@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 18:12:16 UTC
+# Standings for team2 as of 2026-06-06 18:12:39 UTC
 
 **Total Participants:** 1300
 
@@ -32,7 +32,7 @@
 | 24 | 2620 | Sean Rippa |
 | 25 | 2500 | Anthony Lilley |
 | 26 | 2353 | Angie BBlock |
-| 27 | 2036 | Spunky Clicker |
+| 27 | 2057 | Spunky Clicker |
 | 28 | 1957 | Lola C Davis |
 | 29 | 1906 | Jennifer Corder |
 | 30 | 1863 | Frisky Balanceblock |
