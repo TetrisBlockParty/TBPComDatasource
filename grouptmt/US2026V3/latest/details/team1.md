@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 07:13:15 UTC
+# Standings for team1 as of 2026-06-06 07:14:16 UTC
 
 **Total Participants:** 902
 
@@ -37,8 +37,8 @@
 | 29 | 863 | Holly Jolly |
 | 30 | 843 | Jacoby E Fleming |
 | 31 | 842 | Chris Russell |
-| 32 | 832 | Daylene Johannes |
-| 33 | 832 | Spicy Balancer |
+| 32 | 838 | Spicy Balancer |
+| 33 | 832 | Daylene Johannes |
 | 34 | 789 | Jennifer To |
 | 35 | 749 | Aviv Zehavi |
 | 36 | 715 | Chill Clusterer |
@@ -49,12 +49,12 @@
 | 41 | 580 | Janet Cooke |
 | 42 | 540 | Kellie Hall |
 | 43 | 502 | Tiana Moore |
-| 44 | 500 | Janine Hunter |
-| 45 | 499 | Plucky Swipe |
-| 46 | 493 | Eartha Brown |
-| 47 | 482 | Cj Gorman |
-| 48 | 469 | Sanjuro |
-| 49 | 450 | Cherry Rose |
+| 44 | 500 | Cherry Rose |
+| 45 | 500 | Janine Hunter |
+| 46 | 499 | Plucky Swipe |
+| 47 | 493 | Eartha Brown |
+| 48 | 482 | Cj Gorman |
+| 49 | 469 | Sanjuro |
 | 50 | 415 | Corey Cawthon |
 | 51 | 411 | Ivana Schmidt |
 | 52 | 401 | Lisa Müller |
@@ -123,16 +123,16 @@
 | 115 | 195 | Mimi 1.0 |
 | 116 | 193 | Brave Clearbuilder |
 | 117 | 188 | Robyn Caldwell |
-| 118 | 186 | Denise B |
-| 119 | 185 | Teddy Davis |
-| 120 | 184 | Dai Bo |
-| 121 | 182 | Hyper Blocky |
-| 122 | 181 | Joey Albright |
-| 123 | 177 | Chris Sladoje |
-| 124 | 175 | Rayshawn Cohen |
-| 125 | 170 | Daris Swearington |
-| 126 | 169 | Asha Langford |
-| 127 | 168 | PandaPrincess |
+| 118 | 188 | PandaPrincess |
+| 119 | 186 | Denise B |
+| 120 | 185 | Teddy Davis |
+| 121 | 184 | Dai Bo |
+| 122 | 182 | Hyper Blocky |
+| 123 | 181 | Joey Albright |
+| 124 | 177 | Chris Sladoje |
+| 125 | 175 | Rayshawn Cohen |
+| 126 | 170 | Daris Swearington |
+| 127 | 169 | Asha Langford |
 | 128 | 166 | Mic Balew |
 | 129 | 166 | Nobles Brandon |
 | 130 | 166 | Tarnisha Neicy Jones |
@@ -895,19 +895,19 @@
 | 887 | 5 | Derek Beverly |
 | 888 | 5 | Rieshelda Marie White |
 | 889 | 5 | the guy |
-| 890 | 5 | Tipsy Builderline |
-| 891 | 5 | VERA DAME |
-| 892 | 5 | Hasty Brickzone |
-| 893 | 5 | Marissa Sweet |
-| 894 | 5 | Zappy Riser |
-| 895 | 5 | DirtiestofMikes |
+| 890 | 5 | Logan Frost |
+| 891 | 5 | Duckey |
+| 892 | 5 | Zappy Clearfit |
+| 893 | 5 | Annette DeLoatch Thompson |
+| 894 | 5 | Jennifer Moore |
+| 895 | 5 | Kidgib5 |
 | 896 | 5 | Tito Divyn |
-| 897 | 5 | Kidgib5 |
-| 898 | 5 | Jennifer Moore |
-| 899 | 5 | Annette DeLoatch Thompson |
-| 900 | 5 | Zappy Clearfit |
-| 901 | 5 | Duckey |
-| 902 | 5 | Logan Frost |
+| 897 | 5 | DirtiestofMikes |
+| 898 | 5 | Zappy Riser |
+| 899 | 5 | Marissa Sweet |
+| 900 | 5 | Hasty Brickzone |
+| 901 | 5 | VERA DAME |
+| 902 | 5 | Tipsy Builderline |
 
 ---
 *Standings created by tournaments datasource generation tool*
