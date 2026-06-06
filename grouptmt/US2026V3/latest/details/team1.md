@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 07:41:15 UTC
+# Standings for team1 as of 2026-06-06 07:42:17 UTC
 
 **Total Participants:** 912
 
@@ -422,26 +422,26 @@
 | 414 | 44 | GiantBehemoth |
 | 415 | 44 | sasha |
 | 416 | 44 | Tamara Johnson-Carter |
-| 417 | 43 | Rachel Renae Bettis |
-| 418 | 43 | Gael Quintana |
-| 419 | 43 | Kimberly Red |
-| 420 | 43 | Rufus |
-| 421 | 43 | Giggy Brickfit |
-| 422 | 43 | Daring Blockclear |
-| 423 | 43 | Brenda Malachi-butler |
-| 424 | 43 | Block |
-| 425 | 43 | Heather Wilson |
-| 426 | 42 | Sunny Riserbuilder |
-| 427 | 42 | Bobby Chestefield |
-| 428 | 42 | Brii Michelle Lamb |
-| 429 | 42 | Casey Chapman |
-| 430 | 42 | Louise |
-| 431 | 42 | MrsMeadows2019 |
-| 432 | 42 | Moomoo |
-| 433 | 41 | Cranky Fall |
-| 434 | 41 | Jessie N Michael Silvers |
-| 435 | 41 | Nerdy Climber |
-| 436 | 41 | Frothy Zoney |
+| 417 | 44 | Moomoo |
+| 418 | 43 | Rachel Renae Bettis |
+| 419 | 43 | Gael Quintana |
+| 420 | 43 | Kimberly Red |
+| 421 | 43 | Rufus |
+| 422 | 43 | Giggy Brickfit |
+| 423 | 43 | Block |
+| 424 | 43 | Heather Wilson |
+| 425 | 43 | Brenda Malachi-butler |
+| 426 | 43 | Daring Blockclear |
+| 427 | 42 | Sunny Riserbuilder |
+| 428 | 42 | MrsMeadows2019 |
+| 429 | 42 | Louise |
+| 430 | 42 | Casey Chapman |
+| 431 | 42 | Brii Michelle Lamb |
+| 432 | 42 | Bobby Chestefield |
+| 433 | 41 | Frothy Zoney |
+| 434 | 41 | Nerdy Climber |
+| 435 | 41 | Cranky Fall |
+| 436 | 41 | Jessie N Michael Silvers |
 | 437 | 41 | Lawreniesha Burkley |
 | 438 | 40 | Larina Cherie Johnson |
 | 439 | 40 | Chummy Blockpiece |
@@ -496,40 +496,40 @@
 | 488 | 36 | Meow Meow |
 | 489 | 36 | Jess |
 | 490 | 36 | Xrandomx |
-| 491 | 36 | Dennis Ripley |
-| 492 | 36 | Meluhnee |
-| 493 | 35 | Amy Villalpando |
-| 494 | 35 | Giggy Clusterer |
-| 495 | 35 | Shannon Carriger |
-| 496 | 35 | Tracy Feyler |
-| 497 | 35 | Crafty Link |
-| 498 | 35 | Mighty Dropper |
-| 499 | 35 | messyboots |
-| 500 | 35 | Saucy Crusher |
-| 501 | 35 | Jjhandsome |
-| 502 | 35 | Sashaleo |
-| 503 | 34 | Karen Denen |
-| 504 | 34 | Spicy Shatterblock |
-| 505 | 34 | Sharee Robinson |
-| 506 | 34 | Mary Phillippi Blanton |
-| 507 | 34 | Jelyfish |
+| 491 | 36 | Treneil Daffin |
+| 492 | 36 | Dennis Ripley |
+| 493 | 36 | Meluhnee |
+| 494 | 35 | Amy Villalpando |
+| 495 | 35 | Giggy Clusterer |
+| 496 | 35 | Shannon Carriger |
+| 497 | 35 | Tracy Feyler |
+| 498 | 35 | Crafty Link |
+| 499 | 35 | Mighty Dropper |
+| 500 | 35 | messyboots |
+| 501 | 35 | Saucy Crusher |
+| 502 | 35 | Jjhandsome |
+| 503 | 35 | Sashaleo |
+| 504 | 34 | Jeremy Pope |
+| 505 | 34 | Mary Phillippi Blanton |
+| 506 | 34 | Zayy Wavyy |
+| 507 | 34 | Rene Hicks |
 | 508 | 34 | Choc |
-| 509 | 34 | Zayy Wavyy |
-| 510 | 34 | Rene Hicks |
-| 511 | 34 | Jeremy Pope |
-| 512 | 33 | Crtjstr |
-| 513 | 33 | Krose Byers |
-| 514 | 33 | Melanie Houghton-McCann |
-| 515 | 33 | Stephen Garland |
-| 516 | 33 | Mom3granny2 |
-| 517 | 33 | Koz176 |
-| 518 | 33 | Tonny Williams |
-| 519 | 33 | Treneil Daffin |
-| 520 | 33 | Squaw Ki Ng |
-| 521 | 33 | Block King |
-| 522 | 33 | Yadira Salgado |
-| 523 | 33 | Danny M GR |
-| 524 | 33 | Mathew Trudell |
+| 509 | 34 | Jelyfish |
+| 510 | 34 | Karen Denen |
+| 511 | 34 | Sharee Robinson |
+| 512 | 34 | Spicy Shatterblock |
+| 513 | 33 | Melanie Houghton-McCann |
+| 514 | 33 | Stephen Garland |
+| 515 | 33 | Mom3granny2 |
+| 516 | 33 | Koz176 |
+| 517 | 33 | Krose Byers |
+| 518 | 33 | Mathew Trudell |
+| 519 | 33 | Tonny Williams |
+| 520 | 33 | Block King |
+| 521 | 33 | Yadira Salgado |
+| 522 | 33 | Crtjstr |
+| 523 | 33 | Squaw Ki Ng |
+| 524 | 33 | Danny M GR |
 | 525 | 32 | Tomme Poliwka |
 | 526 | 32 | Melvin Simpson |
 | 527 | 32 | TotoCherue |

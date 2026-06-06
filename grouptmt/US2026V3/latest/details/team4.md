@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 07:41:15 UTC
+# Standings for team4 as of 2026-06-06 07:42:17 UTC
 
 **Total Participants:** 880
 
@@ -46,8 +46,8 @@
 | 38 | 661 | Giggy Matchpiece |
 | 39 | 644 | Kelly Bernard |
 | 40 | 629 | Keesha Muro |
-| 41 | 600 | Caitlin Johnson |
-| 42 | 600 | MysticMaven |
+| 41 | 605 | MysticMaven |
+| 42 | 600 | Caitlin Johnson |
 | 43 | 560 | Dana Rinaldi |
 | 44 | 559 | Lynn Grimes |
 | 45 | 540 | Chaz Duncan |
@@ -61,20 +61,20 @@
 | 53 | 440 | Jewelz |
 | 54 | 419 | Caitlyn Wang |
 | 55 | 419 | Sweet Stacker |
-| 56 | 402 | Nick Graber |
-| 57 | 400 | Amber Doyle |
-| 58 | 399 | Erin Figone |
-| 59 | 395 | Melissa WC |
-| 60 | 392 | Blayne Kole |
-| 61 | 392 | Kay |
-| 62 | 389 | Ning Quiambao |
-| 63 | 383 | Crissy Hoffman |
-| 64 | 377 | Lisa Garcia |
-| 65 | 372 | Real Talk Vibes |
-| 66 | 366 | Lupe Alburquerque |
-| 67 | 356 | Tanita Jobe |
-| 68 | 353 | Jonathan Hewitt |
-| 69 | 349 | Tiffany Loree Tiffany Oneill |
+| 56 | 409 | Tiffany Loree Tiffany Oneill |
+| 57 | 402 | Nick Graber |
+| 58 | 400 | Amber Doyle |
+| 59 | 399 | Erin Figone |
+| 60 | 395 | Melissa WC |
+| 61 | 392 | Blayne Kole |
+| 62 | 392 | Kay |
+| 63 | 389 | Ning Quiambao |
+| 64 | 383 | Crissy Hoffman |
+| 65 | 377 | Lisa Garcia |
+| 66 | 372 | Real Talk Vibes |
+| 67 | 366 | Lupe Alburquerque |
+| 68 | 356 | Tanita Jobe |
+| 69 | 353 | Jonathan Hewitt |
 | 70 | 347 | Nikki Fuller Johnson |
 | 71 | 346 | Alexis Cor |
 | 72 | 333 | Alexandria Frazier |
@@ -109,11 +109,11 @@
 | 101 | 192 | Gorica Prusina |
 | 102 | 184 | Giggly Tilt |
 | 103 | 183 | Victoria Ver |
-| 104 | 182 | blockhead |
-| 105 | 182 | Scamp Jones |
+| 104 | 182 | Scamp Jones |
+| 105 | 182 | blockhead |
 | 106 | 181 | Colin |
-| 107 | 180 | Aisha Estrada |
-| 108 | 180 | Shmeedo |
+| 107 | 180 | Shmeedo |
+| 108 | 180 | Aisha Estrada |
 | 109 | 179 | Anna Gribble |
 | 110 | 178 | Debby Ruof |
 | 111 | 178 | Tamara Triplet |
@@ -122,24 +122,24 @@
 | 114 | 169 | Tiffany Smith |
 | 115 | 167 | Damon Gaston |
 | 116 | 166 | Aramat |
-| 117 | 160 | Kitsune Bi |
-| 118 | 160 | Littlebrat |
+| 117 | 160 | Littlebrat |
+| 118 | 160 | Kitsune Bi |
 | 119 | 159 | iiPurgeV2 |
 | 120 | 157 | QueenLi86 |
-| 121 | 155 | RotatedWrongAgain |
-| 122 | 155 | Shayna Vaigneur-Hall |
+| 121 | 155 | Shayna Vaigneur-Hall |
+| 122 | 155 | RotatedWrongAgain |
 | 123 | 154 | No Time |
 | 124 | 153 | Brandy Lynn |
 | 125 | 153 | Laguya |
-| 126 | 152 | Dazzle Dragon |
-| 127 | 152 | Spicy Chicken |
+| 126 | 152 | Spicy Chicken |
+| 127 | 152 | Dazzle Dragon |
 | 128 | 149 | Daryn Elliott |
 | 129 | 149 | Danny Ortiz |
 | 130 | 148 | Megan Vick |
 | 131 | 146 | Becky McCool |
 | 132 | 145 | Trice Stevenson |
-| 133 | 144 | Yesenia Castro Monreal |
-| 134 | 144 | gabs |
+| 133 | 144 | gabs |
+| 134 | 144 | Yesenia Castro Monreal |
 | 135 | 143 | Ashley Mcdonald |
 | 136 | 141 | Jackie Polanco |
 | 137 | 137 | Jasmine Marie |
@@ -152,8 +152,8 @@
 | 144 | 129 | Brainbabe |
 | 145 | 129 | Chilly Pivot |
 | 146 | 129 | Simone |
-| 147 | 129 | Ryan Paul Clark-Ramsey |
-| 148 | 129 | Lani |
+| 147 | 129 | Lani |
+| 148 | 129 | Ryan Paul Clark-Ramsey |
 | 149 | 128 | Crystal Hammonds |
 | 150 | 127 | Tipsy Builderline |
 | 151 | 126 | Alyson M Kehler |
@@ -170,31 +170,31 @@
 | 162 | 118 | Goofy Fall |
 | 163 | 118 | Cheery Risegrid |
 | 164 | 117 | BCO22 |
-| 165 | 116 | Dee Wizz |
-| 166 | 116 | Brennan Shea Greene |
+| 165 | 116 | Brennan Shea Greene |
+| 166 | 116 | Dee Wizz |
 | 167 | 116 | WeeWooWee |
-| 168 | 114 | Bryan DjMagnum Evans |
-| 169 | 113 | Melissa Anne |
-| 170 | 113 | Dennis Montoya |
-| 171 | 113 | kcknbtz |
-| 172 | 112 | Homie |
+| 168 | 115 | Hardy Fuller |
+| 169 | 114 | Bryan DjMagnum Evans |
+| 170 | 113 | Melissa Anne |
+| 171 | 113 | Dennis Montoya |
+| 172 | 113 | kcknbtz |
 | 173 | 112 | matt |
-| 174 | 112 | CJ |
-| 175 | 111 | Taz |
-| 176 | 110 | Joab Gonzalez |
-| 177 | 109 | Rose Anna Safi |
-| 178 | 108 | Juvon SupaShawdii Brooks |
-| 179 | 108 | Lush Fitblock |
-| 180 | 107 | June Hoffman |
-| 181 | 105 | Name |
-| 182 | 105 | kellie |
-| 183 | 104 | Tawna Curry |
-| 184 | 104 | Justin Ballard |
-| 185 | 103 | Boldy Rumbler |
-| 186 | 102 | Taisha Beasley |
-| 187 | 101 | Zesty Twistpiece |
-| 188 | 101 | Hardy Fuller |
-| 189 | 101 | TheazO |
+| 174 | 112 | Homie |
+| 175 | 112 | CJ |
+| 176 | 111 | Taz |
+| 177 | 110 | Joab Gonzalez |
+| 178 | 109 | Rose Anna Safi |
+| 179 | 108 | Juvon SupaShawdii Brooks |
+| 180 | 108 | Lush Fitblock |
+| 181 | 107 | June Hoffman |
+| 182 | 105 | Name |
+| 183 | 105 | kellie |
+| 184 | 104 | Tawna Curry |
+| 185 | 104 | Justin Ballard |
+| 186 | 103 | Boldy Rumbler |
+| 187 | 102 | Taisha Beasley |
+| 188 | 101 | TheazO |
+| 189 | 101 | Zesty Twistpiece |
 | 190 | 100 | Loopy Clusterline |
 | 191 | 100 | CorieBe |
 | 192 | 99 | Dapper Strikerpiece |
