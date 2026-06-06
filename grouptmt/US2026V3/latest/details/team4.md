@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 19:42:38 UTC
+# Standings for team4 as of 2026-06-06 19:43:16 UTC
 
 **Total Participants:** 1121
 
@@ -6,8 +6,8 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 7900 | Lyza |
-| 2 | 7864 | Cinny |
+| 1 | 8464 | Cinny |
+| 2 | 7900 | Lyza |
 | 3 | 7769 | Lisa Cullum |
 | 4 | 5469 | Kait Confetti |
 | 5 | 4920 | Jerald Jones |
@@ -498,117 +498,117 @@
 | 490 | 59 | Kay |
 | 491 | 59 | Anthony Kollar |
 | 492 | 59 | Butterpat |
-| 493 | 58 | Holly Bramel |
-| 494 | 58 | Solace Grace |
-| 495 | 58 | Lana Tran |
-| 496 | 58 | Jade Alley |
-| 497 | 57 | EpicWizard |
-| 498 | 57 | Волна Бог |
-| 499 | 57 | Deborah Silberg |
-| 500 | 57 | Garden Girlie |
-| 501 | 57 | Rocky |
-| 502 | 57 | Giggy Snapgrid |
-| 503 | 57 | Tre'nya Smith |
-| 504 | 57 | PapaB |
-| 505 | 57 | Shia Marie |
-| 506 | 57 | Plucky Shatterfit |
+| 493 | 58 | Jade Alley |
+| 494 | 58 | Lana Tran |
+| 495 | 58 | Holly Bramel |
+| 496 | 58 | Solace Grace |
+| 497 | 57 | Tre'nya Smith |
+| 498 | 57 | Erich EMac McIntosh |
+| 499 | 57 | Giggy Snapgrid |
+| 500 | 57 | Rocky |
+| 501 | 57 | EpicWizard |
+| 502 | 57 | PapaB |
+| 503 | 57 | Волна Бог |
+| 504 | 57 | Deborah Silberg |
+| 505 | 57 | Plucky Shatterfit |
+| 506 | 57 | Garden Girlie |
 | 507 | 57 | Erica Pompey |
-| 508 | 57 | Erich EMac McIntosh |
-| 509 | 56 | GETBOXED! |
-| 510 | 56 | Happy Filler |
-| 511 | 56 | Karen Davis |
+| 508 | 57 | Shia Marie |
+| 509 | 56 | Karen Davis |
+| 510 | 56 | Katie Martin |
+| 511 | 56 | Happy Filler |
 | 512 | 56 | Tony Clark |
-| 513 | 56 | Zappy Matchgrid |
-| 514 | 56 | Jennifer Brucz |
-| 515 | 56 | Katie Martin |
-| 516 | 55 | Lovetetris |
-| 517 | 55 | Jailen Harper |
+| 513 | 56 | GETBOXED! |
+| 514 | 56 | Zappy Matchgrid |
+| 515 | 56 | Jennifer Brucz |
+| 516 | 55 | The Jazziest |
+| 517 | 55 | Nicole Ambrose |
 | 518 | 55 | Elisha Thompson |
 | 519 | 55 | Cherrel M. Causey |
-| 520 | 55 | Nicole Ambrose |
-| 521 | 55 | The Jazziest |
-| 522 | 54 | Earl Edwards |
+| 520 | 55 | Jailen Harper |
+| 521 | 55 | Lovetetris |
+| 522 | 54 | Lisa Ferriero-Daudin |
 | 523 | 54 | Silly Fallzone |
-| 524 | 54 | Lisa Ferriero-Daudin |
-| 525 | 54 | Destiny Starr LeValdo |
-| 526 | 53 | Monte Smith |
-| 527 | 53 | Trang Nguyen |
-| 528 | 53 | MattJennifer Marie Ericson |
-| 529 | 53 | LaTanya GeminiondaRise Johnson |
-| 530 | 53 | Kimberly Mae Watkins |
-| 531 | 53 | Giggy Risegrid |
-| 532 | 53 | Marisela Alvarado |
-| 533 | 52 | Angela Adamo-Tash |
-| 534 | 52 | Lisa Pie |
-| 535 | 52 | Clashy |
-| 536 | 52 | Snappy Stack |
-| 537 | 52 | Sonya |
-| 538 | 52 | Jj Johnson |
-| 539 | 52 | Luunii |
-| 540 | 51 | Erika Rubio |
-| 541 | 51 | Kimberly Civinski |
-| 542 | 51 | Michellee Lewis |
-| 543 | 51 | Clever Patterner |
-| 544 | 51 | shonaberry |
-| 545 | 51 | LilRain |
-| 546 | 51 | Poppy |
-| 547 | 51 | Jacqueline Jackii Ramos |
+| 524 | 54 | Destiny Starr LeValdo |
+| 525 | 54 | Earl Edwards |
+| 526 | 53 | Trang Nguyen |
+| 527 | 53 | crobb77 |
+| 528 | 53 | Monte Smith |
+| 529 | 53 | Marisela Alvarado |
+| 530 | 53 | MattJennifer Marie Ericson |
+| 531 | 53 | Kimberly Mae Watkins |
+| 532 | 53 | Giggy Risegrid |
+| 533 | 53 | LaTanya GeminiondaRise Johnson |
+| 534 | 52 | Clashy |
+| 535 | 52 | Jj Johnson |
+| 536 | 52 | Sonya |
+| 537 | 52 | Lisa Pie |
+| 538 | 52 | Luunii |
+| 539 | 52 | Snappy Stack |
+| 540 | 52 | Angela Adamo-Tash |
+| 541 | 51 | JustLessie |
+| 542 | 51 | Clever Patterner |
+| 543 | 51 | Erika Rubio |
+| 544 | 51 | Vergie Michael |
+| 545 | 51 | Michellee Lewis |
+| 546 | 51 | LilRain |
+| 547 | 51 | Kimberly Civinski |
 | 548 | 51 | Breezy Blockzone |
-| 549 | 51 | Vergie Michael |
-| 550 | 51 | JustLessie |
-| 551 | 50 | Loony Edge |
-| 552 | 50 | Bhakti Sawarkar |
-| 553 | 50 | Edward White |
-| 554 | 50 | Hooti Smile |
-| 555 | 50 | Brittany |
-| 556 | 50 | Slinky Column |
-| 557 | 50 | Michael Cruz |
-| 558 | 50 | Ralph Hell Rell Williams |
-| 559 | 50 | Nova Kain |
-| 560 | 50 | Flashy Shatterer |
-| 561 | 50 | Susan Stofberg Beltran |
-| 562 | 50 | Bee |
+| 549 | 51 | shonaberry |
+| 550 | 51 | Jacqueline Jackii Ramos |
+| 551 | 51 | Poppy |
+| 552 | 50 | Michael Cruz |
+| 553 | 50 | Loony Edge |
+| 554 | 50 | Slinky Column |
+| 555 | 50 | Bhakti Sawarkar |
+| 556 | 50 | Brittany |
+| 557 | 50 | Hooti Smile |
+| 558 | 50 | Edward White |
+| 559 | 50 | Ralph Hell Rell Williams |
+| 560 | 50 | Nova Kain |
+| 561 | 50 | Bee |
+| 562 | 50 | Flashy Shatterer |
 | 563 | 50 | Jacqueline Wright |
-| 564 | 50 | Diane Obungu |
-| 565 | 49 | smarty |
-| 566 | 49 | Meghan Etchells |
-| 567 | 49 | Kandylands |
-| 568 | 49 | LeRoy jenkins |
+| 564 | 50 | Susan Stofberg Beltran |
+| 565 | 50 | Diane Obungu |
+| 566 | 49 | Kandylands |
+| 567 | 49 | smarty |
+| 568 | 49 | Meghan Etchells |
 | 569 | 49 | Erica Armstrong Baz |
-| 570 | 49 | Karen Riexinger |
-| 571 | 49 | Mrsjcraw18 |
-| 572 | 49 | Daffney Starr |
-| 573 | 48 | crobb77 |
-| 574 | 48 | JP |
-| 575 | 48 | REPENT |
-| 576 | 48 | ŁųŁų |
+| 570 | 49 | LeRoy jenkins |
+| 571 | 49 | Karen Riexinger |
+| 572 | 49 | Mrsjcraw18 |
+| 573 | 49 | Daffney Starr |
+| 574 | 48 | REPENT |
+| 575 | 48 | ŁųŁų |
+| 576 | 48 | JP |
 | 577 | 48 | Lilo |
 | 578 | 47 | Lush Twisterfit |
 | 579 | 47 | chefjaydawg |
-| 580 | 47 | Candiecane324 |
-| 581 | 47 | Alizabeth Garcia |
-| 582 | 46 | Tamika Ashli Bonner |
-| 583 | 46 | Gerald Richard Franke |
-| 584 | 46 | Lashae |
-| 585 | 46 | Esmond Johnson IV |
-| 586 | 46 | Nerdy Faller |
-| 587 | 46 | Mc3003 |
-| 588 | 46 | Meela Abdurrab |
-| 589 | 45 | SueSally |
-| 590 | 45 | Knijur Callins |
-| 591 | 45 | Joe Win |
-| 592 | 45 | PerfectPieces |
-| 593 | 45 | Jennifer Terrill |
-| 594 | 45 | EmBem |
-| 595 | 45 | Becky Bernazal |
-| 596 | 45 | BurnedCrab52 |
-| 597 | 45 | Gary Smallwood |
-| 598 | 45 | Jt Home |
-| 599 | 45 | Capone |
-| 600 | 45 | Loopy Hitter |
-| 601 | 44 | Jazzy Rollout |
-| 602 | 44 | Kelly Miller Williams |
-| 603 | 44 | Kimmie Warren |
+| 580 | 47 | Alizabeth Garcia |
+| 581 | 47 | Candiecane324 |
+| 582 | 46 | Mc3003 |
+| 583 | 46 | Nerdy Faller |
+| 584 | 46 | Meela Abdurrab |
+| 585 | 46 | Gerald Richard Franke |
+| 586 | 46 | Lashae |
+| 587 | 46 | Tamika Ashli Bonner |
+| 588 | 46 | Esmond Johnson IV |
+| 589 | 45 | Capone |
+| 590 | 45 | Joe Win |
+| 591 | 45 | PerfectPieces |
+| 592 | 45 | Becky Bernazal |
+| 593 | 45 | Knijur Callins |
+| 594 | 45 | BurnedCrab52 |
+| 595 | 45 | Jt Home |
+| 596 | 45 | Jennifer Terrill |
+| 597 | 45 | EmBem |
+| 598 | 45 | Loopy Hitter |
+| 599 | 45 | SueSally |
+| 600 | 45 | Gary Smallwood |
+| 601 | 44 | Kimmie Warren |
+| 602 | 44 | Jazzy Rollout |
+| 603 | 44 | Kelly Miller Williams |
 | 604 | 44 | Mike Artis |
 | 605 | 44 | SweetChaos |
 | 606 | 44 | Sarah Leake |
