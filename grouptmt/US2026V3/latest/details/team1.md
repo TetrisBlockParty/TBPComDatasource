@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 20:10:19 UTC
+# Standings for team1 as of 2026-06-06 20:10:40 UTC
 
 **Total Participants:** 1142
 
@@ -28,7 +28,7 @@
 | 20 | 2321 | Chandler Spencer |
 | 21 | 2252 | jaimie |
 | 22 | 2151 | Juan Kandiss Escobedo Irwin |
-| 23 | 1830 | April Inboden |
+| 23 | 1870 | April Inboden |
 | 24 | 1679 | Epic Snapfall |
 | 25 | 1589 | Brian Stackhouse |
 | 26 | 1500 | Kalynn Parks |
@@ -44,7 +44,7 @@
 | 36 | 1037 | Shortstak |
 | 37 | 1031 | Ashley Espeut |
 | 38 | 1002 | Markeeta Lipscomb |
-| 39 | 991 | COSA303 |
+| 39 | 993 | COSA303 |
 | 40 | 984 | Holly Jolly |
 | 41 | 971 | Spicy Balancer |
 | 42 | 940 | Sanjuro |
@@ -502,29 +502,29 @@
 | 494 | 56 | Nora Mahmoud |
 | 495 | 56 | Sugar Foot |
 | 496 | 55 | Twisty Brickfit |
-| 497 | 55 | Dreamzzz |
-| 498 | 55 | Terrie |
-| 499 | 55 | Kyle Franklin |
-| 500 | 55 | Raquel Ortiz |
+| 497 | 55 | KoolKimJay |
+| 498 | 55 | Rolanda Williams |
+| 499 | 55 | Jjhandsome |
+| 500 | 55 | Daring Blockclear |
 | 501 | 55 | nameno |
-| 502 | 55 | Daring Blockclear |
-| 503 | 55 | Jjhandsome |
-| 504 | 55 | Rolanda Williams |
-| 505 | 55 | KoolKimJay |
-| 506 | 54 | John Spath |
-| 507 | 54 | Boldy Pivoty |
-| 508 | 54 | Ryan Runyan |
-| 509 | 54 | Melissa Olvera |
-| 510 | 54 | Kashh |
-| 511 | 54 | Gbnola |
-| 512 | 54 | Ace Hardware |
-| 513 | 54 | Aaron Hartmann |
-| 514 | 54 | Elizabeth Hopkins |
-| 515 | 53 | Barbramerri Tarboro |
-| 516 | 53 | Morenita Rodriguez |
-| 517 | 53 | Clever Wrecker |
-| 518 | 53 | Saucy Faller |
-| 519 | 53 | Jenni Hardman |
+| 502 | 55 | Raquel Ortiz |
+| 503 | 55 | Kyle Franklin |
+| 504 | 55 | Jenni Hardman |
+| 505 | 55 | Terrie |
+| 506 | 55 | Dreamzzz |
+| 507 | 54 | Gbnola |
+| 508 | 54 | Ace Hardware |
+| 509 | 54 | Kashh |
+| 510 | 54 | Melissa Olvera |
+| 511 | 54 | Ryan Runyan |
+| 512 | 54 | Boldy Pivoty |
+| 513 | 54 | John Spath |
+| 514 | 54 | Aaron Hartmann |
+| 515 | 54 | Elizabeth Hopkins |
+| 516 | 53 | Barbramerri Tarboro |
+| 517 | 53 | Morenita Rodriguez |
+| 518 | 53 | Clever Wrecker |
+| 519 | 53 | Saucy Faller |
 | 520 | 53 | Cortrell Foster |
 | 521 | 53 | Happy Blockpiece |
 | 522 | 53 | Bold Clusterer |
