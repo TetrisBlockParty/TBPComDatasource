@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 23:10:39 UTC
+# Standings for team4 as of 2026-06-06 23:11:17 UTC
 
 **Total Participants:** 1194
 
@@ -151,8 +151,8 @@
 | 143 | 245 | QueenLi86 |
 | 144 | 244 | Sharidan Klinginsmith |
 | 145 | 235 | Hwanger Land |
-| 146 | 233 | Sisi RedVelvet Reneè |
-| 147 | 233 | Christy Beezley-Forbush |
+| 146 | 233 | Christy Beezley-Forbush |
+| 147 | 233 | Sisi RedVelvet Reneè |
 | 148 | 231 | Becky McCool |
 | 149 | 230 | gabs |
 | 150 | 229 | Aisha Estrada |
@@ -161,9 +161,9 @@
 | 153 | 223 | matt |
 | 154 | 222 | Danny Ortiz |
 | 155 | 221 | Slimm |
-| 156 | 220 | Shmeedo |
-| 157 | 220 | Silly Risegrid |
-| 158 | 220 | Esther Hadassah |
+| 156 | 220 | Silly Risegrid |
+| 157 | 220 | Esther Hadassah |
+| 158 | 220 | Shmeedo |
 | 159 | 218 | Dubiousdust |
 | 160 | 212 | Perky Riserbuilder |
 | 161 | 212 | blockhead |
@@ -174,29 +174,29 @@
 | 166 | 200 | Sarah Montagne Forsberg |
 | 167 | 199 | Colin |
 | 168 | 196 | Brick House |
-| 169 | 195 | Sean Mccleary |
-| 170 | 195 | Megan Vick |
-| 171 | 194 | Lisa lisa |
+| 169 | 195 | Lively Blockpiece |
+| 170 | 195 | Sean Mccleary |
+| 171 | 195 | Megan Vick |
 | 172 | 194 | Chiquita Blue |
 | 173 | 194 | Jenn Norcross |
-| 174 | 193 | Tiffany Bunker-Hill |
-| 175 | 192 | Tiggerjake |
-| 176 | 191 | Dee Wizz |
-| 177 | 190 | BusterBear56 |
-| 178 | 187 | Leslie Ann Carter |
+| 174 | 194 | Lisa lisa |
+| 175 | 193 | Tiffany Bunker-Hill |
+| 176 | 192 | Tiggerjake |
+| 177 | 191 | Dee Wizz |
+| 178 | 190 | BusterBear56 |
 | 179 | 187 | Devinlee Brown |
-| 180 | 186 | Kimyatta Cavin |
-| 181 | 185 | Dae Von |
-| 182 | 184 | Lucy Honer |
-| 183 | 183 | Tammy June |
-| 184 | 183 | Tara Delay Hill |
-| 185 | 181 | Goofy Riser |
-| 186 | 181 | Waxboss |
-| 187 | 181 | Lively Blockpiece |
+| 180 | 187 | Leslie Ann Carter |
+| 181 | 186 | Kimyatta Cavin |
+| 182 | 185 | Dae Von |
+| 183 | 184 | Lucy Honer |
+| 184 | 183 | Tammy June |
+| 185 | 183 | Tara Delay Hill |
+| 186 | 181 | Goofy Riser |
+| 187 | 181 | Waxboss |
 | 188 | 179 | Anna Gribble |
 | 189 | 178 | Futrell Brent |
-| 190 | 178 | Spicy Chicken |
-| 191 | 178 | Tamara Triplet |
+| 190 | 178 | Tamara Triplet |
+| 191 | 178 | Spicy Chicken |
 | 192 | 177 | Damon Gaston |
 | 193 | 177 | Chirpy Link |
 | 194 | 175 | Jackie Miller |
@@ -273,9 +273,9 @@
 | 265 | 124 | Rachel Lemos |
 | 266 | 123 | Lively Cascadebuilder |
 | 267 | 122 | Andrick |
-| 268 | 121 | Jazzy Gridder |
-| 269 | 120 | Glamorous Gracey |
-| 270 | 120 | Jennifer Fisher Franklin |
+| 268 | 121 | Jennifer Fisher Franklin |
+| 269 | 121 | Jazzy Gridder |
+| 270 | 120 | Glamorous Gracey |
 | 271 | 120 | Holly Wessel |
 | 272 | 120 | Cool Risepiece |
 | 273 | 120 | Joab Gonzalez |
