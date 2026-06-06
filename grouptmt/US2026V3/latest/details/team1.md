@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 18:18:39 UTC
+# Standings for team1 as of 2026-06-06 18:19:18 UTC
 
 **Total Participants:** 1098
 
@@ -185,9 +185,9 @@
 | 177 | 176 | Anthony Washington |
 | 178 | 172 | Marcheta Cervantez |
 | 179 | 171 | Boldy Liner |
-| 180 | 169 | Christina Rebecca |
-| 181 | 169 | Asha Langford |
-| 182 | 168 | pooh |
+| 180 | 170 | pooh |
+| 181 | 169 | Christina Rebecca |
+| 182 | 169 | Asha Langford |
 | 183 | 168 | IThinkNot |
 | 184 | 166 | Tishauna Virgo |
 | 185 | 166 | Tarnisha Neicy Jones |
@@ -670,11 +670,11 @@
 | 662 | 36 | Jess |
 | 663 | 36 | Meluhnee |
 | 664 | 36 | Meow Meow |
-| 665 | 36 | Frilly Lifter |
-| 666 | 35 | Hyedie Badie |
-| 667 | 35 | Amy Villalpando |
-| 668 | 35 | Vivian Bunnell Myers |
-| 669 | 35 | Peppy Wipeblock |
+| 665 | 36 | Peppy Wipeblock |
+| 666 | 36 | Frilly Lifter |
+| 667 | 35 | Hyedie Badie |
+| 668 | 35 | Amy Villalpando |
+| 669 | 35 | Vivian Bunnell Myers |
 | 670 | 35 | Shannon Carriger |
 | 671 | 35 | Brandy Jaszewski |
 | 672 | 35 | Giggy Clusterer |
