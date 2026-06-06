@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 00:06:15 UTC
+# Standings for team1 as of 2026-06-06 00:06:39 UTC
 
 **Total Participants:** 618
 
@@ -41,9 +41,9 @@
 | 33 | 360 | She Higgy |
 | 34 | 357 | Sarah Marie |
 | 35 | 352 | Brian Bohanon II |
-| 36 | 319 | Shell Lewis |
-| 37 | 310 | Bre Maugh |
-| 38 | 299 | Pdubbl3 |
+| 36 | 320 | Bre Maugh |
+| 37 | 319 | Shell Lewis |
+| 38 | 309 | Pdubbl3 |
 | 39 | 280 | IamJust Neyamijah Washington Sr. |
 | 40 | 260 | Carolynne Walker-Bell |
 | 41 | 260 | John Staub |
@@ -78,13 +78,13 @@
 | 70 | 158 | W.A. Simpson |
 | 71 | 156 | Jessica Russell |
 | 72 | 151 | Dacia Hicks |
-| 73 | 147 | Jason Mungin |
-| 74 | 147 | MACHETEEDDIE513 |
-| 75 | 140 | Sara Meri |
-| 76 | 140 | Ann Chung |
-| 77 | 140 | Felicia Cain |
-| 78 | 139 | Chenell Gillard |
-| 79 | 138 | Kimberly Hernandez |
+| 73 | 148 | Kimberly Hernandez |
+| 74 | 147 | Jason Mungin |
+| 75 | 147 | MACHETEEDDIE513 |
+| 76 | 140 | Sara Meri |
+| 77 | 140 | Ann Chung |
+| 78 | 140 | Felicia Cain |
+| 79 | 139 | Chenell Gillard |
 | 80 | 137 | BlackQueen105 |
 | 81 | 136 | Anthony Washington |
 | 82 | 135 | Amber Wilson |
@@ -555,75 +555,75 @@
 | 547 | 9 | Shakmar |
 | 548 | 8 | Ferocity |
 | 549 | 8 | Rixo Blax |
-| 550 | 8 | Mahagony Small |
-| 551 | 8 | Ashley Davis |
+| 550 | 8 | jus_ry |
+| 551 | 8 | Caitlin Michele |
 | 552 | 8 | Nerdy Twistline |
-| 553 | 8 | Tanesha Ga'sFinest Corbett |
-| 554 | 8 | Teresa Bean |
-| 555 | 8 | Caitlin Michele |
-| 556 | 8 | Cm |
-| 557 | 8 | Chevonne Huggins |
-| 558 | 8 | Danielle DeLozier Plesec |
-| 559 | 8 | Shawna Passwater |
-| 560 | 8 | jus_ry |
+| 553 | 8 | Teresa Bean |
+| 554 | 8 | Mahagony Small |
+| 555 | 8 | Cm |
+| 556 | 8 | Brenda Brogden |
+| 557 | 8 | Tanesha Ga'sFinest Corbett |
+| 558 | 8 | Joseph Vs Cap |
+| 559 | 8 | Danielle DeLozier Plesec |
+| 560 | 8 | Chevonne Huggins |
 | 561 | 8 | Sarah Barnum |
-| 562 | 8 | Brenda Brogden |
-| 563 | 8 | Joseph Vs Cap |
-| 564 | 7 | Mary2 |
-| 565 | 7 | Antoinette Kidd |
-| 566 | 7 | wmedina67 |
-| 567 | 7 | Shane Brucewayne |
+| 562 | 8 | Ashley Davis |
+| 563 | 8 | Shawna Passwater |
+| 564 | 7 | Barbramerri Tarboro |
+| 565 | 7 | Mary2 |
+| 566 | 7 | Analesia Taylor |
+| 567 | 7 | wmedina67 |
 | 568 | 7 | whatever |
-| 569 | 7 | Analesia Taylor |
-| 570 | 7 | Barbramerri Tarboro |
-| 571 | 7 | Andrew Harris |
+| 569 | 7 | Shane Brucewayne |
+| 570 | 7 | Antoinette Kidd |
+| 571 | 7 | Jayson |
 | 572 | 7 | Lakiesha Crawford |
-| 573 | 7 | Jayson |
-| 574 | 6 | Frances Davis |
-| 575 | 6 | Daring Riserfit |
-| 576 | 6 | Novaa |
-| 577 | 6 | Jeffrey Barrows |
-| 578 | 6 | Janine Hunter |
-| 579 | 6 | Wu May |
-| 580 | 6 | Christopher Wallace |
-| 581 | 6 | Gael Quintana |
-| 582 | 6 | Wacky Towerer |
-| 583 | 6 | NEM0228 |
-| 584 | 6 | Brittnay Wright |
-| 585 | 6 | Solomon Valarie |
-| 586 | 6 | Chris Bell |
-| 587 | 6 | Boricua64 |
-| 588 | 6 | Jelyfish |
-| 589 | 6 | Venna Cooper |
-| 590 | 5 | Temeshia Brooks Washington |
-| 591 | 5 | Vernon Hoyt |
-| 592 | 5 | Stephanie Zuniga Tullock |
-| 593 | 5 | VERA DAME |
-| 594 | 5 | Rieshelda Marie White |
-| 595 | 5 | Tipsy Builderline |
-| 596 | 5 | Saucy Linkgrid |
-| 597 | 5 | Spunky Strikerbuilder |
-| 598 | 5 | Andre Sanon |
-| 599 | 5 | Jasmine Hariston-Estis |
-| 600 | 5 | Derek Beverly |
-| 601 | 5 | Lil T |
-| 602 | 5 | Hasty Brickzone |
-| 603 | 5 | Sara |
-| 604 | 5 | DirtiestofMikes |
-| 605 | 5 | Chill Linkroll |
-| 606 | 5 | Kidgib5 |
-| 607 | 5 | Jennifer Moore |
-| 608 | 5 | the guy |
-| 609 | 5 | Mommy Frank |
-| 610 | 5 | Shakuria Cortia Burney |
-| 611 | 5 | pooh |
-| 612 | 5 | Logan Frost |
-| 613 | 5 | Sheila Burnham |
-| 614 | 5 | Duckey |
-| 615 | 5 | Zappy Clearfit |
-| 616 | 5 | Tamika Fisher |
-| 617 | 5 | Shawn Himes |
-| 618 | 5 | Tito Divyn |
+| 573 | 7 | Andrew Harris |
+| 574 | 6 | Venna Cooper |
+| 575 | 6 | Boricua64 |
+| 576 | 6 | Janine Hunter |
+| 577 | 6 | Jelyfish |
+| 578 | 6 | Wu May |
+| 579 | 6 | Christopher Wallace |
+| 580 | 6 | Daring Riserfit |
+| 581 | 6 | Novaa |
+| 582 | 6 | Jeffrey Barrows |
+| 583 | 6 | Solomon Valarie |
+| 584 | 6 | Gael Quintana |
+| 585 | 6 | NEM0228 |
+| 586 | 6 | Frances Davis |
+| 587 | 6 | Brittnay Wright |
+| 588 | 6 | Chris Bell |
+| 589 | 6 | Wacky Towerer |
+| 590 | 5 | Vernon Hoyt |
+| 591 | 5 | Saucy Linkgrid |
+| 592 | 5 | Tipsy Builderline |
+| 593 | 5 | Rieshelda Marie White |
+| 594 | 5 | Temeshia Brooks Washington |
+| 595 | 5 | pooh |
+| 596 | 5 | VERA DAME |
+| 597 | 5 | Stephanie Zuniga Tullock |
+| 598 | 5 | Logan Frost |
+| 599 | 5 | Andre Sanon |
+| 600 | 5 | Spunky Strikerbuilder |
+| 601 | 5 | Jasmine Hariston-Estis |
+| 602 | 5 | Derek Beverly |
+| 603 | 5 | Lil T |
+| 604 | 5 | Hasty Brickzone |
+| 605 | 5 | Sara |
+| 606 | 5 | DirtiestofMikes |
+| 607 | 5 | Chill Linkroll |
+| 608 | 5 | Kidgib5 |
+| 609 | 5 | Jennifer Moore |
+| 610 | 5 | the guy |
+| 611 | 5 | Shakuria Cortia Burney |
+| 612 | 5 | Mommy Frank |
+| 613 | 5 | Tito Divyn |
+| 614 | 5 | Shawn Himes |
+| 615 | 5 | Tamika Fisher |
+| 616 | 5 | Zappy Clearfit |
+| 617 | 5 | Duckey |
+| 618 | 5 | Sheila Burnham |
 
 ---
 *Standings created by tournaments datasource generation tool*
