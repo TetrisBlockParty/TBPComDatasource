@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 16:52:17 UTC
+# Standings for team4 as of 2026-06-06 16:52:37 UTC
 
 **Total Participants:** 1056
 
@@ -109,7 +109,7 @@
 | 101 | 295 | Thomasena Eady Reid |
 | 102 | 291 | Jesse Olive |
 | 103 | 286 | Andrew Dang |
-| 104 | 271 | Boldy Rumbler |
+| 104 | 286 | Boldy Rumbler |
 | 105 | 267 | Cranky Towerbuilder |
 | 106 | 265 | Taz |
 | 107 | 259 | Jessica Peyton |
@@ -186,8 +186,8 @@
 | 178 | 146 | Alyson M Kehler |
 | 179 | 145 | Trice Stevenson |
 | 180 | 144 | Yesenia Castro Monreal |
-| 181 | 143 | Ashley Mcdonald |
-| 182 | 143 | ariel |
+| 181 | 144 | ariel |
+| 182 | 143 | Ashley Mcdonald |
 | 183 | 141 | Justin Michael |
 | 184 | 138 | Tina Thomas |
 | 185 | 138 | Cheery Risegrid |
@@ -860,42 +860,42 @@
 | 852 | 19 | Dru Lui |
 | 853 | 19 | mikey moo |
 | 854 | 19 | Chabetta |
-| 855 | 19 | Kariana Gonzalez Ortiz |
-| 856 | 19 | tj |
-| 857 | 19 | Bean |
-| 858 | 19 | Cheeky Fallzone |
-| 859 | 19 | Maicy Darrah |
-| 860 | 18 | Michelle Clark |
-| 861 | 18 | Joshua Franklin |
-| 862 | 18 | chuck |
-| 863 | 18 | Happy Strikerpiece |
-| 864 | 18 | Gingerale<3 |
-| 865 | 18 | Stacia Marie |
-| 866 | 18 | Angel Boges |
-| 867 | 18 | Tiffany Taylor |
-| 868 | 18 | Janna Thompson |
-| 869 | 18 | Jamie Legeness |
-| 870 | 18 | Jonathan Jackson |
-| 871 | 18 | Jen Roe |
-| 872 | 18 | Frothy Pivotfall |
-| 873 | 18 | Dewy |
-| 874 | 18 | Poppy Glider |
+| 855 | 19 | Maicy Darrah |
+| 856 | 19 | Bean |
+| 857 | 19 | Cheeky Fallzone |
+| 858 | 19 | Kariana Gonzalez Ortiz |
+| 859 | 19 | tj |
+| 860 | 19 | Jace McCullough |
+| 861 | 18 | Angel Boges |
+| 862 | 18 | Tiffany Taylor |
+| 863 | 18 | Stacia Marie |
+| 864 | 18 | Joshua Franklin |
+| 865 | 18 | Happy Strikerpiece |
+| 866 | 18 | Michelle Clark |
+| 867 | 18 | chuck |
+| 868 | 18 | Gingerale<3 |
+| 869 | 18 | Janna Thompson |
+| 870 | 18 | Jamie Legeness |
+| 871 | 18 | Jonathan Jackson |
+| 872 | 18 | Emily Lowe |
+| 873 | 18 | FUNBAT |
+| 874 | 18 | Shannon Foster |
 | 875 | 18 | Lorrie Ann Burchett |
-| 876 | 18 | Shannon Foster |
-| 877 | 18 | FUNBAT |
-| 878 | 18 | Emily Lowe |
-| 879 | 17 | David Kirschner |
-| 880 | 17 | Terry Jo Myers |
-| 881 | 17 | Glitzy Crasher |
-| 882 | 17 | Kristie ML SneekaPuff |
-| 883 | 17 | Shane Snyder |
-| 884 | 17 | Jolly Dashy |
-| 885 | 17 | Stotty |
-| 886 | 17 | Wali Muhammad |
-| 887 | 17 | Gma420 |
-| 888 | 17 | Jace McCullough |
-| 889 | 17 | Heather Hilferty |
-| 890 | 17 | Crystal Morrin |
+| 876 | 18 | Poppy Glider |
+| 877 | 18 | Dewy |
+| 878 | 18 | Frothy Pivotfall |
+| 879 | 18 | Jen Roe |
+| 880 | 17 | Wali Muhammad |
+| 881 | 17 | Stotty |
+| 882 | 17 | Jolly Dashy |
+| 883 | 17 | Kristie ML SneekaPuff |
+| 884 | 17 | Glitzy Crasher |
+| 885 | 17 | David Kirschner |
+| 886 | 17 | Terry Jo Myers |
+| 887 | 17 | Shane Snyder |
+| 888 | 17 | Gma420 |
+| 889 | 17 | Crystal Morrin |
+| 890 | 17 | Heather Hilferty |
 | 891 | 16 | Snappy Fill |
 | 892 | 16 | Dee Modest |
 | 893 | 16 | EKM |
@@ -907,22 +907,22 @@
 | 899 | 16 | Frisky Pusher |
 | 900 | 16 | Mighty Spinfit |
 | 901 | 16 | Layne Davis |
-| 902 | 15 | Mandi Rexroat |
-| 903 | 15 | Britney Kitora |
+| 902 | 15 | Britney Kitora |
+| 903 | 15 | Mandi Rexroat |
 | 904 | 15 | Nerdy Glider |
 | 905 | 15 | Tracy Marino |
-| 906 | 15 | babygirlw |
-| 907 | 15 | Wacky Clusterer |
-| 908 | 15 | Austin Tan |
+| 906 | 15 | Austin Tan |
+| 907 | 15 | babygirlw |
+| 908 | 15 | Wacky Clusterer |
 | 909 | 15 | Sherry Mooney |
 | 910 | 15 | Tana-Marie Lynn McCarty-Rolf |
 | 911 | 15 | Donna Bush |
 | 912 | 15 | Manolo Canety |
-| 913 | 15 | John Wertz |
-| 914 | 15 | Cas Gio |
+| 913 | 15 | Cas Gio |
+| 914 | 15 | John Wertz |
 | 915 | 15 | Hasty Grabber |
-| 916 | 15 | Christina Barry |
-| 917 | 15 | Twisty Gridclear |
+| 916 | 15 | Twisty Gridclear |
+| 917 | 15 | Christina Barry |
 | 918 | 15 | Hasty Snapmatch |
 | 919 | 14 | Dolores Falco |
 | 920 | 14 | Gellix |
