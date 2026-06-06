@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 09:16:15 UTC
+# Standings for team2 as of 2026-06-06 09:16:39 UTC
 
 **Total Participants:** 1094
 
@@ -180,9 +180,9 @@
 | 172 | 145 | SEH |
 | 173 | 145 | H |
 | 174 | 145 | Amanda Priddy |
-| 175 | 142 | Cortney Coleman |
-| 176 | 141 | Melisa |
-| 177 | 141 | Spicy Risegrid |
+| 175 | 142 | Spicy Risegrid |
+| 176 | 142 | Cortney Coleman |
+| 177 | 141 | Melisa |
 | 178 | 140 | Billie Jensen |
 | 179 | 140 | Brittney Williams |
 | 180 | 140 | marsam |
@@ -1004,21 +1004,21 @@
 | 996 | 10 | Nicole Hjelmen |
 | 997 | 10 | Audrey Wood |
 | 998 | 10 | Sharon Wade |
-| 999 | 10 | Elnaz Mokleh |
-| 1000 | 10 | Twisty Snapclear |
-| 1001 | 10 | Happy Riseclear |
-| 1002 | 10 | Ollie |
-| 1003 | 10 | Justin Furne |
-| 1004 | 10 | Jennifer Chapel |
-| 1005 | 10 | Daily Findery |
-| 1006 | 9 | Tabitha Porter |
-| 1007 | 9 | Deanna Mc |
+| 999 | 10 | Mario Hillman |
+| 1000 | 10 | Elnaz Mokleh |
+| 1001 | 10 | Twisty Snapclear |
+| 1002 | 10 | Happy Riseclear |
+| 1003 | 10 | Ollie |
+| 1004 | 10 | Justin Furne |
+| 1005 | 10 | Jennifer Chapel |
+| 1006 | 10 | Daily Findery |
+| 1007 | 9 | Tabitha Porter |
 | 1008 | 9 | Phyllis DiCristo |
-| 1009 | 9 | Jeff Mullins |
+| 1009 | 9 | Deanna Mc |
 | 1010 | 9 | Michele Stewart |
 | 1011 | 9 | Paula Smith |
-| 1012 | 9 | Darla Ragsdale |
-| 1013 | 9 | Mario Hillman |
+| 1012 | 9 | Jeff Mullins |
+| 1013 | 9 | Darla Ragsdale |
 | 1014 | 9 | April Wright |
 | 1015 | 9 | Kylee Pruitt |
 | 1016 | 9 | Kristi K Milner |
