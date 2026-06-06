@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 23:28:39 UTC
+# Standings for team2 as of 2026-06-06 23:29:17 UTC
 
 **Total Participants:** 1449
 
@@ -57,7 +57,7 @@
 | 49 | 1299 | Tom Badgley |
 | 50 | 1215 | Brent Bittenbender |
 | 51 | 1190 | Marie Edmonds |
-| 52 | 1043 | Jaime P Lamb |
+| 52 | 1047 | Jaime P Lamb |
 | 53 | 1032 | AcardBoardBox |
 | 54 | 1031 | DarkHorse |
 | 55 | 959 | Debra Henry |
@@ -589,18 +589,18 @@
 | 581 | 65 | Dana Wilson |
 | 582 | 65 | Brenda Shannon |
 | 583 | 65 | Heather Billodeau |
-| 584 | 65 | Belinda Head |
-| 585 | 65 | meg |
-| 586 | 65 | Coleen Yoder |
-| 587 | 65 | Cool Patternbuilder |
-| 588 | 65 | Sarah Louise Cobb |
-| 589 | 64 | Matt Wylie |
-| 590 | 64 | Lee Leonard |
-| 591 | 64 | Jolly Builderpiece |
-| 592 | 64 | Martha Lynn Wiggins |
-| 593 | 64 | Tammy Botkin |
-| 594 | 63 | Kiersty Redder |
-| 595 | 63 | Swanky Fitline |
+| 584 | 65 | Swanky Fitline |
+| 585 | 65 | Belinda Head |
+| 586 | 65 | meg |
+| 587 | 65 | Coleen Yoder |
+| 588 | 65 | Cool Patternbuilder |
+| 589 | 65 | Sarah Louise Cobb |
+| 590 | 64 | Matt Wylie |
+| 591 | 64 | Lee Leonard |
+| 592 | 64 | Jolly Builderpiece |
+| 593 | 64 | Martha Lynn Wiggins |
+| 594 | 64 | Tammy Botkin |
+| 595 | 63 | Kiersty Redder |
 | 596 | 63 | Julibeth Wells |
 | 597 | 63 | Nicole Ashbaugh |
 | 598 | 63 | Queen |
@@ -1289,122 +1289,122 @@
 | 1281 | 12 | Haneef Akram |
 | 1282 | 12 | Quirky Brickroll |
 | 1283 | 12 | Lu Wallace |
-| 1284 | 12 | Redangel |
-| 1285 | 12 | Ashley Shazes |
-| 1286 | 12 | Mary |
-| 1287 | 12 | Jay King |
+| 1284 | 12 | Mary |
+| 1285 | 12 | Jay King |
+| 1286 | 12 | Ashley Shazes |
+| 1287 | 12 | Redangel |
 | 1288 | 12 | Samantha Morrison |
-| 1289 | 11 | Curley natioN |
-| 1290 | 11 | Purpleroyalty11 |
-| 1291 | 11 | Dandy Matchzone |
-| 1292 | 11 | Patty Smith |
-| 1293 | 11 | Mrs biotch |
-| 1294 | 11 | Cindy Brown |
+| 1289 | 11 | Jumpy Linkroll |
+| 1290 | 11 | Mrs biotch |
+| 1291 | 11 | Patty Smith |
+| 1292 | 11 | Dandy Matchzone |
+| 1293 | 11 | Cindy Brown |
+| 1294 | 11 | Foc |
 | 1295 | 11 | Merine Mott |
 | 1296 | 11 | Jeffrey Smith |
-| 1297 | 11 | Jumpy Linkroll |
-| 1298 | 11 | Robert E Tracy |
-| 1299 | 11 | Foc |
+| 1297 | 11 | Purpleroyalty11 |
+| 1298 | 11 | Curley natioN |
+| 1299 | 11 | Robert E Tracy |
 | 1300 | 11 | Snappy Matchgrid |
-| 1301 | 10 | Aislinn Lowe |
-| 1302 | 10 | Ashley Bryant-hatcher |
-| 1303 | 10 | David Starmer |
-| 1304 | 10 | Donna Casey |
-| 1305 | 10 | Bold Blockline |
-| 1306 | 10 | Jami Borges |
-| 1307 | 10 | Goofy Shatterbuilder |
-| 1308 | 10 | Chipper Zigzag |
-| 1309 | 10 | Crafty Combo |
-| 1310 | 10 | Melissa Aycock |
-| 1311 | 10 | Aguilar Rita |
-| 1312 | 10 | Rachelle Parker |
-| 1313 | 10 | Daily Findery |
-| 1314 | 10 | Dhelsie Qurasima |
-| 1315 | 10 | Dandy Fill |
-| 1316 | 10 | Lisa Schwobe |
-| 1317 | 10 | Mike Clements |
-| 1318 | 10 | Cardisa Hall |
-| 1319 | 10 | foxxiebby |
-| 1320 | 10 | Lacey Johnson |
-| 1321 | 10 | Amanda Kennedy |
-| 1322 | 10 | LivePhoenix |
-| 1323 | 10 | Erin Marie Smith |
-| 1324 | 10 | Angiela Hope Boggs |
-| 1325 | 10 | Rachel Switala |
-| 1326 | 10 | Melanie Hernandez |
-| 1327 | 10 | Amanda Fields |
+| 1301 | 10 | Lacey Johnson |
+| 1302 | 10 | Cardisa Hall |
+| 1303 | 10 | Mike Clements |
+| 1304 | 10 | foxxiebby |
+| 1305 | 10 | Rachel Switala |
+| 1306 | 10 | Rachelle Parker |
+| 1307 | 10 | Dandy Fill |
+| 1308 | 10 | Dhelsie Qurasima |
+| 1309 | 10 | Daily Findery |
+| 1310 | 10 | Aguilar Rita |
+| 1311 | 10 | Melissa Aycock |
+| 1312 | 10 | Goofy Shatterbuilder |
+| 1313 | 10 | David Starmer |
+| 1314 | 10 | Ashley Bryant-hatcher |
+| 1315 | 10 | Crafty Combo |
+| 1316 | 10 | Danh Nguyen |
+| 1317 | 10 | Celeste Duet |
+| 1318 | 10 | Zesty Dash |
+| 1319 | 10 | FinnsDad |
+| 1320 | 10 | Stacy Lynn |
+| 1321 | 10 | TyShantelle |
+| 1322 | 10 | Emma Danielle Wynn |
+| 1323 | 10 | Rob Phillips |
+| 1324 | 10 | Tracy Coe |
+| 1325 | 10 | Amanda Kennedy |
+| 1326 | 10 | Chipper Zigzag |
+| 1327 | 10 | Angiela Hope Boggs |
 | 1328 | 10 | Elnaz Mokleh |
-| 1329 | 10 | Rick Green |
-| 1330 | 10 | Loriane Shumate Griggs |
-| 1331 | 10 | Jennifer Chapel |
-| 1332 | 10 | Danh Nguyen |
-| 1333 | 10 | Jay Theriault |
-| 1334 | 10 | Justin Furne |
-| 1335 | 10 | Sam Schwieso |
-| 1336 | 10 | Crystal Owen Yocolano |
-| 1337 | 10 | TaLana Ortley |
-| 1338 | 10 | Witty Matchfit |
-| 1339 | 10 | Amanda |
-| 1340 | 10 | FinnsDad |
-| 1341 | 10 | Dawnie Rodarte |
-| 1342 | 10 | Mitsy Lang |
-| 1343 | 10 | Zesty Dash |
-| 1344 | 10 | Randy Clevenger |
-| 1345 | 10 | Celeste Duet |
-| 1346 | 10 | Tracy Coe |
-| 1347 | 10 | Jennifer Gould |
-| 1348 | 10 | Frothy Line |
-| 1349 | 10 | Jennifer Bell |
-| 1350 | 10 | Steve Appel |
-| 1351 | 10 | Twisty Snapclear |
-| 1352 | 10 | Ducky West |
-| 1353 | 10 | TyShantelle |
-| 1354 | 10 | Stacy Lynn |
-| 1355 | 10 | Berta Hurley |
-| 1356 | 10 | Rob Phillips |
-| 1357 | 10 | Emma Danielle Wynn |
-| 1358 | 10 | Happy Riseclear |
-| 1359 | 10 | Sharon Wade |
-| 1360 | 10 | Joe Duffer |
-| 1361 | 9 | Giggly Spinblock |
-| 1362 | 9 | Jeff Mullins |
-| 1363 | 9 | Kylee Pruitt |
-| 1364 | 9 | Tabitha Porter |
-| 1365 | 9 | Erica |
-| 1366 | 9 | Lindsey Butler |
-| 1367 | 9 | Dapper Corner |
-| 1368 | 9 | Latrell Thomas |
-| 1369 | 9 | Holly |
-| 1370 | 9 | Terri Ramsey |
-| 1371 | 9 | Frothy Cascader |
-| 1372 | 9 | April Wright |
-| 1373 | 9 | Snazzy Cascadezone |
-| 1374 | 9 | Cheery Striker |
-| 1375 | 9 | Miguel360 |
-| 1376 | 9 | Gigi |
-| 1377 | 9 | Bethany Gerber |
-| 1378 | 9 | Andrea |
-| 1379 | 8 | Jumpy Twistslam |
+| 1329 | 10 | Amanda Fields |
+| 1330 | 10 | Melanie Hernandez |
+| 1331 | 10 | Donna Casey |
+| 1332 | 10 | Erin Marie Smith |
+| 1333 | 10 | LivePhoenix |
+| 1334 | 10 | Berta Hurley |
+| 1335 | 10 | Justin Furne |
+| 1336 | 10 | Sam Schwieso |
+| 1337 | 10 | Jay Theriault |
+| 1338 | 10 | Crystal Owen Yocolano |
+| 1339 | 10 | TaLana Ortley |
+| 1340 | 10 | Jennifer Chapel |
+| 1341 | 10 | Witty Matchfit |
+| 1342 | 10 | Rick Green |
+| 1343 | 10 | Aislinn Lowe |
+| 1344 | 10 | Amanda |
+| 1345 | 10 | Joe Duffer |
+| 1346 | 10 | Sharon Wade |
+| 1347 | 10 | Happy Riseclear |
+| 1348 | 10 | Dawnie Rodarte |
+| 1349 | 10 | Mitsy Lang |
+| 1350 | 10 | Ducky West |
+| 1351 | 10 | Bold Blockline |
+| 1352 | 10 | Twisty Snapclear |
+| 1353 | 10 | Steve Appel |
+| 1354 | 10 | Lisa Schwobe |
+| 1355 | 10 | Jennifer Bell |
+| 1356 | 10 | Frothy Line |
+| 1357 | 10 | Jennifer Gould |
+| 1358 | 10 | Loriane Shumate Griggs |
+| 1359 | 10 | Randy Clevenger |
+| 1360 | 10 | Jami Borges |
+| 1361 | 9 | Tabitha Porter |
+| 1362 | 9 | Lindsey Butler |
+| 1363 | 9 | Jeff Mullins |
+| 1364 | 9 | Erica |
+| 1365 | 9 | Maureen Bryan Adams |
+| 1366 | 9 | Dapper Corner |
+| 1367 | 9 | Bethany Gerber |
+| 1368 | 9 | Giggly Spinblock |
+| 1369 | 9 | Latrell Thomas |
+| 1370 | 9 | Andrea |
+| 1371 | 9 | Kylee Pruitt |
+| 1372 | 9 | Holly |
+| 1373 | 9 | Gigi |
+| 1374 | 9 | Terri Ramsey |
+| 1375 | 9 | Frothy Cascader |
+| 1376 | 9 | April Wright |
+| 1377 | 9 | Snazzy Cascadezone |
+| 1378 | 9 | Miguel360 |
+| 1379 | 9 | Cheery Striker |
 | 1380 | 8 | Loony Ziggy |
-| 1381 | 8 | Kennadee Albertson |
-| 1382 | 8 | Sarah Elizabeth Foret |
-| 1383 | 8 | Tina Doyens Munis |
-| 1384 | 8 | Zippy Balance |
-| 1385 | 8 | Mariah Mandel |
-| 1386 | 8 | Alisha Shelton |
-| 1387 | 8 | Beth Engberg |
-| 1388 | 8 | Funky Slide |
-| 1389 | 8 | Jackie Hayslip |
-| 1390 | 8 | Jeannine Murphy |
-| 1391 | 8 | Angela Oates-Killebrew |
-| 1392 | 8 | Crystal Alexander |
-| 1393 | 8 | Jenna Thorn |
-| 1394 | 8 | Maureen Bryan Adams |
+| 1381 | 8 | Jumpy Twistslam |
+| 1382 | 8 | Kennadee Albertson |
+| 1383 | 8 | Sarah Elizabeth Foret |
+| 1384 | 8 | Tina Doyens Munis |
+| 1385 | 8 | Zippy Balance |
+| 1386 | 8 | Mariah Mandel |
+| 1387 | 8 | Alisha Shelton |
+| 1388 | 8 | Beth Engberg |
+| 1389 | 8 | Funky Slide |
+| 1390 | 8 | Jackie Hayslip |
+| 1391 | 8 | Jeannine Murphy |
+| 1392 | 8 | Angela Oates-Killebrew |
+| 1393 | 8 | Crystal Alexander |
+| 1394 | 8 | Jenna Thorn |
 | 1395 | 7 | Holly Riley |
-| 1396 | 7 | Crystal King |
-| 1397 | 7 | Steven Desmon Thompson |
-| 1398 | 7 | Elizabeth Elaine Coursey |
-| 1399 | 7 | michael |
+| 1396 | 7 | Steven Desmon Thompson |
+| 1397 | 7 | Elizabeth Elaine Coursey |
+| 1398 | 7 | michael |
+| 1399 | 7 | Crystal King |
 | 1400 | 7 | Sasha Hamilton |
 | 1401 | 7 | Kyle |
 | 1402 | 7 | Rochelle O'Loughlin |
