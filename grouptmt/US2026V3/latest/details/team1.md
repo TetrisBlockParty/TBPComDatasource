@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 15:30:39 UTC
+# Standings for team1 as of 2026-06-06 15:31:18 UTC
 
 **Total Participants:** 1043
 
@@ -55,7 +55,7 @@
 | 47 | 719 | Linzie Marie |
 | 48 | 675 | Corey Cawthon |
 | 49 | 670 | Jaida King |
-| 50 | 607 | Lisa Müller |
+| 50 | 610 | Lisa Müller |
 | 51 | 605 | JoJo |
 | 52 | 598 | Ivana Schmidt |
 | 53 | 580 | Janet Cooke |
@@ -65,10 +65,10 @@
 | 57 | 511 | Dizzy Dropper |
 | 58 | 502 | Tiana Moore |
 | 59 | 493 | Eartha Brown |
-| 60 | 489 | Carolynne Walker-Bell |
-| 61 | 484 | Andi McGreevy |
-| 62 | 482 | Cj Gorman |
-| 63 | 479 | COSA303 |
+| 60 | 489 | COSA303 |
+| 61 | 489 | Carolynne Walker-Bell |
+| 62 | 484 | Andi McGreevy |
+| 63 | 482 | Cj Gorman |
 | 64 | 474 | Keeta Chickswit Scott |
 | 65 | 471 | D'Andra Stewart |
 | 66 | 454 | DaVonte' Cretter |
@@ -141,27 +141,27 @@
 | 133 | 212 | Nobles Brandon |
 | 134 | 209 | Zachary Colegrove |
 | 135 | 208 | Mic Balew |
-| 136 | 206 | Weeze |
-| 137 | 206 | Curtis T Cirno |
-| 138 | 204 | David Fuentes |
-| 139 | 200 | Felicia Cain |
-| 140 | 199 | Teddy Davis |
-| 141 | 199 | Asani CHumba |
-| 142 | 198 | W.A. Simpson |
-| 143 | 197 | BYM4L |
-| 144 | 196 | Eugina Slater |
-| 145 | 195 | Christian Pham |
-| 146 | 194 | Daris Swearington |
-| 147 | 193 | Brave Clearbuilder |
-| 148 | 191 | Lashaunda |
-| 149 | 191 | Kelli Couture |
-| 150 | 190 | Davionte DaeDae Hopson-Rodriguez |
-| 151 | 186 | Denise B |
-| 152 | 184 | Dai Bo |
-| 153 | 182 | Hyper Blocky |
-| 154 | 179 | ♈️ Ariesbaby |
-| 155 | 179 | Amber Wilson |
-| 156 | 177 | Devin West |
+| 136 | 206 | Curtis T Cirno |
+| 137 | 206 | Weeze |
+| 138 | 204 | Devin West |
+| 139 | 204 | David Fuentes |
+| 140 | 200 | Felicia Cain |
+| 141 | 199 | Teddy Davis |
+| 142 | 199 | Asani CHumba |
+| 143 | 198 | W.A. Simpson |
+| 144 | 197 | BYM4L |
+| 145 | 196 | Eugina Slater |
+| 146 | 195 | Christian Pham |
+| 147 | 194 | Daris Swearington |
+| 148 | 193 | Brave Clearbuilder |
+| 149 | 191 | Lashaunda |
+| 150 | 191 | Kelli Couture |
+| 151 | 190 | Davionte DaeDae Hopson-Rodriguez |
+| 152 | 186 | Denise B |
+| 153 | 184 | Dai Bo |
+| 154 | 182 | Hyper Blocky |
+| 155 | 179 | ♈️ Ariesbaby |
+| 156 | 179 | Amber Wilson |
 | 157 | 176 | Andre Sanon |
 | 158 | 176 | Anthony Washington |
 | 159 | 176 | Nikki Hogan |
@@ -175,11 +175,11 @@
 | 167 | 164 | Cathy Young |
 | 168 | 163 | Mafio SO |
 | 169 | 160 | Chilly Wipebuilder |
-| 170 | 160 | Sara Meri |
-| 171 | 160 | Zippy Lifter |
+| 170 | 160 | Tishauna Virgo |
+| 171 | 160 | Sara Meri |
 | 172 | 160 | DaGuy |
-| 173 | 160 | Tishauna Virgo |
-| 174 | 160 | Carolyn Smith |
+| 173 | 160 | Carolyn Smith |
+| 174 | 160 | Zippy Lifter |
 | 175 | 160 | Jamie Willis |
 | 176 | 159 | Fina McKinnis |
 | 177 | 158 | Tina Mitchell |
@@ -187,16 +187,16 @@
 | 179 | 149 | Lively Riserpiece |
 | 180 | 149 | Cee Emm |
 | 181 | 147 | MACHETEEDDIE513 |
-| 182 | 146 | BlackQueen105 |
-| 183 | 146 | Jai |
-| 184 | 146 | IThinkNot |
+| 182 | 146 | IThinkNot |
+| 183 | 146 | BlackQueen105 |
+| 184 | 146 | Jai |
 | 185 | 145 | Latisha Fairley |
 | 186 | 143 | BULLSEYE |
 | 187 | 143 | Sammie Walker |
 | 188 | 142 | Mikayla |
 | 189 | 141 | Shalena Marie Humphrey |
-| 190 | 140 | Antoinette Jones |
-| 191 | 140 | Ann Chung |
+| 190 | 140 | Ann Chung |
+| 191 | 140 | Antoinette Jones |
 | 192 | 139 | TBABYJ |
 | 193 | 138 | JaClanDiah |
 | 194 | 137 | Cheeky Pop |
@@ -205,12 +205,12 @@
 | 197 | 135 | Sean White |
 | 198 | 135 | Dawn L Washington-Feuquay |
 | 199 | 133 | Ebony Waynes-robinson |
-| 200 | 133 | Robbie Cheeseman |
-| 201 | 133 | Byron Mario Cawthon |
+| 200 | 133 | Byron Mario Cawthon |
+| 201 | 133 | Robbie Cheeseman |
 | 202 | 132 | Jolly Tilefall |
-| 203 | 130 | Rolanda Williams |
-| 204 | 130 | Jessica Davis |
-| 205 | 130 | Dion Gray |
+| 203 | 130 | Dion Gray |
+| 204 | 130 | Rolanda Williams |
+| 205 | 130 | Jessica Davis |
 | 206 | 130 | Emily Wright |
 | 207 | 128 | Kimberly Linares Hernandez |
 | 208 | 127 | Cheeky Twistpiece |
