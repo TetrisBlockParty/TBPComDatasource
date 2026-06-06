@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 19:22:19 UTC
+# Standings for team2 as of 2026-06-06 19:22:39 UTC
 
 **Total Participants:** 1336
 
@@ -141,11 +141,11 @@
 | 133 | 302 | Hypee |
 | 134 | 300 | Linda Guay |
 | 135 | 298 | Breeana Bennett |
-| 136 | 294 | Vistabrat |
-| 137 | 293 | Snappy Combo |
-| 138 | 292 | Suki Jacobs |
-| 139 | 288 | Pooh |
-| 140 | 288 | Zarah Kettler |
+| 136 | 298 | Zarah Kettler |
+| 137 | 294 | Vistabrat |
+| 138 | 293 | Snappy Combo |
+| 139 | 292 | Suki Jacobs |
+| 140 | 288 | Pooh |
 | 141 | 287 | Flashy Twistline |
 | 142 | 286 | James Ward |
 | 143 | 286 | Heather Burgett |
@@ -790,51 +790,51 @@
 | 782 | 39 | Alexis Meyers |
 | 783 | 38 | Perky Patternbuilder |
 | 784 | 38 | murd3rmous3 |
-| 785 | 38 | Epic Slice |
-| 786 | 38 | Laura Anderson |
-| 787 | 38 | Elise Marie Mireles |
-| 788 | 38 | Lisa Chapman |
-| 789 | 37 | Clever Linkbuilder |
+| 785 | 38 | Pamela Gambrell |
+| 786 | 38 | Epic Slice |
+| 787 | 38 | Laura Anderson |
+| 788 | 38 | Elise Marie Mireles |
+| 789 | 38 | Lisa Chapman |
 | 790 | 37 | Brooke Allred |
 | 791 | 37 | Josh Vietz |
-| 792 | 37 | Kelli Pazour |
-| 793 | 37 | Leon Welch |
-| 794 | 37 | Tiffany Powell |
-| 795 | 37 | Tracy Lee |
-| 796 | 37 | Suzee |
-| 797 | 36 | Nicole Suber |
-| 798 | 36 | Deborah Lint Odom |
-| 799 | 36 | Lazy Staggerpiece |
-| 800 | 36 | Kathryn |
-| 801 | 36 | Bobbie Carrol |
-| 802 | 36 | James Brown |
-| 803 | 36 | Eugene Clawson |
-| 804 | 36 | Slinky Linkgrid |
-| 805 | 36 | Debra Patten |
-| 806 | 36 | Christina Hanson |
-| 807 | 36 | Amanda Stanley |
-| 808 | 36 | Michelle Arnold |
-| 809 | 36 | Stacey Loretta Wallace |
-| 810 | 35 | Jessica Jones |
-| 811 | 35 | Snazzy Clusterfit |
-| 812 | 35 | Signerlisa |
-| 813 | 35 | Jeremy Daurbigny |
-| 814 | 35 | Thomas Johnstone |
-| 815 | 35 | Frilly Dashfit |
-| 816 | 35 | Raffa |
-| 817 | 35 | Josie Mendivil |
-| 818 | 35 | Pamela Gambrell |
-| 819 | 35 | Isiwin |
-| 820 | 35 | Jack |
-| 821 | 35 | blockrocker |
+| 792 | 37 | Tracy Lee |
+| 793 | 37 | Kelli Pazour |
+| 794 | 37 | Clever Linkbuilder |
+| 795 | 37 | Suzee |
+| 796 | 37 | Leon Welch |
+| 797 | 37 | Tiffany Powell |
+| 798 | 36 | Stacey Loretta Wallace |
+| 799 | 36 | Kathryn |
+| 800 | 36 | James Brown |
+| 801 | 36 | Nicole Suber |
+| 802 | 36 | Slinky Linkgrid |
+| 803 | 36 | Debra Patten |
+| 804 | 36 | Amanda Stanley |
+| 805 | 36 | Eugene Clawson |
+| 806 | 36 | Deborah Lint Odom |
+| 807 | 36 | Michelle Arnold |
+| 808 | 36 | Bobbie Carrol |
+| 809 | 36 | Christina Hanson |
+| 810 | 36 | Lazy Staggerpiece |
+| 811 | 35 | Frilly Dashfit |
+| 812 | 35 | Jessica Jones |
+| 813 | 35 | blockrocker |
+| 814 | 35 | Signerlisa |
+| 815 | 35 | Jeremy Daurbigny |
+| 816 | 35 | Snazzy Clusterfit |
+| 817 | 35 | Raffa |
+| 818 | 35 | Thomas Johnstone |
+| 819 | 35 | Josie Mendivil |
+| 820 | 35 | Isiwin |
+| 821 | 35 | Jack |
 | 822 | 34 | Nina-Christina Cusyck |
-| 823 | 34 | mee |
-| 824 | 34 | Auntie YaYa |
-| 825 | 34 | Shanetta Johnson |
-| 826 | 34 | Mouh Med |
-| 827 | 34 | Spencer Ryder |
-| 828 | 34 | Marlo Perry |
-| 829 | 34 | Talyn Domingues |
+| 823 | 34 | Talyn Domingues |
+| 824 | 34 | Mouh Med |
+| 825 | 34 | Auntie YaYa |
+| 826 | 34 | mee |
+| 827 | 34 | Marlo Perry |
+| 828 | 34 | Shanetta Johnson |
+| 829 | 34 | Spencer Ryder |
 | 830 | 33 | Jolly Brickroll |
 | 831 | 33 | Corina Marie Prunty |
 | 832 | 33 | Rachel Huber |

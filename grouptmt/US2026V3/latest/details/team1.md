@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 19:22:19 UTC
+# Standings for team1 as of 2026-06-06 19:22:39 UTC
 
 **Total Participants:** 1124
 
@@ -15,9 +15,9 @@
 | 7 | 5141 | Charnay Peacock |
 | 8 | 5000 | Tyeina Johnson |
 | 9 | 4901 | Dyane Leah Ware |
-| 10 | 4511 | Timothy Robert |
-| 11 | 4339 | Carrie English |
-| 12 | 3436 | Hunter Rayborn |
+| 10 | 4634 | Hunter Rayborn |
+| 11 | 4511 | Timothy Robert |
+| 12 | 4339 | Carrie English |
 | 13 | 3411 | Charlie Roehm |
 | 14 | 3075 | Debbie Carswell |
 | 15 | 3039 | Chummy Combo |
@@ -210,12 +210,12 @@
 | 202 | 160 | Jamie Willis |
 | 203 | 160 | Zippy Lifter |
 | 204 | 159 | Fina McKinnis |
-| 205 | 157 | Kimberly Linares Hernandez |
-| 206 | 156 | Jessica Russell |
-| 207 | 156 | Cheeky Pop |
-| 208 | 153 | Rackemwillie34 |
-| 209 | 152 | Jolly Tilefall |
-| 210 | 151 | Byron Mario Cawthon |
+| 205 | 158 | Byron Mario Cawthon |
+| 206 | 157 | Kimberly Linares Hernandez |
+| 207 | 156 | Jessica Russell |
+| 208 | 156 | Cheeky Pop |
+| 209 | 153 | Rackemwillie34 |
+| 210 | 152 | Jolly Tilefall |
 | 211 | 149 | Mikayla |
 | 212 | 149 | Lively Riserpiece |
 | 213 | 148 | Cheeky Twistpiece |
@@ -432,10 +432,10 @@
 | 424 | 67 | Johnathan Deese |
 | 425 | 67 | Ta'Kaiyah M. Spann |
 | 426 | 67 | Nikkizz |
-| 427 | 66 | GracefulOwl808 |
-| 428 | 66 | Just2Play$ |
-| 429 | 65 | Sabrina Wilkerson |
-| 430 | 65 | Tweet Turner |
+| 427 | 66 | Tweet Turner |
+| 428 | 66 | GracefulOwl808 |
+| 429 | 66 | Just2Play$ |
+| 430 | 65 | Sabrina Wilkerson |
 | 431 | 65 | Wayne Savannah |
 | 432 | 65 | Erica Charlise |
 | 433 | 65 | Perky Pusher |
