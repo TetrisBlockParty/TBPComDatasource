@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 07:58:16 UTC
+# Standings for team4 as of 2026-06-06 07:58:39 UTC
 
 **Total Participants:** 884
 
@@ -60,8 +60,8 @@
 | 52 | 460 | Tiffany Loree Tiffany Oneill |
 | 53 | 458 | vag1974 |
 | 54 | 440 | Jewelz |
-| 55 | 419 | Sweet Stacker |
-| 56 | 419 | Caitlyn Wang |
+| 55 | 419 | Caitlyn Wang |
+| 56 | 419 | Sweet Stacker |
 | 57 | 405 | Jonathan Hewitt |
 | 58 | 402 | Nick Graber |
 | 59 | 400 | Amber Doyle |
@@ -106,9 +106,9 @@
 | 98 | 197 | Slimm |
 | 99 | 195 | Sean Mccleary |
 | 100 | 194 | Lisa lisa |
-| 101 | 194 | Chiquita Blue |
-| 102 | 193 | Tiffany Bunker-Hill |
-| 103 | 192 | Debby Ruof |
+| 101 | 194 | Debby Ruof |
+| 102 | 194 | Chiquita Blue |
+| 103 | 193 | Tiffany Bunker-Hill |
 | 104 | 192 | Gorica Prusina |
 | 105 | 184 | Giggly Tilt |
 | 106 | 182 | blockhead |
@@ -203,9 +203,9 @@
 | 195 | 98 | Shanna Fragen |
 | 196 | 98 | Tina Thomas |
 | 197 | 97 | Tarsha Thomas-Martinez |
-| 198 | 97 | Fancy Tilefall |
-| 199 | 96 | JuicyJuice |
-| 200 | 96 | Kelly Howland |
+| 198 | 97 | Kelly Howland |
+| 199 | 97 | Fancy Tilefall |
+| 200 | 96 | JuicyJuice |
 | 201 | 95 | Маркус Вік |
 | 202 | 94 | Slinky Stackzone |
 | 203 | 94 | Reina Pagan |
