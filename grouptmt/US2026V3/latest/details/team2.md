@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 07:28:39 UTC
+# Standings for team2 as of 2026-06-06 07:29:16 UTC
 
 **Total Participants:** 1066
 
@@ -79,7 +79,7 @@
 | 71 | 432 | Mirr Lulu |
 | 72 | 428 | Loopy Cascadepiece |
 | 73 | 425 | Amanda Sikes |
-| 74 | 408 | Andre Love |
+| 74 | 418 | Andre Love |
 | 75 | 405 | Judy Long |
 | 76 | 400 | Allie Bug |
 | 77 | 400 | Smashanator |
@@ -100,7 +100,7 @@
 | 92 | 299 | Amber Miller Wirick |
 | 93 | 294 | Vistabrat |
 | 94 | 289 | Giddy Slamdrop |
-| 95 | 282 | Le Sandy |
+| 95 | 283 | Le Sandy |
 | 96 | 280 | Mom |
 | 97 | 279 | Renee Freeman Jacobson |
 | 98 | 279 | James Ward |
@@ -151,8 +151,8 @@
 | 143 | 162 | Larry Cross |
 | 144 | 160 | Linda Guay |
 | 145 | 159 | Cara Rivera |
-| 146 | 155 | Zany Blockclear |
-| 147 | 154 | Santara Ferguson |
+| 146 | 157 | Santara Ferguson |
+| 147 | 155 | Zany Blockclear |
 | 148 | 154 | Glitzy Base |
 | 149 | 153 | Zesty Strikerbuilder |
 | 150 | 151 | Melissa Nash |
@@ -898,14 +898,14 @@
 | 890 | 13 | Denita Kaherl |
 | 891 | 13 | Angelique Matzke Starns |
 | 892 | 13 | Tara Feineis |
-| 893 | 13 | Jill Gelhausen |
-| 894 | 13 | Dreamy Wipepiece |
-| 895 | 13 | Christina Michelle Wilson |
-| 896 | 13 | Witty Clearbuilder |
-| 897 | 13 | Cristy Ayala |
-| 898 | 13 | Bad Juju |
-| 899 | 13 | bigdog |
-| 900 | 12 | Nerdy Climber |
+| 893 | 13 | bigdog |
+| 894 | 13 | Jill Gelhausen |
+| 895 | 13 | Dreamy Wipepiece |
+| 896 | 13 | Christina Michelle Wilson |
+| 897 | 13 | Witty Clearbuilder |
+| 898 | 13 | Cristy Ayala |
+| 899 | 13 | Bad Juju |
+| 900 | 13 | Nerdy Climber |
 | 901 | 12 | Samantha Morrison |
 | 902 | 12 | Mary |
 | 903 | 12 | Terie Safrit |
