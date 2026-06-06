@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 09:03:17 UTC
+# Standings for team2 as of 2026-06-06 09:04:16 UTC
 
 **Total Participants:** 1087
 
@@ -106,8 +106,8 @@
 | 98 | 303 | Jennifer Smith |
 | 99 | 300 | Wmk Rathbun |
 | 100 | 299 | Amber Miller Wirick |
-| 101 | 294 | Vistabrat |
-| 102 | 293 | Krisanne Kesner-Lonsby |
+| 101 | 297 | Krisanne Kesner-Lonsby |
+| 102 | 294 | Vistabrat |
 | 103 | 289 | Giddy Slamdrop |
 | 104 | 280 | Mom |
 | 105 | 279 | James Ward |
