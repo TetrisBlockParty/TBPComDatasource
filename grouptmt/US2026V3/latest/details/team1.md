@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 14:38:41 UTC
+# Standings for team1 as of 2026-06-06 14:39:16 UTC
 
 **Total Participants:** 1023
 
@@ -80,11 +80,11 @@
 | 72 | 392 | She Higgy |
 | 73 | 388 | SPNLover24 |
 | 74 | 387 | Novaa |
-| 75 | 380 | IamJust Neyamijah Washington Sr. |
-| 76 | 380 | Bre Maugh |
+| 75 | 380 | Bre Maugh |
+| 76 | 380 | IamJust Neyamijah Washington Sr. |
 | 77 | 380 | Jessica Carter |
-| 78 | 377 | JaszyBadd |
-| 79 | 377 | AF Cruz |
+| 78 | 377 | AF Cruz |
+| 79 | 377 | JaszyBadd |
 | 80 | 371 | Shell Lewis |
 | 81 | 370 | Eric Mcgaughy |
 | 82 | 365 | Sarah Marie |
@@ -98,8 +98,8 @@
 | 90 | 332 | Hyper Slamdrop |
 | 91 | 328 | Big Tina |
 | 92 | 328 | Jonathan Vee Jay |
-| 93 | 323 | Catara Renae Oliver |
-| 94 | 323 | Sheila Burnham |
+| 93 | 323 | Sheila Burnham |
+| 94 | 323 | Catara Renae Oliver |
 | 95 | 319 | GrkGdess |
 | 96 | 316 | Ty Øtg |
 | 97 | 305 | John Staub |
@@ -108,37 +108,37 @@
 | 100 | 289 | Jason Mungin |
 | 101 | 288 | Chenell Gillard |
 | 102 | 278 | Shontanese Adams |
-| 103 | 275 | Jawaun Daniels |
-| 104 | 275 | Chris Sladoje |
+| 103 | 275 | Chris Sladoje |
+| 104 | 275 | Jawaun Daniels |
 | 105 | 274 | Tammye Turner |
 | 106 | 273 | MamaBear |
 | 107 | 268 | Dee McCool |
-| 108 | 261 | Ashley MyBeauty Daniels |
-| 109 | 257 | Mimi 1.0 |
-| 110 | 256 | Cortaz Lawrie |
-| 111 | 255 | Tamara N Lee |
-| 112 | 251 | Helen Smith |
-| 113 | 246 | Alana Renee |
-| 114 | 244 | Jaida De'Anne Cox |
-| 115 | 240 | Rayya Kiser |
-| 116 | 237 | Leebo Slice |
-| 117 | 232 | Gael Quintana |
-| 118 | 230 | Jamal Itzjusmall Chambers |
-| 119 | 227 | Chantelle Lee |
-| 120 | 225 | Rhonda Williams Warner |
-| 121 | 221 | Allison Baxter |
-| 122 | 220 | Dacia Hicks |
-| 123 | 220 | Joey Albright |
-| 124 | 216 | Moomoo |
-| 125 | 216 | Nerdy Snapfall |
+| 108 | 262 | Gael Quintana |
+| 109 | 261 | Ashley MyBeauty Daniels |
+| 110 | 257 | Mimi 1.0 |
+| 111 | 256 | Cortaz Lawrie |
+| 112 | 255 | Tamara N Lee |
+| 113 | 251 | Helen Smith |
+| 114 | 250 | Joey Albright |
+| 115 | 246 | Alana Renee |
+| 116 | 244 | Jaida De'Anne Cox |
+| 117 | 240 | Rayya Kiser |
+| 118 | 237 | Leebo Slice |
+| 119 | 230 | Jamal Itzjusmall Chambers |
+| 120 | 227 | Chantelle Lee |
+| 121 | 225 | Rhonda Williams Warner |
+| 122 | 221 | Allison Baxter |
+| 123 | 220 | Dacia Hicks |
+| 124 | 216 | Nerdy Snapfall |
+| 125 | 216 | Moomoo |
 | 126 | 215 | Abraham Espaillat |
-| 127 | 214 | Po Marley |
-| 128 | 214 | Tonya McElroy |
+| 127 | 214 | Tonya McElroy |
+| 128 | 214 | Po Marley |
 | 129 | 212 | Nobles Brandon |
 | 130 | 209 | Zachary Colegrove |
 | 131 | 208 | Mic Balew |
-| 132 | 206 | Weeze |
-| 133 | 206 | Curtis T Cirno |
+| 132 | 206 | Curtis T Cirno |
+| 133 | 206 | Weeze |
 | 134 | 204 | David Fuentes |
 | 135 | 200 | Felicia Cain |
 | 136 | 199 | Teddy Davis |
@@ -1003,30 +1003,30 @@
 | 995 | 6 | Daring Riserfit |
 | 996 | 6 | Frances Davis |
 | 997 | 6 | NEM0228 |
-| 998 | 6 | Wu May |
-| 999 | 6 | smash56! |
-| 1000 | 6 | CK |
-| 1001 | 6 | S.S |
-| 1002 | 6 | Desi Guerra |
-| 1003 | 5 | Derek Beverly |
-| 1004 | 5 | Zesty Clearer |
-| 1005 | 5 | DRIFTER |
+| 998 | 6 | Kidgib5 |
+| 999 | 6 | Wu May |
+| 1000 | 6 | smash56! |
+| 1001 | 6 | CK |
+| 1002 | 6 | S.S |
+| 1003 | 6 | Desi Guerra |
+| 1004 | 5 | Derek Beverly |
+| 1005 | 5 | Zesty Clearer |
 | 1006 | 5 | Zappy Clearfit |
 | 1007 | 5 | Tito Divyn |
-| 1008 | 5 | Duckey |
-| 1009 | 5 | Rieshelda Marie White |
-| 1010 | 5 | EvaLynn NeCole |
-| 1011 | 5 | Temeshia Brooks Washington |
-| 1012 | 5 | Marissa Sweet |
-| 1013 | 5 | Happy |
-| 1014 | 5 | VERA DAME |
-| 1015 | 5 | Tipsy Builderline |
-| 1016 | 5 | Annette DeLoatch Thompson |
-| 1017 | 5 | Stephanie Zuniga Tullock |
-| 1018 | 5 | the guy |
-| 1019 | 5 | Chill Linkroll |
-| 1020 | 5 | Mario Meliodas |
-| 1021 | 5 | Kidgib5 |
+| 1008 | 5 | DRIFTER |
+| 1009 | 5 | Duckey |
+| 1010 | 5 | Rieshelda Marie White |
+| 1011 | 5 | EvaLynn NeCole |
+| 1012 | 5 | Temeshia Brooks Washington |
+| 1013 | 5 | Marissa Sweet |
+| 1014 | 5 | Happy |
+| 1015 | 5 | VERA DAME |
+| 1016 | 5 | Tipsy Builderline |
+| 1017 | 5 | Annette DeLoatch Thompson |
+| 1018 | 5 | Stephanie Zuniga Tullock |
+| 1019 | 5 | the guy |
+| 1020 | 5 | Chill Linkroll |
+| 1021 | 5 | Mario Meliodas |
 | 1022 | 5 | Jennifer Moore |
 | 1023 | 5 | Aanngie Aanngie |
 
