@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 15:00:38 UTC
+# Standings for team1 as of 2026-06-06 15:01:16 UTC
 
 **Total Participants:** 1031
 
@@ -868,175 +868,175 @@
 | 860 | 15 | Haley Bell |
 | 861 | 15 | Spunky Strikerbuilder |
 | 862 | 15 | Laura Long |
-| 863 | 15 | Bri Lou |
-| 864 | 15 | Nicole Freeman |
-| 865 | 15 | Cheery Clusterbuilder |
-| 866 | 15 | Christian Whittaker |
-| 867 | 15 | Damien Mathews |
-| 868 | 15 | Jonathan Zold |
-| 869 | 15 | Chasem45 |
-| 870 | 15 | Shamara Thurston |
-| 871 | 15 | Hasty Match |
+| 863 | 15 | Nicole Freeman |
+| 864 | 15 | Victor |
+| 865 | 15 | MonaSparks |
+| 866 | 15 | Cheery Clusterbuilder |
+| 867 | 15 | Dede Tate |
+| 868 | 15 | Nedine Ray |
+| 869 | 15 | Tami Spence |
+| 870 | 15 | Hasty Match |
+| 871 | 15 | Shamara Thurston |
 | 872 | 15 | Sara |
-| 873 | 15 | Tami Spence |
-| 874 | 15 | Lit757 |
-| 875 | 15 | Nedine Ray |
-| 876 | 15 | Dede Tate |
-| 877 | 15 | MonaSparks |
-| 878 | 15 | Victor |
-| 879 | 15 | Motown Chuck |
-| 880 | 15 | b |
+| 873 | 15 | Chasem45 |
+| 874 | 15 | Motown Chuck |
+| 875 | 15 | b |
+| 876 | 15 | Lit757 |
+| 877 | 15 | Jonathan Zold |
+| 878 | 15 | Damien Mathews |
+| 879 | 15 | Christian Whittaker |
+| 880 | 15 | Bri Lou |
 | 881 | 14 | Zany Pivot |
-| 882 | 14 | Dymond |
-| 883 | 14 | Tez Mays |
+| 882 | 14 | Tez Mays |
+| 883 | 14 | Dymond |
 | 884 | 14 | Nerdy Curvetile |
-| 885 | 14 | Nichole Horsley-Conn |
-| 886 | 14 | Jazzy |
-| 887 | 14 | Lynn |
-| 888 | 14 | Aaron Hartmann |
-| 889 | 14 | Kenny 'Tailormade' Boyd |
+| 885 | 14 | Lynn |
+| 886 | 14 | Aaron Hartmann |
+| 887 | 14 | MoneyMac |
+| 888 | 14 | Stanley Dixon |
+| 889 | 14 | TBabii24 |
 | 890 | 14 | Jerrone Epps |
-| 891 | 14 | Stanley Dixon |
-| 892 | 14 | TBabii24 |
-| 893 | 14 | MoneyMac |
-| 894 | 13 | Seirra Robinson |
-| 895 | 13 | Daphne Ceasar |
-| 896 | 13 | Hoppy Rumbler |
-| 897 | 13 | PuddenPop |
-| 898 | 13 | Leah Ingram |
-| 899 | 13 | Emma Adams |
-| 900 | 13 | Jumpy Striker |
-| 901 | 13 | John Spath |
-| 902 | 13 | Sarah Barnum |
-| 903 | 13 | Erica Campbell-Stillings |
-| 904 | 12 | Mike Hromowyk |
-| 905 | 12 | Silly Spinblock |
-| 906 | 12 | Sarah Jones |
-| 907 | 12 | Outspoken Sirchristopher |
-| 908 | 12 | Heather Cross-Davis |
-| 909 | 12 | Jovy |
-| 910 | 12 | Lillie Blossom Dixon |
-| 911 | 12 | Joseph Ware Jr. |
-| 912 | 12 | Abdul Malik |
-| 913 | 12 | BigDawg Lessley |
-| 914 | 12 | Cameo Tweed |
-| 915 | 12 | Dora Greer |
-| 916 | 12 | BigMike |
-| 917 | 12 | Michael Jones |
-| 918 | 11 | Frilly Shatterline |
-| 919 | 11 | Groovy Climber |
-| 920 | 11 | Giddy Twistslam |
-| 921 | 11 | Jayson |
-| 922 | 11 | Boldy Zoner |
-| 923 | 11 | Ray Baker |
-| 924 | 10 | Boricua64 |
-| 925 | 10 | Tea |
-| 926 | 10 | OneBuke FollowMe |
-| 927 | 10 | Chill Curvebuilder |
-| 928 | 10 | Saucy Linkgrid |
-| 929 | 10 | Damien Fonseca |
-| 930 | 10 | Anntionette Sotire |
+| 891 | 14 | Kenny 'Tailormade' Boyd |
+| 892 | 14 | Nichole Horsley-Conn |
+| 893 | 14 | Jazzy |
+| 894 | 13 | John Spath |
+| 895 | 13 | PuddenPop |
+| 896 | 13 | Seirra Robinson |
+| 897 | 13 | Leah Ingram |
+| 898 | 13 | Jumpy Striker |
+| 899 | 13 | Erica Campbell-Stillings |
+| 900 | 13 | Sarah Barnum |
+| 901 | 13 | Hoppy Rumbler |
+| 902 | 13 | Emma Adams |
+| 903 | 13 | Daphne Ceasar |
+| 904 | 12 | Outspoken Sirchristopher |
+| 905 | 12 | Sarah Jones |
+| 906 | 12 | Michael Jones |
+| 907 | 12 | Heather Cross-Davis |
+| 908 | 12 | Abdul Malik |
+| 909 | 12 | Lillie Blossom Dixon |
+| 910 | 12 | Joseph Ware Jr. |
+| 911 | 12 | Mike Hromowyk |
+| 912 | 12 | BigDawg Lessley |
+| 913 | 12 | Cameo Tweed |
+| 914 | 12 | Silly Spinblock |
+| 915 | 12 | BigMike |
+| 916 | 12 | Jovy |
+| 917 | 12 | Dora Greer |
+| 918 | 11 | Groovy Climber |
+| 919 | 11 | Jayson |
+| 920 | 11 | Ray Baker |
+| 921 | 11 | Boldy Zoner |
+| 922 | 11 | Frilly Shatterline |
+| 923 | 11 | Giddy Twistslam |
+| 924 | 10 | Marshall Davis |
+| 925 | 10 | Mikemike Zonethree |
+| 926 | 10 | Nikiya |
+| 927 | 10 | Damien Fonseca |
+| 928 | 10 | Cornelius Neal |
+| 929 | 10 | Saucy Linkgrid |
+| 930 | 10 | Mark Steven Pichler |
 | 931 | 10 | Daring Linkfall |
-| 932 | 10 | Tynetta Scott |
-| 933 | 10 | Blaze |
-| 934 | 10 | Meeee |
-| 935 | 10 | Mark Steven Pichler |
-| 936 | 10 | Mikemike Zonethree |
-| 937 | 10 | Marshall Davis |
-| 938 | 10 | Cornelius Neal |
-| 939 | 10 | Renee Marshall |
-| 940 | 10 | Happy Blockpiece |
-| 941 | 10 | Nikiya |
-| 942 | 10 | Anthony D Holmes |
-| 943 | 10 | Wacky Riserpiece |
-| 944 | 10 | Hasty Brickzone |
+| 932 | 10 | Meeee |
+| 933 | 10 | Anthony D Holmes |
+| 934 | 10 | Upt |
+| 935 | 10 | Boricua64 |
+| 936 | 10 | Anntionette Sotire |
+| 937 | 10 | Hasty Brickzone |
+| 938 | 10 | Alisha Dawson Crouch |
+| 939 | 10 | Manda Pecora |
+| 940 | 10 | Tea |
+| 941 | 10 | Blaze |
+| 942 | 10 | OneBuke FollowMe |
+| 943 | 10 | Renee Marshall |
+| 944 | 10 | Tynetta Scott |
 | 945 | 10 | Megan Payette |
-| 946 | 10 | Nope Young |
-| 947 | 10 | Omar Dotray |
-| 948 | 10 | Willard Junior |
-| 949 | 10 | Happymama |
-| 950 | 10 | Alisha Dawson Crouch |
-| 951 | 10 | Manda Pecora |
-| 952 | 10 | Shawn Himes |
-| 953 | 10 | Upt |
-| 954 | 9 | John Lovato |
-| 955 | 9 | Noni |
-| 956 | 9 | Sherry D Singleton |
-| 957 | 9 | Dana |
-| 958 | 9 | Clifford Petroske |
-| 959 | 9 | Robyn Ellis |
-| 960 | 9 | Wacky Towerer |
-| 961 | 9 | Jasmine Hariston-Estis |
-| 962 | 9 | Brika Brika |
-| 963 | 9 | Tanesha Ga'sFinest Corbett |
-| 964 | 9 | ummm |
-| 965 | 9 | Catelyn Neal |
-| 966 | 9 | Mars |
-| 967 | 8 | Shawna Passwater |
-| 968 | 8 | Brenda Brogden |
-| 969 | 8 | jus_ry |
-| 970 | 8 | Frothy Matchpiece |
-| 971 | 8 | Nicole Coko Thomas |
-| 972 | 8 | Groovy Riseclear |
-| 973 | 8 | Macho Lewis |
+| 946 | 10 | Willard Junior |
+| 947 | 10 | Happymama |
+| 948 | 10 | Happy Blockpiece |
+| 949 | 10 | Shawn Himes |
+| 950 | 10 | Omar Dotray |
+| 951 | 10 | Wacky Riserpiece |
+| 952 | 10 | Nope Young |
+| 953 | 10 | Chill Curvebuilder |
+| 954 | 9 | Tanesha Ga'sFinest Corbett |
+| 955 | 9 | Jasmine Hariston-Estis |
+| 956 | 9 | ummm |
+| 957 | 9 | Sherry D Singleton |
+| 958 | 9 | John Lovato |
+| 959 | 9 | Brika Brika |
+| 960 | 9 | Mars |
+| 961 | 9 | Catelyn Neal |
+| 962 | 9 | Dana |
+| 963 | 9 | Clifford Petroske |
+| 964 | 9 | Wacky Towerer |
+| 965 | 9 | Noni |
+| 966 | 9 | Robyn Ellis |
+| 967 | 8 | Ferocity |
+| 968 | 8 | Chinkey Overit |
+| 969 | 8 | Teena K Macon |
+| 970 | 8 | Nicole Coko Thomas |
+| 971 | 8 | Teresa Bean |
+| 972 | 8 | Shawna Passwater |
+| 973 | 8 | Nerdy Twistline |
 | 974 | 8 | Chevonne Huggins |
-| 975 | 8 | Ferocity |
-| 976 | 8 | Rixo Blax |
-| 977 | 8 | Chinkey Overit |
-| 978 | 8 | Teena K Macon |
-| 979 | 8 | Teresa Bean |
-| 980 | 8 | Nerdy Twistline |
+| 975 | 8 | Brenda Brogden |
+| 976 | 8 | Frothy Matchpiece |
+| 977 | 8 | jus_ry |
+| 978 | 8 | Macho Lewis |
+| 979 | 8 | Groovy Riseclear |
+| 980 | 8 | Caitlin Michele |
 | 981 | 8 | Queen Baby 5 |
-| 982 | 8 | Tiffany Jean Hinson |
-| 983 | 8 | MsSassygee Boom |
-| 984 | 8 | Caitlin Michele |
-| 985 | 8 | Chill Tumbler |
-| 986 | 7 | Shane Brucewayne |
-| 987 | 7 | Milfchaser530 |
-| 988 | 7 | KingSlim82 |
-| 989 | 7 | Alanna Breitenbach |
-| 990 | 7 | whatever |
-| 991 | 7 | Analesia Taylor |
-| 992 | 7 | Andrew Harris |
-| 993 | 7 | Zachary Sinclair |
-| 994 | 7 | Teresa F. Campos Eaton |
-| 995 | 7 | Jhonny Maii |
-| 996 | 7 | Mary2 |
-| 997 | 7 | Deadra Graham |
+| 982 | 8 | Chill Tumbler |
+| 983 | 8 | Tiffany Jean Hinson |
+| 984 | 8 | Rixo Blax |
+| 985 | 8 | MsSassygee Boom |
+| 986 | 7 | Alanna Breitenbach |
+| 987 | 7 | Deadra Graham |
+| 988 | 7 | Jhonny Maii |
+| 989 | 7 | KingSlim82 |
+| 990 | 7 | Milfchaser530 |
+| 991 | 7 | Zachary Sinclair |
+| 992 | 7 | Teresa F. Campos Eaton |
+| 993 | 7 | Mary2 |
+| 994 | 7 | Analesia Taylor |
+| 995 | 7 | whatever |
+| 996 | 7 | Andrew Harris |
+| 997 | 7 | Shane Brucewayne |
 | 998 | 6 | NEM0228 |
-| 999 | 6 | S.S |
-| 1000 | 6 | Christopher Wallace |
-| 1001 | 6 | CK |
-| 1002 | 6 | Wu May |
-| 1003 | 6 | Kyshia |
-| 1004 | 6 | Anthony T. Fults |
-| 1005 | 6 | Daring Riserfit |
-| 1006 | 6 | Jennifer Diamond |
-| 1007 | 6 | smash56! |
-| 1008 | 6 | Desi Guerra |
-| 1009 | 6 | Frances Davis |
-| 1010 | 6 | Frilly Riserbuilder |
-| 1011 | 5 | Zesty Clearer |
+| 999 | 6 | Frances Davis |
+| 1000 | 6 | Jennifer Diamond |
+| 1001 | 6 | smash56! |
+| 1002 | 6 | CK |
+| 1003 | 6 | Desi Guerra |
+| 1004 | 6 | Alize |
+| 1005 | 6 | Kyshia |
+| 1006 | 6 | Wu May |
+| 1007 | 6 | Frilly Riserbuilder |
+| 1008 | 6 | Daring Riserfit |
+| 1009 | 6 | S.S |
+| 1010 | 6 | Christopher Wallace |
+| 1011 | 6 | Anthony T. Fults |
 | 1012 | 5 | DRIFTER |
-| 1013 | 5 | Rieshelda Marie White |
-| 1014 | 5 | EvaLynn NeCole |
+| 1013 | 5 | Temeshia Brooks Washington |
+| 1014 | 5 | Zesty Clearer |
 | 1015 | 5 | Stephanie Zuniga Tullock |
 | 1016 | 5 | Chill Linkroll |
-| 1017 | 5 | Derek Beverly |
+| 1017 | 5 | Zappy Clearfit |
 | 1018 | 5 | Aanngie Aanngie |
-| 1019 | 5 | Happy |
-| 1020 | 5 | Marissa Sweet |
+| 1019 | 5 | Marissa Sweet |
+| 1020 | 5 | Jennifer Moore |
 | 1021 | 5 | Tito Divyn |
-| 1022 | 5 | Zappy Clearfit |
-| 1023 | 5 | VERA DAME |
-| 1024 | 5 | Tipsy Builderline |
-| 1025 | 5 | Jennifer Moore |
-| 1026 | 5 | Alize |
+| 1022 | 5 | Duckey |
+| 1023 | 5 | EvaLynn NeCole |
+| 1024 | 5 | Rieshelda Marie White |
+| 1025 | 5 | the guy |
+| 1026 | 5 | Derek Beverly |
 | 1027 | 5 | Mario Meliodas |
-| 1028 | 5 | Temeshia Brooks Washington |
-| 1029 | 5 | the guy |
-| 1030 | 5 | Duckey |
-| 1031 | 5 | Annette DeLoatch Thompson |
+| 1028 | 5 | Annette DeLoatch Thompson |
+| 1029 | 5 | Happy |
+| 1030 | 5 | VERA DAME |
+| 1031 | 5 | Tipsy Builderline |
 
 ---
 *Standings created by tournaments datasource generation tool*
