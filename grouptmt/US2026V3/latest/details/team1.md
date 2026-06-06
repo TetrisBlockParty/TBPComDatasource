@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 01:12:15 UTC
+# Standings for team1 as of 2026-06-06 01:12:38 UTC
 
 **Total Participants:** 668
 
@@ -48,12 +48,12 @@
 | 40 | 332 | Hyper Slamdrop |
 | 41 | 319 | Shell Lewis |
 | 42 | 281 | Blockhead |
-| 43 | 260 | Carolynne Walker-Bell |
-| 44 | 260 | John Staub |
-| 45 | 253 | Tammye Turner |
-| 46 | 249 | Helen Smith |
-| 47 | 249 | Ashley MyBeauty Daniels |
-| 48 | 249 | COSA303 |
+| 43 | 269 | COSA303 |
+| 44 | 260 | Carolynne Walker-Bell |
+| 45 | 260 | John Staub |
+| 46 | 253 | Tammye Turner |
+| 47 | 249 | Helen Smith |
+| 48 | 249 | Ashley MyBeauty Daniels |
 | 49 | 248 | Debbie Carswell |
 | 50 | 240 | Rayya Kiser |
 | 51 | 239 | GrkGdess |
@@ -80,9 +80,9 @@
 | 72 | 166 | Denise B |
 | 73 | 166 | Tarnisha Neicy Jones |
 | 74 | 165 | Davionte DaeDae Hopson-Rodriguez |
-| 75 | 160 | Zippy Lifter |
-| 76 | 159 | Asani CHumba |
-| 77 | 159 | Jason Mungin |
+| 75 | 161 | Jason Mungin |
+| 76 | 160 | Zippy Lifter |
+| 77 | 159 | Asani CHumba |
 | 78 | 158 | W.A. Simpson |
 | 79 | 156 | Jessica Russell |
 | 80 | 151 | Dacia Hicks |
@@ -153,8 +153,8 @@
 | 145 | 79 | Shanell Thomas |
 | 146 | 77 | Yashica Smith |
 | 147 | 77 | Shontanese Adams |
-| 148 | 76 | Giggly Shatterline |
-| 149 | 76 | Kimberly Linares Hernandez |
+| 148 | 77 | Kimberly Linares Hernandez |
+| 149 | 76 | Giggly Shatterline |
 | 150 | 75 | MamaBear |
 | 151 | 75 | Dizzy Dashy |
 | 152 | 75 | Sanjuro |
@@ -657,23 +657,23 @@
 | 649 | 5 | Saucy Linkgrid |
 | 650 | 5 | Temeshia Brooks Washington |
 | 651 | 5 | Jennifer Moore |
-| 652 | 5 | Logan Frost |
-| 653 | 5 | DirtiestofMikes |
-| 654 | 5 | Shona ShayShay Jones |
-| 655 | 5 | Hasty Brickzone |
-| 656 | 5 | Jasmine Hariston-Estis |
-| 657 | 5 | Stephanie Zuniga Tullock |
-| 658 | 5 | Derek Beverly |
+| 652 | 5 | Derek Beverly |
+| 653 | 5 | Andre Sanon |
+| 654 | 5 | DirtiestofMikes |
+| 655 | 5 | Shona ShayShay Jones |
+| 656 | 5 | Hasty Brickzone |
+| 657 | 5 | Jasmine Hariston-Estis |
+| 658 | 5 | Stephanie Zuniga Tullock |
 | 659 | 5 | Lil T |
 | 660 | 5 | Sara |
-| 661 | 5 | the guy |
-| 662 | 5 | Tito Divyn |
-| 663 | 5 | Shawn Himes |
-| 664 | 5 | Tamika Fisher |
-| 665 | 5 | Zappy Clearfit |
-| 666 | 5 | Duckey |
-| 667 | 5 | Andre Sanon |
-| 668 | 5 | Chill Linkroll |
+| 661 | 5 | Chill Linkroll |
+| 662 | 5 | the guy |
+| 663 | 5 | Tito Divyn |
+| 664 | 5 | Shawn Himes |
+| 665 | 5 | Tamika Fisher |
+| 666 | 5 | Zappy Clearfit |
+| 667 | 5 | Duckey |
+| 668 | 5 | Logan Frost |
 
 ---
 *Standings created by tournaments datasource generation tool*
