@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 08:10:39 UTC
+# Standings for team2 as of 2026-06-06 08:11:16 UTC
 
 **Total Participants:** 1075
 
@@ -96,19 +96,19 @@
 | 88 | 335 | MaddieCherie |
 | 89 | 335 | Kaycie Shaffer |
 | 90 | 328 | Tim Tim |
-| 91 | 319 | Michelle Rich Burkhart |
-| 92 | 317 | Ruby Sandberg |
-| 93 | 315 | Milad Arzani |
-| 94 | 312 | Le Sandy |
-| 95 | 303 | Jennifer Smith |
-| 96 | 299 | Amber Miller Wirick |
-| 97 | 294 | Vistabrat |
-| 98 | 289 | Giddy Slamdrop |
-| 99 | 280 | Mom |
-| 100 | 279 | Renee Freeman Jacobson |
+| 91 | 323 | Jason Wood |
+| 92 | 319 | Michelle Rich Burkhart |
+| 93 | 317 | Ruby Sandberg |
+| 94 | 315 | Milad Arzani |
+| 95 | 312 | Le Sandy |
+| 96 | 303 | Jennifer Smith |
+| 97 | 299 | Amber Miller Wirick |
+| 98 | 294 | Vistabrat |
+| 99 | 289 | Giddy Slamdrop |
+| 100 | 280 | Mom |
 | 101 | 279 | James Ward |
-| 102 | 275 | Bubbly Strikerpiece |
-| 103 | 273 | Jason Wood |
+| 102 | 279 | Renee Freeman Jacobson |
+| 103 | 275 | Bubbly Strikerpiece |
 | 104 | 263 | Sarah Griffey |
 | 105 | 258 | Erin Thomas |
 | 106 | 253 | Heather Burgett |
