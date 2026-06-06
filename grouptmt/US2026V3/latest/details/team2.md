@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-06 21:28:18 UTC
+# Standings for team2 as of 2026-06-06 21:28:40 UTC
 
-**Total Participants:** 1385
+**Total Participants:** 1386
 
 ## Participant Scores
 
@@ -13,7 +13,7 @@
 | 5 | 7966 | Crystalin Heath Lewis |
 | 6 | 7687 | Lacey Nolting |
 | 7 | 6900 | Mocha |
-| 8 | 6586 | A.j. Langley |
+| 8 | 6636 | A.j. Langley |
 | 9 | 6232 | Christina Shell |
 | 10 | 6114 | Tim Ix |
 | 11 | 6045 | Morgann McDaniel |
@@ -40,8 +40,8 @@
 | 32 | 1906 | Jennifer Corder |
 | 33 | 1800 | Quirky Catcher |
 | 34 | 1740 | Ashley Miller |
-| 35 | 1678 | Betty Barrett |
-| 36 | 1626 | Julie Trede Amerson |
+| 35 | 1682 | Julie Trede Amerson |
+| 36 | 1678 | Betty Barrett |
 | 37 | 1618 | Frilly Match |
 | 38 | 1537 | Bea Bee |
 | 39 | 1510 | Shandrea Crawford |
@@ -1312,85 +1312,86 @@
 | 1304 | 9 | Miguel360 |
 | 1305 | 9 | Gigi |
 | 1306 | 9 | Holly |
-| 1307 | 9 | Tabitha Porter |
-| 1308 | 9 | April Wright |
-| 1309 | 9 | Frothy Cascader |
-| 1310 | 9 | Snazzy Cascadezone |
-| 1311 | 9 | Erica |
-| 1312 | 9 | Kylee Pruitt |
+| 1307 | 9 | Erica |
+| 1308 | 9 | Kylee Pruitt |
+| 1309 | 9 | Cheery Striker |
+| 1310 | 9 | Tabitha Porter |
+| 1311 | 9 | Lindsey Butler |
+| 1312 | 9 | Phyllis DiCristo |
 | 1313 | 9 | Bethany Gerber |
-| 1314 | 9 | Jeff Mullins |
-| 1315 | 9 | Phyllis DiCristo |
-| 1316 | 9 | Latrell Thomas |
-| 1317 | 9 | Cheery Striker |
-| 1318 | 9 | Lindsey Butler |
+| 1314 | 9 | April Wright |
+| 1315 | 9 | Frothy Cascader |
+| 1316 | 9 | Snazzy Cascadezone |
+| 1317 | 9 | Latrell Thomas |
+| 1318 | 9 | Jeff Mullins |
 | 1319 | 9 | Sami Amato |
 | 1320 | 9 | Terri Ramsey |
-| 1321 | 8 | Crystal Alexander |
-| 1322 | 8 | Jackie Hayslip |
-| 1323 | 8 | Tina Doyens Munis |
-| 1324 | 8 | Kennadee Albertson |
-| 1325 | 8 | LivePhoenix |
-| 1326 | 8 | Beth Engberg |
-| 1327 | 8 | Jumpy Twistslam |
+| 1321 | 8 | Sarah Elizabeth Foret |
+| 1322 | 8 | Mariah Mandel |
+| 1323 | 8 | Funky Slide |
+| 1324 | 8 | Tina Doyens Munis |
+| 1325 | 8 | Jackie Hayslip |
+| 1326 | 8 | SueEllen Hawkins |
+| 1327 | 8 | Jenna Thorn |
 | 1328 | 8 | Loony Ziggy |
-| 1329 | 8 | Angela Oates-Killebrew |
-| 1330 | 8 | Sarah Elizabeth Foret |
-| 1331 | 8 | Funky Slide |
-| 1332 | 8 | SueEllen Hawkins |
-| 1333 | 8 | Jenna Thorn |
-| 1334 | 8 | Zippy Balance |
-| 1335 | 8 | Mariah Mandel |
-| 1336 | 7 | Mighty Piecebuilder |
-| 1337 | 7 | Beth |
-| 1338 | 7 | Elizabeth Elaine Coursey |
-| 1339 | 7 | Flashy Cascadeclear |
-| 1340 | 7 | michael |
-| 1341 | 7 | Destiny Turner |
-| 1342 | 7 | Mike Honcho |
-| 1343 | 7 | Brenda Ohaus Facher |
-| 1344 | 7 | Aguilar Rita |
-| 1345 | 7 | Sam Blinn |
-| 1346 | 7 | Collins |
-| 1347 | 7 | StacyK |
-| 1348 | 7 | Janice Simpson |
-| 1349 | 7 | Liz Wilkerson |
-| 1350 | 7 | Holly Riley |
-| 1351 | 7 | Rochelle O'Loughlin |
-| 1352 | 7 | Sasha Hamilton |
-| 1353 | 7 | Crystal King |
-| 1354 | 7 | Kacey Lindemuth |
-| 1355 | 6 | Bunny Bt |
-| 1356 | 6 | Michelle Brown |
-| 1357 | 6 | Celeste Samuels |
-| 1358 | 6 | Lou Sassole |
-| 1359 | 6 | Jessie |
-| 1360 | 6 | Cheeky Dashpiece |
-| 1361 | 6 | Bowling girl |
-| 1362 | 6 | Monica Gonzalez Rios |
-| 1363 | 6 | Jager |
-| 1364 | 6 | Alicia Abston |
-| 1365 | 6 | Giggy Dropzone |
-| 1366 | 6 | Cara Douglas |
-| 1367 | 6 | Marshall Payne |
-| 1368 | 6 | Amanda Knox |
-| 1369 | 5 | Alisha Shelton |
-| 1370 | 5 | Michelle |
-| 1371 | 5 | Quirky Shifter |
-| 1372 | 5 | Brittany Weatherspoon |
-| 1373 | 5 | Agnes Gable |
-| 1374 | 5 | Ashlee Johnson |
-| 1375 | 5 | Nikki |
-| 1376 | 5 | Nolife |
-| 1377 | 5 | Flynn Flibble |
+| 1329 | 8 | Jumpy Twistslam |
+| 1330 | 8 | LivePhoenix |
+| 1331 | 8 | Kennadee Albertson |
+| 1332 | 8 | Angela Oates-Killebrew |
+| 1333 | 8 | Beth Engberg |
+| 1334 | 8 | Crystal Alexander |
+| 1335 | 8 | Zippy Balance |
+| 1336 | 7 | Beth |
+| 1337 | 7 | Mike Honcho |
+| 1338 | 7 | Kacey Lindemuth |
+| 1339 | 7 | Patty White |
+| 1340 | 7 | Destiny Turner |
+| 1341 | 7 | Sasha Hamilton |
+| 1342 | 7 | Brenda Ohaus Facher |
+| 1343 | 7 | Flashy Cascadeclear |
+| 1344 | 7 | michael |
+| 1345 | 7 | Elizabeth Elaine Coursey |
+| 1346 | 7 | Janice Simpson |
+| 1347 | 7 | Liz Wilkerson |
+| 1348 | 7 | StacyK |
+| 1349 | 7 | Crystal King |
+| 1350 | 7 | Rochelle O'Loughlin |
+| 1351 | 7 | Holly Riley |
+| 1352 | 7 | Sam Blinn |
+| 1353 | 7 | Aguilar Rita |
+| 1354 | 7 | Mighty Piecebuilder |
+| 1355 | 7 | Collins |
+| 1356 | 6 | Jager |
+| 1357 | 6 | Bowling girl |
+| 1358 | 6 | Celeste Samuels |
+| 1359 | 6 | Monica Gonzalez Rios |
+| 1360 | 6 | Jessie |
+| 1361 | 6 | Michelle Brown |
+| 1362 | 6 | Marshall Payne |
+| 1363 | 6 | Cheeky Dashpiece |
+| 1364 | 6 | Lou Sassole |
+| 1365 | 6 | Amanda Knox |
+| 1366 | 6 | Giggy Dropzone |
+| 1367 | 6 | Cara Douglas |
+| 1368 | 6 | Alicia Abston |
+| 1369 | 6 | Bunny Bt |
+| 1370 | 5 | Brittany Weatherspoon |
+| 1371 | 5 | Michelle |
+| 1372 | 5 | Quirky Shifter |
+| 1373 | 5 | Jennifer Roper Stanley |
+| 1374 | 5 | Dapper Clearpiece |
+| 1375 | 5 | Mercedes Lowery |
+| 1376 | 5 | Nikki |
+| 1377 | 5 | Jennifer Mauler Schmidt |
 | 1378 | 5 | Chirpy Towerer |
-| 1379 | 5 | Jennifer Mauler Schmidt |
-| 1380 | 5 | Jon Torres |
-| 1381 | 5 | Snappy Zonepiece |
-| 1382 | 5 | Mercedes Lowery |
-| 1383 | 5 | Jennifer Roper Stanley |
-| 1384 | 5 | Mala Phonchanthasone |
-| 1385 | 5 | Dapper Clearpiece |
+| 1379 | 5 | Flynn Flibble |
+| 1380 | 5 | Ashlee Johnson |
+| 1381 | 5 | Nolife |
+| 1382 | 5 | Mala Phonchanthasone |
+| 1383 | 5 | Agnes Gable |
+| 1384 | 5 | Jon Torres |
+| 1385 | 5 | Snappy Zonepiece |
+| 1386 | 5 | Alisha Shelton |
 
 ---
 *Standings created by tournaments datasource generation tool*

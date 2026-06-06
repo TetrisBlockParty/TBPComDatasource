@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 21:28:18 UTC
+# Standings for team1 as of 2026-06-06 21:28:40 UTC
 
 **Total Participants:** 1169
 
@@ -819,99 +819,99 @@
 | 811 | 28 | AleahKCH |
 | 812 | 28 | Ameillia Boughner |
 | 813 | 28 | Charise McGee |
-| 814 | 28 | Markeita Jones |
-| 815 | 28 | Marlynnnnn |
-| 816 | 28 | Will Stanton |
+| 814 | 28 | Marlynnnnn |
+| 815 | 28 | Will Stanton |
+| 816 | 28 | Markeita Jones |
 | 817 | 28 | SnazzySnippet |
 | 818 | 28 | Teresa Bean |
 | 819 | 28 | James Bryant II |
 | 820 | 27 | Joka NoTime ForHataz |
 | 821 | 27 | Victor |
-| 822 | 27 | Kidgib5 |
-| 823 | 27 | Mighty plantlady |
+| 822 | 27 | Mighty plantlady |
+| 823 | 27 | Kidgib5 |
 | 824 | 27 | katia |
 | 825 | 27 | AshMo |
-| 826 | 27 | Mrs |
-| 827 | 27 | Tina Criam |
-| 828 | 27 | Venna Cooper |
-| 829 | 27 | Angela L Charles |
-| 830 | 27 | Shaylyn Lockwood |
-| 831 | 27 | Pinky Pink |
+| 826 | 27 | Venna Cooper |
+| 827 | 27 | Mrs |
+| 828 | 27 | Tina Criam |
+| 829 | 27 | Juanita Quezaire |
+| 830 | 27 | Angela L Charles |
+| 831 | 27 | Jeremy Hendrix |
 | 832 | 27 | Zesty Fitclear |
-| 833 | 27 | Meepycat |
-| 834 | 27 | Jeremy Hendrix |
-| 835 | 27 | Juanita Quezaire |
-| 836 | 26 | Pastors Du Bose |
-| 837 | 26 | Twisty Dashy |
-| 838 | 26 | Caitlin Michele |
-| 839 | 26 | Kala Miller |
-| 840 | 26 | Crystal Garay |
-| 841 | 25 | Jovy |
-| 842 | 25 | Plucky Clearpiece |
-| 843 | 25 | Heru Ogun Yeshua EL |
+| 833 | 27 | Shaylyn Lockwood |
+| 834 | 27 | Pinky Pink |
+| 835 | 27 | Meepycat |
+| 836 | 26 | Caitlin Michele |
+| 837 | 26 | Crystal Garay |
+| 838 | 26 | Kala Miller |
+| 839 | 26 | Pastors Du Bose |
+| 840 | 26 | Twisty Dashy |
+| 841 | 25 | Plucky Clearpiece |
+| 842 | 25 | Jovy |
+| 843 | 25 | Kween Pilot |
 | 844 | 25 | Dinky da Don |
 | 845 | 25 | marie |
 | 846 | 25 | PennyCandee |
 | 847 | 25 | Antoinette Kidd |
-| 848 | 25 | Ivan Israel |
-| 849 | 25 | BB |
-| 850 | 25 | Linny Loop |
-| 851 | 25 | Yashicha Hertzock |
-| 852 | 25 | Paul Pendley |
-| 853 | 25 | Angela Kitchens |
-| 854 | 24 | Andrea Jackson |
-| 855 | 24 | Mumitt |
-| 856 | 24 | BonnieB |
-| 857 | 24 | Eugenia Vanclusen |
-| 858 | 23 | Arturo Hernandez II |
-| 859 | 23 | Thelma Samuels |
-| 860 | 23 | Tabitha Dupre-Allen |
-| 861 | 23 | Major314 |
-| 862 | 23 | Genevieve Nieves |
-| 863 | 23 | Shona ShayShay Jones |
-| 864 | 23 | Monica Fields |
-| 865 | 23 | Jamie Lea Popp |
-| 866 | 23 | Connor Leon Cluff |
-| 867 | 23 | Vontesha Kidd |
-| 868 | 22 | Brave Gridmatch |
-| 869 | 22 | Ashleyy Netchert |
-| 870 | 22 | Williams Candace |
-| 871 | 22 | Seirra Robinson |
-| 872 | 22 | tg |
-| 873 | 22 | McKayla Owens |
-| 874 | 22 | ShayePooh |
-| 875 | 22 | Jroc Tyra Taylor |
-| 876 | 22 | Denise Cunningham-English |
-| 877 | 21 | Christy |
-| 878 | 21 | Samona Mcculler |
-| 879 | 21 | Crafty Witch |
-| 880 | 21 | Zappy Zoney |
-| 881 | 21 | Chanel White |
-| 882 | 21 | Felicia Yahuah Johnson |
-| 883 | 21 | Desiree Ryder |
-| 884 | 21 | lady |
-| 885 | 20 | Anthony Intrabartolo |
-| 886 | 20 | Brenda Brogden |
-| 887 | 20 | Chill Curvebuilder |
+| 848 | 25 | Heru Ogun Yeshua EL |
+| 849 | 25 | Angela Kitchens |
+| 850 | 25 | BB |
+| 851 | 25 | Linny Loop |
+| 852 | 25 | Yashicha Hertzock |
+| 853 | 25 | Ivan Israel |
+| 854 | 25 | Paul Pendley |
+| 855 | 24 | Andrea Jackson |
+| 856 | 24 | Eugenia Vanclusen |
+| 857 | 24 | Mumitt |
+| 858 | 24 | BonnieB |
+| 859 | 23 | Vontesha Kidd |
+| 860 | 23 | Jamie Lea Popp |
+| 861 | 23 | Arturo Hernandez II |
+| 862 | 23 | Tabitha Dupre-Allen |
+| 863 | 23 | Thelma Samuels |
+| 864 | 23 | Genevieve Nieves |
+| 865 | 23 | Major314 |
+| 866 | 23 | Monica Fields |
+| 867 | 23 | Shona ShayShay Jones |
+| 868 | 23 | Connor Leon Cluff |
+| 869 | 22 | Brave Gridmatch |
+| 870 | 22 | McKayla Owens |
+| 871 | 22 | Denise Cunningham-English |
+| 872 | 22 | Williams Candace |
+| 873 | 22 | tg |
+| 874 | 22 | Ashleyy Netchert |
+| 875 | 22 | Seirra Robinson |
+| 876 | 22 | ShayePooh |
+| 877 | 22 | Jroc Tyra Taylor |
+| 878 | 21 | Chanel White |
+| 879 | 21 | lady |
+| 880 | 21 | Desiree Ryder |
+| 881 | 21 | Samona Mcculler |
+| 882 | 21 | Crafty Witch |
+| 883 | 21 | Felicia Yahuah Johnson |
+| 884 | 21 | Zappy Zoney |
+| 885 | 21 | Christy |
+| 886 | 20 | LuckyStar |
+| 887 | 20 | Alize |
 | 888 | 20 | Charlean Sims |
-| 889 | 20 | Jennifer Diamond |
-| 890 | 20 | LuckyStar |
-| 891 | 20 | Alize |
-| 892 | 20 | Biggestboss Ransom |
-| 893 | 20 | Cynthia Potter |
-| 894 | 20 | Kween Pilot |
-| 895 | 20 | Erika |
-| 896 | 20 | Oldheads |
-| 897 | 20 | Kenneth Hefney |
-| 898 | 20 | Tanisha Robinson |
-| 899 | 20 | Snappy Strikerpiece |
-| 900 | 20 | Genne Scott |
-| 901 | 20 | West Racks |
-| 902 | 20 | Tangy Moore |
-| 903 | 20 | Lucy Range |
-| 904 | 20 | Gary Kyle |
-| 905 | 20 | James Dunlap |
-| 906 | 20 | lizlizliz |
+| 889 | 20 | Biggestboss Ransom |
+| 890 | 20 | Jennifer Diamond |
+| 891 | 20 | Chill Curvebuilder |
+| 892 | 20 | Cynthia Potter |
+| 893 | 20 | Lucy Range |
+| 894 | 20 | Erika |
+| 895 | 20 | Oldheads |
+| 896 | 20 | Anthony Intrabartolo |
+| 897 | 20 | Tanisha Robinson |
+| 898 | 20 | Snappy Strikerpiece |
+| 899 | 20 | West Racks |
+| 900 | 20 | Gary Kyle |
+| 901 | 20 | James Dunlap |
+| 902 | 20 | Kenneth Hefney |
+| 903 | 20 | lizlizliz |
+| 904 | 20 | Genne Scott |
+| 905 | 20 | Tangy Moore |
+| 906 | 20 | Brenda Brogden |
 | 907 | 20 | Bryttani GoingPlaces Latimer |
 | 908 | 20 | Cynthia Bradley |
 | 909 | 20 | Bold Spinblock |
