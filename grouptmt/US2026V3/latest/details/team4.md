@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 07:16:16 UTC
+# Standings for team4 as of 2026-06-06 07:16:39 UTC
 
 **Total Participants:** 872
 
@@ -65,8 +65,8 @@
 | 57 | 400 | Amber Doyle |
 | 58 | 399 | Erin Figone |
 | 59 | 395 | Melissa WC |
-| 60 | 392 | Kay |
-| 61 | 392 | Blayne Kole |
+| 60 | 392 | Blayne Kole |
+| 61 | 392 | Kay |
 | 62 | 389 | Ning Quiambao |
 | 63 | 383 | Crissy Hoffman |
 | 64 | 374 | Lisa Garcia |
@@ -83,7 +83,7 @@
 | 75 | 313 | Tiffany Loree Tiffany Oneill |
 | 76 | 302 | JoLinda Dunn |
 | 77 | 300 | Genag |
-| 78 | 289 | Dheeh Robles |
+| 78 | 294 | Dheeh Robles |
 | 79 | 283 | Jesse Olive |
 | 80 | 271 | Kim |
 | 81 | 266 | Adam J Leong |
@@ -102,15 +102,15 @@
 | 94 | 200 | Leah Gorsuch |
 | 95 | 197 | Slimm |
 | 96 | 195 | Sean Mccleary |
-| 97 | 194 | Lisa lisa |
-| 98 | 194 | Chiquita Blue |
+| 97 | 194 | Chiquita Blue |
+| 98 | 194 | Lisa lisa |
 | 99 | 193 | Tiffany Bunker-Hill |
 | 100 | 192 | Gorica Prusina |
 | 101 | 184 | Giggly Tilt |
 | 102 | 182 | blockhead |
 | 103 | 181 | Colin |
-| 104 | 180 | Aisha Estrada |
-| 105 | 180 | Shmeedo |
+| 104 | 180 | Shmeedo |
+| 105 | 180 | Aisha Estrada |
 | 106 | 179 | Anna Gribble |
 | 107 | 178 | Tamara Triplet |
 | 108 | 177 | Tammy June |
@@ -119,16 +119,16 @@
 | 111 | 169 | Tiffany Smith |
 | 112 | 167 | Damon Gaston |
 | 113 | 166 | Aramat |
-| 114 | 160 | Kitsune Bi |
-| 115 | 160 | Littlebrat |
+| 114 | 160 | Littlebrat |
+| 115 | 160 | Kitsune Bi |
 | 116 | 159 | iiPurgeV2 |
 | 117 | 158 | Debby Ruof |
 | 118 | 157 | QueenLi86 |
-| 119 | 155 | RotatedWrongAgain |
-| 120 | 155 | Shayna Vaigneur-Hall |
+| 119 | 155 | Shayna Vaigneur-Hall |
+| 120 | 155 | RotatedWrongAgain |
 | 121 | 154 | No Time |
-| 122 | 153 | Laguya |
-| 123 | 153 | Brandy Lynn |
+| 122 | 153 | Brandy Lynn |
+| 123 | 153 | Laguya |
 | 124 | 152 | Dazzle Dragon |
 | 125 | 149 | Daryn Elliott |
 | 126 | 149 | Danny Ortiz |
@@ -140,18 +140,18 @@
 | 132 | 143 | Ashley Mcdonald |
 | 133 | 142 | Scamp Jones |
 | 134 | 141 | Jackie Polanco |
-| 135 | 137 | Jasmine Marie |
-| 136 | 137 | Devinlee Brown |
+| 135 | 137 | Devinlee Brown |
+| 136 | 137 | Jasmine Marie |
 | 137 | 134 | ariel |
 | 138 | 134 | Loony Rotater |
-| 139 | 133 | Janet Sanfilippo Sullivan |
-| 140 | 133 | Shawntae Mccary |
+| 139 | 133 | Shawntae Mccary |
+| 140 | 133 | Janet Sanfilippo Sullivan |
 | 141 | 132 | Spicy Chicken |
-| 142 | 129 | Brainbabe |
-| 143 | 129 | Lani |
+| 142 | 129 | Lani |
+| 143 | 129 | Chilly Pivot |
 | 144 | 129 | Simone |
 | 145 | 129 | Ryan Paul Clark-Ramsey |
-| 146 | 129 | Chilly Pivot |
+| 146 | 129 | Brainbabe |
 | 147 | 128 | Crystal Hammonds |
 | 148 | 127 | Tipsy Builderline |
 | 149 | 126 | GeorgeButts |
@@ -159,28 +159,28 @@
 | 151 | 125 | Leslie Ann Carter |
 | 152 | 124 | Chris Covington |
 | 153 | 123 | Cherrypir05 |
-| 154 | 122 | Samara Garcia |
-| 155 | 122 | Goofy Riser |
+| 154 | 122 | Goofy Riser |
+| 155 | 122 | Samara Garcia |
 | 156 | 121 | Jazzy Gridder |
-| 157 | 120 | Shiny Brick |
-| 158 | 120 | Glamorous Gracey |
+| 157 | 120 | Glamorous Gracey |
+| 158 | 120 | Shiny Brick |
 | 159 | 119 | EL Booger |
 | 160 | 118 | Goofy Fall |
 | 161 | 118 | Cheery Risegrid |
 | 162 | 117 | BCO22 |
-| 163 | 116 | Brennan Shea Greene |
+| 163 | 116 | Dee Wizz |
 | 164 | 116 | WeeWooWee |
-| 165 | 116 | Dee Wizz |
+| 165 | 116 | Brennan Shea Greene |
 | 166 | 114 | Bryan DjMagnum Evans |
-| 167 | 113 | Melissa Anne |
-| 168 | 113 | Dennis Montoya |
-| 169 | 113 | kcknbtz |
+| 167 | 113 | Dennis Montoya |
+| 168 | 113 | kcknbtz |
+| 169 | 113 | Melissa Anne |
 | 170 | 112 | matt |
 | 171 | 111 | Taz |
 | 172 | 110 | Joab Gonzalez |
 | 173 | 109 | Rose Anna Safi |
-| 174 | 108 | Lush Fitblock |
-| 175 | 108 | Juvon SupaShawdii Brooks |
+| 174 | 108 | Juvon SupaShawdii Brooks |
+| 175 | 108 | Lush Fitblock |
 | 176 | 107 | CJ |
 | 177 | 107 | June Hoffman |
 | 178 | 105 | kellie |
@@ -196,19 +196,19 @@
 | 188 | 99 | Dapper Strikerpiece |
 | 189 | 98 | Jacqueline Arce |
 | 190 | 98 | Tina Thomas |
-| 191 | 98 | Taisha Beasley |
-| 192 | 98 | Shanna Fragen |
+| 191 | 98 | Shanna Fragen |
+| 192 | 98 | Taisha Beasley |
 | 193 | 97 | Tarsha Thomas-Martinez |
 | 194 | 97 | Fancy Tilefall |
 | 195 | 96 | JuicyJuice |
 | 196 | 95 | Маркус Вік |
-| 197 | 94 | Reina Pagan |
-| 198 | 94 | Slinky Stackzone |
+| 197 | 94 | Slinky Stackzone |
+| 198 | 94 | Reina Pagan |
 | 199 | 93 | farfromlocal |
 | 200 | 92 | Homie |
-| 201 | 91 | Tricia Motika Cowan |
+| 201 | 91 | Dayna Arthurs |
 | 202 | 91 | Lucy Honer |
-| 203 | 91 | Dayna Arthurs |
+| 203 | 91 | Tricia Motika Cowan |
 | 204 | 91 | Jennifer Garcia |
 | 205 | 91 | Dominique Melendez |
 | 206 | 90 | bollo |
@@ -238,12 +238,12 @@
 | 230 | 81 | Janae Harris |
 | 231 | 80 | Maurice DeJean |
 | 232 | 80 | Krista Diaz |
-| 233 | 80 | Magz |
-| 234 | 80 | Danny Frausto |
-| 235 | 80 | Josh Keith Travierso |
-| 236 | 79 | Joyce Myers |
-| 237 | 79 | Gean DeJesus |
-| 238 | 79 | Kelly Howland |
+| 233 | 80 | Kelly Howland |
+| 234 | 80 | Magz |
+| 235 | 80 | Danny Frausto |
+| 236 | 80 | Josh Keith Travierso |
+| 237 | 79 | Joyce Myers |
+| 238 | 79 | Gean DeJesus |
 | 239 | 79 | Courtney Niichole |
 | 240 | 79 | Has2brat |
 | 241 | 78 | Stef |
