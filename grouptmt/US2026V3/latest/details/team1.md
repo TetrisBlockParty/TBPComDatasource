@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 13:30:16 UTC
+# Standings for team1 as of 2026-06-06 13:30:42 UTC
 
 **Total Participants:** 1002
 
@@ -172,8 +172,8 @@
 | 164 | 147 | MACHETEEDDIE513 |
 | 165 | 146 | Jai |
 | 166 | 146 | BlackQueen105 |
-| 167 | 142 | Mikayla |
-| 168 | 141 | IThinkNot |
+| 167 | 143 | IThinkNot |
+| 168 | 142 | Mikayla |
 | 169 | 140 | Ann Chung |
 | 170 | 140 | Antoinette Jones |
 | 171 | 138 | Lashaunda |
