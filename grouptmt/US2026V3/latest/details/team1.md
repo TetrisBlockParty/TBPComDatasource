@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 06:34:16 UTC
+# Standings for team1 as of 2026-06-06 06:34:37 UTC
 
 **Total Participants:** 894
 
@@ -256,42 +256,42 @@
 | 248 | 75 | Nutty Spinblock |
 | 249 | 74 | Angela Brown Babin |
 | 250 | 74 | ♈️ Ariesbaby |
-| 251 | 73 | Latore Maxie |
-| 252 | 73 | HarleyJane |
-| 253 | 72 | Tosha Michelle |
+| 251 | 73 | HarleyJane |
+| 252 | 73 | Latore Maxie |
+| 253 | 72 | Lauraly |
 | 254 | 72 | Chummy Frame |
-| 255 | 71 | Kristie |
+| 255 | 72 | Tosha Michelle |
 | 256 | 71 | HBTone |
 | 257 | 71 | Erin Sabol |
 | 258 | 71 | Elaine Pauley |
-| 259 | 70 | Hailey Hil |
+| 259 | 71 | Kristie |
 | 260 | 70 | MamushiOh |
-| 261 | 70 | Cheeky Pop |
-| 262 | 70 | Trina Greenwood |
-| 263 | 70 | $hort Dog |
-| 264 | 70 | Kaleisha Smith |
-| 265 | 69 | Chantelle Lee |
-| 266 | 69 | CJ Robinson |
-| 267 | 69 | C Lo Green |
-| 268 | 68 | Tee Spinks |
-| 269 | 68 | Peppy Glider |
-| 270 | 68 | Cherry Rose |
-| 271 | 67 | rls |
-| 272 | 67 | Michele Elizabeth McKay-Johnson |
-| 273 | 67 | Johnathan Deese |
-| 274 | 67 | Travis Davison |
-| 275 | 67 | Steve Reno |
-| 276 | 67 | Laurie Napper |
-| 277 | 66 | Breezy Catcher |
-| 278 | 66 | GracefulOwl808 |
-| 279 | 65 | Jazzy Bridger |
-| 280 | 65 | Sabrina Wilkerson |
-| 281 | 65 | Jonathan Vee Jay |
-| 282 | 65 | pooh |
-| 283 | 64 | Dena Marie Lee |
-| 284 | 64 | Penee Wiggins |
-| 285 | 64 | Eugina Slater |
-| 286 | 64 | Lauraly |
+| 261 | 70 | Kaleisha Smith |
+| 262 | 70 | Cheeky Pop |
+| 263 | 70 | Trina Greenwood |
+| 264 | 70 | Hailey Hil |
+| 265 | 70 | $hort Dog |
+| 266 | 69 | Chantelle Lee |
+| 267 | 69 | CJ Robinson |
+| 268 | 69 | C Lo Green |
+| 269 | 68 | Tee Spinks |
+| 270 | 68 | Peppy Glider |
+| 271 | 68 | Cherry Rose |
+| 272 | 67 | Travis Davison |
+| 273 | 67 | Steve Reno |
+| 274 | 67 | Johnathan Deese |
+| 275 | 67 | Laurie Napper |
+| 276 | 67 | rls |
+| 277 | 67 | Michele Elizabeth McKay-Johnson |
+| 278 | 66 | Breezy Catcher |
+| 279 | 66 | GracefulOwl808 |
+| 280 | 65 | Jonathan Vee Jay |
+| 281 | 65 | Sabrina Wilkerson |
+| 282 | 65 | Jazzy Bridger |
+| 283 | 65 | pooh |
+| 284 | 64 | Dena Marie Lee |
+| 285 | 64 | Penee Wiggins |
+| 286 | 64 | Eugina Slater |
 | 287 | 63 | Sarah Swietlicki - Lopez |
 | 288 | 63 | Ahsokadog |
 | 289 | 63 | Slinky Clearzone |
