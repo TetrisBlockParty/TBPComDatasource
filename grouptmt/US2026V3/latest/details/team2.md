@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 15:38:19 UTC
+# Standings for team2 as of 2026-06-06 15:38:39 UTC
 
 **Total Participants:** 1223
 
@@ -16,13 +16,13 @@
 | 8 | 6045 | Morgann McDaniel |
 | 9 | 5704 | Cori Keberlein |
 | 10 | 5660 | A.j. Langley |
-| 11 | 5434 | Christina Shell |
+| 11 | 5514 | Christina Shell |
 | 12 | 5200 | Mocha |
 | 13 | 3984 | Amber |
 | 14 | 3812 | Crystal M Sowden |
 | 15 | 3492 | Traci Elizabeth |
-| 16 | 3283 | Jewels |
-| 17 | 3215 | Renee Weedling |
+| 16 | 3294 | Renee Weedling |
+| 17 | 3283 | Jewels |
 | 18 | 3148 | Kathleen M Cox |
 | 19 | 2700 | boblawboblaw |
 | 20 | 2658 | Bobbi |
@@ -106,26 +106,26 @@
 | 98 | 360 | Suki Kaur |
 | 99 | 357 | Crystal Allen |
 | 100 | 354 | Branden Frankowski |
-| 101 | 347 | Zesty Strikerbuilder |
-| 102 | 345 | Smiley Dropper |
-| 103 | 342 | Bri St Peter |
-| 104 | 340 | Le Sandy |
-| 105 | 340 | Mom |
-| 106 | 332 | Lily |
-| 107 | 328 | Tim Tim |
-| 108 | 327 | Amber Miller Wirick |
-| 109 | 325 | Amy Gregg |
-| 110 | 324 | Jgato |
-| 111 | 319 | Michelle Rich Burkhart |
-| 112 | 319 | Shannon Wilson |
-| 113 | 317 | Ruby Sandberg |
-| 114 | 315 | Milad Arzani |
-| 115 | 310 | Jennifer Smith |
-| 116 | 309 | Giddy Slamdrop |
-| 117 | 302 | Hypee |
-| 118 | 300 | Wmk Rathbun |
-| 119 | 299 | Bon Lynn |
-| 120 | 298 | Eric Drane |
+| 101 | 348 | Eric Drane |
+| 102 | 347 | Zesty Strikerbuilder |
+| 103 | 345 | Smiley Dropper |
+| 104 | 342 | Bri St Peter |
+| 105 | 340 | Le Sandy |
+| 106 | 340 | Mom |
+| 107 | 332 | Lily |
+| 108 | 328 | Tim Tim |
+| 109 | 327 | Amber Miller Wirick |
+| 110 | 325 | Amy Gregg |
+| 111 | 324 | Jgato |
+| 112 | 319 | Michelle Rich Burkhart |
+| 113 | 319 | Shannon Wilson |
+| 114 | 317 | Ruby Sandberg |
+| 115 | 315 | Milad Arzani |
+| 116 | 310 | Jennifer Smith |
+| 117 | 309 | Giddy Slamdrop |
+| 118 | 302 | Hypee |
+| 119 | 300 | Wmk Rathbun |
+| 120 | 299 | Bon Lynn |
 | 121 | 294 | Vistabrat |
 | 122 | 283 | Theresa Marie |
 | 123 | 281 | Joni Michelle Morgan |
@@ -1204,31 +1204,31 @@
 | 1196 | 6 | Jager |
 | 1197 | 6 | Michelle Brown |
 | 1198 | 6 | Jessie |
-| 1199 | 6 | Partin |
-| 1200 | 6 | Cozy Curve |
-| 1201 | 6 | Lou Sassole |
-| 1202 | 6 | Celeste Samuels |
-| 1203 | 6 | Cheeky Dashpiece |
-| 1204 | 6 | Lavenda Nettles |
-| 1205 | 6 | Snappy Fitblock |
-| 1206 | 6 | Amanda Knox |
-| 1207 | 6 | Bunny Bt |
-| 1208 | 5 | Nolife |
+| 1199 | 6 | Lou Sassole |
+| 1200 | 6 | Cheeky Dashpiece |
+| 1201 | 6 | Lavenda Nettles |
+| 1202 | 6 | Amanda Knox |
+| 1203 | 6 | Bunny Bt |
+| 1204 | 6 | Snappy Fitblock |
+| 1205 | 6 | Partin |
+| 1206 | 6 | Cozy Curve |
+| 1207 | 6 | Celeste Samuels |
+| 1208 | 5 | Mercedes Lowery |
 | 1209 | 5 | Danh Nguyen |
 | 1210 | 5 | Jon Torres |
 | 1211 | 5 | Snappy Zonepiece |
-| 1212 | 5 | Duck |
-| 1213 | 5 | Flynn Flibble |
-| 1214 | 5 | Alisha Shelton |
-| 1215 | 5 | Agnes Gable |
-| 1216 | 5 | Dapper Clearpiece |
-| 1217 | 5 | Crystal Poss |
-| 1218 | 5 | Brittany Weatherspoon |
-| 1219 | 5 | Michelle |
-| 1220 | 5 | Mercedes Lowery |
-| 1221 | 5 | Jennifer Mauler Schmidt |
-| 1222 | 5 | Chirpy Towerer |
-| 1223 | 5 | Jennifer Roper Stanley |
+| 1212 | 5 | Nolife |
+| 1213 | 5 | Duck |
+| 1214 | 5 | Jennifer Roper Stanley |
+| 1215 | 5 | Flynn Flibble |
+| 1216 | 5 | Crystal Poss |
+| 1217 | 5 | Alisha Shelton |
+| 1218 | 5 | Chirpy Towerer |
+| 1219 | 5 | Agnes Gable |
+| 1220 | 5 | Dapper Clearpiece |
+| 1221 | 5 | Brittany Weatherspoon |
+| 1222 | 5 | Michelle |
+| 1223 | 5 | Jennifer Mauler Schmidt |
 
 ---
 *Standings created by tournaments datasource generation tool*
