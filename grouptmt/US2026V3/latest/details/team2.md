@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 09:59:16 UTC
+# Standings for team2 as of 2026-06-06 10:00:18 UTC
 
 **Total Participants:** 1101
 
@@ -58,7 +58,7 @@
 | 50 | 702 | Charley Bedford |
 | 51 | 698 | Amber Salazar |
 | 52 | 685 | Andre Love |
-| 53 | 674 | Hoppy Rotate |
+| 53 | 679 | Hoppy Rotate |
 | 54 | 671 | Brandi Thompson |
 | 55 | 660 | Julie Trede Amerson |
 | 56 | 659 | Marie Luciano |
@@ -1078,35 +1078,35 @@
 | 1070 | 7 | Mike Honcho |
 | 1071 | 6 | Trisha Farley |
 | 1072 | 6 | Lori Yelvington Cain |
-| 1073 | 6 | Cheeky Dashpiece |
-| 1074 | 6 | Michele Choate |
-| 1075 | 6 | Amanda Knox |
-| 1076 | 6 | Partin |
-| 1077 | 6 | Emily |
-| 1078 | 6 | FabTeach |
-| 1079 | 6 | Lou Sassole |
-| 1080 | 6 | Shelby Wilson |
-| 1081 | 6 | Trena Sapp |
-| 1082 | 6 | Lavenda Nettles |
-| 1083 | 6 | Snappy Fitblock |
+| 1073 | 6 | Cozy Curve |
+| 1074 | 6 | Jessie |
+| 1075 | 6 | FabTeach |
+| 1076 | 6 | Emily |
+| 1077 | 6 | Michele Choate |
+| 1078 | 6 | Amanda Knox |
+| 1079 | 6 | Partin |
+| 1080 | 6 | Lou Sassole |
+| 1081 | 6 | Cheeky Dashpiece |
+| 1082 | 6 | Shelby Wilson |
+| 1083 | 6 | Trena Sapp |
 | 1084 | 6 | Celeste Samuels |
-| 1085 | 6 | Jessie |
-| 1086 | 6 | Cozy Curve |
-| 1087 | 5 | Dapper Clearpiece |
-| 1088 | 5 | Flynn Flibble |
-| 1089 | 5 | Agnes Gable |
-| 1090 | 5 | Deborah Fowler |
-| 1091 | 5 | Nerdy Base |
-| 1092 | 5 | Brittany Weatherspoon |
-| 1093 | 5 | Crystal Poss |
-| 1094 | 5 | Mercedes Lowery |
-| 1095 | 5 | Nicole Plummer |
-| 1096 | 5 | Duck |
-| 1097 | 5 | Nolife |
-| 1098 | 5 | Danh Nguyen |
-| 1099 | 5 | Jennifer Mauler Schmidt |
-| 1100 | 5 | Chirpy Towerer |
-| 1101 | 5 | Jennifer Roper Stanley |
+| 1085 | 6 | Lavenda Nettles |
+| 1086 | 6 | Snappy Fitblock |
+| 1087 | 5 | Crystal Poss |
+| 1088 | 5 | Agnes Gable |
+| 1089 | 5 | Dapper Clearpiece |
+| 1090 | 5 | Jennifer Roper Stanley |
+| 1091 | 5 | Deborah Fowler |
+| 1092 | 5 | Nerdy Base |
+| 1093 | 5 | Brittany Weatherspoon |
+| 1094 | 5 | Jennifer Mauler Schmidt |
+| 1095 | 5 | Flynn Flibble |
+| 1096 | 5 | Chirpy Towerer |
+| 1097 | 5 | Mercedes Lowery |
+| 1098 | 5 | Nicole Plummer |
+| 1099 | 5 | Duck |
+| 1100 | 5 | Nolife |
+| 1101 | 5 | Danh Nguyen |
 
 ---
 *Standings created by tournaments datasource generation tool*
