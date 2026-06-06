@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 03:38:16 UTC
+# Standings for team1 as of 2026-06-06 03:38:37 UTC
 
 **Total Participants:** 779
 
@@ -519,93 +519,93 @@
 | 511 | 23 | Khatyrah Burnette |
 | 512 | 23 | Hardtohandle91 |
 | 513 | 23 | Chereese Harris |
-| 514 | 23 | Jamie Lea Popp |
+| 514 | 23 | Shakmar |
 | 515 | 23 | Tabitha Dupre-Allen |
 | 516 | 23 | Eric Spencer Whitaker |
-| 517 | 22 | Chummy Liner |
-| 518 | 22 | Jroc Tyra Taylor |
+| 517 | 23 | Jamie Lea Popp |
+| 518 | 22 | Chummy Liner |
 | 519 | 22 | De'Nell Edwards |
-| 520 | 22 | Ad Doctor |
-| 521 | 22 | Rufus |
-| 522 | 22 | Tina Mitchell |
-| 523 | 22 | Happy Blocky |
-| 524 | 22 | jeremy92 |
-| 525 | 21 | Christy |
-| 526 | 21 | Desiree Ryder |
-| 527 | 21 | lady |
-| 528 | 21 | Danny M GR |
-| 529 | 21 | Taz Ballard |
-| 530 | 21 | RylonJones |
-| 531 | 21 | Richelle Beck |
-| 532 | 21 | Cali Lee |
-| 533 | 21 | Juanita Quezaire |
+| 520 | 22 | Jroc Tyra Taylor |
+| 521 | 22 | Happy Blocky |
+| 522 | 22 | jeremy92 |
+| 523 | 22 | Tina Mitchell |
+| 524 | 22 | Rufus |
+| 525 | 22 | Ad Doctor |
+| 526 | 21 | Danny M GR |
+| 527 | 21 | Christy |
+| 528 | 21 | Cali Lee |
+| 529 | 21 | Clever Blocker |
+| 530 | 21 | Juanita Quezaire |
+| 531 | 21 | RylonJones |
+| 532 | 21 | Desiree Ryder |
+| 533 | 21 | lady |
 | 534 | 21 | NastyFriend |
-| 535 | 21 | Clever Blocker |
-| 536 | 20 | SherylU |
-| 537 | 20 | Sallie Sanborn |
-| 538 | 20 | Antoinette Kelly |
-| 539 | 20 | Parris Wright |
-| 540 | 20 | Ebie |
-| 541 | 20 | Giggy Edgefit |
-| 542 | 20 | Phillip White |
-| 543 | 20 | Dennis Ripley |
-| 544 | 20 | B.L. Perry |
-| 545 | 20 | Spotlight |
-| 546 | 20 | Nyhlah Patterson |
-| 547 | 20 | Bryttani GoingPlaces Latimer |
-| 548 | 20 | Daddy |
-| 549 | 20 | Tanisha Robinson |
-| 550 | 20 | Kenneth Hefney |
-| 551 | 20 | Cynthia Bradley |
-| 552 | 19 | Michelle Stanford-Page |
-| 553 | 19 | Michele Simpson |
-| 554 | 19 | Hyedie Badie |
-| 555 | 19 | Lozuna |
-| 556 | 19 | Saucy Tile |
-| 557 | 19 | Connor Leon Cluff |
-| 558 | 19 | Amanda Woodruff |
-| 559 | 19 | Frilly Lifter |
-| 560 | 19 | TY Newme Batts |
-| 561 | 18 | Stephen Garland |
-| 562 | 18 | BonnieB |
-| 563 | 18 | Soubletzy |
-| 564 | 18 | Chris Bell |
-| 565 | 18 | MrsMeadows2019 |
-| 566 | 18 | Shakmar |
-| 567 | 18 | Diamond Nicole |
-| 568 | 18 | Oaklonboy mike |
-| 569 | 18 | AleahKCH |
-| 570 | 18 | Keke |
-| 571 | 18 | Tyree Tman Shinette |
-| 572 | 18 | LoveLee |
-| 573 | 18 | Jeremy Myers |
-| 574 | 18 | Anissa Williams |
-| 575 | 18 | Una |
-| 576 | 18 | Smiley3000 |
-| 577 | 18 | Dannie |
-| 578 | 18 | Ounquan Wright |
+| 535 | 21 | Richelle Beck |
+| 536 | 21 | Taz Ballard |
+| 537 | 20 | Giggy Edgefit |
+| 538 | 20 | Ebie |
+| 539 | 20 | Dennis Ripley |
+| 540 | 20 | Parris Wright |
+| 541 | 20 | Sallie Sanborn |
+| 542 | 20 | Antoinette Kelly |
+| 543 | 20 | Phillip White |
+| 544 | 20 | SherylU |
+| 545 | 20 | B.L. Perry |
+| 546 | 20 | Spotlight |
+| 547 | 20 | Nyhlah Patterson |
+| 548 | 20 | Bryttani GoingPlaces Latimer |
+| 549 | 20 | Daddy |
+| 550 | 20 | Tanisha Robinson |
+| 551 | 20 | Kenneth Hefney |
+| 552 | 20 | Cynthia Bradley |
+| 553 | 19 | Michelle Stanford-Page |
+| 554 | 19 | Michele Simpson |
+| 555 | 19 | Hyedie Badie |
+| 556 | 19 | Lozuna |
+| 557 | 19 | Saucy Tile |
+| 558 | 19 | Connor Leon Cluff |
+| 559 | 19 | Amanda Woodruff |
+| 560 | 19 | Frilly Lifter |
+| 561 | 19 | TY Newme Batts |
+| 562 | 18 | Ounquan Wright |
+| 563 | 18 | Keke |
+| 564 | 18 | AleahKCH |
+| 565 | 18 | LoveLee |
+| 566 | 18 | Tyree Tman Shinette |
+| 567 | 18 | Anissa Williams |
+| 568 | 18 | Jeremy Myers |
+| 569 | 18 | Oaklonboy mike |
+| 570 | 18 | Una |
+| 571 | 18 | Smiley3000 |
+| 572 | 18 | Diamond Nicole |
+| 573 | 18 | Dannie |
+| 574 | 18 | DeAngelo Sorrells |
+| 575 | 18 | MrsMeadows2019 |
+| 576 | 18 | Chris Bell |
+| 577 | 18 | Soubletzy |
+| 578 | 18 | Stephen Garland |
 | 579 | 18 | Azeiare Ziare |
-| 580 | 18 | DeAngelo Sorrells |
+| 580 | 18 | BonnieB |
 | 581 | 17 | Pj Rojas |
-| 582 | 17 | Rikki Moran |
-| 583 | 17 | Vivian Bunnell Myers |
-| 584 | 17 | Solomon Valarie |
-| 585 | 17 | Andre Rivera |
-| 586 | 17 | Jb Mzresilience |
-| 587 | 16 | Sha Anderson |
-| 588 | 16 | Symonne 'Monnie' Pierce |
-| 589 | 16 | Tammy Collins |
-| 590 | 16 | GracefulOwl808 |
-| 591 | 16 | tg |
+| 582 | 17 | Jb Mzresilience |
+| 583 | 17 | Andre Rivera |
+| 584 | 17 | Rikki Moran |
+| 585 | 17 | Solomon Valarie |
+| 586 | 17 | Vivian Bunnell Myers |
+| 587 | 16 | Stephen Glaze |
+| 588 | 16 | Twisty Dashy |
+| 589 | 16 | Symonne 'Monnie' Pierce |
+| 590 | 16 | tg |
+| 591 | 16 | GracefulOwl808 |
 | 592 | 16 | Sunny Tumbler |
-| 593 | 16 | Stephen Glaze |
-| 594 | 16 | Twisty Dashy |
-| 595 | 15 | Spunky Strikerbuilder |
-| 596 | 15 | Motown Chuck |
+| 593 | 16 | Tammy Collins |
+| 594 | 16 | Sha Anderson |
+| 595 | 15 | Haley Bell |
+| 596 | 15 | Laura Long |
 | 597 | 15 | Ivan Israel |
-| 598 | 15 | Elaine Youmans |
-| 599 | 15 | Haley Bell |
-| 600 | 15 | Laura Long |
+| 598 | 15 | Spunky Strikerbuilder |
+| 599 | 15 | Elaine Youmans |
+| 600 | 15 | Motown Chuck |
 | 601 | 15 | Shamara Thurston |
 | 602 | 15 | b |
 | 603 | 15 | Lit757 |
