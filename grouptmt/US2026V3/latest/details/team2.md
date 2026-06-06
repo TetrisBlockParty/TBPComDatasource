@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 23:34:40 UTC
+# Standings for team2 as of 2026-06-06 23:35:17 UTC
 
 **Total Participants:** 1451
 
@@ -57,10 +57,10 @@
 | 49 | 1299 | Tom Badgley |
 | 50 | 1215 | Brent Bittenbender |
 | 51 | 1190 | Marie Edmonds |
-| 52 | 1095 | Jaime P Lamb |
+| 52 | 1173 | Jaime P Lamb |
 | 53 | 1032 | AcardBoardBox |
 | 54 | 1031 | DarkHorse |
-| 55 | 969 | Rose Schaffner-Kibler |
+| 55 | 975 | Rose Schaffner-Kibler |
 | 56 | 959 | Debra Henry |
 | 57 | 942 | Dane Marko |
 | 58 | 921 | Block Dog |
@@ -596,38 +596,38 @@
 | 588 | 65 | Dana Wilson |
 | 589 | 65 | meg |
 | 590 | 65 | Belinda Head |
-| 591 | 64 | Martha Lynn Wiggins |
-| 592 | 64 | Tammy Botkin |
-| 593 | 64 | Lee Leonard |
-| 594 | 64 | Matt Wylie |
-| 595 | 64 | Jolly Builderpiece |
-| 596 | 63 | Julibeth Wells |
-| 597 | 63 | Kimmi Blake |
-| 598 | 63 | Kiersty Redder |
-| 599 | 63 | Jim Wright |
+| 591 | 64 | Twisty Matchfit |
+| 592 | 64 | Martha Lynn Wiggins |
+| 593 | 64 | Tammy Botkin |
+| 594 | 64 | Lee Leonard |
+| 595 | 64 | Matt Wylie |
+| 596 | 64 | Jolly Builderpiece |
+| 597 | 63 | Julibeth Wells |
+| 598 | 63 | Kimmi Blake |
+| 599 | 63 | Kiersty Redder |
 | 600 | 63 | Queen |
-| 601 | 63 | Nicole Ashbaugh |
-| 602 | 62 | Roger Kirksey |
+| 601 | 63 | Jim Wright |
+| 602 | 63 | Nicole Ashbaugh |
 | 603 | 62 | Goldie |
 | 604 | 62 | Amber Simonton |
-| 605 | 62 | Amy Walker |
-| 606 | 62 | Gina Leal |
-| 607 | 62 | David Skelton |
-| 608 | 62 | Erin Lemanski |
-| 609 | 62 | Saucy Lifter |
-| 610 | 61 | Damion Morrison |
-| 611 | 61 | Glitzy Matchclear |
-| 612 | 61 | Rebekah Holland |
-| 613 | 61 | Ken Vaughn |
+| 605 | 62 | Gina Leal |
+| 606 | 62 | Amy Walker |
+| 607 | 62 | Roger Kirksey |
+| 608 | 62 | David Skelton |
+| 609 | 62 | Erin Lemanski |
+| 610 | 62 | Saucy Lifter |
+| 611 | 61 | Damion Morrison |
+| 612 | 61 | Glitzy Matchclear |
+| 613 | 61 | Rebekah Holland |
 | 614 | 61 | Dame Smith |
 | 615 | 61 | Clever Fallmatch |
-| 616 | 61 | Bubbly Dash |
-| 617 | 61 | Twisty Matchfit |
+| 616 | 61 | Ken Vaughn |
+| 617 | 61 | Bubbly Dash |
 | 618 | 60 | Jamin |
 | 619 | 60 | Donutz |
 | 620 | 60 | Nikki Grant |
-| 621 | 60 | Carrie Hayes Lankford |
-| 622 | 60 | Teea Makensi Meyer |
+| 621 | 60 | Teea Makensi Meyer |
+| 622 | 60 | Carrie Hayes Lankford |
 | 623 | 60 | Michelle Arnold |
 | 624 | 60 | Emily Carns |
 | 625 | 60 | Tiffany Hassanshahi |

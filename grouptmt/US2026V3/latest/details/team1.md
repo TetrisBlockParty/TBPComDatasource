@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 23:34:40 UTC
+# Standings for team1 as of 2026-06-06 23:35:17 UTC
 
 **Total Participants:** 1217
 
@@ -76,20 +76,20 @@
 | 68 | 605 | JoJo |
 | 69 | 598 | Ivana Schmidt |
 | 70 | 586 | Kellie Hall |
-| 71 | 565 | Speedy Spinblock |
-| 72 | 548 | Ottison Dianna |
-| 73 | 541 | Andi McGreevy |
-| 74 | 540 | IamJust Neyamijah Washington Sr. |
-| 75 | 535 | Eric Mcgaughy |
-| 76 | 534 | JaszyBadd |
-| 77 | 527 | KenpachisGirl |
-| 78 | 527 | MommaCia |
-| 79 | 525 | PandaPrincess |
-| 80 | 511 | Abraham Espaillat |
-| 81 | 511 | Dizzy Dropper |
-| 82 | 510 | Cj Gorman |
-| 83 | 502 | Tiana Moore |
-| 84 | 498 | Weeze |
+| 71 | 578 | Weeze |
+| 72 | 565 | Speedy Spinblock |
+| 73 | 548 | Ottison Dianna |
+| 74 | 541 | Andi McGreevy |
+| 75 | 540 | IamJust Neyamijah Washington Sr. |
+| 76 | 535 | Eric Mcgaughy |
+| 77 | 534 | JaszyBadd |
+| 78 | 527 | KenpachisGirl |
+| 79 | 527 | MommaCia |
+| 80 | 525 | PandaPrincess |
+| 81 | 511 | Abraham Espaillat |
+| 82 | 511 | Dizzy Dropper |
+| 83 | 510 | Cj Gorman |
+| 84 | 502 | Tiana Moore |
 | 85 | 495 | Jaida De'Anne Cox |
 | 86 | 489 | Carolynne Walker-Bell |
 | 87 | 477 | Chenell Gillard |
@@ -282,10 +282,10 @@
 | 274 | 125 | Brittanie Wardlow |
 | 275 | 124 | Tipsy Linkroll |
 | 276 | 124 | Courtney Cicoria |
-| 277 | 123 | kitten |
-| 278 | 123 | Cauiasia DeJ'ae |
-| 279 | 122 | Miera Nicole |
-| 280 | 122 | Telisha Mims |
+| 277 | 123 | Telisha Mims |
+| 278 | 123 | kitten |
+| 279 | 123 | Cauiasia DeJ'ae |
+| 280 | 122 | Miera Nicole |
 | 281 | 122 | Giggy Tower |
 | 282 | 121 | Bubbly Piececlear |
 | 283 | 121 | Tiana Monique |
@@ -494,13 +494,13 @@
 | 486 | 66 | Jess |
 | 487 | 66 | GracefulOwl808 |
 | 488 | 66 | De'Nell Edwards |
-| 489 | 65 | Jenni Hardman |
-| 490 | 65 | Perky Pusher |
-| 491 | 65 | Dana Hawes |
-| 492 | 65 | Wayne Savannah |
-| 493 | 65 | Sabrina Wilkerson |
-| 494 | 65 | Erica Charlise |
-| 495 | 65 | Daring Blockclear |
+| 489 | 66 | Daring Blockclear |
+| 490 | 65 | Jenni Hardman |
+| 491 | 65 | Perky Pusher |
+| 492 | 65 | Dana Hawes |
+| 493 | 65 | Wayne Savannah |
+| 494 | 65 | Sabrina Wilkerson |
+| 495 | 65 | Erica Charlise |
 | 496 | 65 | Jazzy Bridger |
 | 497 | 64 | DirtiestofMikes |
 | 498 | 64 | Randizzle |
@@ -676,52 +676,52 @@
 | 668 | 45 | GetDaOPPS |
 | 669 | 45 | Cheery Linkfall |
 | 670 | 45 | Tootsie Pop |
-| 671 | 45 | Y3llOWFAC3 |
-| 672 | 45 | Cali Lee |
-| 673 | 45 | Lawreniesha Burkley |
-| 674 | 45 | Sunny Tumbler |
-| 675 | 45 | Joseph Vs Cap |
-| 676 | 44 | Nic Nic |
-| 677 | 44 | DellaLucretia Thomas |
-| 678 | 44 | EvaLynn NeCole |
-| 679 | 44 | Teresa Menefee |
-| 680 | 44 | Kim Holzmiller |
+| 671 | 45 | Cali Lee |
+| 672 | 45 | Lawreniesha Burkley |
+| 673 | 45 | Joseph Vs Cap |
+| 674 | 45 | Y3llOWFAC3 |
+| 675 | 45 | Sunny Tumbler |
+| 676 | 44 | Kim Holzmiller |
+| 677 | 44 | Ashleyy Netchert |
+| 678 | 44 | Nic Nic |
+| 679 | 44 | EvaLynn NeCole |
+| 680 | 44 | Teresa Menefee |
 | 681 | 44 | Jessie N Michael Silvers |
-| 682 | 44 | Nona Harriel |
+| 682 | 44 | DellaLucretia Thomas |
 | 683 | 44 | GiantBehemoth |
-| 684 | 43 | Christy Quick |
-| 685 | 43 | Vivian Bunnell Myers |
-| 686 | 43 | Corbin Henry |
-| 687 | 43 | Louise Parker |
-| 688 | 43 | Giggy Brickfit |
-| 689 | 43 | Rieshelda Marie White |
-| 690 | 43 | Taylor Jordan Hollis |
-| 691 | 43 | Trixie |
-| 692 | 43 | Block |
-| 693 | 42 | Louise |
-| 694 | 42 | Dennis Ripley |
-| 695 | 42 | Brii Michelle Lamb |
+| 684 | 44 | Nona Harriel |
+| 685 | 43 | Corbin Henry |
+| 686 | 43 | Vivian Bunnell Myers |
+| 687 | 43 | Christy Quick |
+| 688 | 43 | Louise Parker |
+| 689 | 43 | Giggy Brickfit |
+| 690 | 43 | Rieshelda Marie White |
+| 691 | 43 | Taylor Jordan Hollis |
+| 692 | 43 | Trixie |
+| 693 | 43 | Block |
+| 694 | 42 | Louise |
+| 695 | 42 | Dennis Ripley |
 | 696 | 42 | Sally Elizabeth Hopson |
 | 697 | 42 | Lucy |
-| 698 | 42 | Sunny Riserbuilder |
-| 699 | 42 | Jane Lame |
-| 700 | 42 | Wacky Spinfit |
-| 701 | 41 | Taz Ballard |
-| 702 | 41 | Ashleyy Netchert |
+| 698 | 42 | Brii Michelle Lamb |
+| 699 | 42 | Sunny Riserbuilder |
+| 700 | 42 | Jane Lame |
+| 701 | 42 | Wacky Spinfit |
+| 702 | 41 | Delitra Perkins Hatter |
 | 703 | 41 | Spicy Shatterblock |
 | 704 | 41 | Danielle Marie Lewis |
-| 705 | 41 | Frothy Zoney |
-| 706 | 41 | Cranky Fall |
-| 707 | 41 | JLynn Mind Ur's Blackwell |
-| 708 | 41 | Delitra Perkins Hatter |
-| 709 | 40 | Marcello Rush |
-| 710 | 40 | Slinky Fallzone |
-| 711 | 40 | Rochelle Nash-Evans |
-| 712 | 40 | nay |
-| 713 | 40 | Chummy Blockpiece |
-| 714 | 40 | Ashanti Eden |
-| 715 | 40 | Melissa Hershberger |
-| 716 | 40 | Christopher L Crites |
+| 705 | 41 | Taz Ballard |
+| 706 | 41 | Frothy Zoney |
+| 707 | 41 | Cranky Fall |
+| 708 | 41 | JLynn Mind Ur's Blackwell |
+| 709 | 40 | nay |
+| 710 | 40 | Ashanti Eden |
+| 711 | 40 | Chummy Blockpiece |
+| 712 | 40 | Marcello Rush |
+| 713 | 40 | Melissa Hershberger |
+| 714 | 40 | Christopher L Crites |
+| 715 | 40 | Rochelle Nash-Evans |
+| 716 | 40 | Slinky Fallzone |
 | 717 | 40 | Shauntai Holiday |
 | 718 | 40 | RealOne95 |
 | 719 | 40 | Tessa Gaskin |
