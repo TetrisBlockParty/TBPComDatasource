@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 18:15:17 UTC
+# Standings for team1 as of 2026-06-06 18:16:17 UTC
 
 **Total Participants:** 1098
 
@@ -208,9 +208,9 @@
 | 200 | 153 | Jai |
 | 201 | 152 | Jolly Tilefall |
 | 202 | 149 | Lively Riserpiece |
-| 203 | 147 | Melissa D. M. Hornsby |
-| 204 | 147 | MACHETEEDDIE513 |
-| 205 | 147 | Mikayla |
+| 203 | 148 | Mikayla |
+| 204 | 147 | Melissa D. M. Hornsby |
+| 205 | 147 | MACHETEEDDIE513 |
 | 206 | 146 | Keke Ferguson |
 | 207 | 146 | BlackQueen105 |
 | 208 | 146 | Stephen Providenti |
@@ -472,9 +472,9 @@
 | 464 | 58 | Twisty Cascadeclear |
 | 465 | 58 | Brandy Way |
 | 466 | 58 | Alexandrla Smith |
-| 467 | 57 | Nikkizz |
-| 468 | 57 | Faith Armone |
-| 469 | 56 | Kahh |
+| 467 | 57 | Kahh |
+| 468 | 57 | Nikkizz |
+| 469 | 57 | Faith Armone |
 | 470 | 56 | Sugar Foot |
 | 471 | 56 | Nichelle Warren |
 | 472 | 56 | Lakiesha Crawford |
