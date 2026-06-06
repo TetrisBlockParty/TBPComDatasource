@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 18:00:40 UTC
+# Standings for team1 as of 2026-06-06 18:01:16 UTC
 
 **Total Participants:** 1091
 
@@ -480,14 +480,14 @@
 | 472 | 55 | Raquel Ortiz |
 | 473 | 55 | Terrie |
 | 474 | 55 | Dreamzzz |
-| 475 | 55 | Kyle Franklin |
-| 476 | 55 | Lazy Tiltpiece |
-| 477 | 55 | Twisty Brickfit |
-| 478 | 54 | Kashh |
-| 479 | 54 | Ace Hardware |
+| 475 | 55 | Sugar Foot |
+| 476 | 55 | Kyle Franklin |
+| 477 | 55 | Lazy Tiltpiece |
+| 478 | 55 | Twisty Brickfit |
+| 479 | 54 | Kashh |
 | 480 | 54 | Melissa Olvera |
-| 481 | 54 | Dandy Brickfit |
-| 482 | 54 | Sugar Foot |
+| 481 | 54 | Ace Hardware |
+| 482 | 54 | Dandy Brickfit |
 | 483 | 54 | Chuck Quarles |
 | 484 | 54 | Just2Play$ |
 | 485 | 54 | Ryan Runyan |
