@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 10:24:16 UTC
+# Standings for team1 as of 2026-06-06 10:24:39 UTC
 
 **Total Participants:** 957
 
@@ -312,14 +312,14 @@
 | 304 | 67 | Michele Elizabeth McKay-Johnson |
 | 305 | 67 | Travis Davison |
 | 306 | 67 | Johnathan Deese |
-| 307 | 66 | GracefulOwl808 |
-| 308 | 66 | Breezy Catcher |
-| 309 | 65 | Giggy Tower |
-| 310 | 65 | Jazzy Bridger |
-| 311 | 65 | Sabrina Wilkerson |
-| 312 | 65 | Danielle DeLozier Plesec |
-| 313 | 65 | Jonathan Vee Jay |
-| 314 | 64 | Tyiesha Pie Farmer |
+| 307 | 66 | Tyiesha Pie Farmer |
+| 308 | 66 | GracefulOwl808 |
+| 309 | 66 | Breezy Catcher |
+| 310 | 65 | Giggy Tower |
+| 311 | 65 | Jazzy Bridger |
+| 312 | 65 | Sabrina Wilkerson |
+| 313 | 65 | Danielle DeLozier Plesec |
+| 314 | 65 | Jonathan Vee Jay |
 | 315 | 64 | Dena Marie Lee |
 | 316 | 64 | Penee Wiggins |
 | 317 | 63 | Slinky Clearzone |
