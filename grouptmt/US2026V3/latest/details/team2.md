@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 09:51:16 UTC
+# Standings for team2 as of 2026-06-06 09:52:16 UTC
 
 **Total Participants:** 1101
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 11046 | Summer Harrison |
-| 2 | 9300 | Mochi |
+| 2 | 9600 | Mochi |
 | 3 | 7687 | Lacey Nolting |
 | 4 | 6045 | Morgann McDaniel |
 | 5 | 5987 | Tim Ix |
@@ -71,11 +71,11 @@
 | 63 | 546 | Betty Barrett |
 | 64 | 543 | Kathleen Dumbazz |
 | 65 | 540 | Jamie Jones |
-| 66 | 516 | Brandon Link |
-| 67 | 515 | Loony Faller |
-| 68 | 500 | Denise Potter |
-| 69 | 497 | Lindsay Klemp |
-| 70 | 494 | Deborah Boyce Minor |
+| 66 | 535 | Brandon Link |
+| 67 | 524 | Deborah Boyce Minor |
+| 68 | 515 | Loony Faller |
+| 69 | 500 | Denise Potter |
+| 70 | 497 | Lindsay Klemp |
 | 71 | 494 | Shandrea Crawford |
 | 72 | 468 | Amy Gale |
 | 73 | 461 | Ricardo Ewart |
@@ -108,9 +108,9 @@
 | 100 | 312 | Le Sandy |
 | 101 | 310 | Jennifer Smith |
 | 102 | 300 | Wmk Rathbun |
-| 103 | 299 | Amber Miller Wirick |
-| 104 | 294 | Vistabrat |
-| 105 | 289 | Giddy Slamdrop |
+| 103 | 299 | Giddy Slamdrop |
+| 104 | 299 | Amber Miller Wirick |
+| 105 | 294 | Vistabrat |
 | 106 | 280 | Mom |
 | 107 | 279 | Renee Freeman Jacobson |
 | 108 | 279 | James Ward |
@@ -171,8 +171,8 @@
 | 163 | 160 | Sarah Mccolgan |
 | 164 | 159 | Cara Rivera |
 | 165 | 157 | Santara Ferguson |
-| 166 | 155 | Zany Blockclear |
-| 167 | 154 | Spicy Risegrid |
+| 166 | 155 | Spicy Risegrid |
+| 167 | 155 | Zany Blockclear |
 | 168 | 154 | Glitzy Base |
 | 169 | 153 | Zesty Strikerbuilder |
 | 170 | 151 | Marilyn Mendoza |
@@ -438,92 +438,92 @@
 | 430 | 54 | Christina Nycol |
 | 431 | 54 | Sabrina Hardrick |
 | 432 | 54 | Funway998 |
-| 433 | 53 | Maurii93 |
-| 434 | 53 | Kayley |
-| 435 | 53 | Jessica Spivey Cooper |
-| 436 | 53 | Wacky Stack |
-| 437 | 53 | Spicy Basepiece |
-| 438 | 53 | Trisha Schneider |
-| 439 | 52 | Rosalie Call Kehlenbeck |
+| 433 | 53 | Spicy Basepiece |
+| 434 | 53 | Wacky Stack |
+| 435 | 53 | Kayley |
+| 436 | 53 | Jessica Spivey Cooper |
+| 437 | 53 | Maurii93 |
+| 438 | 53 | Wayne Johnson |
+| 439 | 53 | Trisha Schneider |
 | 440 | 52 | Julibeth Wells |
-| 441 | 52 | Gina Louise Parker |
-| 442 | 52 | Chipper Spinzone |
-| 443 | 52 | Amber Marie Lacey |
+| 441 | 52 | Chipper Spinzone |
+| 442 | 52 | Gina Louise Parker |
+| 443 | 52 | Rosalie Call Kehlenbeck |
 | 444 | 52 | Kelly |
-| 445 | 51 | Amber-leigh Williams |
-| 446 | 51 | Amber Carpenter |
-| 447 | 51 | Loretta Crow |
-| 448 | 51 | Tashamonique Puckey |
-| 449 | 51 | Twisty Matchfit |
-| 450 | 51 | Mama G |
+| 445 | 52 | Amber Marie Lacey |
+| 446 | 51 | Tashamonique Puckey |
+| 447 | 51 | Mama G |
+| 448 | 51 | Amber-leigh Williams |
+| 449 | 51 | Amber Carpenter |
+| 450 | 51 | Loretta Crow |
 | 451 | 51 | Dad |
-| 452 | 50 | Charith Lorelle Watson |
-| 453 | 50 | Teea Makensi Meyer |
-| 454 | 50 | Whitt |
-| 455 | 50 | Swanky Fitline |
-| 456 | 50 | Jennifer Wymer |
-| 457 | 50 | MarioKarasovic |
-| 458 | 49 | Hillary Frank |
+| 452 | 51 | Twisty Matchfit |
+| 453 | 50 | Charith Lorelle Watson |
+| 454 | 50 | Swanky Fitline |
+| 455 | 50 | Jennifer Wymer |
+| 456 | 50 | MarioKarasovic |
+| 457 | 50 | Whitt |
+| 458 | 50 | Teea Makensi Meyer |
 | 459 | 49 | Tetrismastrr |
 | 460 | 49 | Cherica Taylor |
-| 461 | 49 | R.w. Buck |
-| 462 | 49 | Dayna Messer-Thelen |
-| 463 | 49 | Josephina |
-| 464 | 49 | rebel4lyfe |
-| 465 | 48 | Tamara Whiteley |
-| 466 | 48 | Squared |
-| 467 | 48 | Renee Siems |
-| 468 | 48 | TNGal |
-| 469 | 48 | Zaniya Brown |
-| 470 | 48 | Jason P. Schwartz |
-| 471 | 48 | Brian Little |
-| 472 | 48 | Joyce Galloway |
-| 473 | 48 | Katelynn Hunt |
-| 474 | 48 | Krystle McCaslin |
-| 475 | 48 | Dizzy Dropzone |
-| 476 | 48 | Funky Blockmatch |
-| 477 | 47 | andee |
-| 478 | 47 | BB |
+| 461 | 49 | rebel4lyfe |
+| 462 | 49 | R.w. Buck |
+| 463 | 49 | Hillary Frank |
+| 464 | 49 | Dayna Messer-Thelen |
+| 465 | 49 | Josephina |
+| 466 | 48 | Tamara Whiteley |
+| 467 | 48 | Squared |
+| 468 | 48 | Renee Siems |
+| 469 | 48 | TNGal |
+| 470 | 48 | Zaniya Brown |
+| 471 | 48 | Jason P. Schwartz |
+| 472 | 48 | Brian Little |
+| 473 | 48 | Funky Blockmatch |
+| 474 | 48 | Joyce Galloway |
+| 475 | 48 | Katelynn Hunt |
+| 476 | 48 | Dizzy Dropzone |
+| 477 | 48 | Krystle McCaslin |
+| 478 | 47 | Angela Hogan |
 | 479 | 47 | Christina Reid |
-| 480 | 47 | Angela Hogan |
-| 481 | 47 | Starvinmarvin |
-| 482 | 46 | Coleen Yoder |
-| 483 | 46 | CATFISH |
-| 484 | 46 | Cassandra Green |
-| 485 | 46 | Denna Marteney |
-| 486 | 46 | Diane Byrd |
-| 487 | 46 | Danielle Blount |
-| 488 | 46 | Kristi Chestnut |
-| 489 | 46 | Brittany Nichole Ellenburg |
-| 490 | 46 | Michelle Fry-Cash |
-| 491 | 46 | Dani Newton |
+| 480 | 47 | andee |
+| 481 | 47 | BB |
+| 482 | 47 | Starvinmarvin |
+| 483 | 46 | Diane Byrd |
+| 484 | 46 | Danielle Blount |
+| 485 | 46 | Dani Newton |
+| 486 | 46 | CATFISH |
+| 487 | 46 | Michelle Fry-Cash |
+| 488 | 46 | Denna Marteney |
+| 489 | 46 | Coleen Yoder |
+| 490 | 46 | Brittany Nichole Ellenburg |
+| 491 | 46 | Kristi Chestnut |
 | 492 | 46 | Nutty Fitzone |
-| 493 | 45 | Frisky Linkbuilder |
+| 493 | 46 | Cassandra Green |
 | 494 | 45 | Madonna Ash |
-| 495 | 45 | Nora Buchan |
-| 496 | 45 | Michelle Anne |
-| 497 | 45 | Ozge Akgun Tokat |
-| 498 | 45 | Brenda Shannon |
-| 499 | 45 | Heather |
-| 500 | 45 | Carmina Truoiolo |
+| 495 | 45 | Michelle Anne |
+| 496 | 45 | Nora Buchan |
+| 497 | 45 | Carmina Truoiolo |
+| 498 | 45 | Frisky Linkbuilder |
+| 499 | 45 | Brenda Shannon |
+| 500 | 45 | CEK |
 | 501 | 45 | Stoney McMillion |
-| 502 | 45 | CEK |
-| 503 | 45 | Jackie Walker |
-| 504 | 44 | Katie Boen |
+| 502 | 45 | Jackie Walker |
+| 503 | 45 | Heather |
+| 504 | 45 | Ozge Akgun Tokat |
 | 505 | 44 | Roger Kirksey |
 | 506 | 44 | Jessica Connot |
-| 507 | 44 | Wayne Johnson |
-| 508 | 43 | Peter Fogg |
-| 509 | 43 | Kourtney Heiden-Hudson |
-| 510 | 43 | Missy Savage-Justice |
-| 511 | 43 | Perky Linebuilder |
+| 507 | 44 | Katie Boen |
+| 508 | 43 | Jason Lamporte |
+| 509 | 43 | Peter Fogg |
+| 510 | 43 | Kourtney Heiden-Hudson |
+| 511 | 43 | Michael Carmichael |
 | 512 | 43 | LadyDeath |
-| 513 | 43 | Michael Carmichael |
-| 514 | 43 | Jason Lamporte |
-| 515 | 42 | Snazzy Smasher |
-| 516 | 42 | Shylo Bryant-Brunson |
-| 517 | 42 | David Skelton |
-| 518 | 42 | Pamela Raye |
+| 513 | 43 | Missy Savage-Justice |
+| 514 | 43 | Perky Linebuilder |
+| 515 | 42 | Shylo Bryant-Brunson |
+| 516 | 42 | Snazzy Smasher |
+| 517 | 42 | Pamela Raye |
+| 518 | 42 | David Skelton |
 | 519 | 42 | Bri St Peter |
 | 520 | 42 | Michael James |
 | 521 | 42 | Amy D Coble |
