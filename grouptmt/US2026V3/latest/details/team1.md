@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 23:44:18 UTC
+# Standings for team1 as of 2026-06-06 23:44:41 UTC
 
 **Total Participants:** 1219
 
@@ -270,9 +270,9 @@
 | 262 | 130 | Jessica Davis |
 | 263 | 130 | Crystal Anderson |
 | 264 | 129 | Tremaine Hiler |
-| 265 | 129 | Lisa Fletcher |
-| 266 | 128 | Jack Vlasak |
-| 267 | 128 | Mathew Trudell |
+| 265 | 129 | Mathew Trudell |
+| 266 | 129 | Lisa Fletcher |
+| 267 | 128 | Jack Vlasak |
 | 268 | 128 | Darrel K Pemberton |
 | 269 | 127 | Treneil Daffin |
 | 270 | 126 | Simone Bailey |
@@ -1196,35 +1196,35 @@
 | 1188 | 7 | Zany Patternblock |
 | 1189 | 6 | Frilly Riserbuilder |
 | 1190 | 6 | Andrae Robinson |
-| 1191 | 6 | NEM0228 |
-| 1192 | 6 | Terry Lee Moya |
-| 1193 | 6 | smash56! |
-| 1194 | 6 | Wu May |
-| 1195 | 6 | Kyshia |
-| 1196 | 6 | Simone Dublin |
-| 1197 | 6 | CK |
-| 1198 | 6 | Nerdy Slam |
-| 1199 | 5 | Stephanie Zuniga Tullock |
-| 1200 | 5 | Aanngie Aanngie |
-| 1201 | 5 | Zappy Clearfit |
-| 1202 | 5 | DRIFTER |
-| 1203 | 5 | Chill Linkroll |
-| 1204 | 5 | Annette DeLoatch Thompson |
-| 1205 | 5 | Marissa Sweet |
-| 1206 | 5 | Tipsy Builderline |
-| 1207 | 5 | VERA DAME |
-| 1208 | 5 | Rachael R Gull |
-| 1209 | 5 | Zesty Clearer |
-| 1210 | 5 | Angelique Thomas |
-| 1211 | 5 | Happy |
-| 1212 | 5 | pettymexoxo |
-| 1213 | 5 | Alonzo Kirkland |
+| 1191 | 6 | Nerdy Slam |
+| 1192 | 6 | CK |
+| 1193 | 6 | NEM0228 |
+| 1194 | 6 | Simone Dublin |
+| 1195 | 6 | Wu May |
+| 1196 | 6 | Terry Lee Moya |
+| 1197 | 6 | Kyshia |
+| 1198 | 6 | smash56! |
+| 1199 | 5 | VERA DAME |
+| 1200 | 5 | Meshia |
+| 1201 | 5 | Marissa Sweet |
+| 1202 | 5 | Chill Linkroll |
+| 1203 | 5 | DRIFTER |
+| 1204 | 5 | Aanngie Aanngie |
+| 1205 | 5 | Stephanie Zuniga Tullock |
+| 1206 | 5 | Zappy Clearfit |
+| 1207 | 5 | Annette DeLoatch Thompson |
+| 1208 | 5 | Zesty Clearer |
+| 1209 | 5 | Tipsy Builderline |
+| 1210 | 5 | Tito Divyn |
+| 1211 | 5 | the guy |
+| 1212 | 5 | Mario Meliodas |
+| 1213 | 5 | Andy Barnett |
 | 1214 | 5 | Derek Beverly |
-| 1215 | 5 | Andy Barnett |
-| 1216 | 5 | Mario Meliodas |
-| 1217 | 5 | the guy |
-| 1218 | 5 | Tito Divyn |
-| 1219 | 5 | Meshia |
+| 1215 | 5 | Alonzo Kirkland |
+| 1216 | 5 | pettymexoxo |
+| 1217 | 5 | Rachael R Gull |
+| 1218 | 5 | Happy |
+| 1219 | 5 | Angelique Thomas |
 
 ---
 *Standings created by tournaments datasource generation tool*
