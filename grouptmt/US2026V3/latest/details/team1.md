@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 15:04:38 UTC
+# Standings for team1 as of 2026-06-06 15:05:16 UTC
 
 **Total Participants:** 1031
 
@@ -77,9 +77,9 @@
 | 69 | 427 | Gotcha |
 | 70 | 421 | ing410 |
 | 71 | 420 | IamJust Neyamijah Washington Sr. |
-| 72 | 394 | ELM |
-| 73 | 392 | She Higgy |
-| 74 | 389 | COSA303 |
+| 72 | 419 | COSA303 |
+| 73 | 394 | ELM |
+| 74 | 392 | She Higgy |
 | 75 | 388 | SPNLover24 |
 | 76 | 387 | Novaa |
 | 77 | 380 | Bre Maugh |
