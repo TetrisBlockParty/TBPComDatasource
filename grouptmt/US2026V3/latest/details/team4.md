@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 06:32:16 UTC
+# Standings for team4 as of 2026-06-06 06:32:40 UTC
 
 **Total Participants:** 858
 
@@ -102,12 +102,12 @@
 | 94 | 194 | Lisa lisa |
 | 95 | 194 | Chiquita Blue |
 | 96 | 193 | Tiffany Bunker-Hill |
-| 97 | 184 | Gorica Prusina |
-| 98 | 184 | Giggly Tilt |
+| 97 | 184 | Giggly Tilt |
+| 98 | 184 | Gorica Prusina |
 | 99 | 182 | blockhead |
 | 100 | 181 | Colin |
-| 101 | 180 | Aisha Estrada |
-| 102 | 180 | Shmeedo |
+| 101 | 180 | Shmeedo |
+| 102 | 180 | Aisha Estrada |
 | 103 | 179 | Anna Gribble |
 | 104 | 178 | Tamara Triplet |
 | 105 | 177 | Tammy June |
@@ -116,8 +116,8 @@
 | 108 | 167 | Damon Gaston |
 | 109 | 166 | Aramat |
 | 110 | 162 | Hen |
-| 111 | 160 | Kitsune Bi |
-| 112 | 160 | Littlebrat |
+| 111 | 160 | Littlebrat |
+| 112 | 160 | Kitsune Bi |
 | 113 | 159 | iiPurgeV2 |
 | 114 | 157 | QueenLi86 |
 | 115 | 155 | Shayna Vaigneur-Hall |
@@ -134,23 +134,23 @@
 | 126 | 145 | Trice Stevenson |
 | 127 | 144 | Yesenia Castro Monreal |
 | 128 | 143 | Ashley Mcdonald |
-| 129 | 142 | gabs |
-| 130 | 142 | Scamp Jones |
+| 129 | 142 | Scamp Jones |
+| 130 | 142 | gabs |
 | 131 | 141 | Jackie Polanco |
-| 132 | 137 | Devinlee Brown |
-| 133 | 137 | Jasmine Marie |
-| 134 | 134 | ariel |
-| 135 | 134 | Loony Rotater |
-| 136 | 133 | Shawntae Mccary |
-| 137 | 133 | Janet Sanfilippo Sullivan |
+| 132 | 137 | Jasmine Marie |
+| 133 | 137 | Devinlee Brown |
+| 134 | 134 | Loony Rotater |
+| 135 | 134 | ariel |
+| 136 | 133 | Janet Sanfilippo Sullivan |
+| 137 | 133 | Shawntae Mccary |
 | 138 | 132 | Spicy Chicken |
-| 139 | 129 | Ryan Paul Clark-Ramsey |
-| 140 | 129 | Simone |
-| 141 | 129 | Lani |
+| 139 | 129 | Simone |
+| 140 | 129 | Lani |
+| 141 | 129 | Ryan Paul Clark-Ramsey |
 | 142 | 129 | Brainbabe |
 | 143 | 128 | Crystal Hammonds |
-| 144 | 127 | Tipsy Builderline |
-| 145 | 127 | Chilly Pivot |
+| 144 | 127 | Chilly Pivot |
+| 145 | 127 | Tipsy Builderline |
 | 146 | 126 | GeorgeButts |
 | 147 | 126 | Alyson M Kehler |
 | 148 | 125 | Leslie Ann Carter |
@@ -164,9 +164,9 @@
 | 156 | 118 | Cheery Risegrid |
 | 157 | 118 | Goofy Fall |
 | 158 | 117 | BCO22 |
-| 159 | 116 | Dee Wizz |
-| 160 | 116 | Brennan Shea Greene |
-| 161 | 116 | WeeWooWee |
+| 159 | 116 | WeeWooWee |
+| 160 | 116 | Dee Wizz |
+| 161 | 116 | Brennan Shea Greene |
 | 162 | 114 | Bryan DjMagnum Evans |
 | 163 | 113 | kcknbtz |
 | 164 | 113 | Melissa Anne |
@@ -174,25 +174,25 @@
 | 166 | 111 | Taz |
 | 167 | 109 | Joab Gonzalez |
 | 168 | 109 | Rose Anna Safi |
-| 169 | 108 | Lush Fitblock |
-| 170 | 108 | Juvon SupaShawdii Brooks |
-| 171 | 108 | Debby Ruof |
+| 169 | 108 | Juvon SupaShawdii Brooks |
+| 170 | 108 | Debby Ruof |
+| 171 | 108 | Lush Fitblock |
 | 172 | 107 | June Hoffman |
 | 173 | 105 | Name |
 | 174 | 105 | kellie |
 | 175 | 104 | Tawna Curry |
 | 176 | 104 | Justin Ballard |
 | 177 | 103 | Boldy Rumbler |
-| 178 | 101 | Zesty Twistpiece |
-| 179 | 101 | TheazO |
-| 180 | 100 | Loopy Clusterline |
-| 181 | 100 | CorieBe |
+| 178 | 101 | TheazO |
+| 179 | 101 | Zesty Twistpiece |
+| 180 | 100 | CorieBe |
+| 181 | 100 | Loopy Clusterline |
 | 182 | 99 | Shelby |
 | 183 | 99 | Dapper Strikerpiece |
-| 184 | 98 | Tina Thomas |
-| 185 | 98 | Jacqueline Arce |
-| 186 | 98 | Shanna Fragen |
-| 187 | 98 | Taisha Beasley |
+| 184 | 98 | Taisha Beasley |
+| 185 | 98 | Shanna Fragen |
+| 186 | 98 | Tina Thomas |
+| 187 | 98 | Jacqueline Arce |
 | 188 | 97 | Fancy Tilefall |
 | 189 | 97 | Tarsha Thomas-Martinez |
 | 190 | 96 | JuicyJuice |
@@ -201,30 +201,30 @@
 | 193 | 94 | Reina Pagan |
 | 194 | 93 | farfromlocal |
 | 195 | 92 | Homie |
-| 196 | 91 | Dayna Arthurs |
-| 197 | 91 | Tricia Motika Cowan |
-| 198 | 91 | Dominique Melendez |
-| 199 | 90 | Quiomarie Cotto |
-| 200 | 90 | bollo |
+| 196 | 91 | Dominique Melendez |
+| 197 | 91 | Dayna Arthurs |
+| 198 | 91 | Tricia Motika Cowan |
+| 199 | 90 | bollo |
+| 200 | 90 | Quiomarie Cotto |
 | 201 | 90 | Justin Michael |
 | 202 | 89 | Betsy Froemming |
-| 203 | 89 | Waxboss |
-| 204 | 89 | Chirpy Snapclear |
-| 205 | 87 | CJ |
+| 203 | 89 | Chirpy Snapclear |
+| 204 | 89 | Waxboss |
+| 205 | 87 | Limbo |
 | 206 | 87 | LastBoi |
-| 207 | 87 | Limbo |
+| 207 | 87 | CJ |
 | 208 | 86 | Rachel Lemos |
 | 209 | 85 | Kari Smith |
 | 210 | 84 | Rae Saunders |
-| 211 | 83 | MrLoner Stoner |
-| 212 | 83 | Rosy Perez |
-| 213 | 83 | Mark Fitch Jr. |
-| 214 | 83 | Bouncy |
-| 215 | 83 | Jennifer Fisher Franklin |
-| 216 | 82 | Iforget |
-| 217 | 82 | Codey Haffner |
-| 218 | 82 | Bon Jovi |
-| 219 | 82 | Luna |
+| 211 | 83 | Mark Fitch Jr. |
+| 212 | 83 | Jennifer Fisher Franklin |
+| 213 | 83 | Bouncy |
+| 214 | 83 | MrLoner Stoner |
+| 215 | 83 | Rosy Perez |
+| 216 | 82 | Luna |
+| 217 | 82 | Bon Jovi |
+| 218 | 82 | Iforget |
+| 219 | 82 | Codey Haffner |
 | 220 | 81 | Lively Cascadebuilder |
 | 221 | 81 | Stasia |
 | 222 | 81 | Janae Harris |
@@ -565,34 +565,34 @@
 | 557 | 26 | Rebecca Rae Reed |
 | 558 | 26 | Tahira Patrice |
 | 559 | 26 | Rob$GEE |
-| 560 | 26 | Chummy Rollzone |
-| 561 | 26 | theyhatejzt |
-| 562 | 26 | Ian T Parker |
-| 563 | 26 | Lisa Ferriero-Daudin |
-| 564 | 26 | Lacey Decker |
-| 565 | 26 | Leslie Marie WarClub |
-| 566 | 26 | Kevin Lyles |
-| 567 | 26 | Jessica Huber |
-| 568 | 26 | Nicole Ambrose |
-| 569 | 26 | Clever Shuffler |
-| 570 | 26 | Kimmie Warren |
-| 571 | 25 | ButterfliesRFree |
-| 572 | 25 | Meghan Etchells |
-| 573 | 25 | chapis |
-| 574 | 25 | Lacie Powers |
-| 575 | 25 | Jada Jordyn Campbell |
-| 576 | 25 | Kendall Rhodie |
-| 577 | 25 | Jim Stewart |
+| 560 | 26 | Alala.Cersei |
+| 561 | 26 | Chummy Rollzone |
+| 562 | 26 | theyhatejzt |
+| 563 | 26 | Ian T Parker |
+| 564 | 26 | Lisa Ferriero-Daudin |
+| 565 | 26 | Lacey Decker |
+| 566 | 26 | Leslie Marie WarClub |
+| 567 | 26 | Nicole Ambrose |
+| 568 | 26 | Kevin Lyles |
+| 569 | 26 | Jessica Huber |
+| 570 | 26 | Clever Shuffler |
+| 571 | 26 | Kimmie Warren |
+| 572 | 25 | Kendall Rhodie |
+| 573 | 25 | Jada Jordyn Campbell |
+| 574 | 25 | ButterfliesRFree |
+| 575 | 25 | Jim Stewart |
+| 576 | 25 | Lacie Powers |
+| 577 | 25 | chapis |
 | 578 | 25 | Brandon Bedenbaugh |
-| 579 | 25 | Travis McKinnon |
-| 580 | 24 | Linda |
-| 581 | 24 | George Palacios |
-| 582 | 24 | Tony Clark |
-| 583 | 24 | Ferlyz |
+| 579 | 25 | Meghan Etchells |
+| 580 | 25 | Travis McKinnon |
+| 581 | 24 | Ferlyz |
+| 582 | 24 | George Palacios |
+| 583 | 24 | Tony Clark |
 | 584 | 24 | Khiem Hernandez |
 | 585 | 24 | Socorro Arredondo |
 | 586 | 24 | Ja'Net Riley |
-| 587 | 24 | Alala.Cersei |
+| 587 | 24 | Linda |
 | 588 | 24 | Katiana Gonzalez |
 | 589 | 24 | Love GH |
 | 590 | 24 | Amanda Serrano Ruffner |
