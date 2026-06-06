@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 23:10:18 UTC
+# Standings for team1 as of 2026-06-06 23:10:39 UTC
 
 **Total Participants:** 1205
 
@@ -195,26 +195,26 @@
 | 187 | 191 | Emily Wright |
 | 188 | 190 | Davionte DaeDae Hopson-Rodriguez |
 | 189 | 189 | Mikayla |
-| 190 | 186 | Stephen Providenti |
-| 191 | 185 | Byron Mario Cawthon |
-| 192 | 184 | pooh |
-| 193 | 184 | Dai Bo |
-| 194 | 184 | Frisky Fall |
-| 195 | 182 | Hyper Blocky |
-| 196 | 181 | Jocelyn Pope-Sewell |
-| 197 | 180 | Melissa D. M. Hornsby |
-| 198 | 180 | Zippy Lifter |
-| 199 | 179 | Amber Wilson |
-| 200 | 179 | ♈️ Ariesbaby |
-| 201 | 178 | IThinkNot |
-| 202 | 178 | Shameka Thrasher |
-| 203 | 177 | Kenny MrOnethousand Peck |
+| 190 | 187 | Kenny MrOnethousand Peck |
+| 191 | 186 | Stephen Providenti |
+| 192 | 185 | Byron Mario Cawthon |
+| 193 | 184 | pooh |
+| 194 | 184 | Dai Bo |
+| 195 | 184 | Frisky Fall |
+| 196 | 182 | Hyper Blocky |
+| 197 | 181 | Jocelyn Pope-Sewell |
+| 198 | 180 | Melissa D. M. Hornsby |
+| 199 | 180 | Zippy Lifter |
+| 200 | 179 | Amber Wilson |
+| 201 | 179 | ♈️ Ariesbaby |
+| 202 | 178 | IThinkNot |
+| 203 | 178 | Shameka Thrasher |
 | 204 | 176 | Nikki Hogan |
 | 205 | 171 | Boldy Liner |
 | 206 | 171 | Cheeky Pop |
 | 207 | 170 | Chipper Snapper |
-| 208 | 169 | Asha Langford |
-| 209 | 169 | Chilly Wipebuilder |
+| 208 | 169 | Chilly Wipebuilder |
+| 209 | 169 | Asha Langford |
 | 210 | 168 | Tina Mitchell |
 | 211 | 167 | Jai |
 | 212 | 166 | Tarnisha Neicy Jones |

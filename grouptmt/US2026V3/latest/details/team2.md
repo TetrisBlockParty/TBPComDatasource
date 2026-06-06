@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 23:10:18 UTC
+# Standings for team2 as of 2026-06-06 23:10:39 UTC
 
 **Total Participants:** 1436
 
@@ -23,8 +23,8 @@
 | 15 | 3950 | Erica Dees Parks |
 | 16 | 3812 | Crystal M Sowden |
 | 17 | 3694 | Renee Weedling |
-| 18 | 3600 | Crafty Ziggy |
-| 19 | 3578 | Jewels |
+| 18 | 3636 | Jewels |
+| 19 | 3600 | Crafty Ziggy |
 | 20 | 3492 | Traci Elizabeth |
 | 21 | 3181 | Bobbi |
 | 22 | 3148 | Kathleen M Cox |
@@ -139,25 +139,25 @@
 | 131 | 338 | Zarah Kettler |
 | 132 | 332 | Jason Cook |
 | 133 | 329 | Bon Lynn |
-| 134 | 328 | Tim Tim |
-| 135 | 328 | Jgato |
+| 134 | 328 | Jgato |
+| 135 | 328 | Tim Tim |
 | 136 | 325 | Amy Gregg |
 | 137 | 323 | Shannon Wilson |
 | 138 | 319 | Michelle Rich Burkhart |
 | 139 | 317 | Ruby Sandberg |
 | 140 | 315 | Milad Arzani |
-| 141 | 313 | Cool Climber |
-| 142 | 313 | Josh Twilley |
+| 141 | 313 | Josh Twilley |
+| 142 | 313 | Cool Climber |
 | 143 | 311 | Nikki Hayes |
 | 144 | 310 | Jennifer Smith |
 | 145 | 308 | Keri Mears |
-| 146 | 303 | Hoppy Mover |
-| 147 | 302 | Hypee |
-| 148 | 300 | Linda Guay |
-| 149 | 298 | Breeana Bennett |
-| 150 | 296 | Snappy Combo |
-| 151 | 294 | Vistabrat |
-| 152 | 293 | Danielle Blount |
+| 146 | 303 | Danielle Blount |
+| 147 | 303 | Hoppy Mover |
+| 148 | 302 | Hypee |
+| 149 | 300 | Linda Guay |
+| 150 | 298 | Breeana Bennett |
+| 151 | 296 | Snappy Combo |
+| 152 | 294 | Vistabrat |
 | 153 | 292 | James Ward |
 | 154 | 291 | Flashy Twistline |
 | 155 | 288 | Pooh |
@@ -511,7 +511,7 @@
 | 503 | 75 | Becky Kennon |
 | 504 | 75 | Courtney Madison Hart |
 | 505 | 75 | Jeff Pottgether |
-| 506 | 74 | Brooklyn Todd |
+| 506 | 75 | Brooklyn Todd |
 | 507 | 74 | Laurie |
 | 508 | 74 | Valeri Bradley |
 | 509 | 74 | Natasha Lee |
