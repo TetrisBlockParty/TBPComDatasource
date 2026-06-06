@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 06:00:16 UTC
+# Standings for team1 as of 2026-06-06 06:00:39 UTC
 
 **Total Participants:** 882
 
@@ -671,42 +671,42 @@
 | 663 | 18 | Chris Bell |
 | 664 | 18 | Diamond Nicole |
 | 665 | 18 | Tyree Tman Shinette |
-| 666 | 18 | Smiley3000 |
+| 666 | 18 | Soubletzy |
 | 667 | 18 | Stephen Garland |
 | 668 | 18 | Pj Rojas |
 | 669 | 18 | Mighty plantlady |
 | 670 | 18 | Azeiare Ziare |
-| 671 | 18 | DeAngelo Sorrells |
-| 672 | 18 | Soubletzy |
+| 671 | 18 | Smiley3000 |
+| 672 | 18 | DeAngelo Sorrells |
 | 673 | 18 | Una |
 | 674 | 18 | Anissa Williams |
 | 675 | 18 | Ounquan Wright |
-| 676 | 18 | Jeremy Myers |
-| 677 | 18 | Keke |
-| 678 | 18 | AleahKCH |
-| 679 | 18 | Oaklonboy mike |
-| 680 | 17 | Embracing Hair |
-| 681 | 17 | Vivian Bunnell Myers |
-| 682 | 17 | MrsDontPlay |
-| 683 | 17 | Brii Michelle Lamb |
-| 684 | 17 | Andre Rivera |
-| 685 | 17 | Jb Mzresilience |
-| 686 | 17 | Rikki Moran |
-| 687 | 17 | Solomon Valarie |
+| 676 | 18 | Oaklonboy mike |
+| 677 | 18 | AleahKCH |
+| 678 | 18 | Keke |
+| 679 | 18 | Jeremy Myers |
+| 680 | 17 | MrsDontPlay |
+| 681 | 17 | Brii Michelle Lamb |
+| 682 | 17 | Vivian Bunnell Myers |
+| 683 | 17 | Jb Mzresilience |
+| 684 | 17 | Rikki Moran |
+| 685 | 17 | Embracing Hair |
+| 686 | 17 | Solomon Valarie |
+| 687 | 17 | Andre Rivera |
 | 688 | 17 | Keith Johnson |
-| 689 | 16 | Sunny Tumbler |
-| 690 | 16 | Tammy Collins |
-| 691 | 16 | Sha Anderson |
-| 692 | 16 | Krista McNair |
-| 693 | 16 | Twisty Dashy |
-| 694 | 16 | Symonne 'Monnie' Pierce |
-| 695 | 16 | Stacey Kesteloot |
-| 696 | 16 | Dee-Dee Stewart |
-| 697 | 15 | Laura Long |
-| 698 | 15 | Breezy Bouncer |
-| 699 | 15 | Elaine Youmans |
-| 700 | 15 | Haley Bell |
-| 701 | 15 | Idelia L Brown |
+| 689 | 16 | Tammy Collins |
+| 690 | 16 | Sunny Tumbler |
+| 691 | 16 | Idelia L Brown |
+| 692 | 16 | Sha Anderson |
+| 693 | 16 | Krista McNair |
+| 694 | 16 | Twisty Dashy |
+| 695 | 16 | Symonne 'Monnie' Pierce |
+| 696 | 16 | Stacey Kesteloot |
+| 697 | 16 | Dee-Dee Stewart |
+| 698 | 15 | Laura Long |
+| 699 | 15 | Breezy Bouncer |
+| 700 | 15 | Elaine Youmans |
+| 701 | 15 | Haley Bell |
 | 702 | 15 | Spunky Strikerbuilder |
 | 703 | 15 | Nedine Ray |
 | 704 | 15 | Betsy B. Yohan |
