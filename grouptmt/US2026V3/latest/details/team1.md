@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 12:58:17 UTC
+# Standings for team1 as of 2026-06-06 12:58:40 UTC
 
 **Total Participants:** 988
 
@@ -20,7 +20,7 @@
 | 12 | 2596 | Pdubbl3 |
 | 13 | 2415 | Yolanda McDonald |
 | 14 | 2341 | Debbie Carswell |
-| 15 | 2002 | jaimie |
+| 15 | 2052 | jaimie |
 | 16 | 1980 | Hunter Rayborn |
 | 17 | 1913 | Sha Harris |
 | 18 | 1589 | Brian Stackhouse |
@@ -213,14 +213,14 @@
 | 205 | 116 | Kelvin Cook |
 | 206 | 115 | Kenny MrOnethousand Peck |
 | 207 | 114 | pooh |
-| 208 | 113 | Rachel Zimmerman |
-| 209 | 112 | Bre Poston |
+| 208 | 113 | Penee Wiggins |
+| 209 | 113 | Rachel Zimmerman |
 | 210 | 112 | GamerQueenDS |
-| 211 | 111 | Shalena Marie Humphrey |
-| 212 | 111 | Lesley Brunkus Cianfaglione |
-| 213 | 110 | Atlantalindi |
-| 214 | 109 | Tamika Fisher |
-| 215 | 109 | Penee Wiggins |
+| 211 | 112 | Bre Poston |
+| 212 | 111 | Shalena Marie Humphrey |
+| 213 | 111 | Lesley Brunkus Cianfaglione |
+| 214 | 110 | Atlantalindi |
+| 215 | 109 | Tamika Fisher |
 | 216 | 108 | Kimberly Linares Hernandez |
 | 217 | 106 | Matthieu Pistone |
 | 218 | 105 | Kelley Johnson |
