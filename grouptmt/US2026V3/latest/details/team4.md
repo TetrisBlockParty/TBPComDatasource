@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 18:52:39 UTC
+# Standings for team4 as of 2026-06-06 18:53:17 UTC
 
 **Total Participants:** 1100
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 7900 | Lyza |
 | 2 | 7564 | Cinny |
-| 3 | 6133 | Lisa Cullum |
+| 3 | 6204 | Lisa Cullum |
 | 4 | 5469 | Kait Confetti |
 | 5 | 4920 | Jerald Jones |
 | 6 | 4666 | ktothet |
