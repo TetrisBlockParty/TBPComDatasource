@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 00:44:38 UTC
+# Standings for team2 as of 2026-06-06 00:45:15 UTC
 
 **Total Participants:** 725
 
@@ -30,7 +30,7 @@
 | 22 | 1128 | Jennifer Corder |
 | 23 | 1100 | Bobbi |
 | 24 | 1100 | Kathleen M Cox |
-| 25 | 1037 | Bea Bee |
+| 25 | 1057 | Bea Bee |
 | 26 | 1004 | Aubree Richard |
 | 27 | 964 | DarkHorse |
 | 28 | 926 | Happy Pivotfall |
@@ -142,9 +142,9 @@
 | 134 | 110 | Nichole Wilson |
 | 135 | 109 | Logan Duffey |
 | 136 | 108 | Zany Wrecker |
-| 137 | 103 | Tango Sierra |
-| 138 | 102 | Alissa Ary |
-| 139 | 101 | Lush Party |
+| 137 | 105 | Lush Party |
+| 138 | 103 | Tango Sierra |
+| 139 | 102 | Alissa Ary |
 | 140 | 100 | AcardBoardBox |
 | 141 | 100 | Lisa Breiding |
 | 142 | 100 | LEW |
@@ -159,27 +159,27 @@
 | 151 | 94 | Theresa Hollinger |
 | 152 | 92 | Raine |
 | 153 | 92 | Amy Taylor Pomerenk |
-| 154 | 89 | Angie Bishop |
-| 155 | 89 | Belle |
+| 154 | 89 | Belle |
+| 155 | 89 | Angie Bishop |
 | 156 | 89 | Chipper Stackbuilder |
 | 157 | 88 | Nano. |
-| 158 | 87 | Brittni Lawrence |
+| 158 | 88 | Lauren Maxwell |
 | 159 | 87 | Sam Brewster |
-| 160 | 86 | Jamie Fenyus |
-| 161 | 85 | Tina Marie |
+| 160 | 87 | Brittni Lawrence |
+| 161 | 86 | Jamie Fenyus |
 | 162 | 85 | MegaPooh |
-| 163 | 83 | Brenda Jones |
-| 164 | 82 | Norma Ortiz |
-| 165 | 82 | Sandra Pursell |
-| 166 | 82 | Laverne Ellis Blair |
-| 167 | 81 | Shiny Spinfit |
-| 168 | 81 | YldBoar |
-| 169 | 80 | Margie Ann Naffziger |
-| 170 | 80 | Amy Gregg |
-| 171 | 80 | Skye Ehret |
-| 172 | 80 | Nicole Hogue |
-| 173 | 80 | Al Smith Jr |
-| 174 | 80 | Lauren Maxwell |
+| 163 | 85 | Tina Marie |
+| 164 | 83 | Brenda Jones |
+| 165 | 82 | Norma Ortiz |
+| 166 | 82 | Sandra Pursell |
+| 167 | 82 | Laverne Ellis Blair |
+| 168 | 81 | Shiny Spinfit |
+| 169 | 81 | YldBoar |
+| 170 | 80 | Margie Ann Naffziger |
+| 171 | 80 | Amy Gregg |
+| 172 | 80 | Skye Ehret |
+| 173 | 80 | Nicole Hogue |
+| 174 | 80 | Al Smith Jr |
 | 175 | 79 | Aeryal Snow |
 | 176 | 79 | Perii Reynoso |
 | 177 | 78 | LittleHippoEars |
