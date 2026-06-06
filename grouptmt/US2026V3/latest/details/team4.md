@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 17:20:16 UTC
+# Standings for team4 as of 2026-06-06 17:20:40 UTC
 
 **Total Participants:** 1066
 
@@ -18,8 +18,8 @@
 | 10 | 3820 | TitiLo72 |
 | 11 | 3539 | Bryony Nicholson |
 | 12 | 3315 | Jackie Lucas |
-| 13 | 3150 | delilahbelle |
-| 14 | 3150 | Destiny Dyer |
+| 13 | 3150 | Destiny Dyer |
+| 14 | 3150 | delilahbelle |
 | 15 | 3081 | Irene Arreguin |
 | 16 | 3033 | Tyra Brooke Everman Forest |
 | 17 | 3012 | Tonya Brooks-Johnson |
@@ -64,8 +64,8 @@
 | 56 | 594 | Маркус Вік |
 | 57 | 562 | Sweet Stacker |
 | 58 | 559 | Lynn Grimes |
-| 59 | 546 | Bubbly Twistpiece |
-| 60 | 538 | Alala.Cersei |
+| 59 | 558 | Alala.Cersei |
+| 60 | 546 | Bubbly Twistpiece |
 | 61 | 530 | Jonathan Hewitt |
 | 62 | 510 | Krysten Danielle Richard |
 | 63 | 500 | Michele |
