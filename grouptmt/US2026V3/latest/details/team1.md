@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 19:40:39 UTC
+# Standings for team1 as of 2026-06-06 19:41:16 UTC
 
 **Total Participants:** 1133
 
@@ -71,13 +71,13 @@
 | 63 | 540 | IamJust Neyamijah Washington Sr. |
 | 64 | 534 | JaszyBadd |
 | 65 | 527 | KenpachisGirl |
-| 66 | 511 | Abraham Espaillat |
-| 67 | 511 | Dizzy Dropper |
+| 66 | 511 | Dizzy Dropper |
+| 67 | 511 | Abraham Espaillat |
 | 68 | 506 | Court Court |
 | 69 | 502 | Tiana Moore |
-| 70 | 493 | Eartha Brown |
-| 71 | 489 | Carolynne Walker-Bell |
-| 72 | 485 | Kimberly Hernandez |
+| 70 | 494 | Kimberly Hernandez |
+| 71 | 493 | Eartha Brown |
+| 72 | 489 | Carolynne Walker-Bell |
 | 73 | 482 | Cj Gorman |
 | 74 | 474 | Keeta Chickswit Scott |
 | 75 | 471 | D'Andra Stewart |
