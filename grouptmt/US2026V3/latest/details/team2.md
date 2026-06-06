@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 06:18:16 UTC
+# Standings for team2 as of 2026-06-06 06:18:39 UTC
 
 **Total Participants:** 1033
 
@@ -79,21 +79,21 @@
 | 71 | 420 | Mirr Lulu |
 | 72 | 405 | Judy Long |
 | 73 | 400 | Allie Bug |
-| 74 | 395 | Amber Salazar |
-| 75 | 390 | La chulis |
-| 76 | 389 | Kimberly Cowan |
-| 77 | 374 | Mikki Torres |
-| 78 | 354 | Branden Frankowski |
-| 79 | 345 | Smiley Dropper |
-| 80 | 335 | Kaycie Shaffer |
-| 81 | 328 | Tim Tim |
-| 82 | 322 | Tom Badgley |
-| 83 | 319 | Michelle Rich Burkhart |
-| 84 | 317 | Marquetta Johnson |
-| 85 | 317 | Ruby Sandberg |
-| 86 | 315 | Milad Arzani |
-| 87 | 303 | Jennifer Smith |
-| 88 | 300 | Smashanator |
+| 74 | 400 | Smashanator |
+| 75 | 395 | Amber Salazar |
+| 76 | 390 | La chulis |
+| 77 | 389 | Kimberly Cowan |
+| 78 | 374 | Mikki Torres |
+| 79 | 354 | Branden Frankowski |
+| 80 | 345 | Smiley Dropper |
+| 81 | 335 | Kaycie Shaffer |
+| 82 | 328 | Tim Tim |
+| 83 | 322 | Tom Badgley |
+| 84 | 319 | Michelle Rich Burkhart |
+| 85 | 317 | Marquetta Johnson |
+| 86 | 317 | Ruby Sandberg |
+| 87 | 315 | Milad Arzani |
+| 88 | 303 | Jennifer Smith |
 | 89 | 299 | Amber Miller Wirick |
 | 90 | 294 | Vistabrat |
 | 91 | 289 | Giddy Slamdrop |
@@ -163,54 +163,54 @@
 | 155 | 145 | Amanda Priddy |
 | 156 | 141 | Melisa |
 | 157 | 141 | Spicy Risegrid |
-| 158 | 140 | Brittney Williams |
-| 159 | 140 | Billie Jensen |
-| 160 | 140 | marsam |
-| 161 | 140 | Gabriella Humphreys |
-| 162 | 140 | Iesha Cupil |
-| 163 | 140 | snowwol |
+| 158 | 140 | marsam |
+| 159 | 140 | snowwol |
+| 160 | 140 | Iesha Cupil |
+| 161 | 140 | Billie Jensen |
+| 162 | 140 | Gabriella Humphreys |
+| 163 | 140 | Brittney Williams |
 | 164 | 139 | Victoria Pale |
 | 165 | 138 | NickandJess Reynolds |
 | 166 | 137 | Lindsey Ford |
-| 167 | 136 | Joni Michelle Morgan |
-| 168 | 136 | Lashanda Bertram |
+| 167 | 136 | Lashanda Bertram |
+| 168 | 136 | Joni Michelle Morgan |
 | 169 | 136 | Lauren Maxwell |
 | 170 | 135 | Marylin Eacker |
 | 171 | 133 | Bengy Lead |
 | 172 | 132 | Jeanna Mendez |
-| 173 | 132 | Alison Waller |
-| 174 | 132 | Mtnblzr |
+| 173 | 132 | Mtnblzr |
+| 174 | 132 | Alison Waller |
 | 175 | 132 | Spunky Cascadeclear |
-| 176 | 131 | Harper |
-| 177 | 131 | Amy Lea Hamilton |
+| 176 | 131 | Amy Lea Hamilton |
+| 177 | 131 | Harper |
 | 178 | 130 | Precious Womack |
 | 179 | 130 | ZBee |
 | 180 | 129 | Amy Taylor Pomerenk |
 | 181 | 127 | Kim Hunt |
-| 182 | 126 | Teresa Mandich |
+| 182 | 127 | Tina Marie |
 | 183 | 126 | Laverne Ellis Blair |
-| 184 | 125 | Ariel Gundersen |
+| 184 | 126 | Teresa Mandich |
 | 185 | 125 | Chipper Stackbuilder |
-| 186 | 124 | Amie Marks |
+| 186 | 125 | Ariel Gundersen |
 | 187 | 124 | Jason Burris |
-| 188 | 120 | Simone F |
-| 189 | 120 | Brenda Jones |
+| 188 | 124 | Amie Marks |
+| 189 | 120 | Simone F |
 | 190 | 120 | Elizabeth Cornelius |
-| 191 | 120 | Cortney Coleman |
+| 191 | 120 | Brenda Jones |
 | 192 | 120 | Happy |
-| 193 | 120 | Shannon Wilson |
-| 194 | 119 | Armando Sabedra |
-| 195 | 119 | Angie Bishop |
-| 196 | 118 | Logan Duffey |
+| 193 | 120 | Cortney Coleman |
+| 194 | 120 | Shannon Wilson |
+| 195 | 119 | Armando Sabedra |
+| 196 | 119 | Angie Bishop |
 | 197 | 118 | Lora Via |
-| 198 | 118 | Monique Frantz |
-| 199 | 117 | Margie Ann Naffziger |
-| 200 | 117 | Becca Marie |
+| 198 | 118 | Logan Duffey |
+| 199 | 118 | Monique Frantz |
+| 200 | 117 | Margie Ann Naffziger |
 | 201 | 117 | Marge Cromer |
-| 202 | 116 | Gwendolyn Boykin Mobbs |
-| 203 | 116 | Teddy Williams |
-| 204 | 116 | Rick |
-| 205 | 116 | Tina Marie |
+| 202 | 117 | Becca Marie |
+| 203 | 116 | Rick |
+| 204 | 116 | Gwendolyn Boykin Mobbs |
+| 205 | 116 | Teddy Williams |
 | 206 | 114 | Jason Wood |
 | 207 | 114 | Ashley Voelz |
 | 208 | 113 | Zany Wrecker |
@@ -223,8 +223,8 @@
 | 215 | 107 | Michelle M Braley |
 | 216 | 106 | Sara Perkins |
 | 217 | 106 | Patria Osuoha |
-| 218 | 105 | Sarah Mccolgan |
-| 219 | 105 | Charles E Mccardell |
+| 218 | 105 | Charles E Mccardell |
+| 219 | 105 | Sarah Mccolgan |
 | 220 | 104 | Theresa Hollinger |
 | 221 | 103 | Tango Sierra |
 | 222 | 102 | Jat |
@@ -761,67 +761,67 @@
 | 753 | 20 | Dustyn Sims |
 | 754 | 20 | Kay Newcomb |
 | 755 | 20 | Rob Owens |
-| 756 | 20 | Frothy Roll |
-| 757 | 20 | Nanny t |
-| 758 | 20 | Hector |
-| 759 | 20 | Bonita Alexander |
-| 760 | 20 | Chesney |
-| 761 | 20 | Quirky Piecegrid |
-| 762 | 20 | Carmina Truoiolo |
-| 763 | 20 | Raffa |
-| 764 | 20 | Cool cee |
-| 765 | 20 | SaraAnn Gray Philbrick |
-| 766 | 19 | Katie Boen |
-| 767 | 19 | Firebone |
-| 768 | 19 | Snazzy Racker |
-| 769 | 19 | Kathryn |
-| 770 | 19 | Armordguy |
+| 756 | 20 | Quirky Piecegrid |
+| 757 | 20 | SaraAnn Gray Philbrick |
+| 758 | 20 | Amanda Bailey |
+| 759 | 20 | Cool cee |
+| 760 | 20 | Raffa |
+| 761 | 20 | Carmina Truoiolo |
+| 762 | 20 | Chesney |
+| 763 | 20 | Bonita Alexander |
+| 764 | 20 | Hector |
+| 765 | 20 | Nanny t |
+| 766 | 20 | Frothy Roll |
+| 767 | 19 | Katie Boen |
+| 768 | 19 | Kathryn |
+| 769 | 19 | Armordguy |
+| 770 | 19 | Snazzy Racker |
 | 771 | 19 | Twisty Snapmatch |
-| 772 | 19 | Donutz |
-| 773 | 19 | Chirpy Grid |
-| 774 | 19 | Jessica Rose Engebretson |
-| 775 | 19 | jme |
-| 776 | 19 | Kati Eckstein |
-| 777 | 19 | Cool Climber |
-| 778 | 19 | Sassafras Cass |
-| 779 | 19 | Dolly |
+| 772 | 19 | Firebone |
+| 773 | 19 | Donutz |
+| 774 | 19 | Chirpy Grid |
+| 775 | 19 | Jessica Rose Engebretson |
+| 776 | 19 | jme |
+| 777 | 19 | Kati Eckstein |
+| 778 | 19 | Cool Climber |
+| 779 | 19 | Sassafras Cass |
 | 780 | 19 | Stacey Peters |
-| 781 | 19 | Elizabeth Henry |
-| 782 | 19 | Kim Powers |
-| 783 | 18 | Mark Havens |
-| 784 | 18 | Jolly Twisterfit |
-| 785 | 18 | Glitzy Stackbuilder |
-| 786 | 18 | Kaitlyn Hurst |
-| 787 | 18 | Taran Evans |
-| 788 | 18 | Amanda Bailey |
-| 789 | 18 | Debbie Embry |
-| 790 | 18 | Elizabeth Kline |
+| 781 | 19 | Dolly |
+| 782 | 19 | Elizabeth Henry |
+| 783 | 19 | Kim Powers |
+| 784 | 18 | Leon Welch |
+| 785 | 18 | Jolly Twisterfit |
+| 786 | 18 | Glitzy Stackbuilder |
+| 787 | 18 | Kaitlyn Hurst |
+| 788 | 18 | Debbie Embry |
+| 789 | 18 | Elizabeth Kline |
+| 790 | 18 | Mark Havens |
 | 791 | 18 | Cyrus Ramirez |
-| 792 | 18 | Cuca Perez |
+| 792 | 18 | Taran Evans |
 | 793 | 18 | Joanna Trevin Thompson |
-| 794 | 18 | Leon Welch |
-| 795 | 18 | Alison Welsh |
-| 796 | 18 | Chummy Faller |
+| 794 | 18 | Alison Welsh |
+| 795 | 18 | Chummy Faller |
+| 796 | 18 | Cuca Perez |
 | 797 | 18 | Tiffany Heether |
-| 798 | 17 | Amber Marie Lacey |
-| 799 | 17 | Grimwitch |
-| 800 | 17 | Dena Cudjo |
-| 801 | 17 | Rosie |
+| 798 | 17 | Rosie |
+| 799 | 17 | Staci Carl |
+| 800 | 17 | R.w. Buck |
+| 801 | 17 | Shaylee Haltiner |
 | 802 | 17 | Debra May |
-| 803 | 17 | Staci Carl |
-| 804 | 17 | Shaylee Haltiner |
-| 805 | 17 | R.w. Buck |
+| 803 | 17 | Grimwitch |
+| 804 | 17 | Dena Cudjo |
+| 805 | 17 | Amber Marie Lacey |
 | 806 | 16 | Sassy Twistbuilder |
-| 807 | 16 | Princess Cucumber |
+| 807 | 16 | Amanda L Strong |
 | 808 | 16 | Chris |
-| 809 | 16 | Natasha Schatte |
-| 810 | 16 | Renee Craig |
-| 811 | 16 | Amanda L Strong |
+| 809 | 16 | Princess Cucumber |
+| 810 | 16 | Peppy Piececlear |
+| 811 | 16 | Natasha Schatte |
 | 812 | 16 | LK |
 | 813 | 16 | Mouh Ity |
-| 814 | 16 | Kaylyn Wickham |
-| 815 | 16 | Elliot |
-| 816 | 16 | Peppy Piececlear |
+| 814 | 16 | Renee Craig |
+| 815 | 16 | Kaylyn Wickham |
+| 816 | 16 | Elliot |
 | 817 | 16 | Matthew Black |
 | 818 | 16 | Clever Gridzone |
 | 819 | 16 | Danielle Lyons |

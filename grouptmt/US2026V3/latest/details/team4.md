@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 06:18:16 UTC
+# Standings for team4 as of 2026-06-06 06:18:39 UTC
 
 **Total Participants:** 855
 
@@ -131,13 +131,13 @@
 | 123 | 146 | Becky McCool |
 | 124 | 145 | Trice Stevenson |
 | 125 | 144 | Yesenia Castro Monreal |
-| 126 | 143 | Ashley Mcdonald |
-| 127 | 142 | Scamp Jones |
-| 128 | 142 | gabs |
-| 129 | 141 | Jackie Polanco |
-| 130 | 139 | Gorica Prusina |
-| 131 | 137 | Devinlee Brown |
-| 132 | 137 | Jasmine Marie |
+| 126 | 144 | Gorica Prusina |
+| 127 | 143 | Ashley Mcdonald |
+| 128 | 142 | Scamp Jones |
+| 129 | 142 | gabs |
+| 130 | 141 | Jackie Polanco |
+| 131 | 137 | Jasmine Marie |
+| 132 | 137 | Devinlee Brown |
 | 133 | 134 | ariel |
 | 134 | 134 | Loony Rotater |
 | 135 | 133 | Shawntae Mccary |
