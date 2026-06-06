@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 09:30:16 UTC
+# Standings for team1 as of 2026-06-06 09:30:39 UTC
 
 **Total Participants:** 941
 
@@ -372,42 +372,42 @@
 | 364 | 54 | Ace Hardware |
 | 365 | 54 | Twisty Brickfit |
 | 366 | 54 | Rackemwillie34 |
-| 367 | 53 | Phillip Vasquez |
-| 368 | 53 | Clever Wrecker |
-| 369 | 53 | Jumpy Gridlock |
-| 370 | 53 | Cortrell Foster |
+| 367 | 53 | Clever Wrecker |
+| 368 | 53 | Jumpy Gridlock |
+| 369 | 53 | Cortrell Foster |
+| 370 | 53 | Phillip Vasquez |
 | 371 | 52 | Brenda Malachi-butler |
 | 372 | 52 | Dandy Brickfit |
 | 373 | 52 | Raquel Ortiz |
 | 374 | 52 | Anastasia |
 | 375 | 52 | Gabriela Hernandez |
-| 376 | 52 | Loopy Risepiece |
-| 377 | 52 | kitten |
-| 378 | 51 | Rachael Bakowicz Edwards |
-| 379 | 51 | Shanjerrica Taylor Rosell |
-| 380 | 51 | Comedian Gdane |
-| 381 | 51 | Just2Play$ |
-| 382 | 51 | Poppy Smasher |
-| 383 | 50 | Rande Smith |
-| 384 | 50 | Donna Payne |
-| 385 | 50 | Moomoo |
+| 376 | 52 | Moomoo |
+| 377 | 52 | Loopy Risepiece |
+| 378 | 52 | kitten |
+| 379 | 51 | Rachael Bakowicz Edwards |
+| 380 | 51 | Shanjerrica Taylor Rosell |
+| 381 | 51 | Comedian Gdane |
+| 382 | 51 | Just2Play$ |
+| 383 | 51 | Poppy Smasher |
+| 384 | 50 | Rande Smith |
+| 385 | 50 | Donna Payne |
 | 386 | 50 | Slinky Party |
-| 387 | 50 | Nisha Sunshine Jenkins |
-| 388 | 50 | Teresa Yanira Cepeda |
-| 389 | 50 | Daddy |
+| 387 | 50 | Teresa Yanira Cepeda |
+| 388 | 50 | Daddy |
+| 389 | 50 | Nisha Sunshine Jenkins |
 | 390 | 50 | MsBobby Patrick |
 | 391 | 50 | Denell Sims |
-| 392 | 49 | Speedy Stacky |
-| 393 | 49 | SnazzyIvy |
-| 394 | 49 | LexiiSamayaa |
-| 395 | 49 | Teisha Scott |
+| 392 | 49 | Teisha Scott |
+| 393 | 49 | Speedy Stacky |
+| 394 | 49 | SnazzyIvy |
+| 395 | 49 | LexiiSamayaa |
 | 396 | 49 | Brittany Fells |
 | 397 | 49 | No_Other_Choice |
-| 398 | 48 | Slim Shedidthat |
-| 399 | 48 | Lynnette WheelerBushnell |
+| 398 | 48 | Comedian Prince Paul |
+| 399 | 48 | Slim Shedidthat |
 | 400 | 48 | LoveLee |
-| 401 | 48 | Wild Out Nai |
-| 402 | 48 | Comedian Prince Paul |
+| 401 | 48 | Lynnette WheelerBushnell |
+| 402 | 48 | Wild Out Nai |
 | 403 | 48 | Mommy Frank |
 | 404 | 48 | Clever Fitblock |
 | 405 | 48 | Kahh |

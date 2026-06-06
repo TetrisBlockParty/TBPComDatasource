@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 09:30:16 UTC
+# Standings for team2 as of 2026-06-06 09:30:39 UTC
 
 **Total Participants:** 1097
 
@@ -147,9 +147,9 @@
 | 139 | 185 | Logan Duffey |
 | 140 | 184 | Lush Party |
 | 141 | 182 | Jeanna Mendez |
-| 142 | 179 | Nathan Walker |
-| 143 | 177 | Xandrea Jones |
-| 144 | 175 | Melissa Thomas |
+| 142 | 180 | Melissa Thomas |
+| 143 | 179 | Nathan Walker |
+| 144 | 177 | Xandrea Jones |
 | 145 | 175 | Chipper Stackbuilder |
 | 146 | 174 | Mookshake |
 | 147 | 174 | Nettrainer |
