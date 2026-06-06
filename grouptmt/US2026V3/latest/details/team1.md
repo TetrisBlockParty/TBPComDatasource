@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 20:40:40 UTC
+# Standings for team1 as of 2026-06-06 20:41:17 UTC
 
 **Total Participants:** 1152
 
@@ -48,8 +48,8 @@
 | 40 | 984 | Holly Jolly |
 | 41 | 971 | Spicy Balancer |
 | 42 | 940 | Sanjuro |
-| 43 | 935 | Whitney Butler |
-| 44 | 935 | Chill Clusterer |
+| 43 | 935 | Chill Clusterer |
+| 44 | 935 | Whitney Butler |
 | 45 | 933 | Cherry Rose |
 | 46 | 882 | Jon Gathers |
 | 47 | 877 | Brian Bohanon II |
@@ -129,8 +129,8 @@
 | 121 | 290 | Roberta Lynn |
 | 122 | 280 | Tammye Turner |
 | 123 | 278 | Shontanese Adams |
-| 124 | 275 | Tamara N Lee |
-| 125 | 275 | Chris Sladoje |
+| 124 | 275 | Chris Sladoje |
+| 125 | 275 | Tamara N Lee |
 | 126 | 275 | Jawaun Daniels |
 | 127 | 274 | Tonya Lee Sanders |
 | 128 | 273 | MamaBear |
@@ -148,15 +148,15 @@
 | 140 | 249 | Cee Emm |
 | 141 | 247 | Po Marley |
 | 142 | 246 | Denise B |
-| 143 | 246 | Alana Renee |
-| 144 | 246 | Andre Sanon |
+| 143 | 246 | Andre Sanon |
+| 144 | 246 | Alana Renee |
 | 145 | 245 | Derrius SeriousLee Burks |
 | 146 | 243 | NastyFriend |
 | 147 | 241 | Chantelle Lee |
 | 148 | 240 | Rayya Kiser |
 | 149 | 237 | David Fuentes |
-| 150 | 236 | SyTheEvilGenius1 |
-| 151 | 236 | Nutty Spinblock |
+| 150 | 236 | Nutty Spinblock |
+| 151 | 236 | SyTheEvilGenius1 |
 | 152 | 226 | xXEKUNXx |
 | 153 | 225 | Rhonda Williams Warner |
 | 154 | 222 | Mic Balew |
@@ -189,48 +189,48 @@
 | 181 | 184 | Byron Mario Cawthon |
 | 182 | 182 | Hyper Blocky |
 | 183 | 180 | Zippy Lifter |
-| 184 | 179 | ♈️ Ariesbaby |
-| 185 | 179 | Amber Wilson |
-| 186 | 178 | Shameka Thrasher |
-| 187 | 178 | Jazzy Fireflighters |
+| 184 | 179 | Amber Wilson |
+| 185 | 179 | ♈️ Ariesbaby |
+| 186 | 178 | Jazzy Fireflighters |
+| 187 | 178 | Shameka Thrasher |
 | 188 | 176 | Nikki Hogan |
 | 189 | 176 | Anthony Washington |
-| 190 | 172 | pooh |
-| 191 | 172 | Marcheta Cervantez |
+| 190 | 172 | Marcheta Cervantez |
+| 191 | 172 | pooh |
 | 192 | 171 | Boldy Liner |
-| 193 | 170 | IThinkNot |
-| 194 | 169 | Christina Rebecca |
-| 195 | 169 | Asha Langford |
-| 196 | 168 | Tina Mitchell |
-| 197 | 167 | Jai |
+| 193 | 170 | Kaleisha Smith |
+| 194 | 170 | IThinkNot |
+| 195 | 169 | Christina Rebecca |
+| 196 | 169 | Asha Langford |
+| 197 | 168 | Tina Mitchell |
 | 198 | 167 | Chilly Wipebuilder |
-| 199 | 166 | Tarnisha Neicy Jones |
-| 200 | 165 | Queenie Perry |
-| 201 | 163 | Mafio SO |
-| 202 | 162 | JaClanDiah |
-| 203 | 161 | Dawn L Washington-Feuquay |
-| 204 | 160 | Jamie Willis |
-| 205 | 160 | Sara Meri |
+| 199 | 167 | Jai |
+| 200 | 166 | Tarnisha Neicy Jones |
+| 201 | 165 | Queenie Perry |
+| 202 | 163 | Mafio SO |
+| 203 | 162 | JaClanDiah |
+| 204 | 161 | Dawn L Washington-Feuquay |
+| 205 | 160 | Spicy Risepiece |
 | 206 | 160 | Carolyn Smith |
-| 207 | 160 | DaGuy |
-| 208 | 160 | Kaleisha Smith |
-| 209 | 160 | Spicy Risepiece |
+| 207 | 160 | Sara Meri |
+| 208 | 160 | Jamie Willis |
+| 209 | 160 | DaGuy |
 | 210 | 159 | Fina McKinnis |
-| 211 | 157 | Kimberly Linares Hernandez |
-| 212 | 157 | Richard Flex |
+| 211 | 157 | Richard Flex |
+| 212 | 157 | Kimberly Linares Hernandez |
 | 213 | 156 | Jessica Russell |
 | 214 | 156 | Cheeky Pop |
 | 215 | 156 | Cheeky Twistpiece |
 | 216 | 153 | Rackemwillie34 |
-| 217 | 152 | Mikayla |
-| 218 | 152 | Jolly Tilefall |
+| 217 | 152 | Jolly Tilefall |
+| 218 | 152 | Mikayla |
 | 219 | 149 | Lively Riserpiece |
-| 220 | 147 | Melissa D. M. Hornsby |
-| 221 | 147 | Sammie Walker |
-| 222 | 147 | MACHETEEDDIE513 |
-| 223 | 146 | BlackQueen105 |
+| 220 | 147 | Sammie Walker |
+| 221 | 147 | MACHETEEDDIE513 |
+| 222 | 147 | Melissa D. M. Hornsby |
+| 223 | 146 | Stephen Providenti |
 | 224 | 146 | Keke Ferguson |
-| 225 | 146 | Stephen Providenti |
+| 225 | 146 | BlackQueen105 |
 | 226 | 145 | Latisha Fairley |
 | 227 | 144 | TBABYJ |
 | 228 | 143 | BULLSEYE |
@@ -240,31 +240,31 @@
 | 232 | 138 | Calvin Green |
 | 233 | 137 | Tay |
 | 234 | 136 | Penee Wiggins |
-| 235 | 135 | Sean White |
-| 236 | 135 | Saucy Tile |
-| 237 | 131 | Koi |
+| 235 | 135 | Saucy Tile |
+| 236 | 135 | Sean White |
+| 237 | 131 | Rachel Zimmerman |
 | 238 | 131 | Matthieu Pistone |
-| 239 | 131 | Rachel Zimmerman |
+| 239 | 131 | Koi |
 | 240 | 130 | Jessica Davis |
 | 241 | 130 | Dion Gray |
 | 242 | 129 | Tremaine Hiler |
 | 243 | 129 | Lisa Fletcher |
 | 244 | 128 | Jack Vlasak |
-| 245 | 127 | Treneil Daffin |
-| 246 | 127 | Tanisha Taylor |
-| 247 | 126 | Simone Bailey |
-| 248 | 126 | 신재호 |
-| 249 | 125 | Brittanie Wardlow |
-| 250 | 125 | LaShaun Stinson |
-| 251 | 125 | LaTonya Myers |
-| 252 | 124 | Tipsy Linkroll |
-| 253 | 124 | Courtney Cicoria |
+| 245 | 127 | Tanisha Taylor |
+| 246 | 127 | Treneil Daffin |
+| 247 | 126 | 신재호 |
+| 248 | 126 | Simone Bailey |
+| 249 | 125 | LaTonya Myers |
+| 250 | 125 | Brittanie Wardlow |
+| 251 | 125 | LaShaun Stinson |
+| 252 | 124 | Courtney Cicoria |
+| 253 | 124 | Tipsy Linkroll |
 | 254 | 123 | Cauiasia DeJ'ae |
-| 255 | 123 | kitten |
-| 256 | 123 | Slinky Snapbuilder |
+| 255 | 123 | Slinky Snapbuilder |
+| 256 | 123 | kitten |
 | 257 | 122 | Miera Nicole |
-| 258 | 121 | Tiana Monique |
-| 259 | 121 | Bubbly Piececlear |
+| 258 | 121 | Bubbly Piececlear |
+| 259 | 121 | Tiana Monique |
 | 260 | 120 | Valerie Alexander |
 | 261 | 120 | Trina Greenwood |
 | 262 | 120 | Nerdy Blockpiece |
@@ -273,62 +273,62 @@
 | 265 | 118 | Hasty Pivoty |
 | 266 | 117 | Giggy Tower |
 | 267 | 116 | Kelvin Cook |
-| 268 | 115 | Skippy |
-| 269 | 115 | Dizzy Dashy |
-| 270 | 115 | Kenny MrOnethousand Peck |
+| 268 | 115 | Kenny MrOnethousand Peck |
+| 269 | 115 | Skippy |
+| 270 | 115 | Dizzy Dashy |
 | 271 | 114 | Brittany Fells |
 | 272 | 114 | LAhoneybun82 |
-| 273 | 112 | GamerQueenDS |
-| 274 | 112 | Bre Poston |
+| 273 | 112 | Bre Poston |
+| 274 | 112 | GamerQueenDS |
 | 275 | 111 | Sarah Clark |
 | 276 | 111 | Lesley Brunkus Cianfaglione |
 | 277 | 110 | Slinky Party |
-| 278 | 110 | Chandler Magee |
-| 279 | 110 | Nate Myers |
+| 278 | 110 | Nate Myers |
+| 279 | 110 | Chandler Magee |
 | 280 | 109 | Tamika Fisher |
 | 281 | 109 | Loopy Tiler |
 | 282 | 109 | Bambi Johnson |
-| 283 | 108 | Char |
-| 284 | 108 | Dedra M Prester |
+| 283 | 108 | Dedra M Prester |
+| 284 | 108 | Char |
 | 285 | 107 | Shalya Terry |
-| 286 | 107 | LaToya Chambers |
-| 287 | 107 | Telisha Mims |
+| 286 | 107 | Telisha Mims |
+| 287 | 107 | LaToya Chambers |
 | 288 | 106 | Mister Reid |
 | 289 | 105 | Kelley Johnson |
 | 290 | 105 | Dena Marie Lee |
 | 291 | 105 | Katrina Ramey |
-| 292 | 104 | Brittnay Wright |
-| 293 | 104 | Ahvae Lee |
+| 292 | 104 | Ahvae Lee |
+| 293 | 104 | Brittnay Wright |
 | 294 | 102 | Maribel Vasquez |
 | 295 | 101 | Joana Thompson |
-| 296 | 100 | Hailey Hil |
-| 297 | 100 | Seddrick |
-| 298 | 100 | Dynah Gordon |
+| 296 | 100 | Kesha Brady |
+| 297 | 100 | Leavon Smith |
+| 298 | 100 | Seddrick |
 | 299 | 100 | $hort Dog |
-| 300 | 100 | Leavon Smith |
-| 301 | 100 | Mary Phillippi Blanton |
-| 302 | 100 | TT |
-| 303 | 100 | Kesha Brady |
-| 304 | 99 | SeanSanchez |
-| 305 | 99 | Ciera Peace |
+| 300 | 100 | Hailey Hil |
+| 301 | 100 | Dynah Gordon |
+| 302 | 100 | Mary Phillippi Blanton |
+| 303 | 100 | TT |
+| 304 | 99 | Ciera Peace |
+| 305 | 99 | SeanSanchez |
 | 306 | 99 | ChunLi |
 | 307 | 98 | Maria |
-| 308 | 98 | Ad Doctor |
-| 309 | 98 | Shannon Carriger |
-| 310 | 98 | Slim Shedidthat |
-| 311 | 98 | Dorian Griffin |
-| 312 | 97 | Shanell Thomas |
+| 308 | 98 | Dorian Griffin |
+| 309 | 98 | Slim Shedidthat |
+| 310 | 98 | Shannon Carriger |
+| 311 | 98 | Ad Doctor |
+| 312 | 97 | Simmone T. Kadiri |
 | 313 | 97 | Laurie Napper |
-| 314 | 97 | Choc |
-| 315 | 97 | Simmone T. Kadiri |
+| 314 | 97 | Shanell Thomas |
+| 315 | 97 | Choc |
 | 316 | 96 | Yazz |
 | 317 | 96 | Phillip Vasquez |
-| 318 | 95 | Tosha Michelle |
-| 319 | 95 | Stephen Glaze |
-| 320 | 95 | HarleyJane |
-| 321 | 95 | Heather Aurelia |
-| 322 | 95 | Shiny Lift |
-| 323 | 95 | Michele Simpson |
+| 318 | 95 | Heather Aurelia |
+| 319 | 95 | Tosha Michelle |
+| 320 | 95 | Stephen Glaze |
+| 321 | 95 | Shiny Lift |
+| 322 | 95 | Michele Simpson |
+| 323 | 95 | HarleyJane |
 | 324 | 94 | Cece Fowler |
 | 325 | 93 | izzybella |
 | 326 | 92 | Katherine Short |
