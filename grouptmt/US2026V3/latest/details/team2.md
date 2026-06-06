@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 08:08:16 UTC
+# Standings for team2 as of 2026-06-06 08:08:39 UTC
 
 **Total Participants:** 1075
 
@@ -211,16 +211,16 @@
 | 203 | 123 | Armando Sabedra |
 | 204 | 120 | Elizabeth Cornelius |
 | 205 | 120 | Simone F |
-| 206 | 120 | Happy |
-| 207 | 120 | Amy Gregg |
-| 208 | 120 | Brenda Jones |
+| 206 | 120 | Brenda Jones |
+| 207 | 120 | Happy |
+| 208 | 120 | Amy Gregg |
 | 209 | 120 | Shannon Wilson |
 | 210 | 119 | Angie Bishop |
 | 211 | 118 | Monique Frantz |
 | 212 | 118 | Lora Via |
-| 213 | 117 | Marge Cromer |
+| 213 | 117 | Becca Marie |
 | 214 | 117 | Margie Ann Naffziger |
-| 215 | 117 | Becca Marie |
+| 215 | 117 | Marge Cromer |
 | 216 | 116 | Gwendolyn Boykin Mobbs |
 | 217 | 116 | Teddy Williams |
 | 218 | 114 | Ashley Voelz |
@@ -231,31 +231,31 @@
 | 223 | 110 | Nichole Wilson |
 | 224 | 110 | Kelly Vedder |
 | 225 | 109 | Loopy Tower |
-| 226 | 108 | Meagan Grimmett Washburn |
-| 227 | 107 | Michelle M Braley |
-| 228 | 107 | Carole Brown |
-| 229 | 107 | Charles E Mccardell |
-| 230 | 106 | Sara Perkins |
-| 231 | 106 | Patria Osuoha |
-| 232 | 104 | Theresa Hollinger |
-| 233 | 103 | Tango Sierra |
-| 234 | 102 | Jat |
+| 226 | 108 | Rachel Nilles |
+| 227 | 108 | Meagan Grimmett Washburn |
+| 228 | 107 | Michelle M Braley |
+| 229 | 107 | Carole Brown |
+| 230 | 107 | Charles E Mccardell |
+| 231 | 106 | Sara Perkins |
+| 232 | 106 | Patria Osuoha |
+| 233 | 104 | Theresa Hollinger |
+| 234 | 103 | Tango Sierra |
 | 235 | 102 | Alissa Ary |
-| 236 | 100 | Ber |
-| 237 | 100 | Charity Hauser |
-| 238 | 100 | August Christy Lathrop |
-| 239 | 100 | Sharon L Brazelton |
-| 240 | 100 | LEW |
-| 241 | 100 | Jason Cunningham |
-| 242 | 100 | Leticia Tillman |
-| 243 | 100 | Tamtam |
-| 244 | 99 | Cathy Tippett |
+| 236 | 102 | Jat |
+| 237 | 100 | Tamtam |
+| 238 | 100 | Leticia Tillman |
+| 239 | 100 | LEW |
+| 240 | 100 | Jason Cunningham |
+| 241 | 100 | Sharon L Brazelton |
+| 242 | 100 | August Christy Lathrop |
+| 243 | 100 | Charity Hauser |
+| 244 | 100 | Ber |
 | 245 | 99 | Gabrielle Rivera |
-| 246 | 99 | Jennifer Vitro |
-| 247 | 99 | Melissa Abbott |
-| 248 | 97 | Jennifer McClure |
-| 249 | 97 | LittleHippoEars |
-| 250 | 96 | Rachel Nilles |
+| 246 | 99 | Cathy Tippett |
+| 247 | 99 | Jennifer Vitro |
+| 248 | 99 | Melissa Abbott |
+| 249 | 97 | Jennifer McClure |
+| 250 | 97 | LittleHippoEars |
 | 251 | 95 | Mike Mordhorst |
 | 252 | 95 | Wacky Holder |
 | 253 | 94 | Sherri E Woods Hess |
