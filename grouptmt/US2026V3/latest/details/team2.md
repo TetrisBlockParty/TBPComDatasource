@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 06:30:15 UTC
+# Standings for team2 as of 2026-06-06 06:30:39 UTC
 
 **Total Participants:** 1039
 
@@ -85,10 +85,10 @@
 | 77 | 389 | Kimberly Cowan |
 | 78 | 374 | Mikki Torres |
 | 79 | 354 | Branden Frankowski |
-| 80 | 345 | Smiley Dropper |
-| 81 | 335 | Kaycie Shaffer |
-| 82 | 328 | Tim Tim |
-| 83 | 323 | Andre Love |
+| 80 | 353 | Andre Love |
+| 81 | 345 | Smiley Dropper |
+| 82 | 335 | Kaycie Shaffer |
+| 83 | 328 | Tim Tim |
 | 84 | 322 | Tom Badgley |
 | 85 | 319 | Michelle Rich Burkhart |
 | 86 | 317 | Ruby Sandberg |

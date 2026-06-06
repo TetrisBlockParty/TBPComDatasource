@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 06:30:15 UTC
+# Standings for team4 as of 2026-06-06 06:30:39 UTC
 
 **Total Participants:** 858
 
@@ -418,102 +418,102 @@
 | 410 | 40 | Mexican130 |
 | 411 | 40 | Giggy Risegrid |
 | 412 | 40 | Carla Woodard |
-| 413 | 40 | Beth Belanger |
-| 414 | 40 | Mint Marquez |
-| 415 | 40 | crobb77 |
-| 416 | 40 | Jay Dee |
-| 417 | 40 | Leslie Bamonte |
-| 418 | 40 | Kena T. Tanner |
-| 419 | 40 | Jenn Wilson |
-| 420 | 40 | Rocky |
-| 421 | 40 | Cinta Marie |
-| 422 | 39 | Stefanie Street |
-| 423 | 39 | Anthony Kollar |
+| 413 | 40 | crobb77 |
+| 414 | 40 | Jenn Wilson |
+| 415 | 40 | Leslie Bamonte |
+| 416 | 40 | Rocky |
+| 417 | 40 | Kena T. Tanner |
+| 418 | 40 | Cinta Marie |
+| 419 | 40 | Beth Belanger |
+| 420 | 40 | Jay Dee |
+| 421 | 40 | Mint Marquez |
+| 422 | 39 | Hasty Dropzone |
+| 423 | 39 | David Lay |
 | 424 | 39 | Plucky Shatterfit |
-| 425 | 39 | Denisha Schinell Boyd |
-| 426 | 39 | Chris Davis |
-| 427 | 39 | Elise Ann |
-| 428 | 39 | David Lay |
-| 429 | 39 | Hasty Dropzone |
-| 430 | 38 | Charity Thomas |
+| 425 | 39 | Anthony Kollar |
+| 426 | 39 | Elise Ann |
+| 427 | 39 | Denisha Schinell Boyd |
+| 428 | 39 | Chris Davis |
+| 429 | 39 | Stefanie Street |
+| 430 | 38 | Cari Underwood |
 | 431 | 38 | Perry Ransom |
-| 432 | 38 | Happy Puzzle |
-| 433 | 38 | Cari Underwood |
-| 434 | 38 | Sharon Tyler |
-| 435 | 37 | Kalisha Monique Wright |
-| 436 | 37 | Ricky Colvin |
-| 437 | 37 | Melika Zeheb |
-| 438 | 37 | Tyson Stroppel |
-| 439 | 37 | Dana Fontanez |
-| 440 | 37 | Tanya AfricanQueen Savage |
-| 441 | 37 | Ami Ferguson |
-| 442 | 37 | Deana Teck |
-| 443 | 36 | PL GR |
-| 444 | 36 | Jeanette Hailey |
+| 432 | 38 | Sharon Tyler |
+| 433 | 38 | Charity Thomas |
+| 434 | 38 | Happy Puzzle |
+| 435 | 37 | Tanya AfricanQueen Savage |
+| 436 | 37 | Tyson Stroppel |
+| 437 | 37 | Deana Teck |
+| 438 | 37 | Dana Fontanez |
+| 439 | 37 | Kalisha Monique Wright |
+| 440 | 37 | Ami Ferguson |
+| 441 | 37 | Ricky Colvin |
+| 442 | 37 | Melika Zeheb |
+| 443 | 36 | Nancy McCalla Abercrombie |
+| 444 | 36 | Melissa Lowe |
 | 445 | 36 | Jenn Norcross |
-| 446 | 36 | Snippy Racker |
-| 447 | 36 | Giggy Snapgrid |
-| 448 | 36 | Melissa Lowe |
-| 449 | 36 | Shirley A. Godfrey |
-| 450 | 36 | Donny Keets |
-| 451 | 36 | Nancy McCalla Abercrombie |
-| 452 | 36 | Dapper Tiltpiece |
-| 453 | 36 | Marcus Fontenot |
-| 454 | 36 | Snappy Stack |
-| 455 | 35 | Youngkueen |
-| 456 | 35 | Tiffany Morris Garner |
-| 457 | 35 | PsyDMom |
+| 446 | 36 | Giggy Snapgrid |
+| 447 | 36 | Shirley A. Godfrey |
+| 448 | 36 | Snippy Racker |
+| 449 | 36 | Jeanette Hailey |
+| 450 | 36 | Snappy Stack |
+| 451 | 36 | PL GR |
+| 452 | 36 | Marcus Fontenot |
+| 453 | 36 | Dapper Tiltpiece |
+| 454 | 36 | Donny Keets |
+| 455 | 35 | Allysonjo Varela |
+| 456 | 35 | Genger |
+| 457 | 35 | Zappy Tilemaker |
 | 458 | 35 | Samantha Brandt |
-| 459 | 35 | Zappy Tilemaker |
-| 460 | 35 | Genger |
-| 461 | 35 | Allysonjo Varela |
-| 462 | 35 | Valerie Silva |
-| 463 | 35 | Saul Fajardo |
-| 464 | 35 | Jillian Marie |
-| 465 | 35 | Joe Win |
-| 466 | 34 | Giggly Column |
-| 467 | 34 | GingaNinja |
-| 468 | 34 | Clashy |
-| 469 | 34 | Drh4090 |
-| 470 | 34 | Brenda Gustamantes |
-| 471 | 34 | Kandylands |
-| 472 | 34 | Amanda Albritton Moore |
-| 473 | 34 | Taquilla Branch |
-| 474 | 34 | Loyalty83 |
-| 475 | 34 | Yvette Johnson |
-| 476 | 34 | jojo |
-| 477 | 34 | Sunshine Dreamchaser Whitfield |
-| 478 | 34 | Yulissa Diaz |
-| 479 | 33 | Tracy Ann Frederick |
-| 480 | 33 | Zippy Snaplink |
-| 481 | 33 | Donna Howard |
-| 482 | 33 | Melissa Schwager |
-| 483 | 33 | Chill Snapclear |
-| 484 | 33 | Kimberly Lusk |
-| 485 | 33 | Garden Girlie |
-| 486 | 32 | KingCas |
-| 487 | 32 | Hyper Snaplink |
-| 488 | 32 | ŁųŁų |
+| 459 | 35 | Tiffany Morris Garner |
+| 460 | 35 | Joe Win |
+| 461 | 35 | Jillian Marie |
+| 462 | 35 | Youngkueen |
+| 463 | 35 | PsyDMom |
+| 464 | 35 | Valerie Silva |
+| 465 | 35 | Saul Fajardo |
+| 466 | 34 | Clashy |
+| 467 | 34 | Drh4090 |
+| 468 | 34 | Brenda Gustamantes |
+| 469 | 34 | GingaNinja |
+| 470 | 34 | Kandylands |
+| 471 | 34 | Sunshine Dreamchaser Whitfield |
+| 472 | 34 | jojo |
+| 473 | 34 | Amanda Albritton Moore |
+| 474 | 34 | Taquilla Branch |
+| 475 | 34 | Loyalty83 |
+| 476 | 34 | Yvette Johnson |
+| 477 | 34 | Yulissa Diaz |
+| 478 | 34 | Giggly Column |
+| 479 | 33 | Donna Howard |
+| 480 | 33 | Chill Snapclear |
+| 481 | 33 | Garden Girlie |
+| 482 | 33 | Kimberly Lusk |
+| 483 | 33 | Melissa Schwager |
+| 484 | 33 | ŁųŁų |
+| 485 | 33 | Zippy Snaplink |
+| 486 | 33 | Tracy Ann Frederick |
+| 487 | 32 | KingCas |
+| 488 | 32 | Hyper Snaplink |
 | 489 | 32 | pussface |
 | 490 | 32 | Poppy |
-| 491 | 31 | MsThick SrtLady Williams |
-| 492 | 31 | Sweetfire |
-| 493 | 31 | Alex Dawn |
-| 494 | 31 | Breezy Blockzone |
-| 495 | 31 | Blessedmom865 |
-| 496 | 31 | Monkey |
-| 497 | 31 | Natalie Ohrtman Strand |
-| 498 | 31 | Trang Nguyen |
-| 499 | 31 | Destiny Georgia Reeves Beller |
-| 500 | 31 | Breezy Brickline |
-| 501 | 30 | Shepreneur Sade |
-| 502 | 30 | LeRoy jenkins |
-| 503 | 30 | Funky Rollzone |
+| 491 | 31 | Natalie Ohrtman Strand |
+| 492 | 31 | Destiny Georgia Reeves Beller |
+| 493 | 31 | Trang Nguyen |
+| 494 | 31 | Monkey |
+| 495 | 31 | Breezy Brickline |
+| 496 | 31 | Blessedmom865 |
+| 497 | 31 | Breezy Blockzone |
+| 498 | 31 | Alex Dawn |
+| 499 | 31 | Sweetfire |
+| 500 | 31 | MsThick SrtLady Williams |
+| 501 | 30 | Ash Gribble |
+| 502 | 30 | Funky Rollzone |
+| 503 | 30 | Shepreneur Sade |
 | 504 | 30 | Jessica Lestage |
 | 505 | 30 | Koren Heersink |
-| 506 | 30 | Ash Gribble |
-| 507 | 30 | Wanda Simmons |
-| 508 | 30 | Lateasha Wildman |
+| 506 | 30 | Wanda Simmons |
+| 507 | 30 | Lateasha Wildman |
+| 508 | 30 | LeRoy jenkins |
 | 509 | 30 | Dexter Hammond Jr |
 | 510 | 30 | Jennifer Brucz |
 | 511 | 30 | Jesus Fuentes III |
