@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 23:15:18 UTC
+# Standings for team1 as of 2026-06-06 23:16:18 UTC
 
 **Total Participants:** 1207
 
@@ -69,7 +69,7 @@
 | 61 | 689 | Jaida King |
 | 62 | 675 | Corey Cawthon |
 | 63 | 670 | Blockhead |
-| 64 | 650 | Kimberly Hernandez |
+| 64 | 652 | Kimberly Hernandez |
 | 65 | 648 | Eartha Brown |
 | 66 | 605 | JoJo |
 | 67 | 598 | Ivana Schmidt |
@@ -84,8 +84,8 @@
 | 76 | 513 | Eric Mcgaughy |
 | 77 | 511 | Abraham Espaillat |
 | 78 | 511 | Dizzy Dropper |
-| 79 | 510 | Cj Gorman |
-| 80 | 505 | PandaPrincess |
+| 79 | 510 | PandaPrincess |
+| 80 | 510 | Cj Gorman |
 | 81 | 502 | Tiana Moore |
 | 82 | 495 | Jaida De'Anne Cox |
 | 83 | 489 | Carolynne Walker-Bell |
@@ -104,7 +104,7 @@
 | 96 | 432 | Gael Quintana |
 | 97 | 422 | Voice |
 | 98 | 421 | ing410 |
-| 99 | 407 | Moomoo |
+| 99 | 412 | Moomoo |
 | 100 | 401 | Shell Lewis |
 | 101 | 400 | Jessica Carter |
 | 102 | 394 | Big Tina |
@@ -112,12 +112,12 @@
 | 104 | 393 | SPNLover24 |
 | 105 | 391 | Sarah Marie |
 | 106 | 387 | Novaa |
-| 107 | 378 | W.A. Simpson |
-| 108 | 377 | AF Cruz |
-| 109 | 374 | Lashawn Wallace |
-| 110 | 373 | Catara Renae Oliver |
-| 111 | 370 | Jamal Itzjusmall Chambers |
-| 112 | 369 | Jason Mungin |
+| 107 | 384 | Jason Mungin |
+| 108 | 378 | W.A. Simpson |
+| 109 | 377 | AF Cruz |
+| 110 | 374 | Lashawn Wallace |
+| 111 | 373 | Catara Renae Oliver |
+| 112 | 370 | Jamal Itzjusmall Chambers |
 | 113 | 365 | Quirky Fallgrid |
 | 114 | 361 | Ebony Waynes-robinson |
 | 115 | 334 | Christana Imjustbutton Stone |
@@ -1079,56 +1079,56 @@
 | 1071 | 12 | Dora Greer |
 | 1072 | 12 | toye69 |
 | 1073 | 12 | Michael Jones |
-| 1074 | 12 | Lillie Blossom Dixon |
-| 1075 | 11 | Nerdy Twistline |
-| 1076 | 11 | Evelyn Epps |
-| 1077 | 11 | Frilly Shatterline |
-| 1078 | 11 | pizzapie |
-| 1079 | 11 | Boldy Zoner |
+| 1074 | 12 | Spicy Hedgehog |
+| 1075 | 12 | Lillie Blossom Dixon |
+| 1076 | 11 | Ray Baker |
+| 1077 | 11 | Evelyn Epps |
+| 1078 | 11 | Frilly Shatterline |
+| 1079 | 11 | pizzapie |
 | 1080 | 11 | Groovy Climber |
-| 1081 | 11 | Alanna Breitenbach |
-| 1082 | 11 | Willson06 |
-| 1083 | 11 | Ray Baker |
-| 1084 | 11 | Fred Caston |
-| 1085 | 11 | Jayson |
-| 1086 | 10 | OneBuke FollowMe |
+| 1081 | 11 | Boldy Zoner |
+| 1082 | 11 | Alanna Breitenbach |
+| 1083 | 11 | Willson06 |
+| 1084 | 11 | Nerdy Twistline |
+| 1085 | 11 | Fred Caston |
+| 1086 | 11 | Jayson |
 | 1087 | 10 | Steve Renelus |
-| 1088 | 10 | Semaj Johnson |
-| 1089 | 10 | Tynetta Scott |
-| 1090 | 10 | Nope Young |
-| 1091 | 10 | Shawn Himes |
+| 1088 | 10 | Tynetta Scott |
+| 1089 | 10 | Papi |
+| 1090 | 10 | OneBuke FollowMe |
+| 1091 | 10 | Nope Young |
 | 1092 | 10 | Happymama |
-| 1093 | 10 | Megan Payette |
-| 1094 | 10 | Cornelius Neal |
-| 1095 | 10 | Meeee |
-| 1096 | 10 | Anthony D Holmes |
-| 1097 | 10 | Hasty Brickzone |
-| 1098 | 10 | Papi |
-| 1099 | 10 | Tea |
-| 1100 | 10 | Renee Marshall |
-| 1101 | 10 | Yvonne Aggers |
-| 1102 | 10 | Upt |
-| 1103 | 10 | Damien Fonseca |
-| 1104 | 10 | Marshall Davis |
-| 1105 | 10 | Boricua64 |
-| 1106 | 10 | Crystal Segura |
-| 1107 | 10 | Saucy Linkgrid |
-| 1108 | 10 | Ladii Libra |
+| 1093 | 10 | Shawn Himes |
+| 1094 | 10 | Semaj Johnson |
+| 1095 | 10 | Megan Payette |
+| 1096 | 10 | Cornelius Neal |
+| 1097 | 10 | Meeee |
+| 1098 | 10 | Anthony D Holmes |
+| 1099 | 10 | Hasty Brickzone |
+| 1100 | 10 | Nikiya |
+| 1101 | 10 | Damien Fonseca |
+| 1102 | 10 | Marshall Davis |
+| 1103 | 10 | Boricua64 |
+| 1104 | 10 | Upt |
+| 1105 | 10 | Crystal Segura |
+| 1106 | 10 | Saucy Linkgrid |
+| 1107 | 10 | Ladii Libra |
+| 1108 | 10 | Yvonne Aggers |
 | 1109 | 10 | Blaze |
-| 1110 | 10 | Spicy Hedgehog |
-| 1111 | 10 | Nikiya |
-| 1112 | 10 | Kim Smith |
-| 1113 | 10 | Tranica Sterling |
-| 1114 | 10 | Alisha Dawson Crouch |
-| 1115 | 10 | Omar Dotray |
+| 1110 | 10 | Kim Smith |
+| 1111 | 10 | Tranica Sterling |
+| 1112 | 10 | Alisha Dawson Crouch |
+| 1113 | 10 | Renee Marshall |
+| 1114 | 10 | Omar Dotray |
+| 1115 | 10 | Manda Pecora |
 | 1116 | 10 | Wacky Riserpiece |
 | 1117 | 10 | Willard Junior |
-| 1118 | 10 | Manda Pecora |
-| 1119 | 9 | ummm |
-| 1120 | 9 | meatballs |
-| 1121 | 9 | Shemeka Bates |
-| 1122 | 9 | Anthony T. Fults |
-| 1123 | 9 | Sunset Owens |
+| 1118 | 10 | Tea |
+| 1119 | 9 | Sunset Owens |
+| 1120 | 9 | Shemeka Bates |
+| 1121 | 9 | ummm |
+| 1122 | 9 | meatballs |
+| 1123 | 9 | Anthony T. Fults |
 | 1124 | 9 | Dana |
 | 1125 | 9 | Brika Brika |
 | 1126 | 9 | Shell Poke |
