@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 23:04:18 UTC
+# Standings for team4 as of 2026-06-06 23:04:38 UTC
 
 **Total Participants:** 1191
 
@@ -75,7 +75,7 @@
 | 67 | 607 | Jeremy Lopez |
 | 68 | 604 | woopa 716 |
 | 69 | 597 | Hairy Snake |
-| 70 | 594 | Bubbly Twistpiece |
+| 70 | 597 | Bubbly Twistpiece |
 | 71 | 594 | Маркус Вік |
 | 72 | 591 | Tiffany Loree Tiffany Oneill |
 | 73 | 584 | Jason Allen |
@@ -465,36 +465,36 @@
 | 457 | 70 | Winter Moon |
 | 458 | 70 | MrsReap |
 | 459 | 69 | Khylee DarDar |
-| 460 | 69 | TJ |
-| 461 | 69 | Jj Johnson |
+| 460 | 69 | Jj Johnson |
+| 461 | 69 | TJ |
 | 462 | 69 | Beth Belanger |
 | 463 | 68 | Allysonjo Varela |
 | 464 | 68 | Solace Grace |
 | 465 | 68 | Ricky Colvin |
 | 466 | 68 | Paula Renee McCracken |
-| 467 | 68 | Keys Tome |
-| 468 | 67 | Ian T Parker |
-| 469 | 67 | Snappy Stack |
-| 470 | 67 | Noa Lee |
-| 471 | 67 | Ashley DuVall |
-| 472 | 67 | Playful Raccoon |
-| 473 | 67 | BookwormCate |
+| 467 | 68 | Poptart |
+| 468 | 68 | Keys Tome |
+| 469 | 67 | Ian T Parker |
+| 470 | 67 | Snappy Stack |
+| 471 | 67 | Noa Lee |
+| 472 | 67 | Ashley DuVall |
+| 473 | 67 | Playful Raccoon |
 | 474 | 67 | Glittara |
-| 475 | 66 | Kat Foreman |
-| 476 | 66 | Mann Manson |
-| 477 | 66 | Poptart |
-| 478 | 66 | james |
-| 479 | 66 | LilithMoon |
-| 480 | 65 | Cranky Twistpiece |
-| 481 | 65 | Knijur Callins |
-| 482 | 65 | Deborah Ayliffe |
-| 483 | 65 | Jailen Harper |
-| 484 | 65 | Youngkueen |
-| 485 | 65 | Tiffany Roberts |
-| 486 | 65 | Joshua Garner |
-| 487 | 65 | Lul Babie |
-| 488 | 64 | Destiny Starr LeValdo |
-| 489 | 64 | Marisela Alvarado |
+| 475 | 67 | BookwormCate |
+| 476 | 66 | Kat Foreman |
+| 477 | 66 | LilithMoon |
+| 478 | 66 | Mann Manson |
+| 479 | 66 | james |
+| 480 | 65 | Lul Babie |
+| 481 | 65 | Joshua Garner |
+| 482 | 65 | Tiffany Roberts |
+| 483 | 65 | Youngkueen |
+| 484 | 65 | Jailen Harper |
+| 485 | 65 | Deborah Ayliffe |
+| 486 | 65 | Cranky Twistpiece |
+| 487 | 65 | Knijur Callins |
+| 488 | 64 | Marisela Alvarado |
+| 489 | 64 | Destiny Starr LeValdo |
 | 490 | 64 | Deb 07 |
 | 491 | 64 | Daring Brickbuilder |
 | 492 | 64 | Suzanne North |
@@ -544,26 +544,26 @@
 | 536 | 59 | Yvette Johnson |
 | 537 | 59 | Inez Nez |
 | 538 | 59 | Stotty |
-| 539 | 59 | Loyalty83 |
-| 540 | 59 | Tammy Lasseigne |
-| 541 | 59 | Gigi5 |
-| 542 | 59 | Anthony Kollar |
-| 543 | 59 | Capone |
-| 544 | 59 | Jacinta Hooker-Brown |
-| 545 | 58 | Baysoph |
-| 546 | 58 | Kimberly Lusk |
-| 547 | 58 | Lana Tran |
-| 548 | 58 | Holly Bramel |
-| 549 | 58 | Mc3003 |
-| 550 | 58 | Jade Alley |
-| 551 | 57 | PerfectPieces |
-| 552 | 57 | Erica Pompey |
-| 553 | 57 | Волна Бог |
-| 554 | 57 | Plucky Shatterfit |
-| 555 | 57 | Giggy Snapgrid |
+| 539 | 59 | Snippy Splitter |
+| 540 | 59 | Loyalty83 |
+| 541 | 59 | Tammy Lasseigne |
+| 542 | 59 | Gigi5 |
+| 543 | 59 | Anthony Kollar |
+| 544 | 59 | Capone |
+| 545 | 59 | Jacinta Hooker-Brown |
+| 546 | 58 | Baysoph |
+| 547 | 58 | Kimberly Lusk |
+| 548 | 58 | Lana Tran |
+| 549 | 58 | Holly Bramel |
+| 550 | 58 | Mc3003 |
+| 551 | 58 | Jade Alley |
+| 552 | 57 | PerfectPieces |
+| 553 | 57 | Erica Pompey |
+| 554 | 57 | Волна Бог |
+| 555 | 57 | Plucky Shatterfit |
 | 556 | 57 | PapaB |
 | 557 | 57 | Rocky |
-| 558 | 57 | Snippy Splitter |
+| 558 | 57 | Giggy Snapgrid |
 | 559 | 57 | Erich EMac McIntosh |
 | 560 | 57 | Heather Hilferty |
 | 561 | 57 | EpicWizard |

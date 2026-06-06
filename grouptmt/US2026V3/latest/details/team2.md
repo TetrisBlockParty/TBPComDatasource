@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 23:04:18 UTC
+# Standings for team2 as of 2026-06-06 23:04:38 UTC
 
 **Total Participants:** 1433
 
@@ -18,7 +18,7 @@
 | 10 | 6114 | Tim Ix |
 | 11 | 6045 | Morgann McDaniel |
 | 12 | 5704 | Cori Keberlein |
-| 13 | 4923 | Dapper Rollout |
+| 13 | 4934 | Dapper Rollout |
 | 14 | 3984 | Amber |
 | 15 | 3950 | Erica Dees Parks |
 | 16 | 3812 | Crystal M Sowden |
@@ -285,97 +285,97 @@
 | 277 | 150 | Marylin Eacker |
 | 278 | 150 | Skye Ehret |
 | 279 | 149 | Jenni LeBlanc |
-| 280 | 148 | murd3rmous3 |
-| 281 | 148 | Curly Windbreaker |
+| 280 | 148 | Curly Windbreaker |
+| 281 | 148 | murd3rmous3 |
 | 282 | 147 | Precious Womack |
 | 283 | 147 | Tina Marie |
 | 284 | 146 | Darla Nolt |
-| 285 | 145 | Jason Cunningham |
-| 286 | 145 | Alicia Parrish |
+| 285 | 145 | Alicia Parrish |
+| 286 | 145 | Jason Cunningham |
 | 287 | 144 | Elliott Mikila |
 | 288 | 144 | Jamie Fenyus |
 | 289 | 143 | Amanda L Strong |
-| 290 | 142 | Nikki EightySixed |
-| 291 | 142 | Cortney Coleman |
-| 292 | 140 | Billie Jensen |
-| 293 | 140 | Sharon L Brazelton |
-| 294 | 139 | Kimmyc |
+| 290 | 142 | Cortney Coleman |
+| 291 | 142 | Nikki EightySixed |
+| 292 | 140 | ShiverMeSplinter |
+| 293 | 140 | Billie Jensen |
+| 294 | 140 | Sharon L Brazelton |
 | 295 | 139 | Monique Frantz |
-| 296 | 139 | Teddy Williams |
-| 297 | 138 | NickandJess Reynolds |
+| 296 | 139 | Kimmyc |
+| 297 | 139 | Teddy Williams |
 | 298 | 138 | Ashley Miller |
-| 299 | 137 | Lindsey Ford |
-| 300 | 137 | Ashley Voelz |
-| 301 | 136 | Lauren Maxwell |
+| 299 | 138 | NickandJess Reynolds |
+| 300 | 137 | Lindsey Ford |
+| 301 | 137 | Ashley Voelz |
 | 302 | 136 | Mtnblzr |
-| 303 | 135 | Amy Lea Hamilton |
+| 303 | 136 | Lauren Maxwell |
 | 304 | 135 | DomDomsNana |
-| 305 | 134 | Sabrina Hardrick |
-| 306 | 134 | Funway998 |
-| 307 | 134 | Joanna Trevin Thompson |
-| 308 | 133 | Tara |
-| 309 | 133 | Chirpy Grid |
-| 310 | 132 | Alison Waller |
+| 305 | 135 | Amy Lea Hamilton |
+| 306 | 134 | Sabrina Hardrick |
+| 307 | 134 | Funway998 |
+| 308 | 134 | Joanna Trevin Thompson |
+| 309 | 133 | Tara |
+| 310 | 133 | Chirpy Grid |
 | 311 | 132 | Spunky Cascadeclear |
 | 312 | 132 | Raine |
-| 313 | 131 | Teresa Mandich |
-| 314 | 130 | ZBee |
-| 315 | 129 | Kristi K Milner |
+| 313 | 132 | Alison Waller |
+| 314 | 131 | Teresa Mandich |
+| 315 | 130 | ZBee |
 | 316 | 129 | Armando Sabedra |
-| 317 | 129 | Sandy Justus |
+| 317 | 129 | Belle |
 | 318 | 129 | Loopy Tower |
-| 319 | 129 | Charles E Mccardell |
-| 320 | 129 | Perii Reynoso |
-| 321 | 129 | Belle |
-| 322 | 127 | Pamela Raye |
+| 319 | 129 | Sandy Justus |
+| 320 | 129 | Charles E Mccardell |
+| 321 | 129 | Kristi K Milner |
+| 322 | 129 | Perii Reynoso |
 | 323 | 127 | Paula Haskins |
-| 324 | 127 | Tammy Roth |
-| 325 | 125 | Ariel Gundersen |
-| 326 | 125 | Gwendolyn Boykin Mobbs |
-| 327 | 125 | Sara Perkins |
-| 328 | 124 | Jason Burris |
+| 324 | 127 | Pamela Raye |
+| 325 | 127 | Tammy Roth |
+| 326 | 125 | Ariel Gundersen |
+| 327 | 125 | Gwendolyn Boykin Mobbs |
+| 328 | 125 | Sara Perkins |
 | 329 | 124 | Melmel |
 | 330 | 124 | Tina |
-| 331 | 123 | Tango Sierra |
-| 332 | 122 | Nova Nova |
-| 333 | 121 | Lisa Allen Frisk |
-| 334 | 120 | Charity Hauser |
+| 331 | 124 | Jason Burris |
+| 332 | 123 | Tango Sierra |
+| 333 | 122 | Nova Nova |
+| 334 | 121 | Lisa Allen Frisk |
 | 335 | 120 | Keisha Robinson |
-| 336 | 120 | Tony Medina |
-| 337 | 120 | Kevin Mccoy |
-| 338 | 120 | Carlos J Blas |
-| 339 | 120 | Sassy Twistbuilder |
-| 340 | 120 | Jessica Connot |
-| 341 | 120 | Simone F |
-| 342 | 119 | Angeleye A James |
-| 343 | 118 | Ceci |
-| 344 | 117 | Wayne Johnson |
-| 345 | 116 | Mikia Stokes |
-| 346 | 116 | Sherri E Woods Hess |
-| 347 | 113 | Meagan Grimmett Washburn |
-| 348 | 112 | Mike Mordhorst |
-| 349 | 112 | Aurora June Brock |
-| 350 | 112 | Cindy Scott |
-| 351 | 112 | Traci Abern |
-| 352 | 111 | Anthony Swift |
-| 353 | 111 | Nikki Hatch |
-| 354 | 111 | Wacky Holder |
-| 355 | 111 | Jumpy Matchbuilder |
-| 356 | 111 | Bianca Woodruff |
-| 357 | 110 | ShiverMeSplinter |
+| 336 | 120 | Charity Hauser |
+| 337 | 120 | Tony Medina |
+| 338 | 120 | Kevin Mccoy |
+| 339 | 120 | Jessica Connot |
+| 340 | 120 | Carlos J Blas |
+| 341 | 120 | Sassy Twistbuilder |
+| 342 | 120 | Simone F |
+| 343 | 119 | Angeleye A James |
+| 344 | 118 | Ceci |
+| 345 | 117 | Wayne Johnson |
+| 346 | 116 | Mikia Stokes |
+| 347 | 116 | Sherri E Woods Hess |
+| 348 | 113 | Meagan Grimmett Washburn |
+| 349 | 112 | Cindy Scott |
+| 350 | 112 | Traci Abern |
+| 351 | 112 | Mike Mordhorst |
+| 352 | 112 | Aurora June Brock |
+| 353 | 111 | Bianca Woodruff |
+| 354 | 111 | Jumpy Matchbuilder |
+| 355 | 111 | Wacky Holder |
+| 356 | 111 | Anthony Swift |
+| 357 | 111 | Nikki Hatch |
 | 358 | 110 | Nichole Wilson |
 | 359 | 110 | Zappy Liney |
 | 360 | 110 | Katie Jones |
-| 361 | 109 | Cathy Tippett |
-| 362 | 109 | StacyBabee |
-| 363 | 109 | LittleHippoEars |
-| 364 | 109 | Kawana Nesbitt |
+| 361 | 109 | StacyBabee |
+| 362 | 109 | Cathy Tippett |
+| 363 | 109 | Kawana Nesbitt |
+| 364 | 109 | LittleHippoEars |
 | 365 | 109 | Kevin Patrick |
 | 366 | 108 | Sherri Caillet Aucoin |
 | 367 | 108 | Rachel Nilles |
 | 368 | 107 | Carole Brown |
-| 369 | 106 | Crystal Robinson |
-| 370 | 106 | MegaPooh |
+| 369 | 106 | MegaPooh |
+| 370 | 106 | Crystal Robinson |
 | 371 | 105 | Tamtam |
 | 372 | 105 | Erica South |
 | 373 | 105 | Epic Tilemaker |
