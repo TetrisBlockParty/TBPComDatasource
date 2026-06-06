@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 20:21:17 UTC
+# Standings for team1 as of 2026-06-06 20:22:18 UTC
 
 **Total Participants:** 1147
 
@@ -44,7 +44,7 @@
 | 36 | 1037 | Shortstak |
 | 37 | 1031 | Ashley Espeut |
 | 38 | 1011 | Markeeta Lipscomb |
-| 39 | 997 | COSA303 |
+| 39 | 1009 | COSA303 |
 | 40 | 984 | Holly Jolly |
 | 41 | 971 | Spicy Balancer |
 | 42 | 940 | Sanjuro |
@@ -63,7 +63,7 @@
 | 55 | 689 | Jaida King |
 | 56 | 675 | Corey Cawthon |
 | 57 | 648 | Eartha Brown |
-| 58 | 619 | Blockhead |
+| 58 | 620 | Blockhead |
 | 59 | 605 | JoJo |
 | 60 | 598 | Ivana Schmidt |
 | 61 | 586 | Kellie Hall |
@@ -138,11 +138,11 @@
 | 130 | 271 | Ashley MyBeauty Daniels |
 | 131 | 270 | Jo NewmindNewfocus Bell |
 | 132 | 261 | Mimi 1.0 |
-| 133 | 257 | Cathy Young |
-| 134 | 257 | Helen Smith |
-| 135 | 256 | Cortaz Lawrie |
-| 136 | 255 | Ebony Waynes-robinson |
-| 137 | 251 | Karebear |
+| 133 | 259 | Karebear |
+| 134 | 257 | Cathy Young |
+| 135 | 257 | Helen Smith |
+| 136 | 256 | Cortaz Lawrie |
+| 137 | 255 | Ebony Waynes-robinson |
 | 138 | 251 | Allison Baxter |
 | 139 | 249 | Cee Emm |
 | 140 | 247 | Po Marley |
@@ -975,32 +975,32 @@
 | 967 | 15 | Elaine Youmans |
 | 968 | 15 | Christian Whittaker |
 | 969 | 15 | Breezy Bouncer |
-| 970 | 15 | Cheery Clusterbuilder |
-| 971 | 15 | Sarah Barnum |
-| 972 | 15 | Shamara Thurston |
-| 973 | 15 | Jonathan Zold |
-| 974 | 15 | Major314 |
-| 975 | 15 | Spunky Strikerbuilder |
-| 976 | 15 | Motown Chuck |
-| 977 | 14 | MoneyMac |
-| 978 | 14 | Sharon Lynn |
-| 979 | 14 | Dymond |
-| 980 | 14 | Lynn |
-| 981 | 14 | Jazzy |
-| 982 | 14 | Zany Pivot |
-| 983 | 14 | Brittany Cole |
-| 984 | 14 | Nerdy Curvetile |
-| 985 | 14 | Kenny 'Tailormade' Boyd |
-| 986 | 14 | TBabii24 |
-| 987 | 14 | Sherry D Singleton |
-| 988 | 14 | Jennifer Levan |
-| 989 | 14 | Teresa Bean |
-| 990 | 14 | Nichole Horsley-Conn |
-| 991 | 14 | Jerrone Epps |
-| 992 | 13 | Leah Ingram |
+| 970 | 15 | Motown Chuck |
+| 971 | 15 | Spunky Strikerbuilder |
+| 972 | 15 | Cheery Clusterbuilder |
+| 973 | 15 | PSD |
+| 974 | 15 | Sarah Barnum |
+| 975 | 15 | Major314 |
+| 976 | 15 | Jonathan Zold |
+| 977 | 15 | Shamara Thurston |
+| 978 | 14 | Kenny 'Tailormade' Boyd |
+| 979 | 14 | TBabii24 |
+| 980 | 14 | Brittany Cole |
+| 981 | 14 | Zany Pivot |
+| 982 | 14 | Jazzy |
+| 983 | 14 | Lynn |
+| 984 | 14 | Sharon Lynn |
+| 985 | 14 | MoneyMac |
+| 986 | 14 | Dymond |
+| 987 | 14 | Nerdy Curvetile |
+| 988 | 14 | Sherry D Singleton |
+| 989 | 14 | Jennifer Levan |
+| 990 | 14 | Teresa Bean |
+| 991 | 14 | Nichole Horsley-Conn |
+| 992 | 14 | Jerrone Epps |
 | 993 | 13 | Daphne Ceasar |
-| 994 | 13 | Hoppy Rumbler |
-| 995 | 13 | PSD |
+| 994 | 13 | Leah Ingram |
+| 995 | 13 | Hoppy Rumbler |
 | 996 | 13 | Krystal Maynard |
 | 997 | 13 | Emma Adams |
 | 998 | 13 | PuddenPop |
@@ -1008,8 +1008,8 @@
 | 1000 | 12 | Silly Spinblock |
 | 1001 | 12 | Cameo Tweed |
 | 1002 | 12 | Lillie Blossom Dixon |
-| 1003 | 12 | Michael Jones |
-| 1004 | 12 | Kevin Witdaflute |
+| 1003 | 12 | Kevin Witdaflute |
+| 1004 | 12 | Michael Jones |
 | 1005 | 12 | Guard Up |
 | 1006 | 12 | Dora Greer |
 | 1007 | 12 | BigMike |
