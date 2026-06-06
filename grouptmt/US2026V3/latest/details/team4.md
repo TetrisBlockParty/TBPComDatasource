@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 23:26:18 UTC
+# Standings for team4 as of 2026-06-06 23:26:39 UTC
 
 **Total Participants:** 1197
 
@@ -64,11 +64,11 @@
 | 56 | 720 | Carly Stempien |
 | 57 | 718 | Phil Peterson |
 | 58 | 711 | MysticMaven |
-| 59 | 672 | Heather Preston |
-| 60 | 670 | Dana Fontanez |
-| 61 | 660 | Jenn Fitzgerald |
-| 62 | 650 | Chaz Duncan |
-| 63 | 647 | Bubbly Twistpiece |
+| 59 | 687 | Bubbly Twistpiece |
+| 60 | 672 | Heather Preston |
+| 61 | 670 | Dana Fontanez |
+| 62 | 660 | Jenn Fitzgerald |
+| 63 | 650 | Chaz Duncan |
 | 64 | 646 | Blayne Kole |
 | 65 | 644 | Kelly Bernard |
 | 66 | 628 | Adam J Leong |
