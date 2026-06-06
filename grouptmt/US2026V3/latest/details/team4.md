@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 08:51:15 UTC
+# Standings for team4 as of 2026-06-06 08:52:17 UTC
 
 **Total Participants:** 898
 
@@ -61,16 +61,16 @@
 | 53 | 460 | Tiffany Loree Tiffany Oneill |
 | 54 | 458 | vag1974 |
 | 55 | 440 | Jewelz |
-| 56 | 419 | Sweet Stacker |
-| 57 | 419 | Caitlyn Wang |
-| 58 | 406 | Victoria Ver |
+| 56 | 419 | Caitlyn Wang |
+| 57 | 419 | Sweet Stacker |
+| 58 | 416 | Victoria Ver |
 | 59 | 402 | Nick Graber |
 | 60 | 400 | Amber Doyle |
 | 61 | 399 | Erin Figone |
 | 62 | 395 | Melissa WC |
 | 63 | 392 | Dheeh Robles |
-| 64 | 392 | Blayne Kole |
-| 65 | 392 | Kay |
+| 64 | 392 | Kay |
+| 65 | 392 | Blayne Kole |
 | 66 | 389 | Ning Quiambao |
 | 67 | 383 | Crissy Hoffman |
 | 68 | 378 | Lisa Garcia |
@@ -123,23 +123,23 @@
 | 115 | 174 | Kimyatta Cavin |
 | 116 | 170 | Alala.Cersei |
 | 117 | 169 | Tiffany Smith |
-| 118 | 167 | Spicy Chicken |
-| 119 | 167 | Damon Gaston |
+| 118 | 167 | Damon Gaston |
+| 119 | 167 | Spicy Chicken |
 | 120 | 166 | Aramat |
 | 121 | 164 | QueenLi86 |
-| 122 | 160 | Littlebrat |
+| 122 | 160 | Tipsy Builderline |
 | 123 | 160 | Kitsune Bi |
-| 124 | 160 | Tipsy Builderline |
+| 124 | 160 | Littlebrat |
 | 125 | 159 | iiPurgeV2 |
-| 126 | 155 | RotatedWrongAgain |
-| 127 | 155 | Shayna Vaigneur-Hall |
+| 126 | 155 | Shayna Vaigneur-Hall |
+| 127 | 155 | RotatedWrongAgain |
 | 128 | 154 | No Time |
 | 129 | 153 | Brandy Lynn |
 | 130 | 153 | Laguya |
 | 131 | 152 | Dazzle Dragon |
 | 132 | 150 | gabs |
-| 133 | 149 | Daryn Elliott |
-| 134 | 149 | Danny Ortiz |
+| 133 | 149 | Danny Ortiz |
+| 134 | 149 | Daryn Elliott |
 | 135 | 148 | Megan Vick |
 | 136 | 146 | Becky McCool |
 | 137 | 145 | Trice Stevenson |
@@ -147,46 +147,46 @@
 | 139 | 143 | Ashley Mcdonald |
 | 140 | 142 | Goofy Riser |
 | 141 | 141 | Jackie Polanco |
-| 142 | 137 | Jasmine Marie |
+| 142 | 137 | Shelby |
 | 143 | 137 | Devinlee Brown |
-| 144 | 137 | Shelby |
-| 145 | 134 | ariel |
-| 146 | 134 | Loony Rotater |
+| 144 | 137 | Jasmine Marie |
+| 145 | 134 | Loony Rotater |
+| 146 | 134 | ariel |
 | 147 | 133 | Janet Sanfilippo Sullivan |
 | 148 | 133 | Shawntae Mccary |
-| 149 | 129 | Chilly Pivot |
-| 150 | 129 | Simone |
-| 151 | 129 | Lani |
-| 152 | 129 | Ryan Paul Clark-Ramsey |
+| 149 | 129 | Ryan Paul Clark-Ramsey |
+| 150 | 129 | Chilly Pivot |
+| 151 | 129 | Simone |
+| 152 | 129 | Lani |
 | 153 | 129 | Brainbabe |
 | 154 | 128 | Crystal Hammonds |
-| 155 | 126 | Alyson M Kehler |
-| 156 | 126 | GeorgeButts |
+| 155 | 126 | GeorgeButts |
+| 156 | 126 | Alyson M Kehler |
 | 157 | 125 | Leslie Ann Carter |
 | 158 | 124 | Chris Covington |
 | 159 | 123 | Cherrypir05 |
-| 160 | 122 | June Hoffman |
-| 161 | 122 | Samara Garcia |
+| 160 | 122 | Samara Garcia |
+| 161 | 122 | June Hoffman |
 | 162 | 121 | Jazzy Gridder |
-| 163 | 120 | Glamorous Gracey |
-| 164 | 120 | Shiny Brick |
+| 163 | 120 | Shiny Brick |
+| 164 | 120 | Glamorous Gracey |
 | 165 | 120 | Joab Gonzalez |
 | 166 | 119 | EL Booger |
 | 167 | 119 | Ashley Jenkins |
-| 168 | 118 | Goofy Fall |
-| 169 | 118 | Cheery Risegrid |
-| 170 | 117 | Kelly Howland |
-| 171 | 117 | BCO22 |
-| 172 | 116 | WeeWooWee |
-| 173 | 116 | Brennan Shea Greene |
+| 168 | 118 | Cheery Risegrid |
+| 169 | 118 | Goofy Fall |
+| 170 | 117 | BCO22 |
+| 171 | 117 | Kelly Howland |
+| 172 | 116 | Brennan Shea Greene |
+| 173 | 116 | WeeWooWee |
 | 174 | 116 | Dee Wizz |
 | 175 | 115 | Hardy Fuller |
 | 176 | 114 | Bryan DjMagnum Evans |
 | 177 | 113 | Dennis Montoya |
-| 178 | 113 | Melissa Anne |
-| 179 | 113 | kcknbtz |
-| 180 | 112 | CJ |
-| 181 | 112 | matt |
+| 178 | 113 | kcknbtz |
+| 179 | 113 | Melissa Anne |
+| 180 | 112 | matt |
+| 181 | 112 | CJ |
 | 182 | 112 | Homie |
 | 183 | 111 | Taz |
 | 184 | 109 | Rose Anna Safi |
@@ -293,15 +293,15 @@
 | 285 | 67 | Alma López Morales |
 | 286 | 67 | Karen Rodriguez |
 | 287 | 66 | Mann Manson |
-| 288 | 65 | Kristen Wallace |
+| 288 | 65 | Lul Babie |
 | 289 | 65 | Domo Dpn |
 | 290 | 65 | Cool Risepiece |
 | 291 | 65 | Cranky Twistpiece |
 | 292 | 65 | Joshua Garner |
-| 293 | 64 | Melika Zeheb |
-| 294 | 64 | Queen B |
-| 295 | 64 | sierrabeth |
-| 296 | 63 | Lul Babie |
+| 293 | 65 | Kristen Wallace |
+| 294 | 64 | Melika Zeheb |
+| 295 | 64 | Queen B |
+| 296 | 64 | sierrabeth |
 | 297 | 63 | Blockcrusher |
 | 298 | 63 | Ana Ruiz |
 | 299 | 63 | Ajohnna Frazee |
@@ -842,20 +842,20 @@
 | 834 | 9 | apryliss Star |
 | 835 | 9 | Hotstuff |
 | 836 | 9 | Danielle Porter |
-| 837 | 8 | Sydney Taylor Sileno |
-| 838 | 8 | LaTesha D Williams |
-| 839 | 8 | Frby Amberr |
-| 840 | 8 | Happy shelli |
-| 841 | 8 | Wali Muhammad |
-| 842 | 8 | tj |
-| 843 | 8 | Bryieson Watson |
-| 844 | 8 | Shania Richmond |
-| 845 | 8 | Donovan Parmenter Gagne |
-| 846 | 8 | Gabby Markham |
-| 847 | 8 | Phoebe Tracy |
-| 848 | 8 | BigCup ReeseCup |
-| 849 | 8 | Kaps |
-| 850 | 8 | GETBOXED! |
+| 837 | 9 | GETBOXED! |
+| 838 | 8 | Sydney Taylor Sileno |
+| 839 | 8 | LaTesha D Williams |
+| 840 | 8 | Frby Amberr |
+| 841 | 8 | Happy shelli |
+| 842 | 8 | Wali Muhammad |
+| 843 | 8 | tj |
+| 844 | 8 | Bryieson Watson |
+| 845 | 8 | Shania Richmond |
+| 846 | 8 | Donovan Parmenter Gagne |
+| 847 | 8 | Gabby Markham |
+| 848 | 8 | Phoebe Tracy |
+| 849 | 8 | BigCup ReeseCup |
+| 850 | 8 | Kaps |
 | 851 | 8 | Christy Petty |
 | 852 | 8 | La Ah Ox |
 | 853 | 8 | Stephanie Williams |
