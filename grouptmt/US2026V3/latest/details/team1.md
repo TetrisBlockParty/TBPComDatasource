@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 02:12:15 UTC
+# Standings for team1 as of 2026-06-06 02:12:38 UTC
 
 **Total Participants:** 715
 
@@ -84,13 +84,13 @@
 | 76 | 188 | SPNLover24 |
 | 77 | 185 | Zachary Colegrove |
 | 78 | 185 | Teddy Davis |
-| 79 | 184 | Voice |
-| 80 | 177 | Chris Sladoje |
-| 81 | 173 | Jason Mungin |
-| 82 | 166 | Tarnisha Neicy Jones |
-| 83 | 166 | Denise B |
-| 84 | 165 | Davionte DaeDae Hopson-Rodriguez |
-| 85 | 164 | Dai Bo |
+| 79 | 184 | Dai Bo |
+| 80 | 184 | Voice |
+| 81 | 177 | Chris Sladoje |
+| 82 | 173 | Jason Mungin |
+| 83 | 166 | Tarnisha Neicy Jones |
+| 84 | 166 | Denise B |
+| 85 | 165 | Davionte DaeDae Hopson-Rodriguez |
 | 86 | 163 | Sheila Burnham |
 | 87 | 160 | Zippy Lifter |
 | 88 | 159 | Asani CHumba |
@@ -127,9 +127,9 @@
 | 119 | 110 | Atlantalindi |
 | 120 | 108 | Mic Balew |
 | 121 | 107 | Rachel Zimmerman |
-| 122 | 107 | TBABYJ |
-| 123 | 105 | Katrina Ramey |
-| 124 | 104 | Kimberly Linares Hernandez |
+| 122 | 107 | Kimberly Linares Hernandez |
+| 123 | 107 | TBABYJ |
+| 124 | 105 | Katrina Ramey |
 | 125 | 104 | Frisky Fall |
 | 126 | 104 | Brittnay Wright |
 | 127 | 102 | Dawn L Washington-Feuquay |
