@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-06 18:44:17 UTC
+# Standings for team3 as of 2026-06-06 18:44:39 UTC
 
 **Total Participants:** 4138
 
@@ -16,7 +16,7 @@
 | 8 | 8782 | Quanterria Edwards |
 | 9 | 8500 | Aliabbhan |
 | 10 | 8237 | Kim Garland |
-| 11 | 7621 | Dustin Don Franklin |
+| 11 | 7771 | Dustin Don Franklin |
 | 12 | 7000 | Kenzie |
 | 13 | 6847 | Priscilla Noel |
 | 14 | 6605 | Krista Davis |
@@ -499,42 +499,42 @@
 | 491 | 228 | Irma Suniga |
 | 492 | 227 | Melissa House |
 | 493 | 227 | Ron Knecht |
-| 494 | 226 | Lillian Tops |
-| 495 | 226 | Danielle |
-| 496 | 226 | Veronics |
-| 497 | 225 | phactorz only |
-| 498 | 223 | Max Steel |
-| 499 | 223 | corny coin |
-| 500 | 223 | Heather Lee |
-| 501 | 220 | Josalyn Floyd Rowe |
-| 502 | 220 | Charlie Arnold |
-| 503 | 220 | Michael Dare |
-| 504 | 220 | Dallin Brereton |
-| 505 | 220 | Jvo |
-| 506 | 220 | AL Ferrari |
-| 507 | 220 | Court |
-| 508 | 219 | Randy Levins |
-| 509 | 219 | Josiah Lane |
-| 510 | 219 | Billy White |
-| 511 | 218 | Saucy Lift |
-| 512 | 218 | Taylor Roy |
-| 513 | 217 | skyguy26 |
-| 514 | 217 | Ashley Emery |
-| 515 | 216 | Hyper Zonepiece |
-| 516 | 216 | Crystal A Howe |
-| 517 | 216 | Dakota Taylor Wylie |
-| 518 | 216 | Emily Martinez |
-| 519 | 216 | Lush Patternline |
-| 520 | 215 | Frisky Climber |
-| 521 | 215 | Stephanie Marie Kirk |
-| 522 | 215 | Keykey Hudson |
-| 523 | 214 | Robert Renfro |
-| 524 | 213 | Rosie |
-| 525 | 212 | Crystal Stephenson |
-| 526 | 212 | Dustin Wood |
-| 527 | 211 | kaibrightwing |
-| 528 | 210 | Scott Martinson |
-| 529 | 210 | C C |
+| 494 | 226 | C C |
+| 495 | 226 | Lillian Tops |
+| 496 | 226 | Danielle |
+| 497 | 226 | Veronics |
+| 498 | 225 | phactorz only |
+| 499 | 223 | Max Steel |
+| 500 | 223 | corny coin |
+| 501 | 223 | Heather Lee |
+| 502 | 220 | Josalyn Floyd Rowe |
+| 503 | 220 | Charlie Arnold |
+| 504 | 220 | Michael Dare |
+| 505 | 220 | Dallin Brereton |
+| 506 | 220 | Jvo |
+| 507 | 220 | AL Ferrari |
+| 508 | 220 | Court |
+| 509 | 219 | Randy Levins |
+| 510 | 219 | Josiah Lane |
+| 511 | 219 | Billy White |
+| 512 | 218 | Saucy Lift |
+| 513 | 218 | Taylor Roy |
+| 514 | 217 | skyguy26 |
+| 515 | 217 | Ashley Emery |
+| 516 | 216 | Hyper Zonepiece |
+| 517 | 216 | Crystal A Howe |
+| 518 | 216 | Dakota Taylor Wylie |
+| 519 | 216 | Emily Martinez |
+| 520 | 216 | Lush Patternline |
+| 521 | 215 | Frisky Climber |
+| 522 | 215 | Stephanie Marie Kirk |
+| 523 | 215 | Keykey Hudson |
+| 524 | 214 | Robert Renfro |
+| 525 | 213 | Rosie |
+| 526 | 212 | Crystal Stephenson |
+| 527 | 212 | Dustin Wood |
+| 528 | 211 | kaibrightwing |
+| 529 | 210 | Scott Martinson |
 | 530 | 209 | Sarah-Ashley Gantt |
 | 531 | 208 | Marta Ebbisso |
 | 532 | 207 | ChAquarius24 |
