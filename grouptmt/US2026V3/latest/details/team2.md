@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 23:00:18 UTC
+# Standings for team2 as of 2026-06-06 23:00:41 UTC
 
 **Total Participants:** 1433
 
@@ -62,11 +62,11 @@
 | 54 | 942 | Dane Marko |
 | 55 | 934 | Rose Schaffner-Kibler |
 | 56 | 901 | Block Dog |
-| 57 | 871 | Ber |
-| 58 | 859 | Angelica Jelli Gillaspy |
-| 59 | 835 | Mikki Torres |
-| 60 | 832 | Amber Triguero |
-| 61 | 830 | Jaime P Lamb |
+| 57 | 890 | Jaime P Lamb |
+| 58 | 871 | Ber |
+| 59 | 859 | Angelica Jelli Gillaspy |
+| 60 | 835 | Mikki Torres |
+| 61 | 832 | Amber Triguero |
 | 62 | 826 | Gabriella Humphreys |
 | 63 | 824 | Helen Thomas |
 | 64 | 819 | Beverly Lynn Mills |
