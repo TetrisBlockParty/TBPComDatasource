@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 23:01:17 UTC
+# Standings for team1 as of 2026-06-06 23:02:17 UTC
 
 **Total Participants:** 1201
 
@@ -70,7 +70,7 @@
 | 62 | 675 | Corey Cawthon |
 | 63 | 662 | Blockhead |
 | 64 | 648 | Eartha Brown |
-| 65 | 634 | Kimberly Hernandez |
+| 65 | 640 | Kimberly Hernandez |
 | 66 | 605 | JoJo |
 | 67 | 598 | Ivana Schmidt |
 | 68 | 586 | Kellie Hall |
@@ -108,8 +108,8 @@
 | 100 | 397 | Moomoo |
 | 101 | 394 | ELM |
 | 102 | 394 | Big Tina |
-| 103 | 391 | Sarah Marie |
-| 104 | 388 | SPNLover24 |
+| 103 | 393 | SPNLover24 |
+| 104 | 391 | Sarah Marie |
 | 105 | 387 | Novaa |
 | 106 | 378 | W.A. Simpson |
 | 107 | 377 | AF Cruz |
