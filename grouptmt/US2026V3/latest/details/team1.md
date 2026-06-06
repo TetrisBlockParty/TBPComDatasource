@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 21:50:18 UTC
+# Standings for team1 as of 2026-06-06 21:50:39 UTC
 
 **Total Participants:** 1177
 
@@ -648,12 +648,12 @@
 | 640 | 45 | Cali Lee |
 | 641 | 44 | Duncan Timothy |
 | 642 | 44 | Nic Nic |
-| 643 | 44 | DellaLucretia Thomas |
-| 644 | 44 | Witty Clear |
-| 645 | 44 | GiantBehemoth |
-| 646 | 44 | Jessie N Michael Silvers |
-| 647 | 44 | Nona Harriel |
-| 648 | 43 | akosua |
+| 643 | 44 | akosua |
+| 644 | 44 | DellaLucretia Thomas |
+| 645 | 44 | Witty Clear |
+| 646 | 44 | GiantBehemoth |
+| 647 | 44 | Jessie N Michael Silvers |
+| 648 | 44 | Nona Harriel |
 | 649 | 43 | Trixie |
 | 650 | 43 | Giggy Brickfit |
 | 651 | 43 | Taylor Jordan Hollis |
