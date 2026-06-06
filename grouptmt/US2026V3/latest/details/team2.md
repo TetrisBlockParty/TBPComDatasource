@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 08:12:38 UTC
+# Standings for team2 as of 2026-06-06 08:13:16 UTC
 
 **Total Participants:** 1075
 
@@ -25,7 +25,7 @@
 | 17 | 2500 | Crafty Ziggy |
 | 18 | 2368 | Dapper Rollout |
 | 19 | 2216 | Renee Weedling |
-| 20 | 1950 | Lola C Davis |
+| 20 | 1957 | Lola C Davis |
 | 21 | 1900 | boblawboblaw |
 | 22 | 1842 | Frisky Balanceblock |
 | 23 | 1787 | Charles Varca |
