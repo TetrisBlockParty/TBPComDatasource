@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 09:48:16 UTC
+# Standings for team4 as of 2026-06-06 09:48:40 UTC
 
 **Total Participants:** 917
 
@@ -750,27 +750,27 @@
 | 742 | 17 | Kristie ML SneekaPuff |
 | 743 | 17 | Shane Snyder |
 | 744 | 17 | Trishaann Triplett |
-| 745 | 17 | Heather Hilferty |
-| 746 | 16 | Virgil Mayfield-Brown |
-| 747 | 16 | Frisky Pusher |
-| 748 | 16 | Mr.Corbin |
-| 749 | 16 | Dee Modest |
-| 750 | 16 | Kelli Miller |
-| 751 | 16 | Snappy Fill |
-| 752 | 16 | Catherine Garza |
-| 753 | 16 | Thomasena Eady Reid |
-| 754 | 16 | Grace Mariie |
-| 755 | 16 | Layne Davis |
-| 756 | 16 | Matthew Wilcox |
-| 757 | 16 | Happy Toast |
-| 758 | 16 | Joe Joe |
-| 759 | 15 | Hasty Snapmatch |
-| 760 | 15 | Lizzzzzz |
-| 761 | 15 | Mandi Rexroat |
-| 762 | 15 | Austin Tan |
-| 763 | 15 | Capone |
-| 764 | 15 | John Wertz |
-| 765 | 15 | Thomas Cassell |
+| 745 | 17 | Thomas Cassell |
+| 746 | 17 | Heather Hilferty |
+| 747 | 16 | Virgil Mayfield-Brown |
+| 748 | 16 | Frisky Pusher |
+| 749 | 16 | Mr.Corbin |
+| 750 | 16 | Dee Modest |
+| 751 | 16 | Kelli Miller |
+| 752 | 16 | Snappy Fill |
+| 753 | 16 | Catherine Garza |
+| 754 | 16 | Thomasena Eady Reid |
+| 755 | 16 | Grace Mariie |
+| 756 | 16 | Layne Davis |
+| 757 | 16 | Matthew Wilcox |
+| 758 | 16 | Happy Toast |
+| 759 | 16 | Joe Joe |
+| 760 | 15 | Hasty Snapmatch |
+| 761 | 15 | Lizzzzzz |
+| 762 | 15 | Mandi Rexroat |
+| 763 | 15 | Austin Tan |
+| 764 | 15 | Capone |
+| 765 | 15 | John Wertz |
 | 766 | 15 | Christina Barry |
 | 767 | 15 | Hasty Grabber |
 | 768 | 15 | Danielle Mitchell |
