@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 07:30:37 UTC
+# Standings for team1 as of 2026-06-06 07:31:17 UTC
 
 **Total Participants:** 908
 
@@ -32,15 +32,15 @@
 | 24 | 945 | Cassidy Butler |
 | 25 | 942 | Daylene Johannes |
 | 26 | 935 | Whitney Butler |
-| 27 | 928 | Juan Kandiss Escobedo Irwin |
-| 28 | 905 | Jolly Dropzone |
-| 29 | 882 | Jon Gathers |
-| 30 | 867 | Brian Bohanon II |
-| 31 | 863 | Holly Jolly |
-| 32 | 843 | Jacoby E Fleming |
-| 33 | 842 | Chris Russell |
-| 34 | 841 | Spicy Balancer |
-| 35 | 833 | Cherry Rose |
+| 27 | 933 | Cherry Rose |
+| 28 | 928 | Juan Kandiss Escobedo Irwin |
+| 29 | 905 | Jolly Dropzone |
+| 30 | 882 | Jon Gathers |
+| 31 | 867 | Brian Bohanon II |
+| 32 | 863 | Holly Jolly |
+| 33 | 843 | Jacoby E Fleming |
+| 34 | 842 | Chris Russell |
+| 35 | 841 | Spicy Balancer |
 | 36 | 794 | Jennifer To |
 | 37 | 749 | Aviv Zehavi |
 | 38 | 715 | Chill Clusterer |
@@ -272,49 +272,49 @@
 | 264 | 71 | Erin Sabol |
 | 265 | 71 | Elaine Pauley |
 | 266 | 71 | Kristie |
-| 267 | 70 | Kaleisha Smith |
+| 267 | 70 | Gerold Folk Haddock |
 | 268 | 70 | Hailey Hil |
-| 269 | 70 | Gerold Folk Haddock |
-| 270 | 70 | Cheeky Pop |
-| 271 | 70 | Peppy Glider |
-| 272 | 70 | $hort Dog |
-| 273 | 70 | Trina Greenwood |
+| 269 | 70 | Cheeky Pop |
+| 270 | 70 | Peppy Glider |
+| 271 | 70 | $hort Dog |
+| 272 | 70 | Trina Greenwood |
+| 273 | 70 | Kaleisha Smith |
 | 274 | 70 | MamushiOh |
 | 275 | 69 | CJ Robinson |
 | 276 | 69 | Chantelle Lee |
 | 277 | 68 | Tee Spinks |
 | 278 | 67 | Steve Reno |
 | 279 | 67 | Johnathan Deese |
-| 280 | 67 | Travis Davison |
-| 281 | 67 | Michele Elizabeth McKay-Johnson |
+| 280 | 67 | Michele Elizabeth McKay-Johnson |
+| 281 | 67 | Laurie Napper |
 | 282 | 67 | rls |
-| 283 | 67 | Laurie Napper |
+| 283 | 67 | Travis Davison |
 | 284 | 66 | Breezy Catcher |
 | 285 | 66 | GracefulOwl808 |
-| 286 | 65 | Jonathan Vee Jay |
-| 287 | 65 | Jazzy Bridger |
-| 288 | 65 | Tremaine Hiler |
-| 289 | 65 | Sabrina Wilkerson |
-| 290 | 64 | Eugina Slater |
-| 291 | 64 | Dena Marie Lee |
-| 292 | 64 | Penee Wiggins |
-| 293 | 63 | Sarah Swietlicki - Lopez |
-| 294 | 63 | Slinky Clearzone |
+| 286 | 65 | Jazzy Bridger |
+| 287 | 65 | Jonathan Vee Jay |
+| 288 | 65 | Sabrina Wilkerson |
+| 289 | 65 | Tremaine Hiler |
+| 290 | 65 | Giggy Tower |
+| 291 | 64 | Eugina Slater |
+| 292 | 64 | Dena Marie Lee |
+| 293 | 64 | Penee Wiggins |
+| 294 | 63 | Sarah Swietlicki - Lopez |
 | 295 | 63 | Ahsokadog |
-| 296 | 62 | Jack Mehof |
-| 297 | 62 | De'Mear McKinney |
-| 298 | 62 | Giggy Tower |
+| 296 | 63 | Slinky Clearzone |
+| 297 | 62 | Jack Mehof |
+| 298 | 62 | De'Mear McKinney |
 | 299 | 61 | Sunny Clicky |
 | 300 | 61 | star |
 | 301 | 61 | Tonya Thomas |
-| 302 | 60 | Kesha Brady |
-| 303 | 60 | Angie Smith |
-| 304 | 60 | De'Nell Edwards |
-| 305 | 60 | Christian Pham |
-| 306 | 60 | Malcolm Stanley |
-| 307 | 60 | Big Bovice |
-| 308 | 60 | Natasha Rucker |
-| 309 | 60 | Tasha |
+| 302 | 60 | Tasha |
+| 303 | 60 | Natasha Rucker |
+| 304 | 60 | Big Bovice |
+| 305 | 60 | Malcolm Stanley |
+| 306 | 60 | Christian Pham |
+| 307 | 60 | De'Nell Edwards |
+| 308 | 60 | Angie Smith |
+| 309 | 60 | Kesha Brady |
 | 310 | 60 | Lilly Brown |
 | 311 | 60 | Kimberly Noble |
 | 312 | 60 | Christi Walker Patton |
