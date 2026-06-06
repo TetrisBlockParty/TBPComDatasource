@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 14:04:17 UTC
+# Standings for team1 as of 2026-06-06 14:04:39 UTC
 
 **Total Participants:** 1014
 
@@ -28,7 +28,7 @@
 | 20 | 1569 | Epic Snapfall |
 | 21 | 1550 | Cassidy Butler |
 | 22 | 1445 | Erika Windom |
-| 23 | 1083 | Songne Arif |
+| 23 | 1383 | Songne Arif |
 | 24 | 1082 | Daylene Johannes |
 | 25 | 1037 | Shortstak |
 | 26 | 1028 | Mary Jenkins |
@@ -38,9 +38,9 @@
 | 30 | 958 | Juan Kandiss Escobedo Irwin |
 | 31 | 935 | Whitney Butler |
 | 32 | 933 | Cherry Rose |
-| 33 | 927 | Jolly Dropzone |
-| 34 | 901 | Jacoby E Fleming |
-| 35 | 894 | Sanjuro |
+| 33 | 930 | Sanjuro |
+| 34 | 927 | Jolly Dropzone |
+| 35 | 901 | Jacoby E Fleming |
 | 36 | 882 | Jon Gathers |
 | 37 | 877 | Brian Bohanon II |
 | 38 | 842 | Chris Russell |
@@ -66,13 +66,13 @@
 | 58 | 482 | Cj Gorman |
 | 59 | 474 | Keeta Chickswit Scott |
 | 60 | 471 | D'Andra Stewart |
-| 61 | 434 | Todd C. Clemens |
-| 62 | 427 | Gotcha |
-| 63 | 423 | Linzie Marie |
-| 64 | 421 | ing410 |
-| 65 | 409 | Chirpy Corner |
-| 66 | 395 | Blockhead |
-| 67 | 395 | Markeeta Lipscomb |
+| 61 | 443 | Markeeta Lipscomb |
+| 62 | 434 | Todd C. Clemens |
+| 63 | 427 | Gotcha |
+| 64 | 423 | Linzie Marie |
+| 65 | 421 | ing410 |
+| 66 | 409 | Chirpy Corner |
+| 67 | 395 | Blockhead |
 | 68 | 394 | DaVonte' Cretter |
 | 69 | 392 | She Higgy |
 | 70 | 388 | SPNLover24 |

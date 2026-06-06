@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 14:04:17 UTC
+# Standings for team2 as of 2026-06-06 14:04:39 UTC
 
 **Total Participants:** 1178
 
@@ -103,8 +103,8 @@
 | 95 | 354 | Branden Frankowski |
 | 96 | 347 | Zesty Strikerbuilder |
 | 97 | 345 | Smiley Dropper |
-| 98 | 340 | Le Sandy |
-| 99 | 340 | Courtney McCulley |
+| 98 | 340 | Courtney McCulley |
+| 99 | 340 | Le Sandy |
 | 100 | 335 | MaddieCherie |
 | 101 | 332 | Lily |
 | 102 | 328 | Tim Tim |
@@ -118,17 +118,17 @@
 | 110 | 300 | Wmk Rathbun |
 | 111 | 299 | Amber Miller Wirick |
 | 112 | 294 | Vistabrat |
-| 113 | 283 | Theresa Marie |
-| 114 | 283 | Sarah Griffey |
-| 115 | 281 | Joni Michelle Morgan |
-| 116 | 280 | Mom |
-| 117 | 279 | Renee Freeman Jacobson |
-| 118 | 279 | James Ward |
-| 119 | 279 | Bon Lynn |
-| 120 | 278 | Flashy Twistline |
-| 121 | 275 | Bubbly Strikerpiece |
-| 122 | 271 | Heather Burgett |
-| 123 | 262 | Jgato |
+| 113 | 292 | Jgato |
+| 114 | 283 | Theresa Marie |
+| 115 | 283 | Sarah Griffey |
+| 116 | 281 | Joni Michelle Morgan |
+| 117 | 280 | Mom |
+| 118 | 279 | Renee Freeman Jacobson |
+| 119 | 279 | James Ward |
+| 120 | 279 | Bon Lynn |
+| 121 | 278 | Flashy Twistline |
+| 122 | 275 | Bubbly Strikerpiece |
+| 123 | 271 | Heather Burgett |
 | 124 | 260 | Linda Guay |
 | 125 | 258 | Erin Thomas |
 | 126 | 253 | Hilliary Beyer |
@@ -142,7 +142,7 @@
 | 134 | 230 | Brandy Chinelle |
 | 135 | 228 | Keri Mears |
 | 136 | 227 | Brittni Lawrence |
-| 137 | 219 | Melissa Thomas |
+| 137 | 225 | Melissa Thomas |
 | 138 | 218 | Amy Nicole McCanne |
 | 139 | 216 | PaiBri |
 | 140 | 215 | Ashley Green |
