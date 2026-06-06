@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 10:54:16 UTC
+# Standings for team2 as of 2026-06-06 10:54:37 UTC
 
 **Total Participants:** 1109
 
@@ -158,8 +158,8 @@
 | 150 | 168 | Missy Renia |
 | 151 | 167 | Zarah Kettler |
 | 152 | 165 | Olivia Jefferson |
-| 153 | 165 | Ackerman 85 |
-| 154 | 165 | Karen Reid Cenkush |
+| 153 | 165 | Karen Reid Cenkush |
+| 154 | 165 | Ackerman 85 |
 | 155 | 164 | Jerry L Morales |
 | 156 | 164 | Melissa Nash |
 | 157 | 163 | Zany Cascader |
@@ -167,20 +167,20 @@
 | 159 | 162 | Larry Cross |
 | 160 | 161 | Boldy Wobbler |
 | 161 | 160 | snowwol |
-| 162 | 160 | Sarah Mccolgan |
-| 163 | 160 | Linda Guay |
-| 164 | 159 | Cara Rivera |
-| 165 | 157 | Santara Ferguson |
-| 166 | 157 | Spicy Risegrid |
-| 167 | 155 | Zany Blockclear |
-| 168 | 154 | Glitzy Base |
-| 169 | 153 | Zesty Strikerbuilder |
-| 170 | 151 | Marilyn Mendoza |
-| 171 | 150 | Rick |
-| 172 | 150 | Gabriella Humphreys |
+| 162 | 160 | Lora Via |
+| 163 | 160 | Sarah Mccolgan |
+| 164 | 160 | Linda Guay |
+| 165 | 159 | Cara Rivera |
+| 166 | 157 | Santara Ferguson |
+| 167 | 157 | Spicy Risegrid |
+| 168 | 155 | Zany Blockclear |
+| 169 | 154 | Glitzy Base |
+| 170 | 153 | Zesty Strikerbuilder |
+| 171 | 151 | Marilyn Mendoza |
+| 172 | 150 | Rick |
 | 173 | 150 | Crystal Allen |
-| 174 | 149 | Lily |
-| 175 | 149 | Lora Via |
+| 174 | 150 | Gabriella Humphreys |
+| 175 | 149 | Lily |
 | 176 | 149 | Jenni LeBlanc |
 | 177 | 148 | Curly Windbreaker |
 | 178 | 147 | Gill |
