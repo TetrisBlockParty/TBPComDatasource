@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 07:46:16 UTC
+# Standings for team1 as of 2026-06-06 07:46:38 UTC
 
 **Total Participants:** 915
 
@@ -249,8 +249,8 @@
 | 241 | 80 | Felicia Williams |
 | 242 | 79 | Bambi Johnson |
 | 243 | 79 | Montréal Mars |
-| 244 | 78 | Kelley Johnson |
-| 245 | 78 | Shameka Tiffany |
+| 244 | 78 | Shameka Tiffany |
+| 245 | 78 | Kelley Johnson |
 | 246 | 77 | Yashica Smith |
 | 247 | 77 | C Lo Green |
 | 248 | 76 | Giggly Shatterline |
@@ -258,74 +258,74 @@
 | 250 | 76 | Mister Reid |
 | 251 | 76 | Jackytrain52 |
 | 252 | 75 | Jayjay Rich |
-| 253 | 75 | BabyCakes |
-| 254 | 75 | Dizzy Dashy |
-| 255 | 75 | Nickeya Phillips |
-| 256 | 75 | Courtney Robinson |
-| 257 | 75 | Nutty Spinblock |
-| 258 | 74 | Angela Brown Babin |
-| 259 | 74 | ♈️ Ariesbaby |
+| 253 | 75 | Nickeya Phillips |
+| 254 | 75 | BabyCakes |
+| 255 | 75 | Dizzy Dashy |
+| 256 | 75 | Nutty Spinblock |
+| 257 | 75 | Courtney Robinson |
+| 258 | 74 | ♈️ Ariesbaby |
+| 259 | 74 | Angela Brown Babin |
 | 260 | 73 | Latore Maxie |
 | 261 | 73 | HarleyJane |
 | 262 | 72 | Tosha Michelle |
-| 263 | 72 | Chummy Frame |
-| 264 | 72 | Lauraly |
-| 265 | 71 | Erin Sabol |
-| 266 | 71 | Elaine Pauley |
-| 267 | 71 | Kristie |
+| 263 | 72 | Lauraly |
+| 264 | 72 | Chummy Frame |
+| 265 | 71 | Elaine Pauley |
+| 266 | 71 | Kristie |
+| 267 | 71 | Erin Sabol |
 | 268 | 71 | HBTone |
 | 269 | 70 | Gerold Folk Haddock |
-| 270 | 70 | Cheeky Pop |
-| 271 | 70 | $hort Dog |
-| 272 | 70 | Kaleisha Smith |
-| 273 | 70 | MamushiOh |
-| 274 | 70 | Hailey Hil |
-| 275 | 70 | Trina Greenwood |
+| 270 | 70 | $hort Dog |
+| 271 | 70 | MamushiOh |
+| 272 | 70 | Trina Greenwood |
+| 273 | 70 | Hailey Hil |
+| 274 | 70 | Cheeky Pop |
+| 275 | 70 | Kaleisha Smith |
 | 276 | 69 | CJ Robinson |
 | 277 | 69 | Chantelle Lee |
 | 278 | 68 | Tee Spinks |
-| 279 | 67 | Travis Davison |
-| 280 | 67 | Laurie Napper |
-| 281 | 67 | Johnathan Deese |
-| 282 | 67 | Steve Reno |
-| 283 | 67 | Michele Elizabeth McKay-Johnson |
-| 284 | 67 | rls |
-| 285 | 66 | Breezy Catcher |
-| 286 | 66 | GracefulOwl808 |
+| 279 | 67 | Steve Reno |
+| 280 | 67 | Travis Davison |
+| 281 | 67 | Laurie Napper |
+| 282 | 67 | Michele Elizabeth McKay-Johnson |
+| 283 | 67 | rls |
+| 284 | 67 | Johnathan Deese |
+| 285 | 66 | GracefulOwl808 |
+| 286 | 66 | Breezy Catcher |
 | 287 | 65 | Sabrina Wilkerson |
-| 288 | 65 | Giggy Tower |
-| 289 | 65 | Jazzy Bridger |
-| 290 | 65 | Jonathan Vee Jay |
-| 291 | 65 | Tremaine Hiler |
+| 288 | 65 | Jazzy Bridger |
+| 289 | 65 | Jonathan Vee Jay |
+| 290 | 65 | Tremaine Hiler |
+| 291 | 65 | Giggy Tower |
 | 292 | 64 | Eugina Slater |
 | 293 | 64 | Dena Marie Lee |
 | 294 | 64 | Penee Wiggins |
 | 295 | 63 | Sarah Swietlicki - Lopez |
 | 296 | 63 | Ahsokadog |
 | 297 | 63 | Slinky Clearzone |
-| 298 | 62 | Richard Flex |
-| 299 | 62 | Jack Mehof |
-| 300 | 62 | De'Mear McKinney |
-| 301 | 61 | Sunny Clicky |
-| 302 | 61 | star |
-| 303 | 61 | Slinky Brickmatch |
+| 298 | 63 | Slinky Brickmatch |
+| 299 | 62 | Richard Flex |
+| 300 | 62 | Jack Mehof |
+| 301 | 62 | De'Mear McKinney |
+| 302 | 61 | Sunny Clicky |
+| 303 | 61 | star |
 | 304 | 61 | Tonya Thomas |
-| 305 | 60 | Natasha Rucker |
-| 306 | 60 | Heather Aurelia |
+| 305 | 60 | Coco |
+| 306 | 60 | Natasha Rucker |
 | 307 | 60 | Katherine Short |
 | 308 | 60 | De'Nell Edwards |
 | 309 | 60 | Valerie Alexander |
 | 310 | 60 | Cachet A Ward |
 | 311 | 60 | Kesha Brady |
 | 312 | 60 | izzybella |
-| 313 | 60 | Coco |
+| 313 | 60 | Angie Smith |
 | 314 | 60 | Kimberly Noble |
 | 315 | 60 | Fina McKinnis |
 | 316 | 60 | Tasha |
 | 317 | 60 | Lilly Brown |
 | 318 | 60 | Christian Pham |
-| 319 | 60 | Malcolm Stanley |
-| 320 | 60 | Angie Smith |
+| 319 | 60 | Heather Aurelia |
+| 320 | 60 | Malcolm Stanley |
 | 321 | 60 | Christi Walker Patton |
 | 322 | 60 | Marlainia Boyd |
 | 323 | 60 | Big Bovice |
