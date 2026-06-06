@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 10:00:40 UTC
+# Standings for team1 as of 2026-06-06 10:01:15 UTC
 
 **Total Participants:** 949
 
@@ -89,7 +89,7 @@
 | 81 | 319 | GrkGdess |
 | 82 | 316 | Ty Øtg |
 | 83 | 314 | Carolynne Walker-Bell |
-| 84 | 300 | John Staub |
+| 84 | 302 | John Staub |
 | 85 | 292 | Robyn Caldwell |
 | 86 | 284 | Todd C. Clemens |
 | 87 | 279 | COSA303 |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 10:00:40 UTC
+# Standings for team2 as of 2026-06-06 10:01:15 UTC
 
 **Total Participants:** 1101
 
@@ -91,8 +91,8 @@
 | 83 | 390 | La chulis |
 | 84 | 389 | Kimberly Cowan |
 | 85 | 354 | Branden Frankowski |
-| 86 | 345 | Smiley Dropper |
-| 87 | 345 | Marquetta Johnson |
+| 86 | 354 | Marquetta Johnson |
+| 87 | 345 | Smiley Dropper |
 | 88 | 342 | Tom Badgley |
 | 89 | 341 | Nawang Nawang |
 | 90 | 340 | Courtney McCulley |
