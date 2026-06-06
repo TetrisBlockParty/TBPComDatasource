@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 20:46:17 UTC
+# Standings for team2 as of 2026-06-06 20:46:39 UTC
 
 **Total Participants:** 1367
 
@@ -200,46 +200,46 @@
 | 192 | 205 | haune |
 | 193 | 204 | Chill Line |
 | 194 | 201 | Danielle Pack Lewellen |
-| 195 | 200 | Eric Wayne Maschman |
-| 196 | 200 | Al Smith Jr |
-| 197 | 200 | Iesha Cupil |
-| 198 | 200 | Kelly Vedder |
-| 199 | 200 | Logan Duffey |
-| 200 | 200 | Physhie |
-| 201 | 200 | Sarah Grundisch |
+| 195 | 200 | Kelly Vedder |
+| 196 | 200 | Eric Wayne Maschman |
+| 197 | 200 | Sarah Grundisch |
+| 198 | 200 | Al Smith Jr |
+| 199 | 200 | Physhie |
+| 200 | 200 | Logan Duffey |
+| 201 | 200 | Iesha Cupil |
 | 202 | 199 | Amber Cogdill |
 | 203 | 195 | Bb |
-| 204 | 195 | Karly Moore |
-| 205 | 195 | Samantha Carman |
-| 206 | 194 | Mookshake |
-| 207 | 192 | Greta Warden |
+| 204 | 195 | Samantha Carman |
+| 205 | 195 | Karly Moore |
+| 206 | 195 | Snappy Blockbuilder |
+| 207 | 194 | Mookshake |
 | 208 | 192 | Nathan Walker |
-| 209 | 191 | Norma Ortiz |
-| 210 | 191 | Jeanna Mendez |
-| 211 | 191 | Kathy Strickland |
-| 212 | 191 | Jessica Christine |
-| 213 | 188 | Sully |
+| 209 | 192 | Greta Warden |
+| 210 | 191 | Kathy Strickland |
+| 211 | 191 | Norma Ortiz |
+| 212 | 191 | Jeanna Mendez |
+| 213 | 191 | Jessica Christine |
 | 214 | 188 | Larry Cross |
-| 215 | 188 | Ray Daisy |
-| 216 | 187 | Laura Melton |
-| 217 | 187 | Jat |
-| 218 | 184 | Becca Marie |
-| 219 | 183 | Chipper Stackbuilder |
-| 220 | 181 | Michelle Maulsby |
-| 221 | 177 | Amy Taylor Pomerenk |
-| 222 | 177 | Xandrea Jones |
-| 223 | 176 | Glitzy Base |
-| 224 | 175 | Laverne Ellis Blair |
-| 225 | 175 | Lashanda Bertram |
-| 226 | 174 | Nettrainer |
-| 227 | 174 | Olivia Jefferson |
-| 228 | 173 | Snappy Blockbuilder |
+| 215 | 188 | Sully |
+| 216 | 188 | Ray Daisy |
+| 217 | 187 | Laura Melton |
+| 218 | 187 | Jat |
+| 219 | 184 | Becca Marie |
+| 220 | 183 | Chipper Stackbuilder |
+| 221 | 181 | Michelle Maulsby |
+| 222 | 177 | Amy Taylor Pomerenk |
+| 223 | 177 | Xandrea Jones |
+| 224 | 176 | Glitzy Base |
+| 225 | 175 | Laverne Ellis Blair |
+| 226 | 175 | Lashanda Bertram |
+| 227 | 174 | Nettrainer |
+| 228 | 174 | Olivia Jefferson |
 | 229 | 173 | Amie Marks |
 | 230 | 172 | Carolyn McNaughton |
 | 231 | 171 | Melissa Nash |
-| 232 | 170 | Loopy Dropper |
-| 233 | 170 | phamous1 |
-| 234 | 170 | Harper |
+| 232 | 170 | Harper |
+| 233 | 170 | Loopy Dropper |
+| 234 | 170 | phamous1 |
 | 235 | 169 | Angie Bishop |
 | 236 | 168 | Danielle Lyons |
 | 237 | 168 | Missy Renia |
