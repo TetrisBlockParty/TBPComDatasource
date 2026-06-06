@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 13:12:16 UTC
+# Standings for team1 as of 2026-06-06 13:12:40 UTC
 
 **Total Participants:** 991
 
@@ -26,7 +26,7 @@
 | 18 | 1589 | Brian Stackhouse |
 | 19 | 1569 | Epic Snapfall |
 | 20 | 1535 | Cassidy Butler |
-| 21 | 1100 | Chandler Spencer |
+| 21 | 1250 | Chandler Spencer |
 | 22 | 1082 | Daylene Johannes |
 | 23 | 1037 | Shortstak |
 | 24 | 1028 | Mary Jenkins |
