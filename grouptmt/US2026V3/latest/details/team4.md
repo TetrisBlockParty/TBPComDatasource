@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 01:32:15 UTC
+# Standings for team4 as of 2026-06-06 01:32:38 UTC
 
 **Total Participants:** 636
 
@@ -37,8 +37,8 @@
 | 29 | 520 | Keesha Muro |
 | 30 | 494 | Krysten Danielle Richard |
 | 31 | 477 | Malik Thompson |
-| 32 | 474 | Heather Preston |
-| 33 | 474 | Jeremy Lopez |
+| 32 | 474 | Jeremy Lopez |
+| 33 | 474 | Heather Preston |
 | 34 | 465 | Fancy Crasher |
 | 35 | 439 | Gloria Nunley Trussell |
 | 36 | 431 | Kayla Fuentes |
@@ -67,8 +67,8 @@
 | 59 | 203 | Patrick Alley |
 | 60 | 202 | Leigh Pierce |
 | 61 | 201 | Renee Sapp |
-| 62 | 200 | Jackie Lucas |
-| 63 | 200 | Leah Gorsuch |
+| 62 | 200 | Leah Gorsuch |
+| 63 | 200 | Jackie Lucas |
 | 64 | 184 | Giggly Tilt |
 | 65 | 182 | Jason Allen |
 | 66 | 180 | Aisha Estrada |
@@ -126,11 +126,11 @@
 | 118 | 92 | Homie |
 | 119 | 91 | Dayna Arthurs |
 | 120 | 91 | Dominique Melendez |
-| 121 | 91 | JuicyJuice |
-| 122 | 90 | Justin Michael |
-| 123 | 90 | Sarah Berry Stevens |
-| 124 | 90 | Quiomarie Cotto |
-| 125 | 89 | Shanna Fragen |
+| 121 | 91 | Shanna Fragen |
+| 122 | 91 | JuicyJuice |
+| 123 | 90 | Justin Michael |
+| 124 | 90 | Sarah Berry Stevens |
+| 125 | 90 | Quiomarie Cotto |
 | 126 | 89 | Tiffany Loree Tiffany Oneill |
 | 127 | 89 | Waxboss |
 | 128 | 88 | Laguya |
@@ -378,45 +378,45 @@
 | 370 | 26 | Sonia Cordero-Martinez |
 | 371 | 26 | Leslie Marie WarClub |
 | 372 | 26 | Clever Shuffler |
-| 373 | 26 | Lacey Decker |
-| 374 | 26 | Kimmie Warren |
-| 375 | 26 | Jessica Huber |
-| 376 | 26 | Aramat |
+| 373 | 26 | Kimmie Warren |
+| 374 | 26 | Lacey Decker |
+| 375 | 26 | Aramat |
+| 376 | 26 | Jessica Huber |
 | 377 | 26 | Kelly Howland |
 | 378 | 26 | Kevin Lyles |
 | 379 | 26 | Nikcole Alexis Bryan |
 | 380 | 26 | Lisa Ferriero-Daudin |
-| 381 | 26 | Zippy Snaplink |
-| 382 | 25 | Andrea Dre Lomeli |
-| 383 | 25 | Meghan Etchells |
-| 384 | 25 | Erika Rubio |
-| 385 | 25 | ButterfliesRFree |
-| 386 | 24 | Socorro Arredondo |
-| 387 | 24 | Katiana Gonzalez |
-| 388 | 24 | Tony Clark |
+| 381 | 26 | Bridget Stevens |
+| 382 | 26 | Zippy Snaplink |
+| 383 | 25 | Andrea Dre Lomeli |
+| 384 | 25 | Meghan Etchells |
+| 385 | 25 | Erika Rubio |
+| 386 | 25 | ButterfliesRFree |
+| 387 | 24 | Tony Clark |
+| 388 | 24 | Katiana Gonzalez |
 | 389 | 24 | Miwa |
-| 390 | 24 | Lana Tran |
-| 391 | 24 | Dawn Marie Trujillo |
-| 392 | 24 | Spicy Peach |
-| 393 | 24 | Nancy McCalla Abercrombie |
-| 394 | 23 | Anna Ryan |
-| 395 | 23 | Sonya |
-| 396 | 23 | Silly Fallzone |
-| 397 | 23 | Kristen Wallace |
-| 398 | 23 | Kayla Haddenham |
-| 399 | 23 | ŁųŁų |
-| 400 | 22 | Khiem Hernandez |
-| 401 | 22 | taya |
-| 402 | 22 | Breezy Wife |
-| 403 | 22 | Jonelle Jacobs |
-| 404 | 22 | Magda Lene |
-| 405 | 22 | Funky Rollzone |
-| 406 | 22 | Deborah Ayliffe |
-| 407 | 22 | Epic Dashfit |
-| 408 | 21 | Dizzy |
+| 390 | 24 | Dawn Marie Trujillo |
+| 391 | 24 | Nancy McCalla Abercrombie |
+| 392 | 24 | Lana Tran |
+| 393 | 24 | Spicy Peach |
+| 394 | 24 | Socorro Arredondo |
+| 395 | 23 | ŁųŁų |
+| 396 | 23 | Kristen Wallace |
+| 397 | 23 | Sonya |
+| 398 | 23 | Anna Ryan |
+| 399 | 23 | Silly Fallzone |
+| 400 | 23 | Kayla Haddenham |
+| 401 | 22 | Deborah Ayliffe |
+| 402 | 22 | taya |
+| 403 | 22 | Breezy Wife |
+| 404 | 22 | Jonelle Jacobs |
+| 405 | 22 | Magda Lene |
+| 406 | 22 | Funky Rollzone |
+| 407 | 22 | Khiem Hernandez |
+| 408 | 22 | Epic Dashfit |
 | 409 | 21 | LilithMoon |
 | 410 | 21 | Brandi Sauer |
-| 411 | 21 | Bridget Stevens |
+| 411 | 21 | Dizzy |
 | 412 | 21 | Jacqueline Wright |
 | 413 | 21 | Swanky Matchfit |
 | 414 | 21 | SandyEva |
