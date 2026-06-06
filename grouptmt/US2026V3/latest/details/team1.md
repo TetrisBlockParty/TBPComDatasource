@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 03:44:15 UTC
+# Standings for team1 as of 2026-06-06 03:44:38 UTC
 
 **Total Participants:** 783
 
@@ -250,11 +250,11 @@
 | 242 | 60 | Lilly Brown |
 | 243 | 60 | Marcheta Cervantez |
 | 244 | 59 | Lauraly |
-| 245 | 58 | Brandy Way |
-| 246 | 58 | JaClanDiah |
-| 247 | 58 | TT |
-| 248 | 58 | Kimberly Susan Privette |
-| 249 | 58 | Steve Reno |
+| 245 | 59 | Steve Reno |
+| 246 | 58 | Brandy Way |
+| 247 | 58 | JaClanDiah |
+| 248 | 58 | TT |
+| 249 | 58 | Kimberly Susan Privette |
 | 250 | 58 | Tobey Marberry |
 | 251 | 58 | Sonia Binti Mfalme |
 | 252 | 57 | Sunny Clicky |
