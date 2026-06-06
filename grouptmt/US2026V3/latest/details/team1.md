@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 18:57:17 UTC
+# Standings for team1 as of 2026-06-06 18:58:17 UTC
 
 **Total Participants:** 1118
 
@@ -107,9 +107,9 @@
 | 99 | 372 | Moomoo |
 | 100 | 370 | Lashawn Wallace |
 | 101 | 344 | Kevin M. McGhee Jr |
-| 102 | 335 | Quirky Fallgrid |
-| 103 | 334 | Christana Imjustbutton Stone |
-| 104 | 333 | Jamal Itzjusmall Chambers |
+| 102 | 343 | Jamal Itzjusmall Chambers |
+| 103 | 335 | Quirky Fallgrid |
+| 104 | 334 | Christana Imjustbutton Stone |
 | 105 | 332 | Hyper Slamdrop |
 | 106 | 328 | Big Tina |
 | 107 | 328 | Jonathan Vee Jay |
@@ -236,36 +236,36 @@
 | 228 | 135 | Sean White |
 | 229 | 130 | Jessica Davis |
 | 230 | 130 | Dion Gray |
-| 231 | 129 | Lisa Fletcher |
-| 232 | 129 | Tremaine Hiler |
+| 231 | 129 | Tremaine Hiler |
+| 232 | 129 | Lisa Fletcher |
 | 233 | 128 | Jack Vlasak |
 | 234 | 127 | Koi |
-| 235 | 127 | Treneil Daffin |
-| 236 | 126 | 신재호 |
-| 237 | 125 | LaTonya Myers |
+| 235 | 127 | MommaCia |
+| 236 | 127 | Treneil Daffin |
+| 237 | 126 | 신재호 |
 | 238 | 125 | LaShaun Stinson |
-| 239 | 124 | Courtney Cicoria |
-| 240 | 123 | Simone Bailey |
-| 241 | 123 | Slinky Snapbuilder |
-| 242 | 123 | Cauiasia DeJ'ae |
-| 243 | 122 | Miera Nicole |
-| 244 | 121 | Tiana Monique |
-| 245 | 121 | Bubbly Piececlear |
-| 246 | 121 | Rachel Zimmerman |
-| 247 | 120 | Tipsy Linkroll |
-| 248 | 120 | Brittanie Wardlow |
+| 239 | 125 | LaTonya Myers |
+| 240 | 124 | Courtney Cicoria |
+| 241 | 123 | Cauiasia DeJ'ae |
+| 242 | 123 | Simone Bailey |
+| 243 | 123 | Slinky Snapbuilder |
+| 244 | 122 | Miera Nicole |
+| 245 | 121 | Rachel Zimmerman |
+| 246 | 121 | Tiana Monique |
+| 247 | 121 | Bubbly Piececlear |
+| 248 | 120 | Spicy Risepiece |
 | 249 | 120 | Valerie Alexander |
-| 250 | 120 | Spicy Risepiece |
-| 251 | 120 | Nerdy Blockpiece |
-| 252 | 120 | Saucy Tile |
+| 250 | 120 | Nerdy Blockpiece |
+| 251 | 120 | Saucy Tile |
+| 252 | 120 | Tipsy Linkroll |
 | 253 | 120 | Guy Incognito |
-| 254 | 118 | Tanisha Taylor |
-| 255 | 118 | Hasty Pivoty |
-| 256 | 116 | Kelvin Cook |
-| 257 | 115 | Skippy |
+| 254 | 120 | Brittanie Wardlow |
+| 255 | 118 | Tanisha Taylor |
+| 256 | 118 | Hasty Pivoty |
+| 257 | 116 | Kelvin Cook |
 | 258 | 115 | Dizzy Dashy |
-| 259 | 115 | Kenny MrOnethousand Peck |
-| 260 | 115 | MommaCia |
+| 259 | 115 | Skippy |
+| 260 | 115 | Kenny MrOnethousand Peck |
 | 261 | 114 | Brittany Fells |
 | 262 | 114 | LAhoneybun82 |
 | 263 | 112 | GamerQueenDS |
@@ -273,11 +273,11 @@
 | 265 | 111 | Lesley Brunkus Cianfaglione |
 | 266 | 111 | Sarah Clark |
 | 267 | 110 | Slinky Party |
-| 268 | 110 | Matthieu Pistone |
-| 269 | 110 | Karebear |
+| 268 | 110 | Karebear |
+| 269 | 110 | Matthieu Pistone |
 | 270 | 109 | Tamika Fisher |
-| 271 | 108 | Char |
-| 272 | 108 | Dedra M Prester |
+| 271 | 108 | Dedra M Prester |
+| 272 | 108 | Char |
 | 273 | 106 | Mister Reid |
 | 274 | 105 | Chandler Magee |
 | 275 | 105 | Kelley Johnson |
