@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 15:12:17 UTC
+# Standings for team2 as of 2026-06-06 15:12:39 UTC
 
 **Total Participants:** 1205
 
@@ -40,11 +40,11 @@
 | 32 | 1649 | Ashley Miller |
 | 33 | 1537 | Bea Bee |
 | 34 | 1482 | Aubree Richard |
-| 35 | 1455 | Sean Rippa |
-| 36 | 1424 | Betty Barrett |
-| 37 | 1406 | Happy Pivotfall |
-| 38 | 1400 | Danni Campa |
-| 39 | 1398 | Frilly Match |
+| 35 | 1458 | Frilly Match |
+| 36 | 1455 | Sean Rippa |
+| 37 | 1424 | Betty Barrett |
+| 38 | 1406 | Happy Pivotfall |
+| 39 | 1400 | Danni Campa |
 | 40 | 1357 | Elizabeth Mooney |
 | 41 | 1351 | Monica Galli |
 | 42 | 1335 | Christina Jambard Sampier |
@@ -78,11 +78,11 @@
 | 70 | 588 | Kellie Sharp Godfrey |
 | 71 | 577 | Lindsay Klemp |
 | 72 | 572 | Dsabrina Maxey |
-| 73 | 543 | Kathleen Dumbazz |
-| 74 | 540 | Jamie Jones |
-| 75 | 538 | Sarah Griffey |
-| 76 | 531 | Nawang Nawang |
-| 77 | 527 | Loopy Cascadepiece |
+| 73 | 547 | Loopy Cascadepiece |
+| 74 | 543 | Kathleen Dumbazz |
+| 75 | 540 | Jamie Jones |
+| 76 | 538 | Sarah Griffey |
+| 77 | 531 | Nawang Nawang |
 | 78 | 515 | Loony Faller |
 | 79 | 501 | Ricardo Ewart |
 | 80 | 494 | Shandrea Crawford |
@@ -313,110 +313,110 @@
 | 305 | 99 | Jennifer Vitro |
 | 306 | 98 | Anthony Swift |
 | 307 | 97 | Jennifer McClure |
-| 308 | 97 | Abby |
-| 309 | 97 | Boldy Fitclear |
-| 310 | 96 | MegaPooh |
+| 308 | 97 | Boldy Fitclear |
+| 309 | 97 | Abby |
+| 310 | 96 | Tracy Tokarz |
 | 311 | 96 | Breezy |
-| 312 | 96 | Tracy Tokarz |
-| 313 | 95 | Mike Mordhorst |
+| 312 | 96 | MegaPooh |
+| 313 | 95 | Skye Ehret |
 | 314 | 95 | Wacky Holder |
-| 315 | 95 | Skye Ehret |
-| 316 | 94 | Sherri E Woods Hess |
-| 317 | 94 | Paige Lynette Sohl |
-| 318 | 94 | Mandy Van Laningham Bishop |
-| 319 | 93 | Avie Lou |
-| 320 | 93 | Mataya |
-| 321 | 93 | Connie Breeden |
-| 322 | 93 | Lively Curve |
-| 323 | 93 | Paula Haskins |
-| 324 | 92 | Nutty Curver |
-| 325 | 92 | Jayda Walters |
-| 326 | 92 | Raine |
-| 327 | 92 | Nikki Hatch |
-| 328 | 91 | Greenie |
+| 315 | 95 | Mike Mordhorst |
+| 316 | 94 | Paige Lynette Sohl |
+| 317 | 94 | Mandy Van Laningham Bishop |
+| 318 | 94 | Sherri E Woods Hess |
+| 319 | 93 | Paula Haskins |
+| 320 | 93 | Connie Breeden |
+| 321 | 93 | Mataya |
+| 322 | 93 | Avie Lou |
+| 323 | 93 | Lively Curve |
+| 324 | 92 | Raine |
+| 325 | 92 | Nikki Hatch |
+| 326 | 92 | Nutty Curver |
+| 327 | 92 | Jayda Walters |
+| 328 | 91 | Rocroc mo |
 | 329 | 91 | Heather Vircik |
-| 330 | 91 | Rocroc mo |
-| 331 | 91 | Leighla Davis |
-| 332 | 90 | Rescuegirl76 |
-| 333 | 90 | Carlos J Blas |
-| 334 | 89 | Ava Speedy |
-| 335 | 89 | Maria Ward |
+| 330 | 91 | Jessica Connot |
+| 331 | 91 | Greenie |
+| 332 | 91 | Leighla Davis |
+| 333 | 90 | Rescuegirl76 |
+| 334 | 90 | Carlos J Blas |
+| 335 | 89 | Ava Speedy |
 | 336 | 89 | Patrick Woodard |
-| 337 | 88 | Chesney |
-| 338 | 88 | Tami Kay Williams Watson |
-| 339 | 88 | Nano. |
-| 340 | 87 | Jackie Walker |
+| 337 | 89 | Maria Ward |
+| 338 | 88 | Nano. |
+| 339 | 88 | Chesney |
+| 340 | 88 | Tami Kay Williams Watson |
 | 341 | 87 | Wendy Mcbride |
 | 342 | 87 | Sam Brewster |
-| 343 | 86 | Norma Ortiz |
-| 344 | 85 | Christina Maria |
-| 345 | 85 | Daisy Girl |
+| 343 | 87 | Jackie Walker |
+| 344 | 86 | Norma Ortiz |
+| 345 | 85 | Christina Maria |
 | 346 | 85 | James Sayers |
-| 347 | 84 | Lisa Underwood Desmond |
-| 348 | 83 | TetrisMama |
+| 347 | 85 | Daisy Girl |
+| 348 | 84 | Lisa Underwood Desmond |
 | 349 | 83 | Cristi Doris |
-| 350 | 83 | Chill Line |
+| 350 | 83 | TetrisMama |
 | 351 | 83 | Louis Brudzinski |
 | 352 | 83 | Justin McCray |
-| 353 | 82 | Kimberly Brooks |
-| 354 | 82 | Candi Cane |
+| 353 | 83 | Chill Line |
+| 354 | 82 | Madonna Ash |
 | 355 | 82 | Mary Carriere |
 | 356 | 82 | Wendy McKee |
-| 357 | 82 | Madonna Ash |
-| 358 | 82 | Sandra Pursell |
-| 359 | 81 | Heather Hi |
-| 360 | 81 | Stoney McMillion |
-| 361 | 81 | Jessica Connot |
+| 357 | 82 | Candi Cane |
+| 358 | 82 | Kimberly Brooks |
+| 359 | 82 | Sandra Pursell |
+| 360 | 81 | Heather Hi |
+| 361 | 81 | Stoney McMillion |
 | 362 | 81 | Shiny Spinfit |
 | 363 | 81 | Epic Tilemaker |
-| 364 | 81 | Rhonda Driskill |
-| 365 | 81 | Cassandra Milner |
-| 366 | 81 | Lindsey Ross |
-| 367 | 81 | YldBoar |
-| 368 | 80 | Plucky Grabber |
-| 369 | 80 | Ashley Eneboe |
-| 370 | 80 | Eva Lopez |
+| 364 | 81 | Cassandra Milner |
+| 365 | 81 | Rhonda Driskill |
+| 366 | 81 | YldBoar |
+| 367 | 81 | Lindsey Ross |
+| 368 | 80 | Nicole Hogue |
+| 369 | 80 | Plucky Grabber |
+| 370 | 80 | Ceci |
 | 371 | 80 | Brooke Kaune |
-| 372 | 80 | Ceci |
-| 373 | 80 | Nicole Hogue |
-| 374 | 80 | Jill Goff |
-| 375 | 80 | Thomas Tyrone |
-| 376 | 79 | Kenzie |
-| 377 | 79 | Aeryal Snow |
+| 372 | 80 | Thomas Tyrone |
+| 373 | 80 | Jill Goff |
+| 374 | 80 | Ashley Eneboe |
+| 375 | 80 | Eva Lopez |
+| 376 | 79 | Michele Rogers |
+| 377 | 79 | Jillian Marie |
 | 378 | 79 | Bruni |
-| 379 | 79 | Danielle Blount |
-| 380 | 79 | Jillian Marie |
-| 381 | 79 | Lezley Hawkins |
-| 382 | 79 | Michele Rogers |
+| 379 | 79 | Lezley Hawkins |
+| 380 | 79 | Aeryal Snow |
+| 381 | 79 | Kenzie |
+| 382 | 79 | Danielle Blount |
 | 383 | 78 | Nova Nova |
-| 384 | 77 | Raymond Dawson |
-| 385 | 77 | Sandra Belk |
-| 386 | 77 | MUMBLES |
-| 387 | 77 | Kristen |
-| 388 | 77 | Nikki Hayes |
-| 389 | 77 | Renee Siems |
+| 384 | 77 | Nikki Hayes |
+| 385 | 77 | MUMBLES |
+| 386 | 77 | Renee Siems |
+| 387 | 77 | Sandra Belk |
+| 388 | 77 | Kristen |
+| 389 | 77 | Raymond Dawson |
 | 390 | 76 | Dad |
-| 391 | 76 | Alonzo Reed |
-| 392 | 76 | Tiffany Fitch |
+| 391 | 76 | Tiffany Fitch |
+| 392 | 76 | Alonzo Reed |
 | 393 | 76 | Melissa Fink |
-| 394 | 75 | Courtney Madison Hart |
-| 395 | 75 | Gabrielle Wilson |
-| 396 | 75 | Epic Framezone |
-| 397 | 75 | Christine James |
-| 398 | 75 | Jessica Christine |
-| 399 | 75 | Erica South |
-| 400 | 75 | Nova |
-| 401 | 75 | Analee Nicole Jones |
-| 402 | 74 | Jumpy Dashpiece |
-| 403 | 74 | Valeri Bradley |
-| 404 | 74 | Derrick |
+| 394 | 75 | Gabrielle Wilson |
+| 395 | 75 | Epic Framezone |
+| 396 | 75 | Erica South |
+| 397 | 75 | Courtney Madison Hart |
+| 398 | 75 | Nova |
+| 399 | 75 | Analee Nicole Jones |
+| 400 | 75 | Christine James |
+| 401 | 75 | Jessica Christine |
+| 402 | 74 | Natasha Lee |
+| 403 | 74 | Jumpy Dashpiece |
+| 404 | 74 | Valeri Bradley |
 | 405 | 74 | rageking |
 | 406 | 74 | Elizabeth Henry |
-| 407 | 74 | Natasha Lee |
-| 408 | 74 | Laurie |
+| 407 | 74 | Laurie |
+| 408 | 74 | Derrick |
 | 409 | 73 | Chirpy Combofall |
-| 410 | 73 | bozzycat |
-| 411 | 73 | Sunny Spinzone |
+| 410 | 73 | Sunny Spinzone |
+| 411 | 73 | bozzycat |
 | 412 | 73 | Joannah Capilitan |
 | 413 | 73 | Rachel M. Farnsworth |
 | 414 | 72 | StacyBabee |
