@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 03:32:16 UTC
+# Standings for team1 as of 2026-06-06 03:32:40 UTC
 
 **Total Participants:** 773
 
@@ -51,8 +51,8 @@
 | 43 | 398 | Lisa Müller |
 | 44 | 395 | Markeeta Lipscomb |
 | 45 | 380 | She Higgy |
-| 46 | 380 | IamJust Neyamijah Washington Sr. |
-| 47 | 380 | Bre Maugh |
+| 46 | 380 | Bre Maugh |
+| 47 | 380 | IamJust Neyamijah Washington Sr. |
 | 48 | 380 | Jessica Carter |
 | 49 | 377 | JaszyBadd |
 | 50 | 377 | AF Cruz |
@@ -63,8 +63,8 @@
 | 55 | 350 | Jazzy Dashpiece |
 | 56 | 344 | Kevin M. McGhee Jr |
 | 57 | 332 | Hyper Slamdrop |
-| 58 | 320 | Kimberly Hernandez |
-| 59 | 319 | Shell Lewis |
+| 58 | 331 | Shell Lewis |
+| 59 | 320 | Kimberly Hernandez |
 | 60 | 319 | GrkGdess |
 | 61 | 313 | Big Tina |
 | 62 | 279 | COSA303 |
@@ -759,7 +759,7 @@
 | 751 | 6 | Anthony T. Fults |
 | 752 | 6 | Lucy |
 | 753 | 5 | Hasty Brickzone |
-| 754 | 5 | DirtiestofMikes |
+| 754 | 5 | Sara |
 | 755 | 5 | Jennifer Moore |
 | 756 | 5 | Temeshia Brooks Washington |
 | 757 | 5 | Tipsy Builderline |
@@ -771,13 +771,13 @@
 | 763 | 5 | Tito Divyn |
 | 764 | 5 | the guy |
 | 765 | 5 | Derek Beverly |
-| 766 | 5 | Kidgib5 |
+| 766 | 5 | Chill Linkroll |
 | 767 | 5 | Rieshelda Marie White |
-| 768 | 5 | Annette DeLoatch Thompson |
+| 768 | 5 | Stephanie Zuniga Tullock |
 | 769 | 5 | Jasmine Hariston-Estis |
-| 770 | 5 | Stephanie Zuniga Tullock |
-| 771 | 5 | Sara |
-| 772 | 5 | Chill Linkroll |
+| 770 | 5 | Annette DeLoatch Thompson |
+| 771 | 5 | DirtiestofMikes |
+| 772 | 5 | Kidgib5 |
 | 773 | 5 | Lil T |
 
 ---
