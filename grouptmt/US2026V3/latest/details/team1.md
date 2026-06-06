@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 19:11:17 UTC
+# Standings for team1 as of 2026-06-06 19:12:17 UTC
 
 **Total Participants:** 1122
 
@@ -28,9 +28,9 @@
 | 20 | 2321 | Chandler Spencer |
 | 21 | 2252 | jaimie |
 | 22 | 1679 | Epic Snapfall |
-| 23 | 1589 | Brian Stackhouse |
-| 24 | 1570 | April Inboden |
-| 25 | 1534 | Juan Kandiss Escobedo Irwin |
+| 23 | 1633 | Juan Kandiss Escobedo Irwin |
+| 24 | 1589 | Brian Stackhouse |
+| 25 | 1570 | April Inboden |
 | 26 | 1445 | Erika Windom |
 | 27 | 1420 | Janet Cooke |
 | 28 | 1300 | Cool Bridger |
@@ -188,14 +188,14 @@
 | 180 | 178 | Jazzy Fireflighters |
 | 181 | 176 | Anthony Washington |
 | 182 | 176 | Nikki Hogan |
-| 183 | 172 | Marcheta Cervantez |
-| 184 | 172 | pooh |
-| 185 | 171 | Boldy Liner |
-| 186 | 169 | Asha Langford |
-| 187 | 169 | Christina Rebecca |
-| 188 | 168 | IThinkNot |
-| 189 | 168 | Tina Mitchell |
-| 190 | 167 | Ebony Waynes-robinson |
+| 183 | 172 | Ebony Waynes-robinson |
+| 184 | 172 | Marcheta Cervantez |
+| 185 | 172 | pooh |
+| 186 | 171 | Boldy Liner |
+| 187 | 169 | Asha Langford |
+| 188 | 169 | Christina Rebecca |
+| 189 | 168 | IThinkNot |
+| 190 | 168 | Tina Mitchell |
 | 191 | 166 | NastyFriend |
 | 192 | 166 | Tarnisha Neicy Jones |
 | 193 | 165 | Queenie Perry |
