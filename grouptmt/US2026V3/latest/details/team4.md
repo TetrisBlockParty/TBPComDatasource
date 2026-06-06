@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 16:48:17 UTC
+# Standings for team4 as of 2026-06-06 16:48:41 UTC
 
 **Total Participants:** 1056
 
@@ -250,33 +250,33 @@
 | 242 | 107 | Tommy Bond |
 | 243 | 107 | Jrr |
 | 244 | 107 | Allysha McFarland |
-| 245 | 106 | George Palacios |
-| 246 | 106 | Pepone Pepe |
-| 247 | 106 | Samantha Worley |
+| 245 | 106 | Samantha Worley |
+| 246 | 106 | George Palacios |
+| 247 | 106 | Pepone Pepe |
 | 248 | 105 | Shanna Fragen |
 | 249 | 105 | Quiomarie Cotto |
 | 250 | 104 | LastBoi |
 | 251 | 104 | Justin Ballard |
-| 252 | 103 | Rachel Lemos |
-| 253 | 103 | farfromlocal |
+| 252 | 103 | farfromlocal |
+| 253 | 103 | Rachel Lemos |
 | 254 | 102 | Taisha Beasley |
-| 255 | 102 | Keith Kosmicki |
-| 256 | 101 | Smiley Gridzone |
-| 257 | 101 | Futrell Brent |
-| 258 | 101 | Zesty Twistpiece |
+| 255 | 102 | Tiggerjake |
+| 256 | 102 | Keith Kosmicki |
+| 257 | 101 | Dayna Arthurs |
+| 258 | 101 | Sarah Perry Cook |
 | 259 | 101 | TheazO |
-| 260 | 101 | Sarah Perry Cook |
-| 261 | 101 | Tipsy Zonebuilder |
-| 262 | 101 | Dayna Arthurs |
-| 263 | 100 | Melissa Brown |
-| 264 | 100 | bollo |
+| 260 | 101 | Zesty Twistpiece |
+| 261 | 101 | Futrell Brent |
+| 262 | 101 | Smiley Gridzone |
+| 263 | 101 | Tipsy Zonebuilder |
+| 264 | 100 | BusterBear56 |
 | 265 | 100 | Loopy Clusterline |
-| 266 | 100 | BusterBear56 |
-| 267 | 100 | Iforget |
-| 268 | 100 | Rita Ann |
-| 269 | 100 | CorieBe |
-| 270 | 98 | Jacqueline Arce |
-| 271 | 97 | Tiggerjake |
+| 266 | 100 | bollo |
+| 267 | 100 | Melissa Brown |
+| 268 | 100 | Iforget |
+| 269 | 100 | Rita Ann |
+| 270 | 100 | CorieBe |
+| 271 | 98 | Jacqueline Arce |
 | 272 | 97 | Tarsha Thomas-Martinez |
 | 273 | 97 | Corey Jackson |
 | 274 | 97 | Fancy Tilefall |
@@ -466,62 +466,62 @@
 | 458 | 58 | Jade Alley |
 | 459 | 58 | Lana Tran |
 | 460 | 57 | Волна Бог |
-| 461 | 57 | Shia Marie |
-| 462 | 57 | Tiffany Roberts |
-| 463 | 57 | Tre'nya Smith |
-| 464 | 57 | Erich EMac McIntosh |
-| 465 | 57 | da1ndonly |
-| 466 | 57 | Giggy Snapgrid |
-| 467 | 57 | PapaB |
-| 468 | 57 | Deborah Silberg |
-| 469 | 57 | Rocky |
-| 470 | 56 | Zappy Matchgrid |
-| 471 | 56 | Karen Davis |
-| 472 | 56 | Tony Clark |
-| 473 | 55 | The Jazziest |
-| 474 | 55 | Elisha Thompson |
-| 475 | 55 | Jailen Harper |
-| 476 | 55 | Cherrel M. Causey |
-| 477 | 55 | Cinta Marie |
-| 478 | 55 | Nicole Ambrose |
-| 479 | 54 | Solace Grace |
-| 480 | 54 | Lisa Ferriero-Daudin |
-| 481 | 54 | Earl Edwards |
-| 482 | 53 | Trang Nguyen |
-| 483 | 53 | MattJennifer Marie Ericson |
-| 484 | 53 | LaTanya GeminiondaRise Johnson |
-| 485 | 52 | Snappy Stack |
+| 461 | 57 | YenSid |
+| 462 | 57 | Shia Marie |
+| 463 | 57 | Tiffany Roberts |
+| 464 | 57 | Tre'nya Smith |
+| 465 | 57 | Erich EMac McIntosh |
+| 466 | 57 | da1ndonly |
+| 467 | 57 | Giggy Snapgrid |
+| 468 | 57 | PapaB |
+| 469 | 57 | Deborah Silberg |
+| 470 | 57 | Rocky |
+| 471 | 56 | Zappy Matchgrid |
+| 472 | 56 | Karen Davis |
+| 473 | 56 | Tony Clark |
+| 474 | 55 | The Jazziest |
+| 475 | 55 | Elisha Thompson |
+| 476 | 55 | Jailen Harper |
+| 477 | 55 | Cherrel M. Causey |
+| 478 | 55 | Cinta Marie |
+| 479 | 55 | Nicole Ambrose |
+| 480 | 54 | Solace Grace |
+| 481 | 54 | Lisa Ferriero-Daudin |
+| 482 | 54 | Earl Edwards |
+| 483 | 53 | Trang Nguyen |
+| 484 | 53 | MattJennifer Marie Ericson |
+| 485 | 53 | LaTanya GeminiondaRise Johnson |
 | 486 | 52 | Lisa Pie |
 | 487 | 52 | Plucky Shatterfit |
-| 488 | 52 | Monte Smith |
-| 489 | 52 | Jj Johnson |
-| 490 | 52 | Luunii |
-| 491 | 52 | Angela Adamo-Tash |
-| 492 | 52 | Clashy |
-| 493 | 51 | Poppy |
-| 494 | 51 | JustLessie |
+| 488 | 52 | Marisela Alvarado |
+| 489 | 52 | Monte Smith |
+| 490 | 52 | Jj Johnson |
+| 491 | 52 | Snappy Stack |
+| 492 | 52 | Luunii |
+| 493 | 52 | Clashy |
+| 494 | 52 | Angela Adamo-Tash |
 | 495 | 51 | Breezy Blockzone |
-| 496 | 51 | Marisela Alvarado |
+| 496 | 51 | Poppy |
 | 497 | 51 | Erika Rubio |
 | 498 | 51 | Kimberly Civinski |
 | 499 | 51 | Clever Patterner |
-| 500 | 51 | yourmomz |
-| 501 | 51 | Vergie Michael |
-| 502 | 51 | Michellee Lewis |
-| 503 | 51 | Swanky Builderline |
-| 504 | 51 | LilRain |
-| 505 | 51 | YenSid |
+| 500 | 51 | JustLessie |
+| 501 | 51 | yourmomz |
+| 502 | 51 | Vergie Michael |
+| 503 | 51 | Michellee Lewis |
+| 504 | 51 | Swanky Builderline |
+| 505 | 51 | LilRain |
 | 506 | 50 | Nerdy Brickster |
-| 507 | 50 | Loony Edge |
+| 507 | 50 | Flashy Shatterer |
 | 508 | 50 | Sassy Column |
-| 509 | 50 | Flashy Shatterer |
+| 509 | 50 | Nova Kain |
 | 510 | 50 | Ralph Hell Rell Williams |
 | 511 | 50 | Diane Obungu |
 | 512 | 50 | Jacqueline Wright |
 | 513 | 50 | Michael Cruz |
-| 514 | 50 | Brittany |
-| 515 | 50 | Lady Dolphin |
-| 516 | 50 | Nova Kain |
+| 514 | 50 | Loony Edge |
+| 515 | 50 | Brittany |
+| 516 | 50 | Lady Dolphin |
 | 517 | 50 | Edward White |
 | 518 | 50 | Susan Stofberg Beltran |
 | 519 | 50 | Bhakti Sawarkar |

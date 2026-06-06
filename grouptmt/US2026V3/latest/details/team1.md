@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 16:48:17 UTC
+# Standings for team1 as of 2026-06-06 16:48:41 UTC
 
 **Total Participants:** 1067
 
@@ -243,65 +243,65 @@
 | 235 | 120 | Guy Incognito |
 | 236 | 120 | Valerie Alexander |
 | 237 | 120 | Saucy Tile |
-| 238 | 120 | Nerdy Blockpiece |
+| 238 | 120 | Spicy Risepiece |
 | 239 | 120 | Brittanie Wardlow |
-| 240 | 120 | Spicy Risepiece |
+| 240 | 120 | Nerdy Blockpiece |
 | 241 | 118 | Tanisha Taylor |
 | 242 | 118 | Hasty Pivoty |
 | 243 | 117 | 신재호 |
 | 244 | 116 | Kelvin Cook |
 | 245 | 115 | Dizzy Dashy |
 | 246 | 115 | Kenny MrOnethousand Peck |
-| 247 | 114 | LAhoneybun82 |
+| 247 | 114 | Brittany Fells |
 | 248 | 114 | Melissa D. M. Hornsby |
-| 249 | 112 | Bre Poston |
-| 250 | 112 | GamerQueenDS |
-| 251 | 112 | Tipsy Linkroll |
-| 252 | 111 | Lesley Brunkus Cianfaglione |
-| 253 | 110 | Frisky Fall |
-| 254 | 110 | Matthieu Pistone |
-| 255 | 110 | Slinky Party |
-| 256 | 109 | Tamika Fisher |
-| 257 | 109 | Slinky Snapbuilder |
-| 258 | 108 | Char |
-| 259 | 106 | Mister Reid |
-| 260 | 105 | Kelley Johnson |
-| 261 | 105 | Chandler Magee |
+| 249 | 114 | LAhoneybun82 |
+| 250 | 112 | Tipsy Linkroll |
+| 251 | 112 | Bre Poston |
+| 252 | 112 | GamerQueenDS |
+| 253 | 111 | Lesley Brunkus Cianfaglione |
+| 254 | 110 | Frisky Fall |
+| 255 | 110 | Matthieu Pistone |
+| 256 | 110 | Slinky Party |
+| 257 | 109 | Tamika Fisher |
+| 258 | 109 | Slinky Snapbuilder |
+| 259 | 108 | Char |
+| 260 | 106 | Mister Reid |
+| 261 | 105 | Kelley Johnson |
 | 262 | 105 | Katrina Ramey |
-| 263 | 104 | Brittany Fells |
-| 264 | 104 | Ahvae Lee |
-| 265 | 104 | Brittnay Wright |
-| 266 | 101 | Joana Thompson |
-| 267 | 101 | Calvin Green |
-| 268 | 100 | Seddrick |
-| 269 | 100 | $hort Dog |
-| 270 | 100 | Leavon Smith |
-| 271 | 100 | Hailey Hil |
+| 263 | 105 | Chandler Magee |
+| 264 | 104 | Brittnay Wright |
+| 265 | 104 | Ahvae Lee |
+| 266 | 101 | Calvin Green |
+| 267 | 101 | Joana Thompson |
+| 268 | 100 | Leavon Smith |
+| 269 | 100 | Seddrick |
+| 270 | 100 | Hailey Hil |
+| 271 | 100 | $hort Dog |
 | 272 | 99 | Maribel Vasquez |
 | 273 | 99 | Ciera Peace |
-| 274 | 98 | Dorian Griffin |
-| 275 | 98 | Slim Shedidthat |
-| 276 | 98 | Koi |
-| 277 | 98 | Sharon Cail |
-| 278 | 97 | Telisha Mims |
-| 279 | 97 | Shanell Thomas |
+| 274 | 98 | Koi |
+| 275 | 98 | Dorian Griffin |
+| 276 | 98 | Sharon Cail |
+| 277 | 98 | Slim Shedidthat |
+| 278 | 97 | Shanell Thomas |
+| 279 | 97 | Telisha Mims |
 | 280 | 96 | Phillip Vasquez |
-| 281 | 96 | Yazz |
-| 282 | 96 | Dena Marie Lee |
+| 281 | 96 | Dena Marie Lee |
+| 282 | 96 | Yazz |
 | 283 | 95 | Shiny Lift |
 | 284 | 95 | Heather Aurelia |
 | 285 | 95 | Nate Myers |
-| 286 | 95 | Stephen Glaze |
-| 287 | 95 | Tosha Michelle |
+| 286 | 95 | Tosha Michelle |
+| 287 | 95 | Stephen Glaze |
 | 288 | 94 | Cece Fowler |
 | 289 | 94 | Keke Ferguson |
-| 290 | 93 | HarleyJane |
-| 291 | 93 | NastyFriend |
+| 290 | 93 | NastyFriend |
+| 291 | 93 | HarleyJane |
 | 292 | 92 | The DUBZ |
 | 293 | 92 | Katherine Short |
 | 294 | 91 | star |
-| 295 | 90 | Charlene Baltimore |
-| 296 | 90 | Danielle DeLozier Plesec |
+| 295 | 90 | Danielle DeLozier Plesec |
+| 296 | 90 | Charlene Baltimore |
 | 297 | 88 | Ad Doctor |
 | 298 | 88 | Slinky Brickmatch |
 | 299 | 88 | TT |
