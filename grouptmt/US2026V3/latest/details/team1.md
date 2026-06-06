@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 01:48:16 UTC
+# Standings for team1 as of 2026-06-06 01:48:37 UTC
 
 **Total Participants:** 695
 
@@ -25,7 +25,7 @@
 | 17 | 803 | Epic Snapfall |
 | 18 | 749 | Aviv Zehavi |
 | 19 | 745 | Pdubbl3 |
-| 20 | 678 | Brian Bohanon II |
+| 20 | 697 | Brian Bohanon II |
 | 21 | 674 | Holly Jolly |
 | 22 | 634 | Charnay Peacock |
 | 23 | 580 | Janet Cooke |
@@ -64,7 +64,7 @@
 | 56 | 228 | Cassidy Butler |
 | 57 | 224 | Alana Renee |
 | 58 | 221 | Allison Baxter |
-| 59 | 215 | Kimberly Hernandez |
+| 59 | 216 | Kimberly Hernandez |
 | 60 | 215 | Abraham Espaillat |
 | 61 | 214 | Po Marley |
 | 62 | 212 | KenpachisGirl |
@@ -129,29 +129,29 @@
 | 121 | 100 | Jessica Carter |
 | 122 | 100 | Cool Bridger |
 | 123 | 100 | Char |
-| 124 | 99 | 신재호 |
-| 125 | 99 | Simone Bailey |
-| 126 | 96 | Cortaz Lawrie |
-| 127 | 95 | Nate Myers |
-| 128 | 94 | Kimberly Linares Hernandez |
-| 129 | 93 | Queenie Perry |
-| 130 | 92 | Quirky Fallgrid |
-| 131 | 92 | Joana Thompson |
-| 132 | 91 | Jack Vlasak |
-| 133 | 90 | Melissa D. M. Hornsby |
+| 124 | 100 | Courtney Cicoria |
+| 125 | 99 | 신재호 |
+| 126 | 99 | Simone Bailey |
+| 127 | 96 | Cortaz Lawrie |
+| 128 | 95 | Nate Myers |
+| 129 | 94 | Kimberly Linares Hernandez |
+| 130 | 93 | Queenie Perry |
+| 131 | 92 | Quirky Fallgrid |
+| 132 | 92 | Joana Thompson |
+| 133 | 91 | Jack Vlasak |
 | 134 | 90 | LaTonya Myers |
-| 135 | 89 | Lively Riserpiece |
-| 136 | 88 | QueenShay AllGood |
-| 137 | 87 | Nobles Brandon |
-| 138 | 87 | Poppy Buildout |
-| 139 | 85 | Lisa Fletcher |
-| 140 | 85 | Courtney Cicoria |
+| 135 | 90 | Melissa D. M. Hornsby |
+| 136 | 89 | Lively Riserpiece |
+| 137 | 88 | QueenShay AllGood |
+| 138 | 87 | Nobles Brandon |
+| 139 | 87 | Poppy Buildout |
+| 140 | 85 | Lisa Fletcher |
 | 141 | 84 | Ciera Peace |
 | 142 | 84 | Franklin Sotelo |
 | 143 | 83 | Byron Mario Cawthon |
 | 144 | 81 | Matthieu Pistone |
-| 145 | 81 | Sarah Steckbauer |
-| 146 | 81 | Mafio SO |
+| 145 | 81 | Mafio SO |
+| 146 | 81 | Sarah Steckbauer |
 | 147 | 80 | Charles Johnson |
 | 148 | 80 | Jazzy Dashpiece |
 | 149 | 80 | Jamie Willis |
@@ -613,8 +613,8 @@
 | 605 | 10 | Cherry Rose |
 | 606 | 10 | Kesha Brady |
 | 607 | 10 | Damien Fonseca |
-| 608 | 10 | Parris Wright |
-| 609 | 10 | Tina Criam |
+| 608 | 10 | Tina Criam |
+| 609 | 10 | Parris Wright |
 | 610 | 9 | Dana |
 | 611 | 9 | Brave Gridmatch |
 | 612 | 9 | Joka NoTime ForHataz |
@@ -623,20 +623,20 @@
 | 615 | 9 | Sherry D Singleton |
 | 616 | 9 | Brika Brika |
 | 617 | 9 | John Lovato |
-| 618 | 9 | Clifford Petroske |
-| 619 | 9 | Shakmar |
+| 618 | 9 | Shakmar |
+| 619 | 9 | Mars |
 | 620 | 9 | Noni |
 | 621 | 9 | Pinky Pink |
-| 622 | 9 | Mars |
-| 623 | 9 | ummm |
+| 622 | 9 | ummm |
+| 623 | 9 | Clifford Petroske |
 | 624 | 8 | TBabii24 |
 | 625 | 8 | Tanesha Ga'sFinest Corbett |
 | 626 | 8 | Groovy Riseclear |
 | 627 | 8 | Jelyfish |
 | 628 | 8 | Rixo Blax |
 | 629 | 8 | Brenda Brogden |
-| 630 | 8 | Caitlin Michele |
-| 631 | 8 | jus_ry |
+| 630 | 8 | jus_ry |
+| 631 | 8 | Caitlin Michele |
 | 632 | 8 | Cm |
 | 633 | 8 | Ashley Davis |
 | 634 | 8 | Mahagony Small |
@@ -651,12 +651,12 @@
 | 643 | 8 | katia |
 | 644 | 7 | Shane Brucewayne |
 | 645 | 7 | Andrew Harris |
-| 646 | 7 | Koz176 |
-| 647 | 7 | MrsDontPlay |
+| 646 | 7 | KingSlim82 |
+| 647 | 7 | Koz176 |
 | 648 | 7 | BonnieB |
-| 649 | 7 | Milfchaser530 |
+| 649 | 7 | MrsDontPlay |
 | 650 | 7 | Lakiesha Crawford |
-| 651 | 7 | KingSlim82 |
+| 651 | 7 | Milfchaser530 |
 | 652 | 7 | Jayson |
 | 653 | 7 | Analesia Taylor |
 | 654 | 7 | Barbramerri Tarboro |
@@ -671,9 +671,9 @@
 | 663 | 6 | Snippy Breaker |
 | 664 | 6 | NEM0228 |
 | 665 | 6 | Wacky Towerer |
-| 666 | 6 | Lucy |
+| 666 | 6 | Wu May |
 | 667 | 6 | Jeffrey Barrows |
-| 668 | 6 | Wu May |
+| 668 | 6 | Lucy |
 | 669 | 6 | Christopher Wallace |
 | 670 | 6 | akosua |
 | 671 | 5 | Temeshia Brooks Washington |
@@ -683,8 +683,8 @@
 | 675 | 5 | Sara |
 | 676 | 5 | Hasty Brickzone |
 | 677 | 5 | Duckey |
-| 678 | 5 | Shona ShayShay Jones |
-| 679 | 5 | Giggy Clusterer |
+| 678 | 5 | Giggy Clusterer |
+| 679 | 5 | Shona ShayShay Jones |
 | 680 | 5 | Tamika Fisher |
 | 681 | 5 | Derek Beverly |
 | 682 | 5 | the guy |
@@ -697,10 +697,10 @@
 | 689 | 5 | Jennifer Moore |
 | 690 | 5 | Kidgib5 |
 | 691 | 5 | DirtiestofMikes |
-| 692 | 5 | Andre Sanon |
-| 693 | 5 | Tito Divyn |
-| 694 | 5 | Shawn Himes |
-| 695 | 5 | Chill Linkroll |
+| 692 | 5 | Tito Divyn |
+| 693 | 5 | Shawn Himes |
+| 694 | 5 | Chill Linkroll |
+| 695 | 5 | Andre Sanon |
 
 ---
 *Standings created by tournaments datasource generation tool*
