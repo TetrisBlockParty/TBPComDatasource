@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 20:56:17 UTC
+# Standings for team1 as of 2026-06-06 20:56:39 UTC
 
 **Total Participants:** 1157
 
@@ -634,31 +634,31 @@
 | 626 | 43 | Giggy Brickfit |
 | 627 | 43 | Block |
 | 628 | 43 | Trixie |
-| 629 | 43 | Taylor Jordan Hollis |
-| 630 | 43 | Corbin Henry |
+| 629 | 43 | Corbin Henry |
+| 630 | 43 | Taylor Jordan Hollis |
 | 631 | 43 | Elizabeth Vega Coreano |
 | 632 | 43 | Kyle Conley |
-| 633 | 42 | Sunny Riserbuilder |
+| 633 | 43 | Dawn Basemore |
 | 634 | 42 | Louise |
-| 635 | 42 | Wacky Spinfit |
-| 636 | 42 | Sally Elizabeth Hopson |
-| 637 | 42 | Jenna Renee |
-| 638 | 42 | Brii Michelle Lamb |
-| 639 | 42 | Stephen Garland |
-| 640 | 42 | Dennis Ripley |
-| 641 | 41 | Lawreniesha Burkley |
+| 635 | 42 | Sally Elizabeth Hopson |
+| 636 | 42 | Wacky Spinfit |
+| 637 | 42 | Sunny Riserbuilder |
+| 638 | 42 | Jenna Renee |
+| 639 | 42 | Brii Michelle Lamb |
+| 640 | 42 | Stephen Garland |
+| 641 | 42 | Dennis Ripley |
 | 642 | 41 | Xrandomx |
 | 643 | 41 | Taz Ballard |
 | 644 | 41 | TRUBBLE45 |
-| 645 | 41 | Cranky Fall |
-| 646 | 41 | JLynn Mind Ur's Blackwell |
-| 647 | 41 | Danielle Marie Lewis |
-| 648 | 41 | Jenni |
-| 649 | 41 | Delitra Perkins Hatter |
-| 650 | 41 | Spicy Shatterblock |
-| 651 | 41 | Frothy Zoney |
-| 652 | 41 | Dawn Basemore |
-| 653 | 40 | Shauntai Holiday |
+| 645 | 41 | Danielle Marie Lewis |
+| 646 | 41 | Cranky Fall |
+| 647 | 41 | JLynn Mind Ur's Blackwell |
+| 648 | 41 | Lawreniesha Burkley |
+| 649 | 41 | Jenni |
+| 650 | 41 | Delitra Perkins Hatter |
+| 651 | 41 | Spicy Shatterblock |
+| 652 | 41 | Frothy Zoney |
+| 653 | 40 | Marie Wilson |
 | 654 | 40 | Flashy Slam |
 | 655 | 40 | Tootsie Pop |
 | 656 | 40 | Larina Cherie Johnson |
@@ -666,14 +666,14 @@
 | 658 | 40 | Ashlie Mo |
 | 659 | 40 | akosua |
 | 660 | 40 | Christopher L Crites |
-| 661 | 40 | Marie Wilson |
-| 662 | 40 | Marc Papa |
-| 663 | 40 | Rochelle Nash-Evans |
-| 664 | 40 | RealOne95 |
-| 665 | 40 | Marcello Rush |
+| 661 | 40 | Marc Papa |
+| 662 | 40 | Shauntai Holiday |
+| 663 | 40 | Marcello Rush |
+| 664 | 40 | Rochelle Nash-Evans |
+| 665 | 40 | RealOne95 |
 | 666 | 40 | Jean Regis |
-| 667 | 40 | Furlough Leslie |
-| 668 | 40 | Kamilya Rembert |
+| 667 | 40 | Kamilya Rembert |
+| 668 | 40 | Furlough Leslie |
 | 669 | 40 | Mikemike Zonethree |
 | 670 | 40 | Cj Chimelis |
 | 671 | 40 | Abby |
