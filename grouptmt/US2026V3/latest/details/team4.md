@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 01:34:16 UTC
+# Standings for team4 as of 2026-06-06 01:34:40 UTC
 
 **Total Participants:** 637
 
@@ -42,8 +42,8 @@
 | 34 | 465 | Fancy Crasher |
 | 35 | 439 | Gloria Nunley Trussell |
 | 36 | 431 | Kayla Fuentes |
-| 37 | 419 | Caitlyn Wang |
-| 38 | 418 | Shaina Sharp |
+| 37 | 428 | Shaina Sharp |
+| 38 | 419 | Caitlyn Wang |
 | 39 | 392 | Blayne Kole |
 | 40 | 389 | Ning Quiambao |
 | 41 | 383 | Crissy Hoffman |
