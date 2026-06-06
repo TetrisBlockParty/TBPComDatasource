@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 21:36:39 UTC
+# Standings for team1 as of 2026-06-06 21:37:17 UTC
 
 **Total Participants:** 1174
 
@@ -65,7 +65,7 @@
 | 57 | 689 | Jaida King |
 | 58 | 675 | Corey Cawthon |
 | 59 | 648 | Eartha Brown |
-| 60 | 643 | Blockhead |
+| 60 | 646 | Blockhead |
 | 61 | 605 | JoJo |
 | 62 | 598 | Ivana Schmidt |
 | 63 | 593 | Kimberly Hernandez |
@@ -208,21 +208,21 @@
 | 200 | 167 | Chilly Wipebuilder |
 | 201 | 166 | Tarnisha Neicy Jones |
 | 202 | 165 | Queenie Perry |
-| 203 | 163 | Mafio SO |
-| 204 | 162 | JaClanDiah |
-| 205 | 161 | Dawn L Washington-Feuquay |
-| 206 | 160 | DaGuy |
-| 207 | 160 | Sara Meri |
-| 208 | 160 | Spicy Risepiece |
-| 209 | 160 | Carolyn Smith |
-| 210 | 160 | Jamie Willis |
-| 211 | 159 | Fina McKinnis |
-| 212 | 157 | Richard Flex |
-| 213 | 157 | Kimberly Linares Hernandez |
-| 214 | 156 | Jessica Russell |
+| 203 | 164 | Mikayla |
+| 204 | 163 | Mafio SO |
+| 205 | 162 | JaClanDiah |
+| 206 | 161 | Dawn L Washington-Feuquay |
+| 207 | 160 | DaGuy |
+| 208 | 160 | Sara Meri |
+| 209 | 160 | Spicy Risepiece |
+| 210 | 160 | Carolyn Smith |
+| 211 | 160 | Jamie Willis |
+| 212 | 159 | Fina McKinnis |
+| 213 | 157 | Richard Flex |
+| 214 | 157 | Kimberly Linares Hernandez |
 | 215 | 156 | Cheeky Twistpiece |
 | 216 | 156 | Cheeky Pop |
-| 217 | 156 | Mikayla |
+| 217 | 156 | Jessica Russell |
 | 218 | 154 | Chipper Snapper |
 | 219 | 154 | LaShaun Stinson |
 | 220 | 153 | Rackemwillie34 |
@@ -231,8 +231,8 @@
 | 223 | 148 | Kenny MrOnethousand Peck |
 | 224 | 147 | Melissa D. M. Hornsby |
 | 225 | 147 | MACHETEEDDIE513 |
-| 226 | 147 | Sammie Walker |
-| 227 | 147 | Tanisha Taylor |
+| 226 | 147 | Tanisha Taylor |
+| 227 | 147 | Sammie Walker |
 | 228 | 146 | Keke Ferguson |
 | 229 | 146 | BlackQueen105 |
 | 230 | 146 | Stephen Providenti |
@@ -547,31 +547,31 @@
 | 539 | 54 | Melissa Olvera |
 | 540 | 54 | Sha Anderson |
 | 541 | 54 | Boldy Pivoty |
-| 542 | 54 | Ace Hardware |
-| 543 | 54 | John Spath |
-| 544 | 54 | Ryan Runyan |
-| 545 | 54 | Aaron Hartmann |
-| 546 | 53 | Morenita Rodriguez |
-| 547 | 53 | Saucy Faller |
-| 548 | 53 | Cortrell Foster |
-| 549 | 53 | Clever Wrecker |
+| 542 | 54 | Randizzle |
+| 543 | 54 | Ace Hardware |
+| 544 | 54 | John Spath |
+| 545 | 54 | Ryan Runyan |
+| 546 | 54 | Aaron Hartmann |
+| 547 | 53 | Cortrell Foster |
+| 548 | 53 | Clever Wrecker |
+| 549 | 53 | Morenita Rodriguez |
 | 550 | 53 | Lady Scorpio |
 | 551 | 53 | Bold Clusterer |
-| 552 | 53 | Heather Wilson |
-| 553 | 53 | Barbramerri Tarboro |
-| 554 | 52 | Giggly Tiltbuilder |
-| 555 | 52 | Sherri Keys |
-| 556 | 52 | Earl Williams |
-| 557 | 52 | Randizzle |
+| 552 | 53 | Saucy Faller |
+| 553 | 53 | Heather Wilson |
+| 554 | 53 | Barbramerri Tarboro |
+| 555 | 52 | Loopy Risepiece |
+| 556 | 52 | Sherri Keys |
+| 557 | 52 | Gabriela Hernandez |
 | 558 | 52 | Danny Talbot |
-| 559 | 52 | Gabriela Hernandez |
-| 560 | 52 | Loopy Risepiece |
-| 561 | 51 | messyboots |
-| 562 | 51 | Casey Chapman |
-| 563 | 51 | Shanjerrica Taylor Rosell |
-| 564 | 51 | BrettanMary Adkins |
-| 565 | 51 | Poppy Smasher |
-| 566 | 51 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 559 | 52 | Giggly Tiltbuilder |
+| 560 | 52 | Earl Williams |
+| 561 | 51 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 562 | 51 | BrettanMary Adkins |
+| 563 | 51 | Poppy Smasher |
+| 564 | 51 | Shanjerrica Taylor Rosell |
+| 565 | 51 | messyboots |
+| 566 | 51 | Casey Chapman |
 | 567 | 50 | Christopher Shaw-Black |
 | 568 | 50 | Meow Meow |
 | 569 | 50 | Kanary Karotz |
@@ -654,28 +654,28 @@
 | 646 | 43 | Taylor Jordan Hollis |
 | 647 | 43 | Elizabeth Vega Coreano |
 | 648 | 43 | Corbin Henry |
-| 649 | 43 | Trixie |
-| 650 | 42 | Mathew Trudell |
-| 651 | 42 | Brii Michelle Lamb |
-| 652 | 42 | Sally Elizabeth Hopson |
-| 653 | 42 | Sunny Riserbuilder |
-| 654 | 42 | Lucy |
-| 655 | 42 | Dennis Ripley |
-| 656 | 42 | Louise |
-| 657 | 42 | Stephen Garland |
-| 658 | 42 | Jenna Renee |
-| 659 | 42 | Wacky Spinfit |
-| 660 | 41 | Xrandomx |
-| 661 | 41 | TRUBBLE45 |
+| 649 | 43 | Vivian Bunnell Myers |
+| 650 | 43 | Trixie |
+| 651 | 42 | Louise |
+| 652 | 42 | Brii Michelle Lamb |
+| 653 | 42 | Sally Elizabeth Hopson |
+| 654 | 42 | Sunny Riserbuilder |
+| 655 | 42 | Lucy |
+| 656 | 42 | Mathew Trudell |
+| 657 | 42 | Dennis Ripley |
+| 658 | 42 | Stephen Garland |
+| 659 | 42 | Jenna Renee |
+| 660 | 42 | Wacky Spinfit |
+| 661 | 41 | Xrandomx |
 | 662 | 41 | Cranky Fall |
-| 663 | 41 | Danielle Marie Lewis |
-| 664 | 41 | Witty Clear |
-| 665 | 41 | Lawreniesha Burkley |
-| 666 | 41 | Delitra Perkins Hatter |
-| 667 | 41 | JLynn Mind Ur's Blackwell |
-| 668 | 41 | Taz Ballard |
-| 669 | 41 | Spicy Shatterblock |
-| 670 | 41 | Vivian Bunnell Myers |
+| 663 | 41 | TRUBBLE45 |
+| 664 | 41 | Danielle Marie Lewis |
+| 665 | 41 | Witty Clear |
+| 666 | 41 | Lawreniesha Burkley |
+| 667 | 41 | Delitra Perkins Hatter |
+| 668 | 41 | JLynn Mind Ur's Blackwell |
+| 669 | 41 | Taz Ballard |
+| 670 | 41 | Spicy Shatterblock |
 | 671 | 41 | Frothy Zoney |
 | 672 | 40 | akosua |
 | 673 | 40 | Tessa Gaskin |
