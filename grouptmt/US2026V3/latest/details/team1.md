@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 04:40:16 UTC
+# Standings for team1 as of 2026-06-06 04:40:38 UTC
 
 **Total Participants:** 837
 
@@ -276,32 +276,32 @@
 | 268 | 60 | Coco |
 | 269 | 60 | Marcheta Cervantez |
 | 270 | 60 | Malcolm Stanley |
-| 271 | 60 | Natasha Rucker |
+| 271 | 60 | Cachet A Ward |
 | 272 | 60 | izzybella |
-| 273 | 60 | Katherine Short |
-| 274 | 60 | Heather Aurelia |
-| 275 | 60 | Cachet A Ward |
-| 276 | 60 | Kimberly Noble |
-| 277 | 60 | Big Bovice |
-| 278 | 59 | Lauraly |
-| 279 | 59 | Chilly Wipebuilder |
-| 280 | 58 | Tobey Marberry |
-| 281 | 58 | JaClanDiah |
+| 273 | 60 | Kimberly Noble |
+| 274 | 60 | Natasha Rucker |
+| 275 | 60 | Heather Aurelia |
+| 276 | 60 | Big Bovice |
+| 277 | 60 | Katherine Short |
+| 278 | 59 | Chilly Wipebuilder |
+| 279 | 59 | Lauraly |
+| 280 | 58 | JaClanDiah |
+| 281 | 58 | Tobey Marberry |
 | 282 | 58 | Brandy Way |
 | 283 | 58 | Kimberly Susan Privette |
 | 284 | 58 | Sonia Binti Mfalme |
 | 285 | 58 | Mikayla |
 | 286 | 57 | Sunny Clicky |
 | 287 | 56 | Miera Nicole |
-| 288 | 56 | Nora Mahmoud |
+| 288 | 56 | Nichelle Warren |
 | 289 | 56 | Angela Brown Babin |
-| 290 | 56 | Nichelle Warren |
-| 291 | 55 | Hyper Blocky |
-| 292 | 55 | KoolKimJay |
-| 293 | 55 | Koi |
-| 294 | 55 | Angelique Talbot |
-| 295 | 55 | Terrie |
-| 296 | 55 | Kyle Franklin |
+| 290 | 56 | Nora Mahmoud |
+| 291 | 55 | Kyle Franklin |
+| 292 | 55 | Terrie |
+| 293 | 55 | KoolKimJay |
+| 294 | 55 | Hyper Blocky |
+| 295 | 55 | Koi |
+| 296 | 55 | Angelique Talbot |
 | 297 | 54 | Melissa Olvera |
 | 298 | 54 | xXEKUNXx |
 | 299 | 54 | Rackemwillie34 |
@@ -314,65 +314,65 @@
 | 306 | 53 | Karebear |
 | 307 | 52 | Keke Ferguson |
 | 308 | 52 | Loopy Risepiece |
-| 309 | 52 | Dandy Brickfit |
-| 310 | 52 | Gabriela Hernandez |
-| 311 | 51 | Rachael Bakowicz Edwards |
-| 312 | 51 | Comedian Gdane |
-| 313 | 51 | Shanjerrica Taylor Rosell |
-| 314 | 50 | Donna Payne |
-| 315 | 50 | Slinky Party |
+| 309 | 52 | Raquel Ortiz |
+| 310 | 52 | Dandy Brickfit |
+| 311 | 52 | Gabriela Hernandez |
+| 312 | 51 | Rachael Bakowicz Edwards |
+| 313 | 51 | Comedian Gdane |
+| 314 | 51 | Shanjerrica Taylor Rosell |
+| 315 | 50 | Donna Payne |
 | 316 | 50 | Denell Sims |
 | 317 | 50 | Smiley Clearpiece |
-| 318 | 50 | Dion Gray |
-| 319 | 50 | Kesha Brady |
-| 320 | 50 | MsBobby Patrick |
-| 321 | 50 | Antoinette Jones |
-| 322 | 50 | Teresa Yanira Cepeda |
-| 323 | 50 | Yazz |
-| 324 | 50 | Raquel Ortiz |
-| 325 | 50 | BabyCakes |
-| 326 | 50 | Nisha Sunshine Jenkins |
+| 318 | 50 | Slinky Party |
+| 319 | 50 | Dion Gray |
+| 320 | 50 | Kesha Brady |
+| 321 | 50 | MsBobby Patrick |
+| 322 | 50 | Antoinette Jones |
+| 323 | 50 | Teresa Yanira Cepeda |
+| 324 | 50 | Nisha Sunshine Jenkins |
+| 325 | 50 | Yazz |
+| 326 | 50 | BabyCakes |
 | 327 | 49 | Brittany Fells |
-| 328 | 49 | LexiiSamayaa |
-| 329 | 49 | SnazzyIvy |
-| 330 | 48 | Clever Fitblock |
+| 328 | 49 | SnazzyIvy |
+| 329 | 49 | LexiiSamayaa |
+| 330 | 48 | Kahh |
 | 331 | 48 | BYM4L |
-| 332 | 48 | Kahh |
-| 333 | 48 | Lynnette WheelerBushnell |
-| 334 | 48 | Comedian Prince Paul |
-| 335 | 48 | Mommy Frank |
+| 332 | 48 | Comedian Prince Paul |
+| 333 | 48 | Clever Fitblock |
+| 334 | 48 | Mommy Frank |
+| 335 | 48 | Lynnette WheelerBushnell |
 | 336 | 48 | Slim Shedidthat |
-| 337 | 47 | Derrius SeriousLee Burks |
-| 338 | 47 | Shameka Thrasher |
-| 339 | 47 | Dee McCool |
-| 340 | 47 | kitten |
-| 341 | 47 | Christopher Dreamsareality McEachin |
-| 342 | 47 | Poppy Twister |
-| 343 | 47 | Smiley Tilebuilder |
-| 344 | 47 | Slinky Brickmatch |
-| 345 | 47 | Calvin Green |
-| 346 | 47 | Kevin Turner |
-| 347 | 46 | Maria Baez Medina |
-| 348 | 46 | David A Alvino |
-| 349 | 46 | Chris Nelson |
-| 350 | 46 | Ja'mice Nelson |
-| 351 | 46 | Felicia Dungey |
-| 352 | 46 | Kimberly Anderson |
-| 353 | 45 | Sabrina Wilkerson |
-| 354 | 45 | nameno |
-| 355 | 45 | Glitzy Clusterer |
-| 356 | 45 | Jae Thompson-Tyus |
-| 357 | 45 | Tishauna Virgo |
+| 337 | 47 | Poppy Twister |
+| 338 | 47 | Smiley Tilebuilder |
+| 339 | 47 | Derrius SeriousLee Burks |
+| 340 | 47 | Shameka Thrasher |
+| 341 | 47 | Dee McCool |
+| 342 | 47 | kitten |
+| 343 | 47 | Christopher Dreamsareality McEachin |
+| 344 | 47 | Calvin Green |
+| 345 | 47 | Kevin Turner |
+| 346 | 47 | Slinky Brickmatch |
+| 347 | 46 | Chris Nelson |
+| 348 | 46 | Ja'mice Nelson |
+| 349 | 46 | Maria Baez Medina |
+| 350 | 46 | David A Alvino |
+| 351 | 46 | Kimberly Anderson |
+| 352 | 46 | Felicia Dungey |
+| 353 | 45 | Jae Thompson-Tyus |
+| 354 | 45 | Glitzy Clusterer |
+| 355 | 45 | nameno |
+| 356 | 45 | Tishauna Virgo |
+| 357 | 45 | Sabrina Wilkerson |
 | 358 | 45 | Guy Incognito |
 | 359 | 45 | Renee J. Thomas |
-| 360 | 44 | Tamara Johnson-Carter |
-| 361 | 44 | sasha |
+| 360 | 44 | sasha |
+| 361 | 44 | Tamara Johnson-Carter |
 | 362 | 43 | Elizabeth Hopkins |
-| 363 | 43 | Gael Quintana |
-| 364 | 43 | Wild Out Nai |
-| 365 | 43 | Rufus |
-| 366 | 43 | Brenda Malachi-butler |
-| 367 | 43 | Giggy Brickfit |
+| 363 | 43 | Wild Out Nai |
+| 364 | 43 | Giggy Brickfit |
+| 365 | 43 | Brenda Malachi-butler |
+| 366 | 43 | Rufus |
+| 367 | 43 | Gael Quintana |
 | 368 | 43 | Block |
 | 369 | 43 | Daring Blockclear |
 | 370 | 43 | Rachel Renae Bettis |
