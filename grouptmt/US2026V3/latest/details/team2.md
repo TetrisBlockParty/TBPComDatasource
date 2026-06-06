@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 16:34:40 UTC
+# Standings for team2 as of 2026-06-06 16:35:17 UTC
 
 **Total Participants:** 1252
 
@@ -66,14 +66,14 @@
 | 58 | 729 | Amber Salazar |
 | 59 | 719 | Marie Luciano |
 | 60 | 708 | Hoppy Rotate |
-| 61 | 702 | Charley Bedford |
-| 62 | 701 | Sarah Griffey |
-| 63 | 700 | Denise Potter |
-| 64 | 695 | Andre Love |
-| 65 | 694 | Angie Mccain |
-| 66 | 671 | Brandi Thompson |
-| 67 | 647 | Loopy Cascadepiece |
-| 68 | 645 | Jazzy Faller |
+| 61 | 705 | Jazzy Faller |
+| 62 | 702 | Charley Bedford |
+| 63 | 701 | Sarah Griffey |
+| 64 | 700 | Denise Potter |
+| 65 | 695 | Andre Love |
+| 66 | 694 | Angie Mccain |
+| 67 | 671 | Brandi Thompson |
+| 68 | 647 | Loopy Cascadepiece |
 | 69 | 614 | Block Dog |
 | 70 | 600 | LEW |
 | 71 | 592 | Brandon Link |
@@ -353,43 +353,43 @@
 | 345 | 92 | Thy Bui |
 | 346 | 92 | Jayda Walters |
 | 347 | 92 | Raine |
-| 348 | 91 | Rocroc mo |
-| 349 | 91 | Heather Vircik |
-| 350 | 91 | Leighla Davis |
-| 351 | 91 | Greenie |
-| 352 | 90 | Lesley Stoeckle |
+| 348 | 91 | Greenie |
+| 349 | 91 | Leighla Davis |
+| 350 | 91 | Rocroc mo |
+| 351 | 91 | Heather Vircik |
+| 352 | 90 | Rescuegirl76 |
 | 353 | 90 | Carlos J Blas |
-| 354 | 90 | Rescuegirl76 |
+| 354 | 90 | Lesley Stoeckle |
 | 355 | 89 | Maria Ward |
-| 356 | 89 | Ava Speedy |
-| 357 | 89 | Patrick Woodard |
+| 356 | 89 | Patrick Woodard |
+| 357 | 89 | Ava Speedy |
 | 358 | 88 | Chesney |
 | 359 | 88 | Kimberly Davis |
 | 360 | 88 | Nano. |
 | 361 | 88 | Tami Kay Williams Watson |
-| 362 | 87 | Jessica Christine |
+| 362 | 87 | Wendy Mcbride |
 | 363 | 87 | Jackie Walker |
-| 364 | 87 | Wendy Mcbride |
+| 364 | 87 | Jessica Christine |
 | 365 | 87 | Sam Brewster |
 | 366 | 86 | Norma Ortiz |
 | 367 | 86 | Gabrielle Wilson |
 | 368 | 86 | Susie Conger |
-| 369 | 85 | Christina Maria |
-| 370 | 85 | Daisy Girl |
-| 371 | 85 | Epic Framezone |
-| 372 | 85 | James Sayers |
-| 373 | 85 | Elizabeth Henry |
-| 374 | 84 | Lisa Underwood Desmond |
-| 375 | 83 | Jenny |
+| 369 | 85 | Daisy Girl |
+| 370 | 85 | Nova Nova |
+| 371 | 85 | Christina Maria |
+| 372 | 85 | Epic Framezone |
+| 373 | 85 | James Sayers |
+| 374 | 85 | Elizabeth Henry |
+| 375 | 84 | Lisa Underwood Desmond |
 | 376 | 83 | Jumpy Matchbuilder |
-| 377 | 83 | Justin McCray |
-| 378 | 83 | Cristi Doris |
-| 379 | 83 | TetrisMama |
-| 380 | 83 | Louis Brudzinski |
-| 381 | 82 | Sandra Pursell |
-| 382 | 82 | Wendy McKee |
-| 383 | 82 | Candi Cane |
-| 384 | 82 | Nova Nova |
+| 377 | 83 | Jenny |
+| 378 | 83 | Justin McCray |
+| 379 | 83 | Cristi Doris |
+| 380 | 83 | TetrisMama |
+| 381 | 83 | Louis Brudzinski |
+| 382 | 82 | Sandra Pursell |
+| 383 | 82 | Wendy McKee |
+| 384 | 82 | Candi Cane |
 | 385 | 82 | Kimberly Brooks |
 | 386 | 82 | Madonna Ash |
 | 387 | 81 | Epic Tilemaker |
@@ -555,81 +555,81 @@
 | 547 | 55 | Allison Peterson |
 | 548 | 55 | Kayley |
 | 549 | 55 | Buddy |
-| 550 | 55 | Muffin Popper |
-| 551 | 54 | Christina Nycol |
+| 550 | 55 | Holly Huval |
+| 551 | 55 | Muffin Popper |
 | 552 | 54 | Sassy Patternblock |
-| 553 | 54 | Britt |
-| 554 | 54 | MarioKarasovic |
-| 555 | 54 | Amber Wolf |
-| 556 | 54 | Denita Kaherl |
-| 557 | 54 | Cherica Taylor |
-| 558 | 54 | Cool Patternbuilder |
-| 559 | 53 | Wacky Stack |
-| 560 | 53 | Jessica Spivey Cooper |
-| 561 | 53 | Trisha Schneider |
-| 562 | 53 | Spicy Basepiece |
-| 563 | 53 | Queen |
-| 564 | 53 | Holly Huval |
+| 553 | 54 | Amber Wolf |
+| 554 | 54 | Cool Patternbuilder |
+| 555 | 54 | Denita Kaherl |
+| 556 | 54 | MarioKarasovic |
+| 557 | 54 | Britt |
+| 558 | 54 | Cherica Taylor |
+| 559 | 54 | Christina Nycol |
+| 560 | 53 | Queen |
+| 561 | 53 | Spicy Basepiece |
+| 562 | 53 | Wacky Stack |
+| 563 | 53 | Jessica Spivey Cooper |
+| 564 | 53 | Trisha Schneider |
 | 565 | 53 | Wayne Johnson |
-| 566 | 52 | Saucy Lifter |
+| 566 | 52 | Sunny Tiltbuilder |
 | 567 | 52 | andee |
-| 568 | 52 | Sunny Tiltbuilder |
-| 569 | 52 | Julibeth Wells |
-| 570 | 52 | Amber Marie Lacey |
-| 571 | 52 | Rosalie Call Kehlenbeck |
+| 568 | 52 | Julibeth Wells |
+| 569 | 52 | Chipper Spinzone |
+| 570 | 52 | Rosalie Call Kehlenbeck |
+| 571 | 52 | Amber Marie Lacey |
 | 572 | 52 | Natalie M. Arredondo |
 | 573 | 52 | Sherry Ann |
-| 574 | 52 | Chipper Spinzone |
+| 574 | 52 | Saucy Lifter |
 | 575 | 51 | CK Hancock |
-| 576 | 51 | Twisty Matchfit |
-| 577 | 51 | Loretta Crow |
-| 578 | 51 | Amber-leigh Williams |
-| 579 | 51 | Tashamonique Puckey |
-| 580 | 51 | Mama G |
-| 581 | 51 | Amber Carpenter |
-| 582 | 51 | Rebekah Holland |
-| 583 | 51 | Amy D Coble |
-| 584 | 51 | Billy Pittman |
+| 576 | 51 | Rebekah Holland |
+| 577 | 51 | Tashamonique Puckey |
+| 578 | 51 | Amber Carpenter |
+| 579 | 51 | Twisty Matchfit |
+| 580 | 51 | Loretta Crow |
+| 581 | 51 | Amber-leigh Williams |
+| 582 | 51 | Mama G |
+| 583 | 51 | Billy Pittman |
+| 584 | 51 | Samantha Bugg Stitcher |
 | 585 | 51 | Brian Giddens |
-| 586 | 51 | Samantha Bugg Stitcher |
-| 587 | 50 | Cory Lynn |
-| 588 | 50 | Hog Crankin |
+| 586 | 51 | Amy D Coble |
+| 587 | 50 | Ashley Jones |
+| 588 | 50 | Jennifer Wymer |
 | 589 | 50 | Whitt |
-| 590 | 50 | Brenda Zona |
-| 591 | 50 | Angie Rose |
-| 592 | 50 | Ssirkus |
-| 593 | 50 | Teea Makensi Meyer |
-| 594 | 50 | Jennifer Wymer |
-| 595 | 50 | Charith Lorelle Watson |
-| 596 | 50 | Ashley Jones |
+| 590 | 50 | Charith Lorelle Watson |
+| 591 | 50 | Brenda Zona |
+| 592 | 50 | Cory Lynn |
+| 593 | 50 | Hog Crankin |
+| 594 | 50 | Teea Makensi Meyer |
+| 595 | 50 | Angie Rose |
+| 596 | 50 | Ssirkus |
 | 597 | 49 | rebel4lyfe |
-| 598 | 49 | Hillary Frank |
-| 599 | 49 | Tetrismastrr |
-| 600 | 49 | Po Yee |
+| 598 | 49 | Po Yee |
+| 599 | 49 | Hillary Frank |
+| 600 | 49 | Dayna Messer-Thelen |
 | 601 | 49 | R.w. Buck |
-| 602 | 49 | Dayna Messer-Thelen |
-| 603 | 49 | Kris Dusza Dodus |
-| 604 | 48 | TNGal |
-| 605 | 48 | Katelynn Hunt |
-| 606 | 48 | Zaniya Brown |
-| 607 | 48 | Dizzy Dropzone |
-| 608 | 48 | Krystle McCaslin |
+| 602 | 49 | Kris Dusza Dodus |
+| 603 | 49 | Tetrismastrr |
+| 604 | 48 | Dizzy Dropzone |
+| 605 | 48 | Zaniya Brown |
+| 606 | 48 | Katelynn Hunt |
+| 607 | 48 | Hoppy Gridder |
+| 608 | 48 | Terie Safrit |
 | 609 | 48 | Brian Little |
 | 610 | 48 | Squared |
-| 611 | 48 | Katrien |
-| 612 | 48 | Terie Safrit |
-| 613 | 48 | Hoppy Gridder |
-| 614 | 48 | Funky Blockmatch |
+| 611 | 48 | Krystle McCaslin |
+| 612 | 48 | Funky Blockmatch |
+| 613 | 48 | Katrien |
+| 614 | 48 | TNGal |
 | 615 | 47 | Emily |
-| 616 | 47 | BB |
-| 617 | 47 | Christina Reid |
-| 618 | 47 | Mellzey |
-| 619 | 47 | Starvinmarvin |
+| 616 | 47 | Christina Reid |
+| 617 | 47 | Starvinmarvin |
+| 618 | 47 | BB |
+| 619 | 47 | Mellzey |
 | 620 | 47 | Angela Hogan |
 | 621 | 46 | Chummy Faller |
-| 622 | 46 | Dani Newton |
-| 623 | 46 | Brittany Nichole Ellenburg |
-| 624 | 46 | Missy Tubb Overly |
+| 622 | 46 | Missy Tubb Overly |
+| 623 | 46 | Dani Newton |
+| 624 | 46 | Brittany Nichole Ellenburg |
 | 625 | 46 | Jana Campbell |
 | 626 | 46 | Nikki Sadler |
 | 627 | 46 | Denna Marteney |
@@ -996,22 +996,22 @@
 | 988 | 19 | no name |
 | 989 | 19 | Sassafras Cass |
 | 990 | 19 | jme |
-| 991 | 19 | Chirpy Grid |
-| 992 | 19 | Tetra Maniac |
-| 993 | 19 | Jessica Rose Engebretson |
-| 994 | 19 | Lindsay Gregory |
-| 995 | 19 | Ken Vaughn |
-| 996 | 19 | Leigh Wilkerson |
-| 997 | 18 | Debbie Embry |
-| 998 | 18 | Glitzy Stackbuilder |
-| 999 | 18 | Cyrus Ramirez |
-| 1000 | 18 | Daring Blockline |
+| 991 | 19 | Leigh Wilkerson |
+| 992 | 19 | Chirpy Grid |
+| 993 | 19 | Tetra Maniac |
+| 994 | 19 | Ken Vaughn |
+| 995 | 19 | Jessica Rose Engebretson |
+| 996 | 19 | wutrwerdz |
+| 997 | 19 | Lindsay Gregory |
+| 998 | 18 | Kris Lea |
+| 999 | 18 | Debbie Embry |
+| 1000 | 18 | Tiffany Heether |
 | 1001 | 18 | Aaron Jones |
-| 1002 | 18 | Tiffany Heether |
-| 1003 | 18 | Kris Lea |
-| 1004 | 18 | FabTeach |
-| 1005 | 18 | Alison Welsh |
-| 1006 | 18 | wutrwerdz |
+| 1002 | 18 | Daring Blockline |
+| 1003 | 18 | Cyrus Ramirez |
+| 1004 | 18 | Glitzy Stackbuilder |
+| 1005 | 18 | FabTeach |
+| 1006 | 18 | Alison Welsh |
 | 1007 | 18 | Adrian Alvarez |
 | 1008 | 18 | Nicole Treadway |
 | 1009 | 18 | Taran Evans |
