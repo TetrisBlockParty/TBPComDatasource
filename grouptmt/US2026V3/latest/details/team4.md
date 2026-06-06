@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 23:12:16 UTC
+# Standings for team4 as of 2026-06-06 23:12:41 UTC
 
 **Total Participants:** 1194
 
@@ -45,8 +45,8 @@
 | 37 | 966 | BertaF1irta |
 | 38 | 948 | Witty Clicky |
 | 39 | 901 | Giggy Matchpiece |
-| 40 | 900 | Kathy Brookins |
-| 41 | 900 | Nick Graber |
+| 40 | 900 | Nick Graber |
+| 41 | 900 | Kathy Brookins |
 | 42 | 892 | Alala.Cersei |
 | 43 | 876 | SMV |
 | 44 | 864 | Snippy Grid |
@@ -71,8 +71,8 @@
 | 63 | 646 | Blayne Kole |
 | 64 | 644 | Kelly Bernard |
 | 65 | 628 | Adam J Leong |
-| 66 | 620 | Fancy Crasher |
-| 67 | 615 | Bubbly Twistpiece |
+| 66 | 621 | Bubbly Twistpiece |
+| 67 | 620 | Fancy Crasher |
 | 68 | 610 | Dheeh Robles |
 | 69 | 607 | Jeremy Lopez |
 | 70 | 604 | woopa 716 |
@@ -96,9 +96,9 @@
 | 88 | 461 | Kayla Fuentes |
 | 89 | 440 | Jewelz |
 | 90 | 440 | Bryan DjMagnum Evans |
-| 91 | 400 | Sassy Column |
-| 92 | 400 | Amber Doyle |
-| 93 | 400 | DexterDobbins |
+| 91 | 400 | DexterDobbins |
+| 92 | 400 | Sassy Column |
+| 93 | 400 | Amber Doyle |
 | 94 | 399 | iiPurgeV2 |
 | 95 | 398 | Kay |
 | 96 | 395 | Melissa WC |
@@ -1107,37 +1107,37 @@
 | 1099 | 10 | Brianne Stull |
 | 1100 | 10 | Nikki |
 | 1101 | 10 | Monique Anne Edwards |
-| 1102 | 10 | Lively Cascadeclear |
-| 1103 | 10 | Kelley Roach |
-| 1104 | 10 | FitMeDiva |
-| 1105 | 10 | Japexican Strong |
-| 1106 | 10 | Lizard |
-| 1107 | 10 | Tigger |
-| 1108 | 10 | Marie Culbert |
-| 1109 | 10 | Spunky Tower |
+| 1102 | 10 | ToneDeaf |
+| 1103 | 10 | Michelle Sager |
+| 1104 | 10 | Spunky Tower |
+| 1105 | 10 | Marie Culbert |
+| 1106 | 10 | Tigger |
+| 1107 | 10 | Lizard |
+| 1108 | 10 | Japexican Strong |
+| 1109 | 10 | FitMeDiva |
 | 1110 | 10 | Daring Towerer |
-| 1111 | 10 | Michelle Sager |
-| 1112 | 10 | ToneDeaf |
-| 1113 | 9 | Glitter |
-| 1114 | 9 | Frothy Riseclear |
-| 1115 | 9 | Stephanie Brock |
-| 1116 | 9 | Lori A Hamann |
-| 1117 | 9 | Logan Two-dubs Baker |
+| 1111 | 10 | Kelley Roach |
+| 1112 | 10 | Lively Cascadeclear |
+| 1113 | 9 | apryliss Star |
+| 1114 | 9 | Stephanie Brock |
+| 1115 | 9 | Lori A Hamann |
+| 1116 | 9 | Glitter |
+| 1117 | 9 | Frothy Riseclear |
 | 1118 | 9 | Red |
-| 1119 | 9 | Robin M Casebolt |
-| 1120 | 9 | Whos Square |
-| 1121 | 9 | Darryl Shufford |
-| 1122 | 9 | nanaz86 |
-| 1123 | 9 | Phoenyx Roze |
+| 1119 | 9 | Logan Two-dubs Baker |
+| 1120 | 9 | Robin M Casebolt |
+| 1121 | 9 | Whos Square |
+| 1122 | 9 | Darryl Shufford |
+| 1123 | 9 | nanaz86 |
 | 1124 | 9 | Blessedmama |
-| 1125 | 9 | Suzi Smas |
-| 1126 | 9 | Todd Hamilton |
-| 1127 | 9 | LaShieka Noland |
-| 1128 | 9 | fmp |
-| 1129 | 9 | estefi |
-| 1130 | 9 | NotAkaren Barker |
-| 1131 | 9 | Marion Wade |
-| 1132 | 9 | apryliss Star |
+| 1125 | 9 | Phoenyx Roze |
+| 1126 | 9 | Suzi Smas |
+| 1127 | 9 | Todd Hamilton |
+| 1128 | 9 | LaShieka Noland |
+| 1129 | 9 | fmp |
+| 1130 | 9 | estefi |
+| 1131 | 9 | NotAkaren Barker |
+| 1132 | 9 | Marion Wade |
 | 1133 | 9 | Micole Norris |
 | 1134 | 9 | juler |
 | 1135 | 8 | Lewis Potts |
@@ -1147,40 +1147,40 @@
 | 1139 | 8 | Nums |
 | 1140 | 8 | Happy shelli |
 | 1141 | 8 | Shania Richmond |
-| 1142 | 8 | Sydney Taylor Sileno |
-| 1143 | 8 | Phoebe Tracy |
-| 1144 | 8 | Anna Nieves |
-| 1145 | 8 | Bryce McGee |
-| 1146 | 8 | Ayobribri |
-| 1147 | 8 | Mac James |
-| 1148 | 8 | Gabby Markham |
-| 1149 | 8 | Tony Tenas |
-| 1150 | 8 | Bryieson Watson |
-| 1151 | 7 | Peaches3569 |
-| 1152 | 7 | Malinda Fife |
-| 1153 | 7 | BlockFlakes |
-| 1154 | 7 | Sheries |
+| 1142 | 8 | Christopher Ponceja |
+| 1143 | 8 | Sydney Taylor Sileno |
+| 1144 | 8 | Phoebe Tracy |
+| 1145 | 8 | Anna Nieves |
+| 1146 | 8 | Bryce McGee |
+| 1147 | 8 | Ayobribri |
+| 1148 | 8 | Mac James |
+| 1149 | 8 | Bryieson Watson |
+| 1150 | 8 | Tony Tenas |
+| 1151 | 8 | Gabby Markham |
+| 1152 | 7 | Sheries |
+| 1153 | 7 | Malinda Fife |
+| 1154 | 7 | BlockFlakes |
 | 1155 | 7 | Chipper Hitter |
 | 1156 | 7 | Rican |
 | 1157 | 7 | Spicy Faller |
-| 1158 | 7 | John Brandon Kinney |
-| 1159 | 7 | Estmercy |
-| 1160 | 7 | Crystal Parker Bryant |
-| 1161 | 7 | Hayze |
+| 1158 | 7 | Crystal Parker Bryant |
+| 1159 | 7 | John Brandon Kinney |
+| 1160 | 7 | Estmercy |
+| 1161 | 7 | Peaches3569 |
 | 1162 | 7 | Dannie Ems |
-| 1163 | 7 | Kristen Templeman |
-| 1164 | 7 | Angela Mertz |
-| 1165 | 7 | Kristen Lester |
-| 1166 | 7 | Glendala Whitewing |
+| 1163 | 7 | Glendala Whitewing |
+| 1164 | 7 | Kristen Templeman |
+| 1165 | 7 | Angela Mertz |
+| 1166 | 7 | Kristen Lester |
 | 1167 | 7 | Brandy Dark |
-| 1168 | 6 | Andy Petersen |
+| 1168 | 7 | Hayze |
 | 1169 | 6 | Delashawne Hodgson |
 | 1170 | 6 | Loony Brickzone |
-| 1171 | 6 | Aliyah Abdella |
-| 1172 | 6 | MamaC |
-| 1173 | 6 | Funky Zonebuilder |
-| 1174 | 6 | Goodie |
-| 1175 | 6 | Christopher Ponceja |
+| 1171 | 6 | Andy Petersen |
+| 1172 | 6 | Aliyah Abdella |
+| 1173 | 6 | MamaC |
+| 1174 | 6 | Funky Zonebuilder |
+| 1175 | 6 | Goodie |
 | 1176 | 6 | Rachel |
 | 1177 | 6 | Shannon Rivera |
 | 1178 | 6 | Frothy Gridmatch |
