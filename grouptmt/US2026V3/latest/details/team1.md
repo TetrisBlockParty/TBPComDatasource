@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 06:10:40 UTC
+# Standings for team1 as of 2026-06-06 06:11:16 UTC
 
 **Total Participants:** 884
 
@@ -95,9 +95,9 @@
 | 87 | 251 | Helen Smith |
 | 88 | 249 | Tamara N Lee |
 | 89 | 249 | Ashley MyBeauty Daniels |
-| 90 | 244 | Jaida De'Anne Cox |
-| 91 | 240 | Rayya Kiser |
-| 92 | 239 | Dee McCool |
+| 90 | 246 | Dee McCool |
+| 91 | 244 | Jaida De'Anne Cox |
+| 92 | 240 | Rayya Kiser |
 | 93 | 237 | Leebo Slice |
 | 94 | 224 | Alana Renee |
 | 95 | 221 | Allison Baxter |
@@ -397,11 +397,11 @@
 | 389 | 45 | Guy Incognito |
 | 390 | 44 | sasha |
 | 391 | 44 | La'Chae Nickole |
-| 392 | 44 | Tamara Johnson-Carter |
-| 393 | 43 | Daring Blockclear |
-| 394 | 43 | Gael Quintana |
-| 395 | 43 | Brenda Malachi-butler |
-| 396 | 43 | Peppy Glider |
+| 392 | 44 | Peppy Glider |
+| 393 | 44 | Tamara Johnson-Carter |
+| 394 | 43 | Daring Blockclear |
+| 395 | 43 | Gael Quintana |
+| 396 | 43 | Brenda Malachi-butler |
 | 397 | 43 | Heather Wilson |
 | 398 | 43 | Rachel Renae Bettis |
 | 399 | 43 | Kimberly Red |
@@ -825,71 +825,71 @@
 | 817 | 9 | Brave Gridmatch |
 | 818 | 9 | Brika Brika |
 | 819 | 9 | Pinky Pink |
-| 820 | 9 | Dana |
+| 820 | 9 | John Lovato |
 | 821 | 9 | Sherry D Singleton |
-| 822 | 9 | Mars |
-| 823 | 9 | Noni |
-| 824 | 9 | John Lovato |
-| 825 | 9 | Teisha Scott |
-| 826 | 9 | Jasmine Hariston-Estis |
-| 827 | 9 | ummm |
-| 828 | 8 | Kala Miller |
-| 829 | 8 | Shawna Passwater |
-| 830 | 8 | Chinkey Overit |
-| 831 | 8 | Chevonne Huggins |
-| 832 | 8 | Ferocity |
-| 833 | 8 | Groovy Riseclear |
-| 834 | 8 | Caitlin Michele |
-| 835 | 8 | Chill Tumbler |
-| 836 | 8 | Nerdy Twistline |
-| 837 | 8 | jus_ry |
-| 838 | 8 | Brenda Brogden |
+| 822 | 9 | ummm |
+| 823 | 9 | Teisha Scott |
+| 824 | 9 | Noni |
+| 825 | 9 | Mars |
+| 826 | 9 | Dana |
+| 827 | 9 | Jasmine Hariston-Estis |
+| 828 | 8 | Kim Holzmiller |
+| 829 | 8 | Chill Tumbler |
+| 830 | 8 | Caitlin Michele |
+| 831 | 8 | Groovy Riseclear |
+| 832 | 8 | jus_ry |
+| 833 | 8 | Brenda Brogden |
+| 834 | 8 | Ferocity |
+| 835 | 8 | Nerdy Twistline |
+| 836 | 8 | Macho Lewis |
+| 837 | 8 | Shawna Passwater |
+| 838 | 8 | Chinkey Overit |
 | 839 | 8 | Rixo Blax |
-| 840 | 8 | Teresa Bean |
-| 841 | 8 | Macho Lewis |
-| 842 | 8 | Kim Holzmiller |
-| 843 | 7 | Teresa F. Campos Eaton |
-| 844 | 7 | Mary2 |
-| 845 | 7 | Analesia Taylor |
-| 846 | 7 | Andrew Harris |
-| 847 | 7 | Shane Brucewayne |
+| 840 | 8 | Kala Miller |
+| 841 | 8 | Teresa Bean |
+| 842 | 8 | Chevonne Huggins |
+| 843 | 7 | Deadra Graham |
+| 844 | 7 | Teresa F. Campos Eaton |
+| 845 | 7 | Mary2 |
+| 846 | 7 | Shane Brucewayne |
+| 847 | 7 | Andrew Harris |
 | 848 | 7 | whatever |
-| 849 | 7 | Jayson |
-| 850 | 7 | Milfchaser530 |
+| 849 | 7 | Milfchaser530 |
+| 850 | 7 | Analesia Taylor |
 | 851 | 7 | KingSlim82 |
-| 852 | 6 | Kyshia |
-| 853 | 6 | CK |
-| 854 | 6 | Christopher Wallace |
-| 855 | 6 | Anthony T. Fults |
-| 856 | 6 | Deadra Graham |
-| 857 | 6 | S.S |
-| 858 | 6 | Lucy |
-| 859 | 6 | Desi Guerra |
-| 860 | 6 | Wu May |
-| 861 | 6 | Daring Riserfit |
-| 862 | 6 | Snippy Breaker |
-| 863 | 6 | Frilly Riserbuilder |
-| 864 | 6 | Frances Davis |
-| 865 | 6 | NEM0228 |
+| 852 | 7 | Jayson |
+| 853 | 6 | Anthony T. Fults |
+| 854 | 6 | Frances Davis |
+| 855 | 6 | Lucy |
+| 856 | 6 | Christopher Wallace |
+| 857 | 6 | Snippy Breaker |
+| 858 | 6 | Frilly Riserbuilder |
+| 859 | 6 | NEM0228 |
+| 860 | 6 | S.S |
+| 861 | 6 | Wu May |
+| 862 | 6 | Desi Guerra |
+| 863 | 6 | CK |
+| 864 | 6 | Daring Riserfit |
+| 865 | 6 | Kyshia |
 | 866 | 5 | Stephanie Zuniga Tullock |
-| 867 | 5 | Temeshia Brooks Washington |
+| 867 | 5 | Logan Frost |
 | 868 | 5 | Derek Beverly |
 | 869 | 5 | Chill Linkroll |
-| 870 | 5 | Logan Frost |
+| 870 | 5 | Temeshia Brooks Washington |
 | 871 | 5 | the guy |
-| 872 | 5 | Duckey |
-| 873 | 5 | Jennifer Moore |
-| 874 | 5 | Kidgib5 |
-| 875 | 5 | DirtiestofMikes |
-| 876 | 5 | Zappy Riser |
+| 872 | 5 | Tipsy Builderline |
+| 873 | 5 | VERA DAME |
+| 874 | 5 | Hasty Brickzone |
+| 875 | 5 | Riq Wokhardt |
+| 876 | 5 | Tito Divyn |
 | 877 | 5 | Zappy Clearfit |
-| 878 | 5 | Tito Divyn |
-| 879 | 5 | Hasty Brickzone |
-| 880 | 5 | Annette DeLoatch Thompson |
-| 881 | 5 | Tipsy Builderline |
-| 882 | 5 | VERA DAME |
-| 883 | 5 | Riq Wokhardt |
-| 884 | 5 | Rieshelda Marie White |
+| 878 | 5 | Zappy Riser |
+| 879 | 5 | DirtiestofMikes |
+| 880 | 5 | Kidgib5 |
+| 881 | 5 | Jennifer Moore |
+| 882 | 5 | Duckey |
+| 883 | 5 | Rieshelda Marie White |
+| 884 | 5 | Annette DeLoatch Thompson |
 
 ---
 *Standings created by tournaments datasource generation tool*
