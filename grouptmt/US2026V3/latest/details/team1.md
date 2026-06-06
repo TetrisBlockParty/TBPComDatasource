@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 04:50:17 UTC
+# Standings for team1 as of 2026-06-06 04:50:40 UTC
 
 **Total Participants:** 842
 
@@ -250,15 +250,15 @@
 | 242 | 67 | Johnathan Deese |
 | 243 | 67 | Michele Elizabeth McKay-Johnson |
 | 244 | 67 | Laurie Napper |
-| 245 | 66 | Breezy Catcher |
-| 246 | 66 | Stephen Providenti |
-| 247 | 65 | MamushiOh |
-| 248 | 65 | Jazzy Bridger |
-| 249 | 65 | pooh |
-| 250 | 64 | Dena Marie Lee |
-| 251 | 64 | Lauraly |
-| 252 | 64 | Eugina Slater |
-| 253 | 64 | Steve Reno |
+| 245 | 66 | Steve Reno |
+| 246 | 66 | Breezy Catcher |
+| 247 | 66 | Stephen Providenti |
+| 248 | 65 | MamushiOh |
+| 249 | 65 | Jazzy Bridger |
+| 250 | 65 | pooh |
+| 251 | 64 | Dena Marie Lee |
+| 252 | 64 | Lauraly |
+| 253 | 64 | Eugina Slater |
 | 254 | 64 | Penee Wiggins |
 | 255 | 63 | HarleyJane |
 | 256 | 63 | Sarah Swietlicki - Lopez |
@@ -266,105 +266,105 @@
 | 258 | 63 | Slinky Clearzone |
 | 259 | 62 | Jack Mehof |
 | 260 | 62 | De'Mear McKinney |
-| 261 | 61 | star |
-| 262 | 61 | Ad Doctor |
+| 261 | 61 | Ad Doctor |
+| 262 | 61 | star |
 | 263 | 61 | Tonya Thomas |
-| 264 | 60 | Fina McKinnis |
-| 265 | 60 | Katherine Short |
-| 266 | 60 | Heather Aurelia |
-| 267 | 60 | Big Bovice |
-| 268 | 60 | Valerie Alexander |
-| 269 | 60 | Cachet A Ward |
-| 270 | 60 | Natasha Rucker |
-| 271 | 60 | Christi Walker Patton |
-| 272 | 60 | Angie Smith |
-| 273 | 60 | Christian Pham |
-| 274 | 60 | Lilly Brown |
-| 275 | 60 | Kesha Brady |
-| 276 | 60 | Kimberly Noble |
-| 277 | 60 | Malcolm Stanley |
-| 278 | 60 | izzybella |
-| 279 | 60 | Marcheta Cervantez |
-| 280 | 60 | Coco |
-| 281 | 60 | Marlainia Boyd |
-| 282 | 60 | Tasha |
-| 283 | 59 | Chilly Wipebuilder |
-| 284 | 58 | Tobey Marberry |
+| 264 | 60 | Malcolm Stanley |
+| 265 | 60 | Kesha Brady |
+| 266 | 60 | Natasha Rucker |
+| 267 | 60 | Christi Walker Patton |
+| 268 | 60 | Angie Smith |
+| 269 | 60 | Valerie Alexander |
+| 270 | 60 | Christian Pham |
+| 271 | 60 | Big Bovice |
+| 272 | 60 | Lilly Brown |
+| 273 | 60 | Marcheta Cervantez |
+| 274 | 60 | izzybella |
+| 275 | 60 | Heather Aurelia |
+| 276 | 60 | Katherine Short |
+| 277 | 60 | Marlainia Boyd |
+| 278 | 60 | Tasha |
+| 279 | 60 | Fina McKinnis |
+| 280 | 60 | Cachet A Ward |
+| 281 | 60 | Kimberly Noble |
+| 282 | 60 | Coco |
+| 283 | 59 | Angela Brown Babin |
+| 284 | 59 | Chilly Wipebuilder |
 | 285 | 58 | Sonia Binti Mfalme |
-| 286 | 58 | Kimberly Susan Privette |
-| 287 | 58 | JaClanDiah |
-| 288 | 58 | Brandy Way |
-| 289 | 58 | Angela Brown Babin |
-| 290 | 58 | Mikayla |
+| 286 | 58 | JaClanDiah |
+| 287 | 58 | Brandy Way |
+| 288 | 58 | Mikayla |
+| 289 | 58 | Tobey Marberry |
+| 290 | 58 | Kimberly Susan Privette |
 | 291 | 57 | Sunny Clicky |
 | 292 | 56 | Miera Nicole |
-| 293 | 56 | Nichelle Warren |
-| 294 | 56 | Nora Mahmoud |
-| 295 | 55 | KoolKimJay |
-| 296 | 55 | Kyle Franklin |
-| 297 | 55 | Angelique Talbot |
-| 298 | 55 | Koi |
-| 299 | 55 | Terrie |
-| 300 | 54 | xXEKUNXx |
+| 293 | 56 | Dee McCool |
+| 294 | 56 | Nichelle Warren |
+| 295 | 56 | Nora Mahmoud |
+| 296 | 55 | KoolKimJay |
+| 297 | 55 | Kyle Franklin |
+| 298 | 55 | Angelique Talbot |
+| 299 | 55 | Koi |
+| 300 | 55 | Terrie |
 | 301 | 54 | Rackemwillie34 |
-| 302 | 54 | Tamika Fisher |
-| 303 | 54 | Joey Albright |
-| 304 | 54 | DaVonte' Cretter |
-| 305 | 54 | Melissa Olvera |
-| 306 | 53 | Shanaa Germany Crittenden |
-| 307 | 53 | Cortrell Foster |
-| 308 | 53 | Jumpy Gridlock |
-| 309 | 53 | Clever Wrecker |
-| 310 | 52 | Dandy Brickfit |
+| 302 | 54 | xXEKUNXx |
+| 303 | 54 | Tamika Fisher |
+| 304 | 54 | Joey Albright |
+| 305 | 54 | DaVonte' Cretter |
+| 306 | 54 | Melissa Olvera |
+| 307 | 53 | Jumpy Gridlock |
+| 308 | 53 | Shanaa Germany Crittenden |
+| 309 | 53 | Cortrell Foster |
+| 310 | 53 | Clever Wrecker |
 | 311 | 52 | Raquel Ortiz |
-| 312 | 52 | Gabriela Hernandez |
-| 313 | 52 | Keke Ferguson |
-| 314 | 52 | Loopy Risepiece |
-| 315 | 51 | Shanjerrica Taylor Rosell |
+| 312 | 52 | Loopy Risepiece |
+| 313 | 52 | Dandy Brickfit |
+| 314 | 52 | Keke Ferguson |
+| 315 | 52 | Gabriela Hernandez |
 | 316 | 51 | Comedian Gdane |
 | 317 | 51 | Rachael Bakowicz Edwards |
-| 318 | 50 | Smiley Clearpiece |
-| 319 | 50 | Antoinette Jones |
-| 320 | 50 | Jaida De'Anne Cox |
-| 321 | 50 | Denell Sims |
-| 322 | 50 | Teresa Yanira Cepeda |
-| 323 | 50 | Yazz |
-| 324 | 50 | Slinky Party |
-| 325 | 50 | MsBobby Patrick |
-| 326 | 50 | BabyCakes |
-| 327 | 50 | Donna Payne |
+| 318 | 51 | Shanjerrica Taylor Rosell |
+| 319 | 50 | Nisha Sunshine Jenkins |
+| 320 | 50 | Teresa Yanira Cepeda |
+| 321 | 50 | Antoinette Jones |
+| 322 | 50 | MsBobby Patrick |
+| 323 | 50 | Jaida De'Anne Cox |
+| 324 | 50 | Yazz |
+| 325 | 50 | Smiley Clearpiece |
+| 326 | 50 | Denell Sims |
+| 327 | 50 | BabyCakes |
 | 328 | 50 | Dion Gray |
-| 329 | 50 | Nisha Sunshine Jenkins |
-| 330 | 49 | Brittany Fells |
-| 331 | 49 | LexiiSamayaa |
-| 332 | 49 | SnazzyIvy |
-| 333 | 49 | Jae Thompson-Tyus |
-| 334 | 49 | No_Other_Choice |
-| 335 | 48 | Clever Fitblock |
-| 336 | 48 | Kahh |
-| 337 | 48 | Slim Shedidthat |
-| 338 | 48 | Mommy Frank |
-| 339 | 48 | Lynnette WheelerBushnell |
-| 340 | 48 | Comedian Prince Paul |
-| 341 | 48 | BYM4L |
-| 342 | 47 | Christopher Dreamsareality McEachin |
-| 343 | 47 | Derrius SeriousLee Burks |
-| 344 | 47 | Shameka Thrasher |
-| 345 | 47 | Dee McCool |
-| 346 | 47 | Poppy Twister |
-| 347 | 47 | kitten |
-| 348 | 47 | Kevin Turner |
-| 349 | 47 | Calvin Green |
-| 350 | 47 | Slinky Brickmatch |
-| 351 | 47 | Smiley Tilebuilder |
-| 352 | 46 | David A Alvino |
+| 329 | 50 | Slinky Party |
+| 330 | 50 | Donna Payne |
+| 331 | 49 | SnazzyIvy |
+| 332 | 49 | LexiiSamayaa |
+| 333 | 49 | Brittany Fells |
+| 334 | 49 | Jae Thompson-Tyus |
+| 335 | 49 | No_Other_Choice |
+| 336 | 48 | Slim Shedidthat |
+| 337 | 48 | Comedian Prince Paul |
+| 338 | 48 | Clever Fitblock |
+| 339 | 48 | Kahh |
+| 340 | 48 | BYM4L |
+| 341 | 48 | Mommy Frank |
+| 342 | 48 | Lynnette WheelerBushnell |
+| 343 | 47 | Calvin Green |
+| 344 | 47 | Slinky Brickmatch |
+| 345 | 47 | Smiley Tilebuilder |
+| 346 | 47 | kitten |
+| 347 | 47 | Kevin Turner |
+| 348 | 47 | Poppy Twister |
+| 349 | 47 | Christopher Dreamsareality McEachin |
+| 350 | 47 | Shameka Thrasher |
+| 351 | 47 | Derrius SeriousLee Burks |
+| 352 | 46 | Felicia Dungey |
 | 353 | 46 | Kimberly Anderson |
 | 354 | 46 | Maria Baez Medina |
-| 355 | 46 | Felicia Dungey |
+| 355 | 46 | David A Alvino |
 | 356 | 46 | Ja'mice Nelson |
 | 357 | 46 | Chris Nelson |
-| 358 | 45 | Guy Incognito |
-| 359 | 45 | Erika Windom |
+| 358 | 45 | Erika Windom |
+| 359 | 45 | Guy Incognito |
 | 360 | 45 | Jenni Hardman |
 | 361 | 45 | Renee J. Thomas |
 | 362 | 45 | Tishauna Virgo |
