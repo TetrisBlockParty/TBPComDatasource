@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 07:00:38 UTC
+# Standings for team4 as of 2026-06-06 07:01:16 UTC
 
 **Total Participants:** 867
 
@@ -22,7 +22,7 @@
 | 14 | 2833 | Irene Arreguin |
 | 15 | 2497 | Lisa Cullum |
 | 16 | 2444 | Daring Ziggy |
-| 17 | 1846 | Senor Moppy |
+| 17 | 1946 | Senor Moppy |
 | 18 | 1102 | Hanan Hana |
 | 19 | 1059 | Squirrel Donkey |
 | 20 | 1055 | Michele Walker |
@@ -450,65 +450,65 @@
 | 442 | 38 | Happy Puzzle |
 | 443 | 38 | Sharon Tyler |
 | 444 | 38 | Charity Thomas |
-| 445 | 37 | Dana Fontanez |
-| 446 | 37 | Deana Teck |
+| 445 | 37 | Deana Teck |
+| 446 | 37 | Dana Fontanez |
 | 447 | 37 | Tanya AfricanQueen Savage |
 | 448 | 37 | Kalisha Monique Wright |
-| 449 | 37 | Kimberly Lusk |
-| 450 | 37 | Ricky Colvin |
-| 451 | 37 | Tyson Stroppel |
+| 449 | 37 | Tyson Stroppel |
+| 450 | 37 | Kimberly Lusk |
+| 451 | 37 | Ricky Colvin |
 | 452 | 37 | Melika Zeheb |
 | 453 | 37 | Ami Ferguson |
 | 454 | 36 | Nancy McCalla Abercrombie |
 | 455 | 36 | Clever Shuffler |
 | 456 | 36 | Marcus Fontenot |
 | 457 | 36 | Giggy Snapgrid |
-| 458 | 36 | Donny Keets |
-| 459 | 36 | Jeanette Hailey |
+| 458 | 36 | Jeanette Hailey |
+| 459 | 36 | Donny Keets |
 | 460 | 36 | Melissa Lowe |
 | 461 | 36 | Snappy Stack |
 | 462 | 36 | Jenn Norcross |
 | 463 | 36 | Shirley A. Godfrey |
-| 464 | 36 | Dapper Tiltpiece |
-| 465 | 36 | Snippy Racker |
-| 466 | 36 | PL GR |
-| 467 | 35 | Tiffany Morris Garner |
-| 468 | 35 | Saul Fajardo |
-| 469 | 35 | Allysonjo Varela |
-| 470 | 35 | Valerie Silva |
-| 471 | 35 | Jillian Marie |
-| 472 | 35 | Samantha Brandt |
-| 473 | 35 | Youngkueen |
-| 474 | 35 | Zappy Tilemaker |
+| 464 | 36 | Corey Jackson |
+| 465 | 36 | Dapper Tiltpiece |
+| 466 | 36 | Snippy Racker |
+| 467 | 36 | PL GR |
+| 468 | 35 | Genger |
+| 469 | 35 | Saul Fajardo |
+| 470 | 35 | Allysonjo Varela |
+| 471 | 35 | Valerie Silva |
+| 472 | 35 | Jillian Marie |
+| 473 | 35 | Samantha Brandt |
+| 474 | 35 | Youngkueen |
 | 475 | 35 | PsyDMom |
-| 476 | 35 | Genger |
-| 477 | 34 | Giggly Column |
-| 478 | 34 | Drh4090 |
-| 479 | 34 | Loyalty83 |
-| 480 | 34 | Amanda Albritton Moore |
+| 476 | 35 | Tiffany Morris Garner |
+| 477 | 35 | Zappy Tilemaker |
+| 478 | 34 | Giggly Column |
+| 479 | 34 | Drh4090 |
+| 480 | 34 | Loyalty83 |
 | 481 | 34 | Kandylands |
 | 482 | 34 | Sunshine Dreamchaser Whitfield |
 | 483 | 34 | Brenda Gustamantes |
 | 484 | 34 | Clashy |
-| 485 | 34 | GingaNinja |
-| 486 | 34 | jojo |
+| 485 | 34 | jojo |
+| 486 | 34 | GingaNinja |
 | 487 | 34 | Yvette Johnson |
-| 488 | 34 | Yulissa Diaz |
-| 489 | 33 | Melissa Schwager |
+| 488 | 34 | Amanda Albritton Moore |
+| 489 | 34 | Yulissa Diaz |
 | 490 | 33 | Tracy Ann Frederick |
-| 491 | 33 | Donna Howard |
-| 492 | 33 | Zippy Snaplink |
-| 493 | 33 | Chill Snapclear |
-| 494 | 33 | Garden Girlie |
-| 495 | 32 | Hyper Snaplink |
+| 491 | 33 | Melissa Schwager |
+| 492 | 33 | Chill Snapclear |
+| 493 | 33 | Donna Howard |
+| 494 | 33 | Zippy Snaplink |
+| 495 | 33 | Garden Girlie |
 | 496 | 32 | KingCas |
-| 497 | 32 | Poppy |
-| 498 | 31 | Breezy Blockzone |
-| 499 | 31 | Blessedmom865 |
-| 500 | 31 | Corey Jackson |
-| 501 | 31 | Destiny Georgia Reeves Beller |
-| 502 | 31 | Breezy Brickline |
-| 503 | 31 | MsThick SrtLady Williams |
+| 497 | 32 | Hyper Snaplink |
+| 498 | 32 | Poppy |
+| 499 | 31 | Breezy Blockzone |
+| 500 | 31 | MsThick SrtLady Williams |
+| 501 | 31 | Blessedmom865 |
+| 502 | 31 | Destiny Georgia Reeves Beller |
+| 503 | 31 | Breezy Brickline |
 | 504 | 31 | Alala.Cersei |
 | 505 | 31 | Natalie Ohrtman Strand |
 | 506 | 31 | Alex Dawn |
@@ -556,8 +556,8 @@
 | 548 | 28 | Allysha McFarland |
 | 549 | 28 | Brandi Gray |
 | 550 | 28 | Mindy Phariss |
-| 551 | 28 | Gary Smallwood |
-| 552 | 28 | Sandra O'Reilly |
+| 551 | 28 | Sandra O'Reilly |
+| 552 | 28 | Gary Smallwood |
 | 553 | 27 | Diana Fernandez |
 | 554 | 27 | Ross Bryant |
 | 555 | 27 | Epic Dashfit |
@@ -565,15 +565,15 @@
 | 557 | 27 | Maria Castillo |
 | 558 | 27 | Loopy Bridger |
 | 559 | 27 | Perky Riserbuilder |
-| 560 | 27 | chefjaydawg |
-| 561 | 27 | Pepone Pepe |
-| 562 | 27 | Sonya |
-| 563 | 27 | Alexsandra Hill |
-| 564 | 27 | Dandy Cascade |
-| 565 | 26 | theyhatejzt |
+| 560 | 27 | Linda |
+| 561 | 27 | chefjaydawg |
+| 562 | 27 | Pepone Pepe |
+| 563 | 27 | Sonya |
+| 564 | 27 | Alexsandra Hill |
+| 565 | 27 | Dandy Cascade |
 | 566 | 26 | Rebecca Rae Reed |
-| 567 | 26 | Tahira Patrice |
-| 568 | 26 | Linda |
+| 567 | 26 | theyhatejzt |
+| 568 | 26 | Tahira Patrice |
 | 569 | 26 | Chummy Rollzone |
 | 570 | 26 | Lacey Decker |
 | 571 | 26 | Rob$GEE |
