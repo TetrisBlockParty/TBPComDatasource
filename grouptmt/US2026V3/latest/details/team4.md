@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 12:10:18 UTC
+# Standings for team4 as of 2026-06-06 12:10:38 UTC
 
 **Total Participants:** 952
 
@@ -65,7 +65,7 @@
 | 57 | 460 | Tiffany Loree Tiffany Oneill |
 | 58 | 458 | vag1974 |
 | 59 | 446 | Lupe Alburquerque |
-| 60 | 441 | Bubbly Twistpiece |
+| 60 | 444 | Bubbly Twistpiece |
 | 61 | 440 | Jewelz |
 | 62 | 419 | Caitlyn Wang |
 | 63 | 419 | Sweet Stacker |
@@ -290,10 +290,10 @@
 | 282 | 79 | Playa |
 | 283 | 79 | Audrianna Skaff |
 | 284 | 79 | Snazzy Corner |
-| 285 | 79 | Courtney Niichole |
-| 286 | 79 | JoAnn Summerlot Ratliff |
-| 287 | 78 | Stef |
-| 288 | 77 | Karen Rodriguez |
+| 285 | 79 | Karen Rodriguez |
+| 286 | 79 | Courtney Niichole |
+| 287 | 79 | JoAnn Summerlot Ratliff |
+| 288 | 78 | Stef |
 | 289 | 77 | Lady |
 | 290 | 76 | All knowing |
 | 291 | 76 | Spicy Peach |
