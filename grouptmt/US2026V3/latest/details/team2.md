@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 08:58:38 UTC
+# Standings for team2 as of 2026-06-06 08:59:16 UTC
 
 **Total Participants:** 1087
 
@@ -15,11 +15,11 @@
 | 7 | 5108 | Puce guide 9156 |
 | 8 | 4504 | Cori Keberlein |
 | 9 | 4500 | Mocha |
-| 10 | 3984 | Amber |
-| 11 | 3812 | Crystal M Sowden |
-| 12 | 3605 | Crystalin Heath Lewis |
-| 13 | 3283 | Jewels |
-| 14 | 3165 | Jason Wood |
+| 10 | 4364 | Jason Wood |
+| 11 | 3984 | Amber |
+| 12 | 3812 | Crystal M Sowden |
+| 13 | 3605 | Crystalin Heath Lewis |
+| 14 | 3283 | Jewels |
 | 15 | 3158 | Traci Elizabeth |
 | 16 | 3069 | Christina Shell |
 | 17 | 2561 | Erica Dees Parks |
@@ -35,7 +35,7 @@
 | 27 | 1700 | Anthony Lilley |
 | 28 | 1631 | Ashley Miller |
 | 29 | 1598 | Angie BBlock |
-| 30 | 1582 | Quirky Catcher |
+| 30 | 1592 | Quirky Catcher |
 | 31 | 1455 | Sean Rippa |
 | 32 | 1417 | Bea Bee |
 | 33 | 1369 | Spunky Clicker |
@@ -763,66 +763,66 @@
 | 755 | 21 | Chirpy Clearpiece |
 | 756 | 21 | MamaRachel |
 | 757 | 21 | CK Hancock |
-| 758 | 21 | Lakeisha Ryder |
+| 758 | 21 | Instak1ll |
 | 759 | 21 | Frilly Dashfit |
-| 760 | 21 | Daniel Cline |
-| 761 | 21 | Brooke Kaune |
+| 760 | 21 | Brooke Kaune |
+| 761 | 21 | Daniel Cline |
 | 762 | 21 | Barb Kiser |
 | 763 | 21 | Erica Abreu |
 | 764 | 21 | Rydin Dirt |
-| 765 | 21 | Zappy Pivotfall |
-| 766 | 21 | Instak1ll |
+| 765 | 21 | Lakeisha Ryder |
+| 766 | 21 | CEK |
 | 767 | 21 | Thy Bui |
-| 768 | 20 | Bigbb |
-| 769 | 20 | Nanny t |
-| 770 | 20 | Dustyn Sims |
-| 771 | 20 | Raffa |
-| 772 | 20 | Denise Morehart |
-| 773 | 20 | Devon |
-| 774 | 20 | Shalice Jacobs |
-| 775 | 20 | Cool cee |
-| 776 | 20 | Annie Hebdon |
-| 777 | 20 | Stephania Edwards |
-| 778 | 20 | Ava |
-| 779 | 20 | SaraAnn Gray Philbrick |
+| 768 | 21 | Zappy Pivotfall |
+| 769 | 20 | Bigbb |
+| 770 | 20 | Boldy Patterner |
+| 771 | 20 | Nanny t |
+| 772 | 20 | Dustyn Sims |
+| 773 | 20 | Raffa |
+| 774 | 20 | Denise Morehart |
+| 775 | 20 | Shalice Jacobs |
+| 776 | 20 | Devon |
+| 777 | 20 | Cool cee |
+| 778 | 20 | Annie Hebdon |
+| 779 | 20 | Stephania Edwards |
 | 780 | 20 | Dapper Pivotfall |
-| 781 | 20 | Sharilyn Jackson |
-| 782 | 20 | Boldy Patterner |
+| 781 | 20 | SaraAnn Gray Philbrick |
+| 782 | 20 | Sharilyn Jackson |
 | 783 | 20 | Patty Ann Hendrickson |
-| 784 | 20 | Binska |
-| 785 | 20 | Jessica Murphree |
-| 786 | 20 | Frothy Roll |
-| 787 | 20 | Cool Balancer |
-| 788 | 20 | Valerie Roberts |
-| 789 | 20 | Rob Owens |
-| 790 | 20 | Bonita Alexander |
-| 791 | 20 | Lil G |
-| 792 | 20 | Adam Latin |
-| 793 | 20 | Chris |
-| 794 | 20 | Julie Alexander Sykes |
-| 795 | 20 | Alana Albritton Seals |
-| 796 | 20 | Tiffany Hassanshahi |
-| 797 | 20 | Tonya Templin Smith |
-| 798 | 20 | Amanda Mason Scott |
-| 799 | 20 | Dana Wilson |
-| 800 | 20 | Kay Newcomb |
-| 801 | 20 | Quirky Piecegrid |
+| 784 | 20 | Ava |
+| 785 | 20 | Binska |
+| 786 | 20 | Jessica Murphree |
+| 787 | 20 | Frothy Roll |
+| 788 | 20 | Cool Balancer |
+| 789 | 20 | Valerie Roberts |
+| 790 | 20 | Rob Owens |
+| 791 | 20 | Bonita Alexander |
+| 792 | 20 | Lil G |
+| 793 | 20 | Adam Latin |
+| 794 | 20 | Chris |
+| 795 | 20 | Julie Alexander Sykes |
+| 796 | 20 | Alana Albritton Seals |
+| 797 | 20 | Tiffany Hassanshahi |
+| 798 | 20 | Tonya Templin Smith |
+| 799 | 20 | Amanda Mason Scott |
+| 800 | 20 | Dana Wilson |
+| 801 | 20 | Kay Newcomb |
 | 802 | 20 | Naomi Jaynes |
 | 803 | 20 | Chesney |
 | 804 | 20 | Chelsea Frye |
 | 805 | 20 | Hector |
 | 806 | 20 | Newtwidebody |
 | 807 | 20 | Pleaze Marshall |
-| 808 | 19 | Chirpy Grid |
-| 809 | 19 | Twisty Snapmatch |
-| 810 | 19 | Dolly |
-| 811 | 19 | Kim Powers |
-| 812 | 19 | Cool Climber |
+| 808 | 20 | Quirky Piecegrid |
+| 809 | 19 | Katie Boen |
+| 810 | 19 | Donutz |
+| 811 | 19 | Snazzy Racker |
+| 812 | 19 | Chirpy Grid |
 | 813 | 19 | Armordguy |
-| 814 | 19 | Katie Boen |
-| 815 | 19 | CEK |
-| 816 | 19 | Snazzy Racker |
-| 817 | 19 | Donutz |
+| 814 | 19 | Cool Climber |
+| 815 | 19 | Kim Powers |
+| 816 | 19 | Dolly |
+| 817 | 19 | Twisty Snapmatch |
 | 818 | 19 | Leigh Wilkerson |
 | 819 | 19 | Kati Eckstein |
 | 820 | 19 | Kathryn |
