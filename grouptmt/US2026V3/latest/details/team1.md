@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 10:25:15 UTC
+# Standings for team1 as of 2026-06-06 10:26:17 UTC
 
 **Total Participants:** 957
 
@@ -253,52 +253,52 @@
 | 245 | 80 | Nyhlah Patterson |
 | 246 | 80 | Chevalier Burley |
 | 247 | 80 | Jamie Willis |
-| 248 | 80 | Felicia Williams |
-| 249 | 80 | Seddrick |
-| 250 | 80 | Tishauna Virgo |
+| 248 | 80 | Tishauna Virgo |
+| 249 | 80 | Felicia Williams |
+| 250 | 80 | Seddrick |
 | 251 | 80 | Charles Johnson |
-| 252 | 80 | Carolyn Smith |
-| 253 | 80 | Latore Maxie |
-| 254 | 80 | Natalie Burroughs |
-| 255 | 80 | LAhoneybun82 |
-| 256 | 79 | Slinky Brickmatch |
-| 257 | 79 | Brand Nu |
-| 258 | 79 | Montréal Mars |
-| 259 | 79 | Loopy Tiler |
-| 260 | 79 | Bambi Johnson |
-| 261 | 78 | Shameka Tiffany |
-| 262 | 78 | Kelley Johnson |
-| 263 | 77 | C Lo Green |
-| 264 | 77 | Yashica Smith |
-| 265 | 76 | Telisha Mims |
+| 252 | 80 | Li-Li Ratliff |
+| 253 | 80 | Carolyn Smith |
+| 254 | 80 | Latore Maxie |
+| 255 | 80 | Natalie Burroughs |
+| 256 | 80 | LAhoneybun82 |
+| 257 | 79 | Slinky Brickmatch |
+| 258 | 79 | Brand Nu |
+| 259 | 79 | Montréal Mars |
+| 260 | 79 | Loopy Tiler |
+| 261 | 79 | Bambi Johnson |
+| 262 | 78 | Shameka Tiffany |
+| 263 | 78 | Kelley Johnson |
+| 264 | 77 | C Lo Green |
+| 265 | 77 | Yashica Smith |
 | 266 | 76 | Mister Reid |
-| 267 | 76 | Giggly Shatterline |
-| 268 | 76 | Jackytrain52 |
-| 269 | 75 | Courtney Robinson |
-| 270 | 75 | Nutty Spinblock |
-| 271 | 75 | Nickeya Phillips |
-| 272 | 75 | Dizzy Dashy |
-| 273 | 75 | Li-Li Ratliff |
+| 267 | 76 | Telisha Mims |
+| 268 | 76 | Giggly Shatterline |
+| 269 | 76 | Jackytrain52 |
+| 270 | 75 | Courtney Robinson |
+| 271 | 75 | Nutty Spinblock |
+| 272 | 75 | Nickeya Phillips |
+| 273 | 75 | Dizzy Dashy |
 | 274 | 75 | Smiley Clearpiece |
 | 275 | 75 | BabyCakes |
 | 276 | 75 | Jayjay Rich |
-| 277 | 74 | ♈️ Ariesbaby |
-| 278 | 74 | Angela Brown Babin |
+| 277 | 74 | Angela Brown Babin |
+| 278 | 74 | ♈️ Ariesbaby |
 | 279 | 73 | Slinky Snapbuilder |
 | 280 | 73 | HarleyJane |
 | 281 | 72 | Tosha Michelle |
 | 282 | 72 | Lauraly |
 | 283 | 72 | Chummy Frame |
-| 284 | 71 | HBTone |
-| 285 | 71 | Kristie |
-| 286 | 71 | Erin Sabol |
-| 287 | 71 | Elaine Pauley |
-| 288 | 70 | Trina Greenwood |
-| 289 | 70 | Cheeky Pop |
-| 290 | 70 | Kaleisha Smith |
-| 291 | 70 | Hailey Hil |
-| 292 | 70 | Gerold Folk Haddock |
-| 293 | 70 | $hort Dog |
+| 284 | 71 | Elaine Pauley |
+| 285 | 71 | HBTone |
+| 286 | 71 | Kristie |
+| 287 | 71 | Erin Sabol |
+| 288 | 70 | Cheeky Pop |
+| 289 | 70 | $hort Dog |
+| 290 | 70 | Trina Greenwood |
+| 291 | 70 | Gerold Folk Haddock |
+| 292 | 70 | Kaleisha Smith |
+| 293 | 70 | Hailey Hil |
 | 294 | 70 | MamushiOh |
 | 295 | 69 | CJ Robinson |
 | 296 | 69 | Sunny Clicky |
