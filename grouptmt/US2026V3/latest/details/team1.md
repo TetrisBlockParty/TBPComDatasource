@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 09:12:39 UTC
+# Standings for team1 as of 2026-06-06 09:13:16 UTC
 
 **Total Participants:** 939
 
@@ -17,7 +17,7 @@
 | 9 | 3411 | Charlie Roehm |
 | 10 | 3071 | Plucky Swipe |
 | 11 | 3039 | Chummy Combo |
-| 12 | 2366 | Yolanda McDonald |
+| 12 | 2372 | Yolanda McDonald |
 | 13 | 2338 | Debbie Carswell |
 | 14 | 1980 | Hunter Rayborn |
 | 15 | 1913 | Sha Harris |
@@ -423,26 +423,26 @@
 | 415 | 46 | Anthony |
 | 416 | 46 | Ja'mice Nelson |
 | 417 | 46 | Felicia Dungey |
-| 418 | 46 | Moomoo |
-| 419 | 46 | Maria Baez Medina |
-| 420 | 46 | Chris Nelson |
-| 421 | 45 | nameno |
+| 418 | 46 | Maria Baez Medina |
+| 419 | 46 | Chris Nelson |
+| 420 | 46 | Moomoo |
+| 421 | 45 | Guy Incognito |
 | 422 | 45 | Glitzy Clusterer |
-| 423 | 45 | Erika Windom |
-| 424 | 45 | Renee J. Thomas |
+| 423 | 45 | Eli Delao |
+| 424 | 45 | Erika Windom |
 | 425 | 45 | Jenni Hardman |
-| 426 | 45 | Eli Delao |
-| 427 | 45 | Guy Incognito |
-| 428 | 44 | sasha |
-| 429 | 44 | Tamara Johnson-Carter |
+| 426 | 45 | nameno |
+| 427 | 45 | Twisty Brickfit |
+| 428 | 45 | Renee J. Thomas |
+| 429 | 44 | GiantBehemoth |
 | 430 | 44 | Nic Nic |
-| 431 | 44 | GiantBehemoth |
-| 432 | 43 | Giggy Brickfit |
+| 431 | 44 | Tamara Johnson-Carter |
+| 432 | 44 | sasha |
 | 433 | 43 | Gael Quintana |
 | 434 | 43 | Heather Wilson |
 | 435 | 43 | Kimberly Red |
-| 436 | 43 | Block |
-| 437 | 43 | Twisty Brickfit |
+| 436 | 43 | Giggy Brickfit |
+| 437 | 43 | Block |
 | 438 | 43 | Rufus |
 | 439 | 43 | Rachel Renae Bettis |
 | 440 | 43 | Daring Blockclear |
