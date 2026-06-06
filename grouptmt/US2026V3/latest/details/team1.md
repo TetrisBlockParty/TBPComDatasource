@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 16:36:43 UTC
+# Standings for team1 as of 2026-06-06 16:37:17 UTC
 
 **Total Participants:** 1062
 
@@ -38,11 +38,11 @@
 | 30 | 1016 | Ashley Espeut |
 | 31 | 1002 | Markeeta Lipscomb |
 | 32 | 984 | Holly Jolly |
-| 33 | 971 | Spicy Balancer |
-| 34 | 935 | Whitney Butler |
-| 35 | 934 | Sanjuro |
-| 36 | 933 | Cherry Rose |
-| 37 | 933 | Jolly Dropzone |
+| 33 | 972 | Jolly Dropzone |
+| 34 | 971 | Spicy Balancer |
+| 35 | 935 | Whitney Butler |
+| 36 | 934 | Sanjuro |
+| 37 | 933 | Cherry Rose |
 | 38 | 928 | Linzie Marie |
 | 39 | 915 | Chill Clusterer |
 | 40 | 882 | Jon Gathers |
@@ -131,9 +131,9 @@
 | 123 | 246 | Alana Renee |
 | 124 | 246 | Denise B |
 | 125 | 245 | Derrius SeriousLee Burks |
-| 126 | 243 | Moomoo |
-| 127 | 240 | Rayya Kiser |
-| 128 | 237 | Leebo Slice |
+| 126 | 244 | Leebo Slice |
+| 127 | 243 | Moomoo |
+| 128 | 240 | Rayya Kiser |
 | 129 | 236 | Nutty Spinblock |
 | 130 | 227 | Chantelle Lee |
 | 131 | 227 | Po Marley |
@@ -758,58 +758,58 @@
 | 750 | 25 | Chirpy Buildgrid |
 | 751 | 25 | Ivan Israel |
 | 752 | 25 | Skye |
-| 753 | 25 | Tweet Turner |
-| 754 | 25 | PennyCandee |
+| 753 | 25 | PennyCandee |
+| 754 | 25 | Tweet Turner |
 | 755 | 25 | Tony P Burke |
-| 756 | 25 | Heru Ogun Yeshua EL |
-| 757 | 25 | Barbramerri Tarboro |
-| 758 | 24 | Ashanti Eden |
-| 759 | 24 | Caitlin Michele |
-| 760 | 24 | Snippy Breaker |
-| 761 | 24 | Marlynnnnn |
-| 762 | 24 | Eugenia Vanclusen |
-| 763 | 24 | BonnieB |
-| 764 | 24 | Mumitt |
-| 765 | 24 | LaTonya Rivers |
-| 766 | 24 | Andrea Jackson |
-| 767 | 23 | Arturo Hernandez II |
-| 768 | 23 | Shauntai Holiday |
-| 769 | 23 | Monica Fields |
-| 770 | 23 | Connor Leon Cluff |
-| 771 | 23 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 772 | 23 | Peppy Wipeblock |
-| 773 | 23 | Tabitha Dupre-Allen |
-| 774 | 23 | Genevieve Nieves |
-| 775 | 23 | Vontesha Kidd |
-| 776 | 23 | Shona ShayShay Jones |
-| 777 | 23 | Jamie Lea Popp |
-| 778 | 22 | Williams Candace |
-| 779 | 22 | Jroc Tyra Taylor |
-| 780 | 22 | ShayePooh |
-| 781 | 22 | Duncan Timothy |
-| 782 | 22 | Heather Cross-Davis |
-| 783 | 22 | tg |
-| 784 | 22 | Brave Gridmatch |
+| 756 | 25 | Barbramerri Tarboro |
+| 757 | 25 | Heru Ogun Yeshua EL |
+| 758 | 24 | Marlynnnnn |
+| 759 | 24 | LaTonya Rivers |
+| 760 | 24 | Mumitt |
+| 761 | 24 | BonnieB |
+| 762 | 24 | Ashanti Eden |
+| 763 | 24 | Tez Mays |
+| 764 | 24 | Caitlin Michele |
+| 765 | 24 | Snippy Breaker |
+| 766 | 24 | Eugenia Vanclusen |
+| 767 | 24 | Andrea Jackson |
+| 768 | 23 | Arturo Hernandez II |
+| 769 | 23 | Shauntai Holiday |
+| 770 | 23 | Monica Fields |
+| 771 | 23 | Connor Leon Cluff |
+| 772 | 23 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 773 | 23 | Peppy Wipeblock |
+| 774 | 23 | Tabitha Dupre-Allen |
+| 775 | 23 | Genevieve Nieves |
+| 776 | 23 | Vontesha Kidd |
+| 777 | 23 | Shona ShayShay Jones |
+| 778 | 23 | Jamie Lea Popp |
+| 779 | 22 | Williams Candace |
+| 780 | 22 | Jroc Tyra Taylor |
+| 781 | 22 | ShayePooh |
+| 782 | 22 | Duncan Timothy |
+| 783 | 22 | Heather Cross-Davis |
+| 784 | 22 | tg |
 | 785 | 22 | Happy Blocky |
 | 786 | 22 | Seirra Robinson |
-| 787 | 21 | RylonJones |
-| 788 | 21 | BB |
+| 787 | 22 | Brave Gridmatch |
+| 788 | 21 | RylonJones |
 | 789 | 21 | Cali Lee |
 | 790 | 21 | Twisty Dashy |
-| 791 | 21 | Christy |
-| 792 | 21 | Crafty Witch |
-| 793 | 21 | Clever Blocker |
+| 791 | 21 | lady |
+| 792 | 21 | Desiree Ryder |
+| 793 | 21 | Zappy Zoney |
 | 794 | 21 | Chanel White |
 | 795 | 21 | Samona Mcculler |
-| 796 | 21 | Desiree Ryder |
-| 797 | 21 | Zappy Zoney |
-| 798 | 21 | lady |
-| 799 | 20 | Lucy Range |
+| 796 | 21 | Crafty Witch |
+| 797 | 21 | Christy |
+| 798 | 21 | BB |
+| 799 | 21 | Clever Blocker |
 | 800 | 20 | Cynthia Potter |
-| 801 | 20 | Biggestboss Ransom |
+| 801 | 20 | Lucy Range |
 | 802 | 20 | Jonathan McKenzie |
-| 803 | 20 | Snappy Strikerpiece |
-| 804 | 20 | Kenneth Hefney |
+| 803 | 20 | Kenneth Hefney |
+| 804 | 20 | Snappy Strikerpiece |
 | 805 | 20 | SherylU |
 | 806 | 20 | B.L. Perry |
 | 807 | 20 | Giggy Edgefit |
@@ -818,24 +818,24 @@
 | 810 | 20 | Cynthia Bradley |
 | 811 | 20 | Mahagony Small |
 | 812 | 20 | Genne Scott |
-| 813 | 20 | James Dunlap |
+| 813 | 20 | Alize |
 | 814 | 20 | Ashley Davis |
-| 815 | 20 | Chill Curvebuilder |
-| 816 | 20 | Tanisha Robinson |
-| 817 | 20 | Phillip White |
-| 818 | 20 | Tez Mays |
-| 819 | 20 | Ebie |
-| 820 | 20 | Bryttani GoingPlaces Latimer |
-| 821 | 20 | Bold Spinblock |
-| 822 | 20 | Gary Kyle |
-| 823 | 20 | Alize |
-| 824 | 20 | Lyn Reed |
-| 825 | 20 | Spotlight |
-| 826 | 20 | Jennifer Diamond |
-| 827 | 20 | Frilly Lifter |
-| 828 | 20 | Anthony Intrabartolo |
-| 829 | 20 | POOH |
-| 830 | 20 | Tangy Moore |
+| 815 | 20 | Tanisha Robinson |
+| 816 | 20 | Phillip White |
+| 817 | 20 | Chill Curvebuilder |
+| 818 | 20 | Ebie |
+| 819 | 20 | Bryttani GoingPlaces Latimer |
+| 820 | 20 | Bold Spinblock |
+| 821 | 20 | James Dunlap |
+| 822 | 20 | Biggestboss Ransom |
+| 823 | 20 | Lyn Reed |
+| 824 | 20 | Spotlight |
+| 825 | 20 | Jennifer Diamond |
+| 826 | 20 | Frilly Lifter |
+| 827 | 20 | Anthony Intrabartolo |
+| 828 | 20 | POOH |
+| 829 | 20 | Tangy Moore |
+| 830 | 20 | Gary Kyle |
 | 831 | 19 | Naee Bee |
 | 832 | 19 | Idelia L Brown |
 | 833 | 19 | TY Newme Batts |

@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 16:36:43 UTC
+# Standings for team4 as of 2026-06-06 16:37:17 UTC
 
 **Total Participants:** 1050
 
@@ -72,24 +72,24 @@
 | 64 | 466 | Lupe Alburquerque |
 | 65 | 461 | Kayla Fuentes |
 | 66 | 460 | Tiffany Loree Tiffany Oneill |
-| 67 | 450 | Kitsune Bi |
-| 68 | 447 | Sweet Stacker |
-| 69 | 440 | Erin Figone |
-| 70 | 440 | Jewelz |
-| 71 | 418 | Alala.Cersei |
-| 72 | 402 | Nick Graber |
-| 73 | 401 | woopa 716 |
-| 74 | 400 | Amber Doyle |
-| 75 | 399 | iiPurgeV2 |
-| 76 | 398 | Jason Allen |
-| 77 | 395 | Melissa WC |
-| 78 | 392 | Kay |
+| 67 | 455 | Sweet Stacker |
+| 68 | 451 | Chummy Rollzone |
+| 69 | 450 | Kitsune Bi |
+| 70 | 440 | Erin Figone |
+| 71 | 440 | Jewelz |
+| 72 | 418 | Alala.Cersei |
+| 73 | 402 | Nick Graber |
+| 74 | 401 | woopa 716 |
+| 75 | 400 | Amber Doyle |
+| 76 | 399 | iiPurgeV2 |
+| 77 | 398 | Jason Allen |
+| 78 | 395 | Melissa WC |
 | 79 | 392 | Dheeh Robles |
-| 80 | 387 | Real Talk Vibes |
-| 81 | 383 | Crissy Hoffman |
-| 82 | 378 | Lisa Garcia |
-| 83 | 376 | Jason Garnatz |
-| 84 | 374 | Chummy Rollzone |
+| 80 | 392 | Kay |
+| 81 | 387 | Real Talk Vibes |
+| 82 | 383 | Crissy Hoffman |
+| 83 | 378 | Lisa Garcia |
+| 84 | 376 | Jason Garnatz |
 | 85 | 356 | Tanita Jobe |
 | 86 | 353 | Hen |
 | 87 | 349 | GeorgeButts |
@@ -190,7 +190,7 @@
 | 182 | 138 | Cheery Risegrid |
 | 183 | 137 | Jasmine Marie |
 | 184 | 137 | Shelby |
-| 185 | 134 | ariel |
+| 185 | 135 | ariel |
 | 186 | 134 | Loony Rotater |
 | 187 | 133 | June Hoffman |
 | 188 | 133 | Shawntae Mccary |
@@ -847,101 +847,101 @@
 | 839 | 20 | Matthew Wilcox |
 | 840 | 20 | Holly Wessel |
 | 841 | 20 | Jessica Smith |
-| 842 | 20 | Beezy |
-| 843 | 20 | Kissyfurr |
-| 844 | 20 | Joha Mldo Castillo |
-| 845 | 20 | Kristen Nicole Depp-Stewart |
-| 846 | 20 | Stacy G |
-| 847 | 20 | Tipsy Patternfit |
-| 848 | 20 | Kimberly Devon |
-| 849 | 19 | Dru Lui |
-| 850 | 19 | Cheeky Fallzone |
-| 851 | 19 | Chabetta |
-| 852 | 19 | Maicy Darrah |
-| 853 | 19 | Bean |
-| 854 | 19 | Kariana Gonzalez Ortiz |
-| 855 | 18 | Jamie Legeness |
-| 856 | 18 | Emily Lowe |
-| 857 | 18 | Angel Boges |
-| 858 | 18 | Jonathan Jackson |
-| 859 | 18 | Poppy Glider |
-| 860 | 18 | Michelle Clark |
-| 861 | 18 | Happy Strikerpiece |
-| 862 | 18 | Frothy Pivotfall |
-| 863 | 18 | chuck |
+| 842 | 20 | Kimberly Devon |
+| 843 | 20 | Stacy G |
+| 844 | 20 | Kristen Nicole Depp-Stewart |
+| 845 | 20 | Joha Mldo Castillo |
+| 846 | 20 | Kissyfurr |
+| 847 | 20 | Beezy |
+| 848 | 20 | Tipsy Patternfit |
+| 849 | 19 | Bean |
+| 850 | 19 | Chabetta |
+| 851 | 19 | Dru Lui |
+| 852 | 19 | Kariana Gonzalez Ortiz |
+| 853 | 19 | Cheeky Fallzone |
+| 854 | 19 | Maicy Darrah |
+| 855 | 18 | chuck |
+| 856 | 18 | Jamie Legeness |
+| 857 | 18 | Jen Roe |
+| 858 | 18 | Frothy Pivotfall |
+| 859 | 18 | Lorrie Ann Burchett |
+| 860 | 18 | Happy Strikerpiece |
+| 861 | 18 | Michelle Clark |
+| 862 | 18 | Poppy Glider |
+| 863 | 18 | Angel Boges |
 | 864 | 18 | Tiffany Taylor |
-| 865 | 18 | Lorrie Ann Burchett |
-| 866 | 18 | Shannon Foster |
-| 867 | 18 | FUNBAT |
+| 865 | 18 | Emily Lowe |
+| 866 | 18 | FUNBAT |
+| 867 | 18 | Gingerale<3 |
 | 868 | 18 | Stacia Marie |
 | 869 | 18 | Joshua Franklin |
-| 870 | 18 | Jen Roe |
+| 870 | 18 | Shannon Foster |
 | 871 | 18 | Dewy |
-| 872 | 18 | Gingerale<3 |
+| 872 | 18 | Jonathan Jackson |
 | 873 | 18 | Janna Thompson |
-| 874 | 17 | Shane Snyder |
-| 875 | 17 | Heather Hilferty |
-| 876 | 17 | beauxie |
-| 877 | 17 | Wali Muhammad |
-| 878 | 17 | Glitzy Crasher |
-| 879 | 17 | David Kirschner |
-| 880 | 17 | Kristie ML SneekaPuff |
-| 881 | 17 | Jolly Dashy |
-| 882 | 17 | Terry Jo Myers |
-| 883 | 17 | Crystal Morrin |
-| 884 | 17 | Stotty |
-| 885 | 16 | Layne Davis |
-| 886 | 16 | EKM |
-| 887 | 16 | Frisky Pusher |
-| 888 | 16 | Grace Mariie |
-| 889 | 16 | Mighty Spinfit |
-| 890 | 16 | Mr.Corbin |
-| 891 | 16 | Snappy Fill |
-| 892 | 16 | Dee Modest |
-| 893 | 16 | Catherine Garza |
-| 894 | 16 | Ashley McGeehan |
-| 895 | 16 | Baby cat |
-| 896 | 15 | Donna Bush |
-| 897 | 15 | Nerdy Glider |
-| 898 | 15 | Tracy Marino |
-| 899 | 15 | Twisty Gridclear |
-| 900 | 15 | Britney Kitora |
-| 901 | 15 | Tana-Marie Lynn McCarty-Rolf |
-| 902 | 15 | Sherry Mooney |
-| 903 | 15 | Cas Gio |
-| 904 | 15 | Manolo Canety |
-| 905 | 15 | Christina Barry |
+| 874 | 17 | Gma420 |
+| 875 | 17 | David Kirschner |
+| 876 | 17 | Shane Snyder |
+| 877 | 17 | Glitzy Crasher |
+| 878 | 17 | beauxie |
+| 879 | 17 | Wali Muhammad |
+| 880 | 17 | Terry Jo Myers |
+| 881 | 17 | Stotty |
+| 882 | 17 | Kristie ML SneekaPuff |
+| 883 | 17 | Heather Hilferty |
+| 884 | 17 | Crystal Morrin |
+| 885 | 17 | Jolly Dashy |
+| 886 | 16 | Dee Modest |
+| 887 | 16 | Ashley McGeehan |
+| 888 | 16 | Mr.Corbin |
+| 889 | 16 | Layne Davis |
+| 890 | 16 | Catherine Garza |
+| 891 | 16 | Mighty Spinfit |
+| 892 | 16 | Grace Mariie |
+| 893 | 16 | Frisky Pusher |
+| 894 | 16 | Baby cat |
+| 895 | 16 | Snappy Fill |
+| 896 | 16 | EKM |
+| 897 | 15 | Twisty Gridclear |
+| 898 | 15 | Tana-Marie Lynn McCarty-Rolf |
+| 899 | 15 | Britney Kitora |
+| 900 | 15 | Tracy Marino |
+| 901 | 15 | Nerdy Glider |
+| 902 | 15 | Donna Bush |
+| 903 | 15 | Sherry Mooney |
+| 904 | 15 | Wacky Clusterer |
+| 905 | 15 | Hasty Grabber |
 | 906 | 15 | babygirlw |
-| 907 | 15 | Hasty Grabber |
-| 908 | 15 | Wacky Clusterer |
-| 909 | 15 | Mandi Rexroat |
-| 910 | 15 | Hasty Snapmatch |
+| 907 | 15 | Christina Barry |
+| 908 | 15 | Manolo Canety |
+| 909 | 15 | Cas Gio |
+| 910 | 15 | Mandi Rexroat |
 | 911 | 15 | Austin Tan |
 | 912 | 15 | John Wertz |
-| 913 | 14 | Marina |
-| 914 | 14 | Playful Raccoon |
-| 915 | 14 | Jazzy Rollout |
-| 916 | 14 | G Money |
+| 913 | 15 | Hasty Snapmatch |
+| 914 | 14 | Lashae |
+| 915 | 14 | Erica Hardwick |
+| 916 | 14 | Becca Milliron |
 | 917 | 14 | Gellix |
-| 918 | 14 | Becca Milliron |
-| 919 | 14 | Lashae |
-| 920 | 14 | Erica Hardwick |
-| 921 | 14 | Nicole Gilmore |
-| 922 | 14 | JoJo Hutson |
-| 923 | 14 | Kiaralis Ashley Hancock |
-| 924 | 14 | moonman33 |
-| 925 | 14 | Jace McCullough |
-| 926 | 14 | Donovan Parmenter Gagne |
-| 927 | 14 | Dolores Falco |
-| 928 | 13 | CrashOutCarla |
-| 929 | 13 | Jackie Russo-Edens |
-| 930 | 13 | Gma420 |
-| 931 | 13 | Christy Petty |
+| 918 | 14 | Marina |
+| 919 | 14 | Playful Raccoon |
+| 920 | 14 | Jazzy Rollout |
+| 921 | 14 | G Money |
+| 922 | 14 | Jace McCullough |
+| 923 | 14 | Donovan Parmenter Gagne |
+| 924 | 14 | Nicole Gilmore |
+| 925 | 14 | Dolores Falco |
+| 926 | 14 | JoJo Hutson |
+| 927 | 14 | Kiaralis Ashley Hancock |
+| 928 | 14 | moonman33 |
+| 929 | 13 | Christy Petty |
+| 930 | 13 | CrashOutCarla |
+| 931 | 13 | Jackie Russo-Edens |
 | 932 | 12 | Scott Baum |
 | 933 | 12 | ESPERANTU |
-| 934 | 12 | Diqthot |
-| 935 | 12 | Shelly Jackson |
-| 936 | 12 | Angela Correa |
+| 934 | 12 | Shelly Jackson |
+| 935 | 12 | Angela Correa |
+| 936 | 12 | Diqthot |
 | 937 | 12 | Rebecca Renaud |
 | 938 | 12 | Tonya Raymundo |
 | 939 | 12 | McScrubby |
