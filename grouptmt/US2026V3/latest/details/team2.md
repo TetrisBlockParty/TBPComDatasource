@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 17:08:39 UTC
+# Standings for team2 as of 2026-06-06 17:09:17 UTC
 
 **Total Participants:** 1270
 
@@ -116,13 +116,13 @@
 | 108 | 348 | Eric Drane |
 | 109 | 347 | Zesty Strikerbuilder |
 | 110 | 342 | Bri St Peter |
-| 111 | 340 | Mom |
-| 112 | 340 | Le Sandy |
+| 111 | 340 | Le Sandy |
+| 112 | 340 | Mom |
 | 113 | 328 | Tim Tim |
 | 114 | 325 | Amy Gregg |
 | 115 | 324 | Jgato |
-| 116 | 319 | Bon Lynn |
-| 117 | 319 | Michelle Rich Burkhart |
+| 116 | 319 | Michelle Rich Burkhart |
+| 117 | 319 | Bon Lynn |
 | 118 | 319 | Shannon Wilson |
 | 119 | 317 | Ruby Sandberg |
 | 120 | 315 | Milad Arzani |
@@ -132,10 +132,10 @@
 | 124 | 302 | Hypee |
 | 125 | 298 | Breeana Bennett |
 | 126 | 294 | Vistabrat |
-| 127 | 286 | James Ward |
-| 128 | 286 | Heather Burgett |
-| 129 | 283 | Theresa Marie |
-| 130 | 283 | Zarah Kettler |
+| 127 | 286 | Heather Burgett |
+| 128 | 286 | James Ward |
+| 129 | 283 | Zarah Kettler |
+| 130 | 283 | Theresa Marie |
 | 131 | 281 | Joni Michelle Morgan |
 | 132 | 280 | Patricia Carroll |
 | 133 | 279 | Renee Freeman Jacobson |
@@ -144,8 +144,8 @@
 | 136 | 277 | Sarah Mccolgan |
 | 137 | 277 | Snappy Combo |
 | 138 | 275 | Bubbly Strikerpiece |
-| 139 | 272 | DayDreamer79 |
-| 140 | 272 | Erin Thomas |
+| 139 | 272 | Erin Thomas |
+| 140 | 272 | DayDreamer79 |
 | 141 | 271 | Nikki Hayes |
 | 142 | 269 | Ackerman 85 |
 | 143 | 262 | Cool Balancer |
@@ -155,19 +155,19 @@
 | 147 | 251 | Angie Kowalsky Olson |
 | 148 | 247 | Fudgie Pie |
 | 149 | 245 | Josh Twilley |
-| 150 | 241 | Boldy Wobbler |
-| 151 | 241 | Charlie Wilson |
-| 152 | 236 | H |
-| 153 | 236 | Steven Craig |
+| 150 | 241 | Charlie Wilson |
+| 151 | 241 | Boldy Wobbler |
+| 152 | 236 | Steven Craig |
+| 153 | 236 | H |
 | 154 | 230 | Brandy Chinelle |
 | 155 | 228 | Keri Mears |
-| 156 | 227 | Brittni Lawrence |
-| 157 | 227 | Ashley Green |
+| 156 | 227 | Ashley Green |
+| 157 | 227 | Brittni Lawrence |
 | 158 | 225 | Lisa Breiding |
 | 159 | 224 | Kathleen Keogh Van Schoyck |
 | 160 | 223 | Pam Bauder Ludwig |
-| 161 | 220 | Flashy Basegrid |
-| 162 | 220 | Melissa Thomas |
+| 161 | 220 | Melissa Thomas |
+| 162 | 220 | Flashy Basegrid |
 | 163 | 218 | Amy Nicole McCanne |
 | 164 | 216 | PaiBri |
 | 165 | 215 | Dallas Runyan |
@@ -177,22 +177,22 @@
 | 169 | 204 | Brenda Jones |
 | 170 | 201 | Danielle Pack Lewellen |
 | 171 | 201 | Lora Via |
-| 172 | 200 | Sarah Grundisch |
-| 173 | 200 | Kelly Vedder |
+| 172 | 200 | Kelly Vedder |
+| 173 | 200 | Sarah Grundisch |
 | 174 | 200 | Eric Wayne Maschman |
-| 175 | 199 | Stella |
-| 176 | 199 | Amber Cogdill |
-| 177 | 199 | Patria Osuoha |
-| 178 | 199 | haune |
+| 175 | 199 | Patria Osuoha |
+| 176 | 199 | haune |
+| 177 | 199 | Amber Cogdill |
+| 178 | 199 | Stella |
 | 179 | 195 | Bb |
 | 180 | 194 | Mookshake |
 | 181 | 192 | Nathan Walker |
 | 182 | 192 | Greta Warden |
 | 183 | 191 | Jeanna Mendez |
-| 184 | 190 | marsam |
-| 185 | 190 | Suki Jacobs |
-| 186 | 188 | Larry Cross |
-| 187 | 188 | giamy |
+| 184 | 190 | Suki Jacobs |
+| 185 | 190 | marsam |
+| 186 | 188 | giamy |
+| 187 | 188 | Larry Cross |
 | 188 | 187 | Laura Melton |
 | 189 | 185 | Logan Duffey |
 | 190 | 185 | Lush Party |
@@ -203,23 +203,23 @@
 | 195 | 176 | Glitzy Base |
 | 196 | 175 | Lashanda Bertram |
 | 197 | 174 | Nettrainer |
-| 198 | 173 | Amie Marks |
-| 199 | 173 | Becca Marie |
+| 198 | 173 | Becca Marie |
+| 199 | 173 | Amie Marks |
 | 200 | 172 | Carolyn McNaughton |
 | 201 | 171 | Melissa Nash |
-| 202 | 170 | phamous1 |
-| 203 | 170 | Harper |
-| 204 | 169 | Laverne Ellis Blair |
-| 205 | 169 | Sully |
+| 202 | 170 | Harper |
+| 203 | 170 | phamous1 |
+| 204 | 169 | Sully |
+| 205 | 169 | Laverne Ellis Blair |
 | 206 | 169 | Jessica Christine |
-| 207 | 168 | Danielle Lyons |
-| 208 | 168 | Missy Renia |
+| 207 | 168 | Missy Renia |
+| 208 | 168 | Danielle Lyons |
 | 209 | 168 | Spicy Risegrid |
 | 210 | 165 | Olivia Jefferson |
-| 211 | 164 | Cara Rivera |
-| 212 | 164 | Jerry L Morales |
-| 213 | 163 | Zany Cascader |
-| 214 | 163 | Amy Taylor Pomerenk |
+| 211 | 164 | Jerry L Morales |
+| 212 | 164 | Cara Rivera |
+| 213 | 163 | Amy Taylor Pomerenk |
+| 214 | 163 | Zany Cascader |
 | 215 | 162 | Nutty Curver |
 | 216 | 161 | Santara Ferguson |
 | 217 | 160 | Loopy Dropper |
@@ -228,9 +228,9 @@
 | 220 | 159 | Amanda Priddy |
 | 221 | 158 | Kim Hunt |
 | 222 | 155 | Zany Blockclear |
-| 223 | 152 | SEH |
-| 224 | 152 | Ashley Billiot Rhodes |
-| 225 | 152 | Gill |
+| 223 | 152 | Gill |
+| 224 | 152 | SEH |
+| 225 | 152 | Ashley Billiot Rhodes |
 | 226 | 151 | Marilyn Mendoza |
 | 227 | 151 | Karly Moore |
 | 228 | 151 | Bengy Lead |
@@ -246,57 +246,57 @@
 | 238 | 141 | Cheery Towerzone |
 | 239 | 141 | Melisa |
 | 240 | 141 | Avie Lou |
-| 241 | 140 | Billie Jensen |
-| 242 | 140 | Iesha Cupil |
-| 243 | 140 | Sharon L Brazelton |
-| 244 | 140 | Brittney Williams |
-| 245 | 139 | Victoria Pale |
-| 246 | 139 | Amanda L Strong |
+| 241 | 140 | Iesha Cupil |
+| 242 | 140 | Sharon L Brazelton |
+| 243 | 140 | Brittney Williams |
+| 244 | 140 | Billie Jensen |
+| 245 | 139 | Amanda L Strong |
+| 246 | 139 | Victoria Pale |
 | 247 | 138 | NickandJess Reynolds |
 | 248 | 137 | Lindsey Ford |
 | 249 | 137 | Liseth Vasquez |
-| 250 | 136 | Jamie Fenyus |
-| 251 | 136 | Lauren Maxwell |
-| 252 | 135 | Skye Ehret |
-| 253 | 135 | Marylin Eacker |
+| 250 | 136 | Lauren Maxwell |
+| 251 | 136 | Jamie Fenyus |
+| 252 | 135 | Marylin Eacker |
+| 253 | 135 | Skye Ehret |
 | 254 | 134 | Sabrina Hardrick |
 | 255 | 134 | Joanna Trevin Thompson |
 | 256 | 134 | Funway998 |
-| 257 | 132 | Mtnblzr |
-| 258 | 132 | Spunky Cascadeclear |
+| 257 | 132 | Spunky Cascadeclear |
+| 258 | 132 | Mtnblzr |
 | 259 | 132 | Alison Waller |
-| 260 | 131 | Amy Lea Hamilton |
-| 261 | 131 | Kimmyc |
+| 260 | 131 | Kimmyc |
+| 261 | 131 | Amy Lea Hamilton |
 | 262 | 130 | Jason Cunningham |
 | 263 | 130 | Precious Womack |
 | 264 | 130 | ZBee |
-| 265 | 129 | Belle |
+| 265 | 129 | Sandy Justus |
 | 266 | 129 | Armando Sabedra |
-| 267 | 129 | Sandy Justus |
-| 268 | 129 | Loopy Tower |
+| 267 | 129 | Loopy Tower |
+| 268 | 129 | Belle |
 | 269 | 128 | Teddy Williams |
 | 270 | 126 | Teresa Mandich |
 | 271 | 126 | Danielle Blount |
 | 272 | 125 | Gwendolyn Boykin Mobbs |
 | 273 | 125 | Ariel Gundersen |
-| 274 | 124 | Tina |
-| 275 | 124 | Jason Burris |
+| 274 | 124 | Jason Burris |
+| 275 | 124 | Tina |
 | 276 | 123 | Nikki EightySixed |
-| 277 | 120 | Happy |
-| 278 | 120 | Simone F |
-| 279 | 120 | Kevin Mccoy |
-| 280 | 120 | Charity Hauser |
-| 281 | 120 | Elizabeth Cornelius |
-| 282 | 120 | Keisha Robinson |
-| 283 | 120 | Sassy Twistbuilder |
-| 284 | 120 | Carlos J Blas |
-| 285 | 120 | Al Smith Jr |
-| 286 | 120 | Tango Sierra |
-| 287 | 119 | Angelica Jelli Gillaspy |
-| 288 | 119 | Perii Reynoso |
+| 277 | 120 | Keisha Robinson |
+| 278 | 120 | Al Smith Jr |
+| 279 | 120 | Carlos J Blas |
+| 280 | 120 | Happy |
+| 281 | 120 | Charity Hauser |
+| 282 | 120 | Simone F |
+| 283 | 120 | Tango Sierra |
+| 284 | 120 | Sassy Twistbuilder |
+| 285 | 120 | Kevin Mccoy |
+| 286 | 120 | Elizabeth Cornelius |
+| 287 | 119 | Perii Reynoso |
+| 288 | 119 | Angelica Jelli Gillaspy |
 | 289 | 118 | Ceci |
-| 290 | 118 | Monique Frantz |
-| 291 | 118 | Ashley Miller |
+| 290 | 118 | Ashley Miller |
+| 291 | 118 | Monique Frantz |
 | 292 | 117 | Marge Cromer |
 | 293 | 115 | Jessica Connot |
 | 294 | 114 | Jackie Tupper |
