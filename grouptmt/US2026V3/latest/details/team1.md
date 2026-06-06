@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 14:26:39 UTC
+# Standings for team1 as of 2026-06-06 14:27:16 UTC
 
 **Total Participants:** 1022
 
@@ -18,8 +18,8 @@
 | 10 | 3071 | Plucky Swipe |
 | 11 | 3039 | Chummy Combo |
 | 12 | 2596 | Pdubbl3 |
-| 13 | 2415 | Yolanda McDonald |
-| 14 | 2346 | Debbie Carswell |
+| 13 | 2436 | Debbie Carswell |
+| 14 | 2415 | Yolanda McDonald |
 | 15 | 2321 | Chandler Spencer |
 | 16 | 2252 | jaimie |
 | 17 | 2190 | Songne Arif |
@@ -332,88 +332,88 @@
 | 324 | 75 | Nutty Spinblock |
 | 325 | 75 | Jayjay Rich |
 | 326 | 75 | BabyCakes |
-| 327 | 74 | Sonia Binti Mfalme |
-| 328 | 74 | Tetrisdestroyer |
-| 329 | 74 | Tyiesha Pie Farmer |
-| 330 | 74 | Lynnette WheelerBushnell |
-| 331 | 74 | Angela Brown Babin |
+| 327 | 74 | Angela Brown Babin |
+| 328 | 74 | Sonia Binti Mfalme |
+| 329 | 74 | Tetrisdestroyer |
+| 330 | 74 | Tyiesha Pie Farmer |
+| 331 | 74 | Lynnette WheelerBushnell |
 | 332 | 73 | HarleyJane |
 | 333 | 73 | Donna Payne |
 | 334 | 73 | Tobey Marberry |
-| 335 | 72 | Chummy Frame |
-| 336 | 72 | Poppy Twister |
-| 337 | 72 | Lauraly |
-| 338 | 71 | HBTone |
-| 339 | 71 | Kristie |
+| 335 | 72 | Lauraly |
+| 336 | 72 | Chummy Frame |
+| 337 | 72 | Poppy Twister |
+| 338 | 71 | Elaine Pauley |
+| 339 | 71 | Steve Reno |
 | 340 | 71 | star |
 | 341 | 71 | Douglas Price |
-| 342 | 71 | Elaine Pauley |
-| 343 | 71 | Steve Reno |
+| 342 | 71 | Kristie |
+| 343 | 71 | HBTone |
 | 344 | 71 | Erin Sabol |
-| 345 | 70 | MamushiOh |
-| 346 | 70 | Kaleisha Smith |
-| 347 | 70 | $hort Dog |
+| 345 | 70 | Heather Aurelia |
+| 346 | 70 | Gerold Folk Haddock |
+| 347 | 70 | MamushiOh |
 | 348 | 70 | Hailey Hil |
-| 349 | 70 | Gerold Folk Haddock |
-| 350 | 70 | Daddy |
-| 351 | 69 | sasha |
+| 349 | 70 | Daddy |
+| 350 | 70 | $hort Dog |
+| 351 | 70 | Kaleisha Smith |
 | 352 | 69 | Sunny Clicky |
-| 353 | 69 | Kate Hancock Malicek |
-| 354 | 69 | Tracy Feyler |
-| 355 | 68 | Tee Spinks |
+| 353 | 69 | sasha |
+| 354 | 69 | Kate Hancock Malicek |
+| 355 | 69 | Tracy Feyler |
 | 356 | 68 | Rachael Bakowicz Edwards |
-| 357 | 68 | Amy Lynn Leifheit |
-| 358 | 68 | Wacky Stackbuilder |
-| 359 | 68 | Eric Spencer Whitaker |
-| 360 | 68 | Alyssa Rae |
-| 361 | 68 | Logan Frost |
-| 362 | 67 | Johnathan Deese |
-| 363 | 67 | Jennah |
-| 364 | 67 | Laurie Napper |
-| 365 | 67 | Travis Davison |
-| 366 | 67 | Rufus |
-| 367 | 67 | Michele Elizabeth McKay-Johnson |
-| 368 | 66 | GracefulOwl808 |
-| 369 | 65 | Erica Charlise |
-| 370 | 65 | Koi |
-| 371 | 65 | Giggy Tower |
-| 372 | 65 | Sabrina Wilkerson |
-| 373 | 65 | Jazzy Bridger |
-| 374 | 64 | Dena Marie Lee |
-| 375 | 64 | Yadira Salgado |
-| 376 | 63 | Sarah Swietlicki - Lopez |
-| 377 | 63 | Mighty Dropper |
-| 378 | 63 | Reginald Frank |
-| 379 | 63 | Ahsokadog |
+| 357 | 68 | Tee Spinks |
+| 358 | 68 | Amy Lynn Leifheit |
+| 359 | 68 | Wacky Stackbuilder |
+| 360 | 68 | Eric Spencer Whitaker |
+| 361 | 68 | Alyssa Rae |
+| 362 | 68 | Logan Frost |
+| 363 | 67 | Johnathan Deese |
+| 364 | 67 | Jennah |
+| 365 | 67 | Laurie Napper |
+| 366 | 67 | Travis Davison |
+| 367 | 67 | Rufus |
+| 368 | 67 | Michele Elizabeth McKay-Johnson |
+| 369 | 66 | GracefulOwl808 |
+| 370 | 65 | Erica Charlise |
+| 371 | 65 | Koi |
+| 372 | 65 | Giggy Tower |
+| 373 | 65 | Sabrina Wilkerson |
+| 374 | 65 | Jazzy Bridger |
+| 375 | 64 | Dena Marie Lee |
+| 376 | 64 | Yadira Salgado |
+| 377 | 63 | Sarah Swietlicki - Lopez |
+| 378 | 63 | Mighty Dropper |
+| 379 | 63 | Reginald Frank |
 | 380 | 63 | Shakuria Cortia Burney |
-| 381 | 63 | La'Chae Nickole |
-| 382 | 63 | Slinky Clearzone |
-| 383 | 62 | DirtiestofMikes |
-| 384 | 62 | Jack Mehof |
-| 385 | 62 | Kimmie Gargano |
-| 386 | 62 | Richard Flex |
-| 387 | 62 | De'Mear McKinney |
-| 388 | 61 | Perky Pusher |
-| 389 | 61 | Tonya Thomas |
-| 390 | 60 | Valerie Alexander |
+| 381 | 63 | Ahsokadog |
+| 382 | 63 | La'Chae Nickole |
+| 383 | 63 | Slinky Clearzone |
+| 384 | 62 | DirtiestofMikes |
+| 385 | 62 | Jack Mehof |
+| 386 | 62 | Kimmie Gargano |
+| 387 | 62 | Richard Flex |
+| 388 | 62 | De'Mear McKinney |
+| 389 | 61 | Perky Pusher |
+| 390 | 61 | Tonya Thomas |
 | 391 | 60 | Kesha Brady |
-| 392 | 60 | Christi Walker Patton |
-| 393 | 60 | Dianne Clagon |
-| 394 | 60 | Xana Zania Bopp |
+| 392 | 60 | Valerie Alexander |
+| 393 | 60 | Christi Walker Patton |
+| 394 | 60 | Dianne Clagon |
 | 395 | 60 | Lauren Farkas |
-| 396 | 60 | lookin |
-| 397 | 60 | Big Bovice |
-| 398 | 60 | Marlainia Boyd |
-| 399 | 60 | Angie Smith |
-| 400 | 60 | Kimberly Noble |
-| 401 | 60 | Malcolm Stanley |
-| 402 | 60 | Tasha |
-| 403 | 60 | Natasha Rucker |
-| 404 | 60 | Brenda Malachi-butler |
-| 405 | 60 | Wayne Savannah |
-| 406 | 60 | Heather Aurelia |
-| 407 | 60 | Coco |
-| 408 | 60 | De'Nell Edwards |
+| 396 | 60 | Coco |
+| 397 | 60 | Xana Zania Bopp |
+| 398 | 60 | Big Bovice |
+| 399 | 60 | Marlainia Boyd |
+| 400 | 60 | Angie Smith |
+| 401 | 60 | Kimberly Noble |
+| 402 | 60 | Malcolm Stanley |
+| 403 | 60 | Tasha |
+| 404 | 60 | Natasha Rucker |
+| 405 | 60 | Brenda Malachi-butler |
+| 406 | 60 | Wayne Savannah |
+| 407 | 60 | De'Nell Edwards |
+| 408 | 60 | lookin |
 | 409 | 59 | Keith Johnson |
 | 410 | 59 | Slim Shedidthat |
 | 411 | 59 | Nerdy Climber |
