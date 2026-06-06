@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 04:30:17 UTC
+# Standings for team1 as of 2026-06-06 04:30:39 UTC
 
 **Total Participants:** 831
 
@@ -88,14 +88,14 @@
 | 80 | 240 | Rayya Kiser |
 | 81 | 237 | Voice |
 | 82 | 237 | Leebo Slice |
-| 83 | 224 | Alana Renee |
-| 84 | 221 | Allison Baxter |
-| 85 | 219 | Jamal Itzjusmall Chambers |
-| 86 | 216 | Andi McGreevy |
-| 87 | 215 | Abraham Espaillat |
-| 88 | 214 | Po Marley |
-| 89 | 214 | Tonya McElroy |
-| 90 | 212 | Tamara N Lee |
+| 83 | 226 | Tamara N Lee |
+| 84 | 224 | Alana Renee |
+| 85 | 221 | Allison Baxter |
+| 86 | 219 | Jamal Itzjusmall Chambers |
+| 87 | 216 | Andi McGreevy |
+| 88 | 215 | Abraham Espaillat |
+| 89 | 214 | Po Marley |
+| 90 | 214 | Tonya McElroy |
 | 91 | 209 | Zachary Colegrove |
 | 92 | 209 | Gotcha |
 | 93 | 208 | Nerdy Snapfall |
@@ -103,8 +103,8 @@
 | 95 | 200 | Jason Mungin |
 | 96 | 199 | Asani CHumba |
 | 97 | 196 | MamaBear |
-| 98 | 195 | Songne Arif |
-| 99 | 195 | Weeze |
+| 98 | 195 | Weeze |
+| 99 | 195 | Songne Arif |
 | 100 | 193 | Brave Clearbuilder |
 | 101 | 186 | Denise B |
 | 102 | 185 | Teddy Davis |
@@ -117,16 +117,16 @@
 | 109 | 165 | Davionte DaeDae Hopson-Rodriguez |
 | 110 | 160 | Zippy Lifter |
 | 111 | 158 | W.A. Simpson |
-| 112 | 156 | Jessica Russell |
-| 113 | 156 | Anthony Washington |
+| 112 | 156 | Anthony Washington |
+| 113 | 156 | Jessica Russell |
 | 114 | 155 | Jawaun Daniels |
 | 115 | 151 | Dacia Hicks |
 | 116 | 147 | David Fuentes |
 | 117 | 147 | MACHETEEDDIE513 |
 | 118 | 146 | Curtis T Cirno |
 | 119 | 142 | Tina Mitchell |
-| 120 | 140 | Sara Meri |
-| 121 | 140 | Ann Chung |
+| 120 | 140 | Ann Chung |
+| 121 | 140 | Sara Meri |
 | 122 | 140 | Felicia Cain |
 | 123 | 139 | Chenell Gillard |
 | 124 | 139 | Mafio SO |
@@ -138,55 +138,55 @@
 | 130 | 130 | Emily Wright |
 | 131 | 127 | IThinkNot |
 | 132 | 126 | Cee Emm |
-| 133 | 125 | Kelli Couture |
-| 134 | 125 | LaTonya Myers |
+| 133 | 125 | LaTonya Myers |
+| 134 | 125 | Kelli Couture |
 | 135 | 124 | Byron Mario Cawthon |
 | 136 | 124 | Courtney Cicoria |
 | 137 | 121 | D'Andra Stewart |
-| 138 | 120 | Spicy Risepiece |
-| 139 | 120 | Nerdy Blockpiece |
-| 140 | 120 | Jai |
+| 138 | 120 | Nerdy Blockpiece |
+| 139 | 120 | Jai |
+| 140 | 120 | Spicy Risepiece |
 | 141 | 119 | ELM |
 | 142 | 118 | Hasty Pivoty |
-| 143 | 116 | Eartha Brown |
-| 144 | 116 | Cortaz Lawrie |
+| 143 | 116 | Cortaz Lawrie |
+| 144 | 116 | Eartha Brown |
 | 145 | 113 | Rachel Zimmerman |
 | 146 | 112 | GamerQueenDS |
-| 147 | 111 | Shalena Marie Humphrey |
-| 148 | 111 | Lesley Brunkus Cianfaglione |
+| 147 | 111 | Lesley Brunkus Cianfaglione |
+| 148 | 111 | Shalena Marie Humphrey |
 | 149 | 111 | Mic Balew |
 | 150 | 110 | Atlantalindi |
 | 151 | 108 | Kimberly Linares Hernandez |
-| 152 | 105 | Ebony Waynes-robinson |
-| 153 | 105 | Katrina Ramey |
-| 154 | 105 | Lisa Fletcher |
-| 155 | 105 | LaShaun Stinson |
+| 152 | 105 | Lisa Fletcher |
+| 153 | 105 | LaShaun Stinson |
+| 154 | 105 | Katrina Ramey |
+| 155 | 105 | Ebony Waynes-robinson |
 | 156 | 104 | Brittnay Wright |
-| 157 | 104 | Ahvae Lee |
-| 158 | 104 | Frisky Fall |
-| 159 | 102 | Bre Poston |
+| 157 | 104 | Frisky Fall |
+| 158 | 104 | Ahvae Lee |
+| 159 | 103 | Kelvin Cook |
 | 160 | 102 | Dawn L Washington-Feuquay |
-| 161 | 101 | Boldy Liner |
-| 162 | 100 | Cool Bridger |
-| 163 | 100 | Char |
-| 164 | 100 | Leavon Smith |
-| 165 | 99 | 신재호 |
+| 161 | 102 | Bre Poston |
+| 162 | 101 | Boldy Liner |
+| 163 | 100 | Leavon Smith |
+| 164 | 100 | Char |
+| 165 | 100 | Cool Bridger |
 | 166 | 99 | Simone Bailey |
-| 167 | 98 | Jessica Davis |
-| 168 | 95 | Nate Myers |
-| 169 | 95 | Joana Thompson |
-| 170 | 94 | Lively Riserpiece |
-| 171 | 94 | Cece Fowler |
-| 172 | 93 | Queenie Perry |
-| 173 | 93 | Kelvin Cook |
+| 167 | 99 | 신재호 |
+| 168 | 98 | Jessica Davis |
+| 169 | 95 | Nate Myers |
+| 170 | 95 | Joana Thompson |
+| 171 | 94 | Lively Riserpiece |
+| 172 | 94 | Cece Fowler |
+| 173 | 93 | Queenie Perry |
 | 174 | 93 | Melissa D. M. Hornsby |
 | 175 | 92 | Quirky Fallgrid |
 | 176 | 92 | The DUBZ |
 | 177 | 91 | Jack Vlasak |
-| 178 | 88 | Angela R Wilson |
-| 179 | 88 | QueenShay AllGood |
-| 180 | 87 | Poppy Buildout |
-| 181 | 87 | Nobles Brandon |
+| 178 | 88 | QueenShay AllGood |
+| 179 | 88 | Angela R Wilson |
+| 180 | 87 | Nobles Brandon |
+| 181 | 87 | Poppy Buildout |
 | 182 | 86 | krd |
 | 183 | 86 | Sanjuro |
 | 184 | 86 | Chandler Magee |
@@ -195,9 +195,9 @@
 | 187 | 84 | Franklin Sotelo |
 | 188 | 84 | Ciera Peace |
 | 189 | 82 | TT |
-| 190 | 81 | Charlene Baltimore |
-| 191 | 81 | Sarah Steckbauer |
-| 192 | 81 | Matthieu Pistone |
+| 190 | 81 | Matthieu Pistone |
+| 191 | 81 | Charlene Baltimore |
+| 192 | 81 | Sarah Steckbauer |
 | 193 | 80 | Jamie Willis |
 | 194 | 80 | Felicia Williams |
 | 195 | 80 | Chevalier Burley |
@@ -723,21 +723,21 @@
 | 715 | 12 | Kate Hancock Malicek |
 | 716 | 11 | Giddy Twistslam |
 | 717 | 11 | Dede Tate |
-| 718 | 11 | Frilly Shatterline |
-| 719 | 10 | TRUBBLE45 |
-| 720 | 10 | Meeee |
-| 721 | 10 | Anthony D Holmes |
-| 722 | 10 | Nikiya |
-| 723 | 10 | Tessa Gaskin |
-| 724 | 10 | Anntionette Sotire |
-| 725 | 10 | Alisha Dawson Crouch |
-| 726 | 10 | Ashleyy Netchert |
-| 727 | 10 | POOH |
-| 728 | 10 | Tina Criam |
-| 729 | 10 | Sherri Keys |
-| 730 | 10 | ShayePooh |
-| 731 | 10 | Missy Myvette |
-| 732 | 10 | Groovy Climber |
+| 718 | 11 | Groovy Climber |
+| 719 | 11 | Frilly Shatterline |
+| 720 | 10 | TRUBBLE45 |
+| 721 | 10 | Meeee |
+| 722 | 10 | Anthony D Holmes |
+| 723 | 10 | Nikiya |
+| 724 | 10 | Tessa Gaskin |
+| 725 | 10 | Anntionette Sotire |
+| 726 | 10 | Alisha Dawson Crouch |
+| 727 | 10 | Ashleyy Netchert |
+| 728 | 10 | POOH |
+| 729 | 10 | Tina Criam |
+| 730 | 10 | Sherri Keys |
+| 731 | 10 | ShayePooh |
+| 732 | 10 | Missy Myvette |
 | 733 | 10 | Linny Loop |
 | 734 | 10 | Hoppy Rumbler |
 | 735 | 10 | Vernon Hoyt |
