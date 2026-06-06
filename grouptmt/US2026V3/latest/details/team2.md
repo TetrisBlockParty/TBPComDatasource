@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 21:22:17 UTC
+# Standings for team2 as of 2026-06-06 21:22:39 UTC
 
 **Total Participants:** 1382
 
@@ -13,7 +13,7 @@
 | 5 | 7966 | Crystalin Heath Lewis |
 | 6 | 7687 | Lacey Nolting |
 | 7 | 6900 | Mocha |
-| 8 | 6536 | A.j. Langley |
+| 8 | 6586 | A.j. Langley |
 | 9 | 6232 | Christina Shell |
 | 10 | 6114 | Tim Ix |
 | 11 | 6045 | Morgann McDaniel |
@@ -75,10 +75,10 @@
 | 67 | 744 | Deborah Boyce Minor |
 | 68 | 732 | Amber Salazar |
 | 69 | 724 | Jazzy Faller |
-| 70 | 714 | Andre Love |
-| 71 | 711 | Hoppy Rotate |
-| 72 | 702 | Charley Bedford |
-| 73 | 701 | Sarah Griffey |
+| 70 | 716 | Sarah Griffey |
+| 71 | 714 | Andre Love |
+| 72 | 711 | Hoppy Rotate |
+| 73 | 702 | Charley Bedford |
 | 74 | 700 | Denise Potter |
 | 75 | 694 | Angie Mccain |
 | 76 | 671 | Brandi Thompson |
@@ -189,31 +189,31 @@
 | 181 | 223 | Ashley Billiot Rhodes |
 | 182 | 220 | Melissa Thomas |
 | 183 | 220 | Flashy Basegrid |
-| 184 | 219 | Stella |
-| 185 | 219 | Dallas Runyan |
+| 184 | 219 | Dallas Runyan |
+| 185 | 219 | Stella |
 | 186 | 218 | Amy Nicole McCanne |
 | 187 | 216 | PaiBri |
-| 188 | 212 | AndyJo |
-| 189 | 210 | Gloria May Shook |
-| 190 | 209 | Patria Osuoha |
-| 191 | 208 | Lora Via |
-| 192 | 207 | Margie Ann Naffziger |
-| 193 | 207 | Brenda Jones |
-| 194 | 206 | Jodi Johnson |
+| 188 | 213 | Becca Marie |
+| 189 | 212 | AndyJo |
+| 190 | 210 | Gloria May Shook |
+| 191 | 209 | Patria Osuoha |
+| 192 | 208 | Lora Via |
+| 193 | 207 | Margie Ann Naffziger |
+| 194 | 207 | Brenda Jones |
 | 195 | 206 | Logan Duffey |
-| 196 | 205 | Jeanna Mendez |
-| 197 | 205 | Melisa |
-| 198 | 204 | Chill Line |
-| 199 | 202 | Becca Marie |
+| 196 | 206 | Jodi Johnson |
+| 197 | 205 | Jeanna Mendez |
+| 198 | 205 | Melisa |
+| 199 | 204 | Chill Line |
 | 200 | 202 | Snappy Blockbuilder |
 | 201 | 201 | Danielle Pack Lewellen |
 | 202 | 200 | Physhie |
-| 203 | 200 | Sully |
-| 204 | 200 | Eric Wayne Maschman |
-| 205 | 200 | Sarah Grundisch |
-| 206 | 200 | Norma Ortiz |
-| 207 | 200 | Kelly Vedder |
-| 208 | 200 | Al Smith Jr |
+| 203 | 200 | Al Smith Jr |
+| 204 | 200 | Kelly Vedder |
+| 205 | 200 | Eric Wayne Maschman |
+| 206 | 200 | Sully |
+| 207 | 200 | Norma Ortiz |
+| 208 | 200 | Sarah Grundisch |
 | 209 | 199 | Amber Cogdill |
 | 210 | 196 | Jat |
 | 211 | 195 | Samantha Carman |
@@ -828,85 +828,85 @@
 | 820 | 37 | Trisha Farley |
 | 821 | 37 | Leon Welch |
 | 822 | 37 | Josh Vietz |
-| 823 | 37 | Suzee |
-| 824 | 37 | Clever Linkbuilder |
-| 825 | 37 | Tracy Lee |
-| 826 | 37 | Brooke Allred |
-| 827 | 37 | Annie Hebdon |
-| 828 | 37 | Tiffany Powell |
-| 829 | 36 | Daring Blockline |
-| 830 | 36 | Michelle Arnold |
-| 831 | 36 | Amanda Stanley |
-| 832 | 36 | Slinky Linkgrid |
-| 833 | 36 | Bobbie Carrol |
+| 823 | 37 | SunnySquare |
+| 824 | 37 | Suzee |
+| 825 | 37 | Clever Linkbuilder |
+| 826 | 37 | Tracy Lee |
+| 827 | 37 | Brooke Allred |
+| 828 | 37 | Annie Hebdon |
+| 829 | 37 | Tiffany Powell |
+| 830 | 36 | Debra Patten |
+| 831 | 36 | Daring Blockline |
+| 832 | 36 | Nicole Suber |
+| 833 | 36 | James Brown |
 | 834 | 36 | Eugene Clawson |
-| 835 | 36 | James Brown |
-| 836 | 36 | Nicole Suber |
-| 837 | 36 | Debra Patten |
-| 838 | 36 | Kathryn |
-| 839 | 36 | Christina Hanson |
-| 840 | 36 | Deborah Lint Odom |
-| 841 | 35 | Raffa |
-| 842 | 35 | blockrocker |
-| 843 | 35 | Thomas Johnstone |
-| 844 | 35 | Snazzy Clusterfit |
-| 845 | 35 | Carlee Becher |
-| 846 | 35 | Naomi Jaynes |
-| 847 | 35 | Jeremy Daurbigny |
-| 848 | 35 | Signerlisa |
-| 849 | 35 | Josie Mendivil |
-| 850 | 35 | YAKO |
-| 851 | 35 | Jessica Jones |
-| 852 | 35 | Frilly Dashfit |
-| 853 | 35 | Jack |
-| 854 | 35 | Isiwin |
-| 855 | 34 | Marlo Perry |
-| 856 | 34 | Auntie YaYa |
-| 857 | 34 | Talyn Domingues |
-| 858 | 34 | Mouh Med |
+| 835 | 36 | Bobbie Carrol |
+| 836 | 36 | Slinky Linkgrid |
+| 837 | 36 | Amanda Stanley |
+| 838 | 36 | Michelle Arnold |
+| 839 | 36 | Deborah Lint Odom |
+| 840 | 36 | Kathryn |
+| 841 | 36 | Christina Hanson |
+| 842 | 35 | Signerlisa |
+| 843 | 35 | Jeremy Daurbigny |
+| 844 | 35 | Josie Mendivil |
+| 845 | 35 | YAKO |
+| 846 | 35 | Jessica Jones |
+| 847 | 35 | Frilly Dashfit |
+| 848 | 35 | Carlee Becher |
+| 849 | 35 | Jack |
+| 850 | 35 | Naomi Jaynes |
+| 851 | 35 | Snazzy Clusterfit |
+| 852 | 35 | Isiwin |
+| 853 | 35 | blockrocker |
+| 854 | 35 | Thomas Johnstone |
+| 855 | 35 | Raffa |
+| 856 | 34 | Twisty Snapmatch |
+| 857 | 34 | Nina-Christina Cusyck |
+| 858 | 34 | Auntie YaYa |
 | 859 | 34 | Shanetta Johnson |
-| 860 | 34 | mee |
-| 861 | 34 | Spencer Ryder |
-| 862 | 34 | Nina-Christina Cusyck |
-| 863 | 34 | Twisty Snapmatch |
-| 864 | 34 | Angela VanOstrand |
-| 865 | 33 | Topknot13 |
-| 866 | 33 | Tito Garcia |
-| 867 | 33 | Kaitlyn Hurst |
+| 860 | 34 | Marlo Perry |
+| 861 | 34 | Talyn Domingues |
+| 862 | 34 | Angela VanOstrand |
+| 863 | 34 | Mouh Med |
+| 864 | 34 | mee |
+| 865 | 34 | Spencer Ryder |
+| 866 | 33 | Nicole Hjelmen |
+| 867 | 33 | Rydin Dirt |
 | 868 | 33 | Debbie Embry |
-| 869 | 33 | Rydin Dirt |
-| 870 | 33 | Nicole Hjelmen |
-| 871 | 33 | Sandy Rundel Holderman |
-| 872 | 33 | Ryan Sanders |
-| 873 | 33 | Corina Marie Prunty |
+| 869 | 33 | Sandy Rundel Holderman |
+| 870 | 33 | Kaitlyn Hurst |
+| 871 | 33 | Tito Garcia |
+| 872 | 33 | Topknot13 |
+| 873 | 33 | Ryan Sanders |
 | 874 | 33 | Maja Hauff |
-| 875 | 33 | Rachel Huber |
-| 876 | 33 | Nicki McGill |
-| 877 | 33 | Shelby Wilson |
+| 875 | 33 | Corina Marie Prunty |
+| 876 | 33 | Rachel Huber |
+| 877 | 33 | Nicki McGill |
 | 878 | 33 | Giggly Buildgrid |
-| 879 | 33 | Mandeee |
-| 880 | 32 | Amanda Bryte |
-| 881 | 32 | Brooklyn Todd |
-| 882 | 32 | Brandy Wallace |
-| 883 | 32 | Stephanie |
-| 884 | 32 | Courtney Elizabeth Hartnagel |
-| 885 | 32 | Fluffypuffin |
+| 879 | 33 | Shelby Wilson |
+| 880 | 33 | Mandeee |
+| 881 | 32 | Amanda Bryte |
+| 882 | 32 | Brooklyn Todd |
+| 883 | 32 | Brandy Wallace |
+| 884 | 32 | Stephanie |
+| 885 | 32 | Courtney Elizabeth Hartnagel |
 | 886 | 32 | Kristen Alta |
-| 887 | 32 | April Elaine Messenger |
-| 888 | 31 | SunnySquare |
+| 887 | 32 | Fluffypuffin |
+| 888 | 32 | April Elaine Messenger |
 | 889 | 31 | Goofy Bridger |
-| 890 | 31 | Anthony Chavez |
-| 891 | 31 | Laura Zavala |
+| 890 | 31 | Laura Zavala |
+| 891 | 31 | Anthony Chavez |
 | 892 | 31 | Diamond Balotje |
-| 893 | 31 | Trinni Hansen |
-| 894 | 31 | Ronald Granger |
+| 893 | 31 | Ronald Granger |
+| 894 | 31 | Trinni Hansen |
 | 895 | 31 | Mona Wagner |
 | 896 | 31 | Dan Ramsey |
-| 897 | 30 | Goofy Patternfit |
-| 898 | 30 | Lakeisha Ryder |
+| 897 | 30 | Lakeisha Ryder |
+| 898 | 30 | Abby Dexter |
 | 899 | 30 | Gammawms |
-| 900 | 30 | Abby Dexter |
-| 901 | 30 | SarahandAaron Prim |
+| 900 | 30 | C.L. Deslongchamp |
+| 901 | 30 | Goofy Patternfit |
 | 902 | 30 | Heather Hill Davidson |
 | 903 | 30 | Dee |
 | 904 | 30 | Tiffany Hassanshahi |
@@ -920,9 +920,9 @@
 | 912 | 30 | Brave Blockmatch |
 | 913 | 30 | Frothy Roll |
 | 914 | 30 | Duck |
-| 915 | 30 | C.L. Deslongchamp |
-| 916 | 30 | Brett Mullins |
-| 917 | 30 | Devon |
+| 915 | 30 | SarahandAaron Prim |
+| 916 | 30 | Devon |
+| 917 | 30 | Brett Mullins |
 | 918 | 30 | JEEPER |
 | 919 | 30 | Tiffany Ann |
 | 920 | 30 | Christi Hooper |
