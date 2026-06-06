@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 10:19:15 UTC
+# Standings for team4 as of 2026-06-06 10:20:16 UTC
 
 **Total Participants:** 925
 
@@ -107,19 +107,19 @@
 | 99 | 208 | Dubiousdust |
 | 100 | 207 | Leigh Pierce |
 | 101 | 203 | Patrick Alley |
-| 102 | 201 | Renee Sapp |
-| 103 | 200 | Leah Gorsuch |
-| 104 | 195 | Colin |
-| 105 | 195 | Sean Mccleary |
-| 106 | 194 | Lisa lisa |
-| 107 | 194 | Chiquita Blue |
-| 108 | 193 | Tiffany Bunker-Hill |
-| 109 | 192 | Gorica Prusina |
-| 110 | 189 | Bubbly Twistpiece |
+| 102 | 201 | Bubbly Twistpiece |
+| 103 | 201 | Renee Sapp |
+| 104 | 200 | Leah Gorsuch |
+| 105 | 195 | Colin |
+| 106 | 195 | Sean Mccleary |
+| 107 | 194 | Lisa lisa |
+| 108 | 194 | Chiquita Blue |
+| 109 | 193 | Tiffany Bunker-Hill |
+| 110 | 192 | Gorica Prusina |
 | 111 | 184 | Giggly Tilt |
 | 112 | 183 | Tara Delay Hill |
-| 113 | 182 | blockhead |
-| 114 | 182 | Scamp Jones |
+| 113 | 182 | Scamp Jones |
+| 114 | 182 | blockhead |
 | 115 | 180 | Shmeedo |
 | 116 | 179 | Anna Gribble |
 | 117 | 178 | Tamara Triplet |
