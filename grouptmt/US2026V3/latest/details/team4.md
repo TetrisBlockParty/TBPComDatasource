@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 19:52:37 UTC
+# Standings for team4 as of 2026-06-06 19:53:17 UTC
 
 **Total Participants:** 1124
 
@@ -94,8 +94,8 @@
 | 86 | 381 | Cranky Towerbuilder |
 | 87 | 378 | Lisa Garcia |
 | 88 | 376 | Jason Garnatz |
-| 89 | 373 | Boldy Rumbler |
-| 90 | 373 | Tanita Jobe |
+| 89 | 373 | Tanita Jobe |
+| 90 | 373 | Boldy Rumbler |
 | 91 | 370 | Dandy Clearfit |
 | 92 | 360 | Gigglycat |
 | 93 | 353 | Hen |
@@ -538,71 +538,71 @@
 | 530 | 53 | Marisela Alvarado |
 | 531 | 53 | Kimberly Mae Watkins |
 | 532 | 53 | MattJennifer Marie Ericson |
-| 533 | 53 | Trang Nguyen |
-| 534 | 53 | LaTanya GeminiondaRise Johnson |
-| 535 | 52 | Jj Johnson |
-| 536 | 52 | Angela Adamo-Tash |
-| 537 | 52 | Luunii |
-| 538 | 52 | PerfectPieces |
-| 539 | 52 | Clashy |
-| 540 | 52 | Lisa Pie |
-| 541 | 52 | Snappy Stack |
+| 533 | 53 | LaTanya GeminiondaRise Johnson |
+| 534 | 53 | Trang Nguyen |
+| 535 | 52 | PerfectPieces |
+| 536 | 52 | Clashy |
+| 537 | 52 | Angela Adamo-Tash |
+| 538 | 52 | Snappy Stack |
+| 539 | 52 | Lisa Pie |
+| 540 | 52 | Luunii |
+| 541 | 52 | Jj Johnson |
 | 542 | 52 | Sonya |
-| 543 | 51 | Erika Rubio |
-| 544 | 51 | JustLessie |
-| 545 | 51 | Michellee Lewis |
-| 546 | 51 | Clever Patterner |
-| 547 | 51 | Jacqueline Jackii Ramos |
-| 548 | 51 | Breezy Blockzone |
-| 549 | 51 | Vergie Michael |
-| 550 | 51 | Kimberly Civinski |
-| 551 | 51 | shonaberry |
-| 552 | 51 | Poppy |
-| 553 | 51 | LilRain |
-| 554 | 50 | Edward White |
-| 555 | 50 | Brittany |
-| 556 | 50 | Jacqueline Wright |
-| 557 | 50 | Flashy Shatterer |
-| 558 | 50 | Michael Cruz |
-| 559 | 50 | Hooti Smile |
-| 560 | 50 | Bee |
-| 561 | 50 | Nova Kain |
-| 562 | 50 | Ralph Hell Rell Williams |
-| 563 | 50 | Slinky Column |
+| 543 | 51 | Clever Patterner |
+| 544 | 51 | Kimberly Civinski |
+| 545 | 51 | JustLessie |
+| 546 | 51 | Michellee Lewis |
+| 547 | 51 | Erika Rubio |
+| 548 | 51 | Vergie Michael |
+| 549 | 51 | Poppy |
+| 550 | 51 | LilRain |
+| 551 | 51 | Jacqueline Jackii Ramos |
+| 552 | 51 | Breezy Blockzone |
+| 553 | 51 | shonaberry |
+| 554 | 50 | Jacqueline Wright |
+| 555 | 50 | Loony Edge |
+| 556 | 50 | Bee |
+| 557 | 50 | Hooti Smile |
+| 558 | 50 | Nova Kain |
+| 559 | 50 | Flashy Shatterer |
+| 560 | 50 | Brittany |
+| 561 | 50 | Michael Cruz |
+| 562 | 50 | Edward White |
+| 563 | 50 | Susan Stofberg Beltran |
 | 564 | 50 | Diane Obungu |
-| 565 | 50 | Susan Stofberg Beltran |
-| 566 | 50 | Loony Edge |
-| 567 | 50 | Bhakti Sawarkar |
-| 568 | 49 | Karen Riexinger |
-| 569 | 49 | Daffney Starr |
-| 570 | 49 | Meghan Etchells |
-| 571 | 49 | Kandylands |
-| 572 | 49 | smarty |
-| 573 | 49 | LeRoy jenkins |
-| 574 | 49 | Mrsjcraw18 |
-| 575 | 49 | Erica Armstrong Baz |
-| 576 | 48 | JP |
-| 577 | 48 | ŁųŁų |
-| 578 | 48 | REPENT |
-| 579 | 48 | Lilo |
+| 565 | 50 | Bhakti Sawarkar |
+| 566 | 50 | Slinky Column |
+| 567 | 50 | Ralph Hell Rell Williams |
+| 568 | 49 | Alizabeth Garcia |
+| 569 | 49 | Kandylands |
+| 570 | 49 | LeRoy jenkins |
+| 571 | 49 | Karen Riexinger |
+| 572 | 49 | Daffney Starr |
+| 573 | 49 | Meghan Etchells |
+| 574 | 49 | Erica Armstrong Baz |
+| 575 | 49 | Mrsjcraw18 |
+| 576 | 49 | smarty |
+| 577 | 48 | Lilo |
+| 578 | 48 | ŁųŁų |
+| 579 | 48 | Alex Dawn |
 | 580 | 48 | Happy Toast |
-| 581 | 48 | Alex Dawn |
-| 582 | 47 | chefjaydawg |
-| 583 | 47 | Candiecane324 |
-| 584 | 47 | Alizabeth Garcia |
+| 581 | 48 | REPENT |
+| 582 | 48 | JP |
+| 583 | 47 | chefjaydawg |
+| 584 | 47 | Candiecane324 |
 | 585 | 47 | Lush Twisterfit |
-| 586 | 46 | Gerald Richard Franke |
-| 587 | 46 | Esmond Johnson IV |
-| 588 | 46 | Tamika Ashli Bonner |
-| 589 | 46 | Genger |
-| 590 | 46 | Nerdy Faller |
-| 591 | 46 | Mc3003 |
-| 592 | 46 | Meela Abdurrab |
-| 593 | 46 | Lashae |
-| 594 | 46 | Mike Artis |
-| 595 | 45 | SueSally |
-| 596 | 45 | Capone |
-| 597 | 45 | Jennifer Terrill |
+| 586 | 46 | Lashae |
+| 587 | 46 | Meela Abdurrab |
+| 588 | 46 | Genger |
+| 589 | 46 | Mc3003 |
+| 590 | 46 | Mike Artis |
+| 591 | 46 | Esmond Johnson IV |
+| 592 | 46 | Nerdy Faller |
+| 593 | 46 | Tamika Ashli Bonner |
+| 594 | 46 | Gerald Richard Franke |
+| 595 | 45 | Capone |
+| 596 | 45 | Jennifer Terrill |
+| 597 | 45 | SueSally |
 | 598 | 45 | EmBem |
 | 599 | 45 | Jt Home |
 | 600 | 45 | Joe Win |
