@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 19:38:16 UTC
+# Standings for team1 as of 2026-06-06 19:38:38 UTC
 
 **Total Participants:** 1133
 
@@ -27,7 +27,7 @@
 | 19 | 2413 | Sha Harris |
 | 20 | 2321 | Chandler Spencer |
 | 21 | 2252 | jaimie |
-| 22 | 1887 | Juan Kandiss Escobedo Irwin |
+| 22 | 1911 | Juan Kandiss Escobedo Irwin |
 | 23 | 1679 | Epic Snapfall |
 | 24 | 1589 | Brian Stackhouse |
 | 25 | 1570 | April Inboden |
@@ -184,34 +184,34 @@
 | 176 | 184 | Frisky Fall |
 | 177 | 184 | Dai Bo |
 | 178 | 184 | Robbie Cheeseman |
-| 179 | 183 | NastyFriend |
-| 180 | 182 | Hyper Blocky |
-| 181 | 180 | Zippy Lifter |
-| 182 | 179 | Amber Wilson |
-| 183 | 179 | ♈️ Ariesbaby |
-| 184 | 178 | Jazzy Fireflighters |
-| 185 | 178 | Shameka Thrasher |
-| 186 | 177 | Byron Mario Cawthon |
+| 179 | 184 | Byron Mario Cawthon |
+| 180 | 183 | NastyFriend |
+| 181 | 182 | Hyper Blocky |
+| 182 | 180 | Zippy Lifter |
+| 183 | 179 | Amber Wilson |
+| 184 | 179 | ♈️ Ariesbaby |
+| 185 | 178 | Jazzy Fireflighters |
+| 186 | 178 | Shameka Thrasher |
 | 187 | 176 | Anthony Washington |
 | 188 | 176 | Nikki Hogan |
-| 189 | 172 | Marcheta Cervantez |
-| 190 | 172 | pooh |
+| 189 | 172 | pooh |
+| 190 | 172 | Marcheta Cervantez |
 | 191 | 171 | Boldy Liner |
-| 192 | 169 | Christina Rebecca |
-| 193 | 169 | Asha Langford |
-| 194 | 168 | IThinkNot |
-| 195 | 168 | Tina Mitchell |
+| 192 | 169 | Asha Langford |
+| 193 | 169 | Christina Rebecca |
+| 194 | 168 | Tina Mitchell |
+| 195 | 168 | IThinkNot |
 | 196 | 166 | Tarnisha Neicy Jones |
 | 197 | 165 | Queenie Perry |
-| 198 | 163 | Mafio SO |
-| 199 | 163 | Chilly Wipebuilder |
+| 198 | 163 | Chilly Wipebuilder |
+| 199 | 163 | Mafio SO |
 | 200 | 162 | JaClanDiah |
-| 201 | 161 | Jai |
-| 202 | 161 | Dawn L Washington-Feuquay |
-| 203 | 160 | Jamie Willis |
-| 204 | 160 | Carolyn Smith |
-| 205 | 160 | Sara Meri |
-| 206 | 160 | DaGuy |
+| 201 | 161 | Dawn L Washington-Feuquay |
+| 202 | 161 | Jai |
+| 203 | 160 | DaGuy |
+| 204 | 160 | Sara Meri |
+| 205 | 160 | Jamie Willis |
+| 206 | 160 | Carolyn Smith |
 | 207 | 159 | Fina McKinnis |
 | 208 | 157 | Kimberly Linares Hernandez |
 | 209 | 156 | Jessica Russell |
@@ -221,11 +221,11 @@
 | 213 | 152 | Jolly Tilefall |
 | 214 | 149 | Mikayla |
 | 215 | 149 | Lively Riserpiece |
-| 216 | 147 | Melissa D. M. Hornsby |
+| 216 | 147 | Sammie Walker |
 | 217 | 147 | MACHETEEDDIE513 |
-| 218 | 147 | Sammie Walker |
-| 219 | 146 | Keke Ferguson |
-| 220 | 146 | Stephen Providenti |
+| 218 | 147 | Melissa D. M. Hornsby |
+| 219 | 146 | Stephen Providenti |
+| 220 | 146 | Keke Ferguson |
 | 221 | 146 | BlackQueen105 |
 | 222 | 145 | Latisha Fairley |
 | 223 | 144 | TBABYJ |
@@ -239,47 +239,47 @@
 | 231 | 131 | Rachel Zimmerman |
 | 232 | 130 | Dion Gray |
 | 233 | 130 | Jessica Davis |
-| 234 | 129 | Tremaine Hiler |
-| 235 | 129 | Lisa Fletcher |
+| 234 | 129 | Lisa Fletcher |
+| 235 | 129 | Tremaine Hiler |
 | 236 | 128 | Jack Vlasak |
-| 237 | 127 | Koi |
+| 237 | 127 | Tanisha Taylor |
 | 238 | 127 | Treneil Daffin |
-| 239 | 127 | Tanisha Taylor |
+| 239 | 127 | Koi |
 | 240 | 126 | 신재호 |
-| 241 | 125 | LaShaun Stinson |
-| 242 | 125 | LaTonya Myers |
+| 241 | 125 | LaTonya Myers |
+| 242 | 125 | LaShaun Stinson |
 | 243 | 124 | Courtney Cicoria |
 | 244 | 123 | Slinky Snapbuilder |
 | 245 | 123 | Simone Bailey |
 | 246 | 123 | Cauiasia DeJ'ae |
 | 247 | 122 | Miera Nicole |
 | 248 | 121 | Matthieu Pistone |
-| 249 | 121 | Tiana Monique |
-| 250 | 121 | Bubbly Piececlear |
-| 251 | 120 | Brittanie Wardlow |
-| 252 | 120 | Nerdy Blockpiece |
-| 253 | 120 | Spicy Risepiece |
-| 254 | 120 | Saucy Tile |
-| 255 | 120 | Valerie Alexander |
-| 256 | 120 | Guy Incognito |
-| 257 | 120 | Tipsy Linkroll |
+| 249 | 121 | Bubbly Piececlear |
+| 250 | 121 | Tiana Monique |
+| 251 | 120 | Spicy Risepiece |
+| 252 | 120 | Valerie Alexander |
+| 253 | 120 | Tipsy Linkroll |
+| 254 | 120 | Nerdy Blockpiece |
+| 255 | 120 | Guy Incognito |
+| 256 | 120 | Brittanie Wardlow |
+| 257 | 120 | Saucy Tile |
 | 258 | 118 | Hasty Pivoty |
 | 259 | 116 | Kelvin Cook |
-| 260 | 115 | Dizzy Dashy |
-| 261 | 115 | Skippy |
+| 260 | 115 | Skippy |
+| 261 | 115 | Dizzy Dashy |
 | 262 | 115 | Kenny MrOnethousand Peck |
 | 263 | 114 | LAhoneybun82 |
 | 264 | 114 | Brittany Fells |
 | 265 | 113 | kitten |
-| 266 | 112 | Bre Poston |
-| 267 | 112 | GamerQueenDS |
-| 268 | 111 | Lesley Brunkus Cianfaglione |
-| 269 | 111 | Sarah Clark |
+| 266 | 112 | GamerQueenDS |
+| 267 | 112 | Bre Poston |
+| 268 | 111 | Sarah Clark |
+| 269 | 111 | Lesley Brunkus Cianfaglione |
 | 270 | 110 | Karebear |
 | 271 | 110 | Slinky Party |
-| 272 | 109 | Loopy Tiler |
-| 273 | 109 | Bambi Johnson |
-| 274 | 109 | Tamika Fisher |
+| 272 | 109 | Bambi Johnson |
+| 273 | 109 | Tamika Fisher |
+| 274 | 109 | Loopy Tiler |
 | 275 | 108 | Char |
 | 276 | 108 | Dedra M Prester |
 | 277 | 107 | Telisha Mims |
