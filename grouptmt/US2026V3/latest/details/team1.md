@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 09:38:39 UTC
+# Standings for team1 as of 2026-06-06 09:39:17 UTC
 
 **Total Participants:** 944
 
@@ -360,24 +360,24 @@
 | 352 | 56 | Bobby Chestefield |
 | 353 | 56 | Nora Mahmoud |
 | 354 | 56 | Nichelle Warren |
-| 355 | 55 | Dreamzzz |
-| 356 | 55 | Kyle Franklin |
-| 357 | 55 | Terrie |
-| 358 | 55 | Angelique Talbot |
-| 359 | 55 | KoolKimJay |
-| 360 | 54 | Ace Hardware |
-| 361 | 54 | Rackemwillie34 |
-| 362 | 54 | xXEKUNXx |
-| 363 | 54 | Twisty Brickfit |
+| 355 | 55 | Moomoo |
+| 356 | 55 | Dreamzzz |
+| 357 | 55 | Kyle Franklin |
+| 358 | 55 | Terrie |
+| 359 | 55 | Angelique Talbot |
+| 360 | 55 | KoolKimJay |
+| 361 | 54 | Ace Hardware |
+| 362 | 54 | Rackemwillie34 |
+| 363 | 54 | xXEKUNXx |
 | 364 | 54 | Ryan Runyan |
-| 365 | 54 | Elizabeth Hopkins |
-| 366 | 54 | Melissa Olvera |
-| 367 | 53 | Cortrell Foster |
-| 368 | 53 | Phillip Vasquez |
-| 369 | 53 | Clever Wrecker |
-| 370 | 53 | Jumpy Gridlock |
-| 371 | 52 | Gabriela Hernandez |
-| 372 | 52 | Moomoo |
+| 365 | 54 | Twisty Brickfit |
+| 366 | 54 | Elizabeth Hopkins |
+| 367 | 54 | Melissa Olvera |
+| 368 | 53 | Cortrell Foster |
+| 369 | 53 | Phillip Vasquez |
+| 370 | 53 | Clever Wrecker |
+| 371 | 53 | Jumpy Gridlock |
+| 372 | 52 | Gabriela Hernandez |
 | 373 | 52 | Brenda Malachi-butler |
 | 374 | 52 | Loopy Risepiece |
 | 375 | 52 | Anastasia |
@@ -445,16 +445,16 @@
 | 437 | 43 | Gael Quintana |
 | 438 | 43 | Heather Wilson |
 | 439 | 43 | Giggy Brickfit |
-| 440 | 43 | Corbin Henry |
-| 441 | 43 | Rachel Renae Bettis |
-| 442 | 43 | Kimberly Red |
-| 443 | 42 | MrsMeadows2019 |
-| 444 | 42 | Louise |
-| 445 | 42 | Brii Michelle Lamb |
-| 446 | 42 | Casey Chapman |
-| 447 | 42 | Sunny Riserbuilder |
-| 448 | 41 | Cranky Fall |
-| 449 | 41 | Tyiesha Pie Farmer |
+| 440 | 43 | Tyiesha Pie Farmer |
+| 441 | 43 | Corbin Henry |
+| 442 | 43 | Rachel Renae Bettis |
+| 443 | 43 | Kimberly Red |
+| 444 | 42 | MrsMeadows2019 |
+| 445 | 42 | Louise |
+| 446 | 42 | Brii Michelle Lamb |
+| 447 | 42 | Casey Chapman |
+| 448 | 42 | Sunny Riserbuilder |
+| 449 | 41 | Cranky Fall |
 | 450 | 41 | Frothy Zoney |
 | 451 | 41 | Lawreniesha Burkley |
 | 452 | 41 | Nerdy Climber |
