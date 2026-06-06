@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 13:34:16 UTC
+# Standings for team2 as of 2026-06-06 13:34:41 UTC
 
 **Total Participants:** 1167
 
@@ -30,9 +30,9 @@
 | 22 | 2368 | Dapper Rollout |
 | 23 | 2216 | Renee Weedling |
 | 24 | 1957 | Lola C Davis |
-| 25 | 1842 | Frisky Balanceblock |
-| 26 | 1800 | Quirky Catcher |
-| 27 | 1799 | Angie BBlock |
+| 25 | 1949 | Angie BBlock |
+| 26 | 1842 | Frisky Balanceblock |
+| 27 | 1800 | Quirky Catcher |
 | 28 | 1787 | Charles Varca |
 | 29 | 1744 | Alexia Reagan |
 | 30 | 1700 | Anthony Lilley |
