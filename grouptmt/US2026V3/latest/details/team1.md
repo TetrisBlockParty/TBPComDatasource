@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 09:06:16 UTC
+# Standings for team1 as of 2026-06-06 09:06:38 UTC
 
 **Total Participants:** 935
 
@@ -676,98 +676,98 @@
 | 668 | 22 | Happy Blocky |
 | 669 | 22 | Stephen Glaze |
 | 670 | 22 | Jroc Tyra Taylor |
-| 671 | 21 | RylonJones |
-| 672 | 21 | Cali Lee |
-| 673 | 21 | Christy |
-| 674 | 21 | Crafty Witch |
-| 675 | 21 | Arturo Hernandez II |
-| 676 | 21 | Zappy Zoney |
-| 677 | 21 | Desiree Ryder |
-| 678 | 21 | Taz Ballard |
-| 679 | 21 | Richelle Beck |
-| 680 | 21 | Kàrma Lee |
-| 681 | 21 | Clever Blocker |
-| 682 | 21 | Zappy Riser |
-| 683 | 21 | lady |
-| 684 | 20 | Giggy Edgefit |
-| 685 | 20 | SherylU |
-| 686 | 20 | Phillip White |
+| 671 | 21 | Taz Ballard |
+| 672 | 21 | lady |
+| 673 | 21 | Zappy Riser |
+| 674 | 21 | Kàrma Lee |
+| 675 | 21 | Richelle Beck |
+| 676 | 21 | RylonJones |
+| 677 | 21 | Arturo Hernandez II |
+| 678 | 21 | Cali Lee |
+| 679 | 21 | BB |
+| 680 | 21 | Christy |
+| 681 | 21 | Crafty Witch |
+| 682 | 21 | Zappy Zoney |
+| 683 | 21 | Clever Blocker |
+| 684 | 21 | Desiree Ryder |
+| 685 | 20 | Jonathan McKenzie |
+| 686 | 20 | Cynthia Potter |
 | 687 | 20 | Paul Pendley |
-| 688 | 20 | Kenneth Hefney |
-| 689 | 20 | Biggestboss Ransom |
-| 690 | 20 | Spotlight |
-| 691 | 20 | Lyn Reed |
-| 692 | 20 | B.L. Perry |
+| 688 | 20 | Phillip White |
+| 689 | 20 | Kenneth Hefney |
+| 690 | 20 | Biggestboss Ransom |
+| 691 | 20 | B.L. Perry |
+| 692 | 20 | Spotlight |
 | 693 | 20 | NedaWin |
-| 694 | 20 | Cynthia Potter |
+| 694 | 20 | Bold Spinblock |
 | 695 | 20 | Ebie |
 | 696 | 20 | Mahagony Small |
-| 697 | 20 | Jonathan McKenzie |
-| 698 | 20 | Tanisha Robinson |
-| 699 | 20 | BonnieB |
+| 697 | 20 | Lyn Reed |
+| 698 | 20 | Giggy Edgefit |
+| 699 | 20 | SherylU |
 | 700 | 20 | Sallie Sanborn |
-| 701 | 20 | Charlean Sims |
-| 702 | 20 | Bryttani GoingPlaces Latimer |
-| 703 | 20 | Cynthia Bradley |
-| 704 | 20 | Bold Spinblock |
-| 705 | 19 | Idelia L Brown |
+| 701 | 20 | Tanisha Robinson |
+| 702 | 20 | Cynthia Bradley |
+| 703 | 20 | BonnieB |
+| 704 | 20 | Bryttani GoingPlaces Latimer |
+| 705 | 20 | Charlean Sims |
 | 706 | 19 | Jose Rodriguez |
 | 707 | 19 | Ivan Israel |
-| 708 | 19 | TY Newme Batts |
-| 709 | 19 | Holly Baker |
-| 710 | 19 | Amanda Woodruff |
-| 711 | 19 | Hyedie Badie |
-| 712 | 19 | Sagitterrorist |
-| 713 | 19 | Frilly Lifter |
-| 714 | 19 | Megan Jones |
-| 715 | 19 | Panda Vibes |
-| 716 | 19 | Crystal Garay |
-| 717 | 19 | Lozuna |
-| 718 | 19 | Michelle Stanford-Page |
-| 719 | 19 | Yashicha Hertzock |
-| 720 | 19 | Chuck Quarles |
-| 721 | 19 | Michele Simpson |
-| 722 | 18 | Taylor Jordan Hollis |
-| 723 | 18 | Oaklonboy mike |
-| 724 | 18 | DeAngelo Sorrells |
+| 708 | 19 | Michele Simpson |
+| 709 | 19 | Chuck Quarles |
+| 710 | 19 | Frilly Lifter |
+| 711 | 19 | Idelia L Brown |
+| 712 | 19 | TY Newme Batts |
+| 713 | 19 | Amanda Woodruff |
+| 714 | 19 | Holly Baker |
+| 715 | 19 | Megan Jones |
+| 716 | 19 | Lozuna |
+| 717 | 19 | Michelle Stanford-Page |
+| 718 | 19 | Crystal Garay |
+| 719 | 19 | Panda Vibes |
+| 720 | 19 | Yashicha Hertzock |
+| 721 | 19 | Sagitterrorist |
+| 722 | 19 | Hyedie Badie |
+| 723 | 18 | Taylor Jordan Hollis |
+| 724 | 18 | Oaklonboy mike |
 | 725 | 18 | Soubletzy |
-| 726 | 18 | Pj Rojas |
+| 726 | 18 | Ounquan Wright |
 | 727 | 18 | Azeiare Ziare |
-| 728 | 18 | Ounquan Wright |
+| 728 | 18 | DeAngelo Sorrells |
 | 729 | 18 | AleahKCH |
-| 730 | 18 | Keke |
-| 731 | 18 | Chris Bell |
-| 732 | 18 | Una |
-| 733 | 18 | Jeremy Myers |
-| 734 | 18 | Diamond Nicole |
-| 735 | 18 | Anissa Williams |
-| 736 | 18 | Marbama |
-| 737 | 18 | Smiley3000 |
-| 738 | 18 | Tyree Tman Shinette |
-| 739 | 18 | Mighty plantlady |
-| 740 | 18 | Pinky Pink |
-| 741 | 18 | Vontii Blades |
-| 742 | 17 | Rikki Moran |
-| 743 | 17 | Vivian Bunnell Myers |
-| 744 | 17 | MrsDontPlay |
-| 745 | 17 | Andre Simpson |
-| 746 | 17 | Andre Rivera |
+| 730 | 18 | Pj Rojas |
+| 731 | 18 | Keke |
+| 732 | 18 | Chris Bell |
+| 733 | 18 | Una |
+| 734 | 18 | Jeremy Myers |
+| 735 | 18 | Diamond Nicole |
+| 736 | 18 | Anissa Williams |
+| 737 | 18 | Marbama |
+| 738 | 18 | Smiley3000 |
+| 739 | 18 | Tyree Tman Shinette |
+| 740 | 18 | Mighty plantlady |
+| 741 | 18 | Pinky Pink |
+| 742 | 18 | Vontii Blades |
+| 743 | 17 | Rikki Moran |
+| 744 | 17 | Vivian Bunnell Myers |
+| 745 | 17 | MrsDontPlay |
+| 746 | 17 | Andre Simpson |
 | 747 | 17 | Solomon Valarie |
 | 748 | 17 | Jb Mzresilience |
-| 749 | 17 | Embracing Hair |
-| 750 | 16 | Tammy Collins |
-| 751 | 16 | Sha Anderson |
-| 752 | 16 | Krista McNair |
+| 749 | 17 | Andre Rivera |
+| 750 | 17 | Embracing Hair |
+| 751 | 16 | Tammy Collins |
+| 752 | 16 | Sha Anderson |
 | 753 | 16 | Stacey Kesteloot |
 | 754 | 16 | Twisty Dashy |
-| 755 | 16 | Dee-Dee Stewart |
-| 756 | 16 | Sunny Tumbler |
-| 757 | 16 | Symonne 'Monnie' Pierce |
-| 758 | 15 | Elaine Youmans |
-| 759 | 15 | Laura Long |
-| 760 | 15 | Spunky Strikerbuilder |
-| 761 | 15 | Haley Bell |
-| 762 | 15 | BB |
+| 755 | 16 | Krista McNair |
+| 756 | 16 | Dee-Dee Stewart |
+| 757 | 16 | Sunny Tumbler |
+| 758 | 16 | Symonne 'Monnie' Pierce |
+| 759 | 15 | Elaine Youmans |
+| 760 | 15 | Laura Long |
+| 761 | 15 | Spunky Strikerbuilder |
+| 762 | 15 | Haley Bell |
 | 763 | 15 | Breezy Bouncer |
 | 764 | 15 | Dede Tate |
 | 765 | 15 | LaToya Chambers |
@@ -912,35 +912,35 @@
 | 904 | 6 | Lucy |
 | 905 | 6 | Kyshia |
 | 906 | 6 | Anthony T. Fults |
-| 907 | 6 | CK |
-| 908 | 6 | Frances Davis |
-| 909 | 6 | NEM0228 |
-| 910 | 6 | Wu May |
-| 911 | 6 | Frilly Riserbuilder |
-| 912 | 6 | Snippy Breaker |
-| 913 | 6 | Christopher Wallace |
-| 914 | 6 | Daring Riserfit |
+| 907 | 6 | S.S |
+| 908 | 6 | Christopher Wallace |
+| 909 | 6 | Snippy Breaker |
+| 910 | 6 | Frilly Riserbuilder |
+| 911 | 6 | Wu May |
+| 912 | 6 | Frances Davis |
+| 913 | 6 | NEM0228 |
+| 914 | 6 | CK |
 | 915 | 6 | Nikkizz |
-| 916 | 6 | S.S |
-| 917 | 5 | Chill Linkroll |
-| 918 | 5 | Derek Beverly |
-| 919 | 5 | Zesty Clearer |
-| 920 | 5 | Temeshia Brooks Washington |
-| 921 | 5 | the guy |
-| 922 | 5 | Marissa Sweet |
-| 923 | 5 | Stephanie Zuniga Tullock |
-| 924 | 5 | Hasty Brickzone |
-| 925 | 5 | Tito Divyn |
-| 926 | 5 | Kidgib5 |
-| 927 | 5 | Annette DeLoatch Thompson |
-| 928 | 5 | Jennifer Moore |
-| 929 | 5 | Zappy Clearfit |
-| 930 | 5 | Tipsy Builderline |
-| 931 | 5 | VERA DAME |
-| 932 | 5 | Duckey |
-| 933 | 5 | Logan Frost |
-| 934 | 5 | Rieshelda Marie White |
-| 935 | 5 | DirtiestofMikes |
+| 916 | 6 | Daring Riserfit |
+| 917 | 5 | VERA DAME |
+| 918 | 5 | Hasty Brickzone |
+| 919 | 5 | Stephanie Zuniga Tullock |
+| 920 | 5 | Chill Linkroll |
+| 921 | 5 | Derek Beverly |
+| 922 | 5 | Zesty Clearer |
+| 923 | 5 | Temeshia Brooks Washington |
+| 924 | 5 | the guy |
+| 925 | 5 | Marissa Sweet |
+| 926 | 5 | Logan Frost |
+| 927 | 5 | Tipsy Builderline |
+| 928 | 5 | Zappy Clearfit |
+| 929 | 5 | Jennifer Moore |
+| 930 | 5 | Annette DeLoatch Thompson |
+| 931 | 5 | Kidgib5 |
+| 932 | 5 | Tito Divyn |
+| 933 | 5 | DirtiestofMikes |
+| 934 | 5 | Duckey |
+| 935 | 5 | Rieshelda Marie White |
 
 ---
 *Standings created by tournaments datasource generation tool*
