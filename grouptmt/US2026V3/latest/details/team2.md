@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 03:26:15 UTC
+# Standings for team2 as of 2026-06-06 03:26:38 UTC
 
 **Total Participants:** 917
 
@@ -67,7 +67,7 @@
 | 59 | 441 | Ricardo Ewart |
 | 60 | 374 | Mikki Torres |
 | 61 | 354 | Branden Frankowski |
-| 62 | 338 | La chulis |
+| 62 | 339 | La chulis |
 | 63 | 335 | Kaycie Shaffer |
 | 64 | 328 | Tim Tim |
 | 65 | 317 | Marquetta Johnson |
@@ -96,11 +96,11 @@
 | 88 | 199 | Stella |
 | 89 | 195 | Bb |
 | 90 | 189 | DayDreamer79 |
-| 91 | 182 | AcardBoardBox |
-| 92 | 179 | Nathan Walker |
-| 93 | 175 | Suki Jacobs |
-| 94 | 175 | Milad Arzani |
-| 95 | 173 | Judy Long |
+| 91 | 188 | Judy Long |
+| 92 | 182 | AcardBoardBox |
+| 93 | 179 | Nathan Walker |
+| 94 | 175 | Suki Jacobs |
+| 95 | 175 | Milad Arzani |
 | 96 | 165 | Karen Reid Cenkush |
 | 97 | 165 | Ackerman 85 |
 | 98 | 162 | Larry Cross |
@@ -903,7 +903,7 @@
 | 895 | 6 | Celeste Samuels |
 | 896 | 6 | Shelby Wilson |
 | 897 | 5 | Jennifer Roper Stanley |
-| 898 | 5 | Jennifer Mauler Schmidt |
+| 898 | 5 | Crystal Poss |
 | 899 | 5 | Crafty Slice |
 | 900 | 5 | Nolife |
 | 901 | 5 | Mercedes Lowery |
@@ -913,7 +913,7 @@
 | 905 | 5 | Gina Louise Parker |
 | 906 | 5 | Audrey Bickford |
 | 907 | 5 | Chirpy Towerer |
-| 908 | 5 | Bennie Farbo |
+| 908 | 5 | Jennifer Mauler Schmidt |
 | 909 | 5 | Brittany Weatherspoon |
 | 910 | 5 | Nerdy Base |
 | 911 | 5 | Johnathon Mendiola |
@@ -922,7 +922,7 @@
 | 914 | 5 | Amanda Knox |
 | 915 | 5 | Adrian Alvarez |
 | 916 | 5 | Bad Juju |
-| 917 | 5 | Crystal Poss |
+| 917 | 5 | Bennie Farbo |
 
 ---
 *Standings created by tournaments datasource generation tool*
