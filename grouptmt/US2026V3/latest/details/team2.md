@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 08:30:39 UTC
+# Standings for team2 as of 2026-06-06 08:31:15 UTC
 
 **Total Participants:** 1079
 
@@ -124,10 +124,10 @@
 | 116 | 230 | Brandy Chinelle |
 | 117 | 228 | Keri Mears |
 | 118 | 227 | Brittni Lawrence |
-| 119 | 218 | Amy Nicole McCanne |
-| 120 | 218 | Fudgie Pie |
-| 121 | 215 | Ashley Green |
-| 122 | 211 | Krisanne Kesner-Lonsby |
+| 119 | 221 | Krisanne Kesner-Lonsby |
+| 120 | 218 | Amy Nicole McCanne |
+| 121 | 218 | Fudgie Pie |
+| 122 | 215 | Ashley Green |
 | 123 | 204 | Deborah Boyce Minor |
 | 124 | 201 | Danielle Pack Lewellen |
 | 125 | 200 | Lisa Breiding |
@@ -1072,19 +1072,19 @@
 | 1064 | 6 | Cheeky Dashpiece |
 | 1065 | 5 | Chirpy Towerer |
 | 1066 | 5 | Mercedes Lowery |
-| 1067 | 5 | Crystal Poss |
-| 1068 | 5 | Flynn Flibble |
-| 1069 | 5 | Deborah Fowler |
-| 1070 | 5 | Agnes Gable |
-| 1071 | 5 | Nerdy Base |
-| 1072 | 5 | Brittany Weatherspoon |
+| 1067 | 5 | Jennifer Roper Stanley |
+| 1068 | 5 | Jennifer Mauler Schmidt |
+| 1069 | 5 | Nicole Plummer |
+| 1070 | 5 | Duck |
+| 1071 | 5 | Nolife |
+| 1072 | 5 | Danh Nguyen |
 | 1073 | 5 | Bennie Farbo |
-| 1074 | 5 | Danh Nguyen |
-| 1075 | 5 | Nolife |
-| 1076 | 5 | Duck |
-| 1077 | 5 | Nicole Plummer |
-| 1078 | 5 | Jennifer Mauler Schmidt |
-| 1079 | 5 | Jennifer Roper Stanley |
+| 1074 | 5 | Nerdy Base |
+| 1075 | 5 | Agnes Gable |
+| 1076 | 5 | Deborah Fowler |
+| 1077 | 5 | Flynn Flibble |
+| 1078 | 5 | Crystal Poss |
+| 1079 | 5 | Brittany Weatherspoon |
 
 ---
 *Standings created by tournaments datasource generation tool*
