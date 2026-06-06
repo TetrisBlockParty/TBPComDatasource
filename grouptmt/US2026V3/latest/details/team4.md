@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 07:34:18 UTC
+# Standings for team4 as of 2026-06-06 07:34:37 UTC
 
 **Total Participants:** 880
 
@@ -77,12 +77,12 @@
 | 69 | 347 | Nikki Fuller Johnson |
 | 70 | 346 | Alexis Cor |
 | 71 | 333 | Alexandria Frazier |
-| 72 | 326 | Jason Allen |
-| 73 | 321 | woopa 716 |
-| 74 | 320 | DexterDobbins |
-| 75 | 313 | Tiffany Loree Tiffany Oneill |
-| 76 | 302 | Dheeh Robles |
-| 77 | 302 | JoLinda Dunn |
+| 72 | 330 | Tiffany Loree Tiffany Oneill |
+| 73 | 326 | Jason Allen |
+| 74 | 321 | woopa 716 |
+| 75 | 320 | DexterDobbins |
+| 76 | 302 | JoLinda Dunn |
+| 77 | 302 | Dheeh Robles |
 | 78 | 300 | Genag |
 | 79 | 294 | Hen |
 | 80 | 283 | Jesse Olive |
@@ -111,8 +111,8 @@
 | 103 | 182 | blockhead |
 | 104 | 182 | Scamp Jones |
 | 105 | 181 | Colin |
-| 106 | 180 | Aisha Estrada |
-| 107 | 180 | Shmeedo |
+| 106 | 180 | Shmeedo |
+| 107 | 180 | Aisha Estrada |
 | 108 | 179 | Anna Gribble |
 | 109 | 178 | Tamara Triplet |
 | 110 | 177 | Tammy June |
@@ -122,15 +122,15 @@
 | 114 | 169 | Tiffany Smith |
 | 115 | 167 | Damon Gaston |
 | 116 | 166 | Aramat |
-| 117 | 160 | Littlebrat |
-| 118 | 160 | Kitsune Bi |
+| 117 | 160 | Kitsune Bi |
+| 118 | 160 | Littlebrat |
 | 119 | 159 | iiPurgeV2 |
 | 120 | 157 | QueenLi86 |
 | 121 | 155 | Shayna Vaigneur-Hall |
 | 122 | 155 | RotatedWrongAgain |
 | 123 | 154 | No Time |
-| 124 | 153 | Laguya |
-| 125 | 153 | Brandy Lynn |
+| 124 | 153 | Brandy Lynn |
+| 125 | 153 | Laguya |
 | 126 | 152 | Dazzle Dragon |
 | 127 | 149 | Daryn Elliott |
 | 128 | 149 | Danny Ortiz |
@@ -146,12 +146,12 @@
 | 138 | 137 | Devinlee Brown |
 | 139 | 134 | Loony Rotater |
 | 140 | 134 | ariel |
-| 141 | 133 | Shawntae Mccary |
-| 142 | 133 | Janet Sanfilippo Sullivan |
+| 141 | 133 | Janet Sanfilippo Sullivan |
+| 142 | 133 | Shawntae Mccary |
 | 143 | 132 | Spicy Chicken |
-| 144 | 129 | Simone |
-| 145 | 129 | Brainbabe |
-| 146 | 129 | Chilly Pivot |
+| 144 | 129 | Chilly Pivot |
+| 145 | 129 | Simone |
+| 146 | 129 | Brainbabe |
 | 147 | 129 | Lani |
 | 148 | 129 | Ryan Paul Clark-Ramsey |
 | 149 | 128 | Crystal Hammonds |
@@ -219,9 +219,9 @@
 | 211 | 89 | Waxboss |
 | 212 | 89 | Betsy Froemming |
 | 213 | 88 | Kelly Howland |
-| 214 | 87 | Limbo |
-| 215 | 87 | LastBoi |
-| 216 | 87 | Deva Marie Barber |
+| 214 | 88 | Deva Marie Barber |
+| 215 | 87 | Limbo |
+| 216 | 87 | LastBoi |
 | 217 | 86 | Rachel Lemos |
 | 218 | 85 | Dawn Marie Trujillo |
 | 219 | 85 | Kari Smith |
