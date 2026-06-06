@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 16:18:18 UTC
+# Standings for team2 as of 2026-06-06 16:18:38 UTC
 
 **Total Participants:** 1244
 
@@ -138,15 +138,15 @@
 | 130 | 279 | James Ward |
 | 131 | 278 | Flashy Twistline |
 | 132 | 277 | Snappy Combo |
-| 133 | 275 | Bubbly Strikerpiece |
+| 133 | 277 | Sarah Mccolgan |
 | 134 | 275 | Heather Burgett |
-| 135 | 272 | DayDreamer79 |
-| 136 | 269 | Erin Thomas |
-| 137 | 260 | Linda Guay |
-| 138 | 253 | Hilliary Beyer |
-| 139 | 251 | Angie Kowalsky Olson |
-| 140 | 247 | Fudgie Pie |
-| 141 | 247 | Sarah Mccolgan |
+| 135 | 275 | Bubbly Strikerpiece |
+| 136 | 272 | DayDreamer79 |
+| 137 | 269 | Erin Thomas |
+| 138 | 260 | Linda Guay |
+| 139 | 253 | Hilliary Beyer |
+| 140 | 251 | Angie Kowalsky Olson |
+| 141 | 247 | Fudgie Pie |
 | 142 | 245 | Josh Twilley |
 | 143 | 241 | Charlie Wilson |
 | 144 | 241 | Boldy Wobbler |
