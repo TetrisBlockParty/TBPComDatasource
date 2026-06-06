@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 10:36:41 UTC
+# Standings for team4 as of 2026-06-06 10:37:17 UTC
 
 **Total Participants:** 928
 
@@ -101,9 +101,9 @@
 | 93 | 252 | Sarah Berry Stevens |
 | 94 | 240 | Jojo Ann |
 | 95 | 235 | Hwanger Land |
-| 96 | 230 | Sisi RedVelvet Reneè |
-| 97 | 229 | Aisha Estrada |
-| 98 | 228 | Bubbly Twistpiece |
+| 96 | 231 | Bubbly Twistpiece |
+| 97 | 230 | Sisi RedVelvet Reneè |
+| 98 | 229 | Aisha Estrada |
 | 99 | 217 | Slimm |
 | 100 | 208 | Dubiousdust |
 | 101 | 207 | RotatedWrongAgain |
@@ -111,8 +111,8 @@
 | 103 | 203 | Patrick Alley |
 | 104 | 201 | Renee Sapp |
 | 105 | 200 | Leah Gorsuch |
-| 106 | 195 | Sean Mccleary |
-| 107 | 195 | Colin |
+| 106 | 195 | Colin |
+| 107 | 195 | Sean Mccleary |
 | 108 | 194 | Lisa lisa |
 | 109 | 194 | Chiquita Blue |
 | 110 | 193 | Tiffany Bunker-Hill |
@@ -132,42 +132,42 @@
 | 124 | 166 | Aramat |
 | 125 | 164 | QueenLi86 |
 | 126 | 161 | matt |
-| 127 | 160 | Littlebrat |
-| 128 | 160 | Tipsy Builderline |
-| 129 | 160 | Kitsune Bi |
-| 130 | 159 | iiPurgeV2 |
-| 131 | 155 | Dae Von |
-| 132 | 155 | Shayna Vaigneur-Hall |
-| 133 | 154 | No Time |
-| 134 | 153 | Brandy Lynn |
-| 135 | 153 | Laguya |
-| 136 | 152 | Dazzle Dragon |
-| 137 | 150 | gabs |
-| 138 | 149 | Daryn Elliott |
-| 139 | 149 | Danny Ortiz |
-| 140 | 148 | Megan Vick |
-| 141 | 147 | Devinlee Brown |
-| 142 | 146 | Becky McCool |
-| 143 | 145 | Trice Stevenson |
-| 144 | 144 | Yesenia Castro Monreal |
-| 145 | 143 | Ashley Mcdonald |
-| 146 | 142 | Goofy Riser |
-| 147 | 141 | Jackie Polanco |
-| 148 | 140 | Taz |
-| 149 | 137 | Jasmine Marie |
-| 150 | 137 | Shelby |
-| 151 | 134 | Loony Rotater |
+| 127 | 160 | Tipsy Builderline |
+| 128 | 160 | Esther Hadassah |
+| 129 | 160 | Littlebrat |
+| 130 | 160 | Kitsune Bi |
+| 131 | 159 | iiPurgeV2 |
+| 132 | 155 | Dae Von |
+| 133 | 155 | Shayna Vaigneur-Hall |
+| 134 | 154 | No Time |
+| 135 | 153 | Brandy Lynn |
+| 136 | 153 | Laguya |
+| 137 | 152 | Dazzle Dragon |
+| 138 | 150 | gabs |
+| 139 | 149 | Daryn Elliott |
+| 140 | 149 | Danny Ortiz |
+| 141 | 148 | Megan Vick |
+| 142 | 147 | Devinlee Brown |
+| 143 | 146 | Becky McCool |
+| 144 | 145 | Trice Stevenson |
+| 145 | 144 | Yesenia Castro Monreal |
+| 146 | 143 | Ashley Mcdonald |
+| 147 | 142 | Goofy Riser |
+| 148 | 141 | Jackie Polanco |
+| 149 | 140 | Taz |
+| 150 | 137 | Jasmine Marie |
+| 151 | 137 | Shelby |
 | 152 | 134 | ariel |
-| 153 | 133 | June Hoffman |
-| 154 | 133 | Janet Sanfilippo Sullivan |
-| 155 | 133 | Shawntae Mccary |
+| 153 | 134 | Loony Rotater |
+| 154 | 133 | June Hoffman |
+| 155 | 133 | Janet Sanfilippo Sullivan |
 | 156 | 133 | Chirpy Link |
-| 157 | 130 | Esther Hadassah |
-| 158 | 129 | Ryan Paul Clark-Ramsey |
-| 159 | 129 | Kelly Howland |
-| 160 | 129 | Brainbabe |
-| 161 | 129 | Chilly Pivot |
-| 162 | 129 | Simone |
+| 157 | 133 | Shawntae Mccary |
+| 158 | 129 | Simone |
+| 159 | 129 | Brainbabe |
+| 160 | 129 | Ryan Paul Clark-Ramsey |
+| 161 | 129 | Kelly Howland |
+| 162 | 129 | Chilly Pivot |
 | 163 | 129 | Lani |
 | 164 | 128 | Crystal Hammonds |
 | 165 | 126 | Alyson M Kehler |
@@ -177,11 +177,11 @@
 | 169 | 123 | Cherrypir05 |
 | 170 | 122 | Samara Garcia |
 | 171 | 121 | Jazzy Gridder |
-| 172 | 120 | Joab Gonzalez |
+| 172 | 120 | Shiny Brick |
 | 173 | 120 | Glamorous Gracey |
-| 174 | 120 | Shiny Brick |
-| 175 | 119 | Ashley Jenkins |
-| 176 | 119 | EL Booger |
+| 174 | 120 | Joab Gonzalez |
+| 175 | 119 | EL Booger |
+| 176 | 119 | Ashley Jenkins |
 | 177 | 119 | Justin Michael |
 | 178 | 118 | Cheery Risegrid |
 | 179 | 118 | Goofy Fall |
