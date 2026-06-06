@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 05:28:16 UTC
+# Standings for team1 as of 2026-06-06 05:28:37 UTC
 
 **Total Participants:** 864
 
@@ -409,60 +409,60 @@
 | 401 | 41 | Lawreniesha Burkley |
 | 402 | 41 | Frothy Zoney |
 | 403 | 41 | Cranky Fall |
-| 404 | 40 | Maribel Vasquez |
-| 405 | 40 | Jean Regis |
-| 406 | 40 | Marcello Rush |
-| 407 | 40 | Devin West |
+| 404 | 40 | Perky Pusher |
+| 405 | 40 | Devin West |
+| 406 | 40 | Jean Regis |
+| 407 | 40 | Marcello Rush |
 | 408 | 40 | Tracey Johnson |
 | 409 | 40 | Douglas Price |
 | 410 | 40 | Christopher L Crites |
 | 411 | 40 | Tori Carter |
 | 412 | 40 | Furlough Leslie |
 | 413 | 40 | Tushama Cheris Okraku |
-| 414 | 40 | KeeKee Williams |
-| 415 | 40 | Brittanie Wardlow |
-| 416 | 40 | Slinky Fallzone |
-| 417 | 40 | Flashy Slam |
-| 418 | 40 | Larina Cherie Johnson |
-| 419 | 40 | Kamilya Rembert |
-| 420 | 40 | Perky Pusher |
+| 414 | 40 | Maribel Vasquez |
+| 415 | 40 | KeeKee Williams |
+| 416 | 40 | Brittanie Wardlow |
+| 417 | 40 | Slinky Fallzone |
+| 418 | 40 | Flashy Slam |
+| 419 | 40 | Larina Cherie Johnson |
+| 420 | 40 | Kamilya Rembert |
 | 421 | 39 | Shakuria Cortia Burney |
-| 422 | 39 | Lexx Robins |
-| 423 | 39 | Elizabeth Green |
-| 424 | 39 | JesusSaves 😇 |
+| 422 | 39 | Elizabeth Green |
+| 423 | 39 | Kyle Conley |
+| 424 | 39 | Lexx Robins |
 | 425 | 39 | ChunLi |
 | 426 | 39 | Boldy Pivoty |
 | 427 | 39 | Amy Lynn Leifheit |
-| 428 | 39 | Diva shrock |
-| 429 | 38 | Manda Allen |
-| 430 | 38 | hope |
-| 431 | 38 | Kahliah Baker |
-| 432 | 38 | Bold Clusterer |
-| 433 | 38 | Kayel Good |
-| 434 | 38 | Earl Williams |
-| 435 | 37 | Lootch |
-| 436 | 37 | Wacky Stackbuilder |
-| 437 | 37 | Jojo M |
-| 438 | 37 | Elizabeth Vega Coreano |
+| 428 | 39 | JesusSaves 😇 |
+| 429 | 39 | Diva shrock |
+| 430 | 38 | Manda Allen |
+| 431 | 38 | Bold Clusterer |
+| 432 | 38 | Kayel Good |
+| 433 | 38 | Earl Williams |
+| 434 | 38 | Kahliah Baker |
+| 435 | 38 | hope |
+| 436 | 37 | Jojo M |
+| 437 | 37 | Wacky Stackbuilder |
+| 438 | 37 | Lootch |
 | 439 | 37 | Lil T |
-| 440 | 36 | Meluhnee |
-| 441 | 36 | Just2Play$ |
+| 440 | 37 | Elizabeth Vega Coreano |
+| 441 | 36 | Meluhnee |
 | 442 | 36 | Meow Meow |
-| 443 | 36 | Dennis Ripley |
-| 444 | 36 | Gerold Folk Haddock |
+| 443 | 36 | Jess |
+| 444 | 36 | Just2Play$ |
 | 445 | 36 | Xrandomx |
-| 446 | 36 | Jess |
-| 447 | 35 | Jolly Tilefall |
-| 448 | 35 | Amy Villalpando |
+| 446 | 36 | Gerold Folk Haddock |
+| 447 | 36 | Dennis Ripley |
+| 448 | 35 | Jjhandsome |
 | 449 | 35 | Tracy Feyler |
-| 450 | 35 | Sashaleo |
-| 451 | 35 | Kyle Conley |
-| 452 | 35 | messyboots |
-| 453 | 35 | Jjhandsome |
-| 454 | 35 | Shannon Carriger |
-| 455 | 35 | Saucy Crusher |
-| 456 | 34 | Jeremy Pope |
-| 457 | 34 | Jelyfish |
+| 450 | 35 | Amy Villalpando |
+| 451 | 35 | Saucy Crusher |
+| 452 | 35 | Shannon Carriger |
+| 453 | 35 | Jolly Tilefall |
+| 454 | 35 | Sashaleo |
+| 455 | 35 | messyboots |
+| 456 | 34 | Jelyfish |
+| 457 | 34 | Jeremy Pope |
 | 458 | 34 | Zayy Wavyy |
 | 459 | 34 | Karen Denen |
 | 460 | 34 | Rene Hicks |
