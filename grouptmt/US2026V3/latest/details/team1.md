@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 13:56:17 UTC
+# Standings for team1 as of 2026-06-06 13:56:40 UTC
 
 **Total Participants:** 1011
 
@@ -44,7 +44,7 @@
 | 36 | 847 | Jacoby E Fleming |
 | 37 | 842 | Chris Russell |
 | 38 | 841 | Spicy Balancer |
-| 39 | 819 | Sanjuro |
+| 39 | 840 | Sanjuro |
 | 40 | 809 | Jennifer To |
 | 41 | 749 | Aviv Zehavi |
 | 42 | 715 | Chill Clusterer |
@@ -52,7 +52,7 @@
 | 44 | 694 | Charnay Peacock |
 | 45 | 675 | Corey Cawthon |
 | 46 | 670 | Jaida King |
-| 47 | 621 | Janine Hunter |
+| 47 | 623 | Janine Hunter |
 | 48 | 607 | Lisa Müller |
 | 49 | 605 | JoJo |
 | 50 | 598 | Ivana Schmidt |
@@ -154,8 +154,8 @@
 | 146 | 181 | Joey Albright |
 | 147 | 179 | ♈️ Ariesbaby |
 | 148 | 179 | Kelli Couture |
-| 149 | 176 | Andre Sanon |
-| 150 | 176 | Nikki Hogan |
+| 149 | 176 | Nikki Hogan |
+| 150 | 176 | Andre Sanon |
 | 151 | 176 | Anthony Washington |
 | 152 | 175 | Rayshawn Cohen |
 | 153 | 171 | Boldy Liner |
@@ -164,12 +164,12 @@
 | 156 | 166 | Tarnisha Neicy Jones |
 | 157 | 163 | Mafio SO |
 | 158 | 160 | Zippy Lifter |
-| 159 | 160 | Carolyn Smith |
-| 160 | 160 | DaGuy |
-| 161 | 160 | Sara Meri |
-| 162 | 160 | Jamie Willis |
-| 163 | 158 | Tina Mitchell |
-| 164 | 158 | Chilly Wipebuilder |
+| 159 | 160 | Chilly Wipebuilder |
+| 160 | 160 | Carolyn Smith |
+| 161 | 160 | DaGuy |
+| 162 | 160 | Sara Meri |
+| 163 | 160 | Jamie Willis |
+| 164 | 158 | Tina Mitchell |
 | 165 | 156 | Jessica Russell |
 | 166 | 149 | Lively Riserpiece |
 | 167 | 147 | MACHETEEDDIE513 |
@@ -405,96 +405,96 @@
 | 397 | 60 | Heather Aurelia |
 | 398 | 59 | Shanaa Germany Crittenden |
 | 399 | 59 | Keith Johnson |
-| 400 | 59 | Zappy Snapgrid |
-| 401 | 59 | Darrel Pemberton |
-| 402 | 59 | Kimberly Anderson |
-| 403 | 58 | Kimberly Susan Privette |
-| 404 | 58 | Brandy Way |
-| 405 | 58 | Alexandrla Smith |
-| 406 | 58 | FunTime |
+| 400 | 59 | Darrel Pemberton |
+| 401 | 59 | Kimberly Anderson |
+| 402 | 59 | Zappy Snapgrid |
+| 403 | 58 | Brandy Way |
+| 404 | 58 | Kimberly Susan Privette |
+| 405 | 58 | FunTime |
+| 406 | 58 | Alexandrla Smith |
 | 407 | 58 | Bambi Love |
 | 408 | 57 | Nikkizz |
-| 409 | 56 | Bobby Chestefield |
-| 410 | 56 | Lakiesha Crawford |
-| 411 | 56 | Nora Mahmoud |
+| 409 | 56 | Lakiesha Crawford |
+| 410 | 56 | Nora Mahmoud |
+| 411 | 56 | Bobby Chestefield |
 | 412 | 56 | Nichelle Warren |
 | 413 | 56 | DirtiestofMikes |
-| 414 | 55 | Terrie |
+| 414 | 55 | Angelique Talbot |
 | 415 | 55 | Lazy Tiltpiece |
-| 416 | 55 | Dreamzzz |
-| 417 | 55 | Angelique Talbot |
+| 416 | 55 | KoolKimJay |
+| 417 | 55 | Kyle Franklin |
 | 418 | 55 | Twisty Brickfit |
-| 419 | 55 | Ta'Kaiyah M. Spann |
-| 420 | 55 | Kyle Franklin |
-| 421 | 55 | KoolKimJay |
+| 419 | 55 | Dreamzzz |
+| 420 | 55 | Ta'Kaiyah M. Spann |
+| 421 | 55 | Terrie |
 | 422 | 54 | Ace Hardware |
-| 423 | 54 | Melissa Olvera |
-| 424 | 54 | Boldy Pivoty |
-| 425 | 54 | Ryan Runyan |
+| 423 | 54 | Kashh |
+| 424 | 54 | Melissa Olvera |
+| 425 | 54 | Cheeky Twistpiece |
 | 426 | 54 | Elizabeth Hopkins |
-| 427 | 54 | Kashh |
-| 428 | 53 | Jumpy Gridlock |
+| 427 | 54 | Ryan Runyan |
+| 428 | 54 | Boldy Pivoty |
 | 429 | 53 | Sarah Clark |
 | 430 | 53 | Clever Wrecker |
 | 431 | 53 | Cortrell Foster |
-| 432 | 52 | Bubbly Piececlear |
-| 433 | 52 | Anastasia |
-| 434 | 52 | Gabriela Hernandez |
-| 435 | 52 | Loopy Risepiece |
-| 436 | 52 | Dandy Brickfit |
-| 437 | 52 | Raquel Ortiz |
-| 438 | 51 | BrettanMary Adkins |
-| 439 | 51 | Comedian Gdane |
-| 440 | 51 | Poppy Smasher |
-| 441 | 51 | Shanjerrica Taylor Rosell |
-| 442 | 51 | Just2Play$ |
-| 443 | 50 | Nisha Sunshine Jenkins |
-| 444 | 50 | Teresa Yanira Cepeda |
-| 445 | 50 | Slinky Party |
-| 446 | 50 | Kimmie Gargano |
-| 447 | 50 | Jjhandsome |
-| 448 | 50 | Rande Smith |
-| 449 | 50 | Saucy Faller |
+| 432 | 53 | Jumpy Gridlock |
+| 433 | 52 | Dandy Brickfit |
+| 434 | 52 | Loopy Risepiece |
+| 435 | 52 | Bubbly Piececlear |
+| 436 | 52 | Anastasia |
+| 437 | 52 | Gabriela Hernandez |
+| 438 | 52 | Raquel Ortiz |
+| 439 | 51 | Shanjerrica Taylor Rosell |
+| 440 | 51 | Just2Play$ |
+| 441 | 51 | Poppy Smasher |
+| 442 | 51 | BrettanMary Adkins |
+| 443 | 51 | Comedian Gdane |
+| 444 | 50 | Nisha Sunshine Jenkins |
+| 445 | 50 | Jjhandsome |
+| 446 | 50 | Slinky Party |
+| 447 | 50 | Teresa Yanira Cepeda |
+| 448 | 50 | Kimmie Gargano |
+| 449 | 50 | Rande Smith |
 | 450 | 50 | Slim Shedidthat |
-| 451 | 50 | Kp |
+| 451 | 50 | Saucy Faller |
 | 452 | 50 | MsBobby Patrick |
 | 453 | 50 | Denell Sims |
-| 454 | 49 | Speedy Stacky |
-| 455 | 49 | SnazzyIvy |
-| 456 | 49 | Jenni Hardman |
-| 457 | 49 | LexiiSamayaa |
-| 458 | 49 | Sallie Sanborn |
-| 459 | 49 | Teisha Scott |
-| 460 | 49 | Casey Chapman |
-| 461 | 49 | No_Other_Choice |
-| 462 | 48 | Stephanie Ellis |
-| 463 | 48 | LoveLee |
-| 464 | 48 | Comedian Prince Paul |
-| 465 | 48 | Cm |
-| 466 | 48 | Bubbly Crawler |
-| 467 | 48 | Clever Fitblock |
-| 468 | 48 | Mommy Frank |
-| 469 | 48 | Wild Out Nai |
-| 470 | 48 | Kahh |
-| 471 | 47 | Smiley Tilebuilder |
-| 472 | 47 | Tushama Cheris Okraku |
-| 473 | 47 | Derrius SeriousLee Burks |
-| 474 | 47 | Kevin Turner |
+| 454 | 50 | Kp |
+| 455 | 49 | Teisha Scott |
+| 456 | 49 | No_Other_Choice |
+| 457 | 49 | Casey Chapman |
+| 458 | 49 | SnazzyIvy |
+| 459 | 49 | Sallie Sanborn |
+| 460 | 49 | LexiiSamayaa |
+| 461 | 49 | Speedy Stacky |
+| 462 | 49 | Jenni Hardman |
+| 463 | 48 | Cm |
+| 464 | 48 | Mommy Frank |
+| 465 | 48 | Clever Fitblock |
+| 466 | 48 | Wild Out Nai |
+| 467 | 48 | Bubbly Crawler |
+| 468 | 48 | Comedian Prince Paul |
+| 469 | 48 | Kahh |
+| 470 | 48 | LoveLee |
+| 471 | 48 | Stephanie Ellis |
+| 472 | 47 | Kevin Turner |
+| 473 | 47 | Tushama Cheris Okraku |
+| 474 | 47 | Smiley Tilebuilder |
 | 475 | 47 | Sugar Foot |
-| 476 | 47 | Christopher Dreamsareality McEachin |
-| 477 | 47 | Sherri Keys |
-| 478 | 47 | Mami Badd |
-| 479 | 47 | Faith Armone |
-| 480 | 47 | Zany Breaker |
-| 481 | 46 | Felicia Dungey |
-| 482 | 46 | Maria Baez Medina |
-| 483 | 46 | Chris Nelson |
-| 484 | 46 | David A Alvino |
-| 485 | 46 | Boldy Matchfit |
-| 486 | 46 | Ja'mice Nelson |
+| 476 | 47 | Zany Breaker |
+| 477 | 47 | Derrius SeriousLee Burks |
+| 478 | 47 | Faith Armone |
+| 479 | 47 | Mami Badd |
+| 480 | 47 | Christopher Dreamsareality McEachin |
+| 481 | 47 | Sherri Keys |
+| 482 | 46 | David A Alvino |
+| 483 | 46 | Boldy Matchfit |
+| 484 | 46 | Ja'mice Nelson |
+| 485 | 46 | Anthony |
+| 486 | 46 | Felicia Dungey |
 | 487 | 46 | Derald Miller |
-| 488 | 46 | Anthony |
-| 489 | 45 | Cheeky Twistpiece |
+| 488 | 46 | Chris Nelson |
+| 489 | 46 | Maria Baez Medina |
 | 490 | 45 | Eli Delao |
 | 491 | 45 | Adrian Harris |
 | 492 | 45 | Missy Myvette |
