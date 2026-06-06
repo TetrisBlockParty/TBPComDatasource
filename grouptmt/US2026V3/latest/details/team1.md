@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 18:12:39 UTC
+# Standings for team1 as of 2026-06-06 18:13:16 UTC
 
 **Total Participants:** 1097
 
@@ -1037,72 +1037,72 @@
 | 1029 | 9 | Markeita Jones |
 | 1030 | 8 | Ferocity |
 | 1031 | 8 | Evelyn Epps |
-| 1032 | 8 | Nerdy Twistline |
-| 1033 | 8 | Brenda Brogden |
-| 1034 | 8 | Macho Lewis |
-| 1035 | 8 | Teena K Macon |
-| 1036 | 8 | Chill Tumbler |
-| 1037 | 8 | Chinkey Overit |
+| 1032 | 8 | Queen Baby 5 |
+| 1033 | 8 | Shawna Passwater |
+| 1034 | 8 | Chevonne Huggins |
+| 1035 | 8 | Groovy Riseclear |
+| 1036 | 8 | Nerdy Twistline |
+| 1037 | 8 | Teresa Bean |
 | 1038 | 8 | Rixo Blax |
-| 1039 | 8 | jus_ry |
-| 1040 | 8 | Frothy Matchpiece |
-| 1041 | 8 | Teresa Bean |
-| 1042 | 8 | Elizabeth Castro |
-| 1043 | 8 | Nicole Coko Thomas |
-| 1044 | 8 | Groovy Riseclear |
-| 1045 | 8 | Chevonne Huggins |
-| 1046 | 8 | Shawna Passwater |
-| 1047 | 8 | Nissa |
-| 1048 | 8 | MsSassygee Boom |
-| 1049 | 8 | Tiffany Jean Hinson |
-| 1050 | 8 | Queen Baby 5 |
-| 1051 | 7 | Teresa F. Campos Eaton |
-| 1052 | 7 | Mary2 |
-| 1053 | 7 | whatever |
-| 1054 | 7 | Milfchaser530 |
-| 1055 | 7 | KingSlim82 |
-| 1056 | 7 | Andrew Harris |
-| 1057 | 7 | Stephanie L Jeffries Moultrie |
-| 1058 | 7 | Analesia Taylor |
-| 1059 | 7 | LaMinda Todd |
-| 1060 | 7 | Quana |
-| 1061 | 7 | Zachary Sinclair |
-| 1062 | 7 | Deadra Graham |
-| 1063 | 7 | Shane Brucewayne |
-| 1064 | 7 | Alanna Breitenbach |
-| 1065 | 7 | Sheena Hamilton |
-| 1066 | 7 | Jhonny Maii |
-| 1067 | 7 | Phoenix |
-| 1068 | 6 | Terry Lee Moya |
+| 1039 | 8 | Brenda Brogden |
+| 1040 | 8 | Macho Lewis |
+| 1041 | 8 | Teena K Macon |
+| 1042 | 8 | Chinkey Overit |
+| 1043 | 8 | jus_ry |
+| 1044 | 8 | Chill Tumbler |
+| 1045 | 8 | Frothy Matchpiece |
+| 1046 | 8 | Tiffany Jean Hinson |
+| 1047 | 8 | MsSassygee Boom |
+| 1048 | 8 | Nissa |
+| 1049 | 8 | Nicole Coko Thomas |
+| 1050 | 8 | Elizabeth Castro |
+| 1051 | 7 | Zachary Sinclair |
+| 1052 | 7 | KingSlim82 |
+| 1053 | 7 | Milfchaser530 |
+| 1054 | 7 | Andrew Harris |
+| 1055 | 7 | Stephanie L Jeffries Moultrie |
+| 1056 | 7 | Alanna Breitenbach |
+| 1057 | 7 | whatever |
+| 1058 | 7 | Phoenix |
+| 1059 | 7 | Analesia Taylor |
+| 1060 | 7 | Mary2 |
+| 1061 | 7 | Teresa F. Campos Eaton |
+| 1062 | 7 | LaMinda Todd |
+| 1063 | 7 | Deadra Graham |
+| 1064 | 7 | Shane Brucewayne |
+| 1065 | 7 | Jhonny Maii |
+| 1066 | 7 | Sheena Hamilton |
+| 1067 | 7 | Quana |
+| 1068 | 6 | Kyshia |
 | 1069 | 6 | NEM0228 |
-| 1070 | 6 | Kyshia |
-| 1071 | 6 | Frances Davis |
-| 1072 | 6 | smash56! |
-| 1073 | 6 | Frilly Riserbuilder |
-| 1074 | 6 | Wu May |
+| 1070 | 6 | Frances Davis |
+| 1071 | 6 | Wu May |
+| 1072 | 6 | Terry Lee Moya |
+| 1073 | 6 | smash56! |
+| 1074 | 6 | Frilly Riserbuilder |
 | 1075 | 6 | CK |
-| 1076 | 5 | Angelique Thomas |
-| 1077 | 5 | Aanngie Aanngie |
-| 1078 | 5 | VERA DAME |
-| 1079 | 5 | Chill Linkroll |
+| 1076 | 5 | Derek Beverly |
+| 1077 | 5 | Annette DeLoatch Thompson |
+| 1078 | 5 | Zappy Clearfit |
+| 1079 | 5 | Deantenique Smalls |
 | 1080 | 5 | Tipsy Builderline |
-| 1081 | 5 | DRIFTER |
-| 1082 | 5 | Zappy Clearfit |
-| 1083 | 5 | Marissa Sweet |
-| 1084 | 5 | Stephanie Zuniga Tullock |
-| 1085 | 5 | Tito Divyn |
-| 1086 | 5 | Happy |
-| 1087 | 5 | Zesty Clearer |
-| 1088 | 5 | Mario Meliodas |
-| 1089 | 5 | Temeshia Brooks Washington |
-| 1090 | 5 | rummy |
-| 1091 | 5 | Annette DeLoatch Thompson |
-| 1092 | 5 | EvaLynn NeCole |
-| 1093 | 5 | Mamiyoung47 |
-| 1094 | 5 | Derek Beverly |
-| 1095 | 5 | Jennifer Moore |
-| 1096 | 5 | Deantenique Smalls |
-| 1097 | 5 | the guy |
+| 1081 | 5 | VERA DAME |
+| 1082 | 5 | Mamiyoung47 |
+| 1083 | 5 | Angelique Thomas |
+| 1084 | 5 | EvaLynn NeCole |
+| 1085 | 5 | Temeshia Brooks Washington |
+| 1086 | 5 | Chill Linkroll |
+| 1087 | 5 | Mario Meliodas |
+| 1088 | 5 | Jennifer Moore |
+| 1089 | 5 | rummy |
+| 1090 | 5 | DRIFTER |
+| 1091 | 5 | the guy |
+| 1092 | 5 | Aanngie Aanngie |
+| 1093 | 5 | Zesty Clearer |
+| 1094 | 5 | Tito Divyn |
+| 1095 | 5 | Happy |
+| 1096 | 5 | Stephanie Zuniga Tullock |
+| 1097 | 5 | Marissa Sweet |
 
 ---
 *Standings created by tournaments datasource generation tool*
