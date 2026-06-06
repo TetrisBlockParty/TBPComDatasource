@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 00:10:16 UTC
+# Standings for team4 as of 2026-06-06 00:10:38 UTC
 
 **Total Participants:** 581
 
@@ -235,147 +235,147 @@
 | 227 | 42 | Cail |
 | 228 | 42 | Dawn Phelps |
 | 229 | 42 | Mrs |
-| 230 | 42 | Lucy Honer |
-| 231 | 42 | Stacy Brown |
-| 232 | 41 | Jeff Margolis |
-| 233 | 41 | Karen Small |
-| 234 | 40 | Maurice DeJean |
-| 235 | 40 | Anthony Lewis |
-| 236 | 40 | Cinta Marie |
-| 237 | 40 | Kena T. Tanner |
-| 238 | 40 | Leslie Bamonte |
+| 230 | 42 | Stacy Brown |
+| 231 | 42 | Lucy Honer |
+| 232 | 41 | Karen Small |
+| 233 | 41 | Jeff Margolis |
+| 234 | 40 | Kena T. Tanner |
+| 235 | 40 | Leslie Bamonte |
+| 236 | 40 | Anthony Lewis |
+| 237 | 40 | Destiny Starr LeValdo |
+| 238 | 40 | SweetChaos |
 | 239 | 40 | Mint Marquez |
-| 240 | 40 | Destiny Starr LeValdo |
-| 241 | 40 | SweetChaos |
-| 242 | 39 | Denisha Schinell Boyd |
-| 243 | 39 | Stefanie Street |
+| 240 | 40 | Cinta Marie |
+| 241 | 40 | Maurice DeJean |
+| 242 | 39 | Stefanie Street |
+| 243 | 39 | Denisha Schinell Boyd |
 | 244 | 39 | Anthony Kollar |
 | 245 | 39 | Chirpy Snapclear |
-| 246 | 38 | Happy Shatterfit |
-| 247 | 38 | Charity Thomas |
-| 248 | 38 | Sharon Tyler |
+| 246 | 38 | Charity Thomas |
+| 247 | 38 | Happy Shatterfit |
+| 248 | 38 | Happy Puzzle |
 | 249 | 38 | Cari Underwood |
-| 250 | 38 | Happy Puzzle |
-| 251 | 37 | Melika Zeheb |
-| 252 | 37 | Rose Anna Safi |
-| 253 | 37 | Chris Davis |
-| 254 | 37 | Tricia Motika Cowan |
-| 255 | 37 | Dana Fontanez |
-| 256 | 37 | Tyson Stroppel |
-| 257 | 37 | Rita Ann |
-| 258 | 37 | Tanya AfricanQueen Savage |
-| 259 | 37 | Deana Teck |
-| 260 | 36 | Dapper Tiltpiece |
-| 261 | 36 | Shirley A. Godfrey |
-| 262 | 36 | Jasmine Marie |
-| 263 | 36 | Jenn Norcross |
-| 264 | 36 | Fancy Tilefall |
+| 250 | 38 | Sharon Tyler |
+| 251 | 37 | Tanya AfricanQueen Savage |
+| 252 | 37 | Melika Zeheb |
+| 253 | 37 | Tyson Stroppel |
+| 254 | 37 | Dana Fontanez |
+| 255 | 37 | Tricia Motika Cowan |
+| 256 | 37 | Chris Davis |
+| 257 | 37 | Rose Anna Safi |
+| 258 | 37 | Deana Teck |
+| 259 | 37 | Rita Ann |
+| 260 | 36 | Jenn Norcross |
+| 261 | 36 | Dapper Tiltpiece |
+| 262 | 36 | Shirley A. Godfrey |
+| 263 | 36 | Jeanette Hailey |
+| 264 | 36 | Jasmine Marie |
 | 265 | 36 | Jeni |
-| 266 | 36 | Jeanette Hailey |
-| 267 | 35 | The Jazziest |
-| 268 | 35 | Joe Win |
-| 269 | 35 | Knijur Callins |
-| 270 | 35 | Tactical_B |
+| 266 | 36 | Fancy Tilefall |
+| 267 | 35 | MattJennifer Marie Ericson |
+| 268 | 35 | The Jazziest |
+| 269 | 35 | Tactical_B |
+| 270 | 35 | Knijur Callins |
 | 271 | 35 | Saul Fajardo |
-| 272 | 35 | David Lay |
-| 273 | 35 | Youngkueen |
-| 274 | 35 | Diane Obungu |
-| 275 | 35 | MattJennifer Marie Ericson |
-| 276 | 34 | Solace Grace |
-| 277 | 34 | Betsy Froemming |
-| 278 | 34 | Clashy |
-| 279 | 34 | Butterpat |
-| 280 | 34 | Yulissa Diaz |
-| 281 | 34 | matt |
-| 282 | 34 | GingaNinja |
-| 283 | 34 | jojo |
-| 284 | 34 | QueenLi86 |
-| 285 | 34 | Loopy Hitter |
-| 286 | 34 | Lord Solrac |
-| 287 | 33 | PL GR |
-| 288 | 33 | Kimberly Lusk |
-| 289 | 33 | Donna Howard |
-| 290 | 33 | Jackie Lucas |
-| 291 | 32 | Nicole Colby McCloskey |
-| 292 | 32 | Rosy Perez |
+| 272 | 35 | Youngkueen |
+| 273 | 35 | David Lay |
+| 274 | 35 | Joe Win |
+| 275 | 35 | Diane Obungu |
+| 276 | 34 | Butterpat |
+| 277 | 34 | GingaNinja |
+| 278 | 34 | jojo |
+| 279 | 34 | Solace Grace |
+| 280 | 34 | Clashy |
+| 281 | 34 | Lord Solrac |
+| 282 | 34 | QueenLi86 |
+| 283 | 34 | Loopy Hitter |
+| 284 | 34 | Yulissa Diaz |
+| 285 | 34 | Betsy Froemming |
+| 286 | 34 | matt |
+| 287 | 33 | Donna Howard |
+| 288 | 33 | Jackie Lucas |
+| 289 | 33 | Kimberly Lusk |
+| 290 | 33 | PL GR |
+| 291 | 32 | Rosy Perez |
+| 292 | 32 | Nicole Colby McCloskey |
 | 293 | 32 | Poppy |
 | 294 | 32 | Brainbabe |
 | 295 | 32 | CJ |
-| 296 | 31 | Destiny Georgia Reeves Beller |
-| 297 | 31 | EL Booger |
-| 298 | 31 | Garden Girlie |
-| 299 | 31 | Loretta Hendricks |
+| 296 | 31 | Garden Girlie |
+| 297 | 31 | Destiny Georgia Reeves Beller |
+| 298 | 31 | Loretta Hendricks |
+| 299 | 31 | EL Booger |
 | 300 | 31 | Sweetfire |
 | 301 | 31 | Swanky Builderline |
 | 302 | 31 | Jason Garnatz |
-| 303 | 30 | Lmg |
-| 304 | 30 | Loopy Wipeout |
-| 305 | 30 | Tiggerjake |
-| 306 | 30 | Chill Snapclear |
-| 307 | 30 | Lateasha Wildman |
-| 308 | 30 | Will E Ayala |
-| 309 | 30 | Dexter Hammond Jr |
-| 310 | 30 | Danielle Sulano |
-| 311 | 30 | Shepreneur Sade |
-| 312 | 30 | Dazzle Dragon |
-| 313 | 30 | Jackie Polanco |
-| 314 | 30 | Lala |
-| 315 | 30 | Ash Gribble |
+| 303 | 30 | Loopy Wipeout |
+| 304 | 30 | Tiggerjake |
+| 305 | 30 | Danielle Sulano |
+| 306 | 30 | Dexter Hammond Jr |
+| 307 | 30 | Lmg |
+| 308 | 30 | Shepreneur Sade |
+| 309 | 30 | Chill Snapclear |
+| 310 | 30 | Dazzle Dragon |
+| 311 | 30 | Will E Ayala |
+| 312 | 30 | Jackie Polanco |
+| 313 | 30 | Lala |
+| 314 | 30 | Ash Gribble |
+| 315 | 30 | Lateasha Wildman |
 | 316 | 30 | Koren Heersink |
 | 317 | 29 | Michael Cruz |
-| 318 | 29 | Ricky Colvin |
-| 319 | 29 | Mrs.J2013 |
-| 320 | 29 | Rhonda Dowling |
-| 321 | 29 | Zappy Matchgrid |
-| 322 | 28 | Melissa Schwager |
-| 323 | 28 | Sandra O'Reilly |
-| 324 | 28 | Allysha McFarland |
+| 318 | 29 | Rhonda Dowling |
+| 319 | 29 | Ricky Colvin |
+| 320 | 29 | Happy Filler |
+| 321 | 29 | Mrs.J2013 |
+| 322 | 29 | Zappy Matchgrid |
+| 323 | 28 | Allysha McFarland |
+| 324 | 28 | Melissa Schwager |
 | 325 | 28 | Plucky Shatterfit |
-| 326 | 28 | Deva Marie Barber |
-| 327 | 28 | Wayne Mire |
+| 326 | 28 | Sandra O'Reilly |
+| 327 | 28 | Deva Marie Barber |
 | 328 | 28 | JP |
-| 329 | 27 | Snappy Stack |
-| 330 | 27 | 94Blockhead |
-| 331 | 27 | Dandy Cascade |
-| 332 | 27 | EvoKitty |
-| 333 | 27 | Miranda Brown |
-| 334 | 27 | Cassie N Danica Flaherty |
-| 335 | 26 | Clever Shuffler |
-| 336 | 26 | Aramat |
-| 337 | 26 | Iforget |
-| 338 | 26 | Kevin Lyles |
-| 339 | 26 | Zippy Snaplink |
-| 340 | 26 | Nikcole Alexis Bryan |
-| 341 | 26 | Kimmie Warren |
-| 342 | 26 | Sonia Cordero-Martinez |
-| 343 | 26 | Cherrel M. Causey |
-| 344 | 26 | Leslie Marie WarClub |
+| 329 | 28 | Wayne Mire |
+| 330 | 27 | Snappy Stack |
+| 331 | 27 | 94Blockhead |
+| 332 | 27 | Dandy Cascade |
+| 333 | 27 | EvoKitty |
+| 334 | 27 | Miranda Brown |
+| 335 | 27 | Cassie N Danica Flaherty |
+| 336 | 26 | Clever Shuffler |
+| 337 | 26 | Aramat |
+| 338 | 26 | Iforget |
+| 339 | 26 | Kevin Lyles |
+| 340 | 26 | Zippy Snaplink |
+| 341 | 26 | Nikcole Alexis Bryan |
+| 342 | 26 | Kimmie Warren |
+| 343 | 26 | Sonia Cordero-Martinez |
+| 344 | 26 | Cherrel M. Causey |
 | 345 | 26 | Lisa Ferriero-Daudin |
-| 346 | 26 | Devinlee Brown |
-| 347 | 25 | Meghan Etchells |
-| 348 | 25 | Missionary Meda |
-| 349 | 25 | EJ Frazier |
-| 350 | 25 | Andrea Dre Lomeli |
-| 351 | 25 | ButterfliesRFree |
-| 352 | 24 | Nancy McCalla Abercrombie |
-| 353 | 24 | Tony Clark |
-| 354 | 24 | Smiley Gridzone |
-| 355 | 24 | Spicy Peach |
-| 356 | 24 | Katiana Gonzalez |
-| 357 | 24 | Happy Filler |
+| 346 | 26 | Leslie Marie WarClub |
+| 347 | 26 | Devinlee Brown |
+| 348 | 25 | Andrea Dre Lomeli |
+| 349 | 25 | Meghan Etchells |
+| 350 | 25 | Missionary Meda |
+| 351 | 25 | EJ Frazier |
+| 352 | 25 | ButterfliesRFree |
+| 353 | 24 | Miwa |
+| 354 | 24 | Spicy Peach |
+| 355 | 24 | Tony Clark |
+| 356 | 24 | Smiley Gridzone |
+| 357 | 24 | Katiana Gonzalez |
 | 358 | 24 | Lana Tran |
 | 359 | 24 | Socorro Arredondo |
-| 360 | 24 | Miwa |
-| 361 | 23 | Chonda OhanaMomma Michelle |
-| 362 | 23 | Kayla Haddenham |
-| 363 | 23 | Sonya |
-| 364 | 23 | Silly Fallzone |
-| 365 | 23 | Kristen Wallace |
-| 366 | 23 | Genger |
-| 367 | 23 | Anna Ryan |
-| 368 | 22 | Jonelle Jacobs |
-| 369 | 22 | Alex Dawn |
-| 370 | 22 | ariel |
+| 360 | 24 | Nancy McCalla Abercrombie |
+| 361 | 23 | Genger |
+| 362 | 23 | Silly Fallzone |
+| 363 | 23 | Anna Ryan |
+| 364 | 23 | Kristen Wallace |
+| 365 | 23 | Kayla Haddenham |
+| 366 | 23 | Sonya |
+| 367 | 23 | Chonda OhanaMomma Michelle |
+| 368 | 22 | ariel |
+| 369 | 22 | Jonelle Jacobs |
+| 370 | 22 | Alex Dawn |
 | 371 | 22 | Magda Lene |
 | 372 | 22 | Breezy Wife |
 | 373 | 21 | SandyEva |

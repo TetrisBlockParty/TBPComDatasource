@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 00:10:16 UTC
+# Standings for team1 as of 2026-06-06 00:10:38 UTC
 
 **Total Participants:** 622
 
@@ -98,23 +98,23 @@
 | 90 | 126 | Cee Emm |
 | 91 | 125 | Kelli Couture |
 | 92 | 121 | D'Andra Stewart |
-| 93 | 118 | Hasty Pivoty |
-| 94 | 118 | Tamara N Lee |
-| 95 | 116 | Zachary Colegrove |
+| 93 | 120 | Zippy Lifter |
+| 94 | 118 | Hasty Pivoty |
+| 95 | 118 | Tamara N Lee |
 | 96 | 116 | Eartha Brown |
-| 97 | 115 | Songne Arif |
-| 98 | 111 | Shalena Marie Humphrey |
-| 99 | 111 | Lesley Brunkus Cianfaglione |
-| 100 | 110 | Atlantalindi |
-| 101 | 107 | TBABYJ |
+| 97 | 116 | Zachary Colegrove |
+| 98 | 115 | Songne Arif |
+| 99 | 111 | Shalena Marie Humphrey |
+| 100 | 111 | Lesley Brunkus Cianfaglione |
+| 101 | 110 | Atlantalindi |
 | 102 | 107 | Rachel Zimmerman |
-| 103 | 105 | Katrina Ramey |
-| 104 | 104 | Frisky Fall |
-| 105 | 103 | David Fuentes |
+| 103 | 107 | TBABYJ |
+| 104 | 105 | Katrina Ramey |
+| 105 | 104 | Frisky Fall |
 | 106 | 103 | Lisa Müller |
-| 107 | 102 | Dawn L Washington-Feuquay |
-| 108 | 100 | Cool Bridger |
-| 109 | 100 | Zippy Lifter |
+| 107 | 103 | David Fuentes |
+| 108 | 102 | Dawn L Washington-Feuquay |
+| 109 | 100 | Cool Bridger |
 | 110 | 100 | Char |
 | 111 | 100 | Jessica Carter |
 | 112 | 99 | Simone Bailey |
@@ -123,9 +123,9 @@
 | 115 | 96 | Cortaz Lawrie |
 | 116 | 95 | Nate Myers |
 | 117 | 93 | Queenie Perry |
-| 118 | 90 | Melissa D. M. Hornsby |
-| 119 | 89 | Lively Riserpiece |
-| 120 | 88 | Joana Thompson |
+| 118 | 90 | Joana Thompson |
+| 119 | 90 | Melissa D. M. Hornsby |
+| 120 | 89 | Lively Riserpiece |
 | 121 | 88 | QueenShay AllGood |
 | 122 | 87 | Nobles Brandon |
 | 123 | 86 | Jack Vlasak |
@@ -619,15 +619,15 @@
 | 611 | 5 | Kidgib5 |
 | 612 | 5 | Jennifer Moore |
 | 613 | 5 | Shakuria Cortia Burney |
-| 614 | 5 | Mommy Frank |
-| 615 | 5 | Tito Divyn |
-| 616 | 5 | Shawn Himes |
-| 617 | 5 | Tamika Fisher |
+| 614 | 5 | the guy |
+| 615 | 5 | Logan Frost |
+| 616 | 5 | Sheila Burnham |
+| 617 | 5 | Duckey |
 | 618 | 5 | Zappy Clearfit |
-| 619 | 5 | Duckey |
-| 620 | 5 | Sheila Burnham |
-| 621 | 5 | Logan Frost |
-| 622 | 5 | the guy |
+| 619 | 5 | Tamika Fisher |
+| 620 | 5 | Shawn Himes |
+| 621 | 5 | Tito Divyn |
+| 622 | 5 | Mommy Frank |
 
 ---
 *Standings created by tournaments datasource generation tool*
