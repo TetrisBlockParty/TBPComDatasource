@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 10:06:40 UTC
+# Standings for team1 as of 2026-06-06 10:07:16 UTC
 
 **Total Participants:** 950
 
@@ -387,34 +387,34 @@
 | 379 | 52 | Dandy Brickfit |
 | 380 | 52 | Gabriela Hernandez |
 | 381 | 51 | Rachael Bakowicz Edwards |
-| 382 | 51 | Poppy Smasher |
-| 383 | 51 | Shanjerrica Taylor Rosell |
-| 384 | 51 | Comedian Gdane |
+| 382 | 51 | Shanjerrica Taylor Rosell |
+| 383 | 51 | Comedian Gdane |
+| 384 | 51 | Poppy Smasher |
 | 385 | 51 | Just2Play$ |
-| 386 | 50 | MsBobby Patrick |
+| 386 | 50 | Donna Payne |
 | 387 | 50 | Daddy |
 | 388 | 50 | Denell Sims |
-| 389 | 50 | Donna Payne |
-| 390 | 50 | Nisha Sunshine Jenkins |
-| 391 | 50 | Slinky Party |
+| 389 | 50 | Nisha Sunshine Jenkins |
+| 390 | 50 | Slinky Party |
+| 391 | 50 | MsBobby Patrick |
 | 392 | 50 | Teresa Yanira Cepeda |
 | 393 | 50 | Rande Smith |
 | 394 | 49 | Teisha Scott |
-| 395 | 49 | SnazzyIvy |
-| 396 | 49 | No_Other_Choice |
-| 397 | 49 | Speedy Stacky |
-| 398 | 49 | Brittany Fells |
+| 395 | 49 | Tyiesha Pie Farmer |
+| 396 | 49 | SnazzyIvy |
+| 397 | 49 | No_Other_Choice |
+| 398 | 49 | Speedy Stacky |
 | 399 | 49 | LexiiSamayaa |
-| 400 | 48 | Mommy Frank |
+| 400 | 49 | Brittany Fells |
 | 401 | 48 | Clever Fitblock |
-| 402 | 48 | Slim Shedidthat |
-| 403 | 48 | Tyiesha Pie Farmer |
+| 402 | 48 | Mommy Frank |
+| 403 | 48 | Slim Shedidthat |
 | 404 | 48 | Lynnette WheelerBushnell |
 | 405 | 48 | Bubbly Crawler |
-| 406 | 48 | Kahh |
-| 407 | 48 | Stephanie Ellis |
-| 408 | 48 | Wild Out Nai |
-| 409 | 48 | LoveLee |
+| 406 | 48 | LoveLee |
+| 407 | 48 | Kahh |
+| 408 | 48 | Stephanie Ellis |
+| 409 | 48 | Wild Out Nai |
 | 410 | 48 | Comedian Prince Paul |
 | 411 | 47 | Derrius SeriousLee Burks |
 | 412 | 47 | Shameka Thrasher |

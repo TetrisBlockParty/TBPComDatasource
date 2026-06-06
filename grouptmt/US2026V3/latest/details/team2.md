@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 10:06:40 UTC
+# Standings for team2 as of 2026-06-06 10:07:16 UTC
 
 **Total Participants:** 1101
 
@@ -90,10 +90,10 @@
 | 82 | 400 | Allie Bug |
 | 83 | 390 | La chulis |
 | 84 | 389 | Kimberly Cowan |
-| 85 | 354 | Branden Frankowski |
-| 86 | 354 | Marquetta Johnson |
-| 87 | 345 | Smiley Dropper |
-| 88 | 342 | Tom Badgley |
+| 85 | 372 | Tom Badgley |
+| 86 | 354 | Branden Frankowski |
+| 87 | 354 | Marquetta Johnson |
+| 88 | 345 | Smiley Dropper |
 | 89 | 341 | Nawang Nawang |
 | 90 | 340 | Courtney McCulley |
 | 91 | 337 | Krisanne Kesner-Lonsby |
@@ -1092,21 +1092,21 @@
 | 1084 | 6 | Cheeky Dashpiece |
 | 1085 | 6 | Lavenda Nettles |
 | 1086 | 6 | Celeste Samuels |
-| 1087 | 5 | Agnes Gable |
+| 1087 | 5 | Nicole Plummer |
 | 1088 | 5 | Nolife |
 | 1089 | 5 | Jennifer Mauler Schmidt |
 | 1090 | 5 | Chirpy Towerer |
-| 1091 | 5 | Nicole Plummer |
-| 1092 | 5 | Duck |
-| 1093 | 5 | Mercedes Lowery |
-| 1094 | 5 | Crystal Poss |
-| 1095 | 5 | Brittany Weatherspoon |
-| 1096 | 5 | Deborah Fowler |
-| 1097 | 5 | Flynn Flibble |
+| 1091 | 5 | Duck |
+| 1092 | 5 | Mercedes Lowery |
+| 1093 | 5 | Brittany Weatherspoon |
+| 1094 | 5 | Agnes Gable |
+| 1095 | 5 | Dapper Clearpiece |
+| 1096 | 5 | Danh Nguyen |
+| 1097 | 5 | Jennifer Roper Stanley |
 | 1098 | 5 | Nerdy Base |
-| 1099 | 5 | Jennifer Roper Stanley |
-| 1100 | 5 | Danh Nguyen |
-| 1101 | 5 | Dapper Clearpiece |
+| 1099 | 5 | Flynn Flibble |
+| 1100 | 5 | Deborah Fowler |
+| 1101 | 5 | Crystal Poss |
 
 ---
 *Standings created by tournaments datasource generation tool*
