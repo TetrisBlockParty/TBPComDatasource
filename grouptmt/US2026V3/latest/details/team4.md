@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 05:16:15 UTC
+# Standings for team4 as of 2026-06-06 05:16:40 UTC
 
 **Total Participants:** 821
 
@@ -182,20 +182,20 @@
 | 174 | 98 | Tina Thomas |
 | 175 | 98 | Shanna Fragen |
 | 176 | 97 | Tarsha Thomas-Martinez |
-| 177 | 97 | Fancy Tilefall |
-| 178 | 96 | JuicyJuice |
-| 179 | 95 | Маркус Вік |
-| 180 | 95 | Goofy Riser |
-| 181 | 94 | Reina Pagan |
-| 182 | 93 | farfromlocal |
-| 183 | 92 | Homie |
-| 184 | 91 | EL Booger |
+| 177 | 97 | EL Booger |
+| 178 | 97 | Fancy Tilefall |
+| 179 | 96 | JuicyJuice |
+| 180 | 95 | Маркус Вік |
+| 181 | 95 | Goofy Riser |
+| 182 | 94 | Reina Pagan |
+| 183 | 93 | farfromlocal |
+| 184 | 92 | Homie |
 | 185 | 91 | Tricia Motika Cowan |
 | 186 | 91 | Dominique Melendez |
 | 187 | 91 | Dayna Arthurs |
 | 188 | 90 | bollo |
-| 189 | 90 | Justin Michael |
-| 190 | 90 | Quiomarie Cotto |
+| 189 | 90 | Quiomarie Cotto |
+| 190 | 90 | Justin Michael |
 | 191 | 89 | Betsy Froemming |
 | 192 | 89 | Waxboss |
 | 193 | 89 | Chirpy Snapclear |
@@ -370,40 +370,40 @@
 | 362 | 44 | Karen Rodriguez |
 | 363 | 44 | Danielle Sulano |
 | 364 | 44 | SweetChaos |
-| 365 | 44 | jaz |
-| 366 | 43 | Tactical_B |
-| 367 | 43 | Peter Babineaux Jr |
-| 368 | 43 | Angela Adamo-Tash |
-| 369 | 43 | Swanky Snapgrid |
-| 370 | 43 | CJ |
-| 371 | 43 | Brittany |
-| 372 | 42 | Mrs |
-| 373 | 42 | ShaniP |
-| 374 | 42 | Happy Shatterfit |
-| 375 | 42 | Stacy Brown |
-| 376 | 42 | Jeni |
-| 377 | 42 | Scrumptious |
-| 378 | 42 | Deva Marie Barber |
-| 379 | 42 | Cail |
-| 380 | 42 | shonaberry |
-| 381 | 41 | Solace Grace |
-| 382 | 41 | Lord Solrac |
-| 383 | 41 | Missionary Meda |
-| 384 | 41 | Swanky Builderline |
-| 385 | 41 | BertaF1irta |
-| 386 | 41 | Deborah Ayliffe |
-| 387 | 40 | Stephanie Meinhart |
-| 388 | 40 | Leslie Bamonte |
-| 389 | 40 | crobb77 |
-| 390 | 40 | Mint Marquez |
-| 391 | 40 | Mexican130 |
-| 392 | 40 | Jay Dee |
-| 393 | 40 | Kena T. Tanner |
-| 394 | 40 | Cinta Marie |
-| 395 | 40 | Lady Dolphin |
-| 396 | 40 | Beth Belanger |
-| 397 | 40 | Rocky |
-| 398 | 40 | Jenn Wilson |
+| 365 | 44 | Brittany |
+| 366 | 44 | jaz |
+| 367 | 43 | Tactical_B |
+| 368 | 43 | Peter Babineaux Jr |
+| 369 | 43 | Angela Adamo-Tash |
+| 370 | 43 | Swanky Snapgrid |
+| 371 | 43 | CJ |
+| 372 | 42 | ShaniP |
+| 373 | 42 | Cail |
+| 374 | 42 | Mrs |
+| 375 | 42 | Happy Shatterfit |
+| 376 | 42 | Stacy Brown |
+| 377 | 42 | shonaberry |
+| 378 | 42 | Scrumptious |
+| 379 | 42 | Deva Marie Barber |
+| 380 | 42 | Jeni |
+| 381 | 41 | Lord Solrac |
+| 382 | 41 | Missionary Meda |
+| 383 | 41 | Swanky Builderline |
+| 384 | 41 | BertaF1irta |
+| 385 | 41 | Deborah Ayliffe |
+| 386 | 41 | Solace Grace |
+| 387 | 40 | Leslie Bamonte |
+| 388 | 40 | crobb77 |
+| 389 | 40 | Stephanie Meinhart |
+| 390 | 40 | Jenn Wilson |
+| 391 | 40 | Mint Marquez |
+| 392 | 40 | Mexican130 |
+| 393 | 40 | Jay Dee |
+| 394 | 40 | Kena T. Tanner |
+| 395 | 40 | Cinta Marie |
+| 396 | 40 | Lady Dolphin |
+| 397 | 40 | Beth Belanger |
+| 398 | 40 | Rocky |
 | 399 | 39 | Stefanie Street |
 | 400 | 39 | Anthony Kollar |
 | 401 | 39 | Hasty Dropzone |
@@ -535,14 +535,14 @@
 | 527 | 26 | Nikcole Alexis Bryan |
 | 528 | 26 | Clever Shuffler |
 | 529 | 26 | Leslie Marie WarClub |
-| 530 | 26 | Rebecca Rae Reed |
-| 531 | 26 | Kimmie Warren |
-| 532 | 25 | Meghan Etchells |
-| 533 | 25 | ButterfliesRFree |
-| 534 | 25 | Kendall Rhodie |
-| 535 | 25 | Erika Rubio |
-| 536 | 25 | Jada Jordyn Campbell |
-| 537 | 24 | Jade Alley |
+| 530 | 26 | Jade Alley |
+| 531 | 26 | Rebecca Rae Reed |
+| 532 | 26 | Kimmie Warren |
+| 533 | 25 | Meghan Etchells |
+| 534 | 25 | ButterfliesRFree |
+| 535 | 25 | Kendall Rhodie |
+| 536 | 25 | Erika Rubio |
+| 537 | 25 | Jada Jordyn Campbell |
 | 538 | 24 | Socorro Arredondo |
 | 539 | 24 | George Palacios |
 | 540 | 24 | Katiana Gonzalez |
