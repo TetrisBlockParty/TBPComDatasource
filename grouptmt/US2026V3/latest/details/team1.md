@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 06:20:41 UTC
+# Standings for team1 as of 2026-06-06 06:21:16 UTC
 
 **Total Participants:** 885
 
@@ -634,39 +634,39 @@
 | 626 | 21 | Cali Lee |
 | 627 | 21 | Crafty Witch |
 | 628 | 21 | lady |
-| 629 | 21 | Desiree Ryder |
-| 630 | 21 | Clever Blocker |
-| 631 | 21 | Zappy Zoney |
-| 632 | 21 | Richelle Beck |
-| 633 | 20 | SherylU |
-| 634 | 20 | Daddy |
+| 629 | 21 | Stephen Garland |
+| 630 | 21 | Desiree Ryder |
+| 631 | 21 | Clever Blocker |
+| 632 | 21 | Zappy Zoney |
+| 633 | 21 | Richelle Beck |
+| 634 | 20 | Nyhlah Patterson |
 | 635 | 20 | Charlean Sims |
-| 636 | 20 | Giggy Edgefit |
-| 637 | 20 | NedaWin |
-| 638 | 20 | Tanisha Robinson |
-| 639 | 20 | Ebie |
-| 640 | 20 | Phillip White |
-| 641 | 20 | Kenneth Hefney |
-| 642 | 20 | Nyhlah Patterson |
-| 643 | 20 | B.L. Perry |
-| 644 | 20 | Cynthia Bradley |
-| 645 | 20 | Mahagony Small |
-| 646 | 20 | Spotlight |
-| 647 | 20 | Jonathan McKenzie |
-| 648 | 20 | BonnieB |
-| 649 | 20 | Sallie Sanborn |
-| 650 | 20 | Cynthia Potter |
-| 651 | 20 | Crafty Link |
-| 652 | 20 | Parris Wright |
+| 636 | 20 | Daddy |
+| 637 | 20 | Giggy Edgefit |
+| 638 | 20 | NedaWin |
+| 639 | 20 | Tanisha Robinson |
+| 640 | 20 | Ebie |
+| 641 | 20 | B.L. Perry |
+| 642 | 20 | Phillip White |
+| 643 | 20 | Kenneth Hefney |
+| 644 | 20 | SherylU |
+| 645 | 20 | Spotlight |
+| 646 | 20 | Cynthia Bradley |
+| 647 | 20 | Mahagony Small |
+| 648 | 20 | Sallie Sanborn |
+| 649 | 20 | Jonathan McKenzie |
+| 650 | 20 | BonnieB |
+| 651 | 20 | Cynthia Potter |
+| 652 | 20 | Crafty Link |
 | 653 | 20 | Bryttani GoingPlaces Latimer |
-| 654 | 20 | Stephen Garland |
-| 655 | 19 | Jose Rodriguez |
+| 654 | 20 | Parris Wright |
+| 655 | 19 | Yashicha Hertzock |
 | 656 | 19 | Hyedie Badie |
 | 657 | 19 | Holly Baker |
-| 658 | 19 | Megan Jones |
-| 659 | 19 | Amanda Woodruff |
-| 660 | 19 | Michelle Stanford-Page |
-| 661 | 19 | Yashicha Hertzock |
+| 658 | 19 | Jose Rodriguez |
+| 659 | 19 | Megan Jones |
+| 660 | 19 | Amanda Woodruff |
+| 661 | 19 | Michelle Stanford-Page |
 | 662 | 19 | Sagitterrorist |
 | 663 | 19 | Ivan Israel |
 | 664 | 19 | Frilly Lifter |
