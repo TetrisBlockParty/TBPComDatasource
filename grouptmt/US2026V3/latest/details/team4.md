@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 07:48:16 UTC
+# Standings for team4 as of 2026-06-06 07:48:37 UTC
 
 **Total Participants:** 882
 
@@ -58,10 +58,10 @@
 | 50 | 474 | Jeremy Lopez |
 | 51 | 461 | Kayla Fuentes |
 | 52 | 458 | vag1974 |
-| 53 | 440 | Jewelz |
-| 54 | 419 | Caitlyn Wang |
-| 55 | 419 | Sweet Stacker |
-| 56 | 409 | Tiffany Loree Tiffany Oneill |
+| 53 | 445 | Tiffany Loree Tiffany Oneill |
+| 54 | 440 | Jewelz |
+| 55 | 419 | Caitlyn Wang |
+| 56 | 419 | Sweet Stacker |
 | 57 | 405 | Jonathan Hewitt |
 | 58 | 402 | Nick Graber |
 | 59 | 400 | Amber Doyle |
@@ -124,8 +124,8 @@
 | 116 | 167 | Spicy Chicken |
 | 117 | 166 | Aramat |
 | 118 | 160 | Tipsy Builderline |
-| 119 | 160 | Kitsune Bi |
-| 120 | 160 | Littlebrat |
+| 119 | 160 | Littlebrat |
+| 120 | 160 | Kitsune Bi |
 | 121 | 159 | QueenLi86 |
 | 122 | 159 | iiPurgeV2 |
 | 123 | 155 | RotatedWrongAgain |
@@ -134,12 +134,12 @@
 | 126 | 153 | Laguya |
 | 127 | 153 | Brandy Lynn |
 | 128 | 152 | Dazzle Dragon |
-| 129 | 149 | Daryn Elliott |
-| 130 | 149 | Danny Ortiz |
-| 131 | 148 | Megan Vick |
-| 132 | 146 | Becky McCool |
-| 133 | 145 | Trice Stevenson |
-| 134 | 144 | gabs |
+| 129 | 150 | gabs |
+| 130 | 149 | Daryn Elliott |
+| 131 | 149 | Danny Ortiz |
+| 132 | 148 | Megan Vick |
+| 133 | 146 | Becky McCool |
+| 134 | 145 | Trice Stevenson |
 | 135 | 144 | Yesenia Castro Monreal |
 | 136 | 143 | Ashley Mcdonald |
 | 137 | 141 | Jackie Polanco |

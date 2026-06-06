@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 07:48:16 UTC
+# Standings for team2 as of 2026-06-06 07:48:37 UTC
 
 **Total Participants:** 1072
 
@@ -57,8 +57,8 @@
 | 49 | 671 | Brandi Thompson |
 | 50 | 660 | Julie Trede Amerson |
 | 51 | 629 | Dane Marko |
-| 52 | 614 | Block Dog |
-| 53 | 599 | Marie Luciano |
+| 52 | 619 | Marie Luciano |
+| 53 | 614 | Block Dog |
 | 54 | 588 | Kellie Sharp Godfrey |
 | 55 | 579 | Hoppy Rotate |
 | 56 | 572 | Dsabrina Maxey |
@@ -87,9 +87,9 @@
 | 79 | 389 | Kimberly Cowan |
 | 80 | 374 | Mikki Torres |
 | 81 | 354 | Branden Frankowski |
-| 82 | 345 | Smiley Dropper |
-| 83 | 342 | Tom Badgley |
-| 84 | 342 | Rose Schaffner-Kibler |
+| 82 | 347 | Rose Schaffner-Kibler |
+| 83 | 345 | Smiley Dropper |
+| 84 | 342 | Tom Badgley |
 | 85 | 340 | Courtney McCulley |
 | 86 | 335 | Kaycie Shaffer |
 | 87 | 335 | MaddieCherie |
@@ -147,11 +147,11 @@
 | 139 | 165 | Olivia Jefferson |
 | 140 | 165 | Karen Reid Cenkush |
 | 141 | 164 | Jerry L Morales |
-| 142 | 163 | Zany Cascader |
-| 143 | 162 | Larry Cross |
-| 144 | 162 | haune |
-| 145 | 161 | Boldy Wobbler |
-| 146 | 161 | Melissa Nash |
+| 142 | 164 | Melissa Nash |
+| 143 | 163 | Zany Cascader |
+| 144 | 162 | Larry Cross |
+| 145 | 162 | haune |
+| 146 | 161 | Boldy Wobbler |
 | 147 | 160 | Linda Guay |
 | 148 | 159 | Cara Rivera |
 | 149 | 157 | Santara Ferguson |
@@ -161,14 +161,14 @@
 | 153 | 153 | Zesty Strikerbuilder |
 | 154 | 151 | Marilyn Mendoza |
 | 155 | 150 | Crystal Allen |
-| 156 | 149 | Rick |
+| 156 | 149 | Lily |
 | 157 | 149 | Jenni LeBlanc |
-| 158 | 149 | Lily |
+| 158 | 149 | Rick |
 | 159 | 148 | Curly Windbreaker |
 | 160 | 147 | Gill |
-| 161 | 145 | SEH |
+| 161 | 145 | Amanda Priddy |
 | 162 | 145 | H |
-| 163 | 145 | Amanda Priddy |
+| 163 | 145 | SEH |
 | 164 | 141 | Spicy Risegrid |
 | 165 | 141 | Melisa |
 | 166 | 140 | Iesha Cupil |
