@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 17:06:38 UTC
+# Standings for team1 as of 2026-06-06 17:07:17 UTC
 
 **Total Participants:** 1077
 
@@ -31,7 +31,7 @@
 | 23 | 1445 | Erika Windom |
 | 24 | 1442 | Juan Kandiss Escobedo Irwin |
 | 25 | 1242 | Jacoby E Fleming |
-| 26 | 1089 | Charnay Peacock |
+| 26 | 1139 | Charnay Peacock |
 | 27 | 1086 | Ryan Meilleur |
 | 28 | 1082 | Daylene Johannes |
 | 29 | 1075 | Mary Jenkins |
@@ -63,7 +63,7 @@
 | 55 | 605 | JoJo |
 | 56 | 598 | Ivana Schmidt |
 | 57 | 580 | Janet Cooke |
-| 58 | 566 | Blockhead |
+| 58 | 571 | Blockhead |
 | 59 | 566 | Kellie Hall |
 | 60 | 541 | Andi McGreevy |
 | 61 | 540 | IamJust Neyamijah Washington Sr. |

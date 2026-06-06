@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 17:06:38 UTC
+# Standings for team4 as of 2026-06-06 17:07:17 UTC
 
 **Total Participants:** 1059
 
@@ -97,14 +97,14 @@
 | 89 | 347 | Nikki Fuller Johnson |
 | 90 | 346 | Alexis Cor |
 | 91 | 333 | Alexandria Frazier |
-| 92 | 332 | RotatedWrongAgain |
-| 93 | 326 | Cherry |
-| 94 | 325 | Gigglycat |
-| 95 | 323 | Boldy Rumbler |
-| 96 | 320 | DexterDobbins |
-| 97 | 317 | J |
-| 98 | 302 | JoLinda Dunn |
-| 99 | 300 | Dandy Clearfit |
+| 92 | 333 | Boldy Rumbler |
+| 93 | 332 | RotatedWrongAgain |
+| 94 | 326 | Cherry |
+| 95 | 325 | Gigglycat |
+| 96 | 320 | Dandy Clearfit |
+| 97 | 320 | DexterDobbins |
+| 98 | 317 | J |
+| 99 | 302 | JoLinda Dunn |
 | 100 | 300 | Genag |
 | 101 | 300 | 2 kool |
 | 102 | 299 | Kim |
