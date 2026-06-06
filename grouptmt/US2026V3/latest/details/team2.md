@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 12:20:38 UTC
+# Standings for team2 as of 2026-06-06 12:21:16 UTC
 
 **Total Participants:** 1136
 
@@ -195,22 +195,22 @@
 | 187 | 145 | Amanda Priddy |
 | 188 | 145 | SEH |
 | 189 | 142 | Cortney Coleman |
-| 190 | 141 | Melisa |
-| 191 | 141 | Cheery Towerzone |
-| 192 | 140 | Iesha Cupil |
-| 193 | 140 | marsam |
-| 194 | 140 | Brittney Williams |
-| 195 | 140 | Billie Jensen |
-| 196 | 139 | Victoria Pale |
-| 197 | 138 | NickandJess Reynolds |
-| 198 | 137 | Liseth Vasquez |
-| 199 | 137 | Lindsey Ford |
-| 200 | 136 | Joni Michelle Morgan |
-| 201 | 136 | Lauren Maxwell |
+| 190 | 142 | Ratchet |
+| 191 | 141 | Melisa |
+| 192 | 141 | Cheery Towerzone |
+| 193 | 140 | Iesha Cupil |
+| 194 | 140 | Billie Jensen |
+| 195 | 140 | Brittney Williams |
+| 196 | 140 | marsam |
+| 197 | 139 | Victoria Pale |
+| 198 | 138 | NickandJess Reynolds |
+| 199 | 137 | Liseth Vasquez |
+| 200 | 137 | Lindsey Ford |
+| 201 | 136 | Joni Michelle Morgan |
 | 202 | 136 | Lashanda Bertram |
-| 203 | 135 | Marylin Eacker |
-| 204 | 135 | Tina Marie |
-| 205 | 134 | Ratchet |
+| 203 | 136 | Lauren Maxwell |
+| 204 | 135 | Marylin Eacker |
+| 205 | 135 | Tina Marie |
 | 206 | 133 | Bengy Lead |
 | 207 | 132 | Mtnblzr |
 | 208 | 132 | Alison Waller |
@@ -307,13 +307,13 @@
 | 299 | 85 | Daisy Girl |
 | 300 | 85 | Christina Maria |
 | 301 | 85 | James Sayers |
-| 302 | 84 | Jgato |
-| 303 | 84 | Lisa Underwood Desmond |
-| 304 | 83 | TetrisMama |
-| 305 | 83 | Louis Brudzinski |
-| 306 | 82 | Sandra Pursell |
-| 307 | 82 | Wendy McKee |
-| 308 | 82 | Sully |
+| 302 | 84 | Sully |
+| 303 | 84 | Jgato |
+| 304 | 84 | Lisa Underwood Desmond |
+| 305 | 83 | TetrisMama |
+| 306 | 83 | Louis Brudzinski |
+| 307 | 82 | Sandra Pursell |
+| 308 | 82 | Wendy McKee |
 | 309 | 82 | Hypee |
 | 310 | 82 | giamy |
 | 311 | 82 | Chill Line |
@@ -810,21 +810,21 @@
 | 802 | 22 | April Elaine Messenger |
 | 803 | 22 | Josimarie Otero |
 | 804 | 22 | Slinky Towerpiece |
-| 805 | 22 | Ashley Diana |
+| 805 | 22 | Sassy Twistbuilder |
 | 806 | 22 | Jeff Pottgether |
-| 807 | 21 | Sassy Twistbuilder |
-| 808 | 21 | Instak1ll |
-| 809 | 21 | Maithan Conour |
-| 810 | 21 | Frilly Dashfit |
-| 811 | 21 | Thy Bui |
-| 812 | 21 | MamaRachel |
-| 813 | 21 | Nicky Steigerwalt |
-| 814 | 21 | Chirpy Clearpiece |
-| 815 | 21 | Zappy Pivotfall |
-| 816 | 21 | CK Hancock |
-| 817 | 21 | Lakeisha Ryder |
-| 818 | 21 | Daniel Cline |
-| 819 | 21 | Erica Abreu |
+| 807 | 22 | Ashley Diana |
+| 808 | 21 | Chirpy Clearpiece |
+| 809 | 21 | Zappy Pivotfall |
+| 810 | 21 | CK Hancock |
+| 811 | 21 | MamaRachel |
+| 812 | 21 | Thy Bui |
+| 813 | 21 | Frilly Dashfit |
+| 814 | 21 | Lakeisha Ryder |
+| 815 | 21 | Daniel Cline |
+| 816 | 21 | Erica Abreu |
+| 817 | 21 | Nicky Steigerwalt |
+| 818 | 21 | Maithan Conour |
+| 819 | 21 | Instak1ll |
 | 820 | 20 | Alexis Abner |
 | 821 | 20 | Sharilyn Jackson |
 | 822 | 20 | Devon |
