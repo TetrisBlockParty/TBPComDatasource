@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 07:02:16 UTC
+# Standings for team1 as of 2026-06-06 07:02:38 UTC
 
 **Total Participants:** 900
 
@@ -38,8 +38,8 @@
 | 30 | 843 | Jacoby E Fleming |
 | 31 | 842 | Chris Russell |
 | 32 | 832 | Spicy Balancer |
-| 33 | 789 | Jennifer To |
-| 34 | 772 | Daylene Johannes |
+| 33 | 792 | Daylene Johannes |
+| 34 | 789 | Jennifer To |
 | 35 | 749 | Aviv Zehavi |
 | 36 | 715 | Chill Clusterer |
 | 37 | 670 | Charnay Peacock |
@@ -109,17 +109,17 @@
 | 101 | 216 | Nerdy Snapfall |
 | 102 | 215 | Abraham Espaillat |
 | 103 | 215 | Songne Arif |
-| 104 | 214 | Tonya McElroy |
-| 105 | 214 | Po Marley |
-| 106 | 213 | Jason Mungin |
-| 107 | 209 | Gotcha |
-| 108 | 209 | Zachary Colegrove |
-| 109 | 204 | MamaBear |
-| 110 | 199 | Asani CHumba |
-| 111 | 197 | BYM4L |
-| 112 | 195 | Weeze |
-| 113 | 195 | Mimi 1.0 |
-| 114 | 194 | DaVonte' Cretter |
+| 104 | 214 | DaVonte' Cretter |
+| 105 | 214 | Tonya McElroy |
+| 106 | 214 | Po Marley |
+| 107 | 213 | Jason Mungin |
+| 108 | 209 | Gotcha |
+| 109 | 209 | Zachary Colegrove |
+| 110 | 204 | MamaBear |
+| 111 | 199 | Asani CHumba |
+| 112 | 197 | BYM4L |
+| 113 | 195 | Weeze |
+| 114 | 195 | Mimi 1.0 |
 | 115 | 193 | Brave Clearbuilder |
 | 116 | 188 | Robyn Caldwell |
 | 117 | 186 | Denise B |

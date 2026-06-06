@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 07:02:16 UTC
+# Standings for team2 as of 2026-06-06 07:02:38 UTC
 
 **Total Participants:** 1055
 
@@ -632,58 +632,58 @@
 | 624 | 29 | Marcia Davis |
 | 625 | 29 | Jackie Moran Tiller |
 | 626 | 29 | Jolene Hull Hearn |
-| 627 | 29 | Brandy Westfall-panchari |
-| 628 | 29 | Dandy Tiltgrid |
-| 629 | 29 | Seamus |
-| 630 | 29 | Courtney Elizabeth Hartnagel |
-| 631 | 29 | Lisa Allen Frisk |
-| 632 | 28 | Holly Huval |
-| 633 | 28 | Alimae |
-| 634 | 28 | Christina Kearns |
-| 635 | 28 | Snippy Brickzone |
-| 636 | 28 | Frisky Twist |
-| 637 | 28 | Ssirkus |
-| 638 | 28 | Jill Goff |
-| 639 | 28 | Damion Morrison |
-| 640 | 28 | Sara BlueEyes |
-| 641 | 28 | Nina-Christina Cusyck |
-| 642 | 27 | AndrewandShela Gornik |
-| 643 | 27 | Sara Dunn |
+| 627 | 29 | Chris Delauro |
+| 628 | 29 | Brandy Westfall-panchari |
+| 629 | 29 | Dandy Tiltgrid |
+| 630 | 29 | Seamus |
+| 631 | 29 | Courtney Elizabeth Hartnagel |
+| 632 | 29 | Lisa Allen Frisk |
+| 633 | 28 | Holly Huval |
+| 634 | 28 | Alimae |
+| 635 | 28 | Christina Kearns |
+| 636 | 28 | Snippy Brickzone |
+| 637 | 28 | Frisky Twist |
+| 638 | 28 | Ssirkus |
+| 639 | 28 | Jill Goff |
+| 640 | 28 | Damion Morrison |
+| 641 | 28 | Sara BlueEyes |
+| 642 | 28 | Nina-Christina Cusyck |
+| 643 | 27 | AndrewandShela Gornik |
 | 644 | 27 | Chasity Simpson |
-| 645 | 27 | Zesty Zoney |
-| 646 | 27 | Bouncy Cluster |
-| 647 | 27 | Ashley Bennett |
-| 648 | 27 | John Perkins |
+| 645 | 27 | Sara Dunn |
+| 646 | 27 | Zesty Zoney |
+| 647 | 27 | Bouncy Cluster |
+| 648 | 27 | Ashley Bennett |
 | 649 | 27 | Robert W Schwartz |
 | 650 | 27 | Kim |
 | 651 | 27 | Billy Pittman |
 | 652 | 27 | Jessica Jones |
-| 653 | 27 | Dawn Marie |
-| 654 | 27 | Brian Karr |
-| 655 | 27 | Lazy Staggerpiece |
-| 656 | 27 | Mary Whitaker |
-| 657 | 27 | Sunny Tiltbuilder |
-| 658 | 26 | Darlene Russell |
-| 659 | 26 | giggly gal |
-| 660 | 26 | Brandi Vandevanter-Duke |
-| 661 | 26 | Tabitha Palen |
-| 662 | 26 | Grimwitch |
-| 663 | 26 | BugMansMom |
-| 664 | 26 | Erin Moore Galloway |
-| 665 | 26 | Swanky Fitline |
-| 666 | 26 | nova |
-| 667 | 26 | Quirky Climber |
-| 668 | 26 | Gina Leal |
-| 669 | 26 | Cathy Clark |
-| 670 | 26 | fancypants |
-| 671 | 26 | Rachel Huber |
-| 672 | 26 | Quina Jesse Fejaran |
-| 673 | 26 | Countrybling77 |
-| 674 | 25 | Brenda Zona |
-| 675 | 25 | Cranky Brickzone |
-| 676 | 25 | Robin Stutler |
-| 677 | 25 | Kimmi Blake |
-| 678 | 25 | Chris Delauro |
+| 653 | 27 | Lazy Staggerpiece |
+| 654 | 27 | Sunny Tiltbuilder |
+| 655 | 27 | Mary Whitaker |
+| 656 | 27 | Brian Karr |
+| 657 | 27 | Dawn Marie |
+| 658 | 27 | John Perkins |
+| 659 | 26 | Erin Moore Galloway |
+| 660 | 26 | Darlene Russell |
+| 661 | 26 | giggly gal |
+| 662 | 26 | Brandi Vandevanter-Duke |
+| 663 | 26 | Tabitha Palen |
+| 664 | 26 | Countrybling77 |
+| 665 | 26 | Grimwitch |
+| 666 | 26 | BugMansMom |
+| 667 | 26 | Cathy Clark |
+| 668 | 26 | Quina Jesse Fejaran |
+| 669 | 26 | Swanky Fitline |
+| 670 | 26 | Rachel Huber |
+| 671 | 26 | nova |
+| 672 | 26 | Quirky Climber |
+| 673 | 26 | Gina Leal |
+| 674 | 26 | fancypants |
+| 675 | 25 | Brenda Zona |
+| 676 | 25 | Cranky Brickzone |
+| 677 | 25 | Robin Stutler |
+| 678 | 25 | Kimmi Blake |
 | 679 | 25 | Allison Peterson |
 | 680 | 25 | Cranky Basepiece |
 | 681 | 25 | Mandy Van Laningham Bishop |
