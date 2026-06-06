@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 00:12:15 UTC
+# Standings for team1 as of 2026-06-06 00:12:38 UTC
 
 **Total Participants:** 624
 
@@ -136,49 +136,49 @@
 | 128 | 81 | Sarah Steckbauer |
 | 129 | 80 | LAhoneybun82 |
 | 130 | 80 | Chevalier Burley |
-| 131 | 80 | Felicia Williams |
+| 131 | 80 | Charles Johnson |
 | 132 | 80 | Jamie Willis |
-| 133 | 80 | Charles Johnson |
+| 133 | 80 | Felicia Williams |
 | 134 | 80 | Carolyn Smith |
 | 135 | 80 | Jazzy Dashpiece |
 | 136 | 79 | Shanell Thomas |
 | 137 | 77 | Shontanese Adams |
 | 138 | 77 | Yashica Smith |
-| 139 | 76 | Mic Balew |
-| 140 | 76 | Giggly Shatterline |
-| 141 | 75 | Sanjuro |
-| 142 | 75 | Dizzy Dashy |
-| 143 | 74 | Matthieu Pistone |
-| 144 | 74 | ♈️ Ariesbaby |
-| 145 | 74 | Tonya McElroy |
+| 139 | 76 | Giggly Shatterline |
+| 140 | 76 | Mic Balew |
+| 141 | 75 | Dizzy Dashy |
+| 142 | 75 | Sanjuro |
+| 143 | 74 | ♈️ Ariesbaby |
+| 144 | 74 | Tonya McElroy |
+| 145 | 74 | Matthieu Pistone |
 | 146 | 71 | MamaBear |
 | 147 | 71 | Erin Sabol |
 | 148 | 70 | Latore Maxie |
 | 149 | 70 | $hort Dog |
-| 150 | 69 | Jayjay Rich |
-| 151 | 67 | The DUBZ |
+| 150 | 70 | Kaleisha Smith |
+| 151 | 69 | Jayjay Rich |
 | 152 | 67 | Michele Elizabeth McKay-Johnson |
-| 153 | 65 | Jazzy Bridger |
-| 154 | 64 | Eugina Slater |
-| 155 | 64 | Tosha Michelle |
-| 156 | 64 | CJ Robinson |
-| 157 | 62 | Jack Mehof |
-| 158 | 62 | rls |
-| 159 | 62 | Cheeky Pop |
-| 160 | 61 | Angela R Wilson |
-| 161 | 61 | Stephen Providenti |
-| 162 | 61 | star |
-| 163 | 60 | Lilly Brown |
-| 164 | 60 | Kaleisha Smith |
+| 153 | 67 | The DUBZ |
+| 154 | 65 | Jazzy Bridger |
+| 155 | 64 | Eugina Slater |
+| 156 | 64 | Tosha Michelle |
+| 157 | 64 | CJ Robinson |
+| 158 | 62 | Jack Mehof |
+| 159 | 62 | rls |
+| 160 | 62 | Cheeky Pop |
+| 161 | 61 | star |
+| 162 | 61 | Angela R Wilson |
+| 163 | 61 | Stephen Providenti |
+| 164 | 60 | Cachet A Ward |
 | 165 | 60 | Breezy Catcher |
 | 166 | 60 | Christian Pham |
-| 167 | 60 | Kristie |
-| 168 | 60 | Boldy Liner |
+| 167 | 60 | Boldy Liner |
+| 168 | 60 | Kristie |
 | 169 | 60 | Valerie Alexander |
 | 170 | 60 | Marlainia Boyd |
 | 171 | 60 | Marcheta Cervantez |
 | 172 | 60 | Christi Walker Patton |
-| 173 | 60 | Cachet A Ward |
+| 173 | 60 | Lilly Brown |
 | 174 | 59 | Lauraly |
 | 175 | 58 | Kimberly Susan Privette |
 | 176 | 58 | JaClanDiah |
@@ -609,7 +609,7 @@
 | 601 | 5 | Tipsy Builderline |
 | 602 | 5 | Saucy Linkgrid |
 | 603 | 5 | Spunky Strikerbuilder |
-| 604 | 5 | the guy |
+| 604 | 5 | Andre Sanon |
 | 605 | 5 | pooh |
 | 606 | 5 | Jasmine Hariston-Estis |
 | 607 | 5 | Derek Beverly |
@@ -629,7 +629,7 @@
 | 621 | 5 | Duckey |
 | 622 | 5 | Sheila Burnham |
 | 623 | 5 | Logan Frost |
-| 624 | 5 | Andre Sanon |
+| 624 | 5 | the guy |
 
 ---
 *Standings created by tournaments datasource generation tool*
