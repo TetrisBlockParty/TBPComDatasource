@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 22:08:38 UTC
+# Standings for team2 as of 2026-06-06 22:09:18 UTC
 
 **Total Participants:** 1403
 
@@ -239,9 +239,9 @@
 | 231 | 179 | Amy Taylor Pomerenk |
 | 232 | 177 | Jennifer McClure |
 | 233 | 177 | Xandrea Jones |
-| 234 | 176 | Glitzy Base |
-| 235 | 175 | Lashanda Bertram |
-| 236 | 175 | Jackie Tupper |
+| 234 | 177 | Jackie Tupper |
+| 235 | 176 | Glitzy Base |
+| 236 | 175 | Lashanda Bertram |
 | 237 | 174 | Olivia Jefferson |
 | 238 | 174 | Nettrainer |
 | 239 | 173 | Amie Marks |
