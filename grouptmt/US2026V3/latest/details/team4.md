@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 14:26:17 UTC
+# Standings for team4 as of 2026-06-06 14:26:39 UTC
 
 **Total Participants:** 1003
 
@@ -11,7 +11,7 @@
 | 3 | 5469 | Kait Confetti |
 | 4 | 4859 | Jerald Jones |
 | 5 | 4600 | Candice Driver |
-| 6 | 4291 | Lisa Cullum |
+| 6 | 4491 | Lisa Cullum |
 | 7 | 4259 | ktothet |
 | 8 | 4250 | Nia Mayfield |
 | 9 | 4126 | Anna Moses |
@@ -110,19 +110,19 @@
 | 102 | 235 | Hwanger Land |
 | 103 | 230 | Sisi RedVelvet Reneè |
 | 104 | 229 | Aisha Estrada |
-| 105 | 218 | Dubiousdust |
-| 106 | 217 | Slimm |
-| 107 | 212 | blockhead |
-| 108 | 211 | matt |
-| 109 | 210 | Scamp Jones |
-| 110 | 207 | Leigh Pierce |
-| 111 | 203 | Patrick Alley |
-| 112 | 202 | Nicole |
-| 113 | 201 | Renee Sapp |
-| 114 | 201 | Perky Riserbuilder |
-| 115 | 200 | Leah Gorsuch |
-| 116 | 200 | Esther Hadassah |
-| 117 | 200 | Silly Risegrid |
+| 105 | 220 | Silly Risegrid |
+| 106 | 218 | Dubiousdust |
+| 107 | 217 | Slimm |
+| 108 | 212 | blockhead |
+| 109 | 211 | matt |
+| 110 | 210 | Scamp Jones |
+| 111 | 207 | Leigh Pierce |
+| 112 | 203 | Patrick Alley |
+| 113 | 202 | Nicole |
+| 114 | 201 | Renee Sapp |
+| 115 | 201 | Perky Riserbuilder |
+| 116 | 200 | Leah Gorsuch |
+| 117 | 200 | Esther Hadassah |
 | 118 | 199 | Colin |
 | 119 | 195 | Sean Mccleary |
 | 120 | 194 | Lisa lisa |
@@ -891,19 +891,19 @@
 | 883 | 14 | Lashae |
 | 884 | 14 | G Money |
 | 885 | 14 | Kiaralis Ashley Hancock |
-| 886 | 13 | Jackie Russo-Edens |
-| 887 | 13 | Gma420 |
-| 888 | 13 | Christy Petty |
-| 889 | 13 | Jaison Horton |
-| 890 | 12 | Slinky Snapfit |
-| 891 | 12 | Peterson Cottontail |
-| 892 | 12 | Rebecca Renaud |
-| 893 | 12 | Tatiyana Hockett |
-| 894 | 12 | ESPERANTU |
-| 895 | 12 | Angela Correa |
-| 896 | 12 | Diqthot |
-| 897 | 12 | Scott Baum |
-| 898 | 12 | Martha Fisher |
+| 886 | 14 | Martha Fisher |
+| 887 | 13 | Jackie Russo-Edens |
+| 888 | 13 | Gma420 |
+| 889 | 13 | Christy Petty |
+| 890 | 13 | Jaison Horton |
+| 891 | 12 | Slinky Snapfit |
+| 892 | 12 | Peterson Cottontail |
+| 893 | 12 | Rebecca Renaud |
+| 894 | 12 | Tatiyana Hockett |
+| 895 | 12 | ESPERANTU |
+| 896 | 12 | Angela Correa |
+| 897 | 12 | Diqthot |
+| 898 | 12 | Scott Baum |
 | 899 | 12 | Jace McCullough |
 | 900 | 12 | Shelly Jackson |
 | 901 | 12 | McScrubby |
