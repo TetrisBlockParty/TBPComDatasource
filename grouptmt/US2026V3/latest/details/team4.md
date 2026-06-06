@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 22:44:17 UTC
+# Standings for team4 as of 2026-06-06 22:44:39 UTC
 
 **Total Participants:** 1183
 
@@ -641,66 +641,66 @@
 | 633 | 46 | Esmond Johnson IV |
 | 634 | 46 | Gerald Richard Franke |
 | 635 | 46 | Mike Artis |
-| 636 | 45 | EmBem |
-| 637 | 45 | Becky Bernazal |
-| 638 | 45 | Kimberly Devon |
-| 639 | 45 | Jennifer Terrill |
-| 640 | 45 | Jt Home |
-| 641 | 45 | BurnedCrab52 |
-| 642 | 45 | SueSally |
-| 643 | 45 | Gary Smallwood |
-| 644 | 45 | Stephanie Meinhart |
-| 645 | 45 | Joe Win |
-| 646 | 45 | Linda |
-| 647 | 44 | Epic Curver |
-| 648 | 44 | Kimmie Warren |
-| 649 | 44 | EJ Frazier |
-| 650 | 44 | Cauntay Youngking Williams |
-| 651 | 44 | Kelly Miller Williams |
-| 652 | 44 | Jen Roe |
-| 653 | 44 | jojo |
-| 654 | 44 | Kassey M. Clark |
-| 655 | 44 | Jazzy Rollout |
-| 656 | 44 | Rhonda Dowling |
-| 657 | 44 | pussface |
-| 658 | 44 | Dizzy |
-| 659 | 44 | Maegon Brazille |
-| 660 | 44 | SweetChaos |
-| 661 | 44 | Sarah Leake |
-| 662 | 43 | Sweetfire |
-| 663 | 43 | Jeremy Barry |
-| 664 | 43 | Ben Figueroa |
+| 636 | 45 | Jt Home |
+| 637 | 45 | Stephanie Meinhart |
+| 638 | 45 | Linda |
+| 639 | 45 | BurnedCrab52 |
+| 640 | 45 | Kimberly Devon |
+| 641 | 45 | Becky Bernazal |
+| 642 | 45 | Jennifer Terrill |
+| 643 | 45 | SueSally |
+| 644 | 45 | EmBem |
+| 645 | 45 | Gary Smallwood |
+| 646 | 45 | Joe Win |
+| 647 | 44 | Jazzy Rollout |
+| 648 | 44 | Kassey M. Clark |
+| 649 | 44 | jojo |
+| 650 | 44 | Kelly Miller Williams |
+| 651 | 44 | Cauntay Youngking Williams |
+| 652 | 44 | Epic Curver |
+| 653 | 44 | Kimmie Warren |
+| 654 | 44 | Rhonda Dowling |
+| 655 | 44 | Jen Roe |
+| 656 | 44 | EJ Frazier |
+| 657 | 44 | Angelo L Casillas |
+| 658 | 44 | pussface |
+| 659 | 44 | Dizzy |
+| 660 | 44 | Maegon Brazille |
+| 661 | 44 | SweetChaos |
+| 662 | 44 | Sarah Leake |
+| 663 | 43 | Snippy Splitter |
+| 664 | 43 | Sweetfire |
 | 665 | 43 | Tactical_B |
-| 666 | 43 | Jeni |
-| 667 | 43 | Purple Queen |
-| 668 | 43 | Heidi Lyn Ramirez |
-| 669 | 42 | Miranda Brown |
-| 670 | 42 | Breezy Wife |
-| 671 | 42 | Stacy Brown |
-| 672 | 42 | ShaniP |
-| 673 | 42 | Abby Waterman |
-| 674 | 42 | Cail |
-| 675 | 42 | Snappy Patternfall |
-| 676 | 42 | Tammy Wells |
-| 677 | 42 | Danielle Porter |
-| 678 | 42 | h_chloe10 |
-| 679 | 42 | MrsAddams724 |
-| 680 | 41 | Rebekah Anne Macias |
-| 681 | 41 | Lord Solrac |
-| 682 | 41 | Snippy Splitter |
+| 666 | 43 | Ben Figueroa |
+| 667 | 43 | Jeni |
+| 668 | 43 | Purple Queen |
+| 669 | 43 | Jeremy Barry |
+| 670 | 43 | Heidi Lyn Ramirez |
+| 671 | 42 | Miranda Brown |
+| 672 | 42 | Stacy Brown |
+| 673 | 42 | ShaniP |
+| 674 | 42 | Abby Waterman |
+| 675 | 42 | Cail |
+| 676 | 42 | MrsAddams724 |
+| 677 | 42 | h_chloe10 |
+| 678 | 42 | Danielle Porter |
+| 679 | 42 | Tammy Wells |
+| 680 | 42 | Snappy Patternfall |
+| 681 | 42 | Breezy Wife |
+| 682 | 41 | Lord Solrac |
 | 683 | 41 | Jace McCullough |
-| 684 | 40 | Lanelva Tiredofbs Marshall |
-| 685 | 40 | Debby Muniz |
-| 686 | 40 | Chris Somsen |
-| 687 | 40 | Jay Dee |
-| 688 | 40 | Mexican130 |
-| 689 | 40 | Angelo L Casillas |
+| 684 | 41 | Rebekah Anne Macias |
+| 685 | 40 | Wayne Mire |
+| 686 | 40 | Lacie Powers |
+| 687 | 40 | Heather Griffin |
+| 688 | 40 | Steven Patshy |
+| 689 | 40 | Snappy Glidebuilder |
 | 690 | 40 | Brooke Bauer |
-| 691 | 40 | Heather Griffin |
-| 692 | 40 | Lacie Powers |
-| 693 | 40 | Wayne Mire |
-| 694 | 40 | Snappy Glidebuilder |
-| 695 | 40 | Steven Patshy |
+| 691 | 40 | Mexican130 |
+| 692 | 40 | Jay Dee |
+| 693 | 40 | Chris Somsen |
+| 694 | 40 | Debby Muniz |
+| 695 | 40 | Lanelva Tiredofbs Marshall |
 | 696 | 40 | CIRAZYPNOY |
 | 697 | 40 | Kena T. Tanner |
 | 698 | 40 | Bumpy Morris |
