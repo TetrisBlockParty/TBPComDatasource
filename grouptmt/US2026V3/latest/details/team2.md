@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-06 19:02:17 UTC
+# Standings for team2 as of 2026-06-06 19:02:42 UTC
 
-**Total Participants:** 1326
+**Total Participants:** 1327
 
 ## Participant Scores
 
@@ -110,7 +110,7 @@
 | 102 | 436 | Kaycie Shaffer |
 | 103 | 433 | Kimberly Cowan |
 | 104 | 430 | Amanda Sikes |
-| 105 | 408 | Marquetta Johnson |
+| 105 | 426 | Marquetta Johnson |
 | 106 | 405 | Judy Long |
 | 107 | 402 | Lisa Breiding |
 | 108 | 402 | Steven Craig |
@@ -120,19 +120,19 @@
 | 112 | 368 | MaddieCherie |
 | 113 | 365 | Branden Frankowski |
 | 114 | 357 | Crystal Allen |
-| 115 | 348 | Eric Drane |
-| 116 | 347 | Zesty Strikerbuilder |
-| 117 | 342 | Bri St Peter |
-| 118 | 340 | Mom |
-| 119 | 340 | Le Sandy |
-| 120 | 336 | snowwol |
+| 115 | 356 | snowwol |
+| 116 | 348 | Eric Drane |
+| 117 | 347 | Zesty Strikerbuilder |
+| 118 | 342 | Bri St Peter |
+| 119 | 340 | Mom |
+| 120 | 340 | Le Sandy |
 | 121 | 328 | Tim Tim |
 | 122 | 325 | Amy Gregg |
 | 123 | 324 | Jgato |
 | 124 | 320 | Joni Michelle Morgan |
-| 125 | 319 | Shannon Wilson |
+| 125 | 319 | Michelle Rich Burkhart |
 | 126 | 319 | Bon Lynn |
-| 127 | 319 | Michelle Rich Burkhart |
+| 127 | 319 | Shannon Wilson |
 | 128 | 317 | Ruby Sandberg |
 | 129 | 315 | Milad Arzani |
 | 130 | 313 | Cool Climber |
@@ -1243,22 +1243,22 @@
 | 1235 | 10 | Bold Blockline |
 | 1236 | 9 | Gigi |
 | 1237 | 9 | Jeff Mullins |
-| 1238 | 9 | Lively Shatter |
-| 1239 | 9 | Cheery Striker |
-| 1240 | 9 | Sami Amato |
+| 1238 | 9 | Sami Amato |
+| 1239 | 9 | Lively Shatter |
+| 1240 | 9 | Cheery Striker |
 | 1241 | 9 | Phyllis DiCristo |
 | 1242 | 9 | Giggly Spinblock |
-| 1243 | 9 | Latrell Thomas |
-| 1244 | 9 | Tabitha Porter |
+| 1243 | 9 | Tabitha Porter |
+| 1244 | 9 | Latrell Thomas |
 | 1245 | 9 | Erica |
-| 1246 | 9 | April Wright |
-| 1247 | 9 | Bethany Gerber |
+| 1246 | 9 | Bethany Gerber |
+| 1247 | 9 | April Wright |
 | 1248 | 9 | Kylee Pruitt |
 | 1249 | 9 | Glowing Earthy Embers |
-| 1250 | 9 | Holly |
-| 1251 | 9 | Lindsey Butler |
-| 1252 | 9 | Frothy Cascader |
-| 1253 | 9 | Snazzy Cascadezone |
+| 1250 | 9 | Snazzy Cascadezone |
+| 1251 | 9 | Holly |
+| 1252 | 9 | Lindsey Butler |
+| 1253 | 9 | Frothy Cascader |
 | 1254 | 9 | Carlee Becher |
 | 1255 | 9 | Terri Ramsey |
 | 1256 | 8 | Chill Wipegrid |
@@ -1268,70 +1268,71 @@
 | 1260 | 8 | Zippy Balance |
 | 1261 | 8 | Jackie Hayslip |
 | 1262 | 8 | Kennadee Albertson |
-| 1263 | 8 | Beth Engberg |
-| 1264 | 8 | Jumpy Twistslam |
-| 1265 | 8 | Angela Oates-Killebrew |
-| 1266 | 8 | SueEllen Hawkins |
-| 1267 | 8 | Crystal Alexander |
+| 1263 | 8 | TaLana Ortley |
+| 1264 | 8 | Beth Engberg |
+| 1265 | 8 | Jumpy Twistslam |
+| 1266 | 8 | Vicke Patterson |
+| 1267 | 8 | SueEllen Hawkins |
 | 1268 | 8 | murd3rmous3 |
-| 1269 | 8 | Sarah Elizabeth Foret |
-| 1270 | 8 | Loony Ziggy |
-| 1271 | 8 | Jenna Thorn |
-| 1272 | 8 | Vicke Patterson |
-| 1273 | 7 | Mighty Piecebuilder |
-| 1274 | 7 | Elizabeth Elaine Coursey |
+| 1269 | 8 | Crystal Alexander |
+| 1270 | 8 | Sarah Elizabeth Foret |
+| 1271 | 8 | Angela Oates-Killebrew |
+| 1272 | 8 | Loony Ziggy |
+| 1273 | 8 | Jenna Thorn |
+| 1274 | 7 | Mighty Piecebuilder |
 | 1275 | 7 | michael |
-| 1276 | 7 | Collins |
+| 1276 | 7 | Elizabeth Elaine Coursey |
 | 1277 | 7 | Liz Wilkerson |
 | 1278 | 7 | Flashy Cascadeclear |
 | 1279 | 7 | Rochelle O'Loughlin |
 | 1280 | 7 | Mike Honcho |
 | 1281 | 7 | Shaun Talbot |
-| 1282 | 7 | StacyK |
-| 1283 | 7 | Janice Simpson |
-| 1284 | 7 | Beth |
+| 1282 | 7 | Collins |
+| 1283 | 7 | StacyK |
+| 1284 | 7 | Janice Simpson |
 | 1285 | 7 | Brenda Ohaus Facher |
-| 1286 | 7 | Shane Peavey |
-| 1287 | 7 | Holly Riley |
-| 1288 | 7 | Nicole Slimick |
-| 1289 | 7 | sampson |
-| 1290 | 7 | Aguilar Rita |
-| 1291 | 7 | Sasha Hamilton |
-| 1292 | 7 | Sam Blinn |
-| 1293 | 7 | Kacey Lindemuth |
-| 1294 | 7 | Crystal King |
-| 1295 | 6 | Alicia Abston |
-| 1296 | 6 | Cara Douglas |
-| 1297 | 6 | Giggy Dropzone |
-| 1298 | 6 | Bunny Bt |
-| 1299 | 6 | Criccett Hooper-Smith |
-| 1300 | 6 | Snappy Fitblock |
-| 1301 | 6 | Celeste Samuels |
-| 1302 | 6 | Lavenda Nettles |
-| 1303 | 6 | Jager |
-| 1304 | 6 | Bowling girl |
-| 1305 | 6 | Michelle Brown |
-| 1306 | 6 | Cheeky Dashpiece |
-| 1307 | 6 | Lou Sassole |
-| 1308 | 6 | Jessie |
-| 1309 | 6 | Cozy Curve |
-| 1310 | 6 | Amanda Knox |
-| 1311 | 5 | Brittany Weatherspoon |
-| 1312 | 5 | Agnes Gable |
-| 1313 | 5 | Dapper Clearpiece |
-| 1314 | 5 | Nikki |
-| 1315 | 5 | Crystal Poss |
-| 1316 | 5 | Danh Nguyen |
-| 1317 | 5 | Snappy Zonepiece |
-| 1318 | 5 | Alisha Shelton |
-| 1319 | 5 | Jon Torres |
-| 1320 | 5 | Michelle |
-| 1321 | 5 | Jennifer Roper Stanley |
-| 1322 | 5 | Mercedes Lowery |
-| 1323 | 5 | Jennifer Mauler Schmidt |
-| 1324 | 5 | Chirpy Towerer |
-| 1325 | 5 | Nolife |
-| 1326 | 5 | Flynn Flibble |
+| 1286 | 7 | Beth |
+| 1287 | 7 | Shane Peavey |
+| 1288 | 7 | Holly Riley |
+| 1289 | 7 | Nicole Slimick |
+| 1290 | 7 | sampson |
+| 1291 | 7 | Aguilar Rita |
+| 1292 | 7 | Crystal King |
+| 1293 | 7 | Sasha Hamilton |
+| 1294 | 7 | Sam Blinn |
+| 1295 | 7 | Kacey Lindemuth |
+| 1296 | 6 | Alicia Abston |
+| 1297 | 6 | Cara Douglas |
+| 1298 | 6 | Giggy Dropzone |
+| 1299 | 6 | Bunny Bt |
+| 1300 | 6 | Criccett Hooper-Smith |
+| 1301 | 6 | Snappy Fitblock |
+| 1302 | 6 | Celeste Samuels |
+| 1303 | 6 | Lavenda Nettles |
+| 1304 | 6 | Jager |
+| 1305 | 6 | Bowling girl |
+| 1306 | 6 | Michelle Brown |
+| 1307 | 6 | Cheeky Dashpiece |
+| 1308 | 6 | Lou Sassole |
+| 1309 | 6 | Jessie |
+| 1310 | 6 | Cozy Curve |
+| 1311 | 6 | Amanda Knox |
+| 1312 | 5 | Brittany Weatherspoon |
+| 1313 | 5 | Agnes Gable |
+| 1314 | 5 | Dapper Clearpiece |
+| 1315 | 5 | Nikki |
+| 1316 | 5 | Crystal Poss |
+| 1317 | 5 | Danh Nguyen |
+| 1318 | 5 | Snappy Zonepiece |
+| 1319 | 5 | Alisha Shelton |
+| 1320 | 5 | Jon Torres |
+| 1321 | 5 | Michelle |
+| 1322 | 5 | Jennifer Roper Stanley |
+| 1323 | 5 | Mercedes Lowery |
+| 1324 | 5 | Jennifer Mauler Schmidt |
+| 1325 | 5 | Chirpy Towerer |
+| 1326 | 5 | Nolife |
+| 1327 | 5 | Flynn Flibble |
 
 ---
 *Standings created by tournaments datasource generation tool*

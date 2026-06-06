@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 19:02:17 UTC
+# Standings for team1 as of 2026-06-06 19:02:42 UTC
 
 **Total Participants:** 1120
 
@@ -180,21 +180,21 @@
 | 172 | 188 | Sharon Cail |
 | 173 | 185 | Rayshawn Cohen |
 | 174 | 184 | Dai Bo |
-| 175 | 184 | Robbie Cheeseman |
-| 176 | 184 | Frisky Fall |
+| 175 | 184 | Frisky Fall |
+| 176 | 184 | Robbie Cheeseman |
 | 177 | 182 | Hyper Blocky |
-| 178 | 179 | ♈️ Ariesbaby |
-| 179 | 179 | Amber Wilson |
+| 178 | 179 | Amber Wilson |
+| 179 | 179 | ♈️ Ariesbaby |
 | 180 | 178 | Jazzy Fireflighters |
-| 181 | 176 | Nikki Hogan |
-| 182 | 176 | Anthony Washington |
+| 181 | 176 | Anthony Washington |
+| 182 | 176 | Nikki Hogan |
 | 183 | 172 | Marcheta Cervantez |
 | 184 | 172 | pooh |
 | 185 | 171 | Boldy Liner |
 | 186 | 169 | Christina Rebecca |
 | 187 | 169 | Asha Langford |
-| 188 | 168 | IThinkNot |
-| 189 | 168 | Tina Mitchell |
+| 188 | 168 | Tina Mitchell |
+| 189 | 168 | IThinkNot |
 | 190 | 166 | Tarnisha Neicy Jones |
 | 191 | 165 | Queenie Perry |
 | 192 | 163 | Chilly Wipebuilder |
@@ -207,25 +207,25 @@
 | 199 | 160 | Sara Meri |
 | 200 | 160 | Zippy Lifter |
 | 201 | 159 | Fina McKinnis |
-| 202 | 157 | Kimberly Linares Hernandez |
-| 203 | 156 | Jessica Russell |
-| 204 | 156 | Cheeky Pop |
-| 205 | 155 | Ebony Waynes-robinson |
+| 202 | 158 | Ebony Waynes-robinson |
+| 203 | 157 | Kimberly Linares Hernandez |
+| 204 | 156 | Jessica Russell |
+| 205 | 156 | Cheeky Pop |
 | 206 | 153 | Rackemwillie34 |
 | 207 | 152 | Jolly Tilefall |
-| 208 | 149 | Mikayla |
-| 209 | 149 | Lively Riserpiece |
-| 210 | 147 | MACHETEEDDIE513 |
-| 211 | 147 | Sammie Walker |
-| 212 | 147 | NastyFriend |
-| 213 | 147 | Melissa D. M. Hornsby |
-| 214 | 146 | BlackQueen105 |
+| 208 | 149 | Lively Riserpiece |
+| 209 | 149 | Mikayla |
+| 210 | 147 | Melissa D. M. Hornsby |
+| 211 | 147 | NastyFriend |
+| 212 | 147 | Sammie Walker |
+| 213 | 147 | MACHETEEDDIE513 |
+| 214 | 146 | Keke Ferguson |
 | 215 | 146 | Stephen Providenti |
-| 216 | 146 | MommaCia |
-| 217 | 146 | Keke Ferguson |
+| 216 | 146 | BlackQueen105 |
+| 217 | 146 | MommaCia |
 | 218 | 145 | Latisha Fairley |
-| 219 | 144 | Cheeky Twistpiece |
-| 220 | 144 | TBABYJ |
+| 219 | 144 | TBABYJ |
+| 220 | 144 | Cheeky Twistpiece |
 | 221 | 143 | BULLSEYE |
 | 222 | 142 | Byron Mario Cawthon |
 | 223 | 141 | Shalena Marie Humphrey |
@@ -365,40 +365,40 @@
 | 357 | 80 | Latore Maxie |
 | 358 | 80 | NedaWin |
 | 359 | 80 | Natalie Burroughs |
-| 360 | 79 | Montréal Mars |
+| 360 | 79 | CJ Robinson |
 | 361 | 79 | Loopy Tiler |
 | 362 | 79 | Douglas Price |
-| 363 | 79 | CJ Robinson |
-| 364 | 79 | Tracy Feyler |
+| 363 | 79 | Tracy Feyler |
+| 364 | 79 | Montréal Mars |
 | 365 | 79 | Brand Nu |
-| 366 | 78 | Shameka Tiffany |
-| 367 | 78 | KeeKee Williams |
-| 368 | 76 | Jackytrain52 |
-| 369 | 76 | Donna Payne |
-| 370 | 76 | Cm |
+| 366 | 78 | KeeKee Williams |
+| 367 | 78 | Shameka Tiffany |
+| 368 | 78 | Steve Reno |
+| 369 | 76 | Jackytrain52 |
+| 370 | 76 | Donna Payne |
 | 371 | 76 | Jennah |
-| 372 | 76 | Jelyfish |
-| 373 | 76 | Rene Hicks |
-| 374 | 76 | Giggly Shatterline |
-| 375 | 75 | Courtney Robinson |
-| 376 | 75 | Mary Phillippi Blanton |
-| 377 | 75 | BabyCakes |
+| 372 | 76 | Cm |
+| 373 | 76 | Jelyfish |
+| 374 | 76 | Rene Hicks |
+| 375 | 76 | Giggly Shatterline |
+| 376 | 75 | Courtney Robinson |
+| 377 | 75 | Mary Phillippi Blanton |
 | 378 | 75 | Kimberly Noble |
 | 379 | 75 | Jayjay Rich |
-| 380 | 74 | Tyiesha Pie Farmer |
+| 380 | 75 | BabyCakes |
 | 381 | 74 | Shanaa Germany Crittenden |
-| 382 | 74 | Amy Lynn Leifheit |
-| 383 | 74 | Sonia Binti Mfalme |
-| 384 | 74 | Steve Reno |
-| 385 | 74 | Tetrisdestroyer |
+| 382 | 74 | Tyiesha Pie Farmer |
+| 383 | 74 | Tetrisdestroyer |
+| 384 | 74 | Sonia Binti Mfalme |
+| 385 | 74 | Amy Lynn Leifheit |
 | 386 | 73 | Angelique Talbot |
-| 387 | 72 | Poppy Twister |
-| 388 | 72 | Rachel Renae Bettis |
+| 387 | 72 | Zany Breaker |
+| 388 | 72 | Poppy Twister |
 | 389 | 72 | Lauraly |
-| 390 | 72 | Zany Breaker |
+| 390 | 72 | Rachel Renae Bettis |
 | 391 | 72 | Comedian Gdane |
-| 392 | 71 | Elaine Pauley |
-| 393 | 71 | Tori Carter |
+| 392 | 71 | Tori Carter |
+| 393 | 71 | Elaine Pauley |
 | 394 | 71 | Erin Sabol |
 | 395 | 71 | HBTone |
 | 396 | 71 | Abigail Newman Sweet |
