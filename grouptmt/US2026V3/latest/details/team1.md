@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 08:14:16 UTC
+# Standings for team1 as of 2026-06-06 08:14:40 UTC
 
 **Total Participants:** 924
 
@@ -738,32 +738,32 @@
 | 730 | 17 | MrsDontPlay |
 | 731 | 17 | Vivian Bunnell Myers |
 | 732 | 17 | Jb Mzresilience |
-| 733 | 17 | Embracing Hair |
-| 734 | 17 | Rikki Moran |
-| 735 | 17 | Andre Rivera |
-| 736 | 17 | Solomon Valarie |
-| 737 | 16 | Twisty Dashy |
-| 738 | 16 | Sha Anderson |
+| 733 | 17 | BP Phillips |
+| 734 | 17 | Embracing Hair |
+| 735 | 17 | Rikki Moran |
+| 736 | 17 | Andre Rivera |
+| 737 | 17 | Solomon Valarie |
+| 738 | 16 | Twisty Dashy |
 | 739 | 16 | Dee-Dee Stewart |
 | 740 | 16 | Krista McNair |
-| 741 | 16 | Stacey Kesteloot |
-| 742 | 16 | Sunny Tumbler |
-| 743 | 16 | Symonne 'Monnie' Pierce |
-| 744 | 16 | Tammy Collins |
-| 745 | 15 | Laura Long |
-| 746 | 15 | Breezy Bouncer |
-| 747 | 15 | Victor |
-| 748 | 15 | MonaSparks |
-| 749 | 15 | b |
-| 750 | 15 | Shamara Thurston |
-| 751 | 15 | LaToya Chambers |
-| 752 | 15 | Nicole Freeman |
-| 753 | 15 | BP Phillips |
+| 741 | 16 | Sha Anderson |
+| 742 | 16 | Stacey Kesteloot |
+| 743 | 16 | Sunny Tumbler |
+| 744 | 16 | Symonne 'Monnie' Pierce |
+| 745 | 16 | Tammy Collins |
+| 746 | 15 | Laura Long |
+| 747 | 15 | Breezy Bouncer |
+| 748 | 15 | Victor |
+| 749 | 15 | MonaSparks |
+| 750 | 15 | b |
+| 751 | 15 | Shamara Thurston |
+| 752 | 15 | LaToya Chambers |
+| 753 | 15 | Nicole Freeman |
 | 754 | 15 | Lit757 |
-| 755 | 15 | Chasem45 |
-| 756 | 15 | Bri Lou |
-| 757 | 15 | Bold Spinblock |
-| 758 | 15 | Haley Bell |
+| 755 | 15 | Haley Bell |
+| 756 | 15 | Chasem45 |
+| 757 | 15 | Bri Lou |
+| 758 | 15 | Bold Spinblock |
 | 759 | 15 | Motown Chuck |
 | 760 | 15 | Dede Tate |
 | 761 | 15 | Elaine Youmans |
