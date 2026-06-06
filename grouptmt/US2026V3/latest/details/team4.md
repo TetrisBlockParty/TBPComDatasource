@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 19:26:17 UTC
+# Standings for team4 as of 2026-06-06 19:26:39 UTC
 
 **Total Participants:** 1119
 
@@ -94,8 +94,8 @@
 | 86 | 381 | Cranky Towerbuilder |
 | 87 | 378 | Lisa Garcia |
 | 88 | 376 | Jason Garnatz |
-| 89 | 373 | Tanita Jobe |
-| 90 | 373 | Boldy Rumbler |
+| 89 | 373 | Boldy Rumbler |
+| 90 | 373 | Tanita Jobe |
 | 91 | 370 | Dandy Clearfit |
 | 92 | 360 | Gigglycat |
 | 93 | 353 | Hen |
@@ -108,12 +108,12 @@
 | 100 | 332 | RotatedWrongAgain |
 | 101 | 326 | Cherry |
 | 102 | 320 | DexterDobbins |
-| 103 | 317 | Annastaissia Todd |
-| 104 | 317 | J |
+| 103 | 317 | J |
+| 104 | 317 | Annastaissia Todd |
 | 105 | 302 | JoLinda Dunn |
-| 106 | 300 | Hasty Builder |
-| 107 | 300 | 2 kool |
-| 108 | 300 | Genag |
+| 106 | 300 | 2 kool |
+| 107 | 300 | Genag |
+| 108 | 300 | Hasty Builder |
 | 109 | 299 | Kim |
 | 110 | 295 | Thomasena Eady Reid |
 | 111 | 294 | Jesse Olive |
@@ -124,9 +124,9 @@
 | 116 | 259 | Jessica Peyton |
 | 117 | 258 | Gorica Prusina |
 | 118 | 257 | Sarah Berry Stevens |
-| 119 | 253 | Hairy Snake |
-| 120 | 253 | Debby Ruof |
-| 121 | 253 | Danielle Mitchell |
+| 119 | 253 | Danielle Mitchell |
+| 120 | 253 | Hairy Snake |
+| 121 | 253 | Debby Ruof |
 | 122 | 245 | QueenLi86 |
 | 123 | 235 | Hwanger Land |
 | 124 | 233 | Sisi RedVelvet Reneè |

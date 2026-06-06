@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 19:26:17 UTC
+# Standings for team2 as of 2026-06-06 19:26:39 UTC
 
 **Total Participants:** 1336
 
@@ -138,10 +138,10 @@
 | 130 | 313 | Cool Climber |
 | 131 | 311 | Nikki Hayes |
 | 132 | 310 | Jennifer Smith |
-| 133 | 302 | Hypee |
-| 134 | 300 | Linda Guay |
-| 135 | 298 | Breeana Bennett |
-| 136 | 298 | Zarah Kettler |
+| 133 | 303 | Zarah Kettler |
+| 134 | 302 | Hypee |
+| 135 | 300 | Linda Guay |
+| 136 | 298 | Breeana Bennett |
 | 137 | 298 | Suki Jacobs |
 | 138 | 294 | Vistabrat |
 | 139 | 293 | Snappy Combo |
@@ -717,82 +717,82 @@
 | 709 | 45 | Loopy Zone |
 | 710 | 45 | Bouncy Cluster |
 | 711 | 44 | Michael James |
-| 712 | 44 | Robert W Schwartz |
+| 712 | 44 | Jackie Moran Tiller |
 | 713 | 44 | Katie Boen |
-| 714 | 44 | Jackie Moran Tiller |
-| 715 | 43 | Jolly Twisterfit |
-| 716 | 43 | Peter Fogg |
-| 717 | 43 | Kayla Faulkiner |
-| 718 | 43 | Newtwidebody |
-| 719 | 43 | Perky Linebuilder |
-| 720 | 43 | Flashy Hitter |
-| 721 | 43 | Suzanne Davis |
-| 722 | 43 | Kourtney Heiden-Hudson |
-| 723 | 43 | WhitS |
-| 724 | 43 | Witty Riser |
-| 725 | 42 | murd3rmous3 |
-| 726 | 42 | Pamela Raye |
-| 727 | 42 | Mee Maw |
-| 728 | 42 | Aubrey Gates |
-| 729 | 42 | Jazzy |
-| 730 | 42 | Brian Favre |
-| 731 | 42 | Melissa Pronovost |
-| 732 | 42 | Shylo Bryant-Brunson |
-| 733 | 42 | Michael Saunders |
-| 734 | 42 | Henny Henny |
-| 735 | 42 | Snazzy Smasher |
-| 736 | 42 | y |
-| 737 | 41 | Baby |
-| 738 | 41 | Jolene Hull Hearn |
-| 739 | 41 | Witty Brickster |
-| 740 | 41 | Jenny Coffer |
-| 741 | 41 | Cranky Brickzone |
-| 742 | 41 | KS Hengesbach |
-| 743 | 41 | AndrewandShela Gornik |
-| 744 | 41 | Clever Gridzone |
-| 745 | 41 | Kodi Gay |
-| 746 | 41 | Meagan Thompson |
-| 747 | 41 | Silly Swiper |
-| 748 | 41 | Tracey Cox |
-| 749 | 40 | Marilyn Strickland |
-| 750 | 40 | Kristy Moore |
-| 751 | 40 | Elicia Lloyd-Zazweta |
-| 752 | 40 | Justtony Fareal |
-| 753 | 40 | Courtney Ribas |
-| 754 | 40 | Evelyn Olive Kalmbach |
-| 755 | 40 | Ariya Colson |
-| 756 | 40 | Sharilyn Jackson |
-| 757 | 40 | shell |
-| 758 | 40 | Helen Townsend |
-| 759 | 40 | fancypants |
-| 760 | 40 | Doowop40 |
-| 761 | 40 | Momi Kamohai |
-| 762 | 40 | Spicy Balanceblock |
-| 763 | 40 | Brandi Williams |
-| 764 | 40 | Shay Lynn King |
-| 765 | 40 | Val |
-| 766 | 40 | Missy Stevens |
-| 767 | 40 | Nicole Chestnut |
+| 714 | 44 | Robert W Schwartz |
+| 715 | 43 | Suzanne Davis |
+| 716 | 43 | Kourtney Heiden-Hudson |
+| 717 | 43 | Flashy Hitter |
+| 718 | 43 | WhitS |
+| 719 | 43 | Newtwidebody |
+| 720 | 43 | Kayla Faulkiner |
+| 721 | 43 | Perky Linebuilder |
+| 722 | 43 | Peter Fogg |
+| 723 | 43 | Witty Riser |
+| 724 | 43 | Jolly Twisterfit |
+| 725 | 42 | Brian Favre |
+| 726 | 42 | Melissa Pronovost |
+| 727 | 42 | Michael Saunders |
+| 728 | 42 | Snazzy Smasher |
+| 729 | 42 | Henny Henny |
+| 730 | 42 | y |
+| 731 | 42 | murd3rmous3 |
+| 732 | 42 | Aubrey Gates |
+| 733 | 42 | Mee Maw |
+| 734 | 42 | Pamela Raye |
+| 735 | 42 | Shylo Bryant-Brunson |
+| 736 | 42 | Jazzy |
+| 737 | 41 | Silly Swiper |
+| 738 | 41 | Cranky Brickzone |
+| 739 | 41 | KS Hengesbach |
+| 740 | 41 | Witty Brickster |
+| 741 | 41 | Meagan Thompson |
+| 742 | 41 | Kodi Gay |
+| 743 | 41 | Baby |
+| 744 | 41 | Tracey Cox |
+| 745 | 41 | AndrewandShela Gornik |
+| 746 | 41 | Jenny Coffer |
+| 747 | 41 | Clever Gridzone |
+| 748 | 41 | Jolene Hull Hearn |
+| 749 | 40 | Justtony Fareal |
+| 750 | 40 | Nicole Chestnut |
+| 751 | 40 | Courtney Ribas |
+| 752 | 40 | Sharilyn Jackson |
+| 753 | 40 | Elicia Lloyd-Zazweta |
+| 754 | 40 | Marilyn Strickland |
+| 755 | 40 | shell |
+| 756 | 40 | Kristy Moore |
+| 757 | 40 | Ariya Colson |
+| 758 | 40 | Evelyn Olive Kalmbach |
+| 759 | 40 | Pamela Gambrell |
+| 760 | 40 | Shay Lynn King |
+| 761 | 40 | fancypants |
+| 762 | 40 | Momi Kamohai |
+| 763 | 40 | Missy Stevens |
+| 764 | 40 | Spicy Balanceblock |
+| 765 | 40 | Brandi Williams |
+| 766 | 40 | Princess Cucumber |
+| 767 | 40 | Val |
 | 768 | 40 | Ashley Bennett |
-| 769 | 40 | Princess Cucumber |
-| 770 | 40 | Ahada Seber |
-| 771 | 39 | Slinky Glidezone |
-| 772 | 39 | Amanda Bailey |
-| 773 | 39 | Sara Karels |
-| 774 | 39 | Vicki Flippo |
-| 775 | 39 | Tim Moore |
-| 776 | 39 | Samantha Brown |
-| 777 | 39 | Shiny Matchpiece |
-| 778 | 39 | Kay Newcomb |
-| 779 | 39 | KCBlocker |
+| 769 | 40 | Doowop40 |
+| 770 | 40 | Helen Townsend |
+| 771 | 40 | Ahada Seber |
+| 772 | 39 | Alexis Meyers |
+| 773 | 39 | Tim Moore |
+| 774 | 39 | Amanda Bailey |
+| 775 | 39 | KCBlocker |
+| 776 | 39 | Rae |
+| 777 | 39 | Giddy Chiseler |
+| 778 | 39 | Slinky Glidezone |
+| 779 | 39 | Kay Newcomb |
 | 780 | 39 | Lydia Shonee |
-| 781 | 39 | Alexis Meyers |
-| 782 | 39 | Rae |
-| 783 | 39 | Giddy Chiseler |
-| 784 | 38 | Lisa Chapman |
-| 785 | 38 | Elise Marie Mireles |
-| 786 | 38 | Perky Patternbuilder |
-| 787 | 38 | Pamela Gambrell |
+| 781 | 39 | Shiny Matchpiece |
+| 782 | 39 | Samantha Brown |
+| 783 | 39 | Vicki Flippo |
+| 784 | 39 | Sara Karels |
+| 785 | 38 | Perky Patternbuilder |
+| 786 | 38 | Lisa Chapman |
+| 787 | 38 | Elise Marie Mireles |
 | 788 | 38 | Laura Anderson |
 | 789 | 38 | Epic Slice |
 | 790 | 37 | Suzee |

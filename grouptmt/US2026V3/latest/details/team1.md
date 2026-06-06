@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 19:26:17 UTC
+# Standings for team1 as of 2026-06-06 19:26:39 UTC
 
 **Total Participants:** 1124
 
@@ -191,48 +191,48 @@
 | 183 | 178 | NastyFriend |
 | 184 | 176 | Nikki Hogan |
 | 185 | 176 | Anthony Washington |
-| 186 | 172 | Marcheta Cervantez |
-| 187 | 172 | pooh |
+| 186 | 172 | pooh |
+| 187 | 172 | Marcheta Cervantez |
 | 188 | 171 | Boldy Liner |
-| 189 | 169 | Asha Langford |
-| 190 | 169 | Christina Rebecca |
+| 189 | 169 | Christina Rebecca |
+| 190 | 169 | Asha Langford |
 | 191 | 168 | Tina Mitchell |
 | 192 | 168 | IThinkNot |
 | 193 | 166 | Tarnisha Neicy Jones |
 | 194 | 165 | Queenie Perry |
-| 195 | 163 | Chilly Wipebuilder |
-| 196 | 163 | Mafio SO |
-| 197 | 161 | Dawn L Washington-Feuquay |
-| 198 | 161 | Jai |
-| 199 | 160 | DaGuy |
-| 200 | 160 | Sara Meri |
-| 201 | 160 | Jamie Willis |
-| 202 | 160 | Carolyn Smith |
+| 195 | 163 | Mafio SO |
+| 196 | 163 | Chilly Wipebuilder |
+| 197 | 161 | Jai |
+| 198 | 161 | Dawn L Washington-Feuquay |
+| 199 | 160 | Carolyn Smith |
+| 200 | 160 | DaGuy |
+| 201 | 160 | Sara Meri |
+| 202 | 160 | Jamie Willis |
 | 203 | 160 | Zippy Lifter |
 | 204 | 159 | Fina McKinnis |
 | 205 | 159 | Byron Mario Cawthon |
 | 206 | 157 | Kimberly Linares Hernandez |
-| 207 | 156 | Jessica Russell |
+| 207 | 156 | Shameka Thrasher |
 | 208 | 156 | Cheeky Pop |
-| 209 | 153 | Rackemwillie34 |
-| 210 | 152 | Jolly Tilefall |
-| 211 | 152 | Cheeky Twistpiece |
-| 212 | 149 | Lively Riserpiece |
+| 209 | 156 | Jessica Russell |
+| 210 | 153 | Rackemwillie34 |
+| 211 | 152 | Jolly Tilefall |
+| 212 | 152 | Cheeky Twistpiece |
 | 213 | 149 | Mikayla |
-| 214 | 148 | JaClanDiah |
-| 215 | 147 | Melissa D. M. Hornsby |
-| 216 | 147 | Sammie Walker |
-| 217 | 147 | MACHETEEDDIE513 |
-| 218 | 146 | BlackQueen105 |
-| 219 | 146 | Stephen Providenti |
+| 214 | 149 | Lively Riserpiece |
+| 215 | 148 | JaClanDiah |
+| 216 | 147 | Melissa D. M. Hornsby |
+| 217 | 147 | Sammie Walker |
+| 218 | 147 | MACHETEEDDIE513 |
+| 219 | 146 | BlackQueen105 |
 | 220 | 146 | Keke Ferguson |
-| 221 | 145 | Latisha Fairley |
-| 222 | 144 | TBABYJ |
-| 223 | 143 | BULLSEYE |
-| 224 | 141 | Shalena Marie Humphrey |
-| 225 | 140 | Antoinette Jones |
-| 226 | 140 | Ann Chung |
-| 227 | 139 | Shameka Thrasher |
+| 221 | 146 | Stephen Providenti |
+| 222 | 145 | Latisha Fairley |
+| 223 | 144 | TBABYJ |
+| 224 | 143 | BULLSEYE |
+| 225 | 141 | Shalena Marie Humphrey |
+| 226 | 140 | Antoinette Jones |
+| 227 | 140 | Ann Chung |
 | 228 | 137 | Tay |
 | 229 | 136 | Penee Wiggins |
 | 230 | 135 | Sean White |
