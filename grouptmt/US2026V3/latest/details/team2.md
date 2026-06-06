@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 01:08:16 UTC
+# Standings for team2 as of 2026-06-06 01:08:39 UTC
 
 **Total Participants:** 744
 
@@ -299,8 +299,8 @@
 | 291 | 49 | Dayna Messer-Thelen |
 | 292 | 48 | Joannah Capilitan |
 | 293 | 48 | Funky Blockmatch |
-| 294 | 48 | Renee Siems |
-| 295 | 48 | Dizzy Dropzone |
+| 294 | 48 | Dizzy Dropzone |
+| 295 | 48 | Renee Siems |
 | 296 | 48 | Jeanna Mendez |
 | 297 | 48 | Wendy McKee |
 | 298 | 46 | Michelle Fry-Cash |
@@ -313,125 +313,125 @@
 | 305 | 45 | Jackie Walker |
 | 306 | 45 | Anthony Swift |
 | 307 | 45 | Stoney McMillion |
-| 308 | 45 | Madonna Ash |
-| 309 | 45 | Michelle Anne |
-| 310 | 44 | Jessica Connot |
-| 311 | 44 | Julibeth Wells |
+| 308 | 45 | Michelle Anne |
+| 309 | 45 | Madonna Ash |
+| 310 | 44 | Julibeth Wells |
+| 311 | 44 | Jessica Connot |
 | 312 | 44 | Zaniya Brown |
-| 313 | 43 | Michael Carmichael |
-| 314 | 43 | Amber Simonton |
-| 315 | 43 | Peter Fogg |
-| 316 | 43 | Jason Lamporte |
-| 317 | 42 | Snazzy Smasher |
-| 318 | 42 | Michael James |
-| 319 | 42 | Brittany Nichole Ellenburg |
-| 320 | 42 | Shylo Bryant-Brunson |
-| 321 | 42 | Pamela Raye |
-| 322 | 42 | Nutty Fitzone |
-| 323 | 42 | Bri St Peter |
-| 324 | 42 | Henny Henny |
-| 325 | 41 | Tracey Cox |
-| 326 | 41 | Tara |
-| 327 | 41 | Jenny Coffer |
-| 328 | 41 | Kodi Gay |
+| 313 | 43 | Amber Simonton |
+| 314 | 43 | Peter Fogg |
+| 315 | 43 | Jason Lamporte |
+| 316 | 43 | Epic Framezone |
+| 317 | 43 | Michael Carmichael |
+| 318 | 42 | Henny Henny |
+| 319 | 42 | Pamela Raye |
+| 320 | 42 | Bri St Peter |
+| 321 | 42 | Nutty Fitzone |
+| 322 | 42 | Brittany Nichole Ellenburg |
+| 323 | 42 | Shylo Bryant-Brunson |
+| 324 | 42 | Michael James |
+| 325 | 42 | Snazzy Smasher |
+| 326 | 41 | Kodi Gay |
+| 327 | 41 | Tara |
+| 328 | 41 | Tracey Cox |
 | 329 | 41 | Jennifer Lewellyn Hutchins |
-| 330 | 40 | Squared |
-| 331 | 40 | Shay Lynn King |
-| 332 | 40 | Nora Buchan |
-| 333 | 40 | Spicy Balanceblock |
-| 334 | 40 | Pam Bauder Ludwig |
-| 335 | 40 | Katie Jones |
-| 336 | 40 | Cathy Tippett |
+| 330 | 41 | Jenny Coffer |
+| 331 | 40 | Spicy Balanceblock |
+| 332 | 40 | Spicy Risegrid |
+| 333 | 40 | Squared |
+| 334 | 40 | Shay Lynn King |
+| 335 | 40 | Courtney McCulley |
+| 336 | 40 | Nora Buchan |
 | 337 | 40 | Courtney Ribas |
-| 338 | 40 | Justtony Fareal |
-| 339 | 40 | Kevin Mccoy |
+| 338 | 40 | Pam Bauder Ludwig |
+| 339 | 40 | Justtony Fareal |
 | 340 | 40 | Brandi Williams |
-| 341 | 40 | Courtney McCulley |
-| 342 | 40 | Sherry Ann |
-| 343 | 40 | Nicole Chestnut |
-| 344 | 40 | Epic Framezone |
-| 345 | 39 | Tamara Whiteley |
-| 346 | 39 | Samantha Brown |
-| 347 | 39 | Erin Lemanski |
-| 348 | 39 | AndyJo |
-| 349 | 39 | Twisty Matchfit |
-| 350 | 39 | Alexis Meyers |
-| 351 | 39 | Slinky Glidezone |
-| 352 | 38 | Jason P. Schwartz |
-| 353 | 37 | Joni Michelle Morgan |
-| 354 | 37 | Marilyn Strickland |
-| 355 | 37 | Jacquelyn Snyder Dumas |
-| 356 | 37 | Louis Brudzinski |
-| 357 | 36 | Deborah Lint Odom |
+| 341 | 40 | Kevin Mccoy |
+| 342 | 40 | Nicole Chestnut |
+| 343 | 40 | Cathy Tippett |
+| 344 | 40 | Sherry Ann |
+| 345 | 40 | Katie Jones |
+| 346 | 39 | Tamara Whiteley |
+| 347 | 39 | AndyJo |
+| 348 | 39 | Slinky Glidezone |
+| 349 | 39 | Alexis Meyers |
+| 350 | 39 | Erin Lemanski |
+| 351 | 39 | Samantha Brown |
+| 352 | 39 | Twisty Matchfit |
+| 353 | 38 | Jason P. Schwartz |
+| 354 | 37 | Louis Brudzinski |
+| 355 | 37 | Marilyn Strickland |
+| 356 | 37 | Jacquelyn Snyder Dumas |
+| 357 | 37 | Joni Michelle Morgan |
 | 358 | 36 | Charles E Mccardell |
-| 359 | 36 | Nikki Sadler |
-| 360 | 36 | Mtnblzr |
-| 361 | 36 | Heather Billodeau |
-| 362 | 36 | Joshua Dye |
-| 363 | 36 | Stacey Loretta Wallace |
-| 364 | 35 | Lively Curve |
-| 365 | 35 | Josie Mendivil |
-| 366 | 35 | Tonya Marino |
-| 367 | 35 | Natalie M. Arredondo |
-| 368 | 35 | Goldie |
-| 369 | 35 | Wendy Durrence Jones |
-| 370 | 35 | Isiwin |
-| 371 | 35 | Fancy Stacker |
-| 372 | 35 | Kelly |
-| 373 | 35 | Kawana Nesbitt |
-| 374 | 35 | Jessica LeNeave |
-| 375 | 35 | Thomas Johnstone |
-| 376 | 35 | Jgato |
-| 377 | 34 | Marylin Eacker |
-| 378 | 34 | Jennifer McCloskey Launder |
-| 379 | 34 | Spicy Risegrid |
+| 359 | 36 | Deborah Lint Odom |
+| 360 | 36 | Nikki Sadler |
+| 361 | 36 | Mtnblzr |
+| 362 | 36 | Heather Billodeau |
+| 363 | 36 | Joshua Dye |
+| 364 | 36 | Stacey Loretta Wallace |
+| 365 | 35 | Lively Curve |
+| 366 | 35 | Josie Mendivil |
+| 367 | 35 | Tonya Marino |
+| 368 | 35 | Natalie M. Arredondo |
+| 369 | 35 | Goldie |
+| 370 | 35 | Wendy Durrence Jones |
+| 371 | 35 | Kelly |
+| 372 | 35 | Isiwin |
+| 373 | 35 | Fancy Stacker |
+| 374 | 35 | Kawana Nesbitt |
+| 375 | 35 | Jessica LeNeave |
+| 376 | 35 | Thomas Johnstone |
+| 377 | 35 | Jgato |
+| 378 | 34 | Marylin Eacker |
+| 379 | 34 | Jennifer McCloskey Launder |
 | 380 | 34 | Buddy |
-| 381 | 33 | Sandy Rundel Holderman |
-| 382 | 33 | Kevin Patrick |
-| 383 | 33 | Linzy Ratliff |
-| 384 | 32 | Brandy Wallace |
-| 385 | 32 | Kristi Chestnut |
-| 386 | 31 | Sandy Lynn |
-| 387 | 31 | Cheery Towerzone |
-| 388 | 31 | Bubbly Strikerpiece |
-| 389 | 31 | Trinni Hansen |
-| 390 | 31 | Diamond Balotje |
-| 391 | 31 | IncrediDragon |
-| 392 | 30 | Starvinmarvin |
-| 393 | 30 | Rubics cube |
-| 394 | 30 | Brittany Kay |
-| 395 | 30 | Carlos J Blas |
+| 381 | 33 | Kevin Patrick |
+| 382 | 33 | Linzy Ratliff |
+| 383 | 33 | Sandy Rundel Holderman |
+| 384 | 32 | Kristi Chestnut |
+| 385 | 32 | Brandy Wallace |
+| 386 | 31 | Bubbly Strikerpiece |
+| 387 | 31 | Trinni Hansen |
+| 388 | 31 | Diamond Balotje |
+| 389 | 31 | IncrediDragon |
+| 390 | 31 | Cheery Towerzone |
+| 391 | 31 | Sandy Lynn |
+| 392 | 30 | Roger Kirksey |
+| 393 | 30 | Ashley Eneboe |
+| 394 | 30 | Rescuegirl76 |
+| 395 | 30 | PrissyPris |
 | 396 | 30 | Chirpy Combofall |
-| 397 | 30 | Abby Dexter |
-| 398 | 30 | Ashley Eneboe |
-| 399 | 30 | Roger Kirksey |
-| 400 | 30 | Rescuegirl76 |
-| 401 | 30 | PrissyPris |
-| 402 | 30 | Maria Ward |
-| 403 | 30 | Keri Mears |
-| 404 | 30 | phamous1 |
-| 405 | 30 | Boldy Fitclear |
-| 406 | 30 | Sandy Justus |
-| 407 | 29 | Rae |
-| 408 | 29 | Jackie Moran Tiller |
-| 409 | 29 | Teddy Williams |
-| 410 | 29 | Marcia Davis |
+| 397 | 30 | Starvinmarvin |
+| 398 | 30 | Carlos J Blas |
+| 399 | 30 | Brittany Kay |
+| 400 | 30 | Abby Dexter |
+| 401 | 30 | Rubics cube |
+| 402 | 30 | Sandy Justus |
+| 403 | 30 | Maria Ward |
+| 404 | 30 | Boldy Fitclear |
+| 405 | 30 | phamous1 |
+| 406 | 30 | Keri Mears |
+| 407 | 29 | Jackie Moran Tiller |
+| 408 | 29 | Marcia Davis |
+| 409 | 29 | Lisa Allen Frisk |
+| 410 | 29 | Teddy Williams |
 | 411 | 29 | Brandy Westfall-panchari |
-| 412 | 29 | Lisa Allen Frisk |
-| 413 | 28 | Alimae |
-| 414 | 28 | Cassandra Green |
+| 412 | 29 | Rae |
+| 413 | 28 | Damion Morrison |
+| 414 | 28 | Snippy Brickzone |
 | 415 | 28 | Sara BlueEyes |
-| 416 | 28 | Snippy Brickzone |
-| 417 | 28 | Damion Morrison |
-| 418 | 27 | Missy Stevens |
-| 419 | 27 | Kim |
-| 420 | 27 | Bouncy Cluster |
-| 421 | 27 | Dandy Tiltgrid |
-| 422 | 27 | Billy Pittman |
-| 423 | 27 | Brian Karr |
+| 416 | 28 | Cassandra Green |
+| 417 | 28 | Alimae |
+| 418 | 27 | Sunny Tiltbuilder |
+| 419 | 27 | Missy Stevens |
+| 420 | 27 | Dandy Tiltgrid |
+| 421 | 27 | Kim |
+| 422 | 27 | Brian Karr |
+| 423 | 27 | Billy Pittman |
 | 424 | 27 | Sara Dunn |
-| 425 | 27 | Robert W Schwartz |
-| 426 | 27 | Sunny Tiltbuilder |
+| 425 | 27 | Bouncy Cluster |
+| 426 | 27 | Robert W Schwartz |
 | 427 | 26 | Erin Moore Galloway |
 | 428 | 26 | Misty McElroy |
 | 429 | 26 | BugMansMom |
