@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 18:00:16 UTC
+# Standings for team2 as of 2026-06-06 18:00:40 UTC
 
 **Total Participants:** 1296
 
@@ -63,17 +63,17 @@
 | 55 | 824 | Helen Thomas |
 | 56 | 799 | Elizabeth Sallas |
 | 57 | 798 | Gabriella Humphreys |
-| 58 | 779 | Marie Luciano |
-| 59 | 759 | Beverly Lynn Mills |
-| 60 | 750 | Brent Bittenbender |
-| 61 | 744 | Deborah Boyce Minor |
-| 62 | 729 | Amber Salazar |
-| 63 | 711 | Hoppy Rotate |
-| 64 | 705 | Jazzy Faller |
-| 65 | 702 | Charley Bedford |
-| 66 | 701 | Sarah Griffey |
-| 67 | 700 | Denise Potter |
-| 68 | 699 | Tom Badgley |
+| 58 | 779 | Beverly Lynn Mills |
+| 59 | 779 | Marie Luciano |
+| 60 | 759 | Tom Badgley |
+| 61 | 750 | Brent Bittenbender |
+| 62 | 744 | Deborah Boyce Minor |
+| 63 | 729 | Amber Salazar |
+| 64 | 711 | Hoppy Rotate |
+| 65 | 705 | Jazzy Faller |
+| 66 | 702 | Charley Bedford |
+| 67 | 701 | Sarah Griffey |
+| 68 | 700 | Denise Potter |
 | 69 | 695 | Andre Love |
 | 70 | 694 | Angie Mccain |
 | 71 | 671 | Brandi Thompson |
@@ -168,10 +168,10 @@
 | 160 | 228 | Keri Mears |
 | 161 | 227 | Ashley Green |
 | 162 | 224 | Kathleen Keogh Van Schoyck |
-| 163 | 220 | Melissa Thomas |
-| 164 | 220 | Flashy Basegrid |
-| 165 | 219 | Stella |
-| 166 | 219 | Suki Jacobs |
+| 163 | 222 | Suki Jacobs |
+| 164 | 220 | Melissa Thomas |
+| 165 | 220 | Flashy Basegrid |
+| 166 | 219 | Stella |
 | 167 | 218 | Amy Nicole McCanne |
 | 168 | 216 | PaiBri |
 | 169 | 215 | Dallas Runyan |
