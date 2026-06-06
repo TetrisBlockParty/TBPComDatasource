@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 00:54:16 UTC
+# Standings for team1 as of 2026-06-06 00:54:38 UTC
 
 **Total Participants:** 656
 
@@ -12,7 +12,7 @@
 | 4 | 3297 | Charlie Roehm |
 | 5 | 2671 | Tracy Cohen |
 | 6 | 2458 | Cozy Edge |
-| 7 | 2109 | Carrie English |
+| 7 | 2309 | Carrie English |
 | 8 | 1589 | Brian Stackhouse |
 | 9 | 1449 | jaimie |
 | 10 | 1213 | Sha Harris |
@@ -72,8 +72,8 @@
 | 64 | 193 | Brave Clearbuilder |
 | 65 | 185 | Teddy Davis |
 | 66 | 184 | Voice |
-| 67 | 183 | SPNLover24 |
-| 68 | 182 | Kimberly Hernandez |
+| 67 | 183 | Kimberly Hernandez |
+| 68 | 183 | SPNLover24 |
 | 69 | 177 | Chris Sladoje |
 | 70 | 175 | Songne Arif |
 | 71 | 174 | Zachary Colegrove |
@@ -101,10 +101,10 @@
 | 93 | 132 | Mimi 1.0 |
 | 94 | 130 | Lashaunda |
 | 95 | 130 | Emily Wright |
-| 96 | 126 | Cee Emm |
-| 97 | 125 | Kelli Couture |
-| 98 | 125 | Lisa Müller |
-| 99 | 124 | David Fuentes |
+| 96 | 129 | David Fuentes |
+| 97 | 126 | Cee Emm |
+| 98 | 125 | Kelli Couture |
+| 99 | 125 | Lisa Müller |
 | 100 | 121 | D'Andra Stewart |
 | 101 | 118 | Hasty Pivoty |
 | 102 | 118 | Tamara N Lee |
@@ -654,13 +654,13 @@
 | 646 | 5 | DirtiestofMikes |
 | 647 | 5 | the guy |
 | 648 | 5 | Jennifer Moore |
-| 649 | 5 | Tito Divyn |
-| 650 | 5 | Shawn Himes |
-| 651 | 5 | Tamika Fisher |
+| 649 | 5 | Andre Sanon |
+| 650 | 5 | Logan Frost |
+| 651 | 5 | Duckey |
 | 652 | 5 | Zappy Clearfit |
-| 653 | 5 | Duckey |
-| 654 | 5 | Logan Frost |
-| 655 | 5 | Andre Sanon |
+| 653 | 5 | Tamika Fisher |
+| 654 | 5 | Shawn Himes |
+| 655 | 5 | Tito Divyn |
 | 656 | 5 | Kidgib5 |
 
 ---
