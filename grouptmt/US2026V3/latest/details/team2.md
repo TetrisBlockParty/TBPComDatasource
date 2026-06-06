@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 06:50:16 UTC
+# Standings for team2 as of 2026-06-06 06:50:37 UTC
 
 **Total Participants:** 1051
 
@@ -1044,19 +1044,19 @@
 | 1036 | 6 | Fluffypuffin |
 | 1037 | 6 | Lori Yelvington Cain |
 | 1038 | 5 | Crystal Poss |
-| 1039 | 5 | Bennie Farbo |
+| 1039 | 5 | Duck |
 | 1040 | 5 | Flynn Flibble |
 | 1041 | 5 | Deborah Fowler |
 | 1042 | 5 | Mercedes Lowery |
 | 1043 | 5 | Agnes Gable |
 | 1044 | 5 | Nerdy Base |
 | 1045 | 5 | Brittany Weatherspoon |
-| 1046 | 5 | Jennifer Mauler Schmidt |
-| 1047 | 5 | Jennifer Roper Stanley |
-| 1048 | 5 | Chirpy Towerer |
-| 1049 | 5 | Nicole Suber |
-| 1050 | 5 | Nolife |
-| 1051 | 5 | Duck |
+| 1046 | 5 | Bennie Farbo |
+| 1047 | 5 | Jennifer Mauler Schmidt |
+| 1048 | 5 | Jennifer Roper Stanley |
+| 1049 | 5 | Chirpy Towerer |
+| 1050 | 5 | Nicole Suber |
+| 1051 | 5 | Nolife |
 
 ---
 *Standings created by tournaments datasource generation tool*
