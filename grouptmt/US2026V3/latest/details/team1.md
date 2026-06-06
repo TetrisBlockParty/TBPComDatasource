@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 03:10:15 UTC
+# Standings for team1 as of 2026-06-06 03:10:37 UTC
 
 **Total Participants:** 765
 
@@ -589,80 +589,80 @@
 | 581 | 15 | Haley Bell |
 | 582 | 15 | Motown Chuck |
 | 583 | 15 | Elaine Youmans |
-| 584 | 15 | Laura Long |
+| 584 | 15 | Tami Spence |
 | 585 | 15 | Nicole Freeman |
-| 586 | 15 | Lit757 |
-| 587 | 15 | Bri Lou |
-| 588 | 15 | Spunky Strikerbuilder |
-| 589 | 15 | Betsy B. Yohan |
-| 590 | 15 | Dana Hawes |
-| 591 | 15 | Just2Play$ |
-| 592 | 15 | Hasty Match |
-| 593 | 15 | b |
-| 594 | 15 | MonaSparks |
-| 595 | 15 | LaToya Chambers |
-| 596 | 15 | Tami Spence |
-| 597 | 15 | Victor |
-| 598 | 15 | Cheery Clusterbuilder |
-| 599 | 15 | Ivan Israel |
+| 586 | 15 | Bri Lou |
+| 587 | 15 | Lit757 |
+| 588 | 15 | Victor |
+| 589 | 15 | Dana Hawes |
+| 590 | 15 | Just2Play$ |
+| 591 | 15 | MonaSparks |
+| 592 | 15 | Spunky Strikerbuilder |
+| 593 | 15 | Betsy B. Yohan |
+| 594 | 15 | Hasty Match |
+| 595 | 15 | Laura Long |
+| 596 | 15 | b |
+| 597 | 15 | Chuck Quarles |
+| 598 | 15 | Ivan Israel |
+| 599 | 15 | Cheery Clusterbuilder |
 | 600 | 15 | Delitra Perkins Hatter |
 | 601 | 15 | Chasem45 |
 | 602 | 15 | Venna Cooper |
-| 603 | 15 | Chuck Quarles |
-| 604 | 14 | Kàrma Lee |
-| 605 | 14 | Dymond |
-| 606 | 14 | La'Chae Nickole |
-| 607 | 14 | Lynn |
-| 608 | 14 | Rissa Rozay |
-| 609 | 14 | FunTime |
-| 610 | 14 | Samona Mcculler |
-| 611 | 14 | Aaron Hartmann |
-| 612 | 14 | Jerrone Epps |
-| 613 | 14 | Alyssa Rae |
-| 614 | 14 | Andra Ward |
-| 615 | 14 | Stanley Dixon |
-| 616 | 14 | TBabii24 |
-| 617 | 14 | Zany Pivot |
-| 618 | 14 | No_Other_Choice |
-| 619 | 14 | Nichole Horsley-Conn |
-| 620 | 13 | Daphne Ceasar |
-| 621 | 13 | Cathy Young |
+| 603 | 15 | LaToya Chambers |
+| 604 | 14 | Aaron Hartmann |
+| 605 | 14 | Samona Mcculler |
+| 606 | 14 | Rissa Rozay |
+| 607 | 14 | Kàrma Lee |
+| 608 | 14 | La'Chae Nickole |
+| 609 | 14 | Lynn |
+| 610 | 14 | tg |
+| 611 | 14 | Jerrone Epps |
+| 612 | 14 | Alyssa Rae |
+| 613 | 14 | Stanley Dixon |
+| 614 | 14 | TBabii24 |
+| 615 | 14 | Andra Ward |
+| 616 | 14 | Zany Pivot |
+| 617 | 14 | FunTime |
+| 618 | 14 | Nichole Horsley-Conn |
+| 619 | 14 | No_Other_Choice |
+| 620 | 14 | Dymond |
+| 621 | 13 | Daphne Ceasar |
 | 622 | 13 | Sarah Barnum |
-| 623 | 13 | Emma Adams |
-| 624 | 13 | John Spath |
-| 625 | 13 | Giggy Clusterer |
-| 626 | 13 | Jumpy Striker |
-| 627 | 13 | Seirra Robinson |
-| 628 | 13 | Leah Ingram |
+| 623 | 13 | John Spath |
+| 624 | 13 | Emma Adams |
+| 625 | 13 | Cathy Young |
+| 626 | 13 | Seirra Robinson |
+| 627 | 13 | Giggy Clusterer |
+| 628 | 13 | Jumpy Striker |
 | 629 | 13 | Bubbly Piececlear |
-| 630 | 12 | Mike Hromowyk |
-| 631 | 12 | Cameo Tweed |
-| 632 | 12 | Cynthia Cruell |
-| 633 | 12 | Ashley Davis |
-| 634 | 12 | Vontii Blades |
-| 635 | 12 | Jovy |
-| 636 | 12 | Outspoken Sirchristopher |
-| 637 | 12 | tg |
-| 638 | 12 | Shauntai Holiday |
-| 639 | 12 | LaTonya Rivers |
-| 640 | 12 | Jroc Tyra Taylor |
-| 641 | 12 | Silly Spinblock |
-| 642 | 12 | Michael Jones |
-| 643 | 12 | Kate Hancock Malicek |
-| 644 | 12 | Lillie Blossom Dixon |
-| 645 | 12 | BigMike |
-| 646 | 12 | Clever Blocker |
+| 630 | 13 | Leah Ingram |
+| 631 | 12 | Mike Hromowyk |
+| 632 | 12 | Jroc Tyra Taylor |
+| 633 | 12 | Silly Spinblock |
+| 634 | 12 | Ashley Davis |
+| 635 | 12 | Vontii Blades |
+| 636 | 12 | Michael Jones |
+| 637 | 12 | Cameo Tweed |
+| 638 | 12 | Clever Blocker |
+| 639 | 12 | Kate Hancock Malicek |
+| 640 | 12 | Lillie Blossom Dixon |
+| 641 | 12 | Cynthia Cruell |
+| 642 | 12 | LaTonya Rivers |
+| 643 | 12 | Shauntai Holiday |
+| 644 | 12 | BigMike |
+| 645 | 12 | Outspoken Sirchristopher |
+| 646 | 12 | Jovy |
 | 647 | 11 | Frilly Shatterline |
-| 648 | 11 | Giddy Twistslam |
-| 649 | 11 | MrsDontPlay |
-| 650 | 11 | Jelyfish |
-| 651 | 10 | OneBuke FollowMe |
-| 652 | 10 | Wacky Riserpiece |
+| 648 | 11 | MrsDontPlay |
+| 649 | 11 | Jelyfish |
+| 650 | 11 | Giddy Twistslam |
+| 651 | 10 | Cornelius Neal |
+| 652 | 10 | Kenny 'Tailormade' Boyd |
 | 653 | 10 | ShayePooh |
-| 654 | 10 | Kenny 'Tailormade' Boyd |
-| 655 | 10 | Cornelius Neal |
+| 654 | 10 | OneBuke FollowMe |
+| 655 | 10 | Saucy Linkgrid |
 | 656 | 10 | Hoppy Rumbler |
-| 657 | 10 | Saucy Linkgrid |
+| 657 | 10 | Wacky Riserpiece |
 | 658 | 10 | Vernon Hoyt |
 | 659 | 10 | Ashleyy Netchert |
 | 660 | 10 | Alisha Dawson Crouch |

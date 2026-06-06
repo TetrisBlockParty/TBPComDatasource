@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 03:10:15 UTC
+# Standings for team4 as of 2026-06-06 03:10:37 UTC
 
 **Total Participants:** 730
 
@@ -50,9 +50,9 @@
 | 42 | 404 | Squirrel Donkey |
 | 43 | 395 | Snippy Grid |
 | 44 | 392 | Blayne Kole |
-| 45 | 389 | Ning Quiambao |
-| 46 | 383 | Crissy Hoffman |
-| 47 | 380 | MysticMaven |
+| 45 | 390 | MysticMaven |
+| 46 | 389 | Ning Quiambao |
+| 47 | 383 | Crissy Hoffman |
 | 48 | 375 | Melissa WC |
 | 49 | 372 | Real Talk Vibes |
 | 50 | 359 | Lisa Garcia |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 03:10:15 UTC
+# Standings for team2 as of 2026-06-06 03:10:37 UTC
 
 **Total Participants:** 906
 
@@ -190,83 +190,83 @@
 | 182 | 99 | Melissa Abbott |
 | 183 | 97 | Jennifer McClure |
 | 184 | 96 | Amy Taylor Pomerenk |
-| 185 | 95 | Sarah Mccolgan |
-| 186 | 95 | Renee Freeman Jacobson |
-| 187 | 95 | Mike Mordhorst |
-| 188 | 95 | Wacky Holder |
+| 185 | 95 | Mike Mordhorst |
+| 186 | 95 | Wacky Holder |
+| 187 | 95 | Renee Freeman Jacobson |
+| 188 | 95 | Sarah Mccolgan |
 | 189 | 94 | Sherri E Woods Hess |
 | 190 | 92 | Raine |
-| 191 | 91 | Jamie Fenyus |
+| 191 | 91 | Nikki Hatch |
 | 192 | 91 | Amy Lea Hamilton |
-| 193 | 90 | Carlos J Blas |
-| 194 | 89 | Belle |
+| 193 | 91 | Jamie Fenyus |
+| 194 | 90 | Carlos J Blas |
 | 195 | 89 | MegaPooh |
-| 196 | 88 | Nano. |
-| 197 | 87 | Charlie Wilson |
-| 198 | 87 | Brittni Lawrence |
-| 199 | 87 | Sam Brewster |
-| 200 | 86 | Bianca Woodruff |
-| 201 | 85 | Christina Maria |
-| 202 | 85 | Tina Marie |
-| 203 | 84 | Bubbly Strikerpiece |
-| 204 | 83 | Brenda Jones |
-| 205 | 82 | Norma Ortiz |
-| 206 | 82 | Carolyn McNaughton |
+| 196 | 89 | Belle |
+| 197 | 88 | Nano. |
+| 198 | 87 | Sam Brewster |
+| 199 | 87 | Brittni Lawrence |
+| 200 | 87 | Charlie Wilson |
+| 201 | 86 | Bianca Woodruff |
+| 202 | 85 | Christina Maria |
+| 203 | 85 | Tina Marie |
+| 204 | 84 | Bubbly Strikerpiece |
+| 205 | 83 | Brenda Jones |
+| 206 | 82 | SEH |
 | 207 | 82 | Sandra Pursell |
-| 208 | 82 | SEH |
-| 209 | 81 | Shiny Spinfit |
-| 210 | 81 | Heather Hi |
+| 208 | 82 | Norma Ortiz |
+| 209 | 82 | Carolyn McNaughton |
+| 210 | 81 | Shiny Spinfit |
 | 211 | 81 | Angeleye A James |
-| 212 | 81 | Charles E Mccardell |
+| 212 | 81 | Heather Hi |
 | 213 | 81 | YldBoar |
-| 214 | 80 | Skye Ehret |
-| 215 | 80 | Nicole Hogue |
-| 216 | 80 | Al Smith Jr |
-| 217 | 80 | Zappy Liney |
-| 218 | 80 | Amy Gregg |
-| 219 | 80 | Joni Michelle Morgan |
-| 220 | 79 | Perii Reynoso |
+| 214 | 81 | Charles E Mccardell |
+| 215 | 80 | Skye Ehret |
+| 216 | 80 | Zappy Liney |
+| 217 | 80 | Joni Michelle Morgan |
+| 218 | 80 | Nicole Hogue |
+| 219 | 80 | Amy Gregg |
+| 220 | 80 | Al Smith Jr |
 | 221 | 79 | Becca Marie |
 | 222 | 79 | Aeryal Snow |
-| 223 | 78 | Jef Wassom |
-| 224 | 78 | LittleHippoEars |
-| 225 | 78 | Lively Curve |
-| 226 | 77 | Sandra Belk |
+| 223 | 79 | Perii Reynoso |
+| 224 | 78 | Lively Curve |
+| 225 | 78 | LittleHippoEars |
+| 226 | 78 | Jef Wassom |
 | 227 | 77 | Heather Vircik |
-| 228 | 77 | Jeanna Mendez |
-| 229 | 76 | Nikki Hatch |
-| 230 | 76 | Gill |
-| 231 | 76 | Tiffany Fitch |
+| 228 | 77 | Sandra Belk |
+| 229 | 77 | Jeanna Mendez |
+| 230 | 76 | Epic Tilemaker |
+| 231 | 76 | Gill |
 | 232 | 76 | Krisanne Kesner-Lonsby |
-| 233 | 76 | Epic Tilemaker |
+| 233 | 76 | Tiffany Fitch |
 | 234 | 76 | Reign Hustler |
 | 235 | 75 | Jessica Christine |
-| 236 | 75 | Jat |
-| 237 | 75 | Paula Haskins |
-| 238 | 75 | Karly Moore |
-| 239 | 74 | Loopy Cascadepiece |
-| 240 | 74 | Jumpy Dashpiece |
-| 241 | 74 | Jackie Tupper |
-| 242 | 74 | Armando Sabedra |
-| 243 | 73 | Sunny Spinzone |
-| 244 | 73 | Chill Line |
-| 245 | 73 | Rachel M. Farnsworth |
-| 246 | 73 | Nikki Hayes |
-| 247 | 72 | Mary Carriere |
+| 236 | 75 | Paula Haskins |
+| 237 | 75 | Karly Moore |
+| 238 | 75 | Jat |
+| 239 | 74 | Jumpy Dashpiece |
+| 240 | 74 | Jackie Tupper |
+| 241 | 74 | Armando Sabedra |
+| 242 | 74 | Loopy Cascadepiece |
+| 243 | 73 | Nikki Hayes |
+| 244 | 73 | Rachel M. Farnsworth |
+| 245 | 73 | Sunny Spinzone |
+| 246 | 73 | Chill Line |
+| 247 | 72 | Sully |
 | 248 | 72 | Kendi |
-| 249 | 72 | Sully |
+| 249 | 72 | Mary Carriere |
 | 250 | 72 | Ashley Miller |
 | 251 | 72 | Lisa Underwood Desmond |
 | 252 | 71 | Cindy Scott |
 | 253 | 71 | Kevin Patrick |
 | 254 | 70 | Jennifer Covington |
 | 255 | 70 | Courtney Madison Hart |
-| 256 | 69 | REE4 |
-| 257 | 69 | Alonzo Reed |
+| 256 | 69 | TetrisMama |
+| 257 | 69 | Justin McCray |
 | 258 | 69 | Ashley Billiot Rhodes |
-| 259 | 69 | Justin McCray |
-| 260 | 69 | Momof2wigglebutts |
-| 261 | 69 | TetrisMama |
+| 259 | 69 | Alonzo Reed |
+| 260 | 69 | REE4 |
+| 261 | 69 | Momof2wigglebutts |
 | 262 | 68 | Belinda Gullion Austin |
 | 263 | 67 | Carole Brown |
 | 264 | 67 | giamy |
@@ -285,35 +285,35 @@
 | 277 | 62 | Breezy |
 | 278 | 62 | Amber Simonton |
 | 279 | 62 | Nova Nova |
-| 280 | 61 | Glitzy Matchclear |
-| 281 | 61 | Jessica Perkins |
-| 282 | 61 | Melmel |
-| 283 | 61 | Bubbly Dash |
-| 284 | 60 | Candi Cane |
+| 280 | 62 | Ava Speedy |
+| 281 | 61 | Glitzy Matchclear |
+| 282 | 61 | Jessica Perkins |
+| 283 | 61 | Melmel |
+| 284 | 61 | Bubbly Dash |
 | 285 | 60 | Speedy Gridder |
-| 286 | 60 | Emily Carns |
-| 287 | 60 | Dawn Kroptavich |
-| 288 | 60 | Leticia Tillman |
-| 289 | 60 | Patrick Woodard |
-| 290 | 60 | Jason Cunningham |
-| 291 | 60 | Kimmyc |
-| 292 | 60 | Snippy Shifter |
-| 293 | 60 | Loopy Dropper |
-| 294 | 60 | Patti Ward |
-| 295 | 59 | Ratchet |
+| 286 | 60 | Candi Cane |
+| 287 | 60 | Emily Carns |
+| 288 | 60 | Dawn Kroptavich |
+| 289 | 60 | Leticia Tillman |
+| 290 | 60 | Patrick Woodard |
+| 291 | 60 | Jason Cunningham |
+| 292 | 60 | Kimmyc |
+| 293 | 60 | Snippy Shifter |
+| 294 | 60 | Loopy Dropper |
+| 295 | 60 | Patti Ward |
 | 296 | 59 | WestieMom |
-| 297 | 59 | Sandra Rotton Bragg |
-| 298 | 59 | Crystal Robinson |
-| 299 | 59 | MaddieCherie |
-| 300 | 59 | rageking |
-| 301 | 59 | April Addis |
-| 302 | 59 | Ava Speedy |
+| 297 | 59 | Ratchet |
+| 298 | 59 | Sandra Rotton Bragg |
+| 299 | 59 | Crystal Robinson |
+| 300 | 59 | MaddieCherie |
+| 301 | 59 | rageking |
+| 302 | 59 | April Addis |
 | 303 | 59 | Sillyk |
 | 304 | 59 | AndyJo |
 | 305 | 59 | Elliott Mikila |
 | 306 | 58 | Connie Breeden |
-| 307 | 58 | Chipper Towerzone |
-| 308 | 58 | Lesley Stoeckle |
+| 307 | 58 | Lesley Stoeckle |
+| 308 | 58 | Chipper Towerzone |
 | 309 | 57 | Xandrea Jones |
 | 310 | 57 | Kenzie |
 | 311 | 56 | nogo |
@@ -897,13 +897,13 @@
 | 889 | 5 | Gina Louise Parker |
 | 890 | 5 | Audrey Bickford |
 | 891 | 5 | Crafty Slice |
-| 892 | 5 | Amanda Knox |
-| 893 | 5 | Chirpy Towerer |
-| 894 | 5 | Melissa Clogher White |
-| 895 | 5 | Jennifer Roper Stanley |
-| 896 | 5 | Crystal Poss |
-| 897 | 5 | Bad Juju |
-| 898 | 5 | Adrian Alvarez |
+| 892 | 5 | Jennifer Mauler Schmidt |
+| 893 | 5 | Melissa Clogher White |
+| 894 | 5 | Jennifer Roper Stanley |
+| 895 | 5 | Crystal Poss |
+| 896 | 5 | Bad Juju |
+| 897 | 5 | Adrian Alvarez |
+| 898 | 5 | Amanda Knox |
 | 899 | 5 | Deborah Fowler |
 | 900 | 5 | Agnes Gable |
 | 901 | 5 | Johnathon Mendiola |
@@ -911,7 +911,7 @@
 | 903 | 5 | Brittany Weatherspoon |
 | 904 | 5 | Bennie Farbo |
 | 905 | 5 | Tami Kay Williams Watson |
-| 906 | 5 | Jennifer Mauler Schmidt |
+| 906 | 5 | Chirpy Towerer |
 
 ---
 *Standings created by tournaments datasource generation tool*
