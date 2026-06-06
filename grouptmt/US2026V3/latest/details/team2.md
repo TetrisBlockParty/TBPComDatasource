@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 09:12:15 UTC
+# Standings for team2 as of 2026-06-06 09:12:39 UTC
 
 **Total Participants:** 1092
 
@@ -85,8 +85,8 @@
 | 77 | 428 | Loopy Cascadepiece |
 | 78 | 425 | Amanda Sikes |
 | 79 | 405 | Judy Long |
-| 80 | 400 | Allie Bug |
-| 81 | 400 | Smashanator |
+| 80 | 400 | Smashanator |
+| 81 | 400 | Allie Bug |
 | 82 | 390 | La chulis |
 | 83 | 389 | Kimberly Cowan |
 | 84 | 354 | Branden Frankowski |
