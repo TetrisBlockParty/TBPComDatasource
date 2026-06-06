@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 19:59:17 UTC
+# Standings for team2 as of 2026-06-06 20:00:16 UTC
 
 **Total Participants:** 1355
 
@@ -51,22 +51,22 @@
 | 43 | 1400 | Danni Campa |
 | 44 | 1373 | Christina Jambard Sampier |
 | 45 | 1357 | Elizabeth Mooney |
-| 46 | 1326 | Julie Trede Amerson |
-| 47 | 1299 | Tom Badgley |
-| 48 | 1190 | Marie Edmonds |
-| 49 | 1100 | Brent Bittenbender |
-| 50 | 1032 | AcardBoardBox |
-| 51 | 1031 | DarkHorse |
-| 52 | 959 | Debra Henry |
-| 53 | 942 | Dane Marko |
-| 54 | 859 | Angelica Jelli Gillaspy |
-| 55 | 857 | Rose Schaffner-Kibler |
-| 56 | 835 | Mikki Torres |
-| 57 | 832 | Amber Triguero |
-| 58 | 826 | Gabriella Humphreys |
-| 59 | 824 | Helen Thomas |
-| 60 | 819 | Beverly Lynn Mills |
-| 61 | 800 | Andrew Weissenborn |
+| 46 | 1350 | Andrew Weissenborn |
+| 47 | 1326 | Julie Trede Amerson |
+| 48 | 1299 | Tom Badgley |
+| 49 | 1190 | Marie Edmonds |
+| 50 | 1131 | Brent Bittenbender |
+| 51 | 1032 | AcardBoardBox |
+| 52 | 1031 | DarkHorse |
+| 53 | 959 | Debra Henry |
+| 54 | 942 | Dane Marko |
+| 55 | 859 | Angelica Jelli Gillaspy |
+| 56 | 857 | Rose Schaffner-Kibler |
+| 57 | 835 | Mikki Torres |
+| 58 | 832 | Amber Triguero |
+| 59 | 826 | Gabriella Humphreys |
+| 60 | 824 | Helen Thomas |
+| 61 | 819 | Beverly Lynn Mills |
 | 62 | 799 | Elizabeth Sallas |
 | 63 | 779 | Marie Luciano |
 | 64 | 749 | Marquita Toliver |
@@ -203,10 +203,10 @@
 | 195 | 199 | Amber Cogdill |
 | 196 | 199 | Patria Osuoha |
 | 197 | 195 | Bb |
-| 198 | 195 | Samantha Carman |
-| 199 | 195 | Karly Moore |
-| 200 | 194 | Mookshake |
-| 201 | 193 | Gloria May Shook |
+| 198 | 195 | Gloria May Shook |
+| 199 | 195 | Samantha Carman |
+| 200 | 195 | Karly Moore |
+| 201 | 194 | Mookshake |
 | 202 | 192 | Nathan Walker |
 | 203 | 192 | Greta Warden |
 | 204 | 191 | Jeanna Mendez |
@@ -292,16 +292,16 @@
 | 284 | 132 | Alison Waller |
 | 285 | 132 | Spunky Cascadeclear |
 | 286 | 132 | Raine |
-| 287 | 130 | Precious Womack |
-| 288 | 130 | ZBee |
-| 289 | 129 | Heather Marie-Tarlton Britt |
-| 290 | 129 | Loopy Tower |
-| 291 | 129 | Armando Sabedra |
-| 292 | 129 | Belle |
-| 293 | 129 | Sandy Justus |
+| 287 | 131 | Jackie Tupper |
+| 288 | 130 | Precious Womack |
+| 289 | 130 | ZBee |
+| 290 | 129 | Heather Marie-Tarlton Britt |
+| 291 | 129 | Loopy Tower |
+| 292 | 129 | Armando Sabedra |
+| 293 | 129 | Belle |
 | 294 | 129 | Kristi K Milner |
-| 295 | 128 | Teddy Williams |
-| 296 | 128 | Jackie Tupper |
+| 295 | 129 | Sandy Justus |
+| 296 | 128 | Teddy Williams |
 | 297 | 126 | Teresa Mandich |
 | 298 | 125 | Gwendolyn Boykin Mobbs |
 | 299 | 125 | Jill Goff |
@@ -687,51 +687,51 @@
 | 679 | 48 | Krystle McCaslin |
 | 680 | 48 | Ollie |
 | 681 | 47 | Ozge Akgun Tokat |
-| 682 | 47 | Starvinmarvin |
-| 683 | 47 | Christina Whitehead |
-| 684 | 47 | Christina Reid |
-| 685 | 47 | Angela Hogan |
-| 686 | 47 | Mellzey |
-| 687 | 47 | Emily |
-| 688 | 46 | Riggins Terry |
-| 689 | 46 | Dani Newton |
-| 690 | 46 | WhitS |
-| 691 | 46 | Matthew Black |
-| 692 | 46 | Shannon Vanlester |
-| 693 | 46 | CATFISH |
-| 694 | 46 | Denna Marteney |
-| 695 | 46 | Chummy Faller |
-| 696 | 46 | Quirky Gridclear |
-| 697 | 46 | Jana Campbell |
-| 698 | 46 | Brittany Nichole Ellenburg |
-| 699 | 46 | Nikki Sadler |
-| 700 | 46 | Missy Tubb Overly |
-| 701 | 46 | Kristi Chestnut |
-| 702 | 46 | Flashy Hitter |
-| 703 | 46 | Morgan Olson Pingree |
-| 704 | 45 | Bouncy Cluster |
-| 705 | 45 | Chatty |
-| 706 | 45 | Heather |
+| 682 | 47 | Christina Reid |
+| 683 | 47 | Angela Hogan |
+| 684 | 47 | Christina Whitehead |
+| 685 | 47 | Mellzey |
+| 686 | 47 | Emily |
+| 687 | 47 | Starvinmarvin |
+| 688 | 46 | WhitS |
+| 689 | 46 | Shannon Vanlester |
+| 690 | 46 | Denna Marteney |
+| 691 | 46 | CATFISH |
+| 692 | 46 | Chummy Faller |
+| 693 | 46 | Quirky Gridclear |
+| 694 | 46 | Jana Campbell |
+| 695 | 46 | Riggins Terry |
+| 696 | 46 | Brittany Nichole Ellenburg |
+| 697 | 46 | Mikaela Byrd |
+| 698 | 46 | Dani Newton |
+| 699 | 46 | Matthew Black |
+| 700 | 46 | Morgan Olson Pingree |
+| 701 | 46 | Flashy Hitter |
+| 702 | 46 | Kristi Chestnut |
+| 703 | 46 | Missy Tubb Overly |
+| 704 | 46 | Nikki Sadler |
+| 705 | 45 | Heather |
+| 706 | 45 | CEK |
 | 707 | 45 | Nora Buchan |
-| 708 | 45 | Linzy Ratliff |
-| 709 | 45 | Frisky Linkbuilder |
+| 708 | 45 | Frisky Linkbuilder |
+| 709 | 45 | Chatty |
 | 710 | 45 | Peppy Piececlear |
-| 711 | 45 | CEK |
+| 711 | 45 | Bouncy Cluster |
 | 712 | 45 | Jessica LeNeave |
-| 713 | 45 | Michelle Anne |
+| 713 | 45 | Linzy Ratliff |
 | 714 | 45 | ChefDeb |
 | 715 | 45 | Smiley Cornerfall |
 | 716 | 45 | Mona Smith |
 | 717 | 45 | Chummy Snapbuilder |
-| 718 | 45 | Laura Fagans |
-| 719 | 45 | Loopy Zone |
+| 718 | 45 | Chill Wipegrid |
+| 719 | 45 | Laura Fagans |
 | 720 | 45 | Alimae |
-| 721 | 45 | Chill Wipegrid |
-| 722 | 44 | Michael James |
-| 723 | 44 | Jackie Moran Tiller |
-| 724 | 44 | Katie Boen |
-| 725 | 44 | Mikaela Byrd |
-| 726 | 44 | Robert W Schwartz |
+| 721 | 45 | Michelle Anne |
+| 722 | 45 | Loopy Zone |
+| 723 | 44 | Katie Boen |
+| 724 | 44 | Jackie Moran Tiller |
+| 725 | 44 | Robert W Schwartz |
+| 726 | 44 | Michael James |
 | 727 | 43 | Kayla Faulkiner |
 | 728 | 43 | Connie Marie Cornell Lerma |
 | 729 | 43 | Perky Linebuilder |
@@ -748,9 +748,9 @@
 | 740 | 42 | Melissa Pronovost |
 | 741 | 42 | Shylo Bryant-Brunson |
 | 742 | 42 | y |
-| 743 | 42 | Pamela Raye |
-| 744 | 42 | Michael Saunders |
-| 745 | 42 | Aubrey Gates |
+| 743 | 42 | Michael Saunders |
+| 744 | 42 | Aubrey Gates |
+| 745 | 42 | Pamela Raye |
 | 746 | 42 | Mee Maw |
 | 747 | 41 | Witty Brickster |
 | 748 | 41 | Jenny Coffer |
