@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 23:20:18 UTC
+# Standings for team4 as of 2026-06-06 23:20:39 UTC
 
 **Total Participants:** 1196
 
@@ -344,12 +344,12 @@
 | 336 | 96 | Cheeky Fallzone |
 | 337 | 96 | TJ |
 | 338 | 95 | Anna Ryan |
-| 339 | 95 | Laurie Patrick |
-| 340 | 94 | Janae Harris |
-| 341 | 94 | Mighty1 |
-| 342 | 94 | Reina Pagan |
-| 343 | 94 | Karen Rodriguez |
-| 344 | 93 | Mark Fitch Jr. |
+| 339 | 95 | Mark Fitch Jr. |
+| 340 | 95 | Laurie Patrick |
+| 341 | 94 | Janae Harris |
+| 342 | 94 | Mighty1 |
+| 343 | 94 | Reina Pagan |
+| 344 | 94 | Karen Rodriguez |
 | 345 | 92 | my my |
 | 346 | 92 | William Brooks |
 | 347 | 91 | Miss Beast |
@@ -357,25 +357,25 @@
 | 349 | 91 | Cindy |
 | 350 | 91 | Drh4090 |
 | 351 | 91 | Diana Fernandez |
-| 352 | 90 | Codey Haffner |
-| 353 | 90 | Flashy Shatterer |
-| 354 | 90 | Witty Fitblock |
+| 352 | 90 | Maurice DeJean |
+| 353 | 90 | Witty Fitblock |
+| 354 | 90 | Flashy Shatterer |
 | 355 | 90 | Dexter Hammond Jr |
 | 356 | 90 | Wanda Simmons |
-| 357 | 90 | 1694AF |
-| 358 | 90 | Maurice DeJean |
-| 359 | 89 | Chirpy Snapclear |
-| 360 | 89 | Mrs |
-| 361 | 89 | Rosy Perez |
-| 362 | 88 | Donna Bush |
-| 363 | 88 | Chonda OhanaMomma Michelle |
-| 364 | 88 | SandyEva |
-| 365 | 88 | DizzB400 |
-| 366 | 88 | Deva Marie Barber |
+| 357 | 90 | Codey Haffner |
+| 358 | 90 | 1694AF |
+| 359 | 89 | Rosy Perez |
+| 360 | 89 | Chirpy Snapclear |
+| 361 | 89 | Mrs |
+| 362 | 88 | DizzB400 |
+| 363 | 88 | SandyEva |
+| 364 | 88 | Deva Marie Barber |
+| 365 | 88 | Donna Bush |
+| 366 | 88 | Chonda OhanaMomma Michelle |
 | 367 | 87 | Limbo |
-| 368 | 87 | da1ndonly |
-| 369 | 87 | Jeff Margolis |
-| 370 | 87 | Miwa |
+| 368 | 87 | Miwa |
+| 369 | 87 | da1ndonly |
+| 370 | 87 | Jeff Margolis |
 | 371 | 86 | Dandy Cascade |
 | 372 | 86 | SupaFly |
 | 373 | 86 | Jessica Jones Bolton |
