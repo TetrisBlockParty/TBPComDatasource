@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 00:54:38 UTC
+# Standings for team1 as of 2026-06-06 00:55:14 UTC
 
 **Total Participants:** 656
 
@@ -180,17 +180,17 @@
 | 172 | 61 | Stephen Providenti |
 | 173 | 61 | star |
 | 174 | 60 | Lilly Brown |
-| 175 | 60 | Marlainia Boyd |
-| 176 | 60 | Cachet A Ward |
-| 177 | 60 | Marcheta Cervantez |
-| 178 | 60 | Christian Pham |
-| 179 | 60 | Breezy Catcher |
-| 180 | 60 | Christi Walker Patton |
-| 181 | 60 | Valerie Alexander |
-| 182 | 60 | izzybella |
-| 183 | 60 | Kristie |
-| 184 | 59 | Lauraly |
-| 185 | 59 | Chummy Frame |
+| 175 | 60 | Chummy Frame |
+| 176 | 60 | Marlainia Boyd |
+| 177 | 60 | Cachet A Ward |
+| 178 | 60 | Marcheta Cervantez |
+| 179 | 60 | Christian Pham |
+| 180 | 60 | Breezy Catcher |
+| 181 | 60 | Christi Walker Patton |
+| 182 | 60 | Valerie Alexander |
+| 183 | 60 | izzybella |
+| 184 | 60 | Kristie |
+| 185 | 59 | Lauraly |
 | 186 | 58 | Tobey Marberry |
 | 187 | 58 | Brandy Way |
 | 188 | 58 | Penee Wiggins |

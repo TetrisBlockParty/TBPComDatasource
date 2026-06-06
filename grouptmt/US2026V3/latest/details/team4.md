@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 00:54:38 UTC
+# Standings for team4 as of 2026-06-06 00:55:14 UTC
 
 **Total Participants:** 611
 
@@ -21,10 +21,10 @@
 | 13 | 1853 | Daring Ziggy |
 | 14 | 1669 | Cinny |
 | 15 | 1064 | Hanan Hana |
-| 16 | 971 | Loony Towerer |
-| 17 | 906 | Fruitpunch |
-| 18 | 876 | SMV |
-| 19 | 819 | Lisa Cullum |
+| 16 | 1015 | Lisa Cullum |
+| 17 | 971 | Loony Towerer |
+| 18 | 906 | Fruitpunch |
+| 19 | 876 | SMV |
 | 20 | 781 | Blind Bette |
 | 21 | 700 | Carly Stempien |
 | 22 | 661 | Giggy Matchpiece |
@@ -75,10 +75,10 @@
 | 67 | 169 | blockhead |
 | 68 | 168 | Beee |
 | 69 | 163 | Kim |
-| 70 | 160 | Shmeedo |
-| 71 | 159 | iiPurgeV2 |
-| 72 | 156 | Adam J Leong |
-| 73 | 154 | Anna Gribble |
+| 70 | 160 | Anna Gribble |
+| 71 | 160 | Shmeedo |
+| 72 | 159 | iiPurgeV2 |
+| 73 | 156 | Adam J Leong |
 | 74 | 153 | Brandy Lynn |
 | 75 | 152 | Colin |
 | 76 | 149 | Danny Ortiz |
@@ -170,30 +170,30 @@
 | 162 | 71 | King |
 | 163 | 71 | Bouncy |
 | 164 | 70 | Josh Keith Travierso |
-| 165 | 68 | Smiley Gridzone |
-| 166 | 68 | Keys Tome |
-| 167 | 68 | Erika Seaton |
-| 168 | 67 | Henry Lanier |
+| 165 | 69 | Rita Ann |
+| 166 | 68 | Smiley Gridzone |
+| 167 | 68 | Keys Tome |
+| 168 | 68 | Erika Seaton |
 | 169 | 67 | Hen |
-| 170 | 67 | Alma López Morales |
-| 171 | 66 | Mann Manson |
-| 172 | 66 | Shiny Brick |
-| 173 | 65 | Cool Risepiece |
-| 174 | 65 | Domo Dpn |
-| 175 | 63 | Wacky Brick |
-| 176 | 63 | Kay |
-| 177 | 63 | Rita Ann |
-| 178 | 63 | Blockcrusher |
-| 179 | 63 | Ana Ruiz |
+| 170 | 67 | Henry Lanier |
+| 171 | 67 | Alma López Morales |
+| 172 | 66 | Mann Manson |
+| 173 | 66 | Shiny Brick |
+| 174 | 65 | Cool Risepiece |
+| 175 | 65 | Domo Dpn |
+| 176 | 63 | Wacky Brick |
+| 177 | 63 | Kay |
+| 178 | 63 | Ana Ruiz |
+| 179 | 63 | Blockcrusher |
 | 180 | 62 | Shanna Fragen |
 | 181 | 62 | Frisky Balance |
 | 182 | 62 | Megan Vick |
-| 183 | 60 | Chris Rowe |
-| 184 | 60 | Fran Aaron-Ring |
-| 185 | 60 | Amandacolle |
-| 186 | 60 | aga |
+| 183 | 60 | aga |
+| 184 | 60 | Chris Rowe |
+| 185 | 60 | Fran Aaron-Ring |
+| 186 | 60 | Jumpy Builderpiece |
 | 187 | 60 | George Marshburn |
-| 188 | 60 | Jumpy Builderpiece |
+| 188 | 60 | Amandacolle |
 | 189 | 59 | Paula Renee McCracken |
 | 190 | 59 | Futrell Brent |
 | 191 | 58 | Jenn Fitzgerald |
@@ -201,32 +201,32 @@
 | 193 | 57 | Cindy |
 | 194 | 57 | Noa Lee |
 | 195 | 57 | BusterBear56 |
-| 196 | 56 | Iforget |
-| 197 | 56 | Joshua Hunt |
-| 198 | 56 | Bre Dee |
+| 196 | 56 | Bre Dee |
+| 197 | 56 | Iforget |
+| 198 | 56 | Joshua Hunt |
 | 199 | 55 | Daring Brickbuilder |
 | 200 | 54 | Ricardo Arias |
 | 201 | 54 | Playa |
 | 202 | 53 | LaTanya GeminiondaRise Johnson |
 | 203 | 52 | Jj Johnson |
-| 204 | 51 | Vergie Michael |
+| 204 | 51 | Amanda Snow |
 | 205 | 51 | Scamp Jones |
-| 206 | 51 | Amanda Snow |
-| 207 | 50 | Cheeky Climber |
-| 208 | 50 | Susan Stofberg Beltran |
-| 209 | 50 | Sassy Column |
-| 210 | 50 | Snappy Fitzone |
+| 206 | 51 | Vergie Michael |
+| 207 | 50 | Snappy Fitzone |
+| 208 | 50 | Cheeky Climber |
+| 209 | 50 | Susan Stofberg Beltran |
+| 210 | 50 | Nova Kain |
 | 211 | 50 | Ginny |
-| 212 | 50 | Nova Kain |
-| 213 | 49 | Laurie Patrick |
-| 214 | 49 | Darren Miguel |
+| 212 | 50 | Sassy Column |
+| 213 | 49 | smarty |
+| 214 | 49 | Laurie Patrick |
 | 215 | 49 | Destiny Starr LeValdo |
-| 216 | 49 | Karen Riexinger |
-| 217 | 49 | smarty |
-| 218 | 48 | Surviving Be Back Soon |
-| 219 | 48 | Lilo |
-| 220 | 48 | Joseph Hunter |
-| 221 | 48 | Dapper Strikerpiece |
+| 216 | 49 | Darren Miguel |
+| 217 | 49 | Karen Riexinger |
+| 218 | 48 | Dapper Strikerpiece |
+| 219 | 48 | Surviving Be Back Soon |
+| 220 | 48 | Lilo |
+| 221 | 48 | Joseph Hunter |
 | 222 | 48 | Karen Davis |
 | 223 | 47 | Melissa Quinn |
 | 224 | 46 | Esmond Johnson IV |
