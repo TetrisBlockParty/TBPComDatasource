@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 17:09:17 UTC
+# Standings for team1 as of 2026-06-06 17:10:17 UTC
 
 **Total Participants:** 1078
 
@@ -30,9 +30,9 @@
 | 22 | 1589 | Brian Stackhouse |
 | 23 | 1445 | Erika Windom |
 | 24 | 1442 | Juan Kandiss Escobedo Irwin |
-| 25 | 1242 | Jacoby E Fleming |
-| 26 | 1139 | Charnay Peacock |
-| 27 | 1100 | April Inboden |
+| 25 | 1400 | April Inboden |
+| 26 | 1242 | Jacoby E Fleming |
+| 27 | 1139 | Charnay Peacock |
 | 28 | 1086 | Ryan Meilleur |
 | 29 | 1082 | Daylene Johannes |
 | 30 | 1075 | Mary Jenkins |
@@ -385,20 +385,20 @@
 | 377 | 71 | Abigail Newman Sweet |
 | 378 | 71 | Steve Reno |
 | 379 | 70 | Kaleisha Smith |
-| 380 | 70 | Daddy |
-| 381 | 70 | Gerold Folk Haddock |
-| 382 | 70 | MamushiOh |
-| 383 | 69 | sasha |
-| 384 | 69 | Rene Hicks |
-| 385 | 69 | Sunny Clicky |
-| 386 | 68 | Alyssa Rae |
-| 387 | 68 | Tee Spinks |
-| 388 | 68 | Amy Lynn Leifheit |
-| 389 | 68 | Logan Frost |
-| 390 | 68 | Kimmie Gargano |
-| 391 | 68 | Eric Spencer Whitaker |
-| 392 | 67 | Rufus |
-| 393 | 67 | Jennah |
+| 380 | 70 | Rene Hicks |
+| 381 | 70 | Daddy |
+| 382 | 70 | Gerold Folk Haddock |
+| 383 | 70 | MamushiOh |
+| 384 | 69 | sasha |
+| 385 | 69 | Jennah |
+| 386 | 69 | Sunny Clicky |
+| 387 | 68 | Alyssa Rae |
+| 388 | 68 | Tee Spinks |
+| 389 | 68 | Amy Lynn Leifheit |
+| 390 | 68 | Logan Frost |
+| 391 | 68 | Kimmie Gargano |
+| 392 | 68 | Eric Spencer Whitaker |
+| 393 | 67 | Rufus |
 | 394 | 67 | Laurie Napper |
 | 395 | 67 | LexiiSamayaa |
 | 396 | 67 | Yadira Salgado |
