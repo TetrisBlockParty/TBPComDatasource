@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 15:08:41 UTC
+# Standings for team4 as of 2026-06-06 15:09:16 UTC
 
 **Total Participants:** 1014
 
@@ -95,30 +95,30 @@
 | 87 | 320 | DexterDobbins |
 | 88 | 320 | Jackie Jackson |
 | 89 | 320 | Gigglycat |
-| 90 | 317 | J |
-| 91 | 302 | JoLinda Dunn |
-| 92 | 301 | Маркус Вік |
-| 93 | 300 | 2 kool |
-| 94 | 300 | Genag |
-| 95 | 295 | Thomasena Eady Reid |
-| 96 | 293 | Kim |
-| 97 | 283 | Jesse Olive |
-| 98 | 280 | Andrew Dang |
-| 99 | 278 | iiPurgeV2 |
+| 90 | 318 | iiPurgeV2 |
+| 91 | 317 | J |
+| 92 | 302 | JoLinda Dunn |
+| 93 | 301 | Маркус Вік |
+| 94 | 300 | 2 kool |
+| 95 | 300 | Genag |
+| 96 | 295 | Thomasena Eady Reid |
+| 97 | 293 | Kim |
+| 98 | 283 | Jesse Olive |
+| 99 | 280 | Andrew Dang |
 | 100 | 267 | Cranky Towerbuilder |
 | 101 | 259 | Jessica Peyton |
 | 102 | 257 | Sarah Berry Stevens |
 | 103 | 253 | Hairy Snake |
 | 104 | 253 | Debby Ruof |
-| 105 | 240 | Jojo Ann |
-| 106 | 235 | Hwanger Land |
-| 107 | 230 | Sisi RedVelvet Reneè |
-| 108 | 229 | Aisha Estrada |
-| 109 | 226 | Becky McCool |
-| 110 | 223 | matt |
-| 111 | 220 | Silly Risegrid |
-| 112 | 220 | Shmeedo |
-| 113 | 220 | Kitsune Bi |
+| 105 | 250 | Kitsune Bi |
+| 106 | 240 | Jojo Ann |
+| 107 | 235 | Hwanger Land |
+| 108 | 230 | Sisi RedVelvet Reneè |
+| 109 | 229 | Aisha Estrada |
+| 110 | 226 | Becky McCool |
+| 111 | 223 | matt |
+| 112 | 220 | Silly Risegrid |
+| 113 | 220 | Shmeedo |
 | 114 | 218 | Dubiousdust |
 | 115 | 217 | Slimm |
 | 116 | 212 | blockhead |
@@ -131,11 +131,11 @@
 | 123 | 201 | Perky Riserbuilder |
 | 124 | 200 | Esther Hadassah |
 | 125 | 199 | Colin |
-| 126 | 195 | Sean Mccleary |
-| 127 | 194 | Chiquita Blue |
-| 128 | 194 | Lisa lisa |
-| 129 | 193 | Tiffany Bunker-Hill |
-| 130 | 193 | GeorgeButts |
+| 126 | 199 | GeorgeButts |
+| 127 | 195 | Sean Mccleary |
+| 128 | 194 | Chiquita Blue |
+| 129 | 194 | Lisa lisa |
+| 130 | 193 | Tiffany Bunker-Hill |
 | 131 | 187 | Daryn Elliott |
 | 132 | 186 | Kimyatta Cavin |
 | 133 | 185 | Dae Von |
@@ -242,8 +242,8 @@
 | 234 | 104 | Justin Ballard |
 | 235 | 103 | farfromlocal |
 | 236 | 103 | Bridget Stevens |
-| 237 | 103 | Boldy Rumbler |
-| 238 | 103 | Rachel Lemos |
+| 237 | 103 | Rachel Lemos |
+| 238 | 103 | Boldy Rumbler |
 | 239 | 102 | Keith Kosmicki |
 | 240 | 102 | Lively Cascadebuilder |
 | 241 | 102 | Taisha Beasley |
