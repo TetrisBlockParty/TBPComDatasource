@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 17:02:38 UTC
+# Standings for team4 as of 2026-06-06 17:03:17 UTC
 
 **Total Participants:** 1058
 
@@ -179,9 +179,9 @@
 | 171 | 155 | Ryan Paul Clark-Ramsey |
 | 172 | 154 | No Time |
 | 173 | 153 | Laguya |
-| 174 | 151 | Leslie Ann Carter |
-| 175 | 150 | gabs |
-| 176 | 148 | ariel |
+| 174 | 151 | ariel |
+| 175 | 151 | Leslie Ann Carter |
+| 176 | 150 | gabs |
 | 177 | 148 | Joseph Hunter |
 | 178 | 147 | Janet Sanfilippo Sullivan |
 | 179 | 146 | Alyson M Kehler |
@@ -473,86 +473,86 @@
 | 465 | 57 | Tiffany Roberts |
 | 466 | 57 | Erich EMac McIntosh |
 | 467 | 57 | Волна Бог |
-| 468 | 57 | Giggy Snapgrid |
+| 468 | 57 | Rocky |
 | 469 | 57 | PapaB |
-| 470 | 57 | Rocky |
-| 471 | 57 | Deborah Silberg |
-| 472 | 57 | Shia Marie |
+| 470 | 57 | Deborah Silberg |
+| 471 | 57 | Shia Marie |
+| 472 | 57 | Giggy Snapgrid |
 | 473 | 57 | da1ndonly |
-| 474 | 56 | Zappy Matchgrid |
-| 475 | 56 | Karen Davis |
-| 476 | 56 | Tony Clark |
-| 477 | 55 | The Jazziest |
-| 478 | 55 | Nicole Ambrose |
-| 479 | 55 | Jailen Harper |
-| 480 | 55 | Elisha Thompson |
+| 474 | 56 | Tony Clark |
+| 475 | 56 | Zappy Matchgrid |
+| 476 | 56 | Karen Davis |
+| 477 | 55 | Nicole Ambrose |
+| 478 | 55 | Jailen Harper |
+| 479 | 55 | The Jazziest |
+| 480 | 55 | Cherrel M. Causey |
 | 481 | 55 | Cinta Marie |
-| 482 | 55 | Cherrel M. Causey |
-| 483 | 54 | Lisa Ferriero-Daudin |
+| 482 | 55 | Elisha Thompson |
+| 483 | 55 | Lovetetris |
 | 484 | 54 | Earl Edwards |
-| 485 | 54 | Solace Grace |
-| 486 | 53 | Marisela Alvarado |
-| 487 | 53 | LaTanya GeminiondaRise Johnson |
-| 488 | 53 | Monte Smith |
-| 489 | 53 | MattJennifer Marie Ericson |
-| 490 | 53 | Trang Nguyen |
-| 491 | 52 | Plucky Shatterfit |
-| 492 | 52 | Clashy |
-| 493 | 52 | Lisa Pie |
+| 485 | 54 | Lisa Ferriero-Daudin |
+| 486 | 54 | Solace Grace |
+| 487 | 53 | MattJennifer Marie Ericson |
+| 488 | 53 | LaTanya GeminiondaRise Johnson |
+| 489 | 53 | Trang Nguyen |
+| 490 | 53 | Marisela Alvarado |
+| 491 | 53 | Monte Smith |
+| 492 | 52 | Lisa Pie |
+| 493 | 52 | Plucky Shatterfit |
 | 494 | 52 | Jj Johnson |
 | 495 | 52 | Angela Adamo-Tash |
-| 496 | 52 | Snappy Stack |
-| 497 | 52 | Sonya |
-| 498 | 52 | Luunii |
-| 499 | 51 | Breezy Blockzone |
-| 500 | 51 | Michellee Lewis |
-| 501 | 51 | Kimberly Civinski |
-| 502 | 51 | LilRain |
-| 503 | 51 | yourmomz |
-| 504 | 51 | Poppy |
-| 505 | 51 | Clever Patterner |
-| 506 | 51 | Erika Rubio |
-| 507 | 51 | JustLessie |
-| 508 | 51 | Vergie Michael |
-| 509 | 50 | Diane Obungu |
-| 510 | 50 | Jacqueline Wright |
+| 496 | 52 | Clashy |
+| 497 | 52 | Snappy Stack |
+| 498 | 52 | Sonya |
+| 499 | 52 | Luunii |
+| 500 | 51 | Vergie Michael |
+| 501 | 51 | Breezy Blockzone |
+| 502 | 51 | yourmomz |
+| 503 | 51 | Poppy |
+| 504 | 51 | Clever Patterner |
+| 505 | 51 | Erika Rubio |
+| 506 | 51 | LilRain |
+| 507 | 51 | Kimberly Civinski |
+| 508 | 51 | JustLessie |
+| 509 | 51 | Michellee Lewis |
+| 510 | 50 | Loony Edge |
 | 511 | 50 | Nova Kain |
-| 512 | 50 | Loony Edge |
-| 513 | 50 | Bhakti Sawarkar |
-| 514 | 50 | Michael Cruz |
-| 515 | 50 | Lady Dolphin |
-| 516 | 50 | Lovetetris |
+| 512 | 50 | Michael Cruz |
+| 513 | 50 | Diane Obungu |
+| 514 | 50 | Lady Dolphin |
+| 515 | 50 | Jacqueline Wright |
+| 516 | 50 | Bhakti Sawarkar |
 | 517 | 50 | Edward White |
-| 518 | 50 | Brittany |
-| 519 | 50 | Nerdy Brickster |
-| 520 | 50 | Susan Stofberg Beltran |
-| 521 | 50 | Flashy Shatterer |
-| 522 | 50 | Ralph Hell Rell Williams |
-| 523 | 50 | Katie Lynn Petit |
-| 524 | 50 | Sassy Column |
+| 518 | 50 | Susan Stofberg Beltran |
+| 519 | 50 | Ralph Hell Rell Williams |
+| 520 | 50 | Katie Lynn Petit |
+| 521 | 50 | Brittany |
+| 522 | 50 | Nerdy Brickster |
+| 523 | 50 | Sassy Column |
+| 524 | 50 | Flashy Shatterer |
 | 525 | 49 | EpicWizard |
-| 526 | 49 | Destiny Starr LeValdo |
-| 527 | 49 | Mrsjcraw18 |
-| 528 | 49 | smarty |
-| 529 | 49 | Erica Armstrong Baz |
-| 530 | 49 | Karen Riexinger |
-| 531 | 49 | Daffney Starr |
+| 526 | 49 | smarty |
+| 527 | 49 | Destiny Starr LeValdo |
+| 528 | 49 | Erica Armstrong Baz |
+| 529 | 49 | Mrsjcraw18 |
+| 530 | 49 | Daffney Starr |
+| 531 | 49 | Karen Riexinger |
 | 532 | 48 | Lilo |
 | 533 | 48 | ŁųŁų |
-| 534 | 47 | Candiecane324 |
-| 535 | 47 | Alizabeth Garcia |
-| 536 | 47 | 94Blockhead |
-| 537 | 47 | Lush Twisterfit |
+| 534 | 47 | Alizabeth Garcia |
+| 535 | 47 | Lush Twisterfit |
+| 536 | 47 | Candiecane324 |
+| 537 | 47 | 94Blockhead |
 | 538 | 47 | Bonique Bier |
 | 539 | 46 | Tamika Ashli Bonner |
-| 540 | 46 | Meela Abdurrab |
-| 541 | 46 | Mc3003 |
-| 542 | 46 | Esmond Johnson IV |
-| 543 | 46 | Jacqueline Jackii Ramos |
-| 544 | 46 | Katie Martin |
-| 545 | 45 | SueSally |
-| 546 | 45 | Capone |
-| 547 | 45 | EmBem |
+| 540 | 46 | Jacqueline Jackii Ramos |
+| 541 | 46 | Esmond Johnson IV |
+| 542 | 46 | Mc3003 |
+| 543 | 46 | Katie Martin |
+| 544 | 46 | Meela Abdurrab |
+| 545 | 45 | Capone |
+| 546 | 45 | EmBem |
+| 547 | 45 | SueSally |
 | 548 | 45 | Jennifer Terrill |
 | 549 | 45 | Knijur Callins |
 | 550 | 45 | Becky Bernazal |
