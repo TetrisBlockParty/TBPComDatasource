@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 11:20:37 UTC
+# Standings for team1 as of 2026-06-06 11:21:16 UTC
 
 **Total Participants:** 965
 
@@ -296,69 +296,69 @@
 | 288 | 74 | Tetrisdestroyer |
 | 289 | 73 | HarleyJane |
 | 290 | 73 | Slinky Snapbuilder |
-| 291 | 72 | Chummy Frame |
-| 292 | 72 | Tosha Michelle |
-| 293 | 72 | Lauraly |
-| 294 | 71 | Elaine Pauley |
-| 295 | 71 | Kristie |
-| 296 | 71 | HBTone |
-| 297 | 71 | Erin Sabol |
+| 291 | 72 | Tosha Michelle |
+| 292 | 72 | Lauraly |
+| 293 | 72 | Chummy Frame |
+| 294 | 71 | Erin Sabol |
+| 295 | 71 | Elaine Pauley |
+| 296 | 71 | Kristie |
+| 297 | 71 | HBTone |
 | 298 | 70 | Gerold Folk Haddock |
-| 299 | 70 | Hailey Hil |
-| 300 | 70 | Cheeky Pop |
-| 301 | 70 | $hort Dog |
-| 302 | 70 | Kaleisha Smith |
+| 299 | 70 | Kaleisha Smith |
+| 300 | 70 | $hort Dog |
+| 301 | 70 | Hailey Hil |
+| 302 | 70 | Cheeky Pop |
 | 303 | 70 | MamushiOh |
-| 304 | 69 | CJ Robinson |
-| 305 | 69 | Sunny Clicky |
-| 306 | 68 | Tee Spinks |
-| 307 | 68 | Wacky Stackbuilder |
-| 308 | 68 | Eric Spencer Whitaker |
-| 309 | 68 | MrsMeadows2019 |
-| 310 | 67 | Fina McKinnis |
-| 311 | 67 | Steve Reno |
-| 312 | 67 | Johnathan Deese |
-| 313 | 67 | Jennah |
-| 314 | 67 | Laurie Napper |
+| 304 | 69 | Sunny Clicky |
+| 305 | 69 | CJ Robinson |
+| 306 | 68 | Eric Spencer Whitaker |
+| 307 | 68 | MrsMeadows2019 |
+| 308 | 68 | Donna Payne |
+| 309 | 68 | Wacky Stackbuilder |
+| 310 | 68 | Tee Spinks |
+| 311 | 67 | Johnathan Deese |
+| 312 | 67 | Jennah |
+| 313 | 67 | Michele Elizabeth McKay-Johnson |
+| 314 | 67 | Fina McKinnis |
 | 315 | 67 | Travis Davison |
-| 316 | 67 | Michele Elizabeth McKay-Johnson |
-| 317 | 66 | GracefulOwl808 |
+| 316 | 67 | Laurie Napper |
+| 317 | 67 | Steve Reno |
 | 318 | 66 | Breezy Catcher |
-| 319 | 65 | Danielle DeLozier Plesec |
-| 320 | 65 | Sabrina Wilkerson |
-| 321 | 65 | Jonathan Vee Jay |
-| 322 | 65 | Giggy Tower |
+| 319 | 66 | GracefulOwl808 |
+| 320 | 65 | Jonathan Vee Jay |
+| 321 | 65 | Danielle DeLozier Plesec |
+| 322 | 65 | Sabrina Wilkerson |
 | 323 | 65 | Jazzy Bridger |
-| 324 | 64 | Penee Wiggins |
+| 324 | 65 | Giggy Tower |
 | 325 | 64 | Dena Marie Lee |
-| 326 | 63 | Slinky Clearzone |
-| 327 | 63 | Ahsokadog |
+| 326 | 64 | Penee Wiggins |
+| 327 | 63 | Slinky Clearzone |
 | 328 | 63 | La'Chae Nickole |
-| 329 | 63 | Sarah Swietlicki - Lopez |
-| 330 | 62 | Jack Mehof |
-| 331 | 62 | Lynnette WheelerBushnell |
-| 332 | 62 | Richard Flex |
+| 329 | 63 | Ahsokadog |
+| 330 | 63 | Sarah Swietlicki - Lopez |
+| 331 | 62 | Jack Mehof |
+| 332 | 62 | Lynnette WheelerBushnell |
 | 333 | 62 | De'Mear McKinney |
-| 334 | 61 | Tonya Thomas |
-| 335 | 61 | star |
-| 336 | 61 | Donna Payne |
+| 334 | 62 | Richard Flex |
+| 335 | 61 | Tonya Thomas |
+| 336 | 61 | star |
 | 337 | 60 | Christi Walker Patton |
-| 338 | 60 | Valerie Alexander |
-| 339 | 60 | Coco |
-| 340 | 60 | Kimberly Noble |
-| 341 | 60 | Tasha |
+| 338 | 60 | Kimberly Noble |
+| 339 | 60 | Tasha |
+| 340 | 60 | Valerie Alexander |
+| 341 | 60 | Dianne Clagon |
 | 342 | 60 | Marlainia Boyd |
-| 343 | 60 | Heather Aurelia |
-| 344 | 60 | Brenda Malachi-butler |
+| 343 | 60 | Brenda Malachi-butler |
+| 344 | 60 | Heather Aurelia |
 | 345 | 60 | Big Bovice |
-| 346 | 60 | De'Nell Edwards |
-| 347 | 60 | Natasha Rucker |
-| 348 | 60 | Lilly Brown |
-| 349 | 60 | Kesha Brady |
-| 350 | 60 | Malcolm Stanley |
+| 346 | 60 | Coco |
+| 347 | 60 | De'Nell Edwards |
+| 348 | 60 | Natasha Rucker |
+| 349 | 60 | Lilly Brown |
+| 350 | 60 | Kesha Brady |
 | 351 | 60 | Christian Pham |
-| 352 | 60 | Angie Smith |
-| 353 | 60 | Dianne Clagon |
+| 352 | 60 | Malcolm Stanley |
+| 353 | 60 | Angie Smith |
 | 354 | 59 | Keith Johnson |
 | 355 | 59 | Koi |
 | 356 | 59 | Chilly Wipebuilder |
