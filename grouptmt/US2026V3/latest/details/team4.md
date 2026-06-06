@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 23:30:40 UTC
+# Standings for team4 as of 2026-06-06 23:31:16 UTC
 
 **Total Participants:** 1198
 
@@ -39,7 +39,7 @@
 | 31 | 1185 | Leigh Pierce |
 | 32 | 1169 | Charlie Lewis |
 | 33 | 1089 | Ning Quiambao |
-| 34 | 1066 | Squirrel Donkey |
+| 34 | 1069 | Squirrel Donkey |
 | 35 | 1055 | Michele Walker |
 | 36 | 971 | Loony Towerer |
 | 37 | 966 | BertaF1irta |
@@ -59,8 +59,8 @@
 | 51 | 754 | Victoria Ver |
 | 52 | 738 | Shaina Sharp |
 | 53 | 736 | Gloria Nunley Trussell |
-| 54 | 722 | Chummy Rollzone |
-| 55 | 721 | Keesha Muro |
+| 54 | 722 | Keesha Muro |
+| 55 | 722 | Chummy Rollzone |
 | 56 | 720 | Carly Stempien |
 | 57 | 718 | Phil Peterson |
 | 58 | 717 | Bubbly Twistpiece |
@@ -93,9 +93,9 @@
 | 85 | 479 | Caitlyn Wang |
 | 86 | 477 | Malik Thompson |
 | 87 | 467 | vag1974 |
-| 88 | 461 | Kayla Fuentes |
-| 89 | 461 | Cranky Towerbuilder |
-| 90 | 454 | adrian |
+| 88 | 464 | adrian |
+| 89 | 461 | Kayla Fuentes |
+| 90 | 461 | Cranky Towerbuilder |
 | 91 | 440 | Jewelz |
 | 92 | 440 | Bryan DjMagnum Evans |
 | 93 | 400 | Amber Doyle |
@@ -141,7 +141,7 @@
 | 133 | 282 | Nicole |
 | 134 | 281 | Margie Thomas |
 | 135 | 280 | Suzanne Carter |
-| 136 | 272 | Sarah Berry Stevens |
+| 136 | 277 | Sarah Berry Stevens |
 | 137 | 270 | Jojo Ann |
 | 138 | 262 | squareMel |
 | 139 | 259 | Jessica Peyton |
@@ -869,15 +869,15 @@
 | 861 | 29 | Slinky Snapfit |
 | 862 | 29 | Kelley Shoop |
 | 863 | 28 | Leslee Bentley DeLong |
-| 864 | 28 | Mindy Phariss |
-| 865 | 28 | Chad Finton |
-| 866 | 28 | Katherine Stec |
-| 867 | 28 | Brandi Gray |
-| 868 | 28 | Snappy Slice |
-| 869 | 28 | Sandra O'Reilly |
-| 870 | 27 | Jennifer Evans Elliott |
-| 871 | 27 | Shirley Williams |
-| 872 | 27 | boo |
+| 864 | 28 | Sandra O'Reilly |
+| 865 | 28 | Mindy Phariss |
+| 866 | 28 | Chad Finton |
+| 867 | 28 | Katherine Stec |
+| 868 | 28 | Brandi Gray |
+| 869 | 28 | Snappy Slice |
+| 870 | 28 | Joshua Franklin |
+| 871 | 27 | boo |
+| 872 | 27 | Shirley Williams |
 | 873 | 27 | alxhue04 |
 | 874 | 27 | Loopy Bridger |
 | 875 | 27 | PIPPI |
@@ -889,40 +889,40 @@
 | 881 | 27 | MzCeleste Brooks |
 | 882 | 27 | Jaison Horton |
 | 883 | 27 | Myranda Gereau |
-| 884 | 27 | Weird Cat |
-| 885 | 27 | Hotstuff |
+| 884 | 27 | Jennifer Evans Elliott |
+| 885 | 27 | Weird Cat |
 | 886 | 27 | Bigmamalizzet Latto |
-| 887 | 26 | Judea Leblanc |
+| 887 | 27 | Hotstuff |
 | 888 | 26 | Rob$GEE |
-| 889 | 26 | Rebecca Sloan |
-| 890 | 26 | Tahira Patrice |
-| 891 | 26 | Joshua Franklin |
-| 892 | 26 | Kevin Lyles |
-| 893 | 26 | Kimberly Ann |
-| 894 | 26 | Thomas Cassell |
-| 895 | 26 | Rebecca Rae Reed |
-| 896 | 26 | LandO |
-| 897 | 26 | Jessica Huber |
-| 898 | 26 | Lacey Decker |
-| 899 | 26 | Kasey Lynne |
-| 900 | 26 | Leslie Marie WarClub |
-| 901 | 25 | Jim Stewart |
-| 902 | 25 | Lionel Hampton |
-| 903 | 25 | Memphiago Tenninois |
-| 904 | 25 | moonman33 |
-| 905 | 25 | Love GH |
+| 889 | 26 | Rebecca Rae Reed |
+| 890 | 26 | Lacey Decker |
+| 891 | 26 | Leslie Marie WarClub |
+| 892 | 26 | Kasey Lynne |
+| 893 | 26 | LandO |
+| 894 | 26 | Tahira Patrice |
+| 895 | 26 | Jessica Huber |
+| 896 | 26 | Kevin Lyles |
+| 897 | 26 | Thomas Cassell |
+| 898 | 26 | Kimberly Ann |
+| 899 | 26 | Rebecca Sloan |
+| 900 | 26 | Judea Leblanc |
+| 901 | 25 | Love GH |
+| 902 | 25 | Memphiago Tenninois |
+| 903 | 25 | moonman33 |
+| 904 | 25 | Lionel Hampton |
+| 905 | 25 | Jim Stewart |
 | 906 | 25 | Alicia Horsea Rojas |
 | 907 | 25 | Christopher Ponceja |
-| 908 | 25 | Chabetta |
-| 909 | 25 | Daisy Jaramillo |
-| 910 | 25 | chapis |
-| 911 | 25 | Travis McKinnon |
-| 912 | 25 | Jada Jordyn Campbell |
-| 913 | 25 | Kendall Rhodie |
+| 908 | 25 | Daisy Jaramillo |
+| 909 | 25 | chapis |
+| 910 | 25 | Travis McKinnon |
+| 911 | 25 | Jada Jordyn Campbell |
+| 912 | 25 | Kendall Rhodie |
+| 913 | 25 | Chabetta |
 | 914 | 24 | Theo Stamps |
 | 915 | 24 | Ja'Net Riley |
-| 916 | 24 | Ferlyz |
-| 917 | 24 | Katiana Gonzalez |
+| 916 | 24 | Katiana Gonzalez |
+| 917 | 24 | Ferlyz |
 | 918 | 24 | Socorro Arredondo |
 | 919 | 24 | Tiffany Taylor |
 | 920 | 23 | Lizxxx |
