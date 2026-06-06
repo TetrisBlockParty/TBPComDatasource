@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 11:20:16 UTC
+# Standings for team4 as of 2026-06-06 11:20:37 UTC
 
 **Total Participants:** 938
 
@@ -89,7 +89,7 @@
 | 81 | 320 | Jackie Jackson |
 | 82 | 320 | DexterDobbins |
 | 83 | 317 | J |
-| 84 | 309 | Bubbly Twistpiece |
+| 84 | 312 | Bubbly Twistpiece |
 | 85 | 302 | JoLinda Dunn |
 | 86 | 301 | Маркус Вік |
 | 87 | 300 | Genag |
@@ -286,75 +286,75 @@
 | 278 | 76 | Spicy Peach |
 | 279 | 76 | All knowing |
 | 280 | 76 | EvoKitty |
-| 281 | 75 | Sarah Perry Cook |
-| 282 | 75 | Corey Jackson |
-| 283 | 75 | Peachy Piecefit |
-| 284 | 74 | Rita Ann |
-| 285 | 73 | Joshua Hunt |
-| 286 | 73 | Troy Zanelli |
-| 287 | 73 | Jenn Fitzgerald |
-| 288 | 71 | Taquilla Branch |
-| 289 | 71 | King |
-| 290 | 71 | Snazzy Fitclear |
-| 291 | 70 | ManOfSteel |
-| 292 | 70 | Karen Small |
-| 293 | 70 | Gigglycat |
-| 294 | 70 | Henry Lanier |
-| 295 | 69 | Nicole Colby McCloskey |
-| 296 | 69 | Khylee DarDar |
-| 297 | 69 | Dizzy Slammer |
-| 298 | 69 | Wacky Brick |
-| 299 | 68 | Keys Tome |
-| 300 | 68 | Smiley Gridzone |
-| 301 | 68 | Erika Seaton |
-| 302 | 68 | Azahares Alonso |
-| 303 | 67 | Karen Rodriguez |
-| 304 | 67 | Noa Lee |
-| 305 | 67 | Alma López Morales |
-| 306 | 67 | Loretta Hendricks |
-| 307 | 66 | james |
-| 308 | 66 | Samantha Worley |
-| 309 | 66 | Mann Manson |
-| 310 | 65 | Domo Dpn |
-| 311 | 65 | SupaFly |
-| 312 | 65 | Joshua Garner |
-| 313 | 65 | Lul Babie |
-| 314 | 65 | Cranky Twistpiece |
-| 315 | 64 | Queen B |
-| 316 | 64 | Melika Zeheb |
-| 317 | 64 | sierrabeth |
-| 318 | 64 | George Palacios |
-| 319 | 63 | Ana Ruiz |
-| 320 | 63 | Brenda Gustamantes |
-| 321 | 63 | Brenda Mueller |
-| 322 | 63 | Ajohnna Frazee |
-| 323 | 63 | Blockcrusher |
-| 324 | 62 | Nicole |
-| 325 | 62 | Tiggerjake |
-| 326 | 62 | Jen Smith |
-| 327 | 62 | medicjessi |
-| 328 | 62 | Frisky Balance |
-| 329 | 61 | Lolita Nettles |
-| 330 | 61 | Jackie Miller |
-| 331 | 61 | Deborah Ayliffe |
-| 332 | 61 | Tasha Suzanne Prisbrey |
-| 333 | 61 | Cindy |
-| 334 | 60 | aga |
-| 335 | 60 | George Marshburn |
-| 336 | 60 | Chris Rowe |
-| 337 | 60 | Frothy Pattern |
-| 338 | 60 | Jumpy Builderpiece |
-| 339 | 60 | Helen Bradley |
-| 340 | 60 | Anthony Magaraci |
-| 341 | 60 | Anthony Lewis |
-| 342 | 60 | Sonia Cordero-Martinez |
-| 343 | 60 | Tiffy |
-| 344 | 60 | Ricardo Arias |
-| 345 | 60 | Randy M Hatch |
-| 346 | 60 | Amandacolle |
-| 347 | 60 | Kristine Hj Han |
-| 348 | 60 | Beth Belanger |
-| 349 | 60 | PsyDMom |
+| 281 | 75 | PsyDMom |
+| 282 | 75 | Sarah Perry Cook |
+| 283 | 75 | Corey Jackson |
+| 284 | 75 | Peachy Piecefit |
+| 285 | 74 | Rita Ann |
+| 286 | 73 | Joshua Hunt |
+| 287 | 73 | Troy Zanelli |
+| 288 | 73 | Jenn Fitzgerald |
+| 289 | 71 | Taquilla Branch |
+| 290 | 71 | King |
+| 291 | 71 | Snazzy Fitclear |
+| 292 | 70 | ManOfSteel |
+| 293 | 70 | Karen Small |
+| 294 | 70 | Gigglycat |
+| 295 | 70 | Henry Lanier |
+| 296 | 69 | Nicole Colby McCloskey |
+| 297 | 69 | Khylee DarDar |
+| 298 | 69 | Dizzy Slammer |
+| 299 | 69 | Wacky Brick |
+| 300 | 68 | Keys Tome |
+| 301 | 68 | Smiley Gridzone |
+| 302 | 68 | Erika Seaton |
+| 303 | 68 | Azahares Alonso |
+| 304 | 67 | Karen Rodriguez |
+| 305 | 67 | Noa Lee |
+| 306 | 67 | Alma López Morales |
+| 307 | 67 | Loretta Hendricks |
+| 308 | 66 | james |
+| 309 | 66 | Samantha Worley |
+| 310 | 66 | Mann Manson |
+| 311 | 65 | Domo Dpn |
+| 312 | 65 | SupaFly |
+| 313 | 65 | Joshua Garner |
+| 314 | 65 | Lul Babie |
+| 315 | 65 | Cranky Twistpiece |
+| 316 | 64 | Queen B |
+| 317 | 64 | Melika Zeheb |
+| 318 | 64 | sierrabeth |
+| 319 | 64 | George Palacios |
+| 320 | 63 | Ana Ruiz |
+| 321 | 63 | Brenda Gustamantes |
+| 322 | 63 | Brenda Mueller |
+| 323 | 63 | Ajohnna Frazee |
+| 324 | 63 | Blockcrusher |
+| 325 | 62 | Nicole |
+| 326 | 62 | Tiggerjake |
+| 327 | 62 | Jen Smith |
+| 328 | 62 | medicjessi |
+| 329 | 62 | Frisky Balance |
+| 330 | 61 | Lolita Nettles |
+| 331 | 61 | Jackie Miller |
+| 332 | 61 | Deborah Ayliffe |
+| 333 | 61 | Tasha Suzanne Prisbrey |
+| 334 | 61 | Cindy |
+| 335 | 60 | aga |
+| 336 | 60 | George Marshburn |
+| 337 | 60 | Chris Rowe |
+| 338 | 60 | Frothy Pattern |
+| 339 | 60 | Jumpy Builderpiece |
+| 340 | 60 | Helen Bradley |
+| 341 | 60 | Anthony Magaraci |
+| 342 | 60 | Anthony Lewis |
+| 343 | 60 | Sonia Cordero-Martinez |
+| 344 | 60 | Tiffy |
+| 345 | 60 | Ricardo Arias |
+| 346 | 60 | Randy M Hatch |
+| 347 | 60 | Amandacolle |
+| 348 | 60 | Kristine Hj Han |
+| 349 | 60 | Beth Belanger |
 | 350 | 59 | Butterpat |
 | 351 | 59 | Yvette Johnson |
 | 352 | 59 | Kat Foreman |
