@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 07:32:18 UTC
+# Standings for team4 as of 2026-06-06 07:32:38 UTC
 
 **Total Participants:** 879
 
@@ -177,18 +177,18 @@
 | 169 | 113 | kcknbtz |
 | 170 | 113 | Melissa Anne |
 | 171 | 113 | Dennis Montoya |
-| 172 | 112 | matt |
-| 173 | 111 | Taz |
-| 174 | 110 | Joab Gonzalez |
-| 175 | 109 | Rose Anna Safi |
-| 176 | 108 | Juvon SupaShawdii Brooks |
+| 172 | 112 | CJ |
+| 173 | 112 | matt |
+| 174 | 111 | Taz |
+| 175 | 110 | Joab Gonzalez |
+| 176 | 109 | Rose Anna Safi |
 | 177 | 108 | Lush Fitblock |
-| 178 | 107 | June Hoffman |
-| 179 | 107 | CJ |
+| 178 | 108 | Juvon SupaShawdii Brooks |
+| 179 | 107 | June Hoffman |
 | 180 | 105 | kellie |
 | 181 | 105 | Name |
-| 182 | 104 | Tawna Curry |
-| 183 | 104 | Justin Ballard |
+| 182 | 104 | Justin Ballard |
+| 183 | 104 | Tawna Curry |
 | 184 | 103 | Boldy Rumbler |
 | 185 | 102 | Taisha Beasley |
 | 186 | 102 | Homie |
@@ -545,84 +545,84 @@
 | 537 | 29 | Rhonda Dowling |
 | 538 | 29 | Daniel Lossman |
 | 539 | 29 | Funky Twistpiece |
-| 540 | 29 | Happy Filler |
-| 541 | 29 | Andrea Dre Lomeli |
+| 540 | 29 | Andrea Dre Lomeli |
+| 541 | 29 | Shauna Davis |
 | 542 | 29 | Michael Cruz |
 | 543 | 29 | Miranda Brown |
-| 544 | 29 | Shauna Davis |
+| 544 | 29 | Happy Filler |
 | 545 | 29 | Kayla Haddenham |
 | 546 | 29 | Alicia Cook |
 | 547 | 29 | rick mase |
 | 548 | 29 | Mrs.J2013 |
 | 549 | 28 | Sandra O'Reilly |
-| 550 | 28 | Snappy Slice |
+| 550 | 28 | Casey Thomas |
 | 551 | 28 | Mc3003 |
 | 552 | 28 | Mindy Phariss |
 | 553 | 28 | Brandi Gray |
 | 554 | 28 | Allysha McFarland |
-| 555 | 28 | Gary Smallwood |
+| 555 | 28 | Snappy Slice |
 | 556 | 28 | JP |
 | 557 | 28 | Maegon Brazille |
-| 558 | 28 | Deb 07 |
-| 559 | 28 | Earl Edwards |
-| 560 | 28 | Vicente Bolaños Jr. |
-| 561 | 27 | Alexsandra Hill |
-| 562 | 27 | Maria Castillo |
-| 563 | 27 | Loopy Bridger |
-| 564 | 27 | Cassie N Danica Flaherty |
-| 565 | 27 | Sonya |
-| 566 | 27 | chefjaydawg |
-| 567 | 27 | Epic Dashfit |
-| 568 | 27 | Dandy Cascade |
+| 558 | 28 | Gary Smallwood |
+| 559 | 28 | Deb 07 |
+| 560 | 28 | Earl Edwards |
+| 561 | 28 | Vicente Bolaños Jr. |
+| 562 | 27 | Dandy Cascade |
+| 563 | 27 | Cassie N Danica Flaherty |
+| 564 | 27 | Maria Castillo |
+| 565 | 27 | Loopy Bridger |
+| 566 | 27 | Sonya |
+| 567 | 27 | chefjaydawg |
+| 568 | 27 | Epic Dashfit |
 | 569 | 27 | Linda |
 | 570 | 27 | Pepone Pepe |
 | 571 | 27 | Perky Riserbuilder |
 | 572 | 27 | Diana Fernandez |
 | 573 | 27 | Ross Bryant |
-| 574 | 26 | Tahira Patrice |
+| 574 | 27 | Alexsandra Hill |
 | 575 | 26 | theyhatejzt |
-| 576 | 26 | Leslie Marie WarClub |
+| 576 | 26 | Tahira Patrice |
 | 577 | 26 | Rebecca Sloan |
-| 578 | 26 | Rebecca Rae Reed |
-| 579 | 26 | Nikcole Alexis Bryan |
-| 580 | 26 | Rob$GEE |
-| 581 | 26 | Kevin Lyles |
-| 582 | 26 | Ian T Parker |
-| 583 | 26 | Lisa Ferriero-Daudin |
+| 578 | 26 | Leslie Marie WarClub |
+| 579 | 26 | Lisa Ferriero-Daudin |
+| 580 | 26 | Jessica Huber |
+| 581 | 26 | Nicole Ambrose |
+| 582 | 26 | Rebecca Rae Reed |
+| 583 | 26 | Lacey Decker |
 | 584 | 26 | Kimmie Warren |
-| 585 | 26 | Lacey Decker |
-| 586 | 26 | Jessica Huber |
-| 587 | 26 | Nicole Ambrose |
-| 588 | 25 | Kendall Rhodie |
-| 589 | 25 | Jim Stewart |
-| 590 | 25 | Jessica Marie Flores |
-| 591 | 25 | chapis |
-| 592 | 25 | Travis McKinnon |
-| 593 | 25 | Meghan Etchells |
+| 585 | 26 | Ian T Parker |
+| 586 | 26 | Rob$GEE |
+| 587 | 26 | Nikcole Alexis Bryan |
+| 588 | 26 | Kevin Lyles |
+| 589 | 25 | chapis |
+| 590 | 25 | Kendall Rhodie |
+| 591 | 25 | Travis McKinnon |
+| 592 | 25 | Meghan Etchells |
+| 593 | 25 | Jessica Marie Flores |
 | 594 | 25 | ButterfliesRFree |
-| 595 | 25 | Brandon Bedenbaugh |
+| 595 | 25 | Jim Stewart |
 | 596 | 25 | Jada Jordyn Campbell |
-| 597 | 25 | Lacie Powers |
-| 598 | 24 | Love GH |
-| 599 | 24 | Khiem Hernandez |
-| 600 | 24 | Ja'Net Riley |
-| 601 | 24 | Socorro Arredondo |
-| 602 | 24 | Tony Clark |
-| 603 | 24 | EpicWizard |
-| 604 | 24 | Katiana Gonzalez |
-| 605 | 24 | Snappy Glidebuilder |
-| 606 | 24 | George Palacios |
-| 607 | 24 | Amanda Serrano Ruffner |
-| 608 | 24 | Ferlyz |
-| 609 | 23 | Silly Fallzone |
-| 610 | 23 | Casey Thomas |
-| 611 | 22 | Pap337 |
-| 612 | 22 | Breezy Wife |
-| 613 | 22 | Audrianna Skaff |
-| 614 | 22 | Magda Lene |
-| 615 | 22 | MzCeleste Brooks |
-| 616 | 22 | Erica Pompey |
-| 617 | 22 | Lisa Pie |
+| 597 | 25 | Brandon Bedenbaugh |
+| 598 | 25 | Lacie Powers |
+| 599 | 24 | Tony Clark |
+| 600 | 24 | Amanda Serrano Ruffner |
+| 601 | 24 | Khiem Hernandez |
+| 602 | 24 | Ja'Net Riley |
+| 603 | 24 | Socorro Arredondo |
+| 604 | 24 | EpicWizard |
+| 605 | 24 | Love GH |
+| 606 | 24 | Katiana Gonzalez |
+| 607 | 24 | Snappy Glidebuilder |
+| 608 | 24 | George Palacios |
+| 609 | 24 | Ferlyz |
+| 610 | 23 | Silly Fallzone |
+| 611 | 22 | Breezy Wife |
+| 612 | 22 | Pap337 |
+| 613 | 22 | Magda Lene |
+| 614 | 22 | MzCeleste Brooks |
+| 615 | 22 | Lisa Pie |
+| 616 | 22 | Audrianna Skaff |
+| 617 | 22 | Erica Pompey |
 | 618 | 22 | taya |
 | 619 | 22 | Leslie |
 | 620 | 22 | Erich EMac McIntosh |
