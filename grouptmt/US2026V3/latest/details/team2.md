@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 18:02:16 UTC
+# Standings for team2 as of 2026-06-06 18:02:39 UTC
 
 **Total Participants:** 1297
 
@@ -85,13 +85,13 @@
 | 77 | 577 | Lindsay Klemp |
 | 78 | 572 | Dsabrina Maxey |
 | 79 | 570 | Nerdy Climber |
-| 80 | 543 | Kathleen Dumbazz |
-| 81 | 540 | Jamie Jones |
-| 82 | 537 | Rhonda Diebold |
-| 83 | 531 | Nawang Nawang |
-| 84 | 515 | Loony Faller |
-| 85 | 507 | Mirr Lulu |
-| 86 | 507 | Giddy Slamdrop |
+| 80 | 557 | Giddy Slamdrop |
+| 81 | 543 | Kathleen Dumbazz |
+| 82 | 540 | Jamie Jones |
+| 83 | 537 | Rhonda Diebold |
+| 84 | 531 | Nawang Nawang |
+| 85 | 515 | Loony Faller |
+| 86 | 507 | Mirr Lulu |
 | 87 | 501 | Ricardo Ewart |
 | 88 | 500 | Suki Kaur |
 | 89 | 496 | Amber Miller Wirick |
@@ -463,41 +463,41 @@
 | 455 | 72 | StacyBabee |
 | 456 | 72 | Kendi |
 | 457 | 72 | Stephanie Smith Robinson |
-| 458 | 71 | Sandy Lynn |
+| 458 | 71 | Chilly Surge |
 | 459 | 71 | Jason Lamporte |
-| 460 | 71 | Epic Frame |
+| 460 | 71 | Groovy Glider |
 | 461 | 71 | John C Morrison |
-| 462 | 71 | Groovy Glider |
-| 463 | 71 | Chilly Surge |
-| 464 | 70 | MamaRachel |
-| 465 | 70 | Jennifer Lewellyn Hutchins |
-| 466 | 70 | Patti Ward |
+| 462 | 71 | Sandy Lynn |
+| 463 | 71 | Epic Frame |
+| 464 | 70 | Gina Louise Parker |
+| 465 | 70 | Tonya Marino |
+| 466 | 70 | Jennifer Covington |
 | 467 | 70 | Doug Small |
-| 468 | 70 | Tonya Marino |
-| 469 | 70 | Brenda Zona |
-| 470 | 70 | Jennifer Covington |
-| 471 | 70 | Gina Louise Parker |
-| 472 | 69 | Michelle Powers Chattaway |
-| 473 | 69 | Chipper Towerzone |
-| 474 | 69 | Francesca Wagenhoffer |
-| 475 | 69 | Nutty Fitzone |
-| 476 | 69 | Momof2wigglebutts |
-| 477 | 69 | Loretta Crow |
-| 478 | 69 | Cynthia Dawn Reitz Hanson |
-| 479 | 69 | Justin Stark |
-| 480 | 69 | REE4 |
-| 481 | 68 | Tara |
-| 482 | 68 | Fancy Stacker |
+| 468 | 70 | Patti Ward |
+| 469 | 70 | Jennifer Lewellyn Hutchins |
+| 470 | 70 | KazzyKay |
+| 471 | 70 | MamaRachel |
+| 472 | 70 | Brenda Zona |
+| 473 | 69 | Francesca Wagenhoffer |
+| 474 | 69 | Michelle Powers Chattaway |
+| 475 | 69 | Chipper Towerzone |
+| 476 | 69 | Nutty Fitzone |
+| 477 | 69 | Momof2wigglebutts |
+| 478 | 69 | Loretta Crow |
+| 479 | 69 | Cynthia Dawn Reitz Hanson |
+| 480 | 69 | Justin Stark |
+| 481 | 69 | REE4 |
+| 482 | 68 | Tara |
 | 483 | 68 | Arik DiLorenzo |
 | 484 | 68 | Belinda Gullion Austin |
-| 485 | 68 | Sara BlueEyes |
-| 486 | 68 | Josephina |
-| 487 | 68 | Amanda Bottorff |
-| 488 | 68 | Dandy Tiltgrid |
-| 489 | 68 | Mary Whitaker |
-| 490 | 67 | Sherri Caillet Aucoin |
-| 491 | 67 | TNGal |
-| 492 | 67 | KazzyKay |
+| 485 | 68 | Fancy Stacker |
+| 486 | 68 | Sara BlueEyes |
+| 487 | 68 | Josephina |
+| 488 | 68 | Amanda Bottorff |
+| 489 | 68 | Dandy Tiltgrid |
+| 490 | 68 | Mary Whitaker |
+| 491 | 67 | Sherri Caillet Aucoin |
+| 492 | 67 | TNGal |
 | 493 | 66 | Tami Weiss |
 | 494 | 66 | Frilly Shiftsnap |
 | 495 | 66 | Jennifer Lalk |
