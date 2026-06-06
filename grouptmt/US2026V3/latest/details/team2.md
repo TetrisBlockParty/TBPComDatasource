@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 06:01:16 UTC
+# Standings for team2 as of 2026-06-06 06:02:16 UTC
 
 **Total Participants:** 1029
 
@@ -386,32 +386,32 @@
 | 378 | 58 | Michele Rogers |
 | 379 | 58 | Chipper Towerzone |
 | 380 | 57 | Poppy Strikerbuilder |
-| 381 | 56 | KazzyKay |
-| 382 | 56 | Melissa Fink |
-| 383 | 56 | nogo |
-| 384 | 55 | Silly Tiltbuilder |
-| 385 | 55 | Wendy Durrence Jones |
-| 386 | 55 | Saucy Wrecker |
-| 387 | 55 | Beverly-Jo Peterson |
-| 388 | 55 | Misty McElroy |
+| 381 | 57 | Cynthia Dawn Reitz Hanson |
+| 382 | 56 | KazzyKay |
+| 383 | 56 | Melissa Fink |
+| 384 | 56 | nogo |
+| 385 | 55 | Misty McElroy |
+| 386 | 55 | Sarah Louise Cobb |
+| 387 | 55 | MUMBLES |
+| 388 | 55 | Wendy Durrence Jones |
 | 389 | 55 | Valeri Bradley |
-| 390 | 55 | Sarah Louise Cobb |
-| 391 | 55 | MUMBLES |
-| 392 | 54 | Jumpy Matchbuilder |
-| 393 | 54 | Christina Nycol |
-| 394 | 54 | Sassy Patternblock |
-| 395 | 54 | Wendy McKee |
-| 396 | 54 | Sabrina Hardrick |
-| 397 | 54 | Bethany Nestor |
-| 398 | 54 | Cynthia Dawn Reitz Hanson |
-| 399 | 54 | Cool Patternbuilder |
-| 400 | 54 | Funway998 |
-| 401 | 53 | Trisha Schneider |
-| 402 | 53 | Wacky Stack |
-| 403 | 53 | Jessica Spivey Cooper |
-| 404 | 53 | Spicy Basepiece |
+| 390 | 55 | Saucy Wrecker |
+| 391 | 55 | Beverly-Jo Peterson |
+| 392 | 55 | Silly Tiltbuilder |
+| 393 | 54 | Sassy Patternblock |
+| 394 | 54 | Funway998 |
+| 395 | 54 | Jumpy Matchbuilder |
+| 396 | 54 | Christina Nycol |
+| 397 | 54 | Wendy McKee |
+| 398 | 54 | Sabrina Hardrick |
+| 399 | 54 | Bethany Nestor |
+| 400 | 54 | Cool Patternbuilder |
+| 401 | 53 | Jessica Spivey Cooper |
+| 402 | 53 | Spicy Basepiece |
+| 403 | 53 | Maurii93 |
+| 404 | 53 | Trisha Schneider |
 | 405 | 53 | Melissa Thomas |
-| 406 | 53 | Maurii93 |
+| 406 | 53 | Wacky Stack |
 | 407 | 52 | Rosalie Call Kehlenbeck |
 | 408 | 52 | Chipper Spinzone |
 | 409 | 52 | Kelly |
@@ -1029,12 +1029,12 @@
 | 1021 | 5 | Nicole Suber |
 | 1022 | 5 | Chirpy Towerer |
 | 1023 | 5 | Jennifer Mauler Schmidt |
-| 1024 | 5 | Brittany Weatherspoon |
-| 1025 | 5 | Nerdy Base |
-| 1026 | 5 | Deborah Fowler |
-| 1027 | 5 | Flynn Flibble |
-| 1028 | 5 | Adrian Alvarez |
-| 1029 | 5 | Bennie Farbo |
+| 1024 | 5 | Bennie Farbo |
+| 1025 | 5 | Brittany Weatherspoon |
+| 1026 | 5 | Nerdy Base |
+| 1027 | 5 | Deborah Fowler |
+| 1028 | 5 | Flynn Flibble |
+| 1029 | 5 | Adrian Alvarez |
 
 ---
 *Standings created by tournaments datasource generation tool*

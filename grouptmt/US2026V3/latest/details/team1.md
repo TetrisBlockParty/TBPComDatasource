@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 06:01:16 UTC
+# Standings for team1 as of 2026-06-06 06:02:16 UTC
 
 **Total Participants:** 882
 
@@ -38,7 +38,7 @@
 | 30 | 843 | Jacoby E Fleming |
 | 31 | 842 | Chris Russell |
 | 32 | 832 | Spicy Balancer |
-| 33 | 761 | Jennifer To |
+| 33 | 771 | Jennifer To |
 | 34 | 749 | Aviv Zehavi |
 | 35 | 715 | Chill Clusterer |
 | 36 | 670 | Jaida King |
@@ -152,11 +152,11 @@
 | 144 | 131 | TBABYJ |
 | 145 | 130 | Jessica Davis |
 | 146 | 130 | Emily Wright |
-| 147 | 127 | IThinkNot |
-| 148 | 126 | Cee Emm |
-| 149 | 125 | LaTonya Myers |
-| 150 | 125 | Kelli Couture |
-| 151 | 125 | Rolanda Williams |
+| 147 | 130 | Rolanda Williams |
+| 148 | 127 | IThinkNot |
+| 149 | 126 | Cee Emm |
+| 150 | 125 | LaTonya Myers |
+| 151 | 125 | Kelli Couture |
 | 152 | 124 | Courtney Cicoria |
 | 153 | 124 | Byron Mario Cawthon |
 | 154 | 124 | Queenie Perry |
@@ -170,31 +170,31 @@
 | 162 | 119 | Christina Rebecca |
 | 163 | 119 | ELM |
 | 164 | 118 | Hasty Pivoty |
-| 165 | 113 | Rachel Zimmerman |
-| 166 | 112 | GamerQueenDS |
-| 167 | 111 | Lisa Fletcher |
-| 168 | 111 | Mic Balew |
+| 165 | 113 | Andre Sanon |
+| 166 | 113 | Rachel Zimmerman |
+| 167 | 112 | GamerQueenDS |
+| 168 | 111 | Lisa Fletcher |
 | 169 | 111 | Lesley Brunkus Cianfaglione |
-| 170 | 111 | Shalena Marie Humphrey |
-| 171 | 110 | Atlantalindi |
-| 172 | 108 | Kimberly Linares Hernandez |
-| 173 | 105 | LaShaun Stinson |
-| 174 | 105 | Katrina Ramey |
-| 175 | 105 | Latisha Fairley |
-| 176 | 105 | Ebony Waynes-robinson |
-| 177 | 105 | Angela R Wilson |
-| 178 | 104 | Brittnay Wright |
-| 179 | 104 | Frisky Fall |
-| 180 | 104 | Ahvae Lee |
-| 181 | 103 | Kelvin Cook |
-| 182 | 102 | Bre Poston |
+| 170 | 111 | Mic Balew |
+| 171 | 111 | Shalena Marie Humphrey |
+| 172 | 110 | Atlantalindi |
+| 173 | 108 | Kimberly Linares Hernandez |
+| 174 | 105 | Ebony Waynes-robinson |
+| 175 | 105 | Angela R Wilson |
+| 176 | 105 | Latisha Fairley |
+| 177 | 105 | Katrina Ramey |
+| 178 | 105 | LaShaun Stinson |
+| 179 | 104 | Brittnay Wright |
+| 180 | 104 | Frisky Fall |
+| 181 | 104 | Ahvae Lee |
+| 182 | 103 | Kelvin Cook |
 | 183 | 102 | Dawn L Washington-Feuquay |
-| 184 | 101 | Boldy Liner |
-| 185 | 100 | Cool Bridger |
-| 186 | 100 | Char |
-| 187 | 100 | Leavon Smith |
+| 184 | 102 | Bre Poston |
+| 185 | 101 | Boldy Liner |
+| 186 | 100 | Leavon Smith |
+| 187 | 100 | Cool Bridger |
 | 188 | 100 | DaGuy |
-| 189 | 99 | Andre Sanon |
+| 189 | 100 | Char |
 | 190 | 99 | 신재호 |
 | 191 | 99 | Simone Bailey |
 | 192 | 97 | Shanell Thomas |
@@ -202,16 +202,16 @@
 | 194 | 95 | Nate Myers |
 | 195 | 95 | Joana Thompson |
 | 196 | 95 | Shiny Lift |
-| 197 | 94 | Lively Riserpiece |
+| 197 | 94 | Rhonda Williams Warner |
 | 198 | 94 | Cece Fowler |
-| 199 | 94 | Rhonda Williams Warner |
+| 199 | 94 | Lively Riserpiece |
 | 200 | 92 | Quirky Fallgrid |
-| 201 | 92 | The DUBZ |
-| 202 | 92 | Sanjuro |
+| 201 | 92 | Sanjuro |
+| 202 | 92 | The DUBZ |
 | 203 | 91 | Jack Vlasak |
 | 204 | 90 | Charlene Baltimore |
-| 205 | 88 | TT |
-| 206 | 88 | QueenShay AllGood |
+| 205 | 88 | QueenShay AllGood |
+| 206 | 88 | TT |
 | 207 | 88 | Ad Doctor |
 | 208 | 87 | Poppy Buildout |
 | 209 | 87 | Keke Ferguson |
