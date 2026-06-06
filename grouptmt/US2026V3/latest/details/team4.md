@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 17:12:40 UTC
+# Standings for team4 as of 2026-06-06 17:13:16 UTC
 
 **Total Participants:** 1061
 
@@ -913,64 +913,64 @@
 | 905 | 16 | Mr.Corbin |
 | 906 | 16 | Ashley McGeehan |
 | 907 | 16 | Grace Mariie |
-| 908 | 15 | Tracy Marino |
+| 908 | 15 | Hasty Grabber |
 | 909 | 15 | Nerdy Glider |
 | 910 | 15 | Twisty Gridclear |
-| 911 | 15 | Mandi Rexroat |
-| 912 | 15 | Austin Tan |
+| 911 | 15 | Austin Tan |
+| 912 | 15 | Mandi Rexroat |
 | 913 | 15 | Cas Gio |
 | 914 | 15 | Sherry Mooney |
-| 915 | 15 | Manolo Canety |
-| 916 | 15 | Tana-Marie Lynn McCarty-Rolf |
-| 917 | 15 | Hasty Grabber |
-| 918 | 15 | babygirlw |
-| 919 | 15 | Wacky Clusterer |
-| 920 | 15 | Donna Bush |
+| 915 | 15 | Tana-Marie Lynn McCarty-Rolf |
+| 916 | 15 | Manolo Canety |
+| 917 | 15 | babygirlw |
+| 918 | 15 | Wacky Clusterer |
+| 919 | 15 | Poptart |
+| 920 | 15 | Tracy Marino |
 | 921 | 15 | John Wertz |
-| 922 | 15 | Christina Barry |
-| 923 | 15 | Britney Kitora |
-| 924 | 14 | Dolores Falco |
-| 925 | 14 | Erica Hardwick |
-| 926 | 14 | Donovan Parmenter Gagne |
-| 927 | 14 | Becca Milliron |
+| 922 | 15 | Donna Bush |
+| 923 | 15 | Christina Barry |
+| 924 | 15 | Britney Kitora |
+| 925 | 14 | Lashae |
+| 926 | 14 | Dolores Falco |
+| 927 | 14 | Gellix |
 | 928 | 14 | moonman33 |
-| 929 | 14 | Christy Petty |
-| 930 | 14 | Lashae |
-| 931 | 14 | Gellix |
-| 932 | 14 | G Money |
-| 933 | 14 | Jazzy Rollout |
-| 934 | 14 | Kiaralis Ashley Hancock |
-| 935 | 14 | JoJo Hutson |
-| 936 | 14 | Marina |
-| 937 | 14 | Nicole Gilmore |
-| 938 | 14 | Playful Raccoon |
-| 939 | 13 | Jackie Russo-Edens |
-| 940 | 12 | Angela Correa |
-| 941 | 12 | Rooney |
-| 942 | 12 | ESPERANTU |
-| 943 | 12 | McScrubby |
-| 944 | 12 | Tatiyana Hockett |
-| 945 | 12 | Diqthot |
-| 946 | 12 | Peterson Cottontail |
-| 947 | 12 | Snippy Splitter |
-| 948 | 12 | Shelly Jackson |
-| 949 | 12 | Rebecca Renaud |
-| 950 | 12 | Tonya Raymundo |
-| 951 | 12 | Scott Baum |
-| 952 | 11 | Wynisha Johnson |
-| 953 | 11 | Christine Raine Jalili |
-| 954 | 11 | beTrue76 |
-| 955 | 11 | Mystica |
-| 956 | 11 | OFOZO |
-| 957 | 11 | Poptart |
+| 929 | 14 | Donovan Parmenter Gagne |
+| 930 | 14 | Erica Hardwick |
+| 931 | 14 | Becca Milliron |
+| 932 | 14 | Christy Petty |
+| 933 | 14 | Nicole Gilmore |
+| 934 | 14 | Jazzy Rollout |
+| 935 | 14 | G Money |
+| 936 | 14 | Kiaralis Ashley Hancock |
+| 937 | 14 | Marina |
+| 938 | 14 | JoJo Hutson |
+| 939 | 14 | Playful Raccoon |
+| 940 | 13 | Jackie Russo-Edens |
+| 941 | 12 | ESPERANTU |
+| 942 | 12 | Rooney |
+| 943 | 12 | Angela Correa |
+| 944 | 12 | McScrubby |
+| 945 | 12 | Tatiyana Hockett |
+| 946 | 12 | Diqthot |
+| 947 | 12 | Peterson Cottontail |
+| 948 | 12 | Snippy Splitter |
+| 949 | 12 | Shelly Jackson |
+| 950 | 12 | Rebecca Renaud |
+| 951 | 12 | Tonya Raymundo |
+| 952 | 12 | Scott Baum |
+| 953 | 11 | Wynisha Johnson |
+| 954 | 11 | Christine Raine Jalili |
+| 955 | 11 | beTrue76 |
+| 956 | 11 | Mystica |
+| 957 | 11 | OFOZO |
 | 958 | 11 | Bryan Odle |
 | 959 | 11 | Amowe |
 | 960 | 11 | Teresa Lescinskas |
 | 961 | 11 | Redhead girl |
 | 962 | 11 | Nessa Smith |
 | 963 | 11 | Ashie |
-| 964 | 10 | Katherine Stec |
-| 965 | 10 | Sherri Lorent |
+| 964 | 10 | Sherri Lorent |
+| 965 | 10 | Katherine Stec |
 | 966 | 10 | Michelle Sager |
 | 967 | 10 | Charissa W Walton |
 | 968 | 10 | Christine Niles |
