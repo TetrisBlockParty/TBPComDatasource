@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 15:42:37 UTC
+# Standings for team1 as of 2026-06-06 15:43:16 UTC
 
 **Total Participants:** 1047
 
@@ -29,8 +29,8 @@
 | 21 | 1589 | Brian Stackhouse |
 | 22 | 1550 | Cassidy Butler |
 | 23 | 1445 | Erika Windom |
-| 24 | 1242 | Jacoby E Fleming |
-| 25 | 1150 | Juan Kandiss Escobedo Irwin |
+| 24 | 1329 | Juan Kandiss Escobedo Irwin |
+| 25 | 1242 | Jacoby E Fleming |
 | 26 | 1082 | Daylene Johannes |
 | 27 | 1045 | Mary Jenkins |
 | 28 | 1037 | Shortstak |
@@ -53,7 +53,7 @@
 | 45 | 749 | Aviv Zehavi |
 | 46 | 748 | Linzie Marie |
 | 47 | 734 | Charnay Peacock |
-| 48 | 681 | Lisa Müller |
+| 48 | 697 | Lisa Müller |
 | 49 | 675 | Corey Cawthon |
 | 50 | 670 | Jaida King |
 | 51 | 605 | JoJo |
@@ -87,16 +87,16 @@
 | 79 | 380 | Bre Maugh |
 | 80 | 377 | JaszyBadd |
 | 81 | 377 | AF Cruz |
-| 82 | 371 | Shell Lewis |
-| 83 | 370 | Eric Mcgaughy |
-| 84 | 365 | Sarah Marie |
-| 85 | 364 | Lashawn Wallace |
-| 86 | 363 | Voice |
-| 87 | 348 | Catara Renae Oliver |
-| 88 | 347 | PandaPrincess |
-| 89 | 344 | Kevin M. McGhee Jr |
-| 90 | 342 | Gael Quintana |
-| 91 | 339 | Kimberly Hernandez |
+| 82 | 372 | Gael Quintana |
+| 83 | 371 | Shell Lewis |
+| 84 | 370 | Eric Mcgaughy |
+| 85 | 365 | Sarah Marie |
+| 86 | 364 | Lashawn Wallace |
+| 87 | 363 | Voice |
+| 88 | 348 | Catara Renae Oliver |
+| 89 | 347 | PandaPrincess |
+| 90 | 344 | Kevin M. McGhee Jr |
+| 91 | 342 | Kimberly Hernandez |
 | 92 | 334 | Christana Imjustbutton Stone |
 | 93 | 332 | Hyper Slamdrop |
 | 94 | 328 | Jonathan Vee Jay |
@@ -207,8 +207,8 @@
 | 199 | 133 | Byron Mario Cawthon |
 | 200 | 133 | Robbie Cheeseman |
 | 201 | 133 | Ebony Waynes-robinson |
-| 202 | 132 | Jolly Tilefall |
-| 203 | 131 | Kimberly Linares Hernandez |
+| 202 | 132 | Kimberly Linares Hernandez |
+| 203 | 132 | Jolly Tilefall |
 | 204 | 130 | Jessica Davis |
 | 205 | 130 | Emily Wright |
 | 206 | 130 | Dion Gray |
