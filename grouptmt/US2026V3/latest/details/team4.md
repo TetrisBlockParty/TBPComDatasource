@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 16:02:39 UTC
+# Standings for team4 as of 2026-06-06 16:03:18 UTC
 
 **Total Participants:** 1043
 
@@ -73,10 +73,10 @@
 | 65 | 440 | Jewelz |
 | 66 | 440 | Kitsune Bi |
 | 67 | 440 | Erin Figone |
-| 68 | 419 | Sweet Stacker |
-| 69 | 418 | Alala.Cersei |
-| 70 | 402 | Nick Graber |
-| 71 | 401 | Leigh Pierce |
+| 68 | 421 | Leigh Pierce |
+| 69 | 419 | Sweet Stacker |
+| 70 | 418 | Alala.Cersei |
+| 71 | 402 | Nick Graber |
 | 72 | 401 | woopa 716 |
 | 73 | 400 | Amber Doyle |
 | 74 | 399 | iiPurgeV2 |
