@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 07:36:17 UTC
+# Standings for team4 as of 2026-06-06 07:36:39 UTC
 
 **Total Participants:** 880
 
@@ -259,12 +259,12 @@
 | 251 | 76 | BertaF1irta |
 | 252 | 76 | All knowing |
 | 253 | 75 | Bonnie Powell |
-| 254 | 75 | Chonda OhanaMomma Michelle |
-| 255 | 75 | Sarah Perry Cook |
-| 256 | 74 | Rita Ann |
-| 257 | 74 | Miwa |
-| 258 | 73 | Jenn Fitzgerald |
-| 259 | 73 | Snazzy Corner |
+| 254 | 75 | Snazzy Corner |
+| 255 | 75 | Chonda OhanaMomma Michelle |
+| 256 | 75 | Sarah Perry Cook |
+| 257 | 74 | Rita Ann |
+| 258 | 74 | Miwa |
+| 259 | 73 | Jenn Fitzgerald |
 | 260 | 73 | Troy Zanelli |
 | 261 | 71 | Snazzy Fitclear |
 | 262 | 71 | King |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 07:36:17 UTC
+# Standings for team2 as of 2026-06-06 07:36:39 UTC
 
 **Total Participants:** 1066
 
@@ -357,12 +357,12 @@
 | 349 | 64 | Cool Balancer |
 | 350 | 64 | Earline Dupuy Bordelon |
 | 351 | 64 | Paige Lynette Sohl |
-| 352 | 63 | bozzycat |
-| 353 | 63 | Melmel |
-| 354 | 63 | Lacie B |
-| 355 | 63 | Bonnie Huckleberry |
-| 356 | 62 | Amber Simonton |
-| 357 | 62 | Epic Framezone |
+| 352 | 63 | Epic Framezone |
+| 353 | 63 | bozzycat |
+| 354 | 63 | Melmel |
+| 355 | 63 | Lacie B |
+| 356 | 63 | Bonnie Huckleberry |
+| 357 | 62 | Amber Simonton |
 | 358 | 62 | Ava Speedy |
 | 359 | 62 | Nova Nova |
 | 360 | 62 | Breezy |
