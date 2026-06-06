@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 19:24:17 UTC
+# Standings for team2 as of 2026-06-06 19:24:39 UTC
 
 **Total Participants:** 1336
 
@@ -142,8 +142,8 @@
 | 134 | 300 | Linda Guay |
 | 135 | 298 | Breeana Bennett |
 | 136 | 298 | Zarah Kettler |
-| 137 | 294 | Vistabrat |
-| 138 | 294 | Suki Jacobs |
+| 137 | 298 | Suki Jacobs |
+| 138 | 294 | Vistabrat |
 | 139 | 293 | Snappy Combo |
 | 140 | 288 | Pooh |
 | 141 | 287 | Flashy Twistline |
@@ -223,26 +223,26 @@
 | 215 | 173 | Amie Marks |
 | 216 | 172 | Carolyn McNaughton |
 | 217 | 171 | Melissa Nash |
-| 218 | 170 | Loopy Dropper |
-| 219 | 170 | Harper |
-| 220 | 170 | phamous1 |
+| 218 | 170 | phamous1 |
+| 219 | 170 | Loopy Dropper |
+| 220 | 170 | Harper |
 | 221 | 169 | Sully |
 | 222 | 168 | Missy Renia |
 | 223 | 168 | Danielle Lyons |
 | 224 | 168 | Spicy Risegrid |
-| 225 | 164 | Jerry L Morales |
-| 226 | 164 | Cara Rivera |
-| 227 | 163 | Kim Hunt |
+| 225 | 167 | Karly Moore |
+| 226 | 164 | Jerry L Morales |
+| 227 | 164 | Cara Rivera |
 | 228 | 163 | Amy Taylor Pomerenk |
-| 229 | 163 | Zany Cascader |
-| 230 | 162 | Nutty Curver |
-| 231 | 161 | Santara Ferguson |
-| 232 | 160 | Avie Lou |
-| 233 | 159 | Chasity Simpson |
-| 234 | 159 | SEH |
-| 235 | 159 | Amanda Priddy |
-| 236 | 159 | Angie Bishop |
-| 237 | 157 | Karly Moore |
+| 229 | 163 | Kim Hunt |
+| 230 | 163 | Zany Cascader |
+| 231 | 162 | Nutty Curver |
+| 232 | 161 | Santara Ferguson |
+| 233 | 160 | Avie Lou |
+| 234 | 159 | Chasity Simpson |
+| 235 | 159 | SEH |
+| 236 | 159 | Amanda Priddy |
+| 237 | 159 | Angie Bishop |
 | 238 | 155 | Zany Blockclear |
 | 239 | 152 | Rick |
 | 240 | 152 | Gill |
@@ -403,8 +403,8 @@
 | 395 | 88 | Candi Cane |
 | 396 | 88 | Cozy Cascade |
 | 397 | 88 | IncrediDragon |
-| 398 | 88 | Tami Kay Williams Watson |
-| 399 | 87 | Melmel |
+| 398 | 88 | Melmel |
+| 399 | 88 | Tami Kay Williams Watson |
 | 400 | 87 | Jackie Walker |
 | 401 | 87 | Kenzie |
 | 402 | 87 | Wendy Mcbride |
@@ -638,38 +638,38 @@
 | 630 | 52 | Diane Byrd |
 | 631 | 52 | Chipper Spinzone |
 | 632 | 52 | Sherry Ann |
-| 633 | 51 | Amy D Coble |
-| 634 | 51 | Billy Pittman |
+| 633 | 51 | R.w. Buck |
+| 634 | 51 | Amy D Coble |
 | 635 | 51 | Twisty Matchfit |
-| 636 | 51 | Brian Giddens |
+| 636 | 51 | Billy Pittman |
 | 637 | 51 | Amber-leigh Williams |
-| 638 | 51 | Tashamonique Puckey |
-| 639 | 51 | Mama G |
-| 640 | 51 | Samantha Bugg Stitcher |
-| 641 | 50 | Ashley Jones |
-| 642 | 50 | Teea Makensi Meyer |
-| 643 | 50 | Sarah Rodriguez |
-| 644 | 50 | Whitt |
-| 645 | 50 | Stephania Edwards |
-| 646 | 50 | Gluten Gremlin |
-| 647 | 50 | Jennifer Wymer |
-| 648 | 50 | Susan Moyer |
+| 638 | 51 | Brian Giddens |
+| 639 | 51 | Tashamonique Puckey |
+| 640 | 51 | Mama G |
+| 641 | 51 | Samantha Bugg Stitcher |
+| 642 | 50 | Susan Moyer |
+| 643 | 50 | Teea Makensi Meyer |
+| 644 | 50 | Sarah Rodriguez |
+| 645 | 50 | Whitt |
+| 646 | 50 | Stephania Edwards |
+| 647 | 50 | Gluten Gremlin |
+| 648 | 50 | Jennifer Wymer |
 | 649 | 50 | Brittany Kay |
 | 650 | 50 | Cory Lynn |
 | 651 | 50 | Melissa Clogher White |
 | 652 | 50 | Angie Rose |
 | 653 | 50 | Charith Lorelle Watson |
-| 654 | 49 | Kris Dusza Dodus |
+| 654 | 50 | Ashley Jones |
 | 655 | 49 | rebel4lyfe |
-| 656 | 49 | Tetrismastrr |
-| 657 | 49 | Po Yee |
-| 658 | 49 | R.w. Buck |
-| 659 | 48 | Brian Little |
-| 660 | 48 | Chelsea Frye |
-| 661 | 48 | Hoppy Gridder |
-| 662 | 48 | Funky Blockmatch |
-| 663 | 48 | Vicke Patterson |
-| 664 | 48 | Dizzy Dropzone |
+| 656 | 49 | Kris Dusza Dodus |
+| 657 | 49 | Tetrismastrr |
+| 658 | 49 | Po Yee |
+| 659 | 48 | Dizzy Dropzone |
+| 660 | 48 | Brian Little |
+| 661 | 48 | Chelsea Frye |
+| 662 | 48 | Hoppy Gridder |
+| 663 | 48 | Funky Blockmatch |
+| 664 | 48 | Vicke Patterson |
 | 665 | 48 | Katelynn Hunt |
 | 666 | 48 | Stephany Green |
 | 667 | 48 | Ollie |
