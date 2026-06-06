@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 02:44:16 UTC
+# Standings for team4 as of 2026-06-06 02:44:38 UTC
 
 **Total Participants:** 712
 
@@ -46,8 +46,8 @@
 | 38 | 461 | Kayla Fuentes |
 | 39 | 419 | Caitlyn Wang |
 | 40 | 394 | Squirrel Donkey |
-| 41 | 393 | vag1974 |
-| 42 | 393 | Snippy Grid |
+| 41 | 393 | Snippy Grid |
+| 42 | 393 | vag1974 |
 | 43 | 392 | Blayne Kole |
 | 44 | 389 | Ning Quiambao |
 | 45 | 383 | Crissy Hoffman |
@@ -64,9 +64,9 @@
 | 56 | 280 | Jesse Olive |
 | 57 | 259 | Jessica Peyton |
 | 58 | 256 | Adam J Leong |
-| 59 | 240 | Michele Walker |
+| 59 | 240 | Jojo Ann |
 | 60 | 240 | Dana Rinaldi |
-| 61 | 240 | Jojo Ann |
+| 61 | 240 | Michele Walker |
 | 62 | 235 | Hwanger Land |
 | 63 | 229 | Sarah Berry Stevens |
 | 64 | 224 | Sisi RedVelvet Reneè |
@@ -75,8 +75,8 @@
 | 67 | 203 | Patrick Alley |
 | 68 | 202 | Leigh Pierce |
 | 69 | 201 | Renee Sapp |
-| 70 | 200 | Leah Gorsuch |
-| 71 | 200 | JoLinda Dunn |
+| 70 | 200 | JoLinda Dunn |
+| 71 | 200 | Leah Gorsuch |
 | 72 | 193 | Tiffany Bunker-Hill |
 | 73 | 184 | Giggly Tilt |
 | 74 | 180 | MysticMaven |
@@ -84,8 +84,8 @@
 | 76 | 179 | Anna Gribble |
 | 77 | 177 | Tammy June |
 | 78 | 174 | Kimyatta Cavin |
-| 79 | 173 | 626 |
-| 80 | 173 | blockhead |
+| 79 | 173 | blockhead |
+| 80 | 173 | 626 |
 | 81 | 169 | Tiffany Smith |
 | 82 | 168 | Beee |
 | 83 | 164 | Sweet Stacker |
@@ -96,8 +96,8 @@
 | 88 | 152 | Colin |
 | 89 | 149 | Daryn Elliott |
 | 90 | 149 | Danny Ortiz |
-| 91 | 146 | Nick Graber |
-| 92 | 146 | Becky McCool |
+| 91 | 146 | Becky McCool |
+| 92 | 146 | Nick Graber |
 | 93 | 145 | Trice Stevenson |
 | 94 | 144 | Yesenia Castro Monreal |
 | 95 | 143 | RotatedWrongAgain |
@@ -107,8 +107,8 @@
 | 99 | 134 | Loony Rotater |
 | 100 | 133 | Shawntae Mccary |
 | 101 | 131 | Jackie Polanco |
-| 102 | 129 | Ryan Paul Clark-Ramsey |
-| 103 | 129 | Lani |
+| 102 | 129 | Lani |
+| 103 | 129 | Ryan Paul Clark-Ramsey |
 | 104 | 126 | Alyson M Kehler |
 | 105 | 125 | Leslie Ann Carter |
 | 106 | 124 | Chilly Pivot |
@@ -118,43 +118,43 @@
 | 110 | 116 | Brennan Shea Greene |
 | 111 | 114 | Bryan DjMagnum Evans |
 | 112 | 109 | Cheery Risegrid |
-| 113 | 108 | Juvon SupaShawdii Brooks |
+| 113 | 108 | Debby Ruof |
 | 114 | 108 | Lush Fitblock |
-| 115 | 108 | Debby Ruof |
+| 115 | 108 | Juvon SupaShawdii Brooks |
 | 116 | 107 | June Hoffman |
 | 117 | 107 | Shayna Vaigneur-Hall |
 | 118 | 106 | Joab Gonzalez |
 | 119 | 105 | Taz |
 | 120 | 105 | Chris Covington |
-| 121 | 104 | Tawna Curry |
-| 122 | 104 | Justin Ballard |
+| 121 | 104 | Justin Ballard |
+| 122 | 104 | Tawna Curry |
 | 123 | 103 | Boldy Rumbler |
-| 124 | 101 | ariel |
+| 124 | 102 | ariel |
 | 125 | 100 | kellie |
 | 126 | 100 | CorieBe |
-| 127 | 99 | Dapper Strikerpiece |
-| 128 | 99 | Shelby |
-| 129 | 99 | Tipsy Builderline |
-| 130 | 99 | Simone |
+| 127 | 99 | Simone |
+| 128 | 99 | Tipsy Builderline |
+| 129 | 99 | Shelby |
+| 130 | 99 | Dapper Strikerpiece |
 | 131 | 98 | Taisha Beasley |
 | 132 | 97 | Megan Vick |
 | 133 | 96 | JuicyJuice |
 | 134 | 96 | Zesty Twistpiece |
-| 135 | 95 | Маркус Вік |
-| 136 | 95 | Goofy Riser |
-| 137 | 95 | Shanna Fragen |
+| 135 | 95 | Goofy Riser |
+| 136 | 95 | Shanna Fragen |
+| 137 | 95 | Маркус Вік |
 | 138 | 94 | QueenLi86 |
 | 139 | 93 | farfromlocal |
 | 140 | 92 | Homie |
 | 141 | 92 | Rose Anna Safi |
 | 142 | 91 | Dayna Arthurs |
 | 143 | 91 | Dominique Melendez |
-| 144 | 90 | Justin Michael |
-| 145 | 90 | Quiomarie Cotto |
+| 144 | 90 | Quiomarie Cotto |
+| 145 | 90 | Justin Michael |
 | 146 | 89 | Tiffany Loree Tiffany Oneill |
 | 147 | 89 | Waxboss |
-| 148 | 88 | Laguya |
-| 149 | 88 | gabs |
+| 148 | 88 | gabs |
+| 149 | 88 | Laguya |
 | 150 | 87 | Limbo |
 | 151 | 87 | Slimm |
 | 152 | 86 | Rachel Lemos |
@@ -162,59 +162,59 @@
 | 154 | 85 | matt |
 | 155 | 84 | No Time |
 | 156 | 84 | Rae Saunders |
-| 157 | 83 | MrLoner Stoner |
-| 158 | 83 | Jennifer Fisher Franklin |
-| 159 | 83 | Chiquita Blue |
-| 160 | 82 | Bon Jovi |
-| 161 | 82 | Luna |
-| 162 | 82 | Codey Haffner |
-| 163 | 82 | Iforget |
-| 164 | 81 | Shiny Brick |
-| 165 | 81 | Stasia |
-| 166 | 81 | Janae Harris |
+| 157 | 83 | Jennifer Fisher Franklin |
+| 158 | 83 | Chiquita Blue |
+| 159 | 83 | MrLoner Stoner |
+| 160 | 82 | Codey Haffner |
+| 161 | 82 | Iforget |
+| 162 | 82 | Luna |
+| 163 | 82 | Bon Jovi |
+| 164 | 81 | Janae Harris |
+| 165 | 81 | Shiny Brick |
+| 166 | 81 | Stasia |
 | 167 | 80 | Danny Frausto |
-| 168 | 80 | DexterDobbins |
+| 168 | 80 | Krista Diaz |
 | 169 | 80 | Magz |
-| 170 | 80 | Krista Diaz |
+| 170 | 80 | DexterDobbins |
 | 171 | 79 | Joyce Myers |
 | 172 | 79 | Courtney Niichole |
-| 173 | 78 | Cherry |
-| 174 | 78 | Tina Thomas |
+| 173 | 78 | Stef |
+| 174 | 78 | Cherry |
 | 175 | 78 | Futrell Brent |
-| 176 | 78 | Stef |
-| 177 | 77 | Lady |
-| 178 | 77 | Scamp Jones |
-| 179 | 77 | Loopy Clusterline |
-| 180 | 77 | Slinky Stackzone |
-| 181 | 77 | Chirpy Link |
-| 182 | 76 | Jennifer Garcia |
-| 183 | 76 | All knowing |
-| 184 | 76 | Spicy Peach |
-| 185 | 76 | EvoKitty |
-| 186 | 75 | Bonnie Powell |
-| 187 | 75 | Mark Fitch Jr. |
-| 188 | 75 | Sarah Perry Cook |
-| 189 | 75 | Bouncy |
-| 190 | 75 | Chonda OhanaMomma Michelle |
+| 176 | 78 | Tina Thomas |
+| 177 | 77 | Slinky Stackzone |
+| 178 | 77 | Loopy Clusterline |
+| 179 | 77 | Lady |
+| 180 | 77 | Chirpy Link |
+| 181 | 77 | Scamp Jones |
+| 182 | 76 | All knowing |
+| 183 | 76 | Spicy Peach |
+| 184 | 76 | EvoKitty |
+| 185 | 76 | Jennifer Garcia |
+| 186 | 75 | Bouncy |
+| 187 | 75 | Bonnie Powell |
+| 188 | 75 | Chonda OhanaMomma Michelle |
+| 189 | 75 | Sarah Perry Cook |
+| 190 | 75 | Mark Fitch Jr. |
 | 191 | 74 | Rita Ann |
-| 192 | 73 | Troy Zanelli |
-| 193 | 73 | Jenn Fitzgerald |
-| 194 | 71 | King |
-| 195 | 71 | Jason Garnatz |
+| 192 | 73 | Jenn Fitzgerald |
+| 193 | 73 | Troy Zanelli |
+| 194 | 71 | Jason Garnatz |
+| 195 | 71 | King |
 | 196 | 71 | Gean DeJesus |
-| 197 | 70 | Karen Small |
-| 198 | 70 | Henry Lanier |
-| 199 | 70 | Josh Keith Travierso |
-| 200 | 69 | Dizzy Slammer |
-| 201 | 69 | Wacky Brick |
-| 202 | 69 | Tricia Motika Cowan |
-| 203 | 68 | Dheeh Robles |
-| 204 | 68 | Keys Tome |
+| 197 | 70 | Henry Lanier |
+| 198 | 70 | Josh Keith Travierso |
+| 199 | 70 | Karen Small |
+| 200 | 69 | Wacky Brick |
+| 201 | 69 | Tricia Motika Cowan |
+| 202 | 69 | Dizzy Slammer |
+| 203 | 68 | Keys Tome |
+| 204 | 68 | Erika Seaton |
 | 205 | 68 | Smiley Gridzone |
-| 206 | 68 | Erika Seaton |
-| 207 | 67 | Hen |
-| 208 | 67 | Loretta Hendricks |
-| 209 | 67 | Reina Pagan |
+| 206 | 68 | Dheeh Robles |
+| 207 | 67 | Reina Pagan |
+| 208 | 67 | Hen |
+| 209 | 67 | Loretta Hendricks |
 | 210 | 67 | Alma López Morales |
 | 211 | 66 | Mann Manson |
 | 212 | 65 | Cranky Twistpiece |
