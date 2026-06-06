@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 11:16:16 UTC
+# Standings for team4 as of 2026-06-06 11:16:38 UTC
 
 **Total Participants:** 936
 
@@ -113,10 +113,10 @@
 | 105 | 201 | Renee Sapp |
 | 106 | 200 | Leah Gorsuch |
 | 107 | 200 | Esther Hadassah |
-| 108 | 195 | Colin |
-| 109 | 195 | Sean Mccleary |
-| 110 | 194 | Lisa lisa |
-| 111 | 194 | Chiquita Blue |
+| 108 | 195 | Sean Mccleary |
+| 109 | 195 | Colin |
+| 110 | 194 | Chiquita Blue |
+| 111 | 194 | Lisa lisa |
 | 112 | 193 | Tiffany Bunker-Hill |
 | 113 | 192 | Gorica Prusina |
 | 114 | 187 | Scamp Jones |
@@ -138,9 +138,9 @@
 | 130 | 164 | QueenLi86 |
 | 131 | 163 | Brandy Lynn |
 | 132 | 161 | matt |
-| 133 | 160 | Tipsy Builderline |
+| 133 | 160 | Kitsune Bi |
 | 134 | 160 | Littlebrat |
-| 135 | 160 | Kitsune Bi |
+| 135 | 160 | Tipsy Builderline |
 | 136 | 159 | iiPurgeV2 |
 | 137 | 158 | Taz |
 | 138 | 155 | Dae Von |
@@ -159,18 +159,18 @@
 | 151 | 141 | Jackie Polanco |
 | 152 | 137 | Shelby |
 | 153 | 137 | Jasmine Marie |
-| 154 | 134 | Loony Rotater |
-| 155 | 134 | ariel |
-| 156 | 133 | June Hoffman |
+| 154 | 134 | ariel |
+| 155 | 134 | Loony Rotater |
+| 156 | 133 | Shawntae Mccary |
 | 157 | 133 | Janet Sanfilippo Sullivan |
-| 158 | 133 | Chirpy Link |
-| 159 | 133 | Shawntae Mccary |
+| 158 | 133 | June Hoffman |
+| 159 | 133 | Chirpy Link |
 | 160 | 130 | Magz |
 | 161 | 130 | Fran Aaron-Ring |
 | 162 | 129 | Lani |
-| 163 | 129 | Ryan Paul Clark-Ramsey |
-| 164 | 129 | Kelly Howland |
-| 165 | 129 | Brainbabe |
+| 163 | 129 | Kelly Howland |
+| 164 | 129 | Brainbabe |
+| 165 | 129 | Ryan Paul Clark-Ramsey |
 | 166 | 129 | Chilly Pivot |
 | 167 | 129 | Simone |
 | 168 | 128 | Crystal Hammonds |
@@ -182,8 +182,8 @@
 | 174 | 122 | Samara Garcia |
 | 175 | 121 | Jazzy Gridder |
 | 176 | 120 | Cool Risepiece |
-| 177 | 120 | Shiny Brick |
-| 178 | 120 | Glamorous Gracey |
+| 177 | 120 | Glamorous Gracey |
+| 178 | 120 | Shiny Brick |
 | 179 | 120 | Joab Gonzalez |
 | 180 | 119 | EL Booger |
 | 181 | 119 | Justin Michael |
