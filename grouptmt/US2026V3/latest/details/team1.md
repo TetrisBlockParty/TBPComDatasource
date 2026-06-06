@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 14:29:17 UTC
+# Standings for team1 as of 2026-06-06 14:30:17 UTC
 
 **Total Participants:** 1023
 
@@ -18,7 +18,7 @@
 | 10 | 3071 | Plucky Swipe |
 | 11 | 3039 | Chummy Combo |
 | 12 | 2596 | Pdubbl3 |
-| 13 | 2436 | Debbie Carswell |
+| 13 | 2584 | Debbie Carswell |
 | 14 | 2415 | Yolanda McDonald |
 | 15 | 2321 | Chandler Spencer |
 | 16 | 2252 | jaimie |
@@ -41,13 +41,13 @@
 | 33 | 933 | Cherry Rose |
 | 34 | 930 | Sanjuro |
 | 35 | 927 | Jolly Dropzone |
-| 36 | 891 | Spicy Balancer |
+| 36 | 906 | Spicy Balancer |
 | 37 | 882 | Jon Gathers |
 | 38 | 877 | Brian Bohanon II |
 | 39 | 844 | Jennifer To |
 | 40 | 842 | Chris Russell |
-| 41 | 749 | Aviv Zehavi |
-| 42 | 736 | Jazzy Dashpiece |
+| 41 | 764 | Jazzy Dashpiece |
+| 42 | 749 | Aviv Zehavi |
 | 43 | 715 | Chill Clusterer |
 | 44 | 694 | Charnay Peacock |
 | 45 | 675 | Corey Cawthon |
@@ -74,7 +74,7 @@
 | 66 | 427 | Gotcha |
 | 67 | 423 | Linzie Marie |
 | 68 | 421 | ing410 |
-| 69 | 398 | Blockhead |
+| 69 | 404 | Blockhead |
 | 70 | 394 | ELM |
 | 71 | 392 | She Higgy |
 | 72 | 388 | SPNLover24 |
@@ -455,17 +455,17 @@
 | 447 | 52 | Anastasia |
 | 448 | 52 | Raquel Ortiz |
 | 449 | 52 | Dandy Brickfit |
-| 450 | 52 | Loopy Risepiece |
-| 451 | 51 | Comedian Gdane |
-| 452 | 51 | BrettanMary Adkins |
-| 453 | 51 | Shanjerrica Taylor Rosell |
-| 454 | 51 | Just2Play$ |
-| 455 | 51 | messyboots |
-| 456 | 51 | Poppy Smasher |
-| 457 | 50 | Saucy Faller |
-| 458 | 50 | Nisha Sunshine Jenkins |
-| 459 | 50 | Slinky Party |
-| 460 | 50 | Rene Hicks |
+| 450 | 52 | Rene Hicks |
+| 451 | 52 | Loopy Risepiece |
+| 452 | 51 | Comedian Gdane |
+| 453 | 51 | BrettanMary Adkins |
+| 454 | 51 | Shanjerrica Taylor Rosell |
+| 455 | 51 | Just2Play$ |
+| 456 | 51 | messyboots |
+| 457 | 51 | Poppy Smasher |
+| 458 | 50 | Saucy Faller |
+| 459 | 50 | Nisha Sunshine Jenkins |
+| 460 | 50 | Slinky Party |
 | 461 | 50 | MsBobby Patrick |
 | 462 | 50 | Tramaine Crockrum |
 | 463 | 50 | Teresa Yanira Cepeda |
