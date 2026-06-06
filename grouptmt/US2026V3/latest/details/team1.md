@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 19:46:19 UTC
+# Standings for team1 as of 2026-06-06 19:46:39 UTC
 
 **Total Participants:** 1135
 
@@ -105,9 +105,9 @@
 | 97 | 387 | Novaa |
 | 98 | 384 | Voice |
 | 99 | 383 | Eric Mcgaughy |
-| 100 | 377 | AF Cruz |
-| 101 | 374 | Lashawn Wallace |
-| 102 | 374 | Moomoo |
+| 100 | 378 | Moomoo |
+| 101 | 377 | AF Cruz |
+| 102 | 374 | Lashawn Wallace |
 | 103 | 373 | Catara Renae Oliver |
 | 104 | 370 | Jamal Itzjusmall Chambers |
 | 105 | 365 | Quirky Fallgrid |
