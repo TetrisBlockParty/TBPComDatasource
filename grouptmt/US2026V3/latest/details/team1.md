@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 01:26:15 UTC
+# Standings for team1 as of 2026-06-06 01:26:36 UTC
 
 **Total Participants:** 680
 
@@ -145,13 +145,13 @@
 | 137 | 84 | Ciera Peace |
 | 138 | 84 | MamaBear |
 | 139 | 83 | Byron Mario Cawthon |
-| 140 | 81 | Matthieu Pistone |
-| 141 | 81 | Mafio SO |
-| 142 | 81 | Sarah Steckbauer |
-| 143 | 80 | Chevalier Burley |
-| 144 | 80 | Felicia Williams |
-| 145 | 80 | Jamie Willis |
-| 146 | 80 | Kimberly Linares Hernandez |
+| 140 | 83 | Kimberly Linares Hernandez |
+| 141 | 81 | Matthieu Pistone |
+| 142 | 81 | Mafio SO |
+| 143 | 81 | Sarah Steckbauer |
+| 144 | 80 | Chevalier Burley |
+| 145 | 80 | Felicia Williams |
+| 146 | 80 | Jamie Willis |
 | 147 | 80 | Charles Johnson |
 | 148 | 80 | Jazzy Dashpiece |
 | 149 | 80 | LAhoneybun82 |

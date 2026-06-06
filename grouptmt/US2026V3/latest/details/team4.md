@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 01:26:15 UTC
+# Standings for team4 as of 2026-06-06 01:26:36 UTC
 
 **Total Participants:** 630
 
@@ -460,9 +460,9 @@
 | 452 | 18 | chuck |
 | 453 | 18 | Stacia Marie |
 | 454 | 18 | Dewy |
-| 455 | 18 | Angel Boges |
-| 456 | 18 | Happy Strikerpiece |
-| 457 | 18 | Frothy Pivotfall |
+| 455 | 18 | Happy Strikerpiece |
+| 456 | 18 | Frothy Pivotfall |
+| 457 | 18 | Angel Boges |
 | 458 | 18 | Dawn Ferrin |
 | 459 | 18 | pussface |
 | 460 | 17 | Melissa Anne |
@@ -470,67 +470,67 @@
 | 462 | 17 | Rocky |
 | 463 | 17 | Kristie ML SneekaPuff |
 | 464 | 17 | Kay |
-| 465 | 17 | Heather Hilferty |
-| 466 | 16 | Queen B |
-| 467 | 16 | Lisa Pie |
-| 468 | 16 | Kendall Rhodie |
-| 469 | 16 | Layne Davis |
-| 470 | 16 | Alex Armour |
-| 471 | 16 | George Palacios |
-| 472 | 16 | Catherine Garza |
-| 473 | 16 | Ross Bryant |
-| 474 | 16 | Frisky Pusher |
-| 475 | 16 | Joe Joe |
-| 476 | 16 | MsThick SrtLady Williams |
-| 477 | 16 | Pap337 |
-| 478 | 16 | Shirley Tow Middaugh |
-| 479 | 15 | Capone |
-| 480 | 15 | Jennifer Evans Elliott |
-| 481 | 15 | Manolo Canety |
-| 482 | 15 | Christina Barry |
-| 483 | 15 | Steven Patshy |
-| 484 | 15 | PsyDMom |
-| 485 | 15 | Hasty Snapmatch |
-| 486 | 15 | babygirlw |
-| 487 | 15 | Lizzzzzz |
-| 488 | 15 | Britney Kitora |
-| 489 | 15 | Joshua Garner |
-| 490 | 15 | Tiffany Morris Garner |
+| 465 | 17 | Khiem Hernandez |
+| 466 | 17 | Heather Hilferty |
+| 467 | 16 | Queen B |
+| 468 | 16 | Lisa Pie |
+| 469 | 16 | Kendall Rhodie |
+| 470 | 16 | Layne Davis |
+| 471 | 16 | Alex Armour |
+| 472 | 16 | George Palacios |
+| 473 | 16 | Catherine Garza |
+| 474 | 16 | Ross Bryant |
+| 475 | 16 | Frisky Pusher |
+| 476 | 16 | Joe Joe |
+| 477 | 16 | MsThick SrtLady Williams |
+| 478 | 16 | Pap337 |
+| 479 | 16 | Shirley Tow Middaugh |
+| 480 | 15 | Capone |
+| 481 | 15 | Jennifer Evans Elliott |
+| 482 | 15 | Manolo Canety |
+| 483 | 15 | Christina Barry |
+| 484 | 15 | Steven Patshy |
+| 485 | 15 | PsyDMom |
+| 486 | 15 | Hasty Snapmatch |
+| 487 | 15 | babygirlw |
+| 488 | 15 | yourmomz |
+| 489 | 15 | Lizzzzzz |
+| 490 | 15 | Britney Kitora |
 | 491 | 15 | Donna Bush |
-| 492 | 15 | yourmomz |
-| 493 | 15 | John Wertz |
-| 494 | 15 | Stephanie Meinhart |
-| 495 | 15 | Jennifer Terrill |
-| 496 | 14 | Kiaralis Ashley Hancock |
-| 497 | 14 | Bold Tumbler |
-| 498 | 14 | Khiem Hernandez |
-| 499 | 14 | Dolores Falco |
-| 500 | 14 | Brandi Gray |
-| 501 | 14 | EpicWizard |
-| 502 | 14 | Winter Moon |
-| 503 | 14 | Playful Raccoon |
-| 504 | 14 | Dena Lynn Rogers |
-| 505 | 14 | Holly Bramel |
-| 506 | 13 | Miguel Teixeira |
-| 507 | 13 | Jackie Russo-Edens |
-| 508 | 13 | Jen Roe |
-| 509 | 13 | shonaberry |
+| 492 | 15 | Jennifer Terrill |
+| 493 | 15 | Joshua Garner |
+| 494 | 15 | John Wertz |
+| 495 | 15 | Stephanie Meinhart |
+| 496 | 15 | Tiffany Morris Garner |
+| 497 | 14 | Dolores Falco |
+| 498 | 14 | EpicWizard |
+| 499 | 14 | Brandi Gray |
+| 500 | 14 | Bold Tumbler |
+| 501 | 14 | Winter Moon |
+| 502 | 14 | Holly Bramel |
+| 503 | 14 | Dena Lynn Rogers |
+| 504 | 14 | Playful Raccoon |
+| 505 | 14 | Kiaralis Ashley Hancock |
+| 506 | 13 | Jen Roe |
+| 507 | 13 | Jaison Horton |
+| 508 | 13 | Blessedmom865 |
+| 509 | 13 | Jackie Russo-Edens |
 | 510 | 13 | Kellz M Bee |
-| 511 | 13 | Jaison Horton |
-| 512 | 13 | Blessedmom865 |
-| 513 | 12 | Joyce Hampton |
+| 511 | 13 | Miguel Teixeira |
+| 512 | 13 | shonaberry |
+| 513 | 12 | Fancy Riser |
 | 514 | 12 | Vicente Bolaños Jr. |
-| 515 | 12 | Tatiyana Hockett |
-| 516 | 12 | Shelly Jackson |
-| 517 | 12 | Slinky Snapfit |
-| 518 | 12 | Misti Rich |
-| 519 | 12 | Tod Jae |
-| 520 | 12 | Scott Baum |
+| 515 | 12 | Shelly Jackson |
+| 516 | 12 | Tatiyana Hockett |
+| 517 | 12 | Misti Rich |
+| 518 | 12 | Peterson Cottontail |
+| 519 | 12 | Slinky Snapfit |
+| 520 | 12 | Rebecca Renaud |
 | 521 | 12 | Mighty Spinfit |
-| 522 | 12 | my my |
-| 523 | 12 | Peterson Cottontail |
-| 524 | 12 | Rebecca Renaud |
-| 525 | 12 | Fancy Riser |
+| 522 | 12 | Joyce Hampton |
+| 523 | 12 | Tod Jae |
+| 524 | 12 | Scott Baum |
+| 525 | 12 | my my |
 | 526 | 11 | Name |
 | 527 | 11 | Fancy Rollfit |
 | 528 | 11 | Michellee Lewis |

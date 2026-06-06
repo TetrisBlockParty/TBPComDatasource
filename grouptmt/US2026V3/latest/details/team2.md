@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 01:26:15 UTC
+# Standings for team2 as of 2026-06-06 01:26:36 UTC
 
 **Total Participants:** 768
 
@@ -122,10 +122,10 @@
 | 114 | 132 | Spunky Cascadeclear |
 | 115 | 131 | Harper |
 | 116 | 131 | Larry Cross |
-| 117 | 130 | ZBee |
-| 118 | 130 | Precious Womack |
-| 119 | 129 | H |
-| 120 | 128 | Lush Party |
+| 117 | 130 | Lush Party |
+| 118 | 130 | ZBee |
+| 119 | 130 | Precious Womack |
+| 120 | 129 | H |
 | 121 | 128 | Amanda Sikes |
 | 122 | 127 | Kim Hunt |
 | 123 | 125 | Ariel Gundersen |
@@ -133,10 +133,10 @@
 | 125 | 123 | Lily |
 | 126 | 121 | Alison Waller |
 | 127 | 121 | Suki Jacobs |
-| 128 | 120 | Elizabeth Cornelius |
-| 129 | 120 | Zany Blockclear |
-| 130 | 120 | Happy |
-| 131 | 120 | Courtney McCulley |
+| 128 | 120 | Zany Blockclear |
+| 129 | 120 | Happy |
+| 130 | 120 | Courtney McCulley |
+| 131 | 120 | Elizabeth Cornelius |
 | 132 | 117 | Marge Cromer |
 | 133 | 116 | Ashley Green |
 | 134 | 115 | Olivia Jefferson |
@@ -154,27 +154,27 @@
 | 146 | 106 | Teresa Mandich |
 | 147 | 103 | Tango Sierra |
 | 148 | 102 | Alissa Ary |
-| 149 | 100 | Sara Perkins |
-| 150 | 100 | LEW |
-| 151 | 100 | Lisa Breiding |
-| 152 | 100 | AcardBoardBox |
-| 153 | 100 | Ber |
-| 154 | 99 | Melissa Abbott |
-| 155 | 99 | Lashanda Bertram |
-| 156 | 99 | Gabrielle Rivera |
+| 149 | 100 | Lisa Breiding |
+| 150 | 100 | Sara Perkins |
+| 151 | 100 | AcardBoardBox |
+| 152 | 100 | Ber |
+| 153 | 100 | LEW |
+| 154 | 99 | Lashanda Bertram |
+| 155 | 99 | Gabrielle Rivera |
+| 156 | 99 | Melissa Abbott |
 | 157 | 97 | Laverne Ellis Blair |
-| 158 | 95 | Mike Mordhorst |
-| 159 | 95 | Wacky Holder |
-| 160 | 95 | Sarah Mccolgan |
-| 161 | 94 | Theresa Hollinger |
-| 162 | 94 | Sherri E Woods Hess |
-| 163 | 92 | Raine |
-| 164 | 92 | Amy Taylor Pomerenk |
-| 165 | 90 | Rick |
-| 166 | 89 | Angie Bishop |
-| 167 | 89 | Belle |
-| 168 | 88 | Nano. |
-| 169 | 88 | Jamie Fenyus |
+| 158 | 96 | Rick |
+| 159 | 95 | Mike Mordhorst |
+| 160 | 95 | Wacky Holder |
+| 161 | 95 | Sarah Mccolgan |
+| 162 | 94 | Theresa Hollinger |
+| 163 | 94 | Sherri E Woods Hess |
+| 164 | 92 | Raine |
+| 165 | 92 | Amy Taylor Pomerenk |
+| 166 | 89 | Belle |
+| 167 | 89 | Angie Bishop |
+| 168 | 88 | Jamie Fenyus |
+| 169 | 88 | Nano. |
 | 170 | 87 | Sam Brewster |
 | 171 | 87 | Brittni Lawrence |
 | 172 | 86 | Lora Via |
@@ -584,89 +584,89 @@
 | 576 | 15 | Tashamonique Puckey |
 | 577 | 15 | Poppy Slice |
 | 578 | 15 | Julie Vargas |
-| 579 | 15 | Cherica Taylor |
-| 580 | 15 | Shalice Jacobs |
-| 581 | 15 | Wacky Stack |
-| 582 | 15 | Mandeee |
-| 583 | 15 | YAKO |
+| 579 | 15 | Samantha |
+| 580 | 15 | Naomi Jaynes |
+| 581 | 15 | YAKO |
+| 582 | 15 | Lisa Marie |
+| 583 | 15 | Christine Ann Eras |
 | 584 | 15 | fancypants |
-| 585 | 15 | Christine Ann Eras |
-| 586 | 15 | Jumpy Matchbuilder |
-| 587 | 15 | Liseth Vasquez |
-| 588 | 15 | Lisa Marie |
-| 589 | 15 | Analee Nicole Jones |
-| 590 | 15 | MaddieCherie |
-| 591 | 15 | Naomi Jaynes |
+| 585 | 15 | Wacky Stack |
+| 586 | 15 | Shalice Jacobs |
+| 587 | 15 | Mandeee |
+| 588 | 15 | Jumpy Matchbuilder |
+| 589 | 15 | Liseth Vasquez |
+| 590 | 15 | Cherica Taylor |
+| 591 | 15 | Mee Maw |
 | 592 | 15 | Tina |
-| 593 | 15 | Samantha |
-| 594 | 14 | BlockBreaker |
-| 595 | 14 | MiMi’26 |
-| 596 | 14 | Randi Moore |
+| 593 | 15 | Analee Nicole Jones |
+| 594 | 15 | MaddieCherie |
+| 595 | 14 | Jim Wright |
+| 596 | 14 | ReiRei |
 | 597 | 14 | Anthony Kordich |
-| 598 | 14 | ReiRei |
-| 599 | 14 | Christopher Pulley |
-| 600 | 14 | Amanda Bailey |
-| 601 | 14 | Jim Wright |
-| 602 | 13 | Hoppy Rotate |
-| 603 | 13 | Lexi Chouinard |
-| 604 | 13 | Dreamy Wipepiece |
-| 605 | 13 | David Skelton |
-| 606 | 13 | Sean Rippa |
-| 607 | 13 | bigdog |
+| 598 | 14 | Randi Moore |
+| 599 | 14 | MiMi’26 |
+| 600 | 14 | BlockBreaker |
+| 601 | 14 | Christopher Pulley |
+| 602 | 14 | Amanda Bailey |
+| 603 | 13 | Hoppy Rotate |
+| 604 | 13 | Lexi Chouinard |
+| 605 | 13 | latte |
+| 606 | 13 | bigdog |
+| 607 | 13 | Sean Rippa |
 | 608 | 13 | Jill Gelhausen |
-| 609 | 13 | latte |
-| 610 | 12 | Jessica Bowman |
-| 611 | 12 | sally |
-| 612 | 12 | Kris Dusza Dodus |
-| 613 | 12 | Mary |
-| 614 | 12 | Sindy08 |
-| 615 | 12 | Samantha Morrison |
-| 616 | 12 | Quirky Brickroll |
-| 617 | 12 | Squyrt |
-| 618 | 12 | T-Rex Ricky Lee Dieumegarde Jr. |
-| 619 | 12 | Lu Wallace |
-| 620 | 12 | Brandi Thompson |
-| 621 | 11 | Robert E Tracy |
-| 622 | 11 | Yany |
-| 623 | 11 | Josephina |
-| 624 | 11 | Cristy Ayala |
-| 625 | 11 | Purpleroyalty11 |
-| 626 | 11 | Gino Positano |
-| 627 | 11 | Amanda Neal |
-| 628 | 10 | Cardisa Hall |
-| 629 | 10 | Jolene Hull Hearn |
-| 630 | 10 | Witty Matchfit |
-| 631 | 10 | Mee Maw |
-| 632 | 10 | Corina Marie Prunty |
-| 633 | 10 | Crystal Owen Yocolano |
+| 609 | 13 | David Skelton |
+| 610 | 13 | Dreamy Wipepiece |
+| 611 | 12 | Quirky Brickroll |
+| 612 | 12 | Mary |
+| 613 | 12 | Kris Dusza Dodus |
+| 614 | 12 | Jessica Bowman |
+| 615 | 12 | Sindy08 |
+| 616 | 12 | Samantha Morrison |
+| 617 | 12 | sally |
+| 618 | 12 | Lu Wallace |
+| 619 | 12 | Brandi Thompson |
+| 620 | 12 | T-Rex Ricky Lee Dieumegarde Jr. |
+| 621 | 12 | Squyrt |
+| 622 | 11 | Amanda Neal |
+| 623 | 11 | Gino Positano |
+| 624 | 11 | Purpleroyalty11 |
+| 625 | 11 | Robert E Tracy |
+| 626 | 11 | Cristy Ayala |
+| 627 | 11 | Yany |
+| 628 | 11 | Josephina |
+| 629 | 10 | Talyn Domingues |
+| 630 | 10 | Cardisa Hall |
+| 631 | 10 | Corina Marie Prunty |
+| 632 | 10 | Witty Matchfit |
+| 633 | 10 | Jolene Hull Hearn |
 | 634 | 10 | Zappy Liney |
 | 635 | 10 | rebel4lyfe |
-| 636 | 10 | Talyn Domingues |
+| 636 | 10 | Lacey Johnson |
 | 637 | 10 | Cassafrass |
 | 638 | 10 | Mona Smith |
 | 639 | 10 | Nova |
 | 640 | 10 | Elnaz Mokleh |
 | 641 | 10 | Maureen MomtoDolores GeorgeBrian |
 | 642 | 10 | Lisa Schwobe |
-| 643 | 10 | Daily Findery |
-| 644 | 10 | Beachmama |
-| 645 | 10 | Angie Rose |
-| 646 | 10 | Berta Hurley |
+| 643 | 10 | Doowop40 |
+| 644 | 10 | Angie Rose |
+| 645 | 10 | Berta Hurley |
+| 646 | 10 | Beachmama |
 | 647 | 10 | Audrey Wood |
 | 648 | 10 | Twisty Snapmatch |
 | 649 | 10 | Tito Garcia |
-| 650 | 10 | Spicy Snapclear |
-| 651 | 10 | Cortney Coleman |
+| 650 | 10 | Cortney Coleman |
+| 651 | 10 | Spicy Snapclear |
 | 652 | 10 | Becky Kennon |
-| 653 | 10 | Jennifer Bell |
+| 653 | 10 | Daily Findery |
 | 654 | 10 | Riggins Terry |
-| 655 | 10 | Doowop40 |
-| 656 | 10 | Ashley Gracelynn Tiner |
-| 657 | 10 | Beej Blake |
+| 655 | 10 | Ashley Gracelynn Tiner |
+| 656 | 10 | Beej Blake |
+| 657 | 10 | Jennifer Bell |
 | 658 | 10 | Mouh Med |
-| 659 | 10 | Erin Marie Smith |
-| 660 | 10 | Robin Stutler |
-| 661 | 10 | Lacey Johnson |
+| 659 | 10 | Robin Stutler |
+| 660 | 10 | Erin Marie Smith |
+| 661 | 10 | Crystal Owen Yocolano |
 | 662 | 10 | Ollie |
 | 663 | 10 | Amanda Bottorff |
 | 664 | 10 | Twisty Snapclear |
