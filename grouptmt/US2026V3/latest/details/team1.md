@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 11:14:16 UTC
+# Standings for team1 as of 2026-06-06 11:14:39 UTC
 
 **Total Participants:** 964
 
@@ -320,30 +320,30 @@
 | 312 | 67 | Fina McKinnis |
 | 313 | 66 | GracefulOwl808 |
 | 314 | 66 | Breezy Catcher |
-| 315 | 65 | Sabrina Wilkerson |
-| 316 | 65 | Jonathan Vee Jay |
-| 317 | 65 | Jazzy Bridger |
-| 318 | 65 | Danielle DeLozier Plesec |
-| 319 | 65 | Giggy Tower |
-| 320 | 64 | Dena Marie Lee |
-| 321 | 64 | Penee Wiggins |
-| 322 | 63 | La'Chae Nickole |
+| 315 | 65 | MrsMeadows2019 |
+| 316 | 65 | Sabrina Wilkerson |
+| 317 | 65 | Jonathan Vee Jay |
+| 318 | 65 | Jazzy Bridger |
+| 319 | 65 | Danielle DeLozier Plesec |
+| 320 | 65 | Giggy Tower |
+| 321 | 64 | Dena Marie Lee |
+| 322 | 64 | Penee Wiggins |
 | 323 | 63 | Slinky Clearzone |
 | 324 | 63 | Ahsokadog |
 | 325 | 63 | Sarah Swietlicki - Lopez |
-| 326 | 62 | MrsMeadows2019 |
+| 326 | 63 | La'Chae Nickole |
 | 327 | 62 | Richard Flex |
 | 328 | 62 | Jack Mehof |
 | 329 | 62 | De'Mear McKinney |
 | 330 | 62 | Lynnette WheelerBushnell |
 | 331 | 61 | star |
-| 332 | 61 | Tonya Thomas |
-| 333 | 61 | Donna Payne |
-| 334 | 60 | Christi Walker Patton |
-| 335 | 60 | Tasha |
-| 336 | 60 | Valerie Alexander |
-| 337 | 60 | Malcolm Stanley |
-| 338 | 60 | izzybella |
+| 332 | 61 | Donna Payne |
+| 333 | 61 | Tonya Thomas |
+| 334 | 60 | Tasha |
+| 335 | 60 | izzybella |
+| 336 | 60 | Christi Walker Patton |
+| 337 | 60 | Valerie Alexander |
+| 338 | 60 | Malcolm Stanley |
 | 339 | 60 | Angie Smith |
 | 340 | 60 | De'Nell Edwards |
 | 341 | 60 | Heather Aurelia |

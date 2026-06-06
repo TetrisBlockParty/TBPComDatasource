@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 11:14:16 UTC
+# Standings for team2 as of 2026-06-06 11:14:39 UTC
 
 **Total Participants:** 1109
 
@@ -63,9 +63,9 @@
 | 55 | 660 | Julie Trede Amerson |
 | 56 | 659 | Marie Luciano |
 | 57 | 629 | Dane Marko |
-| 58 | 614 | Deborah Boyce Minor |
-| 59 | 614 | Block Dog |
-| 60 | 606 | Betty Barrett |
+| 58 | 616 | Betty Barrett |
+| 59 | 614 | Deborah Boyce Minor |
+| 60 | 614 | Block Dog |
 | 61 | 592 | Brandon Link |
 | 62 | 588 | Kellie Sharp Godfrey |
 | 63 | 577 | Lindsay Klemp |
@@ -665,26 +665,26 @@
 | 657 | 30 | Amanda Bailey |
 | 658 | 30 | Ashley Eneboe |
 | 659 | 30 | Dapper Riser |
-| 660 | 30 | Brittany Kay |
-| 661 | 30 | Debra Henry |
-| 662 | 30 | Abby Dexter |
-| 663 | 30 | Carl Mccoy |
-| 664 | 30 | Brave Blockmatch |
-| 665 | 30 | Nicole Suber |
-| 666 | 29 | Jackie Moran Tiller |
-| 667 | 29 | Michii |
-| 668 | 29 | Andrea Rawson |
-| 669 | 29 | Chris Delauro |
-| 670 | 29 | Courtney Elizabeth Hartnagel |
-| 671 | 29 | Brandy Westfall-panchari |
-| 672 | 29 | Jolene Hull Hearn |
-| 673 | 29 | Seamus |
-| 674 | 29 | Dandy Tiltgrid |
-| 675 | 29 | Marcia Davis |
-| 676 | 28 | Bennie Farbo |
-| 677 | 28 | Katrien |
-| 678 | 28 | Sara BlueEyes |
-| 679 | 28 | Rebekah Holland |
+| 660 | 30 | Rebekah Holland |
+| 661 | 30 | Brittany Kay |
+| 662 | 30 | Debra Henry |
+| 663 | 30 | Abby Dexter |
+| 664 | 30 | Carl Mccoy |
+| 665 | 30 | Brave Blockmatch |
+| 666 | 30 | Nicole Suber |
+| 667 | 29 | Jackie Moran Tiller |
+| 668 | 29 | Michii |
+| 669 | 29 | Andrea Rawson |
+| 670 | 29 | Chris Delauro |
+| 671 | 29 | Courtney Elizabeth Hartnagel |
+| 672 | 29 | Brandy Westfall-panchari |
+| 673 | 29 | Jolene Hull Hearn |
+| 674 | 29 | Seamus |
+| 675 | 29 | Dandy Tiltgrid |
+| 676 | 29 | Marcia Davis |
+| 677 | 28 | Bennie Farbo |
+| 678 | 28 | Katrien |
+| 679 | 28 | Sara BlueEyes |
 | 680 | 28 | Pjrobinsonnn |
 | 681 | 28 | Frisky Twist |
 | 682 | 28 | Damion Morrison |
