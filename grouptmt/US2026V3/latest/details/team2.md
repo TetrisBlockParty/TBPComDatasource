@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 19:54:40 UTC
+# Standings for team2 as of 2026-06-06 19:55:17 UTC
 
 **Total Participants:** 1353
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 16728 | Summer Harrison |
 | 2 | 11700 | Mochi |
-| 3 | 9982 | Puce guide 9156 |
+| 3 | 10480 | Puce guide 9156 |
 | 4 | 9434 | Jason Wood |
 | 5 | 7966 | Crystalin Heath Lewis |
 | 6 | 7687 | Lacey Nolting |
@@ -90,10 +90,10 @@
 | 82 | 577 | Lindsay Klemp |
 | 83 | 572 | Dsabrina Maxey |
 | 84 | 570 | Nerdy Climber |
-| 85 | 543 | Kathleen Dumbazz |
-| 86 | 541 | Ricardo Ewart |
-| 87 | 540 | Jamie Jones |
-| 88 | 540 | Rhonda Diebold |
+| 85 | 544 | Rhonda Diebold |
+| 86 | 543 | Kathleen Dumbazz |
+| 87 | 541 | Ricardo Ewart |
+| 88 | 540 | Jamie Jones |
 | 89 | 531 | Nawang Nawang |
 | 90 | 515 | Loony Faller |
 | 91 | 507 | Mirr Lulu |
@@ -211,10 +211,10 @@
 | 203 | 191 | Kathy Strickland |
 | 204 | 191 | Jessica Christine |
 | 205 | 191 | Jeanna Mendez |
-| 206 | 188 | Larry Cross |
-| 207 | 187 | Laura Melton |
-| 208 | 187 | Jat |
-| 209 | 187 | Gloria May Shook |
+| 206 | 189 | Gloria May Shook |
+| 207 | 188 | Larry Cross |
+| 208 | 187 | Laura Melton |
+| 209 | 187 | Jat |
 | 210 | 184 | Jessica Lynn |
 | 211 | 184 | Becca Marie |
 | 212 | 183 | Chipper Stackbuilder |
@@ -378,65 +378,65 @@
 | 370 | 95 | Melmel |
 | 371 | 94 | Mandy Van Laningham Bishop |
 | 372 | 94 | Donna Segletes Kay |
-| 373 | 94 | Earline Dupuy Bordelon |
-| 374 | 94 | Paige Lynette Sohl |
-| 375 | 93 | Paula Haskins |
-| 376 | 93 | Jumpy Matchbuilder |
-| 377 | 93 | Lively Curve |
+| 373 | 94 | Paige Lynette Sohl |
+| 374 | 94 | Earline Dupuy Bordelon |
+| 375 | 93 | Connie Breeden |
+| 376 | 93 | Lively Curve |
+| 377 | 93 | Jumpy Matchbuilder |
 | 378 | 93 | Mataya |
-| 379 | 93 | Connie Breeden |
+| 379 | 93 | Paula Haskins |
 | 380 | 92 | Thy Bui |
-| 381 | 92 | Jumpy Dashpiece |
-| 382 | 92 | Jayda Walters |
-| 383 | 92 | Maurii93 |
-| 384 | 92 | Brooke Kaune |
-| 385 | 92 | Sandra Pursell |
+| 381 | 92 | Jayda Walters |
+| 382 | 92 | Maurii93 |
+| 383 | 92 | Jumpy Dashpiece |
+| 384 | 92 | Sandra Pursell |
+| 385 | 92 | Brooke Kaune |
 | 386 | 91 | Rocroc mo |
 | 387 | 91 | Greenie |
-| 388 | 91 | Heather Vircik |
+| 388 | 91 | Leighla Davis |
 | 389 | 91 | Jacquelyn Snyder Dumas |
-| 390 | 91 | Leighla Davis |
-| 391 | 90 | Rescuegirl76 |
-| 392 | 90 | Lesley Stoeckle |
-| 393 | 90 | Eva Lopez |
-| 394 | 89 | Gabrielle Wilson |
-| 395 | 89 | Ava Speedy |
-| 396 | 89 | Patrick Woodard |
-| 397 | 88 | Candi Cane |
-| 398 | 88 | IncrediDragon |
-| 399 | 88 | Kimberly Davis |
-| 400 | 88 | James Sayers |
-| 401 | 88 | Tami Kay Williams Watson |
-| 402 | 88 | Cozy Cascade |
-| 403 | 88 | Nano. |
-| 404 | 88 | Chesney |
-| 405 | 87 | Jackie Walker |
-| 406 | 87 | Wendy Mcbride |
-| 407 | 87 | Kenzie |
-| 408 | 87 | Sam Brewster |
+| 390 | 91 | Heather Vircik |
+| 391 | 90 | Eva Lopez |
+| 392 | 90 | Rescuegirl76 |
+| 393 | 90 | Lesley Stoeckle |
+| 394 | 89 | Ava Speedy |
+| 395 | 89 | Patrick Woodard |
+| 396 | 89 | Gabrielle Wilson |
+| 397 | 88 | Nano. |
+| 398 | 88 | Kimberly Davis |
+| 399 | 88 | IncrediDragon |
+| 400 | 88 | Cozy Cascade |
+| 401 | 88 | Chesney |
+| 402 | 88 | James Sayers |
+| 403 | 88 | Tami Kay Williams Watson |
+| 404 | 88 | Candi Cane |
+| 405 | 87 | Sam Brewster |
+| 406 | 87 | Kenzie |
+| 407 | 87 | Wendy Mcbride |
+| 408 | 87 | Jackie Walker |
 | 409 | 86 | Susie Conger |
-| 410 | 85 | Epic Framezone |
+| 410 | 85 | Daisy Girl |
 | 411 | 85 | Christina Maria |
 | 412 | 85 | Elizabeth Henry |
-| 413 | 85 | Daisy Girl |
-| 414 | 84 | Cassandra Green |
-| 415 | 84 | Sarah Jane Gorsuch |
+| 413 | 85 | Epic Framezone |
+| 414 | 84 | Sarah Jane Gorsuch |
+| 415 | 84 | Cassandra Green |
 | 416 | 84 | Lisa Underwood Desmond |
-| 417 | 83 | TetrisMama |
-| 418 | 83 | Jenny |
+| 417 | 83 | Jenny |
+| 418 | 83 | TetrisMama |
 | 419 | 83 | Louis Brudzinski |
 | 420 | 82 | Madonna Ash |
-| 421 | 82 | Wendy McKee |
-| 422 | 82 | Kimberly Brooks |
-| 423 | 81 | rageking |
-| 424 | 81 | MUMBLES |
-| 425 | 81 | Heather Hi |
-| 426 | 81 | Shiny Spinfit |
-| 427 | 81 | Quina Jesse Fejaran |
-| 428 | 81 | Stoney McMillion |
-| 429 | 81 | YldBoar |
-| 430 | 81 | Epic Tilemaker |
-| 431 | 81 | Rhonda Driskill |
+| 421 | 82 | Kimberly Brooks |
+| 422 | 82 | Wendy McKee |
+| 423 | 82 | Rhonda Driskill |
+| 424 | 81 | rageking |
+| 425 | 81 | MUMBLES |
+| 426 | 81 | Heather Hi |
+| 427 | 81 | Shiny Spinfit |
+| 428 | 81 | Quina Jesse Fejaran |
+| 429 | 81 | Stoney McMillion |
+| 430 | 81 | YldBoar |
+| 431 | 81 | Epic Tilemaker |
 | 432 | 80 | Dawn Kroptavich |
 | 433 | 80 | Renee Siems |
 | 434 | 80 | Nicole Hogue |

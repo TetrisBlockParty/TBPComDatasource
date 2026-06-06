@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 19:54:40 UTC
+# Standings for team4 as of 2026-06-06 19:55:17 UTC
 
 **Total Participants:** 1125
 
@@ -61,8 +61,8 @@
 | 53 | 644 | Kelly Bernard |
 | 54 | 630 | Chaz Duncan |
 | 55 | 629 | Keesha Muro |
-| 56 | 628 | Adam J Leong |
-| 57 | 628 | Victoria Ver |
+| 56 | 628 | Victoria Ver |
+| 57 | 628 | Adam J Leong |
 | 58 | 620 | Fancy Crasher |
 | 59 | 618 | Alala.Cersei |
 | 60 | 607 | Jeremy Lopez |
@@ -111,8 +111,8 @@
 | 103 | 320 | DexterDobbins |
 | 104 | 317 | J |
 | 105 | 302 | JoLinda Dunn |
-| 106 | 300 | Genag |
-| 107 | 300 | Hasty Builder |
+| 106 | 300 | Hasty Builder |
+| 107 | 300 | Genag |
 | 108 | 300 | 2 kool |
 | 109 | 299 | Kim |
 | 110 | 295 | Thomasena Eady Reid |
@@ -124,9 +124,9 @@
 | 116 | 268 | Jojo Ann |
 | 117 | 259 | Jessica Peyton |
 | 118 | 258 | Gorica Prusina |
-| 119 | 253 | Danielle Mitchell |
-| 120 | 253 | Hairy Snake |
-| 121 | 253 | Debby Ruof |
+| 119 | 253 | Debby Ruof |
+| 120 | 253 | Danielle Mitchell |
+| 121 | 253 | Hairy Snake |
 | 122 | 250 | Sassy Column |
 | 123 | 245 | QueenLi86 |
 | 124 | 235 | Hwanger Land |
@@ -138,12 +138,12 @@
 | 130 | 223 | matt |
 | 131 | 222 | Danny Ortiz |
 | 132 | 221 | Slimm |
-| 133 | 220 | Shmeedo |
-| 134 | 220 | Esther Hadassah |
-| 135 | 220 | Silly Risegrid |
+| 133 | 220 | Silly Risegrid |
+| 134 | 220 | Shmeedo |
+| 135 | 220 | Esther Hadassah |
 | 136 | 219 | BCO22 |
-| 137 | 218 | Daryn Elliott |
-| 138 | 218 | Dubiousdust |
+| 137 | 218 | Dubiousdust |
+| 138 | 218 | Daryn Elliott |
 | 139 | 214 | Dazzle Dragon |
 | 140 | 212 | blockhead |
 | 141 | 211 | Renee Sapp |
@@ -152,17 +152,17 @@
 | 144 | 203 | Patrick Alley |
 | 145 | 202 | Nicole |
 | 146 | 201 | Perky Riserbuilder |
-| 147 | 200 | Sarah Montagne Forsberg |
-| 148 | 200 | Trice Stevenson |
+| 147 | 200 | Trice Stevenson |
+| 148 | 200 | Sarah Montagne Forsberg |
 | 149 | 199 | Colin |
 | 150 | 196 | Brick House |
 | 151 | 195 | Sean Mccleary |
-| 152 | 194 | Chiquita Blue |
-| 153 | 194 | Lisa lisa |
+| 152 | 194 | Lisa lisa |
+| 153 | 194 | Chiquita Blue |
 | 154 | 194 | Jenn Norcross |
 | 155 | 193 | Tiffany Bunker-Hill |
-| 156 | 192 | Tiggerjake |
-| 157 | 192 | Stephanie Myers |
+| 156 | 192 | Stephanie Myers |
+| 157 | 192 | Tiggerjake |
 | 158 | 187 | Leslie Ann Carter |
 | 159 | 186 | Kimyatta Cavin |
 | 160 | 186 | Dee Wizz |
