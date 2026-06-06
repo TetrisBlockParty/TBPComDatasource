@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 14:18:16 UTC
+# Standings for team1 as of 2026-06-06 14:18:39 UTC
 
 **Total Participants:** 1021
 
@@ -177,11 +177,11 @@
 | 169 | 147 | MACHETEEDDIE513 |
 | 170 | 146 | BlackQueen105 |
 | 171 | 146 | Jai |
-| 172 | 143 | Sammie Walker |
-| 173 | 143 | IThinkNot |
-| 174 | 142 | Mikayla |
-| 175 | 141 | Shalena Marie Humphrey |
-| 176 | 141 | Cee Emm |
+| 172 | 144 | Cee Emm |
+| 173 | 143 | Sammie Walker |
+| 174 | 143 | IThinkNot |
+| 175 | 142 | Mikayla |
+| 176 | 141 | Shalena Marie Humphrey |
 | 177 | 140 | Antoinette Jones |
 | 178 | 140 | Ann Chung |
 | 179 | 139 | Latisha Fairley |
@@ -467,17 +467,17 @@
 | 459 | 50 | Nisha Sunshine Jenkins |
 | 460 | 50 | Slinky Party |
 | 461 | 50 | MsBobby Patrick |
-| 462 | 50 | Kp |
-| 463 | 50 | Teresa Yanira Cepeda |
-| 464 | 49 | Stronger Wiser Better |
-| 465 | 49 | Sallie Sanborn |
-| 466 | 49 | LexiiSamayaa |
-| 467 | 49 | Jenni Hardman |
-| 468 | 49 | Teisha Scott |
-| 469 | 49 | SnazzyIvy |
-| 470 | 49 | No_Other_Choice |
-| 471 | 49 | Casey Chapman |
-| 472 | 49 | Rene Hicks |
+| 462 | 50 | Rene Hicks |
+| 463 | 50 | Kp |
+| 464 | 50 | Teresa Yanira Cepeda |
+| 465 | 49 | Stronger Wiser Better |
+| 466 | 49 | Sallie Sanborn |
+| 467 | 49 | LexiiSamayaa |
+| 468 | 49 | Jenni Hardman |
+| 469 | 49 | Teisha Scott |
+| 470 | 49 | SnazzyIvy |
+| 471 | 49 | No_Other_Choice |
+| 472 | 49 | Casey Chapman |
 | 473 | 49 | Speedy Stacky |
 | 474 | 48 | Wild Out Nai |
 | 475 | 48 | Stephanie Ellis |
