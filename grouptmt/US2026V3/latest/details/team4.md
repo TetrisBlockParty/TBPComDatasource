@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 06:54:39 UTC
+# Standings for team4 as of 2026-06-06 06:55:15 UTC
 
 **Total Participants:** 866
 
@@ -146,15 +146,15 @@
 | 138 | 133 | Shawntae Mccary |
 | 139 | 132 | Spicy Chicken |
 | 140 | 131 | Debby Ruof |
-| 141 | 129 | Ryan Paul Clark-Ramsey |
+| 141 | 129 | Brainbabe |
 | 142 | 129 | Lani |
 | 143 | 129 | Chilly Pivot |
 | 144 | 129 | Simone |
-| 145 | 129 | Brainbabe |
+| 145 | 129 | Ryan Paul Clark-Ramsey |
 | 146 | 128 | Crystal Hammonds |
 | 147 | 127 | Tipsy Builderline |
-| 148 | 126 | Alyson M Kehler |
-| 149 | 126 | GeorgeButts |
+| 148 | 126 | GeorgeButts |
+| 149 | 126 | Alyson M Kehler |
 | 150 | 125 | Leslie Ann Carter |
 | 151 | 124 | Chris Covington |
 | 152 | 123 | Cherrypir05 |
@@ -166,54 +166,54 @@
 | 158 | 118 | Cheery Risegrid |
 | 159 | 118 | Goofy Fall |
 | 160 | 117 | BCO22 |
-| 161 | 116 | Dee Wizz |
+| 161 | 116 | Brennan Shea Greene |
 | 162 | 116 | WeeWooWee |
-| 163 | 116 | Brennan Shea Greene |
+| 163 | 116 | Dee Wizz |
 | 164 | 114 | Bryan DjMagnum Evans |
-| 165 | 113 | kcknbtz |
-| 166 | 113 | Melissa Anne |
+| 165 | 113 | Melissa Anne |
+| 166 | 113 | kcknbtz |
 | 167 | 112 | matt |
 | 168 | 111 | Taz |
-| 169 | 109 | Rose Anna Safi |
-| 170 | 109 | Joab Gonzalez |
-| 171 | 108 | Juvon SupaShawdii Brooks |
-| 172 | 108 | Lush Fitblock |
+| 169 | 109 | Joab Gonzalez |
+| 170 | 109 | Rose Anna Safi |
+| 171 | 108 | Lush Fitblock |
+| 172 | 108 | Juvon SupaShawdii Brooks |
 | 173 | 107 | June Hoffman |
-| 174 | 105 | kellie |
+| 174 | 107 | CJ |
 | 175 | 105 | Name |
-| 176 | 104 | Justin Ballard |
-| 177 | 104 | Tawna Curry |
-| 178 | 103 | Boldy Rumbler |
-| 179 | 101 | TheazO |
-| 180 | 101 | Zesty Twistpiece |
-| 181 | 100 | CorieBe |
-| 182 | 100 | Loopy Clusterline |
-| 183 | 99 | Dapper Strikerpiece |
-| 184 | 99 | Shelby |
-| 185 | 98 | Taisha Beasley |
-| 186 | 98 | Jacqueline Arce |
+| 176 | 105 | kellie |
+| 177 | 104 | Justin Ballard |
+| 178 | 104 | Tawna Curry |
+| 179 | 103 | Boldy Rumbler |
+| 180 | 101 | TheazO |
+| 181 | 101 | Zesty Twistpiece |
+| 182 | 100 | CorieBe |
+| 183 | 100 | Loopy Clusterline |
+| 184 | 99 | Dapper Strikerpiece |
+| 185 | 99 | Shelby |
+| 186 | 98 | Taisha Beasley |
 | 187 | 98 | Shanna Fragen |
 | 188 | 98 | Tina Thomas |
-| 189 | 97 | Tarsha Thomas-Martinez |
-| 190 | 97 | Fancy Tilefall |
-| 191 | 96 | JuicyJuice |
-| 192 | 95 | Goofy Riser |
+| 189 | 98 | Jacqueline Arce |
+| 190 | 97 | Tarsha Thomas-Martinez |
+| 191 | 97 | Fancy Tilefall |
+| 192 | 96 | JuicyJuice |
 | 193 | 95 | Маркус Вік |
-| 194 | 94 | Reina Pagan |
-| 195 | 93 | farfromlocal |
-| 196 | 92 | Homie |
-| 197 | 91 | Lucy Honer |
-| 198 | 91 | Dayna Arthurs |
-| 199 | 91 | Dominique Melendez |
-| 200 | 91 | Tricia Motika Cowan |
-| 201 | 91 | Jennifer Garcia |
-| 202 | 90 | bollo |
+| 194 | 95 | Goofy Riser |
+| 195 | 94 | Reina Pagan |
+| 196 | 93 | farfromlocal |
+| 197 | 92 | Homie |
+| 198 | 91 | Jennifer Garcia |
+| 199 | 91 | Tricia Motika Cowan |
+| 200 | 91 | Lucy Honer |
+| 201 | 91 | Dayna Arthurs |
+| 202 | 91 | Dominique Melendez |
 | 203 | 90 | Justin Michael |
-| 204 | 90 | Quiomarie Cotto |
-| 205 | 89 | Waxboss |
-| 206 | 89 | Betsy Froemming |
-| 207 | 89 | Chirpy Snapclear |
-| 208 | 87 | CJ |
+| 204 | 90 | bollo |
+| 205 | 90 | Quiomarie Cotto |
+| 206 | 89 | Chirpy Snapclear |
+| 207 | 89 | Waxboss |
+| 208 | 89 | Betsy Froemming |
 | 209 | 87 | LastBoi |
 | 210 | 87 | Limbo |
 | 211 | 86 | Rachel Lemos |
@@ -221,9 +221,9 @@
 | 213 | 85 | Dawn Marie Trujillo |
 | 214 | 84 | Rae Saunders |
 | 215 | 83 | Jennifer Fisher Franklin |
-| 216 | 83 | MrLoner Stoner |
+| 216 | 83 | Rosy Perez |
 | 217 | 83 | Mark Fitch Jr. |
-| 218 | 83 | Rosy Perez |
+| 218 | 83 | MrLoner Stoner |
 | 219 | 83 | Bouncy |
 | 220 | 82 | Luna |
 | 221 | 82 | Iforget |

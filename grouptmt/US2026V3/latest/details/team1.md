@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 06:54:39 UTC
+# Standings for team1 as of 2026-06-06 06:55:15 UTC
 
 **Total Participants:** 900
 
@@ -165,28 +165,28 @@
 | 157 | 130 | Jessica Davis |
 | 158 | 130 | Dion Gray |
 | 159 | 127 | IThinkNot |
-| 160 | 126 | Cee Emm |
-| 161 | 126 | Stephen Providenti |
-| 162 | 125 | Kelli Couture |
-| 163 | 125 | LaTonya Myers |
-| 164 | 124 | Queenie Perry |
-| 165 | 124 | Courtney Cicoria |
-| 166 | 123 | Lisa Fletcher |
-| 167 | 121 | Tiana Monique |
-| 168 | 121 | D'Andra Stewart |
-| 169 | 120 | Saucy Tile |
-| 170 | 120 | Nerdy Blockpiece |
-| 171 | 120 | Spicy Risepiece |
+| 160 | 127 | Mic Balew |
+| 161 | 126 | Cee Emm |
+| 162 | 126 | Stephen Providenti |
+| 163 | 125 | Kelli Couture |
+| 164 | 125 | LaTonya Myers |
+| 165 | 124 | Queenie Perry |
+| 166 | 124 | Courtney Cicoria |
+| 167 | 123 | Lisa Fletcher |
+| 168 | 121 | Tiana Monique |
+| 169 | 121 | D'Andra Stewart |
+| 170 | 120 | Saucy Tile |
+| 171 | 120 | Nerdy Blockpiece |
 | 172 | 120 | Jai |
-| 173 | 119 | Christina Rebecca |
-| 174 | 119 | ELM |
-| 175 | 118 | Hasty Pivoty |
-| 176 | 117 | Mic Balew |
+| 173 | 120 | Spicy Risepiece |
+| 174 | 119 | Christina Rebecca |
+| 175 | 119 | ELM |
+| 176 | 118 | Hasty Pivoty |
 | 177 | 113 | Rachel Zimmerman |
 | 178 | 112 | GamerQueenDS |
 | 179 | 112 | Bre Poston |
-| 180 | 111 | Shalena Marie Humphrey |
-| 181 | 111 | Lesley Brunkus Cianfaglione |
+| 180 | 111 | Lesley Brunkus Cianfaglione |
+| 181 | 111 | Shalena Marie Humphrey |
 | 182 | 110 | Atlantalindi |
 | 183 | 108 | Kimberly Linares Hernandez |
 | 184 | 105 | Katrina Ramey |
@@ -200,29 +200,29 @@
 | 192 | 103 | Kelvin Cook |
 | 193 | 102 | Dawn L Washington-Feuquay |
 | 194 | 101 | Boldy Liner |
-| 195 | 100 | Leavon Smith |
-| 196 | 100 | Cool Bridger |
+| 195 | 100 | Cool Bridger |
+| 196 | 100 | Leavon Smith |
 | 197 | 100 | Char |
 | 198 | 99 | Simone Bailey |
 | 199 | 99 | 신재호 |
 | 200 | 97 | Shanell Thomas |
 | 201 | 96 | Melissa D. M. Hornsby |
 | 202 | 96 | Tamika Fisher |
-| 203 | 95 | Nate Myers |
-| 204 | 95 | Shiny Lift |
-| 205 | 95 | Joana Thompson |
-| 206 | 94 | Cece Fowler |
-| 207 | 94 | Lively Riserpiece |
-| 208 | 92 | The DUBZ |
-| 209 | 92 | Quirky Fallgrid |
-| 210 | 91 | Jack Vlasak |
-| 211 | 91 | Maribel Vasquez |
+| 203 | 95 | Shiny Lift |
+| 204 | 95 | Nate Myers |
+| 205 | 95 | Maribel Vasquez |
+| 206 | 95 | Joana Thompson |
+| 207 | 94 | Cece Fowler |
+| 208 | 94 | Lively Riserpiece |
+| 209 | 92 | The DUBZ |
+| 210 | 92 | Quirky Fallgrid |
+| 211 | 91 | Jack Vlasak |
 | 212 | 90 | Charlene Baltimore |
 | 213 | 88 | QueenShay AllGood |
 | 214 | 88 | Ad Doctor |
 | 215 | 88 | TT |
-| 216 | 87 | Keke Ferguson |
-| 217 | 87 | Karebear |
+| 216 | 87 | Karebear |
+| 217 | 87 | Keke Ferguson |
 | 218 | 87 | Poppy Buildout |
 | 219 | 86 | Chandler Magee |
 | 220 | 86 | krd |
