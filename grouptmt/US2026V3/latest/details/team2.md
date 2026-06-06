@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 07:12:15 UTC
+# Standings for team2 as of 2026-06-06 07:12:37 UTC
 
 **Total Participants:** 1058
 
@@ -683,14 +683,14 @@
 | 675 | 26 | Darlene Russell |
 | 676 | 26 | Countrybling77 |
 | 677 | 26 | Gina Leal |
-| 678 | 25 | Kelly Hall Whitt |
-| 679 | 25 | Cranky Basepiece |
-| 680 | 25 | Muffin Popper |
-| 681 | 25 | Allison Peterson |
-| 682 | 25 | Raymond Dawson |
-| 683 | 25 | Stephen Gillam |
-| 684 | 25 | Gluten Gremlin |
-| 685 | 25 | Ginger Nesbitt |
+| 678 | 25 | Cranky Basepiece |
+| 679 | 25 | Kelly Hall Whitt |
+| 680 | 25 | Allison Peterson |
+| 681 | 25 | Muffin Popper |
+| 682 | 25 | Stephen Gillam |
+| 683 | 25 | Raymond Dawson |
+| 684 | 25 | Ginger Nesbitt |
+| 685 | 25 | Gluten Gremlin |
 | 686 | 25 | Brenda Zona |
 | 687 | 25 | Cranky Brickzone |
 | 688 | 25 | Doowop40 |
@@ -701,44 +701,44 @@
 | 693 | 25 | Kris Dusza Dodus |
 | 694 | 25 | Mandy Van Laningham Bishop |
 | 695 | 24 | Elodie Deveyer |
-| 696 | 24 | Goofy Bridger |
-| 697 | 24 | Jolly Brickroll |
-| 698 | 24 | Nicole |
-| 699 | 24 | Goofy Patternfit |
-| 700 | 24 | Shiny Matchpiece |
-| 701 | 24 | Kathryn Mason |
-| 702 | 24 | Breanna Dykes |
-| 703 | 24 | Jess |
-| 704 | 24 | Ashley Corbett |
-| 705 | 24 | Audrey Bickford |
+| 696 | 24 | Nicole Suber |
+| 697 | 24 | Goofy Bridger |
+| 698 | 24 | Jolly Brickroll |
+| 699 | 24 | Nicole |
+| 700 | 24 | Goofy Patternfit |
+| 701 | 24 | Shiny Matchpiece |
+| 702 | 24 | Kathryn Mason |
+| 703 | 24 | Breanna Dykes |
+| 704 | 24 | Audrey Bickford |
+| 705 | 24 | Jess |
 | 706 | 24 | T-Rex Ricky Lee Dieumegarde Jr. |
-| 707 | 23 | Evelyn Olive Kalmbach |
-| 708 | 23 | Rich Gorondy |
-| 709 | 23 | Jim Wright |
-| 710 | 23 | Suzanne Davis |
-| 711 | 23 | Jolene Moelder |
-| 712 | 23 | Cristi Doris |
-| 713 | 23 | Rey Huber |
-| 714 | 23 | Lisa Rose |
-| 715 | 23 | AshleyM |
-| 716 | 23 | Anthony Chavez |
-| 717 | 23 | Silly square |
-| 718 | 23 | Sarah Phelps Beyer |
-| 719 | 23 | Zaaear Pack |
-| 720 | 23 | Shirley Bates |
-| 721 | 23 | Roe Sarmiento |
-| 722 | 22 | Marii |
-| 723 | 22 | Slinky Towerpiece |
-| 724 | 22 | Rachael Roberts |
-| 725 | 22 | Ashley Diana |
-| 726 | 22 | Cary M. Fong |
-| 727 | 22 | Frothy Zonebuilder |
-| 728 | 22 | MoonLilly |
-| 729 | 22 | Hog Crankin |
+| 707 | 24 | Ashley Corbett |
+| 708 | 23 | Suzanne Davis |
+| 709 | 23 | Rey Huber |
+| 710 | 23 | Lisa Rose |
+| 711 | 23 | AshleyM |
+| 712 | 23 | Anthony Chavez |
+| 713 | 23 | Cristi Doris |
+| 714 | 23 | Silly square |
+| 715 | 23 | Sarah Phelps Beyer |
+| 716 | 23 | Jolene Moelder |
+| 717 | 23 | Zaaear Pack |
+| 718 | 23 | Shirley Bates |
+| 719 | 23 | Jim Wright |
+| 720 | 23 | Roe Sarmiento |
+| 721 | 23 | Rich Gorondy |
+| 722 | 23 | Evelyn Olive Kalmbach |
+| 723 | 22 | Ashley Diana |
+| 724 | 22 | Cary M. Fong |
+| 725 | 22 | Rachael Roberts |
+| 726 | 22 | Hog Crankin |
+| 727 | 22 | Pamela Gambrell |
+| 728 | 22 | Marii |
+| 729 | 22 | MJLovesHer#OneMistake |
 | 730 | 22 | Jeff Pottgether |
-| 731 | 22 | Nicole Suber |
-| 732 | 22 | Pamela Gambrell |
-| 733 | 22 | MJLovesHer#OneMistake |
+| 731 | 22 | MoonLilly |
+| 732 | 22 | Slinky Towerpiece |
+| 733 | 22 | Frothy Zonebuilder |
 | 734 | 21 | CK Hancock |
 | 735 | 21 | MamaRachel |
 | 736 | 21 | Thy Bui |
