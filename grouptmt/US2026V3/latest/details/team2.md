@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 19:08:18 UTC
+# Standings for team2 as of 2026-06-06 19:08:43 UTC
 
 **Total Participants:** 1332
 
@@ -145,28 +145,28 @@
 | 137 | 293 | Snappy Combo |
 | 138 | 288 | Pooh |
 | 139 | 287 | Flashy Twistline |
-| 140 | 286 | James Ward |
-| 141 | 286 | Heather Burgett |
-| 142 | 283 | Zarah Kettler |
-| 143 | 283 | Theresa Marie |
+| 140 | 286 | Heather Burgett |
+| 141 | 286 | James Ward |
+| 142 | 283 | Theresa Marie |
+| 143 | 283 | Zarah Kettler |
 | 144 | 280 | Patricia Carroll |
 | 145 | 280 | Brittney Williams |
 | 146 | 279 | Renee Freeman Jacobson |
 | 147 | 277 | DayDreamer79 |
 | 148 | 277 | Sarah Mccolgan |
 | 149 | 275 | Bubbly Strikerpiece |
-| 150 | 272 | Erin Thomas |
-| 151 | 269 | Ackerman 85 |
-| 152 | 268 | Suki Jacobs |
+| 150 | 274 | Suki Jacobs |
+| 151 | 272 | Erin Thomas |
+| 152 | 269 | Ackerman 85 |
 | 153 | 262 | Hoppy Mover |
 | 154 | 262 | Cool Balancer |
 | 155 | 253 | Hilliary Beyer |
 | 156 | 251 | Angie Kowalsky Olson |
-| 157 | 250 | H |
-| 158 | 250 | giamy |
-| 159 | 250 | marsam |
-| 160 | 247 | Fudgie Pie |
-| 161 | 247 | Brittni Lawrence |
+| 157 | 250 | giamy |
+| 158 | 250 | marsam |
+| 159 | 250 | H |
+| 160 | 247 | Brittni Lawrence |
+| 161 | 247 | Fudgie Pie |
 | 162 | 245 | Josh Twilley |
 | 163 | 241 | Charlie Wilson |
 | 164 | 241 | Boldy Wobbler |
@@ -174,10 +174,10 @@
 | 166 | 232 | Pam Bauder Ludwig |
 | 167 | 230 | Brandy Chinelle |
 | 168 | 228 | Keri Mears |
-| 169 | 224 | Kathleen Keogh Van Schoyck |
-| 170 | 224 | Marge Cromer |
-| 171 | 220 | Hector |
-| 172 | 220 | Flashy Basegrid |
+| 169 | 224 | Marge Cromer |
+| 170 | 224 | Kathleen Keogh Van Schoyck |
+| 171 | 220 | Flashy Basegrid |
+| 172 | 220 | Hector |
 | 173 | 220 | Melissa Thomas |
 | 174 | 219 | Stella |
 | 175 | 218 | Amy Nicole McCanne |
@@ -192,11 +192,11 @@
 | 184 | 205 | haune |
 | 185 | 204 | Chill Line |
 | 186 | 201 | Danielle Pack Lewellen |
-| 187 | 200 | Eric Wayne Maschman |
-| 188 | 200 | Sarah Grundisch |
-| 189 | 200 | Physhie |
-| 190 | 200 | Kelly Vedder |
-| 191 | 200 | Logan Duffey |
+| 187 | 200 | Sarah Grundisch |
+| 188 | 200 | Eric Wayne Maschman |
+| 189 | 200 | Logan Duffey |
+| 190 | 200 | Physhie |
+| 191 | 200 | Kelly Vedder |
 | 192 | 199 | Patria Osuoha |
 | 193 | 199 | Amber Cogdill |
 | 194 | 195 | Samantha Carman |
