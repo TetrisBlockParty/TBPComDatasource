@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 08:36:39 UTC
+# Standings for team4 as of 2026-06-06 08:37:16 UTC
 
 **Total Participants:** 894
 
@@ -68,8 +68,8 @@
 | 60 | 399 | Erin Figone |
 | 61 | 395 | Melissa WC |
 | 62 | 392 | Kay |
-| 63 | 392 | Dheeh Robles |
-| 64 | 392 | Blayne Kole |
+| 63 | 392 | Blayne Kole |
+| 64 | 392 | Dheeh Robles |
 | 65 | 389 | Ning Quiambao |
 | 66 | 383 | Crissy Hoffman |
 | 67 | 378 | Lisa Garcia |
@@ -79,8 +79,8 @@
 | 71 | 356 | Tanita Jobe |
 | 72 | 347 | Nikki Fuller Johnson |
 | 73 | 346 | Alexis Cor |
-| 74 | 333 | Adam J Leong |
-| 75 | 333 | Alexandria Frazier |
+| 74 | 333 | Alexandria Frazier |
+| 75 | 333 | Adam J Leong |
 | 76 | 326 | Jason Allen |
 | 77 | 321 | woopa 716 |
 | 78 | 320 | DexterDobbins |
@@ -100,8 +100,8 @@
 | 92 | 230 | Sisi RedVelvet Reneè |
 | 93 | 229 | Aisha Estrada |
 | 94 | 208 | Dubiousdust |
-| 95 | 207 | Leigh Pierce |
-| 96 | 207 | Cranky Towerbuilder |
+| 95 | 207 | Cranky Towerbuilder |
+| 96 | 207 | Leigh Pierce |
 | 97 | 203 | Patrick Alley |
 | 98 | 201 | Renee Sapp |
 | 99 | 200 | Leah Gorsuch |
@@ -112,30 +112,30 @@
 | 104 | 193 | Tiffany Bunker-Hill |
 | 105 | 192 | Gorica Prusina |
 | 106 | 184 | Giggly Tilt |
-| 107 | 182 | Scamp Jones |
-| 108 | 182 | blockhead |
+| 107 | 182 | blockhead |
+| 108 | 182 | Scamp Jones |
 | 109 | 181 | Colin |
 | 110 | 180 | Shmeedo |
 | 111 | 179 | Anna Gribble |
 | 112 | 178 | Tamara Triplet |
 | 113 | 177 | Tammy June |
 | 114 | 174 | Kimyatta Cavin |
-| 115 | 169 | Tiffany Smith |
-| 116 | 169 | Tara Delay Hill |
+| 115 | 169 | Tara Delay Hill |
+| 116 | 169 | Tiffany Smith |
 | 117 | 167 | Damon Gaston |
 | 118 | 167 | Spicy Chicken |
 | 119 | 166 | Aramat |
 | 120 | 164 | QueenLi86 |
 | 121 | 160 | Kitsune Bi |
-| 122 | 160 | Littlebrat |
-| 123 | 160 | Tipsy Builderline |
+| 122 | 160 | Tipsy Builderline |
+| 123 | 160 | Littlebrat |
 | 124 | 159 | iiPurgeV2 |
 | 125 | 158 | Alala.Cersei |
 | 126 | 155 | RotatedWrongAgain |
 | 127 | 155 | Shayna Vaigneur-Hall |
 | 128 | 154 | No Time |
-| 129 | 153 | Brandy Lynn |
-| 130 | 153 | Laguya |
+| 129 | 153 | Laguya |
+| 130 | 153 | Brandy Lynn |
 | 131 | 152 | Dazzle Dragon |
 | 132 | 150 | gabs |
 | 133 | 149 | Danny Ortiz |
@@ -147,8 +147,8 @@
 | 139 | 143 | Ashley Mcdonald |
 | 140 | 141 | Jackie Polanco |
 | 141 | 137 | Jasmine Marie |
-| 142 | 137 | Shelby |
-| 143 | 137 | Devinlee Brown |
+| 142 | 137 | Devinlee Brown |
+| 143 | 137 | Shelby |
 | 144 | 134 | Loony Rotater |
 | 145 | 134 | ariel |
 | 146 | 133 | Janet Sanfilippo Sullivan |
@@ -586,49 +586,49 @@
 | 578 | 27 | Loopy Bridger |
 | 579 | 27 | Maria Castillo |
 | 580 | 27 | Ross Bryant |
-| 581 | 27 | Linda |
+| 581 | 27 | Perky Riserbuilder |
 | 582 | 27 | Pepone Pepe |
-| 583 | 27 | MzCeleste Brooks |
+| 583 | 27 | Alexsandra Hill |
 | 584 | 27 | Epic Dashfit |
-| 585 | 27 | Perky Riserbuilder |
-| 586 | 27 | Alexsandra Hill |
-| 587 | 27 | Cassie N Danica Flaherty |
-| 588 | 27 | Bigmamalizzet Latto |
-| 589 | 27 | Dandy Cascade |
+| 585 | 27 | Cassie N Danica Flaherty |
+| 586 | 27 | Bigmamalizzet Latto |
+| 587 | 27 | Dandy Cascade |
+| 588 | 27 | MzCeleste Brooks |
+| 589 | 27 | Linda |
 | 590 | 27 | Diana Fernandez |
-| 591 | 26 | Nikcole Alexis Bryan |
-| 592 | 26 | Lisa Ferriero-Daudin |
-| 593 | 26 | Ian T Parker |
-| 594 | 26 | Rebecca Sloan |
-| 595 | 26 | Kevin Lyles |
-| 596 | 26 | Tahira Patrice |
-| 597 | 26 | Rob$GEE |
-| 598 | 26 | Rebecca Rae Reed |
+| 591 | 26 | Lacey Decker |
+| 592 | 26 | Ian T Parker |
+| 593 | 26 | Rebecca Sloan |
+| 594 | 26 | Kevin Lyles |
+| 595 | 26 | Nicole Ambrose |
+| 596 | 26 | Leslie Marie WarClub |
+| 597 | 26 | Jessica Huber |
+| 598 | 26 | Tahira Patrice |
 | 599 | 26 | Kimmie Warren |
-| 600 | 26 | Jessica Huber |
-| 601 | 26 | Leslie Marie WarClub |
-| 602 | 26 | Nicole Ambrose |
-| 603 | 26 | Lacey Decker |
-| 604 | 25 | Kendall Rhodie |
-| 605 | 25 | Travis McKinnon |
-| 606 | 25 | ButterfliesRFree |
-| 607 | 25 | chapis |
-| 608 | 25 | Meghan Etchells |
-| 609 | 25 | Brandon Bedenbaugh |
-| 610 | 25 | Jim Stewart |
-| 611 | 25 | Jada Jordyn Campbell |
-| 612 | 25 | Lacie Powers |
-| 613 | 24 | Ja'Net Riley |
+| 600 | 26 | Rebecca Rae Reed |
+| 601 | 26 | Lisa Ferriero-Daudin |
+| 602 | 26 | Rob$GEE |
+| 603 | 26 | Nikcole Alexis Bryan |
+| 604 | 25 | ButterfliesRFree |
+| 605 | 25 | Jada Jordyn Campbell |
+| 606 | 25 | Wacky Snaplink |
+| 607 | 25 | Jim Stewart |
+| 608 | 25 | Brandon Bedenbaugh |
+| 609 | 25 | Kendall Rhodie |
+| 610 | 25 | chapis |
+| 611 | 25 | Meghan Etchells |
+| 612 | 25 | Travis McKinnon |
+| 613 | 25 | Lacie Powers |
 | 614 | 24 | Tony Clark |
 | 615 | 24 | Khiem Hernandez |
-| 616 | 24 | Snappy Glidebuilder |
-| 617 | 24 | George Palacios |
-| 618 | 24 | Amanda Serrano Ruffner |
-| 619 | 24 | Katiana Gonzalez |
-| 620 | 24 | Ferlyz |
-| 621 | 24 | Socorro Arredondo |
-| 622 | 24 | Love GH |
-| 623 | 23 | Wacky Snaplink |
+| 616 | 24 | Ja'Net Riley |
+| 617 | 24 | Snappy Glidebuilder |
+| 618 | 24 | George Palacios |
+| 619 | 24 | Amanda Serrano Ruffner |
+| 620 | 24 | Katiana Gonzalez |
+| 621 | 24 | Ferlyz |
+| 622 | 24 | Socorro Arredondo |
+| 623 | 24 | Love GH |
 | 624 | 23 | Silly Fallzone |
 | 625 | 22 | Magda Lene |
 | 626 | 22 | Breezy Wife |
