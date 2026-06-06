@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 12:32:16 UTC
+# Standings for team2 as of 2026-06-06 12:32:39 UTC
 
 **Total Participants:** 1139
 
@@ -1104,47 +1104,47 @@
 | 1096 | 7 | Nicole Slimick |
 | 1097 | 7 | michael |
 | 1098 | 7 | Elizabeth Elaine Coursey |
-| 1099 | 7 | Shane Peavey |
+| 1099 | 7 | Mighty Piecebuilder |
 | 1100 | 7 | Daring Blockline |
 | 1101 | 7 | Beth |
-| 1102 | 7 | Collins |
-| 1103 | 7 | Mighty Piecebuilder |
+| 1102 | 7 | Shane Peavey |
+| 1103 | 7 | Jason Janssen |
 | 1104 | 7 | sampson |
-| 1105 | 7 | Aguilar Rita |
-| 1106 | 7 | Carol Whited Loza |
-| 1107 | 7 | Jason Janssen |
-| 1108 | 7 | Kelli Pazour |
+| 1105 | 7 | Carol Whited Loza |
+| 1106 | 7 | Collins |
+| 1107 | 7 | Kelli Pazour |
+| 1108 | 7 | Aguilar Rita |
 | 1109 | 7 | Sam Blinn |
-| 1110 | 6 | Shelby Wilson |
-| 1111 | 6 | Lori Yelvington Cain |
-| 1112 | 6 | Lavenda Nettles |
-| 1113 | 6 | Michele Choate |
+| 1110 | 6 | Lavenda Nettles |
+| 1111 | 6 | Lou Sassole |
+| 1112 | 6 | Shelby Wilson |
+| 1113 | 6 | Cozy Curve |
 | 1114 | 6 | FabTeach |
-| 1115 | 6 | Cozy Curve |
+| 1115 | 6 | Bunny Bt |
 | 1116 | 6 | Emily |
-| 1117 | 6 | Bunny Bt |
-| 1118 | 6 | Cheeky Dashpiece |
-| 1119 | 6 | Partin |
-| 1120 | 6 | Jessie |
-| 1121 | 6 | Snappy Fitblock |
-| 1122 | 6 | Amanda Knox |
-| 1123 | 6 | Celeste Samuels |
-| 1124 | 6 | Lou Sassole |
-| 1125 | 5 | Crystal Poss |
-| 1126 | 5 | Flynn Flibble |
-| 1127 | 5 | Jennifer Roper Stanley |
-| 1128 | 5 | Deborah Fowler |
-| 1129 | 5 | Agnes Gable |
-| 1130 | 5 | Dapper Clearpiece |
-| 1131 | 5 | Brittany Weatherspoon |
-| 1132 | 5 | Jennifer Mauler Schmidt |
-| 1133 | 5 | Chirpy Towerer |
-| 1134 | 5 | Danh Nguyen |
-| 1135 | 5 | Mercedes Lowery |
-| 1136 | 5 | Connie Marie Cornell Lerma |
-| 1137 | 5 | Nicole Plummer |
-| 1138 | 5 | Duck |
-| 1139 | 5 | Nolife |
+| 1117 | 6 | Michele Choate |
+| 1118 | 6 | Amanda Knox |
+| 1119 | 6 | Lori Yelvington Cain |
+| 1120 | 6 | Cheeky Dashpiece |
+| 1121 | 6 | Partin |
+| 1122 | 6 | Jessie |
+| 1123 | 6 | Snappy Fitblock |
+| 1124 | 6 | Celeste Samuels |
+| 1125 | 5 | Danh Nguyen |
+| 1126 | 5 | Jennifer Roper Stanley |
+| 1127 | 5 | Flynn Flibble |
+| 1128 | 5 | Crystal Poss |
+| 1129 | 5 | Nolife |
+| 1130 | 5 | Duck |
+| 1131 | 5 | Nicole Plummer |
+| 1132 | 5 | Deborah Fowler |
+| 1133 | 5 | Agnes Gable |
+| 1134 | 5 | Dapper Clearpiece |
+| 1135 | 5 | Connie Marie Cornell Lerma |
+| 1136 | 5 | Brittany Weatherspoon |
+| 1137 | 5 | Jennifer Mauler Schmidt |
+| 1138 | 5 | Chirpy Towerer |
+| 1139 | 5 | Mercedes Lowery |
 
 ---
 *Standings created by tournaments datasource generation tool*
