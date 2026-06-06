@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 11:34:17 UTC
+# Standings for team1 as of 2026-06-06 11:34:39 UTC
 
 **Total Participants:** 965
 
@@ -82,9 +82,9 @@
 | 74 | 362 | Eric Mcgaughy |
 | 75 | 350 | Jazzy Dashpiece |
 | 76 | 344 | Kevin M. McGhee Jr |
-| 77 | 334 | Christana Imjustbutton Stone |
-| 78 | 332 | Hyper Slamdrop |
-| 79 | 332 | Lashawn Wallace |
+| 77 | 337 | Lashawn Wallace |
+| 78 | 334 | Christana Imjustbutton Stone |
+| 79 | 332 | Hyper Slamdrop |
 | 80 | 331 | Kimberly Hernandez |
 | 81 | 328 | Big Tina |
 | 82 | 323 | Catara Renae Oliver |

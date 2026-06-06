@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 11:34:17 UTC
+# Standings for team4 as of 2026-06-06 11:34:39 UTC
 
 **Total Participants:** 943
 
@@ -129,22 +129,22 @@
 | 121 | 179 | Danny Ortiz |
 | 122 | 179 | Anna Gribble |
 | 123 | 178 | Tamara Triplet |
-| 124 | 177 | Tammy June |
-| 125 | 177 | Devinlee Brown |
-| 126 | 174 | Kimyatta Cavin |
-| 127 | 171 | matt |
-| 128 | 169 | Tiffany Smith |
-| 129 | 167 | Spicy Chicken |
-| 130 | 167 | Damon Gaston |
-| 131 | 166 | Aramat |
-| 132 | 165 | Taz |
-| 133 | 164 | QueenLi86 |
-| 134 | 163 | Brandy Lynn |
-| 135 | 160 | Tipsy Builderline |
-| 136 | 160 | Kitsune Bi |
-| 137 | 160 | Littlebrat |
-| 138 | 159 | iiPurgeV2 |
-| 139 | 155 | Dae Von |
+| 124 | 178 | Dae Von |
+| 125 | 177 | Tammy June |
+| 126 | 177 | Devinlee Brown |
+| 127 | 174 | Kimyatta Cavin |
+| 128 | 171 | matt |
+| 129 | 169 | Tiffany Smith |
+| 130 | 167 | Spicy Chicken |
+| 131 | 167 | Damon Gaston |
+| 132 | 166 | Aramat |
+| 133 | 165 | Taz |
+| 134 | 164 | QueenLi86 |
+| 135 | 163 | Brandy Lynn |
+| 136 | 160 | Tipsy Builderline |
+| 137 | 160 | Kitsune Bi |
+| 138 | 160 | Littlebrat |
+| 139 | 159 | iiPurgeV2 |
 | 140 | 155 | Shayna Vaigneur-Hall |
 | 141 | 154 | No Time |
 | 142 | 153 | Laguya |
@@ -686,53 +686,53 @@
 | 678 | 24 | Tony Clark |
 | 679 | 24 | Khiem Hernandez |
 | 680 | 24 | Love GH |
-| 681 | 23 | Kimberly Ann |
-| 682 | 23 | Lush Balanceblock |
-| 683 | 23 | Lizxxx |
-| 684 | 22 | Bold Tumbler |
-| 685 | 22 | Twisty Chiseler |
-| 686 | 22 | taya |
-| 687 | 22 | Cranky Twisterfit |
-| 688 | 22 | Pap337 |
-| 689 | 22 | Shakita Moore-Bernard |
-| 690 | 22 | Jonelle Jacobs |
-| 691 | 22 | Magda Lene |
-| 692 | 22 | Erica Pompey |
-| 693 | 22 | Leslie |
-| 694 | 21 | Dizzy |
-| 695 | 21 | GETBOXED! |
-| 696 | 21 | Swanky Matchfit |
-| 697 | 21 | Joshua Doucette |
-| 698 | 21 | LilithMoon |
-| 699 | 21 | my my |
-| 700 | 20 | adrian |
-| 701 | 20 | Jessica Smith |
-| 702 | 20 | Sha Ta Nay Mitchell |
-| 703 | 20 | Memphiago Tenninois |
-| 704 | 20 | Zesty Lift |
-| 705 | 20 | Whirl-Klines L Evelyn |
-| 706 | 20 | Alice Eisnor-Martens |
-| 707 | 20 | Jessica Sanchez |
-| 708 | 20 | Elizabeth Putansu |
-| 709 | 20 | Kelli Miller |
-| 710 | 20 | Stacy G |
-| 711 | 20 | Kimberly Devon |
-| 712 | 20 | REPENT |
-| 713 | 20 | Silly Risegrid |
-| 714 | 20 | Joha Mldo Castillo |
-| 715 | 20 | Heidi Lyn Ramirez |
-| 716 | 20 | Jerett Coplin |
-| 717 | 20 | Tipsy Patternfit |
-| 718 | 20 | Kellz M Bee |
-| 719 | 20 | Tiffany Roberts |
-| 720 | 20 | LISHA 2 U |
-| 721 | 20 | Rell geez |
-| 722 | 20 | Justin Janachovsky |
-| 723 | 20 | Becky Doll-Hall |
-| 724 | 20 | Kris McMahon |
-| 725 | 20 | BethB |
-| 726 | 20 | Spidaman86 |
-| 727 | 20 | Happy Toast |
+| 681 | 24 | Happy Toast |
+| 682 | 23 | Kimberly Ann |
+| 683 | 23 | Lush Balanceblock |
+| 684 | 23 | Lizxxx |
+| 685 | 22 | Bold Tumbler |
+| 686 | 22 | Twisty Chiseler |
+| 687 | 22 | taya |
+| 688 | 22 | Cranky Twisterfit |
+| 689 | 22 | Pap337 |
+| 690 | 22 | Shakita Moore-Bernard |
+| 691 | 22 | Jonelle Jacobs |
+| 692 | 22 | Magda Lene |
+| 693 | 22 | Erica Pompey |
+| 694 | 22 | Leslie |
+| 695 | 21 | Dizzy |
+| 696 | 21 | GETBOXED! |
+| 697 | 21 | Swanky Matchfit |
+| 698 | 21 | Joshua Doucette |
+| 699 | 21 | LilithMoon |
+| 700 | 21 | my my |
+| 701 | 20 | adrian |
+| 702 | 20 | Jessica Smith |
+| 703 | 20 | Sha Ta Nay Mitchell |
+| 704 | 20 | Memphiago Tenninois |
+| 705 | 20 | Zesty Lift |
+| 706 | 20 | Whirl-Klines L Evelyn |
+| 707 | 20 | Alice Eisnor-Martens |
+| 708 | 20 | Jessica Sanchez |
+| 709 | 20 | Elizabeth Putansu |
+| 710 | 20 | Kelli Miller |
+| 711 | 20 | Stacy G |
+| 712 | 20 | Kimberly Devon |
+| 713 | 20 | REPENT |
+| 714 | 20 | Silly Risegrid |
+| 715 | 20 | Joha Mldo Castillo |
+| 716 | 20 | Heidi Lyn Ramirez |
+| 717 | 20 | Jerett Coplin |
+| 718 | 20 | Tipsy Patternfit |
+| 719 | 20 | Kellz M Bee |
+| 720 | 20 | Tiffany Roberts |
+| 721 | 20 | LISHA 2 U |
+| 722 | 20 | Rell geez |
+| 723 | 20 | Justin Janachovsky |
+| 724 | 20 | Becky Doll-Hall |
+| 725 | 20 | Kris McMahon |
+| 726 | 20 | BethB |
+| 727 | 20 | Spidaman86 |
 | 728 | 20 | Misti Rich |
 | 729 | 20 | Kissyfurr |
 | 730 | 20 | Kristen Nicole Depp-Stewart |

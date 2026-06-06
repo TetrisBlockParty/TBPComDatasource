@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 11:34:17 UTC
+# Standings for team2 as of 2026-06-06 11:34:39 UTC
 
 **Total Participants:** 1117
 
@@ -648,7 +648,7 @@
 | 640 | 33 | Kaitlyn Hurst |
 | 641 | 33 | Linzy Ratliff |
 | 642 | 33 | Sandy Rundel Holderman |
-| 643 | 32 | Epic Slice |
+| 643 | 32 | Jenny |
 | 644 | 32 | Fluffypuffin |
 | 645 | 32 | Stephanie |
 | 646 | 32 | Brooklyn Todd |
@@ -656,8 +656,8 @@
 | 648 | 32 | Brandy Wallace |
 | 649 | 32 | Tammy Botkin |
 | 650 | 32 | Kristen Alta |
-| 651 | 31 | Ronald Granger |
-| 652 | 31 | Jenny |
+| 651 | 32 | Epic Slice |
+| 652 | 31 | Ronald Granger |
 | 653 | 31 | Trinni Hansen |
 | 654 | 31 | SunnySquare |
 | 655 | 31 | Diamond Balotje |
@@ -666,10 +666,10 @@
 | 658 | 31 | Witty Brickster |
 | 659 | 30 | Sandy Justus |
 | 660 | 30 | Rubics cube |
-| 661 | 30 | Smiley Cornerfall |
-| 662 | 30 | Abby Dexter |
-| 663 | 30 | phamous1 |
-| 664 | 30 | Ashley Eneboe |
+| 661 | 30 | Ashley Eneboe |
+| 662 | 30 | Smiley Cornerfall |
+| 663 | 30 | Abby Dexter |
+| 664 | 30 | phamous1 |
 | 665 | 30 | Gina Leal |
 | 666 | 30 | Brave Blockmatch |
 | 667 | 30 | Amanda Bailey |
