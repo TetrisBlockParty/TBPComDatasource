@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 19:36:17 UTC
+# Standings for team1 as of 2026-06-06 19:36:41 UTC
 
 **Total Participants:** 1133
 
@@ -101,8 +101,8 @@
 | 93 | 391 | Sarah Marie |
 | 94 | 388 | SPNLover24 |
 | 95 | 387 | Novaa |
-| 96 | 383 | Eric Mcgaughy |
-| 97 | 382 | Voice |
+| 96 | 384 | Voice |
+| 97 | 383 | Eric Mcgaughy |
 | 98 | 377 | AF Cruz |
 | 99 | 374 | Lashawn Wallace |
 | 100 | 374 | Moomoo |
