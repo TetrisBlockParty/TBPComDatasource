@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 09:53:15 UTC
+# Standings for team2 as of 2026-06-06 09:54:15 UTC
 
 **Total Participants:** 1101
 
@@ -1095,18 +1095,18 @@
 | 1087 | 5 | Crystal Poss |
 | 1088 | 5 | Danh Nguyen |
 | 1089 | 5 | Jennifer Mauler Schmidt |
-| 1090 | 5 | Flynn Flibble |
-| 1091 | 5 | Jennifer Roper Stanley |
-| 1092 | 5 | Deborah Fowler |
-| 1093 | 5 | Agnes Gable |
-| 1094 | 5 | Dapper Clearpiece |
-| 1095 | 5 | Nolife |
-| 1096 | 5 | Nerdy Base |
-| 1097 | 5 | Duck |
-| 1098 | 5 | Nicole Plummer |
-| 1099 | 5 | Brittany Weatherspoon |
-| 1100 | 5 | Mercedes Lowery |
-| 1101 | 5 | Chirpy Towerer |
+| 1090 | 5 | Chirpy Towerer |
+| 1091 | 5 | Flynn Flibble |
+| 1092 | 5 | Jennifer Roper Stanley |
+| 1093 | 5 | Deborah Fowler |
+| 1094 | 5 | Agnes Gable |
+| 1095 | 5 | Dapper Clearpiece |
+| 1096 | 5 | Nolife |
+| 1097 | 5 | Nerdy Base |
+| 1098 | 5 | Duck |
+| 1099 | 5 | Nicole Plummer |
+| 1100 | 5 | Brittany Weatherspoon |
+| 1101 | 5 | Mercedes Lowery |
 
 ---
 *Standings created by tournaments datasource generation tool*
