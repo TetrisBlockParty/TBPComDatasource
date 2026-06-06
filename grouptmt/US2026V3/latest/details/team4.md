@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 17:24:17 UTC
+# Standings for team4 as of 2026-06-06 17:24:41 UTC
 
 **Total Participants:** 1067
 
@@ -59,12 +59,12 @@
 | 51 | 628 | Victoria Ver |
 | 52 | 628 | Adam J Leong |
 | 53 | 620 | Fancy Crasher |
-| 54 | 607 | Jeremy Lopez |
-| 55 | 600 | Chaz Duncan |
-| 56 | 594 | Маркус Вік |
-| 57 | 562 | Sweet Stacker |
-| 58 | 559 | Lynn Grimes |
-| 59 | 558 | Alala.Cersei |
+| 54 | 618 | Alala.Cersei |
+| 55 | 607 | Jeremy Lopez |
+| 56 | 600 | Chaz Duncan |
+| 57 | 594 | Маркус Вік |
+| 58 | 562 | Sweet Stacker |
+| 59 | 559 | Lynn Grimes |
 | 60 | 546 | Bubbly Twistpiece |
 | 61 | 530 | Jonathan Hewitt |
 | 62 | 510 | Krysten Danielle Richard |
@@ -91,11 +91,11 @@
 | 83 | 378 | Lisa Garcia |
 | 84 | 376 | Jason Garnatz |
 | 85 | 373 | Boldy Rumbler |
-| 86 | 360 | Gigglycat |
-| 87 | 356 | Tanita Jobe |
-| 88 | 353 | Hen |
-| 89 | 352 | Jackie Jackson |
-| 90 | 350 | Dandy Clearfit |
+| 86 | 370 | Dandy Clearfit |
+| 87 | 360 | Gigglycat |
+| 88 | 356 | Tanita Jobe |
+| 89 | 353 | Hen |
+| 90 | 352 | Jackie Jackson |
 | 91 | 349 | GeorgeButts |
 | 92 | 347 | Nikki Fuller Johnson |
 | 93 | 346 | Alexis Cor |

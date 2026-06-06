@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 17:24:17 UTC
+# Standings for team2 as of 2026-06-06 17:24:41 UTC
 
 **Total Participants:** 1279
 
@@ -206,14 +206,14 @@
 | 198 | 176 | Glitzy Base |
 | 199 | 175 | Lashanda Bertram |
 | 200 | 174 | Nettrainer |
-| 201 | 173 | Becca Marie |
-| 202 | 173 | Amie Marks |
+| 201 | 173 | Amie Marks |
+| 202 | 173 | Becca Marie |
 | 203 | 172 | Carolyn McNaughton |
 | 204 | 171 | Melissa Nash |
-| 205 | 170 | phamous1 |
-| 206 | 170 | Harper |
-| 207 | 169 | Sully |
-| 208 | 169 | Laverne Ellis Blair |
+| 205 | 171 | Laverne Ellis Blair |
+| 206 | 170 | phamous1 |
+| 207 | 170 | Harper |
+| 208 | 169 | Sully |
 | 209 | 168 | Spicy Risegrid |
 | 210 | 168 | Missy Renia |
 | 211 | 168 | Danielle Lyons |
@@ -702,14 +702,14 @@
 | 694 | 42 | Jazzy |
 | 695 | 42 | Brian Favre |
 | 696 | 42 | Shylo Bryant-Brunson |
-| 697 | 42 | David Skelton |
-| 698 | 41 | Tracey Cox |
-| 699 | 41 | Kodi Gay |
-| 700 | 41 | Cranky Brickzone |
-| 701 | 41 | AndrewandShela Gornik |
-| 702 | 41 | Clever Gridzone |
-| 703 | 41 | Witty Brickster |
-| 704 | 41 | wutrwerdz |
+| 697 | 42 | wutrwerdz |
+| 698 | 42 | David Skelton |
+| 699 | 41 | Tracey Cox |
+| 700 | 41 | Kodi Gay |
+| 701 | 41 | Cranky Brickzone |
+| 702 | 41 | AndrewandShela Gornik |
+| 703 | 41 | Clever Gridzone |
+| 704 | 41 | Witty Brickster |
 | 705 | 41 | Meagan Thompson |
 | 706 | 41 | Alimae |
 | 707 | 41 | Baby |
@@ -758,24 +758,24 @@
 | 750 | 38 | Elise Marie Mireles |
 | 751 | 38 | Peppy Piececlear |
 | 752 | 38 | Perky Patternbuilder |
-| 753 | 37 | Suzee |
-| 754 | 37 | Tracy Lee |
-| 755 | 37 | Brooke Allred |
-| 756 | 37 | Leon Welch |
+| 753 | 38 | Clever Fallmatch |
+| 754 | 37 | Suzee |
+| 755 | 37 | Tracy Lee |
+| 756 | 37 | Brooke Allred |
 | 757 | 37 | Tiffany Powell |
-| 758 | 37 | Josh Vietz |
-| 759 | 36 | Deborah Lint Odom |
-| 760 | 36 | Christina Hanson |
-| 761 | 36 | Lazy Staggerpiece |
-| 762 | 36 | Bobbie Carrol |
-| 763 | 36 | Eugene Clawson |
-| 764 | 36 | Michelle Arnold |
-| 765 | 36 | Slinky Linkgrid |
-| 766 | 36 | Kathryn |
-| 767 | 36 | Clever Fallmatch |
+| 758 | 37 | Leon Welch |
+| 759 | 37 | Josh Vietz |
+| 760 | 36 | Stacey Loretta Wallace |
+| 761 | 36 | Christina Hanson |
+| 762 | 36 | Lazy Staggerpiece |
+| 763 | 36 | Bobbie Carrol |
+| 764 | 36 | Eugene Clawson |
+| 765 | 36 | Michelle Arnold |
+| 766 | 36 | Slinky Linkgrid |
+| 767 | 36 | Kathryn |
 | 768 | 36 | James Brown |
 | 769 | 36 | Amanda Stanley |
-| 770 | 36 | Stacey Loretta Wallace |
+| 770 | 36 | Deborah Lint Odom |
 | 771 | 35 | Raffa |
 | 772 | 35 | blockrocker |
 | 773 | 35 | Snazzy Clusterfit |
