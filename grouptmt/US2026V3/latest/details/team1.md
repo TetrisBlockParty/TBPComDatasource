@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 14:24:40 UTC
+# Standings for team1 as of 2026-06-06 14:25:17 UTC
 
 **Total Participants:** 1021
 
@@ -41,8 +41,8 @@
 | 33 | 933 | Cherry Rose |
 | 34 | 930 | Sanjuro |
 | 35 | 927 | Jolly Dropzone |
-| 36 | 882 | Jon Gathers |
-| 37 | 881 | Spicy Balancer |
+| 36 | 891 | Spicy Balancer |
+| 37 | 882 | Jon Gathers |
 | 38 | 877 | Brian Bohanon II |
 | 39 | 844 | Jennifer To |
 | 40 | 842 | Chris Russell |
@@ -173,11 +173,11 @@
 | 165 | 159 | Fina McKinnis |
 | 166 | 158 | Tina Mitchell |
 | 167 | 156 | Jessica Russell |
-| 168 | 149 | Lively Riserpiece |
-| 169 | 147 | MACHETEEDDIE513 |
-| 170 | 146 | BlackQueen105 |
-| 171 | 146 | Jai |
-| 172 | 144 | Cee Emm |
+| 168 | 149 | Cee Emm |
+| 169 | 149 | Lively Riserpiece |
+| 170 | 147 | MACHETEEDDIE513 |
+| 171 | 146 | BlackQueen105 |
+| 172 | 146 | Jai |
 | 173 | 143 | Sammie Walker |
 | 174 | 143 | IThinkNot |
 | 175 | 142 | Mikayla |
@@ -236,19 +236,19 @@
 | 228 | 109 | Tamika Fisher |
 | 229 | 108 | Kimberly Linares Hernandez |
 | 230 | 108 | Char |
-| 231 | 106 | Mister Reid |
-| 232 | 106 | Matthieu Pistone |
+| 231 | 106 | Matthieu Pistone |
+| 232 | 106 | Mister Reid |
 | 233 | 105 | Kelley Johnson |
 | 234 | 105 | Angela R Wilson |
 | 235 | 105 | Katrina Ramey |
-| 236 | 104 | Frisky Fall |
-| 237 | 104 | Ahvae Lee |
-| 238 | 104 | Brittnay Wright |
-| 239 | 104 | Brittany Fells |
+| 236 | 104 | Ahvae Lee |
+| 237 | 104 | Frisky Fall |
+| 238 | 104 | Brittany Fells |
+| 239 | 104 | Brittnay Wright |
 | 240 | 101 | Joana Thompson |
 | 241 | 101 | Calvin Green |
-| 242 | 100 | Cool Bridger |
-| 243 | 100 | Leavon Smith |
+| 242 | 100 | Leavon Smith |
+| 243 | 100 | Cool Bridger |
 | 244 | 99 | Maribel Vasquez |
 | 245 | 99 | Simone Bailey |
 | 246 | 98 | Sharon Cail |
@@ -256,41 +256,41 @@
 | 248 | 97 | Shanell Thomas |
 | 249 | 97 | Telisha Mims |
 | 250 | 97 | Tay |
-| 251 | 96 | Yazz |
-| 252 | 96 | Phillip Vasquez |
-| 253 | 96 | Melissa D. M. Hornsby |
-| 254 | 95 | Tosha Michelle |
-| 255 | 95 | Nate Myers |
+| 251 | 96 | Melissa D. M. Hornsby |
+| 252 | 96 | Yazz |
+| 253 | 96 | Phillip Vasquez |
+| 254 | 95 | Tishauna Virgo |
+| 255 | 95 | Tosha Michelle |
 | 256 | 95 | Shiny Lift |
-| 257 | 94 | Keke Ferguson |
+| 257 | 95 | Nate Myers |
 | 258 | 94 | Cece Fowler |
-| 259 | 93 | Rackemwillie34 |
-| 260 | 92 | Katherine Short |
+| 259 | 94 | Keke Ferguson |
+| 260 | 93 | Rackemwillie34 |
 | 261 | 92 | Quirky Fallgrid |
 | 262 | 92 | The DUBZ |
-| 263 | 91 | Jack Vlasak |
-| 264 | 90 | Robbie Cheeseman |
-| 265 | 90 | Danielle DeLozier Plesec |
-| 266 | 90 | Tishauna Virgo |
-| 267 | 90 | Charlene Baltimore |
-| 268 | 88 | QueenShay AllGood |
-| 269 | 88 | Ad Doctor |
+| 263 | 92 | Katherine Short |
+| 264 | 91 | Jack Vlasak |
+| 265 | 90 | Charlene Baltimore |
+| 266 | 90 | Danielle DeLozier Plesec |
+| 267 | 90 | Robbie Cheeseman |
+| 268 | 88 | Ad Doctor |
+| 269 | 88 | QueenShay AllGood |
 | 270 | 88 | TT |
 | 271 | 88 | izzybella |
-| 272 | 87 | Choc |
-| 273 | 87 | Poppy Buildout |
-| 274 | 87 | Karebear |
-| 275 | 86 | Cauiasia DeJ'ae |
+| 272 | 87 | Karebear |
+| 273 | 87 | Choc |
+| 274 | 87 | Poppy Buildout |
+| 275 | 86 | Chandler Magee |
 | 276 | 86 | krd |
-| 277 | 86 | Chandler Magee |
-| 278 | 86 | Yashica Smith |
+| 277 | 86 | Yashica Smith |
+| 278 | 86 | Cauiasia DeJ'ae |
 | 279 | 85 | Slinky Snapbuilder |
-| 280 | 85 | Skippy |
-| 281 | 85 | Simmone T. Kadiri |
-| 282 | 84 | Franklin Sotelo |
-| 283 | 84 | kitten |
-| 284 | 84 | Ciera Peace |
-| 285 | 84 | NastyFriend |
+| 280 | 85 | Simmone T. Kadiri |
+| 281 | 85 | Skippy |
+| 282 | 84 | kitten |
+| 283 | 84 | NastyFriend |
+| 284 | 84 | Franklin Sotelo |
+| 285 | 84 | Ciera Peace |
 | 286 | 83 | Shameka Thrasher |
 | 287 | 83 | Slinky Brickmatch |
 | 288 | 83 | Tipsy Linkroll |
@@ -303,8 +303,8 @@
 | 295 | 81 | rls |
 | 296 | 81 | Jae Thompson-Tyus |
 | 297 | 80 | Seddrick |
-| 298 | 80 | Smiley Clearpiece |
-| 299 | 80 | Felicia Williams |
+| 298 | 80 | Felicia Williams |
+| 299 | 80 | Smiley Clearpiece |
 | 300 | 80 | NedaWin |
 | 301 | 80 | Charles Johnson |
 | 302 | 80 | Tracey Johnson |
