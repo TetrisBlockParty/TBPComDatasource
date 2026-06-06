@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 08:00:16 UTC
+# Standings for team4 as of 2026-06-06 08:00:40 UTC
 
 **Total Participants:** 884
 
@@ -104,9 +104,9 @@
 | 96 | 201 | Renee Sapp |
 | 97 | 200 | Leah Gorsuch |
 | 98 | 197 | Slimm |
-| 99 | 195 | Sean Mccleary |
-| 100 | 194 | Lisa lisa |
-| 101 | 194 | Debby Ruof |
+| 99 | 196 | Debby Ruof |
+| 100 | 195 | Sean Mccleary |
+| 101 | 194 | Lisa lisa |
 | 102 | 194 | Chiquita Blue |
 | 103 | 193 | Tiffany Bunker-Hill |
 | 104 | 192 | Gorica Prusina |
@@ -239,135 +239,135 @@
 | 231 | 82 | Codey Haffner |
 | 232 | 82 | Futrell Brent |
 | 233 | 81 | Lively Cascadebuilder |
-| 234 | 81 | Janae Harris |
-| 235 | 81 | Stasia |
-| 236 | 80 | Danny Frausto |
+| 234 | 81 | Stasia |
+| 235 | 81 | Janae Harris |
+| 236 | 80 | Krista Diaz |
 | 237 | 80 | Josh Keith Travierso |
-| 238 | 80 | Maurice DeJean |
-| 239 | 80 | Magz |
-| 240 | 80 | Krista Diaz |
-| 241 | 80 | Carla Woodard |
-| 242 | 79 | Gean DeJesus |
-| 243 | 79 | JoAnn Summerlot Ratliff |
-| 244 | 79 | Has2brat |
-| 245 | 79 | Courtney Niichole |
-| 246 | 79 | Snazzy Corner |
+| 238 | 80 | Carla Woodard |
+| 239 | 80 | Maurice DeJean |
+| 240 | 80 | Danny Frausto |
+| 241 | 80 | Magz |
+| 242 | 79 | Courtney Niichole |
+| 243 | 79 | Snazzy Corner |
+| 244 | 79 | Gean DeJesus |
+| 245 | 79 | JoAnn Summerlot Ratliff |
+| 246 | 79 | Has2brat |
 | 247 | 79 | Joyce Myers |
 | 248 | 78 | Stef |
-| 249 | 77 | Lady |
-| 250 | 77 | Chirpy Link |
-| 251 | 76 | All knowing |
+| 249 | 77 | Chirpy Link |
+| 250 | 77 | Lady |
+| 251 | 76 | EvoKitty |
 | 252 | 76 | Spicy Peach |
-| 253 | 76 | Piece of Cake |
-| 254 | 76 | EvoKitty |
-| 255 | 76 | BertaF1irta |
+| 253 | 76 | All knowing |
+| 254 | 76 | BertaF1irta |
+| 255 | 76 | Piece of Cake |
 | 256 | 75 | Sarah Perry Cook |
-| 257 | 75 | Chonda OhanaMomma Michelle |
-| 258 | 75 | Bonnie Powell |
+| 257 | 75 | Bonnie Powell |
+| 258 | 75 | Chonda OhanaMomma Michelle |
 | 259 | 74 | Rita Ann |
 | 260 | 74 | Miwa |
-| 261 | 73 | Jenn Fitzgerald |
-| 262 | 73 | Troy Zanelli |
-| 263 | 71 | Taquilla Branch |
+| 261 | 73 | Troy Zanelli |
+| 262 | 73 | Jenn Fitzgerald |
+| 263 | 71 | King |
 | 264 | 71 | Jason Garnatz |
 | 265 | 71 | Snazzy Fitclear |
-| 266 | 71 | King |
-| 267 | 70 | Henry Lanier |
-| 268 | 70 | Gigglycat |
-| 269 | 70 | Karen Small |
-| 270 | 70 | ManOfSteel |
-| 271 | 69 | Wacky Brick |
+| 266 | 71 | Taquilla Branch |
+| 267 | 70 | Gigglycat |
+| 268 | 70 | Henry Lanier |
+| 269 | 70 | ManOfSteel |
+| 270 | 70 | Karen Small |
+| 271 | 69 | Khylee DarDar |
 | 272 | 69 | Dizzy Slammer |
-| 273 | 69 | Khylee DarDar |
+| 273 | 69 | Wacky Brick |
 | 274 | 68 | Keys Tome |
 | 275 | 68 | Smiley Gridzone |
 | 276 | 68 | Erika Seaton |
-| 277 | 67 | Noa Lee |
-| 278 | 67 | Karen Rodriguez |
+| 277 | 67 | Loretta Hendricks |
+| 278 | 67 | Noa Lee |
 | 279 | 67 | Alma López Morales |
-| 280 | 67 | Loretta Hendricks |
-| 281 | 67 | Ashley Jenkins |
+| 280 | 67 | Ashley Jenkins |
+| 281 | 67 | Karen Rodriguez |
 | 282 | 66 | Mann Manson |
-| 283 | 65 | Joshua Garner |
+| 283 | 65 | Corey Jackson |
 | 284 | 65 | Cranky Twistpiece |
-| 285 | 65 | Kristen Wallace |
-| 286 | 65 | Corey Jackson |
-| 287 | 65 | Domo Dpn |
-| 288 | 65 | Cool Risepiece |
-| 289 | 64 | sierrabeth |
-| 290 | 64 | Queen B |
-| 291 | 63 | Blockcrusher |
-| 292 | 63 | Brenda Mueller |
+| 285 | 65 | Domo Dpn |
+| 286 | 65 | Cool Risepiece |
+| 287 | 65 | Kristen Wallace |
+| 288 | 65 | Joshua Garner |
+| 289 | 64 | Queen B |
+| 290 | 64 | sierrabeth |
+| 291 | 63 | Ajohnna Frazee |
+| 292 | 63 | Lul Babie |
 | 293 | 63 | Ana Ruiz |
-| 294 | 63 | Lul Babie |
-| 295 | 63 | Ajohnna Frazee |
-| 296 | 62 | Frisky Balance |
-| 297 | 62 | Tiggerjake |
-| 298 | 62 | medicjessi |
-| 299 | 62 | Nicole |
-| 300 | 61 | Cindy |
+| 294 | 63 | Brenda Mueller |
+| 295 | 63 | Blockcrusher |
+| 296 | 62 | Tiggerjake |
+| 297 | 62 | Melika Zeheb |
+| 298 | 62 | Nicole |
+| 299 | 62 | Frisky Balance |
+| 300 | 62 | medicjessi |
 | 301 | 61 | Jackie Miller |
-| 302 | 61 | Tasha Suzanne Prisbrey |
-| 303 | 60 | Jumpy Builderpiece |
-| 304 | 60 | Azahares Alonso |
-| 305 | 60 | Randy M Hatch |
-| 306 | 60 | Anthony Lewis |
-| 307 | 60 | Tiffy |
+| 302 | 61 | Cindy |
+| 303 | 61 | Tasha Suzanne Prisbrey |
+| 304 | 60 | Amandacolle |
+| 305 | 60 | Azahares Alonso |
+| 306 | 60 | Jumpy Builderpiece |
+| 307 | 60 | Helen Bradley |
 | 308 | 60 | aga |
-| 309 | 60 | Ricardo Arias |
-| 310 | 60 | Anthony Magaraci |
-| 311 | 60 | Sonia Cordero-Martinez |
-| 312 | 60 | Fran Aaron-Ring |
-| 313 | 60 | Chris Rowe |
-| 314 | 60 | George Marshburn |
-| 315 | 60 | Amandacolle |
-| 316 | 60 | Helen Bradley |
-| 317 | 59 | Paula Renee McCracken |
+| 309 | 60 | George Marshburn |
+| 310 | 60 | Anthony Lewis |
+| 311 | 60 | Tiffy |
+| 312 | 60 | Chris Rowe |
+| 313 | 60 | Fran Aaron-Ring |
+| 314 | 60 | Sonia Cordero-Martinez |
+| 315 | 60 | Randy M Hatch |
+| 316 | 60 | Ricardo Arias |
+| 317 | 60 | Anthony Magaraci |
 | 318 | 59 | Nicole Colby McCloskey |
-| 319 | 59 | Melika Zeheb |
+| 319 | 59 | Paula Renee McCracken |
 | 320 | 59 | Kat Foreman |
 | 321 | 59 | Kay |
-| 322 | 59 | Butterpat |
-| 323 | 59 | Yvette Johnson |
-| 324 | 58 | Winter Moon |
-| 325 | 58 | Jade Alley |
+| 322 | 59 | Yvette Johnson |
+| 323 | 59 | Butterpat |
+| 324 | 58 | Lana Tran |
+| 325 | 58 | Winter Moon |
 | 326 | 58 | Mint Marquez |
-| 327 | 58 | Lana Tran |
-| 328 | 57 | Shia Marie |
-| 329 | 57 | Joshua Hunt |
-| 330 | 57 | da1ndonly |
+| 327 | 58 | Jade Alley |
+| 328 | 57 | Joshua Hunt |
+| 329 | 57 | da1ndonly |
+| 330 | 57 | Shia Marie |
 | 331 | 57 | PapaB |
 | 332 | 56 | Karen Davis |
 | 333 | 56 | Bre Dee |
-| 334 | 55 | Cinta Marie |
-| 335 | 55 | The Jazziest |
-| 336 | 55 | Daring Brickbuilder |
-| 337 | 54 | Alex Armour |
-| 338 | 54 | Earl Edwards |
+| 334 | 55 | Daring Brickbuilder |
+| 335 | 55 | Cinta Marie |
+| 336 | 55 | The Jazziest |
+| 337 | 54 | Dawn Phelps |
+| 338 | 54 | Zappy Matchgrid |
 | 339 | 54 | Playa |
-| 340 | 54 | Dawn Phelps |
-| 341 | 54 | Zappy Matchgrid |
+| 340 | 54 | Alex Armour |
+| 341 | 54 | Earl Edwards |
 | 342 | 53 | LaTanya GeminiondaRise Johnson |
-| 343 | 52 | shawna |
-| 344 | 52 | Jj Johnson |
-| 345 | 51 | Erika Rubio |
-| 346 | 51 | Vergie Michael |
-| 347 | 51 | Michellee Lewis |
-| 348 | 51 | Clever Patterner |
-| 349 | 51 | yourmomz |
+| 343 | 52 | Jj Johnson |
+| 344 | 52 | shawna |
+| 345 | 51 | YenSid |
+| 346 | 51 | Michellee Lewis |
+| 347 | 51 | Erika Rubio |
+| 348 | 51 | Erich EMac McIntosh |
+| 349 | 51 | Swanky Builderline |
 | 350 | 51 | Bridget Stevens |
-| 351 | 51 | Swanky Builderline |
-| 352 | 51 | Erich EMac McIntosh |
-| 353 | 51 | YenSid |
+| 351 | 51 | yourmomz |
+| 352 | 51 | Clever Patterner |
+| 353 | 51 | Vergie Michael |
 | 354 | 51 | Amanda Snow |
-| 355 | 50 | Nova Kain |
-| 356 | 50 | Edward White |
-| 357 | 50 | Bhakti Sawarkar |
-| 358 | 50 | Lora Schallert |
-| 359 | 50 | Sassy Column |
-| 360 | 50 | Snappy Fitzone |
-| 361 | 50 | Jacqueline Wright |
-| 362 | 50 | Brittany |
+| 355 | 50 | Brittany |
+| 356 | 50 | Jacqueline Wright |
+| 357 | 50 | Lora Schallert |
+| 358 | 50 | Nova Kain |
+| 359 | 50 | Edward White |
+| 360 | 50 | Bhakti Sawarkar |
+| 361 | 50 | Sassy Column |
+| 362 | 50 | Snappy Fitzone |
 | 363 | 50 | Cheeky Climber |
 | 364 | 50 | Susan Stofberg Beltran |
 | 365 | 50 | Andrick |
