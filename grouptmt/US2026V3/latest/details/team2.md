@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 09:40:40 UTC
+# Standings for team2 as of 2026-06-06 09:41:16 UTC
 
 **Total Participants:** 1101
 
@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 11046 | Summer Harrison |
-| 2 | 7687 | Lacey Nolting |
-| 3 | 7200 | Mochi |
+| 2 | 7800 | Mochi |
+| 3 | 7687 | Lacey Nolting |
 | 4 | 6045 | Morgann McDaniel |
 | 5 | 5987 | Tim Ix |
 | 6 | 5680 | Jason Wood |
@@ -16,7 +16,7 @@
 | 8 | 5108 | Puce guide 9156 |
 | 9 | 4504 | Cori Keberlein |
 | 10 | 4500 | Mocha |
-| 11 | 4071 | Christina Shell |
+| 11 | 4121 | Christina Shell |
 | 12 | 3984 | Amber |
 | 13 | 3812 | Crystal M Sowden |
 | 14 | 3605 | Crystalin Heath Lewis |
@@ -97,17 +97,17 @@
 | 89 | 341 | Nawang Nawang |
 | 90 | 340 | Courtney McCulley |
 | 91 | 337 | Krisanne Kesner-Lonsby |
-| 92 | 335 | MaddieCherie |
-| 93 | 335 | Kaycie Shaffer |
+| 92 | 335 | Kaycie Shaffer |
+| 93 | 335 | MaddieCherie |
 | 94 | 328 | Tim Tim |
 | 95 | 325 | Amy Gregg |
 | 96 | 319 | Michelle Rich Burkhart |
-| 97 | 317 | Ruby Sandberg |
-| 98 | 315 | Milad Arzani |
-| 99 | 312 | Le Sandy |
-| 100 | 310 | Jennifer Smith |
-| 101 | 300 | Wmk Rathbun |
-| 102 | 299 | Shannon Wilson |
+| 97 | 319 | Shannon Wilson |
+| 98 | 317 | Ruby Sandberg |
+| 99 | 315 | Milad Arzani |
+| 100 | 312 | Le Sandy |
+| 101 | 310 | Jennifer Smith |
+| 102 | 300 | Wmk Rathbun |
 | 103 | 299 | Amber Miller Wirick |
 | 104 | 294 | Vistabrat |
 | 105 | 289 | Giddy Slamdrop |

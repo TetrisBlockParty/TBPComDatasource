@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 09:40:40 UTC
+# Standings for team1 as of 2026-06-06 09:41:16 UTC
 
 **Total Participants:** 944
 
@@ -94,12 +94,12 @@
 | 86 | 279 | COSA303 |
 | 87 | 278 | Shontanese Adams |
 | 88 | 270 | Chenell Gillard |
-| 89 | 264 | Tammye Turner |
-| 90 | 260 | John Staub |
-| 91 | 259 | Chirpy Corner |
-| 92 | 257 | Michelle Titus |
-| 93 | 256 | Cortaz Lawrie |
-| 94 | 253 | Dee McCool |
+| 89 | 268 | Dee McCool |
+| 90 | 264 | Tammye Turner |
+| 91 | 260 | John Staub |
+| 92 | 259 | Chirpy Corner |
+| 93 | 257 | Michelle Titus |
+| 94 | 256 | Cortaz Lawrie |
 | 95 | 251 | Helen Smith |
 | 96 | 249 | Ashley MyBeauty Daniels |
 | 97 | 249 | Tamara N Lee |
@@ -585,60 +585,60 @@
 | 577 | 30 | TiffanyG |
 | 578 | 30 | Ta'Kaiyah M. Spann |
 | 579 | 30 | Sarah Guarino |
-| 580 | 30 | Taneka Howell |
-| 581 | 30 | Dorian Griffin |
-| 582 | 30 | Jessica Corey |
-| 583 | 30 | Delitra Perkins Hatter |
-| 584 | 30 | Falisa Bell |
-| 585 | 30 | Rhianna Dinki Austin |
-| 586 | 30 | Witty Blockpiece |
-| 587 | 30 | Saucy Faller |
-| 588 | 30 | Tessa Gaskin |
-| 589 | 30 | Wayne Savannah |
-| 590 | 30 | Abby |
-| 591 | 30 | Jes Marie |
-| 592 | 29 | Darrel Pemberton |
+| 580 | 30 | Derald Miller |
+| 581 | 30 | Taneka Howell |
+| 582 | 30 | Dorian Griffin |
+| 583 | 30 | Jessica Corey |
+| 584 | 30 | Delitra Perkins Hatter |
+| 585 | 30 | Falisa Bell |
+| 586 | 30 | Rhianna Dinki Austin |
+| 587 | 30 | Witty Blockpiece |
+| 588 | 30 | Saucy Faller |
+| 589 | 30 | Tessa Gaskin |
+| 590 | 30 | Wayne Savannah |
+| 591 | 30 | Abby |
+| 592 | 30 | Jes Marie |
 | 593 | 29 | Bubbly Slammer |
 | 594 | 29 | Parris Wright |
-| 595 | 29 | Jeffrey Barrows |
+| 595 | 29 | Darrel Pemberton |
 | 596 | 29 | Rissa Rozay |
-| 597 | 29 | NastyFriend |
+| 597 | 29 | Jeffrey Barrows |
 | 598 | 29 | DellaLucretia Thomas |
-| 599 | 28 | LeeLee08 |
-| 600 | 28 | Latoya Carson |
-| 601 | 28 | Adrian Harris |
-| 602 | 28 | Charise McGee |
-| 603 | 28 | Ameillia Boughner |
-| 604 | 28 | Leon Matthew Williams |
-| 605 | 28 | Will Stanton |
-| 606 | 28 | kiki |
-| 607 | 28 | Danielle Marie Lewis |
-| 608 | 27 | jeremy92 |
-| 609 | 27 | Zappy Riser |
-| 610 | 27 | Joka NoTime ForHataz |
-| 611 | 27 | Meepycat |
-| 612 | 27 | katia |
-| 613 | 27 | Zesty Fitclear |
-| 614 | 27 | Juanita Quezaire |
-| 615 | 27 | Danielle DeLozier Plesec |
-| 616 | 27 | Lady Scorpio |
-| 617 | 27 | Shaylyn Lockwood |
-| 618 | 27 | Kendra McIntyre |
-| 619 | 27 | Jenna Renee |
-| 620 | 27 | Brave Balanceblock |
-| 621 | 26 | Kala Miller |
-| 622 | 26 | Sarah Clark |
-| 623 | 26 | SnazzySnippet |
+| 599 | 29 | NastyFriend |
+| 600 | 28 | Ameillia Boughner |
+| 601 | 28 | Latoya Carson |
+| 602 | 28 | LeeLee08 |
+| 603 | 28 | Charise McGee |
+| 604 | 28 | Adrian Harris |
+| 605 | 28 | kiki |
+| 606 | 28 | Leon Matthew Williams |
+| 607 | 28 | Will Stanton |
+| 608 | 28 | Danielle Marie Lewis |
+| 609 | 27 | Brave Balanceblock |
+| 610 | 27 | jeremy92 |
+| 611 | 27 | Zappy Riser |
+| 612 | 27 | Meepycat |
+| 613 | 27 | katia |
+| 614 | 27 | Zesty Fitclear |
+| 615 | 27 | Juanita Quezaire |
+| 616 | 27 | Danielle DeLozier Plesec |
+| 617 | 27 | Kendra McIntyre |
+| 618 | 27 | Lady Scorpio |
+| 619 | 27 | Shaylyn Lockwood |
+| 620 | 27 | Joka NoTime ForHataz |
+| 621 | 27 | Jenna Renee |
+| 622 | 26 | SnazzySnippet |
+| 623 | 26 | Dana Hawes |
 | 624 | 26 | Nona Harriel |
-| 625 | 26 | Dana Hawes |
-| 626 | 26 | Derald Miller |
-| 627 | 25 | Linny Loop |
+| 625 | 26 | Sarah Clark |
+| 626 | 26 | Kala Miller |
+| 627 | 25 | Sammie Walker |
 | 628 | 25 | Heru Ogun Yeshua EL |
 | 629 | 25 | Barbramerri Tarboro |
 | 630 | 25 | Victoria Smith |
 | 631 | 25 | Cj Chimelis |
-| 632 | 25 | Plucky Clearpiece |
-| 633 | 25 | Sammie Walker |
+| 632 | 25 | Linny Loop |
+| 633 | 25 | Plucky Clearpiece |
 | 634 | 25 | Brandy Jaszewski |
 | 635 | 25 | Jenni |
 | 636 | 25 | Tony P Burke |
