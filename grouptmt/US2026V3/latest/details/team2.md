@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 00:20:15 UTC
+# Standings for team2 as of 2026-06-06 00:20:36 UTC
 
 **Total Participants:** 701
 
@@ -17,7 +17,7 @@
 | 9 | 3100 | Mocha |
 | 10 | 2657 | Christina Shell |
 | 11 | 2368 | Dapper Rollout |
-| 12 | 1934 | Traci Elizabeth |
+| 12 | 2196 | Traci Elizabeth |
 | 13 | 1900 | boblawboblaw |
 | 14 | 1861 | Erica Dees Parks |
 | 15 | 1787 | Charles Varca |
@@ -35,8 +35,8 @@
 | 27 | 842 | Ashley Miller |
 | 28 | 832 | Amber Triguero |
 | 29 | 801 | Monica Galli |
-| 30 | 700 | Anthony Lilley |
-| 31 | 700 | Crafty Ziggy |
+| 30 | 700 | Crafty Ziggy |
+| 31 | 700 | Anthony Lilley |
 | 32 | 690 | Frilly Match |
 | 33 | 663 | Logan Basham |
 | 34 | 629 | Dane Marko |
@@ -465,7 +465,7 @@
 | 457 | 20 | Amanda Mason Scott |
 | 458 | 20 | Quirky Piecegrid |
 | 459 | 20 | Chesney |
-| 460 | 20 | Pleaze Marshall |
+| 460 | 20 | Ashley Billiot Rhodes |
 | 461 | 20 | Bonita Alexander |
 | 462 | 20 | Annie Hebdon |
 | 463 | 20 | Coleen Yoder |
@@ -478,7 +478,7 @@
 | 470 | 20 | Newtwidebody |
 | 471 | 20 | Dana Wilson |
 | 472 | 20 | Silly square |
-| 473 | 20 | Ashley Billiot Rhodes |
+| 473 | 20 | Pleaze Marshall |
 | 474 | 20 | Jerry L Morales |
 | 475 | 20 | Rose Schaffner-Kibler |
 | 476 | 20 | Tiffany Hassanshahi |
@@ -640,37 +640,37 @@
 | 632 | 9 | Goofy Patternfit |
 | 633 | 9 | Angelique Matzke Starns |
 | 634 | 9 | Giggly Spinblock |
-| 635 | 9 | Poppy Zonepiece |
-| 636 | 9 | Darla Ragsdale |
-| 637 | 9 | David Skelton |
-| 638 | 9 | Jeff Mullins |
-| 639 | 9 | Tabitha Porter |
-| 640 | 9 | Michele Stewart |
-| 641 | 9 | Rydin Dirt |
-| 642 | 9 | Rhonda Driskill |
-| 643 | 9 | Kristi K Milner |
+| 635 | 9 | Kristi K Milner |
+| 636 | 9 | Rydin Dirt |
+| 637 | 9 | Tabitha Porter |
+| 638 | 9 | Poppy Zonepiece |
+| 639 | 9 | Darla Ragsdale |
+| 640 | 9 | David Skelton |
+| 641 | 9 | Jeff Mullins |
+| 642 | 9 | Michele Stewart |
+| 643 | 9 | Rhonda Driskill |
 | 644 | 9 | Lindsey Butler |
-| 645 | 8 | Jill Goff |
-| 646 | 8 | Lee Leonard |
-| 647 | 8 | Jackie Hayslip |
-| 648 | 8 | Loony Ziggy |
-| 649 | 8 | Jenna Thorn |
-| 650 | 8 | Witty Riser |
-| 651 | 8 | Jennifer Leigh |
-| 652 | 8 | Witty Clearbuilder |
-| 653 | 8 | Terie Safrit |
-| 654 | 8 | Stephanie |
-| 655 | 8 | Sarah Elizabeth Foret |
-| 656 | 8 | Violet Olivares |
-| 657 | 8 | Amber Carpenter |
-| 658 | 7 | Happy Curvebuilder |
-| 659 | 7 | Heather Hi |
-| 660 | 7 | Buffy Diane Blake |
-| 661 | 7 | michael |
-| 662 | 7 | Elizabeth Elaine Coursey |
+| 645 | 8 | Sarah Elizabeth Foret |
+| 646 | 8 | Jenna Thorn |
+| 647 | 8 | Lee Leonard |
+| 648 | 8 | Jill Goff |
+| 649 | 8 | Jackie Hayslip |
+| 650 | 8 | Loony Ziggy |
+| 651 | 8 | Witty Riser |
+| 652 | 8 | Jennifer Leigh |
+| 653 | 8 | Witty Clearbuilder |
+| 654 | 8 | Amber Carpenter |
+| 655 | 8 | Terie Safrit |
+| 656 | 8 | Stephanie |
+| 657 | 8 | Violet Olivares |
+| 658 | 7 | Heather Hi |
+| 659 | 7 | Happy Curvebuilder |
+| 660 | 7 | michael |
+| 661 | 7 | Buffy Diane Blake |
+| 662 | 7 | Sam Blinn |
 | 663 | 7 | Flashy Cascadeclear |
-| 664 | 7 | Shane Peavey |
-| 665 | 7 | Sam Blinn |
+| 664 | 7 | Elizabeth Elaine Coursey |
+| 665 | 7 | Shane Peavey |
 | 666 | 7 | sally |
 | 667 | 7 | Tashamonique Puckey |
 | 668 | 7 | Brenda Ohaus Facher |
