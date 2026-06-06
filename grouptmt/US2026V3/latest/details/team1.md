@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 17:52:39 UTC
+# Standings for team1 as of 2026-06-06 17:53:17 UTC
 
 **Total Participants:** 1091
 
@@ -885,112 +885,112 @@
 | 877 | 18 | DeAngelo Sorrells |
 | 878 | 18 | Ounquan Wright |
 | 879 | 18 | Octavia Bsb Johnson |
-| 880 | 18 | Lazy Matchgrid |
-| 881 | 18 | Azeiare Ziare |
-| 882 | 18 | Taimir Colón |
-| 883 | 18 | Una |
-| 884 | 18 | Pj Rojas |
-| 885 | 18 | Iván Cedeño |
-| 886 | 18 | Tyree Tman Shinette |
-| 887 | 18 | Anissa Williams |
-| 888 | 18 | Keke |
-| 889 | 18 | Cheeky Wipegrid |
-| 890 | 18 | Soubletzy |
-| 891 | 18 | Oaklonboy mike |
-| 892 | 18 | Diamond Nicole |
-| 893 | 18 | Giggly Tiltbuilder |
-| 894 | 18 | Andre Simpson |
-| 895 | 17 | Talya Richards |
-| 896 | 17 | Happy Blockpiece |
+| 880 | 18 | Austin Smith |
+| 881 | 18 | Lazy Matchgrid |
+| 882 | 18 | Azeiare Ziare |
+| 883 | 18 | Taimir Colón |
+| 884 | 18 | Una |
+| 885 | 18 | Pj Rojas |
+| 886 | 18 | Iván Cedeño |
+| 887 | 18 | Tyree Tman Shinette |
+| 888 | 18 | Anissa Williams |
+| 889 | 18 | Keke |
+| 890 | 18 | Oaklonboy mike |
+| 891 | 18 | Cheeky Wipegrid |
+| 892 | 18 | Giggly Tiltbuilder |
+| 893 | 18 | Andre Simpson |
+| 894 | 18 | Diamond Nicole |
+| 895 | 18 | Soubletzy |
+| 896 | 17 | Embracing Hair |
 | 897 | 17 | Chris Rogers |
-| 898 | 17 | Embracing Hair |
-| 899 | 17 | Rikki Moran |
-| 900 | 17 | Andre Rivera |
-| 901 | 17 | Zany Edgepiece |
-| 902 | 16 | William Vidra |
+| 898 | 17 | Andre Rivera |
+| 899 | 17 | Talya Richards |
+| 900 | 17 | Zany Edgepiece |
+| 901 | 17 | Rikki Moran |
+| 902 | 17 | Happy Blockpiece |
 | 903 | 16 | Lively Strikesnap |
-| 904 | 16 | Christopher Wallace |
-| 905 | 16 | Tammy Collins |
-| 906 | 16 | Symonne 'Monnie' Pierce |
-| 907 | 16 | Dee-Dee Stewart |
+| 904 | 16 | Tammy Collins |
+| 905 | 16 | Symonne 'Monnie' Pierce |
+| 906 | 16 | Dee-Dee Stewart |
+| 907 | 16 | Christopher Wallace |
 | 908 | 16 | Krista McNair |
-| 909 | 16 | Stacey Kesteloot |
-| 910 | 15 | Christian Whittaker |
-| 911 | 15 | Spunky Strikerbuilder |
-| 912 | 15 | Breezy Bouncer |
+| 909 | 16 | William Vidra |
+| 910 | 16 | Stacey Kesteloot |
+| 911 | 15 | Damien Mathews |
+| 912 | 15 | Victor |
 | 913 | 15 | Tami Spence |
-| 914 | 15 | Lit757 |
-| 915 | 15 | Damien Mathews |
-| 916 | 15 | Nicole Freeman |
-| 917 | 15 | Bri Lou |
-| 918 | 15 | Victor |
-| 919 | 15 | Dede Tate |
-| 920 | 15 | Chasem45 |
-| 921 | 15 | Shamara Thurston |
-| 922 | 15 | Cheery Clusterbuilder |
-| 923 | 15 | Nedine Ray |
+| 914 | 15 | Christian Whittaker |
+| 915 | 15 | Spunky Strikerbuilder |
+| 916 | 15 | Breezy Bouncer |
+| 917 | 15 | Lit757 |
+| 918 | 15 | Nicole Freeman |
+| 919 | 15 | Bri Lou |
+| 920 | 15 | Dede Tate |
+| 921 | 15 | Laura Long |
+| 922 | 15 | Hasty Match |
+| 923 | 15 | Chasem45 |
 | 924 | 15 | S.S |
-| 925 | 15 | MonaSparks |
-| 926 | 15 | Motown Chuck |
-| 927 | 15 | Elaine Youmans |
-| 928 | 15 | Robyn Ellis |
-| 929 | 15 | Jonathan Zold |
-| 930 | 15 | Ernie Waters |
-| 931 | 15 | b |
-| 932 | 15 | Laura Long |
+| 925 | 15 | Motown Chuck |
+| 926 | 15 | Robyn Ellis |
+| 927 | 15 | Ernie Waters |
+| 928 | 15 | Shamara Thurston |
+| 929 | 15 | b |
+| 930 | 15 | Cheery Clusterbuilder |
+| 931 | 15 | MonaSparks |
+| 932 | 15 | Jonathan Zold |
 | 933 | 15 | Haley Bell |
-| 934 | 15 | Hasty Match |
+| 934 | 15 | Elaine Youmans |
 | 935 | 15 | Sarah Barnum |
-| 936 | 14 | Aaron Hartmann |
-| 937 | 14 | Kenny 'Tailormade' Boyd |
-| 938 | 14 | Nichole Horsley-Conn |
-| 939 | 14 | Zany Pivot |
-| 940 | 14 | Dymond |
-| 941 | 14 | Brittany Cole |
-| 942 | 14 | MoneyMac |
-| 943 | 14 | TBabii24 |
-| 944 | 14 | Sharon Lynn |
-| 945 | 14 | Jerrone Epps |
-| 946 | 14 | Nerdy Curvetile |
-| 947 | 14 | Jazzy |
-| 948 | 14 | Lynn |
-| 949 | 13 | Jumpy Striker |
-| 950 | 13 | Emma Adams |
-| 951 | 13 | Hoppy Rumbler |
-| 952 | 13 | PuddenPop |
-| 953 | 13 | Daphne Ceasar |
-| 954 | 13 | Leah Ingram |
-| 955 | 12 | Joseph Ware Jr. |
+| 936 | 15 | Nedine Ray |
+| 937 | 14 | Dymond |
+| 938 | 14 | Brittany Cole |
+| 939 | 14 | MoneyMac |
+| 940 | 14 | Nichole Horsley-Conn |
+| 941 | 14 | Zany Pivot |
+| 942 | 14 | Jerrone Epps |
+| 943 | 14 | Jazzy |
+| 944 | 14 | Lynn |
+| 945 | 14 | TBabii24 |
+| 946 | 14 | Kenny 'Tailormade' Boyd |
+| 947 | 14 | Aaron Hartmann |
+| 948 | 14 | Sharon Lynn |
+| 949 | 14 | Nerdy Curvetile |
+| 950 | 13 | Leah Ingram |
+| 951 | 13 | Emma Adams |
+| 952 | 13 | Hoppy Rumbler |
+| 953 | 13 | Jumpy Striker |
+| 954 | 13 | Daphne Ceasar |
+| 955 | 13 | PuddenPop |
 | 956 | 12 | Mike Hromowyk |
-| 957 | 12 | Michael Jones |
-| 958 | 12 | Lillie Blossom Dixon |
-| 959 | 12 | Sarah Jones |
-| 960 | 12 | Silly Spinblock |
-| 961 | 12 | Cameo Tweed |
-| 962 | 12 | BigMike |
-| 963 | 12 | Fancy Mover |
-| 964 | 12 | BigDawg Lessley |
-| 965 | 12 | Outspoken Sirchristopher |
-| 966 | 12 | Austin Smith |
-| 967 | 12 | Dora Greer |
-| 968 | 12 | Abdul Malik |
+| 957 | 12 | Cameo Tweed |
+| 958 | 12 | Outspoken Sirchristopher |
+| 959 | 12 | Silly Spinblock |
+| 960 | 12 | Sarah Jones |
+| 961 | 12 | Dora Greer |
+| 962 | 12 | Lillie Blossom Dixon |
+| 963 | 12 | Michael Jones |
+| 964 | 12 | Abdul Malik |
+| 965 | 12 | Joseph Ware Jr. |
+| 966 | 12 | BigMike |
+| 967 | 12 | Fancy Mover |
+| 968 | 12 | BigDawg Lessley |
 | 969 | 11 | Giddy Twistslam |
 | 970 | 11 | Frilly Shatterline |
-| 971 | 11 | Jayson |
-| 972 | 11 | Twisty Tilebuilder |
+| 971 | 11 | Ray Baker |
+| 972 | 11 | Boldy Zoner |
 | 973 | 11 | Groovy Climber |
-| 974 | 11 | Ray Baker |
-| 975 | 11 | Boldy Zoner |
+| 974 | 11 | Jayson |
+| 975 | 11 | Twisty Tilebuilder |
 | 976 | 10 | Daring Linkfall |
-| 977 | 10 | Willard Junior |
-| 978 | 10 | Tranica Sterling |
-| 979 | 10 | Mayra Diaz |
-| 980 | 10 | Crystal Segura |
-| 981 | 10 | Blaze |
-| 982 | 10 | Yvonne Aggers |
-| 983 | 10 | Kanary Karotz |
-| 984 | 10 | Papi |
-| 985 | 10 | Renee Marshall |
+| 977 | 10 | Papi |
+| 978 | 10 | Renee Marshall |
+| 979 | 10 | Kanary Karotz |
+| 980 | 10 | Yvonne Aggers |
+| 981 | 10 | Willard Junior |
+| 982 | 10 | Blaze |
+| 983 | 10 | Crystal Segura |
+| 984 | 10 | Tranica Sterling |
+| 985 | 10 | Mayra Diaz |
 | 986 | 10 | Daring Riserfit |
 | 987 | 10 | Anthony D Holmes |
 | 988 | 10 | Saucy Linkgrid |

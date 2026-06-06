@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 17:52:39 UTC
+# Standings for team4 as of 2026-06-06 17:53:17 UTC
 
 **Total Participants:** 1079
 
@@ -36,17 +36,17 @@
 | 28 | 989 | Ning Quiambao |
 | 29 | 971 | Loony Towerer |
 | 30 | 966 | BertaF1irta |
-| 31 | 901 | Giggy Matchpiece |
-| 32 | 900 | Kathy Brookins |
-| 33 | 881 | Leigh Pierce |
-| 34 | 876 | SMV |
-| 35 | 855 | Snippy Grid |
-| 36 | 824 | Blind Bette |
-| 37 | 800 | Leah Gorsuch |
-| 38 | 797 | Beee |
-| 39 | 738 | Shaina Sharp |
-| 40 | 736 | Gloria Nunley Trussell |
-| 41 | 730 | Chris Hills |
+| 31 | 911 | Leigh Pierce |
+| 32 | 910 | Chris Hills |
+| 33 | 901 | Giggy Matchpiece |
+| 34 | 900 | Kathy Brookins |
+| 35 | 876 | SMV |
+| 36 | 855 | Snippy Grid |
+| 37 | 824 | Blind Bette |
+| 38 | 800 | Leah Gorsuch |
+| 39 | 797 | Beee |
+| 40 | 738 | Shaina Sharp |
+| 41 | 736 | Gloria Nunley Trussell |
 | 42 | 720 | Carly Stempien |
 | 43 | 715 | Phil Peterson |
 | 44 | 711 | MysticMaven |
@@ -342,53 +342,53 @@
 | 334 | 83 | Peter Babineaux Jr |
 | 335 | 83 | Rosy Perez |
 | 336 | 83 | Peachy Piecefit |
-| 337 | 82 | Bon Jovi |
-| 338 | 82 | DizzB400 |
-| 339 | 82 | Jen Smith |
-| 340 | 81 | Wacky Brick |
-| 341 | 81 | Snazzy Corner |
-| 342 | 81 | Nicole Colby McCloskey |
-| 343 | 81 | Scrumptious |
-| 344 | 80 | Keke Johnson |
-| 345 | 80 | Carla Woodard |
-| 346 | 80 | Darren Miguel |
+| 337 | 82 | Jen Smith |
+| 338 | 82 | Bon Jovi |
+| 339 | 82 | DizzB400 |
+| 340 | 81 | Mighty1 |
+| 341 | 81 | Wacky Brick |
+| 342 | 81 | Scrumptious |
+| 343 | 81 | Snazzy Corner |
+| 344 | 81 | Nicole Colby McCloskey |
+| 345 | 80 | Aaron Turner |
+| 346 | 80 | Krista Diaz |
 | 347 | 80 | Suzanne Carter |
-| 348 | 80 | Danny Frausto |
-| 349 | 80 | Aaron Turner |
-| 350 | 80 | Josh Keith Travierso |
-| 351 | 80 | Maurice DeJean |
-| 352 | 80 | Karen Small |
-| 353 | 80 | Krista Diaz |
-| 354 | 79 | Gean DeJesus |
-| 355 | 79 | JoAnn Summerlot Ratliff |
-| 356 | 79 | Joyce Myers |
-| 357 | 79 | Audrianna Skaff |
-| 358 | 79 | Lisa Jones |
-| 359 | 79 | Elena Marí |
-| 360 | 79 | Has2brat |
-| 361 | 78 | Melika Zeheb |
-| 362 | 78 | Mint Marquez |
-| 363 | 78 | Blockcrusher |
-| 364 | 78 | Andrea Dre Lomeli |
-| 365 | 78 | GingaNinja |
-| 366 | 77 | Tyson Stroppel |
-| 367 | 77 | Alex Armour |
-| 368 | 77 | Lady |
+| 348 | 80 | Josh Keith Travierso |
+| 349 | 80 | Danny Frausto |
+| 350 | 80 | Darren Miguel |
+| 351 | 80 | Karen Small |
+| 352 | 80 | Maurice DeJean |
+| 353 | 80 | Carla Woodard |
+| 354 | 80 | Keke Johnson |
+| 355 | 79 | Audrianna Skaff |
+| 356 | 79 | Gean DeJesus |
+| 357 | 79 | JoAnn Summerlot Ratliff |
+| 358 | 79 | Elena Marí |
+| 359 | 79 | Has2brat |
+| 360 | 79 | Lisa Jones |
+| 361 | 79 | Joyce Myers |
+| 362 | 78 | GingaNinja |
+| 363 | 78 | Mint Marquez |
+| 364 | 78 | Blockcrusher |
+| 365 | 78 | Andrea Dre Lomeli |
+| 366 | 78 | Melika Zeheb |
+| 367 | 77 | Tyson Stroppel |
+| 368 | 77 | Alex Armour |
 | 369 | 77 | Melissa Quinn |
-| 370 | 76 | Happy Shatterfit |
+| 370 | 77 | Lady |
 | 371 | 76 | All knowing |
-| 372 | 76 | Spicy Peach |
-| 373 | 76 | SupaFly |
-| 374 | 75 | shawna |
-| 375 | 75 | Witty Fitblock |
+| 372 | 76 | SupaFly |
+| 373 | 76 | Spicy Peach |
+| 374 | 76 | Happy Shatterfit |
+| 375 | 75 | shawna |
 | 376 | 75 | Ricardo Arias |
 | 377 | 75 | Swanky Builderline |
 | 378 | 75 | PsyDMom |
 | 379 | 75 | Marco A. Sandoval |
-| 380 | 73 | Perry Ransom |
+| 380 | 75 | Witty Fitblock |
 | 381 | 73 | Joshua Hunt |
-| 382 | 72 | Virgil Mayfield-Brown |
-| 383 | 72 | Mighty1 |
+| 382 | 73 | Perry Ransom |
+| 383 | 72 | Virgil Mayfield-Brown |
 | 384 | 72 | Fancy Riser |
 | 385 | 71 | Valerie Silva |
 | 386 | 71 | Taquilla Branch |

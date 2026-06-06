@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 17:52:39 UTC
+# Standings for team2 as of 2026-06-06 17:53:17 UTC
 
 **Total Participants:** 1294
 
@@ -55,51 +55,51 @@
 | 47 | 1031 | DarkHorse |
 | 48 | 942 | Dane Marko |
 | 49 | 938 | Debra Henry |
-| 50 | 835 | Mikki Torres |
-| 51 | 832 | Amber Triguero |
-| 52 | 824 | Helen Thomas |
-| 53 | 817 | Rose Schaffner-Kibler |
-| 54 | 799 | Elizabeth Sallas |
-| 55 | 798 | Gabriella Humphreys |
-| 56 | 779 | Marie Luciano |
-| 57 | 750 | Brent Bittenbender |
-| 58 | 744 | Deborah Boyce Minor |
-| 59 | 729 | Amber Salazar |
-| 60 | 719 | Beverly Lynn Mills |
-| 61 | 711 | Hoppy Rotate |
-| 62 | 709 | Angelica Jelli Gillaspy |
-| 63 | 705 | Jazzy Faller |
-| 64 | 702 | Charley Bedford |
-| 65 | 701 | Sarah Griffey |
-| 66 | 700 | Denise Potter |
-| 67 | 695 | Andre Love |
-| 68 | 694 | Angie Mccain |
-| 69 | 679 | Tom Badgley |
-| 70 | 671 | Brandi Thompson |
-| 71 | 647 | Loopy Cascadepiece |
-| 72 | 614 | Block Dog |
-| 73 | 600 | LEW |
-| 74 | 592 | Brandon Link |
-| 75 | 588 | Kellie Sharp Godfrey |
-| 76 | 577 | Lindsay Klemp |
-| 77 | 572 | Dsabrina Maxey |
-| 78 | 570 | Nerdy Climber |
-| 79 | 543 | Kathleen Dumbazz |
-| 80 | 540 | Jamie Jones |
-| 81 | 537 | Rhonda Diebold |
-| 82 | 531 | Nawang Nawang |
-| 83 | 515 | Loony Faller |
-| 84 | 507 | Mirr Lulu |
-| 85 | 501 | Ricardo Ewart |
-| 86 | 500 | Suki Kaur |
-| 87 | 496 | Amber Miller Wirick |
-| 88 | 494 | Shandrea Crawford |
+| 50 | 856 | Shandrea Crawford |
+| 51 | 835 | Mikki Torres |
+| 52 | 832 | Amber Triguero |
+| 53 | 824 | Helen Thomas |
+| 54 | 817 | Rose Schaffner-Kibler |
+| 55 | 799 | Elizabeth Sallas |
+| 56 | 798 | Gabriella Humphreys |
+| 57 | 779 | Marie Luciano |
+| 58 | 750 | Brent Bittenbender |
+| 59 | 744 | Deborah Boyce Minor |
+| 60 | 729 | Amber Salazar |
+| 61 | 719 | Beverly Lynn Mills |
+| 62 | 711 | Hoppy Rotate |
+| 63 | 709 | Angelica Jelli Gillaspy |
+| 64 | 705 | Jazzy Faller |
+| 65 | 702 | Charley Bedford |
+| 66 | 701 | Sarah Griffey |
+| 67 | 700 | Denise Potter |
+| 68 | 695 | Andre Love |
+| 69 | 694 | Angie Mccain |
+| 70 | 679 | Tom Badgley |
+| 71 | 671 | Brandi Thompson |
+| 72 | 647 | Loopy Cascadepiece |
+| 73 | 614 | Block Dog |
+| 74 | 600 | LEW |
+| 75 | 592 | Brandon Link |
+| 76 | 588 | Kellie Sharp Godfrey |
+| 77 | 577 | Lindsay Klemp |
+| 78 | 572 | Dsabrina Maxey |
+| 79 | 570 | Nerdy Climber |
+| 80 | 543 | Kathleen Dumbazz |
+| 81 | 540 | Jamie Jones |
+| 82 | 537 | Rhonda Diebold |
+| 83 | 531 | Nawang Nawang |
+| 84 | 515 | Loony Faller |
+| 85 | 507 | Mirr Lulu |
+| 86 | 501 | Ricardo Ewart |
+| 87 | 500 | Suki Kaur |
+| 88 | 496 | Amber Miller Wirick |
 | 89 | 492 | Matt Hardin |
 | 90 | 487 | Wmk Rathbun |
 | 91 | 486 | Krisanne Kesner-Lonsby |
 | 92 | 483 | Karen Reid Cenkush |
-| 93 | 480 | Courtney McCulley |
-| 94 | 480 | Marquita Toliver |
+| 93 | 480 | Marquita Toliver |
+| 94 | 480 | Courtney McCulley |
 | 95 | 472 | Lily |
 | 96 | 468 | Amy Gale |
 | 97 | 449 | Poppy |
@@ -126,9 +126,9 @@
 | 118 | 325 | Amy Gregg |
 | 119 | 324 | Jgato |
 | 120 | 321 | Giddy Slamdrop |
-| 121 | 319 | Michelle Rich Burkhart |
-| 122 | 319 | Shannon Wilson |
-| 123 | 319 | Bon Lynn |
+| 121 | 319 | Shannon Wilson |
+| 122 | 319 | Bon Lynn |
+| 123 | 319 | Michelle Rich Burkhart |
 | 124 | 317 | Ruby Sandberg |
 | 125 | 315 | Milad Arzani |
 | 126 | 313 | Cool Climber |
@@ -143,13 +143,13 @@
 | 135 | 283 | Theresa Marie |
 | 136 | 283 | Zarah Kettler |
 | 137 | 281 | Joni Michelle Morgan |
-| 138 | 280 | Snappy Combo |
-| 139 | 280 | Patricia Carroll |
+| 138 | 280 | Patricia Carroll |
+| 139 | 280 | Snappy Combo |
 | 140 | 279 | Renee Freeman Jacobson |
 | 141 | 277 | Sarah Mccolgan |
 | 142 | 275 | Bubbly Strikerpiece |
-| 143 | 272 | DayDreamer79 |
-| 144 | 272 | Erin Thomas |
+| 143 | 272 | Erin Thomas |
+| 144 | 272 | DayDreamer79 |
 | 145 | 269 | Ackerman 85 |
 | 146 | 262 | Cool Balancer |
 | 147 | 260 | Linda Guay |
@@ -161,33 +161,33 @@
 | 153 | 247 | Brittni Lawrence |
 | 154 | 245 | Josh Twilley |
 | 155 | 242 | H |
-| 156 | 241 | Charlie Wilson |
-| 157 | 241 | Boldy Wobbler |
+| 156 | 241 | Boldy Wobbler |
+| 157 | 241 | Charlie Wilson |
 | 158 | 232 | Pam Bauder Ludwig |
 | 159 | 230 | Brandy Chinelle |
 | 160 | 228 | Keri Mears |
 | 161 | 227 | Ashley Green |
 | 162 | 224 | Kathleen Keogh Van Schoyck |
-| 163 | 220 | Flashy Basegrid |
-| 164 | 220 | Melissa Thomas |
-| 165 | 218 | Amy Nicole McCanne |
-| 166 | 216 | PaiBri |
-| 167 | 215 | Dallas Runyan |
-| 168 | 212 | AndyJo |
-| 169 | 211 | Suki Jacobs |
-| 170 | 207 | Margie Ann Naffziger |
-| 171 | 206 | Jodi Johnson |
-| 172 | 204 | Chill Line |
+| 163 | 220 | Melissa Thomas |
+| 164 | 220 | Flashy Basegrid |
+| 165 | 219 | Stella |
+| 166 | 218 | Amy Nicole McCanne |
+| 167 | 216 | PaiBri |
+| 168 | 215 | Dallas Runyan |
+| 169 | 214 | Suki Jacobs |
+| 170 | 212 | AndyJo |
+| 171 | 207 | Margie Ann Naffziger |
+| 172 | 206 | Jodi Johnson |
 | 173 | 204 | Brenda Jones |
-| 174 | 201 | Lora Via |
+| 174 | 204 | Chill Line |
 | 175 | 201 | Danielle Pack Lewellen |
-| 176 | 200 | Eric Wayne Maschman |
+| 176 | 201 | Lora Via |
 | 177 | 200 | Sarah Grundisch |
-| 178 | 200 | Kelly Vedder |
-| 179 | 200 | Logan Duffey |
-| 180 | 199 | haune |
-| 181 | 199 | Amber Cogdill |
-| 182 | 199 | Stella |
+| 178 | 200 | Eric Wayne Maschman |
+| 179 | 200 | Kelly Vedder |
+| 180 | 200 | Logan Duffey |
+| 181 | 199 | haune |
+| 182 | 199 | Amber Cogdill |
 | 183 | 199 | Patria Osuoha |
 | 184 | 196 | snowwol |
 | 185 | 195 | Bb |
@@ -202,8 +202,8 @@
 | 194 | 187 | Jat |
 | 195 | 185 | Lush Party |
 | 196 | 184 | Jessica Lynn |
-| 197 | 181 | Michelle Maulsby |
-| 198 | 179 | Chipper Stackbuilder |
+| 197 | 183 | Chipper Stackbuilder |
+| 198 | 181 | Michelle Maulsby |
 | 199 | 177 | Becca Marie |
 | 200 | 177 | Xandrea Jones |
 | 201 | 176 | Glitzy Base |
