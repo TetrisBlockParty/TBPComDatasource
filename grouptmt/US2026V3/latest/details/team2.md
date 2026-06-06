@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 18:02:39 UTC
+# Standings for team2 as of 2026-06-06 18:03:17 UTC
 
 **Total Participants:** 1297
 
@@ -278,22 +278,22 @@
 | 270 | 130 | Precious Womack |
 | 271 | 129 | Armando Sabedra |
 | 272 | 129 | Belle |
-| 273 | 129 | Sandy Justus |
-| 274 | 129 | Loopy Tower |
+| 273 | 129 | Loopy Tower |
+| 274 | 129 | Sandy Justus |
 | 275 | 128 | Teddy Williams |
-| 276 | 126 | Danielle Blount |
-| 277 | 126 | Teresa Mandich |
+| 276 | 126 | Teresa Mandich |
+| 277 | 126 | Danielle Blount |
 | 278 | 125 | Gwendolyn Boykin Mobbs |
-| 279 | 125 | Ariel Gundersen |
-| 280 | 124 | Jason Burris |
-| 281 | 124 | Tina |
-| 282 | 123 | Jackie Tupper |
+| 279 | 125 | Jackie Tupper |
+| 280 | 125 | Ariel Gundersen |
+| 281 | 124 | Jason Burris |
+| 282 | 124 | Tina |
 | 283 | 123 | Nikki EightySixed |
 | 284 | 121 | Tango Sierra |
 | 285 | 121 | Monique Frantz |
 | 286 | 120 | Al Smith Jr |
-| 287 | 120 | Kevin Mccoy |
-| 288 | 120 | Keisha Robinson |
+| 287 | 120 | Keisha Robinson |
+| 288 | 120 | Kevin Mccoy |
 | 289 | 120 | Charity Hauser |
 | 290 | 120 | Elizabeth Cornelius |
 | 291 | 120 | Happy |
@@ -604,52 +604,52 @@
 | 596 | 52 | andee |
 | 597 | 52 | Saucy Lifter |
 | 598 | 52 | Carmina Truoiolo |
-| 599 | 52 | Rosalie Call Kehlenbeck |
-| 600 | 52 | Sherry Ann |
-| 601 | 52 | Sunny Tiltbuilder |
-| 602 | 52 | Amber Marie Lacey |
-| 603 | 52 | Diane Byrd |
-| 604 | 51 | CK Hancock |
-| 605 | 51 | Mama G |
-| 606 | 51 | Tashamonique Puckey |
-| 607 | 51 | Brian Giddens |
-| 608 | 51 | Amy D Coble |
+| 599 | 52 | Diane Byrd |
+| 600 | 52 | Amber Marie Lacey |
+| 601 | 52 | Rosalie Call Kehlenbeck |
+| 602 | 52 | Sherry Ann |
+| 603 | 52 | Sunny Tiltbuilder |
+| 604 | 51 | Amy D Coble |
+| 605 | 51 | Brian Giddens |
+| 606 | 51 | Mama G |
+| 607 | 51 | Tashamonique Puckey |
+| 608 | 51 | Amber Carpenter |
 | 609 | 51 | Billy Pittman |
 | 610 | 51 | Audrey Bickford |
 | 611 | 51 | Twisty Matchfit |
 | 612 | 51 | Samantha Bugg Stitcher |
-| 613 | 51 | Amber Carpenter |
+| 613 | 51 | CK Hancock |
 | 614 | 51 | Amber-leigh Williams |
 | 615 | 51 | Rebekah Holland |
 | 616 | 50 | Whitt |
-| 617 | 50 | Ssirkus |
-| 618 | 50 | Charith Lorelle Watson |
+| 617 | 50 | Charith Lorelle Watson |
+| 618 | 50 | Ssirkus |
 | 619 | 50 | Angie Rose |
 | 620 | 50 | Ashley Jones |
-| 621 | 50 | Jennifer Wymer |
-| 622 | 50 | Teea Makensi Meyer |
+| 621 | 50 | Teea Makensi Meyer |
+| 622 | 50 | Jennifer Wymer |
 | 623 | 50 | Cory Lynn |
-| 624 | 49 | R.w. Buck |
-| 625 | 49 | Hillary Frank |
-| 626 | 49 | Dayna Messer-Thelen |
-| 627 | 49 | Kris Dusza Dodus |
+| 624 | 49 | Roger Kirksey |
+| 625 | 49 | R.w. Buck |
+| 626 | 49 | Hillary Frank |
+| 627 | 49 | Dayna Messer-Thelen |
 | 628 | 49 | Tetrismastrr |
-| 629 | 49 | Po Yee |
-| 630 | 49 | rebel4lyfe |
-| 631 | 48 | Chelsea Frye |
-| 632 | 48 | Ollie |
-| 633 | 48 | Terie Safrit |
-| 634 | 48 | Krystle McCaslin |
-| 635 | 48 | Hoppy Gridder |
-| 636 | 48 | Brian Little |
-| 637 | 48 | Funky Blockmatch |
-| 638 | 48 | Zaniya Brown |
-| 639 | 48 | Katelynn Hunt |
-| 640 | 48 | Dizzy Dropzone |
-| 641 | 48 | Squared |
-| 642 | 47 | Christina Reid |
-| 643 | 47 | Gluten Gremlin |
-| 644 | 47 | Roger Kirksey |
+| 629 | 49 | Kris Dusza Dodus |
+| 630 | 49 | Po Yee |
+| 631 | 49 | rebel4lyfe |
+| 632 | 48 | Chelsea Frye |
+| 633 | 48 | Ollie |
+| 634 | 48 | Terie Safrit |
+| 635 | 48 | Krystle McCaslin |
+| 636 | 48 | Hoppy Gridder |
+| 637 | 48 | Zaniya Brown |
+| 638 | 48 | Brian Little |
+| 639 | 48 | Funky Blockmatch |
+| 640 | 48 | Katelynn Hunt |
+| 641 | 48 | Dizzy Dropzone |
+| 642 | 48 | Squared |
+| 643 | 47 | Christina Reid |
+| 644 | 47 | Gluten Gremlin |
 | 645 | 47 | Mellzey |
 | 646 | 47 | Christina Whitehead |
 | 647 | 47 | Emily |
