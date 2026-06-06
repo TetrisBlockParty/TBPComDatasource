@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 16:49:18 UTC
+# Standings for team4 as of 2026-06-06 16:50:17 UTC
 
 **Total Participants:** 1056
 
@@ -57,13 +57,13 @@
 | 49 | 628 | Victoria Ver |
 | 50 | 628 | Adam J Leong |
 | 51 | 620 | Fancy Crasher |
-| 52 | 607 | Jeremy Lopez |
-| 53 | 600 | Chaz Duncan |
-| 54 | 594 | Маркус Вік |
-| 55 | 561 | Leigh Pierce |
-| 56 | 559 | Lynn Grimes |
-| 57 | 546 | Bubbly Twistpiece |
-| 58 | 541 | Chummy Rollzone |
+| 52 | 614 | Chummy Rollzone |
+| 53 | 607 | Jeremy Lopez |
+| 54 | 600 | Chaz Duncan |
+| 55 | 594 | Маркус Вік |
+| 56 | 561 | Leigh Pierce |
+| 57 | 559 | Lynn Grimes |
+| 58 | 546 | Bubbly Twistpiece |
 | 59 | 530 | Jonathan Hewitt |
 | 60 | 510 | Krysten Danielle Richard |
 | 61 | 500 | Michele |
@@ -109,8 +109,8 @@
 | 101 | 295 | Thomasena Eady Reid |
 | 102 | 291 | Jesse Olive |
 | 103 | 286 | Andrew Dang |
-| 104 | 267 | Cranky Towerbuilder |
-| 105 | 266 | Boldy Rumbler |
+| 104 | 271 | Boldy Rumbler |
+| 105 | 267 | Cranky Towerbuilder |
 | 106 | 265 | Taz |
 | 107 | 259 | Jessica Peyton |
 | 108 | 258 | Jojo Ann |
@@ -534,10 +534,10 @@
 | 526 | 49 | Mrsjcraw18 |
 | 527 | 49 | Daffney Starr |
 | 528 | 48 | Lilo |
-| 529 | 48 | ŁųŁų |
-| 530 | 47 | Brick House |
-| 531 | 47 | 94Blockhead |
-| 532 | 47 | Sonya |
+| 529 | 48 | Sonya |
+| 530 | 48 | ŁųŁų |
+| 531 | 47 | Brick House |
+| 532 | 47 | 94Blockhead |
 | 533 | 47 | Candiecane324 |
 | 534 | 47 | Bonique Bier |
 | 535 | 47 | Alizabeth Garcia |
