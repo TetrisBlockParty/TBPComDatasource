@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 05:54:16 UTC
+# Standings for team4 as of 2026-06-06 05:54:38 UTC
 
 **Total Participants:** 842
 
@@ -167,29 +167,29 @@
 | 159 | 112 | matt |
 | 160 | 112 | Janet Sanfilippo Sullivan |
 | 161 | 111 | GeorgeButts |
-| 162 | 109 | Taz |
-| 163 | 109 | Rose Anna Safi |
-| 164 | 109 | Joab Gonzalez |
-| 165 | 108 | Debby Ruof |
+| 162 | 109 | Joab Gonzalez |
+| 163 | 109 | Taz |
+| 164 | 109 | Rose Anna Safi |
+| 165 | 108 | Lush Fitblock |
 | 166 | 108 | Juvon SupaShawdii Brooks |
-| 167 | 108 | Lush Fitblock |
+| 167 | 108 | Debby Ruof |
 | 168 | 107 | June Hoffman |
 | 169 | 105 | kellie |
 | 170 | 105 | Name |
 | 171 | 104 | Tawna Curry |
 | 172 | 104 | Justin Ballard |
 | 173 | 103 | Boldy Rumbler |
-| 174 | 101 | Zesty Twistpiece |
-| 175 | 100 | CorieBe |
-| 176 | 99 | Dapper Strikerpiece |
-| 177 | 99 | Shelby |
-| 178 | 98 | Shanna Fragen |
-| 179 | 98 | Taisha Beasley |
-| 180 | 98 | Tina Thomas |
-| 181 | 98 | Jacqueline Arce |
-| 182 | 97 | Fancy Tilefall |
-| 183 | 97 | Tarsha Thomas-Martinez |
-| 184 | 97 | Samara Garcia |
+| 174 | 102 | Samara Garcia |
+| 175 | 101 | Zesty Twistpiece |
+| 176 | 100 | CorieBe |
+| 177 | 99 | Dapper Strikerpiece |
+| 178 | 99 | Shelby |
+| 179 | 98 | Tina Thomas |
+| 180 | 98 | Jacqueline Arce |
+| 181 | 98 | Shanna Fragen |
+| 182 | 98 | Taisha Beasley |
+| 183 | 97 | Fancy Tilefall |
+| 184 | 97 | Tarsha Thomas-Martinez |
 | 185 | 96 | JuicyJuice |
 | 186 | 95 | Goofy Riser |
 | 187 | 95 | Маркус Вік |
@@ -199,15 +199,15 @@
 | 191 | 91 | Tricia Motika Cowan |
 | 192 | 91 | Dominique Melendez |
 | 193 | 91 | Dayna Arthurs |
-| 194 | 90 | Justin Michael |
+| 194 | 90 | Quiomarie Cotto |
 | 195 | 90 | bollo |
-| 196 | 90 | Quiomarie Cotto |
-| 197 | 89 | Betsy Froemming |
+| 196 | 90 | Justin Michael |
+| 197 | 89 | Gorica Prusina |
 | 198 | 89 | Chirpy Snapclear |
-| 199 | 89 | Waxboss |
-| 200 | 89 | Gorica Prusina |
-| 201 | 87 | Limbo |
-| 202 | 87 | LastBoi |
+| 199 | 89 | Betsy Froemming |
+| 200 | 89 | Waxboss |
+| 201 | 87 | LastBoi |
+| 202 | 87 | Limbo |
 | 203 | 86 | Rachel Lemos |
 | 204 | 85 | Kari Smith |
 | 205 | 84 | Rae Saunders |
@@ -479,45 +479,45 @@
 | 471 | 33 | Zippy Snaplink |
 | 472 | 33 | Garden Girlie |
 | 473 | 32 | KingCas |
-| 474 | 32 | Hyper Snaplink |
-| 475 | 32 | Poppy |
-| 476 | 31 | Trang Nguyen |
-| 477 | 31 | Sweetfire |
-| 478 | 31 | Alex Dawn |
+| 474 | 32 | Poppy |
+| 475 | 32 | Hyper Snaplink |
+| 476 | 31 | Breezy Brickline |
+| 477 | 31 | Alex Dawn |
+| 478 | 31 | Sweetfire |
 | 479 | 31 | Волна Бог |
-| 480 | 31 | Breezy Blockzone |
-| 481 | 31 | Blessedmom865 |
-| 482 | 31 | Breezy Brickline |
-| 483 | 31 | Destiny Georgia Reeves Beller |
-| 484 | 31 | Natalie Ohrtman Strand |
-| 485 | 30 | Shepreneur Sade |
-| 486 | 30 | Lmg |
-| 487 | 30 | Flashy Shatterer |
-| 488 | 30 | Dexter Hammond Jr |
-| 489 | 30 | Katie Lynn Petit |
+| 480 | 31 | Monkey |
+| 481 | 31 | Breezy Blockzone |
+| 482 | 31 | Blessedmom865 |
+| 483 | 31 | Trang Nguyen |
+| 484 | 31 | Destiny Georgia Reeves Beller |
+| 485 | 31 | Natalie Ohrtman Strand |
+| 486 | 30 | Jennifer Brucz |
+| 487 | 30 | Dexter Hammond Jr |
+| 488 | 30 | Lmg |
+| 489 | 30 | Flashy Shatterer |
 | 490 | 30 | Loopy Wipeout |
-| 491 | 30 | Lateasha Wildman |
-| 492 | 30 | Peezy_419 |
-| 493 | 30 | Jesus Fuentes III |
-| 494 | 30 | Will E Ayala |
-| 495 | 30 | Wanda Simmons |
-| 496 | 30 | Lala |
-| 497 | 30 | Ash Gribble |
-| 498 | 30 | Jessica Lestage |
-| 499 | 30 | Koren Heersink |
-| 500 | 30 | Jennifer Brucz |
-| 501 | 29 | Mrs.J2013 |
-| 502 | 29 | Miranda Brown |
-| 503 | 29 | Rhonda Dowling |
+| 491 | 30 | Katie Lynn Petit |
+| 492 | 30 | Lateasha Wildman |
+| 493 | 30 | Shepreneur Sade |
+| 494 | 30 | Peezy_419 |
+| 495 | 30 | Jesus Fuentes III |
+| 496 | 30 | Will E Ayala |
+| 497 | 30 | Wanda Simmons |
+| 498 | 30 | Lala |
+| 499 | 30 | Ash Gribble |
+| 500 | 30 | Jessica Lestage |
+| 501 | 30 | Koren Heersink |
+| 502 | 29 | Rhonda Dowling |
+| 503 | 29 | Miranda Brown |
 | 504 | 29 | Funky Twistpiece |
 | 505 | 29 | Kayla Haddenham |
-| 506 | 29 | Happy Filler |
-| 507 | 29 | Michael Cruz |
-| 508 | 29 | Daniel Lossman |
-| 509 | 29 | Shauna Davis |
-| 510 | 29 | ŁųŁų |
-| 511 | 29 | Andrea Dre Lomeli |
-| 512 | 29 | Monkey |
+| 506 | 29 | Mrs.J2013 |
+| 507 | 29 | Happy Filler |
+| 508 | 29 | Michael Cruz |
+| 509 | 29 | Daniel Lossman |
+| 510 | 29 | Shauna Davis |
+| 511 | 29 | ŁųŁų |
+| 512 | 29 | Andrea Dre Lomeli |
 | 513 | 29 | Alicia Cook |
 | 514 | 28 | JP |
 | 515 | 28 | Brandi Gray |
