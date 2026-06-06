@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 07:06:16 UTC
+# Standings for team4 as of 2026-06-06 07:06:39 UTC
 
 **Total Participants:** 869
 
@@ -236,28 +236,28 @@
 | 228 | 81 | Stasia |
 | 229 | 81 | Deva Marie Barber |
 | 230 | 81 | Janae Harris |
-| 231 | 80 | Maurice DeJean |
-| 232 | 80 | Krista Diaz |
-| 233 | 80 | Danny Frausto |
+| 231 | 80 | Krista Diaz |
+| 232 | 80 | Danny Frausto |
+| 233 | 80 | Magz |
 | 234 | 80 | Josh Keith Travierso |
-| 235 | 80 | Magz |
-| 236 | 79 | Has2brat |
-| 237 | 79 | Courtney Niichole |
+| 235 | 80 | Maurice DeJean |
+| 236 | 79 | Courtney Niichole |
+| 237 | 79 | Has2brat |
 | 238 | 79 | Joyce Myers |
 | 239 | 79 | Gean DeJesus |
-| 240 | 78 | Stef |
-| 241 | 78 | Futrell Brent |
-| 242 | 77 | Lady |
+| 240 | 78 | Futrell Brent |
+| 241 | 78 | Kelly Howland |
+| 242 | 78 | Stef |
 | 243 | 77 | Chirpy Link |
-| 244 | 76 | Piece of Cake |
-| 245 | 76 | Spicy Peach |
-| 246 | 76 | All knowing |
-| 247 | 76 | EvoKitty |
-| 248 | 75 | Chonda OhanaMomma Michelle |
-| 249 | 75 | Sarah Perry Cook |
-| 250 | 75 | Bonnie Powell |
-| 251 | 74 | Rita Ann |
-| 252 | 74 | Kelly Howland |
+| 244 | 77 | Lady |
+| 245 | 76 | Piece of Cake |
+| 246 | 76 | Spicy Peach |
+| 247 | 76 | All knowing |
+| 248 | 76 | EvoKitty |
+| 249 | 75 | Chonda OhanaMomma Michelle |
+| 250 | 75 | Sarah Perry Cook |
+| 251 | 75 | Bonnie Powell |
+| 252 | 74 | Rita Ann |
 | 253 | 73 | Troy Zanelli |
 | 254 | 73 | Jenn Fitzgerald |
 | 255 | 71 | King |
@@ -267,10 +267,10 @@
 | 259 | 70 | Henry Lanier |
 | 260 | 70 | ManOfSteel |
 | 261 | 70 | Karen Small |
-| 262 | 69 | Miwa |
+| 262 | 69 | Wacky Brick |
 | 263 | 69 | Khylee DarDar |
 | 264 | 69 | Dizzy Slammer |
-| 265 | 69 | Wacky Brick |
+| 265 | 69 | Miwa |
 | 266 | 68 | Smiley Gridzone |
 | 267 | 68 | Keys Tome |
 | 268 | 68 | Erika Seaton |
