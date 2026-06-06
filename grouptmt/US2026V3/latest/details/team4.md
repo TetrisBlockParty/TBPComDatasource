@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 07:59:16 UTC
+# Standings for team4 as of 2026-06-06 08:00:16 UTC
 
 **Total Participants:** 884
 
@@ -67,8 +67,8 @@
 | 59 | 400 | Amber Doyle |
 | 60 | 399 | Erin Figone |
 | 61 | 395 | Melissa WC |
-| 62 | 392 | Blayne Kole |
-| 63 | 392 | Kay |
+| 62 | 392 | Kay |
+| 63 | 392 | Blayne Kole |
 | 64 | 389 | Ning Quiambao |
 | 65 | 383 | Crissy Hoffman |
 | 66 | 378 | Lisa Garcia |
@@ -105,9 +105,9 @@
 | 97 | 200 | Leah Gorsuch |
 | 98 | 197 | Slimm |
 | 99 | 195 | Sean Mccleary |
-| 100 | 194 | Chiquita Blue |
+| 100 | 194 | Lisa lisa |
 | 101 | 194 | Debby Ruof |
-| 102 | 194 | Lisa lisa |
+| 102 | 194 | Chiquita Blue |
 | 103 | 193 | Tiffany Bunker-Hill |
 | 104 | 192 | Gorica Prusina |
 | 105 | 184 | Giggly Tilt |
@@ -120,19 +120,19 @@
 | 112 | 177 | Tammy June |
 | 113 | 174 | Kimyatta Cavin |
 | 114 | 169 | Tiffany Smith |
-| 115 | 167 | Damon Gaston |
-| 116 | 167 | Spicy Chicken |
+| 115 | 167 | Spicy Chicken |
+| 116 | 167 | Damon Gaston |
 | 117 | 166 | Aramat |
-| 118 | 160 | Kitsune Bi |
+| 118 | 160 | Tipsy Builderline |
 | 119 | 160 | Littlebrat |
-| 120 | 160 | Tipsy Builderline |
+| 120 | 160 | Kitsune Bi |
 | 121 | 159 | QueenLi86 |
 | 122 | 159 | iiPurgeV2 |
 | 123 | 155 | RotatedWrongAgain |
 | 124 | 155 | Shayna Vaigneur-Hall |
 | 125 | 154 | No Time |
-| 126 | 153 | Brandy Lynn |
-| 127 | 153 | Laguya |
+| 126 | 153 | Laguya |
+| 127 | 153 | Brandy Lynn |
 | 128 | 152 | Dazzle Dragon |
 | 129 | 150 | gabs |
 | 130 | 149 | Daryn Elliott |
@@ -146,13 +146,13 @@
 | 138 | 137 | Devinlee Brown |
 | 139 | 137 | Shelby |
 | 140 | 137 | Jasmine Marie |
-| 141 | 134 | ariel |
-| 142 | 134 | Loony Rotater |
-| 143 | 133 | Shawntae Mccary |
-| 144 | 133 | Janet Sanfilippo Sullivan |
-| 145 | 129 | Brainbabe |
-| 146 | 129 | Chilly Pivot |
-| 147 | 129 | Simone |
+| 141 | 134 | Loony Rotater |
+| 142 | 134 | ariel |
+| 143 | 133 | Janet Sanfilippo Sullivan |
+| 144 | 133 | Shawntae Mccary |
+| 145 | 129 | Simone |
+| 146 | 129 | Brainbabe |
+| 147 | 129 | Chilly Pivot |
 | 148 | 129 | Lani |
 | 149 | 129 | Ryan Paul Clark-Ramsey |
 | 150 | 128 | Crystal Hammonds |
@@ -199,11 +199,11 @@
 | 191 | 100 | Loopy Clusterline |
 | 192 | 100 | CorieBe |
 | 193 | 99 | Dapper Strikerpiece |
-| 194 | 98 | Jacqueline Arce |
-| 195 | 98 | Shanna Fragen |
-| 196 | 98 | Tina Thomas |
-| 197 | 97 | Fancy Tilefall |
-| 198 | 97 | Kelly Howland |
+| 194 | 99 | Kelly Howland |
+| 195 | 98 | Jacqueline Arce |
+| 196 | 98 | Shanna Fragen |
+| 197 | 98 | Tina Thomas |
+| 198 | 97 | Fancy Tilefall |
 | 199 | 97 | Tarsha Thomas-Martinez |
 | 200 | 96 | JuicyJuice |
 | 201 | 95 | Маркус Вік |
@@ -606,44 +606,44 @@
 | 598 | 25 | Kendall Rhodie |
 | 599 | 25 | chapis |
 | 600 | 25 | Jada Jordyn Campbell |
-| 601 | 25 | Jim Stewart |
-| 602 | 25 | Lacie Powers |
-| 603 | 25 | Brandon Bedenbaugh |
-| 604 | 25 | Travis McKinnon |
-| 605 | 24 | Amanda Serrano Ruffner |
-| 606 | 24 | Snappy Glidebuilder |
-| 607 | 24 | Katiana Gonzalez |
-| 608 | 24 | Love GH |
-| 609 | 24 | Ferlyz |
-| 610 | 24 | George Palacios |
-| 611 | 24 | Socorro Arredondo |
-| 612 | 24 | Tony Clark |
-| 613 | 24 | Ja'Net Riley |
-| 614 | 24 | Khiem Hernandez |
+| 601 | 25 | Travis McKinnon |
+| 602 | 25 | Brandon Bedenbaugh |
+| 603 | 25 | Lacie Powers |
+| 604 | 25 | Jim Stewart |
+| 605 | 24 | Ja'Net Riley |
+| 606 | 24 | Tony Clark |
+| 607 | 24 | Khiem Hernandez |
+| 608 | 24 | Socorro Arredondo |
+| 609 | 24 | Amanda Serrano Ruffner |
+| 610 | 24 | Ferlyz |
+| 611 | 24 | Love GH |
+| 612 | 24 | Snappy Glidebuilder |
+| 613 | 24 | Katiana Gonzalez |
+| 614 | 24 | George Palacios |
 | 615 | 23 | Silly Fallzone |
-| 616 | 22 | Cranky Twisterfit |
-| 617 | 22 | taya |
-| 618 | 22 | Erica Pompey |
+| 616 | 22 | Erica Pompey |
+| 617 | 22 | Jonelle Jacobs |
+| 618 | 22 | taya |
 | 619 | 22 | Shakita Moore-Bernard |
 | 620 | 22 | Magda Lene |
 | 621 | 22 | Lisa Pie |
-| 622 | 22 | Jonelle Jacobs |
+| 622 | 22 | Cranky Twisterfit |
 | 623 | 22 | Bold Tumbler |
-| 624 | 22 | Leslie |
-| 625 | 22 | Breezy Wife |
-| 626 | 22 | Audrianna Skaff |
-| 627 | 22 | Pap337 |
-| 628 | 21 | LilithMoon |
-| 629 | 21 | Dizzy |
-| 630 | 21 | Brandi Sauer |
-| 631 | 21 | my my |
-| 632 | 21 | Swanky Matchfit |
-| 633 | 21 | Joyce Hampton |
+| 624 | 22 | Joyce Hampton |
+| 625 | 22 | Leslie |
+| 626 | 22 | Breezy Wife |
+| 627 | 22 | Audrianna Skaff |
+| 628 | 22 | Pap337 |
+| 629 | 21 | LilithMoon |
+| 630 | 21 | Dizzy |
+| 631 | 21 | Brandi Sauer |
+| 632 | 21 | my my |
+| 633 | 21 | Swanky Matchfit |
 | 634 | 21 | SandyEva |
 | 635 | 20 | Misti Rich |
-| 636 | 20 | Deanne Silverdahl |
-| 637 | 20 | Margie Thomas |
-| 638 | 20 | Jeremy Barry |
+| 636 | 20 | Margie Thomas |
+| 637 | 20 | Jeremy Barry |
+| 638 | 20 | Deanne Silverdahl |
 | 639 | 20 | Robert Crow |
 | 640 | 20 | Kissyfurr |
 | 641 | 20 | Joha Mldo Castillo |
