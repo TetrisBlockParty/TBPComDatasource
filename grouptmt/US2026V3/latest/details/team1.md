@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 22:50:40 UTC
+# Standings for team1 as of 2026-06-06 22:51:17 UTC
 
 **Total Participants:** 1198
 
@@ -105,7 +105,7 @@
 | 97 | 418 | Weeze |
 | 98 | 401 | Shell Lewis |
 | 99 | 400 | Jessica Carter |
-| 100 | 396 | Moomoo |
+| 100 | 397 | Moomoo |
 | 101 | 394 | Big Tina |
 | 102 | 394 | ELM |
 | 103 | 391 | Sarah Marie |
