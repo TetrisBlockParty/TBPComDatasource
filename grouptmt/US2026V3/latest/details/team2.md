@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 16:54:16 UTC
+# Standings for team2 as of 2026-06-06 16:54:41 UTC
 
 **Total Participants:** 1264
 
@@ -511,68 +511,68 @@
 | 503 | 62 | Holly Huval |
 | 504 | 62 | Chilly Surge |
 | 505 | 62 | Lively Twisterfit |
-| 506 | 62 | LadyDeath |
-| 507 | 62 | Amy Walker |
+| 506 | 62 | Amy Walker |
+| 507 | 62 | LadyDeath |
 | 508 | 61 | Jessica Perkins |
 | 509 | 61 | Swanky Fitline |
 | 510 | 61 | Bubbly Dash |
-| 511 | 61 | Dame Smith |
-| 512 | 61 | Glitzy Matchclear |
-| 513 | 60 | Snippy Shifter |
-| 514 | 60 | Tonya Greger |
-| 515 | 60 | Adam Latin |
-| 516 | 60 | Tony Medina |
-| 517 | 60 | Camilo Moreno |
-| 518 | 60 | Speedy Gridder |
-| 519 | 60 | Dawn Kroptavich |
-| 520 | 60 | Emily Carns |
-| 521 | 60 | Dapper Riser |
-| 522 | 60 | Jamin |
-| 523 | 60 | Julie Alexander Sykes |
-| 524 | 60 | Tamara Whiteley |
-| 525 | 60 | Yari |
-| 526 | 59 | April Addis |
-| 527 | 59 | Sandra Rotton Bragg |
-| 528 | 59 | Lisa Allen Frisk |
-| 529 | 59 | Michael Delozier |
-| 530 | 59 | Bethany Nestor |
-| 531 | 59 | Lee Leonard |
-| 532 | 59 | WestieMom |
+| 511 | 61 | Glitzy Matchclear |
+| 512 | 61 | Dame Smith |
+| 513 | 60 | Dapper Riser |
+| 514 | 60 | Speedy Gridder |
+| 515 | 60 | Jamin |
+| 516 | 60 | Julie Alexander Sykes |
+| 517 | 60 | Tony Medina |
+| 518 | 60 | Adam Latin |
+| 519 | 60 | Tonya Greger |
+| 520 | 60 | Tamara Whiteley |
+| 521 | 60 | Yari |
+| 522 | 60 | Snippy Shifter |
+| 523 | 60 | Emily Carns |
+| 524 | 60 | Dawn Kroptavich |
+| 525 | 60 | Camilo Moreno |
+| 526 | 59 | Lee Leonard |
+| 527 | 59 | Michael Delozier |
+| 528 | 59 | Sandra Rotton Bragg |
+| 529 | 59 | April Addis |
+| 530 | 59 | WestieMom |
+| 531 | 59 | Lisa Allen Frisk |
+| 532 | 59 | LaicoosBargains Ln |
 | 533 | 59 | Sillyk |
-| 534 | 59 | LaicoosBargains Ln |
-| 535 | 59 | Staci Walker |
-| 536 | 59 | Elliott Mikila |
+| 534 | 59 | Staci Walker |
+| 535 | 59 | Elliott Mikila |
+| 536 | 59 | Bethany Nestor |
 | 537 | 59 | Angelica Jelli Gillaspy |
 | 538 | 58 | Missy Savage-Justice |
 | 539 | 58 | Jolly Builderpiece |
 | 540 | 58 | Slinky Winder |
-| 541 | 57 | Jason P. Schwartz |
-| 542 | 57 | Hoppy Mover |
+| 541 | 57 | Hoppy Mover |
+| 542 | 57 | Jason P. Schwartz |
 | 543 | 57 | Poppy Strikerbuilder |
-| 544 | 56 | Joyce Galloway |
-| 545 | 56 | Joshua Hopkins |
-| 546 | 56 | Mouh Ity |
-| 547 | 56 | Gina Leal |
-| 548 | 56 | Layla Petroff |
-| 549 | 56 | Barb Kiser |
-| 550 | 56 | Joshua Dye |
-| 551 | 56 | Gina Louise Parker |
-| 552 | 55 | Muffin Popper |
+| 544 | 56 | Joshua Hopkins |
+| 545 | 56 | Joyce Galloway |
+| 546 | 56 | Natalie M. Arredondo |
+| 547 | 56 | Mouh Ity |
+| 548 | 56 | Gina Leal |
+| 549 | 56 | Layla Petroff |
+| 550 | 56 | Barb Kiser |
+| 551 | 56 | Joshua Dye |
+| 552 | 56 | Gina Louise Parker |
 | 553 | 55 | Beverly-Jo Peterson |
-| 554 | 55 | Misty McElroy |
-| 555 | 55 | Allison Peterson |
-| 556 | 55 | Buddy |
-| 557 | 55 | Wendy Durrence Jones |
+| 554 | 55 | Muffin Popper |
+| 555 | 55 | Misty McElroy |
+| 556 | 55 | Wendy Durrence Jones |
+| 557 | 55 | Silly Tiltbuilder |
 | 558 | 55 | Kayley |
-| 559 | 55 | Silly Tiltbuilder |
-| 560 | 55 | Natalie M. Arredondo |
-| 561 | 54 | Amber Wolf |
-| 562 | 54 | Cherica Taylor |
-| 563 | 54 | Britt |
-| 564 | 54 | Christina Nycol |
-| 565 | 54 | Cool Patternbuilder |
-| 566 | 54 | Sassy Patternblock |
-| 567 | 54 | Denita Kaherl |
+| 559 | 55 | Allison Peterson |
+| 560 | 55 | Buddy |
+| 561 | 54 | Denita Kaherl |
+| 562 | 54 | Amber Wolf |
+| 563 | 54 | Cherica Taylor |
+| 564 | 54 | Britt |
+| 565 | 54 | Christina Nycol |
+| 566 | 54 | Cool Patternbuilder |
+| 567 | 54 | Sassy Patternblock |
 | 568 | 53 | Hog Crankin |
 | 569 | 53 | Wacky Stack |
 | 570 | 53 | Jessica Spivey Cooper |
@@ -583,25 +583,25 @@
 | 575 | 52 | Chipper Spinzone |
 | 576 | 52 | Rosalie Call Kehlenbeck |
 | 577 | 52 | Julibeth Wells |
-| 578 | 52 | andee |
-| 579 | 52 | Sunny Tiltbuilder |
-| 580 | 52 | Saucy Lifter |
-| 581 | 52 | Sherry Ann |
+| 578 | 52 | Carmina Truoiolo |
+| 579 | 52 | andee |
+| 580 | 52 | Sunny Tiltbuilder |
+| 581 | 52 | Saucy Lifter |
 | 582 | 52 | Amber Marie Lacey |
-| 583 | 51 | Amy D Coble |
-| 584 | 51 | Amber Carpenter |
-| 585 | 51 | Amber-leigh Williams |
-| 586 | 51 | Carmina Truoiolo |
-| 587 | 51 | Mama G |
-| 588 | 51 | Rebekah Holland |
+| 583 | 52 | Sherry Ann |
+| 584 | 51 | Amy D Coble |
+| 585 | 51 | Tashamonique Puckey |
+| 586 | 51 | Billy Pittman |
+| 587 | 51 | Samantha Bugg Stitcher |
+| 588 | 51 | Twisty Matchfit |
 | 589 | 51 | Brian Giddens |
-| 590 | 51 | CK Hancock |
-| 591 | 51 | Samantha Bugg Stitcher |
-| 592 | 51 | Billy Pittman |
-| 593 | 51 | Tashamonique Puckey |
-| 594 | 51 | Twisty Matchfit |
-| 595 | 50 | Ashley Jones |
-| 596 | 50 | Brenda Zona |
+| 590 | 51 | Rebekah Holland |
+| 591 | 51 | CK Hancock |
+| 592 | 51 | Mama G |
+| 593 | 51 | Amber-leigh Williams |
+| 594 | 51 | Amber Carpenter |
+| 595 | 50 | Brenda Zona |
+| 596 | 50 | Ashley Jones |
 | 597 | 50 | Angie Rose |
 | 598 | 50 | Teea Makensi Meyer |
 | 599 | 50 | Ssirkus |
