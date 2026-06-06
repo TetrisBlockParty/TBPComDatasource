@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 19:40:18 UTC
+# Standings for team4 as of 2026-06-06 19:40:39 UTC
 
 **Total Participants:** 1121
 
@@ -210,7 +210,7 @@
 | 202 | 141 | Justin Michael |
 | 203 | 140 | adrian |
 | 204 | 139 | Jasmine Marie |
-| 205 | 138 | Lush Fitblock |
+| 205 | 139 | Lush Fitblock |
 | 206 | 138 | Cheery Risegrid |
 | 207 | 138 | Tina Thomas |
 | 208 | 137 | Shelby |
