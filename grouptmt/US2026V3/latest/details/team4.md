@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 23:00:41 UTC
+# Standings for team4 as of 2026-06-06 23:01:17 UTC
 
 **Total Participants:** 1190
 
@@ -517,42 +517,42 @@
 | 509 | 62 | Mar Mar |
 | 510 | 62 | Joyce Hampton |
 | 511 | 62 | YenSid |
-| 512 | 61 | Tasha Suzanne Prisbrey |
-| 513 | 61 | Lolita Nettles |
-| 514 | 61 | Missionary Meda |
-| 515 | 61 | Happy Filler |
-| 516 | 60 | Wanda Simmons |
-| 517 | 60 | Jessica Kelly |
-| 518 | 60 | Helen Bradley |
-| 519 | 60 | Rin |
-| 520 | 60 | George Marshburn |
-| 521 | 60 | Randy M Hatch |
-| 522 | 60 | DanceAngel |
-| 523 | 60 | Kristine Hj Han |
-| 524 | 60 | Uh Lesh Uh |
-| 525 | 60 | Brandon Bedenbaugh |
-| 526 | 60 | Anthony Magaraci |
-| 527 | 60 | Silly Fallzone |
-| 528 | 60 | Tiffy |
+| 512 | 61 | Maria Castillo |
+| 513 | 61 | Tasha Suzanne Prisbrey |
+| 514 | 61 | Lolita Nettles |
+| 515 | 61 | Missionary Meda |
+| 516 | 61 | Happy Filler |
+| 517 | 60 | Wanda Simmons |
+| 518 | 60 | Jessica Kelly |
+| 519 | 60 | Helen Bradley |
+| 520 | 60 | Rin |
+| 521 | 60 | George Marshburn |
+| 522 | 60 | Randy M Hatch |
+| 523 | 60 | DanceAngel |
+| 524 | 60 | Kristine Hj Han |
+| 525 | 60 | Uh Lesh Uh |
+| 526 | 60 | Brandon Bedenbaugh |
+| 527 | 60 | Anthony Magaraci |
+| 528 | 60 | Silly Fallzone |
 | 529 | 60 | aga |
-| 530 | 60 | Jeri Anne Stormo-Toman |
-| 531 | 60 | Chris Rowe |
-| 532 | 60 | Nerdy Brickster |
-| 533 | 59 | Stotty |
-| 534 | 59 | Tammy Lasseigne |
-| 535 | 59 | Anthony Kollar |
-| 536 | 59 | Gigi5 |
-| 537 | 59 | Yvette Johnson |
-| 538 | 59 | Jacinta Hooker-Brown |
-| 539 | 59 | Inez Nez |
-| 540 | 59 | Loyalty83 |
-| 541 | 59 | Capone |
-| 542 | 58 | Mc3003 |
+| 530 | 60 | Tiffy |
+| 531 | 60 | Jeri Anne Stormo-Toman |
+| 532 | 60 | Chris Rowe |
+| 533 | 60 | Nerdy Brickster |
+| 534 | 59 | Yvette Johnson |
+| 535 | 59 | Tammy Lasseigne |
+| 536 | 59 | Anthony Kollar |
+| 537 | 59 | Gigi5 |
+| 538 | 59 | Stotty |
+| 539 | 59 | Jacinta Hooker-Brown |
+| 540 | 59 | Inez Nez |
+| 541 | 59 | Loyalty83 |
+| 542 | 59 | Capone |
 | 543 | 58 | Holly Bramel |
 | 544 | 58 | Lana Tran |
 | 545 | 58 | Lisa Pie |
 | 546 | 58 | Kimberly Lusk |
-| 547 | 58 | Maria Castillo |
+| 547 | 58 | Mc3003 |
 | 548 | 58 | Jade Alley |
 | 549 | 57 | Plucky Shatterfit |
 | 550 | 57 | PerfectPieces |
