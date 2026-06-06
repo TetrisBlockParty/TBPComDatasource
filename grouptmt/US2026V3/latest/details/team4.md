@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 11:22:16 UTC
+# Standings for team4 as of 2026-06-06 11:22:38 UTC
 
 **Total Participants:** 938
 
@@ -25,8 +25,8 @@
 | 17 | 2444 | Daring Ziggy |
 | 18 | 1805 | Fruitpunch |
 | 19 | 1500 | Dana Rinaldi |
-| 20 | 1143 | Hanan Hana |
-| 21 | 1123 | Jackie Lucas |
+| 20 | 1322 | Jackie Lucas |
+| 21 | 1143 | Hanan Hana |
 | 22 | 1059 | Squirrel Donkey |
 | 23 | 1055 | Michele Walker |
 | 24 | 1038 | Tonya Brooks-Johnson |
@@ -53,8 +53,8 @@
 | 45 | 609 | Victoria Ver |
 | 46 | 600 | Caitlin Johnson |
 | 47 | 600 | Chaz Duncan |
-| 48 | 559 | Lynn Grimes |
-| 49 | 556 | Blayne Kole |
+| 48 | 566 | Blayne Kole |
+| 49 | 559 | Lynn Grimes |
 | 50 | 530 | Jonathan Hewitt |
 | 51 | 510 | Krysten Danielle Richard |
 | 52 | 505 | Fancy Crasher |
