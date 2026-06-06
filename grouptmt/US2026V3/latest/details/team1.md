@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 05:44:16 UTC
+# Standings for team1 as of 2026-06-06 05:44:39 UTC
 
 **Total Participants:** 873
 
@@ -150,10 +150,10 @@
 | 142 | 130 | Emily Wright |
 | 143 | 130 | Jessica Davis |
 | 144 | 127 | IThinkNot |
-| 145 | 126 | Cee Emm |
-| 146 | 125 | LaTonya Myers |
-| 147 | 125 | Kelli Couture |
-| 148 | 125 | Sean White |
+| 145 | 127 | Sean White |
+| 146 | 126 | Cee Emm |
+| 147 | 125 | LaTonya Myers |
+| 148 | 125 | Kelli Couture |
 | 149 | 124 | Queenie Perry |
 | 150 | 124 | Courtney Cicoria |
 | 151 | 124 | Byron Mario Cawthon |
@@ -166,49 +166,49 @@
 | 158 | 120 | Spicy Risepiece |
 | 159 | 119 | ELM |
 | 160 | 118 | Hasty Pivoty |
-| 161 | 113 | Rachel Zimmerman |
-| 162 | 112 | GamerQueenDS |
-| 163 | 111 | Mic Balew |
+| 161 | 116 | Nobles Brandon |
+| 162 | 113 | Rachel Zimmerman |
+| 163 | 112 | GamerQueenDS |
 | 164 | 111 | Shalena Marie Humphrey |
-| 165 | 111 | Lesley Brunkus Cianfaglione |
-| 166 | 110 | Atlantalindi |
-| 167 | 108 | Kimberly Linares Hernandez |
-| 168 | 105 | Ebony Waynes-robinson |
-| 169 | 105 | Latisha Fairley |
-| 170 | 105 | Lisa Fletcher |
-| 171 | 105 | LaShaun Stinson |
-| 172 | 105 | Katrina Ramey |
-| 173 | 105 | Angela R Wilson |
-| 174 | 104 | Brittnay Wright |
-| 175 | 104 | Frisky Fall |
+| 165 | 111 | Mic Balew |
+| 166 | 111 | Lesley Brunkus Cianfaglione |
+| 167 | 110 | Atlantalindi |
+| 168 | 108 | Kimberly Linares Hernandez |
+| 169 | 105 | Ebony Waynes-robinson |
+| 170 | 105 | Angela R Wilson |
+| 171 | 105 | Latisha Fairley |
+| 172 | 105 | LaShaun Stinson |
+| 173 | 105 | Katrina Ramey |
+| 174 | 105 | Lisa Fletcher |
+| 175 | 104 | Brittnay Wright |
 | 176 | 104 | Ahvae Lee |
-| 177 | 103 | Kelvin Cook |
-| 178 | 102 | Bre Poston |
+| 177 | 104 | Frisky Fall |
+| 178 | 103 | Kelvin Cook |
 | 179 | 102 | Dawn L Washington-Feuquay |
-| 180 | 101 | Boldy Liner |
-| 181 | 100 | DaGuy |
-| 182 | 100 | Leavon Smith |
-| 183 | 100 | Cool Bridger |
-| 184 | 100 | Char |
-| 185 | 99 | Simone Bailey |
-| 186 | 99 | Andre Sanon |
-| 187 | 99 | 신재호 |
-| 188 | 97 | Shanell Thomas |
-| 189 | 96 | Melissa D. M. Hornsby |
-| 190 | 95 | Joana Thompson |
-| 191 | 95 | Nate Myers |
-| 192 | 94 | Lively Riserpiece |
-| 193 | 94 | Cece Fowler |
-| 194 | 94 | Rhonda Williams Warner |
-| 195 | 92 | Sanjuro |
-| 196 | 92 | Quirky Fallgrid |
-| 197 | 92 | The DUBZ |
-| 198 | 91 | Jack Vlasak |
-| 199 | 90 | Charlene Baltimore |
-| 200 | 88 | Ad Doctor |
-| 201 | 88 | QueenShay AllGood |
-| 202 | 88 | TT |
-| 203 | 87 | Nobles Brandon |
+| 180 | 102 | Bre Poston |
+| 181 | 101 | Boldy Liner |
+| 182 | 100 | Char |
+| 183 | 100 | Leavon Smith |
+| 184 | 100 | DaGuy |
+| 185 | 100 | Cool Bridger |
+| 186 | 99 | 신재호 |
+| 187 | 99 | Andre Sanon |
+| 188 | 99 | Simone Bailey |
+| 189 | 97 | Shanell Thomas |
+| 190 | 96 | Melissa D. M. Hornsby |
+| 191 | 95 | Joana Thompson |
+| 192 | 95 | Nate Myers |
+| 193 | 94 | Lively Riserpiece |
+| 194 | 94 | Cece Fowler |
+| 195 | 94 | Rhonda Williams Warner |
+| 196 | 92 | Sanjuro |
+| 197 | 92 | Quirky Fallgrid |
+| 198 | 92 | The DUBZ |
+| 199 | 91 | Jack Vlasak |
+| 200 | 90 | Charlene Baltimore |
+| 201 | 88 | Ad Doctor |
+| 202 | 88 | QueenShay AllGood |
+| 203 | 88 | TT |
 | 204 | 87 | Poppy Buildout |
 | 205 | 87 | Keke Ferguson |
 | 206 | 86 | krd |
@@ -347,43 +347,43 @@
 | 339 | 50 | Nisha Sunshine Jenkins |
 | 340 | 50 | Dion Gray |
 | 341 | 50 | Slinky Party |
-| 342 | 50 | Donna Payne |
-| 343 | 50 | Yazz |
+| 342 | 50 | Antoinette Jones |
+| 343 | 50 | Denell Sims |
 | 344 | 50 | Smiley Clearpiece |
 | 345 | 50 | Teresa Yanira Cepeda |
-| 346 | 50 | Antoinette Jones |
-| 347 | 50 | Denell Sims |
+| 346 | 50 | Donna Payne |
+| 347 | 50 | Yazz |
 | 348 | 50 | MsBobby Patrick |
-| 349 | 49 | Brittany Fells |
-| 350 | 49 | No_Other_Choice |
-| 351 | 49 | LexiiSamayaa |
-| 352 | 49 | Maribel Vasquez |
-| 353 | 49 | SnazzyIvy |
-| 354 | 49 | Speedy Stacky |
-| 355 | 48 | BYM4L |
-| 356 | 48 | Mommy Frank |
-| 357 | 48 | Slim Shedidthat |
-| 358 | 48 | Kahh |
+| 349 | 49 | Sabrina Wilkerson |
+| 350 | 49 | Speedy Stacky |
+| 351 | 49 | No_Other_Choice |
+| 352 | 49 | LexiiSamayaa |
+| 353 | 49 | Maribel Vasquez |
+| 354 | 49 | SnazzyIvy |
+| 355 | 49 | Brittany Fells |
+| 356 | 48 | Lynnette WheelerBushnell |
+| 357 | 48 | BYM4L |
+| 358 | 48 | Slim Shedidthat |
 | 359 | 48 | Wild Out Nai |
-| 360 | 48 | Lynnette WheelerBushnell |
+| 360 | 48 | Mommy Frank |
 | 361 | 48 | Clever Fitblock |
-| 362 | 48 | Comedian Prince Paul |
-| 363 | 47 | Sabrina Wilkerson |
-| 364 | 47 | Christopher Dreamsareality McEachin |
-| 365 | 47 | Calvin Green |
-| 366 | 47 | Derrius SeriousLee Burks |
-| 367 | 47 | Smiley Tilebuilder |
-| 368 | 47 | Poppy Twister |
-| 369 | 47 | Faith Armone |
-| 370 | 47 | Slinky Brickmatch |
-| 371 | 47 | Shameka Thrasher |
-| 372 | 47 | Kevin Turner |
+| 362 | 48 | Kahh |
+| 363 | 48 | Comedian Prince Paul |
+| 364 | 47 | Faith Armone |
+| 365 | 47 | Derrius SeriousLee Burks |
+| 366 | 47 | Christopher Dreamsareality McEachin |
+| 367 | 47 | Calvin Green |
+| 368 | 47 | Smiley Tilebuilder |
+| 369 | 47 | Kevin Turner |
+| 370 | 47 | Shameka Thrasher |
+| 371 | 47 | Poppy Twister |
+| 372 | 47 | Slinky Brickmatch |
 | 373 | 46 | Maria Baez Medina |
 | 374 | 46 | Anthony |
-| 375 | 46 | Chris Nelson |
+| 375 | 46 | Ja'mice Nelson |
 | 376 | 46 | David A Alvino |
-| 377 | 46 | Ja'mice Nelson |
-| 378 | 46 | Felicia Dungey |
+| 377 | 46 | Felicia Dungey |
+| 378 | 46 | Chris Nelson |
 | 379 | 46 | Kimberly Anderson |
 | 380 | 45 | Glitzy Clusterer |
 | 381 | 45 | Erika Windom |
@@ -862,15 +862,15 @@
 | 854 | 6 | Frilly Riserbuilder |
 | 855 | 6 | Frances Davis |
 | 856 | 5 | Duckey |
-| 857 | 5 | Chill Linkroll |
+| 857 | 5 | Tipsy Builderline |
 | 858 | 5 | Zappy Riser |
 | 859 | 5 | Hasty Brickzone |
 | 860 | 5 | Zappy Clearfit |
 | 861 | 5 | Rieshelda Marie White |
 | 862 | 5 | the guy |
 | 863 | 5 | Tito Divyn |
-| 864 | 5 | Derek Beverly |
-| 865 | 5 | Logan Frost |
+| 864 | 5 | Logan Frost |
+| 865 | 5 | Chill Linkroll |
 | 866 | 5 | Stephanie Zuniga Tullock |
 | 867 | 5 | Annette DeLoatch Thompson |
 | 868 | 5 | DirtiestofMikes |
@@ -878,7 +878,7 @@
 | 870 | 5 | Jennifer Moore |
 | 871 | 5 | VERA DAME |
 | 872 | 5 | Temeshia Brooks Washington |
-| 873 | 5 | Tipsy Builderline |
+| 873 | 5 | Derek Beverly |
 
 ---
 *Standings created by tournaments datasource generation tool*
