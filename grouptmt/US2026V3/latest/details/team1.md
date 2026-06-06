@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 05:04:38 UTC
+# Standings for team1 as of 2026-06-06 05:05:16 UTC
 
 **Total Participants:** 850
 
@@ -106,7 +106,7 @@
 | 98 | 208 | Nerdy Snapfall |
 | 99 | 206 | Tiana Moore |
 | 100 | 199 | Asani CHumba |
-| 101 | 196 | MamaBear |
+| 101 | 197 | MamaBear |
 | 102 | 195 | Weeze |
 | 103 | 193 | Brave Clearbuilder |
 | 104 | 186 | Denise B |
@@ -152,58 +152,58 @@
 | 144 | 124 | Byron Mario Cawthon |
 | 145 | 121 | D'Andra Stewart |
 | 146 | 121 | Tiana Monique |
-| 147 | 120 | Jai |
-| 148 | 120 | Nerdy Blockpiece |
+| 147 | 120 | Nerdy Blockpiece |
+| 148 | 120 | Jai |
 | 149 | 120 | Spicy Risepiece |
 | 150 | 119 | ELM |
 | 151 | 118 | Hasty Pivoty |
 | 152 | 116 | Eartha Brown |
 | 153 | 115 | Saucy Tile |
-| 154 | 113 | Rachel Zimmerman |
-| 155 | 112 | GamerQueenDS |
-| 156 | 111 | Lesley Brunkus Cianfaglione |
-| 157 | 111 | Shalena Marie Humphrey |
-| 158 | 111 | Mic Balew |
-| 159 | 110 | Atlantalindi |
-| 160 | 108 | Sean White |
-| 161 | 108 | Kimberly Linares Hernandez |
-| 162 | 105 | Ebony Waynes-robinson |
-| 163 | 105 | Katrina Ramey |
-| 164 | 105 | LaShaun Stinson |
-| 165 | 105 | Lisa Fletcher |
-| 166 | 104 | Frisky Fall |
-| 167 | 104 | Brittnay Wright |
+| 154 | 115 | Joey Albright |
+| 155 | 113 | Rachel Zimmerman |
+| 156 | 112 | GamerQueenDS |
+| 157 | 111 | Lesley Brunkus Cianfaglione |
+| 158 | 111 | Shalena Marie Humphrey |
+| 159 | 111 | Mic Balew |
+| 160 | 110 | Atlantalindi |
+| 161 | 108 | Sean White |
+| 162 | 108 | Kimberly Linares Hernandez |
+| 163 | 105 | Ebony Waynes-robinson |
+| 164 | 105 | Katrina Ramey |
+| 165 | 105 | LaShaun Stinson |
+| 166 | 105 | Lisa Fletcher |
+| 167 | 104 | Frisky Fall |
 | 168 | 104 | Ahvae Lee |
-| 169 | 103 | Kelvin Cook |
-| 170 | 102 | Dawn L Washington-Feuquay |
-| 171 | 102 | Bre Poston |
-| 172 | 101 | Boldy Liner |
-| 173 | 100 | Joey Albright |
-| 174 | 100 | Cool Bridger |
-| 175 | 100 | Leavon Smith |
-| 176 | 100 | Char |
+| 169 | 104 | Brittnay Wright |
+| 170 | 103 | Kelvin Cook |
+| 171 | 102 | Dawn L Washington-Feuquay |
+| 172 | 102 | Bre Poston |
+| 173 | 101 | Boldy Liner |
+| 174 | 100 | Leavon Smith |
+| 175 | 100 | Char |
+| 176 | 100 | Cool Bridger |
 | 177 | 99 | 신재호 |
 | 178 | 99 | Simone Bailey |
 | 179 | 97 | Shanell Thomas |
 | 180 | 96 | Stephen Providenti |
 | 181 | 95 | Joana Thompson |
 | 182 | 95 | Nate Myers |
-| 183 | 94 | Cece Fowler |
-| 184 | 94 | Lively Riserpiece |
+| 183 | 94 | Lively Riserpiece |
+| 184 | 94 | Cece Fowler |
 | 185 | 93 | Melissa D. M. Hornsby |
 | 186 | 92 | The DUBZ |
 | 187 | 92 | Quirky Fallgrid |
 | 188 | 91 | Jack Vlasak |
 | 189 | 90 | Charlene Baltimore |
-| 190 | 88 | Ad Doctor |
-| 191 | 88 | QueenShay AllGood |
-| 192 | 88 | TT |
+| 190 | 88 | QueenShay AllGood |
+| 191 | 88 | TT |
+| 192 | 88 | Ad Doctor |
 | 193 | 88 | Angela R Wilson |
 | 194 | 87 | Poppy Buildout |
 | 195 | 87 | Nobles Brandon |
 | 196 | 86 | krd |
-| 197 | 86 | Sanjuro |
-| 198 | 86 | Chandler Magee |
+| 197 | 86 | Chandler Magee |
+| 198 | 86 | Sanjuro |
 | 199 | 85 | Skippy |
 | 200 | 85 | Simmone T. Kadiri |
 | 201 | 84 | Ciera Peace |
@@ -251,10 +251,10 @@
 | 243 | 70 | Cheeky Pop |
 | 244 | 70 | Kaleisha Smith |
 | 245 | 70 | Tishauna Virgo |
-| 246 | 69 | Chantelle Lee |
-| 247 | 69 | C Lo Green |
-| 248 | 69 | CJ Robinson |
-| 249 | 68 | MamushiOh |
+| 246 | 70 | MamushiOh |
+| 247 | 69 | Chantelle Lee |
+| 248 | 69 | C Lo Green |
+| 249 | 69 | CJ Robinson |
 | 250 | 67 | Laurie Napper |
 | 251 | 67 | Travis Davison |
 | 252 | 67 | Steve Reno |
@@ -418,30 +418,30 @@
 | 410 | 39 | Lexx Robins |
 | 411 | 39 | Elizabeth Green |
 | 412 | 39 | JesusSaves 😇 |
-| 413 | 39 | Amy Lynn Leifheit |
-| 414 | 39 | Boldy Pivoty |
-| 415 | 39 | Diva shrock |
-| 416 | 39 | Shakuria Cortia Burney |
-| 417 | 39 | ChunLi |
-| 418 | 38 | Kahliah Baker |
-| 419 | 38 | hope |
-| 420 | 38 | Earl Williams |
-| 421 | 38 | Bold Clusterer |
-| 422 | 38 | Anthony |
-| 423 | 38 | Manda Allen |
-| 424 | 38 | Kayel Good |
-| 425 | 37 | Jojo M |
-| 426 | 37 | Elizabeth Vega Coreano |
-| 427 | 37 | Lootch |
+| 413 | 39 | Boldy Pivoty |
+| 414 | 39 | ChunLi |
+| 415 | 39 | Shakuria Cortia Burney |
+| 416 | 39 | Diva shrock |
+| 417 | 39 | Amy Lynn Leifheit |
+| 418 | 38 | Kayel Good |
+| 419 | 38 | Manda Allen |
+| 420 | 38 | Anthony |
+| 421 | 38 | Earl Williams |
+| 422 | 38 | Bold Clusterer |
+| 423 | 38 | hope |
+| 424 | 38 | Kahliah Baker |
+| 425 | 37 | Lootch |
+| 426 | 37 | De'Nell Edwards |
+| 427 | 37 | Elizabeth Vega Coreano |
 | 428 | 37 | Wacky Stackbuilder |
-| 429 | 37 | Lil T |
-| 430 | 36 | Gerold Folk Haddock |
-| 431 | 36 | Dennis Ripley |
-| 432 | 36 | Xrandomx |
-| 433 | 36 | Meluhnee |
-| 434 | 36 | Just2Play$ |
-| 435 | 36 | Jess |
-| 436 | 36 | De'Nell Edwards |
+| 429 | 37 | Jojo M |
+| 430 | 37 | Lil T |
+| 431 | 36 | Gerold Folk Haddock |
+| 432 | 36 | Dennis Ripley |
+| 433 | 36 | Xrandomx |
+| 434 | 36 | Meluhnee |
+| 435 | 36 | Just2Play$ |
+| 436 | 36 | Jess |
 | 437 | 35 | Shannon Carriger |
 | 438 | 35 | Tracy Feyler |
 | 439 | 35 | Jjhandsome |

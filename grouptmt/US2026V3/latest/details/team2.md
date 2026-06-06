@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 05:04:38 UTC
+# Standings for team2 as of 2026-06-06 05:05:16 UTC
 
 **Total Participants:** 998
 
@@ -814,62 +814,62 @@
 | 806 | 14 | Amanda Bailey |
 | 807 | 14 | Symmy Norton |
 | 808 | 14 | COWBOY |
-| 809 | 14 | ReiRei |
-| 810 | 14 | Poppy Zonepiece |
+| 809 | 14 | Poppy Zonepiece |
+| 810 | 14 | Buffy Diane Blake |
 | 811 | 14 | Jenny |
 | 812 | 14 | Anthony Kordich |
-| 813 | 14 | Randi Moore |
-| 814 | 14 | MiMi’26 |
-| 815 | 14 | Christopher Pulley |
-| 816 | 14 | BlockBreaker |
-| 817 | 14 | Lively Liner |
-| 818 | 14 | Witty Riser |
-| 819 | 14 | Buffy Diane Blake |
+| 813 | 14 | Witty Riser |
+| 814 | 14 | Lively Liner |
+| 815 | 14 | BlockBreaker |
+| 816 | 14 | Randi Moore |
+| 817 | 14 | ReiRei |
+| 818 | 14 | MiMi’26 |
+| 819 | 14 | Christopher Pulley |
 | 820 | 13 | Lexi Chouinard |
 | 821 | 13 | Dreamy Wipepiece |
 | 822 | 13 | Jill Gelhausen |
-| 823 | 13 | Quirky Gridclear |
-| 824 | 13 | Christina Michelle Wilson |
-| 825 | 13 | bigdog |
-| 826 | 13 | Sean Rippa |
-| 827 | 13 | latte |
-| 828 | 13 | David Skelton |
-| 829 | 13 | Cristy Ayala |
-| 830 | 12 | T-Rex Ricky Lee Dieumegarde Jr. |
-| 831 | 12 | Jay King |
-| 832 | 12 | Samantha Morrison |
-| 833 | 12 | Johnathon Mendiola |
-| 834 | 12 | Squyrt |
-| 835 | 12 | Giddy Chiseler |
-| 836 | 12 | Betty Muise |
-| 837 | 12 | Sindy08 |
-| 838 | 12 | Lu Wallace |
+| 823 | 13 | bigdog |
+| 824 | 13 | Sean Rippa |
+| 825 | 13 | latte |
+| 826 | 13 | David Skelton |
+| 827 | 13 | Cristy Ayala |
+| 828 | 13 | Christina Michelle Wilson |
+| 829 | 13 | Quirky Gridclear |
+| 830 | 12 | Samantha Morrison |
+| 831 | 12 | Squyrt |
+| 832 | 12 | Giddy Chiseler |
+| 833 | 12 | Jay King |
+| 834 | 12 | T-Rex Ricky Lee Dieumegarde Jr. |
+| 835 | 12 | Witty Clearbuilder |
+| 836 | 12 | Johnathon Mendiola |
+| 837 | 12 | Betty Muise |
+| 838 | 12 | Sindy08 |
 | 839 | 12 | Mary |
-| 840 | 12 | Beej Blake |
-| 841 | 12 | Terie Safrit |
-| 842 | 12 | Quirky Brickroll |
-| 843 | 11 | Yany |
-| 844 | 11 | Jumpy Linkroll |
-| 845 | 11 | Robert E Tracy |
-| 846 | 11 | Nicki McGill |
-| 847 | 11 | Josephina |
-| 848 | 11 | Tami Kay Williams Watson |
-| 849 | 11 | Jeffrey Smith |
-| 850 | 11 | Gino Positano |
-| 851 | 11 | Purpleroyalty11 |
-| 852 | 11 | Witty Clearbuilder |
-| 853 | 11 | Violet Olivares |
-| 854 | 11 | Mona Wagner |
-| 855 | 11 | Amanda Neal |
-| 856 | 10 | Cassafrass |
-| 857 | 10 | Nova |
+| 840 | 12 | Lu Wallace |
+| 841 | 12 | Beej Blake |
+| 842 | 12 | Terie Safrit |
+| 843 | 12 | Quirky Brickroll |
+| 844 | 11 | Gino Positano |
+| 845 | 11 | Yany |
+| 846 | 11 | Jumpy Linkroll |
+| 847 | 11 | Robert E Tracy |
+| 848 | 11 | Nicki McGill |
+| 849 | 11 | Josephina |
+| 850 | 11 | Tami Kay Williams Watson |
+| 851 | 11 | Jeffrey Smith |
+| 852 | 11 | Amanda Neal |
+| 853 | 11 | Mona Wagner |
+| 854 | 11 | Violet Olivares |
+| 855 | 11 | Purpleroyalty11 |
+| 856 | 10 | Donna Casey |
+| 857 | 10 | Laura Turner |
 | 858 | 10 | Mona Smith |
-| 859 | 10 | Donna Casey |
-| 860 | 10 | Tito Garcia |
-| 861 | 10 | SarahandAaron Prim |
-| 862 | 10 | Jennifer Chapel |
-| 863 | 10 | Twisty Snapclear |
-| 864 | 10 | Laura Turner |
+| 859 | 10 | Nova |
+| 860 | 10 | Cassafrass |
+| 861 | 10 | Tito Garcia |
+| 862 | 10 | SarahandAaron Prim |
+| 863 | 10 | Jennifer Chapel |
+| 864 | 10 | Twisty Snapclear |
 | 865 | 10 | Leigh Wilkerson |
 | 866 | 10 | Audrey Wood |
 | 867 | 10 | Talyn Domingues |
