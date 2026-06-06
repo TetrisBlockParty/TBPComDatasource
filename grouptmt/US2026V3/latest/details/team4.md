@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 05:50:40 UTC
+# Standings for team4 as of 2026-06-06 05:51:16 UTC
 
 **Total Participants:** 842
 
@@ -32,8 +32,8 @@
 | 24 | 846 | Cal Renee |
 | 25 | 820 | Blind Bette |
 | 26 | 788 | Snippy Grid |
-| 27 | 740 | Kathy Brookins |
-| 28 | 740 | Beee |
+| 27 | 740 | Beee |
+| 28 | 740 | Kathy Brookins |
 | 29 | 738 | Shaina Sharp |
 | 30 | 735 | Gloria Nunley Trussell |
 | 31 | 735 | Charlie Lewis |
@@ -58,8 +58,8 @@
 | 50 | 461 | Kayla Fuentes |
 | 51 | 458 | vag1974 |
 | 52 | 440 | Jewelz |
-| 53 | 419 | Caitlyn Wang |
-| 54 | 419 | Sweet Stacker |
+| 53 | 419 | Sweet Stacker |
+| 54 | 419 | Caitlyn Wang |
 | 55 | 402 | Nick Graber |
 | 56 | 400 | Amber Doyle |
 | 57 | 395 | Melissa WC |
@@ -113,37 +113,37 @@
 | 105 | 167 | Damon Gaston |
 | 106 | 166 | Aramat |
 | 107 | 162 | Hen |
-| 108 | 160 | Kitsune Bi |
-| 109 | 160 | Littlebrat |
+| 108 | 160 | Littlebrat |
+| 109 | 160 | Kitsune Bi |
 | 110 | 159 | iiPurgeV2 |
 | 111 | 157 | QueenLi86 |
-| 112 | 155 | RotatedWrongAgain |
-| 113 | 155 | Shayna Vaigneur-Hall |
+| 112 | 155 | Shayna Vaigneur-Hall |
+| 113 | 155 | RotatedWrongAgain |
 | 114 | 154 | No Time |
-| 115 | 153 | Brandy Lynn |
-| 116 | 153 | Laguya |
+| 115 | 153 | Laguya |
+| 116 | 153 | Brandy Lynn |
 | 117 | 152 | Dazzle Dragon |
-| 118 | 149 | Daryn Elliott |
-| 119 | 149 | Danny Ortiz |
+| 118 | 149 | Danny Ortiz |
+| 119 | 149 | Daryn Elliott |
 | 120 | 148 | Megan Vick |
 | 121 | 146 | Becky McCool |
 | 122 | 145 | Trice Stevenson |
 | 123 | 144 | Yesenia Castro Monreal |
 | 124 | 143 | Ashley Mcdonald |
-| 125 | 142 | gabs |
-| 126 | 142 | Scamp Jones |
+| 125 | 142 | Scamp Jones |
+| 126 | 142 | gabs |
 | 127 | 140 | Jackie Polanco |
-| 128 | 137 | Devinlee Brown |
-| 129 | 137 | Jasmine Marie |
+| 128 | 137 | Jasmine Marie |
+| 129 | 137 | Devinlee Brown |
 | 130 | 134 | Loony Rotater |
 | 131 | 134 | ariel |
 | 132 | 133 | Shawntae Mccary |
 | 133 | 132 | Spicy Chicken |
 | 134 | 132 | Slimm |
-| 135 | 129 | Ryan Paul Clark-Ramsey |
-| 136 | 129 | Simone |
-| 137 | 129 | Lani |
-| 138 | 129 | Brainbabe |
+| 135 | 129 | Simone |
+| 136 | 129 | Brainbabe |
+| 137 | 129 | Ryan Paul Clark-Ramsey |
+| 138 | 129 | Lani |
 | 139 | 128 | Crystal Hammonds |
 | 140 | 127 | Tipsy Builderline |
 | 141 | 126 | Alyson M Kehler |
@@ -152,11 +152,11 @@
 | 144 | 124 | Chilly Pivot |
 | 145 | 123 | Cherrypir05 |
 | 146 | 121 | Jazzy Gridder |
-| 147 | 120 | Shiny Brick |
-| 148 | 120 | Glamorous Gracey |
+| 147 | 120 | Glamorous Gracey |
+| 148 | 120 | Shiny Brick |
 | 149 | 119 | EL Booger |
-| 150 | 118 | Cheery Risegrid |
-| 151 | 118 | Goofy Fall |
+| 150 | 118 | Goofy Fall |
+| 151 | 118 | Cheery Risegrid |
 | 152 | 117 | BCO22 |
 | 153 | 116 | Dee Wizz |
 | 154 | 116 | WeeWooWee |
@@ -169,14 +169,14 @@
 | 161 | 109 | Taz |
 | 162 | 109 | Joab Gonzalez |
 | 163 | 109 | Rose Anna Safi |
-| 164 | 108 | Juvon SupaShawdii Brooks |
-| 165 | 108 | Debby Ruof |
-| 166 | 108 | Lush Fitblock |
+| 164 | 108 | Debby Ruof |
+| 165 | 108 | Lush Fitblock |
+| 166 | 108 | Juvon SupaShawdii Brooks |
 | 167 | 107 | June Hoffman |
-| 168 | 105 | kellie |
-| 169 | 105 | Name |
-| 170 | 104 | Justin Ballard |
-| 171 | 104 | Tawna Curry |
+| 168 | 105 | Name |
+| 169 | 105 | kellie |
+| 170 | 104 | Tawna Curry |
+| 171 | 104 | Justin Ballard |
 | 172 | 103 | Boldy Rumbler |
 | 173 | 101 | Zesty Twistpiece |
 | 174 | 100 | Janet Sanfilippo Sullivan |
@@ -185,39 +185,39 @@
 | 177 | 99 | Dapper Strikerpiece |
 | 178 | 98 | Jacqueline Arce |
 | 179 | 98 | Shanna Fragen |
-| 180 | 98 | Taisha Beasley |
-| 181 | 98 | Tina Thomas |
+| 180 | 98 | Tina Thomas |
+| 181 | 98 | Taisha Beasley |
 | 182 | 97 | Fancy Tilefall |
-| 183 | 97 | Samara Garcia |
-| 184 | 97 | Tarsha Thomas-Martinez |
+| 183 | 97 | Tarsha Thomas-Martinez |
+| 184 | 97 | Samara Garcia |
 | 185 | 96 | JuicyJuice |
 | 186 | 95 | Маркус Вік |
 | 187 | 95 | Goofy Riser |
 | 188 | 94 | Reina Pagan |
 | 189 | 93 | farfromlocal |
 | 190 | 92 | Homie |
-| 191 | 91 | Tricia Motika Cowan |
-| 192 | 91 | Dominique Melendez |
-| 193 | 91 | Dayna Arthurs |
-| 194 | 90 | bollo |
-| 195 | 90 | Justin Michael |
-| 196 | 90 | Quiomarie Cotto |
+| 191 | 91 | Dayna Arthurs |
+| 192 | 91 | Tricia Motika Cowan |
+| 193 | 91 | Dominique Melendez |
+| 194 | 90 | Justin Michael |
+| 195 | 90 | Quiomarie Cotto |
+| 196 | 90 | bollo |
 | 197 | 89 | Chirpy Snapclear |
-| 198 | 89 | Waxboss |
-| 199 | 89 | Betsy Froemming |
+| 198 | 89 | Betsy Froemming |
+| 199 | 89 | Waxboss |
 | 200 | 87 | Limbo |
 | 201 | 87 | LastBoi |
 | 202 | 86 | Rachel Lemos |
 | 203 | 85 | Kari Smith |
 | 204 | 84 | Rae Saunders |
 | 205 | 83 | Rosy Perez |
-| 206 | 83 | Jennifer Fisher Franklin |
-| 207 | 83 | MrLoner Stoner |
-| 208 | 82 | Iforget |
-| 209 | 82 | Gorica Prusina |
-| 210 | 82 | Luna |
-| 211 | 82 | Bon Jovi |
-| 212 | 82 | Codey Haffner |
+| 206 | 83 | MrLoner Stoner |
+| 207 | 83 | Jennifer Fisher Franklin |
+| 208 | 82 | Bon Jovi |
+| 209 | 82 | Luna |
+| 210 | 82 | Gorica Prusina |
+| 211 | 82 | Codey Haffner |
+| 212 | 82 | Iforget |
 | 213 | 81 | Lively Cascadebuilder |
 | 214 | 81 | Janae Harris |
 | 215 | 81 | Stasia |
