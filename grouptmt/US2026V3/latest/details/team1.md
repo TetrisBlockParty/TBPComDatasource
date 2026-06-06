@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 11:24:17 UTC
+# Standings for team1 as of 2026-06-06 11:24:38 UTC
 
 **Total Participants:** 965
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 19000 | Ariel |
 | 2 | 5000 | Tyeina Johnson |
-| 3 | 4859 | Dyane Leah Ware |
+| 3 | 4901 | Dyane Leah Ware |
 | 4 | 4569 | Death by SnuSnu |
 | 5 | 4495 | Tracy Cohen |
 | 6 | 4339 | Carrie English |
@@ -871,55 +871,55 @@
 | 863 | 10 | Megan Payette |
 | 864 | 10 | Hasty Brickzone |
 | 865 | 10 | Saucy Linkgrid |
-| 866 | 10 | Alisha Dawson Crouch |
-| 867 | 10 | Meeee |
-| 868 | 10 | Cornelius Neal |
-| 869 | 10 | Damien Fonseca |
-| 870 | 10 | Nikiya |
+| 866 | 10 | Kim Holzmiller |
+| 867 | 10 | Cornelius Neal |
+| 868 | 10 | Damien Fonseca |
+| 869 | 10 | Nikiya |
+| 870 | 10 | Meeee |
 | 871 | 10 | Mikemike Zonethree |
-| 872 | 10 | Missy Myvette |
-| 873 | 10 | POOH |
+| 872 | 10 | POOH |
+| 873 | 10 | Missy Myvette |
 | 874 | 10 | Christian Whittaker |
-| 875 | 10 | Anthony D Holmes |
-| 876 | 10 | Sherri Keys |
-| 877 | 10 | Happy Blockpiece |
-| 878 | 10 | Manda Pecora |
-| 879 | 10 | Shawn Himes |
-| 880 | 10 | Renee Marshall |
-| 881 | 10 | Nope Young |
-| 882 | 10 | Hoppy Rumbler |
-| 883 | 10 | OneBuke FollowMe |
-| 884 | 10 | Happymama |
-| 885 | 10 | Tina Criam |
-| 886 | 10 | Wacky Riserpiece |
-| 887 | 10 | Marshall Davis |
-| 888 | 10 | Anntionette Sotire |
-| 889 | 10 | Mark Steven Pichler |
-| 890 | 9 | Dana |
-| 891 | 9 | Tanesha Ga'sFinest Corbett |
-| 892 | 9 | Kortney Adams |
-| 893 | 9 | Sherry D Singleton |
-| 894 | 9 | Wacky Towerer |
-| 895 | 9 | Mars |
-| 896 | 9 | John Lovato |
-| 897 | 9 | ummm |
-| 898 | 9 | Brika Brika |
-| 899 | 9 | Robyn Ellis |
-| 900 | 9 | Clifford Petroske |
-| 901 | 9 | Jasmine Hariston-Estis |
-| 902 | 9 | Noni |
-| 903 | 8 | Brenda Brogden |
-| 904 | 8 | Macho Lewis |
-| 905 | 8 | Ferocity |
-| 906 | 8 | Kim Holzmiller |
-| 907 | 8 | Chinkey Overit |
-| 908 | 8 | Shea Ladynick Henderson |
-| 909 | 8 | jus_ry |
-| 910 | 8 | Chevonne Huggins |
-| 911 | 8 | Groovy Riseclear |
-| 912 | 8 | Nicole Coko Thomas |
-| 913 | 8 | Teena K Macon |
-| 914 | 8 | Teresa Bean |
+| 875 | 10 | Alisha Dawson Crouch |
+| 876 | 10 | Anthony D Holmes |
+| 877 | 10 | Sherri Keys |
+| 878 | 10 | Happy Blockpiece |
+| 879 | 10 | Manda Pecora |
+| 880 | 10 | Shawn Himes |
+| 881 | 10 | Renee Marshall |
+| 882 | 10 | Nope Young |
+| 883 | 10 | Hoppy Rumbler |
+| 884 | 10 | OneBuke FollowMe |
+| 885 | 10 | Happymama |
+| 886 | 10 | Tina Criam |
+| 887 | 10 | Wacky Riserpiece |
+| 888 | 10 | Marshall Davis |
+| 889 | 10 | Anntionette Sotire |
+| 890 | 10 | Mark Steven Pichler |
+| 891 | 9 | Sherry D Singleton |
+| 892 | 9 | Dana |
+| 893 | 9 | Tanesha Ga'sFinest Corbett |
+| 894 | 9 | Kortney Adams |
+| 895 | 9 | Wacky Towerer |
+| 896 | 9 | Mars |
+| 897 | 9 | John Lovato |
+| 898 | 9 | Noni |
+| 899 | 9 | Jasmine Hariston-Estis |
+| 900 | 9 | ummm |
+| 901 | 9 | Clifford Petroske |
+| 902 | 9 | Robyn Ellis |
+| 903 | 9 | Brika Brika |
+| 904 | 8 | Teresa Bean |
+| 905 | 8 | Teena K Macon |
+| 906 | 8 | Chevonne Huggins |
+| 907 | 8 | Macho Lewis |
+| 908 | 8 | Brenda Brogden |
+| 909 | 8 | Ferocity |
+| 910 | 8 | Chinkey Overit |
+| 911 | 8 | Shea Ladynick Henderson |
+| 912 | 8 | jus_ry |
+| 913 | 8 | Groovy Riseclear |
+| 914 | 8 | Nicole Coko Thomas |
 | 915 | 8 | Rixo Blax |
 | 916 | 8 | Chill Tumbler |
 | 917 | 8 | Nerdy Twistline |

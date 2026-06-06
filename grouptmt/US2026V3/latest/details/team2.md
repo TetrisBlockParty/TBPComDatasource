@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 11:24:17 UTC
+# Standings for team2 as of 2026-06-06 11:24:38 UTC
 
 **Total Participants:** 1111
 
@@ -117,7 +117,7 @@
 | 109 | 278 | Flashy Twistline |
 | 110 | 275 | Bubbly Strikerpiece |
 | 111 | 274 | Sarah Griffey |
-| 112 | 261 | Gabriella Humphreys |
+| 112 | 270 | Gabriella Humphreys |
 | 113 | 259 | Bon Lynn |
 | 114 | 258 | Erin Thomas |
 | 115 | 253 | Hilliary Beyer |
