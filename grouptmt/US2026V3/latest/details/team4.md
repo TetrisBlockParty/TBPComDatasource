@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 11:06:16 UTC
+# Standings for team4 as of 2026-06-06 11:06:40 UTC
 
 **Total Participants:** 934
 
@@ -93,8 +93,8 @@
 | 85 | 301 | Маркус Вік |
 | 86 | 300 | Genag |
 | 87 | 294 | Hen |
-| 88 | 283 | Jesse Olive |
-| 89 | 279 | Bubbly Twistpiece |
+| 88 | 285 | Bubbly Twistpiece |
+| 89 | 283 | Jesse Olive |
 | 90 | 271 | Kim |
 | 91 | 267 | Cranky Towerbuilder |
 | 92 | 259 | Jessica Peyton |

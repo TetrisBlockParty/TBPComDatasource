@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 11:06:16 UTC
+# Standings for team2 as of 2026-06-06 11:06:40 UTC
 
 **Total Participants:** 1109
 
@@ -63,8 +63,8 @@
 | 55 | 660 | Julie Trede Amerson |
 | 56 | 659 | Marie Luciano |
 | 57 | 629 | Dane Marko |
-| 58 | 614 | Deborah Boyce Minor |
-| 59 | 614 | Block Dog |
+| 58 | 614 | Block Dog |
+| 59 | 614 | Deborah Boyce Minor |
 | 60 | 592 | Brandon Link |
 | 61 | 588 | Kellie Sharp Godfrey |
 | 62 | 586 | Betty Barrett |
@@ -80,16 +80,16 @@
 | 72 | 468 | Amy Gale |
 | 73 | 461 | Ricardo Ewart |
 | 74 | 451 | Marquita Toliver |
-| 75 | 449 | Mikki Torres |
-| 76 | 449 | Poppy |
+| 75 | 449 | Poppy |
+| 76 | 449 | Mikki Torres |
 | 77 | 432 | Mirr Lulu |
 | 78 | 428 | Loopy Cascadepiece |
 | 79 | 425 | Amanda Sikes |
 | 80 | 408 | Marquetta Johnson |
-| 81 | 405 | Judy Long |
-| 82 | 405 | Kaycie Shaffer |
-| 83 | 400 | Smashanator |
-| 84 | 400 | Allie Bug |
+| 81 | 405 | Kaycie Shaffer |
+| 82 | 405 | Judy Long |
+| 83 | 400 | Allie Bug |
+| 84 | 400 | Smashanator |
 | 85 | 390 | La chulis |
 | 86 | 389 | Kimberly Cowan |
 | 87 | 377 | Nawang Nawang |
@@ -101,8 +101,8 @@
 | 93 | 335 | MaddieCherie |
 | 94 | 328 | Tim Tim |
 | 95 | 325 | Amy Gregg |
-| 96 | 319 | Shannon Wilson |
-| 97 | 319 | Michelle Rich Burkhart |
+| 96 | 319 | Michelle Rich Burkhart |
+| 97 | 319 | Shannon Wilson |
 | 98 | 317 | Ruby Sandberg |
 | 99 | 315 | Milad Arzani |
 | 100 | 312 | Le Sandy |
@@ -112,8 +112,8 @@
 | 104 | 299 | Giddy Slamdrop |
 | 105 | 294 | Vistabrat |
 | 106 | 280 | Mom |
-| 107 | 279 | James Ward |
-| 108 | 279 | Renee Freeman Jacobson |
+| 107 | 279 | Renee Freeman Jacobson |
+| 108 | 279 | James Ward |
 | 109 | 278 | Flashy Twistline |
 | 110 | 275 | Bubbly Strikerpiece |
 | 111 | 274 | Sarah Griffey |
