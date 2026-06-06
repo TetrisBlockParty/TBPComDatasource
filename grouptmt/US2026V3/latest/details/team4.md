@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 16:14:17 UTC
+# Standings for team4 as of 2026-06-06 16:14:38 UTC
 
 **Total Participants:** 1044
 
@@ -91,8 +91,8 @@
 | 83 | 356 | Tanita Jobe |
 | 84 | 353 | Hen |
 | 85 | 347 | Nikki Fuller Johnson |
-| 86 | 346 | Alexis Cor |
-| 87 | 343 | GeorgeButts |
+| 86 | 346 | GeorgeButts |
+| 87 | 346 | Alexis Cor |
 | 88 | 333 | Alexandria Frazier |
 | 89 | 332 | RotatedWrongAgain |
 | 90 | 330 | Chummy Rollzone |

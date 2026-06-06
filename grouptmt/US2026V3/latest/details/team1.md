@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 16:14:17 UTC
+# Standings for team1 as of 2026-06-06 16:14:38 UTC
 
 **Total Participants:** 1055
 
@@ -133,7 +133,7 @@
 | 125 | 240 | Rayya Kiser |
 | 126 | 237 | Leebo Slice |
 | 127 | 236 | Nutty Spinblock |
-| 128 | 231 | Moomoo |
+| 128 | 233 | Moomoo |
 | 129 | 227 | Chantelle Lee |
 | 130 | 227 | Po Marley |
 | 131 | 226 | Denise B |
