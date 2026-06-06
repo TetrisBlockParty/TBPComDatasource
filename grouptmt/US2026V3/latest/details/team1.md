@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 01:28:15 UTC
+# Standings for team1 as of 2026-06-06 01:28:37 UTC
 
 **Total Participants:** 681
 
@@ -61,28 +61,28 @@
 | 53 | 237 | Leebo Slice |
 | 54 | 228 | Cassidy Butler |
 | 55 | 224 | Alana Renee |
-| 56 | 221 | Allison Baxter |
-| 57 | 215 | Abraham Espaillat |
-| 58 | 214 | Po Marley |
-| 59 | 212 | KenpachisGirl |
-| 60 | 209 | Gotcha |
-| 61 | 208 | Nerdy Snapfall |
-| 62 | 206 | Tiana Moore |
-| 63 | 202 | Spicy Balancer |
-| 64 | 199 | Chirpy Corner |
-| 65 | 196 | Kimberly Hernandez |
-| 66 | 195 | Weeze |
-| 67 | 195 | Songne Arif |
-| 68 | 193 | Brave Clearbuilder |
-| 69 | 185 | Teddy Davis |
-| 70 | 184 | Voice |
-| 71 | 183 | SPNLover24 |
-| 72 | 182 | Jon Gathers |
+| 56 | 222 | Jon Gathers |
+| 57 | 221 | Allison Baxter |
+| 58 | 215 | Abraham Espaillat |
+| 59 | 214 | Po Marley |
+| 60 | 212 | KenpachisGirl |
+| 61 | 209 | Gotcha |
+| 62 | 208 | Nerdy Snapfall |
+| 63 | 206 | Tiana Moore |
+| 64 | 202 | Spicy Balancer |
+| 65 | 199 | Chirpy Corner |
+| 66 | 196 | Kimberly Hernandez |
+| 67 | 195 | Weeze |
+| 68 | 195 | Songne Arif |
+| 69 | 193 | Brave Clearbuilder |
+| 70 | 185 | Teddy Davis |
+| 71 | 184 | Voice |
+| 72 | 183 | SPNLover24 |
 | 73 | 177 | Chris Sladoje |
 | 74 | 174 | Zachary Colegrove |
 | 75 | 173 | Jason Mungin |
-| 76 | 166 | Tarnisha Neicy Jones |
-| 77 | 166 | Denise B |
+| 76 | 166 | Denise B |
+| 77 | 166 | Tarnisha Neicy Jones |
 | 78 | 165 | Davionte DaeDae Hopson-Rodriguez |
 | 79 | 160 | Zippy Lifter |
 | 80 | 159 | Asani CHumba |
@@ -92,8 +92,8 @@
 | 84 | 147 | David Fuentes |
 | 85 | 147 | MACHETEEDDIE513 |
 | 86 | 146 | Curtis T Cirno |
-| 87 | 140 | Sara Meri |
-| 88 | 140 | Felicia Cain |
+| 87 | 140 | Felicia Cain |
+| 88 | 140 | Sara Meri |
 | 89 | 140 | Ann Chung |
 | 90 | 139 | Todd C. Clemens |
 | 91 | 139 | Chenell Gillard |
@@ -103,8 +103,8 @@
 | 95 | 135 | Amber Wilson |
 | 96 | 132 | Robyn Caldwell |
 | 97 | 132 | Mimi 1.0 |
-| 98 | 130 | Lashaunda |
-| 99 | 130 | Emily Wright |
+| 98 | 130 | Emily Wright |
+| 99 | 130 | Lashaunda |
 | 100 | 126 | Cee Emm |
 | 101 | 125 | Kelli Couture |
 | 102 | 121 | D'Andra Stewart |
@@ -115,11 +115,11 @@
 | 107 | 111 | Shalena Marie Humphrey |
 | 108 | 111 | Lesley Brunkus Cianfaglione |
 | 109 | 110 | Atlantalindi |
-| 110 | 107 | Rachel Zimmerman |
-| 111 | 107 | TBABYJ |
+| 110 | 107 | TBABYJ |
+| 111 | 107 | Rachel Zimmerman |
 | 112 | 105 | Katrina Ramey |
-| 113 | 104 | Frisky Fall |
-| 114 | 104 | Brittnay Wright |
+| 113 | 104 | Brittnay Wright |
+| 114 | 104 | Frisky Fall |
 | 115 | 102 | Dawn L Washington-Feuquay |
 | 116 | 101 | Boldy Liner |
 | 117 | 100 | Jessica Carter |
