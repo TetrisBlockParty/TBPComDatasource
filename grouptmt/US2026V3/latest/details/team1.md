@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 14:54:16 UTC
+# Standings for team1 as of 2026-06-06 14:54:38 UTC
 
 **Total Participants:** 1027
 
@@ -179,12 +179,12 @@
 | 171 | 149 | Cee Emm |
 | 172 | 149 | Lively Riserpiece |
 | 173 | 147 | MACHETEEDDIE513 |
-| 174 | 146 | BlackQueen105 |
-| 175 | 146 | Jai |
-| 176 | 145 | Latisha Fairley |
-| 177 | 143 | Sammie Walker |
-| 178 | 143 | BULLSEYE |
-| 179 | 143 | IThinkNot |
+| 174 | 146 | IThinkNot |
+| 175 | 146 | BlackQueen105 |
+| 176 | 146 | Jai |
+| 177 | 145 | Latisha Fairley |
+| 178 | 143 | Sammie Walker |
+| 179 | 143 | BULLSEYE |
 | 180 | 142 | Mikayla |
 | 181 | 141 | Shalena Marie Humphrey |
 | 182 | 140 | Ann Chung |
