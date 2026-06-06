@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 08:26:17 UTC
+# Standings for team4 as of 2026-06-06 08:26:38 UTC
 
 **Total Participants:** 893
 
@@ -749,29 +749,29 @@
 | 741 | 15 | Steven Patshy |
 | 742 | 15 | Hasty Snapmatch |
 | 743 | 15 | Tommy Thomas |
-| 744 | 15 | Donna Bush |
-| 745 | 15 | Britney Kitora |
-| 746 | 15 | Austin Tan |
-| 747 | 15 | Lizzzzzz |
-| 748 | 15 | Nerdy Glider |
-| 749 | 15 | Danielle Mitchell |
-| 750 | 15 | Hasty Grabber |
-| 751 | 15 | Tana-Marie Lynn McCarty-Rolf |
-| 752 | 14 | Becca Milliron |
+| 744 | 15 | Kelli Miller |
+| 745 | 15 | Donna Bush |
+| 746 | 15 | Britney Kitora |
+| 747 | 15 | Austin Tan |
+| 748 | 15 | Lizzzzzz |
+| 749 | 15 | Nerdy Glider |
+| 750 | 15 | Danielle Mitchell |
+| 751 | 15 | Hasty Grabber |
+| 752 | 15 | Tana-Marie Lynn McCarty-Rolf |
 | 753 | 14 | Dolores Falco |
 | 754 | 14 | Playful Raccoon |
 | 755 | 14 | Holly Bramel |
-| 756 | 14 | Nicole Gilmore |
-| 757 | 14 | Marina |
-| 758 | 14 | Jazzy Rollout |
-| 759 | 14 | Luunii |
-| 760 | 14 | Kiaralis Ashley Hancock |
-| 761 | 14 | JoJo Hutson |
-| 762 | 14 | Breezy Rollfit |
-| 763 | 14 | moonman33 |
-| 764 | 14 | Dena Lynn Rogers |
-| 765 | 13 | Jaison Horton |
-| 766 | 13 | Kelli Miller |
+| 756 | 14 | Becca Milliron |
+| 757 | 14 | Nicole Gilmore |
+| 758 | 14 | Marina |
+| 759 | 14 | Jazzy Rollout |
+| 760 | 14 | Luunii |
+| 761 | 14 | Kiaralis Ashley Hancock |
+| 762 | 14 | JoJo Hutson |
+| 763 | 14 | Breezy Rollfit |
+| 764 | 14 | moonman33 |
+| 765 | 14 | Dena Lynn Rogers |
+| 766 | 13 | Jaison Horton |
 | 767 | 13 | Jackie Russo-Edens |
 | 768 | 13 | Lolita Nettles |
 | 769 | 13 | Gma420 |

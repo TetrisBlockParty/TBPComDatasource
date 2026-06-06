@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 08:26:17 UTC
+# Standings for team2 as of 2026-06-06 08:26:38 UTC
 
 **Total Participants:** 1079
 
@@ -292,77 +292,77 @@
 | 284 | 82 | Sandra Pursell |
 | 285 | 82 | Wendy McKee |
 | 286 | 82 | Chill Line |
-| 287 | 81 | Cassandra Milner |
+| 287 | 81 | Lindsey Ross |
 | 288 | 81 | Heather Hi |
 | 289 | 81 | Kimmyc |
-| 290 | 81 | Epic Tilemaker |
-| 291 | 81 | YldBoar |
-| 292 | 81 | Shiny Spinfit |
-| 293 | 81 | Angeleye A James |
-| 294 | 81 | Lindsey Ross |
-| 295 | 80 | Nicole Hogue |
-| 296 | 80 | Zappy Liney |
+| 290 | 81 | YldBoar |
+| 291 | 81 | Epic Tilemaker |
+| 292 | 81 | Angeleye A James |
+| 293 | 81 | Cassandra Milner |
+| 294 | 81 | Shiny Spinfit |
+| 295 | 80 | Eva Lopez |
+| 296 | 80 | Nicole Hogue |
 | 297 | 80 | Skye Ehret |
-| 298 | 80 | Eva Lopez |
-| 299 | 80 | Al Smith Jr |
-| 300 | 79 | Aeryal Snow |
-| 301 | 79 | Perii Reynoso |
+| 298 | 80 | Al Smith Jr |
+| 299 | 80 | Zappy Liney |
+| 300 | 79 | Perii Reynoso |
+| 301 | 79 | Aeryal Snow |
 | 302 | 78 | Jef Wassom |
-| 303 | 77 | MUMBLES |
-| 304 | 77 | Heather Vircik |
-| 305 | 77 | Nikki EightySixed |
-| 306 | 77 | Sandra Belk |
+| 303 | 77 | Kenzie |
+| 304 | 77 | Nikki EightySixed |
+| 305 | 77 | Heather Vircik |
+| 306 | 77 | MUMBLES |
 | 307 | 77 | Nikki Hayes |
-| 308 | 77 | Kenzie |
-| 309 | 76 | Reign Hustler |
-| 310 | 76 | Tiffany Fitch |
-| 311 | 75 | Jgato |
-| 312 | 75 | Christine James |
-| 313 | 75 | Karly Moore |
+| 308 | 77 | Sandra Belk |
+| 309 | 76 | Tiffany Fitch |
+| 310 | 76 | Reign Hustler |
+| 311 | 75 | Christine James |
+| 312 | 75 | Jgato |
+| 313 | 75 | Epic Framezone |
 | 314 | 75 | Paula Haskins |
-| 315 | 75 | Jessica Christine |
-| 316 | 75 | Epic Framezone |
-| 317 | 75 | Analee Nicole Jones |
-| 318 | 74 | Jumpy Dashpiece |
-| 319 | 74 | Derrick |
-| 320 | 74 | Natasha Lee |
+| 315 | 75 | Karly Moore |
+| 316 | 75 | Analee Nicole Jones |
+| 317 | 75 | Jessica Christine |
+| 318 | 74 | Natasha Lee |
+| 319 | 74 | Jumpy Dashpiece |
+| 320 | 74 | Derrick |
 | 321 | 73 | Rachel M. Farnsworth |
-| 322 | 73 | Joannah Capilitan |
-| 323 | 73 | Sunny Spinzone |
-| 324 | 72 | Kendi |
-| 325 | 72 | Stephanie Smith Robinson |
-| 326 | 72 | Sully |
-| 327 | 72 | Mary Carriere |
-| 328 | 71 | Sandy Lynn |
-| 329 | 71 | Groovy Glider |
-| 330 | 71 | Cindy Scott |
-| 331 | 70 | Jennifer Covington |
-| 332 | 70 | Ceci |
-| 333 | 70 | Courtney Madison Hart |
-| 334 | 70 | Tonya Marino |
-| 335 | 69 | REE4 |
-| 336 | 69 | Justin McCray |
-| 337 | 69 | Momof2wigglebutts |
-| 338 | 69 | Ashley Billiot Rhodes |
-| 339 | 69 | Alonzo Reed |
-| 340 | 69 | Cynthia Dawn Reitz Hanson |
-| 341 | 68 | Belinda Gullion Austin |
+| 322 | 73 | bozzycat |
+| 323 | 73 | Joannah Capilitan |
+| 324 | 73 | Sunny Spinzone |
+| 325 | 72 | Kendi |
+| 326 | 72 | Stephanie Smith Robinson |
+| 327 | 72 | Sully |
+| 328 | 72 | Mary Carriere |
+| 329 | 71 | Sandy Lynn |
+| 330 | 71 | Groovy Glider |
+| 331 | 71 | Cindy Scott |
+| 332 | 70 | Jennifer Covington |
+| 333 | 70 | Ceci |
+| 334 | 70 | Courtney Madison Hart |
+| 335 | 70 | Tonya Marino |
+| 336 | 69 | REE4 |
+| 337 | 69 | Justin McCray |
+| 338 | 69 | Cynthia Dawn Reitz Hanson |
+| 339 | 69 | Momof2wigglebutts |
+| 340 | 69 | Ashley Billiot Rhodes |
+| 341 | 69 | Alonzo Reed |
 | 342 | 68 | Fancy Stacker |
 | 343 | 68 | Erica South |
-| 344 | 68 | Avie Lou |
-| 345 | 68 | AndyJo |
-| 346 | 68 | bozzycat |
-| 347 | 68 | Arik DiLorenzo |
-| 348 | 68 | Cozy Cascade |
+| 344 | 68 | Cozy Cascade |
+| 345 | 68 | Avie Lou |
+| 346 | 68 | Belinda Gullion Austin |
+| 347 | 68 | AndyJo |
+| 348 | 68 | Arik DiLorenzo |
 | 349 | 67 | Ratchet |
 | 350 | 66 | Frilly Shiftsnap |
-| 351 | 66 | Crystal Robinson |
-| 352 | 66 | Jennifer Lalk |
+| 351 | 66 | Jennifer Lalk |
+| 352 | 66 | Crystal Robinson |
 | 353 | 66 | Donna Segletes Kay |
-| 354 | 65 | Justin Stark |
-| 355 | 65 | Jumpy Matchbuilder |
-| 356 | 65 | Susie Conger |
-| 357 | 65 | Sarah Jane Gorsuch |
+| 354 | 65 | Susie Conger |
+| 355 | 65 | Justin Stark |
+| 356 | 65 | Sarah Jane Gorsuch |
+| 357 | 65 | Jumpy Matchbuilder |
 | 358 | 64 | Martha Lynn Wiggins |
 | 359 | 64 | Cool Balancer |
 | 360 | 64 | Paige Lynette Sohl |
