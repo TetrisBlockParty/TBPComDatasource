@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 21:22:39 UTC
+# Standings for team1 as of 2026-06-06 21:23:17 UTC
 
 **Total Participants:** 1168
 
@@ -7,12 +7,12 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 19000 | Ariel |
-| 2 | 6500 | Kalynn Parks |
-| 3 | 6466 | Cozy Edge |
-| 4 | 6150 | Songne Arif |
-| 5 | 6141 | Charnay Peacock |
-| 6 | 5984 | Death by SnuSnu |
-| 7 | 5535 | Charlie Roehm |
+| 2 | 6575 | Charlie Roehm |
+| 3 | 6500 | Kalynn Parks |
+| 4 | 6466 | Cozy Edge |
+| 5 | 6150 | Songne Arif |
+| 6 | 6141 | Charnay Peacock |
+| 7 | 5984 | Death by SnuSnu |
 | 8 | 5529 | Dyane Leah Ware |
 | 9 | 5282 | Plucky Swipe |
 | 10 | 5149 | Tracy Cohen |
@@ -61,21 +61,21 @@
 | 53 | 764 | Joy Citizen Pickney |
 | 54 | 749 | Aviv Zehavi |
 | 55 | 710 | Lisa Müller |
-| 56 | 689 | Jaida King |
-| 57 | 675 | Corey Cawthon |
-| 58 | 648 | Eartha Brown |
-| 59 | 639 | Blockhead |
-| 60 | 605 | JoJo |
-| 61 | 598 | Ivana Schmidt |
-| 62 | 586 | Kellie Hall |
-| 63 | 569 | Kimberly Hernandez |
-| 64 | 548 | Robyn Caldwell |
-| 65 | 541 | Andi McGreevy |
-| 66 | 540 | IamJust Neyamijah Washington Sr. |
-| 67 | 534 | JaszyBadd |
-| 68 | 527 | MommaCia |
-| 69 | 527 | KenpachisGirl |
-| 70 | 511 | Jo NewmindNewfocus Bell |
+| 56 | 709 | Jo NewmindNewfocus Bell |
+| 57 | 689 | Jaida King |
+| 58 | 675 | Corey Cawthon |
+| 59 | 648 | Eartha Brown |
+| 60 | 639 | Blockhead |
+| 61 | 605 | JoJo |
+| 62 | 598 | Ivana Schmidt |
+| 63 | 586 | Kellie Hall |
+| 64 | 572 | Kimberly Hernandez |
+| 65 | 548 | Robyn Caldwell |
+| 66 | 541 | Andi McGreevy |
+| 67 | 540 | IamJust Neyamijah Washington Sr. |
+| 68 | 534 | JaszyBadd |
+| 69 | 527 | MommaCia |
+| 70 | 527 | KenpachisGirl |
 | 71 | 511 | Dizzy Dropper |
 | 72 | 511 | Abraham Espaillat |
 | 73 | 506 | Court Court |
