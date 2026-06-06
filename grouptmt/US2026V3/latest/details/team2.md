@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 10:10:38 UTC
+# Standings for team2 as of 2026-06-06 10:11:16 UTC
 
 **Total Participants:** 1102
 
@@ -293,19 +293,19 @@
 | 285 | 85 | Daisy Girl |
 | 286 | 85 | James Sayers |
 | 287 | 85 | Anthony Swift |
-| 288 | 84 | Lisa Underwood Desmond |
-| 289 | 83 | TetrisMama |
-| 290 | 82 | Chill Line |
-| 291 | 82 | Sandra Pursell |
-| 292 | 82 | Wendy McKee |
-| 293 | 82 | Norma Ortiz |
-| 294 | 82 | Carolyn McNaughton |
-| 295 | 82 | Hypee |
-| 296 | 82 | giamy |
-| 297 | 81 | YldBoar |
-| 298 | 81 | Lindsey Ross |
-| 299 | 81 | Kimmyc |
-| 300 | 81 | Kawana Nesbitt |
+| 288 | 84 | Kawana Nesbitt |
+| 289 | 84 | Lisa Underwood Desmond |
+| 290 | 83 | TetrisMama |
+| 291 | 82 | Chill Line |
+| 292 | 82 | Sandra Pursell |
+| 293 | 82 | Wendy McKee |
+| 294 | 82 | Norma Ortiz |
+| 295 | 82 | Carolyn McNaughton |
+| 296 | 82 | Hypee |
+| 297 | 82 | giamy |
+| 298 | 81 | YldBoar |
+| 299 | 81 | Lindsey Ross |
+| 300 | 81 | Kimmyc |
 | 301 | 81 | Cassandra Milner |
 | 302 | 81 | Epic Tilemaker |
 | 303 | 81 | Heather Hi |
@@ -1097,17 +1097,17 @@
 | 1089 | 5 | Crystal Poss |
 | 1090 | 5 | Danh Nguyen |
 | 1091 | 5 | Agnes Gable |
-| 1092 | 5 | Deborah Fowler |
-| 1093 | 5 | Jennifer Roper Stanley |
-| 1094 | 5 | Chirpy Towerer |
-| 1095 | 5 | Jennifer Mauler Schmidt |
-| 1096 | 5 | Brittany Weatherspoon |
-| 1097 | 5 | Mercedes Lowery |
-| 1098 | 5 | Nerdy Base |
-| 1099 | 5 | Dapper Clearpiece |
-| 1100 | 5 | Nicole Plummer |
-| 1101 | 5 | Duck |
-| 1102 | 5 | Nolife |
+| 1092 | 5 | Jennifer Roper Stanley |
+| 1093 | 5 | Chirpy Towerer |
+| 1094 | 5 | Jennifer Mauler Schmidt |
+| 1095 | 5 | Brittany Weatherspoon |
+| 1096 | 5 | Mercedes Lowery |
+| 1097 | 5 | Nerdy Base |
+| 1098 | 5 | Dapper Clearpiece |
+| 1099 | 5 | Nicole Plummer |
+| 1100 | 5 | Duck |
+| 1101 | 5 | Nolife |
+| 1102 | 5 | Deborah Fowler |
 
 ---
 *Standings created by tournaments datasource generation tool*
