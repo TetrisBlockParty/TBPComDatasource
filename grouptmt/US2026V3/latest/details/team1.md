@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 06:46:17 UTC
+# Standings for team1 as of 2026-06-06 06:46:40 UTC
 
 **Total Participants:** 895
 
@@ -134,49 +134,49 @@
 | 126 | 166 | Nobles Brandon |
 | 127 | 165 | Davionte DaeDae Hopson-Rodriguez |
 | 128 | 160 | Zippy Lifter |
-| 129 | 158 | W.A. Simpson |
-| 130 | 158 | Tina Mitchell |
+| 129 | 158 | Tina Mitchell |
+| 130 | 158 | W.A. Simpson |
 | 131 | 156 | Jessica Russell |
 | 132 | 156 | Anthony Washington |
 | 133 | 155 | Jawaun Daniels |
 | 134 | 154 | DaVonte' Cretter |
 | 135 | 151 | Dacia Hicks |
-| 136 | 147 | MACHETEEDDIE513 |
-| 137 | 147 | David Fuentes |
-| 138 | 146 | Curtis T Cirno |
-| 139 | 141 | DaGuy |
-| 140 | 140 | Felicia Cain |
-| 141 | 140 | Sara Meri |
+| 136 | 149 | DaGuy |
+| 137 | 147 | MACHETEEDDIE513 |
+| 138 | 147 | David Fuentes |
+| 139 | 146 | Curtis T Cirno |
+| 140 | 146 | Marcheta Cervantez |
+| 141 | 140 | Felicia Cain |
 | 142 | 140 | Ann Chung |
-| 143 | 139 | Mafio SO |
-| 144 | 138 | Lashaunda |
-| 145 | 137 | BlackQueen105 |
-| 146 | 136 | Marcheta Cervantez |
+| 143 | 140 | Sara Meri |
+| 144 | 139 | Mafio SO |
+| 145 | 138 | Lashaunda |
+| 146 | 137 | BlackQueen105 |
 | 147 | 136 | Andre Sanon |
-| 148 | 135 | Amber Wilson |
-| 149 | 135 | Sean White |
+| 148 | 135 | Sean White |
+| 149 | 135 | Amber Wilson |
 | 150 | 133 | Byron Mario Cawthon |
 | 151 | 132 | Jolly Tilefall |
 | 152 | 131 | TBABYJ |
-| 153 | 130 | Rolanda Williams |
+| 153 | 130 | Jessica Davis |
 | 154 | 130 | Dion Gray |
-| 155 | 130 | Jessica Davis |
-| 156 | 130 | Emily Wright |
+| 155 | 130 | Emily Wright |
+| 156 | 130 | Rolanda Williams |
 | 157 | 128 | JaClanDiah |
 | 158 | 127 | IThinkNot |
 | 159 | 126 | Stephen Providenti |
 | 160 | 126 | Cee Emm |
-| 161 | 125 | LaTonya Myers |
-| 162 | 125 | Kelli Couture |
-| 163 | 124 | Courtney Cicoria |
-| 164 | 124 | Queenie Perry |
+| 161 | 125 | Kelli Couture |
+| 162 | 125 | LaTonya Myers |
+| 163 | 124 | Queenie Perry |
+| 164 | 124 | Courtney Cicoria |
 | 165 | 123 | Lisa Fletcher |
 | 166 | 121 | D'Andra Stewart |
 | 167 | 121 | Tiana Monique |
-| 168 | 120 | Spicy Risepiece |
-| 169 | 120 | Jai |
+| 168 | 120 | Saucy Tile |
+| 169 | 120 | Spicy Risepiece |
 | 170 | 120 | Nerdy Blockpiece |
-| 171 | 120 | Saucy Tile |
+| 171 | 120 | Jai |
 | 172 | 119 | Christina Rebecca |
 | 173 | 119 | ELM |
 | 174 | 118 | Hasty Pivoty |
@@ -389,73 +389,73 @@
 | 381 | 47 | Derrius SeriousLee Burks |
 | 382 | 47 | Faith Armone |
 | 383 | 47 | Christopher Dreamsareality McEachin |
-| 384 | 47 | Kevin Turner |
-| 385 | 47 | Slinky Brickmatch |
+| 384 | 47 | Slinky Brickmatch |
+| 385 | 47 | Kevin Turner |
 | 386 | 47 | Calvin Green |
-| 387 | 46 | Anthony |
-| 388 | 46 | David A Alvino |
-| 389 | 46 | Maria Baez Medina |
+| 387 | 46 | Ja'mice Nelson |
+| 388 | 46 | Anthony |
+| 389 | 46 | David A Alvino |
 | 390 | 46 | Felicia Dungey |
-| 391 | 46 | Kimberly Anderson |
-| 392 | 46 | Chris Nelson |
-| 393 | 46 | Ja'mice Nelson |
+| 391 | 46 | Maria Baez Medina |
+| 392 | 46 | Kimberly Anderson |
+| 393 | 46 | Chris Nelson |
 | 394 | 45 | La'Chae Nickole |
-| 395 | 45 | Jenni Hardman |
-| 396 | 45 | Guy Incognito |
-| 397 | 45 | Glitzy Clusterer |
-| 398 | 45 | nameno |
-| 399 | 45 | Erika Windom |
-| 400 | 45 | Renee J. Thomas |
-| 401 | 45 | Poppy Smasher |
-| 402 | 44 | sasha |
-| 403 | 44 | Tamara Johnson-Carter |
-| 404 | 43 | Gael Quintana |
+| 395 | 45 | Glitzy Clusterer |
+| 396 | 45 | Jenni Hardman |
+| 397 | 45 | Slinky Snapbuilder |
+| 398 | 45 | Guy Incognito |
+| 399 | 45 | nameno |
+| 400 | 45 | Erika Windom |
+| 401 | 45 | Renee J. Thomas |
+| 402 | 45 | Poppy Smasher |
+| 403 | 44 | sasha |
+| 404 | 44 | Tamara Johnson-Carter |
 | 405 | 43 | Daring Blockclear |
-| 406 | 43 | Giggy Brickfit |
-| 407 | 43 | Rufus |
-| 408 | 43 | Heather Wilson |
-| 409 | 43 | Slinky Snapbuilder |
+| 406 | 43 | Gael Quintana |
+| 407 | 43 | Giggy Brickfit |
+| 408 | 43 | Rufus |
+| 409 | 43 | Heather Wilson |
 | 410 | 43 | Brenda Malachi-butler |
 | 411 | 43 | Kimberly Red |
 | 412 | 43 | Block |
 | 413 | 43 | Rachel Renae Bettis |
-| 414 | 42 | Bobby Chestefield |
+| 414 | 42 | Louise |
 | 415 | 42 | Sunny Riserbuilder |
-| 416 | 42 | MrsMeadows2019 |
-| 417 | 42 | Richard Flex |
-| 418 | 42 | Casey Chapman |
-| 419 | 42 | Louise |
-| 420 | 41 | Cranky Fall |
-| 421 | 41 | Jessie N Michael Silvers |
+| 416 | 42 | Casey Chapman |
+| 417 | 42 | Bobby Chestefield |
+| 418 | 42 | MrsMeadows2019 |
+| 419 | 42 | Richard Flex |
+| 420 | 41 | Frothy Zoney |
+| 421 | 41 | Nerdy Climber |
 | 422 | 41 | Lawreniesha Burkley |
-| 423 | 41 | Nerdy Climber |
-| 424 | 41 | Frothy Zoney |
-| 425 | 40 | Slinky Fallzone |
-| 426 | 40 | Marcello Rush |
-| 427 | 40 | Kp |
-| 428 | 40 | Perky Pusher |
-| 429 | 40 | Kamilya Rembert |
-| 430 | 40 | Larina Cherie Johnson |
-| 431 | 40 | Tori Carter |
+| 423 | 41 | Jessie N Michael Silvers |
+| 424 | 41 | Cranky Fall |
+| 425 | 40 | Tori Carter |
+| 426 | 40 | Larina Cherie Johnson |
+| 427 | 40 | Kamilya Rembert |
+| 428 | 40 | Marcello Rush |
+| 429 | 40 | Jean Regis |
+| 430 | 40 | Slinky Fallzone |
+| 431 | 40 | Kp |
 | 432 | 40 | Christopher L Crites |
-| 433 | 40 | Douglas Price |
-| 434 | 40 | akosua |
-| 435 | 40 | Brittanie Wardlow |
+| 433 | 40 | Perky Pusher |
+| 434 | 40 | Douglas Price |
+| 435 | 40 | akosua |
 | 436 | 40 | Furlough Leslie |
-| 437 | 40 | Tushama Cheris Okraku |
-| 438 | 40 | Marie Wilson |
-| 439 | 40 | Tracey Johnson |
-| 440 | 40 | Dawn Basemore |
-| 441 | 40 | Flashy Slam |
-| 442 | 40 | KeeKee Williams |
+| 437 | 40 | Brittanie Wardlow |
+| 438 | 40 | Tushama Cheris Okraku |
+| 439 | 40 | Marie Wilson |
+| 440 | 40 | Tracey Johnson |
+| 441 | 40 | Dawn Basemore |
+| 442 | 40 | Flashy Slam |
 | 443 | 40 | Devin West |
-| 444 | 40 | Jean Regis |
-| 445 | 39 | Kyle Conley |
+| 444 | 40 | KeeKee Williams |
+| 445 | 39 | Twisty Cascadeclear |
 | 446 | 39 | Lexx Robins |
-| 447 | 39 | Elizabeth Green |
-| 448 | 39 | Diva shrock |
-| 449 | 39 | Amy Lynn Leifheit |
-| 450 | 39 | Twisty Cascadeclear |
+| 447 | 39 | Amy Lynn Leifheit |
+| 448 | 39 | Elizabeth Green |
+| 449 | 39 | Diva shrock |
+| 450 | 39 | Kyle Conley |
 | 451 | 39 | Shakuria Cortia Burney |
 | 452 | 39 | JesusSaves 😇 |
 | 453 | 39 | Boldy Pivoty |

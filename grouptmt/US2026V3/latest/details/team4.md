@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 06:46:17 UTC
+# Standings for team4 as of 2026-06-06 06:46:40 UTC
 
 **Total Participants:** 863
 
@@ -90,28 +90,28 @@
 | 82 | 257 | Cherry |
 | 83 | 252 | Sarah Berry Stevens |
 | 84 | 240 | Jojo Ann |
-| 85 | 235 | Hwanger Land |
-| 86 | 230 | Sisi RedVelvet Reneè |
-| 87 | 229 | Dheeh Robles |
+| 85 | 236 | Dheeh Robles |
+| 86 | 235 | Hwanger Land |
+| 87 | 230 | Sisi RedVelvet Reneè |
 | 88 | 208 | Dubiousdust |
 | 89 | 207 | Leigh Pierce |
 | 90 | 203 | Patrick Alley |
 | 91 | 201 | Renee Sapp |
 | 92 | 200 | Leah Gorsuch |
 | 93 | 197 | Nikki Fuller Johnson |
-| 94 | 195 | Sean Mccleary |
-| 95 | 194 | Lisa lisa |
+| 94 | 197 | Slimm |
+| 95 | 195 | Sean Mccleary |
 | 96 | 194 | Chiquita Blue |
-| 97 | 193 | Tiffany Bunker-Hill |
-| 98 | 192 | Gorica Prusina |
-| 99 | 184 | Giggly Tilt |
-| 100 | 182 | blockhead |
-| 101 | 181 | Colin |
-| 102 | 180 | Shmeedo |
-| 103 | 180 | Aisha Estrada |
-| 104 | 179 | Anna Gribble |
-| 105 | 178 | Tamara Triplet |
-| 106 | 177 | Slimm |
+| 97 | 194 | Lisa lisa |
+| 98 | 193 | Tiffany Bunker-Hill |
+| 99 | 192 | Gorica Prusina |
+| 100 | 184 | Giggly Tilt |
+| 101 | 182 | blockhead |
+| 102 | 181 | Colin |
+| 103 | 180 | Shmeedo |
+| 104 | 180 | Aisha Estrada |
+| 105 | 179 | Anna Gribble |
+| 106 | 178 | Tamara Triplet |
 | 107 | 177 | Tammy June |
 | 108 | 174 | Kimyatta Cavin |
 | 109 | 169 | Tiffany Smith |
@@ -133,9 +133,9 @@
 | 125 | 148 | Megan Vick |
 | 126 | 146 | Becky McCool |
 | 127 | 145 | Trice Stevenson |
-| 128 | 144 | Yesenia Castro Monreal |
-| 129 | 143 | Ashley Mcdonald |
-| 130 | 142 | gabs |
+| 128 | 144 | gabs |
+| 129 | 144 | Yesenia Castro Monreal |
+| 130 | 143 | Ashley Mcdonald |
 | 131 | 142 | Scamp Jones |
 | 132 | 141 | Jackie Polanco |
 | 133 | 137 | Devinlee Brown |
@@ -261,18 +261,18 @@
 | 253 | 71 | Jason Garnatz |
 | 254 | 71 | Snazzy Fitclear |
 | 255 | 70 | Karen Small |
-| 256 | 70 | Henry Lanier |
-| 257 | 70 | Gigglycat |
-| 258 | 70 | ManOfSteel |
+| 256 | 70 | Gigglycat |
+| 257 | 70 | ManOfSteel |
+| 258 | 70 | Henry Lanier |
 | 259 | 69 | Dizzy Slammer |
 | 260 | 69 | Wacky Brick |
-| 261 | 69 | Miwa |
-| 262 | 69 | Khylee DarDar |
-| 263 | 68 | Keys Tome |
+| 261 | 69 | Khylee DarDar |
+| 262 | 69 | Miwa |
+| 263 | 68 | Smiley Gridzone |
 | 264 | 68 | Erika Seaton |
-| 265 | 68 | Smiley Gridzone |
-| 266 | 67 | Noa Lee |
-| 267 | 67 | Loretta Hendricks |
+| 265 | 68 | Keys Tome |
+| 266 | 67 | Loretta Hendricks |
+| 267 | 67 | Noa Lee |
 | 268 | 67 | Karen Rodriguez |
 | 269 | 67 | Ashley Jenkins |
 | 270 | 67 | Alma López Morales |
@@ -283,12 +283,12 @@
 | 275 | 65 | Cool Risepiece |
 | 276 | 64 | sierrabeth |
 | 277 | 64 | Queen B |
-| 278 | 63 | Ajohnna Frazee |
-| 279 | 63 | Ana Ruiz |
+| 278 | 63 | Kelly Howland |
+| 279 | 63 | Ajohnna Frazee |
 | 280 | 63 | Blockcrusher |
-| 281 | 63 | Brenda Mueller |
-| 282 | 62 | medicjessi |
-| 283 | 62 | Kelly Howland |
+| 281 | 63 | Ana Ruiz |
+| 282 | 63 | Brenda Mueller |
+| 283 | 62 | medicjessi |
 | 284 | 62 | Tiggerjake |
 | 285 | 62 | Frisky Balance |
 | 286 | 61 | Cindy |
