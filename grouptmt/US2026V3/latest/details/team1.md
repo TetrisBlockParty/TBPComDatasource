@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 09:55:16 UTC
+# Standings for team1 as of 2026-06-06 09:56:16 UTC
 
 **Total Participants:** 948
 
@@ -139,31 +139,31 @@
 | 131 | 182 | Hyper Blocky |
 | 132 | 181 | Joey Albright |
 | 133 | 177 | Chris Sladoje |
-| 134 | 176 | Andre Sanon |
-| 135 | 175 | Rayshawn Cohen |
-| 136 | 169 | Asha Langford |
-| 137 | 166 | Nobles Brandon |
+| 134 | 177 | Chantelle Lee |
+| 135 | 176 | Andre Sanon |
+| 136 | 175 | Rayshawn Cohen |
+| 137 | 169 | Asha Langford |
 | 138 | 166 | Tarnisha Neicy Jones |
-| 139 | 160 | Sara Meri |
-| 140 | 160 | DaGuy |
-| 141 | 160 | Zippy Lifter |
-| 142 | 158 | Tina Mitchell |
+| 139 | 166 | Nobles Brandon |
+| 140 | 160 | Zippy Lifter |
+| 141 | 160 | Sara Meri |
+| 142 | 160 | DaGuy |
 | 143 | 158 | W.A. Simpson |
-| 144 | 156 | Jessica Russell |
+| 144 | 158 | Tina Mitchell |
 | 145 | 156 | Anthony Washington |
-| 146 | 155 | Jawaun Daniels |
-| 147 | 152 | Eugina Slater |
-| 148 | 147 | MACHETEEDDIE513 |
+| 146 | 156 | Jessica Russell |
+| 147 | 155 | Jawaun Daniels |
+| 148 | 152 | Eugina Slater |
 | 149 | 147 | David Fuentes |
-| 150 | 147 | Chantelle Lee |
-| 151 | 146 | Marcheta Cervantez |
-| 152 | 146 | BlackQueen105 |
-| 153 | 140 | Felicia Cain |
-| 154 | 140 | Ann Chung |
-| 155 | 140 | Antoinette Jones |
+| 150 | 147 | MACHETEEDDIE513 |
+| 151 | 146 | BlackQueen105 |
+| 152 | 146 | Marcheta Cervantez |
+| 153 | 140 | Ann Chung |
+| 154 | 140 | Antoinette Jones |
+| 155 | 140 | Felicia Cain |
 | 156 | 139 | Mafio SO |
-| 157 | 138 | Lashaunda |
-| 158 | 138 | JaClanDiah |
+| 157 | 138 | JaClanDiah |
+| 158 | 138 | Lashaunda |
 | 159 | 135 | Dawn L Washington-Feuquay |
 | 160 | 135 | Sean White |
 | 161 | 135 | Amber Wilson |
@@ -171,26 +171,26 @@
 | 163 | 133 | Byron Mario Cawthon |
 | 164 | 132 | Jolly Tilefall |
 | 165 | 131 | TBABYJ |
-| 166 | 130 | Jessica Davis |
-| 167 | 130 | Rolanda Williams |
-| 168 | 130 | Dion Gray |
+| 166 | 130 | Rolanda Williams |
+| 167 | 130 | Dion Gray |
+| 168 | 130 | Jessica Davis |
 | 169 | 130 | Emily Wright |
 | 170 | 127 | IThinkNot |
-| 171 | 126 | Tremaine Hiler |
+| 171 | 126 | Cee Emm |
 | 172 | 126 | Stephen Providenti |
-| 173 | 126 | Cee Emm |
-| 174 | 125 | Kelli Couture |
-| 175 | 125 | LaTonya Myers |
-| 176 | 124 | Courtney Cicoria |
-| 177 | 124 | Queenie Perry |
+| 173 | 126 | Tremaine Hiler |
+| 174 | 125 | LaTonya Myers |
+| 175 | 125 | Kelli Couture |
+| 176 | 124 | Queenie Perry |
+| 177 | 124 | Courtney Cicoria |
 | 178 | 123 | Lisa Fletcher |
 | 179 | 121 | Treneil Daffin |
 | 180 | 121 | D'Andra Stewart |
 | 181 | 121 | Tiana Monique |
-| 182 | 120 | Jai |
-| 183 | 120 | Nerdy Blockpiece |
-| 184 | 120 | Saucy Tile |
-| 185 | 120 | Spicy Risepiece |
+| 182 | 120 | Spicy Risepiece |
+| 183 | 120 | Saucy Tile |
+| 184 | 120 | Jai |
+| 185 | 120 | Nerdy Blockpiece |
 | 186 | 119 | ELM |
 | 187 | 119 | Christina Rebecca |
 | 188 | 118 | Hasty Pivoty |
@@ -198,20 +198,20 @@
 | 190 | 113 | Rachel Zimmerman |
 | 191 | 112 | Bre Poston |
 | 192 | 112 | GamerQueenDS |
-| 193 | 111 | Shalena Marie Humphrey |
-| 194 | 111 | Lesley Brunkus Cianfaglione |
+| 193 | 111 | Lesley Brunkus Cianfaglione |
+| 194 | 111 | Shalena Marie Humphrey |
 | 195 | 110 | Atlantalindi |
 | 196 | 109 | Tamika Fisher |
 | 197 | 108 | Kimberly Linares Hernandez |
 | 198 | 106 | Matthieu Pistone |
-| 199 | 105 | Angela R Wilson |
-| 200 | 105 | Latisha Fairley |
-| 201 | 105 | Ebony Waynes-robinson |
-| 202 | 105 | LaShaun Stinson |
-| 203 | 105 | Katrina Ramey |
+| 199 | 105 | Latisha Fairley |
+| 200 | 105 | LaShaun Stinson |
+| 201 | 105 | Katrina Ramey |
+| 202 | 105 | Ebony Waynes-robinson |
+| 203 | 105 | Angela R Wilson |
 | 204 | 104 | Ahvae Lee |
-| 205 | 104 | Frisky Fall |
-| 206 | 104 | Brittnay Wright |
+| 205 | 104 | Brittnay Wright |
+| 206 | 104 | Frisky Fall |
 | 207 | 103 | Kelvin Cook |
 | 208 | 101 | Boldy Liner |
 | 209 | 100 | Char |
@@ -834,27 +834,27 @@
 | 826 | 12 | Ashley Davis |
 | 827 | 12 | Cameo Tweed |
 | 828 | 12 | LaTonya Rivers |
-| 829 | 12 | Lillie Blossom Dixon |
+| 829 | 12 | Silly Spinblock |
 | 830 | 12 | Cheeky Wipegrid |
-| 831 | 12 | Jovy |
-| 832 | 12 | Silly Spinblock |
-| 833 | 12 | BigDawg Lessley |
-| 834 | 12 | Joseph Ware Jr. |
-| 835 | 11 | Groovy Climber |
-| 836 | 11 | Ray Baker |
+| 831 | 12 | Joseph Ware Jr. |
+| 832 | 12 | Lillie Blossom Dixon |
+| 833 | 12 | Jovy |
+| 834 | 12 | BigDawg Lessley |
+| 835 | 11 | Giddy Twistslam |
+| 836 | 11 | Jayson |
 | 837 | 11 | Frilly Shatterline |
-| 838 | 11 | Giddy Twistslam |
-| 839 | 11 | Jayson |
-| 840 | 10 | Mikemike Zonethree |
-| 841 | 10 | Melissa Hershberger |
-| 842 | 10 | Chill Curvebuilder |
-| 843 | 10 | Happy Blockpiece |
-| 844 | 10 | Daring Linkfall |
-| 845 | 10 | Cornelius Neal |
-| 846 | 10 | Damien Fonseca |
-| 847 | 10 | Nikiya |
+| 838 | 11 | Groovy Climber |
+| 839 | 11 | Ray Baker |
+| 840 | 10 | Snappy Strikerpiece |
+| 841 | 10 | Daring Linkfall |
+| 842 | 10 | Cornelius Neal |
+| 843 | 10 | Damien Fonseca |
+| 844 | 10 | Chill Curvebuilder |
+| 845 | 10 | Nikiya |
+| 846 | 10 | Anntionette Sotire |
+| 847 | 10 | Melissa Hershberger |
 | 848 | 10 | Missy Myvette |
-| 849 | 10 | Snappy Strikerpiece |
+| 849 | 10 | Mikemike Zonethree |
 | 850 | 10 | Meeee |
 | 851 | 10 | Alisha Dawson Crouch |
 | 852 | 10 | Hoppy Rumbler |
@@ -865,95 +865,95 @@
 | 857 | 10 | Mark Steven Pichler |
 | 858 | 10 | Boricua64 |
 | 859 | 10 | Marshall Davis |
-| 860 | 10 | Anntionette Sotire |
-| 861 | 10 | Nope Young |
-| 862 | 10 | Megan Payette |
-| 863 | 10 | Anthony D Holmes |
-| 864 | 10 | Happymama |
-| 865 | 10 | OneBuke FollowMe |
+| 860 | 10 | Nope Young |
+| 861 | 10 | Happy Blockpiece |
+| 862 | 10 | Happymama |
+| 863 | 10 | Manda Pecora |
+| 864 | 10 | Christian Whittaker |
+| 865 | 10 | POOH |
 | 866 | 10 | Shawn Himes |
-| 867 | 10 | POOH |
-| 868 | 10 | Christian Whittaker |
+| 867 | 10 | Anthony D Holmes |
+| 868 | 10 | Megan Payette |
 | 869 | 10 | Wacky Riserpiece |
-| 870 | 10 | Manda Pecora |
+| 870 | 10 | OneBuke FollowMe |
 | 871 | 10 | Ashleyy Netchert |
-| 872 | 9 | Clifford Petroske |
-| 873 | 9 | Tanesha Ga'sFinest Corbett |
-| 874 | 9 | Sherry D Singleton |
-| 875 | 9 | Wacky Towerer |
-| 876 | 9 | Kortney Adams |
-| 877 | 9 | Brika Brika |
-| 878 | 9 | Jasmine Hariston-Estis |
-| 879 | 9 | Mars |
-| 880 | 9 | Robyn Ellis |
-| 881 | 9 | Brave Gridmatch |
+| 872 | 9 | Brave Gridmatch |
+| 873 | 9 | Lucy Range |
+| 874 | 9 | Wacky Towerer |
+| 875 | 9 | Kortney Adams |
+| 876 | 9 | Robyn Ellis |
+| 877 | 9 | Clifford Petroske |
+| 878 | 9 | Sherry D Singleton |
+| 879 | 9 | Tanesha Ga'sFinest Corbett |
+| 880 | 9 | Brika Brika |
+| 881 | 9 | Mars |
 | 882 | 9 | Dana |
 | 883 | 9 | John Lovato |
-| 884 | 9 | Lucy Range |
-| 885 | 9 | ummm |
-| 886 | 9 | Noni |
+| 884 | 9 | Jasmine Hariston-Estis |
+| 885 | 9 | Noni |
+| 886 | 9 | ummm |
 | 887 | 8 | Teena K Macon |
-| 888 | 8 | Macho Lewis |
-| 889 | 8 | Ferocity |
-| 890 | 8 | jus_ry |
-| 891 | 8 | Shawna Passwater |
-| 892 | 8 | Chinkey Overit |
-| 893 | 8 | Groovy Riseclear |
-| 894 | 8 | Nerdy Twistline |
-| 895 | 8 | Brenda Brogden |
-| 896 | 8 | Nicole Coko Thomas |
-| 897 | 8 | Chevonne Huggins |
-| 898 | 8 | Teresa Bean |
+| 888 | 8 | Nicole Coko Thomas |
+| 889 | 8 | Macho Lewis |
+| 890 | 8 | Nerdy Twistline |
+| 891 | 8 | Ferocity |
+| 892 | 8 | Groovy Riseclear |
+| 893 | 8 | Shawna Passwater |
+| 894 | 8 | Chinkey Overit |
+| 895 | 8 | Teresa Bean |
+| 896 | 8 | Chevonne Huggins |
+| 897 | 8 | Brenda Brogden |
+| 898 | 8 | jus_ry |
 | 899 | 8 | Kim Holzmiller |
 | 900 | 8 | Chill Tumbler |
 | 901 | 8 | Rixo Blax |
 | 902 | 8 | Caitlin Michele |
-| 903 | 7 | Deadra Graham |
+| 903 | 7 | Jhonny Maii |
 | 904 | 7 | KingSlim82 |
 | 905 | 7 | Milfchaser530 |
-| 906 | 7 | Jhonny Maii |
-| 907 | 7 | whatever |
-| 908 | 7 | Mary2 |
+| 906 | 7 | whatever |
+| 907 | 7 | Mary2 |
+| 908 | 7 | Shane Brucewayne |
 | 909 | 7 | Zachary Sinclair |
-| 910 | 7 | Teresa F. Campos Eaton |
-| 911 | 7 | Analesia Taylor |
-| 912 | 7 | Shane Brucewayne |
+| 910 | 7 | Analesia Taylor |
+| 911 | 7 | Teresa F. Campos Eaton |
+| 912 | 7 | Deadra Graham |
 | 913 | 7 | Andrew Harris |
-| 914 | 6 | Anthony T. Fults |
-| 915 | 6 | Wu May |
-| 916 | 6 | Nikkizz |
-| 917 | 6 | CK |
-| 918 | 6 | NEM0228 |
-| 919 | 6 | Lucy |
-| 920 | 6 | Snippy Breaker |
-| 921 | 6 | Kyshia |
-| 922 | 6 | Desi Guerra |
-| 923 | 6 | Daring Riserfit |
-| 924 | 6 | S.S |
-| 925 | 6 | Frances Davis |
-| 926 | 6 | Frilly Riserbuilder |
-| 927 | 6 | Christopher Wallace |
-| 928 | 5 | Zesty Clearer |
-| 929 | 5 | DirtiestofMikes |
-| 930 | 5 | Kidgib5 |
+| 914 | 6 | Wu May |
+| 915 | 6 | CK |
+| 916 | 6 | Anthony T. Fults |
+| 917 | 6 | Nikkizz |
+| 918 | 6 | Frilly Riserbuilder |
+| 919 | 6 | Christopher Wallace |
+| 920 | 6 | Lucy |
+| 921 | 6 | Snippy Breaker |
+| 922 | 6 | NEM0228 |
+| 923 | 6 | Kyshia |
+| 924 | 6 | Frances Davis |
+| 925 | 6 | Desi Guerra |
+| 926 | 6 | Daring Riserfit |
+| 927 | 6 | S.S |
+| 928 | 5 | Temeshia Brooks Washington |
+| 929 | 5 | Aanngie Aanngie |
+| 930 | 5 | Stephanie Zuniga Tullock |
 | 931 | 5 | Tito Divyn |
-| 932 | 5 | Temeshia Brooks Washington |
-| 933 | 5 | Aanngie Aanngie |
-| 934 | 5 | Stephanie Zuniga Tullock |
-| 935 | 5 | Zappy Clearfit |
-| 936 | 5 | Logan Frost |
-| 937 | 5 | Rieshelda Marie White |
-| 938 | 5 | Chill Linkroll |
-| 939 | 5 | the guy |
-| 940 | 5 | EvaLynn NeCole |
-| 941 | 5 | Hasty Brickzone |
-| 942 | 5 | Duckey |
-| 943 | 5 | Tipsy Builderline |
-| 944 | 5 | Marissa Sweet |
-| 945 | 5 | Jennifer Moore |
-| 946 | 5 | Annette DeLoatch Thompson |
-| 947 | 5 | Derek Beverly |
-| 948 | 5 | VERA DAME |
+| 932 | 5 | DirtiestofMikes |
+| 933 | 5 | VERA DAME |
+| 934 | 5 | Zesty Clearer |
+| 935 | 5 | EvaLynn NeCole |
+| 936 | 5 | Derek Beverly |
+| 937 | 5 | Logan Frost |
+| 938 | 5 | Rieshelda Marie White |
+| 939 | 5 | Chill Linkroll |
+| 940 | 5 | the guy |
+| 941 | 5 | Zappy Clearfit |
+| 942 | 5 | Hasty Brickzone |
+| 943 | 5 | Duckey |
+| 944 | 5 | Tipsy Builderline |
+| 945 | 5 | Marissa Sweet |
+| 946 | 5 | Jennifer Moore |
+| 947 | 5 | Annette DeLoatch Thompson |
+| 948 | 5 | Kidgib5 |
 
 ---
 *Standings created by tournaments datasource generation tool*
