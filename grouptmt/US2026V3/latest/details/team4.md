@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 01:24:38 UTC
+# Standings for team4 as of 2026-06-06 01:25:16 UTC
 
 **Total Participants:** 629
 
@@ -67,8 +67,8 @@
 | 59 | 203 | Patrick Alley |
 | 60 | 202 | Leigh Pierce |
 | 61 | 201 | Renee Sapp |
-| 62 | 200 | Leah Gorsuch |
-| 63 | 200 | Jackie Lucas |
+| 62 | 200 | Jackie Lucas |
+| 63 | 200 | Leah Gorsuch |
 | 64 | 184 | Giggly Tilt |
 | 65 | 182 | Jason Allen |
 | 66 | 180 | Aisha Estrada |
@@ -83,8 +83,8 @@
 | 75 | 156 | Adam J Leong |
 | 76 | 153 | Brandy Lynn |
 | 77 | 152 | Colin |
-| 78 | 149 | Daryn Elliott |
-| 79 | 149 | Danny Ortiz |
+| 78 | 149 | Danny Ortiz |
+| 79 | 149 | Daryn Elliott |
 | 80 | 146 | Becky McCool |
 | 81 | 145 | Trice Stevenson |
 | 82 | 144 | Yesenia Castro Monreal |
@@ -99,32 +99,32 @@
 | 91 | 125 | Leslie Ann Carter |
 | 92 | 124 | Chilly Pivot |
 | 93 | 121 | Ryan Paul Clark-Ramsey |
-| 94 | 120 | Kelly Bernard |
-| 95 | 120 | Glamorous Gracey |
+| 94 | 120 | Glamorous Gracey |
+| 95 | 120 | Kelly Bernard |
 | 96 | 118 | Goofy Fall |
 | 97 | 117 | BCO22 |
 | 98 | 114 | Bryan DjMagnum Evans |
-| 99 | 108 | Juvon SupaShawdii Brooks |
-| 100 | 108 | Debby Ruof |
+| 99 | 108 | Debby Ruof |
+| 100 | 108 | Juvon SupaShawdii Brooks |
 | 101 | 107 | Shayna Vaigneur-Hall |
 | 102 | 105 | Taz |
-| 103 | 104 | Tawna Curry |
-| 104 | 104 | Justin Ballard |
+| 103 | 104 | Justin Ballard |
+| 104 | 104 | Tawna Curry |
 | 105 | 103 | Joab Gonzalez |
 | 106 | 102 | Lush Fitblock |
 | 107 | 102 | Cheery Risegrid |
-| 108 | 100 | Boldy Rumbler |
-| 109 | 100 | CorieBe |
-| 110 | 99 | Shelby |
-| 111 | 99 | Simone |
+| 108 | 100 | CorieBe |
+| 109 | 100 | Boldy Rumbler |
+| 110 | 99 | Simone |
+| 111 | 99 | Shelby |
 | 112 | 98 | Taisha Beasley |
-| 113 | 95 | Маркус Вік |
-| 114 | 95 | kellie |
+| 113 | 95 | kellie |
+| 114 | 95 | Маркус Вік |
 | 115 | 93 | farfromlocal |
 | 116 | 92 | Homie |
-| 117 | 91 | Dayna Arthurs |
-| 118 | 91 | JuicyJuice |
-| 119 | 91 | Dominique Melendez |
+| 117 | 91 | Dominique Melendez |
+| 118 | 91 | Dayna Arthurs |
+| 119 | 91 | JuicyJuice |
 | 120 | 90 | Quiomarie Cotto |
 | 121 | 90 | Sarah Berry Stevens |
 | 122 | 89 | Shanna Fragen |
@@ -133,61 +133,61 @@
 | 125 | 88 | Laguya |
 | 126 | 87 | Limbo |
 | 127 | 86 | Rachel Lemos |
-| 128 | 86 | Goofy Riser |
-| 129 | 86 | gabs |
+| 128 | 86 | gabs |
+| 129 | 86 | Goofy Riser |
 | 130 | 84 | Slimm |
 | 131 | 84 | Rae Saunders |
-| 132 | 84 | No Time |
-| 133 | 84 | Hwanger Land |
+| 132 | 84 | Hwanger Land |
+| 133 | 84 | No Time |
 | 134 | 83 | MrLoner Stoner |
 | 135 | 83 | Chiquita Blue |
-| 136 | 82 | Iforget |
+| 136 | 82 | Bon Jovi |
 | 137 | 82 | Luna |
-| 138 | 82 | Bon Jovi |
+| 138 | 82 | Iforget |
 | 139 | 82 | Codey Haffner |
 | 140 | 81 | Justin Michael |
 | 141 | 81 | Stasia |
-| 142 | 80 | Krista Diaz |
-| 143 | 80 | Magz |
-| 144 | 80 | DexterDobbins |
+| 142 | 80 | Magz |
+| 143 | 80 | DexterDobbins |
+| 144 | 80 | Krista Diaz |
 | 145 | 80 | Danny Frausto |
 | 146 | 79 | Courtney Niichole |
-| 147 | 79 | Janae Harris |
-| 148 | 79 | Joyce Myers |
-| 149 | 78 | matt |
-| 150 | 78 | Stef |
-| 151 | 78 | Tina Thomas |
-| 152 | 77 | Chirpy Link |
-| 153 | 77 | Scamp Jones |
-| 154 | 77 | Loopy Clusterline |
-| 155 | 77 | Lady |
+| 147 | 79 | Joyce Myers |
+| 148 | 79 | Janae Harris |
+| 149 | 78 | Stef |
+| 150 | 78 | Tina Thomas |
+| 151 | 78 | matt |
+| 152 | 77 | Loopy Clusterline |
+| 153 | 77 | Chirpy Link |
+| 154 | 77 | Lady |
+| 155 | 77 | Scamp Jones |
 | 156 | 76 | Jennifer Garcia |
 | 157 | 76 | All knowing |
-| 158 | 75 | Bouncy |
-| 159 | 75 | Cherry |
-| 160 | 75 | Sarah Perry Cook |
+| 158 | 75 | Mark Fitch Jr. |
+| 159 | 75 | Bouncy |
+| 160 | 75 | June Hoffman |
 | 161 | 75 | Chonda OhanaMomma Michelle |
-| 162 | 75 | June Hoffman |
-| 163 | 75 | Mark Fitch Jr. |
-| 164 | 75 | Jennifer Fisher Franklin |
+| 162 | 75 | Jennifer Fisher Franklin |
+| 163 | 75 | Sarah Perry Cook |
+| 164 | 75 | Cherry |
 | 165 | 73 | Troy Zanelli |
 | 166 | 72 | Slinky Stackzone |
-| 167 | 71 | Gean DeJesus |
-| 168 | 71 | King |
-| 169 | 71 | Rita Ann |
-| 170 | 71 | Chris Covington |
+| 167 | 71 | Chris Covington |
+| 168 | 71 | Gean DeJesus |
+| 169 | 71 | King |
+| 170 | 71 | Rita Ann |
 | 171 | 70 | Tiffany Smith |
-| 172 | 70 | Josh Keith Travierso |
-| 173 | 70 | Karen Small |
+| 172 | 70 | Karen Small |
+| 173 | 70 | Josh Keith Travierso |
 | 174 | 69 | Wacky Brick |
 | 175 | 68 | Smiley Gridzone |
 | 176 | 68 | Erika Seaton |
 | 177 | 68 | Keys Tome |
-| 178 | 67 | Hen |
-| 179 | 67 | Henry Lanier |
-| 180 | 67 | Alma López Morales |
-| 181 | 66 | Shiny Brick |
-| 182 | 66 | Mann Manson |
+| 178 | 67 | Alma López Morales |
+| 179 | 67 | Hen |
+| 180 | 67 | Henry Lanier |
+| 181 | 66 | Mann Manson |
+| 182 | 66 | Shiny Brick |
 | 183 | 65 | Cranky Twistpiece |
 | 184 | 65 | Domo Dpn |
 | 185 | 65 | Cool Risepiece |
