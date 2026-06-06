@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 22:56:19 UTC
+# Standings for team1 as of 2026-06-06 22:56:43 UTC
 
 **Total Participants:** 1201
 
@@ -54,8 +54,8 @@
 | 46 | 897 | BYM4L |
 | 47 | 896 | Robyn Caldwell |
 | 48 | 882 | Jon Gathers |
-| 49 | 877 | Brian Bohanon II |
-| 50 | 867 | Chris Russell |
+| 49 | 877 | Chris Russell |
+| 50 | 877 | Brian Bohanon II |
 | 51 | 864 | Jennifer To |
 | 52 | 863 | Janine Hunter |
 | 53 | 800 | Angela R Wilson |
