@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 13:52:18 UTC
+# Standings for team1 as of 2026-06-06 13:52:41 UTC
 
 **Total Participants:** 1010
 
@@ -81,9 +81,9 @@
 | 73 | 377 | AF Cruz |
 | 74 | 377 | JaszyBadd |
 | 75 | 371 | Shell Lewis |
-| 76 | 368 | Ottison Dianna |
-| 77 | 365 | Sarah Marie |
-| 78 | 364 | Eric Mcgaughy |
+| 76 | 370 | Eric Mcgaughy |
+| 77 | 368 | Ottison Dianna |
+| 78 | 365 | Sarah Marie |
 | 79 | 363 | Voice |
 | 80 | 347 | PandaPrincess |
 | 81 | 344 | Kevin M. McGhee Jr |
@@ -108,8 +108,8 @@
 | 100 | 278 | Shontanese Adams |
 | 101 | 275 | Chris Sladoje |
 | 102 | 275 | Jawaun Daniels |
-| 103 | 273 | MamaBear |
-| 104 | 272 | Tammye Turner |
+| 103 | 274 | Tammye Turner |
+| 104 | 273 | MamaBear |
 | 105 | 268 | Dee McCool |
 | 106 | 257 | Mimi 1.0 |
 | 107 | 256 | Cortaz Lawrie |
@@ -317,9 +317,9 @@
 | 309 | 76 | Jackytrain52 |
 | 310 | 76 | Giggly Shatterline |
 | 311 | 75 | Smiley Clearpiece |
-| 312 | 75 | Jayjay Rich |
-| 313 | 75 | BabyCakes |
-| 314 | 75 | Courtney Robinson |
+| 312 | 75 | Courtney Robinson |
+| 313 | 75 | Jayjay Rich |
+| 314 | 75 | BabyCakes |
 | 315 | 75 | Nickeya Phillips |
 | 316 | 75 | Nutty Spinblock |
 | 317 | 74 | Lynnette WheelerBushnell |
@@ -330,39 +330,39 @@
 | 322 | 73 | HarleyJane |
 | 323 | 73 | Tobey Marberry |
 | 324 | 72 | Chummy Frame |
-| 325 | 72 | Poppy Twister |
-| 326 | 72 | Lauraly |
-| 327 | 71 | star |
-| 328 | 71 | Elaine Pauley |
+| 325 | 72 | Lauraly |
+| 326 | 72 | Poppy Twister |
+| 327 | 71 | Elaine Pauley |
+| 328 | 71 | star |
 | 329 | 71 | Kristie |
 | 330 | 71 | Erin Sabol |
 | 331 | 71 | HBTone |
 | 332 | 70 | Cheeky Pop |
-| 333 | 70 | MamushiOh |
-| 334 | 70 | Daddy |
+| 333 | 70 | Daddy |
+| 334 | 70 | MamushiOh |
 | 335 | 70 | Hailey Hil |
-| 336 | 70 | Kaleisha Smith |
-| 337 | 70 | Gerold Folk Haddock |
-| 338 | 70 | $hort Dog |
-| 339 | 69 | CJ Robinson |
-| 340 | 69 | Sunny Clicky |
-| 341 | 69 | Tracy Feyler |
-| 342 | 68 | Steve Reno |
-| 343 | 68 | Rachael Bakowicz Edwards |
-| 344 | 68 | Alyssa Rae |
+| 336 | 70 | Steve Reno |
+| 337 | 70 | Kaleisha Smith |
+| 338 | 70 | Gerold Folk Haddock |
+| 339 | 70 | $hort Dog |
+| 340 | 69 | CJ Robinson |
+| 341 | 69 | Sunny Clicky |
+| 342 | 69 | Tracy Feyler |
+| 343 | 68 | Alyssa Rae |
+| 344 | 68 | Rachael Bakowicz Edwards |
 | 345 | 68 | Wacky Stackbuilder |
-| 346 | 68 | Logan Frost |
-| 347 | 68 | Eric Spencer Whitaker |
+| 346 | 68 | Eric Spencer Whitaker |
+| 347 | 68 | Logan Frost |
 | 348 | 68 | Tee Spinks |
-| 349 | 67 | Laurie Napper |
+| 349 | 67 | Travis Davison |
 | 350 | 67 | Johnathan Deese |
 | 351 | 67 | Michele Elizabeth McKay-Johnson |
-| 352 | 67 | Travis Davison |
-| 353 | 67 | Jennah |
-| 354 | 67 | Rufus |
-| 355 | 67 | Fina McKinnis |
-| 356 | 66 | Sonia Binti Mfalme |
-| 357 | 66 | GracefulOwl808 |
+| 352 | 67 | Jennah |
+| 353 | 67 | Rufus |
+| 354 | 67 | Fina McKinnis |
+| 355 | 67 | Laurie Napper |
+| 356 | 66 | GracefulOwl808 |
+| 357 | 66 | Sonia Binti Mfalme |
 | 358 | 65 | Sabrina Wilkerson |
 | 359 | 65 | Giggy Tower |
 | 360 | 65 | Jazzy Bridger |
