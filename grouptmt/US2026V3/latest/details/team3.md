@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-06 11:08:16 UTC
+# Standings for team3 as of 2026-06-06 11:08:36 UTC
 
 **Total Participants:** 3451
 
@@ -762,9 +762,9 @@
 | 754 | 100 | Krazykat💋❤️💋 |
 | 755 | 100 | Jerica Eberhardt |
 | 756 | 100 | Sartorius |
-| 757 | 99 | Kenyatta Pierce |
-| 758 | 99 | Doccubus69 |
-| 759 | 99 | Megan Nevarez |
+| 757 | 99 | Doccubus69 |
+| 758 | 99 | Megan Nevarez |
+| 759 | 99 | Kenyatta Pierce |
 | 760 | 99 | Janell Forrest |
 | 761 | 99 | stiven702 |
 | 762 | 99 | Aleece Arnold-Abbisso |
@@ -772,9 +772,9 @@
 | 764 | 98 | Basaba |
 | 765 | 98 | Katie A Straight |
 | 766 | 98 | Marc Anthony Reyes |
-| 767 | 97 | Lucy Loo |
-| 768 | 97 | Chipper Fallzone |
-| 769 | 97 | Rodrick Smith |
+| 767 | 97 | Chipper Fallzone |
+| 768 | 97 | Rodrick Smith |
+| 769 | 97 | Lucy Loo |
 | 770 | 97 | Kait |
 | 771 | 97 | Kelli Clark |
 | 772 | 97 | Tina Russell |
@@ -798,108 +798,108 @@
 | 790 | 95 | Mutta Guttz |
 | 791 | 94 | Robert Morse |
 | 792 | 94 | D4V!N4 |
-| 793 | 94 | Megan Anderson |
+| 793 | 94 | Sunnee Bohnstedt |
 | 794 | 94 | Alexis Kramer-Hermanson |
-| 795 | 94 | Crissy Scafiro |
-| 796 | 93 | Alicia Marie |
-| 797 | 92 | Mikayla Rae Hall Prater |
-| 798 | 92 | RumpleForeskin |
-| 799 | 92 | Carol Bath |
-| 800 | 92 | Nya Bamzels |
-| 801 | 92 | Brian Marks |
-| 802 | 91 | Andrew Dixon |
-| 803 | 91 | Jeanna Thompson |
-| 804 | 91 | Courtney Michelle |
-| 805 | 91 | Irma Suniga |
-| 806 | 91 | Amanda Hugo |
+| 795 | 94 | Megan Anderson |
+| 796 | 94 | Crissy Scafiro |
+| 797 | 93 | Alicia Marie |
+| 798 | 92 | Mikayla Rae Hall Prater |
+| 799 | 92 | Brian Marks |
+| 800 | 92 | Carol Bath |
+| 801 | 92 | Nya Bamzels |
+| 802 | 92 | RumpleForeskin |
+| 803 | 91 | Marvin Mack |
+| 804 | 91 | Irma Suniga |
+| 805 | 91 | Amanda Hugo |
+| 806 | 91 | Courtney Michelle |
 | 807 | 91 | Krista Rae |
-| 808 | 91 | Marvin Mack |
-| 809 | 91 | Nhi Banh Kamel |
-| 810 | 90 | Tonna Kovacs |
+| 808 | 91 | Andrew Dixon |
+| 809 | 91 | Jeanna Thompson |
+| 810 | 91 | Nhi Banh Kamel |
 | 811 | 90 | Leland Hollister |
-| 812 | 90 | Meli |
-| 813 | 90 | Dee Perry |
+| 812 | 90 | Dee Perry |
+| 813 | 90 | Meli |
 | 814 | 90 | Johnathan Lynn |
-| 815 | 90 | Sylvester Jenkins Jr. |
-| 816 | 90 | LadyFrey |
-| 817 | 90 | Alicia Overton |
-| 818 | 90 | Jerome Carlile |
-| 819 | 90 | Cari Hogan |
-| 820 | 90 | Keith Gatewood |
-| 821 | 90 | brelyna |
-| 822 | 89 | Envy |
-| 823 | 89 | Michaela |
-| 824 | 89 | Catdaddy |
+| 815 | 90 | LadyFrey |
+| 816 | 90 | Sylvester Jenkins Jr. |
+| 817 | 90 | Tonna Kovacs |
+| 818 | 90 | Alicia Overton |
+| 819 | 90 | Jerome Carlile |
+| 820 | 90 | Cari Hogan |
+| 821 | 90 | Keith Gatewood |
+| 822 | 90 | brelyna |
+| 823 | 89 | Envy |
+| 824 | 89 | Michaela |
 | 825 | 89 | Skittles |
-| 826 | 89 | Ferg |
-| 827 | 88 | Christina M Arroyo |
+| 826 | 89 | Catdaddy |
+| 827 | 89 | Ferg |
 | 828 | 88 | Brooke Hardin |
-| 829 | 88 | lil.goat |
-| 830 | 88 | Cool Brickline |
-| 831 | 88 | Lush Patternline |
-| 832 | 88 | Pauline Rivera |
-| 833 | 88 | plutonoodle |
-| 834 | 88 | Rachel |
-| 835 | 88 | Jaz Griffin |
-| 836 | 87 | Idk |
-| 837 | 87 | Beth Varieur |
-| 838 | 87 | Yhoppa Houston |
-| 839 | 87 | Cc |
-| 840 | 87 | Sammatha Litchfield |
-| 841 | 87 | DudeWipes |
-| 842 | 87 | Nicole Nicole |
-| 843 | 87 | Cool Chiseler |
-| 844 | 87 | Sheila Romine |
-| 845 | 87 | Kristina Courtney |
+| 829 | 88 | Christina M Arroyo |
+| 830 | 88 | lil.goat |
+| 831 | 88 | Cool Brickline |
+| 832 | 88 | Lush Patternline |
+| 833 | 88 | Pauline Rivera |
+| 834 | 88 | plutonoodle |
+| 835 | 88 | Rachel |
+| 836 | 88 | Jaz Griffin |
+| 837 | 87 | Idk |
+| 838 | 87 | Beth Varieur |
+| 839 | 87 | Yhoppa Houston |
+| 840 | 87 | Cc |
+| 841 | 87 | Sheila Romine |
+| 842 | 87 | DudeWipes |
+| 843 | 87 | Nicole Nicole |
+| 844 | 87 | Sammatha Litchfield |
+| 845 | 87 | Cool Chiseler |
 | 846 | 87 | Tracie Bruce |
 | 847 | 87 | Michelle Fields |
-| 848 | 87 | Shawna Fish |
-| 849 | 87 | Bobo |
-| 850 | 87 | Jessica Marie |
-| 851 | 87 | Carl Bradshaw |
-| 852 | 86 | Jeremy Pickard |
-| 853 | 86 | BlockieTwist |
-| 854 | 86 | Kellie Citron |
-| 855 | 86 | Joshua Arnold |
-| 856 | 86 | StartSum |
-| 857 | 86 | Natalie Turner |
-| 858 | 86 | Gage Rowley |
-| 859 | 86 | Jason VeganDude Arment |
-| 860 | 86 | Kevin C. Moe |
-| 861 | 86 | Dizzy Zigzag |
-| 862 | 86 | Brian Kurtz |
-| 863 | 85 | Kin Wah Koo |
-| 864 | 85 | Quirky Twister |
-| 865 | 85 | Angel Hollins |
-| 866 | 85 | Angela Drushella |
-| 867 | 85 | Breezy Patternline |
-| 868 | 85 | Evelyn Ortega |
+| 848 | 87 | Kristina Courtney |
+| 849 | 87 | Shawna Fish |
+| 850 | 87 | Bobo |
+| 851 | 87 | Jessica Marie |
+| 852 | 87 | Carl Bradshaw |
+| 853 | 86 | Jeremy Pickard |
+| 854 | 86 | BlockieTwist |
+| 855 | 86 | Kellie Citron |
+| 856 | 86 | Joshua Arnold |
+| 857 | 86 | StartSum |
+| 858 | 86 | Natalie Turner |
+| 859 | 86 | Gage Rowley |
+| 860 | 86 | Jason VeganDude Arment |
+| 861 | 86 | Kevin C. Moe |
+| 862 | 86 | Dizzy Zigzag |
+| 863 | 86 | Brian Kurtz |
+| 864 | 85 | Kin Wah Koo |
+| 865 | 85 | Quirky Twister |
+| 866 | 85 | Angel Hollins |
+| 867 | 85 | Angela Drushella |
+| 868 | 85 | Breezy Patternline |
 | 869 | 85 | Haly Specht |
 | 870 | 85 | Ian Burns |
 | 871 | 85 | Will Fro |
-| 872 | 85 | Janet Brown |
-| 873 | 85 | Ashleigh Marie Anderson |
-| 874 | 84 | Cozy Matchzone |
+| 872 | 85 | Ashleigh Marie Anderson |
+| 873 | 85 | Evelyn Ortega |
+| 874 | 85 | Janet Brown |
 | 875 | 84 | Amy Roach |
-| 876 | 84 | Cece |
-| 877 | 84 | Rachael Rae |
-| 878 | 84 | Sunnee Bohnstedt |
-| 879 | 84 | Mary-Pat Ward |
-| 880 | 84 | Peppy Tumbler |
+| 876 | 84 | Rachael Rae |
+| 877 | 84 | Peppy Tumbler |
+| 878 | 84 | Mary-Pat Ward |
+| 879 | 84 | Cozy Matchzone |
+| 880 | 84 | Cece |
 | 881 | 84 | Bradymae |
 | 882 | 84 | Amber Nicole |
 | 883 | 83 | Laura Slusher Updike |
 | 884 | 83 | Ty Franklin |
-| 885 | 83 | Jamie HallBalls |
-| 886 | 83 | Mary Pellegrino |
+| 885 | 83 | Jessica Foxx |
+| 886 | 83 | Jamie HallBalls |
 | 887 | 83 | HMH8 |
-| 888 | 83 | Jessica Foxx |
-| 889 | 82 | Amanda Doud |
-| 890 | 82 | Ernie |
+| 888 | 83 | Mary Pellegrino |
+| 889 | 82 | Ernie |
+| 890 | 82 | Mel |
 | 891 | 82 | Tyisha Tatum |
-| 892 | 82 | Toxocara |
+| 892 | 82 | Amanda Doud |
 | 893 | 82 | Sara Widoe |
-| 894 | 82 | Mel |
+| 894 | 82 | Toxocara |
 | 895 | 82 | Taco11 |
 | 896 | 82 | Sarah Naastad |
 | 897 | 81 | Kaylee |
@@ -907,18 +907,18 @@
 | 899 | 81 | LaQuita Coates-Heath |
 | 900 | 81 | Silly Blast |
 | 901 | 81 | Schanen Kinnaird |
-| 902 | 81 | Katherine Marie LoPresti |
-| 903 | 81 | Shannbre |
-| 904 | 81 | Debbie |
+| 902 | 81 | Missy Kalnasy |
+| 903 | 81 | Debbie |
+| 904 | 81 | Katherine Marie LoPresti |
 | 905 | 81 | Dawn Handy |
-| 906 | 81 | Sativa J Gill |
-| 907 | 81 | Snazzy Tetriblast |
-| 908 | 81 | Missy Kalnasy |
+| 906 | 81 | Snazzy Tetriblast |
+| 907 | 81 | Sativa J Gill |
+| 908 | 81 | Shannbre |
 | 909 | 80 | Kaley Edington |
-| 910 | 80 | Chris Tina |
-| 911 | 80 | Tinnkerbelle82 |
-| 912 | 80 | Chris Poole |
-| 913 | 80 | Breezey May Vosburg |
+| 910 | 80 | Breezey May Vosburg |
+| 911 | 80 | Chris Poole |
+| 912 | 80 | Tinnkerbelle82 |
+| 913 | 80 | Chris Tina |
 | 914 | 80 | Kenan Catovic |
 | 915 | 80 | Matt Bashore |
 | 916 | 80 | Thomas Tanner |
