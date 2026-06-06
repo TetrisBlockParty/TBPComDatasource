@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 22:29:17 UTC
+# Standings for team4 as of 2026-06-06 22:30:17 UTC
 
 **Total Participants:** 1177
 
@@ -182,25 +182,25 @@
 | 174 | 187 | Devinlee Brown |
 | 175 | 186 | Kimyatta Cavin |
 | 176 | 185 | Dae Von |
-| 177 | 184 | Lucy Honer |
-| 178 | 183 | Tara Delay Hill |
-| 179 | 183 | Tammy June |
-| 180 | 181 | Waxboss |
-| 181 | 181 | Goofy Riser |
-| 182 | 179 | Anna Gribble |
-| 183 | 178 | Futrell Brent |
-| 184 | 178 | Tamara Triplet |
-| 185 | 178 | Spicy Chicken |
-| 186 | 177 | Damon Gaston |
-| 187 | 177 | Chirpy Link |
-| 188 | 175 | BusterBear56 |
+| 177 | 184 | BusterBear56 |
+| 178 | 184 | Lucy Honer |
+| 179 | 183 | Tara Delay Hill |
+| 180 | 183 | Tammy June |
+| 181 | 181 | Waxboss |
+| 182 | 181 | Goofy Riser |
+| 183 | 179 | Anna Gribble |
+| 184 | 178 | Futrell Brent |
+| 185 | 178 | Tamara Triplet |
+| 186 | 178 | Spicy Chicken |
+| 187 | 177 | Damon Gaston |
+| 188 | 177 | Chirpy Link |
 | 189 | 173 | Ashley Mcdonald |
 | 190 | 172 | Tawna Curry |
 | 191 | 169 | gabs |
 | 192 | 169 | Tiffany Smith |
 | 193 | 167 | Littlebrat |
-| 194 | 166 | Sassy Rollpiece |
-| 195 | 166 | Alyson M Kehler |
+| 194 | 166 | Alyson M Kehler |
+| 195 | 166 | Sassy Rollpiece |
 | 196 | 164 | Stacy G |
 | 197 | 164 | Jackie Miller |
 | 198 | 163 | Brandy Lynn |
@@ -807,12 +807,12 @@
 | 799 | 32 | Hyper Snaplink |
 | 800 | 32 | Boldy Clicky |
 | 801 | 32 | Renzo Tonini |
-| 802 | 32 | Cranky Twisterfit |
-| 803 | 31 | Amanda Serrano Ruffner |
-| 804 | 31 | Kaash Brxtt |
-| 805 | 31 | Swanky Matchfit |
-| 806 | 31 | Breezy Blockzone |
-| 807 | 31 | Snippy Splitter |
+| 802 | 32 | Snippy Splitter |
+| 803 | 32 | Cranky Twisterfit |
+| 804 | 31 | Amanda Serrano Ruffner |
+| 805 | 31 | Kaash Brxtt |
+| 806 | 31 | Swanky Matchfit |
+| 807 | 31 | Breezy Blockzone |
 | 808 | 31 | Monkey |
 | 809 | 31 | Cflixer |
 | 810 | 31 | Breezy Brickline |
