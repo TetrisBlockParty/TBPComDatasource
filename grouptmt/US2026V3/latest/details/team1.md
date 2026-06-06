@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 05:32:39 UTC
+# Standings for team1 as of 2026-06-06 05:33:16 UTC
 
 **Total Participants:** 866
 
@@ -16,7 +16,7 @@
 | 8 | 3297 | Charlie Roehm |
 | 9 | 3039 | Chummy Combo |
 | 10 | 2398 | Death by SnuSnu |
-| 11 | 2224 | Debbie Carswell |
+| 11 | 2330 | Debbie Carswell |
 | 12 | 1913 | Sha Harris |
 | 13 | 1680 | Hunter Rayborn |
 | 14 | 1589 | Brian Stackhouse |
@@ -208,8 +208,8 @@
 | 200 | 88 | Ad Doctor |
 | 201 | 87 | Nobles Brandon |
 | 202 | 87 | Poppy Buildout |
-| 203 | 86 | Chandler Magee |
-| 204 | 86 | Keke Ferguson |
+| 203 | 87 | Keke Ferguson |
+| 204 | 86 | Chandler Magee |
 | 205 | 86 | Sanjuro |
 | 206 | 86 | krd |
 | 207 | 85 | Simmone T. Kadiri |
@@ -859,19 +859,19 @@
 | 851 | 5 | VERA DAME |
 | 852 | 5 | Tipsy Builderline |
 | 853 | 5 | Hasty Brickzone |
-| 854 | 5 | Zappy Clearfit |
-| 855 | 5 | Logan Frost |
-| 856 | 5 | Duckey |
-| 857 | 5 | Zappy Riser |
-| 858 | 5 | Tito Divyn |
-| 859 | 5 | Rieshelda Marie White |
-| 860 | 5 | the guy |
-| 861 | 5 | Derek Beverly |
-| 862 | 5 | Chill Linkroll |
-| 863 | 5 | Stephanie Zuniga Tullock |
-| 864 | 5 | Annette DeLoatch Thompson |
-| 865 | 5 | DirtiestofMikes |
-| 866 | 5 | Kidgib5 |
+| 854 | 5 | Kidgib5 |
+| 855 | 5 | Duckey |
+| 856 | 5 | DirtiestofMikes |
+| 857 | 5 | Annette DeLoatch Thompson |
+| 858 | 5 | Stephanie Zuniga Tullock |
+| 859 | 5 | Chill Linkroll |
+| 860 | 5 | Derek Beverly |
+| 861 | 5 | the guy |
+| 862 | 5 | Rieshelda Marie White |
+| 863 | 5 | Tito Divyn |
+| 864 | 5 | Zappy Clearfit |
+| 865 | 5 | Zappy Riser |
+| 866 | 5 | Logan Frost |
 
 ---
 *Standings created by tournaments datasource generation tool*
