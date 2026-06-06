@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 12:18:16 UTC
+# Standings for team1 as of 2026-06-06 12:18:38 UTC
 
 **Total Participants:** 977
 
@@ -76,11 +76,11 @@
 | 68 | 377 | JaszyBadd |
 | 69 | 377 | AF Cruz |
 | 70 | 371 | Shell Lewis |
-| 71 | 368 | Ottison Dianna |
-| 72 | 365 | Sarah Marie |
-| 73 | 363 | Voice |
-| 74 | 362 | Eric Mcgaughy |
-| 75 | 350 | Jazzy Dashpiece |
+| 71 | 370 | Jazzy Dashpiece |
+| 72 | 368 | Ottison Dianna |
+| 73 | 365 | Sarah Marie |
+| 74 | 363 | Voice |
+| 75 | 362 | Eric Mcgaughy |
 | 76 | 346 | Carolynne Walker-Bell |
 | 77 | 344 | Kevin M. McGhee Jr |
 | 78 | 337 | Lashawn Wallace |
@@ -384,8 +384,8 @@
 | 376 | 58 | Shanaa Germany Crittenden |
 | 377 | 58 | Alexandrla Smith |
 | 378 | 58 | Sonia Binti Mfalme |
-| 379 | 58 | FunTime |
-| 380 | 58 | Kimberly Susan Privette |
+| 379 | 58 | Kimberly Susan Privette |
+| 380 | 58 | FunTime |
 | 381 | 58 | Bambi Love |
 | 382 | 58 | Brandy Way |
 | 383 | 56 | Lakiesha Crawford |
@@ -394,83 +394,83 @@
 | 386 | 56 | Nichelle Warren |
 | 387 | 55 | Douglas Price |
 | 388 | 55 | KoolKimJay |
-| 389 | 55 | Dreamzzz |
-| 390 | 55 | Kyle Franklin |
-| 391 | 55 | Terrie |
-| 392 | 55 | Angelique Talbot |
-| 393 | 55 | Twisty Brickfit |
-| 394 | 54 | Elizabeth Hopkins |
-| 395 | 54 | Ryan Runyan |
-| 396 | 54 | Melissa Olvera |
-| 397 | 54 | Ace Hardware |
-| 398 | 53 | Jumpy Gridlock |
-| 399 | 53 | Clever Wrecker |
-| 400 | 53 | Cortrell Foster |
-| 401 | 52 | Dandy Brickfit |
-| 402 | 52 | Loopy Risepiece |
-| 403 | 52 | Raquel Ortiz |
-| 404 | 52 | Gabriela Hernandez |
-| 405 | 52 | Anastasia |
-| 406 | 51 | Shanjerrica Taylor Rosell |
-| 407 | 51 | Poppy Smasher |
-| 408 | 51 | Just2Play$ |
+| 389 | 55 | Twisty Brickfit |
+| 390 | 55 | Dreamzzz |
+| 391 | 55 | Kyle Franklin |
+| 392 | 55 | Terrie |
+| 393 | 55 | Angelique Talbot |
+| 394 | 54 | Nikkizz |
+| 395 | 54 | Elizabeth Hopkins |
+| 396 | 54 | Ryan Runyan |
+| 397 | 54 | Melissa Olvera |
+| 398 | 54 | Ace Hardware |
+| 399 | 53 | Jumpy Gridlock |
+| 400 | 53 | Clever Wrecker |
+| 401 | 53 | Cortrell Foster |
+| 402 | 52 | Dandy Brickfit |
+| 403 | 52 | Loopy Risepiece |
+| 404 | 52 | Raquel Ortiz |
+| 405 | 52 | Gabriela Hernandez |
+| 406 | 52 | Anastasia |
+| 407 | 51 | Shanjerrica Taylor Rosell |
+| 408 | 51 | Poppy Smasher |
 | 409 | 51 | Comedian Gdane |
 | 410 | 51 | Rachael Bakowicz Edwards |
-| 411 | 50 | Slinky Party |
-| 412 | 50 | MsBobby Patrick |
-| 413 | 50 | Nisha Sunshine Jenkins |
+| 411 | 51 | Just2Play$ |
+| 412 | 50 | Nisha Sunshine Jenkins |
+| 413 | 50 | MsBobby Patrick |
 | 414 | 50 | Rande Smith |
 | 415 | 50 | Denell Sims |
 | 416 | 50 | Teresa Yanira Cepeda |
-| 417 | 49 | Casey Chapman |
-| 418 | 49 | No_Other_Choice |
-| 419 | 49 | LexiiSamayaa |
-| 420 | 49 | Speedy Stacky |
-| 421 | 49 | SnazzyIvy |
-| 422 | 49 | Teisha Scott |
-| 423 | 48 | Clever Fitblock |
-| 424 | 48 | Bubbly Crawler |
-| 425 | 48 | Mommy Frank |
+| 417 | 50 | Slinky Party |
+| 418 | 49 | Teisha Scott |
+| 419 | 49 | No_Other_Choice |
+| 420 | 49 | Casey Chapman |
+| 421 | 49 | Speedy Stacky |
+| 422 | 49 | SnazzyIvy |
+| 423 | 49 | LexiiSamayaa |
+| 424 | 48 | Mommy Frank |
+| 425 | 48 | Bubbly Crawler |
 | 426 | 48 | Kahh |
-| 427 | 48 | Wild Out Nai |
-| 428 | 48 | LoveLee |
-| 429 | 48 | Slim Shedidthat |
-| 430 | 48 | Comedian Prince Paul |
-| 431 | 48 | Stephanie Ellis |
-| 432 | 47 | Christopher Dreamsareality McEachin |
-| 433 | 47 | Calvin Green |
-| 434 | 47 | Kevin Turner |
-| 435 | 47 | Faith Armone |
-| 436 | 47 | Sugar Foot |
-| 437 | 47 | Mami Badd |
-| 438 | 47 | Smiley Tilebuilder |
-| 439 | 47 | Shameka Thrasher |
-| 440 | 47 | Poppy Twister |
-| 441 | 47 | Zany Breaker |
-| 442 | 47 | Derrius SeriousLee Burks |
-| 443 | 47 | Sherri Keys |
-| 444 | 46 | Derald Miller |
-| 445 | 46 | Nikkizz |
-| 446 | 46 | Kimberly Anderson |
-| 447 | 46 | Kate Hancock Malicek |
-| 448 | 46 | Chris Nelson |
-| 449 | 46 | Maria Baez Medina |
-| 450 | 46 | David A Alvino |
-| 451 | 46 | Ja'mice Nelson |
-| 452 | 46 | Sammie Walker |
-| 453 | 46 | Anthony |
-| 454 | 46 | Felicia Dungey |
-| 455 | 45 | Y3llOWFAC3 |
-| 456 | 45 | Erika Windom |
-| 457 | 45 | Jenni Hardman |
-| 458 | 45 | nameno |
-| 459 | 45 | Glitzy Clusterer |
-| 460 | 45 | Victoria Smith |
-| 461 | 45 | Adrian Harris |
+| 427 | 48 | Clever Fitblock |
+| 428 | 48 | Wild Out Nai |
+| 429 | 48 | LoveLee |
+| 430 | 48 | Slim Shedidthat |
+| 431 | 48 | Comedian Prince Paul |
+| 432 | 48 | Stephanie Ellis |
+| 433 | 47 | Shameka Thrasher |
+| 434 | 47 | Calvin Green |
+| 435 | 47 | Kevin Turner |
+| 436 | 47 | Faith Armone |
+| 437 | 47 | Sugar Foot |
+| 438 | 47 | Mami Badd |
+| 439 | 47 | Smiley Tilebuilder |
+| 440 | 47 | Christopher Dreamsareality McEachin |
+| 441 | 47 | Poppy Twister |
+| 442 | 47 | Zany Breaker |
+| 443 | 47 | Derrius SeriousLee Burks |
+| 444 | 47 | Sherri Keys |
+| 445 | 46 | Anthony |
+| 446 | 46 | Derald Miller |
+| 447 | 46 | Maria Baez Medina |
+| 448 | 46 | Sammie Walker |
+| 449 | 46 | Felicia Dungey |
+| 450 | 46 | Ja'mice Nelson |
+| 451 | 46 | David A Alvino |
+| 452 | 46 | Kimberly Anderson |
+| 453 | 46 | Chris Nelson |
+| 454 | 46 | Kate Hancock Malicek |
+| 455 | 45 | Jenni Hardman |
+| 456 | 45 | nameno |
+| 457 | 45 | Y3llOWFAC3 |
+| 458 | 45 | Glitzy Clusterer |
+| 459 | 45 | Victoria Smith |
+| 460 | 45 | Eli Delao |
+| 461 | 45 | Erika Windom |
 | 462 | 45 | Missy Myvette |
-| 463 | 45 | Robbie Cheeseman |
-| 464 | 45 | Renee J. Thomas |
-| 465 | 45 | Eli Delao |
+| 463 | 45 | Adrian Harris |
+| 464 | 45 | Robbie Cheeseman |
+| 465 | 45 | Renee J. Thomas |
 | 466 | 44 | Tamara Johnson-Carter |
 | 467 | 44 | Nic Nic |
 | 468 | 44 | GiantBehemoth |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 12:18:16 UTC
+# Standings for team2 as of 2026-06-06 12:18:38 UTC
 
 **Total Participants:** 1134
 
@@ -45,9 +45,9 @@
 | 37 | 1335 | Christina Jambard Sampier |
 | 38 | 1206 | Happy Pivotfall |
 | 39 | 1201 | Monica Galli |
-| 40 | 1174 | Betty Barrett |
-| 41 | 1128 | Jennifer Corder |
-| 42 | 1114 | Logan Basham |
+| 40 | 1185 | Logan Basham |
+| 41 | 1174 | Betty Barrett |
+| 42 | 1128 | Jennifer Corder |
 | 43 | 1031 | DarkHorse |
 | 44 | 1027 | Frilly Match |
 | 45 | 906 | Julie Trede Amerson |
@@ -154,12 +154,12 @@
 | 146 | 186 | haune |
 | 147 | 185 | Logan Duffey |
 | 148 | 184 | Lush Party |
-| 149 | 179 | Chipper Stackbuilder |
-| 150 | 179 | Nathan Walker |
-| 151 | 179 | Jessica Lynn |
-| 152 | 179 | Lily |
-| 153 | 179 | Zarah Kettler |
-| 154 | 178 | Theresa Marie |
+| 149 | 181 | Theresa Marie |
+| 150 | 179 | Chipper Stackbuilder |
+| 151 | 179 | Nathan Walker |
+| 152 | 179 | Jessica Lynn |
+| 153 | 179 | Lily |
+| 154 | 179 | Zarah Kettler |
 | 155 | 177 | Xandrea Jones |
 | 156 | 174 | Nettrainer |
 | 157 | 169 | Rhonda Diebold |
@@ -210,16 +210,16 @@
 | 202 | 136 | Lashanda Bertram |
 | 203 | 135 | Marylin Eacker |
 | 204 | 135 | Tina Marie |
-| 205 | 133 | Bengy Lead |
-| 206 | 132 | Spunky Cascadeclear |
-| 207 | 132 | Alison Waller |
-| 208 | 132 | Mtnblzr |
-| 209 | 131 | Ratchet |
-| 210 | 131 | Harper |
-| 211 | 131 | Amy Lea Hamilton |
+| 205 | 134 | Ratchet |
+| 206 | 133 | Bengy Lead |
+| 207 | 132 | Spunky Cascadeclear |
+| 208 | 132 | Alison Waller |
+| 209 | 132 | Mtnblzr |
+| 210 | 131 | Amy Lea Hamilton |
+| 211 | 131 | Harper |
 | 212 | 130 | Precious Womack |
-| 213 | 130 | Laverne Ellis Blair |
-| 214 | 130 | ZBee |
+| 213 | 130 | ZBee |
+| 214 | 130 | Laverne Ellis Blair |
 | 215 | 129 | Armando Sabedra |
 | 216 | 129 | Amy Taylor Pomerenk |
 | 217 | 128 | Teddy Williams |
