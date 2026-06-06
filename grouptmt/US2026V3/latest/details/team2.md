@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 15:54:16 UTC
+# Standings for team2 as of 2026-06-06 15:54:39 UTC
 
 **Total Participants:** 1233
 
@@ -17,7 +17,7 @@
 | 9 | 5704 | Cori Keberlein |
 | 10 | 5660 | A.j. Langley |
 | 11 | 5654 | Christina Shell |
-| 12 | 5200 | Mocha |
+| 12 | 5500 | Mocha |
 | 13 | 3984 | Amber |
 | 14 | 3812 | Crystal M Sowden |
 | 15 | 3678 | Renee Weedling |

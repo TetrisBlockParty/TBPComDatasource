@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 15:54:16 UTC
+# Standings for team4 as of 2026-06-06 15:54:39 UTC
 
 **Total Participants:** 1040
 
@@ -101,12 +101,12 @@
 | 93 | 320 | DexterDobbins |
 | 94 | 317 | J |
 | 95 | 302 | JoLinda Dunn |
-| 96 | 301 | Маркус Вік |
-| 97 | 300 | Genag |
-| 98 | 300 | 2 kool |
-| 99 | 299 | Kim |
-| 100 | 295 | Thomasena Eady Reid |
-| 101 | 292 | GeorgeButts |
+| 96 | 301 | GeorgeButts |
+| 97 | 301 | Маркус Вік |
+| 98 | 300 | Genag |
+| 99 | 300 | 2 kool |
+| 100 | 299 | Kim |
+| 101 | 295 | Thomasena Eady Reid |
 | 102 | 283 | Jesse Olive |
 | 103 | 280 | Andrew Dang |
 | 104 | 267 | Cranky Towerbuilder |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 15:54:16 UTC
+# Standings for team1 as of 2026-06-06 15:54:39 UTC
 
 **Total Participants:** 1049
 
@@ -141,26 +141,26 @@
 | 133 | 216 | Nerdy Snapfall |
 | 134 | 214 | Po Marley |
 | 135 | 214 | Tonya McElroy |
-| 136 | 212 | Nobles Brandon |
-| 137 | 209 | Zachary Colegrove |
-| 138 | 208 | Mic Balew |
-| 139 | 206 | Weeze |
-| 140 | 206 | Curtis T Cirno |
-| 141 | 204 | David Fuentes |
-| 142 | 200 | Felicia Cain |
-| 143 | 199 | Asani CHumba |
-| 144 | 199 | Teddy Davis |
-| 145 | 198 | W.A. Simpson |
-| 146 | 197 | BYM4L |
-| 147 | 196 | Eugina Slater |
-| 148 | 195 | Christian Pham |
-| 149 | 194 | Daris Swearington |
-| 150 | 193 | Brave Clearbuilder |
-| 151 | 191 | Lashaunda |
-| 152 | 191 | Kelli Couture |
-| 153 | 190 | Davionte DaeDae Hopson-Rodriguez |
-| 154 | 184 | Dai Bo |
-| 155 | 184 | April Inboden |
+| 136 | 214 | April Inboden |
+| 137 | 212 | Nobles Brandon |
+| 138 | 209 | Zachary Colegrove |
+| 139 | 208 | Mic Balew |
+| 140 | 206 | Weeze |
+| 141 | 206 | Curtis T Cirno |
+| 142 | 204 | David Fuentes |
+| 143 | 200 | Felicia Cain |
+| 144 | 199 | Asani CHumba |
+| 145 | 199 | Teddy Davis |
+| 146 | 198 | W.A. Simpson |
+| 147 | 197 | BYM4L |
+| 148 | 196 | Eugina Slater |
+| 149 | 195 | Christian Pham |
+| 150 | 194 | Daris Swearington |
+| 151 | 193 | Brave Clearbuilder |
+| 152 | 191 | Lashaunda |
+| 153 | 191 | Kelli Couture |
+| 154 | 190 | Davionte DaeDae Hopson-Rodriguez |
+| 155 | 184 | Dai Bo |
 | 156 | 182 | Hyper Blocky |
 | 157 | 179 | Amber Wilson |
 | 158 | 179 | ♈️ Ariesbaby |
@@ -176,10 +176,10 @@
 | 168 | 166 | Tarnisha Neicy Jones |
 | 169 | 164 | Cathy Young |
 | 170 | 163 | Mafio SO |
-| 171 | 160 | Zippy Lifter |
+| 171 | 160 | Chilly Wipebuilder |
 | 172 | 160 | Carolyn Smith |
 | 173 | 160 | Jamie Willis |
-| 174 | 160 | Chilly Wipebuilder |
+| 174 | 160 | Zippy Lifter |
 | 175 | 160 | DaGuy |
 | 176 | 160 | Tishauna Virgo |
 | 177 | 160 | Sara Meri |
