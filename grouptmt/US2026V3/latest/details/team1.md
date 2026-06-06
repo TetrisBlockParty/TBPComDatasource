@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 15:46:16 UTC
+# Standings for team1 as of 2026-06-06 15:46:40 UTC
 
 **Total Participants:** 1049
 
@@ -83,11 +83,11 @@
 | 75 | 392 | She Higgy |
 | 76 | 388 | SPNLover24 |
 | 77 | 387 | Novaa |
-| 78 | 380 | Jessica Carter |
-| 79 | 380 | Bre Maugh |
-| 80 | 377 | JaszyBadd |
+| 78 | 382 | Gael Quintana |
+| 79 | 380 | Jessica Carter |
+| 80 | 380 | Bre Maugh |
 | 81 | 377 | AF Cruz |
-| 82 | 372 | Gael Quintana |
+| 82 | 377 | JaszyBadd |
 | 83 | 371 | Shell Lewis |
 | 84 | 370 | Eric Mcgaughy |
 | 85 | 365 | Sarah Marie |
@@ -99,12 +99,12 @@
 | 91 | 342 | Kimberly Hernandez |
 | 92 | 334 | Christana Imjustbutton Stone |
 | 93 | 332 | Hyper Slamdrop |
-| 94 | 328 | Big Tina |
-| 95 | 328 | Jonathan Vee Jay |
+| 94 | 328 | Jonathan Vee Jay |
+| 95 | 328 | Big Tina |
 | 96 | 325 | Joey Albright |
 | 97 | 323 | Sheila Burnham |
-| 98 | 319 | Abraham Espaillat |
-| 99 | 319 | GrkGdess |
+| 98 | 319 | GrkGdess |
+| 99 | 319 | Abraham Espaillat |
 | 100 | 316 | Ty Øtg |
 | 101 | 305 | John Staub |
 | 102 | 304 | Jason Mungin |
@@ -137,18 +137,18 @@
 | 129 | 220 | Devin West |
 | 130 | 220 | Dacia Hicks |
 | 131 | 216 | Nerdy Snapfall |
-| 132 | 214 | Po Marley |
-| 133 | 214 | Tonya McElroy |
+| 132 | 214 | Tonya McElroy |
+| 133 | 214 | Po Marley |
 | 134 | 212 | Nobles Brandon |
-| 135 | 209 | Zachary Colegrove |
-| 136 | 209 | Tonya Lee Sanders |
+| 135 | 209 | Tonya Lee Sanders |
+| 136 | 209 | Zachary Colegrove |
 | 137 | 208 | Mic Balew |
 | 138 | 206 | Curtis T Cirno |
 | 139 | 206 | Weeze |
 | 140 | 204 | David Fuentes |
 | 141 | 200 | Felicia Cain |
-| 142 | 199 | Teddy Davis |
-| 143 | 199 | Asani CHumba |
+| 142 | 199 | Asani CHumba |
+| 143 | 199 | Teddy Davis |
 | 144 | 198 | W.A. Simpson |
 | 145 | 197 | BYM4L |
 | 146 | 196 | Eugina Slater |
@@ -161,11 +161,11 @@
 | 153 | 186 | Denise B |
 | 154 | 184 | Dai Bo |
 | 155 | 182 | Hyper Blocky |
-| 156 | 179 | Amber Wilson |
-| 157 | 179 | ♈️ Ariesbaby |
-| 158 | 176 | Anthony Washington |
-| 159 | 176 | Nikki Hogan |
-| 160 | 176 | Andre Sanon |
+| 156 | 179 | ♈️ Ariesbaby |
+| 157 | 179 | Amber Wilson |
+| 158 | 176 | Andre Sanon |
+| 159 | 176 | Anthony Washington |
+| 160 | 176 | Nikki Hogan |
 | 161 | 175 | Rayshawn Cohen |
 | 162 | 174 | Reginald Frank |
 | 163 | 171 | Boldy Liner |
@@ -175,13 +175,13 @@
 | 167 | 166 | Tarnisha Neicy Jones |
 | 168 | 164 | Cathy Young |
 | 169 | 163 | Mafio SO |
-| 170 | 160 | Sara Meri |
-| 171 | 160 | Chilly Wipebuilder |
-| 172 | 160 | DaGuy |
-| 173 | 160 | Carolyn Smith |
-| 174 | 160 | Jamie Willis |
-| 175 | 160 | Tishauna Virgo |
-| 176 | 160 | Zippy Lifter |
+| 170 | 160 | Zippy Lifter |
+| 171 | 160 | Jamie Willis |
+| 172 | 160 | Sara Meri |
+| 173 | 160 | DaGuy |
+| 174 | 160 | Carolyn Smith |
+| 175 | 160 | Chilly Wipebuilder |
+| 176 | 160 | Tishauna Virgo |
 | 177 | 159 | Fina McKinnis |
 | 178 | 158 | Tina Mitchell |
 | 179 | 156 | Cheeky Pop |
@@ -189,13 +189,13 @@
 | 181 | 149 | Lively Riserpiece |
 | 182 | 149 | Cee Emm |
 | 183 | 147 | MACHETEEDDIE513 |
-| 184 | 146 | BlackQueen105 |
-| 185 | 146 | Jai |
-| 186 | 146 | IThinkNot |
+| 184 | 146 | Jai |
+| 185 | 146 | IThinkNot |
+| 186 | 146 | BlackQueen105 |
 | 187 | 145 | Latisha Fairley |
 | 188 | 144 | TBABYJ |
-| 189 | 143 | Sammie Walker |
-| 190 | 143 | BULLSEYE |
+| 189 | 143 | BULLSEYE |
+| 190 | 143 | Sammie Walker |
 | 191 | 142 | Mikayla |
 | 192 | 141 | Shalena Marie Humphrey |
 | 193 | 140 | Antoinette Jones |
@@ -206,37 +206,37 @@
 | 198 | 135 | Dawn L Washington-Feuquay |
 | 199 | 135 | Sean White |
 | 200 | 134 | April Inboden |
-| 201 | 133 | Robbie Cheeseman |
-| 202 | 133 | Kimberly Linares Hernandez |
-| 203 | 133 | Ebony Waynes-robinson |
-| 204 | 133 | Byron Mario Cawthon |
+| 201 | 133 | Kimberly Linares Hernandez |
+| 202 | 133 | Ebony Waynes-robinson |
+| 203 | 133 | Byron Mario Cawthon |
+| 204 | 133 | Robbie Cheeseman |
 | 205 | 132 | Jolly Tilefall |
-| 206 | 130 | Rolanda Williams |
+| 206 | 131 | pooh |
 | 207 | 130 | Jessica Davis |
 | 208 | 130 | Emily Wright |
 | 209 | 130 | Dion Gray |
-| 210 | 127 | Cheeky Twistpiece |
-| 211 | 126 | Tremaine Hiler |
-| 212 | 126 | Stephen Providenti |
-| 213 | 126 | pooh |
-| 214 | 125 | LaTonya Myers |
-| 215 | 125 | LaShaun Stinson |
-| 216 | 124 | Queenie Perry |
+| 210 | 130 | Rolanda Williams |
+| 211 | 127 | Cheeky Twistpiece |
+| 212 | 126 | Tremaine Hiler |
+| 213 | 126 | Stephen Providenti |
+| 214 | 125 | LaShaun Stinson |
+| 215 | 125 | LaTonya Myers |
+| 216 | 125 | Jack Vlasak |
 | 217 | 124 | Courtney Cicoria |
-| 218 | 124 | Jack Vlasak |
-| 219 | 123 | Lisa Fletcher |
-| 220 | 123 | Cauiasia DeJ'ae |
+| 218 | 124 | Queenie Perry |
+| 219 | 123 | Cauiasia DeJ'ae |
+| 220 | 123 | Lisa Fletcher |
 | 221 | 123 | Simone Bailey |
 | 222 | 122 | Miera Nicole |
-| 223 | 121 | Tiana Monique |
+| 223 | 121 | Rachel Zimmerman |
 | 224 | 121 | Treneil Daffin |
-| 225 | 121 | Rachel Zimmerman |
-| 226 | 120 | xXEKUNXx |
-| 227 | 120 | Nerdy Blockpiece |
-| 228 | 120 | Valerie Alexander |
-| 229 | 120 | Spicy Risepiece |
-| 230 | 120 | Brittanie Wardlow |
-| 231 | 120 | Guy Incognito |
+| 225 | 121 | Tiana Monique |
+| 226 | 120 | Valerie Alexander |
+| 227 | 120 | Guy Incognito |
+| 228 | 120 | Spicy Risepiece |
+| 229 | 120 | Brittanie Wardlow |
+| 230 | 120 | xXEKUNXx |
+| 231 | 120 | Nerdy Blockpiece |
 | 232 | 120 | Saucy Tile |
 | 233 | 118 | Tanisha Taylor |
 | 234 | 118 | Hasty Pivoty |
@@ -245,9 +245,9 @@
 | 237 | 115 | Dizzy Dashy |
 | 238 | 115 | Kenny MrOnethousand Peck |
 | 239 | 114 | LAhoneybun82 |
-| 240 | 112 | GamerQueenDS |
-| 241 | 112 | Bre Poston |
-| 242 | 112 | Tipsy Linkroll |
+| 240 | 112 | Tipsy Linkroll |
+| 241 | 112 | GamerQueenDS |
+| 242 | 112 | Bre Poston |
 | 243 | 111 | Lesley Brunkus Cianfaglione |
 | 244 | 110 | Bubbly Piececlear |
 | 245 | 110 | Atlantalindi |
@@ -293,33 +293,33 @@
 | 285 | 90 | Charlene Baltimore |
 | 286 | 88 | QueenShay AllGood |
 | 287 | 88 | Ad Doctor |
-| 288 | 88 | izzybella |
+| 288 | 88 | Wacky Stackbuilder |
 | 289 | 88 | TT |
-| 290 | 87 | Poppy Buildout |
-| 291 | 87 | Choc |
-| 292 | 87 | Karebear |
-| 293 | 86 | Yashica Smith |
+| 290 | 88 | izzybella |
+| 291 | 87 | Poppy Buildout |
+| 292 | 87 | Choc |
+| 293 | 87 | Karebear |
 | 294 | 86 | Chummy Frame |
 | 295 | 86 | Chandler Magee |
-| 296 | 86 | krd |
-| 297 | 85 | Simmone T. Kadiri |
-| 298 | 85 | Skippy |
-| 299 | 85 | Slinky Snapbuilder |
-| 300 | 84 | Franklin Sotelo |
+| 296 | 86 | Yashica Smith |
+| 297 | 86 | krd |
+| 298 | 85 | Simmone T. Kadiri |
+| 299 | 85 | Skippy |
+| 300 | 85 | Slinky Snapbuilder |
 | 301 | 84 | NastyFriend |
-| 302 | 84 | kitten |
-| 303 | 83 | Wacky Stackbuilder |
-| 304 | 83 | Shameka Thrasher |
-| 305 | 83 | Slinky Brickmatch |
-| 306 | 82 | MrsMeadows2019 |
-| 307 | 82 | Cachet A Ward |
-| 308 | 82 | Peppy Glider |
-| 309 | 82 | Christi Walker Patton |
-| 310 | 82 | Breezy Catcher |
-| 311 | 82 | Angela Brown Babin |
+| 302 | 84 | Franklin Sotelo |
+| 303 | 84 | kitten |
+| 304 | 83 | Slinky Brickmatch |
+| 305 | 83 | Shameka Thrasher |
+| 306 | 82 | Cachet A Ward |
+| 307 | 82 | MrsMeadows2019 |
+| 308 | 82 | Christi Walker Patton |
+| 309 | 82 | Peppy Glider |
+| 310 | 82 | Angela Brown Babin |
+| 311 | 82 | Breezy Catcher |
 | 312 | 81 | Sarah Steckbauer |
-| 313 | 81 | rls |
-| 314 | 81 | Rachael Bakowicz Edwards |
+| 313 | 81 | Rachael Bakowicz Edwards |
+| 314 | 81 | rls |
 | 315 | 81 | Jae Thompson-Tyus |
 | 316 | 81 | Cynthia Cruell |
 | 317 | 81 | wmedina67 |
