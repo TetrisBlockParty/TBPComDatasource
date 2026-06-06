@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 20:22:38 UTC
+# Standings for team2 as of 2026-06-06 20:23:16 UTC
 
 **Total Participants:** 1362
 
@@ -48,8 +48,8 @@
 | 40 | 1482 | Aubree Richard |
 | 41 | 1412 | Happy Pivotfall |
 | 42 | 1410 | Logan Basham |
-| 43 | 1400 | Danni Campa |
-| 44 | 1392 | Christina Jambard Sampier |
+| 43 | 1402 | Christina Jambard Sampier |
+| 44 | 1400 | Danni Campa |
 | 45 | 1357 | Elizabeth Mooney |
 | 46 | 1350 | Andrew Weissenborn |
 | 47 | 1326 | Julie Trede Amerson |
@@ -115,8 +115,8 @@
 | 107 | 428 | Steven Craig |
 | 108 | 405 | Judy Long |
 | 109 | 402 | Lisa Breiding |
-| 110 | 400 | Allie Bug |
-| 111 | 400 | Smashanator |
+| 110 | 400 | Smashanator |
+| 111 | 400 | Allie Bug |
 | 112 | 390 | La chulis |
 | 113 | 387 | Suki Jacobs |
 | 114 | 377 | Brandy McCune Reep |
@@ -130,15 +130,15 @@
 | 122 | 342 | Bri St Peter |
 | 123 | 340 | Le Sandy |
 | 124 | 340 | Mom |
-| 125 | 333 | Heather Marie-Tarlton Britt |
-| 126 | 333 | Zarah Kettler |
+| 125 | 333 | Zarah Kettler |
+| 126 | 333 | Heather Marie-Tarlton Britt |
 | 127 | 332 | Jason Cook |
 | 128 | 328 | Tim Tim |
 | 129 | 325 | Amy Gregg |
 | 130 | 324 | Jgato |
-| 131 | 319 | Michelle Rich Burkhart |
-| 132 | 319 | Bon Lynn |
-| 133 | 319 | Shannon Wilson |
+| 131 | 319 | Shannon Wilson |
+| 132 | 319 | Michelle Rich Burkhart |
+| 133 | 319 | Bon Lynn |
 | 134 | 317 | Ruby Sandberg |
 | 135 | 315 | Milad Arzani |
 | 136 | 313 | Cool Climber |
@@ -306,92 +306,92 @@
 | 298 | 128 | Teddy Williams |
 | 299 | 127 | Paula Haskins |
 | 300 | 126 | Teresa Mandich |
-| 301 | 125 | Gwendolyn Boykin Mobbs |
-| 302 | 125 | Jill Goff |
+| 301 | 125 | Jill Goff |
+| 302 | 125 | Gwendolyn Boykin Mobbs |
 | 303 | 125 | Ariel Gundersen |
 | 304 | 124 | Tina |
 | 305 | 124 | Jason Burris |
 | 306 | 122 | Sara Perkins |
-| 307 | 121 | Tango Sierra |
-| 308 | 121 | Lisa Allen Frisk |
-| 309 | 120 | Carlos J Blas |
-| 310 | 120 | Jessica Connot |
-| 311 | 120 | Happy |
-| 312 | 120 | Charity Hauser |
-| 313 | 120 | Elizabeth Cornelius |
-| 314 | 120 | Sassy Twistbuilder |
-| 315 | 120 | Keisha Robinson |
-| 316 | 120 | Simone F |
-| 317 | 120 | Kevin Mccoy |
+| 307 | 121 | Lisa Allen Frisk |
+| 308 | 121 | Tango Sierra |
+| 309 | 120 | Simone F |
+| 310 | 120 | Elizabeth Cornelius |
+| 311 | 120 | Sassy Twistbuilder |
+| 312 | 120 | Carlos J Blas |
+| 313 | 120 | Happy |
+| 314 | 120 | Keisha Robinson |
+| 315 | 120 | Kevin Mccoy |
+| 316 | 120 | Charity Hauser |
+| 317 | 120 | Jessica Connot |
 | 318 | 119 | Perii Reynoso |
 | 319 | 118 | Ceci |
 | 320 | 114 | Ashley Voelz |
-| 321 | 113 | Meagan Grimmett Washburn |
-| 322 | 113 | Sherri E Woods Hess |
-| 323 | 112 | Cindy Scott |
-| 324 | 112 | Traci Abern |
-| 325 | 111 | Nikki Hatch |
-| 326 | 111 | Bianca Woodruff |
-| 327 | 111 | Charles E Mccardell |
-| 328 | 111 | Anthony Swift |
-| 329 | 110 | Nichole Wilson |
-| 330 | 110 | Katie Jones |
-| 331 | 110 | Zappy Liney |
-| 332 | 109 | Kevin Patrick |
+| 321 | 113 | Sherri E Woods Hess |
+| 322 | 113 | Meagan Grimmett Washburn |
+| 323 | 112 | Traci Abern |
+| 324 | 112 | Cindy Scott |
+| 325 | 112 | Aurora June Brock |
+| 326 | 111 | Nikki Hatch |
+| 327 | 111 | Anthony Swift |
+| 328 | 111 | Bianca Woodruff |
+| 329 | 111 | Charles E Mccardell |
+| 330 | 110 | Zappy Liney |
+| 331 | 110 | Katie Jones |
+| 332 | 110 | Nichole Wilson |
 | 333 | 109 | Cathy Tippett |
-| 334 | 109 | Kawana Nesbitt |
-| 335 | 108 | Rachel Nilles |
-| 336 | 107 | Angeleye A James |
+| 334 | 109 | Kevin Patrick |
+| 335 | 109 | Kawana Nesbitt |
+| 336 | 108 | Rachel Nilles |
 | 337 | 107 | LittleHippoEars |
-| 338 | 107 | Michelle M Braley |
+| 338 | 107 | Melmel |
 | 339 | 107 | Carole Brown |
-| 340 | 107 | Melmel |
-| 341 | 105 | Erica South |
+| 340 | 107 | Angeleye A James |
+| 341 | 107 | Michelle M Braley |
 | 342 | 105 | Tamtam |
 | 343 | 105 | Saucy Wrecker |
-| 344 | 104 | MegaPooh |
-| 345 | 104 | Reign Hustler |
-| 346 | 104 | murd3rmous3 |
+| 344 | 105 | Erica South |
+| 345 | 104 | Nova Nova |
+| 346 | 104 | Reign Hustler |
 | 347 | 104 | Roe Sarmiento |
-| 348 | 104 | Nova Nova |
-| 349 | 103 | Elizabeth Kline |
-| 350 | 102 | Alissa Ary |
-| 351 | 102 | Tammy Roth |
+| 348 | 104 | MegaPooh |
+| 349 | 104 | murd3rmous3 |
+| 350 | 103 | Elizabeth Kline |
+| 351 | 102 | Alissa Ary |
 | 352 | 102 | Boldy Fitclear |
-| 353 | 101 | Cristi Doris |
-| 354 | 101 | Aurora June Brock |
-| 355 | 101 | Cassandra Milner |
+| 353 | 102 | Tammy Roth |
+| 354 | 101 | Cassandra Milner |
+| 355 | 101 | Cristi Doris |
 | 356 | 101 | Jef Wassom |
-| 357 | 100 | August Christy Lathrop |
-| 358 | 100 | Alice Petterborg Barberich |
+| 357 | 100 | Alice Petterborg Barberich |
+| 358 | 100 | Leticia Tillman |
 | 359 | 100 | Thomas Tyrone |
 | 360 | 100 | Ber |
-| 361 | 100 | Leticia Tillman |
-| 362 | 99 | Lively Curve |
-| 363 | 99 | Francesca Wagenhoffer |
-| 364 | 99 | Gabrielle Rivera |
-| 365 | 99 | Melissa Abbott |
-| 366 | 99 | Jennifer Vitro |
-| 367 | 98 | Lindsey Ross |
+| 361 | 100 | August Christy Lathrop |
+| 362 | 99 | Jennifer Vitro |
+| 363 | 99 | Lively Curve |
+| 364 | 99 | Melissa Abbott |
+| 365 | 99 | Gabrielle Rivera |
+| 366 | 99 | Francesca Wagenhoffer |
+| 367 | 98 | Mary Carriere |
 | 368 | 98 | Justin McCray |
-| 369 | 98 | Mary Carriere |
-| 370 | 98 | Alonzo Reed |
-| 371 | 97 | Abby |
-| 372 | 97 | Tracy Tokarz |
-| 373 | 97 | Jennifer McClure |
-| 374 | 97 | Sandra Pursell |
+| 369 | 98 | Alonzo Reed |
+| 370 | 98 | Lindsey Ross |
+| 371 | 97 | Jennifer McClure |
+| 372 | 97 | Abby |
+| 373 | 97 | Sandra Pursell |
+| 374 | 97 | Tracy Tokarz |
 | 375 | 96 | Breezy |
 | 376 | 96 | Maria Ward |
 | 377 | 95 | Wendy Mcbride |
 | 378 | 95 | Mike Mordhorst |
 | 379 | 95 | Wacky Holder |
-| 380 | 94 | Donna Segletes Kay |
-| 381 | 94 | Mandy Van Laningham Bishop |
+| 380 | 94 | Paige Lynette Sohl |
+| 381 | 94 | Donna Segletes Kay |
 | 382 | 94 | Earline Dupuy Bordelon |
-| 383 | 94 | Paige Lynette Sohl |
-| 384 | 93 | Mataya |
+| 383 | 94 | Mandy Van Laningham Bishop |
+| 384 | 93 | Connie Breeden |
 | 385 | 93 | Jumpy Matchbuilder |
-| 386 | 93 | Connie Breeden |
+| 386 | 93 | Mataya |
 | 387 | 92 | Jayda Walters |
 | 388 | 92 | Brooke Kaune |
 | 389 | 92 | Jumpy Dashpiece |
