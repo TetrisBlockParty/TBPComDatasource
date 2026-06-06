@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 19:33:18 UTC
+# Standings for team1 as of 2026-06-06 19:34:18 UTC
 
 **Total Participants:** 1132
 
@@ -108,8 +108,8 @@
 | 100 | 374 | Lashawn Wallace |
 | 101 | 373 | Catara Renae Oliver |
 | 102 | 365 | Quirky Fallgrid |
-| 103 | 344 | Kevin M. McGhee Jr |
-| 104 | 343 | Jamal Itzjusmall Chambers |
+| 103 | 360 | Jamal Itzjusmall Chambers |
+| 104 | 344 | Kevin M. McGhee Jr |
 | 105 | 334 | Christana Imjustbutton Stone |
 | 106 | 332 | Hyper Slamdrop |
 | 107 | 328 | Jonathan Vee Jay |

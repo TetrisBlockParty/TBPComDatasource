@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 19:33:18 UTC
+# Standings for team2 as of 2026-06-06 19:34:18 UTC
 
 **Total Participants:** 1339
 
@@ -135,11 +135,11 @@
 | 127 | 319 | Michelle Rich Burkhart |
 | 128 | 319 | Shannon Wilson |
 | 129 | 317 | Ruby Sandberg |
-| 130 | 315 | Milad Arzani |
-| 131 | 313 | Cool Climber |
-| 132 | 311 | Nikki Hayes |
-| 133 | 310 | Jennifer Smith |
-| 134 | 310 | Suki Jacobs |
+| 130 | 316 | Suki Jacobs |
+| 131 | 315 | Milad Arzani |
+| 132 | 313 | Cool Climber |
+| 133 | 311 | Nikki Hayes |
+| 134 | 310 | Jennifer Smith |
 | 135 | 302 | Hypee |
 | 136 | 301 | Hoppy Mover |
 | 137 | 300 | Linda Guay |
@@ -698,51 +698,51 @@
 | 690 | 46 | Morgan Olson Pingree |
 | 691 | 46 | Flashy Hitter |
 | 692 | 46 | Dani Newton |
-| 693 | 46 | Denna Marteney |
-| 694 | 46 | Jana Campbell |
+| 693 | 46 | Jana Campbell |
+| 694 | 46 | Denna Marteney |
 | 695 | 46 | CATFISH |
 | 696 | 46 | Nikki Sadler |
 | 697 | 46 | Quirky Gridclear |
-| 698 | 45 | Linzy Ratliff |
+| 698 | 45 | Chill Wipegrid |
 | 699 | 45 | Bouncy Cluster |
-| 700 | 45 | Heather |
-| 701 | 45 | Chummy Snapbuilder |
-| 702 | 45 | Nora Buchan |
-| 703 | 45 | Peppy Piececlear |
-| 704 | 45 | Laura Fagans |
-| 705 | 45 | ChefDeb |
-| 706 | 45 | Jessica LeNeave |
-| 707 | 45 | Chill Wipegrid |
-| 708 | 45 | Loopy Zone |
-| 709 | 45 | CEK |
-| 710 | 45 | Michelle Anne |
-| 711 | 45 | Chatty |
-| 712 | 45 | Mona Smith |
-| 713 | 45 | Alimae |
-| 714 | 45 | Smiley Cornerfall |
-| 715 | 45 | Frisky Linkbuilder |
-| 716 | 44 | Michael James |
-| 717 | 44 | Robert W Schwartz |
-| 718 | 44 | Jackie Moran Tiller |
-| 719 | 44 | Katie Boen |
-| 720 | 43 | Newtwidebody |
-| 721 | 43 | Suzanne Davis |
-| 722 | 43 | Kourtney Heiden-Hudson |
-| 723 | 43 | Jolly Twisterfit |
-| 724 | 43 | Pamela Gambrell |
-| 725 | 43 | Kayla Faulkiner |
-| 726 | 43 | Perky Linebuilder |
-| 727 | 43 | Peter Fogg |
-| 728 | 43 | Witty Riser |
-| 729 | 42 | Snazzy Smasher |
+| 700 | 45 | Linzy Ratliff |
+| 701 | 45 | Heather |
+| 702 | 45 | Chummy Snapbuilder |
+| 703 | 45 | Nora Buchan |
+| 704 | 45 | Peppy Piececlear |
+| 705 | 45 | Laura Fagans |
+| 706 | 45 | ChefDeb |
+| 707 | 45 | Jessica LeNeave |
+| 708 | 45 | Alimae |
+| 709 | 45 | Loopy Zone |
+| 710 | 45 | CEK |
+| 711 | 45 | Michelle Anne |
+| 712 | 45 | Smiley Cornerfall |
+| 713 | 45 | Frisky Linkbuilder |
+| 714 | 45 | Mona Smith |
+| 715 | 45 | Chatty |
+| 716 | 44 | Katie Boen |
+| 717 | 44 | Mikaela Byrd |
+| 718 | 44 | Michael James |
+| 719 | 44 | Jackie Moran Tiller |
+| 720 | 44 | Robert W Schwartz |
+| 721 | 43 | Newtwidebody |
+| 722 | 43 | Suzanne Davis |
+| 723 | 43 | Kourtney Heiden-Hudson |
+| 724 | 43 | Witty Riser |
+| 725 | 43 | Jolly Twisterfit |
+| 726 | 43 | Pamela Gambrell |
+| 727 | 43 | Kayla Faulkiner |
+| 728 | 43 | Peter Fogg |
+| 729 | 43 | Perky Linebuilder |
 | 730 | 42 | Jazzy |
 | 731 | 42 | Melissa Pronovost |
 | 732 | 42 | Aubrey Gates |
 | 733 | 42 | Brian Favre |
-| 734 | 42 | Mikaela Byrd |
-| 735 | 42 | y |
+| 734 | 42 | y |
+| 735 | 42 | Michael Saunders |
 | 736 | 42 | Pamela Raye |
-| 737 | 42 | Michael Saunders |
+| 737 | 42 | Snazzy Smasher |
 | 738 | 42 | Mee Maw |
 | 739 | 42 | Shylo Bryant-Brunson |
 | 740 | 42 | Henny Henny |
