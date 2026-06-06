@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 14:50:17 UTC
+# Standings for team1 as of 2026-06-06 14:50:39 UTC
 
 **Total Participants:** 1025
 
@@ -141,8 +141,8 @@
 | 133 | 206 | Weeze |
 | 134 | 204 | David Fuentes |
 | 135 | 200 | Felicia Cain |
-| 136 | 199 | Asani CHumba |
-| 137 | 199 | Teddy Davis |
+| 136 | 199 | Teddy Davis |
+| 137 | 199 | Asani CHumba |
 | 138 | 198 | W.A. Simpson |
 | 139 | 197 | BYM4L |
 | 140 | 196 | Eugina Slater |
@@ -155,8 +155,8 @@
 | 147 | 182 | Hyper Blocky |
 | 148 | 179 | Kelli Couture |
 | 149 | 179 | ♈️ Ariesbaby |
-| 150 | 176 | Anthony Washington |
-| 151 | 176 | Andre Sanon |
+| 150 | 176 | Andre Sanon |
+| 151 | 176 | Anthony Washington |
 | 152 | 176 | Nikki Hogan |
 | 153 | 175 | Rayshawn Cohen |
 | 154 | 171 | Boldy Liner |
@@ -165,12 +165,12 @@
 | 157 | 166 | Tarnisha Neicy Jones |
 | 158 | 164 | Cathy Young |
 | 159 | 163 | Mafio SO |
-| 160 | 160 | DaGuy |
-| 161 | 160 | Sara Meri |
-| 162 | 160 | Jamie Willis |
+| 160 | 160 | Chilly Wipebuilder |
+| 161 | 160 | Jamie Willis |
+| 162 | 160 | DaGuy |
 | 163 | 160 | Carolyn Smith |
-| 164 | 160 | Chilly Wipebuilder |
-| 165 | 160 | Zippy Lifter |
+| 164 | 160 | Zippy Lifter |
+| 165 | 160 | Sara Meri |
 | 166 | 159 | Fina McKinnis |
 | 167 | 158 | Tina Mitchell |
 | 168 | 156 | Jessica Russell |
@@ -179,42 +179,42 @@
 | 171 | 149 | Lively Riserpiece |
 | 172 | 149 | Cee Emm |
 | 173 | 147 | MACHETEEDDIE513 |
-| 174 | 146 | Jai |
-| 175 | 146 | BlackQueen105 |
+| 174 | 146 | BlackQueen105 |
+| 175 | 146 | Jai |
 | 176 | 145 | Latisha Fairley |
 | 177 | 143 | IThinkNot |
 | 178 | 143 | Sammie Walker |
 | 179 | 142 | Mikayla |
 | 180 | 141 | Shalena Marie Humphrey |
-| 181 | 140 | Ann Chung |
-| 182 | 140 | Antoinette Jones |
-| 183 | 138 | Lashaunda |
-| 184 | 138 | Roberta Lynn |
+| 181 | 140 | Antoinette Jones |
+| 182 | 140 | Ann Chung |
+| 183 | 138 | Roberta Lynn |
+| 184 | 138 | Lashaunda |
 | 185 | 138 | JaClanDiah |
-| 186 | 137 | Cheeky Pop |
-| 187 | 137 | Tay |
+| 186 | 137 | Tay |
+| 187 | 137 | Cheeky Pop |
 | 188 | 136 | Penee Wiggins |
 | 189 | 135 | Dawn L Washington-Feuquay |
-| 190 | 135 | Sean White |
-| 191 | 135 | Amber Wilson |
+| 190 | 135 | Amber Wilson |
+| 191 | 135 | Sean White |
 | 192 | 133 | Robbie Cheeseman |
 | 193 | 133 | Byron Mario Cawthon |
-| 194 | 133 | Ebony Waynes-robinson |
-| 195 | 132 | Jolly Tilefall |
-| 196 | 131 | TBABYJ |
-| 197 | 130 | Emily Wright |
-| 198 | 130 | Dion Gray |
-| 199 | 130 | Jessica Davis |
-| 200 | 130 | Rolanda Williams |
-| 201 | 126 | Stephen Providenti |
-| 202 | 126 | Tremaine Hiler |
-| 203 | 125 | LaTonya Myers |
-| 204 | 125 | LaShaun Stinson |
-| 205 | 124 | Courtney Cicoria |
-| 206 | 124 | Queenie Perry |
-| 207 | 123 | Lisa Fletcher |
-| 208 | 123 | Cheeky Twistpiece |
-| 209 | 123 | BULLSEYE |
+| 194 | 133 | BULLSEYE |
+| 195 | 133 | Ebony Waynes-robinson |
+| 196 | 132 | Jolly Tilefall |
+| 197 | 131 | TBABYJ |
+| 198 | 130 | Emily Wright |
+| 199 | 130 | Dion Gray |
+| 200 | 130 | Jessica Davis |
+| 201 | 130 | Rolanda Williams |
+| 202 | 126 | Stephen Providenti |
+| 203 | 126 | Tremaine Hiler |
+| 204 | 125 | LaTonya Myers |
+| 205 | 125 | LaShaun Stinson |
+| 206 | 124 | Courtney Cicoria |
+| 207 | 124 | Queenie Perry |
+| 208 | 123 | Lisa Fletcher |
+| 209 | 123 | Cheeky Twistpiece |
 | 210 | 122 | Miera Nicole |
 | 211 | 121 | Treneil Daffin |
 | 212 | 121 | Tiana Monique |

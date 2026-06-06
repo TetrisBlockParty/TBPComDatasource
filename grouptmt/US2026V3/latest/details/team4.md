@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 14:50:17 UTC
+# Standings for team4 as of 2026-06-06 14:50:39 UTC
 
 **Total Participants:** 1009
 
@@ -435,54 +435,54 @@
 | 427 | 57 | Deborah Silberg |
 | 428 | 57 | Giggy Snapgrid |
 | 429 | 57 | Erich EMac McIntosh |
-| 430 | 57 | Rocky |
-| 431 | 57 | Shia Marie |
-| 432 | 56 | Tony Clark |
-| 433 | 56 | Surviving Be Back Soon |
-| 434 | 56 | Tre'nya Smith |
-| 435 | 56 | Karen Davis |
-| 436 | 55 | Elisha Thompson |
-| 437 | 55 | Cinta Marie |
-| 438 | 55 | Cherrel M. Causey |
-| 439 | 55 | The Jazziest |
-| 440 | 55 | Nicole Ambrose |
-| 441 | 55 | Jailen Harper |
-| 442 | 54 | Solace Grace |
+| 430 | 57 | Amanda Snow |
+| 431 | 57 | Rocky |
+| 432 | 57 | Shia Marie |
+| 433 | 56 | Tony Clark |
+| 434 | 56 | Surviving Be Back Soon |
+| 435 | 56 | Tre'nya Smith |
+| 436 | 56 | Karen Davis |
+| 437 | 55 | Elisha Thompson |
+| 438 | 55 | Cinta Marie |
+| 439 | 55 | Cherrel M. Causey |
+| 440 | 55 | The Jazziest |
+| 441 | 55 | Nicole Ambrose |
+| 442 | 55 | Jailen Harper |
 | 443 | 54 | Earl Edwards |
 | 444 | 54 | Lisa Ferriero-Daudin |
-| 445 | 54 | Zappy Matchgrid |
-| 446 | 54 | Alex Armour |
-| 447 | 53 | MattJennifer Marie Ericson |
-| 448 | 53 | Trang Nguyen |
-| 449 | 53 | LaTanya GeminiondaRise Johnson |
-| 450 | 52 | Snappy Stack |
-| 451 | 52 | Lisa Pie |
-| 452 | 52 | Jj Johnson |
-| 453 | 52 | Tiffany Roberts |
-| 454 | 52 | Волна Бог |
-| 455 | 52 | Angela Adamo-Tash |
-| 456 | 51 | Michellee Lewis |
-| 457 | 51 | Clever Patterner |
-| 458 | 51 | Erika Rubio |
-| 459 | 51 | Breezy Blockzone |
-| 460 | 51 | JustLessie |
-| 461 | 51 | Poppy |
-| 462 | 51 | Kimberly Civinski |
+| 445 | 54 | Solace Grace |
+| 446 | 54 | Zappy Matchgrid |
+| 447 | 54 | Alex Armour |
+| 448 | 53 | MattJennifer Marie Ericson |
+| 449 | 53 | Trang Nguyen |
+| 450 | 53 | LaTanya GeminiondaRise Johnson |
+| 451 | 52 | Волна Бог |
+| 452 | 52 | Snappy Stack |
+| 453 | 52 | Lisa Pie |
+| 454 | 52 | Jj Johnson |
+| 455 | 52 | Tiffany Roberts |
+| 456 | 52 | Angela Adamo-Tash |
+| 457 | 51 | Michellee Lewis |
+| 458 | 51 | Clever Patterner |
+| 459 | 51 | Erika Rubio |
+| 460 | 51 | Breezy Blockzone |
+| 461 | 51 | yourmomz |
+| 462 | 51 | Swanky Builderline |
 | 463 | 51 | YenSid |
-| 464 | 51 | Vergie Michael |
-| 465 | 51 | Amanda Snow |
-| 466 | 51 | Swanky Builderline |
-| 467 | 51 | yourmomz |
-| 468 | 50 | Flashy Shatterer |
+| 464 | 51 | JustLessie |
+| 465 | 51 | Poppy |
+| 466 | 51 | Kimberly Civinski |
+| 467 | 51 | Vergie Michael |
+| 468 | 50 | Alicia Cook |
 | 469 | 50 | Sassy Column |
-| 470 | 50 | Nerdy Brickster |
-| 471 | 50 | Loony Edge |
+| 470 | 50 | Loony Edge |
+| 471 | 50 | Flashy Shatterer |
 | 472 | 50 | Wanda Simmons |
 | 473 | 50 | Katie Lynn Petit |
 | 474 | 50 | Bhakti Sawarkar |
 | 475 | 50 | Susan Stofberg Beltran |
 | 476 | 50 | Edward White |
-| 477 | 50 | Alicia Cook |
+| 477 | 50 | Nerdy Brickster |
 | 478 | 50 | Cheeky Climber |
 | 479 | 50 | Brittany |
 | 480 | 50 | Ginny |
@@ -495,8 +495,8 @@
 | 487 | 50 | Michael Cruz |
 | 488 | 49 | smarty |
 | 489 | 49 | Mrsjcraw18 |
-| 490 | 49 | EpicWizard |
-| 491 | 49 | Fancy Rollfit |
+| 490 | 49 | Fancy Rollfit |
+| 491 | 49 | EpicWizard |
 | 492 | 49 | Daffney Starr |
 | 493 | 49 | Erica Armstrong Baz |
 | 494 | 49 | Destiny Starr LeValdo |
