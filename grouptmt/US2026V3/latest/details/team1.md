@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 04:02:16 UTC
+# Standings for team1 as of 2026-06-06 04:02:40 UTC
 
 **Total Participants:** 799
 
@@ -9,7 +9,7 @@
 | 1 | 17500 | Ariel |
 | 2 | 4690 | Dyane Leah Ware |
 | 3 | 4339 | Carrie English |
-| 4 | 4037 | Tracy Cohen |
+| 4 | 4086 | Tracy Cohen |
 | 5 | 3511 | Timothy Robert |
 | 6 | 3297 | Charlie Roehm |
 | 7 | 2946 | Chummy Combo |
@@ -106,23 +106,23 @@
 | 98 | 178 | Robyn Caldwell |
 | 99 | 177 | Chris Sladoje |
 | 100 | 173 | Jason Mungin |
-| 101 | 166 | Tarnisha Neicy Jones |
-| 102 | 166 | Denise B |
-| 103 | 165 | Davionte DaeDae Hopson-Rodriguez |
-| 104 | 160 | Zippy Lifter |
-| 105 | 158 | PandaPrincess |
-| 106 | 158 | W.A. Simpson |
-| 107 | 156 | Anthony Washington |
-| 108 | 156 | Jessica Russell |
-| 109 | 155 | Jawaun Daniels |
-| 110 | 151 | Dacia Hicks |
-| 111 | 147 | MACHETEEDDIE513 |
-| 112 | 147 | David Fuentes |
-| 113 | 146 | Curtis T Cirno |
-| 114 | 140 | Daris Swearington |
-| 115 | 140 | Ann Chung |
-| 116 | 140 | Sara Meri |
-| 117 | 140 | Felicia Cain |
+| 101 | 170 | Daris Swearington |
+| 102 | 166 | Tarnisha Neicy Jones |
+| 103 | 166 | Denise B |
+| 104 | 165 | Davionte DaeDae Hopson-Rodriguez |
+| 105 | 160 | Zippy Lifter |
+| 106 | 158 | PandaPrincess |
+| 107 | 158 | W.A. Simpson |
+| 108 | 156 | Anthony Washington |
+| 109 | 156 | Jessica Russell |
+| 110 | 155 | Jawaun Daniels |
+| 111 | 151 | Dacia Hicks |
+| 112 | 147 | MACHETEEDDIE513 |
+| 113 | 147 | David Fuentes |
+| 114 | 146 | Curtis T Cirno |
+| 115 | 140 | Sara Meri |
+| 116 | 140 | Felicia Cain |
+| 117 | 140 | Ann Chung |
 | 118 | 139 | Mafio SO |
 | 119 | 139 | Chenell Gillard |
 | 120 | 138 | Lashaunda |
