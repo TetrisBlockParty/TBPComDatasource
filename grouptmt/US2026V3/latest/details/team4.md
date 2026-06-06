@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 17:02:17 UTC
+# Standings for team4 as of 2026-06-06 17:02:38 UTC
 
 **Total Participants:** 1058
 
@@ -18,8 +18,8 @@
 | 10 | 3820 | TitiLo72 |
 | 11 | 3539 | Bryony Nicholson |
 | 12 | 3315 | Jackie Lucas |
-| 13 | 3150 | Destiny Dyer |
-| 14 | 3150 | delilahbelle |
+| 13 | 3150 | delilahbelle |
+| 14 | 3150 | Destiny Dyer |
 | 15 | 3081 | Irene Arreguin |
 | 16 | 3033 | Tyra Brooke Everman Forest |
 | 17 | 3012 | Tonya Brooks-Johnson |
@@ -99,15 +99,15 @@
 | 91 | 333 | Alexandria Frazier |
 | 92 | 332 | RotatedWrongAgain |
 | 93 | 326 | Cherry |
-| 94 | 320 | Gigglycat |
-| 95 | 320 | DexterDobbins |
+| 94 | 320 | DexterDobbins |
+| 95 | 320 | Gigglycat |
 | 96 | 317 | J |
-| 97 | 302 | JoLinda Dunn |
-| 98 | 300 | 2 kool |
-| 99 | 300 | Genag |
-| 100 | 299 | Kim |
-| 101 | 295 | Thomasena Eady Reid |
-| 102 | 293 | Boldy Rumbler |
+| 97 | 313 | Boldy Rumbler |
+| 98 | 302 | JoLinda Dunn |
+| 99 | 300 | 2 kool |
+| 100 | 300 | Genag |
+| 101 | 299 | Kim |
+| 102 | 295 | Thomasena Eady Reid |
 | 103 | 291 | Jesse Olive |
 | 104 | 290 | Dandy Clearfit |
 | 105 | 286 | Andrew Dang |
