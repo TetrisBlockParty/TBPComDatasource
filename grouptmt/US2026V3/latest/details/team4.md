@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 17:30:17 UTC
+# Standings for team4 as of 2026-06-06 17:30:40 UTC
 
 **Total Participants:** 1073
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 7564 | Cinny |
-| 2 | 7521 | Lyza |
+| 2 | 7525 | Lyza |
 | 3 | 5874 | Lisa Cullum |
 | 4 | 5469 | Kait Confetti |
 | 5 | 4920 | Jerald Jones |
@@ -118,8 +118,8 @@
 | 110 | 258 | Gorica Prusina |
 | 111 | 257 | Sarah Berry Stevens |
 | 112 | 253 | Debby Ruof |
-| 113 | 253 | Danielle Mitchell |
-| 114 | 253 | Hairy Snake |
+| 113 | 253 | Hairy Snake |
+| 114 | 253 | Danielle Mitchell |
 | 115 | 238 | QueenLi86 |
 | 116 | 235 | Hwanger Land |
 | 117 | 233 | Sisi RedVelvet Reneè |
@@ -144,50 +144,50 @@
 | 136 | 199 | Colin |
 | 137 | 196 | Brick House |
 | 138 | 195 | Sean Mccleary |
-| 139 | 194 | Lisa lisa |
-| 140 | 194 | Chiquita Blue |
-| 141 | 194 | Jenn Norcross |
+| 139 | 194 | Chiquita Blue |
+| 140 | 194 | Jenn Norcross |
+| 141 | 194 | Lisa lisa |
 | 142 | 193 | Tiffany Bunker-Hill |
 | 143 | 192 | Tiggerjake |
 | 144 | 187 | Daryn Elliott |
 | 145 | 186 | Kimyatta Cavin |
 | 146 | 185 | Dae Von |
-| 147 | 184 | Lucy Honer |
-| 148 | 184 | Giggly Tilt |
+| 147 | 184 | Giggly Tilt |
+| 148 | 184 | Lucy Honer |
 | 149 | 183 | Tara Delay Hill |
-| 150 | 179 | Danny Ortiz |
-| 151 | 179 | Anna Gribble |
+| 150 | 179 | Anna Gribble |
+| 151 | 179 | Danny Ortiz |
 | 152 | 178 | Spicy Chicken |
 | 153 | 178 | Tamara Triplet |
-| 154 | 177 | Damon Gaston |
-| 155 | 177 | Tammy June |
-| 156 | 177 | Devinlee Brown |
-| 157 | 177 | Chirpy Link |
+| 154 | 177 | Devinlee Brown |
+| 155 | 177 | Chirpy Link |
+| 156 | 177 | Tammy June |
+| 157 | 177 | Damon Gaston |
 | 158 | 175 | Megan Vick |
 | 159 | 172 | Tawna Curry |
-| 160 | 169 | Dana Fontanez |
-| 161 | 169 | Tiffany Smith |
+| 160 | 169 | Tiffany Smith |
+| 161 | 169 | Dana Fontanez |
 | 162 | 166 | Sassy Rollpiece |
-| 163 | 163 | Goofy Riser |
-| 164 | 163 | Brandy Lynn |
+| 163 | 163 | Brandy Lynn |
+| 164 | 163 | Goofy Riser |
 | 165 | 160 | Littlebrat |
 | 166 | 160 | Tipsy Builderline |
 | 167 | 159 | EL Booger |
 | 168 | 157 | ariel |
 | 169 | 157 | Mark Norton |
-| 170 | 155 | Ryan Paul Clark-Ramsey |
+| 170 | 155 | Bonnie Powell |
 | 171 | 155 | Jackie Polanco |
-| 172 | 155 | Bonnie Powell |
+| 172 | 155 | Ryan Paul Clark-Ramsey |
 | 173 | 155 | Shayna Vaigneur-Hall |
 | 174 | 154 | No Time |
 | 175 | 153 | Laguya |
 | 176 | 151 | Leslie Ann Carter |
-| 177 | 150 | gabs |
-| 178 | 148 | Joseph Hunter |
-| 179 | 147 | Janet Sanfilippo Sullivan |
-| 180 | 146 | Alyson M Kehler |
-| 181 | 145 | Smiley Gridzone |
-| 182 | 145 | Trice Stevenson |
+| 177 | 150 | Trice Stevenson |
+| 178 | 150 | gabs |
+| 179 | 148 | Joseph Hunter |
+| 180 | 147 | Janet Sanfilippo Sullivan |
+| 181 | 146 | Alyson M Kehler |
+| 182 | 145 | Smiley Gridzone |
 | 183 | 144 | Yesenia Castro Monreal |
 | 184 | 143 | Ashley Mcdonald |
 | 185 | 141 | Justin Michael |
@@ -197,15 +197,15 @@
 | 189 | 137 | Shelby |
 | 190 | 135 | Quiomarie Cotto |
 | 191 | 134 | Loony Rotater |
-| 192 | 133 | BusterBear56 |
-| 193 | 133 | Shawntae Mccary |
-| 194 | 133 | June Hoffman |
-| 195 | 131 | Tina Shalay Hayes |
-| 196 | 131 | Stasia |
+| 192 | 133 | June Hoffman |
+| 193 | 133 | BusterBear56 |
+| 194 | 133 | Shawntae Mccary |
+| 195 | 131 | Stasia |
+| 196 | 131 | Tina Shalay Hayes |
 | 197 | 130 | Magz |
 | 198 | 130 | Fran Aaron-Ring |
-| 199 | 129 | Lani |
-| 200 | 129 | Kelly Howland |
+| 199 | 129 | Kelly Howland |
+| 200 | 129 | Lani |
 | 201 | 129 | Chilly Pivot |
 | 202 | 129 | Simone |
 | 203 | 129 | Brainbabe |
@@ -733,30 +733,30 @@
 | 725 | 30 | Will E Ayala |
 | 726 | 30 | zoes |
 | 727 | 30 | CrashOutCarla |
-| 728 | 30 | Jessica Lestage |
-| 729 | 30 | Peezy_419 |
-| 730 | 30 | Miguel Teixeira |
-| 731 | 30 | Funky Rollzone |
+| 728 | 30 | Funky Rollzone |
+| 729 | 30 | Jessica Lestage |
+| 730 | 30 | Peezy_419 |
+| 731 | 30 | Miguel Teixeira |
 | 732 | 30 | Lateasha Wildman |
-| 733 | 30 | Deanne Silverdahl |
-| 734 | 30 | Robert Crow |
-| 735 | 30 | Lala |
-| 736 | 29 | Daniel Lossman |
-| 737 | 29 | Shauna Davis |
+| 733 | 30 | Poptart |
+| 734 | 30 | Deanne Silverdahl |
+| 735 | 30 | Robert Crow |
+| 736 | 30 | Lala |
+| 737 | 29 | Daniel Lossman |
 | 738 | 29 | Matthew Wilcox |
 | 739 | 29 | Crafty Linkfall |
-| 740 | 29 | Mrs.J2013 |
-| 741 | 29 | Kelley Shoop |
+| 740 | 29 | Shauna Davis |
+| 741 | 29 | Mrs.J2013 |
 | 742 | 29 | Funky Twistpiece |
 | 743 | 29 | Epic Dashfit |
 | 744 | 29 | Rhonda Dowling |
-| 745 | 29 | Dena Lynn Rogers |
-| 746 | 29 | rick mase |
-| 747 | 28 | Nerdy Faller |
-| 748 | 28 | JP |
-| 749 | 28 | Sandra O'Reilly |
-| 750 | 28 | Maegon Brazille |
-| 751 | 28 | Poptart |
+| 745 | 29 | Kelley Shoop |
+| 746 | 29 | Dena Lynn Rogers |
+| 747 | 29 | rick mase |
+| 748 | 28 | Nerdy Faller |
+| 749 | 28 | JP |
+| 750 | 28 | Sandra O'Reilly |
+| 751 | 28 | Maegon Brazille |
 | 752 | 28 | Mindy Phariss |
 | 753 | 28 | Snappy Slice |
 | 754 | 28 | Casey Thomas |

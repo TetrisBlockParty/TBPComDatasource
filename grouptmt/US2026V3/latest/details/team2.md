@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 17:30:17 UTC
+# Standings for team2 as of 2026-06-06 17:30:40 UTC
 
 **Total Participants:** 1280
 
@@ -228,10 +228,10 @@
 | 220 | 161 | Santara Ferguson |
 | 221 | 160 | Loopy Dropper |
 | 222 | 160 | snowwol |
-| 223 | 159 | Amanda Priddy |
-| 224 | 159 | Angie Bishop |
-| 225 | 158 | Kim Hunt |
-| 226 | 158 | Avie Lou |
+| 223 | 160 | Avie Lou |
+| 224 | 159 | Amanda Priddy |
+| 225 | 159 | Angie Bishop |
+| 226 | 158 | Kim Hunt |
 | 227 | 155 | Zany Blockclear |
 | 228 | 152 | Gill |
 | 229 | 152 | SEH |
@@ -315,22 +315,22 @@
 | 307 | 108 | Meagan Grimmett Washburn |
 | 308 | 108 | Rachel Nilles |
 | 309 | 107 | LittleHippoEars |
-| 310 | 107 | Michelle M Braley |
+| 310 | 107 | Angeleye A James |
 | 311 | 107 | Carole Brown |
-| 312 | 107 | Angeleye A James |
+| 312 | 107 | Michelle M Braley |
 | 313 | 107 | Gloria May Shook |
 | 314 | 106 | Sara Perkins |
-| 315 | 105 | Tamtam |
-| 316 | 105 | Saucy Wrecker |
-| 317 | 105 | Erica South |
-| 318 | 104 | Theresa Hollinger |
-| 319 | 104 | Reign Hustler |
+| 315 | 106 | Anthony Swift |
+| 316 | 105 | Tamtam |
+| 317 | 105 | Saucy Wrecker |
+| 318 | 105 | Erica South |
+| 319 | 104 | Theresa Hollinger |
 | 320 | 104 | MegaPooh |
 | 321 | 104 | Roe Sarmiento |
-| 322 | 103 | Elizabeth Kline |
-| 323 | 102 | Tammy Roth |
-| 324 | 102 | Alissa Ary |
-| 325 | 102 | Anthony Swift |
+| 322 | 104 | Reign Hustler |
+| 323 | 103 | Elizabeth Kline |
+| 324 | 102 | Tammy Roth |
+| 325 | 102 | Alissa Ary |
 | 326 | 101 | Jef Wassom |
 | 327 | 100 | Ber |
 | 328 | 100 | Leticia Tillman |
