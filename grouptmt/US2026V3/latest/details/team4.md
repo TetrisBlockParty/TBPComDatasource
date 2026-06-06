@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 02:14:16 UTC
+# Standings for team4 as of 2026-06-06 02:14:37 UTC
 
 **Total Participants:** 681
 
@@ -208,33 +208,33 @@
 | 200 | 63 | Kay |
 | 201 | 63 | Blockcrusher |
 | 202 | 63 | Ana Ruiz |
-| 203 | 62 | Frisky Balance |
-| 204 | 61 | Cindy |
-| 205 | 60 | Fran Aaron-Ring |
-| 206 | 60 | Jumpy Builderpiece |
-| 207 | 60 | Chris Rowe |
+| 203 | 62 | Samara Garcia |
+| 204 | 62 | Frisky Balance |
+| 205 | 61 | Cindy |
+| 206 | 60 | Fran Aaron-Ring |
+| 207 | 60 | Jumpy Builderpiece |
 | 208 | 60 | aga |
-| 209 | 60 | Amandacolle |
-| 210 | 60 | Tiffy |
+| 209 | 60 | Chris Rowe |
+| 210 | 60 | Amandacolle |
 | 211 | 60 | George Marshburn |
-| 212 | 59 | Paula Renee McCracken |
-| 213 | 58 | Jenn Fitzgerald |
-| 214 | 58 | Ricardo Arias |
-| 215 | 58 | Winter Moon |
-| 216 | 57 | Noa Lee |
-| 217 | 57 | medicjessi |
-| 218 | 57 | Tricia Motika Cowan |
-| 219 | 57 | BusterBear56 |
-| 220 | 56 | Aramat |
-| 221 | 56 | Bre Dee |
-| 222 | 56 | Joshua Hunt |
-| 223 | 55 | Zesty Twistpiece |
-| 224 | 55 | Daring Brickbuilder |
-| 225 | 54 | Dawn Phelps |
-| 226 | 54 | Playa |
-| 227 | 53 | LaTanya GeminiondaRise Johnson |
-| 228 | 52 | Lul Babie |
-| 229 | 52 | Samara Garcia |
+| 212 | 60 | Tiffy |
+| 213 | 59 | Paula Renee McCracken |
+| 214 | 58 | Jenn Fitzgerald |
+| 215 | 58 | Ricardo Arias |
+| 216 | 58 | Winter Moon |
+| 217 | 57 | Noa Lee |
+| 218 | 57 | medicjessi |
+| 219 | 57 | Tricia Motika Cowan |
+| 220 | 57 | BusterBear56 |
+| 221 | 56 | Aramat |
+| 222 | 56 | Bre Dee |
+| 223 | 56 | Joshua Hunt |
+| 224 | 55 | Zesty Twistpiece |
+| 225 | 55 | Daring Brickbuilder |
+| 226 | 54 | Dawn Phelps |
+| 227 | 54 | Playa |
+| 228 | 53 | LaTanya GeminiondaRise Johnson |
+| 229 | 52 | Lul Babie |
 | 230 | 52 | shawna |
 | 231 | 52 | Jj Johnson |
 | 232 | 51 | Amanda Snow |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 02:14:16 UTC
+# Standings for team1 as of 2026-06-06 02:14:37 UTC
 
 **Total Participants:** 716
 
@@ -53,16 +53,16 @@
 | 45 | 335 | Blockhead |
 | 46 | 332 | Hyper Slamdrop |
 | 47 | 319 | Shell Lewis |
-| 48 | 279 | COSA303 |
-| 49 | 261 | KenpachisGirl |
-| 50 | 260 | Carolynne Walker-Bell |
-| 51 | 260 | Jessica Carter |
-| 52 | 260 | John Staub |
-| 53 | 253 | Tammye Turner |
-| 54 | 249 | Helen Smith |
-| 55 | 249 | Ashley MyBeauty Daniels |
-| 56 | 248 | Debbie Carswell |
-| 57 | 245 | Spicy Balancer |
+| 48 | 285 | Spicy Balancer |
+| 49 | 279 | COSA303 |
+| 50 | 261 | KenpachisGirl |
+| 51 | 260 | Carolynne Walker-Bell |
+| 52 | 260 | Jessica Carter |
+| 53 | 260 | John Staub |
+| 54 | 253 | Tammye Turner |
+| 55 | 249 | Helen Smith |
+| 56 | 249 | Ashley MyBeauty Daniels |
+| 57 | 248 | Debbie Carswell |
 | 58 | 240 | Rayya Kiser |
 | 59 | 239 | GrkGdess |
 | 60 | 237 | Leebo Slice |
