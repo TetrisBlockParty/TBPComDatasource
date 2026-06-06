@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 21:04:40 UTC
+# Standings for team2 as of 2026-06-06 21:05:19 UTC
 
 **Total Participants:** 1374
 
@@ -14,9 +14,9 @@
 | 6 | 7687 | Lacey Nolting |
 | 7 | 6900 | Mocha |
 | 8 | 6232 | Christina Shell |
-| 9 | 6114 | Tim Ix |
-| 10 | 6045 | Morgann McDaniel |
-| 11 | 6036 | A.j. Langley |
+| 9 | 6136 | A.j. Langley |
+| 10 | 6114 | Tim Ix |
+| 11 | 6045 | Morgann McDaniel |
 | 12 | 5704 | Cori Keberlein |
 | 13 | 3984 | Amber |
 | 14 | 3950 | Erica Dees Parks |
@@ -103,8 +103,8 @@
 | 95 | 487 | Wmk Rathbun |
 | 96 | 486 | Krisanne Kesner-Lonsby |
 | 97 | 483 | Karen Reid Cenkush |
-| 98 | 480 | Courtney McCulley |
-| 99 | 480 | Epic Frame |
+| 98 | 480 | Epic Frame |
+| 99 | 480 | Courtney McCulley |
 | 100 | 472 | Lily |
 | 101 | 468 | Amy Gale |
 | 102 | 461 | Smiley Dropper |
@@ -198,11 +198,11 @@
 | 190 | 208 | Lora Via |
 | 191 | 207 | Brenda Jones |
 | 192 | 207 | Margie Ann Naffziger |
-| 193 | 206 | Jodi Johnson |
-| 194 | 205 | Melisa |
-| 195 | 205 | Jeanna Mendez |
-| 196 | 204 | Chill Line |
-| 197 | 202 | Logan Duffey |
+| 193 | 206 | Logan Duffey |
+| 194 | 206 | Jodi Johnson |
+| 195 | 205 | Melisa |
+| 196 | 205 | Jeanna Mendez |
+| 197 | 204 | Chill Line |
 | 198 | 202 | Snappy Blockbuilder |
 | 199 | 201 | Danielle Pack Lewellen |
 | 200 | 200 | Eric Wayne Maschman |
