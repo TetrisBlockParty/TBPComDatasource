@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 22:40:18 UTC
+# Standings for team2 as of 2026-06-06 22:40:39 UTC
 
 **Total Participants:** 1420
 
@@ -1007,36 +1007,36 @@
 | 999 | 26 | giggly gal |
 | 1000 | 26 | Cathy Clark |
 | 1001 | 26 | Gino Positano |
-| 1002 | 26 | Goob277 |
-| 1003 | 26 | Brandi Vandevanter-Duke |
-| 1004 | 26 | Darlene Russell |
-| 1005 | 26 | Daniel Cline |
+| 1002 | 26 | Slinky Towerpiece |
+| 1003 | 26 | Goob277 |
+| 1004 | 26 | Yany |
+| 1005 | 26 | Darlene Russell |
 | 1006 | 26 | Tina Carr |
 | 1007 | 26 | nova |
 | 1008 | 26 | Danibellee |
-| 1009 | 26 | Yany |
-| 1010 | 25 | Quirky Piecegrid |
-| 1011 | 25 | Paula Stell |
-| 1012 | 25 | Beachmama |
-| 1013 | 25 | Nerdy Base |
-| 1014 | 25 | Cranky Basepiece |
-| 1015 | 25 | Stephen Gillam |
-| 1016 | 25 | Debra May |
-| 1017 | 25 | Kelly Hall Whitt |
-| 1018 | 25 | Linda Jeanne Knop |
-| 1019 | 25 | Wildcat1220 |
-| 1020 | 25 | D.j. Wingate |
-| 1021 | 25 | Michelle Edgin Tranbarger |
-| 1022 | 25 | Ginger Nesbitt |
-| 1023 | 25 | Crafty Slice |
-| 1024 | 25 | Wendy Michelle Wise-Ledford |
-| 1025 | 25 | Monique Williams |
-| 1026 | 25 | Slinky Towerpiece |
-| 1027 | 25 | Daring Spinzone |
-| 1028 | 25 | Dandy Wiper |
-| 1029 | 24 | Ashley Corbett |
-| 1030 | 24 | Paula Smith |
-| 1031 | 24 | Jess |
+| 1009 | 26 | Brandi Vandevanter-Duke |
+| 1010 | 26 | Daniel Cline |
+| 1011 | 25 | Wildcat1220 |
+| 1012 | 25 | Paula Stell |
+| 1013 | 25 | Beachmama |
+| 1014 | 25 | Nerdy Base |
+| 1015 | 25 | Cranky Basepiece |
+| 1016 | 25 | Stephen Gillam |
+| 1017 | 25 | Debra May |
+| 1018 | 25 | Daring Spinzone |
+| 1019 | 25 | Kelly Hall Whitt |
+| 1020 | 25 | Linda Jeanne Knop |
+| 1021 | 25 | D.j. Wingate |
+| 1022 | 25 | Quirky Piecegrid |
+| 1023 | 25 | Michelle Edgin Tranbarger |
+| 1024 | 25 | Ginger Nesbitt |
+| 1025 | 25 | Dandy Wiper |
+| 1026 | 25 | Crafty Slice |
+| 1027 | 25 | Wendy Michelle Wise-Ledford |
+| 1028 | 25 | Monique Williams |
+| 1029 | 24 | Jess |
+| 1030 | 24 | Ashley Corbett |
+| 1031 | 24 | Paula Smith |
 | 1032 | 24 | Tiffany Heether |
 | 1033 | 24 | Breanna Dykes |
 | 1034 | 24 | Kathryn Mason |
@@ -1061,44 +1061,44 @@
 | 1053 | 23 | Zaaear Pack |
 | 1054 | 23 | Haley |
 | 1055 | 23 | Jolene Moelder |
-| 1056 | 22 | Jenny |
+| 1056 | 22 | bigdog |
 | 1057 | 22 | Tam |
 | 1058 | 22 | Cary M. Fong |
 | 1059 | 22 | Ashley Diana |
 | 1060 | 22 | Cody Bohannan |
-| 1061 | 22 | Marii |
-| 1062 | 22 | MJLovesHer#OneMistake |
-| 1063 | 22 | Ken Vaughn |
-| 1064 | 22 | Josimarie Otero |
-| 1065 | 22 | bigdog |
-| 1066 | 22 | MoonLilly |
-| 1067 | 22 | Melanesia Springs |
-| 1068 | 22 | Frothy Zonebuilder |
-| 1069 | 21 | Cyrus Ramirez |
-| 1070 | 21 | Lively Shatter |
-| 1071 | 21 | Quirky Shifter |
-| 1072 | 21 | Nicky Steigerwalt |
-| 1073 | 21 | Deanna Mc |
-| 1074 | 21 | Chill Clearbuilder |
-| 1075 | 21 | Instak1ll |
-| 1076 | 21 | Denise Morehart |
-| 1077 | 21 | Tina Thomason |
-| 1078 | 21 | Maithan Conour |
-| 1079 | 21 | Fran Gerebics |
-| 1080 | 21 | Kacey Bates |
-| 1081 | 21 | Erica Abreu |
-| 1082 | 21 | Cammy Riley |
-| 1083 | 21 | Mario Hillman |
-| 1084 | 21 | Chirpy Clearpiece |
+| 1061 | 22 | Jenny |
+| 1062 | 22 | Marii |
+| 1063 | 22 | MJLovesHer#OneMistake |
+| 1064 | 22 | Ken Vaughn |
+| 1065 | 22 | Josimarie Otero |
+| 1066 | 22 | Chirpy Clearpiece |
+| 1067 | 22 | MoonLilly |
+| 1068 | 22 | Melanesia Springs |
+| 1069 | 22 | Frothy Zonebuilder |
+| 1070 | 21 | Cyrus Ramirez |
+| 1071 | 21 | Lively Shatter |
+| 1072 | 21 | Quirky Shifter |
+| 1073 | 21 | Nicky Steigerwalt |
+| 1074 | 21 | Deanna Mc |
+| 1075 | 21 | Chill Clearbuilder |
+| 1076 | 21 | Instak1ll |
+| 1077 | 21 | Cammy Riley |
+| 1078 | 21 | Denise Morehart |
+| 1079 | 21 | Tina Thomason |
+| 1080 | 21 | Maithan Conour |
+| 1081 | 21 | Fran Gerebics |
+| 1082 | 21 | Kacey Bates |
+| 1083 | 21 | Erica Abreu |
+| 1084 | 21 | Mario Hillman |
 | 1085 | 21 | Johnathon Mendiola |
-| 1086 | 20 | Laura Turner |
-| 1087 | 20 | SaraAnn Gray Philbrick |
+| 1086 | 20 | SaraAnn Gray Philbrick |
+| 1087 | 20 | Deborah Morey-avila |
 | 1088 | 20 | Nanny t |
 | 1089 | 20 | Stacie Taylor |
 | 1090 | 20 | Edward Conyers |
-| 1091 | 20 | Busted9mm |
+| 1091 | 20 | Laura Turner |
 | 1092 | 20 | Chris |
-| 1093 | 20 | Deborah Morey-avila |
+| 1093 | 20 | Busted9mm |
 | 1094 | 20 | Alana Albritton Seals |
 | 1095 | 20 | Andrea Spinelli |
 | 1096 | 20 | Will Jones |
