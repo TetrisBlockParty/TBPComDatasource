@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 21:20:16 UTC
+# Standings for team2 as of 2026-06-06 21:20:39 UTC
 
 **Total Participants:** 1381
 
@@ -647,12 +647,12 @@
 | 639 | 55 | Manda |
 | 640 | 55 | Misty McElroy |
 | 641 | 55 | Muffin Popper |
-| 642 | 54 | Denita Kaherl |
-| 643 | 54 | Britt |
-| 644 | 54 | Christina Nycol |
-| 645 | 54 | Ssirkus |
-| 646 | 53 | Trisha Schneider |
-| 647 | 53 | Clever Fallmatch |
+| 642 | 54 | Clever Fallmatch |
+| 643 | 54 | Denita Kaherl |
+| 644 | 54 | Britt |
+| 645 | 54 | Christina Nycol |
+| 646 | 54 | Ssirkus |
+| 647 | 53 | Trisha Schneider |
 | 648 | 53 | Hog Crankin |
 | 649 | 53 | Spicy Basepiece |
 | 650 | 53 | wutrwerdz |

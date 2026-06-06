@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 21:20:16 UTC
+# Standings for team4 as of 2026-06-06 21:20:39 UTC
 
 **Total Participants:** 1150
 
@@ -273,47 +273,47 @@
 | 265 | 118 | Goofy Fall |
 | 266 | 117 | Fancy Tilefall |
 | 267 | 116 | Shocinda Sherwood |
-| 268 | 116 | Brennan Shea Greene |
-| 269 | 116 | Pepone Pepe |
-| 270 | 116 | Samantha Worley |
-| 271 | 116 | Toon Up |
-| 272 | 116 | WeeWooWee |
+| 268 | 116 | WeeWooWee |
+| 269 | 116 | Samantha Worley |
+| 270 | 116 | Pepone Pepe |
+| 271 | 116 | Brennan Shea Greene |
+| 272 | 116 | Toon Up |
 | 273 | 115 | Hardy Fuller |
-| 274 | 113 | Melissa Anne |
-| 275 | 113 | George Palacios |
-| 276 | 113 | Dennis Montoya |
-| 277 | 113 | Piece of Cake |
-| 278 | 113 | Dizzy Slammer |
-| 279 | 111 | King |
-| 280 | 111 | Dawn Phelps |
+| 274 | 113 | George Palacios |
+| 275 | 113 | Dizzy Slammer |
+| 276 | 113 | Piece of Cake |
+| 277 | 113 | Dennis Montoya |
+| 278 | 113 | Melissa Anne |
+| 279 | 111 | Dawn Phelps |
+| 280 | 111 | King |
 | 281 | 110 | jaz |
-| 282 | 109 | Ginny |
-| 283 | 109 | Rose Anna Safi |
+| 282 | 109 | Rose Anna Safi |
+| 283 | 109 | Ginny |
 | 284 | 109 | Bouncy |
 | 285 | 108 | Anthony Lewis |
 | 286 | 108 | Iforget |
 | 287 | 107 | Allysha McFarland |
-| 288 | 107 | Tommy Bond |
-| 289 | 107 | Jrr |
+| 288 | 107 | Jrr |
+| 289 | 107 | Tommy Bond |
 | 290 | 106 | Rita Ann |
-| 291 | 105 | Luna |
-| 292 | 105 | Kristen Wallace |
+| 291 | 105 | Tipsy Zonebuilder |
+| 292 | 105 | Luna |
 | 293 | 105 | Shanna Fragen |
-| 294 | 104 | TheazO |
-| 295 | 104 | Justin Ballard |
-| 296 | 103 | farfromlocal |
-| 297 | 102 | Taisha Beasley |
-| 298 | 102 | Keith Kosmicki |
-| 299 | 101 | Sarah Perry Cook |
-| 300 | 101 | Dayna Arthurs |
-| 301 | 101 | Zesty Twistpiece |
-| 302 | 101 | Tipsy Zonebuilder |
+| 294 | 105 | Kristen Wallace |
+| 295 | 104 | TheazO |
+| 296 | 104 | Justin Ballard |
+| 297 | 103 | farfromlocal |
+| 298 | 102 | Taisha Beasley |
+| 299 | 102 | Keith Kosmicki |
+| 300 | 101 | Sarah Perry Cook |
+| 301 | 101 | Sherry Mooney |
+| 302 | 101 | Dayna Arthurs |
 | 303 | 101 | Valerie Silva |
-| 304 | 101 | Sherry Mooney |
-| 305 | 100 | Tricia Motika Cowan |
-| 306 | 100 | Loopy Clusterline |
-| 307 | 100 | CorieBe |
-| 308 | 100 | Melissa Brown |
+| 304 | 101 | Zesty Twistpiece |
+| 305 | 100 | Melissa Brown |
+| 306 | 100 | CorieBe |
+| 307 | 100 | Tricia Motika Cowan |
+| 308 | 100 | Loopy Clusterline |
 | 309 | 98 | Jen Smith |
 | 310 | 98 | Jacqueline Arce |
 | 311 | 97 | Tarsha Thomas-Martinez |
