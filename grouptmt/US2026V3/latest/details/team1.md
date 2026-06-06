@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 06:06:17 UTC
+# Standings for team1 as of 2026-06-06 06:06:38 UTC
 
 **Total Participants:** 882
 
@@ -152,27 +152,27 @@
 | 144 | 135 | Sean White |
 | 145 | 133 | Andre Sanon |
 | 146 | 131 | TBABYJ |
-| 147 | 130 | Rolanda Williams |
-| 148 | 130 | Emily Wright |
+| 147 | 130 | Emily Wright |
+| 148 | 130 | Rolanda Williams |
 | 149 | 130 | Jessica Davis |
 | 150 | 127 | IThinkNot |
 | 151 | 126 | Cee Emm |
-| 152 | 125 | LaTonya Myers |
-| 153 | 125 | Kelli Couture |
-| 154 | 124 | Byron Mario Cawthon |
-| 155 | 124 | Queenie Perry |
-| 156 | 124 | Courtney Cicoria |
+| 152 | 125 | Kelli Couture |
+| 153 | 125 | LaTonya Myers |
+| 154 | 124 | Queenie Perry |
+| 155 | 124 | Courtney Cicoria |
+| 156 | 124 | Byron Mario Cawthon |
 | 157 | 121 | Stephen Providenti |
 | 158 | 121 | Tiana Monique |
 | 159 | 121 | D'Andra Stewart |
-| 160 | 120 | Saucy Tile |
+| 160 | 121 | Lisa Fletcher |
 | 161 | 120 | Jai |
 | 162 | 120 | Nerdy Blockpiece |
-| 163 | 120 | Spicy Risepiece |
-| 164 | 119 | Christina Rebecca |
-| 165 | 119 | ELM |
-| 166 | 118 | Hasty Pivoty |
-| 167 | 115 | Lisa Fletcher |
+| 163 | 120 | Saucy Tile |
+| 164 | 120 | Spicy Risepiece |
+| 165 | 119 | Christina Rebecca |
+| 166 | 119 | ELM |
+| 167 | 118 | Hasty Pivoty |
 | 168 | 113 | Rachel Zimmerman |
 | 169 | 112 | GamerQueenDS |
 | 170 | 111 | Shalena Marie Humphrey |
