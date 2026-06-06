@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 11:42:38 UTC
+# Standings for team1 as of 2026-06-06 11:43:16 UTC
 
 **Total Participants:** 967
 
@@ -111,12 +111,12 @@
 | 103 | 240 | Rayya Kiser |
 | 104 | 237 | Leebo Slice |
 | 105 | 234 | DaVonte' Cretter |
-| 106 | 227 | Chantelle Lee |
-| 107 | 225 | Jamal Itzjusmall Chambers |
-| 108 | 225 | Rhonda Williams Warner |
-| 109 | 224 | Alana Renee |
-| 110 | 221 | Allison Baxter |
-| 111 | 220 | Jason Mungin |
+| 106 | 229 | Jason Mungin |
+| 107 | 227 | Chantelle Lee |
+| 108 | 225 | Jamal Itzjusmall Chambers |
+| 109 | 225 | Rhonda Williams Warner |
+| 110 | 224 | Alana Renee |
+| 111 | 221 | Allison Baxter |
 | 112 | 216 | Nerdy Snapfall |
 | 113 | 216 | Andi McGreevy |
 | 114 | 215 | Abraham Espaillat |
@@ -453,11 +453,11 @@
 | 445 | 45 | Eli Delao |
 | 446 | 45 | Victoria Smith |
 | 447 | 45 | Renee J. Thomas |
-| 448 | 45 | nameno |
-| 449 | 45 | Robbie Cheeseman |
-| 450 | 45 | Glitzy Clusterer |
-| 451 | 45 | Erika Windom |
-| 452 | 44 | Casey Chapman |
+| 448 | 45 | Casey Chapman |
+| 449 | 45 | nameno |
+| 450 | 45 | Robbie Cheeseman |
+| 451 | 45 | Glitzy Clusterer |
+| 452 | 45 | Erika Windom |
 | 453 | 44 | Tamara Johnson-Carter |
 | 454 | 44 | Nic Nic |
 | 455 | 44 | sasha |
