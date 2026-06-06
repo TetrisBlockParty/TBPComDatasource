@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-06 10:24:39 UTC
+# Standings for team3 as of 2026-06-06 10:25:15 UTC
 
 **Total Participants:** 3412
 
@@ -105,15 +105,15 @@
 | 97 | 916 | Ashley Frazier |
 | 98 | 914 | Yad Vm |
 | 99 | 913 | Zesty Pivot |
-| 100 | 912 | Juan Killyoselfifudontlikeme Ronaldo |
-| 101 | 909 | Tracy Nola Beebe |
-| 102 | 905 | Patricia Cox |
-| 103 | 903 | boof |
-| 104 | 884 | Rei |
-| 105 | 879 | Morgan Mucherson |
-| 106 | 875 | Magnetic Marge |
-| 107 | 870 | Christian Willis |
-| 108 | 862 | MicrowaveMystic |
+| 100 | 912 | MicrowaveMystic |
+| 101 | 912 | Juan Killyoselfifudontlikeme Ronaldo |
+| 102 | 909 | Tracy Nola Beebe |
+| 103 | 905 | Patricia Cox |
+| 104 | 903 | boof |
+| 105 | 884 | Rei |
+| 106 | 879 | Morgan Mucherson |
+| 107 | 875 | Magnetic Marge |
+| 108 | 870 | Christian Willis |
 | 109 | 850 | Sarah A Evans |
 | 110 | 849 | Krissy Bowlin |
 | 111 | 842 | Big Amaru Steppa77 |

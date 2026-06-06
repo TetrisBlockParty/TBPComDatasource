@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 10:24:39 UTC
+# Standings for team2 as of 2026-06-06 10:25:15 UTC
 
 **Total Participants:** 1102
 
@@ -9,7 +9,7 @@
 | 1 | 11700 | Mochi |
 | 2 | 11046 | Summer Harrison |
 | 3 | 7687 | Lacey Nolting |
-| 4 | 7339 | Jason Wood |
+| 4 | 7439 | Jason Wood |
 | 5 | 6045 | Morgann McDaniel |
 | 6 | 5987 | Tim Ix |
 | 7 | 5653 | A.j. Langley |
