@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 20:24:17 UTC
+# Standings for team1 as of 2026-06-06 20:24:41 UTC
 
 **Total Participants:** 1148
 
@@ -43,8 +43,8 @@
 | 35 | 1045 | Jolly Dropzone |
 | 36 | 1037 | Shortstak |
 | 37 | 1031 | Ashley Espeut |
-| 38 | 1011 | Markeeta Lipscomb |
-| 39 | 1009 | COSA303 |
+| 38 | 1012 | COSA303 |
+| 39 | 1011 | Markeeta Lipscomb |
 | 40 | 984 | Holly Jolly |
 | 41 | 971 | Spicy Balancer |
 | 42 | 940 | Sanjuro |
@@ -63,7 +63,7 @@
 | 55 | 689 | Jaida King |
 | 56 | 675 | Corey Cawthon |
 | 57 | 648 | Eartha Brown |
-| 58 | 620 | Blockhead |
+| 58 | 621 | Blockhead |
 | 59 | 605 | JoJo |
 | 60 | 598 | Ivana Schmidt |
 | 61 | 586 | Kellie Hall |
@@ -1085,75 +1085,75 @@
 | 1077 | 8 | meep |
 | 1078 | 8 | Denise Cunningham-English |
 | 1079 | 8 | Ferocity |
-| 1080 | 8 | Rixo Blax |
-| 1081 | 8 | jus_ry |
+| 1080 | 8 | Frothy Matchpiece |
+| 1081 | 8 | Teena K Macon |
 | 1082 | 8 | Chinkey Overit |
-| 1083 | 8 | Teena K Macon |
-| 1084 | 8 | Macho Lewis |
-| 1085 | 8 | Chill Tumbler |
-| 1086 | 8 | Frothy Matchpiece |
+| 1083 | 8 | Macho Lewis |
+| 1084 | 8 | jus_ry |
+| 1085 | 8 | Rixo Blax |
+| 1086 | 8 | Chill Tumbler |
 | 1087 | 8 | Elizabeth Castro |
-| 1088 | 8 | Groovy Riseclear |
-| 1089 | 8 | Chevonne Huggins |
-| 1090 | 8 | Desi |
-| 1091 | 8 | Nissa |
-| 1092 | 8 | Plucky Twist |
-| 1093 | 8 | MsSassygee Boom |
-| 1094 | 8 | Shawna Passwater |
-| 1095 | 8 | Tiffany Jean Hinson |
-| 1096 | 8 | Queen Baby 5 |
-| 1097 | 7 | Sunset Owens |
-| 1098 | 7 | Mary2 |
+| 1088 | 8 | Desi |
+| 1089 | 8 | Tiffany Jean Hinson |
+| 1090 | 8 | Shawna Passwater |
+| 1091 | 8 | Plucky Twist |
+| 1092 | 8 | Chevonne Huggins |
+| 1093 | 8 | Queen Baby 5 |
+| 1094 | 8 | Nissa |
+| 1095 | 8 | MsSassygee Boom |
+| 1096 | 8 | Groovy Riseclear |
+| 1097 | 7 | Stephanie L Jeffries Moultrie |
+| 1098 | 7 | Sunset Owens |
 | 1099 | 7 | Teresa F. Campos Eaton |
-| 1100 | 7 | Deadra Graham |
-| 1101 | 7 | Quana |
-| 1102 | 7 | Shane Brucewayne |
-| 1103 | 7 | Andrew Harris |
-| 1104 | 7 | Jhonny Maii |
-| 1105 | 7 | Analesia Taylor |
-| 1106 | 7 | LaMinda Todd |
-| 1107 | 7 | Deantenique Smalls |
-| 1108 | 7 | Zachary Sinclair |
-| 1109 | 7 | Sheena Hamilton |
-| 1110 | 7 | Phoenix |
-| 1111 | 7 | Stephanie L Jeffries Moultrie |
-| 1112 | 7 | KingSlim82 |
-| 1113 | 7 | Milfchaser530 |
-| 1114 | 7 | whatever |
-| 1115 | 7 | Ann White |
-| 1116 | 6 | Chantae Maxwell |
-| 1117 | 6 | Wu May |
-| 1118 | 6 | NEM0228 |
-| 1119 | 6 | CK |
-| 1120 | 6 | Kyshia |
-| 1121 | 6 | Frances Davis |
-| 1122 | 6 | Frilly Riserbuilder |
+| 1100 | 7 | Ann White |
+| 1101 | 7 | Mary2 |
+| 1102 | 7 | Deadra Graham |
+| 1103 | 7 | Milfchaser530 |
+| 1104 | 7 | KingSlim82 |
+| 1105 | 7 | Shane Brucewayne |
+| 1106 | 7 | Andrew Harris |
+| 1107 | 7 | Jhonny Maii |
+| 1108 | 7 | whatever |
+| 1109 | 7 | Analesia Taylor |
+| 1110 | 7 | LaMinda Todd |
+| 1111 | 7 | Deantenique Smalls |
+| 1112 | 7 | Zachary Sinclair |
+| 1113 | 7 | Sheena Hamilton |
+| 1114 | 7 | Phoenix |
+| 1115 | 7 | Quana |
+| 1116 | 6 | Frances Davis |
+| 1117 | 6 | Kyshia |
+| 1118 | 6 | Chantae Maxwell |
+| 1119 | 6 | smash56! |
+| 1120 | 6 | Wu May |
+| 1121 | 6 | NEM0228 |
+| 1122 | 6 | CK |
 | 1123 | 6 | Terry Lee Moya |
-| 1124 | 6 | smash56! |
-| 1125 | 5 | Tito Divyn |
-| 1126 | 5 | Chill Linkroll |
-| 1127 | 5 | Tipsy Builderline |
-| 1128 | 5 | VERA DAME |
-| 1129 | 5 | Zappy Clearfit |
-| 1130 | 5 | the guy |
-| 1131 | 5 | Mario Meliodas |
-| 1132 | 5 | Derek Beverly |
-| 1133 | 5 | rummy |
-| 1134 | 5 | Jennifer Moore |
-| 1135 | 5 | Alonzo Kirkland |
-| 1136 | 5 | Marissa Sweet |
-| 1137 | 5 | DRIFTER |
-| 1138 | 5 | Stephanie Zuniga Tullock |
-| 1139 | 5 | Aanngie Aanngie |
-| 1140 | 5 | Mamiyoung47 |
-| 1141 | 5 | Joey Hoover |
-| 1142 | 5 | Temeshia Brooks Washington |
-| 1143 | 5 | EvaLynn NeCole |
-| 1144 | 5 | Rachael R Gull |
-| 1145 | 5 | Happy |
-| 1146 | 5 | Zesty Clearer |
-| 1147 | 5 | Annette DeLoatch Thompson |
-| 1148 | 5 | Angelique Thomas |
+| 1124 | 6 | Frilly Riserbuilder |
+| 1125 | 5 | Annette DeLoatch Thompson |
+| 1126 | 5 | Zesty Clearer |
+| 1127 | 5 | Zappy Clearfit |
+| 1128 | 5 | rummy |
+| 1129 | 5 | Tipsy Builderline |
+| 1130 | 5 | VERA DAME |
+| 1131 | 5 | Alonzo Kirkland |
+| 1132 | 5 | Marissa Sweet |
+| 1133 | 5 | Chill Linkroll |
+| 1134 | 5 | DRIFTER |
+| 1135 | 5 | Stephanie Zuniga Tullock |
+| 1136 | 5 | Tito Divyn |
+| 1137 | 5 | Mamiyoung47 |
+| 1138 | 5 | Joey Hoover |
+| 1139 | 5 | the guy |
+| 1140 | 5 | Mario Meliodas |
+| 1141 | 5 | Temeshia Brooks Washington |
+| 1142 | 5 | Jennifer Moore |
+| 1143 | 5 | Derek Beverly |
+| 1144 | 5 | EvaLynn NeCole |
+| 1145 | 5 | Angelique Thomas |
+| 1146 | 5 | Rachael R Gull |
+| 1147 | 5 | Happy |
+| 1148 | 5 | Aanngie Aanngie |
 
 ---
 *Standings created by tournaments datasource generation tool*

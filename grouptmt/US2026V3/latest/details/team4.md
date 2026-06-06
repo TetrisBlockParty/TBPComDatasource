@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 20:24:17 UTC
+# Standings for team4 as of 2026-06-06 20:24:41 UTC
 
 **Total Participants:** 1131
 
@@ -563,80 +563,80 @@
 | 555 | 51 | JustLessie |
 | 556 | 51 | shonaberry |
 | 557 | 51 | Vergie Michael |
-| 558 | 51 | LilRain |
+| 558 | 51 | Breezy Blockzone |
 | 559 | 51 | Michellee Lewis |
-| 560 | 51 | Kimberly Civinski |
-| 561 | 51 | Erika Rubio |
-| 562 | 51 | Breezy Blockzone |
-| 563 | 50 | Nova Kain |
-| 564 | 50 | Hooti Smile |
-| 565 | 50 | Jacqueline Wright |
-| 566 | 50 | Loony Edge |
-| 567 | 50 | Susan Stofberg Beltran |
-| 568 | 50 | Bhakti Sawarkar |
-| 569 | 50 | Diane Obungu |
-| 570 | 50 | Slinky Column |
-| 571 | 50 | Edward White |
-| 572 | 50 | Michael Cruz |
-| 573 | 50 | Bee |
-| 574 | 50 | Ralph Hell Rell Williams |
-| 575 | 49 | Erica Armstrong Baz |
-| 576 | 49 | Mrsjcraw18 |
-| 577 | 49 | LeRoy jenkins |
-| 578 | 49 | Daffney Starr |
-| 579 | 49 | Meghan Etchells |
-| 580 | 49 | smarty |
-| 581 | 49 | Candiecane324 |
-| 582 | 49 | Karen Riexinger |
-| 583 | 49 | Kandylands |
-| 584 | 48 | ŁųŁų |
-| 585 | 48 | Alex Dawn |
-| 586 | 48 | Joseph Anthony Watkins |
-| 587 | 48 | Lilo |
-| 588 | 48 | REPENT |
-| 589 | 48 | Happy Toast |
-| 590 | 48 | Genger |
-| 591 | 48 | JP |
-| 592 | 47 | chefjaydawg |
+| 560 | 51 | Erika Rubio |
+| 561 | 51 | LilRain |
+| 562 | 51 | Kimberly Civinski |
+| 563 | 50 | Susan Stofberg Beltran |
+| 564 | 50 | Bhakti Sawarkar |
+| 565 | 50 | Michael Cruz |
+| 566 | 50 | Edward White |
+| 567 | 50 | Bee |
+| 568 | 50 | Jacqueline Wright |
+| 569 | 50 | Nova Kain |
+| 570 | 50 | Ralph Hell Rell Williams |
+| 571 | 50 | Diane Obungu |
+| 572 | 50 | Loony Edge |
+| 573 | 50 | Hooti Smile |
+| 574 | 50 | Slinky Column |
+| 575 | 49 | Mrsjcraw18 |
+| 576 | 49 | Meghan Etchells |
+| 577 | 49 | Kandylands |
+| 578 | 49 | smarty |
+| 579 | 49 | Daffney Starr |
+| 580 | 49 | LeRoy jenkins |
+| 581 | 49 | Karen Riexinger |
+| 582 | 49 | Giggly Rollpiece |
+| 583 | 49 | Erica Armstrong Baz |
+| 584 | 49 | Candiecane324 |
+| 585 | 48 | JP |
+| 586 | 48 | Genger |
+| 587 | 48 | Happy Toast |
+| 588 | 48 | Joseph Anthony Watkins |
+| 589 | 48 | Lilo |
+| 590 | 48 | REPENT |
+| 591 | 48 | Alex Dawn |
+| 592 | 48 | ŁųŁų |
 | 593 | 47 | Lush Twisterfit |
-| 594 | 46 | Lashae |
-| 595 | 46 | Meela Abdurrab |
-| 596 | 46 | Gerald Richard Franke |
-| 597 | 46 | Giggly Rollpiece |
+| 594 | 47 | chefjaydawg |
+| 595 | 46 | Lashae |
+| 596 | 46 | Nerdy Faller |
+| 597 | 46 | Meela Abdurrab |
 | 598 | 46 | Esmond Johnson IV |
-| 599 | 46 | Elise Ann |
-| 600 | 46 | Nerdy Faller |
-| 601 | 46 | Tamika Ashli Bonner |
-| 602 | 46 | Mike Artis |
-| 603 | 45 | Knijur Callins |
-| 604 | 45 | BurnedCrab52 |
-| 605 | 45 | Gary Smallwood |
-| 606 | 45 | Joe Win |
-| 607 | 45 | Becky Bernazal |
-| 608 | 45 | EmBem |
-| 609 | 45 | Jennifer Terrill |
-| 610 | 45 | Jt Home |
-| 611 | 45 | SueSally |
-| 612 | 45 | Loopy Hitter |
-| 613 | 45 | Kimberly Devon |
-| 614 | 44 | EJ Frazier |
-| 615 | 44 | Jazzy Rollout |
+| 599 | 46 | Gerald Richard Franke |
+| 600 | 46 | Mike Artis |
+| 601 | 46 | Elise Ann |
+| 602 | 46 | Tamika Ashli Bonner |
+| 603 | 45 | Gary Smallwood |
+| 604 | 45 | EmBem |
+| 605 | 45 | Becky Bernazal |
+| 606 | 45 | Jennifer Terrill |
+| 607 | 45 | Jt Home |
+| 608 | 45 | Knijur Callins |
+| 609 | 45 | Kimberly Devon |
+| 610 | 45 | Loopy Hitter |
+| 611 | 45 | Joe Win |
+| 612 | 45 | BurnedCrab52 |
+| 613 | 45 | SueSally |
+| 614 | 44 | Dizzy |
+| 615 | 44 | Cauntay Youngking Williams |
 | 616 | 44 | Kassey M. Clark |
-| 617 | 44 | Dizzy |
-| 618 | 44 | Kimmie Warren |
-| 619 | 44 | Sarah Leake |
-| 620 | 44 | SweetChaos |
+| 617 | 44 | Jazzy Rollout |
+| 618 | 44 | Kelly Miller Williams |
+| 619 | 44 | SweetChaos |
+| 620 | 44 | Sarah Leake |
 | 621 | 44 | pussface |
-| 622 | 44 | jojo |
+| 622 | 44 | Kimmie Warren |
 | 623 | 44 | Danielle Sulano |
-| 624 | 44 | Cauntay Youngking Williams |
-| 625 | 44 | Kelly Miller Williams |
-| 626 | 43 | Jeremy Barry |
-| 627 | 43 | Tactical_B |
+| 624 | 44 | jojo |
+| 625 | 44 | EJ Frazier |
+| 626 | 43 | Tactical_B |
+| 627 | 43 | Jeremy Barry |
 | 628 | 43 | Ben Figueroa |
 | 629 | 43 | Purple Queen |
-| 630 | 43 | Swanky Snapgrid |
-| 631 | 43 | Heidi Lyn Ramirez |
+| 630 | 43 | Heidi Lyn Ramirez |
+| 631 | 43 | Swanky Snapgrid |
 | 632 | 42 | ShaniP |
 | 633 | 42 | Miranda Brown |
 | 634 | 42 | Melissa Lowe |
