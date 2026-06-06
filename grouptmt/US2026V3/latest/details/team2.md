@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 10:52:16 UTC
+# Standings for team2 as of 2026-06-06 10:52:40 UTC
 
 **Total Participants:** 1108
 
@@ -91,9 +91,9 @@
 | 83 | 400 | Allie Bug |
 | 84 | 390 | La chulis |
 | 85 | 389 | Kimberly Cowan |
-| 86 | 377 | Nawang Nawang |
-| 87 | 372 | Tom Badgley |
-| 88 | 368 | Marquetta Johnson |
+| 86 | 388 | Marquetta Johnson |
+| 87 | 377 | Nawang Nawang |
+| 88 | 372 | Tom Badgley |
 | 89 | 354 | Branden Frankowski |
 | 90 | 345 | Smiley Dropper |
 | 91 | 340 | Courtney McCulley |
@@ -108,8 +108,8 @@
 | 100 | 312 | Le Sandy |
 | 101 | 310 | Jennifer Smith |
 | 102 | 300 | Wmk Rathbun |
-| 103 | 299 | Giddy Slamdrop |
-| 104 | 299 | Amber Miller Wirick |
+| 103 | 299 | Amber Miller Wirick |
+| 104 | 299 | Giddy Slamdrop |
 | 105 | 294 | Vistabrat |
 | 106 | 280 | Mom |
 | 107 | 279 | James Ward |
@@ -131,15 +131,15 @@
 | 123 | 228 | Keri Mears |
 | 124 | 227 | Brittni Lawrence |
 | 125 | 218 | Amy Nicole McCanne |
-| 126 | 215 | Melissa Thomas |
-| 127 | 215 | Ashley Green |
+| 126 | 215 | Ashley Green |
+| 127 | 215 | Melissa Thomas |
 | 128 | 201 | Danielle Pack Lewellen |
-| 129 | 200 | Sarah Grundisch |
-| 130 | 200 | Kelly Vedder |
+| 129 | 200 | Kelly Vedder |
+| 130 | 200 | Sarah Grundisch |
 | 131 | 200 | Lisa Breiding |
-| 132 | 199 | Beverly Lynn Mills |
+| 132 | 199 | Amber Cogdill |
 | 133 | 199 | Stella |
-| 134 | 199 | Amber Cogdill |
+| 134 | 199 | Beverly Lynn Mills |
 | 135 | 198 | Eric Wayne Maschman |
 | 136 | 197 | Dallas Runyan |
 | 137 | 195 | Bb |
