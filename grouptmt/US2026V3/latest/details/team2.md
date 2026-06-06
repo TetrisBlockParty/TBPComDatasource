@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 09:21:15 UTC
+# Standings for team2 as of 2026-06-06 09:22:17 UTC
 
 **Total Participants:** 1095
 
@@ -18,8 +18,8 @@
 | 10 | 4500 | Mocha |
 | 11 | 3984 | Amber |
 | 12 | 3812 | Crystal M Sowden |
-| 13 | 3605 | Crystalin Heath Lewis |
-| 14 | 3419 | Christina Shell |
+| 13 | 3686 | Christina Shell |
+| 14 | 3605 | Crystalin Heath Lewis |
 | 15 | 3283 | Jewels |
 | 16 | 3158 | Traci Elizabeth |
 | 17 | 2561 | Erica Dees Parks |
@@ -79,20 +79,20 @@
 | 71 | 467 | Brandon Link |
 | 72 | 461 | Ricardo Ewart |
 | 73 | 451 | Marquita Toliver |
-| 74 | 449 | Poppy |
-| 75 | 449 | Mikki Torres |
+| 74 | 449 | Mikki Torres |
+| 75 | 449 | Poppy |
 | 76 | 432 | Mirr Lulu |
 | 77 | 428 | Loopy Cascadepiece |
 | 78 | 425 | Amanda Sikes |
 | 79 | 405 | Judy Long |
-| 80 | 400 | Allie Bug |
-| 81 | 400 | Smashanator |
+| 80 | 400 | Smashanator |
+| 81 | 400 | Allie Bug |
 | 82 | 390 | La chulis |
 | 83 | 389 | Kimberly Cowan |
-| 84 | 364 | Deborah Boyce Minor |
+| 84 | 374 | Deborah Boyce Minor |
 | 85 | 354 | Branden Frankowski |
-| 86 | 345 | Smiley Dropper |
-| 87 | 345 | Marquetta Johnson |
+| 86 | 345 | Marquetta Johnson |
+| 87 | 345 | Smiley Dropper |
 | 88 | 342 | Tom Badgley |
 | 89 | 340 | Courtney McCulley |
 | 90 | 335 | MaddieCherie |
@@ -127,10 +127,10 @@
 | 119 | 236 | Steven Craig |
 | 120 | 230 | Brandy Chinelle |
 | 121 | 228 | Keri Mears |
-| 122 | 227 | Brittni Lawrence |
-| 123 | 218 | Amy Nicole McCanne |
-| 124 | 215 | Ashley Green |
-| 125 | 207 | Nerdy Climber |
+| 122 | 227 | Nerdy Climber |
+| 123 | 227 | Brittni Lawrence |
+| 124 | 218 | Amy Nicole McCanne |
+| 125 | 215 | Ashley Green |
 | 126 | 201 | Danielle Pack Lewellen |
 | 127 | 200 | Sarah Grundisch |
 | 128 | 200 | Kelly Vedder |
@@ -302,10 +302,10 @@
 | 294 | 81 | Cassandra Milner |
 | 295 | 81 | Angeleye A James |
 | 296 | 81 | Epic Tilemaker |
-| 297 | 81 | Heather Hi |
-| 298 | 81 | Shiny Spinfit |
-| 299 | 81 | YldBoar |
-| 300 | 81 | Lindsey Ross |
+| 297 | 81 | Shiny Spinfit |
+| 298 | 81 | Heather Hi |
+| 299 | 81 | Lindsey Ross |
+| 300 | 81 | YldBoar |
 | 301 | 81 | Kimmyc |
 | 302 | 80 | Al Smith Jr |
 | 303 | 80 | Skye Ehret |
@@ -314,61 +314,61 @@
 | 306 | 79 | Aeryal Snow |
 | 307 | 78 | Jef Wassom |
 | 308 | 77 | Sandra Belk |
-| 309 | 77 | Nikki Hayes |
+| 309 | 77 | Nikki EightySixed |
 | 310 | 77 | Kenzie |
-| 311 | 77 | Nikki EightySixed |
+| 311 | 77 | Nikki Hayes |
 | 312 | 77 | Heather Vircik |
 | 313 | 77 | MUMBLES |
 | 314 | 76 | Reign Hustler |
-| 315 | 76 | Tiffany Fitch |
-| 316 | 75 | Jgato |
-| 317 | 75 | Karly Moore |
-| 318 | 75 | Anthony Swift |
-| 319 | 75 | Epic Framezone |
-| 320 | 75 | Jessica Christine |
-| 321 | 75 | Christine James |
-| 322 | 75 | Analee Nicole Jones |
-| 323 | 75 | Paula Haskins |
-| 324 | 74 | Jumpy Dashpiece |
-| 325 | 74 | Natasha Lee |
-| 326 | 74 | Derrick |
-| 327 | 73 | Sunny Spinzone |
-| 328 | 73 | Joannah Capilitan |
+| 315 | 76 | Candi Cane |
+| 316 | 76 | Tiffany Fitch |
+| 317 | 75 | Jgato |
+| 318 | 75 | Karly Moore |
+| 319 | 75 | Anthony Swift |
+| 320 | 75 | Epic Framezone |
+| 321 | 75 | Jessica Christine |
+| 322 | 75 | Christine James |
+| 323 | 75 | Analee Nicole Jones |
+| 324 | 75 | Paula Haskins |
+| 325 | 74 | Jumpy Dashpiece |
+| 326 | 74 | Natasha Lee |
+| 327 | 74 | Derrick |
+| 328 | 73 | bozzycat |
 | 329 | 73 | Rachel M. Farnsworth |
-| 330 | 73 | bozzycat |
-| 331 | 72 | Mary Carriere |
+| 330 | 73 | Joannah Capilitan |
+| 331 | 73 | Sunny Spinzone |
 | 332 | 72 | Stephanie Smith Robinson |
-| 333 | 72 | Sully |
-| 334 | 72 | Kendi |
-| 335 | 71 | Sandy Lynn |
+| 333 | 72 | Mary Carriere |
+| 334 | 72 | Sully |
+| 335 | 72 | Kendi |
 | 336 | 71 | Cindy Scott |
-| 337 | 71 | Groovy Glider |
-| 338 | 70 | Courtney Madison Hart |
-| 339 | 70 | Ceci |
-| 340 | 70 | Tonya Marino |
+| 337 | 71 | Sandy Lynn |
+| 338 | 71 | Groovy Glider |
+| 339 | 70 | Courtney Madison Hart |
+| 340 | 70 | Ceci |
 | 341 | 70 | Jennifer Covington |
-| 342 | 69 | Ashley Billiot Rhodes |
-| 343 | 69 | Justin McCray |
-| 344 | 69 | Alonzo Reed |
-| 345 | 69 | REE4 |
-| 346 | 69 | Cynthia Dawn Reitz Hanson |
-| 347 | 69 | Momof2wigglebutts |
-| 348 | 68 | Cozy Cascade |
-| 349 | 68 | Erica South |
-| 350 | 68 | Fancy Stacker |
-| 351 | 68 | Avie Lou |
-| 352 | 68 | AndyJo |
-| 353 | 68 | Belinda Gullion Austin |
-| 354 | 68 | Arik DiLorenzo |
-| 355 | 66 | Frilly Shiftsnap |
-| 356 | 66 | Candi Cane |
-| 357 | 66 | Jennifer Lalk |
-| 358 | 66 | Crystal Robinson |
-| 359 | 66 | Donna Segletes Kay |
-| 360 | 65 | Sarah Louise Cobb |
-| 361 | 65 | Susie Conger |
-| 362 | 65 | Sarah Jane Gorsuch |
-| 363 | 65 | Jumpy Matchbuilder |
+| 342 | 70 | Tonya Marino |
+| 343 | 69 | Momof2wigglebutts |
+| 344 | 69 | REE4 |
+| 345 | 69 | Justin McCray |
+| 346 | 69 | Ashley Billiot Rhodes |
+| 347 | 69 | Alonzo Reed |
+| 348 | 69 | Cynthia Dawn Reitz Hanson |
+| 349 | 68 | Arik DiLorenzo |
+| 350 | 68 | Belinda Gullion Austin |
+| 351 | 68 | AndyJo |
+| 352 | 68 | Avie Lou |
+| 353 | 68 | Cozy Cascade |
+| 354 | 68 | Fancy Stacker |
+| 355 | 68 | Erica South |
+| 356 | 66 | Frilly Shiftsnap |
+| 357 | 66 | Crystal Robinson |
+| 358 | 66 | Donna Segletes Kay |
+| 359 | 66 | Jennifer Lalk |
+| 360 | 65 | Sarah Jane Gorsuch |
+| 361 | 65 | Jumpy Matchbuilder |
+| 362 | 65 | Susie Conger |
+| 363 | 65 | Sarah Louise Cobb |
 | 364 | 65 | Justin Stark |
 | 365 | 64 | Earline Dupuy Bordelon |
 | 366 | 64 | Paige Lynette Sohl |
