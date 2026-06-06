@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 08:16:39 UTC
+# Standings for team1 as of 2026-06-06 08:17:16 UTC
 
 **Total Participants:** 925
 
@@ -478,12 +478,12 @@
 | 470 | 39 | JesusSaves 😇 |
 | 471 | 39 | Essence Jones |
 | 472 | 39 | Keith Johnson |
-| 473 | 39 | Twisty Cascadeclear |
+| 473 | 39 | ChunLi |
 | 474 | 39 | Diva shrock |
 | 475 | 39 | Kyle Conley |
 | 476 | 39 | Lexx Robins |
 | 477 | 39 | Elizabeth Green |
-| 478 | 39 | ChunLi |
+| 478 | 39 | Twisty Cascadeclear |
 | 479 | 39 | Vernon Hoyt |
 | 480 | 39 | Amy Lynn Leifheit |
 | 481 | 39 | Laysa Nunez |
@@ -495,48 +495,48 @@
 | 487 | 38 | SeanSanchez |
 | 488 | 38 | Quwana Hall |
 | 489 | 38 | Earl Williams |
-| 490 | 38 | Kayel Good |
-| 491 | 38 | hope |
-| 492 | 37 | Jojo M |
-| 493 | 37 | Lil T |
-| 494 | 37 | CoaCoa Myles |
-| 495 | 37 | Lootch |
-| 496 | 37 | Elizabeth Vega Coreano |
-| 497 | 36 | Jess |
-| 498 | 36 | Sugar Foot |
+| 490 | 38 | Sugar Foot |
+| 491 | 38 | Kayel Good |
+| 492 | 38 | hope |
+| 493 | 37 | Jojo M |
+| 494 | 37 | Lil T |
+| 495 | 37 | CoaCoa Myles |
+| 496 | 37 | Lootch |
+| 497 | 37 | Elizabeth Vega Coreano |
+| 498 | 36 | Jess |
 | 499 | 36 | Xrandomx |
-| 500 | 36 | Meow Meow |
-| 501 | 36 | Meluhnee |
+| 500 | 36 | Meluhnee |
+| 501 | 36 | Meow Meow |
 | 502 | 36 | FunTime |
 | 503 | 36 | Dennis Ripley |
-| 504 | 35 | Tracy Feyler |
-| 505 | 35 | Saucy Crusher |
-| 506 | 35 | Sashaleo |
-| 507 | 35 | Crafty Link |
-| 508 | 35 | Amy Villalpando |
-| 509 | 35 | Jjhandsome |
-| 510 | 35 | Giggy Clusterer |
-| 511 | 35 | Shannon Carriger |
-| 512 | 35 | Mighty Dropper |
+| 504 | 35 | Sashaleo |
+| 505 | 35 | Crafty Link |
+| 506 | 35 | Amy Villalpando |
+| 507 | 35 | Jjhandsome |
+| 508 | 35 | Saucy Crusher |
+| 509 | 35 | Giggy Clusterer |
+| 510 | 35 | Shannon Carriger |
+| 511 | 35 | Mighty Dropper |
+| 512 | 35 | Tracy Feyler |
 | 513 | 35 | messyboots |
 | 514 | 35 | Tetrisdestroyer |
-| 515 | 34 | Mary Phillippi Blanton |
+| 515 | 34 | Choc |
 | 516 | 34 | Karen Denen |
-| 517 | 34 | Rene Hicks |
-| 518 | 34 | Zayy Wavyy |
-| 519 | 34 | Spicy Shatterblock |
+| 517 | 34 | Jeremy Pope |
+| 518 | 34 | Sharee Robinson |
+| 519 | 34 | Rene Hicks |
 | 520 | 34 | Jelyfish |
-| 521 | 34 | Sharee Robinson |
-| 522 | 34 | Jeremy Pope |
-| 523 | 34 | Choc |
-| 524 | 33 | Block King |
-| 525 | 33 | Mom3granny2 |
+| 521 | 34 | Spicy Shatterblock |
+| 522 | 34 | Mary Phillippi Blanton |
+| 523 | 34 | Zayy Wavyy |
+| 524 | 33 | Danny M GR |
+| 525 | 33 | Krose Byers |
 | 526 | 33 | Stephen Garland |
-| 527 | 33 | Krose Byers |
-| 528 | 33 | Melanie Houghton-McCann |
+| 527 | 33 | Melanie Houghton-McCann |
+| 528 | 33 | Block King |
 | 529 | 33 | Squaw Ki Ng |
 | 530 | 33 | Crtjstr |
-| 531 | 33 | Danny M GR |
+| 531 | 33 | Mom3granny2 |
 | 532 | 33 | Mathew Trudell |
 | 533 | 33 | Yadira Salgado |
 | 534 | 33 | Koz176 |
@@ -747,11 +747,11 @@
 | 739 | 16 | Sunny Tumbler |
 | 740 | 16 | Tammy Collins |
 | 741 | 16 | Symonne 'Monnie' Pierce |
-| 742 | 16 | Twisty Dashy |
-| 743 | 16 | Sha Anderson |
-| 744 | 16 | Dee-Dee Stewart |
-| 745 | 16 | Stacey Kesteloot |
-| 746 | 15 | Ameillia Boughner |
+| 742 | 16 | Ameillia Boughner |
+| 743 | 16 | Twisty Dashy |
+| 744 | 16 | Sha Anderson |
+| 745 | 16 | Dee-Dee Stewart |
+| 746 | 16 | Stacey Kesteloot |
 | 747 | 15 | Elaine Youmans |
 | 748 | 15 | Spunky Strikerbuilder |
 | 749 | 15 | Laura Long |
