@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 14:42:39 UTC
+# Standings for team1 as of 2026-06-06 14:43:17 UTC
 
 **Total Participants:** 1024
 
@@ -178,8 +178,8 @@
 | 170 | 149 | Lively Riserpiece |
 | 171 | 147 | MACHETEEDDIE513 |
 | 172 | 146 | BlackQueen105 |
-| 173 | 146 | Reginald Frank |
-| 174 | 146 | Jai |
+| 173 | 146 | Jai |
+| 174 | 146 | Reginald Frank |
 | 175 | 145 | Latisha Fairley |
 | 176 | 143 | Sammie Walker |
 | 177 | 143 | IThinkNot |
@@ -196,32 +196,32 @@
 | 188 | 135 | Sean White |
 | 189 | 135 | Dawn L Washington-Feuquay |
 | 190 | 135 | Amber Wilson |
-| 191 | 133 | Byron Mario Cawthon |
-| 192 | 133 | Ebony Waynes-robinson |
-| 193 | 132 | Jolly Tilefall |
-| 194 | 131 | TBABYJ |
-| 195 | 130 | Jessica Davis |
-| 196 | 130 | Emily Wright |
-| 197 | 130 | Dion Gray |
+| 191 | 133 | Robbie Cheeseman |
+| 192 | 133 | Byron Mario Cawthon |
+| 193 | 133 | Ebony Waynes-robinson |
+| 194 | 132 | Jolly Tilefall |
+| 195 | 131 | TBABYJ |
+| 196 | 130 | Jessica Davis |
+| 197 | 130 | Emily Wright |
 | 198 | 130 | Tishauna Virgo |
 | 199 | 130 | Rolanda Williams |
-| 200 | 126 | Tremaine Hiler |
-| 201 | 126 | Stephen Providenti |
-| 202 | 125 | LaTonya Myers |
+| 200 | 130 | Dion Gray |
+| 201 | 126 | Tremaine Hiler |
+| 202 | 126 | Stephen Providenti |
 | 203 | 125 | LaShaun Stinson |
-| 204 | 124 | Courtney Cicoria |
-| 205 | 124 | Queenie Perry |
-| 206 | 123 | Lisa Fletcher |
-| 207 | 122 | Miera Nicole |
-| 208 | 122 | Robbie Cheeseman |
-| 209 | 121 | Tiana Monique |
-| 210 | 121 | Treneil Daffin |
+| 204 | 125 | LaTonya Myers |
+| 205 | 124 | Courtney Cicoria |
+| 206 | 124 | Queenie Perry |
+| 207 | 123 | Lisa Fletcher |
+| 208 | 122 | Miera Nicole |
+| 209 | 121 | Treneil Daffin |
+| 210 | 121 | Tiana Monique |
 | 211 | 120 | Guy Incognito |
 | 212 | 120 | xXEKUNXx |
 | 213 | 120 | Nerdy Blockpiece |
-| 214 | 120 | Spicy Risepiece |
-| 215 | 120 | Brittanie Wardlow |
-| 216 | 120 | Saucy Tile |
+| 214 | 120 | Brittanie Wardlow |
+| 215 | 120 | Saucy Tile |
+| 216 | 120 | Spicy Risepiece |
 | 217 | 119 | Christina Rebecca |
 | 218 | 118 | Hasty Pivoty |
 | 219 | 118 | Tanisha Taylor |
