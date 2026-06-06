@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 08:45:17 UTC
+# Standings for team1 as of 2026-06-06 08:46:17 UTC
 
 **Total Participants:** 933
 
@@ -57,13 +57,13 @@
 | 49 | 482 | Cj Gorman |
 | 50 | 469 | Sanjuro |
 | 51 | 415 | Corey Cawthon |
-| 52 | 411 | Ivana Schmidt |
-| 53 | 407 | KenpachisGirl |
-| 54 | 401 | Lisa Müller |
-| 55 | 399 | ing410 |
-| 56 | 395 | Markeeta Lipscomb |
-| 57 | 395 | Blockhead |
-| 58 | 394 | Keeta Chickswit Scott |
+| 52 | 414 | Keeta Chickswit Scott |
+| 53 | 411 | Ivana Schmidt |
+| 54 | 407 | KenpachisGirl |
+| 55 | 401 | Lisa Müller |
+| 56 | 399 | ing410 |
+| 57 | 395 | Markeeta Lipscomb |
+| 58 | 395 | Blockhead |
 | 59 | 388 | SPNLover24 |
 | 60 | 387 | Novaa |
 | 61 | 380 | She Higgy |
@@ -937,8 +937,8 @@
 | 929 | 5 | VERA DAME |
 | 930 | 5 | Duckey |
 | 931 | 5 | Logan Frost |
-| 932 | 5 | Rieshelda Marie White |
-| 933 | 5 | DirtiestofMikes |
+| 932 | 5 | DirtiestofMikes |
+| 933 | 5 | Rieshelda Marie White |
 
 ---
 *Standings created by tournaments datasource generation tool*
