@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 23:22:39 UTC
+# Standings for team4 as of 2026-06-06 23:23:16 UTC
 
 **Total Participants:** 1196
 
@@ -227,14 +227,14 @@
 | 219 | 150 | bollo |
 | 220 | 148 | Smiley Gridzone |
 | 221 | 148 | Joseph Hunter |
-| 222 | 146 | Jasmine Marie |
-| 223 | 145 | Erika Seaton |
-| 224 | 144 | Yesenia Castro Monreal |
-| 225 | 144 | Katie Lynn Petit |
-| 226 | 143 | Brennan Shea Greene |
-| 227 | 142 | Lush Fitblock |
-| 228 | 141 | Justin Michael |
-| 229 | 141 | EvoKitty |
+| 222 | 147 | EvoKitty |
+| 223 | 146 | Jasmine Marie |
+| 224 | 145 | Erika Seaton |
+| 225 | 144 | Yesenia Castro Monreal |
+| 226 | 144 | Katie Lynn Petit |
+| 227 | 143 | Brennan Shea Greene |
+| 228 | 142 | Lush Fitblock |
+| 229 | 141 | Justin Michael |
 | 230 | 138 | Tina Thomas |
 | 231 | 138 | June Hoffman |
 | 232 | 138 | Cheery Risegrid |
