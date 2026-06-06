@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 23:32:17 UTC
+# Standings for team4 as of 2026-06-06 23:32:40 UTC
 
 **Total Participants:** 1198
 
@@ -59,11 +59,11 @@
 | 51 | 754 | Victoria Ver |
 | 52 | 738 | Shaina Sharp |
 | 53 | 736 | Gloria Nunley Trussell |
-| 54 | 722 | Keesha Muro |
-| 55 | 722 | Chummy Rollzone |
-| 56 | 720 | Carly Stempien |
-| 57 | 718 | Phil Peterson |
-| 58 | 717 | Bubbly Twistpiece |
+| 54 | 727 | Bubbly Twistpiece |
+| 55 | 722 | Keesha Muro |
+| 56 | 722 | Chummy Rollzone |
+| 57 | 720 | Carly Stempien |
+| 58 | 718 | Phil Peterson |
 | 59 | 711 | MysticMaven |
 | 60 | 672 | Heather Preston |
 | 61 | 670 | Dana Fontanez |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 23:32:17 UTC
+# Standings for team2 as of 2026-06-06 23:32:40 UTC
 
 **Total Participants:** 1449
 
@@ -60,7 +60,7 @@
 | 52 | 1047 | Jaime P Lamb |
 | 53 | 1032 | AcardBoardBox |
 | 54 | 1031 | DarkHorse |
-| 55 | 960 | Rose Schaffner-Kibler |
+| 55 | 969 | Rose Schaffner-Kibler |
 | 56 | 959 | Debra Henry |
 | 57 | 942 | Dane Marko |
 | 58 | 921 | Block Dog |
@@ -95,20 +95,20 @@
 | 87 | 600 | LEW |
 | 88 | 592 | Brandon Link |
 | 89 | 588 | Kellie Sharp Godfrey |
-| 90 | 577 | Lindsay Klemp |
-| 91 | 572 | Dsabrina Maxey |
-| 92 | 570 | Nerdy Climber |
-| 93 | 549 | Rhonda Diebold |
-| 94 | 543 | Kathleen Dumbazz |
-| 95 | 541 | Ricardo Ewart |
-| 96 | 540 | Jamie Jones |
-| 97 | 516 | Amber Miller Wirick |
-| 98 | 515 | Loony Faller |
-| 99 | 500 | Suki Kaur |
-| 100 | 492 | Matt Hardin |
-| 101 | 490 | Krisanne Kesner-Lonsby |
-| 102 | 483 | Karen Reid Cenkush |
-| 103 | 481 | Criccett Hooper-Smith |
+| 90 | 577 | Criccett Hooper-Smith |
+| 91 | 577 | Lindsay Klemp |
+| 92 | 572 | Dsabrina Maxey |
+| 93 | 570 | Nerdy Climber |
+| 94 | 549 | Rhonda Diebold |
+| 95 | 543 | Kathleen Dumbazz |
+| 96 | 541 | Ricardo Ewart |
+| 97 | 540 | Jamie Jones |
+| 98 | 516 | Amber Miller Wirick |
+| 99 | 515 | Loony Faller |
+| 100 | 500 | Suki Kaur |
+| 101 | 492 | Matt Hardin |
+| 102 | 490 | Krisanne Kesner-Lonsby |
+| 103 | 483 | Karen Reid Cenkush |
 | 104 | 480 | Courtney McCulley |
 | 105 | 472 | Lily |
 | 106 | 468 | Amy Gale |
