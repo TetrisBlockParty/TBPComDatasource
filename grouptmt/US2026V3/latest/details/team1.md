@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 00:56:39 UTC
+# Standings for team1 as of 2026-06-06 00:57:15 UTC
 
 **Total Participants:** 657
 
@@ -11,8 +11,8 @@
 | 3 | 3511 | Timothy Robert |
 | 4 | 3297 | Charlie Roehm |
 | 5 | 2671 | Tracy Cohen |
-| 6 | 2458 | Cozy Edge |
-| 7 | 2309 | Carrie English |
+| 6 | 2609 | Carrie English |
+| 7 | 2458 | Cozy Edge |
 | 8 | 1589 | Brian Stackhouse |
 | 9 | 1449 | jaimie |
 | 10 | 1213 | Sha Harris |
@@ -25,7 +25,7 @@
 | 17 | 749 | Aviv Zehavi |
 | 18 | 674 | Holly Jolly |
 | 19 | 671 | Brian Bohanon II |
-| 20 | 645 | Whitney Butler |
+| 20 | 665 | Whitney Butler |
 | 21 | 634 | Charnay Peacock |
 | 22 | 580 | Janet Cooke |
 | 23 | 576 | Ashley Espeut |
@@ -59,8 +59,8 @@
 | 51 | 237 | Leebo Slice |
 | 52 | 228 | Cassidy Butler |
 | 53 | 224 | Alana Renee |
-| 54 | 221 | Allison Baxter |
-| 55 | 216 | COSA303 |
+| 54 | 221 | COSA303 |
+| 55 | 221 | Allison Baxter |
 | 56 | 215 | Abraham Espaillat |
 | 57 | 214 | Po Marley |
 | 58 | 212 | KenpachisGirl |
@@ -71,9 +71,9 @@
 | 63 | 199 | Chirpy Corner |
 | 64 | 193 | Brave Clearbuilder |
 | 65 | 185 | Teddy Davis |
-| 66 | 184 | Voice |
-| 67 | 183 | SPNLover24 |
-| 68 | 183 | Kimberly Hernandez |
+| 66 | 184 | Kimberly Hernandez |
+| 67 | 184 | Voice |
+| 68 | 183 | SPNLover24 |
 | 69 | 177 | Chris Sladoje |
 | 70 | 175 | Songne Arif |
 | 71 | 174 | Zachary Colegrove |
@@ -89,22 +89,22 @@
 | 81 | 147 | MACHETEEDDIE513 |
 | 82 | 146 | Curtis T Cirno |
 | 83 | 140 | Felicia Cain |
-| 84 | 140 | Sara Meri |
-| 85 | 140 | Ann Chung |
+| 84 | 140 | Ann Chung |
+| 85 | 140 | Sara Meri |
 | 86 | 139 | Todd C. Clemens |
 | 87 | 139 | Chenell Gillard |
 | 88 | 137 | BlackQueen105 |
 | 89 | 136 | Anthony Washington |
-| 90 | 135 | Amber Wilson |
-| 91 | 135 | Jawaun Daniels |
-| 92 | 132 | Robyn Caldwell |
-| 93 | 132 | Mimi 1.0 |
-| 94 | 130 | Lashaunda |
-| 95 | 130 | Emily Wright |
-| 96 | 129 | David Fuentes |
-| 97 | 126 | Cee Emm |
-| 98 | 125 | Kelli Couture |
-| 99 | 125 | Lisa Müller |
+| 90 | 135 | Jawaun Daniels |
+| 91 | 135 | Amber Wilson |
+| 92 | 134 | David Fuentes |
+| 93 | 132 | Robyn Caldwell |
+| 94 | 132 | Mimi 1.0 |
+| 95 | 130 | Lashaunda |
+| 96 | 130 | Emily Wright |
+| 97 | 129 | Lisa Müller |
+| 98 | 126 | Cee Emm |
+| 99 | 125 | Kelli Couture |
 | 100 | 121 | D'Andra Stewart |
 | 101 | 118 | Hasty Pivoty |
 | 102 | 118 | Tamara N Lee |
@@ -417,86 +417,86 @@
 | 409 | 23 | Hardtohandle91 |
 | 410 | 23 | Jamie Lea Popp |
 | 411 | 23 | Tabitha Dupre-Allen |
-| 412 | 22 | Dawn Basemore |
-| 413 | 22 | C Lo Green |
-| 414 | 22 | Angelique Talbot |
-| 415 | 22 | Ad Doctor |
-| 416 | 22 | Rufus |
-| 417 | 21 | Christy |
-| 418 | 21 | RylonJones |
-| 419 | 21 | Eric Spencer Whitaker |
-| 420 | 21 | Juanita Quezaire |
-| 421 | 21 | Pastors Du Bose |
+| 412 | 22 | Rufus |
+| 413 | 22 | Dawn Basemore |
+| 414 | 22 | C Lo Green |
+| 415 | 22 | Angelique Talbot |
+| 416 | 22 | Ad Doctor |
+| 417 | 21 | Pastors Du Bose |
+| 418 | 21 | Christy |
+| 419 | 21 | Juanita Quezaire |
+| 420 | 21 | RylonJones |
+| 421 | 21 | Kevin Turner |
 | 422 | 21 | Desiree Ryder |
-| 423 | 21 | Kevin Turner |
-| 424 | 20 | Giggy Edgefit |
+| 423 | 21 | Nickeya Phillips |
+| 424 | 21 | Eric Spencer Whitaker |
 | 425 | 20 | Tanisha Robinson |
-| 426 | 20 | Antoinette Kelly |
-| 427 | 20 | Spotlight |
-| 428 | 20 | Sallie Sanborn |
-| 429 | 20 | Jai |
-| 430 | 20 | Nyhlah Patterson |
-| 431 | 20 | Ebie |
-| 432 | 20 | Ace Hardware |
-| 433 | 20 | Daddy |
-| 434 | 20 | Danny M GR |
-| 435 | 20 | Phillip White |
-| 436 | 20 | Erika Windom |
-| 437 | 20 | SherylU |
+| 426 | 20 | Sallie Sanborn |
+| 427 | 20 | Giggy Edgefit |
+| 428 | 20 | Antoinette Kelly |
+| 429 | 20 | Spotlight |
+| 430 | 20 | Jai |
+| 431 | 20 | Nyhlah Patterson |
+| 432 | 20 | Ebie |
+| 433 | 20 | Ace Hardware |
+| 434 | 20 | Daddy |
+| 435 | 20 | Danny M GR |
+| 436 | 20 | Kenneth Hefney |
+| 437 | 20 | Nerdy Blockpiece |
 | 438 | 20 | Cynthia Bradley |
-| 439 | 20 | Kenneth Hefney |
-| 440 | 20 | Nerdy Blockpiece |
-| 441 | 19 | Michele Simpson |
-| 442 | 19 | Douglas Price |
-| 443 | 19 | Lozuna |
-| 444 | 19 | Hyedie Badie |
-| 445 | 19 | Connor Leon Cluff |
-| 446 | 19 | NastyFriend |
-| 447 | 19 | TY Newme Batts |
-| 448 | 19 | Amanda Woodruff |
-| 449 | 19 | Jeremy Pope |
-| 450 | 19 | Nickeya Phillips |
-| 451 | 19 | Saucy Tile |
-| 452 | 18 | Oaklonboy mike |
-| 453 | 18 | Jeremy Myers |
-| 454 | 18 | AleahKCH |
-| 455 | 18 | Keke |
-| 456 | 18 | Ounquan Wright |
-| 457 | 18 | Una |
-| 458 | 18 | Anissa Williams |
-| 459 | 18 | Mommy Frank |
-| 460 | 18 | Tyree Tman Shinette |
-| 461 | 18 | Richelle Beck |
-| 462 | 18 | Moomoo |
-| 463 | 18 | Azeiare Ziare |
+| 439 | 20 | SherylU |
+| 440 | 20 | Phillip White |
+| 441 | 20 | Erika Windom |
+| 442 | 19 | Saucy Tile |
+| 443 | 19 | Hyedie Badie |
+| 444 | 19 | Jeremy Pope |
+| 445 | 19 | TY Newme Batts |
+| 446 | 19 | Amanda Woodruff |
+| 447 | 19 | NastyFriend |
+| 448 | 19 | Michele Simpson |
+| 449 | 19 | Connor Leon Cluff |
+| 450 | 19 | Lozuna |
+| 451 | 19 | Douglas Price |
+| 452 | 18 | Keke |
+| 453 | 18 | Oaklonboy mike |
+| 454 | 18 | Jeremy Myers |
+| 455 | 18 | Anissa Williams |
+| 456 | 18 | AleahKCH |
+| 457 | 18 | Richelle Beck |
+| 458 | 18 | Tyree Tman Shinette |
+| 459 | 18 | Ounquan Wright |
+| 460 | 18 | Una |
+| 461 | 18 | Mommy Frank |
+| 462 | 18 | Azeiare Ziare |
+| 463 | 18 | Moomoo |
 | 464 | 17 | Pj Rojas |
-| 465 | 17 | Rikki Moran |
-| 466 | 17 | Jb Mzresilience |
-| 467 | 17 | Andre Rivera |
-| 468 | 17 | Vivian Bunnell Myers |
-| 469 | 17 | Chris Bell |
-| 470 | 16 | Sammie Walker |
-| 471 | 16 | Stephen Glaze |
-| 472 | 16 | Tammy Collins |
-| 473 | 16 | GracefulOwl808 |
-| 474 | 16 | Symonne 'Monnie' Pierce |
-| 475 | 16 | Poppy Smasher |
-| 476 | 16 | Sha Anderson |
+| 465 | 17 | Andre Rivera |
+| 466 | 17 | Chris Bell |
+| 467 | 17 | Jb Mzresilience |
+| 468 | 17 | Rikki Moran |
+| 469 | 17 | Vivian Bunnell Myers |
+| 470 | 16 | Poppy Smasher |
+| 471 | 16 | Symonne 'Monnie' Pierce |
+| 472 | 16 | GracefulOwl808 |
+| 473 | 16 | Sunny Tumbler |
+| 474 | 16 | Sha Anderson |
+| 475 | 16 | Tammy Collins |
+| 476 | 16 | Stephen Glaze |
 | 477 | 16 | Latoya Carson |
 | 478 | 16 | MsBobby Patrick |
-| 479 | 16 | Sunny Tumbler |
-| 480 | 16 | Diamond Nicole |
-| 481 | 15 | LaToya Chambers |
-| 482 | 15 | Lit757 |
-| 483 | 15 | Nicole Freeman |
-| 484 | 15 | Laura Long |
-| 485 | 15 | KeeKee Williams |
-| 486 | 15 | Spunky Strikerbuilder |
-| 487 | 15 | Bri Lou |
-| 488 | 15 | Ivan Israel |
-| 489 | 15 | b |
-| 490 | 15 | Haley Bell |
-| 491 | 15 | Elaine Youmans |
+| 479 | 16 | Diamond Nicole |
+| 480 | 16 | Sammie Walker |
+| 481 | 15 | Bri Lou |
+| 482 | 15 | Ivan Israel |
+| 483 | 15 | Spunky Strikerbuilder |
+| 484 | 15 | Lit757 |
+| 485 | 15 | b |
+| 486 | 15 | Laura Long |
+| 487 | 15 | Elaine Youmans |
+| 488 | 15 | LaToya Chambers |
+| 489 | 15 | Haley Bell |
+| 490 | 15 | Nicole Freeman |
+| 491 | 15 | KeeKee Williams |
 | 492 | 15 | Happy Blocky |
 | 493 | 15 | Hasty Match |
 | 494 | 15 | Shameka Thrasher |
@@ -644,25 +644,25 @@
 | 636 | 5 | VERA DAME |
 | 637 | 5 | Temeshia Brooks Washington |
 | 638 | 5 | pooh |
-| 639 | 5 | Vernon Hoyt |
-| 640 | 5 | Stephanie Zuniga Tullock |
-| 641 | 5 | Derek Beverly |
-| 642 | 5 | Lil T |
-| 643 | 5 | Hasty Brickzone |
-| 644 | 5 | Sara |
-| 645 | 5 | Chill Linkroll |
-| 646 | 5 | Shona ShayShay Jones |
-| 647 | 5 | DirtiestofMikes |
-| 648 | 5 | the guy |
-| 649 | 5 | Jennifer Moore |
-| 650 | 5 | Tito Divyn |
-| 651 | 5 | Shawn Himes |
-| 652 | 5 | Tamika Fisher |
-| 653 | 5 | Zappy Clearfit |
-| 654 | 5 | Duckey |
-| 655 | 5 | Logan Frost |
-| 656 | 5 | Andre Sanon |
-| 657 | 5 | Kidgib5 |
+| 639 | 5 | Stephanie Zuniga Tullock |
+| 640 | 5 | Derek Beverly |
+| 641 | 5 | Lil T |
+| 642 | 5 | Hasty Brickzone |
+| 643 | 5 | Sara |
+| 644 | 5 | Chill Linkroll |
+| 645 | 5 | Shona ShayShay Jones |
+| 646 | 5 | DirtiestofMikes |
+| 647 | 5 | the guy |
+| 648 | 5 | Jennifer Moore |
+| 649 | 5 | Kidgib5 |
+| 650 | 5 | Vernon Hoyt |
+| 651 | 5 | Andre Sanon |
+| 652 | 5 | Logan Frost |
+| 653 | 5 | Duckey |
+| 654 | 5 | Zappy Clearfit |
+| 655 | 5 | Tamika Fisher |
+| 656 | 5 | Shawn Himes |
+| 657 | 5 | Tito Divyn |
 
 ---
 *Standings created by tournaments datasource generation tool*
