@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 16:46:17 UTC
+# Standings for team4 as of 2026-06-06 16:46:40 UTC
 
 **Total Participants:** 1056
 
@@ -67,9 +67,9 @@
 | 59 | 530 | Jonathan Hewitt |
 | 60 | 510 | Krysten Danielle Richard |
 | 61 | 500 | Michele |
-| 62 | 479 | Caitlyn Wang |
-| 63 | 477 | Malik Thompson |
-| 64 | 476 | Sweet Stacker |
+| 62 | 486 | Sweet Stacker |
+| 63 | 479 | Caitlyn Wang |
+| 64 | 477 | Malik Thompson |
 | 65 | 467 | vag1974 |
 | 66 | 466 | Lupe Alburquerque |
 | 67 | 461 | Kayla Fuentes |
@@ -907,34 +907,34 @@
 | 899 | 16 | Mr.Corbin |
 | 900 | 15 | Britney Kitora |
 | 901 | 15 | Mandi Rexroat |
-| 902 | 15 | babygirlw |
-| 903 | 15 | Tana-Marie Lynn McCarty-Rolf |
-| 904 | 15 | Sherry Mooney |
-| 905 | 15 | Donna Bush |
-| 906 | 15 | Manolo Canety |
-| 907 | 15 | Cas Gio |
-| 908 | 15 | Nerdy Glider |
-| 909 | 15 | Austin Tan |
-| 910 | 15 | Tracy Marino |
-| 911 | 15 | John Wertz |
-| 912 | 15 | Hasty Snapmatch |
-| 913 | 15 | Christina Barry |
-| 914 | 15 | Wacky Clusterer |
+| 902 | 15 | Jace McCullough |
+| 903 | 15 | babygirlw |
+| 904 | 15 | Tana-Marie Lynn McCarty-Rolf |
+| 905 | 15 | Sherry Mooney |
+| 906 | 15 | Donna Bush |
+| 907 | 15 | Manolo Canety |
+| 908 | 15 | Cas Gio |
+| 909 | 15 | Nerdy Glider |
+| 910 | 15 | Austin Tan |
+| 911 | 15 | Hasty Grabber |
+| 912 | 15 | John Wertz |
+| 913 | 15 | Hasty Snapmatch |
+| 914 | 15 | Christina Barry |
 | 915 | 15 | Twisty Gridclear |
-| 916 | 15 | Hasty Grabber |
-| 917 | 14 | Lashae |
-| 918 | 14 | Playful Raccoon |
-| 919 | 14 | Jace McCullough |
-| 920 | 14 | Dolores Falco |
-| 921 | 14 | Kiaralis Ashley Hancock |
-| 922 | 14 | G Money |
-| 923 | 14 | JoJo Hutson |
-| 924 | 14 | Marina |
+| 916 | 15 | Wacky Clusterer |
+| 917 | 15 | Tracy Marino |
+| 918 | 14 | Lashae |
+| 919 | 14 | Playful Raccoon |
+| 920 | 14 | Marina |
+| 921 | 14 | Dolores Falco |
+| 922 | 14 | Kiaralis Ashley Hancock |
+| 923 | 14 | G Money |
+| 924 | 14 | JoJo Hutson |
 | 925 | 14 | Donovan Parmenter Gagne |
 | 926 | 14 | Becca Milliron |
-| 927 | 14 | Erica Hardwick |
-| 928 | 14 | Jazzy Rollout |
-| 929 | 14 | Nicole Gilmore |
+| 927 | 14 | Nicole Gilmore |
+| 928 | 14 | Erica Hardwick |
+| 929 | 14 | Jazzy Rollout |
 | 930 | 14 | moonman33 |
 | 931 | 14 | Gellix |
 | 932 | 13 | CrashOutCarla |
