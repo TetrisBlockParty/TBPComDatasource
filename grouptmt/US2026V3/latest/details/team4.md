@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 06:02:16 UTC
+# Standings for team4 as of 2026-06-06 06:02:38 UTC
 
 **Total Participants:** 845
 
@@ -66,20 +66,20 @@
 | 58 | 392 | Blayne Kole |
 | 59 | 389 | Ning Quiambao |
 | 60 | 387 | Kay |
-| 61 | 383 | Crissy Hoffman |
-| 62 | 374 | Lisa Garcia |
-| 63 | 372 | Real Talk Vibes |
-| 64 | 356 | Tanita Jobe |
-| 65 | 346 | Alexis Cor |
-| 66 | 333 | Alexandria Frazier |
-| 67 | 326 | Jason Allen |
-| 68 | 323 | Jonathan Hewitt |
-| 69 | 321 | woopa 716 |
-| 70 | 320 | DexterDobbins |
-| 71 | 312 | Tiffany Loree Tiffany Oneill |
-| 72 | 302 | JoLinda Dunn |
-| 73 | 300 | Genag |
-| 74 | 286 | Erin Figone |
+| 61 | 385 | Erin Figone |
+| 62 | 383 | Crissy Hoffman |
+| 63 | 374 | Lisa Garcia |
+| 64 | 372 | Real Talk Vibes |
+| 65 | 356 | Tanita Jobe |
+| 66 | 346 | Alexis Cor |
+| 67 | 333 | Alexandria Frazier |
+| 68 | 326 | Jason Allen |
+| 69 | 323 | Jonathan Hewitt |
+| 70 | 321 | woopa 716 |
+| 71 | 320 | DexterDobbins |
+| 72 | 312 | Tiffany Loree Tiffany Oneill |
+| 73 | 302 | JoLinda Dunn |
+| 74 | 300 | Genag |
 | 75 | 283 | Jesse Olive |
 | 76 | 271 | Kim |
 | 77 | 266 | Adam J Leong |
