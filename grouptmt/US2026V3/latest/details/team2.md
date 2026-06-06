@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 11:42:18 UTC
+# Standings for team2 as of 2026-06-06 11:42:38 UTC
 
 **Total Participants:** 1120
 
@@ -14,7 +14,7 @@
 | 6 | 6077 | Tim Ix |
 | 7 | 6045 | Morgann McDaniel |
 | 8 | 5653 | A.j. Langley |
-| 9 | 5566 | Crystalin Heath Lewis |
+| 9 | 5630 | Crystalin Heath Lewis |
 | 10 | 5200 | Mocha |
 | 11 | 4504 | Cori Keberlein |
 | 12 | 4321 | Christina Shell |

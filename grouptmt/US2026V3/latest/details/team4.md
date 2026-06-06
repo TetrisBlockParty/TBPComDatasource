@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 11:42:18 UTC
+# Standings for team4 as of 2026-06-06 11:42:38 UTC
 
 **Total Participants:** 946
 
@@ -23,9 +23,9 @@
 | 15 | 2497 | Lisa Cullum |
 | 16 | 2446 | Senor Moppy |
 | 17 | 2444 | Daring Ziggy |
-| 18 | 1805 | Fruitpunch |
-| 19 | 1760 | Dana Rinaldi |
-| 20 | 1722 | Jackie Lucas |
+| 18 | 2122 | Jackie Lucas |
+| 19 | 1805 | Fruitpunch |
+| 20 | 1760 | Dana Rinaldi |
 | 21 | 1143 | Hanan Hana |
 | 22 | 1059 | Squirrel Donkey |
 | 23 | 1055 | Michele Walker |
@@ -246,14 +246,14 @@
 | 238 | 89 | Chirpy Snapclear |
 | 239 | 89 | Piece of Cake |
 | 240 | 89 | Waxboss |
-| 241 | 88 | SandyEva |
-| 242 | 88 | Deva Marie Barber |
-| 243 | 88 | BusterBear56 |
-| 244 | 87 | Limbo |
-| 245 | 87 | LastBoi |
-| 246 | 87 | Jeff Margolis |
-| 247 | 86 | Rachel Lemos |
-| 248 | 86 | Jennifer Fisher Franklin |
+| 241 | 88 | Jennifer Fisher Franklin |
+| 242 | 88 | SandyEva |
+| 243 | 88 | Deva Marie Barber |
+| 244 | 88 | BusterBear56 |
+| 245 | 87 | Limbo |
+| 246 | 87 | LastBoi |
+| 247 | 87 | Jeff Margolis |
+| 248 | 86 | Rachel Lemos |
 | 249 | 85 | Kari Smith |
 | 250 | 85 | 1694AF |
 | 251 | 85 | Kristen Wallace |
