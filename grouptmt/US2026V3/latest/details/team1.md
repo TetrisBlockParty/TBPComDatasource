@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 08:31:15 UTC
+# Standings for team1 as of 2026-06-06 08:32:17 UTC
 
 **Total Participants:** 928
 
@@ -76,8 +76,8 @@
 | 68 | 363 | Voice |
 | 69 | 362 | Eric Mcgaughy |
 | 70 | 350 | Jazzy Dashpiece |
-| 71 | 344 | Kevin M. McGhee Jr |
-| 72 | 334 | Keeta Chickswit Scott |
+| 71 | 344 | Keeta Chickswit Scott |
+| 72 | 344 | Kevin M. McGhee Jr |
 | 73 | 334 | Christana Imjustbutton Stone |
 | 74 | 332 | Hyper Slamdrop |
 | 75 | 331 | Kimberly Hernandez |
@@ -605,10 +605,10 @@
 | 597 | 28 | LeeLee08 |
 | 598 | 28 | Adrian Harris |
 | 599 | 28 | Danielle Marie Lewis |
-| 600 | 27 | Lady Scorpio |
-| 601 | 27 | Zesty Fitclear |
-| 602 | 27 | Joka NoTime ForHataz |
-| 603 | 27 | Ameillia Boughner |
+| 600 | 28 | Ameillia Boughner |
+| 601 | 27 | Lady Scorpio |
+| 602 | 27 | Zesty Fitclear |
+| 603 | 27 | Joka NoTime ForHataz |
 | 604 | 27 | katia |
 | 605 | 27 | Shaylyn Lockwood |
 | 606 | 27 | Juanita Quezaire |

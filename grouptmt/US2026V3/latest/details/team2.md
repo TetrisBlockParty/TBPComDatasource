@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 08:31:15 UTC
+# Standings for team2 as of 2026-06-06 08:32:17 UTC
 
 **Total Participants:** 1079
 
@@ -62,7 +62,7 @@
 | 54 | 635 | Hoppy Rotate |
 | 55 | 629 | Dane Marko |
 | 56 | 614 | Block Dog |
-| 57 | 593 | Helen Thomas |
+| 57 | 613 | Helen Thomas |
 | 58 | 588 | Kellie Sharp Godfrey |
 | 59 | 572 | Dsabrina Maxey |
 | 60 | 553 | Jazzy Faller |
@@ -70,8 +70,8 @@
 | 62 | 546 | Betty Barrett |
 | 63 | 543 | Kathleen Dumbazz |
 | 64 | 540 | Jamie Jones |
-| 65 | 515 | Loony Faller |
-| 66 | 505 | Andre Love |
+| 65 | 535 | Andre Love |
+| 66 | 515 | Loony Faller |
 | 67 | 500 | Denise Potter |
 | 68 | 497 | Lindsay Klemp |
 | 69 | 494 | Shandrea Crawford |
@@ -168,27 +168,27 @@
 | 160 | 154 | Glitzy Base |
 | 161 | 153 | Zesty Strikerbuilder |
 | 162 | 151 | Marilyn Mendoza |
-| 163 | 150 | Rick |
-| 164 | 150 | Crystal Allen |
-| 165 | 149 | Jenni LeBlanc |
-| 166 | 149 | Lily |
+| 163 | 150 | Crystal Allen |
+| 164 | 150 | Rick |
+| 165 | 149 | Lily |
+| 166 | 149 | Jenni LeBlanc |
 | 167 | 148 | Curly Windbreaker |
 | 168 | 147 | Gill |
-| 169 | 145 | H |
-| 170 | 145 | SEH |
-| 171 | 145 | Amanda Priddy |
-| 172 | 142 | Cortney Coleman |
-| 173 | 141 | Melisa |
-| 174 | 141 | Spicy Risegrid |
-| 175 | 140 | marsam |
-| 176 | 140 | Iesha Cupil |
-| 177 | 140 | Billie Jensen |
-| 178 | 140 | Brittney Williams |
-| 179 | 140 | Gabriella Humphreys |
-| 180 | 139 | Victoria Pale |
-| 181 | 138 | NickandJess Reynolds |
-| 182 | 137 | Lindsey Ford |
-| 183 | 137 | Nerdy Climber |
+| 169 | 147 | Nerdy Climber |
+| 170 | 145 | H |
+| 171 | 145 | SEH |
+| 172 | 145 | Amanda Priddy |
+| 173 | 142 | Cortney Coleman |
+| 174 | 141 | Melisa |
+| 175 | 141 | Spicy Risegrid |
+| 176 | 140 | marsam |
+| 177 | 140 | Iesha Cupil |
+| 178 | 140 | Billie Jensen |
+| 179 | 140 | Brittney Williams |
+| 180 | 140 | Gabriella Humphreys |
+| 181 | 139 | Victoria Pale |
+| 182 | 138 | NickandJess Reynolds |
+| 183 | 137 | Lindsey Ford |
 | 184 | 136 | Joni Michelle Morgan |
 | 185 | 136 | Lauren Maxwell |
 | 186 | 136 | Lashanda Bertram |
