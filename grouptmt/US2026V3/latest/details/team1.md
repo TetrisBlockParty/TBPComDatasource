@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 00:46:15 UTC
+# Standings for team1 as of 2026-06-06 00:46:38 UTC
 
 **Total Participants:** 653
 
@@ -72,7 +72,7 @@
 | 64 | 193 | Brave Clearbuilder |
 | 65 | 185 | Teddy Davis |
 | 66 | 184 | Voice |
-| 67 | 179 | SPNLover24 |
+| 67 | 183 | SPNLover24 |
 | 68 | 177 | Chris Sladoje |
 | 69 | 176 | Kimberly Hernandez |
 | 70 | 175 | Songne Arif |
@@ -214,17 +214,17 @@
 | 206 | 51 | Terrie |
 | 207 | 51 | Comedian Gdane |
 | 208 | 51 | Rachael Bakowicz Edwards |
-| 209 | 50 | Yazz |
-| 210 | 50 | Antoinette Jones |
-| 211 | 50 | BabyCakes |
-| 212 | 50 | Teresa Yanira Cepeda |
-| 213 | 50 | Dai Bo |
-| 214 | 50 | Trina Greenwood |
-| 215 | 50 | Slinky Party |
-| 216 | 50 | xXEKUNXx |
-| 217 | 50 | Donna Payne |
-| 218 | 50 | Skippy |
-| 219 | 50 | Chummy Frame |
+| 209 | 51 | Chummy Frame |
+| 210 | 50 | Yazz |
+| 211 | 50 | Antoinette Jones |
+| 212 | 50 | BabyCakes |
+| 213 | 50 | Teresa Yanira Cepeda |
+| 214 | 50 | Dai Bo |
+| 215 | 50 | Trina Greenwood |
+| 216 | 50 | Slinky Party |
+| 217 | 50 | xXEKUNXx |
+| 218 | 50 | Donna Payne |
+| 219 | 50 | Skippy |
 | 220 | 49 | LexiiSamayaa |
 | 221 | 48 | Comedian Prince Paul |
 | 222 | 48 | Sonia Binti Mfalme |

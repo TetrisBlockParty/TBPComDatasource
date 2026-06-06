@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 00:46:15 UTC
+# Standings for team4 as of 2026-06-06 00:46:38 UTC
 
 **Total Participants:** 605
 
@@ -56,11 +56,11 @@
 | 48 | 322 | Charlie Lewis |
 | 49 | 280 | Jesse Olive |
 | 50 | 259 | Jessica Peyton |
-| 51 | 240 | Michele Walker |
-| 52 | 240 | Jojo Ann |
-| 53 | 224 | Sisi RedVelvet Reneè |
-| 54 | 216 | Cal Renee |
-| 55 | 204 | Jonathan Hewitt |
+| 51 | 251 | Jonathan Hewitt |
+| 52 | 240 | Michele Walker |
+| 53 | 240 | Jojo Ann |
+| 54 | 224 | Sisi RedVelvet Reneè |
+| 55 | 216 | Cal Renee |
 | 56 | 203 | Patrick Alley |
 | 57 | 203 | Andrew Dang |
 | 58 | 200 | Jackie Lucas |
@@ -87,10 +87,10 @@
 | 79 | 144 | Yesenia Castro Monreal |
 | 80 | 143 | RotatedWrongAgain |
 | 81 | 139 | Damon Gaston |
-| 82 | 133 | Shawntae Mccary |
-| 83 | 130 | Tammy June |
-| 84 | 128 | Loony Rotater |
-| 85 | 126 | woopa 716 |
+| 82 | 136 | woopa 716 |
+| 83 | 133 | Shawntae Mccary |
+| 84 | 130 | Tammy June |
+| 85 | 128 | Loony Rotater |
 | 86 | 126 | Alyson M Kehler |
 | 87 | 125 | Leslie Ann Carter |
 | 88 | 124 | Lani |
