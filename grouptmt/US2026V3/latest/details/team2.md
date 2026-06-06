@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 10:06:16 UTC
+# Standings for team2 as of 2026-06-06 10:06:40 UTC
 
 **Total Participants:** 1101
 
@@ -881,55 +881,55 @@
 | 873 | 16 | Elliot |
 | 874 | 16 | Jeremy Monceaux |
 | 875 | 16 | Matthew Black |
-| 876 | 16 | Peppy Piececlear |
-| 877 | 16 | Clever Gridzone |
-| 878 | 16 | Theresa Huddleston |
-| 879 | 16 | Sassy Twistbuilder |
-| 880 | 16 | Brandy McCleary |
-| 881 | 16 | Renee Craig |
-| 882 | 15 | Linda Jeanne Knop |
+| 876 | 16 | Theresa Marie |
+| 877 | 16 | Peppy Piececlear |
+| 878 | 16 | Clever Gridzone |
+| 879 | 16 | Theresa Huddleston |
+| 880 | 16 | Sassy Twistbuilder |
+| 881 | 16 | Brandy McCleary |
+| 882 | 16 | Renee Craig |
 | 883 | 15 | Cheery Tilefall |
-| 884 | 15 | Loopy Zone |
-| 885 | 15 | Lisa Marie |
-| 886 | 15 | Daring Pivotfall |
-| 887 | 15 | Poppy Slice |
+| 884 | 15 | YAKO |
+| 885 | 15 | Mandeee |
+| 886 | 15 | Linda Jeanne Knop |
+| 887 | 15 | Fran Gerebics |
 | 888 | 15 | Mee Maw |
-| 889 | 15 | Fran Gerebics |
-| 890 | 15 | Christina Whitehead |
-| 891 | 15 | YAKO |
-| 892 | 15 | Mandeee |
-| 893 | 15 | Adrian Alvarez |
-| 894 | 15 | Christine Ann Eras |
-| 895 | 15 | Timone907 |
-| 896 | 15 | Monee Stronger |
-| 897 | 15 | Jacqueline Leigh Zuzinec |
-| 898 | 15 | Tina |
-| 899 | 15 | Julie Vargas |
+| 889 | 15 | Poppy Slice |
+| 890 | 15 | Daring Pivotfall |
+| 891 | 15 | Lisa Marie |
+| 892 | 15 | Loopy Zone |
+| 893 | 15 | Tina |
+| 894 | 15 | Samantha |
+| 895 | 15 | Spicy Snapclear |
+| 896 | 15 | Christine Ann Eras |
+| 897 | 15 | Twisty Patternblock |
+| 898 | 15 | Christina Whitehead |
+| 899 | 15 | sally |
 | 900 | 15 | Crafty Slice |
-| 901 | 15 | Shannie |
-| 902 | 15 | Melissa Clogher White |
-| 903 | 15 | Connie McCoy |
-| 904 | 15 | sally |
-| 905 | 15 | Twisty Patternblock |
-| 906 | 15 | Samantha |
-| 907 | 15 | Spicy Snapclear |
-| 908 | 14 | BlockBreaker |
-| 909 | 14 | Poppy Zonepiece |
-| 910 | 14 | COWBOY |
-| 911 | 14 | MiMi’26 |
+| 901 | 15 | Jacqueline Leigh Zuzinec |
+| 902 | 15 | Monee Stronger |
+| 903 | 15 | Julie Vargas |
+| 904 | 15 | Shannie |
+| 905 | 15 | Melissa Clogher White |
+| 906 | 15 | Connie McCoy |
+| 907 | 15 | Timone907 |
+| 908 | 15 | Adrian Alvarez |
+| 909 | 14 | Witty Riser |
+| 910 | 14 | ReiRei |
+| 911 | 14 | Christopher Pulley |
 | 912 | 14 | Anthony Kordich |
-| 913 | 14 | ReiRei |
-| 914 | 14 | Witty Riser |
-| 915 | 14 | Christopher Pulley |
-| 916 | 14 | Buffy Diane Blake |
-| 917 | 14 | Symmy Norton |
+| 913 | 14 | COWBOY |
+| 914 | 14 | Symmy Norton |
+| 915 | 14 | Nicole Treadway |
+| 916 | 14 | Jenny |
+| 917 | 14 | MiMi’26 |
 | 918 | 14 | Randi Moore |
-| 919 | 14 | Nicole Treadway |
-| 920 | 14 | Lively Liner |
-| 921 | 14 | Theresa Marie |
-| 922 | 14 | Jenny |
-| 923 | 13 | Samantha Bugg Stitcher |
-| 924 | 13 | Jill Gelhausen |
+| 919 | 14 | Lively Liner |
+| 920 | 14 | Poppy Zonepiece |
+| 921 | 14 | Buffy Diane Blake |
+| 922 | 14 | BlockBreaker |
+| 923 | 13 | Jill Gelhausen |
+| 924 | 13 | Samantha Bugg Stitcher |
 | 925 | 13 | Angelique Matzke Starns |
 | 926 | 13 | Cristy Ayala |
 | 927 | 13 | Lexi Chouinard |
