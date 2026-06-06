@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 10:04:16 UTC
+# Standings for team1 as of 2026-06-06 10:04:39 UTC
 
 **Total Participants:** 949
 
@@ -376,8 +376,8 @@
 | 368 | 54 | Rackemwillie34 |
 | 369 | 53 | Clever Wrecker |
 | 370 | 53 | Cortrell Foster |
-| 371 | 53 | Phillip Vasquez |
-| 372 | 53 | Jumpy Gridlock |
+| 371 | 53 | Jumpy Gridlock |
+| 372 | 53 | Phillip Vasquez |
 | 373 | 52 | Dandy Brickfit |
 | 374 | 52 | Brenda Malachi-butler |
 | 375 | 52 | Gabriela Hernandez |
@@ -390,82 +390,82 @@
 | 382 | 51 | Rachael Bakowicz Edwards |
 | 383 | 51 | Poppy Smasher |
 | 384 | 51 | Just2Play$ |
-| 385 | 50 | Daddy |
-| 386 | 50 | Slinky Party |
-| 387 | 50 | Nisha Sunshine Jenkins |
+| 385 | 50 | Slinky Party |
+| 386 | 50 | Denell Sims |
+| 387 | 50 | Daddy |
 | 388 | 50 | Donna Payne |
-| 389 | 50 | Denell Sims |
-| 390 | 50 | MsBobby Patrick |
-| 391 | 50 | Teresa Yanira Cepeda |
-| 392 | 50 | Rande Smith |
+| 389 | 50 | Nisha Sunshine Jenkins |
+| 390 | 50 | Rande Smith |
+| 391 | 50 | MsBobby Patrick |
+| 392 | 50 | Teresa Yanira Cepeda |
 | 393 | 49 | Speedy Stacky |
 | 394 | 49 | SnazzyIvy |
 | 395 | 49 | Teisha Scott |
-| 396 | 49 | Brittany Fells |
-| 397 | 49 | LexiiSamayaa |
+| 396 | 49 | LexiiSamayaa |
+| 397 | 49 | Brittany Fells |
 | 398 | 49 | No_Other_Choice |
-| 399 | 48 | Slim Shedidthat |
-| 400 | 48 | Wild Out Nai |
-| 401 | 48 | Lynnette WheelerBushnell |
-| 402 | 48 | LoveLee |
-| 403 | 48 | Mommy Frank |
-| 404 | 48 | Clever Fitblock |
-| 405 | 48 | Comedian Prince Paul |
+| 399 | 48 | Wild Out Nai |
+| 400 | 48 | Clever Fitblock |
+| 401 | 48 | Slim Shedidthat |
+| 402 | 48 | Lynnette WheelerBushnell |
+| 403 | 48 | Tyiesha Pie Farmer |
+| 404 | 48 | LoveLee |
+| 405 | 48 | Mommy Frank |
 | 406 | 48 | Bubbly Crawler |
 | 407 | 48 | Kahh |
-| 408 | 48 | Stephanie Ellis |
-| 409 | 47 | Sugar Foot |
-| 410 | 47 | Calvin Green |
+| 408 | 48 | Comedian Prince Paul |
+| 409 | 48 | Stephanie Ellis |
+| 410 | 47 | Shameka Thrasher |
 | 411 | 47 | Faith Armone |
 | 412 | 47 | Christopher Dreamsareality McEachin |
-| 413 | 47 | Poppy Twister |
-| 414 | 47 | Derrius SeriousLee Burks |
-| 415 | 47 | Shameka Thrasher |
-| 416 | 47 | Smiley Tilebuilder |
-| 417 | 47 | Kevin Turner |
-| 418 | 46 | Chris Nelson |
-| 419 | 46 | Ja'mice Nelson |
-| 420 | 46 | Felicia Dungey |
-| 421 | 46 | Tyiesha Pie Farmer |
-| 422 | 46 | David A Alvino |
+| 413 | 47 | Kevin Turner |
+| 414 | 47 | Poppy Twister |
+| 415 | 47 | Derrius SeriousLee Burks |
+| 416 | 47 | Sugar Foot |
+| 417 | 47 | Smiley Tilebuilder |
+| 418 | 47 | Calvin Green |
+| 419 | 46 | Anthony |
+| 420 | 46 | Ja'mice Nelson |
+| 421 | 46 | David A Alvino |
+| 422 | 46 | Felicia Dungey |
 | 423 | 46 | Maria Baez Medina |
 | 424 | 46 | Kimberly Anderson |
-| 425 | 46 | Anthony |
-| 426 | 45 | Glitzy Clusterer |
+| 425 | 46 | Chris Nelson |
+| 426 | 45 | Eli Delao |
 | 427 | 45 | Erika Windom |
-| 428 | 45 | Guy Incognito |
-| 429 | 45 | Renee J. Thomas |
-| 430 | 45 | Jenni Hardman |
-| 431 | 45 | Eli Delao |
-| 432 | 45 | nameno |
-| 433 | 44 | sasha |
-| 434 | 44 | GiantBehemoth |
-| 435 | 44 | Nic Nic |
-| 436 | 44 | Tamara Johnson-Carter |
-| 437 | 43 | Rufus |
-| 438 | 43 | Heather Wilson |
+| 428 | 45 | Glitzy Clusterer |
+| 429 | 45 | Guy Incognito |
+| 430 | 45 | Renee J. Thomas |
+| 431 | 45 | nameno |
+| 432 | 45 | Jenni Hardman |
+| 433 | 44 | Nic Nic |
+| 434 | 44 | Tamara Johnson-Carter |
+| 435 | 44 | sasha |
+| 436 | 44 | GiantBehemoth |
+| 437 | 43 | Block |
+| 438 | 43 | Corbin Henry |
 | 439 | 43 | Gael Quintana |
-| 440 | 43 | Giggy Brickfit |
-| 441 | 43 | Block |
-| 442 | 43 | Corbin Henry |
-| 443 | 43 | Rachel Renae Bettis |
-| 444 | 43 | Daring Blockclear |
-| 445 | 43 | Kimberly Red |
-| 446 | 42 | MrsMeadows2019 |
-| 447 | 42 | Brii Michelle Lamb |
-| 448 | 42 | Casey Chapman |
-| 449 | 42 | Louise |
-| 450 | 42 | Sunny Riserbuilder |
-| 451 | 41 | Lawreniesha Burkley |
-| 452 | 41 | Jessie N Michael Silvers |
-| 453 | 41 | Nerdy Climber |
+| 440 | 43 | Daring Blockclear |
+| 441 | 43 | Rufus |
+| 442 | 43 | Rachel Renae Bettis |
+| 443 | 43 | Giggy Brickfit |
+| 444 | 43 | Kimberly Red |
+| 445 | 43 | Heather Wilson |
+| 446 | 42 | Casey Chapman |
+| 447 | 42 | Sunny Riserbuilder |
+| 448 | 42 | Brii Michelle Lamb |
+| 449 | 42 | MrsMeadows2019 |
+| 450 | 42 | Louise |
+| 451 | 41 | Jessie N Michael Silvers |
+| 452 | 41 | Nerdy Climber |
+| 453 | 41 | Cranky Fall |
 | 454 | 41 | Frothy Zoney |
-| 455 | 41 | Cranky Fall |
+| 455 | 41 | Lawreniesha Burkley |
 | 456 | 40 | Marie Wilson |
 | 457 | 40 | Kp |
-| 458 | 40 | Douglas Price |
-| 459 | 40 | Larina Cherie Johnson |
-| 460 | 40 | Kamilya Rembert |
+| 458 | 40 | Larina Cherie Johnson |
+| 459 | 40 | Kamilya Rembert |
+| 460 | 40 | Douglas Price |
 | 461 | 40 | Rochelle Nash-Evans |
 | 462 | 40 | Brittanie Wardlow |
 | 463 | 40 | Perky Pusher |
