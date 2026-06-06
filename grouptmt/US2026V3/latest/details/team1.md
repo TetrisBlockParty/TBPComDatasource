@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 18:06:18 UTC
+# Standings for team1 as of 2026-06-06 18:06:37 UTC
 
 **Total Participants:** 1095
 
@@ -125,16 +125,16 @@
 | 117 | 278 | Shontanese Adams |
 | 118 | 275 | Chris Sladoje |
 | 119 | 275 | Jawaun Daniels |
-| 120 | 274 | Roberta Lynn |
+| 120 | 274 | Tonya Lee Sanders |
 | 121 | 274 | Tammye Turner |
-| 122 | 274 | Tonya Lee Sanders |
+| 122 | 274 | Roberta Lynn |
 | 123 | 273 | Dee McCool |
 | 124 | 273 | MamaBear |
 | 125 | 271 | Ashley MyBeauty Daniels |
 | 126 | 270 | Jo NewmindNewfocus Bell |
 | 127 | 270 | Tamara N Lee |
-| 128 | 257 | Cathy Young |
-| 129 | 257 | Mimi 1.0 |
+| 128 | 257 | Mimi 1.0 |
+| 129 | 257 | Cathy Young |
 | 130 | 256 | Cortaz Lawrie |
 | 131 | 251 | Helen Smith |
 | 132 | 251 | Allison Baxter |
@@ -151,18 +151,18 @@
 | 143 | 227 | Chantelle Lee |
 | 144 | 226 | xXEKUNXx |
 | 145 | 225 | Rhonda Williams Warner |
-| 146 | 222 | Mic Balew |
-| 147 | 220 | Devin West |
-| 148 | 220 | Dacia Hicks |
-| 149 | 218 | Quirky Fallgrid |
-| 150 | 216 | Nerdy Snapfall |
-| 151 | 216 | Zachary Colegrove |
-| 152 | 214 | Tonya McElroy |
-| 153 | 213 | David Fuentes |
+| 146 | 223 | David Fuentes |
+| 147 | 222 | Mic Balew |
+| 148 | 220 | Devin West |
+| 149 | 220 | Dacia Hicks |
+| 150 | 218 | Quirky Fallgrid |
+| 151 | 216 | Nerdy Snapfall |
+| 152 | 216 | Zachary Colegrove |
+| 153 | 214 | Tonya McElroy |
 | 154 | 212 | Nobles Brandon |
 | 155 | 209 | Reginald Frank |
-| 156 | 206 | Curtis T Cirno |
-| 157 | 206 | Weeze |
+| 156 | 206 | Weeze |
+| 157 | 206 | Curtis T Cirno |
 | 158 | 200 | Felicia Cain |
 | 159 | 199 | Teddy Davis |
 | 160 | 198 | W.A. Simpson |
