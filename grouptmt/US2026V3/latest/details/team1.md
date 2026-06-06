@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 13:06:16 UTC
+# Standings for team1 as of 2026-06-06 13:06:40 UTC
 
 **Total Participants:** 990
 
@@ -324,96 +324,96 @@
 | 316 | 73 | Donna Payne |
 | 317 | 72 | Chummy Frame |
 | 318 | 72 | Lauraly |
-| 319 | 71 | Elaine Pauley |
-| 320 | 71 | Kristie |
-| 321 | 71 | Erin Sabol |
-| 322 | 71 | HBTone |
+| 319 | 71 | Erin Sabol |
+| 320 | 71 | Elaine Pauley |
+| 321 | 71 | HBTone |
+| 322 | 71 | Kristie |
 | 323 | 70 | Daddy |
-| 324 | 70 | MamushiOh |
+| 324 | 70 | $hort Dog |
 | 325 | 70 | Cheeky Pop |
 | 326 | 70 | Gerold Folk Haddock |
-| 327 | 70 | $hort Dog |
-| 328 | 70 | Kaleisha Smith |
-| 329 | 70 | Hailey Hil |
-| 330 | 69 | Sunny Clicky |
-| 331 | 69 | CJ Robinson |
-| 332 | 68 | Wacky Stackbuilder |
-| 333 | 68 | Logan Frost |
-| 334 | 68 | Alyssa Rae |
-| 335 | 68 | Tee Spinks |
-| 336 | 68 | Eric Spencer Whitaker |
-| 337 | 67 | Rufus |
-| 338 | 67 | Michele Elizabeth McKay-Johnson |
+| 327 | 70 | MamushiOh |
+| 328 | 70 | Hailey Hil |
+| 329 | 70 | Kaleisha Smith |
+| 330 | 69 | CJ Robinson |
+| 331 | 69 | Sunny Clicky |
+| 332 | 69 | Chilly Wipebuilder |
+| 333 | 68 | Tee Spinks |
+| 334 | 68 | Eric Spencer Whitaker |
+| 335 | 68 | Wacky Stackbuilder |
+| 336 | 68 | Alyssa Rae |
+| 337 | 68 | Logan Frost |
+| 338 | 67 | Rufus |
 | 339 | 67 | Travis Davison |
-| 340 | 67 | Fina McKinnis |
-| 341 | 67 | Steve Reno |
-| 342 | 67 | Johnathan Deese |
-| 343 | 67 | Jennah |
-| 344 | 67 | Laurie Napper |
-| 345 | 66 | GracefulOwl808 |
-| 346 | 65 | Sabrina Wilkerson |
-| 347 | 65 | Jazzy Bridger |
-| 348 | 65 | Erica Charlise |
-| 349 | 65 | Koi |
-| 350 | 65 | Kate Hancock Malicek |
-| 351 | 65 | Giggy Tower |
-| 352 | 64 | Yadira Salgado |
-| 353 | 64 | Dena Marie Lee |
-| 354 | 64 | Douglas Price |
-| 355 | 63 | La'Chae Nickole |
-| 356 | 63 | Shakuria Cortia Burney |
-| 357 | 63 | Slinky Clearzone |
-| 358 | 63 | Ahsokadog |
-| 359 | 63 | Sarah Swietlicki - Lopez |
-| 360 | 62 | De'Mear McKinney |
-| 361 | 62 | Richard Flex |
-| 362 | 62 | Jack Mehof |
-| 363 | 61 | star |
+| 340 | 67 | Steve Reno |
+| 341 | 67 | Jennah |
+| 342 | 67 | Laurie Napper |
+| 343 | 67 | Michele Elizabeth McKay-Johnson |
+| 344 | 67 | Johnathan Deese |
+| 345 | 67 | Fina McKinnis |
+| 346 | 66 | GracefulOwl808 |
+| 347 | 65 | Erica Charlise |
+| 348 | 65 | Sabrina Wilkerson |
+| 349 | 65 | Jazzy Bridger |
+| 350 | 65 | Koi |
+| 351 | 65 | Kate Hancock Malicek |
+| 352 | 65 | Giggy Tower |
+| 353 | 64 | Douglas Price |
+| 354 | 64 | Yadira Salgado |
+| 355 | 64 | Dena Marie Lee |
+| 356 | 63 | Slinky Clearzone |
+| 357 | 63 | Ahsokadog |
+| 358 | 63 | Sarah Swietlicki - Lopez |
+| 359 | 63 | La'Chae Nickole |
+| 360 | 63 | Shakuria Cortia Burney |
+| 361 | 62 | Jack Mehof |
+| 362 | 62 | De'Mear McKinney |
+| 363 | 62 | Richard Flex |
 | 364 | 61 | Tonya Thomas |
 | 365 | 61 | Perky Pusher |
-| 366 | 60 | Coco |
-| 367 | 60 | Natasha Rucker |
-| 368 | 60 | Angie Smith |
-| 369 | 60 | Malcolm Stanley |
-| 370 | 60 | Christian Pham |
-| 371 | 60 | Lilly Brown |
-| 372 | 60 | Kesha Brady |
+| 366 | 61 | star |
+| 367 | 60 | Coco |
+| 368 | 60 | Christi Walker Patton |
+| 369 | 60 | Xana Zania Bopp |
+| 370 | 60 | Lauren Farkas |
+| 371 | 60 | De'Nell Edwards |
+| 372 | 60 | Dianne Clagon |
 | 373 | 60 | Big Bovice |
-| 374 | 60 | Xana Zania Bopp |
-| 375 | 60 | Lauren Farkas |
-| 376 | 60 | Dianne Clagon |
-| 377 | 60 | Marlainia Boyd |
-| 378 | 60 | Christi Walker Patton |
-| 379 | 60 | Valerie Alexander |
-| 380 | 60 | Heather Aurelia |
-| 381 | 60 | Kimberly Noble |
-| 382 | 60 | Tasha |
-| 383 | 60 | De'Nell Edwards |
-| 384 | 60 | Brenda Malachi-butler |
-| 385 | 59 | Keith Johnson |
+| 374 | 60 | Kesha Brady |
+| 375 | 60 | Heather Aurelia |
+| 376 | 60 | Lilly Brown |
+| 377 | 60 | Christian Pham |
+| 378 | 60 | Kimberly Noble |
+| 379 | 60 | Marlainia Boyd |
+| 380 | 60 | Angie Smith |
+| 381 | 60 | Brenda Malachi-butler |
+| 382 | 60 | Malcolm Stanley |
+| 383 | 60 | Tasha |
+| 384 | 60 | Valerie Alexander |
+| 385 | 60 | Natasha Rucker |
 | 386 | 59 | Shanaa Germany Crittenden |
-| 387 | 59 | Darrel Pemberton |
-| 388 | 59 | Chilly Wipebuilder |
+| 387 | 59 | Keith Johnson |
+| 388 | 59 | Darrel Pemberton |
 | 389 | 58 | Alexandrla Smith |
 | 390 | 58 | Bambi Love |
 | 391 | 58 | Kimberly Susan Privette |
-| 392 | 58 | Sonia Binti Mfalme |
-| 393 | 58 | FunTime |
-| 394 | 58 | Brandy Way |
+| 392 | 58 | FunTime |
+| 393 | 58 | Brandy Way |
+| 394 | 58 | Sonia Binti Mfalme |
 | 395 | 57 | Nikkizz |
 | 396 | 57 | Rachael Bakowicz Edwards |
-| 397 | 56 | Lakiesha Crawford |
+| 397 | 56 | DirtiestofMikes |
 | 398 | 56 | Nora Mahmoud |
 | 399 | 56 | Nichelle Warren |
 | 400 | 56 | Bobby Chestefield |
-| 401 | 56 | DirtiestofMikes |
+| 401 | 56 | Lakiesha Crawford |
 | 402 | 55 | Dreamzzz |
 | 403 | 55 | Kyle Franklin |
 | 404 | 55 | KoolKimJay |
-| 405 | 55 | Angelique Talbot |
-| 406 | 55 | Terrie |
-| 407 | 55 | Twisty Brickfit |
-| 408 | 55 | Sammie Walker |
+| 405 | 55 | Sammie Walker |
+| 406 | 55 | Angelique Talbot |
+| 407 | 55 | Terrie |
+| 408 | 55 | Twisty Brickfit |
 | 409 | 55 | Ta'Kaiyah M. Spann |
 | 410 | 54 | Ace Hardware |
 | 411 | 54 | Ryan Runyan |
