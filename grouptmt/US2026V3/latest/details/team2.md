@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 04:46:16 UTC
+# Standings for team2 as of 2026-06-06 04:46:40 UTC
 
 **Total Participants:** 985
 
@@ -286,35 +286,35 @@
 | 278 | 72 | Kendi |
 | 279 | 72 | Sully |
 | 280 | 71 | Cindy Scott |
-| 281 | 70 | Courtney Madison Hart |
-| 282 | 70 | Jennifer Covington |
-| 283 | 70 | MaddieCherie |
+| 281 | 70 | Jennifer Covington |
+| 282 | 70 | MaddieCherie |
+| 283 | 70 | Courtney Madison Hart |
 | 284 | 69 | Alonzo Reed |
 | 285 | 69 | Justin McCray |
 | 286 | 69 | Ashley Billiot Rhodes |
 | 287 | 69 | Momof2wigglebutts |
 | 288 | 69 | REE4 |
 | 289 | 68 | Avie Lou |
-| 290 | 68 | Fancy Stacker |
-| 291 | 68 | Arik DiLorenzo |
-| 292 | 68 | Belinda Gullion Austin |
-| 293 | 68 | Gloria May Shook |
+| 290 | 68 | Gloria May Shook |
+| 291 | 68 | Fancy Stacker |
+| 292 | 68 | Arik DiLorenzo |
+| 293 | 68 | Belinda Gullion Austin |
 | 294 | 67 | giamy |
-| 295 | 66 | Donna Segletes Kay |
-| 296 | 66 | Traci Abern |
-| 297 | 66 | Frilly Shiftsnap |
-| 298 | 66 | Jennifer Lalk |
+| 295 | 66 | Traci Abern |
+| 296 | 66 | Frilly Shiftsnap |
+| 297 | 66 | Jennifer Lalk |
+| 298 | 66 | Donna Segletes Kay |
 | 299 | 65 | Sarah Jane Gorsuch |
 | 300 | 65 | Susie Conger |
 | 301 | 65 | Justin Stark |
 | 302 | 64 | Cool Balancer |
-| 303 | 64 | Martha Lynn Wiggins |
-| 304 | 64 | Matt Wylie |
+| 303 | 64 | Matt Wylie |
+| 304 | 64 | Martha Lynn Wiggins |
 | 305 | 64 | Paige Lynette Sohl |
 | 306 | 63 | Lacie B |
 | 307 | 63 | Bonnie Huckleberry |
-| 308 | 63 | Cozy Cascade |
-| 309 | 63 | Melmel |
+| 308 | 63 | Melmel |
+| 309 | 63 | Cozy Cascade |
 | 310 | 62 | Amber Simonton |
 | 311 | 62 | Ratchet |
 | 312 | 62 | Ava Speedy |
@@ -324,15 +324,15 @@
 | 316 | 61 | Bubbly Dash |
 | 317 | 61 | Glitzy Matchclear |
 | 318 | 61 | Jessica Perkins |
-| 319 | 60 | Crystal Robinson |
-| 320 | 60 | Yari |
-| 321 | 60 | Leticia Tillman |
-| 322 | 60 | Patti Ward |
+| 319 | 60 | Yari |
+| 320 | 60 | Leticia Tillman |
+| 321 | 60 | Patti Ward |
+| 322 | 60 | Crystal Robinson |
 | 323 | 60 | Emily Carns |
-| 324 | 60 | Jason Cunningham |
-| 325 | 60 | Dawn Kroptavich |
-| 326 | 60 | Patrick Woodard |
-| 327 | 60 | Speedy Gridder |
+| 324 | 60 | Dawn Kroptavich |
+| 325 | 60 | Jason Cunningham |
+| 326 | 60 | Speedy Gridder |
+| 327 | 60 | Patrick Woodard |
 | 328 | 60 | Joannah Capilitan |
 | 329 | 60 | Snippy Shifter |
 | 330 | 60 | Jerry L Morales |
@@ -352,44 +352,44 @@
 | 344 | 58 | Lesley Stoeckle |
 | 345 | 58 | Chipper Towerzone |
 | 346 | 57 | Cheery Towerzone |
-| 347 | 57 | Poppy Strikerbuilder |
-| 348 | 57 | Xandrea Jones |
+| 347 | 57 | Xandrea Jones |
+| 348 | 57 | Poppy Strikerbuilder |
 | 349 | 56 | Melissa Fink |
 | 350 | 56 | nogo |
-| 351 | 55 | Wendy Durrence Jones |
-| 352 | 55 | Beverly-Jo Peterson |
+| 351 | 55 | Beverly-Jo Peterson |
+| 352 | 55 | Wendy Durrence Jones |
 | 353 | 55 | Sarah Louise Cobb |
-| 354 | 55 | MUMBLES |
+| 354 | 55 | KazzyKay |
 | 355 | 55 | Saucy Wrecker |
-| 356 | 55 | Valeri Bradley |
-| 357 | 55 | Silly Tiltbuilder |
-| 358 | 55 | Misty McElroy |
-| 359 | 54 | Bethany Nestor |
-| 360 | 54 | Wendy McKee |
-| 361 | 54 | Funway998 |
-| 362 | 54 | Lively Twisterfit |
-| 363 | 54 | Sassy Patternblock |
-| 364 | 54 | KazzyKay |
-| 365 | 54 | Cool Patternbuilder |
+| 356 | 55 | Misty McElroy |
+| 357 | 55 | MUMBLES |
+| 358 | 55 | Valeri Bradley |
+| 359 | 55 | Silly Tiltbuilder |
+| 360 | 54 | Bethany Nestor |
+| 361 | 54 | Cool Patternbuilder |
+| 362 | 54 | Wendy McKee |
+| 363 | 54 | Funway998 |
+| 364 | 54 | Lively Twisterfit |
+| 365 | 54 | Sassy Patternblock |
 | 366 | 54 | Sabrina Hardrick |
 | 367 | 54 | Christina Nycol |
-| 368 | 53 | Melissa Thomas |
-| 369 | 53 | Spicy Basepiece |
-| 370 | 53 | Trisha Schneider |
+| 368 | 53 | Michael Delozier |
+| 369 | 53 | Melissa Thomas |
+| 370 | 53 | Spicy Basepiece |
 | 371 | 53 | Maurii93 |
 | 372 | 53 | Wacky Stack |
-| 373 | 52 | Rosalie Call Kehlenbeck |
-| 374 | 52 | Chipper Spinzone |
+| 373 | 53 | Trisha Schneider |
+| 374 | 52 | Rosalie Call Kehlenbeck |
 | 375 | 52 | Kelly |
-| 376 | 51 | Tashamonique Puckey |
-| 377 | 51 | Nicole Ashbaugh |
-| 378 | 51 | Mama G |
-| 379 | 51 | Twisty Matchfit |
-| 380 | 51 | Michael Delozier |
-| 381 | 51 | Dad |
-| 382 | 51 | Loretta Crow |
-| 383 | 50 | Whitt |
-| 384 | 50 | Charith Lorelle Watson |
+| 376 | 52 | Chipper Spinzone |
+| 377 | 51 | Dad |
+| 378 | 51 | Twisty Matchfit |
+| 379 | 51 | Mama G |
+| 380 | 51 | Loretta Crow |
+| 381 | 51 | Tashamonique Puckey |
+| 382 | 51 | Nicole Ashbaugh |
+| 383 | 50 | Charith Lorelle Watson |
+| 384 | 50 | Whitt |
 | 385 | 50 | Teea Makensi Meyer |
 | 386 | 50 | MarioKarasovic |
 | 387 | 50 | Rachel Nilles |
