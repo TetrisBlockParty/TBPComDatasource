@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 18:11:16 UTC
+# Standings for team2 as of 2026-06-06 18:12:16 UTC
 
 **Total Participants:** 1300
 
@@ -12,7 +12,7 @@
 | 4 | 9434 | Jason Wood |
 | 5 | 7966 | Crystalin Heath Lewis |
 | 6 | 7687 | Lacey Nolting |
-| 7 | 6800 | Mocha |
+| 7 | 6900 | Mocha |
 | 8 | 6114 | Tim Ix |
 | 9 | 6061 | Christina Shell |
 | 10 | 6045 | Morgann McDaniel |
@@ -245,10 +245,10 @@
 | 237 | 148 | Theresa Hollinger |
 | 238 | 147 | Tina Marie |
 | 239 | 146 | Darla Nolt |
-| 240 | 144 | Jamie Fenyus |
-| 241 | 142 | Ratchet |
-| 242 | 142 | Cortney Coleman |
-| 243 | 142 | Zany Wrecker |
+| 240 | 145 | Zany Wrecker |
+| 241 | 144 | Jamie Fenyus |
+| 242 | 142 | Ratchet |
+| 243 | 142 | Cortney Coleman |
 | 244 | 141 | Cheery Towerzone |
 | 245 | 141 | Theresa Huddleston |
 | 246 | 141 | Melisa |
@@ -307,55 +307,55 @@
 | 299 | 115 | Jessica Connot |
 | 300 | 114 | Ashley Voelz |
 | 301 | 113 | Sherri E Woods Hess |
-| 302 | 112 | Traci Abern |
-| 303 | 112 | Cindy Scott |
-| 304 | 111 | Bianca Woodruff |
-| 305 | 111 | Charles E Mccardell |
+| 302 | 113 | Epic Frame |
+| 303 | 112 | Traci Abern |
+| 304 | 112 | Cindy Scott |
+| 305 | 111 | Bianca Woodruff |
 | 306 | 111 | Nikki Hatch |
-| 307 | 110 | Zappy Liney |
-| 308 | 110 | Nichole Wilson |
-| 309 | 109 | Cathy Tippett |
+| 307 | 111 | Charles E Mccardell |
+| 308 | 110 | Zappy Liney |
+| 309 | 110 | Nichole Wilson |
 | 310 | 109 | Kawana Nesbitt |
-| 311 | 109 | Kevin Patrick |
-| 312 | 108 | Meagan Grimmett Washburn |
+| 311 | 109 | Cathy Tippett |
+| 312 | 109 | Kevin Patrick |
 | 313 | 108 | Rachel Nilles |
-| 314 | 107 | Carole Brown |
-| 315 | 107 | LittleHippoEars |
-| 316 | 107 | Gloria May Shook |
-| 317 | 107 | Michelle M Braley |
-| 318 | 107 | Angeleye A James |
-| 319 | 106 | Sara Perkins |
-| 320 | 106 | Anthony Swift |
-| 321 | 105 | Saucy Wrecker |
-| 322 | 105 | Tamtam |
+| 314 | 108 | Meagan Grimmett Washburn |
+| 315 | 107 | Gloria May Shook |
+| 316 | 107 | Michelle M Braley |
+| 317 | 107 | Angeleye A James |
+| 318 | 107 | Carole Brown |
+| 319 | 107 | LittleHippoEars |
+| 320 | 106 | Sara Perkins |
+| 321 | 106 | Anthony Swift |
+| 322 | 105 | Saucy Wrecker |
 | 323 | 105 | Erica South |
-| 324 | 104 | Reign Hustler |
-| 325 | 104 | MegaPooh |
+| 324 | 105 | Tamtam |
+| 325 | 104 | Reign Hustler |
 | 326 | 104 | Roe Sarmiento |
-| 327 | 103 | Elizabeth Kline |
-| 328 | 102 | Tammy Roth |
-| 329 | 102 | Alissa Ary |
-| 330 | 101 | Jef Wassom |
-| 331 | 101 | Cassandra Milner |
-| 332 | 100 | Katie Jones |
-| 333 | 100 | Leticia Tillman |
-| 334 | 100 | August Christy Lathrop |
-| 335 | 100 | Ber |
-| 336 | 99 | Epic Frame |
-| 337 | 99 | Gabrielle Rivera |
-| 338 | 99 | Melissa Abbott |
-| 339 | 99 | Jennifer Vitro |
-| 340 | 98 | Justin McCray |
-| 341 | 97 | Jennifer McClure |
-| 342 | 97 | Abby |
-| 343 | 97 | Boldy Fitclear |
-| 344 | 97 | Tracy Tokarz |
-| 345 | 96 | Breezy |
-| 346 | 96 | Maria Ward |
-| 347 | 96 | Mary Carriere |
-| 348 | 95 | Wacky Holder |
-| 349 | 95 | Norma Ortiz |
-| 350 | 95 | Thomas Tyrone |
+| 327 | 104 | MegaPooh |
+| 328 | 103 | Elizabeth Kline |
+| 329 | 102 | Tammy Roth |
+| 330 | 102 | Alissa Ary |
+| 331 | 101 | Jef Wassom |
+| 332 | 101 | Cassandra Milner |
+| 333 | 100 | Ber |
+| 334 | 100 | Katie Jones |
+| 335 | 100 | August Christy Lathrop |
+| 336 | 100 | Leticia Tillman |
+| 337 | 100 | Thomas Tyrone |
+| 338 | 99 | Gabrielle Rivera |
+| 339 | 99 | Melissa Abbott |
+| 340 | 99 | Jennifer Vitro |
+| 341 | 98 | Justin McCray |
+| 342 | 97 | Jennifer McClure |
+| 343 | 97 | Abby |
+| 344 | 97 | Boldy Fitclear |
+| 345 | 97 | Tracy Tokarz |
+| 346 | 96 | Breezy |
+| 347 | 96 | Maria Ward |
+| 348 | 96 | Mary Carriere |
+| 349 | 95 | Wacky Holder |
+| 350 | 95 | Norma Ortiz |
 | 351 | 95 | Mike Mordhorst |
 | 352 | 94 | Mandy Van Laningham Bishop |
 | 353 | 94 | Paige Lynette Sohl |
