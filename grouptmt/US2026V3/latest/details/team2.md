@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 18:34:16 UTC
+# Standings for team2 as of 2026-06-06 18:34:38 UTC
 
 **Total Participants:** 1311
 
@@ -566,56 +566,56 @@
 | 558 | 59 | Sillyk |
 | 559 | 59 | LaicoosBargains Ln |
 | 560 | 59 | April Addis |
-| 561 | 59 | Sandra Rotton Bragg |
-| 562 | 59 | Lisa Allen Frisk |
-| 563 | 58 | Slinky Winder |
-| 564 | 58 | Jolly Builderpiece |
-| 565 | 58 | Missy Savage-Justice |
+| 561 | 59 | Lisa Allen Frisk |
+| 562 | 59 | Sandra Rotton Bragg |
+| 563 | 58 | Missy Savage-Justice |
+| 564 | 58 | Slinky Winder |
+| 565 | 58 | Jolly Builderpiece |
 | 566 | 57 | Hillary Frank |
 | 567 | 57 | Poppy Strikerbuilder |
-| 568 | 57 | Jason P. Schwartz |
-| 569 | 56 | Barb Kiser |
+| 568 | 57 | Damion Morrison |
+| 569 | 57 | Jason P. Schwartz |
 | 570 | 56 | Mandy |
-| 571 | 56 | Mouh Ity |
-| 572 | 56 | Layla Petroff |
-| 573 | 56 | Joshua Dye |
-| 574 | 56 | Gina Leal |
-| 575 | 56 | Natalie M. Arredondo |
-| 576 | 56 | Joyce Galloway |
-| 577 | 55 | Jessica Spivey Cooper |
-| 578 | 55 | Kayley |
-| 579 | 55 | Misty McElroy |
-| 580 | 55 | Wendy Durrence Jones |
-| 581 | 55 | Jessica Bowman |
-| 582 | 55 | PrissyPris |
-| 583 | 55 | Muffin Popper |
-| 584 | 55 | Silly Tiltbuilder |
-| 585 | 55 | BB |
-| 586 | 55 | Beverly-Jo Peterson |
-| 587 | 55 | Buddy |
-| 588 | 55 | Allison Peterson |
-| 589 | 54 | Cherica Taylor |
-| 590 | 54 | Cool Patternbuilder |
+| 571 | 56 | Joyce Galloway |
+| 572 | 56 | Natalie M. Arredondo |
+| 573 | 56 | Layla Petroff |
+| 574 | 56 | Barb Kiser |
+| 575 | 56 | Mouh Ity |
+| 576 | 56 | Joshua Dye |
+| 577 | 56 | Gina Leal |
+| 578 | 55 | Wendy Durrence Jones |
+| 579 | 55 | BB |
+| 580 | 55 | Buddy |
+| 581 | 55 | PrissyPris |
+| 582 | 55 | Allison Peterson |
+| 583 | 55 | Jessica Bowman |
+| 584 | 55 | Kayley |
+| 585 | 55 | Jessica Spivey Cooper |
+| 586 | 55 | Muffin Popper |
+| 587 | 55 | Silly Tiltbuilder |
+| 588 | 55 | Beverly-Jo Peterson |
+| 589 | 55 | Misty McElroy |
+| 590 | 54 | Cherica Taylor |
 | 591 | 54 | Sassy Patternblock |
-| 592 | 54 | Britt |
-| 593 | 54 | Christina Nycol |
-| 594 | 54 | Ssirkus |
+| 592 | 54 | Amber Wolf |
+| 593 | 54 | Ssirkus |
+| 594 | 54 | Britt |
 | 595 | 54 | Denita Kaherl |
-| 596 | 54 | Amber Wolf |
-| 597 | 53 | Queen |
-| 598 | 53 | Damion Morrison |
+| 596 | 54 | Christina Nycol |
+| 597 | 54 | Cool Patternbuilder |
+| 598 | 53 | Queen |
 | 599 | 53 | Trisha Schneider |
 | 600 | 53 | Zappy Pivotfall |
 | 601 | 53 | Wacky Stack |
-| 602 | 53 | Spicy Basepiece |
-| 603 | 53 | Wayne Johnson |
+| 602 | 53 | Wayne Johnson |
+| 603 | 53 | Spicy Basepiece |
 | 604 | 53 | Hog Crankin |
 | 605 | 53 | wutrwerdz |
 | 606 | 52 | Saucy Lifter |
 | 607 | 52 | Sherry Ann |
 | 608 | 52 | Carmina Truoiolo |
-| 609 | 52 | Rosalie Call Kehlenbeck |
-| 610 | 52 | andee |
+| 609 | 52 | andee |
+| 610 | 52 | Rosalie Call Kehlenbeck |
 | 611 | 52 | Chipper Spinzone |
 | 612 | 52 | Diane Byrd |
 | 613 | 52 | Sunny Tiltbuilder |
