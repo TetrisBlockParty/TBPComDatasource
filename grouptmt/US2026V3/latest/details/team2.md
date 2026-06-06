@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 20:24:41 UTC
+# Standings for team2 as of 2026-06-06 20:25:18 UTC
 
 **Total Participants:** 1362
 
@@ -150,10 +150,10 @@
 | 142 | 300 | Linda Guay |
 | 143 | 298 | Breeana Bennett |
 | 144 | 294 | Vistabrat |
-| 145 | 293 | Snappy Combo |
-| 146 | 291 | Flashy Twistline |
-| 147 | 288 | Pooh |
-| 148 | 287 | Bubbly Strikerpiece |
+| 145 | 293 | Bubbly Strikerpiece |
+| 146 | 293 | Snappy Combo |
+| 147 | 291 | Flashy Twistline |
+| 148 | 288 | Pooh |
 | 149 | 286 | James Ward |
 | 150 | 286 | Heather Burgett |
 | 151 | 283 | Theresa Marie |
@@ -308,10 +308,10 @@
 | 300 | 126 | Teresa Mandich |
 | 301 | 125 | Gwendolyn Boykin Mobbs |
 | 302 | 125 | Jill Goff |
-| 303 | 125 | Ariel Gundersen |
-| 304 | 124 | Jason Burris |
-| 305 | 124 | Tina |
-| 306 | 122 | Sara Perkins |
+| 303 | 125 | Sara Perkins |
+| 304 | 125 | Ariel Gundersen |
+| 305 | 124 | Jason Burris |
+| 306 | 124 | Tina |
 | 307 | 121 | Lisa Allen Frisk |
 | 308 | 121 | Tango Sierra |
 | 309 | 120 | Kevin Mccoy |
@@ -340,37 +340,37 @@
 | 332 | 110 | Zappy Liney |
 | 333 | 109 | Kevin Patrick |
 | 334 | 109 | Kawana Nesbitt |
-| 335 | 109 | Cathy Tippett |
-| 336 | 108 | Rachel Nilles |
-| 337 | 107 | Michelle M Braley |
-| 338 | 107 | LittleHippoEars |
-| 339 | 107 | Angeleye A James |
-| 340 | 107 | Melmel |
-| 341 | 107 | Carole Brown |
-| 342 | 105 | Erica South |
-| 343 | 105 | Tamtam |
-| 344 | 105 | Saucy Wrecker |
-| 345 | 104 | MegaPooh |
-| 346 | 104 | Roe Sarmiento |
-| 347 | 104 | Nova Nova |
-| 348 | 104 | Reign Hustler |
-| 349 | 104 | murd3rmous3 |
+| 335 | 109 | murd3rmous3 |
+| 336 | 109 | Cathy Tippett |
+| 337 | 108 | Rachel Nilles |
+| 338 | 107 | Michelle M Braley |
+| 339 | 107 | LittleHippoEars |
+| 340 | 107 | Angeleye A James |
+| 341 | 107 | Melmel |
+| 342 | 107 | Carole Brown |
+| 343 | 105 | Erica South |
+| 344 | 105 | Tamtam |
+| 345 | 105 | Saucy Wrecker |
+| 346 | 104 | MegaPooh |
+| 347 | 104 | Reign Hustler |
+| 348 | 104 | Roe Sarmiento |
+| 349 | 104 | Nova Nova |
 | 350 | 103 | Elizabeth Kline |
 | 351 | 102 | Boldy Fitclear |
 | 352 | 102 | Tammy Roth |
 | 353 | 102 | Alissa Ary |
-| 354 | 101 | Cassandra Milner |
-| 355 | 101 | Cristi Doris |
-| 356 | 101 | Jef Wassom |
-| 357 | 100 | Leticia Tillman |
-| 358 | 100 | August Christy Lathrop |
-| 359 | 100 | Alice Petterborg Barberich |
-| 360 | 100 | Ber |
-| 361 | 100 | Thomas Tyrone |
-| 362 | 99 | Lively Curve |
-| 363 | 99 | Francesca Wagenhoffer |
-| 364 | 99 | Jennifer Vitro |
-| 365 | 99 | Gabrielle Rivera |
+| 354 | 101 | Jef Wassom |
+| 355 | 101 | Cassandra Milner |
+| 356 | 101 | Cristi Doris |
+| 357 | 100 | August Christy Lathrop |
+| 358 | 100 | Alice Petterborg Barberich |
+| 359 | 100 | Leticia Tillman |
+| 360 | 100 | Thomas Tyrone |
+| 361 | 100 | Ber |
+| 362 | 99 | Jennifer Vitro |
+| 363 | 99 | Gabrielle Rivera |
+| 364 | 99 | Francesca Wagenhoffer |
+| 365 | 99 | Lively Curve |
 | 366 | 99 | Melissa Abbott |
 | 367 | 98 | Alonzo Reed |
 | 368 | 98 | Justin McCray |
@@ -515,57 +515,57 @@
 | 507 | 69 | Cynthia Dawn Reitz Hanson |
 | 508 | 69 | Chipper Towerzone |
 | 509 | 69 | Nutty Fitzone |
-| 510 | 69 | Momof2wigglebutts |
-| 511 | 69 | REE4 |
-| 512 | 69 | Justin Stark |
+| 510 | 69 | Stephany Green |
+| 511 | 69 | Loretta Crow |
+| 512 | 69 | REE4 |
 | 513 | 69 | Michelle Powers Chattaway |
-| 514 | 69 | Stephany Green |
-| 515 | 69 | Loretta Crow |
-| 516 | 68 | Dandy Tiltgrid |
-| 517 | 68 | Josephina |
-| 518 | 68 | Mary Whitaker |
-| 519 | 68 | Belinda Gullion Austin |
+| 514 | 69 | Momof2wigglebutts |
+| 515 | 69 | Justin Stark |
+| 516 | 68 | Mary Whitaker |
+| 517 | 68 | Dandy Tiltgrid |
+| 518 | 68 | Fancy Stacker |
+| 519 | 68 | Josephina |
 | 520 | 68 | Amy D Coble |
-| 521 | 68 | Bonnie Huckleberry |
+| 521 | 68 | Belinda Gullion Austin |
 | 522 | 68 | Sara BlueEyes |
-| 523 | 68 | Fancy Stacker |
-| 524 | 67 | Sherri Caillet Aucoin |
+| 523 | 68 | Bonnie Huckleberry |
+| 524 | 67 | TNGal |
 | 525 | 67 | Silly Tiltbuilder |
-| 526 | 67 | TNGal |
+| 526 | 67 | Sherri Caillet Aucoin |
 | 527 | 66 | Tami Weiss |
 | 528 | 66 | Frilly Shiftsnap |
-| 529 | 66 | Jennifer Lalk |
+| 529 | 66 | Katrien |
 | 530 | 66 | Joshua Hopkins |
-| 531 | 65 | Brenda Shannon |
-| 532 | 65 | Tamara Whiteley |
+| 531 | 66 | Jennifer Lalk |
+| 532 | 65 | Cool Patternbuilder |
 | 533 | 65 | Coleen Yoder |
-| 534 | 65 | Sarah Louise Cobb |
-| 535 | 65 | Heather Billodeau |
-| 536 | 65 | Dana Wilson |
-| 537 | 65 | Cool Patternbuilder |
-| 538 | 65 | Belinda Head |
-| 539 | 65 | nogo |
-| 540 | 64 | Matt Wylie |
+| 534 | 65 | Belinda Head |
+| 535 | 65 | Brenda Shannon |
+| 536 | 65 | Tamara Whiteley |
+| 537 | 65 | Sarah Louise Cobb |
+| 538 | 65 | Heather Billodeau |
+| 539 | 65 | Dana Wilson |
+| 540 | 65 | nogo |
 | 541 | 64 | Martha Lynn Wiggins |
 | 542 | 64 | Lee Leonard |
 | 543 | 64 | Tammy Botkin |
 | 544 | 64 | Shannon Posner |
-| 545 | 63 | MarioKarasovic |
-| 546 | 63 | Kimmi Blake |
-| 547 | 63 | Queen |
-| 548 | 63 | Katrien |
-| 549 | 63 | Nicole Ashbaugh |
-| 550 | 63 | Julibeth Wells |
-| 551 | 63 | Kiersty Redder |
-| 552 | 63 | Lacie B |
-| 553 | 63 | Amber Carpenter |
-| 554 | 62 | Erin Lemanski |
-| 555 | 62 | Holly Huval |
+| 545 | 64 | Matt Wylie |
+| 546 | 63 | Amber Carpenter |
+| 547 | 63 | Kiersty Redder |
+| 548 | 63 | Lacie B |
+| 549 | 63 | Julibeth Wells |
+| 550 | 63 | Nicole Ashbaugh |
+| 551 | 63 | Queen |
+| 552 | 63 | Kimmi Blake |
+| 553 | 63 | MarioKarasovic |
+| 554 | 62 | Holly Huval |
+| 555 | 62 | Erin Lemanski |
 | 556 | 62 | Roger Kirksey |
 | 557 | 62 | Swanky Fitline |
 | 558 | 62 | Gina Leal |
-| 559 | 62 | Amber Simonton |
-| 560 | 62 | Staci Walker |
+| 559 | 62 | Staci Walker |
+| 560 | 62 | Amber Simonton |
 | 561 | 62 | Amy Walker |
 | 562 | 62 | David Skelton |
 | 563 | 62 | meg |
