@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 08:33:17 UTC
+# Standings for team1 as of 2026-06-06 08:34:16 UTC
 
 **Total Participants:** 930
 
@@ -64,10 +64,10 @@
 | 56 | 395 | Markeeta Lipscomb |
 | 57 | 388 | SPNLover24 |
 | 58 | 387 | Novaa |
-| 59 | 380 | Bre Maugh |
-| 60 | 380 | IamJust Neyamijah Washington Sr. |
-| 61 | 380 | Jessica Carter |
-| 62 | 380 | She Higgy |
+| 59 | 380 | IamJust Neyamijah Washington Sr. |
+| 60 | 380 | Jessica Carter |
+| 61 | 380 | She Higgy |
+| 62 | 380 | Bre Maugh |
 | 63 | 377 | AF Cruz |
 | 64 | 377 | JaszyBadd |
 | 65 | 371 | Shell Lewis |
@@ -76,8 +76,8 @@
 | 68 | 363 | Voice |
 | 69 | 362 | Eric Mcgaughy |
 | 70 | 350 | Jazzy Dashpiece |
-| 71 | 344 | Kevin M. McGhee Jr |
-| 72 | 344 | Keeta Chickswit Scott |
+| 71 | 344 | Keeta Chickswit Scott |
+| 72 | 344 | Kevin M. McGhee Jr |
 | 73 | 334 | Christana Imjustbutton Stone |
 | 74 | 332 | Hyper Slamdrop |
 | 75 | 331 | Kimberly Hernandez |
@@ -87,11 +87,11 @@
 | 79 | 319 | GrkGdess |
 | 80 | 316 | Ty Øtg |
 | 81 | 314 | Carolynne Walker-Bell |
-| 82 | 292 | Robyn Caldwell |
-| 83 | 284 | Todd C. Clemens |
-| 84 | 279 | COSA303 |
-| 85 | 278 | Shontanese Adams |
-| 86 | 273 | Sheila Burnham |
+| 82 | 298 | Sheila Burnham |
+| 83 | 292 | Robyn Caldwell |
+| 84 | 284 | Todd C. Clemens |
+| 85 | 279 | COSA303 |
+| 86 | 278 | Shontanese Adams |
 | 87 | 270 | Chenell Gillard |
 | 88 | 264 | Tammye Turner |
 | 89 | 260 | John Staub |
@@ -110,15 +110,15 @@
 | 102 | 224 | Alana Renee |
 | 103 | 221 | Allison Baxter |
 | 104 | 219 | Jamal Itzjusmall Chambers |
-| 105 | 216 | Andi McGreevy |
-| 106 | 216 | Nerdy Snapfall |
+| 105 | 216 | Nerdy Snapfall |
+| 106 | 216 | Andi McGreevy |
 | 107 | 215 | Abraham Espaillat |
 | 108 | 215 | Songne Arif |
 | 109 | 214 | Tonya McElroy |
 | 110 | 214 | Po Marley |
 | 111 | 213 | Jason Mungin |
-| 112 | 209 | Gotcha |
-| 113 | 209 | Zachary Colegrove |
+| 112 | 209 | Zachary Colegrove |
+| 113 | 209 | Gotcha |
 | 114 | 206 | Curtis T Cirno |
 | 115 | 204 | MamaBear |
 | 116 | 199 | Mic Balew |
@@ -138,8 +138,8 @@
 | 130 | 177 | Chris Sladoje |
 | 131 | 175 | Rayshawn Cohen |
 | 132 | 169 | Asha Langford |
-| 133 | 166 | Tarnisha Neicy Jones |
-| 134 | 166 | Nobles Brandon |
+| 133 | 166 | Nobles Brandon |
+| 134 | 166 | Tarnisha Neicy Jones |
 | 135 | 162 | Andre Sanon |
 | 136 | 160 | Zippy Lifter |
 | 137 | 160 | Sara Meri |
@@ -198,52 +198,52 @@
 | 190 | 110 | Atlantalindi |
 | 191 | 109 | Tamika Fisher |
 | 192 | 108 | Kimberly Linares Hernandez |
-| 193 | 105 | Angela R Wilson |
-| 194 | 105 | Latisha Fairley |
-| 195 | 105 | LaShaun Stinson |
-| 196 | 105 | Katrina Ramey |
+| 193 | 106 | Matthieu Pistone |
+| 194 | 105 | Angela R Wilson |
+| 195 | 105 | Latisha Fairley |
+| 196 | 105 | LaShaun Stinson |
 | 197 | 105 | Ebony Waynes-robinson |
-| 198 | 104 | Frisky Fall |
+| 198 | 105 | Katrina Ramey |
 | 199 | 104 | Ahvae Lee |
-| 200 | 104 | Brittnay Wright |
-| 201 | 103 | Kelvin Cook |
-| 202 | 101 | Boldy Liner |
-| 203 | 100 | Cool Bridger |
-| 204 | 100 | Leavon Smith |
-| 205 | 100 | Linzie Marie |
-| 206 | 100 | Char |
-| 207 | 99 | Maribel Vasquez |
-| 208 | 99 | Simone Bailey |
-| 209 | 99 | 신재호 |
-| 210 | 97 | Shanell Thomas |
-| 211 | 96 | Melissa D. M. Hornsby |
-| 212 | 95 | Nate Myers |
+| 200 | 104 | Frisky Fall |
+| 201 | 104 | Brittnay Wright |
+| 202 | 103 | Kelvin Cook |
+| 203 | 101 | Boldy Liner |
+| 204 | 100 | Char |
+| 205 | 100 | Cool Bridger |
+| 206 | 100 | Leavon Smith |
+| 207 | 100 | Linzie Marie |
+| 208 | 99 | 신재호 |
+| 209 | 99 | Simone Bailey |
+| 210 | 99 | Maribel Vasquez |
+| 211 | 97 | Shanell Thomas |
+| 212 | 96 | Melissa D. M. Hornsby |
 | 213 | 95 | Joana Thompson |
-| 214 | 95 | Shiny Lift |
-| 215 | 94 | Lively Riserpiece |
+| 214 | 95 | Nate Myers |
+| 215 | 95 | Shiny Lift |
 | 216 | 94 | Cece Fowler |
-| 217 | 92 | Quirky Fallgrid |
-| 218 | 92 | The DUBZ |
-| 219 | 91 | Jack Vlasak |
-| 220 | 90 | Charlene Baltimore |
-| 221 | 88 | Ad Doctor |
-| 222 | 88 | TT |
+| 217 | 94 | Lively Riserpiece |
+| 218 | 92 | Quirky Fallgrid |
+| 219 | 92 | The DUBZ |
+| 220 | 91 | Jack Vlasak |
+| 221 | 90 | Charlene Baltimore |
+| 222 | 88 | Ad Doctor |
 | 223 | 88 | QueenShay AllGood |
-| 224 | 87 | Poppy Buildout |
+| 224 | 88 | TT |
 | 225 | 87 | Karebear |
-| 226 | 87 | Keke Ferguson |
-| 227 | 86 | krd |
-| 228 | 86 | Chandler Magee |
-| 229 | 85 | Skippy |
-| 230 | 85 | Cauiasia DeJ'ae |
-| 231 | 85 | Simmone T. Kadiri |
-| 232 | 84 | Ciera Peace |
-| 233 | 84 | Franklin Sotelo |
-| 234 | 83 | Tipsy Linkroll |
-| 235 | 82 | Cachet A Ward |
-| 236 | 82 | Peppy Glider |
-| 237 | 81 | Sarah Steckbauer |
-| 238 | 81 | Matthieu Pistone |
+| 226 | 87 | Poppy Buildout |
+| 227 | 87 | Keke Ferguson |
+| 228 | 86 | krd |
+| 229 | 86 | Chandler Magee |
+| 230 | 85 | Simmone T. Kadiri |
+| 231 | 85 | Skippy |
+| 232 | 85 | Cauiasia DeJ'ae |
+| 233 | 84 | Ciera Peace |
+| 234 | 84 | Franklin Sotelo |
+| 235 | 83 | Tipsy Linkroll |
+| 236 | 82 | Cachet A Ward |
+| 237 | 82 | Peppy Glider |
+| 238 | 81 | Sarah Steckbauer |
 | 239 | 80 | Seddrick |
 | 240 | 80 | Chevalier Burley |
 | 241 | 80 | Carolyn Smith |
@@ -349,8 +349,8 @@
 | 341 | 58 | Mikayla |
 | 342 | 58 | Bambi Love |
 | 343 | 58 | Tobey Marberry |
-| 344 | 57 | Jae Thompson-Tyus |
-| 345 | 57 | La'Chae Nickole |
+| 344 | 58 | La'Chae Nickole |
+| 345 | 57 | Jae Thompson-Tyus |
 | 346 | 56 | Lakiesha Crawford |
 | 347 | 56 | Nichelle Warren |
 | 348 | 56 | Nora Mahmoud |
@@ -926,16 +926,16 @@
 | 918 | 5 | Tipsy Builderline |
 | 919 | 5 | Temeshia Brooks Washington |
 | 920 | 5 | Marissa Sweet |
-| 921 | 5 | Rieshelda Marie White |
-| 922 | 5 | Jennifer Moore |
-| 923 | 5 | Kidgib5 |
-| 924 | 5 | DirtiestofMikes |
-| 925 | 5 | Stephanie Zuniga Tullock |
-| 926 | 5 | Chill Linkroll |
-| 927 | 5 | Derek Beverly |
-| 928 | 5 | Annette DeLoatch Thompson |
-| 929 | 5 | Zesty Clearer |
-| 930 | 5 | the guy |
+| 921 | 5 | the guy |
+| 922 | 5 | Zesty Clearer |
+| 923 | 5 | Annette DeLoatch Thompson |
+| 924 | 5 | Derek Beverly |
+| 925 | 5 | Chill Linkroll |
+| 926 | 5 | Stephanie Zuniga Tullock |
+| 927 | 5 | DirtiestofMikes |
+| 928 | 5 | Kidgib5 |
+| 929 | 5 | Jennifer Moore |
+| 930 | 5 | Rieshelda Marie White |
 
 ---
 *Standings created by tournaments datasource generation tool*
