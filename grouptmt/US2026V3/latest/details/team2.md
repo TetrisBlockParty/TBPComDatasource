@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 06:38:16 UTC
+# Standings for team2 as of 2026-06-06 06:38:39 UTC
 
 **Total Participants:** 1042
 
@@ -696,29 +696,29 @@
 | 688 | 24 | Nicole |
 | 689 | 24 | T-Rex Ricky Lee Dieumegarde Jr. |
 | 690 | 24 | Goofy Bridger |
-| 691 | 24 | Jolly Brickroll |
-| 692 | 24 | Elodie Deveyer |
-| 693 | 24 | Kathryn Mason |
-| 694 | 23 | Roe Sarmiento |
-| 695 | 23 | Lisa Rose |
-| 696 | 23 | Jim Wright |
-| 697 | 23 | Anthony Chavez |
-| 698 | 23 | Evelyn Olive Kalmbach |
-| 699 | 23 | Rich Gorondy |
-| 700 | 23 | Silly square |
-| 701 | 23 | Zaaear Pack |
-| 702 | 23 | AshleyM |
-| 703 | 23 | Cristi Doris |
-| 704 | 23 | Rey Huber |
-| 705 | 23 | Jolene Moelder |
-| 706 | 23 | Breanna Dykes |
-| 707 | 23 | Suzanne Davis |
-| 708 | 23 | Sarah Phelps Beyer |
-| 709 | 23 | Shirley Bates |
-| 710 | 23 | Tiffany Powell |
+| 691 | 24 | Breanna Dykes |
+| 692 | 24 | Jolly Brickroll |
+| 693 | 24 | Elodie Deveyer |
+| 694 | 24 | Kathryn Mason |
+| 695 | 23 | Roe Sarmiento |
+| 696 | 23 | Lisa Rose |
+| 697 | 23 | Jim Wright |
+| 698 | 23 | Anthony Chavez |
+| 699 | 23 | Evelyn Olive Kalmbach |
+| 700 | 23 | Rich Gorondy |
+| 701 | 23 | Silly square |
+| 702 | 23 | Zaaear Pack |
+| 703 | 23 | Tiffany Powell |
+| 704 | 23 | Cristi Doris |
+| 705 | 23 | Rey Huber |
+| 706 | 23 | Jolene Moelder |
+| 707 | 23 | AshleyM |
+| 708 | 23 | Suzanne Davis |
+| 709 | 23 | Sarah Phelps Beyer |
+| 710 | 23 | Shirley Bates |
 | 711 | 22 | Frothy Zonebuilder |
-| 712 | 22 | Slinky Towerpiece |
-| 713 | 22 | Hog Crankin |
+| 712 | 22 | Hog Crankin |
+| 713 | 22 | Slinky Towerpiece |
 | 714 | 22 | Marii |
 | 715 | 22 | MJLovesHer#OneMistake |
 | 716 | 22 | Cary M. Fong |
