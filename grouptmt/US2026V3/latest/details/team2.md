@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 08:54:15 UTC
+# Standings for team2 as of 2026-06-06 08:54:38 UTC
 
 **Total Participants:** 1085
 
@@ -21,7 +21,7 @@
 | 13 | 3283 | Jewels |
 | 14 | 3165 | Jason Wood |
 | 15 | 3158 | Traci Elizabeth |
-| 16 | 3012 | Christina Shell |
+| 16 | 3069 | Christina Shell |
 | 17 | 2561 | Erica Dees Parks |
 | 18 | 2500 | Crafty Ziggy |
 | 19 | 2368 | Dapper Rollout |
@@ -1029,23 +1029,23 @@
 | 1021 | 8 | Jumpy Twistslam |
 | 1022 | 8 | Loony Ziggy |
 | 1023 | 8 | Erica |
-| 1024 | 8 | Jennifer Leigh |
-| 1025 | 8 | Jenna Thorn |
-| 1026 | 8 | Tina Doyens Munis |
+| 1024 | 8 | Jackie Hayslip |
+| 1025 | 8 | Jennifer Leigh |
+| 1026 | 8 | Snappy Matchgrid |
 | 1027 | 8 | Alexis Abner |
-| 1028 | 8 | Jackie Hayslip |
-| 1029 | 7 | Carol Whited Loza |
-| 1030 | 7 | Aguilar Rita |
-| 1031 | 7 | Flashy Cascadeclear |
-| 1032 | 7 | Nicole Slimick |
-| 1033 | 7 | Shane Peavey |
-| 1034 | 7 | sampson |
+| 1028 | 8 | Tina Doyens Munis |
+| 1029 | 8 | Jenna Thorn |
+| 1030 | 7 | michael |
+| 1031 | 7 | Jason Janssen |
+| 1032 | 7 | Clever Balancefit |
+| 1033 | 7 | Aguilar Rita |
+| 1034 | 7 | Laura Fagans |
 | 1035 | 7 | Brenda Ohaus Facher |
-| 1036 | 7 | Laura Fagans |
-| 1037 | 7 | Clever Balancefit |
-| 1038 | 7 | Jason Janssen |
-| 1039 | 7 | michael |
-| 1040 | 7 | Happy Curvebuilder |
+| 1036 | 7 | sampson |
+| 1037 | 7 | Happy Curvebuilder |
+| 1038 | 7 | Shane Peavey |
+| 1039 | 7 | Nicole Slimick |
+| 1040 | 7 | Flashy Cascadeclear |
 | 1041 | 7 | Mike Honcho |
 | 1042 | 7 | Daring Blockline |
 | 1043 | 7 | Collins |
@@ -1053,17 +1053,17 @@
 | 1045 | 7 | Dandy Wiper |
 | 1046 | 7 | Sam Blinn |
 | 1047 | 7 | Maja Hauff |
-| 1048 | 7 | Elizabeth Elaine Coursey |
+| 1048 | 7 | Carol Whited Loza |
 | 1049 | 7 | Teloney Humphrey |
 | 1050 | 7 | Liz Wilkerson |
 | 1051 | 7 | Mighty Piecebuilder |
 | 1052 | 7 | Kelli Pazour |
-| 1053 | 6 | Cheeky Dashpiece |
-| 1054 | 6 | Lori Yelvington Cain |
-| 1055 | 6 | Lavenda Nettles |
+| 1053 | 7 | Elizabeth Elaine Coursey |
+| 1054 | 6 | Lavenda Nettles |
+| 1055 | 6 | Cheeky Dashpiece |
 | 1056 | 6 | Shelby Wilson |
 | 1057 | 6 | Celeste Samuels |
-| 1058 | 6 | Snappy Matchgrid |
+| 1058 | 6 | Lori Yelvington Cain |
 | 1059 | 6 | Emily |
 | 1060 | 6 | Michele Choate |
 | 1061 | 6 | Partin |
