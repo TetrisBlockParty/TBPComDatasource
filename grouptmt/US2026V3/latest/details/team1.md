@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 13:32:17 UTC
+# Standings for team1 as of 2026-06-06 13:32:39 UTC
 
 **Total Participants:** 1002
 
@@ -25,7 +25,7 @@
 | 17 | 1913 | Sha Harris |
 | 18 | 1589 | Brian Stackhouse |
 | 19 | 1569 | Epic Snapfall |
-| 20 | 1535 | Cassidy Butler |
+| 20 | 1550 | Cassidy Butler |
 | 21 | 1300 | Chandler Spencer |
 | 22 | 1082 | Daylene Johannes |
 | 23 | 1037 | Shortstak |

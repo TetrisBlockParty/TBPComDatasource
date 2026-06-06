@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 13:32:17 UTC
+# Standings for team4 as of 2026-06-06 13:32:39 UTC
 
 **Total Participants:** 979
 
@@ -104,10 +104,10 @@
 | 96 | 267 | Cranky Towerbuilder |
 | 97 | 259 | Jessica Peyton |
 | 98 | 257 | Sarah Berry Stevens |
-| 99 | 253 | Debby Ruof |
-| 100 | 240 | Jojo Ann |
-| 101 | 235 | Hwanger Land |
-| 102 | 233 | Hairy Snake |
+| 99 | 253 | Hairy Snake |
+| 100 | 253 | Debby Ruof |
+| 101 | 240 | Jojo Ann |
+| 102 | 235 | Hwanger Land |
 | 103 | 230 | Sisi RedVelvet Reneè |
 | 104 | 229 | Aisha Estrada |
 | 105 | 218 | Dubiousdust |
