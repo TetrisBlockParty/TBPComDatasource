@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 07:12:37 UTC
+# Standings for team2 as of 2026-06-06 07:13:15 UTC
 
 **Total Participants:** 1058
 
@@ -81,8 +81,8 @@
 | 73 | 425 | Amanda Sikes |
 | 74 | 408 | Andre Love |
 | 75 | 405 | Judy Long |
-| 76 | 400 | Allie Bug |
-| 77 | 400 | Smashanator |
+| 76 | 400 | Smashanator |
+| 77 | 400 | Allie Bug |
 | 78 | 390 | La chulis |
 | 79 | 389 | Kimberly Cowan |
 | 80 | 374 | Mikki Torres |
@@ -93,8 +93,8 @@
 | 85 | 328 | Tim Tim |
 | 86 | 322 | Tom Badgley |
 | 87 | 319 | Michelle Rich Burkhart |
-| 88 | 317 | Marquetta Johnson |
-| 89 | 317 | Ruby Sandberg |
+| 88 | 317 | Ruby Sandberg |
+| 89 | 317 | Marquetta Johnson |
 | 90 | 315 | Milad Arzani |
 | 91 | 303 | Jennifer Smith |
 | 92 | 299 | Amber Miller Wirick |
@@ -105,15 +105,15 @@
 | 97 | 279 | Renee Freeman Jacobson |
 | 98 | 275 | Bubbly Strikerpiece |
 | 99 | 263 | Sarah Griffey |
-| 100 | 258 | Erin Thomas |
-| 101 | 253 | Hilliary Beyer |
-| 102 | 253 | MaddieCherie |
-| 103 | 253 | Heather Burgett |
-| 104 | 251 | Angie Kowalsky Olson |
-| 105 | 250 | Wmk Rathbun |
-| 106 | 249 | Bon Lynn |
-| 107 | 247 | DayDreamer79 |
-| 108 | 243 | Le Sandy |
+| 100 | 263 | Le Sandy |
+| 101 | 258 | Erin Thomas |
+| 102 | 253 | Hilliary Beyer |
+| 103 | 253 | MaddieCherie |
+| 104 | 253 | Heather Burgett |
+| 105 | 251 | Angie Kowalsky Olson |
+| 106 | 250 | Wmk Rathbun |
+| 107 | 249 | Bon Lynn |
+| 108 | 247 | DayDreamer79 |
 | 109 | 242 | Snappy Combo |
 | 110 | 236 | Steven Craig |
 | 111 | 230 | Brandy Chinelle |
@@ -123,8 +123,8 @@
 | 115 | 215 | Ashley Green |
 | 116 | 204 | Deborah Boyce Minor |
 | 117 | 201 | Danielle Pack Lewellen |
-| 118 | 200 | Sarah Grundisch |
-| 119 | 200 | Lisa Breiding |
+| 118 | 200 | Lisa Breiding |
+| 119 | 200 | Sarah Grundisch |
 | 120 | 199 | Beverly Lynn Mills |
 | 121 | 199 | Amber Cogdill |
 | 122 | 199 | Stella |
@@ -177,9 +177,9 @@
 | 169 | 136 | Lauren Maxwell |
 | 170 | 136 | Joni Michelle Morgan |
 | 171 | 136 | Lashanda Bertram |
-| 172 | 135 | Marylin Eacker |
-| 173 | 133 | Bengy Lead |
-| 174 | 133 | Rick |
+| 172 | 135 | Rick |
+| 173 | 135 | Marylin Eacker |
+| 174 | 133 | Bengy Lead |
 | 175 | 132 | Spunky Cascadeclear |
 | 176 | 132 | Alison Waller |
 | 177 | 132 | Jeanna Mendez |
