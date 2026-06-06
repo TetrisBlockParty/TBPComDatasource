@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 00:24:15 UTC
+# Standings for team1 as of 2026-06-06 00:24:36 UTC
 
 **Total Participants:** 637
 
@@ -574,75 +574,75 @@
 | 566 | 9 | Shakmar |
 | 567 | 8 | Ferocity |
 | 568 | 8 | Rixo Blax |
-| 569 | 8 | Shawna Passwater |
-| 570 | 8 | Joseph Vs Cap |
-| 571 | 8 | Ashley Davis |
+| 569 | 8 | Tanesha Ga'sFinest Corbett |
+| 570 | 8 | jus_ry |
+| 571 | 8 | Brenda Brogden |
 | 572 | 8 | Cm |
 | 573 | 8 | Mahagony Small |
-| 574 | 8 | Caitlin Michele |
-| 575 | 8 | Tanesha Ga'sFinest Corbett |
+| 574 | 8 | Kala Miller |
+| 575 | 8 | Caitlin Michele |
 | 576 | 8 | Nerdy Twistline |
-| 577 | 8 | Kala Miller |
-| 578 | 8 | Brenda Brogden |
-| 579 | 8 | jus_ry |
-| 580 | 8 | Teresa Bean |
-| 581 | 8 | tg |
-| 582 | 8 | Chevonne Huggins |
-| 583 | 8 | Danielle DeLozier Plesec |
-| 584 | 7 | Mary2 |
-| 585 | 7 | Analesia Taylor |
-| 586 | 7 | wmedina67 |
-| 587 | 7 | Jayson |
-| 588 | 7 | Barbramerri Tarboro |
+| 577 | 8 | Joseph Vs Cap |
+| 578 | 8 | Teresa Bean |
+| 579 | 8 | tg |
+| 580 | 8 | Danielle DeLozier Plesec |
+| 581 | 8 | Chevonne Huggins |
+| 582 | 8 | Ashley Davis |
+| 583 | 8 | Shawna Passwater |
+| 584 | 7 | Lakiesha Crawford |
+| 585 | 7 | Mary2 |
+| 586 | 7 | Barbramerri Tarboro |
+| 587 | 7 | wmedina67 |
+| 588 | 7 | Shane Brucewayne |
 | 589 | 7 | whatever |
-| 590 | 7 | Lakiesha Crawford |
-| 591 | 7 | Antoinette Kidd |
-| 592 | 7 | Shane Brucewayne |
+| 590 | 7 | Antoinette Kidd |
+| 591 | 7 | Jayson |
+| 592 | 7 | Analesia Taylor |
 | 593 | 7 | Andrew Harris |
-| 594 | 6 | Jelyfish |
-| 595 | 6 | Solomon Valarie |
-| 596 | 6 | Jeffrey Barrows |
-| 597 | 6 | akosua |
-| 598 | 6 | Boricua64 |
-| 599 | 6 | Wacky Towerer |
-| 600 | 6 | Janine Hunter |
-| 601 | 6 | Daring Riserfit |
-| 602 | 6 | Novaa |
-| 603 | 6 | Lucy |
-| 604 | 6 | Wu May |
-| 605 | 6 | Gael Quintana |
-| 606 | 6 | Christopher Wallace |
-| 607 | 6 | NEM0228 |
-| 608 | 6 | Frances Davis |
-| 609 | 5 | Shona ShayShay Jones |
-| 610 | 5 | Duckey |
-| 611 | 5 | Sara |
-| 612 | 5 | Hasty Brickzone |
-| 613 | 5 | Temeshia Brooks Washington |
-| 614 | 5 | VERA DAME |
-| 615 | 5 | Lil T |
-| 616 | 5 | Rieshelda Marie White |
-| 617 | 5 | Tipsy Builderline |
-| 618 | 5 | Saucy Linkgrid |
+| 594 | 6 | Novaa |
+| 595 | 6 | Daring Riserfit |
+| 596 | 6 | akosua |
+| 597 | 6 | Boricua64 |
+| 598 | 6 | Jeffrey Barrows |
+| 599 | 6 | Jelyfish |
+| 600 | 6 | Wacky Towerer |
+| 601 | 6 | NEM0228 |
+| 602 | 6 | Frances Davis |
+| 603 | 6 | Gael Quintana |
+| 604 | 6 | Janine Hunter |
+| 605 | 6 | Wu May |
+| 606 | 6 | Solomon Valarie |
+| 607 | 6 | Lucy |
+| 608 | 6 | Christopher Wallace |
+| 609 | 5 | Andre Sanon |
+| 610 | 5 | Stephanie Zuniga Tullock |
+| 611 | 5 | Vernon Hoyt |
+| 612 | 5 | Saucy Linkgrid |
+| 613 | 5 | Tipsy Builderline |
+| 614 | 5 | Rieshelda Marie White |
+| 615 | 5 | VERA DAME |
+| 616 | 5 | Temeshia Brooks Washington |
+| 617 | 5 | pooh |
+| 618 | 5 | Jasmine Hariston-Estis |
 | 619 | 5 | Derek Beverly |
-| 620 | 5 | Jasmine Hariston-Estis |
-| 621 | 5 | Zappy Clearfit |
-| 622 | 5 | Stephanie Zuniga Tullock |
-| 623 | 5 | Chill Linkroll |
-| 624 | 5 | Tamika Fisher |
-| 625 | 5 | Shawn Himes |
-| 626 | 5 | Sheila Burnham |
-| 627 | 5 | Tito Divyn |
-| 628 | 5 | Logan Frost |
-| 629 | 5 | Andre Sanon |
-| 630 | 5 | Mommy Frank |
-| 631 | 5 | Shakuria Cortia Burney |
-| 632 | 5 | Jennifer Moore |
-| 633 | 5 | Vernon Hoyt |
-| 634 | 5 | Kidgib5 |
-| 635 | 5 | the guy |
-| 636 | 5 | DirtiestofMikes |
-| 637 | 5 | pooh |
+| 620 | 5 | Lil T |
+| 621 | 5 | Hasty Brickzone |
+| 622 | 5 | Sara |
+| 623 | 5 | Shona ShayShay Jones |
+| 624 | 5 | DirtiestofMikes |
+| 625 | 5 | Chill Linkroll |
+| 626 | 5 | the guy |
+| 627 | 5 | Kidgib5 |
+| 628 | 5 | Shakuria Cortia Burney |
+| 629 | 5 | Mommy Frank |
+| 630 | 5 | Tito Divyn |
+| 631 | 5 | Shawn Himes |
+| 632 | 5 | Tamika Fisher |
+| 633 | 5 | Zappy Clearfit |
+| 634 | 5 | Duckey |
+| 635 | 5 | Sheila Burnham |
+| 636 | 5 | Logan Frost |
+| 637 | 5 | Jennifer Moore |
 
 ---
 *Standings created by tournaments datasource generation tool*
