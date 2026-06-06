@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 12:30:17 UTC
+# Standings for team4 as of 2026-06-06 12:30:38 UTC
 
 **Total Participants:** 958
 
@@ -93,8 +93,8 @@
 | 85 | 317 | J |
 | 86 | 302 | JoLinda Dunn |
 | 87 | 301 | Маркус Вік |
-| 88 | 300 | Genag |
-| 89 | 300 | 2 kool |
+| 88 | 300 | 2 kool |
+| 89 | 300 | Genag |
 | 90 | 294 | Hen |
 | 91 | 283 | Jesse Olive |
 | 92 | 271 | Kim |

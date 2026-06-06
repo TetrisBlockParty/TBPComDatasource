@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 12:30:17 UTC
+# Standings for team1 as of 2026-06-06 12:30:38 UTC
 
 **Total Participants:** 980
 
@@ -59,9 +59,9 @@
 | 51 | 493 | Eartha Brown |
 | 52 | 482 | Cj Gorman |
 | 53 | 474 | Keeta Chickswit Scott |
-| 54 | 471 | D'Andra Stewart |
-| 55 | 469 | Sanjuro |
-| 56 | 450 | Jazzy Dashpiece |
+| 54 | 472 | Jazzy Dashpiece |
+| 55 | 471 | D'Andra Stewart |
+| 56 | 469 | Sanjuro |
 | 57 | 427 | KenpachisGirl |
 | 58 | 423 | Linzie Marie |
 | 59 | 421 | ing410 |
@@ -150,60 +150,60 @@
 | 142 | 181 | Joey Albright |
 | 143 | 179 | Kelli Couture |
 | 144 | 176 | Andre Sanon |
-| 145 | 175 | Rayshawn Cohen |
-| 146 | 171 | Boldy Liner |
-| 147 | 169 | Asha Langford |
-| 148 | 167 | Marcheta Cervantez |
-| 149 | 166 | Tarnisha Neicy Jones |
-| 150 | 163 | Mafio SO |
-| 151 | 160 | DaGuy |
-| 152 | 160 | Sara Meri |
-| 153 | 160 | Zippy Lifter |
-| 154 | 158 | Tina Mitchell |
-| 155 | 156 | Jessica Russell |
+| 145 | 176 | Nikki Hogan |
+| 146 | 175 | Rayshawn Cohen |
+| 147 | 171 | Boldy Liner |
+| 148 | 169 | Asha Langford |
+| 149 | 167 | Marcheta Cervantez |
+| 150 | 166 | Tarnisha Neicy Jones |
+| 151 | 163 | Mafio SO |
+| 152 | 160 | Zippy Lifter |
+| 153 | 160 | Sara Meri |
+| 154 | 160 | DaGuy |
+| 155 | 158 | Tina Mitchell |
 | 156 | 156 | Anthony Washington |
-| 157 | 155 | Jawaun Daniels |
-| 158 | 147 | MACHETEEDDIE513 |
-| 159 | 146 | Jai |
+| 157 | 156 | Jessica Russell |
+| 158 | 155 | Jawaun Daniels |
+| 159 | 147 | MACHETEEDDIE513 |
 | 160 | 146 | BlackQueen105 |
-| 161 | 140 | Ann Chung |
+| 161 | 146 | Jai |
 | 162 | 140 | Antoinette Jones |
-| 163 | 138 | JaClanDiah |
+| 163 | 140 | Ann Chung |
 | 164 | 138 | Lashaunda |
-| 165 | 137 | ♈️ Ariesbaby |
-| 166 | 135 | Dawn L Washington-Feuquay |
+| 165 | 138 | JaClanDiah |
+| 166 | 137 | ♈️ Ariesbaby |
 | 167 | 135 | Amber Wilson |
 | 168 | 135 | Sean White |
-| 169 | 134 | Lively Riserpiece |
-| 170 | 133 | Byron Mario Cawthon |
-| 171 | 132 | Jolly Tilefall |
-| 172 | 131 | TBABYJ |
-| 173 | 130 | Jonathan Vee Jay |
+| 169 | 135 | Dawn L Washington-Feuquay |
+| 170 | 134 | Lively Riserpiece |
+| 171 | 133 | Byron Mario Cawthon |
+| 172 | 132 | Jolly Tilefall |
+| 173 | 131 | TBABYJ |
 | 174 | 130 | Jessica Davis |
-| 175 | 130 | Emily Wright |
-| 176 | 130 | Dion Gray |
-| 177 | 130 | Rolanda Williams |
-| 178 | 127 | IThinkNot |
-| 179 | 126 | Cee Emm |
+| 175 | 130 | Rolanda Williams |
+| 176 | 130 | Jonathan Vee Jay |
+| 177 | 130 | Dion Gray |
+| 178 | 130 | Emily Wright |
+| 179 | 127 | IThinkNot |
 | 180 | 126 | Tremaine Hiler |
 | 181 | 126 | Stephen Providenti |
-| 182 | 125 | Latisha Fairley |
-| 183 | 125 | LaTonya Myers |
-| 184 | 124 | Queenie Perry |
+| 182 | 126 | Cee Emm |
+| 183 | 125 | Latisha Fairley |
+| 184 | 125 | LaTonya Myers |
 | 185 | 124 | Courtney Cicoria |
-| 186 | 123 | Lisa Fletcher |
-| 187 | 122 | Miera Nicole |
-| 188 | 121 | Treneil Daffin |
+| 186 | 124 | Queenie Perry |
+| 187 | 123 | Lisa Fletcher |
+| 188 | 122 | Miera Nicole |
 | 189 | 121 | Tiana Monique |
-| 190 | 120 | xXEKUNXx |
-| 191 | 120 | Nerdy Blockpiece |
+| 190 | 121 | Treneil Daffin |
+| 191 | 120 | xXEKUNXx |
 | 192 | 120 | Spicy Risepiece |
 | 193 | 120 | Saucy Tile |
-| 194 | 119 | ELM |
-| 195 | 119 | Christina Rebecca |
-| 196 | 118 | Hasty Pivoty |
-| 197 | 117 | 신재호 |
-| 198 | 116 | Nikki Hogan |
+| 194 | 120 | Nerdy Blockpiece |
+| 195 | 119 | ELM |
+| 196 | 119 | Christina Rebecca |
+| 197 | 118 | Hasty Pivoty |
+| 198 | 117 | 신재호 |
 | 199 | 116 | Kelvin Cook |
 | 200 | 115 | Guy Incognito |
 | 201 | 114 | pooh |
