@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 10:40:16 UTC
+# Standings for team4 as of 2026-06-06 10:40:38 UTC
 
 **Total Participants:** 929
 
@@ -73,8 +73,8 @@
 | 65 | 399 | Erin Figone |
 | 66 | 395 | Melissa WC |
 | 67 | 392 | Kay |
-| 68 | 392 | Blayne Kole |
-| 69 | 392 | Dheeh Robles |
+| 68 | 392 | Dheeh Robles |
+| 69 | 392 | Blayne Kole |
 | 70 | 383 | Crissy Hoffman |
 | 71 | 378 | Lisa Garcia |
 | 72 | 372 | Real Talk Vibes |
@@ -82,8 +82,8 @@
 | 74 | 347 | Nikki Fuller Johnson |
 | 75 | 346 | Alexis Cor |
 | 76 | 333 | Alexandria Frazier |
-| 77 | 326 | Jason Allen |
-| 78 | 326 | Cherry |
+| 77 | 326 | Cherry |
+| 78 | 326 | Jason Allen |
 | 79 | 321 | woopa 716 |
 | 80 | 320 | DexterDobbins |
 | 81 | 317 | J |
@@ -110,31 +110,31 @@
 | 102 | 207 | Leigh Pierce |
 | 103 | 203 | Patrick Alley |
 | 104 | 201 | Renee Sapp |
-| 105 | 200 | Leah Gorsuch |
-| 106 | 195 | Colin |
+| 105 | 200 | Esther Hadassah |
+| 106 | 200 | Leah Gorsuch |
 | 107 | 195 | Sean Mccleary |
-| 108 | 194 | Chiquita Blue |
+| 108 | 195 | Colin |
 | 109 | 194 | Lisa lisa |
-| 110 | 193 | Tiffany Bunker-Hill |
-| 111 | 192 | Gorica Prusina |
-| 112 | 184 | Giggly Tilt |
-| 113 | 183 | Tara Delay Hill |
-| 114 | 182 | blockhead |
-| 115 | 182 | Scamp Jones |
-| 116 | 180 | Shmeedo |
-| 117 | 179 | Anna Gribble |
-| 118 | 178 | Tamara Triplet |
-| 119 | 177 | Tammy June |
-| 120 | 174 | Kimyatta Cavin |
-| 121 | 169 | Tiffany Smith |
-| 122 | 167 | Spicy Chicken |
-| 123 | 167 | Damon Gaston |
-| 124 | 166 | Aramat |
-| 125 | 164 | QueenLi86 |
-| 126 | 161 | matt |
-| 127 | 160 | Littlebrat |
-| 128 | 160 | Tipsy Builderline |
-| 129 | 160 | Esther Hadassah |
+| 110 | 194 | Chiquita Blue |
+| 111 | 193 | Tiffany Bunker-Hill |
+| 112 | 192 | Gorica Prusina |
+| 113 | 184 | Giggly Tilt |
+| 114 | 183 | Tara Delay Hill |
+| 115 | 182 | blockhead |
+| 116 | 182 | Scamp Jones |
+| 117 | 180 | Shmeedo |
+| 118 | 179 | Anna Gribble |
+| 119 | 178 | Tamara Triplet |
+| 120 | 177 | Tammy June |
+| 121 | 174 | Kimyatta Cavin |
+| 122 | 169 | Tiffany Smith |
+| 123 | 167 | Spicy Chicken |
+| 124 | 167 | Damon Gaston |
+| 125 | 166 | Aramat |
+| 126 | 164 | QueenLi86 |
+| 127 | 161 | matt |
+| 128 | 160 | Littlebrat |
+| 129 | 160 | Tipsy Builderline |
 | 130 | 160 | Kitsune Bi |
 | 131 | 159 | iiPurgeV2 |
 | 132 | 157 | Devinlee Brown |
