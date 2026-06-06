@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 11:52:16 UTC
+# Standings for team4 as of 2026-06-06 11:52:40 UTC
 
 **Total Participants:** 947
 
@@ -474,24 +474,24 @@
 | 466 | 44 | Ricky Colvin |
 | 467 | 44 | Danielle Sulano |
 | 468 | 44 | EJ Frazier |
-| 469 | 44 | pussface |
-| 470 | 43 | Swanky Snapgrid |
-| 471 | 43 | Purple Queen |
-| 472 | 43 | Tactical_B |
-| 473 | 43 | Silly Fallzone |
-| 474 | 43 | Ben Figueroa |
-| 475 | 42 | Mrs |
-| 476 | 42 | MrsAddams724 |
-| 477 | 42 | Happy Shatterfit |
-| 478 | 42 | Melissa Lowe |
-| 479 | 42 | ShaniP |
-| 480 | 42 | Stacy Brown |
-| 481 | 42 | Snappy Patternfall |
-| 482 | 42 | Cail |
-| 483 | 42 | shonaberry |
-| 484 | 42 | Danielle Porter |
-| 485 | 42 | Jeni |
-| 486 | 42 | Alicia Cook |
+| 469 | 44 | Alicia Cook |
+| 470 | 44 | pussface |
+| 471 | 43 | Swanky Snapgrid |
+| 472 | 43 | Purple Queen |
+| 473 | 43 | Tactical_B |
+| 474 | 43 | Silly Fallzone |
+| 475 | 43 | Ben Figueroa |
+| 476 | 42 | Mrs |
+| 477 | 42 | MrsAddams724 |
+| 478 | 42 | Happy Shatterfit |
+| 479 | 42 | Melissa Lowe |
+| 480 | 42 | ShaniP |
+| 481 | 42 | Stacy Brown |
+| 482 | 42 | Snappy Patternfall |
+| 483 | 42 | Cail |
+| 484 | 42 | shonaberry |
+| 485 | 42 | Danielle Porter |
+| 486 | 42 | Jeni |
 | 487 | 41 | Lord Solrac |
 | 488 | 41 | chefjaydawg |
 | 489 | 41 | Solace Grace |
@@ -511,8 +511,8 @@
 | 503 | 40 | crobb77 |
 | 504 | 40 | Bumpy Morris |
 | 505 | 40 | Mexican130 |
-| 506 | 40 | Kena T. Tanner |
-| 507 | 40 | Lady Dolphin |
+| 506 | 40 | Lady Dolphin |
+| 507 | 40 | Kena T. Tanner |
 | 508 | 39 | Plucky Shatterfit |
 | 509 | 39 | Anthony Kollar |
 | 510 | 39 | David Lay |
