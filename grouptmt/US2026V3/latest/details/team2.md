@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 21:45:18 UTC
+# Standings for team2 as of 2026-06-06 21:46:17 UTC
 
 **Total Participants:** 1392
 
@@ -42,7 +42,7 @@
 | 34 | 1800 | Quirky Catcher |
 | 35 | 1740 | Ashley Miller |
 | 36 | 1678 | Betty Barrett |
-| 37 | 1638 | Frilly Match |
+| 37 | 1658 | Frilly Match |
 | 38 | 1537 | Bea Bee |
 | 39 | 1510 | Shandrea Crawford |
 | 40 | 1501 | Monica Galli |
@@ -76,8 +76,8 @@
 | 68 | 732 | Amber Salazar |
 | 69 | 726 | Sarah Griffey |
 | 70 | 724 | Jazzy Faller |
-| 71 | 714 | Andre Love |
-| 72 | 711 | Hoppy Rotate |
+| 71 | 715 | Hoppy Rotate |
+| 72 | 714 | Andre Love |
 | 73 | 702 | Charley Bedford |
 | 74 | 700 | Denise Potter |
 | 75 | 694 | Angie Mccain |
@@ -372,18 +372,18 @@
 | 364 | 103 | Rachel M. Farnsworth |
 | 365 | 103 | Elizabeth Kline |
 | 366 | 102 | Boldy Fitclear |
-| 367 | 102 | Tammy Roth |
-| 368 | 102 | Alissa Ary |
-| 369 | 101 | Jumpy Matchbuilder |
-| 370 | 101 | Jumpy Dashpiece |
-| 371 | 101 | Cristi Doris |
-| 372 | 101 | Cassandra Milner |
-| 373 | 101 | Jef Wassom |
-| 374 | 100 | Naomi Walker |
-| 375 | 100 | Leticia Tillman |
-| 376 | 100 | Alice Petterborg Barberich |
-| 377 | 100 | Thomas Tyrone |
-| 378 | 100 | Gabrielle Wilson |
+| 367 | 102 | Gabrielle Wilson |
+| 368 | 102 | Tammy Roth |
+| 369 | 102 | Alissa Ary |
+| 370 | 101 | Jumpy Matchbuilder |
+| 371 | 101 | Jumpy Dashpiece |
+| 372 | 101 | Cristi Doris |
+| 373 | 101 | Cassandra Milner |
+| 374 | 101 | Jef Wassom |
+| 375 | 100 | Naomi Walker |
+| 376 | 100 | Leticia Tillman |
+| 377 | 100 | Alice Petterborg Barberich |
+| 378 | 100 | Thomas Tyrone |
 | 379 | 99 | Lively Curve |
 | 380 | 99 | Melissa Abbott |
 | 381 | 99 | Francesca Wagenhoffer |
@@ -598,23 +598,23 @@
 | 590 | 61 | Dame Smith |
 | 591 | 61 | Damion Morrison |
 | 592 | 61 | Rebekah Holland |
-| 593 | 61 | Bubbly Dash |
-| 594 | 60 | Donutz |
-| 595 | 60 | Yari |
-| 596 | 60 | Speedy Gridder |
-| 597 | 60 | Adam Latin |
-| 598 | 60 | ShiverMeSplinter |
-| 599 | 60 | Emily Carns |
-| 600 | 60 | Snippy Shifter |
-| 601 | 60 | Camilo Moreno |
-| 602 | 60 | Jamin |
-| 603 | 60 | Clever Fallmatch |
+| 593 | 61 | Clever Fallmatch |
+| 594 | 61 | Bubbly Dash |
+| 595 | 60 | Donutz |
+| 596 | 60 | Yari |
+| 597 | 60 | Speedy Gridder |
+| 598 | 60 | Adam Latin |
+| 599 | 60 | ShiverMeSplinter |
+| 600 | 60 | Emily Carns |
+| 601 | 60 | Snippy Shifter |
+| 602 | 60 | Camilo Moreno |
+| 603 | 60 | Jamin |
 | 604 | 60 | Dapper Riser |
 | 605 | 60 | Tonya Greger |
 | 606 | 60 | Nikki Grant |
 | 607 | 59 | April Addis |
-| 608 | 59 | LaicoosBargains Ln |
-| 609 | 59 | Carrie Smith Negron |
+| 608 | 59 | Carrie Smith Negron |
+| 609 | 59 | LaicoosBargains Ln |
 | 610 | 59 | Funko Dave |
 | 611 | 59 | Sandra Rotton Bragg |
 | 612 | 59 | Leigh Wilkerson |
