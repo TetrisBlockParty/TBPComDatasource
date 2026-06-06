@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 21:00:17 UTC
+# Standings for team1 as of 2026-06-06 21:00:38 UTC
 
 **Total Participants:** 1159
 
@@ -132,12 +132,12 @@
 | 124 | 280 | Tammye Turner |
 | 125 | 278 | Shontanese Adams |
 | 126 | 275 | Chris Sladoje |
-| 127 | 275 | Tamara N Lee |
-| 128 | 275 | Jawaun Daniels |
+| 127 | 275 | Jawaun Daniels |
+| 128 | 275 | Tamara N Lee |
 | 129 | 274 | Tonya Lee Sanders |
 | 130 | 273 | Dee McCool |
-| 131 | 273 | MamaBear |
-| 132 | 271 | Ashley MyBeauty Daniels |
+| 131 | 273 | Ashley MyBeauty Daniels |
+| 132 | 273 | MamaBear |
 | 133 | 270 | Jo NewmindNewfocus Bell |
 | 134 | 261 | Mimi 1.0 |
 | 135 | 259 | Karebear |
@@ -502,8 +502,8 @@
 | 494 | 59 | Guard Up |
 | 495 | 59 | Keith Johnson |
 | 496 | 59 | Darrel Pemberton |
-| 497 | 59 | Kortney Adams |
-| 498 | 59 | Kimberly Anderson |
+| 497 | 59 | Kimberly Anderson |
+| 498 | 59 | Kortney Adams |
 | 499 | 58 | Bambi Love |
 | 500 | 58 | Brandy Way |
 | 501 | 58 | Dede Tate |
@@ -511,94 +511,94 @@
 | 503 | 58 | Kimberly Susan Privette |
 | 504 | 58 | FunTime |
 | 505 | 57 | Anastasia |
-| 506 | 57 | Dandy Brickfit |
-| 507 | 57 | Letrishia Andrews |
-| 508 | 57 | Faith Armone |
+| 506 | 57 | Letrishia Andrews |
+| 507 | 57 | Faith Armone |
+| 508 | 57 | Dandy Brickfit |
 | 509 | 56 | Nora Mahmoud |
-| 510 | 56 | Sugar Foot |
+| 510 | 56 | Lisa Ivy |
 | 511 | 56 | Lakiesha Crawford |
-| 512 | 55 | Rolanda Williams |
-| 513 | 55 | Raquel Ortiz |
-| 514 | 55 | Dreamzzz |
-| 515 | 55 | nameno |
-| 516 | 55 | KoolKimJay |
-| 517 | 55 | Twisty Brickfit |
-| 518 | 55 | Terrie |
-| 519 | 55 | Kyle Franklin |
-| 520 | 55 | Daring Blockclear |
-| 521 | 54 | Melissa Olvera |
-| 522 | 54 | Ryan Runyan |
-| 523 | 54 | Kashh |
-| 524 | 54 | Gbnola |
-| 525 | 54 | Ace Hardware |
-| 526 | 54 | Boldy Pivoty |
-| 527 | 54 | Elizabeth Hopkins |
-| 528 | 54 | John Spath |
-| 529 | 54 | Aaron Hartmann |
-| 530 | 53 | Saucy Faller |
+| 512 | 56 | Sugar Foot |
+| 513 | 55 | nameno |
+| 514 | 55 | Daring Blockclear |
+| 515 | 55 | Kyle Franklin |
+| 516 | 55 | Dreamzzz |
+| 517 | 55 | Raquel Ortiz |
+| 518 | 55 | Rolanda Williams |
+| 519 | 55 | KoolKimJay |
+| 520 | 55 | Twisty Brickfit |
+| 521 | 55 | Terrie |
+| 522 | 54 | Gbnola |
+| 523 | 54 | Aaron Hartmann |
+| 524 | 54 | Kashh |
+| 525 | 54 | John Spath |
+| 526 | 54 | Melissa Olvera |
+| 527 | 54 | Ryan Runyan |
+| 528 | 54 | Elizabeth Hopkins |
+| 529 | 54 | Ace Hardware |
+| 530 | 54 | Boldy Pivoty |
 | 531 | 53 | Clever Wrecker |
-| 532 | 53 | Morenita Rodriguez |
-| 533 | 53 | Barbramerri Tarboro |
-| 534 | 53 | Cortrell Foster |
-| 535 | 53 | Bold Clusterer |
-| 536 | 52 | Sha Anderson |
+| 532 | 53 | Saucy Faller |
+| 533 | 53 | Morenita Rodriguez |
+| 534 | 53 | Barbramerri Tarboro |
+| 535 | 53 | Cortrell Foster |
+| 536 | 53 | Bold Clusterer |
 | 537 | 52 | Earl Williams |
-| 538 | 52 | Loopy Risepiece |
-| 539 | 52 | Sherri Keys |
-| 540 | 52 | Giggly Tiltbuilder |
-| 541 | 52 | Danny Talbot |
-| 542 | 52 | Shea Ladynick Henderson |
-| 543 | 52 | Gabriela Hernandez |
-| 544 | 51 | Shanjerrica Taylor Rosell |
-| 545 | 51 | Desi Guerra |
-| 546 | 51 | Smiley Tilebuilder |
-| 547 | 51 | BrettanMary Adkins |
+| 538 | 52 | Sha Anderson |
+| 539 | 52 | Loopy Risepiece |
+| 540 | 52 | Sherri Keys |
+| 541 | 52 | Shea Ladynick Henderson |
+| 542 | 52 | Gabriela Hernandez |
+| 543 | 52 | Danny Talbot |
+| 544 | 52 | Giggly Tiltbuilder |
+| 545 | 51 | Casey Chapman |
+| 546 | 51 | messyboots |
+| 547 | 51 | Desi Guerra |
 | 548 | 51 | Poppy Smasher |
-| 549 | 51 | messyboots |
-| 550 | 51 | Casey Chapman |
-| 551 | 50 | Jes Marie |
-| 552 | 50 | Tramaine Crockrum |
-| 553 | 50 | Nisha Sunshine Jenkins |
-| 554 | 50 | Giggy Holder |
-| 555 | 50 | Amaadi Ward |
-| 556 | 50 | MsBobby Patrick |
-| 557 | 50 | Rande Smith |
-| 558 | 50 | Meow Meow |
-| 559 | 50 | Kanary Karotz |
-| 560 | 50 | Christopher Shaw-Black |
+| 549 | 51 | BrettanMary Adkins |
+| 550 | 51 | Shanjerrica Taylor Rosell |
+| 551 | 51 | Smiley Tilebuilder |
+| 552 | 50 | MsBobby Patrick |
+| 553 | 50 | Tramaine Crockrum |
+| 554 | 50 | Nisha Sunshine Jenkins |
+| 555 | 50 | Giggy Holder |
+| 556 | 50 | Meow Meow |
+| 557 | 50 | Kanary Karotz |
+| 558 | 50 | Christopher Shaw-Black |
+| 559 | 50 | Teresa Yanira Cepeda |
+| 560 | 50 | Victoria Smith |
 | 561 | 50 | Denell Sims |
-| 562 | 50 | Victoria Smith |
-| 563 | 50 | Teresa Yanira Cepeda |
-| 564 | 49 | Speedy Stacky |
-| 565 | 49 | SnazzyIvy |
-| 566 | 49 | Sallie Sanborn |
-| 567 | 49 | Bunnie Celtavini |
-| 568 | 49 | Chereese Harris |
-| 569 | 49 | Stronger Wiser Better |
-| 570 | 49 | Saucy Crusher |
-| 571 | 49 | Blocksy |
-| 572 | 49 | Parris Wright |
-| 573 | 49 | Teisha Scott |
-| 574 | 49 | Holly Baker |
-| 575 | 49 | Kyle Conley |
-| 576 | 48 | Comedian Prince Paul |
-| 577 | 48 | Mom3granny2 |
-| 578 | 48 | Clever Fitblock |
-| 579 | 48 | Stephanie Ellis |
+| 562 | 50 | Jes Marie |
+| 563 | 50 | Rande Smith |
+| 564 | 50 | Amaadi Ward |
+| 565 | 49 | Parris Wright |
+| 566 | 49 | SnazzyIvy |
+| 567 | 49 | Chereese Harris |
+| 568 | 49 | Kyle Conley |
+| 569 | 49 | Holly Baker |
+| 570 | 49 | Blocksy |
+| 571 | 49 | Sallie Sanborn |
+| 572 | 49 | Teisha Scott |
+| 573 | 49 | Speedy Stacky |
+| 574 | 49 | Saucy Crusher |
+| 575 | 49 | Bunnie Celtavini |
+| 576 | 49 | Stronger Wiser Better |
+| 577 | 48 | Comedian Prince Paul |
+| 578 | 48 | Mom3granny2 |
+| 579 | 48 | Clever Fitblock |
 | 580 | 48 | LoveLee |
-| 581 | 48 | Eli Delao |
-| 582 | 48 | Mommy Frank |
-| 583 | 48 | Bubbly Crawler |
-| 584 | 48 | Wild Out Nai |
-| 585 | 47 | Octavia Bsb Johnson |
+| 581 | 48 | Wild Out Nai |
+| 582 | 48 | Stephanie Ellis |
+| 583 | 48 | Eli Delao |
+| 584 | 48 | Mommy Frank |
+| 585 | 48 | Bubbly Crawler |
 | 586 | 47 | Kàrma Lee |
-| 587 | 47 | Mami Badd |
-| 588 | 47 | Lady Scorpio |
-| 589 | 47 | Lisa Ivy |
-| 590 | 47 | Bubbly Slammer |
-| 591 | 47 | Kevin Turner |
-| 592 | 47 | Tushama Cheris Okraku |
-| 593 | 47 | RylonJones |
+| 587 | 47 | Octavia Bsb Johnson |
+| 588 | 47 | Bubbly Slammer |
+| 589 | 47 | Tushama Cheris Okraku |
+| 590 | 47 | Kevin Turner |
+| 591 | 47 | RylonJones |
+| 592 | 47 | Mami Badd |
+| 593 | 47 | Lady Scorpio |
 | 594 | 47 | Tyrone Porter |
 | 595 | 47 | Christopher Dreamsareality McEachin |
 | 596 | 46 | Felicia Dungey |
