@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 19:20:17 UTC
+# Standings for team2 as of 2026-06-06 19:20:39 UTC
 
 **Total Participants:** 1336
 
@@ -874,39 +874,39 @@
 | 866 | 30 | Deena-Neal Peryer |
 | 867 | 30 | YAKO |
 | 868 | 30 | Tina Kinney |
-| 869 | 30 | Christi Hooper |
-| 870 | 30 | Lakeisha Ryder |
-| 871 | 30 | Dee |
-| 872 | 30 | Rubics cube |
-| 873 | 30 | Brave Blockmatch |
-| 874 | 30 | Goofy Patternfit |
-| 875 | 30 | Gammawms |
-| 876 | 30 | Abby Dexter |
-| 877 | 30 | Tiffany Hassanshahi |
-| 878 | 30 | Frothy Roll |
-| 879 | 30 | Tiffany Ann |
-| 880 | 29 | Courtney Elizabeth Hartnagel |
-| 881 | 29 | Amy Chauvin |
-| 882 | 29 | Darla Ragsdale |
-| 883 | 29 | Seamus |
-| 884 | 29 | Daring Pivotfall |
-| 885 | 29 | Trisha Farley |
-| 886 | 29 | Michii |
-| 887 | 29 | Michele Stewart |
-| 888 | 29 | Violet Olivares |
-| 889 | 29 | Chris Delauro |
-| 890 | 29 | Samantha LeBlanc |
-| 891 | 29 | Brandon Ray Holt |
-| 892 | 29 | Brandy Westfall-panchari |
-| 893 | 29 | Marcia Davis |
-| 894 | 28 | Dolly |
-| 895 | 28 | T-Rex Ricky Lee Dieumegarde Jr. |
+| 869 | 30 | Abby Dexter |
+| 870 | 30 | Christi Hooper |
+| 871 | 30 | Frothy Roll |
+| 872 | 30 | Tiffany Hassanshahi |
+| 873 | 30 | Mikaela Byrd |
+| 874 | 30 | Gammawms |
+| 875 | 30 | Goofy Patternfit |
+| 876 | 30 | Brave Blockmatch |
+| 877 | 30 | Tiffany Ann |
+| 878 | 30 | Lakeisha Ryder |
+| 879 | 30 | Rubics cube |
+| 880 | 30 | Dee |
+| 881 | 29 | Trisha Farley |
+| 882 | 29 | Daring Pivotfall |
+| 883 | 29 | Darla Ragsdale |
+| 884 | 29 | Seamus |
+| 885 | 29 | Amy Chauvin |
+| 886 | 29 | Courtney Elizabeth Hartnagel |
+| 887 | 29 | Samantha LeBlanc |
+| 888 | 29 | Michele Stewart |
+| 889 | 29 | Violet Olivares |
+| 890 | 29 | Chris Delauro |
+| 891 | 29 | Michii |
+| 892 | 29 | Brandon Ray Holt |
+| 893 | 29 | Brandy Westfall-panchari |
+| 894 | 29 | Marcia Davis |
+| 895 | 28 | Dolly |
 | 896 | 28 | Courtney Freeman |
 | 897 | 28 | Chirpy Tower |
 | 898 | 28 | Frisky Twist |
 | 899 | 28 | Snippy Brickzone |
 | 900 | 28 | Stacey Peters |
-| 901 | 28 | Mikaela Byrd |
+| 901 | 28 | T-Rex Ricky Lee Dieumegarde Jr. |
 | 902 | 28 | Bennie Farbo |
 | 903 | 28 | Pjrobinsonnn |
 | 904 | 28 | Mona Wagner |
