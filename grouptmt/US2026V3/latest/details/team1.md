@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 16:32:17 UTC
+# Standings for team1 as of 2026-06-06 16:32:39 UTC
 
 **Total Participants:** 1058
 
@@ -348,10 +348,10 @@
 | 340 | 79 | Bambi Johnson |
 | 341 | 79 | Loopy Tiler |
 | 342 | 79 | Montréal Mars |
-| 343 | 79 | Douglas Price |
-| 344 | 79 | CJ Robinson |
-| 345 | 78 | Shameka Tiffany |
-| 346 | 78 | HarleyJane |
+| 343 | 79 | HarleyJane |
+| 344 | 79 | Douglas Price |
+| 345 | 79 | CJ Robinson |
+| 346 | 78 | Shameka Tiffany |
 | 347 | 78 | KeeKee Williams |
 | 348 | 77 | Kate Hancock Malicek |
 | 349 | 77 | C Lo Green |

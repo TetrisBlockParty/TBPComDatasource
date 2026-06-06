@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 16:32:17 UTC
+# Standings for team2 as of 2026-06-06 16:32:39 UTC
 
 **Total Participants:** 1252
 
@@ -191,18 +191,18 @@
 | 183 | 184 | Jessica Lynn |
 | 184 | 183 | Pam Bauder Ludwig |
 | 185 | 181 | Jat |
-| 186 | 179 | Chipper Stackbuilder |
-| 187 | 177 | Xandrea Jones |
-| 188 | 176 | Glitzy Base |
-| 189 | 175 | Lashanda Bertram |
-| 190 | 174 | Nettrainer |
-| 191 | 173 | Becca Marie |
+| 186 | 180 | Flashy Basegrid |
+| 187 | 179 | Chipper Stackbuilder |
+| 188 | 177 | Xandrea Jones |
+| 189 | 176 | Glitzy Base |
+| 190 | 175 | Lashanda Bertram |
+| 191 | 174 | Nettrainer |
 | 192 | 173 | Amie Marks |
-| 193 | 172 | Carolyn McNaughton |
-| 194 | 171 | Melissa Nash |
-| 195 | 170 | Flashy Basegrid |
-| 196 | 170 | Harper |
-| 197 | 170 | phamous1 |
+| 193 | 173 | Becca Marie |
+| 194 | 172 | Carolyn McNaughton |
+| 195 | 171 | Melissa Nash |
+| 196 | 170 | phamous1 |
+| 197 | 170 | Harper |
 | 198 | 169 | Sully |
 | 199 | 168 | Danielle Lyons |
 | 200 | 168 | Spicy Risegrid |
@@ -1005,96 +1005,96 @@
 | 997 | 18 | Glitzy Stackbuilder |
 | 998 | 18 | Daring Blockline |
 | 999 | 18 | Alison Welsh |
-| 1000 | 18 | Taran Evans |
-| 1001 | 18 | Cyrus Ramirez |
+| 1000 | 18 | Cyrus Ramirez |
+| 1001 | 18 | Taran Evans |
 | 1002 | 18 | Cuca Perez |
 | 1003 | 18 | Debbie Embry |
 | 1004 | 18 | Nicole Treadway |
 | 1005 | 18 | FabTeach |
 | 1006 | 18 | Lexi Chouinard |
-| 1007 | 18 | Kris Lea |
-| 1008 | 18 | Tiffany Heether |
-| 1009 | 18 | Aaron Jones |
-| 1010 | 18 | Adrian Alvarez |
-| 1011 | 17 | Amanda Hamacher |
-| 1012 | 17 | Dena Cudjo |
-| 1013 | 17 | Shaylee Haltiner |
-| 1014 | 17 | Staci Carl |
-| 1015 | 17 | Kelly Christine Trimmer |
-| 1016 | 17 | Snappy Blockbuilder |
-| 1017 | 17 | Smiley Edgefit |
-| 1018 | 17 | Rosie |
-| 1019 | 16 | LK |
+| 1007 | 18 | wutrwerdz |
+| 1008 | 18 | Kris Lea |
+| 1009 | 18 | Tiffany Heether |
+| 1010 | 18 | Aaron Jones |
+| 1011 | 18 | Adrian Alvarez |
+| 1012 | 17 | Amanda Hamacher |
+| 1013 | 17 | Dena Cudjo |
+| 1014 | 17 | Shaylee Haltiner |
+| 1015 | 17 | Staci Carl |
+| 1016 | 17 | Kelly Christine Trimmer |
+| 1017 | 17 | Snappy Blockbuilder |
+| 1018 | 17 | Smiley Edgefit |
+| 1019 | 17 | Rosie |
 | 1020 | 16 | Renee Craig |
-| 1021 | 16 | Yvonne Rodriguez |
-| 1022 | 16 | Jennifer M Mitchell |
-| 1023 | 16 | wutrwerdz |
-| 1024 | 16 | Matthew Black |
-| 1025 | 16 | JesseJo |
+| 1021 | 16 | JesseJo |
+| 1022 | 16 | Matthew Black |
+| 1023 | 16 | LK |
+| 1024 | 16 | Yvonne Rodriguez |
+| 1025 | 16 | Peppy Piececlear |
 | 1026 | 16 | Ashley Gracelynn Tiner |
-| 1027 | 16 | Kaylyn Wickham |
-| 1028 | 16 | Elliot |
-| 1029 | 16 | Jeremy Monceaux |
-| 1030 | 16 | Peppy Piececlear |
-| 1031 | 15 | Lisa Marie |
-| 1032 | 15 | Christina Whitehead |
+| 1027 | 16 | Jeremy Monceaux |
+| 1028 | 16 | Kaylyn Wickham |
+| 1029 | 16 | Elliot |
+| 1030 | 16 | Jennifer M Mitchell |
+| 1031 | 15 | Monique Williams |
+| 1032 | 15 | Lisa Marie |
 | 1033 | 15 | Timone907 |
-| 1034 | 15 | Linda Jeanne Knop |
-| 1035 | 15 | Nicole Plummer |
-| 1036 | 15 | Shannie |
-| 1037 | 15 | CowboyChalie |
-| 1038 | 15 | sally |
-| 1039 | 15 | Daring Pivotfall |
-| 1040 | 15 | Jacqueline Leigh Zuzinec |
-| 1041 | 15 | GiGi Cool |
-| 1042 | 15 | Connie McCoy |
-| 1043 | 15 | Amy Hahn Nickels |
-| 1044 | 15 | Samantha |
-| 1045 | 15 | Christine Ann Eras |
-| 1046 | 15 | Dandy Column |
-| 1047 | 15 | Julie Vargas |
-| 1048 | 15 | Crafty Slice |
-| 1049 | 15 | Cheery Tilefall |
-| 1050 | 15 | Twisty Patternblock |
-| 1051 | 15 | Monique Williams |
-| 1052 | 15 | Poppy Slice |
-| 1053 | 14 | Paula Smith |
-| 1054 | 14 | Piper Michael |
-| 1055 | 14 | ReiRei |
-| 1056 | 14 | Lively Liner |
-| 1057 | 14 | Randi Moore |
-| 1058 | 14 | MiMi’26 |
-| 1059 | 14 | Symmy Norton |
-| 1060 | 14 | Beaglemom |
-| 1061 | 14 | Michele Choate |
-| 1062 | 14 | Poppy Zonepiece |
-| 1063 | 14 | Christopher Pulley |
-| 1064 | 14 | Bubbly Risebuilder |
-| 1065 | 14 | COWBOY |
-| 1066 | 14 | Buffy Diane Blake |
-| 1067 | 14 | John Sewell |
+| 1034 | 15 | Nicole Plummer |
+| 1035 | 15 | Shannie |
+| 1036 | 15 | CowboyChalie |
+| 1037 | 15 | Daring Pivotfall |
+| 1038 | 15 | Jacqueline Leigh Zuzinec |
+| 1039 | 15 | GiGi Cool |
+| 1040 | 15 | Connie McCoy |
+| 1041 | 15 | Amy Hahn Nickels |
+| 1042 | 15 | Samantha |
+| 1043 | 15 | Christine Ann Eras |
+| 1044 | 15 | Dandy Column |
+| 1045 | 15 | Crafty Slice |
+| 1046 | 15 | Julie Vargas |
+| 1047 | 15 | Twisty Patternblock |
+| 1048 | 15 | Linda Jeanne Knop |
+| 1049 | 15 | Christina Whitehead |
+| 1050 | 15 | Poppy Slice |
+| 1051 | 15 | Cheery Tilefall |
+| 1052 | 15 | sally |
+| 1053 | 14 | MiMi’26 |
+| 1054 | 14 | Flex |
+| 1055 | 14 | Bubbly Risebuilder |
+| 1056 | 14 | Randi Moore |
+| 1057 | 14 | Piper Michael |
+| 1058 | 14 | Buffy Diane Blake |
+| 1059 | 14 | ReiRei |
+| 1060 | 14 | Symmy Norton |
+| 1061 | 14 | John Sewell |
+| 1062 | 14 | BlockBreaker |
+| 1063 | 14 | Michele Choate |
+| 1064 | 14 | Christopher Pulley |
+| 1065 | 14 | Poppy Zonepiece |
+| 1066 | 14 | Lively Liner |
+| 1067 | 14 | COWBOY |
 | 1068 | 14 | Spicy Enchilada |
-| 1069 | 14 | Tina Carr |
-| 1070 | 14 | Anthony Kordich |
-| 1071 | 14 | BlockBreaker |
-| 1072 | 14 | Flex |
-| 1073 | 13 | Christina Michelle Wilson |
+| 1069 | 14 | Beaglemom |
+| 1070 | 14 | Tina Carr |
+| 1071 | 14 | Anthony Kordich |
+| 1072 | 14 | Paula Smith |
+| 1073 | 13 | latte |
 | 1074 | 13 | Tetris |
-| 1075 | 13 | Bad Juju |
-| 1076 | 13 | Jill Gelhausen |
-| 1077 | 13 | Torb |
-| 1078 | 13 | latte |
-| 1079 | 13 | Trena Sapp |
+| 1075 | 13 | Aldotfus Williams |
+| 1076 | 13 | Bad Juju |
+| 1077 | 13 | Jill Gelhausen |
+| 1078 | 13 | Angelique Matzke Starns |
+| 1079 | 13 | Christina Michelle Wilson |
 | 1080 | 13 | Deborah Fowler |
 | 1081 | 13 | Witty Clearbuilder |
 | 1082 | 13 | Cristy Ayala |
 | 1083 | 13 | Dreamy Wipepiece |
-| 1084 | 13 | Aldotfus Williams |
-| 1085 | 13 | Tara Feineis |
-| 1086 | 13 | Angelique Matzke Starns |
-| 1087 | 12 | Ashley Wolford |
+| 1084 | 13 | Tara Feineis |
+| 1085 | 13 | Torb |
+| 1086 | 13 | Trena Sapp |
+| 1087 | 12 | Sindy08 |
 | 1088 | 12 | Quirky Brickroll |
-| 1089 | 12 | Sindy08 |
+| 1089 | 12 | Ashley Wolford |
 | 1090 | 12 | TiffTaff |
 | 1091 | 12 | Maureen MomtoDolores GeorgeBrian |
 | 1092 | 12 | Jay King |
