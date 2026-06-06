@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 11:30:39 UTC
+# Standings for team2 as of 2026-06-06 11:31:17 UTC
 
 **Total Participants:** 1116
 
@@ -13,7 +13,7 @@
 | 5 | 6045 | Morgann McDaniel |
 | 6 | 5987 | Tim Ix |
 | 7 | 5653 | A.j. Langley |
-| 8 | 5108 | Puce guide 9156 |
+| 8 | 5416 | Puce guide 9156 |
 | 9 | 5081 | Crystalin Heath Lewis |
 | 10 | 4600 | Mocha |
 | 11 | 4504 | Cori Keberlein |
@@ -39,15 +39,15 @@
 | 31 | 1598 | Angie BBlock |
 | 32 | 1455 | Sean Rippa |
 | 33 | 1417 | Bea Bee |
-| 34 | 1369 | Spunky Clicker |
-| 35 | 1335 | Christina Jambard Sampier |
-| 36 | 1206 | Happy Pivotfall |
-| 37 | 1201 | Monica Galli |
-| 38 | 1128 | Jennifer Corder |
-| 39 | 1114 | Logan Basham |
-| 40 | 1031 | DarkHorse |
-| 41 | 1027 | Frilly Match |
-| 42 | 1004 | Aubree Richard |
+| 34 | 1382 | Aubree Richard |
+| 35 | 1369 | Spunky Clicker |
+| 36 | 1335 | Christina Jambard Sampier |
+| 37 | 1206 | Happy Pivotfall |
+| 38 | 1201 | Monica Galli |
+| 39 | 1128 | Jennifer Corder |
+| 40 | 1114 | Logan Basham |
+| 41 | 1031 | DarkHorse |
+| 42 | 1027 | Frilly Match |
 | 43 | 832 | Amber Triguero |
 | 44 | 824 | Helen Thomas |
 | 45 | 800 | Danni Campa |
