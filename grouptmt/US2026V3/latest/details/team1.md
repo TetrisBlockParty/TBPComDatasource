@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 06:18:39 UTC
+# Standings for team1 as of 2026-06-06 06:19:16 UTC
 
 **Total Participants:** 885
 
@@ -105,10 +105,10 @@
 | 97 | 216 | Andi McGreevy |
 | 98 | 215 | Songne Arif |
 | 99 | 215 | Abraham Espaillat |
-| 100 | 214 | Tonya McElroy |
+| 100 | 214 | Nerdy Snapfall |
 | 101 | 214 | Po Marley |
-| 102 | 213 | Jason Mungin |
-| 103 | 210 | Nerdy Snapfall |
+| 102 | 214 | Tonya McElroy |
+| 103 | 213 | Jason Mungin |
 | 104 | 209 | Zachary Colegrove |
 | 105 | 209 | Gotcha |
 | 106 | 204 | MamaBear |
