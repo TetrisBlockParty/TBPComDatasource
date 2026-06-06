@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 08:59:16 UTC
+# Standings for team1 as of 2026-06-06 09:00:16 UTC
 
 **Total Participants:** 935
 
@@ -18,7 +18,7 @@
 | 10 | 3071 | Plucky Swipe |
 | 11 | 3039 | Chummy Combo |
 | 12 | 2338 | Debbie Carswell |
-| 13 | 2273 | Yolanda McDonald |
+| 13 | 2322 | Yolanda McDonald |
 | 14 | 1980 | Hunter Rayborn |
 | 15 | 1913 | Sha Harris |
 | 16 | 1589 | Brian Stackhouse |
