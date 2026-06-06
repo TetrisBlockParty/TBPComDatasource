@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 18:46:40 UTC
+# Standings for team4 as of 2026-06-06 18:47:18 UTC
 
 **Total Participants:** 1097
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 7900 | Lyza |
 | 2 | 7564 | Cinny |
-| 3 | 5982 | Lisa Cullum |
+| 3 | 6083 | Lisa Cullum |
 | 4 | 5469 | Kait Confetti |
 | 5 | 4920 | Jerald Jones |
 | 6 | 4666 | ktothet |
@@ -238,30 +238,30 @@
 | 230 | 120 | Glamorous Gracey |
 | 231 | 120 | Joab Gonzalez |
 | 232 | 120 | Lively Cascadebuilder |
-| 233 | 120 | Shiny Brick |
-| 234 | 119 | Queen B |
-| 235 | 119 | Ashley Jenkins |
-| 236 | 119 | Name |
-| 237 | 119 | Rae Saunders |
-| 238 | 118 | Goofy Fall |
+| 233 | 120 | Jumpy Builderpiece |
+| 234 | 120 | Shiny Brick |
+| 235 | 119 | Queen B |
+| 236 | 119 | Ashley Jenkins |
+| 237 | 119 | Name |
+| 238 | 119 | Rae Saunders |
 | 239 | 118 | Juvon SupaShawdii Brooks |
-| 240 | 117 | Jumpy Builderpiece |
-| 241 | 117 | kellie |
-| 242 | 117 | BCO22 |
-| 243 | 116 | Shocinda Sherwood |
-| 244 | 116 | Dee Wizz |
-| 245 | 116 | Brennan Shea Greene |
-| 246 | 116 | Jennifer Fisher Franklin |
-| 247 | 116 | WeeWooWee |
-| 248 | 116 | Pepone Pepe |
-| 249 | 116 | Toon Up |
+| 240 | 118 | Goofy Fall |
+| 241 | 117 | BCO22 |
+| 242 | 117 | kellie |
+| 243 | 116 | Pepone Pepe |
+| 244 | 116 | Toon Up |
+| 245 | 116 | Jennifer Fisher Franklin |
+| 246 | 116 | WeeWooWee |
+| 247 | 116 | Brennan Shea Greene |
+| 248 | 116 | Dee Wizz |
+| 249 | 116 | Shocinda Sherwood |
 | 250 | 115 | Hardy Fuller |
 | 251 | 114 | Dapper Strikerpiece |
 | 252 | 114 | Bryan DjMagnum Evans |
-| 253 | 113 | Melissa Anne |
+| 253 | 113 | Dennis Montoya |
 | 254 | 113 | Dizzy Slammer |
 | 255 | 113 | Slinky Stackzone |
-| 256 | 113 | Dennis Montoya |
+| 256 | 113 | Melissa Anne |
 | 257 | 112 | CJ |
 | 258 | 111 | King |
 | 259 | 110 | jaz |
@@ -813,10 +813,10 @@
 | 805 | 26 | Kasey Lynne |
 | 806 | 26 | LandO |
 | 807 | 26 | Lacey Decker |
-| 808 | 26 | Happy Toast |
-| 809 | 26 | Kimberly Ann |
-| 810 | 26 | Rob$GEE |
-| 811 | 26 | Nikcole Alexis Bryan |
+| 808 | 26 | Kimberly Ann |
+| 809 | 26 | Happy Toast |
+| 810 | 26 | Nikcole Alexis Bryan |
+| 811 | 26 | Rob$GEE |
 | 812 | 26 | Rebecca Rae Reed |
 | 813 | 26 | Leslie Marie WarClub |
 | 814 | 25 | chapis |
@@ -825,58 +825,58 @@
 | 817 | 25 | Chabetta |
 | 818 | 25 | Jada Jordyn Campbell |
 | 819 | 25 | Leslie |
-| 820 | 25 | moonman33 |
-| 821 | 25 | Kendall Rhodie |
-| 822 | 25 | San |
-| 823 | 25 | Travis McKinnon |
-| 824 | 25 | Love GH |
-| 825 | 25 | ButterfliesRFree |
-| 826 | 24 | Socorro Arredondo |
-| 827 | 24 | Katiana Gonzalez |
-| 828 | 24 | Ja'Net Riley |
-| 829 | 24 | h_chloe10 |
-| 830 | 24 | tj |
-| 831 | 24 | Ferlyz |
-| 832 | 24 | Theo Stamps |
-| 833 | 23 | Lizxxx |
-| 834 | 23 | Monika Webb |
-| 835 | 23 | Lush Balanceblock |
-| 836 | 23 | Trishaann Triplett |
-| 837 | 22 | Pap337 |
-| 838 | 22 | Chelle Williams |
+| 820 | 25 | Kendall Rhodie |
+| 821 | 25 | San |
+| 822 | 25 | ButterfliesRFree |
+| 823 | 25 | Love GH |
+| 824 | 25 | Travis McKinnon |
+| 825 | 25 | moonman33 |
+| 826 | 24 | boo |
+| 827 | 24 | Theo Stamps |
+| 828 | 24 | Ferlyz |
+| 829 | 24 | tj |
+| 830 | 24 | h_chloe10 |
+| 831 | 24 | Ja'Net Riley |
+| 832 | 24 | Katiana Gonzalez |
+| 833 | 24 | Socorro Arredondo |
+| 834 | 23 | Lizxxx |
+| 835 | 23 | Monika Webb |
+| 836 | 23 | Lush Balanceblock |
+| 837 | 23 | Trishaann Triplett |
+| 838 | 22 | Jonelle Jacobs |
 | 839 | 22 | Bold Tumbler |
 | 840 | 22 | Twisty Chiseler |
-| 841 | 22 | Magda Lene |
-| 842 | 22 | Shakita Moore-Bernard |
-| 843 | 22 | Jonelle Jacobs |
+| 841 | 22 | Pap337 |
+| 842 | 22 | Chelle Williams |
+| 843 | 22 | Shakita Moore-Bernard |
 | 844 | 22 | taya |
-| 845 | 22 | boo |
-| 846 | 21 | Joe Joe |
-| 847 | 21 | Peachy Grabber |
-| 848 | 21 | my my |
-| 849 | 21 | Swanky Matchfit |
-| 850 | 21 | Joshua Doucette |
-| 851 | 21 | LilithMoon |
-| 852 | 21 | Renita Jordan |
-| 853 | 20 | Yournightmare |
-| 854 | 20 | Ashley DuVall |
-| 855 | 20 | Kris McMahon |
-| 856 | 20 | Spidaman86 |
-| 857 | 20 | BethB |
-| 858 | 20 | Brendan Craven |
-| 859 | 20 | Heidi Anne Scheiderer |
-| 860 | 20 | Kortnie Kate Patino |
-| 861 | 20 | Kimberly Devon |
-| 862 | 20 | MsChelleAnn |
+| 845 | 22 | Magda Lene |
+| 846 | 21 | Renita Jordan |
+| 847 | 21 | Swanky Matchfit |
+| 848 | 21 | Joshua Doucette |
+| 849 | 21 | my my |
+| 850 | 21 | LilithMoon |
+| 851 | 21 | Peachy Grabber |
+| 852 | 21 | Joe Joe |
+| 853 | 20 | Kimberly Devon |
+| 854 | 20 | Kortnie Kate Patino |
+| 855 | 20 | Ashley DuVall |
+| 856 | 20 | Holly Wessel |
+| 857 | 20 | Kris McMahon |
+| 858 | 20 | Justin Janachovsky |
+| 859 | 20 | Hasty Snapmatch |
+| 860 | 20 | Jessica Sanchez |
+| 861 | 20 | Sha Ta Nay Mitchell |
+| 862 | 20 | Memphiago Tenninois |
 | 863 | 20 | Alice Eisnor-Martens |
-| 864 | 20 | Holly Wessel |
+| 864 | 20 | Kissyfurr |
 | 865 | 20 | Tipsy Patternfit |
-| 866 | 20 | Justin Janachovsky |
-| 867 | 20 | Hasty Snapmatch |
-| 868 | 20 | Jessica Sanchez |
-| 869 | 20 | Sha Ta Nay Mitchell |
-| 870 | 20 | Kissyfurr |
-| 871 | 20 | Memphiago Tenninois |
+| 866 | 20 | Yournightmare |
+| 867 | 20 | Heidi Anne Scheiderer |
+| 868 | 20 | MsChelleAnn |
+| 869 | 20 | BethB |
+| 870 | 20 | Brendan Craven |
+| 871 | 20 | Spidaman86 |
 | 872 | 20 | Jennifer Naughton |
 | 873 | 20 | Joha Mldo Castillo |
 | 874 | 20 | LISHA 2 U |
