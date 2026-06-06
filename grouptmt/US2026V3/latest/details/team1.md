@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 01:13:17 UTC
+# Standings for team1 as of 2026-06-06 01:14:15 UTC
 
 **Total Participants:** 668
 
@@ -9,8 +9,8 @@
 | 1 | 17500 | Ariel |
 | 2 | 4690 | Dyane Leah Ware |
 | 3 | 3511 | Timothy Robert |
-| 4 | 3297 | Charlie Roehm |
-| 5 | 3009 | Carrie English |
+| 4 | 3309 | Carrie English |
+| 5 | 3297 | Charlie Roehm |
 | 6 | 2671 | Tracy Cohen |
 | 7 | 2458 | Cozy Edge |
 | 8 | 1589 | Brian Stackhouse |
@@ -79,14 +79,14 @@
 | 71 | 174 | Zachary Colegrove |
 | 72 | 166 | Tarnisha Neicy Jones |
 | 73 | 166 | Denise B |
-| 74 | 165 | Davionte DaeDae Hopson-Rodriguez |
-| 75 | 161 | Jason Mungin |
-| 76 | 160 | Zippy Lifter |
-| 77 | 159 | Asani CHumba |
-| 78 | 158 | W.A. Simpson |
-| 79 | 156 | Jessica Russell |
-| 80 | 151 | Dacia Hicks |
-| 81 | 150 | Lisa Müller |
+| 74 | 165 | Lisa Müller |
+| 75 | 165 | Davionte DaeDae Hopson-Rodriguez |
+| 76 | 161 | Jason Mungin |
+| 77 | 160 | Zippy Lifter |
+| 78 | 159 | Asani CHumba |
+| 79 | 158 | W.A. Simpson |
+| 80 | 156 | Jessica Russell |
+| 81 | 151 | Dacia Hicks |
 | 82 | 147 | MACHETEEDDIE513 |
 | 83 | 147 | David Fuentes |
 | 84 | 146 | Curtis T Cirno |
@@ -539,38 +539,38 @@
 | 531 | 13 | Abby |
 | 532 | 13 | Sarah Barnum |
 | 533 | 13 | Daphne Ceasar |
-| 534 | 12 | Cameo Tweed |
-| 535 | 12 | Kate Hancock Malicek |
-| 536 | 12 | Outspoken Sirchristopher |
-| 537 | 12 | Mumitt |
-| 538 | 12 | Jovy |
-| 539 | 12 | Ebony Waynes-robinson |
-| 540 | 12 | BigMike |
-| 541 | 12 | Shauntai Holiday |
-| 542 | 12 | Andra Ward |
-| 543 | 12 | Cynthia Cruell |
-| 544 | 12 | Lillie Blossom Dixon |
-| 545 | 12 | Soubletzy |
-| 546 | 12 | Vontii Blades |
-| 547 | 12 | Clever Blocker |
-| 548 | 12 | Just2Play$ |
-| 549 | 12 | Michael Jones |
-| 550 | 11 | Taz Ballard |
-| 551 | 11 | Frilly Shatterline |
+| 534 | 12 | Jovy |
+| 535 | 12 | Bobby Chestefield |
+| 536 | 12 | Just2Play$ |
+| 537 | 12 | Andra Ward |
+| 538 | 12 | Cameo Tweed |
+| 539 | 12 | Kate Hancock Malicek |
+| 540 | 12 | Outspoken Sirchristopher |
+| 541 | 12 | Mumitt |
+| 542 | 12 | Michael Jones |
+| 543 | 12 | Ebony Waynes-robinson |
+| 544 | 12 | BigMike |
+| 545 | 12 | Shauntai Holiday |
+| 546 | 12 | Cynthia Cruell |
+| 547 | 12 | Lillie Blossom Dixon |
+| 548 | 12 | Soubletzy |
+| 549 | 12 | Vontii Blades |
+| 550 | 12 | Clever Blocker |
+| 551 | 11 | Chuck Quarles |
 | 552 | 11 | Giddy Twistslam |
-| 553 | 11 | Chuck Quarles |
-| 554 | 11 | Telisha Mims |
-| 555 | 10 | Shannon Carriger |
-| 556 | 10 | Kenny 'Tailormade' Boyd |
-| 557 | 10 | Marshall Davis |
-| 558 | 10 | Mark Steven Pichler |
-| 559 | 10 | Damien Fonseca |
-| 560 | 10 | Parris Wright |
-| 561 | 10 | Hoppy Rumbler |
-| 562 | 10 | Nikiya |
-| 563 | 10 | Wacky Riserpiece |
-| 564 | 10 | Quwana Hall |
-| 565 | 10 | Bobby Chestefield |
+| 553 | 11 | Frilly Shatterline |
+| 554 | 11 | Taz Ballard |
+| 555 | 11 | Telisha Mims |
+| 556 | 10 | Marshall Davis |
+| 557 | 10 | Quwana Hall |
+| 558 | 10 | Wacky Riserpiece |
+| 559 | 10 | Hoppy Rumbler |
+| 560 | 10 | Mark Steven Pichler |
+| 561 | 10 | Kenny 'Tailormade' Boyd |
+| 562 | 10 | Shannon Carriger |
+| 563 | 10 | Nikiya |
+| 564 | 10 | Parris Wright |
+| 565 | 10 | Damien Fonseca |
 | 566 | 10 | Kesha Brady |
 | 567 | 10 | Marie Wilson |
 | 568 | 10 | Megan Payette |
@@ -657,23 +657,23 @@
 | 649 | 5 | Saucy Linkgrid |
 | 650 | 5 | Temeshia Brooks Washington |
 | 651 | 5 | Jennifer Moore |
-| 652 | 5 | Lil T |
-| 653 | 5 | Andre Sanon |
-| 654 | 5 | DirtiestofMikes |
-| 655 | 5 | Shona ShayShay Jones |
-| 656 | 5 | Hasty Brickzone |
-| 657 | 5 | Jasmine Hariston-Estis |
-| 658 | 5 | Stephanie Zuniga Tullock |
-| 659 | 5 | Derek Beverly |
+| 652 | 5 | Logan Frost |
+| 653 | 5 | DirtiestofMikes |
+| 654 | 5 | Shona ShayShay Jones |
+| 655 | 5 | Hasty Brickzone |
+| 656 | 5 | Jasmine Hariston-Estis |
+| 657 | 5 | Stephanie Zuniga Tullock |
+| 658 | 5 | Derek Beverly |
+| 659 | 5 | Lil T |
 | 660 | 5 | Sara |
-| 661 | 5 | Chill Linkroll |
-| 662 | 5 | the guy |
-| 663 | 5 | Tito Divyn |
-| 664 | 5 | Shawn Himes |
-| 665 | 5 | Tamika Fisher |
-| 666 | 5 | Zappy Clearfit |
-| 667 | 5 | Duckey |
-| 668 | 5 | Logan Frost |
+| 661 | 5 | the guy |
+| 662 | 5 | Tito Divyn |
+| 663 | 5 | Shawn Himes |
+| 664 | 5 | Tamika Fisher |
+| 665 | 5 | Zappy Clearfit |
+| 666 | 5 | Duckey |
+| 667 | 5 | Andre Sanon |
+| 668 | 5 | Chill Linkroll |
 
 ---
 *Standings created by tournaments datasource generation tool*
