@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 10:42:16 UTC
+# Standings for team4 as of 2026-06-06 10:42:39 UTC
 
 **Total Participants:** 929
 
@@ -87,11 +87,11 @@
 | 79 | 321 | woopa 716 |
 | 80 | 320 | DexterDobbins |
 | 81 | 317 | J |
-| 82 | 302 | JoLinda Dunn |
-| 83 | 301 | Маркус Вік |
-| 84 | 300 | Genag |
-| 85 | 294 | Hen |
-| 86 | 285 | RotatedWrongAgain |
+| 82 | 316 | RotatedWrongAgain |
+| 83 | 302 | JoLinda Dunn |
+| 84 | 301 | Маркус Вік |
+| 85 | 300 | Genag |
+| 86 | 294 | Hen |
 | 87 | 283 | Jesse Olive |
 | 88 | 271 | Kim |
 | 89 | 267 | Cranky Towerbuilder |
@@ -306,45 +306,45 @@
 | 298 | 67 | Loretta Hendricks |
 | 299 | 66 | Mann Manson |
 | 300 | 65 | Kristen Wallace |
-| 301 | 65 | Joshua Garner |
-| 302 | 65 | SupaFly |
-| 303 | 65 | Domo Dpn |
-| 304 | 65 | Lul Babie |
+| 301 | 65 | Lul Babie |
+| 302 | 65 | Joshua Garner |
+| 303 | 65 | SupaFly |
+| 304 | 65 | Domo Dpn |
 | 305 | 65 | Cranky Twistpiece |
-| 306 | 64 | sierrabeth |
-| 307 | 64 | Queen B |
-| 308 | 64 | Melika Zeheb |
-| 309 | 63 | Ana Ruiz |
-| 310 | 63 | Brenda Gustamantes |
-| 311 | 63 | Brenda Mueller |
-| 312 | 63 | Blockcrusher |
-| 313 | 63 | Ajohnna Frazee |
-| 314 | 62 | Tiggerjake |
-| 315 | 62 | Chummy Rollzone |
-| 316 | 62 | Jen Smith |
-| 317 | 62 | Frisky Balance |
-| 318 | 62 | medicjessi |
-| 319 | 62 | Nicole |
-| 320 | 61 | Deborah Ayliffe |
-| 321 | 61 | Cindy |
-| 322 | 61 | Tasha Suzanne Prisbrey |
+| 306 | 64 | Queen B |
+| 307 | 64 | Melika Zeheb |
+| 308 | 64 | sierrabeth |
+| 309 | 63 | Joshua Hunt |
+| 310 | 63 | Ana Ruiz |
+| 311 | 63 | Brenda Gustamantes |
+| 312 | 63 | Brenda Mueller |
+| 313 | 63 | Blockcrusher |
+| 314 | 63 | Ajohnna Frazee |
+| 315 | 62 | Tiggerjake |
+| 316 | 62 | medicjessi |
+| 317 | 62 | Chummy Rollzone |
+| 318 | 62 | Jen Smith |
+| 319 | 62 | Frisky Balance |
+| 320 | 62 | Nicole |
+| 321 | 61 | Tasha Suzanne Prisbrey |
+| 322 | 61 | Cindy |
 | 323 | 61 | Jackie Miller |
-| 324 | 60 | Amandacolle |
-| 325 | 60 | aga |
-| 326 | 60 | Sonia Cordero-Martinez |
-| 327 | 60 | Kristine Hj Han |
-| 328 | 60 | Randy M Hatch |
+| 324 | 61 | Deborah Ayliffe |
+| 325 | 60 | Kristine Hj Han |
+| 326 | 60 | aga |
+| 327 | 60 | Randy M Hatch |
+| 328 | 60 | Sonia Cordero-Martinez |
 | 329 | 60 | Chris Rowe |
-| 330 | 60 | Jumpy Builderpiece |
-| 331 | 60 | Ricardo Arias |
-| 332 | 60 | Anthony Magaraci |
-| 333 | 60 | Anthony Lewis |
-| 334 | 60 | Frothy Pattern |
-| 335 | 60 | Helen Bradley |
-| 336 | 60 | George Marshburn |
-| 337 | 60 | Tiffy |
-| 338 | 60 | Fran Aaron-Ring |
-| 339 | 59 | Joshua Hunt |
+| 330 | 60 | Amandacolle |
+| 331 | 60 | Jumpy Builderpiece |
+| 332 | 60 | Ricardo Arias |
+| 333 | 60 | Anthony Magaraci |
+| 334 | 60 | Anthony Lewis |
+| 335 | 60 | Frothy Pattern |
+| 336 | 60 | Helen Bradley |
+| 337 | 60 | George Marshburn |
+| 338 | 60 | Tiffy |
+| 339 | 60 | Fran Aaron-Ring |
 | 340 | 59 | Kay |
 | 341 | 59 | Paula Renee McCracken |
 | 342 | 59 | Inez Nez |
