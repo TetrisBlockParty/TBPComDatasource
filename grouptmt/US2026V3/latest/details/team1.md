@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 08:16:16 UTC
+# Standings for team1 as of 2026-06-06 08:16:39 UTC
 
 **Total Participants:** 925
 
@@ -622,48 +622,48 @@
 | 614 | 25 | Skye |
 | 615 | 25 | Jenni |
 | 616 | 25 | Victoria Smith |
-| 617 | 25 | Sammie Walker |
-| 618 | 25 | Antoinette Kidd |
-| 619 | 25 | Tweet Turner |
-| 620 | 25 | Heru Ogun Yeshua EL |
-| 621 | 25 | Linny Loop |
-| 622 | 25 | Plucky Clearpiece |
-| 623 | 25 | Dinky da Don |
-| 624 | 25 | Tony P Burke |
-| 625 | 25 | marie |
+| 617 | 25 | Tyiesha Pie Farmer |
+| 618 | 25 | Sammie Walker |
+| 619 | 25 | Antoinette Kidd |
+| 620 | 25 | Tweet Turner |
+| 621 | 25 | Heru Ogun Yeshua EL |
+| 622 | 25 | Linny Loop |
+| 623 | 25 | Plucky Clearpiece |
+| 624 | 25 | Dinky da Don |
+| 625 | 25 | Tony P Burke |
 | 626 | 25 | Barbramerri Tarboro |
-| 627 | 25 | Alyssa H |
-| 628 | 25 | Brandy Jaszewski |
-| 629 | 25 | PennyCandee |
-| 630 | 25 | Dirty Deeds |
-| 631 | 24 | Mrs |
-| 632 | 24 | Tanisha Taylor |
-| 633 | 24 | Mumitt |
-| 634 | 24 | Marlynnnnn |
-| 635 | 24 | Jason Saputo |
-| 636 | 24 | AshMo |
-| 637 | 24 | Abigail Newman Sweet |
+| 627 | 25 | marie |
+| 628 | 25 | Dirty Deeds |
+| 629 | 25 | Brandy Jaszewski |
+| 630 | 25 | Alyssa H |
+| 631 | 25 | PennyCandee |
+| 632 | 24 | Marlynnnnn |
+| 633 | 24 | Jason Saputo |
+| 634 | 24 | AshMo |
+| 635 | 24 | Abigail Newman Sweet |
+| 636 | 24 | Mrs |
+| 637 | 24 | Mumitt |
 | 638 | 24 | Shaun Anderson |
-| 639 | 23 | Genevieve Nieves |
-| 640 | 23 | Hardtohandle91 |
-| 641 | 23 | Khatyrah Burnette |
-| 642 | 23 | Shakmar |
+| 639 | 24 | Tanisha Taylor |
+| 640 | 23 | Shakmar |
+| 641 | 23 | Shauntai Holiday |
+| 642 | 23 | Khatyrah Burnette |
 | 643 | 23 | Jamie Lea Popp |
-| 644 | 23 | Connor Leon Cluff |
-| 645 | 23 | Cm |
-| 646 | 23 | Shauntai Holiday |
-| 647 | 23 | Monica Fields |
-| 648 | 23 | Peppy Wipeblock |
-| 649 | 23 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 650 | 23 | Andra Ward |
-| 651 | 23 | Shona ShayShay Jones |
+| 644 | 23 | Hardtohandle91 |
+| 645 | 23 | Connor Leon Cluff |
+| 646 | 23 | Cm |
+| 647 | 23 | Genevieve Nieves |
+| 648 | 23 | Monica Fields |
+| 649 | 23 | Peppy Wipeblock |
+| 650 | 23 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 651 | 23 | Andra Ward |
 | 652 | 23 | Tabitha Dupre-Allen |
-| 653 | 22 | tg |
-| 654 | 22 | Happy Blocky |
-| 655 | 22 | Stephen Glaze |
-| 656 | 22 | Kate Hancock Malicek |
-| 657 | 22 | Duncan Timothy |
-| 658 | 22 | Tyiesha Pie Farmer |
+| 653 | 23 | Shona ShayShay Jones |
+| 654 | 22 | tg |
+| 655 | 22 | Happy Blocky |
+| 656 | 22 | Stephen Glaze |
+| 657 | 22 | Kate Hancock Malicek |
+| 658 | 22 | Duncan Timothy |
 | 659 | 22 | Jroc Tyra Taylor |
 | 660 | 21 | Zappy Zoney |
 | 661 | 21 | Taz Ballard |
@@ -678,7 +678,7 @@
 | 670 | 21 | Desiree Ryder |
 | 671 | 20 | Ebie |
 | 672 | 20 | Mahagony Small |
-| 673 | 20 | Lyn Reed |
+| 673 | 20 | SherylU |
 | 674 | 20 | Charlean Sims |
 | 675 | 20 | Bryttani GoingPlaces Latimer |
 | 676 | 20 | Tanisha Robinson |
@@ -686,12 +686,12 @@
 | 678 | 20 | Spotlight |
 | 679 | 20 | B.L. Perry |
 | 680 | 20 | NedaWin |
-| 681 | 20 | SherylU |
+| 681 | 20 | Lyn Reed |
 | 682 | 20 | Kenneth Hefney |
 | 683 | 20 | Giggy Edgefit |
 | 684 | 20 | Jonathan McKenzie |
-| 685 | 20 | Phillip White |
-| 686 | 20 | Sallie Sanborn |
+| 685 | 20 | Sallie Sanborn |
+| 686 | 20 | Phillip White |
 | 687 | 20 | Biggestboss Ransom |
 | 688 | 20 | Cynthia Potter |
 | 689 | 20 | Daddy |

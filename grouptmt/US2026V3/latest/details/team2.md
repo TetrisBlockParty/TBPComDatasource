@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 08:16:16 UTC
+# Standings for team2 as of 2026-06-06 08:16:39 UTC
 
 **Total Participants:** 1077
 
@@ -126,9 +126,9 @@
 | 118 | 218 | Fudgie Pie |
 | 119 | 218 | Amy Nicole McCanne |
 | 120 | 215 | Ashley Green |
-| 121 | 204 | Deborah Boyce Minor |
-| 122 | 201 | Danielle Pack Lewellen |
-| 123 | 201 | Krisanne Kesner-Lonsby |
+| 121 | 211 | Krisanne Kesner-Lonsby |
+| 122 | 204 | Deborah Boyce Minor |
+| 123 | 201 | Danielle Pack Lewellen |
 | 124 | 200 | Lisa Breiding |
 | 125 | 200 | Sarah Grundisch |
 | 126 | 199 | Amber Cogdill |
@@ -145,22 +145,22 @@
 | 137 | 179 | Jeanna Mendez |
 | 138 | 177 | Nawang Nawang |
 | 139 | 177 | Xandrea Jones |
-| 140 | 174 | Nettrainer |
-| 141 | 170 | Chipper Stackbuilder |
-| 142 | 168 | Missy Renia |
-| 143 | 167 | Zarah Kettler |
-| 144 | 165 | Olivia Jefferson |
-| 145 | 165 | Karen Reid Cenkush |
-| 146 | 165 | Ackerman 85 |
-| 147 | 164 | Jerry L Morales |
-| 148 | 164 | Melissa Nash |
-| 149 | 163 | Zany Cascader |
-| 150 | 162 | Larry Cross |
-| 151 | 162 | haune |
-| 152 | 161 | Boldy Wobbler |
-| 153 | 160 | snowwol |
-| 154 | 160 | Linda Guay |
-| 155 | 160 | Kelly Vedder |
+| 140 | 175 | Chipper Stackbuilder |
+| 141 | 174 | Nettrainer |
+| 142 | 170 | Kelly Vedder |
+| 143 | 168 | Missy Renia |
+| 144 | 167 | Zarah Kettler |
+| 145 | 165 | Olivia Jefferson |
+| 146 | 165 | Karen Reid Cenkush |
+| 147 | 165 | Ackerman 85 |
+| 148 | 164 | Jerry L Morales |
+| 149 | 164 | Melissa Nash |
+| 150 | 163 | Zany Cascader |
+| 151 | 162 | Larry Cross |
+| 152 | 162 | haune |
+| 153 | 161 | Boldy Wobbler |
+| 154 | 160 | snowwol |
+| 155 | 160 | Linda Guay |
 | 156 | 160 | Sarah Mccolgan |
 | 157 | 159 | Cara Rivera |
 | 158 | 157 | Santara Ferguson |
