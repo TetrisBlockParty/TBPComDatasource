@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 19:50:19 UTC
+# Standings for team2 as of 2026-06-06 19:50:39 UTC
 
 **Total Participants:** 1350
 
@@ -104,7 +104,7 @@
 | 96 | 486 | Krisanne Kesner-Lonsby |
 | 97 | 483 | Karen Reid Cenkush |
 | 98 | 480 | Courtney McCulley |
-| 99 | 477 | Epic Frame |
+| 99 | 480 | Epic Frame |
 | 100 | 472 | Lily |
 | 101 | 468 | Amy Gale |
 | 102 | 457 | Smiley Dropper |
