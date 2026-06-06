@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 10:28:17 UTC
+# Standings for team2 as of 2026-06-06 10:28:38 UTC
 
 **Total Participants:** 1102
 
@@ -1071,24 +1071,24 @@
 | 1063 | 7 | Elizabeth Elaine Coursey |
 | 1064 | 7 | Nicole Slimick |
 | 1065 | 7 | Maja Hauff |
-| 1066 | 7 | Aguilar Rita |
-| 1067 | 7 | Shane Peavey |
-| 1068 | 7 | Collins |
-| 1069 | 7 | sampson |
+| 1066 | 7 | Carol Whited Loza |
+| 1067 | 7 | Aguilar Rita |
+| 1068 | 7 | Shane Peavey |
+| 1069 | 7 | Collins |
 | 1070 | 7 | Dandy Wiper |
-| 1071 | 7 | Carol Whited Loza |
-| 1072 | 6 | FabTeach |
-| 1073 | 6 | Cheeky Dashpiece |
-| 1074 | 6 | Shelby Wilson |
-| 1075 | 6 | Cozy Curve |
-| 1076 | 6 | Celeste Samuels |
+| 1071 | 7 | sampson |
+| 1072 | 6 | Celeste Samuels |
+| 1073 | 6 | Snappy Fitblock |
+| 1074 | 6 | Lou Sassole |
+| 1075 | 6 | Trisha Farley |
+| 1076 | 6 | Amanda Knox |
 | 1077 | 6 | Lavenda Nettles |
-| 1078 | 6 | Amanda Knox |
-| 1079 | 6 | Trisha Farley |
-| 1080 | 6 | Lou Sassole |
-| 1081 | 6 | Snappy Fitblock |
-| 1082 | 6 | Lori Yelvington Cain |
-| 1083 | 6 | Partin |
+| 1078 | 6 | FabTeach |
+| 1079 | 6 | Cozy Curve |
+| 1080 | 6 | Partin |
+| 1081 | 6 | Shelby Wilson |
+| 1082 | 6 | Cheeky Dashpiece |
+| 1083 | 6 | Lori Yelvington Cain |
 | 1084 | 6 | Michele Choate |
 | 1085 | 6 | Emily |
 | 1086 | 6 | Trena Sapp |
@@ -1096,8 +1096,8 @@
 | 1088 | 5 | Dapper Clearpiece |
 | 1089 | 5 | Nolife |
 | 1090 | 5 | Nerdy Base |
-| 1091 | 5 | Danh Nguyen |
-| 1092 | 5 | Agnes Gable |
+| 1091 | 5 | Agnes Gable |
+| 1092 | 5 | Danh Nguyen |
 | 1093 | 5 | Mercedes Lowery |
 | 1094 | 5 | Brittany Weatherspoon |
 | 1095 | 5 | Jennifer Roper Stanley |
@@ -1105,8 +1105,8 @@
 | 1097 | 5 | Deborah Fowler |
 | 1098 | 5 | Flynn Flibble |
 | 1099 | 5 | Crystal Poss |
-| 1100 | 5 | Duck |
-| 1101 | 5 | Nicole Plummer |
+| 1100 | 5 | Nicole Plummer |
+| 1101 | 5 | Duck |
 | 1102 | 5 | Chirpy Towerer |
 
 ---
