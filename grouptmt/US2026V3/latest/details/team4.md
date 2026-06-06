@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 07:00:16 UTC
+# Standings for team4 as of 2026-06-06 07:00:38 UTC
 
 **Total Participants:** 867
 
@@ -231,23 +231,23 @@
 | 223 | 82 | Iforget |
 | 224 | 81 | Lively Cascadebuilder |
 | 225 | 81 | Janae Harris |
-| 226 | 81 | Stasia |
-| 227 | 80 | Danny Frausto |
-| 228 | 80 | Krista Diaz |
-| 229 | 80 | Maurice DeJean |
-| 230 | 80 | Magz |
-| 231 | 80 | Josh Keith Travierso |
-| 232 | 79 | Gean DeJesus |
-| 233 | 79 | Joyce Myers |
-| 234 | 79 | Has2brat |
+| 226 | 81 | Deva Marie Barber |
+| 227 | 81 | Stasia |
+| 228 | 80 | Danny Frausto |
+| 229 | 80 | Krista Diaz |
+| 230 | 80 | Maurice DeJean |
+| 231 | 80 | Magz |
+| 232 | 80 | Josh Keith Travierso |
+| 233 | 79 | Gean DeJesus |
+| 234 | 79 | Joyce Myers |
 | 235 | 79 | Courtney Niichole |
-| 236 | 78 | Stef |
-| 237 | 78 | Futrell Brent |
-| 238 | 77 | Chirpy Link |
-| 239 | 77 | Lady |
-| 240 | 77 | Slinky Stackzone |
-| 241 | 76 | Spicy Peach |
-| 242 | 76 | Deva Marie Barber |
+| 236 | 79 | Has2brat |
+| 237 | 78 | Stef |
+| 238 | 78 | Futrell Brent |
+| 239 | 77 | Chirpy Link |
+| 240 | 77 | Lady |
+| 241 | 77 | Slinky Stackzone |
+| 242 | 76 | Spicy Peach |
 | 243 | 76 | EvoKitty |
 | 244 | 76 | Piece of Cake |
 | 245 | 76 | All knowing |
