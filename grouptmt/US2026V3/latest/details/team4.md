@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 15:30:17 UTC
+# Standings for team4 as of 2026-06-06 15:30:39 UTC
 
 **Total Participants:** 1027
 
@@ -122,9 +122,9 @@
 | 114 | 222 | Leigh Pierce |
 | 115 | 220 | Shmeedo |
 | 116 | 220 | Silly Risegrid |
-| 117 | 218 | Dubiousdust |
-| 118 | 217 | Slimm |
-| 119 | 214 | Gorica Prusina |
+| 117 | 218 | Gorica Prusina |
+| 118 | 218 | Dubiousdust |
+| 119 | 217 | Slimm |
 | 120 | 212 | blockhead |
 | 121 | 211 | Renee Sapp |
 | 122 | 210 | Scamp Jones |
