@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 11:04:17 UTC
+# Standings for team2 as of 2026-06-06 11:04:38 UTC
 
 **Total Participants:** 1109
 
@@ -67,8 +67,8 @@
 | 59 | 614 | Block Dog |
 | 60 | 592 | Brandon Link |
 | 61 | 588 | Kellie Sharp Godfrey |
-| 62 | 577 | Lindsay Klemp |
-| 63 | 576 | Betty Barrett |
+| 62 | 586 | Betty Barrett |
+| 63 | 577 | Lindsay Klemp |
 | 64 | 572 | Dsabrina Maxey |
 | 65 | 553 | Jazzy Faller |
 | 66 | 550 | Angie Mccain |
@@ -165,14 +165,14 @@
 | 157 | 163 | Zany Cascader |
 | 158 | 162 | Larry Cross |
 | 159 | 162 | haune |
-| 160 | 161 | Boldy Wobbler |
-| 161 | 160 | Linda Guay |
-| 162 | 160 | Sarah Mccolgan |
-| 163 | 160 | snowwol |
-| 164 | 160 | Lora Via |
-| 165 | 159 | Cara Rivera |
-| 166 | 157 | Spicy Risegrid |
-| 167 | 157 | Gabriella Humphreys |
+| 160 | 162 | Gabriella Humphreys |
+| 161 | 161 | Boldy Wobbler |
+| 162 | 160 | Linda Guay |
+| 163 | 160 | Sarah Mccolgan |
+| 164 | 160 | snowwol |
+| 165 | 160 | Lora Via |
+| 166 | 159 | Cara Rivera |
+| 167 | 157 | Spicy Risegrid |
 | 168 | 157 | Santara Ferguson |
 | 169 | 155 | Zany Blockclear |
 | 170 | 154 | Glitzy Base |
