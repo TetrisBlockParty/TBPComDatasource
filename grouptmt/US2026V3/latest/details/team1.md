@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 14:56:17 UTC
+# Standings for team1 as of 2026-06-06 14:56:41 UTC
 
 **Total Participants:** 1028
 
@@ -278,9 +278,9 @@
 | 270 | 92 | The DUBZ |
 | 271 | 92 | Quirky Fallgrid |
 | 272 | 92 | Katherine Short |
-| 273 | 90 | Danielle DeLozier Plesec |
-| 274 | 90 | Charlene Baltimore |
-| 275 | 89 | Cauiasia DeJ'ae |
+| 273 | 90 | Cauiasia DeJ'ae |
+| 274 | 90 | Danielle DeLozier Plesec |
+| 275 | 90 | Charlene Baltimore |
 | 276 | 88 | TT |
 | 277 | 88 | izzybella |
 | 278 | 88 | QueenShay AllGood |
