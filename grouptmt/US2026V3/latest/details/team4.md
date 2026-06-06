@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 14:28:39 UTC
+# Standings for team4 as of 2026-06-06 14:29:17 UTC
 
 **Total Participants:** 1004
 
@@ -288,37 +288,37 @@
 | 280 | 85 | Dawn Marie Trujillo |
 | 281 | 85 | Kari Smith |
 | 282 | 84 | Chonda OhanaMomma Michelle |
-| 283 | 84 | Dawn Phelps |
-| 284 | 84 | Lively Cascadebuilder |
-| 285 | 84 | Rae Saunders |
+| 283 | 84 | Lively Cascadebuilder |
+| 284 | 84 | Rae Saunders |
+| 285 | 84 | Dawn Phelps |
 | 286 | 83 | Rosy Perez |
-| 287 | 83 | Bouncy |
-| 288 | 83 | Peachy Piecefit |
+| 287 | 83 | Peachy Piecefit |
+| 288 | 83 | Bouncy |
 | 289 | 83 | Peter Babineaux Jr |
 | 290 | 83 | Smiley Gridzone |
 | 291 | 83 | MrLoner Stoner |
-| 292 | 82 | Bon Jovi |
-| 293 | 82 | Jen Smith |
-| 294 | 82 | Codey Haffner |
-| 295 | 81 | Janae Harris |
-| 296 | 81 | Stasia |
-| 297 | 81 | Nicole Colby McCloskey |
-| 298 | 80 | Danny Frausto |
-| 299 | 80 | Suzanne Carter |
-| 300 | 80 | Karen Small |
+| 292 | 82 | Courtney Niichole |
+| 293 | 82 | Bon Jovi |
+| 294 | 82 | Jen Smith |
+| 295 | 82 | Codey Haffner |
+| 296 | 81 | Janae Harris |
+| 297 | 81 | Stasia |
+| 298 | 81 | Nicole Colby McCloskey |
+| 299 | 80 | Danny Frausto |
+| 300 | 80 | Suzanne Carter |
 | 301 | 80 | Keke Johnson |
-| 302 | 80 | Carla Woodard |
-| 303 | 80 | Maurice DeJean |
-| 304 | 80 | Josh Keith Travierso |
-| 305 | 80 | Krista Diaz |
-| 306 | 80 | Corey Jackson |
-| 307 | 79 | Audrianna Skaff |
-| 308 | 79 | Elena Marí |
-| 309 | 79 | Courtney Niichole |
-| 310 | 79 | Miwa |
-| 311 | 79 | Snazzy Corner |
-| 312 | 79 | Joyce Myers |
-| 313 | 79 | JoAnn Summerlot Ratliff |
+| 302 | 80 | Maurice DeJean |
+| 303 | 80 | Carla Woodard |
+| 304 | 80 | Karen Small |
+| 305 | 80 | Corey Jackson |
+| 306 | 80 | Josh Keith Travierso |
+| 307 | 80 | Krista Diaz |
+| 308 | 79 | Joyce Myers |
+| 309 | 79 | Miwa |
+| 310 | 79 | Snazzy Corner |
+| 311 | 79 | Audrianna Skaff |
+| 312 | 79 | JoAnn Summerlot Ratliff |
+| 313 | 79 | Elena Marí |
 | 314 | 79 | Gean DeJesus |
 | 315 | 79 | Playa |
 | 316 | 79 | Has2brat |
@@ -328,11 +328,11 @@
 | 320 | 77 | Tyson Stroppel |
 | 321 | 77 | Melissa Quinn |
 | 322 | 76 | Spicy Peach |
-| 323 | 76 | All knowing |
+| 323 | 76 | SupaFly |
 | 324 | 76 | Scrumptious |
-| 325 | 76 | SupaFly |
-| 326 | 75 | PsyDMom |
-| 327 | 75 | Laurie Patrick |
+| 325 | 76 | All knowing |
+| 326 | 75 | Laurie Patrick |
+| 327 | 75 | PsyDMom |
 | 328 | 74 | Rita Ann |
 | 329 | 73 | Perry Ransom |
 | 330 | 73 | Jenn Fitzgerald |
@@ -378,10 +378,10 @@
 | 370 | 62 | Tiggerjake |
 | 371 | 62 | Chris McBlockster |
 | 372 | 62 | Mar Mar |
-| 373 | 62 | Frisky Balance |
-| 374 | 62 | medicjessi |
-| 375 | 61 | Missionary Meda |
-| 376 | 61 | Deb 07 |
+| 373 | 62 | medicjessi |
+| 374 | 62 | Frisky Balance |
+| 375 | 61 | Deb 07 |
+| 376 | 61 | Missionary Meda |
 | 377 | 61 | Jackie Miller |
 | 378 | 61 | Lolita Nettles |
 | 379 | 61 | Tasha Suzanne Prisbrey |
@@ -397,25 +397,25 @@
 | 389 | 60 | Jumpy Builderpiece |
 | 390 | 60 | Kristine Hj Han |
 | 391 | 60 | DanceAngel |
-| 392 | 60 | Chris Rowe |
-| 393 | 60 | Uh Lesh Uh |
-| 394 | 60 | Aaron Turner |
-| 395 | 60 | Anna Ryan |
-| 396 | 60 | aga |
-| 397 | 60 | George Marshburn |
-| 398 | 60 | Sonia Cordero-Martinez |
-| 399 | 59 | Kay |
-| 400 | 59 | Butterpat |
-| 401 | 59 | Kat Foreman |
-| 402 | 59 | Jacinta Hooker-Brown |
-| 403 | 59 | Gigi5 |
-| 404 | 59 | Loyalty83 |
-| 405 | 59 | Tammy Lasseigne |
-| 406 | 59 | Yvette Johnson |
-| 407 | 59 | Paula Renee McCracken |
-| 408 | 59 | Inez Nez |
-| 409 | 58 | Lana Tran |
-| 410 | 58 | Csigirlnc |
+| 392 | 60 | Csigirlnc |
+| 393 | 60 | Sonia Cordero-Martinez |
+| 394 | 60 | George Marshburn |
+| 395 | 60 | aga |
+| 396 | 60 | Anna Ryan |
+| 397 | 60 | Aaron Turner |
+| 398 | 60 | Uh Lesh Uh |
+| 399 | 60 | Chris Rowe |
+| 400 | 59 | Kat Foreman |
+| 401 | 59 | Jacinta Hooker-Brown |
+| 402 | 59 | Butterpat |
+| 403 | 59 | Kay |
+| 404 | 59 | Gigi5 |
+| 405 | 59 | Loyalty83 |
+| 406 | 59 | Tammy Lasseigne |
+| 407 | 59 | Yvette Johnson |
+| 408 | 59 | Paula Renee McCracken |
+| 409 | 59 | Inez Nez |
+| 410 | 58 | Lana Tran |
 | 411 | 58 | Mint Marquez |
 | 412 | 58 | Jade Alley |
 | 413 | 58 | Winter Moon |
