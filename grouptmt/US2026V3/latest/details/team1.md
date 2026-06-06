@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 17:22:39 UTC
+# Standings for team1 as of 2026-06-06 17:23:17 UTC
 
 **Total Participants:** 1082
 
@@ -237,14 +237,14 @@
 | 229 | 126 | Stephen Providenti |
 | 230 | 125 | LaShaun Stinson |
 | 231 | 125 | LaTonya Myers |
-| 232 | 124 | Courtney Cicoria |
-| 233 | 123 | Cauiasia DeJ'ae |
-| 234 | 123 | Simone Bailey |
-| 235 | 122 | Miera Nicole |
-| 236 | 121 | Rachel Zimmerman |
-| 237 | 121 | Tiana Monique |
-| 238 | 121 | Bubbly Piececlear |
-| 239 | 121 | Treneil Daffin |
+| 232 | 125 | Treneil Daffin |
+| 233 | 124 | Courtney Cicoria |
+| 234 | 123 | Cauiasia DeJ'ae |
+| 235 | 123 | Simone Bailey |
+| 236 | 122 | Miera Nicole |
+| 237 | 121 | Rachel Zimmerman |
+| 238 | 121 | Tiana Monique |
+| 239 | 121 | Bubbly Piececlear |
 | 240 | 120 | Saucy Tile |
 | 241 | 120 | Guy Incognito |
 | 242 | 120 | Brittanie Wardlow |
@@ -678,52 +678,52 @@
 | 670 | 33 | Danielle Barthelme |
 | 671 | 33 | Kim Holzmiller |
 | 672 | 33 | Flash97 |
-| 673 | 33 | Sara |
-| 674 | 33 | Mom3granny2 |
-| 675 | 33 | Kortney Adams |
-| 676 | 33 | Cali Lee |
+| 673 | 33 | Jason Saputo |
+| 674 | 33 | Snippy Breaker |
+| 675 | 33 | Danny M GR |
+| 676 | 33 | Sara |
 | 677 | 33 | Krose Byers |
-| 678 | 33 | Danny M GR |
-| 679 | 33 | Jason Saputo |
+| 678 | 33 | Cali Lee |
+| 679 | 33 | Kortney Adams |
 | 680 | 33 | Lucy |
-| 681 | 33 | Crtjstr |
-| 682 | 33 | Joseph Vs Cap |
-| 683 | 32 | Tomme Poliwka |
-| 684 | 32 | Melvin Simpson |
-| 685 | 32 | LaSharon Jackson |
-| 686 | 32 | DellaLucretia Thomas |
-| 687 | 32 | Betsy B. Yohan |
+| 681 | 33 | Joseph Vs Cap |
+| 682 | 33 | Crtjstr |
+| 683 | 33 | Mom3granny2 |
+| 684 | 32 | Stephanie Scott |
+| 685 | 32 | DellaLucretia Thomas |
+| 686 | 32 | Betsy B. Yohan |
+| 687 | 32 | Tomme Poliwka |
 | 688 | 32 | Tessa Felice Hill |
-| 689 | 32 | Sylvia Offically A Mcgowan |
+| 689 | 32 | Melvin Simpson |
 | 690 | 32 | Chummy Liner |
-| 691 | 32 | LaQuita White |
-| 692 | 32 | Stephanie Scott |
-| 693 | 32 | TotoCherue |
-| 694 | 31 | Andra Ward |
-| 695 | 31 | Riq Wokhardt |
-| 696 | 31 | Edward Hickmon |
-| 697 | 31 | kingbrook |
-| 698 | 31 | Nekka |
-| 699 | 31 | Ķïrãã Ďãvïss |
+| 691 | 32 | TotoCherue |
+| 692 | 32 | Sylvia Offically A Mcgowan |
+| 693 | 32 | LaQuita White |
+| 694 | 32 | LaSharon Jackson |
+| 695 | 31 | Andra Ward |
+| 696 | 31 | Riq Wokhardt |
+| 697 | 31 | Edward Hickmon |
+| 698 | 31 | kingbrook |
+| 699 | 31 | Nekka |
 | 700 | 31 | Vannie G |
-| 701 | 30 | Taneka Howell |
-| 702 | 30 | Adrian Wilson |
-| 703 | 30 | Abby |
-| 704 | 30 | Tez Mays |
-| 705 | 30 | Rhianna Dinki Austin |
-| 706 | 30 | Frankey Chi |
-| 707 | 30 | Falisa Bell |
-| 708 | 30 | Dannie |
-| 709 | 30 | Bouncy Glide |
-| 710 | 30 | Witty Clear |
+| 701 | 31 | Ķïrãã Ďãvïss |
+| 702 | 30 | Witty Clear |
+| 703 | 30 | Adrian Wilson |
+| 704 | 30 | Abby |
+| 705 | 30 | Tez Mays |
+| 706 | 30 | Rhianna Dinki Austin |
+| 707 | 30 | Frankey Chi |
+| 708 | 30 | Falisa Bell |
+| 709 | 30 | Dannie |
+| 710 | 30 | Bouncy Glide |
 | 711 | 30 | Rosalind Chatman |
-| 712 | 30 | Snippy Breaker |
-| 713 | 30 | Jessica Corey |
+| 712 | 30 | Jessica Corey |
+| 713 | 30 | Sarah Guarino |
 | 714 | 30 | TiffanyG |
 | 715 | 30 | Witty Blockpiece |
-| 716 | 30 | Sarah Guarino |
-| 717 | 29 | Rissa Rozay |
-| 718 | 29 | Epic Wipepiece |
+| 716 | 30 | Taneka Howell |
+| 717 | 29 | Epic Wipepiece |
+| 718 | 29 | Rissa Rozay |
 | 719 | 29 | Dirty Deeds |
 | 720 | 29 | Everett Semmions |
 | 721 | 29 | Katness |

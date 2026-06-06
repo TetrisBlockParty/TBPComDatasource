@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 17:22:39 UTC
+# Standings for team2 as of 2026-06-06 17:23:17 UTC
 
 **Total Participants:** 1279
 
@@ -89,17 +89,17 @@
 | 81 | 515 | Loony Faller |
 | 82 | 507 | Mirr Lulu |
 | 83 | 501 | Ricardo Ewart |
-| 84 | 496 | Amber Miller Wirick |
-| 85 | 494 | Shandrea Crawford |
-| 86 | 492 | Matt Hardin |
-| 87 | 487 | Wmk Rathbun |
-| 88 | 486 | Krisanne Kesner-Lonsby |
-| 89 | 483 | Karen Reid Cenkush |
-| 90 | 480 | Courtney McCulley |
-| 91 | 480 | Marquita Toliver |
-| 92 | 472 | Lily |
-| 93 | 468 | Amy Gale |
-| 94 | 460 | Suki Kaur |
+| 84 | 500 | Suki Kaur |
+| 85 | 496 | Amber Miller Wirick |
+| 86 | 494 | Shandrea Crawford |
+| 87 | 492 | Matt Hardin |
+| 88 | 487 | Wmk Rathbun |
+| 89 | 486 | Krisanne Kesner-Lonsby |
+| 90 | 483 | Karen Reid Cenkush |
+| 91 | 480 | Courtney McCulley |
+| 92 | 480 | Marquita Toliver |
+| 93 | 472 | Lily |
+| 94 | 468 | Amy Gale |
 | 95 | 459 | Angelica Jelli Gillaspy |
 | 96 | 459 | Beverly Lynn Mills |
 | 97 | 449 | Poppy |
@@ -187,7 +187,7 @@
 | 179 | 199 | haune |
 | 180 | 199 | Patria Osuoha |
 | 181 | 199 | Stella |
-| 182 | 195 | Suki Jacobs |
+| 182 | 196 | Suki Jacobs |
 | 183 | 195 | Bb |
 | 184 | 194 | Chill Line |
 | 185 | 194 | Mookshake |
