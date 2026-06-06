@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 11:27:17 UTC
+# Standings for team1 as of 2026-06-06 11:28:17 UTC
 
 **Total Participants:** 965
 
@@ -52,25 +52,25 @@
 | 44 | 580 | Janet Cooke |
 | 45 | 575 | Corey Cawthon |
 | 46 | 540 | Kellie Hall |
-| 47 | 511 | Dizzy Dropper |
-| 48 | 502 | Tiana Moore |
-| 49 | 500 | Janine Hunter |
-| 50 | 493 | Eartha Brown |
-| 51 | 482 | Cj Gorman |
-| 52 | 474 | Keeta Chickswit Scott |
-| 53 | 472 | Lisa Müller |
+| 47 | 511 | Lisa Müller |
+| 48 | 511 | Dizzy Dropper |
+| 49 | 502 | Tiana Moore |
+| 50 | 500 | Janine Hunter |
+| 51 | 493 | Eartha Brown |
+| 52 | 482 | Cj Gorman |
+| 53 | 474 | Keeta Chickswit Scott |
 | 54 | 469 | Sanjuro |
 | 55 | 427 | KenpachisGirl |
 | 56 | 421 | D'Andra Stewart |
 | 57 | 403 | Gotcha |
 | 58 | 399 | ing410 |
-| 59 | 395 | Blockhead |
-| 60 | 395 | Markeeta Lipscomb |
+| 59 | 395 | Markeeta Lipscomb |
+| 60 | 395 | Blockhead |
 | 61 | 391 | Linzie Marie |
 | 62 | 388 | SPNLover24 |
 | 63 | 387 | Novaa |
-| 64 | 380 | IamJust Neyamijah Washington Sr. |
-| 65 | 380 | Jessica Carter |
+| 64 | 380 | Jessica Carter |
+| 65 | 380 | IamJust Neyamijah Washington Sr. |
 | 66 | 380 | She Higgy |
 | 67 | 380 | Bre Maugh |
 | 68 | 377 | AF Cruz |
