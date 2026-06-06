@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 22:10:18 UTC
+# Standings for team2 as of 2026-06-06 22:10:38 UTC
 
 **Total Participants:** 1403
 
@@ -159,25 +159,25 @@
 | 151 | 288 | Pooh |
 | 152 | 286 | Heather Burgett |
 | 153 | 283 | Theresa Marie |
-| 154 | 280 | Patricia Carroll |
-| 155 | 280 | Brittney Williams |
-| 156 | 279 | Renee Freeman Jacobson |
-| 157 | 277 | Sarah Mccolgan |
+| 154 | 282 | Jaime P Lamb |
+| 155 | 280 | Patricia Carroll |
+| 156 | 280 | Brittney Williams |
+| 157 | 279 | Renee Freeman Jacobson |
 | 158 | 277 | DayDreamer79 |
-| 159 | 272 | Erin Thomas |
-| 160 | 270 | Hector |
-| 161 | 269 | Ackerman 85 |
-| 162 | 262 | Jaime P Lamb |
-| 163 | 262 | Cool Balancer |
-| 164 | 262 | H |
+| 159 | 277 | Sarah Mccolgan |
+| 160 | 272 | Erin Thomas |
+| 161 | 270 | Hector |
+| 162 | 269 | Ackerman 85 |
+| 163 | 262 | H |
+| 164 | 262 | Cool Balancer |
 | 165 | 259 | Angie Kowalsky Olson |
-| 166 | 253 | Marge Cromer |
-| 167 | 253 | Hilliary Beyer |
+| 166 | 253 | Hilliary Beyer |
+| 167 | 253 | Marge Cromer |
 | 168 | 250 | marsam |
 | 169 | 250 | giamy |
 | 170 | 248 | Becca Marie |
-| 171 | 247 | Brittni Lawrence |
-| 172 | 247 | Fudgie Pie |
+| 171 | 247 | Fudgie Pie |
+| 172 | 247 | Brittni Lawrence |
 | 173 | 246 | Brooke Lynn Marie Adelaide |
 | 174 | 243 | Jessica Lynn |
 | 175 | 241 | Boldy Wobbler |
