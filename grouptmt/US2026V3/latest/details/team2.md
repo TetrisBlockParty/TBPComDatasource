@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 16:20:17 UTC
+# Standings for team2 as of 2026-06-06 16:20:41 UTC
 
 **Total Participants:** 1245
 
@@ -262,15 +262,15 @@
 | 254 | 129 | Armando Sabedra |
 | 255 | 129 | Sandy Justus |
 | 256 | 128 | Teddy Williams |
-| 257 | 126 | Danielle Blount |
-| 258 | 126 | Teresa Mandich |
-| 259 | 125 | Ariel Gundersen |
-| 260 | 124 | Tina |
-| 261 | 124 | Jason Burris |
-| 262 | 120 | Elizabeth Cornelius |
-| 263 | 120 | Simone F |
-| 264 | 120 | Happy |
-| 265 | 120 | Gwendolyn Boykin Mobbs |
+| 257 | 126 | Teresa Mandich |
+| 258 | 126 | Danielle Blount |
+| 259 | 125 | Gwendolyn Boykin Mobbs |
+| 260 | 125 | Ariel Gundersen |
+| 261 | 124 | Tina |
+| 262 | 124 | Jason Burris |
+| 263 | 120 | Elizabeth Cornelius |
+| 264 | 120 | Simone F |
+| 265 | 120 | Happy |
 | 266 | 120 | Kevin Mccoy |
 | 267 | 120 | Flashy Basegrid |
 | 268 | 120 | Al Smith Jr |
@@ -1164,19 +1164,19 @@
 | 1156 | 9 | Dandy Wiper |
 | 1157 | 9 | Sami Amato |
 | 1158 | 9 | Snazzy Cascadezone |
-| 1159 | 9 | wutrwerdz |
+| 1159 | 9 | Kylee Pruitt |
 | 1160 | 9 | James Calhoun |
 | 1161 | 9 | Latrell Thomas |
-| 1162 | 9 | Bethany Gerber |
-| 1163 | 9 | Phyllis DiCristo |
-| 1164 | 9 | Erica |
+| 1162 | 9 | Erica |
+| 1163 | 9 | Bethany Gerber |
+| 1164 | 9 | Phyllis DiCristo |
 | 1165 | 9 | Darla Ragsdale |
 | 1166 | 9 | Lindsey Butler |
-| 1167 | 9 | Giggly Spinblock |
-| 1168 | 9 | Frothy Cascader |
-| 1169 | 9 | April Wright |
-| 1170 | 9 | Kylee Pruitt |
-| 1171 | 9 | Carlee Becher |
+| 1167 | 9 | Carlee Becher |
+| 1168 | 9 | Giggly Spinblock |
+| 1169 | 9 | wutrwerdz |
+| 1170 | 9 | April Wright |
+| 1171 | 9 | Frothy Cascader |
 | 1172 | 9 | Deanna Mc |
 | 1173 | 9 | Glowing Earthy Embers |
 | 1174 | 9 | Jeff Mullins |
@@ -1184,10 +1184,10 @@
 | 1176 | 9 | Cheery Striker |
 | 1177 | 8 | Jackie Hayslip |
 | 1178 | 8 | Beth Engberg |
-| 1179 | 8 | Jenna Thorn |
-| 1180 | 8 | Vicke Patterson |
-| 1181 | 8 | Chill Wipegrid |
-| 1182 | 8 | Jennifer Leigh |
+| 1179 | 8 | Jennifer Leigh |
+| 1180 | 8 | Jenna Thorn |
+| 1181 | 8 | Vicke Patterson |
+| 1182 | 8 | Chill Wipegrid |
 | 1183 | 8 | Funky Slide |
 | 1184 | 8 | Sarah Elizabeth Foret |
 | 1185 | 8 | Crystal Alexander |
@@ -1197,60 +1197,60 @@
 | 1189 | 8 | SueEllen Hawkins |
 | 1190 | 8 | Jumpy Twistslam |
 | 1191 | 8 | LivePhoenix |
-| 1192 | 7 | Clever Balancefit |
-| 1193 | 7 | Jason Janssen |
-| 1194 | 7 | Nicole Slimick |
-| 1195 | 7 | Aguilar Rita |
-| 1196 | 7 | Elizabeth Elaine Coursey |
-| 1197 | 7 | Collins |
-| 1198 | 7 | Mike Honcho |
+| 1192 | 7 | Collins |
+| 1193 | 7 | Aguilar Rita |
+| 1194 | 7 | Clever Balancefit |
+| 1195 | 7 | Nicole Slimick |
+| 1196 | 7 | Jason Janssen |
+| 1197 | 7 | Mike Honcho |
+| 1198 | 7 | Sam Blinn |
 | 1199 | 7 | Liz Wilkerson |
 | 1200 | 7 | Mighty Piecebuilder |
 | 1201 | 7 | Happy Curvebuilder |
 | 1202 | 7 | Flashy Cascadeclear |
 | 1203 | 7 | michael |
-| 1204 | 7 | Crystal King |
-| 1205 | 7 | Shane Peavey |
-| 1206 | 7 | Sam Blinn |
-| 1207 | 7 | Kacey Lindemuth |
-| 1208 | 7 | Brenda Ohaus Facher |
-| 1209 | 7 | Beth |
-| 1210 | 7 | Holly Riley |
+| 1204 | 7 | Elizabeth Elaine Coursey |
+| 1205 | 7 | Crystal King |
+| 1206 | 7 | Kacey Lindemuth |
+| 1207 | 7 | Sasha Hamilton |
+| 1208 | 7 | Beth |
+| 1209 | 7 | Kelli Pazour |
+| 1210 | 7 | sampson |
 | 1211 | 7 | Rochelle O'Loughlin |
-| 1212 | 7 | sampson |
-| 1213 | 7 | Sasha Hamilton |
-| 1214 | 7 | Kelli Pazour |
-| 1215 | 6 | Jager |
-| 1216 | 6 | Snappy Fitblock |
-| 1217 | 6 | Cheeky Dashpiece |
-| 1218 | 6 | Lori Yelvington Cain |
-| 1219 | 6 | Lavenda Nettles |
-| 1220 | 6 | Amanda Knox |
-| 1221 | 6 | Partin |
-| 1222 | 6 | Michelle Brown |
-| 1223 | 6 | Jessie |
-| 1224 | 6 | Lou Sassole |
-| 1225 | 6 | Celeste Samuels |
-| 1226 | 6 | Cozy Curve |
-| 1227 | 6 | Ashley Wolford |
-| 1228 | 6 | Criccett Hooper-Smith |
+| 1212 | 7 | Holly Riley |
+| 1213 | 7 | Brenda Ohaus Facher |
+| 1214 | 7 | Shane Peavey |
+| 1215 | 6 | Ashley Wolford |
+| 1216 | 6 | Jager |
+| 1217 | 6 | Snappy Fitblock |
+| 1218 | 6 | Criccett Hooper-Smith |
+| 1219 | 6 | Cheeky Dashpiece |
+| 1220 | 6 | Lori Yelvington Cain |
+| 1221 | 6 | Lavenda Nettles |
+| 1222 | 6 | Celeste Samuels |
+| 1223 | 6 | Cozy Curve |
+| 1224 | 6 | Amanda Knox |
+| 1225 | 6 | Partin |
+| 1226 | 6 | Michelle Brown |
+| 1227 | 6 | Jessie |
+| 1228 | 6 | Lou Sassole |
 | 1229 | 6 | Bunny Bt |
-| 1230 | 5 | Brittany Weatherspoon |
+| 1230 | 5 | Chirpy Towerer |
 | 1231 | 5 | Dapper Clearpiece |
-| 1232 | 5 | Flynn Flibble |
+| 1232 | 5 | Brittany Weatherspoon |
 | 1233 | 5 | Crystal Poss |
-| 1234 | 5 | Agnes Gable |
+| 1234 | 5 | Flynn Flibble |
 | 1235 | 5 | Jennifer Mauler Schmidt |
-| 1236 | 5 | Chirpy Towerer |
-| 1237 | 5 | Danh Nguyen |
-| 1238 | 5 | Jennifer Roper Stanley |
-| 1239 | 5 | Michelle |
-| 1240 | 5 | Alisha Shelton |
-| 1241 | 5 | Mercedes Lowery |
-| 1242 | 5 | C.L. Deslongchamp |
-| 1243 | 5 | Nolife |
-| 1244 | 5 | Snappy Zonepiece |
-| 1245 | 5 | Jon Torres |
+| 1236 | 5 | Danh Nguyen |
+| 1237 | 5 | Jennifer Roper Stanley |
+| 1238 | 5 | Michelle |
+| 1239 | 5 | Alisha Shelton |
+| 1240 | 5 | Mercedes Lowery |
+| 1241 | 5 | C.L. Deslongchamp |
+| 1242 | 5 | Nolife |
+| 1243 | 5 | Snappy Zonepiece |
+| 1244 | 5 | Jon Torres |
+| 1245 | 5 | Agnes Gable |
 
 ---
 *Standings created by tournaments datasource generation tool*
