@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 22:42:18 UTC
+# Standings for team1 as of 2026-06-06 22:42:39 UTC
 
 **Total Participants:** 1193
 
@@ -290,14 +290,14 @@
 | 282 | 118 | Hasty Pivoty |
 | 283 | 118 | Sarah Clark |
 | 284 | 117 | Giggy Tower |
-| 285 | 116 | Shalya Terry |
-| 286 | 115 | Skippy |
-| 287 | 115 | Dizzy Dashy |
-| 288 | 114 | Brittany Fells |
-| 289 | 114 | Zappy Riser |
-| 290 | 114 | TT |
-| 291 | 114 | LAhoneybun82 |
-| 292 | 113 | Telisha Mims |
+| 285 | 117 | Telisha Mims |
+| 286 | 116 | Shalya Terry |
+| 287 | 115 | Skippy |
+| 288 | 115 | Dizzy Dashy |
+| 289 | 114 | Brittany Fells |
+| 290 | 114 | Zappy Riser |
+| 291 | 114 | TT |
+| 292 | 114 | LAhoneybun82 |
 | 293 | 112 | GamerQueenDS |
 | 294 | 111 | Lesley Brunkus Cianfaglione |
 | 295 | 110 | Chandler Magee |
@@ -307,8 +307,8 @@
 | 299 | 109 | Bambi Johnson |
 | 300 | 109 | Tamika Fisher |
 | 301 | 109 | Loopy Tiler |
-| 302 | 108 | Dedra M Prester |
-| 303 | 108 | Charlene Baltimore |
+| 302 | 108 | Charlene Baltimore |
+| 303 | 108 | Dedra M Prester |
 | 304 | 108 | Tosha Michelle |
 | 305 | 108 | Char |
 | 306 | 107 | LaToya Chambers |
@@ -583,9 +583,9 @@
 | 575 | 53 | Heather Wilson |
 | 576 | 53 | Cortrell Foster |
 | 577 | 53 | Bold Clusterer |
-| 578 | 52 | Gabriela Hernandez |
-| 579 | 52 | Giggly Tiltbuilder |
-| 580 | 52 | Earl Williams |
+| 578 | 53 | Earl Williams |
+| 579 | 52 | Gabriela Hernandez |
+| 580 | 52 | Giggly Tiltbuilder |
 | 581 | 52 | Sherri Keys |
 | 582 | 52 | Loopy Risepiece |
 | 583 | 51 | Shanjerrica Taylor Rosell |
