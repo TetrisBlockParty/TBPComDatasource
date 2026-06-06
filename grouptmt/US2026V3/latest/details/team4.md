@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 20:48:17 UTC
+# Standings for team4 as of 2026-06-06 20:48:38 UTC
 
 **Total Participants:** 1139
 
@@ -63,8 +63,8 @@
 | 55 | 644 | Kelly Bernard |
 | 56 | 630 | Chaz Duncan |
 | 57 | 629 | Keesha Muro |
-| 58 | 628 | Victoria Ver |
-| 59 | 628 | Adam J Leong |
+| 58 | 628 | Adam J Leong |
+| 59 | 628 | Victoria Ver |
 | 60 | 620 | Fancy Crasher |
 | 61 | 618 | Alala.Cersei |
 | 62 | 607 | Jeremy Lopez |
@@ -77,8 +77,8 @@
 | 69 | 546 | Bubbly Twistpiece |
 | 70 | 530 | Jonathan Hewitt |
 | 71 | 521 | Kitsune Bi |
-| 72 | 510 | Nick Graber |
-| 73 | 510 | Krysten Danielle Richard |
+| 72 | 510 | Krysten Danielle Richard |
+| 73 | 510 | Nick Graber |
 | 74 | 502 | Dheeh Robles |
 | 75 | 500 | Michele |
 | 76 | 483 | Jason Allen |
@@ -91,8 +91,8 @@
 | 83 | 440 | Bryan DjMagnum Evans |
 | 84 | 440 | Jewelz |
 | 85 | 420 | Dandy Clearfit |
-| 86 | 400 | Sassy Column |
-| 87 | 400 | Amber Doyle |
+| 86 | 400 | Amber Doyle |
+| 87 | 400 | Sassy Column |
 | 88 | 399 | iiPurgeV2 |
 | 89 | 398 | Kay |
 | 90 | 395 | Melissa WC |
@@ -741,33 +741,33 @@
 | 733 | 35 | Jeremy |
 | 734 | 35 | Allysonjo Varela |
 | 735 | 35 | Stephanie Williams |
-| 736 | 35 | Samantha Brandt |
-| 737 | 35 | Beezy |
-| 738 | 35 | Tiffany Morris Garner |
-| 739 | 35 | Epic Curver |
-| 740 | 35 | Saul Fajardo |
-| 741 | 35 | Robert Moore |
-| 742 | 35 | Zappy Tilemaker |
-| 743 | 35 | Julian Gasque |
-| 744 | 34 | Sunshine Dreamchaser Whitfield |
+| 736 | 35 | Julian Gasque |
+| 737 | 35 | Zappy Tilemaker |
+| 738 | 35 | Robert Moore |
+| 739 | 35 | Saul Fajardo |
+| 740 | 35 | Epic Curver |
+| 741 | 35 | Tiffany Morris Garner |
+| 742 | 35 | Beezy |
+| 743 | 35 | Samantha Brandt |
+| 744 | 34 | Koren Heersink |
 | 745 | 34 | Yulissa Diaz |
-| 746 | 34 | Koren Heersink |
-| 747 | 34 | Charlene Nicole Guidry |
-| 748 | 34 | Amanda Albritton Moore |
-| 749 | 34 | Giggly Column |
-| 750 | 33 | Wacky Snaplink |
-| 751 | 33 | Chill Snapclear |
-| 752 | 33 | Tommy Thomas |
-| 753 | 33 | Dinah Mccall |
+| 746 | 34 | Sunshine Dreamchaser Whitfield |
+| 747 | 34 | Amanda Albritton Moore |
+| 748 | 34 | Giggly Column |
+| 749 | 34 | Charlene Nicole Guidry |
+| 750 | 33 | Chill Snapclear |
+| 751 | 33 | Dinah Mccall |
+| 752 | 33 | Wacky Snaplink |
+| 753 | 33 | Sherri Lorent |
 | 754 | 33 | Casey Thomas |
-| 755 | 33 | Tracy Ann Frederick |
-| 756 | 33 | Melissa Schwager |
-| 757 | 33 | Sherri Lorent |
-| 758 | 33 | Alaina Rousseau |
-| 759 | 33 | MsThick SrtLady Williams |
-| 760 | 33 | Donna Howard |
-| 761 | 32 | Freddy-B |
-| 762 | 32 | Tracy Marino |
+| 755 | 33 | Tommy Thomas |
+| 756 | 33 | Tracy Ann Frederick |
+| 757 | 33 | Melissa Schwager |
+| 758 | 33 | Tracy Marino |
+| 759 | 33 | Alaina Rousseau |
+| 760 | 33 | MsThick SrtLady Williams |
+| 761 | 33 | Donna Howard |
+| 762 | 32 | Freddy-B |
 | 763 | 32 | Renzo Tonini |
 | 764 | 32 | Cranky Twisterfit |
 | 765 | 32 | Hyper Snaplink |
