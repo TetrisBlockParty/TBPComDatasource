@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 10:08:37 UTC
+# Standings for team1 as of 2026-06-06 10:09:15 UTC
 
 **Total Participants:** 951
 
@@ -146,15 +146,15 @@
 | 138 | 169 | Asha Langford |
 | 139 | 166 | Tarnisha Neicy Jones |
 | 140 | 166 | Nobles Brandon |
-| 141 | 160 | Sara Meri |
-| 142 | 160 | Zippy Lifter |
-| 143 | 160 | DaGuy |
-| 144 | 158 | W.A. Simpson |
-| 145 | 158 | Tina Mitchell |
-| 146 | 156 | Jessica Russell |
+| 141 | 162 | Eugina Slater |
+| 142 | 160 | Sara Meri |
+| 143 | 160 | Zippy Lifter |
+| 144 | 160 | DaGuy |
+| 145 | 158 | W.A. Simpson |
+| 146 | 158 | Tina Mitchell |
 | 147 | 156 | Anthony Washington |
-| 148 | 155 | Jawaun Daniels |
-| 149 | 152 | Eugina Slater |
+| 148 | 156 | Jessica Russell |
+| 149 | 155 | Jawaun Daniels |
 | 150 | 147 | MACHETEEDDIE513 |
 | 151 | 147 | David Fuentes |
 | 152 | 146 | BlackQueen105 |
@@ -162,8 +162,8 @@
 | 154 | 140 | Antoinette Jones |
 | 155 | 140 | Ann Chung |
 | 156 | 139 | Mafio SO |
-| 157 | 138 | JaClanDiah |
-| 158 | 138 | Lashaunda |
+| 157 | 138 | Lashaunda |
+| 158 | 138 | JaClanDiah |
 | 159 | 135 | Sean White |
 | 160 | 135 | Dawn L Washington-Feuquay |
 | 161 | 135 | Amber Wilson |
