@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 23:48:18 UTC
+# Standings for team4 as of 2026-06-06 23:48:40 UTC
 
 **Total Participants:** 1207
 
@@ -50,9 +50,9 @@
 | 42 | 892 | Alala.Cersei |
 | 43 | 876 | SMV |
 | 44 | 864 | Snippy Grid |
-| 45 | 832 | Blind Bette |
-| 46 | 827 | 626 |
-| 47 | 827 | Bubbly Twistpiece |
+| 45 | 847 | Bubbly Twistpiece |
+| 46 | 832 | Blind Bette |
+| 47 | 827 | 626 |
 | 48 | 805 | JoLinda Dunn |
 | 49 | 800 | Leah Gorsuch |
 | 50 | 797 | Beee |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 23:48:18 UTC
+# Standings for team1 as of 2026-06-06 23:48:40 UTC
 
 **Total Participants:** 1220
 
@@ -90,9 +90,9 @@
 | 82 | 511 | Abraham Espaillat |
 | 83 | 511 | Dizzy Dropper |
 | 84 | 510 | Cj Gorman |
-| 85 | 502 | Tiana Moore |
-| 86 | 495 | Jaida De'Anne Cox |
-| 87 | 489 | Carolynne Walker-Bell |
+| 85 | 509 | Carolynne Walker-Bell |
+| 86 | 502 | Tiana Moore |
+| 87 | 495 | Jaida De'Anne Cox |
 | 88 | 477 | Chenell Gillard |
 | 89 | 474 | Keeta Chickswit Scott |
 | 90 | 454 | DaVonte' Cretter |
@@ -220,8 +220,8 @@
 | 212 | 169 | Chilly Wipebuilder |
 | 213 | 168 | Tina Mitchell |
 | 214 | 167 | Jai |
-| 215 | 166 | Tarnisha Neicy Jones |
-| 216 | 166 | Lesley Brunkus Cianfaglione |
+| 215 | 167 | Lesley Brunkus Cianfaglione |
+| 216 | 166 | Tarnisha Neicy Jones |
 | 217 | 166 | Latisha Fairley |
 | 218 | 165 | Queenie Perry |
 | 219 | 164 | Richard Flex |
@@ -480,15 +480,15 @@
 | 472 | 70 | Jimmy Shannon |
 | 473 | 69 | Glitzy Clusterer |
 | 474 | 69 | Sunny Clicky |
-| 475 | 69 | sasha |
-| 476 | 68 | Shea Ladynick Henderson |
-| 477 | 68 | Sallie Sanborn |
-| 478 | 68 | Zappy Snapgrid |
-| 479 | 68 | Daring Riserfit |
-| 480 | 68 | Alyssa Rae |
-| 481 | 68 | Lakiesha Crawford |
-| 482 | 68 | Brenda Malachi-butler |
-| 483 | 68 | Ashleyy Netchert |
+| 475 | 69 | Ashleyy Netchert |
+| 476 | 69 | sasha |
+| 477 | 68 | Shea Ladynick Henderson |
+| 478 | 68 | Sallie Sanborn |
+| 479 | 68 | Zappy Snapgrid |
+| 480 | 68 | Daring Riserfit |
+| 481 | 68 | Alyssa Rae |
+| 482 | 68 | Lakiesha Crawford |
+| 483 | 68 | Brenda Malachi-butler |
 | 484 | 67 | Guard Up |
 | 485 | 67 | Kahh |
 | 486 | 67 | LexiiSamayaa |
