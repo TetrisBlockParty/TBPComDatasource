@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 07:22:16 UTC
+# Standings for team1 as of 2026-06-06 07:22:40 UTC
 
 **Total Participants:** 906
 
@@ -850,63 +850,63 @@
 | 842 | 9 | Derald Miller |
 | 843 | 9 | Brave Gridmatch |
 | 844 | 9 | Kortney Adams |
-| 845 | 9 | Sherry D Singleton |
-| 846 | 9 | Mars |
-| 847 | 9 | Dana |
-| 848 | 9 | ummm |
+| 845 | 9 | Mars |
+| 846 | 9 | Dana |
+| 847 | 9 | Noni |
+| 848 | 9 | John Lovato |
 | 849 | 9 | Jasmine Hariston-Estis |
-| 850 | 9 | Noni |
-| 851 | 9 | John Lovato |
-| 852 | 8 | Brenda Brogden |
-| 853 | 8 | Chinkey Overit |
-| 854 | 8 | jus_ry |
-| 855 | 8 | Nerdy Twistline |
-| 856 | 8 | Chill Tumbler |
-| 857 | 8 | Groovy Riseclear |
-| 858 | 8 | Ferocity |
+| 850 | 9 | Zappy Riser |
+| 851 | 9 | ummm |
+| 852 | 9 | Sherry D Singleton |
+| 853 | 8 | Chevonne Huggins |
+| 854 | 8 | Nerdy Twistline |
+| 855 | 8 | Chill Tumbler |
+| 856 | 8 | jus_ry |
+| 857 | 8 | Brenda Brogden |
+| 858 | 8 | Groovy Riseclear |
 | 859 | 8 | Caitlin Michele |
-| 860 | 8 | Chevonne Huggins |
-| 861 | 8 | Shawna Passwater |
-| 862 | 8 | Kim Holzmiller |
-| 863 | 8 | Rixo Blax |
-| 864 | 8 | Macho Lewis |
-| 865 | 8 | Teresa Bean |
-| 866 | 7 | Teresa F. Campos Eaton |
-| 867 | 7 | Analesia Taylor |
-| 868 | 7 | Mary2 |
-| 869 | 7 | Shane Brucewayne |
-| 870 | 7 | Andrew Harris |
-| 871 | 7 | Deadra Graham |
-| 872 | 7 | Milfchaser530 |
-| 873 | 7 | KingSlim82 |
-| 874 | 7 | whatever |
-| 875 | 6 | Anthony T. Fults |
-| 876 | 6 | Frances Davis |
-| 877 | 6 | CK |
-| 878 | 6 | Daring Riserfit |
-| 879 | 6 | Kyshia |
-| 880 | 6 | Desi Guerra |
-| 881 | 6 | Lucy |
-| 882 | 6 | Snippy Breaker |
-| 883 | 6 | Christopher Wallace |
-| 884 | 6 | Frilly Riserbuilder |
+| 860 | 8 | Kim Holzmiller |
+| 861 | 8 | Ferocity |
+| 862 | 8 | Teresa Bean |
+| 863 | 8 | Shawna Passwater |
+| 864 | 8 | Chinkey Overit |
+| 865 | 8 | Rixo Blax |
+| 866 | 8 | Macho Lewis |
+| 867 | 7 | Teresa F. Campos Eaton |
+| 868 | 7 | Andrew Harris |
+| 869 | 7 | Analesia Taylor |
+| 870 | 7 | whatever |
+| 871 | 7 | KingSlim82 |
+| 872 | 7 | Shane Brucewayne |
+| 873 | 7 | Milfchaser530 |
+| 874 | 7 | Deadra Graham |
+| 875 | 7 | Mary2 |
+| 876 | 6 | CK |
+| 877 | 6 | Desi Guerra |
+| 878 | 6 | NEM0228 |
+| 879 | 6 | S.S |
+| 880 | 6 | Kyshia |
+| 881 | 6 | Anthony T. Fults |
+| 882 | 6 | Christopher Wallace |
+| 883 | 6 | Frances Davis |
+| 884 | 6 | Lucy |
 | 885 | 6 | Wu May |
-| 886 | 6 | NEM0228 |
-| 887 | 6 | S.S |
-| 888 | 5 | Stephanie Zuniga Tullock |
+| 886 | 6 | Snippy Breaker |
+| 887 | 6 | Daring Riserfit |
+| 888 | 6 | Frilly Riserbuilder |
 | 889 | 5 | Derek Beverly |
-| 890 | 5 | Temeshia Brooks Washington |
-| 891 | 5 | Chill Linkroll |
-| 892 | 5 | Rieshelda Marie White |
-| 893 | 5 | the guy |
-| 894 | 5 | Logan Frost |
-| 895 | 5 | Duckey |
-| 896 | 5 | Zappy Clearfit |
-| 897 | 5 | Jennifer Moore |
-| 898 | 5 | Kidgib5 |
-| 899 | 5 | Tito Divyn |
-| 900 | 5 | DirtiestofMikes |
-| 901 | 5 | Zappy Riser |
+| 890 | 5 | Chill Linkroll |
+| 891 | 5 | Temeshia Brooks Washington |
+| 892 | 5 | Stephanie Zuniga Tullock |
+| 893 | 5 | Rieshelda Marie White |
+| 894 | 5 | the guy |
+| 895 | 5 | Logan Frost |
+| 896 | 5 | Duckey |
+| 897 | 5 | Zappy Clearfit |
+| 898 | 5 | Jennifer Moore |
+| 899 | 5 | Kidgib5 |
+| 900 | 5 | Tito Divyn |
+| 901 | 5 | DirtiestofMikes |
 | 902 | 5 | Marissa Sweet |
 | 903 | 5 | Hasty Brickzone |
 | 904 | 5 | VERA DAME |
