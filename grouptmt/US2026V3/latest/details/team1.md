@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 13:02:40 UTC
+# Standings for team1 as of 2026-06-06 13:03:16 UTC
 
 **Total Participants:** 989
 
@@ -117,7 +117,7 @@
 | 109 | 237 | Leebo Slice |
 | 110 | 234 | DaVonte' Cretter |
 | 111 | 232 | Gael Quintana |
-| 112 | 229 | Jamal Itzjusmall Chambers |
+| 112 | 230 | Jamal Itzjusmall Chambers |
 | 113 | 227 | Chantelle Lee |
 | 114 | 225 | Rhonda Williams Warner |
 | 115 | 224 | Alana Renee |
@@ -179,7 +179,7 @@
 | 171 | 135 | Amber Wilson |
 | 172 | 135 | Sean White |
 | 173 | 135 | Dawn L Washington-Feuquay |
-| 174 | 133 | Mikayla |
+| 174 | 134 | Mikayla |
 | 175 | 133 | IThinkNot |
 | 176 | 133 | Byron Mario Cawthon |
 | 177 | 133 | Ebony Waynes-robinson |
@@ -519,64 +519,64 @@
 | 511 | 40 | Blocksy |
 | 512 | 40 | nay |
 | 513 | 40 | Slinky Fallzone |
-| 514 | 40 | Tori Carter |
-| 515 | 40 | Deveda Williams |
-| 516 | 40 | Christopher L Crites |
-| 517 | 40 | Marcello Rush |
-| 518 | 40 | akosua |
-| 519 | 40 | Devin West |
-| 520 | 40 | Dawn Basemore |
-| 521 | 40 | Furlough Leslie |
+| 514 | 40 | Tracy Feyler |
+| 515 | 40 | Tori Carter |
+| 516 | 40 | Deveda Williams |
+| 517 | 40 | Christopher L Crites |
+| 518 | 40 | Marcello Rush |
+| 519 | 40 | akosua |
+| 520 | 40 | Devin West |
+| 521 | 40 | Dawn Basemore |
 | 522 | 40 | Flashy Slam |
-| 523 | 40 | Cj Chimelis |
-| 524 | 39 | Lexx Robins |
-| 525 | 39 | Kyle Conley |
-| 526 | 39 | Laysa Nunez |
-| 527 | 39 | Diva shrock |
-| 528 | 39 | Boldy Pivoty |
-| 529 | 39 | Solomon Valarie |
-| 530 | 39 | Vernon Hoyt |
-| 531 | 39 | BP Phillips |
-| 532 | 39 | ChunLi |
-| 533 | 39 | Essence Jones |
-| 534 | 39 | JesusSaves 😇 |
-| 535 | 39 | Elizabeth Green |
-| 536 | 39 | Twisty Cascadeclear |
-| 537 | 39 | Amy Lynn Leifheit |
-| 538 | 38 | Quwana Hall |
-| 539 | 38 | Tonny Williams |
-| 540 | 38 | WReckitraff |
-| 541 | 38 | Earl Williams |
-| 542 | 38 | Kayel Good |
-| 543 | 38 | SeanSanchez |
+| 523 | 40 | Furlough Leslie |
+| 524 | 40 | Cj Chimelis |
+| 525 | 39 | Twisty Cascadeclear |
+| 526 | 39 | Amy Lynn Leifheit |
+| 527 | 39 | ChunLi |
+| 528 | 39 | Vernon Hoyt |
+| 529 | 39 | Boldy Pivoty |
+| 530 | 39 | Kyle Conley |
+| 531 | 39 | Laysa Nunez |
+| 532 | 39 | Diva shrock |
+| 533 | 39 | Solomon Valarie |
+| 534 | 39 | Lexx Robins |
+| 535 | 39 | BP Phillips |
+| 536 | 39 | JesusSaves 😇 |
+| 537 | 39 | Essence Jones |
+| 538 | 39 | Elizabeth Green |
+| 539 | 38 | WReckitraff |
+| 540 | 38 | hope |
+| 541 | 38 | Kayel Good |
+| 542 | 38 | 大竹直之 |
+| 543 | 38 | Kahliah Baker |
 | 544 | 38 | Manda Allen |
-| 545 | 38 | 大竹直之 |
-| 546 | 38 | Kahliah Baker |
-| 547 | 38 | hope |
-| 548 | 37 | Elizabeth Vega Coreano |
-| 549 | 37 | Karen Denen |
-| 550 | 37 | Jojo M |
-| 551 | 37 | Lootch |
-| 552 | 37 | CoaCoa Myles |
-| 553 | 37 | Lil T |
-| 554 | 36 | Meluhnee |
+| 545 | 38 | Quwana Hall |
+| 546 | 38 | Tonny Williams |
+| 547 | 38 | SeanSanchez |
+| 548 | 38 | Earl Williams |
+| 549 | 37 | Lil T |
+| 550 | 37 | CoaCoa Myles |
+| 551 | 37 | Jojo M |
+| 552 | 37 | Karen Denen |
+| 553 | 37 | Lootch |
+| 554 | 37 | Elizabeth Vega Coreano |
 | 555 | 36 | Jess |
 | 556 | 36 | Xrandomx |
-| 557 | 36 | Meow Meow |
-| 558 | 35 | Tracy Feyler |
-| 559 | 35 | Crafty Link |
-| 560 | 35 | Mighty Dropper |
+| 557 | 36 | Meluhnee |
+| 558 | 36 | Meow Meow |
+| 559 | 35 | Shannon Carriger |
+| 560 | 35 | Crafty Link |
 | 561 | 35 | Sashaleo |
-| 562 | 35 | Shannon Carriger |
+| 562 | 35 | Amy Villalpando |
 | 563 | 35 | messyboots |
 | 564 | 35 | Saucy Crusher |
-| 565 | 35 | Giggy Clusterer |
-| 566 | 35 | Taz Ballard |
-| 567 | 35 | Hyedie Badie |
-| 568 | 35 | Amy Villalpando |
+| 565 | 35 | Taz Ballard |
+| 566 | 35 | Hyedie Badie |
+| 567 | 35 | Giggy Clusterer |
+| 568 | 35 | Mighty Dropper |
 | 569 | 34 | Mary Phillippi Blanton |
-| 570 | 34 | Spicy Shatterblock |
-| 571 | 34 | Jelyfish |
+| 570 | 34 | Jelyfish |
+| 571 | 34 | Spicy Shatterblock |
 | 572 | 34 | Sharee Robinson |
 | 573 | 34 | Zayy Wavyy |
 | 574 | 34 | Rene Hicks |
