@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 17:15:17 UTC
+# Standings for team4 as of 2026-06-06 17:16:17 UTC
 
 **Total Participants:** 1062
 
@@ -33,9 +33,9 @@
 | 25 | 1059 | Squirrel Donkey |
 | 26 | 1055 | Michele Walker |
 | 27 | 989 | Ning Quiambao |
-| 28 | 971 | Loony Towerer |
-| 29 | 966 | BertaF1irta |
-| 30 | 941 | Charlie Lewis |
+| 28 | 971 | Charlie Lewis |
+| 29 | 971 | Loony Towerer |
+| 30 | 966 | BertaF1irta |
 | 31 | 901 | Giggy Matchpiece |
 | 32 | 900 | Kathy Brookins |
 | 33 | 876 | SMV |
@@ -90,9 +90,9 @@
 | 82 | 383 | Crissy Hoffman |
 | 83 | 378 | Lisa Garcia |
 | 84 | 376 | Jason Garnatz |
-| 85 | 360 | Gigglycat |
-| 86 | 356 | Tanita Jobe |
-| 87 | 353 | Boldy Rumbler |
+| 85 | 373 | Boldy Rumbler |
+| 86 | 360 | Gigglycat |
+| 87 | 356 | Tanita Jobe |
 | 88 | 353 | Hen |
 | 89 | 352 | Jackie Jackson |
 | 90 | 349 | GeorgeButts |
@@ -235,49 +235,49 @@
 | 227 | 117 | kellie |
 | 228 | 116 | Jennifer Fisher Franklin |
 | 229 | 116 | WeeWooWee |
-| 230 | 116 | Brennan Shea Greene |
-| 231 | 116 | Shocinda Sherwood |
-| 232 | 116 | Dee Wizz |
-| 233 | 115 | Hardy Fuller |
-| 234 | 114 | Bryan DjMagnum Evans |
-| 235 | 114 | Dapper Strikerpiece |
-| 236 | 113 | Dizzy Slammer |
-| 237 | 113 | Melissa Anne |
-| 238 | 113 | Slinky Stackzone |
-| 239 | 113 | Dennis Montoya |
-| 240 | 113 | kcknbtz |
-| 241 | 112 | CJ |
-| 242 | 112 | Homie |
-| 243 | 111 | King |
-| 244 | 110 | jaz |
-| 245 | 109 | Ginny |
-| 246 | 109 | Rose Anna Safi |
-| 247 | 108 | Dawn Phelps |
-| 248 | 108 | Anthony Lewis |
-| 249 | 107 | Allysha McFarland |
-| 250 | 107 | Tommy Bond |
-| 251 | 107 | Jrr |
-| 252 | 106 | Pepone Pepe |
-| 253 | 106 | Samantha Worley |
-| 254 | 106 | George Palacios |
+| 230 | 116 | Pepone Pepe |
+| 231 | 116 | Brennan Shea Greene |
+| 232 | 116 | Shocinda Sherwood |
+| 233 | 116 | Dee Wizz |
+| 234 | 115 | Hardy Fuller |
+| 235 | 114 | Bryan DjMagnum Evans |
+| 236 | 114 | Dapper Strikerpiece |
+| 237 | 113 | Dizzy Slammer |
+| 238 | 113 | Melissa Anne |
+| 239 | 113 | Slinky Stackzone |
+| 240 | 113 | Dennis Montoya |
+| 241 | 113 | kcknbtz |
+| 242 | 112 | CJ |
+| 243 | 112 | Homie |
+| 244 | 111 | King |
+| 245 | 110 | jaz |
+| 246 | 109 | Ginny |
+| 247 | 109 | Rose Anna Safi |
+| 248 | 108 | Dawn Phelps |
+| 249 | 108 | Anthony Lewis |
+| 250 | 107 | Allysha McFarland |
+| 251 | 107 | Tommy Bond |
+| 252 | 107 | Jrr |
+| 253 | 106 | George Palacios |
+| 254 | 106 | Samantha Worley |
 | 255 | 105 | Shanna Fragen |
 | 256 | 104 | LastBoi |
 | 257 | 104 | Justin Ballard |
 | 258 | 103 | farfromlocal |
-| 259 | 102 | Keith Kosmicki |
-| 260 | 102 | Futrell Brent |
-| 261 | 102 | Taisha Beasley |
+| 259 | 102 | Taisha Beasley |
+| 260 | 102 | Keith Kosmicki |
+| 261 | 102 | Futrell Brent |
 | 262 | 101 | Tipsy Zonebuilder |
-| 263 | 101 | Dayna Arthurs |
-| 264 | 101 | Sarah Perry Cook |
+| 263 | 101 | Sarah Perry Cook |
+| 264 | 101 | Zesty Twistpiece |
 | 265 | 101 | TheazO |
-| 266 | 101 | Zesty Twistpiece |
+| 266 | 101 | Dayna Arthurs |
 | 267 | 100 | CorieBe |
-| 268 | 100 | Melissa Brown |
-| 269 | 100 | Rita Ann |
+| 268 | 100 | Loopy Clusterline |
+| 269 | 100 | bollo |
 | 270 | 100 | Iforget |
-| 271 | 100 | Loopy Clusterline |
-| 272 | 100 | bollo |
+| 271 | 100 | Rita Ann |
+| 272 | 100 | Melissa Brown |
 | 273 | 98 | Jacqueline Arce |
 | 274 | 97 | Tarsha Thomas-Martinez |
 | 275 | 97 | Corey Jackson |
@@ -901,30 +901,30 @@
 | 893 | 17 | Stotty |
 | 894 | 17 | Crystal Morrin |
 | 895 | 17 | David Kirschner |
-| 896 | 16 | Grace Mariie |
-| 897 | 16 | Mr.Corbin |
-| 898 | 16 | Ashley McGeehan |
-| 899 | 16 | LuLazer27 |
-| 900 | 16 | Frisky Pusher |
-| 901 | 16 | Snappy Fill |
-| 902 | 16 | Catherine Garza |
-| 903 | 16 | EKM |
-| 904 | 16 | Mighty Spinfit |
-| 905 | 16 | Layne Davis |
-| 906 | 16 | Baby cat |
-| 907 | 16 | Poptart |
-| 908 | 16 | Dee Modest |
-| 909 | 15 | babygirlw |
-| 910 | 15 | Tana-Marie Lynn McCarty-Rolf |
-| 911 | 15 | Hasty Grabber |
-| 912 | 15 | Cas Gio |
-| 913 | 15 | Tracy Marino |
-| 914 | 15 | Christina Barry |
-| 915 | 15 | Twisty Gridclear |
-| 916 | 15 | Manolo Canety |
-| 917 | 15 | Sherry Mooney |
-| 918 | 15 | Wacky Clusterer |
-| 919 | 15 | Christy Petty |
+| 896 | 16 | EKM |
+| 897 | 16 | Grace Mariie |
+| 898 | 16 | Mr.Corbin |
+| 899 | 16 | Christy Petty |
+| 900 | 16 | Ashley McGeehan |
+| 901 | 16 | LuLazer27 |
+| 902 | 16 | Frisky Pusher |
+| 903 | 16 | Snappy Fill |
+| 904 | 16 | Catherine Garza |
+| 905 | 16 | Mighty Spinfit |
+| 906 | 16 | Layne Davis |
+| 907 | 16 | Baby cat |
+| 908 | 16 | Poptart |
+| 909 | 16 | Dee Modest |
+| 910 | 15 | babygirlw |
+| 911 | 15 | Wacky Clusterer |
+| 912 | 15 | Tana-Marie Lynn McCarty-Rolf |
+| 913 | 15 | Cas Gio |
+| 914 | 15 | Tracy Marino |
+| 915 | 15 | Hasty Grabber |
+| 916 | 15 | Christina Barry |
+| 917 | 15 | Twisty Gridclear |
+| 918 | 15 | Manolo Canety |
+| 919 | 15 | Sherry Mooney |
 | 920 | 15 | Austin Tan |
 | 921 | 15 | Nerdy Glider |
 | 922 | 15 | Mandi Rexroat |
