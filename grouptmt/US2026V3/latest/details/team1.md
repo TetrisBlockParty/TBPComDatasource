@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 10:27:16 UTC
+# Standings for team1 as of 2026-06-06 10:28:17 UTC
 
 **Total Participants:** 957
 
@@ -66,17 +66,17 @@
 | 58 | 395 | Markeeta Lipscomb |
 | 59 | 388 | SPNLover24 |
 | 60 | 387 | Novaa |
-| 61 | 380 | Bre Maugh |
-| 62 | 380 | She Higgy |
-| 63 | 380 | Jessica Carter |
-| 64 | 380 | IamJust Neyamijah Washington Sr. |
-| 65 | 377 | JaszyBadd |
-| 66 | 377 | AF Cruz |
-| 67 | 371 | Shell Lewis |
-| 68 | 368 | Ottison Dianna |
-| 69 | 365 | Sarah Marie |
-| 70 | 363 | Voice |
-| 71 | 363 | Gotcha |
+| 61 | 383 | Gotcha |
+| 62 | 380 | Bre Maugh |
+| 63 | 380 | She Higgy |
+| 64 | 380 | Jessica Carter |
+| 65 | 380 | IamJust Neyamijah Washington Sr. |
+| 66 | 377 | JaszyBadd |
+| 67 | 377 | AF Cruz |
+| 68 | 371 | Shell Lewis |
+| 69 | 368 | Ottison Dianna |
+| 70 | 365 | Sarah Marie |
+| 71 | 363 | Voice |
 | 72 | 362 | Eric Mcgaughy |
 | 73 | 350 | Jazzy Dashpiece |
 | 74 | 344 | Kevin M. McGhee Jr |
@@ -295,14 +295,14 @@
 | 287 | 71 | Elaine Pauley |
 | 288 | 70 | $hort Dog |
 | 289 | 70 | Kaleisha Smith |
-| 290 | 70 | Gerold Folk Haddock |
-| 291 | 70 | Trina Greenwood |
-| 292 | 70 | Cheeky Pop |
-| 293 | 70 | Hailey Hil |
-| 294 | 70 | MamushiOh |
-| 295 | 69 | Sunny Clicky |
-| 296 | 69 | CJ Robinson |
-| 297 | 69 | Tyiesha Pie Farmer |
+| 290 | 70 | Tyiesha Pie Farmer |
+| 291 | 70 | Gerold Folk Haddock |
+| 292 | 70 | Trina Greenwood |
+| 293 | 70 | Cheeky Pop |
+| 294 | 70 | Hailey Hil |
+| 295 | 70 | MamushiOh |
+| 296 | 69 | Sunny Clicky |
+| 297 | 69 | CJ Robinson |
 | 298 | 68 | Eric Spencer Whitaker |
 | 299 | 68 | Tee Spinks |
 | 300 | 68 | Wacky Stackbuilder |
