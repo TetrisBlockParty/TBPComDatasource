@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 12:40:17 UTC
+# Standings for team1 as of 2026-06-06 12:40:37 UTC
 
 **Total Participants:** 982
 
@@ -387,47 +387,47 @@
 | 379 | 59 | Chilly Wipebuilder |
 | 380 | 59 | Darrel Pemberton |
 | 381 | 58 | FunTime |
-| 382 | 58 | Brandy Way |
-| 383 | 58 | Shanaa Germany Crittenden |
-| 384 | 58 | Bambi Love |
-| 385 | 58 | Alexandrla Smith |
+| 382 | 58 | Bambi Love |
+| 383 | 58 | Brandy Way |
+| 384 | 58 | Shanaa Germany Crittenden |
+| 385 | 58 | Sonia Binti Mfalme |
 | 386 | 58 | Kimberly Susan Privette |
-| 387 | 58 | Sonia Binti Mfalme |
-| 388 | 57 | Nikkizz |
-| 389 | 56 | DirtiestofMikes |
-| 390 | 56 | Nichelle Warren |
-| 391 | 56 | Bobby Chestefield |
-| 392 | 56 | Nora Mahmoud |
-| 393 | 56 | Lakiesha Crawford |
-| 394 | 55 | Kate Hancock Malicek |
+| 387 | 58 | Alexandrla Smith |
+| 388 | 57 | Kate Hancock Malicek |
+| 389 | 57 | Nikkizz |
+| 390 | 56 | DirtiestofMikes |
+| 391 | 56 | Nichelle Warren |
+| 392 | 56 | Bobby Chestefield |
+| 393 | 56 | Nora Mahmoud |
+| 394 | 56 | Lakiesha Crawford |
 | 395 | 55 | Angelique Talbot |
-| 396 | 55 | Sammie Walker |
-| 397 | 55 | Twisty Brickfit |
+| 396 | 55 | Twisty Brickfit |
+| 397 | 55 | Sammie Walker |
 | 398 | 55 | Kyle Franklin |
-| 399 | 55 | Terrie |
-| 400 | 55 | KoolKimJay |
+| 399 | 55 | KoolKimJay |
+| 400 | 55 | Terrie |
 | 401 | 55 | Dreamzzz |
-| 402 | 54 | Elizabeth Hopkins |
-| 403 | 54 | Melissa Olvera |
-| 404 | 54 | Ryan Runyan |
-| 405 | 54 | Ace Hardware |
+| 402 | 54 | Melissa Olvera |
+| 403 | 54 | Ace Hardware |
+| 404 | 54 | Elizabeth Hopkins |
+| 405 | 54 | Ryan Runyan |
 | 406 | 53 | Jumpy Gridlock |
-| 407 | 53 | Clever Wrecker |
-| 408 | 53 | Cortrell Foster |
+| 407 | 53 | Cortrell Foster |
+| 408 | 53 | Clever Wrecker |
 | 409 | 52 | Anastasia |
 | 410 | 52 | Loopy Risepiece |
 | 411 | 52 | Raquel Ortiz |
 | 412 | 52 | Dandy Brickfit |
 | 413 | 52 | Gabriela Hernandez |
-| 414 | 51 | Shanjerrica Taylor Rosell |
-| 415 | 51 | Poppy Smasher |
-| 416 | 51 | BrettanMary Adkins |
-| 417 | 51 | Comedian Gdane |
-| 418 | 51 | Rachael Bakowicz Edwards |
-| 419 | 51 | Just2Play$ |
+| 414 | 51 | Comedian Gdane |
+| 415 | 51 | Rachael Bakowicz Edwards |
+| 416 | 51 | Just2Play$ |
+| 417 | 51 | Poppy Smasher |
+| 418 | 51 | Shanjerrica Taylor Rosell |
+| 419 | 51 | BrettanMary Adkins |
 | 420 | 50 | Denell Sims |
-| 421 | 50 | Jjhandsome |
-| 422 | 50 | Slinky Party |
+| 421 | 50 | Slinky Party |
+| 422 | 50 | Jjhandsome |
 | 423 | 50 | Rande Smith |
 | 424 | 50 | Nisha Sunshine Jenkins |
 | 425 | 50 | Kp |
