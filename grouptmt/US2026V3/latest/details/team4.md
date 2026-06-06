@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 23:42:40 UTC
+# Standings for team4 as of 2026-06-06 23:43:17 UTC
 
 **Total Participants:** 1204
 
@@ -54,14 +54,14 @@
 | 46 | 827 | 626 |
 | 47 | 805 | JoLinda Dunn |
 | 48 | 800 | Leah Gorsuch |
-| 49 | 797 | Beee |
-| 50 | 795 | Erin Figone |
-| 51 | 787 | Bubbly Twistpiece |
+| 49 | 797 | Bubbly Twistpiece |
+| 50 | 797 | Beee |
+| 51 | 795 | Erin Figone |
 | 52 | 754 | Victoria Ver |
 | 53 | 738 | Shaina Sharp |
 | 54 | 736 | Gloria Nunley Trussell |
-| 55 | 722 | Chummy Rollzone |
-| 56 | 722 | Keesha Muro |
+| 55 | 722 | Keesha Muro |
+| 56 | 722 | Chummy Rollzone |
 | 57 | 720 | Carly Stempien |
 | 58 | 718 | Phil Peterson |
 | 59 | 711 | MysticMaven |
@@ -423,39 +423,39 @@
 | 415 | 80 | Lady Dolphin |
 | 416 | 80 | Aaron Turner |
 | 417 | 80 | Shia Marie |
-| 418 | 79 | Audrianna Skaff |
-| 419 | 79 | Elena Marí |
-| 420 | 79 | Joshua Hunt |
-| 421 | 79 | Joyce Myers |
-| 422 | 79 | Lisa Jones |
-| 423 | 79 | Gean DeJesus |
+| 418 | 79 | Gean DeJesus |
+| 419 | 79 | Audrianna Skaff |
+| 420 | 79 | Elena Marí |
+| 421 | 79 | Joshua Hunt |
+| 422 | 79 | Joyce Myers |
+| 423 | 79 | Lisa Jones |
 | 424 | 79 | Azahares Alonso |
-| 425 | 79 | Dru Lui |
-| 426 | 79 | GingaNinja |
-| 427 | 79 | JoAnn Summerlot Ratliff |
-| 428 | 79 | yourmomz |
+| 425 | 79 | yourmomz |
+| 426 | 79 | Dru Lui |
+| 427 | 79 | GingaNinja |
+| 428 | 79 | JoAnn Summerlot Ratliff |
 | 429 | 79 | Has2brat |
-| 430 | 78 | Denise Wilson |
+| 430 | 78 | Andrea Dre Lomeli |
 | 431 | 78 | Mint Marquez |
-| 432 | 78 | Andrea Dre Lomeli |
+| 432 | 78 | Denise Wilson |
 | 433 | 78 | Dena Lynn Rogers |
-| 434 | 77 | Bonique Bier |
-| 435 | 77 | Ajohnna Frazee |
-| 436 | 77 | Tyson Stroppel |
-| 437 | 76 | Perry Ransom |
-| 438 | 76 | Baysoph |
-| 439 | 76 | Spicy Peach |
+| 434 | 77 | Ajohnna Frazee |
+| 435 | 77 | Tyson Stroppel |
+| 436 | 77 | Bonique Bier |
+| 437 | 77 | Snippy Splitter |
+| 438 | 76 | Perry Ransom |
+| 439 | 76 | Baysoph |
 | 440 | 76 | All knowing |
 | 441 | 76 | Brandi Sauer |
-| 442 | 75 | PsyDMom |
+| 442 | 76 | Spicy Peach |
 | 443 | 75 | Ricardo Arias |
 | 444 | 75 | Swanky Builderline |
-| 445 | 75 | Shawna Downey |
-| 446 | 75 | Marco A. Sandoval |
-| 447 | 74 | Jason Moves |
-| 448 | 74 | Frisky Balance |
-| 449 | 74 | Ami Ferguson |
-| 450 | 74 | Snippy Splitter |
+| 445 | 75 | PsyDMom |
+| 446 | 75 | Shawna Downey |
+| 447 | 75 | Marco A. Sandoval |
+| 448 | 74 | Jason Moves |
+| 449 | 74 | Frisky Balance |
+| 450 | 74 | Ami Ferguson |
 | 451 | 73 | Csigirlnc |
 | 452 | 73 | Melissa Lowe |
 | 453 | 72 | Loretta Hendricks |
@@ -1067,9 +1067,9 @@
 | 1059 | 15 | Hasty Grabber |
 | 1060 | 14 | Donovan Parmenter Gagne |
 | 1061 | 14 | Gellix |
-| 1062 | 14 | Toria |
-| 1063 | 14 | Erica Hardwick |
-| 1064 | 14 | Kiaralis Ashley Hancock |
+| 1062 | 14 | Kiaralis Ashley Hancock |
+| 1063 | 14 | Toria |
+| 1064 | 14 | Erica Hardwick |
 | 1065 | 14 | JoJo Hutson |
 | 1066 | 14 | mrsduke420 |
 | 1067 | 14 | Marina |
@@ -1077,27 +1077,27 @@
 | 1069 | 13 | Willedtra Griffin |
 | 1070 | 13 | Jackie Russo-Edens |
 | 1071 | 13 | Margarita Santana |
-| 1072 | 12 | Tatiyana Hockett |
+| 1072 | 12 | Dan Butcher |
 | 1073 | 12 | Bouncy Clusterline |
-| 1074 | 12 | Mee |
-| 1075 | 12 | McScrubby |
-| 1076 | 12 | ESPERANTU |
-| 1077 | 12 | Christine Raine Jalili |
-| 1078 | 12 | Elizabeth Ann Caro |
-| 1079 | 12 | Tonya Raymundo |
-| 1080 | 12 | Dan Butcher |
-| 1081 | 12 | Vanessa Sykes |
-| 1082 | 12 | Carolyn Lalak |
-| 1083 | 12 | Rebecca Renaud |
-| 1084 | 12 | Misty Leigh |
-| 1085 | 12 | Swanky Brickzone |
-| 1086 | 12 | Rooney |
-| 1087 | 11 | Redhead girl |
-| 1088 | 11 | Amowe |
-| 1089 | 11 | Teresa Lescinskas |
-| 1090 | 11 | Bryan Odle |
-| 1091 | 11 | Wynisha Johnson |
-| 1092 | 11 | Amber Jalbert |
+| 1074 | 12 | McScrubby |
+| 1075 | 12 | Mee |
+| 1076 | 12 | Christine Raine Jalili |
+| 1077 | 12 | ESPERANTU |
+| 1078 | 12 | Tonya Raymundo |
+| 1079 | 12 | Elizabeth Ann Caro |
+| 1080 | 12 | Vanessa Sykes |
+| 1081 | 12 | Carolyn Lalak |
+| 1082 | 12 | Amber Jalbert |
+| 1083 | 12 | Tatiyana Hockett |
+| 1084 | 12 | Rebecca Renaud |
+| 1085 | 12 | Misty Leigh |
+| 1086 | 12 | Swanky Brickzone |
+| 1087 | 12 | Rooney |
+| 1088 | 11 | Teresa Lescinskas |
+| 1089 | 11 | Redhead girl |
+| 1090 | 11 | Amowe |
+| 1091 | 11 | Bryan Odle |
+| 1092 | 11 | Wynisha Johnson |
 | 1093 | 11 | Nessa Smith |
 | 1094 | 11 | OFOZO |
 | 1095 | 11 | beTrue76 |
@@ -1106,8 +1106,8 @@
 | 1098 | 10 | Breezy Brickfit |
 | 1099 | 10 | Crafty Clicker |
 | 1100 | 10 | Travis Whitner |
-| 1101 | 10 | Elizabeth Nicole Zahm |
-| 1102 | 10 | Nicole Washington |
+| 1101 | 10 | Nicole Washington |
+| 1102 | 10 | Elizabeth Nicole Zahm |
 | 1103 | 10 | Nikki |
 | 1104 | 10 | Mrs Peabod |
 | 1105 | 10 | Melissa Elizabeth |
