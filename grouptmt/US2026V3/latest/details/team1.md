@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 05:10:39 UTC
+# Standings for team1 as of 2026-06-06 05:11:16 UTC
 
 **Total Participants:** 853
 
@@ -110,11 +110,11 @@
 | 102 | 195 | Weeze |
 | 103 | 193 | Brave Clearbuilder |
 | 104 | 188 | Robyn Caldwell |
-| 105 | 186 | Denise B |
-| 106 | 185 | Teddy Davis |
-| 107 | 184 | Dai Bo |
-| 108 | 177 | Chris Sladoje |
-| 109 | 176 | Daylene Johannes |
+| 105 | 186 | Daylene Johannes |
+| 106 | 186 | Denise B |
+| 107 | 185 | Teddy Davis |
+| 108 | 184 | Dai Bo |
+| 109 | 177 | Chris Sladoje |
 | 110 | 175 | Chenell Gillard |
 | 111 | 170 | Daris Swearington |
 | 112 | 168 | PandaPrincess |
@@ -229,54 +229,54 @@
 | 221 | 76 | Mister Reid |
 | 222 | 76 | Telisha Mims |
 | 223 | 76 | Giggly Shatterline |
-| 224 | 75 | Nickeya Phillips |
-| 225 | 75 | Courtney Robinson |
-| 226 | 75 | DaGuy |
-| 227 | 75 | Nutty Spinblock |
-| 228 | 75 | Jayjay Rich |
-| 229 | 75 | Dizzy Dashy |
-| 230 | 74 | Cauiasia DeJ'ae |
-| 231 | 74 | Rhonda Williams Warner |
+| 224 | 76 | Keke Ferguson |
+| 225 | 75 | Dizzy Dashy |
+| 226 | 75 | Nickeya Phillips |
+| 227 | 75 | Jayjay Rich |
+| 228 | 75 | Nutty Spinblock |
+| 229 | 75 | Courtney Robinson |
+| 230 | 75 | DaGuy |
+| 231 | 74 | Cauiasia DeJ'ae |
 | 232 | 74 | ♈️ Ariesbaby |
-| 233 | 73 | Latore Maxie |
-| 234 | 73 | HarleyJane |
+| 233 | 74 | Rhonda Williams Warner |
+| 234 | 73 | Latore Maxie |
 | 235 | 73 | Latisha Fairley |
-| 236 | 72 | Chummy Frame |
-| 237 | 72 | Tosha Michelle |
-| 238 | 71 | Elaine Pauley |
-| 239 | 71 | Kristie |
+| 236 | 73 | HarleyJane |
+| 237 | 72 | Chummy Frame |
+| 238 | 72 | Tosha Michelle |
+| 239 | 71 | Elaine Pauley |
 | 240 | 71 | Erin Sabol |
-| 241 | 71 | HBTone |
-| 242 | 70 | Trina Greenwood |
-| 243 | 70 | MamushiOh |
-| 244 | 70 | Cheeky Pop |
-| 245 | 70 | Hailey Hil |
+| 241 | 71 | Kristie |
+| 242 | 71 | HBTone |
+| 243 | 70 | Trina Greenwood |
+| 244 | 70 | MamushiOh |
+| 245 | 70 | $hort Dog |
 | 246 | 70 | Kaleisha Smith |
-| 247 | 70 | $hort Dog |
-| 248 | 69 | C Lo Green |
-| 249 | 69 | CJ Robinson |
+| 247 | 70 | Hailey Hil |
+| 248 | 70 | Cheeky Pop |
+| 249 | 69 | C Lo Green |
 | 250 | 69 | Chantelle Lee |
-| 251 | 67 | Laurie Napper |
-| 252 | 67 | rls |
-| 253 | 67 | Steve Reno |
-| 254 | 67 | Michele Elizabeth McKay-Johnson |
-| 255 | 67 | Travis Davison |
+| 251 | 69 | CJ Robinson |
+| 252 | 67 | Steve Reno |
+| 253 | 67 | rls |
+| 254 | 67 | Travis Davison |
+| 255 | 67 | Michele Elizabeth McKay-Johnson |
 | 256 | 67 | Johnathan Deese |
-| 257 | 66 | Breezy Catcher |
-| 258 | 66 | Angela Brown Babin |
-| 259 | 65 | Jazzy Bridger |
-| 260 | 65 | pooh |
-| 261 | 65 | Jonathan Vee Jay |
-| 262 | 64 | Penee Wiggins |
-| 263 | 64 | Dena Marie Lee |
-| 264 | 64 | Eugina Slater |
-| 265 | 64 | Lauraly |
-| 266 | 63 | Ahsokadog |
-| 267 | 63 | Sarah Swietlicki - Lopez |
-| 268 | 63 | Slinky Clearzone |
-| 269 | 62 | De'Mear McKinney |
-| 270 | 62 | Jack Mehof |
-| 271 | 62 | Keke Ferguson |
+| 257 | 67 | Laurie Napper |
+| 258 | 66 | Breezy Catcher |
+| 259 | 66 | Angela Brown Babin |
+| 260 | 65 | Jazzy Bridger |
+| 261 | 65 | pooh |
+| 262 | 65 | Jonathan Vee Jay |
+| 263 | 64 | Penee Wiggins |
+| 264 | 64 | Dena Marie Lee |
+| 265 | 64 | Eugina Slater |
+| 266 | 64 | Lauraly |
+| 267 | 63 | Ahsokadog |
+| 268 | 63 | Sarah Swietlicki - Lopez |
+| 269 | 63 | Slinky Clearzone |
+| 270 | 62 | De'Mear McKinney |
+| 271 | 62 | Jack Mehof |
 | 272 | 61 | star |
 | 273 | 61 | Tonya Thomas |
 | 274 | 60 | Angie Smith |
@@ -287,12 +287,12 @@
 | 279 | 60 | Natasha Rucker |
 | 280 | 60 | Kesha Brady |
 | 281 | 60 | Katherine Short |
-| 282 | 60 | Valerie Alexander |
-| 283 | 60 | Tasha |
+| 282 | 60 | Tasha |
+| 283 | 60 | Valerie Alexander |
 | 284 | 60 | Kimberly Noble |
 | 285 | 60 | Christian Pham |
-| 286 | 60 | BabyCakes |
-| 287 | 60 | Fina McKinnis |
+| 286 | 60 | Fina McKinnis |
+| 287 | 60 | BabyCakes |
 | 288 | 60 | Coco |
 | 289 | 60 | Lilly Brown |
 | 290 | 60 | Christi Walker Patton |
@@ -379,41 +379,41 @@
 | 371 | 45 | Guy Incognito |
 | 372 | 45 | Sabrina Wilkerson |
 | 373 | 45 | Glitzy Clusterer |
-| 374 | 45 | Erika Windom |
-| 375 | 45 | Jenni Hardman |
-| 376 | 45 | nameno |
+| 374 | 45 | Jenni Hardman |
+| 375 | 45 | nameno |
+| 376 | 45 | Erika Windom |
 | 377 | 45 | Renee J. Thomas |
-| 378 | 44 | sasha |
-| 379 | 44 | Tamara Johnson-Carter |
-| 380 | 43 | Block |
-| 381 | 43 | Heather Wilson |
-| 382 | 43 | Brenda Malachi-butler |
-| 383 | 43 | Daring Blockclear |
-| 384 | 43 | Gael Quintana |
-| 385 | 43 | Wild Out Nai |
-| 386 | 43 | Rachel Renae Bettis |
+| 378 | 44 | De'Nell Edwards |
+| 379 | 44 | sasha |
+| 380 | 44 | Tamara Johnson-Carter |
+| 381 | 43 | Block |
+| 382 | 43 | Heather Wilson |
+| 383 | 43 | Brenda Malachi-butler |
+| 384 | 43 | Daring Blockclear |
+| 385 | 43 | Gael Quintana |
+| 386 | 43 | Wild Out Nai |
 | 387 | 43 | Rufus |
 | 388 | 43 | Giggy Brickfit |
-| 389 | 42 | MrsMeadows2019 |
-| 390 | 42 | Richard Flex |
-| 391 | 42 | Bobby Chestefield |
-| 392 | 42 | Sunny Riserbuilder |
-| 393 | 42 | De'Nell Edwards |
-| 394 | 42 | Peppy Glider |
-| 395 | 42 | Louise |
-| 396 | 41 | Lawreniesha Burkley |
-| 397 | 41 | Cranky Fall |
+| 389 | 43 | Rachel Renae Bettis |
+| 390 | 42 | Peppy Glider |
+| 391 | 42 | Richard Flex |
+| 392 | 42 | Louise |
+| 393 | 42 | Sunny Riserbuilder |
+| 394 | 42 | Bobby Chestefield |
+| 395 | 42 | MrsMeadows2019 |
+| 396 | 41 | Nerdy Climber |
+| 397 | 41 | Jessie N Michael Silvers |
 | 398 | 41 | Frothy Zoney |
-| 399 | 41 | Jessie N Michael Silvers |
-| 400 | 41 | Nerdy Climber |
-| 401 | 40 | Tracey Johnson |
-| 402 | 40 | Devin West |
-| 403 | 40 | Douglas Price |
-| 404 | 40 | Brittanie Wardlow |
-| 405 | 40 | Kamilya Rembert |
-| 406 | 40 | Jean Regis |
-| 407 | 40 | Slinky Fallzone |
-| 408 | 40 | Perky Pusher |
+| 399 | 41 | Cranky Fall |
+| 400 | 41 | Lawreniesha Burkley |
+| 401 | 40 | Kamilya Rembert |
+| 402 | 40 | Brittanie Wardlow |
+| 403 | 40 | Devin West |
+| 404 | 40 | Perky Pusher |
+| 405 | 40 | Slinky Fallzone |
+| 406 | 40 | Tracey Johnson |
+| 407 | 40 | Douglas Price |
+| 408 | 40 | Jean Regis |
 | 409 | 40 | Tori Carter |
 | 410 | 40 | Christopher L Crites |
 | 411 | 40 | KeeKee Williams |
