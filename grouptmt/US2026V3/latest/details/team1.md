@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 19:12:17 UTC
+# Standings for team1 as of 2026-06-06 19:12:43 UTC
 
 **Total Participants:** 1122
 
@@ -35,8 +35,8 @@
 | 27 | 1420 | Janet Cooke |
 | 28 | 1300 | Cool Bridger |
 | 29 | 1242 | Jacoby E Fleming |
-| 30 | 1086 | Ryan Meilleur |
-| 31 | 1082 | Daylene Johannes |
+| 30 | 1110 | Daylene Johannes |
+| 31 | 1086 | Ryan Meilleur |
 | 32 | 1075 | Mary Jenkins |
 | 33 | 1045 | Jolly Dropzone |
 | 34 | 1037 | Shortstak |
