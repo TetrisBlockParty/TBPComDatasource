@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 10:48:40 UTC
+# Standings for team1 as of 2026-06-06 10:49:17 UTC
 
 **Total Participants:** 958
 
@@ -380,32 +380,32 @@
 | 372 | 54 | Ryan Runyan |
 | 373 | 54 | Ace Hardware |
 | 374 | 54 | Elizabeth Hopkins |
-| 375 | 54 | Rackemwillie34 |
-| 376 | 54 | Twisty Brickfit |
+| 375 | 54 | Twisty Brickfit |
+| 376 | 54 | Rackemwillie34 |
 | 377 | 53 | Cortrell Foster |
 | 378 | 53 | Clever Wrecker |
 | 379 | 53 | Phillip Vasquez |
 | 380 | 53 | Jumpy Gridlock |
-| 381 | 52 | Raquel Ortiz |
-| 382 | 52 | Gabriela Hernandez |
-| 383 | 52 | kitten |
+| 381 | 52 | Loopy Risepiece |
+| 382 | 52 | Anastasia |
+| 383 | 52 | Brenda Malachi-butler |
 | 384 | 52 | Dandy Brickfit |
-| 385 | 52 | Brenda Malachi-butler |
-| 386 | 52 | Loopy Risepiece |
-| 387 | 52 | Anastasia |
-| 388 | 51 | Poppy Smasher |
-| 389 | 51 | Shanjerrica Taylor Rosell |
-| 390 | 51 | Comedian Gdane |
-| 391 | 51 | Rachael Bakowicz Edwards |
-| 392 | 51 | Just2Play$ |
-| 393 | 50 | Daddy |
+| 385 | 52 | kitten |
+| 386 | 52 | Gabriela Hernandez |
+| 387 | 52 | Raquel Ortiz |
+| 388 | 51 | Shanjerrica Taylor Rosell |
+| 389 | 51 | Comedian Gdane |
+| 390 | 51 | MrsMeadows2019 |
+| 391 | 51 | Poppy Smasher |
+| 392 | 51 | Rachael Bakowicz Edwards |
+| 393 | 51 | Just2Play$ |
 | 394 | 50 | Rande Smith |
-| 395 | 50 | Slinky Party |
-| 396 | 50 | MsBobby Patrick |
-| 397 | 50 | Denell Sims |
-| 398 | 50 | Nisha Sunshine Jenkins |
-| 399 | 50 | Teresa Yanira Cepeda |
-| 400 | 50 | MrsMeadows2019 |
+| 395 | 50 | Daddy |
+| 396 | 50 | Slinky Party |
+| 397 | 50 | MsBobby Patrick |
+| 398 | 50 | Denell Sims |
+| 399 | 50 | Nisha Sunshine Jenkins |
+| 400 | 50 | Teresa Yanira Cepeda |
 | 401 | 50 | Donna Payne |
 | 402 | 49 | Teisha Scott |
 | 403 | 49 | Speedy Stacky |
