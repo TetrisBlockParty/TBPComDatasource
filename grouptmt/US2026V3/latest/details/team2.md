@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 08:21:15 UTC
+# Standings for team2 as of 2026-06-06 08:22:18 UTC
 
 **Total Participants:** 1078
 
@@ -53,12 +53,12 @@
 | 45 | 750 | Brent Bittenbender |
 | 46 | 739 | Rose Schaffner-Kibler |
 | 47 | 732 | AcardBoardBox |
-| 48 | 702 | Charley Bedford |
-| 49 | 698 | Amber Salazar |
-| 50 | 671 | Brandi Thompson |
-| 51 | 660 | Julie Trede Amerson |
-| 52 | 659 | Marie Luciano |
-| 53 | 653 | Jason Wood |
+| 48 | 703 | Jason Wood |
+| 49 | 702 | Charley Bedford |
+| 50 | 698 | Amber Salazar |
+| 51 | 671 | Brandi Thompson |
+| 52 | 660 | Julie Trede Amerson |
+| 53 | 659 | Marie Luciano |
 | 54 | 635 | Hoppy Rotate |
 | 55 | 629 | Dane Marko |
 | 56 | 614 | Block Dog |
@@ -110,7 +110,7 @@
 | 102 | 279 | James Ward |
 | 103 | 275 | Bubbly Strikerpiece |
 | 104 | 269 | Flashy Twistline |
-| 105 | 263 | Sarah Griffey |
+| 105 | 265 | Sarah Griffey |
 | 106 | 258 | Erin Thomas |
 | 107 | 253 | Hilliary Beyer |
 | 108 | 253 | Heather Burgett |
@@ -188,9 +188,9 @@
 | 180 | 139 | Victoria Pale |
 | 181 | 138 | NickandJess Reynolds |
 | 182 | 137 | Lindsey Ford |
-| 183 | 136 | Lashanda Bertram |
+| 183 | 136 | Joni Michelle Morgan |
 | 184 | 136 | Lauren Maxwell |
-| 185 | 136 | Joni Michelle Morgan |
+| 185 | 136 | Lashanda Bertram |
 | 186 | 135 | Tina Marie |
 | 187 | 135 | Marylin Eacker |
 | 188 | 133 | Bengy Lead |
@@ -204,90 +204,90 @@
 | 196 | 129 | Amy Taylor Pomerenk |
 | 197 | 129 | Cheery Towerzone |
 | 198 | 127 | Kim Hunt |
-| 199 | 126 | Laverne Ellis Blair |
+| 199 | 127 | Nerdy Climber |
 | 200 | 126 | Teresa Mandich |
-| 201 | 125 | Ariel Gundersen |
-| 202 | 124 | Jason Burris |
+| 201 | 126 | Laverne Ellis Blair |
+| 202 | 125 | Ariel Gundersen |
 | 203 | 124 | Amie Marks |
-| 204 | 123 | Armando Sabedra |
-| 205 | 120 | Elizabeth Cornelius |
-| 206 | 120 | Brenda Jones |
-| 207 | 120 | Simone F |
-| 208 | 120 | Happy |
-| 209 | 120 | Amy Gregg |
-| 210 | 120 | Shannon Wilson |
-| 211 | 119 | Angie Bishop |
-| 212 | 118 | Lora Via |
-| 213 | 118 | Monique Frantz |
-| 214 | 117 | Becca Marie |
+| 204 | 124 | Jason Burris |
+| 205 | 123 | Armando Sabedra |
+| 206 | 120 | Amy Gregg |
+| 207 | 120 | Happy |
+| 208 | 120 | Simone F |
+| 209 | 120 | Elizabeth Cornelius |
+| 210 | 120 | Brenda Jones |
+| 211 | 120 | Shannon Wilson |
+| 212 | 119 | Angie Bishop |
+| 213 | 118 | Lora Via |
+| 214 | 118 | Monique Frantz |
 | 215 | 117 | Margie Ann Naffziger |
 | 216 | 117 | Marge Cromer |
-| 217 | 116 | Teddy Williams |
-| 218 | 116 | Gwendolyn Boykin Mobbs |
-| 219 | 114 | Ashley Voelz |
-| 220 | 113 | Zany Wrecker |
-| 221 | 112 | Traci Abern |
-| 222 | 112 | Ashley Miller |
-| 223 | 111 | Rhonda Diebold |
-| 224 | 110 | Nichole Wilson |
-| 225 | 109 | Loopy Tower |
-| 226 | 108 | Rachel Nilles |
+| 217 | 117 | Becca Marie |
+| 218 | 116 | Teddy Williams |
+| 219 | 116 | Gwendolyn Boykin Mobbs |
+| 220 | 114 | Ashley Voelz |
+| 221 | 113 | Zany Wrecker |
+| 222 | 112 | Traci Abern |
+| 223 | 112 | Ashley Miller |
+| 224 | 111 | Rhonda Diebold |
+| 225 | 110 | Nichole Wilson |
+| 226 | 109 | Loopy Tower |
 | 227 | 108 | Meagan Grimmett Washburn |
-| 228 | 107 | Michelle M Braley |
+| 228 | 108 | Rachel Nilles |
 | 229 | 107 | Carole Brown |
-| 230 | 107 | Charles E Mccardell |
-| 231 | 106 | Patria Osuoha |
+| 230 | 107 | Michelle M Braley |
+| 231 | 107 | Charles E Mccardell |
 | 232 | 106 | Sara Perkins |
-| 233 | 104 | Theresa Hollinger |
-| 234 | 103 | Tango Sierra |
-| 235 | 102 | Jat |
+| 233 | 106 | Patria Osuoha |
+| 234 | 104 | Theresa Hollinger |
+| 235 | 103 | Tango Sierra |
 | 236 | 102 | Alissa Ary |
-| 237 | 100 | Charity Hauser |
-| 238 | 100 | Leticia Tillman |
-| 239 | 100 | Jason Cunningham |
-| 240 | 100 | Sharon L Brazelton |
+| 237 | 102 | Jat |
+| 238 | 100 | Jason Cunningham |
+| 239 | 100 | Sharon L Brazelton |
+| 240 | 100 | Tamtam |
 | 241 | 100 | August Christy Lathrop |
-| 242 | 100 | Tamtam |
-| 243 | 100 | LEW |
-| 244 | 100 | Ber |
-| 245 | 99 | Jennifer Vitro |
-| 246 | 99 | Gabrielle Rivera |
-| 247 | 99 | Cathy Tippett |
-| 248 | 99 | Melissa Abbott |
-| 249 | 97 | Jennifer McClure |
-| 250 | 97 | LittleHippoEars |
-| 251 | 95 | Wacky Holder |
-| 252 | 95 | Mike Mordhorst |
-| 253 | 95 | Jackie Tupper |
-| 254 | 94 | Sherri E Woods Hess |
-| 255 | 93 | Connie Breeden |
-| 256 | 93 | Lively Curve |
-| 257 | 92 | Raine |
+| 242 | 100 | Leticia Tillman |
+| 243 | 100 | Charity Hauser |
+| 244 | 100 | LEW |
+| 245 | 100 | Ber |
+| 246 | 99 | Cathy Tippett |
+| 247 | 99 | Jennifer Vitro |
+| 248 | 99 | Gabrielle Rivera |
+| 249 | 99 | Melissa Abbott |
+| 250 | 97 | Jennifer McClure |
+| 251 | 97 | LittleHippoEars |
+| 252 | 95 | Jackie Tupper |
+| 253 | 95 | Wacky Holder |
+| 254 | 95 | Mike Mordhorst |
+| 255 | 94 | Sherri E Woods Hess |
+| 256 | 93 | Connie Breeden |
+| 257 | 93 | Lively Curve |
 | 258 | 92 | Nikki Hatch |
-| 259 | 92 | Jayda Walters |
-| 260 | 91 | Jamie Fenyus |
-| 261 | 91 | Rocroc mo |
-| 262 | 90 | Carlos J Blas |
-| 263 | 89 | Belle |
-| 264 | 89 | MegaPooh |
-| 265 | 88 | Kevin Patrick |
+| 259 | 92 | Raine |
+| 260 | 92 | Jayda Walters |
+| 261 | 91 | Jamie Fenyus |
+| 262 | 91 | Rocroc mo |
+| 263 | 90 | Carlos J Blas |
+| 264 | 89 | Belle |
+| 265 | 89 | MegaPooh |
 | 266 | 88 | Nano. |
-| 267 | 87 | Charlie Wilson |
-| 268 | 87 | Gloria May Shook |
-| 269 | 87 | Jessica Lynn |
-| 270 | 87 | Nerdy Climber |
-| 271 | 87 | Boldy Fitclear |
-| 272 | 87 | Sam Brewster |
+| 267 | 88 | Kevin Patrick |
+| 268 | 87 | Boldy Fitclear |
+| 269 | 87 | Sam Brewster |
+| 270 | 87 | Charlie Wilson |
+| 271 | 87 | Gloria May Shook |
+| 272 | 87 | Jessica Lynn |
 | 273 | 86 | Bianca Woodruff |
 | 274 | 85 | Christina Maria |
-| 275 | 85 | James Sayers |
-| 276 | 85 | Daisy Girl |
+| 275 | 85 | Daisy Girl |
+| 276 | 85 | James Sayers |
 | 277 | 84 | Lisa Underwood Desmond |
 | 278 | 83 | TetrisMama |
 | 279 | 82 | Carolyn McNaughton |
-| 280 | 82 | giamy |
-| 281 | 82 | Nutty Curver |
-| 282 | 82 | Hypee |
+| 280 | 82 | Nutty Curver |
+| 281 | 82 | Hypee |
+| 282 | 82 | giamy |
 | 283 | 82 | Norma Ortiz |
 | 284 | 82 | Sandra Pursell |
 | 285 | 82 | Wendy McKee |
