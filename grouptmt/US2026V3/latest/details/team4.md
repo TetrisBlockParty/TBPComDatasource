@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 05:24:16 UTC
+# Standings for team4 as of 2026-06-06 05:24:38 UTC
 
 **Total Participants:** 826
 
@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 5469 | Kait Confetti |
-| 2 | 4600 | Candice Driver |
-| 3 | 4521 | Lyza |
+| 2 | 4717 | Lyza |
+| 3 | 4600 | Candice Driver |
 | 4 | 4250 | Nia Mayfield |
 | 5 | 4242 | ktothet |
 | 6 | 4126 | Anna Moses |
@@ -44,7 +44,7 @@
 | 36 | 661 | Giggy Matchpiece |
 | 37 | 644 | Kelly Bernard |
 | 38 | 629 | Keesha Muro |
-| 39 | 602 | Charlie Lewis |
+| 39 | 612 | Charlie Lewis |
 | 40 | 600 | Caitlin Johnson |
 | 41 | 560 | Dana Rinaldi |
 | 42 | 559 | Lynn Grimes |
@@ -57,10 +57,10 @@
 | 49 | 474 | Jeremy Lopez |
 | 50 | 461 | Kayla Fuentes |
 | 51 | 458 | vag1974 |
-| 52 | 419 | Caitlyn Wang |
-| 53 | 419 | Sweet Stacker |
-| 54 | 400 | Amber Doyle |
-| 55 | 400 | Jewelz |
+| 52 | 420 | Jewelz |
+| 53 | 419 | Caitlyn Wang |
+| 54 | 419 | Sweet Stacker |
+| 55 | 400 | Amber Doyle |
 | 56 | 395 | Melissa WC |
 | 57 | 392 | Blayne Kole |
 | 58 | 392 | Nick Graber |
@@ -682,8 +682,8 @@
 | 674 | 15 | Tana-Marie Lynn McCarty-Rolf |
 | 675 | 15 | Lizzzzzz |
 | 676 | 15 | Wacky Clusterer |
-| 677 | 15 | Hasty Snapmatch |
-| 678 | 15 | Sherry Mooney |
+| 677 | 15 | Sherry Mooney |
+| 678 | 15 | Hasty Snapmatch |
 | 679 | 15 | Jennifer Terrill |
 | 680 | 15 | Donna Bush |
 | 681 | 15 | Kimberly Ann |
@@ -691,41 +691,41 @@
 | 683 | 14 | Nicole Gilmore |
 | 684 | 14 | Dolores Falco |
 | 685 | 14 | Holly Bramel |
-| 686 | 14 | KingCas |
-| 687 | 14 | Jazzy Rollout |
+| 686 | 14 | Jazzy Rollout |
+| 687 | 14 | KingCas |
 | 688 | 14 | moonman33 |
 | 689 | 14 | Dena Lynn Rogers |
-| 690 | 14 | Playful Raccoon |
+| 690 | 14 | Breezy Rollfit |
 | 691 | 14 | Kiaralis Ashley Hancock |
-| 692 | 14 | Marina |
-| 693 | 14 | EpicWizard |
-| 694 | 14 | Breezy Rollfit |
-| 695 | 13 | Ben Figueroa |
-| 696 | 13 | Jackie Russo-Edens |
-| 697 | 13 | Jaison Horton |
-| 698 | 13 | Miguel Teixeira |
-| 699 | 13 | Jen Roe |
-| 700 | 12 | chefjaydawg |
-| 701 | 12 | Brendan Craven |
-| 702 | 12 | Kelli Miller |
-| 703 | 12 | Leslie |
-| 704 | 12 | Shelly Jackson |
-| 705 | 12 | ESPERANTU |
-| 706 | 12 | Jace McCullough |
-| 707 | 12 | Peterson Cottontail |
-| 708 | 12 | Diqthot |
-| 709 | 12 | Tod Jae |
+| 692 | 14 | EpicWizard |
+| 693 | 14 | Marina |
+| 694 | 14 | Playful Raccoon |
+| 695 | 13 | Jaison Horton |
+| 696 | 13 | Ben Figueroa |
+| 697 | 13 | Miguel Teixeira |
+| 698 | 13 | Jen Roe |
+| 699 | 13 | Jackie Russo-Edens |
+| 700 | 13 | Poppy Glider |
+| 701 | 12 | ESPERANTU |
+| 702 | 12 | Shelly Jackson |
+| 703 | 12 | Jace McCullough |
+| 704 | 12 | Leslie |
+| 705 | 12 | Peterson Cottontail |
+| 706 | 12 | Kelli Miller |
+| 707 | 12 | Diqthot |
+| 708 | 12 | Brendan Craven |
+| 709 | 12 | chefjaydawg |
 | 710 | 12 | Rob$GEE |
 | 711 | 12 | Rebecca Renaud |
-| 712 | 12 | Fancy Riser |
-| 713 | 12 | Angela Correa |
+| 712 | 12 | Slinky Snapfit |
+| 713 | 12 | Fancy Riser |
 | 714 | 12 | Scott Baum |
-| 715 | 12 | Slinky Snapfit |
+| 715 | 12 | Angela Correa |
 | 716 | 12 | Theo Stamps |
 | 717 | 12 | Tatiyana Hockett |
 | 718 | 12 | Mighty Spinfit |
-| 719 | 12 | Poppy Glider |
-| 720 | 12 | Joyce Hampton |
+| 719 | 12 | Joyce Hampton |
+| 720 | 12 | Tod Jae |
 | 721 | 11 | OFOZO |
 | 722 | 11 | Cas Gio |
 | 723 | 11 | Snappy Patternfall |
@@ -735,13 +735,13 @@
 | 727 | 11 | Glitzy Crasher |
 | 728 | 11 | Corey Jackson |
 | 729 | 11 | Teresa Lescinskas |
-| 730 | 10 | Loony Edge |
-| 731 | 10 | Breezy Brickfit |
-| 732 | 10 | San |
-| 733 | 10 | T-Dogger |
-| 734 | 10 | Mighty1 |
-| 735 | 10 | Jillian Marie |
-| 736 | 10 | Breezy Striker |
+| 730 | 10 | Breezy Striker |
+| 731 | 10 | Mighty1 |
+| 732 | 10 | T-Dogger |
+| 733 | 10 | San |
+| 734 | 10 | Breezy Brickfit |
+| 735 | 10 | Loony Edge |
+| 736 | 10 | Jillian Marie |
 | 737 | 10 | Brianne Stull |
 | 738 | 10 | JP Chua |
 | 739 | 10 | Toon Up |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 05:24:16 UTC
+# Standings for team2 as of 2026-06-06 05:24:38 UTC
 
 **Total Participants:** 1010
 
@@ -51,8 +51,8 @@
 | 43 | 720 | Spunky Clicker |
 | 44 | 702 | Charley Bedford |
 | 45 | 700 | Anthony Lilley |
-| 46 | 660 | Julie Trede Amerson |
-| 47 | 636 | Brandi Thompson |
+| 46 | 661 | Brandi Thompson |
+| 47 | 660 | Julie Trede Amerson |
 | 48 | 629 | Dane Marko |
 | 49 | 614 | Block Dog |
 | 50 | 588 | Kellie Sharp Godfrey |
@@ -724,105 +724,105 @@
 | 716 | 20 | Raffa |
 | 717 | 20 | Naomi Jaynes |
 | 718 | 20 | Sharilyn Jackson |
-| 719 | 20 | Adam Latin |
-| 720 | 20 | Carmina Truoiolo |
-| 721 | 20 | Hector |
+| 719 | 20 | Boldy Patterner |
+| 720 | 20 | Hector |
+| 721 | 20 | SaraAnn Gray Philbrick |
 | 722 | 20 | Bonita Alexander |
-| 723 | 20 | SaraAnn Gray Philbrick |
-| 724 | 20 | Bigbb |
-| 725 | 20 | Nanny t |
-| 726 | 20 | Le Sandy |
-| 727 | 20 | Julie Alexander Sykes |
-| 728 | 20 | Chesney |
-| 729 | 20 | Shalice Jacobs |
-| 730 | 20 | Boldy Patterner |
+| 723 | 20 | Bigbb |
+| 724 | 20 | Nanny t |
+| 725 | 20 | Le Sandy |
+| 726 | 20 | Carmina Truoiolo |
+| 727 | 20 | Chesney |
+| 728 | 20 | Shalice Jacobs |
+| 729 | 20 | Adam Latin |
+| 730 | 20 | Julie Alexander Sykes |
 | 731 | 20 | Tonya Templin Smith |
-| 732 | 20 | Alana Albritton Seals |
-| 733 | 20 | Kay Newcomb |
-| 734 | 20 | Stephania Edwards |
-| 735 | 20 | Dana Wilson |
+| 732 | 20 | Stephania Edwards |
+| 733 | 20 | Dana Wilson |
+| 734 | 20 | Dapper Pivotfall |
+| 735 | 20 | Binska |
 | 736 | 20 | Annie Hebdon |
-| 737 | 20 | Tiffany Hassanshahi |
-| 738 | 20 | Dapper Pivotfall |
-| 739 | 20 | Binska |
-| 740 | 19 | Chirpy Grid |
-| 741 | 19 | Jessica Jones |
-| 742 | 19 | Kati Eckstein |
-| 743 | 19 | Kim Powers |
+| 737 | 20 | Kay Newcomb |
+| 738 | 20 | Alana Albritton Seals |
+| 739 | 20 | Tiffany Hassanshahi |
+| 740 | 19 | Kim Powers |
+| 741 | 19 | Snazzy Racker |
+| 742 | 19 | Chirpy Grid |
+| 743 | 19 | Kati Eckstein |
 | 744 | 19 | Firebone |
 | 745 | 19 | Twisty Snapmatch |
-| 746 | 19 | AndrewandShela Gornik |
-| 747 | 19 | Kathryn |
-| 748 | 19 | Jessica Rose Engebretson |
-| 749 | 19 | Stacey Peters |
+| 746 | 19 | Jessica Rose Engebretson |
+| 747 | 19 | rebel4lyfe |
+| 748 | 19 | Stacey Peters |
+| 749 | 19 | Jessica Jones |
 | 750 | 19 | Cool Climber |
-| 751 | 19 | Snazzy Racker |
+| 751 | 19 | Kathryn |
 | 752 | 19 | Sassafras Cass |
 | 753 | 19 | Elizabeth Henry |
 | 754 | 19 | Dolly |
-| 755 | 18 | Debbie Embry |
-| 756 | 18 | Cuca Perez |
-| 757 | 18 | fancypants |
-| 758 | 18 | Tiffany Heether |
-| 759 | 18 | Taran Evans |
-| 760 | 18 | Chummy Faller |
-| 761 | 18 | Jolly Twisterfit |
-| 762 | 18 | Elizabeth Kline |
-| 763 | 18 | Glitzy Stackbuilder |
-| 764 | 18 | Mark Havens |
-| 765 | 18 | Cyrus Ramirez |
-| 766 | 18 | Joanna Trevin Thompson |
-| 767 | 18 | Alison Welsh |
-| 768 | 18 | Kaitlyn Hurst |
-| 769 | 17 | Shaylee Haltiner |
-| 770 | 17 | Debra May |
-| 771 | 17 | Rosie |
-| 772 | 17 | Missy Savage-Justice |
-| 773 | 17 | Staci Carl |
-| 774 | 17 | R.w. Buck |
-| 775 | 17 | Dena Cudjo |
-| 776 | 16 | Clever Gridzone |
-| 777 | 16 | Renee Craig |
-| 778 | 16 | Amanda L Strong |
-| 779 | 16 | Danielle Lyons |
-| 780 | 16 | Peppy Piececlear |
-| 781 | 16 | Elliot |
-| 782 | 16 | Chris |
-| 783 | 16 | Baby |
-| 784 | 16 | Sassy Twistbuilder |
-| 785 | 16 | LK |
-| 786 | 16 | rebel4lyfe |
+| 755 | 19 | AndrewandShela Gornik |
+| 756 | 18 | fancypants |
+| 757 | 18 | Jolly Twisterfit |
+| 758 | 18 | Cuca Perez |
+| 759 | 18 | Debbie Embry |
+| 760 | 18 | Glitzy Stackbuilder |
+| 761 | 18 | Tiffany Heether |
+| 762 | 18 | Taran Evans |
+| 763 | 18 | Chummy Faller |
+| 764 | 18 | Elizabeth Kline |
+| 765 | 18 | Mark Havens |
+| 766 | 18 | Cyrus Ramirez |
+| 767 | 18 | Joanna Trevin Thompson |
+| 768 | 18 | Alison Welsh |
+| 769 | 18 | Kaitlyn Hurst |
+| 770 | 17 | Shaylee Haltiner |
+| 771 | 17 | Missy Savage-Justice |
+| 772 | 17 | R.w. Buck |
+| 773 | 17 | Rosie |
+| 774 | 17 | Debra May |
+| 775 | 17 | Staci Carl |
+| 776 | 17 | Dena Cudjo |
+| 777 | 16 | Clever Gridzone |
+| 778 | 16 | Renee Craig |
+| 779 | 16 | Amanda L Strong |
+| 780 | 16 | Danielle Lyons |
+| 781 | 16 | Peppy Piececlear |
+| 782 | 16 | Elliot |
+| 783 | 16 | Chris |
+| 784 | 16 | Baby |
+| 785 | 16 | Sassy Twistbuilder |
+| 786 | 16 | LK |
 | 787 | 16 | Mouh Ity |
-| 788 | 16 | Princess Cucumber |
-| 789 | 16 | Brandy McCleary |
-| 790 | 16 | Natasha Schatte |
-| 791 | 16 | Kaylyn Wickham |
-| 792 | 15 | sally |
-| 793 | 15 | Twisty Patternblock |
-| 794 | 15 | Lisa Marie |
+| 788 | 16 | Natasha Schatte |
+| 789 | 16 | Kaylyn Wickham |
+| 790 | 16 | Brandy McCleary |
+| 791 | 16 | Princess Cucumber |
+| 792 | 15 | Lisa Marie |
+| 793 | 15 | Shannie |
+| 794 | 15 | Linda Jeanne Knop |
 | 795 | 15 | Loopy Zone |
 | 796 | 15 | Melissa Clogher White |
 | 797 | 15 | Monee Stronger |
-| 798 | 15 | YAKO |
-| 799 | 15 | Timone907 |
-| 800 | 15 | Crafty Slice |
-| 801 | 15 | Julie Vargas |
-| 802 | 15 | Poppy Slice |
+| 798 | 15 | sally |
+| 799 | 15 | Crafty Slice |
+| 800 | 15 | Julie Vargas |
+| 801 | 15 | Poppy Slice |
+| 802 | 15 | YAKO |
 | 803 | 15 | Samantha |
-| 804 | 15 | Shannie |
-| 805 | 15 | Cheery Tilefall |
-| 806 | 15 | Connie McCoy |
-| 807 | 15 | Linda Jeanne Knop |
-| 808 | 15 | Jacqueline Leigh Zuzinec |
-| 809 | 15 | Cherica Taylor |
-| 810 | 15 | Tina |
+| 804 | 15 | Twisty Patternblock |
+| 805 | 15 | Daring Pivotfall |
+| 806 | 15 | Timone907 |
+| 807 | 15 | Connie McCoy |
+| 808 | 15 | Mandeee |
+| 809 | 15 | Jacqueline Leigh Zuzinec |
+| 810 | 15 | Cherica Taylor |
 | 811 | 15 | Fran Gerebics |
 | 812 | 15 | Christina Whitehead |
-| 813 | 15 | Mandeee |
+| 813 | 15 | Tina |
 | 814 | 15 | Erica Abreu |
-| 815 | 15 | Christine Ann Eras |
-| 816 | 15 | Daring Pivotfall |
-| 817 | 15 | Mee Maw |
+| 815 | 15 | Mee Maw |
+| 816 | 15 | Christine Ann Eras |
+| 817 | 15 | Cheery Tilefall |
 | 818 | 14 | Poppy Zonepiece |
 | 819 | 14 | Jenny |
 | 820 | 14 | Witty Riser |
