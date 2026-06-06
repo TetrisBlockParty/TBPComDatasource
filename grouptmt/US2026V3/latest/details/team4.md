@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 12:50:17 UTC
+# Standings for team4 as of 2026-06-06 12:50:41 UTC
 
 **Total Participants:** 963
 
@@ -55,7 +55,7 @@
 | 47 | 600 | Caitlin Johnson |
 | 48 | 600 | Chaz Duncan |
 | 49 | 559 | Lynn Grimes |
-| 50 | 531 | Bubbly Twistpiece |
+| 50 | 540 | Bubbly Twistpiece |
 | 51 | 530 | Jonathan Hewitt |
 | 52 | 510 | Krysten Danielle Richard |
 | 53 | 505 | Fancy Crasher |
@@ -79,7 +79,7 @@
 | 71 | 383 | Crissy Hoffman |
 | 72 | 378 | Lisa Garcia |
 | 73 | 376 | Jason Garnatz |
-| 74 | 372 | Real Talk Vibes |
+| 74 | 375 | Real Talk Vibes |
 | 75 | 356 | Tanita Jobe |
 | 76 | 347 | Nikki Fuller Johnson |
 | 77 | 346 | Alexis Cor |
@@ -515,26 +515,26 @@
 | 507 | 42 | ShaniP |
 | 508 | 42 | Stacy Brown |
 | 509 | 41 | Lord Solrac |
-| 510 | 41 | chefjaydawg |
-| 511 | 40 | Wayne Mire |
-| 512 | 40 | Kena T. Tanner |
-| 513 | 40 | Jay Dee |
-| 514 | 40 | Lady Dolphin |
-| 515 | 40 | Raising Stars |
-| 516 | 40 | Joyce Hampton |
-| 517 | 40 | Mexican130 |
-| 518 | 40 | Snappy Glidebuilder |
+| 510 | 41 | Rocky |
+| 511 | 41 | chefjaydawg |
+| 512 | 40 | Wayne Mire |
+| 513 | 40 | Kena T. Tanner |
+| 514 | 40 | Jay Dee |
+| 515 | 40 | Lady Dolphin |
+| 516 | 40 | Raising Stars |
+| 517 | 40 | Joyce Hampton |
+| 518 | 40 | Mexican130 |
 | 519 | 40 | MrsReap |
 | 520 | 40 | CIRAZYPNOY |
 | 521 | 40 | Zesty Lift |
 | 522 | 40 | Tiffany Roberts |
 | 523 | 40 | Gary Smallwood |
-| 524 | 40 | Lanelva Tiredofbs Marshall |
+| 524 | 40 | Snappy Glidebuilder |
 | 525 | 40 | Leslie Bamonte |
 | 526 | 40 | Funky Tiler |
 | 527 | 40 | Stephanie Meinhart |
 | 528 | 40 | Bumpy Morris |
-| 529 | 40 | Rocky |
+| 529 | 40 | Lanelva Tiredofbs Marshall |
 | 530 | 40 | crobb77 |
 | 531 | 40 | Jenn Wilson |
 | 532 | 39 | Chris Davis |
@@ -788,77 +788,77 @@
 | 780 | 18 | chuck |
 | 781 | 18 | Tiffany Taylor |
 | 782 | 18 | Shirley Tow Middaugh |
-| 783 | 18 | Michelle Clark |
-| 784 | 18 | Cauntay Youngking Williams |
-| 785 | 18 | Dawn Ferrin |
-| 786 | 18 | Janna Thompson |
-| 787 | 18 | Chelle Williams |
-| 788 | 18 | Emily Lowe |
-| 789 | 18 | Dewy |
-| 790 | 18 | Lorrie Ann Burchett |
-| 791 | 18 | Happy Strikerpiece |
-| 792 | 18 | Poppy Glider |
-| 793 | 17 | Glitzy Crasher |
-| 794 | 17 | Heather Hilferty |
-| 795 | 17 | Crystal Morrin |
-| 796 | 17 | Stotty |
-| 797 | 17 | Shane Snyder |
-| 798 | 17 | Terry Jo Myers |
-| 799 | 17 | Trishaann Triplett |
-| 800 | 17 | Kristie ML SneekaPuff |
-| 801 | 16 | Virgil Mayfield-Brown |
-| 802 | 16 | Mr.Corbin |
-| 803 | 16 | Snappy Fill |
-| 804 | 16 | Dee Modest |
-| 805 | 16 | Matthew Wilcox |
-| 806 | 16 | Frisky Pusher |
-| 807 | 16 | Layne Davis |
-| 808 | 16 | Grace Mariie |
-| 809 | 16 | Catherine Garza |
-| 810 | 16 | Joe Joe |
-| 811 | 15 | Hasty Snapmatch |
-| 812 | 15 | Sherry Mooney |
-| 813 | 15 | Tana-Marie Lynn McCarty-Rolf |
-| 814 | 15 | Austin Tan |
-| 815 | 15 | Capone |
-| 816 | 15 | Mandi Rexroat |
-| 817 | 15 | Donna Bush |
+| 783 | 18 | T-Dogger |
+| 784 | 18 | Dawn Ferrin |
+| 785 | 18 | Cauntay Youngking Williams |
+| 786 | 18 | Chelle Williams |
+| 787 | 18 | Janna Thompson |
+| 788 | 18 | Michelle Clark |
+| 789 | 18 | Emily Lowe |
+| 790 | 18 | Dewy |
+| 791 | 18 | Lorrie Ann Burchett |
+| 792 | 18 | Happy Strikerpiece |
+| 793 | 18 | Poppy Glider |
+| 794 | 17 | Glitzy Crasher |
+| 795 | 17 | Heather Hilferty |
+| 796 | 17 | Crystal Morrin |
+| 797 | 17 | Stotty |
+| 798 | 17 | Shane Snyder |
+| 799 | 17 | Terry Jo Myers |
+| 800 | 17 | Trishaann Triplett |
+| 801 | 17 | Kristie ML SneekaPuff |
+| 802 | 16 | Virgil Mayfield-Brown |
+| 803 | 16 | Mr.Corbin |
+| 804 | 16 | Snappy Fill |
+| 805 | 16 | Dee Modest |
+| 806 | 16 | Matthew Wilcox |
+| 807 | 16 | Frisky Pusher |
+| 808 | 16 | Layne Davis |
+| 809 | 16 | Grace Mariie |
+| 810 | 16 | Catherine Garza |
+| 811 | 16 | Joe Joe |
+| 812 | 15 | Hasty Snapmatch |
+| 813 | 15 | Sherry Mooney |
+| 814 | 15 | Tana-Marie Lynn McCarty-Rolf |
+| 815 | 15 | Austin Tan |
+| 816 | 15 | Capone |
+| 817 | 15 | Mandi Rexroat |
 | 818 | 15 | Hasty Grabber |
-| 819 | 15 | Jennifer Evans Elliott |
-| 820 | 15 | Nerdy Glider |
-| 821 | 15 | Christina Barry |
-| 822 | 15 | Twisty Gridclear |
-| 823 | 15 | Manolo Canety |
-| 824 | 15 | Wacky Clusterer |
-| 825 | 15 | Britney Kitora |
-| 826 | 15 | John Wertz |
-| 827 | 15 | babygirlw |
-| 828 | 14 | Dena Lynn Rogers |
-| 829 | 14 | Nicole Gilmore |
-| 830 | 14 | Becca Milliron |
-| 831 | 14 | Playful Raccoon |
-| 832 | 14 | moonman33 |
-| 833 | 14 | Kiaralis Ashley Hancock |
-| 834 | 14 | Marina |
-| 835 | 14 | JoJo Hutson |
-| 836 | 14 | Jazzy Rollout |
-| 837 | 14 | Luunii |
-| 838 | 14 | Ashley McGeehan |
-| 839 | 14 | MsChelleAnn |
-| 840 | 14 | Dolores Falco |
-| 841 | 14 | Gellix |
-| 842 | 13 | Gma420 |
-| 843 | 13 | Jaison Horton |
-| 844 | 13 | Jackie Russo-Edens |
-| 845 | 12 | Brendan Craven |
-| 846 | 12 | Diqthot |
-| 847 | 12 | Baby cat |
-| 848 | 12 | Shelly Jackson |
-| 849 | 12 | Jace McCullough |
-| 850 | 12 | T-Dogger |
-| 851 | 12 | McScrubby |
-| 852 | 12 | Scott Baum |
-| 853 | 12 | Angela Correa |
+| 819 | 15 | Donna Bush |
+| 820 | 15 | Jennifer Evans Elliott |
+| 821 | 15 | Nerdy Glider |
+| 822 | 15 | Christina Barry |
+| 823 | 15 | Twisty Gridclear |
+| 824 | 15 | Britney Kitora |
+| 825 | 15 | John Wertz |
+| 826 | 15 | babygirlw |
+| 827 | 15 | Wacky Clusterer |
+| 828 | 15 | Manolo Canety |
+| 829 | 14 | moonman33 |
+| 830 | 14 | Nicole Gilmore |
+| 831 | 14 | Dena Lynn Rogers |
+| 832 | 14 | Kiaralis Ashley Hancock |
+| 833 | 14 | Becca Milliron |
+| 834 | 14 | Playful Raccoon |
+| 835 | 14 | Marina |
+| 836 | 14 | JoJo Hutson |
+| 837 | 14 | Jazzy Rollout |
+| 838 | 14 | Luunii |
+| 839 | 14 | Ashley McGeehan |
+| 840 | 14 | MsChelleAnn |
+| 841 | 14 | Dolores Falco |
+| 842 | 14 | Gellix |
+| 843 | 13 | Gma420 |
+| 844 | 13 | Jaison Horton |
+| 845 | 13 | Jackie Russo-Edens |
+| 846 | 12 | Scott Baum |
+| 847 | 12 | McScrubby |
+| 848 | 12 | Jace McCullough |
+| 849 | 12 | Shelly Jackson |
+| 850 | 12 | Angela Correa |
+| 851 | 12 | Brendan Craven |
+| 852 | 12 | Baby cat |
+| 853 | 12 | Diqthot |
 | 854 | 12 | Rebecca Renaud |
 | 855 | 12 | Slinky Snapfit |
 | 856 | 12 | ESPERANTU |
@@ -870,25 +870,25 @@
 | 862 | 11 | Amowe |
 | 863 | 11 | Ashie |
 | 864 | 11 | Wynisha Johnson |
-| 865 | 11 | OFOZO |
-| 866 | 11 | EKM |
-| 867 | 11 | beTrue76 |
+| 865 | 11 | beTrue76 |
+| 866 | 11 | OFOZO |
+| 867 | 11 | EKM |
 | 868 | 11 | Teresa Lescinskas |
 | 869 | 11 | Nessa Smith |
-| 870 | 10 | Monika Webb |
-| 871 | 10 | San |
-| 872 | 10 | ToneDeaf |
-| 873 | 10 | DanceAngel |
-| 874 | 10 | Kelley Roach |
-| 875 | 10 | Lisa Jones |
-| 876 | 10 | Brianne Stull |
-| 877 | 10 | Sherri Lorent |
-| 878 | 10 | Monique Anne Edwards |
-| 879 | 10 | Christine Niles |
-| 880 | 10 | FitMeDiva |
-| 881 | 10 | Breezy Striker |
-| 882 | 10 | Charissa W Walton |
-| 883 | 10 | Crafty Clicker |
+| 870 | 10 | ToneDeaf |
+| 871 | 10 | Crafty Clicker |
+| 872 | 10 | Monique Anne Edwards |
+| 873 | 10 | Sherri Lorent |
+| 874 | 10 | Brianne Stull |
+| 875 | 10 | Kelley Roach |
+| 876 | 10 | Breezy Striker |
+| 877 | 10 | Monika Webb |
+| 878 | 10 | Christine Niles |
+| 879 | 10 | DanceAngel |
+| 880 | 10 | Lisa Jones |
+| 881 | 10 | Charissa W Walton |
+| 882 | 10 | San |
+| 883 | 10 | FitMeDiva |
 | 884 | 10 | Buchanon Bossingup Jadrienne |
 | 885 | 10 | Daring Towerer |
 | 886 | 10 | Japexican Strong |
@@ -900,22 +900,22 @@
 | 892 | 9 | apryliss Star |
 | 893 | 9 | juler |
 | 894 | 9 | Marion Wade |
-| 895 | 9 | DuvaDova Ahava |
-| 896 | 9 | beauxie |
+| 895 | 9 | beauxie |
+| 896 | 9 | Suzi Smas |
 | 897 | 9 | nanaz86 |
-| 898 | 9 | Frothy Riseclear |
-| 899 | 9 | Suzi Smas |
+| 898 | 9 | DuvaDova Ahava |
+| 899 | 9 | Frothy Riseclear |
 | 900 | 9 | fmp |
 | 901 | 9 | Todd Hamilton |
-| 902 | 9 | Stephanie Brock |
-| 903 | 9 | Cflixer |
-| 904 | 8 | Tony Tenas |
+| 902 | 9 | Cflixer |
+| 903 | 9 | Stephanie Brock |
+| 904 | 8 | Happy shelli |
 | 905 | 8 | Sydney Taylor Sileno |
 | 906 | 8 | Donovan Parmenter Gagne |
-| 907 | 8 | Happy shelli |
-| 908 | 8 | Mac James |
-| 909 | 8 | tj |
-| 910 | 8 | La Ah Ox |
+| 907 | 8 | Mac James |
+| 908 | 8 | tj |
+| 909 | 8 | La Ah Ox |
+| 910 | 8 | Tony Tenas |
 | 911 | 8 | Phoebe Tracy |
 | 912 | 8 | maria |
 | 913 | 8 | LaTesha D Williams |
