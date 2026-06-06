@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 14:44:17 UTC
+# Standings for team2 as of 2026-06-06 14:44:41 UTC
 
 **Total Participants:** 1195
 
@@ -49,7 +49,7 @@
 | 41 | 1201 | Monica Galli |
 | 42 | 1185 | Logan Basham |
 | 43 | 1176 | Julie Trede Amerson |
-| 44 | 1138 | Frilly Match |
+| 44 | 1158 | Frilly Match |
 | 45 | 1128 | Jennifer Corder |
 | 46 | 1031 | DarkHorse |
 | 47 | 926 | Debra Henry |
@@ -967,95 +967,95 @@
 | 959 | 18 | Lexi Chouinard |
 | 960 | 18 | Elizabeth Kline |
 | 961 | 18 | Adrian Alvarez |
-| 962 | 18 | FabTeach |
-| 963 | 18 | Kris Lea |
-| 964 | 17 | Audrey Wood |
+| 962 | 18 | Kris Lea |
+| 963 | 18 | FabTeach |
+| 964 | 17 | Snappy Blockbuilder |
 | 965 | 17 | Shaylee Haltiner |
-| 966 | 17 | Smiley Edgefit |
-| 967 | 17 | Staci Carl |
-| 968 | 17 | Kelly Christine Trimmer |
-| 969 | 17 | Dena Cudjo |
-| 970 | 17 | Snappy Blockbuilder |
-| 971 | 17 | Rosie |
-| 972 | 17 | Amanda Hamacher |
-| 973 | 16 | Kaylyn Wickham |
-| 974 | 16 | Yvonne Rodriguez |
+| 966 | 17 | Tracy Lee |
+| 967 | 17 | Smiley Edgefit |
+| 968 | 17 | Staci Carl |
+| 969 | 17 | Kelly Christine Trimmer |
+| 970 | 17 | Dena Cudjo |
+| 971 | 17 | Audrey Wood |
+| 972 | 17 | Rosie |
+| 973 | 17 | Amanda Hamacher |
+| 974 | 16 | JesseJo |
 | 975 | 16 | Jeremy Monceaux |
-| 976 | 16 | Matthew Black |
-| 977 | 16 | Renee Craig |
-| 978 | 16 | Peppy Piececlear |
-| 979 | 16 | Elliot |
-| 980 | 16 | LK |
-| 981 | 16 | JesseJo |
-| 982 | 15 | Lisa Marie |
-| 983 | 15 | Daring Pivotfall |
-| 984 | 15 | Timone907 |
-| 985 | 15 | Julie Vargas |
-| 986 | 15 | sally |
-| 987 | 15 | Christine Ann Eras |
-| 988 | 15 | Crafty Slice |
+| 976 | 16 | Yvonne Rodriguez |
+| 977 | 16 | Kaylyn Wickham |
+| 978 | 16 | Matthew Black |
+| 979 | 16 | Renee Craig |
+| 980 | 16 | Peppy Piececlear |
+| 981 | 16 | Elliot |
+| 982 | 16 | LK |
+| 983 | 15 | Lisa Marie |
+| 984 | 15 | Daring Pivotfall |
+| 985 | 15 | Timone907 |
+| 986 | 15 | Julie Vargas |
+| 987 | 15 | sally |
+| 988 | 15 | Christine Ann Eras |
 | 989 | 15 | Twisty Patternblock |
-| 990 | 15 | Shannie |
-| 991 | 15 | Linda Jeanne Knop |
+| 990 | 15 | Crafty Slice |
+| 991 | 15 | Shannie |
 | 992 | 15 | Poppy Slice |
-| 993 | 15 | Jacqueline Leigh Zuzinec |
-| 994 | 15 | Monique Williams |
-| 995 | 15 | Connie McCoy |
-| 996 | 15 | Mee Maw |
-| 997 | 15 | Jeremy Daurbigny |
-| 998 | 15 | Cheery Tilefall |
-| 999 | 15 | Mandeee |
-| 1000 | 15 | Samantha |
-| 1001 | 15 | Loopy Zone |
-| 1002 | 15 | Christina Whitehead |
-| 1003 | 14 | Nicole Treadway |
-| 1004 | 14 | Flex |
-| 1005 | 14 | COWBOY |
-| 1006 | 14 | Symmy Norton |
-| 1007 | 14 | Tracy Lee |
-| 1008 | 14 | Buffy Diane Blake |
-| 1009 | 14 | Randi Moore |
-| 1010 | 14 | BlockBreaker |
-| 1011 | 14 | Christopher Pulley |
-| 1012 | 14 | MiMi’26 |
-| 1013 | 14 | Poppy Zonepiece |
-| 1014 | 14 | Bubbly Risebuilder |
-| 1015 | 14 | Anthony Kordich |
-| 1016 | 14 | Lively Liner |
-| 1017 | 14 | ReiRei |
-| 1018 | 13 | Jill Gelhausen |
-| 1019 | 13 | Quirky Gridclear |
-| 1020 | 13 | Christina Michelle Wilson |
-| 1021 | 13 | Tara Feineis |
-| 1022 | 13 | Aldotfus Williams |
-| 1023 | 13 | Angelique Matzke Starns |
-| 1024 | 13 | Deborah Fowler |
-| 1025 | 13 | Witty Clearbuilder |
+| 993 | 15 | Linda Jeanne Knop |
+| 994 | 15 | Samantha |
+| 995 | 15 | Loopy Zone |
+| 996 | 15 | Christina Whitehead |
+| 997 | 15 | Connie McCoy |
+| 998 | 15 | Jeremy Daurbigny |
+| 999 | 15 | Jacqueline Leigh Zuzinec |
+| 1000 | 15 | Monique Williams |
+| 1001 | 15 | Mee Maw |
+| 1002 | 15 | Mandeee |
+| 1003 | 15 | Cheery Tilefall |
+| 1004 | 14 | Poppy Zonepiece |
+| 1005 | 14 | Nicole Treadway |
+| 1006 | 14 | COWBOY |
+| 1007 | 14 | Buffy Diane Blake |
+| 1008 | 14 | Randi Moore |
+| 1009 | 14 | Christopher Pulley |
+| 1010 | 14 | MiMi’26 |
+| 1011 | 14 | Bubbly Risebuilder |
+| 1012 | 14 | BlockBreaker |
+| 1013 | 14 | Symmy Norton |
+| 1014 | 14 | ReiRei |
+| 1015 | 14 | Flex |
+| 1016 | 14 | Anthony Kordich |
+| 1017 | 14 | Lively Liner |
+| 1018 | 13 | Tetris |
+| 1019 | 13 | Aldotfus Williams |
+| 1020 | 13 | Angelique Matzke Starns |
+| 1021 | 13 | Jill Gelhausen |
+| 1022 | 13 | Torb |
+| 1023 | 13 | Christina Michelle Wilson |
+| 1024 | 13 | Tara Feineis |
+| 1025 | 13 | Quirky Gridclear |
 | 1026 | 13 | Cristy Ayala |
-| 1027 | 13 | Bad Juju |
-| 1028 | 13 | Torb |
-| 1029 | 13 | Dreamy Wipepiece |
-| 1030 | 13 | Trena Sapp |
-| 1031 | 13 | Tetris |
-| 1032 | 13 | latte |
-| 1033 | 12 | Tyler Bates |
-| 1034 | 12 | Sindy08 |
-| 1035 | 12 | Betty Muise |
-| 1036 | 12 | Samantha Morrison |
-| 1037 | 12 | TiffTaff |
-| 1038 | 12 | Squyrt |
-| 1039 | 12 | Jay King |
-| 1040 | 12 | Maureen MomtoDolores GeorgeBrian |
+| 1027 | 13 | Deborah Fowler |
+| 1028 | 13 | latte |
+| 1029 | 13 | Trena Sapp |
+| 1030 | 13 | Dreamy Wipepiece |
+| 1031 | 13 | Witty Clearbuilder |
+| 1032 | 13 | Bad Juju |
+| 1033 | 12 | Redangel |
+| 1034 | 12 | Tyler Bates |
+| 1035 | 12 | Sindy08 |
+| 1036 | 12 | Betty Muise |
+| 1037 | 12 | Maureen MomtoDolores GeorgeBrian |
+| 1038 | 12 | Spicy Enchilada |
+| 1039 | 12 | Beej Blake |
+| 1040 | 12 | Samantha Morrison |
 | 1041 | 12 | Mary |
-| 1042 | 12 | Redangel |
-| 1043 | 12 | Lu Wallace |
-| 1044 | 12 | Quirky Brickroll |
-| 1045 | 12 | Beej Blake |
-| 1046 | 12 | Spicy Enchilada |
-| 1047 | 11 | Smiley Clearer |
-| 1048 | 11 | Purpleroyalty11 |
-| 1049 | 11 | Violet Olivares |
-| 1050 | 11 | Jeffrey Smith |
+| 1042 | 12 | Quirky Brickroll |
+| 1043 | 12 | TiffTaff |
+| 1044 | 12 | Lu Wallace |
+| 1045 | 12 | Jay King |
+| 1046 | 12 | Squyrt |
+| 1047 | 11 | Jeffrey Smith |
+| 1048 | 11 | Violet Olivares |
+| 1049 | 11 | Smiley Clearer |
+| 1050 | 11 | Purpleroyalty11 |
 | 1051 | 11 | Snappy Matchgrid |
 | 1052 | 11 | Cindy Brown |
 | 1053 | 11 | Amanda Neal |
