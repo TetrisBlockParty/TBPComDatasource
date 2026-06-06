@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 05:18:15 UTC
+# Standings for team2 as of 2026-06-06 05:18:38 UTC
 
 **Total Participants:** 1008
 
@@ -84,8 +84,8 @@
 | 76 | 328 | Tim Tim |
 | 77 | 324 | Mirr Lulu |
 | 78 | 319 | Michelle Rich Burkhart |
-| 79 | 317 | Ruby Sandberg |
-| 80 | 317 | Marquetta Johnson |
+| 79 | 317 | Marquetta Johnson |
+| 80 | 317 | Ruby Sandberg |
 | 81 | 310 | Kimberly Cowan |
 | 82 | 303 | Jennifer Smith |
 | 83 | 299 | Amber Miller Wirick |
@@ -103,9 +103,9 @@
 | 95 | 253 | Hilliary Beyer |
 | 96 | 253 | Heather Burgett |
 | 97 | 251 | Angie Kowalsky Olson |
-| 98 | 250 | Wmk Rathbun |
-| 99 | 249 | Bon Lynn |
-| 100 | 248 | MaddieCherie |
+| 98 | 251 | MaddieCherie |
+| 99 | 250 | Wmk Rathbun |
+| 100 | 249 | Bon Lynn |
 | 101 | 242 | Snappy Combo |
 | 102 | 236 | Steven Craig |
 | 103 | 230 | Brandy Chinelle |
@@ -114,8 +114,8 @@
 | 106 | 215 | Ashley Green |
 | 107 | 204 | Deborah Boyce Minor |
 | 108 | 201 | Danielle Pack Lewellen |
-| 109 | 200 | Sarah Grundisch |
-| 110 | 200 | Lisa Breiding |
+| 109 | 200 | Lisa Breiding |
+| 110 | 200 | Sarah Grundisch |
 | 111 | 199 | Beverly Lynn Mills |
 | 112 | 199 | Stella |
 | 113 | 197 | Eric Wayne Maschman |
@@ -132,11 +132,11 @@
 | 124 | 163 | Zany Cascader |
 | 125 | 162 | Larry Cross |
 | 126 | 160 | Helen Thomas |
-| 127 | 160 | Linda Guay |
-| 128 | 160 | Dallas Runyan |
-| 129 | 159 | Zarah Kettler |
-| 130 | 158 | Amy Nicole McCanne |
-| 131 | 155 | Cara Rivera |
+| 127 | 160 | Dallas Runyan |
+| 128 | 160 | Linda Guay |
+| 129 | 159 | Cara Rivera |
+| 130 | 159 | Zarah Kettler |
+| 131 | 158 | Amy Nicole McCanne |
 | 132 | 155 | Zany Blockclear |
 | 133 | 154 | Santara Ferguson |
 | 134 | 154 | Missy Renia |
@@ -145,96 +145,96 @@
 | 137 | 151 | Marilyn Mendoza |
 | 138 | 150 | Crystal Allen |
 | 139 | 149 | haune |
-| 140 | 148 | Curly Windbreaker |
-| 141 | 148 | Amber Cogdill |
+| 140 | 148 | Amber Cogdill |
+| 141 | 148 | Curly Windbreaker |
 | 142 | 147 | Gill |
 | 143 | 145 | H |
 | 144 | 145 | SEH |
-| 145 | 142 | Glitzy Base |
-| 146 | 141 | Spicy Risegrid |
-| 147 | 141 | Melisa |
-| 148 | 140 | Gabriella Humphreys |
-| 149 | 140 | Brittney Williams |
-| 150 | 140 | Iesha Cupil |
-| 151 | 140 | marsam |
-| 152 | 140 | Billie Jensen |
-| 153 | 140 | snowwol |
-| 154 | 139 | Jenni LeBlanc |
+| 145 | 145 | Amanda Priddy |
+| 146 | 142 | Glitzy Base |
+| 147 | 141 | Spicy Risegrid |
+| 148 | 141 | Melisa |
+| 149 | 140 | Billie Jensen |
+| 150 | 140 | snowwol |
+| 151 | 140 | Gabriella Humphreys |
+| 152 | 140 | marsam |
+| 153 | 140 | Iesha Cupil |
+| 154 | 140 | Brittney Williams |
 | 155 | 139 | Victoria Pale |
-| 156 | 138 | NickandJess Reynolds |
-| 157 | 137 | Lindsey Ford |
-| 158 | 136 | Joni Michelle Morgan |
+| 156 | 139 | Jenni LeBlanc |
+| 157 | 138 | NickandJess Reynolds |
+| 158 | 137 | Lindsey Ford |
 | 159 | 136 | Lauren Maxwell |
 | 160 | 136 | Lashanda Bertram |
-| 161 | 135 | Marylin Eacker |
-| 162 | 133 | Bengy Lead |
-| 163 | 132 | Spunky Cascadeclear |
-| 164 | 132 | Jeanna Mendez |
+| 161 | 136 | Joni Michelle Morgan |
+| 162 | 135 | Marylin Eacker |
+| 163 | 133 | Bengy Lead |
+| 164 | 132 | Spunky Cascadeclear |
 | 165 | 132 | Mtnblzr |
-| 166 | 131 | Harper |
-| 167 | 131 | Amy Lea Hamilton |
-| 168 | 130 | ZBee |
-| 169 | 130 | Precious Womack |
-| 170 | 129 | Amy Taylor Pomerenk |
-| 171 | 127 | Kim Hunt |
-| 172 | 126 | Laverne Ellis Blair |
-| 173 | 125 | Chipper Stackbuilder |
+| 166 | 132 | Jeanna Mendez |
+| 167 | 131 | Harper |
+| 168 | 131 | Amy Lea Hamilton |
+| 169 | 130 | ZBee |
+| 170 | 130 | Precious Womack |
+| 171 | 129 | Amy Taylor Pomerenk |
+| 172 | 127 | Kim Hunt |
+| 173 | 126 | Laverne Ellis Blair |
 | 174 | 125 | Ariel Gundersen |
-| 175 | 125 | Olivia Jefferson |
-| 176 | 124 | Amie Marks |
+| 175 | 125 | Chipper Stackbuilder |
+| 176 | 125 | Olivia Jefferson |
 | 177 | 124 | Jason Burris |
-| 178 | 124 | Alison Waller |
-| 179 | 123 | Lily |
-| 180 | 120 | Shannon Wilson |
-| 181 | 120 | Elizabeth Cornelius |
-| 182 | 120 | Happy |
-| 183 | 120 | Brenda Jones |
+| 178 | 124 | Amie Marks |
+| 179 | 124 | Alison Waller |
+| 180 | 123 | Lily |
+| 181 | 120 | Happy |
+| 182 | 120 | Elizabeth Cornelius |
+| 183 | 120 | Shannon Wilson |
 | 184 | 120 | Simone F |
-| 185 | 119 | Armando Sabedra |
+| 185 | 120 | Brenda Jones |
 | 186 | 119 | Angie Bishop |
-| 187 | 118 | Monique Frantz |
-| 188 | 118 | Logan Duffey |
-| 189 | 118 | Lora Via |
-| 190 | 117 | Marge Cromer |
-| 191 | 117 | Margie Ann Naffziger |
-| 192 | 116 | Teddy Williams |
+| 187 | 119 | Armando Sabedra |
+| 188 | 118 | Lora Via |
+| 189 | 118 | Logan Duffey |
+| 190 | 118 | Monique Frantz |
+| 191 | 117 | Marge Cromer |
+| 192 | 117 | Margie Ann Naffziger |
 | 193 | 116 | Rick |
-| 194 | 116 | Gwendolyn Boykin Mobbs |
-| 195 | 114 | Ashley Voelz |
-| 196 | 113 | Zany Wrecker |
-| 197 | 111 | Rhonda Diebold |
-| 198 | 110 | Kelly Vedder |
-| 199 | 110 | Nichole Wilson |
-| 200 | 109 | Loopy Tower |
-| 201 | 108 | Meagan Grimmett Washburn |
-| 202 | 107 | Michelle M Braley |
+| 194 | 116 | Teddy Williams |
+| 195 | 116 | Gwendolyn Boykin Mobbs |
+| 196 | 114 | Ashley Voelz |
+| 197 | 113 | Zany Wrecker |
+| 198 | 111 | Rhonda Diebold |
+| 199 | 110 | Kelly Vedder |
+| 200 | 110 | Nichole Wilson |
+| 201 | 109 | Loopy Tower |
+| 202 | 108 | Meagan Grimmett Washburn |
 | 203 | 107 | Carole Brown |
-| 204 | 106 | Sara Perkins |
+| 204 | 107 | Michelle M Braley |
 | 205 | 106 | Teresa Mandich |
-| 206 | 104 | Theresa Hollinger |
-| 207 | 103 | Tango Sierra |
-| 208 | 102 | Jat |
+| 206 | 106 | Sara Perkins |
+| 207 | 104 | Theresa Hollinger |
+| 208 | 103 | Tango Sierra |
 | 209 | 102 | Alissa Ary |
-| 210 | 100 | LEW |
-| 211 | 100 | August Christy Lathrop |
-| 212 | 100 | Sharon L Brazelton |
-| 213 | 100 | Amanda Priddy |
-| 214 | 100 | Ber |
-| 215 | 100 | Charity Hauser |
-| 216 | 99 | Jason Wood |
-| 217 | 99 | Gabrielle Rivera |
-| 218 | 99 | Jennifer Vitro |
-| 219 | 99 | Melissa Abbott |
-| 220 | 99 | Cathy Tippett |
-| 221 | 97 | LittleHippoEars |
+| 210 | 102 | Jat |
+| 211 | 100 | LEW |
+| 212 | 100 | Ber |
+| 213 | 100 | Charity Hauser |
+| 214 | 100 | August Christy Lathrop |
+| 215 | 100 | Sharon L Brazelton |
+| 216 | 99 | Melissa Abbott |
+| 217 | 99 | Jason Wood |
+| 218 | 99 | Gabrielle Rivera |
+| 219 | 99 | Cathy Tippett |
+| 220 | 99 | Jennifer Vitro |
+| 221 | 97 | Tina Marie |
 | 222 | 97 | Jennifer McClure |
-| 223 | 97 | Tina Marie |
-| 224 | 95 | Wacky Holder |
+| 223 | 97 | LittleHippoEars |
+| 224 | 95 | Sarah Mccolgan |
 | 225 | 95 | Mike Mordhorst |
-| 226 | 95 | Sarah Mccolgan |
+| 226 | 95 | Wacky Holder |
 | 227 | 94 | Sherri E Woods Hess |
-| 228 | 93 | Becca Marie |
-| 229 | 93 | Charles E Mccardell |
+| 228 | 93 | Charles E Mccardell |
+| 229 | 93 | Becca Marie |
 | 230 | 92 | Connie Breeden |
 | 231 | 92 | Nikki Hatch |
 | 232 | 92 | Jayda Walters |
