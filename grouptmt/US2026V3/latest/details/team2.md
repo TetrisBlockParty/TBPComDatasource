@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 18:32:40 UTC
+# Standings for team2 as of 2026-06-06 18:33:17 UTC
 
 **Total Participants:** 1311
 
@@ -104,9 +104,9 @@
 | 96 | 472 | Lily |
 | 97 | 468 | Amy Gale |
 | 98 | 449 | Poppy |
-| 99 | 436 | Kaycie Shaffer |
-| 100 | 433 | Kimberly Cowan |
-| 101 | 431 | Smiley Dropper |
+| 99 | 437 | Smiley Dropper |
+| 100 | 436 | Kaycie Shaffer |
+| 101 | 433 | Kimberly Cowan |
 | 102 | 430 | Amanda Sikes |
 | 103 | 408 | Marquetta Johnson |
 | 104 | 405 | Judy Long |
@@ -166,8 +166,8 @@
 | 158 | 241 | Suki Jacobs |
 | 159 | 241 | Boldy Wobbler |
 | 160 | 241 | Charlie Wilson |
-| 161 | 232 | Pam Bauder Ludwig |
-| 162 | 230 | Hoppy Mover |
+| 161 | 238 | Hoppy Mover |
+| 162 | 232 | Pam Bauder Ludwig |
 | 163 | 230 | Brandy Chinelle |
 | 164 | 228 | Keri Mears |
 | 165 | 227 | Ashley Green |
