@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 13:15:16 UTC
+# Standings for team4 as of 2026-06-06 13:16:15 UTC
 
 **Total Participants:** 973
 
@@ -81,11 +81,11 @@
 | 73 | 378 | Lisa Garcia |
 | 74 | 376 | Jason Garnatz |
 | 75 | 356 | Tanita Jobe |
-| 76 | 347 | Nikki Fuller Johnson |
-| 77 | 346 | Alexis Cor |
-| 78 | 333 | Alexandria Frazier |
-| 79 | 332 | RotatedWrongAgain |
-| 80 | 326 | Jason Allen |
+| 76 | 356 | Jason Allen |
+| 77 | 347 | Nikki Fuller Johnson |
+| 78 | 346 | Alexis Cor |
+| 79 | 333 | Alexandria Frazier |
+| 80 | 332 | RotatedWrongAgain |
 | 81 | 326 | Cherry |
 | 82 | 321 | woopa 716 |
 | 83 | 320 | Jackie Jackson |
@@ -100,13 +100,13 @@
 | 92 | 283 | Jesse Olive |
 | 93 | 271 | Kim |
 | 94 | 267 | Cranky Towerbuilder |
-| 95 | 259 | Jessica Peyton |
-| 96 | 258 | Andrew Dang |
-| 97 | 257 | Sarah Berry Stevens |
-| 98 | 253 | Debby Ruof |
-| 99 | 240 | Jojo Ann |
-| 100 | 235 | Hwanger Land |
-| 101 | 235 | Thomasena Eady Reid |
+| 95 | 265 | Thomasena Eady Reid |
+| 96 | 259 | Jessica Peyton |
+| 97 | 258 | Andrew Dang |
+| 98 | 257 | Sarah Berry Stevens |
+| 99 | 253 | Debby Ruof |
+| 100 | 240 | Jojo Ann |
+| 101 | 235 | Hwanger Land |
 | 102 | 230 | Sisi RedVelvet Reneè |
 | 103 | 229 | Aisha Estrada |
 | 104 | 218 | Dubiousdust |
@@ -167,29 +167,29 @@
 | 159 | 143 | Ashley Mcdonald |
 | 160 | 141 | Justin Michael |
 | 161 | 141 | Jackie Polanco |
-| 162 | 137 | Shelby |
-| 163 | 137 | Jasmine Marie |
-| 164 | 134 | Loony Rotater |
-| 165 | 134 | ariel |
-| 166 | 133 | Janet Sanfilippo Sullivan |
-| 167 | 133 | June Hoffman |
-| 168 | 133 | Chirpy Link |
-| 169 | 133 | Shawntae Mccary |
-| 170 | 131 | Tina Shalay Hayes |
-| 171 | 130 | Magz |
-| 172 | 130 | Fran Aaron-Ring |
-| 173 | 129 | Brainbabe |
-| 174 | 129 | Kelly Howland |
-| 175 | 129 | Hairy Snake |
-| 176 | 129 | Lani |
-| 177 | 129 | Simone |
-| 178 | 129 | Ryan Paul Clark-Ramsey |
-| 179 | 129 | Chilly Pivot |
-| 180 | 128 | Tina Thomas |
-| 181 | 128 | Crystal Hammonds |
-| 182 | 126 | GeorgeButts |
-| 183 | 126 | Lush Fitblock |
-| 184 | 126 | Danielle Mitchell |
+| 162 | 140 | Hairy Snake |
+| 163 | 137 | Shelby |
+| 164 | 137 | Jasmine Marie |
+| 165 | 136 | Danielle Mitchell |
+| 166 | 134 | Loony Rotater |
+| 167 | 134 | ariel |
+| 168 | 133 | Janet Sanfilippo Sullivan |
+| 169 | 133 | June Hoffman |
+| 170 | 133 | Chirpy Link |
+| 171 | 133 | Shawntae Mccary |
+| 172 | 131 | Tina Shalay Hayes |
+| 173 | 130 | Magz |
+| 174 | 130 | Fran Aaron-Ring |
+| 175 | 129 | Brainbabe |
+| 176 | 129 | Kelly Howland |
+| 177 | 129 | Lani |
+| 178 | 129 | Simone |
+| 179 | 129 | Ryan Paul Clark-Ramsey |
+| 180 | 129 | Chilly Pivot |
+| 181 | 128 | Tina Thomas |
+| 182 | 128 | Crystal Hammonds |
+| 183 | 126 | GeorgeButts |
+| 184 | 126 | Lush Fitblock |
 | 185 | 126 | Alyson M Kehler |
 | 186 | 125 | BertaF1irta |
 | 187 | 124 | Chris Covington |
@@ -197,12 +197,12 @@
 | 189 | 122 | Samara Garcia |
 | 190 | 121 | Jazzy Gridder |
 | 191 | 121 | JuicyJuice |
-| 192 | 120 | Glamorous Gracey |
-| 193 | 120 | Cool Risepiece |
-| 194 | 120 | Joab Gonzalez |
+| 192 | 120 | Joab Gonzalez |
+| 193 | 120 | Glamorous Gracey |
+| 194 | 120 | Cool Risepiece |
 | 195 | 120 | Shiny Brick |
-| 196 | 119 | Ashley Jenkins |
-| 197 | 119 | Name |
+| 196 | 119 | Name |
+| 197 | 119 | Ashley Jenkins |
 | 198 | 118 | Goofy Fall |
 | 199 | 118 | Cheery Risegrid |
 | 200 | 117 | BCO22 |
