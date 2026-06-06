@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 20:18:39 UTC
+# Standings for team1 as of 2026-06-06 20:19:17 UTC
 
 **Total Participants:** 1145
 
@@ -965,63 +965,63 @@
 | 957 | 15 | Damien Mathews |
 | 958 | 15 | Hasty Match |
 | 959 | 15 | b |
-| 960 | 15 | Robyn Ellis |
+| 960 | 15 | Nedine Ray |
 | 961 | 15 | S.S |
-| 962 | 15 | Chummy Clearfit |
-| 963 | 15 | Elaine Youmans |
+| 962 | 15 | Elaine Youmans |
+| 963 | 15 | Chummy Clearfit |
 | 964 | 15 | Nicole Freeman |
 | 965 | 15 | MonaSparks |
-| 966 | 15 | Wacky Towerer |
+| 966 | 15 | Cheery Clusterbuilder |
 | 967 | 15 | Breezy Bouncer |
-| 968 | 15 | Cheery Clusterbuilder |
-| 969 | 15 | Nedine Ray |
-| 970 | 15 | Spunky Strikerbuilder |
-| 971 | 15 | Shamara Thurston |
-| 972 | 15 | Lit757 |
-| 973 | 15 | Stacy Nicole |
-| 974 | 15 | Motown Chuck |
-| 975 | 15 | Tami Spence |
-| 976 | 14 | Jerrone Epps |
-| 977 | 14 | Sherry D Singleton |
-| 978 | 14 | Nerdy Curvetile |
-| 979 | 14 | Nichole Horsley-Conn |
-| 980 | 14 | Dymond |
-| 981 | 14 | Kenny 'Tailormade' Boyd |
-| 982 | 14 | Jennifer Levan |
-| 983 | 14 | Zany Pivot |
-| 984 | 14 | TBabii24 |
-| 985 | 14 | Jazzy |
-| 986 | 14 | Lynn |
-| 987 | 14 | Brittany Cole |
-| 988 | 14 | Sharon Lynn |
-| 989 | 14 | MoneyMac |
-| 990 | 13 | Emma Adams |
-| 991 | 13 | Leah Ingram |
-| 992 | 13 | Daphne Ceasar |
-| 993 | 13 | PuddenPop |
-| 994 | 13 | Krystal Maynard |
-| 995 | 13 | PSD |
-| 996 | 13 | Hoppy Rumbler |
-| 997 | 12 | Silly Spinblock |
-| 998 | 12 | Guard Up |
-| 999 | 12 | BigMike |
-| 1000 | 12 | Dora Greer |
-| 1001 | 12 | Mike Hromowyk |
-| 1002 | 12 | Joseph Ware Jr. |
-| 1003 | 12 | Michael Jones |
-| 1004 | 12 | Lillie Blossom Dixon |
-| 1005 | 12 | Fancy Mover |
-| 1006 | 12 | Cameo Tweed |
-| 1007 | 12 | Nicole Coko Thomas |
-| 1008 | 12 | Kevin Witdaflute |
-| 1009 | 12 | Sarah Jones |
-| 1010 | 12 | Outspoken Sirchristopher |
-| 1011 | 12 | BigDawg Lessley |
-| 1012 | 12 | Abdul Malik |
-| 1013 | 11 | Giddy Twistslam |
-| 1014 | 11 | Boldy Zoner |
-| 1015 | 11 | Nerdy Twistline |
-| 1016 | 11 | Teresa Bean |
+| 968 | 15 | Wacky Towerer |
+| 969 | 15 | Spunky Strikerbuilder |
+| 970 | 15 | Shamara Thurston |
+| 971 | 15 | Lit757 |
+| 972 | 15 | Stacy Nicole |
+| 973 | 15 | Robyn Ellis |
+| 974 | 15 | Tami Spence |
+| 975 | 15 | Motown Chuck |
+| 976 | 14 | Dymond |
+| 977 | 14 | Jerrone Epps |
+| 978 | 14 | Sherry D Singleton |
+| 979 | 14 | Nerdy Curvetile |
+| 980 | 14 | Zany Pivot |
+| 981 | 14 | Teresa Bean |
+| 982 | 14 | Nichole Horsley-Conn |
+| 983 | 14 | Lynn |
+| 984 | 14 | Brittany Cole |
+| 985 | 14 | Sharon Lynn |
+| 986 | 14 | MoneyMac |
+| 987 | 14 | Jennifer Levan |
+| 988 | 14 | Jazzy |
+| 989 | 14 | Kenny 'Tailormade' Boyd |
+| 990 | 14 | TBabii24 |
+| 991 | 13 | PSD |
+| 992 | 13 | Emma Adams |
+| 993 | 13 | Leah Ingram |
+| 994 | 13 | Daphne Ceasar |
+| 995 | 13 | Hoppy Rumbler |
+| 996 | 13 | Krystal Maynard |
+| 997 | 13 | PuddenPop |
+| 998 | 12 | Silly Spinblock |
+| 999 | 12 | Michael Jones |
+| 1000 | 12 | BigMike |
+| 1001 | 12 | Dora Greer |
+| 1002 | 12 | Guard Up |
+| 1003 | 12 | Mike Hromowyk |
+| 1004 | 12 | Joseph Ware Jr. |
+| 1005 | 12 | Lillie Blossom Dixon |
+| 1006 | 12 | Fancy Mover |
+| 1007 | 12 | Cameo Tweed |
+| 1008 | 12 | Nicole Coko Thomas |
+| 1009 | 12 | Kevin Witdaflute |
+| 1010 | 12 | Sarah Jones |
+| 1011 | 12 | Outspoken Sirchristopher |
+| 1012 | 12 | BigDawg Lessley |
+| 1013 | 12 | Abdul Malik |
+| 1014 | 11 | Giddy Twistslam |
+| 1015 | 11 | Boldy Zoner |
+| 1016 | 11 | Nerdy Twistline |
 | 1017 | 11 | Ray Baker |
 | 1018 | 11 | Jayson |
 | 1019 | 11 | Brenda Brogden |
