@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 08:26:38 UTC
+# Standings for team1 as of 2026-06-06 08:27:17 UTC
 
 **Total Participants:** 926
 
@@ -68,8 +68,8 @@
 | 60 | 380 | She Higgy |
 | 61 | 380 | Jessica Carter |
 | 62 | 380 | Bre Maugh |
-| 63 | 377 | JaszyBadd |
-| 64 | 377 | AF Cruz |
+| 63 | 377 | AF Cruz |
+| 64 | 377 | JaszyBadd |
 | 65 | 371 | Shell Lewis |
 | 66 | 368 | Ottison Dianna |
 | 67 | 365 | Sarah Marie |
@@ -77,18 +77,18 @@
 | 69 | 362 | Eric Mcgaughy |
 | 70 | 350 | Jazzy Dashpiece |
 | 71 | 344 | Kevin M. McGhee Jr |
-| 72 | 332 | Hyper Slamdrop |
-| 73 | 331 | Kimberly Hernandez |
-| 74 | 328 | Big Tina |
-| 75 | 323 | Catara Renae Oliver |
-| 76 | 322 | Lashawn Wallace |
-| 77 | 319 | GrkGdess |
-| 78 | 316 | Ty Øtg |
-| 79 | 314 | Keeta Chickswit Scott |
+| 72 | 334 | Christana Imjustbutton Stone |
+| 73 | 332 | Hyper Slamdrop |
+| 74 | 331 | Kimberly Hernandez |
+| 75 | 328 | Big Tina |
+| 76 | 323 | Catara Renae Oliver |
+| 77 | 322 | Lashawn Wallace |
+| 78 | 319 | GrkGdess |
+| 79 | 316 | Ty Øtg |
 | 80 | 314 | Carolynne Walker-Bell |
-| 81 | 292 | Robyn Caldwell |
-| 82 | 284 | Todd C. Clemens |
-| 83 | 284 | Christana Imjustbutton Stone |
+| 81 | 314 | Keeta Chickswit Scott |
+| 82 | 292 | Robyn Caldwell |
+| 83 | 284 | Todd C. Clemens |
 | 84 | 279 | COSA303 |
 | 85 | 278 | Shontanese Adams |
 | 86 | 273 | Sheila Burnham |
@@ -100,8 +100,8 @@
 | 92 | 256 | Cortaz Lawrie |
 | 93 | 253 | Dee McCool |
 | 94 | 251 | Helen Smith |
-| 95 | 249 | Ashley MyBeauty Daniels |
-| 96 | 249 | Tamara N Lee |
+| 95 | 249 | Tamara N Lee |
+| 96 | 249 | Ashley MyBeauty Daniels |
 | 97 | 244 | Jaida De'Anne Cox |
 | 98 | 240 | Rayya Kiser |
 | 99 | 237 | Leebo Slice |
@@ -110,10 +110,10 @@
 | 102 | 224 | Alana Renee |
 | 103 | 221 | Allison Baxter |
 | 104 | 219 | Jamal Itzjusmall Chambers |
-| 105 | 216 | Nerdy Snapfall |
-| 106 | 216 | Andi McGreevy |
-| 107 | 215 | Abraham Espaillat |
-| 108 | 215 | Songne Arif |
+| 105 | 216 | Andi McGreevy |
+| 106 | 216 | Nerdy Snapfall |
+| 107 | 215 | Songne Arif |
+| 108 | 215 | Abraham Espaillat |
 | 109 | 214 | Tonya McElroy |
 | 110 | 214 | Po Marley |
 | 111 | 213 | Jason Mungin |
@@ -628,47 +628,47 @@
 | 620 | 25 | Linny Loop |
 | 621 | 25 | BP Phillips |
 | 622 | 25 | Barbramerri Tarboro |
-| 623 | 25 | Heru Ogun Yeshua EL |
-| 624 | 25 | Plucky Clearpiece |
-| 625 | 25 | Cj Chimelis |
-| 626 | 25 | Tweet Turner |
-| 627 | 25 | PennyCandee |
-| 628 | 25 | Dinky da Don |
-| 629 | 25 | Dirty Deeds |
-| 630 | 25 | Alyssa H |
+| 623 | 25 | Tony P Burke |
+| 624 | 25 | PennyCandee |
+| 625 | 25 | Dirty Deeds |
+| 626 | 25 | Alyssa H |
+| 627 | 25 | Plucky Clearpiece |
+| 628 | 25 | Cj Chimelis |
+| 629 | 25 | Tweet Turner |
+| 630 | 25 | Dinky da Don |
 | 631 | 25 | marie |
-| 632 | 25 | Jenni |
-| 633 | 25 | Tony P Burke |
-| 634 | 25 | Kimmie Gargano |
-| 635 | 25 | Victoria Smith |
-| 636 | 25 | Brandy Jaszewski |
-| 637 | 24 | Tanisha Taylor |
-| 638 | 24 | Abigail Newman Sweet |
-| 639 | 24 | AshMo |
-| 640 | 24 | Shaun Anderson |
-| 641 | 24 | Mrs |
-| 642 | 24 | Mumitt |
-| 643 | 24 | Marlynnnnn |
-| 644 | 24 | Jason Saputo |
-| 645 | 23 | Tabitha Dupre-Allen |
-| 646 | 23 | Shakmar |
-| 647 | 23 | Shona ShayShay Jones |
-| 648 | 23 | Monica Fields |
-| 649 | 23 | Connor Leon Cluff |
-| 650 | 23 | Genevieve Nieves |
-| 651 | 23 | Andra Ward |
-| 652 | 23 | Khatyrah Burnette |
+| 632 | 25 | Kimmie Gargano |
+| 633 | 25 | Victoria Smith |
+| 634 | 25 | Jenni |
+| 635 | 25 | Brandy Jaszewski |
+| 636 | 25 | Heru Ogun Yeshua EL |
+| 637 | 24 | Mrs |
+| 638 | 24 | Mumitt |
+| 639 | 24 | Jason Saputo |
+| 640 | 24 | Marlynnnnn |
+| 641 | 24 | Shaun Anderson |
+| 642 | 24 | AshMo |
+| 643 | 24 | Abigail Newman Sweet |
+| 644 | 24 | Tanisha Taylor |
+| 645 | 23 | Khatyrah Burnette |
+| 646 | 23 | Hardtohandle91 |
+| 647 | 23 | Shakmar |
+| 648 | 23 | Jamie Lea Popp |
+| 649 | 23 | Shauntai Holiday |
+| 650 | 23 | Cm |
+| 651 | 23 | Tabitha Dupre-Allen |
+| 652 | 23 | Peppy Wipeblock |
 | 653 | 23 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 654 | 23 | Peppy Wipeblock |
-| 655 | 23 | Cm |
-| 656 | 23 | Shauntai Holiday |
-| 657 | 23 | Jamie Lea Popp |
-| 658 | 23 | Hardtohandle91 |
-| 659 | 22 | Stephen Glaze |
-| 660 | 22 | Happy Blocky |
-| 661 | 22 | Duncan Timothy |
-| 662 | 22 | tg |
-| 663 | 22 | Ameillia Boughner |
+| 654 | 23 | Ameillia Boughner |
+| 655 | 23 | Genevieve Nieves |
+| 656 | 23 | Shona ShayShay Jones |
+| 657 | 23 | Andra Ward |
+| 658 | 23 | Monica Fields |
+| 659 | 23 | Connor Leon Cluff |
+| 660 | 22 | Stephen Glaze |
+| 661 | 22 | Happy Blocky |
+| 662 | 22 | Duncan Timothy |
+| 663 | 22 | tg |
 | 664 | 22 | Jroc Tyra Taylor |
 | 665 | 22 | Kate Hancock Malicek |
 | 666 | 21 | Clever Blocker |
