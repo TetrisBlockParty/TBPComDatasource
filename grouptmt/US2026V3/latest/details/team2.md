@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 09:54:15 UTC
+# Standings for team2 as of 2026-06-06 09:54:38 UTC
 
 **Total Participants:** 1101
 
@@ -61,7 +61,7 @@
 | 53 | 671 | Brandi Thompson |
 | 54 | 660 | Julie Trede Amerson |
 | 55 | 659 | Marie Luciano |
-| 56 | 649 | Hoppy Rotate |
+| 56 | 654 | Hoppy Rotate |
 | 57 | 629 | Dane Marko |
 | 58 | 614 | Block Dog |
 | 59 | 588 | Kellie Sharp Godfrey |
