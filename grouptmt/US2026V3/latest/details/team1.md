@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 00:56:15 UTC
+# Standings for team1 as of 2026-06-06 00:56:39 UTC
 
 **Total Participants:** 657
 
@@ -150,30 +150,30 @@
 | 142 | 80 | Jazzy Dashpiece |
 | 143 | 80 | Jamie Willis |
 | 144 | 79 | Shanell Thomas |
-| 145 | 77 | Yashica Smith |
-| 146 | 77 | Shontanese Adams |
+| 145 | 77 | Shontanese Adams |
+| 146 | 77 | Yashica Smith |
 | 147 | 76 | Giggly Shatterline |
 | 148 | 75 | Dizzy Dashy |
 | 149 | 75 | Sanjuro |
-| 150 | 74 | Tonya McElroy |
-| 151 | 74 | ♈️ Ariesbaby |
+| 150 | 74 | ♈️ Ariesbaby |
+| 151 | 74 | Tonya McElroy |
 | 152 | 73 | Byron Mario Cawthon |
-| 153 | 71 | Erin Sabol |
-| 154 | 71 | MamaBear |
-| 155 | 70 | $hort Dog |
+| 153 | 71 | Kimberly Linares Hernandez |
+| 154 | 71 | Erin Sabol |
+| 155 | 71 | MamaBear |
 | 156 | 70 | Kaleisha Smith |
 | 157 | 70 | Latore Maxie |
-| 158 | 69 | Jayjay Rich |
-| 159 | 67 | Laurie Napper |
-| 160 | 67 | The DUBZ |
-| 161 | 67 | Kimberly Linares Hernandez |
+| 158 | 70 | $hort Dog |
+| 159 | 69 | Jayjay Rich |
+| 160 | 67 | Laurie Napper |
+| 161 | 67 | The DUBZ |
 | 162 | 67 | Michele Elizabeth McKay-Johnson |
 | 163 | 65 | Jazzy Bridger |
 | 164 | 64 | Eugina Slater |
 | 165 | 64 | CJ Robinson |
 | 166 | 64 | Tosha Michelle |
-| 167 | 62 | De'Mear McKinney |
-| 168 | 62 | Cheeky Pop |
+| 167 | 62 | Cheeky Pop |
+| 168 | 62 | De'Mear McKinney |
 | 169 | 62 | Jack Mehof |
 | 170 | 62 | rls |
 | 171 | 61 | star |
