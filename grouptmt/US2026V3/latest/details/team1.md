@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 16:22:39 UTC
+# Standings for team1 as of 2026-06-06 16:23:16 UTC
 
 **Total Participants:** 1056
 
@@ -42,9 +42,9 @@
 | 34 | 935 | Whitney Butler |
 | 35 | 934 | Sanjuro |
 | 36 | 933 | Cherry Rose |
-| 37 | 927 | Jolly Dropzone |
-| 38 | 915 | Chill Clusterer |
-| 39 | 886 | Linzie Marie |
+| 37 | 928 | Linzie Marie |
+| 38 | 927 | Jolly Dropzone |
+| 39 | 915 | Chill Clusterer |
 | 40 | 882 | Jon Gathers |
 | 41 | 877 | Brian Bohanon II |
 | 42 | 863 | Janine Hunter |
