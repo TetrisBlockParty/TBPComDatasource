@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 17:19:17 UTC
+# Standings for team1 as of 2026-06-06 17:20:16 UTC
 
 **Total Participants:** 1081
 
@@ -80,17 +80,17 @@
 | 72 | 448 | Ottison Dianna |
 | 73 | 448 | Chirpy Corner |
 | 74 | 446 | Chenell Gillard |
-| 75 | 434 | Gotcha |
-| 76 | 434 | Todd C. Clemens |
-| 77 | 421 | ing410 |
-| 78 | 416 | Bre Maugh |
-| 79 | 401 | Shell Lewis |
-| 80 | 399 | Joy Citizen Pickney |
+| 75 | 445 | Joy Citizen Pickney |
+| 76 | 434 | Gotcha |
+| 77 | 434 | Todd C. Clemens |
+| 78 | 421 | ing410 |
+| 79 | 416 | Bre Maugh |
+| 80 | 401 | Shell Lewis |
 | 81 | 394 | ELM |
 | 82 | 392 | She Higgy |
 | 83 | 388 | SPNLover24 |
-| 84 | 387 | Novaa |
-| 85 | 387 | JaszyBadd |
+| 84 | 387 | JaszyBadd |
+| 85 | 387 | Novaa |
 | 86 | 382 | Gael Quintana |
 | 87 | 380 | Jessica Carter |
 | 88 | 377 | AF Cruz |
@@ -115,23 +115,23 @@
 | 107 | 304 | Jason Mungin |
 | 108 | 298 | Leebo Slice |
 | 109 | 297 | Michelle Titus |
-| 110 | 292 | Atlantalindi |
-| 111 | 292 | Robyn Caldwell |
+| 110 | 292 | Robyn Caldwell |
+| 111 | 292 | Atlantalindi |
 | 112 | 285 | Jaida De'Anne Cox |
 | 113 | 278 | Shontanese Adams |
-| 114 | 275 | Chris Sladoje |
-| 115 | 275 | Jawaun Daniels |
-| 116 | 274 | Tammye Turner |
-| 117 | 274 | Tonya Lee Sanders |
+| 114 | 275 | Jawaun Daniels |
+| 115 | 275 | Chris Sladoje |
+| 116 | 274 | Tonya Lee Sanders |
+| 117 | 274 | Tammye Turner |
 | 118 | 273 | MamaBear |
 | 119 | 273 | Dee McCool |
 | 120 | 271 | Ashley MyBeauty Daniels |
 | 121 | 270 | Jo NewmindNewfocus Bell |
 | 122 | 263 | Roberta Lynn |
-| 123 | 263 | Jamal Itzjusmall Chambers |
-| 124 | 263 | Tamara N Lee |
-| 125 | 257 | Mimi 1.0 |
-| 126 | 257 | Cathy Young |
+| 123 | 263 | Tamara N Lee |
+| 124 | 263 | Jamal Itzjusmall Chambers |
+| 125 | 257 | Cathy Young |
+| 126 | 257 | Mimi 1.0 |
 | 127 | 256 | Cortaz Lawrie |
 | 128 | 251 | Allison Baxter |
 | 129 | 251 | Helen Smith |
@@ -143,20 +143,20 @@
 | 135 | 240 | Rayya Kiser |
 | 136 | 236 | SyTheEvilGenius1 |
 | 137 | 236 | Nutty Spinblock |
-| 138 | 227 | Po Marley |
-| 139 | 227 | Chantelle Lee |
+| 138 | 227 | Chantelle Lee |
+| 139 | 227 | Po Marley |
 | 140 | 226 | xXEKUNXx |
 | 141 | 225 | Rhonda Williams Warner |
 | 142 | 222 | Mic Balew |
-| 143 | 220 | Devin West |
-| 144 | 220 | Dacia Hicks |
+| 143 | 220 | Dacia Hicks |
+| 144 | 220 | Devin West |
 | 145 | 218 | Quirky Fallgrid |
 | 146 | 216 | Zachary Colegrove |
 | 147 | 216 | Nerdy Snapfall |
 | 148 | 214 | Tonya McElroy |
 | 149 | 212 | Nobles Brandon |
-| 150 | 206 | David Fuentes |
-| 151 | 206 | Curtis T Cirno |
+| 150 | 206 | Curtis T Cirno |
+| 151 | 206 | David Fuentes |
 | 152 | 206 | Weeze |
 | 153 | 204 | Angela R Wilson |
 | 154 | 200 | Felicia Cain |
@@ -308,19 +308,19 @@
 | 300 | 91 | star |
 | 301 | 90 | Charlene Baltimore |
 | 302 | 90 | Danielle DeLozier Plesec |
-| 303 | 88 | Slinky Brickmatch |
-| 304 | 88 | Kristie |
-| 305 | 88 | QueenShay AllGood |
-| 306 | 88 | Ad Doctor |
-| 307 | 88 | izzybella |
-| 308 | 88 | Wacky Stackbuilder |
-| 309 | 88 | TT |
-| 310 | 87 | Poppy Buildout |
-| 311 | 87 | Choc |
-| 312 | 86 | Chummy Frame |
-| 313 | 86 | Yashica Smith |
-| 314 | 86 | krd |
-| 315 | 85 | wmedina67 |
+| 303 | 89 | wmedina67 |
+| 304 | 88 | Slinky Brickmatch |
+| 305 | 88 | Kristie |
+| 306 | 88 | QueenShay AllGood |
+| 307 | 88 | Ad Doctor |
+| 308 | 88 | izzybella |
+| 309 | 88 | Wacky Stackbuilder |
+| 310 | 88 | TT |
+| 311 | 87 | Poppy Buildout |
+| 312 | 87 | Choc |
+| 313 | 86 | Chummy Frame |
+| 314 | 86 | Yashica Smith |
+| 315 | 86 | krd |
 | 316 | 85 | Kate Hancock Malicek |
 | 317 | 85 | Skippy |
 | 318 | 84 | kitten |
