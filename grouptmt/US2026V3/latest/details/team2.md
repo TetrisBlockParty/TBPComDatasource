@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 12:42:38 UTC
+# Standings for team2 as of 2026-06-06 12:43:17 UTC
 
 **Total Participants:** 1143
 
@@ -89,52 +89,52 @@
 | 81 | 429 | Amanda Sikes |
 | 82 | 428 | Loopy Cascadepiece |
 | 83 | 408 | Marquetta Johnson |
-| 84 | 405 | Kaycie Shaffer |
-| 85 | 405 | Judy Long |
-| 86 | 400 | Allie Bug |
-| 87 | 400 | Smashanator |
+| 84 | 405 | Judy Long |
+| 85 | 405 | Kaycie Shaffer |
+| 86 | 400 | Smashanator |
+| 87 | 400 | Allie Bug |
 | 88 | 390 | La chulis |
 | 89 | 389 | Kimberly Cowan |
 | 90 | 382 | Tom Badgley |
 | 91 | 377 | Nawang Nawang |
-| 92 | 354 | Branden Frankowski |
-| 93 | 345 | Smiley Dropper |
-| 94 | 344 | Zesty Strikerbuilder |
-| 95 | 340 | Courtney McCulley |
-| 96 | 335 | MaddieCherie |
-| 97 | 328 | Tim Tim |
-| 98 | 325 | Amy Gregg |
-| 99 | 319 | Michelle Rich Burkhart |
+| 92 | 375 | Elizabeth Mooney |
+| 93 | 354 | Branden Frankowski |
+| 94 | 345 | Smiley Dropper |
+| 95 | 344 | Zesty Strikerbuilder |
+| 96 | 340 | Courtney McCulley |
+| 97 | 335 | MaddieCherie |
+| 98 | 328 | Tim Tim |
+| 99 | 325 | Amy Gregg |
 | 100 | 319 | Shannon Wilson |
-| 101 | 317 | Ruby Sandberg |
-| 102 | 315 | Milad Arzani |
-| 103 | 312 | Le Sandy |
-| 104 | 310 | Jennifer Smith |
-| 105 | 309 | Giddy Slamdrop |
-| 106 | 300 | Wmk Rathbun |
-| 107 | 299 | Amber Miller Wirick |
-| 108 | 294 | Vistabrat |
-| 109 | 292 | Gabriella Humphreys |
-| 110 | 283 | Sarah Griffey |
-| 111 | 280 | Mom |
-| 112 | 279 | James Ward |
+| 101 | 319 | Michelle Rich Burkhart |
+| 102 | 317 | Ruby Sandberg |
+| 103 | 315 | Milad Arzani |
+| 104 | 312 | Le Sandy |
+| 105 | 310 | Jennifer Smith |
+| 106 | 309 | Giddy Slamdrop |
+| 107 | 308 | Gabriella Humphreys |
+| 108 | 300 | Wmk Rathbun |
+| 109 | 299 | Amber Miller Wirick |
+| 110 | 294 | Vistabrat |
+| 111 | 283 | Sarah Griffey |
+| 112 | 280 | Mom |
 | 113 | 279 | Renee Freeman Jacobson |
-| 114 | 278 | Flashy Twistline |
-| 115 | 275 | Bubbly Strikerpiece |
-| 116 | 259 | Bon Lynn |
-| 117 | 258 | Erin Thomas |
-| 118 | 253 | Hilliary Beyer |
-| 119 | 253 | Heather Burgett |
-| 120 | 252 | DayDreamer79 |
-| 121 | 251 | Angie Kowalsky Olson |
-| 122 | 247 | Fudgie Pie |
-| 123 | 242 | Snappy Combo |
-| 124 | 237 | Nerdy Climber |
-| 125 | 236 | Steven Craig |
-| 126 | 230 | Brandy Chinelle |
-| 127 | 228 | Keri Mears |
-| 128 | 227 | Brittni Lawrence |
-| 129 | 225 | Elizabeth Mooney |
+| 114 | 279 | James Ward |
+| 115 | 278 | Flashy Twistline |
+| 116 | 275 | Bubbly Strikerpiece |
+| 117 | 259 | Bon Lynn |
+| 118 | 258 | Erin Thomas |
+| 119 | 253 | Hilliary Beyer |
+| 120 | 253 | Heather Burgett |
+| 121 | 252 | DayDreamer79 |
+| 122 | 251 | Angie Kowalsky Olson |
+| 123 | 247 | Fudgie Pie |
+| 124 | 242 | Snappy Combo |
+| 125 | 237 | Nerdy Climber |
+| 126 | 236 | Steven Craig |
+| 127 | 230 | Brandy Chinelle |
+| 128 | 228 | Keri Mears |
+| 129 | 227 | Brittni Lawrence |
 | 130 | 218 | Amy Nicole McCanne |
 | 131 | 215 | Ashley Green |
 | 132 | 215 | Melissa Thomas |
@@ -265,39 +265,39 @@
 | 257 | 107 | Michelle M Braley |
 | 258 | 106 | Sara Perkins |
 | 259 | 106 | Patria Osuoha |
-| 260 | 105 | Tamtam |
-| 261 | 105 | Nikki EightySixed |
-| 262 | 104 | Ashley Billiot Rhodes |
-| 263 | 104 | Theresa Hollinger |
-| 264 | 104 | Roe Sarmiento |
-| 265 | 102 | Alissa Ary |
-| 266 | 102 | Tammy Roth |
-| 267 | 100 | Leticia Tillman |
-| 268 | 100 | Jason Cunningham |
-| 269 | 100 | August Christy Lathrop |
-| 270 | 100 | Ber |
-| 271 | 100 | Sharon L Brazelton |
+| 260 | 106 | Jamie Fenyus |
+| 261 | 105 | Tamtam |
+| 262 | 105 | Nikki EightySixed |
+| 263 | 104 | Ashley Billiot Rhodes |
+| 264 | 104 | Theresa Hollinger |
+| 265 | 104 | Roe Sarmiento |
+| 266 | 102 | Alissa Ary |
+| 267 | 102 | Tammy Roth |
+| 268 | 100 | August Christy Lathrop |
+| 269 | 100 | Ber |
+| 270 | 100 | Sharon L Brazelton |
+| 271 | 100 | Leticia Tillman |
 | 272 | 100 | Charity Hauser |
-| 273 | 99 | Gabrielle Rivera |
+| 273 | 100 | Jason Cunningham |
 | 274 | 99 | Cathy Tippett |
-| 275 | 99 | Jennifer Vitro |
+| 275 | 99 | Gabrielle Rivera |
 | 276 | 99 | Melissa Abbott |
-| 277 | 97 | LittleHippoEars |
+| 277 | 99 | Jennifer Vitro |
 | 278 | 97 | Jennifer McClure |
-| 279 | 96 | Breezy |
-| 280 | 95 | Mike Mordhorst |
+| 279 | 97 | LittleHippoEars |
+| 280 | 96 | Breezy |
 | 281 | 95 | Wacky Holder |
-| 282 | 94 | Sully |
+| 282 | 95 | Mike Mordhorst |
 | 283 | 94 | Sherri E Woods Hess |
-| 284 | 93 | Connie Breeden |
+| 284 | 94 | Sully |
 | 285 | 93 | Lively Curve |
-| 286 | 93 | Mataya |
-| 287 | 92 | Raine |
-| 288 | 92 | Jayda Walters |
-| 289 | 92 | Nutty Curver |
-| 290 | 92 | Nikki Hatch |
-| 291 | 92 | Greta Warden |
-| 292 | 91 | Jamie Fenyus |
+| 286 | 93 | Connie Breeden |
+| 287 | 93 | Mataya |
+| 288 | 92 | Nutty Curver |
+| 289 | 92 | Greta Warden |
+| 290 | 92 | Jayda Walters |
+| 291 | 92 | Raine |
+| 292 | 92 | Nikki Hatch |
 | 293 | 91 | Rocroc mo |
 | 294 | 91 | Leighla Davis |
 | 295 | 90 | Carlos J Blas |

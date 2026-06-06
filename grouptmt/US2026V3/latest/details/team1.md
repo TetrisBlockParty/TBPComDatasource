@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 12:42:38 UTC
+# Standings for team1 as of 2026-06-06 12:43:17 UTC
 
 **Total Participants:** 983
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 19000 | Ariel |
 | 2 | 5469 | Death by SnuSnu |
-| 3 | 5120 | Cozy Edge |
+| 3 | 5137 | Cozy Edge |
 | 4 | 5000 | Tyeina Johnson |
 | 5 | 4901 | Dyane Leah Ware |
 | 6 | 4495 | Tracy Cohen |
@@ -57,12 +57,12 @@
 | 49 | 502 | Tiana Moore |
 | 50 | 500 | Janine Hunter |
 | 51 | 493 | Eartha Brown |
-| 52 | 482 | Cj Gorman |
-| 53 | 474 | Keeta Chickswit Scott |
-| 54 | 472 | Jazzy Dashpiece |
-| 55 | 471 | D'Andra Stewart |
-| 56 | 469 | Sanjuro |
-| 57 | 430 | Carolynne Walker-Bell |
+| 52 | 489 | Carolynne Walker-Bell |
+| 53 | 482 | Cj Gorman |
+| 54 | 474 | Keeta Chickswit Scott |
+| 55 | 472 | Jazzy Dashpiece |
+| 56 | 471 | D'Andra Stewart |
+| 57 | 469 | Sanjuro |
 | 58 | 427 | KenpachisGirl |
 | 59 | 425 | Erika Windom |
 | 60 | 423 | Linzie Marie |
@@ -74,8 +74,8 @@
 | 66 | 387 | Novaa |
 | 67 | 380 | IamJust Neyamijah Washington Sr. |
 | 68 | 380 | Jessica Carter |
-| 69 | 380 | She Higgy |
-| 70 | 380 | Bre Maugh |
+| 69 | 380 | Bre Maugh |
+| 70 | 380 | She Higgy |
 | 71 | 377 | AF Cruz |
 | 72 | 377 | JaszyBadd |
 | 73 | 371 | Shell Lewis |
@@ -239,65 +239,65 @@
 | 231 | 96 | Yazz |
 | 232 | 96 | Melissa D. M. Hornsby |
 | 233 | 95 | Nate Myers |
-| 234 | 95 | Shiny Lift |
-| 235 | 94 | Cece Fowler |
-| 236 | 93 | Rackemwillie34 |
-| 237 | 93 | Tosha Michelle |
+| 234 | 95 | Tosha Michelle |
+| 235 | 95 | Shiny Lift |
+| 236 | 94 | Cece Fowler |
+| 237 | 93 | Rackemwillie34 |
 | 238 | 92 | Quirky Fallgrid |
 | 239 | 92 | Katherine Short |
 | 240 | 92 | The DUBZ |
 | 241 | 91 | Jack Vlasak |
 | 242 | 90 | Charlene Baltimore |
 | 243 | 89 | Phillip Vasquez |
-| 244 | 88 | TT |
-| 245 | 88 | QueenShay AllGood |
+| 244 | 88 | QueenShay AllGood |
+| 245 | 88 | TT |
 | 246 | 88 | izzybella |
 | 247 | 88 | Ad Doctor |
 | 248 | 87 | Choc |
-| 249 | 87 | Poppy Buildout |
-| 250 | 87 | Karebear |
+| 249 | 87 | Karebear |
+| 250 | 87 | Poppy Buildout |
 | 251 | 87 | Keke Ferguson |
-| 252 | 86 | Chandler Magee |
-| 253 | 86 | krd |
-| 254 | 86 | Brittany Fells |
-| 255 | 86 | Yashica Smith |
+| 252 | 86 | Yashica Smith |
+| 253 | 86 | Chandler Magee |
+| 254 | 86 | krd |
+| 255 | 86 | Brittany Fells |
 | 256 | 85 | Skippy |
 | 257 | 85 | Cauiasia DeJ'ae |
 | 258 | 85 | Simmone T. Kadiri |
 | 259 | 85 | Slinky Snapbuilder |
 | 260 | 84 | Ciera Peace |
-| 261 | 84 | Gael Quintana |
-| 262 | 84 | Franklin Sotelo |
-| 263 | 84 | kitten |
-| 264 | 83 | Stephen Glaze |
+| 261 | 84 | kitten |
+| 262 | 84 | Gael Quintana |
+| 263 | 84 | Franklin Sotelo |
+| 264 | 83 | Mikayla |
 | 265 | 83 | Tipsy Linkroll |
-| 266 | 82 | Peppy Glider |
-| 267 | 82 | Cachet A Ward |
-| 268 | 81 | Sarah Steckbauer |
+| 266 | 83 | Stephen Glaze |
+| 267 | 82 | Peppy Glider |
+| 268 | 82 | Cachet A Ward |
 | 269 | 81 | Jae Thompson-Tyus |
 | 270 | 81 | MrsMeadows2019 |
-| 271 | 81 | rls |
-| 272 | 80 | Latore Maxie |
+| 271 | 81 | Sarah Steckbauer |
+| 272 | 81 | rls |
 | 273 | 80 | Jamie Willis |
-| 274 | 80 | Felicia Williams |
-| 275 | 80 | Trina Greenwood |
-| 276 | 80 | Seddrick |
-| 277 | 80 | Chevalier Burley |
-| 278 | 80 | Tishauna Virgo |
-| 279 | 80 | Charles Johnson |
-| 280 | 80 | Tracey Johnson |
-| 281 | 80 | Nyhlah Patterson |
-| 282 | 80 | Natalie Burroughs |
-| 283 | 80 | Carolyn Smith |
-| 284 | 80 | Li-Li Ratliff |
-| 285 | 79 | Slinky Brickmatch |
-| 286 | 79 | Montréal Mars |
-| 287 | 79 | Brand Nu |
-| 288 | 79 | Loopy Tiler |
-| 289 | 79 | Bambi Johnson |
-| 290 | 78 | Breezy Catcher |
-| 291 | 78 | KeeKee Williams |
-| 292 | 78 | Mikayla |
+| 274 | 80 | Chevalier Burley |
+| 275 | 80 | Seddrick |
+| 276 | 80 | Felicia Williams |
+| 277 | 80 | Trina Greenwood |
+| 278 | 80 | Latore Maxie |
+| 279 | 80 | Tishauna Virgo |
+| 280 | 80 | Charles Johnson |
+| 281 | 80 | Tracey Johnson |
+| 282 | 80 | Nyhlah Patterson |
+| 283 | 80 | Natalie Burroughs |
+| 284 | 80 | Carolyn Smith |
+| 285 | 80 | Li-Li Ratliff |
+| 286 | 79 | Slinky Brickmatch |
+| 287 | 79 | Montréal Mars |
+| 288 | 79 | Brand Nu |
+| 289 | 79 | Loopy Tiler |
+| 290 | 79 | Bambi Johnson |
+| 291 | 78 | Breezy Catcher |
+| 292 | 78 | KeeKee Williams |
 | 293 | 78 | Shameka Tiffany |
 | 294 | 77 | C Lo Green |
 | 295 | 76 | Mister Reid |
