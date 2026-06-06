@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 07:04:16 UTC
+# Standings for team4 as of 2026-06-06 07:04:40 UTC
 
 **Total Participants:** 869
 
@@ -53,14 +53,14 @@
 | 45 | 510 | Krysten Danielle Richard |
 | 46 | 505 | Fancy Crasher |
 | 47 | 500 | Michele |
-| 48 | 480 | MysticMaven |
+| 48 | 495 | MysticMaven |
 | 49 | 477 | Malik Thompson |
 | 50 | 474 | Jeremy Lopez |
 | 51 | 461 | Kayla Fuentes |
 | 52 | 458 | vag1974 |
 | 53 | 440 | Jewelz |
-| 54 | 419 | Caitlyn Wang |
-| 55 | 419 | Sweet Stacker |
+| 54 | 419 | Sweet Stacker |
+| 55 | 419 | Caitlyn Wang |
 | 56 | 402 | Nick Graber |
 | 57 | 400 | Amber Doyle |
 | 58 | 395 | Melissa WC |
@@ -101,15 +101,15 @@
 | 93 | 200 | Leah Gorsuch |
 | 94 | 197 | Slimm |
 | 95 | 195 | Sean Mccleary |
-| 96 | 194 | Lisa lisa |
-| 97 | 194 | Chiquita Blue |
+| 96 | 194 | Chiquita Blue |
+| 97 | 194 | Lisa lisa |
 | 98 | 193 | Tiffany Bunker-Hill |
 | 99 | 192 | Gorica Prusina |
 | 100 | 184 | Giggly Tilt |
 | 101 | 182 | blockhead |
 | 102 | 181 | Colin |
-| 103 | 180 | Aisha Estrada |
-| 104 | 180 | Shmeedo |
+| 103 | 180 | Shmeedo |
+| 104 | 180 | Aisha Estrada |
 | 105 | 179 | Anna Gribble |
 | 106 | 178 | Tamara Triplet |
 | 107 | 177 | Tammy June |
@@ -122,21 +122,21 @@
 | 114 | 160 | Kitsune Bi |
 | 115 | 159 | iiPurgeV2 |
 | 116 | 157 | QueenLi86 |
-| 117 | 155 | Shayna Vaigneur-Hall |
-| 118 | 155 | RotatedWrongAgain |
-| 119 | 154 | No Time |
-| 120 | 153 | Brandy Lynn |
-| 121 | 153 | Laguya |
-| 122 | 152 | J |
+| 117 | 155 | RotatedWrongAgain |
+| 118 | 155 | Shayna Vaigneur-Hall |
+| 119 | 154 | Debby Ruof |
+| 120 | 154 | No Time |
+| 121 | 153 | Brandy Lynn |
+| 122 | 153 | Laguya |
 | 123 | 152 | Dazzle Dragon |
-| 124 | 149 | Daryn Elliott |
-| 125 | 149 | Danny Ortiz |
-| 126 | 148 | Megan Vick |
-| 127 | 146 | Becky McCool |
-| 128 | 145 | Trice Stevenson |
-| 129 | 144 | Yesenia Castro Monreal |
+| 124 | 152 | J |
+| 125 | 149 | Daryn Elliott |
+| 126 | 149 | Danny Ortiz |
+| 127 | 148 | Megan Vick |
+| 128 | 146 | Becky McCool |
+| 129 | 145 | Trice Stevenson |
 | 130 | 144 | gabs |
-| 131 | 143 | Debby Ruof |
+| 131 | 144 | Yesenia Castro Monreal |
 | 132 | 143 | Ashley Mcdonald |
 | 133 | 142 | Scamp Jones |
 | 134 | 141 | Jackie Polanco |
@@ -144,14 +144,14 @@
 | 136 | 137 | Devinlee Brown |
 | 137 | 134 | Loony Rotater |
 | 138 | 134 | ariel |
-| 139 | 133 | Janet Sanfilippo Sullivan |
-| 140 | 133 | Shawntae Mccary |
+| 139 | 133 | Shawntae Mccary |
+| 140 | 133 | Janet Sanfilippo Sullivan |
 | 141 | 132 | Spicy Chicken |
-| 142 | 129 | Ryan Paul Clark-Ramsey |
-| 143 | 129 | Chilly Pivot |
-| 144 | 129 | Lani |
-| 145 | 129 | Brainbabe |
-| 146 | 129 | Simone |
+| 142 | 129 | Chilly Pivot |
+| 143 | 129 | Ryan Paul Clark-Ramsey |
+| 144 | 129 | Simone |
+| 145 | 129 | Lani |
+| 146 | 129 | Brainbabe |
 | 147 | 128 | Crystal Hammonds |
 | 148 | 127 | Tipsy Builderline |
 | 149 | 126 | GeorgeButts |
@@ -161,41 +161,41 @@
 | 153 | 123 | Cherrypir05 |
 | 154 | 122 | Samara Garcia |
 | 155 | 121 | Jazzy Gridder |
-| 156 | 120 | Glamorous Gracey |
-| 157 | 120 | Shiny Brick |
+| 156 | 120 | Shiny Brick |
+| 157 | 120 | Glamorous Gracey |
 | 158 | 119 | EL Booger |
-| 159 | 118 | Goofy Fall |
-| 160 | 118 | Cheery Risegrid |
+| 159 | 118 | Cheery Risegrid |
+| 160 | 118 | Goofy Fall |
 | 161 | 117 | BCO22 |
-| 162 | 116 | Brennan Shea Greene |
-| 163 | 116 | WeeWooWee |
+| 162 | 116 | WeeWooWee |
+| 163 | 116 | Brennan Shea Greene |
 | 164 | 116 | Dee Wizz |
 | 165 | 114 | Bryan DjMagnum Evans |
 | 166 | 113 | Dennis Montoya |
-| 167 | 113 | Melissa Anne |
-| 168 | 113 | kcknbtz |
+| 167 | 113 | kcknbtz |
+| 168 | 113 | Melissa Anne |
 | 169 | 112 | matt |
 | 170 | 111 | Taz |
-| 171 | 109 | Rose Anna Safi |
-| 172 | 109 | Joab Gonzalez |
-| 173 | 108 | Lush Fitblock |
-| 174 | 108 | Juvon SupaShawdii Brooks |
+| 171 | 109 | Joab Gonzalez |
+| 172 | 109 | Rose Anna Safi |
+| 173 | 108 | Juvon SupaShawdii Brooks |
+| 174 | 108 | Lush Fitblock |
 | 175 | 107 | CJ |
 | 176 | 107 | June Hoffman |
 | 177 | 105 | Name |
 | 178 | 105 | kellie |
-| 179 | 104 | Justin Ballard |
-| 180 | 104 | Tawna Curry |
+| 179 | 104 | Tawna Curry |
+| 180 | 104 | Justin Ballard |
 | 181 | 103 | Boldy Rumbler |
 | 182 | 101 | Zesty Twistpiece |
 | 183 | 101 | TheazO |
-| 184 | 100 | Loopy Clusterline |
-| 185 | 100 | CorieBe |
-| 186 | 99 | Dapper Strikerpiece |
-| 187 | 99 | Shelby |
-| 188 | 98 | Jacqueline Arce |
-| 189 | 98 | Tina Thomas |
-| 190 | 98 | Taisha Beasley |
+| 184 | 100 | CorieBe |
+| 185 | 100 | Loopy Clusterline |
+| 186 | 99 | Shelby |
+| 187 | 99 | Dapper Strikerpiece |
+| 188 | 98 | Taisha Beasley |
+| 189 | 98 | Jacqueline Arce |
+| 190 | 98 | Tina Thomas |
 | 191 | 98 | Shanna Fragen |
 | 192 | 97 | Fancy Tilefall |
 | 193 | 97 | Tarsha Thomas-Martinez |
@@ -205,32 +205,32 @@
 | 197 | 94 | Reina Pagan |
 | 198 | 93 | farfromlocal |
 | 199 | 92 | Homie |
-| 200 | 91 | Dayna Arthurs |
-| 201 | 91 | Tricia Motika Cowan |
-| 202 | 91 | Jennifer Garcia |
+| 200 | 91 | Tricia Motika Cowan |
+| 201 | 91 | Jennifer Garcia |
+| 202 | 91 | Lucy Honer |
 | 203 | 91 | Dominique Melendez |
-| 204 | 91 | Lucy Honer |
-| 205 | 90 | bollo |
+| 204 | 91 | Dayna Arthurs |
+| 205 | 90 | Quiomarie Cotto |
 | 206 | 90 | Justin Michael |
-| 207 | 90 | Quiomarie Cotto |
-| 208 | 89 | Waxboss |
-| 209 | 89 | Chirpy Snapclear |
-| 210 | 89 | Betsy Froemming |
+| 207 | 90 | bollo |
+| 208 | 89 | Chirpy Snapclear |
+| 209 | 89 | Betsy Froemming |
+| 210 | 89 | Waxboss |
 | 211 | 87 | Limbo |
 | 212 | 87 | LastBoi |
 | 213 | 86 | Rachel Lemos |
 | 214 | 85 | Dawn Marie Trujillo |
 | 215 | 85 | Kari Smith |
 | 216 | 84 | Rae Saunders |
-| 217 | 83 | MrLoner Stoner |
-| 218 | 83 | Jennifer Fisher Franklin |
-| 219 | 83 | Mark Fitch Jr. |
+| 217 | 83 | Jennifer Fisher Franklin |
+| 218 | 83 | Mark Fitch Jr. |
+| 219 | 83 | Bouncy |
 | 220 | 83 | Rosy Perez |
-| 221 | 83 | Bouncy |
+| 221 | 83 | MrLoner Stoner |
 | 222 | 82 | Iforget |
-| 223 | 82 | Codey Haffner |
+| 223 | 82 | Luna |
 | 224 | 82 | Bon Jovi |
-| 225 | 82 | Luna |
+| 225 | 82 | Codey Haffner |
 | 226 | 81 | Lively Cascadebuilder |
 | 227 | 81 | Deva Marie Barber |
 | 228 | 81 | Stasia |
