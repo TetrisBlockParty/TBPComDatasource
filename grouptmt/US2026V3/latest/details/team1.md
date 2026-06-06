@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 10:49:17 UTC
+# Standings for team1 as of 2026-06-06 10:50:16 UTC
 
 **Total Participants:** 958
 
@@ -67,12 +67,12 @@
 | 59 | 395 | Blockhead |
 | 60 | 388 | SPNLover24 |
 | 61 | 387 | Novaa |
-| 62 | 380 | Bre Maugh |
-| 63 | 380 | She Higgy |
-| 64 | 380 | Jessica Carter |
-| 65 | 380 | IamJust Neyamijah Washington Sr. |
-| 66 | 377 | AF Cruz |
-| 67 | 377 | JaszyBadd |
+| 62 | 380 | IamJust Neyamijah Washington Sr. |
+| 63 | 380 | Jessica Carter |
+| 64 | 380 | She Higgy |
+| 65 | 380 | Bre Maugh |
+| 66 | 377 | JaszyBadd |
+| 67 | 377 | AF Cruz |
 | 68 | 371 | Shell Lewis |
 | 69 | 368 | Ottison Dianna |
 | 70 | 365 | Sarah Marie |
@@ -93,18 +93,18 @@
 | 85 | 305 | John Staub |
 | 86 | 304 | Linzie Marie |
 | 87 | 292 | Robyn Caldwell |
-| 88 | 284 | Todd C. Clemens |
-| 89 | 279 | COSA303 |
-| 90 | 278 | Shontanese Adams |
-| 91 | 270 | Chenell Gillard |
-| 92 | 268 | Dee McCool |
-| 93 | 264 | Tammye Turner |
-| 94 | 259 | Chirpy Corner |
-| 95 | 257 | Mimi 1.0 |
-| 96 | 257 | Michelle Titus |
-| 97 | 256 | Cortaz Lawrie |
-| 98 | 251 | Helen Smith |
-| 99 | 251 | D'Andra Stewart |
+| 88 | 291 | D'Andra Stewart |
+| 89 | 284 | Todd C. Clemens |
+| 90 | 279 | COSA303 |
+| 91 | 278 | Shontanese Adams |
+| 92 | 270 | Chenell Gillard |
+| 93 | 268 | Dee McCool |
+| 94 | 264 | Tammye Turner |
+| 95 | 259 | Chirpy Corner |
+| 96 | 257 | Mimi 1.0 |
+| 97 | 257 | Michelle Titus |
+| 98 | 256 | Cortaz Lawrie |
+| 99 | 251 | Helen Smith |
 | 100 | 249 | Ashley MyBeauty Daniels |
 | 101 | 249 | Tamara N Lee |
 | 102 | 244 | Jaida De'Anne Cox |
@@ -116,10 +116,10 @@
 | 108 | 224 | Alana Renee |
 | 109 | 221 | Allison Baxter |
 | 110 | 219 | Jamal Itzjusmall Chambers |
-| 111 | 216 | Nerdy Snapfall |
-| 112 | 216 | Andi McGreevy |
-| 113 | 215 | Abraham Espaillat |
-| 114 | 215 | Songne Arif |
+| 111 | 216 | Andi McGreevy |
+| 112 | 216 | Nerdy Snapfall |
+| 113 | 215 | Songne Arif |
+| 114 | 215 | Abraham Espaillat |
 | 115 | 214 | Po Marley |
 | 116 | 214 | Tonya McElroy |
 | 117 | 213 | Jason Mungin |
@@ -127,15 +127,15 @@
 | 119 | 208 | Mic Balew |
 | 120 | 206 | Curtis T Cirno |
 | 121 | 204 | MamaBear |
-| 122 | 200 | Felicia Cain |
-| 123 | 200 | Dacia Hicks |
+| 122 | 200 | Dacia Hicks |
+| 123 | 200 | Felicia Cain |
 | 124 | 199 | Asani CHumba |
 | 125 | 197 | BYM4L |
 | 126 | 196 | Eugina Slater |
 | 127 | 195 | Weeze |
 | 128 | 194 | Daris Swearington |
-| 129 | 193 | Moomoo |
-| 130 | 193 | Brave Clearbuilder |
+| 129 | 193 | Brave Clearbuilder |
+| 130 | 193 | Moomoo |
 | 131 | 190 | Davionte DaeDae Hopson-Rodriguez |
 | 132 | 188 | PandaPrincess |
 | 133 | 186 | Denise B |
@@ -143,18 +143,18 @@
 | 135 | 184 | Dai Bo |
 | 136 | 182 | Hyper Blocky |
 | 137 | 181 | Joey Albright |
-| 138 | 177 | Chris Sladoje |
-| 139 | 176 | Kelli Couture |
+| 138 | 179 | Kelli Couture |
+| 139 | 177 | Chris Sladoje |
 | 140 | 176 | Andre Sanon |
 | 141 | 175 | Rayshawn Cohen |
 | 142 | 169 | Asha Langford |
-| 143 | 166 | Nobles Brandon |
-| 144 | 166 | Tarnisha Neicy Jones |
+| 143 | 166 | Tarnisha Neicy Jones |
+| 144 | 166 | Nobles Brandon |
 | 145 | 160 | Zippy Lifter |
-| 146 | 160 | DaGuy |
-| 147 | 160 | Sara Meri |
-| 148 | 158 | Tina Mitchell |
-| 149 | 158 | W.A. Simpson |
+| 146 | 160 | Sara Meri |
+| 147 | 160 | DaGuy |
+| 148 | 158 | W.A. Simpson |
+| 149 | 158 | Tina Mitchell |
 | 150 | 156 | Jessica Russell |
 | 151 | 156 | Anthony Washington |
 | 152 | 155 | Jawaun Daniels |
@@ -162,21 +162,21 @@
 | 154 | 147 | MACHETEEDDIE513 |
 | 155 | 146 | BlackQueen105 |
 | 156 | 146 | Marcheta Cervantez |
-| 157 | 140 | Antoinette Jones |
-| 158 | 140 | Ann Chung |
+| 157 | 140 | Ann Chung |
+| 158 | 140 | Antoinette Jones |
 | 159 | 139 | Mafio SO |
 | 160 | 138 | Lashaunda |
 | 161 | 138 | JaClanDiah |
-| 162 | 135 | Dawn L Washington-Feuquay |
+| 162 | 135 | Amber Wilson |
 | 163 | 135 | Sean White |
-| 164 | 135 | Amber Wilson |
+| 164 | 135 | Dawn L Washington-Feuquay |
 | 165 | 134 | Lively Riserpiece |
 | 166 | 133 | Byron Mario Cawthon |
 | 167 | 132 | Jolly Tilefall |
 | 168 | 131 | TBABYJ |
 | 169 | 130 | Rolanda Williams |
-| 170 | 130 | Emily Wright |
-| 171 | 130 | Jessica Davis |
+| 170 | 130 | Jessica Davis |
+| 171 | 130 | Emily Wright |
 | 172 | 130 | Dion Gray |
 | 173 | 127 | IThinkNot |
 | 174 | 126 | Cee Emm |
