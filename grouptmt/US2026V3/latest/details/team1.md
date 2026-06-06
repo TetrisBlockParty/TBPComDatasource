@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 18:10:17 UTC
+# Standings for team1 as of 2026-06-06 18:10:39 UTC
 
 **Total Participants:** 1097
 
@@ -194,24 +194,24 @@
 | 186 | 165 | Queenie Perry |
 | 187 | 163 | Mafio SO |
 | 188 | 163 | Chilly Wipebuilder |
-| 189 | 160 | Zippy Lifter |
-| 190 | 160 | Jamie Willis |
-| 191 | 160 | DaGuy |
-| 192 | 160 | Carolyn Smith |
-| 193 | 160 | Sara Meri |
+| 189 | 160 | Jamie Willis |
+| 190 | 160 | Zippy Lifter |
+| 191 | 160 | Sara Meri |
+| 192 | 160 | DaGuy |
+| 193 | 160 | Carolyn Smith |
 | 194 | 159 | Fina McKinnis |
 | 195 | 158 | Tina Mitchell |
 | 196 | 157 | Kimberly Linares Hernandez |
 | 197 | 156 | Jessica Russell |
 | 198 | 156 | Cheeky Pop |
-| 199 | 153 | Rackemwillie34 |
-| 200 | 152 | Jolly Tilefall |
-| 201 | 149 | Lively Riserpiece |
-| 202 | 147 | MACHETEEDDIE513 |
-| 203 | 147 | Melissa D. M. Hornsby |
-| 204 | 146 | BlackQueen105 |
-| 205 | 146 | Stephen Providenti |
-| 206 | 146 | Jai |
+| 199 | 153 | Jai |
+| 200 | 153 | Rackemwillie34 |
+| 201 | 152 | Jolly Tilefall |
+| 202 | 149 | Lively Riserpiece |
+| 203 | 147 | MACHETEEDDIE513 |
+| 204 | 147 | Melissa D. M. Hornsby |
+| 205 | 146 | BlackQueen105 |
+| 206 | 146 | Stephen Providenti |
 | 207 | 146 | Keke Ferguson |
 | 208 | 145 | Mikayla |
 | 209 | 145 | Latisha Fairley |
@@ -219,8 +219,8 @@
 | 211 | 143 | Sammie Walker |
 | 212 | 143 | BULLSEYE |
 | 213 | 141 | Shalena Marie Humphrey |
-| 214 | 140 | Ann Chung |
-| 215 | 140 | Antoinette Jones |
+| 214 | 140 | Antoinette Jones |
+| 215 | 140 | Ann Chung |
 | 216 | 139 | Byron Mario Cawthon |
 | 217 | 138 | JaClanDiah |
 | 218 | 137 | Ebony Waynes-robinson |
@@ -317,16 +317,16 @@
 | 309 | 90 | crumb bumc |
 | 310 | 90 | Danielle DeLozier Plesec |
 | 311 | 90 | Charlene Baltimore |
-| 312 | 89 | wmedina67 |
-| 313 | 88 | Wacky Stackbuilder |
-| 314 | 88 | Kristie |
-| 315 | 88 | Ad Doctor |
-| 316 | 88 | Slinky Brickmatch |
-| 317 | 88 | TT |
+| 312 | 89 | Choc |
+| 313 | 89 | wmedina67 |
+| 314 | 88 | Wacky Stackbuilder |
+| 315 | 88 | Kristie |
+| 316 | 88 | Ad Doctor |
+| 317 | 88 | Slinky Brickmatch |
 | 318 | 88 | Giggy Tower |
 | 319 | 88 | QueenShay AllGood |
-| 320 | 87 | Poppy Buildout |
-| 321 | 87 | Choc |
+| 320 | 88 | TT |
+| 321 | 87 | Poppy Buildout |
 | 322 | 86 | Chummy Frame |
 | 323 | 86 | krd |
 | 324 | 86 | Yashica Smith |
