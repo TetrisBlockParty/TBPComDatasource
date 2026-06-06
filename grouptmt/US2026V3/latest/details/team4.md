@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 17:42:17 UTC
+# Standings for team4 as of 2026-06-06 17:42:40 UTC
 
 **Total Participants:** 1075
 
@@ -18,8 +18,8 @@
 | 10 | 3896 | TitiLo72 |
 | 11 | 3539 | Bryony Nicholson |
 | 12 | 3315 | Jackie Lucas |
-| 13 | 3150 | Destiny Dyer |
-| 14 | 3150 | delilahbelle |
+| 13 | 3150 | delilahbelle |
+| 14 | 3150 | Destiny Dyer |
 | 15 | 3081 | Irene Arreguin |
 | 16 | 3033 | Tyra Brooke Everman Forest |
 | 17 | 3012 | Tonya Brooks-Johnson |
