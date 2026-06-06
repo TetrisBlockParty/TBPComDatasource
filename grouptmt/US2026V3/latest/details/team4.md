@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 23:35:17 UTC
+# Standings for team4 as of 2026-06-06 23:36:18 UTC
 
 **Total Participants:** 1200
 
@@ -57,11 +57,11 @@
 | 49 | 797 | Beee |
 | 50 | 795 | Erin Figone |
 | 51 | 754 | Victoria Ver |
-| 52 | 738 | Shaina Sharp |
-| 53 | 737 | Bubbly Twistpiece |
+| 52 | 747 | Bubbly Twistpiece |
+| 53 | 738 | Shaina Sharp |
 | 54 | 736 | Gloria Nunley Trussell |
-| 55 | 722 | Keesha Muro |
-| 56 | 722 | Chummy Rollzone |
+| 55 | 722 | Chummy Rollzone |
+| 56 | 722 | Keesha Muro |
 | 57 | 720 | Carly Stempien |
 | 58 | 718 | Phil Peterson |
 | 59 | 711 | MysticMaven |
@@ -694,105 +694,105 @@
 | 686 | 43 | Sweetfire |
 | 687 | 43 | Jeremy Barry |
 | 688 | 43 | Purple Queen |
-| 689 | 42 | Jace McCullough |
-| 690 | 42 | Danielle Porter |
-| 691 | 42 | maria |
-| 692 | 42 | Tammy Wells |
-| 693 | 42 | Stacy Brown |
-| 694 | 42 | Breezy Wife |
-| 695 | 42 | h_chloe10 |
-| 696 | 42 | Cail |
-| 697 | 42 | MrsAddams724 |
+| 689 | 43 | Certified Da Don |
+| 690 | 42 | Jace McCullough |
+| 691 | 42 | Tammy Wells |
+| 692 | 42 | h_chloe10 |
+| 693 | 42 | Cail |
+| 694 | 42 | MrsAddams724 |
+| 695 | 42 | ShaniP |
+| 696 | 42 | Snappy Patternfall |
+| 697 | 42 | Miranda Brown |
 | 698 | 42 | Abby Waterman |
-| 699 | 42 | ShaniP |
-| 700 | 42 | Snappy Patternfall |
-| 701 | 42 | Miranda Brown |
-| 702 | 41 | Cassie N Danica Flaherty |
-| 703 | 41 | Lord Solrac |
-| 704 | 41 | Rebekah Anne Macias |
-| 705 | 40 | Destiny Georgia Reeves Beller |
-| 706 | 40 | Shepreneur Sade |
-| 707 | 40 | Sherri Lynn |
-| 708 | 40 | Lacie Powers |
-| 709 | 40 | Lanelva Tiredofbs Marshall |
-| 710 | 40 | Mexican130 |
+| 699 | 42 | maria |
+| 700 | 42 | Danielle Porter |
+| 701 | 42 | Breezy Wife |
+| 702 | 42 | Stacy Brown |
+| 703 | 41 | Rebekah Anne Macias |
+| 704 | 41 | Cassie N Danica Flaherty |
+| 705 | 41 | Lord Solrac |
+| 706 | 40 | Brooke Bauer |
+| 707 | 40 | BigCup ReeseCup |
+| 708 | 40 | Debby Muniz |
+| 709 | 40 | Destiny Georgia Reeves Beller |
+| 710 | 40 | Jay Dee |
 | 711 | 40 | ButterfliesRFree |
-| 712 | 40 | Jay Dee |
-| 713 | 40 | Brooke Bauer |
-| 714 | 40 | Aim Georgia Bros Scott |
-| 715 | 40 | Jenn Wilson |
-| 716 | 40 | Debby Muniz |
-| 717 | 40 | Bumpy Morris |
-| 718 | 40 | Tipsy Curvetile |
-| 719 | 40 | Wayne Mire |
-| 720 | 40 | Leslie Bamonte |
-| 721 | 40 | CIRAZYPNOY |
-| 722 | 40 | Raising Stars |
-| 723 | 40 | BigCup ReeseCup |
-| 724 | 40 | Kena T. Tanner |
+| 712 | 40 | Lanelva Tiredofbs Marshall |
+| 713 | 40 | Lacie Powers |
+| 714 | 40 | Shepreneur Sade |
+| 715 | 40 | Mexican130 |
+| 716 | 40 | Sherri Lynn |
+| 717 | 40 | Tipsy Curvetile |
+| 718 | 40 | Bumpy Morris |
+| 719 | 40 | Snappy Glidebuilder |
+| 720 | 40 | Wayne Mire |
+| 721 | 40 | Chris Somsen |
+| 722 | 40 | Jenn Wilson |
+| 723 | 40 | Jimmy Clark |
+| 724 | 40 | Funky Tiler |
 | 725 | 40 | Steven Patshy |
-| 726 | 40 | Snappy Glidebuilder |
+| 726 | 40 | Kena T. Tanner |
 | 727 | 40 | Zesty Lift |
-| 728 | 40 | Funky Tiler |
-| 729 | 40 | Jimmy Clark |
-| 730 | 40 | Chris Somsen |
-| 731 | 39 | Allrise99 |
-| 732 | 39 | Chris Davis |
-| 733 | 39 | Stefanie Street |
-| 734 | 39 | Amy White |
-| 735 | 39 | Denisha Schinell Boyd |
+| 728 | 40 | Raising Stars |
+| 729 | 40 | CIRAZYPNOY |
+| 730 | 40 | Aim Georgia Bros Scott |
+| 731 | 40 | Leslie Bamonte |
+| 732 | 39 | Amy White |
+| 733 | 39 | Allrise99 |
+| 734 | 39 | Stefanie Street |
+| 735 | 39 | Chris Davis |
 | 736 | 39 | Snow77white |
-| 737 | 39 | T-Dogger |
+| 737 | 39 | Denisha Schinell Boyd |
 | 738 | 39 | Shelly Jackson |
-| 739 | 38 | Certified Da Don |
-| 740 | 38 | Shannon Foster |
-| 741 | 38 | Charity Thomas |
+| 739 | 39 | T-Dogger |
+| 740 | 38 | Sharon Tyler |
+| 741 | 38 | Shannon Foster |
 | 742 | 38 | Freddy-B |
-| 743 | 38 | FuzzyBunny |
-| 744 | 38 | Tiffany Morris Garner |
-| 745 | 38 | Sharon Tyler |
-| 746 | 38 | JP Chua |
-| 747 | 38 | Khiem Hernandez |
+| 743 | 38 | Charity Thomas |
+| 744 | 38 | FuzzyBunny |
+| 745 | 38 | Tiffany Morris Garner |
+| 746 | 38 | Khiem Hernandez |
+| 747 | 38 | JP Chua |
 | 748 | 38 | Cari Underwood |
 | 749 | 38 | Happy Puzzle |
-| 750 | 37 | Shannon Lee |
-| 751 | 37 | Jessica Armistead |
-| 752 | 37 | Deana Teck |
-| 753 | 37 | theyhatejzt |
+| 750 | 37 | John Henry |
+| 751 | 37 | theyhatejzt |
+| 752 | 37 | Jessica Armistead |
+| 753 | 37 | Deana Teck |
 | 754 | 37 | Jessica Lestage |
-| 755 | 37 | Tanya AfricanQueen Savage |
-| 756 | 37 | Ern |
-| 757 | 37 | Heather Cline |
+| 755 | 37 | Heather Cline |
+| 756 | 37 | Tanya AfricanQueen Savage |
+| 757 | 37 | Ern |
 | 758 | 37 | Kelli Miller |
-| 759 | 37 | Kalisha Monique Wright |
-| 760 | 37 | Lizzzzzz |
-| 761 | 37 | John Henry |
+| 759 | 37 | Lizzzzzz |
+| 760 | 37 | Shannon Lee |
+| 761 | 37 | Kalisha Monique Wright |
 | 762 | 37 | KingCas |
 | 763 | 37 | Kay |
-| 764 | 36 | tigerlilly |
+| 764 | 36 | Lamont |
 | 765 | 36 | Vicente Bolaños Jr. |
 | 766 | 36 | Tod Jae |
 | 767 | 36 | Dapper Tiltpiece |
 | 768 | 36 | Diqthot |
 | 769 | 36 | Misti Rich |
-| 770 | 36 | Marcus Fontenot |
-| 771 | 36 | Zippy Snaplink |
-| 772 | 36 | PL GR |
-| 773 | 36 | Lamont |
-| 774 | 36 | Peppy Linefit |
+| 770 | 36 | Zippy Snaplink |
+| 771 | 36 | Marcus Fontenot |
+| 772 | 36 | tigerlilly |
+| 773 | 36 | Peppy Linefit |
+| 774 | 36 | PL GR |
 | 775 | 36 | Snappy Fill |
 | 776 | 36 | Clever Shuffler |
-| 777 | 36 | Nancy McCalla Abercrombie |
-| 778 | 36 | Dawn Ferrin |
+| 777 | 36 | Dawn Ferrin |
+| 778 | 36 | Nancy McCalla Abercrombie |
 | 779 | 35 | Stephanie Williams |
 | 780 | 35 | Joshua Conwell |
 | 781 | 35 | Jeremy |
-| 782 | 35 | Martha Fisher |
-| 783 | 35 | Nikcole Alexis Bryan |
-| 784 | 35 | Jessica Marie Flores |
+| 782 | 35 | Jessica Marie Flores |
+| 783 | 35 | Martha Fisher |
+| 784 | 35 | Nikcole Alexis Bryan |
 | 785 | 35 | Zappy Tilemaker |
-| 786 | 35 | Robert Moore |
-| 787 | 35 | Alicia Blunt |
+| 786 | 35 | Alicia Blunt |
+| 787 | 35 | Robert Moore |
 | 788 | 35 | Pretty_Rican |
 | 789 | 35 | Saul Fajardo |
 | 790 | 35 | Jillian Marie |
