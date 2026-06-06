@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 20:47:16 UTC
+# Standings for team2 as of 2026-06-06 20:48:17 UTC
 
 **Total Participants:** 1367
 
@@ -103,8 +103,8 @@
 | 95 | 487 | Wmk Rathbun |
 | 96 | 486 | Krisanne Kesner-Lonsby |
 | 97 | 483 | Karen Reid Cenkush |
-| 98 | 480 | Epic Frame |
-| 99 | 480 | Courtney McCulley |
+| 98 | 480 | Courtney McCulley |
+| 99 | 480 | Epic Frame |
 | 100 | 472 | Lily |
 | 101 | 468 | Amy Gale |
 | 102 | 457 | Smiley Dropper |
@@ -129,17 +129,17 @@
 | 121 | 348 | Joni Michelle Morgan |
 | 122 | 347 | Zesty Strikerbuilder |
 | 123 | 342 | Bri St Peter |
-| 124 | 340 | Mom |
+| 124 | 341 | Bubbly Strikerpiece |
 | 125 | 340 | Le Sandy |
-| 126 | 335 | Bubbly Strikerpiece |
+| 126 | 340 | Mom |
 | 127 | 333 | Zarah Kettler |
 | 128 | 332 | Jason Cook |
 | 129 | 328 | Tim Tim |
 | 130 | 325 | Amy Gregg |
 | 131 | 324 | Jgato |
-| 132 | 319 | Michelle Rich Burkhart |
-| 133 | 319 | Shannon Wilson |
-| 134 | 319 | Bon Lynn |
+| 132 | 319 | Bon Lynn |
+| 133 | 319 | Michelle Rich Burkhart |
+| 134 | 319 | Shannon Wilson |
 | 135 | 317 | Ruby Sandberg |
 | 136 | 315 | Milad Arzani |
 | 137 | 313 | Josh Twilley |
@@ -184,40 +184,40 @@
 | 176 | 223 | Ashley Billiot Rhodes |
 | 177 | 220 | Flashy Basegrid |
 | 178 | 220 | Melissa Thomas |
-| 179 | 219 | Dallas Runyan |
-| 180 | 219 | Stella |
+| 179 | 219 | Stella |
+| 180 | 219 | Dallas Runyan |
 | 181 | 218 | Lush Party |
 | 182 | 218 | Amy Nicole McCanne |
-| 183 | 216 | PaiBri |
-| 184 | 213 | Jessica Lynn |
-| 185 | 212 | AndyJo |
-| 186 | 210 | Gloria May Shook |
-| 187 | 209 | Patria Osuoha |
-| 188 | 208 | Lora Via |
-| 189 | 207 | Brenda Jones |
+| 183 | 217 | haune |
+| 184 | 216 | PaiBri |
+| 185 | 213 | Jessica Lynn |
+| 186 | 212 | AndyJo |
+| 187 | 210 | Gloria May Shook |
+| 188 | 209 | Patria Osuoha |
+| 189 | 208 | Lora Via |
 | 190 | 207 | Margie Ann Naffziger |
-| 191 | 206 | Jodi Johnson |
-| 192 | 205 | haune |
+| 191 | 207 | Brenda Jones |
+| 192 | 206 | Jodi Johnson |
 | 193 | 204 | Chill Line |
-| 194 | 201 | Danielle Pack Lewellen |
-| 195 | 200 | Kelly Vedder |
-| 196 | 200 | Eric Wayne Maschman |
-| 197 | 200 | Al Smith Jr |
-| 198 | 200 | Logan Duffey |
+| 194 | 202 | Logan Duffey |
+| 195 | 201 | Danielle Pack Lewellen |
+| 196 | 200 | Kelly Vedder |
+| 197 | 200 | Eric Wayne Maschman |
+| 198 | 200 | Al Smith Jr |
 | 199 | 200 | Physhie |
-| 200 | 200 | Sully |
-| 201 | 200 | Iesha Cupil |
+| 200 | 200 | Iesha Cupil |
+| 201 | 200 | Sully |
 | 202 | 200 | Sarah Grundisch |
 | 203 | 199 | Amber Cogdill |
 | 204 | 195 | Samantha Carman |
-| 205 | 195 | Snappy Blockbuilder |
-| 206 | 195 | Karly Moore |
-| 207 | 195 | Bb |
+| 205 | 195 | Karly Moore |
+| 206 | 195 | Bb |
+| 207 | 195 | Snappy Blockbuilder |
 | 208 | 194 | Mookshake |
 | 209 | 192 | Nathan Walker |
 | 210 | 192 | Greta Warden |
-| 211 | 191 | Kathy Strickland |
-| 212 | 191 | Norma Ortiz |
+| 211 | 191 | Norma Ortiz |
+| 212 | 191 | Kathy Strickland |
 | 213 | 191 | Jessica Christine |
 | 214 | 191 | Jeanna Mendez |
 | 215 | 188 | Larry Cross |
