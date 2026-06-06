@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 21:40:18 UTC
+# Standings for team2 as of 2026-06-06 21:40:39 UTC
 
 **Total Participants:** 1391
 
@@ -651,51 +651,51 @@
 | 643 | 55 | Allison Peterson |
 | 644 | 55 | BB |
 | 645 | 55 | Muffin Popper |
-| 646 | 55 | Kayley |
-| 647 | 55 | Jessica Spivey Cooper |
-| 648 | 54 | Michael Saunders |
-| 649 | 54 | Denita Kaherl |
-| 650 | 54 | Christina Nycol |
-| 651 | 54 | Ssirkus |
-| 652 | 54 | Britt |
-| 653 | 53 | Lazy Staggerpiece |
-| 654 | 53 | wutrwerdz |
-| 655 | 53 | Frisky Linkmatch |
-| 656 | 53 | CK Hancock |
-| 657 | 53 | Wacky Stack |
-| 658 | 53 | Brian Favre |
-| 659 | 53 | Vicke Patterson |
-| 660 | 53 | Trisha Schneider |
-| 661 | 53 | Spicy Basepiece |
-| 662 | 53 | Hog Crankin |
+| 646 | 55 | Jessica Spivey Cooper |
+| 647 | 55 | Kayley |
+| 648 | 54 | Britt |
+| 649 | 54 | Ssirkus |
+| 650 | 54 | Michael Saunders |
+| 651 | 54 | Hog Crankin |
+| 652 | 54 | Denita Kaherl |
+| 653 | 54 | Christina Nycol |
+| 654 | 53 | Trisha Schneider |
+| 655 | 53 | Spicy Basepiece |
+| 656 | 53 | Vicke Patterson |
+| 657 | 53 | Brian Favre |
+| 658 | 53 | CK Hancock |
+| 659 | 53 | wutrwerdz |
+| 660 | 53 | Lazy Staggerpiece |
+| 661 | 53 | Frisky Linkmatch |
+| 662 | 53 | Wacky Stack |
 | 663 | 53 | Witty Riser |
-| 664 | 52 | Chipper Spinzone |
-| 665 | 52 | Diane Byrd |
-| 666 | 52 | Carmina Truoiolo |
-| 667 | 52 | Sherry Ann |
+| 664 | 52 | Amber Marie Lacey |
+| 665 | 52 | Carmina Truoiolo |
+| 666 | 52 | Sherry Ann |
+| 667 | 52 | Rosalie Call Kehlenbeck |
 | 668 | 52 | andee |
-| 669 | 52 | Amber Marie Lacey |
-| 670 | 52 | Rosalie Call Kehlenbeck |
-| 671 | 51 | Samantha Bugg Stitcher |
-| 672 | 51 | Robin Stutler |
-| 673 | 51 | Tashamonique Puckey |
-| 674 | 51 | Chummy Snapbuilder |
-| 675 | 51 | Brian Giddens |
-| 676 | 51 | Mama G |
-| 677 | 51 | R.w. Buck |
-| 678 | 51 | Amber-leigh Williams |
-| 679 | 51 | Jennifer McCloskey Launder |
-| 680 | 51 | Lydia Shonee |
-| 681 | 51 | Billy Pittman |
-| 682 | 50 | Ashley Jones |
-| 683 | 50 | Whitt |
-| 684 | 50 | Teea Makensi Meyer |
-| 685 | 50 | Tabitha Palen |
-| 686 | 50 | Charith Lorelle Watson |
-| 687 | 50 | Jennifer Wymer |
-| 688 | 50 | Susan Moyer |
-| 689 | 50 | Melissa Clogher White |
-| 690 | 50 | Angie Rose |
+| 669 | 52 | Chipper Spinzone |
+| 670 | 52 | Diane Byrd |
+| 671 | 51 | Lydia Shonee |
+| 672 | 51 | Tashamonique Puckey |
+| 673 | 51 | Chummy Snapbuilder |
+| 674 | 51 | Billy Pittman |
+| 675 | 51 | Robin Stutler |
+| 676 | 51 | Brian Giddens |
+| 677 | 51 | Mama G |
+| 678 | 51 | Samantha Bugg Stitcher |
+| 679 | 51 | R.w. Buck |
+| 680 | 51 | Amber-leigh Williams |
+| 681 | 51 | Jennifer McCloskey Launder |
+| 682 | 50 | Angie Rose |
+| 683 | 50 | Melissa Clogher White |
+| 684 | 50 | Charith Lorelle Watson |
+| 685 | 50 | Susan Moyer |
+| 686 | 50 | Tabitha Palen |
+| 687 | 50 | Ashley Jones |
+| 688 | 50 | Whitt |
+| 689 | 50 | Teea Makensi Meyer |
+| 690 | 50 | Jennifer Wymer |
 | 691 | 50 | Gluten Gremlin |
 | 692 | 50 | Stephania Edwards |
 | 693 | 50 | Flashy Hitter |

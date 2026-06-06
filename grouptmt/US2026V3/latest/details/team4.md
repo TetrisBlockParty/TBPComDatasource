@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 21:40:18 UTC
+# Standings for team4 as of 2026-06-06 21:40:39 UTC
 
 **Total Participants:** 1160
 
@@ -81,8 +81,8 @@
 | 73 | 530 | Jonathan Hewitt |
 | 74 | 521 | Kitsune Bi |
 | 75 | 520 | Dandy Clearfit |
-| 76 | 510 | Nick Graber |
-| 77 | 510 | Krysten Danielle Richard |
+| 76 | 510 | Krysten Danielle Richard |
+| 77 | 510 | Nick Graber |
 | 78 | 502 | Dheeh Robles |
 | 79 | 500 | Michele |
 | 80 | 479 | Caitlyn Wang |
@@ -90,8 +90,8 @@
 | 82 | 467 | vag1974 |
 | 83 | 461 | Cranky Towerbuilder |
 | 84 | 461 | Kayla Fuentes |
-| 85 | 440 | Jewelz |
-| 86 | 440 | Bryan DjMagnum Evans |
+| 85 | 440 | Bryan DjMagnum Evans |
+| 86 | 440 | Jewelz |
 | 87 | 400 | Amber Doyle |
 | 88 | 400 | Sassy Column |
 | 89 | 399 | iiPurgeV2 |
@@ -117,8 +117,8 @@
 | 109 | 333 | Alexandria Frazier |
 | 110 | 332 | RotatedWrongAgain |
 | 111 | 324 | Annastaissia Todd |
-| 112 | 317 | J |
-| 113 | 313 | Gorica Prusina |
+| 112 | 318 | Gorica Prusina |
+| 113 | 317 | J |
 | 114 | 303 | Kim |
 | 115 | 300 | 2 kool |
 | 116 | 300 | Genag |
