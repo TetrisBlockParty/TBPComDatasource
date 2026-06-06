@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 14:08:40 UTC
+# Standings for team2 as of 2026-06-06 14:09:16 UTC
 
 **Total Participants:** 1179
 
@@ -11,7 +11,7 @@
 | 3 | 9517 | Puce guide 9156 |
 | 4 | 7767 | Jason Wood |
 | 5 | 7687 | Lacey Nolting |
-| 6 | 6902 | Crystalin Heath Lewis |
+| 6 | 7029 | Crystalin Heath Lewis |
 | 7 | 6114 | Tim Ix |
 | 8 | 6045 | Morgann McDaniel |
 | 9 | 5704 | Cori Keberlein |
@@ -243,22 +243,22 @@
 | 235 | 129 | Amy Taylor Pomerenk |
 | 236 | 129 | Armando Sabedra |
 | 237 | 128 | Teddy Williams |
-| 238 | 126 | Teresa Mandich |
-| 239 | 125 | Ariel Gundersen |
-| 240 | 124 | Jason Burris |
-| 241 | 121 | Sully |
+| 238 | 127 | Sully |
+| 239 | 126 | Teresa Mandich |
+| 240 | 125 | Ariel Gundersen |
+| 241 | 124 | Jason Burris |
 | 242 | 121 | Kimmyc |
 | 243 | 120 | Al Smith Jr |
 | 244 | 120 | Happy |
 | 245 | 120 | Simone F |
 | 246 | 120 | Kevin Mccoy |
 | 247 | 120 | Elizabeth Cornelius |
-| 248 | 119 | Angie Bishop |
-| 249 | 119 | Perii Reynoso |
+| 248 | 119 | Perii Reynoso |
+| 249 | 119 | Angie Bishop |
 | 250 | 118 | Monique Frantz |
 | 251 | 118 | Ashley Miller |
-| 252 | 117 | Margie Ann Naffziger |
-| 253 | 117 | Sassy Twistbuilder |
+| 252 | 118 | Sassy Twistbuilder |
+| 253 | 117 | Margie Ann Naffziger |
 | 254 | 117 | Marge Cromer |
 | 255 | 116 | Gwendolyn Boykin Mobbs |
 | 256 | 114 | Jackie Tupper |
@@ -1159,32 +1159,32 @@
 | 1151 | 6 | Lou Sassole |
 | 1152 | 6 | Cheeky Dashpiece |
 | 1153 | 6 | Michelle Brown |
-| 1154 | 6 | Celeste Samuels |
-| 1155 | 6 | Michele Choate |
-| 1156 | 6 | Bunny Bt |
-| 1157 | 6 | Snappy Fitblock |
-| 1158 | 6 | Amanda Knox |
-| 1159 | 6 | Lavenda Nettles |
-| 1160 | 6 | Cozy Curve |
+| 1154 | 6 | Jessie |
+| 1155 | 6 | Lavenda Nettles |
+| 1156 | 6 | Amanda Knox |
+| 1157 | 6 | Michele Choate |
+| 1158 | 6 | Bunny Bt |
+| 1159 | 6 | Snappy Fitblock |
+| 1160 | 6 | Celeste Samuels |
 | 1161 | 6 | Shelby Wilson |
-| 1162 | 6 | Jager |
-| 1163 | 6 | Jessie |
-| 1164 | 5 | Flynn Flibble |
-| 1165 | 5 | Duck |
-| 1166 | 5 | Alisha Shelton |
-| 1167 | 5 | Nolife |
-| 1168 | 5 | Jon Torres |
-| 1169 | 5 | Crystal Poss |
-| 1170 | 5 | Nicole Plummer |
-| 1171 | 5 | Agnes Gable |
+| 1162 | 6 | Cozy Curve |
+| 1163 | 6 | Jager |
+| 1164 | 5 | Nicole Plummer |
+| 1165 | 5 | Jon Torres |
+| 1166 | 5 | Nolife |
+| 1167 | 5 | Duck |
+| 1168 | 5 | Alisha Shelton |
+| 1169 | 5 | Connie Marie Cornell Lerma |
+| 1170 | 5 | Flynn Flibble |
+| 1171 | 5 | Crystal Poss |
 | 1172 | 5 | Mercedes Lowery |
-| 1173 | 5 | Dapper Clearpiece |
-| 1174 | 5 | Brittany Weatherspoon |
-| 1175 | 5 | Jennifer Mauler Schmidt |
-| 1176 | 5 | Chirpy Towerer |
-| 1177 | 5 | Jennifer Roper Stanley |
-| 1178 | 5 | Danh Nguyen |
-| 1179 | 5 | Connie Marie Cornell Lerma |
+| 1173 | 5 | Danh Nguyen |
+| 1174 | 5 | Jennifer Roper Stanley |
+| 1175 | 5 | Agnes Gable |
+| 1176 | 5 | Dapper Clearpiece |
+| 1177 | 5 | Brittany Weatherspoon |
+| 1178 | 5 | Jennifer Mauler Schmidt |
+| 1179 | 5 | Chirpy Towerer |
 
 ---
 *Standings created by tournaments datasource generation tool*

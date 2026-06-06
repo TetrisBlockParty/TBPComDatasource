@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 14:08:40 UTC
+# Standings for team1 as of 2026-06-06 14:09:16 UTC
 
 **Total Participants:** 1019
 
@@ -138,7 +138,7 @@
 | 130 | 208 | Mic Balew |
 | 131 | 206 | Curtis T Cirno |
 | 132 | 206 | Weeze |
-| 133 | 200 | David Fuentes |
+| 133 | 201 | David Fuentes |
 | 134 | 200 | Felicia Cain |
 | 135 | 199 | Asani CHumba |
 | 136 | 198 | W.A. Simpson |
@@ -486,39 +486,39 @@
 | 478 | 47 | Faith Armone |
 | 479 | 47 | Sugar Foot |
 | 480 | 47 | Derrius SeriousLee Burks |
-| 481 | 47 | Tay |
-| 482 | 47 | Sherri Keys |
-| 483 | 47 | Zany Breaker |
+| 481 | 47 | Zany Breaker |
+| 482 | 47 | Tay |
+| 483 | 47 | Sherri Keys |
 | 484 | 47 | Mami Badd |
-| 485 | 47 | Smiley Tilebuilder |
-| 486 | 47 | Christopher Dreamsareality McEachin |
-| 487 | 46 | Derald Miller |
-| 488 | 46 | Chris Nelson |
-| 489 | 46 | Boldy Matchfit |
-| 490 | 46 | Anthony |
-| 491 | 46 | Ja'mice Nelson |
-| 492 | 46 | Maria Baez Medina |
-| 493 | 46 | David A Alvino |
-| 494 | 46 | Felicia Dungey |
-| 495 | 45 | nameno |
-| 496 | 45 | Missy Myvette |
-| 497 | 45 | Eli Delao |
-| 498 | 45 | Victoria Smith |
-| 499 | 45 | Adrian Harris |
-| 500 | 45 | Y3llOWFAC3 |
-| 501 | 45 | Glitzy Clusterer |
-| 502 | 45 | Renee J. Thomas |
-| 503 | 44 | sasha |
-| 504 | 44 | GiantBehemoth |
-| 505 | 44 | Tamara Johnson-Carter |
-| 506 | 44 | Nic Nic |
-| 507 | 43 | Daring Blockclear |
-| 508 | 43 | Block |
-| 509 | 43 | Kimberly Red |
+| 485 | 47 | messyboots |
+| 486 | 47 | Smiley Tilebuilder |
+| 487 | 47 | Christopher Dreamsareality McEachin |
+| 488 | 46 | Derald Miller |
+| 489 | 46 | Maria Baez Medina |
+| 490 | 46 | Chris Nelson |
+| 491 | 46 | Boldy Matchfit |
+| 492 | 46 | Anthony |
+| 493 | 46 | Ja'mice Nelson |
+| 494 | 46 | David A Alvino |
+| 495 | 46 | Felicia Dungey |
+| 496 | 45 | Adrian Harris |
+| 497 | 45 | Y3llOWFAC3 |
+| 498 | 45 | Eli Delao |
+| 499 | 45 | Victoria Smith |
+| 500 | 45 | Glitzy Clusterer |
+| 501 | 45 | nameno |
+| 502 | 45 | Missy Myvette |
+| 503 | 45 | Renee J. Thomas |
+| 504 | 44 | sasha |
+| 505 | 44 | GiantBehemoth |
+| 506 | 44 | Tamara Johnson-Carter |
+| 507 | 44 | Nic Nic |
+| 508 | 43 | Daring Blockclear |
+| 509 | 43 | Block |
 | 510 | 43 | Trixie |
 | 511 | 43 | Heather Wilson |
-| 512 | 43 | Elizabeth Vega Coreano |
-| 513 | 43 | messyboots |
+| 512 | 43 | Kimberly Red |
+| 513 | 43 | Elizabeth Vega Coreano |
 | 514 | 43 | Rachel Renae Bettis |
 | 515 | 43 | Giggy Brickfit |
 | 516 | 43 | Corbin Henry |
