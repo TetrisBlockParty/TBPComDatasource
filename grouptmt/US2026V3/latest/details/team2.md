@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 07:30:16 UTC
+# Standings for team2 as of 2026-06-06 07:30:37 UTC
 
 **Total Participants:** 1066
 
@@ -134,11 +134,11 @@
 | 126 | 195 | Bb |
 | 127 | 190 | Suki Jacobs |
 | 128 | 187 | Laura Melton |
-| 129 | 184 | Lush Party |
-| 130 | 179 | Nathan Walker |
-| 131 | 177 | Xandrea Jones |
-| 132 | 174 | Nettrainer |
-| 133 | 170 | Logan Duffey |
+| 129 | 185 | Logan Duffey |
+| 130 | 184 | Lush Party |
+| 131 | 179 | Nathan Walker |
+| 132 | 177 | Xandrea Jones |
+| 133 | 174 | Nettrainer |
 | 134 | 168 | Missy Renia |
 | 135 | 167 | Zarah Kettler |
 | 136 | 165 | Karen Reid Cenkush |
@@ -243,8 +243,8 @@
 | 235 | 100 | Leticia Tillman |
 | 236 | 100 | Ber |
 | 237 | 100 | Charity Hauser |
-| 238 | 99 | Melissa Abbott |
-| 239 | 99 | Jennifer Vitro |
+| 238 | 99 | Jennifer Vitro |
+| 239 | 99 | Melissa Abbott |
 | 240 | 99 | Cathy Tippett |
 | 241 | 99 | Gabrielle Rivera |
 | 242 | 97 | Jennifer McClure |
@@ -259,51 +259,51 @@
 | 251 | 92 | Nikki Hatch |
 | 252 | 92 | Raine |
 | 253 | 91 | Jamie Fenyus |
-| 254 | 91 | Rocroc mo |
-| 255 | 91 | Flashy Twistline |
+| 254 | 91 | Flashy Twistline |
+| 255 | 91 | Rocroc mo |
 | 256 | 90 | Carlos J Blas |
 | 257 | 89 | Belle |
 | 258 | 89 | MegaPooh |
-| 259 | 88 | Kevin Patrick |
+| 259 | 89 | Boldy Wobbler |
 | 260 | 88 | Nano. |
-| 261 | 87 | Charlie Wilson |
-| 262 | 87 | Sam Brewster |
-| 263 | 87 | Gloria May Shook |
-| 264 | 86 | Bianca Woodruff |
-| 265 | 85 | Christina Maria |
-| 266 | 85 | Daisy Girl |
-| 267 | 84 | Lisa Underwood Desmond |
-| 268 | 83 | TetrisMama |
-| 269 | 82 | Sandra Pursell |
-| 270 | 82 | Norma Ortiz |
-| 271 | 82 | Wendy McKee |
-| 272 | 82 | Chill Line |
-| 273 | 82 | Hypee |
-| 274 | 82 | Carolyn McNaughton |
-| 275 | 82 | Nutty Curver |
-| 276 | 82 | giamy |
-| 277 | 81 | Lindsey Ross |
-| 278 | 81 | Heather Hi |
-| 279 | 81 | Epic Tilemaker |
-| 280 | 81 | Cassandra Milner |
-| 281 | 81 | Shiny Spinfit |
-| 282 | 81 | Kimmyc |
-| 283 | 81 | YldBoar |
-| 284 | 81 | Angeleye A James |
-| 285 | 80 | Nicole Hogue |
-| 286 | 80 | Zappy Liney |
-| 287 | 80 | Eva Lopez |
-| 288 | 80 | Skye Ehret |
-| 289 | 80 | Al Smith Jr |
-| 290 | 79 | Perii Reynoso |
-| 291 | 79 | Boldy Wobbler |
+| 261 | 88 | Kevin Patrick |
+| 262 | 87 | Gloria May Shook |
+| 263 | 87 | Sam Brewster |
+| 264 | 87 | Charlie Wilson |
+| 265 | 86 | Bianca Woodruff |
+| 266 | 85 | Christina Maria |
+| 267 | 85 | Daisy Girl |
+| 268 | 84 | Lisa Underwood Desmond |
+| 269 | 83 | TetrisMama |
+| 270 | 82 | Sandra Pursell |
+| 271 | 82 | Norma Ortiz |
+| 272 | 82 | Wendy McKee |
+| 273 | 82 | Chill Line |
+| 274 | 82 | Hypee |
+| 275 | 82 | Carolyn McNaughton |
+| 276 | 82 | Nutty Curver |
+| 277 | 82 | giamy |
+| 278 | 81 | Lindsey Ross |
+| 279 | 81 | Heather Hi |
+| 280 | 81 | Epic Tilemaker |
+| 281 | 81 | Cassandra Milner |
+| 282 | 81 | Shiny Spinfit |
+| 283 | 81 | Kimmyc |
+| 284 | 81 | YldBoar |
+| 285 | 81 | Angeleye A James |
+| 286 | 80 | Nicole Hogue |
+| 287 | 80 | Al Smith Jr |
+| 288 | 80 | Zappy Liney |
+| 289 | 80 | Eva Lopez |
+| 290 | 80 | Skye Ehret |
+| 291 | 79 | Perii Reynoso |
 | 292 | 79 | Aeryal Snow |
 | 293 | 78 | Lively Curve |
 | 294 | 78 | Jef Wassom |
 | 295 | 77 | Nikki Hayes |
 | 296 | 77 | Sandra Belk |
-| 297 | 77 | Kenzie |
-| 298 | 77 | Heather Vircik |
+| 297 | 77 | Heather Vircik |
+| 298 | 77 | Kenzie |
 | 299 | 76 | Reign Hustler |
 | 300 | 76 | Tiffany Fitch |
 | 301 | 76 | Jackie Tupper |

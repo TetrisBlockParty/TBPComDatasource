@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 07:30:16 UTC
+# Standings for team4 as of 2026-06-06 07:30:37 UTC
 
 **Total Participants:** 879
 
@@ -270,38 +270,38 @@
 | 262 | 70 | Karen Small |
 | 263 | 70 | Gigglycat |
 | 264 | 70 | ManOfSteel |
-| 265 | 70 | Henry Lanier |
-| 266 | 69 | Khylee DarDar |
-| 267 | 69 | BusterBear56 |
-| 268 | 69 | Wacky Brick |
-| 269 | 69 | Dizzy Slammer |
-| 270 | 69 | Snazzy Corner |
-| 271 | 68 | Erika Seaton |
-| 272 | 68 | Smiley Gridzone |
-| 273 | 68 | Keys Tome |
-| 274 | 67 | Loretta Hendricks |
-| 275 | 67 | Noa Lee |
-| 276 | 67 | Karen Rodriguez |
-| 277 | 67 | Ashley Jenkins |
-| 278 | 67 | Alma López Morales |
-| 279 | 66 | Mann Manson |
-| 280 | 65 | Domo Dpn |
-| 281 | 65 | Cool Risepiece |
-| 282 | 65 | Cranky Twistpiece |
-| 283 | 65 | Corey Jackson |
-| 284 | 65 | Kristen Wallace |
-| 285 | 64 | Queen B |
-| 286 | 64 | sierrabeth |
-| 287 | 63 | Brenda Mueller |
-| 288 | 63 | Lul Babie |
-| 289 | 63 | Ana Ruiz |
-| 290 | 63 | Ajohnna Frazee |
-| 291 | 63 | Blockcrusher |
-| 292 | 62 | Tiggerjake |
-| 293 | 62 | medicjessi |
-| 294 | 62 | Frisky Balance |
-| 295 | 61 | Cindy |
-| 296 | 61 | Hardy Fuller |
+| 265 | 70 | Hardy Fuller |
+| 266 | 70 | Henry Lanier |
+| 267 | 69 | Khylee DarDar |
+| 268 | 69 | BusterBear56 |
+| 269 | 69 | Wacky Brick |
+| 270 | 69 | Dizzy Slammer |
+| 271 | 69 | Snazzy Corner |
+| 272 | 68 | Erika Seaton |
+| 273 | 68 | Smiley Gridzone |
+| 274 | 68 | Keys Tome |
+| 275 | 67 | Loretta Hendricks |
+| 276 | 67 | Noa Lee |
+| 277 | 67 | Karen Rodriguez |
+| 278 | 67 | Ashley Jenkins |
+| 279 | 67 | Alma López Morales |
+| 280 | 66 | Mann Manson |
+| 281 | 65 | Corey Jackson |
+| 282 | 65 | Cool Risepiece |
+| 283 | 65 | Domo Dpn |
+| 284 | 65 | Cranky Twistpiece |
+| 285 | 65 | Kristen Wallace |
+| 286 | 64 | Queen B |
+| 287 | 64 | sierrabeth |
+| 288 | 63 | Brenda Mueller |
+| 289 | 63 | Blockcrusher |
+| 290 | 63 | Ana Ruiz |
+| 291 | 63 | Lul Babie |
+| 292 | 63 | Ajohnna Frazee |
+| 293 | 62 | Tiggerjake |
+| 294 | 62 | medicjessi |
+| 295 | 62 | Frisky Balance |
+| 296 | 61 | Cindy |
 | 297 | 61 | Jackie Miller |
 | 298 | 61 | Tasha Suzanne Prisbrey |
 | 299 | 60 | Sonia Cordero-Martinez |
@@ -608,16 +608,16 @@
 | 600 | 24 | Amanda Serrano Ruffner |
 | 601 | 24 | Socorro Arredondo |
 | 602 | 24 | Tony Clark |
-| 603 | 24 | Snappy Glidebuilder |
-| 604 | 24 | George Palacios |
-| 605 | 24 | Ja'Net Riley |
-| 606 | 24 | Khiem Hernandez |
-| 607 | 23 | Silly Fallzone |
-| 608 | 23 | Casey Thomas |
-| 609 | 22 | MzCeleste Brooks |
-| 610 | 22 | Erich EMac McIntosh |
-| 611 | 22 | Magda Lene |
-| 612 | 22 | EpicWizard |
+| 603 | 24 | EpicWizard |
+| 604 | 24 | Snappy Glidebuilder |
+| 605 | 24 | George Palacios |
+| 606 | 24 | Ja'Net Riley |
+| 607 | 24 | Khiem Hernandez |
+| 608 | 23 | Silly Fallzone |
+| 609 | 23 | Casey Thomas |
+| 610 | 22 | MzCeleste Brooks |
+| 611 | 22 | Erich EMac McIntosh |
+| 612 | 22 | Magda Lene |
 | 613 | 22 | Lisa Pie |
 | 614 | 22 | Erica Pompey |
 | 615 | 22 | Audrianna Skaff |
