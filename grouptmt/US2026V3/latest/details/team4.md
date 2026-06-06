@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 23:18:17 UTC
+# Standings for team4 as of 2026-06-06 23:18:43 UTC
 
 **Total Participants:** 1195
 
@@ -70,7 +70,7 @@
 | 62 | 650 | Chaz Duncan |
 | 63 | 646 | Blayne Kole |
 | 64 | 644 | Kelly Bernard |
-| 65 | 630 | Bubbly Twistpiece |
+| 65 | 633 | Bubbly Twistpiece |
 | 66 | 628 | Adam J Leong |
 | 67 | 622 | Dheeh Robles |
 | 68 | 620 | Fancy Crasher |
@@ -405,39 +405,39 @@
 | 397 | 82 | Amanda Snow |
 | 398 | 81 | Linda Miltenburg |
 | 399 | 81 | Swanky Snapgrid |
-| 400 | 81 | Nicole Colby McCloskey |
-| 401 | 80 | Aaron Turner |
-| 402 | 80 | Lady Dolphin |
-| 403 | 80 | Krista Diaz |
-| 404 | 80 | Tre'nya Smith |
-| 405 | 80 | Karen Small |
-| 406 | 80 | Darren Miguel |
-| 407 | 80 | Danny Frausto |
-| 408 | 80 | Keke Johnson |
-| 409 | 80 | Josh Keith Travierso |
-| 410 | 80 | Shia Marie |
-| 411 | 80 | Will E Ayala |
-| 412 | 80 | Garden Girlie |
-| 413 | 80 | Carla Woodard |
-| 414 | 79 | Joyce Myers |
-| 415 | 79 | GingaNinja |
-| 416 | 79 | Gean DeJesus |
-| 417 | 79 | yourmomz |
-| 418 | 79 | Elena Marí |
-| 419 | 79 | Dru Lui |
-| 420 | 79 | Azahares Alonso |
-| 421 | 79 | Has2brat |
-| 422 | 79 | Audrianna Skaff |
-| 423 | 79 | Lisa Jones |
-| 424 | 79 | Joshua Hunt |
-| 425 | 79 | JoAnn Summerlot Ratliff |
-| 426 | 78 | Mint Marquez |
-| 427 | 78 | Dena Lynn Rogers |
+| 400 | 81 | Alex Armour |
+| 401 | 81 | Nicole Colby McCloskey |
+| 402 | 80 | Aaron Turner |
+| 403 | 80 | Lady Dolphin |
+| 404 | 80 | Krista Diaz |
+| 405 | 80 | Tre'nya Smith |
+| 406 | 80 | Karen Small |
+| 407 | 80 | Darren Miguel |
+| 408 | 80 | Danny Frausto |
+| 409 | 80 | Keke Johnson |
+| 410 | 80 | Josh Keith Travierso |
+| 411 | 80 | Shia Marie |
+| 412 | 80 | Will E Ayala |
+| 413 | 80 | Garden Girlie |
+| 414 | 80 | Carla Woodard |
+| 415 | 79 | Joyce Myers |
+| 416 | 79 | yourmomz |
+| 417 | 79 | Elena Marí |
+| 418 | 79 | Dru Lui |
+| 419 | 79 | Audrianna Skaff |
+| 420 | 79 | Joshua Hunt |
+| 421 | 79 | JoAnn Summerlot Ratliff |
+| 422 | 79 | Lisa Jones |
+| 423 | 79 | Has2brat |
+| 424 | 79 | Azahares Alonso |
+| 425 | 79 | Gean DeJesus |
+| 426 | 79 | GingaNinja |
+| 427 | 78 | Mint Marquez |
 | 428 | 78 | Andrea Dre Lomeli |
-| 429 | 78 | Blockcrusher |
-| 430 | 78 | Denise Wilson |
-| 431 | 77 | Tyson Stroppel |
-| 432 | 77 | Alex Armour |
+| 429 | 78 | Denise Wilson |
+| 430 | 78 | Blockcrusher |
+| 431 | 78 | Dena Lynn Rogers |
+| 432 | 77 | Tyson Stroppel |
 | 433 | 77 | Ajohnna Frazee |
 | 434 | 77 | Bonique Bier |
 | 435 | 76 | Baysoph |

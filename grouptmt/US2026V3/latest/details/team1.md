@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 23:18:17 UTC
+# Standings for team1 as of 2026-06-06 23:18:43 UTC
 
 **Total Participants:** 1208
 
@@ -331,13 +331,13 @@
 | 323 | 101 | Joana Thompson |
 | 324 | 101 | Manda Allen |
 | 325 | 101 | Mommy Frank |
-| 326 | 100 | Mary Phillippi Blanton |
+| 326 | 100 | Natasha Rucker |
 | 327 | 100 | Leavon Smith |
-| 328 | 100 | Kesha Brady |
-| 329 | 100 | Hailey Hil |
-| 330 | 100 | Ad Doctor |
-| 331 | 100 | Natasha Rucker |
-| 332 | 100 | $hort Dog |
+| 328 | 100 | Hailey Hil |
+| 329 | 100 | Ad Doctor |
+| 330 | 100 | Mary Phillippi Blanton |
+| 331 | 100 | $hort Dog |
+| 332 | 100 | Kesha Brady |
 | 333 | 100 | Seddrick |
 | 334 | 100 | Lazy Tiltpiece |
 | 335 | 100 | Dynah Gordon |
@@ -352,50 +352,50 @@
 | 344 | 97 | Laurie Napper |
 | 345 | 97 | Nichole Horsley-Conn |
 | 346 | 97 | Shanell Thomas |
-| 347 | 96 | Yazz |
-| 348 | 96 | Phillip Vasquez |
-| 349 | 95 | Michele Simpson |
-| 350 | 95 | Shiny Lift |
+| 347 | 96 | Phillip Vasquez |
+| 348 | 96 | Yazz |
+| 349 | 95 | Shiny Lift |
+| 350 | 95 | Lynnette WheelerBushnell |
 | 351 | 95 | HarleyJane |
 | 352 | 95 | Stephen Glaze |
-| 353 | 94 | Slinky Brickmatch |
-| 354 | 94 | Cece Fowler |
-| 355 | 93 | izzybella |
-| 356 | 93 | Chirpy Buildgrid |
-| 357 | 92 | Nina Davis |
-| 358 | 92 | Slinky Clearzone |
-| 359 | 92 | Katherine Short |
-| 360 | 92 | The DUBZ |
-| 361 | 92 | C Lo Green |
-| 362 | 91 | star |
-| 363 | 91 | Travis Davison |
-| 364 | 90 | Lilly Brown |
-| 365 | 90 | Jean Regis |
-| 366 | 90 | Kate Hancock Malicek |
-| 367 | 90 | crumb bumc |
-| 368 | 90 | Danielle DeLozier Plesec |
-| 369 | 89 | Analiza Ramos |
-| 370 | 89 | wmedina67 |
-| 371 | 89 | Pretty Yella |
-| 372 | 88 | Tee Spinks |
-| 373 | 88 | Wacky Stackbuilder |
-| 374 | 88 | Kristie |
-| 375 | 88 | QueenShay AllGood |
-| 376 | 87 | Chummy Frame |
-| 377 | 87 | Comedian Prince Paul |
-| 378 | 86 | Tweet Turner |
-| 379 | 86 | Donna Payne |
-| 380 | 86 | Nora Mahmoud |
-| 381 | 86 | Cm |
-| 382 | 86 | krd |
-| 383 | 86 | Yashica Smith |
-| 384 | 86 | Kendra McIntyre |
-| 385 | 85 | Lynnette WheelerBushnell |
+| 353 | 95 | Michele Simpson |
+| 354 | 94 | Slinky Brickmatch |
+| 355 | 94 | Cece Fowler |
+| 356 | 93 | izzybella |
+| 357 | 93 | Chirpy Buildgrid |
+| 358 | 92 | Katherine Short |
+| 359 | 92 | Nina Davis |
+| 360 | 92 | Slinky Clearzone |
+| 361 | 92 | The DUBZ |
+| 362 | 92 | C Lo Green |
+| 363 | 91 | star |
+| 364 | 91 | Travis Davison |
+| 365 | 90 | Danielle DeLozier Plesec |
+| 366 | 90 | crumb bumc |
+| 367 | 90 | Lilly Brown |
+| 368 | 90 | Jean Regis |
+| 369 | 90 | Kate Hancock Malicek |
+| 370 | 89 | Analiza Ramos |
+| 371 | 89 | wmedina67 |
+| 372 | 89 | Pretty Yella |
+| 373 | 88 | QueenShay AllGood |
+| 374 | 88 | Wacky Stackbuilder |
+| 375 | 88 | Tee Spinks |
+| 376 | 88 | Kristie |
+| 377 | 87 | Chummy Frame |
+| 378 | 87 | Comedian Prince Paul |
+| 379 | 86 | Nora Mahmoud |
+| 380 | 86 | Tweet Turner |
+| 381 | 86 | Donna Payne |
+| 382 | 86 | Kendra McIntyre |
+| 383 | 86 | Cm |
+| 384 | 86 | krd |
+| 385 | 86 | Yashica Smith |
 | 386 | 85 | Jae Thompson-Tyus |
-| 387 | 84 | Franklin Sotelo |
-| 388 | 84 | Zany Breaker |
-| 389 | 84 | Shameka Tiffany |
-| 390 | 84 | Sarah Steckbauer |
+| 387 | 84 | Shameka Tiffany |
+| 388 | 84 | Sarah Steckbauer |
+| 389 | 84 | Franklin Sotelo |
+| 390 | 84 | Zany Breaker |
 | 391 | 83 | MrsMeadows2019 |
 | 392 | 83 | Jelyfish |
 | 393 | 83 | Sandra Mims |
