@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 01:58:16 UTC
+# Standings for team1 as of 2026-06-06 01:58:38 UTC
 
 **Total Participants:** 703
 
@@ -50,7 +50,7 @@
 | 42 | 357 | Sarah Marie |
 | 43 | 341 | Eric Mcgaughy |
 | 44 | 332 | Hyper Slamdrop |
-| 45 | 324 | Blockhead |
+| 45 | 327 | Blockhead |
 | 46 | 319 | Shell Lewis |
 | 47 | 279 | COSA303 |
 | 48 | 260 | Carolynne Walker-Bell |
@@ -649,65 +649,65 @@
 | 641 | 8 | Ferocity |
 | 642 | 8 | ShayePooh |
 | 643 | 8 | Rixo Blax |
-| 644 | 8 | Nerdy Twistline |
-| 645 | 8 | Stanley Dixon |
-| 646 | 8 | Caitlin Michele |
-| 647 | 8 | Mahagony Small |
+| 644 | 8 | Stanley Dixon |
+| 645 | 8 | Danielle DeLozier Plesec |
+| 646 | 8 | Nerdy Twistline |
+| 647 | 8 | Kala Miller |
 | 648 | 8 | Cm |
-| 649 | 8 | Danielle DeLozier Plesec |
-| 650 | 8 | Kala Miller |
-| 651 | 8 | Joseph Vs Cap |
+| 649 | 8 | Joseph Vs Cap |
+| 650 | 8 | Mahagony Small |
+| 651 | 8 | Caitlin Michele |
 | 652 | 8 | Ashley Davis |
-| 653 | 7 | Milfchaser530 |
-| 654 | 7 | Barbramerri Tarboro |
-| 655 | 7 | Shane Brucewayne |
-| 656 | 7 | Andrew Harris |
-| 657 | 7 | whatever |
-| 658 | 7 | MrsMeadows2019 |
-| 659 | 7 | Jayson |
-| 660 | 7 | Lakiesha Crawford |
-| 661 | 7 | Analesia Taylor |
-| 662 | 7 | KingSlim82 |
+| 653 | 7 | whatever |
+| 654 | 7 | Shane Brucewayne |
+| 655 | 7 | MrsMeadows2019 |
+| 656 | 7 | Jayson |
+| 657 | 7 | Saucy Linkgrid |
+| 658 | 7 | Lakiesha Crawford |
+| 659 | 7 | Andrew Harris |
+| 660 | 7 | Milfchaser530 |
+| 661 | 7 | Barbramerri Tarboro |
+| 662 | 7 | BonnieB |
 | 663 | 7 | Koz176 |
-| 664 | 7 | BonnieB |
+| 664 | 7 | Analesia Taylor |
 | 665 | 7 | Mary2 |
-| 666 | 6 | Snippy Breaker |
-| 667 | 6 | Jeffrey Barrows |
-| 668 | 6 | Lucy |
-| 669 | 6 | Wacky Towerer |
-| 670 | 6 | Frances Davis |
-| 671 | 6 | NEM0228 |
-| 672 | 6 | Novaa |
-| 673 | 6 | Christopher Wallace |
-| 674 | 6 | akosua |
-| 675 | 6 | Kyshia |
-| 676 | 6 | CK |
-| 677 | 6 | Chilly Wipebuilder |
-| 678 | 6 | Daring Riserfit |
-| 679 | 6 | Wu May |
-| 680 | 5 | Lil T |
-| 681 | 5 | Sara |
-| 682 | 5 | Chill Linkroll |
-| 683 | 5 | Derek Beverly |
-| 684 | 5 | Andre Sanon |
-| 685 | 5 | Shona ShayShay Jones |
-| 686 | 5 | Hasty Brickzone |
-| 687 | 5 | the guy |
-| 688 | 5 | Logan Frost |
-| 689 | 5 | Jennifer Moore |
-| 690 | 5 | Kidgib5 |
-| 691 | 5 | DirtiestofMikes |
-| 692 | 5 | Jasmine Hariston-Estis |
-| 693 | 5 | Giggy Clusterer |
-| 694 | 5 | Duckey |
-| 695 | 5 | VERA DAME |
-| 696 | 5 | Zappy Clearfit |
-| 697 | 5 | Rieshelda Marie White |
-| 698 | 5 | Saucy Linkgrid |
+| 666 | 7 | KingSlim82 |
+| 667 | 6 | Christopher Wallace |
+| 668 | 6 | Wacky Towerer |
+| 669 | 6 | Lucy |
+| 670 | 6 | Snippy Breaker |
+| 671 | 6 | Wu May |
+| 672 | 6 | Frances Davis |
+| 673 | 6 | NEM0228 |
+| 674 | 6 | Daring Riserfit |
+| 675 | 6 | Novaa |
+| 676 | 6 | Jeffrey Barrows |
+| 677 | 6 | Kyshia |
+| 678 | 6 | CK |
+| 679 | 6 | Chilly Wipebuilder |
+| 680 | 6 | akosua |
+| 681 | 5 | Chill Linkroll |
+| 682 | 5 | Andre Sanon |
+| 683 | 5 | Shona ShayShay Jones |
+| 684 | 5 | Lil T |
+| 685 | 5 | Derek Beverly |
+| 686 | 5 | Sara |
+| 687 | 5 | Hasty Brickzone |
+| 688 | 5 | the guy |
+| 689 | 5 | Logan Frost |
+| 690 | 5 | Jennifer Moore |
+| 691 | 5 | Kidgib5 |
+| 692 | 5 | DirtiestofMikes |
+| 693 | 5 | Jasmine Hariston-Estis |
+| 694 | 5 | Giggy Clusterer |
+| 695 | 5 | Duckey |
+| 696 | 5 | Tipsy Builderline |
+| 697 | 5 | Zappy Clearfit |
+| 698 | 5 | Rieshelda Marie White |
 | 699 | 5 | Shawn Himes |
 | 700 | 5 | Tito Divyn |
 | 701 | 5 | Stephanie Zuniga Tullock |
-| 702 | 5 | Tipsy Builderline |
+| 702 | 5 | VERA DAME |
 | 703 | 5 | Temeshia Brooks Washington |
 
 ---
