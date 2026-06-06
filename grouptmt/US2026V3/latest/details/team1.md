@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 20:02:39 UTC
+# Standings for team1 as of 2026-06-06 20:03:18 UTC
 
 **Total Participants:** 1140
 
@@ -71,8 +71,8 @@
 | 63 | 541 | Andi McGreevy |
 | 64 | 540 | IamJust Neyamijah Washington Sr. |
 | 65 | 534 | JaszyBadd |
-| 66 | 527 | KenpachisGirl |
-| 67 | 515 | Kimberly Hernandez |
+| 66 | 527 | Kimberly Hernandez |
+| 67 | 527 | KenpachisGirl |
 | 68 | 511 | Dizzy Dropper |
 | 69 | 511 | Abraham Espaillat |
 | 70 | 506 | Court Court |
@@ -154,15 +154,15 @@
 | 146 | 237 | David Fuentes |
 | 147 | 236 | Nutty Spinblock |
 | 148 | 236 | SyTheEvilGenius1 |
-| 149 | 226 | xXEKUNXx |
-| 150 | 225 | Rhonda Williams Warner |
-| 151 | 222 | Mic Balew |
-| 152 | 220 | Dacia Hicks |
+| 149 | 234 | NastyFriend |
+| 150 | 226 | xXEKUNXx |
+| 151 | 225 | Rhonda Williams Warner |
+| 152 | 222 | Mic Balew |
 | 153 | 220 | Devin West |
-| 154 | 216 | Nerdy Snapfall |
-| 155 | 216 | Zachary Colegrove |
-| 156 | 215 | Eugina Slater |
-| 157 | 214 | NastyFriend |
+| 154 | 220 | Dacia Hicks |
+| 155 | 216 | Nerdy Snapfall |
+| 156 | 216 | Zachary Colegrove |
+| 157 | 215 | Eugina Slater |
 | 158 | 214 | Tonya McElroy |
 | 159 | 212 | Nobles Brandon |
 | 160 | 209 | Reginald Frank |
@@ -177,23 +177,23 @@
 | 169 | 195 | Christian Pham |
 | 170 | 194 | Daris Swearington |
 | 171 | 193 | Brave Clearbuilder |
-| 172 | 191 | Emily Wright |
-| 173 | 191 | Kelli Couture |
+| 172 | 191 | Kelli Couture |
+| 173 | 191 | Emily Wright |
 | 174 | 190 | Davionte DaeDae Hopson-Rodriguez |
 | 175 | 188 | Sharon Cail |
 | 176 | 185 | Rayshawn Cohen |
-| 177 | 184 | Frisky Fall |
-| 178 | 184 | Dai Bo |
+| 177 | 184 | Dai Bo |
+| 178 | 184 | Byron Mario Cawthon |
 | 179 | 184 | Robbie Cheeseman |
-| 180 | 184 | Byron Mario Cawthon |
+| 180 | 184 | Frisky Fall |
 | 181 | 182 | Hyper Blocky |
 | 182 | 180 | Zippy Lifter |
 | 183 | 179 | ♈️ Ariesbaby |
 | 184 | 179 | Amber Wilson |
 | 185 | 178 | Jazzy Fireflighters |
 | 186 | 178 | Shameka Thrasher |
-| 187 | 176 | Anthony Washington |
-| 188 | 176 | Nikki Hogan |
+| 187 | 176 | Nikki Hogan |
+| 188 | 176 | Anthony Washington |
 | 189 | 172 | pooh |
 | 190 | 172 | Marcheta Cervantez |
 | 191 | 171 | Boldy Liner |
@@ -255,16 +255,16 @@
 | 247 | 123 | Simone Bailey |
 | 248 | 123 | Slinky Snapbuilder |
 | 249 | 122 | Miera Nicole |
-| 250 | 121 | Bubbly Piececlear |
+| 250 | 121 | Tiana Monique |
 | 251 | 121 | Matthieu Pistone |
-| 252 | 121 | Tiana Monique |
-| 253 | 120 | Guy Incognito |
-| 254 | 120 | Nerdy Blockpiece |
-| 255 | 120 | Saucy Tile |
-| 256 | 120 | Tipsy Linkroll |
-| 257 | 120 | Spicy Risepiece |
-| 258 | 120 | Valerie Alexander |
-| 259 | 120 | Brittanie Wardlow |
+| 252 | 121 | Bubbly Piececlear |
+| 253 | 120 | Brittanie Wardlow |
+| 254 | 120 | Valerie Alexander |
+| 255 | 120 | Spicy Risepiece |
+| 256 | 120 | Nerdy Blockpiece |
+| 257 | 120 | Tipsy Linkroll |
+| 258 | 120 | Saucy Tile |
+| 259 | 120 | Guy Incognito |
 | 260 | 118 | Hasty Pivoty |
 | 261 | 117 | Giggy Tower |
 | 262 | 116 | Kelvin Cook |
@@ -274,13 +274,13 @@
 | 266 | 114 | Brittany Fells |
 | 267 | 114 | LAhoneybun82 |
 | 268 | 113 | kitten |
-| 269 | 112 | Bre Poston |
-| 270 | 112 | GamerQueenDS |
-| 271 | 111 | Sarah Clark |
-| 272 | 111 | Lesley Brunkus Cianfaglione |
-| 273 | 110 | Chandler Magee |
-| 274 | 110 | Slinky Party |
-| 275 | 110 | Calvin Green |
+| 269 | 113 | Calvin Green |
+| 270 | 112 | Bre Poston |
+| 271 | 112 | GamerQueenDS |
+| 272 | 111 | Sarah Clark |
+| 273 | 111 | Lesley Brunkus Cianfaglione |
+| 274 | 110 | Chandler Magee |
+| 275 | 110 | Slinky Party |
 | 276 | 109 | Bambi Johnson |
 | 277 | 109 | Tamika Fisher |
 | 278 | 109 | Loopy Tiler |
