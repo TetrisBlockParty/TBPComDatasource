@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 08:46:39 UTC
+# Standings for team2 as of 2026-06-06 08:47:16 UTC
 
 **Total Participants:** 1083
 
@@ -236,13 +236,13 @@
 | 228 | 109 | Loopy Tower |
 | 229 | 108 | Meagan Grimmett Washburn |
 | 230 | 108 | Rachel Nilles |
-| 231 | 107 | Carole Brown |
-| 232 | 107 | Charles E Mccardell |
-| 233 | 107 | Michelle M Braley |
-| 234 | 106 | Patria Osuoha |
-| 235 | 106 | Sara Perkins |
-| 236 | 104 | Theresa Hollinger |
-| 237 | 103 | Ratchet |
+| 231 | 107 | Ratchet |
+| 232 | 107 | Carole Brown |
+| 233 | 107 | Charles E Mccardell |
+| 234 | 107 | Michelle M Braley |
+| 235 | 106 | Patria Osuoha |
+| 236 | 106 | Sara Perkins |
+| 237 | 104 | Theresa Hollinger |
 | 238 | 103 | Tango Sierra |
 | 239 | 102 | Alissa Ary |
 | 240 | 102 | Jat |

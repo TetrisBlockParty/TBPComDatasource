@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 08:46:39 UTC
+# Standings for team4 as of 2026-06-06 08:47:16 UTC
 
 **Total Participants:** 897
 
@@ -810,99 +810,99 @@
 | 802 | 10 | San |
 | 803 | 10 | Kelley Roach |
 | 804 | 10 | Breezy Striker |
-| 805 | 10 | DanceAngel |
-| 806 | 10 | Monika Webb |
-| 807 | 10 | Loony Edge |
-| 808 | 10 | MrsReap |
-| 809 | 10 | Lisa Jones |
-| 810 | 10 | Buchanon Bossingup Jadrienne |
-| 811 | 10 | Sherri Lorent |
-| 812 | 10 | Toon Up |
+| 805 | 10 | Monika Webb |
+| 806 | 10 | MrsReap |
+| 807 | 10 | Lisa Jones |
+| 808 | 10 | Buchanon Bossingup Jadrienne |
+| 809 | 10 | Toon Up |
+| 810 | 10 | Sherri Lorent |
+| 811 | 10 | DanceAngel |
+| 812 | 10 | Loony Edge |
 | 813 | 10 | Daring Towerer |
-| 814 | 10 | Melissa Elizabeth |
+| 814 | 10 | JP Chua |
 | 815 | 10 | ToneDeaf |
-| 816 | 10 | JP Chua |
-| 817 | 10 | Charissa W Walton |
-| 818 | 10 | Monique Anne Edwards |
-| 819 | 10 | FitMeDiva |
-| 820 | 10 | Brianne Stull |
+| 816 | 10 | Charissa W Walton |
+| 817 | 10 | Monique Anne Edwards |
+| 818 | 10 | Melissa Elizabeth |
+| 819 | 10 | Brianne Stull |
+| 820 | 10 | FitMeDiva |
 | 821 | 10 | T-Dogger |
-| 822 | 9 | Stephanie Brock |
+| 822 | 9 | Cflixer |
 | 823 | 9 | Suzi Smas |
-| 824 | 9 | beauxie |
-| 825 | 9 | fmp |
-| 826 | 9 | Darryl Shufford |
-| 827 | 9 | Todd Hamilton |
-| 828 | 9 | Frothy Riseclear |
-| 829 | 9 | Cflixer |
+| 824 | 9 | fmp |
+| 825 | 9 | beauxie |
+| 826 | 9 | Todd Hamilton |
+| 827 | 9 | Stephanie Brock |
+| 828 | 9 | Darryl Shufford |
+| 829 | 9 | Frothy Riseclear |
 | 830 | 9 | apryliss Star |
-| 831 | 9 | juler |
+| 831 | 9 | nanaz86 |
 | 832 | 9 | DuvaDova Ahava |
 | 833 | 9 | Lanelva Tiredofbs Marshall |
-| 834 | 9 | nanaz86 |
+| 834 | 9 | juler |
 | 835 | 9 | Danielle Porter |
 | 836 | 9 | Hotstuff |
-| 837 | 8 | Shania Richmond |
+| 837 | 8 | Stephanie Williams |
 | 838 | 8 | Bryieson Watson |
-| 839 | 8 | Stephanie Williams |
-| 840 | 8 | Gabby Markham |
-| 841 | 8 | BigCup ReeseCup |
-| 842 | 8 | Frby Amberr |
-| 843 | 8 | GETBOXED! |
-| 844 | 8 | LaTesha D Williams |
-| 845 | 8 | Christy Petty |
-| 846 | 8 | Mac James |
-| 847 | 8 | maria |
-| 848 | 8 | Phoebe Tracy |
-| 849 | 8 | Sydney Taylor Sileno |
-| 850 | 8 | La Ah Ox |
-| 851 | 8 | Donovan Parmenter Gagne |
-| 852 | 8 | Happy shelli |
-| 853 | 8 | tj |
+| 839 | 8 | Shania Richmond |
+| 840 | 8 | Wali Muhammad |
+| 841 | 8 | Gabby Markham |
+| 842 | 8 | BigCup ReeseCup |
+| 843 | 8 | Frby Amberr |
+| 844 | 8 | Phoebe Tracy |
+| 845 | 8 | LaTesha D Williams |
+| 846 | 8 | Christy Petty |
+| 847 | 8 | GETBOXED! |
+| 848 | 8 | Mac James |
+| 849 | 8 | maria |
+| 850 | 8 | Sydney Taylor Sileno |
+| 851 | 8 | tj |
+| 852 | 8 | La Ah Ox |
+| 853 | 8 | Happy shelli |
 | 854 | 8 | Kaps |
-| 855 | 7 | Phredda Helene Gavornik |
-| 856 | 7 | Brandy Dark |
-| 857 | 7 | Crystal Parker Bryant |
-| 858 | 7 | John Brandon Kinney |
-| 859 | 7 | Erica Armstrong Baz |
-| 860 | 7 | Erica Hardwick |
-| 861 | 7 | Malinda Fife |
-| 862 | 7 | Chipper Hitter |
-| 863 | 7 | Sharron Mullins |
-| 864 | 7 | Estmercy |
-| 865 | 7 | Leslee Bentley DeLong |
-| 866 | 7 | Sheries |
-| 867 | 7 | Meela Abdurrab |
-| 868 | 7 | Wali Muhammad |
-| 869 | 6 | Hasty Slamdrop |
+| 855 | 8 | Donovan Parmenter Gagne |
+| 856 | 7 | Erica Armstrong Baz |
+| 857 | 7 | Brandy Dark |
+| 858 | 7 | Crystal Parker Bryant |
+| 859 | 7 | Phredda Helene Gavornik |
+| 860 | 7 | Meela Abdurrab |
+| 861 | 7 | John Brandon Kinney |
+| 862 | 7 | Malinda Fife |
+| 863 | 7 | Erica Hardwick |
+| 864 | 7 | Sharron Mullins |
+| 865 | 7 | Chipper Hitter |
+| 866 | 7 | Estmercy |
+| 867 | 7 | Sheries |
+| 868 | 7 | Leslee Bentley DeLong |
+| 869 | 6 | Margarita Santana |
 | 870 | 6 | Tricki Woo |
-| 871 | 6 | Shannon Rivera |
-| 872 | 6 | Willedtra Griffin |
-| 873 | 6 | mrsduke420 |
+| 871 | 6 | Hasty Slamdrop |
+| 872 | 6 | Shannon Rivera |
+| 873 | 6 | Willedtra Griffin |
 | 874 | 6 | MamaC |
-| 875 | 6 | Funky Zonebuilder |
-| 876 | 6 | Rachel |
-| 877 | 6 | Margarita Santana |
-| 878 | 6 | Renita Jordan |
-| 879 | 6 | Aliyah Abdella |
+| 875 | 6 | Rachel |
+| 876 | 6 | Renita Jordan |
+| 877 | 6 | mrsduke420 |
+| 878 | 6 | Aliyah Abdella |
+| 879 | 6 | Delashawne Hodgson |
 | 880 | 6 | Goodie |
 | 881 | 6 | LaToya LeBlanc |
-| 882 | 6 | Delashawne Hodgson |
-| 883 | 6 | Jeremy |
+| 882 | 6 | Jeremy |
+| 883 | 6 | Funky Zonebuilder |
 | 884 | 5 | Lively Cascadeclear |
-| 885 | 5 | Elena Marí |
-| 886 | 5 | Tippet |
-| 887 | 5 | Swanky Zigzag |
-| 888 | 5 | Haylee Talkington |
-| 889 | 5 | Sean Ha |
-| 890 | 5 | Cheery Twister |
-| 891 | 5 | Freddy-B |
-| 892 | 5 | mikey moo |
-| 893 | 5 | Dae Von |
-| 894 | 5 | Perky Balanceblock |
-| 895 | 5 | Melissa Wilson |
-| 896 | 5 | Clever Fallzone |
-| 897 | 5 | Ali Nicole |
+| 885 | 5 | Swanky Zigzag |
+| 886 | 5 | Haylee Talkington |
+| 887 | 5 | Tippet |
+| 888 | 5 | Elena Marí |
+| 889 | 5 | Freddy-B |
+| 890 | 5 | Dae Von |
+| 891 | 5 | Melissa Wilson |
+| 892 | 5 | Cheery Twister |
+| 893 | 5 | Ali Nicole |
+| 894 | 5 | Clever Fallzone |
+| 895 | 5 | Perky Balanceblock |
+| 896 | 5 | mikey moo |
+| 897 | 5 | Sean Ha |
 
 ---
 *Standings created by tournaments datasource generation tool*
