@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 10:03:16 UTC
+# Standings for team4 as of 2026-06-06 10:04:16 UTC
 
 **Total Participants:** 923
 
@@ -277,121 +277,121 @@
 | 269 | 73 | Troy Zanelli |
 | 270 | 73 | Jenn Fitzgerald |
 | 271 | 71 | King |
-| 272 | 71 | Jason Garnatz |
-| 273 | 71 | Snazzy Fitclear |
+| 272 | 71 | Snazzy Fitclear |
+| 273 | 71 | Jason Garnatz |
 | 274 | 71 | Taquilla Branch |
 | 275 | 70 | Gigglycat |
 | 276 | 70 | ManOfSteel |
-| 277 | 70 | Karen Small |
-| 278 | 70 | Henry Lanier |
-| 279 | 69 | Khylee DarDar |
-| 280 | 69 | Wacky Brick |
-| 281 | 69 | Dizzy Slammer |
-| 282 | 68 | Keys Tome |
-| 283 | 68 | Azahares Alonso |
-| 284 | 68 | Erika Seaton |
-| 285 | 68 | Smiley Gridzone |
-| 286 | 67 | Noa Lee |
-| 287 | 67 | Karen Rodriguez |
-| 288 | 67 | Alma López Morales |
+| 277 | 70 | Henry Lanier |
+| 278 | 70 | Karen Small |
+| 279 | 69 | Dizzy Slammer |
+| 280 | 69 | Khylee DarDar |
+| 281 | 69 | Wacky Brick |
+| 282 | 68 | Erika Seaton |
+| 283 | 68 | Keys Tome |
+| 284 | 68 | Smiley Gridzone |
+| 285 | 68 | Azahares Alonso |
+| 286 | 67 | Karen Rodriguez |
+| 287 | 67 | Alma López Morales |
+| 288 | 67 | Noa Lee |
 | 289 | 67 | Loretta Hendricks |
 | 290 | 66 | Mann Manson |
-| 291 | 65 | Kristen Wallace |
-| 292 | 65 | Lul Babie |
+| 291 | 65 | Cool Risepiece |
+| 292 | 65 | MelodiousDeez |
 | 293 | 65 | Joshua Garner |
-| 294 | 65 | Cool Risepiece |
-| 295 | 65 | Domo Dpn |
-| 296 | 65 | SupaFly |
-| 297 | 65 | MelodiousDeez |
+| 294 | 65 | Domo Dpn |
+| 295 | 65 | Kristen Wallace |
+| 296 | 65 | Lul Babie |
+| 297 | 65 | SupaFly |
 | 298 | 65 | Cranky Twistpiece |
-| 299 | 64 | Queen B |
+| 299 | 64 | sierrabeth |
 | 300 | 64 | Melika Zeheb |
-| 301 | 64 | sierrabeth |
-| 302 | 63 | Brenda Gustamantes |
-| 303 | 63 | Ana Ruiz |
-| 304 | 63 | Brenda Mueller |
+| 301 | 64 | Queen B |
+| 302 | 63 | Ana Ruiz |
+| 303 | 63 | Brenda Mueller |
+| 304 | 63 | Brenda Gustamantes |
 | 305 | 63 | Blockcrusher |
 | 306 | 63 | Ajohnna Frazee |
 | 307 | 62 | Tiggerjake |
-| 308 | 62 | medicjessi |
-| 309 | 62 | Nicole |
-| 310 | 62 | Jen Smith |
-| 311 | 62 | Frisky Balance |
+| 308 | 62 | Nicole |
+| 309 | 62 | Jen Smith |
+| 310 | 62 | Frisky Balance |
+| 311 | 62 | medicjessi |
 | 312 | 61 | Tasha Suzanne Prisbrey |
-| 313 | 61 | Cindy |
-| 314 | 61 | Jackie Miller |
-| 315 | 60 | Helen Bradley |
-| 316 | 60 | Kristine Hj Han |
-| 317 | 60 | Randy M Hatch |
-| 318 | 60 | Chris Rowe |
-| 319 | 60 | Tiffy |
-| 320 | 60 | Anthony Lewis |
-| 321 | 60 | Ricardo Arias |
-| 322 | 60 | Sonia Cordero-Martinez |
-| 323 | 60 | Amandacolle |
-| 324 | 60 | Frothy Pattern |
-| 325 | 60 | George Marshburn |
-| 326 | 60 | aga |
-| 327 | 60 | Anthony Magaraci |
-| 328 | 60 | Jumpy Builderpiece |
-| 329 | 60 | Fran Aaron-Ring |
-| 330 | 59 | Kat Foreman |
+| 313 | 61 | Jackie Miller |
+| 314 | 61 | Cindy |
+| 315 | 61 | Deborah Ayliffe |
+| 316 | 60 | George Marshburn |
+| 317 | 60 | Helen Bradley |
+| 318 | 60 | Randy M Hatch |
+| 319 | 60 | Kristine Hj Han |
+| 320 | 60 | Chris Rowe |
+| 321 | 60 | Anthony Lewis |
+| 322 | 60 | Tiffy |
+| 323 | 60 | Jumpy Builderpiece |
+| 324 | 60 | Ricardo Arias |
+| 325 | 60 | Frothy Pattern |
+| 326 | 60 | Anthony Magaraci |
+| 327 | 60 | aga |
+| 328 | 60 | Sonia Cordero-Martinez |
+| 329 | 60 | Amandacolle |
+| 330 | 60 | Fran Aaron-Ring |
 | 331 | 59 | Yvette Johnson |
-| 332 | 59 | Nicole Colby McCloskey |
-| 333 | 59 | Kay |
-| 334 | 59 | Paula Renee McCracken |
-| 335 | 59 | Inez Nez |
+| 332 | 59 | Kat Foreman |
+| 333 | 59 | Nicole Colby McCloskey |
+| 334 | 59 | Kay |
+| 335 | 59 | Paula Renee McCracken |
 | 336 | 59 | Butterpat |
-| 337 | 58 | Winter Moon |
-| 338 | 58 | Lana Tran |
-| 339 | 58 | Mint Marquez |
+| 337 | 59 | Inez Nez |
+| 338 | 58 | Winter Moon |
+| 339 | 58 | Lana Tran |
 | 340 | 58 | Jade Alley |
-| 341 | 57 | Shia Marie |
-| 342 | 57 | Joshua Hunt |
-| 343 | 57 | Deborah Ayliffe |
-| 344 | 57 | PapaB |
-| 345 | 57 | da1ndonly |
+| 341 | 58 | Mint Marquez |
+| 342 | 57 | da1ndonly |
+| 343 | 57 | PapaB |
+| 344 | 57 | Joshua Hunt |
+| 345 | 57 | Shia Marie |
 | 346 | 56 | Karen Davis |
 | 347 | 56 | Bre Dee |
 | 348 | 56 | Jrr |
-| 349 | 55 | Dae Von |
-| 350 | 55 | Daring Brickbuilder |
+| 349 | 55 | Daring Brickbuilder |
+| 350 | 55 | Dae Von |
 | 351 | 55 | Cinta Marie |
 | 352 | 55 | The Jazziest |
-| 353 | 54 | Earl Edwards |
-| 354 | 54 | Chummy Rollzone |
-| 355 | 54 | Playa |
-| 356 | 54 | Dawn Phelps |
-| 357 | 54 | Alex Armour |
-| 358 | 54 | Zappy Matchgrid |
+| 353 | 54 | Alex Armour |
+| 354 | 54 | Playa |
+| 355 | 54 | Dawn Phelps |
+| 356 | 54 | Zappy Matchgrid |
+| 357 | 54 | Chummy Rollzone |
+| 358 | 54 | Earl Edwards |
 | 359 | 53 | LaTanya GeminiondaRise Johnson |
 | 360 | 52 | Snappy Stack |
 | 361 | 52 | shawna |
 | 362 | 52 | Jj Johnson |
 | 363 | 52 | Angela Adamo-Tash |
-| 364 | 51 | JustLessie |
-| 365 | 51 | Clever Patterner |
-| 366 | 51 | Amanda Snow |
-| 367 | 51 | Erika Rubio |
+| 364 | 51 | Swanky Builderline |
+| 365 | 51 | YenSid |
+| 366 | 51 | Clever Patterner |
+| 367 | 51 | JustLessie |
 | 368 | 51 | yourmomz |
-| 369 | 51 | YenSid |
-| 370 | 51 | Swanky Builderline |
+| 369 | 51 | Michellee Lewis |
+| 370 | 51 | Erika Rubio |
 | 371 | 51 | Bridget Stevens |
-| 372 | 51 | Michellee Lewis |
+| 372 | 51 | Amanda Snow |
 | 373 | 51 | Vergie Michael |
 | 374 | 51 | Erich EMac McIntosh |
 | 375 | 50 | Susan Stofberg Beltran |
-| 376 | 50 | Lora Schallert |
-| 377 | 50 | Cheeky Climber |
-| 378 | 50 | Bhakti Sawarkar |
-| 379 | 50 | Brittany |
-| 380 | 50 | Snappy Fitzone |
-| 381 | 50 | Edward White |
-| 382 | 50 | Ralph Hell Rell Williams |
-| 383 | 50 | Sassy Column |
-| 384 | 50 | Jacqueline Wright |
-| 385 | 50 | Andrick |
-| 386 | 50 | Nova Kain |
+| 376 | 50 | Snappy Fitzone |
+| 377 | 50 | Nova Kain |
+| 378 | 50 | Andrick |
+| 379 | 50 | Sassy Column |
+| 380 | 50 | Lora Schallert |
+| 381 | 50 | Bhakti Sawarkar |
+| 382 | 50 | Brittany |
+| 383 | 50 | Cheeky Climber |
+| 384 | 50 | Edward White |
+| 385 | 50 | Ralph Hell Rell Williams |
+| 386 | 50 | Jacqueline Wright |
 | 387 | 50 | Nerdy Brickster |
 | 388 | 50 | Katie Lynn Petit |
 | 389 | 50 | Anna Ryan |
@@ -679,14 +679,14 @@
 | 671 | 21 | GETBOXED! |
 | 672 | 21 | Swanky Matchfit |
 | 673 | 21 | LilithMoon |
-| 674 | 21 | SandyEva |
-| 675 | 21 | my my |
-| 676 | 21 | Brandi Sauer |
-| 677 | 20 | Heidi Lyn Ramirez |
-| 678 | 20 | Becky Doll-Hall |
-| 679 | 20 | BethB |
-| 680 | 20 | Tipsy Patternfit |
-| 681 | 20 | Silly Risegrid |
+| 674 | 21 | Thomas Cassell |
+| 675 | 21 | SandyEva |
+| 676 | 21 | my my |
+| 677 | 21 | Brandi Sauer |
+| 678 | 20 | Heidi Lyn Ramirez |
+| 679 | 20 | Becky Doll-Hall |
+| 680 | 20 | Silly Risegrid |
+| 681 | 20 | Tipsy Patternfit |
 | 682 | 20 | Kimberly Devon |
 | 683 | 20 | Stacy G |
 | 684 | 20 | Sha Ta Nay Mitchell |
@@ -701,16 +701,16 @@
 | 693 | 20 | Justin Janachovsky |
 | 694 | 20 | Margie Thomas |
 | 695 | 20 | Jessica Sanchez |
-| 696 | 20 | Memphiago Tenninois |
-| 697 | 20 | Alice Eisnor-Martens |
-| 698 | 20 | Elizabeth Putansu |
-| 699 | 20 | Kellz M Bee |
-| 700 | 20 | Jerett Coplin |
-| 701 | 20 | Spidaman86 |
-| 702 | 20 | Joha Mldo Castillo |
-| 703 | 20 | Kristen Nicole Depp-Stewart |
-| 704 | 20 | REPENT |
-| 705 | 20 | Thomas Cassell |
+| 696 | 20 | BethB |
+| 697 | 20 | Memphiago Tenninois |
+| 698 | 20 | Alice Eisnor-Martens |
+| 699 | 20 | Elizabeth Putansu |
+| 700 | 20 | Kellz M Bee |
+| 701 | 20 | Jerett Coplin |
+| 702 | 20 | Spidaman86 |
+| 703 | 20 | Joha Mldo Castillo |
+| 704 | 20 | Kristen Nicole Depp-Stewart |
+| 705 | 20 | REPENT |
 | 706 | 20 | Misti Rich |
 | 707 | 20 | Deanne Silverdahl |
 | 708 | 20 | Robert Crow |
@@ -719,11 +719,11 @@
 | 711 | 19 | Marisela Alvarado |
 | 712 | 19 | Chabetta |
 | 713 | 19 | Maicy Darrah |
-| 714 | 19 | LandO |
-| 715 | 19 | Cheeky Fallzone |
-| 716 | 19 | Kariana Gonzalez Ortiz |
-| 717 | 19 | Tammy Lasseigne |
-| 718 | 19 | Gigi5 |
+| 714 | 19 | Cheeky Fallzone |
+| 715 | 19 | Kariana Gonzalez Ortiz |
+| 716 | 19 | Tammy Lasseigne |
+| 717 | 19 | Gigi5 |
+| 718 | 19 | LandO |
 | 719 | 19 | Breezy Blockzone |
 | 720 | 19 | Dru Lui |
 | 721 | 19 | Bean |

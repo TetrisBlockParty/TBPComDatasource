@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 10:03:16 UTC
+# Standings for team1 as of 2026-06-06 10:04:16 UTC
 
 **Total Participants:** 949
 
@@ -91,20 +91,20 @@
 | 83 | 314 | Carolynne Walker-Bell |
 | 84 | 302 | John Staub |
 | 85 | 292 | Robyn Caldwell |
-| 86 | 284 | Todd C. Clemens |
-| 87 | 279 | COSA303 |
-| 88 | 278 | Shontanese Adams |
-| 89 | 270 | Chenell Gillard |
-| 90 | 268 | Dee McCool |
-| 91 | 264 | Tammye Turner |
-| 92 | 259 | Chirpy Corner |
-| 93 | 258 | Linzie Marie |
+| 86 | 288 | Linzie Marie |
+| 87 | 284 | Todd C. Clemens |
+| 88 | 279 | COSA303 |
+| 89 | 278 | Shontanese Adams |
+| 90 | 270 | Chenell Gillard |
+| 91 | 268 | Dee McCool |
+| 92 | 264 | Tammye Turner |
+| 93 | 259 | Chirpy Corner |
 | 94 | 257 | Michelle Titus |
 | 95 | 257 | Mimi 1.0 |
 | 96 | 256 | Cortaz Lawrie |
 | 97 | 251 | Helen Smith |
-| 98 | 249 | Ashley MyBeauty Daniels |
-| 99 | 249 | Tamara N Lee |
+| 98 | 249 | Tamara N Lee |
+| 99 | 249 | Ashley MyBeauty Daniels |
 | 100 | 244 | Jaida De'Anne Cox |
 | 101 | 240 | Rayya Kiser |
 | 102 | 237 | Leebo Slice |
@@ -113,20 +113,20 @@
 | 105 | 224 | Alana Renee |
 | 106 | 221 | Allison Baxter |
 | 107 | 219 | Jamal Itzjusmall Chambers |
-| 108 | 216 | Andi McGreevy |
-| 109 | 216 | Nerdy Snapfall |
-| 110 | 215 | Songne Arif |
-| 111 | 215 | Abraham Espaillat |
-| 112 | 214 | Tonya McElroy |
-| 113 | 214 | Po Marley |
+| 108 | 216 | Nerdy Snapfall |
+| 109 | 216 | Andi McGreevy |
+| 110 | 215 | Abraham Espaillat |
+| 111 | 215 | Songne Arif |
+| 112 | 214 | Po Marley |
+| 113 | 214 | Tonya McElroy |
 | 114 | 213 | Jason Mungin |
-| 115 | 209 | Gotcha |
-| 116 | 209 | Zachary Colegrove |
+| 115 | 209 | Zachary Colegrove |
+| 116 | 209 | Gotcha |
 | 117 | 206 | Curtis T Cirno |
 | 118 | 205 | Mic Balew |
 | 119 | 204 | MamaBear |
-| 120 | 200 | Dacia Hicks |
-| 121 | 200 | Felicia Cain |
+| 120 | 200 | Felicia Cain |
+| 121 | 200 | Dacia Hicks |
 | 122 | 199 | Asani CHumba |
 | 123 | 197 | BYM4L |
 | 124 | 195 | Weeze |
@@ -137,8 +137,8 @@
 | 129 | 186 | Denise B |
 | 130 | 185 | Teddy Davis |
 | 131 | 184 | Dai Bo |
-| 132 | 182 | Hyper Blocky |
-| 133 | 182 | Chantelle Lee |
+| 132 | 182 | Chantelle Lee |
+| 133 | 182 | Hyper Blocky |
 | 134 | 181 | Joey Albright |
 | 135 | 177 | Chris Sladoje |
 | 136 | 176 | Andre Sanon |
@@ -149,21 +149,21 @@
 | 141 | 160 | DaGuy |
 | 142 | 160 | Zippy Lifter |
 | 143 | 160 | Sara Meri |
-| 144 | 158 | W.A. Simpson |
-| 145 | 158 | Tina Mitchell |
+| 144 | 158 | Tina Mitchell |
+| 145 | 158 | W.A. Simpson |
 | 146 | 156 | Jessica Russell |
 | 147 | 156 | Anthony Washington |
 | 148 | 155 | Jawaun Daniels |
 | 149 | 152 | Eugina Slater |
-| 150 | 147 | David Fuentes |
-| 151 | 147 | MACHETEEDDIE513 |
+| 150 | 147 | MACHETEEDDIE513 |
+| 151 | 147 | David Fuentes |
 | 152 | 146 | BlackQueen105 |
 | 153 | 146 | Marcheta Cervantez |
 | 154 | 140 | Antoinette Jones |
 | 155 | 140 | Ann Chung |
 | 156 | 139 | Mafio SO |
-| 157 | 138 | JaClanDiah |
-| 158 | 138 | Lashaunda |
+| 157 | 138 | Lashaunda |
+| 158 | 138 | JaClanDiah |
 | 159 | 135 | Sean White |
 | 160 | 135 | Dawn L Washington-Feuquay |
 | 161 | 135 | Amber Wilson |
