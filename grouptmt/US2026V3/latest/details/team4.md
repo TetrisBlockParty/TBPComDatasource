@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 23:14:17 UTC
+# Standings for team4 as of 2026-06-06 23:14:42 UTC
 
 **Total Participants:** 1194
 
@@ -71,9 +71,9 @@
 | 63 | 646 | Blayne Kole |
 | 64 | 644 | Kelly Bernard |
 | 65 | 628 | Adam J Leong |
-| 66 | 621 | Bubbly Twistpiece |
-| 67 | 620 | Fancy Crasher |
-| 68 | 610 | Dheeh Robles |
+| 66 | 624 | Bubbly Twistpiece |
+| 67 | 622 | Dheeh Robles |
+| 68 | 620 | Fancy Crasher |
 | 69 | 607 | Jeremy Lopez |
 | 70 | 604 | woopa 716 |
 | 71 | 597 | Hairy Snake |
@@ -92,13 +92,13 @@
 | 84 | 479 | Caitlyn Wang |
 | 85 | 477 | Malik Thompson |
 | 86 | 467 | vag1974 |
-| 87 | 461 | Cranky Towerbuilder |
-| 88 | 461 | Kayla Fuentes |
-| 89 | 440 | Jewelz |
-| 90 | 440 | Bryan DjMagnum Evans |
-| 91 | 400 | DexterDobbins |
-| 92 | 400 | Sassy Column |
-| 93 | 400 | Amber Doyle |
+| 87 | 461 | Kayla Fuentes |
+| 88 | 461 | Cranky Towerbuilder |
+| 89 | 440 | Bryan DjMagnum Evans |
+| 90 | 440 | Jewelz |
+| 91 | 400 | Amber Doyle |
+| 92 | 400 | DexterDobbins |
+| 93 | 400 | Sassy Column |
 | 94 | 399 | iiPurgeV2 |
 | 95 | 398 | Kay |
 | 96 | 397 | Real Talk Vibes |
@@ -129,8 +129,8 @@
 | 121 | 317 | J |
 | 122 | 308 | Taz |
 | 123 | 303 | Debby Ruof |
-| 124 | 300 | 2 kool |
-| 125 | 300 | Genag |
+| 124 | 300 | Genag |
+| 125 | 300 | 2 kool |
 | 126 | 300 | Hasty Builder |
 | 127 | 296 | Andrew Dang |
 | 128 | 295 | Thomasena Eady Reid |
@@ -141,14 +141,14 @@
 | 133 | 281 | Margie Thomas |
 | 134 | 280 | Suzanne Carter |
 | 135 | 272 | Sarah Berry Stevens |
-| 136 | 268 | Jojo Ann |
+| 136 | 270 | Jojo Ann |
 | 137 | 262 | squareMel |
 | 138 | 259 | Jessica Peyton |
 | 139 | 254 | Dazzle Dragon |
 | 140 | 253 | Danielle Mitchell |
 | 141 | 249 | shawna |
-| 142 | 245 | Giggly Tilt |
-| 143 | 245 | QueenLi86 |
+| 142 | 245 | QueenLi86 |
+| 143 | 245 | Giggly Tilt |
 | 144 | 244 | Sharidan Klinginsmith |
 | 145 | 235 | Hwanger Land |
 | 146 | 233 | Christy Beezley-Forbush |
@@ -255,49 +255,49 @@
 | 247 | 129 | Brainbabe |
 | 248 | 129 | Chilly Pivot |
 | 249 | 129 | Kelly Howland |
-| 250 | 129 | Shauna Davis |
-| 251 | 129 | Simone |
+| 250 | 129 | Simone |
+| 251 | 129 | Shauna Davis |
 | 252 | 129 | Chris Covington |
 | 253 | 128 | Bouncy |
 | 254 | 128 | Bridget Stevens |
-| 255 | 128 | Cherrypir05 |
-| 256 | 128 | Jumpy Builderpiece |
-| 257 | 128 | Crystal Hammonds |
-| 258 | 128 | CJ |
-| 259 | 127 | Samara Garcia |
+| 255 | 128 | Juvon SupaShawdii Brooks |
+| 256 | 128 | Cherrypir05 |
+| 257 | 128 | Jumpy Builderpiece |
+| 258 | 128 | Crystal Hammonds |
+| 259 | 128 | CJ |
 | 260 | 127 | Cheeky Climber |
 | 261 | 127 | crobb77 |
-| 262 | 126 | Corie A. Brinson |
-| 263 | 126 | LastBoi |
-| 264 | 124 | Rachel Lemos |
-| 265 | 124 | Dapper Strikerpiece |
-| 266 | 123 | Lively Cascadebuilder |
-| 267 | 122 | Andrick |
-| 268 | 121 | Jazzy Gridder |
+| 262 | 127 | Samara Garcia |
+| 263 | 126 | Corie A. Brinson |
+| 264 | 126 | LastBoi |
+| 265 | 124 | Rachel Lemos |
+| 266 | 124 | Dapper Strikerpiece |
+| 267 | 123 | Lively Cascadebuilder |
+| 268 | 122 | Andrick |
 | 269 | 121 | Jennifer Fisher Franklin |
-| 270 | 120 | Holly Wessel |
-| 271 | 120 | Glamorous Gracey |
+| 270 | 121 | Jazzy Gridder |
+| 271 | 120 | Holly Wessel |
 | 272 | 120 | Joab Gonzalez |
-| 273 | 120 | Cool Risepiece |
-| 274 | 120 | Shiny Brick |
-| 275 | 119 | Rae Saunders |
-| 276 | 119 | Ashley Jenkins |
-| 277 | 119 | Name |
-| 278 | 118 | Juvon SupaShawdii Brooks |
+| 273 | 120 | Shiny Brick |
+| 274 | 120 | Glamorous Gracey |
+| 275 | 120 | Cool Risepiece |
+| 276 | 119 | Rae Saunders |
+| 277 | 119 | Ashley Jenkins |
+| 278 | 119 | Name |
 | 279 | 118 | Goofy Fall |
 | 280 | 117 | Fancy Tilefall |
 | 281 | 116 | Pepone Pepe |
-| 282 | 116 | Shocinda Sherwood |
+| 282 | 116 | Samantha Worley |
 | 283 | 116 | Toon Up |
-| 284 | 116 | Samantha Worley |
+| 284 | 116 | Shocinda Sherwood |
 | 285 | 115 | Hardy Fuller |
-| 286 | 113 | Dizzy Slammer |
-| 287 | 113 | Piece of Cake |
-| 288 | 113 | Rose Anna Safi |
-| 289 | 113 | Melissa Anne |
-| 290 | 113 | George Palacios |
-| 291 | 113 | Dennis Montoya |
-| 292 | 113 | Zesty Twistpiece |
+| 286 | 113 | Rose Anna Safi |
+| 287 | 113 | Zesty Twistpiece |
+| 288 | 113 | Melissa Anne |
+| 289 | 113 | Piece of Cake |
+| 290 | 113 | Dennis Montoya |
+| 291 | 113 | George Palacios |
+| 292 | 113 | Dizzy Slammer |
 | 293 | 111 | King |
 | 294 | 111 | Dawn Phelps |
 | 295 | 110 | jaz |
