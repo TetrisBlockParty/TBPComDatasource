@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 08:50:16 UTC
+# Standings for team1 as of 2026-06-06 08:50:38 UTC
 
 **Total Participants:** 933
 
@@ -618,12 +618,12 @@
 | 610 | 27 | Jenna Renee |
 | 611 | 27 | Danielle DeLozier Plesec |
 | 612 | 27 | Meepycat |
-| 613 | 27 | Lady Scorpio |
-| 614 | 27 | Juanita Quezaire |
-| 615 | 26 | Nona Harriel |
-| 616 | 26 | Sarah Clark |
-| 617 | 26 | SnazzySnippet |
-| 618 | 26 | Twisty Brickfit |
+| 613 | 27 | Twisty Brickfit |
+| 614 | 27 | Lady Scorpio |
+| 615 | 27 | Juanita Quezaire |
+| 616 | 26 | Nona Harriel |
+| 617 | 26 | Sarah Clark |
+| 618 | 26 | SnazzySnippet |
 | 619 | 26 | Dana Hawes |
 | 620 | 26 | Kala Miller |
 | 621 | 25 | marie |
@@ -925,20 +925,20 @@
 | 917 | 5 | Temeshia Brooks Washington |
 | 918 | 5 | Tipsy Builderline |
 | 919 | 5 | VERA DAME |
-| 920 | 5 | Annette DeLoatch Thompson |
+| 920 | 5 | Hasty Brickzone |
 | 921 | 5 | DirtiestofMikes |
 | 922 | 5 | Stephanie Zuniga Tullock |
 | 923 | 5 | Chill Linkroll |
 | 924 | 5 | Derek Beverly |
-| 925 | 5 | Zesty Clearer |
-| 926 | 5 | the guy |
-| 927 | 5 | Rieshelda Marie White |
-| 928 | 5 | Marissa Sweet |
-| 929 | 5 | Tito Divyn |
-| 930 | 5 | Zappy Clearfit |
-| 931 | 5 | Duckey |
-| 932 | 5 | Logan Frost |
-| 933 | 5 | Hasty Brickzone |
+| 925 | 5 | Annette DeLoatch Thompson |
+| 926 | 5 | Zesty Clearer |
+| 927 | 5 | the guy |
+| 928 | 5 | Rieshelda Marie White |
+| 929 | 5 | Marissa Sweet |
+| 930 | 5 | Tito Divyn |
+| 931 | 5 | Zappy Clearfit |
+| 932 | 5 | Duckey |
+| 933 | 5 | Logan Frost |
 
 ---
 *Standings created by tournaments datasource generation tool*
