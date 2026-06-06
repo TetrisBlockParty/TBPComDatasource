@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 07:34:37 UTC
+# Standings for team1 as of 2026-06-06 07:35:16 UTC
 
 **Total Participants:** 910
 
@@ -106,50 +106,50 @@
 | 98 | 224 | Alana Renee |
 | 99 | 221 | Allison Baxter |
 | 100 | 219 | Jamal Itzjusmall Chambers |
-| 101 | 216 | Andi McGreevy |
-| 102 | 216 | Nerdy Snapfall |
-| 103 | 215 | Songne Arif |
-| 104 | 215 | Abraham Espaillat |
+| 101 | 216 | Nerdy Snapfall |
+| 102 | 216 | Andi McGreevy |
+| 103 | 215 | Abraham Espaillat |
+| 104 | 215 | Songne Arif |
 | 105 | 214 | Po Marley |
 | 106 | 214 | Tonya McElroy |
 | 107 | 213 | Jason Mungin |
-| 108 | 209 | Gotcha |
-| 109 | 209 | Zachary Colegrove |
+| 108 | 209 | Zachary Colegrove |
+| 109 | 209 | Gotcha |
 | 110 | 206 | Curtis T Cirno |
 | 111 | 204 | MamaBear |
 | 112 | 199 | Asani CHumba |
 | 113 | 197 | BYM4L |
-| 114 | 195 | Mimi 1.0 |
-| 115 | 195 | Weeze |
-| 116 | 193 | Brave Clearbuilder |
-| 117 | 188 | PandaPrincess |
-| 118 | 188 | Robyn Caldwell |
-| 119 | 186 | Denise B |
-| 120 | 185 | Teddy Davis |
-| 121 | 184 | Dai Bo |
-| 122 | 182 | Hyper Blocky |
-| 123 | 181 | Joey Albright |
-| 124 | 177 | Chris Sladoje |
-| 125 | 177 | Mic Balew |
-| 126 | 175 | Rayshawn Cohen |
-| 127 | 170 | Daris Swearington |
-| 128 | 169 | Asha Langford |
-| 129 | 166 | Nobles Brandon |
-| 130 | 166 | Tarnisha Neicy Jones |
-| 131 | 165 | Davionte DaeDae Hopson-Rodriguez |
-| 132 | 160 | DaGuy |
+| 114 | 195 | Weeze |
+| 115 | 195 | Mimi 1.0 |
+| 116 | 195 | Catara Renae Oliver |
+| 117 | 193 | Brave Clearbuilder |
+| 118 | 188 | PandaPrincess |
+| 119 | 188 | Robyn Caldwell |
+| 120 | 186 | Denise B |
+| 121 | 185 | Teddy Davis |
+| 122 | 184 | Dai Bo |
+| 123 | 182 | Hyper Blocky |
+| 124 | 181 | Joey Albright |
+| 125 | 177 | Chris Sladoje |
+| 126 | 177 | Mic Balew |
+| 127 | 175 | Rayshawn Cohen |
+| 128 | 170 | Daris Swearington |
+| 129 | 169 | Asha Langford |
+| 130 | 166 | Nobles Brandon |
+| 131 | 166 | Tarnisha Neicy Jones |
+| 132 | 165 | Davionte DaeDae Hopson-Rodriguez |
 | 133 | 160 | Zippy Lifter |
-| 134 | 158 | Tina Mitchell |
-| 135 | 158 | W.A. Simpson |
-| 136 | 156 | Jessica Russell |
-| 137 | 156 | Anthony Washington |
-| 138 | 155 | Jawaun Daniels |
-| 139 | 151 | Dacia Hicks |
-| 140 | 147 | MACHETEEDDIE513 |
+| 134 | 160 | DaGuy |
+| 135 | 158 | Tina Mitchell |
+| 136 | 158 | W.A. Simpson |
+| 137 | 156 | Jessica Russell |
+| 138 | 156 | Anthony Washington |
+| 139 | 155 | Jawaun Daniels |
+| 140 | 151 | Dacia Hicks |
 | 141 | 147 | Andre Sanon |
-| 142 | 147 | David Fuentes |
-| 143 | 146 | Marcheta Cervantez |
-| 144 | 146 | Catara Renae Oliver |
+| 142 | 147 | MACHETEEDDIE513 |
+| 143 | 147 | David Fuentes |
+| 144 | 146 | Marcheta Cervantez |
 | 145 | 140 | Felicia Cain |
 | 146 | 140 | Sara Meri |
 | 147 | 140 | Ann Chung |
@@ -158,57 +158,57 @@
 | 150 | 138 | Lashaunda |
 | 151 | 137 | BlackQueen105 |
 | 152 | 135 | Dawn L Washington-Feuquay |
-| 153 | 135 | Amber Wilson |
-| 154 | 135 | Sean White |
+| 153 | 135 | Sean White |
+| 154 | 135 | Amber Wilson |
 | 155 | 133 | Byron Mario Cawthon |
 | 156 | 132 | Jolly Tilefall |
 | 157 | 131 | TBABYJ |
 | 158 | 130 | Rolanda Williams |
 | 159 | 130 | Jessica Davis |
-| 160 | 130 | Emily Wright |
-| 161 | 130 | Dion Gray |
+| 160 | 130 | Dion Gray |
+| 161 | 130 | Emily Wright |
 | 162 | 127 | IThinkNot |
 | 163 | 126 | Stephen Providenti |
 | 164 | 126 | Cee Emm |
 | 165 | 125 | Kelli Couture |
 | 166 | 125 | LaTonya Myers |
-| 167 | 124 | Courtney Cicoria |
-| 168 | 124 | Queenie Perry |
+| 167 | 124 | Queenie Perry |
+| 168 | 124 | Courtney Cicoria |
 | 169 | 123 | Lisa Fletcher |
 | 170 | 121 | Tiana Monique |
 | 171 | 121 | D'Andra Stewart |
 | 172 | 120 | Saucy Tile |
-| 173 | 120 | Spicy Risepiece |
-| 174 | 120 | Nerdy Blockpiece |
+| 173 | 120 | Nerdy Blockpiece |
+| 174 | 120 | Spicy Risepiece |
 | 175 | 120 | Jai |
 | 176 | 119 | ELM |
 | 177 | 119 | Christina Rebecca |
 | 178 | 118 | Hasty Pivoty |
 | 179 | 113 | Rachel Zimmerman |
-| 180 | 112 | GamerQueenDS |
-| 181 | 112 | Bre Poston |
-| 182 | 111 | Shalena Marie Humphrey |
-| 183 | 111 | Lesley Brunkus Cianfaglione |
+| 180 | 112 | Bre Poston |
+| 181 | 112 | GamerQueenDS |
+| 182 | 111 | Lesley Brunkus Cianfaglione |
+| 183 | 111 | Shalena Marie Humphrey |
 | 184 | 110 | Atlantalindi |
 | 185 | 108 | Kimberly Linares Hernandez |
-| 186 | 105 | Katrina Ramey |
-| 187 | 105 | Angela R Wilson |
-| 188 | 105 | Ebony Waynes-robinson |
-| 189 | 105 | LaShaun Stinson |
-| 190 | 105 | Latisha Fairley |
-| 191 | 104 | Brittnay Wright |
-| 192 | 104 | Frisky Fall |
+| 186 | 105 | Latisha Fairley |
+| 187 | 105 | Ebony Waynes-robinson |
+| 188 | 105 | LaShaun Stinson |
+| 189 | 105 | Katrina Ramey |
+| 190 | 105 | Angela R Wilson |
+| 191 | 104 | Frisky Fall |
+| 192 | 104 | Brittnay Wright |
 | 193 | 104 | Ahvae Lee |
-| 194 | 103 | Kelvin Cook |
-| 195 | 101 | Boldy Liner |
-| 196 | 100 | Char |
-| 197 | 100 | Leavon Smith |
-| 198 | 100 | Cool Bridger |
-| 199 | 99 | Simone Bailey |
+| 194 | 103 | pooh |
+| 195 | 103 | Kelvin Cook |
+| 196 | 101 | Boldy Liner |
+| 197 | 100 | Cool Bridger |
+| 198 | 100 | Char |
+| 199 | 100 | Leavon Smith |
 | 200 | 99 | 신재호 |
-| 201 | 97 | Maribel Vasquez |
+| 201 | 99 | Simone Bailey |
 | 202 | 97 | Shanell Thomas |
-| 203 | 96 | pooh |
+| 203 | 97 | Maribel Vasquez |
 | 204 | 96 | Tamika Fisher |
 | 205 | 96 | Melissa D. M. Hornsby |
 | 206 | 95 | Shiny Lift |
