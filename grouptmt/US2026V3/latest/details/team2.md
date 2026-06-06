@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 09:10:16 UTC
+# Standings for team2 as of 2026-06-06 09:10:38 UTC
 
 **Total Participants:** 1092
 
@@ -12,7 +12,7 @@
 | 4 | 6045 | Morgann McDaniel |
 | 5 | 5987 | Tim Ix |
 | 6 | 5653 | A.j. Langley |
-| 7 | 5470 | Jason Wood |
+| 7 | 5635 | Jason Wood |
 | 8 | 5108 | Puce guide 9156 |
 | 9 | 4504 | Cori Keberlein |
 | 10 | 4500 | Mocha |
@@ -103,11 +103,11 @@
 | 95 | 315 | Milad Arzani |
 | 96 | 312 | Le Sandy |
 | 97 | 311 | Nawang Nawang |
-| 98 | 304 | Deborah Boyce Minor |
-| 99 | 303 | Jennifer Smith |
-| 100 | 300 | Wmk Rathbun |
-| 101 | 299 | Amber Miller Wirick |
-| 102 | 297 | Krisanne Kesner-Lonsby |
+| 98 | 307 | Krisanne Kesner-Lonsby |
+| 99 | 304 | Deborah Boyce Minor |
+| 100 | 303 | Jennifer Smith |
+| 101 | 300 | Wmk Rathbun |
+| 102 | 299 | Amber Miller Wirick |
 | 103 | 294 | Vistabrat |
 | 104 | 289 | Giddy Slamdrop |
 | 105 | 280 | Mom |
@@ -117,8 +117,8 @@
 | 109 | 275 | Bubbly Strikerpiece |
 | 110 | 274 | Sarah Griffey |
 | 111 | 258 | Erin Thomas |
-| 112 | 253 | Hilliary Beyer |
-| 113 | 253 | Heather Burgett |
+| 112 | 253 | Heather Burgett |
+| 113 | 253 | Hilliary Beyer |
 | 114 | 251 | Angie Kowalsky Olson |
 | 115 | 249 | Bon Lynn |
 | 116 | 247 | DayDreamer79 |
@@ -127,8 +127,8 @@
 | 119 | 230 | Brandy Chinelle |
 | 120 | 228 | Keri Mears |
 | 121 | 227 | Brittni Lawrence |
-| 122 | 218 | Amy Nicole McCanne |
-| 123 | 218 | Fudgie Pie |
+| 122 | 218 | Fudgie Pie |
+| 123 | 218 | Amy Nicole McCanne |
 | 124 | 215 | Ashley Green |
 | 125 | 201 | Danielle Pack Lewellen |
 | 126 | 200 | Kelly Vedder |

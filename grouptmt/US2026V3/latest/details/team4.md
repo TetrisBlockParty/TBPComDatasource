@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 09:10:16 UTC
+# Standings for team4 as of 2026-06-06 09:10:38 UTC
 
 **Total Participants:** 905
 
@@ -53,10 +53,10 @@
 | 45 | 559 | Lynn Grimes |
 | 46 | 540 | Chaz Duncan |
 | 47 | 530 | Jonathan Hewitt |
-| 48 | 510 | Krysten Danielle Richard |
-| 49 | 505 | Fancy Crasher |
-| 50 | 500 | Michele |
-| 51 | 496 | Victoria Ver |
+| 48 | 516 | Victoria Ver |
+| 49 | 510 | Krysten Danielle Richard |
+| 50 | 505 | Fancy Crasher |
+| 51 | 500 | Michele |
 | 52 | 477 | Malik Thompson |
 | 53 | 474 | Jeremy Lopez |
 | 54 | 461 | Kayla Fuentes |
@@ -91,13 +91,13 @@
 | 83 | 294 | Hen |
 | 84 | 283 | Jesse Olive |
 | 85 | 275 | Cherry |
-| 86 | 271 | Kim |
-| 87 | 267 | Cranky Towerbuilder |
-| 88 | 259 | Jessica Peyton |
-| 89 | 258 | Andrew Dang |
-| 90 | 253 | Debby Ruof |
-| 91 | 252 | Sarah Berry Stevens |
-| 92 | 251 | Alala.Cersei |
+| 86 | 271 | Alala.Cersei |
+| 87 | 271 | Kim |
+| 88 | 267 | Cranky Towerbuilder |
+| 89 | 259 | Jessica Peyton |
+| 90 | 258 | Andrew Dang |
+| 91 | 253 | Debby Ruof |
+| 92 | 252 | Sarah Berry Stevens |
 | 93 | 240 | Jojo Ann |
 | 94 | 235 | Hwanger Land |
 | 95 | 230 | Sisi RedVelvet Reneè |
