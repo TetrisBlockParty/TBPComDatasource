@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 18:46:17 UTC
+# Standings for team4 as of 2026-06-06 18:46:40 UTC
 
 **Total Participants:** 1097
 
@@ -305,74 +305,74 @@
 | 297 | 97 | Ross Bryant |
 | 298 | 97 | Tarsha Thomas-Martinez |
 | 299 | 96 | Bre Dee |
-| 300 | 94 | Janae Harris |
-| 301 | 94 | Reina Pagan |
-| 302 | 93 | Bouncy |
-| 303 | 93 | Mark Fitch Jr. |
+| 300 | 94 | Reina Pagan |
+| 301 | 94 | Janae Harris |
+| 302 | 93 | Mark Fitch Jr. |
+| 303 | 93 | Bouncy |
 | 304 | 92 | Karen Rodriguez |
 | 305 | 92 | William Brooks |
-| 306 | 91 | Miss Beast |
-| 307 | 91 | Dominique Melendez |
-| 308 | 91 | Diana Fernandez |
-| 309 | 91 | Jennifer Garcia |
-| 310 | 90 | Laurie Patrick |
-| 311 | 90 | Codey Haffner |
-| 312 | 90 | Lora Schallert |
-| 313 | 90 | 1694AF |
-| 314 | 89 | Waxboss |
-| 315 | 89 | Chirpy Snapclear |
-| 316 | 89 | Dawn Marie Trujillo |
-| 317 | 89 | Mrs |
-| 318 | 89 | Piece of Cake |
-| 319 | 88 | SandyEva |
-| 320 | 88 | Deva Marie Barber |
-| 321 | 88 | Kaps |
-| 322 | 87 | Erika Seaton |
-| 323 | 87 | da1ndonly |
-| 324 | 87 | Jeff Margolis |
-| 325 | 87 | Limbo |
-| 326 | 87 | Miwa |
-| 327 | 86 | Jessica Jones Bolton |
-| 328 | 86 | Autumn Maher |
-| 329 | 86 | Stef |
-| 330 | 86 | ManOfSteel |
-| 331 | 86 | Courtney Niichole |
-| 332 | 86 | Drh4090 |
-| 333 | 86 | Dandy Cascade |
-| 334 | 85 | MelodiousDeez |
-| 335 | 85 | Valerie Silva |
-| 336 | 85 | Mighty1 |
-| 337 | 85 | Kari Smith |
-| 338 | 84 | Chonda OhanaMomma Michelle |
+| 306 | 91 | Diana Fernandez |
+| 307 | 91 | Jennifer Garcia |
+| 308 | 91 | Dominique Melendez |
+| 309 | 91 | Miss Beast |
+| 310 | 90 | 1694AF |
+| 311 | 90 | Lora Schallert |
+| 312 | 90 | Codey Haffner |
+| 313 | 90 | Laurie Patrick |
+| 314 | 89 | Dawn Marie Trujillo |
+| 315 | 89 | Waxboss |
+| 316 | 89 | Mrs |
+| 317 | 89 | Piece of Cake |
+| 318 | 89 | Chirpy Snapclear |
+| 319 | 88 | Deva Marie Barber |
+| 320 | 88 | Kaps |
+| 321 | 88 | Anna Ryan |
+| 322 | 88 | SandyEva |
+| 323 | 87 | Erika Seaton |
+| 324 | 87 | da1ndonly |
+| 325 | 87 | Jeff Margolis |
+| 326 | 87 | Limbo |
+| 327 | 87 | Miwa |
+| 328 | 86 | Jessica Jones Bolton |
+| 329 | 86 | Autumn Maher |
+| 330 | 86 | Stef |
+| 331 | 86 | ManOfSteel |
+| 332 | 86 | Courtney Niichole |
+| 333 | 86 | Drh4090 |
+| 334 | 86 | Dandy Cascade |
+| 335 | 85 | Kari Smith |
+| 336 | 85 | Valerie Silva |
+| 337 | 85 | Mighty1 |
+| 338 | 85 | MelodiousDeez |
 | 339 | 84 | Amandacolle |
-| 340 | 84 | Playa |
-| 341 | 84 | Anna Ryan |
-| 342 | 83 | Domo Dpn |
+| 340 | 84 | Chonda OhanaMomma Michelle |
+| 341 | 84 | Playa |
+| 342 | 83 | Sonia Cordero-Martinez |
 | 343 | 83 | Peachy Piecefit |
-| 344 | 83 | MrLoner Stoner |
-| 345 | 83 | Sonia Cordero-Martinez |
-| 346 | 83 | Troy Zanelli |
-| 347 | 83 | Peter Babineaux Jr |
+| 344 | 83 | Peter Babineaux Jr |
+| 345 | 83 | MrLoner Stoner |
+| 346 | 83 | Domo Dpn |
+| 347 | 83 | Troy Zanelli |
 | 348 | 83 | Rosy Perez |
 | 349 | 82 | Jen Smith |
-| 350 | 82 | DizzB400 |
-| 351 | 82 | SupaFly |
+| 350 | 82 | SupaFly |
+| 351 | 82 | DizzB400 |
 | 352 | 82 | Bon Jovi |
-| 353 | 81 | Wacky Brick |
-| 354 | 81 | Scrumptious |
-| 355 | 81 | Nicole Colby McCloskey |
-| 356 | 81 | Snazzy Corner |
-| 357 | 81 | Linda Miltenburg |
-| 358 | 80 | Maurice DeJean |
-| 359 | 80 | Karen Small |
-| 360 | 80 | Aaron Turner |
-| 361 | 80 | Danny Frausto |
-| 362 | 80 | Lady Dolphin |
-| 363 | 80 | Keke Johnson |
-| 364 | 80 | Darren Miguel |
-| 365 | 80 | Carla Woodard |
-| 366 | 80 | Josh Keith Travierso |
-| 367 | 80 | Suzanne Carter |
+| 353 | 81 | Linda Miltenburg |
+| 354 | 81 | Wacky Brick |
+| 355 | 81 | Snazzy Corner |
+| 356 | 81 | Scrumptious |
+| 357 | 81 | Nicole Colby McCloskey |
+| 358 | 80 | Danny Frausto |
+| 359 | 80 | Suzanne Carter |
+| 360 | 80 | Lady Dolphin |
+| 361 | 80 | Maurice DeJean |
+| 362 | 80 | Karen Small |
+| 363 | 80 | Aaron Turner |
+| 364 | 80 | Keke Johnson |
+| 365 | 80 | Darren Miguel |
+| 366 | 80 | Carla Woodard |
+| 367 | 80 | Josh Keith Travierso |
 | 368 | 80 | Krista Diaz |
 | 369 | 79 | Gean DeJesus |
 | 370 | 79 | Joyce Myers |
