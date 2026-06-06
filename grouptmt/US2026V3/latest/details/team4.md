@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 17:50:18 UTC
+# Standings for team4 as of 2026-06-06 17:50:38 UTC
 
 **Total Participants:** 1079
 
@@ -26,7 +26,7 @@
 | 18 | 2506 | Fruitpunch |
 | 19 | 2446 | Senor Moppy |
 | 20 | 2444 | Daring Ziggy |
-| 21 | 1977 | Hanan Hana |
+| 21 | 2274 | Hanan Hana |
 | 22 | 1902 | Dana Rinaldi |
 | 23 | 1360 | Cal Renee |
 | 24 | 1200 | Caitlin Johnson |
