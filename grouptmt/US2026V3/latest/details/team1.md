@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 10:14:39 UTC
+# Standings for team1 as of 2026-06-06 10:15:16 UTC
 
 **Total Participants:** 953
 
@@ -323,70 +323,70 @@
 | 315 | 63 | Ahsokadog |
 | 316 | 63 | Slinky Clearzone |
 | 317 | 62 | Richard Flex |
-| 318 | 62 | Jack Mehof |
-| 319 | 62 | De'Mear McKinney |
-| 320 | 61 | Tonya Thomas |
-| 321 | 61 | star |
-| 322 | 60 | izzybella |
-| 323 | 60 | Kimberly Noble |
-| 324 | 60 | Marlainia Boyd |
-| 325 | 60 | Dianne Clagon |
-| 326 | 60 | Tasha |
-| 327 | 60 | Christian Pham |
-| 328 | 60 | Christi Walker Patton |
-| 329 | 60 | Kesha Brady |
-| 330 | 60 | Lilly Brown |
-| 331 | 60 | De'Nell Edwards |
-| 332 | 60 | Big Bovice |
-| 333 | 60 | Heather Aurelia |
-| 334 | 60 | Fina McKinnis |
-| 335 | 60 | Coco |
+| 318 | 62 | De'Mear McKinney |
+| 319 | 62 | Jack Mehof |
+| 320 | 61 | star |
+| 321 | 61 | Tonya Thomas |
+| 322 | 60 | Tyiesha Pie Farmer |
+| 323 | 60 | Christi Walker Patton |
+| 324 | 60 | Christian Pham |
+| 325 | 60 | Marlainia Boyd |
+| 326 | 60 | Kimberly Noble |
+| 327 | 60 | Valerie Alexander |
+| 328 | 60 | Tasha |
+| 329 | 60 | izzybella |
+| 330 | 60 | Dianne Clagon |
+| 331 | 60 | Heather Aurelia |
+| 332 | 60 | Malcolm Stanley |
+| 333 | 60 | Angie Smith |
+| 334 | 60 | Kesha Brady |
+| 335 | 60 | Lilly Brown |
 | 336 | 60 | Natasha Rucker |
-| 337 | 60 | Angie Smith |
-| 338 | 60 | Malcolm Stanley |
-| 339 | 60 | Katherine Short |
-| 340 | 60 | Valerie Alexander |
-| 341 | 59 | Koi |
-| 342 | 59 | Chilly Wipebuilder |
-| 343 | 58 | Shanaa Germany Crittenden |
-| 344 | 58 | Kimberly Susan Privette |
-| 345 | 58 | Tobey Marberry |
-| 346 | 58 | FunTime |
-| 347 | 58 | Mikayla |
-| 348 | 58 | Sonia Binti Mfalme |
-| 349 | 58 | Brandy Way |
-| 350 | 58 | Bambi Love |
-| 351 | 58 | Alexandrla Smith |
-| 352 | 57 | Jae Thompson-Tyus |
-| 353 | 56 | Bobby Chestefield |
+| 337 | 60 | Coco |
+| 338 | 60 | De'Nell Edwards |
+| 339 | 60 | Big Bovice |
+| 340 | 60 | Katherine Short |
+| 341 | 60 | Fina McKinnis |
+| 342 | 59 | Koi |
+| 343 | 59 | Chilly Wipebuilder |
+| 344 | 58 | Alexandrla Smith |
+| 345 | 58 | Kimberly Susan Privette |
+| 346 | 58 | Bambi Love |
+| 347 | 58 | Tobey Marberry |
+| 348 | 58 | FunTime |
+| 349 | 58 | Shanaa Germany Crittenden |
+| 350 | 58 | Brandy Way |
+| 351 | 58 | Mikayla |
+| 352 | 58 | Sonia Binti Mfalme |
+| 353 | 57 | Jae Thompson-Tyus |
 | 354 | 56 | Nichelle Warren |
 | 355 | 56 | Miera Nicole |
 | 356 | 56 | Nora Mahmoud |
 | 357 | 56 | Lakiesha Crawford |
-| 358 | 55 | Dreamzzz |
+| 358 | 56 | Bobby Chestefield |
 | 359 | 55 | Kyle Franklin |
-| 360 | 55 | Angelique Talbot |
-| 361 | 55 | KoolKimJay |
+| 360 | 55 | Dreamzzz |
+| 361 | 55 | Angelique Talbot |
 | 362 | 55 | Terrie |
-| 363 | 54 | Twisty Brickfit |
-| 364 | 54 | Ryan Runyan |
-| 365 | 54 | Tyiesha Pie Farmer |
-| 366 | 54 | Rackemwillie34 |
-| 367 | 54 | Ace Hardware |
-| 368 | 54 | xXEKUNXx |
-| 369 | 54 | Elizabeth Hopkins |
-| 370 | 54 | Melissa Olvera |
-| 371 | 53 | Cortrell Foster |
-| 372 | 53 | Jumpy Gridlock |
-| 373 | 53 | Clever Wrecker |
-| 374 | 53 | Phillip Vasquez |
-| 375 | 52 | kitten |
-| 376 | 52 | Anastasia |
-| 377 | 52 | Brenda Malachi-butler |
+| 363 | 55 | KoolKimJay |
+| 364 | 54 | Twisty Brickfit |
+| 365 | 54 | Rackemwillie34 |
+| 366 | 54 | Melissa Olvera |
+| 367 | 54 | Ryan Runyan |
+| 368 | 54 | Elizabeth Hopkins |
+| 369 | 54 | Ace Hardware |
+| 370 | 54 | xXEKUNXx |
+| 371 | 53 | Clever Wrecker |
+| 372 | 53 | Phillip Vasquez |
+| 373 | 53 | Jumpy Gridlock |
+| 374 | 53 | Cortrell Foster |
+| 375 | 52 | Loopy Risepiece |
+| 376 | 52 | Dandy Brickfit |
+| 377 | 52 | Raquel Ortiz |
 | 378 | 52 | Gabriela Hernandez |
-| 379 | 52 | Raquel Ortiz |
-| 380 | 52 | Dandy Brickfit |
-| 381 | 52 | Loopy Risepiece |
+| 379 | 52 | Brenda Malachi-butler |
+| 380 | 52 | Anastasia |
+| 381 | 52 | kitten |
 | 382 | 51 | Poppy Smasher |
 | 383 | 51 | Shanjerrica Taylor Rosell |
 | 384 | 51 | Comedian Gdane |
