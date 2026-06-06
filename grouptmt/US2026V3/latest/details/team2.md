@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 07:10:16 UTC
+# Standings for team2 as of 2026-06-06 07:10:38 UTC
 
 **Total Participants:** 1058
 
@@ -54,7 +54,7 @@
 | 46 | 702 | Charley Bedford |
 | 47 | 671 | Brandi Thompson |
 | 48 | 660 | Julie Trede Amerson |
-| 49 | 632 | Amber Salazar |
+| 49 | 635 | Amber Salazar |
 | 50 | 629 | Dane Marko |
 | 51 | 614 | Block Dog |
 | 52 | 599 | Marie Luciano |
