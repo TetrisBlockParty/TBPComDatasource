@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 19:06:17 UTC
+# Standings for team4 as of 2026-06-06 19:06:40 UTC
 
 **Total Participants:** 1107
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 7900 | Lyza |
 | 2 | 7564 | Cinny |
-| 3 | 6601 | Lisa Cullum |
+| 3 | 6901 | Lisa Cullum |
 | 4 | 5469 | Kait Confetti |
 | 5 | 4920 | Jerald Jones |
 | 6 | 4666 | ktothet |
@@ -93,8 +93,8 @@
 | 85 | 381 | Cranky Towerbuilder |
 | 86 | 378 | Lisa Garcia |
 | 87 | 376 | Jason Garnatz |
-| 88 | 373 | Boldy Rumbler |
-| 89 | 373 | Tanita Jobe |
+| 88 | 373 | Tanita Jobe |
+| 89 | 373 | Boldy Rumbler |
 | 90 | 370 | Dandy Clearfit |
 | 91 | 360 | Gigglycat |
 | 92 | 353 | Hen |
@@ -109,9 +109,9 @@
 | 101 | 320 | DexterDobbins |
 | 102 | 317 | J |
 | 103 | 302 | JoLinda Dunn |
-| 104 | 300 | Genag |
+| 104 | 300 | 2 kool |
 | 105 | 300 | Hasty Builder |
-| 106 | 300 | 2 kool |
+| 106 | 300 | Genag |
 | 107 | 299 | Kim |
 | 108 | 295 | Thomasena Eady Reid |
 | 109 | 294 | Jesse Olive |
@@ -128,8 +128,8 @@
 | 120 | 253 | Debby Ruof |
 | 121 | 245 | QueenLi86 |
 | 122 | 235 | Hwanger Land |
-| 123 | 233 | Sisi RedVelvet Reneè |
-| 124 | 233 | Christy Beezley-Forbush |
+| 123 | 233 | Christy Beezley-Forbush |
+| 124 | 233 | Sisi RedVelvet Reneè |
 | 125 | 229 | Aisha Estrada |
 | 126 | 226 | Becky McCool |
 | 127 | 224 | TRUCHILD777$$$ |
@@ -138,8 +138,8 @@
 | 130 | 221 | Slimm |
 | 131 | 220 | Shmeedo |
 | 132 | 220 | Silly Risegrid |
-| 133 | 218 | Dubiousdust |
-| 134 | 218 | Daryn Elliott |
+| 133 | 218 | Daryn Elliott |
+| 134 | 218 | Dubiousdust |
 | 135 | 214 | Dazzle Dragon |
 | 136 | 212 | blockhead |
 | 137 | 211 | Renee Sapp |
@@ -148,38 +148,38 @@
 | 140 | 203 | Patrick Alley |
 | 141 | 202 | Nicole |
 | 142 | 201 | Perky Riserbuilder |
-| 143 | 200 | Trice Stevenson |
-| 144 | 200 | Esther Hadassah |
+| 143 | 200 | Esther Hadassah |
+| 144 | 200 | Trice Stevenson |
 | 145 | 200 | Sarah Montagne Forsberg |
 | 146 | 199 | Colin |
 | 147 | 196 | Brick House |
 | 148 | 195 | Sean Mccleary |
-| 149 | 194 | Chiquita Blue |
-| 150 | 194 | Jenn Norcross |
-| 151 | 194 | Lisa lisa |
+| 149 | 194 | Jenn Norcross |
+| 150 | 194 | Lisa lisa |
+| 151 | 194 | Chiquita Blue |
 | 152 | 193 | Tiffany Bunker-Hill |
 | 153 | 192 | Tiggerjake |
 | 154 | 186 | Kimyatta Cavin |
 | 155 | 185 | Dae Von |
-| 156 | 184 | Lucy Honer |
-| 157 | 184 | Giggly Tilt |
-| 158 | 183 | Tara Delay Hill |
-| 159 | 183 | Megan Vick |
+| 156 | 184 | Giggly Tilt |
+| 157 | 184 | Lucy Honer |
+| 158 | 183 | Megan Vick |
+| 159 | 183 | Tara Delay Hill |
 | 160 | 179 | Anna Gribble |
-| 161 | 178 | Tamara Triplet |
-| 162 | 178 | Spicy Chicken |
-| 163 | 177 | Tammy June |
-| 164 | 177 | Damon Gaston |
-| 165 | 177 | Devinlee Brown |
-| 166 | 177 | Chirpy Link |
+| 161 | 178 | Spicy Chicken |
+| 162 | 178 | Tamara Triplet |
+| 163 | 177 | Devinlee Brown |
+| 164 | 177 | Chirpy Link |
+| 165 | 177 | Tammy June |
+| 166 | 177 | Damon Gaston |
 | 167 | 172 | Goofy Riser |
 | 168 | 172 | Tawna Curry |
 | 169 | 169 | Dana Fontanez |
 | 170 | 169 | Tiffany Smith |
 | 171 | 167 | Littlebrat |
-| 172 | 166 | Alyson M Kehler |
+| 172 | 166 | Dee Wizz |
 | 173 | 166 | Sassy Rollpiece |
-| 174 | 166 | Dee Wizz |
+| 174 | 166 | Alyson M Kehler |
 | 175 | 164 | Stacy G |
 | 176 | 164 | Jackie Miller |
 | 177 | 163 | Brandy Lynn |
@@ -187,16 +187,16 @@
 | 179 | 159 | EL Booger |
 | 180 | 157 | Mark Norton |
 | 181 | 157 | ariel |
-| 182 | 155 | Bonnie Powell |
-| 183 | 155 | Ryan Paul Clark-Ramsey |
+| 182 | 155 | Jackie Polanco |
+| 183 | 155 | Bonnie Powell |
 | 184 | 155 | Shayna Vaigneur-Hall |
-| 185 | 155 | Jackie Polanco |
+| 185 | 155 | Ryan Paul Clark-Ramsey |
 | 186 | 154 | No Time |
 | 187 | 153 | Laguya |
 | 188 | 152 | Bryan DjMagnum Evans |
 | 189 | 151 | Leslie Ann Carter |
-| 190 | 150 | Janet Sanfilippo Sullivan |
-| 191 | 150 | gabs |
+| 190 | 150 | gabs |
+| 191 | 150 | Janet Sanfilippo Sullivan |
 | 192 | 148 | Joseph Hunter |
 | 193 | 145 | Smiley Gridzone |
 | 194 | 144 | Yesenia Castro Monreal |
