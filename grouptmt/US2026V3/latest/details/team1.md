@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 11:54:41 UTC
+# Standings for team1 as of 2026-06-06 11:55:16 UTC
 
 **Total Participants:** 970
 
@@ -803,66 +803,66 @@
 | 795 | 15 | Laura Long |
 | 796 | 15 | Haley Bell |
 | 797 | 15 | Breezy Bouncer |
-| 798 | 15 | Hasty Match |
+| 798 | 15 | Damien Mathews |
 | 799 | 15 | Victor |
-| 800 | 15 | Shamara Thurston |
-| 801 | 15 | Cheery Clusterbuilder |
-| 802 | 15 | Chasem45 |
-| 803 | 15 | MonaSparks |
+| 800 | 15 | MonaSparks |
+| 801 | 15 | Shamara Thurston |
+| 802 | 15 | Cheery Clusterbuilder |
+| 803 | 15 | Chasem45 |
 | 804 | 15 | Venna Cooper |
-| 805 | 15 | Nicole Freeman |
-| 806 | 15 | Motown Chuck |
-| 807 | 15 | Christian Whittaker |
-| 808 | 15 | Dede Tate |
-| 809 | 15 | Damien Mathews |
-| 810 | 15 | Sara |
-| 811 | 15 | LaToya Chambers |
-| 812 | 15 | Bri Lou |
-| 813 | 15 | b |
-| 814 | 15 | Tami Spence |
-| 815 | 15 | Lit757 |
-| 816 | 15 | Betsy B. Yohan |
-| 817 | 15 | Nedine Ray |
+| 805 | 15 | Motown Chuck |
+| 806 | 15 | Dede Tate |
+| 807 | 15 | Hasty Match |
+| 808 | 15 | Tami Spence |
+| 809 | 15 | Sara |
+| 810 | 15 | LaToya Chambers |
+| 811 | 15 | Betsy B. Yohan |
+| 812 | 15 | b |
+| 813 | 15 | Nedine Ray |
+| 814 | 15 | Lit757 |
+| 815 | 15 | Bri Lou |
+| 816 | 15 | Nicole Freeman |
+| 817 | 15 | Christian Whittaker |
 | 818 | 15 | lizlizliz |
-| 819 | 14 | Lynn |
-| 820 | 14 | Tez Mays |
-| 821 | 14 | Kenny 'Tailormade' Boyd |
-| 822 | 14 | Aaron Hartmann |
-| 823 | 14 | Jazzy |
-| 824 | 14 | Dymond |
-| 825 | 14 | Zany Pivot |
-| 826 | 14 | Nichole Horsley-Conn |
-| 827 | 14 | Jerrone Epps |
+| 819 | 14 | Aaron Hartmann |
+| 820 | 14 | Lynn |
+| 821 | 14 | Dymond |
+| 822 | 14 | Tez Mays |
+| 823 | 14 | Nerdy Curvetile |
+| 824 | 14 | Kenny 'Tailormade' Boyd |
+| 825 | 14 | Jazzy |
+| 826 | 14 | MoneyMac |
+| 827 | 14 | Stanley Dixon |
 | 828 | 14 | TBabii24 |
-| 829 | 14 | Stanley Dixon |
-| 830 | 14 | Nerdy Curvetile |
-| 831 | 13 | Seirra Robinson |
-| 832 | 13 | Sarah Barnum |
-| 833 | 13 | John Spath |
-| 834 | 13 | Cathy Young |
-| 835 | 13 | Leah Ingram |
-| 836 | 13 | Emma Adams |
-| 837 | 13 | Daphne Ceasar |
-| 838 | 13 | Hoppy Rumbler |
+| 829 | 14 | Jerrone Epps |
+| 830 | 14 | Nichole Horsley-Conn |
+| 831 | 14 | Zany Pivot |
+| 832 | 13 | Emma Adams |
+| 833 | 13 | Leah Ingram |
+| 834 | 13 | Daphne Ceasar |
+| 835 | 13 | Jumpy Striker |
+| 836 | 13 | John Spath |
+| 837 | 13 | Sarah Barnum |
+| 838 | 13 | Seirra Robinson |
 | 839 | 13 | Bubbly Piececlear |
-| 840 | 13 | Jumpy Striker |
-| 841 | 12 | Abdul Malik |
-| 842 | 12 | Cynthia Cruell |
-| 843 | 12 | Sarah Jones |
-| 844 | 12 | Mike Hromowyk |
-| 845 | 12 | Talya Richards |
-| 846 | 12 | SyTheEvilGenius1 |
+| 840 | 13 | Hoppy Rumbler |
+| 841 | 13 | Cathy Young |
+| 842 | 12 | Sarah Jones |
+| 843 | 12 | SyTheEvilGenius1 |
+| 844 | 12 | Cynthia Cruell |
+| 845 | 12 | Abdul Malik |
+| 846 | 12 | Mike Hromowyk |
 | 847 | 12 | BigMike |
-| 848 | 12 | Lillie Blossom Dixon |
-| 849 | 12 | Joseph Ware Jr. |
-| 850 | 12 | BigDawg Lessley |
-| 851 | 12 | Outspoken Sirchristopher |
-| 852 | 12 | Cameo Tweed |
-| 853 | 12 | Michael Jones |
-| 854 | 12 | Ashley Davis |
-| 855 | 12 | Jovy |
-| 856 | 12 | MoneyMac |
-| 857 | 12 | Silly Spinblock |
+| 848 | 12 | Talya Richards |
+| 849 | 12 | Outspoken Sirchristopher |
+| 850 | 12 | Joseph Ware Jr. |
+| 851 | 12 | Jovy |
+| 852 | 12 | BigDawg Lessley |
+| 853 | 12 | Lillie Blossom Dixon |
+| 854 | 12 | Cameo Tweed |
+| 855 | 12 | Ashley Davis |
+| 856 | 12 | Silly Spinblock |
+| 857 | 12 | Michael Jones |
 | 858 | 11 | Giddy Twistslam |
 | 859 | 11 | Groovy Climber |
 | 860 | 11 | Frilly Shatterline |
@@ -870,23 +870,23 @@
 | 862 | 11 | Ray Baker |
 | 863 | 10 | Daring Linkfall |
 | 864 | 10 | OneBuke FollowMe |
-| 865 | 10 | Damien Fonseca |
-| 866 | 10 | Happy Blockpiece |
-| 867 | 10 | Wacky Riserpiece |
+| 865 | 10 | Wacky Riserpiece |
+| 866 | 10 | Damien Fonseca |
+| 867 | 10 | Happy Blockpiece |
 | 868 | 10 | Hasty Brickzone |
 | 869 | 10 | Chill Curvebuilder |
 | 870 | 10 | Anthony D Holmes |
 | 871 | 10 | Renee Marshall |
 | 872 | 10 | Cornelius Neal |
-| 873 | 10 | Saucy Linkgrid |
+| 873 | 10 | Marshall Davis |
 | 874 | 10 | Nikiya |
-| 875 | 10 | Marshall Davis |
-| 876 | 10 | Anntionette Sotire |
-| 877 | 10 | Mark Steven Pichler |
+| 875 | 10 | Anntionette Sotire |
+| 876 | 10 | Mark Steven Pichler |
+| 877 | 10 | Boricua64 |
 | 878 | 10 | Missy Myvette |
-| 879 | 10 | Boricua64 |
-| 880 | 10 | Mikemike Zonethree |
-| 881 | 10 | Meeee |
+| 879 | 10 | Mikemike Zonethree |
+| 880 | 10 | Meeee |
+| 881 | 10 | Saucy Linkgrid |
 | 882 | 10 | TRUBBLE45 |
 | 883 | 10 | Melissa Hershberger |
 | 884 | 10 | Ashleyy Netchert |
