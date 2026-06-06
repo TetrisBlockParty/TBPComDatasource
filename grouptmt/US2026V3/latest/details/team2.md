@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 09:56:16 UTC
+# Standings for team2 as of 2026-06-06 09:56:38 UTC
 
 **Total Participants:** 1101
 
@@ -203,15 +203,15 @@
 | 195 | 135 | Tina Marie |
 | 196 | 133 | Bengy Lead |
 | 197 | 132 | Spunky Cascadeclear |
-| 198 | 132 | Mtnblzr |
-| 199 | 132 | Alison Waller |
+| 198 | 132 | Alison Waller |
+| 199 | 132 | Mtnblzr |
 | 200 | 131 | Harper |
 | 201 | 131 | Amy Lea Hamilton |
-| 202 | 130 | ZBee |
-| 203 | 130 | Precious Womack |
-| 204 | 129 | Laverne Ellis Blair |
-| 205 | 129 | Amy Taylor Pomerenk |
-| 206 | 129 | Cheery Towerzone |
+| 202 | 130 | Laverne Ellis Blair |
+| 203 | 130 | ZBee |
+| 204 | 130 | Precious Womack |
+| 205 | 129 | Cheery Towerzone |
+| 206 | 129 | Amy Taylor Pomerenk |
 | 207 | 126 | Teresa Mandich |
 | 208 | 125 | Ariel Gundersen |
 | 209 | 124 | Jason Burris |

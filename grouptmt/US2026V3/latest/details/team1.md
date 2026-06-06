@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 09:56:16 UTC
+# Standings for team1 as of 2026-06-06 09:56:38 UTC
 
 **Total Participants:** 948
 
@@ -89,23 +89,23 @@
 | 81 | 319 | GrkGdess |
 | 82 | 316 | Ty Øtg |
 | 83 | 314 | Carolynne Walker-Bell |
-| 84 | 292 | Robyn Caldwell |
-| 85 | 284 | Todd C. Clemens |
-| 86 | 279 | COSA303 |
-| 87 | 278 | Shontanese Adams |
-| 88 | 270 | Chenell Gillard |
-| 89 | 268 | Dee McCool |
-| 90 | 264 | Tammye Turner |
-| 91 | 260 | John Staub |
+| 84 | 300 | John Staub |
+| 85 | 292 | Robyn Caldwell |
+| 86 | 284 | Todd C. Clemens |
+| 87 | 279 | COSA303 |
+| 88 | 278 | Shontanese Adams |
+| 89 | 270 | Chenell Gillard |
+| 90 | 268 | Dee McCool |
+| 91 | 264 | Tammye Turner |
 | 92 | 259 | Chirpy Corner |
-| 93 | 257 | Mimi 1.0 |
-| 94 | 257 | Michelle Titus |
-| 95 | 256 | Cortaz Lawrie |
-| 96 | 251 | Helen Smith |
-| 97 | 249 | Ashley MyBeauty Daniels |
+| 93 | 258 | Linzie Marie |
+| 94 | 257 | Mimi 1.0 |
+| 95 | 257 | Michelle Titus |
+| 96 | 256 | Cortaz Lawrie |
+| 97 | 251 | Helen Smith |
 | 98 | 249 | Tamara N Lee |
-| 99 | 244 | Jaida De'Anne Cox |
-| 100 | 241 | Linzie Marie |
+| 99 | 249 | Ashley MyBeauty Daniels |
+| 100 | 244 | Jaida De'Anne Cox |
 | 101 | 240 | Rayya Kiser |
 | 102 | 237 | Leebo Slice |
 | 103 | 234 | DaVonte' Cretter |
