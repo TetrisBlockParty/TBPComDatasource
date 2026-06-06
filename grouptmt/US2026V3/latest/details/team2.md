@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 18:16:39 UTC
+# Standings for team2 as of 2026-06-06 18:17:18 UTC
 
 **Total Participants:** 1303
 
@@ -194,34 +194,34 @@
 | 186 | 196 | snowwol |
 | 187 | 195 | Bb |
 | 188 | 194 | Mookshake |
-| 189 | 192 | Nathan Walker |
-| 190 | 192 | Greta Warden |
+| 189 | 192 | Greta Warden |
+| 190 | 192 | Nathan Walker |
 | 191 | 191 | Jessica Christine |
 | 192 | 191 | Jeanna Mendez |
 | 193 | 188 | Larry Cross |
 | 194 | 188 | Lush Party |
-| 195 | 187 | Laura Melton |
-| 196 | 187 | Jat |
+| 195 | 187 | Jat |
+| 196 | 187 | Laura Melton |
 | 197 | 185 | Samantha Carman |
 | 198 | 184 | Jessica Lynn |
 | 199 | 183 | Chipper Stackbuilder |
 | 200 | 181 | Michelle Maulsby |
-| 201 | 177 | Becca Marie |
-| 202 | 177 | Xandrea Jones |
-| 203 | 176 | Glitzy Base |
-| 204 | 175 | Lashanda Bertram |
-| 205 | 174 | Nettrainer |
-| 206 | 173 | Amie Marks |
-| 207 | 172 | Carolyn McNaughton |
-| 208 | 171 | Laverne Ellis Blair |
-| 209 | 171 | Melissa Nash |
-| 210 | 171 | Olivia Jefferson |
-| 211 | 170 | Harper |
-| 212 | 170 | phamous1 |
-| 213 | 170 | Hoppy Mover |
+| 201 | 179 | Hoppy Mover |
+| 202 | 177 | Becca Marie |
+| 203 | 177 | Xandrea Jones |
+| 204 | 176 | Glitzy Base |
+| 205 | 175 | Lashanda Bertram |
+| 206 | 174 | Nettrainer |
+| 207 | 173 | Amie Marks |
+| 208 | 172 | Carolyn McNaughton |
+| 209 | 171 | Laverne Ellis Blair |
+| 210 | 171 | Melissa Nash |
+| 211 | 171 | Olivia Jefferson |
+| 212 | 170 | Harper |
+| 213 | 170 | phamous1 |
 | 214 | 169 | Sully |
-| 215 | 168 | Missy Renia |
-| 216 | 168 | Danielle Lyons |
+| 215 | 168 | Danielle Lyons |
+| 216 | 168 | Missy Renia |
 | 217 | 168 | Spicy Risegrid |
 | 218 | 164 | Jerry L Morales |
 | 219 | 164 | Cara Rivera |
@@ -272,36 +272,36 @@
 | 264 | 134 | Sabrina Hardrick |
 | 265 | 134 | Joanna Trevin Thompson |
 | 266 | 134 | Funway998 |
-| 267 | 132 | Spunky Cascadeclear |
+| 267 | 132 | Alison Waller |
 | 268 | 132 | Amy Lea Hamilton |
-| 269 | 132 | Alison Waller |
+| 269 | 132 | Spunky Cascadeclear |
 | 270 | 130 | Precious Womack |
 | 271 | 130 | Jason Cunningham |
 | 272 | 130 | ZBee |
-| 273 | 129 | Belle |
-| 274 | 129 | Armando Sabedra |
-| 275 | 129 | Sandy Justus |
-| 276 | 129 | Loopy Tower |
+| 273 | 129 | Sandy Justus |
+| 274 | 129 | Loopy Tower |
+| 275 | 129 | Armando Sabedra |
+| 276 | 129 | Belle |
 | 277 | 128 | Teddy Williams |
 | 278 | 127 | Monique Frantz |
 | 279 | 126 | Danielle Blount |
 | 280 | 126 | Teresa Mandich |
 | 281 | 125 | Ariel Gundersen |
-| 282 | 125 | Gwendolyn Boykin Mobbs |
-| 283 | 125 | Jackie Tupper |
+| 282 | 125 | Jackie Tupper |
+| 283 | 125 | Gwendolyn Boykin Mobbs |
 | 284 | 124 | Tina |
 | 285 | 124 | Jason Burris |
 | 286 | 123 | Nikki EightySixed |
 | 287 | 121 | Tango Sierra |
-| 288 | 120 | Kevin Mccoy |
-| 289 | 120 | Keisha Robinson |
-| 290 | 120 | Al Smith Jr |
-| 291 | 120 | Happy |
-| 292 | 120 | Sassy Twistbuilder |
-| 293 | 120 | Elizabeth Cornelius |
-| 294 | 120 | Carlos J Blas |
-| 295 | 120 | Simone F |
-| 296 | 120 | Charity Hauser |
+| 288 | 120 | Al Smith Jr |
+| 289 | 120 | Sassy Twistbuilder |
+| 290 | 120 | Keisha Robinson |
+| 291 | 120 | Simone F |
+| 292 | 120 | Elizabeth Cornelius |
+| 293 | 120 | Charity Hauser |
+| 294 | 120 | Happy |
+| 295 | 120 | Kevin Mccoy |
+| 296 | 120 | Carlos J Blas |
 | 297 | 119 | Perii Reynoso |
 | 298 | 118 | Ceci |
 | 299 | 117 | Marge Cromer |
@@ -310,60 +310,60 @@
 | 302 | 113 | Sherri E Woods Hess |
 | 303 | 112 | Cindy Scott |
 | 304 | 112 | Traci Abern |
-| 305 | 111 | Nikki Hatch |
-| 306 | 111 | Bianca Woodruff |
+| 305 | 111 | Bianca Woodruff |
+| 306 | 111 | Nikki Hatch |
 | 307 | 111 | Charles E Mccardell |
 | 308 | 110 | Nichole Wilson |
 | 309 | 110 | Zappy Liney |
-| 310 | 109 | Kawana Nesbitt |
-| 311 | 109 | Cathy Tippett |
-| 312 | 109 | Kevin Patrick |
-| 313 | 108 | Meagan Grimmett Washburn |
+| 310 | 109 | Kevin Patrick |
+| 311 | 109 | Gloria May Shook |
+| 312 | 109 | Cathy Tippett |
+| 313 | 109 | Kawana Nesbitt |
 | 314 | 108 | Rachel Nilles |
-| 315 | 107 | Michelle M Braley |
+| 315 | 108 | Meagan Grimmett Washburn |
 | 316 | 107 | Carole Brown |
-| 317 | 107 | LittleHippoEars |
-| 318 | 107 | Angeleye A James |
-| 319 | 107 | Gloria May Shook |
-| 320 | 106 | Anthony Swift |
-| 321 | 106 | Sara Perkins |
-| 322 | 105 | Tamtam |
+| 317 | 107 | Michelle M Braley |
+| 318 | 107 | LittleHippoEars |
+| 319 | 107 | Angeleye A James |
+| 320 | 106 | Sara Perkins |
+| 321 | 106 | Anthony Swift |
+| 322 | 105 | Erica South |
 | 323 | 105 | Saucy Wrecker |
-| 324 | 105 | Erica South |
+| 324 | 105 | Tamtam |
 | 325 | 104 | Reign Hustler |
 | 326 | 104 | Roe Sarmiento |
 | 327 | 104 | MegaPooh |
 | 328 | 103 | Elizabeth Kline |
-| 329 | 102 | Alissa Ary |
-| 330 | 102 | Tammy Roth |
-| 331 | 101 | Cassandra Milner |
-| 332 | 101 | Jef Wassom |
-| 333 | 100 | Thomas Tyrone |
-| 334 | 100 | Katie Jones |
+| 329 | 102 | Tammy Roth |
+| 330 | 102 | Alissa Ary |
+| 331 | 101 | Jef Wassom |
+| 332 | 101 | Cassandra Milner |
+| 333 | 100 | Katie Jones |
+| 334 | 100 | Thomas Tyrone |
 | 335 | 100 | Leticia Tillman |
-| 336 | 100 | Ber |
-| 337 | 100 | Hector |
-| 338 | 100 | August Christy Lathrop |
-| 339 | 99 | Jennifer Vitro |
-| 340 | 99 | Melissa Abbott |
-| 341 | 99 | Gabrielle Rivera |
+| 336 | 100 | Hector |
+| 337 | 100 | August Christy Lathrop |
+| 338 | 100 | Ber |
+| 339 | 99 | Gabrielle Rivera |
+| 340 | 99 | Jennifer Vitro |
+| 341 | 99 | Melissa Abbott |
 | 342 | 98 | Norma Ortiz |
 | 343 | 98 | Justin McCray |
 | 344 | 97 | Boldy Fitclear |
-| 345 | 97 | Abby |
-| 346 | 97 | Jennifer McClure |
-| 347 | 97 | Tracy Tokarz |
+| 345 | 97 | Tracy Tokarz |
+| 346 | 97 | Abby |
+| 347 | 97 | Jennifer McClure |
 | 348 | 96 | Mary Carriere |
-| 349 | 96 | Maria Ward |
-| 350 | 96 | Breezy |
-| 351 | 95 | Mike Mordhorst |
-| 352 | 95 | Wacky Holder |
-| 353 | 94 | Nova Nova |
-| 354 | 94 | Paige Lynette Sohl |
-| 355 | 94 | Mandy Van Laningham Bishop |
-| 356 | 93 | Lively Curve |
-| 357 | 93 | Mataya |
-| 358 | 93 | Connie Breeden |
+| 349 | 96 | Breezy |
+| 350 | 96 | Maria Ward |
+| 351 | 95 | Wacky Holder |
+| 352 | 95 | Mike Mordhorst |
+| 353 | 94 | Paige Lynette Sohl |
+| 354 | 94 | Mandy Van Laningham Bishop |
+| 355 | 94 | Nova Nova |
+| 356 | 93 | Mataya |
+| 357 | 93 | Connie Breeden |
+| 358 | 93 | Lively Curve |
 | 359 | 93 | Paula Haskins |
 | 360 | 92 | Raine |
 | 361 | 92 | Thy Bui |

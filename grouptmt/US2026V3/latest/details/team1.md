@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 18:16:39 UTC
+# Standings for team1 as of 2026-06-06 18:17:18 UTC
 
 **Total Participants:** 1098
 
@@ -97,8 +97,8 @@
 | 89 | 383 | Eric Mcgaughy |
 | 90 | 382 | Gael Quintana |
 | 91 | 377 | AF Cruz |
-| 92 | 373 | Catara Renae Oliver |
-| 93 | 371 | Kimberly Hernandez |
+| 92 | 375 | Kimberly Hernandez |
+| 93 | 373 | Catara Renae Oliver |
 | 94 | 370 | Lashawn Wallace |
 | 95 | 365 | Sarah Marie |
 | 96 | 363 | Voice |
