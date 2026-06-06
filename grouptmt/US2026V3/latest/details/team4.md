@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 12:02:16 UTC
+# Standings for team4 as of 2026-06-06 12:02:37 UTC
 
 **Total Participants:** 952
 
@@ -20,7 +20,7 @@
 | 12 | 3059 | delilahbelle |
 | 13 | 2998 | Tyra Brooke Everman Forest |
 | 14 | 2931 | Irene Arreguin |
-| 15 | 2822 | Jackie Lucas |
+| 15 | 2922 | Jackie Lucas |
 | 16 | 2497 | Lisa Cullum |
 | 17 | 2446 | Senor Moppy |
 | 18 | 2444 | Daring Ziggy |
@@ -335,8 +335,8 @@
 | 327 | 64 | Melika Zeheb |
 | 328 | 63 | Ana Ruiz |
 | 329 | 63 | Brenda Gustamantes |
-| 330 | 63 | Ajohnna Frazee |
-| 331 | 63 | Brenda Mueller |
+| 330 | 63 | Brenda Mueller |
+| 331 | 63 | Ajohnna Frazee |
 | 332 | 63 | Blockcrusher |
 | 333 | 62 | Tiggerjake |
 | 334 | 62 | medicjessi |
@@ -396,9 +396,9 @@
 | 388 | 52 | Jj Johnson |
 | 389 | 52 | Pepone Pepe |
 | 390 | 52 | shawna |
-| 391 | 51 | JustLessie |
+| 391 | 51 | YenSid |
 | 392 | 51 | Amanda Snow |
-| 393 | 51 | YenSid |
+| 393 | 51 | JustLessie |
 | 394 | 51 | Vergie Michael |
 | 395 | 51 | Michellee Lewis |
 | 396 | 51 | Brandi Sauer |
@@ -424,14 +424,14 @@
 | 416 | 50 | Anna Ryan |
 | 417 | 50 | Cheeky Climber |
 | 418 | 50 | Edward White |
-| 419 | 50 | Snappy Fitzone |
-| 420 | 50 | Sassy Column |
-| 421 | 50 | Susan Stofberg Beltran |
-| 422 | 50 | Alicia Cook |
-| 423 | 49 | Erica Armstrong Baz |
-| 424 | 49 | Karen Riexinger |
-| 425 | 49 | Hasty Dropzone |
-| 426 | 49 | EpicWizard |
+| 419 | 50 | Sassy Column |
+| 420 | 50 | Snappy Fitzone |
+| 421 | 50 | Hasty Dropzone |
+| 422 | 50 | Susan Stofberg Beltran |
+| 423 | 50 | Alicia Cook |
+| 424 | 49 | Erica Armstrong Baz |
+| 425 | 49 | EpicWizard |
+| 426 | 49 | Karen Riexinger |
 | 427 | 49 | Destiny Starr LeValdo |
 | 428 | 49 | smarty |
 | 429 | 49 | Loyalty83 |
@@ -455,11 +455,11 @@
 | 447 | 46 | Giggy Blockpiece |
 | 448 | 46 | Jacqueline Jackii Ramos |
 | 449 | 46 | jaz |
-| 450 | 46 | Волна Бог |
+| 450 | 46 | Tamika Ashli Bonner |
 | 451 | 46 | Esmond Johnson IV |
-| 452 | 46 | Tamika Ashli Bonner |
-| 453 | 45 | Scrumptious |
-| 454 | 45 | Denise Wilson |
+| 452 | 46 | Волна Бог |
+| 453 | 45 | Denise Wilson |
+| 454 | 45 | Scrumptious |
 | 455 | 45 | Giggy Risegrid |
 | 456 | 45 | Danielle Mitchell |
 | 457 | 45 | Becky Bernazal |
@@ -494,8 +494,8 @@
 | 486 | 42 | Happy Shatterfit |
 | 487 | 42 | Stacy Brown |
 | 488 | 42 | Cail |
-| 489 | 42 | Danielle Porter |
-| 490 | 42 | Jeni |
+| 489 | 42 | Jeni |
+| 490 | 42 | Danielle Porter |
 | 491 | 42 | Mrs |
 | 492 | 41 | Lord Solrac |
 | 493 | 41 | Solace Grace |
@@ -809,59 +809,59 @@
 | 801 | 15 | Tana-Marie Lynn McCarty-Rolf |
 | 802 | 15 | Sherry Mooney |
 | 803 | 15 | Mandi Rexroat |
-| 804 | 15 | Twisty Gridclear |
-| 805 | 15 | babygirlw |
-| 806 | 15 | Hasty Grabber |
-| 807 | 15 | Nerdy Glider |
-| 808 | 15 | Jennifer Evans Elliott |
-| 809 | 15 | Wacky Clusterer |
-| 810 | 15 | Christina Barry |
-| 811 | 15 | Donna Bush |
-| 812 | 15 | John Wertz |
-| 813 | 15 | Jennifer Terrill |
-| 814 | 15 | Manolo Canety |
-| 815 | 15 | Britney Kitora |
-| 816 | 14 | Playful Raccoon |
-| 817 | 14 | Dena Lynn Rogers |
-| 818 | 14 | Dolores Falco |
-| 819 | 14 | Becca Milliron |
+| 804 | 15 | babygirlw |
+| 805 | 15 | Hasty Grabber |
+| 806 | 15 | Nerdy Glider |
+| 807 | 15 | Jennifer Evans Elliott |
+| 808 | 15 | Wacky Clusterer |
+| 809 | 15 | Christina Barry |
+| 810 | 15 | Donna Bush |
+| 811 | 15 | John Wertz |
+| 812 | 15 | Twisty Gridclear |
+| 813 | 15 | Manolo Canety |
+| 814 | 15 | Britney Kitora |
+| 815 | 15 | Jennifer Terrill |
+| 816 | 14 | Becca Milliron |
+| 817 | 14 | Playful Raccoon |
+| 818 | 14 | Dena Lynn Rogers |
+| 819 | 14 | Dolores Falco |
 | 820 | 14 | moonman33 |
-| 821 | 14 | Nicole Gilmore |
-| 822 | 14 | Kiaralis Ashley Hancock |
-| 823 | 14 | Ashley McGeehan |
-| 824 | 14 | Jazzy Rollout |
-| 825 | 14 | Luunii |
-| 826 | 14 | JoJo Hutson |
-| 827 | 14 | Marina |
-| 828 | 13 | Gma420 |
-| 829 | 13 | Jaison Horton |
-| 830 | 13 | Jackie Russo-Edens |
-| 831 | 12 | McScrubby |
-| 832 | 12 | Baby cat |
-| 833 | 12 | Diqthot |
-| 834 | 12 | Jace McCullough |
-| 835 | 12 | Fancy Riser |
-| 836 | 12 | Brendan Craven |
-| 837 | 12 | Scott Baum |
-| 838 | 12 | Angela Correa |
-| 839 | 12 | Shelly Jackson |
-| 840 | 12 | Slinky Snapfit |
-| 841 | 12 | Rebecca Renaud |
-| 842 | 12 | Peterson Cottontail |
-| 843 | 12 | ESPERANTU |
-| 844 | 12 | Mighty Spinfit |
-| 845 | 12 | Tatiyana Hockett |
-| 846 | 12 | Theo Stamps |
-| 847 | 11 | Ashie |
-| 848 | 11 | Wynisha Johnson |
-| 849 | 11 | Mystica |
-| 850 | 11 | Amowe |
-| 851 | 11 | Cas Gio |
-| 852 | 11 | Teresa Lescinskas |
+| 821 | 14 | Gellix |
+| 822 | 14 | Nicole Gilmore |
+| 823 | 14 | Kiaralis Ashley Hancock |
+| 824 | 14 | Ashley McGeehan |
+| 825 | 14 | Jazzy Rollout |
+| 826 | 14 | Luunii |
+| 827 | 14 | JoJo Hutson |
+| 828 | 14 | Marina |
+| 829 | 13 | Gma420 |
+| 830 | 13 | Jaison Horton |
+| 831 | 13 | Jackie Russo-Edens |
+| 832 | 12 | McScrubby |
+| 833 | 12 | Baby cat |
+| 834 | 12 | Diqthot |
+| 835 | 12 | Jace McCullough |
+| 836 | 12 | Fancy Riser |
+| 837 | 12 | Brendan Craven |
+| 838 | 12 | Scott Baum |
+| 839 | 12 | Angela Correa |
+| 840 | 12 | Shelly Jackson |
+| 841 | 12 | Slinky Snapfit |
+| 842 | 12 | Rebecca Renaud |
+| 843 | 12 | Peterson Cottontail |
+| 844 | 12 | ESPERANTU |
+| 845 | 12 | Mighty Spinfit |
+| 846 | 12 | Tatiyana Hockett |
+| 847 | 12 | Theo Stamps |
+| 848 | 11 | Ashie |
+| 849 | 11 | Wynisha Johnson |
+| 850 | 11 | Mystica |
+| 851 | 11 | Amowe |
+| 852 | 11 | Cas Gio |
 | 853 | 11 | beTrue76 |
-| 854 | 11 | EKM |
-| 855 | 11 | OFOZO |
-| 856 | 11 | Gellix |
+| 854 | 11 | Teresa Lescinskas |
+| 855 | 11 | EKM |
+| 856 | 11 | OFOZO |
 | 857 | 11 | Nessa Smith |
 | 858 | 10 | Sherri Lorent |
 | 859 | 10 | Monique Anne Edwards |

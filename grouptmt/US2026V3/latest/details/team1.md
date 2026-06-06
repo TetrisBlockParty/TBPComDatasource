@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 12:02:16 UTC
+# Standings for team1 as of 2026-06-06 12:02:37 UTC
 
 **Total Participants:** 972
 
@@ -12,8 +12,8 @@
 | 4 | 4901 | Dyane Leah Ware |
 | 5 | 4495 | Tracy Cohen |
 | 6 | 4339 | Carrie English |
-| 7 | 3690 | Cozy Edge |
-| 8 | 3611 | Timothy Robert |
+| 7 | 3811 | Timothy Robert |
+| 8 | 3690 | Cozy Edge |
 | 9 | 3411 | Charlie Roehm |
 | 10 | 3071 | Plucky Swipe |
 | 11 | 3039 | Chummy Combo |
