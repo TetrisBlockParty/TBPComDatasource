@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 19:46:39 UTC
+# Standings for team2 as of 2026-06-06 19:47:17 UTC
 
 **Total Participants:** 1349
 
@@ -71,9 +71,9 @@
 | 63 | 749 | Marquita Toliver |
 | 64 | 744 | Deborah Boyce Minor |
 | 65 | 731 | Amber Salazar |
-| 66 | 711 | Hoppy Rotate |
-| 67 | 709 | Andre Love |
-| 68 | 705 | Jazzy Faller |
+| 66 | 716 | Jazzy Faller |
+| 67 | 711 | Hoppy Rotate |
+| 68 | 709 | Andre Love |
 | 69 | 702 | Charley Bedford |
 | 70 | 701 | Sarah Griffey |
 | 71 | 700 | Denise Potter |
@@ -236,8 +236,8 @@
 | 228 | 168 | Missy Renia |
 | 229 | 168 | Spicy Risegrid |
 | 230 | 168 | Danielle Lyons |
-| 231 | 166 | Norma Ortiz |
-| 232 | 165 | Victoria Pale |
+| 231 | 168 | Victoria Pale |
+| 232 | 166 | Norma Ortiz |
 | 233 | 164 | Jerry L Morales |
 | 234 | 164 | Cara Rivera |
 | 235 | 163 | Zany Cascader |
@@ -540,90 +540,90 @@
 | 532 | 64 | Matt Wylie |
 | 533 | 64 | Martha Lynn Wiggins |
 | 534 | 63 | Amber Carpenter |
-| 535 | 63 | Julibeth Wells |
-| 536 | 63 | Queen |
-| 537 | 63 | Nicole Ashbaugh |
-| 538 | 63 | MarioKarasovic |
-| 539 | 63 | Lacie B |
-| 540 | 63 | Kimmi Blake |
-| 541 | 63 | Kiersty Redder |
-| 542 | 62 | Lively Twisterfit |
-| 543 | 62 | Swanky Fitline |
-| 544 | 62 | Amy Walker |
-| 545 | 62 | Goldie |
-| 546 | 62 | Holly Huval |
-| 547 | 62 | Roger Kirksey |
-| 548 | 62 | Erin Lemanski |
-| 549 | 62 | meg |
-| 550 | 62 | Amber Simonton |
+| 535 | 63 | Lacie B |
+| 536 | 63 | MarioKarasovic |
+| 537 | 63 | Kimmi Blake |
+| 538 | 63 | Queen |
+| 539 | 63 | Nicole Ashbaugh |
+| 540 | 63 | Kiersty Redder |
+| 541 | 63 | Julibeth Wells |
+| 542 | 62 | Amy Walker |
+| 543 | 62 | Goldie |
+| 544 | 62 | David Skelton |
+| 545 | 62 | Erin Lemanski |
+| 546 | 62 | Lively Twisterfit |
+| 547 | 62 | Holly Huval |
+| 548 | 62 | Amber Simonton |
+| 549 | 62 | Swanky Fitline |
+| 550 | 62 | meg |
 | 551 | 62 | Staci Walker |
-| 552 | 62 | David Skelton |
-| 553 | 61 | Damion Morrison |
-| 554 | 61 | Jessica Perkins |
+| 552 | 62 | Roger Kirksey |
+| 553 | 61 | Bubbly Dash |
+| 554 | 61 | Damion Morrison |
 | 555 | 61 | Dame Smith |
-| 556 | 61 | Bubbly Dash |
-| 557 | 61 | Glitzy Matchclear |
-| 558 | 60 | Rebekah Holland |
-| 559 | 60 | Yari |
+| 556 | 61 | Glitzy Matchclear |
+| 557 | 61 | Jessica Perkins |
+| 558 | 60 | Julie Alexander Sykes |
+| 559 | 60 | Katrien |
 | 560 | 60 | Dapper Riser |
-| 561 | 60 | Tony Medina |
-| 562 | 60 | Donutz |
-| 563 | 60 | Emily Carns |
-| 564 | 60 | Jamin |
-| 565 | 60 | Julie Alexander Sykes |
-| 566 | 60 | Nikki Grant |
-| 567 | 60 | Snippy Shifter |
-| 568 | 60 | Adam Latin |
-| 569 | 60 | Tonya Greger |
-| 570 | 60 | ShiverMeSplinter |
-| 571 | 60 | Sunny Tiltbuilder |
-| 572 | 60 | Katrien |
+| 561 | 60 | Nikki Grant |
+| 562 | 60 | Yari |
+| 563 | 60 | Donutz |
+| 564 | 60 | Tony Medina |
+| 565 | 60 | Jamin |
+| 566 | 60 | Emily Carns |
+| 567 | 60 | Rebekah Holland |
+| 568 | 60 | Sunny Tiltbuilder |
+| 569 | 60 | Cheery Tilefall |
+| 570 | 60 | Speedy Gridder |
+| 571 | 60 | Tonya Greger |
+| 572 | 60 | Adam Latin |
 | 573 | 60 | Camilo Moreno |
-| 574 | 60 | Speedy Gridder |
-| 575 | 59 | LaicoosBargains Ln |
-| 576 | 59 | Sillyk |
-| 577 | 59 | Leigh Wilkerson |
-| 578 | 59 | Elliott Mikila |
-| 579 | 59 | April Addis |
-| 580 | 59 | Sandra Rotton Bragg |
-| 581 | 59 | Lisa Allen Frisk |
-| 582 | 59 | Michael Delozier |
-| 583 | 59 | WestieMom |
-| 584 | 58 | Sassy Patternblock |
-| 585 | 58 | Jolly Builderpiece |
-| 586 | 58 | Chelsea Frye |
-| 587 | 58 | Missy Savage-Justice |
+| 574 | 60 | ShiverMeSplinter |
+| 575 | 60 | Snippy Shifter |
+| 576 | 59 | Leigh Wilkerson |
+| 577 | 59 | April Addis |
+| 578 | 59 | WestieMom |
+| 579 | 59 | Elliott Mikila |
+| 580 | 59 | Sillyk |
+| 581 | 59 | LaicoosBargains Ln |
+| 582 | 59 | Sandra Rotton Bragg |
+| 583 | 59 | Lisa Allen Frisk |
+| 584 | 59 | Michael Delozier |
+| 585 | 58 | Sassy Patternblock |
+| 586 | 58 | Missy Savage-Justice |
+| 587 | 58 | Jolly Builderpiece |
 | 588 | 58 | Slinky Winder |
-| 589 | 57 | Funky Blockmatch |
+| 589 | 58 | Chelsea Frye |
 | 590 | 57 | Kris Dusza Dodus |
-| 591 | 57 | Poppy Strikerbuilder |
-| 592 | 57 | Jason P. Schwartz |
-| 593 | 56 | Joshua Dye |
-| 594 | 56 | Natalie M. Arredondo |
-| 595 | 56 | murd3rmous3 |
-| 596 | 56 | Mandy |
-| 597 | 56 | Gina Leal |
-| 598 | 56 | Mouh Ity |
-| 599 | 56 | Monee Stronger |
-| 600 | 56 | Layla Petroff |
-| 601 | 56 | Zappy Pivotfall |
-| 602 | 56 | Joyce Galloway |
-| 603 | 56 | Barb Kiser |
-| 604 | 55 | PrissyPris |
-| 605 | 55 | Allison Peterson |
-| 606 | 55 | Wendy Durrence Jones |
-| 607 | 55 | Buddy |
-| 608 | 55 | Jessica Spivey Cooper |
-| 609 | 55 | Kayley |
-| 610 | 55 | Misty McElroy |
-| 611 | 55 | Jessica Bowman |
+| 591 | 57 | Jason P. Schwartz |
+| 592 | 57 | Funky Blockmatch |
+| 593 | 57 | Poppy Strikerbuilder |
+| 594 | 56 | Joshua Dye |
+| 595 | 56 | Natalie M. Arredondo |
+| 596 | 56 | murd3rmous3 |
+| 597 | 56 | Mandy |
+| 598 | 56 | Gina Leal |
+| 599 | 56 | Mouh Ity |
+| 600 | 56 | Monee Stronger |
+| 601 | 56 | Layla Petroff |
+| 602 | 56 | Zappy Pivotfall |
+| 603 | 56 | Joyce Galloway |
+| 604 | 56 | Barb Kiser |
+| 605 | 55 | Jessica Spivey Cooper |
+| 606 | 55 | Allison Peterson |
+| 607 | 55 | Wendy Durrence Jones |
+| 608 | 55 | BB |
+| 609 | 55 | Buddy |
+| 610 | 55 | Kayley |
+| 611 | 55 | Misty McElroy |
 | 612 | 55 | Muffin Popper |
-| 613 | 55 | Beverly-Jo Peterson |
-| 614 | 55 | BB |
-| 615 | 54 | Britt |
-| 616 | 54 | Cheery Tilefall |
-| 617 | 54 | Denita Kaherl |
-| 618 | 54 | Cool Patternbuilder |
+| 613 | 55 | Jessica Bowman |
+| 614 | 55 | Beverly-Jo Peterson |
+| 615 | 55 | PrissyPris |
+| 616 | 54 | Britt |
+| 617 | 54 | Cool Patternbuilder |
+| 618 | 54 | Denita Kaherl |
 | 619 | 54 | Amber Wolf |
 | 620 | 54 | Cherica Taylor |
 | 621 | 54 | Ssirkus |
