@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 20:36:39 UTC
+# Standings for team1 as of 2026-06-06 20:37:16 UTC
 
 **Total Participants:** 1150
 
@@ -19,7 +19,7 @@
 | 11 | 4511 | Timothy Robert |
 | 12 | 4339 | Carrie English |
 | 13 | 3411 | Charlie Roehm |
-| 14 | 3084 | Debbie Carswell |
+| 14 | 3102 | Debbie Carswell |
 | 15 | 3039 | Chummy Combo |
 | 16 | 3003 | Cassidy Butler |
 | 17 | 2596 | Pdubbl3 |
@@ -83,9 +83,9 @@
 | 75 | 485 | PandaPrincess |
 | 76 | 482 | Cj Gorman |
 | 77 | 477 | Chenell Gillard |
-| 78 | 474 | Keeta Chickswit Scott |
-| 79 | 471 | D'Andra Stewart |
-| 80 | 467 | Angela R Wilson |
+| 78 | 476 | Angela R Wilson |
+| 79 | 474 | Keeta Chickswit Scott |
+| 80 | 471 | D'Andra Stewart |
 | 81 | 454 | DaVonte' Cretter |
 | 82 | 448 | Chirpy Corner |
 | 83 | 448 | Ottison Dianna |
@@ -210,41 +210,41 @@
 | 202 | 162 | JaClanDiah |
 | 203 | 161 | Dawn L Washington-Feuquay |
 | 204 | 160 | Carolyn Smith |
-| 205 | 160 | Jamie Willis |
+| 205 | 160 | Spicy Risepiece |
 | 206 | 160 | Sara Meri |
-| 207 | 160 | DaGuy |
-| 208 | 160 | Spicy Risepiece |
-| 209 | 159 | Fina McKinnis |
-| 210 | 157 | Kimberly Linares Hernandez |
+| 207 | 160 | Kaleisha Smith |
+| 208 | 160 | Jamie Willis |
+| 209 | 160 | DaGuy |
+| 210 | 159 | Fina McKinnis |
 | 211 | 157 | Richard Flex |
-| 212 | 156 | Jessica Russell |
-| 213 | 156 | Cheeky Pop |
-| 214 | 156 | Cheeky Twistpiece |
-| 215 | 153 | Rackemwillie34 |
-| 216 | 152 | Jolly Tilefall |
+| 212 | 157 | Kimberly Linares Hernandez |
+| 213 | 156 | Cheeky Twistpiece |
+| 214 | 156 | Cheeky Pop |
+| 215 | 156 | Jessica Russell |
+| 216 | 153 | Rackemwillie34 |
 | 217 | 152 | Mikayla |
-| 218 | 149 | Lively Riserpiece |
-| 219 | 147 | Melissa D. M. Hornsby |
-| 220 | 147 | Sammie Walker |
+| 218 | 152 | Jolly Tilefall |
+| 219 | 149 | Lively Riserpiece |
+| 220 | 147 | Melissa D. M. Hornsby |
 | 221 | 147 | MACHETEEDDIE513 |
-| 222 | 146 | Stephen Providenti |
-| 223 | 146 | BlackQueen105 |
+| 222 | 147 | Sammie Walker |
+| 223 | 146 | Stephen Providenti |
 | 224 | 146 | Keke Ferguson |
-| 225 | 145 | Latisha Fairley |
-| 226 | 144 | TBABYJ |
-| 227 | 143 | BULLSEYE |
-| 228 | 141 | Shalena Marie Humphrey |
-| 229 | 140 | Antoinette Jones |
-| 230 | 140 | Ann Chung |
-| 231 | 138 | Calvin Green |
-| 232 | 137 | Tay |
-| 233 | 136 | Penee Wiggins |
-| 234 | 135 | Sean White |
-| 235 | 131 | Matthieu Pistone |
-| 236 | 131 | Koi |
-| 237 | 131 | Rachel Zimmerman |
-| 238 | 130 | Dion Gray |
-| 239 | 130 | Kaleisha Smith |
+| 225 | 146 | BlackQueen105 |
+| 226 | 145 | Latisha Fairley |
+| 227 | 144 | TBABYJ |
+| 228 | 143 | BULLSEYE |
+| 229 | 141 | Shalena Marie Humphrey |
+| 230 | 140 | Antoinette Jones |
+| 231 | 140 | Ann Chung |
+| 232 | 138 | Calvin Green |
+| 233 | 137 | Tay |
+| 234 | 136 | Penee Wiggins |
+| 235 | 135 | Sean White |
+| 236 | 131 | Matthieu Pistone |
+| 237 | 131 | Koi |
+| 238 | 131 | Rachel Zimmerman |
+| 239 | 130 | Dion Gray |
 | 240 | 130 | Jessica Davis |
 | 241 | 129 | Tremaine Hiler |
 | 242 | 129 | Lisa Fletcher |
@@ -256,8 +256,8 @@
 | 248 | 125 | Brittanie Wardlow |
 | 249 | 125 | LaTonya Myers |
 | 250 | 125 | LaShaun Stinson |
-| 251 | 124 | Courtney Cicoria |
-| 252 | 124 | Tipsy Linkroll |
+| 251 | 124 | Tipsy Linkroll |
+| 252 | 124 | Courtney Cicoria |
 | 253 | 123 | Cauiasia DeJ'ae |
 | 254 | 123 | Slinky Snapbuilder |
 | 255 | 123 | kitten |
