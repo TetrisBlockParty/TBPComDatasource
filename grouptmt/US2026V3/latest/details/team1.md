@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 10:30:16 UTC
+# Standings for team1 as of 2026-06-06 10:30:38 UTC
 
 **Total Participants:** 957
 
@@ -46,8 +46,8 @@
 | 38 | 715 | Chill Clusterer |
 | 39 | 694 | Charnay Peacock |
 | 40 | 670 | Jaida King |
-| 41 | 605 | JoJo |
-| 42 | 601 | Ashley Espeut |
+| 41 | 623 | Ashley Espeut |
+| 42 | 605 | JoJo |
 | 43 | 580 | Janet Cooke |
 | 44 | 540 | Kellie Hall |
 | 45 | 511 | Dizzy Dropper |
@@ -147,24 +147,24 @@
 | 139 | 169 | Asha Langford |
 | 140 | 166 | Nobles Brandon |
 | 141 | 166 | Tarnisha Neicy Jones |
-| 142 | 160 | Sara Meri |
-| 143 | 160 | DaGuy |
-| 144 | 160 | Zippy Lifter |
-| 145 | 158 | Tina Mitchell |
+| 142 | 162 | Moomoo |
+| 143 | 160 | Sara Meri |
+| 144 | 160 | DaGuy |
+| 145 | 160 | Zippy Lifter |
 | 146 | 158 | W.A. Simpson |
-| 147 | 156 | Jessica Russell |
-| 148 | 156 | Anthony Washington |
-| 149 | 155 | Jawaun Daniels |
-| 150 | 152 | Moomoo |
+| 147 | 158 | Tina Mitchell |
+| 148 | 156 | Jessica Russell |
+| 149 | 156 | Anthony Washington |
+| 150 | 155 | Jawaun Daniels |
 | 151 | 147 | MACHETEEDDIE513 |
 | 152 | 147 | David Fuentes |
 | 153 | 146 | Marcheta Cervantez |
 | 154 | 146 | BlackQueen105 |
-| 155 | 140 | Ann Chung |
-| 156 | 140 | Antoinette Jones |
+| 155 | 140 | Antoinette Jones |
+| 156 | 140 | Ann Chung |
 | 157 | 139 | Mafio SO |
-| 158 | 138 | Lashaunda |
-| 159 | 138 | JaClanDiah |
+| 158 | 138 | JaClanDiah |
+| 159 | 138 | Lashaunda |
 | 160 | 135 | Dawn L Washington-Feuquay |
 | 161 | 135 | Sean White |
 | 162 | 135 | Amber Wilson |
@@ -172,10 +172,10 @@
 | 164 | 133 | Byron Mario Cawthon |
 | 165 | 132 | Jolly Tilefall |
 | 166 | 131 | TBABYJ |
-| 167 | 130 | Dion Gray |
+| 167 | 130 | Emily Wright |
 | 168 | 130 | Rolanda Williams |
 | 169 | 130 | Jessica Davis |
-| 170 | 130 | Emily Wright |
+| 170 | 130 | Dion Gray |
 | 171 | 127 | IThinkNot |
 | 172 | 126 | Stephen Providenti |
 | 173 | 126 | Tremaine Hiler |
@@ -284,16 +284,16 @@
 | 276 | 75 | Smiley Clearpiece |
 | 277 | 74 | ♈️ Ariesbaby |
 | 278 | 74 | Angela Brown Babin |
-| 279 | 73 | HarleyJane |
-| 280 | 73 | Slinky Snapbuilder |
-| 281 | 72 | Chummy Frame |
-| 282 | 72 | Tosha Michelle |
-| 283 | 72 | Lauraly |
-| 284 | 71 | Elaine Pauley |
-| 285 | 71 | HBTone |
-| 286 | 71 | Erin Sabol |
-| 287 | 71 | Kristie |
-| 288 | 70 | Tyiesha Pie Farmer |
+| 279 | 74 | Tyiesha Pie Farmer |
+| 280 | 73 | HarleyJane |
+| 281 | 73 | Slinky Snapbuilder |
+| 282 | 72 | Chummy Frame |
+| 283 | 72 | Tosha Michelle |
+| 284 | 72 | Lauraly |
+| 285 | 71 | Elaine Pauley |
+| 286 | 71 | HBTone |
+| 287 | 71 | Erin Sabol |
+| 288 | 71 | Kristie |
 | 289 | 70 | Trina Greenwood |
 | 290 | 70 | Gerold Folk Haddock |
 | 291 | 70 | $hort Dog |
