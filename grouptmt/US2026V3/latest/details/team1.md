@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 08:48:39 UTC
+# Standings for team1 as of 2026-06-06 08:49:16 UTC
 
 **Total Participants:** 933
 
@@ -56,8 +56,8 @@
 | 48 | 493 | Eartha Brown |
 | 49 | 482 | Cj Gorman |
 | 50 | 469 | Sanjuro |
-| 51 | 415 | Corey Cawthon |
-| 52 | 414 | Keeta Chickswit Scott |
+| 51 | 424 | Keeta Chickswit Scott |
+| 52 | 415 | Corey Cawthon |
 | 53 | 411 | Ivana Schmidt |
 | 54 | 407 | KenpachisGirl |
 | 55 | 401 | Lisa Müller |
@@ -143,9 +143,9 @@
 | 135 | 166 | Tarnisha Neicy Jones |
 | 136 | 166 | Nobles Brandon |
 | 137 | 162 | Andre Sanon |
-| 138 | 160 | DaGuy |
+| 138 | 160 | Sara Meri |
 | 139 | 160 | Zippy Lifter |
-| 140 | 160 | Sara Meri |
+| 140 | 160 | DaGuy |
 | 141 | 158 | W.A. Simpson |
 | 142 | 158 | Tina Mitchell |
 | 143 | 156 | Jessica Russell |
@@ -155,12 +155,12 @@
 | 147 | 147 | David Fuentes |
 | 148 | 147 | MACHETEEDDIE513 |
 | 149 | 146 | Marcheta Cervantez |
-| 150 | 140 | Ann Chung |
+| 150 | 146 | BlackQueen105 |
 | 151 | 140 | Felicia Cain |
-| 152 | 139 | Mafio SO |
-| 153 | 138 | Lashaunda |
-| 154 | 138 | JaClanDiah |
-| 155 | 137 | BlackQueen105 |
+| 152 | 140 | Ann Chung |
+| 153 | 139 | Mafio SO |
+| 154 | 138 | Lashaunda |
+| 155 | 138 | JaClanDiah |
 | 156 | 135 | Sean White |
 | 157 | 135 | Amber Wilson |
 | 158 | 135 | Dawn L Washington-Feuquay |
@@ -839,7 +839,7 @@
 | 831 | 10 | OneBuke FollowMe |
 | 832 | 10 | Anthony D Holmes |
 | 833 | 10 | POOH |
-| 834 | 10 | Damien Fonseca |
+| 834 | 10 | Nikiya |
 | 835 | 10 | Shawn Himes |
 | 836 | 10 | Hoppy Rumbler |
 | 837 | 10 | Nope Young |
@@ -847,12 +847,12 @@
 | 839 | 10 | TRUBBLE45 |
 | 840 | 10 | Chill Curvebuilder |
 | 841 | 10 | Tina Criam |
-| 842 | 10 | Megan Payette |
-| 843 | 10 | Daring Linkfall |
-| 844 | 10 | Cornelius Neal |
+| 842 | 10 | Daring Linkfall |
+| 843 | 10 | Cornelius Neal |
+| 844 | 10 | Damien Fonseca |
 | 845 | 10 | Sherri Keys |
 | 846 | 10 | Alisha Dawson Crouch |
-| 847 | 10 | Joseph Vs Cap |
+| 847 | 10 | Missy Myvette |
 | 848 | 10 | Happymama |
 | 849 | 10 | Christian Whittaker |
 | 850 | 10 | Manda Pecora |
@@ -860,37 +860,37 @@
 | 852 | 10 | Andre Simpson |
 | 853 | 10 | Anntionette Sotire |
 | 854 | 10 | Boricua64 |
-| 855 | 10 | Mikemike Zonethree |
+| 855 | 10 | Megan Payette |
 | 856 | 10 | ShayePooh |
 | 857 | 10 | Ashleyy Netchert |
-| 858 | 10 | Missy Myvette |
-| 859 | 10 | Nikiya |
+| 858 | 10 | Mikemike Zonethree |
+| 859 | 10 | Joseph Vs Cap |
 | 860 | 9 | Sherry D Singleton |
 | 861 | 9 | Kortney Adams |
 | 862 | 9 | Tanesha Ga'sFinest Corbett |
-| 863 | 9 | Brika Brika |
+| 863 | 9 | Derald Miller |
 | 864 | 9 | John Lovato |
 | 865 | 9 | Noni |
 | 866 | 9 | Dana |
 | 867 | 9 | Wacky Towerer |
 | 868 | 9 | Mars |
 | 869 | 9 | ummm |
-| 870 | 9 | Derald Miller |
+| 870 | 9 | Clifford Petroske |
 | 871 | 9 | Jasmine Hariston-Estis |
 | 872 | 9 | Robyn Ellis |
-| 873 | 9 | Clifford Petroske |
+| 873 | 9 | Brika Brika |
 | 874 | 9 | Brave Gridmatch |
 | 875 | 8 | Chevonne Huggins |
 | 876 | 8 | Groovy Riseclear |
 | 877 | 8 | Caitlin Michele |
 | 878 | 8 | Ferocity |
 | 879 | 8 | Nicole Coko Thomas |
-| 880 | 8 | Macho Lewis |
-| 881 | 8 | Teresa Bean |
+| 880 | 8 | Teresa Bean |
+| 881 | 8 | Macho Lewis |
 | 882 | 8 | Nerdy Twistline |
 | 883 | 8 | jus_ry |
-| 884 | 8 | Brenda Brogden |
-| 885 | 8 | Rixo Blax |
+| 884 | 8 | Rixo Blax |
+| 885 | 8 | Brenda Brogden |
 | 886 | 8 | Kim Holzmiller |
 | 887 | 8 | Chinkey Overit |
 | 888 | 8 | Teena K Macon |
@@ -908,10 +908,10 @@
 | 900 | 7 | Shane Brucewayne |
 | 901 | 6 | Snippy Breaker |
 | 902 | 6 | Kyshia |
-| 903 | 6 | Wu May |
-| 904 | 6 | Christopher Wallace |
-| 905 | 6 | Desi Guerra |
-| 906 | 6 | S.S |
+| 903 | 6 | Christopher Wallace |
+| 904 | 6 | Wu May |
+| 905 | 6 | S.S |
+| 906 | 6 | Desi Guerra |
 | 907 | 6 | Anthony T. Fults |
 | 908 | 6 | Nikkizz |
 | 909 | 6 | Lucy |
@@ -925,20 +925,20 @@
 | 917 | 5 | Temeshia Brooks Washington |
 | 918 | 5 | Tipsy Builderline |
 | 919 | 5 | VERA DAME |
-| 920 | 5 | Hasty Brickzone |
-| 921 | 5 | Annette DeLoatch Thompson |
-| 922 | 5 | DirtiestofMikes |
-| 923 | 5 | Stephanie Zuniga Tullock |
-| 924 | 5 | Chill Linkroll |
-| 925 | 5 | Derek Beverly |
-| 926 | 5 | Zesty Clearer |
-| 927 | 5 | the guy |
-| 928 | 5 | Rieshelda Marie White |
-| 929 | 5 | Marissa Sweet |
-| 930 | 5 | Tito Divyn |
-| 931 | 5 | Zappy Clearfit |
-| 932 | 5 | Duckey |
-| 933 | 5 | Logan Frost |
+| 920 | 5 | Annette DeLoatch Thompson |
+| 921 | 5 | DirtiestofMikes |
+| 922 | 5 | Stephanie Zuniga Tullock |
+| 923 | 5 | Chill Linkroll |
+| 924 | 5 | Derek Beverly |
+| 925 | 5 | Zesty Clearer |
+| 926 | 5 | the guy |
+| 927 | 5 | Rieshelda Marie White |
+| 928 | 5 | Marissa Sweet |
+| 929 | 5 | Tito Divyn |
+| 930 | 5 | Zappy Clearfit |
+| 931 | 5 | Duckey |
+| 932 | 5 | Logan Frost |
+| 933 | 5 | Hasty Brickzone |
 
 ---
 *Standings created by tournaments datasource generation tool*
