@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 00:40:38 UTC
+# Standings for team1 as of 2026-06-06 00:41:15 UTC
 
 **Total Participants:** 651
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 17500 | Ariel |
-| 2 | 4344 | Dyane Leah Ware |
+| 2 | 4535 | Dyane Leah Ware |
 | 3 | 3511 | Timothy Robert |
 | 4 | 3297 | Charlie Roehm |
 | 5 | 2671 | Tracy Cohen |
@@ -24,7 +24,7 @@
 | 16 | 793 | Epic Snapfall |
 | 17 | 749 | Aviv Zehavi |
 | 18 | 674 | Holly Jolly |
-| 19 | 657 | Brian Bohanon II |
+| 19 | 671 | Brian Bohanon II |
 | 20 | 634 | Charnay Peacock |
 | 21 | 580 | Janet Cooke |
 | 22 | 576 | Ashley Espeut |
@@ -107,13 +107,13 @@
 | 99 | 118 | Hasty Pivoty |
 | 100 | 118 | Tamara N Lee |
 | 101 | 116 | Eartha Brown |
-| 102 | 111 | Lesley Brunkus Cianfaglione |
-| 103 | 111 | Shalena Marie Humphrey |
-| 104 | 111 | Lisa Müller |
-| 105 | 110 | Atlantalindi |
-| 106 | 107 | Rachel Zimmerman |
-| 107 | 107 | TBABYJ |
-| 108 | 105 | David Fuentes |
+| 102 | 112 | David Fuentes |
+| 103 | 111 | Lesley Brunkus Cianfaglione |
+| 104 | 111 | Shalena Marie Humphrey |
+| 105 | 111 | Lisa Müller |
+| 106 | 110 | Atlantalindi |
+| 107 | 107 | Rachel Zimmerman |
+| 108 | 107 | TBABYJ |
 | 109 | 105 | Katrina Ramey |
 | 110 | 104 | Frisky Fall |
 | 111 | 104 | Brittnay Wright |
@@ -636,26 +636,26 @@
 | 628 | 5 | Vernon Hoyt |
 | 629 | 5 | Jasmine Hariston-Estis |
 | 630 | 5 | Andre Sanon |
-| 631 | 5 | pooh |
-| 632 | 5 | Stephanie Zuniga Tullock |
-| 633 | 5 | Derek Beverly |
-| 634 | 5 | Lil T |
-| 635 | 5 | Sara |
-| 636 | 5 | Hasty Brickzone |
-| 637 | 5 | Chill Linkroll |
-| 638 | 5 | Shona ShayShay Jones |
-| 639 | 5 | DirtiestofMikes |
-| 640 | 5 | the guy |
-| 641 | 5 | Shakuria Cortia Burney |
-| 642 | 5 | Jennifer Moore |
-| 643 | 5 | Mommy Frank |
-| 644 | 5 | Tito Divyn |
-| 645 | 5 | Shawn Himes |
-| 646 | 5 | Tamika Fisher |
-| 647 | 5 | Zappy Clearfit |
-| 648 | 5 | Duckey |
-| 649 | 5 | Sheila Burnham |
-| 650 | 5 | Logan Frost |
+| 631 | 5 | Stephanie Zuniga Tullock |
+| 632 | 5 | Derek Beverly |
+| 633 | 5 | Lil T |
+| 634 | 5 | Sara |
+| 635 | 5 | Hasty Brickzone |
+| 636 | 5 | Chill Linkroll |
+| 637 | 5 | Shona ShayShay Jones |
+| 638 | 5 | DirtiestofMikes |
+| 639 | 5 | the guy |
+| 640 | 5 | Shakuria Cortia Burney |
+| 641 | 5 | Jennifer Moore |
+| 642 | 5 | pooh |
+| 643 | 5 | Logan Frost |
+| 644 | 5 | Sheila Burnham |
+| 645 | 5 | Duckey |
+| 646 | 5 | Zappy Clearfit |
+| 647 | 5 | Tamika Fisher |
+| 648 | 5 | Shawn Himes |
+| 649 | 5 | Tito Divyn |
+| 650 | 5 | Mommy Frank |
 | 651 | 5 | Kidgib5 |
 
 ---
