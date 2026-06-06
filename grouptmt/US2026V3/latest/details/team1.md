@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 17:18:40 UTC
+# Standings for team1 as of 2026-06-06 17:19:17 UTC
 
 **Total Participants:** 1081
 
@@ -896,18 +896,18 @@
 | 888 | 17 | Rikki Moran |
 | 889 | 16 | William Vidra |
 | 890 | 16 | Christopher Wallace |
-| 891 | 16 | Lively Strikesnap |
+| 891 | 16 | Krista McNair |
 | 892 | 16 | Symonne 'Monnie' Pierce |
-| 893 | 16 | Krista McNair |
+| 893 | 16 | Lively Strikesnap |
 | 894 | 16 | Dee-Dee Stewart |
 | 895 | 16 | Stacey Kesteloot |
 | 896 | 16 | Tammy Collins |
-| 897 | 15 | Sarah Barnum |
+| 897 | 15 | Cheery Clusterbuilder |
 | 898 | 15 | Haley Bell |
 | 899 | 15 | Hasty Match |
 | 900 | 15 | Laura Long |
-| 901 | 15 | Nedine Ray |
-| 902 | 15 | Cheery Clusterbuilder |
+| 901 | 15 | Sarah Barnum |
+| 902 | 15 | Nedine Ray |
 | 903 | 15 | Shamara Thurston |
 | 904 | 15 | Chasem45 |
 | 905 | 15 | Christian Whittaker |
@@ -916,50 +916,50 @@
 | 908 | 15 | Breezy Bouncer |
 | 909 | 15 | Jonathan Zold |
 | 910 | 15 | Elaine Youmans |
-| 911 | 15 | b |
+| 911 | 15 | MonaSparks |
 | 912 | 15 | Bri Lou |
 | 913 | 15 | Spunky Strikerbuilder |
 | 914 | 15 | Tami Spence |
-| 915 | 15 | S.S |
-| 916 | 15 | Ernie Waters |
-| 917 | 15 | Victor |
+| 915 | 15 | Ernie Waters |
+| 916 | 15 | Lit757 |
+| 917 | 15 | Dede Tate |
 | 918 | 15 | Nicole Freeman |
-| 919 | 15 | MonaSparks |
-| 920 | 15 | Dede Tate |
-| 921 | 15 | Lit757 |
-| 922 | 14 | Kenny 'Tailormade' Boyd |
-| 923 | 14 | Lynn |
-| 924 | 14 | Brittany Cole |
-| 925 | 14 | MoneyMac |
-| 926 | 14 | Zany Pivot |
-| 927 | 14 | Jerrone Epps |
-| 928 | 14 | Dymond |
+| 919 | 15 | Victor |
+| 920 | 15 | b |
+| 921 | 15 | S.S |
+| 922 | 14 | Nichole Horsley-Conn |
+| 923 | 14 | Jazzy |
+| 924 | 14 | MoneyMac |
+| 925 | 14 | Kenny 'Tailormade' Boyd |
+| 926 | 14 | Brittany Cole |
+| 927 | 14 | Lynn |
+| 928 | 14 | Zany Pivot |
 | 929 | 14 | Aaron Hartmann |
-| 930 | 14 | Nerdy Curvetile |
-| 931 | 14 | TBabii24 |
-| 932 | 14 | Nichole Horsley-Conn |
-| 933 | 14 | Jazzy |
-| 934 | 13 | Leah Ingram |
-| 935 | 13 | Emma Adams |
-| 936 | 13 | Hoppy Rumbler |
-| 937 | 13 | Daphne Ceasar |
-| 938 | 13 | Happy Blockpiece |
-| 939 | 13 | Jumpy Striker |
-| 940 | 13 | sunstar |
+| 930 | 14 | Jerrone Epps |
+| 931 | 14 | Dymond |
+| 932 | 14 | TBabii24 |
+| 933 | 14 | Nerdy Curvetile |
+| 934 | 14 | sunstar |
+| 935 | 13 | Daphne Ceasar |
+| 936 | 13 | Happy Blockpiece |
+| 937 | 13 | Leah Ingram |
+| 938 | 13 | Emma Adams |
+| 939 | 13 | Hoppy Rumbler |
+| 940 | 13 | Jumpy Striker |
 | 941 | 13 | PuddenPop |
-| 942 | 12 | Michael Jones |
+| 942 | 12 | BigDawg Lessley |
 | 943 | 12 | Sarah Jones |
 | 944 | 12 | Silly Spinblock |
 | 945 | 12 | Fancy Mover |
 | 946 | 12 | Outspoken Sirchristopher |
 | 947 | 12 | Abdul Malik |
 | 948 | 12 | Mike Hromowyk |
-| 949 | 12 | BigDawg Lessley |
+| 949 | 12 | Michael Jones |
 | 950 | 12 | Joseph Ware Jr. |
 | 951 | 12 | Dora Greer |
 | 952 | 12 | Lillie Blossom Dixon |
-| 953 | 12 | Cameo Tweed |
-| 954 | 12 | BigMike |
+| 953 | 12 | BigMike |
+| 954 | 12 | Cameo Tweed |
 | 955 | 11 | Ray Baker |
 | 956 | 11 | Boldy Zoner |
 | 957 | 11 | Jayson |
@@ -970,8 +970,8 @@
 | 962 | 10 | Yvonne Aggers |
 | 963 | 10 | Boricua64 |
 | 964 | 10 | Anntionette Sotire |
-| 965 | 10 | Manda Pecora |
-| 966 | 10 | Saucy Linkgrid |
+| 965 | 10 | Saucy Linkgrid |
+| 966 | 10 | Manda Pecora |
 | 967 | 10 | Papi |
 | 968 | 10 | Alisha Dawson Crouch |
 | 969 | 10 | Wacky Riserpiece |
