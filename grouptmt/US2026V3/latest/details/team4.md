@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 21:09:18 UTC
+# Standings for team4 as of 2026-06-06 21:10:17 UTC
 
 **Total Participants:** 1147
 
@@ -63,7 +63,7 @@
 | 55 | 645 | Jenn Fitzgerald |
 | 56 | 644 | Kelly Bernard |
 | 57 | 630 | Chaz Duncan |
-| 58 | 629 | Victoria Ver |
+| 58 | 630 | Victoria Ver |
 | 59 | 629 | Keesha Muro |
 | 60 | 628 | Adam J Leong |
 | 61 | 620 | Fancy Crasher |
@@ -139,21 +139,21 @@
 | 131 | 233 | Sisi RedVelvet Reneè |
 | 132 | 233 | Christy Beezley-Forbush |
 | 133 | 231 | Becky McCool |
-| 134 | 229 | Aisha Estrada |
-| 135 | 226 | Scamp Jones |
-| 136 | 224 | TRUCHILD777$$$ |
-| 137 | 223 | matt |
-| 138 | 222 | Danny Ortiz |
-| 139 | 221 | Slimm |
-| 140 | 220 | Shmeedo |
+| 134 | 230 | Katie Martin |
+| 135 | 229 | Aisha Estrada |
+| 136 | 226 | Scamp Jones |
+| 137 | 224 | TRUCHILD777$$$ |
+| 138 | 223 | matt |
+| 139 | 222 | Danny Ortiz |
+| 140 | 221 | Slimm |
 | 141 | 220 | Silly Risegrid |
-| 142 | 220 | Esther Hadassah |
-| 143 | 218 | Daryn Elliott |
-| 144 | 218 | Dubiousdust |
-| 145 | 214 | Dazzle Dragon |
-| 146 | 212 | blockhead |
-| 147 | 211 | Renee Sapp |
-| 148 | 210 | Katie Martin |
+| 142 | 220 | Shmeedo |
+| 143 | 220 | Esther Hadassah |
+| 144 | 218 | Daryn Elliott |
+| 145 | 218 | Dubiousdust |
+| 146 | 214 | Dazzle Dragon |
+| 147 | 212 | blockhead |
+| 148 | 211 | Renee Sapp |
 | 149 | 210 | Stephanie Myers |
 | 150 | 207 | Aramat |
 | 151 | 206 | Perky Riserbuilder |
@@ -176,13 +176,13 @@
 | 168 | 185 | Dae Von |
 | 169 | 184 | Lucy Honer |
 | 170 | 183 | Tara Delay Hill |
-| 171 | 181 | Waxboss |
-| 172 | 181 | Goofy Riser |
-| 173 | 179 | Anna Gribble |
-| 174 | 178 | Tamara Triplet |
-| 175 | 178 | shawna |
-| 176 | 178 | Spicy Chicken |
-| 177 | 177 | Tammy June |
+| 171 | 183 | Tammy June |
+| 172 | 181 | Waxboss |
+| 173 | 181 | Goofy Riser |
+| 174 | 179 | Anna Gribble |
+| 175 | 178 | Tamara Triplet |
+| 176 | 178 | shawna |
+| 177 | 178 | Spicy Chicken |
 | 178 | 177 | Chirpy Link |
 | 179 | 177 | Damon Gaston |
 | 180 | 172 | Tawna Curry |
@@ -190,8 +190,8 @@
 | 182 | 167 | Littlebrat |
 | 183 | 166 | Alyson M Kehler |
 | 184 | 166 | Sassy Rollpiece |
-| 185 | 164 | Jackie Miller |
-| 186 | 164 | Loony Rotater |
+| 185 | 164 | Loony Rotater |
+| 186 | 164 | Jackie Miller |
 | 187 | 164 | Stacy G |
 | 188 | 163 | Brandy Lynn |
 | 189 | 160 | Tipsy Builderline |
@@ -414,99 +414,99 @@
 | 406 | 76 | All knowing |
 | 407 | 76 | Perry Ransom |
 | 408 | 75 | Ricardo Arias |
-| 409 | 75 | Witty Fitblock |
-| 410 | 75 | Swanky Builderline |
-| 411 | 75 | Marco A. Sandoval |
+| 409 | 75 | Swanky Builderline |
+| 410 | 75 | Marco A. Sandoval |
+| 411 | 75 | Witty Fitblock |
 | 412 | 75 | PsyDMom |
 | 413 | 74 | Frisky Balance |
-| 414 | 72 | Virgil Mayfield-Brown |
-| 415 | 72 | Fancy Riser |
-| 416 | 71 | Csigirlnc |
-| 417 | 71 | Snazzy Fitclear |
-| 418 | 71 | Taquilla Branch |
-| 419 | 71 | Giggy Blockpiece |
-| 420 | 71 | Brandi Sauer |
-| 421 | 71 | Snappy Fitzone |
-| 422 | 71 | Ana Ruiz |
-| 423 | 70 | Winter Moon |
-| 424 | 70 | Giggly Rollpiece |
-| 425 | 70 | Shawna Downey |
-| 426 | 70 | MrsReap |
-| 427 | 70 | Henry Lanier |
-| 428 | 70 | Giggy Splitter |
-| 429 | 69 | Khylee DarDar |
-| 430 | 69 | Beth Belanger |
-| 431 | 69 | Cindy |
-| 432 | 68 | Solace Grace |
+| 414 | 72 | Fancy Riser |
+| 415 | 72 | Virgil Mayfield-Brown |
+| 416 | 71 | Snazzy Fitclear |
+| 417 | 71 | Loopy Hitter |
+| 418 | 71 | Brandi Sauer |
+| 419 | 71 | Snappy Fitzone |
+| 420 | 71 | Taquilla Branch |
+| 421 | 71 | Csigirlnc |
+| 422 | 71 | Giggy Blockpiece |
+| 423 | 71 | Ana Ruiz |
+| 424 | 70 | Giggy Splitter |
+| 425 | 70 | Giggly Rollpiece |
+| 426 | 70 | Winter Moon |
+| 427 | 70 | Shawna Downey |
+| 428 | 70 | Henry Lanier |
+| 429 | 70 | MrsReap |
+| 430 | 69 | Khylee DarDar |
+| 431 | 69 | Beth Belanger |
+| 432 | 69 | Cindy |
 | 433 | 68 | Paula Renee McCracken |
 | 434 | 68 | Ricky Colvin |
 | 435 | 68 | Keys Tome |
-| 436 | 67 | Noa Lee |
+| 436 | 68 | Solace Grace |
 | 437 | 67 | Glittara |
-| 438 | 67 | BookwormCate |
-| 439 | 67 | Loretta Hendricks |
-| 440 | 67 | Ashley DuVall |
-| 441 | 67 | Playful Raccoon |
-| 442 | 66 | james |
-| 443 | 66 | Mann Manson |
-| 444 | 65 | Cranky Twistpiece |
+| 438 | 67 | Ashley DuVall |
+| 439 | 67 | Noa Lee |
+| 440 | 67 | BookwormCate |
+| 441 | 67 | Loretta Hendricks |
+| 442 | 67 | Playful Raccoon |
+| 443 | 66 | james |
+| 444 | 66 | Mann Manson |
 | 445 | 65 | Lul Babie |
-| 446 | 65 | Kat Foreman |
+| 446 | 65 | Deborah Ayliffe |
 | 447 | 65 | Joshua Garner |
-| 448 | 65 | Youngkueen |
-| 449 | 65 | Brian Woods |
-| 450 | 65 | Deborah Ayliffe |
-| 451 | 65 | Tiffany Roberts |
-| 452 | 64 | Deb 07 |
-| 453 | 64 | Destiny Starr LeValdo |
-| 454 | 64 | David Lay |
-| 455 | 64 | Daring Brickbuilder |
-| 456 | 64 | Poptart |
-| 457 | 64 | Suzanne North |
-| 458 | 64 | Marisela Alvarado |
-| 459 | 64 | sierrabeth |
-| 460 | 63 | Brenda Mueller |
-| 461 | 63 | Karen Davis |
-| 462 | 63 | Butterpat |
-| 463 | 63 | Breezy Rollfit |
-| 464 | 63 | Brenda Gustamantes |
-| 465 | 63 | Ajohnna Frazee |
-| 466 | 62 | Mar Mar |
-| 467 | 62 | medicjessi |
-| 468 | 62 | Surviving Be Back Soon |
+| 448 | 65 | Tiffany Roberts |
+| 449 | 65 | Youngkueen |
+| 450 | 65 | Kat Foreman |
+| 451 | 65 | Cranky Twistpiece |
+| 452 | 65 | Brian Woods |
+| 453 | 64 | Poptart |
+| 454 | 64 | Deb 07 |
+| 455 | 64 | sierrabeth |
+| 456 | 64 | David Lay |
+| 457 | 64 | Destiny Starr LeValdo |
+| 458 | 64 | Suzanne North |
+| 459 | 64 | Marisela Alvarado |
+| 460 | 64 | Daring Brickbuilder |
+| 461 | 63 | Breezy Rollfit |
+| 462 | 63 | Brenda Gustamantes |
+| 463 | 63 | Ajohnna Frazee |
+| 464 | 63 | Brenda Mueller |
+| 465 | 63 | Karen Davis |
+| 466 | 63 | Butterpat |
+| 467 | 62 | 94Blockhead |
+| 468 | 62 | medicjessi |
 | 469 | 62 | Jason Moves |
-| 470 | 62 | 94Blockhead |
-| 471 | 62 | Gabby Simones |
-| 472 | 62 | Alicia Cook |
-| 473 | 62 | YenSid |
-| 474 | 62 | Chris McBlockster |
-| 475 | 61 | Missionary Meda |
-| 476 | 61 | Tasha Suzanne Prisbrey |
-| 477 | 61 | Lolita Nettles |
-| 478 | 61 | Loopy Hitter |
-| 479 | 60 | Will E Ayala |
-| 480 | 60 | Rin |
-| 481 | 60 | George Marshburn |
-| 482 | 60 | Frothy Pattern |
-| 483 | 60 | aga |
-| 484 | 60 | Shirley A. Godfrey |
-| 485 | 60 | DanceAngel |
-| 486 | 60 | Jessica Kelly |
-| 487 | 60 | Brandon Bedenbaugh |
-| 488 | 60 | Uh Lesh Uh |
-| 489 | 60 | Tiffy |
-| 490 | 60 | Nerdy Brickster |
-| 491 | 60 | Anthony Magaraci |
-| 492 | 60 | Helen Bradley |
+| 470 | 62 | Surviving Be Back Soon |
+| 471 | 62 | Mar Mar |
+| 472 | 62 | Tre'nya Smith |
+| 473 | 62 | Chris McBlockster |
+| 474 | 62 | Alicia Cook |
+| 475 | 62 | YenSid |
+| 476 | 62 | Gabby Simones |
+| 477 | 61 | Missionary Meda |
+| 478 | 61 | Tasha Suzanne Prisbrey |
+| 479 | 61 | Lolita Nettles |
+| 480 | 60 | Fancy Rollfit |
+| 481 | 60 | Rin |
+| 482 | 60 | George Marshburn |
+| 483 | 60 | Frothy Pattern |
+| 484 | 60 | aga |
+| 485 | 60 | Shirley A. Godfrey |
+| 486 | 60 | DanceAngel |
+| 487 | 60 | Jessica Kelly |
+| 488 | 60 | Brandon Bedenbaugh |
+| 489 | 60 | Uh Lesh Uh |
+| 490 | 60 | Tiffy |
+| 491 | 60 | Nerdy Brickster |
+| 492 | 60 | Anthony Magaraci |
 | 493 | 60 | Jeri Anne Stormo-Toman |
-| 494 | 60 | Kristine Hj Han |
-| 495 | 60 | Wanda Simmons |
-| 496 | 60 | Knijur Callins |
-| 497 | 60 | Fancy Rollfit |
-| 498 | 60 | Chris Rowe |
-| 499 | 60 | Randy M Hatch |
-| 500 | 59 | Yvette Johnson |
-| 501 | 59 | Tre'nya Smith |
+| 494 | 60 | Helen Bradley |
+| 495 | 60 | Kristine Hj Han |
+| 496 | 60 | Wanda Simmons |
+| 497 | 60 | Chris Rowe |
+| 498 | 60 | Randy M Hatch |
+| 499 | 60 | Knijur Callins |
+| 500 | 60 | Will E Ayala |
+| 501 | 59 | Yvette Johnson |
 | 502 | 59 | yourmomz |
 | 503 | 59 | Capone |
 | 504 | 59 | Tammy Lasseigne |
