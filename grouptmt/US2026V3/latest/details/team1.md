@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 06:00:39 UTC
+# Standings for team1 as of 2026-06-06 06:01:16 UTC
 
 **Total Participants:** 882
 
@@ -275,22 +275,22 @@
 | 267 | 67 | Johnathan Deese |
 | 268 | 67 | Steve Reno |
 | 269 | 67 | rls |
-| 270 | 66 | Breezy Catcher |
-| 271 | 66 | GracefulOwl808 |
-| 272 | 65 | pooh |
-| 273 | 65 | Maribel Vasquez |
-| 274 | 65 | Jazzy Bridger |
-| 275 | 65 | Jonathan Vee Jay |
-| 276 | 64 | Eugina Slater |
-| 277 | 64 | Penee Wiggins |
-| 278 | 64 | Lauraly |
-| 279 | 64 | Dena Marie Lee |
-| 280 | 63 | Slinky Clearzone |
-| 281 | 63 | Ahsokadog |
-| 282 | 63 | Sarah Swietlicki - Lopez |
-| 283 | 63 | Sabrina Wilkerson |
-| 284 | 62 | De'Mear McKinney |
-| 285 | 62 | Jack Mehof |
+| 270 | 66 | GracefulOwl808 |
+| 271 | 66 | Breezy Catcher |
+| 272 | 65 | Sabrina Wilkerson |
+| 273 | 65 | Jazzy Bridger |
+| 274 | 65 | Jonathan Vee Jay |
+| 275 | 65 | Maribel Vasquez |
+| 276 | 65 | pooh |
+| 277 | 64 | Lauraly |
+| 278 | 64 | Dena Marie Lee |
+| 279 | 64 | Penee Wiggins |
+| 280 | 64 | Eugina Slater |
+| 281 | 63 | Sarah Swietlicki - Lopez |
+| 282 | 63 | Ahsokadog |
+| 283 | 63 | Slinky Clearzone |
+| 284 | 62 | Jack Mehof |
+| 285 | 62 | De'Mear McKinney |
 | 286 | 61 | Tonya Thomas |
 | 287 | 61 | star |
 | 288 | 61 | Sunny Clicky |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 06:00:39 UTC
+# Standings for team2 as of 2026-06-06 06:01:16 UTC
 
 **Total Participants:** 1029
 
@@ -90,10 +90,10 @@
 | 82 | 317 | Ruby Sandberg |
 | 83 | 317 | Marquetta Johnson |
 | 84 | 315 | Milad Arzani |
-| 85 | 303 | Jennifer Smith |
-| 86 | 300 | Smashanator |
-| 87 | 299 | Amber Miller Wirick |
-| 88 | 298 | Amber Salazar |
+| 85 | 308 | Amber Salazar |
+| 86 | 303 | Jennifer Smith |
+| 87 | 300 | Smashanator |
+| 88 | 299 | Amber Miller Wirick |
 | 89 | 294 | Vistabrat |
 | 90 | 289 | Giddy Slamdrop |
 | 91 | 280 | Courtney McCulley |
@@ -156,31 +156,31 @@
 | 148 | 148 | Curly Windbreaker |
 | 149 | 147 | Gill |
 | 150 | 145 | SEH |
-| 151 | 145 | Amanda Priddy |
-| 152 | 145 | H |
+| 151 | 145 | H |
+| 152 | 145 | Amanda Priddy |
 | 153 | 141 | Melisa |
 | 154 | 141 | Spicy Risegrid |
-| 155 | 140 | Brittney Williams |
-| 156 | 140 | snowwol |
-| 157 | 140 | Iesha Cupil |
-| 158 | 140 | Gabriella Humphreys |
-| 159 | 140 | marsam |
-| 160 | 140 | Billie Jensen |
+| 155 | 140 | Billie Jensen |
+| 156 | 140 | Brittney Williams |
+| 157 | 140 | marsam |
+| 158 | 140 | snowwol |
+| 159 | 140 | Gabriella Humphreys |
+| 160 | 140 | Iesha Cupil |
 | 161 | 139 | Victoria Pale |
 | 162 | 139 | Jenni LeBlanc |
 | 163 | 138 | NickandJess Reynolds |
 | 164 | 137 | Lindsey Ford |
-| 165 | 136 | Joni Michelle Morgan |
-| 166 | 136 | Lauren Maxwell |
+| 165 | 136 | Lauren Maxwell |
+| 166 | 136 | Joni Michelle Morgan |
 | 167 | 136 | Lashanda Bertram |
 | 168 | 135 | Marylin Eacker |
 | 169 | 133 | Bengy Lead |
 | 170 | 132 | Spunky Cascadeclear |
-| 171 | 132 | Mtnblzr |
-| 172 | 132 | Jeanna Mendez |
-| 173 | 131 | Harper |
-| 174 | 131 | Amy Lea Hamilton |
-| 175 | 131 | Alison Waller |
+| 171 | 132 | Alison Waller |
+| 172 | 132 | Mtnblzr |
+| 173 | 132 | Jeanna Mendez |
+| 174 | 131 | Harper |
+| 175 | 131 | Amy Lea Hamilton |
 | 176 | 130 | Precious Womack |
 | 177 | 130 | ZBee |
 | 178 | 129 | Amy Taylor Pomerenk |
@@ -1029,12 +1029,12 @@
 | 1021 | 5 | Nicole Suber |
 | 1022 | 5 | Chirpy Towerer |
 | 1023 | 5 | Jennifer Mauler Schmidt |
-| 1024 | 5 | Bennie Farbo |
-| 1025 | 5 | Brittany Weatherspoon |
-| 1026 | 5 | Nerdy Base |
-| 1027 | 5 | Deborah Fowler |
-| 1028 | 5 | Flynn Flibble |
-| 1029 | 5 | Adrian Alvarez |
+| 1024 | 5 | Brittany Weatherspoon |
+| 1025 | 5 | Nerdy Base |
+| 1026 | 5 | Deborah Fowler |
+| 1027 | 5 | Flynn Flibble |
+| 1028 | 5 | Adrian Alvarez |
+| 1029 | 5 | Bennie Farbo |
 
 ---
 *Standings created by tournaments datasource generation tool*
