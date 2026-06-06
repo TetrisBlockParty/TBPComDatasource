@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 18:24:39 UTC
+# Standings for team1 as of 2026-06-06 18:25:17 UTC
 
 **Total Participants:** 1102
 
@@ -16,8 +16,8 @@
 | 8 | 4901 | Dyane Leah Ware |
 | 9 | 4511 | Timothy Robert |
 | 10 | 4339 | Carrie English |
-| 11 | 3411 | Charlie Roehm |
-| 12 | 3172 | Charnay Peacock |
+| 11 | 4070 | Charnay Peacock |
+| 12 | 3411 | Charlie Roehm |
 | 13 | 3075 | Debbie Carswell |
 | 14 | 3039 | Chummy Combo |
 | 15 | 3003 | Cassidy Butler |
@@ -523,38 +523,38 @@
 | 515 | 50 | Kanary Karotz |
 | 516 | 50 | Jes Marie |
 | 517 | 50 | Nisha Sunshine Jenkins |
-| 518 | 50 | Rande Smith |
-| 519 | 50 | Giggy Holder |
-| 520 | 50 | Amaadi Ward |
-| 521 | 50 | Jjhandsome |
+| 518 | 50 | Jjhandsome |
+| 519 | 50 | Amaadi Ward |
+| 520 | 50 | Rande Smith |
+| 521 | 50 | Giggy Holder |
 | 522 | 50 | Tramaine Crockrum |
-| 523 | 49 | Saucy Crusher |
+| 523 | 49 | Teisha Scott |
 | 524 | 49 | No_Other_Choice |
-| 525 | 49 | Parris Wright |
+| 525 | 49 | Holly Baker |
 | 526 | 49 | Stronger Wiser Better |
-| 527 | 49 | Sallie Sanborn |
-| 528 | 49 | Teisha Scott |
-| 529 | 49 | Holly Baker |
+| 527 | 49 | Parris Wright |
+| 528 | 49 | Sallie Sanborn |
+| 529 | 49 | Saucy Crusher |
 | 530 | 49 | SnazzyIvy |
-| 531 | 49 | Speedy Stacky |
-| 532 | 49 | Blocksy |
-| 533 | 48 | Bubbly Crawler |
-| 534 | 48 | Stephanie Ellis |
-| 535 | 48 | Clever Fitblock |
-| 536 | 48 | Eli Delao |
-| 537 | 48 | Wild Out Nai |
+| 531 | 49 | Chereese Harris |
+| 532 | 49 | Speedy Stacky |
+| 533 | 49 | Blocksy |
+| 534 | 48 | Bubbly Crawler |
+| 535 | 48 | Eli Delao |
+| 536 | 48 | Wild Out Nai |
+| 537 | 48 | Clever Fitblock |
 | 538 | 48 | Zappy Riser |
 | 539 | 48 | Eric Machuca |
 | 540 | 48 | LoveLee |
-| 541 | 48 | Mommy Frank |
-| 542 | 48 | Comedian Prince Paul |
-| 543 | 47 | Bubbly Slammer |
-| 544 | 47 | Mami Badd |
-| 545 | 47 | Tushama Cheris Okraku |
-| 546 | 47 | Kevin Turner |
-| 547 | 47 | Chereese Harris |
+| 541 | 48 | Stephanie Ellis |
+| 542 | 48 | Mommy Frank |
+| 543 | 48 | Comedian Prince Paul |
+| 544 | 47 | Earl Williams |
+| 545 | 47 | Mami Badd |
+| 546 | 47 | Tushama Cheris Okraku |
+| 547 | 47 | Kevin Turner |
 | 548 | 47 | Tyrone Porter |
-| 549 | 47 | Earl Williams |
+| 549 | 47 | Bubbly Slammer |
 | 550 | 47 | Christopher Dreamsareality McEachin |
 | 551 | 47 | Kàrma Lee |
 | 552 | 46 | Felicia Dungey |
@@ -564,8 +564,8 @@
 | 556 | 46 | Derald Miller |
 | 557 | 46 | Maria Baez Medina |
 | 558 | 46 | Chris Nelson |
-| 559 | 46 | Kortney Adams |
-| 560 | 46 | Boldy Matchfit |
+| 559 | 46 | Boldy Matchfit |
+| 560 | 46 | Kortney Adams |
 | 561 | 46 | Squaw Ki Ng |
 | 562 | 46 | Ja'mice Nelson |
 | 563 | 46 | RylonJones |
