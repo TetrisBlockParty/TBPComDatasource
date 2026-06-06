@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 07:24:39 UTC
+# Standings for team2 as of 2026-06-06 07:25:16 UTC
 
 **Total Participants:** 1066
 
@@ -816,9 +816,9 @@
 | 808 | 19 | Leigh Wilkerson |
 | 809 | 19 | Twisty Snapmatch |
 | 810 | 18 | Elizabeth Kline |
-| 811 | 18 | Cuca Perez |
-| 812 | 18 | Debbie Embry |
-| 813 | 18 | Chummy Faller |
+| 811 | 18 | Chummy Faller |
+| 812 | 18 | Cuca Perez |
+| 813 | 18 | Debbie Embry |
 | 814 | 18 | Taran Evans |
 | 815 | 18 | Glitzy Stackbuilder |
 | 816 | 18 | Kaitlyn Hurst |
@@ -828,111 +828,111 @@
 | 820 | 18 | Cyrus Ramirez |
 | 821 | 18 | Alison Welsh |
 | 822 | 17 | Staci Carl |
-| 823 | 17 | Debra May |
-| 824 | 17 | Shaylee Haltiner |
+| 823 | 17 | Mellzey |
+| 824 | 17 | Debra May |
 | 825 | 17 | Smiley Edgefit |
-| 826 | 17 | Kelly Christine Trimmer |
-| 827 | 17 | Dena Cudjo |
-| 828 | 17 | Rosie |
-| 829 | 17 | R.w. Buck |
-| 830 | 16 | Clever Gridzone |
-| 831 | 16 | Theresa Huddleston |
-| 832 | 16 | Amanda L Strong |
-| 833 | 16 | Danielle Lyons |
-| 834 | 16 | LK |
-| 835 | 16 | Kaylyn Wickham |
-| 836 | 16 | Peppy Piececlear |
-| 837 | 16 | Matthew Black |
-| 838 | 16 | Renee Craig |
-| 839 | 16 | Elliot |
-| 840 | 16 | Natasha Schatte |
-| 841 | 16 | Sassy Twistbuilder |
-| 842 | 16 | Mouh Ity |
-| 843 | 16 | Chris |
-| 844 | 16 | Princess Cucumber |
-| 845 | 16 | Brandy McCleary |
-| 846 | 15 | Crafty Slice |
-| 847 | 15 | Twisty Patternblock |
-| 848 | 15 | Melissa Clogher White |
-| 849 | 15 | Daring Pivotfall |
-| 850 | 15 | Samantha |
-| 851 | 15 | Tina |
-| 852 | 15 | Mee Maw |
-| 853 | 15 | Lisa Marie |
-| 854 | 15 | Timone907 |
-| 855 | 15 | Cheery Tilefall |
-| 856 | 15 | Loopy Zone |
-| 857 | 15 | Poppy Slice |
+| 826 | 17 | Shaylee Haltiner |
+| 827 | 17 | Kelly Christine Trimmer |
+| 828 | 17 | Dena Cudjo |
+| 829 | 17 | Rosie |
+| 830 | 17 | R.w. Buck |
+| 831 | 16 | Mouh Ity |
+| 832 | 16 | Matthew Black |
+| 833 | 16 | Elliot |
+| 834 | 16 | Renee Craig |
+| 835 | 16 | Clever Gridzone |
+| 836 | 16 | LK |
+| 837 | 16 | Sassy Twistbuilder |
+| 838 | 16 | Peppy Piececlear |
+| 839 | 16 | Natasha Schatte |
+| 840 | 16 | Theresa Huddleston |
+| 841 | 16 | Princess Cucumber |
+| 842 | 16 | Amanda L Strong |
+| 843 | 16 | Danielle Lyons |
+| 844 | 16 | Brandy McCleary |
+| 845 | 16 | Chris |
+| 846 | 16 | Kaylyn Wickham |
+| 847 | 15 | Timone907 |
+| 848 | 15 | Twisty Patternblock |
+| 849 | 15 | Lisa Marie |
+| 850 | 15 | Melissa Clogher White |
+| 851 | 15 | Samantha |
+| 852 | 15 | Christina Whitehead |
+| 853 | 15 | Cheery Tilefall |
+| 854 | 15 | Daring Pivotfall |
+| 855 | 15 | Tina |
+| 856 | 15 | Crafty Slice |
+| 857 | 15 | Linda Jeanne Knop |
 | 858 | 15 | Julie Vargas |
-| 859 | 15 | Christina Whitehead |
-| 860 | 15 | Fran Gerebics |
-| 861 | 15 | sally |
-| 862 | 15 | Adrian Alvarez |
-| 863 | 15 | Shannie |
-| 864 | 15 | Jacqueline Leigh Zuzinec |
-| 865 | 15 | Christine Ann Eras |
-| 866 | 15 | Connie McCoy |
-| 867 | 15 | Mandeee |
-| 868 | 15 | Linda Jeanne Knop |
-| 869 | 15 | Monee Stronger |
-| 870 | 15 | YAKO |
-| 871 | 14 | COWBOY |
-| 872 | 14 | BlockBreaker |
-| 873 | 14 | Lively Liner |
-| 874 | 14 | Symmy Norton |
-| 875 | 14 | Mellzey |
-| 876 | 14 | Buffy Diane Blake |
-| 877 | 14 | Christopher Pulley |
-| 878 | 14 | Witty Riser |
-| 879 | 14 | MiMi’26 |
-| 880 | 14 | ReiRei |
-| 881 | 14 | Randi Moore |
-| 882 | 14 | Anthony Kordich |
-| 883 | 14 | Poppy Zonepiece |
-| 884 | 14 | Jenny |
-| 885 | 13 | Tara Feineis |
-| 886 | 13 | Witty Clearbuilder |
+| 859 | 15 | YAKO |
+| 860 | 15 | Mee Maw |
+| 861 | 15 | Connie McCoy |
+| 862 | 15 | sally |
+| 863 | 15 | Poppy Slice |
+| 864 | 15 | Adrian Alvarez |
+| 865 | 15 | Jacqueline Leigh Zuzinec |
+| 866 | 15 | Fran Gerebics |
+| 867 | 15 | Christine Ann Eras |
+| 868 | 15 | Shannie |
+| 869 | 15 | Loopy Zone |
+| 870 | 15 | Mandeee |
+| 871 | 15 | Monee Stronger |
+| 872 | 14 | Lively Liner |
+| 873 | 14 | BlockBreaker |
+| 874 | 14 | Jenny |
+| 875 | 14 | Randi Moore |
+| 876 | 14 | Poppy Zonepiece |
+| 877 | 14 | MiMi’26 |
+| 878 | 14 | Buffy Diane Blake |
+| 879 | 14 | COWBOY |
+| 880 | 14 | Anthony Kordich |
+| 881 | 14 | Symmy Norton |
+| 882 | 14 | ReiRei |
+| 883 | 14 | Witty Riser |
+| 884 | 14 | Christopher Pulley |
+| 885 | 13 | Christina Michelle Wilson |
+| 886 | 13 | Leighla Davis |
 | 887 | 13 | Denita Kaherl |
-| 888 | 13 | latte |
-| 889 | 13 | Leighla Davis |
-| 890 | 13 | Quirky Gridclear |
-| 891 | 13 | Christina Michelle Wilson |
-| 892 | 13 | Dreamy Wipepiece |
-| 893 | 13 | Lexi Chouinard |
-| 894 | 13 | bigdog |
-| 895 | 13 | Jill Gelhausen |
-| 896 | 13 | Cristy Ayala |
-| 897 | 13 | Angelique Matzke Starns |
-| 898 | 13 | Bad Juju |
-| 899 | 12 | Quirky Brickroll |
-| 900 | 12 | Lu Wallace |
-| 901 | 12 | Mary |
+| 888 | 13 | Witty Clearbuilder |
+| 889 | 13 | Tara Feineis |
+| 890 | 13 | latte |
+| 891 | 13 | Quirky Gridclear |
+| 892 | 13 | Cristy Ayala |
+| 893 | 13 | Angelique Matzke Starns |
+| 894 | 13 | Jill Gelhausen |
+| 895 | 13 | Bad Juju |
+| 896 | 13 | bigdog |
+| 897 | 13 | Lexi Chouinard |
+| 898 | 13 | Dreamy Wipepiece |
+| 899 | 12 | Terie Safrit |
+| 900 | 12 | Mary |
+| 901 | 12 | Sindy08 |
 | 902 | 12 | Squyrt |
-| 903 | 12 | Betty Muise |
-| 904 | 12 | Johnathon Mendiola |
-| 905 | 12 | Jay King |
-| 906 | 12 | Beej Blake |
-| 907 | 12 | Samantha Morrison |
-| 908 | 12 | Terie Safrit |
-| 909 | 12 | Sindy08 |
-| 910 | 11 | Violet Olivares |
-| 911 | 11 | Nerdy Climber |
-| 912 | 11 | Gino Positano |
-| 913 | 11 | Yany |
-| 914 | 11 | Josephina |
-| 915 | 11 | Tami Kay Williams Watson |
-| 916 | 11 | Purpleroyalty11 |
-| 917 | 11 | Amanda Neal |
-| 918 | 11 | Jeffrey Smith |
-| 919 | 11 | Jumpy Linkroll |
-| 920 | 11 | Robert E Tracy |
-| 921 | 11 | Mona Wagner |
-| 922 | 11 | Nicki McGill |
+| 903 | 12 | Beej Blake |
+| 904 | 12 | Samantha Morrison |
+| 905 | 12 | Nerdy Climber |
+| 906 | 12 | Betty Muise |
+| 907 | 12 | Lu Wallace |
+| 908 | 12 | Jay King |
+| 909 | 12 | Quirky Brickroll |
+| 910 | 12 | Johnathon Mendiola |
+| 911 | 11 | Amanda Neal |
+| 912 | 11 | Purpleroyalty11 |
+| 913 | 11 | Mona Wagner |
+| 914 | 11 | Violet Olivares |
+| 915 | 11 | Gino Positano |
+| 916 | 11 | Jeffrey Smith |
+| 917 | 11 | Jumpy Linkroll |
+| 918 | 11 | Nicki McGill |
+| 919 | 11 | Robert E Tracy |
+| 920 | 11 | Tami Kay Williams Watson |
+| 921 | 11 | Josephina |
+| 922 | 11 | Yany |
 | 923 | 10 | Spicy Snapclear |
-| 924 | 10 | Theresa Marie |
-| 925 | 10 | Erin Marie Smith |
-| 926 | 10 | Bold Blockline |
-| 927 | 10 | Maureen MomtoDolores GeorgeBrian |
+| 924 | 10 | Erin Marie Smith |
+| 925 | 10 | Theresa Marie |
+| 926 | 10 | Maureen MomtoDolores GeorgeBrian |
+| 927 | 10 | Bold Blockline |
 | 928 | 10 | Crystal Owen Yocolano |
 | 929 | 10 | Mona Smith |
 | 930 | 10 | Michelle Edgin Tranbarger |
