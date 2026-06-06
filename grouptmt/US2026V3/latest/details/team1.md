@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 14:46:16 UTC
+# Standings for team1 as of 2026-06-06 14:46:39 UTC
 
 **Total Participants:** 1024
 
@@ -114,8 +114,8 @@
 | 106 | 274 | Tammye Turner |
 | 107 | 273 | MamaBear |
 | 108 | 268 | Dee McCool |
-| 109 | 262 | Gael Quintana |
-| 110 | 261 | Ashley MyBeauty Daniels |
+| 109 | 263 | Ashley MyBeauty Daniels |
+| 110 | 262 | Gael Quintana |
 | 111 | 257 | Mimi 1.0 |
 | 112 | 257 | Tamara N Lee |
 | 113 | 256 | Cortaz Lawrie |
