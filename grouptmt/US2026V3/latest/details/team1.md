@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 08:43:17 UTC
+# Standings for team1 as of 2026-06-06 08:44:16 UTC
 
 **Total Participants:** 932
 
@@ -86,9 +86,9 @@
 | 78 | 323 | Catara Renae Oliver |
 | 79 | 322 | Lashawn Wallace |
 | 80 | 319 | GrkGdess |
-| 81 | 316 | Ty Øtg |
-| 82 | 314 | Carolynne Walker-Bell |
-| 83 | 308 | Sheila Burnham |
+| 81 | 318 | Sheila Burnham |
+| 82 | 316 | Ty Øtg |
+| 83 | 314 | Carolynne Walker-Bell |
 | 84 | 292 | Robyn Caldwell |
 | 85 | 284 | Todd C. Clemens |
 | 86 | 279 | COSA303 |
@@ -184,22 +184,22 @@
 | 176 | 121 | D'Andra Stewart |
 | 177 | 120 | Spicy Risepiece |
 | 178 | 120 | Nerdy Blockpiece |
-| 179 | 120 | Antoinette Jones |
-| 180 | 120 | Jai |
+| 179 | 120 | Jai |
+| 180 | 120 | Antoinette Jones |
 | 181 | 120 | Saucy Tile |
-| 182 | 119 | ELM |
-| 183 | 119 | Christina Rebecca |
-| 184 | 118 | Hasty Pivoty |
-| 185 | 114 | pooh |
-| 186 | 113 | Rachel Zimmerman |
-| 187 | 112 | GamerQueenDS |
-| 188 | 112 | Bre Poston |
-| 189 | 111 | Shalena Marie Humphrey |
-| 190 | 111 | Lesley Brunkus Cianfaglione |
-| 191 | 110 | Atlantalindi |
-| 192 | 109 | Tamika Fisher |
-| 193 | 108 | Kimberly Linares Hernandez |
-| 194 | 107 | Tremaine Hiler |
+| 182 | 119 | Tremaine Hiler |
+| 183 | 119 | ELM |
+| 184 | 119 | Christina Rebecca |
+| 185 | 118 | Hasty Pivoty |
+| 186 | 114 | pooh |
+| 187 | 113 | Rachel Zimmerman |
+| 188 | 112 | GamerQueenDS |
+| 189 | 112 | Bre Poston |
+| 190 | 111 | Shalena Marie Humphrey |
+| 191 | 111 | Lesley Brunkus Cianfaglione |
+| 192 | 110 | Atlantalindi |
+| 193 | 109 | Tamika Fisher |
+| 194 | 108 | Kimberly Linares Hernandez |
 | 195 | 106 | Matthieu Pistone |
 | 196 | 105 | Ebony Waynes-robinson |
 | 197 | 105 | Katrina Ramey |
