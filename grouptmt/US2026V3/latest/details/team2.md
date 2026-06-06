@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 19:14:19 UTC
+# Standings for team2 as of 2026-06-06 19:14:38 UTC
 
 **Total Participants:** 1336
 
@@ -157,28 +157,28 @@
 | 149 | 277 | Sarah Mccolgan |
 | 150 | 275 | Bubbly Strikerpiece |
 | 151 | 272 | Erin Thomas |
-| 152 | 269 | Ackerman 85 |
-| 153 | 262 | Hoppy Mover |
-| 154 | 262 | Cool Balancer |
-| 155 | 253 | Hilliary Beyer |
-| 156 | 251 | Angie Kowalsky Olson |
-| 157 | 250 | giamy |
-| 158 | 250 | marsam |
-| 159 | 250 | H |
-| 160 | 250 | Hector |
-| 161 | 247 | Brittni Lawrence |
-| 162 | 247 | Fudgie Pie |
-| 163 | 245 | Josh Twilley |
-| 164 | 241 | Charlie Wilson |
+| 152 | 270 | Hector |
+| 153 | 269 | Ackerman 85 |
+| 154 | 262 | Hoppy Mover |
+| 155 | 262 | Cool Balancer |
+| 156 | 253 | Hilliary Beyer |
+| 157 | 253 | Marge Cromer |
+| 158 | 251 | Angie Kowalsky Olson |
+| 159 | 250 | giamy |
+| 160 | 250 | marsam |
+| 161 | 250 | H |
+| 162 | 247 | Brittni Lawrence |
+| 163 | 247 | Fudgie Pie |
+| 164 | 245 | Josh Twilley |
 | 165 | 241 | Boldy Wobbler |
-| 166 | 235 | Ashley Green |
-| 167 | 233 | Marge Cromer |
+| 166 | 241 | Charlie Wilson |
+| 167 | 235 | Ashley Green |
 | 168 | 232 | Pam Bauder Ludwig |
 | 169 | 230 | Brandy Chinelle |
 | 170 | 228 | Keri Mears |
 | 171 | 224 | Kathleen Keogh Van Schoyck |
-| 172 | 220 | Flashy Basegrid |
-| 173 | 220 | Melissa Thomas |
+| 172 | 220 | Melissa Thomas |
+| 173 | 220 | Flashy Basegrid |
 | 174 | 219 | Stella |
 | 175 | 218 | Amy Nicole McCanne |
 | 176 | 216 | PaiBri |
@@ -186,16 +186,16 @@
 | 178 | 212 | AndyJo |
 | 179 | 210 | Ashley Billiot Rhodes |
 | 180 | 208 | Lora Via |
-| 181 | 207 | Brenda Jones |
-| 182 | 207 | Margie Ann Naffziger |
+| 181 | 207 | Margie Ann Naffziger |
+| 182 | 207 | Brenda Jones |
 | 183 | 206 | Jodi Johnson |
 | 184 | 205 | haune |
 | 185 | 204 | Chill Line |
 | 186 | 201 | Danielle Pack Lewellen |
-| 187 | 200 | Sarah Grundisch |
-| 188 | 200 | Eric Wayne Maschman |
-| 189 | 200 | Logan Duffey |
-| 190 | 200 | Physhie |
+| 187 | 200 | Eric Wayne Maschman |
+| 188 | 200 | Sarah Grundisch |
+| 189 | 200 | Physhie |
+| 190 | 200 | Logan Duffey |
 | 191 | 200 | Kelly Vedder |
 | 192 | 199 | Patria Osuoha |
 | 193 | 199 | Amber Cogdill |

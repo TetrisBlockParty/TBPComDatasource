@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 19:14:19 UTC
+# Standings for team4 as of 2026-06-06 19:14:38 UTC
 
 **Total Participants:** 1112
 
@@ -990,34 +990,34 @@
 | 982 | 13 | Jackie Russo-Edens |
 | 983 | 13 | Willedtra Griffin |
 | 984 | 12 | Angela Correa |
-| 985 | 12 | Tonya Raymundo |
-| 986 | 12 | Carolyn Lalak |
-| 987 | 12 | ESPERANTU |
-| 988 | 12 | Peterson Cottontail |
-| 989 | 12 | Rooney |
-| 990 | 12 | Tatiyana Hockett |
-| 991 | 12 | Rebecca Renaud |
-| 992 | 12 | Scott Baum |
+| 985 | 12 | Scott Baum |
+| 986 | 12 | Peterson Cottontail |
+| 987 | 12 | Carolyn Lalak |
+| 988 | 12 | Rooney |
+| 989 | 12 | ESPERANTU |
+| 990 | 12 | Speedy Rollbuilder |
+| 991 | 12 | Tatiyana Hockett |
+| 992 | 12 | Rebecca Renaud |
 | 993 | 12 | Christopher Farias |
 | 994 | 12 | Elizabeth Ann Caro |
 | 995 | 12 | Elli Wright |
-| 996 | 12 | Shelly Jackson |
-| 997 | 12 | Diqthot |
-| 998 | 12 | McScrubby |
-| 999 | 11 | Nessa Smith |
-| 1000 | 11 | OFOZO |
-| 1001 | 11 | beTrue76 |
-| 1002 | 11 | Bryan Odle |
-| 1003 | 11 | Wynisha Johnson |
-| 1004 | 11 | Christine Raine Jalili |
-| 1005 | 11 | Kaash Brxtt |
-| 1006 | 11 | Mystica |
-| 1007 | 11 | Amowe |
-| 1008 | 11 | Redhead girl |
-| 1009 | 11 | Teresa Lescinskas |
-| 1010 | 10 | Bouncy Clusterline |
+| 996 | 12 | McScrubby |
+| 997 | 12 | Shelly Jackson |
+| 998 | 12 | Diqthot |
+| 999 | 12 | Tonya Raymundo |
+| 1000 | 11 | Bryan Odle |
+| 1001 | 11 | Kaash Brxtt |
+| 1002 | 11 | beTrue76 |
+| 1003 | 11 | OFOZO |
+| 1004 | 11 | Nessa Smith |
+| 1005 | 11 | Wynisha Johnson |
+| 1006 | 11 | Christine Raine Jalili |
+| 1007 | 11 | Mystica |
+| 1008 | 11 | Amowe |
+| 1009 | 11 | Redhead girl |
+| 1010 | 11 | Teresa Lescinskas |
 | 1011 | 10 | Buchanon Bossingup Jadrienne |
-| 1012 | 10 | Speedy Rollbuilder |
+| 1012 | 10 | Bouncy Clusterline |
 | 1013 | 10 | Marie Culbert |
 | 1014 | 10 | Spunky Tower |
 | 1015 | 10 | Tigger |
