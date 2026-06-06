@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 17:58:16 UTC
+# Standings for team4 as of 2026-06-06 17:58:39 UTC
 
 **Total Participants:** 1082
 
@@ -36,8 +36,8 @@
 | 28 | 989 | Ning Quiambao |
 | 29 | 971 | Loony Towerer |
 | 30 | 966 | BertaF1irta |
-| 31 | 936 | Chris Hills |
-| 32 | 911 | Leigh Pierce |
+| 31 | 941 | Leigh Pierce |
+| 32 | 936 | Chris Hills |
 | 33 | 901 | Giggy Matchpiece |
 | 34 | 900 | Kathy Brookins |
 | 35 | 876 | SMV |
@@ -123,7 +123,7 @@
 | 115 | 253 | Debby Ruof |
 | 116 | 253 | Danielle Mitchell |
 | 117 | 253 | Hairy Snake |
-| 118 | 240 | QueenLi86 |
+| 118 | 241 | QueenLi86 |
 | 119 | 235 | Hwanger Land |
 | 120 | 233 | Sisi RedVelvet Reneè |
 | 121 | 229 | Aisha Estrada |

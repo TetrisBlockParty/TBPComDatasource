@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 17:58:16 UTC
+# Standings for team2 as of 2026-06-06 17:58:39 UTC
 
 **Total Participants:** 1294
 
@@ -33,8 +33,8 @@
 | 25 | 2353 | Angie BBlock |
 | 26 | 2279 | Sean Rippa |
 | 27 | 1957 | Lola C Davis |
-| 28 | 1906 | Jennifer Corder |
-| 29 | 1893 | Spunky Clicker |
+| 28 | 1943 | Spunky Clicker |
+| 29 | 1906 | Jennifer Corder |
 | 30 | 1863 | Frisky Balanceblock |
 | 31 | 1800 | Quirky Catcher |
 | 32 | 1787 | Charles Varca |

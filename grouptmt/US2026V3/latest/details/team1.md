@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 17:58:16 UTC
+# Standings for team1 as of 2026-06-06 17:58:39 UTC
 
 **Total Participants:** 1091
 
@@ -461,19 +461,19 @@
 | 453 | 59 | Keith Johnson |
 | 454 | 59 | Shanaa Germany Crittenden |
 | 455 | 59 | Nina Davis |
-| 456 | 59 | Darrel Pemberton |
-| 457 | 58 | Alexandrla Smith |
-| 458 | 58 | Brandy Way |
-| 459 | 58 | FunTime |
-| 460 | 58 | Tonny Williams |
-| 461 | 58 | Twisty Cascadeclear |
-| 462 | 58 | Kimberly Susan Privette |
-| 463 | 58 | Bambi Love |
-| 464 | 57 | Nikkizz |
-| 465 | 57 | Faith Armone |
-| 466 | 56 | Kahh |
-| 467 | 56 | Lakiesha Crawford |
-| 468 | 56 | Jimmy Shannon |
+| 456 | 59 | Jimmy Shannon |
+| 457 | 59 | Darrel Pemberton |
+| 458 | 58 | Alexandrla Smith |
+| 459 | 58 | Brandy Way |
+| 460 | 58 | FunTime |
+| 461 | 58 | Tonny Williams |
+| 462 | 58 | Twisty Cascadeclear |
+| 463 | 58 | Kimberly Susan Privette |
+| 464 | 58 | Bambi Love |
+| 465 | 57 | Nikkizz |
+| 466 | 57 | Faith Armone |
+| 467 | 56 | Kahh |
+| 468 | 56 | Lakiesha Crawford |
 | 469 | 56 | Nora Mahmoud |
 | 470 | 56 | Nichelle Warren |
 | 471 | 55 | Terrie |
