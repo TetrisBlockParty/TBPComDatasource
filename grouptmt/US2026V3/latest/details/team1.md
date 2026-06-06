@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 13:16:38 UTC
+# Standings for team1 as of 2026-06-06 13:17:18 UTC
 
 **Total Participants:** 993
 
@@ -101,13 +101,13 @@
 | 93 | 292 | Robyn Caldwell |
 | 94 | 288 | Chenell Gillard |
 | 95 | 279 | COSA303 |
-| 96 | 278 | Shontanese Adams |
-| 97 | 275 | Chris Sladoje |
-| 98 | 275 | Songne Arif |
-| 99 | 268 | Dee McCool |
-| 100 | 267 | Tammye Turner |
-| 101 | 265 | Jason Mungin |
-| 102 | 259 | Chirpy Corner |
+| 96 | 279 | Chirpy Corner |
+| 97 | 278 | Shontanese Adams |
+| 98 | 275 | Chris Sladoje |
+| 99 | 275 | Songne Arif |
+| 100 | 268 | Dee McCool |
+| 101 | 267 | Tammye Turner |
+| 102 | 265 | Jason Mungin |
 | 103 | 257 | Mimi 1.0 |
 | 104 | 256 | Cortaz Lawrie |
 | 105 | 255 | Tamara N Lee |
@@ -655,93 +655,93 @@
 | 647 | 28 | Ameillia Boughner |
 | 648 | 28 | LeeLee08 |
 | 649 | 28 | Will Stanton |
-| 650 | 28 | Danielle Marie Lewis |
-| 651 | 28 | kiki |
-| 652 | 28 | Leon Matthew Williams |
-| 653 | 27 | Kendra McIntyre |
-| 654 | 27 | Zappy Riser |
-| 655 | 27 | Juanita Quezaire |
-| 656 | 27 | Brave Balanceblock |
-| 657 | 27 | Shaylyn Lockwood |
-| 658 | 27 | Meepycat |
+| 650 | 28 | kiki |
+| 651 | 28 | Leon Matthew Williams |
+| 652 | 28 | Danielle Marie Lewis |
+| 653 | 27 | Shaylyn Lockwood |
+| 654 | 27 | katia |
+| 655 | 27 | Lady Scorpio |
+| 656 | 27 | Zesty Fitclear |
+| 657 | 27 | jeremy92 |
+| 658 | 27 | Joka NoTime ForHataz |
 | 659 | 27 | Jenna Renee |
-| 660 | 27 | Joka NoTime ForHataz |
+| 660 | 27 | Meepycat |
 | 661 | 27 | Jeremy Hendrix |
-| 662 | 27 | jeremy92 |
-| 663 | 27 | Lady Scorpio |
-| 664 | 27 | Zesty Fitclear |
-| 665 | 27 | katia |
-| 666 | 26 | Dana Hawes |
-| 667 | 26 | Kala Miller |
-| 668 | 26 | Jodie |
-| 669 | 26 | SnazzySnippet |
-| 670 | 26 | Nona Harriel |
-| 671 | 25 | Tony P Burke |
-| 672 | 25 | Jenni |
-| 673 | 25 | Alyssa H |
-| 674 | 25 | Kimmie Gargano |
+| 662 | 27 | Juanita Quezaire |
+| 663 | 27 | Zappy Riser |
+| 664 | 27 | Brave Balanceblock |
+| 665 | 27 | Kendra McIntyre |
+| 666 | 26 | Kala Miller |
+| 667 | 26 | Dana Hawes |
+| 668 | 26 | Jimmy Shannon |
+| 669 | 26 | Jodie |
+| 670 | 26 | SnazzySnippet |
+| 671 | 26 | Nona Harriel |
+| 672 | 25 | Tony P Burke |
+| 673 | 25 | Jenni |
+| 674 | 25 | Alyssa H |
 | 675 | 25 | Plucky Clearpiece |
-| 676 | 25 | Pastors Du Bose |
-| 677 | 25 | brite |
-| 678 | 25 | Skye |
-| 679 | 25 | Paul Pendley |
-| 680 | 25 | Barbramerri Tarboro |
-| 681 | 25 | Tweet Turner |
-| 682 | 25 | PennyCandee |
-| 683 | 25 | Antoinette Kidd |
-| 684 | 25 | Brandy Jaszewski |
-| 685 | 25 | marie |
-| 686 | 25 | Dinky da Don |
-| 687 | 25 | Linny Loop |
+| 676 | 25 | Kimmie Gargano |
+| 677 | 25 | Pastors Du Bose |
+| 678 | 25 | brite |
+| 679 | 25 | Barbramerri Tarboro |
+| 680 | 25 | Brandy Jaszewski |
+| 681 | 25 | Antoinette Kidd |
+| 682 | 25 | marie |
+| 683 | 25 | Dinky da Don |
+| 684 | 25 | PennyCandee |
+| 685 | 25 | Linny Loop |
+| 686 | 25 | Paul Pendley |
+| 687 | 25 | Dirty Deeds |
 | 688 | 25 | Heru Ogun Yeshua EL |
-| 689 | 25 | Dirty Deeds |
-| 690 | 24 | BonnieB |
-| 691 | 24 | Snippy Breaker |
-| 692 | 24 | Mrs |
-| 693 | 24 | Jason Saputo |
-| 694 | 24 | LaTonya Rivers |
-| 695 | 24 | Eugenia Vanclusen |
-| 696 | 24 | Ashanti Eden |
-| 697 | 24 | Marlynnnnn |
-| 698 | 24 | Shaun Anderson |
+| 689 | 25 | Tweet Turner |
+| 690 | 25 | Skye |
+| 691 | 24 | Shaun Anderson |
+| 692 | 24 | Eugenia Vanclusen |
+| 693 | 24 | Mrs |
+| 694 | 24 | BonnieB |
+| 695 | 24 | Snippy Breaker |
+| 696 | 24 | Mumitt |
+| 697 | 24 | Ashanti Eden |
+| 698 | 24 | AshMo |
 | 699 | 24 | Abigail Newman Sweet |
-| 700 | 24 | AshMo |
-| 701 | 24 | Mumitt |
-| 702 | 23 | Peppy Wipeblock |
+| 700 | 24 | Marlynnnnn |
+| 701 | 24 | Jason Saputo |
+| 702 | 24 | LaTonya Rivers |
 | 703 | 23 | Betsy B. Yohan |
-| 704 | 23 | Vontesha Kidd |
-| 705 | 23 | Khatyrah Burnette |
-| 706 | 23 | Genevieve Nieves |
-| 707 | 23 | Jamie Lea Popp |
-| 708 | 23 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 709 | 23 | Connor Leon Cluff |
-| 710 | 23 | Shauntai Holiday |
-| 711 | 23 | Shona ShayShay Jones |
+| 704 | 23 | Khatyrah Burnette |
+| 705 | 23 | Peppy Wipeblock |
+| 706 | 23 | Vontesha Kidd |
+| 707 | 23 | Genevieve Nieves |
+| 708 | 23 | Shona ShayShay Jones |
+| 709 | 23 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 710 | 23 | Connor Leon Cluff |
+| 711 | 23 | Shauntai Holiday |
 | 712 | 23 | Monica Fields |
 | 713 | 23 | Tabitha Dupre-Allen |
 | 714 | 23 | Cm |
-| 715 | 22 | Williams Candace |
-| 716 | 22 | tg |
-| 717 | 22 | Stephanie Scott |
+| 715 | 23 | Jamie Lea Popp |
+| 716 | 22 | Williams Candace |
+| 717 | 22 | tg |
 | 718 | 22 | Joseph Vs Cap |
-| 719 | 22 | Jimmy Shannon |
+| 719 | 22 | Stephanie Scott |
 | 720 | 22 | Duncan Timothy |
 | 721 | 22 | BULLSEYE |
-| 722 | 22 | Happy Blocky |
-| 723 | 22 | Jroc Tyra Taylor |
+| 722 | 22 | Jroc Tyra Taylor |
+| 723 | 22 | Happy Blocky |
 | 724 | 22 | ShayePooh |
-| 725 | 21 | Zappy Zoney |
-| 726 | 21 | Arturo Hernandez II |
-| 727 | 21 | Richelle Beck |
-| 728 | 21 | RylonJones |
+| 725 | 21 | RylonJones |
+| 726 | 21 | Clever Blocker |
+| 727 | 21 | Arturo Hernandez II |
+| 728 | 21 | Richelle Beck |
 | 729 | 21 | lady |
 | 730 | 21 | Bubbly Piececlear |
 | 731 | 21 | Cali Lee |
 | 732 | 21 | Christy |
-| 733 | 21 | Clever Blocker |
+| 733 | 21 | Zappy Zoney |
 | 734 | 21 | Desiree Ryder |
-| 735 | 21 | Crafty Witch |
-| 736 | 21 | BB |
+| 735 | 21 | BB |
+| 736 | 21 | Crafty Witch |
 | 737 | 21 | Samona Mcculler |
 | 738 | 20 | Jonathan McKenzie |
 | 739 | 20 | B.L. Perry |
