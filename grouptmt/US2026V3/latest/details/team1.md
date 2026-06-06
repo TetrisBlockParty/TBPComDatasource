@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 10:55:16 UTC
+# Standings for team1 as of 2026-06-06 10:56:16 UTC
 
 **Total Participants:** 960
 
@@ -29,13 +29,13 @@
 | 21 | 1032 | Epic Snapfall |
 | 22 | 1028 | Mary Jenkins |
 | 23 | 1026 | Ryan Meilleur |
-| 24 | 950 | Chandler Spencer |
-| 25 | 945 | Cassidy Butler |
-| 26 | 935 | Whitney Butler |
-| 27 | 933 | Cherry Rose |
-| 28 | 928 | Juan Kandiss Escobedo Irwin |
-| 29 | 927 | Jolly Dropzone |
-| 30 | 916 | Ashley Espeut |
+| 24 | 956 | Ashley Espeut |
+| 25 | 950 | Chandler Spencer |
+| 26 | 945 | Cassidy Butler |
+| 27 | 935 | Whitney Butler |
+| 28 | 933 | Cherry Rose |
+| 29 | 928 | Juan Kandiss Escobedo Irwin |
+| 30 | 927 | Jolly Dropzone |
 | 31 | 882 | Jon Gathers |
 | 32 | 872 | Brian Bohanon II |
 | 33 | 863 | Holly Jolly |
