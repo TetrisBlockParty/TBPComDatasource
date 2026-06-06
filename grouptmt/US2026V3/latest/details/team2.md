@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 18:40:40 UTC
+# Standings for team2 as of 2026-06-06 18:41:17 UTC
 
 **Total Participants:** 1316
 
@@ -181,10 +181,10 @@
 | 173 | 212 | AndyJo |
 | 174 | 210 | Ashley Billiot Rhodes |
 | 175 | 208 | Lora Via |
-| 176 | 207 | Margie Ann Naffziger |
-| 177 | 206 | Jodi Johnson |
-| 178 | 205 | haune |
-| 179 | 204 | Brenda Jones |
+| 176 | 207 | Brenda Jones |
+| 177 | 207 | Margie Ann Naffziger |
+| 178 | 206 | Jodi Johnson |
+| 179 | 205 | haune |
 | 180 | 204 | Chill Line |
 | 181 | 201 | Danielle Pack Lewellen |
 | 182 | 200 | Sarah Grundisch |
