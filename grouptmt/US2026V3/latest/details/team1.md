@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 14:52:40 UTC
+# Standings for team1 as of 2026-06-06 14:53:16 UTC
 
 **Total Participants:** 1026
 
@@ -29,7 +29,7 @@
 | 21 | 1569 | Epic Snapfall |
 | 22 | 1550 | Cassidy Butler |
 | 23 | 1445 | Erika Windom |
-| 24 | 1184 | Jacoby E Fleming |
+| 24 | 1227 | Jacoby E Fleming |
 | 25 | 1082 | Daylene Johannes |
 | 26 | 1037 | Shortstak |
 | 27 | 1028 | Mary Jenkins |
