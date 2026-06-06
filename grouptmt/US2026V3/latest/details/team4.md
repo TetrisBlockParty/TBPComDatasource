@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 09:52:38 UTC
+# Standings for team4 as of 2026-06-06 09:53:15 UTC
 
 **Total Participants:** 919
 
@@ -113,11 +113,11 @@
 | 105 | 194 | Lisa lisa |
 | 106 | 193 | Tiffany Bunker-Hill |
 | 107 | 192 | Gorica Prusina |
-| 108 | 184 | Giggly Tilt |
-| 109 | 183 | Tara Delay Hill |
-| 110 | 182 | Scamp Jones |
-| 111 | 182 | blockhead |
-| 112 | 181 | Colin |
+| 108 | 188 | Colin |
+| 109 | 184 | Giggly Tilt |
+| 110 | 183 | Tara Delay Hill |
+| 111 | 182 | Scamp Jones |
+| 112 | 182 | blockhead |
 | 113 | 180 | Shmeedo |
 | 114 | 179 | Anna Gribble |
 | 115 | 178 | Tamara Triplet |
@@ -184,15 +184,15 @@
 | 176 | 116 | Brennan Shea Greene |
 | 177 | 116 | WeeWooWee |
 | 178 | 115 | Hardy Fuller |
-| 179 | 114 | Taz |
-| 180 | 114 | Bryan DjMagnum Evans |
-| 181 | 113 | Dennis Montoya |
-| 182 | 113 | kcknbtz |
-| 183 | 113 | Melissa Anne |
-| 184 | 112 | CJ |
-| 185 | 112 | matt |
-| 186 | 112 | Homie |
-| 187 | 111 | Bubbly Twistpiece |
+| 179 | 114 | Bubbly Twistpiece |
+| 180 | 114 | Taz |
+| 181 | 114 | Bryan DjMagnum Evans |
+| 182 | 113 | Dennis Montoya |
+| 183 | 113 | kcknbtz |
+| 184 | 113 | Melissa Anne |
+| 185 | 112 | CJ |
+| 186 | 112 | matt |
+| 187 | 112 | Homie |
 | 188 | 109 | Rose Anna Safi |
 | 189 | 108 | Lush Fitblock |
 | 190 | 108 | Juvon SupaShawdii Brooks |

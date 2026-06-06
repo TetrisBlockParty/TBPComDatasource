@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 09:52:38 UTC
+# Standings for team1 as of 2026-06-06 09:53:15 UTC
 
 **Total Participants:** 948
 
@@ -664,70 +664,70 @@
 | 656 | 24 | Mumitt |
 | 657 | 24 | Jason Saputo |
 | 658 | 24 | Ashanti Eden |
-| 659 | 23 | Shauntai Holiday |
-| 660 | 23 | Connor Leon Cluff |
-| 661 | 23 | Khatyrah Burnette |
-| 662 | 23 | Hardtohandle91 |
-| 663 | 23 | Tabitha Dupre-Allen |
-| 664 | 23 | Shona ShayShay Jones |
-| 665 | 23 | Cm |
-| 666 | 23 | Monica Fields |
-| 667 | 23 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 668 | 23 | Peppy Wipeblock |
-| 669 | 23 | Vontesha Kidd |
-| 670 | 23 | Shakmar |
-| 671 | 23 | Genevieve Nieves |
-| 672 | 23 | Jamie Lea Popp |
-| 673 | 22 | Jroc Tyra Taylor |
-| 674 | 22 | Kate Hancock Malicek |
-| 675 | 22 | Happy Blocky |
+| 659 | 24 | Jeremy Hendrix |
+| 660 | 23 | Shauntai Holiday |
+| 661 | 23 | Connor Leon Cluff |
+| 662 | 23 | Khatyrah Burnette |
+| 663 | 23 | Hardtohandle91 |
+| 664 | 23 | Tabitha Dupre-Allen |
+| 665 | 23 | Shona ShayShay Jones |
+| 666 | 23 | Cm |
+| 667 | 23 | Monica Fields |
+| 668 | 23 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 669 | 23 | Peppy Wipeblock |
+| 670 | 23 | Vontesha Kidd |
+| 671 | 23 | Shakmar |
+| 672 | 23 | Genevieve Nieves |
+| 673 | 23 | Jamie Lea Popp |
+| 674 | 22 | Duncan Timothy |
+| 675 | 22 | tg |
 | 676 | 22 | Joseph Vs Cap |
-| 677 | 22 | ShayePooh |
-| 678 | 22 | tg |
+| 677 | 22 | Happy Blocky |
+| 678 | 22 | ShayePooh |
 | 679 | 22 | Stephen Glaze |
-| 680 | 22 | Duncan Timothy |
-| 681 | 21 | lady |
-| 682 | 21 | BB |
-| 683 | 21 | Taz Ballard |
-| 684 | 21 | Arturo Hernandez II |
-| 685 | 21 | Crafty Witch |
-| 686 | 21 | Clever Blocker |
-| 687 | 21 | RylonJones |
-| 688 | 21 | Jeremy Hendrix |
-| 689 | 21 | Christy |
+| 680 | 22 | Jroc Tyra Taylor |
+| 681 | 22 | Kate Hancock Malicek |
+| 682 | 21 | Desiree Ryder |
+| 683 | 21 | Clever Blocker |
+| 684 | 21 | Crafty Witch |
+| 685 | 21 | Arturo Hernandez II |
+| 686 | 21 | RylonJones |
+| 687 | 21 | lady |
+| 688 | 21 | Taz Ballard |
+| 689 | 21 | BB |
 | 690 | 21 | Cali Lee |
-| 691 | 21 | Desiree Ryder |
-| 692 | 21 | Zappy Zoney |
+| 691 | 21 | Zappy Zoney |
+| 692 | 21 | Christy |
 | 693 | 21 | Richelle Beck |
-| 694 | 20 | BonnieB |
-| 695 | 20 | Ebie |
+| 694 | 20 | SherylU |
+| 695 | 20 | Phillip White |
 | 696 | 20 | Kenneth Hefney |
 | 697 | 20 | Mahagony Small |
-| 698 | 20 | Jonathan McKenzie |
-| 699 | 20 | Sallie Sanborn |
-| 700 | 20 | Phillip White |
-| 701 | 20 | SherylU |
-| 702 | 20 | Bold Spinblock |
+| 698 | 20 | Bold Spinblock |
+| 699 | 20 | BonnieB |
+| 700 | 20 | Charlean Sims |
+| 701 | 20 | Jonathan McKenzie |
+| 702 | 20 | Cynthia Bradley |
 | 703 | 20 | Bryttani GoingPlaces Latimer |
-| 704 | 20 | Charlean Sims |
-| 705 | 20 | Giggy Edgefit |
-| 706 | 20 | Biggestboss Ransom |
-| 707 | 20 | Cynthia Potter |
-| 708 | 20 | Lyn Reed |
-| 709 | 20 | NedaWin |
-| 710 | 20 | Cynthia Bradley |
-| 711 | 20 | B.L. Perry |
-| 712 | 20 | Spotlight |
-| 713 | 20 | Tanisha Robinson |
-| 714 | 19 | Megan Jones |
-| 715 | 19 | Idelia L Brown |
+| 704 | 20 | Ebie |
+| 705 | 20 | Sallie Sanborn |
+| 706 | 20 | NedaWin |
+| 707 | 20 | Lyn Reed |
+| 708 | 20 | Tanisha Robinson |
+| 709 | 20 | Biggestboss Ransom |
+| 710 | 20 | Cynthia Potter |
+| 711 | 20 | Giggy Edgefit |
+| 712 | 20 | B.L. Perry |
+| 713 | 20 | Spotlight |
+| 714 | 19 | Idelia L Brown |
+| 715 | 19 | Jose Rodriguez |
 | 716 | 19 | Michele Simpson |
-| 717 | 19 | Jose Rodriguez |
-| 718 | 19 | TY Newme Batts |
+| 717 | 19 | TY Newme Batts |
+| 718 | 19 | Megan Jones |
 | 719 | 19 | Chuck Quarles |
 | 720 | 19 | Holly Baker |
-| 721 | 19 | Lozuna |
-| 722 | 19 | Ivan Israel |
+| 721 | 19 | Ivan Israel |
+| 722 | 19 | Lozuna |
 | 723 | 19 | Panda Vibes |
 | 724 | 19 | Yashicha Hertzock |
 | 725 | 19 | Michelle Stanford-Page |
