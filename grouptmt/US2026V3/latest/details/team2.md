@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 17:56:16 UTC
+# Standings for team2 as of 2026-06-06 17:56:38 UTC
 
 **Total Participants:** 1294
 
@@ -90,8 +90,8 @@
 | 82 | 537 | Rhonda Diebold |
 | 83 | 531 | Nawang Nawang |
 | 84 | 515 | Loony Faller |
-| 85 | 507 | Mirr Lulu |
-| 86 | 507 | Giddy Slamdrop |
+| 85 | 507 | Giddy Slamdrop |
+| 86 | 507 | Mirr Lulu |
 | 87 | 501 | Ricardo Ewart |
 | 88 | 500 | Suki Kaur |
 | 89 | 496 | Amber Miller Wirick |
@@ -109,12 +109,12 @@
 | 101 | 430 | Amanda Sikes |
 | 102 | 408 | Marquetta Johnson |
 | 103 | 405 | Judy Long |
-| 104 | 402 | Steven Craig |
-| 105 | 400 | Allie Bug |
-| 106 | 400 | Smashanator |
-| 107 | 390 | La chulis |
-| 108 | 389 | Kimberly Cowan |
-| 109 | 382 | Lisa Breiding |
+| 104 | 402 | Lisa Breiding |
+| 105 | 402 | Steven Craig |
+| 106 | 400 | Allie Bug |
+| 107 | 400 | Smashanator |
+| 108 | 390 | La chulis |
+| 109 | 389 | Kimberly Cowan |
 | 110 | 368 | MaddieCherie |
 | 111 | 357 | Crystal Allen |
 | 112 | 354 | Branden Frankowski |
