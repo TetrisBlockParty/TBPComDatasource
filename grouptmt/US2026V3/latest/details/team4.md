@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 04:25:16 UTC
+# Standings for team4 as of 2026-06-06 04:26:16 UTC
 
 **Total Participants:** 783
 
@@ -28,7 +28,7 @@
 | 20 | 906 | Fruitpunch |
 | 21 | 876 | SMV |
 | 22 | 846 | Cal Renee |
-| 23 | 809 | Blind Bette |
+| 23 | 820 | Blind Bette |
 | 24 | 740 | Kathy Brookins |
 | 25 | 738 | Shaina Sharp |
 | 26 | 735 | Gloria Nunley Trussell |
@@ -279,66 +279,66 @@
 | 271 | 57 | PapaB |
 | 272 | 57 | BusterBear56 |
 | 273 | 57 | Noa Lee |
-| 274 | 56 | Bre Dee |
+| 274 | 56 | Joshua Hunt |
 | 275 | 56 | Kay |
 | 276 | 56 | Karen Davis |
-| 277 | 56 | Joshua Hunt |
+| 277 | 56 | Bre Dee |
 | 278 | 55 | Daring Brickbuilder |
-| 279 | 54 | Dawn Phelps |
+| 279 | 54 | Zappy Matchgrid |
 | 280 | 54 | Playa |
-| 281 | 54 | Zappy Matchgrid |
+| 281 | 54 | Dawn Phelps |
 | 282 | 53 | LaTanya GeminiondaRise Johnson |
-| 283 | 52 | Lul Babie |
-| 284 | 52 | shawna |
-| 285 | 52 | Jj Johnson |
-| 286 | 51 | YenSid |
+| 283 | 52 | Jj Johnson |
+| 284 | 52 | Lul Babie |
+| 285 | 52 | shawna |
+| 286 | 51 | Vergie Michael |
 | 287 | 51 | yourmomz |
-| 288 | 51 | Vergie Michael |
+| 288 | 51 | YenSid |
 | 289 | 51 | Amanda Snow |
-| 290 | 50 | Nova Kain |
-| 291 | 50 | Cheeky Climber |
-| 292 | 50 | Snappy Fitzone |
-| 293 | 50 | Nerdy Brickster |
-| 294 | 50 | Ginny |
-| 295 | 50 | Andrick |
-| 296 | 50 | Jacqueline Wright |
-| 297 | 50 | Anna Ryan |
-| 298 | 50 | Susan Stofberg Beltran |
-| 299 | 50 | Jeff Margolis |
-| 300 | 50 | Sassy Column |
-| 301 | 50 | Diane Obungu |
-| 302 | 49 | Laurie Patrick |
-| 303 | 49 | Destiny Starr LeValdo |
-| 304 | 49 | smarty |
-| 305 | 49 | Nicole |
-| 306 | 49 | Karen Riexinger |
-| 307 | 49 | Fancy Rollfit |
-| 308 | 49 | Darren Miguel |
-| 309 | 48 | Lilo |
-| 310 | 48 | Clever Patterner |
-| 311 | 48 | Surviving Be Back Soon |
-| 312 | 48 | Alex Armour |
+| 290 | 50 | Jacqueline Wright |
+| 291 | 50 | Snappy Fitzone |
+| 292 | 50 | Nerdy Brickster |
+| 293 | 50 | Nova Kain |
+| 294 | 50 | Cheeky Climber |
+| 295 | 50 | Ginny |
+| 296 | 50 | Diane Obungu |
+| 297 | 50 | Sassy Column |
+| 298 | 50 | Jeff Margolis |
+| 299 | 50 | Andrick |
+| 300 | 50 | Susan Stofberg Beltran |
+| 301 | 50 | Anna Ryan |
+| 302 | 49 | Fancy Rollfit |
+| 303 | 49 | smarty |
+| 304 | 49 | Destiny Starr LeValdo |
+| 305 | 49 | Laurie Patrick |
+| 306 | 49 | Nicole |
+| 307 | 49 | Karen Riexinger |
+| 308 | 49 | Gorica Prusina |
+| 309 | 49 | Darren Miguel |
+| 310 | 48 | Alex Armour |
+| 311 | 48 | Lilo |
+| 312 | 48 | Surviving Be Back Soon |
 | 313 | 48 | LilRain |
 | 314 | 48 | Joseph Hunter |
-| 315 | 47 | Bonique Bier |
-| 316 | 47 | Melissa Quinn |
+| 315 | 48 | Clever Patterner |
+| 316 | 47 | Bonique Bier |
 | 317 | 47 | Jessica Jones Bolton |
-| 318 | 47 | Tipsy Zonebuilder |
-| 319 | 47 | 94Blockhead |
-| 320 | 46 | Esmond Johnson IV |
-| 321 | 46 | Gorica Prusina |
+| 318 | 47 | Melissa Quinn |
+| 319 | 47 | Tipsy Zonebuilder |
+| 320 | 47 | 94Blockhead |
+| 321 | 46 | Esmond Johnson IV |
 | 322 | 46 | Tamika Ashli Bonner |
-| 323 | 45 | Denise Wilson |
+| 323 | 45 | Loopy Hitter |
 | 324 | 45 | EmBem |
 | 325 | 45 | Joshua Garner |
 | 326 | 45 | MattJennifer Marie Ericson |
 | 327 | 45 | Knijur Callins |
 | 328 | 45 | Dennis Montoya |
-| 329 | 45 | BurnedCrab52 |
-| 330 | 45 | Shawna Downey |
+| 329 | 45 | Shawna Downey |
+| 330 | 45 | BurnedCrab52 |
 | 331 | 45 | Jason Moves |
 | 332 | 45 | Azahares Alonso |
-| 333 | 45 | Loopy Hitter |
+| 333 | 45 | Denise Wilson |
 | 334 | 44 | Karen Rodriguez |
 | 335 | 44 | Monte Smith |
 | 336 | 44 | EJ Frazier |
@@ -714,81 +714,81 @@
 | 706 | 10 | Jillian Marie |
 | 707 | 10 | Sherri Lorent |
 | 708 | 10 | Monika Webb |
-| 709 | 9 | beauxie |
-| 710 | 9 | Hotstuff |
-| 711 | 9 | Stephanie Brock |
-| 712 | 9 | Darryl Shufford |
-| 713 | 9 | DuvaDova Ahava |
-| 714 | 9 | nanaz86 |
-| 715 | 9 | Gma420 |
-| 716 | 9 | Corie A. Brinson |
-| 717 | 9 | Todd Hamilton |
-| 718 | 9 | Kelli Miller |
-| 719 | 9 | Frothy Riseclear |
-| 720 | 9 | Lanelva Tiredofbs Marshall |
-| 721 | 9 | Suzi Smas |
+| 709 | 9 | Gma420 |
+| 710 | 9 | Suzi Smas |
+| 711 | 9 | Frothy Riseclear |
+| 712 | 9 | Corie A. Brinson |
+| 713 | 9 | Stephanie Brock |
+| 714 | 9 | Hotstuff |
+| 715 | 9 | Darryl Shufford |
+| 716 | 9 | DuvaDova Ahava |
+| 717 | 9 | nanaz86 |
+| 718 | 9 | Todd Hamilton |
+| 719 | 9 | Kelli Miller |
+| 720 | 9 | beauxie |
+| 721 | 9 | Lanelva Tiredofbs Marshall |
 | 722 | 9 | juler |
 | 723 | 9 | fmp |
-| 724 | 8 | Christy Petty |
+| 724 | 8 | LaTesha D Williams |
 | 725 | 8 | Donovan Parmenter Gagne |
-| 726 | 8 | Mac James |
-| 727 | 8 | Stephanie Williams |
-| 728 | 8 | La Ah Ox |
-| 729 | 8 | Gabby Markham |
+| 726 | 8 | Stephanie Williams |
+| 727 | 8 | BertaF1irta |
+| 728 | 8 | Christy Petty |
+| 729 | 8 | GETBOXED! |
 | 730 | 8 | Bryieson Watson |
-| 731 | 8 | BigCup ReeseCup |
-| 732 | 8 | Frby Amberr |
-| 733 | 8 | LaTesha D Williams |
-| 734 | 8 | BertaF1irta |
-| 735 | 8 | Happy shelli |
+| 731 | 8 | Frby Amberr |
+| 732 | 8 | La Ah Ox |
+| 733 | 8 | BigCup ReeseCup |
+| 734 | 8 | Mac James |
+| 735 | 8 | Gabby Markham |
 | 736 | 8 | tj |
-| 737 | 7 | Sheries |
-| 738 | 7 | Brandy Dark |
-| 739 | 7 | Erica Hardwick |
-| 740 | 7 | Chipper Hitter |
-| 741 | 7 | Malinda Fife |
-| 742 | 7 | Kaps |
-| 743 | 7 | Meela Abdurrab |
-| 744 | 7 | Erica Armstrong Baz |
-| 745 | 7 | Sharron Mullins |
-| 746 | 7 | Crystal Parker Bryant |
-| 747 | 7 | J |
-| 748 | 7 | John Brandon Kinney |
-| 749 | 7 | Estmercy |
-| 750 | 6 | Margarita Santana |
+| 737 | 8 | Happy shelli |
+| 738 | 7 | Estmercy |
+| 739 | 7 | Kaps |
+| 740 | 7 | Malinda Fife |
+| 741 | 7 | Meela Abdurrab |
+| 742 | 7 | Erica Armstrong Baz |
+| 743 | 7 | Sharron Mullins |
+| 744 | 7 | Chipper Hitter |
+| 745 | 7 | Erica Hardwick |
+| 746 | 7 | J |
+| 747 | 7 | John Brandon Kinney |
+| 748 | 7 | Brandy Dark |
+| 749 | 7 | Sheries |
+| 750 | 7 | Crystal Parker Bryant |
 | 751 | 6 | MamaC |
-| 752 | 6 | Jeremy |
-| 753 | 6 | Willedtra Griffin |
-| 754 | 6 | Goodie |
-| 755 | 6 | Rachel |
-| 756 | 6 | LaToya LeBlanc |
+| 752 | 6 | Goodie |
+| 753 | 6 | Jeremy |
+| 754 | 6 | Renita Jordan |
+| 755 | 6 | LaToya LeBlanc |
+| 756 | 6 | Austin Tan |
 | 757 | 6 | Tricki Woo |
-| 758 | 6 | Funky Zonebuilder |
-| 759 | 6 | Renita Jordan |
-| 760 | 6 | GETBOXED! |
-| 761 | 6 | Austin Tan |
-| 762 | 6 | Delashawne Hodgson |
-| 763 | 6 | Shannon Rivera |
-| 764 | 5 | Swanky Zigzag |
-| 765 | 5 | mikey moo |
-| 766 | 5 | Lolita Nettles |
-| 767 | 5 | Haylee Talkington |
-| 768 | 5 | Lively Cascadeclear |
-| 769 | 5 | Perky Balanceblock |
-| 770 | 5 | Brandon Bedenbaugh |
-| 771 | 5 | Clever Fallzone |
-| 772 | 5 | Cheery Twister |
-| 773 | 5 | Freddy-B |
-| 774 | 5 | Melissa Wilson |
+| 758 | 6 | Rachel |
+| 759 | 6 | Shannon Rivera |
+| 760 | 6 | Margarita Santana |
+| 761 | 6 | Willedtra Griffin |
+| 762 | 6 | Funky Zonebuilder |
+| 763 | 6 | Delashawne Hodgson |
+| 764 | 5 | Cheery Twister |
+| 765 | 5 | Clever Fallzone |
+| 766 | 5 | Lively Cascadeclear |
+| 767 | 5 | Melissa Wilson |
+| 768 | 5 | Swanky Zigzag |
+| 769 | 5 | Lolita Nettles |
+| 770 | 5 | Haylee Talkington |
+| 771 | 5 | Tippet |
+| 772 | 5 | Perky Balanceblock |
+| 773 | 5 | Brandon Bedenbaugh |
+| 774 | 5 | Freddy-B |
 | 775 | 5 | Ali Nicole |
 | 776 | 5 | TheazO |
 | 777 | 5 | Elena Marí |
-| 778 | 5 | Poppy Glider |
-| 779 | 5 | Tippet |
-| 780 | 5 | Danielle Mitchell |
+| 778 | 5 | mikey moo |
+| 779 | 5 | Purple Queen |
+| 780 | 5 | Poppy Glider |
 | 781 | 5 | Dae Von |
-| 782 | 5 | Purple Queen |
-| 783 | 5 | Cflixer |
+| 782 | 5 | Cflixer |
+| 783 | 5 | Danielle Mitchell |
 
 ---
 *Standings created by tournaments datasource generation tool*
