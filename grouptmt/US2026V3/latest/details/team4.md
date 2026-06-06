@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 22:52:17 UTC
+# Standings for team4 as of 2026-06-06 22:52:42 UTC
 
 **Total Participants:** 1188
 
@@ -798,14 +798,14 @@
 | 790 | 34 | Yulissa Diaz |
 | 791 | 34 | Sherri Lorent |
 | 792 | 34 | Giggly Column |
-| 793 | 34 | Amanda Albritton Moore |
-| 794 | 33 | MsThick SrtLady Williams |
-| 795 | 33 | Yaya Selbor |
-| 796 | 33 | Tommy Thomas |
-| 797 | 33 | Alaina Rousseau |
-| 798 | 33 | Wacky Snaplink |
-| 799 | 33 | Casey Thomas |
-| 800 | 33 | Alicia Blunt |
+| 793 | 34 | Alicia Blunt |
+| 794 | 34 | Amanda Albritton Moore |
+| 795 | 33 | MsThick SrtLady Williams |
+| 796 | 33 | Yaya Selbor |
+| 797 | 33 | Tommy Thomas |
+| 798 | 33 | Alaina Rousseau |
+| 799 | 33 | Wacky Snaplink |
+| 800 | 33 | Casey Thomas |
 | 801 | 33 | Tracy Ann Frederick |
 | 802 | 33 | Chill Snapclear |
 | 803 | 33 | CrashOutCarla |
