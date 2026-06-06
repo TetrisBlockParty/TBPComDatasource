@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 09:36:36 UTC
+# Standings for team2 as of 2026-06-06 09:37:15 UTC
 
 **Total Participants:** 1099
 
@@ -16,8 +16,8 @@
 | 8 | 5108 | Puce guide 9156 |
 | 9 | 4504 | Cori Keberlein |
 | 10 | 4500 | Mocha |
-| 11 | 3984 | Amber |
-| 12 | 3971 | Christina Shell |
+| 11 | 4071 | Christina Shell |
+| 12 | 3984 | Amber |
 | 13 | 3812 | Crystal M Sowden |
 | 14 | 3605 | Crystalin Heath Lewis |
 | 15 | 3283 | Jewels |
@@ -336,44 +336,44 @@
 | 328 | 74 | Derrick |
 | 329 | 74 | Natasha Lee |
 | 330 | 74 | Jumpy Dashpiece |
-| 331 | 73 | bozzycat |
+| 331 | 73 | Rachel M. Farnsworth |
 | 332 | 73 | Joannah Capilitan |
-| 333 | 73 | Rachel M. Farnsworth |
+| 333 | 73 | bozzycat |
 | 334 | 73 | Sunny Spinzone |
 | 335 | 72 | Kendi |
-| 336 | 72 | Mary Carriere |
-| 337 | 72 | Sully |
-| 338 | 72 | Stephanie Smith Robinson |
-| 339 | 71 | Cindy Scott |
+| 336 | 72 | StacyBabee |
+| 337 | 72 | Mary Carriere |
+| 338 | 72 | Sully |
+| 339 | 72 | Stephanie Smith Robinson |
 | 340 | 71 | Groovy Glider |
-| 341 | 71 | Sandy Lynn |
-| 342 | 70 | Courtney Madison Hart |
-| 343 | 70 | Tonya Marino |
-| 344 | 70 | Jennifer Covington |
-| 345 | 70 | Ceci |
-| 346 | 69 | REE4 |
-| 347 | 69 | Momof2wigglebutts |
-| 348 | 69 | Alonzo Reed |
-| 349 | 69 | Cynthia Dawn Reitz Hanson |
-| 350 | 69 | Ashley Billiot Rhodes |
-| 351 | 69 | Justin McCray |
-| 352 | 68 | Avie Lou |
+| 341 | 71 | Cindy Scott |
+| 342 | 71 | Sandy Lynn |
+| 343 | 70 | Courtney Madison Hart |
+| 344 | 70 | Tonya Marino |
+| 345 | 70 | Jennifer Covington |
+| 346 | 70 | Ceci |
+| 347 | 69 | Ashley Billiot Rhodes |
+| 348 | 69 | Cynthia Dawn Reitz Hanson |
+| 349 | 69 | Justin McCray |
+| 350 | 69 | Alonzo Reed |
+| 351 | 69 | REE4 |
+| 352 | 69 | Momof2wigglebutts |
 | 353 | 68 | Arik DiLorenzo |
-| 354 | 68 | Cozy Cascade |
-| 355 | 68 | AndyJo |
-| 356 | 68 | Belinda Gullion Austin |
-| 357 | 68 | Erica South |
-| 358 | 68 | Fancy Stacker |
-| 359 | 66 | Crystal Robinson |
-| 360 | 66 | Jennifer Lalk |
-| 361 | 66 | Frilly Shiftsnap |
-| 362 | 66 | Donna Segletes Kay |
-| 363 | 65 | Sarah Jane Gorsuch |
-| 364 | 65 | Susie Conger |
-| 365 | 65 | StacyBabee |
+| 354 | 68 | Avie Lou |
+| 355 | 68 | Cozy Cascade |
+| 356 | 68 | AndyJo |
+| 357 | 68 | Belinda Gullion Austin |
+| 358 | 68 | Erica South |
+| 359 | 68 | Fancy Stacker |
+| 360 | 66 | Crystal Robinson |
+| 361 | 66 | Jennifer Lalk |
+| 362 | 66 | Frilly Shiftsnap |
+| 363 | 66 | Donna Segletes Kay |
+| 364 | 65 | Justin Stark |
+| 365 | 65 | Susie Conger |
 | 366 | 65 | Jumpy Matchbuilder |
 | 367 | 65 | Sarah Louise Cobb |
-| 368 | 65 | Justin Stark |
+| 368 | 65 | Sarah Jane Gorsuch |
 | 369 | 64 | Amanda Bottorff |
 | 370 | 64 | Paige Lynette Sohl |
 | 371 | 64 | Earline Dupuy Bordelon |
