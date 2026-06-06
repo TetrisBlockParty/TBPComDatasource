@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 22:58:38 UTC
+# Standings for team2 as of 2026-06-06 22:59:18 UTC
 
 **Total Participants:** 1431
 
@@ -38,9 +38,9 @@
 | 30 | 2053 | Frisky Balanceblock |
 | 31 | 1957 | Lola C Davis |
 | 32 | 1906 | Jennifer Corder |
-| 33 | 1803 | Julie Trede Amerson |
-| 34 | 1800 | Quirky Catcher |
-| 35 | 1784 | Frilly Match |
+| 33 | 1841 | Frilly Match |
+| 34 | 1803 | Julie Trede Amerson |
+| 35 | 1800 | Quirky Catcher |
 | 36 | 1740 | Ashley Miller |
 | 37 | 1678 | Betty Barrett |
 | 38 | 1537 | Bea Bee |
@@ -117,8 +117,8 @@
 | 109 | 433 | Kimberly Cowan |
 | 110 | 430 | Amanda Sikes |
 | 111 | 428 | Steven Craig |
-| 112 | 408 | Bubbly Strikerpiece |
-| 113 | 408 | Suki Jacobs |
+| 112 | 408 | Suki Jacobs |
+| 113 | 408 | Bubbly Strikerpiece |
 | 114 | 405 | Judy Long |
 | 115 | 402 | Lisa Breiding |
 | 116 | 400 | Smashanator |
@@ -137,12 +137,12 @@
 | 129 | 340 | Mom |
 | 130 | 338 | Zarah Kettler |
 | 131 | 332 | Jason Cook |
-| 132 | 328 | Jgato |
-| 133 | 328 | Tim Tim |
+| 132 | 328 | Tim Tim |
+| 133 | 328 | Jgato |
 | 134 | 325 | Amy Gregg |
 | 135 | 323 | Shannon Wilson |
-| 136 | 319 | Michelle Rich Burkhart |
-| 137 | 319 | Bon Lynn |
+| 136 | 319 | Bon Lynn |
+| 137 | 319 | Michelle Rich Burkhart |
 | 138 | 317 | Ruby Sandberg |
 | 139 | 315 | Milad Arzani |
 | 140 | 313 | Josh Twilley |
@@ -401,15 +401,15 @@
 | 393 | 99 | Jennifer Vitro |
 | 394 | 99 | Francesca Wagenhoffer |
 | 395 | 99 | Gabrielle Rivera |
-| 396 | 99 | Lively Curve |
+| 396 | 99 | Epic Framezone |
 | 397 | 99 | Melissa Abbott |
-| 398 | 98 | Mary Carriere |
-| 399 | 98 | Justin McCray |
-| 400 | 98 | Lindsey Ross |
-| 401 | 97 | Abby |
-| 402 | 97 | Sandra Pursell |
-| 403 | 97 | Charlotte Castelli |
-| 404 | 97 | Epic Framezone |
+| 398 | 99 | Lively Curve |
+| 399 | 98 | Mary Carriere |
+| 400 | 98 | Justin McCray |
+| 401 | 98 | Lindsey Ross |
+| 402 | 97 | Abby |
+| 403 | 97 | Sandra Pursell |
+| 404 | 97 | Charlotte Castelli |
 | 405 | 97 | Tracy Tokarz |
 | 406 | 96 | Donna Segletes Kay |
 | 407 | 96 | Breezy |
