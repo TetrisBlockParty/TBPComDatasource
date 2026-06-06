@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 06:30:39 UTC
+# Standings for team1 as of 2026-06-06 06:31:16 UTC
 
 **Total Participants:** 890
 
@@ -41,8 +41,8 @@
 | 33 | 771 | Jennifer To |
 | 34 | 749 | Aviv Zehavi |
 | 35 | 715 | Chill Clusterer |
-| 36 | 670 | Jaida King |
-| 37 | 670 | Charnay Peacock |
+| 36 | 670 | Charnay Peacock |
+| 37 | 670 | Jaida King |
 | 38 | 605 | JoJo |
 | 39 | 582 | Ashley Espeut |
 | 40 | 580 | Janet Cooke |
@@ -61,9 +61,9 @@
 | 53 | 388 | SPNLover24 |
 | 54 | 387 | Novaa |
 | 55 | 380 | Bre Maugh |
-| 56 | 380 | IamJust Neyamijah Washington Sr. |
+| 56 | 380 | Jessica Carter |
 | 57 | 380 | She Higgy |
-| 58 | 380 | Jessica Carter |
+| 58 | 380 | IamJust Neyamijah Washington Sr. |
 | 59 | 377 | AF Cruz |
 | 60 | 377 | JaszyBadd |
 | 61 | 371 | Shell Lewis |
@@ -116,50 +116,50 @@
 | 108 | 197 | BYM4L |
 | 109 | 195 | Weeze |
 | 110 | 195 | Mimi 1.0 |
-| 111 | 193 | Brave Clearbuilder |
-| 112 | 188 | Robyn Caldwell |
-| 113 | 186 | Denise B |
-| 114 | 185 | Teddy Davis |
-| 115 | 184 | Dai Bo |
-| 116 | 182 | Hyper Blocky |
-| 117 | 181 | Joey Albright |
-| 118 | 177 | Chris Sladoje |
-| 119 | 175 | Rayshawn Cohen |
-| 120 | 170 | Daris Swearington |
-| 121 | 169 | Asha Langford |
-| 122 | 168 | PandaPrincess |
-| 123 | 166 | Tarnisha Neicy Jones |
-| 124 | 166 | Nobles Brandon |
-| 125 | 165 | Davionte DaeDae Hopson-Rodriguez |
-| 126 | 160 | Zippy Lifter |
-| 127 | 158 | W.A. Simpson |
-| 128 | 156 | Anthony Washington |
-| 129 | 156 | Jessica Russell |
-| 130 | 155 | Jawaun Daniels |
-| 131 | 151 | Dacia Hicks |
-| 132 | 150 | Tina Mitchell |
-| 133 | 147 | David Fuentes |
-| 134 | 147 | MACHETEEDDIE513 |
-| 135 | 146 | Curtis T Cirno |
-| 136 | 144 | Rhonda Williams Warner |
-| 137 | 140 | Felicia Cain |
-| 138 | 140 | Ann Chung |
-| 139 | 140 | Sara Meri |
-| 140 | 139 | Mafio SO |
-| 141 | 138 | Lashaunda |
-| 142 | 137 | BlackQueen105 |
-| 143 | 136 | Marcheta Cervantez |
-| 144 | 135 | Sean White |
-| 145 | 135 | Amber Wilson |
-| 146 | 134 | Sanjuro |
+| 111 | 193 | Sanjuro |
+| 112 | 193 | Brave Clearbuilder |
+| 113 | 188 | Robyn Caldwell |
+| 114 | 186 | Denise B |
+| 115 | 185 | Teddy Davis |
+| 116 | 184 | Dai Bo |
+| 117 | 182 | Hyper Blocky |
+| 118 | 181 | Joey Albright |
+| 119 | 177 | Chris Sladoje |
+| 120 | 175 | Rayshawn Cohen |
+| 121 | 170 | Daris Swearington |
+| 122 | 169 | Asha Langford |
+| 123 | 168 | PandaPrincess |
+| 124 | 166 | Tarnisha Neicy Jones |
+| 125 | 166 | Nobles Brandon |
+| 126 | 165 | Davionte DaeDae Hopson-Rodriguez |
+| 127 | 160 | Zippy Lifter |
+| 128 | 158 | W.A. Simpson |
+| 129 | 156 | Anthony Washington |
+| 130 | 156 | Jessica Russell |
+| 131 | 155 | Jawaun Daniels |
+| 132 | 151 | Dacia Hicks |
+| 133 | 150 | Tina Mitchell |
+| 134 | 147 | David Fuentes |
+| 135 | 147 | MACHETEEDDIE513 |
+| 136 | 146 | Curtis T Cirno |
+| 137 | 144 | Rhonda Williams Warner |
+| 138 | 140 | Felicia Cain |
+| 139 | 140 | Ann Chung |
+| 140 | 140 | Sara Meri |
+| 141 | 139 | Mafio SO |
+| 142 | 138 | Lashaunda |
+| 143 | 137 | BlackQueen105 |
+| 144 | 136 | Marcheta Cervantez |
+| 145 | 135 | Sean White |
+| 146 | 135 | Amber Wilson |
 | 147 | 133 | Andre Sanon |
-| 148 | 132 | DaGuy |
-| 149 | 132 | Jolly Tilefall |
-| 150 | 131 | TBABYJ |
-| 151 | 131 | Byron Mario Cawthon |
-| 152 | 130 | Jessica Davis |
+| 148 | 132 | Jolly Tilefall |
+| 149 | 132 | DaGuy |
+| 150 | 131 | Byron Mario Cawthon |
+| 151 | 131 | TBABYJ |
+| 152 | 130 | Rolanda Williams |
 | 153 | 130 | Emily Wright |
-| 154 | 130 | Rolanda Williams |
+| 154 | 130 | Jessica Davis |
 | 155 | 127 | IThinkNot |
 | 156 | 126 | Cee Emm |
 | 157 | 125 | Kelli Couture |
@@ -170,10 +170,10 @@
 | 162 | 121 | D'Andra Stewart |
 | 163 | 121 | Stephen Providenti |
 | 164 | 121 | Tiana Monique |
-| 165 | 120 | Jai |
+| 165 | 120 | Spicy Risepiece |
 | 166 | 120 | Nerdy Blockpiece |
 | 167 | 120 | Saucy Tile |
-| 168 | 120 | Spicy Risepiece |
+| 168 | 120 | Jai |
 | 169 | 119 | ELM |
 | 170 | 119 | Christina Rebecca |
 | 171 | 118 | Hasty Pivoty |
@@ -619,36 +619,36 @@
 | 611 | 23 | Shona ShayShay Jones |
 | 612 | 23 | Khatyrah Burnette |
 | 613 | 23 | Shakmar |
-| 614 | 23 | Connor Leon Cluff |
-| 615 | 23 | Monica Fields |
-| 616 | 23 | Jamie Lea Popp |
-| 617 | 23 | Shauntai Holiday |
-| 618 | 23 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 619 | 23 | Tabitha Dupre-Allen |
-| 620 | 23 | Genevieve Nieves |
-| 621 | 23 | Eric Spencer Whitaker |
-| 622 | 23 | Hardtohandle91 |
-| 623 | 22 | Jroc Tyra Taylor |
-| 624 | 22 | Stephen Glaze |
-| 625 | 22 | tg |
-| 626 | 22 | Happy Blocky |
-| 627 | 22 | Kate Hancock Malicek |
-| 628 | 22 | Duncan Timothy |
-| 629 | 21 | Taz Ballard |
-| 630 | 21 | Richelle Beck |
-| 631 | 21 | Crafty Witch |
-| 632 | 21 | Desiree Ryder |
-| 633 | 21 | Christy |
-| 634 | 21 | RylonJones |
-| 635 | 21 | Cali Lee |
-| 636 | 21 | Clever Blocker |
-| 637 | 21 | Eli Delao |
+| 614 | 23 | Eli Delao |
+| 615 | 23 | Connor Leon Cluff |
+| 616 | 23 | Monica Fields |
+| 617 | 23 | Jamie Lea Popp |
+| 618 | 23 | Shauntai Holiday |
+| 619 | 23 | Hardtohandle91 |
+| 620 | 23 | Eric Spencer Whitaker |
+| 621 | 23 | Genevieve Nieves |
+| 622 | 23 | Tabitha Dupre-Allen |
+| 623 | 23 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 624 | 22 | Duncan Timothy |
+| 625 | 22 | Stephen Glaze |
+| 626 | 22 | Jroc Tyra Taylor |
+| 627 | 22 | tg |
+| 628 | 22 | Happy Blocky |
+| 629 | 22 | Kate Hancock Malicek |
+| 630 | 21 | Crafty Witch |
+| 631 | 21 | Desiree Ryder |
+| 632 | 21 | Taz Ballard |
+| 633 | 21 | Richelle Beck |
+| 634 | 21 | Christy |
+| 635 | 21 | RylonJones |
+| 636 | 21 | Cali Lee |
+| 637 | 21 | Clever Blocker |
 | 638 | 21 | Arturo Hernandez II |
 | 639 | 21 | lady |
 | 640 | 21 | Zappy Zoney |
 | 641 | 20 | NedaWin |
-| 642 | 20 | Kenneth Hefney |
-| 643 | 20 | Tanisha Robinson |
+| 642 | 20 | Tanisha Robinson |
+| 643 | 20 | Kenneth Hefney |
 | 644 | 20 | Sallie Sanborn |
 | 645 | 20 | Daddy |
 | 646 | 20 | B.L. Perry |
