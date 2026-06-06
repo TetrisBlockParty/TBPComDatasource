@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 12:27:16 UTC
+# Standings for team1 as of 2026-06-06 12:28:17 UTC
 
 **Total Participants:** 979
 
@@ -21,7 +21,7 @@
 | 13 | 2341 | Debbie Carswell |
 | 14 | 1980 | Hunter Rayborn |
 | 15 | 1913 | Sha Harris |
-| 16 | 1609 | jaimie |
+| 16 | 1630 | jaimie |
 | 17 | 1589 | Brian Stackhouse |
 | 18 | 1409 | Epic Snapfall |
 | 19 | 1227 | Pdubbl3 |
@@ -94,25 +94,25 @@
 | 86 | 316 | Ty Øtg |
 | 87 | 305 | John Staub |
 | 88 | 297 | Michelle Titus |
-| 89 | 292 | Robyn Caldwell |
-| 90 | 288 | Chenell Gillard |
-| 91 | 284 | Todd C. Clemens |
-| 92 | 279 | COSA303 |
-| 93 | 278 | Shontanese Adams |
-| 94 | 275 | Chris Sladoje |
-| 95 | 268 | Dee McCool |
-| 96 | 267 | Tammye Turner |
-| 97 | 259 | Chirpy Corner |
-| 98 | 257 | Mimi 1.0 |
-| 99 | 256 | Cortaz Lawrie |
-| 100 | 251 | Helen Smith |
-| 101 | 249 | Ashley MyBeauty Daniels |
-| 102 | 249 | Tamara N Lee |
-| 103 | 244 | Jaida De'Anne Cox |
-| 104 | 244 | Jason Mungin |
-| 105 | 240 | Rayya Kiser |
-| 106 | 237 | Leebo Slice |
-| 107 | 235 | PandaPrincess |
+| 89 | 293 | PandaPrincess |
+| 90 | 292 | Robyn Caldwell |
+| 91 | 288 | Chenell Gillard |
+| 92 | 284 | Todd C. Clemens |
+| 93 | 279 | COSA303 |
+| 94 | 278 | Shontanese Adams |
+| 95 | 275 | Chris Sladoje |
+| 96 | 268 | Dee McCool |
+| 97 | 267 | Tammye Turner |
+| 98 | 259 | Chirpy Corner |
+| 99 | 257 | Mimi 1.0 |
+| 100 | 256 | Cortaz Lawrie |
+| 101 | 251 | Helen Smith |
+| 102 | 249 | Ashley MyBeauty Daniels |
+| 103 | 249 | Tamara N Lee |
+| 104 | 244 | Jaida De'Anne Cox |
+| 105 | 244 | Jason Mungin |
+| 106 | 240 | Rayya Kiser |
+| 107 | 237 | Leebo Slice |
 | 108 | 234 | DaVonte' Cretter |
 | 109 | 229 | Jamal Itzjusmall Chambers |
 | 110 | 227 | Chantelle Lee |
@@ -422,12 +422,12 @@
 | 414 | 51 | Shanjerrica Taylor Rosell |
 | 415 | 51 | Just2Play$ |
 | 416 | 50 | Denell Sims |
-| 417 | 50 | Teresa Yanira Cepeda |
-| 418 | 50 | Slinky Party |
-| 419 | 50 | Rande Smith |
-| 420 | 50 | MsBobby Patrick |
-| 421 | 50 | Nisha Sunshine Jenkins |
-| 422 | 49 | Kate Hancock Malicek |
+| 417 | 50 | Kate Hancock Malicek |
+| 418 | 50 | Teresa Yanira Cepeda |
+| 419 | 50 | Slinky Party |
+| 420 | 50 | Rande Smith |
+| 421 | 50 | MsBobby Patrick |
+| 422 | 50 | Nisha Sunshine Jenkins |
 | 423 | 49 | Teisha Scott |
 | 424 | 49 | Speedy Stacky |
 | 425 | 49 | Casey Chapman |
@@ -969,22 +969,22 @@
 | 961 | 5 | Temeshia Brooks Washington |
 | 962 | 5 | VERA DAME |
 | 963 | 5 | Jimmy Shannon |
-| 964 | 5 | Annette DeLoatch Thompson |
-| 965 | 5 | Jennifer Moore |
-| 966 | 5 | Kidgib5 |
-| 967 | 5 | DRIFTER |
-| 968 | 5 | Aanngie Aanngie |
-| 969 | 5 | Stephanie Zuniga Tullock |
-| 970 | 5 | Zesty Clearer |
-| 971 | 5 | Chill Linkroll |
-| 972 | 5 | Derek Beverly |
-| 973 | 5 | the guy |
-| 974 | 5 | Marissa Sweet |
-| 975 | 5 | Tito Divyn |
-| 976 | 5 | Zappy Clearfit |
-| 977 | 5 | Duckey |
-| 978 | 5 | EvaLynn NeCole |
-| 979 | 5 | Mario Meliodas |
+| 964 | 5 | Jennifer Moore |
+| 965 | 5 | Kidgib5 |
+| 966 | 5 | DRIFTER |
+| 967 | 5 | Aanngie Aanngie |
+| 968 | 5 | Stephanie Zuniga Tullock |
+| 969 | 5 | Zesty Clearer |
+| 970 | 5 | Chill Linkroll |
+| 971 | 5 | Derek Beverly |
+| 972 | 5 | Marissa Sweet |
+| 973 | 5 | Tito Divyn |
+| 974 | 5 | Zappy Clearfit |
+| 975 | 5 | Duckey |
+| 976 | 5 | EvaLynn NeCole |
+| 977 | 5 | Mario Meliodas |
+| 978 | 5 | Annette DeLoatch Thompson |
+| 979 | 5 | the guy |
 
 ---
 *Standings created by tournaments datasource generation tool*
