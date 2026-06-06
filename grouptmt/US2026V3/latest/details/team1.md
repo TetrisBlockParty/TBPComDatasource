@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 17:12:17 UTC
+# Standings for team1 as of 2026-06-06 17:12:40 UTC
 
 **Total Participants:** 1078
 
@@ -85,12 +85,12 @@
 | 77 | 421 | ing410 |
 | 78 | 416 | Bre Maugh |
 | 79 | 401 | Shell Lewis |
-| 80 | 394 | ELM |
-| 81 | 392 | She Higgy |
-| 82 | 388 | SPNLover24 |
-| 83 | 387 | Novaa |
-| 84 | 387 | JaszyBadd |
-| 85 | 382 | Joy Citizen Pickney |
+| 80 | 399 | Joy Citizen Pickney |
+| 81 | 394 | ELM |
+| 82 | 392 | She Higgy |
+| 83 | 388 | SPNLover24 |
+| 84 | 387 | Novaa |
+| 85 | 387 | JaszyBadd |
 | 86 | 382 | Gael Quintana |
 | 87 | 380 | Jessica Carter |
 | 88 | 377 | AF Cruz |
