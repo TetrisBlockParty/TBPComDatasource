@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 23:36:18 UTC
+# Standings for team1 as of 2026-06-06 23:36:39 UTC
 
 **Total Participants:** 1217
 
@@ -72,7 +72,7 @@
 | 64 | 675 | Corey Cawthon |
 | 65 | 656 | Kimberly Hernandez |
 | 66 | 648 | Eartha Brown |
-| 67 | 611 | No_Other_Choice |
+| 67 | 641 | No_Other_Choice |
 | 68 | 605 | JoJo |
 | 69 | 598 | Ivana Schmidt |
 | 70 | 586 | Kellie Hall |
@@ -165,12 +165,12 @@
 | 157 | 246 | Denise B |
 | 158 | 246 | Marcheta Cervantez |
 | 159 | 245 | Derrius SeriousLee Burks |
-| 160 | 241 | SyTheEvilGenius1 |
-| 161 | 240 | Rayya Kiser |
-| 162 | 237 | David Fuentes |
-| 163 | 236 | Anthony Washington |
+| 160 | 243 | Brave Clearbuilder |
+| 161 | 241 | SyTheEvilGenius1 |
+| 162 | 240 | Rayya Kiser |
+| 163 | 237 | David Fuentes |
 | 164 | 236 | Nutty Spinblock |
-| 165 | 233 | Brave Clearbuilder |
+| 165 | 236 | Anthony Washington |
 | 166 | 232 | Jazzy Fireflighters |
 | 167 | 228 | Dacia Hicks |
 | 168 | 226 | xXEKUNXx |

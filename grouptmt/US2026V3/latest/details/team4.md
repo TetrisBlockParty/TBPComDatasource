@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 23:36:18 UTC
+# Standings for team4 as of 2026-06-06 23:36:39 UTC
 
 **Total Participants:** 1200
 
@@ -60,8 +60,8 @@
 | 52 | 747 | Bubbly Twistpiece |
 | 53 | 738 | Shaina Sharp |
 | 54 | 736 | Gloria Nunley Trussell |
-| 55 | 722 | Chummy Rollzone |
-| 56 | 722 | Keesha Muro |
+| 55 | 722 | Keesha Muro |
+| 56 | 722 | Chummy Rollzone |
 | 57 | 720 | Carly Stempien |
 | 58 | 718 | Phil Peterson |
 | 59 | 711 | MysticMaven |
@@ -269,29 +269,29 @@
 | 261 | 127 | Samara Garcia |
 | 262 | 127 | Cheeky Climber |
 | 263 | 126 | Corie A. Brinson |
-| 264 | 126 | LastBoi |
-| 265 | 124 | Rachel Lemos |
-| 266 | 124 | Dapper Strikerpiece |
-| 267 | 123 | Lively Cascadebuilder |
-| 268 | 122 | Andrick |
-| 269 | 121 | Jennifer Fisher Franklin |
-| 270 | 121 | Jazzy Gridder |
-| 271 | 120 | Glamorous Gracey |
-| 272 | 120 | Cool Risepiece |
-| 273 | 120 | Joab Gonzalez |
-| 274 | 120 | Holly Wessel |
-| 275 | 120 | Shiny Brick |
-| 276 | 119 | aga |
-| 277 | 119 | Name |
-| 278 | 119 | Rae Saunders |
-| 279 | 119 | Ashley Jenkins |
-| 280 | 118 | Goofy Fall |
-| 281 | 117 | Fancy Tilefall |
-| 282 | 117 | Blockcrusher |
-| 283 | 116 | Shocinda Sherwood |
-| 284 | 116 | Samantha Worley |
-| 285 | 116 | Toon Up |
-| 286 | 116 | Pepone Pepe |
+| 264 | 126 | Blockcrusher |
+| 265 | 126 | LastBoi |
+| 266 | 124 | Rachel Lemos |
+| 267 | 124 | Dapper Strikerpiece |
+| 268 | 123 | Lively Cascadebuilder |
+| 269 | 122 | Andrick |
+| 270 | 121 | Jennifer Fisher Franklin |
+| 271 | 121 | Jazzy Gridder |
+| 272 | 120 | Glamorous Gracey |
+| 273 | 120 | Cool Risepiece |
+| 274 | 120 | Joab Gonzalez |
+| 275 | 120 | Holly Wessel |
+| 276 | 120 | Shiny Brick |
+| 277 | 119 | aga |
+| 278 | 119 | Name |
+| 279 | 119 | Rae Saunders |
+| 280 | 119 | Ashley Jenkins |
+| 281 | 118 | Goofy Fall |
+| 282 | 117 | Fancy Tilefall |
+| 283 | 116 | Samantha Worley |
+| 284 | 116 | Shocinda Sherwood |
+| 285 | 116 | Pepone Pepe |
+| 286 | 116 | Toon Up |
 | 287 | 115 | Hardy Fuller |
 | 288 | 113 | George Palacios |
 | 289 | 113 | Dizzy Slammer |
@@ -502,72 +502,72 @@
 | 494 | 65 | Youngkueen |
 | 495 | 65 | Joshua Garner |
 | 496 | 65 | Lul Babie |
-| 497 | 64 | Marisela Alvarado |
-| 498 | 64 | Suzanne North |
-| 499 | 64 | sierrabeth |
-| 500 | 64 | Deb 07 |
+| 497 | 65 | Stotty |
+| 498 | 64 | Marisela Alvarado |
+| 499 | 64 | Suzanne North |
+| 500 | 64 | sierrabeth |
 | 501 | 64 | Destiny Starr LeValdo |
-| 502 | 64 | Daring Brickbuilder |
-| 503 | 64 | David Lay |
-| 504 | 63 | Fancy Rollfit |
+| 502 | 64 | Deb 07 |
+| 503 | 64 | Daring Brickbuilder |
+| 504 | 64 | David Lay |
 | 505 | 63 | Butterpat |
-| 506 | 63 | Karen Davis |
-| 507 | 63 | Brenda Mueller |
-| 508 | 63 | Shirley A. Godfrey |
-| 509 | 63 | MattJennifer Marie Ericson |
-| 510 | 63 | Brenda Gustamantes |
-| 511 | 63 | Silly Fallzone |
-| 512 | 63 | Breezy Rollfit |
-| 513 | 62 | Mar Mar |
-| 514 | 62 | Lisa Pie |
-| 515 | 62 | Alicia Cook |
-| 516 | 62 | Surviving Be Back Soon |
+| 506 | 63 | Breezy Rollfit |
+| 507 | 63 | Fancy Rollfit |
+| 508 | 63 | MattJennifer Marie Ericson |
+| 509 | 63 | Brenda Mueller |
+| 510 | 63 | Silly Fallzone |
+| 511 | 63 | Brenda Gustamantes |
+| 512 | 63 | Shirley A. Godfrey |
+| 513 | 63 | Karen Davis |
+| 514 | 62 | YenSid |
+| 515 | 62 | 94Blockhead |
+| 516 | 62 | Chris McBlockster |
 | 517 | 62 | Joyce Hampton |
-| 518 | 62 | Chris McBlockster |
-| 519 | 62 | YenSid |
-| 520 | 62 | Tony Clark |
-| 521 | 62 | medicjessi |
-| 522 | 62 | 94Blockhead |
-| 523 | 62 | Gabby Simones |
-| 524 | 61 | Missionary Meda |
-| 525 | 61 | Tasha Suzanne Prisbrey |
-| 526 | 61 | Lolita Nettles |
-| 527 | 61 | Happy Filler |
-| 528 | 60 | Nerdy Brickster |
-| 529 | 60 | Helen Bradley |
-| 530 | 60 | Uh Lesh Uh |
-| 531 | 60 | Jessica Kelly |
-| 532 | 60 | Brandon Bedenbaugh |
-| 533 | 60 | Robert Crow |
-| 534 | 60 | George Marshburn |
-| 535 | 60 | Rin |
-| 536 | 60 | Chris Rowe |
-| 537 | 60 | Nicole Ambrose |
-| 538 | 60 | Tiffy |
-| 539 | 60 | Natalie Dillard |
-| 540 | 60 | Anthony Magaraci |
-| 541 | 60 | Jeri Anne Stormo-Toman |
-| 542 | 60 | Randy M Hatch |
-| 543 | 60 | Kristine Hj Han |
-| 544 | 60 | DanceAngel |
-| 545 | 59 | Inez Nez |
-| 546 | 59 | Capone |
-| 547 | 59 | Jacinta Hooker-Brown |
-| 548 | 59 | Loyalty83 |
-| 549 | 59 | Tammy Lasseigne |
-| 550 | 59 | Anthony Kollar |
-| 551 | 59 | Gigi5 |
-| 552 | 59 | Stotty |
-| 553 | 59 | Yvette Johnson |
-| 554 | 58 | Charlene Nicole Guidry |
-| 555 | 58 | Kimberly Lusk |
-| 556 | 58 | Holly Bramel |
+| 518 | 62 | Tony Clark |
+| 519 | 62 | Surviving Be Back Soon |
+| 520 | 62 | medicjessi |
+| 521 | 62 | Alicia Cook |
+| 522 | 62 | Gabby Simones |
+| 523 | 62 | Lisa Pie |
+| 524 | 62 | Mar Mar |
+| 525 | 61 | Missionary Meda |
+| 526 | 61 | Tasha Suzanne Prisbrey |
+| 527 | 61 | Lolita Nettles |
+| 528 | 61 | Happy Filler |
+| 529 | 60 | Jeri Anne Stormo-Toman |
+| 530 | 60 | Helen Bradley |
+| 531 | 60 | Uh Lesh Uh |
+| 532 | 60 | Jessica Kelly |
+| 533 | 60 | Brandon Bedenbaugh |
+| 534 | 60 | Robert Crow |
+| 535 | 60 | George Marshburn |
+| 536 | 60 | Rin |
+| 537 | 60 | Chris Rowe |
+| 538 | 60 | Nicole Ambrose |
+| 539 | 60 | Tiffy |
+| 540 | 60 | Nerdy Brickster |
+| 541 | 60 | Natalie Dillard |
+| 542 | 60 | Anthony Magaraci |
+| 543 | 60 | Randy M Hatch |
+| 544 | 60 | Kristine Hj Han |
+| 545 | 60 | DanceAngel |
+| 546 | 59 | Inez Nez |
+| 547 | 59 | Gigi5 |
+| 548 | 59 | Capone |
+| 549 | 59 | Yvette Johnson |
+| 550 | 59 | Jacinta Hooker-Brown |
+| 551 | 59 | Loyalty83 |
+| 552 | 59 | Tammy Lasseigne |
+| 553 | 59 | Anthony Kollar |
+| 554 | 58 | Holly Bramel |
+| 555 | 58 | Charlene Nicole Guidry |
+| 556 | 58 | Kimberly Lusk |
 | 557 | 58 | Mc3003 |
 | 558 | 58 | Jade Alley |
 | 559 | 58 | Lana Tran |
-| 560 | 57 | PerfectPieces |
-| 561 | 57 | Erica Pompey |
-| 562 | 57 | Giggy Snapgrid |
+| 560 | 57 | Erica Pompey |
+| 561 | 57 | Giggy Snapgrid |
+| 562 | 57 | PerfectPieces |
 | 563 | 57 | Heather Hilferty |
 | 564 | 57 | Волна Бог |
 | 565 | 57 | Lala |
