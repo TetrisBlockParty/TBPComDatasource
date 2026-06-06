@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 01:18:17 UTC
+# Standings for team4 as of 2026-06-06 01:18:37 UTC
 
 **Total Participants:** 627
 
@@ -27,8 +27,8 @@
 | 19 | 876 | SMV |
 | 20 | 846 | Cal Renee |
 | 21 | 784 | Blind Bette |
-| 22 | 700 | Kathy Brookins |
-| 23 | 700 | Carly Stempien |
+| 22 | 700 | Carly Stempien |
+| 23 | 700 | Kathy Brookins |
 | 24 | 661 | Giggy Matchpiece |
 | 25 | 600 | Caitlin Johnson |
 | 26 | 559 | Lynn Grimes |
@@ -37,8 +37,8 @@
 | 29 | 520 | Keesha Muro |
 | 30 | 494 | Krysten Danielle Richard |
 | 31 | 477 | Malik Thompson |
-| 32 | 474 | Jeremy Lopez |
-| 33 | 474 | Heather Preston |
+| 32 | 474 | Heather Preston |
+| 33 | 474 | Jeremy Lopez |
 | 34 | 465 | Fancy Crasher |
 | 35 | 439 | Gloria Nunley Trussell |
 | 36 | 431 | Kayla Fuentes |
@@ -67,8 +67,8 @@
 | 59 | 203 | Patrick Alley |
 | 60 | 202 | Leigh Pierce |
 | 61 | 201 | Renee Sapp |
-| 62 | 200 | Jackie Lucas |
-| 63 | 200 | Leah Gorsuch |
+| 62 | 200 | Leah Gorsuch |
+| 63 | 200 | Jackie Lucas |
 | 64 | 184 | Giggly Tilt |
 | 65 | 182 | Jason Allen |
 | 66 | 180 | Aisha Estrada |
@@ -83,8 +83,8 @@
 | 75 | 156 | Adam J Leong |
 | 76 | 153 | Brandy Lynn |
 | 77 | 152 | Colin |
-| 78 | 149 | Daryn Elliott |
-| 79 | 149 | Danny Ortiz |
+| 78 | 149 | Danny Ortiz |
+| 79 | 149 | Daryn Elliott |
 | 80 | 146 | Becky McCool |
 | 81 | 145 | Trice Stevenson |
 | 82 | 144 | Yesenia Castro Monreal |
@@ -112,78 +112,78 @@
 | 104 | 104 | Tawna Curry |
 | 105 | 102 | Cheery Risegrid |
 | 106 | 102 | Lush Fitblock |
-| 107 | 100 | Joab Gonzalez |
+| 107 | 100 | CorieBe |
 | 108 | 100 | Boldy Rumbler |
-| 109 | 100 | CorieBe |
-| 110 | 99 | Shelby |
-| 111 | 99 | Simone |
+| 109 | 100 | Joab Gonzalez |
+| 110 | 99 | Simone |
+| 111 | 99 | Shelby |
 | 112 | 98 | Taisha Beasley |
-| 113 | 95 | kellie |
-| 114 | 95 | Маркус Вік |
+| 113 | 95 | Маркус Вік |
+| 114 | 95 | kellie |
 | 115 | 93 | farfromlocal |
 | 116 | 92 | Homie |
 | 117 | 91 | JuicyJuice |
-| 118 | 91 | Dominique Melendez |
-| 119 | 91 | Dayna Arthurs |
-| 120 | 90 | Sarah Berry Stevens |
-| 121 | 90 | Quiomarie Cotto |
-| 122 | 89 | Waxboss |
-| 123 | 89 | Tiffany Loree Tiffany Oneill |
+| 118 | 91 | Dayna Arthurs |
+| 119 | 91 | Dominique Melendez |
+| 120 | 90 | Quiomarie Cotto |
+| 121 | 90 | Sarah Berry Stevens |
+| 122 | 89 | Tiffany Loree Tiffany Oneill |
+| 123 | 89 | Waxboss |
 | 124 | 88 | Laguya |
 | 125 | 87 | Limbo |
-| 126 | 86 | Rachel Lemos |
-| 127 | 86 | gabs |
-| 128 | 86 | Goofy Riser |
-| 129 | 84 | Slimm |
-| 130 | 84 | Hwanger Land |
-| 131 | 84 | Rae Saunders |
-| 132 | 84 | Shanna Fragen |
+| 126 | 86 | Goofy Riser |
+| 127 | 86 | Rachel Lemos |
+| 128 | 86 | gabs |
+| 129 | 84 | Shanna Fragen |
+| 130 | 84 | Slimm |
+| 131 | 84 | Hwanger Land |
+| 132 | 84 | Rae Saunders |
 | 133 | 84 | No Time |
-| 134 | 83 | Chiquita Blue |
-| 135 | 83 | MrLoner Stoner |
+| 134 | 83 | MrLoner Stoner |
+| 135 | 83 | Chiquita Blue |
 | 136 | 82 | Bon Jovi |
-| 137 | 82 | Codey Haffner |
-| 138 | 82 | Luna |
+| 137 | 82 | Luna |
+| 138 | 82 | Codey Haffner |
 | 139 | 81 | Justin Michael |
 | 140 | 81 | Stasia |
-| 141 | 80 | Krista Diaz |
-| 142 | 80 | Iforget |
-| 143 | 80 | Magz |
-| 144 | 80 | DexterDobbins |
-| 145 | 80 | Danny Frausto |
+| 141 | 80 | Magz |
+| 142 | 80 | Krista Diaz |
+| 143 | 80 | DexterDobbins |
+| 144 | 80 | Danny Frausto |
+| 145 | 80 | Iforget |
 | 146 | 79 | Joyce Myers |
-| 147 | 79 | Janae Harris |
-| 148 | 79 | Courtney Niichole |
-| 149 | 78 | Stef |
-| 150 | 78 | matt |
+| 147 | 79 | Courtney Niichole |
+| 148 | 79 | Janae Harris |
+| 149 | 78 | matt |
+| 150 | 78 | Stef |
 | 151 | 78 | Tina Thomas |
-| 152 | 77 | Scamp Jones |
-| 153 | 77 | Chirpy Link |
-| 154 | 77 | Lady |
-| 155 | 77 | Loopy Clusterline |
+| 152 | 77 | Chirpy Link |
+| 153 | 77 | Loopy Clusterline |
+| 154 | 77 | Scamp Jones |
+| 155 | 77 | Lady |
 | 156 | 76 | Jennifer Garcia |
 | 157 | 76 | All knowing |
-| 158 | 75 | Mark Fitch Jr. |
-| 159 | 75 | Bouncy |
-| 160 | 75 | June Hoffman |
-| 161 | 75 | Jennifer Fisher Franklin |
+| 158 | 75 | Sarah Perry Cook |
+| 159 | 75 | Mark Fitch Jr. |
+| 160 | 75 | Bouncy |
+| 161 | 75 | June Hoffman |
 | 162 | 75 | Cherry |
-| 163 | 75 | Sarah Perry Cook |
+| 163 | 75 | Jennifer Fisher Franklin |
 | 164 | 73 | Troy Zanelli |
 | 165 | 72 | Slinky Stackzone |
 | 166 | 71 | King |
-| 167 | 71 | Rita Ann |
-| 168 | 71 | Chris Covington |
-| 169 | 71 | Gean DeJesus |
+| 167 | 71 | Gean DeJesus |
+| 168 | 71 | Rita Ann |
+| 169 | 71 | Chris Covington |
 | 170 | 70 | Karen Small |
 | 171 | 70 | Josh Keith Travierso |
 | 172 | 69 | Wacky Brick |
-| 173 | 68 | Erika Seaton |
-| 174 | 68 | Smiley Gridzone |
+| 173 | 68 | Smiley Gridzone |
+| 174 | 68 | Erika Seaton |
 | 175 | 68 | Keys Tome |
-| 176 | 67 | Hen |
-| 177 | 67 | Alma López Morales |
-| 178 | 67 | Henry Lanier |
+| 176 | 67 | Henry Lanier |
+| 177 | 67 | Hen |
+| 178 | 67 | Alma López Morales |
 | 179 | 66 | Shiny Brick |
 | 180 | 66 | Mann Manson |
 | 181 | 65 | Domo Dpn |
