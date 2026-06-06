@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 10:58:40 UTC
+# Standings for team2 as of 2026-06-06 10:59:15 UTC
 
 **Total Participants:** 1109
 
@@ -1091,30 +1091,30 @@
 | 1083 | 6 | Cheeky Dashpiece |
 | 1084 | 6 | Trisha Farley |
 | 1085 | 6 | Jessie |
-| 1086 | 6 | Lou Sassole |
-| 1087 | 6 | Trena Sapp |
-| 1088 | 6 | Amanda Knox |
-| 1089 | 6 | Snappy Fitblock |
-| 1090 | 6 | Michele Choate |
-| 1091 | 6 | Emily |
-| 1092 | 6 | FabTeach |
-| 1093 | 6 | Partin |
-| 1094 | 6 | Celeste Samuels |
-| 1095 | 5 | Dapper Clearpiece |
-| 1096 | 5 | Danh Nguyen |
+| 1086 | 6 | Snappy Fitblock |
+| 1087 | 6 | Michele Choate |
+| 1088 | 6 | Emily |
+| 1089 | 6 | Amanda Knox |
+| 1090 | 6 | Trena Sapp |
+| 1091 | 6 | FabTeach |
+| 1092 | 6 | Celeste Samuels |
+| 1093 | 6 | Lou Sassole |
+| 1094 | 6 | Partin |
+| 1095 | 5 | Nicole Plummer |
+| 1096 | 5 | Duck |
 | 1097 | 5 | Nolife |
-| 1098 | 5 | Duck |
-| 1099 | 5 | Nicole Plummer |
-| 1100 | 5 | Jennifer Roper Stanley |
-| 1101 | 5 | Mercedes Lowery |
-| 1102 | 5 | Flynn Flibble |
-| 1103 | 5 | Crystal Poss |
-| 1104 | 5 | Jennifer Mauler Schmidt |
-| 1105 | 5 | Chirpy Towerer |
+| 1098 | 5 | Mercedes Lowery |
+| 1099 | 5 | Danh Nguyen |
+| 1100 | 5 | Crystal Poss |
+| 1101 | 5 | Flynn Flibble |
+| 1102 | 5 | Deborah Fowler |
+| 1103 | 5 | Agnes Gable |
+| 1104 | 5 | Dapper Clearpiece |
+| 1105 | 5 | Nerdy Base |
 | 1106 | 5 | Brittany Weatherspoon |
-| 1107 | 5 | Deborah Fowler |
-| 1108 | 5 | Agnes Gable |
-| 1109 | 5 | Nerdy Base |
+| 1107 | 5 | Chirpy Towerer |
+| 1108 | 5 | Jennifer Mauler Schmidt |
+| 1109 | 5 | Jennifer Roper Stanley |
 
 ---
 *Standings created by tournaments datasource generation tool*

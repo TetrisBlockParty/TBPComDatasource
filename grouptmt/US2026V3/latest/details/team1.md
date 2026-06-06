@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 10:58:40 UTC
+# Standings for team1 as of 2026-06-06 10:59:15 UTC
 
 **Total Participants:** 961
 
@@ -150,20 +150,20 @@
 | 142 | 169 | Asha Langford |
 | 143 | 166 | Tarnisha Neicy Jones |
 | 144 | 166 | Nobles Brandon |
-| 145 | 160 | DaGuy |
-| 146 | 160 | Sara Meri |
-| 147 | 160 | Zippy Lifter |
-| 148 | 158 | W.A. Simpson |
-| 149 | 158 | Tina Mitchell |
-| 150 | 156 | Anthony Washington |
+| 145 | 162 | David Fuentes |
+| 146 | 160 | DaGuy |
+| 147 | 160 | Sara Meri |
+| 148 | 160 | Zippy Lifter |
+| 149 | 158 | W.A. Simpson |
+| 150 | 158 | Tina Mitchell |
 | 151 | 156 | Jessica Russell |
-| 152 | 155 | Jawaun Daniels |
-| 153 | 154 | David Fuentes |
+| 152 | 156 | Anthony Washington |
+| 153 | 155 | Jawaun Daniels |
 | 154 | 147 | MACHETEEDDIE513 |
 | 155 | 146 | BlackQueen105 |
 | 156 | 146 | Marcheta Cervantez |
-| 157 | 140 | Ann Chung |
-| 158 | 140 | Antoinette Jones |
+| 157 | 140 | Antoinette Jones |
+| 158 | 140 | Ann Chung |
 | 159 | 139 | Mafio SO |
 | 160 | 138 | Lashaunda |
 | 161 | 138 | JaClanDiah |
@@ -377,11 +377,11 @@
 | 369 | 55 | Dreamzzz |
 | 370 | 55 | Angelique Talbot |
 | 371 | 55 | Kyle Franklin |
-| 372 | 54 | Ace Hardware |
-| 373 | 54 | Melissa Olvera |
-| 374 | 54 | Rackemwillie34 |
-| 375 | 54 | Twisty Brickfit |
-| 376 | 54 | MrsMeadows2019 |
+| 372 | 55 | MrsMeadows2019 |
+| 373 | 54 | Ace Hardware |
+| 374 | 54 | Melissa Olvera |
+| 375 | 54 | Rackemwillie34 |
+| 376 | 54 | Twisty Brickfit |
 | 377 | 54 | Elizabeth Hopkins |
 | 378 | 54 | Ryan Runyan |
 | 379 | 53 | Cortrell Foster |
