@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 11:26:16 UTC
+# Standings for team4 as of 2026-06-06 11:26:39 UTC
 
 **Total Participants:** 939
 
@@ -24,8 +24,8 @@
 | 16 | 2446 | Senor Moppy |
 | 17 | 2444 | Daring Ziggy |
 | 18 | 1805 | Fruitpunch |
-| 19 | 1500 | Dana Rinaldi |
-| 20 | 1322 | Jackie Lucas |
+| 19 | 1560 | Dana Rinaldi |
+| 20 | 1422 | Jackie Lucas |
 | 21 | 1143 | Hanan Hana |
 | 22 | 1059 | Squirrel Donkey |
 | 23 | 1055 | Michele Walker |
@@ -50,10 +50,10 @@
 | 42 | 644 | Kelly Bernard |
 | 43 | 629 | Keesha Muro |
 | 44 | 628 | Adam J Leong |
-| 45 | 609 | Victoria Ver |
+| 45 | 611 | Victoria Ver |
 | 46 | 600 | Caitlin Johnson |
 | 47 | 600 | Chaz Duncan |
-| 48 | 566 | Blayne Kole |
+| 48 | 586 | Blayne Kole |
 | 49 | 559 | Lynn Grimes |
 | 50 | 530 | Jonathan Hewitt |
 | 51 | 510 | Krysten Danielle Richard |

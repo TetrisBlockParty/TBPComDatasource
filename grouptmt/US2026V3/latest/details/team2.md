@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 11:26:16 UTC
+# Standings for team2 as of 2026-06-06 11:26:39 UTC
 
 **Total Participants:** 1112
 
@@ -27,9 +27,9 @@
 | 19 | 2368 | Dapper Rollout |
 | 20 | 2242 | Bobbi |
 | 21 | 2216 | Renee Weedling |
-| 22 | 1957 | Lola C Davis |
-| 23 | 1900 | boblawboblaw |
-| 24 | 1898 | Kathleen M Cox |
+| 22 | 1998 | Kathleen M Cox |
+| 23 | 1957 | Lola C Davis |
+| 24 | 1900 | boblawboblaw |
 | 25 | 1842 | Frisky Balanceblock |
 | 26 | 1787 | Charles Varca |
 | 27 | 1744 | Alexia Reagan |
