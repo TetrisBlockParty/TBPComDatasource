@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 17:28:42 UTC
+# Standings for team2 as of 2026-06-06 17:29:17 UTC
 
 **Total Participants:** 1280
 
@@ -82,23 +82,23 @@
 | 74 | 577 | Lindsay Klemp |
 | 75 | 572 | Dsabrina Maxey |
 | 76 | 570 | Nerdy Climber |
-| 77 | 543 | Kathleen Dumbazz |
-| 78 | 540 | Jamie Jones |
-| 79 | 537 | Rhonda Diebold |
-| 80 | 531 | Nawang Nawang |
-| 81 | 515 | Loony Faller |
-| 82 | 507 | Mirr Lulu |
-| 83 | 501 | Ricardo Ewart |
-| 84 | 500 | Suki Kaur |
-| 85 | 499 | Beverly Lynn Mills |
+| 77 | 559 | Beverly Lynn Mills |
+| 78 | 543 | Kathleen Dumbazz |
+| 79 | 540 | Jamie Jones |
+| 80 | 537 | Rhonda Diebold |
+| 81 | 531 | Nawang Nawang |
+| 82 | 515 | Loony Faller |
+| 83 | 507 | Mirr Lulu |
+| 84 | 501 | Ricardo Ewart |
+| 85 | 500 | Suki Kaur |
 | 86 | 496 | Amber Miller Wirick |
 | 87 | 494 | Shandrea Crawford |
 | 88 | 492 | Matt Hardin |
 | 89 | 487 | Wmk Rathbun |
 | 90 | 486 | Krisanne Kesner-Lonsby |
 | 91 | 483 | Karen Reid Cenkush |
-| 92 | 480 | Courtney McCulley |
-| 93 | 480 | Marquita Toliver |
+| 92 | 480 | Marquita Toliver |
+| 93 | 480 | Courtney McCulley |
 | 94 | 472 | Lily |
 | 95 | 468 | Amy Gale |
 | 96 | 459 | Angelica Jelli Gillaspy |
@@ -136,37 +136,37 @@
 | 128 | 302 | Hypee |
 | 129 | 298 | Breeana Bennett |
 | 130 | 294 | Vistabrat |
-| 131 | 286 | Heather Burgett |
-| 132 | 286 | James Ward |
-| 133 | 283 | Theresa Marie |
-| 134 | 283 | Zarah Kettler |
-| 135 | 281 | Joni Michelle Morgan |
-| 136 | 280 | Patricia Carroll |
-| 137 | 279 | Renee Freeman Jacobson |
-| 138 | 278 | Flashy Twistline |
-| 139 | 277 | Sarah Mccolgan |
-| 140 | 277 | Snappy Combo |
-| 141 | 275 | Bubbly Strikerpiece |
-| 142 | 272 | DayDreamer79 |
+| 131 | 286 | James Ward |
+| 132 | 286 | Heather Burgett |
+| 133 | 283 | Zarah Kettler |
+| 134 | 283 | Theresa Marie |
+| 135 | 282 | Lisa Breiding |
+| 136 | 281 | Joni Michelle Morgan |
+| 137 | 280 | Patricia Carroll |
+| 138 | 279 | Renee Freeman Jacobson |
+| 139 | 278 | Flashy Twistline |
+| 140 | 277 | Sarah Mccolgan |
+| 141 | 277 | Snappy Combo |
+| 142 | 275 | Bubbly Strikerpiece |
 | 143 | 272 | Erin Thomas |
-| 144 | 269 | Ackerman 85 |
-| 145 | 262 | Cool Balancer |
-| 146 | 260 | Linda Guay |
-| 147 | 258 | Pooh |
-| 148 | 253 | Hilliary Beyer |
-| 149 | 251 | Angie Kowalsky Olson |
-| 150 | 247 | Brittni Lawrence |
-| 151 | 247 | Fudgie Pie |
-| 152 | 245 | Josh Twilley |
-| 153 | 242 | H |
-| 154 | 241 | Charlie Wilson |
-| 155 | 241 | Boldy Wobbler |
-| 156 | 232 | Pam Bauder Ludwig |
-| 157 | 230 | marsam |
-| 158 | 230 | Brandy Chinelle |
-| 159 | 228 | Keri Mears |
-| 160 | 227 | Ashley Green |
-| 161 | 225 | Lisa Breiding |
+| 144 | 272 | DayDreamer79 |
+| 145 | 269 | Ackerman 85 |
+| 146 | 262 | Cool Balancer |
+| 147 | 260 | Linda Guay |
+| 148 | 258 | Pooh |
+| 149 | 253 | Hilliary Beyer |
+| 150 | 251 | Angie Kowalsky Olson |
+| 151 | 250 | marsam |
+| 152 | 247 | Fudgie Pie |
+| 153 | 247 | Brittni Lawrence |
+| 154 | 245 | Josh Twilley |
+| 155 | 242 | H |
+| 156 | 241 | Charlie Wilson |
+| 157 | 241 | Boldy Wobbler |
+| 158 | 232 | Pam Bauder Ludwig |
+| 159 | 230 | Brandy Chinelle |
+| 160 | 228 | Keri Mears |
+| 161 | 227 | Ashley Green |
 | 162 | 224 | Kathleen Keogh Van Schoyck |
 | 163 | 220 | Flashy Basegrid |
 | 164 | 220 | Melissa Thomas |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 17:28:42 UTC
+# Standings for team1 as of 2026-06-06 17:29:17 UTC
 
 **Total Participants:** 1085
 
@@ -14,7 +14,7 @@
 | 6 | 5054 | Plucky Swipe |
 | 7 | 5000 | Tyeina Johnson |
 | 8 | 4901 | Dyane Leah Ware |
-| 9 | 4411 | Timothy Robert |
+| 9 | 4511 | Timothy Robert |
 | 10 | 4339 | Carrie English |
 | 11 | 3411 | Charlie Roehm |
 | 12 | 3075 | Debbie Carswell |
@@ -156,7 +156,7 @@
 | 148 | 216 | Nerdy Snapfall |
 | 149 | 214 | Tonya McElroy |
 | 150 | 212 | Nobles Brandon |
-| 151 | 206 | David Fuentes |
+| 151 | 208 | David Fuentes |
 | 152 | 206 | Weeze |
 | 153 | 206 | Curtis T Cirno |
 | 154 | 204 | Angela R Wilson |
