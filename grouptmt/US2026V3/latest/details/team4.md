@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 21:24:17 UTC
+# Standings for team4 as of 2026-06-06 21:24:41 UTC
 
 **Total Participants:** 1152
 
@@ -119,9 +119,9 @@
 | 111 | 320 | DexterDobbins |
 | 112 | 317 | J |
 | 113 | 303 | Kim |
-| 114 | 300 | Hasty Builder |
+| 114 | 300 | 2 kool |
 | 115 | 300 | Genag |
-| 116 | 300 | 2 kool |
+| 116 | 300 | Hasty Builder |
 | 117 | 296 | Andrew Dang |
 | 118 | 295 | Thomasena Eady Reid |
 | 119 | 294 | Jesse Olive |
@@ -133,8 +133,8 @@
 | 125 | 268 | Jojo Ann |
 | 126 | 262 | squareMel |
 | 127 | 259 | Jessica Peyton |
-| 128 | 253 | Danielle Mitchell |
-| 129 | 253 | Debby Ruof |
+| 128 | 253 | Debby Ruof |
+| 129 | 253 | Danielle Mitchell |
 | 130 | 249 | shawna |
 | 131 | 245 | QueenLi86 |
 | 132 | 245 | Giggly Tilt |
@@ -144,32 +144,32 @@
 | 136 | 231 | Becky McCool |
 | 137 | 229 | Aisha Estrada |
 | 138 | 228 | Scamp Jones |
-| 139 | 224 | TRUCHILD777$$$ |
-| 140 | 223 | matt |
-| 141 | 222 | Danny Ortiz |
-| 142 | 221 | Slimm |
-| 143 | 220 | Shmeedo |
+| 139 | 227 | Loony Rotater |
+| 140 | 224 | TRUCHILD777$$$ |
+| 141 | 223 | matt |
+| 142 | 222 | Danny Ortiz |
+| 143 | 221 | Slimm |
 | 144 | 220 | Esther Hadassah |
 | 145 | 220 | Silly Risegrid |
-| 146 | 218 | Daryn Elliott |
-| 147 | 218 | Dubiousdust |
-| 148 | 214 | Dazzle Dragon |
-| 149 | 212 | blockhead |
-| 150 | 211 | Renee Sapp |
-| 151 | 210 | Stephanie Myers |
-| 152 | 207 | Aramat |
-| 153 | 206 | Perky Riserbuilder |
-| 154 | 203 | Patrick Alley |
-| 155 | 202 | Nicole |
-| 156 | 201 | Loony Rotater |
+| 146 | 220 | Shmeedo |
+| 147 | 218 | Daryn Elliott |
+| 148 | 218 | Dubiousdust |
+| 149 | 214 | Dazzle Dragon |
+| 150 | 212 | blockhead |
+| 151 | 211 | Renee Sapp |
+| 152 | 210 | Stephanie Myers |
+| 153 | 207 | Aramat |
+| 154 | 206 | Perky Riserbuilder |
+| 155 | 203 | Patrick Alley |
+| 156 | 202 | Nicole |
 | 157 | 200 | Sarah Montagne Forsberg |
 | 158 | 199 | Colin |
 | 159 | 196 | Brick House |
 | 160 | 195 | Sean Mccleary |
 | 161 | 195 | Megan Vick |
-| 162 | 194 | Lisa lisa |
-| 163 | 194 | Chiquita Blue |
-| 164 | 194 | Jenn Norcross |
+| 162 | 194 | Jenn Norcross |
+| 163 | 194 | Lisa lisa |
+| 164 | 194 | Chiquita Blue |
 | 165 | 193 | Tiffany Bunker-Hill |
 | 166 | 192 | Tiggerjake |
 | 167 | 191 | Dee Wizz |
