@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 08:09:15 UTC
+# Standings for team1 as of 2026-06-06 08:10:16 UTC
 
 **Total Participants:** 924
 
@@ -675,12 +675,12 @@
 | 667 | 21 | RylonJones |
 | 668 | 21 | lady |
 | 669 | 21 | Arturo Hernandez II |
-| 670 | 20 | B.L. Perry |
-| 671 | 20 | Giggy Edgefit |
-| 672 | 20 | Charlean Sims |
-| 673 | 20 | Mahagony Small |
-| 674 | 20 | Daddy |
-| 675 | 20 | Kenneth Hefney |
+| 670 | 20 | Mahagony Small |
+| 671 | 20 | B.L. Perry |
+| 672 | 20 | Giggy Edgefit |
+| 673 | 20 | Charlean Sims |
+| 674 | 20 | Kenneth Hefney |
+| 675 | 20 | Daddy |
 | 676 | 20 | Cynthia Bradley |
 | 677 | 20 | Bryttani GoingPlaces Latimer |
 | 678 | 20 | Phillip White |
@@ -692,52 +692,52 @@
 | 684 | 20 | BonnieB |
 | 685 | 20 | SherylU |
 | 686 | 20 | Tanisha Robinson |
-| 687 | 20 | Lyn Reed |
-| 688 | 20 | Sallie Sanborn |
-| 689 | 20 | Biggestboss Ransom |
-| 690 | 19 | Amanda Woodruff |
-| 691 | 19 | Ivan Israel |
-| 692 | 19 | Hyedie Badie |
-| 693 | 19 | Chuck Quarles |
-| 694 | 19 | Michele Simpson |
-| 695 | 19 | Panda Vibes |
-| 696 | 19 | Yashicha Hertzock |
-| 697 | 19 | Sagitterrorist |
-| 698 | 19 | Holly Baker |
-| 699 | 19 | TY Newme Batts |
-| 700 | 19 | Idelia L Brown |
-| 701 | 19 | Michelle Stanford-Page |
-| 702 | 19 | Lozuna |
-| 703 | 19 | Frilly Lifter |
-| 704 | 19 | Megan Jones |
-| 705 | 19 | Crystal Garay |
-| 706 | 19 | Jose Rodriguez |
-| 707 | 18 | Mighty plantlady |
-| 708 | 18 | Paul Pendley |
-| 709 | 18 | Pj Rojas |
-| 710 | 18 | Azeiare Ziare |
-| 711 | 18 | Taylor Jordan Hollis |
-| 712 | 18 | DeAngelo Sorrells |
-| 713 | 18 | Keke |
+| 687 | 20 | Sallie Sanborn |
+| 688 | 20 | Biggestboss Ransom |
+| 689 | 20 | Lyn Reed |
+| 690 | 19 | Tyiesha Pie Farmer |
+| 691 | 19 | Jose Rodriguez |
+| 692 | 19 | Ivan Israel |
+| 693 | 19 | Michele Simpson |
+| 694 | 19 | Frilly Lifter |
+| 695 | 19 | Chuck Quarles |
+| 696 | 19 | Panda Vibes |
+| 697 | 19 | Yashicha Hertzock |
+| 698 | 19 | Sagitterrorist |
+| 699 | 19 | Holly Baker |
+| 700 | 19 | TY Newme Batts |
+| 701 | 19 | Lozuna |
+| 702 | 19 | Idelia L Brown |
+| 703 | 19 | Michelle Stanford-Page |
+| 704 | 19 | Hyedie Badie |
+| 705 | 19 | Megan Jones |
+| 706 | 19 | Crystal Garay |
+| 707 | 19 | Amanda Woodruff |
+| 708 | 18 | Azeiare Ziare |
+| 709 | 18 | Mighty plantlady |
+| 710 | 18 | Taylor Jordan Hollis |
+| 711 | 18 | DeAngelo Sorrells |
+| 712 | 18 | Paul Pendley |
+| 713 | 18 | Diamond Nicole |
 | 714 | 18 | Ounquan Wright |
 | 715 | 18 | Chris Bell |
 | 716 | 18 | Soubletzy |
 | 717 | 18 | Tyree Tman Shinette |
 | 718 | 18 | Marbama |
-| 719 | 18 | Tyiesha Pie Farmer |
-| 720 | 18 | Anissa Williams |
-| 721 | 18 | Una |
-| 722 | 18 | Diamond Nicole |
-| 723 | 18 | Jeremy Myers |
-| 724 | 18 | Smiley3000 |
-| 725 | 18 | Vontii Blades |
-| 726 | 18 | Oaklonboy mike |
-| 727 | 18 | AleahKCH |
+| 719 | 18 | Anissa Williams |
+| 720 | 18 | Una |
+| 721 | 18 | Jeremy Myers |
+| 722 | 18 | Pj Rojas |
+| 723 | 18 | Smiley3000 |
+| 724 | 18 | Vontii Blades |
+| 725 | 18 | Oaklonboy mike |
+| 726 | 18 | AleahKCH |
+| 727 | 18 | Keke |
 | 728 | 18 | Pinky Pink |
-| 729 | 17 | Solomon Valarie |
-| 730 | 17 | Embracing Hair |
-| 731 | 17 | MrsDontPlay |
-| 732 | 17 | Rikki Moran |
+| 729 | 17 | Rikki Moran |
+| 730 | 17 | MrsDontPlay |
+| 731 | 17 | Solomon Valarie |
+| 732 | 17 | Embracing Hair |
 | 733 | 17 | Jb Mzresilience |
 | 734 | 17 | Andre Rivera |
 | 735 | 17 | Vivian Bunnell Myers |
@@ -860,11 +860,11 @@
 | 852 | 9 | Tanesha Ga'sFinest Corbett |
 | 853 | 9 | Brave Gridmatch |
 | 854 | 9 | Derald Miller |
-| 855 | 9 | Brika Brika |
+| 855 | 9 | Jasmine Hariston-Estis |
 | 856 | 9 | Zappy Riser |
 | 857 | 9 | ummm |
 | 858 | 9 | Clifford Petroske |
-| 859 | 9 | Jasmine Hariston-Estis |
+| 859 | 9 | Brika Brika |
 | 860 | 9 | Mars |
 | 861 | 9 | Wacky Towerer |
 | 862 | 9 | Robyn Ellis |
@@ -901,35 +901,35 @@
 | 893 | 6 | Wu May |
 | 894 | 6 | S.S |
 | 895 | 6 | Daring Riserfit |
-| 896 | 6 | CK |
-| 897 | 6 | Kyshia |
+| 896 | 6 | Kyshia |
+| 897 | 6 | CK |
 | 898 | 6 | Nicole Coko Thomas |
 | 899 | 6 | NEM0228 |
 | 900 | 6 | Frances Davis |
 | 901 | 6 | Frilly Riserbuilder |
-| 902 | 6 | Christopher Wallace |
+| 902 | 6 | Vontesha Kidd |
 | 903 | 6 | Snippy Breaker |
-| 904 | 6 | Vontesha Kidd |
+| 904 | 6 | Christopher Wallace |
 | 905 | 6 | P C |
-| 906 | 5 | Kidgib5 |
-| 907 | 5 | the guy |
-| 908 | 5 | Derek Beverly |
-| 909 | 5 | DirtiestofMikes |
-| 910 | 5 | Chill Linkroll |
-| 911 | 5 | Temeshia Brooks Washington |
-| 912 | 5 | Stephanie Zuniga Tullock |
-| 913 | 5 | Hasty Brickzone |
-| 914 | 5 | Tipsy Builderline |
-| 915 | 5 | VERA DAME |
-| 916 | 5 | Jennifer Moore |
-| 917 | 5 | Zesty Clearer |
-| 918 | 5 | Annette DeLoatch Thompson |
-| 919 | 5 | Marissa Sweet |
-| 920 | 5 | Tito Divyn |
-| 921 | 5 | Zappy Clearfit |
-| 922 | 5 | Rieshelda Marie White |
-| 923 | 5 | Duckey |
-| 924 | 5 | Logan Frost |
+| 906 | 5 | Tipsy Builderline |
+| 907 | 5 | Logan Frost |
+| 908 | 5 | Kidgib5 |
+| 909 | 5 | Derek Beverly |
+| 910 | 5 | DirtiestofMikes |
+| 911 | 5 | Chill Linkroll |
+| 912 | 5 | Temeshia Brooks Washington |
+| 913 | 5 | Stephanie Zuniga Tullock |
+| 914 | 5 | Jennifer Moore |
+| 915 | 5 | Zesty Clearer |
+| 916 | 5 | the guy |
+| 917 | 5 | Annette DeLoatch Thompson |
+| 918 | 5 | Marissa Sweet |
+| 919 | 5 | Tito Divyn |
+| 920 | 5 | Zappy Clearfit |
+| 921 | 5 | Rieshelda Marie White |
+| 922 | 5 | Duckey |
+| 923 | 5 | Hasty Brickzone |
+| 924 | 5 | VERA DAME |
 
 ---
 *Standings created by tournaments datasource generation tool*
