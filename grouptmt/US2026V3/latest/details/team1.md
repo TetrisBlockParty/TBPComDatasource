@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 07:54:16 UTC
+# Standings for team1 as of 2026-06-06 07:54:38 UTC
 
 **Total Participants:** 917
 
@@ -8,9 +8,9 @@
 | :- | :- | :- |
 | 1 | 19000 | Ariel |
 | 2 | 4690 | Dyane Leah Ware |
-| 3 | 4495 | Tracy Cohen |
-| 4 | 4339 | Carrie English |
-| 5 | 4169 | Death by SnuSnu |
+| 3 | 4569 | Death by SnuSnu |
+| 4 | 4495 | Tracy Cohen |
+| 5 | 4339 | Carrie English |
 | 6 | 3700 | Tyeina Johnson |
 | 7 | 3690 | Cozy Edge |
 | 8 | 3511 | Timothy Robert |
@@ -607,40 +607,40 @@
 | 599 | 26 | Nona Harriel |
 | 600 | 26 | Kala Miller |
 | 601 | 26 | SnazzySnippet |
-| 602 | 26 | Dana Hawes |
-| 603 | 25 | Skye |
-| 604 | 25 | Linny Loop |
-| 605 | 25 | Brandy Jaszewski |
-| 606 | 25 | Barbramerri Tarboro |
-| 607 | 25 | Heru Ogun Yeshua EL |
-| 608 | 25 | Jenni |
+| 602 | 26 | Chereese Harris |
+| 603 | 26 | Dana Hawes |
+| 604 | 25 | Jenni |
+| 605 | 25 | Linny Loop |
+| 606 | 25 | Brandy Jaszewski |
+| 607 | 25 | Barbramerri Tarboro |
+| 608 | 25 | Heru Ogun Yeshua EL |
 | 609 | 25 | Tweet Turner |
-| 610 | 25 | Pastors Du Bose |
-| 611 | 25 | Sammie Walker |
-| 612 | 25 | Plucky Clearpiece |
-| 613 | 25 | marie |
-| 614 | 25 | Victoria Smith |
-| 615 | 25 | Dinky da Don |
-| 616 | 25 | Cj Chimelis |
-| 617 | 25 | Dirty Deeds |
-| 618 | 25 | PennyCandee |
-| 619 | 25 | Antoinette Kidd |
-| 620 | 25 | Tony P Burke |
-| 621 | 25 | Alyssa H |
-| 622 | 25 | Kimmie Gargano |
-| 623 | 24 | Shaun Anderson |
-| 624 | 24 | AshMo |
-| 625 | 24 | Mumitt |
-| 626 | 24 | Abigail Newman Sweet |
-| 627 | 24 | Chereese Harris |
+| 610 | 25 | Skye |
+| 611 | 25 | Pastors Du Bose |
+| 612 | 25 | Sammie Walker |
+| 613 | 25 | Plucky Clearpiece |
+| 614 | 25 | marie |
+| 615 | 25 | Victoria Smith |
+| 616 | 25 | Dinky da Don |
+| 617 | 25 | Cj Chimelis |
+| 618 | 25 | Dirty Deeds |
+| 619 | 25 | PennyCandee |
+| 620 | 25 | Antoinette Kidd |
+| 621 | 25 | Tony P Burke |
+| 622 | 25 | Alyssa H |
+| 623 | 25 | Kimmie Gargano |
+| 624 | 24 | Shaun Anderson |
+| 625 | 24 | AshMo |
+| 626 | 24 | Mumitt |
+| 627 | 24 | Abigail Newman Sweet |
 | 628 | 24 | Marlynnnnn |
 | 629 | 24 | Jason Saputo |
 | 630 | 24 | Tanisha Taylor |
 | 631 | 24 | Mrs |
-| 632 | 23 | Jamie Lea Popp |
-| 633 | 23 | Shona ShayShay Jones |
-| 634 | 23 | Connor Leon Cluff |
-| 635 | 23 | Hardtohandle91 |
+| 632 | 23 | Hardtohandle91 |
+| 633 | 23 | Jamie Lea Popp |
+| 634 | 23 | Shona ShayShay Jones |
+| 635 | 23 | Connor Leon Cluff |
 | 636 | 23 | Peppy Wipeblock |
 | 637 | 23 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
 | 638 | 23 | Cm |

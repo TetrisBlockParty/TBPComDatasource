@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-06 07:54:16 UTC
+# Standings for team2 as of 2026-06-06 07:54:38 UTC
 
 **Total Participants:** 1073
 
@@ -79,7 +79,7 @@
 | 71 | 432 | Mirr Lulu |
 | 72 | 428 | Loopy Cascadepiece |
 | 73 | 425 | Amanda Sikes |
-| 74 | 418 | Andre Love |
+| 74 | 425 | Andre Love |
 | 75 | 405 | Judy Long |
 | 76 | 400 | Allie Bug |
 | 77 | 400 | Smashanator |
@@ -225,8 +225,8 @@
 | 217 | 113 | Zany Wrecker |
 | 218 | 112 | Ashley Miller |
 | 219 | 111 | Rhonda Diebold |
-| 220 | 110 | Nichole Wilson |
-| 221 | 110 | Kelly Vedder |
+| 220 | 110 | Kelly Vedder |
+| 221 | 110 | Nichole Wilson |
 | 222 | 109 | Loopy Tower |
 | 223 | 108 | Meagan Grimmett Washburn |
 | 224 | 107 | Michelle M Braley |
@@ -239,74 +239,74 @@
 | 231 | 103 | Tango Sierra |
 | 232 | 102 | Alissa Ary |
 | 233 | 102 | Jat |
-| 234 | 100 | Jason Cunningham |
-| 235 | 100 | Charity Hauser |
-| 236 | 100 | LEW |
-| 237 | 100 | Sharon L Brazelton |
-| 238 | 100 | Ber |
-| 239 | 100 | Tamtam |
-| 240 | 100 | August Christy Lathrop |
-| 241 | 100 | Leticia Tillman |
-| 242 | 99 | Melissa Abbott |
-| 243 | 99 | Jennifer Vitro |
-| 244 | 99 | Cathy Tippett |
-| 245 | 99 | Gabrielle Rivera |
+| 234 | 100 | Charity Hauser |
+| 235 | 100 | Tamtam |
+| 236 | 100 | Sharon L Brazelton |
+| 237 | 100 | Leticia Tillman |
+| 238 | 100 | August Christy Lathrop |
+| 239 | 100 | Ber |
+| 240 | 100 | Jason Cunningham |
+| 241 | 100 | LEW |
+| 242 | 99 | Gabrielle Rivera |
+| 243 | 99 | Cathy Tippett |
+| 244 | 99 | Melissa Abbott |
+| 245 | 99 | Jennifer Vitro |
 | 246 | 97 | LittleHippoEars |
 | 247 | 97 | Jennifer McClure |
 | 248 | 95 | Mike Mordhorst |
 | 249 | 95 | Wacky Holder |
-| 250 | 94 | Sherri E Woods Hess |
-| 251 | 93 | Connie Breeden |
-| 252 | 93 | Traci Abern |
-| 253 | 93 | Lively Curve |
+| 250 | 94 | Traci Abern |
+| 251 | 94 | Sherri E Woods Hess |
+| 252 | 93 | Lively Curve |
+| 253 | 93 | Connie Breeden |
 | 254 | 92 | Raine |
-| 255 | 92 | Nikki Hatch |
-| 256 | 92 | Jayda Walters |
+| 255 | 92 | Jayda Walters |
+| 256 | 92 | Nikki Hatch |
 | 257 | 91 | Rocroc mo |
 | 258 | 91 | Jamie Fenyus |
 | 259 | 90 | Carlos J Blas |
-| 260 | 89 | Belle |
-| 261 | 89 | MegaPooh |
+| 260 | 89 | MegaPooh |
+| 261 | 89 | Belle |
 | 262 | 88 | Kevin Patrick |
 | 263 | 88 | Nano. |
 | 264 | 87 | Sam Brewster |
-| 265 | 87 | Charlie Wilson |
+| 265 | 87 | Boldy Fitclear |
 | 266 | 87 | Jessica Lynn |
 | 267 | 87 | Gloria May Shook |
-| 268 | 86 | Jackie Tupper |
-| 269 | 86 | Bianca Woodruff |
-| 270 | 85 | Daisy Girl |
-| 271 | 85 | James Sayers |
-| 272 | 85 | Christina Maria |
-| 273 | 84 | Lisa Underwood Desmond |
-| 274 | 83 | TetrisMama |
-| 275 | 82 | Nutty Curver |
+| 268 | 87 | Charlie Wilson |
+| 269 | 86 | Jackie Tupper |
+| 270 | 86 | Bianca Woodruff |
+| 271 | 85 | Christina Maria |
+| 272 | 85 | James Sayers |
+| 273 | 85 | Daisy Girl |
+| 274 | 84 | Lisa Underwood Desmond |
+| 275 | 83 | TetrisMama |
 | 276 | 82 | Norma Ortiz |
-| 277 | 82 | Carolyn McNaughton |
-| 278 | 82 | Hypee |
-| 279 | 82 | Wendy McKee |
-| 280 | 82 | Sandra Pursell |
-| 281 | 82 | giamy |
-| 282 | 82 | Chill Line |
-| 283 | 81 | Angeleye A James |
-| 284 | 81 | Kimmyc |
-| 285 | 81 | Heather Hi |
+| 277 | 82 | Sandra Pursell |
+| 278 | 82 | giamy |
+| 279 | 82 | Nutty Curver |
+| 280 | 82 | Chill Line |
+| 281 | 82 | Hypee |
+| 282 | 82 | Wendy McKee |
+| 283 | 82 | Carolyn McNaughton |
+| 284 | 81 | YldBoar |
+| 285 | 81 | Cassandra Milner |
 | 286 | 81 | Shiny Spinfit |
-| 287 | 81 | YldBoar |
+| 287 | 81 | Lindsey Ross |
 | 288 | 81 | Epic Tilemaker |
-| 289 | 81 | Cassandra Milner |
-| 290 | 81 | Lindsey Ross |
-| 291 | 80 | Zappy Liney |
-| 292 | 80 | Nicole Hogue |
-| 293 | 80 | Al Smith Jr |
-| 294 | 80 | Skye Ehret |
-| 295 | 80 | Eva Lopez |
-| 296 | 79 | Perii Reynoso |
-| 297 | 79 | Aeryal Snow |
-| 298 | 78 | Jef Wassom |
-| 299 | 77 | Kenzie |
-| 300 | 77 | Sandra Belk |
-| 301 | 77 | Boldy Fitclear |
+| 289 | 81 | Heather Hi |
+| 290 | 81 | Kimmyc |
+| 291 | 81 | Angeleye A James |
+| 292 | 80 | Zappy Liney |
+| 293 | 80 | Nicole Hogue |
+| 294 | 80 | Al Smith Jr |
+| 295 | 80 | Skye Ehret |
+| 296 | 80 | Eva Lopez |
+| 297 | 79 | Perii Reynoso |
+| 298 | 79 | Aeryal Snow |
+| 299 | 78 | Jef Wassom |
+| 300 | 77 | Kenzie |
+| 301 | 77 | Sandra Belk |
 | 302 | 77 | Nikki Hayes |
 | 303 | 77 | Nikki EightySixed |
 | 304 | 77 | Heather Vircik |
