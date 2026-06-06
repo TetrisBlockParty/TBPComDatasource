@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 18:34:38 UTC
+# Standings for team4 as of 2026-06-06 18:35:20 UTC
 
 **Total Participants:** 1096
 
@@ -31,10 +31,10 @@
 | 23 | 1360 | Cal Renee |
 | 24 | 1322 | kcknbtz |
 | 25 | 1200 | Caitlin Johnson |
-| 26 | 1065 | Leigh Pierce |
-| 27 | 1059 | Squirrel Donkey |
+| 26 | 1066 | Squirrel Donkey |
+| 27 | 1065 | Leigh Pierce |
 | 28 | 1055 | Michele Walker |
-| 29 | 1031 | Charlie Lewis |
+| 29 | 1050 | Charlie Lewis |
 | 30 | 989 | Ning Quiambao |
 | 31 | 971 | Loony Towerer |
 | 32 | 966 | BertaF1irta |
