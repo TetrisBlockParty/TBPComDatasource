@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-06 15:34:19 UTC
+# Standings for team4 as of 2026-06-06 15:34:40 UTC
 
 **Total Participants:** 1028
 
@@ -120,9 +120,9 @@
 | 112 | 229 | Aisha Estrada |
 | 113 | 226 | Becky McCool |
 | 114 | 223 | matt |
-| 115 | 220 | Silly Risegrid |
-| 116 | 220 | Shmeedo |
-| 117 | 218 | Gorica Prusina |
+| 115 | 221 | Gorica Prusina |
+| 116 | 220 | Silly Risegrid |
+| 117 | 220 | Shmeedo |
 | 118 | 218 | Dubiousdust |
 | 119 | 217 | Slimm |
 | 120 | 212 | blockhead |
@@ -377,24 +377,24 @@
 | 369 | 68 | Valerie Silva |
 | 370 | 68 | Paula Renee McCracken |
 | 371 | 68 | Keys Tome |
-| 372 | 68 | Azahares Alonso |
-| 373 | 67 | Alma López Morales |
-| 374 | 67 | Noa Lee |
-| 375 | 67 | Loretta Hendricks |
-| 376 | 66 | Mann Manson |
-| 377 | 66 | james |
-| 378 | 66 | Ricky Colvin |
-| 379 | 65 | Cindy |
-| 380 | 65 | Joshua Garner |
-| 381 | 65 | Domo Dpn |
-| 382 | 65 | Cranky Twistpiece |
-| 383 | 65 | Lul Babie |
-| 384 | 65 | Deborah Ayliffe |
-| 385 | 64 | sierrabeth |
-| 386 | 64 | Daring Brickbuilder |
-| 387 | 63 | Brenda Gustamantes |
-| 388 | 63 | Ajohnna Frazee |
-| 389 | 63 | Ginny |
+| 372 | 68 | Ginny |
+| 373 | 68 | Azahares Alonso |
+| 374 | 67 | Alma López Morales |
+| 375 | 67 | Noa Lee |
+| 376 | 67 | Loretta Hendricks |
+| 377 | 66 | Mann Manson |
+| 378 | 66 | james |
+| 379 | 66 | Ricky Colvin |
+| 380 | 65 | Cindy |
+| 381 | 65 | Joshua Garner |
+| 382 | 65 | Domo Dpn |
+| 383 | 65 | Cranky Twistpiece |
+| 384 | 65 | Lul Babie |
+| 385 | 65 | Deborah Ayliffe |
+| 386 | 64 | sierrabeth |
+| 387 | 64 | Daring Brickbuilder |
+| 388 | 63 | Brenda Gustamantes |
+| 389 | 63 | Ajohnna Frazee |
 | 390 | 63 | Ana Ruiz |
 | 391 | 63 | Brenda Mueller |
 | 392 | 63 | BookwormCate |
@@ -522,88 +522,88 @@
 | 514 | 47 | Lush Twisterfit |
 | 515 | 47 | 94Blockhead |
 | 516 | 47 | Bonique Bier |
-| 517 | 47 | Candiecane324 |
-| 518 | 46 | Tamika Ashli Bonner |
-| 519 | 46 | Katie Martin |
-| 520 | 46 | Meela Abdurrab |
-| 521 | 46 | Esmond Johnson IV |
-| 522 | 46 | Mc3003 |
-| 523 | 46 | Jacqueline Jackii Ramos |
-| 524 | 45 | BurnedCrab52 |
-| 525 | 45 | Silly Fallzone |
-| 526 | 45 | Joe Win |
-| 527 | 45 | Knijur Callins |
-| 528 | 45 | Loopy Hitter |
-| 529 | 45 | Giggy Risegrid |
-| 530 | 45 | Jt Home |
-| 531 | 45 | EmBem |
-| 532 | 45 | Jennifer Terrill |
-| 533 | 45 | Becky Bernazal |
-| 534 | 44 | pussface |
-| 535 | 44 | SweetChaos |
-| 536 | 44 | Danielle Sulano |
-| 537 | 44 | Kelly Miller Williams |
-| 538 | 44 | Kassey M. Clark |
-| 539 | 44 | EJ Frazier |
-| 540 | 44 | chefjaydawg |
+| 517 | 47 | Breezy Rollfit |
+| 518 | 47 | Candiecane324 |
+| 519 | 46 | Tamika Ashli Bonner |
+| 520 | 46 | Katie Martin |
+| 521 | 46 | Meela Abdurrab |
+| 522 | 46 | Esmond Johnson IV |
+| 523 | 46 | Mc3003 |
+| 524 | 46 | Jacqueline Jackii Ramos |
+| 525 | 45 | BurnedCrab52 |
+| 526 | 45 | Silly Fallzone |
+| 527 | 45 | Joe Win |
+| 528 | 45 | Knijur Callins |
+| 529 | 45 | Loopy Hitter |
+| 530 | 45 | Giggy Risegrid |
+| 531 | 45 | Jt Home |
+| 532 | 45 | Becky Bernazal |
+| 533 | 45 | EmBem |
+| 534 | 45 | Jennifer Terrill |
+| 535 | 44 | Kassey M. Clark |
+| 536 | 44 | pussface |
+| 537 | 44 | EJ Frazier |
+| 538 | 44 | Danielle Sulano |
+| 539 | 44 | SweetChaos |
+| 540 | 44 | Kelly Miller Williams |
 | 541 | 44 | Sarah Leake |
-| 542 | 44 | Cauntay Youngking Williams |
-| 543 | 43 | SueSally |
-| 544 | 43 | Purple Queen |
-| 545 | 43 | Jeremy Barry |
-| 546 | 43 | Tactical_B |
+| 542 | 44 | chefjaydawg |
+| 543 | 44 | Cauntay Youngking Williams |
+| 544 | 43 | SueSally |
+| 545 | 43 | Tactical_B |
+| 546 | 43 | Ben Figueroa |
 | 547 | 43 | Swanky Snapgrid |
-| 548 | 43 | Breezy Rollfit |
-| 549 | 43 | Ben Figueroa |
+| 548 | 43 | Jeremy Barry |
+| 549 | 43 | Purple Queen |
 | 550 | 42 | Jeni |
-| 551 | 42 | Stacy Brown |
-| 552 | 42 | Happy Shatterfit |
+| 551 | 42 | Happy Shatterfit |
+| 552 | 42 | Stacy Brown |
 | 553 | 42 | shonaberry |
-| 554 | 42 | Elise Ann |
-| 555 | 42 | Danielle Porter |
-| 556 | 42 | Breezy Wife |
-| 557 | 42 | ShaniP |
-| 558 | 42 | Melissa Lowe |
-| 559 | 42 | Miranda Brown |
-| 560 | 42 | Cail |
-| 561 | 42 | MrsAddams724 |
-| 562 | 42 | Heidi Lyn Ramirez |
+| 554 | 42 | MrsAddams724 |
+| 555 | 42 | Breezy Wife |
+| 556 | 42 | ShaniP |
+| 557 | 42 | Cail |
+| 558 | 42 | Miranda Brown |
+| 559 | 42 | Heidi Lyn Ramirez |
+| 560 | 42 | Elise Ann |
+| 561 | 42 | Danielle Porter |
+| 562 | 42 | Melissa Lowe |
 | 563 | 42 | Snappy Patternfall |
 | 564 | 42 | Abby Waterman |
 | 565 | 41 | Lord Solrac |
 | 566 | 41 | Drh4090 |
-| 567 | 40 | Kena T. Tanner |
-| 568 | 40 | Zesty Lift |
-| 569 | 40 | Steven Patshy |
-| 570 | 40 | Lanelva Tiredofbs Marshall |
-| 571 | 40 | CIRAZYPNOY |
-| 572 | 40 | Mexican130 |
+| 567 | 40 | Mexican130 |
+| 568 | 40 | Steven Patshy |
+| 569 | 40 | Jay Dee |
+| 570 | 40 | Jenn Wilson |
+| 571 | 40 | MrsReap |
+| 572 | 40 | Becky Doll-Hall |
 | 573 | 40 | Brooke Bauer |
-| 574 | 40 | Becky Doll-Hall |
-| 575 | 40 | Bumpy Morris |
-| 576 | 40 | MrsReap |
-| 577 | 40 | Jenn Wilson |
-| 578 | 40 | Funky Tiler |
-| 579 | 40 | Jay Dee |
+| 574 | 40 | Kena T. Tanner |
+| 575 | 40 | CIRAZYPNOY |
+| 576 | 40 | Zesty Lift |
+| 577 | 40 | Joyce Hampton |
+| 578 | 40 | Bumpy Morris |
+| 579 | 40 | Lanelva Tiredofbs Marshall |
 | 580 | 40 | Gary Smallwood |
-| 581 | 40 | Wayne Mire |
-| 582 | 40 | Joyce Hampton |
-| 583 | 40 | Destiny Georgia Reeves Beller |
-| 584 | 40 | Raising Stars |
-| 585 | 40 | Heather Griffin |
-| 586 | 40 | Stephanie Meinhart |
-| 587 | 40 | Lady Dolphin |
+| 581 | 40 | Destiny Georgia Reeves Beller |
+| 582 | 40 | Raising Stars |
+| 583 | 40 | Heather Griffin |
+| 584 | 40 | Stephanie Meinhart |
+| 585 | 40 | Lady Dolphin |
+| 586 | 40 | Tipsy Curvetile |
+| 587 | 40 | Funky Tiler |
 | 588 | 40 | Kimberly Lusk |
-| 589 | 40 | Tipsy Curvetile |
+| 589 | 40 | Wayne Mire |
 | 590 | 40 | Lovetetris |
 | 591 | 40 | Snappy Glidebuilder |
 | 592 | 40 | Leslie Bamonte |
 | 593 | 40 | crobb77 |
 | 594 | 39 | Chris Davis |
-| 595 | 39 | Anthony Kollar |
+| 595 | 39 | Stefanie Street |
 | 596 | 39 | Denisha Schinell Boyd |
-| 597 | 39 | Amy White |
-| 598 | 39 | Stefanie Street |
+| 597 | 39 | Anthony Kollar |
+| 598 | 39 | Amy White |
 | 599 | 39 | Haylee Talkington |
 | 600 | 39 | Plucky Shatterfit |
 | 601 | 39 | David Lay |

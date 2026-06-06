@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-06 15:34:19 UTC
+# Standings for team1 as of 2026-06-06 15:34:40 UTC
 
 **Total Participants:** 1044
 
@@ -255,34 +255,34 @@
 | 247 | 108 | Char |
 | 248 | 106 | Mister Reid |
 | 249 | 105 | Katrina Ramey |
-| 250 | 105 | Kelley Johnson |
-| 251 | 105 | Angela R Wilson |
-| 252 | 104 | Brittany Fells |
-| 253 | 104 | Ahvae Lee |
-| 254 | 104 | Brittnay Wright |
+| 250 | 105 | Angela R Wilson |
+| 251 | 105 | Kelley Johnson |
+| 252 | 104 | Brittnay Wright |
+| 253 | 104 | Brittany Fells |
+| 254 | 104 | Ahvae Lee |
 | 255 | 101 | Calvin Green |
 | 256 | 101 | Joana Thompson |
-| 257 | 100 | $hort Dog |
-| 258 | 100 | Leavon Smith |
-| 259 | 100 | Seddrick |
-| 260 | 100 | Hailey Hil |
+| 257 | 100 | Seddrick |
+| 258 | 100 | Hailey Hil |
+| 259 | 100 | Leavon Smith |
+| 260 | 100 | $hort Dog |
 | 261 | 99 | Ciera Peace |
 | 262 | 99 | Maribel Vasquez |
-| 263 | 98 | Dorian Griffin |
-| 264 | 98 | Sharon Cail |
-| 265 | 97 | Shanell Thomas |
-| 266 | 97 | Telisha Mims |
-| 267 | 96 | Phillip Vasquez |
-| 268 | 96 | Dena Marie Lee |
-| 269 | 96 | Yazz |
-| 270 | 96 | Melissa D. M. Hornsby |
-| 271 | 95 | Tosha Michelle |
-| 272 | 95 | Stephen Glaze |
-| 273 | 95 | Nate Myers |
-| 274 | 95 | Slim Shedidthat |
+| 263 | 98 | Slim Shedidthat |
+| 264 | 98 | Dorian Griffin |
+| 265 | 98 | Sharon Cail |
+| 266 | 97 | Shanell Thomas |
+| 267 | 97 | Telisha Mims |
+| 268 | 96 | Phillip Vasquez |
+| 269 | 96 | Dena Marie Lee |
+| 270 | 96 | Yazz |
+| 271 | 96 | Melissa D. M. Hornsby |
+| 272 | 95 | Tosha Michelle |
+| 273 | 95 | Stephen Glaze |
+| 274 | 95 | Nate Myers |
 | 275 | 95 | Shiny Lift |
-| 276 | 94 | Cece Fowler |
-| 277 | 94 | Keke Ferguson |
+| 276 | 94 | Keke Ferguson |
+| 277 | 94 | Cece Fowler |
 | 278 | 93 | Rackemwillie34 |
 | 279 | 92 | Katherine Short |
 | 280 | 92 | Quirky Fallgrid |
@@ -609,57 +609,57 @@
 | 601 | 37 | Lil T |
 | 602 | 37 | Spicy Shatterblock |
 | 603 | 37 | CoaCoa Myles |
-| 604 | 36 | Meluhnee |
+| 604 | 36 | Meow Meow |
 | 605 | 36 | Jess |
-| 606 | 36 | Meow Meow |
+| 606 | 36 | Meluhnee |
 | 607 | 36 | Xrandomx |
 | 608 | 36 | Stephen Garland |
-| 609 | 35 | Crafty Link |
-| 610 | 35 | Brandy Jaszewski |
-| 611 | 35 | Vivian Bunnell Myers |
-| 612 | 35 | Amy Villalpando |
-| 613 | 35 | Giggy Clusterer |
-| 614 | 35 | Jes Marie |
-| 615 | 35 | Khatyrah Burnette |
-| 616 | 35 | Shannon Carriger |
-| 617 | 35 | Hyedie Badie |
-| 618 | 35 | Sashaleo |
-| 619 | 34 | Latoya Carson |
-| 620 | 34 | Zayy Wavyy |
-| 621 | 34 | Shakmar |
-| 622 | 34 | Mary Phillippi Blanton |
-| 623 | 34 | Marbama |
-| 624 | 34 | Jelyfish |
-| 625 | 34 | Jeremy Pope |
-| 626 | 34 | Sharee Robinson |
-| 627 | 33 | Flash97 |
-| 628 | 33 | Krose Byers |
-| 629 | 33 | Lucy |
-| 630 | 33 | LaToya Chambers |
-| 631 | 33 | Danielle Barthelme |
-| 632 | 33 | Jodie |
-| 633 | 33 | Mom3granny2 |
-| 634 | 33 | Danny M GR |
-| 635 | 33 | Mathew Trudell |
-| 636 | 33 | Joseph Vs Cap |
-| 637 | 33 | Squaw Ki Ng |
-| 638 | 33 | Zappy Riser |
-| 639 | 33 | Kim Holzmiller |
-| 640 | 33 | Koz176 |
-| 641 | 33 | P C |
-| 642 | 33 | Kortney Adams |
-| 643 | 33 | Melanie Houghton-McCann |
-| 644 | 33 | Crtjstr |
-| 645 | 33 | Jason Saputo |
-| 646 | 32 | Betsy B. Yohan |
-| 647 | 32 | Chummy Liner |
+| 609 | 36 | Wacky Spinfit |
+| 610 | 35 | Crafty Link |
+| 611 | 35 | Brandy Jaszewski |
+| 612 | 35 | Vivian Bunnell Myers |
+| 613 | 35 | Amy Villalpando |
+| 614 | 35 | Giggy Clusterer |
+| 615 | 35 | Jes Marie |
+| 616 | 35 | Khatyrah Burnette |
+| 617 | 35 | Sashaleo |
+| 618 | 35 | Shannon Carriger |
+| 619 | 35 | Hyedie Badie |
+| 620 | 34 | Marbama |
+| 621 | 34 | Jelyfish |
+| 622 | 34 | Sharee Robinson |
+| 623 | 34 | Jeremy Pope |
+| 624 | 34 | Mary Phillippi Blanton |
+| 625 | 34 | Shakmar |
+| 626 | 34 | Zayy Wavyy |
+| 627 | 34 | Latoya Carson |
+| 628 | 33 | Jodie |
+| 629 | 33 | Mom3granny2 |
+| 630 | 33 | Danielle Barthelme |
+| 631 | 33 | Danny M GR |
+| 632 | 33 | LaToya Chambers |
+| 633 | 33 | Lucy |
+| 634 | 33 | Krose Byers |
+| 635 | 33 | Flash97 |
+| 636 | 33 | Mathew Trudell |
+| 637 | 33 | Joseph Vs Cap |
+| 638 | 33 | Squaw Ki Ng |
+| 639 | 33 | Zappy Riser |
+| 640 | 33 | P C |
+| 641 | 33 | Kim Holzmiller |
+| 642 | 33 | Jason Saputo |
+| 643 | 33 | Koz176 |
+| 644 | 33 | Kortney Adams |
+| 645 | 33 | Crtjstr |
+| 646 | 33 | Melanie Houghton-McCann |
+| 647 | 32 | Betsy B. Yohan |
 | 648 | 32 | Melvin Simpson |
 | 649 | 32 | Stephanie Scott |
-| 650 | 32 | Wacky Spinfit |
-| 651 | 32 | TotoCherue |
-| 652 | 32 | Tomme Poliwka |
-| 653 | 32 | Tyrone Porter |
-| 654 | 32 | LaSharon Jackson |
+| 650 | 32 | TotoCherue |
+| 651 | 32 | Tomme Poliwka |
+| 652 | 32 | Tyrone Porter |
+| 653 | 32 | LaSharon Jackson |
+| 654 | 32 | Chummy Liner |
 | 655 | 32 | Sylvia Offically A Mcgowan |
 | 656 | 31 | Nekka |
 | 657 | 31 | Riq Wokhardt |
