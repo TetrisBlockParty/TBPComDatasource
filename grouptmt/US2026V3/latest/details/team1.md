@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 19:54:19 UTC
+# Standings for team1 as of 2026-06-07 19:54:40 UTC
 
 **Total Participants:** 1561
 
@@ -59,21 +59,21 @@
 | 51 | 1239 | Holly Jolly |
 | 52 | 1221 | Daylene Johannes |
 | 53 | 1187 | Angela R Wilson |
-| 54 | 1130 | Spicy Balancer |
-| 55 | 1126 | Ryan Meilleur |
-| 56 | 1102 | D'Andra Stewart |
-| 57 | 1078 | Danielle DeLozier Plesec |
-| 58 | 1067 | Catara Renae Oliver |
-| 59 | 1059 | Corey Cawthon |
-| 60 | 1052 | Shortstak |
-| 61 | 1024 | Chill Clusterer |
-| 62 | 1019 | Sanjuro |
-| 63 | 1017 | Lisa Müller |
-| 64 | 1001 | Blockhead |
-| 65 | 998 | Weeze |
-| 66 | 981 | Court Court |
-| 67 | 965 | Bre Maugh |
-| 68 | 964 | Kkbk |
+| 54 | 1168 | Kkbk |
+| 55 | 1130 | Spicy Balancer |
+| 56 | 1126 | Ryan Meilleur |
+| 57 | 1102 | D'Andra Stewart |
+| 58 | 1078 | Danielle DeLozier Plesec |
+| 59 | 1067 | Catara Renae Oliver |
+| 60 | 1059 | Corey Cawthon |
+| 61 | 1052 | Shortstak |
+| 62 | 1024 | Chill Clusterer |
+| 63 | 1019 | Sanjuro |
+| 64 | 1017 | Lisa Müller |
+| 65 | 1001 | Blockhead |
+| 66 | 998 | Weeze |
+| 67 | 981 | Court Court |
+| 68 | 965 | Bre Maugh |
 | 69 | 935 | Whitney Butler |
 | 70 | 911 | Kimberly Hernandez |
 | 71 | 902 | Uneekly Mayde |
@@ -150,8 +150,8 @@
 | 142 | 434 | Anthony Washington |
 | 143 | 431 | Lashawn Wallace |
 | 144 | 429 | Jason Mungin |
-| 145 | 420 | Jessica Carter |
-| 146 | 411 | Nutty Spinblock |
+| 145 | 421 | Nutty Spinblock |
+| 146 | 420 | Jessica Carter |
 | 147 | 408 | Ebony Waynes-robinson |
 | 148 | 405 | SPNLover24 |
 | 149 | 404 | Hyper Slamdrop |
@@ -342,16 +342,16 @@
 | 334 | 167 | Dedra M Prester |
 | 335 | 166 | BlackQueen105 |
 | 336 | 166 | Teresa Yanira Cepeda |
-| 337 | 165 | Slinky Snapbuilder |
-| 338 | 165 | Tanisha Taylor |
+| 337 | 165 | Tosha Michelle |
+| 338 | 165 | Slinky Snapbuilder |
 | 339 | 165 | Skippy |
-| 340 | 165 | SceneGreenz Wali |
-| 341 | 165 | Maribel Vasquez |
-| 342 | 164 | Giggy Clusterer |
+| 340 | 165 | Maribel Vasquez |
+| 341 | 165 | SceneGreenz Wali |
+| 342 | 165 | Tanisha Taylor |
 | 343 | 164 | De'Nell Edwards |
 | 344 | 164 | TBABYJ |
-| 345 | 163 | Daring Blockclear |
-| 346 | 163 | Tosha Michelle |
+| 345 | 164 | Giggy Clusterer |
+| 346 | 163 | Daring Blockclear |
 | 347 | 162 | JaClanDiah |
 | 348 | 162 | Lauraly |
 | 349 | 162 | Speedy Stacky |

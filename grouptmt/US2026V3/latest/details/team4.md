@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 19:54:19 UTC
+# Standings for team4 as of 2026-06-07 19:54:40 UTC
 
 **Total Participants:** 1590
 
@@ -133,32 +133,32 @@
 | 125 | 477 | Malik Thompson |
 | 126 | 474 | Melissa WC |
 | 127 | 469 | Gigglycat |
-| 128 | 461 | Kayla Fuentes |
-| 129 | 461 | Cranky Towerbuilder |
+| 128 | 461 | Cranky Towerbuilder |
+| 129 | 461 | Kayla Fuentes |
 | 130 | 457 | Lisa Garcia |
 | 131 | 452 | Sarah Berry Stevens |
 | 132 | 443 | Crissy Hoffman |
-| 133 | 433 | Real Talk Vibes |
-| 134 | 433 | Gorica Prusina |
-| 135 | 433 | Jesse Olive |
+| 133 | 438 | Jesse Olive |
+| 134 | 433 | Real Talk Vibes |
+| 135 | 433 | Gorica Prusina |
 | 136 | 430 | Kaash Brxtt |
 | 137 | 426 | Cherry |
 | 138 | 424 | Snappy Fitzone |
 | 139 | 422 | squareMel |
 | 140 | 421 | Michelle Ross |
-| 141 | 418 | Aisha Estrada |
-| 142 | 418 | Futrell Brent |
+| 141 | 418 | Futrell Brent |
+| 142 | 418 | Aisha Estrada |
 | 143 | 415 | Chuck Gannon |
 | 144 | 409 | Hen |
 | 145 | 406 | Kelley Roach |
 | 146 | 402 | Boldy Rumbler |
-| 147 | 400 | Elissa S-k |
+| 147 | 400 | DexterDobbins |
 | 148 | 400 | Suzanne Carter |
-| 149 | 400 | Amber Doyle |
-| 150 | 400 | DexterDobbins |
+| 149 | 400 | Elissa S-k |
+| 150 | 400 | Amber Doyle |
 | 151 | 398 | Nicole |
-| 152 | 397 | Shiny Dashy |
-| 153 | 397 | Danielle Mitchell |
+| 152 | 397 | Danielle Mitchell |
+| 153 | 397 | Shiny Dashy |
 | 154 | 396 | Jackie Jackson |
 | 155 | 395 | Pepone Pepe |
 | 156 | 379 | Taz |
