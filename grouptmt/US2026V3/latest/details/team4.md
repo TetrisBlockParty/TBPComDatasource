@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 09:24:41 UTC
+# Standings for team4 as of 2026-06-07 09:25:17 UTC
 
 **Total Participants:** 1428
 
@@ -126,15 +126,15 @@
 | 118 | 430 | Kaash Brxtt |
 | 119 | 429 | iiPurgeV2 |
 | 120 | 421 | Michelle Ross |
-| 121 | 418 | Aisha Estrada |
-| 122 | 417 | Cherry |
-| 123 | 415 | Chuck Gannon |
-| 124 | 414 | Gigglycat |
-| 125 | 406 | Kelley Roach |
-| 126 | 401 | Gracie Ornelas |
-| 127 | 400 | Nicole Peoples |
-| 128 | 400 | Amber Doyle |
-| 129 | 400 | DexterDobbins |
+| 121 | 421 | Gracie Ornelas |
+| 122 | 418 | Aisha Estrada |
+| 123 | 417 | Cherry |
+| 124 | 415 | Chuck Gannon |
+| 125 | 414 | Gigglycat |
+| 126 | 406 | Kelley Roach |
+| 127 | 400 | Amber Doyle |
+| 128 | 400 | DexterDobbins |
+| 129 | 400 | Nicole Peoples |
 | 130 | 397 | Real Talk Vibes |
 | 131 | 396 | Jackie Jackson |
 | 132 | 394 | Kim |
@@ -305,9 +305,9 @@
 | 297 | 146 | Jasmine Marie |
 | 298 | 145 | June Hoffman |
 | 299 | 144 | Dapper Strikerpiece |
-| 300 | 143 | Brennan Shea Greene |
-| 301 | 142 | Rachel Lemos |
-| 302 | 142 | Nerdy Faller |
+| 300 | 144 | Nerdy Faller |
+| 301 | 143 | Brennan Shea Greene |
+| 302 | 142 | Rachel Lemos |
 | 303 | 142 | Chris McBlockster |
 | 304 | 141 | JuicyJuice |
 | 305 | 141 | Chilly Pivot |
@@ -355,8 +355,8 @@
 | 347 | 121 | Jennifer Fisher Franklin |
 | 348 | 121 | Jazzy Gridder |
 | 349 | 121 | TJ |
-| 350 | 120 | Ada Rodriguez Spradley |
-| 351 | 120 | Goofy Linkmatch |
+| 350 | 120 | Goofy Linkmatch |
+| 351 | 120 | Ada Rodriguez Spradley |
 | 352 | 120 | Holly Wessel |
 | 353 | 120 | Glamorous Gracey |
 | 354 | 120 | Cool Risepiece |
@@ -455,19 +455,19 @@
 | 447 | 94 | Reina Pagan |
 | 448 | 94 | Courtney Niichole |
 | 449 | 94 | Janae Harris |
-| 450 | 94 | Caiti O'Keefe |
-| 451 | 93 | Witty Fitblock |
-| 452 | 93 | Boldy Striker |
-| 453 | 93 | Domo Dpn |
-| 454 | 93 | Loopy Hitter |
-| 455 | 93 | Dandy Cascade |
-| 456 | 92 | Rosy Perez |
-| 457 | 92 | Autumn Maher |
-| 458 | 92 | Giggly Column |
-| 459 | 92 | MrLoner Stoner |
-| 460 | 92 | my my |
-| 461 | 92 | Chonda OhanaMomma Michelle |
-| 462 | 92 | Tiffany Roberts |
+| 450 | 94 | Tiffany Roberts |
+| 451 | 94 | Caiti O'Keefe |
+| 452 | 93 | Witty Fitblock |
+| 453 | 93 | Boldy Striker |
+| 454 | 93 | Domo Dpn |
+| 455 | 93 | Loopy Hitter |
+| 456 | 93 | Dandy Cascade |
+| 457 | 92 | Rosy Perez |
+| 458 | 92 | Autumn Maher |
+| 459 | 92 | Giggly Column |
+| 460 | 92 | MrLoner Stoner |
+| 461 | 92 | my my |
+| 462 | 92 | Chonda OhanaMomma Michelle |
 | 463 | 92 | William Brooks |
 | 464 | 91 | Miss Beast |
 | 465 | 91 | Spicy Peach |
@@ -793,10 +793,10 @@
 | 785 | 50 | Andreas Vs Shinky |
 | 786 | 50 | Smiley Wipeblock |
 | 787 | 50 | Chris Somsen |
-| 788 | 49 | Mrsjcraw18 |
-| 789 | 49 | Tammy Wells |
-| 790 | 49 | Daffney Starr |
-| 791 | 49 | Heidi Lyn Ramirez |
+| 788 | 50 | Heidi Lyn Ramirez |
+| 789 | 49 | Mrsjcraw18 |
+| 790 | 49 | Tammy Wells |
+| 791 | 49 | Daffney Starr |
 | 792 | 49 | Katherine Stec |
 | 793 | 49 | Angelo L Casillas |
 | 794 | 49 | Gwendolyn Langwinski |

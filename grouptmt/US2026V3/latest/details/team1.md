@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 09:24:41 UTC
+# Standings for team1 as of 2026-06-07 09:25:17 UTC
 
 **Total Participants:** 1431
 
@@ -477,9 +477,9 @@
 | 469 | 93 | Kate Hancock Malicek |
 | 470 | 92 | Boldy Matchbuilder |
 | 471 | 92 | Pretty Yella |
-| 472 | 91 | Aaron Hartmann |
-| 473 | 91 | David A Alvino |
-| 474 | 91 | 大竹直之 |
+| 472 | 92 | 大竹直之 |
+| 473 | 91 | Aaron Hartmann |
+| 474 | 91 | David A Alvino |
 | 475 | 90 | Lilly Brown |
 | 476 | 90 | Nora Mahmoud |
 | 477 | 90 | Shameka Tiffany |
