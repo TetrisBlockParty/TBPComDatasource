@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 17:36:19 UTC
+# Standings for team1 as of 2026-06-07 17:36:41 UTC
 
 **Total Participants:** 1524
 
@@ -179,7 +179,7 @@
 | 171 | 327 | Mimi 1.0 |
 | 172 | 325 | Tishauna Virgo |
 | 173 | 325 | Karebear |
-| 174 | 320 | Tamara N Lee |
+| 174 | 324 | Tamara N Lee |
 | 175 | 320 | Jayjay Rich |
 | 176 | 317 | Crystal Anderson |
 | 177 | 315 | Nerdy Snapfall |
@@ -321,9 +321,9 @@
 | 313 | 175 | Amy Lynn Leifheit |
 | 314 | 174 | Nina Davis |
 | 315 | 174 | Guy Incognito |
-| 316 | 173 | izzybella |
-| 317 | 173 | LuckyStar |
-| 318 | 173 | Crystal Cheresnowsky |
+| 316 | 173 | Crystal Cheresnowsky |
+| 317 | 173 | izzybella |
+| 318 | 173 | LuckyStar |
 | 319 | 170 | Slinky Party |
 | 320 | 169 | Jai |
 | 321 | 169 | Asha Langford |
@@ -332,32 +332,32 @@
 | 324 | 166 | ChunLi |
 | 325 | 166 | BlackQueen105 |
 | 326 | 165 | Tanisha Taylor |
-| 327 | 165 | Slinky Snapbuilder |
+| 327 | 165 | SceneGreenz Wali |
 | 328 | 165 | Maribel Vasquez |
 | 329 | 165 | Skippy |
-| 330 | 164 | Giggy Clusterer |
-| 331 | 164 | TBABYJ |
-| 332 | 162 | Tosha Michelle |
-| 333 | 162 | JaClanDiah |
-| 334 | 162 | Speedy Stacky |
-| 335 | 161 | Devron Reedy |
-| 336 | 160 | Tyiesha Pie Farmer |
-| 337 | 160 | Larina Cherie Johnson |
+| 330 | 165 | Slinky Snapbuilder |
+| 331 | 164 | Giggy Clusterer |
+| 332 | 164 | TBABYJ |
+| 333 | 162 | Tosha Michelle |
+| 334 | 162 | JaClanDiah |
+| 335 | 162 | Speedy Stacky |
+| 336 | 161 | Devron Reedy |
+| 337 | 160 | Tyiesha Pie Farmer |
 | 338 | 160 | Zippy Tilefall |
-| 339 | 160 | Lively Riserpiece |
-| 340 | 160 | Carolyn Smith |
-| 341 | 159 | Bambi Johnson |
-| 342 | 159 | Bubbly Piececlear |
-| 343 | 158 | Charlene Baltimore |
-| 344 | 158 | Kimberly Linares Hernandez |
-| 345 | 157 | Courtney Cicoria |
-| 346 | 157 | Hasty Glidezone |
-| 347 | 157 | Daring Blockclear |
-| 348 | 156 | De'Nell Edwards |
-| 349 | 156 | Shalya Terry |
+| 339 | 160 | Larina Cherie Johnson |
+| 340 | 160 | Lively Riserpiece |
+| 341 | 160 | Carolyn Smith |
+| 342 | 159 | Bambi Johnson |
+| 343 | 159 | Bubbly Piececlear |
+| 344 | 158 | Charlene Baltimore |
+| 345 | 158 | Kimberly Linares Hernandez |
+| 346 | 157 | Courtney Cicoria |
+| 347 | 157 | Hasty Glidezone |
+| 348 | 157 | Daring Blockclear |
+| 349 | 156 | De'Nell Edwards |
 | 350 | 156 | Alyssa Rae |
 | 351 | 156 | Cheeky Twistpiece |
-| 352 | 156 | SceneGreenz Wali |
+| 352 | 156 | Shalya Terry |
 | 353 | 156 | Tee Spinks |
 | 354 | 155 | Lazy Tiltpiece |
 | 355 | 154 | Cece Fowler |
@@ -590,9 +590,9 @@
 | 582 | 88 | Sallie Sanborn |
 | 583 | 88 | Brenda Malachi-butler |
 | 584 | 88 | Guard Up |
-| 585 | 87 | Joseph Vs Cap |
-| 586 | 87 | Natalie Burroughs |
-| 587 | 87 | TieMs BHughez |
+| 585 | 88 | TieMs BHughez |
+| 586 | 87 | Joseph Vs Cap |
+| 587 | 87 | Natalie Burroughs |
 | 588 | 86 | Giggly Tiltbuilder |
 | 589 | 86 | krd |
 | 590 | 86 | Messy Live |
