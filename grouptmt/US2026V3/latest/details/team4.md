@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 12:10:19 UTC
+# Standings for team4 as of 2026-06-07 12:10:40 UTC
 
 **Total Participants:** 1455
 
@@ -167,12 +167,12 @@
 | 159 | 311 | Jesse Olive |
 | 160 | 304 | Dazzle Dragon |
 | 161 | 303 | Sisi RedVelvet Reneè |
-| 162 | 300 | Genag |
-| 163 | 297 | beTrue76 |
-| 164 | 296 | Randy M Hatch |
-| 165 | 294 | Yesenia Castro Monreal |
-| 166 | 292 | Danielle Mitchell |
-| 167 | 292 | Katie Martin |
+| 162 | 302 | Katie Martin |
+| 163 | 300 | Genag |
+| 164 | 297 | beTrue76 |
+| 165 | 296 | Randy M Hatch |
+| 166 | 294 | Yesenia Castro Monreal |
+| 167 | 292 | Danielle Mitchell |
 | 168 | 291 | shawna |
 | 169 | 289 | Chiquita Blue |
 | 170 | 288 | Maria Castillo |
