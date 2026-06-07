@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:30:18 UTC
+# Standings for team2 as of 2026-06-07 09:30:41 UTC
 
 **Total Participants:** 1689
 
@@ -940,9 +940,9 @@
 | 932 | 46 | Tabitha Ann Bullins-Cobb |
 | 933 | 46 | Matthew Black |
 | 934 | 46 | y |
-| 935 | 45 | Princess Cucumber |
-| 936 | 45 | Nora Buchan |
-| 937 | 45 | Witty Brickster |
+| 935 | 45 | Witty Brickster |
+| 936 | 45 | Princess Cucumber |
+| 937 | 45 | Nora Buchan |
 | 938 | 45 | Jolene Hull Hearn |
 | 939 | 45 | C.L. Deslongchamp |
 | 940 | 45 | Chill Wipegrid |
@@ -950,51 +950,51 @@
 | 942 | 45 | Chatty |
 | 943 | 45 | SaraAnn Gray Philbrick |
 | 944 | 45 | Thomas Johnstone |
-| 945 | 45 | Jessica LeNeave |
-| 946 | 45 | Linzy Ratliff |
+| 945 | 45 | Linzy Ratliff |
+| 946 | 45 | Jessica LeNeave |
 | 947 | 44 | Rae |
 | 948 | 44 | Jenna Thorn |
-| 949 | 44 | Kassie D Harmon |
-| 950 | 44 | Nicole Dyer |
-| 951 | 44 | Cody Bohannan |
-| 952 | 44 | Dandy Column |
-| 953 | 44 | Robert W Schwartz |
-| 954 | 44 | Katie Boen |
-| 955 | 44 | Blocker |
-| 956 | 44 | Jackie Moran Tiller |
-| 957 | 43 | Kayla Faulkiner |
-| 958 | 43 | Quirky Shifter |
-| 959 | 43 | Jolly Twisterfit |
-| 960 | 43 | Peter Fogg |
-| 961 | 43 | Kourtney Heiden-Hudson |
+| 949 | 44 | Melissa Mae |
+| 950 | 44 | Kassie D Harmon |
+| 951 | 44 | Nicole Dyer |
+| 952 | 44 | Cody Bohannan |
+| 953 | 44 | Dandy Column |
+| 954 | 44 | Robert W Schwartz |
+| 955 | 44 | Katie Boen |
+| 956 | 44 | Blocker |
+| 957 | 44 | Jackie Moran Tiller |
+| 958 | 43 | Kayla Faulkiner |
+| 959 | 43 | Quirky Shifter |
+| 960 | 43 | Jolly Twisterfit |
+| 961 | 43 | Peter Fogg |
 | 962 | 43 | Fluffypuffin |
-| 963 | 43 | Jazzy |
-| 964 | 42 | Melissa Pronovost |
-| 965 | 42 | Aubrey Gates |
-| 966 | 42 | Snazzy Smasher |
-| 967 | 42 | Shylo Bryant-Brunson |
-| 968 | 42 | MJLovesHer#OneMistake |
-| 969 | 42 | Blossom48 |
-| 970 | 42 | Cuca Perez |
-| 971 | 42 | Clever Linkbuilder |
-| 972 | 42 | Sami Amato |
-| 973 | 42 | Christopher S Lawyer |
-| 974 | 42 | Henny Henny |
-| 975 | 41 | Clever Gridzone |
-| 976 | 41 | Kodi Gay |
-| 977 | 41 | Kymberlee Rolinski |
-| 978 | 41 | Baby |
-| 979 | 41 | Jenny Coffer |
-| 980 | 41 | Gino Positano |
+| 963 | 43 | Kourtney Heiden-Hudson |
+| 964 | 43 | Jazzy |
+| 965 | 42 | Christopher S Lawyer |
+| 966 | 42 | Henny Henny |
+| 967 | 42 | Aubrey Gates |
+| 968 | 42 | Sami Amato |
+| 969 | 42 | Clever Linkbuilder |
+| 970 | 42 | Snazzy Smasher |
+| 971 | 42 | Shylo Bryant-Brunson |
+| 972 | 42 | Cuca Perez |
+| 973 | 42 | Blossom48 |
+| 974 | 42 | Melissa Pronovost |
+| 975 | 42 | MJLovesHer#OneMistake |
+| 976 | 41 | Jenny Coffer |
+| 977 | 41 | Gino Positano |
+| 978 | 41 | Kymberlee Rolinski |
+| 979 | 41 | Baby |
+| 980 | 41 | Jenifer Seeley |
 | 981 | 41 | Steve Eakins |
-| 982 | 41 | Meagan Thompson |
-| 983 | 41 | Melissa Mae |
-| 984 | 41 | Jenifer Seeley |
+| 982 | 41 | Clever Gridzone |
+| 983 | 41 | Meagan Thompson |
+| 984 | 41 | Silly Swiper |
 | 985 | 41 | KS Hengesbach |
-| 986 | 41 | Silly Swiper |
-| 987 | 40 | Cassafrass |
-| 988 | 40 | Ashley Bennett |
-| 989 | 40 | Jessica Garoutte |
+| 986 | 41 | Kodi Gay |
+| 987 | 40 | Ashley Bennett |
+| 988 | 40 | Jessica Garoutte |
+| 989 | 40 | Cassafrass |
 | 990 | 40 | Missy Stevens |
 | 991 | 40 | Heather Klaus |
 | 992 | 40 | Alisha Shelton |

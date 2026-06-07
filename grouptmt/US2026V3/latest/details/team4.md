@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 09:30:18 UTC
+# Standings for team4 as of 2026-06-07 09:30:41 UTC
 
 **Total Participants:** 1428
 
@@ -186,7 +186,7 @@
 | 178 | 267 | QueenLi86 |
 | 179 | 262 | squareMel |
 | 180 | 261 | Waxboss |
-| 181 | 260 | Maria Castillo |
+| 181 | 261 | Maria Castillo |
 | 182 | 259 | Jessica Peyton |
 | 183 | 253 | Tammy June |
 | 184 | 248 | Perky Riserbuilder |
@@ -732,8 +732,8 @@
 | 724 | 55 | bofe |
 | 725 | 55 | Julian Gasque |
 | 726 | 55 | Bee |
-| 727 | 55 | Krissy Smith |
-| 728 | 55 | Janna Thompson |
+| 727 | 55 | Janna Thompson |
+| 728 | 55 | Krissy Smith |
 | 729 | 55 | pussface |
 | 730 | 55 | Donny Keets |
 | 731 | 55 | The Jazziest |
@@ -742,13 +742,13 @@
 | 734 | 54 | Lilo |
 | 735 | 54 | Lisa Ferriero-Daudin |
 | 736 | 54 | Scott Baum |
-| 737 | 54 | Heather Brown |
-| 738 | 54 | Danny Keich III |
-| 739 | 54 | Felicia Harrison |
-| 740 | 54 | Danielle Porter |
-| 741 | 54 | Earl Edwards |
-| 742 | 53 | Kimberly Mae Watkins |
-| 743 | 53 | Carlos Amaya |
+| 737 | 54 | Danny Keich III |
+| 738 | 54 | Felicia Harrison |
+| 739 | 54 | Danielle Porter |
+| 740 | 54 | Earl Edwards |
+| 741 | 54 | Heather Brown |
+| 742 | 53 | Carlos Amaya |
+| 743 | 53 | Kimberly Mae Watkins |
 | 744 | 53 | Koren Heersink |
 | 745 | 53 | Cflixer |
 | 746 | 53 | Haylee Talkington |
@@ -757,44 +757,44 @@
 | 749 | 52 | Frothy Pivotfall |
 | 750 | 52 | Meela Abdurrab |
 | 751 | 52 | Sonya |
-| 752 | 52 | Nachos |
-| 753 | 52 | Certified Da Don |
-| 754 | 51 | Maria Munoz |
-| 755 | 51 | Toria |
-| 756 | 51 | Joshua Powers |
-| 757 | 51 | Kimberly Civinski |
-| 758 | 51 | Snow77white |
-| 759 | 51 | Gerald Richard Franke |
-| 760 | 51 | Curved carrot |
-| 761 | 51 | LilRain |
-| 762 | 51 | Gma420 |
-| 763 | 51 | Vergie Michael |
-| 764 | 51 | Michellee Lewis |
-| 765 | 51 | Poppy |
-| 766 | 50 | Diane Obungu |
-| 767 | 50 | Melissa Elizabeth |
-| 768 | 50 | Brendan Craven |
-| 769 | 50 | Erica Armstrong Baz |
-| 770 | 50 | Jacqueline Wright |
-| 771 | 50 | Travis McKinnon |
-| 772 | 50 | Alex Dawn |
-| 773 | 50 | Loony Edge |
-| 774 | 50 | Monkey |
-| 775 | 50 | Daniel Lossman |
-| 776 | 50 | Michael Cruz |
-| 777 | 50 | Heather Griffin |
-| 778 | 50 | Swanky Matchfit |
-| 779 | 50 | Nova Kain |
-| 780 | 50 | Chris Somsen |
-| 781 | 50 | Lizard |
-| 782 | 50 | Heidi Lyn Ramirez |
-| 783 | 50 | Andreas Vs Shinky |
-| 784 | 50 | Lovely |
-| 785 | 50 | Hyper Balancepiece |
-| 786 | 50 | Slinky Column |
-| 787 | 50 | Ralph Hell Rell Williams |
-| 788 | 50 | Hooti Smile |
-| 789 | 50 | Smiley Wipeblock |
+| 752 | 52 | Heidi Lyn Ramirez |
+| 753 | 52 | Nachos |
+| 754 | 52 | Certified Da Don |
+| 755 | 51 | Curved carrot |
+| 756 | 51 | Toria |
+| 757 | 51 | Joshua Powers |
+| 758 | 51 | Gerald Richard Franke |
+| 759 | 51 | Maria Munoz |
+| 760 | 51 | Snow77white |
+| 761 | 51 | Kimberly Civinski |
+| 762 | 51 | LilRain |
+| 763 | 51 | Gma420 |
+| 764 | 51 | Vergie Michael |
+| 765 | 51 | Michellee Lewis |
+| 766 | 51 | Poppy |
+| 767 | 50 | Diane Obungu |
+| 768 | 50 | Melissa Elizabeth |
+| 769 | 50 | Brendan Craven |
+| 770 | 50 | Erica Armstrong Baz |
+| 771 | 50 | Jacqueline Wright |
+| 772 | 50 | Travis McKinnon |
+| 773 | 50 | Alex Dawn |
+| 774 | 50 | Loony Edge |
+| 775 | 50 | Monkey |
+| 776 | 50 | Daniel Lossman |
+| 777 | 50 | Michael Cruz |
+| 778 | 50 | Heather Griffin |
+| 779 | 50 | Swanky Matchfit |
+| 780 | 50 | Nova Kain |
+| 781 | 50 | Lovely |
+| 782 | 50 | Smiley Wipeblock |
+| 783 | 50 | Chris Somsen |
+| 784 | 50 | Hooti Smile |
+| 785 | 50 | Lizard |
+| 786 | 50 | Ralph Hell Rell Williams |
+| 787 | 50 | Andreas Vs Shinky |
+| 788 | 50 | Slinky Column |
+| 789 | 50 | Hyper Balancepiece |
 | 790 | 49 | Daffney Starr |
 | 791 | 49 | Tammy Wells |
 | 792 | 49 | Angelo L Casillas |
