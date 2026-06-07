@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 11:21:18 UTC
+# Standings for team4 as of 2026-06-07 11:22:18 UTC
 
 **Total Participants:** 1449
 
@@ -71,8 +71,8 @@
 | 63 | 892 | Alala.Cersei |
 | 64 | 876 | SMV |
 | 65 | 866 | J |
-| 66 | 848 | Beee |
-| 67 | 836 | Blind Bette |
+| 66 | 858 | Blind Bette |
+| 67 | 848 | Beee |
 | 68 | 832 | Jason Allen |
 | 69 | 830 | Kitsune Bi |
 | 70 | 826 | Lupe Alburquerque |
@@ -117,11 +117,11 @@
 | 109 | 476 | Jason Garnatz |
 | 110 | 474 | Melissa WC |
 | 111 | 473 | vag1974 |
-| 112 | 461 | Kayla Fuentes |
-| 113 | 461 | Cranky Towerbuilder |
-| 114 | 457 | Lisa Garcia |
-| 115 | 450 | Sassy Column |
-| 116 | 444 | Gigglycat |
+| 112 | 464 | Gigglycat |
+| 113 | 461 | Kayla Fuentes |
+| 114 | 461 | Cranky Towerbuilder |
+| 115 | 457 | Lisa Garcia |
+| 116 | 450 | Sassy Column |
 | 117 | 443 | Crissy Hoffman |
 | 118 | 437 | Ermadette |
 | 119 | 433 | Gorica Prusina |
@@ -227,15 +227,15 @@
 | 219 | 211 | Goofy Riser |
 | 220 | 210 | Stephanie Myers |
 | 221 | 207 | Aramat |
-| 222 | 205 | Kristen Wallace |
-| 223 | 201 | Crystal Hammonds |
-| 224 | 200 | Sarah Montagne Forsberg |
-| 225 | 199 | Lively Blockpiece |
-| 226 | 199 | Janet Willoughby |
-| 227 | 199 | Colin |
-| 228 | 197 | Tiggerjake |
-| 229 | 196 | Loopy Clusterline |
-| 230 | 196 | Samantha Worley |
+| 222 | 206 | Samantha Worley |
+| 223 | 205 | Kristen Wallace |
+| 224 | 201 | Crystal Hammonds |
+| 225 | 200 | Sarah Montagne Forsberg |
+| 226 | 199 | Lively Blockpiece |
+| 227 | 199 | Janet Willoughby |
+| 228 | 199 | Colin |
+| 229 | 197 | Tiggerjake |
+| 230 | 196 | Loopy Clusterline |
 | 231 | 195 | Sean Mccleary |
 | 232 | 194 | Lisa lisa |
 | 233 | 194 | Jenn Norcross |
@@ -368,8 +368,8 @@
 | 360 | 124 | Tasha Suzanne Prisbrey |
 | 361 | 124 | Shanna Fragen |
 | 362 | 122 | Ginny |
-| 363 | 121 | Jennifer Fisher Franklin |
-| 364 | 121 | Jeff Margolis |
+| 363 | 121 | Jeff Margolis |
+| 364 | 121 | Jennifer Fisher Franklin |
 | 365 | 121 | Jazzy Gridder |
 | 366 | 121 | TJ |
 | 367 | 120 | Natalie Dillard |
@@ -377,34 +377,34 @@
 | 369 | 120 | Ada Rodriguez Spradley |
 | 370 | 120 | Goofy Linkmatch |
 | 371 | 120 | Saucy Wipepiece |
-| 372 | 120 | Shiny Brick |
+| 372 | 120 | Joab Gonzalez |
 | 373 | 120 | Glamorous Gracey |
 | 374 | 120 | Cool Risepiece |
-| 375 | 120 | Joab Gonzalez |
-| 376 | 120 | Lul Babie |
-| 377 | 120 | Carla Woodard |
+| 375 | 120 | Lul Babie |
+| 376 | 120 | Carla Woodard |
+| 377 | 120 | Shiny Brick |
 | 378 | 119 | Maegon Brazille |
-| 379 | 119 | aga |
-| 380 | 119 | Dennis Montoya |
-| 381 | 119 | Rae Saunders |
+| 379 | 119 | Dennis Montoya |
+| 380 | 119 | Rae Saunders |
+| 381 | 119 | aga |
 | 382 | 119 | Ashley Jenkins |
 | 383 | 118 | Goofy Fall |
 | 384 | 118 | farfromlocal |
-| 385 | 117 | Fancy Tilefall |
-| 386 | 117 | Tyson Stroppel |
-| 387 | 116 | Henry Lanier |
-| 388 | 116 | Toon Up |
+| 385 | 118 | Dena Lynn Rogers |
+| 386 | 117 | Fancy Tilefall |
+| 387 | 117 | Tyson Stroppel |
+| 388 | 116 | Solace Grace |
 | 389 | 116 | Stef |
-| 390 | 116 | Solace Grace |
-| 391 | 116 | Aaron Turner |
-| 392 | 115 | Holly Bramel |
-| 393 | 114 | Shawna Downey |
-| 394 | 114 | yourmomz |
-| 395 | 114 | Suzanne North |
-| 396 | 114 | Ashley Eskridge |
-| 397 | 113 | Brandon Bedenbaugh |
+| 390 | 116 | Henry Lanier |
+| 391 | 116 | Toon Up |
+| 392 | 116 | Aaron Turner |
+| 393 | 115 | Holly Bramel |
+| 394 | 114 | Shawna Downey |
+| 395 | 114 | yourmomz |
+| 396 | 114 | Suzanne North |
+| 397 | 114 | Ashley Eskridge |
 | 398 | 113 | Melissa Anne |
-| 399 | 113 | Dena Lynn Rogers |
+| 399 | 113 | Brandon Bedenbaugh |
 | 400 | 113 | George Palacios |
 | 401 | 113 | TheazO |
 | 402 | 113 | Nicole Colby McCloskey |

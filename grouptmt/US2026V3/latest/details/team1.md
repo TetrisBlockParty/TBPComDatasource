@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:21:18 UTC
+# Standings for team1 as of 2026-06-07 11:22:18 UTC
 
 **Total Participants:** 1444
 
@@ -291,14 +291,14 @@
 | 283 | 165 | Tanisha Taylor |
 | 284 | 164 | TT |
 | 285 | 163 | Mafio SO |
-| 286 | 163 | Zappy Riser |
-| 287 | 162 | JaClanDiah |
-| 288 | 162 | Snippy Breaker |
-| 289 | 162 | Tosha Michelle |
-| 290 | 162 | Speedy Stacky |
-| 291 | 162 | Amy Lynn Leifheit |
-| 292 | 162 | Clever Fitblock |
-| 293 | 161 | Choc |
+| 286 | 163 | Choc |
+| 287 | 163 | Zappy Riser |
+| 288 | 162 | JaClanDiah |
+| 289 | 162 | Snippy Breaker |
+| 290 | 162 | Tosha Michelle |
+| 291 | 162 | Speedy Stacky |
+| 292 | 162 | Amy Lynn Leifheit |
+| 293 | 162 | Clever Fitblock |
 | 294 | 161 | Devron Reedy |
 | 295 | 160 | Spicy Risepiece |
 | 296 | 160 | Carolyn Smith |
