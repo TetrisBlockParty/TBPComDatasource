@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 08:26:18 UTC
+# Standings for team4 as of 2026-06-07 08:26:41 UTC
 
 **Total Participants:** 1417
 
@@ -605,37 +605,37 @@
 | 597 | 68 | Poptart |
 | 598 | 68 | Vonni McLean |
 | 599 | 67 | Glittara |
-| 600 | 67 | Wacky Snaplink |
-| 601 | 67 | Peterson Cottontail |
-| 602 | 67 | Ashley DuVall |
-| 603 | 67 | Playful Raccoon |
-| 604 | 67 | Mc3003 |
-| 605 | 67 | Noa Lee |
-| 606 | 67 | Snappy Stack |
-| 607 | 66 | Joyce Hampton |
-| 608 | 66 | Dapper Tiltpiece |
-| 609 | 66 | Jennifer Brucz |
-| 610 | 66 | Mann Manson |
-| 611 | 66 | james |
-| 612 | 66 | chefjaydawg |
-| 613 | 65 | Lacie Powers |
-| 614 | 65 | Yvette Johnson |
-| 615 | 65 | Rocky |
-| 616 | 65 | Cranky Twistpiece |
-| 617 | 65 | Breezy Wife |
-| 618 | 65 | Dinah Mccall |
-| 619 | 65 | Genger |
-| 620 | 65 | Tony Clark |
-| 621 | 65 | Monte Smith |
-| 622 | 65 | Gabby Simones |
-| 623 | 65 | Youngkueen |
-| 624 | 65 | Deborah Ayliffe |
-| 625 | 65 | Knijur Callins |
-| 626 | 65 | Jailen Harper |
-| 627 | 65 | Lovetetris |
-| 628 | 64 | Giggy Risegrid |
-| 629 | 64 | Clever Brickzone |
-| 630 | 64 | SueSally |
+| 600 | 67 | SueSally |
+| 601 | 67 | Wacky Snaplink |
+| 602 | 67 | Peterson Cottontail |
+| 603 | 67 | Ashley DuVall |
+| 604 | 67 | Playful Raccoon |
+| 605 | 67 | Mc3003 |
+| 606 | 67 | Noa Lee |
+| 607 | 67 | Snappy Stack |
+| 608 | 66 | Joyce Hampton |
+| 609 | 66 | Dapper Tiltpiece |
+| 610 | 66 | Jennifer Brucz |
+| 611 | 66 | Mann Manson |
+| 612 | 66 | james |
+| 613 | 66 | chefjaydawg |
+| 614 | 65 | Lacie Powers |
+| 615 | 65 | Yvette Johnson |
+| 616 | 65 | Rocky |
+| 617 | 65 | Cranky Twistpiece |
+| 618 | 65 | Breezy Wife |
+| 619 | 65 | Dinah Mccall |
+| 620 | 65 | Genger |
+| 621 | 65 | Tony Clark |
+| 622 | 65 | Monte Smith |
+| 623 | 65 | Gabby Simones |
+| 624 | 65 | Youngkueen |
+| 625 | 65 | Deborah Ayliffe |
+| 626 | 65 | Knijur Callins |
+| 627 | 65 | Jailen Harper |
+| 628 | 65 | Lovetetris |
+| 629 | 64 | Giggy Risegrid |
+| 630 | 64 | Clever Brickzone |
 | 631 | 64 | Daring Brickbuilder |
 | 632 | 64 | Deb 07 |
 | 633 | 64 | MamaC |
