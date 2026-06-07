@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 06:14:17 UTC
+# Standings for team2 as of 2026-06-07 06:14:40 UTC
 
 **Total Participants:** 1650
 
@@ -43,8 +43,8 @@
 | 35 | 2287 | Christina Jambard Sampier |
 | 36 | 2210 | Bea Bee |
 | 37 | 2133 | Frisky Balanceblock |
-| 38 | 2032 | Andrew Weissenborn |
-| 39 | 1949 | Angelica Jelli Gillaspy |
+| 38 | 2049 | Angelica Jelli Gillaspy |
+| 39 | 2032 | Andrew Weissenborn |
 | 40 | 1906 | Jennifer Corder |
 | 41 | 1841 | Frilly Match |
 | 42 | 1835 | Elizabeth Mooney |
@@ -410,11 +410,11 @@
 | 402 | 128 | rageking |
 | 403 | 127 | Aurora June Brock |
 | 404 | 127 | Tammy Roth |
-| 405 | 127 | Stephanie |
+| 405 | 127 | Amber Smith |
 | 406 | 127 | Nicky Steigerwalt |
-| 407 | 127 | Tina |
-| 408 | 126 | Anthony Swift |
-| 409 | 126 | Amber Smith |
+| 407 | 127 | Stephanie |
+| 408 | 127 | Tina |
+| 409 | 126 | Anthony Swift |
 | 410 | 125 | Wayne Johnson |
 | 411 | 125 | Jessica Connot |
 | 412 | 125 | Kathryn |
