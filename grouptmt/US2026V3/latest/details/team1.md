@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 15:52:18 UTC
+# Standings for team1 as of 2026-06-07 15:52:41 UTC
 
 **Total Participants:** 1498
 
@@ -190,13 +190,13 @@
 | 182 | 299 | Kenny MrOnethousand Peck |
 | 183 | 298 | Randizzle |
 | 184 | 297 | Ebony |
-| 185 | 296 | NastyFriend |
+| 185 | 297 | NastyFriend |
 | 186 | 296 | Latisha Fairley |
 | 187 | 296 | Nikki Hogan |
 | 188 | 296 | Rolanda Williams |
 | 189 | 295 | Jayjay Rich |
-| 190 | 293 | Tonya Lee Sanders |
-| 191 | 293 | Mic Balew |
+| 190 | 293 | Mic Balew |
+| 191 | 293 | Tonya Lee Sanders |
 | 192 | 291 | Brian Taylor |
 | 193 | 290 | Kaleisha Smith |
 | 194 | 290 | Eugina Slater |
