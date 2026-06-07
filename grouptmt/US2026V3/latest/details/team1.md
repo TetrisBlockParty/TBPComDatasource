@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 23:44:19 UTC
+# Standings for team1 as of 2026-06-07 23:44:42 UTC
 
 **Total Participants:** 1621
 
@@ -93,8 +93,8 @@
 | 85 | 796 | Jaida De'Anne Cox |
 | 86 | 795 | Joy Citizen Pickney |
 | 87 | 784 | Todd C. Clemens |
-| 88 | 763 | Richard Horton |
-| 89 | 758 | PandaPrincess |
+| 88 | 776 | PandaPrincess |
+| 89 | 763 | Richard Horton |
 | 90 | 749 | Aviv Zehavi |
 | 91 | 743 | Tameka Jones |
 | 92 | 740 | Dawn L Washington-Feuquay |
@@ -508,8 +508,8 @@
 | 500 | 121 | Lounique |
 | 501 | 121 | Jenni Hardman |
 | 502 | 120 | Kp |
-| 503 | 120 | Giggy Edgefit |
-| 504 | 120 | Zappy Snapgrid |
+| 503 | 120 | Zappy Snapgrid |
+| 504 | 120 | Giggy Edgefit |
 | 505 | 120 | Rebecca Jackson |
 | 506 | 120 | Teri Marie Clayton |
 | 507 | 120 | Brenda Malachi-butler |
@@ -517,24 +517,24 @@
 | 509 | 119 | Lexx Robins |
 | 510 | 119 | Ashley Monet Terrell |
 | 511 | 119 | TY Newme Batts |
-| 512 | 118 | Pretty Yella |
-| 513 | 118 | Hasty Pivoty |
-| 514 | 118 | Kala Miller |
+| 512 | 118 | Kala Miller |
+| 513 | 118 | Pretty Yella |
+| 514 | 118 | Hasty Pivoty |
 | 515 | 118 | Rhianna Dinki Austin |
-| 516 | 118 | Amanda Woodruff |
-| 517 | 118 | Kimberly Susan Privette |
+| 516 | 118 | Kimberly Susan Privette |
+| 517 | 118 | Amanda Woodruff |
 | 518 | 117 | Joana Thompson |
 | 519 | 117 | Andrew Jay Vaughn |
 | 520 | 117 | Bubbly Slammer |
-| 521 | 117 | BB |
-| 522 | 117 | Mahagony Small |
-| 523 | 117 | 大竹直之 |
-| 524 | 116 | Sallie Sanborn |
-| 525 | 116 | Terrie |
-| 526 | 116 | Jess |
+| 521 | 117 | PSD |
+| 522 | 117 | BB |
+| 523 | 117 | Mahagony Small |
+| 524 | 117 | 大竹直之 |
+| 525 | 116 | Sallie Sanborn |
+| 526 | 116 | Terrie |
 | 527 | 116 | Melissa Hershberger |
-| 528 | 116 | Jackytrain52 |
-| 529 | 116 | PSD |
+| 528 | 116 | Jess |
+| 529 | 116 | Jackytrain52 |
 | 530 | 115 | Mighty Dropper |
 | 531 | 114 | LAhoneybun82 |
 | 532 | 114 | Cranky Fall |
@@ -1616,17 +1616,17 @@
 | 1608 | 5 | Schuyler Carson Jackson |
 | 1609 | 5 | Godz Chosen |
 | 1610 | 5 | MrKeith Debraux |
-| 1611 | 5 | Aanngie Aanngie |
-| 1612 | 5 | Stephanie Zuniga Tullock |
-| 1613 | 5 | Annette DeLoatch Thompson |
-| 1614 | 5 | VERA DAME |
-| 1615 | 5 | Jennifer Haton Kreighbaum |
-| 1616 | 5 | the guy |
-| 1617 | 5 | Derek Beverly |
-| 1618 | 5 | Carol Washington |
-| 1619 | 5 | pettymexoxo |
-| 1620 | 5 | BlessedBeauty |
-| 1621 | 5 | Happy |
+| 1611 | 5 | BlessedBeauty |
+| 1612 | 5 | Aanngie Aanngie |
+| 1613 | 5 | Happy |
+| 1614 | 5 | pettymexoxo |
+| 1615 | 5 | Carol Washington |
+| 1616 | 5 | Derek Beverly |
+| 1617 | 5 | the guy |
+| 1618 | 5 | Jennifer Haton Kreighbaum |
+| 1619 | 5 | VERA DAME |
+| 1620 | 5 | Annette DeLoatch Thompson |
+| 1621 | 5 | Stephanie Zuniga Tullock |
 
 ---
 *Standings created by tournaments datasource generation tool*
