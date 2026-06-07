@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 23:42:40 UTC
+# Standings for team2 as of 2026-06-07 23:43:19 UTC
 
 **Total Participants:** 1959
 
@@ -174,9 +174,9 @@
 | 166 | 486 | Jason Cook |
 | 167 | 484 | Steven Craig |
 | 168 | 483 | Karen Reid Cenkush |
-| 169 | 477 | Amy Gale |
-| 170 | 474 | Bubbly Strikerpiece |
-| 171 | 471 | Chirpy Grid |
+| 169 | 481 | Chirpy Grid |
+| 170 | 477 | Amy Gale |
+| 171 | 474 | Bubbly Strikerpiece |
 | 172 | 462 | Kaycie Shaffer |
 | 173 | 453 | Kimberly Cowan |
 | 174 | 448 | Eric Drane |
@@ -227,7 +227,7 @@
 | 219 | 363 | Brenda Jones |
 | 220 | 362 | Jennifer Smith |
 | 221 | 362 | Jat |
-| 222 | 360 | Bb |
+| 222 | 361 | Bb |
 | 223 | 360 | Jacob Carpenter |
 | 224 | 358 | Breeana Bennett |
 | 225 | 357 | Theresa Hollinger |
@@ -285,17 +285,17 @@
 | 277 | 279 | Curly Windbreaker |
 | 278 | 278 | Amy Nicole McCanne |
 | 279 | 276 | AndrewandShela Gornik |
-| 280 | 267 | Michelle Luke Banta |
-| 281 | 267 | Karly Moore |
-| 282 | 267 | Stephanie |
-| 283 | 267 | Iesha Cupil |
-| 284 | 266 | Carolyn McNaughton |
+| 280 | 270 | Sharon L Brazelton |
+| 281 | 267 | Michelle Luke Banta |
+| 282 | 267 | Karly Moore |
+| 283 | 267 | Stephanie |
+| 284 | 267 | Iesha Cupil |
 | 285 | 266 | Amy Taylor Pomerenk |
-| 286 | 265 | Skye Ehret |
-| 287 | 265 | Mikia Stokes |
-| 288 | 264 | Dallas Runyan |
-| 289 | 260 | Tami Kay Williams Watson |
-| 290 | 260 | Sharon L Brazelton |
+| 286 | 266 | Carolyn McNaughton |
+| 287 | 265 | Skye Ehret |
+| 288 | 265 | Mikia Stokes |
+| 289 | 264 | Dallas Runyan |
+| 290 | 260 | Tami Kay Williams Watson |
 | 291 | 260 | Tony Medina |
 | 292 | 260 | marsam |
 | 293 | 259 | Brooke Lynn Marie Adelaide |
