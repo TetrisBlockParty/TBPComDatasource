@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:11:18 UTC
+# Standings for team1 as of 2026-06-07 08:12:19 UTC
 
 **Total Participants:** 1424
 
@@ -119,8 +119,8 @@
 | 111 | 474 | DaVonte' Cretter |
 | 112 | 455 | Felicia Williams |
 | 113 | 447 | Gotcha |
-| 114 | 444 | Kevin M. McGhee Jr |
-| 115 | 443 | Chris Caniglia |
+| 114 | 446 | Chris Caniglia |
+| 115 | 444 | Kevin M. McGhee Jr |
 | 116 | 439 | Asani CHumba |
 | 117 | 429 | Bambi Love |
 | 118 | 420 | Jessica Carter |
@@ -166,17 +166,17 @@
 | 158 | 297 | Tammye Turner |
 | 159 | 296 | Rolanda Williams |
 | 160 | 296 | Tamara N Lee |
-| 161 | 293 | Dee McCool |
-| 162 | 291 | Brian Taylor |
-| 163 | 290 | Kaleisha Smith |
-| 164 | 290 | Mimi 1.0 |
-| 165 | 290 | Eugina Slater |
-| 166 | 290 | Frisky Fallmatch |
-| 167 | 285 | Ashley MyBeauty Daniels |
-| 168 | 285 | Helen Smith |
-| 169 | 285 | Marcheta Cervantez |
-| 170 | 284 | Karebear |
-| 171 | 282 | Chantelle Lee |
+| 161 | 296 | Chantelle Lee |
+| 162 | 293 | Dee McCool |
+| 163 | 291 | Brian Taylor |
+| 164 | 290 | Kaleisha Smith |
+| 165 | 290 | Mimi 1.0 |
+| 166 | 290 | Eugina Slater |
+| 167 | 290 | Frisky Fallmatch |
+| 168 | 285 | Ashley MyBeauty Daniels |
+| 169 | 285 | Helen Smith |
+| 170 | 285 | Marcheta Cervantez |
+| 171 | 284 | Karebear |
 | 172 | 277 | Tonya Lee Sanders |
 | 173 | 276 | Cortaz Lawrie |
 | 174 | 275 | Jawaun Daniels |
@@ -186,26 +186,26 @@
 | 178 | 260 | xXEKUNXx |
 | 179 | 259 | Brave Clearbuilder |
 | 180 | 258 | Jayjay Rich |
-| 181 | 257 | Po Marley |
-| 182 | 257 | Cathy Young |
-| 183 | 257 | Calvin Green |
+| 181 | 257 | Cathy Young |
+| 182 | 257 | Calvin Green |
+| 183 | 257 | Po Marley |
 | 184 | 257 | Ebony |
 | 185 | 256 | Alana Renee |
 | 186 | 254 | Tonya McElroy |
 | 187 | 250 | Davionte DaeDae Hopson-Rodriguez |
-| 188 | 249 | Cee Emm |
-| 189 | 249 | Falisa Bell |
-| 190 | 248 | Jazzy Fireflighters |
+| 188 | 249 | Falisa Bell |
+| 189 | 249 | Cee Emm |
+| 190 | 248 | Sharon Cail |
 | 191 | 248 | Yasmin Nakea Wright |
-| 192 | 248 | Sharon Cail |
+| 192 | 248 | Jazzy Fireflighters |
 | 193 | 246 | Denise B |
 | 194 | 246 | Byron Mario Cawthon |
 | 195 | 245 | Derrius SeriousLee Burks |
-| 196 | 245 | Rhonda Williams Warner |
-| 197 | 245 | Zachary Colegrove |
+| 196 | 245 | Zachary Colegrove |
+| 197 | 245 | Rhonda Williams Warner |
 | 198 | 241 | SyTheEvilGenius1 |
-| 199 | 240 | Salim Thugger |
-| 200 | 240 | Rayya Kiser |
+| 199 | 240 | Rayya Kiser |
+| 200 | 240 | Salim Thugger |
 | 201 | 238 | Queenie Perry |
 | 202 | 237 | David Fuentes |
 | 203 | 236 | IThinkNot |

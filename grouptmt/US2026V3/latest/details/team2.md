@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 08:11:18 UTC
+# Standings for team2 as of 2026-06-07 08:12:19 UTC
 
 **Total Participants:** 1678
 
@@ -20,7 +20,7 @@
 | 12 | 5704 | Cori Keberlein |
 | 13 | 4945 | Dapper Rollout |
 | 14 | 4800 | Crafty Ziggy |
-| 15 | 4457 | Lola C Davis |
+| 15 | 4563 | Lola C Davis |
 | 16 | 4355 | Alexia Reagan |
 | 17 | 3997 | Ber |
 | 18 | 3984 | Amber |
