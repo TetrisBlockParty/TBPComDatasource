@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 07:40:18 UTC
+# Standings for team1 as of 2026-06-07 07:40:41 UTC
 
 **Total Participants:** 1416
 
@@ -77,7 +77,7 @@
 | 69 | 788 | Jazzy Dashpiece |
 | 70 | 784 | Todd C. Clemens |
 | 71 | 781 | D'Andra Stewart |
-| 72 | 773 | Lisa Müller |
+| 72 | 780 | Lisa Müller |
 | 73 | 764 | Joy Citizen Pickney |
 | 74 | 763 | Richard Horton |
 | 75 | 749 | Aviv Zehavi |
@@ -229,25 +229,25 @@
 | 221 | 200 | Christian Pham |
 | 222 | 199 | Fina McKinnis |
 | 223 | 198 | Robbie Cheeseman |
-| 224 | 197 | Steve Reno |
-| 225 | 197 | Ann White |
-| 226 | 197 | Smiley Clearpiece |
+| 224 | 197 | Ann White |
+| 225 | 197 | Smiley Clearpiece |
+| 226 | 197 | Steve Reno |
 | 227 | 196 | Chilly Wipebuilder |
-| 228 | 195 | Brittnay Wright |
-| 229 | 195 | Rayshawn Cohen |
+| 228 | 195 | Rayshawn Cohen |
+| 229 | 195 | Brittnay Wright |
 | 230 | 194 | Daris Swearington |
 | 231 | 193 | Mikayla |
-| 232 | 192 | Trina Greenwood |
-| 233 | 192 | Katherine Short |
-| 234 | 191 | DaGuy |
+| 232 | 192 | Katherine Short |
+| 233 | 192 | Trina Greenwood |
+| 234 | 191 | Emily Wright |
 | 235 | 191 | Kelli Couture |
-| 236 | 191 | Emily Wright |
+| 236 | 191 | DaGuy |
 | 237 | 189 | LaShaun Stinson |
 | 238 | 187 | Kenny MrOnethousand Peck |
-| 239 | 187 | Heather Aurelia |
-| 240 | 187 | Keke Ferguson |
-| 241 | 186 | Lesley Brunkus Cianfaglione |
-| 242 | 186 | Chuck Quarles |
+| 239 | 187 | Keke Ferguson |
+| 240 | 187 | Heather Aurelia |
+| 241 | 186 | Chuck Quarles |
+| 242 | 186 | Lesley Brunkus Cianfaglione |
 | 243 | 186 | Stephen Providenti |
 | 244 | 185 | Richard Flex |
 | 245 | 184 | Frisky Fall |
@@ -255,17 +255,17 @@
 | 247 | 183 | Wild Out Nai |
 | 248 | 182 | Hyper Blocky |
 | 249 | 181 | Rachel Zimmerman |
-| 250 | 180 | Melissa D. M. Hornsby |
+| 250 | 180 | Ann Chung |
 | 251 | 180 | Zippy Lifter |
-| 252 | 180 | Ann Chung |
+| 252 | 180 | Melissa D. M. Hornsby |
 | 253 | 179 | Amber Wilson |
 | 254 | 179 | ♈️ Ariesbaby |
 | 255 | 178 | Randizzle |
 | 256 | 177 | Cheeky Pop |
-| 257 | 176 | Nikki Hogan |
-| 258 | 173 | Chipper Snapper |
-| 259 | 171 | Boldy Liner |
-| 260 | 171 | Bbyunicorn |
+| 257 | 177 | Bbyunicorn |
+| 258 | 176 | Nikki Hogan |
+| 259 | 173 | Chipper Snapper |
+| 260 | 171 | Boldy Liner |
 | 261 | 169 | Jai |
 | 262 | 169 | Asha Langford |
 | 263 | 166 | Poppy Buildout |
