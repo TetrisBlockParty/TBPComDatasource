@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 06:46:44 UTC
+# Standings for team1 as of 2026-06-07 06:47:18 UTC
 
 **Total Participants:** 1403
 
@@ -262,12 +262,12 @@
 | 254 | 176 | Nikki Hogan |
 | 255 | 173 | Chipper Snapper |
 | 256 | 171 | Boldy Liner |
-| 257 | 169 | Asha Langford |
-| 258 | 169 | Jai |
-| 259 | 166 | 신재호 |
-| 260 | 166 | Poppy Buildout |
-| 261 | 166 | Tarnisha Neicy Jones |
-| 262 | 166 | Steve Reno |
+| 257 | 170 | Steve Reno |
+| 258 | 169 | Asha Langford |
+| 259 | 169 | Jai |
+| 260 | 166 | 신재호 |
+| 261 | 166 | Poppy Buildout |
+| 262 | 166 | Tarnisha Neicy Jones |
 | 263 | 165 | Tanisha Taylor |
 | 264 | 164 | TT |
 | 265 | 163 | Mafio SO |
