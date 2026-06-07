@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 06:44:18 UTC
+# Standings for team4 as of 2026-06-07 06:44:39 UTC
 
 **Total Participants:** 1393
 
@@ -74,8 +74,8 @@
 | 66 | 818 | MysticMaven |
 | 67 | 805 | JoLinda Dunn |
 | 68 | 800 | Leah Gorsuch |
-| 69 | 750 | Trice Stevenson |
-| 70 | 738 | Shaina Sharp |
+| 69 | 758 | Shaina Sharp |
+| 70 | 750 | Trice Stevenson |
 | 71 | 730 | Chaz Duncan |
 | 72 | 729 | Keesha Muro |
 | 73 | 720 | Carly Stempien |
@@ -171,8 +171,8 @@
 | 163 | 277 | Giggly Tilt |
 | 164 | 273 | Danielle Mitchell |
 | 165 | 270 | Jojo Ann |
-| 166 | 266 | shawna |
-| 167 | 265 | TRUCHILD777$$$ |
+| 166 | 270 | TRUCHILD777$$$ |
+| 167 | 266 | shawna |
 | 168 | 262 | Megan Vick |
 | 169 | 262 | squareMel |
 | 170 | 261 | Waxboss |

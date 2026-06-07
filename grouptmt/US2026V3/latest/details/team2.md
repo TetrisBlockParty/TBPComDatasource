@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 06:44:18 UTC
+# Standings for team2 as of 2026-06-07 06:44:39 UTC
 
 **Total Participants:** 1660
 
@@ -73,8 +73,8 @@
 | 65 | 984 | Dane Marko |
 | 66 | 971 | Debra Henry |
 | 67 | 956 | Criccett Hooper-Smith |
-| 68 | 921 | Block Dog |
-| 69 | 907 | Kvothe |
+| 68 | 947 | Kvothe |
+| 69 | 921 | Block Dog |
 | 70 | 889 | Amber Salazar |
 | 71 | 882 | Lisa Breiding |
 | 72 | 864 | Helen Thomas |
