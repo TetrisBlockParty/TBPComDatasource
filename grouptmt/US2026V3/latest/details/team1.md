@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 09:35:18 UTC
+# Standings for team1 as of 2026-06-07 09:36:18 UTC
 
 **Total Participants:** 1432
 
@@ -92,7 +92,7 @@
 | 84 | 678 | No_Other_Choice |
 | 85 | 677 | Eartha Brown |
 | 86 | 661 | Bre Maugh |
-| 87 | 646 | Danielle Barthelme |
+| 87 | 657 | Danielle Barthelme |
 | 88 | 620 | IamJust Neyamijah Washington Sr. |
 | 89 | 613 | Big Tina |
 | 90 | 601 | JaszyBadd |
@@ -141,13 +141,13 @@
 | 133 | 384 | Christana Imjustbutton Stone |
 | 134 | 378 | Jamal Itzjusmall Chambers |
 | 135 | 377 | AF Cruz |
-| 136 | 370 | Allison Baxter |
-| 137 | 370 | Tameka Jones |
-| 138 | 367 | Ebony Waynes-robinson |
-| 139 | 363 | Christina Rebecca |
-| 140 | 361 | John Staub |
-| 141 | 353 | Lashaunda |
-| 142 | 353 | Jenna Renee |
+| 136 | 372 | Jenna Renee |
+| 137 | 370 | Allison Baxter |
+| 138 | 370 | Tameka Jones |
+| 139 | 367 | Ebony Waynes-robinson |
+| 140 | 363 | Christina Rebecca |
+| 141 | 361 | John Staub |
+| 142 | 353 | Lashaunda |
 | 143 | 351 | Uneekly Mayde |
 | 144 | 348 | pooh |
 | 145 | 348 | LeeLee08 |
@@ -401,15 +401,15 @@
 | 393 | 111 | Ad Doctor |
 | 394 | 111 | Daring Blockclear |
 | 395 | 110 | Slinky Clearzone |
-| 396 | 110 | Chandler Magee |
-| 397 | 110 | Nisha Sunshine Jenkins |
+| 396 | 110 | Nisha Sunshine Jenkins |
+| 397 | 110 | Chandler Magee |
 | 398 | 110 | Nate Myers |
 | 399 | 109 | Tamara Johnson-Carter |
 | 400 | 109 | Tamika Fisher |
 | 401 | 109 | Cece Fowler |
-| 402 | 109 | Bambi Johnson |
+| 402 | 109 | Frances Davis |
 | 403 | 109 | Manda Allen |
-| 404 | 108 | Frances Davis |
+| 404 | 109 | Bambi Johnson |
 | 405 | 108 | Char |
 | 406 | 107 | Laurie Napper |
 | 407 | 106 | Mister Reid |
@@ -427,43 +427,43 @@
 | 419 | 102 | Phillip Vasquez |
 | 420 | 102 | Christi Walker Patton |
 | 421 | 101 | Elaine Pauley |
-| 422 | 101 | Wacky Wipepiece |
-| 423 | 101 | star |
-| 424 | 101 | Joana Thompson |
+| 422 | 101 | star |
+| 423 | 101 | Joana Thompson |
+| 424 | 101 | Wacky Wipepiece |
 | 425 | 101 | Mommy Frank |
-| 426 | 100 | Leavon Smith |
-| 427 | 100 | Jean Regis |
-| 428 | 100 | Natasha Rucker |
-| 429 | 100 | Seddrick |
-| 430 | 100 | Kennedi Brazziel |
-| 431 | 100 | Tessa Gaskin |
-| 432 | 100 | $hort Dog |
-| 433 | 100 | Mary Phillippi Blanton |
-| 434 | 100 | Kesha Brady |
+| 426 | 100 | Oldheads |
+| 427 | 100 | Natasha Rucker |
+| 428 | 100 | Seddrick |
+| 429 | 100 | Kennedi Brazziel |
+| 430 | 100 | Tessa Gaskin |
+| 431 | 100 | $hort Dog |
+| 432 | 100 | Jean Regis |
+| 433 | 100 | Leavon Smith |
+| 434 | 100 | Mary Phillippi Blanton |
 | 435 | 100 | Cornelius Neal |
-| 436 | 100 | Oldheads |
+| 436 | 100 | Kesha Brady |
 | 437 | 99 | Mahagony Small |
-| 438 | 99 | SeanSanchez |
-| 439 | 99 | ChunLi |
-| 440 | 99 | Ciera Peace |
-| 441 | 99 | Travis Davison |
-| 442 | 98 | Dorian Griffin |
-| 443 | 98 | Shannon Carriger |
+| 438 | 99 | Travis Davison |
+| 439 | 99 | Ciera Peace |
+| 440 | 99 | SeanSanchez |
+| 441 | 99 | ChunLi |
+| 442 | 98 | 大竹直之 |
+| 443 | 98 | Sharee Robinson |
 | 444 | 98 | Michael Smith |
-| 445 | 98 | Sharee Robinson |
-| 446 | 97 | Twisty Cascadeclear |
-| 447 | 97 | Nichole Horsley-Conn |
-| 448 | 97 | Hyedie Badie |
-| 449 | 97 | Shanell Thomas |
-| 450 | 97 | Andrew Jay Vaughn |
-| 451 | 97 | Kristie |
-| 452 | 97 | Lootch |
-| 453 | 97 | NewEve |
-| 454 | 97 | Erin Sabol |
-| 455 | 96 | Yazz |
-| 456 | 96 | Sherri Keys |
-| 457 | 96 | Kate Hancock Malicek |
-| 458 | 96 | 大竹直之 |
+| 445 | 98 | Shannon Carriger |
+| 446 | 98 | Dorian Griffin |
+| 447 | 97 | Hyedie Badie |
+| 448 | 97 | Twisty Cascadeclear |
+| 449 | 97 | Nichole Horsley-Conn |
+| 450 | 97 | Erin Sabol |
+| 451 | 97 | Shanell Thomas |
+| 452 | 97 | Andrew Jay Vaughn |
+| 453 | 97 | Kristie |
+| 454 | 97 | Lootch |
+| 455 | 97 | NewEve |
+| 456 | 97 | Kate Hancock Malicek |
+| 457 | 96 | Yazz |
+| 458 | 96 | Sherri Keys |
 | 459 | 95 | Stephen Glaze |
 | 460 | 95 | Jelyfish |
 | 461 | 95 | Shiny Lift |
@@ -729,48 +729,48 @@
 | 721 | 55 | PSD |
 | 722 | 55 | Witty Clear |
 | 723 | 55 | nameno |
-| 724 | 54 | Ace Hardware |
-| 725 | 54 | LAdYPOLy |
-| 726 | 54 | John Spath |
-| 727 | 54 | TRUBBLE45 |
-| 728 | 54 | Antoinette Kelly |
-| 729 | 54 | Katness |
-| 730 | 54 | Boldy Pivoty |
-| 731 | 54 | Bubbly Slammer |
-| 732 | 54 | Kashh |
-| 733 | 54 | Embracing Hair |
-| 734 | 54 | Dennis Ripley |
-| 735 | 54 | Markeita Jones |
+| 724 | 54 | Markeita Jones |
+| 725 | 54 | Boldy Pivoty |
+| 726 | 54 | Bubbly Slammer |
+| 727 | 54 | LAdYPOLy |
+| 728 | 54 | John Spath |
+| 729 | 54 | TRUBBLE45 |
+| 730 | 54 | Antoinette Kelly |
+| 731 | 54 | Katness |
+| 732 | 54 | Ace Hardware |
+| 733 | 54 | Kashh |
+| 734 | 54 | Embracing Hair |
+| 735 | 54 | Dennis Ripley |
 | 736 | 53 | Barbramerri Tarboro |
-| 737 | 53 | Heather Wilson |
-| 738 | 53 | Clever Wrecker |
-| 739 | 53 | Haakuu |
-| 740 | 53 | Shona ShayShay Jones |
-| 741 | 53 | Morenita Rodriguez |
-| 742 | 53 | Xrandomx |
-| 743 | 52 | Tootsie Pop |
-| 744 | 52 | Giggy Holder |
-| 745 | 52 | Loopy Risepiece |
-| 746 | 52 | Karen Denen |
-| 747 | 52 | Tray Tolliver |
-| 748 | 52 | Vannie G |
-| 749 | 52 | Raymond Boosie Freeman |
-| 750 | 51 | messyboots |
-| 751 | 51 | Betsy B. Yohan |
-| 752 | 51 | Bunnie Celtavini |
-| 753 | 51 | Boldy Matchfit |
-| 754 | 51 | BrettanMary Adkins |
-| 755 | 51 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 756 | 51 | Shanjerrica Taylor Rosell |
-| 757 | 50 | Sally Elizabeth Hopson |
-| 758 | 50 | Bold Spinblock |
-| 759 | 50 | Amaadi Ward |
-| 760 | 50 | Daring Linkfall |
-| 761 | 50 | Denell Sims |
-| 762 | 50 | Tramaine Crockrum |
-| 763 | 50 | Paul Doty |
-| 764 | 50 | Slinky Fallzone |
-| 765 | 50 | Montego Allen |
+| 737 | 53 | Morenita Rodriguez |
+| 738 | 53 | Shona ShayShay Jones |
+| 739 | 53 | Xrandomx |
+| 740 | 53 | Haakuu |
+| 741 | 53 | Clever Wrecker |
+| 742 | 53 | Heather Wilson |
+| 743 | 52 | Giggy Holder |
+| 744 | 52 | Montego Allen |
+| 745 | 52 | Tootsie Pop |
+| 746 | 52 | Loopy Risepiece |
+| 747 | 52 | Vannie G |
+| 748 | 52 | Karen Denen |
+| 749 | 52 | Tray Tolliver |
+| 750 | 52 | Raymond Boosie Freeman |
+| 751 | 51 | messyboots |
+| 752 | 51 | Betsy B. Yohan |
+| 753 | 51 | Bunnie Celtavini |
+| 754 | 51 | Boldy Matchfit |
+| 755 | 51 | BrettanMary Adkins |
+| 756 | 51 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 757 | 51 | Shanjerrica Taylor Rosell |
+| 758 | 50 | Sally Elizabeth Hopson |
+| 759 | 50 | Bold Spinblock |
+| 760 | 50 | Amaadi Ward |
+| 761 | 50 | Daring Linkfall |
+| 762 | 50 | Denell Sims |
+| 763 | 50 | Tramaine Crockrum |
+| 764 | 50 | Paul Doty |
+| 765 | 50 | Slinky Fallzone |
 | 766 | 50 | Benjamin Livingston |
 | 767 | 50 | Teresa Yanira Cepeda |
 | 768 | 50 | MsBobby Patrick |
