@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 18:33:19 UTC
+# Standings for team2 as of 2026-06-07 18:34:18 UTC
 
 **Total Participants:** 1852
 
@@ -82,8 +82,8 @@
 | 74 | 1148 | Nerdy Climber |
 | 75 | 1142 | Giddy Slamdrop |
 | 76 | 1140 | Mikki Torres |
-| 77 | 1115 | Eileen Egan |
-| 78 | 1099 | Beverly Lynn Mills |
+| 77 | 1119 | Beverly Lynn Mills |
+| 78 | 1115 | Eileen Egan |
 | 79 | 1083 | Jayke Edward |
 | 80 | 1072 | Kvothe |
 | 81 | 1070 | Michelle Maulsby |
@@ -99,7 +99,7 @@
 | 91 | 908 | Jazzy Faller |
 | 92 | 899 | Marie Luciano |
 | 93 | 880 | Renee Freeman Jacobson |
-| 94 | 873 | Marquita Toliver |
+| 94 | 877 | Marquita Toliver |
 | 95 | 864 | Helen Thomas |
 | 96 | 856 | Marquetta Johnson |
 | 97 | 839 | Brandi Thompson |
@@ -131,8 +131,8 @@
 | 123 | 603 | Ashlea McBlaine |
 | 124 | 592 | Nettrainer |
 | 125 | 592 | Pooh |
-| 126 | 585 | Rhonda Diebold |
-| 127 | 581 | Gloria May Shook |
+| 126 | 585 | Gloria May Shook |
+| 127 | 585 | Rhonda Diebold |
 | 128 | 581 | Dsabrina Maxey |
 | 129 | 577 | Lindsay Klemp |
 | 130 | 574 | Brandy McCune Reep |
