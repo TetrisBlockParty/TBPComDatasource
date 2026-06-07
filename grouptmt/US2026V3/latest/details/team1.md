@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 22:22:19 UTC
+# Standings for team1 as of 2026-06-07 22:22:40 UTC
 
 **Total Participants:** 1595
 
@@ -307,10 +307,10 @@
 | 299 | 200 | Sara Meri |
 | 300 | 200 | Hailey Hil |
 | 301 | 200 | Coco |
-| 302 | 200 | Sarah Clark |
-| 303 | 199 | Fina McKinnis |
-| 304 | 199 | Poppy Buildout |
-| 305 | 197 | Tipsy Linkroll |
+| 302 | 200 | Tipsy Linkroll |
+| 303 | 200 | Sarah Clark |
+| 304 | 199 | Fina McKinnis |
+| 305 | 199 | Poppy Buildout |
 | 306 | 194 | Cheery Linkfall |
 | 307 | 194 | Ashleyy Netchert |
 | 308 | 193 | Crystal Cheresnowsky |
@@ -847,48 +847,48 @@
 | 839 | 62 | Bunnie Celtavini |
 | 840 | 62 | S.S |
 | 841 | 62 | Shona ShayShay Jones |
-| 842 | 62 | Amihan |
+| 842 | 62 | AshMo |
 | 843 | 62 | Delitra Perkins Hatter |
 | 844 | 62 | Quwana Hall |
-| 845 | 62 | Chris Rogers |
-| 846 | 62 | Spicy Hedgehog |
-| 847 | 62 | Tia Hazelton |
-| 848 | 62 | Cj Chimelis |
-| 849 | 62 | AshMo |
-| 850 | 61 | Tonya Thomas |
+| 845 | 62 | Cj Chimelis |
+| 846 | 62 | Tia Hazelton |
+| 847 | 62 | Spicy Hedgehog |
+| 848 | 62 | Amihan |
+| 849 | 62 | Witty Clear |
+| 850 | 62 | Chris Rogers |
 | 851 | 61 | Biggestboss Ransom |
-| 852 | 60 | Malcolm Stanley |
-| 853 | 60 | Yellowguy3 |
+| 852 | 61 | Tonya Thomas |
+| 853 | 60 | lookin |
 | 854 | 60 | Tyrone Porter |
-| 855 | 60 | Demi Ovalle |
-| 856 | 60 | Swanky Glide |
-| 857 | 60 | Crafty Witch |
-| 858 | 60 | Jennifer Endean |
-| 859 | 60 | Tanesha Ga'sFinest Corbett |
-| 860 | 60 | lookin |
-| 861 | 60 | Tellisa Payne |
-| 862 | 60 | lizlizliz |
-| 863 | 60 | Pinky Pink |
-| 864 | 60 | Phillip White |
-| 865 | 60 | Nigel Snyder |
-| 866 | 60 | Analesia Taylor |
-| 867 | 60 | Laysa Nunez |
-| 868 | 60 | Andy Rivera |
-| 869 | 60 | Ebie |
-| 870 | 60 | Juan Lewis |
-| 871 | 60 | Stanley Dixon |
-| 872 | 60 | Missy Myvette |
-| 873 | 59 | Erica Campbell-Stillings |
-| 874 | 59 | Parris Wright |
-| 875 | 59 | Darrel Pemberton |
-| 876 | 59 | Andrea Jackson |
-| 877 | 59 | Wacky Spinfit |
-| 878 | 59 | Teresa Menefee |
-| 879 | 59 | Sweet BayBee |
-| 880 | 59 | Tamyka E Williams |
-| 881 | 59 | Smiley Tilebuilder |
-| 882 | 59 | Sugar Foot |
-| 883 | 58 | Witty Clear |
+| 855 | 60 | Jennifer Endean |
+| 856 | 60 | Crafty Witch |
+| 857 | 60 | Swanky Glide |
+| 858 | 60 | Demi Ovalle |
+| 859 | 60 | Malcolm Stanley |
+| 860 | 60 | Yellowguy3 |
+| 861 | 60 | Tanesha Ga'sFinest Corbett |
+| 862 | 60 | Tellisa Payne |
+| 863 | 60 | lizlizliz |
+| 864 | 60 | Nigel Snyder |
+| 865 | 60 | Laysa Nunez |
+| 866 | 60 | Andy Rivera |
+| 867 | 60 | Ebie |
+| 868 | 60 | Missy Myvette |
+| 869 | 60 | Stanley Dixon |
+| 870 | 60 | Analesia Taylor |
+| 871 | 60 | Phillip White |
+| 872 | 60 | Pinky Pink |
+| 873 | 60 | Juan Lewis |
+| 874 | 59 | Teresa Menefee |
+| 875 | 59 | Tamyka E Williams |
+| 876 | 59 | Wacky Spinfit |
+| 877 | 59 | Erica Campbell-Stillings |
+| 878 | 59 | Sweet BayBee |
+| 879 | 59 | Sugar Foot |
+| 880 | 59 | Smiley Tilebuilder |
+| 881 | 59 | Andrea Jackson |
+| 882 | 59 | Darrel Pemberton |
+| 883 | 59 | Parris Wright |
 | 884 | 58 | Brandy Way |
 | 885 | 58 | Rieshelda Marie White |
 | 886 | 58 | Gabriela Hernandez |
