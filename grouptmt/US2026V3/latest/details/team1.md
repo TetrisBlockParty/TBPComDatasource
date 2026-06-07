@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 05:50:18 UTC
+# Standings for team1 as of 2026-06-07 05:50:42 UTC
 
 **Total Participants:** 1384
 
@@ -336,19 +336,19 @@
 | 328 | 127 | Comedian Prince Paul |
 | 329 | 127 | Treneil Daffin |
 | 330 | 127 | Ozell Jones Jr. |
-| 331 | 125 | Dedra M Prester |
-| 332 | 125 | LaTonya Myers |
-| 333 | 125 | Tosha Michelle |
-| 334 | 125 | Dizzy Dashy |
-| 335 | 124 | Alyssa Rae |
-| 336 | 123 | McKayla Owens |
+| 331 | 126 | McKayla Owens |
+| 332 | 125 | Tosha Michelle |
+| 333 | 125 | Dizzy Dashy |
+| 334 | 125 | Dedra M Prester |
+| 335 | 125 | LaTonya Myers |
+| 336 | 124 | Alyssa Rae |
 | 337 | 123 | Rachael Bakowicz Edwards |
 | 338 | 123 | Cauiasia DeJ'ae |
 | 339 | 122 | Peppy Glider |
 | 340 | 122 | Xana Zania Bopp |
-| 341 | 121 | Tiana Monique |
+| 341 | 121 | Tee Spinks |
 | 342 | 121 | Bubbly Piececlear |
-| 343 | 121 | Tee Spinks |
+| 343 | 121 | Tiana Monique |
 | 344 | 121 | Shanaa Germany Crittenden |
 | 345 | 120 | Valerie Alexander |
 | 346 | 120 | Katrina Ramey |
@@ -1273,91 +1273,91 @@
 | 1265 | 10 | Quirky Slammer |
 | 1266 | 10 | Happymama |
 | 1267 | 10 | Terry Lee Moya |
-| 1268 | 10 | Manda Pecora |
-| 1269 | 10 | Papi |
-| 1270 | 10 | Nope Young |
-| 1271 | 10 | Kim Smith |
-| 1272 | 10 | Shawn Himes |
-| 1273 | 10 | Omar Dotray |
-| 1274 | 10 | Alisha Dawson Crouch |
-| 1275 | 10 | Ladii Libra |
-| 1276 | 10 | Willard Junior |
-| 1277 | 10 | Steve Renelus |
-| 1278 | 10 | Tranica Sterling |
-| 1279 | 10 | Hasty Brickzone |
-| 1280 | 10 | Yvonne Aggers |
-| 1281 | 10 | Upt |
-| 1282 | 10 | Tynetta Scott |
-| 1283 | 10 | Lazy Chiseler |
-| 1284 | 10 | Semaj Johnson |
-| 1285 | 10 | Tea |
-| 1286 | 10 | OneBuke FollowMe |
+| 1268 | 10 | Alisha Dawson Crouch |
+| 1269 | 10 | OneBuke FollowMe |
+| 1270 | 10 | Yvonne Aggers |
+| 1271 | 10 | Manda Pecora |
+| 1272 | 10 | Willard Junior |
+| 1273 | 10 | Papi |
+| 1274 | 10 | Ladii Libra |
+| 1275 | 10 | Nope Young |
+| 1276 | 10 | Kim Smith |
+| 1277 | 10 | Shawn Himes |
+| 1278 | 10 | Omar Dotray |
+| 1279 | 10 | Steve Renelus |
+| 1280 | 10 | Tranica Sterling |
+| 1281 | 10 | Tea |
+| 1282 | 10 | Semaj Johnson |
+| 1283 | 10 | Hasty Brickzone |
+| 1284 | 10 | Tynetta Scott |
+| 1285 | 10 | Lazy Chiseler |
+| 1286 | 10 | Upt |
 | 1287 | 9 | Sunset Owens |
-| 1288 | 9 | Frisky Linkblock |
-| 1289 | 9 | meatballs |
-| 1290 | 9 | Quirky Spinblock |
-| 1291 | 9 | Dana |
-| 1292 | 9 | Duckey |
+| 1288 | 9 | Frilly Riserbuilder |
+| 1289 | 9 | Dana |
+| 1290 | 9 | Mars |
+| 1291 | 9 | Quirky Spinblock |
+| 1292 | 9 | meatballs |
 | 1293 | 9 | Noni |
-| 1294 | 9 | Beverly S. Robinson |
-| 1295 | 9 | Shell Poke |
-| 1296 | 9 | Yester |
-| 1297 | 9 | John Lovato |
-| 1298 | 9 | ummm |
-| 1299 | 9 | Shaun Baker |
-| 1300 | 9 | Brika Brika |
-| 1301 | 9 | Mars |
-| 1302 | 9 | Shemeka Bates |
-| 1303 | 9 | Clifford Petroske |
-| 1304 | 9 | Catelyn Neal |
-| 1305 | 8 | Ferocity |
+| 1294 | 9 | Duckey |
+| 1295 | 9 | ummm |
+| 1296 | 9 | Beverly S. Robinson |
+| 1297 | 9 | Shell Poke |
+| 1298 | 9 | Frisky Linkblock |
+| 1299 | 9 | Yester |
+| 1300 | 9 | Catelyn Neal |
+| 1301 | 9 | John Lovato |
+| 1302 | 9 | Brika Brika |
+| 1303 | 9 | Shemeka Bates |
+| 1304 | 9 | Shaun Baker |
+| 1305 | 9 | Clifford Petroske |
 | 1306 | 8 | Rixo Blax |
-| 1307 | 8 | Chevonne Huggins |
-| 1308 | 8 | Chill Tumbler |
-| 1309 | 8 | Plucky Twist |
+| 1307 | 8 | meep |
+| 1308 | 8 | Chevonne Huggins |
+| 1309 | 8 | Desi |
 | 1310 | 8 | Giggleme |
-| 1311 | 8 | meep |
-| 1312 | 8 | Desi |
+| 1311 | 8 | Chill Tumbler |
+| 1312 | 8 | Plucky Twist |
 | 1313 | 8 | Elizabeth Castro |
-| 1314 | 8 | Teena K Macon |
-| 1315 | 8 | Nissa |
-| 1316 | 8 | jus_ry |
-| 1317 | 8 | Groovy Riseclear |
-| 1318 | 8 | Macho Lewis |
-| 1319 | 8 | Almarasha Grice |
-| 1320 | 8 | Dana Hill |
-| 1321 | 8 | Queen Baby 5 |
-| 1322 | 8 | Frothy Matchpiece |
-| 1323 | 8 | MsSassygee Boom |
+| 1314 | 8 | jus_ry |
+| 1315 | 8 | Macho Lewis |
+| 1316 | 8 | Teena K Macon |
+| 1317 | 8 | Almarasha Grice |
+| 1318 | 8 | Groovy Riseclear |
+| 1319 | 8 | Dana Hill |
+| 1320 | 8 | Queen Baby 5 |
+| 1321 | 8 | Frothy Matchpiece |
+| 1322 | 8 | MsSassygee Boom |
+| 1323 | 8 | Sean Walker |
 | 1324 | 8 | Nicolej |
 | 1325 | 8 | Chantae Maxwell |
-| 1326 | 8 | Sean Walker |
-| 1327 | 7 | J Dot Flo |
-| 1328 | 7 | Shane Brucewayne |
-| 1329 | 7 | Bryan Dell |
-| 1330 | 7 | RMGreen |
-| 1331 | 7 | Sheena Hamilton |
-| 1332 | 7 | Stephanie L Jeffries Moultrie |
-| 1333 | 7 | Frilly Riserbuilder |
-| 1334 | 7 | Teresa F. Campos Eaton |
-| 1335 | 7 | Deadra Graham |
-| 1336 | 7 | Mary2 |
-| 1337 | 7 | Zachary Sinclair |
+| 1326 | 8 | Ferocity |
+| 1327 | 8 | Nissa |
+| 1328 | 7 | Sheena Hamilton |
+| 1329 | 7 | J Dot Flo |
+| 1330 | 7 | Teresa F. Campos Eaton |
+| 1331 | 7 | Shane Brucewayne |
+| 1332 | 7 | RMGreen |
+| 1333 | 7 | Stephanie L Jeffries Moultrie |
+| 1334 | 7 | Milfchaser530 |
+| 1335 | 7 | Mary2 |
+| 1336 | 7 | Zachary Sinclair |
+| 1337 | 7 | linda m |
 | 1338 | 7 | Court Ney |
-| 1339 | 7 | linda m |
+| 1339 | 7 | Deadra Graham |
 | 1340 | 7 | Deantenique Smalls |
-| 1341 | 7 | Milfchaser530 |
-| 1342 | 7 | Quana |
-| 1343 | 7 | Joey Hoover |
+| 1341 | 7 | Andrew Harris |
+| 1342 | 7 | Joey Hoover |
+| 1343 | 7 | Quana |
 | 1344 | 7 | Alexis Farquer |
 | 1345 | 7 | KingSlim82 |
-| 1346 | 7 | Andrew Harris |
+| 1346 | 7 | Bryan Dell |
 | 1347 | 6 | Shiny Crusher |
-| 1348 | 6 | NEM0228 |
+| 1348 | 6 | party t-rex 27 |
 | 1349 | 6 | Bruce Paléncia |
 | 1350 | 6 | Tammy Hooser |
 | 1351 | 6 | Tabitha Burks |
-| 1352 | 6 | party t-rex 27 |
+| 1352 | 6 | NEM0228 |
 | 1353 | 6 | Stevie Malcon |
 | 1354 | 6 | smash56! |
 | 1355 | 6 | CK |
