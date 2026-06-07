@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 22:56:19 UTC
+# Standings for team1 as of 2026-06-07 22:56:44 UTC
 
 **Total Participants:** 1605
 
@@ -149,9 +149,9 @@
 | 141 | 462 | Lesley Brunkus Cianfaglione |
 | 142 | 461 | Frisky Fallmatch |
 | 143 | 456 | Andre Sanon |
-| 144 | 452 | Kenny MrOnethousand Peck |
-| 145 | 444 | Kevin M. McGhee Jr |
-| 146 | 444 | Jason Mungin |
+| 144 | 455 | Jason Mungin |
+| 145 | 452 | Kenny MrOnethousand Peck |
+| 146 | 444 | Kevin M. McGhee Jr |
 | 147 | 439 | Asani CHumba |
 | 148 | 437 | Tobey Marberry |
 | 149 | 431 | Lashawn Wallace |
