@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 06:42:17 UTC
+# Standings for team1 as of 2026-06-07 06:42:39 UTC
 
 **Total Participants:** 1400
 
@@ -832,66 +832,66 @@
 | 824 | 42 | Sally Elizabeth Hopson |
 | 825 | 42 | Emeka Agu |
 | 826 | 42 | Peppy Wipeblock |
-| 827 | 42 | Brii Michelle Lamb |
-| 828 | 42 | Gary Kyle |
+| 827 | 42 | Gary Kyle |
+| 828 | 42 | Brii Michelle Lamb |
 | 829 | 42 | Sunny Riserbuilder |
 | 830 | 42 | Rikki Moran |
 | 831 | 42 | Louise |
 | 832 | 41 | WOOLFF |
-| 833 | 41 | Danielle Marie Lewis |
-| 834 | 41 | Delitra Perkins Hatter |
-| 835 | 41 | NataAllDay |
-| 836 | 41 | Laura |
-| 837 | 41 | Nekka |
-| 838 | 41 | Deihja Weaver |
+| 833 | 41 | Paul Pendley |
+| 834 | 41 | Danielle Marie Lewis |
+| 835 | 41 | Delitra Perkins Hatter |
+| 836 | 41 | NataAllDay |
+| 837 | 41 | Laura |
+| 838 | 41 | Nekka |
 | 839 | 41 | Cranky Fall |
 | 840 | 41 | Crafty Witch |
 | 841 | 41 | JLynn Mind Ur's Blackwell |
-| 842 | 40 | Brian Marsico |
-| 843 | 40 | Katrina Trein Bein Dickerson |
+| 842 | 41 | Deihja Weaver |
+| 843 | 40 | Billz143 |
 | 844 | 40 | Chummy Blockpiece |
-| 845 | 40 | Mikemike Zonethree |
-| 846 | 40 | Sarah Guarino |
+| 845 | 40 | Sarah Guarino |
+| 846 | 40 | Mikemike Zonethree |
 | 847 | 40 | Genne Scott |
-| 848 | 40 | RealOne95 |
-| 849 | 40 | Shaun Anderson |
-| 850 | 40 | Flashy Slam |
-| 851 | 40 | Marcello Rush |
-| 852 | 40 | Melissa Hershberger |
-| 853 | 40 | Billz143 |
-| 854 | 40 | PattyPower |
-| 855 | 40 | Larina Cherie Johnson |
-| 856 | 40 | nay |
-| 857 | 40 | Ashanti Eden |
-| 858 | 40 | Dannie |
-| 859 | 40 | Shauntai Holiday |
-| 860 | 40 | SherylU |
-| 861 | 40 | Jasmine Bates |
-| 862 | 40 | Abby |
-| 863 | 40 | Keith Big-Sixx Mackell |
-| 864 | 40 | Brittany Britkany Marsden-Garrison |
-| 865 | 40 | Stacey Kesteloot |
-| 866 | 40 | Cj Chimelis |
-| 867 | 40 | Frankey Chi |
-| 868 | 39 | Meepycat |
+| 848 | 40 | Brian Marsico |
+| 849 | 40 | RealOne95 |
+| 850 | 40 | Shaun Anderson |
+| 851 | 40 | Flashy Slam |
+| 852 | 40 | Marcello Rush |
+| 853 | 40 | PattyPower |
+| 854 | 40 | Larina Cherie Johnson |
+| 855 | 40 | nay |
+| 856 | 40 | Ashanti Eden |
+| 857 | 40 | Dannie |
+| 858 | 40 | Melissa Hershberger |
+| 859 | 40 | Katrina Trein Bein Dickerson |
+| 860 | 40 | Shauntai Holiday |
+| 861 | 40 | SherylU |
+| 862 | 40 | Jasmine Bates |
+| 863 | 40 | Abby |
+| 864 | 40 | Keith Big-Sixx Mackell |
+| 865 | 40 | Brittany Britkany Marsden-Garrison |
+| 866 | 40 | Stacey Kesteloot |
+| 867 | 40 | Cj Chimelis |
+| 868 | 40 | Frankey Chi |
 | 869 | 39 | Diva shrock |
 | 870 | 39 | Boymama917 |
 | 871 | 39 | Ameillia Boughner |
 | 872 | 39 | BP Phillips |
 | 873 | 39 | Marbama |
 | 874 | 39 | Tina Blessed Cage |
-| 875 | 39 | Chris Holland |
-| 876 | 39 | TY Newme Batts |
-| 877 | 39 | Juanita Quezaire |
-| 878 | 39 | Naee Bee |
-| 879 | 39 | Lozuna |
-| 880 | 39 | S.S |
-| 881 | 39 | Paul Pendley |
+| 875 | 39 | Meepycat |
+| 876 | 39 | Chris Holland |
+| 877 | 39 | TY Newme Batts |
+| 878 | 39 | Juanita Quezaire |
+| 879 | 39 | Naee Bee |
+| 880 | 39 | Lozuna |
+| 881 | 39 | S.S |
 | 882 | 39 | Laysa Nunez |
-| 883 | 38 | Kayel Good |
-| 884 | 38 | hope |
-| 885 | 38 | William Vidra |
-| 886 | 38 | Kahliah Baker |
+| 883 | 38 | hope |
+| 884 | 38 | William Vidra |
+| 885 | 38 | Kahliah Baker |
+| 886 | 38 | Spicy Tiler |
 | 887 | 38 | Undeniable Williams |
 | 888 | 38 | Quwana Hall |
 | 889 | 38 | Pj Rojas |
@@ -899,7 +899,7 @@
 | 891 | 38 | Monica Fields |
 | 892 | 38 | Krista Shanice |
 | 893 | 38 | Phoenix |
-| 894 | 38 | Spicy Tiler |
+| 894 | 38 | Kayel Good |
 | 895 | 37 | Jb Mzresilience |
 | 896 | 37 | Spunky Strikerbuilder |
 | 897 | 37 | Megan Jones |

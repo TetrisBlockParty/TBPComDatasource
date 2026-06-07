@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 06:42:17 UTC
+# Standings for team4 as of 2026-06-07 06:42:39 UTC
 
 **Total Participants:** 1392
 
@@ -50,14 +50,14 @@
 | 42 | 1360 | Cal Renee |
 | 43 | 1357 | 626 |
 | 44 | 1249 | Charlie Lewis |
-| 45 | 1200 | Caitlin Johnson |
-| 46 | 1089 | Bryan DjMagnum Evans |
-| 47 | 1089 | Ning Quiambao |
-| 48 | 1080 | Jennifer Edgell Richardson |
+| 45 | 1230 | Jennifer Edgell Richardson |
+| 46 | 1200 | Caitlin Johnson |
+| 47 | 1089 | Bryan DjMagnum Evans |
+| 48 | 1089 | Ning Quiambao |
 | 49 | 1077 | Victoria Ver |
 | 50 | 1049 | Chris Covington |
 | 51 | 1035 | Adam J Leong |
-| 52 | 994 | Chummy Rollzone |
+| 52 | 1007 | Chummy Rollzone |
 | 53 | 987 | Gloria Nunley Trussell |
 | 54 | 985 | Nick Graber |
 | 55 | 971 | Loony Towerer |
@@ -678,51 +678,51 @@
 | 670 | 59 | Inez Nez |
 | 671 | 59 | Capone |
 | 672 | 59 | Miranda Brown |
-| 673 | 59 | Logan Two-dubs Baker |
-| 674 | 58 | Yaya Selbor |
-| 675 | 58 | Alicia Blunt |
-| 676 | 58 | Kimberly Lusk |
-| 677 | 58 | Lana Tran |
-| 678 | 58 | Jessica Sanchez |
-| 679 | 58 | Jade Alley |
-| 680 | 57 | Heather Hilferty |
-| 681 | 57 | Lala |
-| 682 | 57 | Erica Pompey |
-| 683 | 57 | Волна Бог |
+| 673 | 59 | Renzo Tonini |
+| 674 | 59 | Logan Two-dubs Baker |
+| 675 | 58 | Yaya Selbor |
+| 676 | 58 | Alicia Blunt |
+| 677 | 58 | Kimberly Lusk |
+| 678 | 58 | Lana Tran |
+| 679 | 58 | Jessica Sanchez |
+| 680 | 58 | Jade Alley |
+| 681 | 57 | Heather Hilferty |
+| 682 | 57 | Lala |
+| 683 | 57 | Erich EMac McIntosh |
 | 684 | 57 | PapaB |
-| 685 | 57 | Hotstuff |
-| 686 | 57 | Erich EMac McIntosh |
+| 685 | 57 | Erica Pompey |
+| 686 | 57 | Волна Бог |
 | 687 | 57 | Leslie |
-| 688 | 56 | Vicente Bolaños Jr. |
-| 689 | 56 | Blessedmom865 |
-| 690 | 56 | Kayla Haddenham |
-| 691 | 56 | Jennifer Brucz |
-| 692 | 56 | tigerlilly |
-| 693 | 56 | Alaina Rousseau |
-| 694 | 56 | Brittany |
-| 695 | 56 | Lashae |
-| 696 | 56 | Natalie Ohrtman Strand |
-| 697 | 56 | Zappy Matchgrid |
-| 698 | 55 | Melissa Wilson |
-| 699 | 55 | Bee |
-| 700 | 55 | The Jazziest |
-| 701 | 55 | Erika Rubio |
+| 688 | 57 | Hotstuff |
+| 689 | 56 | Jennifer Brucz |
+| 690 | 56 | Blessedmom865 |
+| 691 | 56 | Vicente Bolaños Jr. |
+| 692 | 56 | Kayla Haddenham |
+| 693 | 56 | tigerlilly |
+| 694 | 56 | Alaina Rousseau |
+| 695 | 56 | Brittany |
+| 696 | 56 | Zappy Matchgrid |
+| 697 | 56 | Lashae |
+| 698 | 56 | Natalie Ohrtman Strand |
+| 699 | 55 | The Jazziest |
+| 700 | 55 | Melissa Wilson |
+| 701 | 55 | Bee |
 | 702 | 55 | Donny Keets |
-| 703 | 55 | pussface |
-| 704 | 55 | Julian Gasque |
-| 705 | 55 | Krissy Smith |
-| 706 | 55 | bofe |
-| 707 | 54 | Danny Keich III |
-| 708 | 54 | Scott Baum |
+| 703 | 55 | Erika Rubio |
+| 704 | 55 | pussface |
+| 705 | 55 | Julian Gasque |
+| 706 | 55 | Krissy Smith |
+| 707 | 55 | bofe |
+| 708 | 54 | Danny Keich III |
 | 709 | 54 | Lisa Ferriero-Daudin |
 | 710 | 54 | Earl Edwards |
-| 711 | 54 | Renzo Tonini |
-| 712 | 54 | Lilo |
-| 713 | 53 | Koren Heersink |
+| 711 | 54 | Lilo |
+| 712 | 54 | Scott Baum |
+| 713 | 53 | Kimberly Mae Watkins |
 | 714 | 53 | Sarah Leake |
 | 715 | 53 | shonaberry |
 | 716 | 53 | Haylee Talkington |
-| 717 | 53 | Kimberly Mae Watkins |
+| 717 | 53 | Koren Heersink |
 | 718 | 52 | Sonya |
 | 719 | 52 | Meela Abdurrab |
 | 720 | 52 | Frothy Pivotfall |
