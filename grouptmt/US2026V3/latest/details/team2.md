@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 08:58:42 UTC
+# Standings for team2 as of 2026-06-07 08:59:17 UTC
 
 **Total Participants:** 1685
 
@@ -99,16 +99,16 @@
 | 91 | 757 | Jazzy Faller |
 | 92 | 750 | Denise Potter |
 | 93 | 749 | Brandi Thompson |
-| 94 | 721 | Hoppy Rotate |
-| 95 | 721 | Smiley Dropper |
-| 96 | 685 | Sigmamom |
-| 97 | 666 | Epic Frame |
-| 98 | 656 | Loopy Cascadepiece |
-| 99 | 654 | Bon Lynn |
-| 100 | 639 | Alison Waller |
-| 101 | 632 | Wmk Rathbun |
-| 102 | 632 | Allie Bug |
-| 103 | 631 | Nerdy Climber |
+| 94 | 721 | Smiley Dropper |
+| 95 | 721 | Hoppy Rotate |
+| 96 | 708 | Nerdy Climber |
+| 97 | 685 | Sigmamom |
+| 98 | 666 | Epic Frame |
+| 99 | 656 | Loopy Cascadepiece |
+| 100 | 654 | Bon Lynn |
+| 101 | 639 | Alison Waller |
+| 102 | 632 | Wmk Rathbun |
+| 103 | 632 | Allie Bug |
 | 104 | 629 | Mirr Lulu |
 | 105 | 627 | Le Sandy |
 | 106 | 620 | Amber-leigh Williams |
@@ -150,8 +150,8 @@
 | 142 | 417 | Jenny Graham |
 | 143 | 416 | Suki Jacobs |
 | 144 | 411 | MarioKarasovic |
-| 145 | 408 | Ashley Green |
-| 146 | 406 | Zarah Kettler |
+| 145 | 408 | Zarah Kettler |
+| 146 | 408 | Ashley Green |
 | 147 | 404 | Jgato |
 | 148 | 393 | DomDomsNana |
 | 149 | 390 | La chulis |
@@ -235,11 +235,11 @@
 | 227 | 247 | Brittni Lawrence |
 | 228 | 247 | Melissa Thomas |
 | 229 | 246 | Brooke Lynn Marie Adelaide |
-| 230 | 241 | Boldy Wobbler |
-| 231 | 240 | PaiBri |
-| 232 | 239 | Norma Ortiz |
-| 233 | 237 | Michelle Luke Banta |
-| 234 | 236 | Chipper Stackbuilder |
+| 230 | 246 | Chipper Stackbuilder |
+| 231 | 241 | Boldy Wobbler |
+| 232 | 240 | PaiBri |
+| 233 | 239 | Norma Ortiz |
+| 234 | 237 | Michelle Luke Banta |
 | 235 | 236 | Lush Party |
 | 236 | 235 | Tami Kay Williams Watson |
 | 237 | 235 | Elizabeth Henry |
