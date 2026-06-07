@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 13:10:17 UTC
+# Standings for team1 as of 2026-06-07 13:10:40 UTC
 
 **Total Participants:** 1463
 
@@ -21,7 +21,7 @@
 | 13 | 5511 | Timothy Robert |
 | 14 | 5282 | Plucky Swipe |
 | 15 | 5126 | Hunter Rayborn |
-| 16 | 4717 | Debbie Carswell |
+| 16 | 4721 | Debbie Carswell |
 | 17 | 3845 | Cassidy Butler |
 | 18 | 3776 | Pdubbl3 |
 | 19 | 3039 | Chummy Combo |
@@ -351,38 +351,38 @@
 | 343 | 144 | Mister Reid |
 | 344 | 142 | Charlene Baltimore |
 | 345 | 141 | Shalena Marie Humphrey |
-| 346 | 140 | Antoinette Jones |
-| 347 | 140 | Eric Spencer Whitaker |
-| 348 | 140 | rls |
-| 349 | 140 | Katrina Ramey |
-| 350 | 140 | Nerdy Blockpiece |
+| 346 | 140 | Eric Spencer Whitaker |
+| 347 | 140 | Antoinette Jones |
+| 348 | 140 | Katrina Ramey |
+| 349 | 140 | Nerdy Blockpiece |
+| 350 | 140 | rls |
 | 351 | 139 | kitten |
-| 352 | 138 | Tamika Rocheteau |
-| 353 | 138 | Dreamzzz |
-| 354 | 137 | Lisa Fletcher |
-| 355 | 137 | Nickeya Phillips |
-| 356 | 137 | Giggy Tower |
-| 357 | 137 | Kelvin Cook |
-| 358 | 137 | Tay |
-| 359 | 136 | Cece Fowler |
-| 360 | 136 | Travis Davison |
-| 361 | 136 | McKayla Owens |
-| 362 | 136 | Char |
-| 363 | 136 | Shanaa Germany Crittenden |
+| 352 | 138 | Dreamzzz |
+| 353 | 138 | Tamika Rocheteau |
+| 354 | 137 | Tay |
+| 355 | 137 | Kelvin Cook |
+| 356 | 137 | Lisa Fletcher |
+| 357 | 137 | Giggy Tower |
+| 358 | 137 | Nickeya Phillips |
+| 359 | 136 | Travis Davison |
+| 360 | 136 | Cece Fowler |
+| 361 | 136 | Char |
+| 362 | 136 | Shanaa Germany Crittenden |
+| 363 | 136 | McKayla Owens |
 | 364 | 136 | Phillip Vasquez |
 | 365 | 135 | MzJuice Box |
 | 366 | 135 | Saucy Tile |
 | 367 | 135 | Sean White |
-| 368 | 134 | Peppy Glider |
-| 369 | 134 | Perky Pusher |
-| 370 | 134 | Jae Thompson-Tyus |
-| 371 | 134 | Brittanie Wardlow |
+| 368 | 134 | Brittanie Wardlow |
+| 369 | 134 | Peppy Glider |
+| 370 | 134 | Perky Pusher |
+| 371 | 134 | Jae Thompson-Tyus |
 | 372 | 133 | Tasha |
-| 373 | 132 | Tremaine Hiler |
-| 374 | 132 | Chirpy Buildgrid |
-| 375 | 130 | Kesha Brady |
+| 373 | 132 | Chirpy Buildgrid |
+| 374 | 132 | Tremaine Hiler |
+| 375 | 130 | Adrian Wilson |
 | 376 | 130 | Murg4dr01d |
-| 377 | 130 | Adrian Wilson |
+| 377 | 130 | Kesha Brady |
 | 378 | 130 | Jessica Davis |
 | 379 | 130 | Crystal Anderson |
 | 380 | 130 | Miera Nicole |
@@ -392,8 +392,8 @@
 | 384 | 129 | Mathew Trudell |
 | 385 | 129 | Lynn |
 | 386 | 128 | Jack Vlasak |
-| 387 | 128 | Breezy Catcher |
-| 388 | 128 | Darrel K Pemberton |
+| 387 | 128 | Darrel K Pemberton |
+| 388 | 128 | Breezy Catcher |
 | 389 | 127 | Comedian Prince Paul |
 | 390 | 127 | Treneil Daffin |
 | 391 | 127 | Ozell Jones Jr. |
@@ -412,72 +412,72 @@
 | 404 | 121 | Tee Spinks |
 | 405 | 120 | Tanya Clayton |
 | 406 | 120 | Teri Marie Clayton |
-| 407 | 120 | Daddy |
-| 408 | 120 | Giggy Edgefit |
+| 407 | 120 | Giggy Edgefit |
+| 408 | 120 | Daddy |
 | 409 | 119 | Tamara Johnson-Carter |
 | 410 | 119 | Lexx Robins |
 | 411 | 119 | Bambi Johnson |
-| 412 | 118 | Amanda Woodruff |
-| 413 | 118 | Hasty Pivoty |
+| 412 | 118 | Hasty Pivoty |
+| 413 | 118 | Amanda Woodruff |
 | 414 | 117 | MonaSparks |
 | 415 | 116 | Yadira Salgado |
 | 416 | 116 | Douglas Price |
 | 417 | 115 | wmedina67 |
 | 418 | 115 | BabyCakes |
-| 419 | 114 | Faith Armone |
-| 420 | 114 | LAhoneybun82 |
+| 419 | 114 | LAhoneybun82 |
+| 420 | 114 | Faith Armone |
 | 421 | 113 | Shakuria Cortia Burney |
 | 422 | 112 | Nyhlah Patterson |
-| 423 | 112 | Christina Singleton |
+| 423 | 112 | Hasty Glidezone |
 | 424 | 112 | GamerQueenDS |
 | 425 | 112 | Jennah |
-| 426 | 111 | Daring Blockclear |
-| 427 | 111 | Ad Doctor |
-| 428 | 110 | Slinky Clearzone |
-| 429 | 110 | Chandler Magee |
-| 430 | 110 | Nisha Sunshine Jenkins |
-| 431 | 109 | Rufus |
-| 432 | 109 | Tamika Fisher |
-| 433 | 109 | Frances Davis |
-| 434 | 109 | Kortney Adams |
-| 435 | 109 | Manda Allen |
-| 436 | 108 | Li-Li Ratliff |
-| 437 | 107 | Laurie Napper |
-| 438 | 107 | Zany Breaker |
-| 439 | 105 | Mario Meliodas |
-| 440 | 105 | Analiza Ramos |
-| 441 | 105 | Ja'mice Nelson |
-| 442 | 105 | Kelley Johnson |
-| 443 | 105 | Mighty Dropper |
-| 444 | 105 | Lucy |
-| 445 | 105 | QueenShay AllGood |
+| 426 | 112 | Christina Singleton |
+| 427 | 111 | Daring Blockclear |
+| 428 | 111 | Ad Doctor |
+| 429 | 110 | Slinky Clearzone |
+| 430 | 110 | Chandler Magee |
+| 431 | 110 | Nisha Sunshine Jenkins |
+| 432 | 109 | Rufus |
+| 433 | 109 | Tamika Fisher |
+| 434 | 109 | Frances Davis |
+| 435 | 109 | Kortney Adams |
+| 436 | 109 | Manda Allen |
+| 437 | 108 | Li-Li Ratliff |
+| 438 | 107 | Laurie Napper |
+| 439 | 107 | Zany Breaker |
+| 440 | 105 | Mario Meliodas |
+| 441 | 105 | Kelley Johnson |
+| 442 | 105 | Ja'mice Nelson |
+| 443 | 105 | Lucy |
+| 444 | 105 | QueenShay AllGood |
+| 445 | 105 | Mighty Dropper |
 | 446 | 105 | Maria |
-| 447 | 104 | Boldy Matchbuilder |
-| 448 | 104 | Bella |
+| 447 | 105 | Analiza Ramos |
+| 448 | 104 | Boldy Matchbuilder |
 | 449 | 104 | Nichelle Warren |
-| 450 | 104 | Ahvae Lee |
-| 451 | 103 | Lilly Brown |
-| 452 | 103 | Hasty Glidezone |
-| 453 | 103 | Lynnette WheelerBushnell |
-| 454 | 102 | Christi Walker Patton |
+| 450 | 104 | Bella |
+| 451 | 104 | Ahvae Lee |
+| 452 | 103 | Lynnette WheelerBushnell |
+| 453 | 103 | Lilly Brown |
+| 454 | 102 | Sarah Steckbauer |
 | 455 | 102 | Hyedie Badie |
-| 456 | 102 | Sarah Steckbauer |
-| 457 | 102 | 大竹直之 |
+| 456 | 102 | 大竹直之 |
+| 457 | 102 | Christi Walker Patton |
 | 458 | 101 | star |
 | 459 | 101 | Mommy Frank |
-| 460 | 101 | Joana Thompson |
-| 461 | 101 | Elaine Pauley |
+| 460 | 101 | Elaine Pauley |
+| 461 | 101 | Joana Thompson |
 | 462 | 101 | Wacky Wipepiece |
 | 463 | 100 | Kennedi Brazziel |
 | 464 | 100 | Seddrick |
 | 465 | 100 | Tessa Gaskin |
 | 466 | 100 | Stephen Glaze |
-| 467 | 100 | Oldheads |
+| 467 | 100 | Erica Charlise |
 | 468 | 100 | Mary Phillippi Blanton |
-| 469 | 100 | Erica Charlise |
-| 470 | 100 | Rebecca Jackson |
+| 469 | 100 | Oldheads |
+| 470 | 100 | Deveda Williams |
 | 471 | 100 | Cornelius Neal |
-| 472 | 100 | Deveda Williams |
+| 472 | 100 | Rebecca Jackson |
 | 473 | 100 | Leavon Smith |
 | 474 | 100 | Jean Regis |
 | 475 | 100 | $hort Dog |
@@ -603,10 +603,10 @@
 | 595 | 78 | Claudia Price |
 | 596 | 78 | Ryan Runyan |
 | 597 | 78 | Azeiare Ziare |
-| 598 | 77 | Dana Hawes |
-| 599 | 77 | EvaLynn NeCole |
-| 600 | 77 | Ysma Simmons |
-| 601 | 76 | Kim Holzmiller |
+| 598 | 77 | Kim Holzmiller |
+| 599 | 77 | Dana Hawes |
+| 600 | 77 | EvaLynn NeCole |
+| 601 | 77 | Ysma Simmons |
 | 602 | 76 | lady |
 | 603 | 76 | Angelique Talbot |
 | 604 | 76 | Earl Williams |
