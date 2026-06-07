@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 09:46:39 UTC
+# Standings for team1 as of 2026-06-07 09:47:19 UTC
 
 **Total Participants:** 1433
 
@@ -55,11 +55,11 @@
 | 47 | 1133 | Jennifer To |
 | 48 | 1120 | Ryan Meilleur |
 | 49 | 1067 | Catara Renae Oliver |
-| 50 | 1052 | Shortstak |
-| 51 | 1046 | Spicy Balancer |
-| 52 | 1024 | Chill Clusterer |
-| 53 | 998 | Angela R Wilson |
-| 54 | 996 | Robyn Caldwell |
+| 50 | 1056 | Robyn Caldwell |
+| 51 | 1052 | Shortstak |
+| 52 | 1046 | Spicy Balancer |
+| 53 | 1024 | Chill Clusterer |
+| 54 | 998 | Angela R Wilson |
 | 55 | 984 | Holly Jolly |
 | 56 | 970 | Danielle DeLozier Plesec |
 | 57 | 961 | Sanjuro |
@@ -119,10 +119,10 @@
 | 111 | 488 | Trendalyn Webb |
 | 112 | 481 | Novaa |
 | 113 | 477 | Chenell Gillard |
-| 114 | 474 | DaVonte' Cretter |
-| 115 | 468 | Chris Caniglia |
-| 116 | 455 | Felicia Williams |
-| 117 | 450 | De'Laonzeo Anthony |
+| 114 | 474 | De'Laonzeo Anthony |
+| 115 | 474 | DaVonte' Cretter |
+| 116 | 468 | Chris Caniglia |
+| 117 | 455 | Felicia Williams |
 | 118 | 447 | Gotcha |
 | 119 | 444 | Kevin M. McGhee Jr |
 | 120 | 439 | Asani CHumba |
@@ -367,13 +367,13 @@
 | 359 | 126 | Breezy Catcher |
 | 360 | 126 | Brittany Fells |
 | 361 | 125 | Dizzy Dashy |
-| 362 | 125 | LaTonya Myers |
-| 363 | 125 | Dedra M Prester |
-| 364 | 124 | The DUBZ |
-| 365 | 123 | Cauiasia DeJ'ae |
-| 366 | 123 | Rachael Bakowicz Edwards |
-| 367 | 122 | Xana Zania Bopp |
-| 368 | 122 | Tyiesha Pie Farmer |
+| 362 | 125 | Tyiesha Pie Farmer |
+| 363 | 125 | LaTonya Myers |
+| 364 | 125 | Dedra M Prester |
+| 365 | 124 | The DUBZ |
+| 366 | 123 | Cauiasia DeJ'ae |
+| 367 | 123 | Rachael Bakowicz Edwards |
+| 368 | 122 | Xana Zania Bopp |
 | 369 | 121 | Tiana Monique |
 | 370 | 121 | Bubbly Piececlear |
 | 371 | 121 | Shanaa Germany Crittenden |
@@ -1035,8 +1035,8 @@
 | 1027 | 29 | Lazy Matchgrid |
 | 1028 | 28 | AleahKCH |
 | 1029 | 28 | Diamond Nicole |
-| 1030 | 28 | Teresa Bean |
-| 1031 | 28 | Leon Matthew Williams |
+| 1030 | 28 | Leon Matthew Williams |
+| 1031 | 28 | Teresa Bean |
 | 1032 | 28 | kiki |
 | 1033 | 28 | Will Stanton |
 | 1034 | 28 | SnazzySnippet |
@@ -1048,29 +1048,29 @@
 | 1040 | 28 | Simone Dublin |
 | 1041 | 28 | Frilly Shatterline |
 | 1042 | 28 | Anthony T. Fults |
-| 1043 | 28 | Mighty plantlady |
-| 1044 | 28 | sunstar |
+| 1043 | 28 | sunstar |
+| 1044 | 28 | Mighty plantlady |
 | 1045 | 27 | Antoinette GallowayJohnson |
-| 1046 | 27 | Tina Criam |
-| 1047 | 27 | Jeremy Hendrix |
-| 1048 | 27 | Brave Gridmatch |
-| 1049 | 27 | Shaylyn Lockwood |
-| 1050 | 27 | katia |
-| 1051 | 27 | Venna Cooper |
-| 1052 | 27 | Zesty Fitclear |
-| 1053 | 27 | Cameo Tweed |
-| 1054 | 27 | Ramon Leno Coolridge |
-| 1055 | 27 | Kidgib5 |
-| 1056 | 27 | Ayanna James |
-| 1057 | 27 | Joka NoTime ForHataz |
-| 1058 | 27 | Mrs |
-| 1059 | 27 | Taylor Keisha |
-| 1060 | 27 | AshMo |
-| 1061 | 26 | Lively Strikesnap |
-| 1062 | 26 | Twisty Dashy |
-| 1063 | 26 | Papi |
-| 1064 | 26 | Stacy Nicole |
-| 1065 | 26 | deeno |
+| 1046 | 27 | Jeremy Hendrix |
+| 1047 | 27 | Tina Criam |
+| 1048 | 27 | katia |
+| 1049 | 27 | Brave Gridmatch |
+| 1050 | 27 | Shaylyn Lockwood |
+| 1051 | 27 | deeno |
+| 1052 | 27 | Venna Cooper |
+| 1053 | 27 | Zesty Fitclear |
+| 1054 | 27 | Cameo Tweed |
+| 1055 | 27 | Ramon Leno Coolridge |
+| 1056 | 27 | Kidgib5 |
+| 1057 | 27 | Ayanna James |
+| 1058 | 27 | Joka NoTime ForHataz |
+| 1059 | 27 | Mrs |
+| 1060 | 27 | Taylor Keisha |
+| 1061 | 27 | AshMo |
+| 1062 | 26 | Lively Strikesnap |
+| 1063 | 26 | Twisty Dashy |
+| 1064 | 26 | Papi |
+| 1065 | 26 | Stacy Nicole |
 | 1066 | 26 | Toohartless Mech |
 | 1067 | 26 | Rose Smith |
 | 1068 | 26 | Hoppy Buildsnap |
@@ -1309,82 +1309,82 @@
 | 1301 | 11 | Felicia Woods |
 | 1302 | 11 | Snappy Towerpiece |
 | 1303 | 11 | Jayson |
-| 1304 | 11 | pizzapie |
+| 1304 | 11 | Groovy Climber |
 | 1305 | 11 | Tamyka E Williams |
-| 1306 | 11 | Fred Caston |
-| 1307 | 11 | Zesty Clearer |
-| 1308 | 11 | Hasaan Jones |
-| 1309 | 11 | Groovy Climber |
-| 1310 | 10 | Nope Young |
-| 1311 | 10 | Semaj Johnson |
-| 1312 | 10 | X6TRAUMA9X |
-| 1313 | 10 | Jamal D. Wiley |
-| 1314 | 10 | Tranica Sterling |
-| 1315 | 10 | OneBuke FollowMe |
-| 1316 | 10 | Steve Renelus |
-| 1317 | 10 | Willard Junior |
-| 1318 | 10 | Tea |
-| 1319 | 10 | Alisha Dawson Crouch |
-| 1320 | 10 | Kim Smith |
-| 1321 | 10 | Truthful |
-| 1322 | 10 | Ladii Libra |
-| 1323 | 10 | Yvonne Aggers |
-| 1324 | 10 | Blaze |
-| 1325 | 10 | Omar Dotray |
-| 1326 | 10 | Tynetta Scott |
-| 1327 | 10 | Lazy Chiseler |
-| 1328 | 10 | Cool Rumbler |
-| 1329 | 10 | Happymama |
-| 1330 | 10 | Upt |
-| 1331 | 10 | Shawn Himes |
-| 1332 | 10 | Crystal Segura |
-| 1333 | 10 | Hasty Brickzone |
-| 1334 | 10 | Jackee Chee-Ming |
-| 1335 | 10 | Jimel Fraser |
-| 1336 | 10 | Leon Brown III |
-| 1337 | 10 | Terry Lee Moya |
-| 1338 | 10 | Ciera Spottedelk |
-| 1339 | 10 | Manda Pecora |
-| 1340 | 9 | Shanns |
-| 1341 | 9 | meatballs |
-| 1342 | 9 | Beverly S. Robinson |
-| 1343 | 9 | Sunset Owens |
-| 1344 | 9 | John Lovato |
-| 1345 | 9 | Duckey |
-| 1346 | 9 | Frisky Linkblock |
-| 1347 | 9 | Yester |
-| 1348 | 9 | Shaun Baker |
-| 1349 | 9 | ummm |
-| 1350 | 9 | Shemeka Bates |
-| 1351 | 9 | Brika Brika |
-| 1352 | 9 | Catelyn Neal |
-| 1353 | 9 | Clifford Petroske |
-| 1354 | 9 | Mars |
-| 1355 | 9 | Dana |
-| 1356 | 9 | Shell Poke |
-| 1357 | 9 | Noni |
-| 1358 | 9 | Lounique |
-| 1359 | 8 | MsSassygee Boom |
-| 1360 | 8 | meep |
-| 1361 | 8 | Giggleme |
-| 1362 | 8 | Dave Breaker |
-| 1363 | 8 | Queen Baby 5 |
-| 1364 | 8 | Andrew James |
-| 1365 | 8 | Sean Walker |
-| 1366 | 8 | Nissa |
-| 1367 | 8 | Rixo Blax |
-| 1368 | 8 | Frothy Matchpiece |
-| 1369 | 8 | Macho Lewis |
-| 1370 | 8 | Ferocity |
-| 1371 | 8 | Desi |
-| 1372 | 8 | Chevonne Huggins |
-| 1373 | 8 | Groovy Riseclear |
-| 1374 | 8 | Dana Hill |
-| 1375 | 8 | Elizabeth Castro |
-| 1376 | 8 | Chill Tumbler |
-| 1377 | 8 | Vonda House |
-| 1378 | 8 | jus_ry |
-| 1379 | 8 | Almarasha Grice |
+| 1306 | 11 | Vonda House |
+| 1307 | 11 | Fred Caston |
+| 1308 | 11 | Zesty Clearer |
+| 1309 | 11 | Hasaan Jones |
+| 1310 | 11 | pizzapie |
+| 1311 | 10 | Kim Smith |
+| 1312 | 10 | Tranica Sterling |
+| 1313 | 10 | OneBuke FollowMe |
+| 1314 | 10 | Steve Renelus |
+| 1315 | 10 | Willard Junior |
+| 1316 | 10 | Tea |
+| 1317 | 10 | Alisha Dawson Crouch |
+| 1318 | 10 | Jamal D. Wiley |
+| 1319 | 10 | Truthful |
+| 1320 | 10 | Ladii Libra |
+| 1321 | 10 | Yvonne Aggers |
+| 1322 | 10 | X6TRAUMA9X |
+| 1323 | 10 | Hasty Brickzone |
+| 1324 | 10 | Omar Dotray |
+| 1325 | 10 | Happymama |
+| 1326 | 10 | Jimel Fraser |
+| 1327 | 10 | Cool Rumbler |
+| 1328 | 10 | Upt |
+| 1329 | 10 | Shawn Himes |
+| 1330 | 10 | Lazy Chiseler |
+| 1331 | 10 | Blaze |
+| 1332 | 10 | Tynetta Scott |
+| 1333 | 10 | Jackee Chee-Ming |
+| 1334 | 10 | Leon Brown III |
+| 1335 | 10 | Terry Lee Moya |
+| 1336 | 10 | Ciera Spottedelk |
+| 1337 | 10 | Manda Pecora |
+| 1338 | 10 | Semaj Johnson |
+| 1339 | 10 | Crystal Segura |
+| 1340 | 10 | Nope Young |
+| 1341 | 9 | Sunset Owens |
+| 1342 | 9 | Shanns |
+| 1343 | 9 | Yester |
+| 1344 | 9 | Frisky Linkblock |
+| 1345 | 9 | Beverly S. Robinson |
+| 1346 | 9 | Duckey |
+| 1347 | 9 | John Lovato |
+| 1348 | 9 | meatballs |
+| 1349 | 9 | Lounique |
+| 1350 | 9 | Noni |
+| 1351 | 9 | Dana |
+| 1352 | 9 | Mars |
+| 1353 | 9 | Catelyn Neal |
+| 1354 | 9 | ummm |
+| 1355 | 9 | Shemeka Bates |
+| 1356 | 9 | Brika Brika |
+| 1357 | 9 | Clifford Petroske |
+| 1358 | 9 | Shaun Baker |
+| 1359 | 9 | Shell Poke |
+| 1360 | 8 | Dana Hill |
+| 1361 | 8 | Rixo Blax |
+| 1362 | 8 | Giggleme |
+| 1363 | 8 | Dave Breaker |
+| 1364 | 8 | MsSassygee Boom |
+| 1365 | 8 | Almarasha Grice |
+| 1366 | 8 | jus_ry |
+| 1367 | 8 | meep |
+| 1368 | 8 | Queen Baby 5 |
+| 1369 | 8 | Andrew James |
+| 1370 | 8 | Sean Walker |
+| 1371 | 8 | Nissa |
+| 1372 | 8 | Frothy Matchpiece |
+| 1373 | 8 | Chill Tumbler |
+| 1374 | 8 | Elizabeth Castro |
+| 1375 | 8 | Macho Lewis |
+| 1376 | 8 | Ferocity |
+| 1377 | 8 | Desi |
+| 1378 | 8 | Chevonne Huggins |
+| 1379 | 8 | Groovy Riseclear |
 | 1380 | 7 | Shane Brucewayne |
 | 1381 | 7 | John Boone |
 | 1382 | 7 | Deadra Graham |
