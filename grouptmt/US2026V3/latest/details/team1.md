@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 22:28:42 UTC
+# Standings for team1 as of 2026-06-07 22:29:19 UTC
 
 **Total Participants:** 1597
 
@@ -129,8 +129,8 @@
 | 121 | 539 | Cj Gorman |
 | 122 | 534 | Gael Quintana |
 | 123 | 533 | Robbie Cheeseman |
-| 124 | 527 | MommaCia |
-| 125 | 522 | Nutty Spinblock |
+| 124 | 532 | Nutty Spinblock |
+| 125 | 527 | MommaCia |
 | 126 | 518 | ELM |
 | 127 | 517 | Kaleisha Smith |
 | 128 | 513 | Rackemwillie34 |
