@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 11:24:43 UTC
+# Standings for team4 as of 2026-06-07 11:25:18 UTC
 
 **Total Participants:** 1449
 
@@ -172,8 +172,8 @@
 | 164 | 292 | Danielle Mitchell |
 | 165 | 291 | shawna |
 | 166 | 289 | Chiquita Blue |
-| 167 | 288 | LastBoi |
-| 168 | 288 | Maria Castillo |
+| 167 | 288 | Maria Castillo |
+| 168 | 288 | LastBoi |
 | 169 | 286 | matt |
 | 170 | 286 | Perky Riserbuilder |
 | 171 | 285 | TRUCHILD777$$$ |
@@ -212,22 +212,22 @@
 | 204 | 230 | Magz |
 | 205 | 226 | Cheery Risegrid |
 | 206 | 226 | Sassy Rollpiece |
-| 207 | 225 | Shocinda Sherwood |
-| 208 | 225 | Dubiousdust |
-| 209 | 224 | Janet Sanfilippo Sullivan |
-| 210 | 223 | Queen B |
-| 211 | 222 | Plucky Shatterfit |
-| 212 | 221 | Pepone Pepe |
-| 213 | 220 | blockhead |
-| 214 | 220 | CIRAZYPNOY |
-| 215 | 220 | Silly Risegrid |
-| 216 | 218 | Lori Stembridge |
-| 217 | 215 | Jj Johnson |
-| 218 | 211 | Goofy Riser |
-| 219 | 211 | Renee Sapp |
-| 220 | 210 | Stephanie Myers |
-| 221 | 207 | Aramat |
-| 222 | 206 | Samantha Worley |
+| 207 | 226 | Samantha Worley |
+| 208 | 225 | Shocinda Sherwood |
+| 209 | 225 | Dubiousdust |
+| 210 | 224 | Janet Sanfilippo Sullivan |
+| 211 | 223 | Queen B |
+| 212 | 222 | Plucky Shatterfit |
+| 213 | 221 | Pepone Pepe |
+| 214 | 220 | blockhead |
+| 215 | 220 | CIRAZYPNOY |
+| 216 | 220 | Silly Risegrid |
+| 217 | 218 | Lori Stembridge |
+| 218 | 215 | Jj Johnson |
+| 219 | 211 | Goofy Riser |
+| 220 | 211 | Renee Sapp |
+| 221 | 210 | Stephanie Myers |
+| 222 | 207 | Aramat |
 | 223 | 205 | Kristen Wallace |
 | 224 | 201 | Crystal Hammonds |
 | 225 | 200 | Sarah Montagne Forsberg |
