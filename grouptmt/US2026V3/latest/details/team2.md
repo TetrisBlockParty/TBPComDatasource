@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 15:16:40 UTC
+# Standings for team2 as of 2026-06-07 15:17:19 UTC
 
 **Total Participants:** 1785
 
@@ -160,9 +160,9 @@
 | 152 | 458 | Kaycie Shaffer |
 | 153 | 458 | Samantha Carman |
 | 154 | 453 | Kimberly Cowan |
-| 155 | 438 | Michelle Rich Burkhart |
-| 156 | 436 | Gill |
-| 157 | 436 | Zarah Kettler |
+| 155 | 438 | Zarah Kettler |
+| 156 | 438 | Michelle Rich Burkhart |
+| 157 | 436 | Gill |
 | 158 | 436 | MegaPooh |
 | 159 | 429 | Cool Climber |
 | 160 | 418 | Kelly Rogers |
@@ -658,11 +658,11 @@
 | 650 | 88 | Quirky Gridclear |
 | 651 | 88 | Lisa Chapman |
 | 652 | 88 | Newtwidebody |
-| 653 | 88 | Princess Cucumber |
-| 654 | 87 | Sarah Jane Gorsuch |
-| 655 | 87 | Dhelsie Qurasima |
-| 656 | 87 | Nikki Sadler |
-| 657 | 87 | Missy Tubb Overly |
+| 653 | 88 | Missy Tubb Overly |
+| 654 | 88 | Princess Cucumber |
+| 655 | 87 | Sarah Jane Gorsuch |
+| 656 | 87 | Dhelsie Qurasima |
+| 657 | 87 | Nikki Sadler |
 | 658 | 87 | Tetrismastrr |
 | 659 | 87 | Julibeth Wells |
 | 660 | 86 | Brandy McCleary |
@@ -865,50 +865,50 @@
 | 857 | 61 | Jolene Hull Hearn |
 | 858 | 61 | Wacky Stack |
 | 859 | 61 | Lil G |
-| 860 | 60 | Cranky Basepiece |
-| 861 | 60 | Jenna Stahl |
-| 862 | 60 | Speedy Gridder |
-| 863 | 60 | Tiffany Hassanshahi |
-| 864 | 60 | Grimwitch |
-| 865 | 60 | Emily Carns |
-| 866 | 60 | Alexis Abner |
-| 867 | 60 | Justtony Fareal |
-| 868 | 60 | Nanny t |
-| 869 | 60 | Nikki Grant |
-| 870 | 60 | Sharilyn Jackson |
-| 871 | 60 | Melissa Aycock |
-| 872 | 60 | Brandi Williams |
-| 873 | 60 | Gammawms |
-| 874 | 60 | Scott Lyles |
-| 875 | 60 | Cool Balancer |
-| 876 | 60 | Snippy Shifter |
-| 877 | 60 | Gloria Appleton |
-| 878 | 60 | Donutz |
-| 879 | 60 | Sara Karels |
-| 880 | 60 | Tiffany Lewis |
-| 881 | 60 | MattandAngie Hopkins |
-| 882 | 60 | Audrey Morris |
-| 883 | 59 | R.w. Buck |
-| 884 | 59 | Carrie Smith Negron |
-| 885 | 59 | LaicoosBargains Ln |
-| 886 | 59 | Funko Dave |
-| 887 | 59 | Sandra Rotton Bragg |
-| 888 | 59 | Jessica Spivey Cooper |
-| 889 | 59 | Cool cee |
-| 890 | 59 | WestieMom |
-| 891 | 59 | Just Me |
-| 892 | 59 | Jenn Mccarty |
-| 893 | 59 | April Addis |
-| 894 | 59 | Buddy |
-| 895 | 58 | Pjrobinsonnn |
-| 896 | 58 | Brian Little |
-| 897 | 58 | Tanya Goodwin |
-| 898 | 58 | Missy Savage-Justice |
-| 899 | 58 | Giddy Chiseler |
-| 900 | 58 | Sassy Patternblock |
-| 901 | 58 | Slinky Winder |
-| 902 | 58 | Shanetta Johnson |
-| 903 | 58 | Lindsey Davidson |
+| 860 | 61 | Lindsey Davidson |
+| 861 | 60 | Tiffany Lewis |
+| 862 | 60 | MattandAngie Hopkins |
+| 863 | 60 | Audrey Morris |
+| 864 | 60 | Cranky Basepiece |
+| 865 | 60 | Jenna Stahl |
+| 866 | 60 | Speedy Gridder |
+| 867 | 60 | Tiffany Hassanshahi |
+| 868 | 60 | Grimwitch |
+| 869 | 60 | Emily Carns |
+| 870 | 60 | Alexis Abner |
+| 871 | 60 | Justtony Fareal |
+| 872 | 60 | Nanny t |
+| 873 | 60 | Nikki Grant |
+| 874 | 60 | Sharilyn Jackson |
+| 875 | 60 | Melissa Aycock |
+| 876 | 60 | Brandi Williams |
+| 877 | 60 | Gammawms |
+| 878 | 60 | Scott Lyles |
+| 879 | 60 | Cool Balancer |
+| 880 | 60 | Snippy Shifter |
+| 881 | 60 | Gloria Appleton |
+| 882 | 60 | Donutz |
+| 883 | 60 | Sara Karels |
+| 884 | 59 | R.w. Buck |
+| 885 | 59 | Carrie Smith Negron |
+| 886 | 59 | LaicoosBargains Ln |
+| 887 | 59 | Funko Dave |
+| 888 | 59 | Sandra Rotton Bragg |
+| 889 | 59 | Jessica Spivey Cooper |
+| 890 | 59 | Cool cee |
+| 891 | 59 | WestieMom |
+| 892 | 59 | Just Me |
+| 893 | 59 | Jenn Mccarty |
+| 894 | 59 | April Addis |
+| 895 | 59 | Buddy |
+| 896 | 58 | Pjrobinsonnn |
+| 897 | 58 | Brian Little |
+| 898 | 58 | Tanya Goodwin |
+| 899 | 58 | Missy Savage-Justice |
+| 900 | 58 | Giddy Chiseler |
+| 901 | 58 | Sassy Patternblock |
+| 902 | 58 | Slinky Winder |
+| 903 | 58 | Shanetta Johnson |
 | 904 | 58 | Joanie Swann Ruiter |
 | 905 | 57 | Brandy Wallace |
 | 906 | 57 | Jason P. Schwartz |
@@ -961,18 +961,18 @@
 | 953 | 53 | Jeannine Murphy |
 | 954 | 53 | CK Hancock |
 | 955 | 53 | Topknot13 |
-| 956 | 53 | Witty Riser |
+| 956 | 53 | Sherry Ann |
 | 957 | 53 | Frisky Linkmatch |
 | 958 | 53 | Dawn Marie |
-| 959 | 53 | Peppy Piececlear |
-| 960 | 52 | Trisha Farley |
-| 961 | 52 | Happy Curvebuilder |
-| 962 | 52 | Amber Marie Lacey |
-| 963 | 52 | Diane Byrd |
-| 964 | 52 | Frisky Twist |
-| 965 | 52 | Chipper Spinzone |
-| 966 | 52 | Blossom48 |
-| 967 | 52 | Sherry Ann |
+| 959 | 53 | Witty Riser |
+| 960 | 53 | Peppy Piececlear |
+| 961 | 52 | Trisha Farley |
+| 962 | 52 | Happy Curvebuilder |
+| 963 | 52 | Amber Marie Lacey |
+| 964 | 52 | Diane Byrd |
+| 965 | 52 | Frisky Twist |
+| 966 | 52 | Chipper Spinzone |
+| 967 | 52 | Blossom48 |
 | 968 | 52 | David Cadiente |
 | 969 | 52 | Alimae |
 | 970 | 52 | Beth Engberg |
