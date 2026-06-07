@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 06:06:42 UTC
+# Standings for team2 as of 2026-06-07 06:07:19 UTC
 
 **Total Participants:** 1648
 
@@ -157,12 +157,12 @@
 | 149 | 386 | Frilly Dashfit |
 | 150 | 381 | Joslyn Johnson |
 | 151 | 380 | Zany Blockclear |
-| 152 | 375 | Milad Arzani |
-| 153 | 375 | MaddieCherie |
+| 152 | 375 | MaddieCherie |
+| 153 | 375 | Milad Arzani |
 | 154 | 365 | Branden Frankowski |
 | 155 | 362 | Nutty Curver |
-| 156 | 357 | Crystal Allen |
-| 157 | 357 | Erin Thomas |
+| 156 | 357 | Erin Thomas |
+| 157 | 357 | Crystal Allen |
 | 158 | 356 | Joni Michelle Morgan |
 | 159 | 354 | Zesty Strikerbuilder |
 | 160 | 348 | Eric Drane |
@@ -173,26 +173,26 @@
 | 165 | 340 | Amy Gregg |
 | 166 | 340 | Mom |
 | 167 | 336 | Jef Wassom |
-| 168 | 333 | Christina Maria |
-| 169 | 328 | Keri Mears |
-| 170 | 328 | Tim Tim |
-| 171 | 323 | Shannon Wilson |
-| 172 | 322 | Nikki Hayes |
-| 173 | 320 | Jacob Carpenter |
-| 174 | 319 | Flower_child |
-| 175 | 314 | Danielle Blount |
-| 176 | 311 | Hoppy Mover |
-| 177 | 310 | Jennifer Smith |
-| 178 | 303 | Chirpy Grid |
-| 179 | 302 | Hypee |
-| 180 | 300 | Linda Guay |
-| 181 | 300 | Hector |
-| 182 | 299 | Mookshake |
-| 183 | 298 | Heather Burgett |
-| 184 | 298 | Gill |
-| 185 | 298 | Breeana Bennett |
-| 186 | 296 | Brenda Jones |
-| 187 | 296 | Snappy Combo |
+| 168 | 336 | Gill |
+| 169 | 333 | Christina Maria |
+| 170 | 328 | Keri Mears |
+| 171 | 328 | Tim Tim |
+| 172 | 323 | Shannon Wilson |
+| 173 | 322 | Nikki Hayes |
+| 174 | 320 | Jacob Carpenter |
+| 175 | 319 | Flower_child |
+| 176 | 314 | Danielle Blount |
+| 177 | 311 | Hoppy Mover |
+| 178 | 310 | Jennifer Smith |
+| 179 | 303 | Chirpy Grid |
+| 180 | 302 | Hypee |
+| 181 | 300 | Linda Guay |
+| 182 | 300 | Hector |
+| 183 | 299 | Mookshake |
+| 184 | 298 | Breeana Bennett |
+| 185 | 298 | Heather Burgett |
+| 186 | 296 | Snappy Combo |
+| 187 | 296 | Brenda Jones |
 | 188 | 296 | Sara Perkins |
 | 189 | 295 | Brittney Williams |
 | 190 | 294 | Vistabrat |
@@ -213,17 +213,17 @@
 | 205 | 263 | Glitzy Base |
 | 206 | 262 | Cool Balancer |
 | 207 | 260 | Snappy Blockbuilder |
-| 208 | 259 | Jessica Lynn |
-| 209 | 259 | Angie Kowalsky Olson |
+| 208 | 259 | Angie Kowalsky Olson |
+| 209 | 259 | Jessica Lynn |
 | 210 | 257 | Jat |
 | 211 | 255 | Lisa Underwood Desmond |
 | 212 | 253 | Hilliary Beyer |
 | 213 | 253 | Marge Cromer |
 | 214 | 252 | Kathy Strickland |
-| 215 | 250 | marsam |
-| 216 | 250 | Iesha Cupil |
-| 217 | 247 | Fudgie Pie |
-| 218 | 247 | Brittni Lawrence |
+| 215 | 250 | Iesha Cupil |
+| 216 | 250 | marsam |
+| 217 | 247 | Brittni Lawrence |
+| 218 | 247 | Fudgie Pie |
 | 219 | 247 | Melissa Thomas |
 | 220 | 246 | Brooke Lynn Marie Adelaide |
 | 221 | 242 | Nikki EightySixed |
@@ -233,17 +233,17 @@
 | 225 | 237 | Michelle Luke Banta |
 | 226 | 236 | Lush Party |
 | 227 | 235 | Tami Kay Williams Watson |
-| 228 | 234 | Larry Cross |
+| 228 | 234 | Chipper Stackbuilder |
 | 229 | 234 | AndyJo |
-| 230 | 234 | Chipper Stackbuilder |
+| 230 | 234 | Larry Cross |
 | 231 | 233 | Amie Marks |
 | 232 | 232 | Pam Bauder Ludwig |
 | 233 | 230 | Brandy Chinelle |
 | 234 | 230 | Kelly Vedder |
 | 235 | 227 | Groovy Snapper |
 | 236 | 227 | Laura Melton |
-| 237 | 225 | Cheery Towerzone |
-| 238 | 225 | Jenny |
+| 237 | 225 | Jenny |
+| 238 | 225 | Cheery Towerzone |
 | 239 | 224 | Kathleen Keogh Van Schoyck |
 | 240 | 223 | SilentBuffalo |
 | 241 | 222 | Margie Ann Naffziger |
@@ -420,13 +420,13 @@
 | 412 | 124 | Angeleye A James |
 | 413 | 124 | Jason Burris |
 | 414 | 123 | Simone F |
-| 415 | 123 | Jumpy Matchbuilder |
-| 416 | 123 | Sassy Twistbuilder |
-| 417 | 122 | Kevin Patrick |
-| 418 | 122 | Katie Jones |
-| 419 | 122 | Maria Ward |
-| 420 | 121 | Lisa Allen Frisk |
-| 421 | 121 | Amber Smith |
+| 415 | 123 | Amber Smith |
+| 416 | 123 | Jumpy Matchbuilder |
+| 417 | 123 | Sassy Twistbuilder |
+| 418 | 122 | Kevin Patrick |
+| 419 | 122 | Katie Jones |
+| 420 | 122 | Maria Ward |
+| 421 | 121 | Lisa Allen Frisk |
 | 422 | 120 | Adam Latin |
 | 423 | 120 | Starvinmarvin |
 | 424 | 120 | Keisha Robinson |
@@ -478,15 +478,15 @@
 | 470 | 105 | Michael Saunders |
 | 471 | 105 | Saucy Wrecker |
 | 472 | 104 | Earline Dupuy Bordelon |
-| 473 | 104 | Roe Sarmiento |
-| 474 | 103 | Elizabeth Kline |
-| 475 | 102 | Nicole Sides KrazyKoop |
-| 476 | 102 | Alissa Ary |
-| 477 | 102 | Lively Curve |
-| 478 | 102 | Wendy Mcbride |
-| 479 | 102 | Erin Moore Galloway |
-| 480 | 101 | Jennifer Lalk |
-| 481 | 101 | Heather Billodeau |
+| 473 | 104 | Heather Billodeau |
+| 474 | 104 | Roe Sarmiento |
+| 475 | 103 | Elizabeth Kline |
+| 476 | 102 | Nicole Sides KrazyKoop |
+| 477 | 102 | Alissa Ary |
+| 478 | 102 | Lively Curve |
+| 479 | 102 | Wendy Mcbride |
+| 480 | 102 | Erin Moore Galloway |
+| 481 | 101 | Jennifer Lalk |
 | 482 | 100 | Gluten Gremlin |
 | 483 | 100 | Mandy |
 | 484 | 100 | Michael Carmichael |
