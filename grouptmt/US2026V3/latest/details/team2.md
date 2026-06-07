@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 12:36:41 UTC
+# Standings for team2 as of 2026-06-07 12:37:18 UTC
 
 **Total Participants:** 1723
 
@@ -40,7 +40,7 @@
 | 32 | 2715 | Angie BBlock |
 | 33 | 2701 | Charles Varca |
 | 34 | 2700 | boblawboblaw |
-| 35 | 2686 | Quirky Catcher |
+| 35 | 2696 | Quirky Catcher |
 | 36 | 2640 | Sean Rippa |
 | 37 | 2500 | Anthony Lilley |
 | 38 | 2287 | Christina Jambard Sampier |
@@ -111,12 +111,12 @@
 | 103 | 656 | Loopy Cascadepiece |
 | 104 | 654 | Bon Lynn |
 | 105 | 639 | Alison Waller |
-| 106 | 632 | Allie Bug |
-| 107 | 632 | Wmk Rathbun |
-| 108 | 629 | Mirr Lulu |
-| 109 | 627 | Le Sandy |
-| 110 | 620 | Amber-leigh Williams |
-| 111 | 612 | Josh Twilley |
+| 106 | 634 | Josh Twilley |
+| 107 | 632 | Allie Bug |
+| 108 | 632 | Wmk Rathbun |
+| 109 | 629 | Mirr Lulu |
+| 110 | 627 | Le Sandy |
+| 111 | 620 | Amber-leigh Williams |
 | 112 | 600 | LEW |
 | 113 | 592 | Pooh |
 | 114 | 592 | Brandon Link |
