@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 14:56:19 UTC
+# Standings for team2 as of 2026-06-07 14:56:40 UTC
 
 **Total Participants:** 1778
 
@@ -1027,83 +1027,83 @@
 | 1019 | 47 | Sara Moericke |
 | 1020 | 46 | Kalli Bonin |
 | 1021 | 46 | Cindy Wellman |
-| 1022 | 46 | shell |
+| 1022 | 46 | Giggly Buildgrid |
 | 1023 | 46 | Shannon Vanlester |
 | 1024 | 46 | Dani Newton |
 | 1025 | 46 | Collins |
 | 1026 | 46 | Thomas Chris |
 | 1027 | 46 | Matthew Black |
-| 1028 | 46 | Tabitha Ann Bullins-Cobb |
-| 1029 | 46 | Chill Clearbuilder |
-| 1030 | 46 | Melissa Mae |
-| 1031 | 46 | Giggly Buildgrid |
-| 1032 | 46 | Brittany Nichole Ellenburg |
-| 1033 | 46 | Jessica LeNeave |
-| 1034 | 45 | C.L. Deslongchamp |
-| 1035 | 45 | Linzy Ratliff |
-| 1036 | 45 | Witty Brickster |
-| 1037 | 45 | Nora Buchan |
-| 1038 | 45 | Giggy Snapper |
-| 1039 | 45 | Denise Morehart |
+| 1028 | 46 | shell |
+| 1029 | 46 | Tabitha Ann Bullins-Cobb |
+| 1030 | 46 | Chill Clearbuilder |
+| 1031 | 46 | Melissa Mae |
+| 1032 | 46 | Jessica LeNeave |
+| 1033 | 46 | Brittany Nichole Ellenburg |
+| 1034 | 45 | Chatty |
+| 1035 | 45 | C.L. Deslongchamp |
+| 1036 | 45 | Denise Morehart |
+| 1037 | 45 | Giggy Snapper |
+| 1038 | 45 | Nora Buchan |
+| 1039 | 45 | Chill Wipegrid |
 | 1040 | 45 | Breanna Dykes |
-| 1041 | 45 | Chill Wipegrid |
-| 1042 | 45 | Chatty |
-| 1043 | 45 | Thomas Johnstone |
-| 1044 | 45 | SaraAnn Gray Philbrick |
-| 1045 | 44 | Nicole Dyer |
+| 1041 | 45 | Witty Brickster |
+| 1042 | 45 | SaraAnn Gray Philbrick |
+| 1043 | 45 | Linzy Ratliff |
+| 1044 | 45 | Thomas Johnstone |
+| 1045 | 44 | Jackie Moran Tiller |
 | 1046 | 44 | Jenna Thorn |
-| 1047 | 44 | Blocker |
-| 1048 | 44 | Dandy Column |
-| 1049 | 44 | Cathy Lee Stoneking |
-| 1050 | 44 | Katie Boen |
-| 1051 | 44 | Jackie Moran Tiller |
-| 1052 | 44 | Kassie D Harmon |
-| 1053 | 44 | Cuca Perez |
+| 1047 | 44 | Dandy Column |
+| 1048 | 44 | Cathy Lee Stoneking |
+| 1049 | 44 | Katie Boen |
+| 1050 | 44 | Kassie D Harmon |
+| 1051 | 44 | Cuca Perez |
+| 1052 | 44 | Nicole Dyer |
+| 1053 | 44 | Blocker |
 | 1054 | 44 | Robert W Schwartz |
 | 1055 | 44 | Nerdy Gridlock |
 | 1056 | 44 | Heather Nicole |
-| 1057 | 43 | Kourtney Heiden-Hudson |
-| 1058 | 43 | Kayla Faulkiner |
-| 1059 | 43 | Peter Fogg |
-| 1060 | 43 | Betty Muise |
-| 1061 | 43 | Fluffypuffin |
-| 1062 | 43 | Jazzy |
-| 1063 | 43 | Quirky Shifter |
+| 1057 | 43 | Fluffypuffin |
+| 1058 | 43 | Betty Muise |
+| 1059 | 43 | Kayla Faulkiner |
+| 1060 | 43 | Kourtney Heiden-Hudson |
+| 1061 | 43 | Peter Fogg |
+| 1062 | 43 | Quirky Shifter |
+| 1063 | 43 | Amy Hahn Nickels |
 | 1064 | 43 | Destiny Turner |
-| 1065 | 43 | Amy Hahn Nickels |
+| 1065 | 43 | Jazzy |
 | 1066 | 42 | Aubrey Gates |
-| 1067 | 42 | Melissa Pronovost |
-| 1068 | 42 | Sami Amato |
-| 1069 | 42 | Blossom48 |
-| 1070 | 42 | MJLovesHer#OneMistake |
+| 1067 | 42 | Sami Amato |
+| 1068 | 42 | Blossom48 |
+| 1069 | 42 | Melissa Pronovost |
+| 1070 | 42 | Just Me |
 | 1071 | 42 | Shylo Bryant-Brunson |
-| 1072 | 42 | Snazzy Smasher |
-| 1073 | 42 | Clever Linkbuilder |
+| 1072 | 42 | MJLovesHer#OneMistake |
+| 1073 | 42 | Snazzy Smasher |
 | 1074 | 42 | Henny Henny |
-| 1075 | 42 | Jolly Balanceblock |
-| 1076 | 42 | Lori Antrim Nichols |
-| 1077 | 42 | Christopher S Lawyer |
-| 1078 | 41 | Steve Eakins |
-| 1079 | 41 | Jenifer Seeley |
-| 1080 | 41 | Clever Gridzone |
-| 1081 | 41 | Kodi Gay |
-| 1082 | 41 | Jenny Coffer |
-| 1083 | 41 | Meagan Thompson |
-| 1084 | 41 | KS Hengesbach |
+| 1075 | 42 | Clever Linkbuilder |
+| 1076 | 42 | Jolly Balanceblock |
+| 1077 | 42 | Lori Antrim Nichols |
+| 1078 | 42 | Christopher S Lawyer |
+| 1079 | 41 | Steve Eakins |
+| 1080 | 41 | Jenifer Seeley |
+| 1081 | 41 | Clever Gridzone |
+| 1082 | 41 | Kodi Gay |
+| 1083 | 41 | Jenny Coffer |
+| 1084 | 41 | Meagan Thompson |
 | 1085 | 41 | Kymberlee Rolinski |
-| 1086 | 41 | Baby |
-| 1087 | 40 | Tonya Templin Smith |
-| 1088 | 40 | Patty Ann Hendrickson |
+| 1086 | 41 | KS Hengesbach |
+| 1087 | 41 | Baby |
+| 1088 | 40 | Missy Stevens |
 | 1089 | 40 | Ahada Seber |
 | 1090 | 40 | Wendy Morrison |
-| 1091 | 40 | Missy Stevens |
+| 1091 | 40 | Patty Ann Hendrickson |
 | 1092 | 40 | Emma Danielle Wynn |
 | 1093 | 40 | Ashley Bennett |
 | 1094 | 40 | Devon |
-| 1095 | 40 | Ariya Colson |
-| 1096 | 40 | Tabetha Cooper |
-| 1097 | 40 | Dapper Pivotfall |
-| 1098 | 40 | Just Me |
+| 1095 | 40 | Tonya Templin Smith |
+| 1096 | 40 | Ariya Colson |
+| 1097 | 40 | Tabetha Cooper |
+| 1098 | 40 | Dapper Pivotfall |
 | 1099 | 40 | Kristy Moore |
 | 1100 | 40 | Shannon Michelle |
 | 1101 | 40 | Dee |
