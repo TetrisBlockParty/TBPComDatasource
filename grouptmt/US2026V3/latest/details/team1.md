@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 06:36:39 UTC
+# Standings for team1 as of 2026-06-07 06:37:18 UTC
 
 **Total Participants:** 1399
 
@@ -308,23 +308,23 @@
 | 300 | 143 | BULLSEYE |
 | 301 | 142 | Charlene Baltimore |
 | 302 | 142 | Matthieu Pistone |
-| 303 | 141 | Shalena Marie Humphrey |
-| 304 | 141 | Jhonny Maii |
+| 303 | 141 | Jhonny Maii |
+| 304 | 141 | Shalena Marie Humphrey |
 | 305 | 140 | Nerdy Blockpiece |
 | 306 | 140 | Antoinette Jones |
 | 307 | 138 | Tamika Rocheteau |
 | 308 | 137 | Lisa Fletcher |
 | 309 | 137 | Nickeya Phillips |
 | 310 | 137 | Tay |
-| 311 | 136 | Penee Wiggins |
-| 312 | 135 | Skippy |
-| 313 | 135 | Sean White |
+| 311 | 136 | McKayla Owens |
+| 312 | 136 | Penee Wiggins |
+| 313 | 135 | Skippy |
 | 314 | 135 | Saucy Tile |
-| 315 | 134 | Brittanie Wardlow |
-| 316 | 134 | Peppy Glider |
-| 317 | 134 | Perky Pusher |
-| 318 | 134 | Giggy Tower |
-| 319 | 134 | McKayla Owens |
+| 315 | 135 | Sean White |
+| 316 | 134 | Perky Pusher |
+| 317 | 134 | Giggy Tower |
+| 318 | 134 | Brittanie Wardlow |
+| 319 | 134 | Peppy Glider |
 | 320 | 133 | Tasha |
 | 321 | 132 | Tremaine Hiler |
 | 322 | 132 | Chirpy Buildgrid |
@@ -1343,18 +1343,18 @@
 | 1335 | 8 | Sean Walker |
 | 1336 | 8 | jus_ry |
 | 1337 | 8 | Plucky Twist |
-| 1338 | 8 | Chill Tumbler |
-| 1339 | 8 | Rixo Blax |
-| 1340 | 8 | Dave Breaker |
-| 1341 | 8 | Nicolej |
-| 1342 | 8 | Almarasha Grice |
-| 1343 | 8 | Chantae Maxwell |
-| 1344 | 7 | Deadra Graham |
+| 1338 | 8 | Toohartless Mech |
+| 1339 | 8 | Chill Tumbler |
+| 1340 | 8 | Rixo Blax |
+| 1341 | 8 | Dave Breaker |
+| 1342 | 8 | Nicolej |
+| 1343 | 8 | Almarasha Grice |
+| 1344 | 8 | Chantae Maxwell |
 | 1345 | 7 | Stephanie L Jeffries Moultrie |
-| 1346 | 7 | John Boone |
+| 1346 | 7 | Deadra Graham |
 | 1347 | 7 | Alexis Farquer |
-| 1348 | 7 | J Dot Flo |
-| 1349 | 7 | Toohartless Mech |
+| 1348 | 7 | John Boone |
+| 1349 | 7 | J Dot Flo |
 | 1350 | 7 | Mary2 |
 | 1351 | 7 | Court Ney |
 | 1352 | 7 | Sheena Hamilton |
