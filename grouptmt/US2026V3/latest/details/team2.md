@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 10:17:18 UTC
+# Standings for team2 as of 2026-06-07 10:18:18 UTC
 
 **Total Participants:** 1697
 
@@ -25,7 +25,7 @@
 | 17 | 3997 | Ber |
 | 18 | 3984 | Amber |
 | 19 | 3950 | Erica Dees Parks |
-| 20 | 3913 | Jewels |
+| 20 | 3932 | Jewels |
 | 21 | 3812 | Crystal M Sowden |
 | 22 | 3702 | Renee Weedling |
 | 23 | 3514 | Traci Elizabeth |
@@ -159,11 +159,11 @@
 | 151 | 389 | Bridget N Jonathan Franz |
 | 152 | 386 | Frilly Dashfit |
 | 153 | 384 | Lisa Underwood Desmond |
-| 154 | 381 | Joslyn Johnson |
-| 155 | 380 | Zany Blockclear |
-| 156 | 375 | Milad Arzani |
-| 157 | 375 | MaddieCherie |
-| 158 | 373 | Groovy Snapper |
+| 154 | 383 | Groovy Snapper |
+| 155 | 381 | Joslyn Johnson |
+| 156 | 380 | Zany Blockclear |
+| 157 | 375 | Milad Arzani |
+| 158 | 375 | MaddieCherie |
 | 159 | 367 | Nutty Curver |
 | 160 | 365 | Branden Frankowski |
 | 161 | 360 | Jacob Carpenter |
@@ -373,29 +373,29 @@
 | 365 | 156 | meg |
 | 366 | 156 | Tango Sierra |
 | 367 | 156 | Jamie Fenyus |
-| 368 | 154 | murd3rmous3 |
-| 369 | 153 | Cortney Coleman |
-| 370 | 151 | Amy Lea Hamilton |
-| 371 | 150 | Marylin Eacker |
-| 372 | 150 | Zany Wrecker |
+| 368 | 155 | Teddy Williams |
+| 369 | 154 | murd3rmous3 |
+| 370 | 153 | Cortney Coleman |
+| 371 | 151 | Amy Lea Hamilton |
+| 372 | 150 | Marylin Eacker |
 | 373 | 150 | Crystal Poss |
-| 374 | 149 | Jenni LeBlanc |
-| 375 | 148 | Nano. |
-| 376 | 148 | Ashley Miller |
-| 377 | 148 | Wayne Johnson |
-| 378 | 146 | Darla Nolt |
-| 379 | 145 | Alicia Parrish |
-| 380 | 144 | Will Jones |
-| 381 | 144 | Funway998 |
-| 382 | 144 | Analee Nicole Jones |
-| 383 | 143 | Paula Haskins |
-| 384 | 143 | Amanda L Strong |
-| 385 | 143 | Spicy Basepiece |
-| 386 | 142 | Spunky Cascadeclear |
-| 387 | 141 | Jacquelyn Snyder Dumas |
-| 388 | 141 | Loopy Tower |
-| 389 | 140 | Sharon L Brazelton |
-| 390 | 140 | Teddy Williams |
+| 374 | 150 | Zany Wrecker |
+| 375 | 149 | Jenni LeBlanc |
+| 376 | 148 | Nano. |
+| 377 | 148 | Ashley Miller |
+| 378 | 148 | Wayne Johnson |
+| 379 | 146 | Darla Nolt |
+| 380 | 145 | Alicia Parrish |
+| 381 | 144 | Will Jones |
+| 382 | 144 | Funway998 |
+| 383 | 144 | Analee Nicole Jones |
+| 384 | 143 | Paula Haskins |
+| 385 | 143 | Amanda L Strong |
+| 386 | 143 | Spicy Basepiece |
+| 387 | 142 | Spunky Cascadeclear |
+| 388 | 141 | Jacquelyn Snyder Dumas |
+| 389 | 141 | Loopy Tower |
+| 390 | 140 | Sharon L Brazelton |
 | 391 | 140 | Alicia Kinney |
 | 392 | 139 | Gabrielle Wilson |
 | 393 | 139 | rebel4lyfe |
