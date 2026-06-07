@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 22:54:41 UTC
+# Standings for team4 as of 2026-06-07 22:55:19 UTC
 
 **Total Participants:** 1646
 
@@ -251,36 +251,36 @@
 | 243 | 244 | beauxie |
 | 244 | 244 | Queen B |
 | 245 | 243 | Chirpy Link |
-| 246 | 241 | Alma López Morales |
-| 247 | 240 | blockhead |
-| 248 | 239 | Shauna Davis |
-| 249 | 238 | Tara Delay Hill |
-| 250 | 236 | Dae Von |
-| 251 | 236 | Becky McCool |
-| 252 | 234 | Jackie Polanco |
-| 253 | 233 | Joseph Hunter |
-| 254 | 232 | Pepper |
-| 255 | 230 | gabs |
-| 256 | 228 | SupaFly |
-| 257 | 228 | Shiny Brick |
-| 258 | 227 | Stephanie Myers |
-| 259 | 226 | Justin Michael |
-| 260 | 226 | Susan Stofberg Beltran |
-| 261 | 226 | Snippy Splitter |
-| 262 | 226 | Sassy Rollpiece |
-| 263 | 225 | Erika Seaton |
-| 264 | 225 | Melika Zeheb |
-| 265 | 225 | No Time |
-| 266 | 223 | Leslie Ann Carter |
-| 267 | 222 | Tiffany Bunker-Hill |
+| 246 | 242 | Tiffany Bunker-Hill |
+| 247 | 241 | Alma López Morales |
+| 248 | 240 | blockhead |
+| 249 | 239 | Shauna Davis |
+| 250 | 238 | Tara Delay Hill |
+| 251 | 236 | Dae Von |
+| 252 | 236 | Becky McCool |
+| 253 | 234 | Jackie Polanco |
+| 254 | 233 | Joseph Hunter |
+| 255 | 232 | Pepper |
+| 256 | 230 | gabs |
+| 257 | 228 | SupaFly |
+| 258 | 228 | Shiny Brick |
+| 259 | 227 | Stephanie Myers |
+| 260 | 226 | Justin Michael |
+| 261 | 226 | Susan Stofberg Beltran |
+| 262 | 226 | Snippy Splitter |
+| 263 | 226 | Sassy Rollpiece |
+| 264 | 225 | Erika Seaton |
+| 265 | 225 | Melika Zeheb |
+| 266 | 225 | No Time |
+| 267 | 223 | Leslie Ann Carter |
 | 268 | 222 | Kimyatta Cavin |
 | 269 | 222 | Karen Davis |
 | 270 | 221 | JuicyJuice |
 | 271 | 221 | Jackie Miller |
-| 272 | 220 | Anthony Magaraci |
-| 273 | 220 | Maurice DeJean |
-| 274 | 220 | Sarah Montagne Forsberg |
-| 275 | 220 | Saucy Wipepiece |
+| 272 | 220 | Maurice DeJean |
+| 273 | 220 | Anthony Magaraci |
+| 274 | 220 | Saucy Wipepiece |
+| 275 | 220 | Sarah Montagne Forsberg |
 | 276 | 218 | Lori Stembridge |
 | 277 | 217 | Logan Two-dubs Baker |
 | 278 | 216 | Alyson M Kehler |
@@ -377,24 +377,24 @@
 | 369 | 163 | Dizzy Slammer |
 | 370 | 162 | Rita Ann |
 | 371 | 162 | Stephanie Brock |
-| 372 | 162 | Ashley Eskridge |
-| 373 | 161 | Dominique Melendez |
-| 374 | 160 | Sherry Mooney |
-| 375 | 160 | Mrs |
-| 376 | 160 | Shanna Fragen |
+| 372 | 162 | Shanna Fragen |
+| 373 | 162 | Ashley Eskridge |
+| 374 | 161 | Dominique Melendez |
+| 375 | 160 | Sherry Mooney |
+| 376 | 160 | Mrs |
 | 377 | 160 | Bre Dee |
 | 378 | 159 | JoAnn Summerlot Ratliff |
 | 379 | 159 | Rose Anna Safi |
-| 380 | 159 | Henry Lanier |
-| 381 | 159 | Chirpy Snapclear |
-| 382 | 158 | Miss Beast |
-| 383 | 158 | Juvon SupaShawdii Brooks |
+| 380 | 159 | Chirpy Snapclear |
+| 381 | 159 | Henry Lanier |
+| 382 | 158 | Juvon SupaShawdii Brooks |
+| 383 | 158 | Miss Beast |
 | 384 | 158 | crobb77 |
 | 385 | 157 | Laguya |
 | 386 | 157 | Deborah Silberg |
 | 387 | 156 | Funky Tiler |
-| 388 | 155 | 1694AF |
-| 389 | 155 | Shayna Vaigneur-Hall |
+| 388 | 155 | Shayna Vaigneur-Hall |
+| 389 | 155 | 1694AF |
 | 390 | 155 | Tricia Motika Cowan |
 | 391 | 155 | Keith Kosmicki |
 | 392 | 155 | Cherrypir05 |
