@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 13:36:19 UTC
+# Standings for team4 as of 2026-06-07 13:36:41 UTC
 
 **Total Participants:** 1472
 
@@ -50,7 +50,7 @@
 | 42 | 1570 | Dheeh Robles |
 | 43 | 1569 | Annastaissia Todd |
 | 44 | 1400 | Michele |
-| 45 | 1381 | Victoria Ver |
+| 45 | 1391 | Victoria Ver |
 | 46 | 1380 | Jennifer Edgell Richardson |
 | 47 | 1357 | 626 |
 | 48 | 1249 | Charlie Lewis |
@@ -106,9 +106,9 @@
 | 98 | 621 | Gracie Ornelas |
 | 99 | 620 | Fancy Crasher |
 | 100 | 607 | Jeremy Lopez |
-| 101 | 586 | Jason Garnatz |
-| 102 | 580 | Dandy Clearfit |
-| 103 | 562 | Sweet Stacker |
+| 101 | 605 | Sweet Stacker |
+| 102 | 586 | Jason Garnatz |
+| 103 | 580 | Dandy Clearfit |
 | 104 | 550 | Nicole Peoples |
 | 105 | 530 | Jewelz |
 | 106 | 521 | Misty Leigh |
@@ -272,20 +272,20 @@
 | 264 | 181 | JuicyJuice |
 | 265 | 181 | EL Booger |
 | 266 | 180 | ariel |
-| 267 | 180 | Kelly Howland |
-| 268 | 179 | LaTanya GeminiondaRise Johnson |
-| 269 | 179 | bollo |
-| 270 | 178 | Jacqueline Jackii Ramos |
-| 271 | 178 | Tamara Triplet |
-| 272 | 177 | Mark Norton |
-| 273 | 177 | Damon Gaston |
-| 274 | 176 | Nicole Dombrow |
-| 275 | 175 | Bonnie Powell |
-| 276 | 174 | Clashy |
-| 277 | 173 | Ashley Mcdonald |
-| 278 | 172 | Danny Frausto |
-| 279 | 171 | Dayna Arthurs |
-| 280 | 171 | Solace Grace |
+| 267 | 180 | Solace Grace |
+| 268 | 180 | Kelly Howland |
+| 269 | 179 | LaTanya GeminiondaRise Johnson |
+| 270 | 179 | bollo |
+| 271 | 178 | Jacqueline Jackii Ramos |
+| 272 | 178 | Tamara Triplet |
+| 273 | 177 | Mark Norton |
+| 274 | 177 | Damon Gaston |
+| 275 | 176 | Nicole Dombrow |
+| 276 | 175 | Bonnie Powell |
+| 277 | 174 | Clashy |
+| 278 | 173 | Ashley Mcdonald |
+| 279 | 172 | Danny Frausto |
+| 280 | 171 | Dayna Arthurs |
 | 281 | 171 | Bridget Stevens |
 | 282 | 169 | Jennifer Fisher Franklin |
 | 283 | 169 | Tiffany Smith |

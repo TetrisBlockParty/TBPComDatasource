@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 13:36:19 UTC
+# Standings for team1 as of 2026-06-07 13:36:41 UTC
 
 **Total Participants:** 1469
 
@@ -526,10 +526,10 @@
 | 518 | 90 | mya |
 | 519 | 90 | CJ Robinson |
 | 520 | 90 | Jjhandsome |
-| 521 | 90 | crumb bumc |
-| 522 | 90 | Shameka Tiffany |
-| 523 | 89 | Tracy Feyler |
-| 524 | 89 | Betsy B. Yohan |
+| 521 | 90 | Betsy B. Yohan |
+| 522 | 90 | crumb bumc |
+| 523 | 90 | Shameka Tiffany |
+| 524 | 89 | Tracy Feyler |
 | 525 | 89 | Daring Riserfit |
 | 526 | 89 | Cynthia Cruell |
 | 527 | 89 | Jenni Hardman |
@@ -774,64 +774,64 @@
 | 766 | 56 | Lisa Ivy |
 | 767 | 55 | Jane Lame |
 | 768 | 55 | KoolKimJay |
-| 769 | 55 | Vernon Hoyt |
-| 770 | 55 | Witty Clear |
-| 771 | 55 | Kyle Franklin |
-| 772 | 55 | nameno |
-| 773 | 55 | Shakmar |
-| 774 | 55 | PSD |
-| 775 | 54 | John Spath |
-| 776 | 54 | Antoinette Kelly |
-| 777 | 54 | Embracing Hair |
-| 778 | 54 | Markeita Jones |
-| 779 | 54 | Felicia Yahuah Johnson |
-| 780 | 54 | Dennis Ripley |
-| 781 | 54 | deeno |
-| 782 | 54 | Kashh |
-| 783 | 54 | Ace Hardware |
-| 784 | 54 | Katness |
-| 785 | 53 | Barbramerri Tarboro |
-| 786 | 53 | Haakuu |
-| 787 | 53 | Clever Wrecker |
-| 788 | 53 | Shona ShayShay Jones |
-| 789 | 53 | Xrandomx |
-| 790 | 53 | Morenita Rodriguez |
-| 791 | 53 | Williams Candace |
-| 792 | 53 | brite |
-| 793 | 53 | Heather Wilson |
-| 794 | 53 | BonnieB |
-| 795 | 52 | Chummy Liner |
+| 769 | 55 | Shakmar |
+| 770 | 55 | Kyle Franklin |
+| 771 | 55 | nameno |
+| 772 | 55 | Vernon Hoyt |
+| 773 | 55 | PSD |
+| 774 | 55 | Witty Clear |
+| 775 | 54 | Katness |
+| 776 | 54 | Dennis Ripley |
+| 777 | 54 | John Spath |
+| 778 | 54 | Felicia Yahuah Johnson |
+| 779 | 54 | Embracing Hair |
+| 780 | 54 | Antoinette Kelly |
+| 781 | 54 | Markeita Jones |
+| 782 | 54 | Ace Hardware |
+| 783 | 54 | Kashh |
+| 784 | 54 | deeno |
+| 785 | 53 | Clever Wrecker |
+| 786 | 53 | Barbramerri Tarboro |
+| 787 | 53 | Shona ShayShay Jones |
+| 788 | 53 | Spicy Hedgehog |
+| 789 | 53 | Haakuu |
+| 790 | 53 | brite |
+| 791 | 53 | BonnieB |
+| 792 | 53 | Xrandomx |
+| 793 | 53 | Morenita Rodriguez |
+| 794 | 53 | Heather Wilson |
+| 795 | 53 | Williams Candace |
 | 796 | 52 | Raymond Boosie Freeman |
-| 797 | 52 | Tootsie Pop |
-| 798 | 52 | Tray Tolliver |
-| 799 | 52 | Giggy Holder |
-| 800 | 52 | Loopy Risepiece |
-| 801 | 52 | Abdul Malik |
-| 802 | 51 | Evelyn Epps |
-| 803 | 51 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 804 | 51 | Oaklonboy mike |
-| 805 | 51 | Shanjerrica Taylor Rosell |
-| 806 | 51 | BrettanMary Adkins |
-| 807 | 51 | Boldy Matchfit |
-| 808 | 51 | Bunnie Celtavini |
-| 809 | 50 | Spicy Hedgehog |
-| 810 | 50 | Paul Doty |
-| 811 | 50 | Kanary Karotz |
-| 812 | 50 | Bold Spinblock |
-| 813 | 50 | Amaadi Ward |
-| 814 | 50 | Perky Balancer |
-| 815 | 50 | MsBobby Patrick |
-| 816 | 50 | Slinky Fallzone |
-| 817 | 50 | Benjamin Livingston |
-| 818 | 50 | Denell Sims |
-| 819 | 50 | Daring Linkfall |
-| 820 | 50 | Rissa Rozay |
+| 797 | 52 | Tray Tolliver |
+| 798 | 52 | Giggy Holder |
+| 799 | 52 | Tootsie Pop |
+| 800 | 52 | Chummy Liner |
+| 801 | 52 | Loopy Risepiece |
+| 802 | 52 | Abdul Malik |
+| 803 | 51 | Bunnie Celtavini |
+| 804 | 51 | Evelyn Epps |
+| 805 | 51 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 806 | 51 | Boldy Matchfit |
+| 807 | 51 | BrettanMary Adkins |
+| 808 | 51 | Shanjerrica Taylor Rosell |
+| 809 | 51 | Oaklonboy mike |
+| 810 | 50 | Bold Spinblock |
+| 811 | 50 | Rissa Rozay |
+| 812 | 50 | Paul Doty |
+| 813 | 50 | Daring Linkfall |
+| 814 | 50 | Denell Sims |
+| 815 | 50 | Kanary Karotz |
+| 816 | 50 | Benjamin Livingston |
+| 817 | 50 | Amaadi Ward |
+| 818 | 50 | Perky Balancer |
+| 819 | 50 | MsBobby Patrick |
+| 820 | 50 | Slinky Fallzone |
 | 821 | 50 | Tramaine Crockrum |
-| 822 | 49 | Latoya Carson |
-| 823 | 49 | SnazzyIvy |
-| 824 | 49 | Saucy Crusher |
-| 825 | 49 | Ķïrãã Ďãvïss |
-| 826 | 49 | Stronger Wiser Better |
+| 822 | 49 | SnazzyIvy |
+| 823 | 49 | Ķïrãã Ďãvïss |
+| 824 | 49 | Latoya Carson |
+| 825 | 49 | Stronger Wiser Better |
+| 826 | 49 | Saucy Crusher |
 | 827 | 49 | Teisha Scott |
 | 828 | 49 | Ashley Davis |
 | 829 | 48 | P C |
@@ -846,7 +846,7 @@
 | 838 | 48 | RylonJones |
 | 839 | 48 | Krystal Maynard |
 | 840 | 48 | LaTonya Rivers |
-| 841 | 47 | Jessie N Michael Silvers |
+| 841 | 47 | Tushama Cheris Okraku |
 | 842 | 47 | Kevin Turner |
 | 843 | 47 | Austin Smith |
 | 844 | 47 | Jojo M |
@@ -854,7 +854,7 @@
 | 846 | 47 | Denise Cunningham-English |
 | 847 | 47 | William Vidra |
 | 848 | 47 | Taylor Jordan Hollis |
-| 849 | 47 | Tushama Cheris Okraku |
+| 849 | 47 | Jessie N Michael Silvers |
 | 850 | 47 | Jodie |
 | 851 | 47 | Tyrone Porter |
 | 852 | 46 | Smiley Bridgepiece |
