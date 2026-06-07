@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 09:26:18 UTC
+# Standings for team1 as of 2026-06-07 09:26:41 UTC
 
 **Total Participants:** 1431
 
@@ -9,7 +9,7 @@
 | 1 | 22000 | Kalynn Parks |
 | 2 | 19500 | Ariel |
 | 3 | 9170 | Charnay Peacock |
-| 4 | 8446 | Tyeina Johnson |
+| 4 | 8746 | Tyeina Johnson |
 | 5 | 7732 | Carrie English |
 | 6 | 7602 | Charlie Roehm |
 | 7 | 7059 | Tracy Cohen |

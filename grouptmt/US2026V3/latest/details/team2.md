@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:26:18 UTC
+# Standings for team2 as of 2026-06-07 09:26:41 UTC
 
 **Total Participants:** 1689
 
@@ -139,7 +139,7 @@
 | 131 | 476 | snowwol |
 | 132 | 466 | Judy Long |
 | 133 | 458 | Kaycie Shaffer |
-| 134 | 455 | Bubbly Strikerpiece |
+| 134 | 457 | Bubbly Strikerpiece |
 | 135 | 453 | Kimberly Cowan |
 | 136 | 448 | Pooh |
 | 137 | 438 | Michelle Rich Burkhart |
@@ -967,75 +967,75 @@
 | 959 | 43 | Jazzy |
 | 960 | 43 | Kayla Faulkiner |
 | 961 | 43 | Peter Fogg |
-| 962 | 42 | Blossom48 |
+| 962 | 42 | MJLovesHer#OneMistake |
 | 963 | 42 | Christopher S Lawyer |
-| 964 | 42 | Henny Henny |
-| 965 | 42 | Sami Amato |
-| 966 | 42 | Clever Linkbuilder |
-| 967 | 42 | Aubrey Gates |
-| 968 | 42 | Snazzy Smasher |
-| 969 | 42 | MJLovesHer#OneMistake |
-| 970 | 42 | Shylo Bryant-Brunson |
-| 971 | 42 | Melissa Pronovost |
+| 964 | 42 | Clever Linkbuilder |
+| 965 | 42 | Blossom48 |
+| 966 | 42 | Shylo Bryant-Brunson |
+| 967 | 42 | Melissa Pronovost |
+| 968 | 42 | Aubrey Gates |
+| 969 | 42 | Snazzy Smasher |
+| 970 | 42 | Henny Henny |
+| 971 | 42 | Sami Amato |
 | 972 | 42 | Cuca Perez |
-| 973 | 41 | Steve Eakins |
-| 974 | 41 | Jenifer Seeley |
-| 975 | 41 | Clever Gridzone |
-| 976 | 41 | Jenny Coffer |
-| 977 | 41 | KS Hengesbach |
-| 978 | 41 | Kodi Gay |
-| 979 | 41 | Kymberlee Rolinski |
-| 980 | 41 | Meagan Thompson |
-| 981 | 41 | Baby |
-| 982 | 41 | Gino Positano |
-| 983 | 41 | Silly Swiper |
-| 984 | 40 | Brandi Williams |
-| 985 | 40 | Elicia Lloyd-Zazweta |
+| 973 | 41 | Jenifer Seeley |
+| 974 | 41 | KS Hengesbach |
+| 975 | 41 | Kodi Gay |
+| 976 | 41 | Gino Positano |
+| 977 | 41 | Silly Swiper |
+| 978 | 41 | Clever Gridzone |
+| 979 | 41 | Melissa Mae |
+| 980 | 41 | Jenny Coffer |
+| 981 | 41 | Steve Eakins |
+| 982 | 41 | Kymberlee Rolinski |
+| 983 | 41 | Meagan Thompson |
+| 984 | 41 | Baby |
+| 985 | 40 | Tonya Templin Smith |
 | 986 | 40 | Mandy Smart |
-| 987 | 40 | Jessica Garoutte |
-| 988 | 40 | Dolly |
-| 989 | 40 | Tonya Templin Smith |
-| 990 | 40 | Emma Danielle Wynn |
-| 991 | 40 | Ashley Bennett |
-| 992 | 40 | Patty Ann Hendrickson |
-| 993 | 40 | Shannon Michelle |
-| 994 | 40 | Billie Jo Butler |
-| 995 | 40 | Debbie Davis |
-| 996 | 40 | Jenny Bishop |
-| 997 | 40 | fancypants |
-| 998 | 40 | Shay Lynn King |
-| 999 | 40 | Ariya Colson |
-| 1000 | 40 | Cassafrass |
-| 1001 | 40 | Nerdy Spinfit |
-| 1002 | 40 | Deena-Neal Peryer |
-| 1003 | 40 | Devon |
-| 1004 | 40 | Cary M. Fong |
-| 1005 | 40 | Heather Klaus |
-| 1006 | 40 | Missy Stevens |
-| 1007 | 40 | Val |
-| 1008 | 40 | Sharilyn Jackson |
-| 1009 | 40 | Kacey Bates |
-| 1010 | 40 | Alisha Shelton |
-| 1011 | 40 | Ahada Seber |
-| 1012 | 40 | Heather Lewis |
-| 1013 | 40 | Jay Theriault |
-| 1014 | 40 | Jeremy Daurbigny |
-| 1015 | 40 | Spicy Balanceblock |
-| 1016 | 40 | Dapper Pivotfall |
+| 987 | 40 | Dolly |
+| 988 | 40 | Ariya Colson |
+| 989 | 40 | Shay Lynn King |
+| 990 | 40 | Brandi Williams |
+| 991 | 40 | fancypants |
+| 992 | 40 | Elicia Lloyd-Zazweta |
+| 993 | 40 | Jessica Garoutte |
+| 994 | 40 | Jenny Bishop |
+| 995 | 40 | Ashley Bennett |
+| 996 | 40 | Debbie Davis |
+| 997 | 40 | Emma Danielle Wynn |
+| 998 | 40 | Billie Jo Butler |
+| 999 | 40 | Shannon Michelle |
+| 1000 | 40 | Patty Ann Hendrickson |
+| 1001 | 40 | Cassafrass |
+| 1002 | 40 | Nerdy Spinfit |
+| 1003 | 40 | Deena-Neal Peryer |
+| 1004 | 40 | Devon |
+| 1005 | 40 | Cary M. Fong |
+| 1006 | 40 | Heather Klaus |
+| 1007 | 40 | Missy Stevens |
+| 1008 | 40 | Val |
+| 1009 | 40 | Sharilyn Jackson |
+| 1010 | 40 | Kacey Bates |
+| 1011 | 40 | Alisha Shelton |
+| 1012 | 40 | Ahada Seber |
+| 1013 | 40 | Heather Lewis |
+| 1014 | 40 | Jay Theriault |
+| 1015 | 40 | Jeremy Daurbigny |
+| 1016 | 40 | Spicy Balanceblock |
 | 1017 | 40 | Courtney Ribas |
-| 1018 | 40 | Michael Lott |
-| 1019 | 40 | Melissa Mae |
-| 1020 | 40 | Kristy Moore |
-| 1021 | 40 | Tabetha Cooper |
-| 1022 | 39 | Shiny Matchpiece |
-| 1023 | 39 | Carlee Becher |
+| 1018 | 40 | Tabetha Cooper |
+| 1019 | 40 | Dapper Pivotfall |
+| 1020 | 40 | Michael Lott |
+| 1021 | 40 | Kristy Moore |
+| 1022 | 39 | Carlee Becher |
+| 1023 | 39 | Kristen Alta |
 | 1024 | 39 | Rebecca Boling |
 | 1025 | 39 | Kay Newcomb |
 | 1026 | 39 | Joslyn Erickson |
-| 1027 | 39 | Vicki Flippo |
+| 1027 | 39 | Shiny Matchpiece |
 | 1028 | 39 | Goofy Patternfit |
-| 1029 | 39 | KCBlocker |
-| 1030 | 39 | Kristen Alta |
+| 1029 | 39 | Vicki Flippo |
+| 1030 | 39 | KCBlocker |
 | 1031 | 39 | Sara Karels |
 | 1032 | 39 | Samantha Brown |
 | 1033 | 39 | Slinky Towerpiece |
