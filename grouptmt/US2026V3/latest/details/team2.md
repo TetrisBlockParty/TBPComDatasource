@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 01:58:18 UTC
+# Standings for team2 as of 2026-06-07 01:58:39 UTC
 
 **Total Participants:** 1521
 
@@ -184,15 +184,15 @@
 | 176 | 278 | Ashley Billiot Rhodes |
 | 177 | 277 | Sarah Mccolgan |
 | 178 | 277 | DayDreamer79 |
-| 179 | 270 | Brenda Jones |
-| 180 | 270 | Amber Wolf |
-| 181 | 269 | Ackerman 85 |
-| 182 | 262 | Cool Balancer |
-| 183 | 261 | Becca Marie |
-| 184 | 260 | giamy |
-| 185 | 260 | Snappy Blockbuilder |
-| 186 | 259 | Angie Kowalsky Olson |
-| 187 | 254 | Mookshake |
+| 179 | 274 | Mookshake |
+| 180 | 270 | Brenda Jones |
+| 181 | 270 | Amber Wolf |
+| 182 | 269 | Ackerman 85 |
+| 183 | 262 | Cool Balancer |
+| 184 | 261 | Becca Marie |
+| 185 | 260 | giamy |
+| 186 | 260 | Snappy Blockbuilder |
+| 187 | 259 | Angie Kowalsky Olson |
 | 188 | 253 | Hilliary Beyer |
 | 189 | 253 | Marge Cromer |
 | 190 | 251 | Jessica Lynn |
