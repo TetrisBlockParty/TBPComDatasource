@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 09:22:18 UTC
+# Standings for team4 as of 2026-06-07 09:22:39 UTC
 
 **Total Participants:** 1428
 
@@ -110,9 +110,9 @@
 | 102 | 512 | Esther Hadassah |
 | 103 | 511 | Nikki Fuller Johnson |
 | 104 | 510 | Krysten Danielle Richard |
-| 105 | 483 | Katie Lynn Petit |
-| 106 | 477 | Malik Thompson |
-| 107 | 476 | CJ |
+| 105 | 498 | CJ |
+| 106 | 483 | Katie Lynn Petit |
+| 107 | 477 | Malik Thompson |
 | 108 | 473 | vag1974 |
 | 109 | 461 | Kayla Fuentes |
 | 110 | 461 | Cranky Towerbuilder |
@@ -187,8 +187,8 @@
 | 179 | 262 | squareMel |
 | 180 | 261 | Waxboss |
 | 181 | 259 | Jessica Peyton |
-| 182 | 253 | Tammy June |
-| 183 | 251 | Maria Castillo |
+| 182 | 254 | Maria Castillo |
+| 183 | 253 | Tammy June |
 | 184 | 248 | Perky Riserbuilder |
 | 185 | 247 | LastBoi |
 | 186 | 245 | Lucy Honer |

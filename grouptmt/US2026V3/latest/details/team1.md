@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 09:22:18 UTC
+# Standings for team1 as of 2026-06-07 09:22:39 UTC
 
 **Total Participants:** 1431
 
@@ -131,8 +131,8 @@
 | 123 | 412 | Sarah Marie |
 | 124 | 410 | ELM |
 | 125 | 409 | Andre Sanon |
-| 126 | 404 | Hyper Slamdrop |
-| 127 | 404 | Jason Mungin |
+| 126 | 404 | Jason Mungin |
+| 127 | 404 | Hyper Slamdrop |
 | 128 | 401 | Shell Lewis |
 | 129 | 393 | Tobey Marberry |
 | 130 | 393 | SPNLover24 |
@@ -148,8 +148,8 @@
 | 140 | 361 | John Staub |
 | 141 | 353 | Lashaunda |
 | 142 | 351 | Uneekly Mayde |
-| 143 | 348 | LeeLee08 |
-| 144 | 348 | pooh |
+| 143 | 348 | pooh |
+| 144 | 348 | LeeLee08 |
 | 145 | 339 | Ty Øtg |
 | 146 | 338 | Jenna Renee |
 | 147 | 336 | Ceilo Marie |
@@ -158,22 +158,22 @@
 | 150 | 328 | Dynah Gordon |
 | 151 | 328 | Jonathan Vee Jay |
 | 152 | 323 | Sheila Burnham |
-| 153 | 312 | Michelle Titus |
-| 154 | 311 | Tina Mitchell |
+| 153 | 318 | Mimi 1.0 |
+| 154 | 312 | Michelle Titus |
 | 155 | 311 | Simmone T. Kadiri |
-| 156 | 309 | Chantelle Lee |
-| 157 | 308 | Dena Marie Lee |
-| 158 | 307 | Therealdywoune Peay |
-| 159 | 303 | Roberta Lynn |
-| 160 | 300 | Atlantalindi |
-| 161 | 300 | Dee McCool |
-| 162 | 300 | Felicia Cain |
-| 163 | 298 | Leebo Slice |
-| 164 | 297 | Tammye Turner |
-| 165 | 296 | Tamara N Lee |
-| 166 | 296 | Rolanda Williams |
-| 167 | 291 | Brian Taylor |
-| 168 | 290 | Mimi 1.0 |
+| 156 | 311 | Tina Mitchell |
+| 157 | 309 | Chantelle Lee |
+| 158 | 308 | Dena Marie Lee |
+| 159 | 307 | Therealdywoune Peay |
+| 160 | 303 | Roberta Lynn |
+| 161 | 300 | Atlantalindi |
+| 162 | 300 | Dee McCool |
+| 163 | 300 | Felicia Cain |
+| 164 | 298 | Leebo Slice |
+| 165 | 297 | Tammye Turner |
+| 166 | 296 | Tamara N Lee |
+| 167 | 296 | Rolanda Williams |
+| 168 | 291 | Brian Taylor |
 | 169 | 290 | Kaleisha Smith |
 | 170 | 290 | Eugina Slater |
 | 171 | 290 | Frisky Fallmatch |
