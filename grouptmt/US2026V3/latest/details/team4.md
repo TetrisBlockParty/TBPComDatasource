@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 23:32:19 UTC
+# Standings for team4 as of 2026-06-07 23:32:41 UTC
 
 **Total Participants:** 1661
 
@@ -98,20 +98,20 @@
 | 90 | 770 | Leah Barnett |
 | 91 | 759 | Shelby |
 | 92 | 758 | Regina Williams |
-| 93 | 750 | 2 kool |
-| 94 | 744 | adrian |
-| 95 | 737 | Маркус Вік |
-| 96 | 730 | Chaz Duncan |
-| 97 | 716 | Joseph Anthony Watkins |
-| 98 | 708 | Kay |
-| 99 | 705 | Dana Fontanez |
-| 100 | 694 | Kelly Bernard |
-| 101 | 693 | Hairy Snake |
-| 102 | 692 | Jeremy Lopez |
-| 103 | 681 | Jason Garnatz |
-| 104 | 678 | Jenn Fitzgerald |
-| 105 | 676 | GeorgeButts |
-| 106 | 652 | Boldy Crusher |
+| 93 | 752 | Boldy Crusher |
+| 94 | 750 | 2 kool |
+| 95 | 744 | adrian |
+| 96 | 737 | Маркус Вік |
+| 97 | 730 | Chaz Duncan |
+| 98 | 716 | Joseph Anthony Watkins |
+| 99 | 708 | Kay |
+| 100 | 705 | Dana Fontanez |
+| 101 | 694 | Kelly Bernard |
+| 102 | 693 | Hairy Snake |
+| 103 | 692 | Jeremy Lopez |
+| 104 | 681 | Jason Garnatz |
+| 105 | 678 | Jenn Fitzgerald |
+| 106 | 676 | GeorgeButts |
 | 107 | 637 | Gracie Ornelas |
 | 108 | 622 | Lynn Grimes |
 | 109 | 610 | Dandy Clearfit |
@@ -802,86 +802,86 @@
 | 794 | 72 | Cail |
 | 795 | 72 | Fancy Riser |
 | 796 | 72 | Jennifer Evans Elliott |
-| 797 | 72 | sierrabeth |
+| 797 | 72 | T-Dogger |
 | 798 | 72 | Musky Pits |
-| 799 | 72 | T-Dogger |
-| 800 | 71 | Jennifer Brucz |
-| 801 | 71 | Natalie Ohrtman Strand |
-| 802 | 71 | Ana Ruiz |
-| 803 | 71 | Tod Jae |
-| 804 | 71 | Monte Smith |
-| 805 | 71 | Bouncy Blockclear |
-| 806 | 70 | JustLessie |
-| 807 | 70 | Scot Matthew Bergdorf |
-| 808 | 70 | Giggy Splitter |
+| 799 | 72 | sierrabeth |
+| 800 | 71 | Natalie Ohrtman Strand |
+| 801 | 71 | Bouncy Blockclear |
+| 802 | 71 | Jennifer Brucz |
+| 803 | 71 | Ana Ruiz |
+| 804 | 71 | Tod Jae |
+| 805 | 71 | Monte Smith |
+| 806 | 70 | Giggy Splitter |
+| 807 | 70 | Kenyatta Davis |
+| 808 | 70 | Scot Matthew Bergdorf |
 | 809 | 70 | Helen Bradley |
 | 810 | 70 | Lamont |
-| 811 | 70 | Lord Solrac |
-| 812 | 70 | Kenyatta Davis |
-| 813 | 70 | Jade Alley |
-| 814 | 70 | Breezy Blockzone |
-| 815 | 70 | Kendall Rhodie |
-| 816 | 70 | Carissa Thorne-See |
-| 817 | 70 | Charlene Nicole Guidry |
-| 818 | 70 | LilithMoon |
-| 819 | 69 | Khylee DarDar |
-| 820 | 69 | Amber Jalbert |
-| 821 | 69 | Patsy |
-| 822 | 69 | Rebekah Anne Macias |
+| 811 | 70 | Jade Alley |
+| 812 | 70 | Kendall Rhodie |
+| 813 | 70 | Carissa Thorne-See |
+| 814 | 70 | Charlene Nicole Guidry |
+| 815 | 70 | LilithMoon |
+| 816 | 70 | Lord Solrac |
+| 817 | 70 | Breezy Blockzone |
+| 818 | 70 | JustLessie |
+| 819 | 69 | Rebekah Anne Macias |
+| 820 | 69 | Patsy |
+| 821 | 69 | Khylee DarDar |
+| 822 | 69 | Christina Williams |
 | 823 | 69 | Combo Snappy |
-| 824 | 69 | Christina Williams |
-| 825 | 69 | Beth Belanger |
-| 826 | 68 | Sweetfire |
-| 827 | 68 | Bigmamalizzet Latto |
-| 828 | 68 | Paula Renee McCracken |
-| 829 | 68 | Yseoj M. Zurc |
+| 824 | 69 | Beth Belanger |
+| 825 | 69 | Amber Jalbert |
+| 826 | 68 | Poptart |
+| 827 | 68 | Sweetfire |
+| 828 | 68 | Raising Stars |
+| 829 | 68 | Bigmamalizzet Latto |
 | 830 | 68 | Keys Tome |
-| 831 | 68 | Poptart |
-| 832 | 68 | Raising Stars |
-| 833 | 67 | Yournightmare |
-| 834 | 67 | Glittara |
-| 835 | 67 | Andy Petersen |
-| 836 | 67 | Snappy Slice |
-| 837 | 67 | Michael Cruz |
-| 838 | 67 | Tony Clark |
-| 839 | 67 | Wacky Snaplink |
-| 840 | 67 | Playful Raccoon |
-| 841 | 66 | james |
-| 842 | 66 | Perky Balanceblock |
-| 843 | 66 | Leslie |
-| 844 | 66 | Anthony Edwards |
+| 831 | 68 | Yseoj M. Zurc |
+| 832 | 68 | Paula Renee McCracken |
+| 833 | 67 | Playful Raccoon |
+| 834 | 67 | Snappy Slice |
+| 835 | 67 | Glittara |
+| 836 | 67 | Wacky Snaplink |
+| 837 | 67 | Tony Clark |
+| 838 | 67 | Andy Petersen |
+| 839 | 67 | Michael Cruz |
+| 840 | 67 | Yournightmare |
+| 841 | 66 | Leslie |
+| 842 | 66 | MattJennifer Marie Ericson |
+| 843 | 66 | james |
+| 844 | 66 | Perky Balanceblock |
 | 845 | 66 | Derrek Lee |
-| 846 | 66 | MattJennifer Marie Ericson |
-| 847 | 66 | Scarlett Ashley Clark |
+| 846 | 66 | Scarlett Ashley Clark |
+| 847 | 66 | Anthony Edwards |
 | 848 | 66 | Joyce Hampton |
-| 849 | 65 | Pap337 |
-| 850 | 65 | Rocky |
-| 851 | 65 | Nachos |
+| 849 | 66 | REPENT |
+| 850 | 65 | Pap337 |
+| 851 | 65 | Rocky |
 | 852 | 65 | Gabby Simones |
-| 853 | 65 | Rebecca Renaud |
-| 854 | 65 | Christina Barry |
-| 855 | 65 | Elisha Thompson |
+| 853 | 65 | Nachos |
+| 854 | 65 | Rebecca Renaud |
+| 855 | 65 | Christina Barry |
 | 856 | 65 | EmBem |
-| 857 | 65 | Yvette Johnson |
-| 858 | 64 | Daring Brickbuilder |
-| 859 | 64 | Krissy Smith |
-| 860 | 64 | Brittany |
-| 861 | 64 | Groovy Matchgrid |
-| 862 | 64 | JuicyJay |
-| 863 | 64 | Amy Gutierrez |
-| 864 | 64 | MamaC |
-| 865 | 64 | Daffney Starr |
-| 866 | 63 | Brenda Mueller |
-| 867 | 63 | ButterfliesRFree |
-| 868 | 63 | Poppy |
-| 869 | 63 | Miguel Teixeira |
-| 870 | 63 | Phredda Helene Gavornik |
-| 871 | 63 | Maria Munoz |
-| 872 | 63 | JP |
-| 873 | 63 | Ashley Ferguson |
-| 874 | 62 | Joshua Franklin |
+| 857 | 65 | Elisha Thompson |
+| 858 | 65 | Yvette Johnson |
+| 859 | 64 | Groovy Matchgrid |
+| 860 | 64 | Krissy Smith |
+| 861 | 64 | Daring Brickbuilder |
+| 862 | 64 | Brittany |
+| 863 | 64 | JuicyJay |
+| 864 | 64 | Amy Gutierrez |
+| 865 | 64 | MamaC |
+| 866 | 64 | Daffney Starr |
+| 867 | 63 | Phredda Helene Gavornik |
+| 868 | 63 | Brenda Mueller |
+| 869 | 63 | ButterfliesRFree |
+| 870 | 63 | Poppy |
+| 871 | 63 | Ashley Ferguson |
+| 872 | 63 | Maria Munoz |
+| 873 | 63 | JP |
+| 874 | 63 | Miguel Teixeira |
 | 875 | 62 | Giggly Gridzone |
-| 876 | 62 | REPENT |
+| 876 | 62 | Joshua Franklin |
 | 877 | 62 | ShaniP |
 | 878 | 62 | Leslie Ramos |
 | 879 | 62 | Zippy Snaplink |

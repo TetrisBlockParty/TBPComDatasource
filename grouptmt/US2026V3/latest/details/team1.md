@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 23:32:19 UTC
+# Standings for team1 as of 2026-06-07 23:32:41 UTC
 
 **Total Participants:** 1619
 
@@ -61,8 +61,8 @@
 | 53 | 1221 | Daylene Johannes |
 | 54 | 1200 | Spicy Balancer |
 | 55 | 1187 | Angela R Wilson |
-| 56 | 1126 | Ryan Meilleur |
-| 57 | 1120 | Weeze |
+| 56 | 1131 | Weeze |
+| 57 | 1126 | Ryan Meilleur |
 | 58 | 1119 | Corey Cawthon |
 | 59 | 1102 | D'Andra Stewart |
 | 60 | 1078 | Danielle DeLozier Plesec |
@@ -505,89 +505,89 @@
 | 497 | 121 | Lounique |
 | 498 | 121 | Jenni Hardman |
 | 499 | 121 | Nora Mahmoud |
-| 500 | 120 | Kp |
+| 500 | 120 | Zappy Snapgrid |
 | 501 | 120 | Giggy Edgefit |
-| 502 | 120 | Leavon Smith |
-| 503 | 120 | Rebecca Jackson |
-| 504 | 120 | Teri Marie Clayton |
-| 505 | 120 | Brenda Malachi-butler |
-| 506 | 120 | Zappy Snapgrid |
+| 502 | 120 | Kp |
+| 503 | 120 | Teri Marie Clayton |
+| 504 | 120 | Brenda Malachi-butler |
+| 505 | 120 | Rebecca Jackson |
+| 506 | 120 | Leavon Smith |
 | 507 | 119 | Lexx Robins |
 | 508 | 119 | TY Newme Batts |
 | 509 | 119 | Ashley Monet Terrell |
-| 510 | 118 | Hasty Pivoty |
-| 511 | 118 | Rhianna Dinki Austin |
-| 512 | 118 | Kala Miller |
+| 510 | 118 | Kala Miller |
+| 511 | 118 | Hasty Pivoty |
+| 512 | 118 | Amanda Woodruff |
 | 513 | 118 | Kimberly Susan Privette |
 | 514 | 118 | Pretty Yella |
-| 515 | 118 | Amanda Woodruff |
-| 516 | 117 | Joana Thompson |
-| 517 | 117 | 大竹直之 |
-| 518 | 117 | Mahagony Small |
-| 519 | 117 | BB |
-| 520 | 117 | Andrew Jay Vaughn |
-| 521 | 117 | Bubbly Slammer |
-| 522 | 116 | Jackytrain52 |
-| 523 | 116 | Sallie Sanborn |
-| 524 | 116 | Jess |
-| 525 | 116 | Melissa Hershberger |
+| 515 | 118 | Rhianna Dinki Austin |
+| 516 | 117 | BB |
+| 517 | 117 | Bubbly Slammer |
+| 518 | 117 | Andrew Jay Vaughn |
+| 519 | 117 | Mahagony Small |
+| 520 | 117 | 大竹直之 |
+| 521 | 117 | Joana Thompson |
+| 522 | 116 | Sallie Sanborn |
+| 523 | 116 | Melissa Hershberger |
+| 524 | 116 | Jackytrain52 |
+| 525 | 116 | Jess |
 | 526 | 115 | Mighty Dropper |
 | 527 | 114 | Cranky Fall |
 | 528 | 114 | LAhoneybun82 |
-| 529 | 113 | Lilly Brown |
-| 530 | 113 | Betsy B. Yohan |
+| 529 | 113 | Betsy B. Yohan |
+| 530 | 113 | Lilly Brown |
 | 531 | 112 | Stephen Glaze |
 | 532 | 112 | Jennah |
-| 533 | 112 | Nyhlah Patterson |
+| 533 | 112 | GamerQueenDS |
 | 534 | 112 | DirtiestofMikes |
-| 535 | 112 | GamerQueenDS |
-| 536 | 111 | Ad Doctor |
-| 537 | 111 | Happy Blockpiece |
-| 538 | 111 | Angie Smith |
+| 535 | 112 | Nyhlah Patterson |
+| 536 | 111 | Angie Smith |
+| 537 | 111 | Ad Doctor |
+| 538 | 111 | Happy Blockpiece |
 | 539 | 110 | Nisha Sunshine Jenkins |
-| 540 | 109 | Kortney Adams |
-| 541 | 109 | Tamika Fisher |
-| 542 | 109 | Rufus |
-| 543 | 109 | Bold Clusterer |
-| 544 | 109 | Frances Davis |
-| 545 | 109 | Cynthia Cruell |
-| 546 | 108 | Elaine Pauley |
-| 547 | 108 | Angela Brown Babin |
-| 548 | 108 | Bella |
-| 549 | 108 | Antoinette Kelly |
-| 550 | 106 | Elizabeth Hopkins |
-| 551 | 106 | Tina Blessed Cage |
-| 552 | 105 | QueenShay AllGood |
-| 553 | 105 | Maria |
-| 554 | 105 | Nerdy Climber |
-| 555 | 105 | Wayne Savannah |
-| 556 | 105 | Mario Meliodas |
-| 557 | 105 | Hyedie Badie |
-| 558 | 105 | Richelle Beck |
-| 559 | 105 | Ja'mice Nelson |
-| 560 | 104 | PSD |
-| 561 | 104 | Boldy Matchbuilder |
-| 562 | 104 | Ahvae Lee |
-| 563 | 104 | Jessie N Michael Silvers |
-| 564 | 104 | Nichelle Warren |
+| 540 | 109 | Cynthia Cruell |
+| 541 | 109 | Frances Davis |
+| 542 | 109 | Kortney Adams |
+| 543 | 109 | Rufus |
+| 544 | 109 | Tamika Fisher |
+| 545 | 109 | Bold Clusterer |
+| 546 | 108 | PSD |
+| 547 | 108 | Elaine Pauley |
+| 548 | 108 | Angela Brown Babin |
+| 549 | 108 | Bella |
+| 550 | 108 | Antoinette Kelly |
+| 551 | 106 | Elizabeth Hopkins |
+| 552 | 106 | Tina Blessed Cage |
+| 553 | 105 | QueenShay AllGood |
+| 554 | 105 | Maria |
+| 555 | 105 | Nerdy Climber |
+| 556 | 105 | Wayne Savannah |
+| 557 | 105 | Mario Meliodas |
+| 558 | 105 | Hyedie Badie |
+| 559 | 105 | Richelle Beck |
+| 560 | 105 | Ja'mice Nelson |
+| 561 | 104 | Ahvae Lee |
+| 562 | 104 | Boldy Matchbuilder |
+| 563 | 104 | Nichelle Warren |
+| 564 | 104 | Jessie N Michael Silvers |
 | 565 | 104 | Anastasia |
 | 566 | 103 | Antonia Wyche |
 | 567 | 103 | Juan Alvarez |
 | 568 | 103 | Raquel Ortiz |
 | 569 | 102 | Stephen Garland |
-| 570 | 102 | Giddy Staggerpiece |
-| 571 | 102 | Mom3granny2 |
-| 572 | 102 | Amy Villalpando |
+| 570 | 102 | Amy Villalpando |
+| 571 | 102 | Giddy Staggerpiece |
+| 572 | 102 | Mom3granny2 |
 | 573 | 101 | Wacky Wipepiece |
-| 574 | 101 | Raymond Boosie Freeman |
-| 575 | 101 | Tito Divyn |
-| 576 | 101 | Mommy Frank |
-| 577 | 101 | Angela Kitchens |
-| 578 | 101 | Sandra Mims |
-| 579 | 101 | Danny Talbot |
+| 574 | 101 | Danny Talbot |
+| 575 | 101 | Raymond Boosie Freeman |
+| 576 | 101 | Tito Divyn |
+| 577 | 101 | Mommy Frank |
+| 578 | 101 | Angela Kitchens |
+| 579 | 101 | Sandra Mims |
 | 580 | 101 | star |
-| 581 | 100 | Kennedi Brazziel |
-| 582 | 100 | Tessa Gaskin |
+| 581 | 100 | Tessa Gaskin |
+| 582 | 100 | Kennedi Brazziel |
 | 583 | 100 | Dianne Clagon |
 | 584 | 100 | Oldheads |
 | 585 | 100 | Cornelius Neal |
@@ -601,11 +601,11 @@
 | 593 | 99 | Chino Baby |
 | 594 | 99 | Boymama917 |
 | 595 | 99 | Rochelle Nash-Evans |
-| 596 | 98 | Sharee Robinson |
-| 597 | 98 | Azeiare Ziare |
+| 596 | 98 | Christopher Shaw-Black |
+| 597 | 98 | Sharee Robinson |
 | 598 | 98 | Jjhandsome |
 | 599 | 98 | Yashicha Hertzock |
-| 600 | 98 | Christopher Shaw-Black |
+| 600 | 98 | Azeiare Ziare |
 | 601 | 98 | Michael Smith |
 | 602 | 98 | Shannon Carriger |
 | 603 | 98 | Cm |
