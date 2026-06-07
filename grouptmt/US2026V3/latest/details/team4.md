@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 12:40:18 UTC
+# Standings for team4 as of 2026-06-07 12:40:41 UTC
 
 **Total Participants:** 1460
 
@@ -62,8 +62,8 @@
 | 54 | 1035 | Adam J Leong |
 | 55 | 987 | Gloria Nunley Trussell |
 | 56 | 985 | Nick Graber |
-| 57 | 971 | Loony Towerer |
-| 58 | 957 | Giggy Matchpiece |
+| 57 | 976 | Giggy Matchpiece |
+| 58 | 971 | Loony Towerer |
 | 59 | 933 | Tiffany Loree Tiffany Oneill |
 | 60 | 909 | Snippy Grid |
 | 61 | 906 | Hannah Pazar |
@@ -732,66 +732,66 @@
 | 724 | 59 | Anthony Kollar |
 | 725 | 59 | Jeni |
 | 726 | 59 | Tammy Lasseigne |
-| 727 | 59 | Sarah |
-| 728 | 59 | Trang Nguyen |
-| 729 | 59 | Giggy Bridgepiece |
+| 727 | 59 | Trang Nguyen |
+| 728 | 59 | Giggy Bridgepiece |
+| 729 | 59 | Sarah |
 | 730 | 58 | Yaya Selbor |
-| 731 | 58 | Groovy Towerbuilder |
+| 731 | 58 | h_chloe10 |
 | 732 | 58 | Hayze |
-| 733 | 58 | h_chloe10 |
-| 734 | 58 | Jessica Sanchez |
-| 735 | 58 | Kelli Miller |
-| 736 | 58 | Alicia Blunt |
-| 737 | 58 | Brittany |
-| 738 | 58 | Kimberly Lusk |
-| 739 | 57 | Волна Бог |
-| 740 | 57 | Lala |
-| 741 | 57 | Leslie |
-| 742 | 57 | Hotstuff |
-| 743 | 57 | Erica Pompey |
-| 744 | 57 | Heather Hilferty |
-| 745 | 57 | Erich EMac McIntosh |
+| 733 | 58 | Andy Petersen |
+| 734 | 58 | Groovy Towerbuilder |
+| 735 | 58 | Jessica Sanchez |
+| 736 | 58 | Kelli Miller |
+| 737 | 58 | Alicia Blunt |
+| 738 | 58 | Brittany |
+| 739 | 58 | Kimberly Lusk |
+| 740 | 57 | Волна Бог |
+| 741 | 57 | Lala |
+| 742 | 57 | Leslie |
+| 743 | 57 | Hotstuff |
+| 744 | 57 | Erica Pompey |
+| 745 | 57 | Heather Hilferty |
 | 746 | 57 | PapaB |
-| 747 | 57 | alxhue04 |
-| 748 | 57 | Merritt Brandt |
-| 749 | 56 | Lashae |
-| 750 | 56 | Meela Abdurrab |
-| 751 | 56 | JuicyJay |
-| 752 | 56 | Zappy Matchgrid |
-| 753 | 56 | Natalie Ohrtman Strand |
-| 754 | 56 | Blessedmom865 |
-| 755 | 56 | Vicente Bolaños Jr. |
-| 756 | 56 | Kayla Haddenham |
-| 757 | 56 | Alaina Rousseau |
-| 758 | 55 | The Jazziest |
-| 759 | 55 | Donny Keets |
-| 760 | 55 | Erika Rubio |
-| 761 | 55 | pussface |
-| 762 | 55 | Melissa Wilson |
-| 763 | 55 | Julian Gasque |
-| 764 | 55 | Gerald Richard Franke |
-| 765 | 55 | Krissy Smith |
-| 766 | 55 | Janna Thompson |
-| 767 | 55 | Bee |
-| 768 | 54 | Danny Keich III |
-| 769 | 54 | Michelle Wiles |
-| 770 | 54 | Felicia Harrison |
-| 771 | 54 | Earl Edwards |
-| 772 | 54 | Danielle Porter |
-| 773 | 54 | Heather Brown |
-| 774 | 54 | Jodi Haman-wheeler |
-| 775 | 54 | Scott Baum |
-| 776 | 54 | Lilo |
-| 777 | 54 | Lisa Ferriero-Daudin |
-| 778 | 53 | Cflixer |
-| 779 | 53 | shonaberry |
-| 780 | 53 | Koren Heersink |
-| 781 | 53 | Heidi Lyn Ramirez |
+| 747 | 57 | Erich EMac McIntosh |
+| 748 | 57 | alxhue04 |
+| 749 | 57 | Merritt Brandt |
+| 750 | 56 | Lashae |
+| 751 | 56 | Meela Abdurrab |
+| 752 | 56 | JuicyJay |
+| 753 | 56 | Zappy Matchgrid |
+| 754 | 56 | Natalie Ohrtman Strand |
+| 755 | 56 | Blessedmom865 |
+| 756 | 56 | Vicente Bolaños Jr. |
+| 757 | 56 | Kayla Haddenham |
+| 758 | 56 | Alaina Rousseau |
+| 759 | 55 | The Jazziest |
+| 760 | 55 | Donny Keets |
+| 761 | 55 | Erika Rubio |
+| 762 | 55 | pussface |
+| 763 | 55 | Melissa Wilson |
+| 764 | 55 | Julian Gasque |
+| 765 | 55 | Gerald Richard Franke |
+| 766 | 55 | Krissy Smith |
+| 767 | 55 | Janna Thompson |
+| 768 | 55 | Bee |
+| 769 | 54 | Felicia Harrison |
+| 770 | 54 | Michelle Wiles |
+| 771 | 54 | Danny Keich III |
+| 772 | 54 | Jodi Haman-wheeler |
+| 773 | 54 | Earl Edwards |
+| 774 | 54 | Danielle Porter |
+| 775 | 54 | Heather Brown |
+| 776 | 54 | Scott Baum |
+| 777 | 54 | Lilo |
+| 778 | 54 | Lisa Ferriero-Daudin |
+| 779 | 53 | Cflixer |
+| 780 | 53 | shonaberry |
+| 781 | 53 | Koren Heersink |
 | 782 | 53 | Sarah Leake |
 | 783 | 53 | Carlos Amaya |
-| 784 | 53 | Kimberly Mae Watkins |
-| 785 | 53 | Haylee Talkington |
-| 786 | 52 | Andy Petersen |
+| 784 | 53 | Haylee Talkington |
+| 785 | 53 | Heidi Lyn Ramirez |
+| 786 | 53 | Kimberly Mae Watkins |
 | 787 | 52 | Domenique Wilson |
 | 788 | 52 | Nachos |
 | 789 | 52 | Sara Cobb |
@@ -800,15 +800,15 @@
 | 792 | 51 | LilRain |
 | 793 | 51 | Vergie Michael |
 | 794 | 51 | Michellee Lewis |
-| 795 | 51 | Joshua Powers |
-| 796 | 51 | Toria |
-| 797 | 51 | MsChelleAnn |
-| 798 | 51 | Curved carrot |
+| 795 | 51 | Gma420 |
+| 796 | 51 | Kimberly Civinski |
+| 797 | 51 | Curved carrot |
+| 798 | 51 | Toria |
 | 799 | 51 | JJ Merc |
-| 800 | 51 | Kimberly Civinski |
-| 801 | 51 | Gma420 |
-| 802 | 50 | Daniel Lossman |
-| 803 | 50 | Brendan Craven |
+| 800 | 51 | Joshua Powers |
+| 801 | 51 | MsChelleAnn |
+| 802 | 50 | Brendan Craven |
+| 803 | 50 | Daniel Lossman |
 | 804 | 50 | Rebecca Sloan |
 | 805 | 50 | Andreas Vs Shinky |
 | 806 | 50 | Chris Somsen |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 12:40:18 UTC
+# Standings for team2 as of 2026-06-07 12:40:41 UTC
 
 **Total Participants:** 1724
 
@@ -18,7 +18,7 @@
 | 10 | 6114 | Morgann McDaniel |
 | 11 | 6114 | Tim Ix |
 | 12 | 5704 | Cori Keberlein |
-| 13 | 4945 | Dapper Rollout |
+| 13 | 4954 | Dapper Rollout |
 | 14 | 4800 | Crafty Ziggy |
 | 15 | 4668 | Lola C Davis |
 | 16 | 4355 | Alexia Reagan |
@@ -1458,65 +1458,65 @@
 | 1450 | 17 | Shane Peavey |
 | 1451 | 17 | Smiley Edgefit |
 | 1452 | 17 | Sk8Mom |
-| 1453 | 16 | Brittany Paul |
-| 1454 | 16 | Sarah Elizabeth Foret |
-| 1455 | 16 | Tonya Reed |
-| 1456 | 16 | Kimberly Rochon |
-| 1457 | 16 | Ashley Gracelynn Tiner |
-| 1458 | 16 | Elliot |
-| 1459 | 16 | Jennifer M Mitchell |
-| 1460 | 16 | JesseJo |
-| 1461 | 16 | Jeremy Monceaux |
-| 1462 | 16 | Patty White |
-| 1463 | 16 | Kaylyn Wickham |
-| 1464 | 16 | Amanda Jimenez |
-| 1465 | 16 | Diane Pinkston Massey |
-| 1466 | 16 | Loony Glider |
-| 1467 | 15 | Michelle Shemon |
-| 1468 | 15 | Linda Riegsecker |
-| 1469 | 15 | Jennifer Nelson |
-| 1470 | 15 | SabinawNorman Adams |
-| 1471 | 15 | Tipsy Matchgrid |
-| 1472 | 15 | Jacqueline Leigh Zuzinec |
-| 1473 | 15 | AlDan |
-| 1474 | 15 | Amlisi |
-| 1475 | 15 | Haneef Akram |
-| 1476 | 15 | Sharon Wade |
-| 1477 | 15 | Twisty Patternblock |
-| 1478 | 15 | Poppy Slice |
-| 1479 | 15 | Maureen MomtoDolores GeorgeBrian |
-| 1480 | 15 | Tetris |
-| 1481 | 15 | Christine Ann Eras |
-| 1482 | 15 | Julie Vargas |
-| 1483 | 15 | Samantha |
-| 1484 | 15 | Sir Paco |
-| 1485 | 15 | Lisa Marie |
-| 1486 | 15 | Nana |
-| 1487 | 15 | sally |
-| 1488 | 14 | Joseph Austin Prince |
-| 1489 | 14 | Michele Choate |
-| 1490 | 14 | Marshall Payne |
-| 1491 | 14 | Imat Yesmar |
-| 1492 | 14 | MiMi’26 |
-| 1493 | 14 | BlockBreaker |
-| 1494 | 14 | Christopher Pulley |
-| 1495 | 14 | John Sewell |
-| 1496 | 14 | TiffTaff |
-| 1497 | 14 | Toni Tortorici Humphryes |
-| 1498 | 14 | Symmy Norton |
-| 1499 | 14 | Jodi Deninno |
-| 1500 | 14 | Susan R. Hammons Cunningham |
-| 1501 | 14 | Beaglemom |
-| 1502 | 14 | Flex |
-| 1503 | 14 | Tyler Bates |
-| 1504 | 14 | Angelica Champlin |
-| 1505 | 14 | Jenifer Gasho |
-| 1506 | 14 | Terri Beddard |
-| 1507 | 14 | Randy Taylor |
-| 1508 | 14 | Buffy Diane Blake |
-| 1509 | 14 | Randi Moore |
-| 1510 | 14 | Manuel Lucero Jr. |
-| 1511 | 13 | Adriana Daniela Agapie |
+| 1453 | 17 | Adriana Daniela Agapie |
+| 1454 | 16 | Loony Glider |
+| 1455 | 16 | Brittany Paul |
+| 1456 | 16 | Sarah Elizabeth Foret |
+| 1457 | 16 | Tonya Reed |
+| 1458 | 16 | Kimberly Rochon |
+| 1459 | 16 | Ashley Gracelynn Tiner |
+| 1460 | 16 | Elliot |
+| 1461 | 16 | Jennifer M Mitchell |
+| 1462 | 16 | JesseJo |
+| 1463 | 16 | Jeremy Monceaux |
+| 1464 | 16 | Patty White |
+| 1465 | 16 | Kaylyn Wickham |
+| 1466 | 16 | Amanda Jimenez |
+| 1467 | 16 | Diane Pinkston Massey |
+| 1468 | 15 | Jennifer Nelson |
+| 1469 | 15 | SabinawNorman Adams |
+| 1470 | 15 | Tipsy Matchgrid |
+| 1471 | 15 | Jacqueline Leigh Zuzinec |
+| 1472 | 15 | AlDan |
+| 1473 | 15 | Amlisi |
+| 1474 | 15 | Haneef Akram |
+| 1475 | 15 | Sharon Wade |
+| 1476 | 15 | Twisty Patternblock |
+| 1477 | 15 | Poppy Slice |
+| 1478 | 15 | Maureen MomtoDolores GeorgeBrian |
+| 1479 | 15 | Tetris |
+| 1480 | 15 | Christine Ann Eras |
+| 1481 | 15 | Julie Vargas |
+| 1482 | 15 | Samantha |
+| 1483 | 15 | Sir Paco |
+| 1484 | 15 | Lisa Marie |
+| 1485 | 15 | Nana |
+| 1486 | 15 | sally |
+| 1487 | 15 | Michelle Shemon |
+| 1488 | 15 | Linda Riegsecker |
+| 1489 | 14 | Manuel Lucero Jr. |
+| 1490 | 14 | Joseph Austin Prince |
+| 1491 | 14 | Michele Choate |
+| 1492 | 14 | Marshall Payne |
+| 1493 | 14 | Imat Yesmar |
+| 1494 | 14 | MiMi’26 |
+| 1495 | 14 | BlockBreaker |
+| 1496 | 14 | Christopher Pulley |
+| 1497 | 14 | John Sewell |
+| 1498 | 14 | TiffTaff |
+| 1499 | 14 | Toni Tortorici Humphryes |
+| 1500 | 14 | Symmy Norton |
+| 1501 | 14 | Jodi Deninno |
+| 1502 | 14 | Susan R. Hammons Cunningham |
+| 1503 | 14 | Beaglemom |
+| 1504 | 14 | Flex |
+| 1505 | 14 | Tyler Bates |
+| 1506 | 14 | Angelica Champlin |
+| 1507 | 14 | Jenifer Gasho |
+| 1508 | 14 | Terri Beddard |
+| 1509 | 14 | Randy Taylor |
+| 1510 | 14 | Buffy Diane Blake |
+| 1511 | 14 | Randi Moore |
 | 1512 | 13 | Silly Cluster |
 | 1513 | 13 | Patience Thompson |
 | 1514 | 13 | Jill Gelhausen |
