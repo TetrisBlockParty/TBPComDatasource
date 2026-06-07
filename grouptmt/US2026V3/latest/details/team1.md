@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:04:40 UTC
+# Standings for team1 as of 2026-06-07 08:05:20 UTC
 
 **Total Participants:** 1424
 
@@ -176,8 +176,8 @@
 | 168 | 285 | Helen Smith |
 | 169 | 285 | Ashley MyBeauty Daniels |
 | 170 | 284 | Karebear |
-| 171 | 277 | Tonya Lee Sanders |
-| 172 | 276 | Chantelle Lee |
+| 171 | 278 | Chantelle Lee |
+| 172 | 277 | Tonya Lee Sanders |
 | 173 | 276 | Cortaz Lawrie |
 | 174 | 275 | Chris Sladoje |
 | 175 | 275 | Jawaun Daniels |
@@ -351,10 +351,10 @@
 | 343 | 127 | Comedian Prince Paul |
 | 344 | 127 | Ozell Jones Jr. |
 | 345 | 127 | Treneil Daffin |
-| 346 | 125 | Dizzy Dashy |
-| 347 | 125 | Dedra M Prester |
-| 348 | 125 | LaTonya Myers |
-| 349 | 124 | Breezy Catcher |
+| 346 | 126 | Breezy Catcher |
+| 347 | 125 | Dizzy Dashy |
+| 348 | 125 | Dedra M Prester |
+| 349 | 125 | LaTonya Myers |
 | 350 | 123 | Rachael Bakowicz Edwards |
 | 351 | 123 | Cauiasia DeJ'ae |
 | 352 | 122 | Xana Zania Bopp |
