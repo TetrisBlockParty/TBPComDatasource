@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 22:04:20 UTC
+# Standings for team2 as of 2026-06-07 22:04:42 UTC
 
 **Total Participants:** 1920
 
@@ -64,8 +64,8 @@
 | 56 | 1682 | Elizabeth Sallas |
 | 57 | 1657 | Rashanna Bockhorn |
 | 58 | 1621 | Block Dog |
-| 59 | 1606 | Debra Henry |
-| 60 | 1606 | Nerdy Glidepiece |
+| 59 | 1606 | Nerdy Glidepiece |
+| 60 | 1606 | Debra Henry |
 | 61 | 1551 | Monica Galli |
 | 62 | 1547 | Happy Pivotfall |
 | 63 | 1534 | Lily |
@@ -95,12 +95,12 @@
 | 87 | 1047 | Charlie Wilson |
 | 88 | 1020 | Ruby Sandberg |
 | 89 | 1011 | Criccett Hooper-Smith |
-| 90 | 1000 | LEW |
-| 91 | 1000 | Sydney Headley |
-| 92 | 988 | Dane Marko |
-| 93 | 970 | Bridget N Jonathan Franz |
-| 94 | 966 | Allison Jarman |
-| 95 | 942 | Helen Thomas |
+| 90 | 1002 | Helen Thomas |
+| 91 | 1000 | LEW |
+| 92 | 1000 | Sydney Headley |
+| 93 | 988 | Dane Marko |
+| 94 | 970 | Bridget N Jonathan Franz |
+| 95 | 966 | Allison Jarman |
 | 96 | 916 | Amber Salazar |
 | 97 | 908 | Jazzy Faller |
 | 98 | 899 | Marie Luciano |
@@ -148,8 +148,8 @@
 | 140 | 579 | Sedy |
 | 141 | 577 | Lindsay Klemp |
 | 142 | 574 | Brandy McCune Reep |
-| 143 | 570 | Jackie Tupper |
-| 144 | 570 | Kathleen Dumbazz |
+| 143 | 570 | Kathleen Dumbazz |
+| 144 | 570 | Jackie Tupper |
 | 145 | 554 | Cathy Tippett |
 | 146 | 553 | Jamie Jones |
 | 147 | 550 | Sully |
@@ -753,40 +753,40 @@
 | 745 | 91 | Ava Taber |
 | 746 | 91 | Tito Garcia |
 | 747 | 91 | Smiley Cornerfall |
-| 748 | 90 | Tiffany Hassanshahi |
-| 749 | 90 | Zaniya Brown |
-| 750 | 90 | Deena-Neal Peryer |
-| 751 | 90 | Lesley Stoeckle |
-| 752 | 90 | Helen Townsend |
-| 753 | 90 | Arik DiLorenzo |
-| 754 | 90 | Lacie B |
-| 755 | 90 | Naomi Jaynes |
-| 756 | 89 | Cranky Brickzone |
-| 757 | 89 | Bouncy Cluster |
-| 758 | 89 | Manda |
-| 759 | 89 | Patrick Woodard |
-| 760 | 89 | Tami Weiss |
-| 761 | 88 | Witty Riser |
-| 762 | 88 | Quirky Gridclear |
+| 748 | 91 | Talyn Domingues |
+| 749 | 90 | Naomi Jaynes |
+| 750 | 90 | Tiffany Hassanshahi |
+| 751 | 90 | Lacie B |
+| 752 | 90 | Arik DiLorenzo |
+| 753 | 90 | Helen Townsend |
+| 754 | 90 | Lesley Stoeckle |
+| 755 | 90 | Deena-Neal Peryer |
+| 756 | 90 | Zaniya Brown |
+| 757 | 89 | Cranky Brickzone |
+| 758 | 89 | Bouncy Cluster |
+| 759 | 89 | Manda |
+| 760 | 89 | Patrick Woodard |
+| 761 | 89 | Tami Weiss |
+| 762 | 88 | Witty Riser |
 | 763 | 88 | BrendaLee NolanBos |
 | 764 | 88 | Connie Marie Cornell Lerma |
-| 765 | 88 | Amanda Bailey |
+| 765 | 88 | Missy Tubb Overly |
 | 766 | 88 | Lisa Chapman |
-| 767 | 88 | Missy Tubb Overly |
-| 768 | 87 | Rmk |
-| 769 | 87 | Wendy Michelle Wise-Ledford |
+| 767 | 88 | Amanda Bailey |
+| 768 | 88 | Quirky Gridclear |
+| 769 | 87 | Sara Karels |
 | 770 | 87 | BB |
-| 771 | 87 | Sara Karels |
+| 771 | 87 | Wendy Michelle Wise-Ledford |
 | 772 | 87 | Tetrismastrr |
-| 773 | 86 | Errkuh |
-| 774 | 86 | bozzycat |
-| 775 | 86 | Samantha Brown |
-| 776 | 86 | shell |
-| 777 | 86 | Brandy McCleary |
-| 778 | 86 | Jessica Murphree |
-| 779 | 86 | Talyn Domingues |
-| 780 | 86 | Lazy Staggerpiece |
-| 781 | 86 | Mandeee |
+| 773 | 87 | Rmk |
+| 774 | 86 | Jessica Murphree |
+| 775 | 86 | Brandy McCleary |
+| 776 | 86 | Lazy Staggerpiece |
+| 777 | 86 | shell |
+| 778 | 86 | Samantha Brown |
+| 779 | 86 | Mandeee |
+| 780 | 86 | bozzycat |
+| 781 | 86 | Errkuh |
 | 782 | 85 | Seamus |
 | 783 | 85 | James Moore |
 | 784 | 85 | Nerdy Linebuilder |
@@ -1592,15 +1592,15 @@
 | 1584 | 20 | Katie Thacker |
 | 1585 | 20 | Diamond Mitchell |
 | 1586 | 20 | Daniel Flathers |
-| 1587 | 20 | Twisty Glider |
-| 1588 | 20 | KT Scott |
+| 1587 | 20 | KT Scott |
+| 1588 | 20 | Twisty Glider |
 | 1589 | 20 | Spunky Riserfit |
-| 1590 | 20 | Chummy Smasher |
-| 1591 | 20 | Sandra Betz |
-| 1592 | 20 | JrsWife |
-| 1593 | 20 | Shana Campbell |
-| 1594 | 20 | Jenn Wittkamp |
-| 1595 | 20 | Kim Hoopes Townsend |
+| 1590 | 20 | Shana Campbell |
+| 1591 | 20 | Chummy Smasher |
+| 1592 | 20 | Sandra Betz |
+| 1593 | 20 | JrsWife |
+| 1594 | 20 | Kim Hoopes Townsend |
+| 1595 | 20 | Jenn Wittkamp |
 | 1596 | 20 | Ciera Adams |
 | 1597 | 20 | Jamaica Flowers |
 | 1598 | 20 | Jade007 |
@@ -1648,43 +1648,43 @@
 | 1640 | 18 | Glitzy Linkfall |
 | 1641 | 18 | Chrystal Rodriguez |
 | 1642 | 18 | Loony Glider |
-| 1643 | 18 | Anita Blackshear |
-| 1644 | 18 | Gen |
-| 1645 | 18 | Cathy Cobb |
-| 1646 | 18 | Dizzy Glidezone |
-| 1647 | 18 | K2N |
-| 1648 | 18 | Bruce Bower |
-| 1649 | 18 | Pam Martin |
-| 1650 | 18 | Crafty Dashgrid |
-| 1651 | 17 | grey panther |
-| 1652 | 17 | Taderbug |
-| 1653 | 17 | Sk8Mom |
-| 1654 | 17 | Hansent3 |
-| 1655 | 17 | Shane Peavey |
-| 1656 | 17 | Amanda Hamacher |
-| 1657 | 17 | Angela Knighton |
-| 1658 | 17 | Christina Michelle Wilson |
-| 1659 | 17 | Clever Spinfit |
-| 1660 | 17 | COWBOY |
-| 1661 | 17 | Smiley Edgefit |
-| 1662 | 17 | Sassy Snapfall |
-| 1663 | 17 | Shaun Talbot |
-| 1664 | 16 | Sweety764u |
-| 1665 | 16 | Eugene Brown |
-| 1666 | 16 | Jennifer M Mitchell |
-| 1667 | 16 | Amanda Jimenez |
-| 1668 | 16 | Tonya Reed |
-| 1669 | 16 | Ashley Gracelynn Tiner |
-| 1670 | 16 | JesseJo |
-| 1671 | 16 | Jeremy Monceaux |
-| 1672 | 16 | Sarah Elizabeth Foret |
-| 1673 | 16 | Elliot |
-| 1674 | 16 | Patty White |
-| 1675 | 16 | ElizaThornberry |
+| 1643 | 18 | BigHearted-57 |
+| 1644 | 18 | Anita Blackshear |
+| 1645 | 18 | Gen |
+| 1646 | 18 | Cathy Cobb |
+| 1647 | 18 | Dizzy Glidezone |
+| 1648 | 18 | K2N |
+| 1649 | 18 | Bruce Bower |
+| 1650 | 18 | Pam Martin |
+| 1651 | 18 | Crafty Dashgrid |
+| 1652 | 17 | grey panther |
+| 1653 | 17 | Taderbug |
+| 1654 | 17 | Sk8Mom |
+| 1655 | 17 | Hansent3 |
+| 1656 | 17 | Shane Peavey |
+| 1657 | 17 | Amanda Hamacher |
+| 1658 | 17 | Angela Knighton |
+| 1659 | 17 | Christina Michelle Wilson |
+| 1660 | 17 | Clever Spinfit |
+| 1661 | 17 | COWBOY |
+| 1662 | 17 | Smiley Edgefit |
+| 1663 | 17 | Sassy Snapfall |
+| 1664 | 17 | Shaun Talbot |
+| 1665 | 16 | Sweety764u |
+| 1666 | 16 | Eugene Brown |
+| 1667 | 16 | Jennifer M Mitchell |
+| 1668 | 16 | Amanda Jimenez |
+| 1669 | 16 | Tonya Reed |
+| 1670 | 16 | Ashley Gracelynn Tiner |
+| 1671 | 16 | JesseJo |
+| 1672 | 16 | Jeremy Monceaux |
+| 1673 | 16 | Sarah Elizabeth Foret |
+| 1674 | 16 | Elliot |
+| 1675 | 16 | Patty White |
 | 1676 | 16 | Diane Pinkston Massey |
-| 1677 | 16 | Rachel |
-| 1678 | 16 | Misty Dillard |
-| 1679 | 16 | BigHearted-57 |
+| 1677 | 16 | ElizaThornberry |
+| 1678 | 16 | Rachel |
+| 1679 | 16 | Misty Dillard |
 | 1680 | 16 | Flashy Blockfall |
 | 1681 | 16 | Charity Black |
 | 1682 | 16 | Kimberly Rochon |
