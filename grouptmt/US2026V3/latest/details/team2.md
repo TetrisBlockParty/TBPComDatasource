@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 07:38:40 UTC
+# Standings for team2 as of 2026-06-07 07:39:19 UTC
 
 **Total Participants:** 1670
 
@@ -131,7 +131,7 @@
 | 123 | 515 | Loony Faller |
 | 124 | 500 | Suki Kaur |
 | 125 | 500 | Courtney McCulley |
-| 126 | 494 | Gloria May Shook |
+| 126 | 496 | Gloria May Shook |
 | 127 | 486 | Jackie Tupper |
 | 128 | 483 | Karen Reid Cenkush |
 | 129 | 477 | Amy Gale |
@@ -202,10 +202,10 @@
 | 194 | 294 | Vistabrat |
 | 195 | 292 | James Ward |
 | 196 | 291 | Flashy Twistline |
-| 197 | 285 | H |
-| 198 | 285 | Samantha Carman |
-| 199 | 284 | Becca Marie |
-| 200 | 284 | Loopy Curvebuilder |
+| 197 | 289 | Loopy Curvebuilder |
+| 198 | 285 | H |
+| 199 | 285 | Samantha Carman |
+| 200 | 284 | Becca Marie |
 | 201 | 283 | Sarah Mccolgan |
 | 202 | 282 | Nova Nova |
 | 203 | 281 | Fudgie Pie |
