@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 17:44:18 UTC
+# Standings for team2 as of 2026-06-07 17:44:41 UTC
 
 **Total Participants:** 1835
 
@@ -16,8 +16,8 @@
 | 8 | 7687 | Lacey Nolting |
 | 9 | 7000 | Crafty Ziggy |
 | 10 | 6352 | Christina Shell |
-| 11 | 6114 | Tim Ix |
-| 12 | 6114 | Morgann McDaniel |
+| 11 | 6114 | Morgann McDaniel |
+| 12 | 6114 | Tim Ix |
 | 13 | 5961 | Brandon Brown |
 | 14 | 5704 | Cori Keberlein |
 | 15 | 5227 | Dapper Rollout |
@@ -76,7 +76,7 @@
 | 68 | 1249 | Poppy |
 | 69 | 1217 | Gabriella Humphreys |
 | 70 | 1192 | Angie Mccain |
-| 71 | 1170 | Lily |
+| 71 | 1190 | Lily |
 | 72 | 1166 | Nawang Nawang |
 | 73 | 1148 | Nerdy Climber |
 | 74 | 1140 | Mikki Torres |
@@ -155,11 +155,11 @@
 | 147 | 515 | Loony Faller |
 | 148 | 500 | Courtney McCulley |
 | 149 | 488 | MarioKarasovic |
-| 150 | 483 | Karen Reid Cenkush |
-| 151 | 477 | Amy Gale |
-| 152 | 474 | Steven Craig |
+| 150 | 485 | Samantha Carman |
+| 151 | 483 | Karen Reid Cenkush |
+| 152 | 477 | Amy Gale |
 | 153 | 474 | Bubbly Strikerpiece |
-| 154 | 470 | Samantha Carman |
+| 154 | 474 | Steven Craig |
 | 155 | 466 | Judy Long |
 | 156 | 462 | Cool Balancer |
 | 157 | 458 | Kaycie Shaffer |
@@ -172,8 +172,8 @@
 | 164 | 418 | Zany Blockclear |
 | 165 | 418 | Kelly Rogers |
 | 166 | 416 | Suki Jacobs |
-| 167 | 414 | Tara |
-| 168 | 414 | Ashley Green |
+| 167 | 414 | Ashley Green |
+| 168 | 414 | Tara |
 | 169 | 413 | Chirpy Grid |
 | 170 | 406 | Frilly Dashfit |
 | 171 | 405 | Erin Thomas |
@@ -197,11 +197,11 @@
 | 189 | 372 | Jamie Fenyus |
 | 190 | 371 | Brittni Lawrence |
 | 191 | 365 | Monique Frantz |
-| 192 | 365 | Joni Michelle Morgan |
-| 193 | 363 | Christina Maria |
-| 194 | 362 | Jennifer Smith |
-| 195 | 360 | Jacob Carpenter |
-| 196 | 360 | Hoppy Mover |
+| 192 | 365 | Hoppy Mover |
+| 193 | 365 | Joni Michelle Morgan |
+| 194 | 363 | Christina Maria |
+| 195 | 362 | Jennifer Smith |
+| 196 | 360 | Jacob Carpenter |
 | 197 | 359 | Sarah Mccolgan |
 | 198 | 358 | Breeana Bennett |
 | 199 | 357 | Brenda Jones |
@@ -420,35 +420,35 @@
 | 412 | 160 | Billie Jensen |
 | 413 | 160 | Jamin |
 | 414 | 159 | Jennifer Vitro |
-| 415 | 159 | Misty Noe |
-| 416 | 159 | Funway998 |
-| 417 | 158 | Meagan Grimmett Washburn |
-| 418 | 158 | Ceci |
-| 419 | 156 | Charlotte Castelli |
-| 420 | 156 | Aurora June Brock |
-| 421 | 156 | TetrisMama |
-| 422 | 155 | Naomi Walker |
-| 423 | 155 | Adriana Daniela Agapie |
-| 424 | 154 | Belle |
+| 415 | 159 | Laurie |
+| 416 | 159 | Misty Noe |
+| 417 | 159 | Funway998 |
+| 418 | 158 | Meagan Grimmett Washburn |
+| 419 | 158 | Ceci |
+| 420 | 156 | Charlotte Castelli |
+| 421 | 156 | Aurora June Brock |
+| 422 | 156 | TetrisMama |
+| 423 | 155 | Naomi Walker |
+| 424 | 155 | Adriana Daniela Agapie |
 | 425 | 154 | murd3rmous3 |
-| 426 | 153 | Cortney Coleman |
-| 427 | 153 | Laurie |
-| 428 | 153 | Gabrielle Wilson |
-| 429 | 153 | Jumpy Dashpiece |
+| 426 | 154 | Belle |
+| 427 | 153 | Cortney Coleman |
+| 428 | 153 | Jumpy Dashpiece |
+| 429 | 153 | Gabrielle Wilson |
 | 430 | 152 | Cindy Scott |
 | 431 | 152 | Sarah Jane Gorsuch |
 | 432 | 151 | Amy Lea Hamilton |
-| 433 | 150 | Marylin Eacker |
-| 434 | 150 | Carlos J Blas |
-| 435 | 150 | Plucky Grabber |
-| 436 | 150 | Tina |
-| 437 | 150 | Gluten Gremlin |
+| 433 | 150 | Tina |
+| 434 | 150 | Gluten Gremlin |
+| 435 | 150 | Marylin Eacker |
+| 436 | 150 | Plucky Grabber |
+| 437 | 150 | Carlos J Blas |
 | 438 | 149 | Jenni LeBlanc |
-| 439 | 148 | Lively Curve |
-| 440 | 148 | rageking |
-| 441 | 148 | Nano. |
-| 442 | 148 | Hillary Frank |
-| 443 | 148 | Michael Carmichael |
+| 439 | 148 | Michael Carmichael |
+| 440 | 148 | Hillary Frank |
+| 441 | 148 | rageking |
+| 442 | 148 | Lively Curve |
+| 443 | 148 | Nano. |
 | 444 | 147 | Charity Hauser |
 | 445 | 146 | Dana Wilson |
 | 446 | 146 | Darla Nolt |
@@ -793,13 +793,13 @@
 | 785 | 76 | Joe Dirilo |
 | 786 | 76 | Kris Dusza Dodus |
 | 787 | 76 | Brandi Vandevanter-Duke |
-| 788 | 76 | Tiffany Fitch |
-| 789 | 76 | Jim Wright |
-| 790 | 75 | Laura Turner |
-| 791 | 75 | Bennie Farbo |
-| 792 | 75 | Jessica Bowman |
-| 793 | 75 | Sam Schwieso |
-| 794 | 75 | Pamela Gambrell |
+| 788 | 76 | Pamela Gambrell |
+| 789 | 76 | Tiffany Fitch |
+| 790 | 76 | Jim Wright |
+| 791 | 75 | Laura Turner |
+| 792 | 75 | Bennie Farbo |
+| 793 | 75 | Jessica Bowman |
+| 794 | 75 | Sam Schwieso |
 | 795 | 75 | Allison Peterson |
 | 796 | 75 | Clever Fallmatch |
 | 797 | 75 | joey |
