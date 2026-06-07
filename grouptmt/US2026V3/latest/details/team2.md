@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 08:48:41 UTC
+# Standings for team2 as of 2026-06-07 08:49:20 UTC
 
 **Total Participants:** 1685
 
@@ -73,8 +73,8 @@
 | 65 | 1020 | Ruby Sandberg |
 | 66 | 984 | Dane Marko |
 | 67 | 982 | Nawang Nawang |
-| 68 | 971 | Debra Henry |
-| 69 | 966 | Criccett Hooper-Smith |
+| 68 | 976 | Criccett Hooper-Smith |
+| 69 | 971 | Debra Henry |
 | 70 | 947 | Kvothe |
 | 71 | 921 | Block Dog |
 | 72 | 913 | Amber Salazar |
