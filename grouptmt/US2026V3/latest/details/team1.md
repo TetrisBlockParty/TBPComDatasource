@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:21:18 UTC
+# Standings for team1 as of 2026-06-07 08:22:19 UTC
 
 **Total Participants:** 1424
 
@@ -237,35 +237,35 @@
 | 229 | 195 | Rayshawn Cohen |
 | 230 | 195 | Brittnay Wright |
 | 231 | 194 | Daris Swearington |
-| 232 | 193 | Mikayla |
-| 233 | 192 | Katherine Short |
-| 234 | 192 | Trina Greenwood |
-| 235 | 191 | DaGuy |
-| 236 | 191 | Kelli Couture |
-| 237 | 191 | Emily Wright |
-| 238 | 189 | LaShaun Stinson |
-| 239 | 188 | Cheeky Pop |
-| 240 | 187 | Kenny MrOnethousand Peck |
-| 241 | 187 | Keke Ferguson |
-| 242 | 187 | Heather Aurelia |
-| 243 | 186 | Lesley Brunkus Cianfaglione |
+| 232 | 194 | De'Laonzeo Anthony |
+| 233 | 193 | Mikayla |
+| 234 | 192 | Katherine Short |
+| 235 | 192 | Trina Greenwood |
+| 236 | 191 | DaGuy |
+| 237 | 191 | Kelli Couture |
+| 238 | 191 | Emily Wright |
+| 239 | 189 | LaShaun Stinson |
+| 240 | 188 | Cheeky Pop |
+| 241 | 187 | Kenny MrOnethousand Peck |
+| 242 | 187 | Keke Ferguson |
+| 243 | 187 | Heather Aurelia |
 | 244 | 186 | Stephen Providenti |
 | 245 | 186 | Chuck Quarles |
-| 246 | 185 | Richard Flex |
-| 247 | 184 | Dai Bo |
+| 246 | 186 | Lesley Brunkus Cianfaglione |
+| 247 | 185 | Richard Flex |
 | 248 | 184 | Frisky Fall |
-| 249 | 183 | Wild Out Nai |
-| 250 | 182 | Hyper Blocky |
-| 251 | 181 | Rachel Zimmerman |
-| 252 | 180 | Ann Chung |
-| 253 | 180 | Melissa D. M. Hornsby |
-| 254 | 180 | Zippy Lifter |
-| 255 | 179 | ♈️ Ariesbaby |
-| 256 | 179 | Amber Wilson |
-| 257 | 178 | Randizzle |
-| 258 | 177 | Bbyunicorn |
-| 259 | 176 | Nikki Hogan |
-| 260 | 174 | De'Laonzeo Anthony |
+| 249 | 184 | Dai Bo |
+| 250 | 183 | Wild Out Nai |
+| 251 | 182 | Hyper Blocky |
+| 252 | 181 | Rachel Zimmerman |
+| 253 | 180 | Ann Chung |
+| 254 | 180 | Melissa D. M. Hornsby |
+| 255 | 180 | Zippy Lifter |
+| 256 | 179 | ♈️ Ariesbaby |
+| 257 | 179 | Amber Wilson |
+| 258 | 178 | Randizzle |
+| 259 | 177 | Bbyunicorn |
+| 260 | 176 | Nikki Hogan |
 | 261 | 173 | Chipper Snapper |
 | 262 | 171 | Boldy Liner |
 | 263 | 170 | Hailey Hil |
@@ -558,36 +558,36 @@
 | 550 | 78 | Solomon Valarie |
 | 551 | 78 | Claudia Price |
 | 552 | 78 | Azeiare Ziare |
-| 553 | 78 | Ryan Runyan |
-| 554 | 78 | Smiley3000 |
-| 555 | 78 | KeeKee Williams |
-| 556 | 77 | Dana Hawes |
-| 557 | 76 | lady |
-| 558 | 76 | Guard Up |
-| 559 | 76 | Essence Jones |
-| 560 | 76 | Giggly Shatterline |
-| 561 | 76 | Bold Clusterer |
-| 562 | 76 | Angelique Talbot |
-| 563 | 75 | Jimmy Shannon |
+| 553 | 78 | KeeKee Williams |
+| 554 | 78 | Ryan Runyan |
+| 555 | 78 | Smiley3000 |
+| 556 | 77 | EvaLynn NeCole |
+| 557 | 77 | Dana Hawes |
+| 558 | 76 | Giggly Shatterline |
+| 559 | 76 | lady |
+| 560 | 76 | Essence Jones |
+| 561 | 76 | Guard Up |
+| 562 | 76 | Bold Clusterer |
+| 563 | 76 | Angelique Talbot |
 | 564 | 75 | MzJuice Box |
 | 565 | 75 | sasha |
-| 566 | 75 | Courtney Robinson |
-| 567 | 75 | Erika |
-| 568 | 74 | Nichelle Warren |
-| 569 | 74 | Cortrell Foster |
-| 570 | 74 | Sabrina Wilkerson |
-| 571 | 74 | Sunny Clicky |
-| 572 | 74 | Kimmie Gargano |
-| 573 | 74 | Glitzy Clusterer |
-| 574 | 74 | Tetrisdestroyer |
-| 575 | 74 | Casey Chapman |
-| 576 | 73 | Marlynnnnn |
-| 577 | 73 | EvaLynn NeCole |
+| 566 | 75 | Jimmy Shannon |
+| 567 | 75 | Courtney Robinson |
+| 568 | 75 | Erika |
+| 569 | 74 | Nichelle Warren |
+| 570 | 74 | Sunny Clicky |
+| 571 | 74 | Cortrell Foster |
+| 572 | 74 | Sabrina Wilkerson |
+| 573 | 74 | Kimmie Gargano |
+| 574 | 74 | Glitzy Clusterer |
+| 575 | 74 | Tetrisdestroyer |
+| 576 | 74 | Casey Chapman |
+| 577 | 73 | Marlynnnnn |
 | 578 | 73 | Saucy Faller |
 | 579 | 72 | JesusSaves 😇 |
 | 580 | 72 | Lauraly |
-| 581 | 72 | Poppy Twister |
-| 582 | 72 | Marlainia Boyd |
+| 581 | 72 | Marlainia Boyd |
+| 582 | 72 | Poppy Twister |
 | 583 | 72 | Nekka |
 | 584 | 72 | Rachel Renae Bettis |
 | 585 | 72 | Boldy Matchbuilder |
