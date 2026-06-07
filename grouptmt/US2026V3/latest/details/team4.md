@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 23:14:19 UTC
+# Standings for team4 as of 2026-06-07 23:14:41 UTC
 
 **Total Participants:** 1651
 
@@ -86,8 +86,8 @@
 | 78 | 848 | Beee |
 | 79 | 837 | Fancy Crasher |
 | 80 | 830 | Kitsune Bi |
-| 81 | 826 | Lupe Alburquerque |
-| 82 | 826 | Sharidan Klinginsmith |
+| 81 | 826 | Sharidan Klinginsmith |
+| 82 | 826 | Lupe Alburquerque |
 | 83 | 823 | Tina Shalay Hayes |
 | 84 | 805 | JoLinda Dunn |
 | 85 | 800 | Melissa Brown |
@@ -153,15 +153,15 @@
 | 145 | 422 | squareMel |
 | 146 | 421 | Michelle Ross |
 | 147 | 420 | DexterDobbins |
-| 148 | 418 | Futrell Brent |
-| 149 | 418 | Aisha Estrada |
+| 148 | 418 | Aisha Estrada |
+| 149 | 418 | Futrell Brent |
 | 150 | 415 | Chuck Gannon |
 | 151 | 409 | Hen |
 | 152 | 406 | Kelley Roach |
 | 153 | 402 | Pepone Pepe |
 | 154 | 402 | Boldy Rumbler |
-| 155 | 400 | Amber Doyle |
-| 156 | 400 | Suzanne Carter |
+| 155 | 400 | Suzanne Carter |
+| 156 | 400 | Amber Doyle |
 | 157 | 399 | Iforget |
 | 158 | 398 | Nicole |
 | 159 | 397 | Shiny Dashy |
@@ -169,21 +169,21 @@
 | 161 | 379 | Devinlee Brown |
 | 162 | 378 | Hwanger Land |
 | 163 | 376 | Dee Wizz |
-| 164 | 373 | Tanita Jobe |
-| 165 | 373 | Scamp Jones |
+| 164 | 373 | Scamp Jones |
+| 165 | 373 | Tanita Jobe |
 | 166 | 363 | Christy Beezley-Forbush |
 | 167 | 359 | BCO22 |
 | 168 | 359 | Megan Vick |
 | 169 | 358 | Joyce Myers |
 | 170 | 352 | Bobbie Harrell |
 | 171 | 350 | RotatedWrongAgain |
-| 172 | 346 | Alexis Cor |
-| 173 | 346 | Randy M Hatch |
+| 172 | 346 | Randy M Hatch |
+| 173 | 346 | Alexis Cor |
 | 174 | 343 | Cinta Marie |
-| 175 | 342 | QueenLi86 |
-| 176 | 342 | Katie Martin |
-| 177 | 340 | MomyLiz |
-| 178 | 340 | Jojo Ann |
+| 175 | 342 | Katie Martin |
+| 176 | 342 | QueenLi86 |
+| 177 | 340 | Jojo Ann |
+| 178 | 340 | MomyLiz |
 | 179 | 338 | shawna |
 | 180 | 336 | Samantha Worley |
 | 181 | 335 | Julian Gasque |
@@ -193,9 +193,9 @@
 | 185 | 325 | Kristen Wallace |
 | 186 | 324 | Dazzle Dragon |
 | 187 | 323 | zoes |
-| 188 | 320 | Boldy Crusher |
-| 189 | 320 | Shmeedo |
-| 190 | 320 | Lush Fitblock |
+| 188 | 320 | Lush Fitblock |
+| 189 | 320 | Boldy Crusher |
+| 190 | 320 | Shmeedo |
 | 191 | 320 | Magz |
 | 192 | 317 | Sisi RedVelvet Reneè |
 | 193 | 315 | Aramat |
@@ -205,15 +205,15 @@
 | 197 | 310 | Fran Aaron-Ring |
 | 198 | 309 | HurkleDurkle88 |
 | 199 | 308 | matt |
-| 200 | 303 | TRUCHILD777$$$ |
-| 201 | 303 | Anna Gribble |
+| 200 | 303 | Anna Gribble |
+| 201 | 303 | TRUCHILD777$$$ |
 | 202 | 302 | Danny Ortiz |
-| 203 | 302 | Piece of Cake |
-| 204 | 302 | Goofy Riser |
+| 203 | 302 | Goofy Riser |
+| 204 | 302 | Piece of Cake |
 | 205 | 301 | Tiffany Bunker-Hill |
 | 206 | 301 | LastBoi |
-| 207 | 300 | CIRAZYPNOY |
-| 208 | 300 | Perky Riserbuilder |
+| 207 | 300 | Perky Riserbuilder |
+| 208 | 300 | CIRAZYPNOY |
 | 209 | 300 | Genag |
 | 210 | 298 | Colin |
 | 211 | 297 | Anthony Lewis |
@@ -222,13 +222,13 @@
 | 214 | 288 | Maria Castillo |
 | 215 | 285 | Dana Abegil Lawas |
 | 216 | 282 | Cyndi Najar |
-| 217 | 281 | Capone |
-| 218 | 281 | Margie Thomas |
-| 219 | 281 | Waxboss |
+| 217 | 281 | Margie Thomas |
+| 218 | 281 | Waxboss |
+| 219 | 281 | Capone |
 | 220 | 280 | Baysoph |
 | 221 | 279 | Cheery Risegrid |
-| 222 | 277 | Giggly Tilt |
-| 223 | 277 | Tawna Curry |
+| 222 | 277 | Tawna Curry |
+| 223 | 277 | Giggly Tilt |
 | 224 | 276 | Dubiousdust |
 | 225 | 273 | Shocinda Sherwood |
 | 226 | 273 | Tiggerjake |
@@ -264,14 +264,14 @@
 | 256 | 233 | Joseph Hunter |
 | 257 | 232 | Pepper |
 | 258 | 230 | gabs |
-| 259 | 228 | SupaFly |
-| 260 | 228 | Shiny Brick |
-| 261 | 227 | Stephanie Myers |
-| 262 | 227 | Snippy Splitter |
-| 263 | 226 | Justin Michael |
-| 264 | 226 | Susan Stofberg Beltran |
-| 265 | 226 | Sassy Rollpiece |
-| 266 | 225 | TJ |
+| 259 | 229 | TJ |
+| 260 | 228 | SupaFly |
+| 261 | 228 | Shiny Brick |
+| 262 | 227 | Stephanie Myers |
+| 263 | 227 | Snippy Splitter |
+| 264 | 226 | Justin Michael |
+| 265 | 226 | Susan Stofberg Beltran |
+| 266 | 226 | Sassy Rollpiece |
 | 267 | 225 | Erika Seaton |
 | 268 | 225 | Melika Zeheb |
 | 269 | 225 | No Time |
@@ -634,14 +634,14 @@
 | 626 | 94 | Reina Pagan |
 | 627 | 93 | Marina |
 | 628 | 93 | Joha Mldo Castillo |
-| 629 | 93 | Domo Dpn |
-| 630 | 93 | Travis McKinnon |
-| 631 | 92 | Lush Twisterfit |
-| 632 | 92 | Giggly Column |
-| 633 | 92 | Autumn Maher |
-| 634 | 91 | Breezy Rollfit |
-| 635 | 91 | Giggy Bridgepiece |
-| 636 | 91 | Smiley Wipeblock |
+| 629 | 93 | Smiley Wipeblock |
+| 630 | 93 | Domo Dpn |
+| 631 | 93 | Travis McKinnon |
+| 632 | 92 | Lush Twisterfit |
+| 633 | 92 | Giggly Column |
+| 634 | 92 | Autumn Maher |
+| 635 | 91 | Breezy Rollfit |
+| 636 | 91 | Giggy Bridgepiece |
 | 637 | 91 | Khiem Hernandez |
 | 638 | 91 | Michelle Michelle |
 | 639 | 91 | Slinky Column |
@@ -710,44 +710,44 @@
 | 702 | 83 | David Lay |
 | 703 | 83 | Karen Denise Ann Veitch |
 | 704 | 82 | Layne Davis |
-| 705 | 82 | Alicia Blunt |
-| 706 | 82 | Dapper Tiltpiece |
-| 707 | 82 | Virgil Mayfield-Brown |
-| 708 | 82 | Candice Sellers Worley |
-| 709 | 82 | Charity Thomas |
-| 710 | 81 | Destiny Starr LeValdo |
-| 711 | 81 | pussface |
+| 705 | 82 | Dapper Tiltpiece |
+| 706 | 82 | Charity Thomas |
+| 707 | 82 | Groovy Towerbuilder |
+| 708 | 82 | Alicia Blunt |
+| 709 | 82 | Virgil Mayfield-Brown |
+| 710 | 82 | Candice Sellers Worley |
+| 711 | 81 | GingaNinja |
 | 712 | 81 | Anthony Kollar |
-| 713 | 81 | Giggy Risegrid |
-| 714 | 81 | Deborah Ayliffe |
-| 715 | 81 | GingaNinja |
-| 716 | 80 | Joe Richard |
-| 717 | 80 | Alicia |
-| 718 | 80 | Brooke Bauer |
+| 713 | 81 | Deborah Ayliffe |
+| 714 | 81 | Giggy Risegrid |
+| 715 | 81 | pussface |
+| 716 | 81 | Destiny Starr LeValdo |
+| 717 | 80 | Freddy-B |
+| 718 | 80 | Joe Richard |
 | 719 | 80 | Diane Obungu |
-| 720 | 80 | Mike Zec II |
-| 721 | 80 | Keke Johnson |
-| 722 | 80 | Alice Eisnor-Martens |
-| 723 | 80 | Jay Keating |
-| 724 | 80 | Rin |
-| 725 | 80 | Cecilia Hicks |
-| 726 | 80 | Freddy-B |
+| 720 | 80 | Alicia |
+| 721 | 80 | Brooke Bauer |
+| 722 | 80 | Keke Johnson |
+| 723 | 80 | Cecilia Hicks |
+| 724 | 80 | Mike Zec II |
+| 725 | 80 | Alice Eisnor-Martens |
+| 726 | 80 | Jay Keating |
 | 727 | 80 | Marie Adkins |
-| 728 | 79 | Mone DyTorrion Zyan Lotts |
-| 729 | 79 | Gean DeJesus |
-| 730 | 79 | Gigi5 |
-| 731 | 79 | Sonya |
-| 732 | 79 | Groovy Towerbuilder |
-| 733 | 79 | Joe Win |
-| 734 | 79 | Groovy Stacker |
-| 735 | 79 | Rhonda Dowling |
-| 736 | 79 | Dru Lui |
-| 737 | 79 | Leasa Marie |
-| 738 | 79 | Deb 07 |
-| 739 | 79 | Lisa Jones |
-| 740 | 79 | Lindsey DeRosa |
-| 741 | 78 | Lush Match |
-| 742 | 78 | Lilo |
+| 728 | 80 | Rin |
+| 729 | 79 | Joe Win |
+| 730 | 79 | Mone DyTorrion Zyan Lotts |
+| 731 | 79 | Gean DeJesus |
+| 732 | 79 | Lindsey DeRosa |
+| 733 | 79 | Sonya |
+| 734 | 79 | Gigi5 |
+| 735 | 79 | Lisa Jones |
+| 736 | 79 | Groovy Stacker |
+| 737 | 79 | Deb 07 |
+| 738 | 79 | Rhonda Dowling |
+| 739 | 79 | Leasa Marie |
+| 740 | 79 | Dru Lui |
+| 741 | 78 | Lilo |
+| 742 | 78 | Lush Match |
 | 743 | 78 | Christopher Lindsey |
 | 744 | 78 | Zappy Matchgrid |
 | 745 | 77 | Oc Tive |
