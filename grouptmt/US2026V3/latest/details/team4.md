@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 16:30:19 UTC
+# Standings for team4 as of 2026-06-07 16:30:40 UTC
 
 **Total Participants:** 1530
 
@@ -163,9 +163,9 @@
 | 155 | 359 | BCO22 |
 | 156 | 358 | Joyce Myers |
 | 157 | 350 | RotatedWrongAgain |
-| 158 | 346 | Alexis Cor |
-| 159 | 343 | Cinta Marie |
-| 160 | 343 | Scamp Jones |
+| 158 | 348 | Scamp Jones |
+| 159 | 346 | Alexis Cor |
+| 160 | 343 | Cinta Marie |
 | 161 | 342 | Katie Martin |
 | 162 | 340 | MomyLiz |
 | 163 | 336 | Samantha Worley |
