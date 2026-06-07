@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:32:19 UTC
+# Standings for team1 as of 2026-06-07 11:32:41 UTC
 
 **Total Participants:** 1445
 
@@ -118,9 +118,9 @@
 | 110 | 505 | Gael Quintana |
 | 111 | 495 | W.A. Simpson |
 | 112 | 488 | Trendalyn Webb |
-| 113 | 481 | Novaa |
-| 114 | 477 | Chenell Gillard |
-| 115 | 474 | De'Laonzeo Anthony |
+| 113 | 486 | De'Laonzeo Anthony |
+| 114 | 481 | Novaa |
+| 115 | 477 | Chenell Gillard |
 | 116 | 474 | DaVonte' Cretter |
 | 117 | 455 | Felicia Williams |
 | 118 | 447 | Gotcha |
