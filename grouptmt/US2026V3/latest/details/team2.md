@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 10:07:18 UTC
+# Standings for team2 as of 2026-06-07 10:08:18 UTC
 
 **Total Participants:** 1695
 
@@ -138,7 +138,7 @@
 | 130 | 483 | Karen Reid Cenkush |
 | 131 | 477 | Amy Gale |
 | 132 | 476 | snowwol |
-| 133 | 468 | Bubbly Strikerpiece |
+| 133 | 470 | Bubbly Strikerpiece |
 | 134 | 466 | Judy Long |
 | 135 | 458 | Kaycie Shaffer |
 | 136 | 453 | Kimberly Cowan |
@@ -162,7 +162,7 @@
 | 154 | 380 | Zany Blockclear |
 | 155 | 375 | MaddieCherie |
 | 156 | 375 | Milad Arzani |
-| 157 | 371 | Lisa Underwood Desmond |
+| 157 | 373 | Lisa Underwood Desmond |
 | 158 | 367 | Nutty Curver |
 | 159 | 365 | Branden Frankowski |
 | 160 | 360 | Jacob Carpenter |
@@ -175,18 +175,18 @@
 | 167 | 347 | Traci Abern |
 | 168 | 343 | Theresa Marie |
 | 169 | 343 | Jason Cook |
-| 170 | 342 | Bri St Peter |
-| 171 | 340 | Amy Gregg |
-| 172 | 340 | Mom |
-| 173 | 339 | Loopy Curvebuilder |
-| 174 | 336 | Jef Wassom |
-| 175 | 333 | Christina Maria |
-| 176 | 328 | Keri Mears |
-| 177 | 328 | Tim Tim |
-| 178 | 325 | Flashy Twistline |
-| 179 | 325 | Fudgie Pie |
-| 180 | 323 | Shannon Wilson |
-| 181 | 323 | Groovy Snapper |
+| 170 | 343 | Groovy Snapper |
+| 171 | 342 | Bri St Peter |
+| 172 | 340 | Amy Gregg |
+| 173 | 340 | Mom |
+| 174 | 339 | Loopy Curvebuilder |
+| 175 | 336 | Jef Wassom |
+| 176 | 333 | Christina Maria |
+| 177 | 328 | Keri Mears |
+| 178 | 328 | Tim Tim |
+| 179 | 325 | Flashy Twistline |
+| 180 | 325 | Fudgie Pie |
+| 181 | 323 | Shannon Wilson |
 | 182 | 322 | Nikki Hayes |
 | 183 | 319 | Flower_child |
 | 184 | 314 | DayDreamer79 |
@@ -228,21 +228,21 @@
 | 220 | 261 | AndrewandShela Gornik |
 | 221 | 259 | Angie Kowalsky Olson |
 | 222 | 257 | Xandrea Jones |
-| 223 | 253 | Marge Cromer |
-| 224 | 253 | Hilliary Beyer |
-| 225 | 252 | Kathy Strickland |
-| 226 | 250 | marsam |
-| 227 | 250 | Nikki EightySixed |
-| 228 | 250 | Happy Drop |
-| 229 | 250 | Iesha Cupil |
-| 230 | 247 | Brittni Lawrence |
+| 223 | 257 | Dallas Runyan |
+| 224 | 253 | Marge Cromer |
+| 225 | 253 | Hilliary Beyer |
+| 226 | 252 | Kathy Strickland |
+| 227 | 250 | marsam |
+| 228 | 250 | Iesha Cupil |
+| 229 | 250 | Happy Drop |
+| 230 | 250 | Nikki EightySixed |
 | 231 | 247 | Melissa Thomas |
-| 232 | 246 | Elizabeth Henry |
+| 232 | 247 | Brittni Lawrence |
 | 233 | 246 | Brooke Lynn Marie Adelaide |
-| 234 | 241 | Boldy Wobbler |
-| 235 | 240 | PaiBri |
-| 236 | 239 | Norma Ortiz |
-| 237 | 237 | Dallas Runyan |
+| 234 | 246 | Elizabeth Henry |
+| 235 | 241 | Boldy Wobbler |
+| 236 | 240 | PaiBri |
+| 237 | 239 | Norma Ortiz |
 | 238 | 237 | Michelle Luke Banta |
 | 239 | 236 | Lush Party |
 | 240 | 235 | Tami Kay Williams Watson |
