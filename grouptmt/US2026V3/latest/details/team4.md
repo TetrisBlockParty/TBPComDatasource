@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 18:12:19 UTC
+# Standings for team4 as of 2026-06-07 18:12:42 UTC
 
 **Total Participants:** 1564
 
@@ -44,7 +44,7 @@
 | 36 | 2133 | Alexandria Frazier |
 | 37 | 2058 | Carly Stempien |
 | 38 | 1922 | Dana Rinaldi |
-| 39 | 1908 | Michele Walker |
+| 39 | 1920 | Michele Walker |
 | 40 | 1853 | Loony Rotater |
 | 41 | 1711 | Cal Renee |
 | 42 | 1700 | Leah Gorsuch |
@@ -231,13 +231,13 @@
 | 223 | 246 | Lucy Honer |
 | 224 | 245 | Baysoph |
 | 225 | 244 | beauxie |
-| 226 | 241 | Queen B |
-| 227 | 241 | Alma López Morales |
+| 226 | 241 | Alma López Morales |
+| 227 | 241 | Queen B |
 | 228 | 240 | blockhead |
 | 229 | 239 | Shauna Davis |
 | 230 | 236 | Becky McCool |
-| 231 | 231 | Patrick Alley |
-| 232 | 231 | Chirpy Link |
+| 231 | 231 | Chirpy Link |
+| 232 | 231 | Patrick Alley |
 | 233 | 230 | gabs |
 | 234 | 226 | Sassy Rollpiece |
 | 235 | 225 | No Time |
@@ -245,8 +245,8 @@
 | 237 | 222 | Karen Davis |
 | 238 | 221 | Jackie Miller |
 | 239 | 221 | Renee Sapp |
-| 240 | 220 | Silly Risegrid |
-| 241 | 220 | CIRAZYPNOY |
+| 240 | 220 | CIRAZYPNOY |
+| 241 | 220 | Silly Risegrid |
 | 242 | 220 | Sarah Montagne Forsberg |
 | 243 | 218 | Lori Stembridge |
 | 244 | 217 | Damon Gaston |
@@ -258,12 +258,12 @@
 | 250 | 210 | Sfalcon1. |
 | 251 | 210 | Leslie Ann Carter |
 | 252 | 209 | Crystal Hammonds |
-| 253 | 208 | PerfectPieces |
-| 254 | 207 | Pepper |
-| 255 | 207 | Aramat |
-| 256 | 206 | Snippy Splitter |
-| 257 | 206 | JuicyJuice |
-| 258 | 206 | jaz |
+| 253 | 208 | jaz |
+| 254 | 208 | PerfectPieces |
+| 255 | 207 | Pepper |
+| 256 | 207 | Aramat |
+| 257 | 206 | Snippy Splitter |
+| 258 | 206 | JuicyJuice |
 | 259 | 206 | Flashy Shatterer |
 | 260 | 206 | Stacy G |
 | 261 | 200 | Maurice DeJean |
@@ -329,8 +329,8 @@
 | 321 | 167 | Brainbabe |
 | 322 | 166 | Susan Stofberg Beltran |
 | 323 | 166 | Cheeky Fallzone |
-| 324 | 165 | Ryan Paul Clark-Ramsey |
-| 325 | 165 | Blockcrusher |
+| 324 | 165 | Blockcrusher |
+| 325 | 165 | Ryan Paul Clark-Ramsey |
 | 326 | 163 | Dizzy Slammer |
 | 327 | 163 | Maegon Brazille |
 | 328 | 162 | Dapper Strikerpiece |
@@ -371,11 +371,11 @@
 | 363 | 148 | Bre Dee |
 | 364 | 148 | Latisha TeTe Williams |
 | 365 | 147 | Allysha McFarland |
-| 366 | 147 | Ashley Eskridge |
-| 367 | 147 | EvoKitty |
-| 368 | 147 | Henry Lanier |
-| 369 | 146 | HurkleDurkle88 |
-| 370 | 146 | Happy Shatterfit |
+| 366 | 147 | Happy Shatterfit |
+| 367 | 147 | Ashley Eskridge |
+| 368 | 147 | EvoKitty |
+| 369 | 147 | Henry Lanier |
+| 370 | 146 | HurkleDurkle88 |
 | 371 | 146 | Zesty Twistpiece |
 | 372 | 146 | Chilly Pivot |
 | 373 | 146 | Jasmine Marie |
@@ -448,9 +448,9 @@
 | 440 | 120 | Ada Rodriguez Spradley |
 | 441 | 120 | Holly Wessel |
 | 442 | 120 | 1694AF |
-| 443 | 120 | Will E Ayala |
-| 444 | 120 | Lul Babie |
-| 445 | 120 | Stotty |
+| 443 | 120 | Stotty |
+| 444 | 120 | Will E Ayala |
+| 445 | 120 | Lul Babie |
 | 446 | 119 | Dennis Montoya |
 | 447 | 119 | Ashley Jenkins |
 | 448 | 119 | Shawna Downey |
@@ -478,8 +478,8 @@
 | 470 | 113 | Brandon Bedenbaugh |
 | 471 | 113 | TheazO |
 | 472 | 113 | Amanda Snow |
-| 473 | 112 | Loopy Hitter |
-| 474 | 112 | Andrea Dre Lomeli |
+| 473 | 112 | Andrea Dre Lomeli |
+| 474 | 112 | Loopy Hitter |
 | 475 | 112 | Linda Miltenburg |
 | 476 | 112 | medicjessi |
 | 477 | 111 | Richard Bearse |
@@ -544,8 +544,8 @@
 | 536 | 99 | Ricardo Arias |
 | 537 | 99 | Azahares Alonso |
 | 538 | 99 | Inez Nez |
-| 539 | 99 | Erica Pompey |
-| 540 | 99 | Melissa Quinn |
+| 539 | 99 | Melissa Quinn |
+| 540 | 99 | Erica Pompey |
 | 541 | 98 | Scrumptious |
 | 542 | 98 | Mark Fitch Jr. |
 | 543 | 98 | MrLoner Stoner |
@@ -672,8 +672,8 @@
 | 664 | 80 | Alicia |
 | 665 | 80 | Kelly Miller Williams |
 | 666 | 80 | Keke Johnson |
-| 667 | 80 | Esmond Johnson IV |
-| 668 | 80 | Krista Diaz |
+| 667 | 80 | Krista Diaz |
+| 668 | 80 | Esmond Johnson IV |
 | 669 | 79 | Deb 07 |
 | 670 | 79 | Lisa Jones |
 | 671 | 79 | Lindsey DeRosa |
@@ -843,59 +843,59 @@
 | 835 | 59 | Jeni |
 | 836 | 59 | Tammy Lasseigne |
 | 837 | 59 | Jonathan Jackson |
-| 838 | 59 | Miranda Brown |
-| 839 | 59 | Tactical_B |
+| 838 | 59 | Tactical_B |
+| 839 | 59 | Miranda Brown |
 | 840 | 59 | Anthony Kollar |
-| 841 | 58 | Hayze |
-| 842 | 58 | Tipsy Curvetile |
-| 843 | 58 | Casey Thomas |
-| 844 | 58 | Yaya Selbor |
-| 845 | 58 | h_chloe10 |
-| 846 | 58 | Alicia Blunt |
-| 847 | 58 | Jessica Sanchez |
-| 848 | 57 | PapaB |
-| 849 | 57 | Merritt Brandt |
-| 850 | 57 | Meghan Etchells |
-| 851 | 57 | Lala |
-| 852 | 57 | Budda Huitt |
-| 853 | 57 | Волна Бог |
+| 841 | 58 | Zappy Matchgrid |
+| 842 | 58 | Jessica Sanchez |
+| 843 | 58 | Alicia Blunt |
+| 844 | 58 | h_chloe10 |
+| 845 | 58 | Yaya Selbor |
+| 846 | 58 | Casey Thomas |
+| 847 | 58 | Tipsy Curvetile |
+| 848 | 58 | Hayze |
+| 849 | 57 | PapaB |
+| 850 | 57 | Merritt Brandt |
+| 851 | 57 | Meghan Etchells |
+| 852 | 57 | Lala |
+| 853 | 57 | Budda Huitt |
 | 854 | 57 | Heather Hilferty |
 | 855 | 57 | Meela Abdurrab |
-| 856 | 57 | Hotstuff |
-| 857 | 56 | Natalie Ohrtman Strand |
-| 858 | 56 | Vicente Bolaños Jr. |
-| 859 | 56 | Kayla Haddenham |
-| 860 | 56 | Lashae |
-| 861 | 56 | Celina DiBastiani |
-| 862 | 56 | Krystalclear |
-| 863 | 56 | Zappy Matchgrid |
-| 864 | 56 | Alaina Rousseau |
-| 865 | 56 | Blessedmom865 |
-| 866 | 56 | BigCup ReeseCup |
-| 867 | 56 | TSM Ballsniffer |
-| 868 | 55 | Krissy Smith |
-| 869 | 55 | Donny Keets |
-| 870 | 55 | MsChelleAnn |
-| 871 | 55 | Melissa Wilson |
-| 872 | 55 | Hooti Smile |
-| 873 | 55 | RustyMaster40 |
+| 856 | 57 | Волна Бог |
+| 857 | 57 | Hotstuff |
+| 858 | 56 | Natalie Ohrtman Strand |
+| 859 | 56 | Vicente Bolaños Jr. |
+| 860 | 56 | Kayla Haddenham |
+| 861 | 56 | Blessedmom865 |
+| 862 | 56 | Alaina Rousseau |
+| 863 | 56 | BigCup ReeseCup |
+| 864 | 56 | TSM Ballsniffer |
+| 865 | 56 | Krystalclear |
+| 866 | 56 | Celina DiBastiani |
+| 867 | 56 | Lashae |
+| 868 | 55 | MsChelleAnn |
+| 869 | 55 | Gerald Richard Franke |
+| 870 | 55 | RustyMaster40 |
+| 871 | 55 | Donny Keets |
+| 872 | 55 | Melissa Wilson |
+| 873 | 55 | Bee |
 | 874 | 55 | Janna Thompson |
-| 875 | 55 | The Jazziest |
-| 876 | 55 | Gerald Richard Franke |
-| 877 | 55 | EmBem |
-| 878 | 55 | Katherine Stec |
-| 879 | 55 | Bee |
-| 880 | 54 | Scott Baum |
-| 881 | 54 | Danielle Porter |
-| 882 | 54 | Earl Edwards |
-| 883 | 54 | Heather Brown |
-| 884 | 54 | Martha Fisher |
-| 885 | 54 | Felicia Harrison |
-| 886 | 54 | Michelle Wiles |
-| 887 | 54 | Bridget Reilly |
-| 888 | 54 | Clever Shuffler |
-| 889 | 54 | Jodi Haman-wheeler |
-| 890 | 54 | Elise Ann |
+| 875 | 55 | EmBem |
+| 876 | 55 | Katherine Stec |
+| 877 | 55 | Krissy Smith |
+| 878 | 55 | The Jazziest |
+| 879 | 55 | Hooti Smile |
+| 880 | 54 | Elise Ann |
+| 881 | 54 | Scott Baum |
+| 882 | 54 | Clever Shuffler |
+| 883 | 54 | Bridget Reilly |
+| 884 | 54 | Heather Brown |
+| 885 | 54 | Michelle Wiles |
+| 886 | 54 | Felicia Harrison |
+| 887 | 54 | Martha Fisher |
+| 888 | 54 | Jodi Haman-wheeler |
+| 889 | 54 | Earl Edwards |
+| 890 | 54 | Danielle Porter |
 | 891 | 53 | Sandra O'Reilly |
 | 892 | 53 | Heidi Lyn Ramirez |
 | 893 | 53 | Sarah Leake |

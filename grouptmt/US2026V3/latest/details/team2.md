@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 18:12:19 UTC
+# Standings for team2 as of 2026-06-07 18:12:42 UTC
 
 **Total Participants:** 1845
 
@@ -106,12 +106,12 @@
 | 98 | 820 | Suki Kaur |
 | 99 | 804 | Bon Lynn |
 | 100 | 802 | Charley Bedford |
-| 101 | 794 | Deborah Boyce Minor |
-| 102 | 781 | haune |
-| 103 | 775 | Smiley Dropper |
-| 104 | 774 | Sarah Griffey |
-| 105 | 756 | snowwol |
-| 106 | 750 | Denise Potter |
+| 101 | 800 | Denise Potter |
+| 102 | 794 | Deborah Boyce Minor |
+| 103 | 781 | haune |
+| 104 | 775 | Smiley Dropper |
+| 105 | 774 | Sarah Griffey |
+| 106 | 756 | snowwol |
 | 107 | 747 | Hoppy Rotate |
 | 108 | 718 | Amber-leigh Williams |
 | 109 | 711 | Groovy Snapper |
@@ -133,8 +133,8 @@
 | 125 | 585 | Rhonda Diebold |
 | 126 | 582 | Nettrainer |
 | 127 | 581 | Dsabrina Maxey |
-| 128 | 577 | Gloria May Shook |
-| 129 | 577 | Lindsay Klemp |
+| 128 | 577 | Lindsay Klemp |
+| 129 | 577 | Gloria May Shook |
 | 130 | 574 | Brandy McCune Reep |
 | 131 | 572 | Jef Wassom |
 | 132 | 568 | Kathleen Dumbazz |
@@ -148,8 +148,8 @@
 | 140 | 548 | Jackie Tupper |
 | 141 | 541 | Ricardo Ewart |
 | 142 | 536 | Nikki Carter |
-| 143 | 535 | Jgato |
-| 144 | 535 | Amanda Sikes |
+| 143 | 535 | Amanda Sikes |
+| 144 | 535 | Jgato |
 | 145 | 534 | Zappy Pattern |
 | 146 | 519 | Mom |
 | 147 | 515 | Loony Faller |
@@ -171,8 +171,8 @@
 | 163 | 436 | Gill |
 | 164 | 436 | MegaPooh |
 | 165 | 429 | Cool Climber |
-| 166 | 418 | Kelly Rogers |
-| 167 | 418 | Zany Blockclear |
+| 166 | 418 | Zany Blockclear |
+| 167 | 418 | Kelly Rogers |
 | 168 | 416 | Suki Jacobs |
 | 169 | 414 | Tara |
 | 170 | 413 | Chirpy Grid |
@@ -182,8 +182,8 @@
 | 174 | 399 | MaddieCherie |
 | 175 | 397 | Crystal Allen |
 | 176 | 394 | Danielle Blount |
-| 177 | 392 | Snappy Blockbuilder |
-| 178 | 392 | Zesty Strikerbuilder |
+| 177 | 392 | Zesty Strikerbuilder |
+| 178 | 392 | Snappy Blockbuilder |
 | 179 | 390 | La chulis |
 | 180 | 385 | Amy Gregg |
 | 181 | 384 | Lisa Underwood Desmond |
