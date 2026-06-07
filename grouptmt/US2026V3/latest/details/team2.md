@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 21:18:19 UTC
+# Standings for team2 as of 2026-06-07 21:18:40 UTC
 
 **Total Participants:** 1906
 
@@ -141,14 +141,14 @@
 | 133 | 603 | Ashlea McBlaine |
 | 134 | 597 | Nettrainer |
 | 135 | 596 | Pooh |
-| 136 | 585 | Rhonda Diebold |
-| 137 | 581 | Dsabrina Maxey |
-| 138 | 577 | Lindsay Klemp |
-| 139 | 576 | Amber Miller Wirick |
-| 140 | 574 | Brandy McCune Reep |
-| 141 | 570 | Kathleen Dumbazz |
-| 142 | 570 | Jackie Tupper |
-| 143 | 569 | Tisha Hairston |
+| 136 | 588 | Tisha Hairston |
+| 137 | 585 | Rhonda Diebold |
+| 138 | 581 | Dsabrina Maxey |
+| 139 | 577 | Lindsay Klemp |
+| 140 | 576 | Amber Miller Wirick |
+| 141 | 574 | Brandy McCune Reep |
+| 142 | 570 | Kathleen Dumbazz |
+| 143 | 570 | Jackie Tupper |
 | 144 | 554 | Cathy Tippett |
 | 145 | 553 | Jamie Jones |
 | 146 | 550 | Sully |
