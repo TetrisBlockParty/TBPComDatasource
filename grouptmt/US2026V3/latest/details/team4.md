@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 16:36:19 UTC
+# Standings for team4 as of 2026-06-07 16:36:42 UTC
 
 **Total Participants:** 1533
 
@@ -812,16 +812,16 @@
 | 804 | 60 | Freddy-B |
 | 805 | 60 | Robert Crow |
 | 806 | 60 | Brett |
-| 807 | 59 | Miranda Brown |
-| 808 | 59 | Beezy |
-| 809 | 59 | Tammy Lasseigne |
-| 810 | 59 | Lovely |
-| 811 | 59 | Daniel Lossman |
-| 812 | 59 | Jonathan Jackson |
-| 813 | 59 | Jeni |
-| 814 | 59 | Sarah |
-| 815 | 59 | Anthony Kollar |
-| 816 | 59 | Koren Heersink |
+| 807 | 60 | Koren Heersink |
+| 808 | 59 | Anthony Kollar |
+| 809 | 59 | Miranda Brown |
+| 810 | 59 | Beezy |
+| 811 | 59 | Tammy Lasseigne |
+| 812 | 59 | Lovely |
+| 813 | 59 | Daniel Lossman |
+| 814 | 59 | Jonathan Jackson |
+| 815 | 59 | Jeni |
+| 816 | 59 | Sarah |
 | 817 | 58 | Hayze |
 | 818 | 58 | Jessica Sanchez |
 | 819 | 58 | Casey Thomas |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 16:36:19 UTC
+# Standings for team1 as of 2026-06-07 16:36:42 UTC
 
 **Total Participants:** 1508
 
@@ -82,14 +82,14 @@
 | 74 | 873 | Eric Mcgaughy |
 | 75 | 873 | Janine Hunter |
 | 76 | 836 | Tiana Moore |
-| 77 | 825 | Kimberly Hernandez |
+| 77 | 826 | Kimberly Hernandez |
 | 78 | 801 | Jazzy Dashpiece |
 | 79 | 784 | Todd C. Clemens |
 | 80 | 766 | Jaida De'Anne Cox |
 | 81 | 764 | Joy Citizen Pickney |
 | 82 | 763 | Richard Horton |
-| 83 | 749 | Aviv Zehavi |
-| 84 | 740 | IamJust Neyamijah Washington Sr. |
+| 83 | 760 | IamJust Neyamijah Washington Sr. |
+| 84 | 749 | Aviv Zehavi |
 | 85 | 710 | ing410 |
 | 86 | 689 | Jaida King |
 | 87 | 688 | Dawn L Washington-Feuquay |
@@ -503,73 +503,73 @@
 | 495 | 102 | Mom3granny2 |
 | 496 | 102 | Christi Walker Patton |
 | 497 | 102 | 大竹直之 |
-| 498 | 101 | Elaine Pauley |
+| 498 | 101 | Mommy Frank |
 | 499 | 101 | Wacky Wipepiece |
-| 500 | 101 | Mommy Frank |
-| 501 | 101 | Tito Divyn |
-| 502 | 101 | star |
-| 503 | 100 | Rebecca Jackson |
-| 504 | 100 | Leavon Smith |
-| 505 | 100 | Stephen Glaze |
-| 506 | 100 | Cornelius Neal |
+| 500 | 101 | star |
+| 501 | 101 | Elaine Pauley |
+| 502 | 101 | Tito Divyn |
+| 503 | 100 | Leavon Smith |
+| 504 | 100 | Seddrick |
+| 505 | 100 | Shanns |
+| 506 | 100 | Octavia Bsb Johnson |
 | 507 | 100 | Kennedi Brazziel |
-| 508 | 100 | Erica Charlise |
-| 509 | 100 | Tessa Gaskin |
-| 510 | 100 | Oldheads |
-| 511 | 100 | Octavia Bsb Johnson |
-| 512 | 100 | Shanns |
-| 513 | 100 | Seddrick |
+| 508 | 100 | Cornelius Neal |
+| 509 | 100 | Stephen Glaze |
+| 510 | 100 | Rebecca Jackson |
+| 511 | 100 | Oldheads |
+| 512 | 100 | Erica Charlise |
+| 513 | 100 | Tessa Gaskin |
 | 514 | 99 | Mahagony Small |
-| 515 | 99 | Chino Baby |
-| 516 | 99 | SeanSanchez |
-| 517 | 99 | Betsy B. Yohan |
-| 518 | 98 | Michael Smith |
-| 519 | 98 | Shannon Carriger |
-| 520 | 98 | Jjhandsome |
-| 521 | 98 | Sharee Robinson |
-| 522 | 98 | Christopher Shaw-Black |
-| 523 | 97 | Lootch |
+| 515 | 99 | Betsy B. Yohan |
+| 516 | 99 | CJ Robinson |
+| 517 | 99 | SeanSanchez |
+| 518 | 99 | Chino Baby |
+| 519 | 98 | Michael Smith |
+| 520 | 98 | Shannon Carriger |
+| 521 | 98 | Jjhandsome |
+| 522 | 98 | Sharee Robinson |
+| 523 | 98 | Christopher Shaw-Black |
 | 524 | 97 | Andrew Jay Vaughn |
-| 525 | 97 | Pretty Yella |
-| 526 | 97 | Twisty Cascadeclear |
-| 527 | 97 | Shanell Thomas |
-| 528 | 97 | Nichole Horsley-Conn |
-| 529 | 97 | Kristie |
-| 530 | 97 | Stephen Garland |
-| 531 | 96 | Shea Ladynick Henderson |
-| 532 | 96 | Sherri Keys |
-| 533 | 96 | Yazz |
-| 534 | 95 | Nona Harriel |
-| 535 | 95 | Adrian Harris |
-| 536 | 95 | Paul Pendley |
-| 537 | 95 | Angela Kitchens |
+| 525 | 97 | Twisty Cascadeclear |
+| 526 | 97 | Pretty Yella |
+| 527 | 97 | Lootch |
+| 528 | 97 | Shanell Thomas |
+| 529 | 97 | Nichole Horsley-Conn |
+| 530 | 97 | Kristie |
+| 531 | 97 | Stephen Garland |
+| 532 | 96 | Yazz |
+| 533 | 96 | Shea Ladynick Henderson |
+| 534 | 96 | Sherri Keys |
+| 535 | 95 | Shiny Lift |
+| 536 | 95 | Angela Kitchens |
+| 537 | 95 | Adrian Harris |
 | 538 | 95 | Jelyfish |
-| 539 | 95 | Shiny Lift |
-| 540 | 94 | Sha Anderson |
-| 541 | 94 | Derald Miller |
-| 542 | 94 | Marlainia Boyd |
-| 543 | 93 | FunTime |
+| 539 | 95 | Paul Pendley |
+| 540 | 95 | Nona Harriel |
+| 541 | 94 | Marlainia Boyd |
+| 542 | 94 | Sha Anderson |
+| 543 | 94 | Derald Miller |
 | 544 | 93 | Rene Hicks |
-| 545 | 93 | C Lo Green |
+| 545 | 93 | FunTime |
 | 546 | 93 | Holly Baker |
-| 547 | 92 | Kimberly Anderson |
-| 548 | 92 | Zappy Snapgrid |
-| 549 | 92 | Lauraly |
-| 550 | 92 | Poppy Twister |
-| 551 | 92 | Terrance Tindall |
-| 552 | 92 | Jimmy Shannon |
-| 553 | 91 | Zappy Clearfit |
+| 547 | 93 | C Lo Green |
+| 548 | 92 | Poppy Twister |
+| 549 | 92 | Terrance Tindall |
+| 550 | 92 | Zappy Snapgrid |
+| 551 | 92 | Kimberly Anderson |
+| 552 | 92 | Lauraly |
+| 553 | 92 | Jimmy Shannon |
 | 554 | 91 | Aaron Hartmann |
 | 555 | 91 | David A Alvino |
-| 556 | 90 | Essence Jones |
+| 556 | 91 | Zappy Clearfit |
 | 557 | 90 | mya |
 | 558 | 90 | Shameka Tiffany |
-| 559 | 90 | crumb bumc |
-| 560 | 90 | Slinky Fallzone |
-| 561 | 90 | CJ Robinson |
-| 562 | 89 | Daring Riserfit |
-| 563 | 89 | Jazzy Bridger |
-| 564 | 89 | Cynthia Cruell |
+| 559 | 90 | Essence Jones |
+| 560 | 90 | crumb bumc |
+| 561 | 90 | Slinky Fallzone |
+| 562 | 89 | Cynthia Cruell |
+| 563 | 89 | Daring Riserfit |
+| 564 | 89 | Jazzy Bridger |
 | 565 | 89 | Marc Papa |
 | 566 | 89 | Tracy Feyler |
 | 567 | 88 | Sallie Sanborn |
