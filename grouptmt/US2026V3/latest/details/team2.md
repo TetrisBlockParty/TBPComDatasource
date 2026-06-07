@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 00:18:19 UTC
+# Standings for team2 as of 2026-06-07 00:18:40 UTC
 
 **Total Participants:** 1468
 
@@ -136,7 +136,7 @@
 | 128 | 350 | Joni Michelle Morgan |
 | 129 | 348 | Eric Drane |
 | 130 | 347 | Zesty Strikerbuilder |
-| 131 | 342 | Zarah Kettler |
+| 131 | 346 | Zarah Kettler |
 | 132 | 342 | Bri St Peter |
 | 133 | 340 | Mom |
 | 134 | 332 | Jason Cook |
@@ -210,9 +210,9 @@
 | 202 | 217 | Elizabeth Henry |
 | 203 | 216 | PaiBri |
 | 204 | 212 | AndyJo |
-| 205 | 209 | Patria Osuoha |
-| 206 | 207 | Margie Ann Naffziger |
-| 207 | 206 | Logan Duffey |
+| 205 | 209 | Logan Duffey |
+| 206 | 209 | Patria Osuoha |
+| 207 | 207 | Margie Ann Naffziger |
 | 208 | 206 | Jodi Johnson |
 | 209 | 205 | Jeanna Mendez |
 | 210 | 205 | Melisa |
@@ -388,12 +388,12 @@
 | 380 | 108 | Maurii93 |
 | 381 | 107 | Sam Brewster |
 | 382 | 107 | Carole Brown |
-| 383 | 106 | Starvinmarvin |
-| 384 | 105 | Tamtam |
-| 385 | 105 | Melissa Fink |
-| 386 | 105 | Gabrielle Rivera |
-| 387 | 105 | Saucy Wrecker |
-| 388 | 105 | KazzyKay |
+| 383 | 107 | KazzyKay |
+| 384 | 106 | Starvinmarvin |
+| 385 | 105 | Tamtam |
+| 386 | 105 | Melissa Fink |
+| 387 | 105 | Gabrielle Rivera |
+| 388 | 105 | Saucy Wrecker |
 | 389 | 105 | Epic Tilemaker |
 | 390 | 104 | Epic Framezone |
 | 391 | 104 | Roe Sarmiento |

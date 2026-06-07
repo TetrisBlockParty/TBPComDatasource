@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 00:18:19 UTC
+# Standings for team1 as of 2026-06-07 00:18:40 UTC
 
 **Total Participants:** 1230
 
@@ -125,8 +125,8 @@
 | 117 | 370 | Quirky Fallgrid |
 | 118 | 361 | Ebony Waynes-robinson |
 | 119 | 349 | Tobey Marberry |
-| 120 | 334 | Christana Imjustbutton Stone |
-| 121 | 329 | Ty Øtg |
+| 120 | 339 | Ty Øtg |
+| 121 | 334 | Christana Imjustbutton Stone |
 | 122 | 328 | Jonathan Vee Jay |
 | 123 | 325 | Joey Albright |
 | 124 | 323 | Sheila Burnham |
@@ -838,64 +838,64 @@
 | 830 | 32 | Dandy Blockfall |
 | 831 | 32 | LaSharon Jackson |
 | 832 | 32 | Seirra Robinson |
-| 833 | 32 | Tomme Poliwka |
-| 834 | 32 | Stephanie Scott |
-| 835 | 32 | Tessa Felice Hill |
+| 833 | 32 | Stephanie Scott |
+| 834 | 32 | Tessa Felice Hill |
+| 835 | 32 | Tomme Poliwka |
 | 836 | 32 | Melvin Simpson |
 | 837 | 32 | LaQuita White |
 | 838 | 32 | Crystal Cheresnowsky |
-| 839 | 31 | Sharon Lynn |
-| 840 | 31 | Yashicha Hertzock |
-| 841 | 31 | Krista McNair |
-| 842 | 31 | Andra Ward |
-| 843 | 31 | Edward Hickmon |
-| 844 | 31 | Riq Wokhardt |
-| 845 | 31 | Nekka |
-| 846 | 31 | Ķïrãã Ďãvïss |
-| 847 | 31 | MrsDontPlay |
-| 848 | 31 | kingbrook |
-| 849 | 30 | Bouncy Glide |
-| 850 | 30 | James Bryant II |
-| 851 | 30 | Adrian Wilson |
-| 852 | 30 | DeAngelo Sorrells |
-| 853 | 30 | TiffanyG |
-| 854 | 30 | Frankey Chi |
-| 855 | 30 | Plucky Clearpiece |
-| 856 | 30 | Dannie |
-| 857 | 30 | Jessica Corey |
-| 858 | 30 | Witty Blockpiece |
+| 839 | 31 | kingbrook |
+| 840 | 31 | Nekka |
+| 841 | 31 | Edward Hickmon |
+| 842 | 31 | Juanita Quezaire |
+| 843 | 31 | Yashicha Hertzock |
+| 844 | 31 | Krista McNair |
+| 845 | 31 | Andra Ward |
+| 846 | 31 | Riq Wokhardt |
+| 847 | 31 | Sharon Lynn |
+| 848 | 31 | MrsDontPlay |
+| 849 | 31 | Ķïrãã Ďãvïss |
+| 850 | 30 | Tez Mays |
+| 851 | 30 | Bouncy Glide |
+| 852 | 30 | Rhianna Dinki Austin |
+| 853 | 30 | Frankey Chi |
+| 854 | 30 | DeAngelo Sorrells |
+| 855 | 30 | Adrian Wilson |
+| 856 | 30 | James Bryant II |
+| 857 | 30 | TiffanyG |
+| 858 | 30 | Taneka Howell |
 | 859 | 30 | PSD |
-| 860 | 30 | Taneka Howell |
-| 861 | 30 | Tez Mays |
-| 862 | 30 | Connor Leon Cluff |
-| 863 | 30 | Stanley Dixon |
-| 864 | 30 | Rhianna Dinki Austin |
-| 865 | 29 | Elizabeth Ragland |
-| 866 | 29 | Dirty Deeds |
+| 860 | 30 | Plucky Clearpiece |
+| 861 | 30 | Dannie |
+| 862 | 30 | Stanley Dixon |
+| 863 | 30 | Jessica Corey |
+| 864 | 30 | Connor Leon Cluff |
+| 865 | 30 | Witty Blockpiece |
+| 866 | 29 | Elizabeth Ragland |
 | 867 | 29 | brite |
-| 868 | 29 | Katness |
-| 869 | 29 | MindlessMic |
-| 870 | 29 | Everett Semmions |
+| 868 | 29 | Dirty Deeds |
+| 869 | 29 | Katness |
+| 870 | 29 | MindlessMic |
 | 871 | 29 | Epic Wipepiece |
-| 872 | 29 | Jeffrey Barrows |
-| 873 | 29 | Smiley Bridgepiece |
-| 874 | 28 | Markeita Jones |
-| 875 | 28 | Anntionette Sotire |
-| 876 | 28 | Leon Matthew Williams |
-| 877 | 28 | Jroc Tyra Taylor |
-| 878 | 28 | SnazzySnippet |
-| 879 | 28 | Daphne Ceasar |
-| 880 | 28 | Will Stanton |
-| 881 | 28 | kiki |
-| 882 | 28 | Teresa Bean |
-| 883 | 28 | Juanita Quezaire |
-| 884 | 28 | Crystal Winters Mckay |
-| 885 | 28 | AleahKCH |
+| 872 | 29 | Everett Semmions |
+| 873 | 29 | Jeffrey Barrows |
+| 874 | 29 | Smiley Bridgepiece |
+| 875 | 28 | Daphne Ceasar |
+| 876 | 28 | Anntionette Sotire |
+| 877 | 28 | Leon Matthew Williams |
+| 878 | 28 | Jroc Tyra Taylor |
+| 879 | 28 | SnazzySnippet |
+| 880 | 28 | Markeita Jones |
+| 881 | 28 | Will Stanton |
+| 882 | 28 | kiki |
+| 883 | 28 | Teresa Bean |
+| 884 | 28 | AleahKCH |
+| 885 | 28 | Crystal Winters Mckay |
 | 886 | 27 | sunstar |
 | 887 | 27 | Zesty Fitclear |
 | 888 | 27 | AshMo |
-| 889 | 27 | Venna Cooper |
-| 890 | 27 | Mighty plantlady |
+| 889 | 27 | Mighty plantlady |
+| 890 | 27 | Venna Cooper |
 | 891 | 27 | Shaylyn Lockwood |
 | 892 | 27 | Jeremy Hendrix |
 | 893 | 27 | Tina Criam |
