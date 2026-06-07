@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 08:57:18 UTC
+# Standings for team2 as of 2026-06-07 08:58:18 UTC
 
 **Total Participants:** 1685
 
@@ -663,29 +663,29 @@
 | 655 | 72 | Amber Simonton |
 | 656 | 72 | Lu Wallace |
 | 657 | 72 | Kendi |
-| 658 | 72 | Stacy Lynn |
-| 659 | 72 | Audrey Bickford |
+| 658 | 72 | Audrey Bickford |
+| 659 | 72 | Stacy Lynn |
 | 660 | 72 | Mary Whitaker |
 | 661 | 72 | Barb Kiser |
 | 662 | 71 | Kiersty Redder |
-| 663 | 71 | Amber Marie |
-| 664 | 71 | Violet Olivares |
-| 665 | 71 | Sandy Lynn |
-| 666 | 71 | Yari |
-| 667 | 71 | Missy Tubb Overly |
-| 668 | 71 | John C Morrison |
-| 669 | 70 | Carrie Hayes Lankford |
+| 663 | 71 | Jimmy Francis Shasta Bambi |
+| 664 | 71 | Amber Marie |
+| 665 | 71 | Violet Olivares |
+| 666 | 71 | Sandy Lynn |
+| 667 | 71 | Yari |
+| 668 | 71 | Missy Tubb Overly |
+| 669 | 71 | John C Morrison |
 | 670 | 70 | Christi Hooper |
-| 671 | 70 | Ques Pryor |
+| 671 | 70 | Carrie Hayes Lankford |
 | 672 | 70 | Michelle Fry-Cash |
-| 673 | 70 | Teea Makensi Meyer |
+| 673 | 70 | Ques Pryor |
 | 674 | 70 | Twisty Matchfit |
-| 675 | 70 | Amy D Coble |
+| 675 | 70 | Teea Makensi Meyer |
 | 676 | 70 | Ava Taber |
-| 677 | 70 | Brenda Zona |
+| 677 | 70 | Amy D Coble |
 | 678 | 70 | Patti Ward |
 | 679 | 70 | Andrea Spinelli |
-| 680 | 70 | Jimmy Francis Shasta Bambi |
+| 680 | 70 | Brenda Zona |
 | 681 | 70 | Jennifer Covington |
 | 682 | 70 | Helen Townsend |
 | 683 | 70 | Momi Kamohai |

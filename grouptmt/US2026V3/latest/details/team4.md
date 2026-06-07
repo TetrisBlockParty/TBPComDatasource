@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 08:57:18 UTC
+# Standings for team4 as of 2026-06-07 08:58:18 UTC
 
 **Total Participants:** 1420
 
@@ -28,7 +28,7 @@
 | 20 | 3643 | Jackie Lucas |
 | 21 | 3612 | Tonya Brooks-Johnson |
 | 22 | 3508 | Hasty Builder |
-| 23 | 3458 | Bubbly Twistpiece |
+| 23 | 3473 | Bubbly Twistpiece |
 | 24 | 3150 | Destiny Dyer |
 | 25 | 3095 | Irene Arreguin |
 | 26 | 3069 | Squirrel Donkey |
@@ -255,19 +255,19 @@
 | 247 | 178 | Jacqueline Jackii Ramos |
 | 248 | 177 | Damon Gaston |
 | 249 | 177 | Chirpy Link |
-| 250 | 177 | Mark Norton |
-| 251 | 176 | Nicole Dombrow |
-| 252 | 175 | Jackie Miller |
-| 253 | 174 | Clashy |
-| 254 | 173 | Ashley Mcdonald |
-| 255 | 172 | No Time |
-| 256 | 171 | Bridget Stevens |
-| 257 | 169 | Tiffany Smith |
-| 258 | 169 | Andrick |
-| 259 | 167 | Brainbabe |
-| 260 | 167 | Littlebrat |
-| 261 | 167 | Jackie Polanco |
-| 262 | 167 | Misty Leigh |
+| 250 | 177 | Misty Leigh |
+| 251 | 177 | Mark Norton |
+| 252 | 176 | Nicole Dombrow |
+| 253 | 175 | Jackie Miller |
+| 254 | 174 | Clashy |
+| 255 | 173 | Ashley Mcdonald |
+| 256 | 172 | No Time |
+| 257 | 171 | Bridget Stevens |
+| 258 | 169 | Tiffany Smith |
+| 259 | 169 | Andrick |
+| 260 | 167 | Brainbabe |
+| 261 | 167 | Littlebrat |
+| 262 | 167 | Jackie Polanco |
 | 263 | 166 | bollo |
 | 264 | 165 | Ryan Paul Clark-Ramsey |
 | 265 | 165 | Erika Seaton |
@@ -839,29 +839,29 @@
 | 831 | 45 | LaShieka Noland |
 | 832 | 45 | Kim Miller |
 | 833 | 45 | Becky Bernazal |
-| 834 | 45 | Jennifer Terrill |
-| 835 | 45 | EmBem |
-| 836 | 45 | LandO |
-| 837 | 45 | Stephanie Meinhart |
-| 838 | 45 | BurnedCrab52 |
-| 839 | 45 | Manolo Canety |
-| 840 | 44 | Tiffany Morris Garner |
-| 841 | 44 | Kelly Miller Williams |
-| 842 | 44 | Freddy-B |
-| 843 | 44 | Dizzy |
-| 844 | 44 | Cauntay Youngking Williams |
-| 845 | 44 | jojo |
-| 846 | 44 | Kimmie Warren |
-| 847 | 44 | SweetChaos |
-| 848 | 44 | Pap337 |
-| 849 | 44 | EJ Frazier |
-| 850 | 44 | Kassey M. Clark |
-| 851 | 44 | Rhonda Dowling |
-| 852 | 44 | Lizxxx |
-| 853 | 44 | Jenny Torres |
-| 854 | 44 | Jazzy Rollout |
-| 855 | 44 | Tracy Marino |
-| 856 | 44 | Heidi Lyn Ramirez |
+| 834 | 45 | Heidi Lyn Ramirez |
+| 835 | 45 | Jennifer Terrill |
+| 836 | 45 | EmBem |
+| 837 | 45 | LandO |
+| 838 | 45 | Stephanie Meinhart |
+| 839 | 45 | BurnedCrab52 |
+| 840 | 45 | Manolo Canety |
+| 841 | 44 | Tiffany Morris Garner |
+| 842 | 44 | Kelly Miller Williams |
+| 843 | 44 | Freddy-B |
+| 844 | 44 | Dizzy |
+| 845 | 44 | Cauntay Youngking Williams |
+| 846 | 44 | jojo |
+| 847 | 44 | Kimmie Warren |
+| 848 | 44 | SweetChaos |
+| 849 | 44 | Pap337 |
+| 850 | 44 | EJ Frazier |
+| 851 | 44 | Kassey M. Clark |
+| 852 | 44 | Rhonda Dowling |
+| 853 | 44 | Lizxxx |
+| 854 | 44 | Jenny Torres |
+| 855 | 44 | Jazzy Rollout |
+| 856 | 44 | Tracy Marino |
 | 857 | 43 | Jodi Haman-wheeler |
 | 858 | 43 | Aliyah Abdella |
 | 859 | 43 | Purple Queen |
