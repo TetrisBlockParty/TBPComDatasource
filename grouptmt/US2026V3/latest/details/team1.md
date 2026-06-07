@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 18:14:19 UTC
+# Standings for team1 as of 2026-06-07 18:14:43 UTC
 
 **Total Participants:** 1531
 
@@ -707,68 +707,68 @@
 | 699 | 74 | Glitzy Clusterer |
 | 700 | 74 | Coco |
 | 701 | 74 | Renee Marshall |
-| 702 | 74 | Cortrell Foster |
-| 703 | 74 | Sabrina Wilkerson |
-| 704 | 74 | Tetrisdestroyer |
-| 705 | 74 | Meow Meow |
+| 702 | 74 | Sabrina Wilkerson |
+| 703 | 74 | Tetrisdestroyer |
+| 704 | 74 | Meow Meow |
+| 705 | 74 | Cortrell Foster |
 | 706 | 74 | Danny M GR |
 | 707 | 74 | Ace Hardware |
 | 708 | 74 | Sunny Clicky |
-| 709 | 73 | Abigail Newman Sweet |
+| 709 | 73 | Duncan Timothy |
 | 710 | 73 | Crystal Garay |
-| 711 | 72 | BB |
-| 712 | 72 | JesusSaves 😇 |
-| 713 | 72 | Ladybug |
-| 714 | 72 | Comedian Gdane |
-| 715 | 72 | Juicy |
-| 716 | 72 | ImmeKC |
+| 711 | 73 | Abigail Newman Sweet |
+| 712 | 72 | BB |
+| 713 | 72 | JesusSaves 😇 |
+| 714 | 72 | Ladybug |
+| 715 | 72 | Comedian Gdane |
+| 716 | 72 | Juicy |
 | 717 | 72 | Clipzby |
-| 718 | 72 | John Spath |
+| 718 | 72 | ImmeKC |
 | 719 | 72 | Nekka |
-| 720 | 71 | Ryan Holm |
-| 721 | 71 | akosua |
-| 722 | 71 | KimChii |
-| 723 | 71 | Tori Carter |
-| 724 | 71 | HBTone |
-| 725 | 70 | Rachel Lopez |
-| 726 | 70 | Duncan Timothy |
-| 727 | 70 | Marshall Davis |
-| 728 | 70 | Mellie Mel |
-| 729 | 70 | Smøke DGAF |
-| 730 | 70 | JoZanna Washington |
-| 731 | 70 | West Racks |
-| 732 | 70 | Kàrma Lee |
+| 720 | 72 | John Spath |
+| 721 | 71 | Ryan Holm |
+| 722 | 71 | akosua |
+| 723 | 71 | KimChii |
+| 724 | 71 | Tori Carter |
+| 725 | 71 | HBTone |
+| 726 | 70 | Kàrma Lee |
+| 727 | 70 | Rachel Lopez |
+| 728 | 70 | Marshall Davis |
+| 729 | 70 | Mellie Mel |
+| 730 | 70 | Smøke DGAF |
+| 731 | 70 | JoZanna Washington |
+| 732 | 70 | West Racks |
 | 733 | 69 | Markeita Jones |
 | 734 | 69 | Keith Johnson |
 | 735 | 69 | Crtjstr |
 | 736 | 69 | BrettanMary Adkins |
 | 737 | 69 | GiantBehemoth |
 | 738 | 69 | Jose Rodriguez |
-| 739 | 68 | Fatty May |
-| 740 | 68 | meatballs |
-| 741 | 68 | SnazzyIvy |
-| 742 | 68 | Gbnola |
+| 739 | 68 | meatballs |
+| 740 | 68 | SnazzyIvy |
+| 741 | 68 | Gbnola |
+| 742 | 68 | Fatty May |
 | 743 | 68 | Nikiya |
 | 744 | 67 | Nikkizz |
-| 745 | 67 | LexiiSamayaa |
-| 746 | 67 | Sarah Barnum |
-| 747 | 67 | Michele Elizabeth McKay-Johnson |
+| 745 | 67 | Michele Elizabeth McKay-Johnson |
+| 746 | 67 | LexiiSamayaa |
+| 747 | 67 | Sarah Barnum |
 | 748 | 67 | Sharon Lynn |
-| 749 | 66 | Seirra Robinson |
+| 749 | 66 | Abby |
 | 750 | 66 | Sylvia Offically A Mcgowan |
-| 751 | 66 | Paul Doty |
-| 752 | 66 | Raquele Hines |
-| 753 | 66 | Abby |
-| 754 | 66 | Letrishia Andrews |
+| 751 | 66 | Raquele Hines |
+| 752 | 66 | Seirra Robinson |
+| 753 | 66 | Letrishia Andrews |
+| 754 | 66 | Paul Doty |
 | 755 | 66 | Terrie |
 | 756 | 66 | Meluhnee |
 | 757 | 66 | Mami Badd |
 | 758 | 66 | GracefulOwl808 |
 | 759 | 66 | Meepycat |
 | 760 | 65 | Furlough Leslie |
-| 761 | 65 | Renee J. Thomas |
-| 762 | 65 | Rande Smith |
-| 763 | 65 | Vonda House |
+| 761 | 65 | Vonda House |
+| 762 | 65 | Renee J. Thomas |
+| 763 | 65 | Rande Smith |
 | 764 | 65 | LAdYPOLy |
 | 765 | 65 | Tesiree Cray |
 | 766 | 65 | Trixie |

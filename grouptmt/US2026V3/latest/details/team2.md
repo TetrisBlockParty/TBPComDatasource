@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 18:14:19 UTC
+# Standings for team2 as of 2026-06-07 18:14:43 UTC
 
 **Total Participants:** 1845
 
@@ -40,7 +40,7 @@
 | 32 | 3471 | Andre Love |
 | 33 | 3076 | Ashley Miller |
 | 34 | 2982 | Charles Varca |
-| 35 | 2908 | Quirky Catcher |
+| 35 | 2928 | Quirky Catcher |
 | 36 | 2863 | Angelica Jelli Gillaspy |
 | 37 | 2790 | Logan Basham |
 | 38 | 2715 | Angie BBlock |
@@ -236,11 +236,11 @@
 | 228 | 304 | Heather Burgett |
 | 229 | 302 | Margie Ann Naffziger |
 | 230 | 302 | Hypee |
-| 231 | 300 | Linda Guay |
+| 231 | 300 | Ashley Billiot Rhodes |
 | 232 | 300 | Melisa |
 | 233 | 300 | Hector |
 | 234 | 300 | Patricia Carroll |
-| 235 | 300 | Ashley Billiot Rhodes |
+| 235 | 300 | Linda Guay |
 | 236 | 299 | Ackerman 85 |
 | 237 | 299 | Mookshake |
 | 238 | 298 | Rob Owens |
@@ -250,13 +250,13 @@
 | 242 | 295 | Jessica Lynn |
 | 243 | 295 | Brittney Williams |
 | 244 | 294 | Jeanna Mendez |
-| 245 | 286 | Goofy Gridclear |
-| 246 | 283 | Glitzy Base |
-| 247 | 280 | Loopy Dropper |
-| 248 | 279 | Curly Windbreaker |
-| 249 | 278 | Amy Nicole McCanne |
-| 250 | 276 | AndrewandShela Gornik |
-| 251 | 274 | Lora Via |
+| 245 | 291 | Lora Via |
+| 246 | 286 | Goofy Gridclear |
+| 247 | 283 | Glitzy Base |
+| 248 | 280 | Loopy Dropper |
+| 249 | 279 | Curly Windbreaker |
+| 250 | 278 | Amy Nicole McCanne |
+| 251 | 276 | AndrewandShela Gornik |
 | 252 | 274 | Chipper Stackbuilder |
 | 253 | 273 | Swanky Fitline |
 | 254 | 267 | Karly Moore |
@@ -371,45 +371,45 @@
 | 363 | 181 | Monee Stronger |
 | 364 | 181 | Victoria Pale |
 | 365 | 181 | Jamie Adams |
-| 366 | 180 | phamous1 |
-| 367 | 180 | Zany Wrecker |
-| 368 | 180 | Happy |
-| 369 | 180 | Dawn Kroptavich |
-| 370 | 180 | Skye Ehret |
+| 366 | 180 | Dawn Kroptavich |
+| 367 | 180 | phamous1 |
+| 368 | 180 | Zany Wrecker |
+| 369 | 180 | Skye Ehret |
+| 370 | 180 | Happy |
 | 371 | 179 | Bengy Lead |
 | 372 | 178 | Martha Lynn Wiggins |
 | 373 | 177 | Jennifer McClure |
 | 374 | 176 | Reign Hustler |
 | 375 | 175 | Lashanda Bertram |
-| 376 | 175 | Amanda Bottorff |
-| 377 | 175 | Epic Tilemaker |
-| 378 | 175 | Tina Marie |
-| 379 | 174 | Rocroc mo |
+| 376 | 175 | Tina Marie |
+| 377 | 175 | Amanda Bottorff |
+| 378 | 175 | Epic Tilemaker |
+| 379 | 174 | Laurie |
 | 380 | 174 | ZBee |
-| 381 | 174 | Laurie |
-| 382 | 174 | Jerry L Morales |
+| 381 | 174 | Jerry L Morales |
+| 382 | 174 | Rocroc mo |
 | 383 | 173 | Brandi Vandevanter-Duke |
-| 384 | 172 | Mikia Stokes |
-| 385 | 172 | Jacquelyn Snyder Dumas |
-| 386 | 171 | KazzyKay |
-| 387 | 171 | Katie Jones |
-| 388 | 169 | Aldotfus Williams |
-| 389 | 169 | Angie Bishop |
-| 390 | 169 | Derrick |
-| 391 | 169 | Jaimie Walters |
-| 392 | 168 | Gwendolyn Boykin Mobbs |
+| 384 | 173 | Charles E Mccardell |
+| 385 | 172 | Mikia Stokes |
+| 386 | 172 | Jacquelyn Snyder Dumas |
+| 387 | 171 | KazzyKay |
+| 388 | 171 | Katie Jones |
+| 389 | 169 | Aldotfus Williams |
+| 390 | 169 | Angie Bishop |
+| 391 | 169 | Derrick |
+| 392 | 169 | Jaimie Walters |
 | 393 | 168 | Missy Renia |
-| 394 | 168 | Brian Favre |
-| 395 | 167 | Amber Carpenter |
+| 394 | 168 | Gwendolyn Boykin Mobbs |
+| 395 | 168 | Brian Favre |
 | 396 | 167 | Spicy Snapclear |
-| 397 | 167 | Cara Rivera |
-| 398 | 167 | Chummy Faller |
-| 399 | 166 | Dad |
+| 397 | 167 | Amber Carpenter |
+| 398 | 167 | Cara Rivera |
+| 399 | 167 | Chummy Faller |
 | 400 | 166 | Melmel |
-| 401 | 165 | Sandy Justus |
-| 402 | 164 | Sillyk |
-| 403 | 164 | Elliott Mikila |
-| 404 | 164 | Charles E Mccardell |
+| 401 | 166 | Dad |
+| 402 | 165 | Sandy Justus |
+| 403 | 164 | Sillyk |
+| 404 | 164 | Elliott Mikila |
 | 405 | 164 | Loopy Tower |
 | 406 | 164 | Kathryn |
 | 407 | 163 | Rosalie Call Kehlenbeck |
@@ -419,11 +419,11 @@
 | 411 | 162 | Ashley Miller |
 | 412 | 162 | Wacky Holder |
 | 413 | 161 | Rydin Dirt |
-| 414 | 161 | Silly Tiltbuilder |
-| 415 | 161 | Nicky Steigerwalt |
-| 416 | 160 | Jessica Perkins |
-| 417 | 160 | Jamin |
-| 418 | 160 | Starvinmarvin |
+| 414 | 161 | Nicky Steigerwalt |
+| 415 | 161 | Silly Tiltbuilder |
+| 416 | 160 | Jamin |
+| 417 | 160 | Starvinmarvin |
+| 418 | 160 | Jessica Perkins |
 | 419 | 160 | Billie Jensen |
 | 420 | 160 | Wayne Johnson |
 | 421 | 160 | Elizabeth Cornelius |
@@ -1587,12 +1587,12 @@
 | 1579 | 17 | Shaun Talbot |
 | 1580 | 17 | Smiley Edgefit |
 | 1581 | 17 | Taderbug |
-| 1582 | 17 | grey panther |
-| 1583 | 17 | Denise Oppenheimer-Mace Lawrence Mendoza |
-| 1584 | 17 | Sk8Mom |
-| 1585 | 16 | Charity Black |
-| 1586 | 16 | Flashy Blockfall |
-| 1587 | 16 | Cherry L. Salama |
+| 1582 | 17 | Cherry L. Salama |
+| 1583 | 17 | grey panther |
+| 1584 | 17 | Denise Oppenheimer-Mace Lawrence Mendoza |
+| 1585 | 17 | Sk8Mom |
+| 1586 | 16 | Charity Black |
+| 1587 | 16 | Flashy Blockfall |
 | 1588 | 16 | Diane Pinkston Massey |
 | 1589 | 16 | Kaylyn Wickham |
 | 1590 | 16 | Kimberly Rochon |
