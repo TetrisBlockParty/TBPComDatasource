@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:03:20 UTC
+# Standings for team1 as of 2026-06-07 08:04:19 UTC
 
 **Total Participants:** 1424
 
@@ -104,7 +104,7 @@
 | 96 | 552 | Carolynne Walker-Bell |
 | 97 | 548 | Ottison Dianna |
 | 98 | 541 | Andi McGreevy |
-| 99 | 535 | Moomoo |
+| 99 | 539 | Moomoo |
 | 100 | 534 | Shontanese Adams |
 | 101 | 527 | MommaCia |
 | 102 | 518 | Quirky Fallgrid |
@@ -792,8 +792,8 @@
 | 784 | 47 | Denise Cunningham-English |
 | 785 | 47 | Jessie N Michael Silvers |
 | 786 | 47 | Tyrone Porter |
-| 787 | 47 | RylonJones |
-| 788 | 47 | Tushama Cheris Okraku |
+| 787 | 47 | Tushama Cheris Okraku |
+| 788 | 47 | RylonJones |
 | 789 | 47 | Jojo M |
 | 790 | 47 | Kevin Turner |
 | 791 | 46 | Rosalind Chatman |
@@ -808,59 +808,59 @@
 | 800 | 45 | GetDaOPPS |
 | 801 | 45 | Sunny Tumbler |
 | 802 | 45 | Skye |
-| 803 | 45 | Crtjstr |
-| 804 | 45 | Cali Lee |
-| 805 | 45 | Cheery Linkfall |
-| 806 | 45 | Heather Cross-Davis |
-| 807 | 45 | Lawreniesha Burkley |
+| 803 | 45 | Cali Lee |
+| 804 | 45 | Cheery Linkfall |
+| 805 | 45 | Heather Cross-Davis |
+| 806 | 45 | Lawreniesha Burkley |
+| 807 | 45 | Crtjstr |
 | 808 | 45 | Y3llOWFAC3 |
 | 809 | 45 | Renee J. Thomas |
 | 810 | 45 | Frothy Zoney |
 | 811 | 45 | Marc Papa |
 | 812 | 45 | MrsDontPlay |
 | 813 | 45 | Jason Saputo |
-| 814 | 45 | Antoinette Kidd |
-| 815 | 45 | WReckitraff |
-| 816 | 45 | Sweet BayBee |
-| 817 | 45 | Brave Balanceblock |
+| 814 | 45 | WReckitraff |
+| 815 | 45 | Antoinette Kidd |
+| 816 | 45 | Brave Balanceblock |
+| 817 | 45 | Sweet BayBee |
 | 818 | 45 | Matraca Young |
 | 819 | 44 | GiantBehemoth |
 | 820 | 44 | Nic Nic |
-| 821 | 44 | Renee Marshall |
-| 822 | 44 | Teresa Menefee |
+| 821 | 44 | Teresa Menefee |
+| 822 | 44 | Renee Marshall |
 | 823 | 44 | Tez Mays |
 | 824 | 44 | JoZanna Washington |
-| 825 | 44 | Shakmar |
-| 826 | 44 | Connor Leon Cluff |
+| 825 | 44 | Connor Leon Cluff |
+| 826 | 44 | Shakmar |
 | 827 | 44 | LaSharon Jackson |
 | 828 | 44 | BonnieB |
 | 829 | 43 | Andrew Jay Vaughn |
 | 830 | 43 | Louise Parker |
 | 831 | 43 | Vivian Bunnell Myers |
-| 832 | 43 | Amihan |
+| 832 | 43 | Evelyn Epps |
 | 833 | 43 | Giggy Brickfit |
-| 834 | 43 | Corbin Henry |
-| 835 | 43 | Block |
-| 836 | 43 | Daphne Ceasar |
-| 837 | 43 | Hasty Glidezone |
-| 838 | 42 | Peppy Wipeblock |
-| 839 | 42 | Ray Baker |
-| 840 | 42 | Brii Michelle Lamb |
-| 841 | 42 | Sally Elizabeth Hopson |
-| 842 | 42 | TeeMaster Barber IsLyfe |
-| 843 | 42 | Louise |
-| 844 | 42 | Tammy Scott Mallen |
-| 845 | 42 | Shanna Green Williams |
-| 846 | 42 | Emeka Agu |
-| 847 | 42 | Rikki Moran |
-| 848 | 42 | Taneka Howell |
-| 849 | 42 | Gary Kyle |
-| 850 | 42 | Sunny Riserbuilder |
-| 851 | 42 | Wacky Spinfit |
-| 852 | 41 | WOOLFF |
-| 853 | 41 | Delitra Perkins Hatter |
-| 854 | 41 | NataAllDay |
-| 855 | 41 | Evelyn Epps |
+| 834 | 43 | Amihan |
+| 835 | 43 | Corbin Henry |
+| 836 | 43 | Block |
+| 837 | 43 | Daphne Ceasar |
+| 838 | 43 | Hasty Glidezone |
+| 839 | 42 | Peppy Wipeblock |
+| 840 | 42 | Ray Baker |
+| 841 | 42 | Brii Michelle Lamb |
+| 842 | 42 | Sally Elizabeth Hopson |
+| 843 | 42 | TeeMaster Barber IsLyfe |
+| 844 | 42 | Louise |
+| 845 | 42 | Tammy Scott Mallen |
+| 846 | 42 | Shanna Green Williams |
+| 847 | 42 | Emeka Agu |
+| 848 | 42 | Rikki Moran |
+| 849 | 42 | Taneka Howell |
+| 850 | 42 | Gary Kyle |
+| 851 | 42 | Sunny Riserbuilder |
+| 852 | 42 | Wacky Spinfit |
+| 853 | 41 | WOOLFF |
+| 854 | 41 | Delitra Perkins Hatter |
+| 855 | 41 | NataAllDay |
 | 856 | 41 | Crafty Witch |
 | 857 | 41 | JLynn Mind Ur's Blackwell |
 | 858 | 41 | Cranky Fall |
