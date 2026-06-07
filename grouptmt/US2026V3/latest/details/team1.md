@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:44:18 UTC
+# Standings for team1 as of 2026-06-07 11:44:41 UTC
 
 **Total Participants:** 1446
 
@@ -15,7 +15,7 @@
 | 7 | 7059 | Tracy Cohen |
 | 8 | 6802 | Cozy Edge |
 | 9 | 6679 | Death by SnuSnu |
-| 10 | 6626 | Dyane Leah Ware |
+| 10 | 6654 | Dyane Leah Ware |
 | 11 | 6150 | Songne Arif |
 | 12 | 5512 | Jocelyn Pope-Sewell |
 | 13 | 5282 | Plucky Swipe |
@@ -636,48 +636,48 @@
 | 628 | 69 | Jose Rodriguez |
 | 629 | 69 | Adrian Harris |
 | 630 | 69 | Sara |
-| 631 | 68 | Christopher Shaw-Black |
-| 632 | 68 | BB |
-| 633 | 68 | Pj Rojas |
+| 631 | 68 | Pj Rojas |
+| 632 | 68 | Christopher Shaw-Black |
+| 633 | 68 | BB |
 | 634 | 68 | Sallie Sanborn |
 | 635 | 68 | Giddy Staggerpiece |
 | 636 | 67 | Sarah Barnum |
 | 637 | 67 | Nikkizz |
 | 638 | 67 | Esha I'msoproudofmyself Davis |
-| 639 | 67 | LexiiSamayaa |
-| 640 | 67 | Michele Elizabeth McKay-Johnson |
+| 639 | 67 | Michele Elizabeth McKay-Johnson |
+| 640 | 67 | LexiiSamayaa |
 | 641 | 67 | Montego Allen |
 | 642 | 67 | Sharon Lynn |
-| 643 | 66 | Sylvia Offically A Mcgowan |
-| 644 | 66 | Jess |
-| 645 | 66 | Letrishia Andrews |
-| 646 | 66 | Terrie |
+| 643 | 66 | Jess |
+| 644 | 66 | Sylvia Offically A Mcgowan |
+| 645 | 66 | Terrie |
+| 646 | 66 | Letrishia Andrews |
 | 647 | 66 | Callie Mae |
-| 648 | 66 | Raquele Hines |
-| 649 | 66 | Mami Badd |
-| 650 | 66 | GracefulOwl808 |
-| 651 | 65 | Rande Smith |
-| 652 | 65 | Jazzy Bridger |
-| 653 | 65 | Tesiree Cray |
-| 654 | 65 | Dede Tate |
-| 655 | 65 | Gbnola |
-| 656 | 65 | Trixie |
-| 657 | 65 | Furlough Leslie |
-| 658 | 65 | LAdYPOLy |
-| 659 | 65 | Wayne Savannah |
-| 660 | 64 | DirtiestofMikes |
-| 661 | 64 | DellaLucretia Thomas |
-| 662 | 64 | Joseph Vs Cap |
-| 663 | 64 | Jumpy Gridlock |
+| 648 | 66 | Earl Williams |
+| 649 | 66 | Raquele Hines |
+| 650 | 66 | Mami Badd |
+| 651 | 66 | GracefulOwl808 |
+| 652 | 65 | Rande Smith |
+| 653 | 65 | Jazzy Bridger |
+| 654 | 65 | Tesiree Cray |
+| 655 | 65 | Dede Tate |
+| 656 | 65 | Furlough Leslie |
+| 657 | 65 | LAdYPOLy |
+| 658 | 65 | Wayne Savannah |
+| 659 | 65 | Trixie |
+| 660 | 65 | Gbnola |
+| 661 | 64 | Chris Nelson |
+| 662 | 64 | Dandy Brickfit |
+| 663 | 64 | Kàrma Lee |
 | 664 | 64 | Elaine Youmans |
-| 665 | 64 | Earl Williams |
-| 666 | 64 | Dandy Brickfit |
-| 667 | 64 | Chris Nelson |
-| 668 | 64 | Kàrma Lee |
-| 669 | 64 | Marbama |
-| 670 | 63 | Natasha Harris |
-| 671 | 63 | Poppy Smasher |
-| 672 | 63 | Mellie Mel |
+| 665 | 64 | Marbama |
+| 666 | 64 | Jumpy Gridlock |
+| 667 | 64 | DellaLucretia Thomas |
+| 668 | 64 | Joseph Vs Cap |
+| 669 | 64 | DirtiestofMikes |
+| 670 | 63 | Mellie Mel |
+| 671 | 63 | Natasha Harris |
+| 672 | 63 | Poppy Smasher |
 | 673 | 63 | Ahsokadog |
 | 674 | 63 | Shawna Passwater |
 | 675 | 63 | Yashicha Hertzock |

@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 11:44:18 UTC
+# Standings for team4 as of 2026-06-07 11:44:41 UTC
 
 **Total Participants:** 1454
 
@@ -697,109 +697,109 @@
 | 689 | 61 | Elisha Thompson |
 | 690 | 61 | Luunii |
 | 691 | 60 | Rin |
-| 692 | 60 | Helen Bradley |
-| 693 | 60 | Elizabeth Putansu |
-| 694 | 60 | Brett |
-| 695 | 60 | Uh Lesh Uh |
+| 692 | 60 | Jessica Kelly |
+| 693 | 60 | Helen Bradley |
+| 694 | 60 | Lizard |
+| 695 | 60 | Elizabeth Putansu |
 | 696 | 60 | Justin Janachovsky |
-| 697 | 60 | Lizard |
-| 698 | 60 | Kristine Hj Han |
-| 699 | 60 | Anthony Magaraci |
-| 700 | 60 | Jessica Kelly |
-| 701 | 60 | Breezy Brickfit |
-| 702 | 60 | Nerdy Brickster |
-| 703 | 60 | BethB |
-| 704 | 60 | DanceAngel |
-| 705 | 60 | Tiffy |
-| 706 | 60 | Robert Crow |
-| 707 | 60 | Angela Adamo-Tash |
-| 708 | 60 | Kena T. Tanner |
-| 709 | 60 | Chris Rowe |
-| 710 | 60 | Tod Jae |
-| 711 | 59 | Miranda Brown |
-| 712 | 59 | Jeni |
-| 713 | 59 | Tammy Lasseigne |
-| 714 | 59 | Trang Nguyen |
-| 715 | 59 | Anthony Kollar |
-| 716 | 59 | Giggy Bridgepiece |
-| 717 | 58 | Groovy Towerbuilder |
-| 718 | 58 | Hayze |
-| 719 | 58 | Kelli Miller |
-| 720 | 58 | Alicia Blunt |
-| 721 | 58 | h_chloe10 |
-| 722 | 58 | Jessica Sanchez |
-| 723 | 58 | Yaya Selbor |
-| 724 | 58 | Brittany |
-| 725 | 58 | Kimberly Lusk |
-| 726 | 57 | Erich EMac McIntosh |
-| 727 | 57 | Heather Hilferty |
-| 728 | 57 | Lala |
-| 729 | 57 | Leslie |
-| 730 | 57 | Волна Бог |
-| 731 | 57 | PapaB |
-| 732 | 57 | Hotstuff |
-| 733 | 57 | Erica Pompey |
-| 734 | 57 | alxhue04 |
+| 697 | 60 | Kristine Hj Han |
+| 698 | 60 | Anthony Magaraci |
+| 699 | 60 | Uh Lesh Uh |
+| 700 | 60 | Slinky Column |
+| 701 | 60 | Brett |
+| 702 | 60 | Breezy Brickfit |
+| 703 | 60 | Nerdy Brickster |
+| 704 | 60 | BethB |
+| 705 | 60 | DanceAngel |
+| 706 | 60 | Tiffy |
+| 707 | 60 | Robert Crow |
+| 708 | 60 | Angela Adamo-Tash |
+| 709 | 60 | Kena T. Tanner |
+| 710 | 60 | Chris Rowe |
+| 711 | 60 | Tod Jae |
+| 712 | 59 | Miranda Brown |
+| 713 | 59 | Jeni |
+| 714 | 59 | Tammy Lasseigne |
+| 715 | 59 | Trang Nguyen |
+| 716 | 59 | Anthony Kollar |
+| 717 | 59 | Giggy Bridgepiece |
+| 718 | 58 | Kelli Miller |
+| 719 | 58 | Groovy Towerbuilder |
+| 720 | 58 | Hayze |
+| 721 | 58 | Jessica Sanchez |
+| 722 | 58 | Yaya Selbor |
+| 723 | 58 | Alicia Blunt |
+| 724 | 58 | h_chloe10 |
+| 725 | 58 | Brittany |
+| 726 | 58 | Kimberly Lusk |
+| 727 | 57 | Erich EMac McIntosh |
+| 728 | 57 | Heather Hilferty |
+| 729 | 57 | Lala |
+| 730 | 57 | Leslie |
+| 731 | 57 | Волна Бог |
+| 732 | 57 | PapaB |
+| 733 | 57 | Hotstuff |
+| 734 | 57 | Erica Pompey |
 | 735 | 57 | Merritt Brandt |
-| 736 | 56 | Lashae |
-| 737 | 56 | JuicyJay |
-| 738 | 56 | tigerlilly |
-| 739 | 56 | Kayla Haddenham |
-| 740 | 56 | Alaina Rousseau |
-| 741 | 56 | Natalie Ohrtman Strand |
-| 742 | 56 | Meela Abdurrab |
-| 743 | 56 | Vicente Bolaños Jr. |
-| 744 | 56 | Blessedmom865 |
-| 745 | 56 | Zappy Matchgrid |
-| 746 | 55 | Donny Keets |
-| 747 | 55 | Erika Rubio |
-| 748 | 55 | pussface |
-| 749 | 55 | The Jazziest |
-| 750 | 55 | Gerald Richard Franke |
-| 751 | 55 | Julian Gasque |
-| 752 | 55 | Bee |
-| 753 | 55 | Melissa Wilson |
-| 754 | 55 | Krissy Smith |
-| 755 | 55 | Janna Thompson |
-| 756 | 54 | Heather Brown |
-| 757 | 54 | Danny Keich III |
-| 758 | 54 | Jodi Haman-wheeler |
+| 736 | 57 | alxhue04 |
+| 737 | 56 | tigerlilly |
+| 738 | 56 | JuicyJay |
+| 739 | 56 | Lashae |
+| 740 | 56 | Kayla Haddenham |
+| 741 | 56 | Alaina Rousseau |
+| 742 | 56 | Natalie Ohrtman Strand |
+| 743 | 56 | Meela Abdurrab |
+| 744 | 56 | Vicente Bolaños Jr. |
+| 745 | 56 | Blessedmom865 |
+| 746 | 56 | Zappy Matchgrid |
+| 747 | 55 | Donny Keets |
+| 748 | 55 | Erika Rubio |
+| 749 | 55 | pussface |
+| 750 | 55 | The Jazziest |
+| 751 | 55 | Gerald Richard Franke |
+| 752 | 55 | Krissy Smith |
+| 753 | 55 | Julian Gasque |
+| 754 | 55 | Bee |
+| 755 | 55 | Melissa Wilson |
+| 756 | 55 | Janna Thompson |
+| 757 | 54 | Felicia Harrison |
+| 758 | 54 | Heather Brown |
 | 759 | 54 | Danielle Porter |
-| 760 | 54 | Earl Edwards |
-| 761 | 54 | Felicia Harrison |
-| 762 | 54 | Michelle Wiles |
-| 763 | 54 | Lisa Ferriero-Daudin |
-| 764 | 54 | Lilo |
-| 765 | 54 | Scott Baum |
-| 766 | 53 | Cflixer |
-| 767 | 53 | shonaberry |
-| 768 | 53 | Koren Heersink |
-| 769 | 53 | Haylee Talkington |
-| 770 | 53 | Kimberly Mae Watkins |
-| 771 | 53 | Carlos Amaya |
-| 772 | 53 | Heidi Lyn Ramirez |
+| 760 | 54 | Michelle Wiles |
+| 761 | 54 | Danny Keich III |
+| 762 | 54 | Jodi Haman-wheeler |
+| 763 | 54 | Earl Edwards |
+| 764 | 54 | Lisa Ferriero-Daudin |
+| 765 | 54 | Lilo |
+| 766 | 54 | Scott Baum |
+| 767 | 53 | Cflixer |
+| 768 | 53 | shonaberry |
+| 769 | 53 | Koren Heersink |
+| 770 | 53 | Haylee Talkington |
+| 771 | 53 | Kimberly Mae Watkins |
+| 772 | 53 | Carlos Amaya |
 | 773 | 53 | Sarah Leake |
-| 774 | 52 | Sara Cobb |
-| 775 | 52 | Nachos |
-| 776 | 52 | Domenique Wilson |
-| 777 | 52 | Sonya |
-| 778 | 52 | Frothy Pivotfall |
-| 779 | 51 | LilRain |
-| 780 | 51 | Vergie Michael |
-| 781 | 51 | Michellee Lewis |
-| 782 | 51 | Gma420 |
-| 783 | 51 | Curved carrot |
-| 784 | 51 | Kimberly Civinski |
-| 785 | 51 | Joshua Powers |
-| 786 | 51 | Snow77white |
-| 787 | 51 | JJ Merc |
-| 788 | 51 | MsChelleAnn |
-| 789 | 51 | Toria |
-| 790 | 50 | Chris Somsen |
-| 791 | 50 | Ralph Hell Rell Williams |
-| 792 | 50 | Hooti Smile |
-| 793 | 50 | Andreas Vs Shinky |
-| 794 | 50 | Slinky Column |
+| 774 | 53 | Heidi Lyn Ramirez |
+| 775 | 52 | Sara Cobb |
+| 776 | 52 | Nachos |
+| 777 | 52 | Domenique Wilson |
+| 778 | 52 | Sonya |
+| 779 | 52 | Frothy Pivotfall |
+| 780 | 51 | LilRain |
+| 781 | 51 | Vergie Michael |
+| 782 | 51 | Michellee Lewis |
+| 783 | 51 | Gma420 |
+| 784 | 51 | Curved carrot |
+| 785 | 51 | Kimberly Civinski |
+| 786 | 51 | Joshua Powers |
+| 787 | 51 | Snow77white |
+| 788 | 51 | JJ Merc |
+| 789 | 51 | MsChelleAnn |
+| 790 | 51 | Toria |
+| 791 | 50 | Chris Somsen |
+| 792 | 50 | Andreas Vs Shinky |
+| 793 | 50 | Hooti Smile |
+| 794 | 50 | Ralph Hell Rell Williams |
 | 795 | 50 | Lovely |
 | 796 | 50 | Hyper Balancepiece |
 | 797 | 50 | Brendan Craven |
