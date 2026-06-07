@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 10:47:18 UTC
+# Standings for team4 as of 2026-06-07 10:48:40 UTC
 
 **Total Participants:** 1444
 
@@ -23,7 +23,7 @@
 | 15 | 4246 | t |
 | 16 | 4139 | Bryony Nicholson |
 | 17 | 3917 | TitiLo72 |
-| 18 | 3878 | Bubbly Twistpiece |
+| 18 | 3893 | Bubbly Twistpiece |
 | 19 | 3784 | Tyra Brooke Everman Forest |
 | 20 | 3776 | Dana Smith |
 | 21 | 3667 | Daring Ziggy |
@@ -137,10 +137,10 @@
 | 129 | 400 | Amber Doyle |
 | 130 | 400 | Nicole Peoples |
 | 131 | 398 | Futrell Brent |
-| 132 | 396 | Jackie Jackson |
-| 133 | 394 | Kim |
-| 134 | 388 | Hen |
-| 135 | 381 | Jason Garnatz |
+| 132 | 396 | Jason Garnatz |
+| 133 | 396 | Jackie Jackson |
+| 134 | 394 | Kim |
+| 135 | 388 | Hen |
 | 136 | 380 | Becky Doll-Hall |
 | 137 | 379 | Devinlee Brown |
 | 138 | 378 | Hwanger Land |
@@ -174,17 +174,17 @@
 | 166 | 286 | matt |
 | 167 | 285 | TRUCHILD777$$$ |
 | 168 | 283 | Scamp Jones |
-| 169 | 282 | Nicole |
-| 170 | 281 | Margie Thomas |
-| 171 | 281 | Misty Leigh |
-| 172 | 280 | Suzanne Carter |
-| 173 | 280 | Slimm |
-| 174 | 279 | Iforget |
-| 175 | 279 | Brick House |
-| 176 | 277 | Giggly Tilt |
-| 177 | 273 | Danielle Mitchell |
-| 178 | 272 | QueenLi86 |
-| 179 | 271 | Perky Riserbuilder |
+| 169 | 283 | Danielle Mitchell |
+| 170 | 282 | Nicole |
+| 171 | 281 | Margie Thomas |
+| 172 | 281 | Perky Riserbuilder |
+| 173 | 281 | Misty Leigh |
+| 174 | 280 | Suzanne Carter |
+| 175 | 280 | Slimm |
+| 176 | 279 | Iforget |
+| 177 | 279 | Brick House |
+| 178 | 277 | Giggly Tilt |
+| 179 | 272 | QueenLi86 |
 | 180 | 270 | Jojo Ann |
 | 181 | 268 | Megan Vick |
 | 182 | 262 | squareMel |
@@ -460,31 +460,31 @@
 | 452 | 95 | Tiffany Roberts |
 | 453 | 95 | EpicWizard |
 | 454 | 95 | Kari Smith |
-| 455 | 95 | Laurie Patrick |
-| 456 | 95 | Mighty1 |
-| 457 | 94 | Courtney Niichole |
-| 458 | 94 | Reina Pagan |
-| 459 | 94 | Cranky Twistpiece |
-| 460 | 94 | Janae Harris |
+| 455 | 95 | Mighty1 |
+| 456 | 95 | Laurie Patrick |
+| 457 | 94 | Cranky Twistpiece |
+| 458 | 94 | Janae Harris |
+| 459 | 94 | Courtney Niichole |
+| 460 | 94 | Reina Pagan |
 | 461 | 94 | Caiti O'Keefe |
 | 462 | 93 | Witty Fitblock |
 | 463 | 93 | Boldy Striker |
 | 464 | 93 | Loopy Hitter |
-| 465 | 93 | Dandy Cascade |
-| 466 | 93 | Domo Dpn |
-| 467 | 92 | Rosy Perez |
-| 468 | 92 | Autumn Maher |
-| 469 | 92 | Giggly Column |
-| 470 | 92 | my my |
-| 471 | 92 | MrLoner Stoner |
-| 472 | 92 | Chonda OhanaMomma Michelle |
-| 473 | 92 | William Brooks |
-| 474 | 91 | Miss Beast |
-| 475 | 91 | Lisa Pie |
+| 465 | 93 | Domo Dpn |
+| 466 | 93 | Dandy Cascade |
+| 467 | 92 | Lisa Pie |
+| 468 | 92 | Chonda OhanaMomma Michelle |
+| 469 | 92 | my my |
+| 470 | 92 | Rosy Perez |
+| 471 | 92 | Autumn Maher |
+| 472 | 92 | Giggly Column |
+| 473 | 92 | MrLoner Stoner |
+| 474 | 92 | William Brooks |
+| 475 | 91 | Miss Beast |
 | 476 | 91 | Spicy Peach |
 | 477 | 91 | Happy Shatterfit |
-| 478 | 90 | Alex Armour |
-| 479 | 90 | Ricky Colvin |
+| 478 | 90 | Ricky Colvin |
+| 479 | 90 | Alex Armour |
 | 480 | 90 | Garden Girlie |
 | 481 | 90 | Codey Haffner |
 | 482 | 90 | Flashy Shatterer |
