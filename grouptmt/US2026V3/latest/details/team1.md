@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 20:24:19 UTC
+# Standings for team1 as of 2026-06-07 20:24:39 UTC
 
 **Total Participants:** 1568
 
@@ -598,18 +598,18 @@
 | 590 | 94 | Sonia Binti Mfalme |
 | 591 | 94 | Sunny Clicky |
 | 592 | 94 | Derald Miller |
-| 593 | 94 | Montego Allen |
-| 594 | 94 | Marlainia Boyd |
-| 595 | 94 | Sha Anderson |
-| 596 | 93 | Holly Baker |
-| 597 | 93 | Rene Hicks |
-| 598 | 93 | Victor |
-| 599 | 93 | C Lo Green |
-| 600 | 93 | Antoinette Kelly |
-| 601 | 93 | FunTime |
-| 602 | 92 | Cachet A Ward |
-| 603 | 92 | Terrance Tindall |
-| 604 | 92 | Zappy Snapgrid |
+| 593 | 94 | Zappy Snapgrid |
+| 594 | 94 | Montego Allen |
+| 595 | 94 | Marlainia Boyd |
+| 596 | 94 | Sha Anderson |
+| 597 | 93 | Holly Baker |
+| 598 | 93 | Rene Hicks |
+| 599 | 93 | Victor |
+| 600 | 93 | C Lo Green |
+| 601 | 93 | Antoinette Kelly |
+| 602 | 93 | FunTime |
+| 603 | 92 | Cachet A Ward |
+| 604 | 92 | Terrance Tindall |
 | 605 | 92 | Poppy Twister |
 | 606 | 91 | Soubletzy |
 | 607 | 91 | David A Alvino |
