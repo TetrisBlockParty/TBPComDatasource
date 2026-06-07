@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 12:16:18 UTC
+# Standings for team2 as of 2026-06-07 12:16:40 UTC
 
 **Total Participants:** 1719
 
@@ -1107,98 +1107,98 @@
 | 1099 | 37 | Audrey Wood |
 | 1100 | 37 | Leon Welch |
 | 1101 | 37 | Suzee |
-| 1102 | 37 | Dena Cudjo |
-| 1103 | 37 | Mona Wagner |
+| 1102 | 37 | Mona Wagner |
+| 1103 | 37 | Dena Cudjo |
 | 1104 | 37 | Jack |
-| 1105 | 37 | Josh Vietz |
-| 1106 | 37 | Brooke Allred |
-| 1107 | 36 | Rey Huber |
-| 1108 | 36 | Amanda Stanley |
-| 1109 | 36 | Slinky Linkgrid |
-| 1110 | 36 | Witty Clearbuilder |
-| 1111 | 36 | Brandon Ray Holt |
+| 1105 | 37 | Brooke Allred |
+| 1106 | 37 | Josh Vietz |
+| 1107 | 37 | Lyndzey Sciscoe |
+| 1108 | 36 | Brandon Ray Holt |
+| 1109 | 36 | Amanda Stanley |
+| 1110 | 36 | Slinky Linkgrid |
+| 1111 | 36 | Witty Clearbuilder |
 | 1112 | 36 | Calah Amore |
-| 1113 | 36 | Armordguy |
-| 1114 | 36 | Chilly Fall |
-| 1115 | 36 | YAKO |
+| 1113 | 36 | Rey Huber |
+| 1114 | 36 | Armordguy |
+| 1115 | 36 | Chilly Fall |
 | 1116 | 36 | Eugene Clawson |
-| 1117 | 36 | Jen |
-| 1118 | 36 | Deanna Mc |
-| 1119 | 36 | giggly gal |
-| 1120 | 36 | Bobbie Carrol |
-| 1121 | 36 | Audrey Phillips |
-| 1122 | 36 | Debra Patten |
-| 1123 | 36 | Deborah Lint Odom |
-| 1124 | 36 | James Brown |
-| 1125 | 36 | Christina Hanson |
-| 1126 | 36 | Samantha LeBlanc |
-| 1127 | 36 | Jennifer Leigh |
-| 1128 | 36 | October Fitch |
-| 1129 | 36 | Jessi Ann |
-| 1130 | 35 | RaeRae |
-| 1131 | 35 | Patrick Ohanlon |
-| 1132 | 35 | Bubbly Risebuilder |
-| 1133 | 35 | Rachael Roberts |
-| 1134 | 35 | blockrocker |
-| 1135 | 35 | Jessica Jones |
-| 1136 | 35 | Isiwin |
-| 1137 | 35 | Dandy Wiper |
-| 1138 | 35 | Snazzy Clusterfit |
-| 1139 | 35 | Nerdy Base |
-| 1140 | 35 | Signerlisa |
-| 1141 | 34 | Jager |
-| 1142 | 34 | Katie Magner |
-| 1143 | 34 | Marlo Perry |
-| 1144 | 34 | Auntie YaYa |
-| 1145 | 34 | Tina Kinney |
-| 1146 | 34 | Sleepypanda67 |
-| 1147 | 34 | Jumpy Linkroll |
-| 1148 | 34 | Twisty Snapmatch |
-| 1149 | 34 | Sassafras Cass |
-| 1150 | 34 | mee |
-| 1151 | 34 | STARFIRE |
-| 1152 | 34 | Peyton Groce |
-| 1153 | 33 | Maja Hauff |
-| 1154 | 33 | Rachel Huber |
-| 1155 | 33 | Nicki McGill |
-| 1156 | 33 | Brooke Marie Fox |
-| 1157 | 33 | Debbie Embry |
-| 1158 | 33 | Mandeee |
-| 1159 | 33 | Em |
-| 1160 | 33 | Gilbert Medina |
-| 1161 | 33 | Nicole Hjelmen |
-| 1162 | 33 | Ryan Sanders |
-| 1163 | 33 | Cool cee |
-| 1164 | 33 | Jstang |
+| 1117 | 36 | YAKO |
+| 1118 | 36 | Jen |
+| 1119 | 36 | Deanna Mc |
+| 1120 | 36 | giggly gal |
+| 1121 | 36 | Bobbie Carrol |
+| 1122 | 36 | Audrey Phillips |
+| 1123 | 36 | Debra Patten |
+| 1124 | 36 | Deborah Lint Odom |
+| 1125 | 36 | James Brown |
+| 1126 | 36 | Christina Hanson |
+| 1127 | 36 | Samantha LeBlanc |
+| 1128 | 36 | Jennifer Leigh |
+| 1129 | 36 | October Fitch |
+| 1130 | 36 | Jessi Ann |
+| 1131 | 35 | RaeRae |
+| 1132 | 35 | Patrick Ohanlon |
+| 1133 | 35 | Bubbly Risebuilder |
+| 1134 | 35 | Rachael Roberts |
+| 1135 | 35 | blockrocker |
+| 1136 | 35 | Jessica Jones |
+| 1137 | 35 | Isiwin |
+| 1138 | 35 | Dandy Wiper |
+| 1139 | 35 | Jstang |
+| 1140 | 35 | Snazzy Clusterfit |
+| 1141 | 35 | Signerlisa |
+| 1142 | 35 | Nerdy Base |
+| 1143 | 34 | Jager |
+| 1144 | 34 | Katie Magner |
+| 1145 | 34 | Marlo Perry |
+| 1146 | 34 | Auntie YaYa |
+| 1147 | 34 | Tina Kinney |
+| 1148 | 34 | Sleepypanda67 |
+| 1149 | 34 | Jumpy Linkroll |
+| 1150 | 34 | Twisty Snapmatch |
+| 1151 | 34 | mee |
+| 1152 | 34 | Sassafras Cass |
+| 1153 | 34 | STARFIRE |
+| 1154 | 34 | Peyton Groce |
+| 1155 | 33 | Maja Hauff |
+| 1156 | 33 | Rachel Huber |
+| 1157 | 33 | Nicki McGill |
+| 1158 | 33 | Brooke Marie Fox |
+| 1159 | 33 | Mandeee |
+| 1160 | 33 | Em |
+| 1161 | 33 | Gilbert Medina |
+| 1162 | 33 | Cool cee |
+| 1163 | 33 | Nicole Hjelmen |
+| 1164 | 33 | Debbie Embry |
 | 1165 | 33 | June Salevao |
 | 1166 | 33 | Octavia Jus Mae Hill |
-| 1167 | 32 | Viani09 |
-| 1168 | 32 | Zany Dasher |
-| 1169 | 32 | Courtney Elizabeth Hartnagel |
-| 1170 | 32 | Busted9mm |
-| 1171 | 32 | Monica Gonzalez Rios |
-| 1172 | 32 | Dandy Matchzone |
-| 1173 | 32 | Churube Finwoiisopw |
-| 1174 | 32 | Stephanie |
-| 1175 | 32 | Foc |
-| 1176 | 32 | Lyndzey Sciscoe |
-| 1177 | 32 | Amanda Bryte |
-| 1178 | 32 | Spicy Enchilada |
-| 1179 | 32 | Lively Liner |
-| 1180 | 32 | Chelsea Harriss |
+| 1167 | 33 | Ryan Sanders |
+| 1168 | 32 | Busted9mm |
+| 1169 | 32 | Foc |
+| 1170 | 32 | Courtney Elizabeth Hartnagel |
+| 1171 | 32 | Spicy Enchilada |
+| 1172 | 32 | Zany Dasher |
+| 1173 | 32 | Monica Gonzalez Rios |
+| 1174 | 32 | Dandy Matchzone |
+| 1175 | 32 | Churube Finwoiisopw |
+| 1176 | 32 | Viani09 |
+| 1177 | 32 | Stephanie |
+| 1178 | 32 | Chelsea Harriss |
+| 1179 | 32 | Amanda Bryte |
+| 1180 | 32 | Lively Liner |
 | 1181 | 32 | Lori Yelvington Cain |
-| 1182 | 31 | Trinni Hansen |
+| 1182 | 31 | Louise LeBlanc |
 | 1183 | 31 | Dan Ramsey |
-| 1184 | 31 | Ronald Granger |
-| 1185 | 31 | Jenn |
-| 1186 | 31 | Louise LeBlanc |
+| 1184 | 31 | Cranky Fit |
+| 1185 | 31 | Monique Williams |
+| 1186 | 31 | Jenn |
 | 1187 | 31 | Amanda Neal |
-| 1188 | 31 | Cranky Fit |
-| 1189 | 31 | Monique Williams |
-| 1190 | 30 | Brett Mullins |
-| 1191 | 30 | Lakeisha Ryder |
-| 1192 | 30 | Amanda Mason Scott |
-| 1193 | 30 | Tessa Kalili |
+| 1188 | 31 | Ronald Granger |
+| 1189 | 31 | Trinni Hansen |
+| 1190 | 30 | Lakeisha Ryder |
+| 1191 | 30 | Amanda Mason Scott |
+| 1192 | 30 | Tessa Kalili |
+| 1193 | 30 | Brett Mullins |
 | 1194 | 30 | Edward Conyers |
 | 1195 | 30 | Loriane Shumate Griggs |
 | 1196 | 30 | Amy ATen |

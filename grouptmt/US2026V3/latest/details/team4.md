@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 12:16:18 UTC
+# Standings for team4 as of 2026-06-07 12:16:40 UTC
 
 **Total Participants:** 1456
 
@@ -138,9 +138,9 @@
 | 130 | 408 | Futrell Brent |
 | 131 | 406 | Kelley Roach |
 | 132 | 400 | DexterDobbins |
-| 133 | 400 | Suzanne Carter |
+| 133 | 400 | Amber Doyle |
 | 134 | 400 | Nicole Peoples |
-| 135 | 400 | Amber Doyle |
+| 135 | 400 | Suzanne Carter |
 | 136 | 396 | Jackie Jackson |
 | 137 | 394 | Kim |
 | 138 | 388 | Hen |
@@ -187,11 +187,11 @@
 | 179 | 280 | Slimm |
 | 180 | 279 | QueenLi86 |
 | 181 | 279 | Iforget |
-| 182 | 279 | Brick House |
-| 183 | 277 | Giggly Tilt |
-| 184 | 270 | Jojo Ann |
-| 185 | 268 | Megan Vick |
-| 186 | 268 | Anna Gribble |
+| 182 | 279 | Anna Gribble |
+| 183 | 279 | Brick House |
+| 184 | 277 | Giggly Tilt |
+| 185 | 270 | Jojo Ann |
+| 186 | 268 | Megan Vick |
 | 187 | 266 | Piece of Cake |
 | 188 | 262 | squareMel |
 | 189 | 261 | Waxboss |
@@ -215,8 +215,8 @@
 | 207 | 230 | gabs |
 | 208 | 227 | Cheery Risegrid |
 | 209 | 226 | Sassy Rollpiece |
-| 210 | 225 | Shocinda Sherwood |
-| 211 | 225 | Dubiousdust |
+| 210 | 225 | Dubiousdust |
+| 211 | 225 | Shocinda Sherwood |
 | 212 | 224 | Janet Sanfilippo Sullivan |
 | 213 | 223 | Queen B |
 | 214 | 222 | Plucky Shatterfit |
@@ -225,20 +225,20 @@
 | 217 | 220 | CIRAZYPNOY |
 | 218 | 220 | blockhead |
 | 219 | 218 | Lori Stembridge |
-| 220 | 215 | Jj Johnson |
-| 221 | 215 | Jeremy |
-| 222 | 211 | Renee Sapp |
-| 223 | 210 | Stephanie Myers |
-| 224 | 209 | Crystal Hammonds |
-| 225 | 207 | Aramat |
-| 226 | 205 | Kristen Wallace |
-| 227 | 200 | Sarah Montagne Forsberg |
-| 228 | 199 | Spicy Chicken |
+| 220 | 217 | Regina Williams |
+| 221 | 215 | Jj Johnson |
+| 222 | 215 | Jeremy |
+| 223 | 211 | Renee Sapp |
+| 224 | 210 | Stephanie Myers |
+| 225 | 209 | Crystal Hammonds |
+| 226 | 207 | Aramat |
+| 227 | 205 | Kristen Wallace |
+| 228 | 200 | Sarah Montagne Forsberg |
 | 229 | 199 | Lively Blockpiece |
 | 230 | 199 | Janet Willoughby |
-| 231 | 199 | Colin |
-| 232 | 197 | Tiggerjake |
-| 233 | 197 | Regina Williams |
+| 231 | 199 | Spicy Chicken |
+| 232 | 199 | Colin |
+| 233 | 197 | Tiggerjake |
 | 234 | 196 | Loopy Clusterline |
 | 235 | 195 | No Time |
 | 236 | 195 | Sean Mccleary |
@@ -264,8 +264,8 @@
 | 256 | 180 | Karen Davis |
 | 257 | 180 | ariel |
 | 258 | 179 | LaTanya GeminiondaRise Johnson |
-| 259 | 178 | Tamara Triplet |
-| 260 | 178 | Jacqueline Jackii Ramos |
+| 259 | 178 | Jacqueline Jackii Ramos |
+| 260 | 178 | Tamara Triplet |
 | 261 | 177 | Mark Norton |
 | 262 | 177 | Damon Gaston |
 | 263 | 177 | Chirpy Link |
@@ -291,8 +291,8 @@
 | 283 | 161 | Bouncy |
 | 284 | 160 | Fran Aaron-Ring |
 | 285 | 160 | kellie |
-| 286 | 160 | Morgan Stevens |
-| 287 | 160 | Frothy Pattern |
+| 286 | 160 | Frothy Pattern |
+| 287 | 160 | Morgan Stevens |
 | 288 | 159 | Logan Two-dubs Baker |
 | 289 | 159 | JoAnn Summerlot Ratliff |
 | 290 | 158 | Corie A. Brinson |
@@ -310,22 +310,22 @@
 | 302 | 153 | Shawntae Mccary |
 | 303 | 152 | Jumpy Builderpiece |
 | 304 | 152 | Samara Garcia |
-| 305 | 152 | Funky Tiler |
-| 306 | 152 | Nerdy Faller |
+| 305 | 152 | Nerdy Faller |
+| 306 | 152 | Funky Tiler |
 | 307 | 151 | Bean |
 | 308 | 151 | Troy Zanelli |
 | 309 | 150 | Justin Michael |
 | 310 | 150 | Heidi Anne Scheiderer |
-| 311 | 150 | Hardy Fuller |
-| 312 | 150 | MrsReap |
+| 311 | 150 | MrsReap |
+| 312 | 150 | Hardy Fuller |
 | 313 | 148 | Melika Zeheb |
 | 314 | 148 | Smiley Gridzone |
-| 315 | 147 | Allysha McFarland |
-| 316 | 147 | EvoKitty |
+| 315 | 147 | EvoKitty |
+| 316 | 147 | Allysha McFarland |
 | 317 | 147 | Cherrypir05 |
 | 318 | 146 | Zesty Twistpiece |
-| 319 | 146 | Jasmine Marie |
-| 320 | 146 | Cheeky Fallzone |
+| 319 | 146 | Cheeky Fallzone |
+| 320 | 146 | Jasmine Marie |
 | 321 | 146 | SupaFly |
 | 322 | 144 | Dapper Strikerpiece |
 | 323 | 144 | Dawn Phelps |
@@ -333,8 +333,8 @@
 | 325 | 142 | Rachel Lemos |
 | 326 | 142 | Chris McBlockster |
 | 327 | 141 | Chilly Pivot |
-| 328 | 140 | Flashy Shatterer |
-| 329 | 140 | Wanda Simmons |
+| 328 | 140 | Wanda Simmons |
+| 329 | 140 | Flashy Shatterer |
 | 330 | 140 | Billy Baker |
 | 331 | 139 | Name |
 | 332 | 138 | Tina Thomas |
@@ -342,44 +342,44 @@
 | 334 | 137 | Deborah Silberg |
 | 335 | 136 | Lively Cascadebuilder |
 | 336 | 136 | King |
-| 337 | 136 | WeeWooWee |
-| 338 | 136 | Slinky Stackzone |
-| 339 | 135 | crobb77 |
-| 340 | 135 | Quiomarie Cotto |
+| 337 | 136 | Slinky Stackzone |
+| 338 | 136 | WeeWooWee |
+| 339 | 135 | Quiomarie Cotto |
+| 340 | 135 | crobb77 |
 | 341 | 135 | Shia Marie |
 | 342 | 134 | All knowing |
-| 343 | 133 | Ginny |
-| 344 | 133 | Sonia Cordero-Martinez |
-| 345 | 131 | Stasia |
-| 346 | 131 | Dominique Melendez |
-| 347 | 131 | Swanky Snapgrid |
-| 348 | 131 | Diana Fernandez |
-| 349 | 131 | Lanelva Tiredofbs Marshall |
-| 350 | 130 | Bhakti Sawarkar |
-| 351 | 130 | Snazzy Corner |
-| 352 | 130 | Maegon Brazille |
+| 343 | 133 | Sonia Cordero-Martinez |
+| 344 | 133 | Ginny |
+| 345 | 131 | Swanky Snapgrid |
+| 346 | 131 | Stasia |
+| 347 | 131 | Maegon Brazille |
+| 348 | 131 | Dominique Melendez |
+| 349 | 131 | Diana Fernandez |
+| 350 | 131 | Lanelva Tiredofbs Marshall |
+| 351 | 130 | Bhakti Sawarkar |
+| 352 | 130 | Snazzy Corner |
 | 353 | 130 | Rita Ann |
 | 354 | 130 | Maurice DeJean |
 | 355 | 129 | Dizzy Slammer |
 | 356 | 129 | Simone |
-| 357 | 129 | Has2brat |
-| 358 | 129 | Shauna Davis |
-| 359 | 128 | Juvon SupaShawdii Brooks |
-| 360 | 128 | Lana Tran |
+| 357 | 129 | Shauna Davis |
+| 358 | 129 | Has2brat |
+| 359 | 128 | Lana Tran |
+| 360 | 128 | Juvon SupaShawdii Brooks |
 | 361 | 128 | Sherry Mooney |
-| 362 | 127 | Jen Smith |
-| 363 | 127 | zoes |
-| 364 | 127 | Jrr |
-| 365 | 127 | Cheeky Climber |
-| 366 | 127 | Maricela Joslin |
+| 362 | 127 | Jrr |
+| 363 | 127 | Jen Smith |
+| 364 | 127 | zoes |
+| 365 | 127 | Maricela Joslin |
+| 366 | 127 | Cheeky Climber |
 | 367 | 126 | Karen Small |
 | 368 | 125 | DizzB400 |
 | 369 | 124 | Bammer |
 | 370 | 124 | Tasha Suzanne Prisbrey |
 | 371 | 124 | Shanna Fragen |
 | 372 | 123 | Jennifer Fisher Franklin |
-| 373 | 122 | Holly Bramel |
-| 374 | 122 | Mighty1 |
+| 373 | 122 | Mighty1 |
+| 374 | 122 | Holly Bramel |
 | 375 | 121 | Jeff Margolis |
 | 376 | 121 | Sandra Stark |
 | 377 | 121 | TJ |
