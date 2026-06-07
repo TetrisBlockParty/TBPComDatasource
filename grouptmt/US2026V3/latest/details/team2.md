@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 11:12:40 UTC
+# Standings for team2 as of 2026-06-07 11:13:17 UTC
 
 **Total Participants:** 1704
 
@@ -1047,34 +1047,34 @@
 | 1039 | 40 | Missy Stevens |
 | 1040 | 40 | Ahada Seber |
 | 1041 | 40 | Patty Ann Hendrickson |
-| 1042 | 40 | Dapper Pivotfall |
-| 1043 | 40 | Billie Jo Butler |
+| 1042 | 40 | Billie Jo Butler |
+| 1043 | 40 | Dapper Pivotfall |
 | 1044 | 40 | Giddy Climber |
 | 1045 | 40 | Deezie |
 | 1046 | 39 | Slinky Towerpiece |
 | 1047 | 39 | Flynn Flibble |
 | 1048 | 39 | Joslyn Erickson |
 | 1049 | 39 | Sara Karels |
-| 1050 | 39 | Slinky Glidezone |
-| 1051 | 39 | Kristen Alta |
-| 1052 | 39 | Kay Newcomb |
-| 1053 | 39 | KCBlocker |
-| 1054 | 39 | Goofy Patternfit |
-| 1055 | 39 | Rebecca Boling |
-| 1056 | 39 | Shiny Matchpiece |
-| 1057 | 39 | Carlee Becher |
-| 1058 | 38 | Dysty |
-| 1059 | 38 | Alicia Ellenburg |
-| 1060 | 38 | Perky Patternbuilder |
-| 1061 | 38 | Jason Janssen |
-| 1062 | 38 | Elise Marie Mireles |
-| 1063 | 38 | Epic Slice |
-| 1064 | 38 | Heather Nicole |
-| 1065 | 38 | Spencer Ryder |
-| 1066 | 38 | Lisa Chapman |
-| 1067 | 38 | Nikki Strawn |
-| 1068 | 38 | Frothy Roll |
-| 1069 | 37 | Dizzy Gridder |
+| 1050 | 39 | Catey Salazar |
+| 1051 | 39 | Slinky Glidezone |
+| 1052 | 39 | Kristen Alta |
+| 1053 | 39 | Kay Newcomb |
+| 1054 | 39 | KCBlocker |
+| 1055 | 39 | Goofy Patternfit |
+| 1056 | 39 | Rebecca Boling |
+| 1057 | 39 | Shiny Matchpiece |
+| 1058 | 39 | Carlee Becher |
+| 1059 | 38 | Dysty |
+| 1060 | 38 | Alicia Ellenburg |
+| 1061 | 38 | Perky Patternbuilder |
+| 1062 | 38 | Jason Janssen |
+| 1063 | 38 | Elise Marie Mireles |
+| 1064 | 38 | Epic Slice |
+| 1065 | 38 | Frothy Roll |
+| 1066 | 38 | Heather Nicole |
+| 1067 | 38 | Spencer Ryder |
+| 1068 | 38 | Lisa Chapman |
+| 1069 | 38 | Nikki Strawn |
 | 1070 | 37 | Shelby Lynn May |
 | 1071 | 37 | Brooke Allred |
 | 1072 | 37 | Dena Cudjo |
@@ -1085,10 +1085,10 @@
 | 1077 | 37 | Suzee |
 | 1078 | 37 | Jack |
 | 1079 | 37 | Mona Wagner |
-| 1080 | 37 | Leon Welch |
-| 1081 | 37 | Rosie |
-| 1082 | 37 | Danh Nguyen |
-| 1083 | 37 | Catey Salazar |
+| 1080 | 37 | Dizzy Gridder |
+| 1081 | 37 | Leon Welch |
+| 1082 | 37 | Rosie |
+| 1083 | 37 | Danh Nguyen |
 | 1084 | 37 | Annie Hebdon |
 | 1085 | 37 | Audrey Wood |
 | 1086 | 36 | Jen |

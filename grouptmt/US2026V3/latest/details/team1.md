@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:12:40 UTC
+# Standings for team1 as of 2026-06-07 11:13:17 UTC
 
 **Total Participants:** 1444
 
@@ -61,7 +61,7 @@
 | 53 | 1052 | Shortstak |
 | 54 | 1046 | Spicy Balancer |
 | 55 | 1024 | Chill Clusterer |
-| 56 | 999 | Danielle DeLozier Plesec |
+| 56 | 1019 | Danielle DeLozier Plesec |
 | 57 | 998 | Angela R Wilson |
 | 58 | 961 | Sanjuro |
 | 59 | 943 | Kkbk |
@@ -215,15 +215,15 @@
 | 207 | 245 | Derrius SeriousLee Burks |
 | 208 | 245 | Zachary Colegrove |
 | 209 | 245 | Rhonda Williams Warner |
-| 210 | 241 | SyTheEvilGenius1 |
-| 211 | 240 | Rayya Kiser |
-| 212 | 240 | Salim Thugger |
-| 213 | 238 | Queenie Perry |
-| 214 | 237 | David Fuentes |
-| 215 | 236 | IThinkNot |
+| 210 | 241 | IThinkNot |
+| 211 | 241 | SyTheEvilGenius1 |
+| 212 | 240 | Rayya Kiser |
+| 213 | 240 | Salim Thugger |
+| 214 | 238 | Queenie Perry |
+| 215 | 237 | David Fuentes |
 | 216 | 236 | Nutty Spinblock |
-| 217 | 235 | Michele Simpson |
-| 218 | 235 | Chuck Quarles |
+| 217 | 235 | Chuck Quarles |
+| 218 | 235 | Michele Simpson |
 | 219 | 234 | Dacia Hicks |
 | 220 | 229 | Ann White |
 | 221 | 228 | Latisha Fairley |
@@ -450,53 +450,53 @@
 | 442 | 100 | Tessa Gaskin |
 | 443 | 100 | Oldheads |
 | 444 | 100 | Kesha Brady |
-| 445 | 100 | Mary Phillippi Blanton |
-| 446 | 100 | Seddrick |
-| 447 | 100 | Natasha Rucker |
+| 445 | 100 | Natasha Rucker |
+| 446 | 100 | Kennedi Brazziel |
+| 447 | 100 | Seddrick |
 | 448 | 100 | Cornelius Neal |
-| 449 | 100 | Kennedi Brazziel |
-| 450 | 100 | Leavon Smith |
+| 449 | 100 | $hort Dog |
+| 450 | 100 | Mary Phillippi Blanton |
 | 451 | 100 | Jean Regis |
-| 452 | 100 | $hort Dog |
+| 452 | 100 | Leavon Smith |
 | 453 | 99 | Mahagony Small |
-| 454 | 99 | SeanSanchez |
-| 455 | 99 | Ciera Peace |
-| 456 | 99 | ChunLi |
+| 454 | 99 | Ciera Peace |
+| 455 | 99 | ChunLi |
+| 456 | 99 | SeanSanchez |
 | 457 | 98 | Dorian Griffin |
-| 458 | 98 | Shannon Carriger |
+| 458 | 98 | Sharee Robinson |
 | 459 | 98 | Michael Smith |
-| 460 | 98 | Sharee Robinson |
+| 460 | 98 | Shannon Carriger |
 | 461 | 97 | Lootch |
-| 462 | 97 | Erin Sabol |
-| 463 | 97 | Twisty Cascadeclear |
+| 462 | 97 | Twisty Cascadeclear |
+| 463 | 97 | Erin Sabol |
 | 464 | 97 | NewEve |
-| 465 | 97 | Andrew Jay Vaughn |
-| 466 | 97 | Kristie |
-| 467 | 97 | Shanell Thomas |
-| 468 | 97 | Nichole Horsley-Conn |
-| 469 | 96 | Sherri Keys |
-| 470 | 96 | Yazz |
-| 471 | 95 | Jelyfish |
+| 465 | 97 | Shanell Thomas |
+| 466 | 97 | Nichole Horsley-Conn |
+| 467 | 97 | Andrew Jay Vaughn |
+| 468 | 97 | Rufus |
+| 469 | 97 | Kristie |
+| 470 | 96 | Sherri Keys |
+| 471 | 96 | Yazz |
 | 472 | 95 | Shiny Lift |
 | 473 | 95 | Stephen Glaze |
 | 474 | 95 | Bold Clusterer |
-| 475 | 94 | Ta'Kaiyah M. Spann |
+| 475 | 95 | Jelyfish |
 | 476 | 94 | Derald Miller |
-| 477 | 94 | Sha Anderson |
-| 478 | 93 | Rene Hicks |
+| 477 | 94 | Ta'Kaiyah M. Spann |
+| 478 | 94 | Sha Anderson |
 | 479 | 93 | C Lo Green |
-| 480 | 93 | FunTime |
-| 481 | 93 | Lucy |
-| 482 | 93 | Chino Baby |
-| 483 | 93 | Anastasia |
-| 484 | 93 | Kimberly Susan Privette |
-| 485 | 92 | Kimberly Anderson |
-| 486 | 92 | Boldy Matchbuilder |
-| 487 | 92 | Pretty Yella |
-| 488 | 91 | David A Alvino |
-| 489 | 91 | Aaron Hartmann |
-| 490 | 91 | Zappy Clearfit |
-| 491 | 91 | Rufus |
+| 480 | 93 | Rene Hicks |
+| 481 | 93 | FunTime |
+| 482 | 93 | Anastasia |
+| 483 | 93 | Lucy |
+| 484 | 93 | Chino Baby |
+| 485 | 93 | Kimberly Susan Privette |
+| 486 | 92 | Kimberly Anderson |
+| 487 | 92 | Boldy Matchbuilder |
+| 488 | 92 | Pretty Yella |
+| 489 | 91 | David A Alvino |
+| 490 | 91 | Aaron Hartmann |
+| 491 | 91 | Zappy Clearfit |
 | 492 | 90 | Lilly Brown |
 | 493 | 90 | Nora Mahmoud |
 | 494 | 90 | Shameka Tiffany |
