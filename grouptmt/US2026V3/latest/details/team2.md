@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 07:22:40 UTC
+# Standings for team2 as of 2026-06-07 07:23:18 UTC
 
 **Total Participants:** 1668
 
@@ -15,8 +15,8 @@
 | 7 | 7687 | Lacey Nolting |
 | 8 | 7500 | Mocha |
 | 9 | 6240 | Christina Shell |
-| 10 | 6114 | Tim Ix |
-| 11 | 6114 | Morgann McDaniel |
+| 10 | 6114 | Morgann McDaniel |
+| 11 | 6114 | Tim Ix |
 | 12 | 5704 | Cori Keberlein |
 | 13 | 4945 | Dapper Rollout |
 | 14 | 4800 | Crafty Ziggy |
@@ -43,8 +43,8 @@
 | 35 | 2500 | Anthony Lilley |
 | 36 | 2287 | Christina Jambard Sampier |
 | 37 | 2210 | Bea Bee |
-| 38 | 2133 | Frisky Balanceblock |
-| 39 | 2045 | Andre Love |
+| 38 | 2195 | Andre Love |
+| 39 | 2133 | Frisky Balanceblock |
 | 40 | 2032 | Andrew Weissenborn |
 | 41 | 1906 | Jennifer Corder |
 | 42 | 1841 | Frilly Match |
@@ -86,28 +86,28 @@
 | 78 | 819 | Beverly Lynn Mills |
 | 79 | 802 | Charley Bedford |
 | 80 | 800 | Renee Freeman Jacobson |
-| 81 | 799 | Poppy |
+| 81 | 800 | Smashanator |
 | 82 | 799 | Elizabeth Sallas |
-| 83 | 792 | Marquetta Johnson |
-| 84 | 788 | Nawang Nawang |
-| 85 | 779 | Marie Luciano |
-| 86 | 774 | Deborah Boyce Minor |
-| 87 | 771 | Charlie Wilson |
-| 88 | 766 | Sarah Griffey |
-| 89 | 757 | Jazzy Faller |
-| 90 | 749 | Brandi Thompson |
-| 91 | 729 | Lily |
-| 92 | 721 | Hoppy Rotate |
-| 93 | 711 | Smiley Dropper |
-| 94 | 700 | Denise Potter |
-| 95 | 700 | Smashanator |
+| 83 | 799 | Poppy |
+| 84 | 792 | Marquetta Johnson |
+| 85 | 788 | Nawang Nawang |
+| 86 | 779 | Marie Luciano |
+| 87 | 774 | Deborah Boyce Minor |
+| 88 | 771 | Charlie Wilson |
+| 89 | 766 | Sarah Griffey |
+| 90 | 757 | Jazzy Faller |
+| 91 | 749 | Brandi Thompson |
+| 92 | 729 | Lily |
+| 93 | 721 | Hoppy Rotate |
+| 94 | 711 | Smiley Dropper |
+| 95 | 700 | Denise Potter |
 | 96 | 685 | Sigmamom |
 | 97 | 666 | Epic Frame |
 | 98 | 656 | Loopy Cascadepiece |
 | 99 | 654 | Bon Lynn |
 | 100 | 637 | Alison Waller |
-| 101 | 632 | Allie Bug |
-| 102 | 632 | Wmk Rathbun |
+| 101 | 632 | Wmk Rathbun |
+| 102 | 632 | Allie Bug |
 | 103 | 629 | Mirr Lulu |
 | 104 | 627 | Le Sandy |
 | 105 | 620 | Amber-leigh Williams |
@@ -129,19 +129,19 @@
 | 121 | 528 | Amanda Sikes |
 | 122 | 516 | Amber Miller Wirick |
 | 123 | 515 | Loony Faller |
-| 124 | 500 | Courtney McCulley |
-| 125 | 500 | Suki Kaur |
+| 124 | 500 | Suki Kaur |
+| 125 | 500 | Courtney McCulley |
 | 126 | 486 | Jackie Tupper |
 | 127 | 483 | Karen Reid Cenkush |
 | 128 | 477 | Amy Gale |
 | 129 | 476 | snowwol |
-| 130 | 466 | Judy Long |
-| 131 | 463 | Gloria May Shook |
+| 130 | 467 | Gloria May Shook |
+| 131 | 466 | Judy Long |
 | 132 | 458 | Kaycie Shaffer |
 | 133 | 448 | Pooh |
 | 134 | 445 | Bubbly Strikerpiece |
-| 135 | 438 | Zappy Pattern |
-| 136 | 438 | Michelle Rich Burkhart |
+| 135 | 438 | Michelle Rich Burkhart |
+| 136 | 438 | Zappy Pattern |
 | 137 | 436 | Gill |
 | 138 | 433 | Kimberly Cowan |
 | 139 | 428 | Steven Craig |
@@ -172,13 +172,13 @@
 | 164 | 343 | Jason Cook |
 | 165 | 343 | Theresa Marie |
 | 166 | 342 | Bri St Peter |
-| 167 | 340 | Mom |
+| 167 | 340 | Lisa Underwood Desmond |
 | 168 | 340 | Amy Gregg |
-| 169 | 336 | Jef Wassom |
-| 170 | 333 | Christina Maria |
-| 171 | 332 | Lisa Underwood Desmond |
-| 172 | 328 | Tim Tim |
-| 173 | 328 | Keri Mears |
+| 169 | 340 | Mom |
+| 170 | 336 | Jef Wassom |
+| 171 | 333 | Christina Maria |
+| 172 | 328 | Keri Mears |
+| 173 | 328 | Tim Tim |
 | 174 | 323 | Shannon Wilson |
 | 175 | 322 | Nikki Hayes |
 | 176 | 319 | Flower_child |
@@ -188,12 +188,12 @@
 | 180 | 310 | Jennifer Smith |
 | 181 | 303 | Chirpy Grid |
 | 182 | 302 | Hypee |
-| 183 | 300 | Linda Guay |
-| 184 | 300 | Hector |
+| 183 | 300 | Hector |
+| 184 | 300 | Linda Guay |
 | 185 | 299 | Mookshake |
-| 186 | 298 | Rob Owens |
+| 186 | 298 | Breeana Bennett |
 | 187 | 298 | Heather Burgett |
-| 188 | 298 | Breeana Bennett |
+| 188 | 298 | Rob Owens |
 | 189 | 296 | Brenda Jones |
 | 190 | 296 | Snappy Combo |
 | 191 | 296 | Sara Perkins |
@@ -201,14 +201,14 @@
 | 193 | 294 | Vistabrat |
 | 194 | 292 | James Ward |
 | 195 | 291 | Flashy Twistline |
-| 196 | 285 | Samantha Carman |
-| 197 | 285 | H |
+| 196 | 285 | H |
+| 197 | 285 | Samantha Carman |
 | 198 | 284 | Becca Marie |
 | 199 | 282 | Nova Nova |
 | 200 | 281 | MegaPooh |
 | 201 | 280 | Patricia Carroll |
-| 202 | 278 | Ashley Billiot Rhodes |
-| 203 | 278 | Amy Nicole McCanne |
+| 202 | 278 | Amy Nicole McCanne |
+| 203 | 278 | Ashley Billiot Rhodes |
 | 204 | 277 | Sarah Mccolgan |
 | 205 | 274 | Amber Wolf |
 | 206 | 270 | giamy |
@@ -217,8 +217,8 @@
 | 209 | 263 | Snappy Blockbuilder |
 | 210 | 262 | Cool Balancer |
 | 211 | 261 | AndrewandShela Gornik |
-| 212 | 259 | Angie Kowalsky Olson |
-| 213 | 259 | Jessica Lynn |
+| 212 | 259 | Jessica Lynn |
+| 213 | 259 | Angie Kowalsky Olson |
 | 214 | 257 | Jat |
 | 215 | 253 | Hilliary Beyer |
 | 216 | 253 | Marge Cromer |
