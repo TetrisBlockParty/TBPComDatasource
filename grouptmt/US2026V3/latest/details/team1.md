@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 04:54:17 UTC
+# Standings for team1 as of 2026-06-07 04:54:39 UTC
 
 **Total Participants:** 1355
 
@@ -21,7 +21,7 @@
 | 13 | 5282 | Plucky Swipe |
 | 14 | 5114 | Hunter Rayborn |
 | 15 | 4511 | Timothy Robert |
-| 16 | 4162 | Debbie Carswell |
+| 16 | 4262 | Debbie Carswell |
 | 17 | 3039 | Chummy Combo |
 | 18 | 3003 | Cassidy Butler |
 | 19 | 3001 | Pdubbl3 |
@@ -1192,104 +1192,104 @@
 | 1184 | 14 | Barbiebunz |
 | 1185 | 14 | Sylvia Holst |
 | 1186 | 14 | Jennifer Levan |
-| 1187 | 14 | MoneyMac |
-| 1188 | 14 | Alanna Breitenbach |
-| 1189 | 14 | Beautiful314 |
-| 1190 | 14 | Fancy Mover |
+| 1187 | 14 | Fancy Mover |
+| 1188 | 14 | Analesia Taylor |
+| 1189 | 14 | Alanna Breitenbach |
+| 1190 | 14 | Carmen Claudio |
 | 1191 | 14 | Zany Pivot |
-| 1192 | 14 | Analesia Taylor |
-| 1193 | 14 | Carmen Claudio |
-| 1194 | 13 | Beth Ingham |
+| 1192 | 14 | Beautiful314 |
+| 1193 | 14 | MoneyMac |
+| 1194 | 13 | Tasha Stuckey |
 | 1195 | 13 | Krystal Maynard |
 | 1196 | 13 | Emma Adams |
-| 1197 | 13 | PuddenPop |
-| 1198 | 13 | Leah Ingram |
-| 1199 | 13 | Tasha Stuckey |
+| 1197 | 13 | random |
+| 1198 | 13 | Bumpy Ricketts |
+| 1199 | 13 | Hoppy Rumbler |
 | 1200 | 13 | Bianca Nawlinsgurl Ferguson |
-| 1201 | 13 | random |
-| 1202 | 13 | Bumpy Ricketts |
-| 1203 | 13 | Chinkey Overit |
-| 1204 | 13 | Hoppy Rumbler |
-| 1205 | 12 | Joseph Ware Jr. |
-| 1206 | 12 | Nerdy Riser |
-| 1207 | 12 | BigDawg Lessley |
-| 1208 | 12 | toye69 |
-| 1209 | 12 | Mamiyoung47 |
-| 1210 | 12 | Dora Greer |
+| 1201 | 13 | PuddenPop |
+| 1202 | 13 | Chinkey Overit |
+| 1203 | 13 | Beth Ingham |
+| 1204 | 13 | Leah Ingram |
+| 1205 | 12 | Mamiyoung47 |
+| 1206 | 12 | Dora Greer |
+| 1207 | 12 | toye69 |
+| 1208 | 12 | Joseph Ware Jr. |
+| 1209 | 12 | Nerdy Riser |
+| 1210 | 12 | BigMike |
 | 1211 | 12 | Michael Jones |
-| 1212 | 12 | Mike Hromowyk |
-| 1213 | 12 | Tempee |
-| 1214 | 12 | Outspoken Sirchristopher |
-| 1215 | 12 | Silly Spinblock |
-| 1216 | 12 | Jason A Giantonio |
-| 1217 | 12 | Nicole Coko Thomas |
-| 1218 | 12 | BigMike |
-| 1219 | 12 | Sarah Jones |
-| 1220 | 11 | Jayson |
-| 1221 | 11 | Groovy Climber |
-| 1222 | 11 | Layla Williams |
-| 1223 | 11 | Tamyka E Williams |
-| 1224 | 11 | pizzapie |
-| 1225 | 11 | KiJoCo |
-| 1226 | 11 | Fred Caston |
+| 1212 | 12 | Sarah Jones |
+| 1213 | 12 | BigDawg Lessley |
+| 1214 | 12 | Nicole Coko Thomas |
+| 1215 | 12 | Jason A Giantonio |
+| 1216 | 12 | Tempee |
+| 1217 | 12 | Silly Spinblock |
+| 1218 | 12 | Outspoken Sirchristopher |
+| 1219 | 12 | Geneva Carter |
+| 1220 | 12 | Mike Hromowyk |
+| 1221 | 11 | Fred Caston |
+| 1222 | 11 | Jayson |
+| 1223 | 11 | pizzapie |
+| 1224 | 11 | Layla Williams |
+| 1225 | 11 | Felicia Woods |
+| 1226 | 11 | Tamyka E Williams |
 | 1227 | 11 | Evelyn Epps |
-| 1228 | 11 | Felicia Woods |
-| 1229 | 10 | Upt |
-| 1230 | 10 | Alisha Dawson Crouch |
-| 1231 | 10 | Tynetta Scott |
-| 1232 | 10 | Crystal Segura |
-| 1233 | 10 | Omar Dotray |
-| 1234 | 10 | Steve Renelus |
-| 1235 | 10 | Manda Pecora |
-| 1236 | 10 | Terry Lee Moya |
-| 1237 | 10 | Semaj Johnson |
-| 1238 | 10 | Jimel Fraser |
-| 1239 | 10 | Quirky Slammer |
-| 1240 | 10 | Cool Rumbler |
-| 1241 | 10 | Jackee Chee-Ming |
-| 1242 | 10 | Tranica Sterling |
-| 1243 | 10 | Hasty Brickzone |
-| 1244 | 10 | Tea |
-| 1245 | 10 | Shawn Himes |
-| 1246 | 10 | Nope Young |
-| 1247 | 10 | Papi |
-| 1248 | 10 | Yvonne Aggers |
-| 1249 | 10 | OneBuke FollowMe |
-| 1250 | 10 | Damien Fonseca |
-| 1251 | 10 | Happymama |
-| 1252 | 10 | Ladii Libra |
-| 1253 | 10 | Leon Brown III |
-| 1254 | 10 | Kim Smith |
-| 1255 | 10 | Willard Junior |
-| 1256 | 10 | Blaze |
-| 1257 | 10 | Ciera Spottedelk |
-| 1258 | 9 | ummm |
-| 1259 | 9 | Duckey |
-| 1260 | 9 | meatballs |
-| 1261 | 9 | Brika Brika |
-| 1262 | 9 | Geneva Carter |
-| 1263 | 9 | Sunset Owens |
-| 1264 | 9 | Clifford Petroske |
-| 1265 | 9 | Shemeka Bates |
-| 1266 | 9 | Dana |
-| 1267 | 9 | Noni |
-| 1268 | 9 | Yester |
-| 1269 | 9 | Shaun Baker |
-| 1270 | 9 | Anthony T. Fults |
-| 1271 | 9 | Shell Poke |
-| 1272 | 9 | Mars |
-| 1273 | 9 | Frisky Linkblock |
-| 1274 | 9 | Beverly S. Robinson |
-| 1275 | 9 | Catelyn Neal |
+| 1228 | 11 | KiJoCo |
+| 1229 | 11 | Groovy Climber |
+| 1230 | 10 | Steve Renelus |
+| 1231 | 10 | Manda Pecora |
+| 1232 | 10 | Tynetta Scott |
+| 1233 | 10 | Quirky Slammer |
+| 1234 | 10 | Crystal Segura |
+| 1235 | 10 | Terry Lee Moya |
+| 1236 | 10 | Cool Rumbler |
+| 1237 | 10 | Jackee Chee-Ming |
+| 1238 | 10 | Upt |
+| 1239 | 10 | Semaj Johnson |
+| 1240 | 10 | Jimel Fraser |
+| 1241 | 10 | Alisha Dawson Crouch |
+| 1242 | 10 | Omar Dotray |
+| 1243 | 10 | Tranica Sterling |
+| 1244 | 10 | Blaze |
+| 1245 | 10 | Tea |
+| 1246 | 10 | Shawn Himes |
+| 1247 | 10 | Nope Young |
+| 1248 | 10 | Papi |
+| 1249 | 10 | Yvonne Aggers |
+| 1250 | 10 | OneBuke FollowMe |
+| 1251 | 10 | Damien Fonseca |
+| 1252 | 10 | Happymama |
+| 1253 | 10 | Ladii Libra |
+| 1254 | 10 | Hasty Brickzone |
+| 1255 | 10 | Leon Brown III |
+| 1256 | 10 | Kim Smith |
+| 1257 | 10 | Willard Junior |
+| 1258 | 10 | Ciera Spottedelk |
+| 1259 | 9 | Shaun Baker |
+| 1260 | 9 | Mars |
+| 1261 | 9 | Shemeka Bates |
+| 1262 | 9 | meatballs |
+| 1263 | 9 | Brika Brika |
+| 1264 | 9 | Sunset Owens |
+| 1265 | 9 | Duckey |
+| 1266 | 9 | Clifford Petroske |
+| 1267 | 9 | Dana |
+| 1268 | 9 | Noni |
+| 1269 | 9 | Yester |
+| 1270 | 9 | ummm |
+| 1271 | 9 | Anthony T. Fults |
+| 1272 | 9 | Shell Poke |
+| 1273 | 9 | Catelyn Neal |
+| 1274 | 9 | Frisky Linkblock |
+| 1275 | 9 | Beverly S. Robinson |
 | 1276 | 9 | John Lovato |
-| 1277 | 8 | Frothy Matchpiece |
+| 1277 | 8 | Sean Walker |
 | 1278 | 8 | Macho Lewis |
 | 1279 | 8 | Teena K Macon |
-| 1280 | 8 | Chantae Maxwell |
-| 1281 | 8 | Groovy Riseclear |
-| 1282 | 8 | Elizabeth Castro |
-| 1283 | 8 | Chill Tumbler |
-| 1284 | 8 | Sean Walker |
+| 1280 | 8 | Groovy Riseclear |
+| 1281 | 8 | Chantae Maxwell |
+| 1282 | 8 | Frothy Matchpiece |
+| 1283 | 8 | Elizabeth Castro |
+| 1284 | 8 | Chill Tumbler |
 | 1285 | 8 | Chevonne Huggins |
 | 1286 | 8 | Dana Hill |
 | 1287 | 8 | Rixo Blax |
