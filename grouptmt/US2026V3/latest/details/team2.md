@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 16:00:18 UTC
+# Standings for team2 as of 2026-06-07 16:00:38 UTC
 
 **Total Participants:** 1796
 
@@ -154,7 +154,7 @@
 | 146 | 477 | Amy Gale |
 | 147 | 474 | Steven Craig |
 | 148 | 474 | Bubbly Strikerpiece |
-| 149 | 472 | MarioKarasovic |
+| 149 | 473 | MarioKarasovic |
 | 150 | 466 | Judy Long |
 | 151 | 465 | Samantha Carman |
 | 152 | 462 | Cool Balancer |
@@ -537,37 +537,37 @@
 | 529 | 118 | Kimberly Brooks |
 | 530 | 118 | Madonna Ash |
 | 531 | 118 | Momof2wigglebutts |
-| 532 | 117 | Brenda Shannon |
-| 533 | 117 | Poppy Strikerbuilder |
-| 534 | 117 | CAL1KAWS559 |
-| 535 | 116 | Violet Olivares |
-| 536 | 116 | Sara Dunn |
-| 537 | 116 | Joshua Dye |
-| 538 | 116 | Mary Carriere |
-| 539 | 115 | Muffin Popper |
-| 540 | 115 | Nicole Good |
+| 532 | 117 | Michele Rogers |
+| 533 | 117 | Brenda Shannon |
+| 534 | 117 | Poppy Strikerbuilder |
+| 535 | 117 | CAL1KAWS559 |
+| 536 | 116 | Violet Olivares |
+| 537 | 116 | Sara Dunn |
+| 538 | 116 | Joshua Dye |
+| 539 | 116 | Mary Carriere |
+| 540 | 115 | Muffin Popper |
 | 541 | 115 | Leticia Tillman |
-| 542 | 114 | Melissa Abbott |
-| 543 | 113 | Michele Rogers |
+| 542 | 115 | Nicole Good |
+| 543 | 114 | Melissa Abbott |
 | 544 | 113 | Lively Twisterfit |
 | 545 | 113 | Lively Curve |
 | 546 | 112 | Cassandra Green |
 | 547 | 112 | LadyDeath |
-| 548 | 112 | Mike Mordhorst |
-| 549 | 112 | Rebekah Holland |
-| 550 | 112 | Josephina |
+| 548 | 112 | Rebekah Holland |
+| 549 | 112 | Josephina |
+| 550 | 112 | Mike Mordhorst |
 | 551 | 112 | Twisty Buildgrid |
 | 552 | 111 | Gina Leal |
 | 553 | 111 | Mama G |
 | 554 | 111 | Shiny Spinfit |
 | 555 | 110 | Rachel M. Farnsworth |
-| 556 | 109 | Jillian Marie |
-| 557 | 109 | Po Yee |
-| 558 | 108 | Renee Siems |
-| 559 | 108 | Goldie |
+| 556 | 109 | Po Yee |
+| 557 | 109 | Jillian Marie |
+| 558 | 108 | Gino Positano |
+| 559 | 108 | Maurii93 |
 | 560 | 108 | Terie Safrit |
-| 561 | 108 | Gino Positano |
-| 562 | 108 | Maurii93 |
+| 561 | 108 | Goldie |
+| 562 | 108 | Renee Siems |
 | 563 | 107 | Chesney |
 | 564 | 107 | Sam Brewster |
 | 565 | 107 | Stephanie Smith Robinson |
@@ -665,68 +665,68 @@
 | 657 | 89 | Patrick Woodard |
 | 658 | 89 | Tami Weiss |
 | 659 | 89 | Bouncy Cluster |
-| 660 | 88 | Newtwidebody |
+| 660 | 88 | Princess Cucumber |
 | 661 | 88 | Perky Linebuilder |
-| 662 | 88 | Amanda Bailey |
-| 663 | 88 | Missy Tubb Overly |
+| 662 | 88 | Quirky Gridclear |
+| 663 | 88 | Amanda Bailey |
 | 664 | 88 | Lisa Chapman |
-| 665 | 88 | Princess Cucumber |
-| 666 | 88 | Quirky Gridclear |
-| 667 | 87 | Julibeth Wells |
+| 665 | 88 | Missy Tubb Overly |
+| 666 | 88 | Newtwidebody |
+| 667 | 87 | Sarah Jane Gorsuch |
 | 668 | 87 | Sara Karels |
-| 669 | 87 | Sarah Jane Gorsuch |
-| 670 | 87 | Holly Barefoot |
-| 671 | 87 | Dhelsie Qurasima |
-| 672 | 87 | Tetrismastrr |
+| 669 | 87 | Holly Barefoot |
+| 670 | 87 | Dhelsie Qurasima |
+| 671 | 87 | Tetrismastrr |
+| 672 | 87 | Julibeth Wells |
 | 673 | 87 | Nikki Sadler |
-| 674 | 86 | Lazy Staggerpiece |
+| 674 | 86 | Samantha Brown |
 | 675 | 86 | Chirpy Clearpiece |
-| 676 | 86 | Samantha Brown |
-| 677 | 86 | bozzycat |
-| 678 | 86 | Spunky Linkblock |
-| 679 | 86 | Susie Conger |
+| 676 | 86 | Spunky Linkblock |
+| 677 | 86 | Susie Conger |
+| 678 | 86 | Lazy Staggerpiece |
+| 679 | 86 | bozzycat |
 | 680 | 86 | Brandy McCleary |
-| 681 | 85 | James Moore |
-| 682 | 85 | Nerdy Linebuilder |
-| 683 | 85 | Frisky Linkbuilder |
-| 684 | 85 | Seamus |
-| 685 | 85 | Ginger Nesbitt |
-| 686 | 85 | Tonya Marino |
-| 687 | 85 | Daisy Girl |
-| 688 | 85 | Heather |
-| 689 | 84 | Coleen Yoder |
-| 690 | 84 | Joshua Hopkins |
+| 681 | 85 | Nerdy Linebuilder |
+| 682 | 85 | Ginger Nesbitt |
+| 683 | 85 | Val |
+| 684 | 85 | Frisky Linkbuilder |
+| 685 | 85 | Daisy Girl |
+| 686 | 85 | James Moore |
+| 687 | 85 | Heather |
+| 688 | 85 | Tonya Marino |
+| 689 | 85 | Seamus |
+| 690 | 84 | Coleen Yoder |
 | 691 | 84 | Stoney McMillion |
-| 692 | 84 | Amber Marie |
-| 693 | 83 | CATFISH |
+| 692 | 84 | Joshua Hopkins |
+| 693 | 84 | Amber Marie |
 | 694 | 83 | Billy Pittman |
 | 695 | 83 | Morgan Olson Pingree |
-| 696 | 83 | Becky Kennon |
-| 697 | 83 | Dawnypooh |
-| 698 | 83 | Louis Brudzinski |
-| 699 | 83 | Jazzy Snapfit |
-| 700 | 82 | Mikaela Byrd |
+| 696 | 83 | Dawnypooh |
+| 697 | 83 | Jazzy Snapfit |
+| 698 | 83 | CATFISH |
+| 699 | 83 | Becky Kennon |
+| 700 | 83 | Louis Brudzinski |
 | 701 | 82 | Nutty Fitzone |
 | 702 | 82 | Connie Marie Cornell Lerma |
-| 703 | 81 | Evelyn Olive Kalmbach |
-| 704 | 81 | Zesty Zoney |
-| 705 | 81 | Mee Maw |
+| 703 | 82 | Mikaela Byrd |
+| 704 | 81 | Erin Lemanski |
+| 705 | 81 | YldBoar |
 | 706 | 81 | Robin Stutler |
-| 707 | 81 | YldBoar |
-| 708 | 81 | Erin Lemanski |
-| 709 | 81 | Chris Delauro |
-| 710 | 81 | Quina Jesse Fejaran |
-| 711 | 81 | Squared |
-| 712 | 81 | Heather Hi |
-| 713 | 81 | Paula |
-| 714 | 80 | Patty Sparkman |
-| 715 | 80 | Cody Gates |
-| 716 | 80 | Ramona Guillermo |
-| 717 | 80 | Jennifer Robinson |
-| 718 | 80 | Val |
+| 707 | 81 | Chris Delauro |
+| 708 | 81 | Quina Jesse Fejaran |
+| 709 | 81 | Mee Maw |
+| 710 | 81 | Squared |
+| 711 | 81 | Heather Hi |
+| 712 | 81 | Zesty Zoney |
+| 713 | 81 | Evelyn Olive Kalmbach |
+| 714 | 81 | Paula |
+| 715 | 80 | Patty Sparkman |
+| 716 | 80 | Cody Gates |
+| 717 | 80 | Ramona Guillermo |
+| 718 | 80 | Jennifer Robinson |
 | 719 | 80 | Charith Lorelle Watson |
-| 720 | 80 | Dayna Messer-Thelen |
-| 721 | 80 | Michelle Anne |
+| 720 | 80 | Michelle Anne |
+| 721 | 80 | Dayna Messer-Thelen |
 | 722 | 80 | Cory Lynn |
 | 723 | 80 | Nicole Hogue |
 | 724 | 80 | Tami Leontyuk |
