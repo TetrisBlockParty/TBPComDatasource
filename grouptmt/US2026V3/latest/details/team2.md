@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 10:25:18 UTC
+# Standings for team2 as of 2026-06-07 10:26:18 UTC
 
 **Total Participants:** 1697
 
@@ -162,9 +162,9 @@
 | 154 | 384 | Lisa Underwood Desmond |
 | 155 | 381 | Joslyn Johnson |
 | 156 | 380 | Zany Blockclear |
-| 157 | 375 | Milad Arzani |
-| 158 | 375 | MaddieCherie |
-| 159 | 367 | Nutty Curver |
+| 157 | 376 | Nutty Curver |
+| 158 | 375 | Milad Arzani |
+| 159 | 375 | MaddieCherie |
 | 160 | 365 | Branden Frankowski |
 | 161 | 360 | Jacob Carpenter |
 | 162 | 359 | Sarah Mccolgan |
@@ -182,12 +182,12 @@
 | 174 | 339 | Loopy Curvebuilder |
 | 175 | 336 | Jef Wassom |
 | 176 | 333 | Christina Maria |
-| 177 | 328 | Keri Mears |
-| 178 | 328 | Tim Tim |
-| 179 | 325 | Flashy Twistline |
-| 180 | 325 | Fudgie Pie |
-| 181 | 323 | Shannon Wilson |
-| 182 | 322 | Nikki Hayes |
+| 177 | 332 | Nikki Hayes |
+| 178 | 328 | Keri Mears |
+| 179 | 328 | Tim Tim |
+| 180 | 325 | Flashy Twistline |
+| 181 | 325 | Fudgie Pie |
+| 182 | 323 | Shannon Wilson |
 | 183 | 319 | Flower_child |
 | 184 | 314 | Danielle Blount |
 | 185 | 314 | DayDreamer79 |
