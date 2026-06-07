@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 01:08:18 UTC
+# Standings for team2 as of 2026-06-07 01:08:40 UTC
 
 **Total Participants:** 1491
 
@@ -354,36 +354,36 @@
 | 346 | 127 | Tammy Roth |
 | 347 | 125 | Gwendolyn Boykin Mobbs |
 | 348 | 125 | Ariel Gundersen |
-| 349 | 124 | Jason Burris |
-| 350 | 124 | Tina |
-| 351 | 124 | Angeleye A James |
-| 352 | 123 | Jamie Adams |
-| 353 | 123 | Tango Sierra |
-| 354 | 123 | Sassy Twistbuilder |
+| 349 | 124 | Tina |
+| 350 | 124 | Angeleye A James |
+| 351 | 124 | Jason Burris |
+| 352 | 123 | Tango Sierra |
+| 353 | 123 | Sassy Twistbuilder |
+| 354 | 123 | Jamie Adams |
 | 355 | 122 | KazzyKay |
-| 356 | 121 | Lisa Allen Frisk |
-| 357 | 121 | Anthony Swift |
-| 358 | 121 | Aldotfus Williams |
-| 359 | 121 | Cristi Doris |
-| 360 | 120 | Tony Medina |
-| 361 | 120 | Jessica Connot |
-| 362 | 120 | Carlos J Blas |
+| 356 | 121 | Aldotfus Williams |
+| 357 | 121 | Cristi Doris |
+| 358 | 121 | Anthony Swift |
+| 359 | 121 | Lisa Allen Frisk |
+| 360 | 120 | Aurora June Brock |
+| 361 | 120 | Kevin Mccoy |
+| 362 | 120 | Keisha Robinson |
 | 363 | 120 | Simone F |
-| 364 | 120 | Kevin Mccoy |
-| 365 | 120 | Keisha Robinson |
-| 366 | 118 | Cindy Scott |
-| 367 | 118 | rebel4lyfe |
+| 364 | 120 | Carlos J Blas |
+| 365 | 120 | Jessica Connot |
+| 366 | 120 | Tony Medina |
+| 367 | 118 | Cindy Scott |
 | 368 | 118 | Ceci |
-| 369 | 117 | Wayne Johnson |
-| 370 | 117 | Jumpy Matchbuilder |
-| 371 | 117 | Poppy Strikerbuilder |
-| 372 | 116 | Joshua Dye |
-| 373 | 116 | Sherri E Woods Hess |
-| 374 | 115 | MegaPooh |
-| 375 | 114 | Jacquelyn Snyder Dumas |
-| 376 | 113 | Meagan Grimmett Washburn |
-| 377 | 113 | Flashy Hitter |
-| 378 | 112 | Aurora June Brock |
+| 369 | 118 | rebel4lyfe |
+| 370 | 117 | Wayne Johnson |
+| 371 | 117 | Jumpy Matchbuilder |
+| 372 | 117 | Poppy Strikerbuilder |
+| 373 | 116 | Joshua Dye |
+| 374 | 116 | Sherri E Woods Hess |
+| 375 | 115 | MegaPooh |
+| 376 | 114 | Jacquelyn Snyder Dumas |
+| 377 | 113 | Meagan Grimmett Washburn |
+| 378 | 113 | Flashy Hitter |
 | 379 | 112 | Mike Mordhorst |
 | 380 | 111 | Wacky Holder |
 | 381 | 111 | Nikki Hatch |
