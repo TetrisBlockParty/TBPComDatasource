@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 22:32:41 UTC
+# Standings for team1 as of 2026-06-07 22:33:18 UTC
 
 **Total Participants:** 1598
 
@@ -713,22 +713,22 @@
 | 705 | 80 | SherylU |
 | 706 | 80 | Amaadi Ward |
 | 707 | 80 | PSD |
-| 708 | 80 | Victoria Smith |
-| 709 | 80 | Lisa420 |
-| 710 | 80 | Chevalier Burley |
-| 711 | 80 | Kamilya Rembert |
-| 712 | 80 | Lady Scorpio |
-| 713 | 80 | Keith Big-Sixx Mackell |
-| 714 | 80 | StingerD |
-| 715 | 80 | Latore Maxie |
-| 716 | 79 | Christy Quick |
+| 708 | 80 | Danny M GR |
+| 709 | 80 | Victoria Smith |
+| 710 | 80 | Lisa420 |
+| 711 | 80 | Chevalier Burley |
+| 712 | 80 | Kamilya Rembert |
+| 713 | 80 | Lady Scorpio |
+| 714 | 80 | Keith Big-Sixx Mackell |
+| 715 | 80 | StingerD |
+| 716 | 80 | Latore Maxie |
 | 717 | 79 | Haakuu |
-| 718 | 79 | Danny M GR |
+| 718 | 79 | Christy Quick |
 | 719 | 79 | Felicia Woods |
 | 720 | 79 | Evette Moreno |
 | 721 | 79 | Montréal Mars |
-| 722 | 78 | Callie Mae |
-| 723 | 78 | Krystal Maynard |
+| 722 | 78 | Krystal Maynard |
+| 723 | 78 | Callie Mae |
 | 724 | 78 | Dirty Deeds |
 | 725 | 78 | Solomon Valarie |
 | 726 | 78 | Kahh |
