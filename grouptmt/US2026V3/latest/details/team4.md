@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 05:14:39 UTC
+# Standings for team4 as of 2026-06-07 05:15:18 UTC
 
 **Total Participants:** 1357
 
@@ -218,13 +218,13 @@
 | 210 | 187 | Leslie Ann Carter |
 | 211 | 186 | Kimyatta Cavin |
 | 212 | 185 | Dae Von |
-| 213 | 185 | PerfectPieces |
-| 214 | 183 | Brandy Lynn |
-| 215 | 183 | Tara Delay Hill |
-| 216 | 182 | Jeremy |
-| 217 | 181 | EL Booger |
-| 218 | 181 | Alyson M Kehler |
-| 219 | 180 | Britney Kitora |
+| 213 | 185 | Britney Kitora |
+| 214 | 185 | PerfectPieces |
+| 215 | 183 | Brandy Lynn |
+| 216 | 183 | Tara Delay Hill |
+| 217 | 182 | Jeremy |
+| 218 | 181 | EL Booger |
+| 219 | 181 | Alyson M Kehler |
 | 220 | 180 | ariel |
 | 221 | 179 | LaTanya GeminiondaRise Johnson |
 | 222 | 178 | Tamara Triplet |
