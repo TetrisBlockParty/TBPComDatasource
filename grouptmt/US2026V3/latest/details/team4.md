@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 14:16:18 UTC
+# Standings for team4 as of 2026-06-07 14:16:41 UTC
 
 **Total Participants:** 1483
 
@@ -16,7 +16,7 @@
 | 8 | 5469 | Kait Confetti |
 | 9 | 5300 | Candice Driver |
 | 10 | 5102 | Jerald Jones |
-| 11 | 4901 | delilahbelle |
+| 11 | 4921 | delilahbelle |
 | 12 | 4772 | Anna Moses |
 | 13 | 4633 | Bubbly Twistpiece |
 | 14 | 4323 | Nia Mayfield |
@@ -120,8 +120,8 @@
 | 112 | 511 | Nikki Fuller Johnson |
 | 113 | 510 | Krysten Danielle Richard |
 | 114 | 503 | CJ |
-| 115 | 483 | Katie Lynn Petit |
-| 116 | 478 | vag1974 |
+| 115 | 495 | vag1974 |
+| 116 | 483 | Katie Lynn Petit |
 | 117 | 477 | Malik Thompson |
 | 118 | 474 | Melissa WC |
 | 119 | 469 | Gigglycat |
@@ -399,10 +399,10 @@
 | 391 | 121 | Jeff Margolis |
 | 392 | 120 | Holly Wessel |
 | 393 | 120 | Saucy Wipepiece |
-| 394 | 120 | Natalie Dillard |
-| 395 | 120 | Goofy Linkmatch |
-| 396 | 120 | Ada Rodriguez Spradley |
-| 397 | 120 | 1694AF |
+| 394 | 120 | 1694AF |
+| 395 | 120 | Ada Rodriguez Spradley |
+| 396 | 120 | Natalie Dillard |
+| 397 | 120 | Goofy Linkmatch |
 | 398 | 120 | Lul Babie |
 | 399 | 120 | Joab Gonzalez |
 | 400 | 120 | Carla Woodard |
@@ -424,13 +424,13 @@
 | 416 | 116 | Stef |
 | 417 | 115 | Nicole Colby McCloskey |
 | 418 | 115 | HurkleDurkle88 |
-| 419 | 114 | Shawna Downey |
-| 420 | 114 | Ashley Eskridge |
-| 421 | 114 | Suzanne North |
-| 422 | 113 | BookwormCate |
-| 423 | 113 | Brandon Bedenbaugh |
+| 419 | 114 | BookwormCate |
+| 420 | 114 | Suzanne North |
+| 421 | 114 | Ashley Eskridge |
+| 422 | 114 | Shawna Downey |
+| 423 | 113 | Tarsha Thomas-Martinez |
 | 424 | 113 | TheazO |
-| 425 | 113 | Tarsha Thomas-Martinez |
+| 425 | 113 | Brandon Bedenbaugh |
 | 426 | 113 | George Palacios |
 | 427 | 113 | Melissa Anne |
 | 428 | 112 | Loopy Hitter |
@@ -451,8 +451,8 @@
 | 443 | 108 | Kaps |
 | 444 | 107 | Kay |
 | 445 | 107 | Drh4090 |
-| 446 | 107 | Jace McCullough |
-| 447 | 107 | Bonique Bier |
+| 446 | 107 | Bonique Bier |
+| 447 | 107 | Jace McCullough |
 | 448 | 107 | Ash Gribble |
 | 449 | 106 | Jessica Jones Bolton |
 | 450 | 106 | Corey Jackson |
