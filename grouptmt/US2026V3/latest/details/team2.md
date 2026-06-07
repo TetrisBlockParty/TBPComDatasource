@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:16:43 UTC
+# Standings for team2 as of 2026-06-07 09:17:18 UTC
 
 **Total Participants:** 1688
 
@@ -20,7 +20,7 @@
 | 12 | 5704 | Cori Keberlein |
 | 13 | 4945 | Dapper Rollout |
 | 14 | 4800 | Crafty Ziggy |
-| 15 | 4666 | Lola C Davis |
+| 15 | 4668 | Lola C Davis |
 | 16 | 4355 | Alexia Reagan |
 | 17 | 3997 | Ber |
 | 18 | 3984 | Amber |
@@ -1168,15 +1168,15 @@
 | 1160 | 30 | Megan |
 | 1161 | 30 | Dottie Leavy Van Deventer |
 | 1162 | 30 | Dustyn Sims |
-| 1163 | 30 | Linda Jeanne Knop |
-| 1164 | 30 | Amanda Mason Scott |
+| 1163 | 30 | Amanda Mason Scott |
+| 1164 | 30 | Linda Jeanne Knop |
 | 1165 | 30 | Snappy Fitblock |
 | 1166 | 30 | Heather Schardan |
-| 1167 | 30 | Bridgett Smith |
-| 1168 | 30 | Dee |
-| 1169 | 30 | Cool Balancer |
-| 1170 | 30 | Carol Whited Loza |
-| 1171 | 30 | Brave Blockmatch |
+| 1167 | 30 | Brave Blockmatch |
+| 1168 | 30 | Bridgett Smith |
+| 1169 | 30 | Dee |
+| 1170 | 30 | Cool Balancer |
+| 1171 | 30 | Carol Whited Loza |
 | 1172 | 30 | bigdog |
 | 1173 | 30 | JEEPER |
 | 1174 | 30 | SarahandAaron Prim |
@@ -1185,89 +1185,89 @@
 | 1177 | 30 | David Cadiente |
 | 1178 | 30 | ktabzz |
 | 1179 | 29 | Amy Chauvin |
-| 1180 | 29 | Michii |
-| 1181 | 29 | Travis Bundrum |
+| 1180 | 29 | Travis Bundrum |
+| 1181 | 29 | Michii |
 | 1182 | 29 | Michele Stewart |
-| 1183 | 29 | Erin Marie Smith |
-| 1184 | 29 | Renee Craig |
+| 1183 | 29 | Renee Craig |
+| 1184 | 29 | Erin Marie Smith |
 | 1185 | 29 | Daring Pivotfall |
-| 1186 | 29 | Danita Moon |
-| 1187 | 29 | Jill Bobst Marple |
+| 1186 | 29 | Jill Bobst Marple |
+| 1187 | 29 | Danita Moon |
 | 1188 | 29 | Betty Muise |
 | 1189 | 29 | Alessandria Anderson |
 | 1190 | 29 | T-Rex Ricky Lee Dieumegarde Jr. |
-| 1191 | 29 | Makayla Grubbs |
-| 1192 | 29 | Brandy Westfall-panchari |
-| 1193 | 29 | Amanda Jungclaus |
-| 1194 | 29 | Jessica Gayle Sears |
-| 1195 | 29 | Kylee Pruitt |
-| 1196 | 29 | Staci Carl |
-| 1197 | 28 | Snippy Brickzone |
-| 1198 | 28 | AmyShea |
-| 1199 | 28 | Courtney Freeman |
-| 1200 | 28 | Glitzy Stack |
-| 1201 | 28 | Pjrobinsonnn |
-| 1202 | 28 | LK |
-| 1203 | 28 | Dana Vaiden Rivers |
-| 1204 | 28 | Chirpy Tower |
-| 1205 | 28 | Mark Havens |
-| 1206 | 28 | Stacey Peters |
-| 1207 | 27 | Kim |
-| 1208 | 27 | Natasha Schatte |
+| 1191 | 29 | Brandy Westfall-panchari |
+| 1192 | 29 | Staci Carl |
+| 1193 | 29 | Kylee Pruitt |
+| 1194 | 29 | Louise LeBlanc |
+| 1195 | 29 | Jessica Gayle Sears |
+| 1196 | 29 | Amanda Jungclaus |
+| 1197 | 29 | Makayla Grubbs |
+| 1198 | 28 | Mark Havens |
+| 1199 | 28 | AmyShea |
+| 1200 | 28 | Courtney Freeman |
+| 1201 | 28 | Dana Vaiden Rivers |
+| 1202 | 28 | Glitzy Stack |
+| 1203 | 28 | LK |
+| 1204 | 28 | Pjrobinsonnn |
+| 1205 | 28 | Stacey Peters |
+| 1206 | 28 | Snippy Brickzone |
+| 1207 | 28 | Chirpy Tower |
+| 1208 | 27 | Kim |
 | 1209 | 27 | Beth |
-| 1210 | 27 | Dreamy Linkblock |
-| 1211 | 27 | Darla |
-| 1212 | 27 | Tam |
-| 1213 | 27 | Brian Karr |
-| 1214 | 27 | Angie Barlow |
-| 1215 | 27 | juhde |
-| 1216 | 27 | Stacey Ann Kelley |
-| 1217 | 27 | CowboyChalie |
-| 1218 | 27 | sampson |
-| 1219 | 26 | Just Me |
-| 1220 | 26 | Cathy Clark |
-| 1221 | 26 | Peppy Piececlear |
+| 1210 | 27 | Natasha Schatte |
+| 1211 | 27 | Dreamy Linkblock |
+| 1212 | 27 | Darla |
+| 1213 | 27 | Tam |
+| 1214 | 27 | Brian Karr |
+| 1215 | 27 | Angie Barlow |
+| 1216 | 27 | juhde |
+| 1217 | 27 | Stacey Ann Kelley |
+| 1218 | 27 | CowboyChalie |
+| 1219 | 27 | sampson |
+| 1220 | 26 | Just Me |
+| 1221 | 26 | Countrybling77 |
 | 1222 | 26 | Quirky Climber |
-| 1223 | 26 | Countrybling77 |
+| 1223 | 26 | Cathy Clark |
 | 1224 | 26 | David Starmer |
-| 1225 | 26 | Danibellee |
-| 1226 | 26 | Louise LeBlanc |
-| 1227 | 26 | nova |
-| 1228 | 26 | Darlene Russell |
-| 1229 | 26 | Daniel Cline |
-| 1230 | 26 | Goob277 |
-| 1231 | 26 | Yany |
-| 1232 | 26 | Jackelyn Ford |
-| 1233 | 25 | Crafty Slice |
-| 1234 | 25 | Quirky Piecegrid |
-| 1235 | 25 | Shalice Jacobs |
-| 1236 | 25 | Paula Stell |
-| 1237 | 25 | John Rosales |
-| 1238 | 25 | B.A. Watt |
-| 1239 | 25 | Michelle Edgin Tranbarger |
+| 1225 | 26 | nova |
+| 1226 | 26 | Darlene Russell |
+| 1227 | 26 | Peppy Piececlear |
+| 1228 | 26 | Jackelyn Ford |
+| 1229 | 26 | Yany |
+| 1230 | 26 | Danibellee |
+| 1231 | 26 | Goob277 |
+| 1232 | 26 | Daniel Cline |
+| 1233 | 25 | John Rosales |
+| 1234 | 25 | Daring Spinzone |
+| 1235 | 25 | Michelle Edgin Tranbarger |
+| 1236 | 25 | Quirky Piecegrid |
+| 1237 | 25 | Shalice Jacobs |
+| 1238 | 25 | Paula Stell |
+| 1239 | 25 | B.A. Watt |
 | 1240 | 25 | Poppy Zonepiece |
-| 1241 | 25 | Dandy Wiper |
+| 1241 | 25 | Wildcat1220 |
 | 1242 | 25 | Debra May |
-| 1243 | 25 | Wildcat1220 |
-| 1244 | 25 | Dapper Spinbuilder |
-| 1245 | 25 | Daring Spinzone |
-| 1246 | 25 | Maureen Bryan Adams |
-| 1247 | 25 | Wendy Michelle Wise-Ledford |
+| 1243 | 25 | Dapper Spinbuilder |
+| 1244 | 25 | Dandy Wiper |
+| 1245 | 25 | Wendy Michelle Wise-Ledford |
+| 1246 | 25 | Crafty Slice |
+| 1247 | 25 | Maureen Bryan Adams |
 | 1248 | 25 | Cindy Smith |
 | 1249 | 25 | Fran Gerebics |
-| 1250 | 24 | Elodie Deveyer |
-| 1251 | 24 | Jess |
-| 1252 | 24 | Erica |
-| 1253 | 24 | Lively Shatter |
-| 1254 | 24 | Paula Smith |
-| 1255 | 24 | Kathryn Mason |
-| 1256 | 24 | Angelique Matzke Starns |
-| 1257 | 24 | Lavenda Nettles |
-| 1258 | 24 | Kacey Lindemuth |
+| 1250 | 24 | Erica |
+| 1251 | 24 | Ashley Corbett |
+| 1252 | 24 | April Wright |
+| 1253 | 24 | Elodie Deveyer |
+| 1254 | 24 | Jess |
+| 1255 | 24 | Lively Shatter |
+| 1256 | 24 | Danielle Etchison Mask |
+| 1257 | 24 | Paula Smith |
+| 1258 | 24 | Kathryn Mason |
 | 1259 | 24 | Nicole |
-| 1260 | 24 | Danielle Etchison Mask |
-| 1261 | 24 | April Wright |
-| 1262 | 24 | Ashley Corbett |
+| 1260 | 24 | Kacey Lindemuth |
+| 1261 | 24 | Angelique Matzke Starns |
+| 1262 | 24 | Lavenda Nettles |
 | 1263 | 24 | Nicole Good |
 | 1264 | 24 | Rachel Nunn |
 | 1265 | 24 | Cheryl Graves Downard |
