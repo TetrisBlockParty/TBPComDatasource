@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 09:22:39 UTC
+# Standings for team4 as of 2026-06-07 09:23:19 UTC
 
 **Total Participants:** 1428
 
@@ -369,23 +369,23 @@
 | 361 | 119 | aga |
 | 362 | 118 | Miwa |
 | 363 | 118 | farfromlocal |
-| 364 | 118 | Goofy Fall |
-| 365 | 117 | Fancy Tilefall |
+| 364 | 118 | Funky Tiler |
+| 365 | 118 | Goofy Fall |
 | 366 | 117 | Tyson Stroppel |
-| 367 | 116 | Toon Up |
-| 368 | 116 | Stef |
+| 367 | 117 | Fancy Tilefall |
+| 368 | 116 | Toon Up |
 | 369 | 116 | Henry Lanier |
 | 370 | 116 | Solace Grace |
-| 371 | 116 | Samantha Worley |
-| 372 | 116 | Aaron Turner |
-| 373 | 115 | Funky Tiler |
-| 374 | 114 | Shawna Downey |
-| 375 | 114 | yourmomz |
-| 376 | 114 | Ashley Eskridge |
-| 377 | 113 | Melissa Anne |
-| 378 | 113 | George Palacios |
-| 379 | 113 | TheazO |
-| 380 | 113 | Tarsha Thomas-Martinez |
+| 371 | 116 | Stef |
+| 372 | 116 | Samantha Worley |
+| 373 | 116 | Aaron Turner |
+| 374 | 114 | Ashley Eskridge |
+| 375 | 114 | Shawna Downey |
+| 376 | 114 | yourmomz |
+| 377 | 113 | Tarsha Thomas-Martinez |
+| 378 | 113 | TheazO |
+| 379 | 113 | Melissa Anne |
+| 380 | 113 | George Palacios |
 | 381 | 112 | Keith Kosmicki |
 | 382 | 111 | Marcus Chavis |
 | 383 | 111 | Holly Bramel |
@@ -725,20 +725,20 @@
 | 717 | 56 | Vicente Bolaños Jr. |
 | 718 | 56 | Natalie Ohrtman Strand |
 | 719 | 56 | Blessedmom865 |
-| 720 | 56 | JuicyJay |
-| 721 | 56 | LaRue Tee |
-| 722 | 56 | Lashae |
-| 723 | 55 | Bee |
-| 724 | 55 | Krissy Smith |
-| 725 | 55 | Julian Gasque |
-| 726 | 55 | Janna Thompson |
-| 727 | 55 | bofe |
-| 728 | 55 | The Jazziest |
-| 729 | 55 | pussface |
-| 730 | 55 | Donny Keets |
-| 731 | 55 | Erika Rubio |
-| 732 | 55 | Melissa Wilson |
-| 733 | 54 | Pap337 |
+| 720 | 56 | Pap337 |
+| 721 | 56 | JuicyJay |
+| 722 | 56 | LaRue Tee |
+| 723 | 56 | Lashae |
+| 724 | 55 | Bee |
+| 725 | 55 | Krissy Smith |
+| 726 | 55 | Julian Gasque |
+| 727 | 55 | Janna Thompson |
+| 728 | 55 | bofe |
+| 729 | 55 | The Jazziest |
+| 730 | 55 | pussface |
+| 731 | 55 | Donny Keets |
+| 732 | 55 | Erika Rubio |
+| 733 | 55 | Melissa Wilson |
 | 734 | 54 | Lilo |
 | 735 | 54 | Scott Baum |
 | 736 | 54 | Lisa Ferriero-Daudin |
