@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 14:44:18 UTC
+# Standings for team2 as of 2026-06-07 14:44:43 UTC
 
 **Total Participants:** 1775
 
@@ -137,11 +137,11 @@
 | 129 | 549 | Kathleen Dumbazz |
 | 130 | 541 | Ricardo Ewart |
 | 131 | 535 | Jgato |
-| 132 | 533 | Jef Wassom |
-| 133 | 531 | Amanda Sikes |
-| 134 | 530 | Amber Miller Wirick |
-| 135 | 530 | Gloria May Shook |
-| 136 | 529 | Zappy Pattern |
+| 132 | 534 | Zappy Pattern |
+| 133 | 533 | Jef Wassom |
+| 134 | 531 | Amanda Sikes |
+| 135 | 530 | Amber Miller Wirick |
+| 136 | 530 | Gloria May Shook |
 | 137 | 515 | Loony Faller |
 | 138 | 512 | Jackie Tupper |
 | 139 | 500 | Suki Kaur |
@@ -250,33 +250,33 @@
 | 242 | 259 | Angie Kowalsky Olson |
 | 243 | 256 | Tami Kay Williams Watson |
 | 244 | 253 | Kim Hunt |
-| 245 | 253 | Hilliary Beyer |
-| 246 | 253 | Marge Cromer |
+| 245 | 253 | Marge Cromer |
+| 246 | 253 | Hilliary Beyer |
 | 247 | 252 | Kathy Strickland |
-| 248 | 250 | Iesha Cupil |
-| 249 | 250 | marsam |
-| 250 | 250 | Ray Daisy |
-| 251 | 250 | Happy Drop |
+| 248 | 250 | marsam |
+| 249 | 250 | Ray Daisy |
+| 250 | 250 | Happy Drop |
+| 251 | 250 | Iesha Cupil |
 | 252 | 249 | Elizabeth Henry |
-| 253 | 247 | Stephanie |
-| 254 | 247 | Amie Marks |
+| 253 | 247 | Amie Marks |
+| 254 | 247 | Stephanie |
 | 255 | 246 | Brooke Lynn Marie Adelaide |
 | 256 | 245 | Danielle Pack Lewellen |
-| 257 | 245 | Angel Welch |
-| 258 | 241 | Boldy Wobbler |
-| 259 | 240 | PaiBri |
-| 260 | 239 | Jeffrey Smith |
-| 261 | 239 | Norma Ortiz |
-| 262 | 238 | Jenny |
-| 263 | 236 | Lush Party |
-| 264 | 234 | Larry Cross |
-| 265 | 234 | AndyJo |
-| 266 | 234 | Nicole Plummer |
-| 267 | 233 | Jeanna Mendez |
-| 268 | 231 | Lindsey Ford |
-| 269 | 231 | Laverne Ellis Blair |
-| 270 | 231 | Karly Moore |
-| 271 | 230 | Thomas Tyrone |
+| 257 | 245 | Thomas Tyrone |
+| 258 | 245 | Angel Welch |
+| 259 | 241 | Boldy Wobbler |
+| 260 | 240 | PaiBri |
+| 261 | 239 | Jeffrey Smith |
+| 262 | 239 | Norma Ortiz |
+| 263 | 238 | Jenny |
+| 264 | 236 | Lush Party |
+| 265 | 234 | Larry Cross |
+| 266 | 234 | AndyJo |
+| 267 | 234 | Nicole Plummer |
+| 268 | 233 | Jeanna Mendez |
+| 269 | 231 | Lindsey Ford |
+| 270 | 231 | Laverne Ellis Blair |
+| 271 | 231 | Karly Moore |
 | 272 | 230 | Brandy Chinelle |
 | 273 | 230 | Kelly Vedder |
 | 274 | 229 | Ariel Gundersen |
@@ -354,36 +354,36 @@
 | 346 | 180 | Skye Ehret |
 | 347 | 180 | Happy |
 | 348 | 178 | Martha Lynn Wiggins |
-| 349 | 177 | Zany Wrecker |
+| 349 | 178 | Zany Wrecker |
 | 350 | 177 | Jennifer McClure |
 | 351 | 177 | Rick |
 | 352 | 176 | Reign Hustler |
-| 353 | 175 | Michelle M Braley |
-| 354 | 175 | Tina Marie |
-| 355 | 175 | Lashanda Bertram |
+| 353 | 175 | Tina Marie |
+| 354 | 175 | Lashanda Bertram |
+| 355 | 175 | Michelle M Braley |
 | 356 | 175 | Amanda Bottorff |
 | 357 | 175 | Epic Tilemaker |
-| 358 | 174 | ZBee |
-| 359 | 174 | Jerry L Morales |
+| 358 | 174 | Jerry L Morales |
+| 359 | 174 | ZBee |
 | 360 | 174 | Rocroc mo |
 | 361 | 172 | Carolyn McNaughton |
 | 362 | 172 | Mikia Stokes |
-| 363 | 170 | Sharon L Brazelton |
-| 364 | 170 | Bengy Lead |
+| 363 | 170 | Bengy Lead |
+| 364 | 170 | Sharon L Brazelton |
 | 365 | 169 | Angie Bishop |
 | 366 | 169 | Derrick |
 | 367 | 169 | Jaimie Walters |
-| 368 | 168 | Gwendolyn Boykin Mobbs |
-| 369 | 168 | Missy Renia |
-| 370 | 168 | Danielle Lyons |
+| 368 | 168 | Danielle Lyons |
+| 369 | 168 | Gwendolyn Boykin Mobbs |
+| 370 | 168 | Missy Renia |
 | 371 | 167 | Spicy Snapclear |
 | 372 | 167 | Chummy Faller |
-| 373 | 166 | Katie Jones |
-| 374 | 166 | Melmel |
+| 373 | 166 | Melmel |
+| 374 | 166 | Katie Jones |
 | 375 | 165 | Sandy Justus |
 | 376 | 164 | Sillyk |
-| 377 | 164 | Elliott Mikila |
-| 378 | 164 | Loopy Tower |
+| 377 | 164 | Loopy Tower |
+| 378 | 164 | Elliott Mikila |
 | 379 | 164 | Cara Rivera |
 | 380 | 164 | Aldotfus Williams |
 | 381 | 163 | Joannah Capilitan |
@@ -557,11 +557,11 @@
 | 549 | 106 | Andrea Rawson |
 | 550 | 106 | Mary Whitaker |
 | 551 | 106 | Nicole Ashbaugh |
-| 552 | 106 | Cassandra Milner |
-| 553 | 106 | Twisty Buildgrid |
-| 554 | 105 | Gabrielle Rivera |
-| 555 | 105 | Courtney Madison Hart |
-| 556 | 105 | Kelly |
+| 552 | 106 | Kelly |
+| 553 | 106 | Cassandra Milner |
+| 554 | 106 | Twisty Buildgrid |
+| 555 | 105 | Gabrielle Rivera |
+| 556 | 105 | Courtney Madison Hart |
 | 557 | 105 | Leigh Wilkerson |
 | 558 | 105 | Trisha Schneider |
 | 559 | 105 | Michael Saunders |

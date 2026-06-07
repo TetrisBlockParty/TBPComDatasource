@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 14:44:18 UTC
+# Standings for team1 as of 2026-06-07 14:44:43 UTC
 
 **Total Participants:** 1480
 
@@ -178,17 +178,17 @@
 | 170 | 307 | Therealdywoune Peay |
 | 171 | 306 | Devin West |
 | 172 | 305 | Tishauna Virgo |
-| 173 | 303 | Roberta Lynn |
-| 174 | 300 | David Fuentes |
-| 175 | 300 | Atlantalindi |
-| 176 | 299 | IThinkNot |
-| 177 | 298 | Leebo Slice |
-| 178 | 297 | Ebony |
-| 179 | 296 | Calvin Green |
+| 173 | 303 | Tamara N Lee |
+| 174 | 303 | Roberta Lynn |
+| 175 | 300 | David Fuentes |
+| 176 | 300 | Atlantalindi |
+| 177 | 299 | IThinkNot |
+| 178 | 298 | Leebo Slice |
+| 179 | 297 | Ebony |
 | 180 | 296 | NastyFriend |
 | 181 | 296 | Nikki Hogan |
 | 182 | 296 | Latisha Fairley |
-| 183 | 296 | Tamara N Lee |
+| 183 | 296 | Calvin Green |
 | 184 | 296 | Rolanda Williams |
 | 185 | 295 | Jayjay Rich |
 | 186 | 293 | Tonya Lee Sanders |
@@ -780,66 +780,66 @@
 | 772 | 57 | Kenny 'Tailormade' Boyd |
 | 773 | 57 | Christy Quick |
 | 774 | 56 | Lisa Ivy |
-| 775 | 56 | Sally Elizabeth Hopson |
-| 776 | 56 | QueenzMo |
-| 777 | 56 | Nona Harriel |
-| 778 | 56 | jeremy92 |
+| 775 | 56 | QueenzMo |
+| 776 | 56 | Sally Elizabeth Hopson |
+| 777 | 56 | Kyle Conley |
+| 778 | 56 | Maria Baez Medina |
 | 779 | 56 | Chanel White |
-| 780 | 56 | Maria Baez Medina |
-| 781 | 56 | Kyle Conley |
+| 780 | 56 | Nona Harriel |
+| 781 | 56 | jeremy92 |
 | 782 | 55 | Jane Lame |
-| 783 | 55 | KoolKimJay |
+| 783 | 55 | Vernon Hoyt |
 | 784 | 55 | PSD |
-| 785 | 55 | Vernon Hoyt |
-| 786 | 55 | Shakmar |
-| 787 | 55 | nameno |
-| 788 | 55 | Witty Clear |
-| 789 | 55 | Kyle Franklin |
-| 790 | 54 | Felicia Yahuah Johnson |
-| 791 | 54 | Ace Hardware |
-| 792 | 54 | Markeita Jones |
-| 793 | 54 | Dennis Ripley |
-| 794 | 54 | Katness |
-| 795 | 54 | Antoinette Kelly |
-| 796 | 54 | John Spath |
-| 797 | 54 | deeno |
-| 798 | 54 | Embracing Hair |
+| 785 | 55 | Crtjstr |
+| 786 | 55 | Kyle Franklin |
+| 787 | 55 | KoolKimJay |
+| 788 | 55 | Shakmar |
+| 789 | 55 | nameno |
+| 790 | 55 | Witty Clear |
+| 791 | 54 | Embracing Hair |
+| 792 | 54 | Felicia Yahuah Johnson |
+| 793 | 54 | Ace Hardware |
+| 794 | 54 | Markeita Jones |
+| 795 | 54 | Katness |
+| 796 | 54 | Antoinette Kelly |
+| 797 | 54 | John Spath |
+| 798 | 54 | deeno |
 | 799 | 54 | Kashh |
-| 800 | 53 | Clever Wrecker |
-| 801 | 53 | Shona ShayShay Jones |
-| 802 | 53 | Williams Candace |
-| 803 | 53 | Morenita Rodriguez |
-| 804 | 53 | Heather Wilson |
+| 800 | 54 | Dennis Ripley |
+| 801 | 53 | brite |
+| 802 | 53 | Clever Wrecker |
+| 803 | 53 | Heather Wilson |
+| 804 | 53 | Shona ShayShay Jones |
 | 805 | 53 | Xrandomx |
-| 806 | 53 | brite |
-| 807 | 53 | Barbramerri Tarboro |
+| 806 | 53 | Williams Candace |
+| 807 | 53 | Morenita Rodriguez |
 | 808 | 53 | Haakuu |
-| 809 | 52 | Chummy Liner |
-| 810 | 52 | Raymond Boosie Freeman |
-| 811 | 52 | Giggy Holder |
-| 812 | 52 | Loopy Risepiece |
+| 809 | 53 | Barbramerri Tarboro |
+| 810 | 52 | Giggy Holder |
+| 811 | 52 | Abdul Malik |
+| 812 | 52 | Tray Tolliver |
 | 813 | 52 | Tootsie Pop |
-| 814 | 52 | Tray Tolliver |
-| 815 | 52 | Abdul Malik |
-| 816 | 51 | Boldy Matchfit |
-| 817 | 51 | Oaklonboy mike |
-| 818 | 51 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 819 | 51 | Dizzy Gridmatch |
-| 820 | 51 | Shanjerrica Taylor Rosell |
-| 821 | 51 | Bunnie Celtavini |
+| 814 | 52 | Raymond Boosie Freeman |
+| 815 | 52 | Chummy Liner |
+| 816 | 52 | Loopy Risepiece |
+| 817 | 51 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 818 | 51 | Boldy Matchfit |
+| 819 | 51 | Oaklonboy mike |
+| 820 | 51 | Dizzy Gridmatch |
+| 821 | 51 | Shanjerrica Taylor Rosell |
 | 822 | 51 | Evelyn Epps |
-| 823 | 50 | Slinky Fallzone |
-| 824 | 50 | Kanary Karotz |
-| 825 | 50 | Denell Sims |
-| 826 | 50 | Bold Spinblock |
-| 827 | 50 | Tramaine Crockrum |
-| 828 | 50 | Perky Balancer |
-| 829 | 50 | Mikemike Zonethree |
-| 830 | 50 | Amaadi Ward |
-| 831 | 50 | Benjamin Livingston |
-| 832 | 50 | Rissa Rozay |
-| 833 | 50 | Toohartless Mech |
-| 834 | 50 | Crtjstr |
+| 823 | 51 | Bunnie Celtavini |
+| 824 | 50 | Denell Sims |
+| 825 | 50 | Kanary Karotz |
+| 826 | 50 | Slinky Fallzone |
+| 827 | 50 | Bold Spinblock |
+| 828 | 50 | Tramaine Crockrum |
+| 829 | 50 | Perky Balancer |
+| 830 | 50 | Mikemike Zonethree |
+| 831 | 50 | Amaadi Ward |
+| 832 | 50 | Benjamin Livingston |
+| 833 | 50 | Rissa Rozay |
+| 834 | 50 | Toohartless Mech |
 | 835 | 50 | Daring Linkfall |
 | 836 | 50 | MsBobby Patrick |
 | 837 | 50 | Paul Doty |
