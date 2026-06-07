@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 02:20:40 UTC
+# Standings for team1 as of 2026-06-07 02:21:18 UTC
 
 **Total Participants:** 1293
 
@@ -205,7 +205,7 @@
 | 197 | 211 | Latisha Fairley |
 | 198 | 206 | Curtis T Cirno |
 | 199 | 205 | Tishauna Virgo |
-| 200 | 203 | Slim Shedidthat |
+| 200 | 204 | Slim Shedidthat |
 | 201 | 200 | Christian Pham |
 | 202 | 199 | Teddy Davis |
 | 203 | 198 | Robbie Cheeseman |
@@ -477,31 +477,31 @@
 | 469 | 79 | Brand Nu |
 | 470 | 79 | Douglas Price |
 | 471 | 79 | Tracy Feyler |
-| 472 | 78 | KeeKee Williams |
-| 473 | 78 | Solomon Valarie |
-| 474 | 78 | Azeiare Ziare |
+| 472 | 78 | Solomon Valarie |
+| 473 | 78 | Azeiare Ziare |
+| 474 | 78 | KeeKee Williams |
 | 475 | 77 | Johnathan Deese |
 | 476 | 77 | Jenni Hardman |
-| 477 | 76 | Jennah |
-| 478 | 76 | Giggly Shatterline |
+| 477 | 76 | Giggly Shatterline |
+| 478 | 76 | Jennah |
 | 479 | 76 | Angelique Talbot |
 | 480 | 76 | Rene Hicks |
-| 481 | 75 | Courtney Robinson |
-| 482 | 75 | Kimberly Noble |
-| 483 | 75 | sasha |
-| 484 | 74 | Sunny Clicky |
-| 485 | 74 | Elaine Pauley |
-| 486 | 74 | Glitzy Clusterer |
-| 487 | 74 | Nichelle Warren |
-| 488 | 74 | Kimmie Gargano |
-| 489 | 74 | Tetrisdestroyer |
-| 490 | 74 | Amy Lynn Leifheit |
-| 491 | 74 | Twisty Cascadeclear |
-| 492 | 74 | Eric Spencer Whitaker |
-| 493 | 73 | Perky Pusher |
-| 494 | 73 | Jimmy Shannon |
-| 495 | 72 | Comedian Gdane |
-| 496 | 72 | De'Nell Edwards |
+| 481 | 75 | Kimberly Noble |
+| 482 | 75 | sasha |
+| 483 | 75 | Courtney Robinson |
+| 484 | 74 | Nichelle Warren |
+| 485 | 74 | Sunny Clicky |
+| 486 | 74 | De'Nell Edwards |
+| 487 | 74 | Elaine Pauley |
+| 488 | 74 | Glitzy Clusterer |
+| 489 | 74 | Kimmie Gargano |
+| 490 | 74 | Tetrisdestroyer |
+| 491 | 74 | Amy Lynn Leifheit |
+| 492 | 74 | Twisty Cascadeclear |
+| 493 | 74 | Eric Spencer Whitaker |
+| 494 | 73 | Perky Pusher |
+| 495 | 73 | Jimmy Shannon |
+| 496 | 72 | Comedian Gdane |
 | 497 | 72 | Marlainia Boyd |
 | 498 | 72 | Rachel Renae Bettis |
 | 499 | 72 | Poppy Twister |
