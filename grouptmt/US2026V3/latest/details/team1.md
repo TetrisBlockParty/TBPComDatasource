@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 23:04:19 UTC
+# Standings for team1 as of 2026-06-07 23:04:41 UTC
 
 **Total Participants:** 1607
 
@@ -115,14 +115,14 @@
 | 107 | 622 | Alana Renee |
 | 108 | 619 | Ottison Dianna |
 | 109 | 618 | Voice |
-| 110 | 612 | Quirky Fallgrid |
-| 111 | 604 | Mimi 1.0 |
-| 112 | 604 | W.A. Simpson |
-| 113 | 601 | JaszyBadd |
-| 114 | 601 | Chris Caniglia |
-| 115 | 588 | Shontanese Adams |
-| 116 | 587 | KenpachisGirl |
-| 117 | 586 | Andi McGreevy |
+| 110 | 612 | Andi McGreevy |
+| 111 | 612 | Quirky Fallgrid |
+| 112 | 604 | Mimi 1.0 |
+| 113 | 604 | W.A. Simpson |
+| 114 | 601 | JaszyBadd |
+| 115 | 601 | Chris Caniglia |
+| 116 | 588 | Shontanese Adams |
+| 117 | 587 | KenpachisGirl |
 | 118 | 573 | Rackemwillie34 |
 | 119 | 570 | Keeta Chickswit Scott |
 | 120 | 561 | Carolynne Walker-Bell |
@@ -813,91 +813,91 @@
 | 805 | 68 | Alexandrla Smith |
 | 806 | 68 | Nikiya |
 | 807 | 67 | Sharon Lynn |
-| 808 | 67 | Michele Elizabeth McKay-Johnson |
-| 809 | 67 | Sarah Barnum |
-| 810 | 67 | Nikkizz |
+| 808 | 67 | Sarah Barnum |
+| 809 | 67 | Nikkizz |
+| 810 | 67 | Michele Elizabeth McKay-Johnson |
 | 811 | 67 | squints |
 | 812 | 66 | Undeniable Williams |
 | 813 | 66 | Mami Badd |
-| 814 | 66 | Jroc Tyra Taylor |
-| 815 | 66 | Paul Doty |
+| 814 | 66 | Laysa Nunez |
+| 815 | 66 | Jroc Tyra Taylor |
 | 816 | 66 | Sylvia Offically A Mcgowan |
-| 817 | 66 | Meluhnee |
-| 818 | 66 | GracefulOwl808 |
-| 819 | 66 | Lively Clusterline |
-| 820 | 66 | Meepycat |
-| 821 | 66 | Seirra Robinson |
-| 822 | 66 | Terrie |
-| 823 | 66 | Raquele Hines |
-| 824 | 66 | Dennis Ripley |
-| 825 | 66 | Erica Campbell-Stillings |
+| 817 | 66 | Paul Doty |
+| 818 | 66 | Meluhnee |
+| 819 | 66 | GracefulOwl808 |
+| 820 | 66 | Lively Clusterline |
+| 821 | 66 | Dennis Ripley |
+| 822 | 66 | Seirra Robinson |
+| 823 | 66 | Meepycat |
+| 824 | 66 | Erica Campbell-Stillings |
+| 825 | 66 | Terrie |
 | 826 | 66 | Letrishia Andrews |
-| 827 | 65 | Furlough Leslie |
-| 828 | 65 | Tesiree Cray |
-| 829 | 65 | Rande Smith |
-| 830 | 65 | Vonda House |
-| 831 | 65 | Trixie |
-| 832 | 65 | Renee J. Thomas |
-| 833 | 65 | Khatyrah Burnette |
-| 834 | 65 | Benjamin Livingston |
-| 835 | 64 | Elaine Youmans |
-| 836 | 64 | Marbama |
-| 837 | 64 | Peppy Wipeblock |
-| 838 | 64 | Dennis J Herron II |
-| 839 | 64 | Tomme Poliwka |
-| 840 | 63 | GetDaOPPS |
-| 841 | 63 | Ahsokadog |
+| 827 | 66 | Raquele Hines |
+| 828 | 65 | Rande Smith |
+| 829 | 65 | Renee J. Thomas |
+| 830 | 65 | Khatyrah Burnette |
+| 831 | 65 | Tesiree Cray |
+| 832 | 65 | Trixie |
+| 833 | 65 | Benjamin Livingston |
+| 834 | 65 | Vonda House |
+| 835 | 65 | Furlough Leslie |
+| 836 | 64 | Peppy Wipeblock |
+| 837 | 64 | Elaine Youmans |
+| 838 | 64 | Marbama |
+| 839 | 64 | Dennis J Herron II |
+| 840 | 64 | Tomme Poliwka |
+| 841 | 63 | Tony P Burke |
 | 842 | 63 | Heather Wilson |
-| 843 | 63 | Shawna Passwater |
-| 844 | 63 | Poppy Smasher |
-| 845 | 63 | Tonny Williams |
-| 846 | 63 | Gary Kyle |
-| 847 | 63 | Tip318 |
-| 848 | 63 | Tony P Burke |
+| 843 | 63 | Gary Kyle |
+| 844 | 63 | GetDaOPPS |
+| 845 | 63 | Shawna Passwater |
+| 846 | 63 | Katness |
+| 847 | 63 | Natasha Harris |
+| 848 | 63 | Poppy Smasher |
 | 849 | 63 | Ounquan Wright |
-| 850 | 63 | Natasha Harris |
-| 851 | 63 | Laysa Nunez |
-| 852 | 63 | Katness |
-| 853 | 62 | Tia Hazelton |
-| 854 | 62 | Delitra Perkins Hatter |
-| 855 | 62 | Shona ShayShay Jones |
+| 850 | 63 | Tip318 |
+| 851 | 63 | Tonny Williams |
+| 852 | 63 | Ahsokadog |
+| 853 | 62 | Spicy Hedgehog |
+| 854 | 62 | Shona ShayShay Jones |
+| 855 | 62 | Quwana Hall |
 | 856 | 62 | Bunnie Celtavini |
-| 857 | 62 | Chris Rogers |
-| 858 | 62 | AshMo |
-| 859 | 62 | Quwana Hall |
-| 860 | 62 | Spicy Hedgehog |
-| 861 | 62 | S.S |
-| 862 | 62 | Amihan |
+| 857 | 62 | Tia Hazelton |
+| 858 | 62 | Chris Rogers |
+| 859 | 62 | Delitra Perkins Hatter |
+| 860 | 62 | AshMo |
+| 861 | 62 | Amihan |
+| 862 | 62 | S.S |
 | 863 | 61 | Biggestboss Ransom |
 | 864 | 61 | Tonya Thomas |
-| 865 | 60 | Pinky Pink |
-| 866 | 60 | Tellisa Payne |
-| 867 | 60 | Analesia Taylor |
-| 868 | 60 | Demi Ovalle |
-| 869 | 60 | Tanesha Ga'sFinest Corbett |
-| 870 | 60 | Jennifer Endean |
+| 865 | 60 | Yellowguy3 |
+| 866 | 60 | Demi Ovalle |
+| 867 | 60 | Tanesha Ga'sFinest Corbett |
+| 868 | 60 | Jennifer Endean |
+| 869 | 60 | Analesia Taylor |
+| 870 | 60 | Crafty Witch |
 | 871 | 60 | Juan Lewis |
-| 872 | 60 | Crafty Witch |
-| 873 | 60 | lizlizliz |
-| 874 | 60 | Malcolm Stanley |
-| 875 | 60 | lookin |
-| 876 | 60 | Tyrone Porter |
-| 877 | 60 | Andy Rivera |
+| 872 | 60 | lizlizliz |
+| 873 | 60 | Malcolm Stanley |
+| 874 | 60 | lookin |
+| 875 | 60 | Tellisa Payne |
+| 876 | 60 | Andy Rivera |
+| 877 | 60 | Tyrone Porter |
 | 878 | 60 | Ebie |
-| 879 | 60 | Yellowguy3 |
-| 880 | 60 | Swanky Glide |
-| 881 | 60 | Stanley Dixon |
-| 882 | 60 | Nigel Snyder |
-| 883 | 60 | Phillip White |
-| 884 | 60 | Missy Myvette |
-| 885 | 59 | Tamyka E Williams |
-| 886 | 59 | Smiley Tilebuilder |
-| 887 | 59 | Sugar Foot |
-| 888 | 59 | Andrea Jackson |
-| 889 | 59 | Teresa Menefee |
-| 890 | 59 | Parris Wright |
-| 891 | 59 | Wacky Spinfit |
-| 892 | 59 | Sweet BayBee |
+| 879 | 60 | Swanky Glide |
+| 880 | 60 | Stanley Dixon |
+| 881 | 60 | Nigel Snyder |
+| 882 | 60 | Phillip White |
+| 883 | 60 | Missy Myvette |
+| 884 | 60 | Pinky Pink |
+| 885 | 59 | Andrea Jackson |
+| 886 | 59 | Tamyka E Williams |
+| 887 | 59 | Parris Wright |
+| 888 | 59 | Teresa Menefee |
+| 889 | 59 | Sweet BayBee |
+| 890 | 59 | Wacky Spinfit |
+| 891 | 59 | Sugar Foot |
+| 892 | 59 | Smiley Tilebuilder |
 | 893 | 58 | AnnaM |
 | 894 | 58 | Rieshelda Marie White |
 | 895 | 58 | Kiki |

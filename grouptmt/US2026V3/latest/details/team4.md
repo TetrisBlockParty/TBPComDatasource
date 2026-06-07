@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 23:04:19 UTC
+# Standings for team4 as of 2026-06-07 23:04:41 UTC
 
 **Total Participants:** 1647
 
@@ -385,33 +385,33 @@
 | 377 | 160 | Bre Dee |
 | 378 | 160 | Mrs |
 | 379 | 160 | Sherry Mooney |
-| 380 | 159 | JoAnn Summerlot Ratliff |
-| 381 | 159 | Chirpy Snapclear |
-| 382 | 159 | Henry Lanier |
-| 383 | 159 | Rose Anna Safi |
-| 384 | 158 | crobb77 |
-| 385 | 158 | Miss Beast |
-| 386 | 158 | Juvon SupaShawdii Brooks |
-| 387 | 157 | Alex Armour |
-| 388 | 157 | Deborah Silberg |
+| 380 | 159 | Keith Kosmicki |
+| 381 | 159 | JoAnn Summerlot Ratliff |
+| 382 | 159 | Chirpy Snapclear |
+| 383 | 159 | Henry Lanier |
+| 384 | 159 | Rose Anna Safi |
+| 385 | 158 | crobb77 |
+| 386 | 158 | Miss Beast |
+| 387 | 158 | Juvon SupaShawdii Brooks |
+| 388 | 157 | Alex Armour |
 | 389 | 157 | Laguya |
-| 390 | 156 | Funky Tiler |
-| 391 | 155 | Tricia Motika Cowan |
+| 390 | 157 | Deborah Silberg |
+| 391 | 156 | Funky Tiler |
 | 392 | 155 | 1694AF |
 | 393 | 155 | Shayna Vaigneur-Hall |
-| 394 | 155 | Keith Kosmicki |
-| 395 | 155 | Cherrypir05 |
-| 396 | 154 | Stef |
-| 397 | 154 | Melissa Lowe |
-| 398 | 154 | Lanelva Tiredofbs Marshall |
+| 394 | 155 | Cherrypir05 |
+| 395 | 155 | Tricia Motika Cowan |
+| 396 | 154 | Melissa Lowe |
+| 397 | 154 | Lanelva Tiredofbs Marshall |
+| 398 | 154 | Stef |
 | 399 | 154 | Lani |
 | 400 | 153 | Shawntae Mccary |
 | 401 | 152 | Nerdy Faller |
 | 402 | 151 | Bean |
-| 403 | 150 | Heidi Anne Scheiderer |
-| 404 | 150 | Wanda Simmons |
+| 403 | 150 | Spunky Gridzone |
+| 404 | 150 | Heidi Anne Scheiderer |
 | 405 | 150 | MrsReap |
-| 406 | 150 | Spunky Gridzone |
+| 406 | 150 | Wanda Simmons |
 | 407 | 149 | Snippy Racker |
 | 408 | 149 | Jennifer Garcia |
 | 409 | 149 | Happy Shatterfit |
