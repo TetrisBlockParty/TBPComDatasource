@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 00:20:17 UTC
+# Standings for team1 as of 2026-06-07 00:20:41 UTC
 
 **Total Participants:** 1231
 
@@ -234,27 +234,27 @@
 | 226 | 161 | LaShaun Stinson |
 | 227 | 160 | Jamie Willis |
 | 228 | 160 | Carolyn Smith |
-| 229 | 160 | Spicy Risepiece |
-| 230 | 160 | DaGuy |
-| 231 | 160 | Sara Meri |
+| 229 | 160 | DaGuy |
+| 230 | 160 | Sara Meri |
+| 231 | 160 | Spicy Risepiece |
 | 232 | 159 | Fina McKinnis |
 | 233 | 158 | Slim Shedidthat |
 | 234 | 158 | Kimberly Linares Hernandez |
 | 235 | 157 | 신재호 |
 | 236 | 156 | Cheeky Twistpiece |
-| 237 | 153 | Rackemwillie34 |
-| 238 | 153 | Chris Caniglia |
+| 237 | 153 | Chris Caniglia |
+| 238 | 153 | Rackemwillie34 |
 | 239 | 152 | Jolly Tilefall |
-| 240 | 149 | Chasem45 |
-| 241 | 149 | Christopher Dreamsareality McEachin |
-| 242 | 149 | Lively Riserpiece |
-| 243 | 147 | Tanisha Taylor |
-| 244 | 147 | MACHETEEDDIE513 |
-| 245 | 147 | Sammie Walker |
-| 246 | 146 | BlackQueen105 |
-| 247 | 146 | Calvin Green |
-| 248 | 146 | Keke Ferguson |
-| 249 | 145 | Randizzle |
+| 240 | 151 | Randizzle |
+| 241 | 149 | Chasem45 |
+| 242 | 149 | Christopher Dreamsareality McEachin |
+| 243 | 149 | Lively Riserpiece |
+| 244 | 147 | Tanisha Taylor |
+| 245 | 147 | MACHETEEDDIE513 |
+| 246 | 147 | Sammie Walker |
+| 247 | 146 | BlackQueen105 |
+| 248 | 146 | Calvin Green |
+| 249 | 146 | Keke Ferguson |
 | 250 | 145 | Slinky Snapbuilder |
 | 251 | 144 | TBABYJ |
 | 252 | 143 | BULLSEYE |
