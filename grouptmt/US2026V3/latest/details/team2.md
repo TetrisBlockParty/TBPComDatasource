@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 07:28:39 UTC
+# Standings for team2 as of 2026-06-07 07:29:21 UTC
 
 **Total Participants:** 1669
 
@@ -55,7 +55,7 @@
 | 47 | 1678 | Betty Barrett |
 | 48 | 1657 | Heather Marie-Tarlton Britt |
 | 49 | 1606 | Nerdy Glidepiece |
-| 50 | 1591 | Rose Schaffner-Kibler |
+| 50 | 1593 | Rose Schaffner-Kibler |
 | 51 | 1531 | Happy Pivotfall |
 | 52 | 1510 | Shandrea Crawford |
 | 53 | 1501 | Monica Galli |
