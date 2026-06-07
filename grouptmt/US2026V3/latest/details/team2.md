@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 08:18:19 UTC
+# Standings for team2 as of 2026-06-07 08:18:40 UTC
 
 **Total Participants:** 1678
 
@@ -346,8 +346,8 @@
 | 338 | 162 | Wacky Holder |
 | 339 | 161 | Erica South |
 | 340 | 161 | Silly Tiltbuilder |
-| 341 | 160 | Elizabeth Cornelius |
-| 342 | 160 | Melmel |
+| 341 | 160 | Melmel |
+| 342 | 160 | Elizabeth Cornelius |
 | 343 | 159 | Jason Cunningham |
 | 344 | 159 | Jennifer Vitro |
 | 345 | 159 | Misty Noe |
@@ -359,10 +359,10 @@
 | 351 | 156 | Tango Sierra |
 | 352 | 156 | KazzyKay |
 | 353 | 156 | Charlotte Castelli |
-| 354 | 154 | Alonzo Reed |
+| 354 | 155 | Sassy Twistbuilder |
 | 355 | 154 | murd3rmous3 |
-| 356 | 153 | Cortney Coleman |
-| 357 | 152 | Sassy Twistbuilder |
+| 356 | 154 | Alonzo Reed |
+| 357 | 153 | Cortney Coleman |
 | 358 | 151 | Marilyn Mendoza |
 | 359 | 151 | Amy Lea Hamilton |
 | 360 | 150 | Camilo Moreno |
