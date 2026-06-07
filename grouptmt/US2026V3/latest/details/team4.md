@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 08:10:19 UTC
+# Standings for team4 as of 2026-06-07 08:10:40 UTC
 
 **Total Participants:** 1416
 
@@ -1138,18 +1138,18 @@
 | 1130 | 22 | taya |
 | 1131 | 22 | Bold Tumbler |
 | 1132 | 22 | Magda Lene |
-| 1133 | 22 | Eric Quan |
-| 1134 | 22 | Dan Butcher |
-| 1135 | 22 | Erin Randazzo |
-| 1136 | 22 | Twisty Chiseler |
-| 1137 | 22 | Baby cat |
-| 1138 | 22 | Amanda Jill Sturgill |
-| 1139 | 22 | Stylist |
-| 1140 | 22 | Lazy Risepiece |
-| 1141 | 22 | Rachel Resnick |
+| 1133 | 22 | Twisty Chiseler |
+| 1134 | 22 | Amanda Jill Sturgill |
+| 1135 | 22 | Stylist |
+| 1136 | 22 | Lazy Risepiece |
+| 1137 | 22 | Rachel Resnick |
+| 1138 | 22 | Eric Quan |
+| 1139 | 22 | Baby cat |
+| 1140 | 22 | Erin Randazzo |
+| 1141 | 22 | Dan Butcher |
 | 1142 | 21 | kakasports |
-| 1143 | 21 | Cozy Staggerpiece |
-| 1144 | 21 | Ak Jones |
+| 1143 | 21 | Ak Jones |
+| 1144 | 21 | Cozy Staggerpiece |
 | 1145 | 21 | Joshua Doucette |
 | 1146 | 21 | Tammie Baechler |
 | 1147 | 21 | Mystica |
@@ -1167,26 +1167,26 @@
 | 1159 | 20 | Frby Amberr |
 | 1160 | 20 | Hasty Slamdrop |
 | 1161 | 20 | beauxie |
-| 1162 | 20 | David Kirschner |
-| 1163 | 20 | Suzie |
-| 1164 | 20 | Kristin Ussery |
-| 1165 | 20 | Jean Yap |
-| 1166 | 20 | Elizabeth Ann Caro |
-| 1167 | 20 | Ryan Luperena |
-| 1168 | 20 | Bren70 |
+| 1162 | 20 | Ryan Luperena |
+| 1163 | 20 | Bren70 |
+| 1164 | 20 | Jean Yap |
+| 1165 | 20 | Suzie |
+| 1166 | 20 | David Kirschner |
+| 1167 | 20 | Elizabeth Ann Caro |
+| 1168 | 20 | Cool Towerer |
 | 1169 | 20 | Dorothy Schetzel |
-| 1170 | 20 | Cool Towerer |
+| 1170 | 20 | Kristin Ussery |
 | 1171 | 20 | Caroline Peralta |
-| 1172 | 20 | Jennifer Naughton |
-| 1173 | 20 | Gualberto Ramirez |
-| 1174 | 20 | Sha Ta Nay Mitchell |
-| 1175 | 20 | Amy |
+| 1172 | 20 | Yournightmare |
+| 1173 | 20 | Jennifer Naughton |
+| 1174 | 20 | Kris McMahon |
+| 1175 | 20 | Gualberto Ramirez |
 | 1176 | 20 | Alicia LaFaye |
-| 1177 | 20 | Kris McMahon |
-| 1178 | 20 | Yournightmare |
+| 1177 | 20 | Amy |
+| 1178 | 20 | Sha Ta Nay Mitchell |
 | 1179 | 19 | Domenique Wilson |
-| 1180 | 19 | Archer Family Mayhem |
-| 1181 | 19 | Giggly Gridzone |
+| 1180 | 19 | Giggly Gridzone |
+| 1181 | 19 | Archer Family Mayhem |
 | 1182 | 19 | Kariana Gonzalez Ortiz |
 | 1183 | 19 | Redhead girl |
 | 1184 | 19 | Ashie |
@@ -1194,19 +1194,19 @@
 | 1186 | 18 | Stacia Marie |
 | 1187 | 18 | Dewy |
 | 1188 | 18 | Angel Boges |
-| 1189 | 18 | Becca Milliron |
-| 1190 | 18 | Glitter |
-| 1191 | 18 | Alana Joe |
-| 1192 | 18 | Playboy916 |
+| 1189 | 18 | Glitter |
+| 1190 | 18 | Alana Joe |
+| 1191 | 18 | Gary Moore |
+| 1192 | 18 | Amina Walker |
 | 1193 | 18 | Christine Raine Jalili |
-| 1194 | 18 | Frilly Riserpiece |
-| 1195 | 18 | Amina Walker |
-| 1196 | 18 | Gary Moore |
-| 1197 | 17 | Oc Tive |
-| 1198 | 17 | Cecilia Hicks |
-| 1199 | 17 | Kennita Cox |
-| 1200 | 17 | happy cupcake |
-| 1201 | 17 | Erik Clary |
+| 1194 | 18 | Playboy916 |
+| 1195 | 18 | Becca Milliron |
+| 1196 | 18 | Frilly Riserpiece |
+| 1197 | 17 | Erik Clary |
+| 1198 | 17 | happy cupcake |
+| 1199 | 17 | Oc Tive |
+| 1200 | 17 | Kennita Cox |
+| 1201 | 17 | Cecilia Hicks |
 | 1202 | 17 | Shane Snyder |
 | 1203 | 17 | Glitzy Crasher |
 | 1204 | 17 | Crystal Morrin |
@@ -1221,26 +1221,26 @@
 | 1213 | 16 | Iesha Jefferson |
 | 1214 | 16 | Katy Roman |
 | 1215 | 16 | Nissi |
-| 1216 | 16 | Dandy Linkgrid |
-| 1217 | 16 | Melissa Robinson |
+| 1216 | 16 | Melissa Robinson |
+| 1217 | 16 | Dandy Linkgrid |
 | 1218 | 16 | Samantha Lohmeyer |
 | 1219 | 16 | LuLazer27 |
-| 1220 | 16 | Dana Smith |
+| 1220 | 16 | EKM |
 | 1221 | 16 | Maliyah An |
 | 1222 | 16 | Pauline Cortez |
 | 1223 | 16 | Groovy Towerbuilder |
-| 1224 | 16 | EKM |
-| 1225 | 16 | Fancy Tiley |
-| 1226 | 16 | Fumiko Demello |
-| 1227 | 15 | Chris Abney |
+| 1224 | 16 | Fancy Tiley |
+| 1225 | 16 | Fumiko Demello |
+| 1226 | 16 | Dana Smith |
+| 1227 | 15 | Mumsy |
 | 1228 | 15 | Ash |
 | 1229 | 15 | Kiara Johnson |
 | 1230 | 15 | Chilly Glidezone |
 | 1231 | 15 | Chelsea Costa |
-| 1232 | 15 | Mumsy |
-| 1233 | 15 | Jordan Tamayia Williams |
-| 1234 | 15 | Stacey Heartful |
-| 1235 | 15 | Speedy Rollbuilder |
+| 1232 | 15 | Jordan Tamayia Williams |
+| 1233 | 15 | Stacey Heartful |
+| 1234 | 15 | Speedy Rollbuilder |
+| 1235 | 15 | Chris Abney |
 | 1236 | 15 | Cas Gio |
 | 1237 | 15 | Medrano Cruz Yaquelyn |
 | 1238 | 15 | John Wertz |
@@ -1260,50 +1260,50 @@
 | 1252 | 14 | Donovan Parmenter Gagne |
 | 1253 | 14 | mrsduke420 |
 | 1254 | 14 | Breezy Striker |
-| 1255 | 14 | Mighty Clicky |
-| 1256 | 14 | Heather Crowe |
-| 1257 | 14 | Heather Dornberger |
-| 1258 | 14 | BreOunna Zonye Littleton |
+| 1255 | 14 | Heather Dornberger |
+| 1256 | 14 | BreOunna Zonye Littleton |
+| 1257 | 14 | Heather Crowe |
+| 1258 | 14 | Mighty Clicky |
 | 1259 | 14 | Tammy Santiago |
 | 1260 | 14 | Jolene Stieren |
 | 1261 | 14 | Bookgirl69 |
-| 1262 | 14 | Kathy Lindsay |
-| 1263 | 14 | Tina Louise |
-| 1264 | 13 | Swanky Spinzone |
-| 1265 | 13 | Liz Aimé Acosta Guilarte |
+| 1262 | 14 | Giggy Bridgepiece |
+| 1263 | 14 | Kathy Lindsay |
+| 1264 | 14 | Tina Louise |
+| 1265 | 13 | Swanky Spinzone |
 | 1266 | 13 | Jason Ervin |
-| 1267 | 13 | Speedy Snapclear |
+| 1267 | 13 | Liz Aimé Acosta Guilarte |
 | 1268 | 13 | Frothy Pivotfall |
-| 1269 | 13 | Simone Marie Thrasher |
-| 1270 | 13 | Tiffany Brooke |
-| 1271 | 13 | Jeremy Fisher |
-| 1272 | 13 | juler |
-| 1273 | 13 | Willedtra Griffin |
-| 1274 | 13 | Margarita Santana |
-| 1275 | 13 | Jackie Russo-Edens |
-| 1276 | 12 | Jennifer O'Connell |
-| 1277 | 12 | Tatiyana Hockett |
-| 1278 | 12 | Mee |
-| 1279 | 12 | Crafty Clicker |
-| 1280 | 12 | Delashawne Hodgson |
-| 1281 | 12 | Tonya Raymundo |
-| 1282 | 12 | ESPERANTU |
-| 1283 | 12 | Rooney |
-| 1284 | 12 | Carolyn Lalak |
-| 1285 | 12 | Tamara Gay |
-| 1286 | 12 | Vanessa Sykes |
-| 1287 | 12 | Bouncy Clusterline |
-| 1288 | 12 | NotAkaren Barker |
+| 1269 | 13 | Speedy Snapclear |
+| 1270 | 13 | Simone Marie Thrasher |
+| 1271 | 13 | Tiffany Brooke |
+| 1272 | 13 | Jeremy Fisher |
+| 1273 | 13 | juler |
+| 1274 | 13 | Willedtra Griffin |
+| 1275 | 13 | Margarita Santana |
+| 1276 | 13 | Jackie Russo-Edens |
+| 1277 | 12 | Jennifer O'Connell |
+| 1278 | 12 | Tatiyana Hockett |
+| 1279 | 12 | Mee |
+| 1280 | 12 | Crafty Clicker |
+| 1281 | 12 | Delashawne Hodgson |
+| 1282 | 12 | Tonya Raymundo |
+| 1283 | 12 | ESPERANTU |
+| 1284 | 12 | Rooney |
+| 1285 | 12 | Carolyn Lalak |
+| 1286 | 12 | Tamara Gay |
+| 1287 | 12 | Vanessa Sykes |
+| 1288 | 12 | Bouncy Clusterline |
 | 1289 | 12 | Jacquelyn L Whitsitt |
-| 1290 | 11 | Amowe |
-| 1291 | 11 | Eric Mellinger |
-| 1292 | 11 | Red |
-| 1293 | 11 | Matt Akm |
-| 1294 | 11 | Zanny |
-| 1295 | 11 | Brooke |
-| 1296 | 11 | Karissa Bailey |
-| 1297 | 11 | Bo Hagan |
-| 1298 | 11 | Giggy Bridgepiece |
+| 1290 | 12 | NotAkaren Barker |
+| 1291 | 11 | Amowe |
+| 1292 | 11 | Eric Mellinger |
+| 1293 | 11 | Red |
+| 1294 | 11 | Matt Akm |
+| 1295 | 11 | Zanny |
+| 1296 | 11 | Brooke |
+| 1297 | 11 | Karissa Bailey |
+| 1298 | 11 | Bo Hagan |
 | 1299 | 11 | Bryan Odle |
 | 1300 | 11 | Teresa Lescinskas |
 | 1301 | 11 | OFOZO |
@@ -1316,8 +1316,8 @@
 | 1308 | 10 | Buchanon Bossingup Jadrienne |
 | 1309 | 10 | Lively Cascadeclear |
 | 1310 | 10 | Lisa Hammock |
-| 1311 | 10 | Bruce Hobbs |
-| 1312 | 10 | Christine Niles |
+| 1311 | 10 | Christine Niles |
+| 1312 | 10 | Bruce Hobbs |
 | 1313 | 10 | tmnt |
 | 1314 | 10 | Corissa Handy |
 | 1315 | 10 | Nicole |
