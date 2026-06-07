@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 11:14:41 UTC
+# Standings for team4 as of 2026-06-07 11:15:19 UTC
 
 **Total Participants:** 1448
 
@@ -50,7 +50,7 @@
 | 42 | 1569 | Annastaissia Todd |
 | 43 | 1400 | Michele |
 | 44 | 1380 | Jennifer Edgell Richardson |
-| 45 | 1361 | Victoria Ver |
+| 45 | 1362 | Victoria Ver |
 | 46 | 1360 | Cal Renee |
 | 47 | 1357 | 626 |
 | 48 | 1249 | Charlie Lewis |
@@ -185,7 +185,7 @@
 | 177 | 279 | Iforget |
 | 178 | 279 | Brick House |
 | 179 | 277 | Giggly Tilt |
-| 180 | 272 | QueenLi86 |
+| 180 | 276 | QueenLi86 |
 | 181 | 270 | Jojo Ann |
 | 182 | 268 | Megan Vick |
 | 183 | 262 | squareMel |
@@ -315,10 +315,10 @@
 | 307 | 147 | EvoKitty |
 | 308 | 147 | Allysha McFarland |
 | 309 | 146 | Zesty Twistpiece |
-| 310 | 146 | Jasmine Marie |
-| 311 | 146 | Cheeky Fallzone |
-| 312 | 145 | Justin Michael |
-| 313 | 145 | Cindy |
+| 310 | 146 | Cindy |
+| 311 | 146 | Jasmine Marie |
+| 312 | 146 | Cheeky Fallzone |
+| 313 | 145 | Justin Michael |
 | 314 | 145 | Melika Zeheb |
 | 315 | 144 | Dapper Strikerpiece |
 | 316 | 144 | Dawn Phelps |
@@ -368,59 +368,59 @@
 | 360 | 124 | Tasha Suzanne Prisbrey |
 | 361 | 124 | Shanna Fragen |
 | 362 | 122 | Ginny |
-| 363 | 121 | Jennifer Fisher Franklin |
-| 364 | 121 | Jeff Margolis |
-| 365 | 121 | Jazzy Gridder |
+| 363 | 121 | Jeff Margolis |
+| 364 | 121 | Jazzy Gridder |
+| 365 | 121 | Jennifer Fisher Franklin |
 | 366 | 121 | TJ |
 | 367 | 120 | Ada Rodriguez Spradley |
 | 368 | 120 | Saucy Wipepiece |
 | 369 | 120 | Goofy Linkmatch |
 | 370 | 120 | Natalie Dillard |
 | 371 | 120 | Holly Wessel |
-| 372 | 120 | Joab Gonzalez |
-| 373 | 120 | Glamorous Gracey |
-| 374 | 120 | Carla Woodard |
+| 372 | 120 | Carla Woodard |
+| 373 | 120 | Shiny Brick |
+| 374 | 120 | Cool Risepiece |
 | 375 | 120 | Lul Babie |
-| 376 | 120 | Cool Risepiece |
-| 377 | 120 | Shiny Brick |
-| 378 | 119 | aga |
+| 376 | 120 | Joab Gonzalez |
+| 377 | 120 | Glamorous Gracey |
+| 378 | 119 | Rae Saunders |
 | 379 | 119 | Maegon Brazille |
-| 380 | 119 | Rae Saunders |
-| 381 | 119 | Dennis Montoya |
+| 380 | 119 | Dennis Montoya |
+| 381 | 119 | aga |
 | 382 | 119 | Ashley Jenkins |
-| 383 | 118 | farfromlocal |
-| 384 | 118 | Goofy Fall |
-| 385 | 117 | Tyson Stroppel |
-| 386 | 117 | Fancy Tilefall |
-| 387 | 116 | Stef |
-| 388 | 116 | Toon Up |
-| 389 | 116 | Solace Grace |
-| 390 | 116 | Henry Lanier |
+| 383 | 118 | Goofy Fall |
+| 384 | 118 | farfromlocal |
+| 385 | 117 | Fancy Tilefall |
+| 386 | 117 | Tyson Stroppel |
+| 387 | 116 | Henry Lanier |
+| 388 | 116 | Solace Grace |
+| 389 | 116 | Toon Up |
+| 390 | 116 | Stef |
 | 391 | 116 | Aaron Turner |
-| 392 | 114 | Ashley Eskridge |
-| 393 | 114 | Suzanne North |
-| 394 | 114 | yourmomz |
-| 395 | 114 | Shawna Downey |
-| 396 | 113 | Brandon Bedenbaugh |
+| 392 | 115 | Holly Bramel |
+| 393 | 114 | yourmomz |
+| 394 | 114 | Shawna Downey |
+| 395 | 114 | Ashley Eskridge |
+| 396 | 114 | Suzanne North |
 | 397 | 113 | TheazO |
-| 398 | 113 | George Palacios |
-| 399 | 113 | Tarsha Thomas-Martinez |
-| 400 | 113 | Melissa Anne |
-| 401 | 113 | Nicole Colby McCloskey |
-| 402 | 112 | Loopy Hitter |
-| 403 | 112 | Keith Kosmicki |
-| 404 | 111 | Marcus Chavis |
-| 405 | 111 | Holly Bramel |
-| 406 | 110 | Anna Ryan |
+| 398 | 113 | Brandon Bedenbaugh |
+| 399 | 113 | Melissa Anne |
+| 400 | 113 | Tarsha Thomas-Martinez |
+| 401 | 113 | George Palacios |
+| 402 | 113 | Nicole Colby McCloskey |
+| 403 | 112 | Loopy Hitter |
+| 404 | 112 | Keith Kosmicki |
+| 405 | 111 | Marcus Chavis |
+| 406 | 110 | Lora Schallert |
 | 407 | 110 | jaz |
 | 408 | 110 | Luna |
-| 409 | 110 | Lora Schallert |
-| 410 | 109 | Edward White |
-| 411 | 109 | Ross Bryant |
+| 409 | 110 | Anna Ryan |
+| 410 | 109 | Ross Bryant |
+| 411 | 109 | Edward White |
 | 412 | 108 | Kaps |
-| 413 | 107 | Jace McCullough |
-| 414 | 107 | Ash Gribble |
-| 415 | 107 | Drh4090 |
+| 413 | 107 | Drh4090 |
+| 414 | 107 | Jace McCullough |
+| 415 | 107 | Ash Gribble |
 | 416 | 106 | Corey Jackson |
 | 417 | 106 | Ami Ferguson |
 | 418 | 105 | Sandra Stark |
@@ -430,13 +430,13 @@
 | 422 | 103 | Alizabeth Garcia |
 | 423 | 103 | Maricela Joslin |
 | 424 | 103 | Butterpat |
-| 425 | 102 | Taisha Beasley |
-| 426 | 102 | Donna Bush |
-| 427 | 102 | medicjessi |
-| 428 | 102 | Kay |
-| 429 | 101 | Bre Dee |
-| 430 | 101 | Sarah Perry Cook |
-| 431 | 101 | Lisa Pie |
+| 425 | 102 | medicjessi |
+| 426 | 102 | Kay |
+| 427 | 102 | Taisha Beasley |
+| 428 | 102 | Donna Bush |
+| 429 | 101 | Lisa Pie |
+| 430 | 101 | Bre Dee |
+| 431 | 101 | Sarah Perry Cook |
 | 432 | 101 | Dayna Arthurs |
 | 433 | 101 | Kandylands |
 | 434 | 100 | Shy |

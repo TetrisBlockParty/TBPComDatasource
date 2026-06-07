@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:14:41 UTC
+# Standings for team1 as of 2026-06-07 11:15:19 UTC
 
 **Total Participants:** 1444
 
@@ -60,8 +60,8 @@
 | 52 | 1067 | Catara Renae Oliver |
 | 53 | 1052 | Shortstak |
 | 54 | 1046 | Spicy Balancer |
-| 55 | 1024 | Chill Clusterer |
-| 56 | 1019 | Danielle DeLozier Plesec |
+| 55 | 1034 | Danielle DeLozier Plesec |
+| 56 | 1024 | Chill Clusterer |
 | 57 | 998 | Angela R Wilson |
 | 58 | 961 | Sanjuro |
 | 59 | 943 | Kkbk |
@@ -128,13 +128,13 @@
 | 120 | 439 | Asani CHumba |
 | 121 | 431 | Lashawn Wallace |
 | 122 | 429 | Bambi Love |
-| 123 | 420 | Jessica Carter |
-| 124 | 414 | Anthony Washington |
-| 125 | 412 | Sarah Marie |
-| 126 | 410 | ELM |
-| 127 | 409 | Andre Sanon |
-| 128 | 404 | Hyper Slamdrop |
-| 129 | 404 | Cee Emm |
+| 123 | 424 | Cee Emm |
+| 124 | 420 | Jessica Carter |
+| 125 | 414 | Anthony Washington |
+| 126 | 412 | Sarah Marie |
+| 127 | 410 | ELM |
+| 128 | 409 | Andre Sanon |
+| 129 | 404 | Hyper Slamdrop |
 | 130 | 404 | Jason Mungin |
 | 131 | 401 | Shell Lewis |
 | 132 | 393 | Tobey Marberry |
@@ -671,94 +671,94 @@
 | 663 | 64 | Chris Nelson |
 | 664 | 64 | Marbama |
 | 665 | 64 | Elaine Youmans |
-| 666 | 63 | Natasha Harris |
-| 667 | 63 | Poppy Smasher |
-| 668 | 63 | Yashicha Hertzock |
-| 669 | 63 | Mellie Mel |
-| 670 | 63 | Ahsokadog |
-| 671 | 63 | Shawna Passwater |
+| 666 | 63 | Shawna Passwater |
+| 667 | 63 | Natasha Harris |
+| 668 | 63 | Poppy Smasher |
+| 669 | 63 | Yashicha Hertzock |
+| 670 | 63 | Mellie Mel |
+| 671 | 63 | Ahsokadog |
 | 672 | 62 | Stephen Garland |
 | 673 | 62 | Stephanie Ellis |
 | 674 | 62 | Cj Chimelis |
-| 675 | 62 | Jack Mehof |
-| 676 | 62 | Nedine Ray |
+| 675 | 62 | Nedine Ray |
+| 676 | 62 | Jack Mehof |
 | 677 | 61 | Squaw Ki Ng |
 | 678 | 61 | Raquel Ortiz |
-| 679 | 61 | Tonya Thomas |
-| 680 | 61 | Desi Guerra |
-| 681 | 61 | Taz Ballard |
-| 682 | 60 | Tellisa Payne |
-| 683 | 60 | Swanky Glide |
-| 684 | 60 | Jennifer Endean |
-| 685 | 60 | Lauren Farkas |
-| 686 | 60 | lookin |
-| 687 | 60 | Crystal Garay |
-| 688 | 60 | Frankey Chi |
-| 689 | 60 | Yellowguy3 |
-| 690 | 60 | Mom3granny2 |
-| 691 | 60 | Tanesha Ga'sFinest Corbett |
-| 692 | 60 | Malcolm Stanley |
-| 693 | 60 | Dianne Clagon |
-| 694 | 60 | Demi Ovalle |
-| 695 | 60 | Coco |
-| 696 | 60 | Missy Myvette |
-| 697 | 60 | Ashlie Mo |
-| 698 | 60 | Angie Smith |
-| 699 | 59 | Parris Wright |
-| 700 | 59 | Danny M GR |
-| 701 | 59 | Smiley Tilebuilder |
+| 679 | 61 | Vannie G |
+| 680 | 61 | Tonya Thomas |
+| 681 | 61 | Desi Guerra |
+| 682 | 61 | Taz Ballard |
+| 683 | 60 | Tanesha Ga'sFinest Corbett |
+| 684 | 60 | lookin |
+| 685 | 60 | Yellowguy3 |
+| 686 | 60 | Crystal Garay |
+| 687 | 60 | Frankey Chi |
+| 688 | 60 | Tellisa Payne |
+| 689 | 60 | Lauren Farkas |
+| 690 | 60 | Jennifer Endean |
+| 691 | 60 | Malcolm Stanley |
+| 692 | 60 | Mom3granny2 |
+| 693 | 60 | Demi Ovalle |
+| 694 | 60 | Dianne Clagon |
+| 695 | 60 | Swanky Glide |
+| 696 | 60 | Coco |
+| 697 | 60 | Angie Smith |
+| 698 | 60 | Missy Myvette |
+| 699 | 60 | Ashlie Mo |
+| 700 | 59 | OhNoZer0 |
+| 701 | 59 | Elizabeth Hopkins |
 | 702 | 59 | Kortney Adams |
-| 703 | 59 | Evette Moreno |
-| 704 | 59 | OhNoZer0 |
-| 705 | 59 | Elizabeth Hopkins |
-| 706 | 59 | Sugar Foot |
-| 707 | 59 | Tamyka E Williams |
-| 708 | 59 | Tonny Williams |
-| 709 | 59 | Darrel Pemberton |
-| 710 | 59 | Fatty May |
-| 711 | 59 | Twisty Brickfit |
-| 712 | 58 | NickyJay Jones |
-| 713 | 58 | CoaCoa Myles |
-| 714 | 58 | Brandy Way |
-| 715 | 58 | Gabriela Hernandez |
-| 716 | 58 | Alexandrla Smith |
-| 717 | 57 | Danny Talbot |
-| 718 | 57 | Kenny 'Tailormade' Boyd |
-| 719 | 57 | Desire Rice |
-| 720 | 57 | Boldy Pivoty |
-| 721 | 57 | Christy Quick |
-| 722 | 57 | Angela L Charles |
-| 723 | 57 | Pinky Pink |
-| 724 | 56 | Kyle Conley |
+| 703 | 59 | Smiley Tilebuilder |
+| 704 | 59 | Danny M GR |
+| 705 | 59 | Evette Moreno |
+| 706 | 59 | Parris Wright |
+| 707 | 59 | Sugar Foot |
+| 708 | 59 | Twisty Brickfit |
+| 709 | 59 | Tamyka E Williams |
+| 710 | 59 | Tonny Williams |
+| 711 | 59 | Darrel Pemberton |
+| 712 | 59 | Fatty May |
+| 713 | 58 | Alexandrla Smith |
+| 714 | 58 | NickyJay Jones |
+| 715 | 58 | CoaCoa Myles |
+| 716 | 58 | Brandy Way |
+| 717 | 58 | Gabriela Hernandez |
+| 718 | 57 | Angela L Charles |
+| 719 | 57 | Christy Quick |
+| 720 | 57 | Pinky Pink |
+| 721 | 57 | Desire Rice |
+| 722 | 57 | Kenny 'Tailormade' Boyd |
+| 723 | 57 | Boldy Pivoty |
+| 724 | 57 | Danny Talbot |
 | 725 | 56 | Nona Harriel |
-| 726 | 56 | Chanel White |
-| 727 | 56 | QueenzMo |
-| 728 | 56 | Sally Elizabeth Hopson |
-| 729 | 56 | Maria Baez Medina |
-| 730 | 56 | Lisa Ivy |
-| 731 | 56 | jeremy92 |
-| 732 | 55 | PSD |
-| 733 | 55 | KoolKimJay |
-| 734 | 55 | nameno |
-| 735 | 55 | Vannie G |
-| 736 | 55 | Vernon Hoyt |
-| 737 | 55 | Kyle Franklin |
+| 726 | 56 | jeremy92 |
+| 727 | 56 | Lisa Ivy |
+| 728 | 56 | Maria Baez Medina |
+| 729 | 56 | Kyle Conley |
+| 730 | 56 | QueenzMo |
+| 731 | 56 | Chanel White |
+| 732 | 56 | Sally Elizabeth Hopson |
+| 733 | 55 | nameno |
+| 734 | 55 | Witty Clear |
+| 735 | 55 | PSD |
+| 736 | 55 | KoolKimJay |
+| 737 | 55 | Vernon Hoyt |
 | 738 | 55 | Jane Lame |
-| 739 | 55 | Witty Clear |
-| 740 | 54 | deeno |
+| 739 | 55 | Kyle Franklin |
+| 740 | 54 | Ace Hardware |
 | 741 | 54 | Embracing Hair |
-| 742 | 54 | Markeita Jones |
-| 743 | 54 | Ace Hardware |
-| 744 | 54 | Antoinette Kelly |
-| 745 | 54 | Katness |
-| 746 | 54 | Bubbly Slammer |
-| 747 | 54 | LAdYPOLy |
-| 748 | 54 | Kashh |
-| 749 | 54 | John Spath |
-| 750 | 54 | Dennis Ripley |
-| 751 | 53 | Heather Wilson |
+| 742 | 54 | deeno |
+| 743 | 54 | LAdYPOLy |
+| 744 | 54 | Dennis Ripley |
+| 745 | 54 | John Spath |
+| 746 | 54 | Kashh |
+| 747 | 54 | Antoinette Kelly |
+| 748 | 54 | Katness |
+| 749 | 54 | Markeita Jones |
+| 750 | 54 | Bubbly Slammer |
+| 751 | 53 | Xrandomx |
 | 752 | 53 | Clever Wrecker |
-| 753 | 53 | Xrandomx |
+| 753 | 53 | Heather Wilson |
 | 754 | 53 | Haakuu |
 | 755 | 53 | Barbramerri Tarboro |
 | 756 | 53 | Morenita Rodriguez |
