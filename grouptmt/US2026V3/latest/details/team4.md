@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 05:44:18 UTC
+# Standings for team4 as of 2026-06-07 05:44:39 UTC
 
 **Total Participants:** 1369
 
@@ -1053,12 +1053,12 @@
 | 1045 | 26 | Love GH |
 | 1046 | 26 | Lacey Decker |
 | 1047 | 26 | Shakita Moore-Bernard |
-| 1048 | 26 | Ciara Brown |
-| 1049 | 26 | Thomas Cassell |
-| 1050 | 26 | Jessica Huber |
-| 1051 | 26 | Leslie Marie WarClub |
-| 1052 | 25 | Giggy Mover |
-| 1053 | 25 | Sydney Taylor Sileno |
+| 1048 | 26 | Sydney Taylor Sileno |
+| 1049 | 26 | Ciara Brown |
+| 1050 | 26 | Thomas Cassell |
+| 1051 | 26 | Jessica Huber |
+| 1052 | 26 | Leslie Marie WarClub |
+| 1053 | 25 | Giggy Mover |
 | 1054 | 25 | moonman33 |
 | 1055 | 25 | Daisy Jaramillo |
 | 1056 | 25 | Jada Jordyn Campbell |

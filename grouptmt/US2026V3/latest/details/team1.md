@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 05:44:18 UTC
+# Standings for team1 as of 2026-06-07 05:44:39 UTC
 
 **Total Participants:** 1381
 
@@ -1343,28 +1343,28 @@
 | 1335 | 7 | Zachary Sinclair |
 | 1336 | 7 | Bryan Dell |
 | 1337 | 7 | linda m |
-| 1338 | 7 | Mary2 |
-| 1339 | 7 | Milfchaser530 |
+| 1338 | 7 | Milfchaser530 |
+| 1339 | 7 | Mary2 |
 | 1340 | 7 | Deadra Graham |
 | 1341 | 7 | KingSlim82 |
 | 1342 | 7 | Quana |
 | 1343 | 6 | Nerdy Slam |
 | 1344 | 6 | smash56! |
-| 1345 | 6 | Kyshia |
-| 1346 | 6 | Stevie Malcon |
-| 1347 | 6 | Frilly Riserbuilder |
-| 1348 | 6 | party t-rex 27 |
-| 1349 | 6 | Bruce Paléncia |
-| 1350 | 6 | NEM0228 |
-| 1351 | 6 | Shiny Crusher |
-| 1352 | 6 | Tammy Hooser |
-| 1353 | 6 | CK |
-| 1354 | 6 | Andrae Robinson |
-| 1355 | 5 | DRIFTER |
-| 1356 | 5 | Aanngie Aanngie |
-| 1357 | 5 | Jason Riley |
-| 1358 | 5 | Meshia |
-| 1359 | 5 | Tabitha Burks |
+| 1345 | 6 | Tabitha Burks |
+| 1346 | 6 | Kyshia |
+| 1347 | 6 | Stevie Malcon |
+| 1348 | 6 | Frilly Riserbuilder |
+| 1349 | 6 | party t-rex 27 |
+| 1350 | 6 | Bruce Paléncia |
+| 1351 | 6 | NEM0228 |
+| 1352 | 6 | Shiny Crusher |
+| 1353 | 6 | Tammy Hooser |
+| 1354 | 6 | CK |
+| 1355 | 6 | Andrae Robinson |
+| 1356 | 5 | DRIFTER |
+| 1357 | 5 | Aanngie Aanngie |
+| 1358 | 5 | Jason Riley |
+| 1359 | 5 | Meshia |
 | 1360 | 5 | Stephanie Zuniga Tullock |
 | 1361 | 5 | Marissa Sweet |
 | 1362 | 5 | Schuyler Carson Jackson |
