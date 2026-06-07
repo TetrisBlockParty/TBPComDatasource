@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:50:20 UTC
+# Standings for team2 as of 2026-06-07 09:50:41 UTC
 
 **Total Participants:** 1693
 
@@ -25,7 +25,7 @@
 | 17 | 3997 | Ber |
 | 18 | 3984 | Amber |
 | 19 | 3950 | Erica Dees Parks |
-| 20 | 3830 | Jewels |
+| 20 | 3875 | Jewels |
 | 21 | 3812 | Crystal M Sowden |
 | 22 | 3702 | Renee Weedling |
 | 23 | 3514 | Traci Elizabeth |
@@ -440,105 +440,105 @@
 | 432 | 124 | Jason Burris |
 | 433 | 123 | Mandy Van Laningham Bishop |
 | 434 | 123 | Simone F |
-| 435 | 122 | Maria Ward |
-| 436 | 122 | Katie Jones |
-| 437 | 122 | Kevin Patrick |
-| 438 | 122 | Heather Billodeau |
-| 439 | 120 | Keisha Robinson |
-| 440 | 120 | Kevin Mccoy |
-| 441 | 120 | Wendy McKee |
-| 442 | 120 | Adam Latin |
-| 443 | 120 | Nichole Wilson |
-| 444 | 120 | Starvinmarvin |
-| 445 | 120 | Carlos J Blas |
+| 435 | 122 | Sarah Louise Cobb |
+| 436 | 122 | Maria Ward |
+| 437 | 122 | Katie Jones |
+| 438 | 122 | Kevin Patrick |
+| 439 | 122 | Heather Billodeau |
+| 440 | 120 | Keisha Robinson |
+| 441 | 120 | Kevin Mccoy |
+| 442 | 120 | Wendy McKee |
+| 443 | 120 | Adam Latin |
+| 444 | 120 | Nichole Wilson |
+| 445 | 120 | Starvinmarvin |
 | 446 | 120 | Christine James |
-| 447 | 119 | Martha Lynn Wiggins |
-| 448 | 118 | Ceci |
+| 447 | 120 | Carlos J Blas |
+| 448 | 119 | Martha Lynn Wiggins |
 | 449 | 118 | Crystal Robinson |
-| 450 | 118 | Cindy Scott |
-| 451 | 118 | Kawana Nesbitt |
-| 452 | 117 | CAL1KAWS559 |
-| 453 | 117 | Poppy Strikerbuilder |
-| 454 | 116 | Sherri E Woods Hess |
+| 450 | 118 | Ceci |
+| 451 | 118 | Cindy Scott |
+| 452 | 118 | Kawana Nesbitt |
+| 453 | 117 | CAL1KAWS559 |
+| 454 | 117 | Poppy Strikerbuilder |
 | 455 | 116 | Joshua Dye |
-| 456 | 115 | Muffin Popper |
-| 457 | 115 | Amber Carpenter |
-| 458 | 115 | Nova |
-| 459 | 115 | Leticia Tillman |
-| 460 | 114 | Epic Framezone |
-| 461 | 113 | Meagan Grimmett Washburn |
-| 462 | 112 | Kristen |
-| 463 | 112 | LadyDeath |
-| 464 | 112 | Mike Mordhorst |
-| 465 | 111 | Joannah Capilitan |
-| 466 | 110 | Rachel M. Farnsworth |
-| 467 | 110 | Zappy Liney |
-| 468 | 110 | Wendy Durrence Jones |
-| 469 | 110 | LittleHippoEars |
-| 470 | 109 | Partin |
+| 456 | 116 | Sherri E Woods Hess |
+| 457 | 115 | Muffin Popper |
+| 458 | 115 | Amber Carpenter |
+| 459 | 115 | Nova |
+| 460 | 115 | Leticia Tillman |
+| 461 | 114 | Epic Framezone |
+| 462 | 113 | Meagan Grimmett Washburn |
+| 463 | 112 | Kristen |
+| 464 | 112 | LadyDeath |
+| 465 | 112 | Mike Mordhorst |
+| 466 | 111 | Joannah Capilitan |
+| 467 | 110 | LittleHippoEars |
+| 468 | 110 | Zappy Liney |
+| 469 | 110 | Wendy Durrence Jones |
+| 470 | 110 | Rachel M. Farnsworth |
 | 471 | 109 | Sillyk |
-| 472 | 108 | Maurii93 |
+| 472 | 109 | Partin |
 | 473 | 108 | Sherri Caillet Aucoin |
-| 474 | 107 | Carole Brown |
-| 475 | 107 | Stephanie Smith Robinson |
-| 476 | 107 | Cassandra Green |
+| 474 | 108 | Maurii93 |
+| 475 | 107 | Boldy Fitclear |
+| 476 | 107 | Carole Brown |
 | 477 | 107 | Kenzie |
-| 478 | 107 | Sam Brewster |
-| 479 | 107 | Boldy Fitclear |
-| 480 | 106 | Cassandra Milner |
-| 481 | 106 | Francesca Wagenhoffer |
-| 482 | 106 | Chummy Snapbuilder |
-| 483 | 106 | Andrea Rawson |
-| 484 | 105 | Candi Cane |
-| 485 | 105 | Gabrielle Rivera |
-| 486 | 105 | Sarah Louise Cobb |
-| 487 | 105 | Leigh Wilkerson |
+| 478 | 107 | Stephanie Smith Robinson |
+| 479 | 107 | Cassandra Green |
+| 480 | 107 | Sam Brewster |
+| 481 | 106 | Cassandra Milner |
+| 482 | 106 | Francesca Wagenhoffer |
+| 483 | 106 | Chummy Snapbuilder |
+| 484 | 106 | Andrea Rawson |
+| 485 | 105 | Saucy Wrecker |
+| 486 | 105 | Candi Cane |
+| 487 | 105 | Michael Saunders |
 | 488 | 105 | Trisha Schneider |
-| 489 | 105 | Michael Saunders |
-| 490 | 105 | Saucy Wrecker |
-| 491 | 104 | Roe Sarmiento |
-| 492 | 104 | Earline Dupuy Bordelon |
+| 489 | 105 | Leigh Wilkerson |
+| 490 | 105 | Gabrielle Rivera |
+| 491 | 104 | Earline Dupuy Bordelon |
+| 492 | 104 | Roe Sarmiento |
 | 493 | 103 | Elizabeth Kline |
-| 494 | 102 | Wendy Mcbride |
-| 495 | 102 | Nicole Sides KrazyKoop |
-| 496 | 102 | Alissa Ary |
+| 494 | 102 | Nicole Sides KrazyKoop |
+| 495 | 102 | Alissa Ary |
+| 496 | 102 | Wendy Mcbride |
 | 497 | 102 | Lively Curve |
 | 498 | 102 | Erin Moore Galloway |
-| 499 | 101 | Violet Olivares |
-| 500 | 101 | Jennifer Lalk |
-| 501 | 100 | Jessica Perkins |
-| 502 | 100 | Gluten Gremlin |
-| 503 | 100 | Michael Carmichael |
-| 504 | 100 | Alice Petterborg Barberich |
-| 505 | 100 | Nicole Suber |
-| 506 | 100 | Mandy |
-| 507 | 100 | Brenda Shannon |
-| 508 | 99 | Kaylene Rigas |
-| 509 | 99 | Melissa Abbott |
-| 510 | 98 | Mary Carriere |
+| 499 | 101 | Jennifer Lalk |
+| 500 | 101 | Violet Olivares |
+| 501 | 100 | Mandy |
+| 502 | 100 | Alice Petterborg Barberich |
+| 503 | 100 | Nicole Suber |
+| 504 | 100 | Brenda Shannon |
+| 505 | 100 | Jessica Perkins |
+| 506 | 100 | Michael Carmichael |
+| 507 | 100 | Gluten Gremlin |
+| 508 | 99 | Melissa Abbott |
+| 509 | 99 | Kaylene Rigas |
+| 510 | 98 | Lindsey Ross |
 | 511 | 98 | Sandy Rundel Holderman |
-| 512 | 98 | Justin McCray |
-| 513 | 98 | Lindsey Ross |
+| 512 | 98 | Mary Carriere |
+| 513 | 98 | Justin McCray |
 | 514 | 98 | Ashlee Johnson |
-| 515 | 97 | Abby |
-| 516 | 97 | Brooke Kaune |
-| 517 | 97 | Cozy Cascade |
-| 518 | 97 | Adri Perez |
-| 519 | 97 | Donna Segletes Kay |
+| 515 | 97 | Adri Perez |
+| 516 | 97 | Sandra Pursell |
+| 517 | 97 | Abby |
+| 518 | 97 | Brooke Kaune |
+| 519 | 97 | Cozy Cascade |
 | 520 | 97 | Tracy Tokarz |
-| 521 | 97 | Sandra Pursell |
+| 521 | 97 | Donna Segletes Kay |
 | 522 | 96 | IncrediDragon |
-| 523 | 96 | Katrien |
-| 524 | 96 | Shawn Jensen |
-| 525 | 96 | Breezy |
-| 526 | 96 | Brooklyn Todd |
+| 523 | 96 | Brooklyn Todd |
+| 524 | 96 | Breezy |
+| 525 | 96 | Shawn Jensen |
+| 526 | 96 | Katrien |
 | 527 | 95 | Ava Speedy |
 | 528 | 95 | Leighla Davis |
 | 529 | 94 | MUMBLES |
 | 530 | 94 | Paige Lynette Sohl |
-| 531 | 93 | Connie Breeden |
-| 532 | 93 | Cheery Tilefall |
-| 533 | 93 | Mataya |
+| 531 | 93 | Mataya |
+| 532 | 93 | Connie Breeden |
+| 533 | 93 | Cheery Tilefall |
 | 534 | 93 | Hillary Frank |
 | 535 | 92 | Jayda Walters |
 | 536 | 92 | Tim Moore |

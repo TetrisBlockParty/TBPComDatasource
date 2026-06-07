@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 09:50:20 UTC
+# Standings for team4 as of 2026-06-07 09:50:41 UTC
 
 **Total Participants:** 1433
 
@@ -172,16 +172,16 @@
 | 164 | 289 | Chiquita Blue |
 | 165 | 285 | TRUCHILD777$$$ |
 | 166 | 282 | Nicole |
-| 167 | 281 | Margie Thomas |
-| 168 | 281 | Misty Leigh |
-| 169 | 280 | Suzanne Carter |
-| 170 | 280 | Slimm |
-| 171 | 279 | Iforget |
-| 172 | 279 | Brick House |
-| 173 | 277 | Giggly Tilt |
-| 174 | 276 | Maria Castillo |
-| 175 | 273 | Danielle Mitchell |
-| 176 | 273 | Scamp Jones |
+| 167 | 281 | Scamp Jones |
+| 168 | 281 | Margie Thomas |
+| 169 | 281 | Misty Leigh |
+| 170 | 280 | Suzanne Carter |
+| 171 | 280 | Slimm |
+| 172 | 279 | Iforget |
+| 173 | 279 | Brick House |
+| 174 | 277 | Giggly Tilt |
+| 175 | 276 | Maria Castillo |
+| 176 | 273 | Danielle Mitchell |
 | 177 | 270 | Jojo Ann |
 | 178 | 268 | Megan Vick |
 | 179 | 267 | QueenLi86 |

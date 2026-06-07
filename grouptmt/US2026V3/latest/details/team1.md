@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 09:50:20 UTC
+# Standings for team1 as of 2026-06-07 09:50:41 UTC
 
 **Total Participants:** 1435
 
@@ -659,18 +659,18 @@
 | 651 | 64 | Jumpy Gridlock |
 | 652 | 64 | Marbama |
 | 653 | 64 | Dandy Brickfit |
-| 654 | 63 | Mellie Mel |
-| 655 | 63 | Natasha Harris |
-| 656 | 63 | Ahsokadog |
-| 657 | 63 | Shawna Passwater |
-| 658 | 63 | Poppy Smasher |
-| 659 | 63 | Yashicha Hertzock |
-| 660 | 62 | Stephen Garland |
-| 661 | 62 | Jack Mehof |
-| 662 | 62 | Stephanie Ellis |
-| 663 | 62 | Nedine Ray |
-| 664 | 61 | Raquel Ortiz |
-| 665 | 61 | Montego Allen |
+| 654 | 63 | Montego Allen |
+| 655 | 63 | Mellie Mel |
+| 656 | 63 | Natasha Harris |
+| 657 | 63 | Ahsokadog |
+| 658 | 63 | Shawna Passwater |
+| 659 | 63 | Poppy Smasher |
+| 660 | 63 | Yashicha Hertzock |
+| 661 | 62 | Stephen Garland |
+| 662 | 62 | Jack Mehof |
+| 663 | 62 | Stephanie Ellis |
+| 664 | 62 | Nedine Ray |
+| 665 | 61 | Raquel Ortiz |
 | 666 | 61 | Taz Ballard |
 | 667 | 61 | Squaw Ki Ng |
 | 668 | 61 | Desi Guerra |
