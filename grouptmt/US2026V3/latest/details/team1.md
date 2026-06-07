@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 10:32:18 UTC
+# Standings for team1 as of 2026-06-07 10:32:40 UTC
 
 **Total Participants:** 1439
 
@@ -371,103 +371,103 @@
 | 363 | 126 | Bubbly Piececlear |
 | 364 | 126 | Breezy Catcher |
 | 365 | 126 | Brittany Fells |
-| 366 | 125 | Kate Hancock Malicek |
-| 367 | 125 | LaTonya Myers |
-| 368 | 125 | Dedra M Prester |
+| 366 | 126 | Char |
+| 367 | 125 | Dedra M Prester |
+| 368 | 125 | Kate Hancock Malicek |
 | 369 | 125 | Dizzy Dashy |
-| 370 | 124 | The DUBZ |
-| 371 | 123 | Cauiasia DeJ'ae |
+| 370 | 125 | LaTonya Myers |
+| 371 | 124 | The DUBZ |
 | 372 | 123 | Rachael Bakowicz Edwards |
-| 373 | 122 | Yashica Smith |
+| 373 | 123 | Cauiasia DeJ'ae |
 | 374 | 122 | Xana Zania Bopp |
-| 375 | 121 | Shanaa Germany Crittenden |
-| 376 | 121 | Tiana Monique |
-| 377 | 121 | Tee Spinks |
-| 378 | 120 | Teri Marie Clayton |
-| 379 | 120 | Katrina Ramey |
-| 380 | 120 | Daddy |
-| 381 | 120 | Tanya Clayton |
+| 375 | 122 | Yashica Smith |
+| 376 | 121 | Shanaa Germany Crittenden |
+| 377 | 121 | Tiana Monique |
+| 378 | 121 | Tee Spinks |
+| 379 | 120 | Daddy |
+| 380 | 120 | Tanya Clayton |
+| 381 | 120 | Teri Marie Clayton |
 | 382 | 120 | Guy Incognito |
-| 383 | 119 | Lexx Robins |
-| 384 | 119 | Kelvin Cook |
-| 385 | 118 | izzybella |
-| 386 | 118 | Hasty Pivoty |
-| 387 | 117 | MonaSparks |
-| 388 | 117 | Choc |
-| 389 | 116 | Shalya Terry |
-| 390 | 116 | Douglas Price |
-| 391 | 115 | BabyCakes |
-| 392 | 115 | wmedina67 |
-| 393 | 115 | Ashleyy Netchert |
-| 394 | 114 | LAhoneybun82 |
-| 395 | 114 | Faith Armone |
-| 396 | 114 | Nina Davis |
-| 397 | 113 | Shakuria Cortia Burney |
-| 398 | 112 | GamerQueenDS |
-| 399 | 112 | Nyhlah Patterson |
-| 400 | 112 | Jennah |
-| 401 | 111 | Ad Doctor |
-| 402 | 111 | Daring Blockclear |
-| 403 | 110 | Slinky Clearzone |
+| 383 | 120 | Katrina Ramey |
+| 384 | 119 | Lexx Robins |
+| 385 | 119 | Kelvin Cook |
+| 386 | 118 | izzybella |
+| 387 | 118 | Hasty Pivoty |
+| 388 | 117 | MonaSparks |
+| 389 | 117 | Choc |
+| 390 | 116 | Shalya Terry |
+| 391 | 116 | Douglas Price |
+| 392 | 115 | BabyCakes |
+| 393 | 115 | wmedina67 |
+| 394 | 115 | Ashleyy Netchert |
+| 395 | 114 | LAhoneybun82 |
+| 396 | 114 | Faith Armone |
+| 397 | 114 | Nina Davis |
+| 398 | 113 | Shakuria Cortia Burney |
+| 399 | 112 | GamerQueenDS |
+| 400 | 112 | Nyhlah Patterson |
+| 401 | 112 | Jennah |
+| 402 | 111 | Ad Doctor |
+| 403 | 111 | Daring Blockclear |
 | 404 | 110 | Chandler Magee |
-| 405 | 110 | Nate Myers |
-| 406 | 110 | Nisha Sunshine Jenkins |
-| 407 | 109 | Cece Fowler |
+| 405 | 110 | Nisha Sunshine Jenkins |
+| 406 | 110 | Nate Myers |
+| 407 | 110 | Slinky Clearzone |
 | 408 | 109 | Tamika Fisher |
-| 409 | 109 | Bambi Johnson |
-| 410 | 109 | Manda Allen |
-| 411 | 109 | Tamara Johnson-Carter |
-| 412 | 109 | Frances Davis |
-| 413 | 108 | Char |
+| 409 | 109 | Manda Allen |
+| 410 | 109 | Bambi Johnson |
+| 411 | 109 | Frances Davis |
+| 412 | 109 | Cece Fowler |
+| 413 | 109 | Tamara Johnson-Carter |
 | 414 | 107 | Laurie Napper |
 | 415 | 106 | Mister Reid |
-| 416 | 105 | Mighty Dropper |
-| 417 | 105 | Analiza Ramos |
-| 418 | 105 | Maria |
-| 419 | 105 | Mario Meliodas |
-| 420 | 105 | Kelley Johnson |
-| 421 | 105 | Ja'mice Nelson |
-| 422 | 105 | QueenShay AllGood |
+| 416 | 105 | QueenShay AllGood |
+| 417 | 105 | Ja'mice Nelson |
+| 418 | 105 | Mario Meliodas |
+| 419 | 105 | Kelley Johnson |
+| 420 | 105 | Maria |
+| 421 | 105 | Analiza Ramos |
+| 422 | 105 | Mighty Dropper |
 | 423 | 104 | Bella |
-| 424 | 104 | Li-Li Ratliff |
-| 425 | 104 | Ahvae Lee |
+| 424 | 104 | Ahvae Lee |
+| 425 | 104 | Li-Li Ratliff |
 | 426 | 103 | Lynnette WheelerBushnell |
-| 427 | 102 | Hyedie Badie |
-| 428 | 102 | Sarah Steckbauer |
-| 429 | 102 | Phillip Vasquez |
-| 430 | 102 | Christi Walker Patton |
-| 431 | 101 | Wacky Wipepiece |
-| 432 | 101 | Elaine Pauley |
-| 433 | 101 | 大竹直之 |
-| 434 | 101 | Mommy Frank |
-| 435 | 101 | Joana Thompson |
-| 436 | 101 | star |
-| 437 | 100 | Tessa Gaskin |
-| 438 | 100 | Oldheads |
-| 439 | 100 | Mary Phillippi Blanton |
-| 440 | 100 | $hort Dog |
-| 441 | 100 | Jean Regis |
-| 442 | 100 | Kennedi Brazziel |
-| 443 | 100 | Cornelius Neal |
-| 444 | 100 | Kesha Brady |
-| 445 | 100 | Seddrick |
-| 446 | 100 | Natasha Rucker |
-| 447 | 100 | Leavon Smith |
-| 448 | 100 | Deveda Williams |
-| 449 | 99 | Mahagony Small |
-| 450 | 99 | ChunLi |
-| 451 | 99 | Ciera Peace |
-| 452 | 99 | SeanSanchez |
-| 453 | 98 | Sharee Robinson |
-| 454 | 98 | Shannon Carriger |
-| 455 | 98 | Michael Smith |
-| 456 | 98 | Dorian Griffin |
-| 457 | 97 | Nichole Horsley-Conn |
-| 458 | 97 | Erin Sabol |
-| 459 | 97 | Twisty Cascadeclear |
-| 460 | 97 | Shanell Thomas |
-| 461 | 97 | Andrew Jay Vaughn |
-| 462 | 97 | NewEve |
+| 427 | 102 | Phillip Vasquez |
+| 428 | 102 | Christi Walker Patton |
+| 429 | 102 | Hyedie Badie |
+| 430 | 102 | Sarah Steckbauer |
+| 431 | 101 | Mommy Frank |
+| 432 | 101 | star |
+| 433 | 101 | Joana Thompson |
+| 434 | 101 | Wacky Wipepiece |
+| 435 | 101 | Elaine Pauley |
+| 436 | 101 | 大竹直之 |
+| 437 | 100 | Oldheads |
+| 438 | 100 | Tessa Gaskin |
+| 439 | 100 | Natasha Rucker |
+| 440 | 100 | Kesha Brady |
+| 441 | 100 | Mary Phillippi Blanton |
+| 442 | 100 | Cornelius Neal |
+| 443 | 100 | Kennedi Brazziel |
+| 444 | 100 | Deveda Williams |
+| 445 | 100 | $hort Dog |
+| 446 | 100 | Leavon Smith |
+| 447 | 100 | Jean Regis |
+| 448 | 100 | Seddrick |
+| 449 | 99 | SeanSanchez |
+| 450 | 99 | Mahagony Small |
+| 451 | 99 | ChunLi |
+| 452 | 99 | Ciera Peace |
+| 453 | 98 | Shannon Carriger |
+| 454 | 98 | Dorian Griffin |
+| 455 | 98 | Sharee Robinson |
+| 456 | 98 | Michael Smith |
+| 457 | 97 | Shanell Thomas |
+| 458 | 97 | NewEve |
+| 459 | 97 | Andrew Jay Vaughn |
+| 460 | 97 | Twisty Cascadeclear |
+| 461 | 97 | Nichole Horsley-Conn |
+| 462 | 97 | Erin Sabol |
 | 463 | 97 | Kristie |
 | 464 | 97 | Lootch |
 | 465 | 96 | Sherri Keys |

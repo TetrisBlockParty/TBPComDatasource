@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 10:32:18 UTC
+# Standings for team2 as of 2026-06-07 10:32:40 UTC
 
 **Total Participants:** 1698
 
@@ -265,60 +265,60 @@
 | 257 | 223 | SilentBuffalo |
 | 258 | 221 | Bianca Woodruff |
 | 259 | 220 | Flashy Basegrid |
-| 260 | 219 | Cathy Tippett |
-| 261 | 219 | Ariel Gundersen |
-| 262 | 219 | Stella |
+| 260 | 219 | Ariel Gundersen |
+| 261 | 219 | Stella |
+| 262 | 219 | Cathy Tippett |
 | 263 | 218 | Logan Duffey |
 | 264 | 217 | Amanda Priddy |
-| 265 | 216 | Lyric Price |
-| 266 | 216 | Swanky Fitline |
-| 267 | 214 | Sabrina Hardrick |
-| 268 | 214 | Stephany Green |
-| 269 | 209 | Chill Line |
-| 270 | 209 | Patria Osuoha |
-| 271 | 207 | Joanna Trevin Thompson |
-| 272 | 207 | Amber Cogdill |
-| 273 | 206 | Jodi Johnson |
-| 274 | 206 | Liseth Vasquez |
-| 275 | 205 | Melisa |
+| 265 | 216 | Alicia Kinney |
+| 266 | 216 | Lyric Price |
+| 267 | 216 | Swanky Fitline |
+| 268 | 214 | Sabrina Hardrick |
+| 269 | 214 | Stephany Green |
+| 270 | 209 | Chill Line |
+| 271 | 209 | Patria Osuoha |
+| 272 | 207 | Joanna Trevin Thompson |
+| 273 | 207 | Amber Cogdill |
+| 274 | 206 | Jodi Johnson |
+| 275 | 206 | Liseth Vasquez |
 | 276 | 205 | Karly Moore |
-| 277 | 201 | Danielle Pack Lewellen |
-| 278 | 201 | Jeffrey Smith |
-| 279 | 201 | Melissa Nash |
-| 280 | 201 | Anthony Swift |
-| 281 | 200 | Precious Womack |
-| 282 | 200 | Sarah Grundisch |
-| 283 | 200 | Physhie |
+| 277 | 205 | Melisa |
+| 278 | 201 | Anthony Swift |
+| 279 | 201 | Danielle Pack Lewellen |
+| 280 | 201 | Jeffrey Smith |
+| 281 | 201 | Melissa Nash |
+| 282 | 200 | ShiverMeSplinter |
+| 283 | 200 | Precious Womack |
 | 284 | 200 | Al Smith Jr |
-| 285 | 200 | ShiverMeSplinter |
-| 286 | 200 | Eric Wayne Maschman |
-| 287 | 200 | August Christy Lathrop |
-| 288 | 200 | Nathan Walker |
-| 289 | 200 | Tony Medina |
-| 290 | 198 | Amy Taylor Pomerenk |
-| 291 | 196 | Greenie |
-| 292 | 195 | Pamela Raye |
-| 293 | 195 | Thomas Tyrone |
-| 294 | 195 | Bb |
-| 295 | 195 | Laverne Ellis Blair |
-| 296 | 193 | Jason Cunningham |
-| 297 | 192 | Teddy Williams |
-| 298 | 192 | Greta Warden |
-| 299 | 192 | Jill Goff |
-| 300 | 191 | Marilyn Mendoza |
+| 285 | 200 | Sarah Grundisch |
+| 286 | 200 | Tony Medina |
+| 287 | 200 | Nathan Walker |
+| 288 | 200 | August Christy Lathrop |
+| 289 | 200 | Eric Wayne Maschman |
+| 290 | 200 | Physhie |
+| 291 | 198 | Amy Taylor Pomerenk |
+| 292 | 196 | Greenie |
+| 293 | 195 | Laverne Ellis Blair |
+| 294 | 195 | Thomas Tyrone |
+| 295 | 195 | Pamela Raye |
+| 296 | 195 | Bb |
+| 297 | 193 | Jason Cunningham |
+| 298 | 192 | Teddy Williams |
+| 299 | 192 | Greta Warden |
+| 300 | 192 | Jill Goff |
 | 301 | 191 | Jessica Christine |
-| 302 | 188 | Ray Daisy |
-| 303 | 188 | Theresa Huddleston |
-| 304 | 187 | Curly Windbreaker |
-| 305 | 187 | Alicia Kinney |
+| 302 | 191 | Marilyn Mendoza |
+| 303 | 188 | Ray Daisy |
+| 304 | 188 | Theresa Huddleston |
+| 305 | 187 | Curly Windbreaker |
 | 306 | 185 | Krystle L Coon |
 | 307 | 184 | Theresa Hollinger |
 | 308 | 184 | SEH |
 | 309 | 182 | Alonzo Reed |
 | 310 | 181 | Jamie Adams |
-| 311 | 180 | Loopy Dropper |
-| 312 | 180 | Skye Ehret |
-| 313 | 180 | phamous1 |
+| 311 | 180 | Skye Ehret |
+| 312 | 180 | phamous1 |
+| 313 | 180 | Loopy Dropper |
 | 314 | 180 | Happy |
 | 315 | 180 | Dawn Kroptavich |
 | 316 | 179 | Santara Ferguson |
@@ -326,36 +326,36 @@
 | 318 | 177 | Jennifer McClure |
 | 319 | 177 | Rick |
 | 320 | 176 | Kim Hunt |
-| 321 | 175 | Michelle M Braley |
-| 322 | 175 | Amanda Bottorff |
-| 323 | 175 | Tina Marie |
-| 324 | 175 | Epic Tilemaker |
-| 325 | 175 | Flashy Hitter |
-| 326 | 175 | Lashanda Bertram |
-| 327 | 174 | ZBee |
-| 328 | 174 | Rocroc mo |
+| 321 | 175 | Lashanda Bertram |
+| 322 | 175 | Tina Marie |
+| 323 | 175 | Amanda Bottorff |
+| 324 | 175 | Flashy Hitter |
+| 325 | 175 | Michelle M Braley |
+| 326 | 175 | Epic Tilemaker |
+| 327 | 174 | Rocroc mo |
+| 328 | 174 | ZBee |
 | 329 | 174 | Jerry L Morales |
 | 330 | 172 | Carolyn McNaughton |
-| 331 | 172 | Victoria Pale |
-| 332 | 172 | Mikia Stokes |
+| 331 | 172 | Mikia Stokes |
+| 332 | 172 | Victoria Pale |
 | 333 | 170 | Harper |
 | 334 | 170 | Bengy Lead |
-| 335 | 169 | Derrick |
-| 336 | 169 | Angie Bishop |
-| 337 | 168 | Chasity Simpson |
-| 338 | 168 | StacyBabee |
-| 339 | 168 | Danielle Lyons |
-| 340 | 168 | Avie Lou |
-| 341 | 168 | Missy Renia |
-| 342 | 168 | Spicy Risegrid |
+| 335 | 169 | Angie Bishop |
+| 336 | 169 | Derrick |
+| 337 | 168 | Danielle Lyons |
+| 338 | 168 | Avie Lou |
+| 339 | 168 | StacyBabee |
+| 340 | 168 | Chasity Simpson |
+| 341 | 168 | Spicy Risegrid |
+| 342 | 168 | Missy Renia |
 | 343 | 167 | Spicy Snapclear |
-| 344 | 166 | Melmel |
-| 345 | 166 | Kimmyc |
+| 344 | 166 | Kimmyc |
+| 345 | 166 | Melmel |
 | 346 | 165 | Lindsey Ford |
 | 347 | 165 | Sassy Twistbuilder |
-| 348 | 164 | Aldotfus Williams |
-| 349 | 164 | Cara Rivera |
-| 350 | 164 | Elliott Mikila |
+| 348 | 164 | Cara Rivera |
+| 349 | 164 | Elliott Mikila |
+| 350 | 164 | Aldotfus Williams |
 | 351 | 163 | Zany Cascader |
 | 352 | 162 | Lisa Allen Frisk |
 | 353 | 162 | Wacky Holder |
