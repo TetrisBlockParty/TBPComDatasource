@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 23:18:19 UTC
+# Standings for team2 as of 2026-06-07 23:18:41 UTC
 
 **Total Participants:** 1949
 
@@ -19,8 +19,8 @@
 | 11 | 6188 | Dapper Rollout |
 | 12 | 6114 | Morgann McDaniel |
 | 13 | 6114 | Tim Ix |
-| 14 | 5961 | Brandon Brown |
-| 15 | 5786 | Christina Jambard Sampier |
+| 14 | 6086 | Christina Jambard Sampier |
+| 15 | 5961 | Brandon Brown |
 | 16 | 5704 | Cori Keberlein |
 | 17 | 5338 | Renee Weedling |
 | 18 | 5150 | boblawboblaw |
@@ -101,10 +101,10 @@
 | 93 | 988 | Dane Marko |
 | 94 | 970 | Bridget N Jonathan Franz |
 | 95 | 966 | Allison Jarman |
-| 96 | 916 | Amber Salazar |
-| 97 | 908 | Jazzy Faller |
-| 98 | 899 | Marie Luciano |
-| 99 | 894 | Marquetta Johnson |
+| 96 | 929 | Marquetta Johnson |
+| 97 | 916 | Amber Salazar |
+| 98 | 908 | Jazzy Faller |
+| 99 | 899 | Marie Luciano |
 | 100 | 880 | Renee Freeman Jacobson |
 | 101 | 871 | haune |
 | 102 | 864 | Bon Lynn |
@@ -190,8 +190,8 @@
 | 182 | 425 | Janelle Edgecombe |
 | 183 | 424 | Danielle Blount |
 | 184 | 418 | Twisty Buildgrid |
-| 185 | 416 | Cristi Doris |
-| 186 | 416 | Suki Jacobs |
+| 185 | 416 | Suki Jacobs |
+| 186 | 416 | Cristi Doris |
 | 187 | 416 | Frilly Dashfit |
 | 188 | 414 | Tara |
 | 189 | 414 | Lyric Price |
@@ -202,8 +202,8 @@
 | 194 | 402 | Zesty Strikerbuilder |
 | 195 | 401 | Christina Maria |
 | 196 | 394 | Joni Michelle Morgan |
-| 197 | 392 | H |
-| 198 | 392 | Bri St Peter |
+| 197 | 392 | Bri St Peter |
+| 198 | 392 | H |
 | 199 | 391 | La chulis |
 | 200 | 389 | Sara Perkins |
 | 201 | 388 | Lisa Underwood Desmond |
@@ -211,9 +211,9 @@
 | 203 | 383 | Jenna Stahl |
 | 204 | 382 | Nikki Hayes |
 | 205 | 381 | Joslyn Johnson |
-| 206 | 376 | AndyJo |
-| 207 | 376 | Jamie Fenyus |
-| 208 | 376 | Monique Frantz |
+| 206 | 376 | Jamie Fenyus |
+| 207 | 376 | Monique Frantz |
+| 208 | 376 | AndyJo |
 | 209 | 375 | Milad Arzani |
 | 210 | 375 | Branden Frankowski |
 | 211 | 373 | Hoppy Mover |
@@ -223,8 +223,8 @@
 | 215 | 367 | Justin McCray |
 | 216 | 364 | Loopy Curvebuilder |
 | 217 | 363 | Brenda Jones |
-| 218 | 362 | Jat |
-| 219 | 362 | Jennifer Smith |
+| 218 | 362 | Jennifer Smith |
+| 219 | 362 | Jat |
 | 220 | 360 | Jacob Carpenter |
 | 221 | 358 | Breeana Bennett |
 | 222 | 354 | Lindsey Ford |
@@ -233,24 +233,24 @@
 | 225 | 347 | Traci Abern |
 | 226 | 346 | Katrien |
 | 227 | 344 | Nikki EightySixed |
-| 228 | 341 | Ratchet |
-| 229 | 341 | Chasity Simpson |
+| 228 | 341 | Chasity Simpson |
+| 229 | 341 | Ratchet |
 | 230 | 340 | Marge Cromer |
 | 231 | 328 | Keri Mears |
 | 232 | 328 | Tim Tim |
-| 233 | 325 | Fudgie Pie |
-| 234 | 325 | Flashy Twistline |
-| 235 | 324 | DayDreamer79 |
-| 236 | 323 | Shannon Wilson |
-| 237 | 323 | Xandrea Jones |
-| 238 | 322 | Pam Bauder Ludwig |
-| 239 | 320 | Linda Guay |
-| 240 | 318 | Snappy Combo |
-| 241 | 312 | Hypee |
-| 242 | 310 | Greta Warden |
-| 243 | 309 | Swanky Fitline |
-| 244 | 308 | Heather Burgett |
-| 245 | 308 | Glitzy Base |
+| 233 | 327 | Glitzy Base |
+| 234 | 325 | Fudgie Pie |
+| 235 | 325 | Flashy Twistline |
+| 236 | 324 | DayDreamer79 |
+| 237 | 323 | Shannon Wilson |
+| 238 | 323 | Xandrea Jones |
+| 239 | 322 | Pam Bauder Ludwig |
+| 240 | 320 | Linda Guay |
+| 241 | 318 | Snappy Combo |
+| 242 | 312 | Hypee |
+| 243 | 310 | Greta Warden |
+| 244 | 309 | Swanky Fitline |
+| 245 | 308 | Heather Burgett |
 | 246 | 308 | Hector |
 | 247 | 306 | Brittney Williams |
 | 248 | 305 | Norma Ortiz |
@@ -396,17 +396,17 @@
 | 388 | 191 | Jessica Christine |
 | 389 | 191 | Nano. |
 | 390 | 190 | Naomi Walker |
-| 391 | 190 | Lisa Allen Frisk |
-| 392 | 190 | Starvinmarvin |
-| 393 | 189 | Danielle Lyons |
-| 394 | 188 | Rachel Nilles |
+| 391 | 190 | Saucy Wrecker |
+| 392 | 190 | Lisa Allen Frisk |
+| 393 | 190 | Starvinmarvin |
+| 394 | 189 | Danielle Lyons |
 | 395 | 188 | Chummy Faller |
-| 396 | 186 | Gabrielle Wilson |
-| 397 | 186 | Mouh Med |
-| 398 | 185 | KazzyKay |
-| 399 | 185 | Monee Stronger |
-| 400 | 185 | Vicki Flippo |
-| 401 | 185 | Saucy Wrecker |
+| 396 | 188 | Rachel Nilles |
+| 397 | 186 | Gabrielle Wilson |
+| 398 | 186 | Mouh Med |
+| 399 | 185 | KazzyKay |
+| 400 | 185 | Monee Stronger |
+| 401 | 185 | Vicki Flippo |
 | 402 | 185 | Krystle L Coon |
 | 403 | 184 | Jumpy Matchbuilder |
 | 404 | 183 | andee |
@@ -1848,95 +1848,95 @@
 | 1840 | 10 | LilMs101 |
 | 1841 | 10 | Melissa Dyer |
 | 1842 | 10 | Hasty Linker |
-| 1843 | 10 | April Appleton |
-| 1844 | 10 | Clever Clusterfit |
-| 1845 | 10 | Duck |
+| 1843 | 10 | Clever Clusterfit |
+| 1844 | 10 | Duck |
+| 1845 | 10 | Joey Grillo |
 | 1846 | 10 | Laura Rake |
 | 1847 | 10 | Peppy Clusterer |
-| 1848 | 10 | Lorrie Girardi |
-| 1849 | 10 | Crasher |
-| 1850 | 10 | Joey Grillo |
-| 1851 | 10 | ANNIE CHAOS |
-| 1852 | 10 | Jimberlee Akuna |
-| 1853 | 10 | crysamoctama57 |
+| 1848 | 10 | Crasher |
+| 1849 | 10 | ANNIE CHAOS |
+| 1850 | 10 | Lorrie Girardi |
+| 1851 | 10 | crysamoctama57 |
+| 1852 | 10 | April Appleton |
+| 1853 | 10 | Jimberlee Akuna |
 | 1854 | 9 | Road Runnersauraus |
-| 1855 | 9 | Angela-Josh Millan |
-| 1856 | 9 | Shawn Bossuot |
-| 1857 | 9 | Catalina Castro |
-| 1858 | 9 | Yuhh |
-| 1859 | 9 | zee |
-| 1860 | 9 | Cordillia Barela |
-| 1861 | 9 | Bethany Gerber |
-| 1862 | 9 | Lindsey Butler |
-| 1863 | 9 | Cheery Striker |
-| 1864 | 9 | Giggly Spinblock |
-| 1865 | 9 | Dapper Corner |
-| 1866 | 9 | yep |
-| 1867 | 9 | Lori Loup |
-| 1868 | 9 | Gigi |
-| 1869 | 9 | Naomi Christiansen |
-| 1870 | 9 | Jeff Mullins |
-| 1871 | 9 | Terri Ramsey |
-| 1872 | 9 | Snazzy Cascadezone |
-| 1873 | 8 | Jon Torres |
-| 1874 | 8 | Mariah Mandel |
-| 1875 | 8 | Crystal Alexander |
-| 1876 | 8 | Tina Doyens Munis |
-| 1877 | 8 | Zippy Balance |
-| 1878 | 8 | Jumpy Twistslam |
-| 1879 | 8 | Funky Slide |
-| 1880 | 8 | Perky Party |
-| 1881 | 8 | Disguised Duck |
-| 1882 | 8 | Lissa |
-| 1883 | 8 | PortersWife87 |
-| 1884 | 8 | Elizabeth Miller |
-| 1885 | 8 | Sammi Jo |
-| 1886 | 7 | Carl Gadberry |
-| 1887 | 7 | Michael Bond |
+| 1855 | 9 | Emily Ackley |
+| 1856 | 9 | Angela-Josh Millan |
+| 1857 | 9 | Shawn Bossuot |
+| 1858 | 9 | Catalina Castro |
+| 1859 | 9 | Yuhh |
+| 1860 | 9 | zee |
+| 1861 | 9 | Cordillia Barela |
+| 1862 | 9 | Bethany Gerber |
+| 1863 | 9 | Lindsey Butler |
+| 1864 | 9 | Cheery Striker |
+| 1865 | 9 | Giggly Spinblock |
+| 1866 | 9 | Dapper Corner |
+| 1867 | 9 | yep |
+| 1868 | 9 | Lori Loup |
+| 1869 | 9 | Gigi |
+| 1870 | 9 | Naomi Christiansen |
+| 1871 | 9 | Jeff Mullins |
+| 1872 | 9 | Terri Ramsey |
+| 1873 | 9 | Snazzy Cascadezone |
+| 1874 | 8 | Jon Torres |
+| 1875 | 8 | Mariah Mandel |
+| 1876 | 8 | Crystal Alexander |
+| 1877 | 8 | Tina Doyens Munis |
+| 1878 | 8 | Zippy Balance |
+| 1879 | 8 | Jumpy Twistslam |
+| 1880 | 8 | Funky Slide |
+| 1881 | 8 | Perky Party |
+| 1882 | 8 | Elizabeth Miller |
+| 1883 | 8 | Lissa |
+| 1884 | 8 | Disguised Duck |
+| 1885 | 8 | PortersWife87 |
+| 1886 | 8 | Sammi Jo |
+| 1887 | 7 | bluesky |
 | 1888 | 7 | Lush Tile |
 | 1889 | 7 | Ashley |
 | 1890 | 7 | Chirpy Shiftspin |
 | 1891 | 7 | Pico |
 | 1892 | 7 | Marshall Wilson |
-| 1893 | 7 | Ephysta |
-| 1894 | 7 | bluesky |
-| 1895 | 7 | Elizabeth Barnhart Floyd |
-| 1896 | 7 | VikinGs Vnm |
-| 1897 | 7 | Epic Balanceblock |
-| 1898 | 7 | michael |
-| 1899 | 7 | StacyK |
-| 1900 | 7 | Mighty Tiltpiece |
-| 1901 | 7 | John Guider |
-| 1902 | 7 | Brenda Ohaus Facher |
-| 1903 | 7 | Janice Simpson |
-| 1904 | 7 | Elizabeth Elaine Coursey |
-| 1905 | 7 | Leslie Baker |
-| 1906 | 7 | Holly Riley |
-| 1907 | 7 | Judy Burkhalter |
-| 1908 | 7 | Crystal King |
-| 1909 | 7 | Flashy Cascadeclear |
-| 1910 | 6 | Jessie |
-| 1911 | 6 | Cara Douglas |
-| 1912 | 6 | Cheeky Dashpiece |
-| 1913 | 6 | Bowling girl |
-| 1914 | 6 | Michelle Brown |
-| 1915 | 6 | Cranky Zonebuilder |
-| 1916 | 6 | Jenea Colvin |
+| 1893 | 7 | VikinGs Vnm |
+| 1894 | 7 | Ephysta |
+| 1895 | 7 | Epic Balanceblock |
+| 1896 | 7 | Elizabeth Barnhart Floyd |
+| 1897 | 7 | Michael Bond |
+| 1898 | 7 | Carl Gadberry |
+| 1899 | 7 | michael |
+| 1900 | 7 | StacyK |
+| 1901 | 7 | Mighty Tiltpiece |
+| 1902 | 7 | John Guider |
+| 1903 | 7 | Brenda Ohaus Facher |
+| 1904 | 7 | Janice Simpson |
+| 1905 | 7 | Elizabeth Elaine Coursey |
+| 1906 | 7 | Leslie Baker |
+| 1907 | 7 | Holly Riley |
+| 1908 | 7 | Judy Burkhalter |
+| 1909 | 7 | Crystal King |
+| 1910 | 7 | Flashy Cascadeclear |
+| 1911 | 6 | Jessie |
+| 1912 | 6 | Cara Douglas |
+| 1913 | 6 | Cheeky Dashpiece |
+| 1914 | 6 | Bowling girl |
+| 1915 | 6 | Michelle Brown |
+| 1916 | 6 | Cranky Zonebuilder |
 | 1917 | 6 | Anna Hale |
-| 1918 | 6 | MD |
-| 1919 | 6 | Alyssa Malay |
+| 1918 | 6 | Alyssa Malay |
+| 1919 | 6 | MD |
 | 1920 | 6 | Hyper Framezone |
 | 1921 | 6 | Slay bestie |
 | 1922 | 6 | Ryan D. Norcross |
-| 1923 | 5 | sam |
-| 1924 | 5 | Splashy |
-| 1925 | 5 | Cheery Filler |
-| 1926 | 5 | Loony Matcher |
-| 1927 | 5 | Karen Moore |
-| 1928 | 5 | Quirky Liney |
-| 1929 | 5 | Tosha Dickson |
+| 1923 | 6 | Jenea Colvin |
+| 1924 | 5 | sam |
+| 1925 | 5 | Splashy |
+| 1926 | 5 | Cheery Filler |
+| 1927 | 5 | Loony Matcher |
+| 1928 | 5 | Karen Moore |
+| 1929 | 5 | Quirky Liney |
 | 1930 | 5 | Twisty Tower |
-| 1931 | 5 | Emily Ackley |
+| 1931 | 5 | Tosha Dickson |
 | 1932 | 5 | Mala Phonchanthasone |
 | 1933 | 5 | Chilly Twistbuilder |
 | 1934 | 5 | Chris Weddel |
