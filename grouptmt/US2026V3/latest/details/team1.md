@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 17:24:19 UTC
+# Standings for team1 as of 2026-06-07 17:24:40 UTC
 
 **Total Participants:** 1520
 
@@ -1164,28 +1164,28 @@
 | 1156 | 27 | MsSassygee Boom |
 | 1157 | 27 | katia |
 | 1158 | 27 | Zesty Fitclear |
-| 1159 | 27 | Mrs |
-| 1160 | 27 | Shaylyn Lockwood |
-| 1161 | 27 | Kidgib5 |
-| 1162 | 27 | marie |
-| 1163 | 27 | Venna Cooper |
-| 1164 | 27 | Antoinette GallowayJohnson |
-| 1165 | 26 | Hoppy Buildsnap |
-| 1166 | 26 | Pastors Du Bose |
-| 1167 | 26 | Rose Smith |
-| 1168 | 26 | jae |
-| 1169 | 26 | Teena K Macon |
-| 1170 | 26 | Batty B |
-| 1171 | 26 | Lively Strikesnap |
-| 1172 | 26 | Sylvia Holst |
-| 1173 | 26 | X6TRAUMA9X |
-| 1174 | 26 | Ana Torres |
-| 1175 | 26 | Silly Shatterline |
-| 1176 | 26 | Caitlin Michele |
-| 1177 | 26 | Kala Miller |
-| 1178 | 25 | Heru Ogun Yeshua EL |
-| 1179 | 25 | Thelma Samuels |
-| 1180 | 25 | Deantenique Smalls |
+| 1159 | 27 | X6TRAUMA9X |
+| 1160 | 27 | Mrs |
+| 1161 | 27 | Shaylyn Lockwood |
+| 1162 | 27 | Kidgib5 |
+| 1163 | 27 | marie |
+| 1164 | 27 | Venna Cooper |
+| 1165 | 27 | Antoinette GallowayJohnson |
+| 1166 | 26 | Sylvia Holst |
+| 1167 | 26 | Kala Miller |
+| 1168 | 26 | Silly Shatterline |
+| 1169 | 26 | Caitlin Michele |
+| 1170 | 26 | Ana Torres |
+| 1171 | 26 | Hoppy Buildsnap |
+| 1172 | 26 | Lively Strikesnap |
+| 1173 | 26 | Batty B |
+| 1174 | 26 | Teena K Macon |
+| 1175 | 26 | jae |
+| 1176 | 26 | Pastors Du Bose |
+| 1177 | 26 | Rose Smith |
+| 1178 | 25 | Deantenique Smalls |
+| 1179 | 25 | Heru Ogun Yeshua EL |
+| 1180 | 25 | Thelma Samuels |
 | 1181 | 25 | Nicole Freeman |
 | 1182 | 25 | PennyCandee |
 | 1183 | 25 | Linny Loop |
