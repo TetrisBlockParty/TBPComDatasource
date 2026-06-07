@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 07:08:40 UTC
+# Standings for team1 as of 2026-06-07 07:09:18 UTC
 
 **Total Participants:** 1410
 
@@ -129,11 +129,11 @@
 | 121 | 404 | Hyper Slamdrop |
 | 122 | 404 | Jason Mungin |
 | 123 | 401 | Shell Lewis |
-| 124 | 393 | Tobey Marberry |
-| 125 | 393 | SPNLover24 |
-| 126 | 389 | GrkGdess |
-| 127 | 387 | Novaa |
-| 128 | 383 | Chris Caniglia |
+| 124 | 398 | Chris Caniglia |
+| 125 | 393 | Tobey Marberry |
+| 126 | 393 | SPNLover24 |
+| 127 | 389 | GrkGdess |
+| 128 | 387 | Novaa |
 | 129 | 378 | Jamal Itzjusmall Chambers |
 | 130 | 377 | AF Cruz |
 | 131 | 374 | Lashawn Wallace |
