@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 13:16:18 UTC
+# Standings for team1 as of 2026-06-07 13:16:41 UTC
 
 **Total Participants:** 1464
 
@@ -40,8 +40,8 @@
 | 32 | 1938 | Linzie Marie |
 | 33 | 1855 | Speedy Spinblock |
 | 34 | 1785 | Jamie Willis |
-| 35 | 1677 | Markeeta Lipscomb |
-| 36 | 1632 | Brian Stackhouse |
+| 35 | 1680 | Brian Stackhouse |
+| 36 | 1677 | Markeeta Lipscomb |
 | 37 | 1550 | Cool Bridger |
 | 38 | 1500 | Chris Russell |
 | 39 | 1453 | Janet Cooke |
@@ -93,7 +93,7 @@
 | 85 | 678 | No_Other_Choice |
 | 86 | 677 | Eartha Brown |
 | 87 | 668 | Jonathan Vee Jay |
-| 88 | 665 | Moomoo |
+| 88 | 667 | Moomoo |
 | 89 | 661 | Kellie Hall |
 | 90 | 661 | Bre Maugh |
 | 91 | 620 | IamJust Neyamijah Washington Sr. |

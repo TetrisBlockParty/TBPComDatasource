@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 13:16:18 UTC
+# Standings for team2 as of 2026-06-07 13:16:41 UTC
 
 **Total Participants:** 1741
 
@@ -357,16 +357,16 @@
 | 349 | 170 | Bengy Lead |
 | 350 | 169 | Angie Bishop |
 | 351 | 169 | Derrick |
-| 352 | 169 | Jaimie Walters |
-| 353 | 168 | Martha Lynn Wiggins |
-| 354 | 168 | Missy Renia |
-| 355 | 168 | Gwendolyn Boykin Mobbs |
-| 356 | 168 | Danielle Lyons |
-| 357 | 168 | Spicy Risegrid |
-| 358 | 168 | Chasity Simpson |
-| 359 | 167 | Spicy Snapclear |
-| 360 | 167 | Chummy Faller |
-| 361 | 166 | Kevin Mccoy |
+| 352 | 169 | Kevin Mccoy |
+| 353 | 169 | Jaimie Walters |
+| 354 | 168 | Martha Lynn Wiggins |
+| 355 | 168 | Missy Renia |
+| 356 | 168 | Gwendolyn Boykin Mobbs |
+| 357 | 168 | Danielle Lyons |
+| 358 | 168 | Spicy Risegrid |
+| 359 | 168 | Chasity Simpson |
+| 360 | 167 | Spicy Snapclear |
+| 361 | 167 | Chummy Faller |
 | 362 | 166 | Kimmyc |
 | 363 | 166 | Melmel |
 | 364 | 165 | Sandy Justus |
