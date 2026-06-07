@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 22:02:19 UTC
+# Standings for team2 as of 2026-06-07 22:02:41 UTC
 
 **Total Participants:** 1919
 
@@ -1218,11 +1218,11 @@
 | 1210 | 42 | MJLovesHer#OneMistake |
 | 1211 | 42 | Christopher S Lawyer |
 | 1212 | 42 | Kendra Sizemore |
-| 1213 | 42 | Jolly Balanceblock |
-| 1214 | 42 | Chrissy Hess |
-| 1215 | 42 | Lori Antrim Nichols |
-| 1216 | 41 | Wacky Rollbuilder |
-| 1217 | 41 | Frothy Faller |
+| 1213 | 42 | Frothy Faller |
+| 1214 | 42 | Jolly Balanceblock |
+| 1215 | 42 | Chrissy Hess |
+| 1216 | 42 | Lori Antrim Nichols |
+| 1217 | 41 | Wacky Rollbuilder |
 | 1218 | 41 | Jenifer Seeley |
 | 1219 | 41 | Steve Eakins |
 | 1220 | 41 | Kodi Gay |

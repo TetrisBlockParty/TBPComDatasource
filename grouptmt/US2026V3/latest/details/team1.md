@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 22:02:19 UTC
+# Standings for team1 as of 2026-06-07 22:02:41 UTC
 
 **Total Participants:** 1592
 
@@ -1244,86 +1244,86 @@
 | 1236 | 26 | Hoppy Buildsnap |
 | 1237 | 26 | Caitlin Michele |
 | 1238 | 26 | Layla Williams |
-| 1239 | 26 | Lively Strikesnap |
-| 1240 | 26 | Batty B |
+| 1239 | 26 | Teena K Macon |
+| 1240 | 26 | Lively Strikesnap |
 | 1241 | 26 | Silly Shatterline |
-| 1242 | 26 | Teena K Macon |
-| 1243 | 26 | jae |
+| 1242 | 26 | jae |
+| 1243 | 26 | Batty B |
 | 1244 | 26 | Ana Torres |
 | 1245 | 25 | Mighty Riserbuilder |
-| 1246 | 25 | Maxine Williams |
-| 1247 | 25 | Heru Ogun Yeshua EL |
-| 1248 | 25 | Nicole Freeman |
-| 1249 | 25 | Dinky da Don |
-| 1250 | 25 | Linny Loop |
-| 1251 | 25 | PennyCandee |
+| 1246 | 25 | Linny Loop |
+| 1247 | 25 | Dinky da Don |
+| 1248 | 25 | PennyCandee |
+| 1249 | 25 | Nicole Freeman |
+| 1250 | 25 | Heru Ogun Yeshua EL |
+| 1251 | 25 | Maxine Williams |
 | 1252 | 25 | Thelma Samuels |
 | 1253 | 25 | Deantenique Smalls |
-| 1254 | 24 | Silly Matchbuilder |
-| 1255 | 24 | Beverly Redd-Fountain |
-| 1256 | 24 | Kevin Witdaflute |
+| 1254 | 24 | Talya Richards |
+| 1255 | 24 | Null Kim |
+| 1256 | 24 | TanB53 |
 | 1257 | 24 | Dennis J Herron II |
-| 1258 | 24 | TanB53 |
+| 1258 | 24 | Beverly Redd-Fountain |
 | 1259 | 24 | Danielle Scholfield |
-| 1260 | 24 | Null Kim |
-| 1261 | 23 | Jamie Lea Popp |
-| 1262 | 23 | Giggleme |
-| 1263 | 23 | smash56! |
-| 1264 | 23 | Genevieve Nieves |
-| 1265 | 23 | Flashy Buildgrid |
-| 1266 | 23 | Desi |
-| 1267 | 23 | Nicolej |
-| 1268 | 23 | Major314 |
-| 1269 | 23 | Arturo Hernandez II |
-| 1270 | 23 | Brave Combofall |
-| 1271 | 23 | Tabitha Dupre-Allen |
-| 1272 | 23 | Briela Sabrina |
-| 1273 | 23 | Twisty Tilebuilder |
-| 1274 | 23 | Snippy T-spin |
-| 1275 | 23 | Vontesha Kidd |
-| 1276 | 22 | Jhinarra Walker |
-| 1277 | 22 | Iván Cedeño |
-| 1278 | 22 | Kerry Meister Rummel |
-| 1279 | 22 | Jennifer Diamond |
+| 1260 | 24 | Kevin Witdaflute |
+| 1261 | 24 | Silly Matchbuilder |
+| 1262 | 23 | Flashy Buildgrid |
+| 1263 | 23 | Desi |
+| 1264 | 23 | Giggleme |
+| 1265 | 23 | Tabitha Dupre-Allen |
+| 1266 | 23 | Genevieve Nieves |
+| 1267 | 23 | Arturo Hernandez II |
+| 1268 | 23 | smash56! |
+| 1269 | 23 | Nicolej |
+| 1270 | 23 | Major314 |
+| 1271 | 23 | Brave Combofall |
+| 1272 | 23 | Twisty Tilebuilder |
+| 1273 | 23 | Snippy T-spin |
+| 1274 | 23 | Vontesha Kidd |
+| 1275 | 23 | Jamie Lea Popp |
+| 1276 | 23 | Briela Sabrina |
+| 1277 | 22 | Jhinarra Walker |
+| 1278 | 22 | Chipper Smasher |
+| 1279 | 22 | Iván Cedeño |
 | 1280 | 22 | Sicily Bailey |
-| 1281 | 22 | ShayePooh |
-| 1282 | 22 | Chipper Smasher |
-| 1283 | 22 | Jucee |
-| 1284 | 22 | Talya Richards |
-| 1285 | 22 | Jasmine Hariston-Estis |
-| 1286 | 22 | Queen Baby 5 |
-| 1287 | 22 | Jazzy Drop |
+| 1281 | 22 | Kerry Meister Rummel |
+| 1282 | 22 | Jennifer Diamond |
+| 1283 | 22 | ShayePooh |
+| 1284 | 22 | Jazzy Drop |
+| 1285 | 22 | Jucee |
+| 1286 | 22 | Jasmine Hariston-Estis |
+| 1287 | 22 | Queen Baby 5 |
 | 1288 | 22 | Brenda Brogden |
-| 1289 | 21 | Christy |
+| 1289 | 21 | Boldy Zoner |
 | 1290 | 21 | Tim Tim |
 | 1291 | 21 | Kikiness |
 | 1292 | 21 | jasi |
 | 1293 | 21 | Chummy Twisterfit |
 | 1294 | 21 | Sanna Rose |
-| 1295 | 21 | Hasaan Jones |
+| 1295 | 21 | Christy |
 | 1296 | 21 | Cheeky Wipegrid |
-| 1297 | 21 | SpeedyJas |
+| 1297 | 21 | Hasaan Jones |
 | 1298 | 21 | Zappy Zoney |
-| 1299 | 21 | Madam Suki |
-| 1300 | 21 | J Dot Flo |
-| 1301 | 21 | Boldy Zoner |
+| 1299 | 21 | J Dot Flo |
+| 1300 | 21 | SpeedyJas |
+| 1301 | 21 | Madam Suki |
 | 1302 | 20 | Lynette Manning |
-| 1303 | 20 | Charlean Sims |
-| 1304 | 20 | Daring Snaplink |
-| 1305 | 20 | Elisha Latimore |
-| 1306 | 20 | Marsha Earl |
-| 1307 | 20 | Tasha Jones |
-| 1308 | 20 | MELLZZtick€T |
+| 1303 | 20 | Daring Snaplink |
+| 1304 | 20 | Elisha Latimore |
+| 1305 | 20 | Marsha Earl |
+| 1306 | 20 | Tasha Jones |
+| 1307 | 20 | MELLZZtick€T |
+| 1308 | 20 | Luna Lockwood |
 | 1309 | 20 | Melody Means |
-| 1310 | 20 | Luna Lockwood |
-| 1311 | 20 | Lisa Messerli |
-| 1312 | 20 | Nikki Vaughn |
-| 1313 | 20 | Cheery T-spin |
-| 1314 | 20 | That1Girl |
-| 1315 | 20 | Margretta Henry |
-| 1316 | 20 | Chuck Gee |
-| 1317 | 20 | Kenneth Hefney |
-| 1318 | 20 | Regina Haygood |
+| 1310 | 20 | Nikki Vaughn |
+| 1311 | 20 | Charlean Sims |
+| 1312 | 20 | Margretta Henry |
+| 1313 | 20 | Kenneth Hefney |
+| 1314 | 20 | Cheery T-spin |
+| 1315 | 20 | That1Girl |
+| 1316 | 20 | Lisa Messerli |
+| 1317 | 20 | Regina Haygood |
+| 1318 | 20 | Chuck Gee |
 | 1319 | 20 | Phillip White |
 | 1320 | 20 | Jonathan McKenzie |
 | 1321 | 20 | Anthony Intrabartolo |
