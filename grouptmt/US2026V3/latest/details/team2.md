@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 02:48:41 UTC
+# Standings for team2 as of 2026-06-07 02:49:17 UTC
 
 **Total Participants:** 1552
 
@@ -149,12 +149,12 @@
 | 141 | 344 | Traci Abern |
 | 142 | 343 | Theresa Marie |
 | 143 | 343 | Jackie Tupper |
-| 144 | 342 | Bri St Peter |
-| 145 | 340 | Mom |
-| 146 | 336 | Ashley Green |
+| 144 | 342 | Ashley Green |
+| 145 | 342 | Bri St Peter |
+| 146 | 340 | Mom |
 | 147 | 332 | Jason Cook |
-| 148 | 328 | Tim Tim |
-| 149 | 328 | Keri Mears |
+| 148 | 328 | Keri Mears |
+| 149 | 328 | Tim Tim |
 | 150 | 325 | Amy Gregg |
 | 151 | 323 | Shannon Wilson |
 | 152 | 322 | Nikki Hayes |
@@ -549,51 +549,51 @@
 | 541 | 79 | Michele Rogers |
 | 542 | 79 | Jillian Marie |
 | 543 | 79 | Bruni |
-| 544 | 78 | Arik DiLorenzo |
-| 545 | 78 | Alycia Marie Zelensky |
-| 546 | 78 | Mandy |
-| 547 | 78 | Gina Leal |
-| 548 | 78 | Spunky Linkblock |
-| 549 | 77 | Fallon Moss |
-| 550 | 77 | Gina Louise Parker |
-| 551 | 77 | Jason Lamporte |
-| 552 | 77 | Jolly Builderpiece |
-| 553 | 77 | Raymond Dawson |
+| 544 | 79 | Stephany Green |
+| 545 | 78 | Arik DiLorenzo |
+| 546 | 78 | Alycia Marie Zelensky |
+| 547 | 78 | Mandy |
+| 548 | 78 | Gina Leal |
+| 549 | 78 | Spunky Linkblock |
+| 550 | 77 | Jolly Builderpiece |
+| 551 | 77 | Michael Delozier |
+| 552 | 77 | Jason Lamporte |
+| 553 | 77 | Gina Louise Parker |
 | 554 | 77 | MamaRachel |
-| 555 | 77 | Michael Delozier |
-| 556 | 76 | Tiffany Fitch |
-| 557 | 76 | Lively Twisterfit |
+| 555 | 77 | Raymond Dawson |
+| 556 | 77 | Fallon Moss |
+| 557 | 76 | Tiffany Fitch |
 | 558 | 76 | Sara Dunn |
-| 559 | 75 | Jeff Pottgether |
-| 560 | 75 | Dandy Tiltgrid |
-| 561 | 75 | Mama G |
-| 562 | 75 | Becky Kennon |
-| 563 | 75 | Courtney Madison Hart |
-| 564 | 75 | joey |
-| 565 | 74 | Laurie |
+| 559 | 76 | Lively Twisterfit |
+| 560 | 75 | Mama G |
+| 561 | 75 | Becky Kennon |
+| 562 | 75 | Courtney Madison Hart |
+| 563 | 75 | joey |
+| 564 | 75 | Jeff Pottgether |
+| 565 | 75 | Dandy Tiltgrid |
 | 566 | 74 | Shaylee Haltiner |
 | 567 | 74 | Valeri Bradley |
-| 568 | 74 | Stephany Green |
+| 568 | 74 | Laurie |
 | 569 | 74 | Cool Patternbuilder |
 | 570 | 74 | Natasha Lee |
 | 571 | 74 | Bethany Nestor |
 | 572 | 73 | TNGal |
-| 573 | 73 | Joannah Capilitan |
-| 574 | 73 | Chirpy Combofall |
-| 575 | 73 | BugMansMom |
-| 576 | 73 | Sunny Spinzone |
+| 573 | 73 | BugMansMom |
+| 574 | 73 | Sunny Spinzone |
+| 575 | 73 | Joannah Capilitan |
+| 576 | 73 | Chirpy Combofall |
 | 577 | 72 | Barb Kiser |
-| 578 | 72 | Stacy Lynn |
-| 579 | 72 | Kati Eckstein |
-| 580 | 72 | Audrey Bickford |
+| 578 | 72 | Kati Eckstein |
+| 579 | 72 | Audrey Bickford |
+| 580 | 72 | Stacy Lynn |
 | 581 | 72 | Stephanie Smith Robinson |
 | 582 | 72 | Kendi |
 | 583 | 71 | Hillary Frank |
-| 584 | 71 | John C Morrison |
-| 585 | 71 | Chilly Surge |
+| 584 | 71 | Groovy Glider |
+| 585 | 71 | Violet Olivares |
 | 586 | 71 | Amanda Bottorff |
-| 587 | 71 | Violet Olivares |
-| 588 | 71 | Groovy Glider |
+| 587 | 71 | Chilly Surge |
+| 588 | 71 | John C Morrison |
 | 589 | 71 | Camilo Moreno |
 | 590 | 71 | Erin Lemanski |
 | 591 | 71 | Sandy Lynn |
