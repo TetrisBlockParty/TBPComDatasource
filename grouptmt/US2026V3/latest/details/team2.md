@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 04:22:18 UTC
+# Standings for team2 as of 2026-06-07 04:22:41 UTC
 
 **Total Participants:** 1596
 
@@ -154,7 +154,7 @@
 | 146 | 357 | Erin Thomas |
 | 147 | 357 | Crystal Allen |
 | 148 | 356 | Joni Michelle Morgan |
-| 149 | 355 | Jackie Tupper |
+| 149 | 356 | Jackie Tupper |
 | 150 | 354 | Zesty Strikerbuilder |
 | 151 | 348 | Eric Drane |
 | 152 | 348 | Zappy Pattern |
@@ -193,8 +193,8 @@
 | 185 | 280 | Patricia Carroll |
 | 186 | 278 | Ashley Billiot Rhodes |
 | 187 | 277 | Sarah Mccolgan |
-| 188 | 272 | Alison Waller |
-| 189 | 272 | MarioKarasovic |
+| 188 | 277 | MarioKarasovic |
+| 189 | 272 | Alison Waller |
 | 190 | 270 | Amber Wolf |
 | 191 | 269 | Ackerman 85 |
 | 192 | 263 | Becca Marie |
@@ -466,8 +466,8 @@
 | 458 | 100 | Gluten Gremlin |
 | 459 | 100 | Leticia Tillman |
 | 460 | 100 | Michael Carmichael |
-| 461 | 100 | Mandy |
-| 462 | 100 | Jessica Perkins |
+| 461 | 100 | Jessica Perkins |
+| 462 | 100 | Mandy |
 | 463 | 100 | Alice Petterborg Barberich |
 | 464 | 100 | Joannah Capilitan |
 | 465 | 99 | Melissa Abbott |
@@ -479,54 +479,54 @@
 | 471 | 98 | Lindsey Ross |
 | 472 | 97 | Abby |
 | 473 | 97 | Sandra Pursell |
-| 474 | 97 | Tracy Tokarz |
-| 475 | 97 | Adri Perez |
-| 476 | 97 | Charlotte Castelli |
+| 474 | 97 | Cozy Cascade |
+| 475 | 97 | Tracy Tokarz |
+| 476 | 97 | Adri Perez |
 | 477 | 97 | Donna Segletes Kay |
-| 478 | 96 | IncrediDragon |
-| 479 | 96 | Candi Cane |
-| 480 | 96 | Andrea Rawson |
+| 478 | 97 | Charlotte Castelli |
+| 479 | 96 | IncrediDragon |
+| 480 | 96 | Candi Cane |
 | 481 | 96 | Breezy |
-| 482 | 96 | Cozy Cascade |
+| 482 | 96 | Andrea Rawson |
 | 483 | 96 | Brooklyn Todd |
 | 484 | 95 | Leighla Davis |
 | 485 | 95 | Ava Speedy |
-| 486 | 94 | MUMBLES |
-| 487 | 94 | Paige Lynette Sohl |
+| 486 | 94 | Paige Lynette Sohl |
+| 487 | 94 | MUMBLES |
 | 488 | 94 | Mandy Van Laningham Bishop |
 | 489 | 94 | Martha Lynn Wiggins |
-| 490 | 93 | Cheery Tilefall |
-| 491 | 93 | Connie Breeden |
-| 492 | 93 | Cassandra Green |
-| 493 | 93 | Kenzie |
-| 494 | 93 | Mataya |
-| 495 | 92 | Jayda Walters |
-| 496 | 92 | Belinda Gullion Austin |
-| 497 | 92 | Tim Moore |
-| 498 | 92 | Thy Bui |
-| 499 | 92 | Brooke Kaune |
-| 500 | 91 | Nicole Plummer |
+| 490 | 93 | Connie Breeden |
+| 491 | 93 | Cassandra Green |
+| 492 | 93 | Kenzie |
+| 493 | 93 | Mataya |
+| 494 | 93 | Cheery Tilefall |
+| 495 | 92 | Tim Moore |
+| 496 | 92 | Jayda Walters |
+| 497 | 92 | Belinda Gullion Austin |
+| 498 | 92 | Brooke Kaune |
+| 499 | 92 | Thy Bui |
+| 500 | 91 | Kimberly Davis |
 | 501 | 91 | Heather Vircik |
 | 502 | 91 | Rocroc mo |
-| 503 | 91 | Kimberly Davis |
-| 504 | 90 | Rescuegirl76 |
-| 505 | 90 | Lesley Stoeckle |
-| 506 | 90 | Eva Lopez |
-| 507 | 90 | Lacie B |
+| 503 | 91 | Nicole Plummer |
+| 504 | 90 | Eva Lopez |
+| 505 | 90 | Lacie B |
+| 506 | 90 | Lesley Stoeckle |
+| 507 | 90 | Rescuegirl76 |
 | 508 | 90 | Nova |
 | 509 | 89 | Patrick Woodard |
-| 510 | 88 | Hillary Frank |
-| 511 | 88 | Chesney |
-| 512 | 88 | Frilly Shiftsnap |
+| 510 | 88 | Chesney |
+| 511 | 88 | Frilly Shiftsnap |
+| 512 | 88 | Hillary Frank |
 | 513 | 87 | Kristen |
-| 514 | 87 | Sarah Jane Gorsuch |
-| 515 | 87 | Julibeth Wells |
-| 516 | 87 | Jackie Walker |
-| 517 | 87 | Lee Leonard |
+| 514 | 87 | Julibeth Wells |
+| 515 | 87 | Lee Leonard |
+| 516 | 87 | Sarah Jane Gorsuch |
+| 517 | 87 | Jackie Walker |
 | 518 | 86 | Dad |
 | 519 | 86 | Nicole Ashbaugh |
-| 520 | 86 | Susie Conger |
-| 521 | 86 | bozzycat |
+| 520 | 86 | bozzycat |
+| 521 | 86 | Susie Conger |
 | 522 | 85 | Frisky Linkbuilder |
 | 523 | 85 | Daisy Girl |
 | 524 | 85 | Sarah Louise Cobb |
@@ -1312,63 +1312,63 @@
 | 1304 | 18 | James Maness |
 | 1305 | 18 | Daimien Jarem |
 | 1306 | 18 | Alison Welsh |
-| 1307 | 18 | Miggy Gonzalez |
-| 1308 | 18 | Kris Lea |
-| 1309 | 18 | Nicole Treadway |
-| 1310 | 18 | Ashley Wolford |
-| 1311 | 18 | Adrian Alvarez |
+| 1307 | 18 | Jen |
+| 1308 | 18 | Miggy Gonzalez |
+| 1309 | 18 | Taran Evans |
+| 1310 | 18 | Kris Lea |
+| 1311 | 18 | Nicole Treadway |
 | 1312 | 18 | Tavia Teschendorf Sliffe |
-| 1313 | 18 | Taran Evans |
-| 1314 | 17 | Shaun Talbot |
-| 1315 | 17 | Kelly Christine Trimmer |
-| 1316 | 17 | Clever Balancefit |
-| 1317 | 17 | Shane Peavey |
-| 1318 | 17 | Clever Spinfit |
-| 1319 | 17 | Nicole Good |
-| 1320 | 17 | Churube Finwoiisopw |
-| 1321 | 17 | Jenn |
-| 1322 | 17 | Christina Michelle Wilson |
-| 1323 | 17 | Kandy Comer |
-| 1324 | 17 | Angela Knighton |
-| 1325 | 17 | Smiley Edgefit |
+| 1313 | 18 | Ashley Wolford |
+| 1314 | 18 | Adrian Alvarez |
+| 1315 | 17 | Jenn |
+| 1316 | 17 | Shaun Talbot |
+| 1317 | 17 | Churube Finwoiisopw |
+| 1318 | 17 | Nicole Good |
+| 1319 | 17 | Clever Spinfit |
+| 1320 | 17 | Shane Peavey |
+| 1321 | 17 | Clever Balancefit |
+| 1322 | 17 | Kelly Christine Trimmer |
+| 1323 | 17 | Christina Michelle Wilson |
+| 1324 | 17 | Smiley Edgefit |
+| 1325 | 17 | Kandy Comer |
 | 1326 | 17 | Timone907 |
-| 1327 | 17 | Amanda Hamacher |
+| 1327 | 17 | Angela Knighton |
 | 1328 | 17 | Sassy Snapfall |
-| 1329 | 16 | Kimberly Rochon |
-| 1330 | 16 | Chilly Fall |
-| 1331 | 16 | Elliot |
-| 1332 | 16 | Diane Pinkston Massey |
-| 1333 | 16 | Sandy Molina |
-| 1334 | 16 | Jennifer M Mitchell |
-| 1335 | 16 | Brittany Paul |
-| 1336 | 16 | Jeremy Monceaux |
-| 1337 | 16 | Sarah Elizabeth Foret |
-| 1338 | 16 | Ashley Gracelynn Tiner |
-| 1339 | 16 | Amanda Jimenez |
-| 1340 | 16 | Patty White |
-| 1341 | 16 | Kaylyn Wickham |
-| 1342 | 16 | JesseJo |
-| 1343 | 16 | Ashley Shazes |
-| 1344 | 15 | Lyndzey Sciscoe |
-| 1345 | 15 | Lisa Marie |
-| 1346 | 15 | Jacqueline Leigh Zuzinec |
+| 1329 | 17 | Amanda Hamacher |
+| 1330 | 16 | Ashley Shazes |
+| 1331 | 16 | Kaylyn Wickham |
+| 1332 | 16 | Sarah Elizabeth Foret |
+| 1333 | 16 | Diane Pinkston Massey |
+| 1334 | 16 | Elliot |
+| 1335 | 16 | Chilly Fall |
+| 1336 | 16 | Kimberly Rochon |
+| 1337 | 16 | Sandy Molina |
+| 1338 | 16 | Jennifer M Mitchell |
+| 1339 | 16 | Brittany Paul |
+| 1340 | 16 | Jeremy Monceaux |
+| 1341 | 16 | JesseJo |
+| 1342 | 16 | Patty White |
+| 1343 | 16 | Ashley Gracelynn Tiner |
+| 1344 | 16 | Amanda Jimenez |
+| 1345 | 15 | Amlisi |
+| 1346 | 15 | Nana |
 | 1347 | 15 | Samantha |
-| 1348 | 15 | Rochelle O'Loughlin |
-| 1349 | 15 | Sir Paco |
-| 1350 | 15 | Maureen MomtoDolores GeorgeBrian |
-| 1351 | 15 | Tipsy Matchgrid |
-| 1352 | 15 | Wendy Morrison |
-| 1353 | 15 | Jennifer Nelson |
-| 1354 | 15 | Christine Ann Eras |
-| 1355 | 15 | Nana |
-| 1356 | 15 | Julie Vargas |
-| 1357 | 15 | Amy Hahn Nickels |
-| 1358 | 15 | Tetris |
-| 1359 | 15 | sally |
-| 1360 | 15 | Poppy Slice |
-| 1361 | 15 | Twisty Patternblock |
-| 1362 | 15 | Jen |
-| 1363 | 15 | Amlisi |
+| 1348 | 15 | Lyndzey Sciscoe |
+| 1349 | 15 | Lisa Marie |
+| 1350 | 15 | Jacqueline Leigh Zuzinec |
+| 1351 | 15 | Rochelle O'Loughlin |
+| 1352 | 15 | Sir Paco |
+| 1353 | 15 | Twisty Patternblock |
+| 1354 | 15 | Poppy Slice |
+| 1355 | 15 | Maureen MomtoDolores GeorgeBrian |
+| 1356 | 15 | Wendy Morrison |
+| 1357 | 15 | sally |
+| 1358 | 15 | Jennifer Nelson |
+| 1359 | 15 | Christine Ann Eras |
+| 1360 | 15 | Tipsy Matchgrid |
+| 1361 | 15 | Julie Vargas |
+| 1362 | 15 | Tetris |
+| 1363 | 15 | Amy Hahn Nickels |
 | 1364 | 14 | Susan R. Hammons Cunningham |
 | 1365 | 14 | Marshall Payne |
 | 1366 | 14 | Randy Taylor |
@@ -1533,11 +1533,11 @@
 | 1525 | 8 | Kennadee Albertson |
 | 1526 | 8 | Tina Doyens Munis |
 | 1527 | 8 | Mariah Mandel |
-| 1528 | 8 | Funky Slide |
-| 1529 | 8 | Loony Ziggy |
-| 1530 | 8 | Angela Oates-Killebrew |
-| 1531 | 7 | Elizabeth Elaine Coursey |
-| 1532 | 7 | crysamoctama57 |
+| 1528 | 8 | crysamoctama57 |
+| 1529 | 8 | Funky Slide |
+| 1530 | 8 | Loony Ziggy |
+| 1531 | 8 | Angela Oates-Killebrew |
+| 1532 | 7 | Elizabeth Elaine Coursey |
 | 1533 | 7 | Chirpy Shiftspin |
 | 1534 | 7 | Elizabeth Barnhart Floyd |
 | 1535 | 7 | Lush Tile |
