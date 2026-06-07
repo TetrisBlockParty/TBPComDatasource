@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 02:50:18 UTC
+# Standings for team4 as of 2026-06-07 02:50:40 UTC
 
 **Total Participants:** 1299
 
@@ -190,13 +190,13 @@
 | 182 | 201 | Crystal Hammonds |
 | 183 | 200 | Sarah Montagne Forsberg |
 | 184 | 199 | Colin |
-| 185 | 197 | Tiggerjake |
-| 186 | 195 | Sean Mccleary |
-| 187 | 195 | Lively Blockpiece |
-| 188 | 194 | Lisa lisa |
-| 189 | 194 | Chiquita Blue |
-| 190 | 194 | Jenn Norcross |
-| 191 | 193 | BusterBear56 |
+| 185 | 199 | BusterBear56 |
+| 186 | 197 | Tiggerjake |
+| 187 | 195 | Sean Mccleary |
+| 188 | 195 | Lively Blockpiece |
+| 189 | 194 | Lisa lisa |
+| 190 | 194 | Chiquita Blue |
+| 191 | 194 | Jenn Norcross |
 | 192 | 193 | Tiffany Bunker-Hill |
 | 193 | 191 | Dee Wizz |
 | 194 | 191 | Alma López Morales |
@@ -256,15 +256,15 @@
 | 248 | 147 | EvoKitty |
 | 249 | 147 | Hannah Pazar |
 | 250 | 146 | Jasmine Marie |
-| 251 | 145 | Erika Seaton |
-| 252 | 145 | June Hoffman |
-| 253 | 144 | Yesenia Castro Monreal |
-| 254 | 143 | Snippy Splitter |
-| 255 | 143 | CJ |
-| 256 | 143 | Brennan Shea Greene |
-| 257 | 141 | Chilly Pivot |
+| 251 | 145 | Britney Kitora |
+| 252 | 145 | Erika Seaton |
+| 253 | 145 | June Hoffman |
+| 254 | 144 | Yesenia Castro Monreal |
+| 255 | 143 | Snippy Splitter |
+| 256 | 143 | CJ |
+| 257 | 143 | Brennan Shea Greene |
 | 258 | 141 | Justin Michael |
-| 259 | 140 | Britney Kitora |
+| 259 | 141 | Chilly Pivot |
 | 260 | 140 | Fran Aaron-Ring |
 | 261 | 138 | Rose Anna Safi |
 | 262 | 138 | Cheery Risegrid |
@@ -273,9 +273,9 @@
 | 265 | 137 | Deborah Silberg |
 | 266 | 137 | Tipsy Zonebuilder |
 | 267 | 137 | Tommy Bond |
-| 268 | 136 | WeeWooWee |
-| 269 | 136 | Susan Stofberg Beltran |
-| 270 | 136 | JuicyJuice |
+| 268 | 136 | JuicyJuice |
+| 269 | 136 | WeeWooWee |
+| 270 | 136 | Susan Stofberg Beltran |
 | 271 | 136 | Maria Castillo |
 | 272 | 136 | Hardy Fuller |
 | 273 | 135 | Quiomarie Cotto |
@@ -1118,47 +1118,47 @@
 | 1110 | 16 | Ashley McGeehan |
 | 1111 | 16 | Nissi |
 | 1112 | 16 | Christy Petty |
-| 1113 | 15 | Hasty Grabber |
-| 1114 | 15 | Wacky Clusterer |
-| 1115 | 15 | Tana-Marie Lynn McCarty-Rolf |
-| 1116 | 15 | Kiara Johnson |
-| 1117 | 15 | Tricki Woo |
-| 1118 | 15 | John Wertz |
-| 1119 | 15 | Audacious |
-| 1120 | 15 | Ash |
-| 1121 | 15 | Chris Abney |
-| 1122 | 15 | Cas Gio |
-| 1123 | 15 | Kim Miller |
-| 1124 | 15 | babygirlw |
-| 1125 | 15 | Chilly Glidezone |
-| 1126 | 15 | Mumsy |
-| 1127 | 15 | katy |
-| 1128 | 15 | Nicole Gilmore |
-| 1129 | 15 | Derrek Lee |
-| 1130 | 15 | Speedy Rollbuilder |
-| 1131 | 15 | Angela Correa |
-| 1132 | 15 | Austin Tan |
-| 1133 | 15 | Manolo Canety |
-| 1134 | 15 | DuvaDova Ahava |
-| 1135 | 15 | Mandi Rexroat |
-| 1136 | 15 | Tha Don |
+| 1113 | 15 | Ash |
+| 1114 | 15 | Mumsy |
+| 1115 | 15 | Chilly Glidezone |
+| 1116 | 15 | babygirlw |
+| 1117 | 15 | Kim Miller |
+| 1118 | 15 | Cas Gio |
+| 1119 | 15 | Bold Snapper |
+| 1120 | 15 | Chris Abney |
+| 1121 | 15 | Hasty Grabber |
+| 1122 | 15 | Audacious |
+| 1123 | 15 | John Wertz |
+| 1124 | 15 | Tricki Woo |
+| 1125 | 15 | Kiara Johnson |
+| 1126 | 15 | Tana-Marie Lynn McCarty-Rolf |
+| 1127 | 15 | Wacky Clusterer |
+| 1128 | 15 | Mandi Rexroat |
+| 1129 | 15 | katy |
+| 1130 | 15 | Derrek Lee |
+| 1131 | 15 | Speedy Rollbuilder |
+| 1132 | 15 | Nicole Gilmore |
+| 1133 | 15 | Angela Correa |
+| 1134 | 15 | Manolo Canety |
+| 1135 | 15 | Austin Tan |
+| 1136 | 15 | DuvaDova Ahava |
 | 1137 | 15 | Diana Acosta |
-| 1138 | 14 | Erica Hardwick |
-| 1139 | 14 | G Money |
-| 1140 | 14 | Mighty Clicky |
-| 1141 | 14 | Donovan Parmenter Gagne |
-| 1142 | 14 | Toria |
+| 1138 | 15 | Tha Don |
+| 1139 | 14 | Mighty Clicky |
+| 1140 | 14 | Donovan Parmenter Gagne |
+| 1141 | 14 | Toria |
+| 1142 | 14 | G Money |
 | 1143 | 14 | Sydney Taylor Sileno |
 | 1144 | 14 | mrsduke420 |
 | 1145 | 14 | Gellix |
 | 1146 | 14 | Kiaralis Ashley Hancock |
-| 1147 | 13 | Frothy Pivotfall |
-| 1148 | 13 | Bold Snapper |
-| 1149 | 13 | LaRue Tee |
-| 1150 | 13 | Jackie Russo-Edens |
-| 1151 | 13 | Tiffany Brooke |
-| 1152 | 13 | Willedtra Griffin |
-| 1153 | 13 | Jason Ervin |
+| 1147 | 14 | Erica Hardwick |
+| 1148 | 13 | Jason Ervin |
+| 1149 | 13 | Frothy Pivotfall |
+| 1150 | 13 | LaRue Tee |
+| 1151 | 13 | Jackie Russo-Edens |
+| 1152 | 13 | Tiffany Brooke |
+| 1153 | 13 | Willedtra Griffin |
 | 1154 | 13 | Margarita Santana |
 | 1155 | 12 | Jennifer O'Connell |
 | 1156 | 12 | Christine Raine Jalili |
