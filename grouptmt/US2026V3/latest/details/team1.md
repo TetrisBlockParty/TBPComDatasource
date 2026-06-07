@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 17:40:19 UTC
+# Standings for team1 as of 2026-06-07 17:40:41 UTC
 
 **Total Participants:** 1524
 
@@ -30,7 +30,7 @@
 | 22 | 3039 | Chummy Combo |
 | 23 | 2863 | Sha Harris |
 | 24 | 2708 | Ebo Got-Time |
-| 25 | 2558 | Yolanda McDonald |
+| 25 | 2561 | Yolanda McDonald |
 | 26 | 2446 | Juan Kandiss Escobedo Irwin |
 | 27 | 2445 | Cool Bridger |
 | 28 | 2331 | Zappy Brickline |
