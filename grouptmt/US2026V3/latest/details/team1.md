@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 19:58:18 UTC
+# Standings for team1 as of 2026-06-07 19:58:40 UTC
 
 **Total Participants:** 1561
 
@@ -73,7 +73,7 @@
 | 65 | 1001 | Blockhead |
 | 66 | 998 | Weeze |
 | 67 | 981 | Court Court |
-| 68 | 975 | Bre Maugh |
+| 68 | 980 | Bre Maugh |
 | 69 | 935 | Whitney Butler |
 | 70 | 911 | Kimberly Hernandez |
 | 71 | 902 | Uneekly Mayde |
@@ -103,9 +103,9 @@
 | 95 | 668 | Jonathan Vee Jay |
 | 96 | 667 | Sarah Marie |
 | 97 | 666 | Kellie Hall |
-| 98 | 647 | She Higgy |
-| 99 | 638 | Therealdywoune Peay |
-| 100 | 636 | MamaBear |
+| 98 | 656 | MamaBear |
+| 99 | 647 | She Higgy |
+| 100 | 638 | Therealdywoune Peay |
 | 101 | 613 | Big Tina |
 | 102 | 612 | Quirky Fallgrid |
 | 103 | 604 | Cee Emm |

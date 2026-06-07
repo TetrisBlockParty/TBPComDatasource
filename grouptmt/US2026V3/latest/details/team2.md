@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 19:58:18 UTC
+# Standings for team2 as of 2026-06-07 19:58:40 UTC
 
 **Total Participants:** 1874
 
@@ -239,7 +239,7 @@
 | 231 | 312 | Snappy Combo |
 | 232 | 311 | Lindsey Ford |
 | 233 | 310 | Greta Warden |
-| 234 | 307 | Nova Nova |
+| 234 | 308 | Nova Nova |
 | 235 | 305 | Melissa Clogher White |
 | 236 | 305 | Norma Ortiz |
 | 237 | 304 | Heather Burgett |
@@ -569,8 +569,8 @@
 | 561 | 120 | Sydney Cheyenne |
 | 562 | 120 | Keisha Robinson |
 | 563 | 120 | Nichole Wilson |
-| 564 | 120 | Cody Gates |
-| 565 | 120 | Susan Bosell |
+| 564 | 120 | Susan Bosell |
+| 565 | 120 | Cody Gates |
 | 566 | 119 | Lively Twisterfit |
 | 567 | 118 | Frilly Shiftsnap |
 | 568 | 118 | Kimberly Brooks |
@@ -584,109 +584,109 @@
 | 576 | 117 | TNGal |
 | 577 | 117 | Terie Safrit |
 | 578 | 117 | CAL1KAWS559 |
-| 579 | 116 | Spunky Linkblock |
-| 580 | 116 | Sara Dunn |
-| 581 | 116 | Joshua Dye |
-| 582 | 116 | Violet Olivares |
-| 583 | 115 | Leticia Tillman |
-| 584 | 115 | Edward Conyers |
+| 579 | 116 | Joshua Dye |
+| 580 | 116 | Violet Olivares |
+| 581 | 116 | Sara Dunn |
+| 582 | 116 | Spunky Linkblock |
+| 583 | 115 | Edward Conyers |
+| 584 | 115 | Nicole Good |
 | 585 | 115 | Patty Ann Hendrickson |
-| 586 | 115 | Nicole Good |
+| 586 | 115 | Leticia Tillman |
 | 587 | 114 | Ginger Nesbitt |
 | 588 | 114 | Melissa Abbott |
 | 589 | 113 | Gina Leal |
 | 590 | 113 | Elizabeth Kline |
-| 591 | 112 | Spencer Ryder |
+| 591 | 112 | Rebekah Holland |
 | 592 | 112 | Nicole Ashbaugh |
-| 593 | 112 | Rebekah Holland |
+| 593 | 112 | Spencer Ryder |
 | 594 | 112 | Mike Mordhorst |
 | 595 | 111 | Shiny Spinfit |
 | 596 | 110 | Barb Kiser |
-| 597 | 109 | Po Yee |
-| 598 | 109 | Shannon Posner |
-| 599 | 109 | Nicole Suber |
-| 600 | 109 | Jillian Marie |
-| 601 | 108 | Brooklyn Todd |
-| 602 | 108 | Maurii93 |
-| 603 | 108 | Kelly |
-| 604 | 108 | Gino Positano |
-| 605 | 108 | Renee Siems |
-| 606 | 107 | Chesney |
+| 597 | 109 | Jillian Marie |
+| 598 | 109 | Po Yee |
+| 599 | 109 | Shannon Posner |
+| 600 | 109 | Nicole Suber |
+| 601 | 108 | Gino Positano |
+| 602 | 108 | Kelly |
+| 603 | 108 | Brooklyn Todd |
+| 604 | 108 | Ssirkus |
+| 605 | 108 | Maurii93 |
+| 606 | 108 | Renee Siems |
 | 607 | 107 | Carole Brown |
-| 608 | 107 | Chelsea Frye |
+| 608 | 107 | Chesney |
 | 609 | 107 | Sam Brewster |
 | 610 | 107 | Stephanie Smith Robinson |
-| 611 | 107 | Nerdy Gridlock |
-| 612 | 106 | Janelle Edgecombe |
-| 613 | 106 | Francesca Wagenhoffer |
-| 614 | 106 | Mary Whitaker |
-| 615 | 106 | Ssirkus |
+| 611 | 107 | Chelsea Frye |
+| 612 | 107 | Nerdy Gridlock |
+| 613 | 106 | DukeDino |
+| 614 | 106 | Janelle Edgecombe |
+| 615 | 106 | Francesca Wagenhoffer |
 | 616 | 106 | Andrea Rawson |
 | 617 | 106 | Cassandra Milner |
-| 618 | 105 | Trisha Schneider |
-| 619 | 105 | Gabrielle Rivera |
-| 620 | 105 | Julibeth Wells |
-| 621 | 105 | Michael Saunders |
+| 618 | 106 | Mary Whitaker |
+| 619 | 105 | Courtney Madison Hart |
+| 620 | 105 | Goofy Shatterbuilder |
+| 621 | 105 | Trisha Schneider |
 | 622 | 105 | Leigh Wilkerson |
-| 623 | 105 | Goofy Shatterbuilder |
-| 624 | 105 | Courtney Madison Hart |
-| 625 | 104 | Roe Sarmiento |
-| 626 | 104 | Holly Barefoot |
-| 627 | 104 | Vicke Patterson |
-| 628 | 104 | Patrick Ohanlon |
-| 629 | 104 | Kay |
-| 630 | 103 | Giddy Chiseler |
-| 631 | 103 | mee |
-| 632 | 103 | Princess Cucumber |
-| 633 | 103 | Darla Ragsdale |
-| 634 | 103 | Josh Vietz |
-| 635 | 102 | Nicole Sides KrazyKoop |
-| 636 | 102 | Jessica Bowman |
-| 637 | 102 | Kimberly Davis |
-| 638 | 102 | Kati Eckstein |
-| 639 | 102 | Sherry Ann |
-| 640 | 102 | Alissa Ary |
-| 641 | 102 | Erin Moore Galloway |
-| 642 | 101 | Squared |
-| 643 | 101 | Bonnie Huckleberry |
-| 644 | 101 | Jim Wright |
-| 645 | 100 | Epic Slice |
-| 646 | 100 | Carrie Hayes Lankford |
-| 647 | 100 | AshleyM |
-| 648 | 100 | Twisty Matchfit |
-| 649 | 100 | Denna Marteney |
-| 650 | 100 | Debbie Davis |
-| 651 | 100 | Nicole Chestnut |
-| 652 | 100 | gene15 |
-| 653 | 100 | Mandy |
-| 654 | 100 | Ahada Seber |
-| 655 | 100 | Tracy Tokarz |
-| 656 | 99 | Kaylene Rigas |
-| 657 | 99 | Cherica Taylor |
-| 658 | 99 | Denita Kaherl |
-| 659 | 99 | Hog Crankin |
-| 660 | 99 | Tammy Botkin |
-| 661 | 99 | Cheery Tilefall |
-| 662 | 99 | Amber Marie |
-| 663 | 98 | Ollie |
-| 664 | 98 | Lindsey Ross |
-| 665 | 98 | Sara BlueEyes |
-| 666 | 98 | Ashlee Johnson |
-| 667 | 98 | Saucy Lifter |
-| 668 | 97 | Eva Lopez |
-| 669 | 97 | Cozy Cascade |
-| 670 | 97 | Abby |
-| 671 | 97 | Adri Perez |
-| 672 | 97 | Brooke Kaune |
-| 673 | 97 | Donna Segletes Kay |
-| 674 | 97 | Sandra Pursell |
-| 675 | 96 | Queen |
-| 676 | 96 | Shaylee Haltiner |
-| 677 | 96 | Dandy Tiltgrid |
-| 678 | 96 | Mouh Ity |
-| 679 | 96 | Rhonda Driskill |
-| 680 | 96 | Riggins Terry |
-| 681 | 96 | DukeDino |
+| 623 | 105 | Michael Saunders |
+| 624 | 105 | Julibeth Wells |
+| 625 | 105 | Gabrielle Rivera |
+| 626 | 104 | Roe Sarmiento |
+| 627 | 104 | Holly Barefoot |
+| 628 | 104 | Vicke Patterson |
+| 629 | 104 | Patrick Ohanlon |
+| 630 | 104 | Kay |
+| 631 | 103 | Giddy Chiseler |
+| 632 | 103 | mee |
+| 633 | 103 | Princess Cucumber |
+| 634 | 103 | Darla Ragsdale |
+| 635 | 103 | Josh Vietz |
+| 636 | 102 | Nicole Sides KrazyKoop |
+| 637 | 102 | Jessica Bowman |
+| 638 | 102 | Kimberly Davis |
+| 639 | 102 | Kati Eckstein |
+| 640 | 102 | Sherry Ann |
+| 641 | 102 | Alissa Ary |
+| 642 | 102 | Erin Moore Galloway |
+| 643 | 101 | Squared |
+| 644 | 101 | Bonnie Huckleberry |
+| 645 | 101 | Jim Wright |
+| 646 | 100 | Epic Slice |
+| 647 | 100 | Carrie Hayes Lankford |
+| 648 | 100 | AshleyM |
+| 649 | 100 | Twisty Matchfit |
+| 650 | 100 | Denna Marteney |
+| 651 | 100 | Debbie Davis |
+| 652 | 100 | Nicole Chestnut |
+| 653 | 100 | gene15 |
+| 654 | 100 | Mandy |
+| 655 | 100 | Ahada Seber |
+| 656 | 100 | Tracy Tokarz |
+| 657 | 99 | Kaylene Rigas |
+| 658 | 99 | Cherica Taylor |
+| 659 | 99 | Denita Kaherl |
+| 660 | 99 | Hog Crankin |
+| 661 | 99 | Tammy Botkin |
+| 662 | 99 | Cheery Tilefall |
+| 663 | 99 | Amber Marie |
+| 664 | 98 | Ollie |
+| 665 | 98 | Lindsey Ross |
+| 666 | 98 | Sara BlueEyes |
+| 667 | 98 | Ashlee Johnson |
+| 668 | 98 | Saucy Lifter |
+| 669 | 97 | Eva Lopez |
+| 670 | 97 | Cozy Cascade |
+| 671 | 97 | Abby |
+| 672 | 97 | Adri Perez |
+| 673 | 97 | Brooke Kaune |
+| 674 | 97 | Donna Segletes Kay |
+| 675 | 97 | Sandra Pursell |
+| 676 | 96 | Queen |
+| 677 | 96 | Shaylee Haltiner |
+| 678 | 96 | Dandy Tiltgrid |
+| 679 | 96 | Mouh Ity |
+| 680 | 96 | Rhonda Driskill |
+| 681 | 96 | Riggins Terry |
 | 682 | 96 | Shawn Jensen |
 | 683 | 95 | Leighla Davis |
 | 684 | 95 | Jennifer Leigh |
