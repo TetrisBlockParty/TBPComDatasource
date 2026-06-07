@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:04:19 UTC
+# Standings for team1 as of 2026-06-07 08:04:40 UTC
 
 **Total Participants:** 1424
 
@@ -239,25 +239,25 @@
 | 231 | 193 | Mikayla |
 | 232 | 192 | Trina Greenwood |
 | 233 | 192 | Katherine Short |
-| 234 | 191 | Emily Wright |
-| 235 | 191 | DaGuy |
+| 234 | 191 | DaGuy |
+| 235 | 191 | Emily Wright |
 | 236 | 191 | Kelli Couture |
 | 237 | 189 | LaShaun Stinson |
-| 238 | 187 | Keke Ferguson |
-| 239 | 187 | Kenny MrOnethousand Peck |
+| 238 | 187 | Kenny MrOnethousand Peck |
+| 239 | 187 | Keke Ferguson |
 | 240 | 187 | Heather Aurelia |
 | 241 | 186 | Chuck Quarles |
 | 242 | 186 | Stephen Providenti |
 | 243 | 186 | Lesley Brunkus Cianfaglione |
 | 244 | 185 | Richard Flex |
-| 245 | 184 | Frisky Fall |
-| 246 | 184 | Dai Bo |
+| 245 | 184 | Dai Bo |
+| 246 | 184 | Frisky Fall |
 | 247 | 183 | Wild Out Nai |
 | 248 | 182 | Hyper Blocky |
 | 249 | 181 | Rachel Zimmerman |
 | 250 | 180 | Melissa D. M. Hornsby |
-| 251 | 180 | Zippy Lifter |
-| 252 | 180 | Ann Chung |
+| 251 | 180 | Ann Chung |
+| 252 | 180 | Zippy Lifter |
 | 253 | 179 | Amber Wilson |
 | 254 | 179 | ♈️ Ariesbaby |
 | 255 | 178 | Randizzle |
@@ -266,40 +266,40 @@
 | 258 | 176 | Nikki Hogan |
 | 259 | 173 | Chipper Snapper |
 | 260 | 171 | Boldy Liner |
-| 261 | 169 | Asha Langford |
-| 262 | 169 | Jai |
+| 261 | 169 | Jai |
+| 262 | 169 | Asha Langford |
 | 263 | 166 | Poppy Buildout |
-| 264 | 166 | Valerie Alexander |
-| 265 | 166 | 신재호 |
-| 266 | 166 | Tarnisha Neicy Jones |
+| 264 | 166 | 신재호 |
+| 265 | 166 | Tarnisha Neicy Jones |
+| 266 | 166 | Valerie Alexander |
 | 267 | 165 | Tanisha Taylor |
 | 268 | 164 | TT |
 | 269 | 163 | Mafio SO |
 | 270 | 163 | Zappy Riser |
-| 271 | 162 | JaClanDiah |
+| 271 | 162 | Amy Lynn Leifheit |
 | 272 | 162 | Speedy Stacky |
-| 273 | 162 | Amy Lynn Leifheit |
-| 274 | 162 | Clever Fitblock |
-| 275 | 160 | Carolyn Smith |
-| 276 | 160 | Lively Riserpiece |
-| 277 | 160 | Spicy Risepiece |
+| 273 | 162 | Clever Fitblock |
+| 274 | 162 | JaClanDiah |
+| 275 | 161 | Bre Poston |
+| 276 | 160 | Carolyn Smith |
+| 277 | 160 | Lively Riserpiece |
 | 278 | 160 | Sara Meri |
-| 279 | 159 | Brand Nu |
-| 280 | 159 | TBABYJ |
-| 281 | 158 | Kimberly Linares Hernandez |
-| 282 | 157 | Courtney Cicoria |
-| 283 | 156 | Cheeky Twistpiece |
-| 284 | 156 | SceneGreenz Wali |
-| 285 | 156 | Snippy Breaker |
-| 286 | 155 | Lazy Tiltpiece |
-| 287 | 154 | Sammie Walker |
+| 279 | 160 | Spicy Risepiece |
+| 280 | 159 | Brand Nu |
+| 281 | 159 | TBABYJ |
+| 282 | 158 | Kimberly Linares Hernandez |
+| 283 | 157 | Courtney Cicoria |
+| 284 | 156 | Snippy Breaker |
+| 285 | 156 | SceneGreenz Wali |
+| 286 | 156 | Cheeky Twistpiece |
+| 287 | 155 | Lazy Tiltpiece |
 | 288 | 154 | Slinky Snapbuilder |
-| 289 | 153 | Tipsy Linkroll |
-| 290 | 153 | Rackemwillie34 |
-| 291 | 153 | Bre Poston |
+| 289 | 154 | Sammie Walker |
+| 290 | 153 | Tipsy Linkroll |
+| 291 | 153 | Rackemwillie34 |
 | 292 | 152 | Jolly Tilefall |
-| 293 | 150 | Slinky Party |
-| 294 | 150 | Zippy Tilefall |
+| 293 | 150 | Zippy Tilefall |
+| 294 | 150 | Slinky Party |
 | 295 | 149 | Elizabeth Vega Coreano |
 | 296 | 149 | Chasem45 |
 | 297 | 149 | Christopher Dreamsareality McEachin |
@@ -325,11 +325,11 @@
 | 317 | 137 | Tay |
 | 318 | 137 | Nickeya Phillips |
 | 319 | 137 | Lisa Fletcher |
-| 320 | 136 | McKayla Owens |
-| 321 | 136 | Alyssa Rae |
-| 322 | 135 | Sean White |
-| 323 | 135 | Saucy Tile |
-| 324 | 135 | Tosha Michelle |
+| 320 | 137 | Tosha Michelle |
+| 321 | 136 | McKayla Owens |
+| 322 | 136 | Alyssa Rae |
+| 323 | 135 | Sean White |
+| 324 | 135 | Saucy Tile |
 | 325 | 135 | Skippy |
 | 326 | 134 | Peppy Glider |
 | 327 | 134 | Brittanie Wardlow |
@@ -790,31 +790,31 @@
 | 782 | 47 | Taylor Jordan Hollis |
 | 783 | 47 | Jodie |
 | 784 | 47 | Denise Cunningham-English |
-| 785 | 47 | Jessie N Michael Silvers |
-| 786 | 47 | Tyrone Porter |
-| 787 | 47 | Tushama Cheris Okraku |
-| 788 | 47 | RylonJones |
-| 789 | 47 | Jojo M |
-| 790 | 47 | Kevin Turner |
-| 791 | 46 | Rosalind Chatman |
-| 792 | 46 | Jenni |
-| 793 | 46 | Felicia Dungey |
-| 794 | 46 | Kimberly Red |
-| 795 | 46 | Smiley Bridgepiece |
-| 796 | 46 | Kim Holzmiller |
-| 797 | 46 | Lucille Wilson Davis |
-| 798 | 46 | Elizabeth Green |
-| 799 | 46 | TrapQween39Bi |
-| 800 | 45 | GetDaOPPS |
-| 801 | 45 | Sunny Tumbler |
-| 802 | 45 | Skye |
-| 803 | 45 | Cali Lee |
-| 804 | 45 | Cheery Linkfall |
-| 805 | 45 | Heather Cross-Davis |
-| 806 | 45 | Lawreniesha Burkley |
-| 807 | 45 | Crtjstr |
-| 808 | 45 | Y3llOWFAC3 |
-| 809 | 45 | Renee J. Thomas |
+| 785 | 47 | Tyrone Porter |
+| 786 | 47 | Tushama Cheris Okraku |
+| 787 | 47 | Jojo M |
+| 788 | 47 | Kevin Turner |
+| 789 | 47 | RylonJones |
+| 790 | 47 | Jessie N Michael Silvers |
+| 791 | 46 | TrapQween39Bi |
+| 792 | 46 | Andrew Jay Vaughn |
+| 793 | 46 | Lucille Wilson Davis |
+| 794 | 46 | Rosalind Chatman |
+| 795 | 46 | Kimberly Red |
+| 796 | 46 | Jenni |
+| 797 | 46 | Felicia Dungey |
+| 798 | 46 | Smiley Bridgepiece |
+| 799 | 46 | Kim Holzmiller |
+| 800 | 46 | Elizabeth Green |
+| 801 | 45 | Cheery Linkfall |
+| 802 | 45 | Cali Lee |
+| 803 | 45 | Heather Cross-Davis |
+| 804 | 45 | Lawreniesha Burkley |
+| 805 | 45 | Crtjstr |
+| 806 | 45 | Y3llOWFAC3 |
+| 807 | 45 | GetDaOPPS |
+| 808 | 45 | Renee J. Thomas |
+| 809 | 45 | Skye |
 | 810 | 45 | Frothy Zoney |
 | 811 | 45 | Marc Papa |
 | 812 | 45 | MrsDontPlay |
@@ -824,21 +824,21 @@
 | 816 | 45 | Brave Balanceblock |
 | 817 | 45 | Sweet BayBee |
 | 818 | 45 | Matraca Young |
-| 819 | 44 | GiantBehemoth |
-| 820 | 44 | Nic Nic |
-| 821 | 44 | Teresa Menefee |
-| 822 | 44 | Renee Marshall |
-| 823 | 44 | Tez Mays |
-| 824 | 44 | JoZanna Washington |
+| 819 | 45 | Sunny Tumbler |
+| 820 | 44 | GiantBehemoth |
+| 821 | 44 | Nic Nic |
+| 822 | 44 | Teresa Menefee |
+| 823 | 44 | Renee Marshall |
+| 824 | 44 | Tez Mays |
 | 825 | 44 | Connor Leon Cluff |
 | 826 | 44 | Shakmar |
 | 827 | 44 | LaSharon Jackson |
 | 828 | 44 | BonnieB |
-| 829 | 43 | Andrew Jay Vaughn |
-| 830 | 43 | Louise Parker |
-| 831 | 43 | Vivian Bunnell Myers |
-| 832 | 43 | Evelyn Epps |
-| 833 | 43 | Giggy Brickfit |
+| 829 | 44 | JoZanna Washington |
+| 830 | 43 | Giggy Brickfit |
+| 831 | 43 | Louise Parker |
+| 832 | 43 | Vivian Bunnell Myers |
+| 833 | 43 | Evelyn Epps |
 | 834 | 43 | Amihan |
 | 835 | 43 | Corbin Henry |
 | 836 | 43 | Block |
