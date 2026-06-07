@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 10:06:42 UTC
+# Standings for team1 as of 2026-06-07 10:07:18 UTC
 
 **Total Participants:** 1437
 
@@ -96,8 +96,8 @@
 | 88 | 661 | Bre Maugh |
 | 89 | 620 | IamJust Neyamijah Washington Sr. |
 | 90 | 613 | Big Tina |
-| 91 | 601 | JaszyBadd |
-| 92 | 596 | Kellie Hall |
+| 91 | 606 | Kellie Hall |
+| 92 | 601 | JaszyBadd |
 | 93 | 588 | Shontanese Adams |
 | 94 | 587 | She Higgy |
 | 95 | 587 | KenpachisGirl |
