@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 02:20:17 UTC
+# Standings for team4 as of 2026-06-07 02:20:40 UTC
 
 **Total Participants:** 1276
 
@@ -469,16 +469,16 @@
 | 461 | 79 | Lisa Jones |
 | 462 | 79 | yourmomz |
 | 463 | 79 | Elena Marí |
-| 464 | 79 | Azahares Alonso |
-| 465 | 79 | Has2brat |
-| 466 | 79 | Jacinta Hooker-Brown |
-| 467 | 79 | Gean DeJesus |
+| 464 | 79 | Has2brat |
+| 465 | 79 | Audrianna Skaff |
+| 466 | 79 | JoAnn Summerlot Ratliff |
+| 467 | 79 | Jacinta Hooker-Brown |
 | 468 | 79 | Melissa Lowe |
-| 469 | 79 | JoAnn Summerlot Ratliff |
-| 470 | 79 | Audrianna Skaff |
-| 471 | 78 | Dena Lynn Rogers |
-| 472 | 78 | Andrea Dre Lomeli |
-| 473 | 78 | Mint Marquez |
+| 469 | 79 | Azahares Alonso |
+| 470 | 79 | Gean DeJesus |
+| 471 | 78 | Mint Marquez |
+| 472 | 78 | Dena Lynn Rogers |
+| 473 | 78 | Andrea Dre Lomeli |
 | 474 | 77 | Giggy Snapgrid |
 | 475 | 77 | Ajohnna Frazee |
 | 476 | 77 | Bonique Bier |
@@ -487,44 +487,44 @@
 | 479 | 76 | Perry Ransom |
 | 480 | 76 | Baysoph |
 | 481 | 76 | Spicy Peach |
-| 482 | 75 | Shawna Downey |
-| 483 | 75 | Marco A. Sandoval |
+| 482 | 75 | Marco A. Sandoval |
+| 483 | 75 | Shawna Downey |
 | 484 | 75 | BookwormCate |
 | 485 | 75 | Kristen Nicole Depp-Stewart |
 | 486 | 74 | Jason Moves |
 | 487 | 74 | Ami Ferguson |
-| 488 | 73 | Giggly Rollpiece |
-| 489 | 73 | Destiny Starr LeValdo |
-| 490 | 73 | Csigirlnc |
-| 491 | 72 | Deana Teck |
+| 488 | 73 | Csigirlnc |
+| 489 | 73 | Giggly Rollpiece |
+| 490 | 73 | Destiny Starr LeValdo |
+| 491 | 73 | Happy Toast |
 | 492 | 72 | Loretta Hendricks |
-| 493 | 72 | Ian T Parker |
-| 494 | 72 | Tiffany Roberts |
-| 495 | 72 | Fancy Riser |
-| 496 | 72 | sierrabeth |
+| 493 | 72 | Deana Teck |
+| 494 | 72 | Ian T Parker |
+| 495 | 72 | sierrabeth |
+| 496 | 72 | Fancy Riser |
 | 497 | 72 | Virgil Mayfield-Brown |
-| 498 | 71 | Snazzy Fitclear |
+| 498 | 72 | Tiffany Roberts |
 | 499 | 71 | Fancy Rollfit |
 | 500 | 71 | Kat Foreman |
-| 501 | 71 | Alizabeth Garcia |
-| 502 | 71 | Taquilla Branch |
-| 503 | 71 | Giggy Blockpiece |
-| 504 | 71 | Ana Ruiz |
-| 505 | 70 | Charlene Nicole Guidry |
-| 506 | 70 | Winter Moon |
+| 501 | 71 | Snazzy Fitclear |
+| 502 | 71 | Alizabeth Garcia |
+| 503 | 71 | Ana Ruiz |
+| 504 | 71 | Giggy Blockpiece |
+| 505 | 71 | Taquilla Branch |
+| 506 | 70 | LilithMoon |
 | 507 | 70 | Kimberly Devon |
-| 508 | 70 | Happy Toast |
-| 509 | 70 | Giggy Splitter |
-| 510 | 70 | Breezy Blockzone |
-| 511 | 70 | LilithMoon |
-| 512 | 69 | Jj Johnson |
+| 508 | 70 | Charlene Nicole Guidry |
+| 509 | 70 | Winter Moon |
+| 510 | 70 | Giggy Splitter |
+| 511 | 70 | Breezy Blockzone |
+| 512 | 69 | Breezy Rollfit |
 | 513 | 69 | Khylee DarDar |
-| 514 | 69 | Alicia Cook |
-| 515 | 69 | Gigi5 |
-| 516 | 69 | Breezy Rollfit |
-| 517 | 69 | Beth Belanger |
-| 518 | 68 | Ricky Colvin |
-| 519 | 68 | Suzanne North |
+| 514 | 69 | Jj Johnson |
+| 515 | 69 | Alicia Cook |
+| 516 | 69 | Beth Belanger |
+| 517 | 69 | Gigi5 |
+| 518 | 68 | Suzanne North |
+| 519 | 68 | Ricky Colvin |
 | 520 | 68 | Keys Tome |
 | 521 | 68 | Poptart |
 | 522 | 68 | Paula Renee McCracken |
