@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 20:28:19 UTC
+# Standings for team4 as of 2026-06-07 20:28:42 UTC
 
 **Total Participants:** 1600
 
@@ -77,9 +77,9 @@
 | 69 | 923 | Snippy Grid |
 | 70 | 906 | Hannah Pazar |
 | 71 | 892 | Alala.Cersei |
-| 72 | 885 | J |
-| 73 | 876 | SMV |
-| 74 | 861 | Tommy Bond |
+| 72 | 891 | Tommy Bond |
+| 73 | 885 | J |
+| 74 | 876 | SMV |
 | 75 | 859 | Blayne Kole |
 | 76 | 857 | Trice Stevenson |
 | 77 | 855 | Jonathan Hewitt |
@@ -510,12 +510,12 @@
 | 502 | 111 | chefjaydawg |
 | 503 | 111 | Elena Marí |
 | 504 | 111 | Janae Harris |
-| 505 | 110 | Gary Smallwood |
-| 506 | 110 | Luna |
-| 507 | 110 | Kea Sushi |
-| 508 | 110 | Robert Crow |
-| 509 | 110 | Andreas Vs Shinky |
-| 510 | 110 | EpicWizard |
+| 505 | 111 | EpicWizard |
+| 506 | 110 | Gary Smallwood |
+| 507 | 110 | Luna |
+| 508 | 110 | Kea Sushi |
+| 509 | 110 | Robert Crow |
+| 510 | 110 | Andreas Vs Shinky |
 | 511 | 109 | PsyDMom |
 | 512 | 109 | Edward White |
 | 513 | 108 | Garden Girlie |

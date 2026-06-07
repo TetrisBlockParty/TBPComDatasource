@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 20:28:19 UTC
+# Standings for team1 as of 2026-06-07 20:28:42 UTC
 
 **Total Participants:** 1569
 
@@ -226,8 +226,8 @@
 | 218 | 279 | Reginald Frank |
 | 219 | 278 | Sharon Cail |
 | 220 | 277 | Rhonda Williams Warner |
-| 221 | 275 | Jawaun Daniels |
-| 222 | 275 | Chris Sladoje |
+| 221 | 275 | Chris Sladoje |
+| 222 | 275 | Jawaun Daniels |
 | 223 | 274 | 신재호 |
 | 224 | 272 | Katherine Short |
 | 225 | 272 | Tarnisha Neicy Jones |
@@ -236,12 +236,12 @@
 | 228 | 269 | DaGuy |
 | 229 | 267 | Keke Ferguson |
 | 230 | 264 | Penee Wiggins |
-| 231 | 263 | Slim Shedidthat |
-| 232 | 263 | Dacia Hicks |
+| 231 | 263 | Dacia Hicks |
+| 232 | 263 | Slim Shedidthat |
 | 233 | 261 | Jhonny Maii |
-| 234 | 260 | Ketrell Bailey |
+| 234 | 260 | Ann Chung |
 | 235 | 260 | Natasha Rucker |
-| 236 | 260 | Ann Chung |
+| 236 | 260 | Ketrell Bailey |
 | 237 | 258 | Koi |
 | 238 | 257 | Cathy Young |
 | 239 | 257 | Mafio SO |
@@ -253,12 +253,12 @@
 | 245 | 248 | Yasmin Nakea Wright |
 | 246 | 248 | Mikayla |
 | 247 | 248 | Jazzy Fireflighters |
-| 248 | 245 | Bre Poston |
-| 249 | 245 | Derrius SeriousLee Burks |
-| 250 | 244 | Rachel Zimmerman |
-| 251 | 244 | Teddy Davis |
-| 252 | 244 | Frisky Fall |
-| 253 | 244 | Chilly Wipebuilder |
+| 248 | 246 | Chilly Wipebuilder |
+| 249 | 245 | Bre Poston |
+| 250 | 245 | Derrius SeriousLee Burks |
+| 251 | 244 | Rachel Zimmerman |
+| 252 | 244 | Teddy Davis |
+| 253 | 244 | Frisky Fall |
 | 254 | 244 | Ann White |
 | 255 | 243 | Slinky Brickmatch |
 | 256 | 240 | Rayya Kiser |
@@ -961,40 +961,40 @@
 | 953 | 47 | Jodie |
 | 954 | 46 | Rosalind Chatman |
 | 955 | 46 | Elizabeth Green |
-| 956 | 46 | TrapQween39Bi |
-| 957 | 46 | Kimberly Red |
-| 958 | 46 | Jenni |
-| 959 | 46 | Felicia Dungey |
-| 960 | 45 | Sarah Jones |
-| 961 | 45 | Matraca Young |
-| 962 | 45 | GetDaOPPS |
-| 963 | 45 | Tia Hazelton |
-| 964 | 45 | WReckitraff |
-| 965 | 45 | Skye |
-| 966 | 45 | rosieredpanda |
-| 967 | 45 | Mrs |
-| 968 | 45 | Mumitt |
-| 969 | 45 | Hoppy Rumbler |
-| 970 | 45 | Heather Cross-Davis |
-| 971 | 45 | Meshia |
-| 972 | 45 | Beautiful314 |
-| 973 | 45 | Antoinette Kidd |
-| 974 | 45 | PattyPower |
-| 975 | 45 | Y3llOWFAC3 |
-| 976 | 45 | Brave Balanceblock |
-| 977 | 45 | Cali Lee |
-| 978 | 45 | Frothy Zoney |
-| 979 | 45 | Lawreniesha Burkley |
-| 980 | 45 | Amanda Colwell |
-| 981 | 45 | Jason A Giantonio |
-| 982 | 44 | Tez Mays |
-| 983 | 44 | Ducc2408 |
-| 984 | 44 | Connor Leon Cluff |
-| 985 | 44 | Ivan Israel |
-| 986 | 44 | Kidgib5 |
+| 956 | 46 | Kidgib5 |
+| 957 | 46 | TrapQween39Bi |
+| 958 | 46 | Kimberly Red |
+| 959 | 46 | Jenni |
+| 960 | 46 | Felicia Dungey |
+| 961 | 45 | Jason A Giantonio |
+| 962 | 45 | Antoinette Kidd |
+| 963 | 45 | Heather Cross-Davis |
+| 964 | 45 | Matraca Young |
+| 965 | 45 | GetDaOPPS |
+| 966 | 45 | Tia Hazelton |
+| 967 | 45 | WReckitraff |
+| 968 | 45 | rosieredpanda |
+| 969 | 45 | Skye |
+| 970 | 45 | Mrs |
+| 971 | 45 | Mumitt |
+| 972 | 45 | Frothy Zoney |
+| 973 | 45 | Hoppy Rumbler |
+| 974 | 45 | Sarah Jones |
+| 975 | 45 | Meshia |
+| 976 | 45 | Beautiful314 |
+| 977 | 45 | Amanda Colwell |
+| 978 | 45 | Lawreniesha Burkley |
+| 979 | 45 | PattyPower |
+| 980 | 45 | Y3llOWFAC3 |
+| 981 | 45 | Brave Balanceblock |
+| 982 | 45 | Cali Lee |
+| 983 | 44 | Candy Lee |
+| 984 | 44 | Ducc2408 |
+| 985 | 44 | Connor Leon Cluff |
+| 986 | 44 | Ivan Israel |
 | 987 | 44 | Mark Steven Pichler |
 | 988 | 44 | Nic Nic |
-| 989 | 44 | Candy Lee |
+| 989 | 44 | Tez Mays |
 | 990 | 43 | Alivia Dove |
 | 991 | 43 | Jovy |
 | 992 | 43 | Phoenix |
