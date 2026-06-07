@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 07:22:18 UTC
+# Standings for team4 as of 2026-06-07 07:22:40 UTC
 
 **Total Participants:** 1404
 
@@ -161,8 +161,8 @@
 | 153 | 307 | Debby Ruof |
 | 154 | 300 | Genag |
 | 155 | 296 | Randy M Hatch |
-| 156 | 294 | Yesenia Castro Monreal |
-| 157 | 294 | Dazzle Dragon |
+| 156 | 294 | Dazzle Dragon |
+| 157 | 294 | Yesenia Castro Monreal |
 | 158 | 292 | Katie Martin |
 | 159 | 287 | Sisi RedVelvet Reneè |
 | 160 | 285 | TRUCHILD777$$$ |
@@ -176,13 +176,13 @@
 | 168 | 270 | Jojo Ann |
 | 169 | 268 | Megan Vick |
 | 170 | 266 | shawna |
-| 171 | 262 | squareMel |
-| 172 | 261 | Waxboss |
-| 173 | 259 | Jessica Peyton |
-| 174 | 253 | Tammy June |
-| 175 | 248 | Scamp Jones |
+| 171 | 264 | Chiquita Blue |
+| 172 | 262 | squareMel |
+| 173 | 261 | Waxboss |
+| 174 | 259 | Jessica Peyton |
+| 175 | 253 | Tammy June |
 | 176 | 248 | Perky Riserbuilder |
-| 177 | 247 | Chiquita Blue |
+| 177 | 248 | Scamp Jones |
 | 178 | 247 | LastBoi |
 | 179 | 247 | QueenLi86 |
 | 180 | 244 | matt |
@@ -190,28 +190,28 @@
 | 182 | 242 | Danny Ortiz |
 | 183 | 242 | Shepreneur Sade |
 | 184 | 241 | Alma López Morales |
-| 185 | 241 | Tawna Curry |
-| 186 | 241 | Lush Fitblock |
+| 185 | 241 | Lush Fitblock |
+| 186 | 241 | Tawna Curry |
 | 187 | 237 | Anna Gribble |
-| 188 | 236 | BusterBear56 |
-| 189 | 236 | Becky McCool |
+| 188 | 236 | Becky McCool |
+| 189 | 236 | BusterBear56 |
 | 190 | 233 | Christy Beezley-Forbush |
 | 191 | 231 | Patrick Alley |
 | 192 | 230 | Magz |
 | 193 | 230 | gabs |
-| 194 | 226 | Sassy Rollpiece |
-| 195 | 225 | Shocinda Sherwood |
-| 196 | 225 | Dubiousdust |
-| 197 | 225 | Cheery Risegrid |
-| 198 | 224 | Janet Sanfilippo Sullivan |
-| 199 | 223 | Queen B |
-| 200 | 220 | blockhead |
-| 201 | 220 | Silly Risegrid |
-| 202 | 220 | Shmeedo |
-| 203 | 219 | Plucky Shatterfit |
-| 204 | 218 | Lori Stembridge |
-| 205 | 215 | Jj Johnson |
-| 206 | 212 | Iforget |
+| 194 | 227 | Iforget |
+| 195 | 226 | Sassy Rollpiece |
+| 196 | 225 | Shocinda Sherwood |
+| 197 | 225 | Dubiousdust |
+| 198 | 225 | Cheery Risegrid |
+| 199 | 224 | Janet Sanfilippo Sullivan |
+| 200 | 223 | Queen B |
+| 201 | 220 | blockhead |
+| 202 | 220 | Silly Risegrid |
+| 203 | 220 | Shmeedo |
+| 204 | 219 | Plucky Shatterfit |
+| 205 | 218 | Lori Stembridge |
+| 206 | 215 | Jj Johnson |
 | 207 | 211 | Renee Sapp |
 | 208 | 211 | Pepone Pepe |
 | 209 | 211 | Goofy Riser |
