@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 06:34:40 UTC
+# Standings for team4 as of 2026-06-07 06:35:18 UTC
 
 **Total Participants:** 1391
 
@@ -35,11 +35,11 @@
 | 27 | 2882 | Fruitpunch |
 | 28 | 2133 | Alexandria Frazier |
 | 29 | 1944 | Juan Ford |
-| 30 | 1922 | Dana Rinaldi |
-| 31 | 1908 | Michele Walker |
-| 32 | 1867 | Leigh Pierce |
-| 33 | 1783 | Loony Rotater |
-| 34 | 1766 | BertaF1irta |
+| 30 | 1928 | BertaF1irta |
+| 31 | 1922 | Dana Rinaldi |
+| 32 | 1908 | Michele Walker |
+| 33 | 1867 | Leigh Pierce |
+| 34 | 1783 | Loony Rotater |
 | 35 | 1732 | Witty Clicky |
 | 36 | 1674 | Jeanette Hailey |
 | 37 | 1622 | kcknbtz |
@@ -60,17 +60,17 @@
 | 52 | 987 | Gloria Nunley Trussell |
 | 53 | 985 | Nick Graber |
 | 54 | 971 | Loony Towerer |
-| 55 | 925 | Giggy Matchpiece |
-| 56 | 900 | Kathy Brookins |
-| 57 | 892 | Alala.Cersei |
-| 58 | 880 | Snippy Grid |
-| 59 | 876 | SMV |
-| 60 | 863 | Tiffany Loree Tiffany Oneill |
-| 61 | 848 | Beee |
-| 62 | 836 | Blind Bette |
-| 63 | 832 | Jason Allen |
-| 64 | 830 | Kitsune Bi |
-| 65 | 830 | Jennifer Edgell Richardson |
+| 55 | 930 | Jennifer Edgell Richardson |
+| 56 | 925 | Giggy Matchpiece |
+| 57 | 900 | Kathy Brookins |
+| 58 | 892 | Alala.Cersei |
+| 59 | 880 | Snippy Grid |
+| 60 | 876 | SMV |
+| 61 | 863 | Tiffany Loree Tiffany Oneill |
+| 62 | 848 | Beee |
+| 63 | 836 | Blind Bette |
+| 64 | 832 | Jason Allen |
+| 65 | 830 | Kitsune Bi |
 | 66 | 818 | MysticMaven |
 | 67 | 805 | JoLinda Dunn |
 | 68 | 800 | Leah Gorsuch |
@@ -171,12 +171,12 @@
 | 163 | 273 | Danielle Mitchell |
 | 164 | 270 | Jojo Ann |
 | 165 | 266 | shawna |
-| 166 | 262 | squareMel |
-| 167 | 261 | Waxboss |
-| 168 | 260 | Slimm |
-| 169 | 259 | Jessica Peyton |
-| 170 | 259 | Megan Vick |
-| 171 | 255 | TRUCHILD777$$$ |
+| 166 | 265 | TRUCHILD777$$$ |
+| 167 | 262 | squareMel |
+| 168 | 261 | Waxboss |
+| 169 | 260 | Slimm |
+| 170 | 259 | Jessica Peyton |
+| 171 | 259 | Megan Vick |
 | 172 | 253 | Tammy June |
 | 173 | 248 | Perky Riserbuilder |
 | 174 | 247 | QueenLi86 |
