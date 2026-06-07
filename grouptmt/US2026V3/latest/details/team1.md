@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 13:58:40 UTC
+# Standings for team1 as of 2026-06-07 13:59:19 UTC
 
 **Total Participants:** 1473
 
@@ -24,7 +24,7 @@
 | 16 | 5126 | Hunter Rayborn |
 | 17 | 3845 | Cassidy Butler |
 | 18 | 3776 | Pdubbl3 |
-| 19 | 3321 | Chandler Spencer |
+| 19 | 3421 | Chandler Spencer |
 | 20 | 3039 | Chummy Combo |
 | 21 | 2863 | Sha Harris |
 | 22 | 2708 | Ebo Got-Time |
@@ -165,8 +165,8 @@
 | 157 | 330 | Jessica Russell |
 | 158 | 328 | Dynah Gordon |
 | 159 | 324 | Chuck Quarles |
-| 160 | 318 | Mimi 1.0 |
-| 161 | 317 | Lesley Brunkus Cianfaglione |
+| 160 | 319 | Lesley Brunkus Cianfaglione |
+| 161 | 318 | Mimi 1.0 |
 | 162 | 315 | Nerdy Snapfall |
 | 163 | 312 | Michelle Titus |
 | 164 | 310 | Chantelle Lee |
@@ -337,22 +337,22 @@
 | 329 | 150 | De'Nell Edwards |
 | 330 | 150 | Simone Bailey |
 | 331 | 150 | Deveda Williams |
-| 332 | 149 | Christopher Dreamsareality McEachin |
+| 332 | 149 | Telisha Mims |
 | 333 | 149 | Anthony |
 | 334 | 149 | Chasem45 |
 | 335 | 149 | Elizabeth Vega Coreano |
 | 336 | 149 | HarleyJane |
-| 337 | 148 | LaToya Chambers |
-| 338 | 147 | Telisha Mims |
-| 339 | 147 | LuckyStar |
-| 340 | 147 | Joka NoTime ForHataz |
-| 341 | 146 | KeeKee Williams |
-| 342 | 146 | MamushiOh |
+| 337 | 149 | Christopher Dreamsareality McEachin |
+| 338 | 148 | LaToya Chambers |
+| 339 | 147 | Joka NoTime ForHataz |
+| 340 | 147 | LuckyStar |
+| 341 | 146 | MamushiOh |
+| 342 | 146 | KeeKee Williams |
 | 343 | 146 | BlackQueen105 |
 | 344 | 146 | Lakiesha Crawford |
 | 345 | 145 | Giggy Tower |
-| 346 | 145 | Squaw Ki Ng |
-| 347 | 145 | Matthieu Pistone |
+| 346 | 145 | Matthieu Pistone |
+| 347 | 145 | Squaw Ki Ng |
 | 348 | 144 | Sarah Clark |
 | 349 | 142 | Charlene Baltimore |
 | 350 | 141 | Shalena Marie Humphrey |
