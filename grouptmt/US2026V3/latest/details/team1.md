@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 12:24:19 UTC
+# Standings for team1 as of 2026-06-07 12:24:41 UTC
 
 **Total Participants:** 1451
 
@@ -292,114 +292,114 @@
 | 284 | 169 | Jai |
 | 285 | 169 | Asha Langford |
 | 286 | 169 | Slinky Brickmatch |
-| 287 | 166 | Valerie Alexander |
-| 288 | 166 | Poppy Buildout |
-| 289 | 166 | Tarnisha Neicy Jones |
-| 290 | 165 | Tanisha Taylor |
-| 291 | 165 | Skippy |
-| 292 | 164 | TT |
-| 293 | 163 | Zappy Riser |
+| 287 | 168 | izzybella |
+| 288 | 166 | Valerie Alexander |
+| 289 | 166 | Poppy Buildout |
+| 290 | 166 | Tarnisha Neicy Jones |
+| 291 | 165 | Tanisha Taylor |
+| 292 | 165 | Skippy |
+| 293 | 164 | TT |
 | 294 | 163 | Mafio SO |
-| 295 | 162 | Amy Lynn Leifheit |
-| 296 | 162 | Clever Fitblock |
-| 297 | 162 | JaClanDiah |
-| 298 | 162 | Speedy Stacky |
-| 299 | 162 | Tosha Michelle |
-| 300 | 161 | Devron Reedy |
-| 301 | 160 | Tyiesha Pie Farmer |
-| 302 | 160 | Spicy Risepiece |
-| 303 | 160 | Carolyn Smith |
-| 304 | 160 | Lively Riserpiece |
+| 295 | 163 | Zappy Riser |
+| 296 | 162 | Tosha Michelle |
+| 297 | 162 | Speedy Stacky |
+| 298 | 162 | Clever Fitblock |
+| 299 | 162 | Amy Lynn Leifheit |
+| 300 | 162 | JaClanDiah |
+| 301 | 161 | Devron Reedy |
+| 302 | 160 | Carolyn Smith |
+| 303 | 160 | Spicy Risepiece |
+| 304 | 160 | Tyiesha Pie Farmer |
 | 305 | 160 | Zippy Tilefall |
-| 306 | 159 | Penee Wiggins |
+| 306 | 160 | Lively Riserpiece |
 | 307 | 159 | TBABYJ |
-| 308 | 158 | Kimberly Linares Hernandez |
+| 308 | 159 | Penee Wiggins |
 | 309 | 158 | Slinky Snapbuilder |
-| 310 | 157 | Courtney Cicoria |
-| 311 | 156 | Alyssa Rae |
-| 312 | 156 | SceneGreenz Wali |
+| 310 | 158 | Kimberly Linares Hernandez |
+| 311 | 157 | Courtney Cicoria |
+| 312 | 156 | Alyssa Rae |
 | 313 | 156 | Cheeky Twistpiece |
-| 314 | 155 | Lazy Tiltpiece |
-| 315 | 153 | Tipsy Linkroll |
-| 316 | 152 | Jolly Tilefall |
-| 317 | 152 | Wacky Stackbuilder |
-| 318 | 150 | De'Nell Edwards |
+| 314 | 156 | SceneGreenz Wali |
+| 315 | 155 | Lazy Tiltpiece |
+| 316 | 153 | Tipsy Linkroll |
+| 317 | 152 | Jolly Tilefall |
+| 318 | 152 | Wacky Stackbuilder |
 | 319 | 150 | Simone Bailey |
-| 320 | 150 | Slinky Party |
-| 321 | 149 | Anthony |
-| 322 | 149 | Chasem45 |
-| 323 | 149 | HarleyJane |
-| 324 | 149 | Nina Davis |
-| 325 | 149 | Christopher Dreamsareality McEachin |
-| 326 | 149 | Elizabeth Vega Coreano |
-| 327 | 148 | LaToya Chambers |
-| 328 | 148 | izzybella |
+| 320 | 150 | De'Nell Edwards |
+| 321 | 150 | Slinky Party |
+| 322 | 149 | Christopher Dreamsareality McEachin |
+| 323 | 149 | Elizabeth Vega Coreano |
+| 324 | 149 | HarleyJane |
+| 325 | 149 | Nina Davis |
+| 326 | 149 | Chasem45 |
+| 327 | 149 | Anthony |
+| 328 | 148 | LaToya Chambers |
 | 329 | 147 | Joka NoTime ForHataz |
 | 330 | 147 | Telisha Mims |
 | 331 | 147 | LuckyStar |
-| 332 | 146 | BlackQueen105 |
+| 332 | 146 | KeeKee Williams |
 | 333 | 146 | Lakiesha Crawford |
-| 334 | 146 | KeeKee Williams |
+| 334 | 146 | BlackQueen105 |
 | 335 | 143 | BULLSEYE |
 | 336 | 142 | Charlene Baltimore |
 | 337 | 142 | Matthieu Pistone |
 | 338 | 141 | Shalena Marie Humphrey |
-| 339 | 140 | Eric Spencer Whitaker |
-| 340 | 140 | Nerdy Blockpiece |
-| 341 | 140 | Antoinette Jones |
-| 342 | 140 | rls |
-| 343 | 140 | MamushiOh |
+| 339 | 140 | MamushiOh |
+| 340 | 140 | rls |
+| 341 | 140 | Eric Spencer Whitaker |
+| 342 | 140 | Nerdy Blockpiece |
+| 343 | 140 | Antoinette Jones |
 | 344 | 139 | kitten |
-| 345 | 138 | Tamika Rocheteau |
-| 346 | 138 | Dreamzzz |
+| 345 | 138 | Dreamzzz |
+| 346 | 138 | Tamika Rocheteau |
 | 347 | 137 | Nickeya Phillips |
 | 348 | 137 | Giggy Tower |
-| 349 | 137 | Lisa Fletcher |
+| 349 | 137 | Tay |
 | 350 | 137 | Kelvin Cook |
-| 351 | 137 | Tay |
-| 352 | 136 | Travis Davison |
-| 353 | 136 | Char |
-| 354 | 136 | Cece Fowler |
-| 355 | 136 | Shanaa Germany Crittenden |
-| 356 | 136 | McKayla Owens |
-| 357 | 135 | Sean White |
-| 358 | 135 | Saucy Tile |
+| 351 | 137 | Lisa Fletcher |
+| 352 | 136 | Char |
+| 353 | 136 | McKayla Owens |
+| 354 | 136 | Shanaa Germany Crittenden |
+| 355 | 136 | Travis Davison |
+| 356 | 136 | Cece Fowler |
+| 357 | 135 | Saucy Tile |
+| 358 | 135 | Sean White |
 | 359 | 134 | Brittanie Wardlow |
-| 360 | 134 | Perky Pusher |
-| 361 | 134 | Peppy Glider |
-| 362 | 134 | Jae Thompson-Tyus |
+| 360 | 134 | Peppy Glider |
+| 361 | 134 | Jae Thompson-Tyus |
+| 362 | 134 | Perky Pusher |
 | 363 | 133 | Tasha |
 | 364 | 132 | Chirpy Buildgrid |
 | 365 | 132 | Tremaine Hiler |
 | 366 | 131 | Phillip Vasquez |
 | 367 | 131 | Sarah Clark |
-| 368 | 130 | Jessica Davis |
-| 369 | 130 | Crystal Anderson |
-| 370 | 130 | Katrina Ramey |
-| 371 | 130 | Adrian Wilson |
-| 372 | 130 | Maribel Vasquez |
+| 368 | 130 | Katrina Ramey |
+| 369 | 130 | Jessica Davis |
+| 370 | 130 | Maribel Vasquez |
+| 371 | 130 | Crystal Anderson |
+| 372 | 130 | Murg4dr01d |
 | 373 | 130 | Miera Nicole |
-| 374 | 130 | Murg4dr01d |
+| 374 | 130 | Adrian Wilson |
 | 375 | 129 | Mathew Trudell |
-| 376 | 129 | Loopy Tiler |
-| 377 | 129 | Lynn |
-| 378 | 128 | Jack Vlasak |
-| 379 | 128 | Darrel K Pemberton |
-| 380 | 128 | Breezy Catcher |
-| 381 | 127 | Comedian Prince Paul |
+| 376 | 129 | Lynn |
+| 377 | 129 | Loopy Tiler |
+| 378 | 128 | Breezy Catcher |
+| 379 | 128 | Jack Vlasak |
+| 380 | 128 | Darrel K Pemberton |
+| 381 | 127 | Treneil Daffin |
 | 382 | 127 | Ozell Jones Jr. |
-| 383 | 127 | Treneil Daffin |
-| 384 | 126 | Bubbly Piececlear |
-| 385 | 126 | Brittany Fells |
-| 386 | 125 | Dedra M Prester |
-| 387 | 125 | Kate Hancock Malicek |
-| 388 | 125 | LaTonya Myers |
-| 389 | 125 | Taz Ballard |
-| 390 | 125 | Dizzy Dashy |
+| 383 | 127 | Comedian Prince Paul |
+| 384 | 126 | Brittany Fells |
+| 385 | 126 | Bubbly Piececlear |
+| 386 | 125 | Kate Hancock Malicek |
+| 387 | 125 | LaTonya Myers |
+| 388 | 125 | Dizzy Dashy |
+| 389 | 125 | Dedra M Prester |
+| 390 | 125 | Taz Ballard |
 | 391 | 124 | The DUBZ |
 | 392 | 123 | Cauiasia DeJ'ae |
-| 393 | 122 | Yashica Smith |
-| 394 | 122 | Xana Zania Bopp |
+| 393 | 122 | Xana Zania Bopp |
+| 394 | 122 | Yashica Smith |
 | 395 | 122 | Donna Payne |
 | 396 | 121 | Tiana Monique |
 | 397 | 121 | Tee Spinks |
