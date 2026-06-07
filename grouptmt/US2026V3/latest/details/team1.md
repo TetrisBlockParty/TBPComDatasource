@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 23:38:18 UTC
+# Standings for team1 as of 2026-06-07 23:38:41 UTC
 
 **Total Participants:** 1619
 
@@ -212,8 +212,8 @@
 | 204 | 308 | NastyFriend |
 | 205 | 307 | Byron Mario Cawthon |
 | 206 | 306 | Devin West |
-| 207 | 305 | Salim Thugger |
-| 208 | 302 | Ashley MyBeauty Daniels |
+| 207 | 306 | Ashley MyBeauty Daniels |
+| 208 | 305 | Salim Thugger |
 | 209 | 301 | Steve Reno |
 | 210 | 300 | David Fuentes |
 | 211 | 300 | Koi |
