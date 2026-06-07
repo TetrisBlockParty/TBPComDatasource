@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 17:14:41 UTC
+# Standings for team2 as of 2026-06-07 17:15:18 UTC
 
 **Total Participants:** 1828
 
@@ -711,7 +711,7 @@
 | 703 | 85 | Jason P. Schwartz |
 | 704 | 85 | James Moore |
 | 705 | 85 | Susan Bosell |
-| 706 | 84 | Amber Marie |
+| 706 | 85 | Amber Marie |
 | 707 | 84 | Hog Crankin |
 | 708 | 84 | Calah Amore |
 | 709 | 84 | Coleen Yoder |
@@ -1132,11 +1132,11 @@
 | 1124 | 43 | Betty Muise |
 | 1125 | 43 | Amy Hahn Nickels |
 | 1126 | 43 | Bubbly Tilt |
-| 1127 | 42 | Christopher S Lawyer |
-| 1128 | 42 | Octavius Walker |
-| 1129 | 42 | Jolly Balanceblock |
-| 1130 | 42 | DukeDino |
-| 1131 | 42 | Lori Antrim Nichols |
+| 1127 | 42 | Lori Antrim Nichols |
+| 1128 | 42 | Christopher S Lawyer |
+| 1129 | 42 | Octavius Walker |
+| 1130 | 42 | Jolly Balanceblock |
+| 1131 | 42 | DukeDino |
 | 1132 | 42 | Henny Henny |
 | 1133 | 42 | MJLovesHer#OneMistake |
 | 1134 | 42 | Snazzy Smasher |
@@ -1149,56 +1149,56 @@
 | 1141 | 41 | Jenny Coffer |
 | 1142 | 41 | Meagan Thompson |
 | 1143 | 41 | Baby |
-| 1144 | 41 | Steve Eakins |
-| 1145 | 41 | Jenifer Seeley |
-| 1146 | 40 | Chris Christ |
-| 1147 | 40 | Giddy Climber |
-| 1148 | 40 | Christina German |
-| 1149 | 40 | Kimmi Knippel |
-| 1150 | 40 | Deezie |
-| 1151 | 40 | Michelle Brown |
-| 1152 | 40 | Heather Klaus |
-| 1153 | 40 | Elicia Lloyd-Zazweta |
-| 1154 | 40 | Courtney Ribas |
-| 1155 | 40 | Heather Hill Davidson |
-| 1156 | 40 | Shay Lynn King |
-| 1157 | 40 | Jay Theriault |
-| 1158 | 40 | Rachael Roberts |
-| 1159 | 40 | Missy Stevens |
-| 1160 | 40 | Kacey Bates |
-| 1161 | 40 | Nerdy Spinfit |
-| 1162 | 40 | Ariya Colson |
-| 1163 | 40 | Kristy Moore |
-| 1164 | 40 | Deena-Neal Peryer |
-| 1165 | 40 | Hyper Cascade |
-| 1166 | 40 | Tabetha Cooper |
-| 1167 | 40 | Dapper Pivotfall |
-| 1168 | 40 | Emma Danielle Wynn |
-| 1169 | 40 | Ashley Bennett |
-| 1170 | 40 | Shannon Michelle |
-| 1171 | 40 | Tonya Templin Smith |
-| 1172 | 40 | fancypants |
-| 1173 | 40 | Spicy Balanceblock |
-| 1174 | 40 | Billie Jo Butler |
-| 1175 | 40 | Michael Lott |
-| 1176 | 40 | Heather Lewis |
-| 1177 | 40 | Devon |
-| 1178 | 40 | Wendy Morrison |
-| 1179 | 40 | Jessica Garoutte |
-| 1180 | 39 | Kristen Alta |
-| 1181 | 39 | Flynn Flibble |
-| 1182 | 39 | Slinky Towerpiece |
-| 1183 | 39 | Instak1ll |
-| 1184 | 39 | Shiny Matchpiece |
-| 1185 | 39 | Goofy Patternfit |
-| 1186 | 39 | KCBlocker |
-| 1187 | 39 | Joslyn Erickson |
-| 1188 | 39 | Lively Shatter |
-| 1189 | 39 | Rebecca Boling |
-| 1190 | 39 | Slinky Glidezone |
-| 1191 | 39 | Catey Salazar |
+| 1144 | 41 | Jenifer Seeley |
+| 1145 | 41 | Steve Eakins |
+| 1146 | 41 | Teresa Ann Curry |
+| 1147 | 40 | Chris Christ |
+| 1148 | 40 | Deezie |
+| 1149 | 40 | Heather Klaus |
+| 1150 | 40 | Michelle Brown |
+| 1151 | 40 | Kimmi Knippel |
+| 1152 | 40 | Christina German |
+| 1153 | 40 | Giddy Climber |
+| 1154 | 40 | Elicia Lloyd-Zazweta |
+| 1155 | 40 | Courtney Ribas |
+| 1156 | 40 | Heather Hill Davidson |
+| 1157 | 40 | Shay Lynn King |
+| 1158 | 40 | Jay Theriault |
+| 1159 | 40 | Rachael Roberts |
+| 1160 | 40 | Missy Stevens |
+| 1161 | 40 | Kacey Bates |
+| 1162 | 40 | Nerdy Spinfit |
+| 1163 | 40 | Ariya Colson |
+| 1164 | 40 | Kristy Moore |
+| 1165 | 40 | Deena-Neal Peryer |
+| 1166 | 40 | Hyper Cascade |
+| 1167 | 40 | Tabetha Cooper |
+| 1168 | 40 | Dapper Pivotfall |
+| 1169 | 40 | Emma Danielle Wynn |
+| 1170 | 40 | Ashley Bennett |
+| 1171 | 40 | Shannon Michelle |
+| 1172 | 40 | Tonya Templin Smith |
+| 1173 | 40 | fancypants |
+| 1174 | 40 | Spicy Balanceblock |
+| 1175 | 40 | Billie Jo Butler |
+| 1176 | 40 | Michael Lott |
+| 1177 | 40 | Heather Lewis |
+| 1178 | 40 | Devon |
+| 1179 | 40 | Wendy Morrison |
+| 1180 | 40 | Jessica Garoutte |
+| 1181 | 39 | Kristen Alta |
+| 1182 | 39 | Flynn Flibble |
+| 1183 | 39 | Slinky Towerpiece |
+| 1184 | 39 | Instak1ll |
+| 1185 | 39 | Shiny Matchpiece |
+| 1186 | 39 | Goofy Patternfit |
+| 1187 | 39 | KCBlocker |
+| 1188 | 39 | Joslyn Erickson |
+| 1189 | 39 | Lively Shatter |
+| 1190 | 39 | Rebecca Boling |
+| 1191 | 39 | Slinky Glidezone |
 | 1192 | 39 | Crafty Shatterer |
-| 1193 | 39 | Teresa Ann Curry |
+| 1193 | 39 | Catey Salazar |
 | 1194 | 38 | Patricia Ann Tondreault Hammonds |
 | 1195 | 38 | Shalice Jacobs |
 | 1196 | 38 | Frothy Roll |
