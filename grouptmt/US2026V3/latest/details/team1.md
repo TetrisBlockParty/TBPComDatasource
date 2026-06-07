@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:38:40 UTC
+# Standings for team1 as of 2026-06-07 11:39:21 UTC
 
 **Total Participants:** 1445
 
@@ -206,11 +206,11 @@
 | 198 | 257 | Ebony |
 | 199 | 255 | Tishauna Virgo |
 | 200 | 254 | Tonya McElroy |
-| 201 | 250 | Davionte DaeDae Hopson-Rodriguez |
-| 202 | 249 | Falisa Bell |
-| 203 | 248 | Yasmin Nakea Wright |
-| 204 | 248 | Jazzy Fireflighters |
-| 205 | 248 | IThinkNot |
+| 201 | 254 | IThinkNot |
+| 202 | 250 | Davionte DaeDae Hopson-Rodriguez |
+| 203 | 249 | Falisa Bell |
+| 204 | 248 | Yasmin Nakea Wright |
+| 205 | 248 | Jazzy Fireflighters |
 | 206 | 246 | Denise B |
 | 207 | 246 | Byron Mario Cawthon |
 | 208 | 245 | Rhonda Williams Warner |
