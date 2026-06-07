@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 08:00:40 UTC
+# Standings for team2 as of 2026-06-07 08:01:18 UTC
 
 **Total Participants:** 1675
 
@@ -381,11 +381,11 @@
 | 373 | 143 | Amanda L Strong |
 | 374 | 142 | Spunky Cascadeclear |
 | 375 | 141 | Loopy Tower |
-| 376 | 141 | Jacquelyn Snyder Dumas |
-| 377 | 140 | Sharon L Brazelton |
-| 378 | 140 | Alicia Kinney |
-| 379 | 140 | Billie Jensen |
-| 380 | 140 | Sassy Twistbuilder |
+| 376 | 141 | Sassy Twistbuilder |
+| 377 | 141 | Jacquelyn Snyder Dumas |
+| 378 | 140 | Sharon L Brazelton |
+| 379 | 140 | Alicia Kinney |
+| 380 | 140 | Billie Jensen |
 | 381 | 140 | Teddy Williams |
 | 382 | 139 | Gabrielle Wilson |
 | 383 | 139 | rebel4lyfe |
