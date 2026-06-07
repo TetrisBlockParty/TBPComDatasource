@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 04:16:18 UTC
+# Standings for team1 as of 2026-06-07 04:16:42 UTC
 
 **Total Participants:** 1337
 
@@ -104,11 +104,11 @@
 | 96 | 527 | MommaCia |
 | 97 | 513 | Moomoo |
 | 98 | 511 | Abraham Espaillat |
-| 99 | 511 | Dizzy Dropper |
-| 100 | 510 | Cj Gorman |
-| 101 | 507 | She Higgy |
-| 102 | 495 | W.A. Simpson |
-| 103 | 481 | Bre Maugh |
+| 99 | 511 | Bre Maugh |
+| 100 | 511 | Dizzy Dropper |
+| 101 | 510 | Cj Gorman |
+| 102 | 507 | She Higgy |
+| 103 | 495 | W.A. Simpson |
 | 104 | 480 | Quirky Fallgrid |
 | 105 | 477 | Chenell Gillard |
 | 106 | 475 | Gael Quintana |
@@ -132,8 +132,8 @@
 | 124 | 370 | Tameka Jones |
 | 125 | 363 | Ebony Waynes-robinson |
 | 126 | 349 | Tobey Marberry |
-| 127 | 348 | LeeLee08 |
-| 128 | 347 | Lashaunda |
+| 127 | 348 | Lashaunda |
+| 128 | 348 | LeeLee08 |
 | 129 | 342 | Felicia Williams |
 | 130 | 339 | Ty Øtg |
 | 131 | 336 | Ceilo Marie |
@@ -460,11 +460,11 @@
 | 452 | 83 | MrsMeadows2019 |
 | 453 | 83 | Jackytrain52 |
 | 454 | 83 | Kimberly Anderson |
-| 455 | 83 | Daring Riserfit |
-| 456 | 83 | Anthony |
-| 457 | 82 | Happy Blockpiece |
-| 458 | 82 | Rufus |
-| 459 | 82 | Rene Hicks |
+| 455 | 83 | Rene Hicks |
+| 456 | 83 | Daring Riserfit |
+| 457 | 83 | Anthony |
+| 458 | 82 | Happy Blockpiece |
+| 459 | 82 | Rufus |
 | 460 | 82 | Yadira Salgado |
 | 461 | 82 | Christi Walker Patton |
 | 462 | 82 | Cachet A Ward |
@@ -595,57 +595,57 @@
 | 587 | 61 | Tonya Thomas |
 | 588 | 61 | NewEve |
 | 589 | 61 | Raquel Ortiz |
-| 590 | 60 | Yellowguy3 |
+| 590 | 60 | Demi Ovalle |
 | 591 | 60 | Missy Myvette |
 | 592 | 60 | Malcolm Stanley |
-| 593 | 60 | Angie Smith |
-| 594 | 60 | Lauren Farkas |
-| 595 | 60 | Dianne Clagon |
+| 593 | 60 | Dianne Clagon |
+| 594 | 60 | Angie Smith |
+| 595 | 60 | Lauren Farkas |
 | 596 | 60 | Xana Zania Bopp |
 | 597 | 60 | Coco |
 | 598 | 60 | lookin |
 | 599 | 60 | Deveda Williams |
 | 600 | 60 | Callie Mae |
-| 601 | 60 | Demi Ovalle |
+| 601 | 60 | Yellowguy3 |
 | 602 | 60 | Jose Rodriguez |
 | 603 | 60 | Marie Wilson |
 | 604 | 60 | Tellisa Payne |
-| 605 | 60 | Smiley3000 |
-| 606 | 60 | Mom3granny2 |
+| 605 | 60 | Mom3granny2 |
+| 606 | 60 | Smiley3000 |
 | 607 | 59 | Desi Guerra |
-| 608 | 59 | Danny M GR |
-| 609 | 59 | OhNoZer0 |
-| 610 | 59 | Elizabeth Hopkins |
-| 611 | 59 | Tonny Williams |
-| 612 | 59 | Darrel Pemberton |
-| 613 | 59 | Twisty Brickfit |
-| 614 | 59 | Sugar Foot |
+| 608 | 59 | Sugar Foot |
+| 609 | 59 | Danny M GR |
+| 610 | 59 | OhNoZer0 |
+| 611 | 59 | Elizabeth Hopkins |
+| 612 | 59 | Tonny Williams |
+| 613 | 59 | Darrel Pemberton |
+| 614 | 59 | Twisty Brickfit |
 | 615 | 59 | Smiley Tilebuilder |
 | 616 | 59 | Evette Moreno |
 | 617 | 59 | Keith Johnson |
 | 618 | 59 | Kortney Adams |
-| 619 | 58 | Sha Anderson |
-| 620 | 58 | Snippy Breaker |
-| 621 | 58 | Gabriela Hernandez |
-| 622 | 58 | FunTime |
-| 623 | 58 | Alexandrla Smith |
-| 624 | 58 | Bambi Love |
-| 625 | 58 | CoaCoa Myles |
-| 626 | 58 | Brandy Way |
-| 627 | 57 | Blocksy |
+| 619 | 58 | Spicy Shatterblock |
+| 620 | 58 | Sha Anderson |
+| 621 | 58 | Snippy Breaker |
+| 622 | 58 | Gabriela Hernandez |
+| 623 | 58 | FunTime |
+| 624 | 58 | Alexandrla Smith |
+| 625 | 58 | Bambi Love |
+| 626 | 58 | CoaCoa Myles |
+| 627 | 58 | Brandy Way |
 | 628 | 57 | Angela L Charles |
-| 629 | 57 | Elizabeth Vega Coreano |
-| 630 | 57 | Danny Talbot |
+| 629 | 57 | Blocksy |
+| 630 | 57 | Elizabeth Vega Coreano |
 | 631 | 57 | ImmeKC |
 | 632 | 57 | Kenny 'Tailormade' Boyd |
-| 633 | 56 | Bold Clusterer |
-| 634 | 56 | Lisa Ivy |
-| 635 | 56 | jeremy92 |
-| 636 | 56 | Kyle Conley |
-| 637 | 56 | Nona Harriel |
-| 638 | 56 | Maria Baez Medina |
-| 639 | 55 | nameno |
-| 640 | 55 | Spicy Shatterblock |
+| 633 | 57 | Danny Talbot |
+| 634 | 56 | Bold Clusterer |
+| 635 | 56 | Lisa Ivy |
+| 636 | 56 | jeremy92 |
+| 637 | 56 | Kyle Conley |
+| 638 | 56 | Nona Harriel |
+| 639 | 56 | Maria Baez Medina |
+| 640 | 55 | nameno |
 | 641 | 55 | Ashlie Mo |
 | 642 | 55 | KoolKimJay |
 | 643 | 55 | Jane Lame |
@@ -1018,67 +1018,67 @@
 | 1010 | 23 | Jamie Lea Popp |
 | 1011 | 23 | Arturo Hernandez II |
 | 1012 | 23 | Genevieve Nieves |
-| 1013 | 23 | Vontesha Kidd |
-| 1014 | 23 | Maranda Broadway |
-| 1015 | 22 | tg |
-| 1016 | 22 | Jasmine Hariston-Estis |
-| 1017 | 22 | Bold Spinblock |
+| 1013 | 23 | Maranda Broadway |
+| 1014 | 23 | Vontesha Kidd |
+| 1015 | 22 | Juan Alvarez |
+| 1016 | 22 | tg |
+| 1017 | 22 | Jasmine Hariston-Estis |
 | 1018 | 22 | Iván Cedeño |
-| 1019 | 22 | Ray Baker |
-| 1020 | 22 | Williams Candace |
-| 1021 | 22 | ShayePooh |
-| 1022 | 21 | Rachael R Gull |
+| 1019 | 22 | Williams Candace |
+| 1020 | 22 | Bold Spinblock |
+| 1021 | 22 | Ray Baker |
+| 1022 | 22 | ShayePooh |
 | 1023 | 21 | Desiree Ryder |
-| 1024 | 21 | Zappy Zoney |
-| 1025 | 21 | Cheeky Wipegrid |
-| 1026 | 21 | Christy |
-| 1027 | 21 | Felicia Yahuah Johnson |
-| 1028 | 21 | Samona Mcculler |
-| 1029 | 21 | Slinky Puzzler |
-| 1030 | 21 | Carl Proby |
-| 1031 | 21 | Tanesha Ga'sFinest Corbett |
-| 1032 | 21 | Chanel White |
-| 1033 | 21 | Crafty Witch |
-| 1034 | 21 | lady |
+| 1024 | 21 | Samona Mcculler |
+| 1025 | 21 | Felicia Yahuah Johnson |
+| 1026 | 21 | Zappy Zoney |
+| 1027 | 21 | Taylor Keisha |
+| 1028 | 21 | Rachael R Gull |
+| 1029 | 21 | Cheeky Wipegrid |
+| 1030 | 21 | Christy |
+| 1031 | 21 | Mazi Johnson |
+| 1032 | 21 | Carl Proby |
+| 1033 | 21 | Slinky Puzzler |
+| 1034 | 21 | Tanesha Ga'sFinest Corbett |
 | 1035 | 21 | Alize |
-| 1036 | 21 | Mazi Johnson |
-| 1037 | 21 | Taylor Keisha |
-| 1038 | 20 | Kenneth Hefney |
-| 1039 | 20 | Tipsy Builderline |
-| 1040 | 20 | Cynthia Bradley |
-| 1041 | 20 | Charlean Sims |
-| 1042 | 20 | Brenda Brogden |
-| 1043 | 20 | B.L. Perry |
-| 1044 | 20 | Richard Harper |
-| 1045 | 20 | Cynthia Potter |
-| 1046 | 20 | lizlizliz |
-| 1047 | 20 | Jeffrey Pierce-Overton |
-| 1048 | 20 | Biggestboss Ransom |
-| 1049 | 20 | Linzi Cole |
-| 1050 | 20 | Lucy Range |
-| 1051 | 20 | Spotlight |
-| 1052 | 20 | James Dunlap |
-| 1053 | 20 | Lyn Reed |
-| 1054 | 20 | POOH |
-| 1055 | 20 | Chill Curvebuilder |
-| 1056 | 20 | Phillip White |
-| 1057 | 20 | Jonathan McKenzie |
-| 1058 | 20 | Juan Lewis |
-| 1059 | 20 | Anthony Intrabartolo |
-| 1060 | 20 | Snappy Strikerpiece |
-| 1061 | 20 | Zappy Clearfit |
-| 1062 | 20 | Megan Payette |
-| 1063 | 20 | Anthony D Holmes |
-| 1064 | 20 | Nikki Vaughn |
-| 1065 | 20 | Tangy Moore |
-| 1066 | 20 | Erika |
-| 1067 | 20 | Jennifer Diamond |
-| 1068 | 20 | West Racks |
-| 1069 | 20 | Cherise Thomas |
-| 1070 | 20 | Jhaime |
-| 1071 | 20 | Bryttani GoingPlaces Latimer |
-| 1072 | 20 | Ebie |
-| 1073 | 19 | Juan Alvarez |
+| 1036 | 21 | Crafty Witch |
+| 1037 | 21 | lady |
+| 1038 | 21 | Chanel White |
+| 1039 | 20 | Lyn Reed |
+| 1040 | 20 | Linzi Cole |
+| 1041 | 20 | Brenda Brogden |
+| 1042 | 20 | Charlean Sims |
+| 1043 | 20 | Lucy Range |
+| 1044 | 20 | Spotlight |
+| 1045 | 20 | lizlizliz |
+| 1046 | 20 | James Dunlap |
+| 1047 | 20 | Biggestboss Ransom |
+| 1048 | 20 | Jeffrey Pierce-Overton |
+| 1049 | 20 | Kenneth Hefney |
+| 1050 | 20 | Cynthia Potter |
+| 1051 | 20 | Richard Harper |
+| 1052 | 20 | B.L. Perry |
+| 1053 | 20 | Cynthia Bradley |
+| 1054 | 20 | Tipsy Builderline |
+| 1055 | 20 | POOH |
+| 1056 | 20 | Chill Curvebuilder |
+| 1057 | 20 | Phillip White |
+| 1058 | 20 | Jonathan McKenzie |
+| 1059 | 20 | Juan Lewis |
+| 1060 | 20 | Anthony Intrabartolo |
+| 1061 | 20 | Snappy Strikerpiece |
+| 1062 | 20 | Zappy Clearfit |
+| 1063 | 20 | Megan Payette |
+| 1064 | 20 | Anthony D Holmes |
+| 1065 | 20 | Nikki Vaughn |
+| 1066 | 20 | Tangy Moore |
+| 1067 | 20 | Erika |
+| 1068 | 20 | Jennifer Diamond |
+| 1069 | 20 | West Racks |
+| 1070 | 20 | Cherise Thomas |
+| 1071 | 20 | Jhaime |
+| 1072 | 20 | Bryttani GoingPlaces Latimer |
+| 1073 | 20 | Ebie |
 | 1074 | 19 | Sagitterrorist |
 | 1075 | 19 | Amanda Woodruff |
 | 1076 | 19 | Panda Vibes |
