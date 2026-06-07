@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 20:01:18 UTC
+# Standings for team4 as of 2026-06-07 20:02:18 UTC
 
 **Total Participants:** 1591
 
@@ -192,7 +192,7 @@
 | 184 | 310 | Fran Aaron-Ring |
 | 185 | 308 | matt |
 | 186 | 308 | Plucky Shatterfit |
-| 187 | 303 | Megan Vick |
+| 187 | 305 | Megan Vick |
 | 188 | 303 | Brick House |
 | 189 | 302 | Danny Ortiz |
 | 190 | 300 | Genag |
@@ -322,12 +322,12 @@
 | 314 | 178 | Jacqueline Jackii Ramos |
 | 315 | 178 | Tamara Triplet |
 | 316 | 177 | Sandra Stark |
-| 317 | 176 | Nicole Dombrow |
-| 318 | 176 | Chonda OhanaMomma Michelle |
-| 319 | 175 | Slinky Stackzone |
-| 320 | 175 | Bonnie Powell |
-| 321 | 175 | Quiomarie Cotto |
-| 322 | 174 | Dena Lynn Rogers |
+| 317 | 176 | Dena Lynn Rogers |
+| 318 | 176 | Nicole Dombrow |
+| 319 | 176 | Chonda OhanaMomma Michelle |
+| 320 | 175 | Slinky Stackzone |
+| 321 | 175 | Bonnie Powell |
+| 322 | 175 | Quiomarie Cotto |
 | 323 | 174 | Clashy |
 | 324 | 172 | Karen Rodriguez |
 | 325 | 172 | Matthew Wilcox |
@@ -576,22 +576,22 @@
 | 568 | 97 | Betsy Froemming |
 | 569 | 97 | Dawn Marie Trujillo |
 | 570 | 97 | Deana Teck |
-| 571 | 96 | Brandi Sauer |
+| 571 | 96 | Linda |
 | 572 | 96 | Scalpel Causes Shambles |
-| 573 | 96 | Bear Bair |
-| 574 | 96 | LaToya LeBlanc |
-| 575 | 95 | Kristen Nicole Depp-Stewart |
-| 576 | 95 | Butterfly |
-| 577 | 95 | Jailen Harper |
-| 578 | 95 | Tiffany Roberts |
-| 579 | 95 | Surviving Be Back Soon |
-| 580 | 95 | Wacky Brick |
-| 581 | 95 | Lovetetris |
-| 582 | 95 | EpicWizard |
-| 583 | 94 | Reina Pagan |
-| 584 | 94 | Cranky Twistpiece |
-| 585 | 94 | Mc3003 |
-| 586 | 94 | Linda |
+| 573 | 96 | Brandi Sauer |
+| 574 | 96 | Bear Bair |
+| 575 | 96 | LaToya LeBlanc |
+| 576 | 95 | Surviving Be Back Soon |
+| 577 | 95 | Kristen Nicole Depp-Stewart |
+| 578 | 95 | Butterfly |
+| 579 | 95 | Jailen Harper |
+| 580 | 95 | Tiffany Roberts |
+| 581 | 95 | Wacky Brick |
+| 582 | 95 | Lovetetris |
+| 583 | 95 | EpicWizard |
+| 584 | 94 | Mc3003 |
+| 585 | 94 | Reina Pagan |
+| 586 | 94 | Cranky Twistpiece |
 | 587 | 94 | Erika Rubio |
 | 588 | 93 | Travis McKinnon |
 | 589 | 93 | Marina |
@@ -1033,18 +1033,18 @@
 | 1025 | 43 | Aliyah Abdella |
 | 1026 | 42 | Snappy Patternfall |
 | 1027 | 42 | Mounique Melenciano |
-| 1028 | 42 | MrsAddams724 |
-| 1029 | 42 | Stacy Brown |
-| 1030 | 42 | Jacklyn Martinez |
-| 1031 | 42 | Gr8flluv1 |
-| 1032 | 42 | Seraphina |
-| 1033 | 42 | Bren70 |
-| 1034 | 42 | Lush Balanceblock |
-| 1035 | 42 | Chelle Williams |
-| 1036 | 42 | Chris Norman |
-| 1037 | 41 | Gingerale<3 |
-| 1038 | 41 | Kasey Lynne |
-| 1039 | 41 | Lord Solrac |
+| 1028 | 42 | Lord Solrac |
+| 1029 | 42 | MrsAddams724 |
+| 1030 | 42 | Stacy Brown |
+| 1031 | 42 | Jacklyn Martinez |
+| 1032 | 42 | Gr8flluv1 |
+| 1033 | 42 | Seraphina |
+| 1034 | 42 | Bren70 |
+| 1035 | 42 | Lush Balanceblock |
+| 1036 | 42 | Chelle Williams |
+| 1037 | 42 | Chris Norman |
+| 1038 | 41 | Gingerale<3 |
+| 1039 | 41 | Kasey Lynne |
 | 1040 | 41 | James James |
 | 1041 | 41 | Spunky Tower |
 | 1042 | 41 | Jim Stewart |
@@ -1553,50 +1553,50 @@
 | 1545 | 7 | Angel |
 | 1546 | 7 | John Brandon Kinney |
 | 1547 | 7 | Malinda Fife |
-| 1548 | 7 | Spicy Faller |
-| 1549 | 7 | Amanda KN |
-| 1550 | 7 | Melly |
+| 1548 | 7 | Melly |
+| 1549 | 7 | Spicy Faller |
+| 1550 | 7 | Amanda KN |
 | 1551 | 7 | Rican |
 | 1552 | 7 | Heather Smith-Carter |
 | 1553 | 7 | Sammmzzz |
-| 1554 | 7 | Estmercy |
-| 1555 | 7 | pippy |
-| 1556 | 7 | Misty Mathers |
-| 1557 | 7 | Sheries |
-| 1558 | 7 | Crystal Parker Bryant |
-| 1559 | 7 | Michael McIntire |
-| 1560 | 7 | Kelly Pool |
-| 1561 | 7 | Kristen Templeman |
-| 1562 | 7 | Peaches3569 |
-| 1563 | 7 | Brandy Dark |
-| 1564 | 6 | Crissie Mary Schafer |
-| 1565 | 6 | Sherry Heilig |
-| 1566 | 6 | Goodie |
-| 1567 | 6 | Violet Mejia |
-| 1568 | 6 | Spunky Winder |
-| 1569 | 6 | Richierich Gonzalez |
-| 1570 | 6 | Snippy Bouncer |
+| 1554 | 7 | Infini Agape |
+| 1555 | 7 | Estmercy |
+| 1556 | 7 | pippy |
+| 1557 | 7 | Misty Mathers |
+| 1558 | 7 | Sheries |
+| 1559 | 7 | Crystal Parker Bryant |
+| 1560 | 7 | Michael McIntire |
+| 1561 | 7 | Kelly Pool |
+| 1562 | 7 | Kristen Templeman |
+| 1563 | 7 | Peaches3569 |
+| 1564 | 7 | Brandy Dark |
+| 1565 | 6 | Crissie Mary Schafer |
+| 1566 | 6 | Sherry Heilig |
+| 1567 | 6 | Goodie |
+| 1568 | 6 | Violet Mejia |
+| 1569 | 6 | Spunky Winder |
+| 1570 | 6 | Richierich Gonzalez |
 | 1571 | 6 | Funky Zonebuilder |
-| 1572 | 6 | April McWhite |
-| 1573 | 6 | Frothy Gridmatch |
-| 1574 | 6 | Selina Moore |
-| 1575 | 6 | Rachel |
-| 1576 | 6 | Loony Brickzone |
-| 1577 | 6 | Kelly |
-| 1578 | 6 | Theamazingspiderman |
-| 1579 | 5 | Debbie Johnson |
+| 1572 | 6 | Snippy Bouncer |
+| 1573 | 6 | April McWhite |
+| 1574 | 6 | Loony Brickzone |
+| 1575 | 6 | Frothy Gridmatch |
+| 1576 | 6 | Selina Moore |
+| 1577 | 6 | Rachel |
+| 1578 | 6 | Kelly |
+| 1579 | 6 | Theamazingspiderman |
 | 1580 | 5 | Swanky Zigzag |
 | 1581 | 5 | Theonei |
 | 1582 | 5 | Tippet |
 | 1583 | 5 | Linda Monique |
 | 1584 | 5 | Cheery Twister |
-| 1585 | 5 | Spicy Gridder |
-| 1586 | 5 | Tina Berdeja |
-| 1587 | 5 | Infini Agape |
-| 1588 | 5 | James Lackey |
-| 1589 | 5 | Frilly Brickroll |
-| 1590 | 5 | Sean Ha |
-| 1591 | 5 | Chad N Tori Steiner |
+| 1585 | 5 | Debbie Johnson |
+| 1586 | 5 | Spicy Gridder |
+| 1587 | 5 | Tina Berdeja |
+| 1588 | 5 | Frilly Brickroll |
+| 1589 | 5 | James Lackey |
+| 1590 | 5 | Chad N Tori Steiner |
+| 1591 | 5 | Sean Ha |
 
 ---
 *Standings created by tournaments datasource generation tool*
