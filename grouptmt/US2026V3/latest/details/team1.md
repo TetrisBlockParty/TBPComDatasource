@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 07:20:40 UTC
+# Standings for team1 as of 2026-06-07 07:21:18 UTC
 
 **Total Participants:** 1411
 
@@ -48,7 +48,7 @@
 | 40 | 1242 | Jacoby E Fleming |
 | 41 | 1233 | Cherry Rose |
 | 42 | 1195 | Tekedra Wilson |
-| 43 | 1166 | Daylene Johannes |
+| 43 | 1176 | Daylene Johannes |
 | 44 | 1120 | Ryan Meilleur |
 | 45 | 1079 | Jennifer To |
 | 46 | 1067 | Catara Renae Oliver |
@@ -378,90 +378,90 @@
 | 370 | 114 | Faith Armone |
 | 371 | 114 | LAhoneybun82 |
 | 372 | 114 | Brittany Fells |
-| 373 | 112 | GamerQueenDS |
+| 373 | 112 | Breezy Catcher |
 | 374 | 112 | Block King |
-| 375 | 112 | Breezy Catcher |
+| 375 | 112 | GamerQueenDS |
 | 376 | 111 | Ad Doctor |
 | 377 | 111 | Daring Blockclear |
-| 378 | 110 | Slinky Clearzone |
+| 378 | 110 | Nate Myers |
 | 379 | 110 | Nisha Sunshine Jenkins |
-| 380 | 110 | Nate Myers |
-| 381 | 110 | Chandler Magee |
-| 382 | 109 | Manda Allen |
-| 383 | 109 | Tamara Johnson-Carter |
+| 380 | 110 | Chandler Magee |
+| 381 | 110 | Slinky Clearzone |
+| 382 | 109 | Tamara Johnson-Carter |
+| 383 | 109 | Cece Fowler |
 | 384 | 109 | Bambi Johnson |
-| 385 | 109 | Cece Fowler |
-| 386 | 109 | Tamika Fisher |
+| 385 | 109 | Tamika Fisher |
+| 386 | 109 | Manda Allen |
 | 387 | 108 | Char |
 | 388 | 107 | Laurie Napper |
 | 389 | 106 | De'Nell Edwards |
 | 390 | 106 | Mister Reid |
-| 391 | 105 | Kelley Johnson |
+| 391 | 105 | QueenShay AllGood |
 | 392 | 105 | BabyCakes |
-| 393 | 105 | Maria |
-| 394 | 105 | QueenShay AllGood |
-| 395 | 105 | Jennah |
+| 393 | 105 | Mario Meliodas |
+| 394 | 105 | Jennah |
+| 395 | 105 | Maria |
 | 396 | 105 | Analiza Ramos |
-| 397 | 105 | Mario Meliodas |
+| 397 | 105 | Kelley Johnson |
 | 398 | 105 | Mighty Dropper |
 | 399 | 104 | Tyiesha Pie Farmer |
-| 400 | 104 | Eric Spencer Whitaker |
-| 401 | 104 | Bella |
+| 400 | 104 | Bella |
+| 401 | 104 | Eric Spencer Whitaker |
 | 402 | 104 | Ahvae Lee |
 | 403 | 103 | Lakiesha Crawford |
 | 404 | 103 | Lynnette WheelerBushnell |
 | 405 | 102 | Sarah Steckbauer |
 | 406 | 102 | Christi Walker Patton |
 | 407 | 101 | Joana Thompson |
-| 408 | 101 | Wacky Wipepiece |
+| 408 | 101 | Mommy Frank |
 | 409 | 101 | star |
-| 410 | 101 | Mommy Frank |
+| 410 | 101 | Wacky Wipepiece |
 | 411 | 101 | Elaine Pauley |
 | 412 | 100 | Cornelius Neal |
-| 413 | 100 | Natasha Rucker |
-| 414 | 100 | Mary Phillippi Blanton |
-| 415 | 100 | Oldheads |
+| 413 | 100 | Tessa Gaskin |
+| 414 | 100 | Leavon Smith |
+| 415 | 100 | Kesha Brady |
 | 416 | 100 | Jean Regis |
-| 417 | 100 | Leavon Smith |
-| 418 | 100 | Tessa Gaskin |
-| 419 | 100 | Kennedi Brazziel |
-| 420 | 100 | Seddrick |
-| 421 | 100 | $hort Dog |
-| 422 | 100 | Kesha Brady |
+| 417 | 100 | Mary Phillippi Blanton |
+| 418 | 100 | Kennedi Brazziel |
+| 419 | 100 | $hort Dog |
+| 420 | 100 | Oldheads |
+| 421 | 100 | Seddrick |
+| 422 | 100 | Natasha Rucker |
 | 423 | 99 | Ciera Peace |
-| 424 | 99 | Mahagony Small |
-| 425 | 99 | SeanSanchez |
-| 426 | 99 | Travis Davison |
-| 427 | 99 | ChunLi |
-| 428 | 98 | Sharee Robinson |
+| 424 | 99 | ChunLi |
+| 425 | 99 | Mahagony Small |
+| 426 | 99 | SeanSanchez |
+| 427 | 99 | Travis Davison |
+| 428 | 98 | Dorian Griffin |
 | 429 | 98 | Shannon Carriger |
 | 430 | 98 | Michael Smith |
-| 431 | 98 | Dorian Griffin |
-| 432 | 97 | Shanell Thomas |
+| 431 | 98 | Sharee Robinson |
+| 432 | 97 | Lootch |
 | 433 | 97 | Twisty Cascadeclear |
-| 434 | 97 | Nichole Horsley-Conn |
-| 435 | 97 | Erin Sabol |
-| 436 | 97 | Kristie |
-| 437 | 97 | Lootch |
+| 434 | 97 | Erin Sabol |
+| 435 | 97 | Kristie |
+| 436 | 97 | Shanell Thomas |
+| 437 | 97 | Nichole Horsley-Conn |
 | 438 | 96 | Phillip Vasquez |
-| 439 | 96 | Yazz |
-| 440 | 96 | Sherri Keys |
-| 441 | 95 | Shiny Lift |
-| 442 | 95 | Jelyfish |
-| 443 | 95 | Stephen Glaze |
-| 444 | 95 | Anthony |
+| 439 | 96 | Sherri Keys |
+| 440 | 96 | Yazz |
+| 441 | 95 | Anthony |
+| 442 | 95 | Stephen Glaze |
+| 443 | 95 | Jelyfish |
+| 444 | 95 | Shiny Lift |
 | 445 | 94 | Ta'Kaiyah M. Spann |
-| 446 | 94 | Derald Miller |
-| 447 | 94 | Slinky Brickmatch |
-| 448 | 93 | C Lo Green |
-| 449 | 93 | Kimberly Susan Privette |
-| 450 | 93 | Lucy |
-| 451 | 93 | Kate Hancock Malicek |
-| 452 | 93 | Rene Hicks |
-| 453 | 92 | La'Chae Nickole |
+| 446 | 94 | Slinky Brickmatch |
+| 447 | 94 | Derald Miller |
+| 448 | 93 | Rene Hicks |
+| 449 | 93 | Anastasia |
+| 450 | 93 | Kate Hancock Malicek |
+| 451 | 93 | Lucy |
+| 452 | 93 | Kimberly Susan Privette |
+| 453 | 93 | C Lo Green |
 | 454 | 92 | The DUBZ |
 | 455 | 92 | Pretty Yella |
-| 456 | 92 | Anastasia |
+| 456 | 92 | La'Chae Nickole |
 | 457 | 91 | Aaron Hartmann |
 | 458 | 90 | Shameka Tiffany |
 | 459 | 90 | Lilly Brown |
