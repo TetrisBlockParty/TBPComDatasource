@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-07 05:36:41 UTC
+# Standings for team2 as of 2026-06-07 05:37:18 UTC
 
-**Total Participants:** 1635
+**Total Participants:** 1636
 
 ## Participant Scores
 
@@ -340,14 +340,14 @@
 | 332 | 156 | Monique Frantz |
 | 333 | 156 | meg |
 | 334 | 156 | Tango Sierra |
-| 335 | 156 | Rick |
-| 336 | 156 | Jamie Fenyus |
-| 337 | 155 | MegaPooh |
-| 338 | 155 | Ratchet |
-| 339 | 154 | Alonzo Reed |
-| 340 | 154 | KazzyKay |
-| 341 | 153 | Cortney Coleman |
-| 342 | 153 | Melmel |
+| 335 | 156 | Melmel |
+| 336 | 156 | Rick |
+| 337 | 156 | Jamie Fenyus |
+| 338 | 155 | MegaPooh |
+| 339 | 155 | Ratchet |
+| 340 | 154 | Alonzo Reed |
+| 341 | 154 | KazzyKay |
+| 342 | 153 | Cortney Coleman |
 | 343 | 152 | Rocroc mo |
 | 344 | 151 | Marilyn Mendoza |
 | 345 | 151 | Amy Lea Hamilton |
@@ -405,77 +405,77 @@
 | 397 | 129 | Perii Reynoso |
 | 398 | 129 | Belle |
 | 399 | 128 | rageking |
-| 400 | 127 | Tina |
-| 401 | 127 | Nicky Steigerwalt |
-| 402 | 127 | Tammy Roth |
-| 403 | 127 | Aurora June Brock |
-| 404 | 127 | Stephanie |
+| 400 | 127 | Nicky Steigerwalt |
+| 401 | 127 | Tina |
+| 402 | 127 | Aurora June Brock |
+| 403 | 127 | Stephanie |
+| 404 | 127 | Tammy Roth |
 | 405 | 126 | Anthony Swift |
 | 406 | 125 | Jessica Connot |
 | 407 | 125 | Wayne Johnson |
-| 408 | 125 | Swanky Fitline |
-| 409 | 125 | Kathryn |
+| 408 | 125 | Kathryn |
+| 409 | 125 | Swanky Fitline |
 | 410 | 124 | Angeleye A James |
 | 411 | 124 | Jason Burris |
 | 412 | 123 | Sassy Twistbuilder |
-| 413 | 122 | Kevin Patrick |
-| 414 | 122 | Katie Jones |
+| 413 | 122 | Katie Jones |
+| 414 | 122 | Kevin Patrick |
 | 415 | 122 | Maria Ward |
 | 416 | 121 | Lisa Allen Frisk |
-| 417 | 120 | Simone F |
-| 418 | 120 | Kevin Mccoy |
-| 419 | 120 | Tony Medina |
-| 420 | 120 | Keisha Robinson |
-| 421 | 120 | Carlos J Blas |
-| 422 | 120 | Starvinmarvin |
-| 423 | 120 | Wendy McKee |
-| 424 | 120 | Adam Latin |
+| 417 | 120 | Adam Latin |
+| 418 | 120 | Starvinmarvin |
+| 419 | 120 | Keisha Robinson |
+| 420 | 120 | Carlos J Blas |
+| 421 | 120 | Wendy McKee |
+| 422 | 120 | Tony Medina |
+| 423 | 120 | Kevin Mccoy |
+| 424 | 120 | Simone F |
 | 425 | 119 | Jumpy Matchbuilder |
-| 426 | 118 | Crystal Robinson |
-| 427 | 118 | Kawana Nesbitt |
-| 428 | 118 | Cindy Scott |
+| 426 | 118 | Kawana Nesbitt |
+| 427 | 118 | Cindy Scott |
+| 428 | 118 | Crystal Robinson |
 | 429 | 118 | Ceci |
 | 430 | 117 | Poppy Strikerbuilder |
-| 431 | 116 | Joshua Dye |
-| 432 | 116 | Sherri E Woods Hess |
-| 433 | 115 | Amber Carpenter |
-| 434 | 115 | Nova |
-| 435 | 115 | Muffin Popper |
+| 431 | 116 | Sherri E Woods Hess |
+| 432 | 116 | Joshua Dye |
+| 433 | 115 | Nova |
+| 434 | 115 | Muffin Popper |
+| 435 | 115 | Amber Carpenter |
 | 436 | 114 | Epic Framezone |
 | 437 | 113 | Flashy Hitter |
 | 438 | 113 | Meagan Grimmett Washburn |
-| 439 | 112 | Kristen |
-| 440 | 112 | LadyDeath |
+| 439 | 112 | LadyDeath |
+| 440 | 112 | Kristen |
 | 441 | 112 | Mike Mordhorst |
 | 442 | 111 | Nikki Hatch |
 | 443 | 111 | Joannah Capilitan |
-| 444 | 110 | Wendy Durrence Jones |
-| 445 | 110 | Rachel M. Farnsworth |
-| 446 | 110 | Nichole Wilson |
-| 447 | 110 | Zappy Liney |
-| 448 | 110 | LittleHippoEars |
+| 444 | 110 | Loopy Curvebuilder |
+| 445 | 110 | Nichole Wilson |
+| 446 | 110 | Wendy Durrence Jones |
+| 447 | 110 | Rachel M. Farnsworth |
+| 448 | 110 | Zappy Liney |
 | 449 | 110 | Tamtam |
-| 450 | 109 | Sillyk |
-| 451 | 108 | Reign Hustler |
+| 450 | 110 | LittleHippoEars |
+| 451 | 109 | Sillyk |
 | 452 | 108 | Sherri Caillet Aucoin |
-| 453 | 108 | Maurii93 |
-| 454 | 107 | Sam Brewster |
-| 455 | 107 | Carole Brown |
-| 456 | 107 | Boldy Fitclear |
-| 457 | 107 | Cassandra Green |
-| 458 | 107 | Kenzie |
-| 459 | 106 | Loopy Curvebuilder |
-| 460 | 106 | Francesca Wagenhoffer |
-| 461 | 106 | Cassandra Milner |
-| 462 | 106 | Chummy Snapbuilder |
-| 463 | 105 | Michael Saunders |
-| 464 | 105 | Gabrielle Rivera |
+| 453 | 108 | Reign Hustler |
+| 454 | 108 | Maurii93 |
+| 455 | 107 | Kenzie |
+| 456 | 107 | Sam Brewster |
+| 457 | 107 | Carole Brown |
+| 458 | 107 | Boldy Fitclear |
+| 459 | 107 | Cassandra Green |
+| 460 | 106 | Chummy Snapbuilder |
+| 461 | 106 | Francesca Wagenhoffer |
+| 462 | 106 | Cassandra Milner |
+| 463 | 105 | Saucy Wrecker |
+| 464 | 105 | Candi Cane |
 | 465 | 105 | Epic Tilemaker |
-| 466 | 105 | Candi Cane |
-| 467 | 105 | Saucy Wrecker |
-| 468 | 105 | Trisha Schneider |
-| 469 | 104 | Roe Sarmiento |
-| 470 | 104 | Earline Dupuy Bordelon |
+| 466 | 105 | Trisha Schneider |
+| 467 | 105 | Michael Saunders |
+| 468 | 105 | Gabrielle Rivera |
+| 469 | 104 | Earline Dupuy Bordelon |
+| 470 | 104 | Roe Sarmiento |
 | 471 | 103 | MamaRachel |
 | 472 | 103 | Elizabeth Kline |
 | 473 | 102 | Lively Curve |
@@ -1603,44 +1603,45 @@
 | 1595 | 7 | Elizabeth Barnhart Floyd |
 | 1596 | 7 | Sasha Hamilton |
 | 1597 | 7 | Janice Simpson |
-| 1598 | 6 | Cheeky Dashpiece |
-| 1599 | 6 | Jessie |
-| 1600 | 6 | Celeste Samuels |
-| 1601 | 6 | Bowling girl |
-| 1602 | 6 | Alicia Abston |
-| 1603 | 6 | Cara Douglas |
-| 1604 | 6 | Giggy Dropzone |
-| 1605 | 6 | Michelle Brown |
-| 1606 | 6 | Amanda Knox |
-| 1607 | 6 | Anna Hale |
-| 1608 | 6 | Brandi Lynn Tumey |
-| 1609 | 6 | Jenea Colvin |
-| 1610 | 6 | Jager |
-| 1611 | 6 | Bunny Bt |
+| 1598 | 6 | Brandi Lynn Tumey |
+| 1599 | 6 | Bowling girl |
+| 1600 | 6 | Alicia Abston |
+| 1601 | 6 | Cara Douglas |
+| 1602 | 6 | Giggy Dropzone |
+| 1603 | 6 | Celeste Samuels |
+| 1604 | 6 | Michelle Brown |
+| 1605 | 6 | Amanda Knox |
+| 1606 | 6 | Anna Hale |
+| 1607 | 6 | Jenea Colvin |
+| 1608 | 6 | Cheeky Dashpiece |
+| 1609 | 6 | Bunny Bt |
+| 1610 | 6 | Jessie |
+| 1611 | 6 | Jager |
 | 1612 | 6 | Milwaukee Area Cleaning |
 | 1613 | 6 | Ali |
-| 1614 | 5 | Jon Torres |
-| 1615 | 5 | Jennifer Roper Stanley |
-| 1616 | 5 | Errkuh |
-| 1617 | 5 | Michelle |
-| 1618 | 5 | Nikki |
-| 1619 | 5 | Chirpy Towerer |
-| 1620 | 5 | Jennifer Mauler Schmidt |
+| 1614 | 5 | Michelle |
+| 1615 | 5 | Jason M Barnes |
+| 1616 | 5 | Teri |
+| 1617 | 5 | Nikki |
+| 1618 | 5 | Jennifer Roper Stanley |
+| 1619 | 5 | Mercedes Lowery |
+| 1620 | 5 | Chirpy Towerer |
 | 1621 | 5 | Snappy Zonepiece |
-| 1622 | 5 | Dapper Clearpiece |
-| 1623 | 5 | Mercedes Lowery |
-| 1624 | 5 | featherz |
-| 1625 | 5 | Mala Phonchanthasone |
-| 1626 | 5 | Brittany Weatherspoon |
-| 1627 | 5 | Agnes Gable |
-| 1628 | 5 | Quirky Liney |
-| 1629 | 5 | Nolife |
-| 1630 | 5 | Julie Ann Jacobs |
-| 1631 | 5 | Teri |
-| 1632 | 5 | Groovy Buildout |
-| 1633 | 5 | Chris Weddel |
-| 1634 | 5 | Flynn Flibble |
-| 1635 | 5 | Jason M Barnes |
+| 1622 | 5 | Jon Torres |
+| 1623 | 5 | Groovy Buildout |
+| 1624 | 5 | Jennifer Mauler Schmidt |
+| 1625 | 5 | Chris Weddel |
+| 1626 | 5 | Dapper Clearpiece |
+| 1627 | 5 | featherz |
+| 1628 | 5 | Julie Ann Jacobs |
+| 1629 | 5 | Quirky Liney |
+| 1630 | 5 | Agnes Gable |
+| 1631 | 5 | Errkuh |
+| 1632 | 5 | Melissa Mae |
+| 1633 | 5 | Brittany Weatherspoon |
+| 1634 | 5 | Mala Phonchanthasone |
+| 1635 | 5 | Nolife |
+| 1636 | 5 | Flynn Flibble |
 
 ---
 *Standings created by tournaments datasource generation tool*
