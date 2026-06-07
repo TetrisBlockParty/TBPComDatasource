@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:50:18 UTC
+# Standings for team1 as of 2026-06-07 08:50:40 UTC
 
 **Total Participants:** 1428
 
@@ -145,15 +145,15 @@
 | 137 | 353 | Lashaunda |
 | 138 | 351 | Uneekly Mayde |
 | 139 | 348 | LeeLee08 |
-| 140 | 339 | Ty Øtg |
-| 141 | 336 | Ceilo Marie |
-| 142 | 331 | Joey Albright |
-| 143 | 330 | Jessica Russell |
-| 144 | 328 | Jonathan Vee Jay |
-| 145 | 328 | Dynah Gordon |
-| 146 | 323 | Sheila Burnham |
-| 147 | 322 | pooh |
-| 148 | 319 | Andre Sanon |
+| 140 | 347 | Andre Sanon |
+| 141 | 339 | Ty Øtg |
+| 142 | 336 | Ceilo Marie |
+| 143 | 331 | Joey Albright |
+| 144 | 330 | Jessica Russell |
+| 145 | 328 | Jonathan Vee Jay |
+| 146 | 328 | Dynah Gordon |
+| 147 | 323 | Sheila Burnham |
+| 148 | 322 | pooh |
 | 149 | 312 | Michelle Titus |
 | 150 | 311 | Simmone T. Kadiri |
 | 151 | 311 | Tina Mitchell |

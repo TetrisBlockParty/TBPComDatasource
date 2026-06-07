@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 08:50:18 UTC
+# Standings for team4 as of 2026-06-07 08:50:40 UTC
 
 **Total Participants:** 1419
 
@@ -415,39 +415,39 @@
 | 407 | 102 | Suzanne North |
 | 408 | 101 | Sarah Perry Cook |
 | 409 | 101 | Bre Dee |
-| 410 | 101 | Dayna Arthurs |
-| 411 | 101 | Kandylands |
+| 410 | 101 | Kandylands |
+| 411 | 101 | Dayna Arthurs |
 | 412 | 101 | Misty Leigh |
 | 413 | 100 | Shy |
-| 414 | 100 | Lul Babie |
-| 415 | 100 | Linda Miltenburg |
-| 416 | 100 | Loopy Clusterline |
-| 417 | 100 | Melissa Brown |
+| 414 | 100 | George Marshburn |
+| 415 | 100 | Elissa S-k |
+| 416 | 100 | CorieBe |
+| 417 | 100 | Tricia Motika Cowan |
 | 418 | 100 | Stotty |
-| 419 | 100 | Tricia Motika Cowan |
-| 420 | 100 | CorieBe |
-| 421 | 100 | Elissa S-k |
-| 422 | 100 | George Marshburn |
-| 423 | 99 | Melissa Quinn |
-| 424 | 99 | Chirpy Snapclear |
-| 425 | 99 | Tamika Ashli Bonner |
-| 426 | 98 | Jacqueline Arce |
-| 427 | 98 | Mark Fitch Jr. |
-| 428 | 98 | Deva Marie Barber |
-| 429 | 98 | katy |
-| 430 | 98 | Jen Smith |
-| 431 | 97 | Dawn Marie Trujillo |
+| 419 | 100 | Melissa Brown |
+| 420 | 100 | Linda Miltenburg |
+| 421 | 100 | Loopy Clusterline |
+| 422 | 100 | Lul Babie |
+| 423 | 99 | Tamika Ashli Bonner |
+| 424 | 99 | Melissa Quinn |
+| 425 | 99 | Alizabeth Garcia |
+| 426 | 99 | Chirpy Snapclear |
+| 427 | 98 | Deva Marie Barber |
+| 428 | 98 | Jacqueline Arce |
+| 429 | 98 | Mark Fitch Jr. |
+| 430 | 98 | katy |
+| 431 | 98 | Jen Smith |
 | 432 | 97 | SupaFly |
-| 433 | 97 | Betsy Froemming |
-| 434 | 96 | Cheeky Fallzone |
-| 435 | 96 | Scrumptious |
+| 433 | 97 | Dawn Marie Trujillo |
+| 434 | 97 | Betsy Froemming |
+| 435 | 96 | Cheeky Fallzone |
 | 436 | 96 | Nessa Smith |
-| 437 | 96 | Diana Fernandez |
-| 438 | 96 | Jennifer Garcia |
-| 439 | 95 | Laurie Patrick |
-| 440 | 95 | Kari Smith |
-| 441 | 95 | Mighty1 |
-| 442 | 95 | Alizabeth Garcia |
+| 437 | 96 | Scrumptious |
+| 438 | 96 | Diana Fernandez |
+| 439 | 96 | Jennifer Garcia |
+| 440 | 95 | Laurie Patrick |
+| 441 | 95 | Kari Smith |
+| 442 | 95 | Mighty1 |
 | 443 | 94 | Janae Harris |
 | 444 | 94 | Courtney Niichole |
 | 445 | 94 | Reina Pagan |
@@ -609,47 +609,47 @@
 | 601 | 67 | SueSally |
 | 602 | 67 | Wacky Snaplink |
 | 603 | 67 | Glittara |
-| 604 | 67 | Ashley DuVall |
+| 604 | 67 | Noa Lee |
 | 605 | 67 | Mc3003 |
 | 606 | 67 | Peterson Cottontail |
-| 607 | 67 | Snappy Stack |
-| 608 | 67 | Playful Raccoon |
-| 609 | 67 | Noa Lee |
-| 610 | 66 | chefjaydawg |
-| 611 | 66 | Joyce Hampton |
-| 612 | 66 | Dapper Tiltpiece |
-| 613 | 66 | james |
+| 607 | 67 | Ashley DuVall |
+| 608 | 67 | Snappy Stack |
+| 609 | 67 | Playful Raccoon |
+| 610 | 67 | Funky Tiler |
+| 611 | 66 | Dapper Tiltpiece |
+| 612 | 66 | Joyce Hampton |
+| 613 | 66 | chefjaydawg |
 | 614 | 66 | Jennifer Brucz |
-| 615 | 66 | Mann Manson |
-| 616 | 65 | Cranky Twistpiece |
+| 615 | 66 | james |
+| 616 | 66 | Mann Manson |
 | 617 | 65 | Yvette Johnson |
-| 618 | 65 | Tony Clark |
-| 619 | 65 | Genger |
-| 620 | 65 | Lacie Powers |
-| 621 | 65 | Deborah Ayliffe |
+| 618 | 65 | Genger |
+| 619 | 65 | Lacie Powers |
+| 620 | 65 | Cranky Twistpiece |
+| 621 | 65 | Rocky |
 | 622 | 65 | Monte Smith |
 | 623 | 65 | Knijur Callins |
-| 624 | 65 | Gabby Simones |
-| 625 | 65 | Rocky |
-| 626 | 65 | Youngkueen |
-| 627 | 65 | Breezy Wife |
-| 628 | 65 | Dinah Mccall |
-| 629 | 65 | Jailen Harper |
-| 630 | 65 | Lovetetris |
-| 631 | 64 | Mmm |
-| 632 | 64 | Giggy Risegrid |
-| 633 | 64 | Clever Brickzone |
-| 634 | 64 | Jade Alley |
-| 635 | 64 | Surviving Be Back Soon |
-| 636 | 64 | Funky Tiler |
+| 624 | 65 | Youngkueen |
+| 625 | 65 | Breezy Wife |
+| 626 | 65 | Dinah Mccall |
+| 627 | 65 | Gabby Simones |
+| 628 | 65 | Deborah Ayliffe |
+| 629 | 65 | Tony Clark |
+| 630 | 65 | Jailen Harper |
+| 631 | 65 | Lovetetris |
+| 632 | 64 | Mmm |
+| 633 | 64 | Giggy Risegrid |
+| 634 | 64 | Clever Brickzone |
+| 635 | 64 | MamaC |
+| 636 | 64 | David Lay |
 | 637 | 64 | Daring Brickbuilder |
-| 638 | 64 | David Lay |
-| 639 | 64 | MamaC |
-| 640 | 64 | Deb 07 |
-| 641 | 64 | Nicole Ambrose |
-| 642 | 63 | Shirley A. Godfrey |
-| 643 | 63 | ButterfliesRFree |
-| 644 | 63 | MattJennifer Marie Ericson |
+| 638 | 64 | Deb 07 |
+| 639 | 64 | Nicole Ambrose |
+| 640 | 64 | Surviving Be Back Soon |
+| 641 | 64 | Jade Alley |
+| 642 | 63 | MattJennifer Marie Ericson |
+| 643 | 63 | Shirley A. Godfrey |
+| 644 | 63 | ButterfliesRFree |
 | 645 | 63 | JP |
 | 646 | 63 | Cassie N Danica Flaherty |
 | 647 | 63 | Marina |
