@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 04:51:19 UTC
+# Standings for team1 as of 2026-06-07 04:52:18 UTC
 
 **Total Participants:** 1353
 
@@ -71,7 +71,7 @@
 | 63 | 855 | Blockhead |
 | 64 | 836 | Tiana Moore |
 | 65 | 816 | Angela R Wilson |
-| 66 | 813 | Eric Mcgaughy |
+| 66 | 816 | Eric Mcgaughy |
 | 67 | 805 | Weeze |
 | 68 | 803 | Kimberly Hernandez |
 | 69 | 788 | Jazzy Dashpiece |
@@ -112,7 +112,7 @@
 | 104 | 507 | She Higgy |
 | 105 | 496 | MamaBear |
 | 106 | 495 | W.A. Simpson |
-| 107 | 478 | Gael Quintana |
+| 107 | 487 | Gael Quintana |
 | 108 | 477 | Chenell Gillard |
 | 109 | 454 | DaVonte' Cretter |
 | 110 | 447 | Gotcha |
@@ -147,17 +147,17 @@
 | 139 | 311 | Simmone T. Kadiri |
 | 140 | 308 | John Staub |
 | 141 | 308 | Dena Marie Lee |
-| 142 | 303 | Roberta Lynn |
-| 143 | 301 | Chris Caniglia |
-| 144 | 300 | Atlantalindi |
-| 145 | 300 | Felicia Cain |
-| 146 | 298 | Leebo Slice |
-| 147 | 297 | Tammye Turner |
-| 148 | 297 | Michelle Titus |
-| 149 | 296 | Rolanda Williams |
-| 150 | 293 | Dee McCool |
-| 151 | 291 | Brian Taylor |
-| 152 | 291 | Allison Baxter |
+| 142 | 306 | Allison Baxter |
+| 143 | 303 | Roberta Lynn |
+| 144 | 301 | Chris Caniglia |
+| 145 | 300 | Atlantalindi |
+| 146 | 300 | Felicia Cain |
+| 147 | 298 | Leebo Slice |
+| 148 | 297 | Tammye Turner |
+| 149 | 297 | Michelle Titus |
+| 150 | 296 | Rolanda Williams |
+| 151 | 293 | Dee McCool |
+| 152 | 291 | Brian Taylor |
 | 153 | 290 | Kaleisha Smith |
 | 154 | 290 | Mimi 1.0 |
 | 155 | 285 | Ashley MyBeauty Daniels |
@@ -186,33 +186,33 @@
 | 178 | 250 | Davionte DaeDae Hopson-Rodriguez |
 | 179 | 249 | Falisa Bell |
 | 180 | 249 | Cee Emm |
-| 181 | 248 | Jazzy Fireflighters |
-| 182 | 248 | Yasmin Nakea Wright |
-| 183 | 248 | Sharon Cail |
-| 184 | 246 | Denise B |
-| 185 | 245 | Zachary Colegrove |
-| 186 | 245 | Derrius SeriousLee Burks |
-| 187 | 241 | SyTheEvilGenius1 |
-| 188 | 241 | Byron Mario Cawthon |
-| 189 | 240 | Rayya Kiser |
-| 190 | 238 | Christina Rebecca |
+| 181 | 248 | Yasmin Nakea Wright |
+| 182 | 248 | Christina Rebecca |
+| 183 | 248 | Jazzy Fireflighters |
+| 184 | 248 | Sharon Cail |
+| 185 | 246 | Denise B |
+| 186 | 245 | Zachary Colegrove |
+| 187 | 245 | Derrius SeriousLee Burks |
+| 188 | 241 | SyTheEvilGenius1 |
+| 189 | 241 | Byron Mario Cawthon |
+| 190 | 240 | Rayya Kiser |
 | 191 | 237 | David Fuentes |
 | 192 | 236 | Nutty Spinblock |
 | 193 | 236 | IThinkNot |
 | 194 | 235 | Michele Simpson |
 | 195 | 234 | Eugina Slater |
 | 196 | 232 | Ebony |
-| 197 | 228 | Dacia Hicks |
-| 198 | 227 | Therealdywoune Peay |
-| 199 | 225 | Rhonda Williams Warner |
-| 200 | 222 | Mic Balew |
-| 201 | 220 | Devin West |
-| 202 | 220 | Slim Shedidthat |
-| 203 | 220 | Latisha Fairley |
-| 204 | 217 | Koi |
-| 205 | 217 | Reginald Frank |
-| 206 | 216 | Nerdy Snapfall |
-| 207 | 212 | Queenie Perry |
+| 197 | 228 | Latisha Fairley |
+| 198 | 228 | Dacia Hicks |
+| 199 | 227 | Therealdywoune Peay |
+| 200 | 225 | Rhonda Williams Warner |
+| 201 | 222 | Mic Balew |
+| 202 | 222 | Queenie Perry |
+| 203 | 220 | Devin West |
+| 204 | 220 | Slim Shedidthat |
+| 205 | 217 | Koi |
+| 206 | 217 | Reginald Frank |
+| 207 | 216 | Nerdy Snapfall |
 | 208 | 212 | Nobles Brandon |
 | 209 | 210 | Tina Mitchell |
 | 210 | 206 | Curtis T Cirno |
@@ -234,8 +234,8 @@
 | 226 | 191 | Emily Wright |
 | 227 | 191 | Kelli Couture |
 | 228 | 189 | LaShaun Stinson |
-| 229 | 187 | Kenny MrOnethousand Peck |
-| 230 | 187 | Heather Aurelia |
+| 229 | 187 | Heather Aurelia |
+| 230 | 187 | Kenny MrOnethousand Peck |
 | 231 | 186 | Stephen Providenti |
 | 232 | 186 | Lesley Brunkus Cianfaglione |
 | 233 | 184 | Dai Bo |
@@ -583,57 +583,57 @@
 | 575 | 65 | Gbnola |
 | 576 | 65 | Wayne Savannah |
 | 577 | 65 | Dede Tate |
-| 578 | 65 | Trixie |
-| 579 | 65 | Tesiree Cray |
-| 580 | 64 | DellaLucretia Thomas |
-| 581 | 64 | Dandy Brickfit |
-| 582 | 64 | Chris Nelson |
-| 583 | 64 | DirtiestofMikes |
-| 584 | 64 | Giddy Staggerpiece |
+| 578 | 65 | Tesiree Cray |
+| 579 | 65 | Trixie |
+| 580 | 64 | Jumpy Gridlock |
+| 581 | 64 | Joseph Vs Cap |
+| 582 | 64 | Dandy Brickfit |
+| 583 | 64 | Chris Nelson |
+| 584 | 64 | DirtiestofMikes |
 | 585 | 64 | Elaine Youmans |
-| 586 | 64 | Joseph Vs Cap |
-| 587 | 64 | Jumpy Gridlock |
-| 588 | 63 | Shakuria Cortia Burney |
+| 586 | 64 | DellaLucretia Thomas |
+| 587 | 64 | Giddy Staggerpiece |
+| 588 | 63 | Shawna Passwater |
 | 589 | 63 | Mellie Mel |
-| 590 | 63 | Shawna Passwater |
-| 591 | 63 | La'Chae Nickole |
-| 592 | 63 | Ahsokadog |
-| 593 | 62 | Jack Mehof |
-| 594 | 62 | Meow Meow |
-| 595 | 62 | Nedine Ray |
-| 596 | 62 | Stephen Garland |
-| 597 | 62 | Casey Chapman |
-| 598 | 61 | Squaw Ki Ng |
-| 599 | 61 | Raquel Ortiz |
-| 600 | 61 | Taz Ballard |
-| 601 | 61 | Tonya Thomas |
-| 602 | 60 | Xana Zania Bopp |
-| 603 | 60 | Demi Ovalle |
-| 604 | 60 | Tellisa Payne |
-| 605 | 60 | Coco |
-| 606 | 60 | Jose Rodriguez |
+| 590 | 63 | La'Chae Nickole |
+| 591 | 63 | Ahsokadog |
+| 592 | 63 | Shakuria Cortia Burney |
+| 593 | 62 | Nedine Ray |
+| 594 | 62 | Jack Mehof |
+| 595 | 62 | Stephen Garland |
+| 596 | 62 | Casey Chapman |
+| 597 | 62 | Meow Meow |
+| 598 | 61 | Raquel Ortiz |
+| 599 | 61 | Taz Ballard |
+| 600 | 61 | Tonya Thomas |
+| 601 | 61 | Squaw Ki Ng |
+| 602 | 60 | Dawn Basemore |
+| 603 | 60 | Jose Rodriguez |
+| 604 | 60 | Xana Zania Bopp |
+| 605 | 60 | Tellisa Payne |
+| 606 | 60 | Coco |
 | 607 | 60 | Deveda Williams |
-| 608 | 60 | Yellowguy3 |
-| 609 | 60 | Dianne Clagon |
-| 610 | 60 | Mom3granny2 |
-| 611 | 60 | Smiley3000 |
-| 612 | 60 | Marie Wilson |
-| 613 | 60 | Angie Smith |
-| 614 | 60 | Malcolm Stanley |
+| 608 | 60 | Demi Ovalle |
+| 609 | 60 | Yellowguy3 |
+| 610 | 60 | Dianne Clagon |
+| 611 | 60 | Mom3granny2 |
+| 612 | 60 | Smiley3000 |
+| 613 | 60 | Marie Wilson |
+| 614 | 60 | Angie Smith |
 | 615 | 60 | lookin |
-| 616 | 60 | Missy Myvette |
+| 616 | 60 | Malcolm Stanley |
 | 617 | 60 | Lauren Farkas |
-| 618 | 59 | Darrel Pemberton |
-| 619 | 59 | Smiley Tilebuilder |
-| 620 | 59 | OhNoZer0 |
-| 621 | 59 | Sugar Foot |
-| 622 | 59 | Desi Guerra |
-| 623 | 59 | Evette Moreno |
-| 624 | 59 | Spicy Shatterblock |
-| 625 | 59 | Tonny Williams |
-| 626 | 59 | Kortney Adams |
-| 627 | 59 | Elizabeth Hopkins |
-| 628 | 59 | Dawn Basemore |
+| 618 | 60 | Missy Myvette |
+| 619 | 59 | Tonny Williams |
+| 620 | 59 | Smiley Tilebuilder |
+| 621 | 59 | OhNoZer0 |
+| 622 | 59 | Sugar Foot |
+| 623 | 59 | Desi Guerra |
+| 624 | 59 | Evette Moreno |
+| 625 | 59 | Spicy Shatterblock |
+| 626 | 59 | Darrel Pemberton |
+| 627 | 59 | Kortney Adams |
+| 628 | 59 | Elizabeth Hopkins |
 | 629 | 59 | Keith Johnson |
 | 630 | 59 | Twisty Brickfit |
 | 631 | 59 | Danny M GR |
