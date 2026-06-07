@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 12:08:18 UTC
+# Standings for team4 as of 2026-06-07 12:08:39 UTC
 
 **Total Participants:** 1455
 
@@ -219,19 +219,19 @@
 | 211 | 223 | Queen B |
 | 212 | 222 | Plucky Shatterfit |
 | 213 | 221 | Pepone Pepe |
-| 214 | 220 | blockhead |
-| 215 | 220 | CIRAZYPNOY |
-| 216 | 220 | Silly Risegrid |
-| 217 | 218 | Lori Stembridge |
-| 218 | 215 | Jeremy |
-| 219 | 215 | Jj Johnson |
-| 220 | 211 | Renee Sapp |
-| 221 | 211 | Goofy Riser |
-| 222 | 210 | Stephanie Myers |
-| 223 | 209 | Crystal Hammonds |
-| 224 | 207 | Aramat |
-| 225 | 205 | Kristen Wallace |
-| 226 | 204 | tigerlilly |
+| 214 | 220 | tigerlilly |
+| 215 | 220 | blockhead |
+| 216 | 220 | CIRAZYPNOY |
+| 217 | 220 | Silly Risegrid |
+| 218 | 218 | Lori Stembridge |
+| 219 | 215 | Jeremy |
+| 220 | 215 | Jj Johnson |
+| 221 | 211 | Renee Sapp |
+| 222 | 211 | Goofy Riser |
+| 223 | 210 | Stephanie Myers |
+| 224 | 209 | Crystal Hammonds |
+| 225 | 207 | Aramat |
+| 226 | 205 | Kristen Wallace |
 | 227 | 200 | Sarah Montagne Forsberg |
 | 228 | 199 | Lively Blockpiece |
 | 229 | 199 | Janet Willoughby |
@@ -456,70 +456,70 @@
 | 448 | 100 | CorieBe |
 | 449 | 100 | Linda Miltenburg |
 | 450 | 100 | Stotty |
-| 451 | 100 | Tricia Motika Cowan |
-| 452 | 100 | George Marshburn |
-| 453 | 99 | Tamika Ashli Bonner |
-| 454 | 99 | Melissa Quinn |
+| 451 | 100 | George Marshburn |
+| 452 | 100 | Tricia Motika Cowan |
+| 453 | 99 | Melissa Quinn |
+| 454 | 99 | Tamika Ashli Bonner |
 | 455 | 99 | Inez Nez |
 | 456 | 99 | Azahares Alonso |
 | 457 | 98 | katy |
 | 458 | 98 | Jacqueline Arce |
-| 459 | 98 | Deva Marie Barber |
-| 460 | 98 | Mark Fitch Jr. |
+| 459 | 98 | Mark Fitch Jr. |
+| 460 | 98 | Deva Marie Barber |
 | 461 | 97 | Betsy Froemming |
 | 462 | 97 | Dawn Marie Trujillo |
-| 463 | 96 | Scrumptious |
-| 464 | 96 | Jennifer Garcia |
-| 465 | 96 | Stephanie Brock |
+| 463 | 96 | Stephanie Brock |
+| 464 | 96 | Scrumptious |
+| 465 | 96 | Jennifer Garcia |
 | 466 | 96 | Nessa Smith |
 | 467 | 95 | Tiffany Roberts |
 | 468 | 95 | Kari Smith |
 | 469 | 95 | EpicWizard |
 | 470 | 95 | Laurie Patrick |
-| 471 | 94 | Cranky Twistpiece |
-| 472 | 94 | Courtney Niichole |
-| 473 | 94 | Janae Harris |
+| 471 | 94 | Courtney Niichole |
+| 472 | 94 | Janae Harris |
+| 473 | 94 | Cranky Twistpiece |
 | 474 | 94 | Reina Pagan |
 | 475 | 94 | Caiti O'Keefe |
 | 476 | 93 | Witty Fitblock |
 | 477 | 93 | Boldy Striker |
 | 478 | 93 | Csigirlnc |
-| 479 | 93 | Domo Dpn |
-| 480 | 93 | Dandy Cascade |
-| 481 | 92 | MrLoner Stoner |
-| 482 | 92 | my my |
+| 479 | 93 | Elena Marí |
+| 480 | 93 | Domo Dpn |
+| 481 | 93 | Dandy Cascade |
+| 482 | 92 | MrLoner Stoner |
 | 483 | 92 | Rosy Perez |
-| 484 | 92 | William Brooks |
-| 485 | 92 | Autumn Maher |
-| 486 | 92 | Giggly Column |
-| 487 | 91 | Slinky Column |
-| 488 | 91 | Miss Beast |
-| 489 | 91 | Happy Shatterfit |
-| 490 | 91 | Spicy Peach |
-| 491 | 90 | Garden Girlie |
-| 492 | 90 | Joshua Garner |
-| 493 | 90 | Codey Haffner |
+| 484 | 92 | my my |
+| 485 | 92 | William Brooks |
+| 486 | 92 | Autumn Maher |
+| 487 | 92 | Giggly Column |
+| 488 | 91 | Slinky Column |
+| 489 | 91 | Miss Beast |
+| 490 | 91 | Happy Shatterfit |
+| 491 | 91 | Spicy Peach |
+| 492 | 90 | Garden Girlie |
+| 493 | 90 | Joshua Garner |
 | 494 | 90 | Ricky Colvin |
-| 495 | 90 | Dexter Hammond Jr |
-| 496 | 90 | Alex Armour |
-| 497 | 90 | Candiecane324 |
-| 498 | 89 | Mmm |
-| 499 | 89 | Tammy Wells |
-| 500 | 89 | Mrs |
-| 501 | 89 | Bon Jovi |
-| 502 | 89 | Jen Roe |
-| 503 | 88 | Hasty Dropzone |
-| 504 | 88 | Happy Toast |
-| 505 | 88 | Mrsjcraw18 |
-| 506 | 87 | da1ndonly |
-| 507 | 87 | Tiffany Taylor |
-| 508 | 87 | Breezy Wife |
-| 509 | 87 | Loretta Hendricks |
-| 510 | 87 | Limbo |
+| 495 | 90 | Codey Haffner |
+| 496 | 90 | Dexter Hammond Jr |
+| 497 | 90 | Alex Armour |
+| 498 | 90 | Candiecane324 |
+| 499 | 89 | Mmm |
+| 500 | 89 | Tammy Wells |
+| 501 | 89 | Mrs |
+| 502 | 89 | Bon Jovi |
+| 503 | 89 | Jen Roe |
+| 504 | 88 | Hasty Dropzone |
+| 505 | 88 | Happy Toast |
+| 506 | 88 | Mrsjcraw18 |
+| 507 | 87 | da1ndonly |
+| 508 | 87 | Tiffany Taylor |
+| 509 | 87 | Limbo |
+| 510 | 87 | Fancy Rollfit |
 | 511 | 87 | YenSid |
-| 512 | 87 | Fancy Rollfit |
-| 513 | 86 | Wacky Brick |
-| 514 | 86 | Elena Marí |
+| 512 | 87 | Breezy Wife |
+| 513 | 87 | Loretta Hendricks |
+| 514 | 86 | Wacky Brick |
 | 515 | 86 | ManOfSteel |
 | 516 | 86 | Brandi Sauer |
 | 517 | 86 | Swanky Builderline |
@@ -531,12 +531,12 @@
 | 523 | 85 | Ern |
 | 524 | 85 | MelodiousDeez |
 | 525 | 85 | Mrs Peabod |
-| 526 | 85 | Zappy Tilemaker |
-| 527 | 85 | Dolores Falco |
-| 528 | 85 | Silly Fallzone |
-| 529 | 85 | Andrea Dre Lomeli |
-| 530 | 85 | Allysonjo Varela |
-| 531 | 85 | Darren Miguel |
+| 526 | 85 | Allysonjo Varela |
+| 527 | 85 | Darren Miguel |
+| 528 | 85 | Zappy Tilemaker |
+| 529 | 85 | Silly Fallzone |
+| 530 | 85 | Dolores Falco |
+| 531 | 85 | Andrea Dre Lomeli |
 | 532 | 84 | Sharon Tyler |
 | 533 | 84 | Amandacolle |
 | 534 | 84 | Darryl Shufford |
