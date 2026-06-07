@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 13:56:18 UTC
+# Standings for team4 as of 2026-06-07 13:56:40 UTC
 
 **Total Participants:** 1476
 
@@ -1188,16 +1188,16 @@
 | 1180 | 23 | Monika Webb |
 | 1181 | 23 | Breezy Cascadeclear |
 | 1182 | 23 | Carole Dyment Westcott |
-| 1183 | 23 | James Moore |
-| 1184 | 23 | Leslie Ramos |
-| 1185 | 23 | Musky Pits |
-| 1186 | 22 | Misty Harland |
-| 1187 | 22 | Honey |
-| 1188 | 22 | Zippy Jumper |
-| 1189 | 22 | Magda Lene |
-| 1190 | 22 | Rachel Resnick |
-| 1191 | 22 | McScrubby |
-| 1192 | 22 | Heather Garrity |
+| 1183 | 23 | Heather Garrity |
+| 1184 | 23 | James Moore |
+| 1185 | 23 | Leslie Ramos |
+| 1186 | 23 | Musky Pits |
+| 1187 | 22 | Misty Harland |
+| 1188 | 22 | Honey |
+| 1189 | 22 | Zippy Jumper |
+| 1190 | 22 | Magda Lene |
+| 1191 | 22 | Rachel Resnick |
+| 1192 | 22 | McScrubby |
 | 1193 | 22 | Kathy Lindsay |
 | 1194 | 22 | Baby cat |
 | 1195 | 22 | Twisty Chiseler |
