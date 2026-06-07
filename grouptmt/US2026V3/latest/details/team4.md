@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 11:16:18 UTC
+# Standings for team4 as of 2026-06-07 11:16:39 UTC
 
 **Total Participants:** 1448
 
@@ -30,11 +30,11 @@
 | 22 | 3643 | Jackie Lucas |
 | 23 | 3612 | Tonya Brooks-Johnson |
 | 24 | 3508 | Hasty Builder |
-| 25 | 3150 | Destiny Dyer |
-| 26 | 3095 | Irene Arreguin |
-| 27 | 3069 | Squirrel Donkey |
-| 28 | 2954 | Senor Moppy |
-| 29 | 2882 | Fruitpunch |
+| 25 | 3265 | Fruitpunch |
+| 26 | 3150 | Destiny Dyer |
+| 27 | 3095 | Irene Arreguin |
+| 28 | 3069 | Squirrel Donkey |
+| 29 | 2954 | Senor Moppy |
 | 30 | 2689 | Ning Quiambao |
 | 31 | 2133 | Alexandria Frazier |
 | 32 | 1944 | Juan Ford |

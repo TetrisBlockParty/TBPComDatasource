@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:16:18 UTC
+# Standings for team1 as of 2026-06-07 11:16:39 UTC
 
 **Total Participants:** 1444
 
@@ -216,7 +216,7 @@
 | 208 | 245 | Zachary Colegrove |
 | 209 | 245 | Derrius SeriousLee Burks |
 | 210 | 245 | Rhonda Williams Warner |
-| 211 | 241 | IThinkNot |
+| 211 | 243 | IThinkNot |
 | 212 | 241 | SyTheEvilGenius1 |
 | 213 | 240 | Salim Thugger |
 | 214 | 240 | Rayya Kiser |
