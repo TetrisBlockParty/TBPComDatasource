@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 05:48:39 UTC
+# Standings for team1 as of 2026-06-07 05:49:17 UTC
 
 **Total Participants:** 1382
 
@@ -80,7 +80,7 @@
 | 72 | 764 | Joy Citizen Pickney |
 | 73 | 763 | Richard Horton |
 | 74 | 749 | Aviv Zehavi |
-| 75 | 734 | Lisa Müller |
+| 75 | 736 | Lisa Müller |
 | 76 | 734 | Jaida De'Anne Cox |
 | 77 | 710 | ing410 |
 | 78 | 695 | Corey Cawthon |
@@ -218,13 +218,13 @@
 | 210 | 217 | Koi |
 | 211 | 217 | Reginald Frank |
 | 212 | 216 | Nerdy Snapfall |
-| 213 | 212 | Nobles Brandon |
-| 214 | 210 | Dion Gray |
-| 215 | 206 | Curtis T Cirno |
-| 216 | 205 | Tishauna Virgo |
-| 217 | 204 | Shameka Thrasher |
-| 218 | 200 | Christian Pham |
-| 219 | 199 | Teddy Davis |
+| 213 | 214 | Teddy Davis |
+| 214 | 212 | Nobles Brandon |
+| 215 | 210 | Dion Gray |
+| 216 | 206 | Curtis T Cirno |
+| 217 | 205 | Tishauna Virgo |
+| 218 | 204 | Shameka Thrasher |
+| 219 | 200 | Christian Pham |
 | 220 | 199 | Fina McKinnis |
 | 221 | 198 | Robbie Cheeseman |
 | 222 | 197 | Smiley Clearpiece |
@@ -311,97 +311,97 @@
 | 303 | 138 | Tamika Rocheteau |
 | 304 | 137 | Lisa Fletcher |
 | 305 | 137 | Steve Reno |
-| 306 | 137 | Nickeya Phillips |
-| 307 | 137 | Tay |
+| 306 | 137 | Tay |
+| 307 | 137 | Nickeya Phillips |
 | 308 | 136 | Penee Wiggins |
-| 309 | 135 | Saucy Tile |
+| 309 | 135 | Skippy |
 | 310 | 135 | Sean White |
-| 311 | 135 | Skippy |
-| 312 | 134 | Brittanie Wardlow |
-| 313 | 134 | Perky Pusher |
+| 311 | 135 | Saucy Tile |
+| 312 | 134 | Perky Pusher |
+| 313 | 134 | Brittanie Wardlow |
 | 314 | 133 | Tasha |
-| 315 | 132 | Chirpy Buildgrid |
-| 316 | 132 | Tremaine Hiler |
-| 317 | 131 | Giggy Tower |
-| 318 | 131 | Sarah Clark |
+| 315 | 132 | Tremaine Hiler |
+| 316 | 132 | Chirpy Buildgrid |
+| 317 | 131 | Sarah Clark |
+| 318 | 131 | Giggy Tower |
 | 319 | 130 | Hailey Hil |
-| 320 | 130 | Adrian Wilson |
+| 320 | 130 | Miera Nicole |
 | 321 | 130 | Jessica Davis |
 | 322 | 130 | Crystal Anderson |
-| 323 | 130 | Miera Nicole |
+| 323 | 130 | Adrian Wilson |
 | 324 | 129 | Mathew Trudell |
 | 325 | 128 | Darrel K Pemberton |
 | 326 | 128 | Jack Vlasak |
-| 327 | 127 | Treneil Daffin |
+| 327 | 127 | Ozell Jones Jr. |
 | 328 | 127 | kitten |
-| 329 | 127 | Ozell Jones Jr. |
-| 330 | 127 | Comedian Prince Paul |
-| 331 | 125 | Dedra M Prester |
-| 332 | 125 | Dizzy Dashy |
+| 329 | 127 | Comedian Prince Paul |
+| 330 | 127 | Treneil Daffin |
+| 331 | 125 | LaTonya Myers |
+| 332 | 125 | Dedra M Prester |
 | 333 | 125 | Tosha Michelle |
-| 334 | 125 | LaTonya Myers |
+| 334 | 125 | Dizzy Dashy |
 | 335 | 124 | Alyssa Rae |
-| 336 | 123 | McKayla Owens |
+| 336 | 123 | Rachael Bakowicz Edwards |
 | 337 | 123 | Cauiasia DeJ'ae |
-| 338 | 123 | Rachael Bakowicz Edwards |
-| 339 | 122 | Xana Zania Bopp |
-| 340 | 121 | Shanaa Germany Crittenden |
-| 341 | 121 | Peppy Glider |
+| 338 | 123 | McKayla Owens |
+| 339 | 122 | Peppy Glider |
+| 340 | 122 | Xana Zania Bopp |
+| 341 | 121 | Shanaa Germany Crittenden |
 | 342 | 121 | Bubbly Piececlear |
-| 343 | 121 | Tee Spinks |
-| 344 | 121 | Tiana Monique |
-| 345 | 120 | Teri Marie Clayton |
+| 343 | 121 | Tiana Monique |
+| 344 | 121 | Tee Spinks |
+| 345 | 120 | Guy Incognito |
 | 346 | 120 | Valerie Alexander |
-| 347 | 120 | Tanya Clayton |
-| 348 | 120 | rls |
-| 349 | 120 | Dynah Gordon |
-| 350 | 120 | Guy Incognito |
-| 351 | 120 | Katrina Ramey |
-| 352 | 119 | Lexx Robins |
-| 353 | 119 | Kelvin Cook |
+| 347 | 120 | rls |
+| 348 | 120 | Teri Marie Clayton |
+| 349 | 120 | Katrina Ramey |
+| 350 | 120 | Dynah Gordon |
+| 351 | 120 | Tanya Clayton |
+| 352 | 119 | Kelvin Cook |
+| 353 | 119 | Lexx Robins |
 | 354 | 118 | izzybella |
 | 355 | 118 | Hasty Pivoty |
 | 356 | 117 | Choc |
 | 357 | 117 | MonaSparks |
 | 358 | 116 | Shalya Terry |
-| 359 | 115 | Ashleyy Netchert |
-| 360 | 115 | wmedina67 |
-| 361 | 114 | Nina Davis |
+| 359 | 115 | wmedina67 |
+| 360 | 115 | Ashleyy Netchert |
+| 361 | 114 | LAhoneybun82 |
 | 362 | 114 | Brittany Fells |
-| 363 | 114 | LAhoneybun82 |
+| 363 | 114 | Nina Davis |
 | 364 | 113 | Faith Armone |
 | 365 | 112 | GamerQueenDS |
-| 366 | 111 | Daring Blockclear |
-| 367 | 111 | Ad Doctor |
-| 368 | 110 | Nate Myers |
+| 366 | 111 | Ad Doctor |
+| 367 | 111 | Daring Blockclear |
+| 368 | 110 | Chandler Magee |
 | 369 | 110 | Maribel Vasquez |
-| 370 | 110 | Chandler Magee |
+| 370 | 110 | Nate Myers |
 | 371 | 109 | Tamara Johnson-Carter |
-| 372 | 109 | Loopy Tiler |
+| 372 | 109 | Bambi Johnson |
 | 373 | 109 | MamushiOh |
-| 374 | 109 | Bambi Johnson |
-| 375 | 109 | Manda Allen |
-| 376 | 109 | Tamika Fisher |
+| 374 | 109 | Loopy Tiler |
+| 375 | 109 | Tamika Fisher |
+| 376 | 109 | Manda Allen |
 | 377 | 109 | Cece Fowler |
 | 378 | 108 | Char |
 | 379 | 107 | Laurie Napper |
 | 380 | 106 | Mister Reid |
-| 381 | 105 | Kelley Johnson |
-| 382 | 105 | Mario Meliodas |
-| 383 | 105 | Analiza Ramos |
-| 384 | 105 | QueenShay AllGood |
-| 385 | 105 | Maria |
+| 381 | 105 | Analiza Ramos |
+| 382 | 105 | De'Nell Edwards |
+| 383 | 105 | Mario Meliodas |
+| 384 | 105 | Maria |
+| 385 | 105 | Kelley Johnson |
 | 386 | 105 | BabyCakes |
-| 387 | 104 | De'Nell Edwards |
-| 388 | 104 | Breezy Catcher |
-| 389 | 104 | Ahvae Lee |
+| 387 | 105 | QueenShay AllGood |
+| 388 | 104 | Ahvae Lee |
+| 389 | 104 | Breezy Catcher |
 | 390 | 104 | Tyiesha Pie Farmer |
 | 391 | 103 | Lynnette WheelerBushnell |
-| 392 | 102 | Christi Walker Patton |
-| 393 | 102 | Eric Spencer Whitaker |
-| 394 | 102 | Sarah Steckbauer |
-| 395 | 101 | Elaine Pauley |
-| 396 | 101 | star |
+| 392 | 102 | Sarah Steckbauer |
+| 393 | 102 | Christi Walker Patton |
+| 394 | 102 | Eric Spencer Whitaker |
+| 395 | 101 | star |
+| 396 | 101 | Elaine Pauley |
 | 397 | 101 | Wacky Wipepiece |
 | 398 | 101 | Joana Thompson |
 | 399 | 101 | Mommy Frank |
