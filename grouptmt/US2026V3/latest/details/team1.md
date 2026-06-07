@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 14:14:39 UTC
+# Standings for team1 as of 2026-06-07 14:15:19 UTC
 
 **Total Participants:** 1474
 
@@ -75,8 +75,8 @@
 | 67 | 877 | Brian Bohanon II |
 | 68 | 873 | Janine Hunter |
 | 69 | 870 | Blockhead |
-| 70 | 863 | Court Court |
-| 71 | 863 | Eric Mcgaughy |
+| 70 | 868 | Eric Mcgaughy |
+| 71 | 863 | Court Court |
 | 72 | 836 | Tiana Moore |
 | 73 | 803 | Kimberly Hernandez |
 | 74 | 799 | Jazzy Dashpiece |
@@ -97,13 +97,13 @@
 | 89 | 667 | Sarah Marie |
 | 90 | 661 | Bre Maugh |
 | 91 | 661 | Kellie Hall |
-| 92 | 620 | IamJust Neyamijah Washington Sr. |
-| 93 | 613 | Big Tina |
-| 94 | 607 | She Higgy |
-| 95 | 601 | JaszyBadd |
-| 96 | 588 | Shontanese Adams |
-| 97 | 587 | KenpachisGirl |
-| 98 | 580 | Felicia Williams |
+| 92 | 658 | Felicia Williams |
+| 93 | 620 | IamJust Neyamijah Washington Sr. |
+| 94 | 613 | Big Tina |
+| 95 | 607 | She Higgy |
+| 96 | 601 | JaszyBadd |
+| 97 | 588 | Shontanese Adams |
+| 98 | 587 | KenpachisGirl |
 | 99 | 575 | Tameka Jones |
 | 100 | 570 | Keeta Chickswit Scott |
 | 101 | 570 | PandaPrincess |
@@ -158,8 +158,8 @@
 | 150 | 348 | LeeLee08 |
 | 151 | 339 | Ty Øtg |
 | 152 | 338 | Sheila Burnham |
-| 153 | 333 | La'Chae Nickole |
-| 154 | 333 | Lesley Brunkus Cianfaglione |
+| 153 | 334 | Lesley Brunkus Cianfaglione |
+| 154 | 333 | La'Chae Nickole |
 | 155 | 331 | Joey Albright |
 | 156 | 331 | Simmone T. Kadiri |
 | 157 | 331 | Tina Mitchell |
@@ -239,9 +239,9 @@
 | 231 | 234 | Dacia Hicks |
 | 232 | 231 | Mic Balew |
 | 233 | 229 | Ann White |
-| 234 | 224 | Frisky Fall |
-| 235 | 224 | ♈️ Ariesbaby |
-| 236 | 221 | Jhonny Maii |
+| 234 | 225 | Jhonny Maii |
+| 235 | 224 | Frisky Fall |
+| 236 | 224 | ♈️ Ariesbaby |
 | 237 | 220 | Slim Shedidthat |
 | 238 | 220 | Christian Pham |
 | 239 | 220 | Chilly Wipebuilder |
