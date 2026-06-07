@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 00:10:18 UTC
+# Standings for team1 as of 2026-06-07 00:10:42 UTC
 
 **Total Participants:** 1230
 
@@ -104,8 +104,8 @@
 | 96 | 439 | Asani CHumba |
 | 97 | 438 | Bre Maugh |
 | 98 | 434 | Todd C. Clemens |
-| 99 | 432 | Gael Quintana |
-| 100 | 432 | She Higgy |
+| 99 | 432 | She Higgy |
+| 100 | 432 | Gael Quintana |
 | 101 | 422 | Voice |
 | 102 | 405 | W.A. Simpson |
 | 103 | 404 | ELM |
@@ -121,61 +121,61 @@
 | 113 | 378 | Jamal Itzjusmall Chambers |
 | 114 | 377 | AF Cruz |
 | 115 | 374 | Lashawn Wallace |
-| 116 | 370 | Quirky Fallgrid |
-| 117 | 361 | Ebony Waynes-robinson |
-| 118 | 334 | Christana Imjustbutton Stone |
-| 119 | 329 | Ty Øtg |
-| 120 | 328 | Jonathan Vee Jay |
-| 121 | 325 | Joey Albright |
-| 122 | 324 | Tobey Marberry |
-| 123 | 323 | Sheila Burnham |
-| 124 | 319 | GrkGdess |
-| 125 | 305 | John Staub |
-| 126 | 302 | Felicia Williams |
-| 127 | 300 | Felicia Cain |
-| 128 | 298 | Leebo Slice |
-| 129 | 297 | Michelle Titus |
-| 130 | 294 | Tammye Turner |
-| 131 | 293 | Dee McCool |
-| 132 | 292 | Atlantalindi |
-| 133 | 291 | Brian Taylor |
-| 134 | 290 | Kaleisha Smith |
-| 135 | 290 | Roberta Lynn |
-| 136 | 285 | Ashley MyBeauty Daniels |
-| 137 | 278 | Shontanese Adams |
-| 138 | 277 | Tamara N Lee |
+| 116 | 370 | Anthony Washington |
+| 117 | 370 | Quirky Fallgrid |
+| 118 | 361 | Ebony Waynes-robinson |
+| 119 | 334 | Christana Imjustbutton Stone |
+| 120 | 329 | Ty Øtg |
+| 121 | 328 | Jonathan Vee Jay |
+| 122 | 325 | Joey Albright |
+| 123 | 324 | Tobey Marberry |
+| 124 | 323 | Sheila Burnham |
+| 125 | 319 | GrkGdess |
+| 126 | 305 | John Staub |
+| 127 | 302 | Felicia Williams |
+| 128 | 300 | Felicia Cain |
+| 129 | 298 | Leebo Slice |
+| 130 | 297 | Michelle Titus |
+| 131 | 294 | Tammye Turner |
+| 132 | 293 | Dee McCool |
+| 133 | 292 | Atlantalindi |
+| 134 | 291 | Brian Taylor |
+| 135 | 290 | Kaleisha Smith |
+| 136 | 290 | Roberta Lynn |
+| 137 | 285 | Ashley MyBeauty Daniels |
+| 138 | 278 | Shontanese Adams |
 | 139 | 277 | Tonya Lee Sanders |
-| 140 | 275 | Jawaun Daniels |
+| 140 | 277 | Tamara N Lee |
 | 141 | 275 | Chris Sladoje |
-| 142 | 273 | MamaBear |
-| 143 | 269 | Karebear |
-| 144 | 269 | Mimi 1.0 |
-| 145 | 263 | pooh |
-| 146 | 262 | Chantelle Lee |
-| 147 | 261 | Rolanda Williams |
-| 148 | 257 | Helen Smith |
-| 149 | 257 | Cathy Young |
+| 142 | 275 | Jawaun Daniels |
+| 143 | 273 | MamaBear |
+| 144 | 269 | Karebear |
+| 145 | 269 | Mimi 1.0 |
+| 146 | 263 | pooh |
+| 147 | 262 | Chantelle Lee |
+| 148 | 261 | Rolanda Williams |
+| 149 | 257 | Helen Smith |
 | 150 | 257 | NastyFriend |
-| 151 | 256 | Cortaz Lawrie |
-| 152 | 254 | Alana Renee |
-| 153 | 253 | Brave Clearbuilder |
-| 154 | 251 | Allison Baxter |
-| 155 | 250 | Davionte DaeDae Hopson-Rodriguez |
-| 156 | 249 | Cee Emm |
-| 157 | 248 | Yasmin Nakea Wright |
+| 151 | 257 | Cathy Young |
+| 152 | 256 | Cortaz Lawrie |
+| 153 | 254 | Alana Renee |
+| 154 | 253 | Brave Clearbuilder |
+| 155 | 251 | Allison Baxter |
+| 156 | 250 | Davionte DaeDae Hopson-Rodriguez |
+| 157 | 249 | Cee Emm |
 | 158 | 248 | LeeLee08 |
-| 159 | 248 | Sharon Cail |
-| 160 | 247 | Po Marley |
-| 161 | 246 | Marcheta Cervantez |
-| 162 | 246 | Andre Sanon |
+| 159 | 248 | Yasmin Nakea Wright |
+| 160 | 248 | Sharon Cail |
+| 161 | 247 | Po Marley |
+| 162 | 246 | Marcheta Cervantez |
 | 163 | 246 | Denise B |
-| 164 | 245 | Derrius SeriousLee Burks |
-| 165 | 245 | Zachary Colegrove |
-| 166 | 241 | SyTheEvilGenius1 |
-| 167 | 240 | Rayya Kiser |
-| 168 | 237 | David Fuentes |
-| 169 | 236 | Nutty Spinblock |
-| 170 | 236 | Anthony Washington |
+| 164 | 246 | Andre Sanon |
+| 165 | 245 | Derrius SeriousLee Burks |
+| 166 | 245 | Zachary Colegrove |
+| 167 | 241 | SyTheEvilGenius1 |
+| 168 | 240 | Rayya Kiser |
+| 169 | 237 | David Fuentes |
+| 170 | 236 | Nutty Spinblock |
 | 171 | 235 | Falisa Bell |
 | 172 | 232 | Jazzy Fireflighters |
 | 173 | 228 | Dacia Hicks |
