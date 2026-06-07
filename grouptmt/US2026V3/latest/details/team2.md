@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-07 05:26:18 UTC
+# Standings for team2 as of 2026-06-07 05:26:41 UTC
 
-**Total Participants:** 1630
+**Total Participants:** 1632
 
 ## Participant Scores
 
@@ -134,8 +134,8 @@
 | 126 | 466 | Judy Long |
 | 127 | 458 | Kaycie Shaffer |
 | 128 | 448 | Pooh |
-| 129 | 444 | Bubbly Strikerpiece |
-| 130 | 442 | Amanda Sikes |
+| 129 | 445 | Amanda Sikes |
+| 130 | 444 | Bubbly Strikerpiece |
 | 131 | 438 | Zappy Pattern |
 | 132 | 438 | Michelle Rich Burkhart |
 | 133 | 433 | Kimberly Cowan |
@@ -1544,98 +1544,100 @@
 | 1536 | 9 | Lori Loup |
 | 1537 | 9 | Giggly Spinblock |
 | 1538 | 9 | Samantha Smith |
-| 1539 | 9 | Holly |
-| 1540 | 9 | Dapper Corner |
-| 1541 | 9 | Naomi Christiansen |
-| 1542 | 9 | Andrea |
-| 1543 | 9 | Snazzy Cascadezone |
-| 1544 | 9 | Gigi |
+| 1539 | 9 | Dapper Corner |
+| 1540 | 9 | Latrell Thomas |
+| 1541 | 9 | Snazzy Cascadezone |
+| 1542 | 9 | Bethany Gerber |
+| 1543 | 9 | Terri Ramsey |
+| 1544 | 9 | Yuhh |
 | 1545 | 9 | Cheery Striker |
-| 1546 | 9 | Yuhh |
-| 1547 | 9 | Bethany Gerber |
-| 1548 | 9 | Latrell Thomas |
-| 1549 | 9 | Terri Ramsey |
+| 1546 | 9 | Gigi |
+| 1547 | 9 | Holly |
+| 1548 | 9 | Andrea |
+| 1549 | 9 | Naomi Christiansen |
 | 1550 | 9 | Jeff Mullins |
-| 1551 | 8 | Crystal Alexander |
-| 1552 | 8 | Beth Engberg |
-| 1553 | 8 | Zippy Balance |
-| 1554 | 8 | Kennadee Albertson |
-| 1555 | 8 | Loony Ziggy |
-| 1556 | 8 | Jumpy Twistslam |
-| 1557 | 8 | Cherry L. Salama |
-| 1558 | 8 | Mariah Mandel |
-| 1559 | 8 | Tina Doyens Munis |
-| 1560 | 8 | Funky Slide |
-| 1561 | 8 | Lissa |
-| 1562 | 8 | Jenna Thorn |
-| 1563 | 7 | Perky Rollfit |
+| 1551 | 8 | Loony Ziggy |
+| 1552 | 8 | Kennadee Albertson |
+| 1553 | 8 | Jumpy Twistslam |
+| 1554 | 8 | Beth Engberg |
+| 1555 | 8 | Sk8Mom |
+| 1556 | 8 | Crystal Alexander |
+| 1557 | 8 | Tina Doyens Munis |
+| 1558 | 8 | Zippy Balance |
+| 1559 | 8 | Lissa |
+| 1560 | 8 | Jenna Thorn |
+| 1561 | 8 | Cherry L. Salama |
+| 1562 | 8 | Funky Slide |
+| 1563 | 8 | Mariah Mandel |
 | 1564 | 7 | Lush Tile |
-| 1565 | 7 | Collins |
-| 1566 | 7 | Chirpy Shiftspin |
-| 1567 | 7 | michael |
-| 1568 | 7 | Mighty Tiltpiece |
-| 1569 | 7 | Flashy Cascadeclear |
-| 1570 | 7 | Ashley |
-| 1571 | 7 | Snippy Blockfall |
-| 1572 | 7 | Sam Blinn |
-| 1573 | 7 | Nikki Layman |
-| 1574 | 7 | Sasha Hamilton |
-| 1575 | 7 | Michael Bond |
-| 1576 | 7 | Mistress |
-| 1577 | 7 | Crystal King |
-| 1578 | 7 | Shawn Jensen |
-| 1579 | 7 | Liz Wilkerson |
-| 1580 | 7 | Mighty Piecebuilder |
-| 1581 | 7 | Kyle |
-| 1582 | 7 | Elizabeth Elaine Coursey |
-| 1583 | 7 | Janice Simpson |
-| 1584 | 7 | StacyK |
-| 1585 | 7 | Holly Riley |
-| 1586 | 7 | Elizabeth Barnhart Floyd |
+| 1565 | 7 | Shawn Jensen |
+| 1566 | 7 | Collins |
+| 1567 | 7 | Sasha Hamilton |
+| 1568 | 7 | Chirpy Shiftspin |
+| 1569 | 7 | Chill Racker |
+| 1570 | 7 | Mighty Tiltpiece |
+| 1571 | 7 | John Guider |
+| 1572 | 7 | StacyK |
+| 1573 | 7 | Michael Bond |
+| 1574 | 7 | Mistress |
+| 1575 | 7 | Crystal King |
+| 1576 | 7 | Perky Rollfit |
+| 1577 | 7 | Holly Riley |
+| 1578 | 7 | Janice Simpson |
+| 1579 | 7 | Kyle |
+| 1580 | 7 | Ashley |
+| 1581 | 7 | Elizabeth Elaine Coursey |
+| 1582 | 7 | Snippy Blockfall |
+| 1583 | 7 | Nikki Layman |
+| 1584 | 7 | Brenda Ohaus Facher |
+| 1585 | 7 | michael |
+| 1586 | 7 | Beth |
 | 1587 | 7 | Steven Desmon Thompson |
-| 1588 | 7 | Brenda Ohaus Facher |
-| 1589 | 7 | Beth |
-| 1590 | 7 | John Guider |
-| 1591 | 6 | Jager |
-| 1592 | 6 | Michelle Brown |
-| 1593 | 6 | Bowling girl |
-| 1594 | 6 | Bunny Bt |
-| 1595 | 6 | Brandi Lynn Tumey |
-| 1596 | 6 | Monica Gonzalez Rios |
-| 1597 | 6 | Cheeky Dashpiece |
-| 1598 | 6 | Anna Hale |
-| 1599 | 6 | Alicia Abston |
-| 1600 | 6 | Giggy Dropzone |
-| 1601 | 6 | Cara Douglas |
-| 1602 | 6 | Jenea Colvin |
-| 1603 | 6 | Amanda Knox |
+| 1588 | 7 | Elizabeth Barnhart Floyd |
+| 1589 | 7 | Flashy Cascadeclear |
+| 1590 | 7 | Sam Blinn |
+| 1591 | 7 | Mighty Piecebuilder |
+| 1592 | 7 | Liz Wilkerson |
+| 1593 | 6 | Jenea Colvin |
+| 1594 | 6 | Brandi Lynn Tumey |
+| 1595 | 6 | Bunny Bt |
+| 1596 | 6 | Celeste Samuels |
+| 1597 | 6 | Michelle Brown |
+| 1598 | 6 | Ali |
+| 1599 | 6 | Cheeky Dashpiece |
+| 1600 | 6 | Monica Gonzalez Rios |
+| 1601 | 6 | Jager |
+| 1602 | 6 | Bowling girl |
+| 1603 | 6 | Anna Hale |
 | 1604 | 6 | Hasty Linker |
-| 1605 | 6 | Jessie |
-| 1606 | 6 | Milwaukee Area Cleaning |
-| 1607 | 6 | Ali |
-| 1608 | 6 | Celeste Samuels |
-| 1609 | 5 | Michelle |
-| 1610 | 5 | Errkuh |
-| 1611 | 5 | Chirpy Towerer |
-| 1612 | 5 | Jennifer Mauler Schmidt |
-| 1613 | 5 | Mercedes Lowery |
-| 1614 | 5 | Brittany Weatherspoon |
-| 1615 | 5 | Nikki |
-| 1616 | 5 | Chris Weddel |
-| 1617 | 5 | featherz |
-| 1618 | 5 | Groovy Buildout |
-| 1619 | 5 | Jennifer Roper Stanley |
-| 1620 | 5 | Teri |
-| 1621 | 5 | Nolife |
-| 1622 | 5 | Jason M Barnes |
-| 1623 | 5 | Flynn Flibble |
-| 1624 | 5 | Julie Ann Jacobs |
-| 1625 | 5 | Dapper Clearpiece |
-| 1626 | 5 | Agnes Gable |
-| 1627 | 5 | Jon Torres |
-| 1628 | 5 | Mala Phonchanthasone |
-| 1629 | 5 | Snappy Zonepiece |
-| 1630 | 5 | Quirky Liney |
+| 1605 | 6 | Milwaukee Area Cleaning |
+| 1606 | 6 | Jessie |
+| 1607 | 6 | Giggy Dropzone |
+| 1608 | 6 | Cara Douglas |
+| 1609 | 6 | Alicia Abston |
+| 1610 | 6 | Amanda Knox |
+| 1611 | 5 | Michelle |
+| 1612 | 5 | Brittany Weatherspoon |
+| 1613 | 5 | Chirpy Towerer |
+| 1614 | 5 | Jennifer Mauler Schmidt |
+| 1615 | 5 | Mercedes Lowery |
+| 1616 | 5 | Errkuh |
+| 1617 | 5 | Julie Ann Jacobs |
+| 1618 | 5 | Nikki |
+| 1619 | 5 | Dapper Clearpiece |
+| 1620 | 5 | Flynn Flibble |
+| 1621 | 5 | Jason M Barnes |
+| 1622 | 5 | Nolife |
+| 1623 | 5 | Teri |
+| 1624 | 5 | Agnes Gable |
+| 1625 | 5 | Jennifer Roper Stanley |
+| 1626 | 5 | Groovy Buildout |
+| 1627 | 5 | Chris Weddel |
+| 1628 | 5 | Jon Torres |
+| 1629 | 5 | Mala Phonchanthasone |
+| 1630 | 5 | Snappy Zonepiece |
+| 1631 | 5 | Quirky Liney |
+| 1632 | 5 | featherz |
 
 ---
 *Standings created by tournaments datasource generation tool*
