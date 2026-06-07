@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 20:16:19 UTC
+# Standings for team2 as of 2026-06-07 20:16:41 UTC
 
 **Total Participants:** 1887
 
@@ -180,14 +180,14 @@
 | 172 | 424 | Danielle Blount |
 | 173 | 418 | Kelly Rogers |
 | 174 | 418 | Zany Blockclear |
-| 175 | 416 | Nutty Curver |
-| 176 | 416 | Suki Jacobs |
-| 177 | 414 | Tara |
-| 178 | 413 | Chirpy Grid |
-| 179 | 409 | Erin Thomas |
-| 180 | 407 | Lyric Price |
-| 181 | 406 | Frilly Dashfit |
-| 182 | 406 | Twisty Buildgrid |
+| 175 | 418 | Twisty Buildgrid |
+| 176 | 416 | Nutty Curver |
+| 177 | 416 | Suki Jacobs |
+| 178 | 414 | Tara |
+| 179 | 413 | Chirpy Grid |
+| 180 | 409 | Erin Thomas |
+| 181 | 407 | Lyric Price |
+| 182 | 406 | Frilly Dashfit |
 | 183 | 404 | Cristi Doris |
 | 184 | 400 | Flower_child |
 | 185 | 399 | MaddieCherie |
@@ -1612,16 +1612,16 @@
 | 1604 | 18 | Glitzy Linkfall |
 | 1605 | 18 | Crafty Dashgrid |
 | 1606 | 18 | K2N |
-| 1607 | 18 | Dizzy Glidezone |
-| 1608 | 18 | Loony Glider |
-| 1609 | 18 | Cathy Cobb |
-| 1610 | 17 | grey panther |
-| 1611 | 17 | Hansent3 |
-| 1612 | 17 | Vee Waller |
+| 1607 | 18 | Loony Glider |
+| 1608 | 18 | Cathy Cobb |
+| 1609 | 18 | Dizzy Glidezone |
+| 1610 | 17 | Taderbug |
+| 1611 | 17 | Holly Hannahs |
+| 1612 | 17 | Sk8Mom |
 | 1613 | 17 | Frothy Faller |
-| 1614 | 17 | Sk8Mom |
-| 1615 | 17 | Taderbug |
-| 1616 | 17 | Holly Hannahs |
+| 1614 | 17 | Vee Waller |
+| 1615 | 17 | Hansent3 |
+| 1616 | 17 | grey panther |
 | 1617 | 17 | Kelly Christine Trimmer |
 | 1618 | 17 | Shaun Talbot |
 | 1619 | 17 | Christina Michelle Wilson |
@@ -1644,14 +1644,14 @@
 | 1636 | 16 | Jennifer M Mitchell |
 | 1637 | 16 | Sweety764u |
 | 1638 | 16 | Elliot |
-| 1639 | 16 | Diane Pinkston Massey |
-| 1640 | 16 | Anzhen |
-| 1641 | 16 | Kimberly Rochon |
-| 1642 | 16 | Flashy Blockfall |
-| 1643 | 16 | ElizaThornberry |
-| 1644 | 16 | Charity Black |
-| 1645 | 15 | Wynde Wood |
-| 1646 | 15 | Spunky Snapfall |
+| 1639 | 16 | ElizaThornberry |
+| 1640 | 16 | Flashy Blockfall |
+| 1641 | 16 | Charity Black |
+| 1642 | 16 | Spunky Snapfall |
+| 1643 | 16 | Kimberly Rochon |
+| 1644 | 16 | Anzhen |
+| 1645 | 16 | Diane Pinkston Massey |
+| 1646 | 15 | Wynde Wood |
 | 1647 | 15 | AlDan |
 | 1648 | 15 | Linda Riegsecker |
 | 1649 | 15 | Rhonda McManus - Kimbrough |
