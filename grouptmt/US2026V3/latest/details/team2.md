@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 07:48:21 UTC
+# Standings for team2 as of 2026-06-07 07:48:41 UTC
 
 **Total Participants:** 1674
 
@@ -396,9 +396,9 @@
 | 388 | 136 | Mtnblzr |
 | 389 | 136 | Jumpy Dashpiece |
 | 390 | 135 | Naomi Walker |
-| 391 | 133 | Angela Hogan |
-| 392 | 133 | Tara |
-| 393 | 132 | Sassy Twistbuilder |
+| 391 | 134 | Sassy Twistbuilder |
+| 392 | 133 | Angela Hogan |
+| 393 | 133 | Tara |
 | 394 | 132 | Raine |
 | 395 | 132 | Nicole Plummer |
 | 396 | 131 | Teresa Mandich |
