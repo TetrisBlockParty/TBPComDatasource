@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:00:17 UTC
+# Standings for team1 as of 2026-06-07 11:00:39 UTC
 
 **Total Participants:** 1443
 
@@ -580,28 +580,28 @@
 | 572 | 78 | Solomon Valarie |
 | 573 | 77 | Dana Hawes |
 | 574 | 77 | EvaLynn NeCole |
-| 575 | 76 | Essence Jones |
-| 576 | 76 | Paul Pendley |
-| 577 | 76 | Terrance Tindall |
-| 578 | 76 | Giggly Shatterline |
-| 579 | 76 | Angelique Talbot |
-| 580 | 76 | lady |
+| 575 | 77 | Kahh |
+| 576 | 76 | Essence Jones |
+| 577 | 76 | Paul Pendley |
+| 578 | 76 | Terrance Tindall |
+| 579 | 76 | Giggly Shatterline |
+| 580 | 76 | Angelique Talbot |
 | 581 | 76 | Bold Clusterer |
-| 582 | 75 | Angie Lebron |
-| 583 | 75 | Jennifer Moore |
-| 584 | 75 | Erika |
-| 585 | 75 | sasha |
-| 586 | 75 | Jimmy Shannon |
-| 587 | 75 | MzJuice Box |
-| 588 | 75 | Kahh |
+| 582 | 76 | lady |
+| 583 | 75 | Angie Lebron |
+| 584 | 75 | Jennifer Moore |
+| 585 | 75 | Erika |
+| 586 | 75 | sasha |
+| 587 | 75 | Jimmy Shannon |
+| 588 | 75 | MzJuice Box |
 | 589 | 75 | Courtney Robinson |
 | 590 | 74 | Cortrell Foster |
-| 591 | 74 | Casey Chapman |
-| 592 | 74 | Nichelle Warren |
+| 591 | 74 | Nichelle Warren |
+| 592 | 74 | Casey Chapman |
 | 593 | 74 | Sabrina Wilkerson |
 | 594 | 74 | Sunny Clicky |
-| 595 | 74 | Renee Marshall |
-| 596 | 74 | Tetrisdestroyer |
+| 595 | 74 | Tetrisdestroyer |
+| 596 | 74 | Renee Marshall |
 | 597 | 74 | Kimmie Gargano |
 | 598 | 74 | Glitzy Clusterer |
 | 599 | 73 | Marlynnnnn |
