@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 22:38:19 UTC
+# Standings for team1 as of 2026-06-07 22:38:40 UTC
 
 **Total Participants:** 1600
 
@@ -32,10 +32,10 @@
 | 24 | 3039 | Chummy Combo |
 | 25 | 2863 | Sha Harris |
 | 26 | 2708 | Ebo Got-Time |
-| 27 | 2545 | Cool Bridger |
-| 28 | 2484 | Juan Kandiss Escobedo Irwin |
-| 29 | 2447 | Ivana Schmidt |
-| 30 | 2421 | Zappy Brickline |
+| 27 | 2619 | Zappy Brickline |
+| 28 | 2545 | Cool Bridger |
+| 29 | 2484 | Juan Kandiss Escobedo Irwin |
+| 30 | 2447 | Ivana Schmidt |
 | 31 | 2269 | Mary Jenkins |
 | 32 | 2242 | Brian Stackhouse |
 | 33 | 2167 | Epic Snapfall |
@@ -152,26 +152,26 @@
 | 144 | 444 | Jason Mungin |
 | 145 | 439 | Asani CHumba |
 | 146 | 437 | Tobey Marberry |
-| 147 | 431 | Lashawn Wallace |
-| 148 | 428 | Tammye Turner |
-| 149 | 420 | Jessica Carter |
-| 150 | 417 | Dena Marie Lee |
-| 151 | 408 | Ebony Waynes-robinson |
-| 152 | 405 | SPNLover24 |
-| 153 | 404 | Hyper Slamdrop |
-| 154 | 401 | Shell Lewis |
+| 147 | 433 | Shell Lewis |
+| 148 | 431 | Lashawn Wallace |
+| 149 | 428 | Tammye Turner |
+| 150 | 420 | Jessica Carter |
+| 151 | 417 | Dena Marie Lee |
+| 152 | 408 | Ebony Waynes-robinson |
+| 153 | 405 | SPNLover24 |
+| 154 | 404 | Hyper Slamdrop |
 | 155 | 393 | Sharon Cail |
 | 156 | 391 | Frisky Fallmatch |
 | 157 | 389 | Lashaunda |
-| 158 | 389 | GrkGdess |
-| 159 | 389 | Roberta Lynn |
+| 158 | 389 | Roberta Lynn |
+| 159 | 389 | GrkGdess |
 | 160 | 387 | Crystal Anderson |
 | 161 | 384 | Christana Imjustbutton Stone |
 | 162 | 383 | Sheila Burnham |
 | 163 | 380 | Dulo |
 | 164 | 380 | Felicia Cain |
-| 165 | 377 | AF Cruz |
-| 166 | 377 | Jenna Renee |
+| 165 | 377 | Jenna Renee |
+| 166 | 377 | AF Cruz |
 | 167 | 370 | Allison Baxter |
 | 168 | 368 | Joey Albright |
 | 169 | 367 | Leebo Slice |
