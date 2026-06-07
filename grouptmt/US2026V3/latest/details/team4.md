@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 19:26:20 UTC
+# Standings for team4 as of 2026-06-07 19:26:40 UTC
 
 **Total Participants:** 1583
 
@@ -255,14 +255,14 @@
 | 247 | 220 | Silly Risegrid |
 | 248 | 220 | Sarah Montagne Forsberg |
 | 249 | 220 | CIRAZYPNOY |
-| 250 | 218 | Lori Stembridge |
-| 251 | 217 | Damon Gaston |
-| 252 | 216 | Stephanie Myers |
-| 253 | 216 | Alyson M Kehler |
-| 254 | 215 | Jj Johnson |
-| 255 | 215 | Jeremy |
-| 256 | 214 | jaz |
-| 257 | 214 | Snippy Splitter |
+| 250 | 218 | Snippy Splitter |
+| 251 | 218 | Lori Stembridge |
+| 252 | 217 | Damon Gaston |
+| 253 | 216 | Stephanie Myers |
+| 254 | 216 | Alyson M Kehler |
+| 255 | 215 | Jj Johnson |
+| 256 | 215 | Jeremy |
+| 257 | 214 | jaz |
 | 258 | 211 | JuicyJuice |
 | 259 | 211 | Andrick |
 | 260 | 210 | Sfalcon1. |
@@ -668,117 +668,117 @@
 | 660 | 81 | GingaNinja |
 | 661 | 81 | Kimberly Civinski |
 | 662 | 81 | Destiny Starr LeValdo |
-| 663 | 80 | Alicia |
-| 664 | 80 | JIGsaw ~(•¿°)~ |
-| 665 | 80 | Jay Keating |
+| 663 | 80 | Josh Keith Travierso |
+| 664 | 80 | Jay Keating |
+| 665 | 80 | JIGsaw ~(•¿°)~ |
 | 666 | 80 | Rin |
-| 667 | 80 | Josh Keith Travierso |
-| 668 | 80 | Alice Eisnor-Martens |
-| 669 | 80 | Marie Adkins |
-| 670 | 80 | Mike Zec II |
+| 667 | 80 | Alice Eisnor-Martens |
+| 668 | 80 | Marie Adkins |
+| 669 | 80 | Alicia |
+| 670 | 80 | Keke Johnson |
 | 671 | 80 | Joe Richard |
-| 672 | 80 | Clever Brickzone |
-| 673 | 80 | Keke Johnson |
-| 674 | 80 | Kelly Miller Williams |
-| 675 | 80 | Cecilia Hicks |
+| 672 | 80 | Kelly Miller Williams |
+| 673 | 80 | Cecilia Hicks |
+| 674 | 80 | Mike Zec II |
+| 675 | 80 | Clever Brickzone |
 | 676 | 80 | Brooke Bauer |
-| 677 | 79 | Gean DeJesus |
-| 678 | 79 | Mone DyTorrion Zyan Lotts |
+| 677 | 79 | Deb 07 |
+| 678 | 79 | Gigi5 |
 | 679 | 79 | Sonya |
-| 680 | 79 | Gigi5 |
-| 681 | 79 | Dru Lui |
-| 682 | 79 | Audrianna Skaff |
+| 680 | 79 | Gean DeJesus |
+| 681 | 79 | Lisa Jones |
+| 682 | 79 | Dru Lui |
 | 683 | 79 | Lindsey DeRosa |
-| 684 | 79 | Deb 07 |
-| 685 | 79 | Lisa Jones |
-| 686 | 78 | Christopher Lindsey |
-| 687 | 78 | Mint Marquez |
-| 688 | 77 | 94Blockhead |
-| 689 | 77 | Erica Hardwick |
-| 690 | 77 | Lilo |
-| 691 | 77 | Deana Teck |
-| 692 | 77 | Ajohnna Frazee |
-| 693 | 77 | Kellz M Bee |
-| 694 | 77 | Oc Tive |
-| 695 | 77 | Groovy Towerbuilder |
-| 696 | 76 | Lori Lynn |
-| 697 | 76 | Brendan Craven |
-| 698 | 76 | Mann Manson |
+| 684 | 79 | Audrianna Skaff |
+| 685 | 79 | Mone DyTorrion Zyan Lotts |
+| 686 | 78 | Mint Marquez |
+| 687 | 78 | Christopher Lindsey |
+| 688 | 77 | Deana Teck |
+| 689 | 77 | Oc Tive |
+| 690 | 77 | Kellz M Bee |
+| 691 | 77 | Groovy Towerbuilder |
+| 692 | 77 | Lilo |
+| 693 | 77 | Erica Hardwick |
+| 694 | 77 | 94Blockhead |
+| 695 | 77 | Ajohnna Frazee |
+| 696 | 76 | Brendan Craven |
+| 697 | 76 | Mann Manson |
+| 698 | 76 | Frisky Balance |
 | 699 | 76 | Jillian Marie |
 | 700 | 76 | Nicole Ambrose |
-| 701 | 76 | Frisky Balance |
+| 701 | 76 | Lori Lynn |
 | 702 | 76 | JP Chua |
-| 703 | 75 | Marco A. Sandoval |
-| 704 | 75 | Zesty Lift |
+| 703 | 75 | Zesty Lift |
+| 704 | 75 | Marco A. Sandoval |
 | 705 | 75 | Toria |
-| 706 | 74 | Trang Nguyen |
-| 707 | 74 | Leasa Marie |
-| 708 | 74 | JayJay Smith |
-| 709 | 74 | Rhonda Dowling |
-| 710 | 74 | Loyalty83 |
+| 706 | 74 | Rhonda Dowling |
+| 707 | 74 | Loyalty83 |
+| 708 | 74 | Trang Nguyen |
+| 709 | 74 | Leasa Marie |
+| 710 | 74 | JayJay Smith |
 | 711 | 74 | Deborah Ayliffe |
 | 712 | 74 | Melissa Schwager |
 | 713 | 74 | Chirpy Corner |
-| 714 | 73 | Giggly Rollpiece |
+| 714 | 73 | pussface |
 | 715 | 73 | Ben Figueroa |
-| 716 | 73 | Marcus Fontenot |
-| 717 | 73 | pussface |
-| 718 | 72 | Candice Sellers Worley |
-| 719 | 72 | sierrabeth |
-| 720 | 72 | Misti Rich |
-| 721 | 72 | Snow77white |
+| 716 | 73 | Giggly Rollpiece |
+| 717 | 73 | Marcus Fontenot |
+| 718 | 72 | Cail |
+| 719 | 72 | Misti Rich |
+| 720 | 72 | Snow77white |
+| 721 | 72 | Candice Sellers Worley |
 | 722 | 72 | Fancy Riser |
-| 723 | 72 | Cail |
+| 723 | 72 | sierrabeth |
 | 724 | 72 | Peterson Cottontail |
-| 725 | 71 | Cozy Towerpiece |
-| 726 | 71 | Ana Ruiz |
-| 727 | 71 | Shelly Jackson |
-| 728 | 71 | Monte Smith |
+| 725 | 71 | Taquilla Branch |
+| 726 | 71 | Monte Smith |
+| 727 | 71 | Ana Ruiz |
+| 728 | 71 | Shelly Jackson |
 | 729 | 71 | SueSally |
-| 730 | 71 | LeRoy jenkins |
-| 731 | 71 | LaRue Tee |
-| 732 | 71 | Giggy Blockpiece |
-| 733 | 71 | Taquilla Branch |
-| 734 | 70 | Giggy Splitter |
-| 735 | 70 | Lamont |
-| 736 | 70 | LilithMoon |
-| 737 | 70 | Jade Alley |
-| 738 | 70 | Kendall Rhodie |
-| 739 | 70 | Breezy Blockzone |
+| 730 | 71 | Cozy Towerpiece |
+| 731 | 71 | LeRoy jenkins |
+| 732 | 71 | LaRue Tee |
+| 733 | 71 | Giggy Blockpiece |
+| 734 | 70 | LilithMoon |
+| 735 | 70 | Giggy Splitter |
+| 736 | 70 | Jeni |
+| 737 | 70 | Helen Bradley |
+| 738 | 70 | Breezy Blockzone |
+| 739 | 70 | Jade Alley |
 | 740 | 70 | Scot Matthew Bergdorf |
-| 741 | 70 | Helen Bradley |
-| 742 | 70 | Charlene Nicole Guidry |
-| 743 | 70 | JustLessie |
-| 744 | 69 | Beth Belanger |
-| 745 | 69 | Khylee DarDar |
-| 746 | 69 | Giggy Risegrid |
-| 747 | 69 | ŁųŁų |
-| 748 | 69 | Kelli Miller |
-| 749 | 69 | T-Dogger |
-| 750 | 69 | Rebekah Anne Macias |
+| 741 | 70 | Lamont |
+| 742 | 70 | JustLessie |
+| 743 | 70 | Kendall Rhodie |
+| 744 | 70 | Charlene Nicole Guidry |
+| 745 | 69 | Giggy Risegrid |
+| 746 | 69 | Khylee DarDar |
+| 747 | 69 | Beth Belanger |
+| 748 | 69 | ŁųŁų |
+| 749 | 69 | Kelli Miller |
+| 750 | 69 | T-Dogger |
 | 751 | 69 | Jennifer Evans Elliott |
-| 752 | 68 | Celina DiBastiani |
-| 753 | 68 | Poptart |
-| 754 | 68 | Bigmamalizzet Latto |
-| 755 | 68 | Paula Renee McCracken |
+| 752 | 69 | Rebekah Anne Macias |
+| 753 | 68 | Celina DiBastiani |
+| 754 | 68 | Poptart |
+| 755 | 68 | Bigmamalizzet Latto |
 | 756 | 68 | Jasmine Griffin |
-| 757 | 68 | Keys Tome |
-| 758 | 68 | Raising Stars |
-| 759 | 67 | Playful Raccoon |
-| 760 | 67 | Wacky Snaplink |
-| 761 | 67 | Tony Clark |
-| 762 | 67 | Ashley DuVall |
-| 763 | 67 | Michael Cruz |
-| 764 | 67 | Kimberly Ann |
-| 765 | 67 | Yournightmare |
-| 766 | 67 | Glittara |
+| 757 | 68 | Paula Renee McCracken |
+| 758 | 68 | Keys Tome |
+| 759 | 68 | Raising Stars |
+| 760 | 67 | Glittara |
+| 761 | 67 | Wacky Snaplink |
+| 762 | 67 | Tony Clark |
+| 763 | 67 | Ashley DuVall |
+| 764 | 67 | Michael Cruz |
+| 765 | 67 | Kimberly Ann |
+| 766 | 67 | Yournightmare |
 | 767 | 67 | Andy Petersen |
-| 768 | 66 | james |
-| 769 | 66 | Joyce Hampton |
+| 768 | 67 | Playful Raccoon |
+| 769 | 66 | james |
 | 770 | 66 | Scarlett Ashley Clark |
-| 771 | 66 | Leslie |
-| 772 | 66 | Jennifer Brucz |
-| 773 | 66 | Jeni |
+| 771 | 66 | Joyce Hampton |
+| 772 | 66 | Leslie |
+| 773 | 66 | Jennifer Brucz |
 | 774 | 65 | Youngkueen |
 | 775 | 65 | Rocky |
 | 776 | 65 | Pap337 |
