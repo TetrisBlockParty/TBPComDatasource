@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-07 06:06:18 UTC
+# Standings for team2 as of 2026-06-07 06:06:42 UTC
 
-**Total Participants:** 1647
+**Total Participants:** 1648
 
 ## Participant Scores
 
@@ -88,8 +88,8 @@
 | 80 | 792 | Marquetta Johnson |
 | 81 | 779 | Marie Luciano |
 | 82 | 774 | Deborah Boyce Minor |
-| 83 | 771 | Charlie Wilson |
-| 84 | 770 | Amber Salazar |
+| 83 | 773 | Amber Salazar |
+| 84 | 771 | Charlie Wilson |
 | 85 | 766 | Sarah Griffey |
 | 86 | 757 | Jazzy Faller |
 | 87 | 750 | Renee Freeman Jacobson |
@@ -111,9 +111,9 @@
 | 103 | 600 | LEW |
 | 104 | 592 | Brandon Link |
 | 105 | 588 | Kellie Sharp Godfrey |
-| 106 | 581 | Dsabrina Maxey |
-| 107 | 578 | Krisanne Kesner-Lonsby |
-| 108 | 578 | Rhonda Diebold |
+| 106 | 582 | Rhonda Diebold |
+| 107 | 581 | Dsabrina Maxey |
+| 108 | 578 | Krisanne Kesner-Lonsby |
 | 109 | 577 | Lindsay Klemp |
 | 110 | 574 | Brandy McCune Reep |
 | 111 | 570 | Nerdy Climber |
@@ -126,8 +126,8 @@
 | 118 | 528 | Amanda Sikes |
 | 119 | 516 | Amber Miller Wirick |
 | 120 | 515 | Loony Faller |
-| 121 | 500 | Suki Kaur |
-| 122 | 500 | Courtney McCulley |
+| 121 | 500 | Courtney McCulley |
+| 122 | 500 | Suki Kaur |
 | 123 | 489 | Alison Waller |
 | 124 | 486 | Jackie Tupper |
 | 125 | 483 | Karen Reid Cenkush |
@@ -369,10 +369,10 @@
 | 361 | 144 | Analee Nicole Jones |
 | 362 | 144 | Funway998 |
 | 363 | 144 | Will Jones |
-| 364 | 143 | Paula Haskins |
-| 365 | 143 | Amanda L Strong |
-| 366 | 143 | Spicy Basepiece |
-| 367 | 142 | Loopy Curvebuilder |
+| 364 | 144 | Loopy Curvebuilder |
+| 365 | 143 | Paula Haskins |
+| 366 | 143 | Amanda L Strong |
+| 367 | 143 | Spicy Basepiece |
 | 368 | 142 | Spunky Cascadeclear |
 | 369 | 141 | Jacquelyn Snyder Dumas |
 | 370 | 141 | Loopy Tower |
@@ -416,14 +416,14 @@
 | 408 | 125 | Kathryn |
 | 409 | 125 | Wayne Johnson |
 | 410 | 125 | Jessica Connot |
-| 411 | 124 | Angeleye A James |
-| 412 | 124 | Jason Burris |
-| 413 | 123 | Simone F |
-| 414 | 123 | Jumpy Matchbuilder |
-| 415 | 123 | Sassy Twistbuilder |
-| 416 | 122 | Kevin Patrick |
-| 417 | 122 | Katie Jones |
-| 418 | 122 | MamaRachel |
+| 411 | 125 | MamaRachel |
+| 412 | 124 | Angeleye A James |
+| 413 | 124 | Jason Burris |
+| 414 | 123 | Simone F |
+| 415 | 123 | Jumpy Matchbuilder |
+| 416 | 123 | Sassy Twistbuilder |
+| 417 | 122 | Kevin Patrick |
+| 418 | 122 | Katie Jones |
 | 419 | 122 | Maria Ward |
 | 420 | 121 | Lisa Allen Frisk |
 | 421 | 121 | Amber Smith |
@@ -1624,35 +1624,36 @@
 | 1616 | 6 | Brandi Lynn Tumey |
 | 1617 | 6 | Cheeky Dashpiece |
 | 1618 | 6 | Jessie |
-| 1619 | 6 | Jenea Colvin |
-| 1620 | 6 | Bunny Bt |
-| 1621 | 6 | Amanda Knox |
-| 1622 | 6 | Bowling girl |
-| 1623 | 6 | Michelle Brown |
+| 1619 | 6 | Bunny Bt |
+| 1620 | 6 | Jenea Colvin |
+| 1621 | 6 | Bowling girl |
+| 1622 | 6 | Michelle Brown |
+| 1623 | 6 | Amanda Knox |
 | 1624 | 6 | Ali |
-| 1625 | 5 | Snappy Zonepiece |
+| 1625 | 5 | Jon Torres |
 | 1626 | 5 | Chris Weddel |
-| 1627 | 5 | Jon Torres |
-| 1628 | 5 | Jason M Barnes |
-| 1629 | 5 | Julie Ann Jacobs |
-| 1630 | 5 | featherz |
-| 1631 | 5 | Brittany Weatherspoon |
-| 1632 | 5 | Dapper Clearpiece |
-| 1633 | 5 | Flynn Flibble |
-| 1634 | 5 | Jennifer Roper Stanley |
-| 1635 | 5 | Mercedes Lowery |
-| 1636 | 5 | Chilly Twistbuilder |
-| 1637 | 5 | Groovy Buildout |
-| 1638 | 5 | Quirky Liney |
-| 1639 | 5 | Nolife |
-| 1640 | 5 | Chirpy Towerer |
-| 1641 | 5 | Michelle |
+| 1627 | 5 | Jason M Barnes |
+| 1628 | 5 | Julie Ann Jacobs |
+| 1629 | 5 | featherz |
+| 1630 | 5 | Brittany Weatherspoon |
+| 1631 | 5 | Dapper Clearpiece |
+| 1632 | 5 | Flynn Flibble |
+| 1633 | 5 | Jennifer Roper Stanley |
+| 1634 | 5 | Crafty Dashgrid |
+| 1635 | 5 | Snappy Zonepiece |
+| 1636 | 5 | Teri |
+| 1637 | 5 | Mercedes Lowery |
+| 1638 | 5 | Mala Phonchanthasone |
+| 1639 | 5 | Nikki |
+| 1640 | 5 | Jennifer Mauler Schmidt |
+| 1641 | 5 | Errkuh |
 | 1642 | 5 | Agnes Gable |
-| 1643 | 5 | Errkuh |
-| 1644 | 5 | Jennifer Mauler Schmidt |
-| 1645 | 5 | Nikki |
-| 1646 | 5 | Mala Phonchanthasone |
-| 1647 | 5 | Teri |
+| 1643 | 5 | Michelle |
+| 1644 | 5 | Chirpy Towerer |
+| 1645 | 5 | Nolife |
+| 1646 | 5 | Quirky Liney |
+| 1647 | 5 | Groovy Buildout |
+| 1648 | 5 | Chilly Twistbuilder |
 
 ---
 *Standings created by tournaments datasource generation tool*
