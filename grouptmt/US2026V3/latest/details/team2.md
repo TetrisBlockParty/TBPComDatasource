@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 10:33:18 UTC
+# Standings for team2 as of 2026-06-07 10:34:18 UTC
 
 **Total Participants:** 1699
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 23379 | Summer Harrison |
+| 1 | 23444 | Summer Harrison |
 | 2 | 11700 | Mochi |
 | 3 | 10480 | Puce guide 9156 |
 | 4 | 9827 | Crystalin Heath Lewis |
@@ -308,27 +308,27 @@
 | 300 | 192 | Jill Goff |
 | 301 | 191 | Marilyn Mendoza |
 | 302 | 191 | Jessica Christine |
-| 303 | 188 | Ray Daisy |
-| 304 | 188 | Theresa Huddleston |
-| 305 | 187 | Curly Windbreaker |
-| 306 | 185 | Krystle L Coon |
-| 307 | 184 | Theresa Hollinger |
-| 308 | 184 | SEH |
-| 309 | 182 | Alonzo Reed |
-| 310 | 181 | Jamie Adams |
-| 311 | 180 | Happy |
+| 303 | 190 | Theresa Huddleston |
+| 304 | 190 | Loopy Dropper |
+| 305 | 188 | Ray Daisy |
+| 306 | 187 | Curly Windbreaker |
+| 307 | 185 | Krystle L Coon |
+| 308 | 184 | Theresa Hollinger |
+| 309 | 184 | SEH |
+| 310 | 182 | Alonzo Reed |
+| 311 | 181 | Jamie Adams |
 | 312 | 180 | Skye Ehret |
 | 313 | 180 | Dawn Kroptavich |
 | 314 | 180 | phamous1 |
-| 315 | 180 | Loopy Dropper |
+| 315 | 180 | Happy |
 | 316 | 179 | Santara Ferguson |
 | 317 | 178 | Kelly Rogers |
 | 318 | 177 | Jennifer McClure |
 | 319 | 177 | Rick |
 | 320 | 176 | Kim Hunt |
 | 321 | 175 | Michelle M Braley |
-| 322 | 175 | Amanda Bottorff |
-| 323 | 175 | Flashy Hitter |
+| 322 | 175 | Flashy Hitter |
+| 323 | 175 | Amanda Bottorff |
 | 324 | 175 | Epic Tilemaker |
 | 325 | 175 | Lashanda Bertram |
 | 326 | 175 | Tina Marie |
@@ -1102,106 +1102,106 @@
 | 1094 | 36 | Deborah Lint Odom |
 | 1095 | 36 | Deanna Mc |
 | 1096 | 36 | Christina Hanson |
-| 1097 | 35 | Isiwin |
-| 1098 | 35 | Signerlisa |
-| 1099 | 35 | Nerdy Base |
-| 1100 | 35 | Silly square |
-| 1101 | 35 | Rachael Roberts |
-| 1102 | 35 | Flynn Flibble |
-| 1103 | 35 | Snazzy Clusterfit |
-| 1104 | 35 | Jessica Jones |
-| 1105 | 35 | blockrocker |
-| 1106 | 35 | Patrick Ohanlon |
-| 1107 | 35 | RaeRae |
-| 1108 | 34 | Sleepypanda67 |
-| 1109 | 34 | Jager |
-| 1110 | 34 | Marlo Perry |
-| 1111 | 34 | Twisty Snapmatch |
-| 1112 | 34 | Jumpy Linkroll |
-| 1113 | 34 | Auntie YaYa |
-| 1114 | 34 | mee |
-| 1115 | 34 | Katie Magner |
-| 1116 | 34 | Angela VanOstrand |
-| 1117 | 34 | Tina Kinney |
-| 1118 | 34 | Firebone |
-| 1119 | 34 | Sassafras Cass |
-| 1120 | 33 | Em |
-| 1121 | 33 | Ryan Sanders |
-| 1122 | 33 | Debbie Embry |
-| 1123 | 33 | Rachel Huber |
-| 1124 | 33 | Octavia Jus Mae Hill |
-| 1125 | 33 | Gilbert Medina |
-| 1126 | 33 | Nicole Hjelmen |
-| 1127 | 33 | Tito Garcia |
-| 1128 | 33 | Brooke Marie Fox |
-| 1129 | 33 | Maja Hauff |
-| 1130 | 33 | Cool cee |
-| 1131 | 33 | Mandeee |
-| 1132 | 33 | Nicki McGill |
-| 1133 | 33 | June Salevao |
-| 1134 | 33 | Heather Nicole |
-| 1135 | 32 | Chelsea Harriss |
-| 1136 | 32 | Foc |
-| 1137 | 32 | Brandy McCleary |
-| 1138 | 32 | Courtney Elizabeth Hartnagel |
-| 1139 | 32 | Lively Liner |
-| 1140 | 32 | Spicy Enchilada |
-| 1141 | 32 | Monica Gonzalez Rios |
-| 1142 | 32 | Stephanie |
-| 1143 | 32 | Zany Dasher |
-| 1144 | 32 | Amanda Bryte |
-| 1145 | 32 | Dandy Matchzone |
-| 1146 | 32 | Lori Yelvington Cain |
-| 1147 | 32 | Viani09 |
-| 1148 | 32 | Churube Finwoiisopw |
-| 1149 | 31 | Monique Williams |
-| 1150 | 31 | Amanda Neal |
-| 1151 | 31 | Dan Ramsey |
-| 1152 | 31 | Louise LeBlanc |
-| 1153 | 31 | Jenn |
-| 1154 | 31 | Trinni Hansen |
-| 1155 | 31 | Ronald Granger |
-| 1156 | 31 | Cranky Fit |
-| 1157 | 30 | Marla Paden |
-| 1158 | 30 | Snappy Fitblock |
-| 1159 | 30 | Busted9mm |
-| 1160 | 30 | Linda Jeanne Knop |
-| 1161 | 30 | JEEPER |
-| 1162 | 30 | Daring Spinzone |
-| 1163 | 30 | Brave Blockmatch |
-| 1164 | 30 | Chipper Zigzag |
-| 1165 | 30 | Carol Whited Loza |
-| 1166 | 30 | Edward Conyers |
-| 1167 | 30 | Frothy Cascader |
-| 1168 | 30 | Barbara Fields |
-| 1169 | 30 | gene15 |
-| 1170 | 30 | Dustyn Sims |
-| 1171 | 30 | Amy ATen |
-| 1172 | 30 | Loriane Shumate Griggs |
-| 1173 | 30 | bigdog |
-| 1174 | 30 | Heather Hill Davidson |
-| 1175 | 30 | Brett Mullins |
-| 1176 | 30 | Cool Balancer |
-| 1177 | 30 | Alexis Turner |
-| 1178 | 30 | Alexis Abner |
-| 1179 | 30 | Ashley Lee DeHaan |
-| 1180 | 30 | Ashley Fleming |
-| 1181 | 30 | Lakeisha Ryder |
-| 1182 | 30 | Melissa Willson |
-| 1183 | 30 | Megan |
-| 1184 | 30 | Tessa Kalili |
-| 1185 | 30 | ktabzz |
-| 1186 | 30 | Beachmama |
-| 1187 | 30 | Carrie Rutter-Bail |
-| 1188 | 30 | Dee |
-| 1189 | 30 | Bridgett Smith |
-| 1190 | 30 | ASL |
-| 1191 | 30 | Heather Schardan |
-| 1192 | 30 | Dottie Leavy Van Deventer |
-| 1193 | 30 | Patty Brown |
-| 1194 | 30 | SarahandAaron Prim |
-| 1195 | 30 | Amanda Mason Scott |
-| 1196 | 30 | Jolly Balanceblock |
+| 1097 | 36 | Jolly Balanceblock |
+| 1098 | 35 | RaeRae |
+| 1099 | 35 | Isiwin |
+| 1100 | 35 | Signerlisa |
+| 1101 | 35 | Nerdy Base |
+| 1102 | 35 | Silly square |
+| 1103 | 35 | Rachael Roberts |
+| 1104 | 35 | Flynn Flibble |
+| 1105 | 35 | Snazzy Clusterfit |
+| 1106 | 35 | Jessica Jones |
+| 1107 | 35 | blockrocker |
+| 1108 | 35 | Patrick Ohanlon |
+| 1109 | 34 | Sleepypanda67 |
+| 1110 | 34 | Jager |
+| 1111 | 34 | Marlo Perry |
+| 1112 | 34 | Twisty Snapmatch |
+| 1113 | 34 | Jumpy Linkroll |
+| 1114 | 34 | Auntie YaYa |
+| 1115 | 34 | mee |
+| 1116 | 34 | Katie Magner |
+| 1117 | 34 | Angela VanOstrand |
+| 1118 | 34 | Tina Kinney |
+| 1119 | 34 | Firebone |
+| 1120 | 34 | Sassafras Cass |
+| 1121 | 33 | Em |
+| 1122 | 33 | Ryan Sanders |
+| 1123 | 33 | Debbie Embry |
+| 1124 | 33 | Rachel Huber |
+| 1125 | 33 | Octavia Jus Mae Hill |
+| 1126 | 33 | Gilbert Medina |
+| 1127 | 33 | Nicole Hjelmen |
+| 1128 | 33 | Tito Garcia |
+| 1129 | 33 | Brooke Marie Fox |
+| 1130 | 33 | Maja Hauff |
+| 1131 | 33 | Cool cee |
+| 1132 | 33 | Mandeee |
+| 1133 | 33 | Nicki McGill |
+| 1134 | 33 | June Salevao |
+| 1135 | 33 | Heather Nicole |
+| 1136 | 32 | Chelsea Harriss |
+| 1137 | 32 | Foc |
+| 1138 | 32 | Brandy McCleary |
+| 1139 | 32 | Courtney Elizabeth Hartnagel |
+| 1140 | 32 | Lively Liner |
+| 1141 | 32 | Spicy Enchilada |
+| 1142 | 32 | Monica Gonzalez Rios |
+| 1143 | 32 | Stephanie |
+| 1144 | 32 | Zany Dasher |
+| 1145 | 32 | Amanda Bryte |
+| 1146 | 32 | Dandy Matchzone |
+| 1147 | 32 | Lori Yelvington Cain |
+| 1148 | 32 | Viani09 |
+| 1149 | 32 | Churube Finwoiisopw |
+| 1150 | 31 | Monique Williams |
+| 1151 | 31 | Amanda Neal |
+| 1152 | 31 | Dan Ramsey |
+| 1153 | 31 | Louise LeBlanc |
+| 1154 | 31 | Jenn |
+| 1155 | 31 | Trinni Hansen |
+| 1156 | 31 | Ronald Granger |
+| 1157 | 31 | Cranky Fit |
+| 1158 | 30 | Marla Paden |
+| 1159 | 30 | Snappy Fitblock |
+| 1160 | 30 | Busted9mm |
+| 1161 | 30 | Linda Jeanne Knop |
+| 1162 | 30 | JEEPER |
+| 1163 | 30 | Daring Spinzone |
+| 1164 | 30 | Brave Blockmatch |
+| 1165 | 30 | Chipper Zigzag |
+| 1166 | 30 | Carol Whited Loza |
+| 1167 | 30 | Edward Conyers |
+| 1168 | 30 | Frothy Cascader |
+| 1169 | 30 | Barbara Fields |
+| 1170 | 30 | gene15 |
+| 1171 | 30 | Dustyn Sims |
+| 1172 | 30 | Amy ATen |
+| 1173 | 30 | Loriane Shumate Griggs |
+| 1174 | 30 | bigdog |
+| 1175 | 30 | Heather Hill Davidson |
+| 1176 | 30 | Brett Mullins |
+| 1177 | 30 | Cool Balancer |
+| 1178 | 30 | Alexis Turner |
+| 1179 | 30 | Alexis Abner |
+| 1180 | 30 | Ashley Lee DeHaan |
+| 1181 | 30 | Ashley Fleming |
+| 1182 | 30 | Lakeisha Ryder |
+| 1183 | 30 | Melissa Willson |
+| 1184 | 30 | Megan |
+| 1185 | 30 | Tessa Kalili |
+| 1186 | 30 | ktabzz |
+| 1187 | 30 | Beachmama |
+| 1188 | 30 | Carrie Rutter-Bail |
+| 1189 | 30 | Dee |
+| 1190 | 30 | Bridgett Smith |
+| 1191 | 30 | ASL |
+| 1192 | 30 | Heather Schardan |
+| 1193 | 30 | Dottie Leavy Van Deventer |
+| 1194 | 30 | Patty Brown |
+| 1195 | 30 | SarahandAaron Prim |
+| 1196 | 30 | Amanda Mason Scott |
 | 1197 | 29 | Michele Stewart |
 | 1198 | 29 | T-Rex Ricky Lee Dieumegarde Jr. |
 | 1199 | 29 | Danita Moon |
