@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 18:34:18 UTC
+# Standings for team1 as of 2026-06-07 18:34:42 UTC
 
 **Total Participants:** 1536
 
@@ -11,8 +11,8 @@
 | 3 | 9727 | Carrie English |
 | 4 | 8779 | Charnay Peacock |
 | 5 | 8746 | Tyeina Johnson |
-| 6 | 8152 | Songne Arif |
-| 7 | 7602 | Charlie Roehm |
+| 6 | 8158 | Charlie Roehm |
+| 7 | 8152 | Songne Arif |
 | 8 | 7362 | Dyane Leah Ware |
 | 9 | 7097 | Debbie Carswell |
 | 10 | 7059 | Tracy Cohen |
