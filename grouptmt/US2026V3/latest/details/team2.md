@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 10:22:40 UTC
+# Standings for team2 as of 2026-06-07 10:23:17 UTC
 
 **Total Participants:** 1697
 
@@ -68,8 +68,8 @@
 | 60 | 1249 | Poppy |
 | 61 | 1192 | Angie Mccain |
 | 62 | 1148 | Nerdy Climber |
-| 63 | 1070 | Michelle Maulsby |
-| 64 | 1062 | Giddy Slamdrop |
+| 63 | 1114 | Giddy Slamdrop |
+| 64 | 1070 | Michelle Maulsby |
 | 65 | 1053 | Kvothe |
 | 66 | 1032 | AcardBoardBox |
 | 67 | 1031 | DarkHorse |
@@ -82,8 +82,8 @@
 | 74 | 913 | Amber Salazar |
 | 75 | 899 | Marie Luciano |
 | 76 | 882 | Lisa Breiding |
-| 77 | 864 | Helen Thomas |
-| 78 | 864 | Gabriella Humphreys |
+| 77 | 864 | Gabriella Humphreys |
+| 78 | 864 | Helen Thomas |
 | 79 | 861 | Marquita Toliver |
 | 80 | 856 | Marquetta Johnson |
 | 81 | 853 | Mikki Torres |
@@ -1037,8 +1037,8 @@
 | 1029 | 40 | Shay Lynn King |
 | 1030 | 40 | Dapper Pivotfall |
 | 1031 | 39 | Slinky Glidezone |
-| 1032 | 39 | Sara Karels |
-| 1033 | 39 | Joslyn Erickson |
+| 1032 | 39 | Joslyn Erickson |
+| 1033 | 39 | Sara Karels |
 | 1034 | 39 | Carlee Becher |
 | 1035 | 39 | Shiny Matchpiece |
 | 1036 | 39 | Goofy Patternfit |
@@ -1050,31 +1050,31 @@
 | 1042 | 39 | Slinky Towerpiece |
 | 1043 | 38 | Jason Janssen |
 | 1044 | 38 | Elise Marie Mireles |
-| 1045 | 38 | Lisa Chapman |
-| 1046 | 38 | Dysty |
-| 1047 | 38 | Epic Slice |
+| 1045 | 38 | Epic Slice |
+| 1046 | 38 | Lisa Chapman |
+| 1047 | 38 | Dysty |
 | 1048 | 38 | Nikki Strawn |
 | 1049 | 38 | Perky Patternbuilder |
-| 1050 | 38 | Spencer Ryder |
-| 1051 | 38 | Alicia Ellenburg |
-| 1052 | 38 | Frothy Roll |
-| 1053 | 37 | Brooke Allred |
-| 1054 | 37 | Lotso |
-| 1055 | 37 | Audrey Wood |
-| 1056 | 37 | Jack |
-| 1057 | 37 | Annie Hebdon |
-| 1058 | 37 | Dizzy Gridder |
-| 1059 | 37 | Dena Cudjo |
-| 1060 | 37 | Suzee |
-| 1061 | 37 | SunnySquare |
-| 1062 | 37 | Leon Welch |
-| 1063 | 37 | Jazzy Snapfit |
-| 1064 | 37 | Josh Vietz |
+| 1050 | 38 | Breanna Dykes |
+| 1051 | 38 | Spencer Ryder |
+| 1052 | 38 | Alicia Ellenburg |
+| 1053 | 38 | Frothy Roll |
+| 1054 | 37 | Brooke Allred |
+| 1055 | 37 | Lotso |
+| 1056 | 37 | Audrey Wood |
+| 1057 | 37 | Jack |
+| 1058 | 37 | Annie Hebdon |
+| 1059 | 37 | Dizzy Gridder |
+| 1060 | 37 | Dena Cudjo |
+| 1061 | 37 | Suzee |
+| 1062 | 37 | Danh Nguyen |
+| 1063 | 37 | Rosie |
+| 1064 | 37 | Mona Wagner |
 | 1065 | 37 | Shelby Lynn May |
-| 1066 | 37 | Mona Wagner |
-| 1067 | 37 | Rosie |
-| 1068 | 37 | Danh Nguyen |
-| 1069 | 36 | Breanna Dykes |
+| 1066 | 37 | Josh Vietz |
+| 1067 | 37 | Jazzy Snapfit |
+| 1068 | 37 | Leon Welch |
+| 1069 | 37 | SunnySquare |
 | 1070 | 36 | Rey Huber |
 | 1071 | 36 | Jen |
 | 1072 | 36 | Debra Patten |

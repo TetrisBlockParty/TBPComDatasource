@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 10:22:40 UTC
+# Standings for team1 as of 2026-06-07 10:23:17 UTC
 
 **Total Participants:** 1439
 
@@ -654,29 +654,29 @@
 | 646 | 65 | Jazzy Bridger |
 | 647 | 65 | Trixie |
 | 648 | 65 | Pj Rojas |
-| 649 | 65 | Tesiree Cray |
-| 650 | 64 | Elaine Youmans |
+| 649 | 65 | TRUBBLE45 |
+| 650 | 65 | Tesiree Cray |
 | 651 | 64 | Marbama |
 | 652 | 64 | Chris Nelson |
 | 653 | 64 | Jumpy Gridlock |
-| 654 | 64 | DellaLucretia Thomas |
-| 655 | 64 | Dandy Brickfit |
-| 656 | 64 | Joseph Vs Cap |
-| 657 | 64 | Earl Williams |
-| 658 | 64 | Giddy Staggerpiece |
-| 659 | 64 | DirtiestofMikes |
-| 660 | 63 | Poppy Smasher |
-| 661 | 63 | Mellie Mel |
-| 662 | 63 | Yashicha Hertzock |
-| 663 | 63 | Natasha Harris |
-| 664 | 63 | Ahsokadog |
-| 665 | 63 | Shawna Passwater |
-| 666 | 62 | Stephanie Ellis |
-| 667 | 62 | Jack Mehof |
-| 668 | 62 | Stephen Garland |
+| 654 | 64 | Elaine Youmans |
+| 655 | 64 | DellaLucretia Thomas |
+| 656 | 64 | Dandy Brickfit |
+| 657 | 64 | Joseph Vs Cap |
+| 658 | 64 | Earl Williams |
+| 659 | 64 | Giddy Staggerpiece |
+| 660 | 64 | DirtiestofMikes |
+| 661 | 63 | Poppy Smasher |
+| 662 | 63 | Mellie Mel |
+| 663 | 63 | Yashicha Hertzock |
+| 664 | 63 | Natasha Harris |
+| 665 | 63 | Ahsokadog |
+| 666 | 63 | Shawna Passwater |
+| 667 | 62 | Stephanie Ellis |
+| 668 | 62 | Jack Mehof |
 | 669 | 62 | Nedine Ray |
-| 670 | 61 | Raquel Ortiz |
-| 671 | 61 | TRUBBLE45 |
+| 670 | 62 | Stephen Garland |
+| 671 | 61 | Raquel Ortiz |
 | 672 | 61 | Taz Ballard |
 | 673 | 61 | Squaw Ki Ng |
 | 674 | 61 | Tonya Thomas |

@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 10:22:40 UTC
+# Standings for team4 as of 2026-06-07 10:23:17 UTC
 
 **Total Participants:** 1441
 
@@ -92,8 +92,8 @@
 | 84 | 661 | Jenn Fitzgerald |
 | 85 | 654 | Jonathan Hewitt |
 | 86 | 646 | Blayne Kole |
-| 87 | 644 | Kelly Bernard |
-| 88 | 644 | woopa 716 |
+| 87 | 644 | woopa 716 |
+| 88 | 644 | Kelly Bernard |
 | 89 | 641 | Tommy Bond |
 | 90 | 638 | Kay |
 | 91 | 634 | GeorgeButts |
@@ -296,52 +296,52 @@
 | 288 | 154 | Lani |
 | 289 | 153 | June Hoffman |
 | 290 | 153 | Shawntae Mccary |
-| 291 | 152 | Samara Garcia |
-| 292 | 152 | Jumpy Builderpiece |
+| 291 | 152 | Jumpy Builderpiece |
+| 292 | 152 | Samara Garcia |
 | 293 | 152 | Nerdy Faller |
-| 294 | 151 | Bean |
-| 295 | 151 | Troy Zanelli |
+| 294 | 151 | Troy Zanelli |
+| 295 | 151 | Bean |
 | 296 | 150 | MrsReap |
 | 297 | 150 | Heidi Anne Scheiderer |
 | 298 | 150 | Hardy Fuller |
 | 299 | 148 | Smiley Gridzone |
 | 300 | 147 | Cherrypir05 |
 | 301 | 147 | EvoKitty |
-| 302 | 146 | Cheeky Fallzone |
+| 302 | 146 | Zesty Twistpiece |
 | 303 | 146 | Jasmine Marie |
-| 304 | 146 | Zesty Twistpiece |
-| 305 | 144 | Dapper Strikerpiece |
-| 306 | 144 | Dawn Phelps |
-| 307 | 143 | Brennan Shea Greene |
-| 308 | 142 | Funky Tiler |
+| 304 | 146 | Cheeky Fallzone |
+| 305 | 144 | Dawn Phelps |
+| 306 | 144 | Dapper Strikerpiece |
+| 307 | 143 | Funky Tiler |
+| 308 | 143 | Brennan Shea Greene |
 | 309 | 142 | Rachel Lemos |
 | 310 | 142 | Chris McBlockster |
-| 311 | 141 | Justin Michael |
-| 312 | 141 | JuicyJuice |
+| 311 | 141 | JuicyJuice |
+| 312 | 141 | Justin Michael |
 | 313 | 141 | Chilly Pivot |
 | 314 | 140 | Wanda Simmons |
 | 315 | 140 | Billy Baker |
 | 316 | 139 | Name |
-| 317 | 138 | Rose Anna Safi |
-| 318 | 138 | Cindy |
-| 319 | 138 | Tina Thomas |
+| 317 | 138 | Tina Thomas |
+| 318 | 138 | Rose Anna Safi |
+| 319 | 138 | Cindy |
 | 320 | 137 | Deborah Silberg |
 | 321 | 136 | WeeWooWee |
-| 322 | 136 | Lively Cascadebuilder |
-| 323 | 136 | King |
-| 324 | 136 | Slinky Stackzone |
-| 325 | 135 | Quiomarie Cotto |
-| 326 | 135 | crobb77 |
+| 322 | 136 | Slinky Stackzone |
+| 323 | 136 | Lively Cascadebuilder |
+| 324 | 136 | King |
+| 325 | 135 | crobb77 |
+| 326 | 135 | Quiomarie Cotto |
 | 327 | 134 | All knowing |
 | 328 | 132 | Blockcrusher |
-| 329 | 131 | Stasia |
-| 330 | 131 | Swanky Snapgrid |
-| 331 | 131 | Lanelva Tiredofbs Marshall |
-| 332 | 131 | Dominique Melendez |
+| 329 | 131 | Swanky Snapgrid |
+| 330 | 131 | Lanelva Tiredofbs Marshall |
+| 331 | 131 | Dominique Melendez |
+| 332 | 131 | Stasia |
 | 333 | 130 | Maurice DeJean |
 | 334 | 130 | Bhakti Sawarkar |
-| 335 | 129 | Shauna Davis |
-| 336 | 129 | Has2brat |
+| 335 | 129 | Has2brat |
+| 336 | 129 | Shauna Davis |
 | 337 | 129 | Dizzy Slammer |
 | 338 | 129 | Simone |
 | 339 | 128 | Juvon SupaShawdii Brooks |
@@ -364,18 +364,18 @@
 | 356 | 120 | Ada Rodriguez Spradley |
 | 357 | 120 | Holly Wessel |
 | 358 | 120 | Carla Woodard |
-| 359 | 120 | Glamorous Gracey |
-| 360 | 120 | Shiny Brick |
+| 359 | 120 | Shiny Brick |
+| 360 | 120 | Glamorous Gracey |
 | 361 | 120 | Joab Gonzalez |
 | 362 | 120 | Cool Risepiece |
-| 363 | 119 | Ashley Jenkins |
-| 364 | 119 | Maegon Brazille |
-| 365 | 119 | Dennis Montoya |
-| 366 | 119 | Rae Saunders |
-| 367 | 119 | aga |
-| 368 | 118 | Goofy Fall |
-| 369 | 118 | Melika Zeheb |
-| 370 | 118 | Rita Ann |
+| 363 | 120 | Rita Ann |
+| 364 | 119 | Ashley Jenkins |
+| 365 | 119 | Maegon Brazille |
+| 366 | 119 | Dennis Montoya |
+| 367 | 119 | Rae Saunders |
+| 368 | 119 | aga |
+| 369 | 118 | Goofy Fall |
+| 370 | 118 | Melika Zeheb |
 | 371 | 118 | farfromlocal |
 | 372 | 117 | Fancy Tilefall |
 | 373 | 117 | Tyson Stroppel |
