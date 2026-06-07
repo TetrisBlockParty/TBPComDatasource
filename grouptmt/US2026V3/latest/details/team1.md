@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 14:56:40 UTC
+# Standings for team1 as of 2026-06-07 14:57:19 UTC
 
 **Total Participants:** 1483
 
@@ -44,7 +44,7 @@
 | 36 | 1759 | Brian Stackhouse |
 | 37 | 1744 | Erika Windom |
 | 38 | 1677 | Markeeta Lipscomb |
-| 39 | 1550 | Cool Bridger |
+| 39 | 1646 | Cool Bridger |
 | 40 | 1530 | Chris Russell |
 | 41 | 1453 | Janet Cooke |
 | 42 | 1445 | Jolly Dropzone |
@@ -161,9 +161,9 @@
 | 153 | 348 | LeeLee08 |
 | 154 | 341 | Joey Albright |
 | 155 | 340 | Spicy Risepiece |
-| 156 | 339 | Ty Øtg |
-| 157 | 338 | Sheila Burnham |
-| 158 | 337 | Slinky Puzzler |
+| 156 | 340 | Slinky Puzzler |
+| 157 | 339 | Ty Øtg |
+| 158 | 338 | Sheila Burnham |
 | 159 | 334 | Chuck Quarles |
 | 160 | 333 | La'Chae Nickole |
 | 161 | 331 | Tina Mitchell |
@@ -227,9 +227,9 @@
 | 219 | 257 | Mafio SO |
 | 220 | 256 | Keke Ferguson |
 | 221 | 256 | Erin Sabol |
-| 222 | 254 | Tonya McElroy |
-| 223 | 253 | Tasha |
-| 224 | 250 | Reginald Frank |
+| 222 | 254 | Reginald Frank |
+| 223 | 254 | Tonya McElroy |
+| 224 | 253 | Tasha |
 | 225 | 250 | Davionte DaeDae Hopson-Rodriguez |
 | 226 | 249 | Falisa Bell |
 | 227 | 248 | Jazzy Fireflighters |
@@ -388,12 +388,12 @@
 | 380 | 136 | Travis Davison |
 | 381 | 135 | Breezy Catcher |
 | 382 | 135 | MzJuice Box |
-| 383 | 135 | Saucy Tile |
-| 384 | 135 | Sean White |
-| 385 | 134 | Perky Pusher |
-| 386 | 134 | Ciera Peace |
-| 387 | 134 | Peppy Glider |
-| 388 | 134 | Douglas Price |
+| 383 | 135 | Douglas Price |
+| 384 | 135 | Saucy Tile |
+| 385 | 135 | Sean White |
+| 386 | 134 | Perky Pusher |
+| 387 | 134 | Ciera Peace |
+| 388 | 134 | Peppy Glider |
 | 389 | 132 | Tremaine Hiler |
 | 390 | 132 | Chirpy Buildgrid |
 | 391 | 130 | Kesha Brady |
