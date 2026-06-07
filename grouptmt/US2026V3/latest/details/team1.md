@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 10:30:18 UTC
+# Standings for team1 as of 2026-06-07 10:30:42 UTC
 
 **Total Participants:** 1439
 
@@ -156,10 +156,10 @@
 | 148 | 339 | Ty Øtg |
 | 149 | 338 | Sheila Burnham |
 | 150 | 336 | Ceilo Marie |
-| 151 | 331 | Joey Albright |
-| 152 | 330 | Jessica Russell |
-| 153 | 328 | Dynah Gordon |
-| 154 | 323 | La'Chae Nickole |
+| 151 | 333 | La'Chae Nickole |
+| 152 | 331 | Joey Albright |
+| 153 | 330 | Jessica Russell |
+| 154 | 328 | Dynah Gordon |
 | 155 | 318 | Mimi 1.0 |
 | 156 | 315 | Nerdy Snapfall |
 | 157 | 312 | Michelle Titus |
