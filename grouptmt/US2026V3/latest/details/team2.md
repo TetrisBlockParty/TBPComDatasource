@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 06:48:39 UTC
+# Standings for team2 as of 2026-06-07 06:49:19 UTC
 
 **Total Participants:** 1661
 
@@ -93,8 +93,8 @@
 | 85 | 774 | Deborah Boyce Minor |
 | 86 | 771 | Charlie Wilson |
 | 87 | 766 | Sarah Griffey |
-| 88 | 757 | Jazzy Faller |
-| 89 | 750 | Renee Freeman Jacobson |
+| 88 | 760 | Renee Freeman Jacobson |
+| 89 | 757 | Jazzy Faller |
 | 90 | 749 | Brandi Thompson |
 | 91 | 729 | Lily |
 | 92 | 721 | Hoppy Rotate |
@@ -344,13 +344,13 @@
 | 336 | 159 | Jennifer Vitro |
 | 337 | 158 | Rachel Nilles |
 | 338 | 157 | Spicy Snapclear |
-| 339 | 156 | Melmel |
-| 340 | 156 | Jamie Fenyus |
-| 341 | 156 | Tango Sierra |
-| 342 | 156 | Rick |
-| 343 | 156 | meg |
-| 344 | 156 | Monique Frantz |
-| 345 | 156 | Charlotte Castelli |
+| 339 | 156 | Charlotte Castelli |
+| 340 | 156 | Monique Frantz |
+| 341 | 156 | meg |
+| 342 | 156 | Tango Sierra |
+| 343 | 156 | Melmel |
+| 344 | 156 | Jamie Fenyus |
+| 345 | 156 | Rick |
 | 346 | 155 | KazzyKay |
 | 347 | 155 | Ratchet |
 | 348 | 154 | Alonzo Reed |
@@ -358,22 +358,22 @@
 | 350 | 153 | Joanna Trevin Thompson |
 | 351 | 151 | Marilyn Mendoza |
 | 352 | 151 | Amy Lea Hamilton |
-| 353 | 150 | Camilo Moreno |
-| 354 | 150 | Crystal Poss |
-| 355 | 150 | Zany Wrecker |
-| 356 | 150 | Marylin Eacker |
-| 357 | 150 | Aldotfus Williams |
-| 358 | 149 | Jenni LeBlanc |
-| 359 | 148 | murd3rmous3 |
-| 360 | 148 | Nano. |
-| 361 | 148 | Ashley Miller |
+| 353 | 151 | murd3rmous3 |
+| 354 | 150 | Camilo Moreno |
+| 355 | 150 | Crystal Poss |
+| 356 | 150 | Aldotfus Williams |
+| 357 | 150 | Marylin Eacker |
+| 358 | 150 | Zany Wrecker |
+| 359 | 149 | Jenni LeBlanc |
+| 360 | 148 | Ashley Miller |
+| 361 | 148 | Nano. |
 | 362 | 146 | Darla Nolt |
 | 363 | 145 | Alicia Parrish |
 | 364 | 144 | Funway998 |
 | 365 | 144 | Will Jones |
 | 366 | 144 | Analee Nicole Jones |
-| 367 | 143 | Spicy Basepiece |
-| 368 | 143 | Amanda L Strong |
+| 367 | 143 | Amanda L Strong |
+| 368 | 143 | Spicy Basepiece |
 | 369 | 143 | Paula Haskins |
 | 370 | 142 | Spunky Cascadeclear |
 | 371 | 141 | Loopy Tower |
