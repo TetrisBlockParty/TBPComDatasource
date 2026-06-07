@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 15:16:19 UTC
+# Standings for team2 as of 2026-06-07 15:16:40 UTC
 
 **Total Participants:** 1785
 
@@ -106,11 +106,11 @@
 | 98 | 790 | Brandi Thompson |
 | 99 | 775 | Smiley Dropper |
 | 100 | 772 | Sarah Griffey |
-| 101 | 757 | haune |
-| 102 | 750 | Denise Potter |
-| 103 | 743 | Hoppy Rotate |
-| 104 | 712 | Bridget N Jonathan Franz |
-| 105 | 700 | Angel Welch |
+| 101 | 761 | Angel Welch |
+| 102 | 757 | haune |
+| 103 | 750 | Denise Potter |
+| 104 | 743 | Hoppy Rotate |
+| 105 | 712 | Bridget N Jonathan Franz |
 | 106 | 694 | Josh Twilley |
 | 107 | 685 | Sigmamom |
 | 108 | 670 | Krisanne Kesner-Lonsby |
@@ -293,13 +293,13 @@
 | 285 | 224 | Olivia Jefferson |
 | 286 | 224 | Nathan Walker |
 | 287 | 224 | Avie Lou |
-| 288 | 223 | SilentBuffalo |
-| 289 | 223 | Santara Ferguson |
-| 290 | 221 | Bianca Woodruff |
-| 291 | 220 | Flashy Basegrid |
-| 292 | 219 | Monique Frantz |
-| 293 | 219 | Spicy Risegrid |
-| 294 | 219 | Stella |
+| 288 | 223 | Santara Ferguson |
+| 289 | 223 | SilentBuffalo |
+| 290 | 222 | Monique Frantz |
+| 291 | 221 | Bianca Woodruff |
+| 292 | 220 | Flashy Basegrid |
+| 293 | 219 | Stella |
+| 294 | 219 | Spicy Risegrid |
 | 295 | 218 | Logan Duffey |
 | 296 | 218 | Anthony Swift |
 | 297 | 218 | Erica South |
@@ -308,8 +308,8 @@
 | 300 | 216 | Alicia Kinney |
 | 301 | 216 | Swanky Fitline |
 | 302 | 214 | Stephany Green |
-| 303 | 212 | Boldy Fitclear |
-| 304 | 212 | SEH |
+| 303 | 212 | SEH |
+| 304 | 212 | Boldy Fitclear |
 | 305 | 210 | Zappy Liney |
 | 306 | 209 | Chill Line |
 | 307 | 209 | Patria Osuoha |
@@ -1512,8 +1512,8 @@
 | 1504 | 18 | Crafty Dashgrid |
 | 1505 | 18 | Candace Mihm |
 | 1506 | 18 | Chill Racker |
-| 1507 | 18 | Gen |
-| 1508 | 18 | Glitzy Linkfall |
+| 1507 | 18 | Glitzy Linkfall |
+| 1508 | 18 | Gen |
 | 1509 | 17 | Sk8Mom |
 | 1510 | 17 | grey panther |
 | 1511 | 17 | Kandy Comer |
@@ -1541,9 +1541,9 @@
 | 1533 | 16 | Amanda Jimenez |
 | 1534 | 16 | Jennifer M Mitchell |
 | 1535 | 16 | Loony Glider |
-| 1536 | 15 | AlDan |
-| 1537 | 15 | Jennifer Nelson |
-| 1538 | 15 | SabinawNorman Adams |
+| 1536 | 15 | Jennifer Nelson |
+| 1537 | 15 | SabinawNorman Adams |
+| 1538 | 15 | AlDan |
 | 1539 | 15 | Linda Riegsecker |
 | 1540 | 15 | Twisty Patternblock |
 | 1541 | 15 | Amlisi |
@@ -1585,43 +1585,43 @@
 | 1577 | 13 | Silly Cluster |
 | 1578 | 13 | Chad Praytor |
 | 1579 | 13 | Sunnylynn Hodge |
-| 1580 | 13 | Judy Bailey |
-| 1581 | 13 | Tara Feineis |
-| 1582 | 13 | Smiley Clearer |
-| 1583 | 13 | Trena Sapp |
-| 1584 | 13 | Deborah Fowler |
-| 1585 | 13 | Torb |
-| 1586 | 13 | BikerBorn BikerBred |
-| 1587 | 13 | Bad Juju |
-| 1588 | 13 | Cristy Ayala |
-| 1589 | 13 | Patience Thompson |
-| 1590 | 13 | lion king |
-| 1591 | 13 | Nickishan Richrds |
-| 1592 | 13 | Dreamy Wipepiece |
-| 1593 | 13 | Jill Gelhausen |
-| 1594 | 13 | Sam Blinn |
-| 1595 | 12 | Jacob nitro |
-| 1596 | 12 | Samantha Morrison |
-| 1597 | 12 | Sindy08 |
-| 1598 | 12 | Phyllis DiCristo |
-| 1599 | 12 | Silly Twister |
-| 1600 | 12 | Squyrt |
-| 1601 | 12 | Anarcho |
-| 1602 | 12 | Roberta Granados |
-| 1603 | 12 | Jolly Blockroll |
-| 1604 | 12 | Redangel |
-| 1605 | 12 | April Owings |
-| 1606 | 12 | Quirky Brickroll |
-| 1607 | 12 | Mary |
-| 1608 | 12 | Mariah Wells |
-| 1609 | 12 | Chrissy Hess |
+| 1580 | 13 | Bubbly Tilt |
+| 1581 | 13 | Judy Bailey |
+| 1582 | 13 | Tara Feineis |
+| 1583 | 13 | Smiley Clearer |
+| 1584 | 13 | Trena Sapp |
+| 1585 | 13 | Deborah Fowler |
+| 1586 | 13 | Torb |
+| 1587 | 13 | BikerBorn BikerBred |
+| 1588 | 13 | Bad Juju |
+| 1589 | 13 | Cristy Ayala |
+| 1590 | 13 | Patience Thompson |
+| 1591 | 13 | lion king |
+| 1592 | 13 | Nickishan Richrds |
+| 1593 | 13 | Dreamy Wipepiece |
+| 1594 | 13 | Jill Gelhausen |
+| 1595 | 13 | Sam Blinn |
+| 1596 | 12 | Jacob nitro |
+| 1597 | 12 | Samantha Morrison |
+| 1598 | 12 | Sindy08 |
+| 1599 | 12 | Phyllis DiCristo |
+| 1600 | 12 | Silly Twister |
+| 1601 | 12 | Squyrt |
+| 1602 | 12 | Anarcho |
+| 1603 | 12 | Roberta Granados |
+| 1604 | 12 | Jolly Blockroll |
+| 1605 | 12 | Redangel |
+| 1606 | 12 | April Owings |
+| 1607 | 12 | Quirky Brickroll |
+| 1608 | 12 | Mary |
+| 1609 | 12 | Mariah Wells |
 | 1610 | 12 | Brandy Moore |
 | 1611 | 12 | Danid |
-| 1612 | 12 | Kjsranch |
-| 1613 | 12 | Raymond Sadler |
-| 1614 | 12 | Zippy Blockmatch |
-| 1615 | 11 | Happy Shatterblock |
-| 1616 | 11 | Bubbly Tilt |
+| 1612 | 12 | Chrissy Hess |
+| 1613 | 12 | Kjsranch |
+| 1614 | 12 | Raymond Sadler |
+| 1615 | 12 | Zippy Blockmatch |
+| 1616 | 11 | Happy Shatterblock |
 | 1617 | 11 | Lisa |
 | 1618 | 11 | Spunky Snapfall |
 | 1619 | 11 | Eugene Brown |
