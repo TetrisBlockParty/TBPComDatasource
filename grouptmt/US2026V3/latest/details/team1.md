@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 02:56:18 UTC
+# Standings for team1 as of 2026-06-07 02:56:42 UTC
 
 **Total Participants:** 1303
 
@@ -68,28 +68,28 @@
 | 60 | 800 | Angela R Wilson |
 | 61 | 788 | Jazzy Dashpiece |
 | 62 | 781 | D'Andra Stewart |
-| 63 | 766 | Blockhead |
-| 64 | 764 | Joy Citizen Pickney |
-| 65 | 763 | Kimberly Hernandez |
-| 66 | 763 | Richard Horton |
-| 67 | 755 | Eric Mcgaughy |
+| 63 | 775 | Eric Mcgaughy |
+| 64 | 766 | Blockhead |
+| 65 | 764 | Joy Citizen Pickney |
+| 66 | 763 | Kimberly Hernandez |
+| 67 | 763 | Richard Horton |
 | 68 | 749 | Aviv Zehavi |
 | 69 | 745 | Catara Renae Oliver |
-| 70 | 727 | Lisa Müller |
-| 71 | 710 | ing410 |
-| 72 | 705 | JoJo |
-| 73 | 695 | Corey Cawthon |
-| 74 | 689 | Jaida King |
-| 75 | 678 | No_Other_Choice |
-| 76 | 658 | Eartha Brown |
-| 77 | 628 | Jaida De'Anne Cox |
-| 78 | 620 | IamJust Neyamijah Washington Sr. |
-| 79 | 607 | Ebo Got-Time |
-| 80 | 601 | JaszyBadd |
-| 81 | 598 | Ivana Schmidt |
-| 82 | 587 | KenpachisGirl |
-| 83 | 586 | Kellie Hall |
-| 84 | 584 | Todd C. Clemens |
+| 70 | 734 | Todd C. Clemens |
+| 71 | 727 | Lisa Müller |
+| 72 | 710 | ing410 |
+| 73 | 705 | JoJo |
+| 74 | 695 | Corey Cawthon |
+| 75 | 689 | Jaida King |
+| 76 | 678 | No_Other_Choice |
+| 77 | 658 | Eartha Brown |
+| 78 | 628 | Jaida De'Anne Cox |
+| 79 | 620 | IamJust Neyamijah Washington Sr. |
+| 80 | 607 | Ebo Got-Time |
+| 81 | 601 | JaszyBadd |
+| 82 | 598 | Ivana Schmidt |
+| 83 | 587 | KenpachisGirl |
+| 84 | 586 | Kellie Hall |
 | 85 | 580 | Chirpy Corner |
 | 86 | 552 | Carolynne Walker-Bell |
 | 87 | 550 | PandaPrincess |
@@ -98,8 +98,8 @@
 | 90 | 536 | Kkbk |
 | 91 | 527 | MommaCia |
 | 92 | 513 | Moomoo |
-| 93 | 511 | Dizzy Dropper |
-| 94 | 511 | Abraham Espaillat |
+| 93 | 511 | Abraham Espaillat |
+| 94 | 511 | Dizzy Dropper |
 | 95 | 510 | Cj Gorman |
 | 96 | 498 | Voice |
 | 97 | 477 | Chenell Gillard |
@@ -142,8 +142,8 @@
 | 134 | 308 | John Staub |
 | 135 | 303 | Roberta Lynn |
 | 136 | 302 | Felicia Williams |
-| 137 | 300 | Atlantalindi |
-| 138 | 300 | Felicia Cain |
+| 137 | 300 | Felicia Cain |
+| 138 | 300 | Atlantalindi |
 | 139 | 298 | Leebo Slice |
 | 140 | 297 | Tammye Turner |
 | 141 | 297 | Michelle Titus |
@@ -154,13 +154,13 @@
 | 146 | 290 | Mimi 1.0 |
 | 147 | 285 | Ashley MyBeauty Daniels |
 | 148 | 284 | Tamara N Lee |
-| 149 | 278 | Shontanese Adams |
-| 150 | 277 | Tonya Lee Sanders |
-| 151 | 275 | Chris Sladoje |
-| 152 | 275 | Jawaun Daniels |
-| 153 | 273 | MamaBear |
-| 154 | 269 | Karebear |
-| 155 | 267 | Ceilo Marie |
+| 149 | 279 | Ceilo Marie |
+| 150 | 278 | Shontanese Adams |
+| 151 | 277 | Tonya Lee Sanders |
+| 152 | 275 | Chris Sladoje |
+| 153 | 275 | Jawaun Daniels |
+| 154 | 273 | MamaBear |
+| 155 | 269 | Karebear |
 | 156 | 265 | Marcheta Cervantez |
 | 157 | 263 | pooh |
 | 158 | 262 | Chantelle Lee |
