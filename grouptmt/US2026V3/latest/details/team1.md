@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 16:02:41 UTC
+# Standings for team1 as of 2026-06-07 16:03:21 UTC
 
 **Total Participants:** 1500
 
@@ -10,7 +10,7 @@
 | 2 | 22000 | Kalynn Parks |
 | 3 | 9727 | Carrie English |
 | 4 | 8746 | Tyeina Johnson |
-| 5 | 8211 | Charnay Peacock |
+| 5 | 8370 | Charnay Peacock |
 | 6 | 8152 | Songne Arif |
 | 7 | 7602 | Charlie Roehm |
 | 8 | 7362 | Dyane Leah Ware |
@@ -352,8 +352,8 @@
 | 344 | 152 | Phillip Vasquez |
 | 345 | 151 | Brittany Fells |
 | 346 | 151 | Miera Nicole |
-| 347 | 150 | Elizabeth Vega Coreano |
-| 348 | 150 | De'Nell Edwards |
+| 347 | 151 | De'Nell Edwards |
+| 348 | 150 | Elizabeth Vega Coreano |
 | 349 | 150 | Telisha Mims |
 | 350 | 150 | Deveda Williams |
 | 351 | 149 | Chasem45 |
@@ -645,31 +645,31 @@
 | 637 | 78 | Solomon Valarie |
 | 638 | 78 | Kahh |
 | 639 | 78 | Rachel Renae Bettis |
-| 640 | 78 | Smiley3000 |
+| 640 | 78 | Callie Mae |
 | 641 | 78 | Ryan Runyan |
 | 642 | 78 | Krystal Maynard |
-| 643 | 78 | Claudia Price |
-| 644 | 77 | Dirty Deeds |
-| 645 | 77 | EvaLynn NeCole |
+| 643 | 78 | Smiley3000 |
+| 644 | 78 | Claudia Price |
+| 645 | 77 | Dirty Deeds |
 | 646 | 77 | Dana Hawes |
-| 647 | 77 | Ysma Simmons |
-| 648 | 76 | Earl Williams |
-| 649 | 76 | Kizzy Clark |
-| 650 | 76 | lady |
-| 651 | 76 | Giggly Shatterline |
-| 652 | 76 | Angelique Talbot |
-| 653 | 75 | sasha |
-| 654 | 75 | Erika |
-| 655 | 75 | Angie Lebron |
-| 656 | 75 | Jennifer Moore |
-| 657 | 75 | Tiffany Jean Hinson |
-| 658 | 75 | Courtney Robinson |
-| 659 | 75 | Teresa Bean |
-| 660 | 75 | Boldy Pivoty |
-| 661 | 75 | Callie Mae |
+| 647 | 77 | EvaLynn NeCole |
+| 648 | 77 | Ysma Simmons |
+| 649 | 76 | Earl Williams |
+| 650 | 76 | Kizzy Clark |
+| 651 | 76 | lady |
+| 652 | 76 | Giggly Shatterline |
+| 653 | 76 | Angelique Talbot |
+| 654 | 75 | sasha |
+| 655 | 75 | Erika |
+| 656 | 75 | Angie Lebron |
+| 657 | 75 | Jennifer Moore |
+| 658 | 75 | Tiffany Jean Hinson |
+| 659 | 75 | Courtney Robinson |
+| 660 | 75 | Teresa Bean |
+| 661 | 75 | Boldy Pivoty |
 | 662 | 74 | Tetrisdestroyer |
-| 663 | 74 | Renee Marshall |
-| 664 | 74 | Ace Hardware |
+| 663 | 74 | Ace Hardware |
+| 664 | 74 | Renee Marshall |
 | 665 | 74 | Coco |
 | 666 | 74 | Glitzy Clusterer |
 | 667 | 74 | Sabrina Wilkerson |
@@ -713,37 +713,37 @@
 | 705 | 67 | LexiiSamayaa |
 | 706 | 67 | Michele Elizabeth McKay-Johnson |
 | 707 | 67 | Esha I'msoproudofmyself Davis |
-| 708 | 67 | Sarah Barnum |
-| 709 | 67 | Nikkizz |
+| 708 | 67 | Nikkizz |
+| 709 | 67 | Sarah Barnum |
 | 710 | 66 | Seirra Robinson |
 | 711 | 66 | Letrishia Andrews |
 | 712 | 66 | Sylvia Offically A Mcgowan |
-| 713 | 66 | Abby |
-| 714 | 66 | Terrie |
-| 715 | 66 | Mami Badd |
-| 716 | 66 | Meluhnee |
-| 717 | 66 | Meepycat |
-| 718 | 66 | Raquele Hines |
-| 719 | 66 | GracefulOwl808 |
-| 720 | 65 | Trixie |
+| 713 | 66 | PSD |
+| 714 | 66 | Abby |
+| 715 | 66 | Terrie |
+| 716 | 66 | Mami Badd |
+| 717 | 66 | GracefulOwl808 |
+| 718 | 66 | Meepycat |
+| 719 | 66 | Raquele Hines |
+| 720 | 66 | Meluhnee |
 | 721 | 65 | LAdYPOLy |
 | 722 | 65 | Rande Smith |
-| 723 | 65 | Tesiree Cray |
-| 724 | 65 | Vonda House |
-| 725 | 65 | Furlough Leslie |
-| 726 | 65 | PSD |
-| 727 | 64 | Elaine Youmans |
-| 728 | 64 | Dandy Brickfit |
-| 729 | 64 | Kàrma Lee |
-| 730 | 64 | DellaLucretia Thomas |
+| 723 | 65 | Furlough Leslie |
+| 724 | 65 | Tesiree Cray |
+| 725 | 65 | Vonda House |
+| 726 | 65 | Trixie |
+| 727 | 64 | Kàrma Lee |
+| 728 | 64 | DellaLucretia Thomas |
+| 729 | 64 | Dandy Brickfit |
+| 730 | 64 | Jumpy Gridlock |
 | 731 | 64 | Marbama |
-| 732 | 64 | Jumpy Gridlock |
-| 733 | 63 | Natasha Harris |
-| 734 | 63 | Yashicha Hertzock |
-| 735 | 63 | Tip318 |
-| 736 | 63 | Ahsokadog |
+| 732 | 64 | Elaine Youmans |
+| 733 | 63 | Jason Saputo |
+| 734 | 63 | Natasha Harris |
+| 735 | 63 | Ahsokadog |
+| 736 | 63 | Tip318 |
 | 737 | 63 | Poppy Smasher |
-| 738 | 63 | Jason Saputo |
+| 738 | 63 | Yashicha Hertzock |
 | 739 | 63 | Tony P Burke |
 | 740 | 63 | Mellie Mel |
 | 741 | 63 | Shawna Passwater |
