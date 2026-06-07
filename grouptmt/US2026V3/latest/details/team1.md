@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 05:46:41 UTC
+# Standings for team1 as of 2026-06-07 05:47:19 UTC
 
 **Total Participants:** 1382
 
@@ -11,8 +11,8 @@
 | 3 | 7931 | Charnay Peacock |
 | 4 | 7732 | Carrie English |
 | 5 | 7602 | Charlie Roehm |
-| 6 | 7059 | Tracy Cohen |
-| 7 | 6829 | Tyeina Johnson |
+| 6 | 7415 | Tyeina Johnson |
+| 7 | 7059 | Tracy Cohen |
 | 8 | 6802 | Cozy Edge |
 | 9 | 6679 | Death by SnuSnu |
 | 10 | 6150 | Songne Arif |
@@ -113,8 +113,8 @@
 | 105 | 507 | She Higgy |
 | 106 | 505 | Gael Quintana |
 | 107 | 495 | W.A. Simpson |
-| 108 | 477 | Chenell Gillard |
-| 109 | 462 | Trendalyn Webb |
+| 108 | 488 | Trendalyn Webb |
+| 109 | 477 | Chenell Gillard |
 | 110 | 455 | Felicia Williams |
 | 111 | 454 | DaVonte' Cretter |
 | 112 | 447 | Gotcha |
@@ -375,31 +375,31 @@
 | 367 | 111 | Ad Doctor |
 | 368 | 110 | Nate Myers |
 | 369 | 110 | Chandler Magee |
-| 370 | 109 | Tamara Johnson-Carter |
-| 371 | 109 | Loopy Tiler |
-| 372 | 109 | Tamika Fisher |
+| 370 | 110 | Maribel Vasquez |
+| 371 | 109 | Tamara Johnson-Carter |
+| 372 | 109 | Loopy Tiler |
 | 373 | 109 | Manda Allen |
 | 374 | 109 | Bambi Johnson |
 | 375 | 109 | Cece Fowler |
-| 376 | 108 | Char |
-| 377 | 107 | Laurie Napper |
-| 378 | 106 | Mister Reid |
-| 379 | 106 | MamushiOh |
-| 380 | 105 | QueenShay AllGood |
-| 381 | 105 | BabyCakes |
+| 376 | 109 | Tamika Fisher |
+| 377 | 108 | Char |
+| 378 | 107 | Laurie Napper |
+| 379 | 106 | Mister Reid |
+| 380 | 106 | MamushiOh |
+| 381 | 105 | QueenShay AllGood |
 | 382 | 105 | Kelley Johnson |
-| 383 | 105 | Maria |
+| 383 | 105 | Mario Meliodas |
 | 384 | 105 | Analiza Ramos |
-| 385 | 105 | Mario Meliodas |
-| 386 | 104 | De'Nell Edwards |
-| 387 | 104 | Ahvae Lee |
-| 388 | 104 | Breezy Catcher |
-| 389 | 104 | Tyiesha Pie Farmer |
-| 390 | 103 | Lynnette WheelerBushnell |
-| 391 | 102 | Christi Walker Patton |
-| 392 | 102 | Sarah Steckbauer |
+| 385 | 105 | Maria |
+| 386 | 105 | BabyCakes |
+| 387 | 104 | De'Nell Edwards |
+| 388 | 104 | Ahvae Lee |
+| 389 | 104 | Breezy Catcher |
+| 390 | 104 | Tyiesha Pie Farmer |
+| 391 | 103 | Lynnette WheelerBushnell |
+| 392 | 102 | Christi Walker Patton |
 | 393 | 102 | Eric Spencer Whitaker |
-| 394 | 102 | Maribel Vasquez |
+| 394 | 102 | Sarah Steckbauer |
 | 395 | 101 | Wacky Wipepiece |
 | 396 | 101 | Elaine Pauley |
 | 397 | 101 | Joana Thompson |
