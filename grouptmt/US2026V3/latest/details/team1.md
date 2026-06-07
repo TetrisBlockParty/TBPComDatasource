@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 18:16:41 UTC
+# Standings for team1 as of 2026-06-07 18:17:18 UTC
 
 **Total Participants:** 1532
 
@@ -271,14 +271,14 @@
 | 263 | 219 | Smiley Clearpiece |
 | 264 | 218 | Mikayla |
 | 265 | 212 | Simply-Beautiful007 |
-| 266 | 212 | Trina Greenwood |
-| 267 | 212 | Nobles Brandon |
-| 268 | 211 | LaShaun Stinson |
-| 269 | 211 | Boldy Liner |
-| 270 | 210 | Dion Gray |
-| 271 | 209 | Murg4dr01d |
-| 272 | 209 | Shameka Thrasher |
-| 273 | 208 | Charletha Williams |
+| 266 | 212 | Nobles Brandon |
+| 267 | 212 | Trina Greenwood |
+| 268 | 211 | Charletha Williams |
+| 269 | 211 | LaShaun Stinson |
+| 270 | 211 | Boldy Liner |
+| 271 | 210 | Dion Gray |
+| 272 | 209 | Murg4dr01d |
+| 273 | 209 | Shameka Thrasher |
 | 274 | 208 | Simone Bailey |
 | 275 | 207 | Melissa D. M. Hornsby |
 | 276 | 206 | Curtis T Cirno |
