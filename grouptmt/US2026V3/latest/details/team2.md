@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 02:52:18 UTC
+# Standings for team2 as of 2026-06-07 02:52:40 UTC
 
 **Total Participants:** 1555
 
@@ -136,9 +136,9 @@
 | 128 | 400 | Smashanator |
 | 129 | 390 | La chulis |
 | 130 | 386 | Frilly Dashfit |
-| 131 | 381 | Joslyn Johnson |
-| 132 | 378 | Jgato |
-| 133 | 378 | Gloria May Shook |
+| 131 | 386 | Gloria May Shook |
+| 132 | 381 | Joslyn Johnson |
+| 133 | 378 | Jgato |
 | 134 | 372 | MaddieCherie |
 | 135 | 365 | Branden Frankowski |
 | 136 | 357 | Crystal Allen |
