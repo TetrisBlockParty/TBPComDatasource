@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 19:36:40 UTC
+# Standings for team1 as of 2026-06-07 19:37:19 UTC
 
 **Total Participants:** 1554
 
@@ -109,8 +109,8 @@
 | 101 | 604 | Cee Emm |
 | 102 | 601 | JaszyBadd |
 | 103 | 600 | Chenell Gillard |
-| 104 | 594 | Voice |
-| 105 | 589 | PandaPrincess |
+| 104 | 599 | PandaPrincess |
+| 105 | 594 | Voice |
 | 106 | 588 | Shontanese Adams |
 | 107 | 587 | KenpachisGirl |
 | 108 | 586 | Andi McGreevy |
@@ -367,11 +367,11 @@
 | 359 | 158 | Kimberly Linares Hernandez |
 | 360 | 157 | Hasty Glidezone |
 | 361 | 157 | Courtney Cicoria |
-| 362 | 156 | Cheeky Twistpiece |
-| 363 | 156 | Shalya Terry |
-| 364 | 156 | Alyssa Rae |
-| 365 | 156 | Tee Spinks |
-| 366 | 156 | MamushiOh |
+| 362 | 157 | MamushiOh |
+| 363 | 156 | Cheeky Twistpiece |
+| 364 | 156 | Shalya Terry |
+| 365 | 156 | Alyssa Rae |
+| 366 | 156 | Tee Spinks |
 | 367 | 155 | Lazy Tiltpiece |
 | 368 | 155 | Anthony |
 | 369 | 154 | Eric Spencer Whitaker |
@@ -968,100 +968,100 @@
 | 960 | 45 | Meshia |
 | 961 | 45 | Frothy Zoney |
 | 962 | 45 | GetDaOPPS |
-| 963 | 45 | Sarah Jones |
-| 964 | 45 | Tia Hazelton |
-| 965 | 45 | Mrs |
-| 966 | 45 | Hoppy Rumbler |
-| 967 | 45 | Amanda Colwell |
-| 968 | 45 | Heather Cross-Davis |
-| 969 | 45 | Skye |
-| 970 | 45 | WReckitraff |
-| 971 | 45 | rosieredpanda |
-| 972 | 44 | Mark Steven Pichler |
+| 963 | 45 | WReckitraff |
+| 964 | 45 | Sarah Jones |
+| 965 | 45 | Tia Hazelton |
+| 966 | 45 | Mrs |
+| 967 | 45 | Hoppy Rumbler |
+| 968 | 45 | Amanda Colwell |
+| 969 | 45 | Heather Cross-Davis |
+| 970 | 45 | rosieredpanda |
+| 971 | 45 | Skye |
+| 972 | 44 | Ivan Israel |
 | 973 | 44 | Candy Lee |
-| 974 | 44 | Nic Nic |
-| 975 | 44 | Tez Mays |
-| 976 | 44 | Ducc2408 |
-| 977 | 44 | Connor Leon Cluff |
-| 978 | 44 | Ivan Israel |
-| 979 | 43 | Vivian Bunnell Myers |
+| 974 | 44 | Ducc2408 |
+| 975 | 44 | Mark Steven Pichler |
+| 976 | 44 | Connor Leon Cluff |
+| 977 | 44 | Nic Nic |
+| 978 | 44 | Tez Mays |
+| 979 | 43 | Brittany Cole |
 | 980 | 43 | Jovy |
-| 981 | 43 | Phoenix |
-| 982 | 43 | MindlessMic |
-| 983 | 43 | Block |
-| 984 | 43 | Corbin Henry |
-| 985 | 43 | Alivia Dove |
-| 986 | 43 | Louise Parker |
-| 987 | 43 | Alturas Supremenineteen Banks |
-| 988 | 42 | Ray Baker |
-| 989 | 42 | Peppy Wipeblock |
-| 990 | 42 | Louise |
+| 981 | 43 | Corbin Henry |
+| 982 | 43 | Phoenix |
+| 983 | 43 | Vivian Bunnell Myers |
+| 984 | 43 | MindlessMic |
+| 985 | 43 | Block |
+| 986 | 43 | Alivia Dove |
+| 987 | 43 | Louise Parker |
+| 988 | 43 | Alturas Supremenineteen Banks |
+| 989 | 42 | Louise |
+| 990 | 42 | Peppy Wipeblock |
 | 991 | 42 | Lucy Range |
-| 992 | 42 | Tanisha Robinson |
-| 993 | 42 | Shanna Green Williams |
-| 994 | 42 | Bianca Nawlinsgurl Ferguson |
-| 995 | 42 | Brii Michelle Lamb |
-| 996 | 42 | Nadine Coleman |
-| 997 | 42 | Sunny Riserbuilder |
+| 992 | 42 | Ray Baker |
+| 993 | 42 | Tanisha Robinson |
+| 994 | 42 | Shanna Green Williams |
+| 995 | 42 | Sunny Riserbuilder |
+| 996 | 42 | Rikki Moran |
+| 997 | 42 | Bianca Nawlinsgurl Ferguson |
 | 998 | 42 | Willson06 |
 | 999 | 42 | Dandy Blockfall |
-| 1000 | 42 | Rikki Moran |
-| 1001 | 42 | Tammy Scott Mallen |
-| 1002 | 42 | Emeka Agu |
-| 1003 | 42 | Taneka Howell |
-| 1004 | 41 | Giggly Gridder |
-| 1005 | 41 | WOOLFF |
-| 1006 | 41 | Deihja Weaver |
-| 1007 | 41 | Melvin Simpson |
-| 1008 | 41 | JLynn Mind Ur's Blackwell |
+| 1000 | 42 | Emeka Agu |
+| 1001 | 42 | Brii Michelle Lamb |
+| 1002 | 42 | Tammy Scott Mallen |
+| 1003 | 42 | Nadine Coleman |
+| 1004 | 42 | Taneka Howell |
+| 1005 | 41 | Melvin Simpson |
+| 1006 | 41 | WOOLFF |
+| 1007 | 41 | Deihja Weaver |
+| 1008 | 41 | Giggly Gridder |
 | 1009 | 41 | Delitra Perkins Hatter |
-| 1010 | 41 | Crafty Witch |
-| 1011 | 41 | Carolyn |
-| 1012 | 41 | Danielle Marie Lewis |
-| 1013 | 41 | LaQuita White |
-| 1014 | 40 | Blaze |
+| 1010 | 41 | JLynn Mind Ur's Blackwell |
+| 1011 | 41 | Crafty Witch |
+| 1012 | 41 | Carolyn |
+| 1013 | 41 | Danielle Marie Lewis |
+| 1014 | 41 | LaQuita White |
 | 1015 | 40 | Shaun Anderson |
-| 1016 | 40 | HS Arce |
-| 1017 | 40 | Billz143 |
-| 1018 | 40 | Brian Marsico |
-| 1019 | 40 | meep |
-| 1020 | 40 | DimplezAOS |
-| 1021 | 40 | Brittany Britkany Marsden-Garrison |
-| 1022 | 40 | Stacey Kesteloot |
-| 1023 | 40 | Motown Chuck |
-| 1024 | 40 | Ebie |
-| 1025 | 40 | Quirky Slammer |
-| 1026 | 40 | Dannie |
-| 1027 | 40 | Megan Payette |
-| 1028 | 40 | Brandon Dontell Saunders |
-| 1029 | 40 | RealOne95 |
-| 1030 | 40 | PattyPower |
-| 1031 | 40 | Laura Wesley |
-| 1032 | 40 | Bruce Paléncia |
-| 1033 | 40 | Sarah Guarino |
-| 1034 | 40 | Jason Riley |
-| 1035 | 40 | Semaj Johnson |
-| 1036 | 40 | Peppy Towerbuilder |
-| 1037 | 40 | Jasmine Bates |
-| 1038 | 40 | Erica Wells |
-| 1039 | 40 | Marcello Rush |
-| 1040 | 40 | Amy Thomas |
-| 1041 | 40 | Leon Brown III |
-| 1042 | 40 | Spotlight |
-| 1043 | 40 | Flashy Slam |
-| 1044 | 40 | Alisha Dawson Crouch |
-| 1045 | 40 | Melissa Hershberger |
-| 1046 | 40 | nay |
-| 1047 | 40 | Katrina Trein Bein Dickerson |
-| 1048 | 40 | Chummy Blockpiece |
-| 1049 | 39 | Brittany Cole |
+| 1016 | 40 | Billz143 |
+| 1017 | 40 | Blaze |
+| 1018 | 40 | HS Arce |
+| 1019 | 40 | Brian Marsico |
+| 1020 | 40 | meep |
+| 1021 | 40 | DimplezAOS |
+| 1022 | 40 | Brittany Britkany Marsden-Garrison |
+| 1023 | 40 | Stacey Kesteloot |
+| 1024 | 40 | Motown Chuck |
+| 1025 | 40 | Ebie |
+| 1026 | 40 | Quirky Slammer |
+| 1027 | 40 | Dannie |
+| 1028 | 40 | Megan Payette |
+| 1029 | 40 | Brandon Dontell Saunders |
+| 1030 | 40 | RealOne95 |
+| 1031 | 40 | PattyPower |
+| 1032 | 40 | Laura Wesley |
+| 1033 | 40 | Bruce Paléncia |
+| 1034 | 40 | Sarah Guarino |
+| 1035 | 40 | Jason Riley |
+| 1036 | 40 | Semaj Johnson |
+| 1037 | 40 | Peppy Towerbuilder |
+| 1038 | 40 | Jasmine Bates |
+| 1039 | 40 | Erica Wells |
+| 1040 | 40 | Marcello Rush |
+| 1041 | 40 | Amy Thomas |
+| 1042 | 40 | Leon Brown III |
+| 1043 | 40 | Spotlight |
+| 1044 | 40 | Flashy Slam |
+| 1045 | 40 | Alisha Dawson Crouch |
+| 1046 | 40 | Melissa Hershberger |
+| 1047 | 40 | nay |
+| 1048 | 40 | Katrina Trein Bein Dickerson |
+| 1049 | 40 | Chummy Blockpiece |
 | 1050 | 39 | Juanita Quezaire |
 | 1051 | 39 | Chinkey Overit |
 | 1052 | 39 | Diva shrock |
 | 1053 | 39 | Biggestboss Ransom |
-| 1054 | 39 | Tina Blessed Cage |
+| 1054 | 39 | Ameillia Boughner |
 | 1055 | 39 | win |
-| 1056 | 39 | Ameillia Boughner |
+| 1056 | 39 | Tina Blessed Cage |
 | 1057 | 39 | BP Phillips |
 | 1058 | 39 | Lozuna |
 | 1059 | 39 | Stacy Nicole |
@@ -1069,8 +1069,8 @@
 | 1061 | 38 | Jroc Tyra Taylor |
 | 1062 | 38 | hope |
 | 1063 | 38 | Spicy Tiler |
-| 1064 | 38 | Kahliah Baker |
-| 1065 | 38 | Undeniable Williams |
+| 1064 | 38 | Undeniable Williams |
+| 1065 | 38 | Kahliah Baker |
 | 1066 | 38 | Pastors Du Bose |
 | 1067 | 38 | ThaMENACING1 |
 | 1068 | 38 | Nicole Coko Thomas |
