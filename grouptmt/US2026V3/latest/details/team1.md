@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 00:10:42 UTC
+# Standings for team1 as of 2026-06-07 00:11:18 UTC
 
 **Total Participants:** 1230
 
@@ -23,7 +23,7 @@
 | 15 | 3142 | Debbie Carswell |
 | 16 | 3039 | Chummy Combo |
 | 17 | 3003 | Cassidy Butler |
-| 18 | 2663 | Sha Harris |
+| 18 | 2763 | Sha Harris |
 | 19 | 2596 | Pdubbl3 |
 | 20 | 2536 | jaimie |
 | 21 | 2415 | Yolanda McDonald |
@@ -393,14 +393,14 @@
 | 385 | 88 | Wacky Stackbuilder |
 | 386 | 87 | Chummy Frame |
 | 387 | 87 | Comedian Prince Paul |
-| 388 | 86 | Yashica Smith |
-| 389 | 86 | krd |
-| 390 | 86 | Donna Payne |
-| 391 | 86 | Tweet Turner |
-| 392 | 86 | Cm |
-| 393 | 86 | Zany Breaker |
-| 394 | 86 | Kendra McIntyre |
-| 395 | 85 | Daring Blockclear |
+| 388 | 87 | Daring Blockclear |
+| 389 | 86 | Yashica Smith |
+| 390 | 86 | krd |
+| 391 | 86 | Donna Payne |
+| 392 | 86 | Tweet Turner |
+| 393 | 86 | Cm |
+| 394 | 86 | Zany Breaker |
+| 395 | 86 | Kendra McIntyre |
 | 396 | 85 | Jae Thompson-Tyus |
 | 397 | 84 | Sarah Steckbauer |
 | 398 | 84 | Franklin Sotelo |

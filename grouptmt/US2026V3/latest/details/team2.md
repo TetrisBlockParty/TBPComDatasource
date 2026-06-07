@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 00:10:42 UTC
+# Standings for team2 as of 2026-06-07 00:11:18 UTC
 
 **Total Participants:** 1466
 
@@ -951,39 +951,39 @@
 | 943 | 32 | Stephanie |
 | 944 | 32 | Courtney Elizabeth Hartnagel |
 | 945 | 32 | Viani09 |
-| 946 | 32 | Foc |
-| 947 | 32 | Kristen Alta |
-| 948 | 32 | Chelsea Harriss |
-| 949 | 32 | Amanda Bryte |
-| 950 | 32 | Brandy McCleary |
-| 951 | 31 | Monique Williams |
-| 952 | 31 | Goofy Bridger |
-| 953 | 31 | Rey Huber |
-| 954 | 31 | Trinni Hansen |
-| 955 | 31 | Dan Ramsey |
-| 956 | 31 | Shannon Michelle |
-| 957 | 31 | Ronald Granger |
-| 958 | 31 | Laura Zavala |
-| 959 | 31 | Anthony Chavez |
-| 960 | 30 | Lakeisha Ryder |
-| 961 | 30 | Duck |
-| 962 | 30 | ASL |
-| 963 | 30 | Christi Hooper |
-| 964 | 30 | Brave Blockmatch |
-| 965 | 30 | Marla Paden |
-| 966 | 30 | Gammawms |
-| 967 | 30 | SarahandAaron Prim |
-| 968 | 30 | Rubics cube |
-| 969 | 30 | Tina Kinney |
-| 970 | 30 | Snappy Fitblock |
-| 971 | 30 | Amy ATen |
-| 972 | 30 | Crystal Poss |
-| 973 | 30 | Brett Mullins |
-| 974 | 30 | Barbara Fields |
-| 975 | 30 | Dee |
-| 976 | 30 | Heather Schardan |
-| 977 | 30 | Heather Hill Davidson |
-| 978 | 30 | Alicia Ellenburg |
+| 946 | 32 | Alicia Ellenburg |
+| 947 | 32 | Foc |
+| 948 | 32 | Kristen Alta |
+| 949 | 32 | Chelsea Harriss |
+| 950 | 32 | Amanda Bryte |
+| 951 | 32 | Brandy McCleary |
+| 952 | 31 | Monique Williams |
+| 953 | 31 | Goofy Bridger |
+| 954 | 31 | Rey Huber |
+| 955 | 31 | Trinni Hansen |
+| 956 | 31 | Dan Ramsey |
+| 957 | 31 | Shannon Michelle |
+| 958 | 31 | Ronald Granger |
+| 959 | 31 | Laura Zavala |
+| 960 | 31 | Anthony Chavez |
+| 961 | 30 | Snappy Fitblock |
+| 962 | 30 | Duck |
+| 963 | 30 | ASL |
+| 964 | 30 | Christi Hooper |
+| 965 | 30 | Brave Blockmatch |
+| 966 | 30 | Marla Paden |
+| 967 | 30 | Gammawms |
+| 968 | 30 | SarahandAaron Prim |
+| 969 | 30 | Rubics cube |
+| 970 | 30 | Tina Kinney |
+| 971 | 30 | Lakeisha Ryder |
+| 972 | 30 | Amy ATen |
+| 973 | 30 | Crystal Poss |
+| 974 | 30 | Brett Mullins |
+| 975 | 30 | Barbara Fields |
+| 976 | 30 | Dee |
+| 977 | 30 | Heather Schardan |
+| 978 | 30 | Heather Hill Davidson |
 | 979 | 30 | Loriane Shumate Griggs |
 | 980 | 30 | Lively Liner |
 | 981 | 30 | D.j. Wingate |
@@ -1061,25 +1061,25 @@
 | 1053 | 25 | Debra May |
 | 1054 | 25 | Stephen Gillam |
 | 1055 | 25 | Nerdy Base |
-| 1056 | 25 | Maureen Bryan Adams |
-| 1057 | 25 | Nicole Plummer |
-| 1058 | 25 | Daring Spinzone |
-| 1059 | 25 | Wildcat1220 |
-| 1060 | 25 | Wendy Michelle Wise-Ledford |
-| 1061 | 25 | John Rosales |
-| 1062 | 25 | Paula Stell |
-| 1063 | 25 | Quirky Piecegrid |
-| 1064 | 25 | Dandy Wiper |
-| 1065 | 25 | Crafty Slice |
-| 1066 | 25 | Nicole Sides KrazyKoop |
-| 1067 | 25 | Linda Jeanne Knop |
-| 1068 | 25 | Ginger Nesbitt |
-| 1069 | 24 | Ashley Corbett |
-| 1070 | 24 | James Calhoun |
-| 1071 | 24 | Nicole |
-| 1072 | 24 | Breanna Dykes |
-| 1073 | 24 | Kacey Lindemuth |
-| 1074 | 24 | Elodie Deveyer |
+| 1056 | 25 | Wendy Michelle Wise-Ledford |
+| 1057 | 25 | Paula Stell |
+| 1058 | 25 | Quirky Piecegrid |
+| 1059 | 25 | Dandy Wiper |
+| 1060 | 25 | Ginger Nesbitt |
+| 1061 | 25 | Linda Jeanne Knop |
+| 1062 | 25 | Nicole Sides KrazyKoop |
+| 1063 | 25 | Crafty Slice |
+| 1064 | 25 | James Calhoun |
+| 1065 | 25 | John Rosales |
+| 1066 | 25 | Daring Spinzone |
+| 1067 | 25 | Nicole Plummer |
+| 1068 | 25 | Maureen Bryan Adams |
+| 1069 | 25 | Wildcat1220 |
+| 1070 | 24 | Nicole |
+| 1071 | 24 | Breanna Dykes |
+| 1072 | 24 | Kacey Lindemuth |
+| 1073 | 24 | Elodie Deveyer |
+| 1074 | 24 | Ashley Corbett |
 | 1075 | 24 | Lavenda Nettles |
 | 1076 | 24 | Tiffany Heether |
 | 1077 | 24 | Connie McCoy |
