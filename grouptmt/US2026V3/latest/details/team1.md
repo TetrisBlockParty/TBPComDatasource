@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:54:40 UTC
+# Standings for team1 as of 2026-06-07 08:55:18 UTC
 
 **Total Participants:** 1428
 
@@ -402,9 +402,9 @@
 | 394 | 109 | Bambi Johnson |
 | 395 | 109 | Cece Fowler |
 | 396 | 109 | Tamara Johnson-Carter |
-| 397 | 108 | Wacky Stackbuilder |
-| 398 | 108 | Char |
-| 399 | 107 | Tyiesha Pie Farmer |
+| 397 | 108 | Tyiesha Pie Farmer |
+| 398 | 108 | Wacky Stackbuilder |
+| 399 | 108 | Char |
 | 400 | 107 | Laurie Napper |
 | 401 | 106 | La'Chae Nickole |
 | 402 | 106 | Mister Reid |
@@ -1331,48 +1331,48 @@
 | 1323 | 10 | Jamal D. Wiley |
 | 1324 | 10 | Shawn Himes |
 | 1325 | 10 | Yvonne Aggers |
-| 1326 | 10 | Blaze |
-| 1327 | 10 | Ladii Libra |
-| 1328 | 10 | Kim Smith |
+| 1326 | 10 | Kim Smith |
+| 1327 | 10 | Lazy Chiseler |
+| 1328 | 10 | Papi |
 | 1329 | 10 | Cool Rumbler |
-| 1330 | 10 | Steve Renelus |
-| 1331 | 10 | Jimel Fraser |
-| 1332 | 10 | Willard Junior |
-| 1333 | 10 | Papi |
-| 1334 | 10 | Lazy Chiseler |
-| 1335 | 10 | Semaj Johnson |
-| 1336 | 9 | Shanns |
-| 1337 | 9 | Shemeka Bates |
-| 1338 | 9 | John Lovato |
-| 1339 | 9 | Catelyn Neal |
-| 1340 | 9 | Noni |
+| 1330 | 10 | Willard Junior |
+| 1331 | 10 | Semaj Johnson |
+| 1332 | 10 | Jimel Fraser |
+| 1333 | 10 | Ladii Libra |
+| 1334 | 10 | Steve Renelus |
+| 1335 | 10 | Blaze |
+| 1336 | 9 | Beverly S. Robinson |
+| 1337 | 9 | ummm |
+| 1338 | 9 | Yester |
+| 1339 | 9 | Mars |
+| 1340 | 9 | Duckey |
 | 1341 | 9 | Dana |
-| 1342 | 9 | Duckey |
-| 1343 | 9 | Mars |
-| 1344 | 9 | Yester |
-| 1345 | 9 | ummm |
-| 1346 | 9 | Beverly S. Robinson |
-| 1347 | 9 | meatballs |
+| 1342 | 9 | meatballs |
+| 1343 | 9 | Catelyn Neal |
+| 1344 | 9 | Noni |
+| 1345 | 9 | John Lovato |
+| 1346 | 9 | Shemeka Bates |
+| 1347 | 9 | Shanns |
 | 1348 | 9 | Frisky Linkblock |
-| 1349 | 9 | Shell Poke |
-| 1350 | 9 | Shaun Baker |
-| 1351 | 9 | Sunset Owens |
-| 1352 | 9 | Clifford Petroske |
-| 1353 | 9 | Brika Brika |
-| 1354 | 8 | Dana Hill |
+| 1349 | 9 | Shaun Baker |
+| 1350 | 9 | Shell Poke |
+| 1351 | 9 | Brika Brika |
+| 1352 | 9 | Sunset Owens |
+| 1353 | 9 | Clifford Petroske |
+| 1354 | 8 | Ferocity |
 | 1355 | 8 | Giggleme |
-| 1356 | 8 | Nissa |
-| 1357 | 8 | Ferocity |
-| 1358 | 8 | MsSassygee Boom |
+| 1356 | 8 | Dana Hill |
+| 1357 | 8 | Chevonne Huggins |
+| 1358 | 8 | Nissa |
 | 1359 | 8 | meep |
-| 1360 | 8 | Chevonne Huggins |
+| 1360 | 8 | MsSassygee Boom |
 | 1361 | 8 | Macho Lewis |
 | 1362 | 8 | Queen Baby 5 |
 | 1363 | 8 | Groovy Riseclear |
 | 1364 | 8 | Almarasha Grice |
 | 1365 | 8 | Desi |
-| 1366 | 8 | Chill Tumbler |
-| 1367 | 8 | jus_ry |
+| 1366 | 8 | jus_ry |
+| 1367 | 8 | Chill Tumbler |
 | 1368 | 8 | Sean Walker |
 | 1369 | 8 | DRIFTER |
 | 1370 | 8 | Dave Breaker |
@@ -1385,35 +1385,35 @@
 | 1377 | 7 | Mary2 |
 | 1378 | 7 | Quana |
 | 1379 | 7 | Teresa F. Campos Eaton |
-| 1380 | 7 | Stephanie L Jeffries Moultrie |
-| 1381 | 7 | RMGreen |
-| 1382 | 7 | Shane Brucewayne |
-| 1383 | 7 | Sheena Hamilton |
-| 1384 | 7 | Zachary Sinclair |
-| 1385 | 7 | John Boone |
-| 1386 | 7 | Deantenique Smalls |
-| 1387 | 7 | Court Ney |
-| 1388 | 7 | Bryan Dell |
+| 1380 | 7 | Court Ney |
+| 1381 | 7 | Shane Brucewayne |
+| 1382 | 7 | RMGreen |
+| 1383 | 7 | John Boone |
+| 1384 | 7 | Sheena Hamilton |
+| 1385 | 7 | Zachary Sinclair |
+| 1386 | 7 | Bryan Dell |
+| 1387 | 7 | Deantenique Smalls |
+| 1388 | 7 | Stephanie L Jeffries Moultrie |
 | 1389 | 7 | Joey Hoover |
-| 1390 | 7 | Alexis Farquer |
-| 1391 | 7 | linda m |
+| 1390 | 7 | Deadra Graham |
+| 1391 | 7 | Alexis Farquer |
 | 1392 | 7 | Milfchaser530 |
 | 1393 | 7 | KingSlim82 |
-| 1394 | 7 | Deadra Graham |
-| 1395 | 6 | Andrae Robinson |
+| 1394 | 7 | linda m |
+| 1395 | 6 | Shiny Crusher |
 | 1396 | 6 | smash56! |
-| 1397 | 6 | Shiny Crusher |
+| 1397 | 6 | Andrae Robinson |
 | 1398 | 6 | Tammy Hooser |
 | 1399 | 6 | party t-rex 27 |
 | 1400 | 6 | Stevie Malcon |
 | 1401 | 6 | Evee |
-| 1402 | 6 | NEM0228 |
-| 1403 | 6 | Nerdy Slam |
-| 1404 | 6 | CK |
+| 1402 | 6 | CK |
+| 1403 | 6 | NEM0228 |
+| 1404 | 6 | Nerdy Slam |
 | 1405 | 6 | Kyshia |
 | 1406 | 5 | Jackie Sanasay |
 | 1407 | 5 | Happy |
-| 1408 | 5 | Angelique Thomas |
+| 1408 | 5 | VERA DAME |
 | 1409 | 5 | Stephanie Zuniga Tullock |
 | 1410 | 5 | Carol Washington |
 | 1411 | 5 | Derek Beverly |
@@ -1425,15 +1425,15 @@
 | 1417 | 5 | Andy Barnett |
 | 1418 | 5 | Ashley Horne |
 | 1419 | 5 | Aanngie Aanngie |
-| 1420 | 5 | Joy Baker |
-| 1421 | 5 | Mighty Riserbuilder |
-| 1422 | 5 | Alonzo Kirkland |
-| 1423 | 5 | Annette DeLoatch Thompson |
-| 1424 | 5 | VERA DAME |
-| 1425 | 5 | Jason Riley |
-| 1426 | 5 | Tito Divyn |
-| 1427 | 5 | the guy |
-| 1428 | 5 | pettymexoxo |
+| 1420 | 5 | Mighty Riserbuilder |
+| 1421 | 5 | Alonzo Kirkland |
+| 1422 | 5 | Annette DeLoatch Thompson |
+| 1423 | 5 | Angelique Thomas |
+| 1424 | 5 | Jason Riley |
+| 1425 | 5 | Tito Divyn |
+| 1426 | 5 | the guy |
+| 1427 | 5 | pettymexoxo |
+| 1428 | 5 | Joy Baker |
 
 ---
 *Standings created by tournaments datasource generation tool*
