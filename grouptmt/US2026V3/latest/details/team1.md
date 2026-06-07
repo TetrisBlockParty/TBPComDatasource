@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:34:17 UTC
+# Standings for team1 as of 2026-06-07 11:34:41 UTC
 
 **Total Participants:** 1445
 
@@ -1446,11 +1446,11 @@
 | 1438 | 5 | Tito Divyn |
 | 1439 | 5 | VERA DAME |
 | 1440 | 5 | Annette DeLoatch Thompson |
-| 1441 | 5 | Jackie Sanasay |
-| 1442 | 5 | Aanngie Aanngie |
+| 1441 | 5 | Angelique Thomas |
+| 1442 | 5 | Mighty Riserbuilder |
 | 1443 | 5 | Alonzo Kirkland |
-| 1444 | 5 | Angelique Thomas |
-| 1445 | 5 | Mighty Riserbuilder |
+| 1444 | 5 | Aanngie Aanngie |
+| 1445 | 5 | Jackie Sanasay |
 
 ---
 *Standings created by tournaments datasource generation tool*
