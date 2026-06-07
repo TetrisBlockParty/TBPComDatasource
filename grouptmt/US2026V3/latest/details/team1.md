@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 20:38:41 UTC
+# Standings for team1 as of 2026-06-07 20:39:19 UTC
 
 **Total Participants:** 1570
 
@@ -75,7 +75,7 @@
 | 67 | 981 | Court Court |
 | 68 | 980 | Bre Maugh |
 | 69 | 935 | Whitney Butler |
-| 70 | 930 | Kimberly Hernandez |
+| 70 | 933 | Kimberly Hernandez |
 | 71 | 902 | Uneekly Mayde |
 | 72 | 897 | BYM4L |
 | 73 | 896 | Tiana Moore |
@@ -98,14 +98,14 @@
 | 90 | 723 | Eartha Brown |
 | 91 | 720 | Felicia Williams |
 | 92 | 710 | ing410 |
-| 93 | 693 | Jaida King |
-| 94 | 679 | Chirpy Corner |
-| 95 | 678 | No_Other_Choice |
-| 96 | 668 | Jonathan Vee Jay |
-| 97 | 667 | Sarah Marie |
-| 98 | 666 | Kellie Hall |
-| 99 | 647 | She Higgy |
-| 100 | 644 | Tameka Jones |
+| 93 | 703 | Tameka Jones |
+| 94 | 693 | Jaida King |
+| 95 | 679 | Chirpy Corner |
+| 96 | 678 | No_Other_Choice |
+| 97 | 668 | Jonathan Vee Jay |
+| 98 | 667 | Sarah Marie |
+| 99 | 666 | Kellie Hall |
+| 100 | 647 | She Higgy |
 | 101 | 638 | Therealdywoune Peay |
 | 102 | 636 | Cee Emm |
 | 103 | 613 | Big Tina |
@@ -462,14 +462,14 @@
 | 454 | 125 | Christina Singleton |
 | 455 | 125 | LaTonya Myers |
 | 456 | 125 | Dizzy Dashy |
-| 457 | 124 | Li-Li Ratliff |
-| 458 | 124 | Logan Frost |
-| 459 | 124 | The DUBZ |
-| 460 | 123 | Cauiasia DeJ'ae |
-| 461 | 123 | Jeffrey Barrows |
-| 462 | 123 | Cachet A Ward |
-| 463 | 123 | Tajuana Juana'Cee Coleman |
-| 464 | 122 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 457 | 124 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 458 | 124 | Li-Li Ratliff |
+| 459 | 124 | Logan Frost |
+| 460 | 124 | The DUBZ |
+| 461 | 123 | Cauiasia DeJ'ae |
+| 462 | 123 | Jeffrey Barrows |
+| 463 | 123 | Cachet A Ward |
+| 464 | 123 | Tajuana Juana'Cee Coleman |
 | 465 | 122 | Xana Zania Bopp |
 | 466 | 122 | Yashica Smith |
 | 467 | 122 | Donna Payne |
