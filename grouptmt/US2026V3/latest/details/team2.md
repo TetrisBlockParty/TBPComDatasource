@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 05:40:18 UTC
+# Standings for team2 as of 2026-06-07 05:40:43 UTC
 
 **Total Participants:** 1638
 
@@ -121,9 +121,9 @@
 | 113 | 552 | Rhonda Diebold |
 | 114 | 549 | Kathleen Dumbazz |
 | 115 | 547 | Kvothe |
-| 116 | 541 | Ricardo Ewart |
-| 117 | 537 | Nettrainer |
-| 118 | 520 | Amanda Sikes |
+| 116 | 547 | Nettrainer |
+| 117 | 541 | Ricardo Ewart |
+| 118 | 522 | Amanda Sikes |
 | 119 | 516 | Amber Miller Wirick |
 | 120 | 515 | Loony Faller |
 | 121 | 500 | Courtney McCulley |
@@ -147,9 +147,9 @@
 | 139 | 411 | MarioKarasovic |
 | 140 | 408 | Ashley Green |
 | 141 | 404 | Jgato |
-| 142 | 400 | Gloria May Shook |
+| 142 | 400 | Smashanator |
 | 143 | 400 | Zarah Kettler |
-| 144 | 400 | Smashanator |
+| 144 | 400 | Gloria May Shook |
 | 145 | 390 | La chulis |
 | 146 | 389 | haune |
 | 147 | 386 | Frilly Dashfit |
@@ -163,18 +163,18 @@
 | 155 | 357 | Crystal Allen |
 | 156 | 356 | Joni Michelle Morgan |
 | 157 | 354 | Zesty Strikerbuilder |
-| 158 | 348 | Eric Drane |
-| 159 | 344 | Traci Abern |
-| 160 | 343 | Theresa Marie |
-| 161 | 342 | Bri St Peter |
-| 162 | 340 | Jason Cook |
-| 163 | 340 | Mom |
-| 164 | 340 | Amy Gregg |
-| 165 | 336 | Jef Wassom |
-| 166 | 333 | Christina Maria |
-| 167 | 328 | Tim Tim |
-| 168 | 328 | Keri Mears |
-| 169 | 323 | DomDomsNana |
+| 158 | 353 | DomDomsNana |
+| 159 | 348 | Eric Drane |
+| 160 | 344 | Traci Abern |
+| 161 | 343 | Theresa Marie |
+| 162 | 342 | Bri St Peter |
+| 163 | 340 | Jason Cook |
+| 164 | 340 | Mom |
+| 165 | 340 | Amy Gregg |
+| 166 | 336 | Jef Wassom |
+| 167 | 333 | Christina Maria |
+| 168 | 328 | Tim Tim |
+| 169 | 328 | Keri Mears |
 | 170 | 323 | Shannon Wilson |
 | 171 | 322 | Nikki Hayes |
 | 172 | 319 | Flower_child |
@@ -1340,94 +1340,94 @@
 | 1332 | 18 | FabTeach |
 | 1333 | 18 | Tavia Teschendorf Sliffe |
 | 1334 | 18 | Rugrat Angi Bechstein |
-| 1335 | 18 | Ashley Wolford |
+| 1335 | 18 | Ashley Shazes |
 | 1336 | 18 | Cozy Curve |
 | 1337 | 18 | Piper Michael |
-| 1338 | 18 | Nicole Treadway |
-| 1339 | 18 | Miggy Gonzalez |
+| 1338 | 18 | Miggy Gonzalez |
+| 1339 | 18 | Nicole Treadway |
 | 1340 | 18 | Alison Welsh |
 | 1341 | 18 | Lexi Chouinard |
 | 1342 | 18 | Taran Evans |
 | 1343 | 18 | Aaron Jones |
-| 1344 | 18 | Kris Lea |
-| 1345 | 18 | Adrian Alvarez |
-| 1346 | 18 | Glitzy Stackbuilder |
-| 1347 | 17 | Angela Knighton |
-| 1348 | 17 | Clever Spinfit |
-| 1349 | 17 | Nicole Good |
-| 1350 | 17 | Christina Michelle Wilson |
-| 1351 | 17 | Smiley Edgefit |
-| 1352 | 17 | Kelly Christine Trimmer |
-| 1353 | 17 | Amanda Hamacher |
+| 1344 | 18 | Ashley Wolford |
+| 1345 | 18 | Kris Lea |
+| 1346 | 18 | Adrian Alvarez |
+| 1347 | 18 | Glitzy Stackbuilder |
+| 1348 | 17 | Angela Knighton |
+| 1349 | 17 | Clever Spinfit |
+| 1350 | 17 | Smiley Edgefit |
+| 1351 | 17 | Nicole Good |
+| 1352 | 17 | Christina Michelle Wilson |
+| 1353 | 17 | Kelly Christine Trimmer |
 | 1354 | 17 | Clever Balancefit |
 | 1355 | 17 | COWBOY |
-| 1356 | 17 | Sassy Snapfall |
-| 1357 | 17 | Shane Peavey |
-| 1358 | 17 | Kandy Comer |
-| 1359 | 17 | Shaun Talbot |
-| 1360 | 17 | Churube Finwoiisopw |
-| 1361 | 16 | Amanda Jimenez |
-| 1362 | 16 | Kaylyn Wickham |
+| 1356 | 17 | Amanda Hamacher |
+| 1357 | 17 | Churube Finwoiisopw |
+| 1358 | 17 | Sassy Snapfall |
+| 1359 | 17 | Shane Peavey |
+| 1360 | 17 | Kandy Comer |
+| 1361 | 17 | Shaun Talbot |
+| 1362 | 16 | Diane Pinkston Massey |
 | 1363 | 16 | Kimberly Rochon |
 | 1364 | 16 | Sk8Mom |
-| 1365 | 16 | Patty White |
-| 1366 | 16 | JesseJo |
-| 1367 | 16 | Chilly Fall |
-| 1368 | 16 | Diane Pinkston Massey |
+| 1365 | 16 | Amanda Jimenez |
+| 1366 | 16 | Patty White |
+| 1367 | 16 | JesseJo |
+| 1368 | 16 | Chilly Fall |
 | 1369 | 16 | Sandy Molina |
-| 1370 | 16 | Elliot |
-| 1371 | 16 | Ashley Shazes |
+| 1370 | 16 | Kaylyn Wickham |
+| 1371 | 16 | Elliot |
 | 1372 | 16 | Sarah Elizabeth Foret |
 | 1373 | 16 | Jeremy Monceaux |
 | 1374 | 16 | Brittany Paul |
 | 1375 | 16 | Jennifer M Mitchell |
 | 1376 | 16 | Ashley Gracelynn Tiner |
-| 1377 | 15 | Haneef Akram |
+| 1377 | 15 | Twisty Patternblock |
 | 1378 | 15 | Lyndzey Sciscoe |
 | 1379 | 15 | Maureen MomtoDolores GeorgeBrian |
-| 1380 | 15 | October Fitch |
-| 1381 | 15 | Julie Vargas |
-| 1382 | 15 | Amlisi |
-| 1383 | 15 | Jennifer Nelson |
-| 1384 | 15 | Tetris |
-| 1385 | 15 | Sharon Wade |
-| 1386 | 15 | Twisty Patternblock |
-| 1387 | 15 | Tipsy Matchgrid |
-| 1388 | 15 | Christine Ann Eras |
-| 1389 | 15 | Rochelle O'Loughlin |
+| 1380 | 15 | Julie Vargas |
+| 1381 | 15 | Amlisi |
+| 1382 | 15 | Jennifer Nelson |
+| 1383 | 15 | Tetris |
+| 1384 | 15 | Sharon Wade |
+| 1385 | 15 | October Fitch |
+| 1386 | 15 | Haneef Akram |
+| 1387 | 15 | Sir Paco |
+| 1388 | 15 | Rochelle O'Loughlin |
+| 1389 | 15 | Christine Ann Eras |
 | 1390 | 15 | Jstang |
-| 1391 | 15 | Sir Paco |
-| 1392 | 15 | Lisa Marie |
-| 1393 | 15 | Nana |
-| 1394 | 15 | Samantha |
-| 1395 | 15 | Jacqueline Leigh Zuzinec |
+| 1391 | 15 | Lisa Marie |
+| 1392 | 15 | Nana |
+| 1393 | 15 | Samantha |
+| 1394 | 15 | Jacqueline Leigh Zuzinec |
+| 1395 | 15 | Tipsy Matchgrid |
 | 1396 | 15 | Amy Hahn Nickels |
 | 1397 | 15 | Bonez |
 | 1398 | 15 | Poppy Slice |
 | 1399 | 15 | Wendy Morrison |
 | 1400 | 15 | sally |
 | 1401 | 14 | John Sewell |
-| 1402 | 14 | TiffTaff |
-| 1403 | 14 | Buffy Diane Blake |
+| 1402 | 14 | Buffy Diane Blake |
+| 1403 | 14 | Angelica Champlin |
 | 1404 | 14 | BlockBreaker |
-| 1405 | 14 | Angelica Champlin |
+| 1405 | 14 | TiffTaff |
 | 1406 | 14 | Joseph Austin Prince |
 | 1407 | 14 | Flex |
-| 1408 | 14 | MiMi’26 |
-| 1409 | 14 | Jodi Deninno |
+| 1408 | 14 | Jodi Deninno |
+| 1409 | 14 | MiMi’26 |
 | 1410 | 14 | Imat Yesmar |
 | 1411 | 14 | Tyler Bates |
 | 1412 | 14 | Anthony Kordich |
-| 1413 | 14 | Michele Choate |
-| 1414 | 14 | Marshall Payne |
-| 1415 | 14 | Toni Tortorici Humphryes |
-| 1416 | 14 | Susan R. Hammons Cunningham |
-| 1417 | 14 | Symmy Norton |
-| 1418 | 14 | Randi Moore |
+| 1413 | 14 | Marshall Payne |
+| 1414 | 14 | Toni Tortorici Humphryes |
+| 1415 | 14 | Susan R. Hammons Cunningham |
+| 1416 | 14 | Symmy Norton |
+| 1417 | 14 | Michele Choate |
+| 1418 | 14 | Beaglemom |
 | 1419 | 14 | Christopher Pulley |
-| 1420 | 14 | Beaglemom |
-| 1421 | 14 | Jennifer Gould |
-| 1422 | 14 | Randy Taylor |
+| 1420 | 14 | Jennifer Gould |
+| 1421 | 14 | Randy Taylor |
+| 1422 | 14 | Randi Moore |
 | 1423 | 14 | Bubbly Risebuilder |
 | 1424 | 13 | Jeannine Murphy |
 | 1425 | 13 | Trena Sapp |
