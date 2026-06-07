@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 09:25:17 UTC
+# Standings for team4 as of 2026-06-07 09:26:18 UTC
 
 **Total Participants:** 1428
 
@@ -321,26 +321,26 @@
 | 313 | 136 | King |
 | 314 | 136 | Slinky Stackzone |
 | 315 | 136 | WeeWooWee |
-| 316 | 136 | Lively Cascadebuilder |
-| 317 | 136 | Susan Stofberg Beltran |
-| 318 | 135 | crobb77 |
-| 319 | 135 | Quiomarie Cotto |
+| 316 | 136 | Susan Stofberg Beltran |
+| 317 | 136 | Lively Cascadebuilder |
+| 318 | 135 | Quiomarie Cotto |
+| 319 | 135 | crobb77 |
 | 320 | 134 | All knowing |
 | 321 | 133 | Shawntae Mccary |
 | 322 | 132 | Blockcrusher |
-| 323 | 131 | Lanelva Tiredofbs Marshall |
-| 324 | 131 | Swanky Snapgrid |
-| 325 | 131 | Dominique Melendez |
-| 326 | 131 | Stasia |
+| 323 | 131 | Dominique Melendez |
+| 324 | 131 | Stasia |
+| 325 | 131 | Lanelva Tiredofbs Marshall |
+| 326 | 131 | Swanky Snapgrid |
 | 327 | 130 | Maurice DeJean |
 | 328 | 130 | Bhakti Sawarkar |
-| 329 | 129 | Shauna Davis |
+| 329 | 129 | Dizzy Slammer |
 | 330 | 129 | Dawn Phelps |
-| 331 | 129 | Dizzy Slammer |
+| 331 | 129 | Shauna Davis |
 | 332 | 129 | Simone |
 | 333 | 128 | Juvon SupaShawdii Brooks |
-| 334 | 128 | Zesty Twistpiece |
-| 335 | 128 | Lana Tran |
+| 334 | 128 | Lana Tran |
+| 335 | 128 | Zesty Twistpiece |
 | 336 | 128 | Sherry Mooney |
 | 337 | 127 | zoes |
 | 338 | 127 | Cheeky Climber |
@@ -348,34 +348,34 @@
 | 340 | 126 | Karen Small |
 | 341 | 126 | Corie A. Brinson |
 | 342 | 124 | Shanna Fragen |
-| 343 | 124 | Tasha Suzanne Prisbrey |
-| 344 | 124 | Bammer |
-| 345 | 122 | Ginny |
-| 346 | 121 | Jeff Margolis |
-| 347 | 121 | Jennifer Fisher Franklin |
+| 343 | 124 | Funky Tiler |
+| 344 | 124 | Tasha Suzanne Prisbrey |
+| 345 | 124 | Bammer |
+| 346 | 122 | Ginny |
+| 347 | 121 | Jeff Margolis |
 | 348 | 121 | Jazzy Gridder |
-| 349 | 121 | TJ |
-| 350 | 120 | Goofy Linkmatch |
-| 351 | 120 | Ada Rodriguez Spradley |
-| 352 | 120 | Holly Wessel |
-| 353 | 120 | Glamorous Gracey |
+| 349 | 121 | Jennifer Fisher Franklin |
+| 350 | 121 | TJ |
+| 351 | 120 | Goofy Linkmatch |
+| 352 | 120 | Ada Rodriguez Spradley |
+| 353 | 120 | Holly Wessel |
 | 354 | 120 | Cool Risepiece |
-| 355 | 120 | Carla Woodard |
-| 356 | 120 | Shiny Brick |
-| 357 | 120 | Joab Gonzalez |
-| 358 | 119 | Maegon Brazille |
-| 359 | 119 | Rae Saunders |
-| 360 | 119 | aga |
-| 361 | 119 | Ashley Jenkins |
-| 362 | 119 | Dennis Montoya |
-| 363 | 118 | Miwa |
+| 355 | 120 | Joab Gonzalez |
+| 356 | 120 | Carla Woodard |
+| 357 | 120 | Shiny Brick |
+| 358 | 120 | Glamorous Gracey |
+| 359 | 119 | Ashley Jenkins |
+| 360 | 119 | Dennis Montoya |
+| 361 | 119 | Maegon Brazille |
+| 362 | 119 | Rae Saunders |
+| 363 | 119 | aga |
 | 364 | 118 | farfromlocal |
-| 365 | 118 | Funky Tiler |
+| 365 | 118 | Miwa |
 | 366 | 118 | Goofy Fall |
 | 367 | 117 | Fancy Tilefall |
 | 368 | 117 | Tyson Stroppel |
-| 369 | 116 | Solace Grace |
-| 370 | 116 | Henry Lanier |
+| 369 | 116 | Henry Lanier |
+| 370 | 116 | Solace Grace |
 | 371 | 116 | Stef |
 | 372 | 116 | Toon Up |
 | 373 | 116 | Samantha Worley |
@@ -987,45 +987,45 @@
 | 979 | 35 | Peachy Grabber |
 | 980 | 35 | Jessica Marie Flores |
 | 981 | 35 | Martha Fisher |
-| 982 | 35 | Loony Dashgrid |
-| 983 | 35 | Stephanie Williams |
-| 984 | 35 | Samantha Brandt |
-| 985 | 35 | Rebecca Renaud |
-| 986 | 35 | mikey moo |
-| 987 | 35 | Saul Fajardo |
-| 988 | 35 | Frisky Pusher |
-| 989 | 35 | KySun |
-| 990 | 35 | Christina Barry |
-| 991 | 35 | Lateasha Wildman |
-| 992 | 34 | Peezy_419 |
-| 993 | 34 | Sunshine Dreamchaser Whitfield |
-| 994 | 34 | Yulissa Diaz |
-| 995 | 34 | Tommy Thomas |
-| 996 | 34 | Sherri Lorent |
-| 997 | 34 | Tana-Marie Lynn McCarty-Rolf |
-| 998 | 34 | Bold Snapper |
-| 999 | 34 | Combo Snappy |
-| 1000 | 33 | Shupurplenurkle |
-| 1001 | 33 | Chris |
+| 982 | 35 | Lush Balanceblock |
+| 983 | 35 | Loony Dashgrid |
+| 984 | 35 | Stephanie Williams |
+| 985 | 35 | Samantha Brandt |
+| 986 | 35 | Rebecca Renaud |
+| 987 | 35 | mikey moo |
+| 988 | 35 | Saul Fajardo |
+| 989 | 35 | Frisky Pusher |
+| 990 | 35 | KySun |
+| 991 | 35 | Christina Barry |
+| 992 | 35 | Lateasha Wildman |
+| 993 | 34 | Peezy_419 |
+| 994 | 34 | Sunshine Dreamchaser Whitfield |
+| 995 | 34 | Yulissa Diaz |
+| 996 | 34 | Tommy Thomas |
+| 997 | 34 | Sherri Lorent |
+| 998 | 34 | Tana-Marie Lynn McCarty-Rolf |
+| 999 | 34 | Bold Snapper |
+| 1000 | 34 | Combo Snappy |
+| 1001 | 33 | Shupurplenurkle |
 | 1002 | 33 | Christopher Ponceja |
-| 1003 | 33 | MsThick SrtLady Williams |
-| 1004 | 33 | Joe Joe |
-| 1005 | 33 | Donna Howard |
-| 1006 | 33 | Chill Snapclear |
-| 1007 | 33 | Melissa Schwager |
-| 1008 | 33 | Tracy Ann Frederick |
-| 1009 | 33 | Mighty Spinfit |
-| 1010 | 32 | Happy Strikerpiece |
-| 1011 | 32 | Hyper Snaplink |
-| 1012 | 32 | Cranky Twisterfit |
-| 1013 | 32 | Ali Nicole |
-| 1014 | 32 | Karr |
-| 1015 | 32 | Rezinbauer Spicer |
-| 1016 | 32 | Boldy Clicky |
-| 1017 | 31 | Groovy Stacker |
-| 1018 | 31 | beTrue76 |
-| 1019 | 31 | Amy Gutierrez |
-| 1020 | 31 | Lush Balanceblock |
+| 1003 | 33 | Chris |
+| 1004 | 33 | MsThick SrtLady Williams |
+| 1005 | 33 | Joe Joe |
+| 1006 | 33 | Donna Howard |
+| 1007 | 33 | Chill Snapclear |
+| 1008 | 33 | Melissa Schwager |
+| 1009 | 33 | Tracy Ann Frederick |
+| 1010 | 33 | Mighty Spinfit |
+| 1011 | 32 | Happy Strikerpiece |
+| 1012 | 32 | Hyper Snaplink |
+| 1013 | 32 | Cranky Twisterfit |
+| 1014 | 32 | Ali Nicole |
+| 1015 | 32 | Karr |
+| 1016 | 32 | Rezinbauer Spicer |
+| 1017 | 32 | Boldy Clicky |
+| 1018 | 31 | Groovy Stacker |
+| 1019 | 31 | beTrue76 |
+| 1020 | 31 | Amy Gutierrez |
 | 1021 | 31 | Kristen Lester |
 | 1022 | 31 | Breezy Blockzone |
 | 1023 | 31 | LaToya LeBlanc |
