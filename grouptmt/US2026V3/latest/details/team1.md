@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 10:46:18 UTC
+# Standings for team1 as of 2026-06-07 10:46:41 UTC
 
 **Total Participants:** 1442
 
@@ -50,8 +50,8 @@
 | 42 | 1242 | Jacoby E Fleming |
 | 43 | 1233 | Cherry Rose |
 | 44 | 1225 | Ashley Espeut |
-| 45 | 1219 | Holly Jolly |
-| 46 | 1201 | Daylene Johannes |
+| 45 | 1221 | Daylene Johannes |
+| 46 | 1219 | Holly Jolly |
 | 47 | 1195 | Tekedra Wilson |
 | 48 | 1140 | JoJo |
 | 49 | 1133 | Jennifer To |
