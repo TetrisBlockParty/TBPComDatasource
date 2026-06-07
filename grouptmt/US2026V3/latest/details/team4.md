@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 20:50:20 UTC
+# Standings for team4 as of 2026-06-07 20:50:42 UTC
 
 **Total Participants:** 1609
 
@@ -74,9 +74,9 @@
 | 66 | 952 | Alala.Cersei |
 | 67 | 950 | Sassy Column |
 | 68 | 949 | Tiffany Loree Tiffany Oneill |
-| 69 | 924 | woopa 716 |
-| 70 | 924 | Sweet Stacker |
-| 71 | 923 | Snippy Grid |
+| 69 | 926 | Snippy Grid |
+| 70 | 924 | woopa 716 |
+| 71 | 924 | Sweet Stacker |
 | 72 | 906 | Hannah Pazar |
 | 73 | 885 | J |
 | 74 | 876 | SMV |
@@ -397,31 +397,31 @@
 | 389 | 148 | Alex Armour |
 | 390 | 147 | Allysha McFarland |
 | 391 | 147 | Ashley Eskridge |
-| 392 | 146 | Jasmine Marie |
-| 393 | 146 | Snippy Racker |
-| 394 | 146 | Chilly Pivot |
-| 395 | 146 | Zesty Twistpiece |
-| 396 | 145 | Stef |
-| 397 | 144 | Bammer |
-| 398 | 144 | Holly Bramel |
-| 399 | 143 | Valerie Silva |
-| 400 | 143 | Jennifer Garcia |
-| 401 | 143 | Brandon Bedenbaugh |
-| 402 | 143 | Brennan Shea Greene |
+| 392 | 146 | TJ |
+| 393 | 146 | Jasmine Marie |
+| 394 | 146 | Snippy Racker |
+| 395 | 146 | Chilly Pivot |
+| 396 | 146 | Zesty Twistpiece |
+| 397 | 145 | Stef |
+| 398 | 144 | Bammer |
+| 399 | 144 | Holly Bramel |
+| 400 | 143 | Valerie Silva |
+| 401 | 143 | Jennifer Garcia |
+| 402 | 143 | Brandon Bedenbaugh |
 | 403 | 143 | Tarsha Thomas-Martinez |
 | 404 | 143 | Alyssa Berg |
-| 405 | 143 | Lively Cascadebuilder |
-| 406 | 142 | Tricia Motika Cowan |
-| 407 | 142 | Chris McBlockster |
-| 408 | 141 | Marcus Chavis |
-| 409 | 141 | Tiffany Morris Garner |
-| 410 | 141 | Ross Bryant |
-| 411 | 141 | Linda Miltenburg |
-| 412 | 141 | TJ |
+| 405 | 143 | Brennan Shea Greene |
+| 406 | 143 | Lively Cascadebuilder |
+| 407 | 142 | Tricia Motika Cowan |
+| 408 | 142 | Chris McBlockster |
+| 409 | 141 | Marcus Chavis |
+| 410 | 141 | Tiffany Morris Garner |
+| 411 | 141 | Ross Bryant |
+| 412 | 141 | Linda Miltenburg |
 | 413 | 141 | Ginny |
 | 414 | 140 | Shia Marie |
-| 415 | 140 | Miss Beast |
-| 416 | 140 | Krista Diaz |
+| 415 | 140 | Krista Diaz |
+| 416 | 140 | Miss Beast |
 | 417 | 140 | Billy Baker |
 | 418 | 140 | JIGsaw ~(•¿°)~ |
 | 419 | 140 | Carla Woodard |
@@ -825,21 +825,21 @@
 | 817 | 63 | Miguel Teixeira |
 | 818 | 63 | Maria Munoz |
 | 819 | 63 | Amber Jalbert |
-| 820 | 63 | ButterfliesRFree |
+| 820 | 63 | Lord Solrac |
 | 821 | 63 | Ashley Ferguson |
-| 822 | 62 | Joshua Franklin |
-| 823 | 62 | ShaniP |
-| 824 | 62 | Leslie Ramos |
-| 825 | 62 | Weird Cat |
-| 826 | 62 | Giggly Gridzone |
-| 827 | 61 | Katherine Stec |
-| 828 | 61 | Danielle Sulano |
+| 822 | 63 | ButterfliesRFree |
+| 823 | 62 | Joshua Franklin |
+| 824 | 62 | ShaniP |
+| 825 | 62 | Leslie Ramos |
+| 826 | 62 | Weird Cat |
+| 827 | 62 | Giggly Gridzone |
+| 828 | 61 | Katherine Stec |
 | 829 | 61 | Charles Chauffe |
 | 830 | 61 | Maicy Darrah |
 | 831 | 61 | Elisha Thompson |
 | 832 | 61 | Joe Win |
-| 833 | 61 | Snappy Fill |
-| 834 | 61 | Lord Solrac |
+| 833 | 61 | Danielle Sulano |
+| 834 | 61 | Snappy Fill |
 | 835 | 61 | Luunii |
 | 836 | 61 | Certified Da Don |
 | 837 | 61 | Kimberly Lusk |

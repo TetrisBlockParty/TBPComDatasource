@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 20:50:20 UTC
+# Standings for team1 as of 2026-06-07 20:50:42 UTC
 
 **Total Participants:** 1576
 
@@ -13,7 +13,7 @@
 | 5 | 8746 | Tyeina Johnson |
 | 6 | 8280 | Songne Arif |
 | 7 | 8158 | Charlie Roehm |
-| 8 | 7668 | Dyane Leah Ware |
+| 8 | 7695 | Dyane Leah Ware |
 | 9 | 7572 | Debbie Carswell |
 | 10 | 7290 | Tracy Cohen |
 | 11 | 7070 | Death by SnuSnu |
@@ -356,14 +356,14 @@
 | 348 | 164 | De'Nell Edwards |
 | 349 | 164 | TBABYJ |
 | 350 | 163 | Daring Blockclear |
-| 351 | 162 | Lauraly |
-| 352 | 162 | Giggy Tower |
-| 353 | 162 | Speedy Stacky |
-| 354 | 162 | JaClanDiah |
-| 355 | 161 | Devron Reedy |
-| 356 | 160 | Adrian Wilson |
-| 357 | 160 | Cynthia Bradley |
-| 358 | 160 | LaToya Chambers |
+| 351 | 163 | LaToya Chambers |
+| 352 | 162 | Lauraly |
+| 353 | 162 | Giggy Tower |
+| 354 | 162 | Speedy Stacky |
+| 355 | 162 | JaClanDiah |
+| 356 | 161 | Devron Reedy |
+| 357 | 160 | Adrian Wilson |
+| 358 | 160 | Cynthia Bradley |
 | 359 | 160 | Tyiesha Pie Farmer |
 | 360 | 160 | Zippy Tilefall |
 | 361 | 160 | Carolyn Smith |
@@ -481,38 +481,38 @@
 | 473 | 121 | Twisty Brickfit |
 | 474 | 121 | Ta'Kaiyah M. Spann |
 | 475 | 121 | Tiana Monique |
-| 476 | 120 | Giggy Edgefit |
-| 477 | 120 | Zappy Snapgrid |
-| 478 | 120 | Teri Marie Clayton |
-| 479 | 120 | Leavon Smith |
-| 480 | 120 | Brenda Malachi-butler |
-| 481 | 120 | Kp |
-| 482 | 119 | Lexx Robins |
-| 483 | 119 | Jenni Hardman |
+| 476 | 120 | Kp |
+| 477 | 120 | Giggy Edgefit |
+| 478 | 120 | Zappy Snapgrid |
+| 479 | 120 | Brenda Malachi-butler |
+| 480 | 120 | Leavon Smith |
+| 481 | 120 | Teri Marie Clayton |
+| 482 | 119 | Jenni Hardman |
+| 483 | 119 | Lexx Robins |
 | 484 | 119 | Lozuna |
 | 485 | 118 | Kala Miller |
 | 486 | 118 | Amanda Woodruff |
 | 487 | 118 | Kimberly Susan Privette |
 | 488 | 118 | Hasty Pivoty |
 | 489 | 118 | Rhianna Dinki Austin |
-| 490 | 117 | BB |
-| 491 | 117 | Mahagony Small |
-| 492 | 117 | Joana Thompson |
-| 493 | 117 | Jimmy Shannon |
-| 494 | 117 | Andrew Jay Vaughn |
-| 495 | 116 | Yadira Salgado |
-| 496 | 116 | Kimberly Anderson |
-| 497 | 116 | Jackytrain52 |
-| 498 | 116 | Jess |
-| 499 | 115 | Zany Breaker |
-| 500 | 115 | wmedina67 |
-| 501 | 114 | LAhoneybun82 |
-| 502 | 114 | Cranky Fall |
+| 490 | 118 | Pretty Yella |
+| 491 | 117 | BB |
+| 492 | 117 | Mahagony Small |
+| 493 | 117 | Joana Thompson |
+| 494 | 117 | Jimmy Shannon |
+| 495 | 117 | Andrew Jay Vaughn |
+| 496 | 116 | Yadira Salgado |
+| 497 | 116 | Kimberly Anderson |
+| 498 | 116 | Jackytrain52 |
+| 499 | 116 | Jess |
+| 500 | 115 | Zany Breaker |
+| 501 | 115 | wmedina67 |
+| 502 | 114 | LAhoneybun82 |
 | 503 | 114 | Jes Marie |
-| 504 | 113 | Lilly Brown |
-| 505 | 112 | DirtiestofMikes |
-| 506 | 112 | GamerQueenDS |
-| 507 | 112 | Pretty Yella |
+| 504 | 114 | Cranky Fall |
+| 505 | 113 | Lilly Brown |
+| 506 | 112 | DirtiestofMikes |
+| 507 | 112 | GamerQueenDS |
 | 508 | 112 | Jennah |
 | 509 | 112 | Nyhlah Patterson |
 | 510 | 111 | Happy Blockpiece |
