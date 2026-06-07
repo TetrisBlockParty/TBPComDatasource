@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 20:48:19 UTC
+# Standings for team2 as of 2026-06-07 20:48:40 UTC
 
 **Total Participants:** 1895
 
@@ -162,15 +162,15 @@
 | 154 | 505 | Judy Long |
 | 155 | 502 | Theresa Marie |
 | 156 | 495 | Samantha Carman |
-| 157 | 488 | Zarah Kettler |
-| 158 | 488 | MarioKarasovic |
+| 157 | 488 | MarioKarasovic |
+| 158 | 488 | Zarah Kettler |
 | 159 | 486 | Cool Balancer |
 | 160 | 484 | Steven Craig |
 | 161 | 483 | Karen Reid Cenkush |
-| 162 | 477 | Amy Gale |
-| 163 | 474 | Bubbly Strikerpiece |
-| 164 | 462 | Kaycie Shaffer |
-| 165 | 461 | Nova Nova |
+| 162 | 480 | Nova Nova |
+| 163 | 477 | Amy Gale |
+| 164 | 474 | Bubbly Strikerpiece |
+| 165 | 462 | Kaycie Shaffer |
 | 166 | 453 | Kimberly Cowan |
 | 167 | 448 | Eric Drane |
 | 168 | 444 | Ashley Green |
