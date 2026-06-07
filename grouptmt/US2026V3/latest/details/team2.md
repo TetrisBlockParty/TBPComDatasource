@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 08:44:41 UTC
+# Standings for team2 as of 2026-06-07 08:45:19 UTC
 
 **Total Participants:** 1685
 
@@ -279,25 +279,25 @@
 | 271 | 206 | Jodi Johnson |
 | 272 | 205 | Melisa |
 | 273 | 205 | Karly Moore |
-| 274 | 201 | Anthony Swift |
-| 275 | 201 | Melissa Nash |
-| 276 | 201 | Danielle Pack Lewellen |
-| 277 | 201 | Jeffrey Smith |
-| 278 | 200 | Al Smith Jr |
-| 279 | 200 | Eric Wayne Maschman |
-| 280 | 200 | Tony Medina |
-| 281 | 200 | Sarah Grundisch |
+| 274 | 202 | Joanna Trevin Thompson |
+| 275 | 201 | Anthony Swift |
+| 276 | 201 | Melissa Nash |
+| 277 | 201 | Danielle Pack Lewellen |
+| 278 | 201 | Jeffrey Smith |
+| 279 | 200 | Al Smith Jr |
+| 280 | 200 | Eric Wayne Maschman |
+| 281 | 200 | Tony Medina |
 | 282 | 200 | Physhie |
 | 283 | 200 | ShiverMeSplinter |
 | 284 | 200 | Precious Womack |
 | 285 | 200 | August Christy Lathrop |
 | 286 | 200 | Nathan Walker |
-| 287 | 198 | Amy Taylor Pomerenk |
-| 288 | 198 | Joanna Trevin Thompson |
+| 287 | 200 | Sarah Grundisch |
+| 288 | 198 | Amy Taylor Pomerenk |
 | 289 | 196 | Greenie |
-| 290 | 195 | Pamela Raye |
-| 291 | 195 | Bb |
-| 292 | 195 | Laverne Ellis Blair |
+| 290 | 195 | Laverne Ellis Blair |
+| 291 | 195 | Pamela Raye |
+| 292 | 195 | Bb |
 | 293 | 192 | Greta Warden |
 | 294 | 192 | Jill Goff |
 | 295 | 191 | Jessica Christine |

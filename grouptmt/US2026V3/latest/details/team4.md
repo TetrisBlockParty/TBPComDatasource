@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 08:44:41 UTC
+# Standings for team4 as of 2026-06-07 08:45:19 UTC
 
 **Total Participants:** 1419
 
@@ -51,7 +51,7 @@
 | 43 | 1380 | Jennifer Edgell Richardson |
 | 44 | 1360 | Cal Renee |
 | 45 | 1357 | 626 |
-| 46 | 1338 | Victoria Ver |
+| 46 | 1339 | Victoria Ver |
 | 47 | 1249 | Charlie Lewis |
 | 48 | 1200 | Caitlin Johnson |
 | 49 | 1128 | MysticMaven |
@@ -215,7 +215,7 @@
 | 207 | 220 | blockhead |
 | 208 | 218 | Lori Stembridge |
 | 209 | 215 | Jj Johnson |
-| 210 | 212 | Maria Castillo |
+| 210 | 214 | Maria Castillo |
 | 211 | 211 | Goofy Riser |
 | 212 | 211 | Pepone Pepe |
 | 213 | 211 | Renee Sapp |
