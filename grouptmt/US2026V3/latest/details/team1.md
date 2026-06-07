@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 18:38:41 UTC
+# Standings for team1 as of 2026-06-07 18:39:19 UTC
 
 **Total Participants:** 1537
 
@@ -943,25 +943,25 @@
 | 935 | 45 | Antoinette Kidd |
 | 936 | 45 | Beautiful314 |
 | 937 | 45 | Tia Hazelton |
-| 938 | 45 | Lawreniesha Burkley |
+| 938 | 45 | Sarah Jones |
 | 939 | 45 | GetDaOPPS |
 | 940 | 45 | Cali Lee |
 | 941 | 45 | Mumitt |
 | 942 | 45 | Skye |
 | 943 | 45 | Jason A Giantonio |
 | 944 | 45 | WReckitraff |
-| 945 | 45 | Y3llOWFAC3 |
-| 946 | 45 | Frothy Zoney |
-| 947 | 45 | Meshia |
-| 948 | 45 | Heather Cross-Davis |
-| 949 | 45 | Amanda Colwell |
-| 950 | 45 | Brave Balanceblock |
-| 951 | 45 | Sarah Jones |
-| 952 | 44 | Mark Steven Pichler |
-| 953 | 44 | Nic Nic |
-| 954 | 44 | Ducc2408 |
-| 955 | 44 | Ivan Israel |
-| 956 | 44 | Melanie Houghton-McCann |
+| 945 | 45 | Melanie Houghton-McCann |
+| 946 | 45 | Lawreniesha Burkley |
+| 947 | 45 | Y3llOWFAC3 |
+| 948 | 45 | Frothy Zoney |
+| 949 | 45 | Meshia |
+| 950 | 45 | Heather Cross-Davis |
+| 951 | 45 | Amanda Colwell |
+| 952 | 45 | Brave Balanceblock |
+| 953 | 44 | Ivan Israel |
+| 954 | 44 | Nic Nic |
+| 955 | 44 | Ducc2408 |
+| 956 | 44 | Mark Steven Pichler |
 | 957 | 44 | Candy Lee |
 | 958 | 44 | Tez Mays |
 | 959 | 44 | Connor Leon Cluff |
