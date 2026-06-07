@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 10:48:40 UTC
+# Standings for team4 as of 2026-06-07 10:49:18 UTC
 
 **Total Participants:** 1444
 
@@ -13,8 +13,8 @@
 | 5 | 7429 | ktothet |
 | 6 | 5469 | Kait Confetti |
 | 7 | 5300 | Candice Driver |
-| 8 | 5082 | Jerald Jones |
-| 9 | 4901 | BertaF1irta |
+| 8 | 5201 | BertaF1irta |
+| 9 | 5082 | Jerald Jones |
 | 10 | 4772 | Anna Moses |
 | 11 | 4540 | delilahbelle |
 | 12 | 4323 | Nia Mayfield |
@@ -132,13 +132,13 @@
 | 124 | 415 | Chuck Gannon |
 | 125 | 414 | Gigglycat |
 | 126 | 412 | Real Talk Vibes |
-| 127 | 406 | Kelley Roach |
-| 128 | 400 | DexterDobbins |
-| 129 | 400 | Amber Doyle |
-| 130 | 400 | Nicole Peoples |
-| 131 | 398 | Futrell Brent |
-| 132 | 396 | Jason Garnatz |
-| 133 | 396 | Jackie Jackson |
+| 127 | 408 | Futrell Brent |
+| 128 | 406 | Kelley Roach |
+| 129 | 400 | DexterDobbins |
+| 130 | 400 | Amber Doyle |
+| 131 | 400 | Nicole Peoples |
+| 132 | 396 | Jackie Jackson |
+| 133 | 396 | Jason Garnatz |
 | 134 | 394 | Kim |
 | 135 | 388 | Hen |
 | 136 | 380 | Becky Doll-Hall |
