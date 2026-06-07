@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 10:58:39 UTC
+# Standings for team1 as of 2026-06-07 10:59:19 UTC
 
 **Total Participants:** 1443
 
@@ -60,8 +60,8 @@
 | 52 | 1052 | Shortstak |
 | 53 | 1046 | Spicy Balancer |
 | 54 | 1024 | Chill Clusterer |
-| 55 | 998 | Angela R Wilson |
-| 56 | 992 | D'Andra Stewart |
+| 55 | 1022 | D'Andra Stewart |
+| 56 | 998 | Angela R Wilson |
 | 57 | 970 | Danielle DeLozier Plesec |
 | 58 | 961 | Sanjuro |
 | 59 | 943 | Kkbk |
@@ -385,32 +385,32 @@
 | 377 | 123 | Rachael Bakowicz Edwards |
 | 378 | 123 | Cauiasia DeJ'ae |
 | 379 | 122 | Xana Zania Bopp |
-| 380 | 122 | Yashica Smith |
-| 381 | 121 | Tee Spinks |
-| 382 | 121 | Tiana Monique |
-| 383 | 120 | Katrina Ramey |
-| 384 | 120 | Teri Marie Clayton |
-| 385 | 120 | Daddy |
-| 386 | 120 | Tanya Clayton |
-| 387 | 119 | Lexx Robins |
-| 388 | 119 | Kelvin Cook |
-| 389 | 119 | Tamara Johnson-Carter |
-| 390 | 118 | Hasty Pivoty |
-| 391 | 118 | izzybella |
-| 392 | 117 | MonaSparks |
-| 393 | 117 | Choc |
+| 380 | 122 | Choc |
+| 381 | 122 | Yashica Smith |
+| 382 | 121 | Tee Spinks |
+| 383 | 121 | Tiana Monique |
+| 384 | 120 | Katrina Ramey |
+| 385 | 120 | Teri Marie Clayton |
+| 386 | 120 | Daddy |
+| 387 | 120 | Tanya Clayton |
+| 388 | 119 | Lexx Robins |
+| 389 | 119 | Kelvin Cook |
+| 390 | 119 | Tamara Johnson-Carter |
+| 391 | 118 | Hasty Pivoty |
+| 392 | 118 | izzybella |
+| 393 | 117 | MonaSparks |
 | 394 | 116 | Shalya Terry |
 | 395 | 116 | Douglas Price |
 | 396 | 115 | wmedina67 |
 | 397 | 115 | Ashleyy Netchert |
 | 398 | 115 | BabyCakes |
-| 399 | 114 | LAhoneybun82 |
-| 400 | 114 | Nina Davis |
-| 401 | 114 | Faith Armone |
+| 399 | 114 | Nina Davis |
+| 400 | 114 | Faith Armone |
+| 401 | 114 | LAhoneybun82 |
 | 402 | 113 | Shakuria Cortia Burney |
-| 403 | 112 | Jennah |
-| 404 | 112 | GamerQueenDS |
-| 405 | 112 | Nyhlah Patterson |
+| 403 | 112 | Nyhlah Patterson |
+| 404 | 112 | Jennah |
+| 405 | 112 | GamerQueenDS |
 | 406 | 111 | Daring Blockclear |
 | 407 | 111 | Ad Doctor |
 | 408 | 110 | Nisha Sunshine Jenkins |

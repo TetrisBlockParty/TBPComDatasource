@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 10:58:39 UTC
+# Standings for team2 as of 2026-06-07 10:59:19 UTC
 
 **Total Participants:** 1702
 
@@ -69,7 +69,7 @@
 | 61 | 1192 | Angie Mccain |
 | 62 | 1148 | Nerdy Climber |
 | 63 | 1114 | Giddy Slamdrop |
-| 64 | 1071 | Nawang Nawang |
+| 64 | 1081 | Nawang Nawang |
 | 65 | 1070 | Michelle Maulsby |
 | 66 | 1053 | Kvothe |
 | 67 | 1032 | AcardBoardBox |
@@ -77,8 +77,8 @@
 | 69 | 1020 | Ruby Sandberg |
 | 70 | 986 | Criccett Hooper-Smith |
 | 71 | 984 | Dane Marko |
-| 72 | 971 | Debra Henry |
-| 73 | 953 | Mikki Torres |
+| 72 | 973 | Mikki Torres |
+| 73 | 971 | Debra Henry |
 | 74 | 921 | Block Dog |
 | 75 | 913 | Amber Salazar |
 | 76 | 899 | Marie Luciano |
@@ -183,9 +183,9 @@
 | 175 | 336 | Jef Wassom |
 | 176 | 333 | Christina Maria |
 | 177 | 332 | Nikki Hayes |
-| 178 | 328 | Tim Tim |
-| 179 | 328 | Keri Mears |
-| 180 | 326 | Ratchet |
+| 178 | 332 | Ratchet |
+| 179 | 328 | Tim Tim |
+| 180 | 328 | Keri Mears |
 | 181 | 325 | Flashy Twistline |
 | 182 | 325 | Fudgie Pie |
 | 183 | 323 | Shannon Wilson |
@@ -261,12 +261,12 @@
 | 253 | 228 | Lora Via |
 | 254 | 227 | Laura Melton |
 | 255 | 225 | Jenny |
-| 256 | 225 | Cheery Towerzone |
-| 257 | 224 | Olivia Jefferson |
-| 258 | 224 | Kathleen Keogh Van Schoyck |
-| 259 | 223 | SilentBuffalo |
-| 260 | 221 | Bianca Woodruff |
-| 261 | 221 | Theresa Huddleston |
+| 256 | 225 | Theresa Huddleston |
+| 257 | 225 | Cheery Towerzone |
+| 258 | 224 | Olivia Jefferson |
+| 259 | 224 | Kathleen Keogh Van Schoyck |
+| 260 | 223 | SilentBuffalo |
+| 261 | 221 | Bianca Woodruff |
 | 262 | 220 | Flashy Basegrid |
 | 263 | 219 | Stella |
 | 264 | 219 | Cathy Tippett |
@@ -325,22 +325,22 @@
 | 317 | 178 | Kelly Rogers |
 | 318 | 177 | Jennifer McClure |
 | 319 | 177 | Rick |
-| 320 | 176 | Kim Hunt |
-| 321 | 175 | Flashy Hitter |
-| 322 | 175 | Lashanda Bertram |
-| 323 | 175 | Tina Marie |
-| 324 | 175 | Michelle M Braley |
-| 325 | 175 | Amanda Bottorff |
-| 326 | 175 | Epic Tilemaker |
-| 327 | 174 | ZBee |
+| 320 | 176 | Vicki Flippo |
+| 321 | 176 | Kim Hunt |
+| 322 | 175 | Flashy Hitter |
+| 323 | 175 | Lashanda Bertram |
+| 324 | 175 | Tina Marie |
+| 325 | 175 | Michelle M Braley |
+| 326 | 175 | Amanda Bottorff |
+| 327 | 175 | Epic Tilemaker |
 | 328 | 174 | Rocroc mo |
-| 329 | 174 | Jerry L Morales |
-| 330 | 172 | Victoria Pale |
-| 331 | 172 | Mikia Stokes |
-| 332 | 172 | Carolyn McNaughton |
-| 333 | 170 | Bengy Lead |
-| 334 | 170 | Harper |
-| 335 | 170 | Vicki Flippo |
+| 329 | 174 | ZBee |
+| 330 | 174 | Jerry L Morales |
+| 331 | 172 | Victoria Pale |
+| 332 | 172 | Mikia Stokes |
+| 333 | 172 | Carolyn McNaughton |
+| 334 | 170 | Bengy Lead |
+| 335 | 170 | Harper |
 | 336 | 169 | Angie Bishop |
 | 337 | 169 | Derrick |
 | 338 | 168 | Spicy Risegrid |
@@ -399,47 +399,47 @@
 | 391 | 142 | Spunky Cascadeclear |
 | 392 | 141 | Loopy Tower |
 | 393 | 141 | Jacquelyn Snyder Dumas |
-| 394 | 140 | Sharon L Brazelton |
-| 395 | 139 | Charles E Mccardell |
-| 396 | 139 | rebel4lyfe |
-| 397 | 139 | Gabrielle Wilson |
+| 394 | 140 | Starvinmarvin |
+| 395 | 140 | Sharon L Brazelton |
+| 396 | 139 | Charles E Mccardell |
+| 397 | 139 | rebel4lyfe |
 | 398 | 139 | andee |
-| 399 | 138 | James Sayers |
-| 400 | 138 | Amber Smith |
-| 401 | 138 | Melissa Fink |
-| 402 | 138 | NickandJess Reynolds |
-| 403 | 137 | Ashley Voelz |
-| 404 | 137 | Sandra Belk |
-| 405 | 136 | Mtnblzr |
+| 399 | 139 | Gabrielle Wilson |
+| 400 | 138 | James Sayers |
+| 401 | 138 | NickandJess Reynolds |
+| 402 | 138 | Melissa Fink |
+| 403 | 138 | Amber Smith |
+| 404 | 137 | Ashley Voelz |
+| 405 | 137 | Sandra Belk |
 | 406 | 136 | Jumpy Dashpiece |
 | 407 | 136 | Lauren Maxwell |
-| 408 | 135 | Naomi Walker |
-| 409 | 133 | Angela Hogan |
-| 410 | 133 | Tara |
-| 411 | 132 | Ava Speedy |
-| 412 | 132 | Raine |
+| 408 | 136 | Mtnblzr |
+| 409 | 135 | Naomi Walker |
+| 410 | 133 | Angela Hogan |
+| 411 | 133 | Tara |
+| 412 | 132 | Ava Speedy |
 | 413 | 132 | Reign Hustler |
-| 414 | 131 | MamaRachel |
-| 415 | 131 | Teresa Mandich |
-| 416 | 131 | Heather Billodeau |
-| 417 | 130 | Starvinmarvin |
+| 414 | 132 | Raine |
+| 415 | 131 | Heather Billodeau |
+| 416 | 131 | MamaRachel |
+| 417 | 131 | Teresa Mandich |
 | 418 | 130 | Jenn |
-| 419 | 130 | Charity Hauser |
-| 420 | 130 | Cristi Doris |
-| 421 | 130 | Jumpy Matchbuilder |
-| 422 | 130 | Gwendolyn Boykin Mobbs |
+| 419 | 130 | Jumpy Matchbuilder |
+| 420 | 130 | Gwendolyn Boykin Mobbs |
+| 421 | 130 | Charity Hauser |
+| 422 | 130 | Cristi Doris |
 | 423 | 129 | Perii Reynoso |
 | 424 | 129 | Kristi K Milner |
-| 425 | 129 | Nikki Hatch |
-| 426 | 129 | Jackie Walker |
-| 427 | 129 | Sandy Justus |
-| 428 | 129 | Belle |
-| 429 | 129 | Armando Sabedra |
+| 425 | 129 | Sandy Justus |
+| 426 | 129 | Armando Sabedra |
+| 427 | 129 | Belle |
+| 428 | 129 | Nikki Hatch |
+| 429 | 129 | Jackie Walker |
 | 430 | 128 | rageking |
-| 431 | 127 | Stephanie |
-| 432 | 127 | Tina |
-| 433 | 127 | Nicky Steigerwalt |
-| 434 | 127 | TetrisMama |
+| 431 | 127 | Nicky Steigerwalt |
+| 432 | 127 | TetrisMama |
+| 433 | 127 | Stephanie |
+| 434 | 127 | Tina |
 | 435 | 127 | Aurora June Brock |
 | 436 | 127 | Tammy Roth |
 | 437 | 126 | Tamtam |
