@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 10:18:18 UTC
+# Standings for team4 as of 2026-06-07 10:18:39 UTC
 
 **Total Participants:** 1441
 
@@ -148,13 +148,13 @@
 | 140 | 374 | Daryn Elliott |
 | 141 | 373 | Tanita Jobe |
 | 142 | 371 | Snappy Fitzone |
-| 143 | 359 | BCO22 |
-| 144 | 358 | Joyce Myers |
-| 145 | 350 | RotatedWrongAgain |
-| 146 | 350 | 2 kool |
-| 147 | 346 | Alexis Cor |
-| 148 | 343 | Cinta Marie |
-| 149 | 340 | Futrell Brent |
+| 143 | 363 | Futrell Brent |
+| 144 | 359 | BCO22 |
+| 145 | 358 | Joyce Myers |
+| 146 | 350 | RotatedWrongAgain |
+| 147 | 350 | 2 kool |
+| 148 | 346 | Alexis Cor |
+| 149 | 343 | Cinta Marie |
 | 150 | 340 | Taz |
 | 151 | 340 | MomyLiz |
 | 152 | 335 | Andrew Dang |

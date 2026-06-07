@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-07 10:18:18 UTC
+# Standings for team3 as of 2026-06-07 10:18:39 UTC
 
 **Total Participants:** 5419
 
@@ -299,27 +299,27 @@
 | 291 | 763 | Tish Machado |
 | 292 | 760 | Jennifer Gartland |
 | 293 | 751 | RGB |
-| 294 | 748 | Lady Glencoe |
-| 295 | 747 | Darma Andino |
-| 296 | 745 | Bob Stonbely |
-| 297 | 742 | Heather Lee |
-| 298 | 738 | BlackSkies13 |
-| 299 | 732 | Anni Leslie |
-| 300 | 730 | Jamie |
-| 301 | 730 | Matt Berry |
-| 302 | 728 | Witty Twisterfit |
+| 294 | 748 | Witty Twisterfit |
+| 295 | 748 | Lady Glencoe |
+| 296 | 747 | Darma Andino |
+| 297 | 745 | Bob Stonbely |
+| 298 | 742 | Heather Lee |
+| 299 | 738 | BlackSkies13 |
+| 300 | 732 | Anni Leslie |
+| 301 | 730 | Jamie |
+| 302 | 730 | Matt Berry |
 | 303 | 728 | Jolly Holder |
 | 304 | 724 | LokTeag |
-| 305 | 709 | Soddy |
-| 306 | 708 | Stephanie Olson |
-| 307 | 702 | Tracy Wise Moon |
-| 308 | 689 | BillsMafia |
-| 309 | 686 | Danyel Jade Spencer |
-| 310 | 681 | Kimberly Cupp Nolan |
-| 311 | 680 | Daring Spinfit |
-| 312 | 680 | Kanisha Goldsmith |
-| 313 | 676 | Kirby Lilbit McNeal |
-| 314 | 672 | Chris Pezner |
+| 305 | 712 | Chris Pezner |
+| 306 | 709 | Soddy |
+| 307 | 708 | Stephanie Olson |
+| 308 | 702 | Tracy Wise Moon |
+| 309 | 689 | BillsMafia |
+| 310 | 686 | Danyel Jade Spencer |
+| 311 | 681 | Kimberly Cupp Nolan |
+| 312 | 680 | Daring Spinfit |
+| 313 | 680 | Kanisha Goldsmith |
+| 314 | 676 | Kirby Lilbit McNeal |
 | 315 | 671 | Southpaw |
 | 316 | 671 | Kim Barnes |
 | 317 | 670 | Amanda Watley |
@@ -338,8 +338,8 @@
 | 330 | 648 | Kate Noel |
 | 331 | 645 | Amanda Barnes |
 | 332 | 644 | Pamela Herring |
-| 333 | 639 | Tori Davies |
-| 334 | 639 | Sarah Arndell Phelps |
+| 333 | 639 | Sarah Arndell Phelps |
+| 334 | 639 | Tori Davies |
 | 335 | 637 | Jessica Anne Tigner |
 | 336 | 637 | McLeod Shana |
 | 337 | 636 | Samantha Hunt Bantum |
@@ -667,14 +667,14 @@
 | 659 | 280 | Gothbtterfly |
 | 660 | 280 | Lush Builderline |
 | 661 | 279 | Edd13 |
-| 662 | 278 | MamaDukes |
-| 663 | 278 | Twisty Curvetile |
-| 664 | 277 | Jessica Rocha |
-| 665 | 277 | Demitri Smith |
-| 666 | 276 | Chris Tina |
-| 667 | 276 | Kristi R. Beller |
-| 668 | 275 | Wendy Dodge |
-| 669 | 275 | Jamie Nicole Martin |
+| 662 | 279 | Jamie Nicole Martin |
+| 663 | 278 | MamaDukes |
+| 664 | 278 | Twisty Curvetile |
+| 665 | 277 | Jessica Rocha |
+| 666 | 277 | Demitri Smith |
+| 667 | 276 | Chris Tina |
+| 668 | 276 | Kristi R. Beller |
+| 669 | 275 | Wendy Dodge |
 | 670 | 274 | BBLLOP |
 | 671 | 273 | Sally Edwards |
 | 672 | 273 | Spinner44 |
@@ -4130,89 +4130,89 @@
 | 4122 | 26 | Steven Jones |
 | 4123 | 26 | Collette Ann Duckwall |
 | 4124 | 26 | Giggy Clicky |
-| 4125 | 26 | Lisa Marie Repici |
-| 4126 | 26 | Larry Flenoy |
-| 4127 | 26 | Dandy Shatterbuilder |
-| 4128 | 26 | Deanna Echols |
+| 4125 | 26 | anyaisbananas |
+| 4126 | 26 | Lisa Marie Repici |
+| 4127 | 26 | Larry Flenoy |
+| 4128 | 26 | Dandy Shatterbuilder |
 | 4129 | 26 | Job Orenge |
 | 4130 | 26 | Sean Green |
 | 4131 | 26 | Mindy Jacobs |
-| 4132 | 26 | Akil JShawn-Allah |
-| 4133 | 26 | Julie Whyte |
-| 4134 | 26 | Snappy Balancepiece |
-| 4135 | 26 | Stephen Kyle Bingham |
-| 4136 | 26 | Lillian Gough |
-| 4137 | 26 | Heatherly |
-| 4138 | 26 | Xavier Servin |
-| 4139 | 26 | arthur |
-| 4140 | 26 | Speedy Fallzone |
-| 4141 | 26 | Kim Gift Jacobson |
-| 4142 | 26 | Bold Stacker |
-| 4143 | 26 | Kristy Love |
-| 4144 | 26 | Melissa Marie |
-| 4145 | 26 | Patrice Wagener Gimenez |
-| 4146 | 26 | Gerti |
-| 4147 | 25 | staciw42 |
-| 4148 | 25 | Frilly Wipeblock |
-| 4149 | 25 | Punkin11427 |
-| 4150 | 25 | Geoff Clevenger |
-| 4151 | 25 | Trashbag |
-| 4152 | 25 | Maybe Fab |
-| 4153 | 25 | Maggie Moo |
-| 4154 | 25 | Craig Kichar |
-| 4155 | 25 | Rocky San Miguel |
-| 4156 | 25 | Lisa Marie Harrison |
-| 4157 | 25 | Molly Turley |
-| 4158 | 25 | NLMB |
-| 4159 | 25 | Nubs |
-| 4160 | 25 | Matthew Foley |
-| 4161 | 25 | Jose Rosado |
-| 4162 | 25 | Jen Delaney Buchanan |
-| 4163 | 25 | Aly Aly |
-| 4164 | 25 | Anette Wakefield |
-| 4165 | 25 | Jstafool |
-| 4166 | 25 | Poppy Wobbler |
-| 4167 | 25 | Pam Shepley |
-| 4168 | 25 | Elizabeth Olvera |
-| 4169 | 25 | Throneberry |
-| 4170 | 25 | Bee Tyson |
-| 4171 | 25 | Spicy Tiger |
-| 4172 | 25 | Giggly Splitter |
-| 4173 | 25 | Brett Frasier |
-| 4174 | 25 | Shiny Slider |
-| 4175 | 25 | Danielle Franco |
-| 4176 | 25 | ErsieD |
-| 4177 | 25 | Zappy Brickroll |
-| 4178 | 25 | Cathleen Taylor |
-| 4179 | 25 | Clint Tasso |
-| 4180 | 25 | Rebecca Ann Vazquez-Lozano |
-| 4181 | 25 | Lenora |
-| 4182 | 25 | Heather Webb |
-| 4183 | 25 | Wazz000 |
-| 4184 | 25 | Hasty Fill |
-| 4185 | 25 | phrmblk24 |
-| 4186 | 25 | Sara Alvarado |
-| 4187 | 25 | OscarTheCouch |
-| 4188 | 25 | Baretta Scott |
-| 4189 | 25 | Tanganyika Morley |
-| 4190 | 25 | Teri Red Dobbs |
-| 4191 | 25 | Peppy Fitline |
-| 4192 | 25 | Jake Ellis |
-| 4193 | 25 | OC EA NE |
-| 4194 | 25 | Flashy Clusterline |
-| 4195 | 25 | Brook Pullam |
-| 4196 | 25 | Javari Green |
-| 4197 | 25 | Madison Gray |
-| 4198 | 25 | Nathan W |
-| 4199 | 25 | Nay Bossin |
-| 4200 | 25 | Weesa1 |
-| 4201 | 25 | Maureen O'Regan |
-| 4202 | 25 | Heather Cummings |
-| 4203 | 25 | suzyQ |
-| 4204 | 25 | AshWiggs89 |
-| 4205 | 25 | fatmatt(minime) |
-| 4206 | 25 | Elishiablackheart Woodard |
-| 4207 | 25 | anyaisbananas |
+| 4132 | 26 | Deanna Echols |
+| 4133 | 26 | Akil JShawn-Allah |
+| 4134 | 26 | Julie Whyte |
+| 4135 | 26 | Snappy Balancepiece |
+| 4136 | 26 | Stephen Kyle Bingham |
+| 4137 | 26 | Lillian Gough |
+| 4138 | 26 | Heatherly |
+| 4139 | 26 | Xavier Servin |
+| 4140 | 26 | arthur |
+| 4141 | 26 | Speedy Fallzone |
+| 4142 | 26 | Kim Gift Jacobson |
+| 4143 | 26 | Bold Stacker |
+| 4144 | 26 | Kristy Love |
+| 4145 | 26 | Melissa Marie |
+| 4146 | 26 | Patrice Wagener Gimenez |
+| 4147 | 26 | Gerti |
+| 4148 | 25 | staciw42 |
+| 4149 | 25 | Frilly Wipeblock |
+| 4150 | 25 | Punkin11427 |
+| 4151 | 25 | Geoff Clevenger |
+| 4152 | 25 | Trashbag |
+| 4153 | 25 | Maybe Fab |
+| 4154 | 25 | Maggie Moo |
+| 4155 | 25 | Craig Kichar |
+| 4156 | 25 | Rocky San Miguel |
+| 4157 | 25 | Lisa Marie Harrison |
+| 4158 | 25 | Molly Turley |
+| 4159 | 25 | NLMB |
+| 4160 | 25 | Nubs |
+| 4161 | 25 | Matthew Foley |
+| 4162 | 25 | Jose Rosado |
+| 4163 | 25 | Jen Delaney Buchanan |
+| 4164 | 25 | Aly Aly |
+| 4165 | 25 | Anette Wakefield |
+| 4166 | 25 | Jstafool |
+| 4167 | 25 | Poppy Wobbler |
+| 4168 | 25 | Pam Shepley |
+| 4169 | 25 | Elizabeth Olvera |
+| 4170 | 25 | Throneberry |
+| 4171 | 25 | Bee Tyson |
+| 4172 | 25 | Spicy Tiger |
+| 4173 | 25 | Giggly Splitter |
+| 4174 | 25 | Brett Frasier |
+| 4175 | 25 | Shiny Slider |
+| 4176 | 25 | Danielle Franco |
+| 4177 | 25 | ErsieD |
+| 4178 | 25 | Zappy Brickroll |
+| 4179 | 25 | Cathleen Taylor |
+| 4180 | 25 | Clint Tasso |
+| 4181 | 25 | Rebecca Ann Vazquez-Lozano |
+| 4182 | 25 | Lenora |
+| 4183 | 25 | Heather Webb |
+| 4184 | 25 | Wazz000 |
+| 4185 | 25 | Hasty Fill |
+| 4186 | 25 | phrmblk24 |
+| 4187 | 25 | Sara Alvarado |
+| 4188 | 25 | OscarTheCouch |
+| 4189 | 25 | Baretta Scott |
+| 4190 | 25 | Tanganyika Morley |
+| 4191 | 25 | Teri Red Dobbs |
+| 4192 | 25 | Peppy Fitline |
+| 4193 | 25 | Jake Ellis |
+| 4194 | 25 | OC EA NE |
+| 4195 | 25 | Flashy Clusterline |
+| 4196 | 25 | Brook Pullam |
+| 4197 | 25 | Javari Green |
+| 4198 | 25 | Madison Gray |
+| 4199 | 25 | Nathan W |
+| 4200 | 25 | Nay Bossin |
+| 4201 | 25 | Weesa1 |
+| 4202 | 25 | Maureen O'Regan |
+| 4203 | 25 | Heather Cummings |
+| 4204 | 25 | suzyQ |
+| 4205 | 25 | AshWiggs89 |
+| 4206 | 25 | fatmatt(minime) |
+| 4207 | 25 | Elishiablackheart Woodard |
 | 4208 | 25 | Iloveporkchops |
 | 4209 | 25 | Carissa Jo Clarkson |
 | 4210 | 25 | Da'Shamika |
