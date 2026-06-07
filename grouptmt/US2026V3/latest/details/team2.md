@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 13:46:19 UTC
+# Standings for team2 as of 2026-06-07 13:46:42 UTC
 
 **Total Participants:** 1754
 
@@ -284,16 +284,16 @@
 | 276 | 223 | SilentBuffalo |
 | 277 | 221 | Bianca Woodruff |
 | 278 | 220 | Flashy Basegrid |
-| 279 | 219 | Stella |
-| 280 | 218 | Erica South |
-| 281 | 218 | Anthony Swift |
-| 282 | 218 | Julie Alexander Sykes |
-| 283 | 218 | Logan Duffey |
-| 284 | 217 | Amanda Priddy |
-| 285 | 216 | Swanky Fitline |
-| 286 | 216 | Lyric Price |
-| 287 | 216 | Alicia Kinney |
-| 288 | 216 | Avie Lou |
+| 279 | 220 | Avie Lou |
+| 280 | 219 | Stella |
+| 281 | 218 | Erica South |
+| 282 | 218 | Anthony Swift |
+| 283 | 218 | Julie Alexander Sykes |
+| 284 | 218 | Logan Duffey |
+| 285 | 217 | Amanda Priddy |
+| 286 | 216 | Swanky Fitline |
+| 287 | 216 | Lyric Price |
+| 288 | 216 | Alicia Kinney |
 | 289 | 214 | Stephany Green |
 | 290 | 214 | Sabrina Hardrick |
 | 291 | 212 | SEH |
