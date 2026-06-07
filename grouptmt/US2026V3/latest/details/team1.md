@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 18:56:19 UTC
+# Standings for team1 as of 2026-06-07 18:56:39 UTC
 
 **Total Participants:** 1543
 
@@ -32,7 +32,7 @@
 | 24 | 2863 | Sha Harris |
 | 25 | 2708 | Ebo Got-Time |
 | 26 | 2545 | Cool Bridger |
-| 27 | 2474 | Juan Kandiss Escobedo Irwin |
+| 27 | 2484 | Juan Kandiss Escobedo Irwin |
 | 28 | 2331 | Zappy Brickline |
 | 29 | 2269 | Mary Jenkins |
 | 30 | 2165 | Epic Snapfall |
@@ -902,69 +902,69 @@
 | 894 | 50 | Toohartless Mech |
 | 895 | 50 | Bold Spinblock |
 | 896 | 50 | Benjamin Livingston |
-| 897 | 50 | Daring Linkfall |
-| 898 | 50 | MsBobby Patrick |
-| 899 | 49 | Daphne Ceasar |
-| 900 | 49 | Stronger Wiser Better |
-| 901 | 49 | Macho Lewis |
-| 902 | 49 | Latoya Carson |
-| 903 | 49 | Damien Fonseca |
+| 897 | 50 | Wacky Spinfit |
+| 898 | 50 | Daring Linkfall |
+| 899 | 50 | MsBobby Patrick |
+| 900 | 49 | Damien Fonseca |
+| 901 | 49 | Stronger Wiser Better |
+| 902 | 49 | Daphne Ceasar |
+| 903 | 49 | Macho Lewis |
 | 904 | 49 | Ķïrãã Ďãvïss |
-| 905 | 49 | Teisha Scott |
-| 906 | 49 | Brika Brika |
-| 907 | 49 | Ashley Davis |
-| 908 | 49 | Saucy Crusher |
-| 909 | 48 | LoveLee |
-| 910 | 48 | Davina Valentino |
-| 911 | 48 | Eli Delao |
+| 905 | 49 | Saucy Crusher |
+| 906 | 49 | Ashley Davis |
+| 907 | 49 | Brika Brika |
+| 908 | 49 | Latoya Carson |
+| 909 | 49 | Teisha Scott |
+| 910 | 48 | LoveLee |
+| 911 | 48 | jaz |
 | 912 | 48 | Bubbly Crawler |
-| 913 | 48 | jaz |
-| 914 | 48 | Melanie Houghton-McCann |
-| 915 | 48 | P C |
-| 916 | 47 | Jodie |
-| 917 | 47 | William Vidra |
-| 918 | 47 | Taylor Jordan Hollis |
-| 919 | 47 | Khatyrah Burnette |
-| 920 | 47 | Pizzle |
-| 921 | 47 | Denise Cunningham-English |
-| 922 | 47 | Kevin Turner |
-| 923 | 47 | Tushama Cheris Okraku |
-| 924 | 47 | Austin Smith |
-| 925 | 47 | Jojo M |
-| 926 | 47 | Andra Ward |
-| 927 | 47 | Demetrice Buck Wilson |
-| 928 | 46 | Rosalind Chatman |
-| 929 | 46 | Jenni |
+| 913 | 48 | Melanie Houghton-McCann |
+| 914 | 48 | Eli Delao |
+| 915 | 48 | Davina Valentino |
+| 916 | 48 | P C |
+| 917 | 47 | Tushama Cheris Okraku |
+| 918 | 47 | Andra Ward |
+| 919 | 47 | William Vidra |
+| 920 | 47 | Taylor Jordan Hollis |
+| 921 | 47 | Khatyrah Burnette |
+| 922 | 47 | Denise Cunningham-English |
+| 923 | 47 | Kevin Turner |
+| 924 | 47 | Demetrice Buck Wilson |
+| 925 | 47 | Jodie |
+| 926 | 47 | Austin Smith |
+| 927 | 47 | Jojo M |
+| 928 | 47 | Pizzle |
+| 929 | 46 | NataAllDay |
 | 930 | 46 | Smiley Bridgepiece |
-| 931 | 46 | NataAllDay |
+| 931 | 46 | Elizabeth Green |
 | 932 | 46 | Kimberly Red |
-| 933 | 46 | TrapQween39Bi |
+| 933 | 46 | Jenni |
 | 934 | 46 | Karen Knapp |
-| 935 | 46 | Lucille Wilson Davis |
-| 936 | 46 | Felicia Dungey |
-| 937 | 46 | Elizabeth Green |
-| 938 | 45 | Frothy Zoney |
-| 939 | 45 | Lawreniesha Burkley |
-| 940 | 45 | Heather Cross-Davis |
-| 941 | 45 | rosieredpanda |
-| 942 | 45 | Meshia |
-| 943 | 45 | GetDaOPPS |
-| 944 | 45 | Antoinette Kidd |
-| 945 | 45 | Jason A Giantonio |
-| 946 | 45 | Matraca Young |
-| 947 | 45 | Brave Balanceblock |
-| 948 | 45 | Skye |
-| 949 | 45 | WReckitraff |
-| 950 | 45 | Y3llOWFAC3 |
-| 951 | 45 | Cali Lee |
-| 952 | 45 | Beautiful314 |
-| 953 | 45 | Amanda Colwell |
-| 954 | 45 | Sarah Jones |
-| 955 | 45 | Tia Hazelton |
-| 956 | 45 | Mumitt |
-| 957 | 44 | Wacky Spinfit |
-| 958 | 44 | Tez Mays |
-| 959 | 44 | Connor Leon Cluff |
+| 935 | 46 | Felicia Dungey |
+| 936 | 46 | Rosalind Chatman |
+| 937 | 46 | Lucille Wilson Davis |
+| 938 | 46 | TrapQween39Bi |
+| 939 | 45 | Meshia |
+| 940 | 45 | rosieredpanda |
+| 941 | 45 | Heather Cross-Davis |
+| 942 | 45 | Lawreniesha Burkley |
+| 943 | 45 | Frothy Zoney |
+| 944 | 45 | Cali Lee |
+| 945 | 45 | Mumitt |
+| 946 | 45 | Tia Hazelton |
+| 947 | 45 | Sarah Jones |
+| 948 | 45 | Amanda Colwell |
+| 949 | 45 | Beautiful314 |
+| 950 | 45 | GetDaOPPS |
+| 951 | 45 | Y3llOWFAC3 |
+| 952 | 45 | WReckitraff |
+| 953 | 45 | Skye |
+| 954 | 45 | Brave Balanceblock |
+| 955 | 45 | Matraca Young |
+| 956 | 45 | Jason A Giantonio |
+| 957 | 45 | Antoinette Kidd |
+| 958 | 44 | Connor Leon Cluff |
+| 959 | 44 | Tez Mays |
 | 960 | 44 | Ducc2408 |
 | 961 | 44 | Nic Nic |
 | 962 | 44 | Mark Steven Pichler |
