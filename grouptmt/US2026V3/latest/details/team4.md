@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 09:50:41 UTC
+# Standings for team4 as of 2026-06-07 09:51:17 UTC
 
 **Total Participants:** 1433
 
@@ -297,54 +297,54 @@
 | 289 | 152 | Jumpy Builderpiece |
 | 290 | 152 | Samara Garcia |
 | 291 | 152 | Nerdy Faller |
-| 292 | 151 | Troy Zanelli |
-| 293 | 151 | Bean |
-| 294 | 150 | Hardy Fuller |
-| 295 | 150 | MrsReap |
+| 292 | 151 | Bean |
+| 293 | 151 | Troy Zanelli |
+| 294 | 150 | MrsReap |
+| 295 | 150 | Hardy Fuller |
 | 296 | 150 | Heidi Anne Scheiderer |
 | 297 | 148 | Smiley Gridzone |
-| 298 | 147 | Cherrypir05 |
-| 299 | 147 | EvoKitty |
-| 300 | 146 | Jasmine Marie |
-| 301 | 146 | Zesty Twistpiece |
-| 302 | 144 | Dapper Strikerpiece |
-| 303 | 143 | Brennan Shea Greene |
-| 304 | 142 | Rachel Lemos |
-| 305 | 142 | Chris McBlockster |
-| 306 | 141 | Justin Michael |
-| 307 | 141 | Chilly Pivot |
-| 308 | 141 | JuicyJuice |
-| 309 | 140 | Billy Baker |
-| 310 | 139 | Name |
-| 311 | 138 | Cindy |
-| 312 | 138 | Tina Thomas |
-| 313 | 138 | Rose Anna Safi |
-| 314 | 137 | Deborah Silberg |
-| 315 | 136 | WeeWooWee |
-| 316 | 136 | Funky Tiler |
-| 317 | 136 | King |
-| 318 | 136 | Lively Cascadebuilder |
-| 319 | 136 | Slinky Stackzone |
-| 320 | 135 | Quiomarie Cotto |
+| 298 | 148 | Miwa |
+| 299 | 147 | Cherrypir05 |
+| 300 | 147 | EvoKitty |
+| 301 | 146 | Jasmine Marie |
+| 302 | 146 | Zesty Twistpiece |
+| 303 | 144 | Dapper Strikerpiece |
+| 304 | 143 | Brennan Shea Greene |
+| 305 | 142 | Rachel Lemos |
+| 306 | 142 | Chris McBlockster |
+| 307 | 141 | JuicyJuice |
+| 308 | 141 | Chilly Pivot |
+| 309 | 141 | Justin Michael |
+| 310 | 140 | Billy Baker |
+| 311 | 139 | Name |
+| 312 | 138 | Rose Anna Safi |
+| 313 | 138 | Cindy |
+| 314 | 138 | Tina Thomas |
+| 315 | 137 | Deborah Silberg |
+| 316 | 136 | King |
+| 317 | 136 | WeeWooWee |
+| 318 | 136 | Slinky Stackzone |
+| 319 | 136 | Lively Cascadebuilder |
+| 320 | 136 | Funky Tiler |
 | 321 | 135 | crobb77 |
-| 322 | 134 | All knowing |
-| 323 | 133 | Shawntae Mccary |
-| 324 | 132 | Blockcrusher |
-| 325 | 131 | Dominique Melendez |
-| 326 | 131 | Lanelva Tiredofbs Marshall |
+| 322 | 135 | Quiomarie Cotto |
+| 323 | 134 | All knowing |
+| 324 | 133 | Shawntae Mccary |
+| 325 | 132 | Blockcrusher |
+| 326 | 131 | Dominique Melendez |
 | 327 | 131 | Stasia |
-| 328 | 131 | Swanky Snapgrid |
-| 329 | 130 | Maurice DeJean |
-| 330 | 130 | Bhakti Sawarkar |
-| 331 | 129 | Dizzy Slammer |
+| 328 | 131 | Lanelva Tiredofbs Marshall |
+| 329 | 131 | Swanky Snapgrid |
+| 330 | 130 | Maurice DeJean |
+| 331 | 130 | Bhakti Sawarkar |
 | 332 | 129 | Shauna Davis |
-| 333 | 129 | Has2brat |
-| 334 | 129 | Dawn Phelps |
-| 335 | 129 | Simone |
-| 336 | 128 | Juvon SupaShawdii Brooks |
-| 337 | 128 | Lana Tran |
-| 338 | 128 | Sherry Mooney |
-| 339 | 128 | Miwa |
+| 333 | 129 | Dizzy Slammer |
+| 334 | 129 | Has2brat |
+| 335 | 129 | Dawn Phelps |
+| 336 | 129 | Simone |
+| 337 | 128 | Juvon SupaShawdii Brooks |
+| 338 | 128 | Lana Tran |
+| 339 | 128 | Sherry Mooney |
 | 340 | 127 | Cheeky Climber |
 | 341 | 127 | zoes |
 | 342 | 127 | Jen Smith |
@@ -1118,24 +1118,24 @@
 | 1110 | 25 | Giggy Mover |
 | 1111 | 25 | Tipsy toesy |
 | 1112 | 25 | Nina Martinez |
-| 1113 | 25 | Kiki Moore |
-| 1114 | 25 | Kendall Rhodie |
-| 1115 | 25 | Chabetta |
-| 1116 | 25 | moonman33 |
-| 1117 | 25 | Jada Jordyn Campbell |
-| 1118 | 24 | Socorro Arredondo |
-| 1119 | 24 | Ja'Net Riley |
-| 1120 | 24 | Flashy Wipebuilder |
-| 1121 | 24 | Jenni |
-| 1122 | 24 | Katiana Gonzalez |
-| 1123 | 24 | Kellz M Bee |
-| 1124 | 24 | Ferlyz |
-| 1125 | 24 | Lawrissa Andrews |
-| 1126 | 24 | Pamela Kaye |
-| 1127 | 24 | Tameka Harrison |
-| 1128 | 24 | Street724 |
-| 1129 | 24 | Hannah White |
-| 1130 | 24 | Merritt Brandt |
+| 1113 | 25 | Merritt Brandt |
+| 1114 | 25 | Kiki Moore |
+| 1115 | 25 | Kendall Rhodie |
+| 1116 | 25 | Chabetta |
+| 1117 | 25 | moonman33 |
+| 1118 | 25 | Jada Jordyn Campbell |
+| 1119 | 24 | Socorro Arredondo |
+| 1120 | 24 | Ja'Net Riley |
+| 1121 | 24 | Flashy Wipebuilder |
+| 1122 | 24 | Jenni |
+| 1123 | 24 | Katiana Gonzalez |
+| 1124 | 24 | Kellz M Bee |
+| 1125 | 24 | Ferlyz |
+| 1126 | 24 | Lawrissa Andrews |
+| 1127 | 24 | Pamela Kaye |
+| 1128 | 24 | Tameka Harrison |
+| 1129 | 24 | Street724 |
+| 1130 | 24 | Hannah White |
 | 1131 | 23 | Musky Pits |
 | 1132 | 23 | James Moore |
 | 1133 | 23 | Leslie Ramos |

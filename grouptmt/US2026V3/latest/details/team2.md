@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:50:41 UTC
+# Standings for team2 as of 2026-06-07 09:51:17 UTC
 
 **Total Participants:** 1693
 
@@ -84,8 +84,8 @@
 | 76 | 882 | Lisa Breiding |
 | 77 | 864 | Helen Thomas |
 | 78 | 861 | Marquita Toliver |
-| 79 | 853 | Mikki Torres |
-| 80 | 851 | Marquetta Johnson |
+| 79 | 856 | Marquetta Johnson |
+| 80 | 853 | Mikki Torres |
 | 81 | 844 | Jayke Edward |
 | 82 | 832 | Amber Triguero |
 | 83 | 829 | Gabriella Humphreys |
@@ -148,8 +148,8 @@
 | 140 | 437 | MarioKarasovic |
 | 141 | 436 | Gill |
 | 142 | 428 | Steven Craig |
-| 143 | 419 | Cool Climber |
-| 144 | 418 | Zarah Kettler |
+| 143 | 420 | Zarah Kettler |
+| 144 | 419 | Cool Climber |
 | 145 | 417 | Jenny Graham |
 | 146 | 416 | Suki Jacobs |
 | 147 | 415 | Jgato |
@@ -304,44 +304,44 @@
 | 296 | 192 | Jill Goff |
 | 297 | 191 | Marilyn Mendoza |
 | 298 | 191 | Jessica Christine |
-| 299 | 188 | Theresa Huddleston |
-| 300 | 188 | Ray Daisy |
-| 301 | 187 | Curly Windbreaker |
-| 302 | 185 | Krystle L Coon |
-| 303 | 184 | Theresa Hollinger |
-| 304 | 184 | SEH |
-| 305 | 181 | Jamie Adams |
-| 306 | 180 | Happy |
-| 307 | 180 | Loopy Dropper |
-| 308 | 180 | phamous1 |
+| 299 | 189 | Nicole Plummer |
+| 300 | 188 | Theresa Huddleston |
+| 301 | 188 | Ray Daisy |
+| 302 | 187 | Curly Windbreaker |
+| 303 | 185 | Krystle L Coon |
+| 304 | 184 | Theresa Hollinger |
+| 305 | 184 | SEH |
+| 306 | 181 | Jamie Adams |
+| 307 | 180 | Happy |
+| 308 | 180 | Loopy Dropper |
 | 309 | 180 | Skye Ehret |
-| 310 | 179 | Santara Ferguson |
-| 311 | 178 | Kelly Rogers |
-| 312 | 177 | Jennifer McClure |
-| 313 | 177 | Rick |
-| 314 | 176 | Kim Hunt |
-| 315 | 175 | Flashy Hitter |
-| 316 | 175 | Michelle M Braley |
-| 317 | 175 | Tina Marie |
-| 318 | 175 | Epic Tilemaker |
-| 319 | 175 | Lashanda Bertram |
-| 320 | 175 | Amanda Bottorff |
-| 321 | 174 | Nicole Plummer |
+| 310 | 180 | phamous1 |
+| 311 | 179 | Santara Ferguson |
+| 312 | 178 | Kelly Rogers |
+| 313 | 177 | Jennifer McClure |
+| 314 | 177 | Rick |
+| 315 | 176 | Kim Hunt |
+| 316 | 175 | Flashy Hitter |
+| 317 | 175 | Michelle M Braley |
+| 318 | 175 | Tina Marie |
+| 319 | 175 | Amanda Bottorff |
+| 320 | 175 | Epic Tilemaker |
+| 321 | 175 | Lashanda Bertram |
 | 322 | 174 | Jerry L Morales |
 | 323 | 174 | Rocroc mo |
 | 324 | 174 | ZBee |
-| 325 | 172 | Carolyn McNaughton |
-| 326 | 172 | Victoria Pale |
-| 327 | 172 | Mikia Stokes |
-| 328 | 170 | Bengy Lead |
-| 329 | 170 | Harper |
-| 330 | 169 | Angie Bishop |
-| 331 | 169 | Derrick |
-| 332 | 168 | Spicy Risegrid |
-| 333 | 168 | Missy Renia |
-| 334 | 168 | Danielle Lyons |
-| 335 | 168 | Avie Lou |
-| 336 | 168 | StacyBabee |
+| 325 | 172 | Mikia Stokes |
+| 326 | 172 | Carolyn McNaughton |
+| 327 | 172 | Victoria Pale |
+| 328 | 170 | Harper |
+| 329 | 170 | Bengy Lead |
+| 330 | 169 | Derrick |
+| 331 | 169 | Angie Bishop |
+| 332 | 168 | Avie Lou |
+| 333 | 168 | Spicy Risegrid |
+| 334 | 168 | StacyBabee |
+| 335 | 168 | Missy Renia |
+| 336 | 168 | Danielle Lyons |
 | 337 | 168 | Chasity Simpson |
 | 338 | 166 | Kimmyc |
 | 339 | 166 | Melmel |
@@ -351,16 +351,16 @@
 | 343 | 164 | Elliott Mikila |
 | 344 | 164 | Cara Rivera |
 | 345 | 163 | Zany Cascader |
-| 346 | 162 | Lisa Allen Frisk |
-| 347 | 162 | Wacky Holder |
-| 348 | 161 | Rydin Dirt |
-| 349 | 161 | Silly Tiltbuilder |
-| 350 | 161 | Erica South |
-| 351 | 160 | Billie Jensen |
-| 352 | 160 | Camilo Moreno |
-| 353 | 160 | Elizabeth Cornelius |
-| 354 | 159 | Jennifer Vitro |
-| 355 | 159 | Misty Noe |
+| 346 | 162 | Wacky Holder |
+| 347 | 162 | Lisa Allen Frisk |
+| 348 | 161 | Silly Tiltbuilder |
+| 349 | 161 | Erica South |
+| 350 | 161 | Rydin Dirt |
+| 351 | 160 | Elizabeth Cornelius |
+| 352 | 160 | Billie Jensen |
+| 353 | 160 | Camilo Moreno |
+| 354 | 159 | Misty Noe |
+| 355 | 159 | Jennifer Vitro |
 | 356 | 158 | Rachel Nilles |
 | 357 | 158 | KazzyKay |
 | 358 | 157 | Spicy Snapclear |

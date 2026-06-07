@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 09:50:41 UTC
+# Standings for team1 as of 2026-06-07 09:51:17 UTC
 
 **Total Participants:** 1435
 
@@ -81,9 +81,9 @@
 | 73 | 782 | Lisa Müller |
 | 74 | 764 | Joy Citizen Pickney |
 | 75 | 763 | Richard Horton |
-| 76 | 749 | Aviv Zehavi |
-| 77 | 734 | Jaida De'Anne Cox |
-| 78 | 716 | Danielle Barthelme |
+| 76 | 750 | Danielle Barthelme |
+| 77 | 749 | Aviv Zehavi |
+| 78 | 734 | Jaida De'Anne Cox |
 | 79 | 710 | ing410 |
 | 80 | 695 | Corey Cawthon |
 | 81 | 689 | Jaida King |
@@ -342,20 +342,20 @@
 | 334 | 136 | McKayla Owens |
 | 335 | 136 | Alyssa Rae |
 | 336 | 135 | Saucy Tile |
-| 337 | 135 | Sean White |
-| 338 | 134 | Perky Pusher |
-| 339 | 134 | Brittanie Wardlow |
-| 340 | 134 | Peppy Glider |
-| 341 | 134 | De'Nell Edwards |
-| 342 | 133 | Tasha |
-| 343 | 132 | Tremaine Hiler |
+| 337 | 135 | Tyiesha Pie Farmer |
+| 338 | 135 | Sean White |
+| 339 | 134 | Perky Pusher |
+| 340 | 134 | Brittanie Wardlow |
+| 341 | 134 | Peppy Glider |
+| 342 | 134 | De'Nell Edwards |
+| 343 | 133 | Tasha |
 | 344 | 132 | Chirpy Buildgrid |
-| 345 | 131 | Tyiesha Pie Farmer |
+| 345 | 132 | Tremaine Hiler |
 | 346 | 131 | Sarah Clark |
-| 347 | 130 | Murg4dr01d |
-| 348 | 130 | Jessica Davis |
-| 349 | 130 | Crystal Anderson |
-| 350 | 130 | Adrian Wilson |
+| 347 | 130 | Jessica Davis |
+| 348 | 130 | Murg4dr01d |
+| 349 | 130 | Adrian Wilson |
+| 350 | 130 | Crystal Anderson |
 | 351 | 130 | Maribel Vasquez |
 | 352 | 130 | Miera Nicole |
 | 353 | 129 | Mathew Trudell |
@@ -368,29 +368,29 @@
 | 360 | 126 | Brittany Fells |
 | 361 | 126 | Breezy Catcher |
 | 362 | 125 | Dizzy Dashy |
-| 363 | 125 | Dedra M Prester |
-| 364 | 125 | LaTonya Myers |
+| 363 | 125 | LaTonya Myers |
+| 364 | 125 | Dedra M Prester |
 | 365 | 124 | The DUBZ |
 | 366 | 123 | Rachael Bakowicz Edwards |
 | 367 | 123 | Cauiasia DeJ'ae |
 | 368 | 122 | Xana Zania Bopp |
-| 369 | 121 | Shanaa Germany Crittenden |
-| 370 | 121 | Bubbly Piececlear |
-| 371 | 121 | Tee Spinks |
-| 372 | 121 | Tiana Monique |
-| 373 | 120 | Teri Marie Clayton |
+| 369 | 121 | Tiana Monique |
+| 370 | 121 | Shanaa Germany Crittenden |
+| 371 | 121 | Bubbly Piececlear |
+| 372 | 121 | Tee Spinks |
+| 373 | 120 | Guy Incognito |
 | 374 | 120 | Katrina Ramey |
-| 375 | 120 | Guy Incognito |
-| 376 | 120 | Tanya Clayton |
-| 377 | 119 | Lexx Robins |
-| 378 | 119 | Kelvin Cook |
-| 379 | 118 | Hasty Pivoty |
-| 380 | 118 | izzybella |
-| 381 | 117 | MonaSparks |
-| 382 | 117 | Choc |
+| 375 | 120 | Tanya Clayton |
+| 376 | 120 | Teri Marie Clayton |
+| 377 | 119 | Kelvin Cook |
+| 378 | 119 | Lexx Robins |
+| 379 | 118 | izzybella |
+| 380 | 118 | Hasty Pivoty |
+| 381 | 117 | Choc |
+| 382 | 117 | MonaSparks |
 | 383 | 116 | Shalya Terry |
-| 384 | 115 | wmedina67 |
-| 385 | 115 | Ashleyy Netchert |
+| 384 | 115 | Ashleyy Netchert |
+| 385 | 115 | wmedina67 |
 | 386 | 115 | BabyCakes |
 | 387 | 114 | Faith Armone |
 | 388 | 114 | Nina Davis |
