@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 15:56:41 UTC
+# Standings for team1 as of 2026-06-07 15:57:18 UTC
 
 **Total Participants:** 1499
 
@@ -9,8 +9,8 @@
 | 1 | 25500 | Ariel |
 | 2 | 22000 | Kalynn Parks |
 | 3 | 9727 | Carrie English |
-| 4 | 9233 | Charnay Peacock |
-| 5 | 8746 | Tyeina Johnson |
+| 4 | 8746 | Tyeina Johnson |
+| 5 | 8211 | Charnay Peacock |
 | 6 | 8152 | Songne Arif |
 | 7 | 7602 | Charlie Roehm |
 | 8 | 7362 | Dyane Leah Ware |
@@ -69,7 +69,7 @@
 | 61 | 999 | Corey Cawthon |
 | 62 | 998 | Angela R Wilson |
 | 63 | 998 | Weeze |
-| 64 | 961 | Court Court |
+| 64 | 981 | Court Court |
 | 65 | 943 | Kkbk |
 | 66 | 935 | Whitney Butler |
 | 67 | 902 | Bre Maugh |
@@ -343,31 +343,31 @@
 | 335 | 156 | Shalya Terry |
 | 336 | 155 | Charlene Baltimore |
 | 337 | 155 | Lazy Tiltpiece |
-| 338 | 154 | Hasty Glidezone |
-| 339 | 153 | Bubbly Piececlear |
-| 340 | 153 | Tipsy Linkroll |
-| 341 | 152 | Wacky Stackbuilder |
-| 342 | 152 | Phillip Vasquez |
-| 343 | 152 | Jolly Tilefall |
-| 344 | 151 | Miera Nicole |
+| 338 | 154 | Matthieu Pistone |
+| 339 | 154 | Hasty Glidezone |
+| 340 | 153 | Bubbly Piececlear |
+| 341 | 153 | Tipsy Linkroll |
+| 342 | 152 | Wacky Stackbuilder |
+| 343 | 152 | Phillip Vasquez |
+| 344 | 152 | Jolly Tilefall |
 | 345 | 151 | Brittany Fells |
-| 346 | 150 | Elizabeth Vega Coreano |
-| 347 | 150 | Telisha Mims |
-| 348 | 150 | De'Nell Edwards |
-| 349 | 150 | Deveda Williams |
-| 350 | 149 | Chasem45 |
-| 351 | 149 | Christopher Dreamsareality McEachin |
-| 352 | 149 | HarleyJane |
-| 353 | 149 | Anthony |
-| 354 | 148 | LaToya Chambers |
-| 355 | 147 | Joka NoTime ForHataz |
-| 356 | 147 | LuckyStar |
-| 357 | 146 | MamushiOh |
-| 358 | 146 | whatever |
-| 359 | 146 | KeeKee Williams |
-| 360 | 146 | Lakiesha Crawford |
-| 361 | 146 | BlackQueen105 |
-| 362 | 145 | Matthieu Pistone |
+| 346 | 151 | Miera Nicole |
+| 347 | 150 | Elizabeth Vega Coreano |
+| 348 | 150 | Telisha Mims |
+| 349 | 150 | De'Nell Edwards |
+| 350 | 150 | Deveda Williams |
+| 351 | 149 | Chasem45 |
+| 352 | 149 | Christopher Dreamsareality McEachin |
+| 353 | 149 | HarleyJane |
+| 354 | 149 | Anthony |
+| 355 | 148 | LaToya Chambers |
+| 356 | 147 | Joka NoTime ForHataz |
+| 357 | 147 | LuckyStar |
+| 358 | 146 | MamushiOh |
+| 359 | 146 | whatever |
+| 360 | 146 | KeeKee Williams |
+| 361 | 146 | Lakiesha Crawford |
+| 362 | 146 | BlackQueen105 |
 | 363 | 145 | Squaw Ki Ng |
 | 364 | 145 | Giggy Tower |
 | 365 | 144 | Brittanie Wardlow |
@@ -598,69 +598,69 @@
 | 590 | 84 | Just2Play$ |
 | 591 | 84 | Angela Brown Babin |
 | 592 | 84 | Saucy Faller |
-| 593 | 83 | Sandra Mims |
-| 594 | 83 | Antoinette Kelly |
-| 595 | 83 | Kimmie Gargano |
-| 596 | 83 | MrsMeadows2019 |
+| 593 | 83 | Marc Papa |
+| 594 | 83 | Sandra Mims |
+| 595 | 83 | MrsMeadows2019 |
+| 596 | 83 | Antoinette Kelly |
 | 597 | 83 | Jackytrain52 |
-| 598 | 82 | OhNoZer0 |
-| 599 | 82 | Happy Blockpiece |
-| 600 | 82 | Johnathan Deese |
-| 601 | 81 | TRUBBLE45 |
+| 598 | 83 | Kimmie Gargano |
+| 599 | 82 | OhNoZer0 |
+| 600 | 82 | Happy Blockpiece |
+| 601 | 82 | Johnathan Deese |
 | 602 | 81 | Chris Holland |
-| 603 | 81 | Angela L Charles |
-| 604 | 81 | Montego Allen |
-| 605 | 81 | Sara |
-| 606 | 80 | Tracey Johnson |
-| 607 | 80 | NedaWin |
-| 608 | 80 | Cynthia Bradley |
-| 609 | 80 | Lisa420 |
-| 610 | 80 | Gerold Folk Haddock |
+| 603 | 81 | TRUBBLE45 |
+| 604 | 81 | Angela L Charles |
+| 605 | 81 | Montego Allen |
+| 606 | 81 | Sara |
+| 607 | 80 | Karen Denen |
+| 608 | 80 | Latore Maxie |
+| 609 | 80 | Lester Malone |
+| 610 | 80 | Lisa420 |
 | 611 | 80 | Kimberly Noble |
-| 612 | 80 | Latore Maxie |
-| 613 | 80 | Lady Scorpio |
-| 614 | 80 | Karen Denen |
-| 615 | 80 | Kp |
-| 616 | 80 | Christopher L Crites |
-| 617 | 80 | Lester Malone |
-| 618 | 80 | Charles Johnson |
-| 619 | 80 | Spicy Shatterblock |
+| 612 | 80 | Cynthia Bradley |
+| 613 | 80 | Tracey Johnson |
+| 614 | 80 | NedaWin |
+| 615 | 80 | Gerold Folk Haddock |
+| 616 | 80 | Lady Scorpio |
+| 617 | 80 | Kp |
+| 618 | 80 | Christopher L Crites |
+| 619 | 80 | Charles Johnson |
 | 620 | 80 | Victoria Smith |
-| 621 | 80 | Kamilya Rembert |
-| 622 | 80 | Chereese Harris |
-| 623 | 80 | Lauren Farkas |
-| 624 | 80 | Big Bovice |
-| 625 | 80 | Chevalier Burley |
-| 626 | 79 | TieMs BHughez |
-| 627 | 79 | Kim Holzmiller |
-| 628 | 79 | Montréal Mars |
-| 629 | 79 | Evette Moreno |
-| 630 | 79 | Boymama917 |
-| 631 | 79 | Nerdy Climber |
-| 632 | 79 | Naee Bee |
-| 633 | 78 | Claudia Price |
-| 634 | 78 | Rachel Renae Bettis |
+| 621 | 80 | Chevalier Burley |
+| 622 | 80 | Kamilya Rembert |
+| 623 | 80 | Chereese Harris |
+| 624 | 80 | Spicy Shatterblock |
+| 625 | 80 | Lauren Farkas |
+| 626 | 80 | Big Bovice |
+| 627 | 79 | Naee Bee |
+| 628 | 79 | Evette Moreno |
+| 629 | 79 | Nerdy Climber |
+| 630 | 79 | Kim Holzmiller |
+| 631 | 79 | Montréal Mars |
+| 632 | 79 | Boymama917 |
+| 633 | 79 | TieMs BHughez |
+| 634 | 78 | Ryan Runyan |
 | 635 | 78 | Kahh |
-| 636 | 78 | Azeiare Ziare |
-| 637 | 78 | Ryan Runyan |
-| 638 | 78 | Giddy Staggerpiece |
-| 639 | 78 | Krystal Maynard |
-| 640 | 78 | Solomon Valarie |
-| 641 | 78 | Smiley3000 |
-| 642 | 77 | Ysma Simmons |
-| 643 | 77 | Dana Hawes |
-| 644 | 77 | EvaLynn NeCole |
-| 645 | 77 | Dirty Deeds |
-| 646 | 76 | Kizzy Clark |
-| 647 | 76 | Earl Williams |
-| 648 | 76 | lady |
-| 649 | 76 | Angelique Talbot |
-| 650 | 76 | Giggly Shatterline |
-| 651 | 75 | Marc Papa |
-| 652 | 75 | Angie Lebron |
+| 636 | 78 | Rachel Renae Bettis |
+| 637 | 78 | Smiley3000 |
+| 638 | 78 | Claudia Price |
+| 639 | 78 | Azeiare Ziare |
+| 640 | 78 | Giddy Staggerpiece |
+| 641 | 78 | Solomon Valarie |
+| 642 | 78 | Krystal Maynard |
+| 643 | 77 | Ysma Simmons |
+| 644 | 77 | Dirty Deeds |
+| 645 | 77 | Dana Hawes |
+| 646 | 77 | EvaLynn NeCole |
+| 647 | 76 | Kizzy Clark |
+| 648 | 76 | Earl Williams |
+| 649 | 76 | Giggly Shatterline |
+| 650 | 76 | Angelique Talbot |
+| 651 | 76 | lady |
+| 652 | 75 | Tiffany Jean Hinson |
 | 653 | 75 | Erika |
 | 654 | 75 | Courtney Robinson |
-| 655 | 75 | Tiffany Jean Hinson |
+| 655 | 75 | Angie Lebron |
 | 656 | 75 | Jennifer Moore |
 | 657 | 75 | sasha |
 | 658 | 75 | Boldy Pivoty |
