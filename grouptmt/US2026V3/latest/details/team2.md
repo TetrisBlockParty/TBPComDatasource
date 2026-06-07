@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 19:40:19 UTC
+# Standings for team2 as of 2026-06-07 19:40:41 UTC
 
 **Total Participants:** 1869
 
@@ -596,13 +596,13 @@
 | 588 | 112 | Mike Mordhorst |
 | 589 | 112 | Nicole Ashbaugh |
 | 590 | 111 | Shiny Spinfit |
-| 591 | 110 | Barb Kiser |
-| 592 | 109 | Shannon Posner |
-| 593 | 109 | Po Yee |
-| 594 | 109 | Elizabeth Kline |
-| 595 | 109 | Jillian Marie |
-| 596 | 109 | Nicole Suber |
-| 597 | 109 | Susan Bosell |
+| 591 | 111 | Susan Bosell |
+| 592 | 110 | Barb Kiser |
+| 593 | 109 | Shannon Posner |
+| 594 | 109 | Po Yee |
+| 595 | 109 | Elizabeth Kline |
+| 596 | 109 | Jillian Marie |
+| 597 | 109 | Nicole Suber |
 | 598 | 108 | Brooklyn Todd |
 | 599 | 108 | Renee Siems |
 | 600 | 108 | Kelly |

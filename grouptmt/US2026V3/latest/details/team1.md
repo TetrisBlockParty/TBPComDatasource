@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 19:40:19 UTC
+# Standings for team1 as of 2026-06-07 19:40:41 UTC
 
 **Total Participants:** 1555
 
@@ -14,7 +14,7 @@
 | 6 | 8158 | Charlie Roehm |
 | 7 | 8152 | Songne Arif |
 | 8 | 7572 | Debbie Carswell |
-| 9 | 7362 | Dyane Leah Ware |
+| 9 | 7374 | Dyane Leah Ware |
 | 10 | 7059 | Tracy Cohen |
 | 11 | 6802 | Cozy Edge |
 | 12 | 6754 | Death by SnuSnu |
@@ -103,13 +103,13 @@
 | 95 | 667 | Sarah Marie |
 | 96 | 666 | Kellie Hall |
 | 97 | 647 | She Higgy |
-| 98 | 638 | Therealdywoune Peay |
-| 99 | 613 | Big Tina |
-| 100 | 612 | Quirky Fallgrid |
-| 101 | 604 | Cee Emm |
-| 102 | 601 | JaszyBadd |
-| 103 | 600 | Chenell Gillard |
-| 104 | 599 | PandaPrincess |
+| 98 | 639 | PandaPrincess |
+| 99 | 638 | Therealdywoune Peay |
+| 100 | 613 | Big Tina |
+| 101 | 612 | Quirky Fallgrid |
+| 102 | 604 | Cee Emm |
+| 103 | 601 | JaszyBadd |
+| 104 | 600 | Chenell Gillard |
 | 105 | 594 | Voice |
 | 106 | 588 | Shontanese Adams |
 | 107 | 587 | KenpachisGirl |
@@ -127,11 +127,11 @@
 | 119 | 533 | Robbie Cheeseman |
 | 120 | 532 | Chris Caniglia |
 | 121 | 527 | MommaCia |
-| 122 | 513 | Rackemwillie34 |
-| 123 | 511 | Abraham Espaillat |
-| 124 | 511 | Dizzy Dropper |
-| 125 | 510 | Cj Gorman |
-| 126 | 504 | ELM |
+| 122 | 518 | ELM |
+| 123 | 513 | Rackemwillie34 |
+| 124 | 511 | Abraham Espaillat |
+| 125 | 511 | Dizzy Dropper |
+| 126 | 510 | Cj Gorman |
 | 127 | 503 | Atlantalindi |
 | 128 | 495 | De'Laonzeo Anthony |
 | 129 | 494 | DaVonte' Cretter |
@@ -366,38 +366,38 @@
 | 358 | 158 | SeanSanchez |
 | 359 | 158 | Charlene Baltimore |
 | 360 | 158 | Kimberly Linares Hernandez |
-| 361 | 157 | MamushiOh |
+| 361 | 157 | Hasty Glidezone |
 | 362 | 157 | Courtney Cicoria |
-| 363 | 157 | Hasty Glidezone |
-| 364 | 156 | Shalya Terry |
-| 365 | 156 | Alyssa Rae |
-| 366 | 156 | Cheeky Twistpiece |
-| 367 | 156 | Tee Spinks |
+| 363 | 157 | MamushiOh |
+| 364 | 156 | Alyssa Rae |
+| 365 | 156 | Cheeky Twistpiece |
+| 366 | 156 | Tee Spinks |
+| 367 | 156 | Shalya Terry |
 | 368 | 155 | Lazy Tiltpiece |
 | 369 | 155 | Anthony |
-| 370 | 154 | Cece Fowler |
-| 371 | 154 | Matthieu Pistone |
-| 372 | 154 | Eric Spencer Whitaker |
-| 373 | 153 | CJ Robinson |
-| 374 | 152 | Giggy Tower |
-| 375 | 152 | Wacky Stackbuilder |
-| 376 | 152 | Phillip Vasquez |
-| 377 | 151 | Nickeya Phillips |
-| 378 | 151 | Miera Nicole |
+| 370 | 154 | Giggy Tower |
+| 371 | 154 | Eric Spencer Whitaker |
+| 372 | 154 | Matthieu Pistone |
+| 373 | 154 | Cece Fowler |
+| 374 | 153 | CJ Robinson |
+| 375 | 152 | Phillip Vasquez |
+| 376 | 152 | Wacky Stackbuilder |
+| 377 | 151 | Miera Nicole |
+| 378 | 151 | Nickeya Phillips |
 | 379 | 151 | Brittany Fells |
 | 380 | 150 | Jean Regis |
 | 381 | 150 | Deveda Williams |
 | 382 | 150 | Elizabeth Vega Coreano |
-| 383 | 149 | Manda Allen |
-| 384 | 149 | HarleyJane |
-| 385 | 149 | Chasem45 |
+| 383 | 149 | Chasem45 |
+| 384 | 149 | Manda Allen |
+| 385 | 149 | HarleyJane |
 | 386 | 148 | LaToya Chambers |
-| 387 | 147 | Perky Balancer |
-| 388 | 147 | Joka NoTime ForHataz |
-| 389 | 146 | Jae Thompson-Tyus |
+| 387 | 147 | Joka NoTime ForHataz |
+| 388 | 147 | Perky Balancer |
+| 389 | 146 | Lakiesha Crawford |
 | 390 | 146 | KeeKee Williams |
 | 391 | 146 | Chummy Frame |
-| 392 | 146 | Lakiesha Crawford |
+| 392 | 146 | Jae Thompson-Tyus |
 | 393 | 146 | whatever |
 | 394 | 145 | Squaw Ki Ng |
 | 395 | 144 | Brittanie Wardlow |
