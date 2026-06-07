@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 18:42:41 UTC
+# Standings for team1 as of 2026-06-07 18:43:19 UTC
 
 **Total Participants:** 1539
 
@@ -173,20 +173,20 @@
 | 165 | 351 | Joey Albright |
 | 166 | 348 | LeeLee08 |
 | 167 | 348 | pooh |
-| 168 | 340 | Spicy Risepiece |
-| 169 | 339 | Ty Øtg |
-| 170 | 338 | Sheila Burnham |
-| 171 | 337 | Mimi 1.0 |
-| 172 | 336 | Tammye Turner |
-| 173 | 333 | La'Chae Nickole |
-| 174 | 331 | Frisky Fallmatch |
+| 168 | 341 | Frisky Fallmatch |
+| 169 | 340 | Spicy Risepiece |
+| 170 | 339 | Ty Øtg |
+| 171 | 338 | Sheila Burnham |
+| 172 | 337 | Mimi 1.0 |
+| 173 | 336 | Tammye Turner |
+| 174 | 333 | La'Chae Nickole |
 | 175 | 331 | Tina Mitchell |
 | 176 | 330 | Jessica Russell |
 | 177 | 328 | Karebear |
 | 178 | 324 | Tamara N Lee |
 | 179 | 320 | Jayjay Rich |
-| 180 | 317 | Crystal Anderson |
-| 181 | 316 | Nerdy Snapfall |
+| 180 | 318 | Nerdy Snapfall |
+| 181 | 317 | Crystal Anderson |
 | 182 | 312 | Michelle Titus |
 | 183 | 311 | Dee McCool |
 | 184 | 310 | Chantelle Lee |
@@ -1320,65 +1320,65 @@
 | 1312 | 18 | Groovy Gridzone |
 | 1313 | 18 | Yeshanna Nicholson |
 | 1314 | 18 | Marie SheReady Harris |
-| 1315 | 18 | Taimir Colón |
-| 1316 | 18 | Dave Breaker |
-| 1317 | 18 | Una |
-| 1318 | 18 | Damien Mathews |
-| 1319 | 18 | Anissa Williams |
-| 1320 | 18 | Tyree Tman Shinette |
-| 1321 | 18 | Meeee |
-| 1322 | 18 | Hannah Hall |
-| 1323 | 17 | Mama P |
-| 1324 | 17 | law |
-| 1325 | 17 | Lavender |
-| 1326 | 17 | Jumpy Striker |
-| 1327 | 17 | OG LUCKY |
-| 1328 | 17 | Zany Edgepiece |
-| 1329 | 17 | Talya Richards |
-| 1330 | 17 | Andre Rivera |
+| 1315 | 18 | Alivia Dove |
+| 1316 | 18 | Taimir Colón |
+| 1317 | 18 | Dave Breaker |
+| 1318 | 18 | Una |
+| 1319 | 18 | Damien Mathews |
+| 1320 | 18 | Anissa Williams |
+| 1321 | 18 | Tyree Tman Shinette |
+| 1322 | 18 | Meeee |
+| 1323 | 18 | Hannah Hall |
+| 1324 | 17 | Wacky Riserpiece |
+| 1325 | 17 | law |
+| 1326 | 17 | OG LUCKY |
+| 1327 | 17 | Lavender |
+| 1328 | 17 | Talya Richards |
+| 1329 | 17 | Jumpy Striker |
+| 1330 | 17 | Zany Edgepiece |
 | 1331 | 17 | Kayd |
-| 1332 | 17 | Daron Montgomery |
-| 1333 | 17 | Demetria Thompson |
-| 1334 | 17 | Wacky Riserpiece |
-| 1335 | 16 | Hulk |
-| 1336 | 16 | Giddy Twistslam |
-| 1337 | 16 | b |
-| 1338 | 16 | Tabitha Burks |
-| 1339 | 16 | Symonne 'Monnie' Pierce |
+| 1332 | 17 | Demetria Thompson |
+| 1333 | 17 | Andre Rivera |
+| 1334 | 17 | Mama P |
+| 1335 | 17 | Daron Montgomery |
+| 1336 | 16 | Marcus Roberts |
+| 1337 | 16 | Giddy Twistslam |
+| 1338 | 16 | b |
+| 1339 | 16 | Tabitha Burks |
 | 1340 | 16 | Nerdy Twistline |
-| 1341 | 16 | JahMilly19 |
-| 1342 | 16 | Marcus Roberts |
-| 1343 | 16 | Tammy Collins |
-| 1344 | 16 | Dee-Dee Stewart |
-| 1345 | 16 | Layla Williams |
-| 1346 | 16 | Lillie Blossom Dixon |
+| 1341 | 16 | Hulk |
+| 1342 | 16 | Tammy Collins |
+| 1343 | 16 | JahMilly19 |
+| 1344 | 16 | Lillie Blossom Dixon |
+| 1345 | 16 | Dee-Dee Stewart |
+| 1346 | 16 | Symonne 'Monnie' Pierce |
 | 1347 | 16 | Christopher Wallace |
-| 1348 | 15 | Bri Lou |
-| 1349 | 15 | Chummy Clearfit |
-| 1350 | 15 | Breezy Bouncer |
-| 1351 | 15 | Tara Clarke |
+| 1348 | 16 | Layla Williams |
+| 1349 | 15 | UnionBoss |
+| 1350 | 15 | Laura Long |
+| 1351 | 15 | Hasty Match |
 | 1352 | 15 | Princess Nevaeh |
-| 1353 | 15 | Laura Long |
-| 1354 | 15 | UnionBoss |
-| 1355 | 15 | Hasty Match |
-| 1356 | 15 | luc |
-| 1357 | 15 | Zany Patternblock |
-| 1358 | 15 | Farah Simpson |
-| 1359 | 15 | Cheery Clusterbuilder |
-| 1360 | 15 | Robert Varnado |
-| 1361 | 15 | Haley Bell |
-| 1362 | 15 | Jonathan Zold |
-| 1363 | 15 | Mayra Diaz |
-| 1364 | 15 | Frilly Mover |
-| 1365 | 15 | Robyn Ellis |
-| 1366 | 15 | Tami Spence |
-| 1367 | 15 | Happy Towerfall |
-| 1368 | 15 | Wacky Towerer |
-| 1369 | 15 | Kayleah Washington |
-| 1370 | 15 | Lit757 |
-| 1371 | 15 | Chill Spinzone |
-| 1372 | 15 | Shamara Thurston |
-| 1373 | 14 | Alivia Dove |
+| 1353 | 15 | Breezy Bouncer |
+| 1354 | 15 | Chummy Clearfit |
+| 1355 | 15 | Bri Lou |
+| 1356 | 15 | Tara Clarke |
+| 1357 | 15 | luc |
+| 1358 | 15 | Zany Patternblock |
+| 1359 | 15 | Farah Simpson |
+| 1360 | 15 | Cheery Clusterbuilder |
+| 1361 | 15 | Robert Varnado |
+| 1362 | 15 | Haley Bell |
+| 1363 | 15 | Jonathan Zold |
+| 1364 | 15 | Mayra Diaz |
+| 1365 | 15 | Frilly Mover |
+| 1366 | 15 | Robyn Ellis |
+| 1367 | 15 | Tami Spence |
+| 1368 | 15 | Happy Towerfall |
+| 1369 | 15 | Wacky Towerer |
+| 1370 | 15 | Kayleah Washington |
+| 1371 | 15 | Lit757 |
+| 1372 | 15 | Chill Spinzone |
+| 1373 | 15 | Shamara Thurston |
 | 1374 | 14 | LOVE |
 | 1375 | 14 | Nerdy Curvetile |
 | 1376 | 14 | Jerrone Epps |
@@ -1483,34 +1483,34 @@
 | 1475 | 8 | Ferocity |
 | 1476 | 8 | Chevonne Huggins |
 | 1477 | 8 | Frothy Matchpiece |
-| 1478 | 8 | Dana Hill |
-| 1479 | 8 | Rixo Blax |
-| 1480 | 8 | Groovy Riseclear |
-| 1481 | 7 | Andrew Harris |
-| 1482 | 7 | linda m |
-| 1483 | 7 | Quana |
-| 1484 | 7 | Teresa F. Campos Eaton |
-| 1485 | 7 | Lively Stagger |
-| 1486 | 7 | Deadra Graham |
-| 1487 | 7 | RMGreen |
-| 1488 | 7 | Brandon Knox |
-| 1489 | 7 | Alexis Farquer |
-| 1490 | 7 | Marla |
-| 1491 | 7 | John Boone |
-| 1492 | 7 | Mary2 |
-| 1493 | 7 | Sheena Hamilton |
-| 1494 | 7 | Lawanda Conley |
-| 1495 | 7 | Court Ney |
-| 1496 | 7 | Bryan Dell |
-| 1497 | 7 | Milfchaser530 |
-| 1498 | 7 | Warren Miller |
-| 1499 | 7 | KingSlim82 |
-| 1500 | 7 | Hyper Basepiece |
-| 1501 | 7 | Stephanie L Jeffries Moultrie |
-| 1502 | 7 | Joey Hoover |
-| 1503 | 7 | Shane Brucewayne |
-| 1504 | 6 | Kyshia |
-| 1505 | 6 | party t-rex 27 |
+| 1478 | 8 | Warren Miller |
+| 1479 | 8 | Dana Hill |
+| 1480 | 8 | Rixo Blax |
+| 1481 | 8 | Groovy Riseclear |
+| 1482 | 7 | Andrew Harris |
+| 1483 | 7 | linda m |
+| 1484 | 7 | Quana |
+| 1485 | 7 | Teresa F. Campos Eaton |
+| 1486 | 7 | Lively Stagger |
+| 1487 | 7 | Deadra Graham |
+| 1488 | 7 | RMGreen |
+| 1489 | 7 | Brandon Knox |
+| 1490 | 7 | Alexis Farquer |
+| 1491 | 7 | Marla |
+| 1492 | 7 | Shane Brucewayne |
+| 1493 | 7 | Mary2 |
+| 1494 | 7 | Sheena Hamilton |
+| 1495 | 7 | Lawanda Conley |
+| 1496 | 7 | Court Ney |
+| 1497 | 7 | Bryan Dell |
+| 1498 | 7 | Milfchaser530 |
+| 1499 | 7 | Joey Hoover |
+| 1500 | 7 | KingSlim82 |
+| 1501 | 7 | Hyper Basepiece |
+| 1502 | 7 | Stephanie L Jeffries Moultrie |
+| 1503 | 7 | John Boone |
+| 1504 | 6 | party t-rex 27 |
+| 1505 | 6 | Kyshia |
 | 1506 | 6 | Shiny Crusher |
 | 1507 | 6 | Evee |
 | 1508 | 6 | Lynn Formby |
