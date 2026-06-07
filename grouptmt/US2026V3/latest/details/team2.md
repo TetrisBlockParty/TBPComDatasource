@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 00:12:19 UTC
+# Standings for team2 as of 2026-06-07 00:12:41 UTC
 
 **Total Participants:** 1466
 
@@ -99,8 +99,8 @@
 | 91 | 577 | Criccett Hooper-Smith |
 | 92 | 577 | Lindsay Klemp |
 | 93 | 572 | Dsabrina Maxey |
-| 94 | 570 | Nerdy Climber |
-| 95 | 551 | Bon Lynn |
+| 94 | 571 | Bon Lynn |
+| 95 | 570 | Nerdy Climber |
 | 96 | 549 | Rhonda Diebold |
 | 97 | 543 | Kathleen Dumbazz |
 | 98 | 541 | Ricardo Ewart |
