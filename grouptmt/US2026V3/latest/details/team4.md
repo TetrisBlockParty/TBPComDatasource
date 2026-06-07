@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 06:50:19 UTC
+# Standings for team4 as of 2026-06-07 06:50:42 UTC
 
 **Total Participants:** 1394
 
@@ -716,94 +716,94 @@
 | 708 | 55 | bofe |
 | 709 | 55 | Julian Gasque |
 | 710 | 54 | Danny Keich III |
-| 711 | 54 | Lilo |
-| 712 | 54 | Lisa Ferriero-Daudin |
-| 713 | 54 | Scott Baum |
-| 714 | 54 | Earl Edwards |
-| 715 | 53 | Kimberly Mae Watkins |
-| 716 | 53 | Haylee Talkington |
-| 717 | 53 | Koren Heersink |
-| 718 | 53 | Sarah Leake |
-| 719 | 53 | shonaberry |
-| 720 | 52 | Meela Abdurrab |
-| 721 | 52 | Sonya |
-| 722 | 52 | Frothy Pivotfall |
-| 723 | 52 | Nachos |
-| 724 | 51 | Joshua Powers |
-| 725 | 51 | Curved carrot |
-| 726 | 51 | Gerald Richard Franke |
-| 727 | 51 | Toria |
-| 728 | 51 | Poppy |
-| 729 | 51 | Vergie Michael |
-| 730 | 51 | Kimberly Civinski |
-| 731 | 51 | Candiecane324 |
-| 732 | 51 | Michellee Lewis |
-| 733 | 51 | LilRain |
-| 734 | 50 | Heather Griffin |
-| 735 | 50 | Ralph Hell Rell Williams |
-| 736 | 50 | Jacqueline Wright |
-| 737 | 50 | Nova Kain |
-| 738 | 50 | Monkey |
-| 739 | 50 | Diane Obungu |
-| 740 | 50 | Loony Edge |
-| 741 | 50 | Bhakti Sawarkar |
-| 742 | 50 | Travis McKinnon |
-| 743 | 50 | Chris Somsen |
-| 744 | 50 | Melissa Elizabeth |
-| 745 | 50 | Michael Cruz |
-| 746 | 50 | Alex Dawn |
-| 747 | 50 | Erica Armstrong Baz |
-| 748 | 50 | Daniel Lossman |
-| 749 | 50 | Swanky Matchfit |
-| 750 | 50 | Smiley Wipeblock |
-| 751 | 50 | Hyper Balancepiece |
-| 752 | 50 | Slinky Column |
-| 753 | 50 | Hooti Smile |
+| 711 | 54 | Heather Brown |
+| 712 | 54 | Lilo |
+| 713 | 54 | Lisa Ferriero-Daudin |
+| 714 | 54 | Scott Baum |
+| 715 | 54 | Earl Edwards |
+| 716 | 53 | Kimberly Mae Watkins |
+| 717 | 53 | Haylee Talkington |
+| 718 | 53 | Koren Heersink |
+| 719 | 53 | Sarah Leake |
+| 720 | 53 | shonaberry |
+| 721 | 52 | Meela Abdurrab |
+| 722 | 52 | Sonya |
+| 723 | 52 | Frothy Pivotfall |
+| 724 | 52 | Nachos |
+| 725 | 51 | Joshua Powers |
+| 726 | 51 | Curved carrot |
+| 727 | 51 | Gerald Richard Franke |
+| 728 | 51 | Toria |
+| 729 | 51 | Poppy |
+| 730 | 51 | Vergie Michael |
+| 731 | 51 | Kimberly Civinski |
+| 732 | 51 | Candiecane324 |
+| 733 | 51 | Michellee Lewis |
+| 734 | 51 | LilRain |
+| 735 | 50 | Heather Griffin |
+| 736 | 50 | Ralph Hell Rell Williams |
+| 737 | 50 | Jacqueline Wright |
+| 738 | 50 | Nova Kain |
+| 739 | 50 | Monkey |
+| 740 | 50 | Diane Obungu |
+| 741 | 50 | Loony Edge |
+| 742 | 50 | Bhakti Sawarkar |
+| 743 | 50 | Travis McKinnon |
+| 744 | 50 | Chris Somsen |
+| 745 | 50 | Melissa Elizabeth |
+| 746 | 50 | Michael Cruz |
+| 747 | 50 | Alex Dawn |
+| 748 | 50 | Erica Armstrong Baz |
+| 749 | 50 | Daniel Lossman |
+| 750 | 50 | Swanky Matchfit |
+| 751 | 50 | Hooti Smile |
+| 752 | 50 | Hyper Balancepiece |
+| 753 | 50 | Slinky Column |
 | 754 | 50 | Lizard |
-| 755 | 49 | Certified Da Don |
-| 756 | 49 | Tammy Wells |
-| 757 | 49 | Angelo L Casillas |
-| 758 | 49 | Mrsjcraw18 |
-| 759 | 49 | Meghan Etchells |
-| 760 | 49 | Daffney Starr |
-| 761 | 49 | smarty |
-| 762 | 49 | Ben Figueroa |
-| 763 | 49 | LeRoy jenkins |
-| 764 | 49 | Karen Riexinger |
-| 765 | 49 | Matthew Wilcox |
-| 766 | 48 | Hayze |
-| 767 | 48 | La Ah Ox |
-| 768 | 48 | Nerdy Glider |
-| 769 | 48 | ŁųŁų |
-| 770 | 48 | REPENT |
-| 771 | 48 | Jonathan Jackson |
-| 772 | 48 | Suzi Smas |
-| 773 | 48 | Brandi Gray |
-| 774 | 48 | Debby Muniz |
-| 775 | 48 | Travis Whitner |
-| 776 | 48 | Christopher Lindsey |
-| 777 | 48 | Christina Williams |
-| 778 | 48 | Mike Artis |
+| 755 | 50 | Smiley Wipeblock |
+| 756 | 49 | Angelo L Casillas |
+| 757 | 49 | Certified Da Don |
+| 758 | 49 | Tammy Wells |
+| 759 | 49 | Mrsjcraw18 |
+| 760 | 49 | Meghan Etchells |
+| 761 | 49 | Daffney Starr |
+| 762 | 49 | smarty |
+| 763 | 49 | Ben Figueroa |
+| 764 | 49 | LeRoy jenkins |
+| 765 | 49 | Karen Riexinger |
+| 766 | 49 | Matthew Wilcox |
+| 767 | 48 | Hayze |
+| 768 | 48 | La Ah Ox |
+| 769 | 48 | Nerdy Glider |
+| 770 | 48 | ŁųŁų |
+| 771 | 48 | REPENT |
+| 772 | 48 | Jonathan Jackson |
+| 773 | 48 | Suzi Smas |
+| 774 | 48 | Brandi Gray |
+| 775 | 48 | Christina Williams |
+| 776 | 48 | Mike Artis |
+| 777 | 48 | Debby Muniz |
+| 778 | 48 | Christopher Lindsey |
 | 779 | 48 | Scot Matthew Bergdorf |
-| 780 | 47 | Maurice Jones |
-| 781 | 47 | TSM Ballsniffer |
-| 782 | 47 | Lush Twisterfit |
-| 783 | 47 | Lizzzzzz |
-| 784 | 47 | rick mase |
-| 785 | 47 | Nancy McCalla Abercrombie |
-| 786 | 47 | Nessa Smith |
-| 787 | 46 | Judea Leblanc |
-| 788 | 46 | Esmond Johnson IV |
-| 789 | 46 | Elise Ann |
-| 790 | 46 | Kelli Miller |
-| 791 | 46 | Heidi Hala |
-| 792 | 46 | Sadeha Simpson |
-| 793 | 46 | Heather Brown |
+| 780 | 48 | Travis Whitner |
+| 781 | 47 | Maurice Jones |
+| 782 | 47 | TSM Ballsniffer |
+| 783 | 47 | Lush Twisterfit |
+| 784 | 47 | Lizzzzzz |
+| 785 | 47 | rick mase |
+| 786 | 47 | Nancy McCalla Abercrombie |
+| 787 | 47 | Nessa Smith |
+| 788 | 46 | Judea Leblanc |
+| 789 | 46 | Esmond Johnson IV |
+| 790 | 46 | Elise Ann |
+| 791 | 46 | Kelli Miller |
+| 792 | 46 | Heidi Hala |
+| 793 | 46 | Epic Curver |
 | 794 | 46 | Cozy Towerpiece |
-| 795 | 46 | Epic Curver |
+| 795 | 46 | Sadeha Simpson |
 | 796 | 45 | Dsay Yates |
-| 797 | 45 | Kim Miller |
-| 798 | 45 | idk240 |
+| 797 | 45 | idk240 |
+| 798 | 45 | Kim Miller |
 | 799 | 45 | Stephanie Meinhart |
 | 800 | 45 | EmBem |
 | 801 | 45 | LandO |
@@ -852,8 +852,8 @@
 | 844 | 42 | Snappy Patternfall |
 | 845 | 42 | Gr8flluv1 |
 | 846 | 42 | Shannon Foster |
-| 847 | 41 | Rebekah Anne Macias |
-| 848 | 41 | Misty Leigh |
+| 847 | 41 | Misty Leigh |
+| 848 | 41 | Rebekah Anne Macias |
 | 849 | 41 | Tahira Patrice |
 | 850 | 41 | Gingerale<3 |
 | 851 | 41 | Jim Stewart |
@@ -888,14 +888,14 @@
 | 880 | 40 | Kissyfurr |
 | 881 | 40 | Zesty Lift |
 | 882 | 40 | Jimmy Clark |
-| 883 | 40 | Regina Williams |
-| 884 | 40 | AVA |
-| 885 | 40 | KrisTina2007 |
-| 886 | 40 | Carissa Thorne-See |
-| 887 | 40 | Sherri Lynn |
-| 888 | 40 | MamaBear3 |
-| 889 | 40 | RustyMaster40 |
-| 890 | 40 | Felicia Harrison |
+| 883 | 40 | Carissa Thorne-See |
+| 884 | 40 | Regina Williams |
+| 885 | 40 | Felicia Harrison |
+| 886 | 40 | KrisTina2007 |
+| 887 | 40 | AVA |
+| 888 | 40 | RustyMaster40 |
+| 889 | 40 | MamaBear3 |
+| 890 | 40 | Sherri Lynn |
 | 891 | 39 | Andy Petersen |
 | 892 | 39 | Merrick Marion |
 | 893 | 39 | Candice Sellers Worley |
@@ -942,18 +942,18 @@
 | 934 | 36 | Dawn Ferrin |
 | 935 | 36 | Austin Tan |
 | 936 | 36 | PL GR |
-| 937 | 36 | Quiles Yaitza |
-| 938 | 36 | Alyssa Berg |
-| 939 | 36 | Stacey Hyde |
-| 940 | 36 | LaRue Tee |
-| 941 | 36 | Tonia Kay |
+| 937 | 36 | Lamont |
+| 938 | 36 | Stacey Hyde |
+| 939 | 36 | Quiles Yaitza |
+| 940 | 36 | Alyssa Berg |
+| 941 | 36 | LaRue Tee |
 | 942 | 36 | Electric Storm |
-| 943 | 36 | Krazylegzzzz |
-| 944 | 36 | Lamont |
+| 943 | 36 | Tonia Kay |
+| 944 | 36 | Krazylegzzzz |
 | 945 | 36 | Peppy Linefit |
 | 946 | 35 | Loony Dashgrid |
-| 947 | 35 | Joshua Conwell |
-| 948 | 35 | Peachy Grabber |
+| 947 | 35 | Peachy Grabber |
+| 948 | 35 | Joshua Conwell |
 | 949 | 35 | Jodi Haman-wheeler |
 | 950 | 35 | Beezy |
 | 951 | 35 | Frisky Pusher |
@@ -978,10 +978,10 @@
 | 970 | 34 | Yulissa Diaz |
 | 971 | 34 | Bold Snapper |
 | 972 | 34 | Combo Snappy |
-| 973 | 33 | Chris |
-| 974 | 33 | Gwendolyn Langwinski |
-| 975 | 33 | Christopher Ponceja |
-| 976 | 33 | Shupurplenurkle |
+| 973 | 33 | Christopher Ponceja |
+| 974 | 33 | Shupurplenurkle |
+| 975 | 33 | Chris |
+| 976 | 33 | Gwendolyn Langwinski |
 | 977 | 33 | Mighty Spinfit |
 | 978 | 33 | Chill Snapclear |
 | 979 | 33 | Joe Joe |
@@ -1058,8 +1058,8 @@
 | 1050 | 28 | Leasa Marie |
 | 1051 | 27 | Shirley Williams |
 | 1052 | 27 | Elli Wright |
-| 1053 | 27 | BlockFlakes |
-| 1054 | 27 | Izz |
+| 1053 | 27 | Izz |
+| 1054 | 27 | BlockFlakes |
 | 1055 | 27 | boo |
 | 1056 | 27 | RaeRae |
 | 1057 | 27 | Myranda Gereau |
@@ -1083,8 +1083,8 @@
 | 1075 | 26 | Thomas Cassell |
 | 1076 | 26 | Ciara Brown |
 | 1077 | 25 | Kiki Moore |
-| 1078 | 25 | Honey Honey |
-| 1079 | 25 | Lovely |
+| 1078 | 25 | Lovely |
+| 1079 | 25 | Honey Honey |
 | 1080 | 25 | Gracie Ornelas |
 | 1081 | 25 | Nina Martinez |
 | 1082 | 25 | Alicia Horsea Rojas |
