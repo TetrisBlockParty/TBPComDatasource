@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 14:02:19 UTC
+# Standings for team4 as of 2026-06-07 14:02:42 UTC
 
 **Total Participants:** 1478
 
@@ -815,11 +815,11 @@
 | 807 | 53 | Cflixer |
 | 808 | 53 | Koren Heersink |
 | 809 | 53 | Carlos Amaya |
-| 810 | 53 | Kimberly Mae Watkins |
-| 811 | 53 | Heidi Lyn Ramirez |
-| 812 | 53 | Sarah Leake |
-| 813 | 53 | shonaberry |
-| 814 | 52 | Jonathan Jackson |
+| 810 | 53 | Jonathan Jackson |
+| 811 | 53 | Kimberly Mae Watkins |
+| 812 | 53 | Heidi Lyn Ramirez |
+| 813 | 53 | Sarah Leake |
+| 814 | 53 | shonaberry |
 | 815 | 52 | Nachos |
 | 816 | 52 | Sara Cobb |
 | 817 | 52 | Domenique Wilson |

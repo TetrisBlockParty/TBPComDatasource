@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 14:02:19 UTC
+# Standings for team2 as of 2026-06-07 14:02:42 UTC
 
 **Total Participants:** 1757
 
@@ -26,7 +26,7 @@
 | 18 | 4459 | Kathleen M Cox |
 | 19 | 4355 | Alexia Reagan |
 | 20 | 4119 | Renee Weedling |
-| 21 | 4040 | Ber |
+| 21 | 4060 | Ber |
 | 22 | 3984 | Amber |
 | 23 | 3981 | Bobbi |
 | 24 | 3950 | Erica Dees Parks |
@@ -666,43 +666,43 @@
 | 658 | 81 | Heather Hi |
 | 659 | 81 | Zesty Zoney |
 | 660 | 81 | Chris Delauro |
-| 661 | 81 | Samantha Bugg Stitcher |
+| 661 | 81 | Chirpy Clearpiece |
 | 662 | 81 | Shiny Spinfit |
 | 663 | 81 | Evelyn Olive Kalmbach |
 | 664 | 81 | Robin Stutler |
 | 665 | 81 | YldBoar |
 | 666 | 81 | Quina Jesse Fejaran |
-| 667 | 80 | Tami Leontyuk |
-| 668 | 80 | Cody Gates |
-| 669 | 80 | Dayna Messer-Thelen |
-| 670 | 80 | Michelle Anne |
-| 671 | 80 | Renee Siems |
-| 672 | 80 | Ramona Guillermo |
-| 673 | 80 | Jimmy Francis Shasta Bambi |
-| 674 | 80 | Nicole Hogue |
-| 675 | 80 | Brian Favre |
-| 676 | 80 | Cory Lynn |
+| 667 | 81 | Samantha Bugg Stitcher |
+| 668 | 80 | Dayna Messer-Thelen |
+| 669 | 80 | Tami Leontyuk |
+| 670 | 80 | Plucky Grabber |
+| 671 | 80 | Brian Favre |
+| 672 | 80 | Jimmy Francis Shasta Bambi |
+| 673 | 80 | Ramona Guillermo |
+| 674 | 80 | Michelle Anne |
+| 675 | 80 | Cody Gates |
+| 676 | 80 | Renee Siems |
 | 677 | 80 | Charith Lorelle Watson |
-| 678 | 80 | Plucky Grabber |
-| 679 | 80 | Patty Sparkman |
-| 680 | 79 | Lezley Hawkins |
-| 681 | 79 | Michele Rogers |
-| 682 | 79 | Chirpy Clearpiece |
-| 683 | 79 | Aeryal Snow |
-| 684 | 79 | Bruni |
-| 685 | 79 | Michelle Powers Chattaway |
-| 686 | 78 | Danyell Flood-Morning |
-| 687 | 78 | Gina Leal |
-| 688 | 78 | Aaron Jones |
-| 689 | 78 | Arik DiLorenzo |
-| 690 | 78 | Alycia Marie Zelensky |
-| 691 | 78 | Newtwidebody |
-| 692 | 78 | Mona Smith |
-| 693 | 78 | Shelby Wilson |
-| 694 | 77 | Jolly Builderpiece |
-| 695 | 77 | Michael Delozier |
-| 696 | 77 | Chilly Surge |
-| 697 | 77 | Jason Lamporte |
+| 678 | 80 | Cory Lynn |
+| 679 | 80 | Nicole Hogue |
+| 680 | 80 | Patty Sparkman |
+| 681 | 79 | Bruni |
+| 682 | 79 | Michelle Powers Chattaway |
+| 683 | 79 | Michele Rogers |
+| 684 | 79 | Lezley Hawkins |
+| 685 | 79 | Aeryal Snow |
+| 686 | 78 | Arik DiLorenzo |
+| 687 | 78 | Mona Smith |
+| 688 | 78 | Newtwidebody |
+| 689 | 78 | Alycia Marie Zelensky |
+| 690 | 78 | Danyell Flood-Morning |
+| 691 | 78 | Gina Leal |
+| 692 | 78 | Shelby Wilson |
+| 693 | 78 | Aaron Jones |
+| 694 | 77 | Michael Delozier |
+| 695 | 77 | Jason Lamporte |
+| 696 | 77 | Jolly Builderpiece |
+| 697 | 77 | Chilly Surge |
 | 698 | 77 | Renee Craig |
 | 699 | 77 | Fallon Moss |
 | 700 | 77 | Talyn Domingues |
