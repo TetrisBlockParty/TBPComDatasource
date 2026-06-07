@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 11:07:17 UTC
+# Standings for team2 as of 2026-06-07 11:08:17 UTC
 
 **Total Participants:** 1703
 
@@ -403,8 +403,8 @@
 | 395 | 140 | Sharon L Brazelton |
 | 396 | 140 | Rescuegirl76 |
 | 397 | 139 | rebel4lyfe |
-| 398 | 139 | Charles E Mccardell |
-| 399 | 139 | andee |
+| 398 | 139 | andee |
+| 399 | 139 | Charles E Mccardell |
 | 400 | 139 | Gabrielle Wilson |
 | 401 | 138 | Amber Smith |
 | 402 | 138 | NickandJess Reynolds |
@@ -412,52 +412,52 @@
 | 404 | 138 | Melissa Fink |
 | 405 | 137 | Sandra Belk |
 | 406 | 137 | Ashley Voelz |
-| 407 | 136 | Jumpy Dashpiece |
-| 408 | 136 | Mtnblzr |
+| 407 | 136 | Mtnblzr |
+| 408 | 136 | Jumpy Dashpiece |
 | 409 | 136 | Lauren Maxwell |
 | 410 | 135 | Naomi Walker |
-| 411 | 133 | Tara |
-| 412 | 133 | Angela Hogan |
-| 413 | 133 | TetrisMama |
-| 414 | 132 | Raine |
-| 415 | 132 | Ava Speedy |
-| 416 | 132 | Reign Hustler |
-| 417 | 131 | Teresa Mandich |
-| 418 | 131 | Heather Billodeau |
-| 419 | 131 | MamaRachel |
-| 420 | 130 | Charity Hauser |
-| 421 | 130 | Gwendolyn Boykin Mobbs |
-| 422 | 130 | Jenn |
-| 423 | 130 | Cristi Doris |
+| 411 | 135 | Gwendolyn Boykin Mobbs |
+| 412 | 133 | Tara |
+| 413 | 133 | Angela Hogan |
+| 414 | 133 | TetrisMama |
+| 415 | 132 | Raine |
+| 416 | 132 | Ava Speedy |
+| 417 | 132 | Reign Hustler |
+| 418 | 131 | Teresa Mandich |
+| 419 | 131 | Heather Billodeau |
+| 420 | 131 | MamaRachel |
+| 421 | 130 | Charity Hauser |
+| 422 | 130 | Cristi Doris |
+| 423 | 130 | Jenn |
 | 424 | 130 | Jumpy Matchbuilder |
 | 425 | 129 | Nikki Hatch |
-| 426 | 129 | Armando Sabedra |
-| 427 | 129 | Jackie Walker |
+| 426 | 129 | Jackie Walker |
+| 427 | 129 | Armando Sabedra |
 | 428 | 129 | Sandy Justus |
 | 429 | 129 | Belle |
-| 430 | 129 | Perii Reynoso |
-| 431 | 129 | Kristi K Milner |
+| 430 | 129 | Kristi K Milner |
+| 431 | 129 | Perii Reynoso |
 | 432 | 128 | rageking |
-| 433 | 127 | Tammy Roth |
-| 434 | 127 | Aurora June Brock |
-| 435 | 127 | Tina |
-| 436 | 127 | Stephanie |
+| 433 | 127 | Stephanie |
+| 434 | 127 | Tammy Roth |
+| 435 | 127 | Aurora June Brock |
+| 436 | 127 | Tina |
 | 437 | 127 | Nicky Steigerwalt |
 | 438 | 126 | Tamtam |
 | 439 | 125 | Jessica Connot |
 | 440 | 125 | Kathryn |
 | 441 | 124 | Angeleye A James |
 | 442 | 124 | Jason Burris |
-| 443 | 123 | Simone F |
-| 444 | 123 | Mandy Van Laningham Bishop |
-| 445 | 122 | Kevin Patrick |
+| 443 | 123 | Mandy Van Laningham Bishop |
+| 444 | 123 | Simone F |
+| 445 | 122 | Sarah Louise Cobb |
 | 446 | 122 | Katie Jones |
 | 447 | 122 | Maria Ward |
-| 448 | 122 | Sarah Louise Cobb |
+| 448 | 122 | Kevin Patrick |
 | 449 | 120 | Kevin Mccoy |
-| 450 | 120 | Christine James |
-| 451 | 120 | Nichole Wilson |
-| 452 | 120 | Keisha Robinson |
+| 450 | 120 | Nichole Wilson |
+| 451 | 120 | Keisha Robinson |
+| 452 | 120 | Christine James |
 | 453 | 120 | Adam Latin |
 | 454 | 120 | Wendy McKee |
 | 455 | 120 | Carlos J Blas |
@@ -528,51 +528,51 @@
 | 520 | 100 | Jessica Perkins |
 | 521 | 100 | Alice Petterborg Barberich |
 | 522 | 99 | Kaylene Rigas |
-| 523 | 98 | Lindsey Ross |
-| 524 | 98 | Darla Ragsdale |
-| 525 | 98 | Justin McCray |
-| 526 | 98 | Ashlee Johnson |
-| 527 | 98 | Sandy Rundel Holderman |
-| 528 | 98 | Mary Carriere |
-| 529 | 97 | Tracy Tokarz |
+| 523 | 98 | Mary Carriere |
+| 524 | 98 | Sandy Rundel Holderman |
+| 525 | 98 | Ashlee Johnson |
+| 526 | 98 | Justin McCray |
+| 527 | 98 | Darla Ragsdale |
+| 528 | 98 | Lindsey Ross |
+| 529 | 97 | Donna Segletes Kay |
 | 530 | 97 | Abby |
-| 531 | 97 | Sandra Pursell |
-| 532 | 97 | Cozy Cascade |
-| 533 | 97 | Adri Perez |
-| 534 | 97 | Brooke Kaune |
-| 535 | 97 | Donna Segletes Kay |
-| 536 | 96 | IncrediDragon |
+| 531 | 97 | Cozy Cascade |
+| 532 | 97 | Adri Perez |
+| 533 | 97 | Brooke Kaune |
+| 534 | 97 | Sandra Pursell |
+| 535 | 97 | Tracy Tokarz |
+| 536 | 96 | Breezy |
 | 537 | 96 | Brooklyn Todd |
-| 538 | 96 | Barb Kiser |
-| 539 | 96 | Shawn Jensen |
-| 540 | 96 | Breezy |
-| 541 | 96 | Katrien |
-| 542 | 95 | Leighla Davis |
-| 543 | 94 | Paige Lynette Sohl |
+| 538 | 96 | Mama G |
+| 539 | 96 | Barb Kiser |
+| 540 | 96 | IncrediDragon |
+| 541 | 96 | Shawn Jensen |
+| 542 | 96 | Katrien |
+| 543 | 95 | Leighla Davis |
 | 544 | 94 | MUMBLES |
-| 545 | 93 | Mataya |
-| 546 | 93 | Cheery Tilefall |
-| 547 | 93 | Connie Breeden |
-| 548 | 93 | Hillary Frank |
-| 549 | 93 | Rebekah Holland |
-| 550 | 92 | Jayda Walters |
+| 545 | 94 | Paige Lynette Sohl |
+| 546 | 93 | Rebekah Holland |
+| 547 | 93 | Hillary Frank |
+| 548 | 93 | Connie Breeden |
+| 549 | 93 | Cheery Tilefall |
+| 550 | 93 | Mataya |
 | 551 | 92 | Tim Moore |
-| 552 | 92 | Belinda Gullion Austin |
-| 553 | 92 | Thy Bui |
-| 554 | 91 | Kimberly Davis |
-| 555 | 91 | Smiley Cornerfall |
-| 556 | 90 | Lacie B |
+| 552 | 92 | Jayda Walters |
+| 553 | 92 | Belinda Gullion Austin |
+| 554 | 92 | Thy Bui |
+| 555 | 91 | Kimberly Davis |
+| 556 | 91 | Smiley Cornerfall |
 | 557 | 90 | Rhonda Driskill |
-| 558 | 90 | Naomi Jaynes |
-| 559 | 90 | Ssirkus |
-| 560 | 90 | Eva Lopez |
-| 561 | 90 | Lesley Stoeckle |
-| 562 | 90 | Mama G |
+| 558 | 90 | Lacie B |
+| 559 | 90 | Naomi Jaynes |
+| 560 | 90 | Ssirkus |
+| 561 | 90 | Eva Lopez |
+| 562 | 90 | Lesley Stoeckle |
 | 563 | 89 | Patrick Woodard |
 | 564 | 89 | Tami Weiss |
 | 565 | 88 | Holly Huval |
-| 566 | 88 | Amanda Bailey |
-| 567 | 88 | Chesney |
+| 566 | 88 | Chesney |
+| 567 | 88 | Amanda Bailey |
 | 568 | 88 | Frilly Shiftsnap |
 | 569 | 87 | Lee Leonard |
 | 570 | 87 | Bonnie Huckleberry |
