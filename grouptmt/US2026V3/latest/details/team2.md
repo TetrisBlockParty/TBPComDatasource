@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 07:34:19 UTC
+# Standings for team2 as of 2026-06-07 07:34:41 UTC
 
 **Total Participants:** 1670
 
@@ -15,8 +15,8 @@
 | 7 | 7687 | Lacey Nolting |
 | 8 | 7500 | Mocha |
 | 9 | 6240 | Christina Shell |
-| 10 | 6114 | Tim Ix |
-| 11 | 6114 | Morgann McDaniel |
+| 10 | 6114 | Morgann McDaniel |
+| 11 | 6114 | Tim Ix |
 | 12 | 5704 | Cori Keberlein |
 | 13 | 4945 | Dapper Rollout |
 | 14 | 4800 | Crafty Ziggy |
@@ -51,16 +51,16 @@
 | 43 | 1835 | Elizabeth Mooney |
 | 44 | 1820 | Tom Badgley |
 | 45 | 1803 | Julie Trede Amerson |
-| 46 | 1692 | Matt Hardin |
-| 47 | 1678 | Betty Barrett |
-| 48 | 1657 | Heather Marie-Tarlton Britt |
-| 49 | 1606 | Nerdy Glidepiece |
-| 50 | 1598 | Rose Schaffner-Kibler |
-| 51 | 1531 | Happy Pivotfall |
-| 52 | 1510 | Shandrea Crawford |
-| 53 | 1501 | Monica Galli |
-| 54 | 1482 | Aubree Richard |
-| 55 | 1410 | Logan Basham |
+| 46 | 1692 | Logan Basham |
+| 47 | 1692 | Matt Hardin |
+| 48 | 1678 | Betty Barrett |
+| 49 | 1657 | Heather Marie-Tarlton Britt |
+| 50 | 1606 | Nerdy Glidepiece |
+| 51 | 1598 | Rose Schaffner-Kibler |
+| 52 | 1531 | Happy Pivotfall |
+| 53 | 1510 | Shandrea Crawford |
+| 54 | 1501 | Monica Galli |
+| 55 | 1482 | Aubree Richard |
 | 56 | 1309 | Jaime P Lamb |
 | 57 | 1250 | Marie Edmonds |
 | 58 | 1215 | Brent Bittenbender |
