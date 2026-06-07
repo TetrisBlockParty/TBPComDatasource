@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:34:42 UTC
+# Standings for team1 as of 2026-06-07 08:35:18 UTC
 
 **Total Participants:** 1426
 
@@ -41,35 +41,35 @@
 | 33 | 1677 | Markeeta Lipscomb |
 | 34 | 1602 | Brian Stackhouse |
 | 35 | 1550 | Cool Bridger |
-| 36 | 1453 | Janet Cooke |
-| 37 | 1450 | Chris Russell |
+| 36 | 1470 | Chris Russell |
+| 37 | 1453 | Janet Cooke |
 | 38 | 1445 | Erika Windom |
 | 39 | 1429 | Jolly Dropzone |
 | 40 | 1242 | Jacoby E Fleming |
 | 41 | 1233 | Cherry Rose |
 | 42 | 1195 | Tekedra Wilson |
 | 43 | 1176 | Daylene Johannes |
-| 44 | 1120 | Ryan Meilleur |
-| 45 | 1093 | Jennifer To |
-| 46 | 1067 | Catara Renae Oliver |
-| 47 | 1052 | Shortstak |
-| 48 | 1046 | Spicy Balancer |
-| 49 | 1031 | Ashley Espeut |
-| 50 | 1024 | Chill Clusterer |
-| 51 | 998 | Angela R Wilson |
-| 52 | 996 | Robyn Caldwell |
-| 53 | 984 | Holly Jolly |
-| 54 | 970 | Danielle DeLozier Plesec |
-| 55 | 961 | Sanjuro |
-| 56 | 943 | Kkbk |
-| 57 | 935 | Whitney Butler |
-| 58 | 905 | JoJo |
-| 59 | 897 | BYM4L |
-| 60 | 882 | Jon Gathers |
-| 61 | 877 | Brian Bohanon II |
-| 62 | 873 | Janine Hunter |
-| 63 | 870 | Blockhead |
-| 64 | 867 | Ebo Got-Time |
+| 44 | 1133 | Ebo Got-Time |
+| 45 | 1120 | Ryan Meilleur |
+| 46 | 1093 | Jennifer To |
+| 47 | 1067 | Catara Renae Oliver |
+| 48 | 1052 | Shortstak |
+| 49 | 1046 | Spicy Balancer |
+| 50 | 1031 | Ashley Espeut |
+| 51 | 1024 | Chill Clusterer |
+| 52 | 998 | Angela R Wilson |
+| 53 | 996 | Robyn Caldwell |
+| 54 | 984 | Holly Jolly |
+| 55 | 970 | Danielle DeLozier Plesec |
+| 56 | 961 | Sanjuro |
+| 57 | 943 | Kkbk |
+| 58 | 935 | Whitney Butler |
+| 59 | 905 | JoJo |
+| 60 | 897 | BYM4L |
+| 61 | 882 | Jon Gathers |
+| 62 | 877 | Brian Bohanon II |
+| 63 | 873 | Janine Hunter |
+| 64 | 870 | Blockhead |
 | 65 | 863 | Court Court |
 | 66 | 854 | Eric Mcgaughy |
 | 67 | 836 | Tiana Moore |

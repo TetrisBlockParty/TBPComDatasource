@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 08:34:42 UTC
+# Standings for team2 as of 2026-06-07 08:35:18 UTC
 
 **Total Participants:** 1682
 
@@ -41,7 +41,7 @@
 | 33 | 2640 | Sean Rippa |
 | 34 | 2583 | Quirky Catcher |
 | 35 | 2500 | Anthony Lilley |
-| 36 | 2437 | Andre Love |
+| 36 | 2457 | Andre Love |
 | 37 | 2287 | Christina Jambard Sampier |
 | 38 | 2210 | Bea Bee |
 | 39 | 2133 | Frisky Balanceblock |
