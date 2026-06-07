@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 03:08:19 UTC
+# Standings for team1 as of 2026-06-07 03:08:41 UTC
 
 **Total Participants:** 1310
 
@@ -69,16 +69,16 @@
 | 61 | 800 | Angela R Wilson |
 | 62 | 788 | Jazzy Dashpiece |
 | 63 | 785 | JoJo |
-| 64 | 783 | Eric Mcgaughy |
-| 65 | 783 | Kkbk |
-| 66 | 783 | Blockhead |
+| 64 | 783 | Kkbk |
+| 65 | 783 | Blockhead |
+| 66 | 783 | Eric Mcgaughy |
 | 67 | 781 | D'Andra Stewart |
 | 68 | 777 | Kimberly Hernandez |
 | 69 | 764 | Joy Citizen Pickney |
 | 70 | 763 | Richard Horton |
 | 71 | 749 | Aviv Zehavi |
-| 72 | 734 | Todd C. Clemens |
-| 73 | 734 | Jaida De'Anne Cox |
+| 72 | 734 | Jaida De'Anne Cox |
+| 73 | 734 | Todd C. Clemens |
 | 74 | 727 | Lisa Müller |
 | 75 | 710 | ing410 |
 | 76 | 695 | Corey Cawthon |
@@ -97,62 +97,62 @@
 | 89 | 548 | Ottison Dianna |
 | 90 | 541 | Andi McGreevy |
 | 91 | 527 | MommaCia |
-| 92 | 513 | Moomoo |
-| 93 | 511 | Abraham Espaillat |
+| 92 | 517 | Danielle DeLozier Plesec |
+| 93 | 513 | Moomoo |
 | 94 | 511 | Dizzy Dropper |
-| 95 | 510 | Cj Gorman |
-| 96 | 507 | Big Tina |
-| 97 | 498 | Voice |
-| 98 | 495 | W.A. Simpson |
-| 99 | 477 | Chenell Gillard |
-| 100 | 475 | Quirky Fallgrid |
-| 101 | 474 | Keeta Chickswit Scott |
-| 102 | 465 | Gael Quintana |
-| 103 | 454 | DaVonte' Cretter |
-| 104 | 447 | Gotcha |
-| 105 | 444 | Kevin M. McGhee Jr |
-| 106 | 441 | Bre Maugh |
-| 107 | 439 | Asani CHumba |
-| 108 | 432 | She Higgy |
-| 109 | 414 | Anthony Washington |
-| 110 | 410 | ELM |
-| 111 | 404 | Hyper Slamdrop |
-| 112 | 401 | Shell Lewis |
-| 113 | 400 | Jessica Carter |
-| 114 | 393 | SPNLover24 |
-| 115 | 391 | Sarah Marie |
-| 116 | 387 | Novaa |
-| 117 | 384 | Jason Mungin |
-| 118 | 378 | Jamal Itzjusmall Chambers |
-| 119 | 377 | AF Cruz |
-| 120 | 374 | Lashawn Wallace |
-| 121 | 370 | Tameka Jones |
-| 122 | 363 | Ebony Waynes-robinson |
-| 123 | 349 | Tobey Marberry |
-| 124 | 348 | LeeLee08 |
-| 125 | 345 | Lashaunda |
-| 126 | 339 | Ty Øtg |
-| 127 | 334 | Christana Imjustbutton Stone |
-| 128 | 331 | Joey Albright |
-| 129 | 328 | Jonathan Vee Jay |
-| 130 | 323 | Sheila Burnham |
-| 131 | 319 | GrkGdess |
-| 132 | 319 | Andre Sanon |
-| 133 | 317 | Danielle DeLozier Plesec |
+| 95 | 511 | Abraham Espaillat |
+| 96 | 510 | Cj Gorman |
+| 97 | 507 | Big Tina |
+| 98 | 498 | Voice |
+| 99 | 495 | W.A. Simpson |
+| 100 | 477 | Chenell Gillard |
+| 101 | 475 | Quirky Fallgrid |
+| 102 | 474 | Keeta Chickswit Scott |
+| 103 | 465 | Gael Quintana |
+| 104 | 454 | DaVonte' Cretter |
+| 105 | 447 | Gotcha |
+| 106 | 444 | Kevin M. McGhee Jr |
+| 107 | 441 | Bre Maugh |
+| 108 | 439 | Asani CHumba |
+| 109 | 432 | She Higgy |
+| 110 | 414 | Anthony Washington |
+| 111 | 410 | ELM |
+| 112 | 404 | Hyper Slamdrop |
+| 113 | 401 | Shell Lewis |
+| 114 | 400 | Jessica Carter |
+| 115 | 393 | SPNLover24 |
+| 116 | 391 | Sarah Marie |
+| 117 | 387 | Novaa |
+| 118 | 384 | Jason Mungin |
+| 119 | 378 | Jamal Itzjusmall Chambers |
+| 120 | 377 | AF Cruz |
+| 121 | 374 | Lashawn Wallace |
+| 122 | 370 | Tameka Jones |
+| 123 | 363 | Ebony Waynes-robinson |
+| 124 | 349 | Tobey Marberry |
+| 125 | 348 | LeeLee08 |
+| 126 | 345 | Lashaunda |
+| 127 | 339 | Ty Øtg |
+| 128 | 334 | Christana Imjustbutton Stone |
+| 129 | 331 | Joey Albright |
+| 130 | 328 | Jonathan Vee Jay |
+| 131 | 323 | Sheila Burnham |
+| 132 | 319 | GrkGdess |
+| 133 | 319 | Andre Sanon |
 | 134 | 311 | Simmone T. Kadiri |
 | 135 | 308 | John Staub |
 | 136 | 303 | Roberta Lynn |
 | 137 | 302 | Felicia Williams |
-| 138 | 300 | Felicia Cain |
-| 139 | 300 | Atlantalindi |
+| 138 | 300 | Atlantalindi |
+| 139 | 300 | Felicia Cain |
 | 140 | 298 | Leebo Slice |
 | 141 | 297 | Tammye Turner |
 | 142 | 297 | Michelle Titus |
 | 143 | 296 | Rolanda Williams |
 | 144 | 293 | Dee McCool |
 | 145 | 291 | Brian Taylor |
-| 146 | 290 | Mimi 1.0 |
-| 147 | 290 | Kaleisha Smith |
+| 146 | 290 | Kaleisha Smith |
+| 147 | 290 | Mimi 1.0 |
 | 148 | 288 | Ceilo Marie |
 | 149 | 285 | Ashley MyBeauty Daniels |
 | 150 | 284 | Tamara N Lee |
@@ -166,32 +166,32 @@
 | 158 | 263 | pooh |
 | 159 | 262 | Chantelle Lee |
 | 160 | 258 | Jayjay Rich |
-| 161 | 257 | Po Marley |
-| 162 | 257 | Cathy Young |
-| 163 | 257 | Helen Smith |
-| 164 | 257 | NastyFriend |
+| 161 | 257 | Cathy Young |
+| 162 | 257 | Po Marley |
+| 163 | 257 | NastyFriend |
+| 164 | 257 | Helen Smith |
 | 165 | 256 | Cortaz Lawrie |
 | 166 | 254 | Tonya McElroy |
 | 167 | 254 | Alana Renee |
-| 168 | 253 | Brave Clearbuilder |
-| 169 | 253 | xXEKUNXx |
+| 168 | 253 | xXEKUNXx |
+| 169 | 253 | Brave Clearbuilder |
 | 170 | 251 | Allison Baxter |
 | 171 | 250 | Calvin Green |
 | 172 | 250 | Davionte DaeDae Hopson-Rodriguez |
-| 173 | 249 | Falisa Bell |
-| 174 | 249 | Cee Emm |
-| 175 | 248 | Yasmin Nakea Wright |
-| 176 | 248 | Jazzy Fireflighters |
-| 177 | 248 | Sharon Cail |
+| 173 | 249 | Cee Emm |
+| 174 | 249 | Falisa Bell |
+| 175 | 248 | Sharon Cail |
+| 176 | 248 | Yasmin Nakea Wright |
+| 177 | 248 | Jazzy Fireflighters |
 | 178 | 246 | Denise B |
-| 179 | 245 | Zachary Colegrove |
-| 180 | 245 | Derrius SeriousLee Burks |
+| 179 | 245 | Derrius SeriousLee Burks |
+| 180 | 245 | Zachary Colegrove |
 | 181 | 241 | Byron Mario Cawthon |
 | 182 | 241 | SyTheEvilGenius1 |
 | 183 | 240 | Rayya Kiser |
 | 184 | 237 | David Fuentes |
-| 185 | 236 | IThinkNot |
-| 186 | 236 | Nutty Spinblock |
+| 185 | 236 | Nutty Spinblock |
+| 186 | 236 | IThinkNot |
 | 187 | 235 | Michele Simpson |
 | 188 | 234 | Eugina Slater |
 | 189 | 228 | Dacia Hicks |
@@ -201,9 +201,9 @@
 | 193 | 220 | Devin West |
 | 194 | 220 | Ketrell Bailey |
 | 195 | 219 | Christina Rebecca |
-| 196 | 217 | Slim Shedidthat |
-| 197 | 217 | Reginald Frank |
-| 198 | 217 | Koi |
+| 196 | 217 | Reginald Frank |
+| 197 | 217 | Koi |
+| 198 | 217 | Slim Shedidthat |
 | 199 | 216 | Nerdy Snapfall |
 | 200 | 212 | Nobles Brandon |
 | 201 | 211 | Latisha Fairley |
@@ -216,13 +216,13 @@
 | 208 | 197 | Smiley Clearpiece |
 | 209 | 196 | Chilly Wipebuilder |
 | 210 | 195 | Brittnay Wright |
-| 211 | 194 | Shameka Thrasher |
-| 212 | 194 | Daris Swearington |
-| 213 | 192 | Katherine Short |
-| 214 | 192 | Rayshawn Cohen |
-| 215 | 192 | Trina Greenwood |
-| 216 | 191 | Emily Wright |
-| 217 | 191 | Kelli Couture |
+| 211 | 194 | Daris Swearington |
+| 212 | 194 | Shameka Thrasher |
+| 213 | 192 | Rayshawn Cohen |
+| 214 | 192 | Trina Greenwood |
+| 215 | 192 | Katherine Short |
+| 216 | 191 | Kelli Couture |
+| 217 | 191 | Emily Wright |
 | 218 | 191 | Mikayla |
 | 219 | 187 | Kenny MrOnethousand Peck |
 | 220 | 186 | Stephen Providenti |
