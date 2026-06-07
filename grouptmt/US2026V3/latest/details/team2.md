@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 20:40:42 UTC
+# Standings for team2 as of 2026-06-07 20:41:17 UTC
 
 **Total Participants:** 1891
 
@@ -160,10 +160,10 @@
 | 152 | 515 | Loony Faller |
 | 153 | 510 | Michelle Rich Burkhart |
 | 154 | 495 | Samantha Carman |
-| 155 | 490 | Theresa Marie |
-| 156 | 488 | MarioKarasovic |
-| 157 | 488 | Zarah Kettler |
-| 158 | 487 | Judy Long |
+| 155 | 494 | Theresa Marie |
+| 156 | 490 | Judy Long |
+| 157 | 488 | MarioKarasovic |
+| 158 | 488 | Zarah Kettler |
 | 159 | 486 | Cool Balancer |
 | 160 | 484 | Steven Craig |
 | 161 | 483 | Karen Reid Cenkush |
@@ -489,42 +489,42 @@
 | 481 | 145 | Alicia Parrish |
 | 482 | 145 | Justin Stark |
 | 483 | 144 | Nikki Hatch |
-| 484 | 144 | Will Jones |
-| 485 | 144 | Mandy Van Laningham Bishop |
-| 486 | 144 | Analee Nicole Jones |
-| 487 | 143 | Alicia Ellenburg |
-| 488 | 143 | Spicy Basepiece |
-| 489 | 143 | Amanda L Strong |
-| 490 | 143 | Matt Wylie |
-| 491 | 142 | Angela Hogan |
-| 492 | 141 | Mama G |
-| 493 | 141 | Crystal Robinson |
+| 484 | 144 | Mandy |
+| 485 | 144 | Will Jones |
+| 486 | 144 | Mandy Van Laningham Bishop |
+| 487 | 144 | Analee Nicole Jones |
+| 488 | 143 | Alicia Ellenburg |
+| 489 | 143 | Matt Wylie |
+| 490 | 143 | Spicy Basepiece |
+| 491 | 143 | Amanda L Strong |
+| 492 | 142 | Angela Hogan |
+| 493 | 141 | Tamtam |
 | 494 | 141 | Layla Petroff |
-| 495 | 141 | Tamtam |
-| 496 | 140 | Bouncy Snapmatch |
+| 495 | 141 | Mama G |
+| 496 | 141 | Crystal Robinson |
 | 497 | 140 | Heather Billodeau |
 | 498 | 140 | Sandy Rundel Holderman |
-| 499 | 140 | Rescuegirl76 |
-| 500 | 140 | Dapper Riser |
-| 501 | 140 | Heather Schardan |
-| 502 | 140 | Alycia Marie Zelensky |
-| 503 | 140 | Kristi Chestnut |
-| 504 | 140 | Doowop40 |
-| 505 | 140 | Sedy |
-| 506 | 139 | Candi Cane |
-| 507 | 139 | Jason Burris |
-| 508 | 139 | Renee Siems |
-| 509 | 138 | Madonna Ash |
-| 510 | 138 | Melissa Fink |
-| 511 | 138 | Jeff Pottgether |
+| 499 | 140 | Bouncy Snapmatch |
+| 500 | 140 | Heather Schardan |
+| 501 | 140 | Rescuegirl76 |
+| 502 | 140 | Dapper Riser |
+| 503 | 140 | Doowop40 |
+| 504 | 140 | Alycia Marie Zelensky |
+| 505 | 140 | Kristi Chestnut |
+| 506 | 140 | Sedy |
+| 507 | 139 | Candi Cane |
+| 508 | 139 | Jason Burris |
+| 509 | 139 | Renee Siems |
+| 510 | 138 | Wendy McKee |
+| 511 | 138 | Madonna Ash |
 | 512 | 138 | James Sayers |
 | 513 | 138 | Spicy Balanceblock |
-| 514 | 138 | Wendy McKee |
-| 515 | 137 | Partin |
-| 516 | 137 | LadyDeath |
-| 517 | 137 | Sandra Belk |
-| 518 | 137 | Sarah Louise Cobb |
-| 519 | 136 | Mandy |
+| 514 | 138 | Jeff Pottgether |
+| 515 | 138 | Melissa Fink |
+| 516 | 137 | Partin |
+| 517 | 137 | Sarah Louise Cobb |
+| 518 | 137 | Sandra Belk |
+| 519 | 137 | LadyDeath |
 | 520 | 136 | Lauren Maxwell |
 | 521 | 136 | Mtnblzr |
 | 522 | 135 | Firebone |
