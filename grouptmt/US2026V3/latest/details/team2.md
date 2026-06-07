@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 19:56:19 UTC
+# Standings for team2 as of 2026-06-07 19:56:40 UTC
 
 **Total Participants:** 1873
 
@@ -268,9 +268,9 @@
 | 260 | 280 | Loopy Dropper |
 | 261 | 279 | Curly Windbreaker |
 | 262 | 278 | Amy Nicole McCanne |
-| 263 | 276 | Cathy Lee Stoneking |
-| 264 | 276 | AndrewandShela Gornik |
-| 265 | 274 | Boldy Wobbler |
+| 263 | 277 | Boldy Wobbler |
+| 264 | 276 | Cathy Lee Stoneking |
+| 265 | 276 | AndrewandShela Gornik |
 | 266 | 267 | Karly Moore |
 | 267 | 267 | Michelle Luke Banta |
 | 268 | 267 | Iesha Cupil |
@@ -702,13 +702,13 @@
 | 694 | 92 | Doug Small |
 | 695 | 92 | Cody Bohannan |
 | 696 | 92 | John Perkins |
-| 697 | 92 | Stoney McMillion |
-| 698 | 92 | Tim Moore |
-| 699 | 92 | Belinda Gullion Austin |
-| 700 | 92 | Linzy Ratliff |
-| 701 | 92 | Jayda Walters |
-| 702 | 92 | Chirpy Clearpiece |
-| 703 | 91 | Nikki Sadler |
+| 697 | 92 | Nikki Sadler |
+| 698 | 92 | Stoney McMillion |
+| 699 | 92 | Tim Moore |
+| 700 | 92 | Belinda Gullion Austin |
+| 701 | 92 | Linzy Ratliff |
+| 702 | 92 | Jayda Walters |
+| 703 | 92 | Chirpy Clearpiece |
 | 704 | 91 | Tamara Whiteley |
 | 705 | 91 | Tito Garcia |
 | 706 | 91 | Smiley Cornerfall |
@@ -1131,46 +1131,46 @@
 | 1123 | 47 | Goofy Bridger |
 | 1124 | 47 | Emily |
 | 1125 | 47 | Frothy Zonebuilder |
-| 1126 | 47 | Spicy Enchilada |
-| 1127 | 46 | Chill Clearbuilder |
-| 1128 | 46 | Signerlisa |
-| 1129 | 46 | Matthew Black |
-| 1130 | 46 | Tabitha Ann Bullins-Cobb |
-| 1131 | 46 | Giggly Buildgrid |
-| 1132 | 46 | Debra Patten |
-| 1133 | 46 | Brittany Nichole Ellenburg |
-| 1134 | 46 | Shannon Vanlester |
-| 1135 | 46 | Thomas Chris |
-| 1136 | 46 | Collins |
-| 1137 | 45 | Witty Brickster |
-| 1138 | 45 | Chill Wipegrid |
-| 1139 | 45 | C.L. Deslongchamp |
-| 1140 | 45 | Michelle Edgin Tranbarger |
-| 1141 | 45 | Thomas Johnstone |
-| 1142 | 45 | Nora Buchan |
-| 1143 | 45 | SaraAnn Gray Philbrick |
-| 1144 | 45 | Breanna Dykes |
-| 1145 | 45 | Ramona Peña |
-| 1146 | 45 | Teresa Ann Curry |
-| 1147 | 45 | Giggy Snapper |
-| 1148 | 44 | Zippy Wobbler |
-| 1149 | 44 | Lisa |
-| 1150 | 44 | Blocker |
-| 1151 | 44 | William Richardson |
-| 1152 | 44 | Dandy Column |
-| 1153 | 44 | Joe Duffer |
+| 1126 | 47 | Amanda Neal |
+| 1127 | 47 | Spicy Enchilada |
+| 1128 | 46 | Chill Clearbuilder |
+| 1129 | 46 | Signerlisa |
+| 1130 | 46 | Matthew Black |
+| 1131 | 46 | Tabitha Ann Bullins-Cobb |
+| 1132 | 46 | Giggly Buildgrid |
+| 1133 | 46 | Debra Patten |
+| 1134 | 46 | Brittany Nichole Ellenburg |
+| 1135 | 46 | Shannon Vanlester |
+| 1136 | 46 | Thomas Chris |
+| 1137 | 46 | Collins |
+| 1138 | 45 | C.L. Deslongchamp |
+| 1139 | 45 | Chill Wipegrid |
+| 1140 | 45 | Breanna Dykes |
+| 1141 | 45 | SaraAnn Gray Philbrick |
+| 1142 | 45 | Michelle Edgin Tranbarger |
+| 1143 | 45 | Witty Brickster |
+| 1144 | 45 | Thomas Johnstone |
+| 1145 | 45 | Nora Buchan |
+| 1146 | 45 | Ramona Peña |
+| 1147 | 45 | Teresa Ann Curry |
+| 1148 | 45 | Giggy Snapper |
+| 1149 | 44 | Zippy Wobbler |
+| 1150 | 44 | Lisa |
+| 1151 | 44 | Blocker |
+| 1152 | 44 | William Richardson |
+| 1153 | 44 | Loony Ziggy |
 | 1154 | 44 | Katie Boen |
-| 1155 | 44 | Kassie D Harmon |
-| 1156 | 44 | Jackie Moran Tiller |
-| 1157 | 44 | Robert W Schwartz |
-| 1158 | 44 | Amanda Neal |
-| 1159 | 44 | Cuca Perez |
-| 1160 | 44 | Nicole Dyer |
-| 1161 | 44 | Loony Ziggy |
-| 1162 | 43 | Amy Hahn Nickels |
-| 1163 | 43 | Betty Muise |
-| 1164 | 43 | Quirky Shifter |
-| 1165 | 43 | Fluffypuffin |
+| 1155 | 44 | Nicole Dyer |
+| 1156 | 44 | Robert W Schwartz |
+| 1157 | 44 | Joe Duffer |
+| 1158 | 44 | Kassie D Harmon |
+| 1159 | 44 | Dandy Column |
+| 1160 | 44 | Jackie Moran Tiller |
+| 1161 | 44 | Cuca Perez |
+| 1162 | 43 | Betty Muise |
+| 1163 | 43 | Quirky Shifter |
+| 1164 | 43 | Fluffypuffin |
+| 1165 | 43 | Amy Hahn Nickels |
 | 1166 | 43 | Jazzy |
 | 1167 | 43 | Kourtney Heiden-Hudson |
 | 1168 | 43 | Kayla Faulkiner |
@@ -1182,14 +1182,14 @@
 | 1174 | 42 | Christopher S Lawyer |
 | 1175 | 42 | Kendra Sizemore |
 | 1176 | 42 | Chrissy Hess |
-| 1177 | 42 | Frothy Cascader |
+| 1177 | 42 | MJLovesHer#OneMistake |
 | 1178 | 42 | Lakeisha Ryder |
-| 1179 | 42 | MJLovesHer#OneMistake |
-| 1180 | 42 | Sami Amato |
-| 1181 | 42 | Henny Henny |
-| 1182 | 42 | Clever Linkbuilder |
-| 1183 | 42 | Shylo Bryant-Brunson |
-| 1184 | 42 | Snazzy Smasher |
+| 1179 | 42 | Sami Amato |
+| 1180 | 42 | Henny Henny |
+| 1181 | 42 | Clever Linkbuilder |
+| 1182 | 42 | Frothy Cascader |
+| 1183 | 42 | Snazzy Smasher |
+| 1184 | 42 | Shylo Bryant-Brunson |
 | 1185 | 41 | Baby |
 | 1186 | 41 | Jenny Coffer |
 | 1187 | 41 | Kymberlee Rolinski |
