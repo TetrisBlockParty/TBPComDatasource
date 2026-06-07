@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 02:58:40 UTC
+# Standings for team2 as of 2026-06-07 02:59:19 UTC
 
 **Total Participants:** 1556
 
@@ -142,10 +142,10 @@
 | 134 | 372 | MaddieCherie |
 | 135 | 365 | Branden Frankowski |
 | 136 | 357 | Erin Thomas |
-| 137 | 357 | Crystal Allen |
-| 138 | 356 | Joni Michelle Morgan |
-| 139 | 348 | Eric Drane |
-| 140 | 348 | Ashley Green |
+| 137 | 357 | Ashley Green |
+| 138 | 357 | Crystal Allen |
+| 139 | 356 | Joni Michelle Morgan |
+| 140 | 348 | Eric Drane |
 | 141 | 348 | Nettrainer |
 | 142 | 347 | Zesty Strikerbuilder |
 | 143 | 344 | Traci Abern |
@@ -227,38 +227,38 @@
 | 219 | 218 | Amy Nicole McCanne |
 | 220 | 217 | Elizabeth Henry |
 | 221 | 216 | PaiBri |
-| 222 | 212 | Sully |
-| 223 | 209 | Logan Duffey |
-| 224 | 209 | Patria Osuoha |
-| 225 | 208 | Jat |
+| 222 | 214 | MarioKarasovic |
+| 223 | 212 | Sully |
+| 224 | 209 | Logan Duffey |
+| 225 | 209 | Patria Osuoha |
 | 226 | 208 | Jenny |
-| 227 | 207 | Amber Cogdill |
+| 227 | 208 | Jat |
 | 228 | 207 | Margie Ann Naffziger |
-| 229 | 206 | Jodi Johnson |
-| 230 | 205 | Karly Moore |
-| 231 | 205 | Jeanna Mendez |
-| 232 | 205 | Melisa |
-| 233 | 204 | Chill Line |
-| 234 | 201 | Danielle Pack Lewellen |
-| 235 | 201 | Jeffrey Smith |
+| 229 | 207 | Amber Cogdill |
+| 230 | 206 | Jodi Johnson |
+| 231 | 205 | Karly Moore |
+| 232 | 205 | Jeanna Mendez |
+| 233 | 205 | Melisa |
+| 234 | 204 | Chill Line |
+| 235 | 201 | Danielle Pack Lewellen |
 | 236 | 201 | Melissa Nash |
-| 237 | 200 | Al Smith Jr |
-| 238 | 200 | August Christy Lathrop |
-| 239 | 200 | Sarah Grundisch |
-| 240 | 200 | Kelly Vedder |
-| 241 | 200 | Physhie |
-| 242 | 200 | Eric Wayne Maschman |
-| 243 | 200 | Norma Ortiz |
-| 244 | 200 | Nathan Walker |
-| 245 | 198 | Amy Taylor Pomerenk |
-| 246 | 195 | Bb |
-| 247 | 195 | Pamela Raye |
-| 248 | 192 | Jef Wassom |
-| 249 | 192 | Jill Goff |
-| 250 | 192 | Laverne Ellis Blair |
-| 251 | 192 | Greta Warden |
-| 252 | 191 | Jessica Christine |
-| 253 | 191 | MarioKarasovic |
+| 237 | 201 | Jeffrey Smith |
+| 238 | 200 | Al Smith Jr |
+| 239 | 200 | August Christy Lathrop |
+| 240 | 200 | Sarah Grundisch |
+| 241 | 200 | Kelly Vedder |
+| 242 | 200 | Physhie |
+| 243 | 200 | Eric Wayne Maschman |
+| 244 | 200 | Norma Ortiz |
+| 245 | 200 | Nathan Walker |
+| 246 | 198 | Amy Taylor Pomerenk |
+| 247 | 195 | Bb |
+| 248 | 195 | Pamela Raye |
+| 249 | 192 | Jef Wassom |
+| 250 | 192 | Jill Goff |
+| 251 | 192 | Laverne Ellis Blair |
+| 252 | 192 | Greta Warden |
+| 253 | 191 | Jessica Christine |
 | 254 | 188 | Ray Daisy |
 | 255 | 187 | Laura Melton |
 | 256 | 187 | Curly Windbreaker |
@@ -360,32 +360,32 @@
 | 352 | 132 | Raine |
 | 353 | 132 | Melmel |
 | 354 | 131 | Teresa Mandich |
-| 355 | 130 | Paula Haskins |
-| 356 | 130 | Charity Hauser |
-| 357 | 130 | ZBee |
-| 358 | 130 | Cristi Doris |
-| 359 | 129 | Analee Nicole Jones |
-| 360 | 129 | Melissa Fink |
-| 361 | 129 | Armando Sabedra |
-| 362 | 129 | Perii Reynoso |
-| 363 | 129 | Kristi K Milner |
-| 364 | 129 | Sandy Justus |
-| 365 | 129 | Belle |
-| 366 | 127 | Tammy Roth |
-| 367 | 127 | Nicky Steigerwalt |
-| 368 | 127 | Tina |
-| 369 | 127 | Aurora June Brock |
-| 370 | 127 | Stephanie |
-| 371 | 125 | Gwendolyn Boykin Mobbs |
-| 372 | 125 | Gabrielle Wilson |
+| 355 | 131 | Gabrielle Wilson |
+| 356 | 130 | Paula Haskins |
+| 357 | 130 | Charity Hauser |
+| 358 | 130 | ZBee |
+| 359 | 130 | Cristi Doris |
+| 360 | 129 | Analee Nicole Jones |
+| 361 | 129 | Melissa Fink |
+| 362 | 129 | Armando Sabedra |
+| 363 | 129 | Perii Reynoso |
+| 364 | 129 | Kristi K Milner |
+| 365 | 129 | Sandy Justus |
+| 366 | 129 | Belle |
+| 367 | 127 | Tammy Roth |
+| 368 | 127 | Nicky Steigerwalt |
+| 369 | 127 | Tina |
+| 370 | 127 | Aurora June Brock |
+| 371 | 127 | Stephanie |
+| 372 | 125 | Gwendolyn Boykin Mobbs |
 | 373 | 125 | Ariel Gundersen |
 | 374 | 125 | Wayne Johnson |
 | 375 | 124 | Anthony Swift |
 | 376 | 124 | Jason Burris |
 | 377 | 124 | Angeleye A James |
 | 378 | 123 | Sassy Twistbuilder |
-| 379 | 121 | Lisa Allen Frisk |
-| 380 | 121 | Aldotfus Williams |
+| 379 | 121 | Aldotfus Williams |
+| 380 | 121 | Lisa Allen Frisk |
 | 381 | 121 | Wacky Holder |
 | 382 | 120 | Carlos J Blas |
 | 383 | 120 | Kevin Mccoy |
@@ -395,34 +395,34 @@
 | 387 | 120 | Keisha Robinson |
 | 388 | 120 | Jessica Connot |
 | 389 | 119 | Angela Hogan |
-| 390 | 118 | Cindy Scott |
-| 391 | 118 | rebel4lyfe |
-| 392 | 118 | Ceci |
-| 393 | 117 | Jumpy Matchbuilder |
-| 394 | 117 | Poppy Strikerbuilder |
+| 390 | 118 | rebel4lyfe |
+| 391 | 118 | Ceci |
+| 392 | 118 | Cindy Scott |
+| 393 | 117 | Poppy Strikerbuilder |
+| 394 | 117 | Jumpy Matchbuilder |
 | 395 | 116 | Sherri E Woods Hess |
 | 396 | 116 | Joshua Dye |
-| 397 | 115 | James Sayers |
-| 398 | 115 | MegaPooh |
-| 399 | 113 | Flashy Hitter |
-| 400 | 113 | Meagan Grimmett Washburn |
-| 401 | 112 | Mike Mordhorst |
-| 402 | 111 | Nikki Hatch |
-| 403 | 111 | Crystal Robinson |
-| 404 | 110 | Wendy Durrence Jones |
-| 405 | 110 | Tamtam |
+| 397 | 115 | MegaPooh |
+| 398 | 115 | James Sayers |
+| 399 | 113 | Silly Tiltbuilder |
+| 400 | 113 | Flashy Hitter |
+| 401 | 113 | Meagan Grimmett Washburn |
+| 402 | 112 | Mike Mordhorst |
+| 403 | 111 | Nikki Hatch |
+| 404 | 111 | Crystal Robinson |
+| 405 | 110 | Wendy Durrence Jones |
 | 406 | 110 | Nichole Wilson |
-| 407 | 110 | LittleHippoEars |
-| 408 | 110 | Zappy Liney |
+| 407 | 110 | Zappy Liney |
+| 408 | 110 | LittleHippoEars |
 | 409 | 110 | Katie Jones |
-| 410 | 110 | Silly Tiltbuilder |
-| 411 | 109 | Kawana Nesbitt |
-| 412 | 109 | Sillyk |
+| 410 | 110 | Tamtam |
+| 411 | 109 | Kevin Patrick |
+| 412 | 109 | Kawana Nesbitt |
 | 413 | 109 | StacyBabee |
-| 414 | 109 | Kevin Patrick |
-| 415 | 108 | Sherri Caillet Aucoin |
-| 416 | 108 | Maurii93 |
-| 417 | 108 | Reign Hustler |
+| 414 | 109 | Sillyk |
+| 415 | 108 | Reign Hustler |
+| 416 | 108 | Sherri Caillet Aucoin |
+| 417 | 108 | Maurii93 |
 | 418 | 107 | Sam Brewster |
 | 419 | 107 | Kathryn |
 | 420 | 107 | Carole Brown |
