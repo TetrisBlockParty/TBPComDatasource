@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 10:40:18 UTC
+# Standings for team2 as of 2026-06-07 10:40:39 UTC
 
 **Total Participants:** 1701
 
@@ -135,8 +135,8 @@
 | 127 | 512 | Jackie Tupper |
 | 128 | 500 | Suki Kaur |
 | 129 | 500 | Courtney McCulley |
-| 130 | 483 | Karen Reid Cenkush |
-| 131 | 479 | Jgato |
+| 130 | 487 | Jgato |
+| 131 | 483 | Karen Reid Cenkush |
 | 132 | 477 | Amy Gale |
 | 133 | 476 | snowwol |
 | 134 | 474 | Bubbly Strikerpiece |
@@ -149,7 +149,7 @@
 | 141 | 438 | Zappy Pattern |
 | 142 | 436 | Gill |
 | 143 | 428 | Steven Craig |
-| 144 | 422 | Groovy Snapper |
+| 144 | 424 | Groovy Snapper |
 | 145 | 420 | Zarah Kettler |
 | 146 | 419 | Cool Climber |
 | 147 | 417 | Jenny Graham |

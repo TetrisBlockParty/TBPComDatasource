@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 10:40:18 UTC
+# Standings for team4 as of 2026-06-07 10:40:39 UTC
 
 **Total Participants:** 1443
 
@@ -232,51 +232,51 @@
 | 224 | 199 | Janet Willoughby |
 | 225 | 199 | Colin |
 | 226 | 197 | Tiggerjake |
-| 227 | 195 | Sean Mccleary |
-| 228 | 194 | Jenn Norcross |
-| 229 | 194 | Lisa lisa |
-| 230 | 193 | Piece of Cake |
-| 231 | 193 | Tiffany Bunker-Hill |
-| 232 | 188 | Lee Ann Gibby |
-| 233 | 187 | Leslie Ann Carter |
-| 234 | 187 | Tipsy Builderline |
-| 235 | 186 | Kimyatta Cavin |
-| 236 | 186 | Snippy Splitter |
-| 237 | 185 | PerfectPieces |
-| 238 | 185 | Dae Von |
+| 227 | 196 | Loopy Clusterline |
+| 228 | 195 | Sean Mccleary |
+| 229 | 194 | Jenn Norcross |
+| 230 | 194 | Lisa lisa |
+| 231 | 193 | Piece of Cake |
+| 232 | 193 | Tiffany Bunker-Hill |
+| 233 | 188 | Lee Ann Gibby |
+| 234 | 187 | Leslie Ann Carter |
+| 235 | 187 | Tipsy Builderline |
+| 236 | 186 | Kimyatta Cavin |
+| 237 | 186 | Snippy Splitter |
+| 238 | 185 | PerfectPieces |
 | 239 | 185 | Britney Kitora |
-| 240 | 183 | Brandy Lynn |
-| 241 | 183 | Tara Delay Hill |
-| 242 | 182 | Homie |
-| 243 | 182 | Jeremy |
-| 244 | 181 | EL Booger |
+| 240 | 185 | Dae Von |
+| 241 | 183 | Brandy Lynn |
+| 242 | 183 | Tara Delay Hill |
+| 243 | 182 | Homie |
+| 244 | 182 | Jeremy |
 | 245 | 181 | Alyson M Kehler |
-| 246 | 181 | Spicy Chicken |
-| 247 | 180 | ariel |
-| 248 | 180 | Kelly Howland |
-| 249 | 179 | LaTanya GeminiondaRise Johnson |
-| 250 | 178 | Tamara Triplet |
-| 251 | 178 | Jacqueline Jackii Ramos |
-| 252 | 177 | Mark Norton |
-| 253 | 177 | Chirpy Link |
+| 246 | 181 | EL Booger |
+| 247 | 181 | Spicy Chicken |
+| 248 | 180 | ariel |
+| 249 | 180 | Kelly Howland |
+| 250 | 179 | LaTanya GeminiondaRise Johnson |
+| 251 | 178 | Tamara Triplet |
+| 252 | 178 | Jacqueline Jackii Ramos |
+| 253 | 177 | Mark Norton |
 | 254 | 177 | Damon Gaston |
-| 255 | 176 | Nicole Dombrow |
-| 256 | 175 | Baysoph |
-| 257 | 175 | Jackie Miller |
-| 258 | 174 | Clashy |
-| 259 | 173 | Ashley Mcdonald |
-| 260 | 172 | No Time |
-| 261 | 171 | Karen Davis |
+| 255 | 177 | Chirpy Link |
+| 256 | 176 | Nicole Dombrow |
+| 257 | 175 | Baysoph |
+| 258 | 175 | Jackie Miller |
+| 259 | 174 | Clashy |
+| 260 | 173 | Ashley Mcdonald |
+| 261 | 172 | No Time |
 | 262 | 171 | Bridget Stevens |
-| 263 | 169 | Andrick |
-| 264 | 169 | Miwa |
-| 265 | 169 | Tiffany Smith |
-| 266 | 167 | Brainbabe |
-| 267 | 167 | Jackie Polanco |
-| 268 | 167 | Littlebrat |
-| 269 | 166 | bollo |
-| 270 | 166 | Susan Stofberg Beltran |
-| 271 | 166 | Loopy Clusterline |
+| 263 | 171 | Karen Davis |
+| 264 | 169 | Tiffany Smith |
+| 265 | 169 | Miwa |
+| 266 | 169 | Andrick |
+| 267 | 167 | Brainbabe |
+| 268 | 167 | Jackie Polanco |
+| 269 | 167 | Littlebrat |
+| 270 | 166 | bollo |
+| 271 | 166 | Susan Stofberg Beltran |
 | 272 | 165 | Erika Seaton |
 | 273 | 165 | Ryan Paul Clark-Ramsey |
 | 274 | 164 | Stacy G |
@@ -288,12 +288,12 @@
 | 280 | 159 | Logan Two-dubs Baker |
 | 281 | 159 | JoAnn Summerlot Ratliff |
 | 282 | 158 | Joseph Hunter |
-| 283 | 157 | Matthew Wilcox |
-| 284 | 157 | Laguya |
+| 283 | 157 | Laguya |
+| 284 | 157 | Matthew Wilcox |
 | 285 | 157 | Tipsy Zonebuilder |
 | 286 | 155 | Shayna Vaigneur-Hall |
-| 287 | 155 | Bonnie Powell |
-| 288 | 155 | Danny Frausto |
+| 287 | 155 | Danny Frausto |
+| 288 | 155 | Bonnie Powell |
 | 289 | 154 | Lani |
 | 290 | 153 | Shawntae Mccary |
 | 291 | 153 | June Hoffman |
