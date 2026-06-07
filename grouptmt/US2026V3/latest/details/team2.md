@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 06:48:18 UTC
+# Standings for team2 as of 2026-06-07 06:48:39 UTC
 
 **Total Participants:** 1661
 
@@ -428,15 +428,15 @@
 | 420 | 123 | Sassy Twistbuilder |
 | 421 | 122 | Kevin Patrick |
 | 422 | 122 | Katie Jones |
-| 423 | 122 | Maria Ward |
-| 424 | 121 | Lisa Allen Frisk |
-| 425 | 120 | Starvinmarvin |
-| 426 | 120 | Keisha Robinson |
-| 427 | 120 | Kevin Mccoy |
-| 428 | 120 | Adam Latin |
-| 429 | 120 | Tony Medina |
-| 430 | 120 | Wendy McKee |
-| 431 | 120 | Reign Hustler |
+| 423 | 122 | Reign Hustler |
+| 424 | 122 | Maria Ward |
+| 425 | 121 | Lisa Allen Frisk |
+| 426 | 120 | Starvinmarvin |
+| 427 | 120 | Keisha Robinson |
+| 428 | 120 | Kevin Mccoy |
+| 429 | 120 | Adam Latin |
+| 430 | 120 | Tony Medina |
+| 431 | 120 | Wendy McKee |
 | 432 | 120 | Carlos J Blas |
 | 433 | 118 | Ceci |
 | 434 | 118 | Crystal Robinson |
