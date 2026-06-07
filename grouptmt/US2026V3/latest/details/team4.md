@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 22:36:19 UTC
+# Standings for team4 as of 2026-06-07 22:36:41 UTC
 
 **Total Participants:** 1640
 
@@ -487,30 +487,30 @@
 | 479 | 125 | Jennifer Terrill |
 | 480 | 125 | Corey Jackson |
 | 481 | 125 | Winter Moon |
-| 482 | 125 | Youngkueen |
-| 483 | 124 | Tasha Suzanne Prisbrey |
-| 484 | 124 | Brian Woods |
-| 485 | 123 | Gma420 |
-| 486 | 123 | Amanda Snow |
-| 487 | 123 | Sarah Perry Cook |
-| 488 | 122 | Donna Bush |
+| 482 | 125 | Donna Bush |
+| 483 | 125 | Youngkueen |
+| 484 | 124 | Tasha Suzanne Prisbrey |
+| 485 | 124 | Brian Woods |
+| 486 | 123 | Gma420 |
+| 487 | 123 | Amanda Snow |
+| 488 | 123 | Sarah Perry Cook |
 | 489 | 122 | Danny Keich III |
 | 490 | 121 | Brandi Sauer |
 | 491 | 121 | Dan Butcher |
 | 492 | 121 | Jeff Margolis |
 | 493 | 121 | Alizabeth Garcia |
-| 494 | 120 | Stotty |
+| 494 | 120 | George Marshburn |
 | 495 | 120 | Giddy Basepiece |
 | 496 | 120 | Ada Rodriguez Spradley |
 | 497 | 120 | Will E Ayala |
 | 498 | 120 | Natalie Dillard |
 | 499 | 120 | Urplan |
 | 500 | 120 | Glamorous Gracey |
-| 501 | 120 | George Marshburn |
+| 501 | 120 | Stotty |
 | 502 | 120 | Jenn Wilson |
 | 503 | 120 | Holly Wessel |
-| 504 | 119 | Dennis Montoya |
-| 505 | 119 | Allysonjo Varela |
+| 504 | 119 | Allysonjo Varela |
+| 505 | 119 | Dennis Montoya |
 | 506 | 118 | Ian T Parker |
 | 507 | 118 | Jennifer Naughton |
 | 508 | 118 | Mint Marquez |
@@ -1268,46 +1268,46 @@
 | 1260 | 30 | Daring Towerer |
 | 1261 | 30 | Spicy Holder |
 | 1262 | 30 | Theonei |
-| 1263 | 30 | Lizette Chaires |
-| 1264 | 30 | Nick Virgil |
-| 1265 | 30 | Frisky Framezone |
-| 1266 | 29 | Mighty Clicky |
-| 1267 | 29 | Naybel85 |
-| 1268 | 29 | Dandy Balancer |
+| 1263 | 30 | Nick Virgil |
+| 1264 | 30 | Frisky Framezone |
+| 1265 | 30 | Lizette Chaires |
+| 1266 | 29 | Wynisha Johnson |
+| 1267 | 29 | Mighty Clicky |
+| 1268 | 29 | Naybel85 |
 | 1269 | 29 | Kelley Shoop |
 | 1270 | 29 | Crafty Linkfall |
-| 1271 | 29 | Epic Dashfit |
-| 1272 | 29 | Marion Wade |
-| 1273 | 29 | MzCeleste Brooks |
-| 1274 | 29 | J.Wo |
-| 1275 | 29 | Garett Lahti |
-| 1276 | 29 | Mumsy |
-| 1277 | 29 | CRsLady |
-| 1278 | 29 | Wynisha Johnson |
-| 1279 | 28 | Catherine Garza |
-| 1280 | 28 | FUNBAT |
-| 1281 | 28 | David Kirschner |
-| 1282 | 28 | nanaz86 |
-| 1283 | 28 | Leslee Bentley DeLong |
-| 1284 | 28 | Mindy Phariss |
-| 1285 | 27 | Misty Harland |
-| 1286 | 27 | Loopy Bridger |
-| 1287 | 27 | NotAkaren Barker |
-| 1288 | 27 | BlockFlakes |
-| 1289 | 27 | Shirley Williams |
-| 1290 | 27 | boo |
-| 1291 | 27 | Daring Patternblock |
-| 1292 | 27 | Twisty Gridclear |
-| 1293 | 27 | Myranda Gereau |
-| 1294 | 27 | PIPPI |
-| 1295 | 27 | Glitter |
-| 1296 | 27 | John Cotugno |
-| 1297 | 27 | Street724 |
-| 1298 | 26 | Rebecca Rae Reed |
-| 1299 | 26 | Jessica Huber |
-| 1300 | 26 | Love GH |
-| 1301 | 26 | Glitzy Builderline |
-| 1302 | 26 | Kevin Lyles |
+| 1271 | 29 | Dandy Balancer |
+| 1272 | 29 | Epic Dashfit |
+| 1273 | 29 | Marion Wade |
+| 1274 | 29 | CRsLady |
+| 1275 | 29 | Mumsy |
+| 1276 | 29 | Garett Lahti |
+| 1277 | 29 | J.Wo |
+| 1278 | 29 | MzCeleste Brooks |
+| 1279 | 28 | Daring Patternblock |
+| 1280 | 28 | Leslee Bentley DeLong |
+| 1281 | 28 | FUNBAT |
+| 1282 | 28 | Mindy Phariss |
+| 1283 | 28 | nanaz86 |
+| 1284 | 28 | David Kirschner |
+| 1285 | 28 | Catherine Garza |
+| 1286 | 27 | BlockFlakes |
+| 1287 | 27 | Street724 |
+| 1288 | 27 | John Cotugno |
+| 1289 | 27 | Glitter |
+| 1290 | 27 | PIPPI |
+| 1291 | 27 | Myranda Gereau |
+| 1292 | 27 | Misty Harland |
+| 1293 | 27 | Twisty Gridclear |
+| 1294 | 27 | Loopy Bridger |
+| 1295 | 27 | NotAkaren Barker |
+| 1296 | 27 | Shirley Williams |
+| 1297 | 27 | boo |
+| 1298 | 26 | Jessica Huber |
+| 1299 | 26 | Glitzy Builderline |
+| 1300 | 26 | Kevin Lyles |
+| 1301 | 26 | Rebecca Rae Reed |
+| 1302 | 26 | Love GH |
 | 1303 | 26 | Ivyleata McFadden |
 | 1304 | 26 | Lacey Decker |
 | 1305 | 26 | Shakita Moore-Bernard |
