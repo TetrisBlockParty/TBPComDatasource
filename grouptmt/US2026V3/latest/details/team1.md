@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 21:04:19 UTC
+# Standings for team1 as of 2026-06-07 21:04:39 UTC
 
 **Total Participants:** 1580
 
@@ -154,33 +154,33 @@
 | 146 | 420 | Jessica Carter |
 | 147 | 417 | Dena Marie Lee |
 | 148 | 408 | Ebony Waynes-robinson |
-| 149 | 405 | SPNLover24 |
-| 150 | 404 | Hyper Slamdrop |
-| 151 | 401 | Shell Lewis |
-| 152 | 391 | Frisky Fallmatch |
-| 153 | 389 | GrkGdess |
+| 149 | 405 | Cathy Young |
+| 150 | 405 | SPNLover24 |
+| 151 | 404 | Hyper Slamdrop |
+| 152 | 401 | Shell Lewis |
+| 153 | 391 | Frisky Fallmatch |
 | 154 | 389 | Roberta Lynn |
-| 155 | 387 | Crystal Anderson |
-| 156 | 384 | Christana Imjustbutton Stone |
-| 157 | 383 | Sheila Burnham |
-| 158 | 380 | Dulo |
-| 159 | 377 | AF Cruz |
+| 155 | 389 | GrkGdess |
+| 156 | 387 | Crystal Anderson |
+| 157 | 384 | Christana Imjustbutton Stone |
+| 158 | 383 | Sheila Burnham |
+| 159 | 380 | Dulo |
 | 160 | 377 | Jenna Renee |
-| 161 | 370 | Allison Baxter |
-| 162 | 367 | Leebo Slice |
+| 161 | 377 | AF Cruz |
+| 162 | 370 | Allison Baxter |
 | 163 | 367 | Lashaunda |
-| 164 | 365 | Simmone T. Kadiri |
-| 165 | 365 | Tishauna Virgo |
-| 166 | 363 | Christina Rebecca |
-| 167 | 361 | John Staub |
-| 168 | 360 | Felicia Cain |
-| 169 | 359 | pooh |
-| 170 | 353 | Chuck Quarles |
-| 171 | 351 | Joey Albright |
-| 172 | 351 | Haley Bell |
-| 173 | 350 | Dee McCool |
-| 174 | 348 | LeeLee08 |
-| 175 | 346 | Cathy Young |
+| 164 | 367 | Leebo Slice |
+| 165 | 365 | Simmone T. Kadiri |
+| 166 | 365 | Tishauna Virgo |
+| 167 | 363 | Christina Rebecca |
+| 168 | 361 | John Staub |
+| 169 | 360 | Felicia Cain |
+| 170 | 359 | pooh |
+| 171 | 353 | Chuck Quarles |
+| 172 | 351 | Joey Albright |
+| 173 | 351 | Haley Bell |
+| 174 | 350 | Dee McCool |
+| 175 | 348 | LeeLee08 |
 | 176 | 341 | Tina Mitchell |
 | 177 | 340 | Spicy Risepiece |
 | 178 | 339 | Ty Øtg |
@@ -281,19 +281,19 @@
 | 273 | 220 | Tanya Clayton |
 | 274 | 220 | Chandler Magee |
 | 275 | 219 | Smiley Clearpiece |
-| 276 | 213 | Wild Out Nai |
-| 277 | 213 | Still Ten Tay |
-| 278 | 212 | Shameka Thrasher |
-| 279 | 212 | Rachael Bakowicz Edwards |
-| 280 | 212 | Trina Greenwood |
-| 281 | 212 | Simply-Beautiful007 |
-| 282 | 212 | Cheeky Pop |
-| 283 | 211 | LaShaun Stinson |
-| 284 | 211 | Charletha Williams |
-| 285 | 209 | Tamara Johnson-Carter |
+| 276 | 213 | Still Ten Tay |
+| 277 | 213 | Wild Out Nai |
+| 278 | 212 | Simply-Beautiful007 |
+| 279 | 212 | Trina Greenwood |
+| 280 | 212 | Rachael Bakowicz Edwards |
+| 281 | 212 | Cheeky Pop |
+| 282 | 212 | Shameka Thrasher |
+| 283 | 211 | Charletha Williams |
+| 284 | 211 | LaShaun Stinson |
+| 285 | 210 | Jai |
 | 286 | 209 | Murg4dr01d |
-| 287 | 207 | Melissa D. M. Hornsby |
-| 288 | 206 | Jai |
+| 287 | 209 | Tamara Johnson-Carter |
+| 288 | 207 | Melissa D. M. Hornsby |
 | 289 | 206 | Curtis T Cirno |
 | 290 | 205 | Stephen Providenti |
 | 291 | 205 | Treneil Daffin |
@@ -670,31 +670,31 @@
 | 662 | 84 | Dawn Basemore |
 | 663 | 84 | Jack Mehof |
 | 664 | 84 | Just2Play$ |
-| 665 | 84 | Saucy Faller |
-| 666 | 83 | MrsMeadows2019 |
-| 667 | 83 | John C Sexton |
-| 668 | 83 | Chris Nelson |
-| 669 | 83 | TRUBBLE45 |
+| 665 | 84 | TRUBBLE45 |
+| 666 | 84 | Saucy Faller |
+| 667 | 83 | MrsMeadows2019 |
+| 668 | 83 | John C Sexton |
+| 669 | 83 | Chris Nelson |
 | 670 | 83 | Sandra Mims |
-| 671 | 82 | Duncan Timothy |
-| 672 | 82 | Dana Hawes |
-| 673 | 82 | Kim Holzmiller |
+| 671 | 82 | Dana Hawes |
+| 672 | 82 | Kim Holzmiller |
+| 673 | 82 | Duncan Timothy |
 | 674 | 82 | Johnathan Deese |
 | 675 | 81 | Sara |
 | 676 | 81 | Pj Rojas |
 | 677 | 81 | Kizzy Clark |
 | 678 | 81 | Angela L Charles |
 | 679 | 81 | Samona Mcculler |
-| 680 | 80 | Chevalier Burley |
-| 681 | 80 | Kimberly Noble |
-| 682 | 80 | Big Bovice |
-| 683 | 80 | Amaadi Ward |
-| 684 | 80 | NedaWin |
-| 685 | 80 | Chereese Harris |
+| 680 | 80 | Chereese Harris |
+| 681 | 80 | Chevalier Burley |
+| 682 | 80 | Kimberly Noble |
+| 683 | 80 | Big Bovice |
+| 684 | 80 | Amaadi Ward |
+| 685 | 80 | NedaWin |
 | 686 | 80 | Yashicha Hertzock |
 | 687 | 80 | Latore Maxie |
-| 688 | 80 | Victoria Smith |
-| 689 | 80 | Christopher L Crites |
+| 688 | 80 | Christopher L Crites |
+| 689 | 80 | Victoria Smith |
 | 690 | 80 | Tory Miller |
 | 691 | 80 | PSD |
 | 692 | 80 | Keith Big-Sixx Mackell |
