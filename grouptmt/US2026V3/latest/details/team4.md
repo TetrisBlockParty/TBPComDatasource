@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-06-07 13:06:18 UTC
+# Standings for team4 as of 2026-06-07 13:06:41 UTC
 
-**Total Participants:** 1462
+**Total Participants:** 1463
 
 ## Participant Scores
 
@@ -1367,17 +1367,17 @@
 | 1359 | 10 | Speedy Brick |
 | 1360 | 10 | Dreamy Dash |
 | 1361 | 10 | ToneDeaf |
-| 1362 | 10 | Karen Denise Ann Veitch |
-| 1363 | 10 | Mike Adkins |
-| 1364 | 10 | Nicole |
-| 1365 | 10 | Emjae Tupaz-Rivera |
-| 1366 | 10 | Tee |
-| 1367 | 10 | Christine Niles |
-| 1368 | 10 | tmnt |
-| 1369 | 10 | Tigger |
-| 1370 | 10 | Corissa Handy |
-| 1371 | 10 | Nikki |
-| 1372 | 10 | Esla mamas |
+| 1362 | 10 | Esla mamas |
+| 1363 | 10 | Nicole |
+| 1364 | 10 | Tee |
+| 1365 | 10 | Mike Adkins |
+| 1366 | 10 | Emjae Tupaz-Rivera |
+| 1367 | 10 | Karen Denise Ann Veitch |
+| 1368 | 10 | Christine Niles |
+| 1369 | 10 | tmnt |
+| 1370 | 10 | Nikki |
+| 1371 | 10 | Corissa Handy |
+| 1372 | 10 | Tigger |
 | 1373 | 10 | Spunky Tower |
 | 1374 | 10 | Lively Cascadeclear |
 | 1375 | 10 | Sharron Mullins |
@@ -1394,23 +1394,23 @@
 | 1386 | 9 | Whos Square |
 | 1387 | 9 | Celina DiBastiani |
 | 1388 | 9 | Fancy Curvetile |
-| 1389 | 9 | estefi |
-| 1390 | 9 | Lori A Hamann |
-| 1391 | 9 | Momma Boss |
+| 1389 | 9 | Lori A Hamann |
+| 1390 | 9 | Momma Boss |
+| 1391 | 9 | estefi |
 | 1392 | 9 | Patsy |
 | 1393 | 9 | Blessedmama |
 | 1394 | 9 | Micole Norris |
-| 1395 | 9 | Terry Peach |
-| 1396 | 9 | Clever Linkfall |
-| 1397 | 9 | Anna Nieves |
-| 1398 | 8 | Mayleen Delgado |
-| 1399 | 8 | Tony Tenas |
-| 1400 | 8 | Lewis Potts |
-| 1401 | 8 | Frisky Blocker |
-| 1402 | 8 | Gerald Marx |
+| 1395 | 9 | Clever Linkfall |
+| 1396 | 9 | Anna Nieves |
+| 1397 | 9 | Terry Peach |
+| 1398 | 8 | Frisky Blocker |
+| 1399 | 8 | Mayleen Delgado |
+| 1400 | 8 | Tony Tenas |
+| 1401 | 8 | Lewis Potts |
+| 1402 | 8 | Acyndra Cain |
 | 1403 | 8 | Phoebe Tracy |
-| 1404 | 8 | Acyndra Cain |
-| 1405 | 8 | Nums |
+| 1404 | 8 | Nums |
+| 1405 | 8 | Gerald Marx |
 | 1406 | 8 | Billy Brasher |
 | 1407 | 8 | Happy shelli |
 | 1408 | 8 | Jen Molepske |
@@ -1429,45 +1429,46 @@
 | 1421 | 7 | Angela Mertz |
 | 1422 | 7 | Chipper Hitter |
 | 1423 | 7 | Crystal Parker Bryant |
-| 1424 | 7 | Kristen Templeman |
-| 1425 | 7 | pippy |
-| 1426 | 7 | Spicy Faller |
-| 1427 | 7 | Sammmzzz |
-| 1428 | 7 | Sheries |
-| 1429 | 7 | Estmercy |
-| 1430 | 7 | Dannie Ems |
-| 1431 | 7 | Glendala Whitewing |
-| 1432 | 7 | PDubz |
-| 1433 | 7 | Peaches3569 |
-| 1434 | 7 | Rican |
-| 1435 | 7 | Misty Mathers |
-| 1436 | 7 | Heather Smith-Carter |
-| 1437 | 7 | Michael McIntire |
-| 1438 | 7 | Kelly Pool |
-| 1439 | 6 | Kelly |
-| 1440 | 6 | Selina Moore |
-| 1441 | 6 | Spunky Winder |
-| 1442 | 6 | Theamazingspiderman |
-| 1443 | 6 | Loony Brickzone |
-| 1444 | 6 | Jasmine Turner |
-| 1445 | 6 | April McWhite |
-| 1446 | 6 | Funky Zonebuilder |
-| 1447 | 6 | Frothy Gridmatch |
-| 1448 | 6 | Richierich Gonzalez |
-| 1449 | 6 | Goodie |
-| 1450 | 6 | Rachel |
-| 1451 | 5 | Swanky Zigzag |
-| 1452 | 5 | Cheery Twister |
-| 1453 | 5 | Tippet |
-| 1454 | 5 | Sean Ha |
-| 1455 | 5 | Tina Berdeja |
-| 1456 | 5 | Debbie Johnson |
+| 1424 | 7 | Budda Huitt |
+| 1425 | 7 | Kristen Templeman |
+| 1426 | 7 | pippy |
+| 1427 | 7 | Spicy Faller |
+| 1428 | 7 | Sammmzzz |
+| 1429 | 7 | Sheries |
+| 1430 | 7 | Estmercy |
+| 1431 | 7 | Dannie Ems |
+| 1432 | 7 | Glendala Whitewing |
+| 1433 | 7 | PDubz |
+| 1434 | 7 | Peaches3569 |
+| 1435 | 7 | Rican |
+| 1436 | 7 | Misty Mathers |
+| 1437 | 7 | Heather Smith-Carter |
+| 1438 | 7 | Michael McIntire |
+| 1439 | 7 | Kelly Pool |
+| 1440 | 6 | Loony Brickzone |
+| 1441 | 6 | Selina Moore |
+| 1442 | 6 | Jasmine Turner |
+| 1443 | 6 | Theamazingspiderman |
+| 1444 | 6 | Spunky Winder |
+| 1445 | 6 | Kelly |
+| 1446 | 6 | April McWhite |
+| 1447 | 6 | Funky Zonebuilder |
+| 1448 | 6 | Frothy Gridmatch |
+| 1449 | 6 | Richierich Gonzalez |
+| 1450 | 6 | Goodie |
+| 1451 | 6 | Rachel |
+| 1452 | 5 | Swanky Zigzag |
+| 1453 | 5 | Cheery Twister |
+| 1454 | 5 | Tippet |
+| 1455 | 5 | Linda Monique |
+| 1456 | 5 | Sean Ha |
 | 1457 | 5 | Chad N Tori Steiner |
-| 1458 | 5 | Linda Monique |
-| 1459 | 5 | Liz R |
-| 1460 | 5 | Theonei |
+| 1458 | 5 | Theonei |
+| 1459 | 5 | Debbie Johnson |
+| 1460 | 5 | Liz R |
 | 1461 | 5 | Laura Ratliff |
-| 1462 | 5 | James Lackey |
+| 1462 | 5 | Tina Berdeja |
+| 1463 | 5 | James Lackey |
 
 ---
 *Standings created by tournaments datasource generation tool*
