@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 02:54:40 UTC
+# Standings for team1 as of 2026-06-07 02:55:20 UTC
 
 **Total Participants:** 1303
 
@@ -70,18 +70,18 @@
 | 62 | 781 | D'Andra Stewart |
 | 63 | 766 | Blockhead |
 | 64 | 764 | Joy Citizen Pickney |
-| 65 | 763 | Richard Horton |
-| 66 | 755 | Kimberly Hernandez |
+| 65 | 763 | Kimberly Hernandez |
+| 66 | 763 | Richard Horton |
 | 67 | 755 | Eric Mcgaughy |
 | 68 | 749 | Aviv Zehavi |
 | 69 | 745 | Catara Renae Oliver |
 | 70 | 727 | Lisa Müller |
 | 71 | 710 | ing410 |
-| 72 | 695 | Corey Cawthon |
-| 73 | 689 | Jaida King |
-| 74 | 678 | No_Other_Choice |
-| 75 | 658 | Eartha Brown |
-| 76 | 645 | JoJo |
+| 72 | 705 | JoJo |
+| 73 | 695 | Corey Cawthon |
+| 74 | 689 | Jaida King |
+| 75 | 678 | No_Other_Choice |
+| 76 | 658 | Eartha Brown |
 | 77 | 620 | IamJust Neyamijah Washington Sr. |
 | 78 | 618 | Jaida De'Anne Cox |
 | 79 | 607 | Ebo Got-Time |
