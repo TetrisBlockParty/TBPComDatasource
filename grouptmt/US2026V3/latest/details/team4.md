@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 13:52:19 UTC
+# Standings for team4 as of 2026-06-07 13:52:40 UTC
 
 **Total Participants:** 1475
 
@@ -16,7 +16,7 @@
 | 8 | 5469 | Kait Confetti |
 | 9 | 5300 | Candice Driver |
 | 10 | 5102 | Jerald Jones |
-| 11 | 4823 | delilahbelle |
+| 11 | 4832 | delilahbelle |
 | 12 | 4772 | Anna Moses |
 | 13 | 4558 | Bubbly Twistpiece |
 | 14 | 4323 | Nia Mayfield |
