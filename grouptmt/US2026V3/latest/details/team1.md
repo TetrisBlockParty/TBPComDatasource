@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 21:14:42 UTC
+# Standings for team1 as of 2026-06-07 21:15:19 UTC
 
 **Total Participants:** 1581
 
@@ -11,7 +11,7 @@
 | 3 | 10055 | Carrie English |
 | 4 | 8779 | Charnay Peacock |
 | 5 | 8746 | Tyeina Johnson |
-| 6 | 8349 | Charlie Roehm |
+| 6 | 8455 | Charlie Roehm |
 | 7 | 8280 | Songne Arif |
 | 8 | 7833 | Dyane Leah Ware |
 | 9 | 7572 | Debbie Carswell |
@@ -77,7 +77,7 @@
 | 69 | 958 | Kimberly Hernandez |
 | 70 | 939 | Uneekly Mayde |
 | 71 | 935 | Whitney Butler |
-| 72 | 924 | Eric Mcgaughy |
+| 72 | 934 | Eric Mcgaughy |
 | 73 | 897 | BYM4L |
 | 74 | 896 | Tiana Moore |
 | 75 | 894 | Danielle Barthelme |
@@ -122,8 +122,8 @@
 | 114 | 581 | Slinky Puzzler |
 | 115 | 570 | Keeta Chickswit Scott |
 | 116 | 567 | Dynah Gordon |
-| 117 | 561 | Carolynne Walker-Bell |
-| 118 | 553 | Chris Caniglia |
+| 117 | 563 | Chris Caniglia |
+| 118 | 561 | Carolynne Walker-Bell |
 | 119 | 551 | Bambi Love |
 | 120 | 548 | Ottison Dianna |
 | 121 | 539 | Cj Gorman |
@@ -333,11 +333,11 @@
 | 325 | 180 | Zippy Lifter |
 | 326 | 179 | Brand Nu |
 | 327 | 179 | Lively Riserpiece |
-| 328 | 177 | Valerie Alexander |
-| 329 | 175 | Amy Lynn Leifheit |
-| 330 | 174 | ChunLi |
-| 331 | 174 | Guy Incognito |
-| 332 | 173 | LaToya Chambers |
+| 328 | 177 | LaToya Chambers |
+| 329 | 177 | Valerie Alexander |
+| 330 | 175 | Amy Lynn Leifheit |
+| 331 | 174 | ChunLi |
+| 332 | 174 | Guy Incognito |
 | 333 | 173 | LuckyStar |
 | 334 | 173 | izzybella |
 | 335 | 171 | Tosha Michelle |
@@ -1069,44 +1069,44 @@
 | 1061 | 40 | Motown Chuck |
 | 1062 | 40 | HS Arce |
 | 1063 | 40 | RealOne95 |
-| 1064 | 40 | Dana Hill |
-| 1065 | 40 | Sarah Guarino |
-| 1066 | 40 | Brian Marsico |
-| 1067 | 40 | Semaj Johnson |
-| 1068 | 40 | Brandon Dontell Saunders |
-| 1069 | 40 | Spotlight |
+| 1064 | 40 | Spotlight |
+| 1065 | 40 | Dana Hill |
+| 1066 | 40 | Sarah Guarino |
+| 1067 | 40 | Brian Marsico |
+| 1068 | 40 | Semaj Johnson |
+| 1069 | 40 | Brandon Dontell Saunders |
 | 1070 | 39 | Diva shrock |
-| 1071 | 39 | Chinkey Overit |
-| 1072 | 39 | win |
+| 1071 | 39 | win |
+| 1072 | 39 | Chinkey Overit |
 | 1073 | 39 | BP Phillips |
 | 1074 | 39 | Ashley Love Pettit |
 | 1075 | 39 | Ameillia Boughner |
 | 1076 | 39 | Juanita Quezaire |
 | 1077 | 39 | Eugenia Vanclusen |
-| 1078 | 39 | Biggestboss Ransom |
-| 1079 | 39 | Tina Blessed Cage |
-| 1080 | 38 | Kahliah Baker |
-| 1081 | 38 | Monica Fields |
-| 1082 | 38 | hope |
-| 1083 | 38 | Pastors Du Bose |
-| 1084 | 38 | Krista Shanice |
-| 1085 | 38 | Jroc Tyra Taylor |
-| 1086 | 38 | ThaMENACING1 |
-| 1087 | 38 | Nicole Coko Thomas |
-| 1088 | 38 | Panda Vibes |
+| 1078 | 39 | Panda Vibes |
+| 1079 | 39 | Biggestboss Ransom |
+| 1080 | 39 | Tina Blessed Cage |
+| 1081 | 38 | Kahliah Baker |
+| 1082 | 38 | Monica Fields |
+| 1083 | 38 | hope |
+| 1084 | 38 | Pastors Du Bose |
+| 1085 | 38 | Krista Shanice |
+| 1086 | 38 | Jroc Tyra Taylor |
+| 1087 | 38 | ThaMENACING1 |
+| 1088 | 38 | Nicole Coko Thomas |
 | 1089 | 38 | Spicy Tiler |
-| 1090 | 37 | Lil T |
-| 1091 | 37 | Jb Mzresilience |
+| 1090 | 37 | Jb Mzresilience |
+| 1091 | 37 | Kween Pilot |
 | 1092 | 37 | Spunky Strikerbuilder |
-| 1093 | 37 | Kween Pilot |
-| 1094 | 37 | LaShawyn Wood |
-| 1095 | 37 | Kendra KJ Joyner |
+| 1093 | 37 | LaShawyn Wood |
+| 1094 | 37 | Kendra KJ Joyner |
+| 1095 | 37 | Lil T |
 | 1096 | 37 | Megan Jones |
-| 1097 | 36 | Tonia Lance |
-| 1098 | 36 | Breeze |
-| 1099 | 36 | tg |
-| 1100 | 36 | Cathilia Rodriguez |
-| 1101 | 36 | Frilly Lifter |
+| 1097 | 36 | Frilly Lifter |
+| 1098 | 36 | Tonia Lance |
+| 1099 | 36 | Breeze |
+| 1100 | 36 | tg |
+| 1101 | 36 | Cathilia Rodriguez |
 | 1102 | 36 | Tangy Moore |
 | 1103 | 36 | Mazi Johnson |
 | 1104 | 36 | LaMinda Todd |
