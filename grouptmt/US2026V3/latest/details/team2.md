@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 01:42:39 UTC
+# Standings for team2 as of 2026-06-07 01:43:17 UTC
 
 **Total Participants:** 1507
 
@@ -67,8 +67,8 @@
 | 59 | 921 | Block Dog |
 | 60 | 859 | Angelica Jelli Gillaspy |
 | 61 | 858 | Giddy Slamdrop |
-| 62 | 848 | Michelle Maulsby |
-| 63 | 848 | Marquita Toliver |
+| 62 | 848 | Marquita Toliver |
+| 63 | 848 | Michelle Maulsby |
 | 64 | 839 | Helen Thomas |
 | 65 | 835 | Mikki Torres |
 | 66 | 832 | Amber Triguero |
@@ -91,8 +91,8 @@
 | 83 | 671 | Brandi Thompson |
 | 84 | 656 | Loopy Cascadepiece |
 | 85 | 643 | Epic Frame |
-| 86 | 632 | Allie Bug |
-| 87 | 632 | Wmk Rathbun |
+| 86 | 632 | Wmk Rathbun |
+| 87 | 632 | Allie Bug |
 | 88 | 631 | Nawang Nawang |
 | 89 | 629 | Mirr Lulu |
 | 90 | 600 | LEW |
@@ -146,14 +146,14 @@
 | 138 | 340 | Mom |
 | 139 | 335 | Traci Abern |
 | 140 | 332 | Jason Cook |
-| 141 | 328 | Keri Mears |
-| 142 | 328 | Tim Tim |
+| 141 | 328 | Tim Tim |
+| 142 | 328 | Keri Mears |
 | 143 | 327 | Gloria May Shook |
 | 144 | 325 | Amy Gregg |
 | 145 | 323 | Shannon Wilson |
 | 146 | 320 | Zany Blockclear |
 | 147 | 319 | Michelle Rich Burkhart |
-| 148 | 318 | Jackie Tupper |
+| 148 | 319 | Jackie Tupper |
 | 149 | 317 | Ruby Sandberg |
 | 150 | 315 | Milad Arzani |
 | 151 | 313 | Theresa Marie |
@@ -161,42 +161,42 @@
 | 153 | 311 | Nikki Hayes |
 | 154 | 310 | Jennifer Smith |
 | 155 | 309 | Ashley Green |
-| 156 | 303 | Hoppy Mover |
-| 157 | 303 | Danielle Blount |
+| 156 | 303 | Danielle Blount |
+| 157 | 303 | Hoppy Mover |
 | 158 | 302 | Hypee |
-| 159 | 300 | Hector |
-| 160 | 300 | Linda Guay |
-| 161 | 298 | Heather Burgett |
-| 162 | 298 | Breeana Bennett |
+| 159 | 300 | Linda Guay |
+| 160 | 300 | Hector |
+| 161 | 298 | Breeana Bennett |
+| 162 | 298 | Heather Burgett |
 | 163 | 296 | Snappy Combo |
 | 164 | 294 | Vistabrat |
 | 165 | 293 | Erin Thomas |
 | 166 | 292 | James Ward |
 | 167 | 291 | Flashy Twistline |
 | 168 | 284 | Renee Freeman Jacobson |
-| 169 | 280 | Brittney Williams |
-| 170 | 280 | Nova Nova |
-| 171 | 280 | Patricia Carroll |
+| 169 | 280 | Nova Nova |
+| 170 | 280 | Patricia Carroll |
+| 171 | 280 | Brittney Williams |
 | 172 | 278 | Ashley Billiot Rhodes |
 | 173 | 277 | DayDreamer79 |
 | 174 | 277 | Sarah Mccolgan |
 | 175 | 274 | H |
 | 176 | 273 | Flower_child |
-| 177 | 270 | Brenda Jones |
-| 178 | 270 | Amber Wolf |
+| 177 | 270 | Amber Wolf |
+| 178 | 270 | Brenda Jones |
 | 179 | 269 | Ackerman 85 |
 | 180 | 262 | Cool Balancer |
 | 181 | 261 | Becca Marie |
 | 182 | 260 | giamy |
 | 183 | 259 | Angie Kowalsky Olson |
 | 184 | 257 | Snappy Blockbuilder |
-| 185 | 253 | Hilliary Beyer |
-| 186 | 253 | Marge Cromer |
+| 185 | 253 | Marge Cromer |
+| 186 | 253 | Hilliary Beyer |
 | 187 | 251 | Jessica Lynn |
 | 188 | 250 | marsam |
 | 189 | 247 | Fudgie Pie |
-| 190 | 247 | Melissa Thomas |
-| 191 | 247 | Brittni Lawrence |
+| 190 | 247 | Brittni Lawrence |
+| 191 | 247 | Melissa Thomas |
 | 192 | 246 | Brooke Lynn Marie Adelaide |
 | 193 | 241 | haune |
 | 194 | 241 | Boldy Wobbler |
@@ -251,7 +251,7 @@
 | 243 | 191 | Jessica Christine |
 | 244 | 188 | Ray Daisy |
 | 245 | 187 | Laura Melton |
-| 246 | 182 | Melissa Nash |
+| 246 | 184 | Melissa Nash |
 | 247 | 181 | Jamie Adams |
 | 248 | 180 | Happy |
 | 249 | 180 | Precious Womack |
@@ -420,8 +420,8 @@
 | 412 | 105 | Gabrielle Rivera |
 | 413 | 104 | Epic Framezone |
 | 414 | 104 | Roe Sarmiento |
-| 415 | 103 | Elizabeth Kline |
-| 416 | 103 | Gabrielle Wilson |
+| 415 | 104 | Gabrielle Wilson |
+| 416 | 103 | Elizabeth Kline |
 | 417 | 102 | Boldy Fitclear |
 | 418 | 102 | Alissa Ary |
 | 419 | 102 | Wendy McKee |
@@ -1041,9 +1041,9 @@
 | 1033 | 29 | Chris Delauro |
 | 1034 | 29 | Michii |
 | 1035 | 29 | Danita Moon |
-| 1036 | 29 | Alessandria Anderson |
-| 1037 | 29 | Marcia Davis |
-| 1038 | 29 | Makayla Grubbs |
+| 1036 | 29 | Makayla Grubbs |
+| 1037 | 29 | Alessandria Anderson |
+| 1038 | 29 | Marcia Davis |
 | 1039 | 29 | Amanda Jungclaus |
 | 1040 | 29 | Betty Muise |
 | 1041 | 29 | Amy Chauvin |
@@ -1057,50 +1057,50 @@
 | 1049 | 28 | Snippy Brickzone |
 | 1050 | 28 | Dolly |
 | 1051 | 28 | Courtney Freeman |
-| 1052 | 28 | Stacey Peters |
-| 1053 | 28 | LK |
-| 1054 | 28 | Pjrobinsonnn |
+| 1052 | 28 | Dandy Column |
+| 1053 | 28 | Stacey Peters |
+| 1054 | 28 | Chirpy Tower |
 | 1055 | 28 | T-Rex Ricky Lee Dieumegarde Jr. |
-| 1056 | 28 | Chirpy Tower |
+| 1056 | 28 | Pjrobinsonnn |
 | 1057 | 28 | Glitzy Stack |
-| 1058 | 28 | Dana Vaiden Rivers |
-| 1059 | 28 | Mark Havens |
-| 1060 | 27 | Dandy Column |
-| 1061 | 27 | True |
-| 1062 | 27 | Natasha Schatte |
-| 1063 | 27 | Staci Carl |
-| 1064 | 27 | Brian Karr |
-| 1065 | 27 | CowboyChalie |
-| 1066 | 27 | ktabzz |
-| 1067 | 27 | Alexis Abner |
-| 1068 | 27 | Firebone |
-| 1069 | 27 | BrendaLee NolanBos |
-| 1070 | 27 | Tanya Goodwin |
-| 1071 | 27 | juhde |
+| 1058 | 28 | LK |
+| 1059 | 28 | Dana Vaiden Rivers |
+| 1060 | 28 | Mark Havens |
+| 1061 | 27 | Firebone |
+| 1062 | 27 | Alexis Abner |
+| 1063 | 27 | ktabzz |
+| 1064 | 27 | Staci Carl |
+| 1065 | 27 | Brian Karr |
+| 1066 | 27 | Natasha Schatte |
+| 1067 | 27 | True |
+| 1068 | 27 | sampson |
+| 1069 | 27 | Tanya Goodwin |
+| 1070 | 27 | CowboyChalie |
+| 1071 | 27 | Tam |
 | 1072 | 27 | Angie Barlow |
-| 1073 | 27 | Kim |
+| 1073 | 27 | Dreamy Linkblock |
 | 1074 | 27 | Stacey Ann Kelley |
-| 1075 | 27 | Dreamy Linkblock |
-| 1076 | 27 | sampson |
-| 1077 | 27 | Tam |
-| 1078 | 26 | giggly gal |
+| 1075 | 27 | Kim |
+| 1076 | 27 | BrendaLee NolanBos |
+| 1077 | 27 | juhde |
+| 1078 | 26 | Danibellee |
 | 1079 | 26 | Peppy Piececlear |
 | 1080 | 26 | Carol Whited Loza |
 | 1081 | 26 | Grimwitch |
-| 1082 | 26 | Danibellee |
-| 1083 | 26 | Daniel Cline |
-| 1084 | 26 | Jackelyn Ford |
-| 1085 | 26 | Quirky Climber |
-| 1086 | 26 | nova |
-| 1087 | 26 | Goob277 |
-| 1088 | 26 | Yany |
-| 1089 | 26 | Cathy Clark |
-| 1090 | 26 | Countrybling77 |
-| 1091 | 26 | Darlene Russell |
-| 1092 | 25 | Quirky Piecegrid |
-| 1093 | 25 | Ginger Nesbitt |
-| 1094 | 25 | Cranky Basepiece |
-| 1095 | 25 | Michelle Edgin Tranbarger |
+| 1082 | 26 | Jackelyn Ford |
+| 1083 | 26 | Quirky Climber |
+| 1084 | 26 | giggly gal |
+| 1085 | 26 | Goob277 |
+| 1086 | 26 | Yany |
+| 1087 | 26 | Cathy Clark |
+| 1088 | 26 | Daniel Cline |
+| 1089 | 26 | Countrybling77 |
+| 1090 | 26 | Darlene Russell |
+| 1091 | 26 | nova |
+| 1092 | 25 | Ginger Nesbitt |
+| 1093 | 25 | Cranky Basepiece |
+| 1094 | 25 | Michelle Edgin Tranbarger |
+| 1095 | 25 | Quirky Piecegrid |
 | 1096 | 25 | Kelly Hall Whitt |
 | 1097 | 25 | Fran Gerebics |
 | 1098 | 25 | Stephen Gillam |
