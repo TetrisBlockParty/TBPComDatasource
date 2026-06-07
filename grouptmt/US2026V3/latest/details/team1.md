@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 22:24:43 UTC
+# Standings for team1 as of 2026-06-07 22:25:19 UTC
 
 **Total Participants:** 1595
 
@@ -386,40 +386,40 @@
 | 378 | 157 | Courtney Cicoria |
 | 379 | 156 | Shalya Terry |
 | 380 | 156 | Alyssa Rae |
-| 381 | 156 | Tee Spinks |
-| 382 | 156 | Cheeky Twistpiece |
-| 383 | 156 | Lakiesha Crawford |
-| 384 | 155 | OhNoZer0 |
-| 385 | 155 | Anthony |
-| 386 | 154 | Cece Fowler |
-| 387 | 154 | Manda Allen |
-| 388 | 154 | Matthieu Pistone |
-| 389 | 153 | CJ Robinson |
-| 390 | 152 | Phillip Vasquez |
-| 391 | 152 | Frankey Chi |
+| 381 | 156 | Lakiesha Crawford |
+| 382 | 156 | Tee Spinks |
+| 383 | 156 | Cheeky Twistpiece |
+| 384 | 155 | Anthony |
+| 385 | 155 | OhNoZer0 |
+| 386 | 154 | Manda Allen |
+| 387 | 154 | Cece Fowler |
+| 388 | 154 | Shanaa Germany Crittenden |
+| 389 | 154 | Matthieu Pistone |
+| 390 | 153 | CJ Robinson |
+| 391 | 152 | Phillip Vasquez |
 | 392 | 152 | Wacky Stackbuilder |
-| 393 | 151 | Dede Tate |
-| 394 | 151 | Shanaa Germany Crittenden |
-| 395 | 151 | Brittany Fells |
-| 396 | 151 | Miera Nicole |
-| 397 | 151 | Breezy Catcher |
-| 398 | 150 | Deveda Williams |
-| 399 | 150 | Jhaime |
-| 400 | 149 | Chasem45 |
+| 393 | 152 | Frankey Chi |
+| 394 | 151 | Brittany Fells |
+| 395 | 151 | Jae Thompson-Tyus |
+| 396 | 151 | Breezy Catcher |
+| 397 | 151 | Miera Nicole |
+| 398 | 151 | Dede Tate |
+| 399 | 150 | Deveda Williams |
+| 400 | 150 | Jhaime |
 | 401 | 149 | Katrina Ramey |
-| 402 | 147 | Lisa Fletcher |
-| 403 | 147 | Perky Balancer |
+| 402 | 149 | Chasem45 |
+| 403 | 147 | Lisa Fletcher |
 | 404 | 147 | Joka NoTime ForHataz |
-| 405 | 146 | Jae Thompson-Tyus |
-| 406 | 146 | whatever |
-| 407 | 146 | KeeKee Williams |
+| 405 | 147 | Perky Balancer |
+| 406 | 146 | KeeKee Williams |
+| 407 | 146 | whatever |
 | 408 | 145 | Squaw Ki Ng |
 | 409 | 145 | Dandy Brickfit |
 | 410 | 144 | Brittanie Wardlow |
 | 411 | 143 | rb |
 | 412 | 143 | Faith Armone |
-| 413 | 142 | Kelley Johnson |
-| 414 | 142 | BabyCakes |
+| 413 | 142 | BabyCakes |
+| 414 | 142 | Kelley Johnson |
 | 415 | 142 | Sarah Steckbauer |
 | 416 | 141 | Ta'Kaiyah M. Spann |
 | 417 | 141 | Kate Hancock Malicek |
@@ -693,11 +693,11 @@
 | 685 | 82 | Duncan Timothy |
 | 686 | 82 | Dana Hawes |
 | 687 | 82 | Johnathan Deese |
-| 688 | 82 | Kim Holzmiller |
-| 689 | 81 | Angela L Charles |
-| 690 | 81 | Samona Mcculler |
-| 691 | 81 | Kizzy Clark |
-| 692 | 81 | Casey Chapman |
+| 688 | 82 | Casey Chapman |
+| 689 | 82 | Kim Holzmiller |
+| 690 | 81 | Angela L Charles |
+| 691 | 81 | Samona Mcculler |
+| 692 | 81 | Kizzy Clark |
 | 693 | 80 | Lady Scorpio |
 | 694 | 80 | Lauren Farkas |
 | 695 | 80 | Tory Miller |
