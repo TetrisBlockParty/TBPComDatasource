@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 20:36:19 UTC
+# Standings for team1 as of 2026-06-07 20:36:40 UTC
 
 **Total Participants:** 1570
 
@@ -217,10 +217,10 @@
 | 209 | 289 | Brave Clearbuilder |
 | 210 | 288 | Block King |
 | 211 | 287 | SyTheEvilGenius1 |
-| 212 | 286 | Denise B |
-| 213 | 285 | Helen Smith |
-| 214 | 285 | Marcheta Cervantez |
-| 215 | 285 | Ashley MyBeauty Daniels |
+| 212 | 287 | Ashley MyBeauty Daniels |
+| 213 | 286 | Denise B |
+| 214 | 285 | Helen Smith |
+| 215 | 285 | Marcheta Cervantez |
 | 216 | 283 | BULLSEYE |
 | 217 | 283 | Christopher Dreamsareality McEachin |
 | 218 | 279 | Reginald Frank |
@@ -235,7 +235,7 @@
 | 227 | 270 | Zachary Colegrove |
 | 228 | 269 | DaGuy |
 | 229 | 267 | Keke Ferguson |
-| 230 | 264 | Penee Wiggins |
+| 230 | 265 | Penee Wiggins |
 | 231 | 263 | Dacia Hicks |
 | 232 | 263 | Slim Shedidthat |
 | 233 | 261 | Jhonny Maii |
@@ -554,46 +554,46 @@
 | 546 | 101 | Elaine Pauley |
 | 547 | 101 | Nerdy Climber |
 | 548 | 101 | Tito Divyn |
-| 549 | 101 | Wacky Wipepiece |
-| 550 | 101 | Mommy Frank |
-| 551 | 100 | Tessa Gaskin |
-| 552 | 100 | Lester Malone |
+| 549 | 101 | Angela Kitchens |
+| 550 | 101 | Wacky Wipepiece |
+| 551 | 101 | Mommy Frank |
+| 552 | 100 | Tessa Gaskin |
 | 553 | 100 | Erica Charlise |
-| 554 | 100 | Kennedi Brazziel |
-| 555 | 100 | Bubbly Slammer |
-| 556 | 100 | Octavia Bsb Johnson |
+| 554 | 100 | Lester Malone |
+| 555 | 100 | Kennedi Brazziel |
+| 556 | 100 | Bubbly Slammer |
 | 557 | 100 | Cornelius Neal |
-| 558 | 100 | Oldheads |
-| 559 | 100 | Rebecca Jackson |
-| 560 | 100 | Stephen Glaze |
-| 561 | 99 | Chino Baby |
-| 562 | 99 | Twisty Cascadeclear |
-| 563 | 99 | Boymama917 |
-| 564 | 99 | Rochelle Nash-Evans |
-| 565 | 98 | Christopher Shaw-Black |
-| 566 | 98 | Jessie N Michael Silvers |
-| 567 | 98 | Azeiare Ziare |
-| 568 | 98 | Sharee Robinson |
-| 569 | 98 | Michael Smith |
-| 570 | 98 | Jelyfish |
-| 571 | 98 | Jjhandsome |
-| 572 | 98 | Shannon Carriger |
-| 573 | 97 | Shanell Thomas |
-| 574 | 97 | Kayel Good |
-| 575 | 97 | Angela Kitchens |
-| 576 | 97 | Nichole Horsley-Conn |
-| 577 | 97 | Kristie |
-| 578 | 97 | DaemahnFriday |
-| 579 | 97 | Lootch |
-| 580 | 96 | Sherri Keys |
-| 581 | 96 | Karen Knapp |
-| 582 | 96 | Zappy Clearfit |
-| 583 | 96 | Kimmie Gargano |
-| 584 | 96 | Guard Up |
-| 585 | 96 | Yazz |
-| 586 | 96 | Amy Villalpando |
-| 587 | 96 | Sonia Binti Mfalme |
-| 588 | 96 | Lucille Wilson Davis |
+| 558 | 100 | Octavia Bsb Johnson |
+| 559 | 100 | Oldheads |
+| 560 | 100 | Rebecca Jackson |
+| 561 | 100 | Stephen Glaze |
+| 562 | 99 | Chino Baby |
+| 563 | 99 | Twisty Cascadeclear |
+| 564 | 99 | Boymama917 |
+| 565 | 99 | Rochelle Nash-Evans |
+| 566 | 98 | Christopher Shaw-Black |
+| 567 | 98 | Jessie N Michael Silvers |
+| 568 | 98 | Azeiare Ziare |
+| 569 | 98 | Sharee Robinson |
+| 570 | 98 | Michael Smith |
+| 571 | 98 | Jelyfish |
+| 572 | 98 | Jjhandsome |
+| 573 | 98 | Shannon Carriger |
+| 574 | 97 | Shanell Thomas |
+| 575 | 97 | Lootch |
+| 576 | 97 | Kayel Good |
+| 577 | 97 | DaemahnFriday |
+| 578 | 97 | Nichole Horsley-Conn |
+| 579 | 97 | Kristie |
+| 580 | 96 | Sonia Binti Mfalme |
+| 581 | 96 | Lucille Wilson Davis |
+| 582 | 96 | Amy Villalpando |
+| 583 | 96 | Yazz |
+| 584 | 96 | Kimmie Gargano |
+| 585 | 96 | Zappy Clearfit |
+| 586 | 96 | Karen Knapp |
+| 587 | 96 | Sherri Keys |
+| 588 | 96 | Guard Up |
 | 589 | 95 | Danny Talbot |
 | 590 | 95 | TieMs BHughez |
 | 591 | 95 | Shiny Lift |
