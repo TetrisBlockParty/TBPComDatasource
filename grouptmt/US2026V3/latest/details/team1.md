@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 23:36:41 UTC
+# Standings for team1 as of 2026-06-07 23:37:18 UTC
 
 **Total Participants:** 1619
 
@@ -121,9 +121,9 @@
 | 113 | 604 | Mimi 1.0 |
 | 114 | 604 | W.A. Simpson |
 | 115 | 601 | JaszyBadd |
-| 116 | 588 | Shontanese Adams |
-| 117 | 587 | KenpachisGirl |
-| 118 | 585 | Keeta Chickswit Scott |
+| 116 | 600 | Keeta Chickswit Scott |
+| 117 | 588 | Shontanese Adams |
+| 118 | 587 | KenpachisGirl |
 | 119 | 582 | Nutty Spinblock |
 | 120 | 573 | Rackemwillie34 |
 | 121 | 561 | Carolynne Walker-Bell |
@@ -315,11 +315,11 @@
 | 307 | 201 | Rayshawn Cohen |
 | 308 | 201 | Richard Flex |
 | 309 | 200 | Coco |
-| 310 | 200 | TBABYJ |
-| 311 | 200 | Sarah Clark |
-| 312 | 200 | Hailey Hil |
-| 313 | 199 | Fina McKinnis |
-| 314 | 199 | Poppy Buildout |
+| 310 | 200 | Sarah Clark |
+| 311 | 200 | Hailey Hil |
+| 312 | 200 | TBABYJ |
+| 313 | 199 | Poppy Buildout |
+| 314 | 199 | Fina McKinnis |
 | 315 | 197 | Clever Fitblock |
 | 316 | 194 | Cheery Linkfall |
 | 317 | 193 | Crystal Cheresnowsky |
@@ -327,51 +327,51 @@
 | 319 | 192 | Hyper Blocky |
 | 320 | 191 | Emily Wright |
 | 321 | 190 | Chipper Snapper |
-| 322 | 189 | Nate Myers |
-| 323 | 189 | HarleyJane |
-| 324 | 189 | Jolly Tilefall |
-| 325 | 188 | Tosha Michelle |
-| 326 | 188 | kitten |
-| 327 | 188 | izzybella |
-| 328 | 187 | MACHETEEDDIE513 |
-| 329 | 186 | Lazy Tiltpiece |
-| 330 | 184 | Chasem45 |
+| 322 | 189 | HarleyJane |
+| 323 | 189 | Jolly Tilefall |
+| 324 | 189 | Zippy Tilefall |
+| 325 | 189 | Nate Myers |
+| 326 | 188 | izzybella |
+| 327 | 188 | Tosha Michelle |
+| 328 | 188 | kitten |
+| 329 | 187 | MACHETEEDDIE513 |
+| 330 | 186 | Lazy Tiltpiece |
 | 331 | 184 | Bbyunicorn |
 | 332 | 184 | Dai Bo |
-| 333 | 183 | Mary Phillippi Blanton |
-| 334 | 180 | Daddy |
-| 335 | 180 | LaToya Chambers |
-| 336 | 180 | Maribel Vasquez |
-| 337 | 180 | Eric Spencer Whitaker |
-| 338 | 180 | Zippy Lifter |
-| 339 | 179 | Brand Nu |
-| 340 | 179 | Lively Riserpiece |
+| 333 | 184 | Chasem45 |
+| 334 | 183 | Mary Phillippi Blanton |
+| 335 | 180 | Eric Spencer Whitaker |
+| 336 | 180 | Zippy Lifter |
+| 337 | 180 | Maribel Vasquez |
+| 338 | 180 | Daddy |
+| 339 | 180 | LaToya Chambers |
+| 340 | 179 | Brand Nu |
 | 341 | 179 | Skippy |
-| 342 | 178 | Messy Live |
-| 343 | 177 | Comedian Prince Paul |
-| 344 | 177 | Valerie Alexander |
-| 345 | 177 | Frankey Chi |
-| 346 | 175 | Manda Allen |
-| 347 | 175 | Amy Lynn Leifheit |
-| 348 | 174 | ChunLi |
-| 349 | 174 | Guy Incognito |
-| 350 | 173 | LuckyStar |
-| 351 | 172 | Kendra McIntyre |
-| 352 | 171 | Telisha Mims |
-| 353 | 170 | Slinky Party |
-| 354 | 169 | Nickeya Phillips |
-| 355 | 169 | Bubbly Piececlear |
-| 356 | 169 | Zippy Tilefall |
+| 342 | 179 | Lively Riserpiece |
+| 343 | 178 | Messy Live |
+| 344 | 177 | Comedian Prince Paul |
+| 345 | 177 | Valerie Alexander |
+| 346 | 177 | Frankey Chi |
+| 347 | 175 | Manda Allen |
+| 348 | 175 | Amy Lynn Leifheit |
+| 349 | 174 | ChunLi |
+| 350 | 174 | Guy Incognito |
+| 351 | 173 | LuckyStar |
+| 352 | 172 | Kendra McIntyre |
+| 353 | 171 | Telisha Mims |
+| 354 | 170 | Slinky Party |
+| 355 | 169 | Nickeya Phillips |
+| 356 | 169 | Bubbly Piececlear |
 | 357 | 169 | rb |
 | 358 | 169 | Asha Langford |
 | 359 | 168 | Giggy Tower |
-| 360 | 167 | Mister Reid |
-| 361 | 167 | Charlene Baltimore |
+| 360 | 167 | Charlene Baltimore |
+| 361 | 167 | Mister Reid |
 | 362 | 167 | Dedra M Prester |
 | 363 | 166 | Teresa Yanira Cepeda |
 | 364 | 166 | BlackQueen105 |
-| 365 | 165 | Anthony |
-| 366 | 165 | Slinky Snapbuilder |
+| 365 | 165 | Slinky Snapbuilder |
+| 366 | 165 | Anthony |
 | 367 | 165 | SceneGreenz Wali |
 | 368 | 165 | Tanisha Taylor |
 | 369 | 164 | De'Nell Edwards |
@@ -382,11 +382,11 @@
 | 374 | 162 | Breezy Catcher |
 | 375 | 162 | Lauraly |
 | 376 | 161 | Devron Reedy |
-| 377 | 160 | Jean Regis |
-| 378 | 160 | Carolyn Smith |
+| 377 | 160 | Adrian Wilson |
+| 378 | 160 | Jean Regis |
 | 379 | 160 | Malcolm Stanley |
-| 380 | 160 | Larina Cherie Johnson |
-| 381 | 160 | Adrian Wilson |
+| 380 | 160 | Carolyn Smith |
+| 381 | 160 | Larina Cherie Johnson |
 | 382 | 160 | Cynthia Bradley |
 | 383 | 160 | Hasty Glidezone |
 | 384 | 160 | McKayla Owens |
