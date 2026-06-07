@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 03:34:18 UTC
+# Standings for team4 as of 2026-06-07 03:34:41 UTC
 
 **Total Participants:** 1319
 
@@ -55,8 +55,8 @@
 | 47 | 892 | Alala.Cersei |
 | 48 | 876 | SMV |
 | 49 | 872 | Snippy Grid |
-| 50 | 863 | Tiffany Loree Tiffany Oneill |
-| 51 | 863 | Adam J Leong |
+| 50 | 863 | Adam J Leong |
+| 51 | 863 | Tiffany Loree Tiffany Oneill |
 | 52 | 848 | Beee |
 | 53 | 836 | Blind Bette |
 | 54 | 830 | Kitsune Bi |
@@ -81,8 +81,8 @@
 | 73 | 660 | Jenn Fitzgerald |
 | 74 | 654 | Jonathan Hewitt |
 | 75 | 646 | Blayne Kole |
-| 76 | 644 | Kelly Bernard |
-| 77 | 644 | woopa 716 |
+| 76 | 644 | woopa 716 |
+| 77 | 644 | Kelly Bernard |
 | 78 | 638 | Annastaissia Todd |
 | 79 | 626 | Lupe Alburquerque |
 | 80 | 623 | Hairy Snake |
@@ -113,9 +113,9 @@
 | 105 | 416 | Ermadette |
 | 106 | 400 | Amber Doyle |
 | 107 | 400 | DexterDobbins |
-| 108 | 400 | Gigglycat |
+| 108 | 400 | Cherry |
 | 109 | 400 | Nicole Peoples |
-| 110 | 400 | Cherry |
+| 110 | 400 | Gigglycat |
 | 111 | 398 | Kay |
 | 112 | 397 | Real Talk Vibes |
 | 113 | 396 | Jackie Jackson |
@@ -143,9 +143,9 @@
 | 135 | 315 | Thomasena Eady Reid |
 | 136 | 311 | Jesse Olive |
 | 137 | 307 | Debby Ruof |
-| 138 | 300 | Genag |
-| 139 | 300 | 2 kool |
-| 140 | 294 | Kaash Brxtt |
+| 138 | 301 | Kaash Brxtt |
+| 139 | 300 | Genag |
+| 140 | 300 | 2 kool |
 | 141 | 292 | Katie Martin |
 | 142 | 290 | Dana Smith |
 | 143 | 282 | Nicole |
@@ -160,36 +160,36 @@
 | 152 | 261 | Waxboss |
 | 153 | 259 | Jessica Peyton |
 | 154 | 254 | Dazzle Dragon |
-| 155 | 249 | shawna |
-| 156 | 247 | QueenLi86 |
-| 157 | 244 | matt |
-| 158 | 241 | Lush Fitblock |
-| 159 | 240 | MomyLiz |
-| 160 | 239 | Shepreneur Sade |
-| 161 | 237 | Anna Gribble |
-| 162 | 235 | Hwanger Land |
-| 163 | 234 | Perky Riserbuilder |
-| 164 | 233 | Sisi RedVelvet Reneè |
-| 165 | 233 | Christy Beezley-Forbush |
-| 166 | 232 | Scamp Jones |
-| 167 | 231 | Becky McCool |
-| 168 | 231 | Alma López Morales |
-| 169 | 230 | gabs |
-| 170 | 229 | Megan Vick |
+| 155 | 253 | Tammy June |
+| 156 | 249 | shawna |
+| 157 | 247 | QueenLi86 |
+| 158 | 244 | matt |
+| 159 | 241 | Lush Fitblock |
+| 160 | 240 | MomyLiz |
+| 161 | 239 | Shepreneur Sade |
+| 162 | 237 | Anna Gribble |
+| 163 | 235 | Hwanger Land |
+| 164 | 234 | Perky Riserbuilder |
+| 165 | 233 | Sisi RedVelvet Reneè |
+| 166 | 233 | Christy Beezley-Forbush |
+| 167 | 232 | Scamp Jones |
+| 168 | 231 | Becky McCool |
+| 169 | 231 | Alma López Morales |
+| 170 | 230 | gabs |
 | 171 | 229 | Aisha Estrada |
-| 172 | 226 | Sassy Rollpiece |
-| 173 | 225 | BusterBear56 |
-| 174 | 224 | TRUCHILD777$$$ |
-| 175 | 223 | Slimm |
-| 176 | 222 | Danny Ortiz |
-| 177 | 220 | Shmeedo |
-| 178 | 220 | Silly Risegrid |
+| 172 | 229 | Megan Vick |
+| 173 | 226 | Sassy Rollpiece |
+| 174 | 225 | BusterBear56 |
+| 175 | 224 | TRUCHILD777$$$ |
+| 176 | 223 | Slimm |
+| 177 | 222 | Danny Ortiz |
+| 178 | 220 | Shmeedo |
 | 179 | 220 | Magz |
-| 180 | 218 | Dubiousdust |
-| 181 | 213 | Tammy June |
+| 180 | 220 | Silly Risegrid |
+| 181 | 218 | Dubiousdust |
 | 182 | 212 | blockhead |
-| 183 | 211 | Renee Sapp |
-| 184 | 211 | Goofy Riser |
+| 183 | 211 | Goofy Riser |
+| 184 | 211 | Renee Sapp |
 | 185 | 210 | Stephanie Myers |
 | 186 | 207 | Aramat |
 | 187 | 203 | Patrick Alley |
@@ -198,11 +198,11 @@
 | 190 | 199 | Colin |
 | 191 | 197 | Shocinda Sherwood |
 | 192 | 197 | Tiggerjake |
-| 193 | 195 | Lively Blockpiece |
-| 194 | 195 | Sean Mccleary |
-| 195 | 194 | Chiquita Blue |
+| 193 | 195 | Sean Mccleary |
+| 194 | 195 | Lively Blockpiece |
+| 195 | 194 | Lisa lisa |
 | 196 | 194 | Jenn Norcross |
-| 197 | 194 | Lisa lisa |
+| 197 | 194 | Chiquita Blue |
 | 198 | 193 | Tiffany Bunker-Hill |
 | 199 | 192 | Devinlee Brown |
 | 200 | 190 | Lucy Honer |
@@ -210,25 +210,25 @@
 | 202 | 188 | Pepone Pepe |
 | 203 | 187 | Leslie Ann Carter |
 | 204 | 186 | Kimyatta Cavin |
-| 205 | 185 | PerfectPieces |
-| 206 | 185 | Dae Von |
-| 207 | 183 | Tara Delay Hill |
-| 208 | 183 | Brandy Lynn |
-| 209 | 181 | Alyson M Kehler |
-| 210 | 181 | EL Booger |
-| 211 | 180 | Chuck Gannon |
+| 205 | 185 | Dae Von |
+| 206 | 185 | PerfectPieces |
+| 207 | 183 | Brandy Lynn |
+| 208 | 183 | Tara Delay Hill |
+| 209 | 181 | EL Booger |
+| 210 | 181 | Alyson M Kehler |
+| 211 | 180 | ariel |
 | 212 | 180 | Britney Kitora |
-| 213 | 180 | ariel |
+| 213 | 180 | Chuck Gannon |
 | 214 | 179 | LaTanya GeminiondaRise Johnson |
 | 215 | 178 | Spicy Chicken |
 | 216 | 178 | Tamara Triplet |
-| 217 | 177 | Damon Gaston |
-| 218 | 177 | Chirpy Link |
+| 217 | 177 | Chirpy Link |
+| 218 | 177 | Damon Gaston |
 | 219 | 176 | Nicole Dombrow |
 | 220 | 175 | Jackie Miller |
 | 221 | 173 | Ashley Mcdonald |
-| 222 | 172 | No Time |
-| 223 | 172 | Tawna Curry |
+| 222 | 172 | Tawna Curry |
+| 223 | 172 | No Time |
 | 224 | 169 | Tiffany Smith |
 | 225 | 167 | Brainbabe |
 | 226 | 167 | Littlebrat |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 03:34:18 UTC
+# Standings for team2 as of 2026-06-07 03:34:41 UTC
 
 **Total Participants:** 1573
 
@@ -220,11 +220,11 @@
 | 212 | 225 | Cheery Towerzone |
 | 213 | 224 | Kathleen Keogh Van Schoyck |
 | 214 | 222 | Margie Ann Naffziger |
-| 215 | 221 | Bianca Woodruff |
-| 216 | 221 | Michelle Luke Banta |
-| 217 | 221 | Dallas Runyan |
-| 218 | 220 | Lora Via |
-| 219 | 220 | Flashy Basegrid |
+| 215 | 221 | Dallas Runyan |
+| 216 | 221 | Bianca Woodruff |
+| 217 | 221 | Michelle Luke Banta |
+| 218 | 220 | Flashy Basegrid |
+| 219 | 220 | Lora Via |
 | 220 | 219 | Cathy Tippett |
 | 221 | 219 | Stella |
 | 222 | 218 | Amy Nicole McCanne |
@@ -235,41 +235,41 @@
 | 227 | 212 | Sully |
 | 228 | 211 | AndrewandShela Gornik |
 | 229 | 209 | Chill Line |
-| 230 | 209 | Logan Duffey |
-| 231 | 209 | Patria Osuoha |
+| 230 | 209 | Patria Osuoha |
+| 231 | 209 | Logan Duffey |
 | 232 | 208 | Jenny |
 | 233 | 207 | Amber Cogdill |
 | 234 | 206 | Nerdy Glidepiece |
 | 235 | 206 | Jodi Johnson |
 | 236 | 205 | Karly Moore |
-| 237 | 205 | Jeanna Mendez |
-| 238 | 205 | Melisa |
+| 237 | 205 | Melisa |
+| 238 | 205 | Jeanna Mendez |
 | 239 | 201 | Danielle Pack Lewellen |
 | 240 | 201 | Melissa Nash |
 | 241 | 201 | Jeffrey Smith |
-| 242 | 200 | Sarah Grundisch |
-| 243 | 200 | August Christy Lathrop |
-| 244 | 200 | Al Smith Jr |
-| 245 | 200 | Physhie |
-| 246 | 200 | Nathan Walker |
-| 247 | 200 | Norma Ortiz |
-| 248 | 200 | Eric Wayne Maschman |
+| 242 | 200 | Nathan Walker |
+| 243 | 200 | Al Smith Jr |
+| 244 | 200 | Eric Wayne Maschman |
+| 245 | 200 | August Christy Lathrop |
+| 246 | 200 | Sarah Grundisch |
+| 247 | 200 | Physhie |
+| 248 | 200 | Norma Ortiz |
 | 249 | 198 | Amy Taylor Pomerenk |
 | 250 | 197 | Nikki EightySixed |
 | 251 | 195 | Pamela Raye |
 | 252 | 195 | Bb |
-| 253 | 192 | Jill Goff |
-| 254 | 192 | Jef Wassom |
-| 255 | 192 | Greta Warden |
-| 256 | 192 | Stephany Green |
-| 257 | 192 | Laverne Ellis Blair |
+| 253 | 192 | Laverne Ellis Blair |
+| 254 | 192 | Jill Goff |
+| 255 | 192 | Stephany Green |
+| 256 | 192 | Greta Warden |
+| 257 | 192 | Jef Wassom |
 | 258 | 191 | Jessica Christine |
-| 259 | 190 | Zappy Pattern |
-| 260 | 188 | Ray Daisy |
-| 261 | 187 | Liseth Vasquez |
-| 262 | 187 | Laura Melton |
-| 263 | 187 | Curly Windbreaker |
-| 264 | 186 | Alison Waller |
+| 259 | 190 | Alison Waller |
+| 260 | 190 | Zappy Pattern |
+| 261 | 188 | Ray Daisy |
+| 262 | 187 | Liseth Vasquez |
+| 263 | 187 | Laura Melton |
+| 264 | 187 | Curly Windbreaker |
 | 265 | 185 | Krystle L Coon |
 | 266 | 184 | Theresa Hollinger |
 | 267 | 181 | Jamie Adams |

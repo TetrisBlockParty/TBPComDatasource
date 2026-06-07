@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 03:34:18 UTC
+# Standings for team1 as of 2026-06-07 03:34:41 UTC
 
 **Total Participants:** 1320
 
@@ -134,8 +134,8 @@
 | 126 | 348 | LeeLee08 |
 | 127 | 345 | Lashaunda |
 | 128 | 339 | Ty Øtg |
-| 129 | 334 | Christana Imjustbutton Stone |
-| 130 | 333 | Ceilo Marie |
+| 129 | 336 | Ceilo Marie |
+| 130 | 334 | Christana Imjustbutton Stone |
 | 131 | 331 | Joey Albright |
 | 132 | 329 | GrkGdess |
 | 133 | 328 | Jonathan Vee Jay |
