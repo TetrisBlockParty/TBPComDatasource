@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 01:02:19 UTC
+# Standings for team4 as of 2026-06-07 01:02:39 UTC
 
 **Total Participants:** 1235
 
@@ -102,10 +102,10 @@
 | 94 | 440 | Jewelz |
 | 95 | 429 | iiPurgeV2 |
 | 96 | 416 | Ermadette |
-| 97 | 400 | Sassy Column |
-| 98 | 400 | Amber Doyle |
-| 99 | 400 | DexterDobbins |
-| 100 | 400 | Gigglycat |
+| 97 | 400 | Amber Doyle |
+| 98 | 400 | Gigglycat |
+| 99 | 400 | Sassy Column |
+| 100 | 400 | DexterDobbins |
 | 101 | 398 | Kay |
 | 102 | 397 | Real Talk Vibes |
 | 103 | 395 | Melissa WC |
@@ -115,30 +115,30 @@
 | 107 | 378 | Lisa Garcia |
 | 108 | 376 | Jason Garnatz |
 | 109 | 374 | Daryn Elliott |
-| 110 | 373 | Boldy Rumbler |
-| 111 | 373 | Tanita Jobe |
+| 110 | 373 | Tanita Jobe |
+| 111 | 373 | Boldy Rumbler |
 | 112 | 367 | Trice Stevenson |
-| 113 | 364 | GeorgeButts |
-| 114 | 364 | Jackie Jackson |
+| 113 | 364 | Jackie Jackson |
+| 114 | 364 | GeorgeButts |
 | 115 | 359 | BCO22 |
 | 116 | 358 | Joyce Myers |
 | 117 | 358 | Kim |
 | 118 | 353 | Hen |
 | 119 | 347 | Nikki Fuller Johnson |
 | 120 | 346 | Alexis Cor |
-| 121 | 343 | Gorica Prusina |
-| 122 | 343 | Cinta Marie |
+| 121 | 343 | Cinta Marie |
+| 122 | 343 | Gorica Prusina |
 | 123 | 332 | RotatedWrongAgain |
 | 124 | 326 | Bobbie Harrell |
 | 125 | 322 | Taz |
 | 126 | 320 | Futrell Brent |
 | 127 | 317 | J |
-| 128 | 315 | Thomasena Eady Reid |
-| 129 | 315 | Andrew Dang |
+| 128 | 315 | Andrew Dang |
+| 129 | 315 | Thomasena Eady Reid |
 | 130 | 303 | Debby Ruof |
-| 131 | 300 | Genag |
+| 131 | 300 | 2 kool |
 | 132 | 300 | Hasty Builder |
-| 133 | 300 | 2 kool |
+| 133 | 300 | Genag |
 | 134 | 294 | Jesse Olive |
 | 135 | 292 | Katie Martin |
 | 136 | 290 | Dana Smith |
@@ -255,34 +255,34 @@
 | 247 | 137 | Shelby |
 | 248 | 137 | kellie |
 | 249 | 136 | Maria Castillo |
-| 250 | 136 | WeeWooWee |
-| 251 | 136 | Susan Stofberg Beltran |
-| 252 | 136 | JuicyJuice |
-| 253 | 135 | Quiomarie Cotto |
-| 254 | 134 | Slinky Stackzone |
+| 250 | 136 | Lee Ann Gibby |
+| 251 | 136 | JuicyJuice |
+| 252 | 136 | Susan Stofberg Beltran |
+| 253 | 136 | WeeWooWee |
+| 254 | 135 | Quiomarie Cotto |
 | 255 | 134 | Chris Covington |
-| 256 | 133 | Shawntae Mccary |
-| 257 | 132 | Homie |
-| 258 | 132 | Blockcrusher |
-| 259 | 131 | Tipsy Zonebuilder |
-| 260 | 131 | Dominique Melendez |
-| 261 | 131 | Tina Shalay Hayes |
-| 262 | 131 | Stasia |
-| 263 | 130 | Magz |
+| 256 | 134 | Slinky Stackzone |
+| 257 | 133 | Shawntae Mccary |
+| 258 | 132 | Homie |
+| 259 | 132 | Blockcrusher |
+| 260 | 131 | Stasia |
+| 261 | 131 | Tipsy Zonebuilder |
+| 262 | 131 | Dominique Melendez |
+| 263 | 131 | Tina Shalay Hayes |
 | 264 | 130 | Maurice DeJean |
-| 265 | 130 | Heidi Anne Scheiderer |
-| 266 | 129 | Brainbabe |
-| 267 | 129 | Lee Ann Gibby |
+| 265 | 130 | Magz |
+| 266 | 130 | Heidi Anne Scheiderer |
+| 267 | 129 | Chilly Pivot |
 | 268 | 129 | Dizzy Slammer |
-| 269 | 129 | Chilly Pivot |
-| 270 | 129 | Simone |
+| 269 | 129 | Brainbabe |
+| 270 | 129 | Shauna Davis |
 | 271 | 129 | Kelly Howland |
-| 272 | 129 | Shauna Davis |
+| 272 | 129 | Simone |
 | 273 | 128 | Juvon SupaShawdii Brooks |
-| 274 | 128 | Bouncy |
-| 275 | 128 | Crystal Hammonds |
-| 276 | 128 | Bridget Stevens |
-| 277 | 128 | Cherrypir05 |
+| 274 | 128 | Crystal Hammonds |
+| 275 | 128 | Bridget Stevens |
+| 276 | 128 | Cherrypir05 |
+| 277 | 128 | Bouncy |
 | 278 | 127 | Cheeky Climber |
 | 279 | 127 | LastBoi |
 | 280 | 127 | crobb77 |
