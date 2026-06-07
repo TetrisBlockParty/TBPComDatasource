@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 20:40:18 UTC
+# Standings for team1 as of 2026-06-07 20:40:42 UTC
 
 **Total Participants:** 1572
 
@@ -70,7 +70,7 @@
 | 62 | 1048 | Sanjuro |
 | 63 | 1024 | Chill Clusterer |
 | 64 | 1017 | Lisa Müller |
-| 65 | 1005 | Blockhead |
+| 65 | 1009 | Blockhead |
 | 66 | 998 | Weeze |
 | 67 | 981 | Court Court |
 | 68 | 980 | Bre Maugh |
@@ -157,27 +157,27 @@
 | 149 | 405 | SPNLover24 |
 | 150 | 404 | Hyper Slamdrop |
 | 151 | 401 | Shell Lewis |
-| 152 | 389 | Roberta Lynn |
-| 153 | 389 | GrkGdess |
-| 154 | 387 | Crystal Anderson |
-| 155 | 384 | Christana Imjustbutton Stone |
-| 156 | 383 | Sheila Burnham |
-| 157 | 380 | Dulo |
-| 158 | 377 | Jenna Renee |
-| 159 | 377 | AF Cruz |
-| 160 | 370 | Allison Baxter |
-| 161 | 367 | Leebo Slice |
-| 162 | 365 | Tishauna Virgo |
-| 163 | 365 | Simmone T. Kadiri |
-| 164 | 363 | Christina Rebecca |
-| 165 | 361 | John Staub |
-| 166 | 361 | Frisky Fallmatch |
+| 152 | 391 | Frisky Fallmatch |
+| 153 | 389 | Roberta Lynn |
+| 154 | 389 | GrkGdess |
+| 155 | 387 | Crystal Anderson |
+| 156 | 384 | Christana Imjustbutton Stone |
+| 157 | 383 | Sheila Burnham |
+| 158 | 380 | Dulo |
+| 159 | 377 | Jenna Renee |
+| 160 | 377 | AF Cruz |
+| 161 | 370 | Allison Baxter |
+| 162 | 367 | Leebo Slice |
+| 163 | 365 | Tishauna Virgo |
+| 164 | 365 | Simmone T. Kadiri |
+| 165 | 363 | Christina Rebecca |
+| 166 | 361 | John Staub |
 | 167 | 360 | Felicia Cain |
 | 168 | 359 | pooh |
 | 169 | 353 | Chuck Quarles |
 | 170 | 353 | Lashaunda |
-| 171 | 351 | Joey Albright |
-| 172 | 351 | Haley Bell |
+| 171 | 351 | Haley Bell |
+| 172 | 351 | Joey Albright |
 | 173 | 350 | Dee McCool |
 | 174 | 348 | LeeLee08 |
 | 175 | 340 | Spicy Risepiece |
@@ -480,22 +480,22 @@
 | 472 | 121 | Tiana Monique |
 | 473 | 121 | Shea Ladynick Henderson |
 | 474 | 120 | Teri Marie Clayton |
-| 475 | 120 | Kp |
-| 476 | 120 | Brenda Malachi-butler |
-| 477 | 120 | Jhaime |
+| 475 | 120 | Zappy Snapgrid |
+| 476 | 120 | Kp |
+| 477 | 120 | Brenda Malachi-butler |
 | 478 | 120 | Twisty Brickfit |
 | 479 | 120 | Giggy Edgefit |
 | 480 | 120 | Leavon Smith |
-| 481 | 119 | Lexx Robins |
-| 482 | 119 | Lozuna |
-| 483 | 118 | Hasty Pivoty |
-| 484 | 118 | Kimberly Susan Privette |
-| 485 | 118 | Amanda Woodruff |
-| 486 | 118 | Kala Miller |
+| 481 | 120 | Jhaime |
+| 482 | 119 | Lexx Robins |
+| 483 | 119 | Lozuna |
+| 484 | 118 | Hasty Pivoty |
+| 485 | 118 | Kimberly Susan Privette |
+| 486 | 118 | Amanda Woodruff |
 | 487 | 118 | Rhianna Dinki Austin |
-| 488 | 118 | Zappy Snapgrid |
-| 489 | 117 | Joana Thompson |
-| 490 | 117 | Mahagony Small |
+| 488 | 118 | Kala Miller |
+| 489 | 117 | Mahagony Small |
+| 490 | 117 | Joana Thompson |
 | 491 | 117 | Andrew Jay Vaughn |
 | 492 | 117 | BB |
 | 493 | 117 | Jimmy Shannon |
