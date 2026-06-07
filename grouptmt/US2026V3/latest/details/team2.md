@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 12:26:18 UTC
+# Standings for team2 as of 2026-06-07 12:26:40 UTC
 
 **Total Participants:** 1721
 
@@ -70,10 +70,10 @@
 | 62 | 1249 | Poppy |
 | 63 | 1192 | Angie Mccain |
 | 64 | 1148 | Nerdy Climber |
-| 65 | 1117 | Mikki Torres |
-| 66 | 1114 | Giddy Slamdrop |
-| 67 | 1103 | Eileen Egan |
-| 68 | 1081 | Nawang Nawang |
+| 65 | 1148 | Nawang Nawang |
+| 66 | 1117 | Mikki Torres |
+| 67 | 1114 | Giddy Slamdrop |
+| 68 | 1103 | Eileen Egan |
 | 69 | 1070 | Michelle Maulsby |
 | 70 | 1053 | Kvothe |
 | 71 | 1032 | Jayke Edward |
@@ -90,10 +90,10 @@
 | 82 | 861 | Marquita Toliver |
 | 83 | 856 | Marquetta Johnson |
 | 84 | 832 | Amber Triguero |
-| 85 | 819 | Beverly Lynn Mills |
-| 86 | 818 | Lily |
-| 87 | 802 | Charley Bedford |
-| 88 | 800 | Renee Freeman Jacobson |
+| 85 | 820 | Renee Freeman Jacobson |
+| 86 | 819 | Beverly Lynn Mills |
+| 87 | 818 | Lily |
+| 88 | 802 | Charley Bedford |
 | 89 | 799 | Elizabeth Sallas |
 | 90 | 794 | Deborah Boyce Minor |
 | 91 | 786 | Brandi Thompson |
@@ -140,11 +140,11 @@
 | 132 | 500 | Courtney McCulley |
 | 133 | 500 | Suki Kaur |
 | 134 | 483 | Karen Reid Cenkush |
-| 135 | 477 | Sully |
-| 136 | 477 | Amy Gale |
-| 137 | 476 | snowwol |
-| 138 | 474 | Bubbly Strikerpiece |
-| 139 | 468 | Zappy Pattern |
+| 135 | 478 | Zappy Pattern |
+| 136 | 477 | Sully |
+| 137 | 477 | Amy Gale |
+| 138 | 476 | snowwol |
+| 139 | 474 | Bubbly Strikerpiece |
 | 140 | 466 | Judy Long |
 | 141 | 459 | Steven Craig |
 | 142 | 458 | Kaycie Shaffer |

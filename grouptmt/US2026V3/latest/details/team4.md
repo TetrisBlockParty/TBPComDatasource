@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 12:26:18 UTC
+# Standings for team4 as of 2026-06-07 12:26:40 UTC
 
 **Total Participants:** 1458
 
@@ -108,14 +108,14 @@
 | 100 | 580 | Dandy Clearfit |
 | 101 | 567 | Lynn Grimes |
 | 102 | 562 | Sweet Stacker |
-| 103 | 530 | Jewelz |
-| 104 | 520 | Irma |
-| 105 | 516 | Caitlyn Wang |
-| 106 | 512 | Esther Hadassah |
-| 107 | 511 | Nikki Fuller Johnson |
-| 108 | 510 | Krysten Danielle Richard |
-| 109 | 503 | CJ |
-| 110 | 500 | Nicole Peoples |
+| 103 | 550 | Nicole Peoples |
+| 104 | 530 | Jewelz |
+| 105 | 520 | Irma |
+| 106 | 516 | Caitlyn Wang |
+| 107 | 512 | Esther Hadassah |
+| 108 | 511 | Nikki Fuller Johnson |
+| 109 | 510 | Krysten Danielle Richard |
+| 110 | 503 | CJ |
 | 111 | 483 | Katie Lynn Petit |
 | 112 | 477 | Malik Thompson |
 | 113 | 474 | Melissa WC |
@@ -138,28 +138,28 @@
 | 130 | 412 | Real Talk Vibes |
 | 131 | 408 | Futrell Brent |
 | 132 | 406 | Kelley Roach |
-| 133 | 400 | DexterDobbins |
+| 133 | 401 | Misty Leigh |
 | 134 | 400 | Suzanne Carter |
 | 135 | 400 | Amber Doyle |
-| 136 | 396 | Jackie Jackson |
-| 137 | 394 | Kim |
-| 138 | 388 | Hen |
-| 139 | 380 | Becky Doll-Hall |
-| 140 | 379 | Devinlee Brown |
-| 141 | 378 | Hwanger Land |
-| 142 | 377 | Boldy Rumbler |
-| 143 | 376 | Dee Wizz |
-| 144 | 374 | Daryn Elliott |
-| 145 | 373 | Tanita Jobe |
-| 146 | 371 | Snappy Fitzone |
-| 147 | 359 | BCO22 |
-| 148 | 358 | Joyce Myers |
-| 149 | 350 | RotatedWrongAgain |
-| 150 | 346 | Alexis Cor |
-| 151 | 343 | Cinta Marie |
-| 152 | 341 | Misty Leigh |
-| 153 | 340 | MomyLiz |
-| 154 | 340 | Taz |
+| 136 | 400 | DexterDobbins |
+| 137 | 396 | Jackie Jackson |
+| 138 | 394 | Kim |
+| 139 | 388 | Hen |
+| 140 | 380 | Becky Doll-Hall |
+| 141 | 379 | Devinlee Brown |
+| 142 | 378 | Hwanger Land |
+| 143 | 377 | Boldy Rumbler |
+| 144 | 376 | Dee Wizz |
+| 145 | 374 | Daryn Elliott |
+| 146 | 373 | Tanita Jobe |
+| 147 | 371 | Snappy Fitzone |
+| 148 | 359 | BCO22 |
+| 149 | 358 | Joyce Myers |
+| 150 | 350 | RotatedWrongAgain |
+| 151 | 346 | Alexis Cor |
+| 152 | 343 | Cinta Marie |
+| 153 | 340 | Taz |
+| 154 | 340 | MomyLiz |
 | 155 | 336 | Samantha Worley |
 | 156 | 335 | Andrew Dang |
 | 157 | 326 | Bobbie Harrell |

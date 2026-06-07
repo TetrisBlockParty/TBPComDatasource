@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 12:26:18 UTC
+# Standings for team1 as of 2026-06-07 12:26:40 UTC
 
 **Total Participants:** 1452
 
@@ -264,11 +264,11 @@
 | 256 | 190 | Chipper Snapper |
 | 257 | 189 | LaShaun Stinson |
 | 258 | 189 | Nate Myers |
-| 259 | 188 | Cheeky Pop |
-| 260 | 187 | Kenny MrOnethousand Peck |
-| 261 | 187 | MACHETEEDDIE513 |
-| 262 | 187 | Heather Aurelia |
-| 263 | 186 | Stephen Providenti |
+| 259 | 188 | Stephen Providenti |
+| 260 | 188 | Cheeky Pop |
+| 261 | 187 | Kenny MrOnethousand Peck |
+| 262 | 187 | MACHETEEDDIE513 |
+| 263 | 187 | Heather Aurelia |
 | 264 | 186 | Lesley Brunkus Cianfaglione |
 | 265 | 186 | Snippy Breaker |
 | 266 | 184 | Bbyunicorn |
@@ -344,57 +344,57 @@
 | 336 | 142 | Charlene Baltimore |
 | 337 | 142 | Matthieu Pistone |
 | 338 | 141 | Shalena Marie Humphrey |
-| 339 | 140 | MamushiOh |
+| 339 | 140 | rls |
 | 340 | 140 | Nerdy Blockpiece |
-| 341 | 140 | rls |
-| 342 | 140 | Antoinette Jones |
+| 341 | 140 | Antoinette Jones |
+| 342 | 140 | MamushiOh |
 | 343 | 140 | Eric Spencer Whitaker |
 | 344 | 139 | kitten |
 | 345 | 138 | Dreamzzz |
 | 346 | 138 | Tamika Rocheteau |
-| 347 | 137 | Lisa Fletcher |
-| 348 | 137 | Tay |
-| 349 | 137 | Nickeya Phillips |
-| 350 | 137 | Kelvin Cook |
-| 351 | 137 | Giggy Tower |
+| 347 | 137 | Giggy Tower |
+| 348 | 137 | Lisa Fletcher |
+| 349 | 137 | Kelvin Cook |
+| 350 | 137 | Nickeya Phillips |
+| 351 | 137 | Tay |
 | 352 | 136 | Shanaa Germany Crittenden |
-| 353 | 136 | McKayla Owens |
-| 354 | 136 | Cece Fowler |
-| 355 | 136 | Travis Davison |
+| 353 | 136 | Travis Davison |
+| 354 | 136 | McKayla Owens |
+| 355 | 136 | Cece Fowler |
 | 356 | 136 | Char |
-| 357 | 135 | Saucy Tile |
-| 358 | 135 | Sean White |
-| 359 | 135 | Katrina Ramey |
+| 357 | 135 | Sean White |
+| 358 | 135 | Katrina Ramey |
+| 359 | 135 | Saucy Tile |
 | 360 | 134 | Brittanie Wardlow |
 | 361 | 134 | Perky Pusher |
 | 362 | 134 | Jae Thompson-Tyus |
 | 363 | 134 | Peppy Glider |
 | 364 | 133 | Tasha |
-| 365 | 132 | Chirpy Buildgrid |
-| 366 | 132 | Tremaine Hiler |
-| 367 | 131 | Sarah Clark |
+| 365 | 133 | Bubbly Piececlear |
+| 366 | 132 | Chirpy Buildgrid |
+| 367 | 132 | Tremaine Hiler |
 | 368 | 131 | Phillip Vasquez |
-| 369 | 130 | Adrian Wilson |
+| 369 | 131 | Sarah Clark |
 | 370 | 130 | Maribel Vasquez |
-| 371 | 130 | Crystal Anderson |
+| 371 | 130 | Adrian Wilson |
 | 372 | 130 | Jessica Davis |
 | 373 | 130 | Miera Nicole |
-| 374 | 130 | Murg4dr01d |
-| 375 | 129 | Loopy Tiler |
-| 376 | 129 | Lynn |
-| 377 | 129 | Mathew Trudell |
-| 378 | 128 | Breezy Catcher |
+| 374 | 130 | Crystal Anderson |
+| 375 | 130 | Murg4dr01d |
+| 376 | 129 | Loopy Tiler |
+| 377 | 129 | Lynn |
+| 378 | 129 | Mathew Trudell |
 | 379 | 128 | Jack Vlasak |
 | 380 | 128 | Darrel K Pemberton |
-| 381 | 127 | Comedian Prince Paul |
-| 382 | 127 | Treneil Daffin |
+| 381 | 128 | Breezy Catcher |
+| 382 | 127 | Comedian Prince Paul |
 | 383 | 127 | Ozell Jones Jr. |
-| 384 | 126 | Brittany Fells |
-| 385 | 126 | Bubbly Piececlear |
-| 386 | 125 | Taz Ballard |
-| 387 | 125 | Dedra M Prester |
-| 388 | 125 | LaTonya Myers |
-| 389 | 125 | Kate Hancock Malicek |
+| 384 | 127 | Treneil Daffin |
+| 385 | 126 | Brittany Fells |
+| 386 | 125 | Kate Hancock Malicek |
+| 387 | 125 | LaTonya Myers |
+| 388 | 125 | Taz Ballard |
+| 389 | 125 | Dedra M Prester |
 | 390 | 125 | Dizzy Dashy |
 | 391 | 124 | The DUBZ |
 | 392 | 123 | Cauiasia DeJ'ae |
