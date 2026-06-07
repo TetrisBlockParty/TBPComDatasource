@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 12:38:18 UTC
+# Standings for team2 as of 2026-06-07 12:38:39 UTC
 
 **Total Participants:** 1723
 
@@ -188,8 +188,8 @@
 | 180 | 333 | Christina Maria |
 | 181 | 332 | Nikki Hayes |
 | 182 | 332 | Ratchet |
-| 183 | 328 | Keri Mears |
-| 184 | 328 | Tim Tim |
+| 183 | 328 | Tim Tim |
+| 184 | 328 | Keri Mears |
 | 185 | 325 | Fudgie Pie |
 | 186 | 325 | Flashy Twistline |
 | 187 | 323 | Shannon Wilson |
@@ -209,14 +209,14 @@
 | 201 | 298 | Rob Owens |
 | 202 | 298 | Melissa Thomas |
 | 203 | 297 | Jat |
-| 204 | 296 | Sara Perkins |
-| 205 | 296 | Snappy Combo |
+| 204 | 296 | Snappy Combo |
+| 205 | 296 | Sara Perkins |
 | 206 | 296 | Brenda Jones |
 | 207 | 295 | Nova Nova |
 | 208 | 295 | Brittney Williams |
 | 209 | 294 | Vistabrat |
-| 210 | 292 | James Ward |
-| 211 | 292 | Pam Bauder Ludwig |
+| 210 | 292 | Pam Bauder Ludwig |
+| 211 | 292 | James Ward |
 | 212 | 286 | Ashley Billiot Rhodes |
 | 213 | 285 | H |
 | 214 | 285 | Samantha Carman |
@@ -233,20 +233,20 @@
 | 225 | 269 | Chipper Stackbuilder |
 | 226 | 266 | Kathleen Keogh Van Schoyck |
 | 227 | 265 | Margie Ann Naffziger |
-| 228 | 263 | Jessica Lynn |
+| 228 | 263 | Glitzy Base |
 | 229 | 263 | Snappy Blockbuilder |
-| 230 | 263 | Glitzy Base |
+| 230 | 263 | Jessica Lynn |
 | 231 | 262 | Cool Balancer |
 | 232 | 259 | Angie Kowalsky Olson |
-| 233 | 257 | Xandrea Jones |
-| 234 | 257 | Dallas Runyan |
+| 233 | 257 | Dallas Runyan |
+| 234 | 257 | Xandrea Jones |
 | 235 | 256 | Tami Kay Williams Watson |
 | 236 | 253 | Hilliary Beyer |
 | 237 | 253 | Marge Cromer |
 | 238 | 252 | Kathy Strickland |
-| 239 | 250 | marsam |
-| 240 | 250 | Ray Daisy |
-| 241 | 250 | Happy Drop |
+| 239 | 250 | Ray Daisy |
+| 240 | 250 | Happy Drop |
+| 241 | 250 | marsam |
 | 242 | 250 | Iesha Cupil |
 | 243 | 249 | Elizabeth Henry |
 | 244 | 247 | Brittni Lawrence |
@@ -256,32 +256,32 @@
 | 248 | 239 | Norma Ortiz |
 | 249 | 238 | Jenny |
 | 250 | 238 | Kim Hunt |
-| 251 | 237 | Michelle Luke Banta |
-| 252 | 236 | Lush Party |
-| 253 | 234 | Nicole Plummer |
-| 254 | 234 | AndyJo |
-| 255 | 234 | Larry Cross |
-| 256 | 233 | Jeanna Mendez |
+| 251 | 237 | Stephanie |
+| 252 | 237 | Michelle Luke Banta |
+| 253 | 236 | Lush Party |
+| 254 | 234 | Larry Cross |
+| 255 | 234 | Nicole Plummer |
+| 256 | 234 | AndyJo |
 | 257 | 233 | Amie Marks |
-| 258 | 230 | Kelly Vedder |
-| 259 | 230 | Brandy Chinelle |
-| 260 | 229 | Ariel Gundersen |
-| 261 | 228 | Lora Via |
-| 262 | 227 | Curly Windbreaker |
-| 263 | 227 | Laura Melton |
-| 264 | 225 | Cheery Towerzone |
+| 258 | 233 | Jeanna Mendez |
+| 259 | 230 | Kelly Vedder |
+| 260 | 230 | Brandy Chinelle |
+| 261 | 229 | Ariel Gundersen |
+| 262 | 228 | Lora Via |
+| 263 | 227 | Curly Windbreaker |
+| 264 | 227 | Laura Melton |
 | 265 | 225 | Theresa Huddleston |
-| 266 | 224 | Nathan Walker |
-| 267 | 224 | Olivia Jefferson |
-| 268 | 223 | SilentBuffalo |
-| 269 | 221 | Bianca Woodruff |
-| 270 | 220 | Flashy Basegrid |
+| 266 | 225 | Cheery Towerzone |
+| 267 | 224 | Nathan Walker |
+| 268 | 224 | Olivia Jefferson |
+| 269 | 223 | SilentBuffalo |
+| 270 | 221 | Bianca Woodruff |
 | 271 | 220 | Laverne Ellis Blair |
-| 272 | 219 | Cathy Tippett |
-| 273 | 219 | Stella |
-| 274 | 218 | Logan Duffey |
-| 275 | 218 | Julie Alexander Sykes |
-| 276 | 218 | Stephanie |
+| 272 | 220 | Flashy Basegrid |
+| 273 | 219 | Cathy Tippett |
+| 274 | 219 | Stella |
+| 275 | 218 | Logan Duffey |
+| 276 | 218 | Julie Alexander Sykes |
 | 277 | 217 | Amanda Priddy |
 | 278 | 216 | Swanky Fitline |
 | 279 | 216 | Alicia Kinney |
@@ -302,8 +302,8 @@
 | 294 | 201 | Danielle Pack Lewellen |
 | 295 | 201 | Melissa Nash |
 | 296 | 201 | Anthony Swift |
-| 297 | 200 | August Christy Lathrop |
-| 298 | 200 | Tony Medina |
+| 297 | 200 | Tony Medina |
+| 298 | 200 | August Christy Lathrop |
 | 299 | 200 | Precious Womack |
 | 300 | 200 | Eric Wayne Maschman |
 | 301 | 200 | Physhie |
@@ -328,14 +328,14 @@
 | 320 | 185 | Krystle L Coon |
 | 321 | 184 | SEH |
 | 322 | 183 | Flashy Hitter |
-| 323 | 182 | Alonzo Reed |
-| 324 | 181 | Jamie Adams |
-| 325 | 180 | phamous1 |
-| 326 | 180 | Skye Ehret |
-| 327 | 180 | Happy |
-| 328 | 180 | Dawn Kroptavich |
-| 329 | 180 | Zappy Liney |
-| 330 | 180 | Sassy Twistbuilder |
+| 323 | 183 | Sassy Twistbuilder |
+| 324 | 182 | Alonzo Reed |
+| 325 | 181 | Jamie Adams |
+| 326 | 180 | phamous1 |
+| 327 | 180 | Skye Ehret |
+| 328 | 180 | Happy |
+| 329 | 180 | Dawn Kroptavich |
+| 330 | 180 | Zappy Liney |
 | 331 | 179 | Santara Ferguson |
 | 332 | 177 | Jennifer McClure |
 | 333 | 177 | Rick |
@@ -454,11 +454,11 @@
 | 446 | 129 | Nikki Hatch |
 | 447 | 129 | Belle |
 | 448 | 128 | rageking |
-| 449 | 127 | Tammy Roth |
-| 450 | 127 | Tina |
-| 451 | 127 | Nicky Steigerwalt |
-| 452 | 126 | Tamtam |
-| 453 | 125 | Kevin Mccoy |
+| 449 | 128 | Kevin Mccoy |
+| 450 | 127 | Tammy Roth |
+| 451 | 127 | Tina |
+| 452 | 127 | Nicky Steigerwalt |
+| 453 | 126 | Tamtam |
 | 454 | 125 | Jessica Connot |
 | 455 | 125 | Kathryn |
 | 456 | 124 | Angeleye A James |
