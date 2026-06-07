@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 10:08:18 UTC
+# Standings for team1 as of 2026-06-07 10:08:39 UTC
 
 **Total Participants:** 1437
 
@@ -55,10 +55,10 @@
 | 47 | 1140 | JoJo |
 | 48 | 1133 | Jennifer To |
 | 49 | 1120 | Ryan Meilleur |
-| 50 | 1067 | Catara Renae Oliver |
-| 51 | 1052 | Shortstak |
-| 52 | 1046 | Spicy Balancer |
-| 53 | 1029 | Holly Jolly |
+| 50 | 1093 | Holly Jolly |
+| 51 | 1067 | Catara Renae Oliver |
+| 52 | 1052 | Shortstak |
+| 53 | 1046 | Spicy Balancer |
 | 54 | 1024 | Chill Clusterer |
 | 55 | 998 | Angela R Wilson |
 | 56 | 970 | Danielle DeLozier Plesec |
@@ -67,13 +67,13 @@
 | 59 | 935 | Whitney Butler |
 | 60 | 897 | BYM4L |
 | 61 | 894 | Danielle Barthelme |
-| 62 | 882 | Jon Gathers |
-| 63 | 877 | Brian Bohanon II |
-| 64 | 873 | Janine Hunter |
-| 65 | 870 | Blockhead |
-| 66 | 863 | Court Court |
-| 67 | 854 | Eric Mcgaughy |
-| 68 | 852 | D'Andra Stewart |
+| 62 | 882 | D'Andra Stewart |
+| 63 | 882 | Jon Gathers |
+| 64 | 877 | Brian Bohanon II |
+| 65 | 873 | Janine Hunter |
+| 66 | 870 | Blockhead |
+| 67 | 863 | Court Court |
+| 68 | 854 | Eric Mcgaughy |
 | 69 | 836 | Tiana Moore |
 | 70 | 805 | Weeze |
 | 71 | 803 | Kimberly Hernandez |
@@ -118,7 +118,7 @@
 | 110 | 495 | W.A. Simpson |
 | 111 | 488 | Trendalyn Webb |
 | 112 | 481 | Novaa |
-| 113 | 478 | Chris Caniglia |
+| 113 | 480 | Chris Caniglia |
 | 114 | 477 | Chenell Gillard |
 | 115 | 474 | DaVonte' Cretter |
 | 116 | 474 | De'Laonzeo Anthony |
