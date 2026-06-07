@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 07:20:19 UTC
+# Standings for team2 as of 2026-06-07 07:20:40 UTC
 
 **Total Participants:** 1668
 
@@ -232,8 +232,8 @@
 | 224 | 246 | Brooke Lynn Marie Adelaide |
 | 225 | 241 | Boldy Wobbler |
 | 226 | 240 | PaiBri |
-| 227 | 238 | Ratchet |
-| 228 | 237 | Norma Ortiz |
+| 227 | 239 | Norma Ortiz |
+| 228 | 238 | Ratchet |
 | 229 | 237 | Michelle Luke Banta |
 | 230 | 236 | Lush Party |
 | 231 | 235 | Tami Kay Williams Watson |

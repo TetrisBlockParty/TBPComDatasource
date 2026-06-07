@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 07:20:19 UTC
+# Standings for team4 as of 2026-06-07 07:20:40 UTC
 
 **Total Participants:** 1403
 
@@ -271,9 +271,9 @@
 | 263 | 160 | Frothy Pattern |
 | 264 | 159 | JoAnn Summerlot Ratliff |
 | 265 | 159 | Jacqueline Jackii Ramos |
-| 266 | 158 | Joseph Hunter |
-| 267 | 157 | Laguya |
-| 268 | 156 | Kelly Howland |
+| 266 | 158 | Kelly Howland |
+| 267 | 158 | Joseph Hunter |
+| 268 | 157 | Laguya |
 | 269 | 155 | Bonnie Powell |
 | 270 | 155 | Shayna Vaigneur-Hall |
 | 271 | 155 | Tipsy Zonebuilder |
@@ -504,28 +504,28 @@
 | 496 | 83 | Lady |
 | 497 | 83 | MrLoner Stoner |
 | 498 | 83 | Sandra Stark |
-| 499 | 83 | Brian Woods |
-| 500 | 83 | Brandon Bedenbaugh |
-| 501 | 82 | Joshua Hunt |
-| 502 | 82 | Amanda Snow |
-| 503 | 82 | Clever Patterner |
-| 504 | 82 | Cari Underwood |
-| 505 | 82 | Charity Thomas |
-| 506 | 82 | Lisa Pie |
-| 507 | 81 | Marisela Alvarado |
-| 508 | 81 | Nicole Colby McCloskey |
-| 509 | 81 | Denise Wilson |
-| 510 | 81 | PsyDMom |
-| 511 | 81 | GingaNinja |
+| 499 | 83 | Brandon Bedenbaugh |
+| 500 | 83 | Brian Woods |
+| 501 | 82 | Lana Tran |
+| 502 | 82 | Joshua Hunt |
+| 503 | 82 | Charity Thomas |
+| 504 | 82 | Lisa Pie |
+| 505 | 82 | Cari Underwood |
+| 506 | 82 | Clever Patterner |
+| 507 | 82 | Amanda Snow |
+| 508 | 81 | GingaNinja |
+| 509 | 81 | PsyDMom |
+| 510 | 81 | Denise Wilson |
+| 511 | 81 | Nicole Colby McCloskey |
 | 512 | 81 | Giggy Snapgrid |
-| 513 | 81 | Tiffany Roberts |
-| 514 | 80 | Alicia |
-| 515 | 80 | Alice Eisnor-Martens |
-| 516 | 80 | Lana Tran |
-| 517 | 80 | Krista Diaz |
-| 518 | 80 | Happy Filler |
-| 519 | 80 | EpicWizard |
-| 520 | 80 | Will E Ayala |
+| 513 | 81 | Marisela Alvarado |
+| 514 | 81 | Tiffany Roberts |
+| 515 | 80 | Alicia |
+| 516 | 80 | Krista Diaz |
+| 517 | 80 | Will E Ayala |
+| 518 | 80 | Alice Eisnor-Martens |
+| 519 | 80 | Happy Filler |
+| 520 | 80 | EpicWizard |
 | 521 | 80 | Lady Dolphin |
 | 522 | 80 | Keke Johnson |
 | 523 | 80 | Josh Keith Travierso |
