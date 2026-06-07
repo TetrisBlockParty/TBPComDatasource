@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 00:46:40 UTC
+# Standings for team1 as of 2026-06-07 00:47:16 UTC
 
 **Total Participants:** 1242
 
@@ -1043,9 +1043,9 @@
 | 1035 | 16 | Willson06 |
 | 1036 | 16 | Tammy Collins |
 | 1037 | 16 | Lively Strikesnap |
-| 1038 | 16 | Christopher Wallace |
-| 1039 | 16 | Stacey Kesteloot |
-| 1040 | 16 | Dee-Dee Stewart |
+| 1038 | 16 | Dee-Dee Stewart |
+| 1039 | 16 | Christopher Wallace |
+| 1040 | 16 | Stacey Kesteloot |
 | 1041 | 16 | Giddy Twistslam |
 | 1042 | 16 | Symonne 'Monnie' Pierce |
 | 1043 | 15 | Tia Hazelton |
@@ -1064,85 +1064,85 @@
 | 1056 | 15 | Christian Whittaker |
 | 1057 | 15 | Tami Spence |
 | 1058 | 15 | Stacy Nicole |
-| 1059 | 15 | Bri Lou |
-| 1060 | 15 | Lit757 |
-| 1061 | 15 | Ernie Waters |
-| 1062 | 15 | Hasty Match |
+| 1059 | 15 | Hasty Match |
+| 1060 | 15 | Ernie Waters |
+| 1061 | 15 | Bri Lou |
+| 1062 | 15 | Lit757 |
 | 1063 | 15 | Tweet |
 | 1064 | 15 | Haley Bell |
 | 1065 | 15 | Nicole Freeman |
-| 1066 | 15 | Mayra Diaz |
-| 1067 | 15 | Jonathan Zold |
-| 1068 | 15 | Princess Nevaeh |
-| 1069 | 15 | b |
-| 1070 | 15 | midnightxtoker |
-| 1071 | 15 | Elaine Youmans |
-| 1072 | 14 | Jerrone Epps |
-| 1073 | 14 | Nerdy Curvetile |
-| 1074 | 14 | Fancy Mover |
-| 1075 | 14 | Kenny 'Tailormade' Boyd |
-| 1076 | 14 | Dymond |
-| 1077 | 14 | MoneyMac |
-| 1078 | 14 | Jennifer Levan |
-| 1079 | 14 | Zany Pivot |
-| 1080 | 14 | Analesia Taylor |
-| 1081 | 14 | Sylvia Holst |
-| 1082 | 14 | Sherry D Singleton |
-| 1083 | 14 | Jasmine Hariston-Estis |
+| 1066 | 15 | Jonathan Zold |
+| 1067 | 15 | Princess Nevaeh |
+| 1068 | 15 | Elaine Youmans |
+| 1069 | 15 | Mayra Diaz |
+| 1070 | 15 | b |
+| 1071 | 15 | midnightxtoker |
+| 1072 | 14 | MoneyMac |
+| 1073 | 14 | Kenny 'Tailormade' Boyd |
+| 1074 | 14 | Jerrone Epps |
+| 1075 | 14 | Nerdy Curvetile |
+| 1076 | 14 | Fancy Mover |
+| 1077 | 14 | Sylvia Holst |
+| 1078 | 14 | Dymond |
+| 1079 | 14 | Jennifer Levan |
+| 1080 | 14 | Carmen Claudio |
+| 1081 | 14 | Zany Pivot |
+| 1082 | 14 | Analesia Taylor |
+| 1083 | 14 | Sherry D Singleton |
 | 1084 | 14 | Brittany Cole |
-| 1085 | 14 | Jazzy |
-| 1086 | 14 | Karen Knapp |
-| 1087 | 14 | Jeffrey Pierce-Overton |
-| 1088 | 13 | Emma Adams |
+| 1085 | 14 | Karen Knapp |
+| 1086 | 14 | Jeffrey Pierce-Overton |
+| 1087 | 14 | Jazzy |
+| 1088 | 14 | Jasmine Hariston-Estis |
 | 1089 | 13 | Chinkey Overit |
-| 1090 | 13 | Leah Ingram |
-| 1091 | 13 | PuddenPop |
-| 1092 | 13 | Hoppy Rumbler |
-| 1093 | 13 | Carmen Claudio |
-| 1094 | 13 | Krystal Maynard |
-| 1095 | 12 | Dora Greer |
-| 1096 | 12 | BigMike |
-| 1097 | 12 | Mamiyoung47 |
-| 1098 | 12 | Sarah Jones |
-| 1099 | 12 | Outspoken Sirchristopher |
-| 1100 | 12 | Nicole Coko Thomas |
-| 1101 | 12 | Silly Spinblock |
-| 1102 | 12 | Michael Jones |
-| 1103 | 12 | Cameo Tweed |
-| 1104 | 12 | Mike Hromowyk |
-| 1105 | 12 | Kevin Witdaflute |
-| 1106 | 12 | Joseph Ware Jr. |
-| 1107 | 12 | Lillie Blossom Dixon |
-| 1108 | 12 | Zany Patternblock |
-| 1109 | 12 | toye69 |
+| 1090 | 13 | PuddenPop |
+| 1091 | 13 | Emma Adams |
+| 1092 | 13 | Krystal Maynard |
+| 1093 | 13 | Hoppy Rumbler |
+| 1094 | 13 | Leah Ingram |
+| 1095 | 12 | Outspoken Sirchristopher |
+| 1096 | 12 | Sarah Jones |
+| 1097 | 12 | Michael Jones |
+| 1098 | 12 | BigMike |
+| 1099 | 12 | Joseph Ware Jr. |
+| 1100 | 12 | Dora Greer |
+| 1101 | 12 | Mamiyoung47 |
+| 1102 | 12 | Silly Spinblock |
+| 1103 | 12 | Kevin Witdaflute |
+| 1104 | 12 | Lillie Blossom Dixon |
+| 1105 | 12 | Cameo Tweed |
+| 1106 | 12 | Nicole Coko Thomas |
+| 1107 | 12 | Zany Patternblock |
+| 1108 | 12 | Nerdy Riser |
+| 1109 | 12 | Mike Hromowyk |
 | 1110 | 12 | BigDawg Lessley |
-| 1111 | 12 | Nerdy Riser |
+| 1111 | 12 | toye69 |
 | 1112 | 11 | Groovy Climber |
 | 1113 | 11 | Evelyn Epps |
-| 1114 | 11 | Nerdy Twistline |
-| 1115 | 11 | Frilly Shatterline |
-| 1116 | 11 | pizzapie |
-| 1117 | 11 | Ray Baker |
-| 1118 | 11 | Felicia Woods |
-| 1119 | 11 | Alanna Breitenbach |
-| 1120 | 11 | Jayson |
+| 1114 | 11 | Frilly Shatterline |
+| 1115 | 11 | Ray Baker |
+| 1116 | 11 | Felicia Woods |
+| 1117 | 11 | pizzapie |
+| 1118 | 11 | Nerdy Twistline |
+| 1119 | 11 | Jayson |
+| 1120 | 11 | Alanna Breitenbach |
 | 1121 | 11 | Fred Caston |
-| 1122 | 10 | Kim Smith |
-| 1123 | 10 | Saucy Linkgrid |
-| 1124 | 10 | Jimel Fraser |
-| 1125 | 10 | Ladii Libra |
-| 1126 | 10 | Semaj Johnson |
-| 1127 | 10 | Quirky Slammer |
-| 1128 | 10 | OneBuke FollowMe |
-| 1129 | 10 | Alisha Dawson Crouch |
-| 1130 | 10 | Boricua64 |
-| 1131 | 10 | Megan Payette |
-| 1132 | 10 | Anthony D Holmes |
-| 1133 | 10 | Wacky Riserpiece |
-| 1134 | 10 | Damien Fonseca |
-| 1135 | 10 | Steve Renelus |
-| 1136 | 10 | Yvonne Aggers |
-| 1137 | 10 | Nope Young |
+| 1122 | 10 | Alisha Dawson Crouch |
+| 1123 | 10 | Jimel Fraser |
+| 1124 | 10 | Megan Payette |
+| 1125 | 10 | Semaj Johnson |
+| 1126 | 10 | Damien Fonseca |
+| 1127 | 10 | Nope Young |
+| 1128 | 10 | Wacky Riserpiece |
+| 1129 | 10 | Quirky Slammer |
+| 1130 | 10 | Steve Renelus |
+| 1131 | 10 | Yvonne Aggers |
+| 1132 | 10 | Boricua64 |
+| 1133 | 10 | Kim Smith |
+| 1134 | 10 | Anthony D Holmes |
+| 1135 | 10 | OneBuke FollowMe |
+| 1136 | 10 | Ladii Libra |
+| 1137 | 10 | Saucy Linkgrid |
 | 1138 | 10 | Renee Marshall |
 | 1139 | 10 | Willard Junior |
 | 1140 | 10 | Shawn Himes |
