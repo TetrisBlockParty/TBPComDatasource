@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 20:26:40 UTC
+# Standings for team2 as of 2026-06-07 20:27:19 UTC
 
 **Total Participants:** 1888
 
@@ -130,11 +130,11 @@
 | 122 | 668 | Mirr Lulu |
 | 123 | 657 | Brandon Link |
 | 124 | 643 | Alison Waller |
-| 125 | 632 | Allie Bug |
-| 126 | 627 | Le Sandy |
-| 127 | 614 | Kellie Sharp Godfrey |
-| 128 | 607 | Gloria May Shook |
-| 129 | 604 | Melissa Thomas |
+| 125 | 634 | Melissa Thomas |
+| 126 | 632 | Allie Bug |
+| 127 | 627 | Le Sandy |
+| 128 | 614 | Kellie Sharp Godfrey |
+| 129 | 607 | Gloria May Shook |
 | 130 | 603 | Ashlea McBlaine |
 | 131 | 597 | Nettrainer |
 | 132 | 596 | Pooh |
@@ -143,17 +143,17 @@
 | 135 | 577 | Lindsay Klemp |
 | 136 | 576 | Amber Miller Wirick |
 | 137 | 574 | Brandy McCune Reep |
-| 138 | 570 | Kathleen Dumbazz |
-| 139 | 570 | Jackie Tupper |
+| 138 | 570 | Jackie Tupper |
+| 139 | 570 | Kathleen Dumbazz |
 | 140 | 563 | Tisha Hairston |
 | 141 | 554 | Cathy Tippett |
 | 142 | 553 | Jamie Jones |
-| 143 | 550 | Sully |
-| 144 | 550 | DomDomsNana |
+| 143 | 550 | DomDomsNana |
+| 144 | 550 | Sully |
 | 145 | 541 | Ricardo Ewart |
 | 146 | 536 | Nikki Carter |
-| 147 | 535 | Jgato |
-| 148 | 535 | Amanda Sikes |
+| 147 | 535 | Amanda Sikes |
+| 148 | 535 | Jgato |
 | 149 | 534 | Zappy Pattern |
 | 150 | 519 | Mom |
 | 151 | 515 | Loony Faller |
@@ -166,7 +166,7 @@
 | 158 | 483 | Karen Reid Cenkush |
 | 159 | 482 | Zarah Kettler |
 | 160 | 477 | Amy Gale |
-| 161 | 474 | Theresa Marie |
+| 161 | 476 | Theresa Marie |
 | 162 | 474 | Bubbly Strikerpiece |
 | 163 | 468 | Judy Long |
 | 164 | 462 | Kaycie Shaffer |
@@ -175,11 +175,11 @@
 | 167 | 444 | Ashley Green |
 | 168 | 436 | Gill |
 | 169 | 436 | MegaPooh |
-| 170 | 429 | Cool Climber |
-| 171 | 429 | Snappy Blockbuilder |
+| 170 | 429 | Snappy Blockbuilder |
+| 171 | 429 | Cool Climber |
 | 172 | 424 | Danielle Blount |
-| 173 | 418 | Zany Blockclear |
-| 174 | 418 | Kelly Rogers |
+| 173 | 418 | Kelly Rogers |
+| 174 | 418 | Zany Blockclear |
 | 175 | 418 | Twisty Buildgrid |
 | 176 | 416 | Nutty Curver |
 | 177 | 416 | Suki Jacobs |
