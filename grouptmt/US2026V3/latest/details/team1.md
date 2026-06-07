@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 14:36:19 UTC
+# Standings for team1 as of 2026-06-07 14:36:41 UTC
 
 **Total Participants:** 1479
 
@@ -588,13 +588,13 @@
 | 580 | 82 | Johnathan Deese |
 | 581 | 82 | OhNoZer0 |
 | 582 | 82 | Happy Blockpiece |
-| 583 | 81 | Shea Ladynick Henderson |
-| 584 | 81 | Logan Frost |
-| 585 | 81 | TRUBBLE45 |
-| 586 | 80 | Lauren Farkas |
-| 587 | 80 | Kamilya Rembert |
-| 588 | 80 | Tracey Johnson |
-| 589 | 80 | Desi Guerra |
+| 583 | 82 | Desi Guerra |
+| 584 | 81 | Shea Ladynick Henderson |
+| 585 | 81 | Logan Frost |
+| 586 | 81 | TRUBBLE45 |
+| 587 | 80 | Lauren Farkas |
+| 588 | 80 | Kamilya Rembert |
+| 589 | 80 | Tracey Johnson |
 | 590 | 80 | Charles Johnson |
 | 591 | 80 | Lisa420 |
 | 592 | 80 | Big Bovice |
