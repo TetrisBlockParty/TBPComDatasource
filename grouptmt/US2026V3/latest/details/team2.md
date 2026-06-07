@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:51:17 UTC
+# Standings for team2 as of 2026-06-07 09:52:18 UTC
 
 **Total Participants:** 1693
 
@@ -63,9 +63,9 @@
 | 55 | 1501 | Monica Galli |
 | 56 | 1500 | Smashanator |
 | 57 | 1309 | Jaime P Lamb |
-| 58 | 1250 | Marie Edmonds |
-| 59 | 1249 | Poppy |
-| 60 | 1215 | Brent Bittenbender |
+| 58 | 1275 | Brent Bittenbender |
+| 59 | 1250 | Marie Edmonds |
+| 60 | 1249 | Poppy |
 | 61 | 1192 | Angie Mccain |
 | 62 | 1088 | Nerdy Climber |
 | 63 | 1070 | Michelle Maulsby |
@@ -139,20 +139,20 @@
 | 131 | 477 | Amy Gale |
 | 132 | 476 | snowwol |
 | 133 | 466 | Judy Long |
-| 134 | 461 | Bubbly Strikerpiece |
+| 134 | 462 | Bubbly Strikerpiece |
 | 135 | 458 | Kaycie Shaffer |
 | 136 | 453 | Kimberly Cowan |
 | 137 | 448 | Pooh |
-| 138 | 438 | Michelle Rich Burkhart |
+| 138 | 440 | MarioKarasovic |
 | 139 | 438 | Zappy Pattern |
-| 140 | 437 | MarioKarasovic |
+| 140 | 438 | Michelle Rich Burkhart |
 | 141 | 436 | Gill |
 | 142 | 428 | Steven Craig |
-| 143 | 420 | Zarah Kettler |
-| 144 | 419 | Cool Climber |
-| 145 | 417 | Jenny Graham |
-| 146 | 416 | Suki Jacobs |
-| 147 | 415 | Jgato |
+| 143 | 423 | Jgato |
+| 144 | 420 | Zarah Kettler |
+| 145 | 419 | Cool Climber |
+| 146 | 417 | Jenny Graham |
+| 147 | 416 | Suki Jacobs |
 | 148 | 408 | Ashley Green |
 | 149 | 393 | DomDomsNana |
 | 150 | 390 | La chulis |
@@ -160,15 +160,15 @@
 | 152 | 386 | Frilly Dashfit |
 | 153 | 381 | Joslyn Johnson |
 | 154 | 380 | Zany Blockclear |
-| 155 | 375 | MaddieCherie |
-| 156 | 375 | Milad Arzani |
+| 155 | 375 | Milad Arzani |
+| 156 | 375 | MaddieCherie |
 | 157 | 367 | Nutty Curver |
 | 158 | 365 | Lisa Underwood Desmond |
 | 159 | 365 | Branden Frankowski |
 | 160 | 360 | Jacob Carpenter |
 | 161 | 359 | Sarah Mccolgan |
-| 162 | 357 | Erin Thomas |
-| 163 | 357 | Crystal Allen |
+| 162 | 357 | Crystal Allen |
+| 163 | 357 | Erin Thomas |
 | 164 | 356 | Joni Michelle Morgan |
 | 165 | 354 | Zesty Strikerbuilder |
 | 166 | 348 | Eric Drane |
