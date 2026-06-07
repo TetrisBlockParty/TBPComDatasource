@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 18:34:42 UTC
+# Standings for team4 as of 2026-06-07 18:35:19 UTC
 
 **Total Participants:** 1570
 
@@ -22,7 +22,7 @@
 | 14 | 4633 | Bubbly Twistpiece |
 | 15 | 4363 | t |
 | 16 | 4334 | Nia Mayfield |
-| 17 | 4316 | Squirrel Donkey |
+| 17 | 4326 | Squirrel Donkey |
 | 18 | 4282 | Chris Hills |
 | 19 | 4139 | Bryony Nicholson |
 | 20 | 3954 | Jackie Lucas |
@@ -566,32 +566,32 @@
 | 558 | 95 | Jailen Harper |
 | 559 | 95 | Lovetetris |
 | 560 | 95 | Surviving Be Back Soon |
-| 561 | 95 | Tiffany Roberts |
+| 561 | 95 | Courtney Niichole |
 | 562 | 95 | Kari Smith |
 | 563 | 95 | Kristen Nicole Depp-Stewart |
 | 564 | 95 | EpicWizard |
-| 565 | 95 | Wacky Brick |
-| 566 | 94 | Courtney Niichole |
-| 567 | 94 | Cranky Twistpiece |
-| 568 | 94 | Mc3003 |
-| 569 | 94 | Vonni McLean |
+| 565 | 95 | Tiffany Roberts |
+| 566 | 95 | Wacky Brick |
+| 567 | 94 | Erika Rubio |
+| 568 | 94 | Vonni McLean |
+| 569 | 94 | Reina Pagan |
 | 570 | 94 | Linda |
-| 571 | 94 | Reina Pagan |
-| 572 | 94 | Erika Rubio |
-| 573 | 93 | Alicia Cook |
-| 574 | 93 | Marina |
-| 575 | 93 | Dandy Cascade |
-| 576 | 93 | Boldy Striker |
-| 577 | 93 | Joha Mldo Castillo |
-| 578 | 93 | Domo Dpn |
-| 579 | 92 | Giggly Column |
-| 580 | 92 | Autumn Maher |
+| 571 | 94 | Mc3003 |
+| 572 | 94 | Cranky Twistpiece |
+| 573 | 93 | Joha Mldo Castillo |
+| 574 | 93 | Alicia Cook |
+| 575 | 93 | Boldy Striker |
+| 576 | 93 | Domo Dpn |
+| 577 | 93 | Dandy Cascade |
+| 578 | 93 | Marina |
+| 579 | 92 | Autumn Maher |
+| 580 | 92 | Giggly Column |
 | 581 | 91 | Miss Beast |
 | 582 | 91 | Slinky Column |
-| 583 | 90 | Codey Haffner |
+| 583 | 90 | Lolita Nettles |
 | 584 | 90 | Candiecane324 |
-| 585 | 90 | Danny Keich III |
-| 586 | 90 | Lolita Nettles |
+| 585 | 90 | Codey Haffner |
+| 586 | 90 | Danny Keich III |
 | 587 | 90 | Breezy Brickfit |
 | 588 | 90 | Stephanie Meinhart |
 | 589 | 90 | Dexter Hammond Jr |
