@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 20:02:18 UTC
+# Standings for team1 as of 2026-06-07 20:02:43 UTC
 
 **Total Participants:** 1561
 
@@ -539,19 +539,19 @@
 | 531 | 102 | Sarah Steckbauer |
 | 532 | 101 | Tito Divyn |
 | 533 | 101 | Elaine Pauley |
-| 534 | 101 | Raymond Boosie Freeman |
-| 535 | 101 | Shea Ladynick Henderson |
-| 536 | 101 | Wacky Wipepiece |
+| 534 | 101 | Nerdy Climber |
+| 535 | 101 | Raymond Boosie Freeman |
+| 536 | 101 | Shea Ladynick Henderson |
 | 537 | 101 | star |
-| 538 | 101 | Mommy Frank |
-| 539 | 100 | Tessa Gaskin |
-| 540 | 100 | Cornelius Neal |
-| 541 | 100 | Bubbly Slammer |
-| 542 | 100 | Stephen Glaze |
-| 543 | 100 | Lester Malone |
-| 544 | 100 | Octavia Bsb Johnson |
-| 545 | 100 | Erica Charlise |
-| 546 | 100 | Nerdy Climber |
+| 538 | 101 | Wacky Wipepiece |
+| 539 | 101 | Mommy Frank |
+| 540 | 100 | Tessa Gaskin |
+| 541 | 100 | Cornelius Neal |
+| 542 | 100 | Bubbly Slammer |
+| 543 | 100 | Stephen Glaze |
+| 544 | 100 | Lester Malone |
+| 545 | 100 | Octavia Bsb Johnson |
+| 546 | 100 | Erica Charlise |
 | 547 | 100 | Oldheads |
 | 548 | 100 | Kennedi Brazziel |
 | 549 | 100 | Rebecca Jackson |
