@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-07 12:58:39 UTC
+# Standings for team2 as of 2026-06-07 12:59:17 UTC
 
-**Total Participants:** 1734
+**Total Participants:** 1735
 
 ## Participant Scores
 
@@ -23,7 +23,7 @@
 | 15 | 4668 | Lola C Davis |
 | 16 | 4355 | Alexia Reagan |
 | 17 | 4309 | Kathleen M Cox |
-| 18 | 4080 | Renee Weedling |
+| 18 | 4096 | Renee Weedling |
 | 19 | 3997 | Ber |
 | 20 | 3984 | Amber |
 | 21 | 3981 | Bobbi |
@@ -35,7 +35,7 @@
 | 27 | 3100 | Danni Campa |
 | 28 | 3090 | Spunky Clicker |
 | 29 | 3076 | Ashley Miller |
-| 30 | 2796 | Quirky Catcher |
+| 30 | 2801 | Quirky Catcher |
 | 31 | 2790 | Logan Basham |
 | 32 | 2763 | Angelica Jelli Gillaspy |
 | 33 | 2715 | Angie BBlock |
@@ -87,7 +87,7 @@
 | 79 | 899 | Marie Luciano |
 | 80 | 882 | Lisa Breiding |
 | 81 | 864 | Helen Thomas |
-| 82 | 862 | Renee Freeman Jacobson |
+| 82 | 863 | Renee Freeman Jacobson |
 | 83 | 861 | Marquita Toliver |
 | 84 | 856 | Marquetta Johnson |
 | 85 | 832 | Amber Triguero |
@@ -1702,44 +1702,45 @@
 | 1694 | 7 | Chirpy Shiftspin |
 | 1695 | 7 | Snippy Blockfall |
 | 1696 | 7 | Nikki Layman |
-| 1697 | 7 | bluesky |
-| 1698 | 7 | Carl Gadberry |
-| 1699 | 7 | Zippy Blockmatch |
-| 1700 | 6 | Bowling girl |
-| 1701 | 6 | Cheeky Dashpiece |
-| 1702 | 6 | Michelle Brown |
-| 1703 | 6 | Celeste Samuels |
-| 1704 | 6 | Amanda Knox |
-| 1705 | 6 | Jessie |
-| 1706 | 6 | Cara Douglas |
-| 1707 | 6 | Giggy Dropzone |
-| 1708 | 6 | MD |
-| 1709 | 6 | Anna Hale |
-| 1710 | 6 | Brandi Lynn Tumey |
-| 1711 | 6 | Jenea Colvin |
-| 1712 | 6 | Ali |
-| 1713 | 5 | Nolife |
-| 1714 | 5 | Michelle |
-| 1715 | 5 | Jason M Barnes |
-| 1716 | 5 | Teri |
-| 1717 | 5 | Dapper Clearpiece |
-| 1718 | 5 | Mala Phonchanthasone |
-| 1719 | 5 | Groovy Buildout |
-| 1720 | 5 | Agnes Gable |
-| 1721 | 5 | Quirky Liney |
-| 1722 | 5 | Chris Weddel |
-| 1723 | 5 | Brittany Weatherspoon |
-| 1724 | 5 | featherz |
-| 1725 | 5 | Jennifer Roper Stanley |
-| 1726 | 5 | Nikki |
-| 1727 | 5 | Jon Torres |
-| 1728 | 5 | Chilly Twistbuilder |
-| 1729 | 5 | Snappy Zonepiece |
-| 1730 | 5 | Chirpy Towerer |
-| 1731 | 5 | Jennifer Mauler Schmidt |
-| 1732 | 5 | Julie Ann Jacobs |
-| 1733 | 5 | Mercedes Lowery |
-| 1734 | 5 | Crafty Dashgrid |
+| 1697 | 7 | Carl Gadberry |
+| 1698 | 7 | Tish |
+| 1699 | 7 | bluesky |
+| 1700 | 7 | Zippy Blockmatch |
+| 1701 | 6 | Bowling girl |
+| 1702 | 6 | Cheeky Dashpiece |
+| 1703 | 6 | Michelle Brown |
+| 1704 | 6 | Celeste Samuels |
+| 1705 | 6 | Amanda Knox |
+| 1706 | 6 | Jessie |
+| 1707 | 6 | Cara Douglas |
+| 1708 | 6 | Giggy Dropzone |
+| 1709 | 6 | MD |
+| 1710 | 6 | Anna Hale |
+| 1711 | 6 | Brandi Lynn Tumey |
+| 1712 | 6 | Jenea Colvin |
+| 1713 | 6 | Ali |
+| 1714 | 5 | Nolife |
+| 1715 | 5 | Michelle |
+| 1716 | 5 | Jason M Barnes |
+| 1717 | 5 | Teri |
+| 1718 | 5 | Dapper Clearpiece |
+| 1719 | 5 | Mala Phonchanthasone |
+| 1720 | 5 | Groovy Buildout |
+| 1721 | 5 | Agnes Gable |
+| 1722 | 5 | Quirky Liney |
+| 1723 | 5 | Chris Weddel |
+| 1724 | 5 | Brittany Weatherspoon |
+| 1725 | 5 | featherz |
+| 1726 | 5 | Jennifer Roper Stanley |
+| 1727 | 5 | Nikki |
+| 1728 | 5 | Jon Torres |
+| 1729 | 5 | Chilly Twistbuilder |
+| 1730 | 5 | Snappy Zonepiece |
+| 1731 | 5 | Chirpy Towerer |
+| 1732 | 5 | Jennifer Mauler Schmidt |
+| 1733 | 5 | Julie Ann Jacobs |
+| 1734 | 5 | Mercedes Lowery |
+| 1735 | 5 | Crafty Dashgrid |
 
 ---
 *Standings created by tournaments datasource generation tool*
