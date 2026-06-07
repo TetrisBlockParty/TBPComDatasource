@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 01:22:41 UTC
+# Standings for team1 as of 2026-06-07 01:23:18 UTC
 
 **Total Participants:** 1258
 
@@ -1247,7 +1247,7 @@
 | 1239 | 6 | squints |
 | 1240 | 5 | Stephanie Zuniga Tullock |
 | 1241 | 5 | Annette DeLoatch Thompson |
-| 1242 | 5 | Meshia |
+| 1242 | 5 | Rachael R Gull |
 | 1243 | 5 | Zesty Clearer |
 | 1244 | 5 | Angelique Thomas |
 | 1245 | 5 | Chill Linkroll |
@@ -1263,7 +1263,7 @@
 | 1255 | 5 | Andy Barnett |
 | 1256 | 5 | Alonzo Kirkland |
 | 1257 | 5 | Happy |
-| 1258 | 5 | Rachael R Gull |
+| 1258 | 5 | Meshia |
 
 ---
 *Standings created by tournaments datasource generation tool*
