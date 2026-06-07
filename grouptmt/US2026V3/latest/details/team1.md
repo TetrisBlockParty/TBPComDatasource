@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 13:40:39 UTC
+# Standings for team1 as of 2026-06-07 13:41:19 UTC
 
 **Total Participants:** 1469
 
@@ -17,7 +17,7 @@
 | 9 | 6949 | Dyane Leah Ware |
 | 10 | 6802 | Cozy Edge |
 | 11 | 6754 | Death by SnuSnu |
-| 12 | 5928 | Debbie Carswell |
+| 12 | 5978 | Debbie Carswell |
 | 13 | 5512 | Jocelyn Pope-Sewell |
 | 14 | 5511 | Timothy Robert |
 | 15 | 5282 | Plucky Swipe |
@@ -181,10 +181,10 @@
 | 173 | 296 | Tamara N Lee |
 | 174 | 296 | Rolanda Williams |
 | 175 | 295 | Lesley Brunkus Cianfaglione |
-| 176 | 293 | Calvin Green |
-| 177 | 293 | Tonya Lee Sanders |
-| 178 | 291 | Brian Taylor |
-| 179 | 291 | NastyFriend |
+| 176 | 294 | NastyFriend |
+| 177 | 293 | Calvin Green |
+| 178 | 293 | Tonya Lee Sanders |
+| 179 | 291 | Brian Taylor |
 | 180 | 290 | Kaleisha Smith |
 | 181 | 290 | Eugina Slater |
 | 182 | 290 | Frisky Fallmatch |
@@ -410,21 +410,21 @@
 | 402 | 123 | Giggy Clusterer |
 | 403 | 123 | Cauiasia DeJ'ae |
 | 404 | 122 | Yashica Smith |
-| 405 | 122 | Xana Zania Bopp |
-| 406 | 122 | Donna Payne |
+| 405 | 122 | Donna Payne |
+| 406 | 122 | Xana Zania Bopp |
 | 407 | 121 | Tee Spinks |
 | 408 | 121 | Tiana Monique |
-| 409 | 120 | Daddy |
-| 410 | 120 | Giggy Edgefit |
-| 411 | 120 | Tanya Clayton |
-| 412 | 120 | Teri Marie Clayton |
+| 409 | 120 | Teri Marie Clayton |
+| 410 | 120 | Daddy |
+| 411 | 120 | Giggy Edgefit |
+| 412 | 120 | Tanya Clayton |
 | 413 | 119 | Tamara Johnson-Carter |
 | 414 | 119 | Lexx Robins |
-| 415 | 118 | Hasty Pivoty |
-| 416 | 118 | Amanda Woodruff |
-| 417 | 117 | MonaSparks |
+| 415 | 118 | Amanda Woodruff |
+| 416 | 118 | Li-Li Ratliff |
+| 417 | 118 | Hasty Pivoty |
 | 418 | 117 | Dede Tate |
-| 419 | 116 | Li-Li Ratliff |
+| 419 | 117 | MonaSparks |
 | 420 | 116 | Douglas Price |
 | 421 | 116 | Yadira Salgado |
 | 422 | 115 | BabyCakes |
@@ -1017,79 +1017,79 @@
 | 1009 | 34 | Bouncy Brickroll |
 | 1010 | 34 | Jeremy Pope |
 | 1011 | 34 | Donnie Withthebody |
-| 1012 | 34 | Alyssa H |
-| 1013 | 34 | Temeshia Brooks Washington |
+| 1012 | 34 | meep |
+| 1013 | 34 | Alyssa H |
 | 1014 | 34 | Zayy Wavyy |
-| 1015 | 34 | XYZ |
-| 1016 | 33 | Shanns |
-| 1017 | 33 | Clever Blocker |
-| 1018 | 33 | Flash97 |
+| 1015 | 34 | Temeshia Brooks Washington |
+| 1016 | 34 | XYZ |
+| 1017 | 33 | Shanns |
+| 1018 | 33 | Clever Blocker |
 | 1019 | 33 | Nikiya |
-| 1020 | 33 | Tweet |
-| 1021 | 33 | Brianna Floyd |
-| 1022 | 33 | Koz176 |
-| 1023 | 33 | Stacy Nicole |
-| 1024 | 33 | Krose Byers |
-| 1025 | 33 | Cori Cleland |
-| 1026 | 33 | Melanie Houghton-McCann |
-| 1027 | 32 | Tomme Poliwka |
+| 1020 | 33 | Flash97 |
+| 1021 | 33 | Tweet |
+| 1022 | 33 | Brianna Floyd |
+| 1023 | 33 | Koz176 |
+| 1024 | 33 | Stacy Nicole |
+| 1025 | 33 | Krose Byers |
+| 1026 | 33 | Cori Cleland |
+| 1027 | 33 | Melanie Houghton-McCann |
 | 1028 | 32 | Dandy Blockfall |
-| 1029 | 32 | Stephanie Vinson |
-| 1030 | 32 | Nikita Jones |
-| 1031 | 32 | Melvin Simpson |
-| 1032 | 32 | TBabii24 |
-| 1033 | 32 | squints |
-| 1034 | 32 | Alisia Johns |
-| 1035 | 32 | Stephanie Scott |
-| 1036 | 32 | Erica Campbell-Stillings |
-| 1037 | 32 | LaQuita White |
-| 1038 | 32 | Linda Lasha Messenger |
-| 1039 | 32 | Tessa Felice Hill |
-| 1040 | 32 | Seirra Robinson |
-| 1041 | 31 | Alize |
+| 1029 | 32 | Tomme Poliwka |
+| 1030 | 32 | Stephanie Vinson |
+| 1031 | 32 | Nikita Jones |
+| 1032 | 32 | Melvin Simpson |
+| 1033 | 32 | TBabii24 |
+| 1034 | 32 | squints |
+| 1035 | 32 | Seirra Robinson |
+| 1036 | 32 | LaQuita White |
+| 1037 | 32 | Linda Lasha Messenger |
+| 1038 | 32 | Tessa Felice Hill |
+| 1039 | 32 | Erica Campbell-Stillings |
+| 1040 | 32 | Stephanie Scott |
+| 1041 | 32 | Alisia Johns |
 | 1042 | 31 | kingbrook |
-| 1043 | 31 | Edward Hickmon |
-| 1044 | 31 | Krista McNair |
+| 1043 | 31 | Krista McNair |
+| 1044 | 31 | Alize |
 | 1045 | 31 | Plucky Clearpiece |
 | 1046 | 31 | Samona Mcculler |
-| 1047 | 30 | meep |
-| 1048 | 30 | Tanisha Robinson |
-| 1049 | 30 | Cheryl Parraway |
-| 1050 | 30 | Christina Wesley |
+| 1047 | 31 | Edward Hickmon |
+| 1048 | 30 | Cheryl Parraway |
+| 1049 | 30 | DeAngelo Sorrells |
+| 1050 | 30 | Snappy Strikerpiece |
 | 1051 | 30 | Jessica Corey |
-| 1052 | 30 | Witty Blockpiece |
-| 1053 | 30 | midnightxtoker |
-| 1054 | 30 | Jessica Kirby |
-| 1055 | 30 | Ayeisha W |
-| 1056 | 30 | James Bryant II |
-| 1057 | 30 | DeAngelo Sorrells |
+| 1052 | 30 | Tanisha Robinson |
+| 1053 | 30 | Witty Blockpiece |
+| 1054 | 30 | midnightxtoker |
+| 1055 | 30 | Jessica Kirby |
+| 1056 | 30 | Ayeisha W |
+| 1057 | 30 | James Bryant II |
 | 1058 | 30 | TiffanyG |
 | 1059 | 30 | tk |
-| 1060 | 30 | Yolanda Sadler |
-| 1061 | 30 | Bouncy Glide |
-| 1062 | 30 | Snappy Strikerpiece |
-| 1063 | 29 | Everett Semmions |
-| 1064 | 29 | Maranda Broadway |
-| 1065 | 29 | Jeffrey Barrows |
-| 1066 | 29 | Panda Vibes |
-| 1067 | 29 | Meme23 |
-| 1068 | 29 | Elizabeth Ragland |
-| 1069 | 29 | Christian Whittaker |
-| 1070 | 29 | Shemeka Bates |
-| 1071 | 29 | Damien Fonseca |
-| 1072 | 29 | Epic Wipepiece |
-| 1073 | 29 | Lazy Matchgrid |
-| 1074 | 29 | Frilly Riserbuilder |
-| 1075 | 29 | Toohartless Mech |
-| 1076 | 29 | Chris Bell |
-| 1077 | 28 | Stasha Chaires |
-| 1078 | 28 | Crystal Winters Mckay |
-| 1079 | 28 | Fred Caston |
+| 1060 | 30 | Christina Wesley |
+| 1061 | 30 | Yolanda Sadler |
+| 1062 | 30 | Bouncy Glide |
+| 1063 | 29 | Meme23 |
+| 1064 | 29 | Shemeka Bates |
+| 1065 | 29 | Damien Fonseca |
+| 1066 | 29 | Lazy Matchgrid |
+| 1067 | 29 | Chris Bell |
+| 1068 | 29 | Toohartless Mech |
+| 1069 | 29 | Jeffrey Barrows |
+| 1070 | 29 | Panda Vibes |
+| 1071 | 29 | Frilly Riserbuilder |
+| 1072 | 29 | Everett Semmions |
+| 1073 | 29 | Elizabeth Ragland |
+| 1074 | 29 | Christian Whittaker |
+| 1075 | 29 | Epic Wipepiece |
+| 1076 | 29 | Maranda Broadway |
+| 1077 | 28 | Papi |
+| 1078 | 28 | Fred Caston |
+| 1079 | 28 | meatballs |
 | 1080 | 28 | Davina Valentino |
-| 1081 | 28 | Papi |
-| 1082 | 28 | Dannie Brown |
-| 1083 | 28 | sunstar |
-| 1084 | 28 | meatballs |
+| 1081 | 28 | sunstar |
+| 1082 | 28 | Stasha Chaires |
+| 1083 | 28 | Crystal Winters Mckay |
+| 1084 | 28 | Dannie Brown |
 | 1085 | 28 | Anthony T. Fults |
 | 1086 | 28 | David Rankin |
 | 1087 | 28 | Diamond Nicole |
