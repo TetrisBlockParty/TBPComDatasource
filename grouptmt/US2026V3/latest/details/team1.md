@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 15:20:18 UTC
+# Standings for team1 as of 2026-06-07 15:20:42 UTC
 
 **Total Participants:** 1489
 
@@ -136,18 +136,18 @@
 | 128 | 431 | Lashawn Wallace |
 | 129 | 421 | Slinky Puzzler |
 | 130 | 420 | Jessica Carter |
-| 131 | 410 | ELM |
-| 132 | 409 | Andre Sanon |
-| 133 | 409 | Lesley Brunkus Cianfaglione |
-| 134 | 408 | Jamal Itzjusmall Chambers |
-| 135 | 404 | Hyper Slamdrop |
+| 131 | 410 | Ceilo Marie |
+| 132 | 410 | ELM |
+| 133 | 409 | Andre Sanon |
+| 134 | 409 | Lesley Brunkus Cianfaglione |
+| 135 | 408 | Jamal Itzjusmall Chambers |
 | 136 | 404 | Jason Mungin |
-| 137 | 401 | Shell Lewis |
-| 138 | 393 | SPNLover24 |
-| 139 | 389 | GrkGdess |
-| 140 | 384 | Christana Imjustbutton Stone |
-| 141 | 380 | Dulo |
-| 142 | 377 | Ceilo Marie |
+| 137 | 404 | Hyper Slamdrop |
+| 138 | 401 | Shell Lewis |
+| 139 | 393 | SPNLover24 |
+| 140 | 389 | GrkGdess |
+| 141 | 384 | Christana Imjustbutton Stone |
+| 142 | 380 | Dulo |
 | 143 | 377 | AF Cruz |
 | 144 | 375 | Jenna Renee |
 | 145 | 370 | Allison Baxter |
@@ -443,9 +443,9 @@
 | 435 | 117 | Joana Thompson |
 | 436 | 116 | Jess |
 | 437 | 116 | Yadira Salgado |
-| 438 | 115 | BabyCakes |
-| 439 | 115 | wmedina67 |
-| 440 | 114 | Twisty Brickfit |
+| 438 | 115 | Twisty Brickfit |
+| 439 | 115 | BabyCakes |
+| 440 | 115 | wmedina67 |
 | 441 | 114 | Jes Marie |
 | 442 | 114 | LAhoneybun82 |
 | 443 | 114 | Cranky Fall |
