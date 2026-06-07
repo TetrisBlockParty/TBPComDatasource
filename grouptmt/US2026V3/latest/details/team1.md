@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 13:22:19 UTC
+# Standings for team1 as of 2026-06-07 13:22:41 UTC
 
 **Total Participants:** 1465
 
@@ -1151,55 +1151,55 @@
 | 1143 | 23 | Nicolej |
 | 1144 | 23 | smash56! |
 | 1145 | 23 | Arturo Hernandez II |
-| 1146 | 23 | Ladybug |
-| 1147 | 23 | Tabitha Dupre-Allen |
-| 1148 | 23 | Vontesha Kidd |
-| 1149 | 23 | Sherry D Singleton |
-| 1150 | 23 | Major314 |
-| 1151 | 22 | Jucee |
-| 1152 | 22 | Sicily Bailey |
-| 1153 | 22 | Jennifer Diamond |
+| 1146 | 23 | Christian Whittaker |
+| 1147 | 23 | Ladybug |
+| 1148 | 23 | Tabitha Dupre-Allen |
+| 1149 | 23 | Vontesha Kidd |
+| 1150 | 23 | Sherry D Singleton |
+| 1151 | 23 | Major314 |
+| 1152 | 22 | Jennifer Diamond |
+| 1153 | 22 | ShayePooh |
 | 1154 | 22 | Jasmine Hariston-Estis |
-| 1155 | 22 | Christian Whittaker |
-| 1156 | 22 | Jazzy Drop |
-| 1157 | 22 | Chipper Clicker |
+| 1155 | 22 | Jucee |
+| 1156 | 22 | Sicily Bailey |
+| 1157 | 22 | Iván Cedeño |
 | 1158 | 22 | Queen Baby 5 |
-| 1159 | 22 | Iván Cedeño |
-| 1160 | 22 | ShayePooh |
-| 1161 | 21 | Cheeky Wipegrid |
-| 1162 | 21 | Tonia Lance |
-| 1163 | 21 | Desiree Ryder |
-| 1164 | 21 | Rachael R Gull |
-| 1165 | 21 | jasi |
-| 1166 | 21 | Madam Suki |
-| 1167 | 21 | Zappy Zoney |
-| 1168 | 21 | Christy |
-| 1169 | 21 | Kikiness |
-| 1170 | 20 | MoneyMac |
+| 1159 | 22 | Jazzy Drop |
+| 1160 | 22 | Chipper Clicker |
+| 1161 | 21 | Rachael R Gull |
+| 1162 | 21 | Kikiness |
+| 1163 | 21 | Madam Suki |
+| 1164 | 21 | jasi |
+| 1165 | 21 | Christy |
+| 1166 | 21 | Tonia Lance |
+| 1167 | 21 | Cheeky Wipegrid |
+| 1168 | 21 | Desiree Ryder |
+| 1169 | 21 | Zappy Zoney |
+| 1170 | 20 | Lynette Manning |
 | 1171 | 20 | Chill Curvebuilder |
-| 1172 | 20 | Jonathan McKenzie |
-| 1173 | 20 | Cynthia Potter |
-| 1174 | 20 | Lynette Manning |
-| 1175 | 20 | Juan Lewis |
-| 1176 | 20 | Slinky Swipe |
-| 1177 | 20 | Charlean Sims |
+| 1172 | 20 | Cynthia Potter |
+| 1173 | 20 | Jonathan McKenzie |
+| 1174 | 20 | Slinky Swipe |
+| 1175 | 20 | Charlean Sims |
+| 1176 | 20 | lizlizliz |
+| 1177 | 20 | Clipzby |
 | 1178 | 20 | Jhaime |
-| 1179 | 20 | lizlizliz |
-| 1180 | 20 | Clipzby |
-| 1181 | 20 | Bryttani GoingPlaces Latimer |
-| 1182 | 20 | Nikki Vaughn |
-| 1183 | 20 | Linzi Cole |
-| 1184 | 20 | DRIFTER |
-| 1185 | 20 | Margretta Henry |
-| 1186 | 20 | Ebie |
-| 1187 | 20 | Lyn Reed |
-| 1188 | 20 | B.L. Perry |
-| 1189 | 20 | Latanya Gayle |
-| 1190 | 20 | Phillip White |
-| 1191 | 20 | Biggestboss Ransom |
-| 1192 | 20 | Tipsy Builderline |
-| 1193 | 20 | Kenneth Hefney |
-| 1194 | 20 | James Dunlap |
+| 1179 | 20 | Juan Lewis |
+| 1180 | 20 | James Dunlap |
+| 1181 | 20 | MoneyMac |
+| 1182 | 20 | Bryttani GoingPlaces Latimer |
+| 1183 | 20 | Nikki Vaughn |
+| 1184 | 20 | Linzi Cole |
+| 1185 | 20 | DRIFTER |
+| 1186 | 20 | Margretta Henry |
+| 1187 | 20 | Ebie |
+| 1188 | 20 | Lyn Reed |
+| 1189 | 20 | B.L. Perry |
+| 1190 | 20 | Latanya Gayle |
+| 1191 | 20 | Phillip White |
+| 1192 | 20 | Biggestboss Ransom |
+| 1193 | 20 | Tipsy Builderline |
+| 1194 | 20 | Kenneth Hefney |
 | 1195 | 20 | Spotlight |
 | 1196 | 20 | Richard Harper |
 | 1197 | 20 | Brenda Brogden |
