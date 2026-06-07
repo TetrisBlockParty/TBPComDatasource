@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 16:38:40 UTC
+# Standings for team1 as of 2026-06-07 16:39:19 UTC
 
 **Total Participants:** 1508
 
@@ -15,8 +15,8 @@
 | 7 | 7602 | Charlie Roehm |
 | 8 | 7362 | Dyane Leah Ware |
 | 9 | 7059 | Tracy Cohen |
-| 10 | 6802 | Cozy Edge |
-| 11 | 6764 | Debbie Carswell |
+| 10 | 6804 | Debbie Carswell |
+| 11 | 6802 | Cozy Edge |
 | 12 | 6754 | Death by SnuSnu |
 | 13 | 5512 | Jocelyn Pope-Sewell |
 | 14 | 5511 | Timothy Robert |
@@ -59,9 +59,9 @@
 | 51 | 1219 | Holly Jolly |
 | 52 | 1120 | Ryan Meilleur |
 | 53 | 1102 | D'Andra Stewart |
-| 54 | 1079 | Angela R Wilson |
-| 55 | 1078 | Danielle DeLozier Plesec |
-| 56 | 1077 | Ceilo Marie |
+| 54 | 1081 | Ceilo Marie |
+| 55 | 1079 | Angela R Wilson |
+| 56 | 1078 | Danielle DeLozier Plesec |
 | 57 | 1067 | Catara Renae Oliver |
 | 58 | 1052 | Shortstak |
 | 59 | 1046 | Spicy Balancer |
@@ -73,7 +73,7 @@
 | 65 | 981 | Court Court |
 | 66 | 943 | Kkbk |
 | 67 | 935 | Whitney Butler |
-| 68 | 916 | Blockhead |
+| 68 | 921 | Blockhead |
 | 69 | 902 | Bre Maugh |
 | 70 | 897 | BYM4L |
 | 71 | 894 | Danielle Barthelme |
