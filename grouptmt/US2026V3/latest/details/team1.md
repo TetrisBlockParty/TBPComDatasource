@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 07:32:19 UTC
+# Standings for team1 as of 2026-06-07 07:32:41 UTC
 
 **Total Participants:** 1414
 
@@ -105,8 +105,8 @@
 | 97 | 548 | Ottison Dianna |
 | 98 | 541 | Andi McGreevy |
 | 99 | 534 | Shontanese Adams |
-| 100 | 527 | MommaCia |
-| 101 | 523 | Moomoo |
+| 100 | 531 | Moomoo |
+| 101 | 527 | MommaCia |
 | 102 | 518 | Quirky Fallgrid |
 | 103 | 511 | Abraham Espaillat |
 | 104 | 511 | Dizzy Dropper |
@@ -380,12 +380,12 @@
 | 372 | 114 | Brittany Fells |
 | 373 | 113 | De'Nell Edwards |
 | 374 | 112 | Breezy Catcher |
-| 375 | 112 | Block King |
-| 376 | 112 | GamerQueenDS |
-| 377 | 112 | Jennah |
-| 378 | 111 | Daring Blockclear |
-| 379 | 111 | Ad Doctor |
-| 380 | 110 | Eric Spencer Whitaker |
+| 375 | 112 | Eric Spencer Whitaker |
+| 376 | 112 | Block King |
+| 377 | 112 | GamerQueenDS |
+| 378 | 112 | Jennah |
+| 379 | 111 | Daring Blockclear |
+| 380 | 111 | Ad Doctor |
 | 381 | 110 | Nisha Sunshine Jenkins |
 | 382 | 110 | Slinky Clearzone |
 | 383 | 110 | Nate Myers |

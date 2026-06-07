@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 07:32:19 UTC
+# Standings for team4 as of 2026-06-07 07:32:41 UTC
 
 **Total Participants:** 1406
 
@@ -29,7 +29,7 @@
 | 21 | 3612 | Tonya Brooks-Johnson |
 | 22 | 3508 | Hasty Builder |
 | 23 | 3150 | Destiny Dyer |
-| 24 | 3100 | Bubbly Twistpiece |
+| 24 | 3103 | Bubbly Twistpiece |
 | 25 | 3095 | Irene Arreguin |
 | 26 | 3069 | Squirrel Donkey |
 | 27 | 2954 | Senor Moppy |
@@ -275,10 +275,10 @@
 | 267 | 158 | Kelly Howland |
 | 268 | 158 | Joseph Hunter |
 | 269 | 157 | Laguya |
-| 270 | 157 | Baysoph |
-| 271 | 155 | Bonnie Powell |
-| 272 | 155 | Shayna Vaigneur-Hall |
-| 273 | 155 | Tipsy Zonebuilder |
+| 270 | 157 | Tipsy Zonebuilder |
+| 271 | 157 | Baysoph |
+| 272 | 155 | Bonnie Powell |
+| 273 | 155 | Shayna Vaigneur-Hall |
 | 274 | 155 | Danny Frausto |
 | 275 | 154 | Lani |
 | 276 | 154 | Karen Davis |
