@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 03:40:18 UTC
+# Standings for team2 as of 2026-06-07 03:40:39 UTC
 
 **Total Participants:** 1575
 
@@ -102,8 +102,8 @@
 | 94 | 592 | Brandon Link |
 | 95 | 591 | Bon Lynn |
 | 96 | 588 | Kellie Sharp Godfrey |
-| 97 | 578 | Krisanne Kesner-Lonsby |
-| 98 | 578 | Dsabrina Maxey |
+| 97 | 581 | Dsabrina Maxey |
+| 98 | 578 | Krisanne Kesner-Lonsby |
 | 99 | 577 | Lindsay Klemp |
 | 100 | 574 | Brandy McCune Reep |
 | 101 | 570 | Nerdy Climber |

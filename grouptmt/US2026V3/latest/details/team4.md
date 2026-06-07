@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 03:40:18 UTC
+# Standings for team4 as of 2026-06-07 03:40:39 UTC
 
 **Total Participants:** 1324
 
@@ -169,10 +169,10 @@
 | 161 | 239 | Shepreneur Sade |
 | 162 | 239 | Megan Vick |
 | 163 | 237 | Anna Gribble |
-| 164 | 235 | Hwanger Land |
-| 165 | 234 | Perky Riserbuilder |
-| 166 | 233 | Christy Beezley-Forbush |
-| 167 | 233 | BusterBear56 |
+| 164 | 236 | BusterBear56 |
+| 165 | 235 | Hwanger Land |
+| 166 | 234 | Perky Riserbuilder |
+| 167 | 233 | Christy Beezley-Forbush |
 | 168 | 233 | Sisi RedVelvet Reneè |
 | 169 | 232 | Scamp Jones |
 | 170 | 231 | Alma López Morales |
@@ -447,57 +447,57 @@
 | 439 | 85 | Darren Miguel |
 | 440 | 85 | Allysonjo Varela |
 | 441 | 84 | Clashy |
-| 442 | 84 | Sharon Tyler |
-| 443 | 84 | Amandacolle |
-| 444 | 84 | Playa |
-| 445 | 83 | Brian Woods |
-| 446 | 83 | Kay |
-| 447 | 83 | Peter Babineaux Jr |
-| 448 | 83 | Lady |
-| 449 | 83 | Brandon Bedenbaugh |
-| 450 | 83 | Peachy Piecefit |
-| 451 | 83 | MrLoner Stoner |
-| 452 | 83 | Ricardo Arias |
+| 442 | 84 | Joseph Anthony Watkins |
+| 443 | 84 | Sharon Tyler |
+| 444 | 84 | Amandacolle |
+| 445 | 84 | Playa |
+| 446 | 83 | Brian Woods |
+| 447 | 83 | Kay |
+| 448 | 83 | Peter Babineaux Jr |
+| 449 | 83 | Lady |
+| 450 | 83 | Brandon Bedenbaugh |
+| 451 | 83 | Peachy Piecefit |
+| 452 | 83 | MrLoner Stoner |
 | 453 | 83 | Sonia Cordero-Martinez |
-| 454 | 82 | Joshua Hunt |
-| 455 | 82 | Cari Underwood |
+| 454 | 83 | Ricardo Arias |
+| 455 | 82 | Joshua Hunt |
 | 456 | 82 | Nerdy Faller |
-| 457 | 82 | Charity Thomas |
-| 458 | 82 | Amanda Snow |
-| 459 | 81 | Nicole Colby McCloskey |
+| 457 | 82 | Cari Underwood |
+| 458 | 82 | Charity Thomas |
+| 459 | 82 | Amanda Snow |
 | 460 | 81 | GingaNinja |
-| 461 | 81 | Swanky Snapgrid |
-| 462 | 81 | Linda Miltenburg |
-| 463 | 81 | Denise Wilson |
+| 461 | 81 | Nicole Colby McCloskey |
+| 462 | 81 | Denise Wilson |
+| 463 | 81 | Linda Miltenburg |
 | 464 | 81 | PsyDMom |
-| 465 | 80 | Will E Ayala |
+| 465 | 81 | Swanky Snapgrid |
 | 466 | 80 | Josh Keith Travierso |
-| 467 | 80 | Alicia |
-| 468 | 80 | EpicWizard |
-| 469 | 80 | Krista Diaz |
-| 470 | 80 | Keke Johnson |
-| 471 | 80 | Lady Dolphin |
-| 472 | 80 | Tre'nya Smith |
-| 473 | 80 | Carla Woodard |
-| 474 | 80 | Happy Filler |
-| 475 | 79 | yourmomz |
-| 476 | 79 | Azahares Alonso |
-| 477 | 79 | Melissa Lowe |
+| 467 | 80 | Will E Ayala |
+| 468 | 80 | Alicia |
+| 469 | 80 | Happy Filler |
+| 470 | 80 | Lady Dolphin |
+| 471 | 80 | Krista Diaz |
+| 472 | 80 | Keke Johnson |
+| 473 | 80 | EpicWizard |
+| 474 | 80 | Tre'nya Smith |
+| 475 | 80 | Carla Woodard |
+| 476 | 79 | yourmomz |
+| 477 | 79 | Azahares Alonso |
 | 478 | 79 | Jacinta Hooker-Brown |
-| 479 | 79 | Audrianna Skaff |
-| 480 | 79 | Gean DeJesus |
-| 481 | 79 | Elena Marí |
-| 482 | 79 | Giggy Snapgrid |
-| 483 | 79 | Lisa Jones |
-| 484 | 79 | Dru Lui |
-| 485 | 79 | Joseph Anthony Watkins |
+| 479 | 79 | Melissa Lowe |
+| 480 | 79 | Elena Marí |
+| 481 | 79 | Gean DeJesus |
+| 482 | 79 | Audrianna Skaff |
+| 483 | 79 | Giggy Snapgrid |
+| 484 | 79 | Lisa Jones |
+| 485 | 79 | Dru Lui |
 | 486 | 79 | JoAnn Summerlot Ratliff |
 | 487 | 79 | Has2brat |
 | 488 | 79 | Lul Babie |
 | 489 | 78 | Dena Lynn Rogers |
 | 490 | 78 | Mint Marquez |
-| 491 | 77 | Bonique Bier |
-| 492 | 77 | Ajohnna Frazee |
+| 491 | 77 | Ajohnna Frazee |
+| 492 | 77 | Bonique Bier |
 | 493 | 76 | Perry Ransom |
 | 494 | 76 | Clever Patterner |
 | 495 | 76 | Frisky Balance |
@@ -542,46 +542,46 @@
 | 534 | 69 | Jj Johnson |
 | 535 | 69 | Beth Belanger |
 | 536 | 69 | Gigi5 |
-| 537 | 68 | Paula Renee McCracken |
-| 538 | 68 | Suzanne North |
-| 539 | 68 | Poptart |
-| 540 | 68 | Ricky Colvin |
-| 541 | 68 | Keys Tome |
-| 542 | 67 | Glittara |
-| 543 | 67 | Holly Bramel |
-| 544 | 67 | Lisa Pie |
-| 545 | 67 | Snappy Stack |
-| 546 | 67 | Mc3003 |
-| 547 | 67 | Peterson Cottontail |
-| 548 | 67 | Noa Lee |
-| 549 | 67 | Playful Raccoon |
-| 550 | 67 | Ashley DuVall |
-| 551 | 66 | Joyce Hampton |
-| 552 | 66 | Mann Manson |
-| 553 | 66 | Lolita Nettles |
-| 554 | 66 | james |
-| 555 | 66 | Dapper Tiltpiece |
-| 556 | 65 | Gabby Simones |
-| 557 | 65 | Tony Clark |
-| 558 | 65 | Zappy Tilemaker |
-| 559 | 65 | Dinah Mccall |
-| 560 | 65 | Rocky |
-| 561 | 65 | Silly Fallzone |
-| 562 | 65 | Cranky Twistpiece |
-| 563 | 65 | Deborah Ayliffe |
-| 564 | 65 | Lovetetris |
-| 565 | 65 | Youngkueen |
-| 566 | 65 | Jailen Harper |
-| 567 | 65 | Knijur Callins |
-| 568 | 64 | Mmm |
-| 569 | 64 | Gary Smallwood |
-| 570 | 64 | Deb 07 |
+| 537 | 69 | Gary Smallwood |
+| 538 | 68 | Paula Renee McCracken |
+| 539 | 68 | Suzanne North |
+| 540 | 68 | Poptart |
+| 541 | 68 | Ricky Colvin |
+| 542 | 68 | Keys Tome |
+| 543 | 67 | Glittara |
+| 544 | 67 | Holly Bramel |
+| 545 | 67 | Lisa Pie |
+| 546 | 67 | Snappy Stack |
+| 547 | 67 | Mc3003 |
+| 548 | 67 | Ashley DuVall |
+| 549 | 67 | Noa Lee |
+| 550 | 67 | Playful Raccoon |
+| 551 | 67 | Peterson Cottontail |
+| 552 | 66 | Dapper Tiltpiece |
+| 553 | 66 | Mann Manson |
+| 554 | 66 | Lolita Nettles |
+| 555 | 66 | Joyce Hampton |
+| 556 | 66 | james |
+| 557 | 65 | Cranky Twistpiece |
+| 558 | 65 | Dinah Mccall |
+| 559 | 65 | Zappy Tilemaker |
+| 560 | 65 | Tony Clark |
+| 561 | 65 | Lovetetris |
+| 562 | 65 | Rocky |
+| 563 | 65 | Gabby Simones |
+| 564 | 65 | Youngkueen |
+| 565 | 65 | Jailen Harper |
+| 566 | 65 | Knijur Callins |
+| 567 | 65 | Deborah Ayliffe |
+| 568 | 65 | Silly Fallzone |
+| 569 | 64 | Surviving Be Back Soon |
+| 570 | 64 | Mmm |
 | 571 | 64 | Daring Brickbuilder |
-| 572 | 64 | David Lay |
-| 573 | 64 | Surviving Be Back Soon |
+| 572 | 64 | Deb 07 |
+| 573 | 64 | David Lay |
 | 574 | 64 | Marisela Alvarado |
-| 575 | 63 | MattJennifer Marie Ericson |
-| 576 | 63 | Brenda Gustamantes |
+| 575 | 63 | Brenda Gustamantes |
+| 576 | 63 | MattJennifer Marie Ericson |
 | 577 | 63 | Cassie N Danica Flaherty |
 | 578 | 63 | Butterpat |
 | 579 | 63 | Marina |
