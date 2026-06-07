@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 11:26:18 UTC
+# Standings for team4 as of 2026-06-07 11:26:42 UTC
 
 **Total Participants:** 1449
 
@@ -30,7 +30,7 @@
 | 22 | 3643 | Jackie Lucas |
 | 23 | 3612 | Tonya Brooks-Johnson |
 | 24 | 3508 | Hasty Builder |
-| 25 | 3364 | Fruitpunch |
+| 25 | 3421 | Fruitpunch |
 | 26 | 3150 | Destiny Dyer |
 | 27 | 3095 | Irene Arreguin |
 | 28 | 3069 | Squirrel Donkey |
@@ -117,7 +117,7 @@
 | 109 | 476 | Jason Garnatz |
 | 110 | 474 | Melissa WC |
 | 111 | 473 | vag1974 |
-| 112 | 464 | Gigglycat |
+| 112 | 469 | Gigglycat |
 | 113 | 461 | Kayla Fuentes |
 | 114 | 461 | Cranky Towerbuilder |
 | 115 | 457 | Lisa Garcia |
@@ -195,21 +195,21 @@
 | 187 | 259 | Jessica Peyton |
 | 188 | 253 | Shepreneur Sade |
 | 189 | 253 | Tammy June |
-| 190 | 247 | Joseph Anthony Watkins |
-| 191 | 246 | Lucy Honer |
-| 192 | 242 | Danny Ortiz |
-| 193 | 241 | Alma López Morales |
-| 194 | 241 | Tawna Curry |
-| 195 | 241 | Lush Fitblock |
-| 196 | 237 | Anna Gribble |
-| 197 | 236 | BusterBear56 |
-| 198 | 236 | Becky McCool |
-| 199 | 235 | Piece of Cake |
+| 190 | 249 | Piece of Cake |
+| 191 | 247 | Joseph Anthony Watkins |
+| 192 | 246 | Lucy Honer |
+| 193 | 242 | Danny Ortiz |
+| 194 | 241 | Alma López Morales |
+| 195 | 241 | Tawna Curry |
+| 196 | 241 | Lush Fitblock |
+| 197 | 237 | Anna Gribble |
+| 198 | 236 | BusterBear56 |
+| 199 | 236 | Becky McCool |
 | 200 | 235 | Tina Shalay Hayes |
 | 201 | 233 | Christy Beezley-Forbush |
 | 202 | 231 | Patrick Alley |
-| 203 | 230 | gabs |
-| 204 | 230 | Magz |
+| 203 | 230 | Magz |
+| 204 | 230 | gabs |
 | 205 | 226 | Cheery Risegrid |
 | 206 | 226 | Sassy Rollpiece |
 | 207 | 226 | Samantha Worley |
@@ -351,10 +351,10 @@
 | 343 | 130 | Rita Ann |
 | 344 | 130 | Bhakti Sawarkar |
 | 345 | 130 | Snazzy Corner |
-| 346 | 129 | Shauna Davis |
-| 347 | 129 | Dizzy Slammer |
-| 348 | 129 | Simone |
-| 349 | 129 | Has2brat |
+| 346 | 129 | Dizzy Slammer |
+| 347 | 129 | Simone |
+| 348 | 129 | Has2brat |
+| 349 | 129 | Shauna Davis |
 | 350 | 128 | Lana Tran |
 | 351 | 128 | Juvon SupaShawdii Brooks |
 | 352 | 128 | Sherry Mooney |
@@ -367,30 +367,30 @@
 | 359 | 124 | Bammer |
 | 360 | 124 | Tasha Suzanne Prisbrey |
 | 361 | 124 | Shanna Fragen |
-| 362 | 122 | Ginny |
-| 363 | 121 | Jennifer Fisher Franklin |
-| 364 | 121 | Jeff Margolis |
-| 365 | 121 | TJ |
-| 366 | 121 | Jazzy Gridder |
-| 367 | 120 | Goofy Linkmatch |
-| 368 | 120 | Ada Rodriguez Spradley |
-| 369 | 120 | Natalie Dillard |
-| 370 | 120 | Saucy Wipepiece |
-| 371 | 120 | Holly Wessel |
-| 372 | 120 | Lul Babie |
-| 373 | 120 | Shiny Brick |
-| 374 | 120 | Carla Woodard |
+| 362 | 123 | Dena Lynn Rogers |
+| 363 | 122 | Ginny |
+| 364 | 121 | Jennifer Fisher Franklin |
+| 365 | 121 | Jeff Margolis |
+| 366 | 121 | TJ |
+| 367 | 121 | Jazzy Gridder |
+| 368 | 120 | Goofy Linkmatch |
+| 369 | 120 | Ada Rodriguez Spradley |
+| 370 | 120 | Natalie Dillard |
+| 371 | 120 | Saucy Wipepiece |
+| 372 | 120 | Holly Wessel |
+| 373 | 120 | Lul Babie |
+| 374 | 120 | Shiny Brick |
 | 375 | 120 | Glamorous Gracey |
-| 376 | 120 | Joab Gonzalez |
+| 376 | 120 | Carla Woodard |
 | 377 | 120 | Cool Risepiece |
-| 378 | 119 | Dennis Montoya |
-| 379 | 119 | aga |
+| 378 | 120 | Joab Gonzalez |
+| 379 | 119 | Dennis Montoya |
 | 380 | 119 | Maegon Brazille |
 | 381 | 119 | Rae Saunders |
-| 382 | 119 | Ashley Jenkins |
-| 383 | 118 | farfromlocal |
-| 384 | 118 | Dena Lynn Rogers |
-| 385 | 118 | Goofy Fall |
+| 382 | 119 | aga |
+| 383 | 119 | Ashley Jenkins |
+| 384 | 118 | Goofy Fall |
+| 385 | 118 | farfromlocal |
 | 386 | 117 | Fancy Tilefall |
 | 387 | 117 | Tyson Stroppel |
 | 388 | 116 | Solace Grace |
