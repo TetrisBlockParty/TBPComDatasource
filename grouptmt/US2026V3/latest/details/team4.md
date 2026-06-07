@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 19:48:19 UTC
+# Standings for team4 as of 2026-06-07 19:48:42 UTC
 
 **Total Participants:** 1590
 
@@ -212,14 +212,14 @@
 | 204 | 281 | Waxboss |
 | 205 | 281 | Capone |
 | 206 | 281 | Margie Thomas |
-| 207 | 280 | Baysoph |
-| 208 | 280 | Colin |
+| 207 | 280 | Colin |
+| 208 | 280 | Baysoph |
 | 209 | 279 | Anna Gribble |
 | 210 | 277 | Giggly Tilt |
 | 211 | 277 | Tawna Curry |
 | 212 | 276 | Dubiousdust |
-| 213 | 273 | Shocinda Sherwood |
-| 214 | 273 | Tiggerjake |
+| 213 | 273 | Tiggerjake |
+| 214 | 273 | Shocinda Sherwood |
 | 215 | 272 | Shepreneur Sade |
 | 216 | 271 | BusterBear56 |
 | 217 | 270 | Cheery Risegrid |
@@ -228,25 +228,25 @@
 | 220 | 261 | Renee Sapp |
 | 221 | 260 | Shmeedo |
 | 222 | 259 | Jessica Peyton |
-| 223 | 253 | Tammy June |
-| 224 | 251 | Alicia Cook |
-| 225 | 251 | Tina Thomas |
-| 226 | 251 | Jenn Norcross |
+| 223 | 255 | Aramat |
+| 224 | 253 | Tammy June |
+| 225 | 251 | Jenn Norcross |
+| 226 | 251 | Tina Thomas |
 | 227 | 251 | Spicy Chicken |
-| 228 | 246 | Lucy Honer |
-| 229 | 244 | beauxie |
-| 230 | 243 | Chirpy Link |
-| 231 | 241 | Alma López Morales |
-| 232 | 241 | Queen B |
-| 233 | 240 | blockhead |
-| 234 | 239 | Shauna Davis |
-| 235 | 238 | Tara Delay Hill |
-| 236 | 236 | Becky McCool |
-| 237 | 231 | Patrick Alley |
-| 238 | 230 | gabs |
-| 239 | 228 | Shiny Brick |
-| 240 | 226 | Sassy Rollpiece |
-| 241 | 225 | Aramat |
+| 228 | 251 | Alicia Cook |
+| 229 | 246 | Lucy Honer |
+| 230 | 244 | beauxie |
+| 231 | 243 | Chirpy Link |
+| 232 | 241 | Alma López Morales |
+| 233 | 241 | Queen B |
+| 234 | 240 | blockhead |
+| 235 | 239 | Shauna Davis |
+| 236 | 238 | Tara Delay Hill |
+| 237 | 236 | Becky McCool |
+| 238 | 231 | Patrick Alley |
+| 239 | 230 | gabs |
+| 240 | 228 | Shiny Brick |
+| 241 | 226 | Sassy Rollpiece |
 | 242 | 225 | Erika Seaton |
 | 243 | 225 | No Time |
 | 244 | 223 | Leslie Ann Carter |
@@ -312,10 +312,10 @@
 | 304 | 182 | Swanky Snapgrid |
 | 305 | 182 | Snazzy Corner |
 | 306 | 181 | Ashley Mcdonald |
-| 307 | 180 | Goofy Linkmatch |
-| 308 | 180 | Cindy |
-| 309 | 180 | ariel |
-| 310 | 180 | Mark Fitch Jr. |
+| 307 | 181 | Mark Fitch Jr. |
+| 308 | 180 | Goofy Linkmatch |
+| 309 | 180 | Cindy |
+| 310 | 180 | ariel |
 | 311 | 180 | kellie |
 | 312 | 179 | LaTanya GeminiondaRise Johnson |
 | 313 | 178 | Joseph Hunter |
@@ -448,82 +448,82 @@
 | 440 | 128 | Denise Wilson |
 | 441 | 128 | Lana Tran |
 | 442 | 127 | Cheeky Climber |
-| 443 | 127 | Jen Smith |
-| 444 | 127 | zoes |
+| 443 | 127 | zoes |
+| 444 | 127 | Jen Smith |
 | 445 | 126 | Tre'nya Smith |
 | 446 | 125 | DizzB400 |
-| 447 | 125 | Winter Moon |
-| 448 | 125 | Jennifer Terrill |
+| 447 | 125 | Jennifer Terrill |
+| 448 | 125 | Winter Moon |
 | 449 | 125 | Silly Fallzone |
 | 450 | 124 | Shawna Downey |
 | 451 | 124 | Tasha Suzanne Prisbrey |
-| 452 | 121 | Jeff Margolis |
-| 453 | 121 | TJ |
-| 454 | 121 | Alizabeth Garcia |
-| 455 | 120 | Jenn Wilson |
-| 456 | 120 | Holly Wessel |
-| 457 | 120 | Glamorous Gracey |
-| 458 | 120 | Ada Rodriguez Spradley |
-| 459 | 120 | Urplan |
-| 460 | 120 | Will E Ayala |
-| 461 | 120 | Lul Babie |
-| 462 | 120 | Natalie Dillard |
-| 463 | 120 | 1694AF |
+| 452 | 121 | Alizabeth Garcia |
+| 453 | 121 | Jeff Margolis |
+| 454 | 121 | TJ |
+| 455 | 120 | Lul Babie |
+| 456 | 120 | Natalie Dillard |
+| 457 | 120 | 1694AF |
+| 458 | 120 | Jenn Wilson |
+| 459 | 120 | Ada Rodriguez Spradley |
+| 460 | 120 | Urplan |
+| 461 | 120 | Holly Wessel |
+| 462 | 120 | Stotty |
+| 463 | 120 | Glamorous Gracey |
 | 464 | 120 | Joab Gonzalez |
-| 465 | 120 | Stotty |
-| 466 | 119 | Dennis Montoya |
-| 467 | 119 | Ashley Jenkins |
-| 468 | 118 | farfromlocal |
+| 465 | 120 | Will E Ayala |
+| 466 | 119 | Ashley Jenkins |
+| 467 | 119 | Dennis Montoya |
+| 468 | 118 | Jennifer Naughton |
 | 469 | 118 | Goofy Fall |
-| 470 | 118 | Jennifer Naughton |
-| 471 | 117 | Noa Lee |
-| 472 | 117 | Laurie Patrick |
-| 473 | 117 | yourmomz |
-| 474 | 117 | Fancy Tilefall |
+| 470 | 118 | farfromlocal |
+| 471 | 117 | yourmomz |
+| 472 | 117 | Fancy Tilefall |
+| 473 | 117 | Laurie Patrick |
+| 474 | 117 | Noa Lee |
 | 475 | 117 | Tyson Stroppel |
-| 476 | 116 | Aaron Turner |
-| 477 | 116 | Toon Up |
+| 476 | 116 | Toon Up |
+| 477 | 116 | Aaron Turner |
 | 478 | 116 | BookwormCate |
-| 479 | 115 | Nicole Colby McCloskey |
-| 480 | 115 | Melissa Lowe |
-| 481 | 114 | Jason Moves |
-| 482 | 114 | LandO |
-| 483 | 113 | TheazO |
-| 484 | 113 | Melissa Anne |
-| 485 | 113 | Alexsandra Hill |
-| 486 | 113 | Boldy Striker |
-| 487 | 113 | Amanda Snow |
+| 479 | 115 | Melissa Lowe |
+| 480 | 115 | Nicole Colby McCloskey |
+| 481 | 114 | LandO |
+| 482 | 114 | Jason Moves |
+| 483 | 113 | Melissa Anne |
+| 484 | 113 | Boldy Striker |
+| 485 | 113 | Amanda Snow |
+| 486 | 113 | TheazO |
+| 487 | 113 | Alexsandra Hill |
 | 488 | 113 | George Palacios |
 | 489 | 112 | medicjessi |
-| 490 | 112 | Andrea Dre Lomeli |
-| 491 | 112 | Loopy Hitter |
+| 490 | 112 | Loopy Hitter |
+| 491 | 112 | Andrea Dre Lomeli |
 | 492 | 111 | chefjaydawg |
 | 493 | 111 | Elena Marí |
 | 494 | 111 | Janae Harris |
 | 495 | 111 | Richard Bearse |
-| 496 | 110 | Robert Crow |
-| 497 | 110 | Luna |
+| 496 | 110 | Andreas Vs Shinky |
+| 497 | 110 | Robert Crow |
 | 498 | 110 | Kea Sushi |
-| 499 | 110 | Andreas Vs Shinky |
-| 500 | 109 | Edward White |
-| 501 | 109 | PsyDMom |
+| 499 | 110 | Luna |
+| 500 | 109 | PsyDMom |
+| 501 | 109 | Edward White |
 | 502 | 108 | SandyEva |
 | 503 | 108 | Deva Marie Barber |
-| 504 | 108 | Kaps |
-| 505 | 107 | Kay |
-| 506 | 107 | Csigirlnc |
-| 507 | 107 | YenSid |
-| 508 | 107 | Scrumptious |
-| 509 | 107 | Bonique Bier |
-| 510 | 106 | Jessica Jones Bolton |
-| 511 | 106 | Kari Smith |
-| 512 | 106 | Ami Ferguson |
-| 513 | 106 | Corey Jackson |
-| 514 | 105 | Cherrel M. Causey |
-| 515 | 105 | Kimberly Devon |
-| 516 | 105 | Cyndi Najar |
-| 517 | 105 | Loretta Hendricks |
-| 518 | 105 | Garden Girlie |
+| 504 | 108 | Garden Girlie |
+| 505 | 108 | Kaps |
+| 506 | 107 | Kay |
+| 507 | 107 | Csigirlnc |
+| 508 | 107 | YenSid |
+| 509 | 107 | Scrumptious |
+| 510 | 107 | Bonique Bier |
+| 511 | 106 | Jessica Jones Bolton |
+| 512 | 106 | Kari Smith |
+| 513 | 106 | Ami Ferguson |
+| 514 | 106 | Corey Jackson |
+| 515 | 105 | Cherrel M. Causey |
+| 516 | 105 | Kimberly Devon |
+| 517 | 105 | Cyndi Najar |
+| 518 | 105 | Loretta Hendricks |
 | 519 | 104 | Ian T Parker |
 | 520 | 104 | Perry Ransom |
 | 521 | 104 | Justin Ballard |
