@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 03:54:18 UTC
+# Standings for team2 as of 2026-06-07 03:54:39 UTC
 
 **Total Participants:** 1582
 
@@ -15,8 +15,8 @@
 | 7 | 7687 | Lacey Nolting |
 | 8 | 7500 | Mocha |
 | 9 | 6240 | Christina Shell |
-| 10 | 6114 | Morgann McDaniel |
-| 11 | 6114 | Tim Ix |
+| 10 | 6114 | Tim Ix |
+| 11 | 6114 | Morgann McDaniel |
 | 12 | 5704 | Cori Keberlein |
 | 13 | 4945 | Dapper Rollout |
 | 14 | 4800 | Crafty Ziggy |
@@ -96,8 +96,8 @@
 | 88 | 656 | Loopy Cascadepiece |
 | 89 | 650 | Epic Frame |
 | 90 | 642 | Lisa Breiding |
-| 91 | 632 | Allie Bug |
-| 92 | 632 | Wmk Rathbun |
+| 91 | 632 | Wmk Rathbun |
+| 92 | 632 | Allie Bug |
 | 93 | 629 | Mirr Lulu |
 | 94 | 612 | Josh Twilley |
 | 95 | 600 | LEW |
@@ -122,8 +122,8 @@
 | 114 | 478 | Smiley Dropper |
 | 115 | 477 | Amy Gale |
 | 116 | 476 | snowwol |
-| 117 | 472 | Lily |
-| 118 | 472 | Le Sandy |
+| 117 | 472 | Le Sandy |
+| 118 | 472 | Lily |
 | 119 | 466 | Judy Long |
 | 120 | 449 | Poppy |
 | 121 | 448 | Pooh |
@@ -153,8 +153,8 @@
 | 145 | 356 | Joni Michelle Morgan |
 | 146 | 352 | haune |
 | 147 | 348 | Eric Drane |
-| 148 | 347 | Zesty Strikerbuilder |
-| 149 | 347 | Jackie Tupper |
+| 148 | 347 | Jackie Tupper |
+| 149 | 347 | Zesty Strikerbuilder |
 | 150 | 344 | Traci Abern |
 | 151 | 343 | Theresa Marie |
 | 152 | 342 | Bri St Peter |
@@ -173,21 +173,21 @@
 | 165 | 311 | Hoppy Mover |
 | 166 | 310 | Jennifer Smith |
 | 167 | 302 | Hypee |
-| 168 | 300 | Linda Guay |
-| 169 | 300 | Hector |
+| 168 | 300 | Hector |
+| 169 | 300 | Linda Guay |
 | 170 | 299 | Mookshake |
 | 171 | 298 | Heather Burgett |
 | 172 | 298 | Breeana Bennett |
 | 173 | 296 | Snappy Combo |
-| 174 | 294 | DayDreamer79 |
-| 175 | 294 | Vistabrat |
+| 174 | 294 | Vistabrat |
+| 175 | 294 | DayDreamer79 |
 | 176 | 292 | James Ward |
 | 177 | 291 | Flashy Twistline |
-| 178 | 285 | H |
-| 179 | 285 | Samantha Carman |
+| 178 | 285 | Samantha Carman |
+| 179 | 285 | H |
 | 180 | 282 | Nova Nova |
-| 181 | 280 | Patricia Carroll |
-| 182 | 280 | Brittney Williams |
+| 181 | 280 | Brittney Williams |
+| 182 | 280 | Patricia Carroll |
 | 183 | 278 | Ashley Billiot Rhodes |
 | 184 | 277 | Sarah Mccolgan |
 | 185 | 273 | Brenda Jones |
@@ -195,18 +195,18 @@
 | 187 | 269 | Ackerman 85 |
 | 188 | 263 | Becca Marie |
 | 189 | 262 | Cool Balancer |
-| 190 | 260 | giamy |
-| 191 | 260 | Snappy Blockbuilder |
+| 190 | 260 | Snappy Blockbuilder |
+| 191 | 260 | giamy |
 | 192 | 259 | Angie Kowalsky Olson |
-| 193 | 253 | Hilliary Beyer |
-| 194 | 253 | Jessica Lynn |
-| 195 | 253 | Marge Cromer |
+| 193 | 253 | Marge Cromer |
+| 194 | 253 | Hilliary Beyer |
+| 195 | 253 | Jessica Lynn |
 | 196 | 252 | Kathy Strickland |
 | 197 | 250 | Iesha Cupil |
 | 198 | 250 | marsam |
-| 199 | 247 | Fudgie Pie |
+| 199 | 247 | Brittni Lawrence |
 | 200 | 247 | Melissa Thomas |
-| 201 | 247 | Brittni Lawrence |
+| 201 | 247 | Fudgie Pie |
 | 202 | 246 | Brooke Lynn Marie Adelaide |
 | 203 | 244 | DomDomsNana |
 | 204 | 241 | Boldy Wobbler |
@@ -219,21 +219,21 @@
 | 211 | 233 | Amie Marks |
 | 212 | 233 | Lisa Underwood Desmond |
 | 213 | 232 | Pam Bauder Ludwig |
-| 214 | 230 | Kelly Vedder |
+| 214 | 231 | PaiBri |
 | 215 | 230 | Brandy Chinelle |
-| 216 | 225 | Alison Waller |
+| 216 | 230 | Kelly Vedder |
 | 217 | 225 | Cheery Towerzone |
-| 218 | 225 | PaiBri |
+| 218 | 225 | Alison Waller |
 | 219 | 224 | Kathleen Keogh Van Schoyck |
 | 220 | 223 | Jat |
 | 221 | 222 | Margie Ann Naffziger |
 | 222 | 221 | Bianca Woodruff |
 | 223 | 221 | Dallas Runyan |
-| 224 | 220 | Flashy Basegrid |
-| 225 | 220 | MarioKarasovic |
-| 226 | 220 | Lora Via |
-| 227 | 219 | Cathy Tippett |
-| 228 | 219 | Stella |
+| 224 | 220 | Lora Via |
+| 225 | 220 | Flashy Basegrid |
+| 226 | 220 | MarioKarasovic |
+| 227 | 219 | Stella |
+| 228 | 219 | Cathy Tippett |
 | 229 | 218 | Amy Nicole McCanne |
 | 230 | 217 | Elizabeth Henry |
 | 231 | 214 | Stephany Green |
