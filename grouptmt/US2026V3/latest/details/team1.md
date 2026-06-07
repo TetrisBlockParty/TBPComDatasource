@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 16:42:41 UTC
+# Standings for team1 as of 2026-06-07 16:43:18 UTC
 
 **Total Participants:** 1509
 
@@ -15,7 +15,7 @@
 | 7 | 7602 | Charlie Roehm |
 | 8 | 7362 | Dyane Leah Ware |
 | 9 | 7059 | Tracy Cohen |
-| 10 | 6824 | Debbie Carswell |
+| 10 | 6864 | Debbie Carswell |
 | 11 | 6802 | Cozy Edge |
 | 12 | 6754 | Death by SnuSnu |
 | 13 | 5512 | Jocelyn Pope-Sewell |
@@ -49,7 +49,7 @@
 | 41 | 1530 | Chris Russell |
 | 42 | 1453 | Janet Cooke |
 | 43 | 1445 | Jolly Dropzone |
-| 44 | 1328 | Jennifer To |
+| 44 | 1343 | Jennifer To |
 | 45 | 1316 | Robyn Caldwell |
 | 46 | 1247 | Jacoby E Fleming |
 | 47 | 1233 | Cherry Rose |
@@ -134,28 +134,28 @@
 | 126 | 475 | Gotcha |
 | 127 | 474 | DaVonte' Cretter |
 | 128 | 456 | Andre Sanon |
-| 129 | 444 | Kevin M. McGhee Jr |
-| 130 | 443 | Jamal Itzjusmall Chambers |
-| 131 | 441 | Slinky Puzzler |
-| 132 | 439 | Asani CHumba |
-| 133 | 437 | Tobey Marberry |
-| 134 | 434 | Anthony Washington |
-| 135 | 431 | Lashawn Wallace |
-| 136 | 420 | Jessica Carter |
-| 137 | 410 | Lesley Brunkus Cianfaglione |
-| 138 | 404 | Hyper Slamdrop |
-| 139 | 404 | Jason Mungin |
-| 140 | 401 | Shell Lewis |
-| 141 | 393 | SPNLover24 |
-| 142 | 389 | GrkGdess |
-| 143 | 386 | Kenny MrOnethousand Peck |
-| 144 | 384 | Christana Imjustbutton Stone |
-| 145 | 384 | Alana Renee |
-| 146 | 380 | Dulo |
-| 147 | 377 | AF Cruz |
-| 148 | 375 | Jenna Renee |
-| 149 | 370 | Allison Baxter |
-| 150 | 370 | Uneekly Mayde |
+| 129 | 447 | Uneekly Mayde |
+| 130 | 444 | Kevin M. McGhee Jr |
+| 131 | 443 | Jamal Itzjusmall Chambers |
+| 132 | 441 | Slinky Puzzler |
+| 133 | 439 | Asani CHumba |
+| 134 | 437 | Tobey Marberry |
+| 135 | 434 | Anthony Washington |
+| 136 | 431 | Lashawn Wallace |
+| 137 | 420 | Jessica Carter |
+| 138 | 410 | Lesley Brunkus Cianfaglione |
+| 139 | 404 | Hyper Slamdrop |
+| 140 | 404 | Jason Mungin |
+| 141 | 401 | Shell Lewis |
+| 142 | 393 | SPNLover24 |
+| 143 | 389 | GrkGdess |
+| 144 | 386 | Kenny MrOnethousand Peck |
+| 145 | 384 | Christana Imjustbutton Stone |
+| 146 | 384 | Alana Renee |
+| 147 | 380 | Dulo |
+| 148 | 377 | AF Cruz |
+| 149 | 375 | Jenna Renee |
+| 150 | 370 | Allison Baxter |
 | 151 | 367 | Ebony Waynes-robinson |
 | 152 | 367 | Leebo Slice |
 | 153 | 363 | Christina Rebecca |
