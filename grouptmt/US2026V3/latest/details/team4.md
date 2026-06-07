@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 03:36:18 UTC
+# Standings for team4 as of 2026-06-07 03:36:41 UTC
 
 **Total Participants:** 1321
 
@@ -10,7 +10,7 @@
 | 2 | 8764 | Cinny |
 | 3 | 7907 | Lyza |
 | 4 | 5469 | Kait Confetti |
-| 5 | 5244 | ktothet |
+| 5 | 5344 | ktothet |
 | 6 | 5100 | Candice Driver |
 | 7 | 4920 | Jerald Jones |
 | 8 | 4540 | delilahbelle |
@@ -63,10 +63,10 @@
 | 55 | 828 | Jeanette Hailey |
 | 56 | 827 | 626 |
 | 57 | 805 | JoLinda Dunn |
-| 58 | 800 | Leah Gorsuch |
-| 59 | 798 | Gloria Nunley Trussell |
-| 60 | 795 | Erin Figone |
-| 61 | 791 | MysticMaven |
+| 58 | 800 | MysticMaven |
+| 59 | 800 | Leah Gorsuch |
+| 60 | 798 | Gloria Nunley Trussell |
+| 61 | 795 | Erin Figone |
 | 62 | 761 | Chummy Rollzone |
 | 63 | 754 | Victoria Ver |
 | 64 | 738 | Shaina Sharp |
@@ -111,11 +111,11 @@
 | 103 | 420 | Nikki Fuller Johnson |
 | 104 | 418 | GeorgeButts |
 | 105 | 416 | Ermadette |
-| 106 | 400 | Nicole Peoples |
-| 107 | 400 | DexterDobbins |
-| 108 | 400 | Cherry |
-| 109 | 400 | Amber Doyle |
-| 110 | 400 | Gigglycat |
+| 106 | 400 | Cherry |
+| 107 | 400 | Amber Doyle |
+| 108 | 400 | DexterDobbins |
+| 109 | 400 | Gigglycat |
+| 110 | 400 | Nicole Peoples |
 | 111 | 398 | Kay |
 | 112 | 397 | Real Talk Vibes |
 | 113 | 396 | Jackie Jackson |
@@ -132,8 +132,8 @@
 | 124 | 353 | Hen |
 | 125 | 346 | Alexis Cor |
 | 126 | 345 | RotatedWrongAgain |
-| 127 | 343 | Cinta Marie |
-| 128 | 343 | Gorica Prusina |
+| 127 | 343 | Gorica Prusina |
+| 128 | 343 | Cinta Marie |
 | 129 | 333 | Taz |
 | 130 | 331 | Katie Lynn Petit |
 | 131 | 326 | Bobbie Harrell |
@@ -144,8 +144,8 @@
 | 136 | 311 | Jesse Olive |
 | 137 | 307 | Debby Ruof |
 | 138 | 301 | Kaash Brxtt |
-| 139 | 300 | Genag |
-| 140 | 300 | 2 kool |
+| 139 | 300 | 2 kool |
+| 140 | 300 | Genag |
 | 141 | 292 | Katie Martin |
 | 142 | 290 | Dana Smith |
 | 143 | 282 | Nicole |
@@ -166,30 +166,30 @@
 | 158 | 244 | matt |
 | 159 | 241 | Lush Fitblock |
 | 160 | 240 | MomyLiz |
-| 161 | 239 | Shepreneur Sade |
-| 162 | 237 | Anna Gribble |
-| 163 | 235 | Hwanger Land |
-| 164 | 234 | Perky Riserbuilder |
-| 165 | 233 | Christy Beezley-Forbush |
-| 166 | 233 | Sisi RedVelvet Reneè |
-| 167 | 232 | Scamp Jones |
-| 168 | 231 | Becky McCool |
+| 161 | 239 | Megan Vick |
+| 162 | 239 | Shepreneur Sade |
+| 163 | 237 | Anna Gribble |
+| 164 | 235 | Hwanger Land |
+| 165 | 234 | Perky Riserbuilder |
+| 166 | 233 | Christy Beezley-Forbush |
+| 167 | 233 | Sisi RedVelvet Reneè |
+| 168 | 232 | Scamp Jones |
 | 169 | 231 | Alma López Morales |
-| 170 | 230 | gabs |
-| 171 | 229 | Megan Vick |
+| 170 | 231 | Becky McCool |
+| 171 | 230 | gabs |
 | 172 | 229 | Aisha Estrada |
 | 173 | 226 | Sassy Rollpiece |
 | 174 | 225 | BusterBear56 |
 | 175 | 224 | TRUCHILD777$$$ |
 | 176 | 223 | Slimm |
 | 177 | 222 | Danny Ortiz |
-| 178 | 220 | Magz |
-| 179 | 220 | Silly Risegrid |
+| 178 | 220 | Silly Risegrid |
+| 179 | 220 | Magz |
 | 180 | 220 | Shmeedo |
 | 181 | 218 | Dubiousdust |
 | 182 | 212 | blockhead |
-| 183 | 211 | Goofy Riser |
-| 184 | 211 | Renee Sapp |
+| 183 | 211 | Renee Sapp |
+| 184 | 211 | Goofy Riser |
 | 185 | 210 | Stephanie Myers |
 | 186 | 207 | Aramat |
 | 187 | 203 | Patrick Alley |
@@ -197,13 +197,13 @@
 | 189 | 200 | Sarah Montagne Forsberg |
 | 190 | 200 | Chuck Gannon |
 | 191 | 199 | Colin |
-| 192 | 197 | Shocinda Sherwood |
-| 193 | 197 | Tiggerjake |
+| 192 | 197 | Tiggerjake |
+| 193 | 197 | Shocinda Sherwood |
 | 194 | 195 | Lively Blockpiece |
 | 195 | 195 | Sean Mccleary |
-| 196 | 194 | Lisa lisa |
-| 197 | 194 | Chiquita Blue |
-| 198 | 194 | Jenn Norcross |
+| 196 | 194 | Jenn Norcross |
+| 197 | 194 | Lisa lisa |
+| 198 | 194 | Chiquita Blue |
 | 199 | 193 | Tiffany Bunker-Hill |
 | 200 | 192 | Devinlee Brown |
 | 201 | 190 | Lucy Honer |
@@ -217,8 +217,8 @@
 | 209 | 183 | Brandy Lynn |
 | 210 | 181 | Alyson M Kehler |
 | 211 | 181 | EL Booger |
-| 212 | 180 | ariel |
-| 213 | 180 | Britney Kitora |
+| 212 | 180 | Britney Kitora |
+| 213 | 180 | ariel |
 | 214 | 179 | LaTanya GeminiondaRise Johnson |
 | 215 | 178 | Tamara Triplet |
 | 216 | 178 | Spicy Chicken |
@@ -1024,11 +1024,11 @@
 | 1016 | 25 | Daisy Jaramillo |
 | 1017 | 25 | Nina Martinez |
 | 1018 | 25 | moonman33 |
-| 1019 | 25 | chapis |
-| 1020 | 24 | Agent |
-| 1021 | 24 | Kellz M Bee |
-| 1022 | 24 | Twisty Gridclear |
-| 1023 | 24 | Sadeha Simpson |
+| 1019 | 25 | Sadeha Simpson |
+| 1020 | 25 | chapis |
+| 1021 | 24 | Agent |
+| 1022 | 24 | Kellz M Bee |
+| 1023 | 24 | Twisty Gridclear |
 | 1024 | 24 | Ja'Net Riley |
 | 1025 | 24 | Lawrissa Andrews |
 | 1026 | 24 | Ferlyz |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 03:36:18 UTC
+# Standings for team2 as of 2026-06-07 03:36:41 UTC
 
 **Total Participants:** 1574
 
@@ -47,7 +47,7 @@
 | 39 | 1841 | Frilly Match |
 | 40 | 1835 | Elizabeth Mooney |
 | 41 | 1820 | Tom Badgley |
-| 42 | 1815 | Quirky Catcher |
+| 42 | 1820 | Quirky Catcher |
 | 43 | 1803 | Julie Trede Amerson |
 | 44 | 1678 | Betty Barrett |
 | 45 | 1577 | Heather Marie-Tarlton Britt |
