@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 19:00:20 UTC
+# Standings for team4 as of 2026-06-07 19:00:40 UTC
 
 **Total Participants:** 1576
 
@@ -663,11 +663,11 @@
 | 655 | 81 | Destiny Starr LeValdo |
 | 656 | 81 | GingaNinja |
 | 657 | 81 | Kimberly Civinski |
-| 658 | 80 | Alicia |
-| 659 | 80 | Keke Johnson |
-| 660 | 80 | Rin |
-| 661 | 80 | Joe Richard |
-| 662 | 80 | Merritt Brandt |
+| 658 | 81 | Merritt Brandt |
+| 659 | 80 | Alicia |
+| 660 | 80 | Keke Johnson |
+| 661 | 80 | Rin |
+| 662 | 80 | Joe Richard |
 | 663 | 80 | Clever Brickzone |
 | 664 | 80 | Alice Eisnor-Martens |
 | 665 | 80 | Mike Zec II |
@@ -1186,9 +1186,9 @@
 | 1178 | 30 | Daring Towerer |
 | 1179 | 30 | Derrek Lee |
 | 1180 | 30 | Tati |
-| 1181 | 30 | Frisky Framezone |
+| 1181 | 30 | Janna Bruss |
 | 1182 | 30 | Spidaman86 |
-| 1183 | 30 | Spicy Holder |
+| 1183 | 30 | Lizette Chaires |
 | 1184 | 30 | Epic Shatterline |
 | 1185 | 30 | Sherri G Davis |
 | 1186 | 30 | chuck |
@@ -1196,14 +1196,14 @@
 | 1188 | 30 | Donna Winget |
 | 1189 | 30 | Ali Garcia |
 | 1190 | 30 | Katy Roman |
-| 1191 | 30 | Lizette Chaires |
+| 1191 | 30 | Spicy Holder |
 | 1192 | 30 | Loopy Wipeout |
 | 1193 | 30 | Audacious |
 | 1194 | 30 | Christopher Farias |
 | 1195 | 30 | Sydney Taylor Sileno |
 | 1196 | 30 | MamaaCaashh |
-| 1197 | 30 | Janna Bruss |
-| 1198 | 29 | Wayne Hendricks |
+| 1197 | 30 | Frisky Framezone |
+| 1198 | 29 | Ciara Brown |
 | 1199 | 29 | Marion Wade |
 | 1200 | 29 | Wynisha Johnson |
 | 1201 | 29 | Crafty Linkfall |
@@ -1211,119 +1211,119 @@
 | 1203 | 29 | Kelley Shoop |
 | 1204 | 29 | MzCeleste Brooks |
 | 1205 | 29 | Unknown |
-| 1206 | 29 | Epic Dashfit |
-| 1207 | 29 | CRsLady |
-| 1208 | 29 | Mrs.J2013 |
+| 1206 | 29 | Wayne Hendricks |
+| 1207 | 29 | Epic Dashfit |
+| 1208 | 29 | CRsLady |
 | 1209 | 29 | Naybel85 |
-| 1210 | 29 | Ciara Brown |
+| 1210 | 29 | Mrs.J2013 |
 | 1211 | 28 | Mindy Phariss |
 | 1212 | 28 | Leslee Bentley DeLong |
-| 1213 | 28 | Catherine Garza |
-| 1214 | 28 | nanaz86 |
-| 1215 | 28 | FUNBAT |
-| 1216 | 27 | Izz |
-| 1217 | 27 | Myranda Gereau |
-| 1218 | 27 | BlockFlakes |
-| 1219 | 27 | Shirley Williams |
-| 1220 | 27 | boo |
-| 1221 | 27 | Loopy Bridger |
-| 1222 | 27 | PIPPI |
-| 1223 | 27 | Simone Marie Thrasher |
-| 1224 | 27 | Street724 |
-| 1225 | 27 | Jaison Horton |
-| 1226 | 27 | Twisty Gridclear |
-| 1227 | 26 | Michelle Clark |
-| 1228 | 26 | Ivyleata McFadden |
-| 1229 | 26 | Love GH |
-| 1230 | 26 | Lacey Decker |
-| 1231 | 26 | Misty Harland |
-| 1232 | 26 | Rob$GEE |
-| 1233 | 26 | Leslie Marie WarClub |
-| 1234 | 26 | Rebecca Rae Reed |
-| 1235 | 26 | Thomas Cassell |
-| 1236 | 26 | Debra James |
-| 1237 | 26 | AJscooter |
-| 1238 | 26 | Kevin Lyles |
-| 1239 | 26 | taya |
-| 1240 | 26 | Jessica Huber |
-| 1241 | 26 | Hannah Harkness |
-| 1242 | 26 | Shakita Moore-Bernard |
-| 1243 | 25 | Giggy Mover |
-| 1244 | 25 | Honey Honey |
-| 1245 | 25 | Chabetta |
-| 1246 | 25 | José A Torres |
-| 1247 | 25 | Laryssia Taylor |
-| 1248 | 25 | Amy |
-| 1249 | 25 | Kiki Moore |
-| 1250 | 25 | Nina Martinez |
-| 1251 | 25 | Tipsy toesy |
-| 1252 | 25 | Kitty Kat |
-| 1253 | 25 | Alicia Horsea Rojas |
-| 1254 | 25 | chapis |
-| 1255 | 25 | Littleshark |
-| 1256 | 25 | Daisy Jaramillo |
-| 1257 | 24 | Hannah White |
-| 1258 | 24 | Ferlyz |
-| 1259 | 24 | Ja'Net Riley |
-| 1260 | 24 | Socorro Arredondo |
-| 1261 | 24 | Tameka Harrison |
-| 1262 | 24 | Flashy Wipebuilder |
-| 1263 | 24 | Katiana Gonzalez |
-| 1264 | 24 | Jenni |
-| 1265 | 24 | Pamela Kaye |
-| 1266 | 24 | Chelsea Pigg |
-| 1267 | 23 | Breezy Cascadeclear |
-| 1268 | 23 | DuvaDova Ahava |
-| 1269 | 23 | Jordan Tamayia Williams |
-| 1270 | 23 | Carole Dyment Westcott |
-| 1271 | 23 | LIZ |
-| 1272 | 23 | Musky Pits |
-| 1273 | 23 | James Moore |
-| 1274 | 23 | Daring Patternblock |
-| 1275 | 23 | Monika Webb |
-| 1276 | 22 | Kathy Lindsay |
-| 1277 | 22 | Stylist |
-| 1278 | 22 | Eric Quan |
-| 1279 | 22 | Honey |
-| 1280 | 22 | Twisty Chiseler |
-| 1281 | 22 | Rachel Resnick |
-| 1282 | 22 | Zippy Jumper |
-| 1283 | 22 | Christy Petty |
-| 1284 | 22 | Magda Lene |
-| 1285 | 22 | Baby cat |
-| 1286 | 22 | McScrubby |
-| 1287 | 22 | Bold Tumbler |
-| 1288 | 21 | Dandy Linkgrid |
-| 1289 | 21 | Mystica |
-| 1290 | 21 | kakasports |
-| 1291 | 21 | Glitter |
-| 1292 | 21 | Glendala Whitewing |
-| 1293 | 21 | Cozy Staggerpiece |
-| 1294 | 21 | Arlee Woodall |
-| 1295 | 21 | Ak Jones |
-| 1296 | 21 | Tammie Baechler |
-| 1297 | 20 | Buggy Julks |
-| 1298 | 20 | Snippy Balancepiece |
-| 1299 | 20 | Losofmemphis Frfr |
-| 1300 | 20 | Frby Amberr |
-| 1301 | 20 | Tipsy Patternfit |
-| 1302 | 20 | Jessica Smith |
-| 1303 | 20 | Richard Moneyrich Nottingham |
-| 1304 | 20 | Kristin Ussery |
-| 1305 | 20 | Shannon Rivera |
-| 1306 | 20 | Hunter Lynn |
+| 1213 | 28 | nanaz86 |
+| 1214 | 28 | FUNBAT |
+| 1215 | 28 | Catherine Garza |
+| 1216 | 27 | Simone Marie Thrasher |
+| 1217 | 27 | Street724 |
+| 1218 | 27 | Loopy Bridger |
+| 1219 | 27 | PIPPI |
+| 1220 | 27 | Jaison Horton |
+| 1221 | 27 | Glitter |
+| 1222 | 27 | Twisty Gridclear |
+| 1223 | 27 | Shirley Williams |
+| 1224 | 27 | Myranda Gereau |
+| 1225 | 27 | boo |
+| 1226 | 27 | BlockFlakes |
+| 1227 | 27 | Izz |
+| 1228 | 26 | Leslie Marie WarClub |
+| 1229 | 26 | Misty Harland |
+| 1230 | 26 | Rob$GEE |
+| 1231 | 26 | Rebecca Rae Reed |
+| 1232 | 26 | Love GH |
+| 1233 | 26 | Lacey Decker |
+| 1234 | 26 | Michelle Clark |
+| 1235 | 26 | Ivyleata McFadden |
+| 1236 | 26 | Thomas Cassell |
+| 1237 | 26 | Debra James |
+| 1238 | 26 | AJscooter |
+| 1239 | 26 | Kevin Lyles |
+| 1240 | 26 | taya |
+| 1241 | 26 | Jessica Huber |
+| 1242 | 26 | Hannah Harkness |
+| 1243 | 26 | Shakita Moore-Bernard |
+| 1244 | 25 | Giggy Mover |
+| 1245 | 25 | Laryssia Taylor |
+| 1246 | 25 | Chabetta |
+| 1247 | 25 | Honey Honey |
+| 1248 | 25 | José A Torres |
+| 1249 | 25 | Amy |
+| 1250 | 25 | Kiki Moore |
+| 1251 | 25 | Nina Martinez |
+| 1252 | 25 | Tipsy toesy |
+| 1253 | 25 | Littleshark |
+| 1254 | 25 | Kitty Kat |
+| 1255 | 25 | chapis |
+| 1256 | 25 | Alicia Horsea Rojas |
+| 1257 | 25 | Daisy Jaramillo |
+| 1258 | 24 | Jenni |
+| 1259 | 24 | Tameka Harrison |
+| 1260 | 24 | Flashy Wipebuilder |
+| 1261 | 24 | Katiana Gonzalez |
+| 1262 | 24 | Pamela Kaye |
+| 1263 | 24 | Socorro Arredondo |
+| 1264 | 24 | Ferlyz |
+| 1265 | 24 | Chelsea Pigg |
+| 1266 | 24 | Hannah White |
+| 1267 | 24 | Ja'Net Riley |
+| 1268 | 23 | James Moore |
+| 1269 | 23 | Breezy Cascadeclear |
+| 1270 | 23 | DuvaDova Ahava |
+| 1271 | 23 | Carole Dyment Westcott |
+| 1272 | 23 | LIZ |
+| 1273 | 23 | Musky Pits |
+| 1274 | 23 | Monika Webb |
+| 1275 | 23 | Daring Patternblock |
+| 1276 | 23 | Jordan Tamayia Williams |
+| 1277 | 22 | Rachel Resnick |
+| 1278 | 22 | Stylist |
+| 1279 | 22 | Kathy Lindsay |
+| 1280 | 22 | Eric Quan |
+| 1281 | 22 | Honey |
+| 1282 | 22 | Christy Petty |
+| 1283 | 22 | Zippy Jumper |
+| 1284 | 22 | McScrubby |
+| 1285 | 22 | Twisty Chiseler |
+| 1286 | 22 | Baby cat |
+| 1287 | 22 | Magda Lene |
+| 1288 | 22 | Bold Tumbler |
+| 1289 | 21 | Ak Jones |
+| 1290 | 21 | Tammie Baechler |
+| 1291 | 21 | Dandy Linkgrid |
+| 1292 | 21 | Arlee Woodall |
+| 1293 | 21 | Glendala Whitewing |
+| 1294 | 21 | Cozy Staggerpiece |
+| 1295 | 21 | kakasports |
+| 1296 | 21 | Mystica |
+| 1297 | 20 | Tesa Mike Jenkins |
+| 1298 | 20 | Losofmemphis Frfr |
+| 1299 | 20 | Frby Amberr |
+| 1300 | 20 | Tipsy Patternfit |
+| 1301 | 20 | Snippy Balancepiece |
+| 1302 | 20 | Diane Donahue |
+| 1303 | 20 | Buggy Julks |
+| 1304 | 20 | Richard Moneyrich Nottingham |
+| 1305 | 20 | Kristin Ussery |
+| 1306 | 20 | Shannon Rivera |
 | 1307 | 20 | Tina Lopez |
 | 1308 | 20 | Principal Liz |
-| 1309 | 20 | Melissa Rathbun |
+| 1309 | 20 | Hunter Lynn |
 | 1310 | 20 | Rell geez |
-| 1311 | 20 | Robert Walker |
-| 1312 | 20 | Diane Donahue |
+| 1311 | 20 | Melissa Rathbun |
+| 1312 | 20 | Robert Walker |
 | 1313 | 20 | Keisha Petway |
-| 1314 | 20 | Hotmessmama1721 |
-| 1315 | 20 | Chirs24 |
-| 1316 | 20 | Mar93 |
-| 1317 | 20 | Whirl-Klines L Evelyn |
-| 1318 | 20 | Tesa Mike Jenkins |
+| 1314 | 20 | Jessica Smith |
+| 1315 | 20 | Hotmessmama1721 |
+| 1316 | 20 | Chirs24 |
+| 1317 | 20 | Mar93 |
+| 1318 | 20 | Whirl-Klines L Evelyn |
 | 1319 | 20 | Hasty Slamdrop |
 | 1320 | 20 | Hasty Snapmatch |
 | 1321 | 20 | Zesty lemon |
