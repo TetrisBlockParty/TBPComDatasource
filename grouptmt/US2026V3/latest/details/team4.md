@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 01:22:19 UTC
+# Standings for team4 as of 2026-06-07 01:22:41 UTC
 
 **Total Participants:** 1244
 
@@ -532,36 +532,36 @@
 | 524 | 65 | Deborah Ayliffe |
 | 525 | 65 | Lovetetris |
 | 526 | 65 | Alicia Cook |
-| 527 | 65 | Silly Fallzone |
+| 527 | 65 | Breezy Blockzone |
 | 528 | 65 | Jailen Harper |
 | 529 | 65 | Dinah Mccall |
 | 530 | 65 | Youngkueen |
-| 531 | 64 | Mmm |
-| 532 | 64 | Deb 07 |
-| 533 | 64 | Surviving Be Back Soon |
-| 534 | 64 | David Lay |
+| 531 | 65 | Silly Fallzone |
+| 532 | 64 | David Lay |
+| 533 | 64 | Mmm |
+| 534 | 64 | Surviving Be Back Soon |
 | 535 | 64 | Marisela Alvarado |
-| 536 | 64 | sierrabeth |
-| 537 | 64 | Daring Brickbuilder |
+| 536 | 64 | Deb 07 |
+| 537 | 64 | Holly Bramel |
 | 538 | 64 | Gary Smallwood |
-| 539 | 64 | Holly Bramel |
-| 540 | 63 | Shirley A. Godfrey |
-| 541 | 63 | Butterpat |
+| 539 | 64 | Daring Brickbuilder |
+| 540 | 64 | sierrabeth |
+| 541 | 63 | Brenda Mueller |
 | 542 | 63 | Brenda Gustamantes |
-| 543 | 63 | Karen Davis |
-| 544 | 63 | Brenda Mueller |
-| 545 | 63 | MattJennifer Marie Ericson |
-| 546 | 63 | Amber Jalbert |
+| 543 | 63 | Shirley A. Godfrey |
+| 544 | 63 | MattJennifer Marie Ericson |
+| 545 | 63 | Karen Davis |
+| 546 | 63 | Butterpat |
 | 547 | 63 | Marina |
-| 548 | 62 | Breezy Blockzone |
-| 549 | 62 | 94Blockhead |
-| 550 | 62 | Mar Mar |
-| 551 | 62 | Joyce Hampton |
-| 552 | 62 | medicjessi |
-| 553 | 62 | Lisa Pie |
-| 554 | 62 | Chris McBlockster |
+| 548 | 63 | Amber Jalbert |
+| 549 | 62 | Joyce Hampton |
+| 550 | 62 | 94Blockhead |
+| 551 | 62 | Mar Mar |
+| 552 | 62 | Chris McBlockster |
+| 553 | 62 | medicjessi |
+| 554 | 62 | Tony Clark |
 | 555 | 62 | YenSid |
-| 556 | 62 | Tony Clark |
+| 556 | 62 | Lisa Pie |
 | 557 | 61 | Tasha Suzanne Prisbrey |
 | 558 | 61 | Missionary Meda |
 | 559 | 61 | Stephanie Brock |
