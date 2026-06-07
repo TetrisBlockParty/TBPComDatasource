@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:28:41 UTC
+# Standings for team1 as of 2026-06-07 11:29:18 UTC
 
 **Total Participants:** 1445
 
@@ -605,16 +605,16 @@
 | 597 | 74 | Casey Chapman |
 | 598 | 74 | Tetrisdestroyer |
 | 599 | 74 | Sunny Clicky |
-| 600 | 74 | Kimmie Gargano |
-| 601 | 73 | Marlynnnnn |
-| 602 | 72 | Marlainia Boyd |
-| 603 | 72 | Nekka |
-| 604 | 72 | JesusSaves 😇 |
-| 605 | 72 | ImmeKC |
-| 606 | 72 | Lauraly |
-| 607 | 72 | Poppy Twister |
+| 600 | 74 | Chereese Harris |
+| 601 | 74 | Kimmie Gargano |
+| 602 | 73 | Marlynnnnn |
+| 603 | 72 | Marlainia Boyd |
+| 604 | 72 | Nekka |
+| 605 | 72 | JesusSaves 😇 |
+| 606 | 72 | ImmeKC |
+| 607 | 72 | Lauraly |
 | 608 | 72 | Comedian Gdane |
-| 609 | 71 | Chereese Harris |
+| 609 | 72 | Poppy Twister |
 | 610 | 71 | HBTone |
 | 611 | 71 | akosua |
 | 612 | 71 | KimChii |
