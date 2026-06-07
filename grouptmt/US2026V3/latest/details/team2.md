@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 21:26:18 UTC
+# Standings for team2 as of 2026-06-07 21:26:42 UTC
 
 **Total Participants:** 1909
 
@@ -1712,16 +1712,16 @@
 | 1704 | 14 | BlockBreaker |
 | 1705 | 14 | Beaglemom |
 | 1706 | 14 | Imat Yesmar |
-| 1707 | 14 | Manuel Lucero Jr. |
-| 1708 | 14 | Raymond Sadler |
+| 1707 | 14 | Raymond Sadler |
+| 1708 | 14 | Manuel Lucero Jr. |
 | 1709 | 13 | Kandie Warren |
-| 1710 | 13 | lion king |
-| 1711 | 13 | Brave Curver |
-| 1712 | 13 | Cool Cornerfall |
-| 1713 | 13 | Coleta Singleton-Gallishaw |
-| 1714 | 13 | Treau Torres |
-| 1715 | 13 | Chad Praytor |
-| 1716 | 13 | Sunnylynn Hodge |
+| 1710 | 13 | Sunnylynn Hodge |
+| 1711 | 13 | Chad Praytor |
+| 1712 | 13 | lion king |
+| 1713 | 13 | Brave Curver |
+| 1714 | 13 | Cool Cornerfall |
+| 1715 | 13 | Coleta Singleton-Gallishaw |
+| 1716 | 13 | Treau Torres |
 | 1717 | 13 | Patience Thompson |
 | 1718 | 13 | Tara Feineis |
 | 1719 | 13 | Deborah Fowler |
@@ -1745,20 +1745,20 @@
 | 1737 | 12 | Silly Twister |
 | 1738 | 12 | Mariah Wells |
 | 1739 | 12 | Sindy08 |
-| 1740 | 12 | Danid |
-| 1741 | 12 | Kjsranch |
-| 1742 | 12 | Nikki Blilie |
-| 1743 | 12 | Jacob nitro |
-| 1744 | 12 | Anarcho |
-| 1745 | 12 | Jollygirl |
-| 1746 | 12 | Roberta Granados |
-| 1747 | 12 | Chipper Gridroll |
-| 1748 | 12 | Zippy Blockmatch |
-| 1749 | 12 | Angi Carter |
+| 1740 | 12 | Angi Carter |
+| 1741 | 12 | Roberta Granados |
+| 1742 | 12 | Jollygirl |
+| 1743 | 12 | Anarcho |
+| 1744 | 12 | Jacob nitro |
+| 1745 | 12 | Nikki Blilie |
+| 1746 | 12 | Kjsranch |
+| 1747 | 12 | Danid |
+| 1748 | 12 | Chipper Gridroll |
+| 1749 | 12 | Zippy Blockmatch |
 | 1750 | 12 | Brandy Moore |
-| 1751 | 11 | Forever Young |
-| 1752 | 11 | Amanda Nicholson |
-| 1753 | 11 | Crazygranny |
+| 1751 | 11 | Amanda Nicholson |
+| 1752 | 11 | Crazygranny |
+| 1753 | 11 | Forever Young |
 | 1754 | 11 | Snappy Matchgrid |
 | 1755 | 11 | Lou Sassole |
 | 1756 | 11 | cole |
@@ -1802,93 +1802,93 @@
 | 1794 | 10 | Dandy Fill |
 | 1795 | 10 | Fisherman Jackson |
 | 1796 | 10 | Aislinn Lowe |
-| 1797 | 10 | Daniela Solis |
-| 1798 | 10 | Mistress |
-| 1799 | 10 | Melissa Dyer |
-| 1800 | 10 | LilMs101 |
-| 1801 | 10 | Joey Grillo |
-| 1802 | 10 | Hasty Linker |
-| 1803 | 10 | Brooke Burge |
-| 1804 | 10 | April Appleton |
-| 1805 | 10 | Clever Clusterfit |
-| 1806 | 10 | Kathi Patrick |
-| 1807 | 10 | crysamoctama57 |
-| 1808 | 10 | ANNIE CHAOS |
+| 1797 | 10 | Joey Grillo |
+| 1798 | 10 | ANNIE CHAOS |
+| 1799 | 10 | Mistress |
+| 1800 | 10 | Melissa Dyer |
+| 1801 | 10 | LilMs101 |
+| 1802 | 10 | Daniela Solis |
+| 1803 | 10 | Hasty Linker |
+| 1804 | 10 | Brooke Burge |
+| 1805 | 10 | Lorrie Girardi |
+| 1806 | 10 | April Appleton |
+| 1807 | 10 | Kathi Patrick |
+| 1808 | 10 | crysamoctama57 |
 | 1809 | 10 | Crasher |
-| 1810 | 10 | Lorrie Girardi |
-| 1811 | 9 | Shawn Bossuot |
-| 1812 | 9 | Peppy Clusterer |
-| 1813 | 9 | Kimberley Marie |
-| 1814 | 9 | zee |
-| 1815 | 9 | Cordillia Barela |
-| 1816 | 9 | yep |
-| 1817 | 9 | Bethany Gerber |
-| 1818 | 9 | Jeff Mullins |
-| 1819 | 9 | Dapper Corner |
-| 1820 | 9 | Gigi |
-| 1821 | 9 | Lindsey Butler |
-| 1822 | 9 | Giggly Spinblock |
-| 1823 | 9 | Cheery Striker |
-| 1824 | 9 | Catalina Castro |
-| 1825 | 9 | Lori Loup |
-| 1826 | 9 | Yuhh |
-| 1827 | 9 | Terri Ramsey |
-| 1828 | 9 | Snazzy Cascadezone |
-| 1829 | 9 | Naomi Christiansen |
-| 1830 | 8 | Lissa |
-| 1831 | 8 | Jon Torres |
-| 1832 | 8 | Mariah Mandel |
-| 1833 | 8 | Jumpy Twistslam |
-| 1834 | 8 | Funky Slide |
-| 1835 | 8 | Zippy Balance |
-| 1836 | 8 | Crystal Alexander |
-| 1837 | 8 | Tina Doyens Munis |
-| 1838 | 8 | PortersWife87 |
-| 1839 | 8 | Christina Sheldon |
-| 1840 | 8 | Perky Party |
-| 1841 | 8 | Elizabeth Miller |
-| 1842 | 7 | Elizabeth Barnhart Floyd |
+| 1810 | 10 | Clever Clusterfit |
+| 1811 | 9 | Cordillia Barela |
+| 1812 | 9 | zee |
+| 1813 | 9 | Shawn Bossuot |
+| 1814 | 9 | Chrystal Rodriguez |
+| 1815 | 9 | Kimberley Marie |
+| 1816 | 9 | Peppy Clusterer |
+| 1817 | 9 | yep |
+| 1818 | 9 | Bethany Gerber |
+| 1819 | 9 | Jeff Mullins |
+| 1820 | 9 | Dapper Corner |
+| 1821 | 9 | Gigi |
+| 1822 | 9 | Lindsey Butler |
+| 1823 | 9 | Giggly Spinblock |
+| 1824 | 9 | Cheery Striker |
+| 1825 | 9 | Catalina Castro |
+| 1826 | 9 | Lori Loup |
+| 1827 | 9 | Yuhh |
+| 1828 | 9 | Terri Ramsey |
+| 1829 | 9 | Snazzy Cascadezone |
+| 1830 | 9 | Naomi Christiansen |
+| 1831 | 8 | Lissa |
+| 1832 | 8 | Jon Torres |
+| 1833 | 8 | Mariah Mandel |
+| 1834 | 8 | Jumpy Twistslam |
+| 1835 | 8 | Funky Slide |
+| 1836 | 8 | Zippy Balance |
+| 1837 | 8 | Crystal Alexander |
+| 1838 | 8 | Tina Doyens Munis |
+| 1839 | 8 | PortersWife87 |
+| 1840 | 8 | Elizabeth Miller |
+| 1841 | 8 | Perky Party |
+| 1842 | 8 | Christina Sheldon |
 | 1843 | 7 | Michael Bond |
-| 1844 | 7 | Ephysta |
-| 1845 | 7 | Marshall Wilson |
-| 1846 | 7 | Chrystal Rodriguez |
-| 1847 | 7 | Chirpy Shiftspin |
-| 1848 | 7 | Lush Tile |
-| 1849 | 7 | Epic Balanceblock |
-| 1850 | 7 | VikinGs Vnm |
-| 1851 | 7 | Carl Gadberry |
-| 1852 | 7 | bluesky |
-| 1853 | 7 | Judy Burkhalter |
-| 1854 | 7 | Flashy Cascadeclear |
-| 1855 | 7 | Brenda Ohaus Facher |
-| 1856 | 7 | Elizabeth Elaine Coursey |
-| 1857 | 7 | Ashley |
-| 1858 | 7 | michael |
-| 1859 | 7 | Holly Riley |
-| 1860 | 7 | Leslie Baker |
-| 1861 | 7 | John Guider |
-| 1862 | 7 | Kyle |
-| 1863 | 7 | Sasha Hamilton |
-| 1864 | 7 | Mighty Tiltpiece |
-| 1865 | 7 | Janice Simpson |
-| 1866 | 7 | StacyK |
-| 1867 | 7 | Crystal King |
-| 1868 | 6 | Bowling girl |
-| 1869 | 6 | Jessie |
-| 1870 | 6 | Cheeky Dashpiece |
-| 1871 | 6 | Giggy Dropzone |
-| 1872 | 6 | Cara Douglas |
-| 1873 | 6 | Michelle Brown |
-| 1874 | 6 | Ali |
-| 1875 | 6 | Alyssa Malay |
-| 1876 | 6 | Ryan D. Norcross |
-| 1877 | 6 | MD |
-| 1878 | 6 | Cranky Zonebuilder |
+| 1844 | 7 | Chirpy Shiftspin |
+| 1845 | 7 | Lush Tile |
+| 1846 | 7 | Michelle Feliciano |
+| 1847 | 7 | Carl Gadberry |
+| 1848 | 7 | Elizabeth Barnhart Floyd |
+| 1849 | 7 | bluesky |
+| 1850 | 7 | Epic Balanceblock |
+| 1851 | 7 | Ephysta |
+| 1852 | 7 | Marshall Wilson |
+| 1853 | 7 | VikinGs Vnm |
+| 1854 | 7 | Judy Burkhalter |
+| 1855 | 7 | Flashy Cascadeclear |
+| 1856 | 7 | Brenda Ohaus Facher |
+| 1857 | 7 | Elizabeth Elaine Coursey |
+| 1858 | 7 | Ashley |
+| 1859 | 7 | michael |
+| 1860 | 7 | Holly Riley |
+| 1861 | 7 | Leslie Baker |
+| 1862 | 7 | John Guider |
+| 1863 | 7 | Kyle |
+| 1864 | 7 | Sasha Hamilton |
+| 1865 | 7 | Mighty Tiltpiece |
+| 1866 | 7 | Janice Simpson |
+| 1867 | 7 | StacyK |
+| 1868 | 7 | Crystal King |
+| 1869 | 6 | Bowling girl |
+| 1870 | 6 | Jessie |
+| 1871 | 6 | Cheeky Dashpiece |
+| 1872 | 6 | Giggy Dropzone |
+| 1873 | 6 | Cara Douglas |
+| 1874 | 6 | Michelle Brown |
+| 1875 | 6 | Anna Hale |
+| 1876 | 6 | MD |
+| 1877 | 6 | Ali |
+| 1878 | 6 | Ryan D. Norcross |
 | 1879 | 6 | Slay bestie |
-| 1880 | 6 | Anna Hale |
-| 1881 | 6 | Jenea Colvin |
-| 1882 | 5 | Duck |
-| 1883 | 5 | Michelle Feliciano |
+| 1880 | 6 | Cranky Zonebuilder |
+| 1881 | 6 | Alyssa Malay |
+| 1882 | 6 | Jenea Colvin |
+| 1883 | 5 | Duck |
 | 1884 | 5 | Quirky Liney |
 | 1885 | 5 | Splashy |
 | 1886 | 5 | Cheery Filler |

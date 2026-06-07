@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 21:26:18 UTC
+# Standings for team1 as of 2026-06-07 21:26:42 UTC
 
 **Total Participants:** 1581
 
@@ -74,7 +74,7 @@
 | 66 | 1017 | Lisa Müller |
 | 67 | 981 | Court Court |
 | 68 | 980 | Bre Maugh |
-| 69 | 962 | Kimberly Hernandez |
+| 69 | 963 | Kimberly Hernandez |
 | 70 | 939 | Uneekly Mayde |
 | 71 | 935 | Whitney Butler |
 | 72 | 934 | Eric Mcgaughy |
@@ -336,47 +336,47 @@
 | 328 | 179 | Lively Riserpiece |
 | 329 | 177 | Valerie Alexander |
 | 330 | 175 | Amy Lynn Leifheit |
-| 331 | 174 | Guy Incognito |
-| 332 | 174 | ChunLi |
-| 333 | 173 | izzybella |
-| 334 | 173 | LuckyStar |
-| 335 | 171 | Telisha Mims |
-| 336 | 171 | Tosha Michelle |
-| 337 | 170 | Slinky Party |
-| 338 | 169 | Asha Langford |
-| 339 | 169 | Nickeya Phillips |
-| 340 | 167 | Mister Reid |
-| 341 | 167 | Dedra M Prester |
-| 342 | 166 | Teresa Yanira Cepeda |
-| 343 | 166 | BlackQueen105 |
-| 344 | 165 | Tanisha Taylor |
-| 345 | 165 | Skippy |
-| 346 | 165 | SceneGreenz Wali |
-| 347 | 165 | Slinky Snapbuilder |
-| 348 | 165 | Maribel Vasquez |
-| 349 | 164 | TBABYJ |
-| 350 | 164 | De'Nell Edwards |
+| 331 | 175 | Skippy |
+| 332 | 174 | Guy Incognito |
+| 333 | 174 | ChunLi |
+| 334 | 173 | izzybella |
+| 335 | 173 | LuckyStar |
+| 336 | 171 | Telisha Mims |
+| 337 | 171 | Tosha Michelle |
+| 338 | 170 | Slinky Party |
+| 339 | 169 | Asha Langford |
+| 340 | 169 | Nickeya Phillips |
+| 341 | 167 | Mister Reid |
+| 342 | 167 | Dedra M Prester |
+| 343 | 166 | Teresa Yanira Cepeda |
+| 344 | 166 | BlackQueen105 |
+| 345 | 165 | SceneGreenz Wali |
+| 346 | 165 | Slinky Snapbuilder |
+| 347 | 165 | Maribel Vasquez |
+| 348 | 165 | Tanisha Taylor |
+| 349 | 164 | De'Nell Edwards |
+| 350 | 164 | TBABYJ |
 | 351 | 164 | Giggy Clusterer |
 | 352 | 163 | Daring Blockclear |
-| 353 | 162 | Lauraly |
-| 354 | 162 | Speedy Stacky |
-| 355 | 162 | Giggy Tower |
-| 356 | 162 | JaClanDiah |
+| 353 | 162 | Giggy Tower |
+| 354 | 162 | Lauraly |
+| 355 | 162 | JaClanDiah |
+| 356 | 162 | Speedy Stacky |
 | 357 | 161 | Devron Reedy |
-| 358 | 160 | Zippy Tilefall |
-| 359 | 160 | Adrian Wilson |
-| 360 | 160 | Tyiesha Pie Farmer |
-| 361 | 160 | Cynthia Bradley |
-| 362 | 160 | Larina Cherie Johnson |
-| 363 | 160 | Carolyn Smith |
+| 358 | 160 | Carolyn Smith |
+| 359 | 160 | Cynthia Bradley |
+| 360 | 160 | Larina Cherie Johnson |
+| 361 | 160 | Adrian Wilson |
+| 362 | 160 | Zippy Tilefall |
+| 363 | 160 | Tyiesha Pie Farmer |
 | 364 | 159 | Chummy Frame |
-| 365 | 159 | Travis Davison |
-| 366 | 159 | Darrel K Pemberton |
-| 367 | 159 | Bubbly Piececlear |
-| 368 | 159 | Bambi Johnson |
-| 369 | 159 | MamushiOh |
-| 370 | 158 | SeanSanchez |
-| 371 | 158 | Charlene Baltimore |
+| 365 | 159 | MamushiOh |
+| 366 | 159 | Bubbly Piececlear |
+| 367 | 159 | Bambi Johnson |
+| 368 | 159 | Darrel K Pemberton |
+| 369 | 159 | Travis Davison |
+| 370 | 158 | Charlene Baltimore |
+| 371 | 158 | SeanSanchez |
 | 372 | 158 | Kimberly Linares Hernandez |
 | 373 | 157 | Hasty Glidezone |
 | 374 | 157 | Courtney Cicoria |
@@ -487,13 +487,13 @@
 | 479 | 120 | Giggy Edgefit |
 | 480 | 120 | Kp |
 | 481 | 120 | Zappy Snapgrid |
-| 482 | 120 | Rebecca Jackson |
-| 483 | 120 | Leavon Smith |
-| 484 | 120 | Teri Marie Clayton |
-| 485 | 120 | Brenda Malachi-butler |
-| 486 | 119 | Jenni Hardman |
-| 487 | 119 | TY Newme Batts |
-| 488 | 119 | wmedina67 |
+| 482 | 120 | wmedina67 |
+| 483 | 120 | Rebecca Jackson |
+| 484 | 120 | Leavon Smith |
+| 485 | 120 | Teri Marie Clayton |
+| 486 | 120 | Brenda Malachi-butler |
+| 487 | 119 | Jenni Hardman |
+| 488 | 119 | TY Newme Batts |
 | 489 | 119 | Lexx Robins |
 | 490 | 119 | Lozuna |
 | 491 | 118 | Rhianna Dinki Austin |
