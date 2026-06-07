@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 03:58:42 UTC
+# Standings for team4 as of 2026-06-07 03:59:19 UTC
 
 **Total Participants:** 1331
 
@@ -30,10 +30,10 @@
 | 22 | 2882 | Fruitpunch |
 | 23 | 2643 | t |
 | 24 | 2537 | Bubbly Twistpiece |
-| 25 | 1944 | Juan Ford |
-| 26 | 1908 | Michele Walker |
-| 27 | 1902 | Dana Rinaldi |
-| 28 | 1833 | Alexandria Frazier |
+| 25 | 2133 | Alexandria Frazier |
+| 26 | 1944 | Juan Ford |
+| 27 | 1908 | Michele Walker |
+| 28 | 1902 | Dana Rinaldi |
 | 29 | 1810 | Squirrel Donkey |
 | 30 | 1783 | Loony Rotater |
 | 31 | 1732 | Witty Clicky |
@@ -103,9 +103,9 @@
 | 95 | 467 | vag1974 |
 | 96 | 461 | Kayla Fuentes |
 | 97 | 461 | Cranky Towerbuilder |
-| 98 | 457 | Lisa Garcia |
-| 99 | 450 | Sassy Column |
-| 100 | 445 | GeorgeButts |
+| 98 | 457 | GeorgeButts |
+| 99 | 457 | Lisa Garcia |
+| 100 | 450 | Sassy Column |
 | 101 | 443 | Crissy Hoffman |
 | 102 | 440 | Jewelz |
 | 103 | 432 | Sarah Berry Stevens |
@@ -239,36 +239,36 @@
 | 231 | 164 | Stacy G |
 | 232 | 161 | Bouncy |
 | 233 | 160 | Janet Sanfilippo Sullivan |
-| 234 | 160 | Tipsy Builderline |
+| 234 | 160 | Morgan Stevens |
 | 235 | 160 | Frothy Pattern |
-| 236 | 160 | Morgan Stevens |
-| 237 | 159 | Jackie Polanco |
+| 236 | 160 | kellie |
+| 237 | 160 | Tipsy Builderline |
 | 238 | 159 | Andrick |
-| 239 | 159 | kellie |
-| 240 | 157 | Laguya |
-| 241 | 157 | Mark Norton |
+| 239 | 159 | Jackie Polanco |
+| 240 | 157 | Mark Norton |
+| 241 | 157 | Laguya |
 | 242 | 155 | Danny Frausto |
-| 243 | 155 | Bonnie Powell |
-| 244 | 155 | Shayna Vaigneur-Hall |
+| 243 | 155 | Shayna Vaigneur-Hall |
+| 244 | 155 | Bonnie Powell |
 | 245 | 154 | Lani |
-| 246 | 153 | Shelby |
-| 247 | 153 | Queen B |
-| 248 | 152 | Samara Garcia |
-| 249 | 152 | Jumpy Builderpiece |
-| 250 | 150 | Hardy Fuller |
+| 246 | 153 | Queen B |
+| 247 | 153 | Shelby |
+| 248 | 152 | Jumpy Builderpiece |
+| 249 | 152 | Samara Garcia |
+| 250 | 150 | Heidi Anne Scheiderer |
 | 251 | 150 | MrsReap |
-| 252 | 150 | Heidi Anne Scheiderer |
+| 252 | 150 | Hardy Fuller |
 | 253 | 148 | Joseph Hunter |
 | 254 | 148 | Smiley Gridzone |
-| 255 | 147 | EvoKitty |
-| 256 | 147 | Hannah Pazar |
-| 257 | 147 | Iforget |
-| 258 | 146 | Jasmine Marie |
-| 259 | 145 | June Hoffman |
-| 260 | 144 | Yesenia Castro Monreal |
-| 261 | 143 | Brennan Shea Greene |
-| 262 | 143 | CJ |
-| 263 | 143 | Cherrypir05 |
+| 255 | 147 | Cherrypir05 |
+| 256 | 147 | EvoKitty |
+| 257 | 147 | Hannah Pazar |
+| 258 | 147 | Iforget |
+| 259 | 146 | Jasmine Marie |
+| 260 | 145 | June Hoffman |
+| 261 | 144 | Yesenia Castro Monreal |
+| 262 | 143 | Brennan Shea Greene |
+| 263 | 143 | CJ |
 | 264 | 142 | Chris McBlockster |
 | 265 | 141 | Chilly Pivot |
 | 266 | 141 | Justin Michael |
