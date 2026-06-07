@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 11:22:18 UTC
+# Standings for team2 as of 2026-06-07 11:22:40 UTC
 
 **Total Participants:** 1705
 
@@ -829,110 +829,110 @@
 | 821 | 58 | Lindsey Davidson |
 | 822 | 58 | Slinky Winder |
 | 823 | 58 | Pjrobinsonnn |
-| 824 | 57 | Funky Blockmatch |
-| 825 | 57 | YUKITATA |
-| 826 | 57 | Brandy Wallace |
-| 827 | 57 | Jessica Rose Engebretson |
-| 828 | 57 | Carmina Truoiolo |
-| 829 | 57 | Kris Dusza Dodus |
-| 830 | 57 | Britt |
-| 831 | 57 | Brandi Vandevanter-Duke |
-| 832 | 57 | Jason P. Schwartz |
-| 833 | 57 | Zappy Pivotfall |
-| 834 | 57 | Corina Marie Prunty |
+| 824 | 57 | Brandi Vandevanter-Duke |
+| 825 | 57 | Zappy Pivotfall |
+| 826 | 57 | Kris Dusza Dodus |
+| 827 | 57 | Funky Blockmatch |
+| 828 | 57 | Jessica Rose Engebretson |
+| 829 | 57 | Corina Marie Prunty |
+| 830 | 57 | Jason P. Schwartz |
+| 831 | 57 | Britt |
+| 832 | 57 | Carmina Truoiolo |
+| 833 | 57 | Brandy Wallace |
+| 834 | 57 | YUKITATA |
 | 835 | 56 | Distro |
-| 836 | 56 | Kevin Perez |
-| 837 | 56 | Tina Carr |
-| 838 | 56 | Natalie M. Arredondo |
-| 839 | 56 | Glowing Earthy Embers |
-| 840 | 56 | Monee Stronger |
-| 841 | 56 | Jackelyn Ford |
-| 842 | 55 | Mandy Smart |
-| 843 | 55 | James Calhoun |
-| 844 | 55 | Tracy Lee |
-| 845 | 55 | Misty McElroy |
-| 846 | 55 | BrendaLee NolanBos |
-| 847 | 55 | Beverly-Jo Peterson |
-| 848 | 55 | Allison Peterson |
+| 836 | 56 | Tina Carr |
+| 837 | 56 | Natalie M. Arredondo |
+| 838 | 56 | Kevin Perez |
+| 839 | 56 | Jackelyn Ford |
+| 840 | 56 | Sandy Molina |
+| 841 | 56 | Glowing Earthy Embers |
+| 842 | 56 | Monee Stronger |
+| 843 | 55 | Jessica Bowman |
+| 844 | 55 | Allison Peterson |
+| 845 | 55 | Beverly-Jo Peterson |
+| 846 | 55 | Tracy Lee |
+| 847 | 55 | Anthony Chavez |
+| 848 | 55 | BrendaLee NolanBos |
 | 849 | 55 | Tracey Cox |
-| 850 | 55 | BB |
-| 851 | 55 | Mona Smith |
-| 852 | 55 | PrissyPris |
-| 853 | 55 | Jessica Bowman |
-| 854 | 55 | Anthony Chavez |
-| 855 | 55 | Teloney Humphrey |
+| 850 | 55 | Mona Smith |
+| 851 | 55 | Teloney Humphrey |
+| 852 | 55 | BB |
+| 853 | 55 | Kelly Hall Whitt |
+| 854 | 55 | Misty McElroy |
+| 855 | 55 | James Calhoun |
 | 856 | 55 | Joanne Haynes |
-| 857 | 55 | Kelly Hall Whitt |
-| 858 | 54 | Stazy Warner |
-| 859 | 54 | Aneokly |
+| 857 | 55 | PrissyPris |
+| 858 | 55 | Mandy Smart |
+| 859 | 54 | WhitS |
 | 860 | 54 | Christina Nycol |
 | 861 | 54 | Jess Duehring |
-| 862 | 54 | WhitS |
-| 863 | 54 | Rae Madewell |
+| 862 | 54 | Rae Madewell |
+| 863 | 54 | Aneokly |
 | 864 | 54 | Josie Mendivil |
-| 865 | 53 | Witty Riser |
-| 866 | 53 | CK Hancock |
-| 867 | 53 | Frisky Linkmatch |
-| 868 | 53 | Peppy Piececlear |
-| 869 | 53 | Topknot13 |
-| 870 | 53 | Kelli Pazour |
-| 871 | 53 | wutrwerdz |
-| 872 | 53 | Dawn Marie |
-| 873 | 53 | Maithan Conour |
-| 874 | 53 | Pamela Gambrell |
-| 875 | 52 | Alimae |
-| 876 | 52 | Diane Byrd |
-| 877 | 52 | Happy Curvebuilder |
-| 878 | 52 | Amber Marie Lacey |
+| 865 | 54 | Stazy Warner |
+| 866 | 53 | Frisky Linkmatch |
+| 867 | 53 | Kelli Pazour |
+| 868 | 53 | wutrwerdz |
+| 869 | 53 | Pamela Gambrell |
+| 870 | 53 | Peppy Piececlear |
+| 871 | 53 | Maithan Conour |
+| 872 | 53 | Witty Riser |
+| 873 | 53 | CK Hancock |
+| 874 | 53 | Topknot13 |
+| 875 | 53 | Dawn Marie |
+| 876 | 52 | Alimae |
+| 877 | 52 | Diane Byrd |
+| 878 | 52 | Happy Curvebuilder |
 | 879 | 52 | Frisky Twist |
-| 880 | 52 | Trisha Farley |
-| 881 | 52 | Sherry Ann |
-| 882 | 52 | Chipper Spinzone |
-| 883 | 51 | Chummy Faller |
-| 884 | 51 | Newtwidebody |
-| 885 | 51 | Swanky Twister |
-| 886 | 51 | Daring Blockline |
+| 880 | 52 | Amber Marie Lacey |
+| 881 | 52 | Trisha Farley |
+| 882 | 52 | Sherry Ann |
+| 883 | 52 | Chipper Spinzone |
+| 884 | 51 | Nikki Sadler |
+| 885 | 51 | Chad Atchley |
+| 886 | 51 | Tiffany Powell |
 | 887 | 51 | Loopy Zone |
-| 888 | 51 | Nikki Sadler |
-| 889 | 51 | Angela VanOstrand |
-| 890 | 51 | Brian Giddens |
-| 891 | 51 | Tiffany Powell |
-| 892 | 51 | Tashamonique Puckey |
+| 888 | 51 | Tashamonique Puckey |
+| 889 | 51 | Daring Blockline |
+| 890 | 51 | Chummy Faller |
+| 891 | 51 | Angela VanOstrand |
+| 892 | 51 | Brian Giddens |
 | 893 | 51 | Tito Garcia |
-| 894 | 51 | Chad Atchley |
+| 894 | 51 | Swanky Twister |
 | 895 | 51 | Jennifer McCloskey Launder |
-| 896 | 51 | Joanie Swann Ruiter |
-| 897 | 50 | Timone907 |
+| 896 | 51 | Newtwidebody |
+| 897 | 51 | Joanie Swann Ruiter |
 | 898 | 50 | Angie Rose |
 | 899 | 50 | Sarah Rodriguez |
-| 900 | 50 | Brittany Kay |
-| 901 | 50 | Dawn Thuringer-Baird |
-| 902 | 50 | Shannon Miller- Cooley |
-| 903 | 50 | Stephania Edwards |
-| 904 | 50 | Tabitha Palen |
-| 905 | 50 | Stephen Gillam |
-| 906 | 50 | Tanya Goodwin |
-| 907 | 50 | Charith Lorelle Watson |
-| 908 | 50 | Ashley Jones |
-| 909 | 50 | Matt Solomon |
+| 900 | 50 | Stephania Edwards |
+| 901 | 50 | Brittany Kay |
+| 902 | 50 | Dawn Thuringer-Baird |
+| 903 | 50 | Shannon Miller- Cooley |
+| 904 | 50 | Timone907 |
+| 905 | 50 | Tabitha Palen |
+| 906 | 50 | Stephen Gillam |
+| 907 | 50 | Tanya Goodwin |
+| 908 | 50 | Charith Lorelle Watson |
+| 909 | 50 | Ashley Jones |
 | 910 | 50 | Nanny t |
-| 911 | 50 | Rubics cube |
-| 912 | 50 | Hannah Meadows Hammond |
-| 913 | 50 | Jennifer Wymer |
-| 914 | 50 | Whitt |
-| 915 | 50 | Bouncy Snapmatch |
-| 916 | 50 | Michael James |
-| 917 | 50 | Duck |
-| 918 | 50 | Susan Moyer |
-| 919 | 50 | Duke Morley |
-| 920 | 49 | unvoiced |
-| 921 | 49 | Laura Fagans |
-| 922 | 49 | jme |
-| 923 | 48 | Hoppy Gridder |
-| 924 | 48 | Sandy Molina |
-| 925 | 48 | Ollie |
-| 926 | 48 | Krystle McCaslin |
-| 927 | 48 | Anthony Kordich |
+| 911 | 50 | Matt Solomon |
+| 912 | 50 | Rubics cube |
+| 913 | 50 | Hannah Meadows Hammond |
+| 914 | 50 | Jennifer Wymer |
+| 915 | 50 | Whitt |
+| 916 | 50 | Bouncy Snapmatch |
+| 917 | 50 | Michael James |
+| 918 | 50 | Duck |
+| 919 | 50 | Susan Moyer |
+| 920 | 50 | Duke Morley |
+| 921 | 49 | unvoiced |
+| 922 | 49 | Laura Fagans |
+| 923 | 49 | jme |
+| 924 | 48 | Hoppy Gridder |
+| 925 | 48 | Anthony Kordich |
+| 926 | 48 | Ollie |
+| 927 | 48 | Krystle McCaslin |
 | 928 | 48 | Madbull |
 | 929 | 48 | Katelynn Hunt |
 | 930 | 48 | Pleaze Marshall |
@@ -940,8 +940,8 @@
 | 932 | 48 | Laura Zavala |
 | 933 | 48 | Dizzy Dropzone |
 | 934 | 47 | Christina Whitehead |
-| 935 | 47 | Lisa Rose |
-| 936 | 47 | Mellzey |
+| 935 | 47 | Mellzey |
+| 936 | 47 | Lisa Rose |
 | 937 | 47 | Emily |
 | 938 | 47 | Ozge Akgun Tokat |
 | 939 | 47 | Suzanne Davis |
