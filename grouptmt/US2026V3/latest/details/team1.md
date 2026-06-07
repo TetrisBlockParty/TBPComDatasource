@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 15:50:19 UTC
+# Standings for team1 as of 2026-06-07 15:50:40 UTC
 
 **Total Participants:** 1498
 
@@ -795,31 +795,31 @@
 | 787 | 58 | LaSharon Jackson |
 | 788 | 58 | Kiki |
 | 789 | 57 | Kenny 'Tailormade' Boyd |
-| 790 | 57 | Idelia L Brown |
+| 790 | 57 | S.S |
 | 791 | 57 | Linda Lasha Messenger |
-| 792 | 57 | Desire Rice |
-| 793 | 57 | Kyra Coleman |
-| 794 | 57 | Christy Quick |
+| 792 | 57 | Idelia L Brown |
+| 793 | 57 | Desire Rice |
+| 794 | 57 | Kyra Coleman |
 | 795 | 57 | Danny Talbot |
-| 796 | 56 | Chanel White |
-| 797 | 56 | jeremy92 |
-| 798 | 56 | QueenzMo |
-| 799 | 56 | Maria Baez Medina |
-| 800 | 56 | Lisa Ivy |
-| 801 | 56 | Kyle Conley |
-| 802 | 56 | Sally Elizabeth Hopson |
-| 803 | 55 | Kyle Franklin |
-| 804 | 55 | KoolKimJay |
-| 805 | 55 | Crtjstr |
-| 806 | 55 | Vernon Hoyt |
-| 807 | 55 | Jane Lame |
-| 808 | 55 | nameno |
-| 809 | 54 | Markeita Jones |
-| 810 | 54 | John Spath |
-| 811 | 54 | Embracing Hair |
-| 812 | 54 | Felicia Yahuah Johnson |
+| 796 | 57 | Christy Quick |
+| 797 | 56 | Chanel White |
+| 798 | 56 | jeremy92 |
+| 799 | 56 | QueenzMo |
+| 800 | 56 | Maria Baez Medina |
+| 801 | 56 | Lisa Ivy |
+| 802 | 56 | Kyle Conley |
+| 803 | 56 | Sally Elizabeth Hopson |
+| 804 | 55 | Kyle Franklin |
+| 805 | 55 | KoolKimJay |
+| 806 | 55 | Crtjstr |
+| 807 | 55 | Vernon Hoyt |
+| 808 | 55 | Jane Lame |
+| 809 | 55 | nameno |
+| 810 | 54 | Markeita Jones |
+| 811 | 54 | John Spath |
+| 812 | 54 | Embracing Hair |
 | 813 | 54 | Kashh |
-| 814 | 54 | S.S |
+| 814 | 54 | Felicia Yahuah Johnson |
 | 815 | 54 | deeno |
 | 816 | 54 | Katness |
 | 817 | 53 | Morenita Rodriguez |
@@ -829,14 +829,14 @@
 | 821 | 53 | Shona ShayShay Jones |
 | 822 | 53 | Xrandomx |
 | 823 | 53 | Heather Wilson |
-| 824 | 52 | Chummy Liner |
+| 824 | 52 | Sunny Tumbler |
 | 825 | 52 | Tray Tolliver |
 | 826 | 52 | Raymond Boosie Freeman |
 | 827 | 52 | Giggy Holder |
 | 828 | 52 | Loopy Risepiece |
 | 829 | 52 | Abdul Malik |
 | 830 | 52 | Tootsie Pop |
-| 831 | 52 | Sunny Tumbler |
+| 831 | 52 | Chummy Liner |
 | 832 | 51 | Dizzy Gridmatch |
 | 833 | 51 | Bunnie Celtavini |
 | 834 | 51 | Shanjerrica Taylor Rosell |
