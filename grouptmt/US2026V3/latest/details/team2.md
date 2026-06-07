@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 18:36:20 UTC
+# Standings for team2 as of 2026-06-07 18:36:42 UTC
 
 **Total Participants:** 1852
 
@@ -98,8 +98,8 @@
 | 90 | 916 | Amber Salazar |
 | 91 | 908 | Jazzy Faller |
 | 92 | 899 | Marie Luciano |
-| 93 | 880 | Renee Freeman Jacobson |
-| 94 | 877 | Marquita Toliver |
+| 93 | 893 | Marquita Toliver |
+| 94 | 880 | Renee Freeman Jacobson |
 | 95 | 864 | Helen Thomas |
 | 96 | 856 | Marquetta Johnson |
 | 97 | 839 | Brandi Thompson |
@@ -131,7 +131,7 @@
 | 123 | 603 | Ashlea McBlaine |
 | 124 | 592 | Pooh |
 | 125 | 592 | Nettrainer |
-| 126 | 585 | Gloria May Shook |
+| 126 | 589 | Gloria May Shook |
 | 127 | 585 | Rhonda Diebold |
 | 128 | 581 | Dsabrina Maxey |
 | 129 | 577 | Lindsay Klemp |
@@ -326,43 +326,43 @@
 | 318 | 214 | Stephany Green |
 | 319 | 212 | Flashy Hitter |
 | 320 | 212 | Boldy Fitclear |
-| 321 | 210 | Zappy Liney |
-| 322 | 210 | Robin G |
-| 323 | 209 | Chill Line |
+| 321 | 210 | Robin G |
+| 322 | 210 | Zappy Liney |
+| 323 | 209 | Kimmyc |
 | 324 | 209 | Patria Osuoha |
-| 325 | 209 | Kevin Mccoy |
-| 326 | 209 | Kimmyc |
+| 325 | 209 | Chill Line |
+| 326 | 209 | Kevin Mccoy |
 | 327 | 207 | Joanna Trevin Thompson |
 | 328 | 207 | Amber Cogdill |
-| 329 | 206 | meg |
-| 330 | 206 | Jodi Johnson |
-| 331 | 206 | Tango Sierra |
-| 332 | 204 | Teddy Williams |
-| 333 | 203 | Jill Goff |
+| 329 | 206 | Jodi Johnson |
+| 330 | 206 | Tango Sierra |
+| 331 | 206 | meg |
+| 332 | 205 | Michelle M Braley |
+| 333 | 204 | Teddy Williams |
 | 334 | 203 | Rick |
-| 335 | 203 | Harper |
-| 336 | 201 | Melissa Nash |
-| 337 | 200 | StacyBabee |
-| 338 | 200 | Physhie |
-| 339 | 200 | Precious Womack |
-| 340 | 200 | Sarah Grundisch |
-| 341 | 200 | Eric Wayne Maschman |
-| 342 | 200 | Al Smith Jr |
-| 343 | 200 | August Christy Lathrop |
-| 344 | 199 | Paula Haskins |
-| 345 | 196 | Sassy Twistbuilder |
-| 346 | 196 | Greenie |
-| 347 | 195 | Pamela Raye |
-| 348 | 195 | Bb |
-| 349 | 194 | Chasity Simpson |
-| 350 | 193 | Jason Cunningham |
-| 351 | 193 | Michelle M Braley |
+| 335 | 203 | Jill Goff |
+| 336 | 203 | Harper |
+| 337 | 201 | Melissa Nash |
+| 338 | 200 | StacyBabee |
+| 339 | 200 | Physhie |
+| 340 | 200 | Precious Womack |
+| 341 | 200 | Sarah Grundisch |
+| 342 | 200 | Eric Wayne Maschman |
+| 343 | 200 | Al Smith Jr |
+| 344 | 200 | August Christy Lathrop |
+| 345 | 199 | Paula Haskins |
+| 346 | 196 | Sassy Twistbuilder |
+| 347 | 196 | Greenie |
+| 348 | 195 | Pamela Raye |
+| 349 | 195 | Bb |
+| 350 | 194 | Chasity Simpson |
+| 351 | 193 | Jason Cunningham |
 | 352 | 192 | Raine |
 | 353 | 191 | Jessica Christine |
 | 354 | 191 | Marilyn Mendoza |
 | 355 | 190 | Dad |
-| 356 | 190 | Sherri E Woods Hess |
-| 357 | 190 | Lisa Allen Frisk |
+| 356 | 190 | Lisa Allen Frisk |
+| 357 | 190 | Sherri E Woods Hess |
 | 358 | 189 | Danielle Lyons |
 | 359 | 188 | Rachel Nilles |
 | 360 | 186 | Mouh Med |
