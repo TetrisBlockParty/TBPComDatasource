@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 15:46:20 UTC
+# Standings for team1 as of 2026-06-07 15:46:42 UTC
 
 **Total Participants:** 1497
 
@@ -121,8 +121,8 @@
 | 113 | 529 | Gael Quintana |
 | 114 | 527 | MommaCia |
 | 115 | 518 | Quirky Fallgrid |
-| 116 | 511 | Dizzy Dropper |
-| 117 | 511 | Abraham Espaillat |
+| 116 | 511 | Abraham Espaillat |
+| 117 | 511 | Dizzy Dropper |
 | 118 | 510 | Cj Gorman |
 | 119 | 489 | De'Laonzeo Anthony |
 | 120 | 488 | Trendalyn Webb |
@@ -134,15 +134,15 @@
 | 126 | 441 | Slinky Puzzler |
 | 127 | 439 | Asani CHumba |
 | 128 | 437 | Tobey Marberry |
-| 129 | 434 | Anthony Washington |
-| 130 | 431 | Lashawn Wallace |
-| 131 | 420 | Jessica Carter |
-| 132 | 410 | ELM |
+| 129 | 437 | ELM |
+| 130 | 434 | Anthony Washington |
+| 131 | 431 | Lashawn Wallace |
+| 132 | 420 | Jessica Carter |
 | 133 | 409 | Andre Sanon |
 | 134 | 409 | Lesley Brunkus Cianfaglione |
 | 135 | 408 | Jamal Itzjusmall Chambers |
-| 136 | 404 | Hyper Slamdrop |
-| 137 | 404 | Jason Mungin |
+| 136 | 404 | Jason Mungin |
+| 137 | 404 | Hyper Slamdrop |
 | 138 | 401 | Shell Lewis |
 | 139 | 393 | SPNLover24 |
 | 140 | 389 | GrkGdess |
@@ -151,8 +151,8 @@
 | 143 | 377 | AF Cruz |
 | 144 | 375 | Jenna Renee |
 | 145 | 370 | Allison Baxter |
-| 146 | 367 | Ebony Waynes-robinson |
-| 147 | 367 | Leebo Slice |
+| 146 | 367 | Leebo Slice |
+| 147 | 367 | Ebony Waynes-robinson |
 | 148 | 363 | Christina Rebecca |
 | 149 | 361 | John Staub |
 | 150 | 360 | Felicia Cain |
@@ -166,8 +166,8 @@
 | 158 | 338 | Sheila Burnham |
 | 159 | 334 | Chuck Quarles |
 | 160 | 333 | La'Chae Nickole |
-| 161 | 331 | Simmone T. Kadiri |
-| 162 | 331 | Tina Mitchell |
+| 161 | 331 | Tina Mitchell |
+| 162 | 331 | Simmone T. Kadiri |
 | 163 | 330 | Jessica Russell |
 | 164 | 325 | Tishauna Virgo |
 | 165 | 320 | Tamara N Lee |
@@ -179,8 +179,8 @@
 | 171 | 311 | Dee McCool |
 | 172 | 310 | Chantelle Lee |
 | 173 | 308 | Dena Marie Lee |
-| 174 | 307 | Byron Mario Cawthon |
-| 175 | 307 | Therealdywoune Peay |
+| 174 | 307 | Therealdywoune Peay |
+| 175 | 307 | Byron Mario Cawthon |
 | 176 | 306 | Devin West |
 | 177 | 304 | Calvin Green |
 | 178 | 303 | Roberta Lynn |
@@ -190,19 +190,19 @@
 | 182 | 299 | Kenny MrOnethousand Peck |
 | 183 | 298 | Randizzle |
 | 184 | 297 | Ebony |
-| 185 | 296 | Nikki Hogan |
-| 186 | 296 | NastyFriend |
-| 187 | 296 | Latisha Fairley |
-| 188 | 296 | Rolanda Williams |
+| 185 | 296 | Latisha Fairley |
+| 186 | 296 | Rolanda Williams |
+| 187 | 296 | NastyFriend |
+| 188 | 296 | Nikki Hogan |
 | 189 | 295 | Jayjay Rich |
 | 190 | 293 | Tonya Lee Sanders |
 | 191 | 293 | Mic Balew |
 | 192 | 291 | Brian Taylor |
-| 193 | 290 | Eugina Slater |
-| 194 | 290 | Kaleisha Smith |
-| 195 | 290 | Frisky Fallmatch |
-| 196 | 288 | Alana Renee |
-| 197 | 288 | Block King |
+| 193 | 290 | Kaleisha Smith |
+| 194 | 290 | Frisky Fallmatch |
+| 195 | 290 | Eugina Slater |
+| 196 | 288 | Block King |
+| 197 | 288 | Alana Renee |
 | 198 | 287 | Rackemwillie34 |
 | 199 | 285 | Helen Smith |
 | 200 | 285 | Ashley MyBeauty Daniels |
