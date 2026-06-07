@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 10:36:19 UTC
+# Standings for team1 as of 2026-06-07 10:36:41 UTC
 
 **Total Participants:** 1441
 
@@ -115,7 +115,7 @@
 | 107 | 511 | Dizzy Dropper |
 | 108 | 510 | Cj Gorman |
 | 109 | 505 | Gael Quintana |
-| 110 | 495 | Chris Caniglia |
+| 110 | 498 | Chris Caniglia |
 | 111 | 495 | W.A. Simpson |
 | 112 | 488 | Trendalyn Webb |
 | 113 | 481 | Novaa |
