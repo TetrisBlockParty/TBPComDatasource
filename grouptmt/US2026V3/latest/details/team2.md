@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 21:36:41 UTC
+# Standings for team2 as of 2026-06-07 21:37:18 UTC
 
 **Total Participants:** 1912
 
@@ -195,19 +195,19 @@
 | 187 | 404 | Cristi Doris |
 | 188 | 403 | Flower_child |
 | 189 | 402 | Zesty Strikerbuilder |
-| 190 | 399 | MaddieCherie |
-| 191 | 395 | Sarah Mccolgan |
-| 192 | 392 | Bri St Peter |
-| 193 | 391 | Christina Maria |
-| 194 | 390 | Joni Michelle Morgan |
-| 195 | 390 | La chulis |
-| 196 | 389 | Sara Perkins |
-| 197 | 385 | Amy Gregg |
-| 198 | 384 | Lisa Underwood Desmond |
-| 199 | 383 | Jenna Stahl |
-| 200 | 382 | Nikki Hayes |
-| 201 | 381 | Joslyn Johnson |
-| 202 | 376 | Jason Cook |
+| 190 | 400 | Jason Cook |
+| 191 | 399 | MaddieCherie |
+| 192 | 395 | Sarah Mccolgan |
+| 193 | 392 | Bri St Peter |
+| 194 | 391 | Christina Maria |
+| 195 | 390 | Joni Michelle Morgan |
+| 196 | 390 | La chulis |
+| 197 | 389 | Sara Perkins |
+| 198 | 385 | Amy Gregg |
+| 199 | 384 | Lisa Underwood Desmond |
+| 200 | 383 | Jenna Stahl |
+| 201 | 382 | Nikki Hayes |
+| 202 | 381 | Joslyn Johnson |
 | 203 | 376 | Jamie Fenyus |
 | 204 | 376 | AndyJo |
 | 205 | 375 | Branden Frankowski |
@@ -229,7 +229,7 @@
 | 221 | 347 | Traci Abern |
 | 222 | 346 | Katrien |
 | 223 | 341 | Ratchet |
-| 224 | 337 | Becca Marie |
+| 224 | 339 | Becca Marie |
 | 225 | 336 | Jat |
 | 226 | 328 | Nikki EightySixed |
 | 227 | 328 | Tim Tim |
