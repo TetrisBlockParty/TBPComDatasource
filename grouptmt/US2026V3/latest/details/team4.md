@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 02:26:18 UTC
+# Standings for team4 as of 2026-06-07 02:26:41 UTC
 
 **Total Participants:** 1278
 
@@ -43,8 +43,8 @@
 | 35 | 1333 | Alexandria Frazier |
 | 36 | 1249 | Charlie Lewis |
 | 37 | 1200 | Caitlin Johnson |
-| 38 | 1089 | Ning Quiambao |
-| 39 | 1089 | Bryan DjMagnum Evans |
+| 38 | 1089 | Bryan DjMagnum Evans |
+| 39 | 1089 | Ning Quiambao |
 | 40 | 985 | Nick Graber |
 | 41 | 971 | Loony Towerer |
 | 42 | 966 | BertaF1irta |
@@ -98,25 +98,25 @@
 | 90 | 490 | Jeanette Hailey |
 | 91 | 477 | Malik Thompson |
 | 92 | 467 | vag1974 |
-| 93 | 461 | Cranky Towerbuilder |
-| 94 | 461 | Kayla Fuentes |
+| 93 | 461 | Kayla Fuentes |
+| 94 | 461 | Cranky Towerbuilder |
 | 95 | 443 | Crissy Hoffman |
 | 96 | 440 | Jewelz |
 | 97 | 429 | iiPurgeV2 |
 | 98 | 418 | GeorgeButts |
 | 99 | 416 | Ermadette |
 | 100 | 400 | Nicole Peoples |
-| 101 | 400 | Gigglycat |
-| 102 | 400 | DexterDobbins |
-| 103 | 400 | Amber Doyle |
-| 104 | 400 | Sassy Column |
-| 105 | 398 | Cherry |
-| 106 | 398 | Kay |
+| 101 | 400 | Amber Doyle |
+| 102 | 400 | Gigglycat |
+| 103 | 400 | Sassy Column |
+| 104 | 400 | DexterDobbins |
+| 105 | 398 | Kay |
+| 106 | 398 | Cherry |
 | 107 | 397 | Real Talk Vibes |
 | 108 | 396 | Jackie Jackson |
 | 109 | 395 | Melissa WC |
-| 110 | 392 | Sarah Berry Stevens |
-| 111 | 392 | Lisa Garcia |
+| 110 | 392 | Lisa Garcia |
+| 111 | 392 | Sarah Berry Stevens |
 | 112 | 380 | Becky Doll-Hall |
 | 113 | 378 | Kim |
 | 114 | 376 | Jason Garnatz |
@@ -130,8 +130,8 @@
 | 122 | 347 | Nikki Fuller Johnson |
 | 123 | 346 | Alexis Cor |
 | 124 | 345 | RotatedWrongAgain |
-| 125 | 343 | Cinta Marie |
-| 126 | 343 | Gorica Prusina |
+| 125 | 343 | Gorica Prusina |
+| 126 | 343 | Cinta Marie |
 | 127 | 326 | Bobbie Harrell |
 | 128 | 322 | Taz |
 | 129 | 320 | Futrell Brent |
@@ -140,9 +140,9 @@
 | 132 | 315 | Thomasena Eady Reid |
 | 133 | 311 | Jesse Olive |
 | 134 | 307 | Debby Ruof |
-| 135 | 300 | 2 kool |
-| 136 | 300 | Genag |
-| 137 | 300 | Hasty Builder |
+| 135 | 300 | Genag |
+| 136 | 300 | Hasty Builder |
+| 137 | 300 | 2 kool |
 | 138 | 292 | Katie Martin |
 | 139 | 290 | Dana Smith |
 | 140 | 282 | Nicole |
@@ -171,29 +171,29 @@
 | 163 | 224 | TRUCHILD777$$$ |
 | 164 | 223 | Slimm |
 | 165 | 222 | Danny Ortiz |
-| 166 | 220 | Shmeedo |
-| 167 | 220 | MomyLiz |
+| 166 | 220 | MomyLiz |
+| 167 | 220 | Shmeedo |
 | 168 | 220 | Silly Risegrid |
 | 169 | 220 | Magz |
 | 170 | 218 | Dubiousdust |
 | 171 | 215 | Perky Riserbuilder |
 | 172 | 212 | blockhead |
-| 173 | 211 | Goofy Riser |
-| 174 | 211 | Renee Sapp |
+| 173 | 211 | Renee Sapp |
+| 174 | 211 | Goofy Riser |
 | 175 | 210 | Stephanie Myers |
 | 176 | 207 | Aramat |
 | 177 | 207 | Katie Lynn Petit |
 | 178 | 206 | Shepreneur Sade |
-| 179 | 203 | Patrick Alley |
-| 180 | 201 | Megan Vick |
+| 179 | 203 | Megan Vick |
+| 180 | 203 | Patrick Alley |
 | 181 | 200 | Sarah Montagne Forsberg |
 | 182 | 199 | Colin |
 | 183 | 197 | Tiggerjake |
 | 184 | 195 | Lively Blockpiece |
 | 185 | 195 | Sean Mccleary |
 | 186 | 194 | Lisa lisa |
-| 187 | 194 | Jenn Norcross |
-| 188 | 194 | Chiquita Blue |
+| 187 | 194 | Chiquita Blue |
+| 188 | 194 | Jenn Norcross |
 | 189 | 193 | Tiffany Bunker-Hill |
 | 190 | 191 | Dee Wizz |
 | 191 | 191 | Alma López Morales |
@@ -640,10 +640,10 @@
 | 632 | 54 | SueSally |
 | 633 | 54 | Leslie |
 | 634 | 54 | Scott Baum |
-| 635 | 54 | Lilo |
-| 636 | 54 | Blessedmom865 |
-| 637 | 54 | Earl Edwards |
-| 638 | 54 | Danny Keich III |
+| 635 | 54 | Blessedmom865 |
+| 636 | 54 | Lilo |
+| 637 | 54 | Danny Keich III |
+| 638 | 54 | Earl Edwards |
 | 639 | 54 | Clever Brickzone |
 | 640 | 53 | Haylee Talkington |
 | 641 | 53 | Trang Nguyen |
@@ -651,27 +651,27 @@
 | 643 | 53 | Kimberly Mae Watkins |
 | 644 | 53 | Giggy Risegrid |
 | 645 | 52 | Danielle Sulano |
-| 646 | 52 | Sonya |
-| 647 | 52 | Luunii |
-| 648 | 52 | Meela Abdurrab |
-| 649 | 52 | Angela Adamo-Tash |
-| 650 | 51 | Clever Patterner |
-| 651 | 51 | LilRain |
-| 652 | 51 | Curved carrot |
+| 646 | 52 | Dapper Tiltpiece |
+| 647 | 52 | Sonya |
+| 648 | 52 | Luunii |
+| 649 | 52 | Meela Abdurrab |
+| 650 | 52 | Angela Adamo-Tash |
+| 651 | 51 | Clever Patterner |
+| 652 | 51 | LilRain |
 | 653 | 51 | Michellee Lewis |
-| 654 | 51 | Snippy Racker |
-| 655 | 51 | Vergie Michael |
+| 654 | 51 | Curved carrot |
+| 655 | 51 | Snippy Racker |
 | 656 | 51 | Tod Jae |
-| 657 | 51 | JustLessie |
-| 658 | 51 | Kimberly Civinski |
-| 659 | 51 | Poppy |
-| 660 | 50 | Heather Griffin |
+| 657 | 51 | Vergie Michael |
+| 658 | 51 | JustLessie |
+| 659 | 51 | Kimberly Civinski |
+| 660 | 51 | Poppy |
 | 661 | 50 | Bhakti Sawarkar |
 | 662 | 50 | Bee |
-| 663 | 50 | Lizard |
-| 664 | 50 | Ralph Hell Rell Williams |
+| 663 | 50 | Heather Griffin |
+| 664 | 50 | Lizard |
 | 665 | 50 | Ash Gribble |
-| 666 | 50 | Edward White |
+| 666 | 50 | Ralph Hell Rell Williams |
 | 667 | 50 | Michael Cruz |
 | 668 | 50 | Nova Kain |
 | 669 | 50 | Jacqueline Wright |
@@ -679,17 +679,17 @@
 | 671 | 50 | Diane Obungu |
 | 672 | 50 | Alex Dawn |
 | 673 | 50 | Melissa Elizabeth |
-| 674 | 50 | Loony Edge |
+| 674 | 50 | Edward White |
 | 675 | 50 | Slinky Column |
 | 676 | 50 | Hooti Smile |
 | 677 | 50 | Genger |
-| 678 | 49 | Meghan Etchells |
-| 679 | 49 | Erica Armstrong Baz |
-| 680 | 49 | Daffney Starr |
-| 681 | 49 | Ben Figueroa |
-| 682 | 49 | Mrsjcraw18 |
-| 683 | 49 | Matthew Wilcox |
-| 684 | 49 | Dapper Tiltpiece |
+| 678 | 50 | Loony Edge |
+| 679 | 49 | Meghan Etchells |
+| 680 | 49 | Erica Armstrong Baz |
+| 681 | 49 | Daffney Starr |
+| 682 | 49 | Ben Figueroa |
+| 683 | 49 | Mrsjcraw18 |
+| 684 | 49 | Matthew Wilcox |
 | 685 | 49 | Candiecane324 |
 | 686 | 49 | Tammy Wells |
 | 687 | 49 | Angelo L Casillas |
