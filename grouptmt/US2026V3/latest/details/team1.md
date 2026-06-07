@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 18:44:20 UTC
+# Standings for team1 as of 2026-06-07 18:44:44 UTC
 
 **Total Participants:** 1539
 
@@ -552,67 +552,67 @@
 | 544 | 98 | Jessie N Michael Silvers |
 | 545 | 98 | Michael Smith |
 | 546 | 97 | Shanell Thomas |
-| 547 | 97 | Nichole Horsley-Conn |
-| 548 | 97 | Kristie |
-| 549 | 97 | DaemahnFriday |
-| 550 | 97 | Stephen Garland |
-| 551 | 97 | Pretty Yella |
-| 552 | 97 | Andrew Jay Vaughn |
-| 553 | 97 | Lootch |
-| 554 | 97 | Twisty Cascadeclear |
-| 555 | 96 | Guard Up |
-| 556 | 96 | Yazz |
-| 557 | 96 | Sherri Keys |
-| 558 | 95 | Paul Pendley |
-| 559 | 95 | Nona Harriel |
+| 547 | 97 | Andrew Jay Vaughn |
+| 548 | 97 | Twisty Cascadeclear |
+| 549 | 97 | Nichole Horsley-Conn |
+| 550 | 97 | DaemahnFriday |
+| 551 | 97 | Kristie |
+| 552 | 97 | Stephen Garland |
+| 553 | 97 | Pretty Yella |
+| 554 | 97 | Lootch |
+| 555 | 96 | Yazz |
+| 556 | 96 | Sherri Keys |
+| 557 | 96 | Guard Up |
+| 558 | 95 | Danny Talbot |
+| 559 | 95 | Angela Kitchens |
 | 560 | 95 | Adrian Harris |
-| 561 | 95 | Angela Kitchens |
-| 562 | 95 | Danny Talbot |
-| 563 | 95 | Shiny Lift |
-| 564 | 95 | TieMs BHughez |
-| 565 | 94 | Marlainia Boyd |
-| 566 | 94 | Sha Anderson |
-| 567 | 94 | Sunny Clicky |
-| 568 | 94 | Derald Miller |
-| 569 | 93 | Rene Hicks |
-| 570 | 93 | Holly Baker |
-| 571 | 93 | FunTime |
-| 572 | 93 | C Lo Green |
-| 573 | 92 | Terrance Tindall |
+| 561 | 95 | TieMs BHughez |
+| 562 | 95 | Shiny Lift |
+| 563 | 95 | Paul Pendley |
+| 564 | 95 | Nona Harriel |
+| 565 | 94 | Sha Anderson |
+| 566 | 94 | Sunny Clicky |
+| 567 | 94 | Derald Miller |
+| 568 | 94 | Marlainia Boyd |
+| 569 | 93 | Holly Baker |
+| 570 | 93 | Rene Hicks |
+| 571 | 93 | C Lo Green |
+| 572 | 93 | FunTime |
+| 573 | 93 | Victor |
 | 574 | 92 | Zappy Snapgrid |
-| 575 | 92 | Cachet A Ward |
-| 576 | 92 | Poppy Twister |
+| 575 | 92 | Poppy Twister |
+| 576 | 92 | Cachet A Ward |
 | 577 | 92 | Kimberly Anderson |
-| 578 | 91 | Zappy Clearfit |
-| 579 | 91 | Karen Denen |
-| 580 | 91 | Soubletzy |
+| 578 | 92 | Terrance Tindall |
+| 579 | 91 | Soubletzy |
+| 580 | 91 | Zappy Clearfit |
 | 581 | 91 | David A Alvino |
-| 582 | 90 | Shameka Tiffany |
-| 583 | 90 | crumb bumc |
-| 584 | 90 | messyboots |
-| 585 | 90 | Esha I'msoproudofmyself Davis |
-| 586 | 90 | Essence Jones |
-| 587 | 90 | Rissa Rozay |
-| 588 | 90 | mya |
-| 589 | 90 | Slinky Fallzone |
-| 590 | 89 | Marc Papa |
-| 591 | 89 | Tracy Feyler |
-| 592 | 89 | Jazzy Bridger |
-| 593 | 89 | Daring Riserfit |
-| 594 | 88 | Brenda Malachi-butler |
-| 595 | 88 | Sallie Sanborn |
-| 596 | 88 | Vera Beckford |
-| 597 | 88 | Spicy Shatterblock |
+| 582 | 91 | Karen Denen |
+| 583 | 90 | Essence Jones |
+| 584 | 90 | Esha I'msoproudofmyself Davis |
+| 585 | 90 | Slinky Fallzone |
+| 586 | 90 | Rissa Rozay |
+| 587 | 90 | messyboots |
+| 588 | 90 | crumb bumc |
+| 589 | 90 | Shameka Tiffany |
+| 590 | 90 | mya |
+| 591 | 89 | Marc Papa |
+| 592 | 89 | Tracy Feyler |
+| 593 | 89 | Jazzy Bridger |
+| 594 | 89 | Daring Riserfit |
+| 595 | 88 | Brenda Malachi-butler |
+| 596 | 88 | Sallie Sanborn |
+| 597 | 88 | Vera Beckford |
 | 598 | 88 | Rachel Renae Bettis |
-| 599 | 87 | Joseph Vs Cap |
-| 600 | 87 | Victor |
-| 601 | 87 | Jackytrain52 |
-| 602 | 87 | Natalie Burroughs |
-| 603 | 86 | Angelique Talbot |
-| 604 | 86 | krd |
+| 599 | 88 | Spicy Shatterblock |
+| 600 | 87 | Joseph Vs Cap |
+| 601 | 87 | Natalie Burroughs |
+| 602 | 87 | Jackytrain52 |
+| 603 | 86 | Tweet Turner |
+| 604 | 86 | Giddy Staggerpiece |
 | 605 | 86 | MrsDontPlay |
-| 606 | 86 | Giddy Staggerpiece |
-| 607 | 86 | Tweet Turner |
+| 606 | 86 | krd |
+| 607 | 86 | Angelique Talbot |
 | 608 | 86 | Messy Live |
 | 609 | 86 | RylonJones |
 | 610 | 86 | Cm |
