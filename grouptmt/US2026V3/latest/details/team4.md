@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 10:00:18 UTC
+# Standings for team4 as of 2026-06-07 10:00:42 UTC
 
 **Total Participants:** 1438
 
@@ -24,7 +24,7 @@
 | 16 | 3797 | Hanan Hana |
 | 17 | 3784 | Tyra Brooke Everman Forest |
 | 18 | 3776 | Dana Smith |
-| 19 | 3723 | Bubbly Twistpiece |
+| 19 | 3728 | Bubbly Twistpiece |
 | 20 | 3701 | BertaF1irta |
 | 21 | 3667 | Daring Ziggy |
 | 22 | 3643 | Jackie Lucas |
@@ -131,8 +131,8 @@
 | 123 | 418 | Aisha Estrada |
 | 124 | 415 | Chuck Gannon |
 | 125 | 414 | Gigglycat |
-| 126 | 406 | Kelley Roach |
-| 127 | 402 | Real Talk Vibes |
+| 126 | 412 | Real Talk Vibes |
+| 127 | 406 | Kelley Roach |
 | 128 | 400 | DexterDobbins |
 | 129 | 400 | Nicole Peoples |
 | 130 | 400 | Amber Doyle |
