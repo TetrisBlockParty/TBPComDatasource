@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 14:42:42 UTC
+# Standings for team2 as of 2026-06-07 14:43:19 UTC
 
 **Total Participants:** 1775
 
@@ -21,7 +21,7 @@
 | 13 | 5704 | Cori Keberlein |
 | 14 | 5150 | boblawboblaw |
 | 15 | 4963 | Dapper Rollout |
-| 16 | 4800 | Crafty Ziggy |
+| 16 | 4900 | Crafty Ziggy |
 | 17 | 4668 | Lola C Davis |
 | 18 | 4459 | Kathleen M Cox |
 | 19 | 4372 | Renee Weedling |
@@ -231,8 +231,8 @@
 | 223 | 295 | Brittney Williams |
 | 224 | 294 | Vistabrat |
 | 225 | 292 | James Ward |
-| 226 | 284 | Becca Marie |
-| 227 | 281 | Theresa Hollinger |
+| 226 | 285 | Theresa Hollinger |
+| 227 | 284 | Becca Marie |
 | 228 | 280 | Loopy Dropper |
 | 229 | 279 | Curly Windbreaker |
 | 230 | 278 | Amy Nicole McCanne |
@@ -354,18 +354,18 @@
 | 346 | 180 | Skye Ehret |
 | 347 | 180 | Happy |
 | 348 | 178 | Martha Lynn Wiggins |
-| 349 | 177 | Jennifer McClure |
-| 350 | 177 | Rick |
-| 351 | 176 | Reign Hustler |
-| 352 | 175 | Tina Marie |
-| 353 | 175 | Lashanda Bertram |
-| 354 | 175 | Amanda Bottorff |
-| 355 | 175 | Epic Tilemaker |
-| 356 | 175 | Michelle M Braley |
-| 357 | 174 | ZBee |
-| 358 | 174 | Jerry L Morales |
-| 359 | 174 | Rocroc mo |
-| 360 | 174 | Zany Wrecker |
+| 349 | 177 | Zany Wrecker |
+| 350 | 177 | Jennifer McClure |
+| 351 | 177 | Rick |
+| 352 | 176 | Reign Hustler |
+| 353 | 175 | Michelle M Braley |
+| 354 | 175 | Tina Marie |
+| 355 | 175 | Lashanda Bertram |
+| 356 | 175 | Amanda Bottorff |
+| 357 | 175 | Epic Tilemaker |
+| 358 | 174 | ZBee |
+| 359 | 174 | Jerry L Morales |
+| 360 | 174 | Rocroc mo |
 | 361 | 172 | Carolyn McNaughton |
 | 362 | 172 | Mikia Stokes |
 | 363 | 170 | Sharon L Brazelton |
@@ -374,17 +374,17 @@
 | 366 | 169 | Derrick |
 | 367 | 169 | Jaimie Walters |
 | 368 | 168 | Gwendolyn Boykin Mobbs |
-| 369 | 168 | Danielle Lyons |
-| 370 | 168 | Missy Renia |
+| 369 | 168 | Missy Renia |
+| 370 | 168 | Danielle Lyons |
 | 371 | 167 | Spicy Snapclear |
 | 372 | 167 | Chummy Faller |
-| 373 | 166 | Melmel |
-| 374 | 166 | Katie Jones |
+| 373 | 166 | Katie Jones |
+| 374 | 166 | Melmel |
 | 375 | 165 | Sandy Justus |
-| 376 | 164 | Loopy Tower |
-| 377 | 164 | Sillyk |
-| 378 | 164 | Cara Rivera |
-| 379 | 164 | Elliott Mikila |
+| 376 | 164 | Sillyk |
+| 377 | 164 | Elliott Mikila |
+| 378 | 164 | Loopy Tower |
+| 379 | 164 | Cara Rivera |
 | 380 | 164 | Aldotfus Williams |
 | 381 | 163 | Joannah Capilitan |
 | 382 | 163 | Rosalie Call Kehlenbeck |
