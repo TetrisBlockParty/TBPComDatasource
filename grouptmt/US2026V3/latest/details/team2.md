@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 21:12:43 UTC
+# Standings for team2 as of 2026-06-07 21:13:19 UTC
 
 **Total Participants:** 1905
 
@@ -174,53 +174,53 @@
 | 166 | 453 | Kimberly Cowan |
 | 167 | 448 | Eric Drane |
 | 168 | 444 | Ashley Green |
-| 169 | 436 | Gill |
-| 170 | 436 | MegaPooh |
-| 171 | 429 | Cool Climber |
-| 172 | 429 | Snappy Blockbuilder |
-| 173 | 424 | Danielle Blount |
-| 174 | 418 | Zany Blockclear |
-| 175 | 418 | Twisty Buildgrid |
-| 176 | 418 | Kelly Rogers |
-| 177 | 416 | Nutty Curver |
-| 178 | 416 | Suki Jacobs |
-| 179 | 414 | Tara |
-| 180 | 413 | Chirpy Grid |
-| 181 | 409 | Erin Thomas |
-| 182 | 408 | Lyric Price |
-| 183 | 407 | Crystal Allen |
-| 184 | 406 | Frilly Dashfit |
-| 185 | 404 | Cristi Doris |
-| 186 | 403 | Flower_child |
-| 187 | 399 | MaddieCherie |
-| 188 | 397 | Zesty Strikerbuilder |
-| 189 | 395 | Sarah Mccolgan |
-| 190 | 390 | La chulis |
-| 191 | 390 | Joni Michelle Morgan |
-| 192 | 389 | Sara Perkins |
-| 193 | 385 | Amy Gregg |
-| 194 | 384 | Lisa Underwood Desmond |
-| 195 | 383 | Jenna Stahl |
-| 196 | 382 | Nikki Hayes |
-| 197 | 381 | Joslyn Johnson |
-| 198 | 376 | Jamie Fenyus |
-| 199 | 376 | AndyJo |
-| 200 | 376 | Jason Cook |
-| 201 | 375 | Branden Frankowski |
-| 202 | 375 | Christina Maria |
-| 203 | 375 | Milad Arzani |
-| 204 | 373 | Hoppy Mover |
-| 205 | 373 | H |
-| 206 | 371 | Brittni Lawrence |
-| 207 | 370 | giamy |
-| 208 | 368 | Goofy Gridclear |
-| 209 | 367 | Justin McCray |
-| 210 | 365 | Monique Frantz |
-| 211 | 364 | Loopy Curvebuilder |
-| 212 | 363 | Brenda Jones |
-| 213 | 362 | Jennifer Smith |
-| 214 | 360 | Jacob Carpenter |
-| 215 | 359 | Sedy |
+| 169 | 439 | Sedy |
+| 170 | 436 | Gill |
+| 171 | 436 | MegaPooh |
+| 172 | 429 | Cool Climber |
+| 173 | 429 | Snappy Blockbuilder |
+| 174 | 424 | Danielle Blount |
+| 175 | 418 | Zany Blockclear |
+| 176 | 418 | Twisty Buildgrid |
+| 177 | 418 | Kelly Rogers |
+| 178 | 416 | Nutty Curver |
+| 179 | 416 | Suki Jacobs |
+| 180 | 414 | Tara |
+| 181 | 413 | Chirpy Grid |
+| 182 | 409 | Erin Thomas |
+| 183 | 408 | Lyric Price |
+| 184 | 407 | Crystal Allen |
+| 185 | 406 | Frilly Dashfit |
+| 186 | 404 | Cristi Doris |
+| 187 | 403 | Flower_child |
+| 188 | 399 | MaddieCherie |
+| 189 | 397 | Zesty Strikerbuilder |
+| 190 | 395 | Sarah Mccolgan |
+| 191 | 390 | La chulis |
+| 192 | 390 | Joni Michelle Morgan |
+| 193 | 389 | Sara Perkins |
+| 194 | 385 | Amy Gregg |
+| 195 | 384 | Lisa Underwood Desmond |
+| 196 | 383 | Jenna Stahl |
+| 197 | 382 | Nikki Hayes |
+| 198 | 381 | Joslyn Johnson |
+| 199 | 376 | Jamie Fenyus |
+| 200 | 376 | AndyJo |
+| 201 | 376 | Jason Cook |
+| 202 | 375 | Branden Frankowski |
+| 203 | 375 | Christina Maria |
+| 204 | 375 | Milad Arzani |
+| 205 | 373 | Hoppy Mover |
+| 206 | 373 | H |
+| 207 | 371 | Brittni Lawrence |
+| 208 | 370 | giamy |
+| 209 | 368 | Goofy Gridclear |
+| 210 | 367 | Justin McCray |
+| 211 | 365 | Monique Frantz |
+| 212 | 364 | Loopy Curvebuilder |
+| 213 | 363 | Brenda Jones |
+| 214 | 362 | Jennifer Smith |
+| 215 | 360 | Jacob Carpenter |
 | 216 | 358 | Breeana Bennett |
 | 217 | 349 | Theresa Hollinger |
 | 218 | 347 | Traci Abern |
