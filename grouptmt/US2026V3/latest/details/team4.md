@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 11:38:18 UTC
+# Standings for team4 as of 2026-06-07 11:38:40 UTC
 
 **Total Participants:** 1453
 
@@ -194,22 +194,22 @@
 | 186 | 262 | squareMel |
 | 187 | 261 | Waxboss |
 | 188 | 260 | Shmeedo |
-| 189 | 259 | Jessica Peyton |
-| 190 | 253 | Shepreneur Sade |
+| 189 | 260 | Magz |
+| 190 | 259 | Jessica Peyton |
 | 191 | 253 | Tammy June |
-| 192 | 249 | Piece of Cake |
-| 193 | 247 | Joseph Anthony Watkins |
-| 194 | 246 | Lucy Honer |
-| 195 | 242 | Danny Ortiz |
-| 196 | 241 | Lush Fitblock |
-| 197 | 241 | Alma López Morales |
-| 198 | 241 | Tawna Curry |
-| 199 | 237 | Anna Gribble |
-| 200 | 236 | BusterBear56 |
+| 192 | 253 | Shepreneur Sade |
+| 193 | 249 | Piece of Cake |
+| 194 | 247 | Joseph Anthony Watkins |
+| 195 | 246 | Lucy Honer |
+| 196 | 242 | Danny Ortiz |
+| 197 | 241 | Tawna Curry |
+| 198 | 241 | Lush Fitblock |
+| 199 | 241 | Alma López Morales |
+| 200 | 237 | Anna Gribble |
 | 201 | 236 | Becky McCool |
-| 202 | 233 | Christy Beezley-Forbush |
-| 203 | 231 | Patrick Alley |
-| 204 | 230 | Magz |
+| 202 | 236 | BusterBear56 |
+| 203 | 233 | Christy Beezley-Forbush |
+| 204 | 231 | Patrick Alley |
 | 205 | 230 | gabs |
 | 206 | 227 | Cheery Risegrid |
 | 207 | 226 | Sassy Rollpiece |
