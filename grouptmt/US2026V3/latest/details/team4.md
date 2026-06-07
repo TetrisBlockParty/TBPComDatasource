@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 22:36:41 UTC
+# Standings for team4 as of 2026-06-07 22:37:20 UTC
 
 **Total Participants:** 1640
 
@@ -123,9 +123,9 @@
 | 115 | 558 | Kim |
 | 116 | 555 | iiPurgeV2 |
 | 117 | 554 | Daryn Elliott |
-| 118 | 550 | CJ |
-| 119 | 550 | vag1974 |
-| 120 | 550 | Nicole Peoples |
+| 118 | 550 | vag1974 |
+| 119 | 550 | Nicole Peoples |
+| 120 | 550 | CJ |
 | 121 | 535 | Damon Gaston |
 | 122 | 530 | Jewelz |
 | 123 | 528 | Katie Lynn Petit |
@@ -142,8 +142,8 @@
 | 134 | 461 | Kayla Fuentes |
 | 135 | 452 | Sarah Berry Stevens |
 | 136 | 443 | Crissy Hoffman |
-| 137 | 438 | Real Talk Vibes |
-| 138 | 438 | Jesse Olive |
+| 137 | 438 | Jesse Olive |
+| 138 | 438 | Real Talk Vibes |
 | 139 | 437 | Danielle Mitchell |
 | 140 | 433 | Gorica Prusina |
 | 141 | 430 | Kaash Brxtt |
@@ -171,8 +171,8 @@
 | 163 | 373 | Tanita Jobe |
 | 164 | 373 | Scamp Jones |
 | 165 | 363 | Christy Beezley-Forbush |
-| 166 | 359 | Megan Vick |
-| 167 | 359 | BCO22 |
+| 166 | 359 | BCO22 |
+| 167 | 359 | Megan Vick |
 | 168 | 358 | Joyce Myers |
 | 169 | 352 | Bobbie Harrell |
 | 170 | 350 | RotatedWrongAgain |
@@ -237,35 +237,35 @@
 | 229 | 266 | tigerlilly |
 | 230 | 261 | Renee Sapp |
 | 231 | 260 | Silly Risegrid |
-| 232 | 259 | Jessica Peyton |
-| 233 | 257 | Patrick Alley |
-| 234 | 256 | Tyson Stroppel |
-| 235 | 253 | Tammy June |
-| 236 | 251 | Jenn Norcross |
-| 237 | 251 | Jeremy |
-| 238 | 251 | Alicia Cook |
-| 239 | 251 | Spicy Chicken |
-| 240 | 250 | Troy Zanelli |
-| 241 | 250 | Sandra Stark |
-| 242 | 244 | Queen B |
-| 243 | 244 | beauxie |
+| 232 | 259 | Sandra Stark |
+| 233 | 259 | Jessica Peyton |
+| 234 | 257 | Patrick Alley |
+| 235 | 256 | Tyson Stroppel |
+| 236 | 253 | Tammy June |
+| 237 | 251 | Jenn Norcross |
+| 238 | 251 | Spicy Chicken |
+| 239 | 251 | Alicia Cook |
+| 240 | 251 | Jeremy |
+| 241 | 250 | Troy Zanelli |
+| 242 | 244 | beauxie |
+| 243 | 244 | Queen B |
 | 244 | 243 | Chirpy Link |
 | 245 | 241 | Alma López Morales |
 | 246 | 240 | blockhead |
 | 247 | 239 | Shauna Davis |
 | 248 | 238 | Tara Delay Hill |
 | 249 | 236 | Becky McCool |
-| 250 | 234 | Jackie Polanco |
-| 251 | 234 | HurkleDurkle88 |
+| 250 | 234 | HurkleDurkle88 |
+| 251 | 234 | Jackie Polanco |
 | 252 | 233 | Joseph Hunter |
 | 253 | 230 | gabs |
 | 254 | 228 | Shiny Brick |
 | 255 | 228 | SupaFly |
 | 256 | 227 | Stephanie Myers |
-| 257 | 226 | Susan Stofberg Beltran |
+| 257 | 226 | Snippy Splitter |
 | 258 | 226 | Sassy Rollpiece |
 | 259 | 226 | Justin Michael |
-| 260 | 226 | Snippy Splitter |
+| 260 | 226 | Susan Stofberg Beltran |
 | 261 | 225 | No Time |
 | 262 | 225 | Erika Seaton |
 | 263 | 223 | Leslie Ann Carter |
@@ -523,12 +523,12 @@
 | 515 | 116 | Toon Up |
 | 516 | 116 | BookwormCate |
 | 517 | 115 | Gary Smallwood |
-| 518 | 115 | Edward White |
-| 519 | 114 | LaToya LeBlanc |
-| 520 | 114 | MrLoner Stoner |
-| 521 | 114 | Butterpat |
-| 522 | 114 | Jason Moves |
-| 523 | 114 | EpicWizard |
+| 518 | 115 | EpicWizard |
+| 519 | 115 | Edward White |
+| 520 | 114 | LaToya LeBlanc |
+| 521 | 114 | MrLoner Stoner |
+| 522 | 114 | Butterpat |
+| 523 | 114 | Jason Moves |
 | 524 | 114 | LandO |
 | 525 | 113 | Melissa Anne |
 | 526 | 113 | TheazO |
@@ -1447,8 +1447,8 @@
 | 1439 | 17 | Jacquelyn L Whitsitt |
 | 1440 | 17 | Glitzy Crasher |
 | 1441 | 16 | Pauline Cortez |
-| 1442 | 16 | Fumiko Demello |
-| 1443 | 16 | Mr.Corbin |
+| 1442 | 16 | Mr.Corbin |
+| 1443 | 16 | Joyell Mersiel |
 | 1444 | 16 | Von |
 | 1445 | 16 | Dee Modest |
 | 1446 | 16 | Ashley McGeehan |
@@ -1465,16 +1465,16 @@
 | 1457 | 16 | Harpreet Rojas |
 | 1458 | 16 | Melissa Robinson |
 | 1459 | 16 | Valerie Morrison |
-| 1460 | 15 | Chilly Glidezone |
-| 1461 | 15 | babygirlw |
-| 1462 | 15 | John Wertz |
-| 1463 | 15 | Mandi Rexroat |
-| 1464 | 15 | Wacky Clusterer |
-| 1465 | 15 | Chris Abney |
-| 1466 | 15 | Speedy Rollbuilder |
-| 1467 | 15 | Angela Correa |
-| 1468 | 15 | Melia Christiansen |
-| 1469 | 15 | Medrano Cruz Yaquelyn |
+| 1460 | 16 | Fumiko Demello |
+| 1461 | 15 | Medrano Cruz Yaquelyn |
+| 1462 | 15 | babygirlw |
+| 1463 | 15 | John Wertz |
+| 1464 | 15 | Mandi Rexroat |
+| 1465 | 15 | Wacky Clusterer |
+| 1466 | 15 | Chris Abney |
+| 1467 | 15 | Speedy Rollbuilder |
+| 1468 | 15 | Angela Correa |
+| 1469 | 15 | Melia Christiansen |
 | 1470 | 15 | Tricki Woo |
 | 1471 | 15 | Diana Acosta |
 | 1472 | 15 | Nicole Gilmore |
@@ -1482,7 +1482,7 @@
 | 1474 | 15 | Chelsea Costa |
 | 1475 | 15 | Tha Don |
 | 1476 | 15 | Hashanah Williams |
-| 1477 | 15 | Joyell Mersiel |
+| 1477 | 15 | Chilly Glidezone |
 | 1478 | 14 | Snippy Twister |
 | 1479 | 14 | Karissa Bailey |
 | 1480 | 14 | Laura Ratliff |
