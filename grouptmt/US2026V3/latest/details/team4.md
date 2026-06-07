@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 12:06:18 UTC
+# Standings for team4 as of 2026-06-07 12:06:41 UTC
 
 **Total Participants:** 1454
 
@@ -648,118 +648,118 @@
 | 640 | 67 | Noa Lee |
 | 641 | 67 | Ashley DuVall |
 | 642 | 67 | Snappy Stack |
-| 643 | 67 | Glittara |
-| 644 | 67 | SueSally |
-| 645 | 67 | Wacky Snaplink |
-| 646 | 67 | Clever Brickzone |
-| 647 | 67 | Yournightmare |
-| 648 | 66 | james |
-| 649 | 66 | Jennifer Brucz |
-| 650 | 66 | Dapper Tiltpiece |
-| 651 | 66 | Mann Manson |
-| 652 | 66 | Joyce Hampton |
-| 653 | 65 | Pap337 |
-| 654 | 65 | Tony Clark |
-| 655 | 65 | Monte Smith |
-| 656 | 65 | Yvette Johnson |
-| 657 | 65 | Genger |
-| 658 | 65 | Youngkueen |
-| 659 | 65 | Rocky |
-| 660 | 65 | Knijur Callins |
-| 661 | 65 | Dinah Mccall |
-| 662 | 65 | Gabby Simones |
-| 663 | 65 | Jailen Harper |
-| 664 | 65 | Lacie Powers |
-| 665 | 64 | Daffney Starr |
-| 666 | 64 | Jade Alley |
-| 667 | 64 | MamaC |
-| 668 | 64 | Giggy Risegrid |
-| 669 | 64 | David Lay |
-| 670 | 64 | Nicole Ambrose |
-| 671 | 64 | Daring Brickbuilder |
-| 672 | 64 | Surviving Be Back Soon |
-| 673 | 63 | Cassie N Danica Flaherty |
-| 674 | 63 | Marina |
-| 675 | 63 | Shirley A. Godfrey |
-| 676 | 63 | JP |
-| 677 | 63 | ButterfliesRFree |
-| 678 | 63 | Poppy |
-| 679 | 63 | MattJennifer Marie Ericson |
-| 680 | 63 | Snow77white |
-| 681 | 63 | Brenda Mueller |
-| 682 | 63 | Amber Jalbert |
-| 683 | 63 | Renzo Tonini |
-| 684 | 63 | Swanky Brickzone |
-| 685 | 63 | Lush Twisterfit |
-| 686 | 63 | Phredda Helene Gavornik |
-| 687 | 63 | Maria Munoz |
-| 688 | 62 | Mar Mar |
-| 689 | 62 | ShaniP |
-| 690 | 62 | 94Blockhead |
-| 691 | 61 | Nikcole Alexis Bryan |
-| 692 | 61 | Danielle Sulano |
-| 693 | 61 | Joe Win |
-| 694 | 61 | Maicy Darrah |
-| 695 | 61 | Butterfly |
-| 696 | 61 | Certified Da Don |
-| 697 | 61 | Luunii |
-| 698 | 61 | Elisha Thompson |
-| 699 | 60 | Lizard |
-| 700 | 60 | Brett |
-| 701 | 60 | Elizabeth Putansu |
-| 702 | 60 | Kristine Hj Han |
-| 703 | 60 | Rin |
-| 704 | 60 | Uh Lesh Uh |
-| 705 | 60 | Helen Bradley |
-| 706 | 60 | Justin Janachovsky |
-| 707 | 60 | Jessica Kelly |
-| 708 | 60 | Anthony Magaraci |
-| 709 | 60 | Nerdy Brickster |
-| 710 | 60 | Angela Adamo-Tash |
-| 711 | 60 | Breezy Brickfit |
-| 712 | 60 | Chris Rowe |
-| 713 | 60 | Tiffy |
-| 714 | 60 | Tod Jae |
+| 643 | 67 | Kimberly Ann |
+| 644 | 67 | Glittara |
+| 645 | 67 | SueSally |
+| 646 | 67 | Wacky Snaplink |
+| 647 | 67 | Clever Brickzone |
+| 648 | 67 | Yournightmare |
+| 649 | 66 | james |
+| 650 | 66 | Jennifer Brucz |
+| 651 | 66 | Dapper Tiltpiece |
+| 652 | 66 | Mann Manson |
+| 653 | 66 | Joyce Hampton |
+| 654 | 65 | Pap337 |
+| 655 | 65 | Tony Clark |
+| 656 | 65 | Monte Smith |
+| 657 | 65 | Rocky |
+| 658 | 65 | Genger |
+| 659 | 65 | Youngkueen |
+| 660 | 65 | Yvette Johnson |
+| 661 | 65 | Knijur Callins |
+| 662 | 65 | Dinah Mccall |
+| 663 | 65 | Gabby Simones |
+| 664 | 65 | Jailen Harper |
+| 665 | 65 | Lacie Powers |
+| 666 | 64 | Daffney Starr |
+| 667 | 64 | Jade Alley |
+| 668 | 64 | MamaC |
+| 669 | 64 | Giggy Risegrid |
+| 670 | 64 | Daring Brickbuilder |
+| 671 | 64 | Nicole Ambrose |
+| 672 | 64 | David Lay |
+| 673 | 64 | Surviving Be Back Soon |
+| 674 | 63 | Cassie N Danica Flaherty |
+| 675 | 63 | Marina |
+| 676 | 63 | Shirley A. Godfrey |
+| 677 | 63 | JP |
+| 678 | 63 | ButterfliesRFree |
+| 679 | 63 | Poppy |
+| 680 | 63 | MattJennifer Marie Ericson |
+| 681 | 63 | Snow77white |
+| 682 | 63 | Brenda Mueller |
+| 683 | 63 | Amber Jalbert |
+| 684 | 63 | Renzo Tonini |
+| 685 | 63 | Swanky Brickzone |
+| 686 | 63 | Lush Twisterfit |
+| 687 | 63 | Phredda Helene Gavornik |
+| 688 | 63 | Maria Munoz |
+| 689 | 62 | Mar Mar |
+| 690 | 62 | ShaniP |
+| 691 | 62 | 94Blockhead |
+| 692 | 61 | Nikcole Alexis Bryan |
+| 693 | 61 | Danielle Sulano |
+| 694 | 61 | Joe Win |
+| 695 | 61 | Maicy Darrah |
+| 696 | 61 | Butterfly |
+| 697 | 61 | Certified Da Don |
+| 698 | 61 | Luunii |
+| 699 | 61 | Elisha Thompson |
+| 700 | 60 | Lizard |
+| 701 | 60 | Brett |
+| 702 | 60 | Elizabeth Putansu |
+| 703 | 60 | Kristine Hj Han |
+| 704 | 60 | Rin |
+| 705 | 60 | Uh Lesh Uh |
+| 706 | 60 | Helen Bradley |
+| 707 | 60 | Justin Janachovsky |
+| 708 | 60 | Jessica Kelly |
+| 709 | 60 | Anthony Magaraci |
+| 710 | 60 | Nerdy Brickster |
+| 711 | 60 | Angela Adamo-Tash |
+| 712 | 60 | Breezy Brickfit |
+| 713 | 60 | Chris Rowe |
+| 714 | 60 | Tiffy |
 | 715 | 60 | Robert Crow |
-| 716 | 60 | DanceAngel |
+| 716 | 60 | Tod Jae |
 | 717 | 60 | Kena T. Tanner |
 | 718 | 60 | BethB |
-| 719 | 59 | Anthony Kollar |
-| 720 | 59 | Jeni |
-| 721 | 59 | Miranda Brown |
-| 722 | 59 | Tammy Lasseigne |
-| 723 | 59 | Sarah |
-| 724 | 59 | Giggy Bridgepiece |
-| 725 | 59 | Trang Nguyen |
-| 726 | 58 | Kelli Miller |
-| 727 | 58 | h_chloe10 |
-| 728 | 58 | Alicia Blunt |
-| 729 | 58 | Jessica Sanchez |
-| 730 | 58 | Yaya Selbor |
-| 731 | 58 | Groovy Towerbuilder |
-| 732 | 58 | Hayze |
-| 733 | 58 | Brittany |
-| 734 | 58 | Kimberly Lusk |
-| 735 | 58 | Kimberly Ann |
-| 736 | 57 | Leslie |
-| 737 | 57 | Heather Hilferty |
-| 738 | 57 | PapaB |
-| 739 | 57 | Hotstuff |
-| 740 | 57 | Волна Бог |
-| 741 | 57 | Lala |
-| 742 | 57 | Erica Pompey |
+| 719 | 60 | DanceAngel |
+| 720 | 59 | Anthony Kollar |
+| 721 | 59 | Jeni |
+| 722 | 59 | Miranda Brown |
+| 723 | 59 | Tammy Lasseigne |
+| 724 | 59 | Sarah |
+| 725 | 59 | Giggy Bridgepiece |
+| 726 | 59 | Trang Nguyen |
+| 727 | 58 | Kelli Miller |
+| 728 | 58 | h_chloe10 |
+| 729 | 58 | Alicia Blunt |
+| 730 | 58 | Jessica Sanchez |
+| 731 | 58 | Yaya Selbor |
+| 732 | 58 | Groovy Towerbuilder |
+| 733 | 58 | Hayze |
+| 734 | 58 | Brittany |
+| 735 | 58 | Kimberly Lusk |
+| 736 | 57 | Lala |
+| 737 | 57 | Erica Pompey |
+| 738 | 57 | Волна Бог |
+| 739 | 57 | Leslie |
+| 740 | 57 | Heather Hilferty |
+| 741 | 57 | Hotstuff |
+| 742 | 57 | PapaB |
 | 743 | 57 | Merritt Brandt |
 | 744 | 57 | Erich EMac McIntosh |
 | 745 | 57 | alxhue04 |
 | 746 | 56 | Lashae |
 | 747 | 56 | Meela Abdurrab |
 | 748 | 56 | JuicyJay |
-| 749 | 56 | Blessedmom865 |
-| 750 | 56 | Kayla Haddenham |
-| 751 | 56 | Zappy Matchgrid |
-| 752 | 56 | Vicente Bolaños Jr. |
+| 749 | 56 | Zappy Matchgrid |
+| 750 | 56 | Blessedmom865 |
+| 751 | 56 | Kayla Haddenham |
+| 752 | 56 | Natalie Ohrtman Strand |
 | 753 | 56 | Alaina Rousseau |
-| 754 | 56 | Natalie Ohrtman Strand |
+| 754 | 56 | Vicente Bolaños Jr. |
 | 755 | 55 | Donny Keets |
 | 756 | 55 | Erika Rubio |
 | 757 | 55 | pussface |
