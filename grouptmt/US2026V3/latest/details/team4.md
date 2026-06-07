@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 08:24:18 UTC
+# Standings for team4 as of 2026-06-07 08:24:39 UTC
 
 **Total Participants:** 1417
 
@@ -116,23 +116,23 @@
 | 108 | 461 | Cranky Towerbuilder |
 | 109 | 457 | Lisa Garcia |
 | 110 | 454 | Melissa WC |
-| 111 | 450 | Sassy Column |
-| 112 | 443 | Crissy Hoffman |
-| 113 | 432 | Sarah Berry Stevens |
-| 114 | 430 | Kaash Brxtt |
-| 115 | 429 | iiPurgeV2 |
-| 116 | 428 | Gorica Prusina |
-| 117 | 421 | Michelle Ross |
-| 118 | 421 | Ermadette |
-| 119 | 418 | Aisha Estrada |
-| 120 | 415 | Chuck Gannon |
-| 121 | 414 | Gigglycat |
-| 122 | 406 | Kelley Roach |
-| 123 | 402 | Irma |
-| 124 | 400 | Nicole Peoples |
-| 125 | 400 | Amber Doyle |
-| 126 | 400 | Cherry |
-| 127 | 400 | DexterDobbins |
+| 111 | 452 | Irma |
+| 112 | 450 | Sassy Column |
+| 113 | 443 | Crissy Hoffman |
+| 114 | 432 | Sarah Berry Stevens |
+| 115 | 430 | Kaash Brxtt |
+| 116 | 429 | iiPurgeV2 |
+| 117 | 428 | Gorica Prusina |
+| 118 | 421 | Michelle Ross |
+| 119 | 421 | Ermadette |
+| 120 | 418 | Aisha Estrada |
+| 121 | 415 | Chuck Gannon |
+| 122 | 414 | Gigglycat |
+| 123 | 406 | Kelley Roach |
+| 124 | 400 | Amber Doyle |
+| 125 | 400 | Cherry |
+| 126 | 400 | DexterDobbins |
+| 127 | 400 | Nicole Peoples |
 | 128 | 397 | Real Talk Vibes |
 | 129 | 396 | Jackie Jackson |
 | 130 | 394 | Kim |
