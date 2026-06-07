@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 15:00:19 UTC
+# Standings for team1 as of 2026-06-07 15:00:41 UTC
 
 **Total Participants:** 1483
 
@@ -250,29 +250,29 @@
 | 242 | 229 | Ann White |
 | 243 | 228 | Penee Wiggins |
 | 244 | 226 | Chilly Wipebuilder |
-| 245 | 220 | Christian Pham |
-| 246 | 220 | Slim Shedidthat |
-| 247 | 217 | Koi |
-| 248 | 217 | Slinky Brickmatch |
-| 249 | 212 | Trina Greenwood |
-| 250 | 212 | Nobles Brandon |
-| 251 | 212 | Steve Reno |
-| 252 | 211 | Boldy Liner |
-| 253 | 210 | Dion Gray |
-| 254 | 207 | Melissa D. M. Hornsby |
-| 255 | 206 | Curtis T Cirno |
-| 256 | 205 | Stephen Providenti |
-| 257 | 204 | Shameka Thrasher |
-| 258 | 203 | Daris Swearington |
-| 259 | 201 | TT |
-| 260 | 201 | 신재호 |
-| 261 | 201 | Richard Flex |
-| 262 | 200 | Hailey Hil |
-| 263 | 200 | Sara Meri |
-| 264 | 200 | Coco |
-| 265 | 199 | Fina McKinnis |
-| 266 | 198 | Rachael Bakowicz Edwards |
-| 267 | 198 | Robbie Cheeseman |
+| 245 | 221 | Robbie Cheeseman |
+| 246 | 220 | Christian Pham |
+| 247 | 220 | Slim Shedidthat |
+| 248 | 217 | Koi |
+| 249 | 217 | Slinky Brickmatch |
+| 250 | 212 | Trina Greenwood |
+| 251 | 212 | Nobles Brandon |
+| 252 | 212 | Steve Reno |
+| 253 | 211 | Boldy Liner |
+| 254 | 210 | Dion Gray |
+| 255 | 207 | Melissa D. M. Hornsby |
+| 256 | 206 | Curtis T Cirno |
+| 257 | 205 | Stephen Providenti |
+| 258 | 204 | Shameka Thrasher |
+| 259 | 203 | Daris Swearington |
+| 260 | 203 | 신재호 |
+| 261 | 201 | TT |
+| 262 | 201 | Richard Flex |
+| 263 | 200 | Hailey Hil |
+| 264 | 200 | Sara Meri |
+| 265 | 200 | Coco |
+| 266 | 199 | Fina McKinnis |
+| 267 | 198 | Rachael Bakowicz Edwards |
 | 268 | 197 | Smiley Clearpiece |
 | 269 | 197 | Rayshawn Cohen |
 | 270 | 196 | Poppy Buildout |
@@ -284,8 +284,8 @@
 | 276 | 191 | Emily Wright |
 | 277 | 191 | Kelli Couture |
 | 278 | 190 | Chipper Snapper |
-| 279 | 189 | Clever Fitblock |
-| 280 | 189 | Nate Myers |
+| 279 | 189 | Nate Myers |
+| 280 | 189 | Clever Fitblock |
 | 281 | 189 | Amber Wilson |
 | 282 | 189 | LaShaun Stinson |
 | 283 | 188 | Sammie Walker |
