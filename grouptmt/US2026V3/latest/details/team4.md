@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 01:10:18 UTC
+# Standings for team4 as of 2026-06-07 01:10:41 UTC
 
 **Total Participants:** 1240
 
@@ -322,10 +322,10 @@
 | 314 | 109 | Ginny |
 | 315 | 108 | Iforget |
 | 316 | 108 | Kaps |
-| 317 | 108 | Anthony Lewis |
-| 318 | 107 | Allysha McFarland |
-| 319 | 107 | Jrr |
-| 320 | 107 | Rita Ann |
+| 317 | 108 | Rita Ann |
+| 318 | 108 | Anthony Lewis |
+| 319 | 107 | Allysha McFarland |
+| 320 | 107 | Jrr |
 | 321 | 105 | Shanna Fragen |
 | 322 | 105 | Luna |
 | 323 | 105 | Kristen Wallace |
@@ -793,38 +793,38 @@
 | 785 | 38 | JP Chua |
 | 786 | 38 | Tiffany Morris Garner |
 | 787 | 38 | Charity Thomas |
-| 788 | 37 | Tanya AfricanQueen Savage |
-| 789 | 37 | Kalisha Monique Wright |
-| 790 | 37 | Shannon Lee |
-| 791 | 37 | Heather Cline |
-| 792 | 37 | Jonelle Jacobs |
-| 793 | 37 | Jessica Lestage |
-| 794 | 37 | Jessica Armistead |
-| 795 | 37 | theyhatejzt |
-| 796 | 37 | John Henry |
-| 797 | 37 | Phredda Helene Gavornik |
-| 798 | 37 | KingCas |
-| 799 | 37 | Ern |
+| 788 | 38 | John Henry |
+| 789 | 37 | Tanya AfricanQueen Savage |
+| 790 | 37 | Kalisha Monique Wright |
+| 791 | 37 | Shannon Lee |
+| 792 | 37 | Heather Cline |
+| 793 | 37 | Jonelle Jacobs |
+| 794 | 37 | Jessica Lestage |
+| 795 | 37 | Jessica Armistead |
+| 796 | 37 | theyhatejzt |
+| 797 | 37 | Ern |
+| 798 | 37 | Phredda Helene Gavornik |
+| 799 | 37 | KingCas |
 | 800 | 37 | Kelli Miller |
-| 801 | 36 | Jolly Dashy |
-| 802 | 36 | Dawn Ferrin |
-| 803 | 36 | Peppy Linefit |
-| 804 | 36 | Krazylegzzzz |
-| 805 | 36 | Monkey |
-| 806 | 36 | Dapper Tiltpiece |
-| 807 | 36 | Zippy Snaplink |
-| 808 | 36 | Lamont |
-| 809 | 36 | PL GR |
-| 810 | 36 | tigerlilly |
-| 811 | 36 | Diqthot |
-| 812 | 36 | Nancy McCalla Abercrombie |
-| 813 | 36 | Marcus Fontenot |
-| 814 | 35 | Saul Fajardo |
-| 815 | 35 | Stephanie Williams |
+| 801 | 36 | Dawn Ferrin |
+| 802 | 36 | Monkey |
+| 803 | 36 | Krazylegzzzz |
+| 804 | 36 | Dapper Tiltpiece |
+| 805 | 36 | Peppy Linefit |
+| 806 | 36 | Zippy Snaplink |
+| 807 | 36 | Lamont |
+| 808 | 36 | PL GR |
+| 809 | 36 | tigerlilly |
+| 810 | 36 | Diqthot |
+| 811 | 36 | Nancy McCalla Abercrombie |
+| 812 | 36 | Marcus Fontenot |
+| 813 | 36 | Jolly Dashy |
+| 814 | 35 | Beezy |
+| 815 | 35 | Robert Moore |
 | 816 | 35 | Peachy Grabber |
-| 817 | 35 | Robert Moore |
-| 818 | 35 | KySun |
-| 819 | 35 | Beezy |
+| 817 | 35 | Saul Fajardo |
+| 818 | 35 | Stephanie Williams |
+| 819 | 35 | KySun |
 | 820 | 35 | Samantha Brandt |
 | 821 | 35 | Pretty_Rican |
 | 822 | 35 | Jillian Marie |
