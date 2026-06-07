@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 17:28:38 UTC
+# Standings for team1 as of 2026-06-07 17:29:18 UTC
 
 **Total Participants:** 1522
 
@@ -30,9 +30,9 @@
 | 22 | 3039 | Chummy Combo |
 | 23 | 2863 | Sha Harris |
 | 24 | 2708 | Ebo Got-Time |
-| 25 | 2446 | Juan Kandiss Escobedo Irwin |
-| 26 | 2445 | Cool Bridger |
-| 27 | 2435 | Yolanda McDonald |
+| 25 | 2475 | Yolanda McDonald |
+| 26 | 2446 | Juan Kandiss Escobedo Irwin |
+| 27 | 2445 | Cool Bridger |
 | 28 | 2331 | Zappy Brickline |
 | 29 | 2269 | Mary Jenkins |
 | 30 | 2165 | Epic Snapfall |
@@ -74,8 +74,8 @@
 | 66 | 943 | Kkbk |
 | 67 | 942 | Blockhead |
 | 68 | 935 | Whitney Butler |
-| 69 | 902 | Uneekly Mayde |
-| 70 | 902 | Bre Maugh |
+| 69 | 912 | Bre Maugh |
+| 70 | 902 | Uneekly Mayde |
 | 71 | 897 | BYM4L |
 | 72 | 896 | Tiana Moore |
 | 73 | 894 | Danielle Barthelme |
@@ -312,20 +312,20 @@
 | 304 | 183 | Mary Phillippi Blanton |
 | 305 | 183 | Wild Out Nai |
 | 306 | 181 | Treneil Daffin |
-| 307 | 180 | Ann Chung |
+| 307 | 180 | kitten |
 | 308 | 180 | Zippy Lifter |
-| 309 | 180 | kitten |
+| 309 | 180 | Ann Chung |
 | 310 | 179 | Brand Nu |
 | 311 | 177 | Valerie Alexander |
 | 312 | 175 | Amy Lynn Leifheit |
 | 313 | 174 | Nina Davis |
 | 314 | 174 | Guy Incognito |
 | 315 | 173 | Crystal Cheresnowsky |
-| 316 | 173 | izzybella |
-| 317 | 173 | LuckyStar |
-| 318 | 170 | Slinky Party |
-| 319 | 169 | Jai |
-| 320 | 169 | Tipsy Linkroll |
+| 316 | 173 | LuckyStar |
+| 317 | 173 | izzybella |
+| 318 | 171 | Tipsy Linkroll |
+| 319 | 170 | Slinky Party |
+| 320 | 169 | Jai |
 | 321 | 169 | Asha Langford |
 | 322 | 167 | Mister Reid |
 | 323 | 166 | BlackQueen105 |
@@ -626,82 +626,82 @@
 | 618 | 83 | Chris Nelson |
 | 619 | 83 | MrsMeadows2019 |
 | 620 | 83 | Jackytrain52 |
-| 621 | 82 | Happy Blockpiece |
-| 622 | 82 | Johnathan Deese |
+| 621 | 82 | Johnathan Deese |
+| 622 | 82 | Happy Blockpiece |
 | 623 | 82 | OhNoZer0 |
-| 624 | 81 | Kizzy Clark |
-| 625 | 81 | Angela L Charles |
-| 626 | 81 | TRUBBLE45 |
-| 627 | 81 | Sara |
-| 628 | 81 | Montego Allen |
-| 629 | 80 | Keith Big-Sixx Mackell |
-| 630 | 80 | Kanary Karotz |
-| 631 | 80 | Lester Malone |
-| 632 | 80 | Chevalier Burley |
-| 633 | 80 | Kimberly Noble |
-| 634 | 80 | Chereese Harris |
-| 635 | 80 | Lauren Farkas |
-| 636 | 80 | Amaadi Ward |
-| 637 | 80 | NedaWin |
-| 638 | 80 | Latore Maxie |
-| 639 | 80 | Lisa420 |
-| 640 | 80 | Lady Scorpio |
-| 641 | 80 | Kamilya Rembert |
-| 642 | 80 | Victoria Smith |
-| 643 | 80 | Big Bovice |
-| 644 | 80 | Gerold Folk Haddock |
-| 645 | 80 | Cynthia Bradley |
-| 646 | 80 | Tracey Johnson |
-| 647 | 80 | Charles Johnson |
-| 648 | 80 | PSD |
-| 649 | 80 | Kp |
-| 650 | 80 | Spicy Shatterblock |
-| 651 | 80 | Christopher L Crites |
-| 652 | 79 | Naee Bee |
-| 653 | 79 | Boymama917 |
-| 654 | 79 | TieMs BHughez |
-| 655 | 79 | Evette Moreno |
-| 656 | 79 | Nerdy Climber |
-| 657 | 79 | Montréal Mars |
-| 658 | 79 | Kim Holzmiller |
+| 624 | 81 | TRUBBLE45 |
+| 625 | 81 | Montego Allen |
+| 626 | 81 | Sara |
+| 627 | 81 | Angela L Charles |
+| 628 | 81 | TieMs BHughez |
+| 629 | 81 | Kizzy Clark |
+| 630 | 80 | Kamilya Rembert |
+| 631 | 80 | Lady Scorpio |
+| 632 | 80 | Lisa420 |
+| 633 | 80 | Latore Maxie |
+| 634 | 80 | Amaadi Ward |
+| 635 | 80 | Big Bovice |
+| 636 | 80 | Kimberly Noble |
+| 637 | 80 | Chevalier Burley |
+| 638 | 80 | Lester Malone |
+| 639 | 80 | Keith Big-Sixx Mackell |
+| 640 | 80 | Kanary Karotz |
+| 641 | 80 | Chereese Harris |
+| 642 | 80 | Lauren Farkas |
+| 643 | 80 | NedaWin |
+| 644 | 80 | Victoria Smith |
+| 645 | 80 | Kp |
+| 646 | 80 | Spicy Shatterblock |
+| 647 | 80 | PSD |
+| 648 | 80 | Gerold Folk Haddock |
+| 649 | 80 | Charles Johnson |
+| 650 | 80 | Christopher L Crites |
+| 651 | 80 | Tracey Johnson |
+| 652 | 80 | Cynthia Bradley |
+| 653 | 79 | Naee Bee |
+| 654 | 79 | Kim Holzmiller |
+| 655 | 79 | Montréal Mars |
+| 656 | 79 | Evette Moreno |
+| 657 | 79 | Nerdy Climber |
+| 658 | 79 | Boymama917 |
 | 659 | 78 | Callie Mae |
-| 660 | 78 | Smiley3000 |
-| 661 | 78 | Solomon Valarie |
-| 662 | 78 | Rachel Renae Bettis |
-| 663 | 78 | Azeiare Ziare |
-| 664 | 78 | Ryan Runyan |
-| 665 | 78 | Krystal Maynard |
-| 666 | 78 | Kahh |
-| 667 | 77 | Dirty Deeds |
-| 668 | 77 | DellaLucretia Thomas |
-| 669 | 77 | EvaLynn NeCole |
-| 670 | 77 | Dana Hawes |
-| 671 | 77 | Ysma Simmons |
-| 672 | 76 | Giggly Shatterline |
-| 673 | 76 | Pj Rojas |
-| 674 | 76 | Angelique Talbot |
-| 675 | 76 | lady |
-| 676 | 76 | Shakmar |
-| 677 | 76 | Earl Williams |
-| 678 | 75 | Courtney Robinson |
-| 679 | 75 | Teresa Bean |
-| 680 | 75 | Erika |
-| 681 | 75 | Tiffany Jean Hinson |
-| 682 | 75 | Angie Lebron |
-| 683 | 75 | Boldy Pivoty |
-| 684 | 75 | Blocksy |
+| 660 | 78 | Solomon Valarie |
+| 661 | 78 | Ryan Runyan |
+| 662 | 78 | Smiley3000 |
+| 663 | 78 | Kahh |
+| 664 | 78 | Azeiare Ziare |
+| 665 | 78 | Rachel Renae Bettis |
+| 666 | 78 | Krystal Maynard |
+| 667 | 77 | Dana Hawes |
+| 668 | 77 | Dirty Deeds |
+| 669 | 77 | DellaLucretia Thomas |
+| 670 | 77 | Ysma Simmons |
+| 671 | 77 | EvaLynn NeCole |
+| 672 | 76 | Shakmar |
+| 673 | 76 | lady |
+| 674 | 76 | Earl Williams |
+| 675 | 76 | Giggly Shatterline |
+| 676 | 76 | Angelique Talbot |
+| 677 | 76 | Pj Rojas |
+| 678 | 75 | Angie Lebron |
+| 679 | 75 | Erika |
+| 680 | 75 | Boldy Pivoty |
+| 681 | 75 | Courtney Robinson |
+| 682 | 75 | Blocksy |
+| 683 | 75 | Tiffany Jean Hinson |
+| 684 | 75 | Jennifer Moore |
 | 685 | 75 | sasha |
-| 686 | 75 | Jennifer Moore |
-| 687 | 74 | Casey Chapman |
+| 686 | 75 | Teresa Bean |
+| 687 | 74 | Danny M GR |
 | 688 | 74 | Cortrell Foster |
-| 689 | 74 | Danny M GR |
-| 690 | 74 | Renee Marshall |
-| 691 | 74 | Glitzy Clusterer |
-| 692 | 74 | MrsDontPlay |
+| 689 | 74 | Renee Marshall |
+| 690 | 74 | Casey Chapman |
+| 691 | 74 | MrsDontPlay |
+| 692 | 74 | Glitzy Clusterer |
 | 693 | 74 | Tetrisdestroyer |
-| 694 | 74 | Meow Meow |
-| 695 | 74 | Sunny Clicky |
-| 696 | 74 | Ace Hardware |
+| 694 | 74 | Ace Hardware |
+| 695 | 74 | Meow Meow |
+| 696 | 74 | Sunny Clicky |
 | 697 | 74 | Coco |
 | 698 | 74 | Sabrina Wilkerson |
 | 699 | 73 | Abigail Newman Sweet |

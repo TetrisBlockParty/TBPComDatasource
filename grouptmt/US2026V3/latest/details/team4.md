@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 17:28:38 UTC
+# Standings for team4 as of 2026-06-07 17:29:18 UTC
 
 **Total Participants:** 1552
 
@@ -26,12 +26,12 @@
 | 18 | 4139 | Bryony Nicholson |
 | 19 | 3954 | Jackie Lucas |
 | 20 | 3922 | TitiLo72 |
-| 21 | 3784 | Tyra Brooke Everman Forest |
-| 22 | 3776 | Dana Smith |
-| 23 | 3667 | Daring Ziggy |
-| 24 | 3654 | Senor Moppy |
-| 25 | 3612 | Tonya Brooks-Johnson |
-| 26 | 3608 | Hasty Builder |
+| 21 | 3908 | Hasty Builder |
+| 22 | 3784 | Tyra Brooke Everman Forest |
+| 23 | 3776 | Dana Smith |
+| 24 | 3667 | Daring Ziggy |
+| 25 | 3654 | Senor Moppy |
+| 26 | 3612 | Tonya Brooks-Johnson |
 | 27 | 3458 | Witty Clicky |
 | 28 | 3421 | Fruitpunch |
 | 29 | 3150 | Destiny Dyer |
@@ -45,11 +45,11 @@
 | 37 | 1922 | Dana Rinaldi |
 | 38 | 1908 | Michele Walker |
 | 39 | 1831 | Loony Rotater |
-| 40 | 1711 | Cal Renee |
-| 41 | 1700 | Leah Gorsuch |
-| 42 | 1674 | Jeanette Hailey |
-| 43 | 1629 | Erin Figone |
-| 44 | 1627 | Jennifer Edgell Richardson |
+| 40 | 1779 | Jennifer Edgell Richardson |
+| 41 | 1711 | Cal Renee |
+| 42 | 1700 | Leah Gorsuch |
+| 43 | 1674 | Jeanette Hailey |
+| 44 | 1629 | Erin Figone |
 | 45 | 1622 | kcknbtz |
 | 46 | 1620 | Kathy Brookins |
 | 47 | 1570 | Dheeh Robles |
@@ -1330,36 +1330,36 @@
 | 1322 | 18 | Glitter |
 | 1323 | 18 | Gary Moore |
 | 1324 | 18 | Bruce Hobbs |
-| 1325 | 18 | Playboy916 |
-| 1326 | 18 | Jamie Legeness |
-| 1327 | 18 | Bouncy Fitblock |
-| 1328 | 18 | Frilly Riserpiece |
+| 1325 | 18 | Littlebird |
+| 1326 | 18 | Playboy916 |
+| 1327 | 18 | Jamie Legeness |
+| 1328 | 18 | Bouncy Fitblock |
 | 1329 | 18 | Dewy |
-| 1330 | 18 | Angel Boges |
-| 1331 | 18 | Stacia Marie |
-| 1332 | 17 | Rai |
-| 1333 | 17 | Crystal Morrin |
-| 1334 | 17 | Cody Richard |
-| 1335 | 17 | FitMeDiva |
-| 1336 | 17 | happy cupcake |
-| 1337 | 17 | Lina Samra |
-| 1338 | 17 | Jacquelyn L Whitsitt |
-| 1339 | 17 | Kennita Cox |
-| 1340 | 17 | Glitzy Crasher |
-| 1341 | 17 | Shane Snyder |
-| 1342 | 17 | Littlebird |
+| 1330 | 18 | Frilly Riserpiece |
+| 1331 | 18 | Angel Boges |
+| 1332 | 18 | Stacia Marie |
+| 1333 | 17 | Rai |
+| 1334 | 17 | Crystal Morrin |
+| 1335 | 17 | Cody Richard |
+| 1336 | 17 | FitMeDiva |
+| 1337 | 17 | happy cupcake |
+| 1338 | 17 | Lina Samra |
+| 1339 | 17 | Jacquelyn L Whitsitt |
+| 1340 | 17 | Kennita Cox |
+| 1341 | 17 | Glitzy Crasher |
+| 1342 | 17 | Shane Snyder |
 | 1343 | 16 | Ashley McGeehan |
-| 1344 | 16 | Samantha Lohmeyer |
-| 1345 | 16 | Iesha Jefferson |
-| 1346 | 16 | Kiaralis Ashley Hancock |
-| 1347 | 16 | LuLazer27 |
-| 1348 | 16 | Dana Smith |
-| 1349 | 16 | EKM |
-| 1350 | 16 | Layne Davis |
-| 1351 | 16 | Fumiko Demello |
-| 1352 | 16 | Melissa Robinson |
-| 1353 | 16 | Pauline Cortez |
-| 1354 | 16 | Harpreet Rojas |
+| 1344 | 16 | Iesha Jefferson |
+| 1345 | 16 | Samantha Lohmeyer |
+| 1346 | 16 | LuLazer27 |
+| 1347 | 16 | Kiaralis Ashley Hancock |
+| 1348 | 16 | EKM |
+| 1349 | 16 | Layne Davis |
+| 1350 | 16 | Fumiko Demello |
+| 1351 | 16 | Dana Smith |
+| 1352 | 16 | Pauline Cortez |
+| 1353 | 16 | Harpreet Rojas |
+| 1354 | 16 | Melissa Robinson |
 | 1355 | 16 | Snappy Blockzone |
 | 1356 | 16 | Valerie Morrison |
 | 1357 | 16 | Fancy Tiley |
