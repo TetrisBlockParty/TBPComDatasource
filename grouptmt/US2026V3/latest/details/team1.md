@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 16:46:41 UTC
+# Standings for team1 as of 2026-06-07 16:47:18 UTC
 
 **Total Participants:** 1511
 
@@ -81,7 +81,7 @@
 | 73 | 877 | Brian Bohanon II |
 | 74 | 873 | Janine Hunter |
 | 75 | 873 | Eric Mcgaughy |
-| 76 | 836 | Tiana Moore |
+| 76 | 856 | Tiana Moore |
 | 77 | 826 | Kimberly Hernandez |
 | 78 | 820 | IamJust Neyamijah Washington Sr. |
 | 79 | 801 | Jazzy Dashpiece |
