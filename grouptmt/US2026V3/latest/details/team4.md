@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 13:26:18 UTC
+# Standings for team4 as of 2026-06-07 13:26:38 UTC
 
 **Total Participants:** 1469
 
@@ -311,24 +311,24 @@
 | 303 | 158 | Corie A. Brinson |
 | 304 | 157 | Laguya |
 | 305 | 157 | Matthew Wilcox |
-| 306 | 155 | Shayna Vaigneur-Hall |
-| 307 | 155 | Cherrypir05 |
-| 308 | 154 | Lani |
-| 309 | 153 | June Hoffman |
-| 310 | 153 | Shawntae Mccary |
-| 311 | 152 | Funky Tiler |
-| 312 | 152 | Nerdy Faller |
-| 313 | 152 | Samara Garcia |
-| 314 | 152 | Jumpy Builderpiece |
-| 315 | 151 | Troy Zanelli |
-| 316 | 151 | Bean |
-| 317 | 150 | MrsReap |
-| 318 | 150 | Heidi Anne Scheiderer |
-| 319 | 150 | Hardy Fuller |
-| 320 | 150 | Justin Michael |
-| 321 | 150 | Shanna Fragen |
-| 322 | 148 | Smiley Gridzone |
-| 323 | 148 | Solace Grace |
+| 306 | 156 | Solace Grace |
+| 307 | 155 | Shayna Vaigneur-Hall |
+| 308 | 155 | Cherrypir05 |
+| 309 | 154 | Lani |
+| 310 | 153 | June Hoffman |
+| 311 | 153 | Shawntae Mccary |
+| 312 | 152 | Funky Tiler |
+| 313 | 152 | Nerdy Faller |
+| 314 | 152 | Samara Garcia |
+| 315 | 152 | Jumpy Builderpiece |
+| 316 | 151 | Troy Zanelli |
+| 317 | 151 | Bean |
+| 318 | 150 | MrsReap |
+| 319 | 150 | Heidi Anne Scheiderer |
+| 320 | 150 | Hardy Fuller |
+| 321 | 150 | Justin Michael |
+| 322 | 150 | Shanna Fragen |
+| 323 | 148 | Smiley Gridzone |
 | 324 | 148 | Melika Zeheb |
 | 325 | 147 | EvoKitty |
 | 326 | 147 | Allysha McFarland |
@@ -1214,73 +1214,73 @@
 | 1206 | 20 | beauxie |
 | 1207 | 20 | Ryan Luperena |
 | 1208 | 20 | Gualberto Ramirez |
-| 1209 | 20 | David Kirschner |
-| 1210 | 20 | Frby Amberr |
-| 1211 | 20 | Amy |
-| 1212 | 20 | Alicia LaFaye |
-| 1213 | 20 | Elizabeth Ann Caro |
-| 1214 | 20 | Hunter Lynn |
+| 1209 | 20 | Frby Amberr |
+| 1210 | 20 | Kristin Ussery |
+| 1211 | 20 | Katy Roman |
+| 1212 | 20 | Vanessa Sykes |
+| 1213 | 20 | Amy |
+| 1214 | 20 | Rebecca Watters |
 | 1215 | 20 | Melissa Rathbun |
-| 1216 | 20 | Rebecca Watters |
-| 1217 | 20 | Vanessa Sykes |
-| 1218 | 20 | Kristin Ussery |
-| 1219 | 20 | Tipsy Patternfit |
-| 1220 | 20 | Rell geez |
-| 1221 | 20 | Jerett Coplin |
-| 1222 | 20 | Shannon Rivera |
-| 1223 | 20 | Whirl-Klines L Evelyn |
-| 1224 | 20 | Hasty Slamdrop |
-| 1225 | 20 | Jessica Smith |
-| 1226 | 20 | Spidaman86 |
-| 1227 | 20 | Charissa W Walton |
-| 1228 | 20 | Hasty Snapmatch |
-| 1229 | 19 | Kariana Gonzalez Ortiz |
-| 1230 | 19 | Redhead girl |
-| 1231 | 19 | Ashie |
-| 1232 | 19 | Giggly Gridzone |
+| 1216 | 20 | Alicia LaFaye |
+| 1217 | 20 | Hunter Lynn |
+| 1218 | 20 | David Kirschner |
+| 1219 | 20 | Elizabeth Ann Caro |
+| 1220 | 20 | Tipsy Patternfit |
+| 1221 | 20 | Rell geez |
+| 1222 | 20 | Jerett Coplin |
+| 1223 | 20 | Shannon Rivera |
+| 1224 | 20 | Whirl-Klines L Evelyn |
+| 1225 | 20 | Hasty Slamdrop |
+| 1226 | 20 | Jessica Smith |
+| 1227 | 20 | Spidaman86 |
+| 1228 | 20 | Charissa W Walton |
+| 1229 | 20 | Hasty Snapmatch |
+| 1230 | 19 | Kariana Gonzalez Ortiz |
+| 1231 | 19 | Redhead girl |
+| 1232 | 19 | Jordan Tamayia Williams |
 | 1233 | 19 | Archer Family Mayhem |
-| 1234 | 19 | Jordan Tamayia Williams |
-| 1235 | 18 | Christine Raine Jalili |
+| 1234 | 19 | Giggly Gridzone |
+| 1235 | 19 | Ashie |
 | 1236 | 18 | Frilly Riserpiece |
-| 1237 | 18 | Becca Milliron |
-| 1238 | 18 | Alana Joe |
+| 1237 | 18 | Christine Raine Jalili |
+| 1238 | 18 | Becca Milliron |
 | 1239 | 18 | Amina Walker |
 | 1240 | 18 | Playboy916 |
 | 1241 | 18 | Dewy |
 | 1242 | 18 | Glitter |
-| 1243 | 18 | Gary Moore |
-| 1244 | 18 | Jamie Legeness |
-| 1245 | 18 | Stacia Marie |
-| 1246 | 18 | Angel Boges |
-| 1247 | 18 | Torie Harmon |
-| 1248 | 17 | Glitzy Crasher |
-| 1249 | 17 | Cody Richard |
-| 1250 | 17 | Wali Muhammad |
-| 1251 | 17 | Shane Snyder |
-| 1252 | 17 | FitMeDiva |
-| 1253 | 17 | Charles Chauffe |
-| 1254 | 17 | Kennita Cox |
+| 1243 | 18 | Alana Joe |
+| 1244 | 18 | Gary Moore |
+| 1245 | 18 | Jamie Legeness |
+| 1246 | 18 | Stacia Marie |
+| 1247 | 18 | Angel Boges |
+| 1248 | 18 | Torie Harmon |
+| 1249 | 17 | Glitzy Crasher |
+| 1250 | 17 | Cody Richard |
+| 1251 | 17 | Wali Muhammad |
+| 1252 | 17 | Shane Snyder |
+| 1253 | 17 | happy cupcake |
+| 1254 | 17 | FitMeDiva |
 | 1255 | 17 | Crystal Morrin |
-| 1256 | 17 | happy cupcake |
-| 1257 | 16 | Melissa Robinson |
-| 1258 | 16 | Dandy Linkgrid |
-| 1259 | 16 | LuLazer27 |
-| 1260 | 16 | Katy Roman |
+| 1256 | 17 | Charles Chauffe |
+| 1257 | 17 | Kennita Cox |
+| 1258 | 16 | Melissa Robinson |
+| 1259 | 16 | Dandy Linkgrid |
+| 1260 | 16 | LuLazer27 |
 | 1261 | 16 | Dana Smith |
 | 1262 | 16 | Layne Davis |
 | 1263 | 16 | Nissi |
 | 1264 | 16 | Pauline Cortez |
-| 1265 | 16 | EKM |
-| 1266 | 16 | Fancy Tiley |
-| 1267 | 16 | Iesha Jefferson |
-| 1268 | 16 | Fumiko Demello |
-| 1269 | 16 | Ashley McGeehan |
-| 1270 | 16 | Mr.Corbin |
-| 1271 | 16 | Samantha Lohmeyer |
-| 1272 | 16 | Dee Modest |
-| 1273 | 16 | Maliyah An |
-| 1274 | 16 | Bruce Hobbs |
-| 1275 | 16 | Snappy Blockzone |
+| 1265 | 16 | Iesha Jefferson |
+| 1266 | 16 | EKM |
+| 1267 | 16 | Snappy Blockzone |
+| 1268 | 16 | Bruce Hobbs |
+| 1269 | 16 | Dee Modest |
+| 1270 | 16 | Maliyah An |
+| 1271 | 16 | Mr.Corbin |
+| 1272 | 16 | Samantha Lohmeyer |
+| 1273 | 16 | Fumiko Demello |
+| 1274 | 16 | Fancy Tiley |
+| 1275 | 16 | Ashley McGeehan |
 | 1276 | 16 | Kiaralis Ashley Hancock |
 | 1277 | 16 | Valerie Morrison |
 | 1278 | 15 | Diana Acosta |
@@ -1292,25 +1292,25 @@
 | 1284 | 15 | Tha Don |
 | 1285 | 15 | Hasty Grabber |
 | 1286 | 15 | DuvaDova Ahava |
-| 1287 | 15 | Kiara Johnson |
-| 1288 | 15 | Speedy Rollbuilder |
-| 1289 | 15 | Ash |
-| 1290 | 15 | Chilly Glidezone |
-| 1291 | 15 | Mandi Rexroat |
-| 1292 | 15 | Chris Abney |
-| 1293 | 15 | Stacey Heartful |
-| 1294 | 15 | Mumsy |
-| 1295 | 15 | Chelsea Costa |
-| 1296 | 15 | Wacky Clusterer |
-| 1297 | 15 | Nicole Gilmore |
-| 1298 | 14 | Heather Garrity |
-| 1299 | 14 | Bookgirl69 |
-| 1300 | 14 | Kathy Lindsay |
+| 1287 | 15 | Stacey Heartful |
+| 1288 | 15 | Chris Abney |
+| 1289 | 15 | Wacky Clusterer |
+| 1290 | 15 | Nicole Gilmore |
+| 1291 | 15 | Kiara Johnson |
+| 1292 | 15 | Mandi Rexroat |
+| 1293 | 15 | Chilly Glidezone |
+| 1294 | 15 | Ash |
+| 1295 | 15 | Speedy Rollbuilder |
+| 1296 | 15 | Mumsy |
+| 1297 | 15 | Chelsea Costa |
+| 1298 | 14 | Snippy Twister |
+| 1299 | 14 | Kathy Lindsay |
+| 1300 | 14 | Heather Garrity |
 | 1301 | 14 | BreOunna Zonye Littleton |
 | 1302 | 14 | G Money |
 | 1303 | 14 | Mighty Clicky |
-| 1304 | 14 | Breezy Striker |
-| 1305 | 14 | Snippy Twister |
+| 1304 | 14 | Bookgirl69 |
+| 1305 | 14 | Breezy Striker |
 | 1306 | 14 | Heather Crowe |
 | 1307 | 14 | Heather Dornberger |
 | 1308 | 14 | Karissa Bailey |
