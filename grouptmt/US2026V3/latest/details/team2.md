@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 17:39:17 UTC
+# Standings for team2 as of 2026-06-07 17:40:19 UTC
 
 **Total Participants:** 1835
 
@@ -121,12 +121,12 @@
 | 113 | 668 | Epic Frame |
 | 114 | 664 | Mirr Lulu |
 | 115 | 659 | Amber-leigh Williams |
-| 116 | 643 | Alison Waller |
-| 117 | 632 | Wmk Rathbun |
-| 118 | 632 | Allie Bug |
-| 119 | 628 | Brandon Link |
-| 120 | 627 | Le Sandy |
-| 121 | 624 | Amber Wolf |
+| 116 | 644 | Amber Wolf |
+| 117 | 643 | Alison Waller |
+| 118 | 632 | Wmk Rathbun |
+| 119 | 632 | Allie Bug |
+| 120 | 628 | Brandon Link |
+| 121 | 627 | Le Sandy |
 | 122 | 614 | Kellie Sharp Godfrey |
 | 123 | 592 | Pooh |
 | 124 | 585 | Rhonda Diebold |
@@ -456,45 +456,45 @@
 | 448 | 145 | MamaRachel |
 | 449 | 145 | Muffin Popper |
 | 450 | 145 | Thy Bui |
-| 451 | 144 | Nikki Hatch |
-| 452 | 144 | Analee Nicole Jones |
+| 451 | 144 | Analee Nicole Jones |
+| 452 | 144 | Nikki Hatch |
 | 453 | 144 | Will Jones |
-| 454 | 143 | Matt Wylie |
-| 455 | 143 | Amanda L Strong |
-| 456 | 143 | Spicy Basepiece |
+| 454 | 143 | Spicy Basepiece |
+| 455 | 143 | Matt Wylie |
+| 456 | 143 | Amanda L Strong |
 | 457 | 142 | Spunky Cascadeclear |
 | 458 | 141 | Layla Petroff |
 | 459 | 141 | Tamtam |
-| 460 | 140 | Kristi Chestnut |
-| 461 | 140 | Dapper Riser |
+| 460 | 140 | Dapper Riser |
+| 461 | 140 | Kristi Chestnut |
 | 462 | 140 | Rescuegirl76 |
 | 463 | 140 | Starvinmarvin |
 | 464 | 140 | Bouncy Snapmatch |
-| 465 | 139 | Charles E Mccardell |
-| 466 | 139 | rebel4lyfe |
+| 465 | 139 | rebel4lyfe |
+| 466 | 139 | Charles E Mccardell |
 | 467 | 139 | Jason Burris |
 | 468 | 139 | Candi Cane |
-| 469 | 138 | Jessica Perkins |
+| 469 | 138 | Amber Smith |
 | 470 | 138 | Dad |
-| 471 | 138 | Jeff Pottgether |
-| 472 | 138 | Laurie |
-| 473 | 138 | Amber Smith |
+| 471 | 138 | Jessica Perkins |
+| 472 | 138 | Jeff Pottgether |
+| 473 | 138 | Melissa Fink |
 | 474 | 138 | Wendy McKee |
-| 475 | 138 | James Sayers |
-| 476 | 138 | NickandJess Reynolds |
-| 477 | 138 | Mama G |
-| 478 | 138 | Melissa Fink |
+| 475 | 138 | Laurie |
+| 476 | 138 | James Sayers |
+| 477 | 138 | NickandJess Reynolds |
+| 478 | 138 | Mama G |
 | 479 | 137 | Sandra Belk |
 | 480 | 137 | Sarah Louise Cobb |
 | 481 | 136 | Mtnblzr |
 | 482 | 136 | Lauren Maxwell |
 | 483 | 136 | Mandy Van Laningham Bishop |
-| 484 | 135 | Firebone |
+| 484 | 135 | Jumpy Matchbuilder |
 | 485 | 135 | Holly Huval |
-| 486 | 134 | Heather Billodeau |
-| 487 | 133 | Alicia Ellenburg |
-| 488 | 133 | Angela Hogan |
-| 489 | 132 | Jumpy Matchbuilder |
+| 486 | 135 | Firebone |
+| 487 | 134 | Heather Billodeau |
+| 488 | 133 | Alicia Ellenburg |
+| 489 | 133 | Angela Hogan |
 | 490 | 132 | LittleHippoEars |
 | 491 | 132 | Ava Speedy |
 | 492 | 132 | Raine |
@@ -1458,38 +1458,38 @@
 | 1450 | 23 | Amanda Raley |
 | 1451 | 22 | Melinda Rausch |
 | 1452 | 22 | Nutty Cascader |
-| 1453 | 22 | Amanda Hastings |
-| 1454 | 22 | Melanesia Springs |
-| 1455 | 22 | Marii |
-| 1456 | 22 | Tyler Bates |
-| 1457 | 22 | RNKERI |
-| 1458 | 22 | MoonLilly |
-| 1459 | 22 | Josimarie Otero |
-| 1460 | 22 | Jay King |
-| 1461 | 22 | SueEllen Hawkins |
-| 1462 | 22 | Jenny |
-| 1463 | 22 | Binska |
-| 1464 | 21 | Amanda Knox |
-| 1465 | 21 | Tina Thomason |
-| 1466 | 21 | Johnathon Mendiola |
-| 1467 | 21 | Sandra Mathes Reece |
-| 1468 | 21 | Jennifer Chapel |
-| 1469 | 21 | Black Sheep |
-| 1470 | 21 | Mandy |
-| 1471 | 21 | Mario Hillman |
-| 1472 | 21 | Shannie |
-| 1473 | 21 | Erica Abreu |
-| 1474 | 21 | Sir Paco |
-| 1475 | 21 | Amber Myers |
-| 1476 | 21 | Mona Good |
-| 1477 | 21 | Chill Shatterclear |
-| 1478 | 21 | Charlene Napier |
-| 1479 | 21 | Rachel Burkett |
-| 1480 | 21 | twistyzone |
-| 1481 | 21 | Loony Snapclear |
-| 1482 | 20 | Twisty Glider |
-| 1483 | 20 | KT Scott |
-| 1484 | 20 | Steven |
+| 1453 | 22 | Steven |
+| 1454 | 22 | Amanda Hastings |
+| 1455 | 22 | Melanesia Springs |
+| 1456 | 22 | Marii |
+| 1457 | 22 | Tyler Bates |
+| 1458 | 22 | RNKERI |
+| 1459 | 22 | MoonLilly |
+| 1460 | 22 | Josimarie Otero |
+| 1461 | 22 | Jay King |
+| 1462 | 22 | SueEllen Hawkins |
+| 1463 | 22 | Jenny |
+| 1464 | 22 | Binska |
+| 1465 | 21 | Amanda Knox |
+| 1466 | 21 | Tina Thomason |
+| 1467 | 21 | Johnathon Mendiola |
+| 1468 | 21 | Sandra Mathes Reece |
+| 1469 | 21 | Jennifer Chapel |
+| 1470 | 21 | Black Sheep |
+| 1471 | 21 | Mandy |
+| 1472 | 21 | Mario Hillman |
+| 1473 | 21 | Shannie |
+| 1474 | 21 | Erica Abreu |
+| 1475 | 21 | Sir Paco |
+| 1476 | 21 | Amber Myers |
+| 1477 | 21 | Mona Good |
+| 1478 | 21 | Chill Shatterclear |
+| 1479 | 21 | Charlene Napier |
+| 1480 | 21 | Rachel Burkett |
+| 1481 | 21 | twistyzone |
+| 1482 | 21 | Loony Snapclear |
+| 1483 | 20 | Twisty Glider |
+| 1484 | 20 | KT Scott |
 | 1485 | 20 | Jenn Wittkamp |
 | 1486 | 20 | Spunky Riserfit |
 | 1487 | 20 | Chummy Smasher |
