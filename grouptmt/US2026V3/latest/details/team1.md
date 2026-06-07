@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 12:12:40 UTC
+# Standings for team1 as of 2026-06-07 12:13:18 UTC
 
 **Total Participants:** 1449
 
@@ -40,9 +40,9 @@
 | 32 | 1855 | Speedy Spinblock |
 | 33 | 1785 | Jamie Willis |
 | 34 | 1677 | Markeeta Lipscomb |
-| 35 | 1602 | Brian Stackhouse |
-| 36 | 1550 | Cool Bridger |
-| 37 | 1532 | Ivana Schmidt |
+| 35 | 1672 | Ivana Schmidt |
+| 36 | 1602 | Brian Stackhouse |
+| 37 | 1550 | Cool Bridger |
 | 38 | 1500 | Chris Russell |
 | 39 | 1453 | Janet Cooke |
 | 40 | 1445 | Erika Windom |
@@ -294,43 +294,43 @@
 | 286 | 166 | Tarnisha Neicy Jones |
 | 287 | 166 | Valerie Alexander |
 | 288 | 165 | Skippy |
-| 289 | 165 | Tanisha Taylor |
-| 290 | 164 | TT |
-| 291 | 163 | Mafio SO |
-| 292 | 163 | Zappy Riser |
-| 293 | 162 | Speedy Stacky |
-| 294 | 162 | JaClanDiah |
-| 295 | 162 | Clever Fitblock |
-| 296 | 162 | Tosha Michelle |
-| 297 | 162 | Amy Lynn Leifheit |
-| 298 | 161 | Devron Reedy |
-| 299 | 160 | Carolyn Smith |
-| 300 | 160 | Tyiesha Pie Farmer |
-| 301 | 160 | Spicy Risepiece |
-| 302 | 160 | Zippy Tilefall |
-| 303 | 160 | Lively Riserpiece |
-| 304 | 159 | Penee Wiggins |
-| 305 | 159 | Rachael Bakowicz Edwards |
+| 289 | 165 | Rachael Bakowicz Edwards |
+| 290 | 165 | Tanisha Taylor |
+| 291 | 164 | TT |
+| 292 | 163 | Mafio SO |
+| 293 | 163 | Zappy Riser |
+| 294 | 162 | Speedy Stacky |
+| 295 | 162 | JaClanDiah |
+| 296 | 162 | Clever Fitblock |
+| 297 | 162 | Tosha Michelle |
+| 298 | 162 | Amy Lynn Leifheit |
+| 299 | 161 | Devron Reedy |
+| 300 | 160 | Carolyn Smith |
+| 301 | 160 | Tyiesha Pie Farmer |
+| 302 | 160 | Spicy Risepiece |
+| 303 | 160 | Zippy Tilefall |
+| 304 | 160 | Lively Riserpiece |
+| 305 | 159 | Penee Wiggins |
 | 306 | 159 | TBABYJ |
 | 307 | 158 | Kimberly Linares Hernandez |
 | 308 | 157 | Courtney Cicoria |
-| 309 | 156 | Cheeky Twistpiece |
-| 310 | 156 | Alyssa Rae |
+| 309 | 156 | Alyssa Rae |
+| 310 | 156 | Cheeky Twistpiece |
 | 311 | 156 | Slinky Snapbuilder |
 | 312 | 156 | SceneGreenz Wali |
 | 313 | 155 | Lazy Tiltpiece |
 | 314 | 153 | Tipsy Linkroll |
-| 315 | 152 | Wacky Stackbuilder |
-| 316 | 152 | Jolly Tilefall |
-| 317 | 150 | Slinky Party |
-| 318 | 150 | De'Nell Edwards |
+| 315 | 152 | Jolly Tilefall |
+| 316 | 152 | Wacky Stackbuilder |
+| 317 | 150 | De'Nell Edwards |
+| 318 | 150 | Slinky Party |
 | 319 | 150 | Simone Bailey |
-| 320 | 149 | Nina Davis |
-| 321 | 149 | HarleyJane |
+| 320 | 149 | Chasem45 |
+| 321 | 149 | Nina Davis |
 | 322 | 149 | Anthony |
-| 323 | 149 | Elizabeth Vega Coreano |
-| 324 | 149 | Christopher Dreamsareality McEachin |
-| 325 | 149 | Chasem45 |
+| 323 | 149 | HarleyJane |
+| 324 | 149 | Elizabeth Vega Coreano |
+| 325 | 149 | Christopher Dreamsareality McEachin |
 | 326 | 148 | LaToya Chambers |
 | 327 | 147 | Telisha Mims |
 | 328 | 147 | Joka NoTime ForHataz |
