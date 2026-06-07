@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 18:26:41 UTC
+# Standings for team1 as of 2026-06-07 18:27:18 UTC
 
 **Total Participants:** 1535
 
@@ -435,25 +435,25 @@
 | 427 | 130 | Kesha Brady |
 | 428 | 130 | Adrian Wilson |
 | 429 | 129 | Mathew Trudell |
-| 430 | 129 | Kate Hancock Malicek |
-| 431 | 129 | Loopy Tiler |
-| 432 | 129 | Lynn |
+| 430 | 129 | Loopy Tiler |
+| 431 | 129 | Lynn |
+| 432 | 129 | Kate Hancock Malicek |
 | 433 | 128 | Jack Vlasak |
-| 434 | 127 | Comedian Prince Paul |
-| 435 | 127 | Ozell Jones Jr. |
-| 436 | 126 | NewEve |
-| 437 | 126 | Chris Holland |
-| 438 | 126 | Laurie Napper |
-| 439 | 125 | LaTonya Myers |
-| 440 | 125 | Dizzy Dashy |
-| 441 | 125 | Taz Ballard |
-| 442 | 125 | Christina Singleton |
-| 443 | 124 | Logan Frost |
+| 434 | 127 | Ozell Jones Jr. |
+| 435 | 127 | Comedian Prince Paul |
+| 436 | 126 | Dede Tate |
+| 437 | 126 | Laurie Napper |
+| 438 | 126 | NewEve |
+| 439 | 126 | Chris Holland |
+| 440 | 125 | Christina Singleton |
+| 441 | 125 | LaTonya Myers |
+| 442 | 125 | Dizzy Dashy |
+| 443 | 125 | Taz Ballard |
 | 444 | 124 | Li-Li Ratliff |
-| 445 | 124 | The DUBZ |
-| 446 | 123 | Jeffrey Barrows |
+| 445 | 124 | Logan Frost |
+| 446 | 124 | The DUBZ |
 | 447 | 123 | Cauiasia DeJ'ae |
-| 448 | 123 | Dede Tate |
+| 448 | 123 | Jeffrey Barrows |
 | 449 | 122 | Xana Zania Bopp |
 | 450 | 122 | Yashica Smith |
 | 451 | 122 | Donna Payne |
@@ -594,21 +594,21 @@
 | 586 | 90 | Slinky Fallzone |
 | 587 | 89 | Daring Riserfit |
 | 588 | 89 | Jazzy Bridger |
-| 589 | 89 | Marc Papa |
-| 590 | 89 | Tracy Feyler |
-| 591 | 88 | Rachel Renae Bettis |
-| 592 | 88 | Vera Beckford |
-| 593 | 88 | Brenda Malachi-butler |
-| 594 | 88 | Spicy Shatterblock |
-| 595 | 88 | Esha I'msoproudofmyself Davis |
+| 589 | 89 | Esha I'msoproudofmyself Davis |
+| 590 | 89 | Marc Papa |
+| 591 | 89 | Tracy Feyler |
+| 592 | 88 | Rachel Renae Bettis |
+| 593 | 88 | Vera Beckford |
+| 594 | 88 | Brenda Malachi-butler |
+| 595 | 88 | Spicy Shatterblock |
 | 596 | 88 | Sallie Sanborn |
 | 597 | 87 | Natalie Burroughs |
 | 598 | 87 | Joseph Vs Cap |
 | 599 | 86 | Messy Live |
 | 600 | 86 | Tweet Turner |
 | 601 | 86 | Cm |
-| 602 | 86 | Kendra McIntyre |
-| 603 | 86 | Melissa Olvera |
+| 602 | 86 | Melissa Olvera |
+| 603 | 86 | Kendra McIntyre |
 | 604 | 86 | Giggly Tiltbuilder |
 | 605 | 86 | Angelique Talbot |
 | 606 | 86 | MrsDontPlay |
@@ -734,22 +734,22 @@
 | 726 | 71 | akosua |
 | 727 | 71 | Ryan Holm |
 | 728 | 71 | HBTone |
-| 729 | 71 | KimChii |
-| 730 | 70 | Mellie Mel |
-| 731 | 70 | Smøke DGAF |
-| 732 | 70 | Marshall Davis |
-| 733 | 70 | Rachel Lopez |
-| 734 | 70 | West Racks |
-| 735 | 70 | JoZanna Washington |
-| 736 | 70 | Kàrma Lee |
-| 737 | 69 | BrettanMary Adkins |
-| 738 | 69 | Crtjstr |
-| 739 | 69 | Markeita Jones |
-| 740 | 69 | GiantBehemoth |
-| 741 | 69 | Abby |
-| 742 | 69 | Keith Johnson |
-| 743 | 69 | Jose Rodriguez |
-| 744 | 68 | Ashanti Eden |
+| 729 | 71 | Ashanti Eden |
+| 730 | 71 | KimChii |
+| 731 | 70 | Mellie Mel |
+| 732 | 70 | Smøke DGAF |
+| 733 | 70 | Marshall Davis |
+| 734 | 70 | Rachel Lopez |
+| 735 | 70 | West Racks |
+| 736 | 70 | JoZanna Washington |
+| 737 | 70 | Kàrma Lee |
+| 738 | 69 | BrettanMary Adkins |
+| 739 | 69 | Crtjstr |
+| 740 | 69 | Markeita Jones |
+| 741 | 69 | GiantBehemoth |
+| 742 | 69 | Abby |
+| 743 | 69 | Keith Johnson |
+| 744 | 69 | Jose Rodriguez |
 | 745 | 68 | SnazzyIvy |
 | 746 | 68 | Fatty May |
 | 747 | 68 | Nikiya |
