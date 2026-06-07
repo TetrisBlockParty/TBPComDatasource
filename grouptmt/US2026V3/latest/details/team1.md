@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 13:38:42 UTC
+# Standings for team1 as of 2026-06-07 13:39:19 UTC
 
 **Total Participants:** 1469
 
@@ -17,7 +17,7 @@
 | 9 | 6949 | Dyane Leah Ware |
 | 10 | 6802 | Cozy Edge |
 | 11 | 6754 | Death by SnuSnu |
-| 12 | 5778 | Debbie Carswell |
+| 12 | 5928 | Debbie Carswell |
 | 13 | 5512 | Jocelyn Pope-Sewell |
 | 14 | 5511 | Timothy Robert |
 | 15 | 5282 | Plucky Swipe |
