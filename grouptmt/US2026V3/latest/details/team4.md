@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 20:12:18 UTC
+# Standings for team4 as of 2026-06-07 20:12:42 UTC
 
 **Total Participants:** 1594
 
@@ -57,7 +57,7 @@
 | 49 | 1527 | Victoria Ver |
 | 50 | 1400 | Michele |
 | 51 | 1300 | Elissa S-k |
-| 52 | 1249 | Charlie Lewis |
+| 52 | 1279 | Charlie Lewis |
 | 53 | 1247 | Adam J Leong |
 | 54 | 1200 | Caitlin Johnson |
 | 55 | 1195 | Chummy Rollzone |
@@ -243,8 +243,8 @@
 | 235 | 240 | CIRAZYPNOY |
 | 236 | 239 | Shauna Davis |
 | 237 | 238 | Tara Delay Hill |
-| 238 | 236 | Becky McCool |
-| 239 | 235 | Solace Grace |
+| 238 | 237 | Solace Grace |
+| 239 | 236 | Becky McCool |
 | 240 | 231 | Patrick Alley |
 | 241 | 230 | gabs |
 | 242 | 228 | Shiny Brick |
@@ -1167,14 +1167,14 @@
 | 1159 | 33 | Tracy Ann Frederick |
 | 1160 | 33 | Chill Snapclear |
 | 1161 | 33 | Shupurplenurkle |
-| 1162 | 33 | Donna Howard |
-| 1163 | 32 | Rezinbauer Spicer |
+| 1162 | 33 | Hasty Grabber |
+| 1163 | 33 | Donna Howard |
 | 1164 | 32 | Tbag |
 | 1165 | 32 | Wali Muhammad |
 | 1166 | 32 | Hyper Clusterline |
 | 1167 | 32 | Cranky Twisterfit |
 | 1168 | 32 | Boldy Clicky |
-| 1169 | 32 | Hasty Grabber |
+| 1169 | 32 | Rezinbauer Spicer |
 | 1170 | 32 | Wyatt |
 | 1171 | 32 | Holly |
 | 1172 | 32 | Hyper Snaplink |

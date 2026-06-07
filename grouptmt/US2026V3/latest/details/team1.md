@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 20:12:18 UTC
+# Standings for team1 as of 2026-06-07 20:12:42 UTC
 
 **Total Participants:** 1563
 
@@ -805,114 +805,114 @@
 | 797 | 64 | Elaine Youmans |
 | 798 | 64 | Marbama |
 | 799 | 64 | Tomme Poliwka |
-| 800 | 63 | Jason Saputo |
-| 801 | 63 | Shawna Passwater |
-| 802 | 63 | Tony P Burke |
+| 800 | 63 | Tip318 |
+| 801 | 63 | Ashley Monet Terrell |
+| 802 | 63 | Ounquan Wright |
 | 803 | 63 | Tonny Williams |
-| 804 | 63 | Ahsokadog |
-| 805 | 63 | Poppy Smasher |
-| 806 | 63 | Tip318 |
+| 804 | 63 | Shawna Passwater |
+| 805 | 63 | Heather Wilson |
+| 806 | 63 | Gary Kyle |
 | 807 | 63 | Natasha Harris |
-| 808 | 63 | Ashley Monet Terrell |
-| 809 | 63 | Gary Kyle |
-| 810 | 63 | Heather Wilson |
-| 811 | 63 | Ounquan Wright |
-| 812 | 62 | Delitra Perkins Hatter |
+| 808 | 63 | Tony P Burke |
+| 809 | 63 | Poppy Smasher |
+| 810 | 63 | Jason Saputo |
+| 811 | 63 | Ahsokadog |
+| 812 | 62 | Amihan |
 | 813 | 62 | AshMo |
-| 814 | 62 | Spicy Hedgehog |
-| 815 | 62 | Amihan |
-| 816 | 62 | Quwana Hall |
-| 817 | 62 | Cj Chimelis |
-| 818 | 62 | Bunnie Celtavini |
-| 819 | 62 | S.S |
-| 820 | 62 | Nedine Ray |
-| 821 | 62 | Chris Rogers |
-| 822 | 61 | Tonya Thomas |
-| 823 | 60 | Haakuu |
-| 824 | 60 | Yellowguy3 |
-| 825 | 60 | Laysa Nunez |
-| 826 | 60 | Kyle Conley |
-| 827 | 60 | Tyrone Porter |
-| 828 | 60 | Stanley Dixon |
-| 829 | 60 | Demi Ovalle |
-| 830 | 60 | Tellisa Payne |
-| 831 | 60 | lookin |
-| 832 | 60 | SherylU |
-| 833 | 60 | Missy Myvette |
-| 834 | 60 | lizlizliz |
-| 835 | 60 | Pinky Pink |
-| 836 | 60 | Andy Rivera |
-| 837 | 60 | Dianne Clagon |
+| 814 | 62 | Delitra Perkins Hatter |
+| 815 | 62 | Bunnie Celtavini |
+| 816 | 62 | Cj Chimelis |
+| 817 | 62 | S.S |
+| 818 | 62 | Quwana Hall |
+| 819 | 62 | Spicy Hedgehog |
+| 820 | 62 | Shona ShayShay Jones |
+| 821 | 62 | Nedine Ray |
+| 822 | 62 | Chris Rogers |
+| 823 | 61 | Tonya Thomas |
+| 824 | 60 | lizlizliz |
+| 825 | 60 | Tellisa Payne |
+| 826 | 60 | Tyrone Porter |
+| 827 | 60 | Demi Ovalle |
+| 828 | 60 | Kyle Conley |
+| 829 | 60 | Yellowguy3 |
+| 830 | 60 | Pinky Pink |
+| 831 | 60 | Missy Myvette |
+| 832 | 60 | Laysa Nunez |
+| 833 | 60 | Stanley Dixon |
+| 834 | 60 | Andy Rivera |
+| 835 | 60 | lookin |
+| 836 | 60 | Dianne Clagon |
+| 837 | 60 | SherylU |
 | 838 | 60 | Malcolm Stanley |
 | 839 | 60 | Jennifer Endean |
-| 840 | 60 | Swanky Glide |
-| 841 | 60 | Tanesha Ga'sFinest Corbett |
-| 842 | 59 | Sweet BayBee |
-| 843 | 59 | Andrea Jackson |
-| 844 | 59 | Wacky Spinfit |
-| 845 | 59 | Parris Wright |
-| 846 | 59 | Smiley Tilebuilder |
-| 847 | 59 | Darrel Pemberton |
-| 848 | 59 | Tamyka E Williams |
-| 849 | 59 | Teresa Menefee |
-| 850 | 59 | Sugar Foot |
-| 851 | 59 | Erica Campbell-Stillings |
-| 852 | 58 | Witty Clear |
-| 853 | 58 | Gabriela Hernandez |
-| 854 | 58 | Giggy Brickfit |
-| 855 | 58 | Jane Lame |
-| 856 | 58 | Alexandrla Smith |
-| 857 | 58 | Brandy Way |
-| 858 | 58 | Rieshelda Marie White |
-| 859 | 58 | Kiki |
-| 860 | 58 | CoaCoa Myles |
-| 861 | 58 | NickyJay Jones |
-| 862 | 58 | Analesia Taylor |
-| 863 | 57 | Desire Rice |
-| 864 | 57 | Elizabeth Clara |
-| 865 | 57 | squints |
-| 866 | 57 | Linda Lasha Messenger |
-| 867 | 57 | Idelia L Brown |
-| 868 | 57 | Vernon Hoyt |
-| 869 | 57 | Shauntai Holiday |
-| 870 | 57 | Christy Quick |
-| 871 | 56 | Lisa Ivy |
-| 872 | 56 | Maria Baez Medina |
-| 873 | 56 | Chanel White |
-| 874 | 56 | jeremy92 |
-| 875 | 56 | NataAllDay |
-| 876 | 56 | QueenzMo |
-| 877 | 56 | Kayleah Washington |
-| 878 | 56 | Sally Elizabeth Hopson |
-| 879 | 55 | Kyle Franklin |
-| 880 | 55 | KoolKimJay |
-| 881 | 55 | nameno |
-| 882 | 54 | Felicia Yahuah Johnson |
-| 883 | 54 | rummy |
-| 884 | 54 | Kashh |
-| 885 | 54 | Katness |
-| 886 | 54 | Embracing Hair |
+| 840 | 60 | Tanesha Ga'sFinest Corbett |
+| 841 | 60 | Haakuu |
+| 842 | 60 | Swanky Glide |
+| 843 | 59 | Smiley Tilebuilder |
+| 844 | 59 | Parris Wright |
+| 845 | 59 | Teresa Menefee |
+| 846 | 59 | Wacky Spinfit |
+| 847 | 59 | Sugar Foot |
+| 848 | 59 | Sweet BayBee |
+| 849 | 59 | Darrel Pemberton |
+| 850 | 59 | Andrea Jackson |
+| 851 | 59 | Tamyka E Williams |
+| 852 | 59 | Erica Campbell-Stillings |
+| 853 | 58 | Kiki |
+| 854 | 58 | Alexandrla Smith |
+| 855 | 58 | Giggy Brickfit |
+| 856 | 58 | Brandy Way |
+| 857 | 58 | CoaCoa Myles |
+| 858 | 58 | Jane Lame |
+| 859 | 58 | NickyJay Jones |
+| 860 | 58 | Rieshelda Marie White |
+| 861 | 58 | Gabriela Hernandez |
+| 862 | 58 | Witty Clear |
+| 863 | 58 | Analesia Taylor |
+| 864 | 57 | Christy Quick |
+| 865 | 57 | Linda Lasha Messenger |
+| 866 | 57 | Shauntai Holiday |
+| 867 | 57 | Elizabeth Clara |
+| 868 | 57 | Idelia L Brown |
+| 869 | 57 | Vernon Hoyt |
+| 870 | 57 | Desire Rice |
+| 871 | 57 | squints |
+| 872 | 56 | Lisa Ivy |
+| 873 | 56 | Maria Baez Medina |
+| 874 | 56 | Chanel White |
+| 875 | 56 | jeremy92 |
+| 876 | 56 | NataAllDay |
+| 877 | 56 | QueenzMo |
+| 878 | 56 | Kayleah Washington |
+| 879 | 56 | Sally Elizabeth Hopson |
+| 880 | 55 | Kyle Franklin |
+| 881 | 55 | KoolKimJay |
+| 882 | 55 | nameno |
+| 883 | 54 | Embracing Hair |
+| 884 | 54 | rummy |
+| 885 | 54 | Kashh |
+| 886 | 54 | Katness |
 | 887 | 54 | deeno |
-| 888 | 54 | Darrelle Short |
-| 889 | 54 | Fairy Fae_6 |
-| 890 | 54 | Christina Wesley |
+| 888 | 54 | Felicia Yahuah Johnson |
+| 889 | 54 | Darrelle Short |
+| 890 | 54 | Fairy Fae_6 |
 | 891 | 54 | Ashley Davis |
-| 892 | 53 | Shona ShayShay Jones |
-| 893 | 53 | Xrandomx |
-| 894 | 53 | Williams Candace |
+| 892 | 54 | Christina Wesley |
+| 893 | 53 | Morenita Rodriguez |
+| 894 | 53 | Clever Wrecker |
 | 895 | 53 | brite |
-| 896 | 53 | Clever Wrecker |
-| 897 | 53 | Morenita Rodriguez |
-| 898 | 52 | Abdul Malik |
+| 896 | 53 | Williams Candace |
+| 897 | 53 | Xrandomx |
+| 898 | 52 | Giggy Holder |
 | 899 | 52 | Tray Tolliver |
-| 900 | 52 | Giggy Holder |
-| 901 | 52 | Chummy Liner |
-| 902 | 52 | Loopy Risepiece |
+| 900 | 52 | Abdul Malik |
+| 901 | 52 | Loopy Risepiece |
+| 902 | 52 | Chummy Liner |
 | 903 | 52 | Diamond Nicole |
 | 904 | 51 | Boldy Matchfit |
-| 905 | 51 | Oaklonboy mike |
-| 906 | 51 | Shanjerrica Taylor Rosell |
-| 907 | 51 | Laura |
+| 905 | 51 | Shanjerrica Taylor Rosell |
+| 906 | 51 | Laura |
+| 907 | 51 | Oaklonboy mike |
 | 908 | 51 | Dizzy Gridmatch |
 | 909 | 51 | BigMike |
 | 910 | 51 | Evelyn Epps |
