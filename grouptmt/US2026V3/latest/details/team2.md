@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 19:04:40 UTC
+# Standings for team2 as of 2026-06-07 19:05:19 UTC
 
 **Total Participants:** 1864
 
@@ -53,7 +53,7 @@
 | 45 | 2090 | Betty Barrett |
 | 46 | 2086 | Andrew Weissenborn |
 | 47 | 2011 | Tom Badgley |
-| 48 | 1946 | Rose Schaffner-Kibler |
+| 48 | 1966 | Rose Schaffner-Kibler |
 | 49 | 1944 | AcardBoardBox |
 | 50 | 1928 | Elizabeth Mooney |
 | 51 | 1906 | Jennifer Corder |
@@ -141,8 +141,8 @@
 | 133 | 574 | Brandy McCune Reep |
 | 134 | 570 | Kathleen Dumbazz |
 | 135 | 567 | Amber Miller Wirick |
-| 136 | 563 | Tisha Hairston |
-| 137 | 563 | Allison Jarman |
+| 136 | 563 | Allison Jarman |
+| 137 | 563 | Tisha Hairston |
 | 138 | 554 | Cathy Tippett |
 | 139 | 553 | Jamie Jones |
 | 140 | 550 | Sully |
@@ -170,16 +170,16 @@
 | 162 | 448 | Eric Drane |
 | 163 | 444 | Ashley Green |
 | 164 | 438 | Michelle Rich Burkhart |
-| 165 | 436 | MegaPooh |
-| 166 | 436 | Gill |
+| 165 | 436 | Gill |
+| 166 | 436 | MegaPooh |
 | 167 | 429 | Cool Climber |
 | 168 | 429 | Snappy Blockbuilder |
-| 169 | 418 | Kelly Rogers |
-| 170 | 418 | Zany Blockclear |
-| 171 | 416 | Suki Jacobs |
-| 172 | 414 | Tara |
-| 173 | 413 | Chirpy Grid |
-| 174 | 409 | Danielle Blount |
+| 169 | 424 | Danielle Blount |
+| 170 | 418 | Kelly Rogers |
+| 171 | 418 | Zany Blockclear |
+| 172 | 416 | Suki Jacobs |
+| 173 | 414 | Tara |
+| 174 | 413 | Chirpy Grid |
 | 175 | 407 | Lyric Price |
 | 176 | 406 | Frilly Dashfit |
 | 177 | 405 | Erin Thomas |
@@ -285,14 +285,14 @@
 | 277 | 250 | Happy Drop |
 | 278 | 249 | Larry Cross |
 | 279 | 249 | Elizabeth Henry |
-| 280 | 247 | Amie Marks |
-| 281 | 247 | Stephanie |
-| 282 | 247 | Logan Duffey |
-| 283 | 247 | SilentBuffalo |
-| 284 | 246 | Brooke Lynn Marie Adelaide |
-| 285 | 245 | Danielle Pack Lewellen |
-| 286 | 245 | Amy Taylor Pomerenk |
-| 287 | 245 | Spicy Risegrid |
+| 280 | 248 | Spicy Risegrid |
+| 281 | 247 | Amie Marks |
+| 282 | 247 | Stephanie |
+| 283 | 247 | Logan Duffey |
+| 284 | 247 | SilentBuffalo |
+| 285 | 246 | Brooke Lynn Marie Adelaide |
+| 286 | 245 | Danielle Pack Lewellen |
+| 287 | 245 | Amy Taylor Pomerenk |
 | 288 | 241 | SEH |
 | 289 | 241 | Boldy Wobbler |
 | 290 | 240 | PaiBri |
@@ -303,19 +303,19 @@
 | 295 | 235 | Adriana Daniela Agapie |
 | 296 | 234 | Nicole Plummer |
 | 297 | 234 | Sabrina Hardrick |
-| 298 | 230 | Brandy Chinelle |
-| 299 | 230 | Sharon L Brazelton |
-| 300 | 230 | Crystal Poss |
-| 301 | 230 | Kelly Vedder |
-| 302 | 229 | Ariel Gundersen |
-| 303 | 229 | Angie Bishop |
-| 304 | 227 | Laura Melton |
-| 305 | 227 | Liseth Vasquez |
-| 306 | 225 | Cheery Towerzone |
-| 307 | 225 | Theresa Huddleston |
-| 308 | 224 | Nathan Walker |
+| 298 | 231 | Olivia Jefferson |
+| 299 | 230 | Brandy Chinelle |
+| 300 | 230 | Sharon L Brazelton |
+| 301 | 230 | Crystal Poss |
+| 302 | 230 | Kelly Vedder |
+| 303 | 229 | Ariel Gundersen |
+| 304 | 229 | Angie Bishop |
+| 305 | 227 | Laura Melton |
+| 306 | 227 | Liseth Vasquez |
+| 307 | 225 | Cheery Towerzone |
+| 308 | 225 | Theresa Huddleston |
 | 309 | 224 | Avie Lou |
-| 310 | 224 | Olivia Jefferson |
+| 310 | 224 | Nathan Walker |
 | 311 | 223 | Santara Ferguson |
 | 312 | 221 | Bianca Woodruff |
 | 313 | 220 | Flashy Basegrid |
