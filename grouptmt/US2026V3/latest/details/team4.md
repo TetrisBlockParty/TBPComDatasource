@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 12:44:39 UTC
+# Standings for team4 as of 2026-06-07 12:45:18 UTC
 
 **Total Participants:** 1460
 
@@ -37,7 +37,7 @@
 | 29 | 2954 | Senor Moppy |
 | 30 | 2689 | Ning Quiambao |
 | 31 | 2133 | Alexandria Frazier |
-| 32 | 1944 | Juan Ford |
+| 32 | 2000 | Juan Ford |
 | 33 | 1922 | Dana Rinaldi |
 | 34 | 1908 | Michele Walker |
 | 35 | 1867 | Leigh Pierce |
@@ -164,26 +164,26 @@
 | 156 | 336 | Samantha Worley |
 | 157 | 335 | Andrew Dang |
 | 158 | 326 | Bobbie Harrell |
-| 159 | 317 | Debby Ruof |
-| 160 | 315 | Thomasena Eady Reid |
-| 161 | 311 | Jesse Olive |
-| 162 | 304 | Dazzle Dragon |
-| 163 | 303 | Sisi RedVelvet Reneè |
-| 164 | 302 | Katie Martin |
-| 165 | 300 | Genag |
-| 166 | 297 | beTrue76 |
-| 167 | 296 | Randy M Hatch |
-| 168 | 294 | Yesenia Castro Monreal |
-| 169 | 292 | Danielle Mitchell |
-| 170 | 291 | shawna |
-| 171 | 289 | Chiquita Blue |
-| 172 | 288 | Maria Castillo |
-| 173 | 288 | LastBoi |
-| 174 | 286 | Perky Riserbuilder |
-| 175 | 286 | matt |
-| 176 | 285 | Scamp Jones |
-| 177 | 285 | TRUCHILD777$$$ |
-| 178 | 282 | squareMel |
+| 159 | 322 | squareMel |
+| 160 | 317 | Debby Ruof |
+| 161 | 315 | Thomasena Eady Reid |
+| 162 | 311 | Jesse Olive |
+| 163 | 304 | Dazzle Dragon |
+| 164 | 303 | Sisi RedVelvet Reneè |
+| 165 | 302 | Katie Martin |
+| 166 | 300 | Genag |
+| 167 | 297 | beTrue76 |
+| 168 | 296 | Randy M Hatch |
+| 169 | 294 | Yesenia Castro Monreal |
+| 170 | 292 | Danielle Mitchell |
+| 171 | 291 | shawna |
+| 172 | 289 | Chiquita Blue |
+| 173 | 288 | Maria Castillo |
+| 174 | 288 | LastBoi |
+| 175 | 286 | Perky Riserbuilder |
+| 176 | 286 | matt |
+| 177 | 285 | Scamp Jones |
+| 178 | 285 | TRUCHILD777$$$ |
 | 179 | 282 | Nicole |
 | 180 | 281 | Margie Thomas |
 | 181 | 280 | Slimm |
@@ -212,12 +212,12 @@
 | 204 | 236 | Becky McCool |
 | 205 | 236 | BusterBear56 |
 | 206 | 233 | Christy Beezley-Forbush |
-| 207 | 231 | Patrick Alley |
-| 208 | 231 | Cheery Risegrid |
+| 207 | 232 | Cheery Risegrid |
+| 208 | 231 | Patrick Alley |
 | 209 | 230 | gabs |
 | 210 | 226 | Sassy Rollpiece |
-| 211 | 225 | Shocinda Sherwood |
-| 212 | 225 | Dubiousdust |
+| 211 | 225 | Dubiousdust |
+| 212 | 225 | Shocinda Sherwood |
 | 213 | 225 | Chirpy Link |
 | 214 | 224 | Janet Sanfilippo Sullivan |
 | 215 | 223 | Queen B |
@@ -237,9 +237,9 @@
 | 229 | 207 | Aramat |
 | 230 | 205 | Kristen Wallace |
 | 231 | 200 | Sarah Montagne Forsberg |
-| 232 | 199 | Lively Blockpiece |
-| 233 | 199 | Janet Willoughby |
-| 234 | 199 | Spicy Chicken |
+| 232 | 199 | Spicy Chicken |
+| 233 | 199 | Lively Blockpiece |
+| 234 | 199 | Janet Willoughby |
 | 235 | 199 | Colin |
 | 236 | 197 | Tiggerjake |
 | 237 | 196 | Loopy Clusterline |
@@ -295,12 +295,12 @@
 | 287 | 162 | Chonda OhanaMomma Michelle |
 | 288 | 161 | Bouncy |
 | 289 | 161 | Cindy |
-| 290 | 160 | kellie |
-| 291 | 160 | Fran Aaron-Ring |
-| 292 | 160 | Frothy Pattern |
-| 293 | 159 | JoAnn Summerlot Ratliff |
-| 294 | 159 | Logan Two-dubs Baker |
-| 295 | 158 | Snazzy Corner |
+| 290 | 161 | Snazzy Corner |
+| 291 | 160 | Frothy Pattern |
+| 292 | 160 | kellie |
+| 293 | 160 | Fran Aaron-Ring |
+| 294 | 159 | JoAnn Summerlot Ratliff |
+| 295 | 159 | Logan Two-dubs Baker |
 | 296 | 158 | Dena Lynn Rogers |
 | 297 | 158 | Joseph Hunter |
 | 298 | 158 | Corie A. Brinson |
@@ -629,13 +629,13 @@
 | 621 | 70 | Joha Mldo Castillo |
 | 622 | 70 | Breezy Blockzone |
 | 623 | 70 | Kimberly Devon |
-| 624 | 70 | Winter Moon |
-| 625 | 70 | LilithMoon |
+| 624 | 70 | LilithMoon |
+| 625 | 70 | Winter Moon |
 | 626 | 69 | chefjaydawg |
 | 627 | 69 | Capone |
-| 628 | 69 | Khylee DarDar |
-| 629 | 69 | Beth Belanger |
-| 630 | 69 | Gigi5 |
+| 628 | 69 | Gigi5 |
+| 629 | 69 | Khylee DarDar |
+| 630 | 69 | Beth Belanger |
 | 631 | 69 | Breezy Rollfit |
 | 632 | 69 | Giggy Risegrid |
 | 633 | 69 | Alicia Cook |
@@ -644,14 +644,14 @@
 | 636 | 68 | Raising Stars |
 | 637 | 68 | Vonni McLean |
 | 638 | 68 | Poptart |
-| 639 | 68 | Paula Renee McCracken |
-| 640 | 68 | Keys Tome |
-| 641 | 67 | Snappy Stack |
-| 642 | 67 | Noa Lee |
-| 643 | 67 | Mc3003 |
-| 644 | 67 | Peterson Cottontail |
-| 645 | 67 | Ashley DuVall |
-| 646 | 67 | Kimberly Ann |
+| 639 | 68 | Keys Tome |
+| 640 | 68 | Paula Renee McCracken |
+| 641 | 67 | Ashley DuVall |
+| 642 | 67 | Peterson Cottontail |
+| 643 | 67 | Snappy Stack |
+| 644 | 67 | Kimberly Ann |
+| 645 | 67 | Noa Lee |
+| 646 | 67 | Mc3003 |
 | 647 | 67 | Yournightmare |
 | 648 | 67 | SueSally |
 | 649 | 67 | Wacky Snaplink |
@@ -660,50 +660,50 @@
 | 652 | 67 | Andy Petersen |
 | 653 | 66 | james |
 | 654 | 66 | Jennifer Brucz |
-| 655 | 66 | Joyce Hampton |
-| 656 | 66 | Mann Manson |
-| 657 | 66 | Dapper Tiltpiece |
-| 658 | 65 | Monte Smith |
-| 659 | 65 | Youngkueen |
-| 660 | 65 | Tony Clark |
-| 661 | 65 | Pap337 |
-| 662 | 65 | Yvette Johnson |
-| 663 | 65 | Genger |
+| 655 | 66 | Nikcole Alexis Bryan |
+| 656 | 66 | Dapper Tiltpiece |
+| 657 | 66 | Joyce Hampton |
+| 658 | 66 | Mann Manson |
+| 659 | 65 | Tony Clark |
+| 660 | 65 | Yvette Johnson |
+| 661 | 65 | Genger |
+| 662 | 65 | Youngkueen |
+| 663 | 65 | Monte Smith |
 | 664 | 65 | Knijur Callins |
-| 665 | 65 | Dinah Mccall |
-| 666 | 65 | Lacie Powers |
-| 667 | 65 | Gabby Simones |
-| 668 | 65 | Rocky |
-| 669 | 65 | Jailen Harper |
-| 670 | 64 | Daffney Starr |
-| 671 | 64 | Jade Alley |
-| 672 | 64 | MamaC |
-| 673 | 64 | Surviving Be Back Soon |
-| 674 | 64 | David Lay |
-| 675 | 64 | Daring Brickbuilder |
-| 676 | 64 | Nicole Ambrose |
-| 677 | 63 | MattJennifer Marie Ericson |
+| 665 | 65 | Pap337 |
+| 666 | 65 | Dinah Mccall |
+| 667 | 65 | Lacie Powers |
+| 668 | 65 | Gabby Simones |
+| 669 | 65 | Rocky |
+| 670 | 65 | Jailen Harper |
+| 671 | 64 | Daffney Starr |
+| 672 | 64 | Jade Alley |
+| 673 | 64 | MamaC |
+| 674 | 64 | Nicole Ambrose |
+| 675 | 64 | David Lay |
+| 676 | 64 | Surviving Be Back Soon |
+| 677 | 64 | Daring Brickbuilder |
 | 678 | 63 | ButterfliesRFree |
-| 679 | 63 | Marina |
-| 680 | 63 | JP |
-| 681 | 63 | Shirley A. Godfrey |
-| 682 | 63 | Cassie N Danica Flaherty |
-| 683 | 63 | Miguel Teixeira |
-| 684 | 63 | Poppy |
-| 685 | 63 | Swanky Brickzone |
-| 686 | 63 | Renzo Tonini |
-| 687 | 63 | Lush Twisterfit |
-| 688 | 63 | Amber Jalbert |
-| 689 | 63 | Maria Munoz |
-| 690 | 63 | Snow77white |
-| 691 | 63 | Phredda Helene Gavornik |
-| 692 | 63 | Brenda Mueller |
-| 693 | 62 | Mar Mar |
-| 694 | 62 | ShaniP |
-| 695 | 62 | 94Blockhead |
-| 696 | 61 | Danielle Sulano |
-| 697 | 61 | Joe Win |
-| 698 | 61 | Nikcole Alexis Bryan |
+| 679 | 63 | MattJennifer Marie Ericson |
+| 680 | 63 | Marina |
+| 681 | 63 | JP |
+| 682 | 63 | Shirley A. Godfrey |
+| 683 | 63 | Cassie N Danica Flaherty |
+| 684 | 63 | Miguel Teixeira |
+| 685 | 63 | Poppy |
+| 686 | 63 | Swanky Brickzone |
+| 687 | 63 | Renzo Tonini |
+| 688 | 63 | Lush Twisterfit |
+| 689 | 63 | Amber Jalbert |
+| 690 | 63 | Maria Munoz |
+| 691 | 63 | Snow77white |
+| 692 | 63 | Phredda Helene Gavornik |
+| 693 | 63 | Brenda Mueller |
+| 694 | 62 | Mar Mar |
+| 695 | 62 | ShaniP |
+| 696 | 62 | 94Blockhead |
+| 697 | 61 | Danielle Sulano |
+| 698 | 61 | Joe Win |
 | 699 | 61 | Elisha Thompson |
 | 700 | 61 | Maicy Darrah |
 | 701 | 61 | Certified Da Don |
@@ -721,11 +721,11 @@
 | 713 | 60 | Brett |
 | 714 | 60 | Kristine Hj Han |
 | 715 | 60 | Jessica Kelly |
-| 716 | 60 | BethB |
+| 716 | 60 | Robert Crow |
 | 717 | 60 | Chris Rowe |
 | 718 | 60 | Tod Jae |
 | 719 | 60 | Kena T. Tanner |
-| 720 | 60 | Robert Crow |
+| 720 | 60 | BethB |
 | 721 | 60 | DanceAngel |
 | 722 | 60 | Angela Adamo-Tash |
 | 723 | 60 | Breezy Brickfit |
