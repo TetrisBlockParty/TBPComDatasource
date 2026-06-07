@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 16:48:18 UTC
+# Standings for team1 as of 2026-06-07 16:48:38 UTC
 
 **Total Participants:** 1511
 
@@ -59,7 +59,7 @@
 | 51 | 1219 | Holly Jolly |
 | 52 | 1120 | Ryan Meilleur |
 | 53 | 1102 | D'Andra Stewart |
-| 54 | 1095 | Ceilo Marie |
+| 54 | 1101 | Ceilo Marie |
 | 55 | 1079 | Angela R Wilson |
 | 56 | 1078 | Danielle DeLozier Plesec |
 | 57 | 1067 | Catara Renae Oliver |
@@ -454,89 +454,89 @@
 | 446 | 118 | Rhianna Dinki Austin |
 | 447 | 117 | Nora Mahmoud |
 | 448 | 117 | Jeffrey Barrows |
-| 449 | 117 | Joana Thompson |
-| 450 | 117 | MonaSparks |
-| 451 | 116 | Chummy Frame |
-| 452 | 116 | Yadira Salgado |
-| 453 | 116 | Jess |
-| 454 | 115 | BabyCakes |
-| 455 | 115 | wmedina67 |
-| 456 | 114 | Jes Marie |
-| 457 | 114 | Faith Armone |
-| 458 | 114 | Cranky Fall |
+| 449 | 117 | Daring Blockclear |
+| 450 | 117 | Joana Thompson |
+| 451 | 117 | MonaSparks |
+| 452 | 116 | Chummy Frame |
+| 453 | 116 | Yadira Salgado |
+| 454 | 116 | Jess |
+| 455 | 115 | BabyCakes |
+| 456 | 115 | wmedina67 |
+| 457 | 114 | Jes Marie |
+| 458 | 114 | Faith Armone |
 | 459 | 114 | LAhoneybun82 |
-| 460 | 113 | Shakuria Cortia Burney |
-| 461 | 112 | GamerQueenDS |
-| 462 | 112 | Jennah |
-| 463 | 112 | Nyhlah Patterson |
-| 464 | 111 | Ad Doctor |
-| 465 | 111 | Daring Blockclear |
+| 460 | 114 | Cranky Fall |
+| 461 | 113 | Shakuria Cortia Burney |
+| 462 | 112 | Nyhlah Patterson |
+| 463 | 112 | GamerQueenDS |
+| 464 | 112 | Jennah |
+| 465 | 111 | Ad Doctor |
 | 466 | 111 | Angie Smith |
 | 467 | 111 | Zany Breaker |
 | 468 | 110 | Chandler Magee |
 | 469 | 110 | Nisha Sunshine Jenkins |
 | 470 | 110 | Slinky Clearzone |
-| 471 | 109 | Kortney Adams |
-| 472 | 109 | Frances Davis |
-| 473 | 109 | Rufus |
+| 471 | 109 | Tamika Fisher |
+| 472 | 109 | Rufus |
+| 473 | 109 | Frances Davis |
 | 474 | 109 | Jenni Hardman |
-| 475 | 109 | Tamika Fisher |
+| 475 | 109 | Kortney Adams |
 | 476 | 109 | Dorian Griffin |
 | 477 | 109 | Manda Allen |
 | 478 | 108 | Betsy B. Yohan |
-| 479 | 105 | Ja'mice Nelson |
-| 480 | 105 | QueenShay AllGood |
-| 481 | 105 | Hyedie Badie |
-| 482 | 105 | Mario Meliodas |
-| 483 | 105 | Wayne Savannah |
-| 484 | 105 | Kelley Johnson |
-| 485 | 105 | Maria |
-| 486 | 105 | Mighty Dropper |
-| 487 | 105 | Lucy |
-| 488 | 105 | Richelle Beck |
-| 489 | 104 | Nichelle Warren |
-| 490 | 104 | Anastasia |
+| 479 | 105 | QueenShay AllGood |
+| 480 | 105 | Richelle Beck |
+| 481 | 105 | Mario Meliodas |
+| 482 | 105 | Lucy |
+| 483 | 105 | Hyedie Badie |
+| 484 | 105 | Wayne Savannah |
+| 485 | 105 | Kelley Johnson |
+| 486 | 105 | Maria |
+| 487 | 105 | Ja'mice Nelson |
+| 488 | 105 | Mighty Dropper |
+| 489 | 104 | Anastasia |
+| 490 | 104 | Ahvae Lee |
 | 491 | 104 | Bella |
-| 492 | 104 | Ahvae Lee |
+| 492 | 104 | Nichelle Warren |
 | 493 | 104 | Boldy Matchbuilder |
-| 494 | 103 | Bold Clusterer |
-| 495 | 103 | Lilly Brown |
-| 496 | 102 | Mom3granny2 |
-| 497 | 102 | 大竹直之 |
-| 498 | 102 | Sarah Steckbauer |
-| 499 | 102 | Christi Walker Patton |
-| 500 | 101 | Wacky Wipepiece |
+| 494 | 103 | Lilly Brown |
+| 495 | 103 | Bold Clusterer |
+| 496 | 102 | Sarah Steckbauer |
+| 497 | 102 | Mom3granny2 |
+| 498 | 102 | Christi Walker Patton |
+| 499 | 102 | 大竹直之 |
+| 500 | 101 | Mommy Frank |
 | 501 | 101 | star |
-| 502 | 101 | Mommy Frank |
-| 503 | 101 | Elaine Pauley |
-| 504 | 101 | Tito Divyn |
-| 505 | 100 | Leavon Smith |
-| 506 | 100 | Stephen Glaze |
-| 507 | 100 | Rebecca Jackson |
-| 508 | 100 | Kennedi Brazziel |
-| 509 | 100 | Cornelius Neal |
-| 510 | 100 | Octavia Bsb Johnson |
-| 511 | 100 | Shanns |
-| 512 | 100 | Seddrick |
-| 513 | 100 | Oldheads |
-| 514 | 100 | Erica Charlise |
-| 515 | 100 | Tessa Gaskin |
-| 516 | 99 | SeanSanchez |
+| 502 | 101 | Wacky Wipepiece |
+| 503 | 101 | Tito Divyn |
+| 504 | 101 | Elaine Pauley |
+| 505 | 100 | Stephen Glaze |
+| 506 | 100 | Shanns |
+| 507 | 100 | Seddrick |
+| 508 | 100 | Cornelius Neal |
+| 509 | 100 | Tessa Gaskin |
+| 510 | 100 | Leavon Smith |
+| 511 | 100 | Erica Charlise |
+| 512 | 100 | Oldheads |
+| 513 | 100 | Kennedi Brazziel |
+| 514 | 100 | Octavia Bsb Johnson |
+| 515 | 100 | Rebecca Jackson |
+| 516 | 99 | Mahagony Small |
 | 517 | 99 | Chino Baby |
-| 518 | 99 | Mahagony Small |
+| 518 | 99 | SeanSanchez |
 | 519 | 98 | Jjhandsome |
 | 520 | 98 | Sharee Robinson |
-| 521 | 98 | Michael Smith |
-| 522 | 98 | Christopher Shaw-Black |
-| 523 | 98 | Shannon Carriger |
-| 524 | 98 | Tootsie Pop |
+| 521 | 98 | Tootsie Pop |
+| 522 | 98 | Michael Smith |
+| 523 | 98 | Christopher Shaw-Black |
+| 524 | 98 | Shannon Carriger |
 | 525 | 97 | Shanell Thomas |
 | 526 | 97 | Twisty Cascadeclear |
-| 527 | 97 | Lootch |
-| 528 | 97 | Pretty Yella |
+| 527 | 97 | Nichole Horsley-Conn |
+| 528 | 97 | Lootch |
 | 529 | 97 | Kristie |
-| 530 | 97 | Nichole Horsley-Conn |
-| 531 | 97 | Stephen Garland |
+| 530 | 97 | Stephen Garland |
+| 531 | 97 | Pretty Yella |
 | 532 | 97 | Andrew Jay Vaughn |
 | 533 | 96 | Sherri Keys |
 | 534 | 96 | Shea Ladynick Henderson |
@@ -1033,8 +1033,8 @@
 | 1025 | 37 | Spunky Strikerbuilder |
 | 1026 | 37 | BigMike |
 | 1027 | 36 | Cathilia Rodriguez |
-| 1028 | 36 | LaMinda Todd |
-| 1029 | 36 | SnazzySnippet |
+| 1028 | 36 | SnazzySnippet |
+| 1029 | 36 | LaMinda Todd |
 | 1030 | 36 | AnnaM |
 | 1031 | 36 | Geneva Carter |
 | 1032 | 36 | Tonia Lance |
@@ -1046,41 +1046,41 @@
 | 1038 | 35 | Snappy Strikerpiece |
 | 1039 | 35 | Kanesha Jackson |
 | 1040 | 35 | Crafty Link |
-| 1041 | 35 | Poyre Shelton |
-| 1042 | 35 | Charise McGee |
+| 1041 | 35 | Panda Vibes |
+| 1042 | 35 | Poyre Shelton |
 | 1043 | 35 | Margie Toni Corley |
-| 1044 | 35 | Frilly Glidepiece |
-| 1045 | 35 | Chill Linkroll |
-| 1046 | 35 | Tanisha Robinson |
-| 1047 | 35 | Riq Wokhardt |
-| 1048 | 35 | Happy Blocky |
-| 1049 | 35 | Anthony Collins |
-| 1050 | 35 | Khatyrah Burnette |
-| 1051 | 35 | Brandy Jaszewski |
-| 1052 | 35 | Sashaleo |
-| 1053 | 34 | Fancy Strikerbuilder |
-| 1054 | 34 | Plucky Clearpiece |
-| 1055 | 34 | Meshia |
-| 1056 | 34 | Zayy Wavyy |
-| 1057 | 34 | Bouncy Brickroll |
-| 1058 | 34 | Temeshia Brooks Washington |
-| 1059 | 34 | Jumpy Brickbuilder |
-| 1060 | 34 | Alyssa H |
-| 1061 | 34 | Panda Vibes |
+| 1044 | 35 | Charise McGee |
+| 1045 | 35 | Frilly Glidepiece |
+| 1046 | 35 | Chill Linkroll |
+| 1047 | 35 | Tanisha Robinson |
+| 1048 | 35 | Riq Wokhardt |
+| 1049 | 35 | Happy Blocky |
+| 1050 | 35 | Anthony Collins |
+| 1051 | 35 | Khatyrah Burnette |
+| 1052 | 35 | Brandy Jaszewski |
+| 1053 | 35 | Sashaleo |
+| 1054 | 34 | Fancy Strikerbuilder |
+| 1055 | 34 | Plucky Clearpiece |
+| 1056 | 34 | Meshia |
+| 1057 | 34 | Zayy Wavyy |
+| 1058 | 34 | Bouncy Brickroll |
+| 1059 | 34 | Temeshia Brooks Washington |
+| 1060 | 34 | Jumpy Brickbuilder |
+| 1061 | 34 | Alyssa H |
 | 1062 | 34 | Jeremy Pope |
 | 1063 | 34 | Chris Watson Draper |
 | 1064 | 34 | beeutifullll |
-| 1065 | 34 | XYZ |
-| 1066 | 34 | Donnie Withthebody |
+| 1065 | 34 | Donnie Withthebody |
+| 1066 | 34 | XYZ |
 | 1067 | 33 | Clever Blocker |
-| 1068 | 33 | Koz176 |
+| 1068 | 33 | Cori Cleland |
 | 1069 | 33 | Krose Byers |
 | 1070 | 33 | Melanie Houghton-McCann |
 | 1071 | 33 | Tweet |
 | 1072 | 33 | Brianna Floyd |
 | 1073 | 33 | Flash97 |
 | 1074 | 33 | Stacy Nicole |
-| 1075 | 33 | Cori Cleland |
+| 1075 | 33 | Koz176 |
 | 1076 | 32 | Alisia Johns |
 | 1077 | 32 | TBabii24 |
 | 1078 | 32 | Nikita Jones |
