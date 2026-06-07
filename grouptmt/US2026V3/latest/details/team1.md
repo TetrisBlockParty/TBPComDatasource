@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 19:10:20 UTC
+# Standings for team1 as of 2026-06-07 19:10:40 UTC
 
 **Total Participants:** 1545
 
@@ -203,8 +203,8 @@
 | 195 | 296 | Nikki Hogan |
 | 196 | 296 | Latisha Fairley |
 | 197 | 296 | Rolanda Williams |
-| 198 | 293 | Tonya Lee Sanders |
-| 199 | 292 | Steve Reno |
+| 198 | 295 | Steve Reno |
+| 199 | 293 | Tonya Lee Sanders |
 | 200 | 291 | Brian Taylor |
 | 201 | 290 | Eugina Slater |
 | 202 | 290 | Kaleisha Smith |
