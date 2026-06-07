@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 00:22:18 UTC
+# Standings for team2 as of 2026-06-07 00:22:39 UTC
 
 **Total Participants:** 1470
 
@@ -167,9 +167,9 @@
 | 159 | 292 | James Ward |
 | 160 | 291 | Flashy Twistline |
 | 161 | 280 | Brittney Williams |
-| 162 | 280 | Renee Freeman Jacobson |
-| 163 | 280 | Patricia Carroll |
-| 164 | 278 | Erin Thomas |
+| 162 | 280 | Erin Thomas |
+| 163 | 280 | Renee Freeman Jacobson |
+| 164 | 280 | Patricia Carroll |
 | 165 | 278 | Ashley Billiot Rhodes |
 | 166 | 277 | DayDreamer79 |
 | 167 | 277 | Sarah Mccolgan |
