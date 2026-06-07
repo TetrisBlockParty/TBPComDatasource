@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 21:56:40 UTC
+# Standings for team2 as of 2026-06-07 21:57:19 UTC
 
 **Total Participants:** 1917
 
@@ -16,8 +16,8 @@
 | 8 | 7687 | Lacey Nolting |
 | 9 | 7000 | Crafty Ziggy |
 | 10 | 6843 | Christina Shell |
-| 11 | 6114 | Tim Ix |
-| 12 | 6114 | Morgann McDaniel |
+| 11 | 6114 | Morgann McDaniel |
+| 12 | 6114 | Tim Ix |
 | 13 | 5961 | Brandon Brown |
 | 14 | 5704 | Cori Keberlein |
 | 15 | 5413 | Dapper Rollout |
@@ -63,8 +63,8 @@
 | 55 | 1704 | Heather Marie-Tarlton Britt |
 | 56 | 1682 | Elizabeth Sallas |
 | 57 | 1657 | Rashanna Bockhorn |
-| 58 | 1606 | Debra Henry |
-| 59 | 1606 | Nerdy Glidepiece |
+| 58 | 1606 | Nerdy Glidepiece |
+| 59 | 1606 | Debra Henry |
 | 60 | 1601 | Block Dog |
 | 61 | 1551 | Monica Galli |
 | 62 | 1547 | Happy Pivotfall |
@@ -186,19 +186,19 @@
 | 178 | 424 | Danielle Blount |
 | 179 | 418 | Twisty Buildgrid |
 | 180 | 418 | Kelly Rogers |
-| 181 | 416 | Nutty Curver |
+| 181 | 416 | Frilly Dashfit |
 | 182 | 416 | Suki Jacobs |
-| 183 | 416 | Frilly Dashfit |
+| 183 | 416 | Nutty Curver |
 | 184 | 414 | Tara |
 | 185 | 413 | Chirpy Grid |
-| 186 | 412 | DukeDino |
-| 187 | 408 | Lyric Price |
-| 188 | 407 | Crystal Allen |
-| 189 | 404 | Cristi Doris |
-| 190 | 403 | Flower_child |
-| 191 | 402 | Zesty Strikerbuilder |
-| 192 | 399 | MaddieCherie |
-| 193 | 395 | Sarah Mccolgan |
+| 186 | 412 | Sarah Mccolgan |
+| 187 | 412 | DukeDino |
+| 188 | 408 | Lyric Price |
+| 189 | 407 | Crystal Allen |
+| 190 | 404 | Cristi Doris |
+| 191 | 403 | Flower_child |
+| 192 | 402 | Zesty Strikerbuilder |
+| 193 | 399 | MaddieCherie |
 | 194 | 392 | Bri St Peter |
 | 195 | 391 | Joni Michelle Morgan |
 | 196 | 391 | Christina Maria |
@@ -1284,8 +1284,8 @@
 | 1276 | 38 | Shalice Jacobs |
 | 1277 | 38 | Nikki Layman |
 | 1278 | 38 | Nikki Strawn |
-| 1279 | 37 | Jessica Nightshade Hansuld |
-| 1280 | 37 | Denise Oppenheimer-Mace Lawrence Mendoza |
+| 1279 | 38 | Denise Oppenheimer-Mace Lawrence Mendoza |
+| 1280 | 37 | Jessica Nightshade Hansuld |
 | 1281 | 37 | Lotso |
 | 1282 | 37 | Shelby Lynn May |
 | 1283 | 37 | Jenifer Gasho |
@@ -1602,9 +1602,9 @@
 | 1594 | 20 | Jenn Wittkamp |
 | 1595 | 20 | Melissa Kinsley |
 | 1596 | 20 | Ciera Adams |
-| 1597 | 19 | Liliana Mills |
+| 1597 | 19 | Chill Racker |
 | 1598 | 19 | Kevin Osbourne |
-| 1599 | 19 | Chill Racker |
+| 1599 | 19 | Liliana Mills |
 | 1600 | 19 | Stephanie Thompson |
 | 1601 | 19 | Milwaukee Area Cleaning |
 | 1602 | 19 | Jodi Deninno |
@@ -1642,46 +1642,46 @@
 | 1634 | 18 | Daimien Jarem |
 | 1635 | 18 | Kris Lea |
 | 1636 | 18 | Rugrat Angi Bechstein |
-| 1637 | 18 | Crafty Dashgrid |
+| 1637 | 18 | Bruce Bower |
 | 1638 | 18 | Gen |
-| 1639 | 18 | Anita Blackshear |
-| 1640 | 18 | Glitzy Linkfall |
+| 1639 | 18 | Glitzy Linkfall |
+| 1640 | 18 | Anita Blackshear |
 | 1641 | 18 | Chrystal Rodriguez |
 | 1642 | 18 | Dizzy Glidezone |
 | 1643 | 18 | Pam Martin |
 | 1644 | 18 | Loony Glider |
 | 1645 | 18 | K2N |
 | 1646 | 18 | Cathy Cobb |
-| 1647 | 17 | Vee Waller |
-| 1648 | 17 | Taderbug |
-| 1649 | 17 | Sk8Mom |
-| 1650 | 17 | grey panther |
-| 1651 | 17 | Hansent3 |
-| 1652 | 17 | Shaun Talbot |
-| 1653 | 17 | Angela Knighton |
-| 1654 | 17 | Smiley Edgefit |
-| 1655 | 17 | Clever Spinfit |
-| 1656 | 17 | Amanda Hamacher |
-| 1657 | 17 | Sassy Snapfall |
-| 1658 | 17 | Shane Peavey |
-| 1659 | 17 | COWBOY |
-| 1660 | 17 | Christina Michelle Wilson |
-| 1661 | 16 | Elliot |
-| 1662 | 16 | Sweety764u |
-| 1663 | 16 | Eugene Brown |
-| 1664 | 16 | Sarah Elizabeth Foret |
-| 1665 | 16 | Jeremy Monceaux |
-| 1666 | 16 | Jennifer M Mitchell |
-| 1667 | 16 | Tonya Reed |
-| 1668 | 16 | JesseJo |
-| 1669 | 16 | Patty White |
-| 1670 | 16 | Ashley Gracelynn Tiner |
-| 1671 | 16 | Amanda Jimenez |
-| 1672 | 16 | ElizaThornberry |
-| 1673 | 16 | Diane Pinkston Massey |
+| 1647 | 18 | Crafty Dashgrid |
+| 1648 | 17 | Sk8Mom |
+| 1649 | 17 | Taderbug |
+| 1650 | 17 | Vee Waller |
+| 1651 | 17 | grey panther |
+| 1652 | 17 | Hansent3 |
+| 1653 | 17 | Shaun Talbot |
+| 1654 | 17 | Angela Knighton |
+| 1655 | 17 | Smiley Edgefit |
+| 1656 | 17 | Clever Spinfit |
+| 1657 | 17 | Amanda Hamacher |
+| 1658 | 17 | Sassy Snapfall |
+| 1659 | 17 | Shane Peavey |
+| 1660 | 17 | COWBOY |
+| 1661 | 17 | Christina Michelle Wilson |
+| 1662 | 16 | Elliot |
+| 1663 | 16 | Sweety764u |
+| 1664 | 16 | Eugene Brown |
+| 1665 | 16 | Sarah Elizabeth Foret |
+| 1666 | 16 | Jeremy Monceaux |
+| 1667 | 16 | Jennifer M Mitchell |
+| 1668 | 16 | Tonya Reed |
+| 1669 | 16 | JesseJo |
+| 1670 | 16 | Patty White |
+| 1671 | 16 | Ashley Gracelynn Tiner |
+| 1672 | 16 | Amanda Jimenez |
+| 1673 | 16 | ElizaThornberry |
 | 1674 | 16 | Misty Dillard |
-| 1675 | 16 | Flashy Blockfall |
-| 1676 | 16 | Bruce Bower |
+| 1675 | 16 | Diane Pinkston Massey |
+| 1676 | 16 | Flashy Blockfall |
 | 1677 | 16 | Kimberly Rochon |
 | 1678 | 16 | Charity Black |
 | 1679 | 16 | Rachel |
