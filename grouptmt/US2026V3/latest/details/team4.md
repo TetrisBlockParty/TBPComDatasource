@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 10:14:40 UTC
+# Standings for team4 as of 2026-06-07 10:15:18 UTC
 
 **Total Participants:** 1440
 
@@ -8,9 +8,9 @@
 | :- | :- | :- |
 | 1 | 10615 | Lisa Cullum |
 | 2 | 9796 | Cinny |
-| 3 | 7913 | Lyza |
-| 4 | 7429 | ktothet |
-| 5 | 6500 | Jessica Sheehan |
+| 3 | 8000 | Jessica Sheehan |
+| 4 | 7913 | Lyza |
+| 5 | 7429 | ktothet |
 | 6 | 5469 | Kait Confetti |
 | 7 | 5300 | Candice Driver |
 | 8 | 4920 | Jerald Jones |
@@ -55,8 +55,8 @@
 | 47 | 1249 | Charlie Lewis |
 | 48 | 1200 | Caitlin Johnson |
 | 49 | 1128 | MysticMaven |
-| 50 | 1089 | Ning Quiambao |
-| 51 | 1089 | Bryan DjMagnum Evans |
+| 50 | 1089 | Bryan DjMagnum Evans |
+| 51 | 1089 | Ning Quiambao |
 | 52 | 1063 | Chummy Rollzone |
 | 53 | 1049 | Chris Covington |
 | 54 | 1035 | Adam J Leong |
@@ -190,7 +190,7 @@
 | 182 | 261 | Waxboss |
 | 183 | 259 | Jessica Peyton |
 | 184 | 253 | Tammy June |
-| 185 | 248 | Perky Riserbuilder |
+| 185 | 251 | Perky Riserbuilder |
 | 186 | 247 | Joseph Anthony Watkins |
 | 187 | 247 | LastBoi |
 | 188 | 246 | Lucy Honer |
@@ -1393,14 +1393,14 @@
 | 1385 | 8 | Phoebe Tracy |
 | 1386 | 8 | Mayleen Delgado |
 | 1387 | 8 | Jen Molepske |
-| 1388 | 8 | Nums |
-| 1389 | 8 | Frisky Blocker |
-| 1390 | 8 | Lina Samra |
-| 1391 | 8 | Tony Tenas |
-| 1392 | 8 | CRsLady |
-| 1393 | 8 | Amber Torres |
-| 1394 | 7 | Kristen Templeman |
-| 1395 | 7 | AngReBo |
+| 1388 | 8 | AngReBo |
+| 1389 | 8 | Nums |
+| 1390 | 8 | Frisky Blocker |
+| 1391 | 8 | Lina Samra |
+| 1392 | 8 | Tony Tenas |
+| 1393 | 8 | CRsLady |
+| 1394 | 8 | Amber Torres |
+| 1395 | 7 | Kristen Templeman |
 | 1396 | 7 | pippy |
 | 1397 | 7 | Sammmzzz |
 | 1398 | 7 | Rican |

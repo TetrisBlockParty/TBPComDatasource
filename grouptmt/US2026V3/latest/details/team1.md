@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 10:14:40 UTC
+# Standings for team1 as of 2026-06-07 10:15:18 UTC
 
 **Total Participants:** 1438
 
@@ -327,8 +327,8 @@
 | 319 | 143 | BULLSEYE |
 | 320 | 142 | Charlene Baltimore |
 | 321 | 142 | Matthieu Pistone |
-| 322 | 141 | Shalena Marie Humphrey |
-| 323 | 141 | De'Nell Edwards |
+| 322 | 142 | De'Nell Edwards |
+| 323 | 141 | Shalena Marie Humphrey |
 | 324 | 140 | Eric Spencer Whitaker |
 | 325 | 140 | Antoinette Jones |
 | 326 | 140 | Nerdy Blockpiece |
