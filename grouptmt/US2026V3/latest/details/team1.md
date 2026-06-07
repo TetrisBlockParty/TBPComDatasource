@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 15:08:42 UTC
+# Standings for team1 as of 2026-06-07 15:09:18 UTC
 
 **Total Participants:** 1487
 
@@ -143,9 +143,9 @@
 | 135 | 404 | Jason Mungin |
 | 136 | 401 | Shell Lewis |
 | 137 | 393 | SPNLover24 |
-| 138 | 389 | GrkGdess |
-| 139 | 384 | Christana Imjustbutton Stone |
-| 140 | 381 | Slinky Puzzler |
+| 138 | 391 | Slinky Puzzler |
+| 139 | 389 | GrkGdess |
+| 140 | 384 | Christana Imjustbutton Stone |
 | 141 | 380 | Dulo |
 | 142 | 377 | AF Cruz |
 | 143 | 375 | Jenna Renee |
@@ -219,7 +219,7 @@
 | 211 | 270 | Salim Thugger |
 | 212 | 270 | xXEKUNXx |
 | 213 | 269 | DaGuy |
-| 214 | 263 | Reginald Frank |
+| 214 | 269 | Reginald Frank |
 | 215 | 261 | Jhonny Maii |
 | 216 | 260 | Ketrell Bailey |
 | 217 | 260 | Natasha Rucker |
