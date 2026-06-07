@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 14:41:20 UTC
+# Standings for team4 as of 2026-06-07 14:42:18 UTC
 
 **Total Participants:** 1495
 
@@ -10,7 +10,7 @@
 | 2 | 10209 | Hanan Hana |
 | 3 | 9796 | Cinny |
 | 4 | 9500 | Jessica Sheehan |
-| 5 | 7915 | Lyza |
+| 5 | 7916 | Lyza |
 | 6 | 7429 | ktothet |
 | 7 | 5801 | BertaF1irta |
 | 8 | 5469 | Kait Confetti |
@@ -272,18 +272,18 @@
 | 264 | 183 | Brandy Lynn |
 | 265 | 183 | Ash Gribble |
 | 266 | 183 | Logan Two-dubs Baker |
-| 267 | 183 | Tara Delay Hill |
-| 268 | 182 | Homie |
-| 269 | 181 | Ashley Mcdonald |
-| 270 | 181 | EL Booger |
-| 271 | 180 | Kelly Howland |
-| 272 | 180 | ariel |
-| 273 | 179 | LaTanya GeminiondaRise Johnson |
-| 274 | 179 | bollo |
-| 275 | 178 | Tamara Triplet |
-| 276 | 178 | Jacqueline Jackii Ramos |
-| 277 | 177 | Damon Gaston |
-| 278 | 177 | Mark Norton |
+| 267 | 183 | Mark Norton |
+| 268 | 183 | Tara Delay Hill |
+| 269 | 182 | Homie |
+| 270 | 181 | Ashley Mcdonald |
+| 271 | 181 | EL Booger |
+| 272 | 180 | Kelly Howland |
+| 273 | 180 | ariel |
+| 274 | 179 | LaTanya GeminiondaRise Johnson |
+| 275 | 179 | bollo |
+| 276 | 178 | Tamara Triplet |
+| 277 | 178 | Jacqueline Jackii Ramos |
+| 278 | 177 | Damon Gaston |
 | 279 | 177 | June Hoffman |
 | 280 | 176 | Nicole Dombrow |
 | 281 | 175 | Bonnie Powell |
