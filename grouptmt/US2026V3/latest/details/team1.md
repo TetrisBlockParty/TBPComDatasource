@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 14:34:20 UTC
+# Standings for team1 as of 2026-06-07 14:34:42 UTC
 
 **Total Participants:** 1479
 
@@ -791,41 +791,41 @@
 | 783 | 55 | Jane Lame |
 | 784 | 55 | Shakmar |
 | 785 | 55 | PSD |
-| 786 | 55 | Witty Clear |
-| 787 | 55 | nameno |
-| 788 | 55 | Kyle Franklin |
-| 789 | 54 | Ace Hardware |
-| 790 | 54 | John Spath |
-| 791 | 54 | Katness |
-| 792 | 54 | Felicia Yahuah Johnson |
-| 793 | 54 | Antoinette Kelly |
-| 794 | 54 | Embracing Hair |
+| 786 | 55 | Kyle Franklin |
+| 787 | 55 | Witty Clear |
+| 788 | 55 | nameno |
+| 789 | 54 | Embracing Hair |
+| 790 | 54 | Ace Hardware |
+| 791 | 54 | Felicia Yahuah Johnson |
+| 792 | 54 | John Spath |
+| 793 | 54 | Katness |
+| 794 | 54 | Antoinette Kelly |
 | 795 | 54 | Dennis Ripley |
-| 796 | 54 | Markeita Jones |
-| 797 | 54 | deeno |
+| 796 | 54 | deeno |
+| 797 | 54 | Markeita Jones |
 | 798 | 54 | Kashh |
-| 799 | 53 | Clever Wrecker |
-| 800 | 53 | brite |
-| 801 | 53 | Heather Wilson |
-| 802 | 53 | Haakuu |
-| 803 | 53 | Shona ShayShay Jones |
-| 804 | 53 | Barbramerri Tarboro |
-| 805 | 53 | Xrandomx |
-| 806 | 53 | Williams Candace |
+| 799 | 53 | Xrandomx |
+| 800 | 53 | Heather Wilson |
+| 801 | 53 | brite |
+| 802 | 53 | Barbramerri Tarboro |
+| 803 | 53 | Williams Candace |
+| 804 | 53 | Shona ShayShay Jones |
+| 805 | 53 | Haakuu |
+| 806 | 53 | Clever Wrecker |
 | 807 | 53 | Morenita Rodriguez |
 | 808 | 52 | Giggy Holder |
 | 809 | 52 | Chummy Liner |
-| 810 | 52 | Raymond Boosie Freeman |
-| 811 | 52 | Abdul Malik |
-| 812 | 52 | Tray Tolliver |
+| 810 | 52 | Abdul Malik |
+| 811 | 52 | Tray Tolliver |
+| 812 | 52 | Raymond Boosie Freeman |
 | 813 | 52 | Loopy Risepiece |
 | 814 | 52 | Tootsie Pop |
 | 815 | 51 | Evelyn Epps |
 | 816 | 51 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 817 | 51 | Bunnie Celtavini |
-| 818 | 51 | Oaklonboy mike |
-| 819 | 51 | Boldy Matchfit |
-| 820 | 51 | Dizzy Gridmatch |
+| 817 | 51 | Oaklonboy mike |
+| 818 | 51 | Boldy Matchfit |
+| 819 | 51 | Dizzy Gridmatch |
+| 820 | 51 | Bunnie Celtavini |
 | 821 | 51 | Shanjerrica Taylor Rosell |
 | 822 | 50 | MsBobby Patrick |
 | 823 | 50 | Amaadi Ward |
@@ -834,41 +834,41 @@
 | 826 | 50 | Daring Linkfall |
 | 827 | 50 | Slinky Fallzone |
 | 828 | 50 | Benjamin Livingston |
-| 829 | 50 | Bold Spinblock |
-| 830 | 50 | Rissa Rozay |
-| 831 | 50 | Kanary Karotz |
+| 829 | 50 | Toohartless Mech |
+| 830 | 50 | Bold Spinblock |
+| 831 | 50 | Rissa Rozay |
 | 832 | 50 | Tramaine Crockrum |
-| 833 | 50 | Denell Sims |
-| 834 | 50 | Perky Balancer |
-| 835 | 49 | Teisha Scott |
-| 836 | 49 | Ashley Davis |
-| 837 | 49 | Saucy Crusher |
-| 838 | 49 | Latoya Carson |
-| 839 | 49 | SnazzyIvy |
-| 840 | 49 | Stronger Wiser Better |
-| 841 | 49 | Ķïrãã Ďãvïss |
-| 842 | 48 | Bubbly Crawler |
-| 843 | 48 | Rieshelda Marie White |
-| 844 | 48 | LoveLee |
-| 845 | 48 | jaz |
+| 833 | 50 | Kanary Karotz |
+| 834 | 50 | Denell Sims |
+| 835 | 50 | Perky Balancer |
+| 836 | 49 | Latoya Carson |
+| 837 | 49 | Ashley Davis |
+| 838 | 49 | Teisha Scott |
+| 839 | 49 | Stronger Wiser Better |
+| 840 | 49 | Ķïrãã Ďãvïss |
+| 841 | 49 | Saucy Crusher |
+| 842 | 49 | SnazzyIvy |
+| 843 | 48 | LaTonya Rivers |
+| 844 | 48 | Rieshelda Marie White |
+| 845 | 48 | LoveLee |
 | 846 | 48 | Rhianna Dinki Austin |
-| 847 | 48 | LaTonya Rivers |
+| 847 | 48 | jaz |
 | 848 | 48 | Stanley Dixon |
 | 849 | 48 | Eli Delao |
-| 850 | 48 | RylonJones |
+| 850 | 48 | Bubbly Crawler |
 | 851 | 48 | P C |
-| 852 | 48 | Krystal Maynard |
-| 853 | 48 | Toohartless Mech |
-| 854 | 47 | Jodie |
+| 852 | 48 | RylonJones |
+| 853 | 48 | Krystal Maynard |
+| 854 | 47 | Jessie N Michael Silvers |
 | 855 | 47 | Austin Smith |
-| 856 | 47 | Jessie N Michael Silvers |
-| 857 | 47 | Kayel Good |
-| 858 | 47 | Jojo M |
-| 859 | 47 | William Vidra |
-| 860 | 47 | Denise Cunningham-English |
-| 861 | 47 | Kevin Turner |
-| 862 | 47 | Tyrone Porter |
-| 863 | 47 | Taylor Jordan Hollis |
+| 856 | 47 | Kayel Good |
+| 857 | 47 | Jojo M |
+| 858 | 47 | William Vidra |
+| 859 | 47 | Denise Cunningham-English |
+| 860 | 47 | Kevin Turner |
+| 861 | 47 | Tyrone Porter |
+| 862 | 47 | Taylor Jordan Hollis |
+| 863 | 47 | Jodie |
 | 864 | 47 | Tushama Cheris Okraku |
 | 865 | 46 | rb |
 | 866 | 46 | Jenni |
