@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 18:09:19 UTC
+# Standings for team1 as of 2026-06-07 18:10:20 UTC
 
 **Total Participants:** 1531
 
@@ -163,15 +163,15 @@
 | 155 | 363 | Christina Rebecca |
 | 156 | 361 | John Staub |
 | 157 | 360 | Felicia Cain |
-| 158 | 358 | Dena Marie Lee |
-| 159 | 355 | Tishauna Virgo |
-| 160 | 353 | Lashaunda |
-| 161 | 353 | Chuck Quarles |
-| 162 | 351 | Joey Albright |
-| 163 | 348 | LeeLee08 |
-| 164 | 348 | pooh |
-| 165 | 340 | Spicy Risepiece |
-| 166 | 339 | Atlantalindi |
+| 158 | 359 | Atlantalindi |
+| 159 | 358 | Dena Marie Lee |
+| 160 | 355 | Tishauna Virgo |
+| 161 | 353 | Lashaunda |
+| 162 | 353 | Chuck Quarles |
+| 163 | 351 | Joey Albright |
+| 164 | 348 | LeeLee08 |
+| 165 | 348 | pooh |
+| 166 | 340 | Spicy Risepiece |
 | 167 | 339 | Ty Øtg |
 | 168 | 338 | Sheila Burnham |
 | 169 | 337 | Mimi 1.0 |
@@ -279,9 +279,9 @@
 | 271 | 208 | Simone Bailey |
 | 272 | 207 | Shameka Thrasher |
 | 273 | 207 | Melissa D. M. Hornsby |
-| 274 | 206 | Curtis T Cirno |
-| 275 | 205 | Stephen Providenti |
-| 276 | 204 | Charletha Williams |
+| 274 | 207 | Charletha Williams |
+| 275 | 206 | Curtis T Cirno |
+| 276 | 205 | Stephen Providenti |
 | 277 | 203 | Daris Swearington |
 | 278 | 201 | Richard Flex |
 | 279 | 201 | Rayshawn Cohen |
@@ -595,12 +595,12 @@
 | 587 | 89 | Marc Papa |
 | 588 | 88 | Sallie Sanborn |
 | 589 | 88 | Vera Beckford |
-| 590 | 88 | Brenda Malachi-butler |
-| 591 | 87 | Natalie Burroughs |
-| 592 | 87 | Joseph Vs Cap |
-| 593 | 86 | Tweet Turner |
-| 594 | 86 | Messy Live |
-| 595 | 86 | Spicy Shatterblock |
+| 590 | 88 | Spicy Shatterblock |
+| 591 | 88 | Brenda Malachi-butler |
+| 592 | 87 | Natalie Burroughs |
+| 593 | 87 | Joseph Vs Cap |
+| 594 | 86 | Tweet Turner |
+| 595 | 86 | Messy Live |
 | 596 | 86 | Kendra McIntyre |
 | 597 | 86 | krd |
 | 598 | 86 | MrsDontPlay |
@@ -726,30 +726,30 @@
 | 718 | 71 | HBTone |
 | 719 | 71 | akosua |
 | 720 | 71 | Tori Carter |
-| 721 | 71 | Ryan Holm |
-| 722 | 71 | KimChii |
+| 721 | 71 | KimChii |
+| 722 | 71 | Ryan Holm |
 | 723 | 70 | JoZanna Washington |
-| 724 | 70 | Duncan Timothy |
-| 725 | 70 | Marshall Davis |
-| 726 | 70 | West Racks |
-| 727 | 70 | Rachel Lopez |
-| 728 | 70 | Smøke DGAF |
-| 729 | 70 | Mellie Mel |
-| 730 | 70 | Kàrma Lee |
-| 731 | 69 | Markeita Jones |
-| 732 | 69 | GiantBehemoth |
-| 733 | 69 | Keith Johnson |
-| 734 | 69 | Jose Rodriguez |
-| 735 | 69 | BrettanMary Adkins |
-| 736 | 68 | Gbnola |
-| 737 | 68 | Nikiya |
-| 738 | 68 | meatballs |
-| 739 | 68 | Fatty May |
-| 740 | 68 | SnazzyIvy |
-| 741 | 67 | Jessie N Michael Silvers |
-| 742 | 67 | Sharon Lynn |
-| 743 | 67 | LexiiSamayaa |
-| 744 | 67 | Crtjstr |
+| 724 | 70 | West Racks |
+| 725 | 70 | Smøke DGAF |
+| 726 | 70 | Mellie Mel |
+| 727 | 70 | Kàrma Lee |
+| 728 | 70 | Rachel Lopez |
+| 729 | 70 | Marshall Davis |
+| 730 | 70 | Duncan Timothy |
+| 731 | 69 | Keith Johnson |
+| 732 | 69 | Jose Rodriguez |
+| 733 | 69 | BrettanMary Adkins |
+| 734 | 69 | Crtjstr |
+| 735 | 69 | GiantBehemoth |
+| 736 | 69 | Markeita Jones |
+| 737 | 68 | Gbnola |
+| 738 | 68 | Nikiya |
+| 739 | 68 | meatballs |
+| 740 | 68 | Fatty May |
+| 741 | 68 | SnazzyIvy |
+| 742 | 67 | Jessie N Michael Silvers |
+| 743 | 67 | Sharon Lynn |
+| 744 | 67 | LexiiSamayaa |
 | 745 | 67 | Michele Elizabeth McKay-Johnson |
 | 746 | 67 | Sarah Barnum |
 | 747 | 67 | Nikkizz |
