@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:52:18 UTC
+# Standings for team1 as of 2026-06-07 11:52:40 UTC
 
 **Total Participants:** 1446
 
@@ -526,92 +526,92 @@
 | 518 | 86 | Giggly Tiltbuilder |
 | 519 | 86 | Kendra McIntyre |
 | 520 | 86 | whatever |
-| 521 | 86 | Cm |
-| 522 | 86 | krd |
-| 523 | 86 | Messy Live |
+| 521 | 86 | krd |
+| 522 | 86 | Messy Live |
+| 523 | 86 | Cm |
 | 524 | 85 | TotoCherue |
-| 525 | 85 | De'Mear McKinney |
-| 526 | 85 | Sonia Binti Mfalme |
-| 527 | 85 | Eric Machuca |
-| 528 | 85 | Hardtohandle91 |
-| 529 | 85 | Bobby Chestefield |
-| 530 | 85 | Amy Villalpando |
-| 531 | 85 | DaemahnFriday |
-| 532 | 85 | Sarah Swietlicki - Lopez |
-| 533 | 84 | Zappy Snapgrid |
-| 534 | 84 | Saucy Faller |
-| 535 | 84 | Dawn Basemore |
-| 536 | 84 | Just2Play$ |
-| 537 | 84 | Angela Brown Babin |
-| 538 | 84 | Franklin Sotelo |
-| 539 | 83 | Terrance Tindall |
-| 540 | 83 | Jackytrain52 |
+| 525 | 85 | Sarah Swietlicki - Lopez |
+| 526 | 85 | De'Mear McKinney |
+| 527 | 85 | Hardtohandle91 |
+| 528 | 85 | Bobby Chestefield |
+| 529 | 85 | Eric Machuca |
+| 530 | 85 | DaemahnFriday |
+| 531 | 85 | Amy Villalpando |
+| 532 | 85 | Sonia Binti Mfalme |
+| 533 | 84 | Angela Brown Babin |
+| 534 | 84 | Franklin Sotelo |
+| 535 | 84 | Saucy Faller |
+| 536 | 84 | Zappy Snapgrid |
+| 537 | 84 | Dawn Basemore |
+| 538 | 84 | Just2Play$ |
+| 539 | 83 | Sandra Mims |
+| 540 | 83 | Victor |
 | 541 | 83 | MrsMeadows2019 |
-| 542 | 83 | Sandra Mims |
-| 543 | 83 | Victor |
-| 544 | 82 | Happy Blockpiece |
+| 542 | 83 | Terrance Tindall |
+| 543 | 83 | Jackytrain52 |
+| 544 | 82 | Yadira Salgado |
 | 545 | 82 | Jes Marie |
-| 546 | 82 | Johnathan Deese |
-| 547 | 82 | Yadira Salgado |
+| 546 | 82 | Happy Blockpiece |
+| 547 | 82 | Johnathan Deese |
 | 548 | 81 | Crystal Cheresnowsky |
-| 549 | 81 | Logan Frost |
-| 550 | 81 | TRUBBLE45 |
-| 551 | 80 | Victoria Smith |
-| 552 | 80 | Kimberly Noble |
-| 553 | 80 | Latore Maxie |
-| 554 | 80 | Lady Scorpio |
-| 555 | 80 | Kp |
-| 556 | 80 | Cynthia Bradley |
-| 557 | 80 | Kamilya Rembert |
-| 558 | 80 | Tracey Johnson |
-| 559 | 80 | Chevalier Burley |
-| 560 | 80 | Giggy Edgefit |
+| 549 | 81 | TRUBBLE45 |
+| 550 | 81 | Logan Frost |
+| 551 | 80 | Tracey Johnson |
+| 552 | 80 | Big Bovice |
+| 553 | 80 | Christopher L Crites |
+| 554 | 80 | Kimberly Noble |
+| 555 | 80 | Latore Maxie |
+| 556 | 80 | Lady Scorpio |
+| 557 | 80 | Kp |
+| 558 | 80 | Cynthia Bradley |
+| 559 | 80 | Lisa420 |
+| 560 | 80 | Kamilya Rembert |
 | 561 | 80 | Spicy Shatterblock |
-| 562 | 80 | Lisa420 |
-| 563 | 80 | Big Bovice |
-| 564 | 80 | Christopher L Crites |
+| 562 | 80 | Giggy Edgefit |
+| 563 | 80 | Lester Malone |
+| 564 | 80 | Victoria Smith |
 | 565 | 80 | NedaWin |
-| 566 | 80 | Rebecca Jackson |
-| 567 | 80 | Lester Malone |
-| 568 | 80 | Charles Johnson |
-| 569 | 80 | Gerold Folk Haddock |
+| 566 | 80 | Gerold Folk Haddock |
+| 567 | 80 | Chevalier Burley |
+| 568 | 80 | Rebecca Jackson |
+| 569 | 80 | Charles Johnson |
 | 570 | 79 | Nerdy Climber |
 | 571 | 79 | Montréal Mars |
 | 572 | 78 | Kahh |
-| 573 | 78 | Claudia Price |
-| 574 | 78 | Smiley3000 |
-| 575 | 78 | Azeiare Ziare |
-| 576 | 78 | Ryan Runyan |
-| 577 | 78 | Rachel Renae Bettis |
-| 578 | 78 | Solomon Valarie |
+| 573 | 78 | Solomon Valarie |
+| 574 | 78 | Claudia Price |
+| 575 | 78 | Ryan Runyan |
+| 576 | 78 | Rachel Renae Bettis |
+| 577 | 78 | Azeiare Ziare |
+| 578 | 78 | Smiley3000 |
 | 579 | 77 | Dana Hawes |
 | 580 | 77 | EvaLynn NeCole |
 | 581 | 76 | Essence Jones |
-| 582 | 76 | Giggly Shatterline |
-| 583 | 76 | Angelique Talbot |
+| 582 | 76 | Angelique Talbot |
+| 583 | 76 | Giggly Shatterline |
 | 584 | 76 | Paul Pendley |
 | 585 | 76 | lady |
 | 586 | 75 | Angie Lebron |
-| 587 | 75 | Jennifer Moore |
-| 588 | 75 | Courtney Robinson |
-| 589 | 75 | MzJuice Box |
-| 590 | 75 | Erika |
-| 591 | 75 | sasha |
-| 592 | 75 | Jimmy Shannon |
-| 593 | 74 | Cortrell Foster |
-| 594 | 74 | Renee Marshall |
-| 595 | 74 | Casey Chapman |
-| 596 | 74 | Nichelle Warren |
-| 597 | 74 | Tetrisdestroyer |
-| 598 | 74 | Sunny Clicky |
-| 599 | 74 | Kimmie Gargano |
-| 600 | 74 | Sabrina Wilkerson |
-| 601 | 74 | Chereese Harris |
-| 602 | 74 | Glitzy Clusterer |
-| 603 | 73 | Marlynnnnn |
-| 604 | 73 | Boldy Pivoty |
-| 605 | 72 | Nekka |
-| 606 | 72 | ImmeKC |
+| 587 | 75 | Chereese Harris |
+| 588 | 75 | Jennifer Moore |
+| 589 | 75 | Courtney Robinson |
+| 590 | 75 | MzJuice Box |
+| 591 | 75 | Jimmy Shannon |
+| 592 | 75 | sasha |
+| 593 | 75 | Erika |
+| 594 | 74 | Kimmie Gargano |
+| 595 | 74 | Sabrina Wilkerson |
+| 596 | 74 | Sunny Clicky |
+| 597 | 74 | Cortrell Foster |
+| 598 | 74 | Glitzy Clusterer |
+| 599 | 74 | Tetrisdestroyer |
+| 600 | 74 | Nichelle Warren |
+| 601 | 74 | Casey Chapman |
+| 602 | 74 | Renee Marshall |
+| 603 | 73 | Boldy Pivoty |
+| 604 | 73 | Marlynnnnn |
+| 605 | 72 | ImmeKC |
+| 606 | 72 | Nekka |
 | 607 | 72 | Marlainia Boyd |
 | 608 | 72 | Comedian Gdane |
 | 609 | 72 | Lauraly |
