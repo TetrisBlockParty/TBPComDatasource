@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 01:26:18 UTC
+# Standings for team1 as of 2026-06-07 01:26:40 UTC
 
 **Total Participants:** 1259
 
@@ -187,13 +187,13 @@
 | 179 | 220 | Ketrell Bailey |
 | 180 | 220 | Devin West |
 | 181 | 219 | Christina Rebecca |
-| 182 | 216 | Nerdy Snapfall |
-| 183 | 215 | Eugina Slater |
-| 184 | 214 | Tonya McElroy |
-| 185 | 212 | Nobles Brandon |
-| 186 | 211 | Lashaunda |
-| 187 | 211 | Latisha Fairley |
-| 188 | 209 | Reginald Frank |
+| 182 | 217 | Reginald Frank |
+| 183 | 216 | Nerdy Snapfall |
+| 184 | 215 | Eugina Slater |
+| 185 | 214 | Lashaunda |
+| 186 | 214 | Tonya McElroy |
+| 187 | 212 | Nobles Brandon |
+| 188 | 211 | Latisha Fairley |
 | 189 | 206 | Curtis T Cirno |
 | 190 | 205 | Tishauna Virgo |
 | 191 | 204 | Byron Mario Cawthon |

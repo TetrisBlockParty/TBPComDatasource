@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 01:26:18 UTC
+# Standings for team2 as of 2026-06-07 01:26:40 UTC
 
 **Total Participants:** 1496
 
@@ -94,7 +94,7 @@
 | 86 | 632 | Wmk Rathbun |
 | 87 | 632 | Allie Bug |
 | 88 | 631 | Nawang Nawang |
-| 89 | 627 | Mirr Lulu |
+| 89 | 629 | Mirr Lulu |
 | 90 | 600 | LEW |
 | 91 | 592 | Brandon Link |
 | 92 | 588 | Kellie Sharp Godfrey |
@@ -250,12 +250,12 @@
 | 242 | 191 | Kathy Strickland |
 | 243 | 188 | Ray Daisy |
 | 244 | 187 | Laura Melton |
-| 245 | 181 | Jamie Adams |
-| 246 | 180 | Happy |
-| 247 | 180 | Precious Womack |
-| 248 | 180 | Skye Ehret |
-| 249 | 179 | Amy Taylor Pomerenk |
-| 250 | 178 | Melissa Nash |
+| 245 | 182 | Melissa Nash |
+| 246 | 181 | Jamie Adams |
+| 247 | 180 | Happy |
+| 248 | 180 | Precious Womack |
+| 249 | 180 | Skye Ehret |
+| 250 | 179 | Amy Taylor Pomerenk |
 | 251 | 177 | Jennifer McClure |
 | 252 | 177 | Xandrea Jones |
 | 253 | 176 | Kim Hunt |
