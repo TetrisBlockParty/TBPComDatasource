@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 14:30:20 UTC
+# Standings for team4 as of 2026-06-07 14:30:42 UTC
 
 **Total Participants:** 1489
 
@@ -145,8 +145,8 @@
 | 137 | 414 | Daryn Elliott |
 | 138 | 408 | Futrell Brent |
 | 139 | 406 | Kelley Roach |
-| 140 | 402 | Boldy Rumbler |
-| 141 | 402 | Kim |
+| 140 | 404 | Kim |
+| 141 | 402 | Boldy Rumbler |
 | 142 | 400 | DexterDobbins |
 | 143 | 400 | Amber Doyle |
 | 144 | 400 | Suzanne Carter |
@@ -509,18 +509,18 @@
 | 501 | 95 | Tiffany Roberts |
 | 502 | 95 | Ricky Colvin |
 | 503 | 95 | Kari Smith |
-| 504 | 95 | EpicWizard |
-| 505 | 95 | Laurie Patrick |
-| 506 | 94 | Janae Harris |
-| 507 | 94 | Courtney Niichole |
-| 508 | 94 | Haylee Talkington |
-| 509 | 94 | Mc3003 |
-| 510 | 94 | Cranky Twistpiece |
-| 511 | 94 | Reina Pagan |
-| 512 | 93 | Csigirlnc |
-| 513 | 93 | Boldy Striker |
-| 514 | 93 | Dandy Cascade |
-| 515 | 93 | Wacky Brick |
+| 504 | 95 | Wacky Brick |
+| 505 | 95 | EpicWizard |
+| 506 | 95 | Laurie Patrick |
+| 507 | 94 | Janae Harris |
+| 508 | 94 | Courtney Niichole |
+| 509 | 94 | Haylee Talkington |
+| 510 | 94 | Mc3003 |
+| 511 | 94 | Cranky Twistpiece |
+| 512 | 94 | Reina Pagan |
+| 513 | 93 | Csigirlnc |
+| 514 | 93 | Boldy Striker |
+| 515 | 93 | Dandy Cascade |
 | 516 | 93 | Domo Dpn |
 | 517 | 92 | MrLoner Stoner |
 | 518 | 92 | Rosy Perez |
