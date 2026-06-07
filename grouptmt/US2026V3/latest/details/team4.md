@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 11:18:18 UTC
+# Standings for team4 as of 2026-06-07 11:18:40 UTC
 
 **Total Participants:** 1448
 
@@ -9,8 +9,8 @@
 | 1 | 10615 | Lisa Cullum |
 | 2 | 9796 | Cinny |
 | 3 | 9500 | Jessica Sheehan |
-| 4 | 7913 | Lyza |
-| 5 | 7579 | Hanan Hana |
+| 4 | 7961 | Hanan Hana |
+| 5 | 7913 | Lyza |
 | 6 | 7429 | ktothet |
 | 7 | 5801 | BertaF1irta |
 | 8 | 5469 | Kait Confetti |

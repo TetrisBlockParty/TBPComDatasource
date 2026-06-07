@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:18:18 UTC
+# Standings for team1 as of 2026-06-07 11:18:40 UTC
 
 **Total Participants:** 1444
 
@@ -101,7 +101,7 @@
 | 93 | 588 | Shontanese Adams |
 | 94 | 587 | She Higgy |
 | 95 | 587 | KenpachisGirl |
-| 96 | 575 | Moomoo |
+| 96 | 585 | Moomoo |
 | 97 | 570 | Keeta Chickswit Scott |
 | 98 | 570 | PandaPrincess |
 | 99 | 568 | MamaBear |
