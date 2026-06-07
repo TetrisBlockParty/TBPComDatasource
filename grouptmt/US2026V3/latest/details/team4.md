@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-06-07 01:58:39 UTC
+# Standings for team4 as of 2026-06-07 01:59:17 UTC
 
-**Total Participants:** 1262
+**Total Participants:** 1263
 
 ## Participant Scores
 
@@ -32,7 +32,7 @@
 | 24 | 1944 | Juan Ford |
 | 25 | 1908 | Michele Walker |
 | 26 | 1902 | Dana Rinaldi |
-| 27 | 1765 | Loony Rotater |
+| 27 | 1783 | Loony Rotater |
 | 28 | 1732 | Witty Clicky |
 | 29 | 1622 | kcknbtz |
 | 30 | 1547 | Bubbly Twistpiece |
@@ -106,14 +106,14 @@
 | 98 | 416 | Ermadette |
 | 99 | 400 | Sassy Column |
 | 100 | 400 | DexterDobbins |
-| 101 | 400 | Nicole Peoples |
-| 102 | 400 | Gigglycat |
-| 103 | 400 | Amber Doyle |
-| 104 | 398 | Kay |
-| 105 | 397 | Real Talk Vibes |
-| 106 | 396 | Jackie Jackson |
-| 107 | 395 | Melissa WC |
-| 108 | 394 | GeorgeButts |
+| 101 | 400 | GeorgeButts |
+| 102 | 400 | Nicole Peoples |
+| 103 | 400 | Gigglycat |
+| 104 | 400 | Amber Doyle |
+| 105 | 398 | Kay |
+| 106 | 397 | Real Talk Vibes |
+| 107 | 396 | Jackie Jackson |
+| 108 | 395 | Melissa WC |
 | 109 | 392 | Lisa Garcia |
 | 110 | 386 | Cherry |
 | 111 | 380 | Becky Doll-Hall |
@@ -1151,30 +1151,30 @@
 | 1143 | 12 | Christine Raine Jalili |
 | 1144 | 12 | Swanky Brickzone |
 | 1145 | 12 | Carolyn Lalak |
-| 1146 | 11 | Nessa Smith |
-| 1147 | 11 | Eric Mellinger |
-| 1148 | 11 | Wynisha Johnson |
-| 1149 | 11 | Teresa Lescinskas |
-| 1150 | 11 | Bryan Odle |
-| 1151 | 11 | Red |
-| 1152 | 11 | Amowe |
-| 1153 | 11 | OFOZO |
-| 1154 | 11 | Pamela Kaye |
-| 1155 | 10 | tmnt |
-| 1156 | 10 | Nikki |
-| 1157 | 10 | Sharron Mullins |
-| 1158 | 10 | Buchanon Bossingup Jadrienne |
-| 1159 | 10 | Dreamy Dash |
-| 1160 | 10 | Breezy Striker |
-| 1161 | 10 | Marie Culbert |
-| 1162 | 10 | Lively Cascadeclear |
-| 1163 | 10 | Daring Towerer |
+| 1146 | 11 | Teresa Lescinskas |
+| 1147 | 11 | Wynisha Johnson |
+| 1148 | 11 | Nessa Smith |
+| 1149 | 11 | Bryan Odle |
+| 1150 | 11 | OFOZO |
+| 1151 | 11 | Eric Mellinger |
+| 1152 | 11 | Pamela Kaye |
+| 1153 | 11 | Amowe |
+| 1154 | 11 | Red |
+| 1155 | 10 | Sharron Mullins |
+| 1156 | 10 | Buchanon Bossingup Jadrienne |
+| 1157 | 10 | Dreamy Dash |
+| 1158 | 10 | Karr |
+| 1159 | 10 | Breezy Striker |
+| 1160 | 10 | Marie Culbert |
+| 1161 | 10 | Nikki |
+| 1162 | 10 | tmnt |
+| 1163 | 10 | Lively Cascadeclear |
 | 1164 | 10 | FitMeDiva |
-| 1165 | 10 | Karr |
-| 1166 | 10 | Brianne Stull |
+| 1165 | 10 | Brianne Stull |
+| 1166 | 10 | Lovely |
 | 1167 | 10 | Japexican Strong |
 | 1168 | 10 | Nicole Washington |
-| 1169 | 10 | Lovely |
+| 1169 | 10 | Daring Towerer |
 | 1170 | 10 | Melissa Elizabeth |
 | 1171 | 10 | Kelley Roach |
 | 1172 | 10 | Kristal |
@@ -1199,75 +1199,76 @@
 | 1191 | 9 | Phoenyx Roze |
 | 1192 | 9 | Darryl Shufford |
 | 1193 | 9 | Frothy Riseclear |
-| 1194 | 9 | Glitter |
-| 1195 | 9 | juler |
-| 1196 | 9 | Logan Two-dubs Baker |
-| 1197 | 9 | Blessedmama |
-| 1198 | 9 | Whos Square |
-| 1199 | 9 | Marion Wade |
-| 1200 | 9 | LaShieka Noland |
-| 1201 | 9 | Todd Hamilton |
-| 1202 | 9 | Lori A Hamann |
-| 1203 | 8 | CRsLady |
-| 1204 | 8 | Bryce McGee |
-| 1205 | 8 | Ayobribri |
-| 1206 | 8 | Happy shelli |
-| 1207 | 8 | Mac James |
-| 1208 | 8 | Gabby Markham |
-| 1209 | 8 | LaTesha D Williams |
-| 1210 | 8 | Bryieson Watson |
-| 1211 | 8 | Shania Richmond |
-| 1212 | 8 | Anna Nieves |
-| 1213 | 8 | Lewis Potts |
-| 1214 | 8 | Nums |
-| 1215 | 8 | Phoebe Tracy |
-| 1216 | 8 | Sydney Taylor Sileno |
-| 1217 | 8 | Tony Tenas |
-| 1218 | 8 | Frisky Blocker |
-| 1219 | 7 | Brandy Dark |
-| 1220 | 7 | Chipper Hitter |
-| 1221 | 7 | Estmercy |
-| 1222 | 7 | Sheries |
-| 1223 | 7 | Kristen Templeman |
+| 1194 | 9 | LaShieka Noland |
+| 1195 | 9 | Logan Two-dubs Baker |
+| 1196 | 9 | Blessedmama |
+| 1197 | 9 | Whos Square |
+| 1198 | 9 | Lori A Hamann |
+| 1199 | 9 | juler |
+| 1200 | 9 | Glitter |
+| 1201 | 9 | Marion Wade |
+| 1202 | 9 | Todd Hamilton |
+| 1203 | 8 | Ayobribri |
+| 1204 | 8 | Anna Nieves |
+| 1205 | 8 | Bryce McGee |
+| 1206 | 8 | Phoebe Tracy |
+| 1207 | 8 | Lewis Potts |
+| 1208 | 8 | Shania Richmond |
+| 1209 | 8 | CRsLady |
+| 1210 | 8 | Mac James |
+| 1211 | 8 | Happy shelli |
+| 1212 | 8 | Tony Tenas |
+| 1213 | 8 | Frisky Blocker |
+| 1214 | 8 | Gabby Markham |
+| 1215 | 8 | LaTesha D Williams |
+| 1216 | 8 | Nums |
+| 1217 | 8 | Bryieson Watson |
+| 1218 | 8 | Sydney Taylor Sileno |
+| 1219 | 7 | Malinda Fife |
+| 1220 | 7 | Kristen Lester |
+| 1221 | 7 | Peaches3569 |
+| 1222 | 7 | Rican |
+| 1223 | 7 | Dannie Ems |
 | 1224 | 7 | John Brandon Kinney |
-| 1225 | 7 | Spicy Faller |
-| 1226 | 7 | Kristen Lester |
-| 1227 | 7 | Glendala Whitewing |
-| 1228 | 7 | Angela Mertz |
-| 1229 | 7 | Dannie Ems |
-| 1230 | 7 | Crystal Parker Bryant |
-| 1231 | 7 | Rican |
-| 1232 | 7 | Peaches3569 |
-| 1233 | 7 | Malinda Fife |
-| 1234 | 7 | Heather Smith-Carter |
-| 1235 | 6 | Funky Zonebuilder |
-| 1236 | 6 | Richierich Gonzalez |
-| 1237 | 6 | Aliyah Abdella |
-| 1238 | 6 | Loony Brickzone |
-| 1239 | 6 | Andy Petersen |
-| 1240 | 6 | Amanda Jill Sturgill |
-| 1241 | 6 | Jasmine Turner |
-| 1242 | 6 | Goodie |
-| 1243 | 6 | MamaC |
-| 1244 | 6 | Frothy Gridmatch |
-| 1245 | 6 | Rachel |
+| 1225 | 7 | Sheries |
+| 1226 | 7 | Estmercy |
+| 1227 | 7 | Chipper Hitter |
+| 1228 | 7 | Glendala Whitewing |
+| 1229 | 7 | Crystal Parker Bryant |
+| 1230 | 7 | Kristen Templeman |
+| 1231 | 7 | Brandy Dark |
+| 1232 | 7 | Angela Mertz |
+| 1233 | 7 | Heather Smith-Carter |
+| 1234 | 7 | Spicy Faller |
+| 1235 | 6 | Jasmine Turner |
+| 1236 | 6 | Eric Quan |
+| 1237 | 6 | Richierich Gonzalez |
+| 1238 | 6 | Andy Petersen |
+| 1239 | 6 | Amanda Jill Sturgill |
+| 1240 | 6 | Aliyah Abdella |
+| 1241 | 6 | Rachel |
+| 1242 | 6 | Loony Brickzone |
+| 1243 | 6 | Goodie |
+| 1244 | 6 | MamaC |
+| 1245 | 6 | Frothy Gridmatch |
 | 1246 | 6 | Kiki Moore |
-| 1247 | 5 | Perky Balanceblock |
-| 1248 | 5 | James Lackey |
-| 1249 | 5 | Swanky Zigzag |
-| 1250 | 5 | Cheery Twister |
-| 1251 | 5 | Mike Adkins |
-| 1252 | 5 | Linda Monique |
-| 1253 | 5 | Laura Ratliff |
-| 1254 | 5 | Sean Ha |
-| 1255 | 5 | Debbie Johnson |
-| 1256 | 5 | Theonei |
-| 1257 | 5 | Clever Linkfall |
-| 1258 | 5 | Melissa Wilson |
-| 1259 | 5 | Liz R |
-| 1260 | 5 | Tina Berdeja |
-| 1261 | 5 | Chad N Tori Steiner |
-| 1262 | 5 | Tippet |
+| 1247 | 6 | Funky Zonebuilder |
+| 1248 | 5 | Swanky Zigzag |
+| 1249 | 5 | Mike Adkins |
+| 1250 | 5 | Clever Linkfall |
+| 1251 | 5 | Sean Ha |
+| 1252 | 5 | Liz R |
+| 1253 | 5 | Debbie Johnson |
+| 1254 | 5 | Tina Berdeja |
+| 1255 | 5 | Linda Monique |
+| 1256 | 5 | Chad N Tori Steiner |
+| 1257 | 5 | Tippet |
+| 1258 | 5 | James Lackey |
+| 1259 | 5 | Cheery Twister |
+| 1260 | 5 | Laura Ratliff |
+| 1261 | 5 | Theonei |
+| 1262 | 5 | Melissa Wilson |
+| 1263 | 5 | Perky Balanceblock |
 
 ---
 *Standings created by tournaments datasource generation tool*
