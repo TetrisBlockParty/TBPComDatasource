@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 10:42:41 UTC
+# Standings for team4 as of 2026-06-07 10:43:18 UTC
 
 **Total Participants:** 1444
 
@@ -362,27 +362,27 @@
 | 354 | 121 | Jeff Margolis |
 | 355 | 121 | Jennifer Fisher Franklin |
 | 356 | 121 | Jazzy Gridder |
-| 357 | 121 | TJ |
-| 358 | 120 | Goofy Linkmatch |
-| 359 | 120 | Holly Wessel |
-| 360 | 120 | Ada Rodriguez Spradley |
-| 361 | 120 | Lul Babie |
-| 362 | 120 | Joab Gonzalez |
-| 363 | 120 | Shiny Brick |
-| 364 | 120 | Cool Risepiece |
-| 365 | 120 | Carla Woodard |
-| 366 | 120 | Glamorous Gracey |
-| 367 | 119 | Ashley Jenkins |
-| 368 | 119 | aga |
-| 369 | 119 | Rae Saunders |
-| 370 | 119 | Maegon Brazille |
-| 371 | 119 | Dennis Montoya |
-| 372 | 118 | Melika Zeheb |
-| 373 | 118 | farfromlocal |
-| 374 | 118 | Goofy Fall |
-| 375 | 117 | Tyson Stroppel |
-| 376 | 117 | Fancy Tilefall |
-| 377 | 117 | DizzB400 |
+| 357 | 121 | DizzB400 |
+| 358 | 121 | TJ |
+| 359 | 120 | Goofy Linkmatch |
+| 360 | 120 | Holly Wessel |
+| 361 | 120 | Ada Rodriguez Spradley |
+| 362 | 120 | Lul Babie |
+| 363 | 120 | Joab Gonzalez |
+| 364 | 120 | Shiny Brick |
+| 365 | 120 | Cool Risepiece |
+| 366 | 120 | Carla Woodard |
+| 367 | 120 | Glamorous Gracey |
+| 368 | 119 | Ashley Jenkins |
+| 369 | 119 | aga |
+| 370 | 119 | Rae Saunders |
+| 371 | 119 | Maegon Brazille |
+| 372 | 119 | Dennis Montoya |
+| 373 | 118 | Melika Zeheb |
+| 374 | 118 | farfromlocal |
+| 375 | 118 | Goofy Fall |
+| 376 | 117 | Tyson Stroppel |
+| 377 | 117 | Fancy Tilefall |
 | 378 | 117 | Jrr |
 | 379 | 116 | Aaron Turner |
 | 380 | 116 | Samantha Worley |
@@ -398,10 +398,10 @@
 | 390 | 113 | Brandon Bedenbaugh |
 | 391 | 113 | George Palacios |
 | 392 | 113 | Melissa Anne |
-| 393 | 112 | Keith Kosmicki |
-| 394 | 111 | Marcus Chavis |
-| 395 | 111 | Holly Bramel |
-| 396 | 111 | Nicole Colby McCloskey |
+| 393 | 113 | Nicole Colby McCloskey |
+| 394 | 112 | Keith Kosmicki |
+| 395 | 111 | Marcus Chavis |
+| 396 | 111 | Holly Bramel |
 | 397 | 110 | Luna |
 | 398 | 110 | Anna Ryan |
 | 399 | 110 | jaz |
