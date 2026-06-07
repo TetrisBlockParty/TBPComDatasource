@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 00:24:18 UTC
+# Standings for team2 as of 2026-06-07 00:24:41 UTC
 
 **Total Participants:** 1471
 
@@ -333,9 +333,9 @@
 | 325 | 131 | Melmel |
 | 326 | 131 | Teresa Mandich |
 | 327 | 130 | ZBee |
-| 328 | 129 | Armando Sabedra |
+| 328 | 129 | Sandy Justus |
 | 329 | 129 | Loopy Tower |
-| 330 | 129 | Sandy Justus |
+| 330 | 129 | Armando Sabedra |
 | 331 | 129 | Kristi K Milner |
 | 332 | 129 | Perii Reynoso |
 | 333 | 129 | Belle |
@@ -346,66 +346,66 @@
 | 338 | 125 | Gwendolyn Boykin Mobbs |
 | 339 | 124 | Jason Burris |
 | 340 | 124 | Tina |
-| 341 | 123 | Tango Sierra |
-| 342 | 123 | Sassy Twistbuilder |
-| 343 | 121 | Lisa Allen Frisk |
-| 344 | 120 | Tony Medina |
-| 345 | 120 | Charity Hauser |
-| 346 | 120 | Simone F |
+| 341 | 123 | Sassy Twistbuilder |
+| 342 | 123 | Tango Sierra |
+| 343 | 121 | Lyric Price |
+| 344 | 121 | Lisa Allen Frisk |
+| 345 | 120 | Keisha Robinson |
+| 346 | 120 | Kevin Mccoy |
 | 347 | 120 | Carlos J Blas |
-| 348 | 120 | Keisha Robinson |
-| 349 | 120 | Kevin Mccoy |
+| 348 | 120 | Tony Medina |
+| 349 | 120 | Charity Hauser |
 | 350 | 120 | Jessica Connot |
-| 351 | 119 | Angeleye A James |
-| 352 | 118 | Ceci |
-| 353 | 118 | Cindy Scott |
-| 354 | 117 | Wayne Johnson |
-| 355 | 116 | Sherri E Woods Hess |
-| 356 | 116 | Joshua Dye |
-| 357 | 115 | MegaPooh |
+| 351 | 120 | Simone F |
+| 352 | 119 | Angeleye A James |
+| 353 | 118 | Ceci |
+| 354 | 118 | Cindy Scott |
+| 355 | 117 | Wayne Johnson |
+| 356 | 116 | Sherri E Woods Hess |
+| 357 | 116 | Joshua Dye |
 | 358 | 115 | Jumpy Matchbuilder |
-| 359 | 113 | Meagan Grimmett Washburn |
-| 360 | 113 | Flashy Hitter |
-| 361 | 112 | Aurora June Brock |
+| 359 | 115 | MegaPooh |
+| 360 | 113 | Meagan Grimmett Washburn |
+| 361 | 113 | Flashy Hitter |
 | 362 | 112 | Mike Mordhorst |
-| 363 | 111 | Wacky Holder |
-| 364 | 111 | Nikki Hatch |
-| 365 | 111 | Jacquelyn Snyder Dumas |
-| 366 | 111 | Bianca Woodruff |
-| 367 | 111 | Anthony Swift |
-| 368 | 110 | Zappy Liney |
-| 369 | 110 | LittleHippoEars |
-| 370 | 110 | Katie Jones |
-| 371 | 110 | KazzyKay |
-| 372 | 110 | Nichole Wilson |
-| 373 | 109 | Kevin Patrick |
-| 374 | 109 | Crystal Robinson |
-| 375 | 109 | Kawana Nesbitt |
+| 363 | 112 | Aurora June Brock |
+| 364 | 111 | Anthony Swift |
+| 365 | 111 | Bianca Woodruff |
+| 366 | 111 | Jacquelyn Snyder Dumas |
+| 367 | 111 | Wacky Holder |
+| 368 | 111 | Nikki Hatch |
+| 369 | 110 | Zappy Liney |
+| 370 | 110 | LittleHippoEars |
+| 371 | 110 | Katie Jones |
+| 372 | 110 | KazzyKay |
+| 373 | 110 | Nichole Wilson |
+| 374 | 109 | Cathy Tippett |
+| 375 | 109 | StacyBabee |
 | 376 | 109 | Sillyk |
-| 377 | 109 | StacyBabee |
-| 378 | 109 | Cathy Tippett |
-| 379 | 108 | Maurii93 |
-| 380 | 108 | Rachel Nilles |
-| 381 | 108 | Sherri Caillet Aucoin |
-| 382 | 107 | Carole Brown |
-| 383 | 107 | Sam Brewster |
-| 384 | 106 | Starvinmarvin |
-| 385 | 106 | Lyric Price |
-| 386 | 105 | Epic Tilemaker |
-| 387 | 105 | Gabrielle Rivera |
+| 377 | 109 | Kevin Patrick |
+| 378 | 109 | Kawana Nesbitt |
+| 379 | 109 | Crystal Robinson |
+| 380 | 108 | Maurii93 |
+| 381 | 108 | Rachel Nilles |
+| 382 | 108 | Sherri Caillet Aucoin |
+| 383 | 107 | Carole Brown |
+| 384 | 107 | Sam Brewster |
+| 385 | 106 | Starvinmarvin |
+| 386 | 105 | Tamtam |
+| 387 | 105 | Melissa Fink |
 | 388 | 105 | Saucy Wrecker |
-| 389 | 105 | Tamtam |
-| 390 | 105 | Melissa Fink |
-| 391 | 104 | Roe Sarmiento |
+| 389 | 105 | Epic Tilemaker |
+| 390 | 105 | Gabrielle Rivera |
+| 391 | 104 | Epic Framezone |
 | 392 | 104 | Reign Hustler |
-| 393 | 104 | Epic Framezone |
+| 393 | 104 | Roe Sarmiento |
 | 394 | 103 | Rachel M. Farnsworth |
 | 395 | 103 | Elizabeth Kline |
 | 396 | 102 | Wendy McKee |
-| 397 | 102 | Alissa Ary |
-| 398 | 102 | Wendy Mcbride |
-| 399 | 102 | Boldy Fitclear |
-| 400 | 102 | Gabrielle Wilson |
+| 397 | 102 | Boldy Fitclear |
+| 398 | 102 | Gabrielle Wilson |
+| 399 | 102 | Wendy Mcbride |
+| 400 | 102 | Alissa Ary |
 | 401 | 101 | Jef Wassom |
 | 402 | 101 | Jumpy Dashpiece |
 | 403 | 101 | Cassandra Milner |
@@ -988,56 +988,56 @@
 | 980 | 30 | gene15 |
 | 981 | 30 | Rubics cube |
 | 982 | 30 | Christi Hooper |
-| 983 | 30 | Loriane Shumate Griggs |
-| 984 | 30 | Dee |
-| 985 | 30 | Crystal Poss |
-| 986 | 30 | ASL |
-| 987 | 30 | Abby Dexter |
-| 988 | 30 | Tina Kinney |
-| 989 | 30 | Duck |
-| 990 | 30 | D.j. Wingate |
-| 991 | 30 | Devon |
-| 992 | 30 | Marla Paden |
-| 993 | 29 | Brandon Ray Holt |
-| 994 | 29 | Chris Delauro |
-| 995 | 29 | Marcia Davis |
-| 996 | 29 | Brandy Westfall-panchari |
-| 997 | 29 | Michii |
-| 998 | 29 | Michele Stewart |
-| 999 | 29 | Darla Ragsdale |
-| 1000 | 29 | Amy Chauvin |
-| 1001 | 29 | Samantha LeBlanc |
-| 1002 | 29 | Makayla Grubbs |
-| 1003 | 29 | Danita Moon |
-| 1004 | 29 | Daring Pivotfall |
-| 1005 | 29 | Amanda Jungclaus |
-| 1006 | 29 | Alessandria Anderson |
-| 1007 | 28 | Pjrobinsonnn |
+| 983 | 30 | Dee |
+| 984 | 30 | Loriane Shumate Griggs |
+| 985 | 30 | Cary M. Fong |
+| 986 | 30 | Devon |
+| 987 | 30 | D.j. Wingate |
+| 988 | 30 | Abby Dexter |
+| 989 | 30 | Tina Kinney |
+| 990 | 30 | Duck |
+| 991 | 30 | Crystal Poss |
+| 992 | 30 | ASL |
+| 993 | 30 | Marla Paden |
+| 994 | 29 | Marcia Davis |
+| 995 | 29 | Alessandria Anderson |
+| 996 | 29 | Amy Chauvin |
+| 997 | 29 | Brandy Westfall-panchari |
+| 998 | 29 | Chris Delauro |
+| 999 | 29 | Michii |
+| 1000 | 29 | Michele Stewart |
+| 1001 | 29 | Darla Ragsdale |
+| 1002 | 29 | Samantha LeBlanc |
+| 1003 | 29 | Brandon Ray Holt |
+| 1004 | 29 | Makayla Grubbs |
+| 1005 | 29 | Daring Pivotfall |
+| 1006 | 29 | Danita Moon |
+| 1007 | 29 | Amanda Jungclaus |
 | 1008 | 28 | Busted9mm |
-| 1009 | 28 | Frisky Twist |
-| 1010 | 28 | Snippy Brickzone |
-| 1011 | 28 | Courtney Freeman |
-| 1012 | 28 | Dana Vaiden Rivers |
+| 1009 | 28 | Pjrobinsonnn |
+| 1010 | 28 | Frisky Twist |
+| 1011 | 28 | Dana Vaiden Rivers |
+| 1012 | 28 | Courtney Freeman |
 | 1013 | 28 | Stacey Peters |
-| 1014 | 28 | Bennie Farbo |
-| 1015 | 28 | T-Rex Ricky Lee Dieumegarde Jr. |
-| 1016 | 28 | Mark Havens |
-| 1017 | 28 | Cary M. Fong |
-| 1018 | 28 | Glitzy Stack |
-| 1019 | 28 | Dolly |
-| 1020 | 28 | Chirpy Tower |
-| 1021 | 28 | Jennifer Leigh |
-| 1022 | 28 | Lori Yelvington Cain |
-| 1023 | 28 | James Calhoun |
-| 1024 | 27 | Stacey Ann Kelley |
-| 1025 | 27 | Alexis Abner |
-| 1026 | 27 | Dreamy Linkblock |
-| 1027 | 27 | True |
+| 1014 | 28 | Snippy Brickzone |
+| 1015 | 28 | Bennie Farbo |
+| 1016 | 28 | T-Rex Ricky Lee Dieumegarde Jr. |
+| 1017 | 28 | Lori Yelvington Cain |
+| 1018 | 28 | Jennifer Leigh |
+| 1019 | 28 | Chirpy Tower |
+| 1020 | 28 | James Calhoun |
+| 1021 | 28 | Dolly |
+| 1022 | 28 | Glitzy Stack |
+| 1023 | 28 | Mark Havens |
+| 1024 | 27 | BrendaLee NolanBos |
+| 1025 | 27 | Tanya Goodwin |
+| 1026 | 27 | Staci Carl |
+| 1027 | 27 | juhde |
 | 1028 | 27 | CowboyChalie |
-| 1029 | 27 | juhde |
-| 1030 | 27 | Staci Carl |
-| 1031 | 27 | Tanya Goodwin |
-| 1032 | 27 | BrendaLee NolanBos |
+| 1029 | 27 | True |
+| 1030 | 27 | Dreamy Linkblock |
+| 1031 | 27 | Alexis Abner |
+| 1032 | 27 | Stacey Ann Kelley |
 | 1033 | 27 | ktabzz |
 | 1034 | 27 | Angie Barlow |
 | 1035 | 27 | Kim |
