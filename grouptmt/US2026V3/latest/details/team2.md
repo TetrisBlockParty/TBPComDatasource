@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 04:38:17 UTC
+# Standings for team2 as of 2026-06-07 04:38:39 UTC
 
 **Total Participants:** 1599
 
@@ -79,21 +79,21 @@
 | 71 | 835 | Mikki Torres |
 | 72 | 832 | Amber Triguero |
 | 73 | 829 | Gabriella Humphreys |
-| 74 | 819 | Beverly Lynn Mills |
-| 75 | 802 | Charley Bedford |
-| 76 | 799 | Elizabeth Sallas |
-| 77 | 792 | Marquetta Johnson |
-| 78 | 779 | Marie Luciano |
-| 79 | 774 | Deborah Boyce Minor |
-| 80 | 771 | Charlie Wilson |
-| 81 | 757 | Jazzy Faller |
-| 82 | 740 | Amber Salazar |
-| 83 | 728 | Sarah Griffey |
-| 84 | 723 | Criccett Hooper-Smith |
+| 74 | 822 | Criccett Hooper-Smith |
+| 75 | 819 | Beverly Lynn Mills |
+| 76 | 802 | Charley Bedford |
+| 77 | 799 | Elizabeth Sallas |
+| 78 | 792 | Marquetta Johnson |
+| 79 | 779 | Marie Luciano |
+| 80 | 774 | Deborah Boyce Minor |
+| 81 | 771 | Charlie Wilson |
+| 82 | 757 | Jazzy Faller |
+| 83 | 740 | Amber Salazar |
+| 84 | 728 | Sarah Griffey |
 | 85 | 721 | Nawang Nawang |
-| 86 | 716 | Hoppy Rotate |
-| 87 | 700 | Denise Potter |
-| 88 | 692 | Renee Freeman Jacobson |
+| 86 | 720 | Renee Freeman Jacobson |
+| 87 | 716 | Hoppy Rotate |
+| 88 | 700 | Denise Potter |
 | 89 | 685 | Sigmamom |
 | 90 | 671 | Brandi Thompson |
 | 91 | 656 | Loopy Cascadepiece |
