@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:36:20 UTC
+# Standings for team1 as of 2026-06-07 11:36:40 UTC
 
 **Total Participants:** 1445
 
@@ -94,7 +94,7 @@
 | 86 | 677 | Eartha Brown |
 | 87 | 668 | Jonathan Vee Jay |
 | 88 | 661 | Bre Maugh |
-| 89 | 623 | Moomoo |
+| 89 | 653 | Moomoo |
 | 90 | 621 | Kellie Hall |
 | 91 | 620 | IamJust Neyamijah Washington Sr. |
 | 92 | 613 | Big Tina |
@@ -102,8 +102,8 @@
 | 94 | 588 | Shontanese Adams |
 | 95 | 587 | She Higgy |
 | 96 | 587 | KenpachisGirl |
-| 97 | 570 | Keeta Chickswit Scott |
-| 98 | 570 | PandaPrincess |
+| 97 | 570 | PandaPrincess |
+| 98 | 570 | Keeta Chickswit Scott |
 | 99 | 568 | MamaBear |
 | 100 | 564 | Voice |
 | 101 | 552 | Carolynne Walker-Bell |
@@ -170,31 +170,31 @@
 | 162 | 308 | Dena Marie Lee |
 | 163 | 307 | Therealdywoune Peay |
 | 164 | 303 | Roberta Lynn |
-| 165 | 300 | Dee McCool |
-| 166 | 300 | Atlantalindi |
-| 167 | 300 | Felicia Cain |
+| 165 | 300 | Atlantalindi |
+| 166 | 300 | Felicia Cain |
+| 167 | 300 | Dee McCool |
 | 168 | 298 | Leebo Slice |
 | 169 | 297 | Tammye Turner |
-| 170 | 296 | Rolanda Williams |
-| 171 | 296 | Tamara N Lee |
+| 170 | 296 | Tamara N Lee |
+| 171 | 296 | Rolanda Williams |
 | 172 | 293 | Calvin Green |
-| 173 | 291 | Brian Taylor |
-| 174 | 290 | Frisky Fallmatch |
-| 175 | 290 | Eugina Slater |
+| 173 | 293 | Chuck Quarles |
+| 174 | 291 | Brian Taylor |
+| 175 | 290 | Frisky Fallmatch |
 | 176 | 290 | Kaleisha Smith |
-| 177 | 287 | Rackemwillie34 |
-| 178 | 285 | Helen Smith |
-| 179 | 285 | Marcheta Cervantez |
-| 180 | 285 | Ashley MyBeauty Daniels |
-| 181 | 284 | Karebear |
-| 182 | 278 | Sharon Cail |
-| 183 | 278 | Alana Renee |
-| 184 | 277 | Tonya Lee Sanders |
-| 185 | 276 | Cortaz Lawrie |
-| 186 | 276 | Devin West |
-| 187 | 275 | Jawaun Daniels |
-| 188 | 275 | Chris Sladoje |
-| 189 | 275 | Chuck Quarles |
+| 177 | 290 | Eugina Slater |
+| 178 | 287 | Rackemwillie34 |
+| 179 | 285 | Helen Smith |
+| 180 | 285 | Marcheta Cervantez |
+| 181 | 285 | Ashley MyBeauty Daniels |
+| 182 | 284 | Karebear |
+| 183 | 278 | Sharon Cail |
+| 184 | 278 | Alana Renee |
+| 185 | 277 | Tonya Lee Sanders |
+| 186 | 276 | Cortaz Lawrie |
+| 187 | 276 | Devin West |
+| 188 | 275 | Jawaun Daniels |
+| 189 | 275 | Chris Sladoje |
 | 190 | 274 | NastyFriend |
 | 191 | 270 | xXEKUNXx |
 | 192 | 269 | Block King |
