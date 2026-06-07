@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 11:50:40 UTC
+# Standings for team2 as of 2026-06-07 11:51:18 UTC
 
 **Total Participants:** 1712
 
@@ -479,12 +479,12 @@
 | 471 | 116 | Joshua Dye |
 | 472 | 115 | Leticia Tillman |
 | 473 | 115 | Nova |
-| 474 | 115 | Amber Carpenter |
-| 475 | 115 | Muffin Popper |
-| 476 | 114 | Epic Framezone |
-| 477 | 114 | Melissa Abbott |
-| 478 | 113 | Meagan Grimmett Washburn |
-| 479 | 113 | Kenzie |
+| 474 | 115 | Kenzie |
+| 475 | 115 | Amber Carpenter |
+| 476 | 115 | Muffin Popper |
+| 477 | 114 | Epic Framezone |
+| 478 | 114 | Melissa Abbott |
+| 479 | 113 | Meagan Grimmett Washburn |
 | 480 | 112 | Mike Mordhorst |
 | 481 | 112 | LadyDeath |
 | 482 | 112 | Kristen |
@@ -686,67 +686,67 @@
 | 678 | 74 | Christina Kearns |
 | 679 | 74 | Natasha Lee |
 | 680 | 74 | Bethany Nestor |
-| 681 | 74 | Cool Patternbuilder |
+| 681 | 74 | Cherica Taylor |
 | 682 | 74 | Valeri Bradley |
-| 683 | 74 | Cherica Taylor |
-| 684 | 74 | Nicole Treadway |
+| 683 | 74 | Nicole Treadway |
+| 684 | 74 | Cool Patternbuilder |
 | 685 | 73 | BugMansMom |
-| 686 | 73 | Perky Linebuilder |
-| 687 | 73 | Samantha Brown |
-| 688 | 73 | Sunny Spinzone |
-| 689 | 73 | Chirpy Combofall |
-| 690 | 72 | Audrey Bickford |
+| 686 | 73 | Chirpy Combofall |
+| 687 | 73 | Sunny Spinzone |
+| 688 | 73 | Perky Linebuilder |
+| 689 | 73 | Samantha Brown |
+| 690 | 72 | Renee Craig |
 | 691 | 72 | Lu Wallace |
-| 692 | 72 | Renee Craig |
+| 692 | 72 | Audrey Bickford |
 | 693 | 72 | Mary Whitaker |
 | 694 | 72 | Kendi |
-| 695 | 72 | Stacy Lynn |
+| 695 | 72 | Saucy Lifter |
 | 696 | 72 | Amber Simonton |
-| 697 | 71 | Clever Fallmatch |
-| 698 | 71 | Nicole Good |
-| 699 | 71 | Kiersty Redder |
+| 697 | 72 | Stacy Lynn |
+| 698 | 71 | John C Morrison |
+| 699 | 71 | Sandy Lynn |
 | 700 | 71 | Yari |
-| 701 | 71 | John C Morrison |
-| 702 | 71 | Sandy Lynn |
-| 703 | 70 | Helen Townsend |
-| 704 | 70 | Andrea Spinelli |
+| 701 | 71 | Nicole Good |
+| 702 | 71 | Kiersty Redder |
+| 703 | 71 | Clever Fallmatch |
+| 704 | 70 | Helen Townsend |
 | 705 | 70 | Ques Pryor |
 | 706 | 70 | Christi Hooper |
-| 707 | 70 | Christina Reid |
-| 708 | 70 | Momi Kamohai |
-| 709 | 70 | Doug Small |
-| 710 | 70 | Michelle Fry-Cash |
-| 711 | 70 | Tiffany Ann |
-| 712 | 70 | Carrie Hayes Lankford |
-| 713 | 70 | Brenda Zona |
-| 714 | 70 | Jennifer Lewellyn Hutchins |
-| 715 | 70 | Ava Taber |
-| 716 | 70 | Duck |
+| 707 | 70 | Andrea Spinelli |
+| 708 | 70 | Christina Reid |
+| 709 | 70 | Momi Kamohai |
+| 710 | 70 | Doug Small |
+| 711 | 70 | Michelle Fry-Cash |
+| 712 | 70 | Tiffany Ann |
+| 713 | 70 | Ava Taber |
+| 714 | 70 | Twisty Matchfit |
+| 715 | 70 | Jennifer Lewellyn Hutchins |
+| 716 | 70 | Patti Ward |
 | 717 | 70 | Teea Makensi Meyer |
-| 718 | 70 | Twisty Matchfit |
-| 719 | 70 | Amy D Coble |
-| 720 | 70 | Patti Ward |
-| 721 | 69 | REE4 |
-| 722 | 69 | Denna Marteney |
-| 723 | 69 | Chelsea Frye |
+| 718 | 70 | Carrie Hayes Lankford |
+| 719 | 70 | Brenda Zona |
+| 720 | 70 | Duck |
+| 721 | 70 | Amy D Coble |
+| 722 | 69 | Chelsea Frye |
+| 723 | 69 | Lydia Shonee |
 | 724 | 69 | Loretta Crow |
-| 725 | 69 | Lydia Shonee |
-| 726 | 69 | Momof2wigglebutts |
-| 727 | 69 | Nutty Fitzone |
-| 728 | 69 | Cynthia Dawn Reitz Hanson |
-| 729 | 69 | John Perkins |
-| 730 | 69 | Chipper Towerzone |
-| 731 | 69 | Michelle Powers Chattaway |
-| 732 | 69 | Cranky Brickzone |
-| 733 | 69 | DragonJB2020 |
-| 734 | 68 | Kim Powers |
+| 725 | 69 | Denna Marteney |
+| 726 | 69 | Cranky Brickzone |
+| 727 | 69 | REE4 |
+| 728 | 69 | Momof2wigglebutts |
+| 729 | 69 | Cynthia Dawn Reitz Hanson |
+| 730 | 69 | Nutty Fitzone |
+| 731 | 69 | John Perkins |
+| 732 | 69 | Chipper Towerzone |
+| 733 | 69 | Michelle Powers Chattaway |
+| 734 | 69 | DragonJB2020 |
 | 735 | 68 | Fancy Stacker |
 | 736 | 68 | Kaitlyn Hurst |
-| 737 | 67 | Heather |
+| 737 | 68 | Kim Powers |
 | 738 | 67 | Sunny Tiltbuilder |
-| 739 | 67 | Saucy Lifter |
-| 740 | 67 | Miguel360 |
-| 741 | 67 | Zaniya Brown |
+| 739 | 67 | Heather |
+| 740 | 67 | Zaniya Brown |
+| 741 | 67 | Miguel360 |
 | 742 | 67 | David Skelton |
 | 743 | 67 | Jolly Brickroll |
 | 744 | 66 | Staci Walker |
