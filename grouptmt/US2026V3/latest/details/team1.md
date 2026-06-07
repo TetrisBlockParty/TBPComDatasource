@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 16:10:18 UTC
+# Standings for team1 as of 2026-06-07 16:10:40 UTC
 
 **Total Participants:** 1503
 
@@ -271,15 +271,15 @@
 | 263 | 205 | Stephen Providenti |
 | 264 | 204 | Shameka Thrasher |
 | 265 | 203 | Daris Swearington |
-| 266 | 201 | Richard Flex |
-| 267 | 201 | TT |
-| 268 | 200 | Hailey Hil |
-| 269 | 200 | Sara Meri |
-| 270 | 200 | Coco |
-| 271 | 199 | Fina McKinnis |
-| 272 | 198 | Rachael Bakowicz Edwards |
-| 273 | 197 | Smiley Clearpiece |
-| 274 | 197 | Rayshawn Cohen |
+| 266 | 201 | Rayshawn Cohen |
+| 267 | 201 | Richard Flex |
+| 268 | 201 | TT |
+| 269 | 200 | Hailey Hil |
+| 270 | 200 | Sara Meri |
+| 271 | 200 | Coco |
+| 272 | 199 | Fina McKinnis |
+| 273 | 198 | Rachael Bakowicz Edwards |
+| 274 | 197 | Smiley Clearpiece |
 | 275 | 196 | Poppy Buildout |
 | 276 | 195 | Brittnay Wright |
 | 277 | 194 | Cheery Linkfall |
@@ -525,47 +525,47 @@
 | 517 | 97 | Twisty Cascadeclear |
 | 518 | 97 | Andrew Jay Vaughn |
 | 519 | 97 | Pretty Yella |
-| 520 | 97 | Lootch |
-| 521 | 97 | Kristie |
+| 520 | 97 | Kristie |
+| 521 | 97 | Lootch |
 | 522 | 97 | Shanell Thomas |
-| 523 | 96 | Shea Ladynick Henderson |
+| 523 | 96 | Yazz |
 | 524 | 96 | Sherri Keys |
-| 525 | 96 | Yazz |
-| 526 | 95 | Adrian Harris |
-| 527 | 95 | Angela Kitchens |
-| 528 | 95 | Paul Pendley |
-| 529 | 95 | Chummy Frame |
-| 530 | 95 | Shiny Lift |
-| 531 | 95 | Nona Harriel |
-| 532 | 95 | Jelyfish |
+| 525 | 96 | Shea Ladynick Henderson |
+| 526 | 95 | Chummy Frame |
+| 527 | 95 | Paul Pendley |
+| 528 | 95 | Adrian Harris |
+| 529 | 95 | Shiny Lift |
+| 530 | 95 | Nona Harriel |
+| 531 | 95 | Jelyfish |
+| 532 | 95 | Angela Kitchens |
 | 533 | 94 | Marlainia Boyd |
 | 534 | 94 | Sha Anderson |
 | 535 | 94 | Derald Miller |
 | 536 | 93 | Rene Hicks |
-| 537 | 93 | C Lo Green |
+| 537 | 93 | Chris Holland |
 | 538 | 93 | Holly Baker |
-| 539 | 93 | Kimberly Susan Privette |
-| 540 | 93 | FunTime |
-| 541 | 92 | Jimmy Shannon |
-| 542 | 92 | Kimberly Anderson |
-| 543 | 92 | Terrance Tindall |
-| 544 | 92 | Poppy Twister |
-| 545 | 92 | Lauraly |
-| 546 | 92 | Zappy Snapgrid |
-| 547 | 91 | Jenni Hardman |
-| 548 | 91 | David A Alvino |
-| 549 | 91 | Zappy Clearfit |
+| 539 | 93 | C Lo Green |
+| 540 | 93 | Kimberly Susan Privette |
+| 541 | 93 | FunTime |
+| 542 | 92 | Jimmy Shannon |
+| 543 | 92 | Kimberly Anderson |
+| 544 | 92 | Terrance Tindall |
+| 545 | 92 | Poppy Twister |
+| 546 | 92 | Lauraly |
+| 547 | 92 | Zappy Snapgrid |
+| 548 | 91 | Jenni Hardman |
+| 549 | 91 | David A Alvino |
 | 550 | 91 | Aaron Hartmann |
-| 551 | 90 | crumb bumc |
-| 552 | 90 | Slinky Fallzone |
-| 553 | 90 | Shameka Tiffany |
-| 554 | 90 | Essence Jones |
-| 555 | 90 | CJ Robinson |
-| 556 | 90 | Chris Holland |
-| 557 | 90 | mya |
-| 558 | 89 | Cynthia Cruell |
+| 551 | 91 | Zappy Clearfit |
+| 552 | 90 | crumb bumc |
+| 553 | 90 | Slinky Fallzone |
+| 554 | 90 | CJ Robinson |
+| 555 | 90 | mya |
+| 556 | 90 | Shameka Tiffany |
+| 557 | 90 | Essence Jones |
+| 558 | 89 | Daring Riserfit |
 | 559 | 89 | Jazzy Bridger |
-| 560 | 89 | Daring Riserfit |
+| 560 | 89 | Cynthia Cruell |
 | 561 | 89 | Tracy Feyler |
 | 562 | 89 | Marc Papa |
 | 563 | 88 | Soubletzy |
