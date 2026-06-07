@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 06:42:39 UTC
+# Standings for team2 as of 2026-06-07 06:43:18 UTC
 
 **Total Participants:** 1660
 
@@ -108,10 +108,10 @@
 | 100 | 632 | Wmk Rathbun |
 | 101 | 629 | Mirr Lulu |
 | 102 | 627 | Le Sandy |
-| 103 | 612 | Josh Twilley |
-| 104 | 609 | Amber-leigh Williams |
+| 103 | 619 | Amber-leigh Williams |
+| 104 | 612 | Josh Twilley |
 | 105 | 600 | LEW |
-| 106 | 595 | Alison Waller |
+| 106 | 596 | Alison Waller |
 | 107 | 592 | Brandon Link |
 | 108 | 588 | Kellie Sharp Godfrey |
 | 109 | 585 | Rhonda Diebold |
@@ -163,8 +163,8 @@
 | 155 | 365 | Branden Frankowski |
 | 156 | 362 | Nutty Curver |
 | 157 | 360 | Jacob Carpenter |
-| 158 | 357 | Crystal Allen |
-| 159 | 357 | Erin Thomas |
+| 158 | 357 | Erin Thomas |
+| 159 | 357 | Crystal Allen |
 | 160 | 356 | Joni Michelle Morgan |
 | 161 | 354 | Zesty Strikerbuilder |
 | 162 | 348 | Eric Drane |
@@ -190,11 +190,11 @@
 | 182 | 300 | Linda Guay |
 | 183 | 300 | Hector |
 | 184 | 299 | Mookshake |
-| 185 | 298 | Rob Owens |
-| 186 | 298 | Heather Burgett |
+| 185 | 298 | Heather Burgett |
+| 186 | 298 | Rob Owens |
 | 187 | 298 | Breeana Bennett |
-| 188 | 296 | Snappy Combo |
-| 189 | 296 | Brenda Jones |
+| 188 | 296 | Brenda Jones |
+| 189 | 296 | Snappy Combo |
 | 190 | 296 | Sara Perkins |
 | 191 | 295 | Brittney Williams |
 | 192 | 294 | Vistabrat |
@@ -206,8 +206,8 @@
 | 198 | 282 | Nova Nova |
 | 199 | 281 | MegaPooh |
 | 200 | 280 | Patricia Carroll |
-| 201 | 278 | Amy Nicole McCanne |
-| 202 | 278 | Ashley Billiot Rhodes |
+| 201 | 278 | Ashley Billiot Rhodes |
+| 202 | 278 | Amy Nicole McCanne |
 | 203 | 277 | Sarah Mccolgan |
 | 204 | 275 | Lisa Underwood Desmond |
 | 205 | 274 | Amber Wolf |
@@ -219,13 +219,13 @@
 | 211 | 259 | Jessica Lynn |
 | 212 | 259 | Angie Kowalsky Olson |
 | 213 | 257 | Jat |
-| 214 | 253 | Hilliary Beyer |
-| 215 | 253 | Marge Cromer |
+| 214 | 253 | Marge Cromer |
+| 215 | 253 | Hilliary Beyer |
 | 216 | 252 | Kathy Strickland |
-| 217 | 250 | marsam |
-| 218 | 250 | Iesha Cupil |
-| 219 | 247 | Fudgie Pie |
-| 220 | 247 | Brittni Lawrence |
+| 217 | 250 | Iesha Cupil |
+| 218 | 250 | marsam |
+| 219 | 247 | Brittni Lawrence |
+| 220 | 247 | Fudgie Pie |
 | 221 | 247 | Melissa Thomas |
 | 222 | 246 | Brooke Lynn Marie Adelaide |
 | 223 | 242 | Nikki EightySixed |
@@ -234,14 +234,14 @@
 | 226 | 237 | Michelle Luke Banta |
 | 227 | 236 | Lush Party |
 | 228 | 235 | Tami Kay Williams Watson |
-| 229 | 234 | Larry Cross |
-| 230 | 234 | AndyJo |
+| 229 | 234 | AndyJo |
+| 230 | 234 | Larry Cross |
 | 231 | 234 | Chipper Stackbuilder |
 | 232 | 233 | Jeanna Mendez |
 | 233 | 233 | Amie Marks |
 | 234 | 232 | Pam Bauder Ludwig |
-| 235 | 230 | Kelly Vedder |
-| 236 | 230 | Brandy Chinelle |
+| 235 | 230 | Brandy Chinelle |
+| 236 | 230 | Kelly Vedder |
 | 237 | 227 | Groovy Snapper |
 | 238 | 227 | Laura Melton |
 | 239 | 225 | Jenny |
@@ -253,44 +253,44 @@
 | 245 | 221 | Bianca Woodruff |
 | 246 | 220 | Flashy Basegrid |
 | 247 | 220 | Lora Via |
-| 248 | 219 | Stella |
+| 248 | 219 | Ariel Gundersen |
 | 249 | 219 | Cathy Tippett |
-| 250 | 218 | Logan Duffey |
-| 251 | 217 | Amanda Priddy |
-| 252 | 217 | Elizabeth Henry |
-| 253 | 216 | Swanky Fitline |
-| 254 | 214 | Sabrina Hardrick |
+| 250 | 219 | Stella |
+| 251 | 218 | Logan Duffey |
+| 252 | 217 | Amanda Priddy |
+| 253 | 217 | Elizabeth Henry |
+| 254 | 216 | Swanky Fitline |
 | 255 | 214 | Stephany Green |
-| 256 | 212 | Sully |
-| 257 | 211 | AndrewandShela Gornik |
-| 258 | 209 | Chill Line |
+| 256 | 214 | Sabrina Hardrick |
+| 257 | 212 | Sully |
+| 258 | 211 | AndrewandShela Gornik |
 | 259 | 209 | Patria Osuoha |
-| 260 | 207 | Amber Cogdill |
-| 261 | 206 | Liseth Vasquez |
-| 262 | 206 | Jodi Johnson |
-| 263 | 205 | Melisa |
+| 260 | 209 | Chill Line |
+| 261 | 207 | Amber Cogdill |
+| 262 | 206 | Liseth Vasquez |
+| 263 | 206 | Jodi Johnson |
 | 264 | 205 | Karly Moore |
-| 265 | 204 | Loopy Curvebuilder |
-| 266 | 201 | Melissa Nash |
+| 265 | 205 | Melisa |
+| 266 | 204 | Loopy Curvebuilder |
 | 267 | 201 | Jeffrey Smith |
 | 268 | 201 | Danielle Pack Lewellen |
-| 269 | 200 | Sarah Grundisch |
-| 270 | 200 | Al Smith Jr |
-| 271 | 200 | ShiverMeSplinter |
-| 272 | 200 | Physhie |
-| 273 | 200 | Norma Ortiz |
-| 274 | 200 | Eric Wayne Maschman |
-| 275 | 200 | August Christy Lathrop |
-| 276 | 200 | Nathan Walker |
-| 277 | 198 | Amy Taylor Pomerenk |
-| 278 | 196 | Greenie |
-| 279 | 195 | Laverne Ellis Blair |
+| 269 | 201 | Melissa Nash |
+| 270 | 200 | August Christy Lathrop |
+| 271 | 200 | Physhie |
+| 272 | 200 | Sarah Grundisch |
+| 273 | 200 | Al Smith Jr |
+| 274 | 200 | Nathan Walker |
+| 275 | 200 | ShiverMeSplinter |
+| 276 | 200 | Norma Ortiz |
+| 277 | 200 | Eric Wayne Maschman |
+| 278 | 198 | Amy Taylor Pomerenk |
+| 279 | 196 | Greenie |
 | 280 | 195 | Bb |
-| 281 | 195 | Pamela Raye |
-| 282 | 193 | Ariel Gundersen |
-| 283 | 192 | Greta Warden |
-| 284 | 192 | Jill Goff |
-| 285 | 192 | Olivia Jefferson |
+| 281 | 195 | Laverne Ellis Blair |
+| 282 | 195 | Pamela Raye |
+| 283 | 192 | Jill Goff |
+| 284 | 192 | Olivia Jefferson |
+| 285 | 192 | Greta Warden |
 | 286 | 191 | Jessica Christine |
 | 287 | 188 | Ray Daisy |
 | 288 | 187 | Curly Windbreaker |
