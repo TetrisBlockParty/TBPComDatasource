@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 21:02:19 UTC
+# Standings for team1 as of 2026-06-07 21:02:42 UTC
 
 **Total Participants:** 1580
 
@@ -239,7 +239,7 @@
 | 231 | 265 | Penee Wiggins |
 | 232 | 263 | Slim Shedidthat |
 | 233 | 263 | Dacia Hicks |
-| 234 | 261 | Jhonny Maii |
+| 234 | 262 | Jhonny Maii |
 | 235 | 261 | Slinky Brickmatch |
 | 236 | 260 | Natasha Rucker |
 | 237 | 260 | Ann Chung |
