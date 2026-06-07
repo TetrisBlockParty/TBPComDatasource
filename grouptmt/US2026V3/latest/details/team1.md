@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 23:06:39 UTC
+# Standings for team1 as of 2026-06-07 23:07:19 UTC
 
 **Total Participants:** 1607
 
@@ -53,9 +53,9 @@
 | 45 | 1496 | Jolly Dropzone |
 | 46 | 1453 | Janet Cooke |
 | 47 | 1433 | Cherry Rose |
-| 48 | 1376 | Robyn Caldwell |
-| 49 | 1358 | Jennifer To |
-| 50 | 1344 | JoJo |
+| 48 | 1404 | JoJo |
+| 49 | 1376 | Robyn Caldwell |
+| 50 | 1358 | Jennifer To |
 | 51 | 1249 | Ashley Espeut |
 | 52 | 1239 | Holly Jolly |
 | 53 | 1221 | Daylene Johannes |
@@ -65,8 +65,8 @@
 | 57 | 1119 | Corey Cawthon |
 | 58 | 1102 | D'Andra Stewart |
 | 59 | 1078 | Danielle DeLozier Plesec |
-| 60 | 1067 | Blockhead |
-| 61 | 1067 | Catara Renae Oliver |
+| 60 | 1067 | Catara Renae Oliver |
+| 61 | 1067 | Blockhead |
 | 62 | 1057 | Sanjuro |
 | 63 | 1052 | Shortstak |
 | 64 | 1024 | Chill Clusterer |
@@ -88,7 +88,7 @@
 | 80 | 860 | IamJust Neyamijah Washington Sr. |
 | 81 | 844 | Moomoo |
 | 82 | 812 | She Higgy |
-| 83 | 804 | Jazzy Dashpiece |
+| 83 | 809 | Jazzy Dashpiece |
 | 84 | 800 | Chenell Gillard |
 | 85 | 796 | Jaida De'Anne Cox |
 | 86 | 795 | Joy Citizen Pickney |
@@ -134,10 +134,10 @@
 | 126 | 527 | MommaCia |
 | 127 | 518 | ELM |
 | 128 | 517 | Kaleisha Smith |
-| 129 | 514 | Anthony Washington |
-| 130 | 511 | Abraham Espaillat |
-| 131 | 511 | Dizzy Dropper |
-| 132 | 507 | Jason Mungin |
+| 129 | 517 | Jason Mungin |
+| 130 | 514 | Anthony Washington |
+| 131 | 511 | Abraham Espaillat |
+| 132 | 511 | Dizzy Dropper |
 | 133 | 503 | Atlantalindi |
 | 134 | 495 | De'Laonzeo Anthony |
 | 135 | 494 | DaVonte' Cretter |
