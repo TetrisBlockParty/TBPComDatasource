@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 22:42:20 UTC
+# Standings for team4 as of 2026-06-07 22:42:42 UTC
 
 **Total Participants:** 1643
 
@@ -88,8 +88,8 @@
 | 80 | 830 | Kitsune Bi |
 | 81 | 826 | Lupe Alburquerque |
 | 82 | 826 | Sharidan Klinginsmith |
-| 83 | 805 | JoLinda Dunn |
-| 84 | 803 | Tina Shalay Hayes |
+| 83 | 809 | Tina Shalay Hayes |
+| 84 | 805 | JoLinda Dunn |
 | 85 | 800 | Melissa Brown |
 | 86 | 795 | Phil Peterson |
 | 87 | 788 | Shaina Sharp |
@@ -413,14 +413,14 @@
 | 405 | 149 | Snippy Racker |
 | 406 | 149 | Snazzy Fitclear |
 | 407 | 149 | Happy Shatterfit |
-| 408 | 148 | Alex Armour |
-| 409 | 148 | Latisha TeTe Williams |
-| 410 | 147 | Allysha McFarland |
-| 411 | 146 | Chilly Pivot |
-| 412 | 146 | Karen Small |
-| 413 | 146 | Jasmine Marie |
-| 414 | 144 | Holly Bramel |
-| 415 | 144 | Bammer |
+| 408 | 148 | Bammer |
+| 409 | 148 | Alex Armour |
+| 410 | 148 | Latisha TeTe Williams |
+| 411 | 147 | Allysha McFarland |
+| 412 | 146 | Chilly Pivot |
+| 413 | 146 | Karen Small |
+| 414 | 146 | Jasmine Marie |
+| 415 | 144 | Holly Bramel |
 | 416 | 143 | Lively Cascadebuilder |
 | 417 | 143 | Alyssa Berg |
 | 418 | 143 | Brandon Bedenbaugh |
@@ -456,8 +456,8 @@
 | 448 | 136 | Laurie Patrick |
 | 449 | 136 | Rosy Perez |
 | 450 | 136 | Jay Dee |
-| 451 | 135 | Cranky Buildout |
-| 452 | 135 | Knijur Callins |
+| 451 | 135 | Knijur Callins |
+| 452 | 135 | Cranky Buildout |
 | 453 | 135 | my my |
 | 454 | 134 | Suzanne North |
 | 455 | 134 | Shawna Downey |
@@ -466,17 +466,17 @@
 | 458 | 131 | Caiti O'Keefe |
 | 459 | 131 | Clever Patterner |
 | 460 | 131 | luluraine |
-| 461 | 131 | Wendy Zentz |
-| 462 | 130 | Bhakti Sawarkar |
+| 461 | 131 | Donna Bush |
+| 462 | 131 | Wendy Zentz |
 | 463 | 130 | Kimberly Devon |
-| 464 | 130 | Happy Filler |
-| 465 | 130 | Mighty1 |
-| 466 | 130 | Missionary Meda |
-| 467 | 129 | Playa |
-| 468 | 129 | Simone |
-| 469 | 129 | Has2brat |
-| 470 | 129 | Anna Ryan |
-| 471 | 128 | Donna Bush |
+| 464 | 130 | Bhakti Sawarkar |
+| 465 | 130 | Happy Filler |
+| 466 | 130 | Mighty1 |
+| 467 | 130 | Missionary Meda |
+| 468 | 129 | Playa |
+| 469 | 129 | Simone |
+| 470 | 129 | Has2brat |
+| 471 | 129 | Anna Ryan |
 | 472 | 128 | Witty Fitblock |
 | 473 | 128 | Lana Tran |
 | 474 | 128 | Denise Wilson |
@@ -1533,92 +1533,92 @@
 | 1525 | 11 | Eric Mellinger |
 | 1526 | 11 | Amowe |
 | 1527 | 11 | AngReBo |
-| 1528 | 11 | OFOZO |
-| 1529 | 11 | Clever Linkfall |
+| 1528 | 11 | Clever Linkfall |
+| 1529 | 11 | OFOZO |
 | 1530 | 11 | Laurelez R. Carmen |
 | 1531 | 11 | Mystie Malotte |
-| 1532 | 10 | Brianne Stull |
+| 1532 | 10 | Big Dooka |
 | 1533 | 10 | tmnt |
 | 1534 | 10 | Esla mamas |
 | 1535 | 10 | Dreamy Dash |
-| 1536 | 10 | Lazy Crusher |
+| 1536 | 10 | Tee |
 | 1537 | 10 | Buchanon Bossingup Jadrienne |
-| 1538 | 10 | Tee |
+| 1538 | 10 | Lisa Hammock |
 | 1539 | 10 | Christine Niles |
-| 1540 | 10 | Karen Gilbertson |
-| 1541 | 10 | Lisa Hammock |
-| 1542 | 10 | Big Dooka |
-| 1543 | 10 | Mike Adkins |
-| 1544 | 10 | ToneDeaf |
-| 1545 | 10 | Lively Cascadeclear |
-| 1546 | 10 | Whoop Blancò |
-| 1547 | 10 | John Garza |
-| 1548 | 10 | Nicole Washington |
-| 1549 | 10 | ScorpioQueen |
-| 1550 | 10 | Larredo Covington |
-| 1551 | 10 | Bekka Walker |
-| 1552 | 10 | Kay Immaslay |
-| 1553 | 10 | Mindy Likes Tats |
-| 1554 | 10 | Cranky Stackbuilder |
-| 1555 | 10 | Charlie Thornton |
-| 1556 | 10 | Corissa Handy |
-| 1557 | 10 | Emjae Tupaz-Rivera |
-| 1558 | 10 | Nicole |
-| 1559 | 10 | MzB3tyBoop |
-| 1560 | 10 | Sharron Mullins |
-| 1561 | 9 | Whos Square |
-| 1562 | 9 | Todd Hamilton |
+| 1540 | 10 | Brianne Stull |
+| 1541 | 10 | Lazy Crusher |
+| 1542 | 10 | Whoop Blancò |
+| 1543 | 10 | ToneDeaf |
+| 1544 | 10 | Mike Adkins |
+| 1545 | 10 | Nicole Washington |
+| 1546 | 10 | Lively Cascadeclear |
+| 1547 | 10 | Charlie Thornton |
+| 1548 | 10 | Cranky Stackbuilder |
+| 1549 | 10 | Sharron Mullins |
+| 1550 | 10 | MzB3tyBoop |
+| 1551 | 10 | Nicole |
+| 1552 | 10 | Emjae Tupaz-Rivera |
+| 1553 | 10 | Corissa Handy |
+| 1554 | 10 | John Garza |
+| 1555 | 10 | Mindy Likes Tats |
+| 1556 | 10 | Kay Immaslay |
+| 1557 | 10 | Bekka Walker |
+| 1558 | 10 | Larredo Covington |
+| 1559 | 10 | ScorpioQueen |
+| 1560 | 10 | Karen Gilbertson |
+| 1561 | 9 | Crystal Parker Bryant |
+| 1562 | 9 | Whos Square |
 | 1563 | 9 | Luluski Ward |
-| 1564 | 9 | Crystal Parker Bryant |
-| 1565 | 9 | Micole Norris |
+| 1564 | 9 | Micole Norris |
+| 1565 | 9 | apryliss Star |
 | 1566 | 9 | Terry Peach |
 | 1567 | 9 | Phoenyx Roze |
-| 1568 | 9 | Monica Bell |
-| 1569 | 9 | Frothy Riseclear |
-| 1570 | 9 | Marty Carver |
-| 1571 | 9 | MissGranity |
-| 1572 | 9 | DrC |
-| 1573 | 9 | Fancy Curvetile |
-| 1574 | 9 | estefi |
-| 1575 | 9 | fmp |
-| 1576 | 9 | apryliss Star |
-| 1577 | 8 | Jen Molepske |
+| 1568 | 9 | fmp |
+| 1569 | 9 | Todd Hamilton |
+| 1570 | 9 | Monica Bell |
+| 1571 | 9 | estefi |
+| 1572 | 9 | Frothy Riseclear |
+| 1573 | 9 | Marty Carver |
+| 1574 | 9 | MissGranity |
+| 1575 | 9 | DrC |
+| 1576 | 9 | Fancy Curvetile |
+| 1577 | 8 | Gerald Marx |
 | 1578 | 8 | Mayleen Delgado |
-| 1579 | 8 | Frisky Blocker |
-| 1580 | 8 | Gerald Marx |
-| 1581 | 8 | Nums |
-| 1582 | 8 | Bryieson Watson |
-| 1583 | 8 | Happy shelli |
-| 1584 | 8 | Tony Tenas |
-| 1585 | 8 | Lewis Potts |
-| 1586 | 8 | Phoebe Tracy |
-| 1587 | 8 | Shania Richmond |
-| 1588 | 8 | Shavondelia Williams |
+| 1579 | 8 | Jen Molepske |
+| 1580 | 8 | aubz |
+| 1581 | 8 | Frisky Blocker |
+| 1582 | 8 | Happy shelli |
+| 1583 | 8 | Nums |
+| 1584 | 8 | Bryieson Watson |
+| 1585 | 8 | LaTesha D Williams |
+| 1586 | 8 | Lewis Potts |
+| 1587 | 8 | Phoebe Tracy |
+| 1588 | 8 | Shania Richmond |
 | 1589 | 8 | Gabby Markham |
 | 1590 | 8 | Virgo27 |
-| 1591 | 8 | Ivory Glenn |
-| 1592 | 8 | Reuben Determination Dixon |
-| 1593 | 8 | Chummy Gridder |
-| 1594 | 8 | Mac James |
-| 1595 | 8 | Acyndra Cain |
-| 1596 | 8 | LaTesha D Williams |
-| 1597 | 7 | Estmercy |
-| 1598 | 7 | Spicy Faller |
+| 1591 | 8 | Shavondelia Williams |
+| 1592 | 8 | Ivory Glenn |
+| 1593 | 8 | Tony Tenas |
+| 1594 | 8 | Acyndra Cain |
+| 1595 | 8 | Reuben Determination Dixon |
+| 1596 | 8 | Chummy Gridder |
+| 1597 | 8 | Mac James |
+| 1598 | 7 | Estmercy |
 | 1599 | 7 | Kristen Templeman |
 | 1600 | 7 | Melly |
-| 1601 | 7 | aubz |
-| 1602 | 7 | Heather Smith-Carter |
+| 1601 | 7 | Heather Smith-Carter |
+| 1602 | 7 | Spicy Faller |
 | 1603 | 7 | Chipper Hitter |
 | 1604 | 7 | Michael McIntire |
-| 1605 | 7 | Brandy Dark |
-| 1606 | 7 | Kelly Pool |
+| 1605 | 7 | Kelly Pool |
+| 1606 | 7 | Brandy Dark |
 | 1607 | 7 | Malinda Fife |
 | 1608 | 7 | Angela Mertz |
 | 1609 | 7 | Sammmzzz |
 | 1610 | 7 | Amanda KN |
 | 1611 | 7 | Rican |
-| 1612 | 7 | pippy |
-| 1613 | 7 | Peaches3569 |
+| 1612 | 7 | Peaches3569 |
+| 1613 | 7 | pippy |
 | 1614 | 7 | Sheries |
 | 1615 | 7 | John Brandon Kinney |
 | 1616 | 6 | Funky Zonebuilder |

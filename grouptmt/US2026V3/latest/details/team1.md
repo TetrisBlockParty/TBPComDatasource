@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 22:42:20 UTC
+# Standings for team1 as of 2026-06-07 22:42:42 UTC
 
 **Total Participants:** 1601
 
@@ -74,7 +74,7 @@
 | 66 | 1017 | Lisa Müller |
 | 67 | 981 | Court Court |
 | 68 | 980 | Bre Maugh |
-| 69 | 965 | Kimberly Hernandez |
+| 69 | 966 | Kimberly Hernandez |
 | 70 | 939 | Uneekly Mayde |
 | 71 | 935 | Whitney Butler |
 | 72 | 934 | Eric Mcgaughy |
@@ -91,8 +91,8 @@
 | 83 | 803 | She Higgy |
 | 84 | 800 | Chenell Gillard |
 | 85 | 796 | Jaida De'Anne Cox |
-| 86 | 784 | Todd C. Clemens |
-| 87 | 779 | Joy Citizen Pickney |
+| 86 | 789 | Joy Citizen Pickney |
+| 87 | 784 | Todd C. Clemens |
 | 88 | 763 | Richard Horton |
 | 89 | 758 | PandaPrincess |
 | 90 | 749 | Aviv Zehavi |
@@ -190,7 +190,7 @@
 | 182 | 340 | Tamara N Lee |
 | 183 | 340 | Spicy Risepiece |
 | 184 | 339 | Ty Øtg |
-| 185 | 337 | Ebony |
+| 185 | 339 | Ebony |
 | 186 | 333 | La'Chae Nickole |
 | 187 | 330 | Po Marley |
 | 188 | 330 | Davionte DaeDae Hopson-Rodriguez |
