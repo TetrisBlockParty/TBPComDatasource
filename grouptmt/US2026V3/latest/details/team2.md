@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 10:42:18 UTC
+# Standings for team2 as of 2026-06-07 10:42:41 UTC
 
 **Total Participants:** 1701
 
@@ -163,8 +163,8 @@
 | 155 | 381 | Joslyn Johnson |
 | 156 | 380 | Zany Blockclear |
 | 157 | 376 | Nutty Curver |
-| 158 | 375 | Milad Arzani |
-| 159 | 375 | MaddieCherie |
+| 158 | 375 | MaddieCherie |
+| 159 | 375 | Milad Arzani |
 | 160 | 365 | Branden Frankowski |
 | 161 | 360 | Jacob Carpenter |
 | 162 | 359 | Sarah Mccolgan |
@@ -189,22 +189,22 @@
 | 181 | 325 | Fudgie Pie |
 | 182 | 323 | Shannon Wilson |
 | 183 | 319 | Flower_child |
-| 184 | 314 | Danielle Blount |
-| 185 | 314 | DayDreamer79 |
-| 186 | 311 | Hoppy Mover |
-| 187 | 310 | Jennifer Smith |
-| 188 | 309 | Ratchet |
+| 184 | 314 | DayDreamer79 |
+| 185 | 314 | Danielle Blount |
+| 186 | 313 | Ratchet |
+| 187 | 311 | Hoppy Mover |
+| 188 | 310 | Jennifer Smith |
 | 189 | 303 | Chirpy Grid |
 | 190 | 302 | Hypee |
-| 191 | 300 | Linda Guay |
-| 192 | 300 | Hector |
+| 191 | 300 | Hector |
+| 192 | 300 | Linda Guay |
 | 193 | 299 | Mookshake |
 | 194 | 298 | Rob Owens |
 | 195 | 298 | Heather Burgett |
 | 196 | 298 | Breeana Bennett |
 | 197 | 296 | Brenda Jones |
-| 198 | 296 | Snappy Combo |
-| 199 | 296 | Sara Perkins |
+| 198 | 296 | Sara Perkins |
+| 199 | 296 | Snappy Combo |
 | 200 | 295 | Brittney Williams |
 | 201 | 294 | Vistabrat |
 | 202 | 292 | James Ward |
