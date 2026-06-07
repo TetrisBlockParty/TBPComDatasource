@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 13:06:41 UTC
+# Standings for team2 as of 2026-06-07 13:07:17 UTC
 
 **Total Participants:** 1738
 
@@ -129,8 +129,8 @@
 | 121 | 563 | Allison Jarman |
 | 122 | 561 | Groovy Snapper |
 | 123 | 553 | Jamie Jones |
-| 124 | 549 | Kathleen Dumbazz |
-| 125 | 547 | Nettrainer |
+| 124 | 552 | Nettrainer |
+| 125 | 549 | Kathleen Dumbazz |
 | 126 | 541 | Ricardo Ewart |
 | 127 | 535 | Jgato |
 | 128 | 530 | Gloria May Shook |
@@ -1188,35 +1188,35 @@
 | 1180 | 33 | Nicole Hjelmen |
 | 1181 | 33 | Debbie Embry |
 | 1182 | 33 | Cool cee |
-| 1183 | 33 | Octavia Jus Mae Hill |
-| 1184 | 33 | Maja Hauff |
-| 1185 | 33 | Ryan Sanders |
+| 1183 | 33 | Maja Hauff |
+| 1184 | 33 | Ryan Sanders |
+| 1185 | 33 | Octavia Jus Mae Hill |
 | 1186 | 33 | Em |
-| 1187 | 32 | Churube Finwoiisopw |
-| 1188 | 32 | Stephanie |
-| 1189 | 32 | Viani09 |
-| 1190 | 32 | Lively Liner |
-| 1191 | 32 | Amanda Bryte |
-| 1192 | 32 | Chelsea Harriss |
-| 1193 | 32 | Monica Gonzalez Rios |
-| 1194 | 32 | Spicy Enchilada |
-| 1195 | 32 | Zany Dasher |
-| 1196 | 32 | Courtney Elizabeth Hartnagel |
-| 1197 | 32 | Lori Yelvington Cain |
-| 1198 | 32 | Foc |
-| 1199 | 32 | Dandy Matchzone |
-| 1200 | 32 | Adriana Daniela Agapie |
-| 1201 | 32 | Swanky Fallmatch |
-| 1202 | 31 | Louise LeBlanc |
-| 1203 | 31 | Monique Williams |
-| 1204 | 31 | Jazzy Cornerfall |
-| 1205 | 31 | Ronald Granger |
+| 1187 | 32 | Denise Morehart |
+| 1188 | 32 | Dandy Matchzone |
+| 1189 | 32 | Monica Gonzalez Rios |
+| 1190 | 32 | Stephanie |
+| 1191 | 32 | Viani09 |
+| 1192 | 32 | Lively Liner |
+| 1193 | 32 | Amanda Bryte |
+| 1194 | 32 | Chelsea Harriss |
+| 1195 | 32 | Spicy Enchilada |
+| 1196 | 32 | Churube Finwoiisopw |
+| 1197 | 32 | Zany Dasher |
+| 1198 | 32 | Courtney Elizabeth Hartnagel |
+| 1199 | 32 | Lori Yelvington Cain |
+| 1200 | 32 | Foc |
+| 1201 | 32 | Adriana Daniela Agapie |
+| 1202 | 32 | Swanky Fallmatch |
+| 1203 | 31 | Louise LeBlanc |
+| 1204 | 31 | Jenn |
+| 1205 | 31 | Amanda Neal |
 | 1206 | 31 | Cranky Fit |
-| 1207 | 31 | Amanda Neal |
-| 1208 | 31 | Jenn |
-| 1209 | 31 | Dan Ramsey |
-| 1210 | 31 | Trinni Hansen |
-| 1211 | 31 | Denise Morehart |
+| 1207 | 31 | Ronald Granger |
+| 1208 | 31 | Dan Ramsey |
+| 1209 | 31 | Trinni Hansen |
+| 1210 | 31 | Jazzy Cornerfall |
+| 1211 | 31 | Monique Williams |
 | 1212 | 30 | Carrie Rutter-Bail |
 | 1213 | 30 | SarahandAaron Prim |
 | 1214 | 30 | Brett Mullins |
