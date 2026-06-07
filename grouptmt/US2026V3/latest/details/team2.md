@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 04:52:18 UTC
+# Standings for team2 as of 2026-06-07 04:52:39 UTC
 
 **Total Participants:** 1611
 
@@ -407,8 +407,8 @@
 | 399 | 125 | Wayne Johnson |
 | 400 | 124 | Angeleye A James |
 | 401 | 124 | Jason Burris |
-| 402 | 123 | Sassy Twistbuilder |
-| 403 | 123 | rebel4lyfe |
+| 402 | 124 | rebel4lyfe |
+| 403 | 123 | Sassy Twistbuilder |
 | 404 | 122 | Kevin Patrick |
 | 405 | 122 | Maria Ward |
 | 406 | 122 | Katie Jones |
