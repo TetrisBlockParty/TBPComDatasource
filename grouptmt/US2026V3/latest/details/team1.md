@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 10:02:41 UTC
+# Standings for team1 as of 2026-06-07 10:03:17 UTC
 
 **Total Participants:** 1436
 
@@ -190,7 +190,7 @@
 | 182 | 274 | NastyFriend |
 | 183 | 272 | La'Chae Nickole |
 | 184 | 270 | xXEKUNXx |
-| 185 | 261 | Nerdy Snapfall |
+| 185 | 265 | Nerdy Snapfall |
 | 186 | 260 | Ketrell Bailey |
 | 187 | 259 | Brave Clearbuilder |
 | 188 | 258 | Jayjay Rich |
@@ -328,17 +328,17 @@
 | 320 | 142 | Matthieu Pistone |
 | 321 | 142 | Charlene Baltimore |
 | 322 | 141 | Shalena Marie Humphrey |
-| 323 | 140 | Eric Spencer Whitaker |
-| 324 | 140 | Antoinette Jones |
-| 325 | 140 | Nerdy Blockpiece |
+| 323 | 140 | De'Nell Edwards |
+| 324 | 140 | Eric Spencer Whitaker |
+| 325 | 140 | Antoinette Jones |
 | 326 | 140 | rls |
 | 327 | 140 | MamushiOh |
-| 328 | 139 | De'Nell Edwards |
+| 328 | 140 | Nerdy Blockpiece |
 | 329 | 139 | kitten |
 | 330 | 138 | Tyiesha Pie Farmer |
 | 331 | 138 | Tamika Rocheteau |
-| 332 | 137 | Giggy Tower |
-| 333 | 137 | Nickeya Phillips |
+| 332 | 137 | Nickeya Phillips |
+| 333 | 137 | Giggy Tower |
 | 334 | 137 | Lisa Fletcher |
 | 335 | 137 | Tay |
 | 336 | 136 | Alyssa Rae |
