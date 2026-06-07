@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 04:10:19 UTC
+# Standings for team2 as of 2026-06-07 04:10:40 UTC
 
 **Total Participants:** 1593
 
@@ -15,8 +15,8 @@
 | 7 | 7687 | Lacey Nolting |
 | 8 | 7500 | Mocha |
 | 9 | 6240 | Christina Shell |
-| 10 | 6114 | Morgann McDaniel |
-| 11 | 6114 | Tim Ix |
+| 10 | 6114 | Tim Ix |
+| 11 | 6114 | Morgann McDaniel |
 | 12 | 5704 | Cori Keberlein |
 | 13 | 4945 | Dapper Rollout |
 | 14 | 4800 | Crafty Ziggy |
@@ -132,7 +132,7 @@
 | 124 | 433 | Kimberly Cowan |
 | 125 | 430 | Amanda Sikes |
 | 126 | 428 | Steven Craig |
-| 127 | 421 | Nettrainer |
+| 127 | 424 | Nettrainer |
 | 128 | 419 | Cool Climber |
 | 129 | 417 | Bubbly Strikerpiece |
 | 130 | 415 | Suki Jacobs |
@@ -352,13 +352,13 @@
 | 344 | 143 | Amanda L Strong |
 | 345 | 142 | Spunky Cascadeclear |
 | 346 | 142 | Camilo Moreno |
-| 347 | 141 | Jacquelyn Snyder Dumas |
-| 348 | 141 | Loopy Tower |
-| 349 | 140 | Teddy Williams |
-| 350 | 140 | Sharon L Brazelton |
-| 351 | 140 | Billie Jensen |
-| 352 | 139 | Charles E Mccardell |
-| 353 | 139 | KazzyKay |
+| 347 | 142 | KazzyKay |
+| 348 | 141 | Jacquelyn Snyder Dumas |
+| 349 | 141 | Loopy Tower |
+| 350 | 140 | Teddy Williams |
+| 351 | 140 | Sharon L Brazelton |
+| 352 | 140 | Billie Jensen |
+| 353 | 139 | Charles E Mccardell |
 | 354 | 139 | Gabrielle Wilson |
 | 355 | 139 | Funway998 |
 | 356 | 138 | NickandJess Reynolds |
@@ -464,34 +464,34 @@
 | 456 | 100 | Joannah Capilitan |
 | 457 | 100 | Alice Petterborg Barberich |
 | 458 | 100 | Chummy Snapbuilder |
-| 459 | 100 | Jessica Perkins |
-| 460 | 100 | Leticia Tillman |
-| 461 | 100 | Gluten Gremlin |
+| 459 | 100 | Gluten Gremlin |
+| 460 | 100 | Jessica Perkins |
+| 461 | 100 | Leticia Tillman |
 | 462 | 99 | Kaylene Rigas |
-| 463 | 99 | Jennifer Vitro |
-| 464 | 99 | Melissa Abbott |
-| 465 | 98 | Lindsey Ross |
-| 466 | 98 | Sandy Rundel Holderman |
+| 463 | 99 | Melissa Abbott |
+| 464 | 99 | Jennifer Vitro |
+| 465 | 98 | Mary Carriere |
+| 466 | 98 | Lindsey Ross |
 | 467 | 98 | Justin McCray |
-| 468 | 98 | Mary Carriere |
-| 469 | 97 | Sandra Pursell |
+| 468 | 98 | Sandy Rundel Holderman |
+| 469 | 97 | Charlotte Castelli |
 | 470 | 97 | Tracy Tokarz |
-| 471 | 97 | Charlotte Castelli |
+| 471 | 97 | Sandra Pursell |
 | 472 | 97 | Donna Segletes Kay |
-| 473 | 97 | Abby |
-| 474 | 97 | Adri Perez |
-| 475 | 96 | Andrea Rawson |
-| 476 | 96 | Breezy |
+| 473 | 97 | Adri Perez |
+| 474 | 97 | Abby |
+| 475 | 96 | Breezy |
+| 476 | 96 | Cozy Cascade |
 | 477 | 96 | Candi Cane |
-| 478 | 96 | Brooklyn Todd |
-| 479 | 95 | Ava Speedy |
-| 480 | 95 | Leighla Davis |
-| 481 | 94 | MUMBLES |
-| 482 | 94 | Paige Lynette Sohl |
-| 483 | 94 | Mandy Van Laningham Bishop |
-| 484 | 94 | Martha Lynn Wiggins |
-| 485 | 93 | Cheery Tilefall |
-| 486 | 93 | Cozy Cascade |
+| 478 | 96 | Andrea Rawson |
+| 479 | 96 | Brooklyn Todd |
+| 480 | 95 | Ava Speedy |
+| 481 | 95 | Leighla Davis |
+| 482 | 94 | MUMBLES |
+| 483 | 94 | Paige Lynette Sohl |
+| 484 | 94 | Mandy Van Laningham Bishop |
+| 485 | 94 | Martha Lynn Wiggins |
+| 486 | 93 | Cheery Tilefall |
 | 487 | 93 | Connie Breeden |
 | 488 | 93 | Mataya |
 | 489 | 93 | Cassandra Green |
@@ -525,29 +525,29 @@
 | 517 | 86 | Nicole Ashbaugh |
 | 518 | 86 | Dad |
 | 519 | 86 | Susie Conger |
-| 520 | 85 | Christine James |
-| 521 | 85 | ChefDeb |
-| 522 | 85 | Frisky Linkbuilder |
-| 523 | 85 | Ginger Nesbitt |
-| 524 | 85 | Sarah Louise Cobb |
-| 525 | 85 | Daisy Girl |
-| 526 | 85 | Tonya Marino |
-| 527 | 85 | Rhonda Driskill |
-| 528 | 84 | Stoney McMillion |
-| 529 | 84 | Katrien |
-| 530 | 84 | Shannon Posner |
-| 531 | 84 | Matt Wylie |
-| 532 | 83 | Holly Huval |
-| 533 | 83 | Becky Kennon |
-| 534 | 83 | TetrisMama |
+| 520 | 85 | ChefDeb |
+| 521 | 85 | Rhonda Driskill |
+| 522 | 85 | Tonya Marino |
+| 523 | 85 | Daisy Girl |
+| 524 | 85 | Frisky Linkbuilder |
+| 525 | 85 | Sarah Louise Cobb |
+| 526 | 85 | Christine James |
+| 527 | 85 | Ginger Nesbitt |
+| 528 | 84 | Matt Wylie |
+| 529 | 84 | Shannon Posner |
+| 530 | 84 | Katrien |
+| 531 | 84 | Mandy |
+| 532 | 84 | Stoney McMillion |
+| 533 | 83 | Holly Huval |
+| 534 | 83 | Becky Kennon |
 | 535 | 83 | Louis Brudzinski |
-| 536 | 83 | Billy Pittman |
-| 537 | 82 | Mikaela Byrd |
-| 538 | 82 | Kimberly Brooks |
-| 539 | 82 | Kati Eckstein |
-| 540 | 82 | Madonna Ash |
-| 541 | 82 | Kelly |
-| 542 | 82 | Mandy |
+| 536 | 83 | TetrisMama |
+| 537 | 83 | Billy Pittman |
+| 538 | 82 | Mikaela Byrd |
+| 539 | 82 | Kimberly Brooks |
+| 540 | 82 | Kati Eckstein |
+| 541 | 82 | Madonna Ash |
+| 542 | 82 | Kelly |
 | 543 | 81 | rageking |
 | 544 | 81 | Shiny Spinfit |
 | 545 | 81 | YldBoar |
