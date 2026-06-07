@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 12:10:40 UTC
+# Standings for team1 as of 2026-06-07 12:11:17 UTC
 
 **Total Participants:** 1449
 
@@ -112,8 +112,8 @@
 | 104 | 532 | Chris Caniglia |
 | 105 | 527 | MommaCia |
 | 106 | 518 | Quirky Fallgrid |
-| 107 | 511 | Abraham Espaillat |
-| 108 | 511 | Gael Quintana |
+| 107 | 515 | Gael Quintana |
+| 108 | 511 | Abraham Espaillat |
 | 109 | 511 | Dizzy Dropper |
 | 110 | 510 | Cj Gorman |
 | 111 | 495 | W.A. Simpson |
@@ -1270,75 +1270,75 @@
 | 1262 | 15 | Shamara Thurston |
 | 1263 | 15 | Zany Patternblock |
 | 1264 | 15 | Bri Lou |
-| 1265 | 15 | Happy Towerfall |
-| 1266 | 15 | Princess Nevaeh |
-| 1267 | 15 | Robert Varnado |
-| 1268 | 15 | Hasty Match |
-| 1269 | 15 | Tami Spence |
-| 1270 | 15 | Chummy Clearfit |
-| 1271 | 15 | Lush Risebuilder |
-| 1272 | 15 | Laura Long |
-| 1273 | 15 | Wacky Towerer |
-| 1274 | 14 | Carmen Claudio |
-| 1275 | 14 | Analesia Taylor |
-| 1276 | 14 | Barbiebunz |
-| 1277 | 14 | Jennifer Levan |
-| 1278 | 14 | Beautiful314 |
-| 1279 | 14 | smash56! |
-| 1280 | 14 | Alanna Breitenbach |
-| 1281 | 14 | Jazzy |
-| 1282 | 14 | Jerrone Epps |
-| 1283 | 14 | Fancy Mover |
-| 1284 | 14 | Dymond |
+| 1265 | 15 | Laura Long |
+| 1266 | 15 | Robert Varnado |
+| 1267 | 15 | Hasty Match |
+| 1268 | 15 | Wacky Towerer |
+| 1269 | 15 | Chummy Clearfit |
+| 1270 | 15 | Tami Spence |
+| 1271 | 15 | Happy Towerfall |
+| 1272 | 15 | Lush Risebuilder |
+| 1273 | 15 | Princess Nevaeh |
+| 1274 | 14 | Alanna Breitenbach |
+| 1275 | 14 | Barbiebunz |
+| 1276 | 14 | Analesia Taylor |
+| 1277 | 14 | Carmen Claudio |
+| 1278 | 14 | Jennifer Levan |
+| 1279 | 14 | Dymond |
+| 1280 | 14 | Zany Pivot |
+| 1281 | 14 | LOVE |
+| 1282 | 14 | Fancy Mover |
+| 1283 | 14 | smash56! |
+| 1284 | 14 | Beautiful314 |
 | 1285 | 14 | Nerdy Curvetile |
-| 1286 | 14 | Zany Pivot |
-| 1287 | 14 | LOVE |
-| 1288 | 13 | Emma Adams |
-| 1289 | 13 | Tasha Stuckey |
-| 1290 | 13 | Chinkey Overit |
-| 1291 | 13 | random |
-| 1292 | 13 | Beth Ingham |
-| 1293 | 13 | Zachary Sinclair |
-| 1294 | 13 | Bumpy Ricketts |
-| 1295 | 13 | Deanna Pinkard Harrington |
-| 1296 | 13 | Leah Ingram |
-| 1297 | 13 | PuddenPop |
-| 1298 | 12 | toye69 |
-| 1299 | 12 | Michael Jones |
+| 1286 | 14 | Jazzy |
+| 1287 | 14 | Jerrone Epps |
+| 1288 | 13 | PuddenPop |
+| 1289 | 13 | Emma Adams |
+| 1290 | 13 | Leah Ingram |
+| 1291 | 13 | Deanna Pinkard Harrington |
+| 1292 | 13 | Bumpy Ricketts |
+| 1293 | 13 | Tasha Stuckey |
+| 1294 | 13 | Zachary Sinclair |
+| 1295 | 13 | Beth Ingham |
+| 1296 | 13 | random |
+| 1297 | 13 | Chinkey Overit |
+| 1298 | 13 | ThaMENACING1 |
+| 1299 | 12 | Chantae Maxwell |
 | 1300 | 12 | BigMike |
-| 1301 | 12 | Chantae Maxwell |
-| 1302 | 12 | BigDawg Lessley |
-| 1303 | 12 | Carolyn |
-| 1304 | 12 | Tempee |
-| 1305 | 12 | Plucky Twist |
-| 1306 | 12 | Outspoken Sirchristopher |
-| 1307 | 12 | Mike Hromowyk |
-| 1308 | 12 | Joseph Ware Jr. |
-| 1309 | 12 | Nerdy Riser |
-| 1310 | 12 | Dora Greer |
-| 1311 | 12 | Mamiyoung47 |
-| 1312 | 12 | Silly Spinblock |
-| 1313 | 12 | Lavance Sams |
-| 1314 | 12 | ThaMENACING1 |
+| 1301 | 12 | Carolyn |
+| 1302 | 12 | toye69 |
+| 1303 | 12 | Michael Jones |
+| 1304 | 12 | BigDawg Lessley |
+| 1305 | 12 | Tempee |
+| 1306 | 12 | Mike Hromowyk |
+| 1307 | 12 | Dora Greer |
+| 1308 | 12 | Mamiyoung47 |
+| 1309 | 12 | Joseph Ware Jr. |
+| 1310 | 12 | Lavance Sams |
+| 1311 | 12 | Nerdy Riser |
+| 1312 | 12 | Plucky Twist |
+| 1313 | 12 | Silly Spinblock |
+| 1314 | 12 | Outspoken Sirchristopher |
 | 1315 | 11 | Snappy Towerpiece |
-| 1316 | 11 | pizzapie |
-| 1317 | 11 | Layla Williams |
-| 1318 | 11 | Jayson |
-| 1319 | 11 | Zesty Clearer |
+| 1316 | 11 | Layla Williams |
+| 1317 | 11 | Jayson |
+| 1318 | 11 | Zesty Clearer |
+| 1319 | 11 | pizzapie |
 | 1320 | 11 | Groovy Climber |
 | 1321 | 11 | Felicia Woods |
-| 1322 | 11 | KiJoCo |
-| 1323 | 11 | Hasaan Jones |
-| 1324 | 11 | Fred Caston |
-| 1325 | 10 | Blaze |
-| 1326 | 10 | Alisha Dawson Crouch |
-| 1327 | 10 | Yvonne Aggers |
-| 1328 | 10 | OneBuke FollowMe |
+| 1322 | 11 | Fred Caston |
+| 1323 | 11 | KiJoCo |
+| 1324 | 11 | Hasaan Jones |
+| 1325 | 10 | Tynetta Scott |
+| 1326 | 10 | Truthful |
+| 1327 | 10 | Tranica Sterling |
+| 1328 | 10 | Blaze |
 | 1329 | 10 | Willard Junior |
-| 1330 | 10 | Hasty Brickzone |
-| 1331 | 10 | Tranica Sterling |
-| 1332 | 10 | Tynetta Scott |
-| 1333 | 10 | Truthful |
+| 1330 | 10 | Alisha Dawson Crouch |
+| 1331 | 10 | Yvonne Aggers |
+| 1332 | 10 | OneBuke FollowMe |
+| 1333 | 10 | Hasty Brickzone |
 | 1334 | 10 | Upt |
 | 1335 | 10 | Happymama |
 | 1336 | 10 | Semaj Johnson |

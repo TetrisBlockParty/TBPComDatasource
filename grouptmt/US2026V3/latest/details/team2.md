@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 12:10:40 UTC
+# Standings for team2 as of 2026-06-07 12:11:17 UTC
 
 **Total Participants:** 1718
 
@@ -842,27 +842,27 @@
 | 834 | 58 | Lindsey Davidson |
 | 835 | 58 | Pjrobinsonnn |
 | 836 | 58 | Giddy Chiseler |
-| 837 | 57 | Silly Swiper |
-| 838 | 57 | Corina Marie Prunty |
-| 839 | 57 | YUKITATA |
-| 840 | 57 | Kris Dusza Dodus |
-| 841 | 57 | Zappy Pivotfall |
-| 842 | 57 | Jason P. Schwartz |
-| 843 | 57 | Britt |
-| 844 | 57 | Carmina Truoiolo |
-| 845 | 57 | Jessica Rose Engebretson |
-| 846 | 57 | Brandi Vandevanter-Duke |
-| 847 | 57 | Funky Blockmatch |
-| 848 | 57 | Brandy Wallace |
-| 849 | 56 | Monee Stronger |
-| 850 | 56 | Natalie M. Arredondo |
-| 851 | 56 | Glowing Earthy Embers |
-| 852 | 56 | Kevin Perez |
-| 853 | 56 | Sandy Molina |
-| 854 | 56 | Tina Carr |
-| 855 | 56 | Distro |
-| 856 | 56 | Jackelyn Ford |
-| 857 | 56 | Joanie Swann Ruiter |
+| 837 | 58 | Joanie Swann Ruiter |
+| 838 | 57 | Silly Swiper |
+| 839 | 57 | Corina Marie Prunty |
+| 840 | 57 | YUKITATA |
+| 841 | 57 | Kris Dusza Dodus |
+| 842 | 57 | Zappy Pivotfall |
+| 843 | 57 | Jason P. Schwartz |
+| 844 | 57 | Britt |
+| 845 | 57 | Carmina Truoiolo |
+| 846 | 57 | Jessica Rose Engebretson |
+| 847 | 57 | Brandi Vandevanter-Duke |
+| 848 | 57 | Funky Blockmatch |
+| 849 | 57 | Brandy Wallace |
+| 850 | 56 | Monee Stronger |
+| 851 | 56 | Natalie M. Arredondo |
+| 852 | 56 | Glowing Earthy Embers |
+| 853 | 56 | Kevin Perez |
+| 854 | 56 | Sandy Molina |
+| 855 | 56 | Tina Carr |
+| 856 | 56 | Distro |
+| 857 | 56 | Jackelyn Ford |
 | 858 | 55 | Allison Peterson |
 | 859 | 55 | Kelly Hall Whitt |
 | 860 | 55 | James Calhoun |
