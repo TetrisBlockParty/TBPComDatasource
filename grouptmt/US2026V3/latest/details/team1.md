@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 15:32:18 UTC
+# Standings for team1 as of 2026-06-07 15:32:41 UTC
 
 **Total Participants:** 1493
 
@@ -185,28 +185,28 @@
 | 177 | 300 | Atlantalindi |
 | 178 | 300 | David Fuentes |
 | 179 | 299 | IThinkNot |
-| 180 | 298 | Byron Mario Cawthon |
+| 180 | 299 | Kenny MrOnethousand Peck |
 | 181 | 298 | Randizzle |
-| 182 | 297 | Crystal Anderson |
-| 183 | 297 | Ebony |
-| 184 | 296 | Nikki Hogan |
-| 185 | 296 | Latisha Fairley |
-| 186 | 296 | NastyFriend |
-| 187 | 296 | Rolanda Williams |
-| 188 | 295 | Jayjay Rich |
-| 189 | 293 | Tonya Lee Sanders |
-| 190 | 293 | Mic Balew |
-| 191 | 291 | Brian Taylor |
-| 192 | 290 | Frisky Fallmatch |
-| 193 | 290 | Eugina Slater |
-| 194 | 290 | Kaleisha Smith |
-| 195 | 288 | Block King |
-| 196 | 287 | Rackemwillie34 |
-| 197 | 285 | Marcheta Cervantez |
-| 198 | 285 | Helen Smith |
-| 199 | 285 | Ashley MyBeauty Daniels |
-| 200 | 284 | Karebear |
-| 201 | 283 | Kenny MrOnethousand Peck |
+| 182 | 298 | Byron Mario Cawthon |
+| 183 | 297 | Crystal Anderson |
+| 184 | 297 | Ebony |
+| 185 | 296 | Nikki Hogan |
+| 186 | 296 | Latisha Fairley |
+| 187 | 296 | NastyFriend |
+| 188 | 296 | Rolanda Williams |
+| 189 | 295 | Jayjay Rich |
+| 190 | 293 | Tonya Lee Sanders |
+| 191 | 293 | Mic Balew |
+| 192 | 291 | Brian Taylor |
+| 193 | 290 | Frisky Fallmatch |
+| 194 | 290 | Eugina Slater |
+| 195 | 290 | Kaleisha Smith |
+| 196 | 288 | Block King |
+| 197 | 287 | Rackemwillie34 |
+| 198 | 285 | Marcheta Cervantez |
+| 199 | 285 | Helen Smith |
+| 200 | 285 | Ashley MyBeauty Daniels |
+| 201 | 284 | Karebear |
 | 202 | 283 | BULLSEYE |
 | 203 | 282 | SyTheEvilGenius1 |
 | 204 | 281 | Po Marley |
@@ -255,11 +255,11 @@
 | 247 | 231 | Rachel Zimmerman |
 | 248 | 229 | Ann White |
 | 249 | 226 | Slinky Brickmatch |
-| 250 | 220 | Christian Pham |
-| 251 | 217 | Koi |
-| 252 | 212 | Trina Greenwood |
-| 253 | 212 | Nobles Brandon |
-| 254 | 212 | Steve Reno |
+| 250 | 223 | Steve Reno |
+| 251 | 220 | Christian Pham |
+| 252 | 217 | Koi |
+| 253 | 212 | Trina Greenwood |
+| 254 | 212 | Nobles Brandon |
 | 255 | 211 | Boldy Liner |
 | 256 | 211 | LaShaun Stinson |
 | 257 | 210 | Dion Gray |
@@ -761,64 +761,64 @@
 | 753 | 60 | Swanky Glide |
 | 754 | 60 | Frankey Chi |
 | 755 | 60 | Jennifer Endean |
-| 756 | 60 | SherylU |
-| 757 | 60 | Missy Myvette |
-| 758 | 60 | Tanesha Ga'sFinest Corbett |
-| 759 | 60 | Pinky Pink |
-| 760 | 59 | Darrel Pemberton |
-| 761 | 59 | Fatty May |
-| 762 | 59 | Tonny Williams |
-| 763 | 59 | Danny M GR |
-| 764 | 59 | Erica Campbell-Stillings |
-| 765 | 59 | Tamyka E Williams |
-| 766 | 59 | Smiley Tilebuilder |
-| 767 | 59 | Shakmar |
-| 768 | 59 | Sugar Foot |
+| 756 | 60 | Pinky Pink |
+| 757 | 60 | Tanesha Ga'sFinest Corbett |
+| 758 | 60 | Missy Myvette |
+| 759 | 60 | SherylU |
+| 760 | 59 | Smiley Tilebuilder |
+| 761 | 59 | Darrel Pemberton |
+| 762 | 59 | Fatty May |
+| 763 | 59 | Tonny Williams |
+| 764 | 59 | Danny M GR |
+| 765 | 59 | Erica Campbell-Stillings |
+| 766 | 59 | Tamyka E Williams |
+| 767 | 59 | Sugar Foot |
+| 768 | 59 | Shakmar |
 | 769 | 59 | Felicia Woods |
 | 770 | 59 | Parris Wright |
 | 771 | 59 | Elizabeth Hopkins |
-| 772 | 58 | Alexandrla Smith |
-| 773 | 58 | NickyJay Jones |
+| 772 | 58 | Witty Clear |
+| 773 | 58 | Alexandrla Smith |
 | 774 | 58 | Dennis Ripley |
-| 775 | 58 | Witty Clear |
+| 775 | 58 | NickyJay Jones |
 | 776 | 58 | LaSharon Jackson |
 | 777 | 58 | Gabriela Hernandez |
 | 778 | 58 | Kiki |
 | 779 | 58 | CoaCoa Myles |
 | 780 | 58 | Brandy Way |
-| 781 | 57 | Kenny 'Tailormade' Boyd |
-| 782 | 57 | Christy Quick |
-| 783 | 57 | Kyra Coleman |
-| 784 | 57 | Linda Lasha Messenger |
-| 785 | 57 | Desire Rice |
-| 786 | 57 | PSD |
-| 787 | 57 | Idelia L Brown |
-| 788 | 57 | Danny Talbot |
-| 789 | 56 | Lisa Ivy |
-| 790 | 56 | jeremy92 |
-| 791 | 56 | Chanel White |
-| 792 | 56 | Kyle Conley |
-| 793 | 56 | Teresa Bean |
-| 794 | 56 | Sally Elizabeth Hopson |
-| 795 | 56 | Maria Baez Medina |
-| 796 | 56 | QueenzMo |
+| 781 | 57 | Christy Quick |
+| 782 | 57 | Kenny 'Tailormade' Boyd |
+| 783 | 57 | Linda Lasha Messenger |
+| 784 | 57 | Desire Rice |
+| 785 | 57 | Kyra Coleman |
+| 786 | 57 | Teresa Bean |
+| 787 | 57 | PSD |
+| 788 | 57 | Idelia L Brown |
+| 789 | 57 | Danny Talbot |
+| 790 | 56 | Lisa Ivy |
+| 791 | 56 | Maria Baez Medina |
+| 792 | 56 | Sally Elizabeth Hopson |
+| 793 | 56 | QueenzMo |
+| 794 | 56 | Chanel White |
+| 795 | 56 | Kyle Conley |
+| 796 | 56 | jeremy92 |
 | 797 | 55 | nameno |
-| 798 | 55 | KoolKimJay |
-| 799 | 55 | Vernon Hoyt |
-| 800 | 55 | Jane Lame |
-| 801 | 55 | lizlizliz |
-| 802 | 55 | Crtjstr |
-| 803 | 55 | Kyle Franklin |
-| 804 | 54 | Embracing Hair |
-| 805 | 54 | Felicia Yahuah Johnson |
-| 806 | 54 | Katness |
-| 807 | 54 | deeno |
+| 798 | 55 | Crtjstr |
+| 799 | 55 | Jane Lame |
+| 800 | 55 | Kyle Franklin |
+| 801 | 55 | KoolKimJay |
+| 802 | 55 | lizlizliz |
+| 803 | 55 | Vernon Hoyt |
+| 804 | 54 | Katness |
+| 805 | 54 | Embracing Hair |
+| 806 | 54 | Felicia Yahuah Johnson |
+| 807 | 54 | Kashh |
 | 808 | 54 | John Spath |
 | 809 | 54 | Laysa Nunez |
-| 810 | 54 | Kashh |
+| 810 | 54 | deeno |
 | 811 | 54 | Markeita Jones |
-| 812 | 53 | Shona ShayShay Jones |
-| 813 | 53 | brite |
+| 812 | 53 | brite |
+| 813 | 53 | Shona ShayShay Jones |
 | 814 | 53 | Clever Wrecker |
 | 815 | 53 | Morenita Rodriguez |
 | 816 | 53 | Xrandomx |
