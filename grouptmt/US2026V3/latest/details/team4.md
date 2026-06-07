@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 10:12:18 UTC
+# Standings for team4 as of 2026-06-07 10:12:42 UTC
 
 **Total Participants:** 1440
 
@@ -243,8 +243,8 @@
 | 235 | 186 | Kimyatta Cavin |
 | 236 | 186 | Snippy Splitter |
 | 237 | 185 | PerfectPieces |
-| 238 | 185 | Dae Von |
-| 239 | 185 | Britney Kitora |
+| 238 | 185 | Britney Kitora |
+| 239 | 185 | Dae Von |
 | 240 | 183 | Brandy Lynn |
 | 241 | 183 | Tara Delay Hill |
 | 242 | 182 | Jeremy |
@@ -266,34 +266,34 @@
 | 258 | 173 | Ashley Mcdonald |
 | 259 | 172 | No Time |
 | 260 | 171 | Bridget Stevens |
-| 261 | 169 | Tiffany Smith |
-| 262 | 169 | Andrick |
-| 263 | 167 | Jackie Polanco |
-| 264 | 167 | Littlebrat |
-| 265 | 167 | Brainbabe |
-| 266 | 166 | bollo |
-| 267 | 166 | Susan Stofberg Beltran |
-| 268 | 165 | Kelly Howland |
+| 261 | 171 | Karen Davis |
+| 262 | 169 | Tiffany Smith |
+| 263 | 169 | Andrick |
+| 264 | 167 | Brainbabe |
+| 265 | 167 | Littlebrat |
+| 266 | 167 | Jackie Polanco |
+| 267 | 166 | bollo |
+| 268 | 166 | Susan Stofberg Beltran |
 | 269 | 165 | Erika Seaton |
-| 270 | 165 | Ryan Paul Clark-Ramsey |
-| 271 | 164 | Stacy G |
-| 272 | 161 | Bouncy |
-| 273 | 160 | kellie |
+| 270 | 165 | Kelly Howland |
+| 271 | 165 | Ryan Paul Clark-Ramsey |
+| 272 | 164 | Stacy G |
+| 273 | 161 | Bouncy |
 | 274 | 160 | Fran Aaron-Ring |
-| 275 | 160 | Frothy Pattern |
-| 276 | 160 | Morgan Stevens |
-| 277 | 159 | Logan Two-dubs Baker |
-| 278 | 159 | JoAnn Summerlot Ratliff |
-| 279 | 158 | Joseph Hunter |
-| 280 | 157 | Matthew Wilcox |
-| 281 | 157 | Laguya |
+| 275 | 160 | kellie |
+| 276 | 160 | Frothy Pattern |
+| 277 | 160 | Morgan Stevens |
+| 278 | 159 | Logan Two-dubs Baker |
+| 279 | 159 | JoAnn Summerlot Ratliff |
+| 280 | 158 | Joseph Hunter |
+| 281 | 157 | Matthew Wilcox |
 | 282 | 157 | Tipsy Zonebuilder |
-| 283 | 156 | Miwa |
-| 284 | 155 | Shayna Vaigneur-Hall |
-| 285 | 155 | Bonnie Powell |
-| 286 | 155 | Danny Frausto |
-| 287 | 154 | Lani |
-| 288 | 154 | Karen Davis |
+| 283 | 157 | Laguya |
+| 284 | 156 | Miwa |
+| 285 | 155 | Shayna Vaigneur-Hall |
+| 286 | 155 | Bonnie Powell |
+| 287 | 155 | Danny Frausto |
+| 288 | 154 | Lani |
 | 289 | 153 | June Hoffman |
 | 290 | 152 | Jumpy Builderpiece |
 | 291 | 152 | Samara Garcia |
@@ -317,31 +317,31 @@
 | 309 | 141 | Justin Michael |
 | 310 | 141 | JuicyJuice |
 | 311 | 141 | Chilly Pivot |
-| 312 | 140 | Billy Baker |
-| 313 | 139 | Name |
-| 314 | 138 | Rose Anna Safi |
-| 315 | 138 | Tina Thomas |
-| 316 | 138 | Cindy |
-| 317 | 137 | Deborah Silberg |
-| 318 | 136 | Funky Tiler |
-| 319 | 136 | King |
-| 320 | 136 | WeeWooWee |
-| 321 | 136 | Lively Cascadebuilder |
-| 322 | 136 | Slinky Stackzone |
-| 323 | 135 | Quiomarie Cotto |
-| 324 | 135 | crobb77 |
-| 325 | 134 | All knowing |
-| 326 | 132 | Blockcrusher |
-| 327 | 131 | Dominique Melendez |
+| 312 | 140 | Wanda Simmons |
+| 313 | 140 | Billy Baker |
+| 314 | 139 | Name |
+| 315 | 138 | Cindy |
+| 316 | 138 | Tina Thomas |
+| 317 | 138 | Rose Anna Safi |
+| 318 | 137 | Deborah Silberg |
+| 319 | 136 | Slinky Stackzone |
+| 320 | 136 | King |
+| 321 | 136 | WeeWooWee |
+| 322 | 136 | Funky Tiler |
+| 323 | 136 | Lively Cascadebuilder |
+| 324 | 135 | Quiomarie Cotto |
+| 325 | 135 | crobb77 |
+| 326 | 134 | All knowing |
+| 327 | 132 | Blockcrusher |
 | 328 | 131 | Stasia |
-| 329 | 131 | Swanky Snapgrid |
-| 330 | 131 | Lanelva Tiredofbs Marshall |
-| 331 | 130 | Wanda Simmons |
+| 329 | 131 | Lanelva Tiredofbs Marshall |
+| 330 | 131 | Dominique Melendez |
+| 331 | 131 | Swanky Snapgrid |
 | 332 | 130 | Maurice DeJean |
 | 333 | 130 | Bhakti Sawarkar |
 | 334 | 129 | Dizzy Slammer |
-| 335 | 129 | Simone |
-| 336 | 129 | Shauna Davis |
+| 335 | 129 | Shauna Davis |
+| 336 | 129 | Simone |
 | 337 | 129 | Has2brat |
 | 338 | 128 | Lana Tran |
 | 339 | 128 | Juvon SupaShawdii Brooks |

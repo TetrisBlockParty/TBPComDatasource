@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 10:12:18 UTC
+# Standings for team2 as of 2026-06-07 10:12:42 UTC
 
 **Total Participants:** 1697
 
@@ -1208,51 +1208,51 @@
 | 1200 | 29 | Daring Pivotfall |
 | 1201 | 29 | Travis Bundrum |
 | 1202 | 29 | Makayla Grubbs |
-| 1203 | 29 | Renee Craig |
-| 1204 | 29 | Jessica Gayle Sears |
+| 1203 | 29 | Jessica Gayle Sears |
+| 1204 | 29 | Renee Craig |
 | 1205 | 29 | Michii |
-| 1206 | 29 | Brandy Westfall-panchari |
-| 1207 | 29 | Michele Stewart |
-| 1208 | 28 | Glitzy Stack |
-| 1209 | 28 | Stacey Peters |
-| 1210 | 28 | Dana Vaiden Rivers |
+| 1206 | 29 | Michele Stewart |
+| 1207 | 29 | Brandy Westfall-panchari |
+| 1208 | 28 | Stacey Peters |
+| 1209 | 28 | Dana Vaiden Rivers |
+| 1210 | 28 | LK |
 | 1211 | 28 | Mark Havens |
-| 1212 | 28 | LK |
-| 1213 | 28 | Snippy Brickzone |
-| 1214 | 28 | Chirpy Tower |
-| 1215 | 28 | Courtney Freeman |
-| 1216 | 28 | AmyShea |
-| 1217 | 28 | Bonez |
-| 1218 | 27 | Stacey Ann Kelley |
-| 1219 | 27 | Beth |
-| 1220 | 27 | Kim |
-| 1221 | 27 | Angie Barlow |
-| 1222 | 27 | Tam |
-| 1223 | 27 | Dreamy Linkblock |
-| 1224 | 27 | Natasha Schatte |
-| 1225 | 27 | Zippy Wobbler |
-| 1226 | 27 | juhde |
-| 1227 | 27 | Darla |
-| 1228 | 27 | CowboyChalie |
-| 1229 | 27 | Brian Karr |
-| 1230 | 27 | sampson |
-| 1231 | 26 | David Starmer |
-| 1232 | 26 | Daniel Cline |
-| 1233 | 26 | Just Me |
-| 1234 | 26 | Yany |
-| 1235 | 26 | Quirky Climber |
-| 1236 | 26 | Danibellee |
-| 1237 | 26 | Countrybling77 |
-| 1238 | 26 | nova |
+| 1212 | 28 | Snippy Brickzone |
+| 1213 | 28 | Breanna Dykes |
+| 1214 | 28 | Glitzy Stack |
+| 1215 | 28 | Bonez |
+| 1216 | 28 | Chirpy Tower |
+| 1217 | 28 | Courtney Freeman |
+| 1218 | 28 | AmyShea |
+| 1219 | 27 | sampson |
+| 1220 | 27 | Angie Barlow |
+| 1221 | 27 | Kim |
+| 1222 | 27 | Beth |
+| 1223 | 27 | Tam |
+| 1224 | 27 | Dreamy Linkblock |
+| 1225 | 27 | Natasha Schatte |
+| 1226 | 27 | Stacey Ann Kelley |
+| 1227 | 27 | juhde |
+| 1228 | 27 | Darla |
+| 1229 | 27 | Zippy Wobbler |
+| 1230 | 27 | CowboyChalie |
+| 1231 | 27 | Brian Karr |
+| 1232 | 26 | David Starmer |
+| 1233 | 26 | Daniel Cline |
+| 1234 | 26 | Peppy Piececlear |
+| 1235 | 26 | Just Me |
+| 1236 | 26 | Cathy Clark |
+| 1237 | 26 | Jackelyn Ford |
+| 1238 | 26 | Goob277 |
 | 1239 | 26 | Darlene Russell |
-| 1240 | 26 | Goob277 |
-| 1241 | 26 | Jackelyn Ford |
-| 1242 | 26 | Cathy Clark |
-| 1243 | 26 | Peppy Piececlear |
-| 1244 | 25 | Breanna Dykes |
-| 1245 | 25 | Dandy Wiper |
+| 1240 | 26 | nova |
+| 1241 | 26 | Countrybling77 |
+| 1242 | 26 | Danibellee |
+| 1243 | 26 | Quirky Climber |
+| 1244 | 26 | Yany |
+| 1245 | 25 | Crafty Slice |
 | 1246 | 25 | Dapper Spinbuilder |
-| 1247 | 25 | Crafty Slice |
+| 1247 | 25 | Dandy Wiper |
 | 1248 | 25 | B.A. Watt |
 | 1249 | 25 | Wendy Michelle Wise-Ledford |
 | 1250 | 25 | Maureen Bryan Adams |
