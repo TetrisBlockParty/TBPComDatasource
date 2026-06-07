@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 11:08:17 UTC
+# Standings for team2 as of 2026-06-07 11:08:45 UTC
 
 **Total Participants:** 1703
 
@@ -70,19 +70,19 @@
 | 62 | 1148 | Nerdy Climber |
 | 63 | 1117 | Mikki Torres |
 | 64 | 1114 | Giddy Slamdrop |
-| 65 | 1081 | Nawang Nawang |
-| 66 | 1070 | Michelle Maulsby |
-| 67 | 1053 | Kvothe |
-| 68 | 1032 | AcardBoardBox |
-| 69 | 1031 | DarkHorse |
+| 65 | 1103 | DarkHorse |
+| 66 | 1081 | Nawang Nawang |
+| 67 | 1070 | Michelle Maulsby |
+| 68 | 1053 | Kvothe |
+| 69 | 1032 | AcardBoardBox |
 | 70 | 1020 | Ruby Sandberg |
 | 71 | 986 | Criccett Hooper-Smith |
 | 72 | 984 | Dane Marko |
 | 73 | 971 | Debra Henry |
 | 74 | 921 | Block Dog |
 | 75 | 913 | Amber Salazar |
-| 76 | 899 | Marie Luciano |
-| 77 | 893 | Gabriella Humphreys |
+| 76 | 903 | Gabriella Humphreys |
+| 77 | 899 | Marie Luciano |
 | 78 | 882 | Lisa Breiding |
 | 79 | 864 | Helen Thomas |
 | 80 | 861 | Marquita Toliver |
@@ -100,16 +100,16 @@
 | 92 | 765 | Brandi Thompson |
 | 93 | 757 | Jazzy Faller |
 | 94 | 750 | Denise Potter |
-| 95 | 721 | Smiley Dropper |
-| 96 | 721 | Hoppy Rotate |
+| 95 | 721 | Hoppy Rotate |
+| 96 | 721 | Smiley Dropper |
 | 97 | 689 | haune |
 | 98 | 685 | Sigmamom |
 | 99 | 666 | Epic Frame |
 | 100 | 656 | Loopy Cascadepiece |
 | 101 | 654 | Bon Lynn |
 | 102 | 639 | Alison Waller |
-| 103 | 632 | Allie Bug |
-| 104 | 632 | Wmk Rathbun |
+| 103 | 632 | Wmk Rathbun |
+| 104 | 632 | Allie Bug |
 | 105 | 629 | Mirr Lulu |
 | 106 | 627 | Le Sandy |
 | 107 | 620 | Amber-leigh Williams |
@@ -122,8 +122,8 @@
 | 114 | 578 | Krisanne Kesner-Lonsby |
 | 115 | 577 | Lindsay Klemp |
 | 116 | 574 | Brandy McCune Reep |
-| 117 | 563 | Tisha Hairston |
-| 118 | 563 | Allison Jarman |
+| 117 | 563 | Allison Jarman |
+| 118 | 563 | Tisha Hairston |
 | 119 | 561 | Groovy Snapper |
 | 120 | 553 | Jamie Jones |
 | 121 | 549 | Kathleen Dumbazz |
@@ -134,8 +134,8 @@
 | 126 | 516 | Amber Miller Wirick |
 | 127 | 515 | Loony Faller |
 | 128 | 512 | Jackie Tupper |
-| 129 | 500 | Suki Kaur |
-| 130 | 500 | Courtney McCulley |
+| 129 | 500 | Courtney McCulley |
+| 130 | 500 | Suki Kaur |
 | 131 | 498 | Jgato |
 | 132 | 483 | Karen Reid Cenkush |
 | 133 | 477 | Amy Gale |
@@ -145,8 +145,8 @@
 | 137 | 458 | Kaycie Shaffer |
 | 138 | 453 | Kimberly Cowan |
 | 139 | 449 | Steven Craig |
-| 140 | 448 | MarioKarasovic |
-| 141 | 448 | Pooh |
+| 140 | 448 | Pooh |
+| 141 | 448 | MarioKarasovic |
 | 142 | 438 | Zappy Pattern |
 | 143 | 438 | Michelle Rich Burkhart |
 | 144 | 436 | Gill |
@@ -260,9 +260,9 @@
 | 252 | 229 | Ariel Gundersen |
 | 253 | 228 | Lora Via |
 | 254 | 227 | Laura Melton |
-| 255 | 225 | Cheery Towerzone |
-| 256 | 225 | Theresa Huddleston |
-| 257 | 225 | Jenny |
+| 255 | 227 | Jenny |
+| 256 | 225 | Cheery Towerzone |
+| 257 | 225 | Theresa Huddleston |
 | 258 | 224 | Kathleen Keogh Van Schoyck |
 | 259 | 224 | Olivia Jefferson |
 | 260 | 223 | SilentBuffalo |
