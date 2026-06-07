@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 15:48:18 UTC
+# Standings for team1 as of 2026-06-07 15:48:40 UTC
 
 **Total Participants:** 1497
 
@@ -64,29 +64,29 @@
 | 56 | 1046 | Spicy Balancer |
 | 57 | 1024 | Chill Clusterer |
 | 58 | 1017 | Lisa Müller |
-| 59 | 1015 | Sanjuro |
-| 60 | 999 | Corey Cawthon |
-| 61 | 998 | Angela R Wilson |
-| 62 | 998 | Weeze |
-| 63 | 943 | Kkbk |
-| 64 | 935 | Whitney Butler |
-| 65 | 902 | Bre Maugh |
-| 66 | 897 | BYM4L |
-| 67 | 894 | Danielle Barthelme |
-| 68 | 885 | Blockhead |
-| 69 | 883 | Court Court |
-| 70 | 882 | Jon Gathers |
-| 71 | 877 | Brian Bohanon II |
-| 72 | 873 | Janine Hunter |
-| 73 | 868 | Eric Mcgaughy |
-| 74 | 836 | Tiana Moore |
-| 75 | 803 | Kimberly Hernandez |
-| 76 | 799 | Jazzy Dashpiece |
-| 77 | 784 | Todd C. Clemens |
-| 78 | 766 | Jaida De'Anne Cox |
-| 79 | 764 | Joy Citizen Pickney |
-| 80 | 763 | Richard Horton |
-| 81 | 750 | Ceilo Marie |
+| 59 | 1016 | Ceilo Marie |
+| 60 | 1015 | Sanjuro |
+| 61 | 999 | Corey Cawthon |
+| 62 | 998 | Angela R Wilson |
+| 63 | 998 | Weeze |
+| 64 | 943 | Kkbk |
+| 65 | 935 | Whitney Butler |
+| 66 | 902 | Bre Maugh |
+| 67 | 897 | BYM4L |
+| 68 | 894 | Danielle Barthelme |
+| 69 | 885 | Blockhead |
+| 70 | 883 | Court Court |
+| 71 | 882 | Jon Gathers |
+| 72 | 877 | Brian Bohanon II |
+| 73 | 873 | Janine Hunter |
+| 74 | 868 | Eric Mcgaughy |
+| 75 | 836 | Tiana Moore |
+| 76 | 803 | Kimberly Hernandez |
+| 77 | 799 | Jazzy Dashpiece |
+| 78 | 784 | Todd C. Clemens |
+| 79 | 766 | Jaida De'Anne Cox |
+| 80 | 764 | Joy Citizen Pickney |
+| 81 | 763 | Richard Horton |
 | 82 | 749 | Aviv Zehavi |
 | 83 | 710 | ing410 |
 | 84 | 689 | Jaida King |
@@ -95,8 +95,8 @@
 | 87 | 678 | No_Other_Choice |
 | 88 | 677 | Eartha Brown |
 | 89 | 668 | Jonathan Vee Jay |
-| 90 | 667 | Sarah Marie |
-| 91 | 667 | Moomoo |
+| 90 | 667 | Moomoo |
+| 91 | 667 | Sarah Marie |
 | 92 | 661 | Kellie Hall |
 | 93 | 658 | Felicia Williams |
 | 94 | 647 | She Higgy |
@@ -338,23 +338,23 @@
 | 330 | 157 | Courtney Cicoria |
 | 331 | 156 | Shalya Terry |
 | 332 | 156 | SceneGreenz Wali |
-| 333 | 156 | Alyssa Rae |
+| 333 | 156 | Tee Spinks |
 | 334 | 156 | Cheeky Twistpiece |
-| 335 | 155 | Charlene Baltimore |
-| 336 | 155 | Lazy Tiltpiece |
-| 337 | 154 | Hasty Glidezone |
-| 338 | 153 | Tipsy Linkroll |
-| 339 | 153 | Bubbly Piececlear |
-| 340 | 152 | Wacky Stackbuilder |
-| 341 | 152 | Jolly Tilefall |
-| 342 | 152 | Phillip Vasquez |
-| 343 | 151 | Tee Spinks |
+| 335 | 156 | Alyssa Rae |
+| 336 | 155 | Charlene Baltimore |
+| 337 | 155 | Lazy Tiltpiece |
+| 338 | 154 | Hasty Glidezone |
+| 339 | 153 | Tipsy Linkroll |
+| 340 | 153 | Bubbly Piececlear |
+| 341 | 152 | Wacky Stackbuilder |
+| 342 | 152 | Jolly Tilefall |
+| 343 | 152 | Phillip Vasquez |
 | 344 | 151 | Brittany Fells |
 | 345 | 151 | Miera Nicole |
-| 346 | 150 | De'Nell Edwards |
-| 347 | 150 | Deveda Williams |
-| 348 | 150 | Telisha Mims |
-| 349 | 150 | Elizabeth Vega Coreano |
+| 346 | 150 | Deveda Williams |
+| 347 | 150 | Telisha Mims |
+| 348 | 150 | Elizabeth Vega Coreano |
+| 349 | 150 | De'Nell Edwards |
 | 350 | 149 | Anthony |
 | 351 | 149 | Chasem45 |
 | 352 | 149 | HarleyJane |
@@ -363,13 +363,13 @@
 | 355 | 147 | Joka NoTime ForHataz |
 | 356 | 147 | LuckyStar |
 | 357 | 146 | Lakiesha Crawford |
-| 358 | 146 | whatever |
-| 359 | 146 | KeeKee Williams |
+| 358 | 146 | KeeKee Williams |
+| 359 | 146 | whatever |
 | 360 | 146 | MamushiOh |
 | 361 | 146 | BlackQueen105 |
-| 362 | 145 | Squaw Ki Ng |
-| 363 | 145 | Matthieu Pistone |
-| 364 | 145 | Giggy Tower |
+| 362 | 145 | Matthieu Pistone |
+| 363 | 145 | Giggy Tower |
+| 364 | 145 | Squaw Ki Ng |
 | 365 | 144 | Brittanie Wardlow |
 | 366 | 143 | Giggy Clusterer |
 | 367 | 141 | Shalena Marie Humphrey |
