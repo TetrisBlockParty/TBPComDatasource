@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 05:36:19 UTC
+# Standings for team1 as of 2026-06-07 05:36:41 UTC
 
 **Total Participants:** 1379
 
@@ -12,9 +12,9 @@
 | 4 | 7732 | Carrie English |
 | 5 | 7602 | Charlie Roehm |
 | 6 | 7059 | Tracy Cohen |
-| 7 | 6802 | Cozy Edge |
-| 8 | 6679 | Death by SnuSnu |
-| 9 | 6161 | Tyeina Johnson |
+| 7 | 6829 | Tyeina Johnson |
+| 8 | 6802 | Cozy Edge |
+| 9 | 6679 | Death by SnuSnu |
 | 10 | 6150 | Songne Arif |
 | 11 | 5946 | Dyane Leah Ware |
 | 12 | 5508 | Jocelyn Pope-Sewell |
@@ -375,45 +375,45 @@
 | 367 | 111 | Ad Doctor |
 | 368 | 110 | Chandler Magee |
 | 369 | 110 | Nate Myers |
-| 370 | 109 | Tamara Johnson-Carter |
-| 371 | 109 | Cece Fowler |
-| 372 | 109 | Tamika Fisher |
-| 373 | 109 | Manda Allen |
+| 370 | 109 | Cece Fowler |
+| 371 | 109 | Tamika Fisher |
+| 372 | 109 | Manda Allen |
+| 373 | 109 | Tamara Johnson-Carter |
 | 374 | 109 | Loopy Tiler |
 | 375 | 109 | Bambi Johnson |
 | 376 | 108 | Char |
 | 377 | 107 | Laurie Napper |
 | 378 | 106 | Mister Reid |
-| 379 | 105 | Maria |
-| 380 | 105 | BabyCakes |
-| 381 | 105 | Mario Meliodas |
-| 382 | 105 | QueenShay AllGood |
-| 383 | 105 | Analiza Ramos |
-| 384 | 105 | Kelley Johnson |
+| 379 | 105 | QueenShay AllGood |
+| 380 | 105 | Analiza Ramos |
+| 381 | 105 | Kelley Johnson |
+| 382 | 105 | BabyCakes |
+| 383 | 105 | Maria |
+| 384 | 105 | Mario Meliodas |
 | 385 | 104 | Breezy Catcher |
 | 386 | 104 | Ahvae Lee |
-| 387 | 104 | Tyiesha Pie Farmer |
-| 388 | 103 | Lynnette WheelerBushnell |
-| 389 | 102 | Christi Walker Patton |
-| 390 | 102 | Maribel Vasquez |
-| 391 | 102 | MamushiOh |
+| 387 | 104 | De'Nell Edwards |
+| 388 | 104 | Tyiesha Pie Farmer |
+| 389 | 103 | Lynnette WheelerBushnell |
+| 390 | 102 | MamushiOh |
+| 391 | 102 | Maribel Vasquez |
 | 392 | 102 | Sarah Steckbauer |
-| 393 | 101 | star |
-| 394 | 101 | Mommy Frank |
-| 395 | 101 | Joana Thompson |
-| 396 | 101 | Elaine Pauley |
-| 397 | 100 | Mary Phillippi Blanton |
+| 393 | 102 | Christi Walker Patton |
+| 394 | 101 | star |
+| 395 | 101 | Elaine Pauley |
+| 396 | 101 | Joana Thompson |
+| 397 | 101 | Mommy Frank |
 | 398 | 100 | Leavon Smith |
 | 399 | 100 | Seddrick |
-| 400 | 100 | Jean Regis |
-| 401 | 100 | Natasha Rucker |
-| 402 | 100 | Oldheads |
-| 403 | 100 | Block King |
-| 404 | 100 | Cornelius Neal |
-| 405 | 100 | $hort Dog |
-| 406 | 100 | Kennedi Brazziel |
-| 407 | 100 | Kesha Brady |
-| 408 | 100 | De'Nell Edwards |
+| 400 | 100 | Mary Phillippi Blanton |
+| 401 | 100 | Jean Regis |
+| 402 | 100 | Natasha Rucker |
+| 403 | 100 | Oldheads |
+| 404 | 100 | Block King |
+| 405 | 100 | Cornelius Neal |
+| 406 | 100 | $hort Dog |
+| 407 | 100 | Kennedi Brazziel |
+| 408 | 100 | Kesha Brady |
 | 409 | 99 | Mahagony Small |
 | 410 | 99 | SeanSanchez |
 | 411 | 99 | Travis Davison |
