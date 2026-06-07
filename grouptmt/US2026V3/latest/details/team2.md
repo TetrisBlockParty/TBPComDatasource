@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 00:02:18 UTC
+# Standings for team2 as of 2026-06-07 00:02:40 UTC
 
 **Total Participants:** 1462
 
@@ -238,9 +238,9 @@
 | 230 | 192 | Nathan Walker |
 | 231 | 191 | Jessica Christine |
 | 232 | 191 | Kathy Strickland |
-| 233 | 188 | Ray Daisy |
-| 234 | 187 | Laura Melton |
-| 235 | 185 | Laverne Ellis Blair |
+| 233 | 189 | Laverne Ellis Blair |
+| 234 | 188 | Ray Daisy |
+| 235 | 187 | Laura Melton |
 | 236 | 181 | Michelle Maulsby |
 | 237 | 180 | Nettrainer |
 | 238 | 180 | Happy |
@@ -281,12 +281,12 @@
 | 273 | 159 | Amanda Priddy |
 | 274 | 157 | Liseth Vasquez |
 | 275 | 156 | Jason Cunningham |
-| 276 | 156 | Rick |
-| 277 | 155 | Zany Blockclear |
-| 278 | 154 | Alonzo Reed |
-| 279 | 153 | Monique Frantz |
-| 280 | 153 | Ratchet |
-| 281 | 152 | meg |
+| 276 | 156 | meg |
+| 277 | 156 | Rick |
+| 278 | 155 | Zany Blockclear |
+| 279 | 154 | Alonzo Reed |
+| 280 | 153 | Monique Frantz |
+| 281 | 153 | Ratchet |
 | 282 | 151 | Marilyn Mendoza |
 | 283 | 151 | Bengy Lead |
 | 284 | 150 | Theresa Huddleston |
