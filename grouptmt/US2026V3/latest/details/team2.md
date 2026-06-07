@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 05:28:18 UTC
+# Standings for team2 as of 2026-06-07 05:28:42 UTC
 
 **Total Participants:** 1634
 
@@ -54,7 +54,7 @@
 | 46 | 1678 | Betty Barrett |
 | 47 | 1606 | Nerdy Glidepiece |
 | 48 | 1599 | Heather Marie-Tarlton Britt |
-| 49 | 1554 | Rose Schaffner-Kibler |
+| 49 | 1580 | Rose Schaffner-Kibler |
 | 50 | 1531 | Happy Pivotfall |
 | 51 | 1510 | Shandrea Crawford |
 | 52 | 1501 | Monica Galli |
@@ -206,11 +206,11 @@
 | 198 | 273 | DomDomsNana |
 | 199 | 270 | giamy |
 | 200 | 269 | Ackerman 85 |
-| 201 | 262 | Cool Balancer |
-| 202 | 260 | Snappy Blockbuilder |
-| 203 | 259 | Jessica Lynn |
-| 204 | 259 | Angie Kowalsky Olson |
-| 205 | 259 | Glitzy Base |
+| 201 | 263 | Glitzy Base |
+| 202 | 262 | Cool Balancer |
+| 203 | 260 | Snappy Blockbuilder |
+| 204 | 259 | Jessica Lynn |
+| 205 | 259 | Angie Kowalsky Olson |
 | 206 | 257 | Jat |
 | 207 | 253 | Marge Cromer |
 | 208 | 253 | Hilliary Beyer |
@@ -1178,90 +1178,90 @@
 | 1170 | 27 | Kim |
 | 1171 | 27 | Darla |
 | 1172 | 27 | juhde |
-| 1173 | 26 | Shawn Jensen |
-| 1174 | 26 | Just Me |
-| 1175 | 26 | Quirky Climber |
-| 1176 | 26 | Yany |
-| 1177 | 26 | Lu Wallace |
-| 1178 | 26 | Jackelyn Ford |
-| 1179 | 26 | nova |
+| 1173 | 26 | nova |
+| 1174 | 26 | Shawn Jensen |
+| 1175 | 26 | Just Me |
+| 1176 | 26 | Quirky Climber |
+| 1177 | 26 | Yany |
+| 1178 | 26 | Lu Wallace |
+| 1179 | 26 | Jackelyn Ford |
 | 1180 | 26 | Countrybling77 |
 | 1181 | 26 | Darlene Russell |
-| 1182 | 26 | Danibellee |
-| 1183 | 26 | Cathy Clark |
-| 1184 | 26 | Daniel Cline |
-| 1185 | 26 | Goob277 |
-| 1186 | 26 | Peppy Piececlear |
-| 1187 | 26 | David Cadiente |
-| 1188 | 25 | Paula Stell |
-| 1189 | 25 | Quirky Piecegrid |
-| 1190 | 25 | Daring Spinzone |
-| 1191 | 25 | Fran Gerebics |
-| 1192 | 25 | Kelly Hall Whitt |
-| 1193 | 25 | Wildcat1220 |
-| 1194 | 25 | Crafty Slice |
-| 1195 | 25 | B.A. Watt |
-| 1196 | 25 | Dapper Spinbuilder |
-| 1197 | 25 | Maureen Bryan Adams |
-| 1198 | 25 | Linda Jeanne Knop |
-| 1199 | 25 | Wendy Michelle Wise-Ledford |
-| 1200 | 25 | Beachmama |
-| 1201 | 25 | Dandy Wiper |
-| 1202 | 25 | Poppy Zonepiece |
-| 1203 | 25 | Debra May |
-| 1204 | 25 | Michelle Edgin Tranbarger |
-| 1205 | 25 | John Rosales |
-| 1206 | 24 | Lavenda Nettles |
-| 1207 | 24 | April Wright |
-| 1208 | 24 | Lively Shatter |
-| 1209 | 24 | Jess |
-| 1210 | 24 | Paula Smith |
-| 1211 | 24 | Kathryn Mason |
-| 1212 | 24 | Rachel Nunn |
-| 1213 | 24 | Erica |
-| 1214 | 24 | Tiffany Heether |
-| 1215 | 24 | Breanna Dykes |
-| 1216 | 24 | Cheryl Graves Downard |
-| 1217 | 24 | Elodie Deveyer |
-| 1218 | 24 | Angelique Matzke Starns |
-| 1219 | 24 | Kacey Lindemuth |
-| 1220 | 24 | Ashley Corbett |
-| 1221 | 24 | Danielle Etchison Mask |
-| 1222 | 24 | Nicole |
-| 1223 | 23 | MjLovebug13 |
-| 1224 | 23 | Haley |
-| 1225 | 23 | no name |
-| 1226 | 23 | Hyper Striker |
-| 1227 | 23 | Jolene Moelder |
-| 1228 | 23 | Stephanie Fitzgerald |
-| 1229 | 23 | Quirky Shifter |
-| 1230 | 23 | Sarah Phelps Beyer |
-| 1231 | 23 | Denise Morehart |
-| 1232 | 23 | STARFIRE |
-| 1233 | 23 | Giggly Glider |
-| 1234 | 23 | Rich Gorondy |
-| 1235 | 23 | Amanda Raley |
-| 1236 | 23 | Angela Oates-Killebrew |
-| 1237 | 23 | Shirley Bates |
-| 1238 | 23 | Spicy Basepiece |
-| 1239 | 23 | Zaaear Pack |
-| 1240 | 23 | Mike Honcho |
-| 1241 | 22 | Jay King |
-| 1242 | 22 | Jenny |
-| 1243 | 22 | Lotso |
-| 1244 | 22 | Rachel Wooldridge |
-| 1245 | 22 | Destiny Turner |
+| 1182 | 26 | Daniel Cline |
+| 1183 | 26 | Danibellee |
+| 1184 | 26 | Cathy Clark |
+| 1185 | 26 | Jenn |
+| 1186 | 26 | David Cadiente |
+| 1187 | 26 | Peppy Piececlear |
+| 1188 | 26 | Goob277 |
+| 1189 | 25 | Fran Gerebics |
+| 1190 | 25 | Paula Stell |
+| 1191 | 25 | Quirky Piecegrid |
+| 1192 | 25 | Daring Spinzone |
+| 1193 | 25 | Kelly Hall Whitt |
+| 1194 | 25 | Wildcat1220 |
+| 1195 | 25 | Crafty Slice |
+| 1196 | 25 | B.A. Watt |
+| 1197 | 25 | Dapper Spinbuilder |
+| 1198 | 25 | Maureen Bryan Adams |
+| 1199 | 25 | Debra May |
+| 1200 | 25 | Dandy Wiper |
+| 1201 | 25 | Beachmama |
+| 1202 | 25 | John Rosales |
+| 1203 | 25 | Poppy Zonepiece |
+| 1204 | 25 | Linda Jeanne Knop |
+| 1205 | 25 | Wendy Michelle Wise-Ledford |
+| 1206 | 25 | Michelle Edgin Tranbarger |
+| 1207 | 24 | Elodie Deveyer |
+| 1208 | 24 | Lavenda Nettles |
+| 1209 | 24 | April Wright |
+| 1210 | 24 | Erica |
+| 1211 | 24 | Lively Shatter |
+| 1212 | 24 | Jess |
+| 1213 | 24 | Paula Smith |
+| 1214 | 24 | Kathryn Mason |
+| 1215 | 24 | Tiffany Heether |
+| 1216 | 24 | Nicole |
+| 1217 | 24 | Danielle Etchison Mask |
+| 1218 | 24 | Breanna Dykes |
+| 1219 | 24 | Ashley Corbett |
+| 1220 | 24 | Kacey Lindemuth |
+| 1221 | 24 | Cheryl Graves Downard |
+| 1222 | 24 | Angelique Matzke Starns |
+| 1223 | 24 | Rachel Nunn |
+| 1224 | 23 | Sarah Phelps Beyer |
+| 1225 | 23 | Stephanie Fitzgerald |
+| 1226 | 23 | STARFIRE |
+| 1227 | 23 | Hyper Striker |
+| 1228 | 23 | no name |
+| 1229 | 23 | Jolene Moelder |
+| 1230 | 23 | Angela Oates-Killebrew |
+| 1231 | 23 | Spicy Basepiece |
+| 1232 | 23 | Mike Honcho |
+| 1233 | 23 | Rich Gorondy |
+| 1234 | 23 | Giggly Glider |
+| 1235 | 23 | Haley |
+| 1236 | 23 | Quirky Shifter |
+| 1237 | 23 | Zaaear Pack |
+| 1238 | 23 | MjLovebug13 |
+| 1239 | 23 | Denise Morehart |
+| 1240 | 23 | Amanda Raley |
+| 1241 | 23 | Shirley Bates |
+| 1242 | 22 | Binska |
+| 1243 | 22 | Rachel Wooldridge |
+| 1244 | 22 | Destiny Turner |
+| 1245 | 22 | Jenny |
 | 1246 | 22 | Ashley Diana |
-| 1247 | 22 | Binska |
-| 1248 | 22 | RNKERI |
-| 1249 | 22 | Melanesia Springs |
-| 1250 | 22 | Swanky Snapzone |
-| 1251 | 22 | Marii |
-| 1252 | 22 | Josimarie Otero |
-| 1253 | 22 | MoonLilly |
-| 1254 | 22 | Jenn |
-| 1255 | 22 | SueEllen Hawkins |
-| 1256 | 21 | Sandra Mathes Reece |
+| 1247 | 22 | Jay King |
+| 1248 | 22 | Lotso |
+| 1249 | 22 | RNKERI |
+| 1250 | 22 | Melanesia Springs |
+| 1251 | 22 | Swanky Snapzone |
+| 1252 | 22 | Marii |
+| 1253 | 22 | Josimarie Otero |
+| 1254 | 22 | SueEllen Hawkins |
+| 1255 | 22 | MoonLilly |
+| 1256 | 21 | Chill Shatterclear |
 | 1257 | 21 | Shannie |
 | 1258 | 21 | Deanna Mc |
 | 1259 | 21 | Instak1ll |
@@ -1271,8 +1271,8 @@
 | 1263 | 21 | Black Sheep |
 | 1264 | 21 | Erica Abreu |
 | 1265 | 21 | Joe Dirilo |
-| 1266 | 21 | Mandy |
-| 1267 | 21 | Chill Shatterclear |
+| 1266 | 21 | Sandra Mathes Reece |
+| 1267 | 21 | Mandy |
 | 1268 | 21 | Johnathon Mendiola |
 | 1269 | 21 | Swanky Twister |
 | 1270 | 21 | Tina Thomason |

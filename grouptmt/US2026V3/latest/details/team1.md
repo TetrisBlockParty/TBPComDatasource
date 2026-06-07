@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 05:28:18 UTC
+# Standings for team1 as of 2026-06-07 05:28:42 UTC
 
 **Total Participants:** 1373
 
@@ -146,9 +146,9 @@
 | 138 | 334 | Christana Imjustbutton Stone |
 | 139 | 331 | Joey Albright |
 | 140 | 328 | Jonathan Vee Jay |
-| 141 | 323 | Sheila Burnham |
-| 142 | 322 | pooh |
-| 143 | 321 | Chris Caniglia |
+| 141 | 326 | Chris Caniglia |
+| 142 | 323 | Sheila Burnham |
+| 143 | 322 | pooh |
 | 144 | 319 | Andre Sanon |
 | 145 | 312 | Michelle Titus |
 | 146 | 311 | Simmone T. Kadiri |
@@ -179,8 +179,8 @@
 | 171 | 265 | Marcheta Cervantez |
 | 172 | 260 | Ketrell Bailey |
 | 173 | 258 | Jayjay Rich |
-| 174 | 257 | Calvin Green |
-| 175 | 257 | Cathy Young |
+| 174 | 257 | Cathy Young |
+| 175 | 257 | Calvin Green |
 | 176 | 257 | Po Marley |
 | 177 | 257 | Ebony |
 | 178 | 256 | Alana Renee |
