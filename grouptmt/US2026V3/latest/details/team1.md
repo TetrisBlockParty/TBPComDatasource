@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 21:58:19 UTC
+# Standings for team1 as of 2026-06-07 21:58:43 UTC
 
 **Total Participants:** 1591
 
@@ -47,8 +47,8 @@
 | 39 | 1796 | Erika Windom |
 | 40 | 1677 | Markeeta Lipscomb |
 | 41 | 1656 | Ceilo Marie |
-| 42 | 1532 | Jacoby E Fleming |
-| 43 | 1530 | Chris Russell |
+| 42 | 1538 | Chris Russell |
+| 43 | 1532 | Jacoby E Fleming |
 | 44 | 1496 | Jolly Dropzone |
 | 45 | 1453 | Janet Cooke |
 | 46 | 1433 | Cherry Rose |

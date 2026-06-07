@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 21:58:19 UTC
+# Standings for team4 as of 2026-06-07 21:58:43 UTC
 
 **Total Participants:** 1628
 
@@ -62,7 +62,7 @@
 | 54 | 1333 | Adam J Leong |
 | 55 | 1326 | Charlie Lewis |
 | 56 | 1300 | Elissa S-k |
-| 57 | 1201 | Tommy Bond |
+| 57 | 1231 | Tommy Bond |
 | 58 | 1200 | Caitlin Johnson |
 | 59 | 1189 | Jason Allen |
 | 60 | 1148 | Chris Covington |
@@ -122,8 +122,8 @@
 | 114 | 554 | Daryn Elliott |
 | 115 | 550 | vag1974 |
 | 116 | 550 | Nicole Peoples |
-| 117 | 530 | Jewelz |
-| 118 | 530 | CJ |
+| 117 | 530 | CJ |
+| 118 | 530 | Jewelz |
 | 119 | 528 | Katie Lynn Petit |
 | 120 | 526 | Kim |
 | 121 | 521 | Misty Leigh |
@@ -150,8 +150,8 @@
 | 142 | 422 | squareMel |
 | 143 | 421 | Michelle Ross |
 | 144 | 420 | DexterDobbins |
-| 145 | 418 | Futrell Brent |
-| 146 | 418 | Aisha Estrada |
+| 145 | 418 | Aisha Estrada |
+| 146 | 418 | Futrell Brent |
 | 147 | 417 | Danielle Mitchell |
 | 148 | 415 | Chuck Gannon |
 | 149 | 409 | Hen |
@@ -1293,133 +1293,133 @@
 | 1285 | 26 | Jessica Huber |
 | 1286 | 26 | Rebecca Rae Reed |
 | 1287 | 26 | Shakita Moore-Bernard |
-| 1288 | 26 | Speedy Brick |
+| 1288 | 26 | Thomas Cassell |
 | 1289 | 26 | Theonei |
-| 1290 | 26 | taya |
-| 1291 | 26 | Anthony Edwards |
-| 1292 | 26 | Thomas Cassell |
+| 1290 | 26 | Speedy Brick |
+| 1291 | 26 | taya |
+| 1292 | 26 | Anthony Edwards |
 | 1293 | 26 | AJscooter |
-| 1294 | 25 | Amy |
+| 1294 | 25 | Nina Martinez |
 | 1295 | 25 | Christy Petty |
 | 1296 | 25 | Giggy Mover |
-| 1297 | 25 | chapis |
-| 1298 | 25 | Laryssia Taylor |
-| 1299 | 25 | Chabetta |
-| 1300 | 25 | Littleshark |
-| 1301 | 25 | Alicia Horsea Rojas |
-| 1302 | 25 | Tipsy toesy |
-| 1303 | 25 | Honey Honey |
-| 1304 | 25 | Daisy Jaramillo |
-| 1305 | 25 | José A Torres |
-| 1306 | 25 | Kitty Kat |
-| 1307 | 25 | Crafty Slamdrop |
-| 1308 | 25 | Nina Martinez |
-| 1309 | 24 | Dana Smith |
-| 1310 | 24 | Snappy Blockzone |
-| 1311 | 24 | Tameka Harrison |
-| 1312 | 24 | Ja'Net Riley |
-| 1313 | 24 | Flashy Wipebuilder |
+| 1297 | 25 | Honey Honey |
+| 1298 | 25 | chapis |
+| 1299 | 25 | Laryssia Taylor |
+| 1300 | 25 | Chabetta |
+| 1301 | 25 | Kitty Kat |
+| 1302 | 25 | Crafty Slamdrop |
+| 1303 | 25 | Littleshark |
+| 1304 | 25 | José A Torres |
+| 1305 | 25 | Alicia Horsea Rojas |
+| 1306 | 25 | Amy |
+| 1307 | 25 | Daisy Jaramillo |
+| 1308 | 25 | Tipsy toesy |
+| 1309 | 24 | Flashy Wipebuilder |
+| 1310 | 24 | Jane M Tiller |
+| 1311 | 24 | Snappy Blockzone |
+| 1312 | 24 | Tameka Harrison |
+| 1313 | 24 | Ja'Net Riley |
 | 1314 | 24 | Pamela Kaye |
-| 1315 | 24 | Jane M Tiller |
+| 1315 | 24 | Dana Smith |
 | 1316 | 24 | Ferlyz |
-| 1317 | 24 | Chelsea Pigg |
-| 1318 | 24 | Hannah White |
-| 1319 | 24 | Socorro Arredondo |
-| 1320 | 24 | Katiana Gonzalez |
-| 1321 | 24 | Jenni |
-| 1322 | 23 | Infini Agape |
-| 1323 | 23 | Gellix |
-| 1324 | 23 | Lina Samra |
-| 1325 | 23 | Monika Webb |
-| 1326 | 23 | DuvaDova Ahava |
-| 1327 | 23 | James Moore |
+| 1317 | 24 | Jenni |
+| 1318 | 24 | Chelsea Pigg |
+| 1319 | 24 | Hannah White |
+| 1320 | 24 | Socorro Arredondo |
+| 1321 | 24 | Katiana Gonzalez |
+| 1322 | 24 | Vv |
+| 1323 | 23 | Monika Webb |
+| 1324 | 23 | James Moore |
+| 1325 | 23 | Daring Patternblock |
+| 1326 | 23 | Infini Agape |
+| 1327 | 23 | Lina Samra |
 | 1328 | 23 | Carole Dyment Westcott |
-| 1329 | 23 | Daring Patternblock |
-| 1330 | 23 | LIZ |
-| 1331 | 23 | Katie Stewart |
-| 1332 | 23 | Breezy Cascadeclear |
+| 1329 | 23 | LIZ |
+| 1330 | 23 | Katie Stewart |
+| 1331 | 23 | Breezy Cascadeclear |
+| 1332 | 23 | Gellix |
 | 1333 | 23 | Jordan Tamayia Williams |
-| 1334 | 22 | Eric Quan |
-| 1335 | 22 | Kathy Lindsay |
-| 1336 | 22 | Stylist |
-| 1337 | 22 | Sarah McAllister |
-| 1338 | 22 | Baby cat |
-| 1339 | 22 | Bold Tumbler |
-| 1340 | 22 | Christine Raine Jalili |
-| 1341 | 22 | Magda Lene |
-| 1342 | 22 | Honey |
-| 1343 | 22 | McScrubby |
-| 1344 | 22 | Twisty Chiseler |
-| 1345 | 22 | Zippy Jumper |
-| 1346 | 22 | Rachel Resnick |
-| 1347 | 22 | Crafty Builderfit |
-| 1348 | 21 | Ak Jones |
+| 1334 | 23 | DuvaDova Ahava |
+| 1335 | 22 | Christine Raine Jalili |
+| 1336 | 22 | Baby cat |
+| 1337 | 22 | Eric Quan |
+| 1338 | 22 | Kathy Lindsay |
+| 1339 | 22 | Stylist |
+| 1340 | 22 | Sarah McAllister |
+| 1341 | 22 | Bold Tumbler |
+| 1342 | 22 | Magda Lene |
+| 1343 | 22 | Honey |
+| 1344 | 22 | McScrubby |
+| 1345 | 22 | Twisty Chiseler |
+| 1346 | 22 | Zippy Jumper |
+| 1347 | 22 | Rachel Resnick |
+| 1348 | 22 | Crafty Builderfit |
 | 1349 | 21 | Cozy Staggerpiece |
-| 1350 | 21 | Tammie Baechler |
-| 1351 | 21 | kakasports |
-| 1352 | 21 | Dandy Linkgrid |
-| 1353 | 21 | JUNE |
-| 1354 | 21 | Arlee Woodall |
-| 1355 | 21 | Glendala Whitewing |
-| 1356 | 21 | Mystica |
-| 1357 | 20 | Zesty lemon |
+| 1350 | 21 | Ak Jones |
+| 1351 | 21 | Tammie Baechler |
+| 1352 | 21 | kakasports |
+| 1353 | 21 | Dandy Linkgrid |
+| 1354 | 21 | JUNE |
+| 1355 | 21 | Arlee Woodall |
+| 1356 | 21 | Glendala Whitewing |
+| 1357 | 21 | Mystica |
 | 1358 | 20 | Rell geez |
-| 1359 | 20 | Hasty Snapmatch |
-| 1360 | 20 | Whirl-Klines L Evelyn |
-| 1361 | 20 | Robert Walker |
-| 1362 | 20 | Chirs24 |
-| 1363 | 20 | Snippy Balancepiece |
-| 1364 | 20 | Stacey Heartful |
-| 1365 | 20 | Diane Donahue |
-| 1366 | 20 | Tesa Mike Jenkins |
+| 1359 | 20 | Zesty lemon |
+| 1360 | 20 | Hasty Snapmatch |
+| 1361 | 20 | Whirl-Klines L Evelyn |
+| 1362 | 20 | Robert Walker |
+| 1363 | 20 | Chirs24 |
+| 1364 | 20 | Snippy Balancepiece |
+| 1365 | 20 | Stacey Heartful |
+| 1366 | 20 | Diane Donahue |
 | 1367 | 20 | Principal Liz |
-| 1368 | 20 | Shannon Rivera |
-| 1369 | 20 | Tina Lopez |
-| 1370 | 20 | Hasty Slamdrop |
-| 1371 | 20 | Mar93 |
-| 1372 | 20 | Teresa Lescinskas |
-| 1373 | 20 | Hunter Lynn |
-| 1374 | 20 | Kris McMahon |
-| 1375 | 20 | Buggy Julks |
-| 1376 | 20 | Hotmessmama1721 |
-| 1377 | 20 | Richard Moneyrich Nottingham |
-| 1378 | 20 | Vanessa Sykes |
-| 1379 | 20 | Caroline Peralta |
-| 1380 | 20 | Ralph Bennett |
-| 1381 | 20 | Lizzie McGuire |
-| 1382 | 20 | Alicia LaFaye |
-| 1383 | 20 | Kristin Ussery |
-| 1384 | 20 | Melissa Rathbun |
-| 1385 | 20 | Frby Amberr |
+| 1368 | 20 | Tesa Mike Jenkins |
+| 1369 | 20 | Shannon Rivera |
+| 1370 | 20 | Tina Lopez |
+| 1371 | 20 | Hasty Slamdrop |
+| 1372 | 20 | Mar93 |
+| 1373 | 20 | Teresa Lescinskas |
+| 1374 | 20 | Alicia LaFaye |
+| 1375 | 20 | Vanessa Sykes |
+| 1376 | 20 | Buggy Julks |
+| 1377 | 20 | Kris McMahon |
+| 1378 | 20 | Ralph Bennett |
+| 1379 | 20 | Lizzie McGuire |
+| 1380 | 20 | Hotmessmama1721 |
+| 1381 | 20 | Hunter Lynn |
+| 1382 | 20 | Richard Moneyrich Nottingham |
+| 1383 | 20 | Caroline Peralta |
+| 1384 | 20 | Kristin Ussery |
+| 1385 | 20 | Melissa Rathbun |
 | 1386 | 20 | David Kirschner |
-| 1387 | 20 | Ryan Luperena |
-| 1388 | 20 | Jessica Smith |
-| 1389 | 20 | Nikki |
-| 1390 | 20 | Cool Towerer |
-| 1391 | 20 | Losofmemphis Frfr |
-| 1392 | 20 | Elizabeth Ann Caro |
-| 1393 | 19 | Liz R |
-| 1394 | 19 | Ashie |
-| 1395 | 19 | Redhead girl |
-| 1396 | 19 | gothicmisery |
-| 1397 | 19 | Kariana Gonzalez Ortiz |
-| 1398 | 18 | Patsy |
-| 1399 | 18 | Littlebird |
-| 1400 | 18 | Glenda Zulueta Steed |
-| 1401 | 18 | Stacia Marie |
-| 1402 | 18 | Playboy916 |
-| 1403 | 18 | Fancy Tiltgrid |
-| 1404 | 18 | Angel Boges |
-| 1405 | 18 | Margarita Santana |
-| 1406 | 18 | Becca Milliron |
-| 1407 | 18 | Amina Walker |
-| 1408 | 18 | Torie Harmon |
-| 1409 | 18 | Jamie Legeness |
-| 1410 | 18 | Bouncy Fitblock |
-| 1411 | 18 | Gary Moore |
-| 1412 | 18 | Peachy Tiltpiece |
-| 1413 | 18 | Vv |
-| 1414 | 18 | Bruce Hobbs |
+| 1387 | 20 | Jessica Smith |
+| 1388 | 20 | Nikki |
+| 1389 | 20 | Losofmemphis Frfr |
+| 1390 | 20 | Elizabeth Ann Caro |
+| 1391 | 20 | Cool Towerer |
+| 1392 | 20 | Ryan Luperena |
+| 1393 | 20 | Frby Amberr |
+| 1394 | 19 | gothicmisery |
+| 1395 | 19 | Ashie |
+| 1396 | 19 | Redhead girl |
+| 1397 | 19 | Liz R |
+| 1398 | 19 | Kariana Gonzalez Ortiz |
+| 1399 | 18 | Jamie Legeness |
+| 1400 | 18 | Bruce Hobbs |
+| 1401 | 18 | Peachy Tiltpiece |
+| 1402 | 18 | Littlebird |
+| 1403 | 18 | Gary Moore |
+| 1404 | 18 | Playboy916 |
+| 1405 | 18 | Glenda Zulueta Steed |
+| 1406 | 18 | Patsy |
+| 1407 | 18 | Bouncy Fitblock |
+| 1408 | 18 | Becca Milliron |
+| 1409 | 18 | Torie Harmon |
+| 1410 | 18 | Amina Walker |
+| 1411 | 18 | Fancy Tiltgrid |
+| 1412 | 18 | Stacia Marie |
+| 1413 | 18 | Angel Boges |
+| 1414 | 18 | Margarita Santana |
 | 1415 | 17 | Crystal Morrin |
 | 1416 | 17 | Kristan Hoffman |
 | 1417 | 17 | happy cupcake |
