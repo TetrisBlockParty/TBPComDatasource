@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 16:50:19 UTC
+# Standings for team1 as of 2026-06-07 16:50:40 UTC
 
 **Total Participants:** 1513
 
@@ -383,58 +383,58 @@
 | 375 | 140 | Antoinette Jones |
 | 376 | 140 | Nerdy Blockpiece |
 | 377 | 140 | Genne Scott |
-| 378 | 140 | Eric Spencer Whitaker |
-| 379 | 140 | Katrina Ramey |
-| 380 | 140 | Jae Thompson-Tyus |
+| 378 | 140 | Jae Thompson-Tyus |
+| 379 | 140 | Eric Spencer Whitaker |
+| 380 | 140 | Katrina Ramey |
 | 381 | 139 | Breezy Catcher |
 | 382 | 139 | kitten |
 | 383 | 139 | Analiza Ramos |
-| 384 | 138 | Seddrick |
-| 385 | 138 | Tamika Rocheteau |
-| 386 | 138 | Dreamzzz |
-| 387 | 138 | Douglas Price |
-| 388 | 137 | Kelvin Cook |
+| 384 | 138 | Dreamzzz |
+| 385 | 138 | Douglas Price |
+| 386 | 138 | CJ Robinson |
+| 387 | 138 | Tamika Rocheteau |
+| 388 | 138 | Seddrick |
 | 389 | 137 | Lisa Fletcher |
 | 390 | 137 | Tay |
-| 391 | 136 | Travis Davison |
+| 391 | 137 | Kelvin Cook |
 | 392 | 136 | Char |
 | 393 | 136 | McKayla Owens |
 | 394 | 136 | Cece Fowler |
 | 395 | 136 | Shanaa Germany Crittenden |
-| 396 | 135 | Saucy Tile |
-| 397 | 135 | MzJuice Box |
-| 398 | 135 | Sean White |
-| 399 | 134 | Perky Pusher |
-| 400 | 134 | Dedra M Prester |
+| 396 | 136 | Travis Davison |
+| 397 | 135 | Sean White |
+| 398 | 135 | MzJuice Box |
+| 399 | 135 | Saucy Tile |
+| 400 | 134 | Peppy Glider |
 | 401 | 134 | Ciera Peace |
-| 402 | 134 | Peppy Glider |
-| 403 | 132 | Tremaine Hiler |
-| 404 | 132 | Chirpy Buildgrid |
-| 405 | 131 | Lynnette WheelerBushnell |
-| 406 | 130 | Adrian Wilson |
-| 407 | 130 | Murg4dr01d |
-| 408 | 130 | Jessica Davis |
+| 402 | 134 | Dedra M Prester |
+| 403 | 134 | Perky Pusher |
+| 404 | 132 | Tremaine Hiler |
+| 405 | 132 | Chirpy Buildgrid |
+| 406 | 131 | Lynnette WheelerBushnell |
+| 407 | 130 | Adrian Wilson |
+| 408 | 130 | Murg4dr01d |
 | 409 | 130 | Kesha Brady |
-| 410 | 129 | Lynn |
-| 411 | 129 | Mathew Trudell |
+| 410 | 130 | Jessica Davis |
+| 411 | 129 | Kate Hancock Malicek |
 | 412 | 129 | Loopy Tiler |
-| 413 | 129 | Kate Hancock Malicek |
-| 414 | 128 | Jack Vlasak |
-| 415 | 128 | Darrel K Pemberton |
-| 416 | 127 | Comedian Prince Paul |
-| 417 | 127 | Ozell Jones Jr. |
-| 418 | 126 | Marlynnnnn |
-| 419 | 126 | Chris Holland |
-| 420 | 126 | NewEve |
-| 421 | 126 | Laurie Napper |
-| 422 | 125 | Christina Singleton |
-| 423 | 125 | Dizzy Dashy |
-| 424 | 125 | Taz Ballard |
-| 425 | 125 | LaTonya Myers |
-| 426 | 124 | The DUBZ |
-| 427 | 124 | Li-Li Ratliff |
-| 428 | 124 | Logan Frost |
-| 429 | 123 | CJ Robinson |
+| 413 | 129 | Lynn |
+| 414 | 129 | Mathew Trudell |
+| 415 | 128 | Jack Vlasak |
+| 416 | 128 | Darrel K Pemberton |
+| 417 | 127 | Comedian Prince Paul |
+| 418 | 127 | Ozell Jones Jr. |
+| 419 | 126 | Marlynnnnn |
+| 420 | 126 | Chris Holland |
+| 421 | 126 | NewEve |
+| 422 | 126 | Laurie Napper |
+| 423 | 125 | Christina Singleton |
+| 424 | 125 | Dizzy Dashy |
+| 425 | 125 | Taz Ballard |
+| 426 | 125 | LaTonya Myers |
+| 427 | 124 | The DUBZ |
+| 428 | 124 | Li-Li Ratliff |
+| 429 | 124 | Logan Frost |
 | 430 | 123 | Dede Tate |
 | 431 | 123 | Cauiasia DeJ'ae |
 | 432 | 122 | Xana Zania Bopp |
