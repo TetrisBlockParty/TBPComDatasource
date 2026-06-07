@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 19:06:41 UTC
+# Standings for team1 as of 2026-06-07 19:07:19 UTC
 
 **Total Participants:** 1544
 
@@ -13,7 +13,7 @@
 | 5 | 8746 | Tyeina Johnson |
 | 6 | 8158 | Charlie Roehm |
 | 7 | 8152 | Songne Arif |
-| 8 | 7512 | Debbie Carswell |
+| 8 | 7532 | Debbie Carswell |
 | 9 | 7362 | Dyane Leah Ware |
 | 10 | 7059 | Tracy Cohen |
 | 11 | 6802 | Cozy Edge |
@@ -307,15 +307,15 @@
 | 299 | 191 | Emily Wright |
 | 300 | 190 | Chipper Snapper |
 | 301 | 189 | Nate Myers |
-| 302 | 189 | Tamara Johnson-Carter |
-| 303 | 188 | Nina Davis |
-| 304 | 188 | Choc |
-| 305 | 188 | Sammie Walker |
-| 306 | 187 | Heather Aurelia |
-| 307 | 187 | MACHETEEDDIE513 |
-| 308 | 186 | Sarah Clark |
-| 309 | 186 | Snippy Breaker |
-| 310 | 186 | Ashleyy Netchert |
+| 302 | 189 | Ashleyy Netchert |
+| 303 | 189 | Tamara Johnson-Carter |
+| 304 | 188 | Nina Davis |
+| 305 | 188 | Choc |
+| 306 | 188 | Sammie Walker |
+| 307 | 187 | Heather Aurelia |
+| 308 | 187 | MACHETEEDDIE513 |
+| 309 | 186 | Sarah Clark |
+| 310 | 186 | Snippy Breaker |
 | 311 | 184 | Dai Bo |
 | 312 | 184 | Bbyunicorn |
 | 313 | 183 | Wild Out Nai |
@@ -325,12 +325,12 @@
 | 317 | 180 | kitten |
 | 318 | 179 | Brand Nu |
 | 319 | 177 | Valerie Alexander |
-| 320 | 175 | Tremaine Hiler |
-| 321 | 175 | Amy Lynn Leifheit |
-| 322 | 174 | Guy Incognito |
-| 323 | 174 | ChunLi |
-| 324 | 173 | LuckyStar |
-| 325 | 173 | Crystal Cheresnowsky |
+| 320 | 175 | Amy Lynn Leifheit |
+| 321 | 175 | Tremaine Hiler |
+| 322 | 174 | ChunLi |
+| 323 | 174 | Guy Incognito |
+| 324 | 173 | Crystal Cheresnowsky |
+| 325 | 173 | LuckyStar |
 | 326 | 173 | izzybella |
 | 327 | 171 | Telisha Mims |
 | 328 | 170 | Slinky Party |
@@ -339,10 +339,10 @@
 | 331 | 167 | Dedra M Prester |
 | 332 | 167 | Mister Reid |
 | 333 | 166 | BlackQueen105 |
-| 334 | 165 | Tanisha Taylor |
+| 334 | 165 | SceneGreenz Wali |
 | 335 | 165 | Skippy |
 | 336 | 165 | Maribel Vasquez |
-| 337 | 165 | SceneGreenz Wali |
+| 337 | 165 | Tanisha Taylor |
 | 338 | 165 | Slinky Snapbuilder |
 | 339 | 164 | TBABYJ |
 | 340 | 164 | De'Nell Edwards |
@@ -940,45 +940,45 @@
 | 932 | 47 | Andra Ward |
 | 933 | 47 | Jojo M |
 | 934 | 46 | Smiley Bridgepiece |
-| 935 | 46 | Kimberly Red |
-| 936 | 46 | Karen Knapp |
-| 937 | 46 | Jenni |
-| 938 | 46 | Lucille Wilson Davis |
-| 939 | 46 | Felicia Dungey |
+| 935 | 46 | Rosalind Chatman |
+| 936 | 46 | TrapQween39Bi |
+| 937 | 46 | Kimberly Red |
+| 938 | 46 | Karen Knapp |
+| 939 | 46 | Jenni |
 | 940 | 46 | Elizabeth Green |
-| 941 | 46 | TrapQween39Bi |
-| 942 | 46 | Rosalind Chatman |
-| 943 | 45 | Y3llOWFAC3 |
-| 944 | 45 | Heather Cross-Davis |
-| 945 | 45 | Mumitt |
-| 946 | 45 | Brave Balanceblock |
-| 947 | 45 | rosieredpanda |
-| 948 | 45 | Cali Lee |
+| 941 | 46 | Felicia Dungey |
+| 942 | 46 | Lucille Wilson Davis |
+| 943 | 45 | Lawreniesha Burkley |
+| 944 | 45 | rosieredpanda |
+| 945 | 45 | Meshia |
+| 946 | 45 | Heather Cross-Davis |
+| 947 | 45 | Cali Lee |
+| 948 | 45 | Brave Balanceblock |
 | 949 | 45 | Amanda Colwell |
-| 950 | 45 | Beautiful314 |
-| 951 | 45 | Lawreniesha Burkley |
+| 950 | 45 | Mumitt |
+| 951 | 45 | Beautiful314 |
 | 952 | 45 | Skye |
-| 953 | 45 | Meshia |
+| 953 | 45 | Y3llOWFAC3 |
 | 954 | 45 | Tia Hazelton |
 | 955 | 45 | GetDaOPPS |
 | 956 | 45 | Antoinette Kidd |
-| 957 | 45 | Matraca Young |
-| 958 | 45 | WReckitraff |
-| 959 | 45 | Jason A Giantonio |
-| 960 | 45 | Frothy Zoney |
+| 957 | 45 | Frothy Zoney |
+| 958 | 45 | Matraca Young |
+| 959 | 45 | WReckitraff |
+| 960 | 45 | Jason A Giantonio |
 | 961 | 45 | Sarah Jones |
-| 962 | 44 | Candy Lee |
-| 963 | 44 | Ducc2408 |
-| 964 | 44 | Ivan Israel |
-| 965 | 44 | Tez Mays |
-| 966 | 44 | Nic Nic |
+| 962 | 45 | Bambam |
+| 963 | 44 | Nic Nic |
+| 964 | 44 | Ducc2408 |
+| 965 | 44 | Ivan Israel |
+| 966 | 44 | Tez Mays |
 | 967 | 44 | Mark Steven Pichler |
 | 968 | 44 | Connor Leon Cluff |
-| 969 | 43 | Corbin Henry |
-| 970 | 43 | Louise Parker |
-| 971 | 43 | Alivia Dove |
-| 972 | 43 | Phoenix |
-| 973 | 43 | Bambam |
+| 969 | 44 | Candy Lee |
+| 970 | 43 | Corbin Henry |
+| 971 | 43 | Phoenix |
+| 972 | 43 | Louise Parker |
+| 973 | 43 | Alivia Dove |
 | 974 | 43 | Vivian Bunnell Myers |
 | 975 | 43 | Block |
 | 976 | 43 | Jovy |
