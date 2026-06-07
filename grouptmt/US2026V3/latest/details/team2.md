@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 18:30:20 UTC
+# Standings for team2 as of 2026-06-07 18:30:41 UTC
 
 **Total Participants:** 1850
 
@@ -217,107 +217,107 @@
 | 209 | 342 | Bri St Peter |
 | 210 | 342 | Flower_child |
 | 211 | 339 | Loopy Curvebuilder |
-| 212 | 336 | Ratchet |
-| 213 | 334 | Becca Marie |
-| 214 | 332 | Jat |
-| 215 | 328 | Keri Mears |
-| 216 | 328 | Tim Tim |
-| 217 | 325 | Flashy Twistline |
-| 218 | 325 | Fudgie Pie |
-| 219 | 324 | DayDreamer79 |
-| 220 | 323 | Shannon Wilson |
-| 221 | 322 | Pam Bauder Ludwig |
-| 222 | 320 | Xandrea Jones |
-| 223 | 318 | Melissa Thomas |
-| 224 | 317 | Nikki EightySixed |
-| 225 | 317 | Twisty Buildgrid |
-| 226 | 311 | Lindsey Ford |
-| 227 | 310 | Greta Warden |
-| 228 | 307 | Nova Nova |
-| 229 | 304 | Heather Burgett |
-| 230 | 302 | Margie Ann Naffziger |
-| 231 | 302 | Hypee |
-| 232 | 300 | Hector |
-| 233 | 300 | Melisa |
-| 234 | 300 | Ashley Billiot Rhodes |
-| 235 | 300 | Linda Guay |
-| 236 | 300 | Patricia Carroll |
-| 237 | 299 | Ackerman 85 |
-| 238 | 299 | Mookshake |
-| 239 | 298 | Rob Owens |
-| 240 | 296 | Snappy Combo |
-| 241 | 296 | Vistabrat |
-| 242 | 295 | Jessica Lynn |
-| 243 | 295 | Swanky Fitline |
-| 244 | 295 | James Ward |
-| 245 | 295 | Brittney Williams |
-| 246 | 294 | Jeanna Mendez |
-| 247 | 291 | Lora Via |
-| 248 | 286 | Goofy Gridclear |
-| 249 | 283 | Glitzy Base |
-| 250 | 281 | Norma Ortiz |
-| 251 | 280 | Loopy Dropper |
-| 252 | 279 | Curly Windbreaker |
-| 253 | 278 | Amy Nicole McCanne |
-| 254 | 276 | AndrewandShela Gornik |
-| 255 | 274 | Chipper Stackbuilder |
-| 256 | 267 | Karly Moore |
-| 257 | 266 | Kathleen Keogh Van Schoyck |
-| 258 | 264 | Dallas Runyan |
-| 259 | 261 | Michelle Luke Banta |
-| 260 | 260 | Tony Medina |
-| 261 | 259 | Angie Kowalsky Olson |
-| 262 | 256 | Tami Kay Williams Watson |
-| 263 | 255 | True |
-| 264 | 253 | Marge Cromer |
-| 265 | 253 | Hilliary Beyer |
-| 266 | 253 | Kim Hunt |
-| 267 | 252 | Kathy Strickland |
-| 268 | 250 | Thomas Tyrone |
-| 269 | 250 | marsam |
-| 270 | 250 | Ray Daisy |
-| 271 | 250 | Iesha Cupil |
-| 272 | 250 | Happy Drop |
-| 273 | 249 | Elizabeth Henry |
-| 274 | 249 | Larry Cross |
-| 275 | 247 | Logan Duffey |
-| 276 | 247 | Amie Marks |
-| 277 | 247 | SilentBuffalo |
-| 278 | 247 | Stephanie |
-| 279 | 246 | Brooke Lynn Marie Adelaide |
-| 280 | 245 | Danielle Pack Lewellen |
-| 281 | 245 | Amy Taylor Pomerenk |
-| 282 | 241 | Boldy Wobbler |
-| 283 | 241 | SEH |
-| 284 | 240 | PaiBri |
-| 285 | 239 | Jeffrey Smith |
-| 286 | 238 | Jenny |
-| 287 | 237 | Laverne Ellis Blair |
-| 288 | 236 | Lush Party |
-| 289 | 236 | Carolyn McNaughton |
-| 290 | 235 | Adriana Daniela Agapie |
-| 291 | 234 | Sabrina Hardrick |
-| 292 | 234 | Nicole Plummer |
-| 293 | 230 | Kelly Vedder |
-| 294 | 230 | Crystal Poss |
-| 295 | 230 | Brandy Chinelle |
-| 296 | 230 | Sharon L Brazelton |
-| 297 | 229 | Ariel Gundersen |
-| 298 | 229 | Angie Bishop |
-| 299 | 227 | Liseth Vasquez |
-| 300 | 227 | Laura Melton |
-| 301 | 225 | Theresa Huddleston |
-| 302 | 225 | Cheery Towerzone |
-| 303 | 224 | Nathan Walker |
-| 304 | 224 | Avie Lou |
-| 305 | 224 | Olivia Jefferson |
-| 306 | 223 | Santara Ferguson |
-| 307 | 221 | Bianca Woodruff |
-| 308 | 220 | ShiverMeSplinter |
-| 309 | 220 | Flashy Basegrid |
-| 310 | 219 | Stella |
-| 311 | 219 | Spicy Risegrid |
-| 312 | 219 | Zachary Vymislicky |
+| 212 | 338 | Zachary Vymislicky |
+| 213 | 336 | Ratchet |
+| 214 | 334 | Becca Marie |
+| 215 | 332 | Jat |
+| 216 | 328 | Keri Mears |
+| 217 | 328 | Tim Tim |
+| 218 | 325 | Flashy Twistline |
+| 219 | 325 | Fudgie Pie |
+| 220 | 324 | DayDreamer79 |
+| 221 | 323 | Shannon Wilson |
+| 222 | 322 | Pam Bauder Ludwig |
+| 223 | 320 | Xandrea Jones |
+| 224 | 318 | Melissa Thomas |
+| 225 | 317 | Nikki EightySixed |
+| 226 | 317 | Twisty Buildgrid |
+| 227 | 311 | Lindsey Ford |
+| 228 | 310 | Greta Warden |
+| 229 | 307 | Nova Nova |
+| 230 | 304 | Heather Burgett |
+| 231 | 302 | Margie Ann Naffziger |
+| 232 | 302 | Hypee |
+| 233 | 300 | Hector |
+| 234 | 300 | Melisa |
+| 235 | 300 | Ashley Billiot Rhodes |
+| 236 | 300 | Linda Guay |
+| 237 | 300 | Patricia Carroll |
+| 238 | 299 | Ackerman 85 |
+| 239 | 299 | Mookshake |
+| 240 | 298 | Rob Owens |
+| 241 | 296 | Snappy Combo |
+| 242 | 296 | Vistabrat |
+| 243 | 295 | Jessica Lynn |
+| 244 | 295 | Swanky Fitline |
+| 245 | 295 | James Ward |
+| 246 | 295 | Brittney Williams |
+| 247 | 294 | Jeanna Mendez |
+| 248 | 291 | Lora Via |
+| 249 | 286 | Goofy Gridclear |
+| 250 | 283 | Glitzy Base |
+| 251 | 281 | Norma Ortiz |
+| 252 | 280 | Loopy Dropper |
+| 253 | 279 | Curly Windbreaker |
+| 254 | 278 | Amy Nicole McCanne |
+| 255 | 276 | AndrewandShela Gornik |
+| 256 | 274 | Chipper Stackbuilder |
+| 257 | 267 | Karly Moore |
+| 258 | 266 | Kathleen Keogh Van Schoyck |
+| 259 | 264 | Dallas Runyan |
+| 260 | 261 | Michelle Luke Banta |
+| 261 | 260 | Tony Medina |
+| 262 | 259 | Angie Kowalsky Olson |
+| 263 | 256 | Tami Kay Williams Watson |
+| 264 | 255 | True |
+| 265 | 253 | Marge Cromer |
+| 266 | 253 | Hilliary Beyer |
+| 267 | 253 | Kim Hunt |
+| 268 | 252 | Kathy Strickland |
+| 269 | 250 | Thomas Tyrone |
+| 270 | 250 | marsam |
+| 271 | 250 | Ray Daisy |
+| 272 | 250 | Iesha Cupil |
+| 273 | 250 | Happy Drop |
+| 274 | 249 | Elizabeth Henry |
+| 275 | 249 | Larry Cross |
+| 276 | 247 | Logan Duffey |
+| 277 | 247 | Amie Marks |
+| 278 | 247 | SilentBuffalo |
+| 279 | 247 | Stephanie |
+| 280 | 246 | Brooke Lynn Marie Adelaide |
+| 281 | 245 | Danielle Pack Lewellen |
+| 282 | 245 | Amy Taylor Pomerenk |
+| 283 | 241 | Boldy Wobbler |
+| 284 | 241 | SEH |
+| 285 | 240 | PaiBri |
+| 286 | 239 | Jeffrey Smith |
+| 287 | 238 | Jenny |
+| 288 | 237 | Laverne Ellis Blair |
+| 289 | 236 | Lush Party |
+| 290 | 236 | Carolyn McNaughton |
+| 291 | 235 | Adriana Daniela Agapie |
+| 292 | 234 | Sabrina Hardrick |
+| 293 | 234 | Nicole Plummer |
+| 294 | 230 | Kelly Vedder |
+| 295 | 230 | Crystal Poss |
+| 296 | 230 | Brandy Chinelle |
+| 297 | 230 | Sharon L Brazelton |
+| 298 | 229 | Ariel Gundersen |
+| 299 | 229 | Angie Bishop |
+| 300 | 227 | Liseth Vasquez |
+| 301 | 227 | Laura Melton |
+| 302 | 225 | Theresa Huddleston |
+| 303 | 225 | Cheery Towerzone |
+| 304 | 224 | Nathan Walker |
+| 305 | 224 | Avie Lou |
+| 306 | 224 | Olivia Jefferson |
+| 307 | 223 | Santara Ferguson |
+| 308 | 221 | Bianca Woodruff |
+| 309 | 220 | ShiverMeSplinter |
+| 310 | 220 | Flashy Basegrid |
+| 311 | 219 | Stella |
+| 312 | 219 | Spicy Risegrid |
 | 313 | 218 | Julie Alexander Sykes |
 | 314 | 218 | Anthony Swift |
 | 315 | 218 | Erica South |
