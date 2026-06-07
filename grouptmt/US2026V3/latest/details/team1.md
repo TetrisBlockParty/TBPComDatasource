@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 07:14:18 UTC
+# Standings for team1 as of 2026-06-07 07:14:41 UTC
 
 **Total Participants:** 1410
 
@@ -736,10 +736,10 @@
 | 728 | 52 | Loopy Risepiece |
 | 729 | 52 | Karen Denen |
 | 730 | 52 | Vannie G |
-| 731 | 51 | Betsy B. Yohan |
-| 732 | 51 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 733 | 51 | Shanjerrica Taylor Rosell |
-| 734 | 51 | Paul Pendley |
+| 731 | 52 | Paul Pendley |
+| 732 | 51 | Betsy B. Yohan |
+| 733 | 51 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 734 | 51 | Shanjerrica Taylor Rosell |
 | 735 | 51 | BrettanMary Adkins |
 | 736 | 51 | messyboots |
 | 737 | 51 | Boldy Matchfit |
