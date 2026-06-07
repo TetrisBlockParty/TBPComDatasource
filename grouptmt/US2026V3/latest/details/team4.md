@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 12:14:19 UTC
+# Standings for team4 as of 2026-06-07 12:14:39 UTC
 
 **Total Participants:** 1455
 
@@ -211,15 +211,15 @@
 | 203 | 236 | BusterBear56 |
 | 204 | 233 | Christy Beezley-Forbush |
 | 205 | 231 | Patrick Alley |
-| 206 | 230 | gabs |
-| 207 | 227 | Cheery Risegrid |
-| 208 | 226 | Sassy Rollpiece |
-| 209 | 225 | Dubiousdust |
-| 210 | 225 | Shocinda Sherwood |
-| 211 | 224 | Janet Sanfilippo Sullivan |
-| 212 | 223 | Queen B |
-| 213 | 222 | Plucky Shatterfit |
-| 214 | 221 | Goofy Riser |
+| 206 | 231 | Goofy Riser |
+| 207 | 230 | gabs |
+| 208 | 227 | Cheery Risegrid |
+| 209 | 226 | Sassy Rollpiece |
+| 210 | 225 | Dubiousdust |
+| 211 | 225 | Shocinda Sherwood |
+| 212 | 224 | Janet Sanfilippo Sullivan |
+| 213 | 223 | Queen B |
+| 214 | 222 | Plucky Shatterfit |
 | 215 | 221 | Pepone Pepe |
 | 216 | 220 | blockhead |
 | 217 | 220 | Silly Risegrid |
@@ -351,25 +351,25 @@
 | 343 | 133 | Ginny |
 | 344 | 133 | Sonia Cordero-Martinez |
 | 345 | 131 | Dominique Melendez |
-| 346 | 131 | Swanky Snapgrid |
-| 347 | 131 | Stasia |
-| 348 | 131 | Lanelva Tiredofbs Marshall |
-| 349 | 130 | Bhakti Sawarkar |
-| 350 | 130 | Snazzy Corner |
-| 351 | 130 | Maegon Brazille |
+| 346 | 131 | Diana Fernandez |
+| 347 | 131 | Swanky Snapgrid |
+| 348 | 131 | Stasia |
+| 349 | 131 | Lanelva Tiredofbs Marshall |
+| 350 | 130 | Bhakti Sawarkar |
+| 351 | 130 | Snazzy Corner |
 | 352 | 130 | Maurice DeJean |
-| 353 | 130 | Rita Ann |
-| 354 | 129 | Simone |
-| 355 | 129 | Dizzy Slammer |
-| 356 | 129 | Has2brat |
-| 357 | 129 | Shauna Davis |
-| 358 | 128 | Juvon SupaShawdii Brooks |
-| 359 | 128 | Lana Tran |
-| 360 | 128 | Sherry Mooney |
-| 361 | 127 | Jrr |
-| 362 | 127 | zoes |
-| 363 | 127 | Jen Smith |
-| 364 | 127 | Diana Fernandez |
+| 353 | 130 | Maegon Brazille |
+| 354 | 130 | Rita Ann |
+| 355 | 129 | Simone |
+| 356 | 129 | Dizzy Slammer |
+| 357 | 129 | Has2brat |
+| 358 | 129 | Shauna Davis |
+| 359 | 128 | Juvon SupaShawdii Brooks |
+| 360 | 128 | Lana Tran |
+| 361 | 128 | Sherry Mooney |
+| 362 | 127 | Jrr |
+| 363 | 127 | zoes |
+| 364 | 127 | Jen Smith |
 | 365 | 127 | Cheeky Climber |
 | 366 | 126 | Karen Small |
 | 367 | 125 | DizzB400 |
