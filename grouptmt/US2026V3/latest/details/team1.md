@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 07:50:42 UTC
+# Standings for team1 as of 2026-06-07 07:51:18 UTC
 
 **Total Participants:** 1419
 
@@ -60,8 +60,8 @@
 | 52 | 984 | Holly Jolly |
 | 53 | 970 | Danielle DeLozier Plesec |
 | 54 | 961 | Sanjuro |
-| 55 | 935 | Whitney Butler |
-| 56 | 914 | Angela R Wilson |
+| 55 | 946 | Angela R Wilson |
+| 56 | 935 | Whitney Butler |
 | 57 | 911 | Kkbk |
 | 58 | 905 | JoJo |
 | 59 | 897 | BYM4L |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 07:50:42 UTC
+# Standings for team2 as of 2026-06-07 07:51:18 UTC
 
 **Total Participants:** 1674
 
@@ -41,7 +41,7 @@
 | 33 | 2640 | Sean Rippa |
 | 34 | 2583 | Quirky Catcher |
 | 35 | 2500 | Anthony Lilley |
-| 36 | 2407 | Andre Love |
+| 36 | 2437 | Andre Love |
 | 37 | 2287 | Christina Jambard Sampier |
 | 38 | 2210 | Bea Bee |
 | 39 | 2133 | Frisky Balanceblock |
@@ -128,8 +128,8 @@
 | 120 | 541 | Ricardo Ewart |
 | 121 | 528 | Amanda Sikes |
 | 122 | 516 | Amber Miller Wirick |
-| 123 | 515 | Loony Faller |
-| 124 | 510 | Gloria May Shook |
+| 123 | 516 | Gloria May Shook |
+| 124 | 515 | Loony Faller |
 | 125 | 500 | Suki Kaur |
 | 126 | 500 | Courtney McCulley |
 | 127 | 486 | Jackie Tupper |
@@ -333,8 +333,8 @@
 | 325 | 168 | StacyBabee |
 | 326 | 168 | Spicy Risegrid |
 | 327 | 168 | Danielle Lyons |
-| 328 | 166 | Kimmyc |
-| 329 | 166 | Rick |
+| 328 | 166 | Rick |
+| 329 | 166 | Kimmyc |
 | 330 | 165 | Lindsey Ford |
 | 331 | 164 | Elliott Mikila |
 | 332 | 164 | Cara Rivera |
@@ -343,18 +343,18 @@
 | 335 | 161 | Silly Tiltbuilder |
 | 336 | 161 | Erica South |
 | 337 | 160 | Elizabeth Cornelius |
-| 338 | 159 | Misty Noe |
-| 339 | 159 | Jason Cunningham |
-| 340 | 159 | Jennifer Vitro |
+| 338 | 159 | Jason Cunningham |
+| 339 | 159 | Jennifer Vitro |
+| 340 | 159 | Misty Noe |
 | 341 | 158 | Rachel Nilles |
-| 342 | 157 | Spicy Snapclear |
-| 343 | 157 | Aldotfus Williams |
-| 344 | 156 | Charlotte Castelli |
-| 345 | 156 | meg |
-| 346 | 156 | Monique Frantz |
-| 347 | 156 | Jamie Fenyus |
-| 348 | 156 | Tango Sierra |
-| 349 | 156 | Melmel |
+| 342 | 157 | Aldotfus Williams |
+| 343 | 157 | Spicy Snapclear |
+| 344 | 157 | Melmel |
+| 345 | 156 | Charlotte Castelli |
+| 346 | 156 | meg |
+| 347 | 156 | Monique Frantz |
+| 348 | 156 | Jamie Fenyus |
+| 349 | 156 | Tango Sierra |
 | 350 | 155 | KazzyKay |
 | 351 | 154 | Alonzo Reed |
 | 352 | 154 | murd3rmous3 |
@@ -391,12 +391,12 @@
 | 383 | 138 | James Sayers |
 | 384 | 138 | Amber Smith |
 | 385 | 137 | Ashley Voelz |
-| 386 | 137 | Sandra Belk |
-| 387 | 136 | Mtnblzr |
-| 388 | 136 | Lauren Maxwell |
-| 389 | 136 | Jumpy Dashpiece |
-| 390 | 135 | Naomi Walker |
-| 391 | 134 | Sassy Twistbuilder |
+| 386 | 137 | Sassy Twistbuilder |
+| 387 | 137 | Sandra Belk |
+| 388 | 136 | Mtnblzr |
+| 389 | 136 | Lauren Maxwell |
+| 390 | 136 | Jumpy Dashpiece |
+| 391 | 135 | Naomi Walker |
 | 392 | 133 | Tara |
 | 393 | 133 | Angela Hogan |
 | 394 | 132 | Raine |
@@ -1097,37 +1097,37 @@
 | 1089 | 33 | Nicole Hjelmen |
 | 1090 | 33 | Rachel Huber |
 | 1091 | 33 | Debbie Embry |
-| 1092 | 33 | Ryan Sanders |
-| 1093 | 33 | Mandeee |
-| 1094 | 33 | Nicki McGill |
-| 1095 | 33 | Brooke Marie Fox |
-| 1096 | 33 | Octavia Jus Mae Hill |
-| 1097 | 33 | Em |
-| 1098 | 33 | Gilbert Medina |
-| 1099 | 33 | Lu Wallace |
-| 1100 | 33 | Cool cee |
-| 1101 | 33 | Maja Hauff |
-| 1102 | 32 | Stephanie |
-| 1103 | 32 | Foc |
+| 1092 | 33 | October Fitch |
+| 1093 | 33 | Ryan Sanders |
+| 1094 | 33 | Mandeee |
+| 1095 | 33 | Nicki McGill |
+| 1096 | 33 | Brooke Marie Fox |
+| 1097 | 33 | Octavia Jus Mae Hill |
+| 1098 | 33 | Em |
+| 1099 | 33 | Gilbert Medina |
+| 1100 | 33 | Lu Wallace |
+| 1101 | 33 | Cool cee |
+| 1102 | 33 | Maja Hauff |
+| 1103 | 32 | Stephanie |
 | 1104 | 32 | Monica Gonzalez Rios |
-| 1105 | 32 | Churube Finwoiisopw |
-| 1106 | 32 | Courtney Elizabeth Hartnagel |
-| 1107 | 32 | Lori Yelvington Cain |
-| 1108 | 32 | Mandy Smart |
-| 1109 | 32 | Brandy McCleary |
-| 1110 | 32 | Chelsea Harriss |
-| 1111 | 32 | Viani09 |
-| 1112 | 32 | Lively Liner |
-| 1113 | 32 | Spicy Enchilada |
-| 1114 | 32 | Amanda Bryte |
-| 1115 | 31 | Trinni Hansen |
-| 1116 | 31 | Ronald Granger |
-| 1117 | 31 | Monique Williams |
-| 1118 | 31 | Jenn |
-| 1119 | 31 | Melissa Mae |
-| 1120 | 31 | Dan Ramsey |
-| 1121 | 31 | Cranky Fit |
-| 1122 | 31 | October Fitch |
+| 1105 | 32 | Foc |
+| 1106 | 32 | Churube Finwoiisopw |
+| 1107 | 32 | Courtney Elizabeth Hartnagel |
+| 1108 | 32 | Lori Yelvington Cain |
+| 1109 | 32 | Mandy Smart |
+| 1110 | 32 | Brandy McCleary |
+| 1111 | 32 | Chelsea Harriss |
+| 1112 | 32 | Viani09 |
+| 1113 | 32 | Lively Liner |
+| 1114 | 32 | Spicy Enchilada |
+| 1115 | 32 | Amanda Bryte |
+| 1116 | 31 | Cranky Fit |
+| 1117 | 31 | Ronald Granger |
+| 1118 | 31 | Monique Williams |
+| 1119 | 31 | Jenn |
+| 1120 | 31 | Melissa Mae |
+| 1121 | 31 | Dan Ramsey |
+| 1122 | 31 | Trinni Hansen |
 | 1123 | 31 | Amanda Neal |
 | 1124 | 30 | Tessa Kalili |
 | 1125 | 30 | Bridgett Smith |
