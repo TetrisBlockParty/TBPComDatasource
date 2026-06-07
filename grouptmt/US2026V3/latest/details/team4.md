@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 08:34:19 UTC
+# Standings for team4 as of 2026-06-07 08:34:42 UTC
 
 **Total Participants:** 1418
 
@@ -228,12 +228,12 @@
 | 220 | 199 | Janet Willoughby |
 | 221 | 199 | Colin |
 | 222 | 197 | Tiggerjake |
-| 223 | 195 | Sean Mccleary |
-| 224 | 194 | Lisa lisa |
-| 225 | 194 | Jenn Norcross |
-| 226 | 193 | Tiffany Bunker-Hill |
-| 227 | 193 | Piece of Cake |
-| 228 | 190 | Maria Castillo |
+| 223 | 196 | Maria Castillo |
+| 224 | 195 | Sean Mccleary |
+| 225 | 194 | Lisa lisa |
+| 226 | 194 | Jenn Norcross |
+| 227 | 193 | Tiffany Bunker-Hill |
+| 228 | 193 | Piece of Cake |
 | 229 | 188 | Lee Ann Gibby |
 | 230 | 187 | Tipsy Builderline |
 | 231 | 187 | Leslie Ann Carter |

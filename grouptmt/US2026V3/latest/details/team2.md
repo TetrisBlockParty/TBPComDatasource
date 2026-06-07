@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 08:34:19 UTC
+# Standings for team2 as of 2026-06-07 08:34:42 UTC
 
 **Total Participants:** 1682
 
@@ -303,93 +303,93 @@
 | 295 | 188 | Ray Daisy |
 | 296 | 187 | Curly Windbreaker |
 | 297 | 185 | Krystle L Coon |
-| 298 | 184 | Theresa Hollinger |
-| 299 | 184 | SEH |
+| 298 | 184 | SEH |
+| 299 | 184 | Theresa Hollinger |
 | 300 | 181 | Jamie Adams |
-| 301 | 180 | Happy |
-| 302 | 180 | phamous1 |
+| 301 | 180 | phamous1 |
+| 302 | 180 | Precious Womack |
 | 303 | 180 | Skye Ehret |
-| 304 | 180 | Loopy Dropper |
-| 305 | 180 | Precious Womack |
+| 304 | 180 | Happy |
+| 305 | 180 | Loopy Dropper |
 | 306 | 179 | Santara Ferguson |
 | 307 | 178 | Kelly Rogers |
 | 308 | 177 | Jennifer McClure |
 | 309 | 177 | Rick |
 | 310 | 176 | Kim Hunt |
-| 311 | 175 | Lashanda Bertram |
-| 312 | 175 | Epic Tilemaker |
+| 311 | 175 | Epic Tilemaker |
+| 312 | 175 | Lashanda Bertram |
 | 313 | 175 | Tina Marie |
 | 314 | 175 | Michelle M Braley |
 | 315 | 174 | Rocroc mo |
 | 316 | 174 | ZBee |
 | 317 | 174 | Jerry L Morales |
 | 318 | 174 | Joanna Trevin Thompson |
-| 319 | 172 | Mikia Stokes |
-| 320 | 172 | Victoria Pale |
-| 321 | 172 | Carolyn McNaughton |
+| 319 | 172 | Carolyn McNaughton |
+| 320 | 172 | Mikia Stokes |
+| 321 | 172 | Victoria Pale |
 | 322 | 170 | Thomas Tyrone |
-| 323 | 170 | Bengy Lead |
-| 324 | 170 | Harper |
-| 325 | 169 | Angie Bishop |
+| 323 | 170 | Harper |
+| 324 | 170 | Bengy Lead |
+| 325 | 169 | Amanda Bottorff |
 | 326 | 169 | Derrick |
-| 327 | 168 | Danielle Lyons |
-| 328 | 168 | StacyBabee |
-| 329 | 168 | Avie Lou |
+| 327 | 169 | Angie Bishop |
+| 328 | 168 | Avie Lou |
+| 329 | 168 | Danielle Lyons |
 | 330 | 168 | Chasity Simpson |
-| 331 | 168 | Spicy Risegrid |
-| 332 | 168 | Missy Renia |
-| 333 | 166 | Kimmyc |
-| 334 | 165 | Lindsey Ford |
-| 335 | 164 | Cara Rivera |
-| 336 | 164 | Aldotfus Williams |
+| 331 | 168 | StacyBabee |
+| 332 | 168 | Spicy Risegrid |
+| 333 | 168 | Missy Renia |
+| 334 | 166 | Kimmyc |
+| 335 | 165 | Lindsey Ford |
+| 336 | 164 | Cara Rivera |
 | 337 | 164 | Elliott Mikila |
 | 338 | 164 | Sassy Twistbuilder |
-| 339 | 163 | Zany Cascader |
-| 340 | 162 | Wacky Holder |
-| 341 | 162 | Amanda Bottorff |
+| 339 | 164 | Aldotfus Williams |
+| 340 | 163 | Zany Cascader |
+| 341 | 162 | Wacky Holder |
 | 342 | 161 | Erica South |
-| 343 | 161 | Silly Tiltbuilder |
-| 344 | 161 | Rydin Dirt |
+| 343 | 161 | Rydin Dirt |
+| 344 | 161 | Silly Tiltbuilder |
 | 345 | 160 | Elizabeth Cornelius |
 | 346 | 160 | Melmel |
-| 347 | 159 | Jason Cunningham |
-| 348 | 159 | Jennifer Vitro |
-| 349 | 159 | Misty Noe |
-| 350 | 158 | KazzyKay |
-| 351 | 158 | Rachel Nilles |
+| 347 | 159 | Jennifer Vitro |
+| 348 | 159 | Misty Noe |
+| 349 | 159 | Jason Cunningham |
+| 350 | 158 | Rachel Nilles |
+| 351 | 158 | KazzyKay |
 | 352 | 157 | Spicy Snapclear |
-| 353 | 156 | Charlotte Castelli |
-| 354 | 156 | Monique Frantz |
-| 355 | 156 | Jamie Fenyus |
-| 356 | 156 | meg |
+| 353 | 156 | Monique Frantz |
+| 354 | 156 | Jamie Fenyus |
+| 355 | 156 | meg |
+| 356 | 156 | Charlotte Castelli |
 | 357 | 156 | Tango Sierra |
-| 358 | 154 | murd3rmous3 |
-| 359 | 154 | Alonzo Reed |
+| 358 | 154 | Alonzo Reed |
+| 359 | 154 | murd3rmous3 |
 | 360 | 153 | Cortney Coleman |
 | 361 | 151 | Marilyn Mendoza |
 | 362 | 151 | Amy Lea Hamilton |
-| 363 | 150 | Marylin Eacker |
-| 364 | 150 | Zany Wrecker |
-| 365 | 150 | Camilo Moreno |
-| 366 | 150 | Crystal Poss |
+| 363 | 150 | Camilo Moreno |
+| 364 | 150 | Marylin Eacker |
+| 365 | 150 | Crystal Poss |
+| 366 | 150 | Zany Wrecker |
 | 367 | 149 | Jenni LeBlanc |
 | 368 | 148 | Nano. |
 | 369 | 148 | Ashley Miller |
 | 370 | 146 | Darla Nolt |
 | 371 | 145 | Alicia Parrish |
-| 372 | 144 | Funway998 |
-| 373 | 144 | Will Jones |
+| 372 | 144 | Will Jones |
+| 373 | 144 | Funway998 |
 | 374 | 144 | Analee Nicole Jones |
-| 375 | 143 | Spicy Basepiece |
+| 375 | 143 | Amanda L Strong |
 | 376 | 143 | Paula Haskins |
-| 377 | 143 | Amanda L Strong |
+| 377 | 143 | Spicy Basepiece |
 | 378 | 142 | Spunky Cascadeclear |
 | 379 | 141 | Loopy Tower |
 | 380 | 141 | Jacquelyn Snyder Dumas |
 | 381 | 140 | Billie Jensen |
-| 382 | 140 | Alicia Kinney |
-| 383 | 140 | Sharon L Brazelton |
-| 384 | 140 | Teddy Williams |
+| 382 | 140 | Sharon L Brazelton |
+| 383 | 140 | Teddy Williams |
+| 384 | 140 | Alicia Kinney |
 | 385 | 139 | Charles E Mccardell |
 | 386 | 139 | Gabrielle Wilson |
 | 387 | 139 | rebel4lyfe |
