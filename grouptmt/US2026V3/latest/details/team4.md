@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 19:14:42 UTC
+# Standings for team4 as of 2026-06-07 19:15:20 UTC
 
 **Total Participants:** 1580
 
@@ -25,7 +25,7 @@
 | 17 | 4334 | Nia Mayfield |
 | 18 | 4282 | Chris Hills |
 | 19 | 4139 | Bryony Nicholson |
-| 20 | 4002 | Witty Clicky |
+| 20 | 4054 | Witty Clicky |
 | 21 | 3954 | Jackie Lucas |
 | 22 | 3922 | TitiLo72 |
 | 23 | 3784 | Tyra Brooke Everman Forest |
@@ -182,17 +182,17 @@
 | 174 | 324 | Dazzle Dragon |
 | 175 | 320 | Jojo Ann |
 | 176 | 317 | Debby Ruof |
-| 177 | 317 | Sisi RedVelvet Reneè |
-| 178 | 315 | Thomasena Eady Reid |
-| 179 | 314 | Slimm |
-| 180 | 310 | Fran Aaron-Ring |
-| 181 | 308 | Plucky Shatterfit |
-| 182 | 308 | matt |
-| 183 | 303 | Brick House |
-| 184 | 302 | Danny Ortiz |
-| 185 | 300 | Elissa S-k |
-| 186 | 300 | Genag |
-| 187 | 298 | Lush Fitblock |
+| 177 | 317 | Lush Fitblock |
+| 178 | 317 | Sisi RedVelvet Reneè |
+| 179 | 315 | Thomasena Eady Reid |
+| 180 | 314 | Slimm |
+| 181 | 310 | Fran Aaron-Ring |
+| 182 | 308 | Plucky Shatterfit |
+| 183 | 308 | matt |
+| 184 | 303 | Brick House |
+| 185 | 302 | Danny Ortiz |
+| 186 | 300 | Elissa S-k |
+| 187 | 300 | Genag |
 | 188 | 297 | beTrue76 |
 | 189 | 296 | Randy M Hatch |
 | 190 | 295 | LastBoi |
@@ -526,56 +526,56 @@
 | 518 | 103 | Breezy Wife |
 | 519 | 103 | Gma420 |
 | 520 | 103 | Butterpat |
-| 521 | 102 | Taisha Beasley |
-| 522 | 102 | Donna Bush |
+| 521 | 102 | Donna Bush |
+| 522 | 102 | Taisha Beasley |
 | 523 | 102 | Spicy Peach |
 | 524 | 102 | Courtney Niichole |
 | 525 | 101 | Giggy Snapgrid |
 | 526 | 101 | Lisa Pie |
 | 527 | 101 | Sarah Perry Cook |
-| 528 | 101 | Abby Waterman |
-| 529 | 101 | Allysonjo Varela |
-| 530 | 100 | Hasty Dropzone |
-| 531 | 100 | Shy |
-| 532 | 100 | CorieBe |
+| 528 | 101 | Allysonjo Varela |
+| 529 | 101 | Abby Waterman |
+| 530 | 100 | Shy |
+| 531 | 100 | Michelle Sager |
+| 532 | 100 | DanceAngel |
 | 533 | 100 | George Marshburn |
-| 534 | 100 | DanceAngel |
-| 535 | 100 | Michelle Sager |
-| 536 | 100 | Lady Dolphin |
-| 537 | 100 | Jeri Anne Stormo-Toman |
-| 538 | 100 | Nerdy Brickster |
-| 539 | 100 | Ern |
-| 540 | 100 | Aleta Svitak |
-| 541 | 100 | Missionary Meda |
-| 542 | 100 | Aim Georgia Bros Scott |
-| 543 | 99 | Nessa Smith |
+| 534 | 100 | Lady Dolphin |
+| 535 | 100 | Hasty Dropzone |
+| 536 | 100 | CorieBe |
+| 537 | 100 | Aleta Svitak |
+| 538 | 100 | Aim Georgia Bros Scott |
+| 539 | 100 | Missionary Meda |
+| 540 | 100 | Ern |
+| 541 | 100 | Nerdy Brickster |
+| 542 | 100 | Jeri Anne Stormo-Toman |
+| 543 | 99 | Scrumptious |
 | 544 | 99 | Funky Twistpiece |
-| 545 | 99 | Erica Pompey |
-| 546 | 99 | Haylee Talkington |
-| 547 | 99 | Tamika Ashli Bonner |
-| 548 | 99 | Melissa Quinn |
-| 549 | 99 | Ricardo Arias |
-| 550 | 99 | Azahares Alonso |
+| 545 | 99 | Melissa Quinn |
+| 546 | 99 | Inez Nez |
+| 547 | 99 | Erica Pompey |
+| 548 | 99 | Azahares Alonso |
+| 549 | 99 | Tamika Ashli Bonner |
+| 550 | 99 | Haylee Talkington |
 | 551 | 99 | Darren Miguel |
-| 552 | 99 | Inez Nez |
-| 553 | 98 | MrLoner Stoner |
-| 554 | 98 | Deva Marie Barber |
-| 555 | 98 | Mark Fitch Jr. |
-| 556 | 98 | Scrumptious |
-| 557 | 98 | Ricky Colvin |
-| 558 | 98 | shonaberry |
-| 559 | 98 | Jacqueline Arce |
-| 560 | 98 | katy |
-| 561 | 98 | Brenda Gustamantes |
-| 562 | 98 | Shaunna Caldwell |
-| 563 | 97 | Betsy Froemming |
-| 564 | 97 | Dawn Marie Trujillo |
-| 565 | 96 | LaToya LeBlanc |
-| 566 | 96 | Bear Bair |
-| 567 | 95 | Surviving Be Back Soon |
-| 568 | 95 | Tiffany Roberts |
-| 569 | 95 | Jailen Harper |
-| 570 | 95 | Butterfly |
+| 552 | 99 | Ricardo Arias |
+| 553 | 99 | Nessa Smith |
+| 554 | 98 | Shaunna Caldwell |
+| 555 | 98 | Brenda Gustamantes |
+| 556 | 98 | Mark Fitch Jr. |
+| 557 | 98 | Deva Marie Barber |
+| 558 | 98 | katy |
+| 559 | 98 | MrLoner Stoner |
+| 560 | 98 | Jacqueline Arce |
+| 561 | 98 | shonaberry |
+| 562 | 98 | Ricky Colvin |
+| 563 | 97 | Dawn Marie Trujillo |
+| 564 | 97 | Betsy Froemming |
+| 565 | 96 | Bear Bair |
+| 566 | 96 | LaToya LeBlanc |
+| 567 | 95 | Tiffany Roberts |
+| 568 | 95 | Jailen Harper |
+| 569 | 95 | Butterfly |
+| 570 | 95 | Surviving Be Back Soon |
 | 571 | 95 | Lovetetris |
 | 572 | 95 | Kristen Nicole Depp-Stewart |
 | 573 | 95 | EpicWizard |
@@ -856,25 +856,25 @@
 | 848 | 59 | Miranda Brown |
 | 849 | 59 | Anthony Kollar |
 | 850 | 59 | Sarah |
-| 851 | 58 | Yaya Selbor |
-| 852 | 58 | Zappy Matchgrid |
-| 853 | 58 | h_chloe10 |
-| 854 | 58 | Hayze |
-| 855 | 58 | Alicia Blunt |
-| 856 | 58 | Tipsy Curvetile |
-| 857 | 58 | Casey Thomas |
-| 858 | 58 | Jessica Sanchez |
-| 859 | 57 | PapaB |
-| 860 | 57 | Meghan Etchells |
-| 861 | 57 | Budda Huitt |
-| 862 | 57 | Kalisha Monique Wright |
-| 863 | 57 | Steven Patshy |
-| 864 | 57 | Волна Бог |
-| 865 | 57 | Lala |
-| 866 | 57 | Meela Abdurrab |
-| 867 | 57 | Heather Hilferty |
-| 868 | 57 | Hotstuff |
-| 869 | 56 | Jasmine Griffin |
+| 851 | 58 | Tipsy Curvetile |
+| 852 | 58 | Jasmine Griffin |
+| 853 | 58 | Zappy Matchgrid |
+| 854 | 58 | Casey Thomas |
+| 855 | 58 | Jessica Sanchez |
+| 856 | 58 | Alicia Blunt |
+| 857 | 58 | Hayze |
+| 858 | 58 | h_chloe10 |
+| 859 | 58 | Yaya Selbor |
+| 860 | 57 | PapaB |
+| 861 | 57 | Kalisha Monique Wright |
+| 862 | 57 | Budda Huitt |
+| 863 | 57 | Meghan Etchells |
+| 864 | 57 | Steven Patshy |
+| 865 | 57 | Волна Бог |
+| 866 | 57 | Lala |
+| 867 | 57 | Meela Abdurrab |
+| 868 | 57 | Heather Hilferty |
+| 869 | 57 | Hotstuff |
 | 870 | 56 | Blessedmom865 |
 | 871 | 56 | Natalie Ohrtman Strand |
 | 872 | 56 | Krystalclear |
