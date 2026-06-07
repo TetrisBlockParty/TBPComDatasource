@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 10:59:19 UTC
+# Standings for team4 as of 2026-06-07 11:00:17 UTC
 
 **Total Participants:** 1446
 
@@ -52,11 +52,11 @@
 | 44 | 1360 | Cal Renee |
 | 45 | 1359 | Victoria Ver |
 | 46 | 1357 | 626 |
-| 47 | 1249 | Charlie Lewis |
-| 48 | 1200 | Caitlin Johnson |
-| 49 | 1128 | MysticMaven |
-| 50 | 1089 | Bryan DjMagnum Evans |
-| 51 | 1089 | Ning Quiambao |
+| 47 | 1289 | Ning Quiambao |
+| 48 | 1249 | Charlie Lewis |
+| 49 | 1200 | Caitlin Johnson |
+| 50 | 1128 | MysticMaven |
+| 51 | 1089 | Bryan DjMagnum Evans |
 | 52 | 1063 | Chummy Rollzone |
 | 53 | 1049 | Chris Covington |
 | 54 | 1035 | Adam J Leong |
@@ -64,11 +64,11 @@
 | 56 | 985 | Nick Graber |
 | 57 | 971 | Loony Towerer |
 | 58 | 925 | Giggy Matchpiece |
-| 59 | 906 | Hannah Pazar |
-| 60 | 900 | Kathy Brookins |
-| 61 | 895 | Tiffany Loree Tiffany Oneill |
-| 62 | 892 | Alala.Cersei |
-| 63 | 889 | Snippy Grid |
+| 59 | 909 | Snippy Grid |
+| 60 | 906 | Hannah Pazar |
+| 61 | 900 | Kathy Brookins |
+| 62 | 895 | Tiffany Loree Tiffany Oneill |
+| 63 | 892 | Alala.Cersei |
 | 64 | 876 | SMV |
 | 65 | 866 | J |
 | 66 | 848 | Beee |
@@ -192,8 +192,8 @@
 | 184 | 261 | Waxboss |
 | 185 | 260 | Shmeedo |
 | 186 | 259 | Jessica Peyton |
-| 187 | 253 | Tammy June |
-| 188 | 251 | Shepreneur Sade |
+| 187 | 253 | Shepreneur Sade |
+| 188 | 253 | Tammy June |
 | 189 | 247 | Joseph Anthony Watkins |
 | 190 | 246 | Lucy Honer |
 | 191 | 242 | Danny Ortiz |
@@ -773,12 +773,12 @@
 | 765 | 52 | Frothy Pivotfall |
 | 766 | 52 | Certified Da Don |
 | 767 | 52 | Sara Cobb |
-| 768 | 52 | Nachos |
-| 769 | 52 | Domenique Wilson |
-| 770 | 51 | Joshua Powers |
-| 771 | 51 | Toria |
-| 772 | 51 | JJ Merc |
-| 773 | 51 | Merritt Brandt |
+| 768 | 52 | Merritt Brandt |
+| 769 | 52 | Nachos |
+| 770 | 52 | Domenique Wilson |
+| 771 | 51 | Joshua Powers |
+| 772 | 51 | Toria |
+| 773 | 51 | JJ Merc |
 | 774 | 51 | Snow77white |
 | 775 | 51 | MsChelleAnn |
 | 776 | 51 | Curved carrot |
