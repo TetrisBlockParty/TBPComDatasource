@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 00:32:17 UTC
+# Standings for team1 as of 2026-06-07 00:32:39 UTC
 
 **Total Participants:** 1235
 
@@ -344,16 +344,16 @@
 | 336 | 103 | Choc |
 | 337 | 102 | Maribel Vasquez |
 | 338 | 101 | Mommy Frank |
-| 339 | 101 | Manda Allen |
-| 340 | 101 | Joana Thompson |
-| 341 | 100 | $hort Dog |
-| 342 | 100 | Tanya Clayton |
-| 343 | 100 | Kesha Brady |
-| 344 | 100 | Leavon Smith |
-| 345 | 100 | Seddrick |
-| 346 | 100 | Mary Phillippi Blanton |
-| 347 | 100 | Hailey Hil |
-| 348 | 100 | Ad Doctor |
+| 339 | 101 | Ad Doctor |
+| 340 | 101 | Manda Allen |
+| 341 | 101 | Joana Thompson |
+| 342 | 100 | $hort Dog |
+| 343 | 100 | Tanya Clayton |
+| 344 | 100 | Kesha Brady |
+| 345 | 100 | Leavon Smith |
+| 346 | 100 | Seddrick |
+| 347 | 100 | Mary Phillippi Blanton |
+| 348 | 100 | Hailey Hil |
 | 349 | 100 | Natasha Rucker |
 | 350 | 99 | Ciera Peace |
 | 351 | 99 | SeanSanchez |
