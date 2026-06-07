@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 00:01:17 UTC
+# Standings for team1 as of 2026-06-07 00:02:18 UTC
 
 **Total Participants:** 1226
 
@@ -23,8 +23,8 @@
 | 15 | 3142 | Debbie Carswell |
 | 16 | 3039 | Chummy Combo |
 | 17 | 3003 | Cassidy Butler |
-| 18 | 2596 | Pdubbl3 |
-| 19 | 2563 | Sha Harris |
+| 18 | 2613 | Sha Harris |
+| 19 | 2596 | Pdubbl3 |
 | 20 | 2536 | jaimie |
 | 21 | 2415 | Yolanda McDonald |
 | 22 | 2321 | Chandler Spencer |
@@ -40,8 +40,8 @@
 | 32 | 1414 | COSA303 |
 | 33 | 1350 | Cool Bridger |
 | 34 | 1320 | Jocelyn Pope-Sewell |
-| 35 | 1242 | Jacoby E Fleming |
-| 36 | 1235 | Chris Russell |
+| 35 | 1246 | Chris Russell |
+| 36 | 1242 | Jacoby E Fleming |
 | 37 | 1195 | Tekedra Wilson |
 | 38 | 1160 | Daylene Johannes |
 | 39 | 1086 | Ryan Meilleur |
@@ -604,11 +604,11 @@
 | 596 | 53 | Morenita Rodriguez |
 | 597 | 53 | akosua |
 | 598 | 53 | Heather Wilson |
-| 599 | 52 | Loopy Risepiece |
-| 600 | 52 | Giggly Tiltbuilder |
-| 601 | 52 | Gabriela Hernandez |
-| 602 | 52 | Vannie G |
-| 603 | 51 | Jane Lame |
+| 599 | 52 | Jane Lame |
+| 600 | 52 | Loopy Risepiece |
+| 601 | 52 | Giggly Tiltbuilder |
+| 602 | 52 | Gabriela Hernandez |
+| 603 | 52 | Vannie G |
 | 604 | 51 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
 | 605 | 51 | messyboots |
 | 606 | 51 | Solomon Valarie |
@@ -838,68 +838,68 @@
 | 830 | 32 | Victor |
 | 831 | 32 | Ameillia Boughner |
 | 832 | 32 | Melvin Simpson |
-| 833 | 32 | Sylvia Offically A Mcgowan |
-| 834 | 32 | Tomme Poliwka |
+| 833 | 32 | Tomme Poliwka |
+| 834 | 32 | Sylvia Offically A Mcgowan |
 | 835 | 32 | Crystal Cheresnowsky |
 | 836 | 31 | MrsDontPlay |
-| 837 | 31 | Nekka |
-| 838 | 31 | kingbrook |
-| 839 | 31 | Andra Ward |
-| 840 | 31 | Edward Hickmon |
-| 841 | 31 | Krista McNair |
-| 842 | 31 | Yashicha Hertzock |
-| 843 | 31 | Sharon Lynn |
-| 844 | 31 | Riq Wokhardt |
-| 845 | 31 | Ķïrãã Ďãvïss |
-| 846 | 30 | Bouncy Glide |
+| 837 | 31 | Temeshia Brooks Washington |
+| 838 | 31 | Nekka |
+| 839 | 31 | kingbrook |
+| 840 | 31 | Andra Ward |
+| 841 | 31 | Edward Hickmon |
+| 842 | 31 | Krista McNair |
+| 843 | 31 | Yashicha Hertzock |
+| 844 | 31 | Sharon Lynn |
+| 845 | 31 | Riq Wokhardt |
+| 846 | 31 | Ķïrãã Ďãvïss |
 | 847 | 30 | TiffanyG |
-| 848 | 30 | Adrian Wilson |
-| 849 | 30 | Witty Blockpiece |
-| 850 | 30 | Dannie |
-| 851 | 30 | Taneka Howell |
+| 848 | 30 | Taneka Howell |
+| 849 | 30 | Adrian Wilson |
+| 850 | 30 | Witty Blockpiece |
+| 851 | 30 | Plucky Clearpiece |
 | 852 | 30 | Tez Mays |
-| 853 | 30 | James Bryant II |
-| 854 | 30 | Plucky Clearpiece |
-| 855 | 30 | PSD |
-| 856 | 30 | Stanley Dixon |
-| 857 | 30 | Frankey Chi |
-| 858 | 30 | Rhianna Dinki Austin |
-| 859 | 30 | DeAngelo Sorrells |
-| 860 | 30 | Jessica Corey |
-| 861 | 29 | Dirty Deeds |
-| 862 | 29 | Smiley Bridgepiece |
-| 863 | 29 | Temeshia Brooks Washington |
-| 864 | 29 | Everett Semmions |
-| 865 | 29 | MindlessMic |
-| 866 | 29 | Jeffrey Barrows |
+| 853 | 30 | Stanley Dixon |
+| 854 | 30 | Jessica Corey |
+| 855 | 30 | Bouncy Glide |
+| 856 | 30 | Dannie |
+| 857 | 30 | DeAngelo Sorrells |
+| 858 | 30 | James Bryant II |
+| 859 | 30 | PSD |
+| 860 | 30 | Frankey Chi |
+| 861 | 30 | Rhianna Dinki Austin |
+| 862 | 29 | Epic Wipepiece |
+| 863 | 29 | MindlessMic |
+| 864 | 29 | Smiley Bridgepiece |
+| 865 | 29 | Katness |
+| 866 | 29 | Dirty Deeds |
 | 867 | 29 | brite |
-| 868 | 29 | Epic Wipepiece |
-| 869 | 29 | Katness |
-| 870 | 28 | Markeita Jones |
-| 871 | 28 | Leon Matthew Williams |
-| 872 | 28 | Will Stanton |
-| 873 | 28 | Daphne Ceasar |
-| 874 | 28 | Anntionette Sotire |
-| 875 | 28 | AleahKCH |
-| 876 | 28 | Crystal Winters Mckay |
-| 877 | 28 | kiki |
-| 878 | 28 | SnazzySnippet |
-| 879 | 28 | Teresa Bean |
-| 880 | 28 | Jroc Tyra Taylor |
-| 881 | 27 | Jeremy Hendrix |
-| 882 | 27 | Kidgib5 |
-| 883 | 27 | Zesty Fitclear |
-| 884 | 27 | AshMo |
-| 885 | 27 | Venna Cooper |
-| 886 | 27 | Juanita Quezaire |
-| 887 | 27 | Ayanna James |
-| 888 | 27 | Shaylyn Lockwood |
-| 889 | 27 | Tina Criam |
-| 890 | 27 | katia |
-| 891 | 27 | Mighty plantlady |
-| 892 | 27 | Joka NoTime ForHataz |
-| 893 | 27 | sunstar |
-| 894 | 27 | Mrs |
+| 868 | 29 | Jeffrey Barrows |
+| 869 | 29 | Everett Semmions |
+| 870 | 28 | Anntionette Sotire |
+| 871 | 28 | Will Stanton |
+| 872 | 28 | Teresa Bean |
+| 873 | 28 | SnazzySnippet |
+| 874 | 28 | Daphne Ceasar |
+| 875 | 28 | Markeita Jones |
+| 876 | 28 | Leon Matthew Williams |
+| 877 | 28 | Jroc Tyra Taylor |
+| 878 | 28 | AleahKCH |
+| 879 | 28 | Crystal Winters Mckay |
+| 880 | 28 | kiki |
+| 881 | 27 | Zesty Fitclear |
+| 882 | 27 | Jeremy Hendrix |
+| 883 | 27 | AshMo |
+| 884 | 27 | Venna Cooper |
+| 885 | 27 | Juanita Quezaire |
+| 886 | 27 | Ayanna James |
+| 887 | 27 | Shaylyn Lockwood |
+| 888 | 27 | Tina Criam |
+| 889 | 27 | katia |
+| 890 | 27 | Mighty plantlady |
+| 891 | 27 | Joka NoTime ForHataz |
+| 892 | 27 | sunstar |
+| 893 | 27 | Mrs |
+| 894 | 27 | Kidgib5 |
 | 895 | 26 | LaMinda Todd |
 | 896 | 26 | Crystal Garay |
 | 897 | 26 | Caitlin Michele |
