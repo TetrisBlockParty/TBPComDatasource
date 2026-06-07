@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 10:54:40 UTC
+# Standings for team2 as of 2026-06-07 10:55:19 UTC
 
 **Total Participants:** 1702
 
@@ -78,13 +78,13 @@
 | 70 | 986 | Criccett Hooper-Smith |
 | 71 | 984 | Dane Marko |
 | 72 | 971 | Debra Henry |
-| 73 | 933 | Mikki Torres |
+| 73 | 953 | Mikki Torres |
 | 74 | 921 | Block Dog |
 | 75 | 913 | Amber Salazar |
 | 76 | 899 | Marie Luciano |
 | 77 | 882 | Lisa Breiding |
-| 78 | 864 | Helen Thomas |
-| 79 | 864 | Gabriella Humphreys |
+| 78 | 869 | Gabriella Humphreys |
+| 79 | 864 | Helen Thomas |
 | 80 | 861 | Marquita Toliver |
 | 81 | 856 | Marquetta Johnson |
 | 82 | 844 | Jayke Edward |
@@ -100,8 +100,8 @@
 | 92 | 765 | Brandi Thompson |
 | 93 | 757 | Jazzy Faller |
 | 94 | 750 | Denise Potter |
-| 95 | 721 | Smiley Dropper |
-| 96 | 721 | Hoppy Rotate |
+| 95 | 721 | Hoppy Rotate |
+| 96 | 721 | Smiley Dropper |
 | 97 | 689 | haune |
 | 98 | 685 | Sigmamom |
 | 99 | 666 | Epic Frame |
@@ -144,8 +144,8 @@
 | 136 | 466 | Judy Long |
 | 137 | 458 | Kaycie Shaffer |
 | 138 | 453 | Kimberly Cowan |
-| 139 | 448 | Pooh |
-| 140 | 448 | MarioKarasovic |
+| 139 | 448 | MarioKarasovic |
+| 140 | 448 | Pooh |
 | 141 | 438 | Zappy Pattern |
 | 142 | 438 | Michelle Rich Burkhart |
 | 143 | 436 | Gill |
@@ -163,8 +163,8 @@
 | 155 | 381 | Joslyn Johnson |
 | 156 | 380 | Zany Blockclear |
 | 157 | 376 | Nutty Curver |
-| 158 | 375 | MaddieCherie |
-| 159 | 375 | Milad Arzani |
+| 158 | 375 | Milad Arzani |
+| 159 | 375 | MaddieCherie |
 | 160 | 365 | Branden Frankowski |
 | 161 | 360 | Jacob Carpenter |
 | 162 | 359 | Sarah Mccolgan |
@@ -187,9 +187,9 @@
 | 179 | 328 | Tim Tim |
 | 180 | 325 | Flashy Twistline |
 | 181 | 325 | Fudgie Pie |
-| 182 | 323 | Shannon Wilson |
-| 183 | 319 | Flower_child |
-| 184 | 318 | Ratchet |
+| 182 | 324 | Ratchet |
+| 183 | 323 | Shannon Wilson |
+| 184 | 319 | Flower_child |
 | 185 | 314 | DayDreamer79 |
 | 186 | 314 | Danielle Blount |
 | 187 | 311 | Hoppy Mover |
@@ -202,15 +202,15 @@
 | 194 | 298 | Breeana Bennett |
 | 195 | 298 | Rob Owens |
 | 196 | 298 | Heather Burgett |
-| 197 | 296 | Brenda Jones |
-| 198 | 296 | Sara Perkins |
-| 199 | 296 | Snappy Combo |
-| 200 | 295 | Brittney Williams |
-| 201 | 294 | Vistabrat |
-| 202 | 292 | Pam Bauder Ludwig |
+| 197 | 298 | Sully |
+| 198 | 296 | Brenda Jones |
+| 199 | 296 | Sara Perkins |
+| 200 | 296 | Snappy Combo |
+| 201 | 295 | Brittney Williams |
+| 202 | 294 | Vistabrat |
 | 203 | 292 | Nikki EightySixed |
 | 204 | 292 | James Ward |
-| 205 | 288 | Sully |
+| 205 | 292 | Pam Bauder Ludwig |
 | 206 | 285 | Samantha Carman |
 | 207 | 285 | H |
 | 208 | 284 | Becca Marie |
@@ -226,24 +226,24 @@
 | 218 | 269 | Ackerman 85 |
 | 219 | 265 | Margie Ann Naffziger |
 | 220 | 263 | Snappy Blockbuilder |
-| 221 | 263 | Glitzy Base |
-| 222 | 263 | Jessica Lynn |
+| 221 | 263 | Jessica Lynn |
+| 222 | 263 | Glitzy Base |
 | 223 | 262 | Cool Balancer |
 | 224 | 262 | Jat |
 | 225 | 260 | Loopy Dropper |
 | 226 | 259 | Angie Kowalsky Olson |
-| 227 | 257 | Xandrea Jones |
-| 228 | 257 | Dallas Runyan |
+| 227 | 257 | Dallas Runyan |
+| 228 | 257 | Xandrea Jones |
 | 229 | 253 | Hilliary Beyer |
 | 230 | 253 | Marge Cromer |
 | 231 | 252 | Kathy Strickland |
-| 232 | 250 | marsam |
-| 233 | 250 | Happy Drop |
+| 232 | 250 | Happy Drop |
+| 233 | 250 | marsam |
 | 234 | 250 | Iesha Cupil |
-| 235 | 247 | Brittni Lawrence |
-| 236 | 247 | Melissa Thomas |
-| 237 | 246 | Brooke Lynn Marie Adelaide |
-| 238 | 246 | Elizabeth Henry |
+| 235 | 247 | Melissa Thomas |
+| 236 | 247 | Brittni Lawrence |
+| 237 | 246 | Elizabeth Henry |
+| 238 | 246 | Brooke Lynn Marie Adelaide |
 | 239 | 241 | Boldy Wobbler |
 | 240 | 240 | PaiBri |
 | 241 | 239 | Norma Ortiz |
@@ -355,34 +355,34 @@
 | 347 | 165 | Sassy Twistbuilder |
 | 348 | 165 | Lindsey Ford |
 | 349 | 164 | Aldotfus Williams |
-| 350 | 164 | Cara Rivera |
-| 351 | 164 | Elliott Mikila |
+| 350 | 164 | Elliott Mikila |
+| 351 | 164 | Cara Rivera |
 | 352 | 163 | Zany Cascader |
 | 353 | 162 | Lisa Allen Frisk |
 | 354 | 162 | Wacky Holder |
 | 355 | 161 | Rydin Dirt |
-| 356 | 161 | Erica South |
-| 357 | 161 | Silly Tiltbuilder |
+| 356 | 161 | Silly Tiltbuilder |
+| 357 | 161 | Erica South |
 | 358 | 160 | Jaimie Walters |
 | 359 | 160 | Elizabeth Cornelius |
-| 360 | 160 | Billie Jensen |
-| 361 | 160 | Camilo Moreno |
-| 362 | 159 | Jennifer Vitro |
+| 360 | 160 | Joannah Capilitan |
+| 361 | 160 | Billie Jensen |
+| 362 | 160 | Camilo Moreno |
 | 363 | 159 | Misty Noe |
-| 364 | 158 | Rachel Nilles |
+| 364 | 159 | Jennifer Vitro |
 | 365 | 158 | KazzyKay |
-| 366 | 157 | Joannah Capilitan |
-| 367 | 156 | Tango Sierra |
-| 368 | 156 | meg |
-| 369 | 156 | Jamie Fenyus |
-| 370 | 156 | Charlotte Castelli |
-| 371 | 156 | Monique Frantz |
+| 366 | 158 | Rachel Nilles |
+| 367 | 156 | Monique Frantz |
+| 368 | 156 | Charlotte Castelli |
+| 369 | 156 | Tango Sierra |
+| 370 | 156 | Jamie Fenyus |
+| 371 | 156 | meg |
 | 372 | 154 | murd3rmous3 |
 | 373 | 153 | Cortney Coleman |
 | 374 | 151 | Amy Lea Hamilton |
 | 375 | 150 | Marylin Eacker |
-| 376 | 150 | Zany Wrecker |
-| 377 | 150 | Crystal Poss |
+| 376 | 150 | Crystal Poss |
+| 377 | 150 | Zany Wrecker |
 | 378 | 149 | Jenni LeBlanc |
 | 379 | 148 | Nano. |
 | 380 | 148 | Ashley Miller |
