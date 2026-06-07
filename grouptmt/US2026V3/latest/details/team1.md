@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 09:34:40 UTC
+# Standings for team1 as of 2026-06-07 09:35:18 UTC
 
 **Total Participants:** 1432
 
@@ -123,34 +123,34 @@
 | 115 | 450 | De'Laonzeo Anthony |
 | 116 | 447 | Gotcha |
 | 117 | 444 | Kevin M. McGhee Jr |
-| 118 | 439 | Asani CHumba |
-| 119 | 431 | Lashawn Wallace |
-| 120 | 429 | Bambi Love |
-| 121 | 420 | Jessica Carter |
-| 122 | 414 | Anthony Washington |
-| 123 | 412 | Sarah Marie |
-| 124 | 410 | ELM |
-| 125 | 409 | Andre Sanon |
-| 126 | 404 | Hyper Slamdrop |
+| 118 | 440 | Novaa |
+| 119 | 439 | Asani CHumba |
+| 120 | 431 | Lashawn Wallace |
+| 121 | 429 | Bambi Love |
+| 122 | 420 | Jessica Carter |
+| 123 | 414 | Anthony Washington |
+| 124 | 412 | Sarah Marie |
+| 125 | 410 | ELM |
+| 126 | 409 | Andre Sanon |
 | 127 | 404 | Jason Mungin |
-| 128 | 401 | Shell Lewis |
-| 129 | 393 | Tobey Marberry |
-| 130 | 393 | SPNLover24 |
-| 131 | 389 | GrkGdess |
-| 132 | 387 | Novaa |
+| 128 | 404 | Hyper Slamdrop |
+| 129 | 401 | Shell Lewis |
+| 130 | 393 | Tobey Marberry |
+| 131 | 393 | SPNLover24 |
+| 132 | 389 | GrkGdess |
 | 133 | 384 | Christana Imjustbutton Stone |
 | 134 | 378 | Jamal Itzjusmall Chambers |
 | 135 | 377 | AF Cruz |
-| 136 | 370 | Tameka Jones |
-| 137 | 370 | Allison Baxter |
+| 136 | 370 | Allison Baxter |
+| 137 | 370 | Tameka Jones |
 | 138 | 367 | Ebony Waynes-robinson |
 | 139 | 363 | Christina Rebecca |
 | 140 | 361 | John Staub |
-| 141 | 353 | Jenna Renee |
-| 142 | 353 | Lashaunda |
+| 141 | 353 | Lashaunda |
+| 142 | 353 | Jenna Renee |
 | 143 | 351 | Uneekly Mayde |
-| 144 | 348 | LeeLee08 |
-| 145 | 348 | pooh |
+| 144 | 348 | pooh |
+| 145 | 348 | LeeLee08 |
 | 146 | 339 | Ty Øtg |
 | 147 | 336 | Ceilo Marie |
 | 148 | 331 | Joey Albright |

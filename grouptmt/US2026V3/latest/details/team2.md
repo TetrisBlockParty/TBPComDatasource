@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:34:40 UTC
+# Standings for team2 as of 2026-06-07 09:35:18 UTC
 
 **Total Participants:** 1689
 
@@ -98,8 +98,8 @@
 | 90 | 771 | Charlie Wilson |
 | 91 | 766 | Sarah Griffey |
 | 92 | 757 | Jazzy Faller |
-| 93 | 750 | Denise Potter |
-| 94 | 749 | Brandi Thompson |
+| 93 | 755 | Brandi Thompson |
+| 94 | 750 | Denise Potter |
 | 95 | 721 | Smiley Dropper |
 | 96 | 721 | Hoppy Rotate |
 | 97 | 685 | Sigmamom |
@@ -121,18 +121,18 @@
 | 113 | 578 | Krisanne Kesner-Lonsby |
 | 114 | 577 | Lindsay Klemp |
 | 115 | 574 | Brandy McCune Reep |
-| 116 | 563 | Tisha Hairston |
-| 117 | 563 | Allison Jarman |
+| 116 | 563 | Allison Jarman |
+| 117 | 563 | Tisha Hairston |
 | 118 | 553 | Jamie Jones |
 | 119 | 549 | Kathleen Dumbazz |
 | 120 | 547 | Nettrainer |
 | 121 | 541 | Ricardo Ewart |
 | 122 | 530 | Gloria May Shook |
-| 123 | 528 | Amanda Sikes |
-| 124 | 516 | Amber Miller Wirick |
-| 125 | 515 | Loony Faller |
-| 126 | 512 | Jackie Tupper |
-| 127 | 509 | haune |
+| 123 | 529 | haune |
+| 124 | 528 | Amanda Sikes |
+| 125 | 516 | Amber Miller Wirick |
+| 126 | 515 | Loony Faller |
+| 127 | 512 | Jackie Tupper |
 | 128 | 500 | Courtney McCulley |
 | 129 | 500 | Suki Kaur |
 | 130 | 483 | Karen Reid Cenkush |
@@ -930,33 +930,33 @@
 | 922 | 47 | Goofy Bridger |
 | 923 | 47 | Suzanne Davis |
 | 924 | 46 | Giggly Buildgrid |
-| 925 | 46 | y |
+| 925 | 46 | Melissa Mae |
 | 926 | 46 | Nikki Carter |
-| 927 | 46 | Brittany Nichole Ellenburg |
+| 927 | 46 | y |
 | 928 | 46 | Riggins Terry |
-| 929 | 46 | Chill Clearbuilder |
-| 930 | 46 | shell |
-| 931 | 46 | Matthew Black |
-| 932 | 46 | Dani Newton |
-| 933 | 46 | Shannon Vanlester |
-| 934 | 46 | Tabitha Ann Bullins-Cobb |
-| 935 | 45 | Nora Buchan |
-| 936 | 45 | Chatty |
-| 937 | 45 | Jessica LeNeave |
-| 938 | 45 | Princess Cucumber |
-| 939 | 45 | Jolene Hull Hearn |
-| 940 | 45 | Linzy Ratliff |
-| 941 | 45 | Chill Wipegrid |
-| 942 | 45 | Mee Maw |
-| 943 | 45 | Thomas Johnstone |
-| 944 | 45 | SaraAnn Gray Philbrick |
-| 945 | 45 | Witty Brickster |
-| 946 | 45 | C.L. Deslongchamp |
-| 947 | 44 | Rae |
-| 948 | 44 | Melissa Mae |
-| 949 | 44 | Jackie Moran Tiller |
+| 929 | 46 | Brittany Nichole Ellenburg |
+| 930 | 46 | Chill Clearbuilder |
+| 931 | 46 | shell |
+| 932 | 46 | Matthew Black |
+| 933 | 46 | Dani Newton |
+| 934 | 46 | Shannon Vanlester |
+| 935 | 46 | Tabitha Ann Bullins-Cobb |
+| 936 | 45 | Chill Wipegrid |
+| 937 | 45 | Thomas Johnstone |
+| 938 | 45 | Chatty |
+| 939 | 45 | Jessica LeNeave |
+| 940 | 45 | Princess Cucumber |
+| 941 | 45 | Jolene Hull Hearn |
+| 942 | 45 | Linzy Ratliff |
+| 943 | 45 | C.L. Deslongchamp |
+| 944 | 45 | Mee Maw |
+| 945 | 45 | SaraAnn Gray Philbrick |
+| 946 | 45 | Witty Brickster |
+| 947 | 45 | Nora Buchan |
+| 948 | 44 | Rae |
+| 949 | 44 | Blocker |
 | 950 | 44 | Jenna Thorn |
-| 951 | 44 | Blocker |
+| 951 | 44 | Jackie Moran Tiller |
 | 952 | 44 | Katie Boen |
 | 953 | 44 | Cody Bohannan |
 | 954 | 44 | Kassie D Harmon |
