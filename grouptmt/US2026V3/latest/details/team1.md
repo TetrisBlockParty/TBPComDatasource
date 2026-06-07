@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:14:18 UTC
+# Standings for team1 as of 2026-06-07 08:14:41 UTC
 
 **Total Participants:** 1424
 
@@ -140,8 +140,8 @@
 | 132 | 374 | Lashawn Wallace |
 | 133 | 370 | Allison Baxter |
 | 134 | 370 | Tameka Jones |
-| 135 | 363 | Christina Rebecca |
-| 136 | 363 | Ebony Waynes-robinson |
+| 135 | 363 | Ebony Waynes-robinson |
+| 136 | 363 | Christina Rebecca |
 | 137 | 353 | Lashaunda |
 | 138 | 351 | Uneekly Mayde |
 | 139 | 348 | LeeLee08 |
@@ -154,24 +154,24 @@
 | 146 | 322 | pooh |
 | 147 | 319 | Andre Sanon |
 | 148 | 312 | Michelle Titus |
-| 149 | 311 | Simmone T. Kadiri |
-| 150 | 311 | Tina Mitchell |
+| 149 | 311 | Tina Mitchell |
+| 150 | 311 | Simmone T. Kadiri |
 | 151 | 308 | Dena Marie Lee |
 | 152 | 308 | John Staub |
 | 153 | 307 | Therealdywoune Peay |
-| 154 | 303 | Roberta Lynn |
-| 155 | 300 | Atlantalindi |
+| 154 | 306 | Chantelle Lee |
+| 155 | 303 | Roberta Lynn |
 | 156 | 300 | Felicia Cain |
-| 157 | 298 | Leebo Slice |
-| 158 | 297 | Tammye Turner |
-| 159 | 296 | Rolanda Williams |
-| 160 | 296 | Tamara N Lee |
-| 161 | 296 | Chantelle Lee |
+| 157 | 300 | Atlantalindi |
+| 158 | 298 | Leebo Slice |
+| 159 | 297 | Tammye Turner |
+| 160 | 296 | Rolanda Williams |
+| 161 | 296 | Tamara N Lee |
 | 162 | 293 | Dee McCool |
 | 163 | 291 | Brian Taylor |
 | 164 | 290 | Kaleisha Smith |
-| 165 | 290 | Mimi 1.0 |
-| 166 | 290 | Eugina Slater |
+| 165 | 290 | Eugina Slater |
+| 166 | 290 | Mimi 1.0 |
 | 167 | 290 | Frisky Fallmatch |
 | 168 | 285 | Ashley MyBeauty Daniels |
 | 169 | 285 | Helen Smith |
@@ -186,30 +186,30 @@
 | 178 | 260 | xXEKUNXx |
 | 179 | 259 | Brave Clearbuilder |
 | 180 | 258 | Jayjay Rich |
-| 181 | 257 | Cathy Young |
-| 182 | 257 | Calvin Green |
-| 183 | 257 | Po Marley |
-| 184 | 257 | Ebony |
+| 181 | 257 | Po Marley |
+| 182 | 257 | Ebony |
+| 183 | 257 | Cathy Young |
+| 184 | 257 | Calvin Green |
 | 185 | 256 | Alana Renee |
 | 186 | 254 | Tonya McElroy |
 | 187 | 250 | Davionte DaeDae Hopson-Rodriguez |
 | 188 | 249 | Falisa Bell |
 | 189 | 249 | Cee Emm |
-| 190 | 248 | Sharon Cail |
+| 190 | 248 | Jazzy Fireflighters |
 | 191 | 248 | Yasmin Nakea Wright |
-| 192 | 248 | Jazzy Fireflighters |
-| 193 | 246 | Denise B |
-| 194 | 246 | Byron Mario Cawthon |
+| 192 | 248 | Sharon Cail |
+| 193 | 246 | Byron Mario Cawthon |
+| 194 | 246 | Denise B |
 | 195 | 245 | Derrius SeriousLee Burks |
-| 196 | 245 | Zachary Colegrove |
-| 197 | 245 | Rhonda Williams Warner |
+| 196 | 245 | Rhonda Williams Warner |
+| 197 | 245 | Zachary Colegrove |
 | 198 | 241 | SyTheEvilGenius1 |
-| 199 | 240 | Rayya Kiser |
-| 200 | 240 | Salim Thugger |
+| 199 | 240 | Salim Thugger |
+| 200 | 240 | Rayya Kiser |
 | 201 | 238 | Queenie Perry |
 | 202 | 237 | David Fuentes |
-| 203 | 236 | IThinkNot |
-| 204 | 236 | Nutty Spinblock |
+| 203 | 236 | Nutty Spinblock |
+| 204 | 236 | IThinkNot |
 | 205 | 235 | Michele Simpson |
 | 206 | 229 | Ann White |
 | 207 | 228 | Latisha Fairley |
@@ -330,42 +330,42 @@
 | 322 | 136 | McKayla Owens |
 | 323 | 136 | Alyssa Rae |
 | 324 | 135 | Sean White |
-| 325 | 135 | Skippy |
+| 325 | 135 | Jenna Renee |
 | 326 | 135 | Saucy Tile |
-| 327 | 134 | Perky Pusher |
-| 328 | 134 | Brittanie Wardlow |
-| 329 | 134 | Peppy Glider |
-| 330 | 134 | De'Laonzeo Anthony |
-| 331 | 133 | Tasha |
-| 332 | 132 | Tremaine Hiler |
-| 333 | 132 | Block King |
+| 327 | 135 | Skippy |
+| 328 | 134 | Perky Pusher |
+| 329 | 134 | De'Laonzeo Anthony |
+| 330 | 134 | Peppy Glider |
+| 331 | 134 | Brittanie Wardlow |
+| 332 | 133 | Tasha |
+| 333 | 132 | Tremaine Hiler |
 | 334 | 132 | Chirpy Buildgrid |
-| 335 | 131 | Sarah Clark |
-| 336 | 130 | Jenna Renee |
+| 335 | 132 | Block King |
+| 336 | 131 | Sarah Clark |
 | 337 | 130 | Adrian Wilson |
-| 338 | 130 | Miera Nicole |
-| 339 | 130 | Crystal Anderson |
+| 338 | 130 | Crystal Anderson |
+| 339 | 130 | Miera Nicole |
 | 340 | 130 | Maribel Vasquez |
 | 341 | 130 | Jessica Davis |
 | 342 | 129 | Loopy Tiler |
 | 343 | 129 | Mathew Trudell |
 | 344 | 128 | Darrel K Pemberton |
 | 345 | 128 | Jack Vlasak |
-| 346 | 127 | Ozell Jones Jr. |
-| 347 | 127 | Comedian Prince Paul |
+| 346 | 127 | Comedian Prince Paul |
+| 347 | 127 | Ozell Jones Jr. |
 | 348 | 127 | Treneil Daffin |
 | 349 | 126 | Breezy Catcher |
-| 350 | 125 | Dedra M Prester |
+| 350 | 125 | LaTonya Myers |
 | 351 | 125 | Dizzy Dashy |
-| 352 | 125 | LaTonya Myers |
-| 353 | 123 | Rachael Bakowicz Edwards |
-| 354 | 123 | Cauiasia DeJ'ae |
+| 352 | 125 | Dedra M Prester |
+| 353 | 123 | Cauiasia DeJ'ae |
+| 354 | 123 | Rachael Bakowicz Edwards |
 | 355 | 122 | De'Nell Edwards |
 | 356 | 122 | Xana Zania Bopp |
-| 357 | 121 | Tiana Monique |
-| 358 | 121 | Shanaa Germany Crittenden |
-| 359 | 121 | Bubbly Piececlear |
-| 360 | 121 | Tee Spinks |
+| 357 | 121 | Shanaa Germany Crittenden |
+| 358 | 121 | Bubbly Piececlear |
+| 359 | 121 | Tee Spinks |
+| 360 | 121 | Tiana Monique |
 | 361 | 120 | Guy Incognito |
 | 362 | 120 | rls |
 | 363 | 120 | Dynah Gordon |
