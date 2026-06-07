@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 08:20:41 UTC
+# Standings for team4 as of 2026-06-07 08:21:18 UTC
 
 **Total Participants:** 1417
 
@@ -51,7 +51,7 @@
 | 43 | 1380 | Jennifer Edgell Richardson |
 | 44 | 1360 | Cal Renee |
 | 45 | 1357 | 626 |
-| 46 | 1325 | Victoria Ver |
+| 46 | 1328 | Victoria Ver |
 | 47 | 1249 | Charlie Lewis |
 | 48 | 1200 | Caitlin Johnson |
 | 49 | 1089 | Bryan DjMagnum Evans |
@@ -126,8 +126,8 @@
 | 118 | 418 | Aisha Estrada |
 | 119 | 415 | Chuck Gannon |
 | 120 | 414 | Gigglycat |
-| 121 | 406 | Kelley Roach |
-| 122 | 403 | Gorica Prusina |
+| 121 | 413 | Gorica Prusina |
+| 122 | 406 | Kelley Roach |
 | 123 | 400 | Cherry |
 | 124 | 400 | DexterDobbins |
 | 125 | 400 | Amber Doyle |
@@ -180,7 +180,7 @@
 | 172 | 270 | Jojo Ann |
 | 173 | 268 | Megan Vick |
 | 174 | 267 | QueenLi86 |
-| 175 | 266 | shawna |
+| 175 | 267 | shawna |
 | 176 | 262 | squareMel |
 | 177 | 261 | Waxboss |
 | 178 | 259 | Jessica Peyton |
