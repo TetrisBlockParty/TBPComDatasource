@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 00:26:19 UTC
+# Standings for team2 as of 2026-06-07 00:26:38 UTC
 
 **Total Participants:** 1473
 
@@ -454,70 +454,70 @@
 | 446 | 91 | Leighla Davis |
 | 447 | 91 | Greenie |
 | 448 | 91 | Rocroc mo |
-| 449 | 90 | Lesley Stoeckle |
-| 450 | 90 | Lacie B |
-| 451 | 90 | Nova |
+| 449 | 90 | Nova |
+| 450 | 90 | Rescuegirl76 |
+| 451 | 90 | Lesley Stoeckle |
 | 452 | 90 | Eva Lopez |
-| 453 | 90 | Rescuegirl76 |
-| 454 | 89 | Andrea Rawson |
-| 455 | 89 | Patrick Woodard |
+| 453 | 90 | Lacie B |
+| 454 | 89 | Patrick Woodard |
+| 455 | 89 | Andrea Rawson |
 | 456 | 89 | Kenzie |
-| 457 | 88 | Tami Kay Williams Watson |
-| 458 | 88 | Michael Carmichael |
-| 459 | 88 | Cozy Cascade |
+| 457 | 88 | Cozy Cascade |
+| 458 | 88 | Chesney |
+| 459 | 88 | Michael Carmichael |
 | 460 | 88 | IncrediDragon |
-| 461 | 88 | Chesney |
-| 462 | 87 | Jackie Walker |
-| 463 | 86 | Susie Conger |
-| 464 | 85 | Christina Maria |
+| 461 | 88 | Tami Kay Williams Watson |
+| 462 | 87 | Kristen |
+| 463 | 87 | Jackie Walker |
+| 464 | 86 | Susie Conger |
 | 465 | 85 | Rhonda Driskill |
 | 466 | 85 | ChefDeb |
 | 467 | 85 | Daisy Girl |
-| 468 | 85 | Christine James |
-| 469 | 85 | Frisky Linkbuilder |
-| 470 | 85 | Tonya Marino |
-| 471 | 84 | Stoney McMillion |
-| 472 | 84 | Sarah Jane Gorsuch |
-| 473 | 84 | Lisa Underwood Desmond |
-| 474 | 83 | Billy Pittman |
-| 475 | 83 | TetrisMama |
-| 476 | 83 | Louis Brudzinski |
-| 477 | 82 | Madonna Ash |
-| 478 | 82 | LadyDeath |
-| 479 | 82 | Kelly |
-| 480 | 82 | Kimberly Brooks |
-| 481 | 81 | rageking |
-| 482 | 81 | YldBoar |
-| 483 | 81 | Heather Hi |
-| 484 | 81 | Katrien |
-| 485 | 81 | Shiny Spinfit |
+| 468 | 85 | Tonya Marino |
+| 469 | 85 | Christine James |
+| 470 | 85 | Frisky Linkbuilder |
+| 471 | 85 | Christina Maria |
+| 472 | 84 | Lisa Underwood Desmond |
+| 473 | 84 | Sarah Jane Gorsuch |
+| 474 | 84 | Stoney McMillion |
+| 475 | 83 | Louis Brudzinski |
+| 476 | 83 | TetrisMama |
+| 477 | 83 | Billy Pittman |
+| 478 | 82 | Madonna Ash |
+| 479 | 82 | Kimberly Brooks |
+| 480 | 82 | Kelly |
+| 481 | 82 | LadyDeath |
+| 482 | 81 | Heather Hi |
+| 483 | 81 | Robin Stutler |
+| 484 | 81 | Shiny Spinfit |
+| 485 | 81 | rageking |
 | 486 | 81 | Quina Jesse Fejaran |
-| 487 | 81 | Robin Stutler |
-| 488 | 80 | Tami Leontyuk |
-| 489 | 80 | Groovy Snapper |
-| 490 | 80 | Plucky Grabber |
-| 491 | 80 | Renee Siems |
-| 492 | 80 | Cory Lynn |
-| 493 | 80 | Dayna Messer-Thelen |
-| 494 | 80 | Ashley Eneboe |
-| 495 | 80 | Dawn Kroptavich |
-| 496 | 80 | Julie Alexander Sykes |
-| 497 | 80 | Nicole Hogue |
-| 498 | 79 | Aeryal Snow |
-| 499 | 79 | Bruni |
-| 500 | 79 | Jillian Marie |
-| 501 | 79 | Shannon Posner |
+| 487 | 81 | YldBoar |
+| 488 | 81 | Katrien |
+| 489 | 80 | Dawn Kroptavich |
+| 490 | 80 | Groovy Snapper |
+| 491 | 80 | Plucky Grabber |
+| 492 | 80 | Renee Siems |
+| 493 | 80 | Cory Lynn |
+| 494 | 80 | Dayna Messer-Thelen |
+| 495 | 80 | Ashley Eneboe |
+| 496 | 80 | Nicole Hogue |
+| 497 | 80 | Julie Alexander Sykes |
+| 498 | 80 | Tami Leontyuk |
+| 499 | 79 | Aeryal Snow |
+| 500 | 79 | Bruni |
+| 501 | 79 | Jillian Marie |
 | 502 | 79 | Lezley Hawkins |
-| 503 | 79 | Michele Rogers |
-| 504 | 78 | Arik DiLorenzo |
+| 503 | 79 | Shannon Posner |
+| 504 | 79 | Michele Rogers |
 | 505 | 78 | Alycia Marie Zelensky |
-| 506 | 77 | Kristen |
-| 507 | 77 | Jason Lamporte |
-| 508 | 77 | MamaRachel |
+| 506 | 78 | Arik DiLorenzo |
+| 507 | 77 | MamaRachel |
+| 508 | 77 | Jason Lamporte |
 | 509 | 77 | Raymond Dawson |
 | 510 | 76 | Lively Twisterfit |
-| 511 | 76 | Tiffany Fitch |
-| 512 | 76 | Sara Dunn |
+| 511 | 76 | Sara Dunn |
+| 512 | 76 | Tiffany Fitch |
 | 513 | 76 | Dad |
 | 514 | 76 | Evelyn Olive Kalmbach |
 | 515 | 75 | joey |
