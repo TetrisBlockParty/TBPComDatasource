@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 12:54:40 UTC
+# Standings for team4 as of 2026-06-07 12:55:18 UTC
 
 **Total Participants:** 1461
 
@@ -18,7 +18,7 @@
 | 10 | 5082 | Jerald Jones |
 | 11 | 4772 | Anna Moses |
 | 12 | 4682 | delilahbelle |
-| 13 | 4338 | Bubbly Twistpiece |
+| 13 | 4358 | Bubbly Twistpiece |
 | 14 | 4323 | Nia Mayfield |
 | 15 | 4265 | Chris Hills |
 | 16 | 4246 | t |
@@ -48,7 +48,7 @@
 | 40 | 1609 | Erin Figone |
 | 41 | 1570 | Dheeh Robles |
 | 42 | 1569 | Annastaissia Todd |
-| 43 | 1409 | Cal Renee |
+| 43 | 1430 | Cal Renee |
 | 44 | 1400 | Michele |
 | 45 | 1380 | Jennifer Edgell Richardson |
 | 46 | 1369 | Victoria Ver |
@@ -140,13 +140,13 @@
 | 132 | 412 | Real Talk Vibes |
 | 133 | 408 | Futrell Brent |
 | 134 | 406 | Kelley Roach |
-| 135 | 400 | DexterDobbins |
+| 135 | 402 | squareMel |
 | 136 | 400 | Amber Doyle |
 | 137 | 400 | Suzanne Carter |
-| 138 | 396 | Jackie Jackson |
-| 139 | 394 | Kim |
-| 140 | 388 | Hen |
-| 141 | 382 | squareMel |
+| 138 | 400 | DexterDobbins |
+| 139 | 396 | Jackie Jackson |
+| 140 | 394 | Kim |
+| 141 | 388 | Hen |
 | 142 | 380 | Becky Doll-Hall |
 | 143 | 379 | Devinlee Brown |
 | 144 | 378 | Hwanger Land |
@@ -426,8 +426,8 @@
 | 418 | 111 | Denise Wilson |
 | 419 | 111 | Marcus Chavis |
 | 420 | 110 | Lora Schallert |
-| 421 | 110 | jaz |
-| 422 | 110 | Anna Ryan |
+| 421 | 110 | Anna Ryan |
+| 422 | 110 | jaz |
 | 423 | 110 | Luna |
 | 424 | 109 | Ross Bryant |
 | 425 | 109 | Chirpy Snapclear |
@@ -441,28 +441,28 @@
 | 433 | 107 | Jace McCullough |
 | 434 | 106 | Corey Jackson |
 | 435 | 106 | Ami Ferguson |
-| 436 | 105 | Valerie Silva |
-| 437 | 105 | Karen Rodriguez |
-| 438 | 104 | Justin Ballard |
-| 439 | 103 | Butterpat |
+| 436 | 105 | Karen Rodriguez |
+| 437 | 105 | Valerie Silva |
+| 438 | 105 | Jennifer Terrill |
+| 439 | 104 | Justin Ballard |
 | 440 | 103 | Alizabeth Garcia |
-| 441 | 102 | medicjessi |
+| 441 | 103 | Butterpat |
 | 442 | 102 | Taisha Beasley |
 | 443 | 102 | Clever Patterner |
-| 444 | 102 | Kay |
-| 445 | 102 | Donna Bush |
-| 446 | 102 | Elena Marí |
-| 447 | 101 | Witty Fitblock |
-| 448 | 101 | Kandylands |
-| 449 | 101 | Bre Dee |
-| 450 | 101 | Lisa Pie |
-| 451 | 101 | Sarah Perry Cook |
-| 452 | 100 | George Marshburn |
-| 453 | 100 | Stotty |
-| 454 | 100 | Tricia Motika Cowan |
-| 455 | 100 | Linda Miltenburg |
-| 456 | 100 | CorieBe |
-| 457 | 100 | Jennifer Terrill |
+| 444 | 102 | medicjessi |
+| 445 | 102 | Kay |
+| 446 | 102 | Donna Bush |
+| 447 | 102 | Elena Marí |
+| 448 | 101 | Witty Fitblock |
+| 449 | 101 | Kandylands |
+| 450 | 101 | Bre Dee |
+| 451 | 101 | Lisa Pie |
+| 452 | 101 | Sarah Perry Cook |
+| 453 | 100 | George Marshburn |
+| 454 | 100 | Stotty |
+| 455 | 100 | Tricia Motika Cowan |
+| 456 | 100 | Linda Miltenburg |
+| 457 | 100 | CorieBe |
 | 458 | 100 | Jeri Anne Stormo-Toman |
 | 459 | 100 | Shy |
 | 460 | 100 | Melissa Brown |
@@ -471,8 +471,8 @@
 | 463 | 99 | Inez Nez |
 | 464 | 99 | Tamika Ashli Bonner |
 | 465 | 99 | Melissa Quinn |
-| 466 | 98 | Deva Marie Barber |
-| 467 | 98 | Mark Fitch Jr. |
+| 466 | 98 | Mark Fitch Jr. |
+| 467 | 98 | Deva Marie Barber |
 | 468 | 98 | katy |
 | 469 | 98 | Jacqueline Arce |
 | 470 | 97 | Dawn Marie Trujillo |
@@ -480,54 +480,54 @@
 | 472 | 96 | Jennifer Garcia |
 | 473 | 96 | Scrumptious |
 | 474 | 96 | Nessa Smith |
-| 475 | 95 | Tiffany Roberts |
-| 476 | 95 | Kari Smith |
+| 475 | 96 | Tre'nya Smith |
+| 476 | 95 | Tiffany Roberts |
 | 477 | 95 | Laurie Patrick |
-| 478 | 95 | EpicWizard |
-| 479 | 94 | Courtney Niichole |
-| 480 | 94 | Cranky Twistpiece |
-| 481 | 94 | Janae Harris |
-| 482 | 94 | Caiti O'Keefe |
-| 483 | 94 | Tre'nya Smith |
+| 478 | 95 | Kari Smith |
+| 479 | 95 | EpicWizard |
+| 480 | 94 | Courtney Niichole |
+| 481 | 94 | Cranky Twistpiece |
+| 482 | 94 | Janae Harris |
+| 483 | 94 | Caiti O'Keefe |
 | 484 | 94 | Reina Pagan |
 | 485 | 93 | Csigirlnc |
 | 486 | 93 | Dandy Cascade |
 | 487 | 93 | Boldy Striker |
 | 488 | 93 | Domo Dpn |
 | 489 | 92 | Rosy Perez |
-| 490 | 92 | Hasty Dropzone |
-| 491 | 92 | MrLoner Stoner |
-| 492 | 92 | my my |
+| 490 | 92 | MrLoner Stoner |
+| 491 | 92 | my my |
+| 492 | 92 | Hasty Dropzone |
 | 493 | 92 | Giggly Column |
 | 494 | 92 | Autumn Maher |
 | 495 | 92 | William Brooks |
 | 496 | 91 | Slinky Column |
 | 497 | 91 | Miss Beast |
-| 498 | 91 | Spicy Peach |
-| 499 | 91 | Happy Shatterfit |
-| 500 | 90 | Ricky Colvin |
+| 498 | 91 | Happy Shatterfit |
+| 499 | 91 | Spicy Peach |
+| 500 | 90 | Dexter Hammond Jr |
 | 501 | 90 | Codey Haffner |
 | 502 | 90 | Alex Armour |
 | 503 | 90 | Joshua Garner |
-| 504 | 90 | Dexter Hammond Jr |
+| 504 | 90 | Ricky Colvin |
 | 505 | 90 | Garden Girlie |
 | 506 | 90 | Candiecane324 |
 | 507 | 89 | Mmm |
 | 508 | 89 | Tammy Wells |
-| 509 | 89 | Bon Jovi |
+| 509 | 89 | Mrs |
 | 510 | 89 | Jen Roe |
-| 511 | 89 | Mrs |
-| 512 | 88 | Happy Toast |
+| 511 | 89 | Bon Jovi |
+| 512 | 88 | Silly Fallzone |
 | 513 | 88 | Nikcole Alexis Bryan |
-| 514 | 88 | Silly Fallzone |
+| 514 | 88 | Happy Toast |
 | 515 | 88 | Mrsjcraw18 |
 | 516 | 87 | Tiffany Taylor |
 | 517 | 87 | da1ndonly |
 | 518 | 87 | Fancy Rollfit |
-| 519 | 87 | Loretta Hendricks |
+| 519 | 87 | YenSid |
 | 520 | 87 | Breezy Wife |
 | 521 | 87 | Limbo |
-| 522 | 87 | YenSid |
+| 522 | 87 | Loretta Hendricks |
 | 523 | 86 | Swanky Builderline |
 | 524 | 86 | Wacky Brick |
 | 525 | 86 | Brandi Sauer |

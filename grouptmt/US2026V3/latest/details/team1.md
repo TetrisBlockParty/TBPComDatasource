@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 12:54:40 UTC
+# Standings for team1 as of 2026-06-07 12:55:18 UTC
 
 **Total Participants:** 1456
 
@@ -735,73 +735,73 @@
 | 727 | 59 | Tonny Williams |
 | 728 | 59 | Felicia Woods |
 | 729 | 59 | Darrel Pemberton |
-| 730 | 59 | Danny M GR |
-| 731 | 59 | Sugar Foot |
+| 730 | 59 | Fatty May |
+| 731 | 59 | Danny M GR |
 | 732 | 59 | Elizabeth Hopkins |
-| 733 | 59 | Fatty May |
-| 734 | 58 | CoaCoa Myles |
+| 733 | 59 | Sugar Foot |
+| 734 | 58 | Alexandrla Smith |
 | 735 | 58 | Brandy Way |
 | 736 | 58 | NickyJay Jones |
 | 737 | 58 | Gabriela Hernandez |
-| 738 | 58 | Alexandrla Smith |
-| 739 | 57 | Angela L Charles |
-| 740 | 57 | Christy Quick |
-| 741 | 57 | Pinky Pink |
-| 742 | 57 | Kenny 'Tailormade' Boyd |
-| 743 | 57 | Danny Talbot |
-| 744 | 57 | Karen Denen |
-| 745 | 57 | Desire Rice |
-| 746 | 56 | Kyle Conley |
-| 747 | 56 | jeremy92 |
-| 748 | 56 | Lisa Ivy |
+| 738 | 58 | CoaCoa Myles |
+| 739 | 57 | Kenny 'Tailormade' Boyd |
+| 740 | 57 | Pinky Pink |
+| 741 | 57 | Christy Quick |
+| 742 | 57 | Desire Rice |
+| 743 | 57 | Karen Denen |
+| 744 | 57 | Danny Talbot |
+| 745 | 57 | Angela L Charles |
+| 746 | 56 | Lisa Ivy |
+| 747 | 56 | Kyle Conley |
+| 748 | 56 | jeremy92 |
 | 749 | 56 | Quwana Hall |
 | 750 | 56 | Chanel White |
-| 751 | 56 | Sally Elizabeth Hopson |
+| 751 | 56 | Nona Harriel |
 | 752 | 56 | Maria Baez Medina |
 | 753 | 56 | QueenzMo |
-| 754 | 56 | Nona Harriel |
-| 755 | 55 | PSD |
-| 756 | 55 | nameno |
-| 757 | 55 | Witty Clear |
-| 758 | 55 | Jane Lame |
-| 759 | 55 | Kyle Franklin |
+| 754 | 56 | Sally Elizabeth Hopson |
+| 755 | 55 | Vernon Hoyt |
+| 756 | 55 | Witty Clear |
+| 757 | 55 | Jane Lame |
+| 758 | 55 | Kyle Franklin |
+| 759 | 55 | Betsy B. Yohan |
 | 760 | 55 | KoolKimJay |
-| 761 | 55 | Shakmar |
-| 762 | 55 | Vernon Hoyt |
-| 763 | 54 | John Spath |
-| 764 | 54 | deeno |
+| 761 | 55 | nameno |
+| 762 | 55 | PSD |
+| 763 | 55 | Shakmar |
+| 764 | 54 | Katness |
 | 765 | 54 | Bubbly Slammer |
-| 766 | 54 | Embracing Hair |
-| 767 | 54 | Dennis Ripley |
-| 768 | 54 | Katness |
-| 769 | 54 | Markeita Jones |
-| 770 | 54 | Felicia Yahuah Johnson |
+| 766 | 54 | Dennis Ripley |
+| 767 | 54 | Embracing Hair |
+| 768 | 54 | deeno |
+| 769 | 54 | John Spath |
+| 770 | 54 | Markeita Jones |
 | 771 | 54 | Kashh |
-| 772 | 54 | Antoinette Kelly |
-| 773 | 54 | Ace Hardware |
-| 774 | 53 | Williams Candace |
-| 775 | 53 | Haakuu |
-| 776 | 53 | Heather Wilson |
-| 777 | 53 | brite |
+| 772 | 54 | Felicia Yahuah Johnson |
+| 773 | 54 | Antoinette Kelly |
+| 774 | 54 | Ace Hardware |
+| 775 | 53 | Williams Candace |
+| 776 | 53 | Haakuu |
+| 777 | 53 | Heather Wilson |
 | 778 | 53 | Barbramerri Tarboro |
-| 779 | 53 | Xrandomx |
-| 780 | 53 | Shona ShayShay Jones |
-| 781 | 53 | Morenita Rodriguez |
-| 782 | 53 | Clever Wrecker |
-| 783 | 52 | Giggy Holder |
-| 784 | 52 | Kiki |
+| 779 | 53 | brite |
+| 780 | 53 | Xrandomx |
+| 781 | 53 | Shona ShayShay Jones |
+| 782 | 53 | Morenita Rodriguez |
+| 783 | 53 | Clever Wrecker |
+| 784 | 52 | Giggy Holder |
 | 785 | 52 | Loopy Risepiece |
-| 786 | 52 | Tray Tolliver |
+| 786 | 52 | Kiki |
 | 787 | 52 | Kyra Coleman |
-| 788 | 52 | Chummy Liner |
-| 789 | 52 | Abdul Malik |
-| 790 | 52 | Raymond Boosie Freeman |
-| 791 | 52 | Tootsie Pop |
-| 792 | 51 | Bunnie Celtavini |
+| 788 | 52 | Tray Tolliver |
+| 789 | 52 | Chummy Liner |
+| 790 | 52 | Abdul Malik |
+| 791 | 52 | Raymond Boosie Freeman |
+| 792 | 52 | Tootsie Pop |
 | 793 | 51 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 794 | 51 | BrettanMary Adkins |
-| 795 | 51 | messyboots |
-| 796 | 51 | Betsy B. Yohan |
+| 794 | 51 | Bunnie Celtavini |
+| 795 | 51 | BrettanMary Adkins |
+| 796 | 51 | messyboots |
 | 797 | 51 | Shanjerrica Taylor Rosell |
 | 798 | 51 | Evelyn Epps |
 | 799 | 51 | Boldy Matchfit |
