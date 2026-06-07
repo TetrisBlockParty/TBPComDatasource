@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 01:38:17 UTC
+# Standings for team2 as of 2026-06-07 01:38:42 UTC
 
 **Total Participants:** 1501
 
@@ -196,8 +196,8 @@
 | 188 | 250 | marsam |
 | 189 | 247 | Fudgie Pie |
 | 190 | 247 | Brittni Lawrence |
-| 191 | 246 | Brooke Lynn Marie Adelaide |
-| 192 | 244 | Melissa Thomas |
+| 191 | 247 | Melissa Thomas |
+| 192 | 246 | Brooke Lynn Marie Adelaide |
 | 193 | 241 | Boldy Wobbler |
 | 194 | 240 | Iesha Cupil |
 | 195 | 236 | Lush Party |
@@ -283,12 +283,12 @@
 | 275 | 168 | Danielle Lyons |
 | 276 | 166 | Jenny |
 | 277 | 165 | Chasity Simpson |
-| 278 | 164 | Avie Lou |
-| 279 | 164 | Cara Rivera |
-| 280 | 163 | Zany Cascader |
-| 281 | 162 | Nutty Curver |
-| 282 | 161 | Theresa Huddleston |
-| 283 | 160 | Thomas Tyrone |
+| 278 | 165 | Thomas Tyrone |
+| 279 | 164 | Avie Lou |
+| 280 | 164 | Cara Rivera |
+| 281 | 163 | Zany Cascader |
+| 282 | 162 | Nutty Curver |
+| 283 | 161 | Theresa Huddleston |
 | 284 | 160 | Elizabeth Cornelius |
 | 285 | 159 | Amanda Priddy |
 | 286 | 158 | Rachel Nilles |

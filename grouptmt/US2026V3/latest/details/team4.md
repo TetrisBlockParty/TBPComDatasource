@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 01:38:17 UTC
+# Standings for team4 as of 2026-06-07 01:38:42 UTC
 
 **Total Participants:** 1254
 
@@ -36,8 +36,8 @@
 | 28 | 1622 | kcknbtz |
 | 29 | 1497 | Bubbly Twistpiece |
 | 30 | 1400 | Michele |
-| 31 | 1360 | Cal Renee |
-| 32 | 1354 | Squirrel Donkey |
+| 31 | 1374 | Squirrel Donkey |
+| 32 | 1360 | Cal Renee |
 | 33 | 1333 | Alexandria Frazier |
 | 34 | 1265 | Leigh Pierce |
 | 35 | 1249 | Charlie Lewis |
@@ -372,28 +372,28 @@
 | 364 | 96 | Cheeky Fallzone |
 | 365 | 95 | Laurie Patrick |
 | 366 | 95 | Mark Fitch Jr. |
-| 367 | 94 | Karen Rodriguez |
-| 368 | 94 | Reina Pagan |
+| 367 | 94 | Mighty1 |
+| 368 | 94 | Janae Harris |
 | 369 | 94 | Diana Fernandez |
-| 370 | 94 | Janae Harris |
-| 371 | 94 | Mighty1 |
+| 370 | 94 | Reina Pagan |
+| 371 | 94 | Karen Rodriguez |
 | 372 | 93 | Dandy Cascade |
 | 373 | 93 | Loopy Hitter |
-| 374 | 92 | William Brooks |
-| 375 | 92 | my my |
-| 376 | 92 | Miwa |
-| 377 | 91 | Happy Shatterfit |
+| 374 | 92 | my my |
+| 375 | 92 | Miwa |
+| 376 | 92 | William Brooks |
+| 377 | 92 | Rosy Perez |
 | 378 | 91 | Drh4090 |
-| 379 | 91 | Miss Beast |
-| 380 | 91 | Chonda OhanaMomma Michelle |
-| 381 | 90 | Witty Fitblock |
-| 382 | 90 | Garden Girlie |
-| 383 | 90 | Flashy Shatterer |
-| 384 | 90 | Dexter Hammond Jr |
-| 385 | 90 | Codey Haffner |
-| 386 | 90 | 1694AF |
-| 387 | 90 | Aaron Turner |
-| 388 | 89 | Rosy Perez |
+| 379 | 91 | Happy Shatterfit |
+| 380 | 91 | Miss Beast |
+| 381 | 91 | Chonda OhanaMomma Michelle |
+| 382 | 90 | Witty Fitblock |
+| 383 | 90 | Garden Girlie |
+| 384 | 90 | Flashy Shatterer |
+| 385 | 90 | Dexter Hammond Jr |
+| 386 | 90 | Codey Haffner |
+| 387 | 90 | 1694AF |
+| 388 | 90 | Aaron Turner |
 | 389 | 89 | Mrs |
 | 390 | 89 | Chirpy Snapclear |
 | 391 | 89 | Bon Jovi |
@@ -946,44 +946,44 @@
 | 938 | 26 | Rebecca Rae Reed |
 | 939 | 26 | Lacey Decker |
 | 940 | 26 | Kevin Lyles |
-| 941 | 26 | Kimberly Ann |
-| 942 | 26 | LandO |
-| 943 | 26 | MsChelleAnn |
-| 944 | 26 | Leslie Marie WarClub |
-| 945 | 26 | Rob$GEE |
-| 946 | 26 | Jessica Huber |
-| 947 | 26 | Kasey Lynne |
-| 948 | 26 | Rebecca Sloan |
-| 949 | 26 | Thomas Cassell |
-| 950 | 26 | beTrue76 |
+| 941 | 26 | ImagineKaijus |
+| 942 | 26 | Kimberly Ann |
+| 943 | 26 | LandO |
+| 944 | 26 | MsChelleAnn |
+| 945 | 26 | Leslie Marie WarClub |
+| 946 | 26 | Rob$GEE |
+| 947 | 26 | Jessica Huber |
+| 948 | 26 | Kasey Lynne |
+| 949 | 26 | Rebecca Sloan |
+| 950 | 26 | Thomas Cassell |
 | 951 | 26 | Judea Leblanc |
-| 952 | 25 | Travis McKinnon |
-| 953 | 25 | Kristie ML SneekaPuff |
-| 954 | 25 | Jim Stewart |
-| 955 | 25 | Lionel Hampton |
-| 956 | 25 | chapis |
-| 957 | 25 | Chabetta |
-| 958 | 25 | moonman33 |
-| 959 | 25 | Jada Jordyn Campbell |
-| 960 | 25 | Giggy Mover |
-| 961 | 25 | Alicia Horsea Rojas |
-| 962 | 25 | Daisy Jaramillo |
-| 963 | 25 | Kendall Rhodie |
-| 964 | 25 | Love GH |
-| 965 | 24 | Agent |
-| 966 | 24 | Ja'Net Riley |
-| 967 | 24 | Ferlyz |
-| 968 | 24 | Kellz M Bee |
-| 969 | 24 | Twisty Gridclear |
-| 970 | 24 | Katiana Gonzalez |
-| 971 | 24 | Tiffany Taylor |
-| 972 | 24 | ImagineKaijus |
-| 973 | 24 | Socorro Arredondo |
-| 974 | 24 | Lawrissa Andrews |
+| 952 | 26 | beTrue76 |
+| 953 | 25 | Daisy Jaramillo |
+| 954 | 25 | chapis |
+| 955 | 25 | Chabetta |
+| 956 | 25 | Jada Jordyn Campbell |
+| 957 | 25 | moonman33 |
+| 958 | 25 | Kendall Rhodie |
+| 959 | 25 | Giggy Mover |
+| 960 | 25 | Alicia Horsea Rojas |
+| 961 | 25 | Lionel Hampton |
+| 962 | 25 | Travis McKinnon |
+| 963 | 25 | Jim Stewart |
+| 964 | 25 | Kristie ML SneekaPuff |
+| 965 | 25 | Love GH |
+| 966 | 24 | Tiffany Taylor |
+| 967 | 24 | Ja'Net Riley |
+| 968 | 24 | Twisty Gridclear |
+| 969 | 24 | Agent |
+| 970 | 24 | Lawrissa Andrews |
+| 971 | 24 | Socorro Arredondo |
+| 972 | 24 | Katiana Gonzalez |
+| 973 | 24 | Kellz M Bee |
+| 974 | 24 | Ferlyz |
 | 975 | 23 | Sara Cobb |
-| 976 | 23 | Trishaann Triplett |
-| 977 | 23 | Monika Webb |
-| 978 | 23 | Bam SwaggSpitter King |
+| 976 | 23 | Monika Webb |
+| 977 | 23 | Bam SwaggSpitter King |
+| 978 | 23 | Trishaann Triplett |
 | 979 | 23 | Lush Balanceblock |
 | 980 | 23 | Carole Dyment Westcott |
 | 981 | 23 | Musky Pits |
