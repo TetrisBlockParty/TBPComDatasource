@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 07:04:39 UTC
+# Standings for team2 as of 2026-06-07 07:05:18 UTC
 
 **Total Participants:** 1665
 
@@ -109,8 +109,8 @@
 | 101 | 629 | Mirr Lulu |
 | 102 | 627 | Le Sandy |
 | 103 | 620 | Amber-leigh Williams |
-| 104 | 612 | Josh Twilley |
-| 105 | 609 | Alison Waller |
+| 104 | 613 | Alison Waller |
+| 105 | 612 | Josh Twilley |
 | 106 | 600 | LEW |
 | 107 | 592 | Brandon Link |
 | 108 | 588 | Kellie Sharp Godfrey |
