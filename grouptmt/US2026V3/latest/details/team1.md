@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 05:34:40 UTC
+# Standings for team1 as of 2026-06-07 05:35:18 UTC
 
 **Total Participants:** 1378
 
@@ -443,16 +443,16 @@
 | 435 | 92 | Eric Spencer Whitaker |
 | 436 | 92 | Slinky Clearzone |
 | 437 | 92 | The DUBZ |
-| 438 | 92 | Pretty Yella |
-| 439 | 91 | Wacky Wipepiece |
-| 440 | 91 | Mighty Dropper |
-| 441 | 90 | crumb bumc |
-| 442 | 90 | Tessa Gaskin |
-| 443 | 90 | Shameka Tiffany |
-| 444 | 90 | Lilly Brown |
-| 445 | 90 | Nora Mahmoud |
-| 446 | 90 | Yashica Smith |
-| 447 | 90 | La'Chae Nickole |
+| 438 | 92 | La'Chae Nickole |
+| 439 | 92 | Pretty Yella |
+| 440 | 91 | Wacky Wipepiece |
+| 441 | 91 | Mighty Dropper |
+| 442 | 90 | crumb bumc |
+| 443 | 90 | Tessa Gaskin |
+| 444 | 90 | Shameka Tiffany |
+| 445 | 90 | Lilly Brown |
+| 446 | 90 | Nora Mahmoud |
+| 447 | 90 | Yashica Smith |
 | 448 | 90 | Jjhandsome |
 | 449 | 89 | Jenni Hardman |
 | 450 | 89 | Zany Breaker |
@@ -511,63 +511,63 @@
 | 503 | 80 | Chevalier Burley |
 | 504 | 80 | Charles Johnson |
 | 505 | 80 | Christopher L Crites |
-| 506 | 80 | Big Bovice |
-| 507 | 80 | Giggy Edgefit |
-| 508 | 80 | Lisa420 |
-| 509 | 80 | NedaWin |
-| 510 | 80 | Gerold Folk Haddock |
-| 511 | 80 | Lester Malone |
+| 506 | 80 | Giggy Edgefit |
+| 507 | 80 | Gerold Folk Haddock |
+| 508 | 80 | Lester Malone |
+| 509 | 80 | Big Bovice |
+| 510 | 80 | NedaWin |
+| 511 | 80 | Lisa420 |
 | 512 | 79 | Montréal Mars |
 | 513 | 79 | Douglas Price |
 | 514 | 79 | Nerdy Climber |
 | 515 | 79 | Sarah Swietlicki - Lopez |
 | 516 | 79 | Tracy Feyler |
-| 517 | 78 | Azeiare Ziare |
+| 517 | 78 | KeeKee Williams |
 | 518 | 78 | Solomon Valarie |
-| 519 | 78 | KeeKee Williams |
+| 519 | 78 | Azeiare Ziare |
 | 520 | 78 | Ryan Runyan |
 | 521 | 77 | Bobby Chestefield |
 | 522 | 77 | Dawn Basemore |
-| 523 | 76 | Giggly Shatterline |
-| 524 | 76 | Essence Jones |
+| 523 | 76 | Essence Jones |
+| 524 | 76 | Giggly Shatterline |
 | 525 | 76 | Angelique Talbot |
-| 526 | 75 | Jimmy Shannon |
+| 526 | 75 | 大竹直之 |
 | 527 | 75 | sasha |
-| 528 | 75 | Courtney Robinson |
-| 529 | 74 | Kimmie Gargano |
+| 528 | 75 | Jimmy Shannon |
+| 529 | 75 | Courtney Robinson |
 | 530 | 74 | Cortrell Foster |
-| 531 | 74 | Glitzy Clusterer |
-| 532 | 74 | Sabrina Wilkerson |
+| 531 | 74 | Kimmie Gargano |
+| 532 | 74 | Sunny Clicky |
 | 533 | 74 | Nichelle Warren |
-| 534 | 74 | Sunny Clicky |
+| 534 | 74 | Glitzy Clusterer |
 | 535 | 74 | Tetrisdestroyer |
-| 536 | 73 | Jenna Renee |
-| 537 | 72 | JesusSaves 😇 |
-| 538 | 72 | Marlainia Boyd |
-| 539 | 72 | Sharee Robinson |
-| 540 | 72 | Rachel Renae Bettis |
-| 541 | 72 | Comedian Gdane |
-| 542 | 72 | Lauraly |
-| 543 | 72 | Poppy Twister |
-| 544 | 71 | HBTone |
-| 545 | 71 | Tori Carter |
-| 546 | 71 | KimChii |
+| 536 | 74 | Sabrina Wilkerson |
+| 537 | 73 | Jenna Renee |
+| 538 | 72 | Lauraly |
+| 539 | 72 | Marlainia Boyd |
+| 540 | 72 | Poppy Twister |
+| 541 | 72 | JesusSaves 😇 |
+| 542 | 72 | Comedian Gdane |
+| 543 | 72 | Rachel Renae Bettis |
+| 544 | 72 | Sharee Robinson |
+| 545 | 71 | HBTone |
+| 546 | 71 | Tori Carter |
 | 547 | 71 | akosua |
-| 548 | 71 | Abigail Newman Sweet |
-| 549 | 70 | Saucy Faller |
+| 548 | 71 | KimChii |
+| 549 | 71 | Abigail Newman Sweet |
 | 550 | 70 | Marshall Davis |
-| 551 | 70 | Guard Up |
-| 552 | 70 | Shea Ladynick Henderson |
-| 553 | 70 | Smøke DGAF |
-| 554 | 70 | Daddy |
-| 555 | 70 | West Racks |
-| 556 | 69 | Jose Rodriguez |
-| 557 | 69 | Rochelle Nash-Evans |
-| 558 | 69 | Adrian Harris |
-| 559 | 69 | Sara |
-| 560 | 68 | Dreamzzz |
-| 561 | 68 | Zappy Snapgrid |
-| 562 | 68 | 大竹直之 |
+| 551 | 70 | Shea Ladynick Henderson |
+| 552 | 70 | Guard Up |
+| 553 | 70 | Saucy Faller |
+| 554 | 70 | Smøke DGAF |
+| 555 | 70 | Daddy |
+| 556 | 70 | West Racks |
+| 557 | 69 | Jose Rodriguez |
+| 558 | 69 | Rochelle Nash-Evans |
+| 559 | 69 | Adrian Harris |
+| 560 | 69 | Sara |
+| 561 | 68 | Dreamzzz |
+| 562 | 68 | Zappy Snapgrid |
 | 563 | 68 | Lakiesha Crawford |
 | 564 | 68 | Brenda Malachi-butler |
 | 565 | 68 | Sallie Sanborn |

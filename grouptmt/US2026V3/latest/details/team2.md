@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 05:34:40 UTC
+# Standings for team2 as of 2026-06-07 05:35:18 UTC
 
 **Total Participants:** 1635
 
@@ -38,7 +38,7 @@
 | 30 | 2700 | boblawboblaw |
 | 31 | 2640 | Sean Rippa |
 | 32 | 2500 | Anthony Lilley |
-| 33 | 2423 | Quirky Catcher |
+| 33 | 2433 | Quirky Catcher |
 | 34 | 2287 | Christina Jambard Sampier |
 | 35 | 2210 | Bea Bee |
 | 36 | 2133 | Frisky Balanceblock |
@@ -125,9 +125,9 @@
 | 117 | 537 | Nettrainer |
 | 118 | 516 | Amber Miller Wirick |
 | 119 | 515 | Loony Faller |
-| 120 | 500 | Courtney McCulley |
-| 121 | 500 | Suki Kaur |
-| 122 | 487 | Amanda Sikes |
+| 120 | 507 | Amanda Sikes |
+| 121 | 500 | Courtney McCulley |
+| 122 | 500 | Suki Kaur |
 | 123 | 486 | Jackie Tupper |
 | 124 | 483 | Karen Reid Cenkush |
 | 125 | 477 | Amy Gale |
