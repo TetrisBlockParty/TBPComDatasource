@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 02:12:18 UTC
+# Standings for team2 as of 2026-06-07 02:12:39 UTC
 
 **Total Participants:** 1527
 
@@ -40,9 +40,9 @@
 | 32 | 2133 | Frisky Balanceblock |
 | 33 | 2048 | Ber |
 | 34 | 2032 | Andrew Weissenborn |
-| 35 | 1957 | Lola C Davis |
-| 36 | 1906 | Jennifer Corder |
-| 37 | 1900 | Danni Campa |
+| 35 | 2000 | Danni Campa |
+| 36 | 1957 | Lola C Davis |
+| 37 | 1906 | Jennifer Corder |
 | 38 | 1841 | Frilly Match |
 | 39 | 1835 | Elizabeth Mooney |
 | 40 | 1820 | Tom Badgley |
