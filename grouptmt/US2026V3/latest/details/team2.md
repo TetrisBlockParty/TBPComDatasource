@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 00:46:19 UTC
+# Standings for team2 as of 2026-06-07 00:46:40 UTC
 
 **Total Participants:** 1484
 
@@ -28,7 +28,7 @@
 | 20 | 3514 | Traci Elizabeth |
 | 21 | 3181 | Bobbi |
 | 22 | 3148 | Kathleen M Cox |
-| 23 | 2735 | Ashley Miller |
+| 23 | 2809 | Ashley Miller |
 | 24 | 2701 | Charles Varca |
 | 25 | 2700 | boblawboblaw |
 | 26 | 2620 | Sean Rippa |
@@ -169,7 +169,7 @@
 | 161 | 292 | James Ward |
 | 162 | 291 | Flashy Twistline |
 | 163 | 284 | Sigmamom |
-| 164 | 282 | Renee Freeman Jacobson |
+| 164 | 283 | Renee Freeman Jacobson |
 | 165 | 280 | Patricia Carroll |
 | 166 | 280 | Brittney Williams |
 | 167 | 278 | Ashley Billiot Rhodes |
@@ -835,52 +835,52 @@
 | 827 | 42 | Aubrey Gates |
 | 828 | 42 | Melissa Pronovost |
 | 829 | 41 | AndrewandShela Gornik |
-| 830 | 41 | Jolene Hull Hearn |
-| 831 | 41 | Baby |
-| 832 | 41 | Silly Swiper |
-| 833 | 41 | Frilly Dashfit |
-| 834 | 41 | Jenny Coffer |
-| 835 | 41 | Shaylee Haltiner |
-| 836 | 41 | Gino Positano |
-| 837 | 41 | Cranky Brickzone |
-| 838 | 41 | Meagan Thompson |
-| 839 | 41 | Witty Brickster |
-| 840 | 41 | KS Hengesbach |
-| 841 | 41 | Kodi Gay |
+| 830 | 41 | Silly Swiper |
+| 831 | 41 | Jolene Hull Hearn |
+| 832 | 41 | Baby |
+| 833 | 41 | Lil G |
+| 834 | 41 | Frilly Dashfit |
+| 835 | 41 | Jenny Coffer |
+| 836 | 41 | Shaylee Haltiner |
+| 837 | 41 | Gino Positano |
+| 838 | 41 | Cranky Brickzone |
+| 839 | 41 | Meagan Thompson |
+| 840 | 41 | Witty Brickster |
+| 841 | 41 | KS Hengesbach |
 | 842 | 41 | Tracey Cox |
 | 843 | 41 | Clever Gridzone |
-| 844 | 40 | Courtney Ribas |
-| 845 | 40 | C.L. Deslongchamp |
-| 846 | 40 | Spicy Balanceblock |
-| 847 | 40 | Jenny Bishop |
-| 848 | 40 | Ashley Bennett |
+| 844 | 41 | Kodi Gay |
+| 845 | 40 | Spicy Balanceblock |
+| 846 | 40 | Jenny Bishop |
+| 847 | 40 | Ashley Bennett |
+| 848 | 40 | Sharilyn Jackson |
 | 849 | 40 | Heather Lewis |
 | 850 | 40 | Justtony Fareal |
-| 851 | 40 | Sharilyn Jackson |
-| 852 | 40 | Val |
-| 853 | 40 | Kacey Bates |
-| 854 | 40 | Ahada Seber |
-| 855 | 40 | Patty Ann Hendrickson |
-| 856 | 40 | Elicia Lloyd-Zazweta |
+| 851 | 40 | Val |
+| 852 | 40 | Kacey Bates |
+| 853 | 40 | Ahada Seber |
+| 854 | 40 | Patty Ann Hendrickson |
+| 855 | 40 | Elicia Lloyd-Zazweta |
+| 856 | 40 | C.L. Deslongchamp |
 | 857 | 40 | Jeremy Daurbigny |
 | 858 | 40 | Helen Townsend |
-| 859 | 40 | Missy Stevens |
-| 860 | 40 | Ariya Colson |
-| 861 | 40 | Debbie Davis |
-| 862 | 40 | Deena-Neal Peryer |
-| 863 | 40 | Kristy Moore |
-| 864 | 40 | Jessica Garoutte |
-| 865 | 40 | fancypants |
-| 866 | 40 | Marilyn Strickland |
-| 867 | 40 | Brandi Williams |
-| 868 | 40 | Shay Lynn King |
-| 869 | 40 | Cassafrass |
-| 870 | 39 | Shiny Matchpiece |
-| 871 | 39 | Samantha Brown |
-| 872 | 39 | Lil G |
-| 873 | 39 | Slinky Towerpiece |
-| 874 | 39 | Giddy Chiseler |
-| 875 | 39 | KCBlocker |
+| 859 | 40 | Ariya Colson |
+| 860 | 40 | Cassafrass |
+| 861 | 40 | Shay Lynn King |
+| 862 | 40 | Brandi Williams |
+| 863 | 40 | Marilyn Strickland |
+| 864 | 40 | fancypants |
+| 865 | 40 | Jessica Garoutte |
+| 866 | 40 | Kristy Moore |
+| 867 | 40 | Deena-Neal Peryer |
+| 868 | 40 | Debbie Davis |
+| 869 | 40 | Missy Stevens |
+| 870 | 40 | Courtney Ribas |
+| 871 | 39 | KCBlocker |
+| 872 | 39 | Slinky Towerpiece |
+| 873 | 39 | Giddy Chiseler |
+| 874 | 39 | Samantha Brown |
+| 875 | 39 | Shiny Matchpiece |
 | 876 | 39 | Vicki Flippo |
 | 877 | 39 | Amanda Bailey |
 | 878 | 39 | Rae |
