@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 11:54:39 UTC
+# Standings for team2 as of 2026-06-07 11:55:18 UTC
 
 **Total Participants:** 1712
 
@@ -22,7 +22,7 @@
 | 14 | 4800 | Crafty Ziggy |
 | 15 | 4668 | Lola C Davis |
 | 16 | 4355 | Alexia Reagan |
-| 17 | 4027 | Kathleen M Cox |
+| 17 | 4160 | Kathleen M Cox |
 | 18 | 3997 | Ber |
 | 19 | 3984 | Amber |
 | 20 | 3950 | Erica Dees Parks |
@@ -815,28 +815,28 @@
 | 807 | 60 | Nikki Grant |
 | 808 | 60 | Audrey Morris |
 | 809 | 60 | MattandAngie Hopkins |
-| 810 | 59 | Funko Dave |
-| 811 | 59 | Sandra Rotton Bragg |
-| 812 | 59 | WestieMom |
-| 813 | 59 | James Moore |
-| 814 | 59 | April Addis |
-| 815 | 59 | Buddy |
-| 816 | 59 | Carrie Smith Negron |
-| 817 | 59 | Kayley |
-| 818 | 59 | LaicoosBargains Ln |
-| 819 | 59 | Jenn Mccarty |
-| 820 | 59 | Jessica Spivey Cooper |
-| 821 | 59 | R.w. Buck |
-| 822 | 58 | Pjrobinsonnn |
-| 823 | 58 | Slinky Winder |
-| 824 | 58 | Brian Little |
-| 825 | 58 | Lindsey Davidson |
-| 826 | 58 | Sassy Patternblock |
-| 827 | 58 | Shanetta Johnson |
-| 828 | 58 | Tanya Goodwin |
-| 829 | 58 | Missy Savage-Justice |
-| 830 | 58 | Giddy Chiseler |
-| 831 | 58 | Twisty Buildgrid |
+| 810 | 60 | Twisty Buildgrid |
+| 811 | 59 | Funko Dave |
+| 812 | 59 | Sandra Rotton Bragg |
+| 813 | 59 | WestieMom |
+| 814 | 59 | James Moore |
+| 815 | 59 | April Addis |
+| 816 | 59 | Buddy |
+| 817 | 59 | Carrie Smith Negron |
+| 818 | 59 | Kayley |
+| 819 | 59 | LaicoosBargains Ln |
+| 820 | 59 | Jenn Mccarty |
+| 821 | 59 | Jessica Spivey Cooper |
+| 822 | 59 | R.w. Buck |
+| 823 | 58 | Pjrobinsonnn |
+| 824 | 58 | Slinky Winder |
+| 825 | 58 | Brian Little |
+| 826 | 58 | Lindsey Davidson |
+| 827 | 58 | Sassy Patternblock |
+| 828 | 58 | Shanetta Johnson |
+| 829 | 58 | Tanya Goodwin |
+| 830 | 58 | Missy Savage-Justice |
+| 831 | 58 | Giddy Chiseler |
 | 832 | 57 | Brandi Vandevanter-Duke |
 | 833 | 57 | YUKITATA |
 | 834 | 57 | Silly Swiper |
