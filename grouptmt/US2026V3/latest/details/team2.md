@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 10:14:17 UTC
+# Standings for team2 as of 2026-06-07 10:14:40 UTC
 
 **Total Participants:** 1697
 
@@ -56,7 +56,7 @@
 | 48 | 1803 | Julie Trede Amerson |
 | 49 | 1692 | Matt Hardin |
 | 50 | 1678 | Betty Barrett |
-| 51 | 1657 | Heather Marie-Tarlton Britt |
+| 51 | 1668 | Heather Marie-Tarlton Britt |
 | 52 | 1606 | Nerdy Glidepiece |
 | 53 | 1531 | Happy Pivotfall |
 | 54 | 1510 | Shandrea Crawford |
@@ -229,35 +229,35 @@
 | 221 | 259 | Angie Kowalsky Olson |
 | 222 | 257 | Xandrea Jones |
 | 223 | 257 | Dallas Runyan |
-| 224 | 253 | Marge Cromer |
-| 225 | 253 | Hilliary Beyer |
+| 224 | 253 | Hilliary Beyer |
+| 225 | 253 | Marge Cromer |
 | 226 | 252 | Kathy Strickland |
-| 227 | 250 | Happy Drop |
-| 228 | 250 | Nikki EightySixed |
-| 229 | 250 | Iesha Cupil |
-| 230 | 250 | marsam |
-| 231 | 247 | Brittni Lawrence |
+| 227 | 251 | Sully |
+| 228 | 250 | Happy Drop |
+| 229 | 250 | Nikki EightySixed |
+| 230 | 250 | Iesha Cupil |
+| 231 | 250 | marsam |
 | 232 | 247 | Melissa Thomas |
-| 233 | 246 | Brooke Lynn Marie Adelaide |
-| 234 | 246 | Elizabeth Henry |
-| 235 | 241 | Boldy Wobbler |
-| 236 | 240 | PaiBri |
-| 237 | 239 | Norma Ortiz |
-| 238 | 237 | Michelle Luke Banta |
-| 239 | 236 | Lush Party |
-| 240 | 235 | Tami Kay Williams Watson |
-| 241 | 234 | Larry Cross |
-| 242 | 234 | AndyJo |
-| 243 | 233 | Amie Marks |
-| 244 | 233 | Jeanna Mendez |
-| 245 | 232 | Pam Bauder Ludwig |
-| 246 | 231 | Sully |
+| 233 | 247 | Brittni Lawrence |
+| 234 | 246 | Brooke Lynn Marie Adelaide |
+| 235 | 246 | Elizabeth Henry |
+| 236 | 241 | Boldy Wobbler |
+| 237 | 240 | PaiBri |
+| 238 | 239 | Norma Ortiz |
+| 239 | 237 | Michelle Luke Banta |
+| 240 | 236 | Lush Party |
+| 241 | 235 | Tami Kay Williams Watson |
+| 242 | 234 | Larry Cross |
+| 243 | 234 | AndyJo |
+| 244 | 233 | Amie Marks |
+| 245 | 233 | Jeanna Mendez |
+| 246 | 232 | Pam Bauder Ludwig |
 | 247 | 230 | Brandy Chinelle |
 | 248 | 230 | Kelly Vedder |
 | 249 | 228 | Lora Via |
 | 250 | 227 | Laura Melton |
-| 251 | 225 | Cheery Towerzone |
-| 252 | 225 | Jenny |
+| 251 | 225 | Jenny |
+| 252 | 225 | Cheery Towerzone |
 | 253 | 224 | Olivia Jefferson |
 | 254 | 224 | Kathleen Keogh Van Schoyck |
 | 255 | 223 | SilentBuffalo |
@@ -562,44 +562,44 @@
 | 554 | 90 | Ssirkus |
 | 555 | 90 | Naomi Jaynes |
 | 556 | 89 | Tami Weiss |
-| 557 | 89 | Patrick Woodard |
-| 558 | 88 | Amanda Bailey |
-| 559 | 88 | Chesney |
+| 557 | 89 | Gina Louise Parker |
+| 558 | 89 | Patrick Woodard |
+| 559 | 88 | Amanda Bailey |
 | 560 | 88 | Frilly Shiftsnap |
 | 561 | 88 | Holly Huval |
-| 562 | 87 | Julibeth Wells |
+| 562 | 88 | Chesney |
 | 563 | 87 | Sarah Jane Gorsuch |
 | 564 | 87 | Lee Leonard |
 | 565 | 87 | Tetrismastrr |
-| 566 | 87 | Gina Louise Parker |
+| 566 | 87 | Julibeth Wells |
 | 567 | 86 | Dad |
 | 568 | 86 | Nicole Ashbaugh |
 | 569 | 86 | bozzycat |
 | 570 | 86 | Susie Conger |
-| 571 | 85 | Tonya Marino |
-| 572 | 85 | Daisy Girl |
-| 573 | 85 | ChefDeb |
-| 574 | 85 | Frisky Linkbuilder |
-| 575 | 85 | Ginger Nesbitt |
-| 576 | 85 | Seamus |
-| 577 | 84 | Coleen Yoder |
-| 578 | 84 | Stoney McMillion |
+| 571 | 85 | Ginger Nesbitt |
+| 572 | 85 | Frisky Linkbuilder |
+| 573 | 85 | Tonya Marino |
+| 574 | 85 | Daisy Girl |
+| 575 | 85 | Seamus |
+| 576 | 85 | ChefDeb |
+| 577 | 84 | Stoney McMillion |
+| 578 | 84 | Coleen Yoder |
 | 579 | 84 | Shannon Posner |
 | 580 | 84 | Matt Wylie |
 | 581 | 83 | Morgan Olson Pingree |
 | 582 | 83 | Amber Marie |
-| 583 | 83 | TetrisMama |
+| 583 | 83 | Becky Kennon |
 | 584 | 83 | Dawnypooh |
-| 585 | 83 | Becky Kennon |
-| 586 | 83 | CATFISH |
-| 587 | 83 | Billy Pittman |
-| 588 | 83 | Louis Brudzinski |
-| 589 | 83 | Mouh Med |
-| 590 | 82 | Kimberly Brooks |
-| 591 | 82 | Kelly |
-| 592 | 82 | Madonna Ash |
-| 593 | 82 | Mikaela Byrd |
-| 594 | 82 | Kati Eckstein |
+| 585 | 83 | CATFISH |
+| 586 | 83 | Billy Pittman |
+| 587 | 83 | Louis Brudzinski |
+| 588 | 83 | Mouh Med |
+| 589 | 83 | TetrisMama |
+| 590 | 82 | Kati Eckstein |
+| 591 | 82 | Madonna Ash |
+| 592 | 82 | Kimberly Brooks |
+| 593 | 82 | Kelly |
+| 594 | 82 | Mikaela Byrd |
 | 595 | 81 | Robin Stutler |
 | 596 | 81 | Heather Hi |
 | 597 | 81 | Chris Delauro |
