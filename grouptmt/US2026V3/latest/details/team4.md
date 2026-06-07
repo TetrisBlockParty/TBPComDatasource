@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 19:41:19 UTC
+# Standings for team4 as of 2026-06-07 19:42:20 UTC
 
 **Total Participants:** 1587
 
@@ -156,11 +156,11 @@
 | 148 | 400 | DexterDobbins |
 | 149 | 400 | Elissa S-k |
 | 150 | 400 | Amber Doyle |
-| 151 | 397 | Danielle Mitchell |
-| 152 | 397 | Shiny Dashy |
-| 153 | 396 | Jackie Jackson |
-| 154 | 395 | Pepone Pepe |
-| 155 | 383 | Nicole |
+| 151 | 398 | Nicole |
+| 152 | 397 | Danielle Mitchell |
+| 153 | 397 | Shiny Dashy |
+| 154 | 396 | Jackie Jackson |
+| 155 | 395 | Pepone Pepe |
 | 156 | 379 | Devinlee Brown |
 | 157 | 379 | Taz |
 | 158 | 378 | Hwanger Land |
@@ -607,36 +607,36 @@
 | 599 | 90 | Dexter Hammond Jr |
 | 600 | 90 | Codey Haffner |
 | 601 | 90 | Joshua Garner |
-| 602 | 90 | Lolita Nettles |
-| 603 | 89 | Mmm |
-| 604 | 89 | Bon Jovi |
-| 605 | 89 | Fancy Rollfit |
-| 606 | 89 | Merritt Brandt |
-| 607 | 89 | Breezy Rollfit |
-| 608 | 89 | Jen Roe |
-| 609 | 89 | Tammy Wells |
-| 610 | 88 | Lizzzzzz |
-| 611 | 88 | Happy Toast |
-| 612 | 88 | Kat Foreman |
-| 613 | 88 | Mrsjcraw18 |
-| 614 | 88 | Nikcole Alexis Bryan |
+| 602 | 90 | Swanky Brickzone |
+| 603 | 90 | Lolita Nettles |
+| 604 | 89 | Tammy Wells |
+| 605 | 89 | Merritt Brandt |
+| 606 | 89 | Mmm |
+| 607 | 89 | Jen Roe |
+| 608 | 89 | Breezy Rollfit |
+| 609 | 89 | Fancy Rollfit |
+| 610 | 89 | Bon Jovi |
+| 611 | 88 | Nikcole Alexis Bryan |
+| 612 | 88 | Mrsjcraw18 |
+| 613 | 88 | Kat Foreman |
+| 614 | 88 | Happy Toast |
 | 615 | 88 | Dan Butcher |
-| 616 | 87 | da1ndonly |
-| 617 | 87 | Tiffany Taylor |
-| 618 | 87 | alxhue04 |
-| 619 | 87 | Swanky Brickzone |
-| 620 | 87 | Limbo |
-| 621 | 86 | Marisela Alvarado |
+| 616 | 88 | Lizzzzzz |
+| 617 | 87 | SueSally |
+| 618 | 87 | da1ndonly |
+| 619 | 87 | alxhue04 |
+| 620 | 87 | Tiffany Taylor |
+| 621 | 87 | Limbo |
 | 622 | 86 | Swanky Builderline |
 | 623 | 86 | Erich EMac McIntosh |
-| 624 | 86 | Brandi Sauer |
-| 625 | 86 | Michelle Michelle |
-| 626 | 86 | ManOfSteel |
-| 627 | 85 | Mrs Peabod |
-| 628 | 85 | Dolores Falco |
+| 624 | 86 | Marisela Alvarado |
+| 625 | 86 | Brandi Sauer |
+| 626 | 86 | Michelle Michelle |
+| 627 | 86 | ManOfSteel |
+| 628 | 85 | Mrs Peabod |
 | 629 | 85 | Jeff Seymour |
-| 630 | 85 | Zappy Tilemaker |
-| 631 | 85 | SueSally |
+| 630 | 85 | Dolores Falco |
+| 631 | 85 | Zappy Tilemaker |
 | 632 | 85 | bofe |
 | 633 | 85 | Angela Adamo-Tash |
 | 634 | 85 | Erik Clary |
@@ -697,49 +697,49 @@
 | 689 | 79 | Gean DeJesus |
 | 690 | 79 | Lindsey DeRosa |
 | 691 | 78 | Christopher Lindsey |
-| 692 | 78 | Mint Marquez |
-| 693 | 77 | Oc Tive |
-| 694 | 77 | Kellz M Bee |
-| 695 | 77 | Lilo |
-| 696 | 77 | Groovy Towerbuilder |
-| 697 | 77 | 94Blockhead |
+| 692 | 78 | Lilo |
+| 693 | 78 | Mint Marquez |
+| 694 | 77 | Ajohnna Frazee |
+| 695 | 77 | Oc Tive |
+| 696 | 77 | Kellz M Bee |
+| 697 | 77 | Groovy Towerbuilder |
 | 698 | 77 | Erica Hardwick |
-| 699 | 77 | Ajohnna Frazee |
-| 700 | 76 | Brendan Craven |
-| 701 | 76 | JP Chua |
-| 702 | 76 | Nicole Ambrose |
-| 703 | 76 | Frisky Balance |
-| 704 | 76 | Mann Manson |
-| 705 | 76 | Jillian Marie |
-| 706 | 76 | Lori Lynn |
-| 707 | 75 | Toria |
-| 708 | 75 | Marco A. Sandoval |
-| 709 | 75 | Zesty Lift |
-| 710 | 74 | Leasa Marie |
-| 711 | 74 | Chirpy Corner |
-| 712 | 74 | Jasmine Griffin |
-| 713 | 74 | Tiffany Brooke |
-| 714 | 74 | Loyalty83 |
-| 715 | 74 | JayJay Smith |
-| 716 | 74 | Trang Nguyen |
-| 717 | 74 | Melissa Schwager |
-| 718 | 74 | Rhonda Dowling |
-| 719 | 73 | Kelli Miller |
-| 720 | 73 | pussface |
-| 721 | 73 | Marcus Fontenot |
-| 722 | 73 | Giggly Rollpiece |
-| 723 | 73 | Ben Figueroa |
-| 724 | 72 | Fancy Riser |
-| 725 | 72 | Candice Sellers Worley |
-| 726 | 72 | Jeni |
-| 727 | 72 | Snow77white |
-| 728 | 72 | Cail |
-| 729 | 72 | sierrabeth |
-| 730 | 72 | Misti Rich |
-| 731 | 72 | Peterson Cottontail |
-| 732 | 71 | Monte Smith |
+| 699 | 77 | 94Blockhead |
+| 700 | 76 | Jillian Marie |
+| 701 | 76 | Mann Manson |
+| 702 | 76 | JP Chua |
+| 703 | 76 | Nicole Ambrose |
+| 704 | 76 | Frisky Balance |
+| 705 | 76 | Lori Lynn |
+| 706 | 76 | Brendan Craven |
+| 707 | 75 | Marco A. Sandoval |
+| 708 | 75 | Zesty Lift |
+| 709 | 75 | Toria |
+| 710 | 74 | Chirpy Corner |
+| 711 | 74 | JayJay Smith |
+| 712 | 74 | Melissa Schwager |
+| 713 | 74 | Rhonda Dowling |
+| 714 | 74 | Leasa Marie |
+| 715 | 74 | Tiffany Brooke |
+| 716 | 74 | Loyalty83 |
+| 717 | 74 | Trang Nguyen |
+| 718 | 74 | Jasmine Griffin |
+| 719 | 73 | Ben Figueroa |
+| 720 | 73 | Giggly Rollpiece |
+| 721 | 73 | pussface |
+| 722 | 73 | Marcus Fontenot |
+| 723 | 73 | Kelli Miller |
+| 724 | 72 | Misti Rich |
+| 725 | 72 | sierrabeth |
+| 726 | 72 | Cail |
+| 727 | 72 | Peterson Cottontail |
+| 728 | 72 | Jeni |
+| 729 | 72 | Fancy Riser |
+| 730 | 72 | Candice Sellers Worley |
+| 731 | 72 | Snow77white |
+| 732 | 71 | Taquilla Branch |
 | 733 | 71 | LaRue Tee |
-| 734 | 71 | Taquilla Branch |
+| 734 | 71 | Monte Smith |
 | 735 | 71 | Cassie N Danica Flaherty |
 | 736 | 71 | LeRoy jenkins |
 | 737 | 71 | Giggy Blockpiece |
@@ -1421,56 +1421,56 @@
 | 1413 | 15 | Chris Abney |
 | 1414 | 15 | Melia Christiansen |
 | 1415 | 15 | babygirlw |
-| 1416 | 15 | Tha Don |
-| 1417 | 15 | Wacky Clusterer |
-| 1418 | 15 | Speedy Rollbuilder |
-| 1419 | 15 | Tricki Woo |
+| 1416 | 15 | Speedy Rollbuilder |
+| 1417 | 15 | Tha Don |
+| 1418 | 15 | Tricki Woo |
+| 1419 | 15 | Wacky Clusterer |
 | 1420 | 14 | Breezy Striker |
-| 1421 | 14 | Tammy Santiago |
-| 1422 | 14 | Karissa Bailey |
-| 1423 | 14 | Blanchie Wingo |
-| 1424 | 14 | Heather Dornberger |
-| 1425 | 14 | Snippy Twister |
-| 1426 | 14 | Tina Louise |
-| 1427 | 14 | Donovan Parmenter Gagne |
-| 1428 | 14 | Heather Crowe |
-| 1429 | 14 | Jolene Stieren |
-| 1430 | 14 | Mighty Clicky |
-| 1431 | 14 | Nakkia Mobley |
-| 1432 | 14 | Gellix |
-| 1433 | 14 | Tonya Cross |
-| 1434 | 14 | BreOunna Zonye Littleton |
-| 1435 | 14 | Bookgirl69 |
-| 1436 | 14 | Laura Ratliff |
+| 1421 | 14 | Blanchie Wingo |
+| 1422 | 14 | Heather Dornberger |
+| 1423 | 14 | Snippy Twister |
+| 1424 | 14 | Gellix |
+| 1425 | 14 | Tammy Santiago |
+| 1426 | 14 | Heather Crowe |
+| 1427 | 14 | Karissa Bailey |
+| 1428 | 14 | Nakkia Mobley |
+| 1429 | 14 | Laura Ratliff |
+| 1430 | 14 | Tonya Cross |
+| 1431 | 14 | BreOunna Zonye Littleton |
+| 1432 | 14 | Tina Louise |
+| 1433 | 14 | Bookgirl69 |
+| 1434 | 14 | Donovan Parmenter Gagne |
+| 1435 | 14 | Jolene Stieren |
+| 1436 | 14 | Mighty Clicky |
 | 1437 | 14 | mrsduke420 |
 | 1438 | 14 | G Money |
-| 1439 | 13 | Bryce McGee |
-| 1440 | 13 | Swanky Spinzone |
-| 1441 | 13 | Jozette Smalarz |
-| 1442 | 13 | Karen Miller |
-| 1443 | 13 | Speedy Snapclear |
-| 1444 | 13 | Jason Ervin |
-| 1445 | 13 | Liz Aimé Acosta Guilarte |
-| 1446 | 13 | Jackie Russo-Edens |
+| 1439 | 13 | Jozette Smalarz |
+| 1440 | 13 | Karen Miller |
+| 1441 | 13 | Swanky Spinzone |
+| 1442 | 13 | Bryce McGee |
+| 1443 | 13 | Jason Ervin |
+| 1444 | 13 | Jackie Russo-Edens |
+| 1445 | 13 | Frothy Pivotfall |
+| 1446 | 13 | Willedtra Griffin |
 | 1447 | 13 | juler |
-| 1448 | 13 | Frothy Pivotfall |
-| 1449 | 13 | Willedtra Griffin |
-| 1450 | 12 | Bouncy Clusterline |
-| 1451 | 12 | Tamara Gay |
-| 1452 | 12 | Carolyn Lalak |
-| 1453 | 12 | Rooney |
-| 1454 | 12 | Tatiyana Hockett |
-| 1455 | 12 | Crafty Clicker |
-| 1456 | 12 | Buddyblock |
-| 1457 | 12 | NotAkaren Barker |
-| 1458 | 12 | Delashawne Hodgson |
-| 1459 | 12 | Tonya Raymundo |
-| 1460 | 12 | Mee |
-| 1461 | 12 | ESPERANTU |
-| 1462 | 11 | Mystie Malotte |
-| 1463 | 11 | OFOZO |
+| 1448 | 13 | Liz Aimé Acosta Guilarte |
+| 1449 | 13 | Speedy Snapclear |
+| 1450 | 12 | Hyper Clusterline |
+| 1451 | 12 | Carolyn Lalak |
+| 1452 | 12 | Tamara Gay |
+| 1453 | 12 | Bouncy Clusterline |
+| 1454 | 12 | Buddyblock |
+| 1455 | 12 | Tonya Raymundo |
+| 1456 | 12 | Crafty Clicker |
+| 1457 | 12 | ESPERANTU |
+| 1458 | 12 | Mee |
+| 1459 | 12 | Delashawne Hodgson |
+| 1460 | 12 | NotAkaren Barker |
+| 1461 | 12 | Tatiyana Hockett |
+| 1462 | 12 | Rooney |
+| 1463 | 11 | Mystie Malotte |
 | 1464 | 11 | Laurelez R. Carmen |
-| 1465 | 11 | Hyper Clusterline |
+| 1465 | 11 | OFOZO |
 | 1466 | 11 | Amowe |
 | 1467 | 11 | Zanny |
 | 1468 | 11 | AngReBo |
