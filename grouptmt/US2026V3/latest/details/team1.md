@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 20:08:39 UTC
+# Standings for team1 as of 2026-06-07 20:09:22 UTC
 
 **Total Participants:** 1562
 
@@ -98,12 +98,12 @@
 | 90 | 710 | ing410 |
 | 91 | 693 | Jaida King |
 | 92 | 689 | PandaPrincess |
-| 93 | 679 | Chirpy Corner |
-| 94 | 678 | No_Other_Choice |
-| 95 | 668 | Jonathan Vee Jay |
-| 96 | 667 | Sarah Marie |
-| 97 | 666 | Kellie Hall |
-| 98 | 660 | MamaBear |
+| 93 | 679 | MamaBear |
+| 94 | 679 | Chirpy Corner |
+| 95 | 678 | No_Other_Choice |
+| 96 | 668 | Jonathan Vee Jay |
+| 97 | 667 | Sarah Marie |
+| 98 | 666 | Kellie Hall |
 | 99 | 647 | She Higgy |
 | 100 | 638 | Therealdywoune Peay |
 | 101 | 613 | Big Tina |
@@ -304,17 +304,17 @@
 | 296 | 197 | Tipsy Linkroll |
 | 297 | 196 | Poppy Buildout |
 | 298 | 194 | Cheery Linkfall |
-| 299 | 192 | Clever Fitblock |
-| 300 | 192 | Hyper Blocky |
-| 301 | 191 | Emily Wright |
-| 302 | 190 | Chipper Snapper |
-| 303 | 189 | Nate Myers |
-| 304 | 189 | Ashleyy Netchert |
-| 305 | 189 | Jolly Tilefall |
-| 306 | 189 | Tamara Johnson-Carter |
-| 307 | 188 | Wild Out Nai |
-| 308 | 188 | Sammie Walker |
-| 309 | 188 | Nina Davis |
+| 299 | 193 | Wild Out Nai |
+| 300 | 192 | Clever Fitblock |
+| 301 | 192 | Hyper Blocky |
+| 302 | 191 | Emily Wright |
+| 303 | 190 | Chipper Snapper |
+| 304 | 189 | Nate Myers |
+| 305 | 189 | Tamara Johnson-Carter |
+| 306 | 189 | Jolly Tilefall |
+| 307 | 189 | Ashleyy Netchert |
+| 308 | 188 | Nina Davis |
+| 309 | 188 | Sammie Walker |
 | 310 | 187 | Heather Aurelia |
 | 311 | 187 | MACHETEEDDIE513 |
 | 312 | 186 | Snippy Breaker |
