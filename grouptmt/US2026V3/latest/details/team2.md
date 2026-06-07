@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 06:22:40 UTC
+# Standings for team2 as of 2026-06-07 06:23:17 UTC
 
 **Total Participants:** 1656
 
@@ -97,8 +97,8 @@
 | 89 | 731 | Brandi Thompson |
 | 90 | 721 | Hoppy Rotate |
 | 91 | 711 | Smiley Dropper |
-| 92 | 700 | Denise Potter |
-| 93 | 687 | Kvothe |
+| 92 | 707 | Kvothe |
+| 93 | 700 | Denise Potter |
 | 94 | 685 | Lily |
 | 95 | 685 | Sigmamom |
 | 96 | 656 | Loopy Cascadepiece |
@@ -124,8 +124,8 @@
 | 116 | 549 | Kathleen Dumbazz |
 | 117 | 547 | Nettrainer |
 | 118 | 541 | Ricardo Ewart |
-| 119 | 528 | Amanda Sikes |
-| 120 | 519 | Amber-leigh Williams |
+| 119 | 529 | Amber-leigh Williams |
+| 120 | 528 | Amanda Sikes |
 | 121 | 516 | Amber Miller Wirick |
 | 122 | 515 | Loony Faller |
 | 123 | 500 | Suki Kaur |
@@ -137,7 +137,7 @@
 | 129 | 466 | Judy Long |
 | 130 | 458 | Kaycie Shaffer |
 | 131 | 448 | Pooh |
-| 132 | 444 | Bubbly Strikerpiece |
+| 132 | 445 | Bubbly Strikerpiece |
 | 133 | 438 | Michelle Rich Burkhart |
 | 134 | 438 | Zappy Pattern |
 | 135 | 433 | Kimberly Cowan |
@@ -403,30 +403,30 @@
 | 395 | 130 | Cristi Doris |
 | 396 | 130 | Charity Hauser |
 | 397 | 129 | Sandy Justus |
-| 398 | 129 | Melissa Fink |
-| 399 | 129 | Belle |
+| 398 | 129 | Kristi K Milner |
+| 399 | 129 | Armando Sabedra |
 | 400 | 129 | Perii Reynoso |
-| 401 | 129 | Armando Sabedra |
-| 402 | 129 | Kristi K Milner |
+| 401 | 129 | Belle |
+| 402 | 129 | Melissa Fink |
 | 403 | 128 | rageking |
 | 404 | 127 | Stephanie |
-| 405 | 127 | Aurora June Brock |
-| 406 | 127 | Tina |
-| 407 | 127 | Nicky Steigerwalt |
-| 408 | 127 | Tammy Roth |
-| 409 | 126 | Anthony Swift |
-| 410 | 125 | Kathryn |
-| 411 | 125 | Jessica Connot |
+| 405 | 127 | Tina |
+| 406 | 127 | Tammy Roth |
+| 407 | 127 | Aurora June Brock |
+| 408 | 127 | Nicky Steigerwalt |
+| 409 | 126 | Nikki Hatch |
+| 410 | 126 | Anthony Swift |
+| 411 | 125 | Kathryn |
 | 412 | 125 | Wayne Johnson |
-| 413 | 124 | Jason Burris |
-| 414 | 124 | Angeleye A James |
-| 415 | 123 | Simone F |
-| 416 | 123 | Jumpy Matchbuilder |
-| 417 | 123 | Sassy Twistbuilder |
-| 418 | 123 | Nikki Hatch |
+| 413 | 125 | Jessica Connot |
+| 414 | 124 | Jason Burris |
+| 415 | 124 | Angeleye A James |
+| 416 | 123 | Simone F |
+| 417 | 123 | Jumpy Matchbuilder |
+| 418 | 123 | Sassy Twistbuilder |
 | 419 | 122 | Katie Jones |
-| 420 | 122 | Maria Ward |
-| 421 | 122 | Kevin Patrick |
+| 420 | 122 | Kevin Patrick |
+| 421 | 122 | Maria Ward |
 | 422 | 121 | Lisa Allen Frisk |
 | 423 | 120 | Kevin Mccoy |
 | 424 | 120 | Carlos J Blas |
