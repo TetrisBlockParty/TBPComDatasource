@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 16:56:18 UTC
+# Standings for team1 as of 2026-06-07 16:56:40 UTC
 
 **Total Participants:** 1516
 
@@ -910,34 +910,34 @@
 | 902 | 46 | Jenni |
 | 903 | 46 | Elizabeth Green |
 | 904 | 46 | Felicia Dungey |
-| 905 | 45 | GetDaOPPS |
-| 906 | 45 | Sarah Jones |
-| 907 | 45 | Beautiful314 |
-| 908 | 45 | Matraca Young |
-| 909 | 45 | Mumitt |
-| 910 | 45 | Y3llOWFAC3 |
-| 911 | 45 | Renee J. Thomas |
-| 912 | 45 | Heather Cross-Davis |
-| 913 | 45 | Sweet BayBee |
-| 914 | 45 | Jason A Giantonio |
-| 915 | 45 | Brave Balanceblock |
-| 916 | 45 | Skye |
-| 917 | 45 | Cali Lee |
-| 918 | 45 | Lawreniesha Burkley |
-| 919 | 45 | Antoinette Kidd |
-| 920 | 45 | Frothy Zoney |
-| 921 | 45 | MrsDontPlay |
-| 922 | 45 | Amanda Colwell |
-| 923 | 45 | WReckitraff |
-| 924 | 44 | Teresa Menefee |
-| 925 | 44 | Tez Mays |
-| 926 | 44 | Ducc2408 |
-| 927 | 44 | Candy Lee |
-| 928 | 44 | Ivan Israel |
-| 929 | 44 | Connor Leon Cluff |
-| 930 | 44 | Nic Nic |
-| 931 | 43 | Corbin Henry |
-| 932 | 43 | Block |
+| 905 | 46 | MrsDontPlay |
+| 906 | 45 | GetDaOPPS |
+| 907 | 45 | Sarah Jones |
+| 908 | 45 | Beautiful314 |
+| 909 | 45 | Matraca Young |
+| 910 | 45 | Mumitt |
+| 911 | 45 | Y3llOWFAC3 |
+| 912 | 45 | Renee J. Thomas |
+| 913 | 45 | Heather Cross-Davis |
+| 914 | 45 | Sweet BayBee |
+| 915 | 45 | Jason A Giantonio |
+| 916 | 45 | Brave Balanceblock |
+| 917 | 45 | Antoinette Kidd |
+| 918 | 45 | Frothy Zoney |
+| 919 | 45 | WReckitraff |
+| 920 | 45 | Amanda Colwell |
+| 921 | 45 | Lawreniesha Burkley |
+| 922 | 45 | Cali Lee |
+| 923 | 45 | Skye |
+| 924 | 44 | Nic Nic |
+| 925 | 44 | Connor Leon Cluff |
+| 926 | 44 | Ivan Israel |
+| 927 | 44 | Teresa Menefee |
+| 928 | 44 | Candy Lee |
+| 929 | 44 | Ducc2408 |
+| 930 | 44 | Tez Mays |
+| 931 | 43 | Block |
+| 932 | 43 | Corbin Henry |
 | 933 | 43 | Lounique |
 | 934 | 43 | Daphne Ceasar |
 | 935 | 43 | Vivian Bunnell Myers |
@@ -1407,16 +1407,16 @@
 | 1399 | 10 | Patrick Taylor |
 | 1400 | 10 | MeatSweats |
 | 1401 | 10 | Jamal D. Wiley |
-| 1402 | 10 | Happymama |
+| 1402 | 10 | Clint Mcdowell |
 | 1403 | 10 | Lazy Chiseler |
-| 1404 | 10 | Willard Junior |
-| 1405 | 10 | Aero Builder |
-| 1406 | 10 | Yvonne Aggers |
-| 1407 | 10 | Crystal Segura |
-| 1408 | 10 | Tranica Sterling |
-| 1409 | 10 | Ladii Libra |
-| 1410 | 10 | Kim Smith |
-| 1411 | 10 | Clint Mcdowell |
+| 1404 | 10 | Aero Builder |
+| 1405 | 10 | Willard Junior |
+| 1406 | 10 | John C Sexton |
+| 1407 | 10 | Yvonne Aggers |
+| 1408 | 10 | Crystal Segura |
+| 1409 | 10 | Tranica Sterling |
+| 1410 | 10 | Ladii Libra |
+| 1411 | 10 | Kim Smith |
 | 1412 | 10 | Cool Rumbler |
 | 1413 | 10 | Steve Renelus |
 | 1414 | 10 | LaShawyn Wood |
@@ -1426,102 +1426,102 @@
 | 1418 | 10 | Jimel Fraser |
 | 1419 | 10 | Antonia Pike |
 | 1420 | 10 | Jackee Chee-Ming |
-| 1421 | 9 | Chummy Twisterfit |
-| 1422 | 9 | Shaun Baker |
-| 1423 | 9 | Lia Covington |
-| 1424 | 9 | Groovy Twisterfit |
-| 1425 | 9 | Brika Brika |
-| 1426 | 9 | Yester |
-| 1427 | 9 | Catelyn Neal |
-| 1428 | 9 | Frisky Linkblock |
-| 1429 | 9 | Dana |
+| 1421 | 10 | Happymama |
+| 1422 | 9 | Chummy Twisterfit |
+| 1423 | 9 | Catelyn Neal |
+| 1424 | 9 | Shaun Baker |
+| 1425 | 9 | Lia Covington |
+| 1426 | 9 | Groovy Twisterfit |
+| 1427 | 9 | Brika Brika |
+| 1428 | 9 | Yester |
+| 1429 | 9 | Noni |
 | 1430 | 9 | Sunset Owens |
 | 1431 | 9 | Duckey |
 | 1432 | 9 | Regina Haygood |
-| 1433 | 9 | ummm |
-| 1434 | 9 | Beverly S. Robinson |
-| 1435 | 9 | Noni |
+| 1433 | 9 | Beverly S. Robinson |
+| 1434 | 9 | ummm |
+| 1435 | 9 | Dana |
 | 1436 | 9 | Shell Poke |
 | 1437 | 9 | Clifford Petroske |
 | 1438 | 9 | John Lovato |
-| 1439 | 9 | Mars |
-| 1440 | 8 | Elizabeth Castro |
-| 1441 | 8 | jus_ry |
+| 1439 | 9 | Frisky Linkblock |
+| 1440 | 9 | Mars |
+| 1441 | 8 | Elizabeth Castro |
 | 1442 | 8 | Chill Tumbler |
-| 1443 | 8 | Andrew James |
-| 1444 | 8 | Dana Hill |
-| 1445 | 8 | Chevonne Huggins |
-| 1446 | 8 | Sean Walker |
-| 1447 | 8 | Nissa |
-| 1448 | 8 | Frothy Matchpiece |
-| 1449 | 8 | Almarasha Grice |
-| 1450 | 8 | Groovy Riseclear |
-| 1451 | 8 | Ferocity |
-| 1452 | 8 | David Anthony |
-| 1453 | 8 | Rixo Blax |
-| 1454 | 8 | Michael Lindenlauf |
-| 1455 | 8 | Darrelle Short |
-| 1456 | 8 | Dave Breaker |
-| 1457 | 7 | J Dot Flo |
-| 1458 | 7 | Dee |
+| 1443 | 8 | jus_ry |
+| 1444 | 8 | Andrew James |
+| 1445 | 8 | Dana Hill |
+| 1446 | 8 | Chevonne Huggins |
+| 1447 | 8 | Sean Walker |
+| 1448 | 8 | Nissa |
+| 1449 | 8 | Frothy Matchpiece |
+| 1450 | 8 | Almarasha Grice |
+| 1451 | 8 | Groovy Riseclear |
+| 1452 | 8 | Ferocity |
+| 1453 | 8 | David Anthony |
+| 1454 | 8 | Rixo Blax |
+| 1455 | 8 | Michael Lindenlauf |
+| 1456 | 8 | Darrelle Short |
+| 1457 | 8 | Dave Breaker |
+| 1458 | 7 | J Dot Flo |
 | 1459 | 7 | Brandon Knox |
 | 1460 | 7 | Milfchaser530 |
 | 1461 | 7 | KingSlim82 |
-| 1462 | 7 | John C Sexton |
-| 1463 | 7 | Stephanie L Jeffries Moultrie |
-| 1464 | 7 | Deadra Graham |
-| 1465 | 7 | Shane Brucewayne |
-| 1466 | 7 | RMGreen |
-| 1467 | 7 | Sheena Hamilton |
-| 1468 | 7 | Mary2 |
-| 1469 | 7 | Bryan Dell |
-| 1470 | 7 | Lawanda Conley |
-| 1471 | 7 | Joey Hoover |
-| 1472 | 7 | Quana |
-| 1473 | 7 | linda m |
-| 1474 | 7 | Andrew Harris |
-| 1475 | 7 | Lively Stagger |
-| 1476 | 7 | Marla |
-| 1477 | 7 | Court Ney |
-| 1478 | 7 | Teresa F. Campos Eaton |
-| 1479 | 7 | Alexis Farquer |
-| 1480 | 7 | John Boone |
-| 1481 | 6 | Lynn Formby |
-| 1482 | 6 | Tammy Hooser |
-| 1483 | 6 | Nerdy Slam |
-| 1484 | 6 | Andrae Robinson |
-| 1485 | 6 | Kyshia |
-| 1486 | 6 | Evee |
-| 1487 | 6 | CK |
-| 1488 | 6 | NEM0228 |
+| 1462 | 7 | Dee |
+| 1463 | 7 | John Boone |
+| 1464 | 7 | Alexis Farquer |
+| 1465 | 7 | Court Ney |
+| 1466 | 7 | linda m |
+| 1467 | 7 | Quana |
+| 1468 | 7 | Joey Hoover |
+| 1469 | 7 | Stephanie L Jeffries Moultrie |
+| 1470 | 7 | Bryan Dell |
+| 1471 | 7 | RMGreen |
+| 1472 | 7 | Shane Brucewayne |
+| 1473 | 7 | Deadra Graham |
+| 1474 | 7 | Sheena Hamilton |
+| 1475 | 7 | Mary2 |
+| 1476 | 7 | Lawanda Conley |
+| 1477 | 7 | Marla |
+| 1478 | 7 | Lively Stagger |
+| 1479 | 7 | Andrew Harris |
+| 1480 | 7 | Teresa F. Campos Eaton |
+| 1481 | 6 | NEM0228 |
+| 1482 | 6 | Kyshia |
+| 1483 | 6 | Tammy Hooser |
+| 1484 | 6 | Evee |
+| 1485 | 6 | Lynn Formby |
+| 1486 | 6 | CK |
+| 1487 | 6 | Stevie Malcon |
+| 1488 | 6 | Nerdy Slam |
 | 1489 | 6 | Jhinarra Walker |
-| 1490 | 6 | Stevie Malcon |
+| 1490 | 6 | Andrae Robinson |
 | 1491 | 6 | Shiny Crusher |
 | 1492 | 6 | party t-rex 27 |
-| 1493 | 5 | Aanngie Aanngie |
-| 1494 | 5 | Annette DeLoatch Thompson |
-| 1495 | 5 | VERA DAME |
-| 1496 | 5 | Jackie Sanasay |
-| 1497 | 5 | Null Kim |
-| 1498 | 5 | Carol Washington |
-| 1499 | 5 | Jiff |
-| 1500 | 5 | Derek Beverly |
-| 1501 | 5 | pettymexoxo |
-| 1502 | 5 | Angelique Thomas |
-| 1503 | 5 | Alonzo Kirkland |
+| 1493 | 5 | Carol Washington |
+| 1494 | 5 | BlessedBeauty |
+| 1495 | 5 | Angelique Thomas |
+| 1496 | 5 | Jiff |
+| 1497 | 5 | Derek Beverly |
+| 1498 | 5 | Null Kim |
+| 1499 | 5 | Alonzo Kirkland |
+| 1500 | 5 | Jackie Sanasay |
+| 1501 | 5 | VERA DAME |
+| 1502 | 5 | Annette DeLoatch Thompson |
+| 1503 | 5 | Stephanie Zuniga Tullock |
 | 1504 | 5 | the guy |
-| 1505 | 5 | Marissa Sweet |
-| 1506 | 5 | SweetByNBy |
-| 1507 | 5 | Schuyler Carson Jackson |
-| 1508 | 5 | Godz Chosen |
-| 1509 | 5 | Zesty Brickline |
-| 1510 | 5 | MrKeith Debraux |
-| 1511 | 5 | Happy |
-| 1512 | 5 | Andy Barnett |
-| 1513 | 5 | Joy Baker |
-| 1514 | 5 | Jennifer Haton Kreighbaum |
-| 1515 | 5 | Stephanie Zuniga Tullock |
-| 1516 | 5 | BlessedBeauty |
+| 1505 | 5 | Jennifer Haton Kreighbaum |
+| 1506 | 5 | pettymexoxo |
+| 1507 | 5 | Joy Baker |
+| 1508 | 5 | Happy |
+| 1509 | 5 | SweetByNBy |
+| 1510 | 5 | Aanngie Aanngie |
+| 1511 | 5 | Marissa Sweet |
+| 1512 | 5 | Schuyler Carson Jackson |
+| 1513 | 5 | Godz Chosen |
+| 1514 | 5 | Zesty Brickline |
+| 1515 | 5 | MrKeith Debraux |
+| 1516 | 5 | Andy Barnett |
 
 ---
 *Standings created by tournaments datasource generation tool*
