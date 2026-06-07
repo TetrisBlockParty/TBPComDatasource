@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 11:54:18 UTC
+# Standings for team2 as of 2026-06-07 11:54:39 UTC
 
 **Total Participants:** 1712
 
@@ -1455,53 +1455,53 @@
 | 1447 | 16 | Brittany Paul |
 | 1448 | 16 | Kaylyn Wickham |
 | 1449 | 16 | Sarah Elizabeth Foret |
-| 1450 | 15 | Jennifer Nelson |
-| 1451 | 15 | Linda Riegsecker |
-| 1452 | 15 | Tipsy Matchgrid |
-| 1453 | 15 | Amlisi |
-| 1454 | 15 | Lyndzey Sciscoe |
-| 1455 | 15 | AlDan |
-| 1456 | 15 | SabinawNorman Adams |
-| 1457 | 15 | Wendy Morrison |
-| 1458 | 15 | Sharon Wade |
-| 1459 | 15 | Nana |
-| 1460 | 15 | Amy Hahn Nickels |
-| 1461 | 15 | Jacqueline Leigh Zuzinec |
-| 1462 | 15 | Sir Paco |
-| 1463 | 15 | Poppy Slice |
-| 1464 | 15 | Tetris |
-| 1465 | 15 | Samantha |
-| 1466 | 15 | Lisa Marie |
-| 1467 | 15 | Christine Ann Eras |
-| 1468 | 15 | Maureen MomtoDolores GeorgeBrian |
-| 1469 | 15 | Twisty Patternblock |
-| 1470 | 15 | Julie Vargas |
-| 1471 | 15 | sally |
-| 1472 | 15 | Haneef Akram |
-| 1473 | 15 | Michelle Shemon |
-| 1474 | 14 | Swanky Fallmatch |
-| 1475 | 14 | Manuel Lucero Jr. |
-| 1476 | 14 | Susan R. Hammons Cunningham |
-| 1477 | 14 | Beaglemom |
-| 1478 | 14 | John Sewell |
-| 1479 | 14 | Jenifer Gasho |
-| 1480 | 14 | Jodi Deninno |
-| 1481 | 14 | Angelica Champlin |
-| 1482 | 14 | Tyler Bates |
-| 1483 | 14 | Buffy Diane Blake |
-| 1484 | 14 | Flex |
-| 1485 | 14 | TiffTaff |
-| 1486 | 14 | Marshall Payne |
-| 1487 | 14 | Randi Moore |
-| 1488 | 14 | Symmy Norton |
-| 1489 | 14 | Toni Tortorici Humphryes |
-| 1490 | 14 | Imat Yesmar |
-| 1491 | 14 | Joseph Austin Prince |
-| 1492 | 14 | BlockBreaker |
-| 1493 | 14 | Christopher Pulley |
-| 1494 | 14 | Michele Choate |
-| 1495 | 14 | Randy Taylor |
-| 1496 | 14 | MiMi’26 |
+| 1450 | 16 | Swanky Fallmatch |
+| 1451 | 15 | Michelle Shemon |
+| 1452 | 15 | Jennifer Nelson |
+| 1453 | 15 | Linda Riegsecker |
+| 1454 | 15 | Tipsy Matchgrid |
+| 1455 | 15 | Amlisi |
+| 1456 | 15 | Lyndzey Sciscoe |
+| 1457 | 15 | AlDan |
+| 1458 | 15 | SabinawNorman Adams |
+| 1459 | 15 | Wendy Morrison |
+| 1460 | 15 | Sharon Wade |
+| 1461 | 15 | Nana |
+| 1462 | 15 | Amy Hahn Nickels |
+| 1463 | 15 | Jacqueline Leigh Zuzinec |
+| 1464 | 15 | Sir Paco |
+| 1465 | 15 | Poppy Slice |
+| 1466 | 15 | Tetris |
+| 1467 | 15 | Samantha |
+| 1468 | 15 | Lisa Marie |
+| 1469 | 15 | Christine Ann Eras |
+| 1470 | 15 | Maureen MomtoDolores GeorgeBrian |
+| 1471 | 15 | Twisty Patternblock |
+| 1472 | 15 | Julie Vargas |
+| 1473 | 15 | sally |
+| 1474 | 15 | Haneef Akram |
+| 1475 | 14 | Susan R. Hammons Cunningham |
+| 1476 | 14 | Beaglemom |
+| 1477 | 14 | John Sewell |
+| 1478 | 14 | Jenifer Gasho |
+| 1479 | 14 | Jodi Deninno |
+| 1480 | 14 | Angelica Champlin |
+| 1481 | 14 | Tyler Bates |
+| 1482 | 14 | Buffy Diane Blake |
+| 1483 | 14 | Flex |
+| 1484 | 14 | TiffTaff |
+| 1485 | 14 | Marshall Payne |
+| 1486 | 14 | Randi Moore |
+| 1487 | 14 | Symmy Norton |
+| 1488 | 14 | Toni Tortorici Humphryes |
+| 1489 | 14 | Imat Yesmar |
+| 1490 | 14 | Joseph Austin Prince |
+| 1491 | 14 | BlockBreaker |
+| 1492 | 14 | Christopher Pulley |
+| 1493 | 14 | Michele Choate |
+| 1494 | 14 | Randy Taylor |
+| 1495 | 14 | MiMi’26 |
+| 1496 | 14 | Manuel Lucero Jr. |
 | 1497 | 13 | Judy Bailey |
 | 1498 | 13 | Nickishan Richrds |
 | 1499 | 13 | Patience Thompson |
