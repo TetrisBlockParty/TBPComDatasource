@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 04:50:19 UTC
+# Standings for team2 as of 2026-06-07 04:50:42 UTC
 
 **Total Participants:** 1610
 
@@ -15,8 +15,8 @@
 | 7 | 7687 | Lacey Nolting |
 | 8 | 7500 | Mocha |
 | 9 | 6240 | Christina Shell |
-| 10 | 6114 | Morgann McDaniel |
-| 11 | 6114 | Tim Ix |
+| 10 | 6114 | Tim Ix |
+| 11 | 6114 | Morgann McDaniel |
 | 12 | 5704 | Cori Keberlein |
 | 13 | 4945 | Dapper Rollout |
 | 14 | 4800 | Crafty Ziggy |
@@ -41,7 +41,7 @@
 | 33 | 2287 | Christina Jambard Sampier |
 | 34 | 2210 | Bea Bee |
 | 35 | 2133 | Frisky Balanceblock |
-| 36 | 2073 | Quirky Catcher |
+| 36 | 2093 | Quirky Catcher |
 | 37 | 2032 | Andrew Weissenborn |
 | 38 | 1957 | Lola C Davis |
 | 39 | 1906 | Jennifer Corder |
@@ -101,16 +101,16 @@
 | 93 | 656 | Loopy Cascadepiece |
 | 94 | 652 | Epic Frame |
 | 95 | 644 | Bon Lynn |
-| 96 | 632 | Wmk Rathbun |
-| 97 | 632 | Allie Bug |
+| 96 | 632 | Allie Bug |
+| 97 | 632 | Wmk Rathbun |
 | 98 | 629 | Mirr Lulu |
 | 99 | 612 | Josh Twilley |
 | 100 | 603 | Le Sandy |
 | 101 | 600 | LEW |
 | 102 | 592 | Brandon Link |
-| 103 | 588 | Kellie Sharp Godfrey |
-| 104 | 581 | Dsabrina Maxey |
-| 105 | 581 | Smiley Dropper |
+| 103 | 591 | Smiley Dropper |
+| 104 | 588 | Kellie Sharp Godfrey |
+| 105 | 581 | Dsabrina Maxey |
 | 106 | 578 | Krisanne Kesner-Lonsby |
 | 107 | 577 | Lindsay Klemp |
 | 108 | 574 | Brandy McCune Reep |
@@ -144,9 +144,9 @@
 | 136 | 408 | Ashley Green |
 | 137 | 404 | Jgato |
 | 138 | 403 | MarioKarasovic |
-| 139 | 400 | Zarah Kettler |
+| 139 | 400 | Gloria May Shook |
 | 140 | 400 | Smashanator |
-| 141 | 400 | Gloria May Shook |
+| 141 | 400 | Zarah Kettler |
 | 142 | 390 | La chulis |
 | 143 | 389 | haune |
 | 144 | 386 | Frilly Dashfit |
@@ -156,8 +156,8 @@
 | 148 | 375 | Milad Arzani |
 | 149 | 372 | MaddieCherie |
 | 150 | 365 | Branden Frankowski |
-| 151 | 357 | Erin Thomas |
-| 152 | 357 | Crystal Allen |
+| 151 | 357 | Crystal Allen |
+| 152 | 357 | Erin Thomas |
 | 153 | 356 | Joni Michelle Morgan |
 | 154 | 354 | Zesty Strikerbuilder |
 | 155 | 348 | Eric Drane |
@@ -184,15 +184,15 @@
 | 176 | 299 | Mookshake |
 | 177 | 298 | Breeana Bennett |
 | 178 | 298 | Heather Burgett |
-| 179 | 296 | Snappy Combo |
-| 180 | 296 | Brenda Jones |
+| 179 | 296 | Brenda Jones |
+| 180 | 296 | Snappy Combo |
 | 181 | 295 | Brittney Williams |
-| 182 | 294 | DayDreamer79 |
-| 183 | 294 | Vistabrat |
+| 182 | 294 | Vistabrat |
+| 183 | 294 | DayDreamer79 |
 | 184 | 292 | James Ward |
 | 185 | 291 | Flashy Twistline |
-| 186 | 285 | Samantha Carman |
-| 187 | 285 | H |
+| 186 | 285 | H |
+| 187 | 285 | Samantha Carman |
 | 188 | 282 | Nova Nova |
 | 189 | 280 | Patricia Carroll |
 | 190 | 278 | Ashley Billiot Rhodes |
@@ -211,23 +211,23 @@
 | 203 | 252 | Kathy Strickland |
 | 204 | 250 | Iesha Cupil |
 | 205 | 250 | marsam |
-| 206 | 247 | Fudgie Pie |
-| 207 | 247 | Melissa Thomas |
-| 208 | 247 | Brittni Lawrence |
+| 206 | 247 | Brittni Lawrence |
+| 207 | 247 | Fudgie Pie |
+| 208 | 247 | Melissa Thomas |
 | 209 | 246 | Brooke Lynn Marie Adelaide |
 | 210 | 244 | DomDomsNana |
 | 211 | 243 | Chirpy Grid |
-| 212 | 241 | Boldy Wobbler |
-| 213 | 241 | Jat |
+| 212 | 241 | Jat |
+| 213 | 241 | Boldy Wobbler |
 | 214 | 240 | PaiBri |
 | 215 | 238 | Rob Owens |
-| 216 | 237 | Michelle Luke Banta |
-| 217 | 237 | Lisa Underwood Desmond |
+| 216 | 237 | Lisa Underwood Desmond |
+| 217 | 237 | Michelle Luke Banta |
 | 218 | 236 | Lush Party |
 | 219 | 235 | Tami Kay Williams Watson |
-| 220 | 234 | Chipper Stackbuilder |
-| 221 | 234 | Larry Cross |
-| 222 | 234 | AndyJo |
+| 220 | 234 | Larry Cross |
+| 221 | 234 | AndyJo |
+| 222 | 234 | Chipper Stackbuilder |
 | 223 | 233 | Amie Marks |
 | 224 | 232 | Pam Bauder Ludwig |
 | 225 | 230 | Brandy Chinelle |
@@ -235,23 +235,23 @@
 | 227 | 227 | Laura Melton |
 | 228 | 225 | Cheery Towerzone |
 | 229 | 224 | Kathleen Keogh Van Schoyck |
-| 230 | 222 | Nikki EightySixed |
-| 231 | 222 | Margie Ann Naffziger |
-| 232 | 221 | Dallas Runyan |
-| 233 | 221 | Bianca Woodruff |
+| 230 | 222 | Margie Ann Naffziger |
+| 231 | 222 | Nikki EightySixed |
+| 232 | 221 | Bianca Woodruff |
+| 233 | 221 | Dallas Runyan |
 | 234 | 220 | Flashy Basegrid |
 | 235 | 220 | Lora Via |
-| 236 | 219 | Stella |
-| 237 | 219 | Cathy Tippett |
+| 236 | 219 | Cathy Tippett |
+| 237 | 219 | Stella |
 | 238 | 218 | Amy Nicole McCanne |
-| 239 | 217 | Amanda Priddy |
-| 240 | 217 | Elizabeth Henry |
+| 239 | 217 | Elizabeth Henry |
+| 240 | 217 | Amanda Priddy |
 | 241 | 214 | Jenny |
 | 242 | 214 | Stephany Green |
 | 243 | 212 | Sully |
 | 244 | 211 | AndrewandShela Gornik |
-| 245 | 209 | Chill Line |
-| 246 | 209 | Logan Duffey |
+| 245 | 209 | Logan Duffey |
+| 246 | 209 | Chill Line |
 | 247 | 209 | Patria Osuoha |
 | 248 | 207 | Amber Cogdill |
 | 249 | 206 | Jodi Johnson |
@@ -628,10 +628,10 @@
 | 620 | 72 | Stacy Lynn |
 | 621 | 72 | Stephanie Smith Robinson |
 | 622 | 72 | Mary Whitaker |
-| 623 | 72 | Kendi |
-| 624 | 72 | Dawnypooh |
-| 625 | 71 | Sandy Lynn |
-| 626 | 71 | CATFISH |
+| 623 | 72 | CATFISH |
+| 624 | 72 | Kendi |
+| 625 | 72 | Dawnypooh |
+| 626 | 71 | Sandy Lynn |
 | 627 | 71 | Yari |
 | 628 | 71 | Violet Olivares |
 | 629 | 71 | Amanda Bottorff |
@@ -1067,25 +1067,25 @@
 | 1059 | 33 | Giggly Buildgrid |
 | 1060 | 33 | Octavia Jus Mae Hill |
 | 1061 | 32 | Lori Yelvington Cain |
-| 1062 | 32 | Courtney Elizabeth Hartnagel |
-| 1063 | 32 | Spicy Enchilada |
-| 1064 | 32 | Mandy Smart |
+| 1062 | 32 | Mandy Smart |
+| 1063 | 32 | Courtney Elizabeth Hartnagel |
+| 1064 | 32 | Spicy Enchilada |
 | 1065 | 32 | Viani09 |
 | 1066 | 32 | Lively Liner |
-| 1067 | 32 | Amanda Bryte |
-| 1068 | 32 | Brandy McCleary |
-| 1069 | 32 | Chelsea Harriss |
-| 1070 | 32 | Audrey Wood |
-| 1071 | 32 | Foc |
-| 1072 | 32 | Stephanie |
-| 1073 | 31 | MJLovesHer#OneMistake |
+| 1067 | 32 | Mrs biotch |
+| 1068 | 32 | Amanda Bryte |
+| 1069 | 32 | Brandy McCleary |
+| 1070 | 32 | Chelsea Harriss |
+| 1071 | 32 | Audrey Wood |
+| 1072 | 32 | Foc |
+| 1073 | 32 | Stephanie |
 | 1074 | 31 | Ronald Granger |
-| 1075 | 31 | Cranky Fit |
-| 1076 | 31 | Amanda Neal |
-| 1077 | 31 | Trinni Hansen |
-| 1078 | 31 | Jenn |
-| 1079 | 31 | Monique Williams |
-| 1080 | 31 | Mrs biotch |
+| 1075 | 31 | MJLovesHer#OneMistake |
+| 1076 | 31 | Cranky Fit |
+| 1077 | 31 | Amanda Neal |
+| 1078 | 31 | Trinni Hansen |
+| 1079 | 31 | Jenn |
+| 1080 | 31 | Monique Williams |
 | 1081 | 31 | Dan Ramsey |
 | 1082 | 31 | Shannon Michelle |
 | 1083 | 30 | Loriane Shumate Griggs |
