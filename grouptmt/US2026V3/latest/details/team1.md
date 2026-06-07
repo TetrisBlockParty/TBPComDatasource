@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 06:56:39 UTC
+# Standings for team1 as of 2026-06-07 06:57:18 UTC
 
 **Total Participants:** 1407
 
@@ -70,8 +70,8 @@
 | 62 | 870 | Blockhead |
 | 63 | 863 | Court Court |
 | 64 | 842 | Eric Mcgaughy |
-| 65 | 836 | Tiana Moore |
-| 66 | 816 | Angela R Wilson |
+| 65 | 837 | Angela R Wilson |
+| 66 | 836 | Tiana Moore |
 | 67 | 805 | Weeze |
 | 68 | 803 | Kimberly Hernandez |
 | 69 | 788 | Jazzy Dashpiece |
