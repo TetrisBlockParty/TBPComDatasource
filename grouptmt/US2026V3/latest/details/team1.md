@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:25:18 UTC
+# Standings for team1 as of 2026-06-07 08:26:18 UTC
 
 **Total Participants:** 1424
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 22000 | Kalynn Parks |
 | 2 | 19500 | Ariel |
-| 3 | 8935 | Charnay Peacock |
+| 3 | 9170 | Charnay Peacock |
 | 4 | 7946 | Tyeina Johnson |
 | 5 | 7732 | Carrie English |
 | 6 | 7602 | Charlie Roehm |
@@ -296,24 +296,24 @@
 | 288 | 156 | Cheeky Twistpiece |
 | 289 | 156 | SceneGreenz Wali |
 | 290 | 155 | Lazy Tiltpiece |
-| 291 | 154 | Sammie Walker |
-| 292 | 154 | Slinky Snapbuilder |
+| 291 | 154 | Slinky Snapbuilder |
+| 292 | 154 | Sammie Walker |
 | 293 | 153 | Rackemwillie34 |
 | 294 | 153 | Tipsy Linkroll |
 | 295 | 152 | Jolly Tilefall |
 | 296 | 150 | Slinky Party |
-| 297 | 149 | Christopher Dreamsareality McEachin |
-| 298 | 149 | Chasem45 |
+| 297 | 150 | Jenna Renee |
+| 298 | 149 | Elizabeth Vega Coreano |
 | 299 | 149 | HarleyJane |
-| 300 | 149 | Elizabeth Vega Coreano |
-| 301 | 148 | LaToya Chambers |
-| 302 | 147 | Telisha Mims |
-| 303 | 147 | MACHETEEDDIE513 |
-| 304 | 146 | Jhonny Maii |
-| 305 | 146 | Simone Bailey |
-| 306 | 146 | BlackQueen105 |
-| 307 | 146 | Lakiesha Crawford |
-| 308 | 145 | Jenna Renee |
+| 300 | 149 | Chasem45 |
+| 301 | 149 | Christopher Dreamsareality McEachin |
+| 302 | 148 | LaToya Chambers |
+| 303 | 147 | Telisha Mims |
+| 304 | 147 | MACHETEEDDIE513 |
+| 305 | 146 | Jhonny Maii |
+| 306 | 146 | Simone Bailey |
+| 307 | 146 | BlackQueen105 |
+| 308 | 146 | Lakiesha Crawford |
 | 309 | 143 | Penee Wiggins |
 | 310 | 143 | BULLSEYE |
 | 311 | 142 | Matthieu Pistone |
@@ -344,52 +344,52 @@
 | 336 | 132 | Chirpy Buildgrid |
 | 337 | 131 | Sarah Clark |
 | 338 | 130 | Adrian Wilson |
-| 339 | 130 | Maribel Vasquez |
-| 340 | 130 | Miera Nicole |
-| 341 | 130 | Crystal Anderson |
-| 342 | 130 | Jessica Davis |
-| 343 | 129 | Loopy Tiler |
-| 344 | 129 | Mathew Trudell |
+| 339 | 130 | Miera Nicole |
+| 340 | 130 | Maribel Vasquez |
+| 341 | 130 | Jessica Davis |
+| 342 | 130 | Crystal Anderson |
+| 343 | 129 | Mathew Trudell |
+| 344 | 129 | Loopy Tiler |
 | 345 | 128 | Darrel K Pemberton |
 | 346 | 128 | Jack Vlasak |
-| 347 | 127 | Ozell Jones Jr. |
-| 348 | 127 | Comedian Prince Paul |
+| 347 | 127 | Comedian Prince Paul |
+| 348 | 127 | Ozell Jones Jr. |
 | 349 | 127 | Treneil Daffin |
 | 350 | 126 | Breezy Catcher |
-| 351 | 125 | Dedra M Prester |
+| 351 | 126 | Brittany Fells |
 | 352 | 125 | LaTonya Myers |
 | 353 | 125 | Dizzy Dashy |
-| 354 | 124 | Eric Spencer Whitaker |
-| 355 | 123 | Cauiasia DeJ'ae |
+| 354 | 125 | Dedra M Prester |
+| 355 | 124 | Eric Spencer Whitaker |
 | 356 | 123 | Rachael Bakowicz Edwards |
-| 357 | 122 | De'Nell Edwards |
-| 358 | 122 | Xana Zania Bopp |
-| 359 | 121 | Shanaa Germany Crittenden |
+| 357 | 123 | Cauiasia DeJ'ae |
+| 358 | 122 | De'Nell Edwards |
+| 359 | 122 | Xana Zania Bopp |
 | 360 | 121 | Tiana Monique |
-| 361 | 121 | Bubbly Piececlear |
-| 362 | 121 | Tee Spinks |
-| 363 | 120 | Guy Incognito |
-| 364 | 120 | Teri Marie Clayton |
-| 365 | 120 | rls |
-| 366 | 120 | Tanya Clayton |
+| 361 | 121 | Shanaa Germany Crittenden |
+| 362 | 121 | Bubbly Piececlear |
+| 363 | 121 | Tee Spinks |
+| 364 | 120 | rls |
+| 365 | 120 | Guy Incognito |
+| 366 | 120 | Teri Marie Clayton |
 | 367 | 120 | Katrina Ramey |
-| 368 | 119 | Kelvin Cook |
-| 369 | 119 | Lexx Robins |
-| 370 | 118 | Hasty Pivoty |
+| 368 | 120 | Tanya Clayton |
+| 369 | 119 | Kelvin Cook |
+| 370 | 119 | Lexx Robins |
 | 371 | 118 | izzybella |
-| 372 | 117 | MonaSparks |
-| 373 | 117 | Choc |
-| 374 | 116 | Shalya Terry |
-| 375 | 115 | BabyCakes |
+| 372 | 118 | Hasty Pivoty |
+| 373 | 117 | MonaSparks |
+| 374 | 117 | Choc |
+| 375 | 116 | Shalya Terry |
 | 376 | 115 | wmedina67 |
 | 377 | 115 | Ashleyy Netchert |
-| 378 | 114 | LAhoneybun82 |
-| 379 | 114 | Brittany Fells |
-| 380 | 114 | Faith Armone |
-| 381 | 114 | Nina Davis |
+| 378 | 115 | BabyCakes |
+| 379 | 114 | Nina Davis |
+| 380 | 114 | LAhoneybun82 |
+| 381 | 114 | Faith Armone |
 | 382 | 113 | Shakuria Cortia Burney |
-| 383 | 112 | Jennah |
-| 384 | 112 | GamerQueenDS |
+| 383 | 112 | GamerQueenDS |
+| 384 | 112 | Jennah |
 | 385 | 111 | Daring Blockclear |
 | 386 | 111 | Ad Doctor |
 | 387 | 110 | Chandler Magee |
