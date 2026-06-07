@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 21:00:19 UTC
+# Standings for team1 as of 2026-06-07 21:00:42 UTC
 
 **Total Participants:** 1579
 
@@ -90,11 +90,11 @@
 | 82 | 766 | Jaida De'Anne Cox |
 | 83 | 764 | Joy Citizen Pickney |
 | 84 | 763 | Richard Horton |
-| 85 | 749 | Aviv Zehavi |
-| 86 | 748 | Moomoo |
-| 87 | 743 | Tameka Jones |
-| 88 | 740 | Dawn L Washington-Feuquay |
-| 89 | 738 | MamaBear |
+| 85 | 762 | MamaBear |
+| 86 | 749 | Aviv Zehavi |
+| 87 | 748 | Moomoo |
+| 88 | 743 | Tameka Jones |
+| 89 | 740 | Dawn L Washington-Feuquay |
 | 90 | 728 | PandaPrincess |
 | 91 | 723 | Eartha Brown |
 | 92 | 720 | Felicia Williams |
@@ -123,7 +123,7 @@
 | 115 | 557 | Dynah Gordon |
 | 116 | 551 | Bambi Love |
 | 117 | 548 | Ottison Dianna |
-| 118 | 539 | Chris Caniglia |
+| 118 | 547 | Chris Caniglia |
 | 119 | 539 | Cj Gorman |
 | 120 | 534 | Gael Quintana |
 | 121 | 533 | Mimi 1.0 |
@@ -302,12 +302,12 @@
 | 294 | 201 | Rayshawn Cohen |
 | 295 | 201 | Brittnay Wright |
 | 296 | 200 | Hailey Hil |
-| 297 | 200 | Sara Meri |
-| 298 | 200 | Coco |
-| 299 | 199 | Fina McKinnis |
-| 300 | 199 | Poppy Buildout |
-| 301 | 199 | $hort Dog |
-| 302 | 197 | Sarah Clark |
+| 297 | 200 | Sarah Clark |
+| 298 | 200 | Sara Meri |
+| 299 | 200 | Coco |
+| 300 | 199 | Fina McKinnis |
+| 301 | 199 | Poppy Buildout |
+| 302 | 199 | $hort Dog |
 | 303 | 197 | Tipsy Linkroll |
 | 304 | 194 | Cheery Linkfall |
 | 305 | 192 | Clever Fitblock |
