@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 15:34:39 UTC
+# Standings for team1 as of 2026-06-07 15:35:18 UTC
 
 **Total Participants:** 1494
 
@@ -255,7 +255,7 @@
 | 247 | 231 | Rachel Zimmerman |
 | 248 | 229 | Ann White |
 | 249 | 226 | Slinky Brickmatch |
-| 250 | 223 | Steve Reno |
+| 250 | 224 | Steve Reno |
 | 251 | 220 | Christian Pham |
 | 252 | 217 | Koi |
 | 253 | 212 | Trina Greenwood |
