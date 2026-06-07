@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 09:14:18 UTC
+# Standings for team4 as of 2026-06-07 09:14:40 UTC
 
 **Total Participants:** 1427
 
@@ -120,11 +120,11 @@
 | 112 | 454 | Melissa WC |
 | 113 | 450 | Sassy Column |
 | 114 | 443 | Crissy Hoffman |
-| 115 | 433 | Gorica Prusina |
-| 116 | 432 | Sarah Berry Stevens |
-| 117 | 430 | Kaash Brxtt |
-| 118 | 429 | iiPurgeV2 |
-| 119 | 421 | Ermadette |
+| 115 | 437 | Ermadette |
+| 116 | 433 | Gorica Prusina |
+| 117 | 432 | Sarah Berry Stevens |
+| 118 | 430 | Kaash Brxtt |
+| 119 | 429 | iiPurgeV2 |
 | 120 | 421 | Michelle Ross |
 | 121 | 418 | Aisha Estrada |
 | 122 | 415 | Chuck Gannon |
@@ -158,33 +158,33 @@
 | 150 | 335 | Taz |
 | 151 | 335 | Andrew Dang |
 | 152 | 326 | Bobbie Harrell |
-| 153 | 317 | Debby Ruof |
-| 154 | 315 | Thomasena Eady Reid |
-| 155 | 311 | Jesse Olive |
-| 156 | 304 | Dazzle Dragon |
-| 157 | 303 | Sisi RedVelvet Reneè |
-| 158 | 300 | Genag |
-| 159 | 296 | Randy M Hatch |
-| 160 | 294 | Yesenia Castro Monreal |
-| 161 | 292 | Katie Martin |
-| 162 | 291 | shawna |
-| 163 | 289 | Chiquita Blue |
-| 164 | 285 | TRUCHILD777$$$ |
-| 165 | 282 | Nicole |
-| 166 | 281 | Margie Thomas |
-| 167 | 281 | Misty Leigh |
-| 168 | 280 | Suzanne Carter |
-| 169 | 280 | Slimm |
-| 170 | 279 | Iforget |
-| 171 | 279 | Brick House |
-| 172 | 277 | Giggly Tilt |
-| 173 | 273 | Danielle Mitchell |
-| 174 | 270 | Jojo Ann |
-| 175 | 269 | Scamp Jones |
-| 176 | 268 | Megan Vick |
-| 177 | 267 | QueenLi86 |
-| 178 | 262 | squareMel |
-| 179 | 261 | Gracie Ornelas |
+| 153 | 321 | Gracie Ornelas |
+| 154 | 317 | Debby Ruof |
+| 155 | 315 | Thomasena Eady Reid |
+| 156 | 311 | Jesse Olive |
+| 157 | 304 | Dazzle Dragon |
+| 158 | 303 | Sisi RedVelvet Reneè |
+| 159 | 300 | Genag |
+| 160 | 296 | Randy M Hatch |
+| 161 | 294 | Yesenia Castro Monreal |
+| 162 | 292 | Katie Martin |
+| 163 | 291 | shawna |
+| 164 | 289 | Chiquita Blue |
+| 165 | 285 | TRUCHILD777$$$ |
+| 166 | 282 | Nicole |
+| 167 | 281 | Margie Thomas |
+| 168 | 281 | Misty Leigh |
+| 169 | 280 | Suzanne Carter |
+| 170 | 280 | Slimm |
+| 171 | 279 | Iforget |
+| 172 | 279 | Brick House |
+| 173 | 277 | Giggly Tilt |
+| 174 | 273 | Danielle Mitchell |
+| 175 | 270 | Jojo Ann |
+| 176 | 269 | Scamp Jones |
+| 177 | 268 | Megan Vick |
+| 178 | 267 | QueenLi86 |
+| 179 | 262 | squareMel |
 | 180 | 261 | Waxboss |
 | 181 | 259 | Jessica Peyton |
 | 182 | 253 | Tammy June |
@@ -278,10 +278,10 @@
 | 270 | 161 | Bouncy |
 | 271 | 160 | Fran Aaron-Ring |
 | 272 | 160 | kellie |
-| 273 | 160 | Morgan Stevens |
-| 274 | 160 | Frothy Pattern |
-| 275 | 159 | Logan Two-dubs Baker |
-| 276 | 159 | JoAnn Summerlot Ratliff |
+| 273 | 160 | Frothy Pattern |
+| 274 | 160 | Morgan Stevens |
+| 275 | 159 | JoAnn Summerlot Ratliff |
+| 276 | 159 | Logan Two-dubs Baker |
 | 277 | 158 | Joseph Hunter |
 | 278 | 157 | Tipsy Zonebuilder |
 | 279 | 157 | Laguya |
