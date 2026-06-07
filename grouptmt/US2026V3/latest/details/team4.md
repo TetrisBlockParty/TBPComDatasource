@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-06-07 18:48:19 UTC
+# Standings for team4 as of 2026-06-07 18:48:40 UTC
 
-**Total Participants:** 1572
+**Total Participants:** 1573
 
 ## Participant Scores
 
@@ -642,39 +642,39 @@
 | 634 | 84 | Sharon Tyler |
 | 635 | 84 | Lisa Ferriero-Daudin |
 | 636 | 84 | jojo |
-| 637 | 83 | Cozy Patternline |
-| 638 | 83 | Peter Babineaux Jr |
-| 639 | 83 | Lady |
-| 640 | 83 | Brian Woods |
-| 641 | 83 | David Lay |
-| 642 | 83 | Peachy Piecefit |
-| 643 | 83 | Snippy Racker |
-| 644 | 82 | Cari Underwood |
-| 645 | 82 | Dapper Tiltpiece |
-| 646 | 82 | Virgil Mayfield-Brown |
-| 647 | 82 | Mar Mar |
-| 648 | 82 | Joshua Hunt |
-| 649 | 82 | GETBOXED! |
-| 650 | 82 | Charity Thomas |
-| 651 | 81 | GingaNinja |
-| 652 | 81 | Destiny Starr LeValdo |
-| 653 | 81 | Kimberly Civinski |
-| 654 | 81 | Marisela Alvarado |
-| 655 | 80 | Cecilia Hicks |
-| 656 | 80 | Jay Keating |
-| 657 | 80 | Alice Eisnor-Martens |
-| 658 | 80 | Alicia |
-| 659 | 80 | Clever Brickzone |
-| 660 | 80 | Josh Keith Travierso |
-| 661 | 80 | Mike Zec II |
-| 662 | 80 | Rin |
-| 663 | 80 | Joe Richard |
-| 664 | 80 | Keke Johnson |
-| 665 | 80 | Marie Adkins |
-| 666 | 80 | Kelly Miller Williams |
-| 667 | 80 | JIGsaw ~(•¿°)~ |
-| 668 | 80 | Brooke Bauer |
-| 669 | 80 | Esmond Johnson IV |
+| 637 | 83 | Esmond Johnson IV |
+| 638 | 83 | Cozy Patternline |
+| 639 | 83 | Peter Babineaux Jr |
+| 640 | 83 | Lady |
+| 641 | 83 | Brian Woods |
+| 642 | 83 | David Lay |
+| 643 | 83 | Peachy Piecefit |
+| 644 | 83 | Snippy Racker |
+| 645 | 82 | Cari Underwood |
+| 646 | 82 | Dapper Tiltpiece |
+| 647 | 82 | Virgil Mayfield-Brown |
+| 648 | 82 | Mar Mar |
+| 649 | 82 | Joshua Hunt |
+| 650 | 82 | GETBOXED! |
+| 651 | 82 | Charity Thomas |
+| 652 | 81 | GingaNinja |
+| 653 | 81 | Destiny Starr LeValdo |
+| 654 | 81 | Kimberly Civinski |
+| 655 | 81 | Marisela Alvarado |
+| 656 | 80 | Cecilia Hicks |
+| 657 | 80 | Jay Keating |
+| 658 | 80 | Alice Eisnor-Martens |
+| 659 | 80 | Alicia |
+| 660 | 80 | Clever Brickzone |
+| 661 | 80 | Josh Keith Travierso |
+| 662 | 80 | Mike Zec II |
+| 663 | 80 | Rin |
+| 664 | 80 | Joe Richard |
+| 665 | 80 | Keke Johnson |
+| 666 | 80 | Marie Adkins |
+| 667 | 80 | Kelly Miller Williams |
+| 668 | 80 | JIGsaw ~(•¿°)~ |
+| 669 | 80 | Brooke Bauer |
 | 670 | 80 | Krista Diaz |
 | 671 | 79 | Deb 07 |
 | 672 | 79 | Dru Lui |
@@ -1501,83 +1501,84 @@
 | 1493 | 9 | Dandy Balancer |
 | 1494 | 9 | Marty Carver |
 | 1495 | 9 | Patsy |
-| 1496 | 9 | MissGranity |
-| 1497 | 9 | Todd Hamilton |
+| 1496 | 9 | Todd Hamilton |
+| 1497 | 9 | MissGranity |
 | 1498 | 9 | Phoenyx Roze |
 | 1499 | 9 | Frothy Riseclear |
 | 1500 | 9 | fmp |
 | 1501 | 9 | Whos Square |
 | 1502 | 9 | Fancy Curvetile |
 | 1503 | 9 | estefi |
-| 1504 | 8 | Virgo27 |
-| 1505 | 8 | Ivory Glenn |
-| 1506 | 8 | Frisky Blocker |
-| 1507 | 8 | Gabby Markham |
-| 1508 | 8 | Acyndra Cain |
-| 1509 | 8 | Jen Molepske |
-| 1510 | 8 | Bryieson Watson |
-| 1511 | 8 | Happy shelli |
-| 1512 | 8 | Mac James |
-| 1513 | 8 | LaTesha D Williams |
-| 1514 | 8 | Mayleen Delgado |
-| 1515 | 8 | Chummy Gridder |
-| 1516 | 8 | Phoebe Tracy |
-| 1517 | 8 | Gerald Marx |
-| 1518 | 8 | Billy Brasher |
-| 1519 | 8 | Nums |
-| 1520 | 8 | Tony Tenas |
-| 1521 | 8 | Shania Richmond |
-| 1522 | 8 | Lewis Potts |
-| 1523 | 7 | John Brandon Kinney |
-| 1524 | 7 | Rican |
+| 1504 | 8 | Tony Tenas |
+| 1505 | 8 | Jen Molepske |
+| 1506 | 8 | Bryieson Watson |
+| 1507 | 8 | Acyndra Cain |
+| 1508 | 8 | Happy shelli |
+| 1509 | 8 | Mac James |
+| 1510 | 8 | LaTesha D Williams |
+| 1511 | 8 | Gabby Markham |
+| 1512 | 8 | Mayleen Delgado |
+| 1513 | 8 | Chummy Gridder |
+| 1514 | 8 | Frisky Blocker |
+| 1515 | 8 | Ivory Glenn |
+| 1516 | 8 | Gerald Marx |
+| 1517 | 8 | Nums |
+| 1518 | 8 | Shania Richmond |
+| 1519 | 8 | Lewis Potts |
+| 1520 | 8 | Billy Brasher |
+| 1521 | 8 | Virgo27 |
+| 1522 | 8 | Phoebe Tracy |
+| 1523 | 7 | Angela Mertz |
+| 1524 | 7 | John Brandon Kinney |
 | 1525 | 7 | Chipper Hitter |
-| 1526 | 7 | Peaches3569 |
-| 1527 | 7 | Spicy Faller |
+| 1526 | 7 | pippy |
+| 1527 | 7 | Heather Smith-Carter |
 | 1528 | 7 | Estmercy |
-| 1529 | 7 | Amanda KN |
-| 1530 | 7 | pippy |
-| 1531 | 7 | Sheries |
-| 1532 | 7 | Angela Mertz |
-| 1533 | 7 | Sammmzzz |
-| 1534 | 7 | Malinda Fife |
-| 1535 | 7 | Melly |
-| 1536 | 7 | Misty Mathers |
-| 1537 | 7 | Michael McIntire |
-| 1538 | 7 | Kelly Pool |
-| 1539 | 7 | Kristen Templeman |
+| 1529 | 7 | Rican |
+| 1530 | 7 | Spicy Faller |
+| 1531 | 7 | Amanda KN |
+| 1532 | 7 | Peaches3569 |
+| 1533 | 7 | Sheries |
+| 1534 | 7 | Sammmzzz |
+| 1535 | 7 | Crystal Parker Bryant |
+| 1536 | 7 | Brandy Dark |
+| 1537 | 7 | Malinda Fife |
+| 1538 | 7 | Melly |
+| 1539 | 7 | PDubz |
 | 1540 | 7 | Dannie Ems |
-| 1541 | 7 | PDubz |
-| 1542 | 7 | Brandy Dark |
-| 1543 | 7 | Crystal Parker Bryant |
-| 1544 | 7 | Heather Smith-Carter |
-| 1545 | 6 | Sherry Heilig |
-| 1546 | 6 | Spunky Winder |
-| 1547 | 6 | Jasmine Turner |
-| 1548 | 6 | Violet Mejia |
-| 1549 | 6 | Crissie Mary Schafer |
-| 1550 | 6 | Funky Zonebuilder |
-| 1551 | 6 | Selina Moore |
-| 1552 | 6 | Rowboat |
-| 1553 | 6 | Theamazingspiderman |
-| 1554 | 6 | Kelly |
-| 1555 | 6 | Frothy Gridmatch |
-| 1556 | 6 | Richierich Gonzalez |
-| 1557 | 6 | April McWhite |
-| 1558 | 6 | Goodie |
-| 1559 | 6 | Loony Brickzone |
-| 1560 | 6 | Rachel |
-| 1561 | 5 | Chad N Tori Steiner |
-| 1562 | 5 | James Lackey |
-| 1563 | 5 | Spicy Gridder |
-| 1564 | 5 | Cheery Twister |
-| 1565 | 5 | Frilly Brickroll |
+| 1541 | 7 | Kristen Templeman |
+| 1542 | 7 | Kelly Pool |
+| 1543 | 7 | Michael McIntire |
+| 1544 | 7 | Misty Mathers |
+| 1545 | 6 | Funky Zonebuilder |
+| 1546 | 6 | Crissie Mary Schafer |
+| 1547 | 6 | Violet Mejia |
+| 1548 | 6 | Jasmine Turner |
+| 1549 | 6 | Sherry Heilig |
+| 1550 | 6 | Spunky Winder |
+| 1551 | 6 | Snippy Bouncer |
+| 1552 | 6 | Selina Moore |
+| 1553 | 6 | Rowboat |
+| 1554 | 6 | Theamazingspiderman |
+| 1555 | 6 | Kelly |
+| 1556 | 6 | Frothy Gridmatch |
+| 1557 | 6 | Richierich Gonzalez |
+| 1558 | 6 | April McWhite |
+| 1559 | 6 | Goodie |
+| 1560 | 6 | Loony Brickzone |
+| 1561 | 6 | Rachel |
+| 1562 | 5 | Chad N Tori Steiner |
+| 1563 | 5 | James Lackey |
+| 1564 | 5 | Spicy Gridder |
+| 1565 | 5 | Cheery Twister |
 | 1566 | 5 | Tina Berdeja |
-| 1567 | 5 | Linda Monique |
-| 1568 | 5 | Swanky Zigzag |
-| 1569 | 5 | Debbie Johnson |
-| 1570 | 5 | Sean Ha |
-| 1571 | 5 | Theonei |
-| 1572 | 5 | Tippet |
+| 1567 | 5 | Frilly Brickroll |
+| 1568 | 5 | Linda Monique |
+| 1569 | 5 | Swanky Zigzag |
+| 1570 | 5 | Debbie Johnson |
+| 1571 | 5 | Sean Ha |
+| 1572 | 5 | Theonei |
+| 1573 | 5 | Tippet |
 
 ---
 *Standings created by tournaments datasource generation tool*
