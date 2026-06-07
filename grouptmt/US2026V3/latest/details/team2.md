@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:46:18 UTC
+# Standings for team2 as of 2026-06-07 09:46:39 UTC
 
 **Total Participants:** 1691
 
@@ -221,23 +221,23 @@
 | 213 | 269 | Chipper Stackbuilder |
 | 214 | 263 | Snappy Blockbuilder |
 | 215 | 263 | Glitzy Base |
-| 216 | 263 | Jessica Lynn |
-| 217 | 262 | Cool Balancer |
-| 218 | 261 | AndrewandShela Gornik |
-| 219 | 259 | Angie Kowalsky Olson |
-| 220 | 257 | Xandrea Jones |
-| 221 | 257 | Jat |
-| 222 | 253 | Hilliary Beyer |
-| 223 | 253 | Marge Cromer |
-| 224 | 252 | Kathy Strickland |
-| 225 | 250 | Nikki EightySixed |
-| 226 | 250 | marsam |
-| 227 | 250 | Iesha Cupil |
-| 228 | 247 | Brittni Lawrence |
-| 229 | 247 | Melissa Thomas |
-| 230 | 246 | Elizabeth Henry |
-| 231 | 246 | Brooke Lynn Marie Adelaide |
-| 232 | 243 | Groovy Snapper |
+| 216 | 263 | Groovy Snapper |
+| 217 | 263 | Jessica Lynn |
+| 218 | 262 | Cool Balancer |
+| 219 | 261 | AndrewandShela Gornik |
+| 220 | 259 | Angie Kowalsky Olson |
+| 221 | 257 | Xandrea Jones |
+| 222 | 257 | Jat |
+| 223 | 253 | Hilliary Beyer |
+| 224 | 253 | Marge Cromer |
+| 225 | 252 | Kathy Strickland |
+| 226 | 250 | Nikki EightySixed |
+| 227 | 250 | marsam |
+| 228 | 250 | Iesha Cupil |
+| 229 | 247 | Brittni Lawrence |
+| 230 | 247 | Melissa Thomas |
+| 231 | 246 | Elizabeth Henry |
+| 232 | 246 | Brooke Lynn Marie Adelaide |
 | 233 | 241 | Boldy Wobbler |
 | 234 | 240 | PaiBri |
 | 235 | 239 | Norma Ortiz |
