@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 06:10:19 UTC
+# Standings for team2 as of 2026-06-07 06:10:40 UTC
 
 **Total Participants:** 1649
 
@@ -124,11 +124,11 @@
 | 116 | 547 | Kvothe |
 | 117 | 541 | Ricardo Ewart |
 | 118 | 528 | Amanda Sikes |
-| 119 | 516 | Amber Miller Wirick |
-| 120 | 515 | Loony Faller |
-| 121 | 500 | Courtney McCulley |
-| 122 | 500 | Suki Kaur |
-| 123 | 494 | Alison Waller |
+| 119 | 518 | Alison Waller |
+| 120 | 516 | Amber Miller Wirick |
+| 121 | 515 | Loony Faller |
+| 122 | 500 | Courtney McCulley |
+| 123 | 500 | Suki Kaur |
 | 124 | 486 | Jackie Tupper |
 | 125 | 483 | Karen Reid Cenkush |
 | 126 | 483 | Amber-leigh Williams |
@@ -419,10 +419,10 @@
 | 411 | 125 | Wayne Johnson |
 | 412 | 124 | Angeleye A James |
 | 413 | 124 | Jason Burris |
-| 414 | 123 | Simone F |
-| 415 | 123 | Jumpy Matchbuilder |
-| 416 | 123 | Sassy Twistbuilder |
-| 417 | 123 | Amber Smith |
+| 414 | 124 | Amber Smith |
+| 415 | 123 | Simone F |
+| 416 | 123 | Jumpy Matchbuilder |
+| 417 | 123 | Sassy Twistbuilder |
 | 418 | 122 | Maria Ward |
 | 419 | 122 | Katie Jones |
 | 420 | 122 | Kevin Patrick |
