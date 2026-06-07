@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-06-07 09:04:19 UTC
+# Standings for team4 as of 2026-06-07 09:04:41 UTC
 
-**Total Participants:** 1423
+**Total Participants:** 1424
 
 ## Participant Scores
 
@@ -12,27 +12,27 @@
 | 4 | 7429 | ktothet |
 | 5 | 5469 | Kait Confetti |
 | 6 | 5300 | Candice Driver |
-| 7 | 4920 | Jerald Jones |
-| 8 | 4772 | Anna Moses |
-| 9 | 4540 | delilahbelle |
-| 10 | 4323 | Nia Mayfield |
-| 11 | 4261 | Chris Hills |
-| 12 | 4184 | t |
-| 13 | 4139 | Bryony Nicholson |
-| 14 | 3917 | TitiLo72 |
-| 15 | 3797 | Hanan Hana |
-| 16 | 3784 | Tyra Brooke Everman Forest |
-| 17 | 3776 | Dana Smith |
-| 18 | 3701 | BertaF1irta |
-| 19 | 3667 | Daring Ziggy |
-| 20 | 3643 | Jackie Lucas |
-| 21 | 3612 | Tonya Brooks-Johnson |
-| 22 | 3508 | Hasty Builder |
-| 23 | 3493 | Bubbly Twistpiece |
-| 24 | 3150 | Destiny Dyer |
-| 25 | 3095 | Irene Arreguin |
-| 26 | 3069 | Squirrel Donkey |
-| 27 | 3000 | Jessica Sheehan |
+| 7 | 5000 | Jessica Sheehan |
+| 8 | 4920 | Jerald Jones |
+| 9 | 4772 | Anna Moses |
+| 10 | 4540 | delilahbelle |
+| 11 | 4323 | Nia Mayfield |
+| 12 | 4261 | Chris Hills |
+| 13 | 4184 | t |
+| 14 | 4139 | Bryony Nicholson |
+| 15 | 3917 | TitiLo72 |
+| 16 | 3797 | Hanan Hana |
+| 17 | 3784 | Tyra Brooke Everman Forest |
+| 18 | 3776 | Dana Smith |
+| 19 | 3701 | BertaF1irta |
+| 20 | 3667 | Daring Ziggy |
+| 21 | 3643 | Jackie Lucas |
+| 22 | 3612 | Tonya Brooks-Johnson |
+| 23 | 3508 | Hasty Builder |
+| 24 | 3493 | Bubbly Twistpiece |
+| 25 | 3150 | Destiny Dyer |
+| 26 | 3095 | Irene Arreguin |
+| 27 | 3069 | Squirrel Donkey |
 | 28 | 2954 | Senor Moppy |
 | 29 | 2882 | Fruitpunch |
 | 30 | 2133 | Alexandria Frazier |
@@ -1383,13 +1383,13 @@
 | 1375 | 8 | CRsLady |
 | 1376 | 8 | Lewis Potts |
 | 1377 | 8 | Phoebe Tracy |
-| 1378 | 7 | Heather Smith-Carter |
+| 1378 | 7 | Glendala Whitewing |
 | 1379 | 7 | pippy |
 | 1380 | 7 | Misty Mathers |
 | 1381 | 7 | Sammmzzz |
-| 1382 | 7 | Glendala Whitewing |
-| 1383 | 7 | Michael McIntire |
-| 1384 | 7 | Kelly Pool |
+| 1382 | 7 | Michael McIntire |
+| 1383 | 7 | Kelly Pool |
+| 1384 | 7 | Heather Smith-Carter |
 | 1385 | 7 | Dannie Ems |
 | 1386 | 7 | Rican |
 | 1387 | 7 | Peaches3569 |
@@ -1419,16 +1419,17 @@
 | 1411 | 6 | Selina Moore |
 | 1412 | 5 | Chad N Tori Steiner |
 | 1413 | 5 | Theonei |
-| 1414 | 5 | Tina Berdeja |
-| 1415 | 5 | James Lackey |
+| 1414 | 5 | James Lackey |
+| 1415 | 5 | Tina Berdeja |
 | 1416 | 5 | Liz R |
 | 1417 | 5 | Sean Ha |
 | 1418 | 5 | Laura Ratliff |
-| 1419 | 5 | Linda Monique |
-| 1420 | 5 | Debbie Johnson |
-| 1421 | 5 | Swanky Zigzag |
-| 1422 | 5 | Cheery Twister |
-| 1423 | 5 | Tippet |
+| 1419 | 5 | Yam My |
+| 1420 | 5 | Linda Monique |
+| 1421 | 5 | Debbie Johnson |
+| 1422 | 5 | Swanky Zigzag |
+| 1423 | 5 | Cheery Twister |
+| 1424 | 5 | Tippet |
 
 ---
 *Standings created by tournaments datasource generation tool*
