@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 07:06:42 UTC
+# Standings for team1 as of 2026-06-07 07:07:18 UTC
 
 **Total Participants:** 1409
 
@@ -174,8 +174,8 @@
 | 166 | 285 | Ashley MyBeauty Daniels |
 | 167 | 285 | Helen Smith |
 | 168 | 284 | Tamara N Lee |
-| 169 | 277 | Tonya Lee Sanders |
-| 170 | 276 | Karebear |
+| 169 | 281 | Karebear |
+| 170 | 277 | Tonya Lee Sanders |
 | 171 | 276 | Cortaz Lawrie |
 | 172 | 275 | Jawaun Daniels |
 | 173 | 275 | Chris Sladoje |
@@ -283,12 +283,12 @@
 | 275 | 160 | Spicy Risepiece |
 | 276 | 159 | TBABYJ |
 | 277 | 159 | Brand Nu |
-| 278 | 158 | Kimberly Linares Hernandez |
-| 279 | 157 | Courtney Cicoria |
-| 280 | 156 | Cheeky Twistpiece |
-| 281 | 156 | SceneGreenz Wali |
-| 282 | 155 | Lazy Tiltpiece |
-| 283 | 154 | Ann White |
+| 278 | 158 | Ann White |
+| 279 | 158 | Kimberly Linares Hernandez |
+| 280 | 157 | Courtney Cicoria |
+| 281 | 156 | Cheeky Twistpiece |
+| 282 | 156 | SceneGreenz Wali |
+| 283 | 155 | Lazy Tiltpiece |
 | 284 | 154 | Slinky Snapbuilder |
 | 285 | 154 | Sammie Walker |
 | 286 | 153 | Rackemwillie34 |
@@ -313,8 +313,8 @@
 | 305 | 141 | Jhonny Maii |
 | 306 | 141 | Shalena Marie Humphrey |
 | 307 | 140 | Nerdy Blockpiece |
-| 308 | 140 | Antoinette Jones |
-| 309 | 139 | MamushiOh |
+| 308 | 140 | MamushiOh |
+| 309 | 140 | Antoinette Jones |
 | 310 | 138 | Tamika Rocheteau |
 | 311 | 137 | Giggy Tower |
 | 312 | 137 | Tay |
@@ -399,75 +399,75 @@
 | 391 | 105 | Maria |
 | 392 | 105 | BabyCakes |
 | 393 | 105 | Analiza Ramos |
-| 394 | 105 | Mighty Dropper |
-| 395 | 105 | Kelley Johnson |
-| 396 | 104 | Eric Spencer Whitaker |
-| 397 | 104 | Tyiesha Pie Farmer |
-| 398 | 104 | Ahvae Lee |
-| 399 | 104 | Bella |
-| 400 | 103 | Lakiesha Crawford |
+| 394 | 105 | Bbyunicorn |
+| 395 | 105 | Mighty Dropper |
+| 396 | 105 | Kelley Johnson |
+| 397 | 104 | Eric Spencer Whitaker |
+| 398 | 104 | Tyiesha Pie Farmer |
+| 399 | 104 | Ahvae Lee |
+| 400 | 104 | Bella |
 | 401 | 103 | Lynnette WheelerBushnell |
-| 402 | 102 | Sarah Steckbauer |
-| 403 | 102 | Christi Walker Patton |
-| 404 | 101 | Elaine Pauley |
-| 405 | 101 | Wacky Wipepiece |
+| 402 | 103 | Lakiesha Crawford |
+| 403 | 102 | Sarah Steckbauer |
+| 404 | 102 | Christi Walker Patton |
+| 405 | 101 | Elaine Pauley |
 | 406 | 101 | star |
-| 407 | 101 | Mommy Frank |
-| 408 | 101 | Joana Thompson |
-| 409 | 100 | $hort Dog |
-| 410 | 100 | Seddrick |
+| 407 | 101 | Wacky Wipepiece |
+| 408 | 101 | Mommy Frank |
+| 409 | 101 | Joana Thompson |
+| 410 | 100 | Leavon Smith |
 | 411 | 100 | Block King |
-| 412 | 100 | Oldheads |
+| 412 | 100 | Seddrick |
 | 413 | 100 | Kesha Brady |
-| 414 | 100 | Leavon Smith |
+| 414 | 100 | Oldheads |
 | 415 | 100 | Natasha Rucker |
 | 416 | 100 | Mary Phillippi Blanton |
 | 417 | 100 | Jean Regis |
 | 418 | 100 | Kennedi Brazziel |
 | 419 | 100 | Cornelius Neal |
-| 420 | 100 | Tessa Gaskin |
-| 421 | 99 | Travis Davison |
-| 422 | 99 | Ciera Peace |
-| 423 | 99 | SeanSanchez |
+| 420 | 100 | $hort Dog |
+| 421 | 100 | Tessa Gaskin |
+| 422 | 99 | Travis Davison |
+| 423 | 99 | Ciera Peace |
 | 424 | 99 | Mahagony Small |
 | 425 | 99 | ChunLi |
-| 426 | 98 | Dorian Griffin |
-| 427 | 98 | Shannon Carriger |
-| 428 | 98 | Michael Smith |
-| 429 | 98 | Sharee Robinson |
-| 430 | 97 | Kristie |
-| 431 | 97 | Erin Sabol |
-| 432 | 97 | Shanell Thomas |
-| 433 | 97 | Twisty Cascadeclear |
-| 434 | 97 | Lootch |
-| 435 | 97 | Nichole Horsley-Conn |
-| 436 | 96 | Sherri Keys |
-| 437 | 96 | Phillip Vasquez |
-| 438 | 96 | Yazz |
-| 439 | 96 | Bbyunicorn |
-| 440 | 95 | Shiny Lift |
-| 441 | 95 | Anthony |
+| 426 | 99 | SeanSanchez |
+| 427 | 98 | Dorian Griffin |
+| 428 | 98 | Shannon Carriger |
+| 429 | 98 | Michael Smith |
+| 430 | 98 | Sharee Robinson |
+| 431 | 97 | Kristie |
+| 432 | 97 | Erin Sabol |
+| 433 | 97 | Shanell Thomas |
+| 434 | 97 | Twisty Cascadeclear |
+| 435 | 97 | Lootch |
+| 436 | 97 | Nichole Horsley-Conn |
+| 437 | 96 | Sherri Keys |
+| 438 | 96 | Phillip Vasquez |
+| 439 | 96 | Yazz |
+| 440 | 95 | Jelyfish |
+| 441 | 95 | Shiny Lift |
 | 442 | 95 | Stephen Glaze |
-| 443 | 95 | Jelyfish |
-| 444 | 94 | Derald Miller |
-| 445 | 94 | Ta'Kaiyah M. Spann |
+| 443 | 95 | Anthony |
+| 444 | 94 | Ta'Kaiyah M. Spann |
+| 445 | 94 | Derald Miller |
 | 446 | 94 | Slinky Brickmatch |
-| 447 | 93 | Kate Hancock Malicek |
-| 448 | 93 | Rene Hicks |
-| 449 | 93 | Lucy |
-| 450 | 93 | Kimberly Susan Privette |
-| 451 | 93 | C Lo Green |
-| 452 | 92 | La'Chae Nickole |
+| 447 | 93 | Kimberly Susan Privette |
+| 448 | 93 | Lucy |
+| 449 | 93 | Kate Hancock Malicek |
+| 450 | 93 | C Lo Green |
+| 451 | 93 | Rene Hicks |
+| 452 | 92 | The DUBZ |
 | 453 | 92 | Pretty Yella |
-| 454 | 92 | The DUBZ |
-| 455 | 92 | Jennah |
+| 454 | 92 | Jennah |
+| 455 | 92 | La'Chae Nickole |
 | 456 | 91 | Aaron Hartmann |
-| 457 | 90 | Yashica Smith |
-| 458 | 90 | Shameka Tiffany |
+| 457 | 90 | Shameka Tiffany |
+| 458 | 90 | crumb bumc |
 | 459 | 90 | Lilly Brown |
 | 460 | 90 | CJ Robinson |
 | 461 | 90 | Jjhandsome |
-| 462 | 90 | crumb bumc |
+| 462 | 90 | Yashica Smith |
 | 463 | 90 | Nora Mahmoud |
 | 464 | 89 | Cynthia Cruell |
 | 465 | 89 | Jenni Hardman |
@@ -477,11 +477,11 @@
 | 469 | 88 | 大竹直之 |
 | 470 | 88 | Wacky Stackbuilder |
 | 471 | 87 | Cachet A Ward |
-| 472 | 87 | Natalie Burroughs |
-| 473 | 87 | Chummy Frame |
-| 474 | 87 | Holly Baker |
-| 475 | 86 | Kendra McIntyre |
-| 476 | 86 | Cm |
+| 472 | 87 | Chummy Frame |
+| 473 | 87 | Holly Baker |
+| 474 | 87 | Natalie Burroughs |
+| 475 | 86 | Cm |
+| 476 | 86 | Kendra McIntyre |
 | 477 | 86 | krd |
 | 478 | 86 | Tweet Turner |
 | 479 | 86 | Messy Live |
