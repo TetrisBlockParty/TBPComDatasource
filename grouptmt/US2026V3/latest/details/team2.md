@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 22:24:19 UTC
+# Standings for team2 as of 2026-06-07 22:24:43 UTC
 
 **Total Participants:** 1927
 
@@ -120,10 +120,10 @@
 | 112 | 767 | Amber Wolf |
 | 113 | 756 | snowwol |
 | 114 | 748 | Hoppy Rotate |
-| 115 | 711 | Groovy Snapper |
-| 116 | 709 | Epic Frame |
-| 117 | 694 | Josh Twilley |
-| 118 | 693 | Amber Miller Wirick |
+| 115 | 736 | Amber Miller Wirick |
+| 116 | 711 | Groovy Snapper |
+| 117 | 709 | Epic Frame |
+| 118 | 694 | Josh Twilley |
 | 119 | 685 | Sigmamom |
 | 120 | 682 | Wmk Rathbun |
 | 121 | 680 | Brandon Link |
@@ -257,20 +257,20 @@
 | 249 | 302 | Ashley Billiot Rhodes |
 | 250 | 302 | Spicy Risegrid |
 | 251 | 301 | Lora Via |
-| 252 | 300 | Melisa |
-| 253 | 300 | Patricia Carroll |
-| 254 | 299 | Mookshake |
-| 255 | 299 | Ackerman 85 |
-| 256 | 299 | Jessica Lynn |
-| 257 | 298 | Rob Owens |
-| 258 | 296 | Vistabrat |
-| 259 | 295 | James Ward |
-| 260 | 294 | Jeanna Mendez |
-| 261 | 293 | Pamela Raye |
-| 262 | 290 | Logan Duffey |
-| 263 | 286 | Chipper Stackbuilder |
-| 264 | 286 | Kathleen Keogh Van Schoyck |
-| 265 | 282 | Janelle Edgecombe |
+| 252 | 301 | Janelle Edgecombe |
+| 253 | 300 | Melisa |
+| 254 | 300 | Patricia Carroll |
+| 255 | 299 | Mookshake |
+| 256 | 299 | Ackerman 85 |
+| 257 | 299 | Jessica Lynn |
+| 258 | 298 | Rob Owens |
+| 259 | 296 | Vistabrat |
+| 260 | 295 | James Ward |
+| 261 | 294 | Jeanna Mendez |
+| 262 | 293 | Pamela Raye |
+| 263 | 290 | Logan Duffey |
+| 264 | 286 | Chipper Stackbuilder |
+| 265 | 286 | Kathleen Keogh Van Schoyck |
 | 266 | 281 | Boldy Wobbler |
 | 267 | 280 | Loopy Dropper |
 | 268 | 280 | August Christy Lathrop |
@@ -552,8 +552,8 @@
 | 544 | 132 | Kalli Bonin |
 | 545 | 131 | Lyndzey Sciscoe |
 | 546 | 131 | Gina Louise Parker |
-| 547 | 131 | Susie Conger |
-| 548 | 131 | Dame Smith |
+| 547 | 131 | Dame Smith |
+| 548 | 131 | Susie Conger |
 | 549 | 130 | Saucy Wrecker |
 | 550 | 130 | Tiffany Ann |
 | 551 | 130 | Sherri Caillet Aucoin |
@@ -566,11 +566,11 @@
 | 558 | 130 | Jenn |
 | 559 | 129 | Nova |
 | 560 | 129 | Perii Reynoso |
-| 561 | 129 | Carrie Smith Negron |
+| 561 | 129 | Groovy Glider |
 | 562 | 129 | Samantha Bugg Stitcher |
 | 563 | 129 | Kristi K Milner |
 | 564 | 129 | Jackie Walker |
-| 565 | 129 | Groovy Glider |
+| 565 | 129 | Carrie Smith Negron |
 | 566 | 129 | Michele Rogers |
 | 567 | 129 | Heather Vircik |
 | 568 | 129 | Armando Sabedra |
@@ -578,68 +578,68 @@
 | 570 | 127 | Josephina |
 | 571 | 127 | Tammy Roth |
 | 572 | 126 | Earline Dupuy Bordelon |
-| 573 | 125 | Ashlee Johnson |
-| 574 | 125 | Jason Lamporte |
-| 575 | 124 | Newtwidebody |
-| 576 | 124 | Angeleye A James |
-| 577 | 124 | Rachel M. Farnsworth |
-| 578 | 123 | Ssirkus |
-| 579 | 123 | Kenzie |
-| 580 | 123 | Simone F |
-| 581 | 122 | Violet Olivares |
-| 582 | 122 | Kristen |
-| 583 | 122 | Coleta Singleton-Gallishaw |
-| 584 | 121 | Jennifer Lalk |
+| 573 | 126 | Spunky Linkblock |
+| 574 | 125 | Ashlee Johnson |
+| 575 | 125 | Jason Lamporte |
+| 576 | 124 | Rachel M. Farnsworth |
+| 577 | 124 | Newtwidebody |
+| 578 | 124 | Angeleye A James |
+| 579 | 123 | Simone F |
+| 580 | 123 | Kenzie |
+| 581 | 123 | Ssirkus |
+| 582 | 122 | Violet Olivares |
+| 583 | 122 | Kristen |
+| 584 | 122 | Coleta Singleton-Gallishaw |
 | 585 | 121 | Carl Mccoy |
-| 586 | 120 | Joshua Hopkins |
+| 586 | 121 | Jennifer Lalk |
 | 587 | 120 | Nichole Wilson |
-| 588 | 120 | Adam Latin |
-| 589 | 120 | Alice Petterborg Barberich |
-| 590 | 120 | Keisha Robinson |
-| 591 | 120 | Tamara Whiteley |
-| 592 | 120 | Breezy |
-| 593 | 120 | Sydney Cheyenne |
-| 594 | 120 | Ashley Eneboe |
-| 595 | 120 | Cody Gates |
-| 596 | 119 | Lively Twisterfit |
-| 597 | 119 | Cherica Taylor |
-| 598 | 118 | Tracey Cox |
+| 588 | 120 | Sydney Cheyenne |
+| 589 | 120 | Ashley Eneboe |
+| 590 | 120 | Joshua Hopkins |
+| 591 | 120 | Adam Latin |
+| 592 | 120 | Alice Petterborg Barberich |
+| 593 | 120 | Keisha Robinson |
+| 594 | 120 | Tamara Whiteley |
+| 595 | 120 | Breezy |
+| 596 | 120 | Cody Gates |
+| 597 | 119 | Lively Twisterfit |
+| 598 | 119 | Cherica Taylor |
 | 599 | 118 | Frilly Shiftsnap |
-| 600 | 118 | Busted9mm |
-| 601 | 118 | Momof2wigglebutts |
-| 602 | 118 | Kimberly Brooks |
-| 603 | 118 | Kawana Nesbitt |
-| 604 | 118 | Goldie |
-| 605 | 118 | Dayna Messer-Thelen |
-| 606 | 117 | TNGal |
-| 607 | 117 | Poppy Strikerbuilder |
+| 600 | 118 | Dayna Messer-Thelen |
+| 601 | 118 | Busted9mm |
+| 602 | 118 | Tracey Cox |
+| 603 | 118 | Goldie |
+| 604 | 118 | Kawana Nesbitt |
+| 605 | 118 | Kimberly Brooks |
+| 606 | 118 | Momof2wigglebutts |
+| 607 | 117 | TNGal |
 | 608 | 117 | Brenda Shannon |
-| 609 | 117 | Terie Safrit |
-| 610 | 117 | CAL1KAWS559 |
-| 611 | 116 | Nerdy Gridlock |
-| 612 | 116 | Joshua Dye |
-| 613 | 116 | Sara Dunn |
-| 614 | 116 | Spunky Linkblock |
-| 615 | 116 | Riggins Terry |
-| 616 | 115 | Patty Ann Hendrickson |
-| 617 | 115 | Roe Sarmiento |
-| 618 | 115 | Leticia Tillman |
+| 609 | 117 | Poppy Strikerbuilder |
+| 610 | 117 | Terie Safrit |
+| 611 | 117 | CAL1KAWS559 |
+| 612 | 116 | Nerdy Gridlock |
+| 613 | 116 | Riggins Terry |
+| 614 | 116 | Sara Dunn |
+| 615 | 116 | Joshua Dye |
+| 616 | 115 | Edward Conyers |
+| 617 | 115 | Leticia Tillman |
+| 618 | 115 | Roe Sarmiento |
 | 619 | 115 | Vicke Patterson |
-| 620 | 115 | Edward Conyers |
-| 621 | 114 | Julibeth Wells |
+| 620 | 115 | Patty Ann Hendrickson |
+| 621 | 114 | Ginger Nesbitt |
 | 622 | 114 | Melissa Abbott |
-| 623 | 114 | Mary Whitaker |
-| 624 | 114 | Ginger Nesbitt |
+| 623 | 114 | Julibeth Wells |
+| 624 | 114 | Mary Whitaker |
 | 625 | 113 | Gina Leal |
 | 626 | 113 | Chipper Towerzone |
 | 627 | 112 | Nicole Ashbaugh |
 | 628 | 112 | Shannon Posner |
-| 629 | 112 | Rebekah Holland |
-| 630 | 112 | Spencer Ryder |
-| 631 | 111 | Shiny Spinfit |
-| 632 | 111 | Erin Lemanski |
-| 633 | 111 | Hog Crankin |
-| 634 | 111 | TiffTaff |
+| 629 | 112 | Spencer Ryder |
+| 630 | 112 | Rebekah Holland |
+| 631 | 111 | Hog Crankin |
+| 632 | 111 | Shiny Spinfit |
+| 633 | 111 | TiffTaff |
+| 634 | 111 | Erin Lemanski |
 | 635 | 110 | gene15 |
 | 636 | 110 | Dandy Tiltgrid |
 | 637 | 110 | Patti Ward |
