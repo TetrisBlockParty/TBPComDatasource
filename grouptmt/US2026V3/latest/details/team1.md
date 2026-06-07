@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 09:32:40 UTC
+# Standings for team1 as of 2026-06-07 09:33:17 UTC
 
 **Total Participants:** 1432
 
@@ -294,20 +294,20 @@
 | 286 | 160 | Zippy Tilefall |
 | 287 | 160 | Sara Meri |
 | 288 | 160 | Spicy Risepiece |
-| 289 | 159 | Brand Nu |
-| 290 | 159 | TBABYJ |
-| 291 | 158 | Kimberly Linares Hernandez |
-| 292 | 157 | Courtney Cicoria |
-| 293 | 156 | SceneGreenz Wali |
-| 294 | 156 | Snippy Breaker |
-| 295 | 156 | La'Chae Nickole |
+| 289 | 159 | Penee Wiggins |
+| 290 | 159 | Brand Nu |
+| 291 | 159 | TBABYJ |
+| 292 | 158 | Kimberly Linares Hernandez |
+| 293 | 157 | Courtney Cicoria |
+| 294 | 156 | SceneGreenz Wali |
+| 295 | 156 | Snippy Breaker |
 | 296 | 156 | Cheeky Twistpiece |
-| 297 | 155 | Penee Wiggins |
+| 297 | 156 | La'Chae Nickole |
 | 298 | 155 | Lazy Tiltpiece |
 | 299 | 154 | Slinky Snapbuilder |
 | 300 | 154 | Sammie Walker |
-| 301 | 153 | Tipsy Linkroll |
-| 302 | 153 | Rackemwillie34 |
+| 301 | 153 | Rackemwillie34 |
+| 302 | 153 | Tipsy Linkroll |
 | 303 | 152 | Wacky Stackbuilder |
 | 304 | 152 | Jolly Tilefall |
 | 305 | 150 | Slinky Party |
@@ -426,51 +426,51 @@
 | 418 | 102 | Sarah Steckbauer |
 | 419 | 102 | Phillip Vasquez |
 | 420 | 102 | Christi Walker Patton |
-| 421 | 101 | Joana Thompson |
-| 422 | 101 | Wacky Wipepiece |
-| 423 | 101 | star |
-| 424 | 101 | Mommy Frank |
-| 425 | 101 | Elaine Pauley |
-| 426 | 100 | Kennedi Brazziel |
-| 427 | 100 | Jean Regis |
+| 421 | 101 | Mommy Frank |
+| 422 | 101 | Joana Thompson |
+| 423 | 101 | Elaine Pauley |
+| 424 | 101 | star |
+| 425 | 101 | Wacky Wipepiece |
+| 426 | 100 | Jean Regis |
+| 427 | 100 | $hort Dog |
 | 428 | 100 | Kesha Brady |
-| 429 | 100 | Oldheads |
+| 429 | 100 | Mary Phillippi Blanton |
 | 430 | 100 | Tessa Gaskin |
-| 431 | 100 | Natasha Rucker |
-| 432 | 100 | Mary Phillippi Blanton |
-| 433 | 100 | $hort Dog |
+| 431 | 100 | Kennedi Brazziel |
+| 432 | 100 | Natasha Rucker |
+| 433 | 100 | Oldheads |
 | 434 | 100 | Cornelius Neal |
 | 435 | 100 | Seddrick |
 | 436 | 100 | Leavon Smith |
-| 437 | 99 | SeanSanchez |
-| 438 | 99 | Ciera Peace |
-| 439 | 99 | Mahagony Small |
+| 437 | 99 | Ciera Peace |
+| 438 | 99 | Mahagony Small |
+| 439 | 99 | SeanSanchez |
 | 440 | 99 | Travis Davison |
 | 441 | 99 | ChunLi |
 | 442 | 98 | Shannon Carriger |
-| 443 | 98 | Michael Smith |
-| 444 | 98 | Dorian Griffin |
+| 443 | 98 | Dorian Griffin |
+| 444 | 98 | Michael Smith |
 | 445 | 98 | Sharee Robinson |
-| 446 | 97 | Hyedie Badie |
-| 447 | 97 | Lootch |
-| 448 | 97 | Twisty Cascadeclear |
-| 449 | 97 | Andrew Jay Vaughn |
-| 450 | 97 | Erin Sabol |
-| 451 | 97 | Nichole Horsley-Conn |
-| 452 | 97 | Shanell Thomas |
-| 453 | 97 | NewEve |
-| 454 | 97 | Kristie |
-| 455 | 96 | Sherri Keys |
-| 456 | 96 | Yazz |
-| 457 | 95 | Shiny Lift |
-| 458 | 95 | Stephen Glaze |
-| 459 | 95 | Jelyfish |
-| 460 | 95 | Kate Hancock Malicek |
-| 461 | 95 | 大竹直之 |
+| 446 | 97 | Kristie |
+| 447 | 97 | Shanell Thomas |
+| 448 | 97 | Erin Sabol |
+| 449 | 97 | Lootch |
+| 450 | 97 | Hyedie Badie |
+| 451 | 97 | Twisty Cascadeclear |
+| 452 | 97 | Andrew Jay Vaughn |
+| 453 | 97 | Nichole Horsley-Conn |
+| 454 | 97 | NewEve |
+| 455 | 96 | Kate Hancock Malicek |
+| 456 | 96 | Sherri Keys |
+| 457 | 96 | Yazz |
+| 458 | 95 | Jelyfish |
+| 459 | 95 | Stephen Glaze |
+| 460 | 95 | 大竹直之 |
+| 461 | 95 | Shiny Lift |
 | 462 | 94 | Ta'Kaiyah M. Spann |
-| 463 | 94 | Slinky Brickmatch |
-| 464 | 94 | Sha Anderson |
-| 465 | 94 | Derald Miller |
+| 463 | 94 | Derald Miller |
+| 464 | 94 | Slinky Brickmatch |
+| 465 | 94 | Sha Anderson |
 | 466 | 93 | Lucy |
 | 467 | 93 | Chino Baby |
 | 468 | 93 | Anastasia |
