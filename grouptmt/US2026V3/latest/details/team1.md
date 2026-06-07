@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 20:06:42 UTC
+# Standings for team1 as of 2026-06-07 20:07:19 UTC
 
 **Total Participants:** 1562
 
@@ -16,7 +16,7 @@
 | 8 | 7572 | Debbie Carswell |
 | 9 | 7396 | Dyane Leah Ware |
 | 10 | 7059 | Tracy Cohen |
-| 11 | 6889 | Death by SnuSnu |
+| 11 | 6989 | Death by SnuSnu |
 | 12 | 6802 | Cozy Edge |
 | 13 | 5512 | Jocelyn Pope-Sewell |
 | 14 | 5511 | Timothy Robert |
@@ -54,7 +54,7 @@
 | 46 | 1433 | Cherry Rose |
 | 47 | 1376 | Robyn Caldwell |
 | 48 | 1358 | Jennifer To |
-| 49 | 1284 | JoJo |
+| 49 | 1344 | JoJo |
 | 50 | 1265 | Kkbk |
 | 51 | 1249 | Ashley Espeut |
 | 52 | 1239 | Holly Jolly |
@@ -92,7 +92,7 @@
 | 84 | 763 | Richard Horton |
 | 85 | 749 | Aviv Zehavi |
 | 86 | 740 | Dawn L Washington-Feuquay |
-| 87 | 734 | Moomoo |
+| 87 | 736 | Moomoo |
 | 88 | 723 | Eartha Brown |
 | 89 | 720 | Felicia Williams |
 | 90 | 710 | ing410 |
@@ -152,14 +152,14 @@
 | 144 | 431 | Lashawn Wallace |
 | 145 | 429 | Jason Mungin |
 | 146 | 420 | Jessica Carter |
-| 147 | 408 | Ebony Waynes-robinson |
-| 148 | 405 | SPNLover24 |
-| 149 | 404 | Hyper Slamdrop |
-| 150 | 401 | Shell Lewis |
-| 151 | 389 | Roberta Lynn |
-| 152 | 389 | GrkGdess |
-| 153 | 387 | Crystal Anderson |
-| 154 | 387 | Dena Marie Lee |
+| 147 | 417 | Dena Marie Lee |
+| 148 | 408 | Ebony Waynes-robinson |
+| 149 | 405 | SPNLover24 |
+| 150 | 404 | Hyper Slamdrop |
+| 151 | 401 | Shell Lewis |
+| 152 | 389 | Roberta Lynn |
+| 153 | 389 | GrkGdess |
+| 154 | 387 | Crystal Anderson |
 | 155 | 384 | Christana Imjustbutton Stone |
 | 156 | 380 | Dulo |
 | 157 | 377 | Jenna Renee |
