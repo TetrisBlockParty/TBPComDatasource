@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:06:41 UTC
+# Standings for team2 as of 2026-06-07 09:07:19 UTC
 
 **Total Participants:** 1687
 
@@ -99,9 +99,9 @@
 | 91 | 757 | Jazzy Faller |
 | 92 | 750 | Denise Potter |
 | 93 | 749 | Brandi Thompson |
-| 94 | 721 | Hoppy Rotate |
-| 95 | 721 | Smiley Dropper |
-| 96 | 708 | Nerdy Climber |
+| 94 | 728 | Nerdy Climber |
+| 95 | 721 | Hoppy Rotate |
+| 96 | 721 | Smiley Dropper |
 | 97 | 685 | Sigmamom |
 | 98 | 666 | Epic Frame |
 | 99 | 656 | Loopy Cascadepiece |

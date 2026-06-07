@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 09:06:41 UTC
+# Standings for team1 as of 2026-06-07 09:07:19 UTC
 
 **Total Participants:** 1429
 
@@ -225,9 +225,9 @@
 | 217 | 220 | Slim Shedidthat |
 | 218 | 220 | Devin West |
 | 219 | 219 | Jhonny Maii |
-| 220 | 217 | Reginald Frank |
-| 221 | 217 | Koi |
-| 222 | 216 | Nerdy Snapfall |
+| 220 | 218 | Nerdy Snapfall |
+| 221 | 217 | Reginald Frank |
+| 222 | 217 | Koi |
 | 223 | 214 | Teddy Davis |
 | 224 | 212 | Nobles Brandon |
 | 225 | 210 | Dion Gray |
