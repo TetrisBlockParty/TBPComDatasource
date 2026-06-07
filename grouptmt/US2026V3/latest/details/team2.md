@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 22:10:18 UTC
+# Standings for team2 as of 2026-06-07 22:10:42 UTC
 
 **Total Participants:** 1922
 
@@ -24,7 +24,7 @@
 | 16 | 5338 | Renee Weedling |
 | 17 | 5150 | boblawboblaw |
 | 18 | 4896 | Christina Jambard Sampier |
-| 19 | 4719 | Lola C Davis |
+| 19 | 4773 | Lola C Davis |
 | 20 | 4481 | Ber |
 | 21 | 4459 | Kathleen M Cox |
 | 22 | 4355 | Alexia Reagan |
@@ -63,7 +63,7 @@
 | 55 | 1704 | Heather Marie-Tarlton Britt |
 | 56 | 1682 | Elizabeth Sallas |
 | 57 | 1657 | Rashanna Bockhorn |
-| 58 | 1631 | Block Dog |
+| 58 | 1651 | Block Dog |
 | 59 | 1606 | Debra Henry |
 | 60 | 1606 | Nerdy Glidepiece |
 | 61 | 1551 | Monica Galli |
@@ -1554,14 +1554,14 @@
 | 1546 | 22 | Melinda Rausch |
 | 1547 | 22 | Nutty Cascader |
 | 1548 | 22 | Raven |
-| 1549 | 21 | Mandy |
+| 1549 | 21 | Rachel Burkett |
 | 1550 | 21 | twistyzone |
 | 1551 | 21 | Loony Snapclear |
 | 1552 | 21 | BethAnn Pawlowski |
 | 1553 | 21 | Charlene Napier |
 | 1554 | 21 | Vee Waller |
 | 1555 | 21 | Chill Shatterclear |
-| 1556 | 21 | Rachel Burkett |
+| 1556 | 21 | Mandy |
 | 1557 | 21 | Witty Shatterline |
 | 1558 | 21 | Mona Good |
 | 1559 | 21 | Amanda Knox |
@@ -1589,79 +1589,79 @@
 | 1581 | 20 | Valerie Roberts |
 | 1582 | 20 | Deborah Morey-avila |
 | 1583 | 20 | Mitsy Lang |
-| 1584 | 20 | Shana Campbell |
-| 1585 | 20 | Ciera Adams |
+| 1584 | 20 | Chummy Smasher |
+| 1585 | 20 | Shana Campbell |
 | 1586 | 20 | Jenn Wittkamp |
-| 1587 | 20 | Kim Hoopes Townsend |
-| 1588 | 20 | Jamaica Flowers |
+| 1587 | 20 | Jamaica Flowers |
+| 1588 | 20 | Kim Hoopes Townsend |
 | 1589 | 20 | JrsWife |
-| 1590 | 20 | Krickett M. Curtis |
-| 1591 | 20 | KT Scott |
+| 1590 | 20 | KT Scott |
+| 1591 | 20 | Krickett M. Curtis |
 | 1592 | 20 | Melissa Kinsley |
 | 1593 | 20 | Jade007 |
 | 1594 | 20 | Diamond Mitchell |
-| 1595 | 20 | Chummy Smasher |
-| 1596 | 20 | Katie Thacker |
-| 1597 | 20 | Daniel Flathers |
+| 1595 | 20 | Ciera Adams |
+| 1596 | 20 | Daniel Flathers |
+| 1597 | 20 | BigHearted-57 |
 | 1598 | 20 | Sandra Betz |
 | 1599 | 20 | Spunky Riserfit |
-| 1600 | 20 | Twisty Glider |
-| 1601 | 19 | Liliana Mills |
-| 1602 | 19 | Stephanie Thompson |
-| 1603 | 19 | Kevin Osbourne |
-| 1604 | 19 | Chill Racker |
-| 1605 | 19 | Jodi Deninno |
-| 1606 | 19 | Alicia Abston |
-| 1607 | 19 | Nicole Slimick |
-| 1608 | 19 | Tetra Maniac |
-| 1609 | 19 | Jackie Hayslip |
-| 1610 | 19 | Milwaukee Area Cleaning |
-| 1611 | 19 | Sandra Kopas Stetka |
-| 1612 | 19 | Clever Balancefit |
-| 1613 | 19 | Snazzy Racker |
-| 1614 | 19 | Chris Cooper |
-| 1615 | 19 | Ashley Bryant-hatcher |
-| 1616 | 19 | Tabitha Porter |
-| 1617 | 19 | latte |
-| 1618 | 19 | Lindsay Gregory |
-| 1619 | 18 | Cynthia Vornlocker |
-| 1620 | 18 | Daimien Jarem |
-| 1621 | 18 | Miggy Gonzalez |
-| 1622 | 18 | Kris Lea |
-| 1623 | 18 | Rugrat Angi Bechstein |
-| 1624 | 18 | Taran Evans |
-| 1625 | 18 | Araiiya |
-| 1626 | 18 | Brandi Lynn Tumey |
-| 1627 | 18 | Ashley Wolford |
-| 1628 | 18 | Glitzy Stackbuilder |
-| 1629 | 18 | bob |
-| 1630 | 18 | Piper Michael |
-| 1631 | 18 | Alison Welsh |
-| 1632 | 18 | Steven Desmon Thompson |
-| 1633 | 18 | Frothy Line |
-| 1634 | 18 | Peachy Piecebuilder |
-| 1635 | 18 | Ashley Shazes |
-| 1636 | 18 | Randy Clevenger |
-| 1637 | 18 | Tavia Teschendorf Sliffe |
-| 1638 | 18 | Curley natioN |
-| 1639 | 18 | FabTeach |
-| 1640 | 18 | Squyrt |
-| 1641 | 18 | Loony Glider |
-| 1642 | 18 | Crafty Dashgrid |
+| 1600 | 20 | Katie Thacker |
+| 1601 | 20 | Twisty Glider |
+| 1602 | 19 | Liliana Mills |
+| 1603 | 19 | Stephanie Thompson |
+| 1604 | 19 | Kevin Osbourne |
+| 1605 | 19 | Chill Racker |
+| 1606 | 19 | Jodi Deninno |
+| 1607 | 19 | Alicia Abston |
+| 1608 | 19 | Nicole Slimick |
+| 1609 | 19 | Tetra Maniac |
+| 1610 | 19 | Jackie Hayslip |
+| 1611 | 19 | Milwaukee Area Cleaning |
+| 1612 | 19 | Sandra Kopas Stetka |
+| 1613 | 19 | Clever Balancefit |
+| 1614 | 19 | Snazzy Racker |
+| 1615 | 19 | Chris Cooper |
+| 1616 | 19 | Ashley Bryant-hatcher |
+| 1617 | 19 | Tabitha Porter |
+| 1618 | 19 | latte |
+| 1619 | 19 | Lindsay Gregory |
+| 1620 | 18 | Cynthia Vornlocker |
+| 1621 | 18 | Daimien Jarem |
+| 1622 | 18 | Miggy Gonzalez |
+| 1623 | 18 | Kris Lea |
+| 1624 | 18 | Rugrat Angi Bechstein |
+| 1625 | 18 | Taran Evans |
+| 1626 | 18 | Araiiya |
+| 1627 | 18 | Brandi Lynn Tumey |
+| 1628 | 18 | Ashley Wolford |
+| 1629 | 18 | Glitzy Stackbuilder |
+| 1630 | 18 | bob |
+| 1631 | 18 | Piper Michael |
+| 1632 | 18 | Alison Welsh |
+| 1633 | 18 | Steven Desmon Thompson |
+| 1634 | 18 | Frothy Line |
+| 1635 | 18 | Peachy Piecebuilder |
+| 1636 | 18 | Ashley Shazes |
+| 1637 | 18 | Randy Clevenger |
+| 1638 | 18 | Tavia Teschendorf Sliffe |
+| 1639 | 18 | Curley natioN |
+| 1640 | 18 | FabTeach |
+| 1641 | 18 | Squyrt |
+| 1642 | 18 | Loony Glider |
 | 1643 | 18 | Cathy Cobb |
-| 1644 | 18 | Chrystal Rodriguez |
-| 1645 | 18 | Glitzy Linkfall |
-| 1646 | 18 | Dizzy Glidezone |
+| 1644 | 18 | Crafty Dashgrid |
+| 1645 | 18 | Dizzy Glidezone |
+| 1646 | 18 | Glitzy Linkfall |
 | 1647 | 18 | Gen |
-| 1648 | 18 | BigHearted-57 |
+| 1648 | 18 | Chrystal Rodriguez |
 | 1649 | 18 | K2N |
-| 1650 | 18 | Mistress |
-| 1651 | 18 | Bruce Bower |
-| 1652 | 18 | Pam Martin |
+| 1650 | 18 | Pam Martin |
+| 1651 | 18 | Mistress |
+| 1652 | 18 | Bruce Bower |
 | 1653 | 18 | Anita Blackshear |
 | 1654 | 17 | Taderbug |
-| 1655 | 17 | Hansent3 |
-| 1656 | 17 | grey panther |
+| 1655 | 17 | grey panther |
+| 1656 | 17 | Hansent3 |
 | 1657 | 17 | Sk8Mom |
 | 1658 | 17 | Angela Knighton |
 | 1659 | 17 | Shane Peavey |
@@ -1683,19 +1683,19 @@
 | 1675 | 16 | Jennifer M Mitchell |
 | 1676 | 16 | Elliot |
 | 1677 | 16 | Tonya Reed |
-| 1678 | 16 | Rachel |
+| 1678 | 16 | Misty Dillard |
 | 1679 | 16 | Kimberly Rochon |
 | 1680 | 16 | Diane Pinkston Massey |
-| 1681 | 16 | Misty Dillard |
+| 1681 | 16 | ElizaThornberry |
 | 1682 | 16 | Charity Black |
-| 1683 | 16 | ElizaThornberry |
-| 1684 | 16 | Flashy Blockfall |
+| 1683 | 16 | Flashy Blockfall |
+| 1684 | 16 | Rachel |
 | 1685 | 15 | Rhonda McManus - Kimbrough |
 | 1686 | 15 | Elora |
-| 1687 | 15 | Aaron Henry |
-| 1688 | 15 | Wynde Wood |
-| 1689 | 15 | Andrea Lauren Smith |
-| 1690 | 15 | Happy Roll |
+| 1687 | 15 | Wynde Wood |
+| 1688 | 15 | Aaron Henry |
+| 1689 | 15 | Happy Roll |
+| 1690 | 15 | Andrea Lauren Smith |
 | 1691 | 15 | SabinawNorman Adams |
 | 1692 | 15 | Chass |
 | 1693 | 15 | AlDan |
@@ -1730,8 +1730,8 @@
 | 1722 | 14 | Manuel Lucero Jr. |
 | 1723 | 14 | Raymond Sadler |
 | 1724 | 14 | Imat Yesmar |
-| 1725 | 13 | Michelle Feliciano |
-| 1726 | 13 | Chad Praytor |
+| 1725 | 13 | Chad Praytor |
+| 1726 | 13 | Michelle Feliciano |
 | 1727 | 13 | Brave Curver |
 | 1728 | 13 | Kandie Warren |
 | 1729 | 13 | Cool Cornerfall |
