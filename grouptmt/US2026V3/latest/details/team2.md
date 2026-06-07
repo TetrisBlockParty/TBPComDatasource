@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 06:08:40 UTC
+# Standings for team2 as of 2026-06-07 06:09:18 UTC
 
 **Total Participants:** 1649
 
@@ -215,8 +215,8 @@
 | 207 | 260 | Snappy Blockbuilder |
 | 208 | 259 | Angie Kowalsky Olson |
 | 209 | 259 | Jessica Lynn |
-| 210 | 257 | Jat |
-| 211 | 255 | Lisa Underwood Desmond |
+| 210 | 259 | Lisa Underwood Desmond |
+| 211 | 257 | Jat |
 | 212 | 253 | Hilliary Beyer |
 | 213 | 253 | Marge Cromer |
 | 214 | 252 | Kathy Strickland |
@@ -346,9 +346,9 @@
 | 338 | 156 | Rick |
 | 339 | 156 | Charlotte Castelli |
 | 340 | 156 | Jamie Fenyus |
-| 341 | 156 | Melmel |
+| 341 | 156 | Monique Frantz |
 | 342 | 156 | meg |
-| 343 | 156 | Monique Frantz |
+| 343 | 156 | Melmel |
 | 344 | 155 | KazzyKay |
 | 345 | 155 | Ratchet |
 | 346 | 154 | Alonzo Reed |
@@ -358,27 +358,27 @@
 | 350 | 151 | Amy Lea Hamilton |
 | 351 | 150 | Zany Wrecker |
 | 352 | 150 | Marylin Eacker |
-| 353 | 150 | Camilo Moreno |
-| 354 | 150 | Aldotfus Williams |
-| 355 | 150 | Crystal Poss |
-| 356 | 149 | Jenni LeBlanc |
-| 357 | 148 | Nano. |
-| 358 | 148 | murd3rmous3 |
-| 359 | 146 | Darla Nolt |
-| 360 | 145 | Alicia Parrish |
-| 361 | 144 | Analee Nicole Jones |
-| 362 | 144 | Funway998 |
-| 363 | 144 | Will Jones |
-| 364 | 144 | Loopy Curvebuilder |
+| 353 | 150 | Loopy Curvebuilder |
+| 354 | 150 | Camilo Moreno |
+| 355 | 150 | Aldotfus Williams |
+| 356 | 150 | Crystal Poss |
+| 357 | 149 | Jenni LeBlanc |
+| 358 | 148 | Nano. |
+| 359 | 148 | murd3rmous3 |
+| 360 | 146 | Darla Nolt |
+| 361 | 145 | Alicia Parrish |
+| 362 | 144 | Analee Nicole Jones |
+| 363 | 144 | Funway998 |
+| 364 | 144 | Will Jones |
 | 365 | 143 | Paula Haskins |
 | 366 | 143 | Amanda L Strong |
 | 367 | 143 | Spicy Basepiece |
 | 368 | 142 | Spunky Cascadeclear |
 | 369 | 141 | Jacquelyn Snyder Dumas |
 | 370 | 141 | Loopy Tower |
-| 371 | 140 | Teddy Williams |
+| 371 | 140 | Alicia Kinney |
 | 372 | 140 | Billie Jensen |
-| 373 | 140 | Alicia Kinney |
+| 373 | 140 | Teddy Williams |
 | 374 | 140 | Sharon L Brazelton |
 | 375 | 139 | Gabrielle Wilson |
 | 376 | 139 | rebel4lyfe |
