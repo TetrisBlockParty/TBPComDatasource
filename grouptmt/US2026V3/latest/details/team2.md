@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 02:00:18 UTC
+# Standings for team2 as of 2026-06-07 02:00:43 UTC
 
 **Total Participants:** 1521
 
@@ -40,13 +40,13 @@
 | 32 | 2114 | Alexia Reagan |
 | 33 | 2032 | Andrew Weissenborn |
 | 34 | 1957 | Lola C Davis |
-| 35 | 1906 | Jennifer Corder |
-| 36 | 1841 | Frilly Match |
-| 37 | 1835 | Elizabeth Mooney |
-| 38 | 1820 | Tom Badgley |
-| 39 | 1803 | Julie Trede Amerson |
-| 40 | 1800 | Quirky Catcher |
-| 41 | 1748 | Ber |
+| 35 | 1948 | Ber |
+| 36 | 1906 | Jennifer Corder |
+| 37 | 1841 | Frilly Match |
+| 38 | 1835 | Elizabeth Mooney |
+| 39 | 1820 | Tom Badgley |
+| 40 | 1803 | Julie Trede Amerson |
+| 41 | 1800 | Quirky Catcher |
 | 42 | 1678 | Betty Barrett |
 | 43 | 1577 | Heather Marie-Tarlton Britt |
 | 44 | 1531 | Happy Pivotfall |
@@ -54,7 +54,7 @@
 | 46 | 1510 | Shandrea Crawford |
 | 47 | 1501 | Monica Galli |
 | 48 | 1482 | Aubree Richard |
-| 49 | 1442 | Christina Jambard Sampier |
+| 49 | 1444 | Christina Jambard Sampier |
 | 50 | 1410 | Logan Basham |
 | 51 | 1400 | Danni Campa |
 | 52 | 1309 | Jaime P Lamb |
@@ -831,34 +831,34 @@
 | 823 | 45 | Mee Maw |
 | 824 | 45 | Nora Buchan |
 | 825 | 45 | Chill Wipegrid |
-| 826 | 45 | SaraAnn Gray Philbrick |
+| 826 | 45 | Michelle Anne |
 | 827 | 45 | Witty Brickster |
 | 828 | 45 | Jessica LeNeave |
 | 829 | 45 | Princess Cucumber |
 | 830 | 45 | Smiley Cornerfall |
-| 831 | 45 | Laura Fagans |
-| 832 | 45 | Michelle Anne |
-| 833 | 45 | Linzy Ratliff |
-| 834 | 44 | Jackie Moran Tiller |
-| 835 | 44 | Sam Schwieso |
-| 836 | 44 | Katie Boen |
+| 831 | 45 | SaraAnn Gray Philbrick |
+| 832 | 45 | Linzy Ratliff |
+| 833 | 45 | Laura Fagans |
+| 834 | 44 | Michael James |
+| 835 | 44 | Robert W Schwartz |
+| 836 | 44 | Nicole Dyer |
 | 837 | 44 | Kassie D Harmon |
-| 838 | 44 | Nicole Dyer |
-| 839 | 44 | Michael James |
-| 840 | 44 | Robert W Schwartz |
-| 841 | 43 | Jolly Twisterfit |
-| 842 | 43 | Kourtney Heiden-Hudson |
-| 843 | 43 | Jazzy |
-| 844 | 43 | Peter Fogg |
-| 845 | 43 | Fluffypuffin |
-| 846 | 43 | Kelli Pazour |
-| 847 | 43 | Kayla Faulkiner |
-| 848 | 42 | Snazzy Smasher |
+| 838 | 44 | Sam Schwieso |
+| 839 | 44 | Rubics cube |
+| 840 | 44 | Jackie Moran Tiller |
+| 841 | 44 | Katie Boen |
+| 842 | 43 | Peter Fogg |
+| 843 | 43 | Fluffypuffin |
+| 844 | 43 | Jazzy |
+| 845 | 43 | Kourtney Heiden-Hudson |
+| 846 | 43 | Jolly Twisterfit |
+| 847 | 43 | Kelli Pazour |
+| 848 | 43 | Kayla Faulkiner |
 | 849 | 42 | Henny Henny |
-| 850 | 42 | y |
-| 851 | 42 | Clever Linkbuilder |
-| 852 | 42 | Sami Amato |
-| 853 | 42 | Rubics cube |
+| 850 | 42 | Snazzy Smasher |
+| 851 | 42 | y |
+| 852 | 42 | Clever Linkbuilder |
+| 853 | 42 | Sami Amato |
 | 854 | 42 | Shylo Bryant-Brunson |
 | 855 | 42 | Aubrey Gates |
 | 856 | 42 | Melissa Pronovost |

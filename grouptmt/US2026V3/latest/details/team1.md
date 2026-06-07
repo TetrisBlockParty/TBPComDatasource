@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 02:00:18 UTC
+# Standings for team1 as of 2026-06-07 02:00:43 UTC
 
 **Total Participants:** 1280
 
@@ -93,8 +93,8 @@
 | 85 | 540 | PandaPrincess |
 | 86 | 527 | MommaCia |
 | 87 | 513 | Moomoo |
-| 88 | 511 | Dizzy Dropper |
-| 89 | 511 | Abraham Espaillat |
+| 88 | 511 | Abraham Espaillat |
+| 89 | 511 | Dizzy Dropper |
 | 90 | 510 | Cj Gorman |
 | 91 | 495 | Jaida De'Anne Cox |
 | 92 | 477 | Chenell Gillard |
@@ -139,8 +139,8 @@
 | 131 | 308 | John Staub |
 | 132 | 303 | Roberta Lynn |
 | 133 | 302 | Felicia Williams |
-| 134 | 300 | Atlantalindi |
-| 135 | 300 | Felicia Cain |
+| 134 | 300 | Felicia Cain |
+| 135 | 300 | Atlantalindi |
 | 136 | 298 | Leebo Slice |
 | 137 | 297 | Michelle Titus |
 | 138 | 296 | Rolanda Williams |
@@ -152,15 +152,15 @@
 | 144 | 284 | Tamara N Lee |
 | 145 | 278 | Shontanese Adams |
 | 146 | 277 | Tonya Lee Sanders |
-| 147 | 275 | Jawaun Daniels |
-| 148 | 275 | Chris Sladoje |
+| 147 | 275 | Chris Sladoje |
+| 148 | 275 | Jawaun Daniels |
 | 149 | 273 | MamaBear |
-| 150 | 269 | Mimi 1.0 |
-| 151 | 269 | Karebear |
+| 150 | 269 | Karebear |
+| 151 | 269 | Mimi 1.0 |
 | 152 | 263 | pooh |
 | 153 | 262 | Chantelle Lee |
-| 154 | 257 | Helen Smith |
-| 155 | 257 | NastyFriend |
+| 154 | 257 | NastyFriend |
+| 155 | 257 | Helen Smith |
 | 156 | 257 | Cathy Young |
 | 157 | 256 | Cortaz Lawrie |
 | 158 | 254 | Alana Renee |
@@ -170,15 +170,15 @@
 | 162 | 250 | Calvin Green |
 | 163 | 249 | Cee Emm |
 | 164 | 249 | Falisa Bell |
-| 165 | 248 | Sharon Cail |
-| 166 | 248 | Yasmin Nakea Wright |
-| 167 | 247 | Ceilo Marie |
-| 168 | 247 | Po Marley |
-| 169 | 246 | Marcheta Cervantez |
+| 165 | 248 | Yasmin Nakea Wright |
+| 166 | 248 | Sharon Cail |
+| 167 | 247 | Po Marley |
+| 168 | 247 | Ceilo Marie |
+| 169 | 246 | Denise B |
 | 170 | 246 | Andre Sanon |
-| 171 | 246 | Denise B |
-| 172 | 245 | Zachary Colegrove |
-| 173 | 245 | Derrius SeriousLee Burks |
+| 171 | 246 | Marcheta Cervantez |
+| 172 | 245 | Derrius SeriousLee Burks |
+| 173 | 245 | Zachary Colegrove |
 | 174 | 241 | SyTheEvilGenius1 |
 | 175 | 240 | Rayya Kiser |
 | 176 | 239 | Jayjay Rich |
@@ -206,16 +206,16 @@
 | 198 | 199 | Teddy Davis |
 | 199 | 198 | Robbie Cheeseman |
 | 200 | 197 | Slim Shedidthat |
-| 201 | 195 | Brittnay Wright |
-| 202 | 195 | Michele Simpson |
-| 203 | 194 | Shameka Thrasher |
-| 204 | 194 | Daris Swearington |
-| 205 | 194 | Chilly Wipebuilder |
+| 201 | 196 | Chilly Wipebuilder |
+| 202 | 195 | Brittnay Wright |
+| 203 | 195 | Michele Simpson |
+| 204 | 194 | Shameka Thrasher |
+| 205 | 194 | Daris Swearington |
 | 206 | 192 | Rayshawn Cohen |
-| 207 | 191 | Chris Caniglia |
-| 208 | 191 | Emily Wright |
-| 209 | 191 | Mikayla |
-| 210 | 191 | Kelli Couture |
+| 207 | 191 | Kelli Couture |
+| 208 | 191 | Mikayla |
+| 209 | 191 | Emily Wright |
+| 210 | 191 | Chris Caniglia |
 | 211 | 187 | Kenny MrOnethousand Peck |
 | 212 | 186 | Stephen Providenti |
 | 213 | 186 | Lesley Brunkus Cianfaglione |
@@ -226,8 +226,8 @@
 | 218 | 180 | Melissa D. M. Hornsby |
 | 219 | 180 | Zippy Lifter |
 | 220 | 179 | ♈️ Ariesbaby |
-| 221 | 179 | Amber Wilson |
-| 222 | 179 | Dawn L Washington-Feuquay |
+| 221 | 179 | Dawn L Washington-Feuquay |
+| 222 | 179 | Amber Wilson |
 | 223 | 178 | Randizzle |
 | 224 | 176 | Jessica Russell |
 | 225 | 176 | Nikki Hogan |
@@ -244,23 +244,23 @@
 | 236 | 163 | Mafio SO |
 | 237 | 162 | JaClanDiah |
 | 238 | 161 | LaShaun Stinson |
-| 239 | 160 | DaGuy |
-| 240 | 160 | Sara Meri |
-| 241 | 160 | Carolyn Smith |
+| 239 | 160 | Sara Meri |
+| 240 | 160 | Jamie Willis |
+| 241 | 160 | DaGuy |
 | 242 | 160 | Lively Riserpiece |
-| 243 | 160 | Spicy Risepiece |
-| 244 | 160 | Jamie Willis |
+| 243 | 160 | Carolyn Smith |
+| 244 | 160 | Spicy Risepiece |
 | 245 | 159 | Fina McKinnis |
 | 246 | 158 | Kimberly Linares Hernandez |
 | 247 | 156 | Cheeky Twistpiece |
 | 248 | 156 | SceneGreenz Wali |
-| 249 | 153 | Bre Poston |
-| 250 | 153 | Rackemwillie34 |
+| 249 | 153 | Rackemwillie34 |
+| 250 | 153 | Bre Poston |
 | 251 | 152 | Jolly Tilefall |
 | 252 | 151 | Rachel Zimmerman |
 | 253 | 150 | Tanisha Taylor |
-| 254 | 149 | Chasem45 |
-| 255 | 149 | TBABYJ |
+| 254 | 149 | TBABYJ |
+| 255 | 149 | Chasem45 |
 | 256 | 149 | Christopher Dreamsareality McEachin |
 | 257 | 147 | MACHETEEDDIE513 |
 | 258 | 147 | Sammie Walker |
@@ -277,31 +277,31 @@
 | 269 | 137 | Tay |
 | 270 | 136 | Penee Wiggins |
 | 271 | 136 | Telisha Mims |
-| 272 | 135 | Sean White |
-| 273 | 135 | Skippy |
+| 272 | 135 | Skippy |
+| 273 | 135 | Sean White |
 | 274 | 135 | Clever Fitblock |
 | 275 | 135 | Saucy Tile |
-| 276 | 133 | Tasha |
-| 277 | 133 | Lisa Fletcher |
+| 276 | 133 | Lisa Fletcher |
+| 277 | 133 | Tasha |
 | 278 | 132 | Tremaine Hiler |
-| 279 | 132 | Chirpy Buildgrid |
-| 280 | 132 | Katherine Short |
-| 281 | 130 | Slinky Party |
-| 282 | 130 | Miera Nicole |
-| 283 | 130 | Jessica Davis |
-| 284 | 130 | Crystal Anderson |
+| 279 | 132 | Katherine Short |
+| 280 | 132 | Chirpy Buildgrid |
+| 281 | 130 | Miera Nicole |
+| 282 | 130 | Jessica Davis |
+| 283 | 130 | Crystal Anderson |
+| 284 | 130 | Slinky Party |
 | 285 | 129 | Mathew Trudell |
-| 286 | 128 | Darrel K Pemberton |
-| 287 | 128 | Jack Vlasak |
-| 288 | 127 | Giggy Tower |
-| 289 | 127 | Treneil Daffin |
+| 286 | 128 | Jack Vlasak |
+| 287 | 128 | Darrel K Pemberton |
+| 288 | 127 | Treneil Daffin |
+| 289 | 127 | Giggy Tower |
 | 290 | 126 | Simone Bailey |
 | 291 | 125 | Tipsy Linkroll |
-| 292 | 125 | Dizzy Dashy |
+| 292 | 125 | Brittanie Wardlow |
 | 293 | 125 | Tosha Michelle |
-| 294 | 125 | Brittanie Wardlow |
-| 295 | 125 | LaTonya Myers |
-| 296 | 125 | Speedy Stacky |
+| 294 | 125 | LaTonya Myers |
+| 295 | 125 | Speedy Stacky |
+| 296 | 125 | Dizzy Dashy |
 | 297 | 125 | Dedra M Prester |
 | 298 | 124 | Courtney Cicoria |
 | 299 | 123 | Cauiasia DeJ'ae |
