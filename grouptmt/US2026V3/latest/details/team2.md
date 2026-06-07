@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 08:10:40 UTC
+# Standings for team2 as of 2026-06-07 08:11:18 UTC
 
 **Total Participants:** 1678
 
@@ -318,31 +318,31 @@
 | 310 | 175 | Epic Tilemaker |
 | 311 | 175 | Tina Marie |
 | 312 | 175 | Michelle M Braley |
-| 313 | 174 | Jerry L Morales |
-| 314 | 174 | ZBee |
-| 315 | 174 | Rocroc mo |
-| 316 | 172 | Mikia Stokes |
-| 317 | 172 | Victoria Pale |
-| 318 | 172 | Carolyn McNaughton |
-| 319 | 170 | Harper |
+| 313 | 174 | ZBee |
+| 314 | 174 | Rocroc mo |
+| 315 | 174 | Jerry L Morales |
+| 316 | 172 | Victoria Pale |
+| 317 | 172 | Carolyn McNaughton |
+| 318 | 172 | Mikia Stokes |
+| 319 | 171 | Anthony Swift |
 | 320 | 170 | Thomas Tyrone |
 | 321 | 170 | Bengy Lead |
-| 322 | 169 | Angie Bishop |
-| 323 | 169 | Derrick |
-| 324 | 168 | Danielle Lyons |
+| 322 | 170 | Harper |
+| 323 | 169 | Angie Bishop |
+| 324 | 169 | Derrick |
 | 325 | 168 | Avie Lou |
-| 326 | 168 | Chasity Simpson |
+| 326 | 168 | Missy Renia |
 | 327 | 168 | StacyBabee |
-| 328 | 168 | Missy Renia |
-| 329 | 168 | Spicy Risegrid |
-| 330 | 166 | Kimmyc |
-| 331 | 165 | Lindsey Ford |
-| 332 | 164 | Elliott Mikila |
-| 333 | 164 | Aldotfus Williams |
-| 334 | 164 | Cara Rivera |
-| 335 | 163 | Zany Cascader |
-| 336 | 162 | Wacky Holder |
-| 337 | 161 | Anthony Swift |
+| 328 | 168 | Chasity Simpson |
+| 329 | 168 | Danielle Lyons |
+| 330 | 168 | Spicy Risegrid |
+| 331 | 166 | Kimmyc |
+| 332 | 165 | Lindsey Ford |
+| 333 | 164 | Elliott Mikila |
+| 334 | 164 | Aldotfus Williams |
+| 335 | 164 | Cara Rivera |
+| 336 | 163 | Zany Cascader |
+| 337 | 162 | Wacky Holder |
 | 338 | 161 | Erica South |
 | 339 | 161 | Silly Tiltbuilder |
 | 340 | 160 | Elizabeth Cornelius |
@@ -892,16 +892,16 @@
 | 884 | 50 | Dawn Thuringer-Baird |
 | 885 | 50 | Jennifer Wymer |
 | 886 | 50 | Timone907 |
-| 887 | 50 | Ashley Jones |
-| 888 | 49 | jme |
-| 889 | 49 | unvoiced |
-| 890 | 49 | Laura Fagans |
-| 891 | 49 | Po Yee |
-| 892 | 48 | Shelby Wilson |
-| 893 | 48 | Tanya Goodwin |
-| 894 | 48 | Hoppy Gridder |
-| 895 | 48 | Dizzy Dropzone |
-| 896 | 48 | Nicole Treadway |
+| 887 | 50 | Nicole Treadway |
+| 888 | 50 | Ashley Jones |
+| 889 | 49 | jme |
+| 890 | 49 | unvoiced |
+| 891 | 49 | Laura Fagans |
+| 892 | 49 | Po Yee |
+| 893 | 48 | Shelby Wilson |
+| 894 | 48 | Tanya Goodwin |
+| 895 | 48 | Hoppy Gridder |
+| 896 | 48 | Dizzy Dropzone |
 | 897 | 48 | Ollie |
 | 898 | 48 | Katelynn Hunt |
 | 899 | 48 | Giggy Linkgrid |
@@ -1352,13 +1352,13 @@
 | 1344 | 19 | Aguilar Rita |
 | 1345 | 19 | Jessica Rose Engebretson |
 | 1346 | 19 | Nicole Slimick |
-| 1347 | 19 | Ashley Bryant-hatcher |
-| 1348 | 19 | Tetra Maniac |
-| 1349 | 19 | latte |
-| 1350 | 19 | Lindsay Gregory |
-| 1351 | 19 | Chris Cooper |
-| 1352 | 19 | Sandra Kopas Stetka |
-| 1353 | 18 | Zany Dasher |
+| 1347 | 19 | Zany Dasher |
+| 1348 | 19 | Ashley Bryant-hatcher |
+| 1349 | 19 | Tetra Maniac |
+| 1350 | 19 | latte |
+| 1351 | 19 | Lindsay Gregory |
+| 1352 | 19 | Chris Cooper |
+| 1353 | 19 | Sandra Kopas Stetka |
 | 1354 | 18 | Miggy Gonzalez |
 | 1355 | 18 | Randy Clevenger |
 | 1356 | 18 | Glitzy Stackbuilder |
