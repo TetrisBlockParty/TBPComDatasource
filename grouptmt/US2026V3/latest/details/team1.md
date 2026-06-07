@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 20:50:42 UTC
+# Standings for team1 as of 2026-06-07 20:51:20 UTC
 
 **Total Participants:** 1576
 
@@ -320,8 +320,8 @@
 | 312 | 188 | Sammie Walker |
 | 313 | 188 | kitten |
 | 314 | 188 | Nina Davis |
-| 315 | 187 | MACHETEEDDIE513 |
-| 316 | 187 | Heather Aurelia |
+| 315 | 187 | Heather Aurelia |
+| 316 | 187 | MACHETEEDDIE513 |
 | 317 | 186 | Snippy Breaker |
 | 318 | 184 | Dai Bo |
 | 319 | 184 | Bbyunicorn |
@@ -331,27 +331,27 @@
 | 323 | 179 | Brand Nu |
 | 324 | 179 | Lively Riserpiece |
 | 325 | 177 | Valerie Alexander |
-| 326 | 175 | Amy Lynn Leifheit |
-| 327 | 174 | Guy Incognito |
+| 326 | 176 | Elizabeth Vega Coreano |
+| 327 | 175 | Amy Lynn Leifheit |
 | 328 | 174 | ChunLi |
-| 329 | 173 | izzybella |
-| 330 | 173 | Crystal Cheresnowsky |
+| 329 | 174 | Guy Incognito |
+| 330 | 173 | izzybella |
 | 331 | 173 | LuckyStar |
-| 332 | 171 | Elizabeth Vega Coreano |
+| 332 | 173 | Crystal Cheresnowsky |
 | 333 | 171 | Telisha Mims |
 | 334 | 171 | Tosha Michelle |
 | 335 | 170 | Slinky Party |
-| 336 | 169 | Asha Langford |
-| 337 | 169 | Nickeya Phillips |
-| 338 | 167 | Dedra M Prester |
-| 339 | 167 | Mister Reid |
+| 336 | 169 | Nickeya Phillips |
+| 337 | 169 | Asha Langford |
+| 338 | 167 | Mister Reid |
+| 339 | 167 | Dedra M Prester |
 | 340 | 166 | BlackQueen105 |
 | 341 | 166 | Teresa Yanira Cepeda |
-| 342 | 165 | Tanisha Taylor |
-| 343 | 165 | Maribel Vasquez |
-| 344 | 165 | SceneGreenz Wali |
-| 345 | 165 | Slinky Snapbuilder |
-| 346 | 165 | Skippy |
+| 342 | 165 | Skippy |
+| 343 | 165 | SceneGreenz Wali |
+| 344 | 165 | Slinky Snapbuilder |
+| 345 | 165 | Maribel Vasquez |
+| 346 | 165 | Tanisha Taylor |
 | 347 | 164 | Giggy Clusterer |
 | 348 | 164 | De'Nell Edwards |
 | 349 | 164 | TBABYJ |
@@ -469,16 +469,16 @@
 | 461 | 124 | The DUBZ |
 | 462 | 123 | Cauiasia DeJ'ae |
 | 463 | 123 | Jeffrey Barrows |
-| 464 | 123 | Tajuana Juana'Cee Coleman |
-| 465 | 123 | Cachet A Ward |
-| 466 | 122 | Yashica Smith |
+| 464 | 123 | Cachet A Ward |
+| 465 | 123 | Tajuana Juana'Cee Coleman |
+| 466 | 122 | Twisty Brickfit |
 | 467 | 122 | Donna Payne |
 | 468 | 122 | Xana Zania Bopp |
-| 469 | 121 | Kyra Coleman |
-| 470 | 121 | Nora Mahmoud |
+| 469 | 122 | Yashica Smith |
+| 470 | 121 | Kyra Coleman |
 | 471 | 121 | Shea Ladynick Henderson |
-| 472 | 121 | BonnieB |
-| 473 | 121 | Twisty Brickfit |
+| 472 | 121 | Nora Mahmoud |
+| 473 | 121 | BonnieB |
 | 474 | 121 | Ta'Kaiyah M. Spann |
 | 475 | 121 | Tiana Monique |
 | 476 | 120 | Kp |
@@ -1456,9 +1456,9 @@
 | 1448 | 12 | Tempee |
 | 1449 | 12 | Joseph Ware Jr. |
 | 1450 | 12 | Nerdy Riser |
-| 1451 | 12 | toye69 |
-| 1452 | 11 | Jayson |
-| 1453 | 11 | taz62 |
+| 1451 | 12 | taz62 |
+| 1452 | 12 | toye69 |
+| 1453 | 11 | Jayson |
 | 1454 | 11 | KiJoCo |
 | 1455 | 11 | Groovy Climber |
 | 1456 | 11 | Snappy Towerpiece |
@@ -1569,19 +1569,19 @@
 | 1561 | 5 | Aanngie Aanngie |
 | 1562 | 5 | SweetByNBy |
 | 1563 | 5 | Zesty Brickline |
-| 1564 | 5 | Andy Barnett |
-| 1565 | 5 | Joy Baker |
-| 1566 | 5 | VERA DAME |
-| 1567 | 5 | Angelique Thomas |
-| 1568 | 5 | Jackie Sanasay |
-| 1569 | 5 | the guy |
+| 1564 | 5 | Godz Chosen |
+| 1565 | 5 | Carol Washington |
+| 1566 | 5 | Jennifer Haton Kreighbaum |
+| 1567 | 5 | Happy |
+| 1568 | 5 | MrKeith Debraux |
+| 1569 | 5 | pettymexoxo |
 | 1570 | 5 | Derek Beverly |
-| 1571 | 5 | pettymexoxo |
-| 1572 | 5 | MrKeith Debraux |
-| 1573 | 5 | Happy |
-| 1574 | 5 | Jennifer Haton Kreighbaum |
-| 1575 | 5 | Carol Washington |
-| 1576 | 5 | Godz Chosen |
+| 1571 | 5 | Jackie Sanasay |
+| 1572 | 5 | Angelique Thomas |
+| 1573 | 5 | VERA DAME |
+| 1574 | 5 | Joy Baker |
+| 1575 | 5 | Andy Barnett |
+| 1576 | 5 | the guy |
 
 ---
 *Standings created by tournaments datasource generation tool*
