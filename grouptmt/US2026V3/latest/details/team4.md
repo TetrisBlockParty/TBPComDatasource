@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 23:22:19 UTC
+# Standings for team4 as of 2026-06-07 23:22:41 UTC
 
 **Total Participants:** 1655
 
@@ -512,76 +512,76 @@
 | 504 | 120 | Giddy Basepiece |
 | 505 | 120 | Urplan |
 | 506 | 120 | Jenn Wilson |
-| 507 | 120 | Glamorous Gracey |
-| 508 | 120 | Stotty |
-| 509 | 120 | Natalie Dillard |
-| 510 | 120 | Ada Rodriguez Spradley |
-| 511 | 120 | George Marshburn |
-| 512 | 120 | Holly Wessel |
-| 513 | 119 | Dennis Montoya |
-| 514 | 119 | Allysonjo Varela |
+| 507 | 120 | Holly Wessel |
+| 508 | 120 | George Marshburn |
+| 509 | 120 | Stotty |
+| 510 | 120 | Natalie Dillard |
+| 511 | 120 | Glamorous Gracey |
+| 512 | 120 | Ada Rodriguez Spradley |
+| 513 | 119 | Allysonjo Varela |
+| 514 | 119 | Dennis Montoya |
 | 515 | 119 | BookwormCate |
-| 516 | 118 | Jennifer Naughton |
-| 517 | 118 | Mint Marquez |
-| 518 | 118 | Ian T Parker |
-| 519 | 118 | Nicole Colby McCloskey |
-| 520 | 117 | LaToya LeBlanc |
-| 521 | 117 | Fancy Tilefall |
-| 522 | 117 | Noa Lee |
-| 523 | 117 | YenSid |
-| 524 | 117 | yourmomz |
-| 525 | 116 | Toon Up |
+| 516 | 118 | Ian T Parker |
+| 517 | 118 | Jennifer Naughton |
+| 518 | 118 | Nicole Colby McCloskey |
+| 519 | 118 | Mint Marquez |
+| 520 | 117 | Fancy Tilefall |
+| 521 | 117 | YenSid |
+| 522 | 117 | yourmomz |
+| 523 | 117 | LaToya LeBlanc |
+| 524 | 117 | Noa Lee |
+| 525 | 116 | Aaron Turner |
 | 526 | 116 | Dawn Marie Trujillo |
-| 527 | 116 | Aaron Turner |
-| 528 | 115 | Edward White |
-| 529 | 115 | Scrumptious |
-| 530 | 115 | Gary Smallwood |
+| 527 | 116 | Toon Up |
+| 528 | 115 | Scrumptious |
+| 529 | 115 | Gary Smallwood |
+| 530 | 115 | Edward White |
 | 531 | 115 | Nessa Smith |
-| 532 | 114 | MrLoner Stoner |
-| 533 | 114 | LandO |
-| 534 | 114 | Garden Girlie |
-| 535 | 114 | Jason Moves |
-| 536 | 114 | Butterpat |
+| 532 | 114 | Garden Girlie |
+| 533 | 114 | MrLoner Stoner |
+| 534 | 114 | Jason Moves |
+| 535 | 114 | Butterpat |
+| 536 | 114 | LandO |
 | 537 | 113 | Melissa Anne |
 | 538 | 113 | TheazO |
-| 539 | 112 | Csigirlnc |
+| 539 | 112 | medicjessi |
 | 540 | 112 | Kari Smith |
-| 541 | 112 | Loopy Hitter |
-| 542 | 112 | medicjessi |
+| 541 | 112 | Csigirlnc |
+| 542 | 112 | Loopy Hitter |
 | 543 | 111 | Janae Harris |
-| 544 | 111 | Richard Bearse |
-| 545 | 111 | Elena Marí |
-| 546 | 110 | Luna |
+| 544 | 111 | Snappy Stack |
+| 545 | 111 | Richard Bearse |
+| 546 | 111 | Elena Marí |
 | 547 | 110 | Kea Sushi |
-| 548 | 110 | Andreas Vs Shinky |
-| 549 | 109 | PsyDMom |
-| 550 | 108 | SandyEva |
-| 551 | 108 | Kaps |
-| 552 | 107 | Haylee Talkington |
-| 553 | 107 | Kay |
-| 554 | 107 | Bonique Bier |
-| 555 | 106 | Teester |
+| 548 | 110 | Luna |
+| 549 | 110 | Andreas Vs Shinky |
+| 550 | 109 | PsyDMom |
+| 551 | 108 | SandyEva |
+| 552 | 108 | Kaps |
+| 553 | 107 | Bonique Bier |
+| 554 | 107 | Haylee Talkington |
+| 555 | 107 | Kay |
 | 556 | 106 | Jessica Jones Bolton |
-| 557 | 106 | Ami Ferguson |
-| 558 | 105 | Cherrel M. Causey |
-| 559 | 105 | Surviving Be Back Soon |
+| 557 | 106 | Teester |
+| 558 | 106 | Ami Ferguson |
+| 559 | 105 | Cherrel M. Causey |
 | 560 | 105 | Loretta Hendricks |
-| 561 | 104 | Lisa Pie |
+| 561 | 105 | Surviving Be Back Soon |
 | 562 | 104 | Mmm |
-| 563 | 104 | Mrsjcraw18 |
-| 564 | 104 | Justin Ballard |
-| 565 | 104 | Vonni McLean |
+| 563 | 104 | Lisa Pie |
+| 564 | 104 | Vonni McLean |
+| 565 | 104 | Mrsjcraw18 |
 | 566 | 104 | Miranda Brown |
-| 567 | 104 | Perry Ransom |
-| 568 | 103 | Breezy Wife |
-| 569 | 103 | Giggy Snapgrid |
+| 567 | 104 | Justin Ballard |
+| 568 | 104 | Perry Ransom |
+| 569 | 103 | Breezy Wife |
 | 570 | 103 | Courtney Niichole |
 | 571 | 103 | Angela Adamo-Tash |
-| 572 | 103 | Marina |
-| 573 | 102 | Spicy Peach |
-| 574 | 102 | Taisha Beasley |
-| 575 | 102 | Linda |
-| 576 | 102 | Snappy Stack |
+| 572 | 103 | Giggy Snapgrid |
+| 573 | 103 | Marina |
+| 574 | 102 | Spicy Peach |
+| 575 | 102 | Taisha Beasley |
+| 576 | 102 | Linda |
 | 577 | 101 | Tipsy Piecebuilder |
 | 578 | 101 | Renita Jordan |
 | 579 | 101 | Abby Waterman |
