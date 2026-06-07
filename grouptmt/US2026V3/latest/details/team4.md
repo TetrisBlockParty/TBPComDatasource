@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 11:02:40 UTC
+# Standings for team4 as of 2026-06-07 11:03:17 UTC
 
 **Total Participants:** 1446
 
@@ -11,7 +11,7 @@
 | 3 | 9500 | Jessica Sheehan |
 | 4 | 7913 | Lyza |
 | 5 | 7429 | ktothet |
-| 6 | 6217 | Hanan Hana |
+| 6 | 7105 | Hanan Hana |
 | 7 | 5801 | BertaF1irta |
 | 8 | 5469 | Kait Confetti |
 | 9 | 5300 | Candice Driver |
@@ -22,7 +22,7 @@
 | 14 | 4261 | Chris Hills |
 | 15 | 4246 | t |
 | 16 | 4139 | Bryony Nicholson |
-| 17 | 3938 | Bubbly Twistpiece |
+| 17 | 3943 | Bubbly Twistpiece |
 | 18 | 3917 | TitiLo72 |
 | 19 | 3784 | Tyra Brooke Everman Forest |
 | 20 | 3776 | Dana Smith |
@@ -50,8 +50,8 @@
 | 42 | 1569 | Annastaissia Todd |
 | 43 | 1400 | Michele |
 | 44 | 1380 | Jennifer Edgell Richardson |
-| 45 | 1360 | Cal Renee |
-| 46 | 1359 | Victoria Ver |
+| 45 | 1360 | Victoria Ver |
+| 46 | 1360 | Cal Renee |
 | 47 | 1357 | 626 |
 | 48 | 1249 | Charlie Lewis |
 | 49 | 1200 | Caitlin Johnson |

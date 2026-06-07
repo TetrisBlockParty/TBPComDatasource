@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 11:02:40 UTC
+# Standings for team2 as of 2026-06-07 11:03:17 UTC
 
 **Total Participants:** 1703
 
@@ -54,7 +54,7 @@
 | 46 | 1841 | Frilly Match |
 | 47 | 1835 | Elizabeth Mooney |
 | 48 | 1817 | Rose Schaffner-Kibler |
-| 49 | 1738 | Betty Barrett |
+| 49 | 1778 | Betty Barrett |
 | 50 | 1692 | Matt Hardin |
 | 51 | 1668 | Heather Marie-Tarlton Britt |
 | 52 | 1606 | Nerdy Glidepiece |
@@ -144,9 +144,9 @@
 | 136 | 466 | Judy Long |
 | 137 | 458 | Kaycie Shaffer |
 | 138 | 453 | Kimberly Cowan |
-| 139 | 448 | Pooh |
-| 140 | 448 | MarioKarasovic |
-| 141 | 444 | Steven Craig |
+| 139 | 449 | Steven Craig |
+| 140 | 448 | Pooh |
+| 141 | 448 | MarioKarasovic |
 | 142 | 438 | Michelle Rich Burkhart |
 | 143 | 438 | Zappy Pattern |
 | 144 | 436 | Gill |
@@ -216,21 +216,21 @@
 | 208 | 284 | Becca Marie |
 | 209 | 282 | Nova Nova |
 | 210 | 281 | MegaPooh |
-| 211 | 280 | Patricia Carroll |
-| 212 | 278 | Ashley Billiot Rhodes |
-| 213 | 278 | Amy Nicole McCanne |
-| 214 | 276 | AndrewandShela Gornik |
-| 215 | 274 | Amber Wolf |
-| 216 | 270 | giamy |
-| 217 | 269 | Chipper Stackbuilder |
-| 218 | 269 | Ackerman 85 |
-| 219 | 267 | Jat |
-| 220 | 265 | Margie Ann Naffziger |
-| 221 | 263 | Snappy Blockbuilder |
-| 222 | 263 | Jessica Lynn |
-| 223 | 263 | Glitzy Base |
-| 224 | 262 | Cool Balancer |
-| 225 | 260 | Loopy Dropper |
+| 211 | 280 | Loopy Dropper |
+| 212 | 280 | Patricia Carroll |
+| 213 | 278 | Ashley Billiot Rhodes |
+| 214 | 278 | Amy Nicole McCanne |
+| 215 | 276 | AndrewandShela Gornik |
+| 216 | 274 | Amber Wolf |
+| 217 | 270 | giamy |
+| 218 | 269 | Chipper Stackbuilder |
+| 219 | 269 | Ackerman 85 |
+| 220 | 267 | Jat |
+| 221 | 265 | Margie Ann Naffziger |
+| 222 | 263 | Snappy Blockbuilder |
+| 223 | 263 | Jessica Lynn |
+| 224 | 263 | Glitzy Base |
+| 225 | 262 | Cool Balancer |
 | 226 | 259 | Angie Kowalsky Olson |
 | 227 | 257 | Xandrea Jones |
 | 228 | 257 | Dallas Runyan |
