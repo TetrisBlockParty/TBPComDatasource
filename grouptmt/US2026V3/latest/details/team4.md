@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 23:58:18 UTC
+# Standings for team4 as of 2026-06-07 23:58:41 UTC
 
 **Total Participants:** 1667
 
@@ -132,12 +132,12 @@
 | 124 | 530 | Jewelz |
 | 125 | 528 | Katie Lynn Petit |
 | 126 | 521 | Misty Leigh |
-| 127 | 517 | Nikki Fuller Johnson |
-| 128 | 514 | Andrew Dang |
-| 129 | 512 | Esther Hadassah |
-| 130 | 500 | Cherry |
-| 131 | 496 | Jackie Jackson |
-| 132 | 495 | Jesse Olive |
+| 127 | 518 | Jesse Olive |
+| 128 | 517 | Nikki Fuller Johnson |
+| 129 | 514 | Andrew Dang |
+| 130 | 512 | Esther Hadassah |
+| 131 | 500 | Cherry |
+| 132 | 496 | Jackie Jackson |
 | 133 | 480 | Hardy Fuller |
 | 134 | 477 | Malik Thompson |
 | 135 | 474 | Melissa WC |
@@ -751,88 +751,88 @@
 | 743 | 79 | Lindsey DeRosa |
 | 744 | 79 | Joe Win |
 | 745 | 79 | Rhonda Dowling |
-| 746 | 79 | Leasa Marie |
-| 747 | 79 | Gigi5 |
-| 748 | 79 | Sonya |
-| 749 | 79 | Gean DeJesus |
-| 750 | 79 | Dru Lui |
-| 751 | 79 | Groovy Stacker |
-| 752 | 78 | Amber Jalbert |
+| 746 | 79 | Sonya |
+| 747 | 79 | Leasa Marie |
+| 748 | 79 | Gean DeJesus |
+| 749 | 79 | Groovy Stacker |
+| 750 | 79 | Gigi5 |
+| 751 | 79 | Dru Lui |
+| 752 | 78 | Christina Williams |
 | 753 | 78 | Tracy Marino |
-| 754 | 78 | Christina Williams |
-| 755 | 78 | Lilo |
-| 756 | 78 | Weird Cat |
-| 757 | 78 | Lush Match |
-| 758 | 78 | Zappy Matchgrid |
-| 759 | 78 | Christopher Lindsey |
+| 754 | 78 | Christopher Lindsey |
+| 755 | 78 | Zappy Matchgrid |
+| 756 | 78 | Lush Match |
+| 757 | 78 | Weird Cat |
+| 758 | 78 | Lilo |
+| 759 | 78 | Amber Jalbert |
 | 760 | 77 | Frilly Riserpiece |
-| 761 | 77 | Oc Tive |
-| 762 | 77 | Ajohnna Frazee |
-| 763 | 77 | Erica Hardwick |
-| 764 | 77 | 94Blockhead |
-| 765 | 77 | Lacie Powers |
-| 766 | 77 | Gerald Richard Franke |
-| 767 | 77 | Jeremy Barry |
-| 768 | 76 | Frisky Balance |
-| 769 | 76 | Lori Lynn |
+| 761 | 77 | Jeremy Barry |
+| 762 | 77 | Gerald Richard Franke |
+| 763 | 77 | Oc Tive |
+| 764 | 77 | Erica Hardwick |
+| 765 | 77 | Ajohnna Frazee |
+| 766 | 77 | Lacie Powers |
+| 767 | 77 | 94Blockhead |
+| 768 | 76 | JP Chua |
+| 769 | 76 | Frisky Balance |
 | 770 | 76 | Mann Manson |
-| 771 | 76 | JP Chua |
+| 771 | 76 | Jillian Marie |
 | 772 | 76 | Nicole Ambrose |
-| 773 | 76 | Jillian Marie |
+| 773 | 76 | Lori Lynn |
 | 774 | 76 | Brendan Craven |
-| 775 | 75 | ŁųŁų |
-| 776 | 75 | LaRue Tee |
-| 777 | 75 | Jazzy Rollout |
-| 778 | 75 | Toria |
-| 779 | 75 | Marco A. Sandoval |
+| 775 | 75 | Marco A. Sandoval |
+| 776 | 75 | ŁųŁų |
+| 777 | 75 | Toria |
+| 778 | 75 | LaRue Tee |
+| 779 | 75 | Jazzy Rollout |
 | 780 | 75 | Jasmine Turner |
-| 781 | 74 | Melissa Schwager |
-| 782 | 74 | Loyalty83 |
-| 783 | 74 | JayJay Smith |
-| 784 | 74 | Redhead girl |
-| 785 | 74 | Chirpy Corner |
-| 786 | 74 | Kimberly Ann |
-| 787 | 74 | Trang Nguyen |
-| 788 | 74 | Jenny Torres |
-| 789 | 74 | Jasmine Griffin |
-| 790 | 73 | Brittany Lentz |
-| 791 | 73 | Giggly Rollpiece |
+| 781 | 74 | Chirpy Corner |
+| 782 | 74 | Melissa Schwager |
+| 783 | 74 | Redhead girl |
+| 784 | 74 | Loyalty83 |
+| 785 | 74 | Jasmine Griffin |
+| 786 | 74 | Rocky |
+| 787 | 74 | Jenny Torres |
+| 788 | 74 | Trang Nguyen |
+| 789 | 74 | Kimberly Ann |
+| 790 | 74 | JayJay Smith |
+| 791 | 73 | Yseoj M. Zurc |
 | 792 | 73 | Monte Smith |
-| 793 | 73 | Mrs.J2013 |
-| 794 | 73 | Yseoj M. Zurc |
-| 795 | 73 | Marcus Fontenot |
-| 796 | 73 | h_chloe10 |
-| 797 | 73 | Ben Figueroa |
-| 798 | 73 | Renzo Tonini |
-| 799 | 72 | Jennifer Evans Elliott |
+| 793 | 73 | Giggly Rollpiece |
+| 794 | 73 | Brittany Lentz |
+| 795 | 73 | Mrs.J2013 |
+| 796 | 73 | Ben Figueroa |
+| 797 | 73 | Renzo Tonini |
+| 798 | 73 | Marcus Fontenot |
+| 799 | 73 | h_chloe10 |
 | 800 | 72 | Misti Rich |
 | 801 | 72 | Musky Pits |
-| 802 | 72 | Kimberly Lusk |
-| 803 | 72 | Snow77white |
-| 804 | 72 | Cail |
-| 805 | 72 | T-Dogger |
-| 806 | 72 | sierrabeth |
-| 807 | 72 | Fancy Riser |
-| 808 | 71 | Ana Ruiz |
-| 809 | 71 | Tod Jae |
-| 810 | 71 | Jennifer Brucz |
-| 811 | 71 | Rocky |
-| 812 | 71 | Elisha Thompson |
-| 813 | 71 | Natalie Ohrtman Strand |
+| 802 | 72 | Fancy Riser |
+| 803 | 72 | Kimberly Lusk |
+| 804 | 72 | sierrabeth |
+| 805 | 72 | Snow77white |
+| 806 | 72 | T-Dogger |
+| 807 | 72 | Jennifer Evans Elliott |
+| 808 | 72 | Cail |
+| 809 | 71 | Ana Ruiz |
+| 810 | 71 | Natalie Ohrtman Strand |
+| 811 | 71 | Tod Jae |
+| 812 | 71 | Jennifer Brucz |
+| 813 | 71 | Elisha Thompson |
 | 814 | 71 | Bouncy Blockclear |
-| 815 | 70 | JustLessie |
-| 816 | 70 | Lamont |
-| 817 | 70 | Helen Bradley |
+| 815 | 70 | Lord Solrac |
+| 816 | 70 | Helen Bradley |
+| 817 | 70 | Lamont |
 | 818 | 70 | Jade Alley |
 | 819 | 70 | Charlene Nicole Guidry |
-| 820 | 70 | Carissa Thorne-See |
-| 821 | 70 | Giggy Splitter |
-| 822 | 70 | Lord Solrac |
+| 820 | 70 | Kenyatta Davis |
+| 821 | 70 | Carissa Thorne-See |
+| 822 | 70 | Giggy Splitter |
 | 823 | 70 | Breezy Blockzone |
 | 824 | 70 | Scot Matthew Bergdorf |
 | 825 | 70 | LilithMoon |
 | 826 | 70 | Kendall Rhodie |
-| 827 | 70 | Kenyatta Davis |
+| 827 | 70 | JustLessie |
 | 828 | 69 | Beth Belanger |
 | 829 | 69 | Khylee DarDar |
 | 830 | 69 | Patsy |

@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-07 23:58:18 UTC
+# Standings for team1 as of 2026-06-07 23:58:41 UTC
 
-**Total Participants:** 1624
+**Total Participants:** 1625
 
 ## Participant Scores
 
@@ -105,10 +105,10 @@
 | 97 | 710 | ing410 |
 | 98 | 692 | No_Other_Choice |
 | 99 | 679 | Chirpy Corner |
-| 100 | 668 | Jonathan Vee Jay |
-| 101 | 666 | Kellie Hall |
-| 102 | 651 | Slinky Puzzler |
-| 103 | 650 | Keeta Chickswit Scott |
+| 100 | 670 | Keeta Chickswit Scott |
+| 101 | 668 | Jonathan Vee Jay |
+| 102 | 666 | Kellie Hall |
+| 103 | 651 | Slinky Puzzler |
 | 104 | 647 | Dynah Gordon |
 | 105 | 639 | Cee Emm |
 | 106 | 638 | Therealdywoune Peay |
@@ -1582,11 +1582,11 @@
 | 1574 | 7 | Shane Brucewayne |
 | 1575 | 7 | RMGreen |
 | 1576 | 7 | KingSlim82 |
-| 1577 | 7 | Milfchaser530 |
-| 1578 | 7 | Lively Stagger |
-| 1579 | 7 | Marla |
-| 1580 | 7 | Bryan Dell |
-| 1581 | 7 | Andrew Harris |
+| 1577 | 7 | Lively Stagger |
+| 1578 | 7 | Marla |
+| 1579 | 7 | Milfchaser530 |
+| 1580 | 7 | Andrew Harris |
+| 1581 | 7 | Bryan Dell |
 | 1582 | 7 | Hyper Basepiece |
 | 1583 | 7 | John Boone |
 | 1584 | 7 | linda m |
@@ -1603,33 +1603,34 @@
 | 1595 | 6 | Andrae Robinson |
 | 1596 | 6 | Kyshia |
 | 1597 | 6 | NEM0228 |
-| 1598 | 6 | Lynn Formby |
-| 1599 | 6 | Nena |
+| 1598 | 6 | Nena |
+| 1599 | 6 | Lynn Formby |
 | 1600 | 6 | party t-rex 27 |
 | 1601 | 6 | Shiny Crusher |
 | 1602 | 6 | CK |
-| 1603 | 6 | DoMinique Lee |
-| 1604 | 6 | Shadena M Carter Mba |
-| 1605 | 6 | Giddy Bricky |
-| 1606 | 6 | Stevie Malcon |
-| 1607 | 5 | MrKeith Debraux |
-| 1608 | 5 | Joy Baker |
-| 1609 | 5 | Andy Barnett |
-| 1610 | 5 | Zesty Brickline |
-| 1611 | 5 | Godz Chosen |
-| 1612 | 5 | Angelique Thomas |
-| 1613 | 5 | Schuyler Carson Jackson |
-| 1614 | 5 | Annette DeLoatch Thompson |
-| 1615 | 5 | Stephanie Zuniga Tullock |
-| 1616 | 5 | VERA DAME |
-| 1617 | 5 | Jennifer Haton Kreighbaum |
-| 1618 | 5 | the guy |
-| 1619 | 5 | Derek Beverly |
-| 1620 | 5 | Carol Washington |
-| 1621 | 5 | pettymexoxo |
-| 1622 | 5 | BlessedBeauty |
-| 1623 | 5 | Happy |
-| 1624 | 5 | Aanngie Aanngie |
+| 1603 | 6 | Adonai Saves |
+| 1604 | 6 | DoMinique Lee |
+| 1605 | 6 | Shadena M Carter Mba |
+| 1606 | 6 | Giddy Bricky |
+| 1607 | 6 | Stevie Malcon |
+| 1608 | 5 | MrKeith Debraux |
+| 1609 | 5 | Joy Baker |
+| 1610 | 5 | Andy Barnett |
+| 1611 | 5 | Zesty Brickline |
+| 1612 | 5 | Godz Chosen |
+| 1613 | 5 | Angelique Thomas |
+| 1614 | 5 | Schuyler Carson Jackson |
+| 1615 | 5 | Annette DeLoatch Thompson |
+| 1616 | 5 | Stephanie Zuniga Tullock |
+| 1617 | 5 | VERA DAME |
+| 1618 | 5 | Jennifer Haton Kreighbaum |
+| 1619 | 5 | the guy |
+| 1620 | 5 | Derek Beverly |
+| 1621 | 5 | Carol Washington |
+| 1622 | 5 | pettymexoxo |
+| 1623 | 5 | BlessedBeauty |
+| 1624 | 5 | Happy |
+| 1625 | 5 | Aanngie Aanngie |
 
 ---
 *Standings created by tournaments datasource generation tool*
