@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 20:51:20 UTC
+# Standings for team1 as of 2026-06-07 20:52:20 UTC
 
 **Total Participants:** 1576
 
@@ -74,9 +74,9 @@
 | 66 | 998 | Weeze |
 | 67 | 981 | Court Court |
 | 68 | 980 | Bre Maugh |
-| 69 | 946 | Kimberly Hernandez |
-| 70 | 935 | Whitney Butler |
-| 71 | 902 | Uneekly Mayde |
+| 69 | 947 | Kimberly Hernandez |
+| 70 | 939 | Uneekly Mayde |
+| 71 | 935 | Whitney Butler |
 | 72 | 897 | BYM4L |
 | 73 | 896 | Tiana Moore |
 | 74 | 894 | Danielle Barthelme |
@@ -130,9 +130,9 @@
 | 122 | 527 | MommaCia |
 | 123 | 518 | ELM |
 | 124 | 513 | Rackemwillie34 |
-| 125 | 511 | Slinky Puzzler |
+| 125 | 511 | Abraham Espaillat |
 | 126 | 511 | Dizzy Dropper |
-| 127 | 511 | Abraham Espaillat |
+| 127 | 511 | Slinky Puzzler |
 | 128 | 503 | Atlantalindi |
 | 129 | 497 | Mimi 1.0 |
 | 130 | 495 | De'Laonzeo Anthony |
@@ -164,18 +164,18 @@
 | 156 | 384 | Christana Imjustbutton Stone |
 | 157 | 383 | Sheila Burnham |
 | 158 | 380 | Dulo |
-| 159 | 377 | Jenna Renee |
-| 160 | 377 | AF Cruz |
+| 159 | 377 | AF Cruz |
+| 160 | 377 | Jenna Renee |
 | 161 | 370 | Allison Baxter |
 | 162 | 367 | Leebo Slice |
-| 163 | 365 | Simmone T. Kadiri |
-| 164 | 365 | Tishauna Virgo |
+| 163 | 365 | Tishauna Virgo |
+| 164 | 365 | Simmone T. Kadiri |
 | 165 | 363 | Christina Rebecca |
 | 166 | 361 | John Staub |
 | 167 | 360 | Felicia Cain |
 | 168 | 359 | pooh |
-| 169 | 353 | Chuck Quarles |
-| 170 | 353 | Lashaunda |
+| 169 | 353 | Lashaunda |
+| 170 | 353 | Chuck Quarles |
 | 171 | 351 | Joey Albright |
 | 172 | 351 | Haley Bell |
 | 173 | 350 | Dee McCool |
@@ -188,43 +188,43 @@
 | 180 | 336 | Tammye Turner |
 | 181 | 333 | La'Chae Nickole |
 | 182 | 333 | Sharon Cail |
-| 183 | 330 | Jessica Russell |
-| 184 | 330 | Po Marley |
+| 183 | 330 | Po Marley |
+| 184 | 330 | Jessica Russell |
 | 185 | 328 | Karebear |
 | 186 | 320 | Jayjay Rich |
 | 187 | 318 | Nerdy Snapfall |
 | 188 | 316 | Latisha Fairley |
 | 189 | 312 | Michelle Titus |
-| 190 | 310 | Chantelle Lee |
-| 191 | 309 | IThinkNot |
-| 192 | 308 | NastyFriend |
-| 193 | 307 | Byron Mario Cawthon |
-| 194 | 306 | Devin West |
-| 195 | 305 | Salim Thugger |
-| 196 | 305 | Nobles Brandon |
+| 190 | 311 | Nobles Brandon |
+| 191 | 310 | Chantelle Lee |
+| 192 | 309 | IThinkNot |
+| 193 | 308 | NastyFriend |
+| 194 | 307 | Byron Mario Cawthon |
+| 195 | 306 | Devin West |
+| 196 | 305 | Salim Thugger |
 | 197 | 304 | Calvin Green |
 | 198 | 302 | Ebony |
 | 199 | 301 | Steve Reno |
 | 200 | 300 | David Fuentes |
-| 201 | 298 | Randizzle |
-| 202 | 298 | Mic Balew |
+| 201 | 298 | Mic Balew |
+| 202 | 298 | Randizzle |
 | 203 | 297 | Ashley MyBeauty Daniels |
 | 204 | 296 | Nikki Hogan |
 | 205 | 296 | Rolanda Williams |
 | 206 | 293 | Tonya Lee Sanders |
 | 207 | 291 | Brian Taylor |
 | 208 | 290 | Davionte DaeDae Hopson-Rodriguez |
-| 209 | 290 | Eugina Slater |
-| 210 | 290 | Kaleisha Smith |
+| 209 | 290 | Kaleisha Smith |
+| 210 | 290 | Eugina Slater |
 | 211 | 289 | Brave Clearbuilder |
 | 212 | 289 | Cortaz Lawrie |
 | 213 | 288 | Block King |
 | 214 | 287 | SyTheEvilGenius1 |
 | 215 | 286 | Denise B |
-| 216 | 285 | Marcheta Cervantez |
-| 217 | 285 | Helen Smith |
-| 218 | 283 | Christopher Dreamsareality McEachin |
-| 219 | 283 | BULLSEYE |
+| 216 | 285 | Helen Smith |
+| 217 | 285 | Marcheta Cervantez |
+| 218 | 283 | BULLSEYE |
+| 219 | 283 | Christopher Dreamsareality McEachin |
 | 220 | 279 | Reginald Frank |
 | 221 | 277 | Rhonda Williams Warner |
 | 222 | 276 | Zachary Colegrove |
@@ -240,9 +240,9 @@
 | 232 | 263 | Slim Shedidthat |
 | 233 | 263 | Dacia Hicks |
 | 234 | 261 | Jhonny Maii |
-| 235 | 260 | Ketrell Bailey |
-| 236 | 260 | Ann Chung |
-| 237 | 260 | Natasha Rucker |
+| 235 | 260 | Ann Chung |
+| 236 | 260 | Natasha Rucker |
+| 237 | 260 | Ketrell Bailey |
 | 238 | 258 | Koi |
 | 239 | 257 | Mafio SO |
 | 240 | 256 | Erin Sabol |
