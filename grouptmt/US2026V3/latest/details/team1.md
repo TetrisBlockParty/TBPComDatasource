@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 00:58:18 UTC
+# Standings for team1 as of 2026-06-07 00:58:38 UTC
 
 **Total Participants:** 1247
 
@@ -11,7 +11,7 @@
 | 3 | 7302 | Charlie Roehm |
 | 4 | 7000 | Kalynn Parks |
 | 5 | 6999 | Tracy Cohen |
-| 6 | 6771 | Cozy Edge |
+| 6 | 6795 | Cozy Edge |
 | 7 | 6679 | Death by SnuSnu |
 | 8 | 6150 | Songne Arif |
 | 9 | 5946 | Dyane Leah Ware |
@@ -70,8 +70,8 @@
 | 62 | 764 | Joy Citizen Pickney |
 | 63 | 749 | Aviv Zehavi |
 | 64 | 726 | Lisa Müller |
-| 65 | 710 | ing410 |
-| 66 | 707 | Blockhead |
+| 65 | 710 | Blockhead |
+| 66 | 710 | ing410 |
 | 67 | 690 | Kimberly Hernandez |
 | 68 | 689 | Jaida King |
 | 69 | 678 | No_Other_Choice |
