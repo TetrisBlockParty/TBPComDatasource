@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 00:00:17 UTC
+# Standings for team1 as of 2026-06-07 00:00:39 UTC
 
 **Total Participants:** 1226
 
@@ -149,10 +149,10 @@
 | 141 | 275 | Jawaun Daniels |
 | 142 | 273 | MamaBear |
 | 143 | 269 | Mimi 1.0 |
-| 144 | 263 | pooh |
-| 145 | 262 | Chantelle Lee |
-| 146 | 261 | Rolanda Williams |
-| 147 | 259 | Karebear |
+| 144 | 269 | Karebear |
+| 145 | 263 | pooh |
+| 146 | 262 | Chantelle Lee |
+| 147 | 261 | Rolanda Williams |
 | 148 | 257 | Helen Smith |
 | 149 | 257 | NastyFriend |
 | 150 | 257 | Cathy Young |
@@ -368,62 +368,62 @@
 | 360 | 94 | Slinky Brickmatch |
 | 361 | 93 | izzybella |
 | 362 | 93 | Chirpy Buildgrid |
-| 363 | 92 | C Lo Green |
+| 363 | 92 | Nina Davis |
 | 364 | 92 | Slinky Clearzone |
-| 365 | 92 | The DUBZ |
-| 366 | 92 | Katherine Short |
-| 367 | 92 | Nina Davis |
-| 368 | 91 | star |
-| 369 | 91 | Travis Davison |
-| 370 | 90 | Shameka Tiffany |
-| 371 | 90 | crumb bumc |
-| 372 | 90 | Nora Mahmoud |
+| 365 | 92 | Katherine Short |
+| 366 | 92 | C Lo Green |
+| 367 | 92 | The DUBZ |
+| 368 | 91 | Travis Davison |
+| 369 | 91 | star |
+| 370 | 90 | Lilly Brown |
+| 371 | 90 | Jean Regis |
+| 372 | 90 | Kate Hancock Malicek |
 | 373 | 90 | Danielle DeLozier Plesec |
-| 374 | 90 | Lilly Brown |
-| 375 | 90 | Kate Hancock Malicek |
-| 376 | 90 | Jean Regis |
-| 377 | 89 | wmedina67 |
+| 374 | 90 | Nora Mahmoud |
+| 375 | 90 | crumb bumc |
+| 376 | 90 | Shameka Tiffany |
+| 377 | 89 | Pretty Yella |
 | 378 | 89 | Analiza Ramos |
-| 379 | 89 | Pretty Yella |
+| 379 | 89 | wmedina67 |
 | 380 | 88 | Kristie |
 | 381 | 88 | Wacky Stackbuilder |
 | 382 | 88 | Ashleyy Netchert |
 | 383 | 88 | Tee Spinks |
 | 384 | 87 | Chummy Frame |
 | 385 | 87 | Comedian Prince Paul |
-| 386 | 86 | Kendra McIntyre |
-| 387 | 86 | Yashica Smith |
-| 388 | 86 | krd |
-| 389 | 86 | Tweet Turner |
-| 390 | 86 | Donna Payne |
-| 391 | 86 | Cm |
-| 392 | 85 | Jae Thompson-Tyus |
-| 393 | 84 | Sarah Steckbauer |
+| 386 | 86 | Zany Breaker |
+| 387 | 86 | Kendra McIntyre |
+| 388 | 86 | Yashica Smith |
+| 389 | 86 | krd |
+| 390 | 86 | Tweet Turner |
+| 391 | 86 | Donna Payne |
+| 392 | 86 | Cm |
+| 393 | 85 | Jae Thompson-Tyus |
 | 394 | 84 | Franklin Sotelo |
-| 395 | 84 | Zany Breaker |
+| 395 | 84 | Sarah Steckbauer |
 | 396 | 83 | Jelyfish |
-| 397 | 83 | MrsMeadows2019 |
-| 398 | 83 | Anthony |
+| 397 | 83 | Anthony |
+| 398 | 83 | MrsMeadows2019 |
 | 399 | 83 | Sandra Mims |
 | 400 | 82 | Angela Brown Babin |
-| 401 | 82 | Peppy Glider |
-| 402 | 82 | Yadira Salgado |
-| 403 | 82 | Cachet A Ward |
-| 404 | 82 | Christi Walker Patton |
-| 405 | 82 | Shanaa Germany Crittenden |
-| 406 | 82 | Happy Blockpiece |
-| 407 | 81 | Lynn |
-| 408 | 81 | rls |
-| 409 | 81 | Logan Frost |
-| 410 | 81 | Therealdywoune Peay |
-| 411 | 81 | Cynthia Cruell |
-| 412 | 80 | Gerold Folk Haddock |
-| 413 | 80 | Kp |
-| 414 | 80 | Smiley Clearpiece |
-| 415 | 80 | Natalie Burroughs |
-| 416 | 80 | Block King |
-| 417 | 80 | Charles Johnson |
-| 418 | 80 | Nickeya Phillips |
+| 401 | 82 | Cachet A Ward |
+| 402 | 82 | Christi Walker Patton |
+| 403 | 82 | Shanaa Germany Crittenden |
+| 404 | 82 | Happy Blockpiece |
+| 405 | 82 | Yadira Salgado |
+| 406 | 82 | Peppy Glider |
+| 407 | 81 | Cynthia Cruell |
+| 408 | 81 | Lynn |
+| 409 | 81 | Therealdywoune Peay |
+| 410 | 81 | Logan Frost |
+| 411 | 81 | rls |
+| 412 | 80 | Block King |
+| 413 | 80 | Nickeya Phillips |
+| 414 | 80 | Natalie Burroughs |
+| 415 | 80 | Smiley Clearpiece |
+| 416 | 80 | Gerold Folk Haddock |
+| 417 | 80 | Kp |
+| 418 | 80 | Charles Johnson |
 | 419 | 80 | Nyhlah Patterson |
 | 420 | 80 | Rebecca Jackson |
 | 421 | 80 | Lester Malone |
