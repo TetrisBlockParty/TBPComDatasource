@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 15:10:20 UTC
+# Standings for team1 as of 2026-06-07 15:10:40 UTC
 
 **Total Participants:** 1487
 
@@ -244,9 +244,9 @@
 | 236 | 242 | Robbie Cheeseman |
 | 237 | 242 | Penee Wiggins |
 | 238 | 240 | Rayya Kiser |
-| 239 | 239 | ♈️ Ariesbaby |
-| 240 | 238 | Queenie Perry |
-| 241 | 237 | Slim Shedidthat |
+| 239 | 240 | Slim Shedidthat |
+| 240 | 239 | ♈️ Ariesbaby |
+| 241 | 238 | Queenie Perry |
 | 242 | 236 | Nutty Spinblock |
 | 243 | 235 | Michele Simpson |
 | 244 | 234 | Dacia Hicks |

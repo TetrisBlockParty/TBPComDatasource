@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 15:10:20 UTC
+# Standings for team2 as of 2026-06-07 15:10:40 UTC
 
 **Total Participants:** 1784
 
@@ -158,13 +158,13 @@
 | 150 | 460 | Mom |
 | 151 | 458 | Kaycie Shaffer |
 | 152 | 453 | Kimberly Cowan |
-| 153 | 446 | Cool Balancer |
-| 154 | 438 | Michelle Rich Burkhart |
-| 155 | 436 | Gill |
+| 153 | 448 | Samantha Carman |
+| 154 | 446 | Cool Balancer |
+| 155 | 438 | Michelle Rich Burkhart |
 | 156 | 436 | MegaPooh |
-| 157 | 432 | Zarah Kettler |
-| 158 | 429 | Cool Climber |
-| 159 | 428 | Samantha Carman |
+| 157 | 436 | Gill |
+| 158 | 432 | Zarah Kettler |
+| 159 | 429 | Cool Climber |
 | 160 | 418 | Zany Blockclear |
 | 161 | 418 | Kelly Rogers |
 | 162 | 416 | Suki Jacobs |
