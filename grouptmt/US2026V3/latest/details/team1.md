@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 03:22:41 UTC
+# Standings for team1 as of 2026-06-07 03:23:16 UTC
 
 **Total Participants:** 1318
 
@@ -20,7 +20,7 @@
 | 12 | 5114 | Hunter Rayborn |
 | 13 | 5000 | Tyeina Johnson |
 | 14 | 4511 | Timothy Robert |
-| 15 | 4382 | Jocelyn Pope-Sewell |
+| 15 | 4482 | Jocelyn Pope-Sewell |
 | 16 | 3242 | Debbie Carswell |
 | 17 | 3039 | Chummy Combo |
 | 18 | 3003 | Cassidy Butler |
@@ -69,7 +69,7 @@
 | 61 | 813 | Eric Mcgaughy |
 | 62 | 805 | Weeze |
 | 63 | 800 | Angela R Wilson |
-| 64 | 789 | Kimberly Hernandez |
+| 64 | 791 | Kimberly Hernandez |
 | 65 | 788 | Jazzy Dashpiece |
 | 66 | 785 | JoJo |
 | 67 | 783 | Blockhead |
@@ -101,9 +101,9 @@
 | 93 | 517 | Danielle DeLozier Plesec |
 | 94 | 513 | Moomoo |
 | 95 | 511 | Dizzy Dropper |
-| 96 | 511 | Abraham Espaillat |
-| 97 | 510 | Cj Gorman |
-| 98 | 509 | Voice |
+| 96 | 511 | Voice |
+| 97 | 511 | Abraham Espaillat |
+| 98 | 510 | Cj Gorman |
 | 99 | 495 | W.A. Simpson |
 | 100 | 477 | Chenell Gillard |
 | 101 | 475 | Quirky Fallgrid |
