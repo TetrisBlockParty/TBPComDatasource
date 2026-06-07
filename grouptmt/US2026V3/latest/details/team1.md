@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 14:52:42 UTC
+# Standings for team1 as of 2026-06-07 14:53:18 UTC
 
 **Total Participants:** 1483
 
@@ -367,44 +367,44 @@
 | 359 | 143 | Giggy Clusterer |
 | 360 | 142 | Charlene Baltimore |
 | 361 | 141 | Shalena Marie Humphrey |
-| 362 | 140 | Eric Spencer Whitaker |
-| 363 | 140 | Antoinette Jones |
+| 362 | 140 | Nerdy Blockpiece |
+| 363 | 140 | Eric Spencer Whitaker |
 | 364 | 140 | Katrina Ramey |
-| 365 | 140 | Nerdy Blockpiece |
+| 365 | 140 | Antoinette Jones |
 | 366 | 140 | Jae Thompson-Tyus |
 | 367 | 140 | rls |
-| 368 | 139 | kitten |
-| 369 | 139 | Phillip Vasquez |
+| 368 | 139 | Phillip Vasquez |
+| 369 | 139 | kitten |
 | 370 | 138 | Tamika Rocheteau |
 | 371 | 138 | Dreamzzz |
-| 372 | 137 | Nickeya Phillips |
-| 373 | 137 | Kelvin Cook |
-| 374 | 137 | Lisa Fletcher |
-| 375 | 137 | Tay |
-| 376 | 136 | Travis Davison |
-| 377 | 136 | Shanaa Germany Crittenden |
-| 378 | 136 | McKayla Owens |
-| 379 | 136 | Cece Fowler |
-| 380 | 136 | Char |
-| 381 | 135 | Breezy Catcher |
-| 382 | 135 | Sean White |
-| 383 | 135 | MzJuice Box |
-| 384 | 135 | Saucy Tile |
+| 372 | 137 | Kelvin Cook |
+| 373 | 137 | Lisa Fletcher |
+| 374 | 137 | Tay |
+| 375 | 137 | Nickeya Phillips |
+| 376 | 136 | Cece Fowler |
+| 377 | 136 | Travis Davison |
+| 378 | 136 | Char |
+| 379 | 136 | McKayla Owens |
+| 380 | 136 | Shanaa Germany Crittenden |
+| 381 | 135 | Saucy Tile |
+| 382 | 135 | Breezy Catcher |
+| 383 | 135 | Sean White |
+| 384 | 135 | MzJuice Box |
 | 385 | 134 | Perky Pusher |
-| 386 | 134 | Peppy Glider |
-| 387 | 134 | Ciera Peace |
-| 388 | 132 | Chirpy Buildgrid |
-| 389 | 132 | Tremaine Hiler |
-| 390 | 131 | Douglas Price |
-| 391 | 130 | Murg4dr01d |
-| 392 | 130 | Miera Nicole |
-| 393 | 130 | Kesha Brady |
+| 386 | 134 | Douglas Price |
+| 387 | 134 | Peppy Glider |
+| 388 | 134 | Ciera Peace |
+| 389 | 132 | Chirpy Buildgrid |
+| 390 | 132 | Tremaine Hiler |
+| 391 | 130 | Kesha Brady |
+| 392 | 130 | Murg4dr01d |
+| 393 | 130 | Miera Nicole |
 | 394 | 130 | Jessica Davis |
 | 395 | 130 | Adrian Wilson |
 | 396 | 130 | Maribel Vasquez |
-| 397 | 129 | Kate Hancock Malicek |
-| 398 | 129 | Loopy Tiler |
-| 399 | 129 | Mathew Trudell |
+| 397 | 129 | Loopy Tiler |
+| 398 | 129 | Mathew Trudell |
+| 399 | 129 | Kate Hancock Malicek |
 | 400 | 129 | Lynn |
 | 401 | 128 | Darrel K Pemberton |
 | 402 | 128 | Jack Vlasak |
@@ -412,10 +412,10 @@
 | 404 | 127 | Treneil Daffin |
 | 405 | 127 | Ozell Jones Jr. |
 | 406 | 126 | Laurie Napper |
-| 407 | 125 | Dedra M Prester |
+| 407 | 125 | Taz Ballard |
 | 408 | 125 | LaTonya Myers |
-| 409 | 125 | Dizzy Dashy |
-| 410 | 125 | Taz Ballard |
+| 409 | 125 | Dedra M Prester |
+| 410 | 125 | Dizzy Dashy |
 | 411 | 124 | Li-Li Ratliff |
 | 412 | 124 | The DUBZ |
 | 413 | 123 | Cauiasia DeJ'ae |
@@ -434,12 +434,12 @@
 | 426 | 119 | Lexx Robins |
 | 427 | 118 | Amanda Woodruff |
 | 428 | 118 | Hasty Pivoty |
-| 429 | 117 | Joana Thompson |
-| 430 | 117 | MonaSparks |
-| 431 | 116 | Jess |
-| 432 | 116 | Yadira Salgado |
-| 433 | 115 | wmedina67 |
-| 434 | 115 | Jeffrey Barrows |
+| 429 | 117 | Jeffrey Barrows |
+| 430 | 117 | Joana Thompson |
+| 431 | 117 | MonaSparks |
+| 432 | 116 | Jess |
+| 433 | 116 | Yadira Salgado |
+| 434 | 115 | wmedina67 |
 | 435 | 115 | BabyCakes |
 | 436 | 114 | LAhoneybun82 |
 | 437 | 114 | Faith Armone |
