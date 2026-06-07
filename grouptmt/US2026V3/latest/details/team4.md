@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 08:49:20 UTC
+# Standings for team4 as of 2026-06-07 08:50:18 UTC
 
 **Total Participants:** 1419
 
@@ -79,9 +79,9 @@
 | 71 | 800 | Leah Gorsuch |
 | 72 | 788 | Shaina Sharp |
 | 73 | 750 | Trice Stevenson |
-| 74 | 730 | Chaz Duncan |
-| 75 | 729 | Keesha Muro |
-| 76 | 722 | J |
+| 74 | 736 | J |
+| 75 | 730 | Chaz Duncan |
+| 76 | 729 | Keesha Muro |
 | 77 | 720 | Carly Stempien |
 | 78 | 718 | Phil Peterson |
 | 79 | 711 | Shelby |
@@ -215,7 +215,7 @@
 | 207 | 220 | CIRAZYPNOY |
 | 208 | 218 | Lori Stembridge |
 | 209 | 215 | Jj Johnson |
-| 210 | 214 | Maria Castillo |
+| 210 | 215 | Maria Castillo |
 | 211 | 211 | Pepone Pepe |
 | 212 | 211 | Goofy Riser |
 | 213 | 211 | Renee Sapp |
@@ -354,54 +354,54 @@
 | 346 | 121 | TJ |
 | 347 | 120 | Goofy Linkmatch |
 | 348 | 120 | Ada Rodriguez Spradley |
-| 349 | 120 | Joab Gonzalez |
-| 350 | 120 | Carla Woodard |
-| 351 | 120 | Holly Wessel |
+| 349 | 120 | Cool Risepiece |
+| 350 | 120 | Shiny Brick |
+| 351 | 120 | Joab Gonzalez |
 | 352 | 120 | Glamorous Gracey |
-| 353 | 120 | Cool Risepiece |
-| 354 | 120 | Shiny Brick |
+| 353 | 120 | Holly Wessel |
+| 354 | 120 | Carla Woodard |
 | 355 | 119 | Maegon Brazille |
 | 356 | 119 | Rae Saunders |
-| 357 | 119 | Dennis Montoya |
-| 358 | 119 | aga |
-| 359 | 119 | Ashley Jenkins |
+| 357 | 119 | Ashley Jenkins |
+| 358 | 119 | Dennis Montoya |
+| 359 | 119 | aga |
 | 360 | 118 | Goofy Fall |
 | 361 | 118 | Miwa |
-| 362 | 117 | Fancy Tilefall |
-| 363 | 117 | Tyson Stroppel |
-| 364 | 116 | Henry Lanier |
-| 365 | 116 | Toon Up |
-| 366 | 116 | Stef |
-| 367 | 116 | Solace Grace |
-| 368 | 116 | Samantha Worley |
+| 362 | 117 | Tyson Stroppel |
+| 363 | 117 | Fancy Tilefall |
+| 364 | 116 | Toon Up |
+| 365 | 116 | Henry Lanier |
+| 366 | 116 | Samantha Worley |
+| 367 | 116 | Stef |
+| 368 | 116 | Solace Grace |
 | 369 | 116 | Aaron Turner |
 | 370 | 114 | Ashley Eskridge |
 | 371 | 114 | Shawna Downey |
-| 372 | 113 | George Palacios |
-| 373 | 113 | Tarsha Thomas-Martinez |
+| 372 | 114 | yourmomz |
+| 373 | 113 | George Palacios |
 | 374 | 113 | TheazO |
-| 375 | 113 | Melissa Anne |
-| 376 | 112 | Keith Kosmicki |
-| 377 | 111 | Marcus Chavis |
-| 378 | 111 | Holly Bramel |
-| 379 | 110 | Lora Schallert |
-| 380 | 110 | jaz |
+| 375 | 113 | Tarsha Thomas-Martinez |
+| 376 | 113 | Melissa Anne |
+| 377 | 112 | Keith Kosmicki |
+| 378 | 111 | Marcus Chavis |
+| 379 | 111 | Holly Bramel |
+| 380 | 110 | Lora Schallert |
 | 381 | 110 | Wanda Simmons |
 | 382 | 110 | Luna |
-| 383 | 110 | Anna Ryan |
-| 384 | 109 | Ross Bryant |
+| 383 | 110 | jaz |
+| 384 | 110 | Anna Ryan |
 | 385 | 109 | farfromlocal |
-| 386 | 109 | Melika Zeheb |
-| 387 | 109 | Edward White |
-| 388 | 108 | Anthony Lewis |
-| 389 | 108 | Kaps |
-| 390 | 108 | Rita Ann |
-| 391 | 107 | Ash Gribble |
-| 392 | 107 | Drh4090 |
-| 393 | 107 | Allysha McFarland |
-| 394 | 107 | Jrr |
-| 395 | 106 | Corey Jackson |
-| 396 | 105 | yourmomz |
+| 386 | 109 | Ross Bryant |
+| 387 | 109 | Melika Zeheb |
+| 388 | 109 | Edward White |
+| 389 | 108 | Anthony Lewis |
+| 390 | 108 | Kaps |
+| 391 | 108 | Rita Ann |
+| 392 | 107 | Ash Gribble |
+| 393 | 107 | Drh4090 |
+| 394 | 107 | Allysha McFarland |
+| 395 | 107 | Jrr |
+| 396 | 106 | Corey Jackson |
 | 397 | 105 | Valerie Silva |
 | 398 | 105 | Karen Rodriguez |
 | 399 | 104 | Justin Ballard |
