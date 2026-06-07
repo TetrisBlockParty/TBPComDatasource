@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 21:44:20 UTC
+# Standings for team1 as of 2026-06-07 21:44:43 UTC
 
 **Total Participants:** 1584
 
@@ -156,13 +156,13 @@
 | 148 | 420 | Jessica Carter |
 | 149 | 417 | Dena Marie Lee |
 | 150 | 408 | Ebony Waynes-robinson |
-| 151 | 405 | SPNLover24 |
-| 152 | 404 | Hyper Slamdrop |
-| 153 | 401 | Shell Lewis |
-| 154 | 397 | Kaleisha Smith |
+| 151 | 407 | Kaleisha Smith |
+| 152 | 405 | SPNLover24 |
+| 153 | 404 | Hyper Slamdrop |
+| 154 | 401 | Shell Lewis |
 | 155 | 391 | Frisky Fallmatch |
-| 156 | 389 | GrkGdess |
-| 157 | 389 | Roberta Lynn |
+| 156 | 389 | Roberta Lynn |
+| 157 | 389 | GrkGdess |
 | 158 | 387 | Crystal Anderson |
 | 159 | 384 | Christana Imjustbutton Stone |
 | 160 | 383 | Sheila Burnham |

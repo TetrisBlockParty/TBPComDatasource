@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 21:44:20 UTC
+# Standings for team2 as of 2026-06-07 21:44:43 UTC
 
 **Total Participants:** 1913
 
@@ -640,15 +640,15 @@
 | 632 | 108 | Maurii93 |
 | 633 | 108 | Brooklyn Todd |
 | 634 | 108 | Kelly |
-| 635 | 107 | Sam Brewster |
-| 636 | 107 | Carole Brown |
-| 637 | 107 | Chelsea Frye |
-| 638 | 107 | Chesney |
-| 639 | 107 | Stephanie Smith Robinson |
-| 640 | 107 | Kalli Bonin |
-| 641 | 106 | Cassandra Milner |
-| 642 | 106 | Andrea Rawson |
-| 643 | 106 | Newtwidebody |
+| 635 | 108 | Newtwidebody |
+| 636 | 107 | Sam Brewster |
+| 637 | 107 | Carole Brown |
+| 638 | 107 | Chelsea Frye |
+| 639 | 107 | Chesney |
+| 640 | 107 | Stephanie Smith Robinson |
+| 641 | 107 | Kalli Bonin |
+| 642 | 106 | Cassandra Milner |
+| 643 | 106 | Andrea Rawson |
 | 644 | 106 | Janelle Edgecombe |
 | 645 | 106 | Mary Whitaker |
 | 646 | 106 | Francesca Wagenhoffer |
@@ -1071,38 +1071,38 @@
 | 1063 | 55 | Anthony Chavez |
 | 1064 | 55 | Angiela Hope Boggs |
 | 1065 | 55 | Stephanie |
-| 1066 | 55 | Amanda Neal |
-| 1067 | 55 | Misty McElroy |
+| 1066 | 55 | James Calhoun |
+| 1067 | 55 | Amanda Neal |
 | 1068 | 55 | Chatty |
-| 1069 | 55 | James Calhoun |
-| 1070 | 54 | Christina Nycol |
-| 1071 | 54 | Katie Boen |
-| 1072 | 54 | Rae Madewell |
-| 1073 | 54 | Josie Mendivil |
-| 1074 | 54 | Jess Duehring |
-| 1075 | 54 | Alexis Turner |
-| 1076 | 54 | Rachel Nunn |
-| 1077 | 53 | Maithan Conour |
-| 1078 | 53 | Topknot13 |
-| 1079 | 53 | Dawn Marie |
-| 1080 | 53 | Jeannine Murphy |
-| 1081 | 53 | CK Hancock |
-| 1082 | 52 | Amber Marie Lacey |
-| 1083 | 52 | Trisha Farley |
-| 1084 | 52 | Beth Engberg |
-| 1085 | 52 | Dolly |
-| 1086 | 52 | Samantha LeBlanc |
-| 1087 | 52 | Lisa Rose |
+| 1069 | 55 | Misty McElroy |
+| 1070 | 54 | Swanky Twister |
+| 1071 | 54 | Christina Nycol |
+| 1072 | 54 | Josie Mendivil |
+| 1073 | 54 | Rae Madewell |
+| 1074 | 54 | Katie Boen |
+| 1075 | 54 | Jess Duehring |
+| 1076 | 54 | Alexis Turner |
+| 1077 | 54 | Rachel Nunn |
+| 1078 | 53 | Dawn Marie |
+| 1079 | 53 | CK Hancock |
+| 1080 | 53 | Maithan Conour |
+| 1081 | 53 | Jeannine Murphy |
+| 1082 | 53 | Topknot13 |
+| 1083 | 52 | Lisa Rose |
+| 1084 | 52 | Chipper Spinzone |
+| 1085 | 52 | Trisha Farley |
+| 1086 | 52 | Amber Marie Lacey |
+| 1087 | 52 | Jumpy Linkroll |
 | 1088 | 52 | David Cadiente |
-| 1089 | 52 | Jumpy Linkroll |
-| 1090 | 52 | Chipper Spinzone |
-| 1091 | 52 | Heather Nicole |
-| 1092 | 51 | Chesterland |
-| 1093 | 51 | Ramona Peña |
-| 1094 | 51 | Jess |
-| 1095 | 51 | Swanky Twister |
-| 1096 | 51 | Tiffany Powell |
-| 1097 | 51 | Loopy Zone |
+| 1089 | 52 | Beth Engberg |
+| 1090 | 52 | Dolly |
+| 1091 | 52 | Samantha LeBlanc |
+| 1092 | 52 | Heather Nicole |
+| 1093 | 51 | Chesterland |
+| 1094 | 51 | Ramona Peña |
+| 1095 | 51 | Tiffany Powell |
+| 1096 | 51 | Loopy Zone |
+| 1097 | 51 | Jess |
 | 1098 | 51 | Cary M. Fong |
 | 1099 | 51 | Brian Giddens |
 | 1100 | 51 | Armordguy |
