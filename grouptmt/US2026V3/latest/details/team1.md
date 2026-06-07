@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 18:20:20 UTC
+# Standings for team1 as of 2026-06-07 18:20:42 UTC
 
 **Total Participants:** 1533
 
@@ -656,50 +656,50 @@
 | 648 | 80 | Yashicha Hertzock |
 | 649 | 80 | Victoria Smith |
 | 650 | 80 | Amaadi Ward |
-| 651 | 80 | Kanary Karotz |
-| 652 | 80 | Lady Scorpio |
-| 653 | 80 | Chevalier Burley |
-| 654 | 80 | Kamilya Rembert |
-| 655 | 80 | PSD |
-| 656 | 80 | Charles Johnson |
-| 657 | 80 | Tracey Johnson |
+| 651 | 80 | Kamilya Rembert |
+| 652 | 80 | Kanary Karotz |
+| 653 | 80 | Lady Scorpio |
+| 654 | 80 | Chevalier Burley |
+| 655 | 80 | Charles Johnson |
+| 656 | 80 | Tracey Johnson |
+| 657 | 80 | PSD |
 | 658 | 80 | Keith Big-Sixx Mackell |
 | 659 | 80 | Gerold Folk Haddock |
 | 660 | 80 | Latore Maxie |
-| 661 | 79 | Evette Moreno |
-| 662 | 79 | Kyra Coleman |
+| 661 | 79 | Kyra Coleman |
+| 662 | 79 | Evette Moreno |
 | 663 | 79 | Angelique Talbot |
 | 664 | 79 | Montréal Mars |
 | 665 | 79 | TY Newme Batts |
 | 666 | 79 | Kim Holzmiller |
-| 667 | 79 | Naee Bee |
-| 668 | 79 | Boymama917 |
-| 669 | 78 | Kahh |
-| 670 | 78 | Dirty Deeds |
-| 671 | 78 | Smiley3000 |
+| 667 | 79 | Boymama917 |
+| 668 | 79 | Naee Bee |
+| 669 | 79 | Pj Rojas |
+| 670 | 78 | Kahh |
+| 671 | 78 | Dirty Deeds |
 | 672 | 78 | Azeiare Ziare |
-| 673 | 78 | Krystal Maynard |
-| 674 | 78 | Solomon Valarie |
-| 675 | 78 | Rachel Renae Bettis |
-| 676 | 78 | Ryan Runyan |
-| 677 | 78 | Callie Mae |
-| 678 | 77 | Dana Hawes |
-| 679 | 77 | Jessie N Michael Silvers |
-| 680 | 77 | Casey Chapman |
-| 681 | 77 | EvaLynn NeCole |
-| 682 | 77 | rb |
-| 683 | 77 | Ysma Simmons |
-| 684 | 77 | DellaLucretia Thomas |
-| 685 | 76 | Pj Rojas |
+| 673 | 78 | Ryan Runyan |
+| 674 | 78 | Krystal Maynard |
+| 675 | 78 | Callie Mae |
+| 676 | 78 | Solomon Valarie |
+| 677 | 78 | Rachel Renae Bettis |
+| 678 | 78 | Smiley3000 |
+| 679 | 77 | Casey Chapman |
+| 680 | 77 | rb |
+| 681 | 77 | Jessie N Michael Silvers |
+| 682 | 77 | EvaLynn NeCole |
+| 683 | 77 | DellaLucretia Thomas |
+| 684 | 77 | Dana Hawes |
+| 685 | 77 | Ysma Simmons |
 | 686 | 76 | lady |
 | 687 | 76 | Giggly Shatterline |
 | 688 | 76 | Earl Williams |
 | 689 | 76 | LaSharon Jackson |
 | 690 | 76 | Shakmar |
-| 691 | 75 | Teresa Bean |
-| 692 | 75 | sasha |
-| 693 | 75 | Erika |
-| 694 | 75 | Jennifer Moore |
+| 691 | 75 | Jennifer Moore |
+| 692 | 75 | Teresa Bean |
+| 693 | 75 | sasha |
+| 694 | 75 | Erika |
 | 695 | 75 | Courtney Robinson |
 | 696 | 75 | Tiffany Jean Hinson |
 | 697 | 75 | Boldy Pivoty |
@@ -842,25 +842,25 @@
 | 834 | 58 | Brandy Way |
 | 835 | 57 | Idelia L Brown |
 | 836 | 57 | Linda Lasha Messenger |
-| 837 | 57 | Christy Quick |
-| 838 | 57 | Desire Rice |
-| 839 | 56 | jeremy92 |
-| 840 | 56 | Chanel White |
-| 841 | 56 | Sally Elizabeth Hopson |
-| 842 | 56 | Lisa Ivy |
-| 843 | 56 | Maria Baez Medina |
-| 844 | 56 | QueenzMo |
-| 845 | 55 | Bunnie Celtavini |
-| 846 | 55 | Tomme Poliwka |
-| 847 | 55 | Kyle Franklin |
-| 848 | 55 | Vernon Hoyt |
+| 837 | 57 | Vernon Hoyt |
+| 838 | 57 | Christy Quick |
+| 839 | 57 | Desire Rice |
+| 840 | 56 | jeremy92 |
+| 841 | 56 | Chanel White |
+| 842 | 56 | Sally Elizabeth Hopson |
+| 843 | 56 | Lisa Ivy |
+| 844 | 56 | Maria Baez Medina |
+| 845 | 56 | QueenzMo |
+| 846 | 55 | Bunnie Celtavini |
+| 847 | 55 | Tomme Poliwka |
+| 848 | 55 | Kyle Franklin |
 | 849 | 55 | Jane Lame |
 | 850 | 55 | KoolKimJay |
 | 851 | 55 | nameno |
-| 852 | 54 | deeno |
-| 853 | 54 | rummy |
-| 854 | 54 | Fairy Fae_6 |
-| 855 | 54 | Kashh |
+| 852 | 54 | rummy |
+| 853 | 54 | deeno |
+| 854 | 54 | Kashh |
+| 855 | 54 | Fairy Fae_6 |
 | 856 | 54 | Felicia Yahuah Johnson |
 | 857 | 54 | Katness |
 | 858 | 54 | Embracing Hair |
@@ -933,49 +933,49 @@
 | 925 | 46 | TrapQween39Bi |
 | 926 | 46 | Felicia Dungey |
 | 927 | 45 | Antoinette Kidd |
-| 928 | 45 | Frothy Zoney |
+| 928 | 45 | GetDaOPPS |
 | 929 | 45 | rosieredpanda |
-| 930 | 45 | Beautiful314 |
-| 931 | 45 | GetDaOPPS |
-| 932 | 45 | Meshia |
-| 933 | 45 | Amanda Colwell |
-| 934 | 45 | Y3llOWFAC3 |
-| 935 | 45 | Lawreniesha Burkley |
+| 930 | 45 | Meshia |
+| 931 | 45 | Frothy Zoney |
+| 932 | 45 | Beautiful314 |
+| 933 | 45 | Y3llOWFAC3 |
+| 934 | 45 | Lawreniesha Burkley |
+| 935 | 45 | Amanda Colwell |
 | 936 | 45 | Matraca Young |
-| 937 | 45 | Mumitt |
-| 938 | 45 | Heather Cross-Davis |
+| 937 | 45 | Heather Cross-Davis |
+| 938 | 45 | Mumitt |
 | 939 | 45 | WReckitraff |
 | 940 | 45 | Sarah Jones |
-| 941 | 45 | Brave Balanceblock |
-| 942 | 45 | Tia Hazelton |
-| 943 | 45 | Cali Lee |
+| 941 | 45 | Tia Hazelton |
+| 942 | 45 | Cali Lee |
+| 943 | 45 | Skye |
 | 944 | 45 | Jason A Giantonio |
-| 945 | 45 | Skye |
-| 946 | 44 | Ivan Israel |
-| 947 | 44 | Connor Leon Cluff |
-| 948 | 44 | Nic Nic |
-| 949 | 44 | Mark Steven Pichler |
-| 950 | 44 | Ducc2408 |
+| 945 | 45 | Brave Balanceblock |
+| 946 | 45 | Darrelle Short |
+| 947 | 44 | Ivan Israel |
+| 948 | 44 | Ducc2408 |
+| 949 | 44 | Connor Leon Cluff |
+| 950 | 44 | Nic Nic |
 | 951 | 44 | Candy Lee |
-| 952 | 44 | Tez Mays |
-| 953 | 43 | Corbin Henry |
-| 954 | 43 | MindlessMic |
-| 955 | 43 | Block |
-| 956 | 43 | Darrelle Short |
-| 957 | 43 | Jovy |
-| 958 | 43 | Vivian Bunnell Myers |
-| 959 | 43 | Louise Parker |
-| 960 | 43 | Alturas Supremenineteen Banks |
-| 961 | 43 | Lounique |
-| 962 | 43 | Daphne Ceasar |
-| 963 | 42 | Taneka Howell |
+| 952 | 44 | Mark Steven Pichler |
+| 953 | 44 | Tez Mays |
+| 954 | 43 | Jovy |
+| 955 | 43 | Daphne Ceasar |
+| 956 | 43 | Lounique |
+| 957 | 43 | Block |
+| 958 | 43 | Alturas Supremenineteen Banks |
+| 959 | 43 | MindlessMic |
+| 960 | 43 | Corbin Henry |
+| 961 | 43 | Louise Parker |
+| 962 | 43 | Vivian Bunnell Myers |
+| 963 | 42 | Melanie Houghton-McCann |
 | 964 | 42 | Nadine Coleman |
-| 965 | 42 | Brii Michelle Lamb |
-| 966 | 42 | Wacky Spinfit |
-| 967 | 42 | Emeka Agu |
-| 968 | 42 | Melanie Houghton-McCann |
-| 969 | 42 | Tanisha Robinson |
-| 970 | 42 | Rikki Moran |
+| 965 | 42 | Taneka Howell |
+| 966 | 42 | Emeka Agu |
+| 967 | 42 | Tanisha Robinson |
+| 968 | 42 | Rikki Moran |
+| 969 | 42 | Wacky Spinfit |
+| 970 | 42 | Brii Michelle Lamb |
 | 971 | 42 | Willson06 |
 | 972 | 42 | Louise |
 | 973 | 42 | TeeMaster Barber IsLyfe |

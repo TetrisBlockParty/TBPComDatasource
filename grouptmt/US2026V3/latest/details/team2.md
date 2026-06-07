@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 18:20:20 UTC
+# Standings for team2 as of 2026-06-07 18:20:42 UTC
 
 **Total Participants:** 1846
 
@@ -260,7 +260,7 @@
 | 252 | 278 | Amy Nicole McCanne |
 | 253 | 276 | AndrewandShela Gornik |
 | 254 | 274 | Chipper Stackbuilder |
-| 255 | 269 | Norma Ortiz |
+| 255 | 272 | Norma Ortiz |
 | 256 | 267 | Karly Moore |
 | 257 | 266 | Kathleen Keogh Van Schoyck |
 | 258 | 264 | Dallas Runyan |

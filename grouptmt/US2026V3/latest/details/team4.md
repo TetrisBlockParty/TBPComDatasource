@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 18:20:20 UTC
+# Standings for team4 as of 2026-06-07 18:20:42 UTC
 
 **Total Participants:** 1565
 
@@ -1271,20 +1271,20 @@
 | 1263 | 23 | LIZ |
 | 1264 | 23 | Carole Dyment Westcott |
 | 1265 | 23 | Breezy Cascadeclear |
-| 1266 | 23 | James Moore |
-| 1267 | 22 | Eric Quan |
-| 1268 | 22 | Jordan Tamayia Williams |
-| 1269 | 22 | Zippy Jumper |
-| 1270 | 22 | Twisty Chiseler |
-| 1271 | 22 | Magda Lene |
-| 1272 | 22 | Stylist |
-| 1273 | 22 | McScrubby |
-| 1274 | 22 | Baby cat |
-| 1275 | 22 | Kathy Lindsay |
-| 1276 | 22 | Rachel Resnick |
-| 1277 | 22 | Honey |
-| 1278 | 22 | Christy Petty |
-| 1279 | 22 | Daring Patternblock |
+| 1266 | 23 | Daring Patternblock |
+| 1267 | 23 | James Moore |
+| 1268 | 22 | Eric Quan |
+| 1269 | 22 | Jordan Tamayia Williams |
+| 1270 | 22 | Zippy Jumper |
+| 1271 | 22 | Twisty Chiseler |
+| 1272 | 22 | Magda Lene |
+| 1273 | 22 | Stylist |
+| 1274 | 22 | McScrubby |
+| 1275 | 22 | Baby cat |
+| 1276 | 22 | Kathy Lindsay |
+| 1277 | 22 | Rachel Resnick |
+| 1278 | 22 | Honey |
+| 1279 | 22 | Christy Petty |
 | 1280 | 22 | Bold Tumbler |
 | 1281 | 21 | Ak Jones |
 | 1282 | 21 | Cozy Staggerpiece |
