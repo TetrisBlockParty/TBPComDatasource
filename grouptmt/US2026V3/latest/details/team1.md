@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 10:55:19 UTC
+# Standings for team1 as of 2026-06-07 10:56:20 UTC
 
 **Total Participants:** 1443
 
@@ -194,7 +194,7 @@
 | 186 | 275 | Jawaun Daniels |
 | 187 | 274 | NastyFriend |
 | 188 | 270 | xXEKUNXx |
-| 189 | 264 | Block King |
+| 189 | 269 | Block King |
 | 190 | 261 | Devin West |
 | 191 | 260 | Ketrell Bailey |
 | 192 | 259 | Brave Clearbuilder |
@@ -566,8 +566,8 @@
 | 558 | 80 | Latore Maxie |
 | 559 | 80 | Charles Johnson |
 | 560 | 80 | Cynthia Bradley |
-| 561 | 80 | Gerold Folk Haddock |
-| 562 | 80 | Chevalier Burley |
+| 561 | 80 | Chevalier Burley |
+| 562 | 80 | Gerold Folk Haddock |
 | 563 | 79 | Tracy Feyler |
 | 564 | 79 | Nerdy Climber |
 | 565 | 79 | Montréal Mars |
@@ -575,58 +575,58 @@
 | 567 | 78 | Solomon Valarie |
 | 568 | 78 | Claudia Price |
 | 569 | 78 | Rachel Renae Bettis |
-| 570 | 78 | Ryan Runyan |
-| 571 | 78 | Smiley3000 |
-| 572 | 77 | Dana Hawes |
-| 573 | 77 | EvaLynn NeCole |
-| 574 | 76 | Paul Pendley |
-| 575 | 76 | Essence Jones |
-| 576 | 76 | Bold Clusterer |
-| 577 | 76 | Giggly Shatterline |
-| 578 | 76 | Angelique Talbot |
-| 579 | 76 | lady |
-| 580 | 75 | sasha |
-| 581 | 75 | Erika |
-| 582 | 75 | MzJuice Box |
-| 583 | 75 | Courtney Robinson |
-| 584 | 75 | Angie Lebron |
-| 585 | 75 | Jennifer Moore |
-| 586 | 75 | Terrance Tindall |
-| 587 | 75 | Jimmy Shannon |
-| 588 | 74 | Sunny Clicky |
-| 589 | 74 | Glitzy Clusterer |
-| 590 | 74 | Sabrina Wilkerson |
-| 591 | 74 | Casey Chapman |
+| 570 | 78 | TRUBBLE45 |
+| 571 | 78 | Ryan Runyan |
+| 572 | 78 | Smiley3000 |
+| 573 | 77 | Dana Hawes |
+| 574 | 77 | EvaLynn NeCole |
+| 575 | 76 | Paul Pendley |
+| 576 | 76 | Essence Jones |
+| 577 | 76 | Bold Clusterer |
+| 578 | 76 | Giggly Shatterline |
+| 579 | 76 | Angelique Talbot |
+| 580 | 76 | lady |
+| 581 | 75 | Jimmy Shannon |
+| 582 | 75 | Terrance Tindall |
+| 583 | 75 | Jennifer Moore |
+| 584 | 75 | sasha |
+| 585 | 75 | Angie Lebron |
+| 586 | 75 | Courtney Robinson |
+| 587 | 75 | Erika |
+| 588 | 75 | MzJuice Box |
+| 589 | 74 | Renee Marshall |
+| 590 | 74 | Kimmie Gargano |
+| 591 | 74 | Tetrisdestroyer |
 | 592 | 74 | Nichelle Warren |
-| 593 | 74 | Tetrisdestroyer |
-| 594 | 74 | Kimmie Gargano |
-| 595 | 74 | Renee Marshall |
-| 596 | 74 | Cortrell Foster |
-| 597 | 73 | Marlynnnnn |
-| 598 | 73 | Kahh |
-| 599 | 72 | Lauraly |
-| 600 | 72 | Marlainia Boyd |
+| 593 | 74 | Sabrina Wilkerson |
+| 594 | 74 | Sunny Clicky |
+| 595 | 74 | Glitzy Clusterer |
+| 596 | 74 | Casey Chapman |
+| 597 | 74 | Cortrell Foster |
+| 598 | 73 | Marlynnnnn |
+| 599 | 73 | Kahh |
+| 600 | 72 | Poppy Twister |
 | 601 | 72 | Comedian Gdane |
-| 602 | 72 | Nekka |
-| 603 | 72 | ImmeKC |
-| 604 | 72 | TRUBBLE45 |
-| 605 | 72 | Poppy Twister |
-| 606 | 72 | JesusSaves 😇 |
-| 607 | 71 | HBTone |
-| 608 | 71 | Tori Carter |
+| 602 | 72 | Marlainia Boyd |
+| 603 | 72 | JesusSaves 😇 |
+| 604 | 72 | ImmeKC |
+| 605 | 72 | Nekka |
+| 606 | 72 | Lauraly |
+| 607 | 71 | Tori Carter |
+| 608 | 71 | akosua |
 | 609 | 71 | Chereese Harris |
 | 610 | 71 | KimChii |
-| 611 | 71 | Abigail Newman Sweet |
-| 612 | 71 | akosua |
+| 611 | 71 | HBTone |
+| 612 | 71 | Abigail Newman Sweet |
 | 613 | 70 | Blocksy |
 | 614 | 70 | Marshall Davis |
 | 615 | 70 | Angela Kitchens |
 | 616 | 70 | Meow Meow |
 | 617 | 70 | Smøke DGAF |
 | 618 | 70 | Shea Ladynick Henderson |
-| 619 | 70 | West Racks |
-| 620 | 70 | Rachel Lopez |
-| 621 | 70 | Duncan Timothy |
+| 619 | 70 | Rachel Lopez |
+| 620 | 70 | Duncan Timothy |
+| 621 | 70 | West Racks |
 | 622 | 69 | Jose Rodriguez |
 | 623 | 69 | Rochelle Nash-Evans |
 | 624 | 69 | Sara |
