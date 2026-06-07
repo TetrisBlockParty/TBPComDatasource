@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 22:14:19 UTC
+# Standings for team4 as of 2026-06-07 22:14:40 UTC
 
 **Total Participants:** 1634
 
@@ -86,8 +86,8 @@
 | 78 | 848 | Beee |
 | 79 | 837 | Fancy Crasher |
 | 80 | 830 | Kitsune Bi |
-| 81 | 826 | Lupe Alburquerque |
-| 82 | 826 | Sharidan Klinginsmith |
+| 81 | 826 | Sharidan Klinginsmith |
+| 82 | 826 | Lupe Alburquerque |
 | 83 | 805 | JoLinda Dunn |
 | 84 | 803 | Tina Shalay Hayes |
 | 85 | 800 | Melissa Brown |
@@ -124,20 +124,20 @@
 | 116 | 550 | Nicole Peoples |
 | 117 | 536 | Cranky Towerbuilder |
 | 118 | 535 | Damon Gaston |
-| 119 | 530 | Kim |
-| 120 | 530 | CJ |
-| 121 | 530 | Jewelz |
+| 119 | 530 | CJ |
+| 120 | 530 | Jewelz |
+| 121 | 530 | Kim |
 | 122 | 528 | Katie Lynn Petit |
 | 123 | 525 | Ermadette |
 | 124 | 521 | Misty Leigh |
 | 125 | 519 | Lisa Garcia |
 | 126 | 517 | Nikki Fuller Johnson |
 | 127 | 512 | Esther Hadassah |
-| 128 | 496 | Jackie Jackson |
-| 129 | 480 | Hardy Fuller |
-| 130 | 477 | Malik Thompson |
-| 131 | 474 | Melissa WC |
-| 132 | 472 | Cherry |
+| 128 | 500 | Cherry |
+| 129 | 496 | Jackie Jackson |
+| 130 | 480 | Hardy Fuller |
+| 131 | 477 | Malik Thompson |
+| 132 | 474 | Melissa WC |
 | 133 | 469 | Gigglycat |
 | 134 | 461 | Kayla Fuentes |
 | 135 | 452 | Sarah Berry Stevens |
@@ -151,8 +151,8 @@
 | 143 | 422 | squareMel |
 | 144 | 421 | Michelle Ross |
 | 145 | 420 | DexterDobbins |
-| 146 | 418 | Futrell Brent |
-| 147 | 418 | Aisha Estrada |
+| 146 | 418 | Aisha Estrada |
+| 147 | 418 | Futrell Brent |
 | 148 | 415 | Chuck Gannon |
 | 149 | 409 | Hen |
 | 150 | 408 | Andrew Dang |
