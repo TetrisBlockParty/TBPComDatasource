@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 10:50:19 UTC
+# Standings for team1 as of 2026-06-07 10:50:40 UTC
 
 **Total Participants:** 1443
 
@@ -75,8 +75,8 @@
 | 67 | 863 | Court Court |
 | 68 | 854 | Eric Mcgaughy |
 | 69 | 836 | Tiana Moore |
-| 70 | 822 | Lisa Müller |
-| 71 | 821 | Weeze |
+| 70 | 827 | Weeze |
+| 71 | 822 | Lisa Müller |
 | 72 | 803 | Kimberly Hernandez |
 | 73 | 788 | Jazzy Dashpiece |
 | 74 | 784 | Todd C. Clemens |

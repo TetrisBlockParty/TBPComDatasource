@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 10:50:19 UTC
+# Standings for team4 as of 2026-06-07 10:50:40 UTC
 
 **Total Participants:** 1445
 
@@ -23,7 +23,7 @@
 | 15 | 4246 | t |
 | 16 | 4139 | Bryony Nicholson |
 | 17 | 3917 | TitiLo72 |
-| 18 | 3893 | Bubbly Twistpiece |
+| 18 | 3898 | Bubbly Twistpiece |
 | 19 | 3784 | Tyra Brooke Everman Forest |
 | 20 | 3776 | Dana Smith |
 | 21 | 3667 | Daring Ziggy |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 10:50:19 UTC
+# Standings for team2 as of 2026-06-07 10:50:40 UTC
 
 **Total Participants:** 1701
 
@@ -15,8 +15,8 @@
 | 7 | 7687 | Lacey Nolting |
 | 8 | 7500 | Mocha |
 | 9 | 6274 | Christina Shell |
-| 10 | 6114 | Morgann McDaniel |
-| 11 | 6114 | Tim Ix |
+| 10 | 6114 | Tim Ix |
+| 11 | 6114 | Morgann McDaniel |
 | 12 | 5704 | Cori Keberlein |
 | 13 | 4945 | Dapper Rollout |
 | 14 | 4800 | Crafty Ziggy |
@@ -70,10 +70,10 @@
 | 62 | 1148 | Nerdy Climber |
 | 63 | 1114 | Giddy Slamdrop |
 | 64 | 1070 | Michelle Maulsby |
-| 65 | 1053 | Kvothe |
-| 66 | 1032 | AcardBoardBox |
-| 67 | 1031 | DarkHorse |
-| 68 | 1031 | Nawang Nawang |
+| 65 | 1061 | Nawang Nawang |
+| 66 | 1053 | Kvothe |
+| 67 | 1032 | AcardBoardBox |
+| 68 | 1031 | DarkHorse |
 | 69 | 1020 | Ruby Sandberg |
 | 70 | 986 | Criccett Hooper-Smith |
 | 71 | 984 | Dane Marko |
@@ -100,16 +100,16 @@
 | 92 | 765 | Brandi Thompson |
 | 93 | 757 | Jazzy Faller |
 | 94 | 750 | Denise Potter |
-| 95 | 721 | Smiley Dropper |
-| 96 | 721 | Hoppy Rotate |
+| 95 | 721 | Hoppy Rotate |
+| 96 | 721 | Smiley Dropper |
 | 97 | 689 | haune |
 | 98 | 685 | Sigmamom |
 | 99 | 666 | Epic Frame |
 | 100 | 656 | Loopy Cascadepiece |
 | 101 | 654 | Bon Lynn |
 | 102 | 639 | Alison Waller |
-| 103 | 632 | Wmk Rathbun |
-| 104 | 632 | Allie Bug |
+| 103 | 632 | Allie Bug |
+| 104 | 632 | Wmk Rathbun |
 | 105 | 629 | Mirr Lulu |
 | 106 | 627 | Le Sandy |
 | 107 | 620 | Amber-leigh Williams |
@@ -133,8 +133,8 @@
 | 125 | 516 | Amber Miller Wirick |
 | 126 | 515 | Loony Faller |
 | 127 | 512 | Jackie Tupper |
-| 128 | 500 | Courtney McCulley |
-| 129 | 500 | Suki Kaur |
+| 128 | 500 | Suki Kaur |
+| 129 | 500 | Courtney McCulley |
 | 130 | 493 | Jgato |
 | 131 | 483 | Karen Reid Cenkush |
 | 132 | 477 | Amy Gale |
@@ -146,8 +146,8 @@
 | 138 | 453 | Kimberly Cowan |
 | 139 | 448 | MarioKarasovic |
 | 140 | 448 | Pooh |
-| 141 | 438 | Zappy Pattern |
-| 142 | 438 | Michelle Rich Burkhart |
+| 141 | 438 | Michelle Rich Burkhart |
+| 142 | 438 | Zappy Pattern |
 | 143 | 436 | Gill |
 | 144 | 428 | Steven Craig |
 | 145 | 420 | Zarah Kettler |
