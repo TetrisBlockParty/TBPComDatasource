@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 14:38:18 UTC
+# Standings for team4 as of 2026-06-07 14:38:42 UTC
 
 **Total Participants:** 1493
 
@@ -286,37 +286,37 @@
 | 278 | 177 | June Hoffman |
 | 279 | 176 | Nicole Dombrow |
 | 280 | 175 | Bonnie Powell |
-| 281 | 174 | Clashy |
-| 282 | 174 | kellie |
+| 281 | 174 | kellie |
+| 282 | 174 | Clashy |
 | 283 | 172 | Danny Frausto |
 | 284 | 172 | Matthew Wilcox |
-| 285 | 171 | Smiley Gridzone |
-| 286 | 171 | Dayna Arthurs |
+| 285 | 171 | Dayna Arthurs |
+| 286 | 171 | Smiley Gridzone |
 | 287 | 171 | Bridget Stevens |
 | 288 | 170 | Flashy Shatterer |
 | 289 | 169 | Tiffany Smith |
 | 290 | 169 | Andrick |
 | 291 | 169 | Miwa |
 | 292 | 169 | Jennifer Fisher Franklin |
-| 293 | 167 | Jackie Polanco |
-| 294 | 167 | Brainbabe |
-| 295 | 167 | Anthony Lewis |
-| 296 | 167 | Littlebrat |
-| 297 | 166 | Susan Stofberg Beltran |
-| 298 | 166 | Cindy |
-| 299 | 165 | Blockcrusher |
-| 300 | 165 | Ryan Paul Clark-Ramsey |
-| 301 | 165 | Erika Seaton |
-| 302 | 162 | Chonda OhanaMomma Michelle |
-| 303 | 161 | Snazzy Corner |
-| 304 | 161 | Bouncy |
-| 305 | 160 | Mrs |
-| 306 | 160 | Shiny Brick |
-| 307 | 160 | Frothy Pattern |
-| 308 | 159 | JoAnn Summerlot Ratliff |
-| 309 | 158 | Dena Lynn Rogers |
-| 310 | 158 | Corie A. Brinson |
-| 311 | 158 | Joseph Hunter |
+| 293 | 168 | Joseph Hunter |
+| 294 | 167 | Jackie Polanco |
+| 295 | 167 | Brainbabe |
+| 296 | 167 | Anthony Lewis |
+| 297 | 167 | Littlebrat |
+| 298 | 166 | Susan Stofberg Beltran |
+| 299 | 166 | Cindy |
+| 300 | 165 | Blockcrusher |
+| 301 | 165 | Ryan Paul Clark-Ramsey |
+| 302 | 165 | Erika Seaton |
+| 303 | 162 | Chonda OhanaMomma Michelle |
+| 304 | 161 | Snazzy Corner |
+| 305 | 161 | Bouncy |
+| 306 | 160 | Mrs |
+| 307 | 160 | Shiny Brick |
+| 308 | 160 | Frothy Pattern |
+| 309 | 159 | JoAnn Summerlot Ratliff |
+| 310 | 158 | Dena Lynn Rogers |
+| 311 | 158 | Corie A. Brinson |
 | 312 | 157 | Laguya |
 | 313 | 157 | Deborah Silberg |
 | 314 | 156 | Cheeky Fallzone |
@@ -326,8 +326,8 @@
 | 318 | 153 | Shawntae Mccary |
 | 319 | 152 | Funky Tiler |
 | 320 | 152 | Nerdy Faller |
-| 321 | 152 | Jumpy Builderpiece |
-| 322 | 152 | Samara Garcia |
+| 321 | 152 | Samara Garcia |
+| 322 | 152 | Jumpy Builderpiece |
 | 323 | 151 | Troy Zanelli |
 | 324 | 151 | Stephanie Brock |
 | 325 | 151 | Bean |
@@ -342,8 +342,8 @@
 | 334 | 147 | Allysha McFarland |
 | 335 | 146 | Zesty Twistpiece |
 | 336 | 146 | Maegon Brazille |
-| 337 | 146 | Jasmine Marie |
-| 338 | 146 | SupaFly |
+| 337 | 146 | SupaFly |
+| 338 | 146 | Jasmine Marie |
 | 339 | 144 | Dapper Strikerpiece |
 | 340 | 144 | Dizzy Slammer |
 | 341 | 143 | Brennan Shea Greene |
@@ -358,10 +358,10 @@
 | 350 | 140 | Billy Baker |
 | 351 | 140 | Wanda Simmons |
 | 352 | 139 | Name |
-| 353 | 138 | Tina Thomas |
-| 354 | 138 | Rose Anna Safi |
-| 355 | 137 | Happy Shatterfit |
-| 356 | 137 | Maricela Joslin |
+| 353 | 138 | Rose Anna Safi |
+| 354 | 138 | Tina Thomas |
+| 355 | 137 | Maricela Joslin |
+| 356 | 137 | Happy Shatterfit |
 | 357 | 137 | Robert Moore |
 | 358 | 137 | Jrr |
 | 359 | 136 | Lively Cascadebuilder |

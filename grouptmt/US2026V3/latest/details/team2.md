@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 14:38:18 UTC
+# Standings for team2 as of 2026-06-07 14:38:42 UTC
 
 **Total Participants:** 1772
 
@@ -724,45 +724,45 @@
 | 716 | 77 | Fallon Moss |
 | 717 | 77 | Chilly Surge |
 | 718 | 77 | Michael Delozier |
-| 719 | 76 | Roger Kirksey |
-| 720 | 76 | Sara Dunn |
-| 721 | 76 | ReiRei |
-| 722 | 76 | Tiffany Fitch |
-| 723 | 76 | Joe Dirilo |
-| 724 | 76 | Jim Wright |
-| 725 | 76 | Lively Twisterfit |
-| 726 | 75 | Sam Schwieso |
-| 727 | 75 | joey |
-| 728 | 75 | Allison Peterson |
-| 729 | 75 | Clever Fallmatch |
-| 730 | 75 | Jessica Bowman |
-| 731 | 75 | Dandy Tiltgrid |
-| 732 | 75 | Groovy Glider |
-| 733 | 75 | Bennie Farbo |
-| 734 | 74 | Shaylee Haltiner |
-| 735 | 74 | Christina Kearns |
-| 736 | 74 | Natasha Lee |
-| 737 | 74 | Valeri Bradley |
-| 738 | 74 | Bethany Nestor |
-| 739 | 74 | Nicole Treadway |
-| 740 | 74 | Cool Patternbuilder |
-| 741 | 74 | Joshua Hopkins |
-| 742 | 73 | Sunny Spinzone |
-| 743 | 73 | Mellzey |
-| 744 | 73 | Perky Linebuilder |
-| 745 | 73 | BugMansMom |
-| 746 | 73 | Samantha Brown |
-| 747 | 73 | Jana Campbell |
-| 748 | 73 | blockrocker |
-| 749 | 73 | Chirpy Combofall |
-| 750 | 72 | Amber Simonton |
-| 751 | 72 | Stacy Lynn |
-| 752 | 72 | Lu Wallace |
-| 753 | 72 | Audrey Bickford |
-| 754 | 72 | Dana Wilson |
-| 755 | 72 | Kendi |
-| 756 | 72 | Saucy Lifter |
-| 757 | 72 | Paula |
+| 719 | 77 | Paula |
+| 720 | 76 | Roger Kirksey |
+| 721 | 76 | Sara Dunn |
+| 722 | 76 | ReiRei |
+| 723 | 76 | Tiffany Fitch |
+| 724 | 76 | Joe Dirilo |
+| 725 | 76 | Jim Wright |
+| 726 | 76 | Lively Twisterfit |
+| 727 | 75 | Sam Schwieso |
+| 728 | 75 | joey |
+| 729 | 75 | Allison Peterson |
+| 730 | 75 | Clever Fallmatch |
+| 731 | 75 | Jessica Bowman |
+| 732 | 75 | Dandy Tiltgrid |
+| 733 | 75 | Groovy Glider |
+| 734 | 75 | Bennie Farbo |
+| 735 | 74 | Shaylee Haltiner |
+| 736 | 74 | Christina Kearns |
+| 737 | 74 | Natasha Lee |
+| 738 | 74 | Valeri Bradley |
+| 739 | 74 | Bethany Nestor |
+| 740 | 74 | Nicole Treadway |
+| 741 | 74 | Cool Patternbuilder |
+| 742 | 74 | Joshua Hopkins |
+| 743 | 73 | Sunny Spinzone |
+| 744 | 73 | Mellzey |
+| 745 | 73 | Perky Linebuilder |
+| 746 | 73 | BugMansMom |
+| 747 | 73 | Samantha Brown |
+| 748 | 73 | Jana Campbell |
+| 749 | 73 | blockrocker |
+| 750 | 73 | Chirpy Combofall |
+| 751 | 72 | Amber Simonton |
+| 752 | 72 | Stacy Lynn |
+| 753 | 72 | Lu Wallace |
+| 754 | 72 | Audrey Bickford |
+| 755 | 72 | Dana Wilson |
+| 756 | 72 | Kendi |
+| 757 | 72 | Saucy Lifter |
 | 758 | 71 | Jolly Twisterfit |
 | 759 | 71 | Kiersty Redder |
 | 760 | 71 | Sandy Lynn |
