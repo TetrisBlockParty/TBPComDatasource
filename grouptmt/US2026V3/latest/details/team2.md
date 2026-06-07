@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 06:54:40 UTC
+# Standings for team2 as of 2026-06-07 06:55:18 UTC
 
 **Total Participants:** 1661
 
@@ -85,15 +85,15 @@
 | 77 | 829 | Gabriella Humphreys |
 | 78 | 819 | Beverly Lynn Mills |
 | 79 | 802 | Charley Bedford |
-| 80 | 799 | Poppy |
-| 81 | 799 | Elizabeth Sallas |
-| 82 | 792 | Marquetta Johnson |
-| 83 | 788 | Nawang Nawang |
-| 84 | 779 | Marie Luciano |
-| 85 | 774 | Deborah Boyce Minor |
-| 86 | 771 | Charlie Wilson |
-| 87 | 766 | Sarah Griffey |
-| 88 | 760 | Renee Freeman Jacobson |
+| 80 | 800 | Renee Freeman Jacobson |
+| 81 | 799 | Poppy |
+| 82 | 799 | Elizabeth Sallas |
+| 83 | 792 | Marquetta Johnson |
+| 84 | 788 | Nawang Nawang |
+| 85 | 779 | Marie Luciano |
+| 86 | 774 | Deborah Boyce Minor |
+| 87 | 771 | Charlie Wilson |
+| 88 | 766 | Sarah Griffey |
 | 89 | 757 | Jazzy Faller |
 | 90 | 749 | Brandi Thompson |
 | 91 | 729 | Lily |
@@ -143,8 +143,8 @@
 | 135 | 436 | Gill |
 | 136 | 433 | Kimberly Cowan |
 | 137 | 428 | Steven Craig |
-| 138 | 419 | Cool Climber |
-| 139 | 418 | Gloria May Shook |
+| 138 | 425 | Gloria May Shook |
+| 139 | 419 | Cool Climber |
 | 140 | 417 | Jenny Graham |
 | 141 | 416 | Suki Jacobs |
 | 142 | 411 | MarioKarasovic |
@@ -270,9 +270,9 @@
 | 262 | 206 | Jodi Johnson |
 | 263 | 206 | Liseth Vasquez |
 | 264 | 205 | Karly Moore |
-| 265 | 205 | Melisa |
-| 266 | 204 | Loopy Curvebuilder |
-| 267 | 203 | Norma Ortiz |
+| 265 | 205 | Norma Ortiz |
+| 266 | 205 | Melisa |
+| 267 | 204 | Loopy Curvebuilder |
 | 268 | 201 | Melissa Nash |
 | 269 | 201 | Danielle Pack Lewellen |
 | 270 | 201 | Jeffrey Smith |
