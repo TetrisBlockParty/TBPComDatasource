@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 00:06:17 UTC
+# Standings for team1 as of 2026-06-07 00:06:41 UTC
 
 **Total Participants:** 1229
 
@@ -23,7 +23,7 @@
 | 15 | 3142 | Debbie Carswell |
 | 16 | 3039 | Chummy Combo |
 | 17 | 3003 | Cassidy Butler |
-| 18 | 2613 | Sha Harris |
+| 18 | 2663 | Sha Harris |
 | 19 | 2596 | Pdubbl3 |
 | 20 | 2536 | jaimie |
 | 21 | 2415 | Yolanda McDonald |
@@ -38,8 +38,8 @@
 | 30 | 1429 | Jolly Dropzone |
 | 31 | 1420 | Janet Cooke |
 | 32 | 1414 | COSA303 |
-| 33 | 1350 | Cool Bridger |
-| 34 | 1320 | Jocelyn Pope-Sewell |
+| 33 | 1370 | Jocelyn Pope-Sewell |
+| 34 | 1350 | Cool Bridger |
 | 35 | 1246 | Chris Russell |
 | 36 | 1242 | Jacoby E Fleming |
 | 37 | 1195 | Tekedra Wilson |
@@ -78,15 +78,15 @@
 | 70 | 648 | Eartha Brown |
 | 71 | 605 | JoJo |
 | 72 | 598 | Ivana Schmidt |
-| 73 | 586 | Kellie Hall |
-| 74 | 552 | Carolynne Walker-Bell |
-| 75 | 552 | JaszyBadd |
-| 76 | 548 | Ottison Dianna |
-| 77 | 541 | Andi McGreevy |
-| 78 | 540 | IamJust Neyamijah Washington Sr. |
-| 79 | 535 | Eric Mcgaughy |
-| 80 | 527 | MommaCia |
-| 81 | 527 | KenpachisGirl |
+| 73 | 587 | KenpachisGirl |
+| 74 | 586 | Kellie Hall |
+| 75 | 552 | Carolynne Walker-Bell |
+| 76 | 552 | JaszyBadd |
+| 77 | 548 | Ottison Dianna |
+| 78 | 541 | Andi McGreevy |
+| 79 | 540 | IamJust Neyamijah Washington Sr. |
+| 80 | 535 | Eric Mcgaughy |
+| 81 | 527 | MommaCia |
 | 82 | 525 | PandaPrincess |
 | 83 | 511 | Dizzy Dropper |
 | 84 | 511 | Abraham Espaillat |

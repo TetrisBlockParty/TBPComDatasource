@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 00:06:17 UTC
+# Standings for team2 as of 2026-06-07 00:06:41 UTC
 
 **Total Participants:** 1464
 
@@ -914,150 +914,150 @@
 | 906 | 35 | Signerlisa |
 | 907 | 35 | blockrocker |
 | 908 | 35 | Thomas Johnstone |
-| 909 | 35 | Isiwin |
-| 910 | 35 | Snazzy Clusterfit |
-| 911 | 35 | Spicy Snapclear |
-| 912 | 35 | Naomi Jaynes |
-| 913 | 35 | Raffa |
-| 914 | 34 | Aldotfus Williams |
-| 915 | 34 | Witty Clearbuilder |
+| 909 | 35 | Snazzy Clusterfit |
+| 910 | 35 | Isiwin |
+| 911 | 35 | Raffa |
+| 912 | 35 | Spicy Snapclear |
+| 913 | 35 | Naomi Jaynes |
+| 914 | 34 | Witty Clearbuilder |
+| 915 | 34 | Aldotfus Williams |
 | 916 | 34 | Marlo Perry |
-| 917 | 34 | Angela VanOstrand |
-| 918 | 34 | Auntie YaYa |
-| 919 | 34 | Mouh Med |
+| 917 | 34 | Auntie YaYa |
+| 918 | 34 | Mouh Med |
+| 919 | 34 | Angela VanOstrand |
 | 920 | 34 | Twisty Snapmatch |
-| 921 | 34 | mee |
-| 922 | 34 | Dena Cudjo |
-| 923 | 34 | Sleepypanda67 |
+| 921 | 34 | Sleepypanda67 |
+| 922 | 34 | mee |
+| 923 | 34 | Dena Cudjo |
 | 924 | 33 | Kaitlyn Hurst |
 | 925 | 33 | Tito Garcia |
-| 926 | 33 | Topknot13 |
-| 927 | 33 | Brooke Marie Fox |
-| 928 | 33 | Sandy Rundel Holderman |
-| 929 | 33 | Ryan Sanders |
-| 930 | 33 | Nicki McGill |
-| 931 | 33 | Corina Marie Prunty |
-| 932 | 33 | Giggly Buildgrid |
+| 926 | 33 | Sandy Rundel Holderman |
+| 927 | 33 | Topknot13 |
+| 928 | 33 | Ryan Sanders |
+| 929 | 33 | Nicki McGill |
+| 930 | 33 | Giggly Buildgrid |
+| 931 | 33 | Brooke Marie Fox |
+| 932 | 33 | Corina Marie Prunty |
 | 933 | 33 | Mandeee |
-| 934 | 33 | Nicole Hjelmen |
-| 935 | 33 | Octavia Jus Mae Hill |
-| 936 | 33 | April Elaine Messenger |
+| 934 | 33 | Octavia Jus Mae Hill |
+| 935 | 33 | April Elaine Messenger |
+| 936 | 33 | Rachel Huber |
 | 937 | 33 | Maja Hauff |
-| 938 | 33 | Rachel Huber |
-| 939 | 33 | Cool cee |
-| 940 | 33 | Debbie Embry |
+| 938 | 33 | Nicole Hjelmen |
+| 939 | 33 | Debbie Embry |
+| 940 | 33 | Cool cee |
 | 941 | 32 | Stephanie |
 | 942 | 32 | Amanda Bryte |
 | 943 | 32 | Chelsea Harriss |
-| 944 | 32 | Kristen Alta |
-| 945 | 32 | Brandy McCleary |
-| 946 | 32 | Brandy Wallace |
-| 947 | 32 | Courtney Elizabeth Hartnagel |
+| 944 | 32 | Viani09 |
+| 945 | 32 | Kristen Alta |
+| 946 | 32 | Brandy McCleary |
+| 947 | 32 | Brandy Wallace |
 | 948 | 32 | Foc |
-| 949 | 31 | Goofy Bridger |
-| 950 | 31 | Anthony Chavez |
+| 949 | 32 | Courtney Elizabeth Hartnagel |
+| 950 | 31 | Trinni Hansen |
 | 951 | 31 | Dan Ramsey |
-| 952 | 31 | Laura Zavala |
-| 953 | 31 | Trinni Hansen |
+| 952 | 31 | Anthony Chavez |
+| 953 | 31 | Laura Zavala |
 | 954 | 31 | Monique Williams |
 | 955 | 31 | Rey Huber |
 | 956 | 31 | Ronald Granger |
-| 957 | 30 | D.j. Wingate |
+| 957 | 31 | Goofy Bridger |
 | 958 | 30 | Crystal Poss |
-| 959 | 30 | Duck |
-| 960 | 30 | Marla Paden |
-| 961 | 30 | Heather Hill Davidson |
-| 962 | 30 | Devon |
-| 963 | 30 | Alicia Ellenburg |
-| 964 | 30 | SarahandAaron Prim |
-| 965 | 30 | Abby Dexter |
-| 966 | 30 | gene15 |
-| 967 | 30 | Amy ATen |
-| 968 | 30 | Frothy Roll |
-| 969 | 30 | Tina Kinney |
-| 970 | 30 | Brave Blockmatch |
-| 971 | 30 | Lakeisha Ryder |
-| 972 | 30 | Tessa Kalili |
-| 973 | 30 | Loriane Shumate Griggs |
-| 974 | 30 | JEEPER |
-| 975 | 30 | Heather Schardan |
-| 976 | 30 | Christi Hooper |
-| 977 | 30 | Lively Liner |
-| 978 | 30 | Dee |
-| 979 | 30 | Snappy Fitblock |
-| 980 | 30 | Rubics cube |
-| 981 | 30 | Brett Mullins |
-| 982 | 30 | Gammawms |
-| 983 | 30 | Viani09 |
-| 984 | 30 | ASL |
-| 985 | 30 | Barbara Fields |
-| 986 | 29 | Danita Moon |
-| 987 | 29 | Samantha LeBlanc |
-| 988 | 29 | Alessandria Anderson |
-| 989 | 29 | Seamus |
-| 990 | 29 | Darla Ragsdale |
+| 959 | 30 | SarahandAaron Prim |
+| 960 | 30 | D.j. Wingate |
+| 961 | 30 | Marla Paden |
+| 962 | 30 | Duck |
+| 963 | 30 | Devon |
+| 964 | 30 | Heather Hill Davidson |
+| 965 | 30 | Alicia Ellenburg |
+| 966 | 30 | Abby Dexter |
+| 967 | 30 | gene15 |
+| 968 | 30 | Amy ATen |
+| 969 | 30 | Frothy Roll |
+| 970 | 30 | Tina Kinney |
+| 971 | 30 | Brave Blockmatch |
+| 972 | 30 | Lakeisha Ryder |
+| 973 | 30 | Barbara Fields |
+| 974 | 30 | Heather Schardan |
+| 975 | 30 | JEEPER |
+| 976 | 30 | Loriane Shumate Griggs |
+| 977 | 30 | Christi Hooper |
+| 978 | 30 | Lively Liner |
+| 979 | 30 | Dee |
+| 980 | 30 | Snappy Fitblock |
+| 981 | 30 | Tessa Kalili |
+| 982 | 30 | Rubics cube |
+| 983 | 30 | Brett Mullins |
+| 984 | 30 | Gammawms |
+| 985 | 30 | ASL |
+| 986 | 29 | Samantha LeBlanc |
+| 987 | 29 | Seamus |
+| 988 | 29 | Danita Moon |
+| 989 | 29 | Darla Ragsdale |
+| 990 | 29 | Daring Pivotfall |
 | 991 | 29 | Chris Delauro |
-| 992 | 29 | Daring Pivotfall |
-| 993 | 29 | Amanda Jungclaus |
-| 994 | 29 | Michii |
+| 992 | 29 | Amanda Jungclaus |
+| 993 | 29 | Michii |
+| 994 | 29 | Michele Stewart |
 | 995 | 29 | Brandon Ray Holt |
-| 996 | 29 | Michele Stewart |
-| 997 | 29 | Makayla Grubbs |
+| 996 | 29 | Brandy Westfall-panchari |
+| 997 | 29 | Alessandria Anderson |
 | 998 | 29 | Marcia Davis |
-| 999 | 29 | Brandy Westfall-panchari |
-| 1000 | 29 | Amy Chauvin |
-| 1001 | 28 | Mark Havens |
-| 1002 | 28 | Snippy Brickzone |
-| 1003 | 28 | T-Rex Ricky Lee Dieumegarde Jr. |
-| 1004 | 28 | Glitzy Stack |
-| 1005 | 28 | Pjrobinsonnn |
-| 1006 | 28 | Jennifer Leigh |
-| 1007 | 28 | Stacey Peters |
-| 1008 | 28 | Lori Yelvington Cain |
-| 1009 | 28 | Frisky Twist |
-| 1010 | 28 | Courtney Freeman |
-| 1011 | 28 | Dolly |
-| 1012 | 28 | Dana Vaiden Rivers |
-| 1013 | 28 | Busted9mm |
-| 1014 | 28 | Chirpy Tower |
-| 1015 | 28 | Bennie Farbo |
-| 1016 | 27 | CowboyChalie |
-| 1017 | 27 | Tanya Goodwin |
-| 1018 | 27 | Stacey Ann Kelley |
-| 1019 | 27 | Firebone |
-| 1020 | 27 | Staci Carl |
-| 1021 | 27 | Audrey Wood |
-| 1022 | 27 | Kim |
-| 1023 | 27 | juhde |
-| 1024 | 27 | Dreamy Linkblock |
-| 1025 | 27 | Brian Karr |
-| 1026 | 27 | BrendaLee NolanBos |
-| 1027 | 27 | Alexis Abner |
-| 1028 | 27 | sampson |
-| 1029 | 27 | Angie Barlow |
-| 1030 | 27 | ktabzz |
-| 1031 | 27 | True |
-| 1032 | 27 | Natasha Schatte |
-| 1033 | 26 | Cathy Clark |
+| 999 | 29 | Amy Chauvin |
+| 1000 | 29 | Makayla Grubbs |
+| 1001 | 28 | Glitzy Stack |
+| 1002 | 28 | Bennie Farbo |
+| 1003 | 28 | Frisky Twist |
+| 1004 | 28 | Mark Havens |
+| 1005 | 28 | Stacey Peters |
+| 1006 | 28 | Lori Yelvington Cain |
+| 1007 | 28 | Snippy Brickzone |
+| 1008 | 28 | Jennifer Leigh |
+| 1009 | 28 | T-Rex Ricky Lee Dieumegarde Jr. |
+| 1010 | 28 | Pjrobinsonnn |
+| 1011 | 28 | Courtney Freeman |
+| 1012 | 28 | Chirpy Tower |
+| 1013 | 28 | Dana Vaiden Rivers |
+| 1014 | 28 | Busted9mm |
+| 1015 | 28 | Dolly |
+| 1016 | 27 | Staci Carl |
+| 1017 | 27 | Natasha Schatte |
+| 1018 | 27 | Firebone |
+| 1019 | 27 | Audrey Wood |
+| 1020 | 27 | Stacey Ann Kelley |
+| 1021 | 27 | ktabzz |
+| 1022 | 27 | CowboyChalie |
+| 1023 | 27 | Tanya Goodwin |
+| 1024 | 27 | Angie Barlow |
+| 1025 | 27 | Alexis Abner |
+| 1026 | 27 | juhde |
+| 1027 | 27 | sampson |
+| 1028 | 27 | True |
+| 1029 | 27 | Dreamy Linkblock |
+| 1030 | 27 | Kim |
+| 1031 | 27 | Brian Karr |
+| 1032 | 27 | BrendaLee NolanBos |
+| 1033 | 26 | Carol Whited Loza |
 | 1034 | 26 | Daniel Cline |
-| 1035 | 26 | Darlene Russell |
-| 1036 | 26 | Goob277 |
-| 1037 | 26 | Brandi Vandevanter-Duke |
-| 1038 | 26 | Carol Whited Loza |
-| 1039 | 26 | Quirky Climber |
-| 1040 | 26 | giggly gal |
-| 1041 | 26 | Yany |
+| 1035 | 26 | Goob277 |
+| 1036 | 26 | Brandi Vandevanter-Duke |
+| 1037 | 26 | Grimwitch |
+| 1038 | 26 | Danibellee |
+| 1039 | 26 | Tina Carr |
+| 1040 | 26 | nova |
+| 1041 | 26 | Countrybling77 |
 | 1042 | 26 | Jackelyn Ford |
-| 1043 | 26 | nova |
-| 1044 | 26 | Countrybling77 |
-| 1045 | 26 | Tina Carr |
-| 1046 | 26 | Danibellee |
-| 1047 | 26 | Grimwitch |
-| 1048 | 25 | Debra May |
+| 1043 | 26 | Yany |
+| 1044 | 26 | giggly gal |
+| 1045 | 26 | Quirky Climber |
+| 1046 | 26 | Cathy Clark |
+| 1047 | 26 | Darlene Russell |
+| 1048 | 25 | Quirky Piecegrid |
 | 1049 | 25 | John Rosales |
-| 1050 | 25 | Quirky Piecegrid |
-| 1051 | 25 | Paula Stell |
-| 1052 | 25 | Stephen Gillam |
+| 1050 | 25 | Paula Stell |
+| 1051 | 25 | Stephen Gillam |
+| 1052 | 25 | Debra May |
 | 1053 | 25 | Wildcat1220 |
 | 1054 | 25 | Nicole Plummer |
 | 1055 | 25 | Michelle Edgin Tranbarger |
@@ -1435,15 +1435,15 @@
 | 1427 | 7 | Holly Riley |
 | 1428 | 7 | StacyK |
 | 1429 | 7 | Steven Desmon Thompson |
-| 1430 | 6 | Giggy Dropzone |
-| 1431 | 6 | Bunny Bt |
-| 1432 | 6 | Michael Lott |
-| 1433 | 6 | Monica Gonzalez Rios |
-| 1434 | 6 | Jager |
-| 1435 | 6 | Cheeky Dashpiece |
-| 1436 | 6 | Brandi Lynn Tumey |
-| 1437 | 6 | Jaelyn Orr |
-| 1438 | 6 | Melissa Metcalf |
+| 1430 | 7 | Melissa Metcalf |
+| 1431 | 6 | Giggy Dropzone |
+| 1432 | 6 | Bunny Bt |
+| 1433 | 6 | Michael Lott |
+| 1434 | 6 | Monica Gonzalez Rios |
+| 1435 | 6 | Jager |
+| 1436 | 6 | Cheeky Dashpiece |
+| 1437 | 6 | Brandi Lynn Tumey |
+| 1438 | 6 | Jaelyn Orr |
 | 1439 | 6 | Michelle Brown |
 | 1440 | 6 | Amanda Knox |
 | 1441 | 6 | Bowling girl |
