@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 22:43:20 UTC
+# Standings for team1 as of 2026-06-07 22:44:19 UTC
 
 **Total Participants:** 1601
 
@@ -389,21 +389,21 @@
 | 381 | 157 | Courtney Cicoria |
 | 382 | 157 | Hasty Glidezone |
 | 383 | 156 | Tee Spinks |
-| 384 | 156 | Lakiesha Crawford |
+| 384 | 156 | Alyssa Rae |
 | 385 | 156 | Shalya Terry |
-| 386 | 156 | Alyssa Rae |
-| 387 | 155 | OhNoZer0 |
-| 388 | 155 | Anthony |
+| 386 | 156 | Lakiesha Crawford |
+| 387 | 155 | Anthony |
+| 388 | 155 | OhNoZer0 |
 | 389 | 155 | Jae Thompson-Tyus |
 | 390 | 154 | Matthieu Pistone |
 | 391 | 154 | Cece Fowler |
 | 392 | 154 | Shanaa Germany Crittenden |
 | 393 | 153 | CJ Robinson |
-| 394 | 152 | Phillip Vasquez |
+| 394 | 152 | Wacky Stackbuilder |
 | 395 | 152 | Frankey Chi |
-| 396 | 152 | Wacky Stackbuilder |
-| 397 | 151 | Dede Tate |
-| 398 | 151 | Breezy Catcher |
+| 396 | 152 | Phillip Vasquez |
+| 397 | 151 | Breezy Catcher |
+| 398 | 151 | Dede Tate |
 | 399 | 151 | Miera Nicole |
 | 400 | 151 | Brittany Fells |
 | 401 | 150 | Jhaime |
@@ -412,74 +412,74 @@
 | 404 | 149 | Chasem45 |
 | 405 | 148 | akosua |
 | 406 | 147 | Joka NoTime ForHataz |
-| 407 | 147 | Lisa Fletcher |
-| 408 | 147 | Perky Balancer |
-| 409 | 146 | whatever |
-| 410 | 146 | KeeKee Williams |
-| 411 | 145 | Squaw Ki Ng |
-| 412 | 145 | Dandy Brickfit |
-| 413 | 144 | Brittanie Wardlow |
-| 414 | 143 | Faith Armone |
-| 415 | 142 | Kelley Johnson |
-| 416 | 142 | BabyCakes |
-| 417 | 142 | Sarah Steckbauer |
-| 418 | 141 | Kate Hancock Malicek |
-| 419 | 141 | Yashica Smith |
-| 420 | 141 | Shalena Marie Humphrey |
-| 421 | 141 | Ta'Kaiyah M. Spann |
-| 422 | 140 | Antoinette Jones |
+| 407 | 147 | Comedian Prince Paul |
+| 408 | 147 | Lisa Fletcher |
+| 409 | 147 | Perky Balancer |
+| 410 | 146 | whatever |
+| 411 | 146 | KeeKee Williams |
+| 412 | 145 | Squaw Ki Ng |
+| 413 | 145 | Dandy Brickfit |
+| 414 | 144 | Brittanie Wardlow |
+| 415 | 143 | Faith Armone |
+| 416 | 142 | Sarah Steckbauer |
+| 417 | 142 | BabyCakes |
+| 418 | 142 | Kelley Johnson |
+| 419 | 141 | Kate Hancock Malicek |
+| 420 | 141 | Yashica Smith |
+| 421 | 141 | Shalena Marie Humphrey |
+| 422 | 141 | Ta'Kaiyah M. Spann |
 | 423 | 140 | Genne Scott |
-| 424 | 140 | rls |
-| 425 | 139 | Shanns |
-| 426 | 139 | Shea Ladynick Henderson |
-| 427 | 139 | Analiza Ramos |
-| 428 | 138 | Tamika Rocheteau |
-| 429 | 138 | Claudia Price |
-| 430 | 138 | Dreamzzz |
-| 431 | 138 | Seddrick |
-| 432 | 138 | Douglas Price |
-| 433 | 138 | Yadira Salgado |
-| 434 | 137 | NewEve |
-| 435 | 137 | Kelvin Cook |
+| 424 | 140 | Antoinette Jones |
+| 425 | 140 | rls |
+| 426 | 139 | Analiza Ramos |
+| 427 | 139 | Shanns |
+| 428 | 139 | Shea Ladynick Henderson |
+| 429 | 138 | Dreamzzz |
+| 430 | 138 | Tamika Rocheteau |
+| 431 | 138 | Douglas Price |
+| 432 | 138 | Yadira Salgado |
+| 433 | 138 | Claudia Price |
+| 434 | 138 | Seddrick |
+| 435 | 137 | NewEve |
 | 436 | 137 | Tay |
-| 437 | 136 | Char |
-| 438 | 136 | Shakuria Cortia Burney |
-| 439 | 135 | MzJuice Box |
-| 440 | 135 | Sean White |
+| 437 | 137 | Kelvin Cook |
+| 438 | 136 | Char |
+| 439 | 136 | Shakuria Cortia Burney |
+| 440 | 135 | Saucy Tile |
 | 441 | 135 | Hardtohandle91 |
-| 442 | 135 | Saucy Tile |
-| 443 | 135 | Slinky Clearzone |
-| 444 | 134 | Perky Pusher |
-| 445 | 134 | Peppy Glider |
+| 442 | 135 | Sean White |
+| 443 | 135 | MzJuice Box |
+| 444 | 135 | Slinky Clearzone |
+| 445 | 134 | Perky Pusher |
 | 446 | 134 | Ciera Peace |
-| 447 | 133 | Marlynnnnn |
+| 447 | 134 | Peppy Glider |
 | 448 | 133 | Christi Walker Patton |
-| 449 | 132 | Comedian Prince Paul |
+| 449 | 133 | Marlynnnnn |
 | 450 | 132 | Chirpy Buildgrid |
 | 451 | 131 | Lynnette WheelerBushnell |
-| 452 | 130 | Kesha Brady |
-| 453 | 130 | Jessica Davis |
-| 454 | 129 | Zany Breaker |
+| 452 | 130 | Jessica Davis |
+| 453 | 130 | Kesha Brady |
+| 454 | 129 | Cauiasia DeJ'ae |
 | 455 | 129 | wmedina67 |
-| 456 | 129 | Lozuna |
-| 457 | 129 | Cauiasia DeJ'ae |
-| 458 | 129 | Mathew Trudell |
-| 459 | 129 | JesusSaves 😇 |
-| 460 | 129 | Lucy |
-| 461 | 129 | Lynn |
-| 462 | 129 | Loopy Tiler |
-| 463 | 128 | Jack Vlasak |
-| 464 | 128 | Aaron Hartmann |
+| 456 | 129 | Lucy |
+| 457 | 129 | Zany Breaker |
+| 458 | 129 | Loopy Tiler |
+| 459 | 129 | Lynn |
+| 460 | 129 | JesusSaves 😇 |
+| 461 | 129 | Mathew Trudell |
+| 462 | 129 | Lozuna |
+| 463 | 128 | Aaron Hartmann |
+| 464 | 128 | Jack Vlasak |
 | 465 | 127 | Ozell Jones Jr. |
 | 466 | 127 | MonaSparks |
 | 467 | 127 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
 | 468 | 126 | Kahliah Baker |
 | 469 | 126 | Chris Holland |
 | 470 | 126 | Laurie Napper |
-| 471 | 125 | Dizzy Dashy |
-| 472 | 125 | Christina Singleton |
-| 473 | 125 | LaTonya Myers |
-| 474 | 125 | Taz Ballard |
+| 471 | 125 | Christina Singleton |
+| 472 | 125 | Dizzy Dashy |
+| 473 | 125 | Taz Ballard |
+| 474 | 125 | LaTonya Myers |
 | 475 | 124 | Logan Frost |
 | 476 | 124 | The DUBZ |
 | 477 | 124 | Li-Li Ratliff |
@@ -1598,15 +1598,15 @@
 | 1590 | 5 | Angelique Thomas |
 | 1591 | 5 | VERA DAME |
 | 1592 | 5 | Annette DeLoatch Thompson |
-| 1593 | 5 | Happy |
-| 1594 | 5 | Aanngie Aanngie |
-| 1595 | 5 | Schuyler Carson Jackson |
-| 1596 | 5 | Derek Beverly |
-| 1597 | 5 | Godz Chosen |
-| 1598 | 5 | Zesty Brickline |
-| 1599 | 5 | Andy Barnett |
-| 1600 | 5 | Joy Baker |
-| 1601 | 5 | pettymexoxo |
+| 1593 | 5 | Aanngie Aanngie |
+| 1594 | 5 | Schuyler Carson Jackson |
+| 1595 | 5 | Derek Beverly |
+| 1596 | 5 | Zesty Brickline |
+| 1597 | 5 | Happy |
+| 1598 | 5 | pettymexoxo |
+| 1599 | 5 | Godz Chosen |
+| 1600 | 5 | Andy Barnett |
+| 1601 | 5 | Joy Baker |
 
 ---
 *Standings created by tournaments datasource generation tool*
