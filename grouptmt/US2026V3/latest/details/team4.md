@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 17:58:41 UTC
+# Standings for team4 as of 2026-06-07 17:59:20 UTC
 
 **Total Participants:** 1562
 
@@ -681,18 +681,18 @@
 | 673 | 79 | Audrianna Skaff |
 | 674 | 79 | Gean DeJesus |
 | 675 | 79 | Lindsey DeRosa |
-| 676 | 78 | Renita Jordan |
-| 677 | 78 | Mint Marquez |
-| 678 | 78 | Christopher Lindsey |
-| 679 | 77 | Erica Hardwick |
-| 680 | 77 | Kellz M Bee |
-| 681 | 77 | Deana Teck |
-| 682 | 77 | Ajohnna Frazee |
-| 683 | 77 | Oc Tive |
-| 684 | 77 | 94Blockhead |
-| 685 | 76 | JP Chua |
-| 686 | 76 | Jillian Marie |
-| 687 | 76 | Surviving Be Back Soon |
+| 676 | 78 | Surviving Be Back Soon |
+| 677 | 78 | Renita Jordan |
+| 678 | 78 | Mint Marquez |
+| 679 | 78 | Christopher Lindsey |
+| 680 | 77 | Erica Hardwick |
+| 681 | 77 | Kellz M Bee |
+| 682 | 77 | Deana Teck |
+| 683 | 77 | Ajohnna Frazee |
+| 684 | 77 | Oc Tive |
+| 685 | 77 | 94Blockhead |
+| 686 | 76 | JP Chua |
+| 687 | 76 | Jillian Marie |
 | 688 | 76 | Groovy Towerbuilder |
 | 689 | 76 | Lori Lynn |
 | 690 | 76 | Mann Manson |
@@ -720,7 +720,7 @@
 | 712 | 72 | Misti Rich |
 | 713 | 72 | Snow77white |
 | 714 | 72 | Peterson Cottontail |
-| 715 | 71 | Lilo |
+| 715 | 72 | Lilo |
 | 716 | 71 | LeRoy jenkins |
 | 717 | 71 | Taquilla Branch |
 | 718 | 71 | Giggy Blockpiece |
