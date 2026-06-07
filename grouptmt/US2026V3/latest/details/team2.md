@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 12:18:43 UTC
+# Standings for team2 as of 2026-06-07 12:19:19 UTC
 
 **Total Participants:** 1720
 
@@ -821,10 +821,10 @@
 | 813 | 60 | Tonya Greger |
 | 814 | 60 | Abby Dexter |
 | 815 | 60 | Grimwitch |
-| 816 | 60 | Audrey Morris |
-| 817 | 60 | Tiffany Lewis |
-| 818 | 60 | MattandAngie Hopkins |
-| 819 | 60 | Twisty Buildgrid |
+| 816 | 60 | MattandAngie Hopkins |
+| 817 | 60 | Twisty Buildgrid |
+| 818 | 60 | Tiffany Lewis |
+| 819 | 60 | Audrey Morris |
 | 820 | 59 | LaicoosBargains Ln |
 | 821 | 59 | James Moore |
 | 822 | 59 | WestieMom |
@@ -1486,9 +1486,9 @@
 | 1478 | 15 | Tetris |
 | 1479 | 15 | Haneef Akram |
 | 1480 | 15 | Twisty Patternblock |
-| 1481 | 15 | Michelle Shemon |
+| 1481 | 15 | Linda Riegsecker |
 | 1482 | 15 | Nerdy Gridlock |
-| 1483 | 15 | Linda Riegsecker |
+| 1483 | 15 | Michelle Shemon |
 | 1484 | 14 | Manuel Lucero Jr. |
 | 1485 | 14 | Jodi Deninno |
 | 1486 | 14 | Beaglemom |
@@ -1544,9 +1544,9 @@
 | 1536 | 12 | Sindy08 |
 | 1537 | 12 | Donna R. Banks |
 | 1538 | 12 | April Owings |
-| 1539 | 12 | Raymond Sadler |
-| 1540 | 12 | Danid |
-| 1541 | 12 | Kjsranch |
+| 1539 | 12 | Kjsranch |
+| 1540 | 12 | Raymond Sadler |
+| 1541 | 12 | Danid |
 | 1542 | 11 | Happy Shatterblock |
 | 1543 | 11 | Spunky Snapfall |
 | 1544 | 11 | Lou Sassole |

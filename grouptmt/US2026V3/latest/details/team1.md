@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 12:18:43 UTC
+# Standings for team1 as of 2026-06-07 12:19:19 UTC
 
 **Total Participants:** 1449
 
@@ -153,9 +153,9 @@
 | 145 | 360 | Felicia Cain |
 | 146 | 353 | Lashaunda |
 | 147 | 351 | Uneekly Mayde |
-| 148 | 348 | LeeLee08 |
-| 149 | 348 | pooh |
-| 150 | 345 | Ceilo Marie |
+| 148 | 349 | Ceilo Marie |
+| 149 | 348 | LeeLee08 |
+| 150 | 348 | pooh |
 | 151 | 339 | Ty Øtg |
 | 152 | 338 | Sheila Burnham |
 | 153 | 333 | La'Chae Nickole |
@@ -543,13 +543,13 @@
 | 535 | 85 | Sonia Binti Mfalme |
 | 536 | 85 | Sarah Swietlicki - Lopez |
 | 537 | 85 | TotoCherue |
-| 538 | 84 | Zappy Snapgrid |
-| 539 | 84 | Dawn Basemore |
-| 540 | 84 | Angela Brown Babin |
-| 541 | 84 | Franklin Sotelo |
-| 542 | 84 | Saucy Faller |
-| 543 | 84 | Just2Play$ |
-| 544 | 84 | Victor |
+| 538 | 85 | Victor |
+| 539 | 84 | Zappy Snapgrid |
+| 540 | 84 | Dawn Basemore |
+| 541 | 84 | Angela Brown Babin |
+| 542 | 84 | Franklin Sotelo |
+| 543 | 84 | Saucy Faller |
+| 544 | 84 | Just2Play$ |
 | 545 | 83 | Jackytrain52 |
 | 546 | 83 | Sandra Mims |
 | 547 | 83 | MrsMeadows2019 |
@@ -589,76 +589,76 @@
 | 581 | 78 | Rachel Renae Bettis |
 | 582 | 78 | Kahh |
 | 583 | 77 | EvaLynn NeCole |
-| 584 | 77 | Dana Hawes |
-| 585 | 76 | Paul Pendley |
+| 584 | 77 | Ysma Simmons |
+| 585 | 77 | Dana Hawes |
 | 586 | 76 | lady |
-| 587 | 76 | Essence Jones |
+| 587 | 76 | Earl Williams |
 | 588 | 76 | Giggly Shatterline |
-| 589 | 76 | Angelique Talbot |
-| 590 | 76 | Earl Williams |
-| 591 | 75 | MzJuice Box |
-| 592 | 75 | Angie Lebron |
-| 593 | 75 | Jennifer Moore |
-| 594 | 75 | Courtney Robinson |
-| 595 | 75 | Erika |
-| 596 | 75 | sasha |
-| 597 | 75 | Jimmy Shannon |
-| 598 | 74 | Renee Marshall |
-| 599 | 74 | Tetrisdestroyer |
-| 600 | 74 | Sabrina Wilkerson |
-| 601 | 74 | Casey Chapman |
-| 602 | 74 | Glitzy Clusterer |
-| 603 | 74 | Cortrell Foster |
-| 604 | 74 | Sunny Clicky |
-| 605 | 74 | Kimmie Gargano |
-| 606 | 73 | Boldy Pivoty |
-| 607 | 73 | Marlynnnnn |
-| 608 | 72 | JesusSaves 😇 |
-| 609 | 72 | Comedian Gdane |
-| 610 | 72 | Nekka |
-| 611 | 72 | Marlainia Boyd |
-| 612 | 72 | Poppy Twister |
-| 613 | 72 | ImmeKC |
-| 614 | 72 | Lauraly |
-| 615 | 71 | akosua |
-| 616 | 71 | KimChii |
-| 617 | 71 | Tori Carter |
-| 618 | 71 | HBTone |
-| 619 | 71 | Abigail Newman Sweet |
-| 620 | 70 | Rachel Lopez |
-| 621 | 70 | Marshall Davis |
-| 622 | 70 | Duncan Timothy |
-| 623 | 70 | Meow Meow |
+| 589 | 76 | Paul Pendley |
+| 590 | 76 | Angelique Talbot |
+| 591 | 76 | Essence Jones |
+| 592 | 75 | MzJuice Box |
+| 593 | 75 | Jimmy Shannon |
+| 594 | 75 | sasha |
+| 595 | 75 | Jennifer Moore |
+| 596 | 75 | Courtney Robinson |
+| 597 | 75 | Erika |
+| 598 | 75 | Angie Lebron |
+| 599 | 74 | Glitzy Clusterer |
+| 600 | 74 | Tetrisdestroyer |
+| 601 | 74 | Renee Marshall |
+| 602 | 74 | Sabrina Wilkerson |
+| 603 | 74 | Sunny Clicky |
+| 604 | 74 | Cortrell Foster |
+| 605 | 74 | Casey Chapman |
+| 606 | 74 | Kimmie Gargano |
+| 607 | 73 | Boldy Pivoty |
+| 608 | 73 | Marlynnnnn |
+| 609 | 72 | Marlainia Boyd |
+| 610 | 72 | JesusSaves 😇 |
+| 611 | 72 | Nekka |
+| 612 | 72 | ImmeKC |
+| 613 | 72 | Comedian Gdane |
+| 614 | 72 | Poppy Twister |
+| 615 | 72 | Lauraly |
+| 616 | 71 | Abigail Newman Sweet |
+| 617 | 71 | akosua |
+| 618 | 71 | KimChii |
+| 619 | 71 | HBTone |
+| 620 | 71 | Tori Carter |
+| 621 | 70 | Shea Ladynick Henderson |
+| 622 | 70 | Rachel Lopez |
+| 623 | 70 | Marshall Davis |
 | 624 | 70 | Smøke DGAF |
-| 625 | 70 | West Racks |
-| 626 | 70 | Angela Kitchens |
-| 627 | 70 | Shea Ladynick Henderson |
+| 625 | 70 | Meow Meow |
+| 626 | 70 | Blocksy |
+| 627 | 70 | West Racks |
 | 628 | 70 | JoZanna Washington |
-| 629 | 70 | Blocksy |
-| 630 | 69 | Jose Rodriguez |
-| 631 | 69 | Adrian Harris |
-| 632 | 69 | Rochelle Nash-Evans |
-| 633 | 69 | Sara |
-| 634 | 69 | Keith Johnson |
-| 635 | 68 | Christopher Shaw-Black |
-| 636 | 68 | Giddy Staggerpiece |
-| 637 | 68 | BB |
-| 638 | 68 | Pj Rojas |
-| 639 | 67 | Ysma Simmons |
-| 640 | 67 | Nikkizz |
-| 641 | 67 | Sharon Lynn |
-| 642 | 67 | Sarah Barnum |
-| 643 | 67 | LexiiSamayaa |
+| 629 | 70 | Duncan Timothy |
+| 630 | 70 | Angela Kitchens |
+| 631 | 69 | Jose Rodriguez |
+| 632 | 69 | Sara |
+| 633 | 69 | Rochelle Nash-Evans |
+| 634 | 69 | Adrian Harris |
+| 635 | 69 | Keith Johnson |
+| 636 | 68 | Christopher Shaw-Black |
+| 637 | 68 | Pj Rojas |
+| 638 | 68 | BB |
+| 639 | 68 | Giddy Staggerpiece |
+| 640 | 67 | Michele Elizabeth McKay-Johnson |
+| 641 | 67 | LexiiSamayaa |
+| 642 | 67 | Tiffany Jean Hinson |
+| 643 | 67 | Esha I'msoproudofmyself Davis |
 | 644 | 67 | Montego Allen |
-| 645 | 67 | Michele Elizabeth McKay-Johnson |
-| 646 | 67 | Tiffany Jean Hinson |
-| 647 | 67 | Esha I'msoproudofmyself Davis |
-| 648 | 66 | Jess |
-| 649 | 66 | Sylvia Offically A Mcgowan |
-| 650 | 66 | Callie Mae |
-| 651 | 66 | Mami Badd |
-| 652 | 66 | Terrie |
-| 653 | 66 | Raquele Hines |
+| 645 | 67 | Nikkizz |
+| 646 | 67 | Sharon Lynn |
+| 647 | 67 | Sarah Barnum |
+| 648 | 66 | Terrie |
+| 649 | 66 | Raquele Hines |
+| 650 | 66 | Jess |
+| 651 | 66 | Sylvia Offically A Mcgowan |
+| 652 | 66 | Callie Mae |
+| 653 | 66 | Mami Badd |
 | 654 | 66 | Meluhnee |
 | 655 | 66 | Letrishia Andrews |
 | 656 | 66 | GracefulOwl808 |
