@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 02:24:18 UTC
+# Standings for team1 as of 2026-06-07 02:24:38 UTC
 
 **Total Participants:** 1293
 
@@ -109,7 +109,7 @@
 | 101 | 441 | Bre Maugh |
 | 102 | 439 | Asani CHumba |
 | 103 | 432 | She Higgy |
-| 104 | 426 | Quirky Fallgrid |
+| 104 | 431 | Quirky Fallgrid |
 | 105 | 414 | Anthony Washington |
 | 106 | 410 | Kkbk |
 | 107 | 410 | ELM |

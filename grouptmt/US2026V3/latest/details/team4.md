@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 02:24:18 UTC
+# Standings for team4 as of 2026-06-07 02:24:38 UTC
 
 **Total Participants:** 1277
 
@@ -43,8 +43,8 @@
 | 35 | 1333 | Alexandria Frazier |
 | 36 | 1249 | Charlie Lewis |
 | 37 | 1200 | Caitlin Johnson |
-| 38 | 1089 | Ning Quiambao |
-| 39 | 1089 | Bryan DjMagnum Evans |
+| 38 | 1089 | Bryan DjMagnum Evans |
+| 39 | 1089 | Ning Quiambao |
 | 40 | 985 | Nick Graber |
 | 41 | 971 | Loony Towerer |
 | 42 | 966 | BertaF1irta |
@@ -69,17 +69,17 @@
 | 61 | 720 | Carly Stempien |
 | 62 | 718 | Phil Peterson |
 | 63 | 711 | MysticMaven |
-| 64 | 676 | Sharidan Klinginsmith |
-| 65 | 672 | Heather Preston |
-| 66 | 670 | Dana Fontanez |
-| 67 | 670 | Chaz Duncan |
-| 68 | 660 | Jenn Fitzgerald |
-| 69 | 654 | Jonathan Hewitt |
-| 70 | 646 | Blayne Kole |
-| 71 | 644 | Kelly Bernard |
+| 64 | 687 | Adam J Leong |
+| 65 | 676 | Sharidan Klinginsmith |
+| 66 | 672 | Heather Preston |
+| 67 | 670 | Dana Fontanez |
+| 68 | 670 | Chaz Duncan |
+| 69 | 660 | Jenn Fitzgerald |
+| 70 | 654 | Jonathan Hewitt |
+| 71 | 646 | Blayne Kole |
 | 72 | 644 | woopa 716 |
-| 73 | 638 | Annastaissia Todd |
-| 74 | 628 | Adam J Leong |
+| 73 | 644 | Kelly Bernard |
+| 74 | 638 | Annastaissia Todd |
 | 75 | 623 | Hairy Snake |
 | 76 | 622 | Dheeh Robles |
 | 77 | 620 | Fancy Crasher |
@@ -98,18 +98,18 @@
 | 90 | 490 | Jeanette Hailey |
 | 91 | 477 | Malik Thompson |
 | 92 | 467 | vag1974 |
-| 93 | 461 | Kayla Fuentes |
-| 94 | 461 | Cranky Towerbuilder |
+| 93 | 461 | Cranky Towerbuilder |
+| 94 | 461 | Kayla Fuentes |
 | 95 | 443 | Crissy Hoffman |
 | 96 | 440 | Jewelz |
 | 97 | 429 | iiPurgeV2 |
 | 98 | 418 | GeorgeButts |
 | 99 | 416 | Ermadette |
-| 100 | 400 | Amber Doyle |
-| 101 | 400 | Nicole Peoples |
-| 102 | 400 | DexterDobbins |
-| 103 | 400 | Gigglycat |
-| 104 | 400 | Sassy Column |
+| 100 | 400 | Gigglycat |
+| 101 | 400 | Sassy Column |
+| 102 | 400 | Nicole Peoples |
+| 103 | 400 | Amber Doyle |
+| 104 | 400 | DexterDobbins |
 | 105 | 398 | Kay |
 | 106 | 397 | Real Talk Vibes |
 | 107 | 396 | Jackie Jackson |
@@ -121,8 +121,8 @@
 | 113 | 378 | Kim |
 | 114 | 376 | Jason Garnatz |
 | 115 | 374 | Daryn Elliott |
-| 116 | 373 | Boldy Rumbler |
-| 117 | 373 | Tanita Jobe |
+| 116 | 373 | Tanita Jobe |
+| 117 | 373 | Boldy Rumbler |
 | 118 | 371 | Snappy Fitzone |
 | 119 | 359 | BCO22 |
 | 120 | 358 | Joyce Myers |
@@ -171,15 +171,15 @@
 | 163 | 224 | TRUCHILD777$$$ |
 | 164 | 223 | Slimm |
 | 165 | 222 | Danny Ortiz |
-| 166 | 220 | Shmeedo |
-| 167 | 220 | Silly Risegrid |
+| 166 | 220 | Silly Risegrid |
+| 167 | 220 | Shmeedo |
 | 168 | 220 | Magz |
 | 169 | 220 | MomyLiz |
 | 170 | 218 | Dubiousdust |
 | 171 | 215 | Perky Riserbuilder |
 | 172 | 212 | blockhead |
-| 173 | 211 | Renee Sapp |
-| 174 | 211 | Goofy Riser |
+| 173 | 211 | Goofy Riser |
+| 174 | 211 | Renee Sapp |
 | 175 | 210 | Stephanie Myers |
 | 176 | 207 | Aramat |
 | 177 | 207 | Katie Lynn Petit |
@@ -190,30 +190,30 @@
 | 182 | 197 | Tiggerjake |
 | 183 | 195 | Sean Mccleary |
 | 184 | 195 | Lively Blockpiece |
-| 185 | 194 | Jenn Norcross |
+| 185 | 194 | Lisa lisa |
 | 186 | 194 | Chiquita Blue |
-| 187 | 194 | Lisa lisa |
+| 187 | 194 | Jenn Norcross |
 | 188 | 193 | Tiffany Bunker-Hill |
 | 189 | 191 | Dee Wizz |
 | 190 | 191 | Alma López Morales |
 | 191 | 190 | BusterBear56 |
-| 192 | 188 | Pepone Pepe |
-| 193 | 188 | Lee Ann Gibby |
-| 194 | 187 | Leslie Ann Carter |
-| 195 | 187 | Devinlee Brown |
+| 192 | 188 | Lee Ann Gibby |
+| 193 | 188 | Pepone Pepe |
+| 194 | 187 | Devinlee Brown |
+| 195 | 187 | Leslie Ann Carter |
 | 196 | 186 | Kimyatta Cavin |
 | 197 | 185 | PerfectPieces |
 | 198 | 185 | Dae Von |
 | 199 | 184 | Lucy Honer |
-| 200 | 183 | Tara Delay Hill |
+| 200 | 183 | Brandy Lynn |
 | 201 | 183 | Tammy June |
-| 202 | 183 | Brandy Lynn |
-| 203 | 181 | EL Booger |
-| 204 | 181 | Alyson M Kehler |
+| 202 | 183 | Tara Delay Hill |
+| 203 | 181 | Alyson M Kehler |
+| 204 | 181 | EL Booger |
 | 205 | 180 | ariel |
 | 206 | 179 | LaTanya GeminiondaRise Johnson |
-| 207 | 178 | Spicy Chicken |
-| 208 | 178 | Tamara Triplet |
+| 207 | 178 | Tamara Triplet |
+| 208 | 178 | Spicy Chicken |
 | 209 | 177 | Damon Gaston |
 | 210 | 177 | Chirpy Link |
 | 211 | 176 | Nicole Dombrow |
@@ -223,36 +223,36 @@
 | 215 | 171 | Crystal Hammonds |
 | 216 | 169 | Tiffany Smith |
 | 217 | 167 | Littlebrat |
-| 218 | 166 | bollo |
-| 219 | 166 | Shepreneur Sade |
+| 218 | 166 | Shepreneur Sade |
+| 219 | 166 | bollo |
 | 220 | 165 | Ryan Paul Clark-Ramsey |
 | 221 | 164 | Stacy G |
 | 222 | 162 | Shocinda Sherwood |
-| 223 | 160 | Frothy Pattern |
+| 223 | 160 | Tipsy Builderline |
 | 224 | 160 | Morgan Stevens |
-| 225 | 160 | Tipsy Builderline |
-| 226 | 159 | kellie |
-| 227 | 159 | Jackie Polanco |
+| 225 | 160 | Frothy Pattern |
+| 226 | 159 | Jackie Polanco |
+| 227 | 159 | kellie |
 | 228 | 157 | Laguya |
 | 229 | 157 | Mark Norton |
 | 230 | 156 | Janet Sanfilippo Sullivan |
-| 231 | 155 | Shayna Vaigneur-Hall |
-| 232 | 155 | Bonnie Powell |
-| 233 | 154 | Andrick |
+| 231 | 155 | Bonnie Powell |
+| 232 | 155 | Shayna Vaigneur-Hall |
+| 233 | 154 | No Time |
 | 234 | 154 | Lani |
-| 235 | 154 | No Time |
+| 235 | 154 | Andrick |
 | 236 | 153 | Shelby |
 | 237 | 153 | Chris Covington |
 | 238 | 153 | Queen B |
 | 239 | 152 | Samara Garcia |
 | 240 | 152 | Jumpy Builderpiece |
-| 241 | 150 | Heidi Anne Scheiderer |
+| 241 | 150 | Lush Fitblock |
 | 242 | 150 | MrsReap |
-| 243 | 150 | Lush Fitblock |
+| 243 | 150 | Heidi Anne Scheiderer |
 | 244 | 148 | Joseph Hunter |
 | 245 | 148 | Smiley Gridzone |
-| 246 | 147 | EvoKitty |
-| 247 | 147 | Hannah Pazar |
+| 246 | 147 | Hannah Pazar |
+| 247 | 147 | EvoKitty |
 | 248 | 146 | Jasmine Marie |
 | 249 | 145 | June Hoffman |
 | 250 | 145 | Erika Seaton |
