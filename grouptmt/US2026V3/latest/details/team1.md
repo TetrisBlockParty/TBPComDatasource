@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:13:18 UTC
+# Standings for team1 as of 2026-06-07 08:14:18 UTC
 
 **Total Participants:** 1424
 
@@ -8,8 +8,8 @@
 | :- | :- | :- |
 | 1 | 22000 | Kalynn Parks |
 | 2 | 19500 | Ariel |
-| 3 | 7946 | Tyeina Johnson |
-| 4 | 7931 | Charnay Peacock |
+| 3 | 8384 | Charnay Peacock |
+| 4 | 7946 | Tyeina Johnson |
 | 5 | 7732 | Carrie English |
 | 6 | 7602 | Charlie Roehm |
 | 7 | 7059 | Tracy Cohen |
@@ -418,39 +418,39 @@
 | 410 | 103 | Lynnette WheelerBushnell |
 | 411 | 102 | Sarah Steckbauer |
 | 412 | 102 | Christi Walker Patton |
-| 413 | 101 | Mommy Frank |
+| 413 | 102 | Phillip Vasquez |
 | 414 | 101 | Joana Thompson |
-| 415 | 101 | Elaine Pauley |
+| 415 | 101 | Mommy Frank |
 | 416 | 101 | Wacky Wipepiece |
 | 417 | 101 | star |
-| 418 | 100 | Natasha Rucker |
-| 419 | 100 | Seddrick |
+| 418 | 101 | Elaine Pauley |
+| 419 | 100 | Natasha Rucker |
 | 420 | 100 | Jean Regis |
-| 421 | 100 | Cornelius Neal |
-| 422 | 100 | Kennedi Brazziel |
-| 423 | 100 | $hort Dog |
-| 424 | 100 | Oldheads |
-| 425 | 100 | Leavon Smith |
-| 426 | 100 | Kesha Brady |
-| 427 | 100 | Mary Phillippi Blanton |
-| 428 | 100 | Tessa Gaskin |
-| 429 | 99 | Ciera Peace |
+| 421 | 100 | Seddrick |
+| 422 | 100 | Cornelius Neal |
+| 423 | 100 | Kennedi Brazziel |
+| 424 | 100 | $hort Dog |
+| 425 | 100 | Oldheads |
+| 426 | 100 | Leavon Smith |
+| 427 | 100 | Kesha Brady |
+| 428 | 100 | Mary Phillippi Blanton |
+| 429 | 100 | Tessa Gaskin |
 | 430 | 99 | Travis Davison |
-| 431 | 99 | SeanSanchez |
-| 432 | 99 | Mahagony Small |
-| 433 | 99 | ChunLi |
-| 434 | 98 | Michael Smith |
+| 431 | 99 | Ciera Peace |
+| 432 | 99 | SeanSanchez |
+| 433 | 99 | Mahagony Small |
+| 434 | 99 | ChunLi |
 | 435 | 98 | Dorian Griffin |
-| 436 | 98 | Sharee Robinson |
-| 437 | 98 | Shannon Carriger |
-| 438 | 97 | Shanell Thomas |
-| 439 | 97 | Twisty Cascadeclear |
+| 436 | 98 | Michael Smith |
+| 437 | 98 | Sharee Robinson |
+| 438 | 98 | Shannon Carriger |
+| 439 | 97 | Shanell Thomas |
 | 440 | 97 | Nichole Horsley-Conn |
-| 441 | 97 | Erin Sabol |
-| 442 | 97 | Kristie |
+| 441 | 97 | Twisty Cascadeclear |
+| 442 | 97 | Erin Sabol |
 | 443 | 97 | Lootch |
 | 444 | 97 | NewEve |
-| 445 | 96 | Phillip Vasquez |
+| 445 | 97 | Kristie |
 | 446 | 96 | Sherri Keys |
 | 447 | 96 | Yazz |
 | 448 | 95 | Anthony |
@@ -460,40 +460,40 @@
 | 452 | 94 | Derald Miller |
 | 453 | 94 | Slinky Brickmatch |
 | 454 | 94 | Ta'Kaiyah M. Spann |
-| 455 | 93 | Chino Baby |
-| 456 | 93 | Kate Hancock Malicek |
-| 457 | 93 | C Lo Green |
-| 458 | 93 | FunTime |
-| 459 | 93 | Rene Hicks |
-| 460 | 93 | Lucy |
-| 461 | 93 | Anastasia |
-| 462 | 93 | Kimberly Susan Privette |
-| 463 | 92 | The DUBZ |
+| 455 | 93 | C Lo Green |
+| 456 | 93 | Rene Hicks |
+| 457 | 93 | Lucy |
+| 458 | 93 | Anastasia |
+| 459 | 93 | Kimberly Susan Privette |
+| 460 | 93 | Chino Baby |
+| 461 | 93 | Kate Hancock Malicek |
+| 462 | 93 | FunTime |
+| 463 | 92 | La'Chae Nickole |
 | 464 | 92 | Pretty Yella |
-| 465 | 92 | La'Chae Nickole |
+| 465 | 92 | The DUBZ |
 | 466 | 91 | Aaron Hartmann |
 | 467 | 91 | David A Alvino |
 | 468 | 90 | Yashica Smith |
-| 469 | 90 | Lilly Brown |
-| 470 | 90 | crumb bumc |
+| 469 | 90 | crumb bumc |
+| 470 | 90 | Lilly Brown |
 | 471 | 90 | Nora Mahmoud |
-| 472 | 90 | Shameka Tiffany |
-| 473 | 90 | Jjhandsome |
-| 474 | 90 | CJ Robinson |
-| 475 | 89 | Jenni Hardman |
-| 476 | 89 | Cynthia Cruell |
-| 477 | 89 | LuckyStar |
-| 478 | 89 | Zany Breaker |
+| 472 | 90 | Jjhandsome |
+| 473 | 90 | CJ Robinson |
+| 474 | 90 | Shameka Tiffany |
+| 475 | 89 | LuckyStar |
+| 476 | 89 | Jenni Hardman |
+| 477 | 89 | Zany Breaker |
+| 478 | 89 | Cynthia Cruell |
 | 479 | 88 | Brenda Malachi-butler |
 | 480 | 88 | 大竹直之 |
 | 481 | 88 | Soubletzy |
-| 482 | 87 | Chummy Frame |
-| 483 | 87 | Cachet A Ward |
-| 484 | 87 | Holly Baker |
-| 485 | 87 | Natalie Burroughs |
+| 482 | 87 | Holly Baker |
+| 483 | 87 | Natalie Burroughs |
+| 484 | 87 | Chummy Frame |
+| 485 | 87 | Cachet A Ward |
 | 486 | 86 | Donna Payne |
-| 487 | 86 | Messy Live |
-| 488 | 86 | Marie Wilson |
+| 487 | 86 | Marie Wilson |
+| 488 | 86 | Messy Live |
 | 489 | 86 | Cm |
 | 490 | 86 | Melissa Olvera |
 | 491 | 86 | Kendra McIntyre |
