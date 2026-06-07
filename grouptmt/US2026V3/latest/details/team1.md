@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:38:41 UTC
+# Standings for team1 as of 2026-06-07 08:39:18 UTC
 
 **Total Participants:** 1427
 
@@ -118,7 +118,7 @@
 | 110 | 477 | Chenell Gillard |
 | 111 | 474 | DaVonte' Cretter |
 | 112 | 455 | Felicia Williams |
-| 113 | 451 | Chris Caniglia |
+| 113 | 453 | Chris Caniglia |
 | 114 | 447 | Gotcha |
 | 115 | 444 | Kevin M. McGhee Jr |
 | 116 | 439 | Asani CHumba |
@@ -1018,67 +1018,67 @@
 | 1010 | 29 | Elizabeth Ragland |
 | 1011 | 29 | MindlessMic |
 | 1012 | 29 | Damien Fonseca |
-| 1013 | 29 | Lazy Matchgrid |
-| 1014 | 29 | Chris Bell |
-| 1015 | 29 | Panda Vibes |
-| 1016 | 29 | Epic Wipepiece |
+| 1013 | 29 | Chris Bell |
+| 1014 | 29 | Lazy Matchgrid |
+| 1015 | 29 | Epic Wipepiece |
+| 1016 | 29 | Panda Vibes |
 | 1017 | 29 | Frilly Riserbuilder |
 | 1018 | 29 | Jovy |
 | 1019 | 29 | Everett Semmions |
-| 1020 | 28 | Anntionette Sotire |
-| 1021 | 28 | Crystal Winters Mckay |
-| 1022 | 28 | SnazzySnippet |
-| 1023 | 28 | sunstar |
-| 1024 | 28 | AleahKCH |
-| 1025 | 28 | kiki |
-| 1026 | 28 | Simone Dublin |
-| 1027 | 28 | Anthony T. Fults |
-| 1028 | 28 | Leon Matthew Williams |
-| 1029 | 28 | Mighty plantlady |
-| 1030 | 28 | Dannie Brown |
-| 1031 | 28 | Will Stanton |
-| 1032 | 28 | Diamond Nicole |
-| 1033 | 28 | David Rankin |
+| 1020 | 28 | sunstar |
+| 1021 | 28 | Will Stanton |
+| 1022 | 28 | Mighty plantlady |
+| 1023 | 28 | AleahKCH |
+| 1024 | 28 | Anthony T. Fults |
+| 1025 | 28 | David Rankin |
+| 1026 | 28 | SnazzySnippet |
+| 1027 | 28 | Anntionette Sotire |
+| 1028 | 28 | Crystal Winters Mckay |
+| 1029 | 28 | kiki |
+| 1030 | 28 | Simone Dublin |
+| 1031 | 28 | Dannie Brown |
+| 1032 | 28 | Leon Matthew Williams |
+| 1033 | 28 | Diamond Nicole |
 | 1034 | 28 | Frilly Shatterline |
 | 1035 | 28 | Davina Valentino |
 | 1036 | 28 | Teresa Bean |
-| 1037 | 27 | Joka NoTime ForHataz |
-| 1038 | 27 | Jeremy Hendrix |
-| 1039 | 27 | Taylor Keisha |
-| 1040 | 27 | Antoinette GallowayJohnson |
-| 1041 | 27 | Zesty Fitclear |
-| 1042 | 27 | Cameo Tweed |
-| 1043 | 27 | Brave Gridmatch |
-| 1044 | 27 | Ayanna James |
-| 1045 | 27 | katia |
-| 1046 | 27 | Shaylyn Lockwood |
-| 1047 | 27 | Tina Criam |
-| 1048 | 27 | Ramon Leno Coolridge |
+| 1037 | 27 | Jeremy Hendrix |
+| 1038 | 27 | Taylor Keisha |
+| 1039 | 27 | Antoinette GallowayJohnson |
+| 1040 | 27 | Zesty Fitclear |
+| 1041 | 27 | Brave Gridmatch |
+| 1042 | 27 | Ayanna James |
+| 1043 | 27 | Cameo Tweed |
+| 1044 | 27 | Ramon Leno Coolridge |
+| 1045 | 27 | Joka NoTime ForHataz |
+| 1046 | 27 | katia |
+| 1047 | 27 | Shaylyn Lockwood |
+| 1048 | 27 | Tina Criam |
 | 1049 | 27 | Kidgib5 |
 | 1050 | 27 | AshMo |
 | 1051 | 27 | Mrs |
 | 1052 | 27 | Venna Cooper |
-| 1053 | 26 | Twisty Dashy |
-| 1054 | 26 | Caitlin Michele |
-| 1055 | 26 | Stacy Nicole |
-| 1056 | 26 | Ana Torres |
-| 1057 | 26 | Idelia L Brown |
-| 1058 | 26 | Hoppy Buildsnap |
-| 1059 | 26 | Batty B |
-| 1060 | 26 | BB |
-| 1061 | 26 | Teena K Macon |
-| 1062 | 26 | Pastors Du Bose |
-| 1063 | 26 | Lively Strikesnap |
-| 1064 | 26 | Rose Smith |
-| 1065 | 26 | Kala Miller |
-| 1066 | 25 | marie |
-| 1067 | 25 | Dinky da Don |
+| 1053 | 26 | Idelia L Brown |
+| 1054 | 26 | Twisty Dashy |
+| 1055 | 26 | Batty B |
+| 1056 | 26 | Caitlin Michele |
+| 1057 | 26 | Stacy Nicole |
+| 1058 | 26 | Ana Torres |
+| 1059 | 26 | Toohartless Mech |
+| 1060 | 26 | Kala Miller |
+| 1061 | 26 | BB |
+| 1062 | 26 | Hoppy Buildsnap |
+| 1063 | 26 | Teena K Macon |
+| 1064 | 26 | Pastors Du Bose |
+| 1065 | 26 | Lively Strikesnap |
+| 1066 | 26 | Rose Smith |
+| 1067 | 25 | marie |
 | 1068 | 25 | Heru Ogun Yeshua EL |
-| 1069 | 25 | Thelma Samuels |
+| 1069 | 25 | Dinky da Don |
 | 1070 | 25 | rummy |
-| 1071 | 25 | Maxine Williams |
-| 1072 | 25 | Bruce Paléncia |
-| 1073 | 25 | Toohartless Mech |
+| 1071 | 25 | Thelma Samuels |
+| 1072 | 25 | Maxine Williams |
+| 1073 | 25 | Bruce Paléncia |
 | 1074 | 25 | Linny Loop |
 | 1075 | 25 | PennyCandee |
 | 1076 | 24 | Kyra Coleman |
@@ -1088,54 +1088,54 @@
 | 1080 | 24 | Meme23 |
 | 1081 | 24 | Chris Watson Draper |
 | 1082 | 24 | Tiffany Jean Hinson |
-| 1083 | 24 | Andrea Jackson |
-| 1084 | 24 | Danielle Scholfield |
+| 1083 | 24 | Danielle Scholfield |
+| 1084 | 24 | Andrea Jackson |
 | 1085 | 24 | Kizzy Clark |
 | 1086 | 24 | Kiki |
-| 1087 | 24 | TanB53 |
-| 1088 | 24 | Carl Proby |
+| 1087 | 24 | Carl Proby |
+| 1088 | 24 | TanB53 |
 | 1089 | 24 | Kevin Witdaflute |
-| 1090 | 23 | Vontesha Kidd |
+| 1090 | 23 | Brave Combofall |
 | 1091 | 23 | Nicolej |
-| 1092 | 23 | Arturo Hernandez II |
-| 1093 | 23 | Genevieve Nieves |
-| 1094 | 23 | Brave Combofall |
+| 1092 | 23 | Genevieve Nieves |
+| 1093 | 23 | Arturo Hernandez II |
+| 1094 | 23 | Ladybug |
 | 1095 | 23 | Major314 |
-| 1096 | 23 | Ladybug |
+| 1096 | 23 | Vontesha Kidd |
 | 1097 | 23 | Sherry D Singleton |
 | 1098 | 23 | Tabitha Dupre-Allen |
-| 1099 | 23 | AnnaM |
-| 1100 | 23 | Jamie Lea Popp |
-| 1101 | 23 | Bambam |
+| 1099 | 23 | Bambam |
+| 1100 | 23 | AnnaM |
+| 1101 | 23 | Jamie Lea Popp |
 | 1102 | 22 | Chipper Clicker |
 | 1103 | 22 | Iván Cedeño |
-| 1104 | 22 | ShayePooh |
+| 1104 | 22 | Jasmine Hariston-Estis |
 | 1105 | 22 | Sicily Bailey |
-| 1106 | 22 | Jasmine Hariston-Estis |
-| 1107 | 22 | Williams Candace |
-| 1108 | 22 | Jazzy Drop |
-| 1109 | 21 | Cheeky Wipegrid |
-| 1110 | 21 | Madam Suki |
-| 1111 | 21 | Kikiness |
-| 1112 | 21 | Desiree Ryder |
-| 1113 | 21 | Zappy Zoney |
-| 1114 | 21 | Rachael R Gull |
-| 1115 | 21 | Montego Allen |
-| 1116 | 21 | jasi |
-| 1117 | 21 | Christy |
-| 1118 | 21 | Tonia Lance |
+| 1106 | 22 | Williams Candace |
+| 1107 | 22 | Jazzy Drop |
+| 1108 | 22 | ShayePooh |
+| 1109 | 21 | Rachael R Gull |
+| 1110 | 21 | Kikiness |
+| 1111 | 21 | Zappy Zoney |
+| 1112 | 21 | Cheeky Wipegrid |
+| 1113 | 21 | Desiree Ryder |
+| 1114 | 21 | Montego Allen |
+| 1115 | 21 | jasi |
+| 1116 | 21 | Christy |
+| 1117 | 21 | Tonia Lance |
+| 1118 | 21 | Madam Suki |
 | 1119 | 21 | Samona Mcculler |
-| 1120 | 20 | Jonathan McKenzie |
-| 1121 | 20 | squints |
-| 1122 | 20 | Phillip White |
-| 1123 | 20 | Cherise Thomas |
-| 1124 | 20 | Anthony Intrabartolo |
-| 1125 | 20 | Jhaime |
+| 1120 | 20 | POOH |
+| 1121 | 20 | Phillip White |
+| 1122 | 20 | Cherise Thomas |
+| 1123 | 20 | Anthony Intrabartolo |
+| 1124 | 20 | Jonathan McKenzie |
+| 1125 | 20 | squints |
 | 1126 | 20 | Ebie |
-| 1127 | 20 | Anthony D Holmes |
-| 1128 | 20 | B.L. Perry |
-| 1129 | 20 | Twisty Tilebuilder |
-| 1130 | 20 | POOH |
+| 1127 | 20 | Jhaime |
+| 1128 | 20 | Anthony D Holmes |
+| 1129 | 20 | B.L. Perry |
+| 1130 | 20 | Twisty Tilebuilder |
 | 1131 | 20 | Luna Lockwood |
 | 1132 | 20 | Jennifer Diamond |
 | 1133 | 20 | Charlean Sims |
