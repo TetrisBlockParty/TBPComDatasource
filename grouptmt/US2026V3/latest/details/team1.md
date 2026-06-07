@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 21:22:40 UTC
+# Standings for team1 as of 2026-06-07 21:23:20 UTC
 
 **Total Participants:** 1581
 
@@ -380,79 +380,79 @@
 | 372 | 157 | Hasty Glidezone |
 | 373 | 157 | Courtney Cicoria |
 | 374 | 156 | McKayla Owens |
-| 375 | 156 | Cheeky Twistpiece |
-| 376 | 156 | Shalya Terry |
-| 377 | 156 | Lakiesha Crawford |
-| 378 | 156 | Alyssa Rae |
-| 379 | 156 | Tee Spinks |
-| 380 | 155 | Lazy Tiltpiece |
+| 375 | 156 | Tee Spinks |
+| 376 | 156 | Lakiesha Crawford |
+| 377 | 156 | Cheeky Twistpiece |
+| 378 | 156 | Shalya Terry |
+| 379 | 156 | Chummy Frame |
+| 380 | 156 | Alyssa Rae |
 | 381 | 155 | Anthony |
-| 382 | 155 | Chummy Frame |
-| 383 | 154 | Cece Fowler |
+| 382 | 155 | Lazy Tiltpiece |
+| 383 | 154 | Matthieu Pistone |
 | 384 | 154 | Manda Allen |
-| 385 | 154 | Matthieu Pistone |
+| 385 | 154 | Cece Fowler |
 | 386 | 153 | CJ Robinson |
-| 387 | 152 | Frankey Chi |
-| 388 | 152 | Phillip Vasquez |
+| 387 | 152 | Phillip Vasquez |
+| 388 | 152 | Frankey Chi |
 | 389 | 152 | Wacky Stackbuilder |
-| 390 | 151 | Brittany Fells |
-| 391 | 151 | Miera Nicole |
-| 392 | 151 | Breezy Catcher |
+| 390 | 151 | Breezy Catcher |
+| 391 | 151 | Brittany Fells |
+| 392 | 151 | Miera Nicole |
 | 393 | 151 | Dede Tate |
 | 394 | 150 | Jean Regis |
 | 395 | 150 | Deveda Williams |
 | 396 | 150 | Jhaime |
-| 397 | 149 | HarleyJane |
+| 397 | 149 | Chasem45 |
 | 398 | 149 | Katrina Ramey |
-| 399 | 149 | Chasem45 |
+| 399 | 149 | HarleyJane |
 | 400 | 147 | Joka NoTime ForHataz |
 | 401 | 147 | Perky Balancer |
 | 402 | 146 | KeeKee Williams |
-| 403 | 146 | Jae Thompson-Tyus |
-| 404 | 146 | whatever |
+| 403 | 146 | whatever |
+| 404 | 146 | Jae Thompson-Tyus |
 | 405 | 145 | Squaw Ki Ng |
 | 406 | 144 | Brittanie Wardlow |
-| 407 | 143 | Dandy Brickfit |
-| 408 | 143 | Lisa Fletcher |
-| 409 | 143 | Faith Armone |
-| 410 | 142 | Kelley Johnson |
-| 411 | 142 | BabyCakes |
-| 412 | 142 | Sarah Steckbauer |
+| 407 | 143 | Faith Armone |
+| 408 | 143 | Dandy Brickfit |
+| 409 | 143 | Lisa Fletcher |
+| 410 | 142 | BabyCakes |
+| 411 | 142 | Sarah Steckbauer |
+| 412 | 142 | Kelley Johnson |
 | 413 | 141 | Shalena Marie Humphrey |
-| 414 | 141 | Ta'Kaiyah M. Spann |
+| 414 | 141 | Yashica Smith |
 | 415 | 141 | Kate Hancock Malicek |
-| 416 | 140 | Genne Scott |
-| 417 | 140 | rls |
-| 418 | 140 | Antoinette Jones |
-| 419 | 139 | Analiza Ramos |
-| 420 | 138 | Claudia Price |
+| 416 | 141 | Ta'Kaiyah M. Spann |
+| 417 | 140 | Antoinette Jones |
+| 418 | 140 | rls |
+| 419 | 140 | Genne Scott |
+| 420 | 139 | Analiza Ramos |
 | 421 | 138 | Dreamzzz |
-| 422 | 138 | Tamika Rocheteau |
+| 422 | 138 | Claudia Price |
 | 423 | 138 | Seddrick |
 | 424 | 138 | Yadira Salgado |
-| 425 | 138 | Douglas Price |
-| 426 | 137 | Yashica Smith |
-| 427 | 137 | Kelvin Cook |
-| 428 | 137 | Tay |
+| 425 | 138 | Tamika Rocheteau |
+| 426 | 138 | Douglas Price |
+| 427 | 137 | Tay |
+| 428 | 137 | Kelvin Cook |
 | 429 | 136 | Shakuria Cortia Burney |
-| 430 | 136 | Char |
-| 431 | 136 | Shanaa Germany Crittenden |
+| 430 | 136 | Shanaa Germany Crittenden |
+| 431 | 136 | Char |
 | 432 | 135 | Slinky Clearzone |
-| 433 | 135 | Hardtohandle91 |
-| 434 | 135 | Saucy Tile |
-| 435 | 135 | Sean White |
-| 436 | 135 | MzJuice Box |
-| 437 | 134 | NewEve |
-| 438 | 134 | Perky Pusher |
-| 439 | 134 | Peppy Glider |
+| 433 | 135 | Sean White |
+| 434 | 135 | Hardtohandle91 |
+| 435 | 135 | MzJuice Box |
+| 436 | 135 | Saucy Tile |
+| 437 | 134 | Perky Pusher |
+| 438 | 134 | Peppy Glider |
+| 439 | 134 | NewEve |
 | 440 | 134 | Ciera Peace |
-| 441 | 133 | Christi Walker Patton |
-| 442 | 133 | Shanns |
-| 443 | 133 | Marlynnnnn |
+| 441 | 133 | Marlynnnnn |
+| 442 | 133 | Christi Walker Patton |
+| 443 | 133 | Shanns |
 | 444 | 132 | Chirpy Buildgrid |
 | 445 | 131 | Lynnette WheelerBushnell |
-| 446 | 130 | Jessica Davis |
-| 447 | 130 | Kesha Brady |
+| 446 | 130 | Kesha Brady |
+| 447 | 130 | Jessica Davis |
 | 448 | 129 | Mathew Trudell |
 | 449 | 129 | Lynn |
 | 450 | 129 | Lucy |
