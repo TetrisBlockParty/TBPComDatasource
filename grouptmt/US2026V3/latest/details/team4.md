@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 10:50:40 UTC
+# Standings for team4 as of 2026-06-07 10:51:18 UTC
 
 **Total Participants:** 1445
 
@@ -191,8 +191,8 @@
 | 183 | 261 | Waxboss |
 | 184 | 260 | Shmeedo |
 | 185 | 259 | Jessica Peyton |
-| 186 | 253 | Tammy June |
-| 187 | 247 | LastBoi |
+| 186 | 257 | LastBoi |
+| 187 | 253 | Tammy June |
 | 188 | 247 | Joseph Anthony Watkins |
 | 189 | 246 | Shepreneur Sade |
 | 190 | 246 | Lucy Honer |
