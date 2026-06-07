@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 10:04:42 UTC
+# Standings for team1 as of 2026-06-07 10:05:18 UTC
 
 **Total Participants:** 1437
 
@@ -118,8 +118,8 @@
 | 110 | 495 | W.A. Simpson |
 | 111 | 488 | Trendalyn Webb |
 | 112 | 481 | Novaa |
-| 113 | 477 | Chenell Gillard |
-| 114 | 476 | Chris Caniglia |
+| 113 | 478 | Chris Caniglia |
+| 114 | 477 | Chenell Gillard |
 | 115 | 474 | DaVonte' Cretter |
 | 116 | 474 | De'Laonzeo Anthony |
 | 117 | 455 | Felicia Williams |
@@ -183,13 +183,13 @@
 | 175 | 285 | Ashley MyBeauty Daniels |
 | 176 | 285 | Helen Smith |
 | 177 | 284 | Karebear |
-| 178 | 278 | Sharon Cail |
-| 179 | 277 | Tonya Lee Sanders |
-| 180 | 276 | Cortaz Lawrie |
-| 181 | 275 | Chris Sladoje |
-| 182 | 275 | Jawaun Daniels |
-| 183 | 274 | NastyFriend |
-| 184 | 272 | La'Chae Nickole |
+| 178 | 282 | La'Chae Nickole |
+| 179 | 278 | Sharon Cail |
+| 180 | 277 | Tonya Lee Sanders |
+| 181 | 276 | Cortaz Lawrie |
+| 182 | 275 | Chris Sladoje |
+| 183 | 275 | Jawaun Daniels |
+| 184 | 274 | NastyFriend |
 | 185 | 270 | xXEKUNXx |
 | 186 | 265 | Nerdy Snapfall |
 | 187 | 260 | Ketrell Bailey |
@@ -332,10 +332,10 @@
 | 324 | 140 | De'Nell Edwards |
 | 325 | 140 | Antoinette Jones |
 | 326 | 140 | Eric Spencer Whitaker |
-| 327 | 140 | rls |
-| 328 | 140 | MamushiOh |
-| 329 | 139 | kitten |
-| 330 | 138 | Tyiesha Pie Farmer |
+| 327 | 140 | Tyiesha Pie Farmer |
+| 328 | 140 | rls |
+| 329 | 140 | MamushiOh |
+| 330 | 139 | kitten |
 | 331 | 138 | Tamika Rocheteau |
 | 332 | 137 | Tay |
 | 333 | 137 | Nickeya Phillips |
