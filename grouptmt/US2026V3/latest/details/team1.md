@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 23:00:18 UTC
+# Standings for team1 as of 2026-06-07 23:00:41 UTC
 
 **Total Participants:** 1607
 
@@ -895,88 +895,88 @@
 | 887 | 59 | Andrea Jackson |
 | 888 | 59 | Teresa Menefee |
 | 889 | 59 | Tamyka E Williams |
-| 890 | 59 | Wacky Spinfit |
-| 891 | 59 | Smiley Tilebuilder |
-| 892 | 59 | Sugar Foot |
-| 893 | 58 | Brandy Way |
-| 894 | 58 | Rieshelda Marie White |
-| 895 | 58 | Gabriela Hernandez |
+| 890 | 59 | Smiley Tilebuilder |
+| 891 | 59 | Sugar Foot |
+| 892 | 59 | Wacky Spinfit |
+| 893 | 58 | NickyJay Jones |
+| 894 | 58 | Gabriela Hernandez |
+| 895 | 58 | Brandy Way |
 | 896 | 58 | CoaCoa Myles |
-| 897 | 58 | NickyJay Jones |
-| 898 | 58 | Kiki |
-| 899 | 57 | Shauntai Holiday |
-| 900 | 57 | Vernon Hoyt |
-| 901 | 57 | Fairy Fae_6 |
-| 902 | 57 | Desire Rice |
-| 903 | 57 | Elizabeth Clara |
-| 904 | 57 | Warren Miller |
-| 905 | 57 | Idelia L Brown |
-| 906 | 57 | Linda Lasha Messenger |
-| 907 | 56 | Sally Elizabeth Hopson |
-| 908 | 56 | Lisa Ivy |
-| 909 | 56 | jeremy92 |
+| 897 | 58 | Kiki |
+| 898 | 58 | Rieshelda Marie White |
+| 899 | 58 | AnnaM |
+| 900 | 57 | Elizabeth Clara |
+| 901 | 57 | Desire Rice |
+| 902 | 57 | Fairy Fae_6 |
+| 903 | 57 | Idelia L Brown |
+| 904 | 57 | Linda Lasha Messenger |
+| 905 | 57 | Vernon Hoyt |
+| 906 | 57 | Shauntai Holiday |
+| 907 | 57 | Warren Miller |
+| 908 | 56 | jeremy92 |
+| 909 | 56 | QueenzMo |
 | 910 | 56 | Chanel White |
-| 911 | 56 | NataAllDay |
-| 912 | 56 | QueenzMo |
-| 913 | 56 | Kayleah Washington |
-| 914 | 55 | Kyle Franklin |
+| 911 | 56 | Sally Elizabeth Hopson |
+| 912 | 56 | Kayleah Washington |
+| 913 | 56 | NataAllDay |
+| 914 | 56 | Lisa Ivy |
 | 915 | 55 | KoolKimJay |
-| 916 | 55 | nameno |
-| 917 | 54 | Embracing Hair |
-| 918 | 54 | Christina Wesley |
-| 919 | 54 | Candy Lee |
-| 920 | 54 | rummy |
-| 921 | 54 | deeno |
-| 922 | 54 | AnnaM |
-| 923 | 54 | Kashh |
-| 924 | 54 | Felicia Yahuah Johnson |
+| 916 | 55 | Kyle Franklin |
+| 917 | 55 | nameno |
+| 918 | 54 | Candy Lee |
+| 919 | 54 | Christina Wesley |
+| 920 | 54 | Felicia Yahuah Johnson |
+| 921 | 54 | Embracing Hair |
+| 922 | 54 | Kashh |
+| 923 | 54 | deeno |
+| 924 | 54 | rummy |
 | 925 | 54 | Darrelle Short |
-| 926 | 53 | Morenita Rodriguez |
-| 927 | 53 | Williams Candace |
-| 928 | 53 | Xrandomx |
-| 929 | 53 | Clever Wrecker |
-| 930 | 53 | brite |
-| 931 | 53 | Meshia |
-| 932 | 52 | Chummy Liner |
-| 933 | 52 | Jojo M |
-| 934 | 52 | Tray Tolliver |
-| 935 | 52 | Diamond Nicole |
-| 936 | 52 | Giggy Holder |
-| 937 | 52 | Abdul Malik |
-| 938 | 52 | Loopy Risepiece |
-| 939 | 52 | Frilly Shatterline |
-| 940 | 51 | Shanjerrica Taylor Rosell |
-| 941 | 51 | Oaklonboy mike |
-| 942 | 51 | Evelyn Epps |
-| 943 | 51 | Boldy Matchfit |
-| 944 | 51 | Laura |
-| 945 | 51 | BigMike |
+| 926 | 53 | Williams Candace |
+| 927 | 53 | Clever Wrecker |
+| 928 | 53 | Meshia |
+| 929 | 53 | brite |
+| 930 | 53 | Xrandomx |
+| 931 | 53 | Morenita Rodriguez |
+| 932 | 52 | Jojo M |
+| 933 | 52 | Tray Tolliver |
+| 934 | 52 | Abdul Malik |
+| 935 | 52 | Frilly Shatterline |
+| 936 | 52 | Loopy Risepiece |
+| 937 | 52 | Chummy Liner |
+| 938 | 52 | Giggy Holder |
+| 939 | 52 | Diamond Nicole |
+| 940 | 51 | BigMike |
+| 941 | 51 | Kidgib5 |
+| 942 | 51 | Boldy Matchfit |
+| 943 | 51 | Oaklonboy mike |
+| 944 | 51 | Shanjerrica Taylor Rosell |
+| 945 | 51 | Evelyn Epps |
 | 946 | 51 | Toohartless Mech |
-| 947 | 51 | Kidgib5 |
-| 948 | 50 | MsBobby Patrick |
-| 949 | 50 | Breeze |
-| 950 | 50 | Aero Builder |
-| 951 | 50 | Bold Spinblock |
-| 952 | 50 | Plucky Slamdrop |
-| 953 | 50 | Denell Sims |
-| 954 | 50 | Mikemike Zonethree |
-| 955 | 50 | Tramaine Crockrum |
-| 956 | 50 | Rachael R Gull |
-| 957 | 50 | Daring Linkfall |
-| 958 | 49 | Damien Fonseca |
-| 959 | 49 | Macho Lewis |
-| 960 | 49 | Tara Clarke |
+| 947 | 51 | Laura |
+| 948 | 50 | Bold Spinblock |
+| 949 | 50 | Aero Builder |
+| 950 | 50 | Plucky Slamdrop |
+| 951 | 50 | Breeze |
+| 952 | 50 | MsBobby Patrick |
+| 953 | 50 | Rachael R Gull |
+| 954 | 50 | Daring Linkfall |
+| 955 | 50 | Mikemike Zonethree |
+| 956 | 50 | Tramaine Crockrum |
+| 957 | 50 | Denell Sims |
+| 958 | 49 | Saucy Crusher |
+| 959 | 49 | Lucy Range |
+| 960 | 49 | Macho Lewis |
 | 961 | 49 | MindlessMic |
-| 962 | 49 | Teisha Scott |
-| 963 | 49 | Ķïrãã Ďãvïss |
-| 964 | 49 | Lucy Range |
-| 965 | 49 | Stronger Wiser Better |
-| 966 | 49 | Daphne Ceasar |
-| 967 | 49 | Brika Brika |
-| 968 | 49 | Saucy Crusher |
-| 969 | 49 | Smiley Bridgepiece |
-| 970 | 49 | Melanie Houghton-McCann |
-| 971 | 49 | WReckitraff |
+| 962 | 49 | Melanie Houghton-McCann |
+| 963 | 49 | WReckitraff |
+| 964 | 49 | Teisha Scott |
+| 965 | 49 | Tara Clarke |
+| 966 | 49 | Damien Fonseca |
+| 967 | 49 | Smiley Bridgepiece |
+| 968 | 49 | Daphne Ceasar |
+| 969 | 49 | Ķïrãã Ďãvïss |
+| 970 | 49 | Stronger Wiser Better |
+| 971 | 49 | Brika Brika |
 | 972 | 48 | LoveLee |
 | 973 | 48 | Davina Valentino |
 | 974 | 48 | Eli Delao |
