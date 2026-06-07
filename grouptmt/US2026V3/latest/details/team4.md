@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 19:18:19 UTC
+# Standings for team4 as of 2026-06-07 19:18:40 UTC
 
 **Total Participants:** 1581
 
@@ -307,9 +307,9 @@
 | 299 | 182 | Swanky Snapgrid |
 | 300 | 182 | Snazzy Corner |
 | 301 | 181 | Ashley Mcdonald |
-| 302 | 180 | ariel |
-| 303 | 180 | Goofy Linkmatch |
-| 304 | 179 | Cindy |
+| 302 | 180 | Cindy |
+| 303 | 180 | ariel |
+| 304 | 180 | Goofy Linkmatch |
 | 305 | 179 | bollo |
 | 306 | 179 | LaTanya GeminiondaRise Johnson |
 | 307 | 178 | Jacqueline Jackii Ramos |
@@ -753,105 +753,105 @@
 | 745 | 69 | Kelli Miller |
 | 746 | 69 | Giggy Risegrid |
 | 747 | 69 | Rebekah Anne Macias |
-| 748 | 69 | Jennifer Evans Elliott |
-| 749 | 69 | ŁųŁų |
-| 750 | 69 | T-Dogger |
-| 751 | 68 | Raising Stars |
-| 752 | 68 | Paula Renee McCracken |
-| 753 | 68 | Poptart |
-| 754 | 68 | Keys Tome |
-| 755 | 68 | Celina DiBastiani |
+| 748 | 69 | T-Dogger |
+| 749 | 69 | Jennifer Evans Elliott |
+| 750 | 69 | ŁųŁų |
+| 751 | 68 | Paula Renee McCracken |
+| 752 | 68 | Poptart |
+| 753 | 68 | Celina DiBastiani |
+| 754 | 68 | Raising Stars |
+| 755 | 68 | Keys Tome |
 | 756 | 68 | Bigmamalizzet Latto |
-| 757 | 67 | Yournightmare |
-| 758 | 67 | Ashley DuVall |
-| 759 | 67 | Wacky Snaplink |
-| 760 | 67 | Kimberly Ann |
-| 761 | 67 | Michael Cruz |
-| 762 | 67 | SueSally |
-| 763 | 67 | Tony Clark |
+| 757 | 67 | Glittara |
+| 758 | 67 | Andy Petersen |
+| 759 | 67 | Michael Cruz |
+| 760 | 67 | Yournightmare |
+| 761 | 67 | Wacky Snaplink |
+| 762 | 67 | Ashley DuVall |
+| 763 | 67 | Kimberly Ann |
 | 764 | 67 | Playful Raccoon |
-| 765 | 67 | Andy Petersen |
-| 766 | 67 | Glittara |
-| 767 | 66 | james |
-| 768 | 66 | Scarlett Ashley Clark |
-| 769 | 66 | Leslie |
-| 770 | 66 | Jennifer Brucz |
+| 765 | 67 | Tony Clark |
+| 766 | 67 | SueSally |
+| 767 | 66 | Jennifer Brucz |
+| 768 | 66 | Jeni |
+| 769 | 66 | Scarlett Ashley Clark |
+| 770 | 66 | james |
 | 771 | 66 | Joyce Hampton |
-| 772 | 65 | Gabby Simones |
-| 773 | 65 | Pap337 |
-| 774 | 65 | Dinah Mccall |
-| 775 | 65 | Genger |
+| 772 | 66 | Leslie |
+| 773 | 65 | Lacie Powers |
+| 774 | 65 | Genger |
+| 775 | 65 | Dinah Mccall |
 | 776 | 65 | Yvette Johnson |
-| 777 | 65 | Lacie Powers |
-| 778 | 65 | Rocky |
-| 779 | 65 | Youngkueen |
-| 780 | 64 | MamaC |
-| 781 | 64 | Tod Jae |
-| 782 | 64 | JuicyJay |
-| 783 | 64 | Daring Brickbuilder |
-| 784 | 64 | Brittany |
-| 785 | 64 | Giggy Bridgepiece |
-| 786 | 64 | Daffney Starr |
-| 787 | 63 | Renzo Tonini |
-| 788 | 63 | Maria Munoz |
-| 789 | 63 | Miguel Teixeira |
-| 790 | 63 | ButterfliesRFree |
-| 791 | 63 | Brenda Mueller |
-| 792 | 63 | Poppy |
-| 793 | 63 | Nachos |
-| 794 | 63 | Phredda Helene Gavornik |
-| 795 | 63 | Amber Jalbert |
-| 796 | 63 | Shirley A. Godfrey |
-| 797 | 63 | Ashley Ferguson |
-| 798 | 63 | Jeni |
-| 799 | 63 | Tiffany Brooke |
-| 800 | 63 | Cassie N Danica Flaherty |
+| 777 | 65 | Rocky |
+| 778 | 65 | Pap337 |
+| 779 | 65 | Gabby Simones |
+| 780 | 65 | Youngkueen |
+| 781 | 64 | JuicyJay |
+| 782 | 64 | Daffney Starr |
+| 783 | 64 | MamaC |
+| 784 | 64 | Tod Jae |
+| 785 | 64 | Daring Brickbuilder |
+| 786 | 64 | Giggy Bridgepiece |
+| 787 | 64 | Brittany |
+| 788 | 63 | Poppy |
+| 789 | 63 | Brenda Mueller |
+| 790 | 63 | Nachos |
+| 791 | 63 | Renzo Tonini |
+| 792 | 63 | Maria Munoz |
+| 793 | 63 | ButterfliesRFree |
+| 794 | 63 | Miguel Teixeira |
+| 795 | 63 | Cassie N Danica Flaherty |
+| 796 | 63 | Tiffany Brooke |
+| 797 | 63 | Phredda Helene Gavornik |
+| 798 | 63 | Shirley A. Godfrey |
+| 799 | 63 | MattJennifer Marie Ericson |
+| 800 | 63 | JP |
 | 801 | 63 | Lush Twisterfit |
-| 802 | 63 | MattJennifer Marie Ericson |
-| 803 | 63 | JP |
-| 804 | 62 | Weird Cat |
-| 805 | 62 | ShaniP |
-| 806 | 62 | Lush Match |
-| 807 | 62 | Joshua Franklin |
-| 808 | 62 | Leslie Ramos |
-| 809 | 61 | Heidi Lyn Ramirez |
-| 810 | 61 | Joe Win |
-| 811 | 61 | Kimberly Lusk |
-| 812 | 61 | Elisha Thompson |
-| 813 | 61 | Charles Chauffe |
-| 814 | 61 | Maicy Darrah |
-| 815 | 61 | Danielle Sulano |
-| 816 | 61 | Certified Da Don |
-| 817 | 61 | Luunii |
-| 818 | 61 | Snappy Fill |
-| 819 | 60 | Charissa W Walton |
+| 802 | 63 | Ashley Ferguson |
+| 803 | 63 | Amber Jalbert |
+| 804 | 62 | ShaniP |
+| 805 | 62 | Weird Cat |
+| 806 | 62 | Joshua Franklin |
+| 807 | 62 | Leslie Ramos |
+| 808 | 62 | Lush Match |
+| 809 | 61 | Danielle Sulano |
+| 810 | 61 | Heidi Lyn Ramirez |
+| 811 | 61 | Elisha Thompson |
+| 812 | 61 | Kimberly Lusk |
+| 813 | 61 | Joe Win |
+| 814 | 61 | Charles Chauffe |
+| 815 | 61 | Snappy Fill |
+| 816 | 61 | Luunii |
+| 817 | 61 | Certified Da Don |
+| 818 | 61 | Maicy Darrah |
+| 819 | 60 | Chris Somsen |
 | 820 | 60 | Lemus |
-| 821 | 60 | BethB |
-| 822 | 60 | Justin Janachovsky |
-| 823 | 60 | Elizabeth Putansu |
-| 824 | 60 | Chris Rowe |
-| 825 | 60 | Uh Lesh Uh |
-| 826 | 60 | Kristine Hj Han |
-| 827 | 60 | Anthony Magaraci |
-| 828 | 60 | Kena T. Tanner |
-| 829 | 60 | Saucy Matchfit |
-| 830 | 60 | Brett |
-| 831 | 60 | Koren Heersink |
-| 832 | 60 | Chris Somsen |
-| 833 | 60 | Jessica Kelly |
-| 834 | 60 | Bumpy Morris |
-| 835 | 60 | Freddy-B |
-| 836 | 60 | Jasmine Griffin |
-| 837 | 60 | Gualberto Ramirez |
-| 838 | 60 | Lizard |
-| 839 | 60 | Tiffy |
-| 840 | 60 | Jimmy Clark |
+| 821 | 60 | Charissa W Walton |
+| 822 | 60 | BethB |
+| 823 | 60 | Kristine Hj Han |
+| 824 | 60 | Jimmy Clark |
+| 825 | 60 | Tiffy |
+| 826 | 60 | Lizard |
+| 827 | 60 | Gualberto Ramirez |
+| 828 | 60 | Uh Lesh Uh |
+| 829 | 60 | Chris Rowe |
+| 830 | 60 | Elizabeth Putansu |
+| 831 | 60 | Justin Janachovsky |
+| 832 | 60 | Koren Heersink |
+| 833 | 60 | Anthony Magaraci |
+| 834 | 60 | Kena T. Tanner |
+| 835 | 60 | Brett |
+| 836 | 60 | Freddy-B |
+| 837 | 60 | Saucy Matchfit |
+| 838 | 60 | Jasmine Griffin |
+| 839 | 60 | Bumpy Morris |
+| 840 | 60 | Jessica Kelly |
 | 841 | 59 | Beezy |
 | 842 | 59 | Miranda Brown |
-| 843 | 59 | Lovely |
-| 844 | 59 | Blessedmama |
-| 845 | 59 | Jonathan Jackson |
-| 846 | 59 | Sarah |
+| 843 | 59 | Sarah |
+| 844 | 59 | Lovely |
+| 845 | 59 | Blessedmama |
+| 846 | 59 | Jonathan Jackson |
 | 847 | 59 | Daniel Lossman |
 | 848 | 59 | Sandy Daye |
 | 849 | 59 | Anthony Kollar |

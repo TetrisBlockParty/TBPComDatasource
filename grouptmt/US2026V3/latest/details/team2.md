@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 19:18:19 UTC
+# Standings for team2 as of 2026-06-07 19:18:40 UTC
 
 **Total Participants:** 1867
 
@@ -1255,46 +1255,46 @@
 | 1247 | 37 | Dizzy Gridder |
 | 1248 | 37 | Jenifer Gasho |
 | 1249 | 37 | Shelby Lynn May |
-| 1250 | 37 | Jessica Nightshade Hansuld |
-| 1251 | 36 | Jen |
-| 1252 | 36 | Jstang |
-| 1253 | 36 | Jessi Ann |
-| 1254 | 36 | October Fitch |
-| 1255 | 36 | Megan McDevitt |
-| 1256 | 36 | Yany |
-| 1257 | 36 | Deborah Lint Odom |
-| 1258 | 36 | Deanna Mc |
-| 1259 | 36 | James Brown |
-| 1260 | 36 | Amanda Stanley |
-| 1261 | 36 | Eugene Clawson |
-| 1262 | 36 | Brian Karr |
-| 1263 | 36 | Bobbie Carrol |
-| 1264 | 36 | Christina Hanson |
-| 1265 | 36 | Chilly Fall |
-| 1266 | 36 | Witty Clearbuilder |
-| 1267 | 36 | Audrey Phillips |
-| 1268 | 36 | Rey Huber |
-| 1269 | 36 | Slinky Linkgrid |
-| 1270 | 36 | Cammy Riley |
-| 1271 | 36 | Brandon Ray Holt |
-| 1272 | 35 | Bubbly Risebuilder |
-| 1273 | 35 | Michele Choate |
-| 1274 | 35 | Isiwin |
-| 1275 | 35 | Signerlisa |
-| 1276 | 35 | Fran Gerebics |
-| 1277 | 35 | Amanda |
-| 1278 | 35 | Michelle |
-| 1279 | 35 | Dandy Wiper |
-| 1280 | 35 | Snazzy Clusterfit |
-| 1281 | 35 | Jessica Jones |
-| 1282 | 35 | Nerdy Base |
-| 1283 | 35 | Kandy Comer |
-| 1284 | 35 | Jacy Pickett |
-| 1285 | 35 | Chris Wilber |
-| 1286 | 35 | Wacky Curve |
-| 1287 | 35 | Squirrel |
-| 1288 | 35 | RaeRae |
-| 1289 | 34 | BoxerMom |
+| 1250 | 37 | BoxerMom |
+| 1251 | 37 | Jessica Nightshade Hansuld |
+| 1252 | 36 | Jen |
+| 1253 | 36 | Jstang |
+| 1254 | 36 | Jessi Ann |
+| 1255 | 36 | October Fitch |
+| 1256 | 36 | Megan McDevitt |
+| 1257 | 36 | Yany |
+| 1258 | 36 | Deborah Lint Odom |
+| 1259 | 36 | Deanna Mc |
+| 1260 | 36 | James Brown |
+| 1261 | 36 | Amanda Stanley |
+| 1262 | 36 | Eugene Clawson |
+| 1263 | 36 | Brian Karr |
+| 1264 | 36 | Bobbie Carrol |
+| 1265 | 36 | Christina Hanson |
+| 1266 | 36 | Chilly Fall |
+| 1267 | 36 | Witty Clearbuilder |
+| 1268 | 36 | Audrey Phillips |
+| 1269 | 36 | Rey Huber |
+| 1270 | 36 | Slinky Linkgrid |
+| 1271 | 36 | Cammy Riley |
+| 1272 | 36 | Brandon Ray Holt |
+| 1273 | 35 | Bubbly Risebuilder |
+| 1274 | 35 | Michele Choate |
+| 1275 | 35 | Isiwin |
+| 1276 | 35 | Signerlisa |
+| 1277 | 35 | Fran Gerebics |
+| 1278 | 35 | Amanda |
+| 1279 | 35 | Michelle |
+| 1280 | 35 | Dandy Wiper |
+| 1281 | 35 | Snazzy Clusterfit |
+| 1282 | 35 | Jessica Jones |
+| 1283 | 35 | Nerdy Base |
+| 1284 | 35 | Kandy Comer |
+| 1285 | 35 | Jacy Pickett |
+| 1286 | 35 | Chris Wilber |
+| 1287 | 35 | Wacky Curve |
+| 1288 | 35 | Squirrel |
+| 1289 | 35 | RaeRae |
 | 1290 | 34 | Julie Brown |
 | 1291 | 34 | Peyton Groce |
 | 1292 | 34 | Twisty Snapmatch |

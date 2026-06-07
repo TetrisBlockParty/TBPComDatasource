@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 19:18:19 UTC
+# Standings for team1 as of 2026-06-07 19:18:40 UTC
 
 **Total Participants:** 1548
 
@@ -762,36 +762,36 @@
 | 754 | 68 | Nikiya |
 | 755 | 67 | Sarah Barnum |
 | 756 | 67 | LexiiSamayaa |
-| 757 | 67 | Sharon Lynn |
+| 757 | 67 | Raquel Ortiz |
 | 758 | 67 | Nikkizz |
-| 759 | 67 | Michele Elizabeth McKay-Johnson |
-| 760 | 66 | Mami Badd |
-| 761 | 66 | Sylvia Offically A Mcgowan |
-| 762 | 66 | Letrishia Andrews |
-| 763 | 66 | Terrie |
-| 764 | 66 | Seirra Robinson |
-| 765 | 66 | Meepycat |
-| 766 | 66 | GracefulOwl808 |
-| 767 | 66 | Paul Doty |
-| 768 | 66 | Raquele Hines |
+| 759 | 67 | Sharon Lynn |
+| 760 | 67 | Michele Elizabeth McKay-Johnson |
+| 761 | 66 | Mami Badd |
+| 762 | 66 | Sylvia Offically A Mcgowan |
+| 763 | 66 | Letrishia Andrews |
+| 764 | 66 | Terrie |
+| 765 | 66 | Seirra Robinson |
+| 766 | 66 | Meepycat |
+| 767 | 66 | GracefulOwl808 |
+| 768 | 66 | Paul Doty |
 | 769 | 66 | Meluhnee |
-| 770 | 65 | Rande Smith |
-| 771 | 65 | Furlough Leslie |
-| 772 | 65 | Tesiree Cray |
-| 773 | 65 | LAdYPOLy |
-| 774 | 65 | Renee J. Thomas |
-| 775 | 65 | Raquel Ortiz |
-| 776 | 65 | Vonda House |
-| 777 | 65 | Trixie |
-| 778 | 64 | Elaine Youmans |
-| 779 | 64 | Jumpy Gridlock |
-| 780 | 64 | Marbama |
-| 781 | 64 | Vannie G |
+| 770 | 66 | Raquele Hines |
+| 771 | 65 | Rande Smith |
+| 772 | 65 | Trixie |
+| 773 | 65 | Vonda House |
+| 774 | 65 | Furlough Leslie |
+| 775 | 65 | Renee J. Thomas |
+| 776 | 65 | LAdYPOLy |
+| 777 | 65 | Tesiree Cray |
+| 778 | 64 | Vannie G |
+| 779 | 64 | Elaine Youmans |
+| 780 | 64 | Jumpy Gridlock |
+| 781 | 64 | Marbama |
 | 782 | 64 | Tomme Poliwka |
-| 783 | 63 | Gary Kyle |
+| 783 | 63 | Ounquan Wright |
 | 784 | 63 | Ahsokadog |
-| 785 | 63 | Tip318 |
-| 786 | 63 | Ounquan Wright |
+| 785 | 63 | Gary Kyle |
+| 786 | 63 | Tip318 |
 | 787 | 63 | Poppy Smasher |
 | 788 | 63 | Tony P Burke |
 | 789 | 63 | Heather Wilson |
