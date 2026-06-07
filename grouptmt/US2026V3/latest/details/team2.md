@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 18:28:19 UTC
+# Standings for team2 as of 2026-06-07 18:28:40 UTC
 
 **Total Participants:** 1849
 
@@ -83,11 +83,11 @@
 | 75 | 1142 | Giddy Slamdrop |
 | 76 | 1140 | Mikki Torres |
 | 77 | 1115 | Eileen Egan |
-| 78 | 1083 | Jayke Edward |
-| 79 | 1072 | Kvothe |
-| 80 | 1070 | Michelle Maulsby |
-| 81 | 1062 | Lisa Breiding |
-| 82 | 1059 | Beverly Lynn Mills |
+| 78 | 1099 | Beverly Lynn Mills |
+| 79 | 1083 | Jayke Edward |
+| 80 | 1072 | Kvothe |
+| 81 | 1070 | Michelle Maulsby |
+| 82 | 1062 | Lisa Breiding |
 | 83 | 1020 | Ruby Sandberg |
 | 84 | 1011 | Criccett Hooper-Smith |
 | 85 | 1000 | LEW |
