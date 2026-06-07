@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 07:54:19 UTC
+# Standings for team1 as of 2026-06-07 07:54:42 UTC
 
 **Total Participants:** 1420
 
@@ -471,92 +471,92 @@
 | 463 | 90 | Shameka Tiffany |
 | 464 | 90 | Lilly Brown |
 | 465 | 90 | Nora Mahmoud |
-| 466 | 90 | crumb bumc |
-| 467 | 90 | Jjhandsome |
-| 468 | 90 | CJ Robinson |
-| 469 | 90 | Yashica Smith |
-| 470 | 89 | Cynthia Cruell |
+| 466 | 90 | Yashica Smith |
+| 467 | 90 | CJ Robinson |
+| 468 | 90 | Jjhandsome |
+| 469 | 90 | crumb bumc |
+| 470 | 89 | Jenni Hardman |
 | 471 | 89 | Zany Breaker |
 | 472 | 89 | LuckyStar |
-| 473 | 89 | Jenni Hardman |
-| 474 | 88 | Soubletzy |
-| 475 | 88 | 大竹直之 |
-| 476 | 88 | Brenda Malachi-butler |
-| 477 | 88 | Wacky Stackbuilder |
-| 478 | 87 | Natalie Burroughs |
-| 479 | 87 | Holly Baker |
-| 480 | 87 | Chummy Frame |
-| 481 | 87 | Cachet A Ward |
-| 482 | 86 | whatever |
+| 473 | 89 | Cynthia Cruell |
+| 474 | 88 | Wacky Stackbuilder |
+| 475 | 88 | Soubletzy |
+| 476 | 88 | 大竹直之 |
+| 477 | 88 | Brenda Malachi-butler |
+| 478 | 87 | Cachet A Ward |
+| 479 | 87 | Natalie Burroughs |
+| 480 | 87 | Holly Baker |
+| 481 | 87 | Chummy Frame |
+| 482 | 86 | krd |
 | 483 | 86 | Giggly Tiltbuilder |
-| 484 | 86 | Cm |
-| 485 | 86 | Messy Live |
-| 486 | 86 | Melissa Olvera |
-| 487 | 86 | Tweet Turner |
-| 488 | 86 | Marie Wilson |
-| 489 | 86 | Kendra McIntyre |
-| 490 | 86 | Donna Payne |
-| 491 | 86 | krd |
-| 492 | 85 | Sonia Binti Mfalme |
-| 493 | 85 | DaemahnFriday |
+| 484 | 86 | Messy Live |
+| 485 | 86 | whatever |
+| 486 | 86 | Cm |
+| 487 | 86 | Melissa Olvera |
+| 488 | 86 | Tweet Turner |
+| 489 | 86 | Marie Wilson |
+| 490 | 86 | Kendra McIntyre |
+| 491 | 86 | Donna Payne |
+| 492 | 85 | Amy Villalpando |
+| 493 | 85 | Eric Machuca |
 | 494 | 85 | De'Mear McKinney |
-| 495 | 85 | Jae Thompson-Tyus |
-| 496 | 85 | Eric Machuca |
-| 497 | 85 | Hardtohandle91 |
-| 498 | 85 | Sarah Swietlicki - Lopez |
-| 499 | 85 | TotoCherue |
-| 500 | 85 | Amy Villalpando |
-| 501 | 84 | Angela Brown Babin |
-| 502 | 84 | Franklin Sotelo |
-| 503 | 84 | Dawn Basemore |
-| 504 | 84 | Zippy Tilefall |
-| 505 | 84 | Just2Play$ |
-| 506 | 84 | Zappy Snapgrid |
-| 507 | 83 | Jackytrain52 |
-| 508 | 83 | Sandra Mims |
-| 509 | 83 | MrsMeadows2019 |
-| 510 | 83 | Victor |
-| 511 | 83 | Kimberly Anderson |
+| 495 | 85 | DaemahnFriday |
+| 496 | 85 | TotoCherue |
+| 497 | 85 | Jae Thompson-Tyus |
+| 498 | 85 | Sonia Binti Mfalme |
+| 499 | 85 | Hardtohandle91 |
+| 500 | 85 | Sarah Swietlicki - Lopez |
+| 501 | 84 | Zappy Snapgrid |
+| 502 | 84 | Zippy Tilefall |
+| 503 | 84 | Angela Brown Babin |
+| 504 | 84 | Dawn Basemore |
+| 505 | 84 | Franklin Sotelo |
+| 506 | 84 | Just2Play$ |
+| 507 | 83 | Sandra Mims |
+| 508 | 83 | Kimberly Anderson |
+| 509 | 83 | Victor |
+| 510 | 83 | Jackytrain52 |
+| 511 | 83 | MrsMeadows2019 |
 | 512 | 83 | Daring Riserfit |
-| 513 | 82 | Happy Blockpiece |
-| 514 | 82 | Yadira Salgado |
-| 515 | 82 | Shakuria Cortia Burney |
-| 516 | 82 | Johnathan Deese |
-| 517 | 82 | Rufus |
-| 518 | 82 | Jes Marie |
-| 519 | 81 | Lynn |
-| 520 | 81 | Crystal Cheresnowsky |
+| 513 | 82 | Shakuria Cortia Burney |
+| 514 | 82 | Jes Marie |
+| 515 | 82 | Happy Blockpiece |
+| 516 | 82 | Rufus |
+| 517 | 82 | Yadira Salgado |
+| 518 | 82 | Johnathan Deese |
+| 519 | 81 | Crystal Cheresnowsky |
+| 520 | 81 | Lynn |
 | 521 | 81 | Logan Frost |
-| 522 | 80 | Big Bovice |
-| 523 | 80 | Kimberly Noble |
-| 524 | 80 | Latore Maxie |
-| 525 | 80 | NedaWin |
-| 526 | 80 | Lady Scorpio |
-| 527 | 80 | Rebecca Jackson |
-| 528 | 80 | Lester Malone |
-| 529 | 80 | Giggy Edgefit |
-| 530 | 80 | Tracey Johnson |
-| 531 | 80 | Lisa420 |
-| 532 | 80 | Gerold Folk Haddock |
+| 522 | 80 | Nyhlah Patterson |
+| 523 | 80 | Latore Maxie |
+| 524 | 80 | Tracey Johnson |
+| 525 | 80 | Gerold Folk Haddock |
+| 526 | 80 | Kamilya Rembert |
+| 527 | 80 | Kimberly Noble |
+| 528 | 80 | Christopher L Crites |
+| 529 | 80 | Chevalier Burley |
+| 530 | 80 | Charles Johnson |
+| 531 | 80 | Lester Malone |
+| 532 | 80 | Cynthia Bradley |
 | 533 | 80 | Spicy Shatterblock |
-| 534 | 80 | Kamilya Rembert |
-| 535 | 80 | Kp |
-| 536 | 80 | Nyhlah Patterson |
-| 537 | 80 | Cynthia Bradley |
-| 538 | 80 | Christopher L Crites |
-| 539 | 80 | Li-Li Ratliff |
-| 540 | 80 | Charles Johnson |
-| 541 | 80 | Chevalier Burley |
-| 542 | 79 | Nerdy Climber |
-| 543 | 79 | Douglas Price |
-| 544 | 79 | Montréal Mars |
+| 534 | 80 | Lisa420 |
+| 535 | 80 | Giggy Edgefit |
+| 536 | 80 | Rebecca Jackson |
+| 537 | 80 | Li-Li Ratliff |
+| 538 | 80 | NedaWin |
+| 539 | 80 | Lady Scorpio |
+| 540 | 80 | Kp |
+| 541 | 80 | Big Bovice |
+| 542 | 79 | Bobby Chestefield |
+| 543 | 79 | Montréal Mars |
+| 544 | 79 | Douglas Price |
 | 545 | 79 | Tracy Feyler |
-| 546 | 78 | Claudia Price |
-| 547 | 78 | KeeKee Williams |
-| 548 | 78 | Bobby Chestefield |
-| 549 | 78 | Azeiare Ziare |
-| 550 | 78 | Solomon Valarie |
-| 551 | 78 | Smiley3000 |
+| 546 | 79 | Nerdy Climber |
+| 547 | 78 | Claudia Price |
+| 548 | 78 | Smiley3000 |
+| 549 | 78 | KeeKee Williams |
+| 550 | 78 | Azeiare Ziare |
+| 551 | 78 | Solomon Valarie |
 | 552 | 78 | Ryan Runyan |
 | 553 | 77 | Dana Hawes |
 | 554 | 76 | Essence Jones |

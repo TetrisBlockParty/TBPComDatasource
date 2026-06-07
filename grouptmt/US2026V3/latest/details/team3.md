@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-07 07:54:19 UTC
+# Standings for team3 as of 2026-06-07 07:54:42 UTC
 
 **Total Participants:** 5337
 
@@ -4099,90 +4099,90 @@
 | 4091 | 25 | Geoff Clevenger |
 | 4092 | 25 | Rocky San Miguel |
 | 4093 | 25 | Jose Rosado |
-| 4094 | 25 | Shiny Slider |
-| 4095 | 25 | Zappy Brickroll |
-| 4096 | 25 | Pam Shepley |
-| 4097 | 25 | Danielle Franco |
-| 4098 | 25 | phrmblk24 |
-| 4099 | 25 | Spicy Tiger |
-| 4100 | 25 | OC EA NE |
-| 4101 | 25 | Baretta Scott |
-| 4102 | 25 | Sara Alvarado |
-| 4103 | 25 | Giggly Splitter |
-| 4104 | 25 | OscarTheCouch |
-| 4105 | 25 | Tanganyika Morley |
-| 4106 | 25 | Brett Frasier |
-| 4107 | 25 | Lenora |
-| 4108 | 25 | Brook Pullam |
-| 4109 | 25 | Clint Tasso |
-| 4110 | 25 | Darlene Smallfence |
-| 4111 | 25 | Wazz000 |
-| 4112 | 25 | Jstafool |
-| 4113 | 25 | Cathleen Taylor |
-| 4114 | 25 | Throneberry |
-| 4115 | 25 | Hasty Fill |
-| 4116 | 25 | Javari Green |
+| 4094 | 25 | Cheeky Linefit |
+| 4095 | 25 | Shiny Slider |
+| 4096 | 25 | Tanganyika Morley |
+| 4097 | 25 | Pam Shepley |
+| 4098 | 25 | Zappy Brickroll |
+| 4099 | 25 | Danielle Franco |
+| 4100 | 25 | phrmblk24 |
+| 4101 | 25 | Spicy Tiger |
+| 4102 | 25 | Giggly Splitter |
+| 4103 | 25 | OC EA NE |
+| 4104 | 25 | Baretta Scott |
+| 4105 | 25 | Sara Alvarado |
+| 4106 | 25 | OscarTheCouch |
+| 4107 | 25 | Brett Frasier |
+| 4108 | 25 | Lenora |
+| 4109 | 25 | ErsieD |
+| 4110 | 25 | Hasty Fill |
+| 4111 | 25 | Darlene Smallfence |
+| 4112 | 25 | Wazz000 |
+| 4113 | 25 | Flashy Clusterline |
+| 4114 | 25 | Jstafool |
+| 4115 | 25 | Cathleen Taylor |
+| 4116 | 25 | Throneberry |
 | 4117 | 25 | Elizabeth Olvera |
-| 4118 | 25 | Flashy Clusterline |
-| 4119 | 25 | ErsieD |
-| 4120 | 25 | Da'Shamika |
-| 4121 | 24 | Groovy Slam |
-| 4122 | 24 | Dilli |
-| 4123 | 24 | David Berry |
-| 4124 | 24 | Blake Gee |
-| 4125 | 24 | Tara Stone |
-| 4126 | 24 | Deead |
-| 4127 | 24 | Joe Nichols |
-| 4128 | 24 | Sara Knapp |
-| 4129 | 24 | Kara Melfi |
-| 4130 | 24 | Nicole Konsoer |
-| 4131 | 24 | ciscokid81 |
-| 4132 | 24 | Empress |
-| 4133 | 24 | Tracy Honings |
-| 4134 | 24 | THESOPH |
-| 4135 | 24 | Lori |
-| 4136 | 24 | DeAziah Bird |
-| 4137 | 24 | grammy |
-| 4138 | 24 | Sue |
+| 4118 | 25 | Javari Green |
+| 4119 | 25 | Brook Pullam |
+| 4120 | 25 | Clint Tasso |
+| 4121 | 25 | Da'Shamika |
+| 4122 | 24 | Groovy Slam |
+| 4123 | 24 | Dilli |
+| 4124 | 24 | David Berry |
+| 4125 | 24 | Blake Gee |
+| 4126 | 24 | Tara Stone |
+| 4127 | 24 | Deead |
+| 4128 | 24 | Joe Nichols |
+| 4129 | 24 | Sara Knapp |
+| 4130 | 24 | Kara Melfi |
+| 4131 | 24 | Nicole Konsoer |
+| 4132 | 24 | ciscokid81 |
+| 4133 | 24 | Empress |
+| 4134 | 24 | Tracy Honings |
+| 4135 | 24 | THESOPH |
+| 4136 | 24 | Lori |
+| 4137 | 24 | DeAziah Bird |
+| 4138 | 24 | grammy |
 | 4139 | 24 | Meisha Eng |
-| 4140 | 24 | Noneya |
-| 4141 | 24 | manda |
-| 4142 | 24 | Noah Sky |
+| 4140 | 24 | Casey Dusher |
+| 4141 | 24 | Gina Annese |
+| 4142 | 24 | manda |
 | 4143 | 24 | Lea Wiersema |
-| 4144 | 24 | juju |
-| 4145 | 24 | Casey Dusher |
-| 4146 | 24 | Gina Annese |
-| 4147 | 24 | Goofy Pivoty |
-| 4148 | 24 | Danielle Cooper |
-| 4149 | 24 | Anchorgirl |
-| 4150 | 24 | Raven Castille |
-| 4151 | 24 | Helen Andrea Marroquin Jerez |
-| 4152 | 24 | Roadrunner |
-| 4153 | 24 | Kevin Ned |
-| 4154 | 24 | Mae WalkbyFaith McClain |
-| 4155 | 24 | Chaucy |
-| 4156 | 24 | Hasty Zigzag |
-| 4157 | 24 | Shaniqua Jones |
-| 4158 | 24 | Paige Williamson |
+| 4144 | 24 | Noneya |
+| 4145 | 24 | Raven Castille |
+| 4146 | 24 | juju |
+| 4147 | 24 | Anchorgirl |
+| 4148 | 24 | Noah Sky |
+| 4149 | 24 | Goofy Pivoty |
+| 4150 | 24 | Danielle Cooper |
+| 4151 | 24 | Sue |
+| 4152 | 24 | Mae WalkbyFaith McClain |
+| 4153 | 24 | Chaucy |
+| 4154 | 24 | Hasty Zigzag |
+| 4155 | 24 | Shaniqua Jones |
+| 4156 | 24 | Kevin Ned |
+| 4157 | 24 | Paige Williamson |
+| 4158 | 24 | Angela Wilson |
 | 4159 | 24 | Dizzy Snaplink |
-| 4160 | 24 | Ceiarra Lovemesomeme |
-| 4161 | 24 | Tanesha James |
-| 4162 | 24 | Angela Wilson |
-| 4163 | 23 | Casey Ruckel |
-| 4164 | 23 | Mandi Connley |
-| 4165 | 23 | Maria Angel Bedell-Face |
-| 4166 | 23 | Lynn4DaWin |
-| 4167 | 23 | Poppy Towerzone |
-| 4168 | 23 | Amanda Hubbard |
+| 4160 | 24 | Tanesha James |
+| 4161 | 24 | Roadrunner |
+| 4162 | 24 | Ceiarra Lovemesomeme |
+| 4163 | 24 | Helen Andrea Marroquin Jerez |
+| 4164 | 23 | Emily |
+| 4165 | 23 | Melsia Hunter |
+| 4166 | 23 | Piansakd Mukkyaprasert |
+| 4167 | 23 | Dizzy |
+| 4168 | 23 | Jennifer Meadows |
 | 4169 | 23 | HovisPain |
-| 4170 | 23 | Jennifer Meadows |
-| 4171 | 23 | Christopher Mills |
-| 4172 | 23 | Melsia Hunter |
-| 4173 | 23 | Kristy Farley |
-| 4174 | 23 | Emily |
-| 4175 | 23 | Piansakd Mukkyaprasert |
-| 4176 | 23 | Cheeky Linefit |
-| 4177 | 23 | Dizzy |
+| 4170 | 23 | Poppy Towerzone |
+| 4171 | 23 | Amanda Hubbard |
+| 4172 | 23 | Casey Ruckel |
+| 4173 | 23 | Mandi Connley |
+| 4174 | 23 | Maria Angel Bedell-Face |
+| 4175 | 23 | Lynn4DaWin |
+| 4176 | 23 | Christopher Mills |
+| 4177 | 23 | Kristy Farley |
 | 4178 | 23 | Swanky Snapbuilder |
 | 4179 | 23 | CaseiHope |
 | 4180 | 23 | Mass Josh |

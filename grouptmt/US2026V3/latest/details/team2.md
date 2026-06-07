@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 07:54:19 UTC
+# Standings for team2 as of 2026-06-07 07:54:42 UTC
 
 **Total Participants:** 1674
 
@@ -386,14 +386,14 @@
 | 378 | 140 | Alicia Kinney |
 | 379 | 140 | Teddy Williams |
 | 380 | 139 | Charles E Mccardell |
-| 381 | 139 | rebel4lyfe |
+| 381 | 139 | Sassy Twistbuilder |
 | 382 | 139 | Gabrielle Wilson |
-| 383 | 138 | James Sayers |
-| 384 | 138 | Amber Smith |
-| 385 | 138 | NickandJess Reynolds |
-| 386 | 137 | Ashley Voelz |
-| 387 | 137 | Sandra Belk |
-| 388 | 137 | Sassy Twistbuilder |
+| 383 | 139 | rebel4lyfe |
+| 384 | 138 | James Sayers |
+| 385 | 138 | Amber Smith |
+| 386 | 138 | NickandJess Reynolds |
+| 387 | 137 | Ashley Voelz |
+| 388 | 137 | Sandra Belk |
 | 389 | 136 | Jumpy Dashpiece |
 | 390 | 136 | Lauren Maxwell |
 | 391 | 136 | Mtnblzr |
