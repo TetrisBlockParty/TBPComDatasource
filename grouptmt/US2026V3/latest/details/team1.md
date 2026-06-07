@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:42:40 UTC
+# Standings for team1 as of 2026-06-07 08:43:18 UTC
 
 **Total Participants:** 1428
 
@@ -433,44 +433,44 @@
 | 425 | 100 | Kennedi Brazziel |
 | 426 | 100 | Oldheads |
 | 427 | 100 | Natasha Rucker |
-| 428 | 100 | Seddrick |
-| 429 | 100 | Kesha Brady |
-| 430 | 100 | Cornelius Neal |
-| 431 | 99 | Mahagony Small |
-| 432 | 99 | Travis Davison |
-| 433 | 99 | Ciera Peace |
+| 428 | 100 | Kesha Brady |
+| 429 | 100 | Cornelius Neal |
+| 430 | 100 | Seddrick |
+| 431 | 99 | Travis Davison |
+| 432 | 99 | Ciera Peace |
+| 433 | 99 | Mahagony Small |
 | 434 | 99 | ChunLi |
 | 435 | 99 | SeanSanchez |
 | 436 | 98 | Shannon Carriger |
 | 437 | 98 | Dorian Griffin |
 | 438 | 98 | Michael Smith |
 | 439 | 98 | Sharee Robinson |
-| 440 | 97 | Erin Sabol |
-| 441 | 97 | NewEve |
-| 442 | 97 | Kristie |
-| 443 | 97 | Nichole Horsley-Conn |
-| 444 | 97 | Twisty Cascadeclear |
-| 445 | 97 | Shanell Thomas |
+| 440 | 97 | Nichole Horsley-Conn |
+| 441 | 97 | Erin Sabol |
+| 442 | 97 | Twisty Cascadeclear |
+| 443 | 97 | La'Chae Nickole |
+| 444 | 97 | NewEve |
+| 445 | 97 | Kristie |
 | 446 | 97 | Lootch |
-| 447 | 96 | Yazz |
-| 448 | 96 | Sherri Keys |
-| 449 | 95 | Stephen Glaze |
-| 450 | 95 | Shiny Lift |
-| 451 | 95 | Jelyfish |
+| 447 | 97 | Shanell Thomas |
+| 448 | 96 | Yazz |
+| 449 | 96 | Sherri Keys |
+| 450 | 95 | Stephen Glaze |
+| 451 | 95 | Shiny Lift |
 | 452 | 95 | Anthony |
-| 453 | 94 | Derald Miller |
-| 454 | 94 | Ta'Kaiyah M. Spann |
-| 455 | 94 | Slinky Brickmatch |
-| 456 | 93 | Chino Baby |
-| 457 | 93 | Kimberly Susan Privette |
-| 458 | 93 | Anastasia |
-| 459 | 93 | C Lo Green |
+| 453 | 95 | Jelyfish |
+| 454 | 94 | Slinky Brickmatch |
+| 455 | 94 | Ta'Kaiyah M. Spann |
+| 456 | 94 | Derald Miller |
+| 457 | 93 | FunTime |
+| 458 | 93 | Kimberly Susan Privette |
+| 459 | 93 | Chino Baby |
 | 460 | 93 | Rene Hicks |
 | 461 | 93 | Kate Hancock Malicek |
-| 462 | 93 | FunTime |
+| 462 | 93 | Anastasia |
 | 463 | 93 | Lucy |
-| 464 | 92 | Pretty Yella |
-| 465 | 92 | La'Chae Nickole |
+| 464 | 93 | C Lo Green |
+| 465 | 92 | Pretty Yella |
 | 466 | 91 | Aaron Hartmann |
 | 467 | 91 | David A Alvino |
 | 468 | 90 | Nora Mahmoud |
@@ -480,9 +480,9 @@
 | 472 | 90 | Lilly Brown |
 | 473 | 90 | Yashica Smith |
 | 474 | 90 | Shameka Tiffany |
-| 475 | 89 | LuckyStar |
+| 475 | 89 | Cynthia Cruell |
 | 476 | 89 | Zany Breaker |
-| 477 | 89 | Cynthia Cruell |
+| 477 | 89 | LuckyStar |
 | 478 | 89 | Jenni Hardman |
 | 479 | 88 | 大竹直之 |
 | 480 | 88 | Soubletzy |
