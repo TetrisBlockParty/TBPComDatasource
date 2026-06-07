@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 11:43:18 UTC
+# Standings for team2 as of 2026-06-07 11:44:18 UTC
 
 **Total Participants:** 1712
 
@@ -123,8 +123,8 @@
 | 115 | 581 | Dsabrina Maxey |
 | 116 | 577 | Lindsay Klemp |
 | 117 | 574 | Brandy McCune Reep |
-| 118 | 563 | Allison Jarman |
-| 119 | 563 | Tisha Hairston |
+| 118 | 563 | Tisha Hairston |
+| 119 | 563 | Allison Jarman |
 | 120 | 561 | Groovy Snapper |
 | 121 | 553 | Jamie Jones |
 | 122 | 549 | Kathleen Dumbazz |
@@ -136,20 +136,20 @@
 | 128 | 515 | Loony Faller |
 | 129 | 512 | Jackie Tupper |
 | 130 | 508 | Jgato |
-| 131 | 500 | Courtney McCulley |
+| 131 | 504 | Pooh |
 | 132 | 500 | Suki Kaur |
-| 133 | 483 | Karen Reid Cenkush |
-| 134 | 477 | Amy Gale |
-| 135 | 476 | snowwol |
-| 136 | 474 | Bubbly Strikerpiece |
-| 137 | 466 | Judy Long |
-| 138 | 459 | Steven Craig |
-| 139 | 458 | Kaycie Shaffer |
-| 140 | 453 | Kimberly Cowan |
-| 141 | 448 | MarioKarasovic |
-| 142 | 448 | Pooh |
-| 143 | 438 | Zappy Pattern |
-| 144 | 438 | Michelle Rich Burkhart |
+| 133 | 500 | Courtney McCulley |
+| 134 | 483 | Karen Reid Cenkush |
+| 135 | 477 | Amy Gale |
+| 136 | 476 | snowwol |
+| 137 | 474 | Bubbly Strikerpiece |
+| 138 | 466 | Judy Long |
+| 139 | 459 | Steven Craig |
+| 140 | 458 | Kaycie Shaffer |
+| 141 | 453 | Kimberly Cowan |
+| 142 | 448 | MarioKarasovic |
+| 143 | 438 | Michelle Rich Burkhart |
+| 144 | 438 | Zappy Pattern |
 | 145 | 436 | Gill |
 | 146 | 420 | Zarah Kettler |
 | 147 | 419 | Cool Climber |
@@ -166,8 +166,8 @@
 | 158 | 381 | Joslyn Johnson |
 | 159 | 380 | Zany Blockclear |
 | 160 | 376 | Nutty Curver |
-| 161 | 375 | MaddieCherie |
-| 162 | 375 | Milad Arzani |
+| 161 | 375 | Milad Arzani |
+| 162 | 375 | MaddieCherie |
 | 163 | 370 | Tara |
 | 164 | 365 | Branden Frankowski |
 | 165 | 365 | Amy Gregg |
@@ -179,8 +179,8 @@
 | 171 | 354 | Zesty Strikerbuilder |
 | 172 | 348 | Eric Drane |
 | 173 | 347 | Traci Abern |
-| 174 | 343 | Theresa Marie |
-| 175 | 343 | Jason Cook |
+| 174 | 343 | Jason Cook |
+| 175 | 343 | Theresa Marie |
 | 176 | 342 | Bri St Peter |
 | 177 | 340 | Mom |
 | 178 | 339 | Loopy Curvebuilder |
@@ -294,30 +294,30 @@
 | 286 | 205 | Karly Moore |
 | 287 | 205 | Melisa |
 | 288 | 204 | Teddy Williams |
-| 289 | 201 | Jeffrey Smith |
-| 290 | 201 | Danielle Pack Lewellen |
-| 291 | 201 | Anthony Swift |
-| 292 | 201 | Melissa Nash |
-| 293 | 200 | Tony Medina |
-| 294 | 200 | August Christy Lathrop |
-| 295 | 200 | Precious Womack |
-| 296 | 200 | Physhie |
-| 297 | 200 | Eric Wayne Maschman |
-| 298 | 200 | Al Smith Jr |
-| 299 | 200 | StacyBabee |
-| 300 | 200 | Sarah Grundisch |
+| 289 | 203 | Jill Goff |
+| 290 | 201 | Jeffrey Smith |
+| 291 | 201 | Danielle Pack Lewellen |
+| 292 | 201 | Anthony Swift |
+| 293 | 201 | Melissa Nash |
+| 294 | 200 | Tony Medina |
+| 295 | 200 | August Christy Lathrop |
+| 296 | 200 | Precious Womack |
+| 297 | 200 | Physhie |
+| 298 | 200 | Eric Wayne Maschman |
+| 299 | 200 | Al Smith Jr |
+| 300 | 200 | StacyBabee |
 | 301 | 200 | Nathan Walker |
 | 302 | 200 | ShiverMeSplinter |
-| 303 | 198 | Amy Taylor Pomerenk |
-| 304 | 196 | Greenie |
-| 305 | 195 | Bb |
+| 303 | 200 | Sarah Grundisch |
+| 304 | 198 | Amy Taylor Pomerenk |
+| 305 | 196 | Greenie |
 | 306 | 195 | Thomas Tyrone |
-| 307 | 195 | Pamela Raye |
-| 308 | 193 | Jason Cunningham |
-| 309 | 192 | Greta Warden |
-| 310 | 192 | Jill Goff |
-| 311 | 191 | Marilyn Mendoza |
-| 312 | 191 | Jessica Christine |
+| 307 | 195 | Bb |
+| 308 | 195 | Pamela Raye |
+| 309 | 193 | Jason Cunningham |
+| 310 | 192 | Greta Warden |
+| 311 | 191 | Jessica Christine |
+| 312 | 191 | Marilyn Mendoza |
 | 313 | 187 | Curly Windbreaker |
 | 314 | 185 | Krystle L Coon |
 | 315 | 184 | SEH |
@@ -878,39 +878,39 @@
 | 870 | 54 | Stazy Warner |
 | 871 | 54 | Rae Madewell |
 | 872 | 54 | Josie Mendivil |
-| 873 | 53 | Pamela Gambrell |
-| 874 | 53 | wutrwerdz |
-| 875 | 53 | Topknot13 |
-| 876 | 53 | Frisky Linkmatch |
-| 877 | 53 | CK Hancock |
-| 878 | 53 | Dawn Marie |
-| 879 | 53 | Kelli Pazour |
-| 880 | 53 | Peppy Piececlear |
-| 881 | 53 | Witty Riser |
-| 882 | 53 | Maithan Conour |
-| 883 | 52 | Diane Byrd |
-| 884 | 52 | Chipper Spinzone |
-| 885 | 52 | Sherry Ann |
-| 886 | 52 | Amber Marie Lacey |
-| 887 | 52 | Trisha Farley |
-| 888 | 52 | Happy Curvebuilder |
-| 889 | 52 | Alimae |
-| 890 | 52 | Frisky Twist |
-| 891 | 52 | Renee Craig |
-| 892 | 52 | Twisty Buildgrid |
-| 893 | 51 | Joanie Swann Ruiter |
-| 894 | 51 | Chad Atchley |
-| 895 | 51 | Tiffany Powell |
-| 896 | 51 | Daring Blockline |
-| 897 | 51 | Loopy Zone |
-| 898 | 51 | Newtwidebody |
-| 899 | 51 | Brian Giddens |
-| 900 | 51 | Nikki Sadler |
-| 901 | 51 | Swanky Twister |
-| 902 | 51 | Angela VanOstrand |
-| 903 | 51 | Tashamonique Puckey |
-| 904 | 51 | Chummy Faller |
-| 905 | 51 | Jennifer McCloskey Launder |
+| 873 | 54 | Twisty Buildgrid |
+| 874 | 53 | Pamela Gambrell |
+| 875 | 53 | wutrwerdz |
+| 876 | 53 | Topknot13 |
+| 877 | 53 | Frisky Linkmatch |
+| 878 | 53 | CK Hancock |
+| 879 | 53 | Dawn Marie |
+| 880 | 53 | Kelli Pazour |
+| 881 | 53 | Peppy Piececlear |
+| 882 | 53 | Witty Riser |
+| 883 | 53 | Maithan Conour |
+| 884 | 52 | Diane Byrd |
+| 885 | 52 | Chipper Spinzone |
+| 886 | 52 | Sherry Ann |
+| 887 | 52 | Amber Marie Lacey |
+| 888 | 52 | Trisha Farley |
+| 889 | 52 | Happy Curvebuilder |
+| 890 | 52 | Alimae |
+| 891 | 52 | Frisky Twist |
+| 892 | 52 | Renee Craig |
+| 893 | 51 | Chad Atchley |
+| 894 | 51 | Tiffany Powell |
+| 895 | 51 | Daring Blockline |
+| 896 | 51 | Loopy Zone |
+| 897 | 51 | Newtwidebody |
+| 898 | 51 | Brian Giddens |
+| 899 | 51 | Nikki Sadler |
+| 900 | 51 | Swanky Twister |
+| 901 | 51 | Angela VanOstrand |
+| 902 | 51 | Tashamonique Puckey |
+| 903 | 51 | Chummy Faller |
+| 904 | 51 | Jennifer McCloskey Launder |
+| 905 | 51 | Joanie Swann Ruiter |
 | 906 | 50 | Michael James |
 | 907 | 50 | Stephania Edwards |
 | 908 | 50 | Angie Rose |
