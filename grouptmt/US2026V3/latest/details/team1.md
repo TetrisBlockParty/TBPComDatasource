@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:15:19 UTC
+# Standings for team1 as of 2026-06-07 11:16:18 UTC
 
 **Total Participants:** 1444
 
@@ -101,7 +101,7 @@
 | 93 | 588 | Shontanese Adams |
 | 94 | 587 | KenpachisGirl |
 | 95 | 587 | She Higgy |
-| 96 | 572 | Moomoo |
+| 96 | 575 | Moomoo |
 | 97 | 570 | Keeta Chickswit Scott |
 | 98 | 570 | PandaPrincess |
 | 99 | 568 | MamaBear |
@@ -180,49 +180,49 @@
 | 172 | 293 | Calvin Green |
 | 173 | 291 | Brian Taylor |
 | 174 | 290 | Kaleisha Smith |
-| 175 | 290 | Frisky Fallmatch |
-| 176 | 290 | Eugina Slater |
+| 175 | 290 | Eugina Slater |
+| 176 | 290 | Frisky Fallmatch |
 | 177 | 287 | Rackemwillie34 |
-| 178 | 285 | Ashley MyBeauty Daniels |
-| 179 | 285 | Marcheta Cervantez |
-| 180 | 285 | Helen Smith |
+| 178 | 285 | Marcheta Cervantez |
+| 179 | 285 | Helen Smith |
+| 180 | 285 | Ashley MyBeauty Daniels |
 | 181 | 284 | Karebear |
 | 182 | 278 | Sharon Cail |
 | 183 | 277 | Tonya Lee Sanders |
 | 184 | 276 | Devin West |
 | 185 | 276 | Cortaz Lawrie |
-| 186 | 275 | Chris Sladoje |
+| 186 | 275 | Chuck Quarles |
 | 187 | 275 | Jawaun Daniels |
-| 188 | 274 | NastyFriend |
-| 189 | 270 | xXEKUNXx |
-| 190 | 269 | Block King |
-| 191 | 260 | Ketrell Bailey |
+| 188 | 275 | Chris Sladoje |
+| 189 | 274 | NastyFriend |
+| 190 | 270 | xXEKUNXx |
+| 191 | 269 | Block King |
 | 192 | 260 | Alana Renee |
-| 193 | 259 | Brave Clearbuilder |
-| 194 | 258 | Jayjay Rich |
-| 195 | 257 | Cathy Young |
+| 193 | 260 | Ketrell Bailey |
+| 194 | 259 | Brave Clearbuilder |
+| 195 | 258 | Jayjay Rich |
 | 196 | 257 | Po Marley |
-| 197 | 257 | Ebony |
-| 198 | 255 | Tishauna Virgo |
-| 199 | 254 | Tonya McElroy |
-| 200 | 250 | Davionte DaeDae Hopson-Rodriguez |
-| 201 | 249 | Falisa Bell |
-| 202 | 248 | Yasmin Nakea Wright |
-| 203 | 248 | Jazzy Fireflighters |
-| 204 | 246 | Byron Mario Cawthon |
-| 205 | 246 | Denise B |
-| 206 | 245 | Bre Poston |
-| 207 | 245 | Derrius SeriousLee Burks |
+| 197 | 257 | Cathy Young |
+| 198 | 257 | Ebony |
+| 199 | 255 | Tishauna Virgo |
+| 200 | 254 | Tonya McElroy |
+| 201 | 250 | Davionte DaeDae Hopson-Rodriguez |
+| 202 | 249 | Falisa Bell |
+| 203 | 248 | Yasmin Nakea Wright |
+| 204 | 248 | Jazzy Fireflighters |
+| 205 | 246 | Byron Mario Cawthon |
+| 206 | 246 | Denise B |
+| 207 | 245 | Bre Poston |
 | 208 | 245 | Zachary Colegrove |
-| 209 | 245 | Rhonda Williams Warner |
-| 210 | 241 | IThinkNot |
-| 211 | 241 | SyTheEvilGenius1 |
-| 212 | 240 | Rayya Kiser |
+| 209 | 245 | Derrius SeriousLee Burks |
+| 210 | 245 | Rhonda Williams Warner |
+| 211 | 241 | IThinkNot |
+| 212 | 241 | SyTheEvilGenius1 |
 | 213 | 240 | Salim Thugger |
-| 214 | 238 | Queenie Perry |
-| 215 | 237 | David Fuentes |
-| 216 | 236 | Nutty Spinblock |
-| 217 | 235 | Chuck Quarles |
+| 214 | 240 | Rayya Kiser |
+| 215 | 238 | Queenie Perry |
+| 216 | 237 | David Fuentes |
+| 217 | 236 | Nutty Spinblock |
 | 218 | 235 | Michele Simpson |
 | 219 | 234 | Dacia Hicks |
 | 220 | 229 | Ann White |
@@ -759,53 +759,53 @@
 | 751 | 53 | Xrandomx |
 | 752 | 53 | Clever Wrecker |
 | 753 | 53 | Heather Wilson |
-| 754 | 53 | Haakuu |
-| 755 | 53 | Barbramerri Tarboro |
+| 754 | 53 | Barbramerri Tarboro |
+| 755 | 53 | Shona ShayShay Jones |
 | 756 | 53 | Morenita Rodriguez |
 | 757 | 53 | Williams Candace |
 | 758 | 53 | brite |
-| 759 | 53 | Shona ShayShay Jones |
-| 760 | 52 | Loopy Risepiece |
-| 761 | 52 | Abdul Malik |
-| 762 | 52 | Kyra Coleman |
-| 763 | 52 | Karen Denen |
-| 764 | 52 | Tootsie Pop |
-| 765 | 52 | Raymond Boosie Freeman |
-| 766 | 52 | Giggy Holder |
-| 767 | 52 | Tray Tolliver |
-| 768 | 51 | Evelyn Epps |
-| 769 | 51 | Shanjerrica Taylor Rosell |
-| 770 | 51 | Bunnie Celtavini |
-| 771 | 51 | BrettanMary Adkins |
-| 772 | 51 | Betsy B. Yohan |
+| 759 | 53 | Haakuu |
+| 760 | 52 | Hasty Glidezone |
+| 761 | 52 | Tray Tolliver |
+| 762 | 52 | Giggy Holder |
+| 763 | 52 | Loopy Risepiece |
+| 764 | 52 | Karen Denen |
+| 765 | 52 | Abdul Malik |
+| 766 | 52 | Kyra Coleman |
+| 767 | 52 | Tootsie Pop |
+| 768 | 52 | Raymond Boosie Freeman |
+| 769 | 51 | BrettanMary Adkins |
+| 770 | 51 | Shanjerrica Taylor Rosell |
+| 771 | 51 | Betsy B. Yohan |
+| 772 | 51 | Bunnie Celtavini |
 | 773 | 51 | messyboots |
 | 774 | 51 | Boldy Matchfit |
-| 775 | 51 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 776 | 50 | Teresa Yanira Cepeda |
-| 777 | 50 | Paul Doty |
-| 778 | 50 | Daring Linkfall |
+| 775 | 51 | Evelyn Epps |
+| 776 | 51 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 777 | 50 | Daring Linkfall |
+| 778 | 50 | Paul Doty |
 | 779 | 50 | Amaadi Ward |
 | 780 | 50 | Benjamin Livingston |
 | 781 | 50 | Kanary Karotz |
 | 782 | 50 | Slinky Fallzone |
-| 783 | 50 | Rissa Rozay |
-| 784 | 50 | Tramaine Crockrum |
+| 783 | 50 | Teresa Yanira Cepeda |
+| 784 | 50 | Rissa Rozay |
 | 785 | 50 | Bold Spinblock |
 | 786 | 50 | Denell Sims |
 | 787 | 50 | MsBobby Patrick |
-| 788 | 49 | Hasty Glidezone |
-| 789 | 49 | Ashley Davis |
-| 790 | 49 | Saucy Crusher |
-| 791 | 49 | Teisha Scott |
-| 792 | 49 | Latoya Carson |
-| 793 | 49 | Ķïrãã Ďãvïss |
-| 794 | 49 | SnazzyIvy |
-| 795 | 49 | Stronger Wiser Better |
+| 788 | 50 | Tramaine Crockrum |
+| 789 | 49 | Stronger Wiser Better |
+| 790 | 49 | Ashley Davis |
+| 791 | 49 | Saucy Crusher |
+| 792 | 49 | Teisha Scott |
+| 793 | 49 | Latoya Carson |
+| 794 | 49 | Ķïrãã Ďãvïss |
+| 795 | 49 | SnazzyIvy |
 | 796 | 48 | LoveLee |
 | 797 | 48 | Stanley Dixon |
-| 798 | 48 | Eli Delao |
-| 799 | 48 | LaTonya Rivers |
-| 800 | 48 | Juicy |
+| 798 | 48 | LaTonya Rivers |
+| 799 | 48 | Juicy |
+| 800 | 48 | Eli Delao |
 | 801 | 48 | P C |
 | 802 | 48 | Rieshelda Marie White |
 | 803 | 48 | RylonJones |
