@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:22:40 UTC
+# Standings for team1 as of 2026-06-07 11:23:18 UTC
 
 **Total Participants:** 1444
 
@@ -32,7 +32,7 @@
 | 24 | 2415 | Yolanda McDonald |
 | 25 | 2269 | Mary Jenkins |
 | 26 | 2076 | April Inboden |
-| 27 | 1995 | Epic Snapfall |
+| 27 | 2005 | Epic Snapfall |
 | 28 | 1988 | Jo NewmindNewfocus Bell |
 | 29 | 1983 | COSA303 |
 | 30 | 1938 | Linzie Marie |
@@ -58,9 +58,9 @@
 | 50 | 1120 | Ryan Meilleur |
 | 51 | 1102 | D'Andra Stewart |
 | 52 | 1067 | Catara Renae Oliver |
-| 53 | 1052 | Shortstak |
-| 54 | 1046 | Spicy Balancer |
-| 55 | 1043 | Danielle DeLozier Plesec |
+| 53 | 1053 | Danielle DeLozier Plesec |
+| 54 | 1052 | Shortstak |
+| 55 | 1046 | Spicy Balancer |
 | 56 | 1024 | Chill Clusterer |
 | 57 | 998 | Angela R Wilson |
 | 58 | 961 | Sanjuro |
@@ -1386,70 +1386,70 @@
 | 1378 | 8 | Ferocity |
 | 1379 | 8 | Dave Breaker |
 | 1380 | 8 | Chevonne Huggins |
-| 1381 | 8 | Rixo Blax |
-| 1382 | 8 | Sean Walker |
-| 1383 | 8 | Groovy Riseclear |
-| 1384 | 8 | Macho Lewis |
-| 1385 | 8 | Dana Hill |
-| 1386 | 8 | Chill Tumbler |
-| 1387 | 8 | Giggleme |
+| 1381 | 8 | Giggleme |
+| 1382 | 8 | Rixo Blax |
+| 1383 | 8 | Macho Lewis |
+| 1384 | 8 | Chill Tumbler |
+| 1385 | 8 | Sean Walker |
+| 1386 | 8 | Dana Hill |
+| 1387 | 8 | Groovy Riseclear |
 | 1388 | 8 | jus_ry |
-| 1389 | 7 | RMGreen |
-| 1390 | 7 | Stephanie L Jeffries Moultrie |
-| 1391 | 7 | Lawanda Conley |
-| 1392 | 7 | John Boone |
-| 1393 | 7 | Shane Brucewayne |
-| 1394 | 7 | Court Ney |
-| 1395 | 7 | J Dot Flo |
-| 1396 | 7 | Milfchaser530 |
-| 1397 | 7 | KingSlim82 |
-| 1398 | 7 | Bryan Dell |
-| 1399 | 7 | Alexis Farquer |
-| 1400 | 7 | Lively Stagger |
-| 1401 | 7 | Joey Hoover |
-| 1402 | 7 | Teresa F. Campos Eaton |
-| 1403 | 7 | Mary2 |
-| 1404 | 7 | linda m |
-| 1405 | 7 | Deadra Graham |
-| 1406 | 7 | Deantenique Smalls |
-| 1407 | 7 | Quana |
-| 1408 | 7 | Andrew Harris |
-| 1409 | 7 | Sheena Hamilton |
-| 1410 | 6 | Kyshia |
+| 1389 | 7 | J Dot Flo |
+| 1390 | 7 | Shane Brucewayne |
+| 1391 | 7 | RMGreen |
+| 1392 | 7 | Milfchaser530 |
+| 1393 | 7 | Lawanda Conley |
+| 1394 | 7 | KingSlim82 |
+| 1395 | 7 | Bryan Dell |
+| 1396 | 7 | Quana |
+| 1397 | 7 | Alexis Farquer |
+| 1398 | 7 | Teresa F. Campos Eaton |
+| 1399 | 7 | Andrew Harris |
+| 1400 | 7 | Sheena Hamilton |
+| 1401 | 7 | Lively Stagger |
+| 1402 | 7 | Joey Hoover |
+| 1403 | 7 | John Boone |
+| 1404 | 7 | Court Ney |
+| 1405 | 7 | Deantenique Smalls |
+| 1406 | 7 | Stephanie L Jeffries Moultrie |
+| 1407 | 7 | Deadra Graham |
+| 1408 | 7 | linda m |
+| 1409 | 7 | Mary2 |
+| 1410 | 6 | Evee |
 | 1411 | 6 | Tammy Hooser |
 | 1412 | 6 | smash56! |
-| 1413 | 6 | Andrae Robinson |
+| 1413 | 6 | Kyshia |
 | 1414 | 6 | NEM0228 |
-| 1415 | 6 | CK |
+| 1415 | 6 | Shiny Crusher |
 | 1416 | 6 | Nerdy Slam |
-| 1417 | 6 | Evee |
-| 1418 | 6 | Shiny Crusher |
-| 1419 | 6 | Stevie Malcon |
+| 1417 | 6 | Stevie Malcon |
+| 1418 | 6 | CK |
+| 1419 | 6 | Andrae Robinson |
 | 1420 | 6 | party t-rex 27 |
 | 1421 | 5 | Joy Baker |
-| 1422 | 5 | Godz Chosen |
-| 1423 | 5 | Stephanie Zuniga Tullock |
-| 1424 | 5 | Zesty Brickline |
-| 1425 | 5 | Annette DeLoatch Thompson |
-| 1426 | 5 | Carol Washington |
-| 1427 | 5 | VERA DAME |
+| 1422 | 5 | VERA DAME |
+| 1423 | 5 | Mighty Riserbuilder |
+| 1424 | 5 | Stephanie Zuniga Tullock |
+| 1425 | 5 | Jason Riley |
+| 1426 | 5 | Andy Barnett |
+| 1427 | 5 | pettymexoxo |
 | 1428 | 5 | BlessedBeauty |
-| 1429 | 5 | Andy Barnett |
-| 1430 | 5 | Ashley Horne |
-| 1431 | 5 | Happy |
-| 1432 | 5 | Mighty Riserbuilder |
-| 1433 | 5 | Jason Riley |
-| 1434 | 5 | pettymexoxo |
-| 1435 | 5 | Jackie Sanasay |
-| 1436 | 5 | Derek Beverly |
-| 1437 | 5 | Aanngie Aanngie |
+| 1429 | 5 | Happy |
+| 1430 | 5 | Zesty Brickline |
+| 1431 | 5 | Carol Washington |
+| 1432 | 5 | Godz Chosen |
+| 1433 | 5 | Annette DeLoatch Thompson |
+| 1434 | 5 | Jackie Sanasay |
+| 1435 | 5 | Derek Beverly |
+| 1436 | 5 | Aanngie Aanngie |
+| 1437 | 5 | Schuyler Carson Jackson |
 | 1438 | 5 | the guy |
 | 1439 | 5 | Alonzo Kirkland |
 | 1440 | 5 | Marissa Sweet |
 | 1441 | 5 | Angelique Thomas |
 | 1442 | 5 | Meshia |
-| 1443 | 5 | Tito Divyn |
-| 1444 | 5 | Schuyler Carson Jackson |
+| 1443 | 5 | Ashley Horne |
+| 1444 | 5 | Tito Divyn |
 
 ---
 *Standings created by tournaments datasource generation tool*
