@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 17:32:18 UTC
+# Standings for team2 as of 2026-06-07 17:32:40 UTC
 
 **Total Participants:** 1835
 
@@ -136,9 +136,9 @@
 | 128 | 577 | Gloria May Shook |
 | 129 | 574 | Brandy McCune Reep |
 | 130 | 572 | Jef Wassom |
-| 131 | 563 | Tisha Hairston |
-| 132 | 563 | Allison Jarman |
-| 133 | 556 | Kathleen Dumbazz |
+| 131 | 563 | Allison Jarman |
+| 132 | 563 | Tisha Hairston |
+| 133 | 562 | Kathleen Dumbazz |
 | 134 | 554 | Amber Miller Wirick |
 | 135 | 554 | Cathy Tippett |
 | 136 | 553 | Jamie Jones |
@@ -149,10 +149,10 @@
 | 141 | 535 | Jgato |
 | 142 | 535 | Amanda Sikes |
 | 143 | 534 | Zappy Pattern |
-| 144 | 519 | Mom |
-| 145 | 515 | Loony Faller |
-| 146 | 500 | Courtney McCulley |
-| 147 | 500 | DomDomsNana |
+| 144 | 530 | DomDomsNana |
+| 145 | 519 | Mom |
+| 146 | 515 | Loony Faller |
+| 147 | 500 | Courtney McCulley |
 | 148 | 488 | MarioKarasovic |
 | 149 | 483 | Karen Reid Cenkush |
 | 150 | 477 | Amy Gale |
@@ -792,22 +792,22 @@
 | 784 | 76 | Kris Dusza Dodus |
 | 785 | 75 | Allison Peterson |
 | 786 | 75 | joey |
-| 787 | 75 | Sam Schwieso |
+| 787 | 75 | Brandi Vandevanter-Duke |
 | 788 | 75 | Mrs biotch |
 | 789 | 75 | Groovy Glider |
-| 790 | 75 | Bennie Farbo |
-| 791 | 75 | Clever Fallmatch |
-| 792 | 75 | Jessica Bowman |
-| 793 | 75 | Laura Turner |
-| 794 | 75 | William Dowd |
-| 795 | 74 | Nicole Treadway |
-| 796 | 74 | Christina Kearns |
-| 797 | 74 | Peter Fogg |
-| 798 | 74 | Valeri Bradley |
-| 799 | 74 | Bethany Nestor |
-| 800 | 74 | Natasha Lee |
-| 801 | 74 | Cool Patternbuilder |
-| 802 | 74 | Brandi Vandevanter-Duke |
+| 790 | 75 | Sam Schwieso |
+| 791 | 75 | Bennie Farbo |
+| 792 | 75 | Clever Fallmatch |
+| 793 | 75 | Jessica Bowman |
+| 794 | 75 | Laura Turner |
+| 795 | 75 | William Dowd |
+| 796 | 74 | Nicole Treadway |
+| 797 | 74 | Christina Kearns |
+| 798 | 74 | Peter Fogg |
+| 799 | 74 | Valeri Bradley |
+| 800 | 74 | Bethany Nestor |
+| 801 | 74 | Natasha Lee |
+| 802 | 74 | Cool Patternbuilder |
 | 803 | 73 | blockrocker |
 | 804 | 73 | BugMansMom |
 | 805 | 73 | Elodie Deveyer |
@@ -959,26 +959,26 @@
 | 951 | 60 | Tiffany Lewis |
 | 952 | 60 | Scott Lyles |
 | 953 | 59 | Jolene Smith |
-| 954 | 59 | Carrie Smith Negron |
-| 955 | 59 | LaicoosBargains Ln |
-| 956 | 59 | Jenn Mccarty |
-| 957 | 59 | Funko Dave |
-| 958 | 59 | Jessica Spivey Cooper |
-| 959 | 59 | WestieMom |
-| 960 | 59 | Buddy |
-| 961 | 59 | Dani Newton |
-| 962 | 59 | Sandra Rotton Bragg |
-| 963 | 59 | Cool cee |
-| 964 | 59 | Dee |
-| 965 | 59 | April Addis |
-| 966 | 59 | Cindy Brown |
-| 967 | 58 | Slinky Winder |
-| 968 | 58 | Pjrobinsonnn |
-| 969 | 58 | Giddy Chiseler |
-| 970 | 58 | Brian Little |
-| 971 | 58 | Tanya Goodwin |
-| 972 | 58 | Shanetta Johnson |
-| 973 | 58 | Melissa Mae |
+| 954 | 59 | Melissa Mae |
+| 955 | 59 | Carrie Smith Negron |
+| 956 | 59 | LaicoosBargains Ln |
+| 957 | 59 | Jenn Mccarty |
+| 958 | 59 | Funko Dave |
+| 959 | 59 | Jessica Spivey Cooper |
+| 960 | 59 | WestieMom |
+| 961 | 59 | Buddy |
+| 962 | 59 | Dani Newton |
+| 963 | 59 | Sandra Rotton Bragg |
+| 964 | 59 | Cool cee |
+| 965 | 59 | Dee |
+| 966 | 59 | April Addis |
+| 967 | 59 | Cindy Brown |
+| 968 | 58 | Slinky Winder |
+| 969 | 58 | Pjrobinsonnn |
+| 970 | 58 | Giddy Chiseler |
+| 971 | 58 | Brian Little |
+| 972 | 58 | Tanya Goodwin |
+| 973 | 58 | Shanetta Johnson |
 | 974 | 58 | Smiley Staggerpiece |
 | 975 | 58 | Joanie Swann Ruiter |
 | 976 | 57 | Brandy Wallace |
