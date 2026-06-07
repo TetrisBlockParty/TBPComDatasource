@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:47:17 UTC
+# Standings for team1 as of 2026-06-07 11:48:19 UTC
 
 **Total Participants:** 1446
 
@@ -197,8 +197,8 @@
 | 189 | 275 | Chris Sladoje |
 | 190 | 274 | NastyFriend |
 | 191 | 270 | xXEKUNXx |
-| 192 | 269 | Block King |
-| 193 | 263 | IThinkNot |
+| 192 | 269 | IThinkNot |
+| 193 | 269 | Block King |
 | 194 | 260 | Ketrell Bailey |
 | 195 | 259 | Brave Clearbuilder |
 | 196 | 258 | Jayjay Rich |
@@ -487,49 +487,49 @@
 | 479 | 94 | Derald Miller |
 | 480 | 94 | Ta'Kaiyah M. Spann |
 | 481 | 94 | Sha Anderson |
-| 482 | 93 | Chino Baby |
-| 483 | 93 | Kimberly Susan Privette |
-| 484 | 93 | Anastasia |
-| 485 | 93 | FunTime |
-| 486 | 93 | C Lo Green |
-| 487 | 93 | Lucy |
-| 488 | 93 | Rene Hicks |
+| 482 | 93 | Lucy |
+| 483 | 93 | Rene Hicks |
+| 484 | 93 | Chino Baby |
+| 485 | 93 | C Lo Green |
+| 486 | 93 | Kimberly Susan Privette |
+| 487 | 93 | FunTime |
+| 488 | 93 | Anastasia |
 | 489 | 92 | Kimberly Anderson |
 | 490 | 92 | Pretty Yella |
-| 491 | 91 | Zappy Clearfit |
-| 492 | 91 | Aaron Hartmann |
+| 491 | 91 | Aaron Hartmann |
+| 492 | 91 | Zappy Clearfit |
 | 493 | 91 | David A Alvino |
-| 494 | 90 | Shameka Tiffany |
-| 495 | 90 | Nora Mahmoud |
-| 496 | 90 | crumb bumc |
-| 497 | 90 | CJ Robinson |
-| 498 | 90 | Jjhandsome |
-| 499 | 90 | Lilly Brown |
-| 500 | 89 | Zany Breaker |
-| 501 | 89 | Cynthia Cruell |
-| 502 | 89 | Tracy Feyler |
-| 503 | 89 | Jenni Hardman |
-| 504 | 88 | Hasty Glidezone |
+| 494 | 91 | Jae Thompson-Tyus |
+| 495 | 90 | CJ Robinson |
+| 496 | 90 | Nora Mahmoud |
+| 497 | 90 | Lilly Brown |
+| 498 | 90 | crumb bumc |
+| 499 | 90 | Jjhandsome |
+| 500 | 90 | Shameka Tiffany |
+| 501 | 89 | Jenni Hardman |
+| 502 | 89 | Cynthia Cruell |
+| 503 | 89 | Tracy Feyler |
+| 504 | 89 | Zany Breaker |
 | 505 | 88 | Guard Up |
-| 506 | 88 | Daring Riserfit |
-| 507 | 88 | Soubletzy |
-| 508 | 88 | Brenda Malachi-butler |
-| 509 | 87 | Cachet A Ward |
-| 510 | 87 | Natalie Burroughs |
-| 511 | 87 | Chummy Frame |
-| 512 | 87 | Holly Baker |
-| 513 | 86 | Messy Live |
-| 514 | 86 | Marie Wilson |
-| 515 | 86 | krd |
-| 516 | 86 | Tweet Turner |
-| 517 | 86 | Giggly Tiltbuilder |
-| 518 | 86 | whatever |
-| 519 | 86 | Melissa Olvera |
-| 520 | 86 | Kendra McIntyre |
-| 521 | 86 | Donna Payne |
-| 522 | 86 | Cm |
-| 523 | 85 | Bobby Chestefield |
-| 524 | 85 | Jae Thompson-Tyus |
+| 506 | 88 | Hasty Glidezone |
+| 507 | 88 | Brenda Malachi-butler |
+| 508 | 88 | Soubletzy |
+| 509 | 88 | Daring Riserfit |
+| 510 | 87 | Cachet A Ward |
+| 511 | 87 | Holly Baker |
+| 512 | 87 | Natalie Burroughs |
+| 513 | 87 | Chummy Frame |
+| 514 | 86 | Messy Live |
+| 515 | 86 | Marie Wilson |
+| 516 | 86 | krd |
+| 517 | 86 | Tweet Turner |
+| 518 | 86 | Giggly Tiltbuilder |
+| 519 | 86 | whatever |
+| 520 | 86 | Melissa Olvera |
+| 521 | 86 | Kendra McIntyre |
+| 522 | 86 | Donna Payne |
+| 523 | 86 | Cm |
+| 524 | 85 | Bobby Chestefield |
 | 525 | 85 | TotoCherue |
 | 526 | 85 | Hardtohandle91 |
 | 527 | 85 | De'Mear McKinney |
