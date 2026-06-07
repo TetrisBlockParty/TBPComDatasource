@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 09:20:45 UTC
+# Standings for team4 as of 2026-06-07 09:21:18 UTC
 
 **Total Participants:** 1428
 
@@ -28,7 +28,7 @@
 | 20 | 3667 | Daring Ziggy |
 | 21 | 3643 | Jackie Lucas |
 | 22 | 3612 | Tonya Brooks-Johnson |
-| 23 | 3518 | Bubbly Twistpiece |
+| 23 | 3528 | Bubbly Twistpiece |
 | 24 | 3508 | Hasty Builder |
 | 25 | 3150 | Destiny Dyer |
 | 26 | 3095 | Irene Arreguin |
@@ -467,9 +467,9 @@
 | 459 | 92 | Chonda OhanaMomma Michelle |
 | 460 | 92 | Autumn Maher |
 | 461 | 92 | Rosy Perez |
-| 462 | 92 | William Brooks |
-| 463 | 91 | Miss Beast |
-| 464 | 91 | Tiffany Roberts |
+| 462 | 92 | Tiffany Roberts |
+| 463 | 92 | William Brooks |
+| 464 | 91 | Miss Beast |
 | 465 | 91 | Happy Shatterfit |
 | 466 | 91 | Spicy Peach |
 | 467 | 90 | Alex Armour |
