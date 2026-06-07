@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 07:24:19 UTC
+# Standings for team1 as of 2026-06-07 07:24:42 UTC
 
 **Total Participants:** 1413
 
@@ -40,11 +40,11 @@
 | 32 | 1677 | Markeeta Lipscomb |
 | 33 | 1602 | Brian Stackhouse |
 | 34 | 1550 | Cool Bridger |
-| 35 | 1453 | Janet Cooke |
-| 36 | 1445 | Erika Windom |
-| 37 | 1430 | Chris Russell |
-| 38 | 1429 | Jolly Dropzone |
-| 39 | 1359 | Jo NewmindNewfocus Bell |
+| 35 | 1545 | Jo NewmindNewfocus Bell |
+| 36 | 1453 | Janet Cooke |
+| 37 | 1445 | Erika Windom |
+| 38 | 1430 | Chris Russell |
+| 39 | 1429 | Jolly Dropzone |
 | 40 | 1242 | Jacoby E Fleming |
 | 41 | 1233 | Cherry Rose |
 | 42 | 1195 | Tekedra Wilson |
@@ -318,88 +318,88 @@
 | 310 | 140 | Antoinette Jones |
 | 311 | 140 | MamushiOh |
 | 312 | 138 | Tamika Rocheteau |
-| 313 | 137 | Giggy Tower |
-| 314 | 137 | Lisa Fletcher |
-| 315 | 137 | Tay |
-| 316 | 137 | Nickeya Phillips |
+| 313 | 137 | Tay |
+| 314 | 137 | Nickeya Phillips |
+| 315 | 137 | Lisa Fletcher |
+| 316 | 137 | Giggy Tower |
 | 317 | 136 | McKayla Owens |
 | 318 | 135 | Saucy Tile |
-| 319 | 135 | Sean White |
-| 320 | 135 | Skippy |
-| 321 | 134 | Peppy Glider |
-| 322 | 134 | Perky Pusher |
-| 323 | 134 | Brittanie Wardlow |
-| 324 | 133 | Tasha |
-| 325 | 132 | Tremaine Hiler |
+| 319 | 135 | kitten |
+| 320 | 135 | Sean White |
+| 321 | 135 | Skippy |
+| 322 | 134 | Peppy Glider |
+| 323 | 134 | Perky Pusher |
+| 324 | 134 | Brittanie Wardlow |
+| 325 | 133 | Tasha |
 | 326 | 132 | Chirpy Buildgrid |
-| 327 | 131 | Sarah Clark |
-| 328 | 131 | kitten |
+| 327 | 132 | Tremaine Hiler |
+| 328 | 131 | Sarah Clark |
 | 329 | 130 | Crystal Anderson |
 | 330 | 130 | Miera Nicole |
-| 331 | 130 | Jessica Davis |
-| 332 | 130 | Adrian Wilson |
+| 331 | 130 | Adrian Wilson |
+| 332 | 130 | Maribel Vasquez |
 | 333 | 130 | Hailey Hil |
-| 334 | 130 | Maribel Vasquez |
+| 334 | 130 | Jessica Davis |
 | 335 | 129 | Loopy Tiler |
 | 336 | 129 | Mathew Trudell |
-| 337 | 128 | Jack Vlasak |
-| 338 | 128 | Darrel K Pemberton |
-| 339 | 127 | Treneil Daffin |
+| 337 | 128 | Darrel K Pemberton |
+| 338 | 128 | Jack Vlasak |
+| 339 | 127 | Comedian Prince Paul |
 | 340 | 127 | Ozell Jones Jr. |
-| 341 | 127 | Comedian Prince Paul |
-| 342 | 125 | Tosha Michelle |
-| 343 | 125 | Dedra M Prester |
-| 344 | 125 | Dizzy Dashy |
+| 341 | 127 | Treneil Daffin |
+| 342 | 125 | Dizzy Dashy |
+| 343 | 125 | Tosha Michelle |
+| 344 | 125 | Dedra M Prester |
 | 345 | 125 | LaTonya Myers |
 | 346 | 124 | Alyssa Rae |
-| 347 | 123 | Cauiasia DeJ'ae |
-| 348 | 123 | Rachael Bakowicz Edwards |
+| 347 | 123 | Rachael Bakowicz Edwards |
+| 348 | 123 | Cauiasia DeJ'ae |
 | 349 | 122 | Xana Zania Bopp |
-| 350 | 121 | Tee Spinks |
-| 351 | 121 | Tiana Monique |
+| 350 | 121 | Tiana Monique |
+| 351 | 121 | Tee Spinks |
 | 352 | 121 | Shanaa Germany Crittenden |
 | 353 | 121 | Bubbly Piececlear |
-| 354 | 120 | Dynah Gordon |
+| 354 | 120 | Teri Marie Clayton |
 | 355 | 120 | rls |
-| 356 | 120 | Teri Marie Clayton |
-| 357 | 120 | Tanya Clayton |
-| 358 | 120 | Guy Incognito |
-| 359 | 120 | Katrina Ramey |
-| 360 | 119 | Kelvin Cook |
-| 361 | 119 | Lexx Robins |
+| 356 | 120 | Tanya Clayton |
+| 357 | 120 | Guy Incognito |
+| 358 | 120 | Katrina Ramey |
+| 359 | 120 | Dynah Gordon |
+| 360 | 119 | Lexx Robins |
+| 361 | 119 | Kelvin Cook |
 | 362 | 118 | Hasty Pivoty |
 | 363 | 118 | izzybella |
-| 364 | 117 | Choc |
-| 365 | 117 | MonaSparks |
+| 364 | 117 | MonaSparks |
+| 365 | 117 | Choc |
 | 366 | 116 | Shalya Terry |
-| 367 | 115 | wmedina67 |
-| 368 | 115 | Ashleyy Netchert |
-| 369 | 114 | Faith Armone |
-| 370 | 114 | Nina Davis |
-| 371 | 114 | LAhoneybun82 |
-| 372 | 114 | Brittany Fells |
+| 367 | 115 | Ashleyy Netchert |
+| 368 | 115 | wmedina67 |
+| 369 | 114 | LAhoneybun82 |
+| 370 | 114 | Brittany Fells |
+| 371 | 114 | Nina Davis |
+| 372 | 114 | Faith Armone |
 | 373 | 112 | Breezy Catcher |
-| 374 | 112 | Jennah |
-| 375 | 112 | GamerQueenDS |
-| 376 | 112 | Block King |
+| 374 | 112 | Block King |
+| 375 | 112 | Jennah |
+| 376 | 112 | GamerQueenDS |
 | 377 | 111 | Daring Blockclear |
 | 378 | 111 | Ad Doctor |
 | 379 | 110 | Nisha Sunshine Jenkins |
-| 380 | 110 | De'Nell Edwards |
+| 380 | 110 | Nate Myers |
 | 381 | 110 | Chandler Magee |
-| 382 | 110 | Slinky Clearzone |
-| 383 | 110 | Nate Myers |
-| 384 | 109 | Bambi Johnson |
-| 385 | 109 | Manda Allen |
-| 386 | 109 | Tamika Fisher |
-| 387 | 109 | Cece Fowler |
+| 382 | 110 | De'Nell Edwards |
+| 383 | 110 | Slinky Clearzone |
+| 384 | 109 | Cece Fowler |
+| 385 | 109 | Bambi Johnson |
+| 386 | 109 | Manda Allen |
+| 387 | 109 | Tamika Fisher |
 | 388 | 109 | Tamara Johnson-Carter |
 | 389 | 108 | Char |
 | 390 | 107 | Laurie Napper |
 | 391 | 106 | Mister Reid |
-| 392 | 105 | QueenShay AllGood |
-| 393 | 105 | Mighty Dropper |
-| 394 | 105 | Mario Meliodas |
+| 392 | 105 | Mighty Dropper |
+| 393 | 105 | Mario Meliodas |
+| 394 | 105 | QueenShay AllGood |
 | 395 | 105 | Maria |
 | 396 | 105 | BabyCakes |
 | 397 | 105 | Analiza Ramos |
@@ -958,59 +958,59 @@
 | 950 | 33 | Flash97 |
 | 951 | 33 | Krose Byers |
 | 952 | 33 | Cori Cleland |
-| 953 | 33 | P C |
-| 954 | 33 | Clever Blocker |
-| 955 | 33 | Nikiya |
+| 953 | 33 | Clever Blocker |
+| 954 | 33 | Melanie Houghton-McCann |
+| 955 | 33 | Motown Chuck |
 | 956 | 33 | Koz176 |
-| 957 | 33 | Melanie Houghton-McCann |
-| 958 | 32 | Tomme Poliwka |
-| 959 | 32 | Melvin Simpson |
-| 960 | 32 | Dandy Blockfall |
-| 961 | 32 | Stephanie Scott |
-| 962 | 32 | Nikita Jones |
-| 963 | 32 | Abdul Malik |
-| 964 | 32 | Alisia Johns |
-| 965 | 32 | LaQuita White |
-| 966 | 32 | TBabii24 |
-| 967 | 32 | Tessa Felice Hill |
-| 968 | 32 | Erica Campbell-Stillings |
-| 969 | 32 | Seirra Robinson |
-| 970 | 32 | Chummy Liner |
-| 971 | 32 | Linda Lasha Messenger |
-| 972 | 31 | Plucky Clearpiece |
-| 973 | 31 | kingbrook |
-| 974 | 31 | Edward Hickmon |
-| 975 | 31 | Sharon Lynn |
-| 976 | 31 | Donnie Withthebody |
-| 977 | 31 | Dirty Deeds |
+| 957 | 33 | Nikiya |
+| 958 | 33 | P C |
+| 959 | 32 | Nikita Jones |
+| 960 | 32 | Abdul Malik |
+| 961 | 32 | Alisia Johns |
+| 962 | 32 | Tomme Poliwka |
+| 963 | 32 | LaQuita White |
+| 964 | 32 | TBabii24 |
+| 965 | 32 | Tessa Felice Hill |
+| 966 | 32 | Erica Campbell-Stillings |
+| 967 | 32 | Stephanie Scott |
+| 968 | 32 | Dandy Blockfall |
+| 969 | 32 | Melvin Simpson |
+| 970 | 32 | Seirra Robinson |
+| 971 | 32 | Chummy Liner |
+| 972 | 32 | Linda Lasha Messenger |
+| 973 | 31 | Plucky Clearpiece |
+| 974 | 31 | kingbrook |
+| 975 | 31 | Edward Hickmon |
+| 976 | 31 | Sharon Lynn |
+| 977 | 31 | Donnie Withthebody |
 | 978 | 31 | Krista McNair |
-| 979 | 30 | Yolanda Sadler |
-| 980 | 30 | James Bryant II |
-| 981 | 30 | Juan Alvarez |
-| 982 | 30 | tk |
-| 983 | 30 | Tanisha Robinson |
-| 984 | 30 | Eugenia Vanclusen |
-| 985 | 30 | Bouncy Glide |
-| 986 | 30 | Christina Wesley |
-| 987 | 30 | Ayeisha W |
-| 988 | 30 | Jessica Kirby |
-| 989 | 30 | Jessica Corey |
-| 990 | 30 | Motown Chuck |
+| 979 | 31 | Dirty Deeds |
+| 980 | 30 | Yolanda Sadler |
+| 981 | 30 | James Bryant II |
+| 982 | 30 | Juan Alvarez |
+| 983 | 30 | tk |
+| 984 | 30 | Tanisha Robinson |
+| 985 | 30 | Eugenia Vanclusen |
+| 986 | 30 | Bouncy Glide |
+| 987 | 30 | Christina Wesley |
+| 988 | 30 | TiffanyG |
+| 989 | 30 | Ayeisha W |
+| 990 | 30 | Jessica Kirby |
 | 991 | 30 | DeAngelo Sorrells |
 | 992 | 30 | Witty Blockpiece |
-| 993 | 30 | TiffanyG |
-| 994 | 29 | Everett Semmions |
-| 995 | 29 | Maranda Broadway |
-| 996 | 29 | Frilly Riserbuilder |
-| 997 | 29 | Chris Bell |
+| 993 | 30 | Jessica Corey |
+| 994 | 29 | Lazy Matchgrid |
+| 995 | 29 | Jovy |
+| 996 | 29 | MindlessMic |
+| 997 | 29 | Damien Fonseca |
 | 998 | 29 | Elizabeth Ragland |
-| 999 | 29 | MindlessMic |
-| 1000 | 29 | Jovy |
-| 1001 | 29 | Damien Fonseca |
-| 1002 | 29 | Lazy Matchgrid |
-| 1003 | 29 | Jeffrey Barrows |
-| 1004 | 29 | Panda Vibes |
-| 1005 | 29 | Epic Wipepiece |
+| 999 | 29 | Everett Semmions |
+| 1000 | 29 | Chris Bell |
+| 1001 | 29 | Jeffrey Barrows |
+| 1002 | 29 | Panda Vibes |
+| 1003 | 29 | Maranda Broadway |
+| 1004 | 29 | Epic Wipepiece |
+| 1005 | 29 | Frilly Riserbuilder |
 | 1006 | 28 | Will Stanton |
 | 1007 | 28 | Dannie Brown |
 | 1008 | 28 | SnazzySnippet |
