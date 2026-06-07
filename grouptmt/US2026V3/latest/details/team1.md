@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 21:36:19 UTC
+# Standings for team1 as of 2026-06-07 21:36:41 UTC
 
 **Total Participants:** 1584
 
@@ -74,7 +74,7 @@
 | 66 | 1017 | Lisa Müller |
 | 67 | 981 | Court Court |
 | 68 | 980 | Bre Maugh |
-| 69 | 964 | Kimberly Hernandez |
+| 69 | 965 | Kimberly Hernandez |
 | 70 | 939 | Uneekly Mayde |
 | 71 | 935 | Whitney Butler |
 | 72 | 934 | Eric Mcgaughy |
@@ -1156,25 +1156,25 @@
 | 1148 | 33 | Brianna Floyd |
 | 1149 | 33 | Kim Ratcliff Leatherman |
 | 1150 | 33 | Clever Blocker |
-| 1151 | 32 | Nikita Jones |
+| 1151 | 32 | Stephanie Scott |
 | 1152 | 32 | TBabii24 |
-| 1153 | 32 | Alisia Johns |
-| 1154 | 32 | Stephanie Vinson |
-| 1155 | 32 | Tessa Felice Hill |
-| 1156 | 32 | Aihpos |
-| 1157 | 32 | Stephanie Scott |
-| 1158 | 32 | James Bryant II |
-| 1159 | 32 | Sylvia Holst |
-| 1160 | 31 | Edward Hickmon |
-| 1161 | 31 | EchoQuirky Blockclear |
-| 1162 | 31 | Twisty Dashy |
-| 1163 | 31 | Krista McNair |
-| 1164 | 30 | TiffanyG |
-| 1165 | 30 | Jessica Corey |
-| 1166 | 30 | Dee |
+| 1153 | 32 | Stephanie Vinson |
+| 1154 | 32 | Alisia Johns |
+| 1155 | 32 | Aihpos |
+| 1156 | 32 | Tessa Felice Hill |
+| 1157 | 32 | Nikita Jones |
+| 1158 | 32 | Plucky Slamdrop |
+| 1159 | 32 | James Bryant II |
+| 1160 | 32 | Sylvia Holst |
+| 1161 | 31 | Edward Hickmon |
+| 1162 | 31 | EchoQuirky Blockclear |
+| 1163 | 31 | Twisty Dashy |
+| 1164 | 31 | Krista McNair |
+| 1165 | 30 | TiffanyG |
+| 1166 | 30 | Jessica Corey |
 | 1167 | 30 | Terry Lee Moya |
-| 1168 | 30 | Ernie Waters |
-| 1169 | 30 | midnightxtoker |
+| 1168 | 30 | Dee |
+| 1169 | 30 | Frilly Mover |
 | 1170 | 30 | Yolanda Sadler |
 | 1171 | 30 | Bouncy Glide |
 | 1172 | 30 | Chavez James |
@@ -1187,9 +1187,9 @@
 | 1179 | 30 | Wu May |
 | 1180 | 30 | Simone Dublin |
 | 1181 | 30 | tk |
-| 1182 | 30 | Frilly Mover |
-| 1183 | 29 | Lazy Matchgrid |
-| 1184 | 29 | Plucky Slamdrop |
+| 1182 | 30 | midnightxtoker |
+| 1183 | 30 | Ernie Waters |
+| 1184 | 29 | Lazy Matchgrid |
 | 1185 | 29 | Hasty Brickzone |
 | 1186 | 29 | Epic Wipepiece |
 | 1187 | 29 | Frilly Riserbuilder |

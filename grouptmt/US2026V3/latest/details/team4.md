@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 21:36:19 UTC
+# Standings for team4 as of 2026-06-07 21:36:41 UTC
 
 **Total Participants:** 1618
 
@@ -119,10 +119,10 @@
 | 111 | 564 | Krysten Danielle Richard |
 | 112 | 560 | Becky Doll-Hall |
 | 113 | 555 | iiPurgeV2 |
-| 114 | 550 | Nicole Peoples |
-| 115 | 550 | vag1974 |
-| 116 | 530 | Jewelz |
-| 117 | 530 | CJ |
+| 114 | 550 | vag1974 |
+| 115 | 550 | Nicole Peoples |
+| 116 | 530 | CJ |
+| 117 | 530 | Jewelz |
 | 118 | 528 | Katie Lynn Petit |
 | 119 | 521 | Misty Leigh |
 | 120 | 520 | Kim |
@@ -141,8 +141,8 @@
 | 133 | 452 | Sarah Berry Stevens |
 | 134 | 443 | Crissy Hoffman |
 | 135 | 438 | Jesse Olive |
-| 136 | 433 | Gorica Prusina |
-| 137 | 433 | Real Talk Vibes |
+| 136 | 433 | Real Talk Vibes |
+| 137 | 433 | Gorica Prusina |
 | 138 | 430 | Kaash Brxtt |
 | 139 | 429 | Cherry |
 | 140 | 424 | Snappy Fitzone |
@@ -155,12 +155,12 @@
 | 147 | 409 | Hen |
 | 148 | 406 | Kelley Roach |
 | 149 | 402 | Boldy Rumbler |
-| 150 | 400 | Suzanne Carter |
-| 151 | 400 | Amber Doyle |
+| 150 | 400 | Amber Doyle |
+| 151 | 400 | Suzanne Carter |
 | 152 | 398 | Nicole |
-| 153 | 397 | Damon Gaston |
+| 153 | 397 | Shiny Dashy |
 | 154 | 397 | Danielle Mitchell |
-| 155 | 397 | Shiny Dashy |
+| 155 | 397 | Damon Gaston |
 | 156 | 395 | Pepone Pepe |
 | 157 | 382 | Taz |
 | 158 | 379 | Devinlee Brown |
@@ -170,8 +170,8 @@
 | 162 | 373 | Tanita Jobe |
 | 163 | 373 | Scamp Jones |
 | 164 | 363 | Christy Beezley-Forbush |
-| 165 | 359 | BCO22 |
-| 166 | 359 | Megan Vick |
+| 165 | 359 | Megan Vick |
+| 166 | 359 | BCO22 |
 | 167 | 358 | Joyce Myers |
 | 168 | 352 | Bobbie Harrell |
 | 169 | 350 | RotatedWrongAgain |
@@ -188,19 +188,19 @@
 | 180 | 325 | Kristen Wallace |
 | 181 | 324 | Dazzle Dragon |
 | 182 | 321 | beTrue76 |
-| 183 | 320 | Magz |
-| 184 | 320 | Shmeedo |
+| 183 | 320 | Shmeedo |
+| 184 | 320 | Magz |
 | 185 | 317 | Sisi RedVelvet Reneè |
 | 186 | 317 | Lush Fitblock |
-| 187 | 315 | Aramat |
-| 188 | 315 | Thomasena Eady Reid |
+| 187 | 315 | Thomasena Eady Reid |
+| 188 | 315 | Aramat |
 | 189 | 314 | Slimm |
 | 190 | 310 | Fran Aaron-Ring |
 | 191 | 308 | Plucky Shatterfit |
 | 192 | 308 | matt |
 | 193 | 303 | Brick House |
-| 194 | 302 | Danny Ortiz |
-| 195 | 302 | Piece of Cake |
+| 194 | 302 | Piece of Cake |
+| 195 | 302 | Danny Ortiz |
 | 196 | 300 | CIRAZYPNOY |
 | 197 | 300 | Genag |
 | 198 | 299 | TRUCHILD777$$$ |
@@ -214,8 +214,8 @@
 | 206 | 288 | Maria Castillo |
 | 207 | 283 | QueenLi86 |
 | 208 | 282 | Goofy Riser |
-| 209 | 281 | Margie Thomas |
-| 210 | 281 | Waxboss |
+| 209 | 281 | Waxboss |
+| 210 | 281 | Margie Thomas |
 | 211 | 281 | Capone |
 | 212 | 280 | Baysoph |
 | 213 | 279 | Anna Gribble |
