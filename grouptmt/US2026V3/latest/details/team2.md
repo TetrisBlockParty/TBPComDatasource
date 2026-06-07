@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 21:20:19 UTC
+# Standings for team2 as of 2026-06-07 21:20:44 UTC
 
 **Total Participants:** 1906
 
@@ -91,12 +91,12 @@
 | 83 | 1072 | Kvothe |
 | 84 | 1070 | Michelle Maulsby |
 | 85 | 1062 | Lisa Breiding |
-| 86 | 1020 | Ruby Sandberg |
-| 87 | 1011 | Criccett Hooper-Smith |
-| 88 | 1000 | LEW |
-| 89 | 1000 | Sydney Headley |
-| 90 | 988 | Dane Marko |
-| 91 | 987 | Charlie Wilson |
+| 86 | 1027 | Charlie Wilson |
+| 87 | 1020 | Ruby Sandberg |
+| 88 | 1011 | Criccett Hooper-Smith |
+| 89 | 1000 | LEW |
+| 90 | 1000 | Sydney Headley |
+| 91 | 988 | Dane Marko |
 | 92 | 970 | Bridget N Jonathan Franz |
 | 93 | 966 | Allison Jarman |
 | 94 | 916 | Amber Salazar |
@@ -328,38 +328,38 @@
 | 320 | 225 | Cheery Towerzone |
 | 321 | 224 | Chasity Simpson |
 | 322 | 224 | Nathan Walker |
-| 323 | 223 | Santara Ferguson |
-| 324 | 222 | Kimmyc |
-| 325 | 221 | Bianca Woodruff |
-| 326 | 220 | Sherri E Woods Hess |
-| 327 | 220 | ShiverMeSplinter |
-| 328 | 220 | Flashy Basegrid |
-| 329 | 219 | Aldotfus Williams |
-| 330 | 219 | Stella |
-| 331 | 218 | Julie Alexander Sykes |
-| 332 | 218 | Erica South |
-| 333 | 218 | Anthony Swift |
-| 334 | 217 | Michelle M Braley |
-| 335 | 217 | Amanda Priddy |
-| 336 | 216 | Alicia Kinney |
-| 337 | 214 | Stephany Green |
-| 338 | 212 | Charles E Mccardell |
-| 339 | 212 | Flashy Hitter |
-| 340 | 212 | Boldy Fitclear |
-| 341 | 210 | Zappy Liney |
-| 342 | 210 | Robin G |
-| 343 | 210 | Amanda Bottorff |
-| 344 | 209 | Kevin Mccoy |
-| 345 | 209 | Chill Line |
-| 346 | 208 | Martha Lynn Wiggins |
-| 347 | 207 | Joanna Trevin Thompson |
-| 348 | 207 | Alonzo Reed |
-| 349 | 207 | Amber Cogdill |
-| 350 | 206 | Tango Sierra |
-| 351 | 206 | Jodi Johnson |
-| 352 | 206 | meg |
-| 353 | 206 | Dad |
-| 354 | 206 | Havik Whitfield |
+| 323 | 224 | Havik Whitfield |
+| 324 | 223 | Santara Ferguson |
+| 325 | 222 | Kimmyc |
+| 326 | 221 | Bianca Woodruff |
+| 327 | 220 | Sherri E Woods Hess |
+| 328 | 220 | ShiverMeSplinter |
+| 329 | 220 | Flashy Basegrid |
+| 330 | 219 | Aldotfus Williams |
+| 331 | 219 | Stella |
+| 332 | 218 | Julie Alexander Sykes |
+| 333 | 218 | Erica South |
+| 334 | 218 | Anthony Swift |
+| 335 | 217 | Michelle M Braley |
+| 336 | 217 | Amanda Priddy |
+| 337 | 216 | Alicia Kinney |
+| 338 | 215 | Charles E Mccardell |
+| 339 | 214 | Stephany Green |
+| 340 | 212 | Flashy Hitter |
+| 341 | 212 | Boldy Fitclear |
+| 342 | 210 | Zappy Liney |
+| 343 | 210 | Robin G |
+| 344 | 210 | Amanda Bottorff |
+| 345 | 209 | Kevin Mccoy |
+| 346 | 209 | Chill Line |
+| 347 | 208 | Martha Lynn Wiggins |
+| 348 | 207 | Joanna Trevin Thompson |
+| 349 | 207 | Alonzo Reed |
+| 350 | 207 | Amber Cogdill |
+| 351 | 206 | Tango Sierra |
+| 352 | 206 | Jodi Johnson |
+| 353 | 206 | meg |
+| 354 | 206 | Dad |
 | 355 | 204 | Tina Marie |
 | 356 | 204 | Teddy Williams |
 | 357 | 204 | Rick |
@@ -760,37 +760,37 @@
 | 752 | 88 | Missy Tubb Overly |
 | 753 | 88 | BrendaLee NolanBos |
 | 754 | 88 | Quirky Gridclear |
-| 755 | 87 | BB |
-| 756 | 87 | Tetrismastrr |
-| 757 | 87 | Rmk |
-| 758 | 87 | Sara Karels |
-| 759 | 87 | Wendy Michelle Wise-Ledford |
-| 760 | 86 | Lazy Staggerpiece |
-| 761 | 86 | bozzycat |
-| 762 | 86 | Talyn Domingues |
-| 763 | 86 | Samantha Brown |
-| 764 | 86 | Jessica Murphree |
-| 765 | 86 | shell |
-| 766 | 86 | Errkuh |
-| 767 | 86 | Brandy McCleary |
-| 768 | 85 | Val |
-| 769 | 85 | Nerdy Linebuilder |
-| 770 | 85 | Heather |
-| 771 | 85 | Jason P. Schwartz |
-| 772 | 85 | Wacky Stack |
-| 773 | 85 | Tonya Marino |
-| 774 | 85 | Seamus |
-| 775 | 85 | Allison Peterson |
-| 776 | 85 | Daisy Girl |
-| 777 | 85 | James Moore |
-| 778 | 85 | Frisky Linkbuilder |
-| 779 | 85 | Jeremy Daurbigny |
-| 780 | 84 | Jolly Twisterfit |
-| 781 | 84 | Joshua Hopkins |
-| 782 | 84 | Stacey Loretta Wallace |
-| 783 | 84 | Calah Amore |
-| 784 | 83 | Dawnypooh |
-| 785 | 83 | Leigh Ann |
+| 755 | 88 | Leigh Ann |
+| 756 | 87 | BB |
+| 757 | 87 | Tetrismastrr |
+| 758 | 87 | Rmk |
+| 759 | 87 | Sara Karels |
+| 760 | 87 | Wendy Michelle Wise-Ledford |
+| 761 | 86 | Lazy Staggerpiece |
+| 762 | 86 | bozzycat |
+| 763 | 86 | Talyn Domingues |
+| 764 | 86 | Samantha Brown |
+| 765 | 86 | Jessica Murphree |
+| 766 | 86 | shell |
+| 767 | 86 | Errkuh |
+| 768 | 86 | Brandy McCleary |
+| 769 | 85 | Val |
+| 770 | 85 | Nerdy Linebuilder |
+| 771 | 85 | Heather |
+| 772 | 85 | Jason P. Schwartz |
+| 773 | 85 | Wacky Stack |
+| 774 | 85 | Tonya Marino |
+| 775 | 85 | Seamus |
+| 776 | 85 | Allison Peterson |
+| 777 | 85 | Daisy Girl |
+| 778 | 85 | James Moore |
+| 779 | 85 | Frisky Linkbuilder |
+| 780 | 85 | Jeremy Daurbigny |
+| 781 | 84 | Jolly Twisterfit |
+| 782 | 84 | Joshua Hopkins |
+| 783 | 84 | Stacey Loretta Wallace |
+| 784 | 84 | Calah Amore |
+| 785 | 83 | Dawnypooh |
 | 786 | 83 | Jodee Woods |
 | 787 | 83 | Becky Kennon |
 | 788 | 83 | CATFISH |
