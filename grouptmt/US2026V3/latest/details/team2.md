@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 05:30:40 UTC
+# Standings for team2 as of 2026-06-07 05:31:18 UTC
 
 **Total Participants:** 1635
 
@@ -1491,97 +1491,97 @@
 | 1483 | 10 | Twisty Snapclear |
 | 1484 | 10 | Lorrie Girardi |
 | 1485 | 10 | Daily Findery |
-| 1486 | 10 | Tracy Coe |
-| 1487 | 10 | foxxiebby |
-| 1488 | 10 | Rick Green |
-| 1489 | 10 | Breezy Ivy |
-| 1490 | 10 | Melissa Aycock |
-| 1491 | 10 | Mindy Corriher |
-| 1492 | 10 | David Starmer |
-| 1493 | 10 | Tiffany Townsend |
-| 1494 | 10 | Amanda Fields |
-| 1495 | 10 | TyShantelle |
-| 1496 | 10 | Emma Danielle Wynn |
-| 1497 | 10 | Rob Phillips |
-| 1498 | 10 | FinnsDad |
-| 1499 | 10 | Brittnee Lane |
-| 1500 | 10 | Crafty Combo |
-| 1501 | 10 | Zesty Dash |
-| 1502 | 10 | Celeste Duet |
-| 1503 | 10 | Danh Nguyen |
-| 1504 | 10 | Rachel Switala |
-| 1505 | 10 | Melissa Metcalf |
-| 1506 | 10 | Dhelsie Qurasima |
-| 1507 | 10 | Jami Borges |
-| 1508 | 10 | Rachelle Parker |
-| 1509 | 10 | Dandy Fill |
-| 1510 | 10 | Crystal Owen Yocolano |
-| 1511 | 10 | Amanda Kennedy |
+| 1486 | 10 | Rachel Switala |
+| 1487 | 10 | Breezy Ivy |
+| 1488 | 10 | Mindy Corriher |
+| 1489 | 10 | David Starmer |
+| 1490 | 10 | Amanda Fields |
+| 1491 | 10 | TyShantelle |
+| 1492 | 10 | Emma Danielle Wynn |
+| 1493 | 10 | Rob Phillips |
+| 1494 | 10 | FinnsDad |
+| 1495 | 10 | Tracy Coe |
+| 1496 | 10 | Crafty Combo |
+| 1497 | 10 | Zesty Dash |
+| 1498 | 10 | Celeste Duet |
+| 1499 | 10 | Danh Nguyen |
+| 1500 | 10 | Rick Green |
+| 1501 | 10 | Tiffany Townsend |
+| 1502 | 10 | Dhelsie Qurasima |
+| 1503 | 10 | Melissa Metcalf |
+| 1504 | 10 | Rachelle Parker |
+| 1505 | 10 | Dandy Fill |
+| 1506 | 10 | Jami Borges |
+| 1507 | 10 | Crystal Owen Yocolano |
+| 1508 | 10 | Melissa Aycock |
+| 1509 | 10 | Aislinn Lowe |
+| 1510 | 10 | LivePhoenix |
+| 1511 | 10 | Mike Clements |
 | 1512 | 10 | Justin Furne |
-| 1513 | 10 | Berta Hurley |
-| 1514 | 10 | Lisa Schwobe |
-| 1515 | 10 | Donna Casey |
-| 1516 | 10 | Ducky West |
-| 1517 | 10 | Pickle |
-| 1518 | 10 | Cardisa Hall |
-| 1519 | 10 | Jazzy Gridclear |
-| 1520 | 10 | Joe Duffer |
-| 1521 | 10 | Goofy Shatterbuilder |
-| 1522 | 10 | Angiela Hope Boggs |
+| 1513 | 10 | Pickle |
+| 1514 | 10 | Ashley Anderson |
+| 1515 | 10 | Ducky West |
+| 1516 | 10 | Cardisa Hall |
+| 1517 | 10 | Jazzy Gridclear |
+| 1518 | 10 | Joe Duffer |
+| 1519 | 10 | Goofy Shatterbuilder |
+| 1520 | 10 | Angiela Hope Boggs |
+| 1521 | 10 | Amanda Kennedy |
+| 1522 | 10 | Donna Casey |
 | 1523 | 10 | TaLana Ortley |
-| 1524 | 10 | Mike Clements |
+| 1524 | 10 | Lisa Schwobe |
 | 1525 | 10 | Steve Appel |
 | 1526 | 10 | Lacey Johnson |
-| 1527 | 10 | Ashley Anderson |
-| 1528 | 10 | Randy Clevenger |
-| 1529 | 10 | LivePhoenix |
-| 1530 | 10 | Jaelyn Orr |
-| 1531 | 10 | Fisherman Jackson |
-| 1532 | 10 | Aislinn Lowe |
-| 1533 | 10 | Jennifer Bell |
-| 1534 | 10 | Margie King |
-| 1535 | 9 | Melinda Rausch |
-| 1536 | 9 | Snazzy Cascadezone |
-| 1537 | 9 | Terri Ramsey |
-| 1538 | 9 | Gigi |
-| 1539 | 9 | Samantha Smith |
-| 1540 | 9 | Lori Loup |
-| 1541 | 9 | Holly |
-| 1542 | 9 | Bethany Gerber |
-| 1543 | 9 | Latrell Thomas |
-| 1544 | 9 | Dapper Corner |
-| 1545 | 9 | Tabitha Porter |
-| 1546 | 9 | David Thomas |
-| 1547 | 9 | Yuhh |
-| 1548 | 9 | Jeff Mullins |
-| 1549 | 9 | Andrea |
-| 1550 | 9 | Naomi Christiansen |
-| 1551 | 9 | Lindsey Butler |
-| 1552 | 9 | Cheery Striker |
+| 1527 | 10 | Randy Clevenger |
+| 1528 | 10 | Jaelyn Orr |
+| 1529 | 10 | Fisherman Jackson |
+| 1530 | 10 | Sk8Mom |
+| 1531 | 10 | Jennifer Bell |
+| 1532 | 10 | Margie King |
+| 1533 | 10 | Brittnee Lane |
+| 1534 | 10 | Berta Hurley |
+| 1535 | 10 | foxxiebby |
+| 1536 | 9 | Holly |
+| 1537 | 9 | Snazzy Cascadezone |
+| 1538 | 9 | Latrell Thomas |
+| 1539 | 9 | Bethany Gerber |
+| 1540 | 9 | Terri Ramsey |
+| 1541 | 9 | Samantha Smith |
+| 1542 | 9 | Lori Loup |
+| 1543 | 9 | Melinda Rausch |
+| 1544 | 9 | Gigi |
+| 1545 | 9 | Cheery Striker |
+| 1546 | 9 | Tabitha Porter |
+| 1547 | 9 | David Thomas |
+| 1548 | 9 | Yuhh |
+| 1549 | 9 | Dapper Corner |
+| 1550 | 9 | Andrea |
+| 1551 | 9 | Naomi Christiansen |
+| 1552 | 9 | Lindsey Butler |
 | 1553 | 9 | Giggly Spinblock |
-| 1554 | 8 | Loony Ziggy |
-| 1555 | 8 | Jumpy Twistslam |
-| 1556 | 8 | Crystal Alexander |
-| 1557 | 8 | Hasty Linker |
-| 1558 | 8 | Lissa |
-| 1559 | 8 | Cherry L. Salama |
-| 1560 | 8 | Mariah Mandel |
-| 1561 | 8 | Zippy Balance |
-| 1562 | 8 | Beth Engberg |
-| 1563 | 8 | Jenna Thorn |
-| 1564 | 8 | Kennadee Albertson |
-| 1565 | 8 | Chill Racker |
-| 1566 | 8 | Sk8Mom |
-| 1567 | 8 | Funky Slide |
+| 1554 | 9 | Jeff Mullins |
+| 1555 | 8 | Funky Slide |
+| 1556 | 8 | Chill Racker |
+| 1557 | 8 | Zippy Balance |
+| 1558 | 8 | Loony Ziggy |
+| 1559 | 8 | Beth Engberg |
+| 1560 | 8 | Crystal Alexander |
+| 1561 | 8 | Hasty Linker |
+| 1562 | 8 | Lissa |
+| 1563 | 8 | Cherry L. Salama |
+| 1564 | 8 | Mariah Mandel |
+| 1565 | 8 | Jumpy Twistslam |
+| 1566 | 8 | Jenna Thorn |
+| 1567 | 8 | Kennadee Albertson |
 | 1568 | 8 | Tina Doyens Munis |
-| 1569 | 7 | Mistress |
-| 1570 | 7 | Linda Riegsecker |
-| 1571 | 7 | Perky Rollfit |
-| 1572 | 7 | Michael Bond |
-| 1573 | 7 | Sam Blinn |
-| 1574 | 7 | Lush Tile |
-| 1575 | 7 | Flashy Cascadeclear |
-| 1576 | 7 | Chirpy Shiftspin |
+| 1569 | 7 | Perky Rollfit |
+| 1570 | 7 | Sam Blinn |
+| 1571 | 7 | Lush Tile |
+| 1572 | 7 | Flashy Cascadeclear |
+| 1573 | 7 | Mistress |
+| 1574 | 7 | Chirpy Shiftspin |
+| 1575 | 7 | Linda Riegsecker |
+| 1576 | 7 | Michael Bond |
 | 1577 | 7 | Elizabeth Barnhart Floyd |
 | 1578 | 7 | Sasha Hamilton |
 | 1579 | 7 | Janice Simpson |
