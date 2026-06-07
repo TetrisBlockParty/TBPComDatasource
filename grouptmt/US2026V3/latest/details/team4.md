@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 00:14:39 UTC
+# Standings for team4 as of 2026-06-07 00:15:17 UTC
 
 **Total Participants:** 1217
 
@@ -14,7 +14,7 @@
 | 6 | 4920 | Jerald Jones |
 | 7 | 4600 | Candice Driver |
 | 8 | 4323 | Nia Mayfield |
-| 9 | 4146 | delilahbelle |
+| 9 | 4241 | delilahbelle |
 | 10 | 4139 | Bryony Nicholson |
 | 11 | 4126 | Anna Moses |
 | 12 | 3912 | TitiLo72 |
@@ -126,8 +126,8 @@
 | 118 | 332 | RotatedWrongAgain |
 | 119 | 326 | Bobbie Harrell |
 | 120 | 324 | Annastaissia Todd |
-| 121 | 318 | Ermadette |
-| 122 | 318 | Gorica Prusina |
+| 121 | 323 | Gorica Prusina |
+| 122 | 318 | Ermadette |
 | 123 | 317 | Taz |
 | 124 | 317 | J |
 | 125 | 303 | Debby Ruof |
@@ -357,64 +357,64 @@
 | 349 | 95 | Laurie Patrick |
 | 350 | 95 | Mark Fitch Jr. |
 | 351 | 95 | Anna Ryan |
-| 352 | 94 | Mighty1 |
-| 353 | 94 | Janae Harris |
-| 354 | 94 | Karen Rodriguez |
-| 355 | 94 | Reina Pagan |
-| 356 | 94 | Diana Fernandez |
+| 352 | 94 | Karen Rodriguez |
+| 353 | 94 | Diana Fernandez |
+| 354 | 94 | Reina Pagan |
+| 355 | 94 | Mighty1 |
+| 356 | 94 | Janae Harris |
 | 357 | 93 | Loopy Hitter |
-| 358 | 92 | Snippy Splitter |
-| 359 | 92 | William Brooks |
+| 358 | 92 | William Brooks |
+| 359 | 92 | Snippy Splitter |
 | 360 | 92 | my my |
-| 361 | 91 | Cindy |
-| 362 | 91 | Miss Beast |
-| 363 | 91 | Drh4090 |
-| 364 | 91 | Jennifer Garcia |
-| 365 | 90 | Witty Fitblock |
-| 366 | 90 | Flashy Shatterer |
+| 361 | 91 | Miss Beast |
+| 362 | 91 | Drh4090 |
+| 363 | 91 | Jennifer Garcia |
+| 364 | 91 | Cindy |
+| 365 | 90 | Dexter Hammond Jr |
+| 366 | 90 | Codey Haffner |
 | 367 | 90 | 1694AF |
-| 368 | 90 | Codey Haffner |
-| 369 | 90 | Dexter Hammond Jr |
-| 370 | 90 | Garden Girlie |
-| 371 | 89 | Chirpy Snapclear |
+| 368 | 90 | Witty Fitblock |
+| 369 | 90 | Garden Girlie |
+| 370 | 90 | Flashy Shatterer |
+| 371 | 89 | Rosy Perez |
 | 372 | 89 | Mrs |
-| 373 | 89 | Rosy Perez |
+| 373 | 89 | Snazzy Corner |
 | 374 | 89 | Bon Jovi |
-| 375 | 88 | SandyEva |
+| 375 | 89 | Chirpy Snapclear |
 | 376 | 88 | DizzB400 |
-| 377 | 88 | Deva Marie Barber |
+| 377 | 88 | SandyEva |
 | 378 | 88 | Hasty Dropzone |
-| 379 | 88 | Donna Bush |
-| 380 | 88 | Chonda OhanaMomma Michelle |
-| 381 | 87 | Jeff Margolis |
-| 382 | 87 | Miwa |
-| 383 | 87 | da1ndonly |
-| 384 | 87 | Limbo |
-| 385 | 86 | Dandy Cascade |
-| 386 | 86 | ManOfSteel |
-| 387 | 86 | SupaFly |
-| 388 | 86 | Jessica Jones Bolton |
-| 389 | 86 | Autumn Maher |
-| 390 | 86 | Stef |
-| 391 | 86 | Courtney Niichole |
-| 392 | 85 | Kari Smith |
-| 393 | 85 | Dolores Falco |
-| 394 | 85 | Wacky Brick |
-| 395 | 85 | MelodiousDeez |
-| 396 | 84 | Happy Shatterfit |
+| 379 | 88 | Deva Marie Barber |
+| 380 | 88 | Donna Bush |
+| 381 | 88 | Chonda OhanaMomma Michelle |
+| 382 | 87 | Jeff Margolis |
+| 383 | 87 | Miwa |
+| 384 | 87 | da1ndonly |
+| 385 | 87 | Limbo |
+| 386 | 86 | Courtney Niichole |
+| 387 | 86 | Dandy Cascade |
+| 388 | 86 | SupaFly |
+| 389 | 86 | Jessica Jones Bolton |
+| 390 | 86 | Autumn Maher |
+| 391 | 86 | Stef |
+| 392 | 86 | ManOfSteel |
+| 393 | 85 | Kari Smith |
+| 394 | 85 | Dolores Falco |
+| 395 | 85 | Wacky Brick |
+| 396 | 85 | MelodiousDeez |
 | 397 | 84 | Clashy |
-| 398 | 84 | Amandacolle |
-| 399 | 84 | Playa |
-| 400 | 83 | Snazzy Corner |
+| 398 | 84 | Happy Shatterfit |
+| 399 | 84 | Amandacolle |
+| 400 | 84 | Playa |
 | 401 | 83 | Peachy Piecefit |
 | 402 | 83 | Brandon Bedenbaugh |
 | 403 | 83 | Brian Woods |
 | 404 | 83 | MrLoner Stoner |
 | 405 | 83 | Lady |
-| 406 | 83 | Sonia Cordero-Martinez |
-| 407 | 83 | Domo Dpn |
-| 408 | 83 | Peter Babineaux Jr |
-| 409 | 83 | Kay |
+| 406 | 83 | Kay |
+| 407 | 83 | Sonia Cordero-Martinez |
+| 408 | 83 | Domo Dpn |
+| 409 | 83 | Peter Babineaux Jr |
 | 410 | 82 | Amanda Snow |
 | 411 | 81 | PsyDMom |
 | 412 | 81 | Swanky Snapgrid |
