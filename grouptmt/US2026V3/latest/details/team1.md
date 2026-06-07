@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:54:20 UTC
+# Standings for team1 as of 2026-06-07 08:54:40 UTC
 
 **Total Participants:** 1428
 
@@ -117,8 +117,8 @@
 | 109 | 488 | Trendalyn Webb |
 | 110 | 477 | Chenell Gillard |
 | 111 | 474 | DaVonte' Cretter |
-| 112 | 455 | Felicia Williams |
-| 113 | 453 | Chris Caniglia |
+| 112 | 459 | Chris Caniglia |
+| 113 | 455 | Felicia Williams |
 | 114 | 447 | Gotcha |
 | 115 | 444 | Kevin M. McGhee Jr |
 | 116 | 439 | Asani CHumba |
@@ -127,25 +127,25 @@
 | 119 | 414 | Anthony Washington |
 | 120 | 412 | Sarah Marie |
 | 121 | 410 | ELM |
-| 122 | 404 | Hyper Slamdrop |
-| 123 | 404 | Jason Mungin |
+| 122 | 404 | Jason Mungin |
+| 123 | 404 | Hyper Slamdrop |
 | 124 | 401 | Shell Lewis |
 | 125 | 393 | Tobey Marberry |
 | 126 | 393 | SPNLover24 |
 | 127 | 389 | GrkGdess |
 | 128 | 387 | Novaa |
-| 129 | 384 | Christana Imjustbutton Stone |
-| 130 | 384 | Lashawn Wallace |
+| 129 | 384 | Lashawn Wallace |
+| 130 | 384 | Christana Imjustbutton Stone |
 | 131 | 378 | Jamal Itzjusmall Chambers |
 | 132 | 377 | AF Cruz |
-| 133 | 370 | Allison Baxter |
-| 134 | 370 | Tameka Jones |
+| 133 | 370 | Tameka Jones |
+| 134 | 370 | Allison Baxter |
 | 135 | 366 | Ebony Waynes-robinson |
-| 136 | 363 | Christina Rebecca |
-| 137 | 353 | Lashaunda |
-| 138 | 351 | Uneekly Mayde |
-| 139 | 348 | LeeLee08 |
-| 140 | 347 | Andre Sanon |
+| 136 | 366 | Andre Sanon |
+| 137 | 363 | Christina Rebecca |
+| 138 | 353 | Lashaunda |
+| 139 | 351 | Uneekly Mayde |
+| 140 | 348 | LeeLee08 |
 | 141 | 339 | Ty Øtg |
 | 142 | 336 | Ceilo Marie |
 | 143 | 331 | Joey Albright |
@@ -156,20 +156,20 @@
 | 148 | 323 | Sheila Burnham |
 | 149 | 314 | De'Laonzeo Anthony |
 | 150 | 312 | Michelle Titus |
-| 151 | 311 | Tina Mitchell |
-| 152 | 311 | Simmone T. Kadiri |
+| 151 | 311 | Simmone T. Kadiri |
+| 152 | 311 | Tina Mitchell |
 | 153 | 309 | Chantelle Lee |
-| 154 | 308 | John Staub |
-| 155 | 308 | Dena Marie Lee |
+| 154 | 308 | Dena Marie Lee |
+| 155 | 308 | John Staub |
 | 156 | 307 | Therealdywoune Peay |
 | 157 | 303 | Roberta Lynn |
-| 158 | 300 | Atlantalindi |
-| 159 | 300 | Felicia Cain |
+| 158 | 300 | Felicia Cain |
+| 159 | 300 | Atlantalindi |
 | 160 | 300 | Dee McCool |
 | 161 | 298 | Leebo Slice |
 | 162 | 297 | Tammye Turner |
-| 163 | 296 | Rolanda Williams |
-| 164 | 296 | Tamara N Lee |
+| 163 | 296 | Tamara N Lee |
+| 164 | 296 | Rolanda Williams |
 | 165 | 291 | Brian Taylor |
 | 166 | 290 | Frisky Fallmatch |
 | 167 | 290 | Eugina Slater |
