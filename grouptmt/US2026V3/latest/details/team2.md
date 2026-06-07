@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 07:04:17 UTC
+# Standings for team2 as of 2026-06-07 07:04:39 UTC
 
 **Total Participants:** 1665
 
@@ -138,11 +138,11 @@
 | 130 | 458 | Kaycie Shaffer |
 | 131 | 448 | Pooh |
 | 132 | 445 | Bubbly Strikerpiece |
-| 133 | 438 | Zappy Pattern |
-| 134 | 438 | Michelle Rich Burkhart |
-| 135 | 436 | Gill |
-| 136 | 433 | Kimberly Cowan |
-| 137 | 433 | Gloria May Shook |
+| 133 | 441 | Gloria May Shook |
+| 134 | 438 | Zappy Pattern |
+| 135 | 438 | Michelle Rich Burkhart |
+| 136 | 436 | Gill |
+| 137 | 433 | Kimberly Cowan |
 | 138 | 428 | Steven Craig |
 | 139 | 419 | Cool Climber |
 | 140 | 417 | Jenny Graham |
@@ -266,13 +266,13 @@
 | 258 | 214 | Stephany Green |
 | 259 | 212 | Sully |
 | 260 | 209 | Patria Osuoha |
-| 261 | 209 | Chill Line |
-| 262 | 207 | Amber Cogdill |
-| 263 | 206 | Jodi Johnson |
-| 264 | 206 | Liseth Vasquez |
-| 265 | 205 | Karly Moore |
-| 266 | 205 | Melisa |
-| 267 | 204 | Loopy Curvebuilder |
+| 261 | 209 | Loopy Curvebuilder |
+| 262 | 209 | Chill Line |
+| 263 | 207 | Amber Cogdill |
+| 264 | 206 | Jodi Johnson |
+| 265 | 206 | Liseth Vasquez |
+| 266 | 205 | Karly Moore |
+| 267 | 205 | Melisa |
 | 268 | 201 | Jeffrey Smith |
 | 269 | 201 | Melissa Nash |
 | 270 | 201 | Danielle Pack Lewellen |
@@ -286,8 +286,8 @@
 | 278 | 200 | Eric Wayne Maschman |
 | 279 | 198 | Amy Taylor Pomerenk |
 | 280 | 196 | Greenie |
-| 281 | 195 | Laverne Ellis Blair |
-| 282 | 195 | Bb |
+| 281 | 195 | Bb |
+| 282 | 195 | Laverne Ellis Blair |
 | 283 | 195 | Pamela Raye |
 | 284 | 192 | Greta Warden |
 | 285 | 192 | Jill Goff |

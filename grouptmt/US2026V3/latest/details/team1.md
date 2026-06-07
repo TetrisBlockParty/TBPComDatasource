@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 07:04:17 UTC
+# Standings for team1 as of 2026-06-07 07:04:39 UTC
 
 **Total Participants:** 1409
 
@@ -159,10 +159,10 @@
 | 151 | 308 | John Staub |
 | 152 | 307 | Therealdywoune Peay |
 | 153 | 303 | Roberta Lynn |
-| 154 | 300 | Felicia Cain |
-| 155 | 300 | Atlantalindi |
-| 156 | 298 | Leebo Slice |
-| 157 | 297 | Tina Mitchell |
+| 154 | 302 | Tina Mitchell |
+| 155 | 300 | Felicia Cain |
+| 156 | 300 | Atlantalindi |
+| 157 | 298 | Leebo Slice |
 | 158 | 297 | Tammye Turner |
 | 159 | 296 | Rolanda Williams |
 | 160 | 293 | Dee McCool |
