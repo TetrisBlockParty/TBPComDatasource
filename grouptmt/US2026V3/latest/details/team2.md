@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 16:02:18 UTC
+# Standings for team2 as of 2026-06-07 16:02:41 UTC
 
 **Total Participants:** 1796
 
@@ -252,9 +252,9 @@
 | 244 | 270 | Glitzy Base |
 | 245 | 270 | giamy |
 | 246 | 269 | Ackerman 85 |
-| 247 | 266 | Kathleen Keogh Van Schoyck |
-| 248 | 264 | Dallas Runyan |
-| 249 | 264 | Monique Frantz |
+| 247 | 267 | Monique Frantz |
+| 248 | 266 | Kathleen Keogh Van Schoyck |
+| 249 | 264 | Dallas Runyan |
 | 250 | 263 | Jessica Lynn |
 | 251 | 261 | Michelle Luke Banta |
 | 252 | 259 | Angie Kowalsky Olson |
@@ -369,32 +369,32 @@
 | 361 | 176 | Carolyn McNaughton |
 | 362 | 176 | Reign Hustler |
 | 363 | 175 | Lashanda Bertram |
-| 364 | 175 | Tina Marie |
-| 365 | 175 | Amanda Bottorff |
-| 366 | 175 | Epic Tilemaker |
-| 367 | 175 | Michelle M Braley |
+| 364 | 175 | Michelle M Braley |
+| 365 | 175 | Epic Tilemaker |
+| 366 | 175 | Tina Marie |
+| 367 | 175 | Amanda Bottorff |
 | 368 | 174 | Jerry L Morales |
-| 369 | 174 | Rocroc mo |
-| 370 | 174 | ZBee |
+| 369 | 174 | ZBee |
+| 370 | 174 | Rocroc mo |
 | 371 | 172 | Mikia Stokes |
-| 372 | 169 | andee |
-| 373 | 169 | Angie Bishop |
-| 374 | 169 | Derrick |
-| 375 | 169 | Jaimie Walters |
-| 376 | 168 | Brian Favre |
+| 372 | 169 | Angie Bishop |
+| 373 | 169 | andee |
+| 374 | 169 | Jacquelyn Snyder Dumas |
+| 375 | 169 | Derrick |
+| 376 | 169 | Jaimie Walters |
 | 377 | 168 | Gwendolyn Boykin Mobbs |
-| 378 | 168 | Missy Renia |
-| 379 | 167 | Spicy Snapclear |
-| 380 | 167 | Chummy Faller |
-| 381 | 166 | Katie Jones |
-| 382 | 166 | Melmel |
-| 383 | 165 | Sandy Justus |
-| 384 | 165 | Jacquelyn Snyder Dumas |
+| 378 | 168 | Brian Favre |
+| 379 | 168 | Missy Renia |
+| 380 | 167 | Spicy Snapclear |
+| 381 | 167 | Chummy Faller |
+| 382 | 166 | Katie Jones |
+| 383 | 166 | Melmel |
+| 384 | 165 | Sandy Justus |
 | 385 | 164 | Sillyk |
-| 386 | 164 | Elliott Mikila |
-| 387 | 164 | Loopy Tower |
-| 388 | 164 | Cara Rivera |
-| 389 | 164 | Aldotfus Williams |
+| 386 | 164 | Loopy Tower |
+| 387 | 164 | Elliott Mikila |
+| 388 | 164 | Aldotfus Williams |
+| 389 | 164 | Cara Rivera |
 | 390 | 163 | Joannah Capilitan |
 | 391 | 163 | Zany Cascader |
 | 392 | 163 | Rosalie Call Kehlenbeck |

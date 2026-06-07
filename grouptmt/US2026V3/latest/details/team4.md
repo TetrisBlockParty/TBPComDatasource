@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 16:02:18 UTC
+# Standings for team4 as of 2026-06-07 16:02:41 UTC
 
 **Total Participants:** 1522
 
@@ -89,14 +89,14 @@
 | 81 | 758 | Regina Williams |
 | 82 | 750 | 2 kool |
 | 83 | 747 | Heather Preston |
-| 84 | 737 | Маркус Вік |
-| 85 | 731 | Keesha Muro |
-| 86 | 730 | Chaz Duncan |
-| 87 | 694 | Kelly Bernard |
-| 88 | 693 | Hairy Snake |
-| 89 | 679 | Dana Fontanez |
-| 90 | 676 | GeorgeButts |
-| 91 | 676 | Sharidan Klinginsmith |
+| 84 | 746 | Sharidan Klinginsmith |
+| 85 | 737 | Маркус Вік |
+| 86 | 731 | Keesha Muro |
+| 87 | 730 | Chaz Duncan |
+| 88 | 694 | Kelly Bernard |
+| 89 | 693 | Hairy Snake |
+| 90 | 679 | Dana Fontanez |
+| 91 | 676 | GeorgeButts |
 | 92 | 674 | Jenn Fitzgerald |
 | 93 | 664 | adrian |
 | 94 | 654 | Jonathan Hewitt |
@@ -188,8 +188,8 @@
 | 180 | 293 | Nicole |
 | 181 | 291 | Perky Riserbuilder |
 | 182 | 291 | shawna |
-| 183 | 289 | Piece of Cake |
-| 184 | 289 | Chiquita Blue |
+| 183 | 289 | Chiquita Blue |
+| 184 | 289 | Piece of Cake |
 | 185 | 288 | Maria Castillo |
 | 186 | 286 | matt |
 | 187 | 285 | Kristen Wallace |
@@ -205,19 +205,19 @@
 | 197 | 278 | Jojo Ann |
 | 198 | 277 | Giggly Tilt |
 | 199 | 276 | Dubiousdust |
-| 200 | 273 | Shocinda Sherwood |
-| 201 | 270 | Tawna Curry |
-| 202 | 270 | Magz |
-| 203 | 268 | Shepreneur Sade |
-| 204 | 267 | Lush Fitblock |
-| 205 | 266 | Janet Sanfilippo Sullivan |
-| 206 | 261 | Pepone Pepe |
+| 200 | 275 | Julian Gasque |
+| 201 | 273 | Shocinda Sherwood |
+| 202 | 270 | Tawna Curry |
+| 203 | 270 | Magz |
+| 204 | 268 | Shepreneur Sade |
+| 205 | 267 | Lush Fitblock |
+| 206 | 266 | Janet Sanfilippo Sullivan |
 | 207 | 261 | tigerlilly |
-| 208 | 260 | Shmeedo |
-| 209 | 259 | Cheery Risegrid |
-| 210 | 259 | Jessica Peyton |
-| 211 | 256 | BusterBear56 |
-| 212 | 255 | Julian Gasque |
+| 208 | 261 | Pepone Pepe |
+| 209 | 260 | Shmeedo |
+| 210 | 259 | Cheery Risegrid |
+| 211 | 259 | Jessica Peyton |
+| 212 | 256 | BusterBear56 |
 | 213 | 253 | Tammy June |
 | 214 | 251 | Jenn Norcross |
 | 215 | 247 | Joseph Anthony Watkins |
@@ -329,20 +329,20 @@
 | 321 | 159 | JoAnn Summerlot Ratliff |
 | 322 | 158 | Corie A. Brinson |
 | 323 | 158 | Dena Lynn Rogers |
-| 324 | 157 | Laguya |
-| 325 | 157 | Deborah Silberg |
-| 326 | 156 | Sherry Mooney |
-| 327 | 155 | Keith Kosmicki |
-| 328 | 155 | Cherrypir05 |
-| 329 | 155 | Shayna Vaigneur-Hall |
-| 330 | 154 | Lani |
-| 331 | 154 | Lanelva Tiredofbs Marshall |
-| 332 | 153 | Shawntae Mccary |
-| 333 | 152 | Nerdy Faller |
-| 334 | 152 | Funky Tiler |
-| 335 | 152 | Jumpy Builderpiece |
-| 336 | 151 | Stephanie Brock |
-| 337 | 151 | Sfalcon1. |
+| 324 | 158 | Sfalcon1. |
+| 325 | 157 | Laguya |
+| 326 | 157 | Deborah Silberg |
+| 327 | 156 | Sherry Mooney |
+| 328 | 155 | Keith Kosmicki |
+| 329 | 155 | Cherrypir05 |
+| 330 | 155 | Shayna Vaigneur-Hall |
+| 331 | 154 | Lani |
+| 332 | 154 | Lanelva Tiredofbs Marshall |
+| 333 | 153 | Shawntae Mccary |
+| 334 | 152 | Nerdy Faller |
+| 335 | 152 | Funky Tiler |
+| 336 | 152 | Jumpy Builderpiece |
+| 337 | 151 | Stephanie Brock |
 | 338 | 151 | Troy Zanelli |
 | 339 | 151 | Bean |
 | 340 | 150 | MrsReap |
