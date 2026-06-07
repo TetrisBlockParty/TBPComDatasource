@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:04:41 UTC
+# Standings for team2 as of 2026-06-07 09:05:17 UTC
 
 **Total Participants:** 1687
 
@@ -171,7 +171,7 @@
 | 163 | 356 | Lisa Underwood Desmond |
 | 164 | 354 | Zesty Strikerbuilder |
 | 165 | 348 | Eric Drane |
-| 166 | 344 | Traci Abern |
+| 166 | 345 | Traci Abern |
 | 167 | 343 | Jason Cook |
 | 168 | 343 | Theresa Marie |
 | 169 | 342 | Bri St Peter |
@@ -1045,65 +1045,65 @@
 | 1037 | 38 | Dysty |
 | 1038 | 38 | Perky Patternbuilder |
 | 1039 | 37 | Suzee |
-| 1040 | 37 | Jack |
-| 1041 | 37 | Danh Nguyen |
+| 1040 | 37 | Danh Nguyen |
+| 1041 | 37 | Jack |
 | 1042 | 37 | SunnySquare |
-| 1043 | 37 | Dena Cudjo |
-| 1044 | 37 | Mona Wagner |
+| 1043 | 37 | Mona Wagner |
+| 1044 | 37 | Dena Cudjo |
 | 1045 | 37 | Jazzy Snapfit |
 | 1046 | 37 | Leon Welch |
 | 1047 | 37 | Brooke Allred |
-| 1048 | 37 | Rosie |
-| 1049 | 37 | Annie Hebdon |
+| 1048 | 37 | Annie Hebdon |
+| 1049 | 37 | Rosie |
 | 1050 | 37 | Dizzy Gridder |
 | 1051 | 37 | Shelby Lynn May |
-| 1052 | 37 | Audrey Wood |
-| 1053 | 37 | Josh Vietz |
-| 1054 | 36 | Armordguy |
-| 1055 | 36 | Jennifer Leigh |
-| 1056 | 36 | giggly gal |
-| 1057 | 36 | Deborah Lint Odom |
-| 1058 | 36 | YAKO |
+| 1052 | 37 | Josh Vietz |
+| 1053 | 37 | Audrey Wood |
+| 1054 | 36 | Bennie Farbo |
+| 1055 | 36 | Armordguy |
+| 1056 | 36 | Deborah Lint Odom |
+| 1057 | 36 | YAKO |
+| 1058 | 36 | giggly gal |
 | 1059 | 36 | Samantha LeBlanc |
-| 1060 | 36 | Rey Huber |
-| 1061 | 36 | Bennie Farbo |
-| 1062 | 36 | Jen |
+| 1060 | 36 | Jennifer Leigh |
+| 1061 | 36 | Jen |
+| 1062 | 36 | Rey Huber |
 | 1063 | 36 | Debra Patten |
 | 1064 | 36 | James Brown |
 | 1065 | 36 | Pleaze Marshall |
-| 1066 | 36 | Eugene Clawson |
+| 1066 | 36 | Jessi Ann |
 | 1067 | 36 | Brandon Ray Holt |
 | 1068 | 36 | Bobbie Carrol |
 | 1069 | 36 | Amanda Stanley |
 | 1070 | 36 | Calah Amore |
-| 1071 | 36 | Slinky Linkgrid |
-| 1072 | 36 | Christina Hanson |
-| 1073 | 36 | Witty Clearbuilder |
-| 1074 | 36 | Chilly Fall |
-| 1075 | 36 | Audrey Phillips |
-| 1076 | 36 | October Fitch |
-| 1077 | 35 | Rachael Roberts |
-| 1078 | 35 | Signerlisa |
-| 1079 | 35 | Melissa Mae |
+| 1071 | 36 | Eugene Clawson |
+| 1072 | 36 | October Fitch |
+| 1073 | 36 | Christina Hanson |
+| 1074 | 36 | Slinky Linkgrid |
+| 1075 | 36 | Witty Clearbuilder |
+| 1076 | 36 | Chilly Fall |
+| 1077 | 36 | Audrey Phillips |
+| 1078 | 35 | Rachael Roberts |
+| 1079 | 35 | Signerlisa |
 | 1080 | 35 | blockrocker |
 | 1081 | 35 | Mrs biotch |
 | 1082 | 35 | Snazzy Clusterfit |
 | 1083 | 35 | Nerdy Base |
-| 1084 | 35 | Flynn Flibble |
-| 1085 | 35 | Patrick Ohanlon |
-| 1086 | 35 | Jessica Jones |
-| 1087 | 35 | Raffa |
-| 1088 | 35 | Silly square |
+| 1084 | 35 | Melissa Mae |
+| 1085 | 35 | Flynn Flibble |
+| 1086 | 35 | Raffa |
+| 1087 | 35 | Patrick Ohanlon |
+| 1088 | 35 | Jessica Jones |
 | 1089 | 35 | Isiwin |
-| 1090 | 34 | Auntie YaYa |
-| 1091 | 34 | Marlo Perry |
-| 1092 | 34 | Jessi Ann |
+| 1090 | 35 | Silly square |
+| 1091 | 34 | Auntie YaYa |
+| 1092 | 34 | Marlo Perry |
 | 1093 | 34 | Katie Magner |
 | 1094 | 34 | Sleepypanda67 |
-| 1095 | 34 | Sassafras Cass |
-| 1096 | 34 | Jumpy Linkroll |
-| 1097 | 34 | Angela VanOstrand |
-| 1098 | 34 | Twisty Snapmatch |
+| 1095 | 34 | Jumpy Linkroll |
+| 1096 | 34 | Sassafras Cass |
+| 1097 | 34 | Twisty Snapmatch |
+| 1098 | 34 | Angela VanOstrand |
 | 1099 | 34 | Tina Kinney |
 | 1100 | 34 | mee |
 | 1101 | 34 | Firebone |
@@ -1112,21 +1112,21 @@
 | 1104 | 33 | Heather Nicole |
 | 1105 | 33 | Rachel Huber |
 | 1106 | 33 | Brooke Marie Fox |
-| 1107 | 33 | Nicki McGill |
-| 1108 | 33 | Em |
+| 1107 | 33 | Em |
+| 1108 | 33 | Nicki McGill |
 | 1109 | 33 | Octavia Jus Mae Hill |
 | 1110 | 33 | Tito Garcia |
 | 1111 | 33 | Maja Hauff |
 | 1112 | 33 | June Salevao |
 | 1113 | 33 | Gilbert Medina |
-| 1114 | 33 | Nicole Hjelmen |
-| 1115 | 33 | Debbie Embry |
+| 1114 | 33 | Debbie Embry |
+| 1115 | 33 | Nicole Hjelmen |
 | 1116 | 33 | Ryan Sanders |
 | 1117 | 32 | Amanda Bryte |
 | 1118 | 32 | Mandy Smart |
 | 1119 | 32 | Lively Liner |
-| 1120 | 32 | Brandy McCleary |
-| 1121 | 32 | Monica Gonzalez Rios |
+| 1120 | 32 | Monica Gonzalez Rios |
+| 1121 | 32 | Brandy McCleary |
 | 1122 | 32 | Viani09 |
 | 1123 | 32 | Chelsea Harriss |
 | 1124 | 32 | Lori Yelvington Cain |
