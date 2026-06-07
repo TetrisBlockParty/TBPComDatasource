@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 05:38:42 UTC
+# Standings for team2 as of 2026-06-07 05:39:18 UTC
 
 **Total Participants:** 1637
 
@@ -49,11 +49,11 @@
 | 41 | 1835 | Elizabeth Mooney |
 | 42 | 1820 | Tom Badgley |
 | 43 | 1803 | Julie Trede Amerson |
-| 44 | 1736 | Andre Love |
-| 45 | 1692 | Matt Hardin |
-| 46 | 1678 | Betty Barrett |
-| 47 | 1606 | Nerdy Glidepiece |
-| 48 | 1600 | Angelica Jelli Gillaspy |
+| 44 | 1749 | Angelica Jelli Gillaspy |
+| 45 | 1736 | Andre Love |
+| 46 | 1692 | Matt Hardin |
+| 47 | 1678 | Betty Barrett |
+| 48 | 1606 | Nerdy Glidepiece |
 | 49 | 1599 | Heather Marie-Tarlton Britt |
 | 50 | 1580 | Rose Schaffner-Kibler |
 | 51 | 1531 | Happy Pivotfall |
@@ -123,9 +123,9 @@
 | 115 | 547 | Kvothe |
 | 116 | 541 | Ricardo Ewart |
 | 117 | 537 | Nettrainer |
-| 118 | 516 | Amber Miller Wirick |
-| 119 | 515 | Loony Faller |
-| 120 | 507 | Amanda Sikes |
+| 118 | 520 | Amanda Sikes |
+| 119 | 516 | Amber Miller Wirick |
+| 120 | 515 | Loony Faller |
 | 121 | 500 | Suki Kaur |
 | 122 | 500 | Courtney McCulley |
 | 123 | 486 | Jackie Tupper |
@@ -458,41 +458,41 @@
 | 450 | 110 | Loopy Curvebuilder |
 | 451 | 109 | Sillyk |
 | 452 | 108 | Reign Hustler |
-| 453 | 108 | Sherri Caillet Aucoin |
-| 454 | 108 | Maurii93 |
-| 455 | 107 | Carole Brown |
-| 456 | 107 | Cassandra Green |
-| 457 | 107 | Boldy Fitclear |
-| 458 | 107 | Kenzie |
-| 459 | 107 | Sam Brewster |
-| 460 | 106 | Chummy Snapbuilder |
-| 461 | 106 | Francesca Wagenhoffer |
+| 453 | 108 | Maurii93 |
+| 454 | 108 | Sherri Caillet Aucoin |
+| 455 | 107 | Sam Brewster |
+| 456 | 107 | Carole Brown |
+| 457 | 107 | Cassandra Green |
+| 458 | 107 | Boldy Fitclear |
+| 459 | 107 | Kenzie |
+| 460 | 106 | Francesca Wagenhoffer |
+| 461 | 106 | Chummy Snapbuilder |
 | 462 | 106 | Cassandra Milner |
-| 463 | 105 | Epic Tilemaker |
-| 464 | 105 | Saucy Wrecker |
-| 465 | 105 | Candi Cane |
-| 466 | 105 | Trisha Schneider |
-| 467 | 105 | Michael Saunders |
-| 468 | 105 | Gabrielle Rivera |
-| 469 | 104 | Roe Sarmiento |
+| 463 | 106 | MamaRachel |
+| 464 | 105 | Epic Tilemaker |
+| 465 | 105 | Saucy Wrecker |
+| 466 | 105 | Candi Cane |
+| 467 | 105 | Trisha Schneider |
+| 468 | 105 | Michael Saunders |
+| 469 | 105 | Gabrielle Rivera |
 | 470 | 104 | Earline Dupuy Bordelon |
-| 471 | 103 | MamaRachel |
-| 472 | 103 | Elizabeth Kline |
-| 473 | 102 | Erin Moore Galloway |
-| 474 | 102 | Wendy Mcbride |
-| 475 | 102 | Lively Curve |
+| 471 | 104 | Amber Smith |
+| 472 | 104 | Roe Sarmiento |
+| 473 | 103 | Elizabeth Kline |
+| 474 | 102 | Erin Moore Galloway |
+| 475 | 102 | Wendy Mcbride |
 | 476 | 102 | Alissa Ary |
 | 477 | 102 | Nicole Sides KrazyKoop |
-| 478 | 101 | Amber Smith |
+| 478 | 102 | Lively Curve |
 | 479 | 101 | Jennifer Lalk |
-| 480 | 100 | Gluten Gremlin |
+| 480 | 100 | Leticia Tillman |
 | 481 | 100 | Jessica Perkins |
 | 482 | 100 | Nicole Suber |
-| 483 | 100 | Alice Petterborg Barberich |
-| 484 | 100 | Leticia Tillman |
+| 483 | 100 | Gluten Gremlin |
+| 484 | 100 | Brenda Shannon |
 | 485 | 100 | Michael Carmichael |
 | 486 | 100 | Mandy |
-| 487 | 100 | Brenda Shannon |
+| 487 | 100 | Alice Petterborg Barberich |
 | 488 | 99 | Kaylene Rigas |
 | 489 | 99 | Jennifer Vitro |
 | 490 | 99 | Melissa Abbott |

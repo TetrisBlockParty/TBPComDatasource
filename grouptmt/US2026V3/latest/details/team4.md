@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 05:38:42 UTC
+# Standings for team4 as of 2026-06-07 05:39:18 UTC
 
 **Total Participants:** 1369
 
@@ -32,7 +32,7 @@
 | 24 | 2954 | Senor Moppy |
 | 25 | 2882 | Fruitpunch |
 | 26 | 2647 | Bubbly Twistpiece |
-| 27 | 2316 | Hasty Builder |
+| 27 | 2509 | Hasty Builder |
 | 28 | 2133 | Alexandria Frazier |
 | 29 | 1944 | Juan Ford |
 | 30 | 1922 | Dana Rinaldi |
@@ -293,25 +293,25 @@
 | 285 | 141 | JuicyJuice |
 | 286 | 141 | Chilly Pivot |
 | 287 | 140 | Nerdy Faller |
-| 288 | 139 | Name |
-| 289 | 138 | Rose Anna Safi |
-| 290 | 138 | Cindy |
-| 291 | 138 | Cheery Risegrid |
+| 288 | 140 | Dapper Strikerpiece |
+| 289 | 139 | Name |
+| 290 | 138 | Cheery Risegrid |
+| 291 | 138 | Cindy |
 | 292 | 138 | Tina Thomas |
-| 293 | 137 | Deborah Silberg |
-| 294 | 136 | Slinky Stackzone |
+| 293 | 138 | Rose Anna Safi |
+| 294 | 137 | Deborah Silberg |
 | 295 | 136 | Maria Castillo |
-| 296 | 136 | WeeWooWee |
+| 296 | 136 | Slinky Stackzone |
 | 297 | 136 | King |
-| 298 | 136 | Susan Stofberg Beltran |
-| 299 | 135 | Quiomarie Cotto |
-| 300 | 133 | Shawntae Mccary |
-| 301 | 132 | Blockcrusher |
-| 302 | 132 | Homie |
-| 303 | 131 | Dominique Melendez |
-| 304 | 131 | Stasia |
-| 305 | 131 | Swanky Snapgrid |
-| 306 | 130 | Dapper Strikerpiece |
+| 298 | 136 | WeeWooWee |
+| 299 | 136 | Susan Stofberg Beltran |
+| 300 | 135 | Quiomarie Cotto |
+| 301 | 133 | Shawntae Mccary |
+| 302 | 132 | Blockcrusher |
+| 303 | 132 | Homie |
+| 304 | 131 | Dominique Melendez |
+| 305 | 131 | Stasia |
+| 306 | 131 | Swanky Snapgrid |
 | 307 | 130 | Maurice DeJean |
 | 308 | 129 | Dizzy Slammer |
 | 309 | 129 | Shauna Davis |
@@ -732,54 +732,54 @@
 | 724 | 50 | Daniel Lossman |
 | 725 | 50 | Michael Cruz |
 | 726 | 50 | Swanky Matchfit |
-| 727 | 50 | Loony Edge |
+| 727 | 50 | Melissa Elizabeth |
 | 728 | 50 | Hooti Smile |
 | 729 | 50 | Bhakti Sawarkar |
 | 730 | 50 | Travis McKinnon |
 | 731 | 50 | Ash Gribble |
-| 732 | 50 | Melissa Elizabeth |
+| 732 | 50 | Loony Edge |
 | 733 | 50 | Lizard |
 | 734 | 50 | Jacqueline Wright |
 | 735 | 50 | Hyper Balancepiece |
 | 736 | 50 | Smiley Wipeblock |
 | 737 | 49 | Certified Da Don |
 | 738 | 49 | Tammy Wells |
-| 739 | 49 | smarty |
-| 740 | 49 | Candiecane324 |
-| 741 | 49 | Daffney Starr |
-| 742 | 49 | Matthew Wilcox |
-| 743 | 49 | Angelo L Casillas |
-| 744 | 49 | Meghan Etchells |
-| 745 | 49 | LeRoy jenkins |
-| 746 | 49 | Ben Figueroa |
-| 747 | 49 | Mrsjcraw18 |
-| 748 | 49 | Karen Riexinger |
-| 749 | 48 | Travis Whitner |
+| 739 | 49 | Candiecane324 |
+| 740 | 49 | Yaya Selbor |
+| 741 | 49 | Karen Riexinger |
+| 742 | 49 | Mrsjcraw18 |
+| 743 | 49 | Ben Figueroa |
+| 744 | 49 | LeRoy jenkins |
+| 745 | 49 | Meghan Etchells |
+| 746 | 49 | Angelo L Casillas |
+| 747 | 49 | Matthew Wilcox |
+| 748 | 49 | Daffney Starr |
+| 749 | 49 | smarty |
 | 750 | 48 | ŁųŁų |
-| 751 | 48 | La Ah Ox |
-| 752 | 48 | Jonathan Jackson |
-| 753 | 48 | Mike Artis |
-| 754 | 48 | Brandi Gray |
-| 755 | 48 | Sandra Stark |
-| 756 | 48 | Suzi Smas |
-| 757 | 48 | REPENT |
+| 751 | 48 | Travis Whitner |
+| 752 | 48 | La Ah Ox |
+| 753 | 48 | Jonathan Jackson |
+| 754 | 48 | Mike Artis |
+| 755 | 48 | Brandi Gray |
+| 756 | 48 | Sandra Stark |
+| 757 | 48 | Suzi Smas |
 | 758 | 48 | Debby Muniz |
-| 759 | 48 | Scot Matthew Bergdorf |
-| 760 | 48 | Hayze |
-| 761 | 48 | Christina Williams |
-| 762 | 48 | Christopher Lindsey |
-| 763 | 47 | TSM Ballsniffer |
-| 764 | 47 | Maurice Jones |
-| 765 | 47 | Nessa Smith |
-| 766 | 47 | Lizzzzzz |
-| 767 | 47 | rick mase |
-| 768 | 47 | Lush Twisterfit |
-| 769 | 47 | Yaya Selbor |
-| 770 | 47 | Nancy McCalla Abercrombie |
-| 771 | 46 | Heidi Hala |
-| 772 | 46 | Judea Leblanc |
-| 773 | 46 | Sadeha Simpson |
-| 774 | 46 | Esmond Johnson IV |
+| 759 | 48 | Hayze |
+| 760 | 48 | Scot Matthew Bergdorf |
+| 761 | 48 | REPENT |
+| 762 | 48 | Christina Williams |
+| 763 | 48 | Christopher Lindsey |
+| 764 | 47 | TSM Ballsniffer |
+| 765 | 47 | Maurice Jones |
+| 766 | 47 | Nancy McCalla Abercrombie |
+| 767 | 47 | Lush Twisterfit |
+| 768 | 47 | rick mase |
+| 769 | 47 | Lizzzzzz |
+| 770 | 47 | Nessa Smith |
+| 771 | 46 | Esmond Johnson IV |
+| 772 | 46 | Sadeha Simpson |
+| 773 | 46 | Judea Leblanc |
+| 774 | 46 | Heidi Hala |
 | 775 | 46 | Elise Ann |
 | 776 | 46 | Epic Curver |
 | 777 | 46 | Cozy Towerpiece |
@@ -791,8 +791,8 @@
 | 783 | 45 | Manolo Canety |
 | 784 | 45 | BurnedCrab52 |
 | 785 | 45 | Becky Bernazal |
-| 786 | 45 | Jt Home |
-| 787 | 45 | Stephanie Meinhart |
+| 786 | 45 | Stephanie Meinhart |
+| 787 | 45 | Jt Home |
 | 788 | 45 | LandO |
 | 789 | 44 | Dizzy |
 | 790 | 44 | jojo |
