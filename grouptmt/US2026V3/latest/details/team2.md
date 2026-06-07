@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 11:56:19 UTC
+# Standings for team2 as of 2026-06-07 11:56:42 UTC
 
 **Total Participants:** 1712
 
@@ -76,16 +76,16 @@
 | 68 | 1070 | Michelle Maulsby |
 | 69 | 1053 | Kvothe |
 | 70 | 1020 | Ruby Sandberg |
-| 71 | 993 | Eileen Egan |
+| 71 | 997 | Eileen Egan |
 | 72 | 991 | Criccett Hooper-Smith |
 | 73 | 984 | Dane Marko |
-| 74 | 979 | Gabriella Humphreys |
+| 74 | 982 | Gabriella Humphreys |
 | 75 | 971 | Debra Henry |
-| 76 | 921 | Block Dog |
-| 77 | 913 | Amber Salazar |
-| 78 | 899 | Marie Luciano |
-| 79 | 882 | Lisa Breiding |
-| 80 | 879 | Jayke Edward |
+| 76 | 963 | Jayke Edward |
+| 77 | 921 | Block Dog |
+| 78 | 913 | Amber Salazar |
+| 79 | 899 | Marie Luciano |
+| 80 | 882 | Lisa Breiding |
 | 81 | 864 | Helen Thomas |
 | 82 | 861 | Marquita Toliver |
 | 83 | 856 | Marquetta Johnson |
@@ -250,8 +250,8 @@
 | 242 | 249 | Elizabeth Henry |
 | 243 | 247 | Brittni Lawrence |
 | 244 | 246 | Brooke Lynn Marie Adelaide |
-| 245 | 241 | Theresa Hollinger |
-| 246 | 241 | Boldy Wobbler |
+| 245 | 241 | Boldy Wobbler |
+| 246 | 241 | Theresa Hollinger |
 | 247 | 240 | PaiBri |
 | 248 | 239 | Norma Ortiz |
 | 249 | 238 | Jenny |
@@ -261,8 +261,8 @@
 | 253 | 234 | Nicole Plummer |
 | 254 | 234 | AndyJo |
 | 255 | 234 | Larry Cross |
-| 256 | 233 | Amie Marks |
-| 257 | 233 | Jeanna Mendez |
+| 256 | 233 | Jeanna Mendez |
+| 257 | 233 | Amie Marks |
 | 258 | 230 | Brandy Chinelle |
 | 259 | 230 | Kelly Vedder |
 | 260 | 229 | Ariel Gundersen |
@@ -282,30 +282,30 @@
 | 274 | 216 | Alicia Kinney |
 | 275 | 216 | Lyric Price |
 | 276 | 216 | Swanky Fitline |
-| 277 | 214 | Stephany Green |
-| 278 | 214 | Sabrina Hardrick |
-| 279 | 212 | Laverne Ellis Blair |
+| 277 | 215 | Laverne Ellis Blair |
+| 278 | 214 | Stephany Green |
+| 279 | 214 | Sabrina Hardrick |
 | 280 | 209 | Patria Osuoha |
 | 281 | 209 | Chill Line |
 | 282 | 207 | Joanna Trevin Thompson |
 | 283 | 207 | Amber Cogdill |
 | 284 | 206 | Liseth Vasquez |
 | 285 | 206 | Jodi Johnson |
-| 286 | 205 | Karly Moore |
-| 287 | 205 | Melisa |
+| 286 | 205 | Melisa |
+| 287 | 205 | Karly Moore |
 | 288 | 204 | Teddy Williams |
 | 289 | 203 | Jill Goff |
-| 290 | 201 | Jeffrey Smith |
-| 291 | 201 | Anthony Swift |
+| 290 | 201 | Anthony Swift |
+| 291 | 201 | Jeffrey Smith |
 | 292 | 201 | Melissa Nash |
 | 293 | 201 | Danielle Pack Lewellen |
-| 294 | 200 | Physhie |
-| 295 | 200 | Nathan Walker |
-| 296 | 200 | Precious Womack |
-| 297 | 200 | August Christy Lathrop |
-| 298 | 200 | StacyBabee |
-| 299 | 200 | Al Smith Jr |
-| 300 | 200 | Eric Wayne Maschman |
+| 294 | 200 | Al Smith Jr |
+| 295 | 200 | StacyBabee |
+| 296 | 200 | August Christy Lathrop |
+| 297 | 200 | Eric Wayne Maschman |
+| 298 | 200 | Precious Womack |
+| 299 | 200 | Physhie |
+| 300 | 200 | Nathan Walker |
 | 301 | 200 | Sarah Grundisch |
 | 302 | 200 | Tony Medina |
 | 303 | 200 | ShiverMeSplinter |
