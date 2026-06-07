@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 01:47:17 UTC
+# Standings for team1 as of 2026-06-07 01:48:18 UTC
 
 **Total Participants:** 1276
 
@@ -70,9 +70,9 @@
 | 62 | 781 | D'Andra Stewart |
 | 63 | 764 | Joy Citizen Pickney |
 | 64 | 749 | Aviv Zehavi |
-| 65 | 733 | Blockhead |
+| 65 | 735 | Blockhead |
 | 66 | 726 | Lisa Müller |
-| 67 | 717 | Kimberly Hernandez |
+| 67 | 718 | Kimberly Hernandez |
 | 68 | 710 | ing410 |
 | 69 | 695 | Corey Cawthon |
 | 70 | 689 | Jaida King |
@@ -169,16 +169,16 @@
 | 161 | 250 | Davionte DaeDae Hopson-Rodriguez |
 | 162 | 249 | Cee Emm |
 | 163 | 249 | Falisa Bell |
-| 164 | 248 | Sharon Cail |
-| 165 | 248 | Yasmin Nakea Wright |
-| 166 | 247 | Ceilo Marie |
-| 167 | 247 | Po Marley |
-| 168 | 246 | Marcheta Cervantez |
-| 169 | 246 | Andre Sanon |
-| 170 | 246 | Denise B |
-| 171 | 245 | Derrius SeriousLee Burks |
-| 172 | 245 | Zachary Colegrove |
-| 173 | 244 | Calvin Green |
+| 164 | 248 | Calvin Green |
+| 165 | 248 | Sharon Cail |
+| 166 | 248 | Yasmin Nakea Wright |
+| 167 | 247 | Ceilo Marie |
+| 168 | 247 | Po Marley |
+| 169 | 246 | Marcheta Cervantez |
+| 170 | 246 | Andre Sanon |
+| 171 | 246 | Denise B |
+| 172 | 245 | Derrius SeriousLee Burks |
+| 173 | 245 | Zachary Colegrove |
 | 174 | 241 | SyTheEvilGenius1 |
 | 175 | 240 | Rayya Kiser |
 | 176 | 237 | David Fuentes |
@@ -698,37 +698,37 @@
 | 690 | 46 | Kimberly Red |
 | 691 | 46 | Rosalind Chatman |
 | 692 | 46 | whatever |
-| 693 | 46 | Boldy Matchfit |
-| 694 | 46 | Ja'mice Nelson |
-| 695 | 46 | Felicia Dungey |
-| 696 | 46 | David A Alvino |
-| 697 | 46 | Elizabeth Green |
+| 693 | 46 | Marie Wilson |
+| 694 | 46 | Boldy Matchfit |
+| 695 | 46 | Ja'mice Nelson |
+| 696 | 46 | Felicia Dungey |
+| 697 | 46 | David A Alvino |
 | 698 | 46 | Jenni |
-| 699 | 46 | Chris Nelson |
-| 700 | 45 | Y3llOWFAC3 |
+| 699 | 46 | Elizabeth Green |
+| 700 | 46 | Chris Nelson |
 | 701 | 45 | Sunny Tumbler |
-| 702 | 45 | Lawreniesha Burkley |
-| 703 | 45 | Cali Lee |
-| 704 | 45 | Jason Saputo |
-| 705 | 45 | Marshall Davis |
-| 706 | 45 | Cheery Linkfall |
-| 707 | 45 | GetDaOPPS |
-| 708 | 45 | Crtjstr |
-| 709 | 45 | Brave Balanceblock |
-| 710 | 45 | Matraca Young |
-| 711 | 45 | Renee J. Thomas |
-| 712 | 45 | Skye |
-| 713 | 44 | BonnieB |
-| 714 | 44 | Jessie N Michael Silvers |
+| 702 | 45 | GetDaOPPS |
+| 703 | 45 | Lawreniesha Burkley |
+| 704 | 45 | Cali Lee |
+| 705 | 45 | Jason Saputo |
+| 706 | 45 | Marshall Davis |
+| 707 | 45 | Cheery Linkfall |
+| 708 | 45 | Matraca Young |
+| 709 | 45 | Y3llOWFAC3 |
+| 710 | 45 | Crtjstr |
+| 711 | 45 | Brave Balanceblock |
+| 712 | 45 | Renee J. Thomas |
+| 713 | 45 | Skye |
+| 714 | 44 | BonnieB |
 | 715 | 44 | Connor Leon Cluff |
 | 716 | 44 | Kim Holzmiller |
-| 717 | 44 | Nic Nic |
-| 718 | 44 | JoZanna Washington |
-| 719 | 44 | GiantBehemoth |
-| 720 | 44 | DellaLucretia Thomas |
-| 721 | 44 | Juicy |
-| 722 | 44 | EvaLynn NeCole |
-| 723 | 44 | Marie Wilson |
+| 717 | 44 | Jessie N Michael Silvers |
+| 718 | 44 | Nic Nic |
+| 719 | 44 | JoZanna Washington |
+| 720 | 44 | GiantBehemoth |
+| 721 | 44 | DellaLucretia Thomas |
+| 722 | 44 | Juicy |
+| 723 | 44 | EvaLynn NeCole |
 | 724 | 44 | Teresa Menefee |
 | 725 | 43 | Block |
 | 726 | 43 | Corbin Henry |
@@ -879,51 +879,51 @@
 | 871 | 31 | Yashicha Hertzock |
 | 872 | 31 | Sharon Lynn |
 | 873 | 31 | Dirty Deeds |
-| 874 | 31 | Krista McNair |
+| 874 | 31 | Ķïrãã Ďãvïss |
 | 875 | 31 | MrsDontPlay |
-| 876 | 31 | Edward Hickmon |
-| 877 | 31 | Ķïrãã Ďãvïss |
-| 878 | 30 | Witty Blockpiece |
-| 879 | 30 | Tanisha Robinson |
-| 880 | 30 | Jessica Kirby |
+| 876 | 31 | Krista McNair |
+| 877 | 31 | Edward Hickmon |
+| 878 | 30 | Jessica Kirby |
+| 879 | 30 | Witty Blockpiece |
+| 880 | 30 | Tanisha Robinson |
 | 881 | 30 | Stanley Dixon |
 | 882 | 30 | Gary Kyle |
 | 883 | 30 | Taneka Howell |
-| 884 | 30 | Plucky Clearpiece |
-| 885 | 30 | Bouncy Glide |
-| 886 | 30 | Jessica Corey |
+| 884 | 30 | Jessica Corey |
+| 885 | 30 | Plucky Clearpiece |
+| 886 | 30 | Bouncy Glide |
 | 887 | 30 | Dannie |
 | 888 | 30 | TiffanyG |
 | 889 | 30 | James Bryant II |
 | 890 | 30 | Tez Mays |
 | 891 | 30 | DeAngelo Sorrells |
 | 892 | 29 | MindlessMic |
-| 893 | 29 | Elizabeth Ragland |
-| 894 | 29 | Jose Rodriguez |
+| 893 | 29 | Jose Rodriguez |
+| 894 | 29 | Elizabeth Ragland |
 | 895 | 29 | Katness |
-| 896 | 29 | Jeffrey Barrows |
-| 897 | 29 | Smiley Bridgepiece |
-| 898 | 29 | Everett Semmions |
-| 899 | 29 | Epic Wipepiece |
-| 900 | 29 | brite |
-| 901 | 28 | Crystal Winters Mckay |
-| 902 | 28 | Crystal Garay |
+| 896 | 29 | Crystal Garay |
+| 897 | 29 | Jeffrey Barrows |
+| 898 | 29 | Smiley Bridgepiece |
+| 899 | 29 | Everett Semmions |
+| 900 | 29 | Epic Wipepiece |
+| 901 | 29 | brite |
+| 902 | 28 | kiki |
 | 903 | 28 | Anntionette Sotire |
 | 904 | 28 | Diamond Nicole |
 | 905 | 28 | Daphne Ceasar |
 | 906 | 28 | Will Stanton |
-| 907 | 28 | kiki |
+| 907 | 28 | SnazzySnippet |
 | 908 | 28 | sunstar |
-| 909 | 28 | SnazzySnippet |
+| 909 | 28 | Crystal Winters Mckay |
 | 910 | 28 | Teresa Bean |
 | 911 | 28 | Jovy |
 | 912 | 28 | Jroc Tyra Taylor |
-| 913 | 28 | Leon Matthew Williams |
-| 914 | 28 | AleahKCH |
-| 915 | 28 | Markeita Jones |
-| 916 | 27 | katia |
-| 917 | 27 | Mighty plantlady |
-| 918 | 27 | Ayanna James |
+| 913 | 28 | Markeita Jones |
+| 914 | 28 | Leon Matthew Williams |
+| 915 | 28 | AleahKCH |
+| 916 | 27 | Mighty plantlady |
+| 917 | 27 | Ayanna James |
+| 918 | 27 | katia |
 | 919 | 27 | Tina Criam |
 | 920 | 27 | Zesty Fitclear |
 | 921 | 27 | Kidgib5 |
