@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 07:08:18 UTC
+# Standings for team2 as of 2026-06-07 07:08:40 UTC
 
 **Total Participants:** 1665
 
@@ -109,7 +109,7 @@
 | 101 | 629 | Mirr Lulu |
 | 102 | 627 | Le Sandy |
 | 103 | 620 | Amber-leigh Williams |
-| 104 | 614 | Alison Waller |
+| 104 | 617 | Alison Waller |
 | 105 | 612 | Josh Twilley |
 | 106 | 600 | LEW |
 | 107 | 592 | Brandon Link |
@@ -271,22 +271,22 @@
 | 263 | 207 | Amber Cogdill |
 | 264 | 206 | Jodi Johnson |
 | 265 | 206 | Liseth Vasquez |
-| 266 | 205 | Karly Moore |
-| 267 | 205 | Melisa |
-| 268 | 201 | Lyric Price |
-| 269 | 201 | Melissa Nash |
-| 270 | 201 | Jeffrey Smith |
-| 271 | 201 | Danielle Pack Lewellen |
-| 272 | 200 | August Christy Lathrop |
-| 273 | 200 | Al Smith Jr |
-| 274 | 200 | Sarah Grundisch |
-| 275 | 200 | Eric Wayne Maschman |
-| 276 | 200 | Tony Medina |
-| 277 | 200 | ShiverMeSplinter |
-| 278 | 200 | Physhie |
-| 279 | 200 | Nathan Walker |
-| 280 | 198 | Amy Taylor Pomerenk |
-| 281 | 198 | Ratchet |
+| 266 | 205 | Melisa |
+| 267 | 205 | Karly Moore |
+| 268 | 203 | Ratchet |
+| 269 | 201 | Danielle Pack Lewellen |
+| 270 | 201 | Lyric Price |
+| 271 | 201 | Melissa Nash |
+| 272 | 201 | Jeffrey Smith |
+| 273 | 200 | August Christy Lathrop |
+| 274 | 200 | Nathan Walker |
+| 275 | 200 | Physhie |
+| 276 | 200 | ShiverMeSplinter |
+| 277 | 200 | Tony Medina |
+| 278 | 200 | Eric Wayne Maschman |
+| 279 | 200 | Sarah Grundisch |
+| 280 | 200 | Al Smith Jr |
+| 281 | 198 | Amy Taylor Pomerenk |
 | 282 | 196 | Greenie |
 | 283 | 195 | Laverne Ellis Blair |
 | 284 | 195 | Pamela Raye |
@@ -1255,17 +1255,17 @@
 | 1247 | 23 | STARFIRE |
 | 1248 | 23 | no name |
 | 1249 | 23 | Sarah Phelps Beyer |
-| 1250 | 23 | Hyper Striker |
-| 1251 | 23 | Shirley Bates |
-| 1252 | 23 | Bonez |
-| 1253 | 23 | Zaaear Pack |
-| 1254 | 23 | Spicy Basepiece |
-| 1255 | 23 | Haley |
+| 1250 | 23 | Haley |
+| 1251 | 23 | Melissa Mae |
+| 1252 | 23 | Shirley Bates |
+| 1253 | 23 | Bonez |
+| 1254 | 23 | Zaaear Pack |
+| 1255 | 23 | Spicy Basepiece |
 | 1256 | 23 | MjLovebug13 |
 | 1257 | 23 | Jolene Moelder |
-| 1258 | 23 | Rich Gorondy |
-| 1259 | 22 | Binska |
-| 1260 | 22 | Melissa Mae |
+| 1258 | 23 | Hyper Striker |
+| 1259 | 23 | Rich Gorondy |
+| 1260 | 22 | Binska |
 | 1261 | 22 | MoonLilly |
 | 1262 | 22 | Lotso |
 | 1263 | 22 | Swanky Snapzone |
@@ -1285,33 +1285,33 @@
 | 1277 | 21 | Rachel Burkett |
 | 1278 | 21 | Amber Myers |
 | 1279 | 21 | Cammy Riley |
-| 1280 | 21 | Instak1ll |
-| 1281 | 21 | Joe Dirilo |
-| 1282 | 21 | Shannie |
-| 1283 | 21 | Sandra Mathes Reece |
-| 1284 | 21 | Deanna Mc |
-| 1285 | 21 | Erica Abreu |
-| 1286 | 21 | Cathy Lee Stoneking |
-| 1287 | 21 | Chill Shatterclear |
-| 1288 | 21 | Cyrus Ramirez |
+| 1280 | 21 | Cathy Lee Stoneking |
+| 1281 | 21 | Instak1ll |
+| 1282 | 21 | Joe Dirilo |
+| 1283 | 21 | Shannie |
+| 1284 | 21 | Sandra Mathes Reece |
+| 1285 | 21 | Deanna Mc |
+| 1286 | 21 | Erica Abreu |
+| 1287 | 21 | Cyrus Ramirez |
+| 1288 | 21 | Chill Shatterclear |
 | 1289 | 21 | Tina Thomason |
-| 1290 | 21 | Black Sheep |
-| 1291 | 21 | Mario Hillman |
-| 1292 | 21 | Mandy |
-| 1293 | 20 | Deborah Morey-avila |
-| 1294 | 20 | Tipsy Slice |
-| 1295 | 20 | Laura Turner |
-| 1296 | 20 | Jennifer Robinson |
-| 1297 | 20 | Holly Barefoot |
+| 1290 | 21 | Mandy |
+| 1291 | 21 | Black Sheep |
+| 1292 | 21 | Mario Hillman |
+| 1293 | 20 | Holly Barefoot |
+| 1294 | 20 | Valerie Roberts |
+| 1295 | 20 | Ava |
+| 1296 | 20 | Carebear05 |
+| 1297 | 20 | Lori Rose |
 | 1298 | 20 | Gloria Appleton |
-| 1299 | 20 | Ciera Adams |
-| 1300 | 20 | Lori Rose |
-| 1301 | 20 | Cody Gates |
-| 1302 | 20 | Carebear05 |
-| 1303 | 20 | Tabetha Cooper |
-| 1304 | 20 | Ava |
-| 1305 | 20 | Valerie Roberts |
-| 1306 | 20 | Amanda |
+| 1299 | 20 | Amanda |
+| 1300 | 20 | Tipsy Slice |
+| 1301 | 20 | Jennifer Robinson |
+| 1302 | 20 | Laura Turner |
+| 1303 | 20 | Deborah Morey-avila |
+| 1304 | 20 | Cody Gates |
+| 1305 | 20 | Ciera Adams |
+| 1306 | 20 | Tabetha Cooper |
 | 1307 | 20 | Roger Kee |
 | 1308 | 20 | Amanda Gann |
 | 1309 | 20 | Stacie Taylor |
