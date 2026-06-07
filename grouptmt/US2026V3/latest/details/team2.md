@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 00:44:18 UTC
+# Standings for team2 as of 2026-06-07 00:44:38 UTC
 
 **Total Participants:** 1483
 
@@ -55,8 +55,8 @@
 | 47 | 1428 | Happy Pivotfall |
 | 48 | 1410 | Logan Basham |
 | 49 | 1400 | Danni Campa |
-| 50 | 1309 | Jaime P Lamb |
-| 51 | 1299 | Tom Badgley |
+| 50 | 1379 | Tom Badgley |
+| 51 | 1309 | Jaime P Lamb |
 | 52 | 1215 | Brent Bittenbender |
 | 53 | 1190 | Marie Edmonds |
 | 54 | 1032 | AcardBoardBox |

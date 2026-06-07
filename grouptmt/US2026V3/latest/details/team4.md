@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 00:44:18 UTC
+# Standings for team4 as of 2026-06-07 00:44:38 UTC
 
 **Total Participants:** 1227
 
@@ -81,42 +81,42 @@
 | 73 | 614 | adrian |
 | 74 | 607 | Jeremy Lopez |
 | 75 | 604 | woopa 716 |
-| 76 | 594 | Маркус Вік |
-| 77 | 592 | Jason Allen |
-| 78 | 567 | Lynn Grimes |
-| 79 | 562 | Sweet Stacker |
-| 80 | 546 | Lupe Alburquerque |
-| 81 | 530 | Jonathan Hewitt |
-| 82 | 526 | Kitsune Bi |
-| 83 | 520 | Dandy Clearfit |
-| 84 | 516 | Caitlyn Wang |
-| 85 | 510 | Krysten Danielle Richard |
-| 86 | 500 | Michele |
+| 76 | 600 | Michele |
+| 77 | 594 | Маркус Вік |
+| 78 | 592 | Jason Allen |
+| 79 | 567 | Lynn Grimes |
+| 80 | 562 | Sweet Stacker |
+| 81 | 546 | Lupe Alburquerque |
+| 82 | 530 | Jonathan Hewitt |
+| 83 | 526 | Kitsune Bi |
+| 84 | 520 | Dandy Clearfit |
+| 85 | 516 | Caitlyn Wang |
+| 86 | 510 | Krysten Danielle Richard |
 | 87 | 490 | Jeanette Hailey |
 | 88 | 480 | Annastaissia Todd |
 | 89 | 477 | Malik Thompson |
 | 90 | 467 | vag1974 |
-| 91 | 461 | Cranky Towerbuilder |
-| 92 | 461 | Kayla Fuentes |
+| 91 | 461 | Kayla Fuentes |
+| 92 | 461 | Cranky Towerbuilder |
 | 93 | 440 | Jewelz |
 | 94 | 429 | iiPurgeV2 |
 | 95 | 416 | Ermadette |
-| 96 | 400 | Gigglycat |
-| 97 | 400 | DexterDobbins |
-| 98 | 400 | Amber Doyle |
-| 99 | 400 | Sassy Column |
+| 96 | 400 | Sassy Column |
+| 97 | 400 | Amber Doyle |
+| 98 | 400 | Gigglycat |
+| 99 | 400 | DexterDobbins |
 | 100 | 398 | Kay |
 | 101 | 397 | Real Talk Vibes |
 | 102 | 395 | Melissa WC |
-| 103 | 386 | Cherry |
-| 104 | 383 | Crissy Hoffman |
-| 105 | 382 | Esther Hadassah |
+| 103 | 392 | Esther Hadassah |
+| 104 | 386 | Cherry |
+| 105 | 383 | Crissy Hoffman |
 | 106 | 380 | Becky Doll-Hall |
 | 107 | 378 | Lisa Garcia |
 | 108 | 376 | Jason Garnatz |
 | 109 | 374 | Daryn Elliott |
-| 110 | 373 | Boldy Rumbler |
-| 111 | 373 | Tanita Jobe |
+| 110 | 373 | Tanita Jobe |
+| 111 | 373 | Boldy Rumbler |
 | 112 | 367 | Trice Stevenson |
 | 113 | 364 | GeorgeButts |
 | 114 | 364 | Jackie Jackson |
@@ -125,17 +125,17 @@
 | 117 | 352 | Kim |
 | 118 | 347 | Nikki Fuller Johnson |
 | 119 | 346 | Alexis Cor |
-| 120 | 343 | Gorica Prusina |
-| 121 | 343 | Cinta Marie |
+| 120 | 343 | Cinta Marie |
+| 121 | 343 | Gorica Prusina |
 | 122 | 332 | RotatedWrongAgain |
 | 123 | 326 | Bobbie Harrell |
 | 124 | 321 | Taz |
 | 125 | 317 | J |
 | 126 | 315 | Thomasena Eady Reid |
 | 127 | 303 | Debby Ruof |
-| 128 | 300 | 2 kool |
-| 129 | 300 | Hasty Builder |
-| 130 | 300 | Genag |
+| 128 | 300 | Hasty Builder |
+| 129 | 300 | Genag |
+| 130 | 300 | 2 kool |
 | 131 | 296 | Andrew Dang |
 | 132 | 294 | Jesse Olive |
 | 133 | 292 | Katie Martin |
@@ -228,9 +228,9 @@
 | 220 | 154 | Lani |
 | 221 | 153 | Queen B |
 | 222 | 152 | Samara Garcia |
-| 223 | 150 | Nicole Peoples |
-| 224 | 150 | bollo |
-| 225 | 149 | Jumpy Builderpiece |
+| 223 | 152 | Jumpy Builderpiece |
+| 224 | 150 | Nicole Peoples |
+| 225 | 150 | bollo |
 | 226 | 148 | Smiley Gridzone |
 | 227 | 148 | Joseph Hunter |
 | 228 | 147 | EvoKitty |
@@ -251,13 +251,13 @@
 | 243 | 137 | Shelby |
 | 244 | 137 | Tommy Bond |
 | 245 | 137 | Deborah Silberg |
-| 246 | 136 | WeeWooWee |
-| 247 | 136 | JuicyJuice |
-| 248 | 136 | Susan Stofberg Beltran |
-| 249 | 135 | Quiomarie Cotto |
-| 250 | 134 | Slinky Stackzone |
-| 251 | 134 | Chris Covington |
-| 252 | 133 | Maria Castillo |
+| 246 | 136 | Maria Castillo |
+| 247 | 136 | WeeWooWee |
+| 248 | 136 | JuicyJuice |
+| 249 | 136 | Susan Stofberg Beltran |
+| 250 | 135 | Quiomarie Cotto |
+| 251 | 134 | Slinky Stackzone |
+| 252 | 134 | Chris Covington |
 | 253 | 133 | Shawntae Mccary |
 | 254 | 132 | Homie |
 | 255 | 132 | Blockcrusher |
@@ -877,48 +877,48 @@
 | 869 | 30 | Clever Fallzone |
 | 870 | 30 | Funky Rollzone |
 | 871 | 30 | Lmg |
-| 872 | 30 | Peezy_419 |
+| 872 | 30 | Michelle Sager |
 | 873 | 30 | Loopy Wipeout |
 | 874 | 30 | Krushie |
-| 875 | 30 | Ali Garcia |
-| 876 | 30 | Deanne Silverdahl |
+| 875 | 30 | Deanne Silverdahl |
+| 876 | 30 | Ali Garcia |
 | 877 | 30 | Kimberly Nkwopara |
-| 878 | 30 | Nerdy Glider |
-| 879 | 30 | Lateasha Wildman |
-| 880 | 30 | Michelle Sager |
-| 881 | 30 | Spicy Holder |
-| 882 | 30 | San |
-| 883 | 30 | Jennie |
-| 884 | 29 | Epic Dashfit |
-| 885 | 29 | Funky Twistpiece |
-| 886 | 29 | Crafty Linkfall |
-| 887 | 29 | Mrs.J2013 |
-| 888 | 29 | Kelley Shoop |
-| 889 | 29 | Slinky Snapfit |
-| 890 | 29 | MzCeleste Brooks |
-| 891 | 29 | rick mase |
-| 892 | 28 | Katherine Stec |
-| 893 | 28 | Brandi Gray |
-| 894 | 28 | Mindy Phariss |
-| 895 | 28 | Snappy Slice |
-| 896 | 28 | Catherine Garza |
-| 897 | 28 | Sandra O'Reilly |
-| 898 | 28 | Leslee Bentley DeLong |
-| 899 | 28 | Joshua Franklin |
-| 900 | 28 | Chad Finton |
-| 901 | 27 | Bigmamalizzet Latto |
-| 902 | 27 | Elli Wright |
-| 903 | 27 | PIPPI |
-| 904 | 27 | alxhue04 |
-| 905 | 27 | Jonathan Jackson |
-| 906 | 27 | Hotstuff |
-| 907 | 27 | Lizette Chaires |
-| 908 | 27 | Weird Cat |
-| 909 | 27 | Shirley Williams |
-| 910 | 27 | Myranda Gereau |
-| 911 | 27 | Jaison Horton |
-| 912 | 27 | Chelsea Leann Lamb |
-| 913 | 27 | boo |
+| 878 | 30 | Lateasha Wildman |
+| 879 | 30 | Nerdy Glider |
+| 880 | 30 | Peezy_419 |
+| 881 | 30 | Weird Cat |
+| 882 | 30 | Jennie |
+| 883 | 30 | Spicy Holder |
+| 884 | 30 | San |
+| 885 | 29 | rick mase |
+| 886 | 29 | Epic Dashfit |
+| 887 | 29 | MzCeleste Brooks |
+| 888 | 29 | Slinky Snapfit |
+| 889 | 29 | Mrs.J2013 |
+| 890 | 29 | Crafty Linkfall |
+| 891 | 29 | Funky Twistpiece |
+| 892 | 29 | Kelley Shoop |
+| 893 | 28 | Catherine Garza |
+| 894 | 28 | Snappy Slice |
+| 895 | 28 | Katherine Stec |
+| 896 | 28 | Brandi Gray |
+| 897 | 28 | Mindy Phariss |
+| 898 | 28 | Joshua Franklin |
+| 899 | 28 | Sandra O'Reilly |
+| 900 | 28 | Leslee Bentley DeLong |
+| 901 | 28 | Chad Finton |
+| 902 | 27 | Chelsea Leann Lamb |
+| 903 | 27 | boo |
+| 904 | 27 | Myranda Gereau |
+| 905 | 27 | Jaison Horton |
+| 906 | 27 | Shirley Williams |
+| 907 | 27 | Bigmamalizzet Latto |
+| 908 | 27 | Lizette Chaires |
+| 909 | 27 | Hotstuff |
+| 910 | 27 | Jonathan Jackson |
+| 911 | 27 | alxhue04 |
+| 912 | 27 | PIPPI |
+| 913 | 27 | Elli Wright |
 | 914 | 27 | Jennifer Evans Elliott |
 | 915 | 27 | Loopy Bridger |
 | 916 | 27 | Elizabeth Putansu |
