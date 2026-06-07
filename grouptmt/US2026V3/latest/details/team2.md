@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 02:10:40 UTC
+# Standings for team2 as of 2026-06-07 02:11:18 UTC
 
 **Total Participants:** 1525
 
@@ -188,9 +188,9 @@
 | 180 | 270 | Amber Wolf |
 | 181 | 270 | Brenda Jones |
 | 182 | 269 | Ackerman 85 |
-| 183 | 262 | Cool Balancer |
-| 184 | 261 | Becca Marie |
-| 185 | 260 | Nettrainer |
+| 183 | 265 | Nettrainer |
+| 184 | 262 | Cool Balancer |
+| 185 | 261 | Becca Marie |
 | 186 | 260 | giamy |
 | 187 | 260 | Snappy Blockbuilder |
 | 188 | 259 | Angie Kowalsky Olson |
@@ -369,24 +369,24 @@
 | 361 | 127 | Tina |
 | 362 | 127 | Tammy Roth |
 | 363 | 125 | Ariel Gundersen |
-| 364 | 125 | Gwendolyn Boykin Mobbs |
-| 365 | 124 | Anthony Swift |
-| 366 | 124 | Jason Burris |
-| 367 | 124 | Angeleye A James |
-| 368 | 123 | Sassy Twistbuilder |
-| 369 | 121 | Lisa Allen Frisk |
-| 370 | 121 | Aldotfus Williams |
-| 371 | 120 | Simone F |
-| 372 | 120 | Keisha Robinson |
-| 373 | 120 | Carlos J Blas |
-| 374 | 120 | Jessica Connot |
-| 375 | 120 | Tony Medina |
-| 376 | 120 | Kevin Mccoy |
-| 377 | 120 | Starvinmarvin |
-| 378 | 118 | rebel4lyfe |
-| 379 | 118 | Cindy Scott |
-| 380 | 118 | Ceci |
-| 381 | 117 | Wayne Johnson |
+| 364 | 125 | Wayne Johnson |
+| 365 | 125 | Gwendolyn Boykin Mobbs |
+| 366 | 124 | Anthony Swift |
+| 367 | 124 | Jason Burris |
+| 368 | 124 | Angeleye A James |
+| 369 | 123 | Sassy Twistbuilder |
+| 370 | 121 | Lisa Allen Frisk |
+| 371 | 121 | Aldotfus Williams |
+| 372 | 120 | Starvinmarvin |
+| 373 | 120 | Simone F |
+| 374 | 120 | Keisha Robinson |
+| 375 | 120 | Kevin Mccoy |
+| 376 | 120 | Carlos J Blas |
+| 377 | 120 | Tony Medina |
+| 378 | 120 | Jessica Connot |
+| 379 | 118 | Ceci |
+| 380 | 118 | rebel4lyfe |
+| 381 | 118 | Cindy Scott |
 | 382 | 117 | Poppy Strikerbuilder |
 | 383 | 117 | Jumpy Matchbuilder |
 | 384 | 116 | Joshua Dye |
@@ -785,30 +785,30 @@
 | 777 | 50 | Stazy Warner |
 | 778 | 50 | Tabitha Palen |
 | 779 | 50 | Angie Rose |
-| 780 | 50 | Jennifer Wymer |
-| 781 | 50 | Brittany Kay |
-| 782 | 50 | Marcia Davis |
-| 783 | 50 | Susan Moyer |
-| 784 | 49 | Po Yee |
-| 785 | 49 | unvoiced |
-| 786 | 49 | Missy Tubb Overly |
-| 787 | 49 | Tetrismastrr |
-| 788 | 48 | Peppy Piececlear |
-| 789 | 48 | Nicole Suber |
-| 790 | 48 | Shelby Wilson |
-| 791 | 48 | Brian Little |
-| 792 | 48 | Ollie |
-| 793 | 48 | Katelynn Hunt |
-| 794 | 48 | Pamela Gambrell |
-| 795 | 48 | Terie Safrit |
-| 796 | 48 | Krystle McCaslin |
-| 797 | 48 | Perky Linebuilder |
-| 798 | 48 | Dizzy Dropzone |
-| 799 | 48 | Rubics cube |
+| 780 | 50 | Rubics cube |
+| 781 | 50 | Jennifer Wymer |
+| 782 | 50 | Brittany Kay |
+| 783 | 50 | Marcia Davis |
+| 784 | 50 | Susan Moyer |
+| 785 | 49 | Po Yee |
+| 786 | 49 | unvoiced |
+| 787 | 49 | Missy Tubb Overly |
+| 788 | 49 | Tetrismastrr |
+| 789 | 48 | Peppy Piececlear |
+| 790 | 48 | Nicole Suber |
+| 791 | 48 | Terie Safrit |
+| 792 | 48 | Brian Little |
+| 793 | 48 | Ollie |
+| 794 | 48 | Katelynn Hunt |
+| 795 | 48 | Pamela Gambrell |
+| 796 | 48 | Shelby Wilson |
+| 797 | 48 | Krystle McCaslin |
+| 798 | 48 | Perky Linebuilder |
+| 799 | 48 | Dizzy Dropzone |
 | 800 | 48 | Hoppy Gridder |
-| 801 | 47 | Frothy Zonebuilder |
+| 801 | 47 | Alexis Meyers |
 | 802 | 47 | Ozge Akgun Tokat |
-| 803 | 47 | Alexis Meyers |
+| 803 | 47 | Frothy Zonebuilder |
 | 804 | 47 | Lisa Rose |
 | 805 | 47 | Emily |
 | 806 | 47 | Suzanne Davis |

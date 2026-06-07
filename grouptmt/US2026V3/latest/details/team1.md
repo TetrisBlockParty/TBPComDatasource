@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 02:10:40 UTC
+# Standings for team1 as of 2026-06-07 02:11:18 UTC
 
 **Total Participants:** 1283
 
@@ -732,29 +732,29 @@
 | 724 | 44 | EvaLynn NeCole |
 | 725 | 44 | Connor Leon Cluff |
 | 726 | 44 | BonnieB |
-| 727 | 44 | DellaLucretia Thomas |
-| 728 | 44 | Teresa Menefee |
-| 729 | 44 | Juicy |
-| 730 | 43 | Giggy Brickfit |
-| 731 | 43 | Taylor Jordan Hollis |
-| 732 | 43 | Vivian Bunnell Myers |
-| 733 | 43 | Corbin Henry |
-| 734 | 43 | Louise Parker |
+| 727 | 44 | PSD |
+| 728 | 44 | DellaLucretia Thomas |
+| 729 | 44 | Teresa Menefee |
+| 730 | 44 | Juicy |
+| 731 | 43 | Giggy Brickfit |
+| 732 | 43 | Block |
+| 733 | 43 | Smiley3000 |
+| 734 | 43 | Christy Quick |
 | 735 | 43 | Amihan |
-| 736 | 43 | Christy Quick |
-| 737 | 43 | Smiley3000 |
-| 738 | 43 | Block |
-| 739 | 42 | Louise |
-| 740 | 42 | Emeka Agu |
-| 741 | 42 | Shanna Green Williams |
-| 742 | 42 | Heather Cross-Davis |
-| 743 | 42 | Kenny 'Tailormade' Boyd |
-| 744 | 42 | Brii Michelle Lamb |
-| 745 | 42 | Wacky Spinfit |
+| 736 | 43 | Louise Parker |
+| 737 | 43 | Corbin Henry |
+| 738 | 43 | Vivian Bunnell Myers |
+| 739 | 43 | Taylor Jordan Hollis |
+| 740 | 42 | Wacky Spinfit |
+| 741 | 42 | Brii Michelle Lamb |
+| 742 | 42 | Kenny 'Tailormade' Boyd |
+| 743 | 42 | Heather Cross-Davis |
+| 744 | 42 | Shanna Green Williams |
+| 745 | 42 | Emeka Agu |
 | 746 | 42 | Peppy Wipeblock |
 | 747 | 42 | Rikki Moran |
-| 748 | 42 | Dennis Ripley |
-| 749 | 42 | PSD |
+| 748 | 42 | Louise |
+| 749 | 42 | Dennis Ripley |
 | 750 | 42 | Sunny Riserbuilder |
 | 751 | 42 | Sally Elizabeth Hopson |
 | 752 | 41 | NataAllDay |
