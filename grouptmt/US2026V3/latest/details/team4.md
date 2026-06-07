@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 09:40:41 UTC
+# Standings for team4 as of 2026-06-07 09:41:19 UTC
 
 **Total Participants:** 1429
 
@@ -184,7 +184,7 @@
 | 176 | 270 | Jojo Ann |
 | 177 | 268 | Megan Vick |
 | 178 | 267 | QueenLi86 |
-| 179 | 265 | Maria Castillo |
+| 179 | 266 | Maria Castillo |
 | 180 | 262 | squareMel |
 | 181 | 261 | Waxboss |
 | 182 | 259 | Jessica Peyton |
@@ -984,11 +984,11 @@
 | 976 | 35 | Martha Fisher |
 | 977 | 35 | Loony Dashgrid |
 | 978 | 35 | Pretty_Rican |
-| 979 | 35 | Alexsandra Hill |
-| 980 | 35 | Peachy Grabber |
-| 981 | 35 | Joshua Conwell |
-| 982 | 35 | Robert Moore |
-| 983 | 35 | Beezy |
+| 979 | 35 | Peachy Grabber |
+| 980 | 35 | Joshua Conwell |
+| 981 | 35 | Robert Moore |
+| 982 | 35 | Beezy |
+| 983 | 35 | Alexsandra Hill |
 | 984 | 35 | Lateasha Wildman |
 | 985 | 35 | mikey moo |
 | 986 | 35 | Samantha Brandt |
@@ -1006,9 +1006,9 @@
 | 998 | 34 | Yulissa Diaz |
 | 999 | 34 | Combo Snappy |
 | 1000 | 34 | Bold Snapper |
-| 1001 | 33 | Christopher Ponceja |
-| 1002 | 33 | Shupurplenurkle |
-| 1003 | 33 | Chris |
+| 1001 | 33 | Chris |
+| 1002 | 33 | Christopher Ponceja |
+| 1003 | 33 | Shupurplenurkle |
 | 1004 | 33 | Melissa Schwager |
 | 1005 | 33 | MsThick SrtLady Williams |
 | 1006 | 33 | Chill Snapclear |
@@ -1043,56 +1043,56 @@
 | 1035 | 30 | Lmg |
 | 1036 | 30 | Shirley Tow Middaugh |
 | 1037 | 30 | Ali Garcia |
-| 1038 | 30 | Toya Rimson |
-| 1039 | 30 | Christopher Farias |
-| 1040 | 30 | Sydney Taylor Sileno |
-| 1041 | 30 | BrokenDiamond |
-| 1042 | 30 | Frisky Framezone |
+| 1038 | 30 | Michelle Sager |
+| 1039 | 30 | Jennie |
+| 1040 | 30 | Janna Bruss |
+| 1041 | 30 | MsChelleAnn |
+| 1042 | 30 | Lizette Chaires |
 | 1043 | 30 | Sarah |
-| 1044 | 30 | Janna Bruss |
-| 1045 | 30 | Lizette Chaires |
-| 1046 | 30 | Jennie |
-| 1047 | 30 | Michelle Sager |
-| 1048 | 30 | Kimberly Nkwopara |
-| 1049 | 30 | Amori85 |
-| 1050 | 30 | Donna Winget |
-| 1051 | 30 | Audacious |
-| 1052 | 30 | Nerdy Piecebuilder |
-| 1053 | 30 | Weird Cat |
-| 1054 | 30 | Krystalclear |
-| 1055 | 30 | Krushie |
-| 1056 | 30 | Tati |
-| 1057 | 30 | Derrek Lee |
-| 1058 | 29 | Garett Lahti |
+| 1044 | 30 | Frisky Framezone |
+| 1045 | 30 | BrokenDiamond |
+| 1046 | 30 | Sydney Taylor Sileno |
+| 1047 | 30 | Christopher Farias |
+| 1048 | 30 | Toya Rimson |
+| 1049 | 30 | Nerdy Piecebuilder |
+| 1050 | 30 | Amori85 |
+| 1051 | 30 | Derrek Lee |
+| 1052 | 30 | Donna Winget |
+| 1053 | 30 | Tati |
+| 1054 | 30 | Krushie |
+| 1055 | 30 | Kimberly Nkwopara |
+| 1056 | 30 | Audacious |
+| 1057 | 30 | Krystalclear |
+| 1058 | 30 | Weird Cat |
 | 1059 | 29 | Unknown |
-| 1060 | 29 | Wynisha Johnson |
-| 1061 | 29 | Crafty Linkfall |
-| 1062 | 29 | Wayne Hendricks |
-| 1063 | 29 | Kelley Shoop |
-| 1064 | 29 | MzCeleste Brooks |
-| 1065 | 29 | Slinky Snapfit |
-| 1066 | 29 | Mrs.J2013 |
-| 1067 | 29 | Epic Dashfit |
-| 1068 | 29 | Funky Twistpiece |
-| 1069 | 28 | Catherine Garza |
-| 1070 | 28 | FUNBAT |
-| 1071 | 28 | nanaz86 |
-| 1072 | 28 | Chad Finton |
-| 1073 | 28 | Joshua Franklin |
-| 1074 | 28 | Mindy Phariss |
-| 1075 | 28 | Leasa Marie |
+| 1060 | 29 | Kelley Shoop |
+| 1061 | 29 | Wynisha Johnson |
+| 1062 | 29 | Garett Lahti |
+| 1063 | 29 | Wayne Hendricks |
+| 1064 | 29 | Crafty Linkfall |
+| 1065 | 29 | MzCeleste Brooks |
+| 1066 | 29 | Slinky Snapfit |
+| 1067 | 29 | Mrs.J2013 |
+| 1068 | 29 | Epic Dashfit |
+| 1069 | 29 | Funky Twistpiece |
+| 1070 | 28 | Catherine Garza |
+| 1071 | 28 | FUNBAT |
+| 1072 | 28 | nanaz86 |
+| 1073 | 28 | Chad Finton |
+| 1074 | 28 | Joshua Franklin |
+| 1075 | 28 | Mindy Phariss |
 | 1076 | 28 | Leslee Bentley DeLong |
-| 1077 | 27 | PIPPI |
-| 1078 | 27 | Shirley Williams |
+| 1077 | 28 | Leasa Marie |
+| 1078 | 27 | Izz |
 | 1079 | 27 | Elli Wright |
-| 1080 | 27 | BlockFlakes |
-| 1081 | 27 | MsChelleAnn |
-| 1082 | 27 | Izz |
+| 1080 | 27 | Shirley Williams |
+| 1081 | 27 | BlockFlakes |
+| 1082 | 27 | RaeRae |
 | 1083 | 27 | Twisty Gridclear |
-| 1084 | 27 | RaeRae |
-| 1085 | 27 | boo |
-| 1086 | 27 | Bigmamalizzet Latto |
-| 1087 | 27 | Myranda Gereau |
+| 1084 | 27 | PIPPI |
+| 1085 | 27 | Myranda Gereau |
+| 1086 | 27 | boo |
+| 1087 | 27 | Bigmamalizzet Latto |
 | 1088 | 27 | Loopy Bridger |
 | 1089 | 27 | Jennifer Evans Elliott |
 | 1090 | 27 | Jaison Horton |
@@ -1108,9 +1108,9 @@
 | 1100 | 26 | Ciara Brown |
 | 1101 | 26 | Michelle Clark |
 | 1102 | 26 | AJscooter |
-| 1103 | 25 | Honey Honey |
-| 1104 | 25 | chapis |
-| 1105 | 25 | Tipsy toesy |
+| 1103 | 25 | Tipsy toesy |
+| 1104 | 25 | Honey Honey |
+| 1105 | 25 | chapis |
 | 1106 | 25 | Kiki Moore |
 | 1107 | 25 | Alicia Horsea Rojas |
 | 1108 | 25 | Nina Martinez |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:40:41 UTC
+# Standings for team2 as of 2026-06-07 09:41:19 UTC
 
 **Total Participants:** 1691
 
@@ -46,8 +46,8 @@
 | 38 | 2287 | Christina Jambard Sampier |
 | 39 | 2210 | Bea Bee |
 | 40 | 2133 | Frisky Balanceblock |
-| 41 | 2032 | Andrew Weissenborn |
-| 42 | 1982 | Aubree Richard |
+| 41 | 2054 | Aubree Richard |
+| 42 | 2032 | Andrew Weissenborn |
 | 43 | 1906 | Jennifer Corder |
 | 44 | 1841 | Frilly Match |
 | 45 | 1835 | Elizabeth Mooney |
@@ -100,15 +100,15 @@
 | 92 | 757 | Jazzy Faller |
 | 93 | 755 | Brandi Thompson |
 | 94 | 750 | Denise Potter |
-| 95 | 721 | Hoppy Rotate |
-| 96 | 721 | Smiley Dropper |
+| 95 | 721 | Smiley Dropper |
+| 96 | 721 | Hoppy Rotate |
 | 97 | 685 | Sigmamom |
 | 98 | 666 | Epic Frame |
 | 99 | 656 | Loopy Cascadepiece |
 | 100 | 654 | Bon Lynn |
 | 101 | 639 | Alison Waller |
-| 102 | 632 | Wmk Rathbun |
-| 103 | 632 | Allie Bug |
+| 102 | 632 | Allie Bug |
+| 103 | 632 | Wmk Rathbun |
 | 104 | 629 | Mirr Lulu |
 | 105 | 627 | Le Sandy |
 | 106 | 620 | Amber-leigh Williams |
