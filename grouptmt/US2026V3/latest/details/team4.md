@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 19:28:41 UTC
+# Standings for team4 as of 2026-06-07 19:29:18 UTC
 
 **Total Participants:** 1584
 
@@ -71,8 +71,8 @@
 | 63 | 971 | Loony Towerer |
 | 64 | 950 | Sassy Column |
 | 65 | 946 | Tiffany Loree Tiffany Oneill |
-| 66 | 924 | woopa 716 |
-| 67 | 924 | Sweet Stacker |
+| 66 | 924 | Sweet Stacker |
+| 67 | 924 | woopa 716 |
 | 68 | 923 | Snippy Grid |
 | 69 | 906 | Hannah Pazar |
 | 70 | 892 | Alala.Cersei |
@@ -83,8 +83,8 @@
 | 75 | 848 | Beee |
 | 76 | 837 | Fancy Crasher |
 | 77 | 830 | Kitsune Bi |
-| 78 | 826 | Sharidan Klinginsmith |
-| 79 | 826 | Lupe Alburquerque |
+| 78 | 826 | Lupe Alburquerque |
+| 79 | 826 | Sharidan Klinginsmith |
 | 80 | 805 | JoLinda Dunn |
 | 81 | 800 | Melissa Brown |
 | 82 | 795 | Phil Peterson |
@@ -225,11 +225,11 @@
 | 217 | 266 | Janet Sanfilippo Sullivan |
 | 218 | 264 | tigerlilly |
 | 219 | 261 | Cheery Risegrid |
-| 220 | 260 | Shmeedo |
-| 221 | 259 | Jessica Peyton |
-| 222 | 253 | Tammy June |
-| 223 | 251 | Tina Thomas |
-| 224 | 251 | Renee Sapp |
+| 220 | 261 | Renee Sapp |
+| 221 | 260 | Shmeedo |
+| 222 | 259 | Jessica Peyton |
+| 223 | 253 | Tammy June |
+| 224 | 251 | Tina Thomas |
 | 225 | 251 | Spicy Chicken |
 | 226 | 251 | Jenn Norcross |
 | 227 | 251 | Alicia Cook |
@@ -715,29 +715,29 @@
 | 707 | 74 | Loyalty83 |
 | 708 | 74 | Trang Nguyen |
 | 709 | 74 | Leasa Marie |
-| 710 | 74 | Rhonda Dowling |
-| 711 | 74 | Chirpy Corner |
-| 712 | 74 | Melissa Schwager |
+| 710 | 74 | Chirpy Corner |
+| 711 | 74 | Melissa Schwager |
+| 712 | 74 | Rhonda Dowling |
 | 713 | 74 | JayJay Smith |
-| 714 | 73 | Giggly Rollpiece |
+| 714 | 73 | SueSally |
 | 715 | 73 | Ben Figueroa |
-| 716 | 73 | pussface |
-| 717 | 73 | Marcus Fontenot |
-| 718 | 72 | Misti Rich |
-| 719 | 72 | Candice Sellers Worley |
-| 720 | 72 | Peterson Cottontail |
+| 716 | 73 | Marcus Fontenot |
+| 717 | 73 | Giggly Rollpiece |
+| 718 | 73 | pussface |
+| 719 | 72 | Misti Rich |
+| 720 | 72 | Cail |
 | 721 | 72 | Snow77white |
-| 722 | 72 | Cail |
-| 723 | 72 | Fancy Riser |
-| 724 | 72 | sierrabeth |
-| 725 | 71 | Cozy Towerpiece |
-| 726 | 71 | LeRoy jenkins |
-| 727 | 71 | SueSally |
-| 728 | 71 | LaRue Tee |
-| 729 | 71 | Ana Ruiz |
-| 730 | 71 | Shelly Jackson |
-| 731 | 71 | Taquilla Branch |
-| 732 | 71 | Monte Smith |
+| 722 | 72 | Peterson Cottontail |
+| 723 | 72 | Candice Sellers Worley |
+| 724 | 72 | Fancy Riser |
+| 725 | 72 | sierrabeth |
+| 726 | 71 | LaRue Tee |
+| 727 | 71 | Ana Ruiz |
+| 728 | 71 | Shelly Jackson |
+| 729 | 71 | Taquilla Branch |
+| 730 | 71 | Monte Smith |
+| 731 | 71 | Cozy Towerpiece |
+| 732 | 71 | LeRoy jenkins |
 | 733 | 71 | Giggy Blockpiece |
 | 734 | 70 | Lamont |
 | 735 | 70 | Charlene Nicole Guidry |
