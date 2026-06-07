@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 18:04:43 UTC
+# Standings for team4 as of 2026-06-07 18:05:18 UTC
 
 **Total Participants:** 1563
 
@@ -59,7 +59,7 @@
 | 51 | 1249 | Charlie Lewis |
 | 52 | 1235 | Adam J Leong |
 | 53 | 1200 | Caitlin Johnson |
-| 54 | 1153 | Chummy Rollzone |
+| 54 | 1161 | Chummy Rollzone |
 | 55 | 1128 | MysticMaven |
 | 56 | 1112 | Jason Allen |
 | 57 | 1089 | Bryan DjMagnum Evans |
@@ -167,14 +167,14 @@
 | 159 | 359 | BCO22 |
 | 160 | 358 | Joyce Myers |
 | 161 | 350 | RotatedWrongAgain |
-| 162 | 346 | Alexis Cor |
-| 163 | 343 | Cinta Marie |
-| 164 | 342 | Katie Martin |
-| 165 | 340 | MomyLiz |
-| 166 | 340 | Andrew Dang |
-| 167 | 336 | Samantha Worley |
-| 168 | 335 | Julian Gasque |
-| 169 | 331 | Jesse Olive |
+| 162 | 348 | Jesse Olive |
+| 163 | 346 | Alexis Cor |
+| 164 | 343 | Cinta Marie |
+| 165 | 342 | Katie Martin |
+| 166 | 340 | MomyLiz |
+| 167 | 340 | Andrew Dang |
+| 168 | 336 | Samantha Worley |
+| 169 | 335 | Julian Gasque |
 | 170 | 329 | shawna |
 | 171 | 326 | Bobbie Harrell |
 | 172 | 323 | Danielle Mitchell |
@@ -499,8 +499,8 @@
 | 491 | 107 | Bonique Bier |
 | 492 | 107 | Csigirlnc |
 | 493 | 107 | Kay |
-| 494 | 106 | Jessica Jones Bolton |
-| 495 | 106 | Andreas Vs Shinky |
+| 494 | 107 | Andreas Vs Shinky |
+| 495 | 106 | Jessica Jones Bolton |
 | 496 | 106 | Ami Ferguson |
 | 497 | 106 | Corey Jackson |
 | 498 | 106 | Karen Rodriguez |
@@ -600,22 +600,22 @@
 | 592 | 89 | Mmm |
 | 593 | 89 | Bon Jovi |
 | 594 | 88 | Mrsjcraw18 |
-| 595 | 88 | Lizzzzzz |
-| 596 | 88 | Happy Toast |
+| 595 | 88 | Surviving Be Back Soon |
+| 596 | 88 | Lizzzzzz |
 | 597 | 88 | Kat Foreman |
-| 598 | 88 | Shaunna Caldwell |
-| 599 | 88 | Nikcole Alexis Bryan |
-| 600 | 87 | Limbo |
-| 601 | 87 | da1ndonly |
-| 602 | 87 | Tiffany Taylor |
-| 603 | 87 | Fancy Rollfit |
-| 604 | 87 | alxhue04 |
-| 605 | 87 | Loretta Hendricks |
-| 606 | 87 | YenSid |
-| 607 | 86 | Brandi Sauer |
-| 608 | 86 | ManOfSteel |
-| 609 | 86 | Erich EMac McIntosh |
-| 610 | 86 | Surviving Be Back Soon |
+| 598 | 88 | Happy Toast |
+| 599 | 88 | Shaunna Caldwell |
+| 600 | 88 | Nikcole Alexis Bryan |
+| 601 | 87 | Limbo |
+| 602 | 87 | da1ndonly |
+| 603 | 87 | Tiffany Taylor |
+| 604 | 87 | Fancy Rollfit |
+| 605 | 87 | alxhue04 |
+| 606 | 87 | Loretta Hendricks |
+| 607 | 87 | YenSid |
+| 608 | 86 | Brandi Sauer |
+| 609 | 86 | ManOfSteel |
+| 610 | 86 | Erich EMac McIntosh |
 | 611 | 86 | Swanky Builderline |
 | 612 | 86 | Michelle Michelle |
 | 613 | 85 | MelodiousDeez |
