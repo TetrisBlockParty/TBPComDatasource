@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 12:28:19 UTC
+# Standings for team4 as of 2026-06-07 12:28:40 UTC
 
 **Total Participants:** 1458
 
@@ -211,8 +211,8 @@
 | 203 | 236 | Becky McCool |
 | 204 | 236 | BusterBear56 |
 | 205 | 233 | Christy Beezley-Forbush |
-| 206 | 231 | Goofy Riser |
-| 207 | 231 | Patrick Alley |
+| 206 | 231 | Patrick Alley |
+| 207 | 231 | Goofy Riser |
 | 208 | 230 | gabs |
 | 209 | 227 | Cheery Risegrid |
 | 210 | 226 | Sassy Rollpiece |
@@ -222,12 +222,12 @@
 | 214 | 223 | Queen B |
 | 215 | 222 | Plucky Shatterfit |
 | 216 | 221 | Pepone Pepe |
-| 217 | 220 | Silly Risegrid |
+| 217 | 220 | blockhead |
 | 218 | 220 | CIRAZYPNOY |
-| 219 | 220 | blockhead |
+| 219 | 220 | Silly Risegrid |
 | 220 | 218 | Lori Stembridge |
-| 221 | 215 | Jj Johnson |
-| 222 | 215 | Jeremy |
+| 221 | 215 | Jeremy |
+| 222 | 215 | Jj Johnson |
 | 223 | 211 | Renee Sapp |
 | 224 | 210 | Stephanie Myers |
 | 225 | 209 | Crystal Hammonds |
@@ -247,28 +247,28 @@
 | 239 | 193 | Tiffany Bunker-Hill |
 | 240 | 190 | Baysoph |
 | 241 | 188 | Lee Ann Gibby |
-| 242 | 187 | Tipsy Builderline |
-| 243 | 187 | Leslie Ann Carter |
-| 244 | 186 | Kimyatta Cavin |
-| 245 | 186 | Snippy Splitter |
-| 246 | 185 | PerfectPieces |
-| 247 | 185 | Dae Von |
-| 248 | 185 | Britney Kitora |
-| 249 | 183 | Brandy Lynn |
-| 250 | 183 | Tara Delay Hill |
-| 251 | 182 | Homie |
-| 252 | 181 | EL Booger |
-| 253 | 181 | Alyson M Kehler |
-| 254 | 181 | JuicyJuice |
-| 255 | 180 | Karen Davis |
-| 256 | 180 | ariel |
-| 257 | 180 | Kelly Howland |
-| 258 | 179 | LaTanya GeminiondaRise Johnson |
-| 259 | 178 | Tamara Triplet |
-| 260 | 178 | Jacqueline Jackii Ramos |
-| 261 | 177 | Mark Norton |
-| 262 | 177 | Damon Gaston |
-| 263 | 177 | Chirpy Link |
+| 242 | 187 | Leslie Ann Carter |
+| 243 | 187 | Chirpy Link |
+| 244 | 187 | Tipsy Builderline |
+| 245 | 186 | Kimyatta Cavin |
+| 246 | 186 | Snippy Splitter |
+| 247 | 185 | PerfectPieces |
+| 248 | 185 | Dae Von |
+| 249 | 185 | Britney Kitora |
+| 250 | 183 | Brandy Lynn |
+| 251 | 183 | Tara Delay Hill |
+| 252 | 182 | Homie |
+| 253 | 181 | EL Booger |
+| 254 | 181 | Alyson M Kehler |
+| 255 | 181 | JuicyJuice |
+| 256 | 180 | Karen Davis |
+| 257 | 180 | ariel |
+| 258 | 180 | Kelly Howland |
+| 259 | 179 | LaTanya GeminiondaRise Johnson |
+| 260 | 178 | Tamara Triplet |
+| 261 | 178 | Jacqueline Jackii Ramos |
+| 262 | 177 | Mark Norton |
+| 263 | 177 | Damon Gaston |
 | 264 | 176 | Nicole Dombrow |
 | 265 | 175 | Jackie Miller |
 | 266 | 174 | Clashy |
@@ -339,40 +339,40 @@
 | 331 | 140 | Wanda Simmons |
 | 332 | 140 | Flashy Shatterer |
 | 333 | 140 | Billy Baker |
-| 334 | 139 | Name |
-| 335 | 138 | Rose Anna Safi |
-| 336 | 138 | Tina Thomas |
-| 337 | 137 | Maricela Joslin |
-| 338 | 137 | Deborah Silberg |
-| 339 | 136 | Lively Cascadebuilder |
-| 340 | 136 | Slinky Stackzone |
-| 341 | 136 | WeeWooWee |
-| 342 | 136 | King |
-| 343 | 135 | Quiomarie Cotto |
-| 344 | 135 | crobb77 |
-| 345 | 135 | Shia Marie |
-| 346 | 134 | All knowing |
-| 347 | 133 | Sonia Cordero-Martinez |
-| 348 | 132 | Snazzy Corner |
-| 349 | 131 | Lanelva Tiredofbs Marshall |
-| 350 | 131 | Diana Fernandez |
-| 351 | 131 | Swanky Snapgrid |
-| 352 | 131 | Dominique Melendez |
-| 353 | 131 | Stasia |
-| 354 | 130 | Rita Ann |
-| 355 | 130 | Bhakti Sawarkar |
-| 356 | 129 | Sandra Stark |
-| 357 | 129 | Shauna Davis |
-| 358 | 129 | Dizzy Slammer |
-| 359 | 129 | Simone |
-| 360 | 129 | Has2brat |
-| 361 | 128 | Juvon SupaShawdii Brooks |
-| 362 | 128 | Lana Tran |
-| 363 | 128 | Sherry Mooney |
-| 364 | 127 | zoes |
-| 365 | 127 | Jen Smith |
-| 366 | 127 | Jrr |
-| 367 | 127 | Cheeky Climber |
+| 334 | 140 | Snazzy Corner |
+| 335 | 139 | Name |
+| 336 | 138 | Rose Anna Safi |
+| 337 | 138 | Tina Thomas |
+| 338 | 137 | Maricela Joslin |
+| 339 | 137 | Deborah Silberg |
+| 340 | 136 | Lively Cascadebuilder |
+| 341 | 136 | Slinky Stackzone |
+| 342 | 136 | WeeWooWee |
+| 343 | 136 | King |
+| 344 | 135 | Quiomarie Cotto |
+| 345 | 135 | crobb77 |
+| 346 | 135 | Shia Marie |
+| 347 | 134 | All knowing |
+| 348 | 133 | Sonia Cordero-Martinez |
+| 349 | 131 | Diana Fernandez |
+| 350 | 131 | Swanky Snapgrid |
+| 351 | 131 | Dominique Melendez |
+| 352 | 131 | Stasia |
+| 353 | 131 | Lanelva Tiredofbs Marshall |
+| 354 | 130 | Bhakti Sawarkar |
+| 355 | 130 | Rita Ann |
+| 356 | 129 | Dizzy Slammer |
+| 357 | 129 | Simone |
+| 358 | 129 | Has2brat |
+| 359 | 129 | Sandra Stark |
+| 360 | 129 | Shauna Davis |
+| 361 | 128 | Sherry Mooney |
+| 362 | 128 | Juvon SupaShawdii Brooks |
+| 363 | 128 | Lana Tran |
+| 364 | 127 | Cheeky Climber |
+| 365 | 127 | zoes |
+| 366 | 127 | Jen Smith |
+| 367 | 127 | Jrr |
 | 368 | 126 | Karen Small |
 | 369 | 125 | DizzB400 |
 | 370 | 124 | Tasha Suzanne Prisbrey |
