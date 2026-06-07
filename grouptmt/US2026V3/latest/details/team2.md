@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 07:36:18 UTC
+# Standings for team2 as of 2026-06-07 07:36:40 UTC
 
 **Total Participants:** 1670
 
@@ -51,8 +51,8 @@
 | 43 | 1835 | Elizabeth Mooney |
 | 44 | 1820 | Tom Badgley |
 | 45 | 1803 | Julie Trede Amerson |
-| 46 | 1692 | Matt Hardin |
-| 47 | 1692 | Logan Basham |
+| 46 | 1692 | Logan Basham |
+| 47 | 1692 | Matt Hardin |
 | 48 | 1678 | Betty Barrett |
 | 49 | 1657 | Heather Marie-Tarlton Britt |
 | 50 | 1610 | Rose Schaffner-Kibler |
@@ -65,12 +65,12 @@
 | 57 | 1250 | Marie Edmonds |
 | 58 | 1215 | Brent Bittenbender |
 | 59 | 1192 | Angie Mccain |
-| 60 | 1070 | Michelle Maulsby |
-| 61 | 1036 | Giddy Slamdrop |
-| 62 | 1032 | AcardBoardBox |
-| 63 | 1031 | DarkHorse |
-| 64 | 1020 | Ruby Sandberg |
-| 65 | 1000 | Smashanator |
+| 60 | 1100 | Smashanator |
+| 61 | 1070 | Michelle Maulsby |
+| 62 | 1036 | Giddy Slamdrop |
+| 63 | 1032 | AcardBoardBox |
+| 64 | 1031 | DarkHorse |
+| 65 | 1020 | Ruby Sandberg |
 | 66 | 984 | Dane Marko |
 | 67 | 971 | Debra Henry |
 | 68 | 956 | Criccett Hooper-Smith |
@@ -1618,49 +1618,49 @@
 | 1610 | 7 | Mighty Tiltpiece |
 | 1611 | 7 | Crystal King |
 | 1612 | 7 | Charity Black |
-| 1613 | 7 | Chirpy Shiftspin |
-| 1614 | 7 | Janice Simpson |
-| 1615 | 7 | Elizabeth Barnhart Floyd |
-| 1616 | 7 | Ashley |
-| 1617 | 7 | Sasha Hamilton |
-| 1618 | 7 | Elizabeth Elaine Coursey |
-| 1619 | 7 | Snippy Blockfall |
-| 1620 | 7 | Leslie Baker |
-| 1621 | 7 | Lush Tile |
-| 1622 | 7 | StacyK |
-| 1623 | 7 | Sam Blinn |
-| 1624 | 7 | Brenda Ohaus Facher |
-| 1625 | 7 | Steven Desmon Thompson |
-| 1626 | 7 | John Guider |
-| 1627 | 7 | Nikki Layman |
-| 1628 | 7 | michael |
-| 1629 | 7 | Michael Bond |
+| 1613 | 7 | Janice Simpson |
+| 1614 | 7 | Alicia Abston |
+| 1615 | 7 | Leslie Baker |
+| 1616 | 7 | Elizabeth Elaine Coursey |
+| 1617 | 7 | John Guider |
+| 1618 | 7 | Nikki Layman |
+| 1619 | 7 | StacyK |
+| 1620 | 7 | Snippy Blockfall |
+| 1621 | 7 | Elizabeth Barnhart Floyd |
+| 1622 | 7 | Ashley |
+| 1623 | 7 | Sasha Hamilton |
+| 1624 | 7 | Lush Tile |
+| 1625 | 7 | Sam Blinn |
+| 1626 | 7 | Chirpy Shiftspin |
+| 1627 | 7 | Brenda Ohaus Facher |
+| 1628 | 7 | Steven Desmon Thompson |
+| 1629 | 7 | Kyle |
 | 1630 | 7 | Perky Rollfit |
-| 1631 | 7 | Kyle |
-| 1632 | 6 | Milwaukee Area Cleaning |
-| 1633 | 6 | Alicia Abston |
-| 1634 | 6 | Anna Hale |
-| 1635 | 6 | Brandi Lynn Tumey |
-| 1636 | 6 | Amanda Knox |
+| 1631 | 7 | michael |
+| 1632 | 7 | Michael Bond |
+| 1633 | 6 | Bunny Bt |
+| 1634 | 6 | Cheeky Dashpiece |
+| 1635 | 6 | Cara Douglas |
+| 1636 | 6 | Jager |
 | 1637 | 6 | Giggy Dropzone |
-| 1638 | 6 | Jager |
-| 1639 | 6 | Cara Douglas |
-| 1640 | 6 | Jenea Colvin |
-| 1641 | 6 | Ali |
-| 1642 | 6 | Jessie |
-| 1643 | 6 | Celeste Samuels |
-| 1644 | 6 | Cheeky Dashpiece |
+| 1638 | 6 | Amanda Knox |
+| 1639 | 6 | Brandi Lynn Tumey |
+| 1640 | 6 | Anna Hale |
+| 1641 | 6 | Milwaukee Area Cleaning |
+| 1642 | 6 | Jenea Colvin |
+| 1643 | 6 | Ali |
+| 1644 | 6 | Michelle Brown |
 | 1645 | 6 | Bowling girl |
-| 1646 | 6 | Michelle Brown |
-| 1647 | 6 | Bunny Bt |
+| 1646 | 6 | Jessie |
+| 1647 | 6 | Celeste Samuels |
 | 1648 | 5 | Crafty Dashgrid |
-| 1649 | 5 | Jason M Barnes |
-| 1650 | 5 | Teri |
-| 1651 | 5 | Chilly Twistbuilder |
-| 1652 | 5 | Chris Weddel |
-| 1653 | 5 | Chirpy Towerer |
-| 1654 | 5 | Groovy Buildout |
-| 1655 | 5 | Quirky Liney |
+| 1649 | 5 | Chilly Twistbuilder |
+| 1650 | 5 | Chris Weddel |
+| 1651 | 5 | Quirky Liney |
+| 1652 | 5 | Chirpy Towerer |
+| 1653 | 5 | Groovy Buildout |
+| 1654 | 5 | Jason M Barnes |
+| 1655 | 5 | Teri |
 | 1656 | 5 | Julie Ann Jacobs |
 | 1657 | 5 | Nolife |
 | 1658 | 5 | Mala Phonchanthasone |
