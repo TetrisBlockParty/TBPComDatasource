@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 01:06:18 UTC
+# Standings for team4 as of 2026-06-07 01:06:39 UTC
 
 **Total Participants:** 1237
 
@@ -135,7 +135,7 @@
 | 127 | 317 | J |
 | 128 | 315 | Andrew Dang |
 | 129 | 315 | Thomasena Eady Reid |
-| 130 | 306 | Debby Ruof |
+| 130 | 307 | Debby Ruof |
 | 131 | 300 | Genag |
 | 132 | 300 | 2 kool |
 | 133 | 300 | Hasty Builder |
@@ -605,32 +605,32 @@
 | 597 | 57 | PapaB |
 | 598 | 57 | EpicWizard |
 | 599 | 57 | Rocky |
-| 600 | 56 | Zappy Matchgrid |
-| 601 | 56 | Kayla Haddenham |
-| 602 | 56 | Sharon Tyler |
+| 600 | 56 | Kayla Haddenham |
+| 601 | 56 | Sharon Tyler |
+| 602 | 56 | Zappy Matchgrid |
 | 603 | 56 | Jennifer Brucz |
 | 604 | 55 | The Jazziest |
 | 605 | 55 | Cherrel M. Causey |
 | 606 | 55 | Erika Rubio |
 | 607 | 54 | Tamika Ashli Bonner |
 | 608 | 54 | Leslie |
-| 609 | 54 | Brittany |
-| 610 | 54 | Lilo |
-| 611 | 54 | Bean |
-| 612 | 54 | Clever Brickzone |
-| 613 | 54 | Scott Baum |
-| 614 | 54 | Lisa Ferriero-Daudin |
-| 615 | 54 | Earl Edwards |
-| 616 | 53 | Kimberly Mae Watkins |
-| 617 | 53 | Trang Nguyen |
-| 618 | 53 | Haylee Talkington |
-| 619 | 53 | Giggy Risegrid |
-| 620 | 52 | Danielle Sulano |
-| 621 | 52 | Meela Abdurrab |
-| 622 | 52 | Luunii |
-| 623 | 52 | Blessedmom865 |
+| 609 | 54 | Blessedmom865 |
+| 610 | 54 | Brittany |
+| 611 | 54 | Lilo |
+| 612 | 54 | Bean |
+| 613 | 54 | Clever Brickzone |
+| 614 | 54 | Scott Baum |
+| 615 | 54 | Lisa Ferriero-Daudin |
+| 616 | 54 | Earl Edwards |
+| 617 | 53 | Kimberly Mae Watkins |
+| 618 | 53 | Trang Nguyen |
+| 619 | 53 | Haylee Talkington |
+| 620 | 53 | Giggy Risegrid |
+| 621 | 52 | Danny Keich III |
+| 622 | 52 | Meela Abdurrab |
+| 623 | 52 | Luunii |
 | 624 | 52 | Angela Adamo-Tash |
-| 625 | 52 | Danny Keich III |
+| 625 | 52 | Danielle Sulano |
 | 626 | 52 | Sonya |
 | 627 | 51 | Snippy Racker |
 | 628 | 51 | Michellee Lewis |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 01:06:18 UTC
+# Standings for team2 as of 2026-06-07 01:06:39 UTC
 
 **Total Participants:** 1491
 
@@ -46,8 +46,8 @@
 | 38 | 1803 | Julie Trede Amerson |
 | 39 | 1800 | Quirky Catcher |
 | 40 | 1678 | Betty Barrett |
-| 41 | 1577 | Heather Marie-Tarlton Britt |
-| 42 | 1559 | Tom Badgley |
+| 41 | 1579 | Tom Badgley |
+| 42 | 1577 | Heather Marie-Tarlton Britt |
 | 43 | 1519 | Rose Schaffner-Kibler |
 | 44 | 1510 | Shandrea Crawford |
 | 45 | 1501 | Monica Galli |
@@ -166,8 +166,8 @@
 | 158 | 298 | Breeana Bennett |
 | 159 | 296 | Snappy Combo |
 | 160 | 294 | Vistabrat |
-| 161 | 293 | Erin Thomas |
-| 162 | 293 | Jackie Tupper |
+| 161 | 294 | Jackie Tupper |
+| 162 | 293 | Erin Thomas |
 | 163 | 292 | James Ward |
 | 164 | 291 | Flashy Twistline |
 | 165 | 284 | Renee Freeman Jacobson |
@@ -722,50 +722,50 @@
 | 714 | 54 | Christina Nycol |
 | 715 | 54 | Josie Mendivil |
 | 716 | 53 | Frisky Linkmatch |
-| 717 | 53 | Vicke Patterson |
+| 717 | 53 | Jana Campbell |
 | 718 | 53 | Zesty Zoney |
 | 719 | 53 | CK Hancock |
-| 720 | 53 | Brian Favre |
-| 721 | 53 | wutrwerdz |
-| 722 | 53 | Witty Riser |
-| 723 | 53 | Lazy Staggerpiece |
-| 724 | 53 | Bouncy Cluster |
-| 725 | 53 | Jana Campbell |
-| 726 | 52 | Erin Moore Galloway |
-| 727 | 52 | Trisha Farley |
-| 728 | 52 | Talyn Domingues |
-| 729 | 52 | Sherry Ann |
-| 730 | 52 | Amber Marie Lacey |
-| 731 | 52 | andee |
-| 732 | 52 | Chipper Spinzone |
-| 733 | 52 | Diane Byrd |
-| 734 | 51 | Brian Giddens |
+| 720 | 53 | Vicke Patterson |
+| 721 | 53 | Brian Favre |
+| 722 | 53 | wutrwerdz |
+| 723 | 53 | Witty Riser |
+| 724 | 53 | Lazy Staggerpiece |
+| 725 | 53 | Bouncy Cluster |
+| 726 | 52 | Trisha Farley |
+| 727 | 52 | Talyn Domingues |
+| 728 | 52 | Sherry Ann |
+| 729 | 52 | Erin Moore Galloway |
+| 730 | 52 | Shaylee Haltiner |
+| 731 | 52 | Amber Marie Lacey |
+| 732 | 52 | andee |
+| 733 | 52 | Chipper Spinzone |
+| 734 | 52 | Diane Byrd |
 | 735 | 51 | Tashamonique Puckey |
 | 736 | 51 | Newtwidebody |
-| 737 | 51 | Loopy Zone |
-| 738 | 51 | Daring Blockline |
-| 739 | 51 | Lydia Shonee |
-| 740 | 51 | Dawn Marie |
-| 741 | 51 | Jennifer McCloskey Launder |
-| 742 | 51 | Samantha Bugg Stitcher |
-| 743 | 51 | Chad Atchley |
-| 744 | 51 | Shaylee Haltiner |
+| 737 | 51 | Chad Atchley |
+| 738 | 51 | Loopy Zone |
+| 739 | 51 | Samantha Bugg Stitcher |
+| 740 | 51 | Daring Blockline |
+| 741 | 51 | Brian Giddens |
+| 742 | 51 | Jennifer McCloskey Launder |
+| 743 | 51 | Dawn Marie |
+| 744 | 51 | Lydia Shonee |
 | 745 | 50 | Angie Rose |
-| 746 | 50 | Matt Solomon |
-| 747 | 50 | Brittany Kay |
-| 748 | 50 | Susan Moyer |
-| 749 | 50 | Jennifer Wymer |
-| 750 | 50 | Stephania Edwards |
+| 746 | 50 | Stephania Edwards |
+| 747 | 50 | Susan Moyer |
+| 748 | 50 | Stacey Loretta Wallace |
+| 749 | 50 | Brittany Kay |
+| 750 | 50 | Jennifer Wymer |
 | 751 | 50 | Charith Lorelle Watson |
 | 752 | 50 | Ashley Jones |
 | 753 | 50 | Tabitha Palen |
-| 754 | 50 | Jenna Stahl |
+| 754 | 50 | Matt Solomon |
 | 755 | 50 | Sarah Rodriguez |
 | 756 | 50 | Melissa Clogher White |
 | 757 | 50 | Whitt |
 | 758 | 50 | Stazy Warner |
 | 759 | 50 | CEK |
-| 760 | 50 | Stacey Loretta Wallace |
+| 760 | 50 | Jenna Stahl |
 | 761 | 49 | Tetrismastrr |
 | 762 | 49 | Po Yee |
 | 763 | 49 | Missy Tubb Overly |
