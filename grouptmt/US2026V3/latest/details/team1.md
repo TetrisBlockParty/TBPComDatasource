@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 19:42:41 UTC
+# Standings for team1 as of 2026-06-07 19:43:19 UTC
 
 **Total Participants:** 1556
 
@@ -111,11 +111,11 @@
 | 103 | 601 | JaszyBadd |
 | 104 | 600 | Chenell Gillard |
 | 105 | 594 | Voice |
-| 106 | 588 | Shontanese Adams |
-| 107 | 587 | KenpachisGirl |
-| 108 | 586 | Andi McGreevy |
-| 109 | 585 | Alana Renee |
-| 110 | 583 | MamaBear |
+| 106 | 591 | MamaBear |
+| 107 | 588 | Shontanese Adams |
+| 108 | 587 | KenpachisGirl |
+| 109 | 586 | Andi McGreevy |
+| 110 | 585 | Alana Renee |
 | 111 | 575 | Tameka Jones |
 | 112 | 574 | W.A. Simpson |
 | 113 | 570 | Keeta Chickswit Scott |
@@ -159,28 +159,28 @@
 | 151 | 389 | GrkGdess |
 | 152 | 384 | Christana Imjustbutton Stone |
 | 153 | 380 | Dulo |
-| 154 | 377 | AF Cruz |
-| 155 | 377 | Jenna Renee |
+| 154 | 377 | Jenna Renee |
+| 155 | 377 | AF Cruz |
 | 156 | 370 | Allison Baxter |
 | 157 | 367 | Leebo Slice |
-| 158 | 365 | Simmone T. Kadiri |
-| 159 | 365 | Tishauna Virgo |
+| 158 | 365 | Tishauna Virgo |
+| 159 | 365 | Simmone T. Kadiri |
 | 160 | 363 | Christina Rebecca |
 | 161 | 361 | John Staub |
-| 162 | 360 | Felicia Cain |
-| 163 | 358 | Dena Marie Lee |
-| 164 | 353 | Chuck Quarles |
+| 162 | 361 | Nutty Spinblock |
+| 163 | 360 | Felicia Cain |
+| 164 | 358 | Dena Marie Lee |
 | 165 | 353 | Lashaunda |
-| 166 | 351 | Joey Albright |
-| 167 | 348 | pooh |
-| 168 | 348 | LeeLee08 |
-| 169 | 341 | Frisky Fallmatch |
-| 170 | 340 | Spicy Risepiece |
-| 171 | 339 | Ty Øtg |
-| 172 | 338 | Sheila Burnham |
-| 173 | 336 | Tammye Turner |
-| 174 | 333 | La'Chae Nickole |
-| 175 | 331 | Nutty Spinblock |
+| 166 | 353 | Chuck Quarles |
+| 167 | 351 | Joey Albright |
+| 168 | 348 | pooh |
+| 169 | 348 | LeeLee08 |
+| 170 | 341 | Frisky Fallmatch |
+| 171 | 340 | Spicy Risepiece |
+| 172 | 339 | Ty Øtg |
+| 173 | 338 | Sheila Burnham |
+| 174 | 336 | Tammye Turner |
+| 175 | 333 | La'Chae Nickole |
 | 176 | 331 | Tina Mitchell |
 | 177 | 330 | Jessica Russell |
 | 178 | 328 | Karebear |
@@ -194,8 +194,8 @@
 | 186 | 310 | Chantelle Lee |
 | 187 | 308 | NastyFriend |
 | 188 | 307 | Byron Mario Cawthon |
-| 189 | 306 | Devin West |
-| 190 | 306 | IThinkNot |
+| 189 | 306 | IThinkNot |
+| 190 | 306 | Devin West |
 | 191 | 305 | Salim Thugger |
 | 192 | 304 | Calvin Green |
 | 193 | 302 | Ebony |
@@ -406,11 +406,11 @@
 | 398 | 143 | Breezy Catcher |
 | 399 | 142 | Kelley Johnson |
 | 400 | 141 | Shalena Marie Humphrey |
-| 401 | 140 | Antoinette Jones |
-| 402 | 140 | Katrina Ramey |
-| 403 | 140 | rls |
-| 404 | 140 | Dede Tate |
-| 405 | 140 | Kate Hancock Malicek |
+| 401 | 141 | Kate Hancock Malicek |
+| 402 | 140 | Antoinette Jones |
+| 403 | 140 | Katrina Ramey |
+| 404 | 140 | rls |
+| 405 | 140 | Dede Tate |
 | 406 | 140 | Genne Scott |
 | 407 | 139 | Analiza Ramos |
 | 408 | 138 | Douglas Price |
@@ -738,22 +738,22 @@
 | 730 | 72 | JesusSaves 😇 |
 | 731 | 72 | Nekka |
 | 732 | 72 | TeeMaster Barber IsLyfe |
-| 733 | 72 | Stephanie Ellis |
-| 734 | 72 | Ladybug |
+| 733 | 72 | Sunny Tumbler |
+| 734 | 72 | Stephanie Ellis |
 | 735 | 72 | Ashanti Eden |
-| 736 | 72 | Comedian Gdane |
-| 737 | 71 | Tori Carter |
-| 738 | 71 | KimChii |
-| 739 | 71 | HBTone |
-| 740 | 71 | Ryan Holm |
-| 741 | 70 | Kàrma Lee |
-| 742 | 70 | Smøke DGAF |
-| 743 | 70 | Mellie Mel |
-| 744 | 70 | Marshall Davis |
-| 745 | 70 | West Racks |
-| 746 | 70 | Rachel Lopez |
-| 747 | 70 | StingerD |
-| 748 | 70 | Sunny Tumbler |
+| 736 | 72 | Ladybug |
+| 737 | 72 | Comedian Gdane |
+| 738 | 71 | Tori Carter |
+| 739 | 71 | KimChii |
+| 740 | 71 | HBTone |
+| 741 | 71 | Ryan Holm |
+| 742 | 70 | Kàrma Lee |
+| 743 | 70 | Smøke DGAF |
+| 744 | 70 | Mellie Mel |
+| 745 | 70 | Marshall Davis |
+| 746 | 70 | West Racks |
+| 747 | 70 | Rachel Lopez |
+| 748 | 70 | StingerD |
 | 749 | 70 | JoZanna Washington |
 | 750 | 69 | Keith Johnson |
 | 751 | 69 | Markeita Jones |

@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 19:42:41 UTC
+# Standings for team4 as of 2026-06-07 19:43:19 UTC
 
 **Total Participants:** 1587
 
@@ -183,12 +183,12 @@
 | 175 | 326 | Bobbie Harrell |
 | 176 | 324 | Dazzle Dragon |
 | 177 | 320 | Jojo Ann |
-| 178 | 317 | Lush Fitblock |
-| 179 | 317 | Sisi RedVelvet Reneè |
-| 180 | 317 | Debby Ruof |
-| 181 | 315 | Thomasena Eady Reid |
-| 182 | 314 | Slimm |
-| 183 | 313 | beTrue76 |
+| 178 | 317 | beTrue76 |
+| 179 | 317 | Lush Fitblock |
+| 180 | 317 | Sisi RedVelvet Reneè |
+| 181 | 317 | Debby Ruof |
+| 182 | 315 | Thomasena Eady Reid |
+| 183 | 314 | Slimm |
 | 184 | 310 | Fran Aaron-Ring |
 | 185 | 308 | Plucky Shatterfit |
 | 186 | 308 | matt |
@@ -325,14 +325,14 @@
 | 317 | 175 | Bonnie Powell |
 | 318 | 175 | Slinky Stackzone |
 | 319 | 174 | Clashy |
-| 320 | 172 | maria |
-| 321 | 172 | Matthew Wilcox |
-| 322 | 172 | Danny Frausto |
-| 323 | 171 | Dayna Arthurs |
-| 324 | 170 | Jennifer Fisher Franklin |
-| 325 | 169 | Tiffany Smith |
-| 326 | 169 | Miwa |
-| 327 | 168 | Mark Fitch Jr. |
+| 320 | 173 | Mark Fitch Jr. |
+| 321 | 172 | maria |
+| 322 | 172 | Matthew Wilcox |
+| 323 | 172 | Danny Frausto |
+| 324 | 171 | Dayna Arthurs |
+| 325 | 170 | Jennifer Fisher Franklin |
+| 326 | 169 | Tiffany Smith |
+| 327 | 169 | Miwa |
 | 328 | 168 | Name |
 | 329 | 168 | Dena Lynn Rogers |
 | 330 | 168 | Jace McCullough |
