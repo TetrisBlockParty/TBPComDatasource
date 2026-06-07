@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 08:45:19 UTC
+# Standings for team2 as of 2026-06-07 08:46:18 UTC
 
 **Total Participants:** 1685
 
@@ -52,8 +52,8 @@
 | 44 | 1820 | Tom Badgley |
 | 45 | 1817 | Rose Schaffner-Kibler |
 | 46 | 1803 | Julie Trede Amerson |
-| 47 | 1692 | Matt Hardin |
-| 48 | 1692 | Logan Basham |
+| 47 | 1692 | Logan Basham |
+| 48 | 1692 | Matt Hardin |
 | 49 | 1678 | Betty Barrett |
 | 50 | 1657 | Heather Marie-Tarlton Britt |
 | 51 | 1606 | Nerdy Glidepiece |
@@ -90,8 +90,8 @@
 | 82 | 818 | Lily |
 | 83 | 802 | Charley Bedford |
 | 84 | 800 | Renee Freeman Jacobson |
-| 85 | 799 | Poppy |
-| 86 | 799 | Elizabeth Sallas |
+| 85 | 799 | Elizabeth Sallas |
+| 86 | 799 | Poppy |
 | 87 | 779 | Marie Luciano |
 | 88 | 774 | Deborah Boyce Minor |
 | 89 | 771 | Charlie Wilson |
@@ -106,8 +106,8 @@
 | 98 | 656 | Loopy Cascadepiece |
 | 99 | 654 | Bon Lynn |
 | 100 | 639 | Alison Waller |
-| 101 | 632 | Allie Bug |
-| 102 | 632 | Wmk Rathbun |
+| 101 | 632 | Wmk Rathbun |
+| 102 | 632 | Allie Bug |
 | 103 | 629 | Mirr Lulu |
 | 104 | 627 | Le Sandy |
 | 105 | 620 | Amber-leigh Williams |
@@ -121,8 +121,8 @@
 | 113 | 577 | Lindsay Klemp |
 | 114 | 574 | Brandy McCune Reep |
 | 115 | 570 | Nerdy Climber |
-| 116 | 563 | Allison Jarman |
-| 117 | 563 | Tisha Hairston |
+| 116 | 563 | Tisha Hairston |
+| 117 | 563 | Allison Jarman |
 | 118 | 553 | Jamie Jones |
 | 119 | 549 | Kathleen Dumbazz |
 | 120 | 547 | Nettrainer |
@@ -131,8 +131,8 @@
 | 123 | 528 | Amanda Sikes |
 | 124 | 516 | Amber Miller Wirick |
 | 125 | 515 | Loony Faller |
-| 126 | 500 | Suki Kaur |
-| 127 | 500 | Courtney McCulley |
+| 126 | 500 | Courtney McCulley |
+| 127 | 500 | Suki Kaur |
 | 128 | 495 | Jackie Tupper |
 | 129 | 483 | Karen Reid Cenkush |
 | 130 | 477 | Amy Gale |
@@ -160,8 +160,8 @@
 | 152 | 386 | Frilly Dashfit |
 | 153 | 381 | Joslyn Johnson |
 | 154 | 380 | Zany Blockclear |
-| 155 | 375 | Milad Arzani |
-| 156 | 375 | MaddieCherie |
+| 155 | 375 | MaddieCherie |
+| 156 | 375 | Milad Arzani |
 | 157 | 365 | Branden Frankowski |
 | 158 | 362 | Nutty Curver |
 | 159 | 360 | Jacob Carpenter |
@@ -172,33 +172,33 @@
 | 164 | 354 | Zesty Strikerbuilder |
 | 165 | 348 | Eric Drane |
 | 166 | 344 | Traci Abern |
-| 167 | 343 | Theresa Marie |
-| 168 | 343 | Jason Cook |
+| 167 | 343 | Jason Cook |
+| 168 | 343 | Theresa Marie |
 | 169 | 342 | Bri St Peter |
-| 170 | 340 | Mom |
-| 171 | 340 | Amy Gregg |
+| 170 | 340 | Amy Gregg |
+| 171 | 340 | Mom |
 | 172 | 339 | Loopy Curvebuilder |
 | 173 | 336 | Jef Wassom |
 | 174 | 333 | Christina Maria |
-| 175 | 328 | Keri Mears |
-| 176 | 328 | Tim Tim |
+| 175 | 328 | Tim Tim |
+| 176 | 328 | Keri Mears |
 | 177 | 323 | Shannon Wilson |
 | 178 | 322 | Nikki Hayes |
 | 179 | 319 | Flower_child |
-| 180 | 314 | DayDreamer79 |
-| 181 | 314 | Danielle Blount |
+| 180 | 314 | Danielle Blount |
+| 181 | 314 | DayDreamer79 |
 | 182 | 311 | Hoppy Mover |
 | 183 | 310 | Jennifer Smith |
-| 184 | 308 | Fudgie Pie |
-| 185 | 303 | Chirpy Grid |
-| 186 | 302 | Hypee |
-| 187 | 300 | Hector |
-| 188 | 300 | Linda Guay |
-| 189 | 299 | Mookshake |
-| 190 | 298 | Breeana Bennett |
-| 191 | 298 | Rob Owens |
-| 192 | 298 | Heather Burgett |
-| 193 | 298 | Ratchet |
+| 184 | 309 | Ratchet |
+| 185 | 308 | Fudgie Pie |
+| 186 | 303 | Chirpy Grid |
+| 187 | 302 | Hypee |
+| 188 | 300 | Hector |
+| 189 | 300 | Linda Guay |
+| 190 | 299 | Mookshake |
+| 191 | 298 | Breeana Bennett |
+| 192 | 298 | Rob Owens |
+| 193 | 298 | Heather Burgett |
 | 194 | 296 | Brenda Jones |
 | 195 | 296 | Sara Perkins |
 | 196 | 296 | Snappy Combo |
@@ -540,11 +540,11 @@
 | 532 | 92 | Tim Moore |
 | 533 | 92 | Jayda Walters |
 | 534 | 92 | Thy Bui |
-| 535 | 91 | Smiley Cornerfall |
-| 536 | 91 | Heather Vircik |
-| 537 | 91 | Kimberly Davis |
-| 538 | 90 | Rescuegirl76 |
-| 539 | 90 | Jackie Walker |
+| 535 | 91 | Jackie Walker |
+| 536 | 91 | Smiley Cornerfall |
+| 537 | 91 | Heather Vircik |
+| 538 | 91 | Kimberly Davis |
+| 539 | 90 | Rescuegirl76 |
 | 540 | 90 | Naomi Jaynes |
 | 541 | 90 | Rhonda Driskill |
 | 542 | 90 | Eva Lopez |

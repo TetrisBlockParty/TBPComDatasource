@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 08:45:19 UTC
+# Standings for team4 as of 2026-06-07 08:46:18 UTC
 
 **Total Participants:** 1419
 
@@ -28,7 +28,7 @@
 | 20 | 3643 | Jackie Lucas |
 | 21 | 3612 | Tonya Brooks-Johnson |
 | 22 | 3508 | Hasty Builder |
-| 23 | 3374 | Bubbly Twistpiece |
+| 23 | 3394 | Bubbly Twistpiece |
 | 24 | 3150 | Destiny Dyer |
 | 25 | 3095 | Irene Arreguin |
 | 26 | 3069 | Squirrel Donkey |
@@ -434,9 +434,9 @@
 | 426 | 98 | Jacqueline Arce |
 | 427 | 98 | katy |
 | 428 | 98 | Jen Smith |
-| 429 | 97 | Betsy Froemming |
-| 430 | 97 | Dawn Marie Trujillo |
-| 431 | 97 | SupaFly |
+| 429 | 97 | Dawn Marie Trujillo |
+| 430 | 97 | SupaFly |
+| 431 | 97 | Betsy Froemming |
 | 432 | 96 | Jennifer Garcia |
 | 433 | 96 | Cheeky Fallzone |
 | 434 | 96 | Diana Fernandez |
@@ -451,77 +451,77 @@
 | 443 | 93 | Boldy Striker |
 | 444 | 93 | Witty Fitblock |
 | 445 | 93 | Dandy Cascade |
-| 446 | 93 | Loopy Hitter |
-| 447 | 93 | Nessa Smith |
-| 448 | 93 | Domo Dpn |
-| 449 | 93 | Deva Marie Barber |
-| 450 | 92 | Giggly Column |
+| 446 | 93 | Nessa Smith |
+| 447 | 93 | Loopy Hitter |
+| 448 | 93 | Deva Marie Barber |
+| 449 | 93 | Alizabeth Garcia |
+| 450 | 93 | Domo Dpn |
 | 451 | 92 | Chonda OhanaMomma Michelle |
-| 452 | 92 | my my |
+| 452 | 92 | Giggly Column |
 | 453 | 92 | Autumn Maher |
 | 454 | 92 | MrLoner Stoner |
 | 455 | 92 | Rosy Perez |
-| 456 | 92 | William Brooks |
-| 457 | 91 | Misty Leigh |
-| 458 | 91 | Miss Beast |
-| 459 | 91 | Happy Shatterfit |
+| 456 | 92 | my my |
+| 457 | 92 | William Brooks |
+| 458 | 91 | Misty Leigh |
+| 459 | 91 | Miss Beast |
 | 460 | 91 | Spicy Peach |
-| 461 | 90 | Garden Girlie |
-| 462 | 90 | Joshua Garner |
-| 463 | 90 | Candiecane324 |
-| 464 | 90 | Flashy Shatterer |
-| 465 | 90 | Codey Haffner |
-| 466 | 90 | Ricky Colvin |
-| 467 | 90 | 1694AF |
-| 468 | 90 | Dexter Hammond Jr |
-| 469 | 90 | Alex Armour |
-| 470 | 90 | DizzB400 |
-| 471 | 89 | Bon Jovi |
-| 472 | 89 | Mrs |
-| 473 | 89 | Jen Roe |
-| 474 | 88 | Happy Toast |
-| 475 | 88 | SandyEva |
-| 476 | 88 | Hasty Dropzone |
-| 477 | 88 | Tiffany Roberts |
-| 478 | 87 | Tiffany Taylor |
-| 479 | 87 | Limbo |
+| 461 | 91 | Happy Shatterfit |
+| 462 | 90 | Alex Armour |
+| 463 | 90 | Ricky Colvin |
+| 464 | 90 | Dexter Hammond Jr |
+| 465 | 90 | 1694AF |
+| 466 | 90 | Flashy Shatterer |
+| 467 | 90 | Candiecane324 |
+| 468 | 90 | Garden Girlie |
+| 469 | 90 | Joshua Garner |
+| 470 | 90 | Codey Haffner |
+| 471 | 90 | DizzB400 |
+| 472 | 89 | Bon Jovi |
+| 473 | 89 | Mrs |
+| 474 | 89 | Jen Roe |
+| 475 | 88 | Hasty Dropzone |
+| 476 | 88 | Happy Toast |
+| 477 | 88 | SandyEva |
+| 478 | 88 | Tiffany Roberts |
+| 479 | 87 | Tiffany Taylor |
 | 480 | 87 | Fancy Rollfit |
-| 481 | 87 | Alizabeth Garcia |
-| 482 | 87 | da1ndonly |
-| 483 | 87 | Loretta Hendricks |
-| 484 | 87 | YenSid |
-| 485 | 86 | Wacky Brick |
-| 486 | 86 | Elena Marí |
-| 487 | 86 | Brandi Sauer |
-| 488 | 86 | Linda |
-| 489 | 86 | ManOfSteel |
-| 490 | 86 | Jessica Jones Bolton |
-| 491 | 86 | Swanky Builderline |
+| 481 | 87 | Limbo |
+| 482 | 87 | YenSid |
+| 483 | 87 | da1ndonly |
+| 484 | 87 | Loretta Hendricks |
+| 485 | 86 | Brandi Sauer |
+| 486 | 86 | Wacky Brick |
+| 487 | 86 | ManOfSteel |
+| 488 | 86 | Jessica Jones Bolton |
+| 489 | 86 | Swanky Builderline |
+| 490 | 86 | Elena Marí |
+| 491 | 86 | Linda |
 | 492 | 86 | Tre'nya Smith |
 | 493 | 86 | Michelle Michelle |
 | 494 | 86 | Ian T Parker |
 | 495 | 85 | Ern |
 | 496 | 85 | Shia Marie |
 | 497 | 85 | MelodiousDeez |
-| 498 | 85 | Ami Ferguson |
-| 499 | 85 | Silly Fallzone |
-| 500 | 85 | Dolores Falco |
+| 498 | 85 | Andrea Dre Lomeli |
+| 499 | 85 | Ami Ferguson |
+| 500 | 85 | Allysonjo Varela |
 | 501 | 85 | Zappy Tilemaker |
-| 502 | 85 | Allysonjo Varela |
-| 503 | 85 | Darren Miguel |
-| 504 | 85 | Andrea Dre Lomeli |
+| 502 | 85 | Silly Fallzone |
+| 503 | 85 | Dolores Falco |
+| 504 | 85 | Darren Miguel |
 | 505 | 84 | Darryl Shufford |
-| 506 | 84 | Playa |
+| 506 | 84 | Sharon Tyler |
 | 507 | 84 | Amandacolle |
-| 508 | 84 | Sharon Tyler |
-| 509 | 83 | Ricardo Arias |
-| 510 | 83 | Peachy Piecefit |
-| 511 | 83 | Lady |
-| 512 | 83 | Jason Moves |
-| 513 | 83 | Brian Woods |
-| 514 | 83 | Peter Babineaux Jr |
-| 515 | 83 | Brandon Bedenbaugh |
-| 516 | 83 | Sandra Stark |
+| 508 | 84 | Playa |
+| 509 | 83 | Peter Babineaux Jr |
+| 510 | 83 | Ricardo Arias |
+| 511 | 83 | Sandra Stark |
+| 512 | 83 | Peachy Piecefit |
+| 513 | 83 | Lady |
+| 514 | 83 | Jason Moves |
+| 515 | 83 | Brian Woods |
+| 516 | 83 | Brandon Bedenbaugh |
 | 517 | 83 | Sonia Cordero-Martinez |
 | 518 | 83 | Snippy Racker |
 | 519 | 82 | Clever Patterner |
