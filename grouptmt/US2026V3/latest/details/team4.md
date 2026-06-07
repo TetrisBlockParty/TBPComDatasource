@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 01:04:17 UTC
+# Standings for team4 as of 2026-06-07 01:04:39 UTC
 
 **Total Participants:** 1236
 
@@ -35,9 +35,9 @@
 | 27 | 1497 | Bubbly Twistpiece |
 | 28 | 1400 | Michele |
 | 29 | 1360 | Cal Renee |
-| 30 | 1333 | Alexandria Frazier |
-| 31 | 1324 | Loony Rotater |
-| 32 | 1308 | Michele Walker |
+| 30 | 1358 | Michele Walker |
+| 31 | 1333 | Alexandria Frazier |
+| 32 | 1324 | Loony Rotater |
 | 33 | 1249 | Charlie Lewis |
 | 34 | 1200 | Caitlin Johnson |
 | 35 | 1195 | Leigh Pierce |
@@ -97,15 +97,15 @@
 | 89 | 482 | Esther Hadassah |
 | 90 | 477 | Malik Thompson |
 | 91 | 467 | vag1974 |
-| 92 | 461 | Cranky Towerbuilder |
-| 93 | 461 | Kayla Fuentes |
+| 92 | 461 | Kayla Fuentes |
+| 93 | 461 | Cranky Towerbuilder |
 | 94 | 440 | Jewelz |
 | 95 | 429 | iiPurgeV2 |
 | 96 | 416 | Ermadette |
-| 97 | 400 | DexterDobbins |
+| 97 | 400 | Gigglycat |
 | 98 | 400 | Amber Doyle |
-| 99 | 400 | Gigglycat |
-| 100 | 400 | Sassy Column |
+| 99 | 400 | Sassy Column |
+| 100 | 400 | DexterDobbins |
 | 101 | 398 | Kay |
 | 102 | 397 | Real Talk Vibes |
 | 103 | 395 | Melissa WC |
@@ -121,8 +121,8 @@
 | 113 | 364 | GeorgeButts |
 | 114 | 364 | Jackie Jackson |
 | 115 | 359 | BCO22 |
-| 116 | 358 | Kim |
-| 117 | 358 | Joyce Myers |
+| 116 | 358 | Joyce Myers |
+| 117 | 358 | Kim |
 | 118 | 353 | Hen |
 | 119 | 347 | Nikki Fuller Johnson |
 | 120 | 346 | Alexis Cor |
@@ -133,12 +133,12 @@
 | 125 | 322 | Taz |
 | 126 | 320 | Futrell Brent |
 | 127 | 317 | J |
-| 128 | 315 | Andrew Dang |
-| 129 | 315 | Thomasena Eady Reid |
+| 128 | 315 | Thomasena Eady Reid |
+| 129 | 315 | Andrew Dang |
 | 130 | 306 | Debby Ruof |
-| 131 | 300 | Genag |
+| 131 | 300 | 2 kool |
 | 132 | 300 | Hasty Builder |
-| 133 | 300 | 2 kool |
+| 133 | 300 | Genag |
 | 134 | 294 | Jesse Olive |
 | 135 | 292 | Katie Martin |
 | 136 | 290 | Dana Smith |
@@ -157,8 +157,8 @@
 | 149 | 245 | QueenLi86 |
 | 150 | 237 | Anna Gribble |
 | 151 | 235 | Hwanger Land |
-| 152 | 233 | Sisi RedVelvet Reneè |
-| 153 | 233 | Christy Beezley-Forbush |
+| 152 | 233 | Christy Beezley-Forbush |
+| 153 | 233 | Sisi RedVelvet Reneè |
 | 154 | 231 | Becky McCool |
 | 155 | 230 | gabs |
 | 156 | 229 | Aisha Estrada |
@@ -167,8 +167,8 @@
 | 159 | 223 | matt |
 | 160 | 223 | Slimm |
 | 161 | 222 | Danny Ortiz |
-| 162 | 220 | Silly Risegrid |
-| 163 | 220 | Shmeedo |
+| 162 | 220 | Shmeedo |
+| 163 | 220 | Silly Risegrid |
 | 164 | 218 | Dubiousdust |
 | 165 | 215 | Perky Riserbuilder |
 | 166 | 212 | blockhead |
@@ -686,14 +686,14 @@
 | 678 | 48 | Happy Toast |
 | 679 | 47 | Lizzzzzz |
 | 680 | 47 | Lush Twisterfit |
-| 681 | 47 | Linda |
-| 682 | 46 | Lashae |
-| 683 | 46 | Gerald Richard Franke |
-| 684 | 46 | Esmond Johnson IV |
-| 685 | 46 | Elise Ann |
-| 686 | 46 | La Ah Ox |
-| 687 | 45 | Becky Bernazal |
-| 688 | 45 | Cassie N Danica Flaherty |
+| 681 | 47 | Cassie N Danica Flaherty |
+| 682 | 47 | Linda |
+| 683 | 46 | Lashae |
+| 684 | 46 | Gerald Richard Franke |
+| 685 | 46 | Esmond Johnson IV |
+| 686 | 46 | Elise Ann |
+| 687 | 46 | La Ah Ox |
+| 688 | 45 | Becky Bernazal |
 | 689 | 45 | Stephanie Brock |
 | 690 | 45 | SueSally |
 | 691 | 45 | Stephanie Meinhart |
