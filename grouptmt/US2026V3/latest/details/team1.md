@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 22:10:42 UTC
+# Standings for team1 as of 2026-06-07 22:11:19 UTC
 
 **Total Participants:** 1593
 
@@ -394,8 +394,8 @@
 | 386 | 154 | Manda Allen |
 | 387 | 153 | CJ Robinson |
 | 388 | 152 | Phillip Vasquez |
-| 389 | 152 | Frankey Chi |
-| 390 | 152 | Wacky Stackbuilder |
+| 389 | 152 | Wacky Stackbuilder |
+| 390 | 152 | Frankey Chi |
 | 391 | 151 | Brittany Fells |
 | 392 | 151 | Miera Nicole |
 | 393 | 151 | Dede Tate |
@@ -411,36 +411,36 @@
 | 403 | 146 | Jae Thompson-Tyus |
 | 404 | 146 | whatever |
 | 405 | 146 | KeeKee Williams |
-| 406 | 145 | Squaw Ki Ng |
-| 407 | 144 | Brittanie Wardlow |
-| 408 | 143 | Dandy Brickfit |
+| 406 | 145 | Dandy Brickfit |
+| 407 | 145 | Squaw Ki Ng |
+| 408 | 144 | Brittanie Wardlow |
 | 409 | 143 | rb |
 | 410 | 143 | Faith Armone |
-| 411 | 142 | Kelley Johnson |
+| 411 | 142 | BabyCakes |
 | 412 | 142 | Sarah Steckbauer |
-| 413 | 142 | BabyCakes |
-| 414 | 141 | Ta'Kaiyah M. Spann |
-| 415 | 141 | Shalena Marie Humphrey |
+| 413 | 142 | Kelley Johnson |
+| 414 | 141 | Kate Hancock Malicek |
+| 415 | 141 | Ta'Kaiyah M. Spann |
 | 416 | 141 | Yashica Smith |
-| 417 | 141 | Kate Hancock Malicek |
-| 418 | 140 | rls |
-| 419 | 140 | Genne Scott |
+| 417 | 141 | Shalena Marie Humphrey |
+| 418 | 140 | Genne Scott |
+| 419 | 140 | rls |
 | 420 | 140 | Antoinette Jones |
 | 421 | 139 | Shea Ladynick Henderson |
 | 422 | 139 | Shanns |
 | 423 | 139 | Analiza Ramos |
-| 424 | 138 | Dreamzzz |
-| 425 | 138 | Yadira Salgado |
-| 426 | 138 | Claudia Price |
-| 427 | 138 | Douglas Price |
-| 428 | 138 | Tamika Rocheteau |
-| 429 | 138 | Seddrick |
+| 424 | 138 | Claudia Price |
+| 425 | 138 | Dreamzzz |
+| 426 | 138 | Tamika Rocheteau |
+| 427 | 138 | Seddrick |
+| 428 | 138 | Yadira Salgado |
+| 429 | 138 | Douglas Price |
 | 430 | 137 | NewEve |
 | 431 | 137 | Tay |
 | 432 | 137 | Kelvin Cook |
-| 433 | 136 | Char |
+| 433 | 136 | Shakuria Cortia Burney |
 | 434 | 136 | Shanaa Germany Crittenden |
-| 435 | 136 | Shakuria Cortia Burney |
+| 435 | 136 | Char |
 | 436 | 135 | MzJuice Box |
 | 437 | 135 | Sean White |
 | 438 | 135 | Slinky Clearzone |
@@ -868,25 +868,25 @@
 | 860 | 60 | Tellisa Payne |
 | 861 | 60 | Juan Lewis |
 | 862 | 60 | Andy Rivera |
-| 863 | 60 | Ebie |
-| 864 | 60 | lizlizliz |
-| 865 | 60 | Missy Myvette |
-| 866 | 60 | Stanley Dixon |
-| 867 | 60 | Analesia Taylor |
-| 868 | 60 | Phillip White |
-| 869 | 60 | lookin |
+| 863 | 60 | Mama P |
+| 864 | 60 | Ebie |
+| 865 | 60 | lizlizliz |
+| 866 | 60 | Missy Myvette |
+| 867 | 60 | Stanley Dixon |
+| 868 | 60 | Analesia Taylor |
+| 869 | 60 | Phillip White |
 | 870 | 60 | Pinky Pink |
-| 871 | 59 | Sugar Foot |
-| 872 | 59 | Andrea Jackson |
-| 873 | 59 | Darrel Pemberton |
-| 874 | 59 | Parris Wright |
-| 875 | 59 | Mama P |
-| 876 | 59 | Tamyka E Williams |
+| 871 | 60 | lookin |
+| 872 | 59 | Wacky Spinfit |
+| 873 | 59 | Tamyka E Williams |
+| 874 | 59 | Sweet BayBee |
+| 875 | 59 | Erica Campbell-Stillings |
+| 876 | 59 | Teresa Menefee |
 | 877 | 59 | Smiley Tilebuilder |
-| 878 | 59 | Teresa Menefee |
-| 879 | 59 | Erica Campbell-Stillings |
-| 880 | 59 | Sweet BayBee |
-| 881 | 59 | Wacky Spinfit |
+| 878 | 59 | Sugar Foot |
+| 879 | 59 | Parris Wright |
+| 880 | 59 | Darrel Pemberton |
+| 881 | 59 | Andrea Jackson |
 | 882 | 58 | Witty Clear |
 | 883 | 58 | Brandy Way |
 | 884 | 58 | Gabriela Hernandez |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 22:10:42 UTC
+# Standings for team2 as of 2026-06-07 22:11:19 UTC
 
 **Total Participants:** 1922
 
@@ -129,8 +129,8 @@
 | 121 | 678 | Loopy Cascadepiece |
 | 122 | 670 | Krisanne Kesner-Lonsby |
 | 123 | 668 | Mirr Lulu |
-| 124 | 662 | Courtney McCulley |
-| 125 | 657 | Amber Miller Wirick |
+| 124 | 666 | Amber Miller Wirick |
+| 125 | 663 | Courtney McCulley |
 | 126 | 650 | Nova Nova |
 | 127 | 643 | Alison Waller |
 | 128 | 635 | Tisha Hairston |
@@ -138,13 +138,13 @@
 | 130 | 632 | Allie Bug |
 | 131 | 627 | Le Sandy |
 | 132 | 614 | Kellie Sharp Godfrey |
-| 133 | 609 | Ricardo Ewart |
-| 134 | 607 | Gloria May Shook |
-| 135 | 607 | Nikki Carter |
-| 136 | 606 | Rhonda Diebold |
-| 137 | 603 | Ashlea McBlaine |
-| 138 | 597 | Nettrainer |
-| 139 | 596 | Pooh |
+| 133 | 609 | Pooh |
+| 134 | 609 | Ricardo Ewart |
+| 135 | 607 | Gloria May Shook |
+| 136 | 607 | Nikki Carter |
+| 137 | 606 | Rhonda Diebold |
+| 138 | 603 | Ashlea McBlaine |
+| 139 | 597 | Nettrainer |
 | 140 | 591 | Dsabrina Maxey |
 | 141 | 579 | Sedy |
 | 142 | 577 | Lindsay Klemp |
@@ -159,15 +159,15 @@
 | 151 | 540 | Jgato |
 | 152 | 538 | Amanda Sikes |
 | 153 | 534 | Zappy Pattern |
-| 154 | 519 | Mom |
-| 155 | 515 | Loony Faller |
-| 156 | 510 | Michelle Rich Burkhart |
-| 157 | 505 | Judy Long |
-| 158 | 505 | Sarah Mccolgan |
+| 154 | 525 | Sarah Mccolgan |
+| 155 | 519 | Mom |
+| 156 | 515 | Loony Faller |
+| 157 | 510 | Michelle Rich Burkhart |
+| 158 | 505 | Judy Long |
 | 159 | 500 | Cool Balancer |
 | 160 | 495 | Samantha Carman |
-| 161 | 488 | MarioKarasovic |
-| 162 | 488 | Zarah Kettler |
+| 161 | 488 | Zarah Kettler |
+| 162 | 488 | MarioKarasovic |
 | 163 | 486 | Jason Cook |
 | 164 | 484 | Steven Craig |
 | 165 | 483 | Karen Reid Cenkush |
@@ -801,13 +801,13 @@
 | 793 | 85 | Daisy Girl |
 | 794 | 85 | Jeremy Daurbigny |
 | 795 | 85 | Seamus |
-| 796 | 84 | Jolly Twisterfit |
-| 797 | 84 | Mrs biotch |
-| 798 | 84 | Stacey Loretta Wallace |
-| 799 | 84 | Calah Amore |
-| 800 | 83 | Dawnypooh |
-| 801 | 83 | Jodee Woods |
-| 802 | 83 | CATFISH |
+| 796 | 85 | CATFISH |
+| 797 | 84 | Jolly Twisterfit |
+| 798 | 84 | Mrs biotch |
+| 799 | 84 | Stacey Loretta Wallace |
+| 800 | 84 | Calah Amore |
+| 801 | 83 | Dawnypooh |
+| 802 | 83 | Jodee Woods |
 | 803 | 83 | Louis Brudzinski |
 | 804 | 83 | Jazzy Snapfit |
 | 805 | 83 | Billy Pittman |
