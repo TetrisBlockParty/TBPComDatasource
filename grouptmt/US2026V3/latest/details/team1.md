@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 21:32:19 UTC
+# Standings for team1 as of 2026-06-07 21:32:40 UTC
 
 **Total Participants:** 1583
 
@@ -620,18 +620,18 @@
 | 612 | 93 | Rene Hicks |
 | 613 | 93 | Victor |
 | 614 | 93 | Holly Baker |
-| 615 | 93 | FunTime |
-| 616 | 93 | C Lo Green |
-| 617 | 93 | Antoinette Kelly |
-| 618 | 92 | Juicy |
-| 619 | 92 | Poppy Twister |
-| 620 | 92 | Barbramerri Tarboro |
-| 621 | 91 | Lounique |
+| 615 | 93 | messyboots |
+| 616 | 93 | FunTime |
+| 617 | 93 | C Lo Green |
+| 618 | 93 | Antoinette Kelly |
+| 619 | 92 | Juicy |
+| 620 | 92 | Poppy Twister |
+| 621 | 92 | Barbramerri Tarboro |
 | 622 | 91 | Soubletzy |
-| 623 | 91 | David A Alvino |
-| 624 | 90 | mya |
-| 625 | 90 | Essence Jones |
-| 626 | 90 | messyboots |
+| 623 | 91 | Lounique |
+| 624 | 91 | David A Alvino |
+| 625 | 90 | mya |
+| 626 | 90 | Essence Jones |
 | 627 | 90 | crumb bumc |
 | 628 | 90 | Shameka Tiffany |
 | 629 | 90 | Slinky Fallzone |
