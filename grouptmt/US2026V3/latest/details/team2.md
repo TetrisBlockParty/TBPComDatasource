@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 18:40:19 UTC
+# Standings for team2 as of 2026-06-07 18:40:41 UTC
 
 **Total Participants:** 1853
 
@@ -133,21 +133,21 @@
 | 125 | 592 | Pooh |
 | 126 | 592 | Jef Wassom |
 | 127 | 589 | Gloria May Shook |
-| 128 | 585 | Rhonda Diebold |
-| 129 | 581 | Dsabrina Maxey |
-| 130 | 577 | Lindsay Klemp |
-| 131 | 574 | Brandy McCune Reep |
-| 132 | 568 | Kathleen Dumbazz |
-| 133 | 567 | Amber Miller Wirick |
-| 134 | 563 | Allison Jarman |
-| 135 | 563 | Tisha Hairston |
-| 136 | 554 | Cathy Tippett |
-| 137 | 553 | Jamie Jones |
-| 138 | 550 | DomDomsNana |
-| 139 | 550 | Sully |
-| 140 | 548 | Jackie Tupper |
-| 141 | 541 | Ricardo Ewart |
-| 142 | 539 | Zachary Vymislicky |
+| 128 | 589 | Zachary Vymislicky |
+| 129 | 585 | Rhonda Diebold |
+| 130 | 581 | Dsabrina Maxey |
+| 131 | 577 | Lindsay Klemp |
+| 132 | 574 | Brandy McCune Reep |
+| 133 | 568 | Kathleen Dumbazz |
+| 134 | 567 | Amber Miller Wirick |
+| 135 | 563 | Allison Jarman |
+| 136 | 563 | Tisha Hairston |
+| 137 | 554 | Cathy Tippett |
+| 138 | 553 | Jamie Jones |
+| 139 | 550 | DomDomsNana |
+| 140 | 550 | Sully |
+| 141 | 548 | Jackie Tupper |
+| 142 | 541 | Ricardo Ewart |
 | 143 | 536 | Nikki Carter |
 | 144 | 535 | Amanda Sikes |
 | 145 | 535 | Jgato |
@@ -386,8 +386,8 @@
 | 378 | 177 | Jennifer McClure |
 | 379 | 176 | Reign Hustler |
 | 380 | 175 | Tina Marie |
-| 381 | 175 | Epic Tilemaker |
-| 382 | 175 | Amanda Bottorff |
+| 381 | 175 | Amanda Bottorff |
+| 382 | 175 | Epic Tilemaker |
 | 383 | 175 | Lashanda Bertram |
 | 384 | 174 | Laurie |
 | 385 | 174 | Jerry L Morales |
@@ -402,49 +402,49 @@
 | 394 | 169 | Aldotfus Williams |
 | 395 | 169 | Jaimie Walters |
 | 396 | 168 | Brian Favre |
-| 397 | 168 | Missy Renia |
-| 398 | 168 | Gwendolyn Boykin Mobbs |
-| 399 | 167 | Cara Rivera |
-| 400 | 167 | Sarah Jane Gorsuch |
-| 401 | 167 | Chummy Faller |
-| 402 | 167 | Spicy Snapclear |
-| 403 | 167 | Amber Carpenter |
-| 404 | 166 | Michael Carmichael |
-| 405 | 166 | Melmel |
+| 397 | 168 | Gwendolyn Boykin Mobbs |
+| 398 | 168 | Missy Renia |
+| 399 | 167 | Sarah Jane Gorsuch |
+| 400 | 167 | Chummy Faller |
+| 401 | 167 | Amber Carpenter |
+| 402 | 167 | Cara Rivera |
+| 403 | 167 | Spicy Snapclear |
+| 404 | 166 | Melmel |
+| 405 | 166 | Michael Carmichael |
 | 406 | 165 | Sandy Justus |
 | 407 | 164 | Elliott Mikila |
 | 408 | 164 | Sillyk |
-| 409 | 164 | Kathryn |
-| 410 | 164 | Loopy Tower |
-| 411 | 163 | Rosalie Call Kehlenbeck |
-| 412 | 163 | Joannah Capilitan |
-| 413 | 163 | Zany Cascader |
-| 414 | 162 | Wacky Holder |
-| 415 | 162 | Ashley Miller |
-| 416 | 162 | Ashley Voelz |
-| 417 | 161 | Silly Tiltbuilder |
-| 418 | 161 | Rydin Dirt |
-| 419 | 161 | Nicky Steigerwalt |
-| 420 | 160 | Elizabeth Cornelius |
-| 421 | 160 | Wayne Johnson |
-| 422 | 160 | Jamin |
-| 423 | 160 | Starvinmarvin |
-| 424 | 160 | Camilo Moreno |
-| 425 | 160 | Jumpy Dashpiece |
-| 426 | 160 | Billie Jensen |
-| 427 | 160 | Jessica Perkins |
-| 428 | 159 | Misty Noe |
+| 409 | 164 | Loopy Tower |
+| 410 | 164 | Kathryn |
+| 411 | 163 | Zany Cascader |
+| 412 | 163 | Wayne Johnson |
+| 413 | 163 | Rosalie Call Kehlenbeck |
+| 414 | 163 | Joannah Capilitan |
+| 415 | 162 | Ashley Voelz |
+| 416 | 162 | Wacky Holder |
+| 417 | 162 | Ashley Miller |
+| 418 | 161 | Silly Tiltbuilder |
+| 419 | 161 | Rydin Dirt |
+| 420 | 161 | Nicky Steigerwalt |
+| 421 | 160 | Elizabeth Cornelius |
+| 422 | 160 | Jumpy Dashpiece |
+| 423 | 160 | Jamin |
+| 424 | 160 | Starvinmarvin |
+| 425 | 160 | Camilo Moreno |
+| 426 | 160 | Jessica Perkins |
+| 427 | 160 | Billie Jensen |
+| 428 | 159 | Jennifer Vitro |
 | 429 | 159 | Funway998 |
-| 430 | 159 | Jennifer Vitro |
+| 430 | 159 | Misty Noe |
 | 431 | 158 | Meagan Grimmett Washburn |
 | 432 | 158 | Ceci |
 | 433 | 156 | Aurora June Brock |
-| 434 | 156 | TetrisMama |
-| 435 | 156 | Charlotte Castelli |
+| 434 | 156 | Charlotte Castelli |
+| 435 | 156 | TetrisMama |
 | 436 | 155 | Naomi Walker |
-| 437 | 154 | murd3rmous3 |
-| 438 | 154 | Belle |
-| 439 | 154 | Chummy Snapbuilder |
+| 437 | 154 | Belle |
+| 438 | 154 | Chummy Snapbuilder |
+| 439 | 154 | murd3rmous3 |
 | 440 | 153 | Gabrielle Wilson |
 | 441 | 153 | Gluten Gremlin |
 | 442 | 153 | Cortney Coleman |

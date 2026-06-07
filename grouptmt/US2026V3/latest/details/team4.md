@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 18:40:19 UTC
+# Standings for team4 as of 2026-06-07 18:40:41 UTC
 
 **Total Participants:** 1572
 
@@ -246,9 +246,9 @@
 | 238 | 222 | Karen Davis |
 | 239 | 221 | Jackie Miller |
 | 240 | 221 | Renee Sapp |
-| 241 | 220 | Silly Risegrid |
+| 241 | 220 | CIRAZYPNOY |
 | 242 | 220 | Sarah Montagne Forsberg |
-| 243 | 220 | CIRAZYPNOY |
+| 243 | 220 | Silly Risegrid |
 | 244 | 218 | Lori Stembridge |
 | 245 | 217 | Damon Gaston |
 | 246 | 216 | Stephanie Myers |
@@ -260,8 +260,8 @@
 | 252 | 211 | JuicyJuice |
 | 253 | 210 | Sfalcon1. |
 | 254 | 210 | Kimyatta Cavin |
-| 255 | 209 | Crystal Hammonds |
-| 256 | 208 | Snippy Splitter |
+| 255 | 209 | Snippy Splitter |
+| 256 | 209 | Crystal Hammonds |
 | 257 | 208 | PerfectPieces |
 | 258 | 207 | Aramat |
 | 259 | 207 | Pepper |
@@ -394,52 +394,52 @@
 | 386 | 141 | Tiffany Morris Garner |
 | 387 | 141 | Ross Bryant |
 | 388 | 140 | Shia Marie |
-| 389 | 140 | Billy Baker |
-| 390 | 140 | Wanda Simmons |
-| 391 | 140 | Carla Woodard |
+| 389 | 140 | Wanda Simmons |
+| 390 | 140 | Carla Woodard |
+| 391 | 140 | Billy Baker |
 | 392 | 139 | Jacinta Hooker-Brown |
 | 393 | 139 | Dana Abegil Lawas |
 | 394 | 139 | Rae Saunders |
-| 395 | 138 | Holly Bramel |
-| 396 | 138 | aga |
-| 397 | 138 | All knowing |
-| 398 | 138 | Rose Anna Safi |
+| 395 | 138 | aga |
+| 396 | 138 | Rose Anna Safi |
+| 397 | 138 | Holly Bramel |
+| 398 | 138 | All knowing |
 | 399 | 137 | Jrr |
-| 400 | 137 | Maricela Joslin |
-| 401 | 137 | Kandylands |
-| 402 | 137 | Robert Moore |
-| 403 | 136 | Jay Dee |
+| 400 | 137 | Robert Moore |
+| 401 | 137 | Maricela Joslin |
+| 402 | 137 | Kandylands |
+| 403 | 136 | Lively Cascadebuilder |
 | 404 | 136 | King |
 | 405 | 136 | WeeWooWee |
-| 406 | 136 | Lively Cascadebuilder |
+| 406 | 136 | Jay Dee |
 | 407 | 135 | crobb77 |
 | 408 | 135 | Quiomarie Cotto |
-| 409 | 134 | Suzanne North |
-| 410 | 133 | Sonia Cordero-Martinez |
-| 411 | 133 | Tarsha Thomas-Martinez |
+| 409 | 134 | Rosy Perez |
+| 410 | 134 | Suzanne North |
+| 411 | 133 | Sonia Cordero-Martinez |
 | 412 | 133 | Karen Small |
-| 413 | 132 | my my |
-| 414 | 132 | William Brooks |
-| 415 | 131 | Diana Fernandez |
+| 413 | 133 | Tarsha Thomas-Martinez |
+| 414 | 132 | my my |
+| 415 | 132 | William Brooks |
 | 416 | 131 | Dominique Melendez |
-| 417 | 131 | Clever Patterner |
-| 418 | 130 | Bhakti Sawarkar |
-| 419 | 130 | Happy Filler |
-| 420 | 130 | Mighty1 |
-| 421 | 129 | Playa |
-| 422 | 129 | Simone |
+| 417 | 131 | Diana Fernandez |
+| 418 | 131 | Clever Patterner |
+| 419 | 130 | Bhakti Sawarkar |
+| 420 | 130 | Happy Filler |
+| 421 | 130 | Mighty1 |
+| 422 | 129 | Playa |
 | 423 | 129 | Has2brat |
-| 424 | 128 | Rosy Perez |
-| 425 | 128 | Denise Wilson |
-| 426 | 128 | Lana Tran |
+| 424 | 129 | Simone |
+| 425 | 128 | Lana Tran |
+| 426 | 128 | Denise Wilson |
 | 427 | 128 | Witty Fitblock |
-| 428 | 127 | zoes |
-| 429 | 127 | Cheeky Climber |
+| 428 | 127 | Cheeky Climber |
+| 429 | 127 | zoes |
 | 430 | 127 | Jen Smith |
 | 431 | 127 | Karen Rodriguez |
-| 432 | 125 | Silly Fallzone |
-| 433 | 125 | Jennifer Terrill |
-| 434 | 125 | DizzB400 |
+| 432 | 125 | Jennifer Terrill |
+| 433 | 125 | DizzB400 |
+| 434 | 125 | Silly Fallzone |
 | 435 | 125 | Winter Moon |
 | 436 | 124 | Tre'nya Smith |
 | 437 | 124 | Tasha Suzanne Prisbrey |
