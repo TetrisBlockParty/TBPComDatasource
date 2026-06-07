@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 07:02:38 UTC
+# Standings for team4 as of 2026-06-07 07:03:17 UTC
 
 **Total Participants:** 1397
 
@@ -86,10 +86,10 @@
 | 78 | 672 | Heather Preston |
 | 79 | 661 | Jenn Fitzgerald |
 | 80 | 654 | Jonathan Hewitt |
-| 81 | 646 | Blayne Kole |
-| 82 | 644 | woopa 716 |
-| 83 | 644 | Kelly Bernard |
-| 84 | 626 | Lupe Alburquerque |
+| 81 | 646 | Lupe Alburquerque |
+| 82 | 646 | Blayne Kole |
+| 83 | 644 | woopa 716 |
+| 84 | 644 | Kelly Bernard |
 | 85 | 623 | Hairy Snake |
 | 86 | 620 | Fancy Crasher |
 | 87 | 614 | adrian |
@@ -186,8 +186,8 @@
 | 178 | 242 | Shepreneur Sade |
 | 179 | 242 | Danny Ortiz |
 | 180 | 241 | Tawna Curry |
-| 181 | 241 | Lush Fitblock |
-| 182 | 241 | Alma López Morales |
+| 181 | 241 | Alma López Morales |
+| 182 | 241 | Lush Fitblock |
 | 183 | 237 | Anna Gribble |
 | 184 | 236 | BusterBear56 |
 | 185 | 236 | Becky McCool |
@@ -197,18 +197,18 @@
 | 189 | 230 | Magz |
 | 190 | 230 | gabs |
 | 191 | 226 | Sassy Rollpiece |
-| 192 | 225 | Dubiousdust |
+| 192 | 225 | Cheery Risegrid |
 | 193 | 225 | Shocinda Sherwood |
-| 194 | 224 | Janet Sanfilippo Sullivan |
-| 195 | 223 | Queen B |
-| 196 | 220 | Silly Risegrid |
-| 197 | 220 | blockhead |
-| 198 | 220 | Shmeedo |
-| 199 | 219 | Plucky Shatterfit |
-| 200 | 218 | Lori Stembridge |
-| 201 | 215 | Lucy Honer |
-| 202 | 215 | Jj Johnson |
-| 203 | 213 | Cheery Risegrid |
+| 194 | 225 | Dubiousdust |
+| 195 | 224 | Janet Sanfilippo Sullivan |
+| 196 | 223 | Queen B |
+| 197 | 220 | Silly Risegrid |
+| 198 | 220 | blockhead |
+| 199 | 220 | Shmeedo |
+| 200 | 219 | Plucky Shatterfit |
+| 201 | 218 | Lori Stembridge |
+| 202 | 215 | Lucy Honer |
+| 203 | 215 | Jj Johnson |
 | 204 | 211 | Renee Sapp |
 | 205 | 211 | Goofy Riser |
 | 206 | 211 | Pepone Pepe |
@@ -231,8 +231,8 @@
 | 223 | 188 | Lee Ann Gibby |
 | 224 | 187 | Tipsy Builderline |
 | 225 | 187 | Leslie Ann Carter |
-| 226 | 186 | Snippy Splitter |
-| 227 | 186 | Kimyatta Cavin |
+| 226 | 186 | Kimyatta Cavin |
+| 227 | 186 | Snippy Splitter |
 | 228 | 185 | Dae Von |
 | 229 | 185 | Britney Kitora |
 | 230 | 185 | PerfectPieces |
@@ -654,39 +654,39 @@
 | 646 | 60 | Uh Lesh Uh |
 | 647 | 60 | Rin |
 | 648 | 60 | Angela Adamo-Tash |
-| 649 | 60 | Elizabeth Putansu |
-| 650 | 60 | Justin Janachovsky |
+| 649 | 60 | Justin Janachovsky |
+| 650 | 60 | Elizabeth Putansu |
 | 651 | 60 | DanceAngel |
-| 652 | 60 | Chris Rowe |
-| 653 | 60 | Kristine Hj Han |
-| 654 | 60 | Lanelva Tiredofbs Marshall |
-| 655 | 60 | Nicole Ambrose |
-| 656 | 60 | Tod Jae |
-| 657 | 60 | Breezy Brickfit |
-| 658 | 60 | Kena T. Tanner |
-| 659 | 60 | Helen Bradley |
-| 660 | 60 | Anthony Magaraci |
-| 661 | 60 | Robert Crow |
-| 662 | 60 | BethB |
-| 663 | 60 | Tiffy |
-| 664 | 60 | Jeri Anne Stormo-Toman |
-| 665 | 60 | Nerdy Brickster |
-| 666 | 60 | Capone |
-| 667 | 60 | Cherrel M. Causey |
-| 668 | 59 | Trang Nguyen |
-| 669 | 59 | Tammy Lasseigne |
-| 670 | 59 | Jeni |
+| 652 | 60 | Nicole Ambrose |
+| 653 | 60 | Chris Rowe |
+| 654 | 60 | Kristine Hj Han |
+| 655 | 60 | Lanelva Tiredofbs Marshall |
+| 656 | 60 | Helen Bradley |
+| 657 | 60 | Tod Jae |
+| 658 | 60 | Breezy Brickfit |
+| 659 | 60 | Kena T. Tanner |
+| 660 | 60 | Robert Crow |
+| 661 | 60 | Anthony Magaraci |
+| 662 | 60 | Lana Tran |
+| 663 | 60 | BethB |
+| 664 | 60 | Tiffy |
+| 665 | 60 | Jeri Anne Stormo-Toman |
+| 666 | 60 | Nerdy Brickster |
+| 667 | 60 | Capone |
+| 668 | 60 | Cherrel M. Causey |
+| 669 | 59 | Trang Nguyen |
+| 670 | 59 | Tammy Lasseigne |
 | 671 | 59 | Miranda Brown |
-| 672 | 59 | Anthony Kollar |
-| 673 | 59 | Renzo Tonini |
-| 674 | 59 | Loyalty83 |
-| 675 | 59 | Inez Nez |
-| 676 | 59 | Logan Two-dubs Baker |
-| 677 | 58 | Yaya Selbor |
-| 678 | 58 | Alicia Blunt |
-| 679 | 58 | Jessica Sanchez |
-| 680 | 58 | Jade Alley |
-| 681 | 58 | Lana Tran |
+| 672 | 59 | Jeni |
+| 673 | 59 | Anthony Kollar |
+| 674 | 59 | Renzo Tonini |
+| 675 | 59 | Loyalty83 |
+| 676 | 59 | Inez Nez |
+| 677 | 59 | Logan Two-dubs Baker |
+| 678 | 58 | Yaya Selbor |
+| 679 | 58 | Alicia Blunt |
+| 680 | 58 | Jessica Sanchez |
+| 681 | 58 | Jade Alley |
 | 682 | 58 | Kimberly Lusk |
 | 683 | 57 | Hotstuff |
 | 684 | 57 | Волна Бог |
@@ -694,18 +694,18 @@
 | 686 | 57 | Erica Pompey |
 | 687 | 57 | Leslie |
 | 688 | 57 | Lala |
-| 689 | 57 | Erich EMac McIntosh |
-| 690 | 57 | Candiecane324 |
+| 689 | 57 | Candiecane324 |
+| 690 | 57 | Erich EMac McIntosh |
 | 691 | 57 | Heather Hilferty |
 | 692 | 56 | Brittany |
 | 693 | 56 | Blessedmom865 |
-| 694 | 56 | tigerlilly |
+| 694 | 56 | Kayla Haddenham |
 | 695 | 56 | Jennifer Brucz |
-| 696 | 56 | Kayla Haddenham |
-| 697 | 56 | Lashae |
-| 698 | 56 | Vicente Bolaños Jr. |
-| 699 | 56 | Alaina Rousseau |
-| 700 | 56 | Natalie Ohrtman Strand |
+| 696 | 56 | Lashae |
+| 697 | 56 | Vicente Bolaños Jr. |
+| 698 | 56 | Alaina Rousseau |
+| 699 | 56 | Natalie Ohrtman Strand |
+| 700 | 56 | tigerlilly |
 | 701 | 56 | Zappy Matchgrid |
 | 702 | 56 | LaRue Tee |
 | 703 | 55 | Bee |
