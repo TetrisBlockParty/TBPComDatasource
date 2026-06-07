@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 04:34:39 UTC
+# Standings for team1 as of 2026-06-07 04:35:18 UTC
 
 **Total Participants:** 1347
 
@@ -145,18 +145,18 @@
 | 137 | 323 | Sheila Burnham |
 | 138 | 319 | Andre Sanon |
 | 139 | 311 | Simmone T. Kadiri |
-| 140 | 308 | Dena Marie Lee |
-| 141 | 308 | John Staub |
+| 140 | 308 | John Staub |
+| 141 | 308 | Dena Marie Lee |
 | 142 | 303 | Roberta Lynn |
-| 143 | 300 | Atlantalindi |
-| 144 | 300 | Felicia Cain |
-| 145 | 298 | Leebo Slice |
-| 146 | 297 | Michelle Titus |
-| 147 | 297 | Tammye Turner |
-| 148 | 296 | Rolanda Williams |
-| 149 | 293 | Dee McCool |
-| 150 | 291 | Brian Taylor |
-| 151 | 291 | Chris Caniglia |
+| 143 | 301 | Chris Caniglia |
+| 144 | 300 | Atlantalindi |
+| 145 | 300 | Felicia Cain |
+| 146 | 298 | Leebo Slice |
+| 147 | 297 | Michelle Titus |
+| 148 | 297 | Tammye Turner |
+| 149 | 296 | Rolanda Williams |
+| 150 | 293 | Dee McCool |
+| 151 | 291 | Brian Taylor |
 | 152 | 290 | Kaleisha Smith |
 | 153 | 290 | Mimi 1.0 |
 | 154 | 285 | Ashley MyBeauty Daniels |
@@ -569,91 +569,91 @@
 | 561 | 66 | Amy Villalpando |
 | 562 | 66 | Just2Play$ |
 | 563 | 66 | Callie Mae |
-| 564 | 66 | Anastasia |
-| 565 | 66 | Jess |
+| 564 | 66 | Jess |
+| 565 | 66 | GracefulOwl808 |
 | 566 | 66 | Sylvia Offically A Mcgowan |
-| 567 | 66 | GracefulOwl808 |
-| 568 | 65 | Dana Hawes |
-| 569 | 65 | Furlough Leslie |
-| 570 | 65 | Jazzy Bridger |
-| 571 | 65 | Trixie |
-| 572 | 65 | Gbnola |
-| 573 | 65 | Dede Tate |
-| 574 | 65 | Tesiree Cray |
-| 575 | 65 | Wayne Savannah |
+| 567 | 66 | Anastasia |
+| 568 | 65 | Elizabeth Vega Coreano |
+| 569 | 65 | Tesiree Cray |
+| 570 | 65 | Dede Tate |
+| 571 | 65 | Furlough Leslie |
+| 572 | 65 | Wayne Savannah |
+| 573 | 65 | Jazzy Bridger |
+| 574 | 65 | Trixie |
+| 575 | 65 | Gbnola |
 | 576 | 65 | Erica Charlise |
-| 577 | 64 | DellaLucretia Thomas |
-| 578 | 64 | Elaine Youmans |
+| 577 | 65 | Dana Hawes |
+| 578 | 64 | DirtiestofMikes |
 | 579 | 64 | Joseph Vs Cap |
-| 580 | 64 | Jumpy Gridlock |
-| 581 | 64 | Dandy Brickfit |
-| 582 | 64 | Chris Nelson |
-| 583 | 64 | DirtiestofMikes |
+| 580 | 64 | Elaine Youmans |
+| 581 | 64 | Chris Nelson |
+| 582 | 64 | Jumpy Gridlock |
+| 583 | 64 | Dandy Brickfit |
 | 584 | 64 | Giddy Staggerpiece |
-| 585 | 63 | Shakuria Cortia Burney |
+| 585 | 64 | DellaLucretia Thomas |
 | 586 | 63 | Ahsokadog |
-| 587 | 63 | Shawna Passwater |
-| 588 | 63 | La'Chae Nickole |
-| 589 | 63 | Mellie Mel |
-| 590 | 62 | Stephen Garland |
-| 591 | 62 | Meow Meow |
-| 592 | 62 | Jack Mehof |
-| 593 | 62 | Casey Chapman |
-| 594 | 62 | Nedine Ray |
-| 595 | 61 | Michael Smith |
+| 587 | 63 | Shakuria Cortia Burney |
+| 588 | 63 | Mellie Mel |
+| 589 | 63 | Shawna Passwater |
+| 590 | 63 | La'Chae Nickole |
+| 591 | 62 | Casey Chapman |
+| 592 | 62 | Stephen Garland |
+| 593 | 62 | Jack Mehof |
+| 594 | 62 | Meow Meow |
+| 595 | 62 | Nedine Ray |
 | 596 | 61 | Squaw Ki Ng |
 | 597 | 61 | Raquel Ortiz |
-| 598 | 61 | NewEve |
-| 599 | 61 | Tonya Thomas |
+| 598 | 61 | Michael Smith |
+| 599 | 61 | NewEve |
 | 600 | 61 | Taz Ballard |
-| 601 | 60 | Tellisa Payne |
-| 602 | 60 | Missy Myvette |
-| 603 | 60 | Marie Wilson |
-| 604 | 60 | lookin |
+| 601 | 61 | Tonya Thomas |
+| 602 | 60 | Yellowguy3 |
+| 603 | 60 | Xana Zania Bopp |
+| 604 | 60 | Lauren Farkas |
 | 605 | 60 | Dianne Clagon |
-| 606 | 60 | Lauren Farkas |
-| 607 | 60 | Coco |
-| 608 | 60 | Demi Ovalle |
-| 609 | 60 | Jose Rodriguez |
-| 610 | 60 | Xana Zania Bopp |
-| 611 | 60 | Mom3granny2 |
-| 612 | 60 | Angie Smith |
-| 613 | 60 | Smiley3000 |
-| 614 | 60 | Deveda Williams |
-| 615 | 60 | Yellowguy3 |
-| 616 | 60 | Malcolm Stanley |
-| 617 | 59 | Smiley Tilebuilder |
+| 606 | 60 | Marie Wilson |
+| 607 | 60 | Missy Myvette |
+| 608 | 60 | lookin |
+| 609 | 60 | Coco |
+| 610 | 60 | Demi Ovalle |
+| 611 | 60 | Jose Rodriguez |
+| 612 | 60 | Tellisa Payne |
+| 613 | 60 | Mom3granny2 |
+| 614 | 60 | Angie Smith |
+| 615 | 60 | Smiley3000 |
+| 616 | 60 | Deveda Williams |
+| 617 | 60 | Malcolm Stanley |
 | 618 | 59 | Keith Johnson |
-| 619 | 59 | OhNoZer0 |
-| 620 | 59 | Evette Moreno |
-| 621 | 59 | Spicy Shatterblock |
-| 622 | 59 | Tonny Williams |
-| 623 | 59 | Sugar Foot |
-| 624 | 59 | Darrel Pemberton |
-| 625 | 59 | Danny M GR |
-| 626 | 59 | Elizabeth Hopkins |
-| 627 | 59 | Kortney Adams |
-| 628 | 59 | Desi Guerra |
-| 629 | 59 | Twisty Brickfit |
-| 630 | 58 | FunTime |
-| 631 | 58 | Bambi Love |
+| 619 | 59 | Evette Moreno |
+| 620 | 59 | Spicy Shatterblock |
+| 621 | 59 | Tonny Williams |
+| 622 | 59 | OhNoZer0 |
+| 623 | 59 | Smiley Tilebuilder |
+| 624 | 59 | Sugar Foot |
+| 625 | 59 | Elizabeth Hopkins |
+| 626 | 59 | Darrel Pemberton |
+| 627 | 59 | Danny M GR |
+| 628 | 59 | Kortney Adams |
+| 629 | 59 | Desi Guerra |
+| 630 | 59 | Twisty Brickfit |
+| 631 | 58 | CoaCoa Myles |
 | 632 | 58 | Brandy Way |
-| 633 | 58 | Alexandrla Smith |
-| 634 | 58 | Gabriela Hernandez |
+| 633 | 58 | FunTime |
+| 634 | 58 | Alexandrla Smith |
 | 635 | 58 | Sha Anderson |
-| 636 | 58 | CoaCoa Myles |
-| 637 | 57 | Elizabeth Vega Coreano |
-| 638 | 57 | Kenny 'Tailormade' Boyd |
+| 636 | 58 | Gabriela Hernandez |
+| 637 | 58 | Bambi Love |
+| 638 | 57 | ImmeKC |
 | 639 | 57 | Danny Talbot |
-| 640 | 57 | ImmeKC |
+| 640 | 57 | Kenny 'Tailormade' Boyd |
 | 641 | 57 | Pinky Pink |
 | 642 | 57 | Angela L Charles |
 | 643 | 57 | Blocksy |
-| 644 | 56 | Fatty May |
-| 645 | 56 | Maria Baez Medina |
-| 646 | 56 | Lisa Ivy |
-| 647 | 56 | Nona Harriel |
-| 648 | 56 | jeremy92 |
+| 644 | 56 | Nona Harriel |
+| 645 | 56 | Fatty May |
+| 646 | 56 | jeremy92 |
+| 647 | 56 | Maria Baez Medina |
+| 648 | 56 | Lisa Ivy |
 | 649 | 56 | Kyle Conley |
 | 650 | 56 | Bold Clusterer |
 | 651 | 55 | KoolKimJay |
