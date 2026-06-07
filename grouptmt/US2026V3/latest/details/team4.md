@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 20:10:20 UTC
+# Standings for team4 as of 2026-06-07 20:10:42 UTC
 
 **Total Participants:** 1594
 
@@ -478,52 +478,52 @@
 | 470 | 120 | Will E Ayala |
 | 471 | 120 | Glamorous Gracey |
 | 472 | 120 | Urplan |
-| 473 | 119 | Dennis Montoya |
-| 474 | 118 | Goofy Fall |
-| 475 | 118 | Jennifer Naughton |
-| 476 | 118 | farfromlocal |
-| 477 | 117 | Fancy Tilefall |
-| 478 | 117 | Noa Lee |
-| 479 | 117 | Laurie Patrick |
-| 480 | 117 | yourmomz |
-| 481 | 116 | Toon Up |
-| 482 | 116 | BookwormCate |
-| 483 | 116 | Aaron Turner |
-| 484 | 115 | Melissa Lowe |
-| 485 | 115 | Nicole Colby McCloskey |
-| 486 | 115 | Youngkueen |
+| 473 | 120 | Youngkueen |
+| 474 | 119 | Dennis Montoya |
+| 475 | 118 | Goofy Fall |
+| 476 | 118 | Jennifer Naughton |
+| 477 | 118 | farfromlocal |
+| 478 | 117 | Fancy Tilefall |
+| 479 | 117 | Noa Lee |
+| 480 | 117 | Laurie Patrick |
+| 481 | 117 | yourmomz |
+| 482 | 116 | Toon Up |
+| 483 | 116 | BookwormCate |
+| 484 | 116 | Aaron Turner |
+| 485 | 115 | Melissa Lowe |
+| 486 | 115 | Nicole Colby McCloskey |
 | 487 | 114 | Jason Moves |
 | 488 | 114 | LandO |
 | 489 | 113 | George Palacios |
-| 490 | 113 | Melissa Anne |
-| 491 | 113 | TheazO |
+| 490 | 113 | TheazO |
+| 491 | 113 | Melissa Anne |
 | 492 | 113 | Amanda Snow |
 | 493 | 113 | Alexsandra Hill |
 | 494 | 112 | Andrea Dre Lomeli |
 | 495 | 112 | medicjessi |
-| 496 | 112 | Loopy Hitter |
-| 497 | 112 | Ian T Parker |
-| 498 | 111 | Elena Marí |
-| 499 | 111 | Janae Harris |
+| 496 | 112 | Ian T Parker |
+| 497 | 112 | Loopy Hitter |
+| 498 | 111 | Janae Harris |
+| 499 | 111 | Elena Marí |
 | 500 | 111 | chefjaydawg |
 | 501 | 111 | Richard Bearse |
 | 502 | 111 | Miss Beast |
-| 503 | 110 | Andreas Vs Shinky |
-| 504 | 110 | Kea Sushi |
-| 505 | 110 | Gary Smallwood |
+| 503 | 110 | Gary Smallwood |
+| 504 | 110 | Andreas Vs Shinky |
+| 505 | 110 | Kea Sushi |
 | 506 | 110 | Robert Crow |
 | 507 | 110 | Luna |
 | 508 | 109 | PsyDMom |
 | 509 | 109 | Edward White |
 | 510 | 108 | SandyEva |
 | 511 | 108 | Garden Girlie |
-| 512 | 108 | Deva Marie Barber |
-| 513 | 108 | Kaps |
-| 514 | 107 | Csigirlnc |
-| 515 | 107 | Kay |
-| 516 | 107 | Scrumptious |
-| 517 | 107 | Bonique Bier |
-| 518 | 107 | YenSid |
+| 512 | 108 | Kaps |
+| 513 | 108 | Deva Marie Barber |
+| 514 | 107 | Scrumptious |
+| 515 | 107 | Csigirlnc |
+| 516 | 107 | Kay |
+| 517 | 107 | YenSid |
+| 518 | 107 | Bonique Bier |
 | 519 | 106 | Kari Smith |
 | 520 | 106 | Jessica Jones Bolton |
 | 521 | 106 | Ami Ferguson |
@@ -1007,15 +1007,15 @@
 | 999 | 45 | Kennita Cox |
 | 1000 | 45 | Shane Tate |
 | 1001 | 45 | BurnedCrab52 |
-| 1002 | 45 | Jennifer O'Connell |
-| 1003 | 44 | Lord Solrac |
+| 1002 | 45 | Lord Solrac |
+| 1003 | 45 | Jennifer O'Connell |
 | 1004 | 44 | Jenny Torres |
-| 1005 | 44 | Dorothy Schetzel |
-| 1006 | 44 | Red |
-| 1007 | 44 | Destiny Georgia Reeves Beller |
-| 1008 | 44 | EJ Frazier |
-| 1009 | 44 | Kimmie Warren |
-| 1010 | 44 | Lizxxx |
+| 1005 | 44 | Lizxxx |
+| 1006 | 44 | Dorothy Schetzel |
+| 1007 | 44 | Red |
+| 1008 | 44 | Destiny Georgia Reeves Beller |
+| 1009 | 44 | EJ Frazier |
+| 1010 | 44 | Kimmie Warren |
 | 1011 | 44 | Cauntay Youngking Williams |
 | 1012 | 44 | Lionel Hampton |
 | 1013 | 44 | Kassey M. Clark |
