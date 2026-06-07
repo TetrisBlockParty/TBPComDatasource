@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 21:34:39 UTC
+# Standings for team1 as of 2026-06-07 21:35:19 UTC
 
 **Total Participants:** 1583
 
@@ -179,8 +179,8 @@
 | 171 | 361 | John Staub |
 | 172 | 359 | pooh |
 | 173 | 353 | Chuck Quarles |
-| 174 | 351 | Haley Bell |
-| 175 | 351 | Joey Albright |
+| 174 | 351 | Joey Albright |
+| 175 | 351 | Haley Bell |
 | 176 | 350 | Dee McCool |
 | 177 | 348 | LeeLee08 |
 | 178 | 341 | Tina Mitchell |
@@ -190,8 +190,8 @@
 | 182 | 333 | La'Chae Nickole |
 | 183 | 333 | Sharon Cail |
 | 184 | 330 | Eugina Slater |
-| 185 | 330 | Po Marley |
-| 186 | 330 | Jessica Russell |
+| 185 | 330 | Jessica Russell |
+| 186 | 330 | Po Marley |
 | 187 | 328 | Karebear |
 | 188 | 320 | Jayjay Rich |
 | 189 | 318 | Nerdy Snapfall |
@@ -199,38 +199,38 @@
 | 191 | 312 | Michelle Titus |
 | 192 | 311 | Nobles Brandon |
 | 193 | 310 | Chantelle Lee |
-| 194 | 309 | IThinkNot |
-| 195 | 308 | NastyFriend |
-| 196 | 307 | Byron Mario Cawthon |
-| 197 | 306 | Devin West |
-| 198 | 305 | Salim Thugger |
-| 199 | 304 | Calvin Green |
-| 200 | 302 | Ebony |
-| 201 | 301 | Zachary Colegrove |
-| 202 | 301 | Steve Reno |
-| 203 | 300 | David Fuentes |
-| 204 | 298 | Randizzle |
-| 205 | 298 | Mic Balew |
-| 206 | 297 | Ashley MyBeauty Daniels |
-| 207 | 296 | Nikki Hogan |
+| 194 | 310 | Denise B |
+| 195 | 309 | IThinkNot |
+| 196 | 308 | NastyFriend |
+| 197 | 307 | Byron Mario Cawthon |
+| 198 | 306 | Devin West |
+| 199 | 305 | Salim Thugger |
+| 200 | 304 | Calvin Green |
+| 201 | 302 | Ebony |
+| 202 | 301 | Zachary Colegrove |
+| 203 | 301 | Steve Reno |
+| 204 | 300 | David Fuentes |
+| 205 | 298 | Randizzle |
+| 206 | 298 | Mic Balew |
+| 207 | 297 | Ashley MyBeauty Daniels |
 | 208 | 296 | Rolanda Williams |
-| 209 | 293 | Tonya Lee Sanders |
-| 210 | 292 | Trina Greenwood |
-| 211 | 291 | Brian Taylor |
-| 212 | 290 | Davionte DaeDae Hopson-Rodriguez |
-| 213 | 289 | Brave Clearbuilder |
-| 214 | 289 | Cortaz Lawrie |
-| 215 | 288 | Block King |
-| 216 | 287 | SyTheEvilGenius1 |
-| 217 | 286 | Denise B |
-| 218 | 285 | Marcheta Cervantez |
-| 219 | 285 | Helen Smith |
+| 209 | 296 | Nikki Hogan |
+| 210 | 293 | Tonya Lee Sanders |
+| 211 | 292 | Trina Greenwood |
+| 212 | 291 | Brian Taylor |
+| 213 | 290 | Davionte DaeDae Hopson-Rodriguez |
+| 214 | 289 | Brave Clearbuilder |
+| 215 | 289 | Cortaz Lawrie |
+| 216 | 288 | Block King |
+| 217 | 287 | SyTheEvilGenius1 |
+| 218 | 285 | Helen Smith |
+| 219 | 285 | Marcheta Cervantez |
 | 220 | 283 | Christopher Dreamsareality McEachin |
 | 221 | 283 | BULLSEYE |
 | 222 | 282 | Rhonda Williams Warner |
 | 223 | 279 | Reginald Frank |
-| 224 | 275 | Chris Sladoje |
-| 225 | 275 | Jawaun Daniels |
+| 224 | 275 | Jawaun Daniels |
+| 225 | 275 | Chris Sladoje |
 | 226 | 274 | 신재호 |
 | 227 | 272 | xXEKUNXx |
 | 228 | 272 | Katherine Short |
@@ -241,8 +241,8 @@
 | 233 | 263 | Dacia Hicks |
 | 234 | 263 | Slim Shedidthat |
 | 235 | 262 | Jhonny Maii |
-| 236 | 261 | Slinky Brickmatch |
-| 237 | 261 | TT |
+| 236 | 261 | TT |
+| 237 | 261 | Slinky Brickmatch |
 | 238 | 260 | Ann Chung |
 | 239 | 260 | Ketrell Bailey |
 | 240 | 260 | Natasha Rucker |
@@ -252,13 +252,13 @@
 | 244 | 254 | Tonya McElroy |
 | 245 | 253 | Qwlonda Shirrell |
 | 246 | 253 | Tasha |
-| 247 | 249 | Rachel Zimmerman |
-| 248 | 249 | Falisa Bell |
-| 249 | 248 | Mikayla |
-| 250 | 248 | Jazzy Fireflighters |
-| 251 | 248 | Yasmin Nakea Wright |
-| 252 | 247 | Chilly Wipebuilder |
-| 253 | 247 | Choc |
+| 247 | 249 | Choc |
+| 248 | 249 | Rachel Zimmerman |
+| 249 | 249 | Falisa Bell |
+| 250 | 248 | Mikayla |
+| 251 | 248 | Jazzy Fireflighters |
+| 252 | 248 | Yasmin Nakea Wright |
+| 253 | 247 | Chilly Wipebuilder |
 | 254 | 245 | Bre Poston |
 | 255 | 245 | Tremaine Hiler |
 | 256 | 245 | Derrius SeriousLee Burks |
