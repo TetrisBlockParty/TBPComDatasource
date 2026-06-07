@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 04:56:19 UTC
+# Standings for team1 as of 2026-06-07 04:56:46 UTC
 
 **Total Participants:** 1356
 
@@ -86,14 +86,14 @@
 | 78 | 695 | Corey Cawthon |
 | 79 | 689 | Jaida King |
 | 80 | 688 | Dawn L Washington-Feuquay |
-| 81 | 678 | No_Other_Choice |
-| 82 | 677 | Eartha Brown |
-| 83 | 661 | Bre Maugh |
-| 84 | 645 | Ebo Got-Time |
-| 85 | 628 | Chirpy Corner |
-| 86 | 620 | IamJust Neyamijah Washington Sr. |
-| 87 | 601 | JaszyBadd |
-| 88 | 598 | Ivana Schmidt |
+| 81 | 681 | Ivana Schmidt |
+| 82 | 678 | No_Other_Choice |
+| 83 | 677 | Eartha Brown |
+| 84 | 661 | Bre Maugh |
+| 85 | 645 | Ebo Got-Time |
+| 86 | 628 | Chirpy Corner |
+| 87 | 620 | IamJust Neyamijah Washington Sr. |
+| 88 | 601 | JaszyBadd |
 | 89 | 597 | Big Tina |
 | 90 | 587 | KenpachisGirl |
 | 91 | 586 | Kellie Hall |
@@ -147,14 +147,14 @@
 | 139 | 311 | Simmone T. Kadiri |
 | 140 | 308 | John Staub |
 | 141 | 308 | Dena Marie Lee |
-| 142 | 306 | Allison Baxter |
-| 143 | 303 | Roberta Lynn |
-| 144 | 301 | Chris Caniglia |
-| 145 | 300 | Atlantalindi |
-| 146 | 300 | Felicia Cain |
-| 147 | 298 | Leebo Slice |
-| 148 | 297 | Tammye Turner |
-| 149 | 297 | Michelle Titus |
+| 142 | 307 | Michelle Titus |
+| 143 | 306 | Allison Baxter |
+| 144 | 303 | Roberta Lynn |
+| 145 | 301 | Chris Caniglia |
+| 146 | 300 | Atlantalindi |
+| 147 | 300 | Felicia Cain |
+| 148 | 298 | Leebo Slice |
+| 149 | 297 | Tammye Turner |
 | 150 | 296 | Rolanda Williams |
 | 151 | 293 | Dee McCool |
 | 152 | 292 | pooh |
@@ -175,25 +175,25 @@
 | 167 | 263 | NastyFriend |
 | 168 | 260 | Ketrell Bailey |
 | 169 | 258 | Jayjay Rich |
-| 170 | 257 | Po Marley |
-| 171 | 257 | Calvin Green |
-| 172 | 257 | Cathy Young |
+| 170 | 257 | Cathy Young |
+| 171 | 257 | Po Marley |
+| 172 | 257 | Ebony |
 | 173 | 257 | Helen Smith |
-| 174 | 256 | Alana Renee |
-| 175 | 254 | Tonya McElroy |
-| 176 | 253 | Christina Rebecca |
-| 177 | 253 | Brave Clearbuilder |
-| 178 | 253 | xXEKUNXx |
-| 179 | 250 | Davionte DaeDae Hopson-Rodriguez |
-| 180 | 249 | Falisa Bell |
+| 174 | 257 | Calvin Green |
+| 175 | 256 | Alana Renee |
+| 176 | 254 | Tonya McElroy |
+| 177 | 253 | Christina Rebecca |
+| 178 | 253 | Brave Clearbuilder |
+| 179 | 253 | xXEKUNXx |
+| 180 | 250 | Davionte DaeDae Hopson-Rodriguez |
 | 181 | 249 | Cee Emm |
-| 182 | 248 | Sharon Cail |
-| 183 | 248 | Yasmin Nakea Wright |
-| 184 | 248 | Jazzy Fireflighters |
-| 185 | 246 | Denise B |
-| 186 | 245 | Derrius SeriousLee Burks |
+| 182 | 249 | Falisa Bell |
+| 183 | 248 | Sharon Cail |
+| 184 | 248 | Yasmin Nakea Wright |
+| 185 | 248 | Jazzy Fireflighters |
+| 186 | 246 | Denise B |
 | 187 | 245 | Zachary Colegrove |
-| 188 | 242 | Ebony |
+| 188 | 245 | Derrius SeriousLee Burks |
 | 189 | 241 | SyTheEvilGenius1 |
 | 190 | 241 | Byron Mario Cawthon |
 | 191 | 240 | Rayya Kiser |
@@ -515,11 +515,11 @@
 | 507 | 78 | Ryan Runyan |
 | 508 | 78 | KeeKee Williams |
 | 509 | 77 | Bobby Chestefield |
-| 510 | 77 | Johnathan Deese |
-| 511 | 76 | Angelique Talbot |
-| 512 | 76 | Jennah |
-| 513 | 76 | Giggly Shatterline |
-| 514 | 76 | Perky Pusher |
+| 510 | 77 | Perky Pusher |
+| 511 | 77 | Johnathan Deese |
+| 512 | 76 | Angelique Talbot |
+| 513 | 76 | Jennah |
+| 514 | 76 | Giggly Shatterline |
 | 515 | 76 | Essence Jones |
 | 516 | 75 | Jimmy Shannon |
 | 517 | 75 | sasha |
