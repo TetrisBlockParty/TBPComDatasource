@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 22:08:44 UTC
+# Standings for team4 as of 2026-06-07 22:09:19 UTC
 
 **Total Participants:** 1631
 
@@ -30,7 +30,7 @@
 | 22 | 3977 | Jackie Lucas |
 | 23 | 3932 | TitiLo72 |
 | 24 | 3861 | Tonya Brooks-Johnson |
-| 25 | 3784 | Tyra Brooke Everman Forest |
+| 25 | 3801 | Tyra Brooke Everman Forest |
 | 26 | 3776 | Dana Smith |
 | 27 | 3667 | Daring Ziggy |
 | 28 | 3654 | Senor Moppy |
@@ -47,7 +47,7 @@
 | 39 | 2091 | Michele Walker |
 | 40 | 2058 | Carly Stempien |
 | 41 | 1922 | Dana Rinaldi |
-| 42 | 1725 | kcknbtz |
+| 42 | 1745 | kcknbtz |
 | 43 | 1711 | Cal Renee |
 | 44 | 1700 | Leah Gorsuch |
 | 45 | 1674 | Jeanette Hailey |
@@ -68,7 +68,7 @@
 | 60 | 1148 | Chris Covington |
 | 61 | 1128 | MysticMaven |
 | 62 | 1119 | Bryan DjMagnum Evans |
-| 63 | 996 | Giggy Matchpiece |
+| 63 | 1056 | Giggy Matchpiece |
 | 64 | 987 | Gloria Nunley Trussell |
 | 65 | 971 | Loony Towerer |
 | 66 | 952 | Alala.Cersei |
@@ -389,16 +389,16 @@
 | 381 | 158 | Juvon SupaShawdii Brooks |
 | 382 | 157 | Deborah Silberg |
 | 383 | 157 | Laguya |
-| 384 | 155 | Rita Ann |
-| 385 | 155 | Shayna Vaigneur-Hall |
-| 386 | 155 | Keith Kosmicki |
-| 387 | 155 | 1694AF |
-| 388 | 155 | Cherrypir05 |
-| 389 | 154 | Lani |
-| 390 | 154 | Lanelva Tiredofbs Marshall |
-| 391 | 154 | Stef |
-| 392 | 153 | Shawntae Mccary |
-| 393 | 153 | Funky Tiler |
+| 384 | 156 | Funky Tiler |
+| 385 | 155 | Rita Ann |
+| 386 | 155 | Shayna Vaigneur-Hall |
+| 387 | 155 | Keith Kosmicki |
+| 388 | 155 | 1694AF |
+| 389 | 155 | Cherrypir05 |
+| 390 | 154 | Lani |
+| 391 | 154 | Lanelva Tiredofbs Marshall |
+| 392 | 154 | Stef |
+| 393 | 153 | Shawntae Mccary |
 | 394 | 152 | Nerdy Faller |
 | 395 | 151 | Bean |
 | 396 | 150 | Spunky Gridzone |

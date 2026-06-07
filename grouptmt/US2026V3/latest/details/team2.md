@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 22:08:44 UTC
+# Standings for team2 as of 2026-06-07 22:09:19 UTC
 
 **Total Participants:** 1922
 
@@ -129,7 +129,7 @@
 | 121 | 678 | Loopy Cascadepiece |
 | 122 | 670 | Krisanne Kesner-Lonsby |
 | 123 | 668 | Mirr Lulu |
-| 124 | 659 | Courtney McCulley |
+| 124 | 662 | Courtney McCulley |
 | 125 | 657 | Amber Miller Wirick |
 | 126 | 650 | Nova Nova |
 | 127 | 643 | Alison Waller |
