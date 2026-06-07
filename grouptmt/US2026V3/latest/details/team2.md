@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:58:19 UTC
+# Standings for team2 as of 2026-06-07 09:58:42 UTC
 
 **Total Participants:** 1694
 
@@ -25,7 +25,7 @@
 | 17 | 3997 | Ber |
 | 18 | 3984 | Amber |
 | 19 | 3950 | Erica Dees Parks |
-| 20 | 3875 | Jewels |
+| 20 | 3897 | Jewels |
 | 21 | 3812 | Crystal M Sowden |
 | 22 | 3702 | Renee Weedling |
 | 23 | 3514 | Traci Elizabeth |

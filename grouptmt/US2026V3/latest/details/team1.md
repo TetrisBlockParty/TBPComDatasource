@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 09:58:19 UTC
+# Standings for team1 as of 2026-06-07 09:58:42 UTC
 
 **Total Participants:** 1436
 
@@ -74,7 +74,7 @@
 | 66 | 854 | Eric Mcgaughy |
 | 67 | 852 | Danielle Barthelme |
 | 68 | 836 | Tiana Moore |
-| 69 | 811 | D'Andra Stewart |
+| 69 | 821 | D'Andra Stewart |
 | 70 | 805 | Weeze |
 | 71 | 803 | Kimberly Hernandez |
 | 72 | 788 | Jazzy Dashpiece |
@@ -1125,37 +1125,37 @@
 | 1117 | 22 | Iván Cedeño |
 | 1118 | 22 | Sicily Bailey |
 | 1119 | 22 | Chipper Clicker |
-| 1120 | 21 | Kikiness |
+| 1120 | 21 | jasi |
 | 1121 | 21 | Jucee |
 | 1122 | 21 | Cheeky Wipegrid |
 | 1123 | 21 | Desiree Ryder |
-| 1124 | 21 | jasi |
-| 1125 | 21 | Zappy Zoney |
+| 1124 | 21 | Zappy Zoney |
+| 1125 | 21 | Kikiness |
 | 1126 | 21 | Rachael R Gull |
 | 1127 | 21 | Christy |
-| 1128 | 21 | Tonia Lance |
-| 1129 | 21 | Samona Mcculler |
+| 1128 | 21 | Samona Mcculler |
+| 1129 | 21 | Tonia Lance |
 | 1130 | 21 | Madam Suki |
-| 1131 | 20 | Tipsy Builderline |
-| 1132 | 20 | DRIFTER |
-| 1133 | 20 | B.L. Perry |
-| 1134 | 20 | Charlean Sims |
-| 1135 | 20 | squints |
-| 1136 | 20 | Anthony Intrabartolo |
-| 1137 | 20 | Zappy Clearfit |
-| 1138 | 20 | Jonathan McKenzie |
-| 1139 | 20 | POOH |
-| 1140 | 20 | Jeffrey Pierce-Overton |
-| 1141 | 20 | Lyn Reed |
-| 1142 | 20 | Twisty Tilebuilder |
-| 1143 | 20 | Megan Payette |
+| 1131 | 20 | Twisty Tilebuilder |
+| 1132 | 20 | B.L. Perry |
+| 1133 | 20 | squints |
+| 1134 | 20 | Anthony Intrabartolo |
+| 1135 | 20 | Zappy Clearfit |
+| 1136 | 20 | Jonathan McKenzie |
+| 1137 | 20 | DRIFTER |
+| 1138 | 20 | POOH |
+| 1139 | 20 | Jeffrey Pierce-Overton |
+| 1140 | 20 | Lyn Reed |
+| 1141 | 20 | Anthony D Holmes |
+| 1142 | 20 | Megan Payette |
+| 1143 | 20 | Tipsy Builderline |
 | 1144 | 20 | Brenda Brogden |
 | 1145 | 20 | Luna Lockwood |
-| 1146 | 20 | Jhaime |
-| 1147 | 20 | Latanya Gayle |
-| 1148 | 20 | Richard Harper |
-| 1149 | 20 | Anthony D Holmes |
-| 1150 | 20 | LaSharmeika Fancher |
+| 1146 | 20 | Latanya Gayle |
+| 1147 | 20 | Richard Harper |
+| 1148 | 20 | Jhaime |
+| 1149 | 20 | LaSharmeika Fancher |
+| 1150 | 20 | Charlean Sims |
 | 1151 | 20 | Spotlight |
 | 1152 | 20 | MoneyMac |
 | 1153 | 20 | Margretta Henry |
@@ -1169,33 +1169,33 @@
 | 1161 | 20 | Lucy Range |
 | 1162 | 20 | Cherise Thomas |
 | 1163 | 20 | lizlizliz |
-| 1164 | 20 | Tangy Moore |
-| 1165 | 20 | James Dunlap |
-| 1166 | 20 | Cynthia Potter |
-| 1167 | 20 | Biggestboss Ransom |
-| 1168 | 20 | Bryttani GoingPlaces Latimer |
-| 1169 | 20 | Ebie |
-| 1170 | 20 | Chill Curvebuilder |
-| 1171 | 20 | Coco |
-| 1172 | 20 | Clipzby |
-| 1173 | 20 | Kenneth Hefney |
-| 1174 | 19 | Mark Steven Pichler |
-| 1175 | 19 | Chloe Bankz |
-| 1176 | 19 | Sagitterrorist |
-| 1177 | 19 | DeShonna Bailey |
-| 1178 | 19 | April Lane |
-| 1179 | 19 | Boricua64 |
-| 1180 | 19 | Beverly Redd-Fountain |
-| 1181 | 19 | Amanda Woodruff |
-| 1182 | 19 | Michelle Stanford-Page |
-| 1183 | 19 | Toya Draine |
-| 1184 | 19 | Elizabeth Clara |
-| 1185 | 19 | Tiffanie Michelle |
-| 1186 | 18 | Spicy Builderfit |
-| 1187 | 18 | Marie SheReady Harris |
-| 1188 | 18 | Tyree Tman Shinette |
-| 1189 | 18 | Anissa Williams |
-| 1190 | 18 | Austin Smith |
+| 1164 | 20 | James Dunlap |
+| 1165 | 20 | Cynthia Potter |
+| 1166 | 20 | Biggestboss Ransom |
+| 1167 | 20 | Bryttani GoingPlaces Latimer |
+| 1168 | 20 | Ebie |
+| 1169 | 20 | Chill Curvebuilder |
+| 1170 | 20 | Coco |
+| 1171 | 20 | Clipzby |
+| 1172 | 20 | Kenneth Hefney |
+| 1173 | 20 | Tangy Moore |
+| 1174 | 19 | Chloe Bankz |
+| 1175 | 19 | Mark Steven Pichler |
+| 1176 | 19 | Austin Smith |
+| 1177 | 19 | Sagitterrorist |
+| 1178 | 19 | DeShonna Bailey |
+| 1179 | 19 | April Lane |
+| 1180 | 19 | Boricua64 |
+| 1181 | 19 | Beverly Redd-Fountain |
+| 1182 | 19 | Amanda Woodruff |
+| 1183 | 19 | Michelle Stanford-Page |
+| 1184 | 19 | Toya Draine |
+| 1185 | 19 | Elizabeth Clara |
+| 1186 | 19 | Tiffanie Michelle |
+| 1187 | 18 | Spicy Builderfit |
+| 1188 | 18 | Marie SheReady Harris |
+| 1189 | 18 | Tyree Tman Shinette |
+| 1190 | 18 | Anissa Williams |
 | 1191 | 18 | Damien Mathews |
 | 1192 | 18 | Una |
 | 1193 | 18 | Keke |
