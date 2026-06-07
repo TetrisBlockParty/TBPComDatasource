@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:00:20 UTC
+# Standings for team2 as of 2026-06-07 09:00:42 UTC
 
 **Total Participants:** 1685
 
@@ -428,22 +428,22 @@
 | 420 | 127 | Tammy Roth |
 | 421 | 127 | Nicky Steigerwalt |
 | 422 | 127 | Tina |
-| 423 | 126 | Tamtam |
-| 424 | 125 | Kathryn |
-| 425 | 125 | Jessica Connot |
-| 426 | 125 | Wayne Johnson |
-| 427 | 124 | Jason Burris |
-| 428 | 124 | Angeleye A James |
-| 429 | 123 | Jumpy Matchbuilder |
+| 423 | 126 | Jumpy Matchbuilder |
+| 424 | 126 | Tamtam |
+| 425 | 125 | Kathryn |
+| 426 | 125 | Jessica Connot |
+| 427 | 125 | Wayne Johnson |
+| 428 | 124 | Jason Burris |
+| 429 | 124 | Angeleye A James |
 | 430 | 123 | Simone F |
-| 431 | 122 | Kevin Patrick |
-| 432 | 122 | Katie Jones |
+| 431 | 122 | Katie Jones |
+| 432 | 122 | Kevin Patrick |
 | 433 | 122 | Maria Ward |
 | 434 | 121 | Lisa Allen Frisk |
 | 435 | 120 | Starvinmarvin |
-| 436 | 120 | Kevin Mccoy |
-| 437 | 120 | Wendy McKee |
-| 438 | 120 | Christine James |
+| 436 | 120 | Wendy McKee |
+| 437 | 120 | Christine James |
+| 438 | 120 | Kevin Mccoy |
 | 439 | 120 | Keisha Robinson |
 | 440 | 120 | Carlos J Blas |
 | 441 | 120 | Nichole Wilson |
