@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 04:36:41 UTC
+# Standings for team1 as of 2026-06-07 04:37:17 UTC
 
 **Total Participants:** 1347
 
@@ -89,12 +89,12 @@
 | 81 | 660 | Eartha Brown |
 | 82 | 645 | Ebo Got-Time |
 | 83 | 637 | Dawn L Washington-Feuquay |
-| 84 | 628 | Chirpy Corner |
-| 85 | 620 | IamJust Neyamijah Washington Sr. |
-| 86 | 601 | JaszyBadd |
-| 87 | 598 | Ivana Schmidt |
-| 88 | 597 | Big Tina |
-| 89 | 591 | Bre Maugh |
+| 84 | 631 | Bre Maugh |
+| 85 | 628 | Chirpy Corner |
+| 86 | 620 | IamJust Neyamijah Washington Sr. |
+| 87 | 601 | JaszyBadd |
+| 88 | 598 | Ivana Schmidt |
+| 89 | 597 | Big Tina |
 | 90 | 587 | KenpachisGirl |
 | 91 | 586 | Kellie Hall |
 | 92 | 564 | Voice |
@@ -195,18 +195,18 @@
 | 187 | 241 | Byron Mario Cawthon |
 | 188 | 240 | Rayya Kiser |
 | 189 | 237 | David Fuentes |
-| 190 | 236 | Nutty Spinblock |
-| 191 | 236 | IThinkNot |
+| 190 | 236 | IThinkNot |
+| 191 | 236 | Nutty Spinblock |
 | 192 | 235 | Michele Simpson |
 | 193 | 234 | Eugina Slater |
-| 194 | 228 | Dacia Hicks |
-| 195 | 227 | Therealdywoune Peay |
-| 196 | 225 | Rhonda Williams Warner |
-| 197 | 222 | Mic Balew |
-| 198 | 220 | Slim Shedidthat |
-| 199 | 220 | Devin West |
-| 200 | 220 | Latisha Fairley |
-| 201 | 219 | Christina Rebecca |
+| 194 | 233 | Christina Rebecca |
+| 195 | 228 | Dacia Hicks |
+| 196 | 227 | Therealdywoune Peay |
+| 197 | 225 | Rhonda Williams Warner |
+| 198 | 222 | Mic Balew |
+| 199 | 220 | Slim Shedidthat |
+| 200 | 220 | Devin West |
+| 201 | 220 | Latisha Fairley |
 | 202 | 217 | Reginald Frank |
 | 203 | 217 | Koi |
 | 204 | 216 | Nerdy Snapfall |
@@ -323,75 +323,75 @@
 | 315 | 128 | Jack Vlasak |
 | 316 | 128 | Darrel K Pemberton |
 | 317 | 127 | Treneil Daffin |
-| 318 | 125 | Dedra M Prester |
-| 319 | 125 | Speedy Stacky |
-| 320 | 125 | Dizzy Dashy |
-| 321 | 125 | Tosha Michelle |
-| 322 | 125 | LaTonya Myers |
-| 323 | 123 | kitten |
-| 324 | 123 | Cauiasia DeJ'ae |
-| 325 | 123 | Rachael Bakowicz Edwards |
+| 318 | 125 | LaTonya Myers |
+| 319 | 125 | Dedra M Prester |
+| 320 | 125 | Tosha Michelle |
+| 321 | 125 | Speedy Stacky |
+| 322 | 125 | Dizzy Dashy |
+| 323 | 123 | Rachael Bakowicz Edwards |
+| 324 | 123 | kitten |
+| 325 | 123 | Cauiasia DeJ'ae |
 | 326 | 122 | Sarah Clark |
 | 327 | 121 | Peppy Glider |
 | 328 | 121 | Tiana Monique |
-| 329 | 121 | Bubbly Piececlear |
-| 330 | 121 | Tee Spinks |
-| 331 | 120 | Dynah Gordon |
-| 332 | 120 | Tanya Clayton |
-| 333 | 120 | rls |
+| 329 | 121 | Tee Spinks |
+| 330 | 121 | Bubbly Piececlear |
+| 331 | 120 | Tanya Clayton |
+| 332 | 120 | rls |
+| 333 | 120 | Valerie Alexander |
 | 334 | 120 | Katrina Ramey |
-| 335 | 120 | Valerie Alexander |
+| 335 | 120 | Dynah Gordon |
 | 336 | 120 | Teri Marie Clayton |
 | 337 | 120 | Guy Incognito |
 | 338 | 119 | Kelvin Cook |
 | 339 | 119 | Lexx Robins |
-| 340 | 118 | izzybella |
-| 341 | 118 | Snippy Breaker |
+| 340 | 118 | Snippy Breaker |
+| 341 | 118 | izzybella |
 | 342 | 118 | Hasty Pivoty |
 | 343 | 117 | Choc |
 | 344 | 116 | Shalya Terry |
-| 345 | 115 | wmedina67 |
-| 346 | 115 | Ashleyy Netchert |
-| 347 | 114 | Nina Davis |
-| 348 | 114 | Brittany Fells |
+| 345 | 115 | Ashleyy Netchert |
+| 346 | 115 | wmedina67 |
+| 347 | 114 | Brittany Fells |
+| 348 | 114 | Nina Davis |
 | 349 | 114 | LAhoneybun82 |
 | 350 | 113 | Faith Armone |
 | 351 | 112 | GamerQueenDS |
-| 352 | 111 | Ad Doctor |
-| 353 | 111 | Daring Blockclear |
+| 352 | 111 | Daring Blockclear |
+| 353 | 111 | Ad Doctor |
 | 354 | 110 | Nate Myers |
-| 355 | 110 | Chandler Magee |
-| 356 | 109 | Tamara Johnson-Carter |
-| 357 | 109 | Bambi Johnson |
-| 358 | 109 | Manda Allen |
-| 359 | 109 | Shanaa Germany Crittenden |
-| 360 | 109 | Cece Fowler |
-| 361 | 109 | Tamika Fisher |
-| 362 | 109 | Loopy Tiler |
-| 363 | 108 | Char |
-| 364 | 107 | Laurie Napper |
-| 365 | 106 | Mister Reid |
-| 366 | 105 | BabyCakes |
-| 367 | 105 | Maria |
-| 368 | 105 | Kelley Johnson |
-| 369 | 105 | QueenShay AllGood |
-| 370 | 105 | Nickeya Phillips |
-| 371 | 105 | Mario Meliodas |
-| 372 | 105 | Analiza Ramos |
-| 373 | 104 | Ahvae Lee |
-| 374 | 104 | Breezy Catcher |
-| 375 | 104 | Tyiesha Pie Farmer |
+| 355 | 110 | Nickeya Phillips |
+| 356 | 110 | Chandler Magee |
+| 357 | 109 | Tamara Johnson-Carter |
+| 358 | 109 | Bambi Johnson |
+| 359 | 109 | Manda Allen |
+| 360 | 109 | Shanaa Germany Crittenden |
+| 361 | 109 | Cece Fowler |
+| 362 | 109 | Tamika Fisher |
+| 363 | 109 | Loopy Tiler |
+| 364 | 108 | Char |
+| 365 | 107 | Laurie Napper |
+| 366 | 106 | Mister Reid |
+| 367 | 105 | BabyCakes |
+| 368 | 105 | Maria |
+| 369 | 105 | Mario Meliodas |
+| 370 | 105 | Analiza Ramos |
+| 371 | 105 | Kelley Johnson |
+| 372 | 105 | QueenShay AllGood |
+| 373 | 104 | Breezy Catcher |
+| 374 | 104 | Tyiesha Pie Farmer |
+| 375 | 104 | Ahvae Lee |
 | 376 | 103 | Lynnette WheelerBushnell |
 | 377 | 102 | Maribel Vasquez |
 | 378 | 102 | Sarah Steckbauer |
-| 379 | 101 | Elaine Pauley |
-| 380 | 101 | Mommy Frank |
-| 381 | 101 | Joana Thompson |
-| 382 | 100 | Kennedi Brazziel |
-| 383 | 100 | Oldheads |
+| 379 | 101 | Mommy Frank |
+| 380 | 101 | Joana Thompson |
+| 381 | 101 | Elaine Pauley |
+| 382 | 100 | Oldheads |
+| 383 | 100 | Kesha Brady |
 | 384 | 100 | $hort Dog |
-| 385 | 100 | Kesha Brady |
-| 386 | 100 | Hailey Hil |
+| 385 | 100 | Hailey Hil |
+| 386 | 100 | Kennedi Brazziel |
 | 387 | 100 | Leavon Smith |
 | 388 | 100 | Jean Regis |
 | 389 | 100 | Natasha Rucker |
@@ -404,17 +404,17 @@
 | 396 | 99 | Travis Davison |
 | 397 | 98 | Dorian Griffin |
 | 398 | 98 | Shannon Carriger |
-| 399 | 97 | Erin Sabol |
+| 399 | 97 | McKayla Owens |
 | 400 | 97 | Shanell Thomas |
 | 401 | 97 | MonaSparks |
-| 402 | 97 | Nichole Horsley-Conn |
-| 403 | 97 | Kristie |
-| 404 | 96 | Phillip Vasquez |
-| 405 | 96 | Yazz |
-| 406 | 96 | Sherri Keys |
-| 407 | 95 | Stephen Glaze |
-| 408 | 95 | Shiny Lift |
-| 409 | 95 | McKayla Owens |
+| 402 | 97 | Erin Sabol |
+| 403 | 97 | Nichole Horsley-Conn |
+| 404 | 97 | Kristie |
+| 405 | 96 | Phillip Vasquez |
+| 406 | 96 | Yazz |
+| 407 | 96 | Sherri Keys |
+| 408 | 95 | Stephen Glaze |
+| 409 | 95 | Shiny Lift |
 | 410 | 94 | Derald Miller |
 | 411 | 94 | Ta'Kaiyah M. Spann |
 | 412 | 94 | Slinky Brickmatch |
