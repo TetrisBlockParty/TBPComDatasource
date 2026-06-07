@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:00:39 UTC
+# Standings for team1 as of 2026-06-07 11:01:18 UTC
 
 **Total Participants:** 1443
 
@@ -59,8 +59,8 @@
 | 51 | 1067 | Catara Renae Oliver |
 | 52 | 1052 | Shortstak |
 | 53 | 1046 | Spicy Balancer |
-| 54 | 1024 | Chill Clusterer |
-| 55 | 1022 | D'Andra Stewart |
+| 54 | 1042 | D'Andra Stewart |
+| 55 | 1024 | Chill Clusterer |
 | 56 | 998 | Angela R Wilson |
 | 57 | 970 | Danielle DeLozier Plesec |
 | 58 | 961 | Sanjuro |
@@ -75,8 +75,8 @@
 | 67 | 863 | Court Court |
 | 68 | 854 | Eric Mcgaughy |
 | 69 | 842 | Lisa Müller |
-| 70 | 836 | Tiana Moore |
-| 71 | 827 | Weeze |
+| 70 | 839 | Weeze |
+| 71 | 836 | Tiana Moore |
 | 72 | 803 | Kimberly Hernandez |
 | 73 | 788 | Jazzy Dashpiece |
 | 74 | 784 | Todd C. Clemens |
@@ -176,21 +176,21 @@
 | 168 | 297 | Tammye Turner |
 | 169 | 296 | Tamara N Lee |
 | 170 | 296 | Rolanda Williams |
-| 171 | 293 | Calvin Green |
-| 172 | 291 | Brian Taylor |
-| 173 | 290 | Eugina Slater |
-| 174 | 290 | Cee Emm |
+| 171 | 293 | Cee Emm |
+| 172 | 293 | Calvin Green |
+| 173 | 291 | Brian Taylor |
+| 174 | 290 | Eugina Slater |
 | 175 | 290 | Kaleisha Smith |
 | 176 | 290 | Frisky Fallmatch |
 | 177 | 287 | Rackemwillie34 |
-| 178 | 285 | Helen Smith |
-| 179 | 285 | Ashley MyBeauty Daniels |
-| 180 | 285 | Marcheta Cervantez |
+| 178 | 285 | Ashley MyBeauty Daniels |
+| 179 | 285 | Marcheta Cervantez |
+| 180 | 285 | Helen Smith |
 | 181 | 284 | Karebear |
 | 182 | 278 | Sharon Cail |
 | 183 | 277 | Tonya Lee Sanders |
-| 184 | 276 | Cortaz Lawrie |
-| 185 | 276 | Devin West |
+| 184 | 276 | Devin West |
+| 185 | 276 | Cortaz Lawrie |
 | 186 | 275 | Jawaun Daniels |
 | 187 | 275 | Chris Sladoje |
 | 188 | 274 | NastyFriend |
@@ -577,30 +577,30 @@
 | 569 | 78 | Azeiare Ziare |
 | 570 | 78 | Rachel Renae Bettis |
 | 571 | 78 | Smiley3000 |
-| 572 | 78 | Solomon Valarie |
-| 573 | 77 | Dana Hawes |
-| 574 | 77 | EvaLynn NeCole |
-| 575 | 77 | Kahh |
-| 576 | 76 | Essence Jones |
-| 577 | 76 | Paul Pendley |
-| 578 | 76 | Terrance Tindall |
-| 579 | 76 | Giggly Shatterline |
+| 572 | 78 | Bold Clusterer |
+| 573 | 78 | Solomon Valarie |
+| 574 | 77 | Dana Hawes |
+| 575 | 77 | EvaLynn NeCole |
+| 576 | 77 | Kahh |
+| 577 | 76 | Essence Jones |
+| 578 | 76 | Paul Pendley |
+| 579 | 76 | Terrance Tindall |
 | 580 | 76 | Angelique Talbot |
-| 581 | 76 | Bold Clusterer |
+| 581 | 76 | Giggly Shatterline |
 | 582 | 76 | lady |
-| 583 | 75 | Angie Lebron |
-| 584 | 75 | Jennifer Moore |
-| 585 | 75 | Erika |
-| 586 | 75 | sasha |
-| 587 | 75 | Jimmy Shannon |
-| 588 | 75 | MzJuice Box |
+| 583 | 75 | Jennifer Moore |
+| 584 | 75 | Erika |
+| 585 | 75 | sasha |
+| 586 | 75 | Jimmy Shannon |
+| 587 | 75 | MzJuice Box |
+| 588 | 75 | Angie Lebron |
 | 589 | 75 | Courtney Robinson |
 | 590 | 74 | Cortrell Foster |
-| 591 | 74 | Nichelle Warren |
-| 592 | 74 | Casey Chapman |
-| 593 | 74 | Sabrina Wilkerson |
-| 594 | 74 | Sunny Clicky |
-| 595 | 74 | Tetrisdestroyer |
+| 591 | 74 | Tetrisdestroyer |
+| 592 | 74 | Nichelle Warren |
+| 593 | 74 | Casey Chapman |
+| 594 | 74 | Sabrina Wilkerson |
+| 595 | 74 | Sunny Clicky |
 | 596 | 74 | Renee Marshall |
 | 597 | 74 | Kimmie Gargano |
 | 598 | 74 | Glitzy Clusterer |

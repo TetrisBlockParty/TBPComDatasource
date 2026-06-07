@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 11:00:39 UTC
+# Standings for team2 as of 2026-06-07 11:01:18 UTC
 
 **Total Participants:** 1703
 
@@ -166,13 +166,13 @@
 | 158 | 375 | MaddieCherie |
 | 159 | 375 | Milad Arzani |
 | 160 | 365 | Branden Frankowski |
-| 161 | 360 | Jacob Carpenter |
-| 162 | 359 | Sarah Mccolgan |
-| 163 | 357 | Erin Thomas |
-| 164 | 357 | Crystal Allen |
-| 165 | 356 | Joni Michelle Morgan |
-| 166 | 354 | Zesty Strikerbuilder |
-| 167 | 350 | Amy Gregg |
+| 161 | 360 | Amy Gregg |
+| 162 | 360 | Jacob Carpenter |
+| 163 | 359 | Sarah Mccolgan |
+| 164 | 357 | Erin Thomas |
+| 165 | 357 | Crystal Allen |
+| 166 | 356 | Joni Michelle Morgan |
+| 167 | 354 | Zesty Strikerbuilder |
 | 168 | 348 | Eric Drane |
 | 169 | 347 | Traci Abern |
 | 170 | 343 | Jason Cook |
@@ -358,26 +358,26 @@
 | 350 | 164 | Aldotfus Williams |
 | 351 | 164 | Elliott Mikila |
 | 352 | 164 | Cara Rivera |
-| 353 | 163 | Zany Cascader |
-| 354 | 162 | Lisa Allen Frisk |
-| 355 | 162 | Wacky Holder |
-| 356 | 161 | Silly Tiltbuilder |
-| 357 | 161 | Rydin Dirt |
-| 358 | 161 | Erica South |
-| 359 | 160 | Elizabeth Cornelius |
-| 360 | 160 | Camilo Moreno |
-| 361 | 160 | Billie Jensen |
-| 362 | 160 | Jaimie Walters |
-| 363 | 160 | Joannah Capilitan |
+| 353 | 163 | Joannah Capilitan |
+| 354 | 163 | Zany Cascader |
+| 355 | 162 | Lisa Allen Frisk |
+| 356 | 162 | Wacky Holder |
+| 357 | 161 | Erica South |
+| 358 | 161 | Silly Tiltbuilder |
+| 359 | 161 | Rydin Dirt |
+| 360 | 160 | Billie Jensen |
+| 361 | 160 | Jaimie Walters |
+| 362 | 160 | Camilo Moreno |
+| 363 | 160 | Elizabeth Cornelius |
 | 364 | 159 | Jennifer Vitro |
 | 365 | 159 | Misty Noe |
 | 366 | 158 | Rachel Nilles |
 | 367 | 158 | KazzyKay |
 | 368 | 156 | Tango Sierra |
-| 369 | 156 | meg |
-| 370 | 156 | Jamie Fenyus |
-| 371 | 156 | Monique Frantz |
-| 372 | 156 | Charlotte Castelli |
+| 369 | 156 | Charlotte Castelli |
+| 370 | 156 | meg |
+| 371 | 156 | Jamie Fenyus |
+| 372 | 156 | Monique Frantz |
 | 373 | 154 | murd3rmous3 |
 | 374 | 153 | Cortney Coleman |
 | 375 | 151 | Amy Lea Hamilton |
