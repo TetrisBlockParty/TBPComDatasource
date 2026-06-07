@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 10:27:19 UTC
+# Standings for team4 as of 2026-06-07 10:28:19 UTC
 
 **Total Participants:** 1442
 
@@ -264,8 +264,8 @@
 | 256 | 175 | Jackie Miller |
 | 257 | 174 | Clashy |
 | 258 | 173 | Ashley Mcdonald |
-| 259 | 172 | No Time |
-| 260 | 172 | Kelly Howland |
+| 259 | 173 | Kelly Howland |
+| 260 | 172 | No Time |
 | 261 | 171 | Karen Davis |
 | 262 | 171 | Bridget Stevens |
 | 263 | 169 | Miwa |
@@ -341,23 +341,23 @@
 | 333 | 131 | Lanelva Tiredofbs Marshall |
 | 334 | 130 | Maurice DeJean |
 | 335 | 130 | Bhakti Sawarkar |
-| 336 | 129 | Has2brat |
-| 337 | 129 | Simone |
-| 338 | 129 | Dizzy Slammer |
+| 336 | 129 | Simone |
+| 337 | 129 | Dizzy Slammer |
+| 338 | 129 | Has2brat |
 | 339 | 129 | Shauna Davis |
-| 340 | 128 | Juvon SupaShawdii Brooks |
-| 341 | 128 | Lana Tran |
+| 340 | 128 | Lana Tran |
+| 341 | 128 | Juvon SupaShawdii Brooks |
 | 342 | 128 | Sherry Mooney |
 | 343 | 127 | Jen Smith |
-| 344 | 127 | Cheeky Climber |
-| 345 | 127 | zoes |
-| 346 | 126 | Corie A. Brinson |
-| 347 | 126 | Karen Small |
+| 344 | 127 | zoes |
+| 345 | 127 | Cheeky Climber |
+| 346 | 126 | Karen Small |
+| 347 | 126 | Corie A. Brinson |
 | 348 | 124 | Shanna Fragen |
 | 349 | 124 | Bammer |
 | 350 | 124 | Tasha Suzanne Prisbrey |
-| 351 | 122 | Ginny |
-| 352 | 122 | Rita Ann |
+| 351 | 123 | Rita Ann |
+| 352 | 122 | Ginny |
 | 353 | 121 | Jeff Margolis |
 | 354 | 121 | Jazzy Gridder |
 | 355 | 121 | Jennifer Fisher Franklin |
